@@ -1,12 +1,12 @@
 Article 2 duodecies A
 ----
-Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code
+Pour l'application du troisième alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a. Pour les baux conclus, reconduits ou renouvelés en 2006, les plafonds de
-loyer mensuel, charges non comprises, sont fixés à 9,18 euros par mètre carré en
-zone A, 5,20 euros en zone B et 4,65 euros en zone C. Les plafonds sont relevés
+a. Pour les baux conclus, reconduits ou renouvelés en 2007, les plafonds de
+loyer mensuel, charges non comprises, sont fixés à 9,44 euros par mètre carré en
+zone A, 5,35 euros en zone B et 4,78 euros en zone C. Les plafonds sont relevés
 chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de
 loyer prévus à l'article 2 duodecies.
 
@@ -19,9 +19,9 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis
 d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle
 pour laquelle la location à ce locataire ouvre droit pour la première fois à la
-déduction forfaitaire majorée.
+déduction calculée en fonction du revenu brut.
 
-Pour les baux conclus, reconduits ou renouvelés en 2006, les plafonds annuels de
+Pour les baux conclus, reconduits ou renouvelés en 2007, les plafonds annuels de
 ressources sont les suivants :
 
 
@@ -32,70 +32,70 @@ COMPOSITION DU FOYER LOCATAIRE : Personne seule
 
 LIEU DE LA LOCATION
 
-Zone A : 16 134
+Zone A : 16 617
 
-Zone B : 12 471
+Zone B : 12 844
 
-Zone C : 10 911
+Zone C : 11 238
 
-COMPOSITION DU FOYER LOCATAIRE : Couple marié
-
-
-LIEU DE LA LOCATION
-
-Zone A : 24 114
-
-Zone B : 16 651
-
-Zone C : 14 667
-
-COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant une
-personne à charge
+COMPOSITION DU FOYER LOCATAIRE : Couple
 
 
 LIEU DE LA LOCATION
 
-Zone A : 28 987
+Zone A : 24 835
 
-Zone B : 20 026
+Zone B : 17 149
 
-Zone C : 17 559
+Zone C : 15 106
 
-COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant deux
-personnes à charge
-
-
-LIEU DE LA LOCATION
-
-Zone A : 34 720
-
-Zone B : 24 175
-
-Zone C : 21 250
-
-COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant trois
-personnes à charge
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple ayant une personne à
+charge
 
 
 LIEU DE LA LOCATION
 
-Zone A : 41 102
+Zone A : 29 854
 
-Zone B : 28 438
+Zone B : 20 625
 
-Zone C : 24 941
+Zone C : 18 084
 
-COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant quatre
-personnes à charge
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple ayant deux personnes à
+charge
 
 
 LIEU DE LA LOCATION
 
-Zone A : 46 252
+Zone A : 35 758
 
-Zone B : 32 048
+Zone B : 24 898
 
-Zone C : 28 133
+Zone C : 21 886
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple ayant trois personnes
+à charge
+
+
+LIEU DE LA LOCATION
+
+Zone A : 42 331
+
+Zone B : 29 288
+
+Zone C : 25 687
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple ayant quatre personnes
+à charge
+
+
+LIEU DE LA LOCATION
+
+Zone A : 47 635
+
+Zone B : 33 006
+
+Zone C : 28 974
 
 COMPOSITION DU FOYER LOCATAIRE : Majoration par personne à charge à partir de la
 cinquième
@@ -103,11 +103,11 @@ cinquième
 
 LIEU DE LA LOCATION
 
-Zone A : + 5 154
+Zone A : + 5 309
 
-Zone B : + 3 574
+Zone B : + 3 681
 
-Zone C : + 3 196
+Zone C : + 3 292
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de ressources prévus à l'article 2 duodecies.
