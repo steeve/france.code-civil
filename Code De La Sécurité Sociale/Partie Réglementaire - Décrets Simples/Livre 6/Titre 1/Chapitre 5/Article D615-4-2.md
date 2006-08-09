@@ -8,7 +8,12 @@ activité :
 1° A la mère, pendant au moins trente jours consécutifs compris dans la période
 commençant trente jours avant la date présumée de l'accouchement et se terminant
 trente jours après ; cette période d'indemnisation peut être prolongée, à la
-demande de l'assurée, par une ou deux périodes de quinze jours consécutifs ;
+demande de l'assurée, par une ou deux périodes de quinze jours consécutifs.
+
+En cas d'accouchement plus de six semaines avant la date initialement prévue et
+exigeant l'hospitalisation postnatale de l'enfant, la période d'indemnisation
+est augmentée du nombre de jours courant de la date effective de l'accouchement
+au début de la période de trente jours précédant la date initialement prévue.
 
 2° Au père, pendant onze jours consécutifs au plus, ou dix-huit jours
 consécutifs au plus en cas de naissances ou d'adoptions multiples, débutant dans

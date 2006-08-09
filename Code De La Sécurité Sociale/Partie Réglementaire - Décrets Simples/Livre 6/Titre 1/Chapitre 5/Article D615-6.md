@@ -9,7 +9,13 @@ habituellement :
 1° Pour les mères, pendant sept jours au moins compris dans la période
 commençant six semaines avant la date présumée de l'accouchement et se terminant
 dix semaines après ; la durée maximale de versement est de vingt-huit jours, ou
-sur demande de l'intéressée de cinquante-six jours, consécutifs ou non ;
+sur demande de l'intéressée de cinquante-six jours, consécutifs ou non.
+
+En cas d'accouchement plus de six semaines avant la date initialement prévue et
+exigeant l'hospitalisation postnatale de l'enfant, la période de versement de
+l'indemnité complémentaire est augmentée du nombre de jours courant de la date
+effective de l'accouchement au début de la période de six semaines précédant la
+date initialement prévue.
 
 2° Pour les mères adoptantes, pendant sept jours au moins à compter de la date
 d'arrivée de l'enfant au foyer ; la durée maximale de versement est égale à la
