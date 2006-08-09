@@ -1,7 +1,7 @@
 Article 2 sexdecies-0 A
 ----
-I. - Pour l'application du sixième alinéa du e du 1° du I de l'article 31 du
-code général des impôts, les conditions prévues au cinquième alinéa du e du 1°
+I. - Pour l'application du quatrième alinéa du j du 1° du I de l'article 31 du
+code général des impôts, les conditions prévues au troisième alinéa du j du 1°
 du I du même article s'apprécient en tenant compte du montant :
 
 a. Du loyer payé au bailleur par l'organisme sans but lucratif locataire ;
@@ -13,7 +13,7 @@ c. Des ressources de la personne occupant le logement.
 
 II. - Les contribuables doivent joindre à leur déclaration des revenus de
 l'année au cours de laquelle la location à cet organisme ouvre droit pour la
-première fois à la déduction forfaitaire majorée :
+première fois à la déduction calculée en fonction du revenu brut :
 
 a. La note annexe prévue au I de l'article 2 quaterdecies A complétée du nom du
 sous-locataire et des nom et adresse de l'organisme ;
@@ -23,8 +23,8 @@ b. Une copie du bail conclu avec l'organisme locataire ;
 c. Le cas échéant, une copie de l'avis d'impôt sur le revenu du sous-locataire
 établi au titre de l'avant-dernière année précédant celle pour laquelle la
 location à cet organisme ouvre droit pour la première fois à la déduction
-forfaitaire majorée ainsi qu'un document faisant mention du montant du loyer
-payé par la personne occupant le logement.
+calculée en fonction du revenu brut ainsi qu'un document faisant mention du
+montant du loyer payé par la personne occupant le logement.
 
 III. - Si le bail ou le contrat de sous-location n'est pas signé à la date de la
 déclaration susmentionnée, les documents énumérés aux b et c du II sont joints à

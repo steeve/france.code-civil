@@ -1,14 +1,14 @@
 Article 2 sexdecies
 ----
-Pour l'application du troisième alinéa du e et du deuxième alinéa du g du 1° du
-I de l'article 31 du code général des impôts :
+Pour l'application du deuxième alinéa du j et du deuxième alinéa du g du 1° du I
+de l'article 31 du code général des impôts :
 
 1° Le personnel des organismes publics ou privés, sous-locataire du logement,
 s'entend des personnes employées par ces organismes et dont les rémunérations
 principales entrent dans la catégorie des traitements et salaires au sens de
 l'article 79 du code général des impôts ;
 
-2° Les conditions prévues au deuxième alinéa du e et au deuxième alinéa du g du
+2° Les conditions prévues au premier alinéa du j et au deuxième alinéa du g du
 1° du I de l'article 31 du code général des impôts s'apprécient en tenant compte
 du montant :
 
@@ -20,10 +20,10 @@ c) Des ressources du sous-locataire ;
 
 3° Les contribuables doivent joindre à leur déclaration des revenus de l'année
 au cours de laquelle a pris effet la location dont les revenus peuvent
-bénéficier de la déduction forfaitaire majorée ou, pour l'application du régime
-de la déduction au titre de l'amortissement, à leur déclaration des revenus de
-l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure
-:
+bénéficier de la déduction calculée en fonction du revenu brut ou, pour
+l'application du régime de la déduction au titre de l'amortissement, à leur
+déclaration des revenus de l'année d'achèvement de l'immeuble ou de son
+acquisition si elle est postérieure :
 
 a) La note annexe prévue au I de l'article 2 quaterdecies ou au 1° du I de
 l'article 2 quindecies complétée du nom du sous-locataire et des nom et adresse

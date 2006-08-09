@@ -12,8 +12,8 @@ elle est admise dans la proportion existant entre, d'une part, le nombre de mois
 compris entre le 1er janvier et le premier jour du mois au cours duquel expire
 l'annuité d'amortissement et, d'autre part, le nombre 12.
 
-Lorsque le taux d'amortissement est réduit de 8 % à 2,5 % en cours d'année,
-chaque période est décomptée selon les modalités définies aux premier et
-deuxième alinéas. Il en est de même l'année de reprise de l'engagement par le
-conjoint survivant prévue aux cinquième et dixième alinéas du g et aux cinquième
-et onzième alinéas du h du 1° du I de l'article 31 du code général des impôts.
+Lorsque le taux d'amortissement est réduit en cours d'année, chaque période est
+décomptée selon les modalités définies aux premier et deuxième alinéas. Il en
+est de même l'année de reprise de l'engagement par le conjoint survivant prévue
+aux cinquième et dixième alinéas du g et aux cinquième et onzième alinéas du h
+du 1° du I de l'article 31 du code général des impôts.
