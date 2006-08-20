@@ -15,3 +15,6 @@ des notes conservées et des notes obtenues aux épreuves nouvellement subies.
 
 Le renoncement à ce bénéfice est définitif et seules les notes obtenues
 ultérieurement sont prises en compte pour l'attribution du diplôme.
+
+Les dispositions de l'article D. 336-14 s'appliquent au baccalauréat
+technologique série " hôtellerie ".

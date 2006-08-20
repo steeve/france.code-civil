@@ -1,10 +1,13 @@
 Article R241-48
 ----
 I. - Tout salarié fait l'objet d'un examen médical avant l'embauchage ou au plus
-tard avant l'expiration de la période d'essai qui suit l'embauchage [*période*].
+tard avant l'expiration de la période d'essai qui suit l'embauchage.
 
-Le salarié soumis à une surveillance médicale spéciale définie à l'article R.
-241-50 bénéficie obligatoirement de cet examen avant son embauchage.
+Les salariés soumis à une surveillance médicale renforcée en application des
+dispositions de l'article R. 241-50 du présent code ainsi que les salariés qui
+exercent l'une des fonctions énumérées à l'article L. 421-1 du code de
+l'aviation civile bénéficient obligatoirement de cet examen avant leur
+embauchage.
 
 L'examen médical a pour but :
 
@@ -27,9 +30,9 @@ conditions suivantes sont réunies :
 établie en application de l'article R. 241-57 ;
 
 3° Aucune inaptitude n'a été reconnue lors du dernier examen médical intervenu
-au cours soit des douze mois précédents [*période*] si le salarié est à nouveau
-embauché par le même employeur, soit des six derniers mois lorsque le salarié
-change d'entreprise.
+au cours soit des douze mois précédents si le salarié est à nouveau embauché par
+le même employeur, soit des six derniers mois lorsque le salarié change
+d'entreprise.
 
 Les dispositions des quatre alinéas précédents ne sont pas applicables aux
 salariés bénéficiant d'une surveillance médicale prévue par les règlements pris

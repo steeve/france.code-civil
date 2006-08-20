@@ -14,12 +14,12 @@ Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives
 correspondant aux options.
 
 La liste, la nature, la durée et le coefficient des épreuves des différentes
-séries sont fixés par arrêtés du ministre chargé de l'éducation ou, pour les
-séries STAE et STPA, par arrêté du ministre chargé de l'éducation et du ministre
-chargé de l'agriculture. Les conditions dans lesquelles la note attribuée à
-certaines épreuves peut prendre en compte des résultats obtenus en cours d'année
-scolaire sont définies par arrêté du ministre chargé de l'éducation ou, pour les
-séries STAE et STPA, par arrêté du ministre chargé de l'agriculture.
+séries sont fixés par arrêtés du ministre chargé de l'éducation ou, pour la
+série STAV, par arrêté du ministre chargé de l'éducation et du ministre chargé
+de l'agriculture. Les conditions dans lesquelles la note attribuée à certaines
+épreuves peut prendre en compte des résultats obtenus en cours d'année scolaire
+sont définies par arrêté du ministre chargé de l'éducation ou, pour la série
+STAV, par arrêté du ministre chargé de l'agriculture.
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte,
 pour les élèves des classes terminales des lycées d'enseignement public et des
@@ -28,10 +28,11 @@ prévu par l'article L. 331-1. Pour les autres candidats, la note résulte d'un
 examen terminal.
 
 La liste des langues que les candidats peuvent choisir à l'examen est fixée par
-arrêté du ministre chargé de l'éducation ou, pour les séries STAE, STPA, par
-arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture.
+arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du
+ministre chargé de l'éducation et du ministre chargé de l'agriculture.
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des
 épreuves obligatoires sous réserve des dispositions prévues aux articles D.
 336-6, D. 336-7, D. 336-13 et D. 336-14 et au dernier alinéa de l'article D.
-336-18.
+336-18 et sous réserve de dispositions particulières prévues par arrêté du
+ministre chargé de l'éducation.

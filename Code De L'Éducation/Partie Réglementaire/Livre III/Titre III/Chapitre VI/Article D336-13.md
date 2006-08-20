@@ -1,12 +1,14 @@
 Article D336-13
 ----
 Les candidats non scolarisés, salariés, stagiaires de la formation
-professionnelle continue, demandeurs d'emploi peuvent conserver, sur leur
-demande et pour chacune des épreuves du premier groupe, dans la limite des cinq
-sessions suivant la première session à laquelle ils se sont présentés, en tant
-que candidats scolarisés ou relevant des catégories énumérées au présent alinéa,
-le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne
-subissent alors que les autres épreuves.
+professionnelle continue, demandeurs d'emploi ainsi que les candidats scolarisés
+inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé
+des sports peuvent conserver, sur leur demande et pour chacune des épreuves du
+premier groupe, dans la limite des cinq sessions suivant la première session à
+laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des
+catégories énumérées au présent alinéa, le bénéfice des notes égales ou
+supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
+épreuves.
 
 Les dispositions du premier alinéa du présent article ne s'appliquent qu'aux
 candidats qui se présentent dans la même série que celle où ils ont obtenu des
