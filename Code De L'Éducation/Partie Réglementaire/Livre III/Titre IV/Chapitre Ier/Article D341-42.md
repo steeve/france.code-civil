@@ -6,3 +6,7 @@ examen et des résultats acquis en cours de formation aux candidats des
 prévus aux articles L. 813-1 et L. 813-3 du code rural, scolarisés dans des
 classes de troisième définies par arrêté ou ayant préparé le brevet par la voie
 de la formation continue.
+
+Est également prise en compte, pour l'attribution du diplôme national du brevet,
+une note de vie scolaire qui est la moyenne des notes de vie scolaire obtenues
+chaque trimestre de la classe de troisième.
