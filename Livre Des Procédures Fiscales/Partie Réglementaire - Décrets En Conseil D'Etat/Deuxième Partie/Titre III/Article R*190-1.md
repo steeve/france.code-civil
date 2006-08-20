@@ -18,16 +18,21 @@ territoire de laquelle se trouve le siège de l'exploitation ou, à défaut de
 siège, la partie des biens présentant le plus grand revenu d'après la matrice
 cadastrale.
 
-Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant
-d'une direction régionale, d'une direction spécialisée ou d'un service à
-compétence nationale, la réclamation est adressée au directeur chargé de ces
-directions ou de ce service.
+Lorsque l'imposition contestée a été établie à l'initiative d'une direction des
+services fiscaux ou d'une direction des services déconcentrés de la direction
+générale des douanes et droits indirects autre que celle dont dépend le lieu de
+l'imposition, d'une direction spécialisée ou d'un service à compétence
+nationale, la réclamation est adressée au directeur chargé de cette direction ou
+de ce service.
 
 Les entreprises mentionnées aux deuxième à septième alinéas du I de l'article
 1649 quater B quater du code général des impôts adressent au service chargé des
 grandes entreprises l'ensemble des réclamations portant sur les impôts qui
 relèvent de sa compétence ainsi que sur les dégrèvements prévus en matière de
 taxe professionnelle aux articles 1647 bis et 1647 B sexies, quelle que soit la
-période sur laquelle portent ces réclamations.
+période sur laquelle portent ces réclamations. Toutefois, les réclamations
+portant sur une imposition dont l'assiette a été établie à l'initiative d'une
+direction des services fiscaux, d'une direction spécialisée ou d'un autre
+service à compétence nationale sont adressées à cette direction ou à ce service.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
