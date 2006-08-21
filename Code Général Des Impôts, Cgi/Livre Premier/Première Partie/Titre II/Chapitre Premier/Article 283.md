@@ -4,6 +4,12 @@ Article 283
 réalisent les opérations imposables, sous réserve des cas visés aux articles 274
 à 277 A où le versement de la taxe peut être suspendu.
 
+Toutefois, lorsque la livraison de biens ou la prestation de services est
+effectuée par un assujetti établi hors de France, la taxe est acquittée par
+l'acquéreur, le destinataire ou le preneur qui dispose d'un numéro
+d'identification à la taxe sur la valeur ajoutée en France. Le montant dû est
+identifié sur la déclaration mentionnée à l'article 287.
+
 2. Pour les opérations imposables mentionnées aux 3°, 4° bis, 5° et 6° de
 l'article 259 A et réalisées par un prestataire établi hors de France, ainsi que
 pour celles qui sont mentionnées à l'article 259 B, la taxe doit être acquittée

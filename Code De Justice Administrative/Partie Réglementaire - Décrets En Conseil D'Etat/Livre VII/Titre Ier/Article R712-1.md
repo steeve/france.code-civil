@@ -15,4 +15,7 @@ décision du président de la section du contentieux.
 Les parties qui ne sont pas représentées par un avocat au Conseil d'Etat et à la
 Cour de cassation sont informées de l'inscription au rôle de leur affaire.
 
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R.
+731-3, R. 733-1, R. 733-2 et R. 733-3.
+
 Les rôles sont affichés au secrétariat du contentieux.
