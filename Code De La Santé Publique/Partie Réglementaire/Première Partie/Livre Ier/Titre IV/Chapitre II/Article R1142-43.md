@@ -28,7 +28,7 @@ i) Le directeur général de la forêt et des affaires rurales ou son représent
 j) Le directeur général de l'industrie, des technologies de l'information et des
 postes ou son représentant ;
 
-k) Le directeur des relations du travail ou son représentant ;
+k) Le directeur général du travail ou son représentant ;
 
 2° Neuf membres, désignés par arrêté du ministre chargé de la santé, pour une
 durée de trois ans renouvelable, soit :

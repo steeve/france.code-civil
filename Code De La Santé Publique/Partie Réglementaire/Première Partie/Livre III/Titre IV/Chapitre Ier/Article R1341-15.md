@@ -53,7 +53,7 @@ j) Un spécialiste des effets à long terme des produits chimiques ;
 3° Cinq membres nommés en raison de leur qualification particulière, sur
 proposition respectivement du :
 
-a) Le directeur des relations du travail au ministère du travail ;
+a) Le directeur général du travail au ministère du travail ;
 
 b) Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes au ministère de l'économie et des finances ;

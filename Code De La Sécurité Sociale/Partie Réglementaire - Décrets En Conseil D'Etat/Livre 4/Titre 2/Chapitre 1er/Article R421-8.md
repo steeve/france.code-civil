@@ -11,9 +11,9 @@ proposition des organisations syndicales de salariés, représentatives sur le
 plan national. Des membres suppléants en nombre égal à celui des titulaires sont
 désignés dans les mêmes conditions. Le mandat des membres est renouvelable.
 
-Le directeur de la sécurité sociale, le directeur des relations du travail, le
-chef du service de l'inspection médicale du travail ou leur représentant
-assistent avec voix consultative aux séances des comités techniques nationaux.
+Le directeur de la sécurité sociale, le directeur général du travail, le chef du
+service de l'inspection médicale du travail ou leur représentant assistent avec
+voix consultative aux séances des comités techniques nationaux.
 
 Les comités peuvent s'adjoindre des spécialistes des questions de prévention des
 accidents du travail et des maladies professionnelles.

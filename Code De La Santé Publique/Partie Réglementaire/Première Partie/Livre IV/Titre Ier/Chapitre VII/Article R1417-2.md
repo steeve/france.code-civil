@@ -14,7 +14,7 @@ c) Le directeur général de l'action sociale ou son représentant ;
 d) Le directeur de l'administration générale, du personnel et du budget au
 ministère de la santé ou son représentant ;
 
-e) Le directeur des relations du travail ou son représentant ;
+e) Le directeur général du travail ou son représentant ;
 
 f) Le directeur de la sécurité sociale ou son représentant ;
 

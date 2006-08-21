@@ -15,7 +15,7 @@ du ministère de la santé ou son représentant ;
 d) Le directeur de l'administration générale, du personnel et du budget du
 ministère de la santé ou son représentant ;
 
-e) Le directeur des relations du travail ou son représentant ;
+e) Le directeur général du travail ou son représentant ;
 
 f) Le directeur de la recherche du ministère de la recherche ou son représentant
 ;
