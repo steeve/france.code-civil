@@ -2,7 +2,7 @@ Article R231-17
 ----
 I. - Les quatorze membres mentionnés au 1° de l'article R. 231-16 sont :
 
-1° Le directeur des relations du travail ou son représentant ;
+1° Le directeur général du travail ou son représentant ;
 
 2° Le directeur général de la santé ou son représentant ;
 
@@ -81,7 +81,7 @@ Le mandat des personnes désignées en raison de leur compétence est de trois a
 en remplacement est désigné pour la période restant à courir.
 
 VI - Le conseil supérieur se réunit au moins une fois par an sur convocation du
-ministre chargé du travail [*périodicité*]. Il est réuni obligatoirement sur la
+ministre chargé du travail *périodicité*. Il est réuni obligatoirement sur la
 demande de la moitié de ses membres.
 
 L'ordre du jour de la réunion est fixé par le ministre. Sauf urgence, l'ordre du

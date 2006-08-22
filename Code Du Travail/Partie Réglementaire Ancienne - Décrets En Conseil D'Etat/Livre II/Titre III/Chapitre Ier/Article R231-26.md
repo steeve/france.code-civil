@@ -5,13 +5,13 @@ présidée par le ministre chargé de l'agriculture ou, à défaut, par un membr
 Conseil d'Etat, vice-président de la commission, désigné sur proposition du
 vice-président du Conseil d'Etat.
 
-Elle se compose en outre de [*composition - membres*] :
+Elle se compose en outre de :
 
 1° Six membres représentant les départements ministériels déterminés ainsi qu'il
 suit :
 
-a) Au titre du ministère chargé du travail, le directeur des relations du
-travail ou son représentant ;
+a) Au titre du ministère chargé du travail, le directeur général du travail ou
+son représentant ;
 
 b) Au titre du ministère chargé de la santé, le directeur général de la santé ou
 son représentant ;
@@ -40,4 +40,4 @@ organisations d'employeurs agricoles les plus représentatives au plan national.
 
 Le vice-président de la commission nationale ainsi que les membres de la
 commission nationale mentionnés aux 2°, 3°, 4° et 5° ci-dessus sont nommés pour
-trois ans [*durée*] par arrêté du ministre chargé de l'agriculture.
+trois ans par arrêté du ministre chargé de l'agriculture.

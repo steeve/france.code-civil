@@ -4,12 +4,12 @@ La commission permanente est présidée par le ministre chargé du travail ou, �
 défaut, par le président de la section sociale du Conseil d'Etat, vice-président
 du conseil supérieur.
 
-La commission permanente comprend en outre [*composition*] :
+La commission permanente comprend en outre :
 
 1° Cinq membres du conseil supérieur représentant les administrations et
 organismes nationaux :
 
-a) Le directeur des relations du travail ou son représentant ;
+a) Le directeur général du travail ou son représentant ;
 
 b) Le directeur des affaires sociales au ministère de l'agriculture ou son
 représentant ;
@@ -56,5 +56,5 @@ le représentant des entreprises publiques est désigné après consultation du
 conseil national du patronat français.
 
 La commission permanente se réunit au moins deux fois par an sur convocation du
-ministre chargé du travail ou sur demande de la moitié de ses membres
-[*périodicité*]. L'ordre du jour des réunions est fixé par le ministre.
+ministre chargé du travail ou sur demande de la moitié de ses membres. L'ordre
+du jour des réunions est fixé par le ministre.
