@@ -1,12 +1,12 @@
 Article 164 AD bis
 ----
-Sous réserve des dispositions de l'article 50 duodecies B, toute personne qui
-désire être autorisée à utiliser les machines à timbrer, au titre d'une activité
-soumise à la réglementation des contributions indirectes, et donc n'entrant pas
-dans le champ d'application de l'article 164 AD, doit présenter toutes garanties
-d'honorabilité et de solvabilité et en faire la demande, sur un imprimé fourni
-par l'administration, auprès de l'administration des douanes et droits indirects
-en précisant l'usage auquel est destinée la machine.
+Toute personne qui désire être autorisée à utiliser les machines à timbrer, au
+titre d'une activité soumise à la réglementation des contributions indirectes,
+et donc n'entrant pas dans le champ d'application de l'article 164 AD, doit
+présenter toutes garanties d'honorabilité et de solvabilité et en faire la
+demande, sur un imprimé fourni par l'administration, auprès de l'administration
+des douanes et droits indirects en précisant l'usage auquel est destinée la
+machine.
 
 Une demande séparée est faite par appareil. Le demandeur doit être titulaire de
 l'autorisation d'employer des empreintes visée à l'article 54 A. Il doit prendre
