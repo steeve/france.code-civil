@@ -1,6 +1,6 @@
 Article L433-14
 ----
-Les délégués du personnel sont élus pour deux ans et rééligibles.
+Les délégués du personnel sont élus pour quatre ans et rééligibles.
 
 Leurs fonctions prennent fin par le décès, la démission, la résiliation du
 contrat de travail ou la perte des conditions requises pour l'éligibilité. Ils
@@ -24,3 +24,8 @@ les délégués du personnel concernés.
 Tout délégué du personnel peut être révoqué en cours de mandat, sur proposition
 de l'organisation syndicale qui l'a présenté, approuvée au scrutin secret par la
 majorité du collège électoral auquel il appartient.
+
+Des élections partielles sont organisées à l'initiative de l'employeur si un
+collège électoral n'est plus représenté ou si le nombre des délégués titulaires
+est réduit de moitié ou plus, sauf si ces événements interviennent moins de six
+mois avant le terme du mandat des délégués du personnel.

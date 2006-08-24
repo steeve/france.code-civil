@@ -7,8 +7,9 @@ les conditions prévues à l'arrêté mentionné à l'article L. 116-4, en fonct
 type de profession et du niveau de qualification préparés.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique
-préparé, le contrat peut prendre fin, par accord des deux parties, avant le
-terme fixé initialement.
+préparé, le contrat peut prendre fin, à l'initiative du salarié, avant le terme
+fixé initialement, à la condition d'en avoir informé l'employeur par écrit au
+minimum deux mois auparavant.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs
 pour préparer des diplômes ou titres sanctionnant des qualifications

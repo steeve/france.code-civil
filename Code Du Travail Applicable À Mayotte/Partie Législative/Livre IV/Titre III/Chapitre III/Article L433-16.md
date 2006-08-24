@@ -1,7 +1,7 @@
 Article L433-16
 ----
 Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef
-d'entreprise doit informer tous les deux ans le personnel par affichage de
+d'entreprise doit informer tous les quatre ans le personnel par affichage de
 l'organisation des élections en vue de la désignation des délégués du personnel.
 Le document affiché précise la date envisagée pour le premier tour de ces
 élections qui doit se placer au plus tard le quarante-cinquième jour suivant

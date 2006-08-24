@@ -1,6 +1,6 @@
 Article L443-10
 ----
-Les membres du comité d'entreprise sont élus pour deux ans, leur mandat est
+Les membres du comité d'entreprise sont élus pour quatre ans, leur mandat est
 renouvelable.
 
 Les fonctions de ces membres prennent fin par le décès, la démission, la
@@ -26,10 +26,11 @@ suppléant de la même catégorie qui a obtenu le plus grand nombre de voix.
 Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou
 jusqu'au renouvellement du comité d'entreprise.
 
-Des élections partielles doivent être organisées à l'initiative de l'employeur
-si, au cours des dix-huit mois suivant l'élection du comité, un collège
-électoral n'est plus représenté ou si le nombre des membres titulaires de la
-délégation du personnel se réduit de moitié ou plus.
+Des élections partielles sont organisées à l'initiative de l'employeur si un
+collège électoral n'est plus représenté ou si le nombre des membres titulaires
+de la délégation du personnel est réduit de moitié ou plus, sauf si ces
+événements interviennent moins de six mois avant le terme du mandat des membres
+du comité d'entreprise.
 
 Les élections partielles se déroulent dans les conditions fixées à l'article L.
 443-8 pour pourvoir aux sièges vacants dans les collèges intéressés, sur la base

@@ -2,8 +2,10 @@ Article L126-1
 ----
 Des groupements de personnes physiques ou morales entrant dans le champ
 d'application d'une même convention collective peuvent être constitués dans le
-but exclusif de mettre à la disposition de leurs membres des salariés liés à ces
-groupements par un contrat de travail.
+but de mettre à la disposition de leurs membres des salariés liés à ces
+groupements par un contrat de travail. Ils peuvent également apporter à leurs
+membres leur aide ou leur conseil en matière d'emploi ou de gestion des
+ressources humaines.
 
 Ces groupements ne peuvent effectuer que des opérations à but non lucratif. Ils
 sont constitués sous la forme d'associations déclarées de la loi du 1er juillet
