@@ -1,8 +1,7 @@
 Article L422-5
 ----
 Les sociétés d'habitations à loyer modéré doivent être agréées par décision
-administrative. Les sociétés de crédit immobilier sont soumises à l'agrément du
-comité des établissements de crédit.
+administrative.
 
 Leurs statuts contiennent des clauses conformes aux clauses types approuvées par
 décret en Conseil d'Etat.

@@ -1,11 +1,8 @@
 Article L451-1
 ----
-Sous réserve des dispositions du deuxième alinéa de l'article L312-2 du présent
-code, les organismes d'habitations à loyer modéré, les sociétés civiles
-constituées sous l'égide des sociétés de crédit immobilier et les sociétés
-coopératives de construction bénéficiant de prêts accordés dans le cadre de la
-législation sur les habitations à loyer modéré sont soumis au contrôle de
-l'administration.
+Les organismes d'habitations à loyer modéré et les sociétés coopératives de
+construction bénéficiant de prêts accordés dans le cadre de la législation sur
+les habitations à loyer modéré sont soumis au contrôle de l'administration.
 
 Toute société, association, collectivité ou organisme, quel qu'en soit le
 statut, exerçant une activité de construction ou de gestion de logements sociaux
@@ -23,12 +20,6 @@ comprennent au moins un organisme d'habitations à loyer modéré parmi leurs
 membres et pour les personnes privées mandataires d'organismes d'habitations à
 loyer modéré dans le cadre du contrat de promotion immobilière prévu au livre
 II, titre II, du présent code relatif à la promotion immobilière.
-
-A l'occasion de l'inspection d'une société anonyme de crédit immobilier, et pour
-les besoins de cette inspection, l'administration peut étendre ses
-investigations aux filiales de la société visées à l'article L. 422-4-2 et se
-faire communiquer toutes les pièces relatives auxdites filiales nécessaires à sa
-mission.
 
 L'objet du contrôle exercé par l'administration est de vérifier l'emploi
 conforme à leur objet des subventions, prêts ou avantages consentis par l'Etat

@@ -1,9 +1,9 @@
 Article L422-7
 ----
 En cas d'irrégularités graves ou de faute grave de gestion commises par une
-société d'habitations à loyer modéré ou de crédit immobilier ou en cas de
-carence de son conseil d'administration, de son directoire ou de son conseil de
-surveillance, l'autorité administrative peut décider de :
+société d'habitations à loyer modéré ou en cas de carence de son conseil
+d'administration, de son directoire ou de son conseil de surveillance,
+l'autorité administrative peut décider de :
 
 1° Retirer à l'organisme, pour une durée qui ne peut excéder cinq ans, la
 possibilité d'exercer une ou plusieurs des compétences prévues au présent titre
