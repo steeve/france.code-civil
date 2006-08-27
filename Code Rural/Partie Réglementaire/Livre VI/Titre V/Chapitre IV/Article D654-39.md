@@ -1,7 +1,8 @@
 Article D654-39
 ----
-I. - L'office chargé du lait et des produits laitiers est chargé, en ce qui
-concerne le lait de vache :
+I. - L'Office national interprofessionnel de l'élevage et de ses productions,
+dénommée "Office de l'élevage" dans la présente sous-section est chargé, en ce
+qui concerne le lait de vache :
 
 1° De notifier aux acheteurs de lait la quantité de référence et le taux de
 référence de matière grasse individuels dont dispose chacun des producteurs qui
@@ -24,6 +25,7 @@ directes" sont comptabilisées séparément ;
 5° De procéder ou de faire procéder au remboursement du prélèvement institué par
 le règlement (CE) n° 1788/2003.
 
-II. - Le directeur de l'office chargé du lait et des produits laitiers, après
-avis du Conseil de direction, prend les mesures nécessaires à l'accomplissement
-des missions mentionnées au I..
+II. - Le directeur de l'office national interprofessionnel de l'élevage et de
+ses productions, dénommé "Office de l'élevage" dans la présente sous-section,
+après avis du Conseil de direction compétent, prend les mesures nécessaires à
+l'accomplissement des missions mentionnées au I..
