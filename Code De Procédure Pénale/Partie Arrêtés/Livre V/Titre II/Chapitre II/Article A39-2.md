@@ -19,6 +19,8 @@ Centre de semi-liberté de Lyon (hommes, femmes) (Rhône).
 
 Centre de semi-liberté de Maxeville (hommes, femmes) (Meurthe-et-Moselle).
 
+Centre de semi-liberté de Melun (Seine-et-Marne).
+
 Centre de semi-liberté de Montargis (Loiret).
 
 Centre de semi-liberté de Montpellier (hommes, femmes) (Hérault).
