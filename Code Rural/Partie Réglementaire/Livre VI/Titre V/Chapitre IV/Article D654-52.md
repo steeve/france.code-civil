@@ -5,8 +5,8 @@ dépassé leur quantité de référence, compte tenu de la correction relative �
 matière grasse, augmentée des allocations provisoires et compte tenu des
 remboursements éventuels consentis en application de l'arrêté mentionné à
 l'article D. 654-40. Les modifications d'assiette du prélèvement, notifiées par
-l'office chargé du lait et des produits laitiers à l'acheteur, sont répercutées
-sur les producteurs dans les mêmes conditions.
+l'Office de l'élevage à l'acheteur, sont répercutées sur les producteurs dans
+les mêmes conditions.
 
 Si le total des provisions perçues auprès du producteur est supérieur au
 prélèvement qui lui est notifié au moment du décompte final, l'acheteur

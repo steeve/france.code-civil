@@ -1,8 +1,8 @@
 Article D654-44
 ----
-Le directeur de l'office chargé du lait et des produits laitiers peut, à
-l'expiration d'un délai de 30 jours après mise en demeure, retirer l'agrément
-d'un acheteur qui ne remplit plus l'une des conditions suivantes :
+Le directeur de l'Office de l'élevage peut, à l'expiration d'un délai de 30
+jours après mise en demeure, retirer l'agrément d'un acheteur qui ne remplit
+plus l'une des conditions suivantes :
 
 1° Disposer de la qualité de commerçant ;
 

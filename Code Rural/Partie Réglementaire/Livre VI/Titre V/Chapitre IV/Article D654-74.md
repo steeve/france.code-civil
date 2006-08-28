@@ -7,11 +7,10 @@ bénéficier de quantités de référence supplémentaires en fonction des prior
 nationales déterminées par l'arrêté mentionné à l'article D. 654-72 ainsi que le
 volume du supplément individuel qui peut leur être attribué. Il transmet cette
 liste, accompagnée de l'avis de la commission départementale d'orientation de
-l'agriculture, à l'office chargé du lait et des produits laitiers.
+l'agriculture, à l'Office de l'élevage.
 
-Le directeur de l'office chargé du lait et des produits laitiers s'assure que
-les critères d'attribution ont été respectés. Il prend les décisions
-d'attribution correspondantes, dans la limite des volumes disponibles. L'office
-chargé du lait et des produits laitiers enregistre ensuite ces quantités de
-références supplémentaires et notifie les quantités supplémentaires
+Le directeur de l'Office de l'élevage s'assure que les critères d'attribution
+ont été respectés. Il prend les décisions d'attribution correspondantes, dans la
+limite des volumes disponibles. L'Office de l'élevage enregistre ensuite ces
+quantités de références supplémentaires et notifie les quantités supplémentaires
 individuelles aux producteurs effectuant des ventes directes.

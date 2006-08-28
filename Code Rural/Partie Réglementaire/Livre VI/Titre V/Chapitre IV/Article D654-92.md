@@ -13,5 +13,4 @@ effet.
 Les constats sont établis par des procès-verbaux dont un double est remis aux
 intéressés. Si ceux-ci refusent de signer le procès-verbal, mention en est faite
 au procès-verbal de contrôle. Les procès-verbaux sont transmis au directeur de
-l'office chargé du lait et des produits laitiers. Ils font foi jusqu'à preuve du
-contraire.
+l'Office de l'élevage. Ils font foi jusqu'à preuve du contraire.

@@ -2,8 +2,7 @@ Article D654-57
 ----
 I. - L'acheteur établit et tient à jour, pour chacun des départements dans
 lesquels il collecte du lait, un état nominatif des producteurs sur le modèle
-fourni par l'office chargé du lait et des produits laitiers. Cet état comporte,
-pour chaque producteur :
+fourni par l'Office de l'élevage. Cet état comporte, pour chaque producteur :
 
 a) Son nom ou sa raison sociale et l'adresse du siège de l'exploitation ;
 
@@ -26,8 +25,7 @@ informations.
 II. - Lors des communications prévues ci-après, les acheteurs doivent faire
 parvenir :
 
-1° A l'office chargé du lait et des produits laitiers, l'état nominatif et le
-récapitulatif ;
+1° A l'Office de l'élevage, l'état nominatif et le récapitulatif ;
 
 2° A chacun des préfets de département où ils collectent du lait, l'état
 nominatif relatif aux producteurs du département concerné et le récapitulatif.
