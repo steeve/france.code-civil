@@ -3,8 +3,7 @@ Article R*256-6
 La notification de l'avis de mise en recouvrement comporte l'envoi au redevable,
 soit au lieu de son domicile, de sa résidence ou de son siège, soit à l'adresse
 qu'il a lui-même fait connaître au service des impôts ou au service des douanes
-et droits indirects compétent, de l'"ampliation" si l'avis de mise en
-recouvrement est individuel ou de l'"extrait" s'il est collectif.
+et droits indirects compétent, de l'"ampliation" prévue à l'article R.* 256-3.
 
 Au cas où la lettre recommandée ne pourrait, pour quelque cause que ce soit,
 être remise au redevable destinataire ou à son fondé de pouvoir, il doit être
@@ -17,10 +16,10 @@ des postes et télécommunications ;
 
 b) D'autre part, du motif de sa non-délivrance.
 
-Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé au
-service des impôts ou à la recette des douanes et droits indirects chargé du
-recouvrement où il peut en être délivré copie, à tout moment et sans frais, au
-redevable lui-même ou à son fondé de pouvoir.
+Dans cette éventualité, l'"ampliation" renvoyée reste déposée au service des
+impôts ou à la recette des douanes et droits indirects chargé du recouvrement où
+il peut en être délivré copie, à tout moment et sans frais, au redevable
+lui-même ou à son fondé de pouvoir.
 
 La notification de l'avis de mise en recouvrement peut également être effectuée
 par le ministère d'un huissier. Elle est alors soumise aux règles de
