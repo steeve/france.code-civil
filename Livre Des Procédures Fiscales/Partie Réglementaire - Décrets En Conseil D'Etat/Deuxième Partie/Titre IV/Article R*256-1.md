@@ -18,3 +18,7 @@ préalablement à la notification de l'avis de mise en recouvrement correspondan
 un document l'informant du montant global par impôt des droits, des pénalités et
 des intérêts de retard dont elle est redevable. L'avis de mise en recouvrement,
 qui peut être alors émis sans délai, fait référence à ce document.
+
+L'avis de mise en recouvrement, dans le cas mentionné au deuxième alinéa de
+l'article L. 256, indique seulement le montant de la somme indûment versée, et
+la date de son versement.
