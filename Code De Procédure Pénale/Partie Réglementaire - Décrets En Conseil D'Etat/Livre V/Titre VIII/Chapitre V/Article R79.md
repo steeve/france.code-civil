@@ -49,7 +49,7 @@ poursuites disciplinaires ;
 prévus à l'article 6 du décret n° 75-911 du 6 octobre 1975 relatif aux centres
 de gestion agréés ;
 
-14° Aux institutions mentionnées à l'article L. 351-2 du Code du travail ;
+14° Aux institutions mentionnées à l'article L. 351-2 du code du travail ;
 
 15° Aux administrations publiques saisies de candidatures à un embarquement sur
 un navire français et chargées du contrôle des conditions d'exercice de la
@@ -61,13 +61,13 @@ d'exercer les activités de gardiennage, de surveillance de transport de fonds o
 de protection des personnes ;
 
 17° A l'administration auprès de laquelle est institué le comité prévu par
-l'article 46 du Code pénal (article abrogé) ;
+l'article 46 du code pénal (article abrogé) ;
 
 18° Aux administrations publiques de l'Etat chargées d'instruire les procédures
 de changement de nom, d'acquisition, de perte ou de déchéance de la nationalité
 française ;
 
-19° Aux établissements mentionnés à l'article L. 792 du Code de la santé
+19° Aux établissements mentionnés à l'article L. 792 du code de la santé
 publique lorsqu'ils sont saisis d'une demande d'emploi ;
 
 20° A l'Autorité des marchés financiers, en ce qui concerne les dirigeants
@@ -93,9 +93,12 @@ d'habilitation des personnes physiques, établissements, services ou organismes
 publics ou privés auxquels l'autorité judiciaire confie habituellement des
 mineurs ainsi que dans le cadre du contrôle que les juges des enfants exercent
 sur les mêmes personnes, établissements, services ou organismes lorsqu'ils sont
-habilités.
+habilités ;
 
 24° Au directeur général de l'Institut national de la propriété industrielle
 pour l'inscription sur la liste des personnes qualifiées en propriété
 industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26
-novembre 1990 (2).
+novembre 1990 ;
+
+25° Au Commissaire du Gouvernement de l'organisme du registre des intermédiaires
+en assurance mentionné à l'article L. 512-1 du code des assurances.
