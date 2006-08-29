@@ -5,7 +5,7 @@ grande instance recevoir le serment :
 
 Des agents et préposés de l'administration des eaux et forêts ;
 
-De tous gardes champêtres et particuliers ;
+De tous gardes champêtres ;
 
 Des gardes-pêche ;
 

@@ -1,9 +1,10 @@
 Article R322-15
 ----
-Les gardes du littoral prêtent serment devant le tribunal d'instance dans le
-ressort duquel ils exercent leurs fonctions. Cette assermentation est
-enregistrée auprès du greffe des autres tribunaux d'instance si le garde exerce
-sa compétence sur le territoire de plusieurs tribunaux.
+Les gardes du littoral chargés des missions prévues à l'article L. 322-10-1
+prêtent serment devant le tribunal d'instance dans le ressort duquel ils
+exercent leurs fonctions. Cette assermentation est enregistrée auprès du greffe
+des autres tribunaux d'instance si le garde exerce sa compétence sur le
+territoire de plusieurs tribunaux.
 
 La formule du serment est la suivante :
 
