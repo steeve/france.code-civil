@@ -17,7 +17,10 @@ cultures et aux récoltes agricoles ne prend pas part au délibéré et au vote
 lorsque la commission examine une demande d'indemnisation à laquelle il a,
 directement ou indirectement, un intérêt personnel.
 
-La décision de la commission départementale est notifiée au réclamant et au
-président de la fédération départementale des chasseurs par lettre recommandée
-avec accusé de réception mentionnant le délai de recours ouvert contre cette
-décision devant la commission nationale d'indemnisation.
+La décision de la commission départementale de la chasse et de la faune sauvage
+dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux
+cultures et aux récoltes agricoles est notifiée par son secrétariat au réclamant
+et au président de la fédération départementale des chasseurs par lettre
+recommandée avec accusé de réception mentionnant le délai de recours ouvert
+contre cette décision devant la Commission nationale d'indemnisation des dégâts
+de gibier.

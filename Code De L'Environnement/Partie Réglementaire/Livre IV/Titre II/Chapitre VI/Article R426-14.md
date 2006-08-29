@@ -1,11 +1,14 @@
 Article R426-14
 ----
-Dans les quinze jours suivant la fixation du barème départemental
-d'indemnisation pour la denrée considérée, le président de la fédération
-départementale des chasseurs notifie au réclamant le montant de l'indemnité
-qu'il propose, calculé compte tenu du barème mentionné à l'article R. 426-8 et
-des conclusions de l'expertise, en lui demandant si cette proposition recueille
-son accord.
+Dans les quinze jours suivant la notification par le secrétariat de la
+commission départementale de la chasse et de la faune sauvage dans sa formation
+spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux
+récoltes agricoles au président de la fédération départementale des chasseurs du
+barème départemental d'indemnisation pour la denrée considérée, le président de
+la fédération départementale des chasseurs notifie au réclamant le montant de
+l'indemnité qu'il propose, calculé compte tenu du barème mentionné à l'article
+R. 426-8 et des conclusions de l'expertise, en lui demandant si cette
+proposition recueille son accord.
 
 En l'absence de réponse du réclamant dans les dix jours de l'envoi de sa
 proposition d'indemnisation, le président de la fédération départementale

@@ -1,7 +1,7 @@
 Article R429-13
 ----
 L'estimateur a droit, sur sa demande, à une indemnité fixée dans les conditions
-prévues à l'article R. 426-10.
+prévues à l'article R. 426-19.
 
 Lorsque des dommages ont été constatés, les honoraires de l'estimateur et les
 frais sont à la charge de celui qui en est responsable ; dans le cas contraire

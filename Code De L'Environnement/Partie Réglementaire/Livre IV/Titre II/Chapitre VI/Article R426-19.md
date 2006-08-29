@@ -1,6 +1,6 @@
 Article R426-19
 ----
-Les modalités de rémunération des estimateurs et experts et de remboursement de
-leurs frais sont déterminées par arrêté conjoint du ministre chargé de la chasse
-et du ministre chargé du budget, sur proposition de la commission nationale
-d'indemnisation.
+Le montant et les modalités de rémunération et de remboursement des frais des
+estimateurs et des experts sont déterminés par la Fédération nationale des
+chasseurs. Ils sont communiqués à la Commission nationale d'indemnisation des
+dégâts de gibier dès leur établissement et lors de chacune de leur révision.

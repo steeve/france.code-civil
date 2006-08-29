@@ -1,6 +1,7 @@
 Article R426-3
 ----
-I. - La Commission nationale d'indemnisation se compose de onze membres :
+I. - La Commission nationale d'indemnisation des dégâts de gibier se compose de
+onze membres :
 
 1° Un représentant du ministre chargé de la chasse, président ;
 
@@ -34,7 +35,7 @@ membres suppléants nommés dans les mêmes conditions.
 IV. - Le président peut appeler à participer aux séances, à titre consultatif,
 toute personne dont il estime opportun de recueillir l'avis.
 
-V. - Un membre de la Commission nationale d'indemnisation ne prend pas part au
-délibéré et au vote lorsque la commission examine une décision de commission
-départementale dont il l'a saisie, ou à laquelle il a, directement ou
-indirectement, un intérêt personnel.
+V. - Un membre de la commission nationale ne prend pas part au délibéré et au
+vote lorsque celle-ci examine une décision d'une commission départementale dont
+il l'a saisie, ou à laquelle il a, directement ou indirectement, un intérêt
+personnel.

@@ -8,4 +8,5 @@ L'exercice comptable commence le 1er juillet et se termine le 30 juin.
 
 L'ensemble des opérations directement rattachées à la prévention et à
 l'indemnisation des dégâts causés aux récoltes par le grand gibier fait l'objet
-d'une comptabilité distincte, dans les conditions prévues à l'article R. 426-1.
+d'une comptabilité distincte qui retrace les flux financiers dans un compte
+bancaire autonome, dans les conditions prévues à l'article R. 426-1.

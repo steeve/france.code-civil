@@ -1,9 +1,9 @@
 Article R426-1
 ----
 Les opérations relatives à la prévention et à l'indemnisation des dégâts causés
-aux récoltes par les sangliers ou les grands gibiers, menées par les fédérations
-départementales des chasseurs, font l'objet, dans leurs comptes, d'une
-comptabilité distincte, qui retrace notamment :
+aux cultures et aux récoltes agricoles par le grand gibier, menées par les
+fédérations départementales ou interdépartementales des chasseurs, font l'objet
+d'une comptabilité distincte qui retrace notamment :
 
 1° En produits :
 
@@ -14,7 +14,11 @@ b) Le produit des participations mentionnées à l'article L. 426-5 ;
 c) Le montant des aides accordées par la Fédération nationale des chasseurs pour
 la prévention et l'indemnisation des dégâts de grand gibier ;
 
-d) Les produits des placements financiers des ressources mentionnées aux b et c.
+d) Le montant des sommes que la fédération a obtenues en application des
+articles L. 426-4 et L. 425-11 ;
+
+e) Les produits des placements financiers des ressources mentionnées aux a, b, c
+et d.
 
 2° En charges :
 
@@ -28,16 +32,11 @@ exploitants agricoles et des propriétaires forestiers ;
 
 c) Le financement des charges d'estimation ;
 
-d) Le financement des charges de gestion des dégâts de sangliers et de grands
-gibiers ;
+d) Le financement des charges de gestion des dégâts de grand gibier ;
 
 e) Le financement des charges de personnels affectés à la prévention et à
-l'indemnisation des dégâts de sangliers et de grands gibiers ;
+l'indemnisation des dégâts de grand gibier ;
 
 f) Les charges financières ;
 
 g) Les frais de contentieux.
-
-Les sommes mentionnées au a du 1° sont déposées dans les conditions prévues à
-l'article 12 du décret n° 80-854 du 30 octobre 1980 relatif aux taxes
-parafiscales.
