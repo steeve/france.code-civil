@@ -1,6 +1,6 @@
 Article R235-17
 ----
-Les dispositions des articles R. 235-1 à R. 235-11 sont applicables au conseil
+Les dispositions des articles R. 235-1 à R. 235-11-1 sont applicables au conseil
 de l'éducation nationale de chacun des deux départements de la collectivité
 territoriale de Corse, sous réserve des dispositions relatives aux compétences
 en matière de collèges qui relèvent du conseil de l'éducation nationale de

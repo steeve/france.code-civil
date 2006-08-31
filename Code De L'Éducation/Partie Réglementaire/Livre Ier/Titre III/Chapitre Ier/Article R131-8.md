@@ -9,5 +9,4 @@ alinéa de l'article R. 131-7 aux mêmes élèves, les personnes responsables so
 convoquées par le directeur régional de l'agriculture et de la forêt pour la
 métropole et par le directeur de l'agriculture et de la forêt pour les
 départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature
-pédagogique ou éducative pour l'élève et des modules de soutien à la
-responsabilité parentale.
+pédagogique ou éducative pour l'élève.
