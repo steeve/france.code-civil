@@ -10,19 +10,19 @@ elles s'exposent. Il peut diligenter une enquête sociale.
 Les personnes responsables de l'enfant sont convoquées pour un entretien avec
 l'inspecteur d'académie, directeur des services départementaux de l'éducation
 nationale ou son représentant. Celui-ci peut proposer des mesures de nature
-pédagogique ou éducative pour l'élève et des modules de soutien à la
-responsabilité parentale.
+pédagogique ou éducative pour l'élève.
 
-Le contenu et les modalités de ces actions d'aide aux parents sont définies par
-une instance départementale présidée par le préfet et qui comprend en outre des
-représentants de l'Etat, de la communauté éducative, des caisses d'allocations
-familiales et des associations familiales. Sa composition et ses modalités de
-fonctionnement sont précisées par arrêté préfectoral.
+Lorsque l'inspecteur d'académie constate une situation de nature à justifier la
+mise en place d'un contrat de responsabilité parentale, il saisit le président
+du conseil général dans les conditions prévues à l'article R. 222-4-2 du code de
+l'action sociale et des familles. Il en informe préalablement les parents ou le
+représentant légal du mineur.
 
 S'il constate la poursuite de l'absentéisme de l'enfant, en dépit de
 l'avertissement prévu au premier alinéa et des mesures éventuellement prises en
-vertu du deuxième alinéa, l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, saisit le procureur de la République
-des faits susceptibles d'être constitutifs de l'infraction prévue à l'article R.
-624-7 du code pénal. Il informe de cette saisine les personnes responsables de
-l'enfant.
+vertu du deuxième alinéa, et s'il n'a pas procédé à la saisine du président du
+conseil général prévue à l'alinéa précédent, l'inspecteur d'académie, directeur
+des services départementaux de l'éducation nationale, saisit le procureur de la
+République des faits susceptibles d'être constitutifs de l'infraction prévue à
+l'article R. 624-7 du code pénal. Il informe de cette saisine les personnes
+responsables de l'enfant.
