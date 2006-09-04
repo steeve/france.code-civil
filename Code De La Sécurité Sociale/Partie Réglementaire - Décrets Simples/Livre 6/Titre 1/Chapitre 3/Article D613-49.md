@@ -1,9 +1,9 @@
 Article D613-49
 ----
 Tout organisme conventionné doit ouvrir un compte à la Banque de France ou dans
-une banque agréée ou au service des chèques postaux ou au service des dépôts de
-fonds des trésoriers-payeurs généraux, pour chacune des caisses mutuelles
-régionales avec laquelle il a passé convention [*obligation*].
+une banque agréée ou au service des dépôts de fonds des trésoriers-payeurs
+généraux, pour chacune des caisses mutuelles régionales avec laquelle il a passé
+convention.
 
 Ce compte est destiné à assurer le paiement des prestations dues aux affiliés en
 application du présent titre.

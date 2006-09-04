@@ -25,4 +25,4 @@ paiement.
 Pour bénéficier de l'échelonnement du paiement du versement, l'assuré autorise
 la caisse à effectuer, à la date de chaque échéance mensuelle et pour la période
 choisie dans la limite fixée au 1° ou au 2° du présent article, un prélèvement
-sur le compte bancaire, postal ou d'épargne.
+sur le compte bancaire ou d'épargne.

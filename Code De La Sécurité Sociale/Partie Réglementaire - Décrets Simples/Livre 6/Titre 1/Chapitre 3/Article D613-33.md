@@ -9,7 +9,7 @@ consignations ou ses préposés ;
 
 2°) les comptes de fonds particuliers des trésoriers-payeurs généraux ;
 
-3°) les comptes de chèques postaux ;
+3°) Paragraphe supprimé
 
 4°) les comptes de fonds tenus par la Banque de France et par les établissements
 bancaires agréés.

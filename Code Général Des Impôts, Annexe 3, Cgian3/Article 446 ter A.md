@@ -10,7 +10,7 @@ domicile du demandeur au 1er janvier de l'année de la demande. La personne
 produit à cet effet le formulaire de demande d'acompte, établi par
 l'administration, dûment complété et signé, accompagné des documents suivants :
 
-1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+1° Un relevé d'identité bancaire ou de caisse d'épargne à son nom ;
 
 2° Une copie de la "carte d'inscription ANPE" ou "l'historique d'inscription"
 comme demandeur d'emploi ;

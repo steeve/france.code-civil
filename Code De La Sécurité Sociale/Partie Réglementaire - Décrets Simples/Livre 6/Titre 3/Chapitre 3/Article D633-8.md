@@ -5,8 +5,8 @@ conseil d'administration des caisses nationales des organisations autonomes
 d'assurance vieillesse des travailleurs non salariés des professions artisanales
 ou des professions industrielles et commerciales peut proposer à leurs assurés
 le recouvrement des cotisations par prélèvements automatiques mensuels. Ces
-prélèvements sont opérés sur les comptes postaux ou bancaires ouverts au nom de
-l'assuré, dans les conditions fixées par arrêté interministériel.
+prélèvements sont opérés sur les comptes bancaires ouverts au nom de l'assuré,
+dans les conditions fixées par arrêté interministériel.
 
 L'option est valable un an et se renouvelle par tacite reconduction.
 
@@ -23,4 +23,4 @@ deviennent exigibles selon les dispositions prévues aux articles D. 633-7 et D.
 cotisations déjà prélevées.
 
 En cas de cessation d'activité professionnelle, le solde de la cotisation du
-trimestre en cours devient immédiatement exigible .
+trimestre en cours devient immédiatement exigible.

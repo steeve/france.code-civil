@@ -2,8 +2,8 @@ Article D612-2-1
 ----
 Par dérogation aux dispositions de l'article D. 612-2, l'assuré actif peut
 demander qu'il soit procédé au recouvrement des cotisations par prélèvement
-fractionné automatique. Les prélèvements sont opérés sur les comptes postaux ou
-bancaires ouverts au nom de l'assuré, dans les conditions fixées par arrêté
+fractionné automatique. Les prélèvements sont opérés sur les comptes bancaires
+ouverts au nom de l'assuré, dans les conditions fixées par arrêté
 interministériel.
 
 L'option est valable un an et se renouvelle par tacite reconduction.

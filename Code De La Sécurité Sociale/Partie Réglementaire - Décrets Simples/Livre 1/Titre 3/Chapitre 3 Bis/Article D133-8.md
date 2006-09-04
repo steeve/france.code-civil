@@ -1,12 +1,12 @@
 Article D133-8
 ----
 Le chèque-emploi pour les très petites entreprises comprend un volet social à
-compléter et signer par l'employeur et, le cas échéant, un chèque bancaire ou
-postal au sens du chapitre Ier du titre III du livre Ier du code monétaire et
-financier, émis uniquement par les établissements de crédit ou par les
-institutions ou services habilités par l'article L. 518-1 du même code à
-effectuer des opérations de banque, qui ont passé une convention conforme aux
-dispositions du présent article.
+compléter et signer par l'employeur et, le cas échéant, un chèque bancaire au
+sens du chapitre Ier du titre III du livre Ier du code monétaire et financier,
+émis uniquement par les établissements de crédit ou par les institutions ou
+services habilités par l'article L. 518-1 du même code à effectuer des
+opérations de banque, qui ont passé une convention conforme aux dispositions du
+présent article.
 
 Cette convention entre, d'une part, le ministre chargé de la sécurité sociale,
 le ministre en charge des petites et moyennes entreprises, l'Agence centrale des
@@ -15,10 +15,9 @@ crédit, institutions ou services mentionnés ci-dessus, ou un organisme
 professionnel, organe central ou association mentionnés à l'article L. 511-29 du
 code monétaire et financier, fixe les obligations réciproques des parties.
 
-Le carnet constitué de volets sociaux et de chèques bancaires ou postaux est
-attribué sans préjudice de l'application des dispositions du chapitre Ier du
-titre III du livre Ier du code monétaire et financier relatives à la délivrance
-des chèques.
+Le carnet constitué de volets sociaux et de chèques bancaires est attribué sans
+préjudice de l'application des dispositions du chapitre Ier du titre III du
+livre Ier du code monétaire et financier relatives à la délivrance des chèques.
 
 Le volet social comporte notamment les mentions suivantes :
 

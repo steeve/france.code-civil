@@ -4,7 +4,7 @@ Les comptes externes de disponibilités dont les agents comptables peuvent
 ordonner les mouvements dans les conditions prévues par la réglementation en
 vigueur comprennent :
 
-1° Les comptes chèques postaux ;
+1° (Supprimé) ;
 
 2° Les comptes de fonds tenus par tout établissement de crédit agréé dans un
 Etat membre de l'Espace économique européen ;
