@@ -2,8 +2,7 @@ Article R256-9
 ----
 Les organismes de sécurité sociale sont tenus de se faire ouvrir un ou plusieurs
 comptes externes de disponibilités à la Caisse des dépôts et consignations ou
-auprès de ses préposés et, en tant que de besoin, au service des chèques
-postaux.
+auprès de ses préposés.
 
 Ils peuvent également se faire ouvrir de tels comptes à la Banque de France,
 dans les banques agréées ainsi que, dans les conditions prévues à l'article 2 du

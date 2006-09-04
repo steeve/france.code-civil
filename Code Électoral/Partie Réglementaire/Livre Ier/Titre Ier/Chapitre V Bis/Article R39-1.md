@@ -9,9 +9,9 @@ l'article 200 du code général des impôts.
 
 Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au
 contrôle de la commission nationale ; elles sont accompagnées d'un relevé du
-compte bancaire ou postal unique ouvert par le mandataire, attestant la réalité
-de l'encaissement des fonds correspondants ; les reçus non utilisés sont
-retournés à la commission, avec les souches correspondantes.
+compte bancaire unique ouvert par le mandataire, attestant la réalité de
+l'encaissement des fonds correspondants ; les reçus non utilisés sont retournés
+à la commission, avec les souches correspondantes.
 
 La souche et le reçu mentionnent le montant et la date du versement ainsi que
 l'identité et l'adresse du domicile fiscal du donateur. Le reçu est signé par le

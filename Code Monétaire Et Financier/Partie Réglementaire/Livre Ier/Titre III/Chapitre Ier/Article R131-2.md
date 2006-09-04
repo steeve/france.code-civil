@@ -9,5 +9,4 @@ sécurité.
 
 Dans tous les cas où la remise d'un chèque certifié est exigée, il peut être
 valablement satisfait à cette exigence par la remise d'un chèque émis dans les
-conditions prévues par le troisième alinéa de l'article L. 131-7 ou d'un chèque
-émis sur le compte courant postal d'un chef de centre de chèques postaux.
+conditions prévues par le troisième alinéa de l'article L. 131-7.

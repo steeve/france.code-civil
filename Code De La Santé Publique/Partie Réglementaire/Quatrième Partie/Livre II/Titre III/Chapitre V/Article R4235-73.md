@@ -7,7 +7,7 @@ suivantes :
 
 1° Le numéro de téléphone et de télécopie ;
 
-2° Le numéro de compte courant postal ou bancaire ;
+2° Le numéro de compte bancaire ;
 
 3° Les activités exercées figurant dans l'autorisation préfectorale ;
 

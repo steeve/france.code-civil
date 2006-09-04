@@ -6,7 +6,7 @@ d'honoraires et cartes professionnelles, sont :
 
 1° Ses nom, prénoms, adresses postale et électronique, numéros de téléphone et
 de télécopie, jours et heures de consultation et ses numéros de comptes
-bancaires et de comptes chèques postaux ;
+bancaires ;
 
 2° Sa qualité et sa spécialité ;
 

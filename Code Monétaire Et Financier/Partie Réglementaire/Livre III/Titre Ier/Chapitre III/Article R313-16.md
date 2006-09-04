@@ -8,11 +8,11 @@ obligatoires suivantes :
 
 1° Le nom de la société d'affacturage, comme suit :
 
-"La créance relative à la présente facture a été cédée à... dans le cadre des
-articles L. 313-23 à L. 313-35 du code monétaire et financier" ;
+" La créance relative à la présente facture a été cédée à... dans le cadre des
+articles L. 313-23 à L. 313-35 du code monétaire et financier " ;
 
 2° Le mode de règlement, comme suit :
 
-"Le paiement doit être effectué par chèque, traite, billets, etc., établi à
+" Le paiement doit être effectué par chèque, traite, billets, etc., établi à
 l'ordre de (nom de la société d'affacturage ou de son mandataire)... et adressé
-à... ou par virement au compte n° ... chez... ou au CCP n° ..."
+à... ou par virement au compte n°... chez....

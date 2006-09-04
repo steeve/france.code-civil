@@ -17,6 +17,6 @@ nom de l'établissement où elle l'a obtenu ;
 
 5° Sa situation vis-à-vis des organismes d'assurance maladie ;
 
-6° Les numéros des comptes bancaire et postal ;
+6° Les numéros de compte bancaire ;
 
 7° S'il y a lieu, son appartenance à une association de gestion agréée.
