@@ -12,3 +12,7 @@ et aux techniques de prélèvement des écailles et poussières ;
 maîtrise d'oeuvre ou d'assistance à la maîtrise d'ouvrage de travaux de
 réhabilitation en présence de peintures contenant du plomb et à la conduite de
 ces mêmes travaux dans des locaux occupés ou non.
+
+Lorsque l'agrément a pour objet la réalisation de diagnostics, la personne doit
+répondre en outre aux conditions de l'article L. 271-6 du code de la
+construction et de l'habitation et de ses textes d'application.
