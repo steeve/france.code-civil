@@ -16,7 +16,7 @@ l'association ;
 - déclaration sur l'honneur que l'association n'emploie pas un effectif de
 salariés supérieur au maximum autorisé ;
 
-- autorisation de prélèvement automatique sur un compte bancaire ou postal.
+- autorisation de prélèvement automatique sur un compte bancaire.
 
 II. - L'établissement, institution ou service mentionné au sixième alinéa de
 l'article L. 128-1 délivre un carnet de chèque-emploi associatif à l'association
@@ -50,7 +50,7 @@ mentions prévues à l'article R. 143-2 du présent code ; elle se substitue à 
 remise du bulletin de paie par l'employeur.
 
 VI. - L'organisme de recouvrement dont relève l'association effectue, sur le
-compte bancaire ou postal désigné par celle-ci, le prélèvement automatique des
+compte bancaire désigné par celle-ci, le prélèvement automatique des
 contributions et cotisations sociales ainsi décomptées le huitième jour du mois
 civil suivant celui au cours duquel les sommes dues ont été notifiées.
 

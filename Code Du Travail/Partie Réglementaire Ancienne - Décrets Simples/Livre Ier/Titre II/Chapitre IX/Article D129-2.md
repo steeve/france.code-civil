@@ -7,7 +7,7 @@ mentions suivantes :.
 
 - nom, prénom et adresse ;
 
-- références bancaires ou postales.
+- références bancaires.
 
 2. Mentions relatives au salarié :
 

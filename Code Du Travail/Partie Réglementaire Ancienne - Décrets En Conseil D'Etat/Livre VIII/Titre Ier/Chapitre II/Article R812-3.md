@@ -9,7 +9,7 @@ Le volet social du titre de travail simplifié comporte les mentions suivantes :
 - code APE (NAF), numéro SIRET s'il s'agit d'une entreprise ou d'un organisme
 mentionné à l'article L. 131-2 ;
 
-- numéro de compte bancaire ou postal.
+- numéro de compte bancaire.
 
 2° Mentions relatives au salarié :
 

@@ -13,8 +13,8 @@ notifiées.
 
 Le versement des cotisations et contributions sociales dues par l'employeur qui
 recourt au titre emploi-entreprise occasionnel peut être effectué par chèque
-bancaire ou postal ou au moyen d'un titre interbancaire de paiement ou du
-prélèvement automatique.
+bancaire ou au moyen d'un titre interbancaire de paiement ou du prélèvement
+automatique.
 
 Lorsque l'employeur utilise la version électronique du titre emploi-entreprise
 occasionnel, il doit effectuer le versement des cotisations et contributions

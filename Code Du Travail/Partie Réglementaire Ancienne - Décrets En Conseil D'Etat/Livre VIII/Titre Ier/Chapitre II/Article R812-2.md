@@ -16,8 +16,7 @@ l'article L. 129-2. Cette demande comprend les mentions suivantes :
 - une déclaration sur l'honneur attestant que l'entreprise remplit la condition
 d'effectif fixée au 2° alinéa de l'article L. 812-1 ;
 
-- l'autorisation de prélèvement automatique sur un numéro de compte bancaire ou
-postal.
+- l'autorisation de prélèvement automatique sur un numéro de compte bancaire.
 
 Pour les particuliers employeurs, la demande comporte les mentions suivantes :
 

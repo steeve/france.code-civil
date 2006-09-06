@@ -14,5 +14,4 @@ ont été notifiées.
 
 Le versement des cotisations et contributions sociales dues par l'employeur qui
 recourt au "service chèque-emploi pour les très petites entreprises" peut être
-effectué par prélèvement automatique, par virement, par chèque bancaire ou
-postal.
+effectué par prélèvement automatique, par virement, par chèque bancaire.
