@@ -1,8 +1,8 @@
 Article D751-80
 ----
 Les taux des cotisations mentionnés à l'article D. 751-79 sont réduits de 75 %
-pendant une durée maximale de cent jours ouvrés consécutifs ou non par année
-civile pour chacun des salariés employés sous contrat de travail à durée
+pendant une durée maximale de cent dix-neuf jours ouvrés consécutifs ou non par
+année civile pour chacun des salariés employés sous contrat de travail à durée
 déterminée par les employeurs dont le chiffre d'affaires total de l'année
 précédente ou le chiffre d'affaires moyen des trois années précédentes est
 constitué pour au moins 50 % par la production de raisin de cuve. Lorsque les
@@ -10,8 +10,8 @@ salariés sont employés sous contrat de travail à durée indéterminée par ce
 employeurs, les taux de cotisations sont réduits de 85 %.
 
 Les taux des cotisations mentionnés à l'article D. 751-79 sont réduits de 90 %
-pendant une durée maximale de cent jours ouvrés consécutifs ou non par année
-civile pour chacun des salariés employés sous contrat de travail à durée
+pendant une durée maximale de cent dix-neuf jours ouvrés consécutifs ou non par
+année civile pour chacun des salariés employés sous contrat de travail à durée
 déterminée par les employeurs dont le chiffre d'affaires total de l'année
 précédente ou le chiffre d'affaires moyen des trois années précédentes est
 constitué pour au moins 50 % par les productions relevant des activités classées

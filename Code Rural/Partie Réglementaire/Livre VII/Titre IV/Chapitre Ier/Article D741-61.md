@@ -1,8 +1,8 @@
 Article D741-61
 ----
 Les taux des cotisations mentionnées à l'article D. 741-60 sont réduits de 75 %
-pendant une durée maximale de cent jours ouvrés consécutifs ou non par année
-civile pour chacun des salariés employés sous contrat de travail à durée
+pendant une durée maximale de cent dix-neuf jours ouvrés consécutifs ou non par
+année civile pour chacun des salariés employés sous contrat de travail à durée
 déterminée par les employeurs dont le chiffre d'affaires total de l'année
 précédente ou le chiffre d'affaires moyen des trois années précédentes est
 constitué pour au moins 50 % par la production de raisin de cuve. Lorsque les
@@ -10,8 +10,8 @@ salariés sont employés sous contrat de travail à durée indéterminée par ce
 employeurs, les taux de cotisations sont réduits de 85 %.
 
 Les taux des cotisations mentionnées à l'article D. 741-60 sont réduits de 90 %
-pendant une durée maximale de cent jours ouvrés consécutifs ou non par année
-civile pour chacun des salariés employés sous contrat de travail à durée
+pendant une durée maximale de cent dix-neuf jours ouvrés consécutifs ou non par
+année civile pour chacun des salariés employés sous contrat de travail à durée
 déterminée par les employeurs dont le chiffre d'affaires total de l'année
 précédente ou le chiffre d'affaires moyen des trois années précédentes est
 constitué pour au moins 50 % par les productions relevant des activités classées
@@ -27,3 +27,8 @@ salariés, dès la première embauche, la ou les déclaration(s) de taxe sur la
 valeur ajoutée afférente(s) à l'année ou aux années de réalisation du chiffre
 d'affaires et justifient de leur spécialisation dans les productions mentionnées
 au premier alinéa.
+
+Au titre de leur première année civile d'activité, les employeurs déclarent à la
+caisse de mutualité sociale agricole, dès la première embauche, leurs chiffres
+d'affaires prévisionnels jusqu'à ce qu'ils soient en mesure de produire les
+documents fiscaux permettant de confirmer leur spécialisation.
