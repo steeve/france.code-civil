@@ -1,6 +1,6 @@
 Article R5112-8
 ----
-La commission se compose de trente-sept membres :
+La commission se compose de vingt-sept membres :
 
 1° Huit membres de droit :
 
@@ -40,7 +40,7 @@ président ;
 c) Un représentant du syndicat de l'industrie du médicament vétérinaire, proposé
 par son président ;
 
-3° Vingt-six membres nommés par le ministre chargé de la santé pour une durée de
+3° Seize membres nommés par le ministre chargé de la santé pour une durée de
 trois ans et choisis en raison de leur compétence scientifique ou technique. Six
 au moins de ces membres sont choisis sur proposition du ministre chargé de
 l'enseignement supérieur.

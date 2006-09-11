@@ -20,12 +20,8 @@ desdits médicaments ainsi que les règles de leur conditionnement, leurs
 principales incompatibilités et un ensemble de données qui peuvent être utiles
 au pharmacien pour leur préparation et leur délivrance.
 
-La pharmacopée est constituée par la dernière édition ayant fait l'objet de
-l'arrêté ministériel prévu à l'article R. 5112-2 et par les éditions précédentes
-maintenues en vigueur par cet arrêté.
+La pharmacopée est constituée par sa dernière édition et par ses mises à jour,
+ayant fait l'objet de l'arrêté ministériel prévu à l'article R. 5112-2.
 
 Toute substance présentée sous une dénomination scientifique ou commune de la
 pharmacopée en vigueur répond aux spécifications de celle-ci.
-
-Les substances figurant sous une même appellation dans plusieurs éditions de la
-pharmacopée doivent être conformes à la dernière d'entre elles.
