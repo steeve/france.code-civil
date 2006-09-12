@@ -2,9 +2,7 @@ Article R5121-29
 ----
 Par dérogation aux dispositions des articles R. 5121-21 et R. 5121-25 :
 
-1° Lorsque la demande concerne une spécialité correspondant à une préparation
-figurant à la pharmacopée française ou au formulaire national, le demandeur peut
-être dispensé des expertises pharmacologiques, toxicologiques et cliniques ;
+1° Paragraphe abrogé
 
 2° Le demandeur n'est pas tenu de fournir les résultats des essais
 pharmacologiques et toxicologiques ni les résultats des essais cliniques s'il
