@@ -8,12 +8,12 @@ La liste des jurés suppléants prévue par l'article 264 comprend :
 2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
 
 3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de
-la Gironde, du Nord et des Yvelines ;
+la Gironde, du Nord, de Seine-et-Marne et des Yvelines ;
 
 4° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la
 Corse-du-Sud, de la Haute-Corse, de l'Essonne, des Hauts-de-Seine,
 d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la
-Seine-Maritime, de Seine-et-Marne, du Val-d'Oise et du Var ;
+Seine-Maritime, du Val-d'Oise et du Var ;
 
 5° Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
 

@@ -48,8 +48,7 @@ Guadeloupe
 
 450
 
-
-Guyane
+(Arr. 26 mai 2004, art. 2, 1°) Guyane
 
 400
 
@@ -73,8 +72,7 @@ Indre
 
 230
 
-
-Martinique
+(Arr. 26 mai 2004, art. 2, 2°) Martinique
 
 400
 
@@ -97,6 +95,10 @@ Paris
 Savoie
 
 390
+
+(Arr. 13 sept. 2006, art. 2) Seine-et-Marne
+
+1 400
 
 
 Seine-Saint-Denis
