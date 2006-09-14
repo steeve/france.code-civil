@@ -64,10 +64,7 @@ L. 5121-8 consistant en allergène, par famille de produits ;
 
 g) Des produits mentionnés à l'article L. 5136-1 ;
 
-5° 6 740 euros pour toute demande d'autorisation de mise sur le marché relative
-à une spécialité pharmaceutique ou à un autre médicament correspondant à des
-préparations figurant à la pharmacopée française ou au formulaire national,
-présentée conformément au 1° de l'article R. 5121-29 ;
+5° Paragraphe abrogé
 
 6° 1 011 euros pour toute demande tendant à obtenir une modification d'une
 autorisation de mise sur le marché dans les conditions prévues aux articles R.
