@@ -1,7 +1,8 @@
 Article R1323-16
 ----
 Le directeur général est assisté de directeurs selon l'organisation de
-l'établissement.
+l'établissement dont un directeur général adjoint qui le supplée en cas de
+vacance, d'absence ou d'empêchement.
 
 Le directeur chargé de la santé et du bien-être des animaux est nommé par arrêté
 du ministre chargé de l'agriculture, sur proposition du directeur général.

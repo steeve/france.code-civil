@@ -2,7 +2,7 @@ Article R1323-3
 ----
 Le conseil d'administration comprend, outre son président :
 
-1° Douze membres représentant l'Etat :
+1° Treize membres représentant l'Etat :
 
 a) Le directeur général de la santé au ministère de la santé ou son représentant
 ;
@@ -19,8 +19,7 @@ représentant ;
 e) Le directeur général de l'enseignement et de la recherche au ministère de
 l'agriculture ou son représentant ;
 
-f) Le directeur des affaires financières et économiques au ministère de
-l'agriculture ou son représentant ;
+f) Le secrétaire général du ministère de l'agriculture ou son représentant ;
 
 g) Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes au ministère de l'économie et des finances ou son
@@ -28,8 +27,8 @@ représentant ;
 
 h) Le directeur du budget au ministère du budget ou son représentant ;
 
-i) Le directeur de la recherche au ministère de la recherche ou son représentant
-;
+i) Le directeur général de la recherche et de l'innovation au ministère de la
+recherche ou son représentant ;
 
 j) Le directeur de la prévention des pollutions et des risques au ministère de
 l'environnement ou son représentant ;
@@ -40,7 +39,10 @@ postes au ministère de l'industrie ou son représentant ;
 l) Le directeur du développement et de la coopération technique au ministère des
 affaires étrangères ou son représentant ;
 
-2° Douze membres désignés pour une durée de trois ans renouvelable :
+m) Le directeur de l'eau au ministère chargé de l'environnement ou son
+représentant ;
+
+2° Treize membres désignés pour une durée de trois ans renouvelable :
 
 a) Deux membres des organisations de consommateurs agréées, sur proposition du
 Conseil national de la consommation ;
@@ -56,9 +58,12 @@ distribution ;
 e) Un membre des organisations professionnelles des industries de la pharmacie
 vétérinaire ;
 
-f) Trois personnalités qualifiées dans les domaines de compétence de l'agence ;
+f) Un membre des organisations professionnelles des industries de la protection
+des plantes ;
 
-g) Trois représentants du personnel de l'agence.
+g) Trois personnalités qualifiées dans les domaines de compétence de l'agence ;
+
+h) Trois représentants du personnel de l'agence.
 
 A l'exception des représentants du personnel qui sont élus selon les modalités
 fixées par le règlement intérieur de l'établissement, les membres du conseil

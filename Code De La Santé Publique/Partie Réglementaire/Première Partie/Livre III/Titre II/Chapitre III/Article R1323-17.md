@@ -4,7 +4,7 @@ Le directeur général peut déléguer sa signature aux personnels placés sous 
 autorité.
 
 Il peut déléguer une partie de ses pouvoirs, à l'exception des avis et décisions
-mentionnés aux deux derniers alinéas de l'article R. 794-16, à des agents
+mentionnés aux deux derniers alinéas de l'article R. 1325-15, à des agents
 désignés pour exercer des fonctions de responsabilité administrative ou
 scientifique dans l'établissement ou dans une unité commune avec d'autres
 organismes. Ces agents peuvent déléguer leur signature.
