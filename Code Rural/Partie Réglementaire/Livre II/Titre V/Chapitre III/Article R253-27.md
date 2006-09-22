@@ -1,11 +1,11 @@
 Article R253-27
 ----
-L'accord du ministre chargé de l'environnement est réputé acquis s'il n'a pas
-fait connaître au ministre chargé de l'agriculture son opposition à
-l'autorisation dans un délai de quatorze jours à compter de la date à laquelle
-il a reçu l'avis de la commission d'étude de la dissémination des produits issus
-du génie biomoléculaire ou de la date d'expiration du délai de soixante jours
-imparti à ladite commission.
+L'accord du ministre chargé de l'environnement est réputé acquis si ce dernier
+n'a pas fait connaître au ministre chargé de l'agriculture son opposition à
+l'autorisation dans un délai de quatorze jours à compter soit de la date de
+réception de l'avis de la commission d'étude de la dissémination des produits
+issus du génie biomoléculaire, soit de la date d'expiration du délai de soixante
+jours imparti à ladite commission pour se prononcer.
 
 Le ministre chargé de l'agriculture notifie sa décision dans un délai de
 quatre-vingt-dix jours à compter de la date d'enregistrement de la demande. Le
