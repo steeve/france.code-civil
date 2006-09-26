@@ -20,20 +20,15 @@ En cas d'acquisition d'un terrain destiné à la construction d'un ensemble de
 maisons individuelles la limite de 2 500 mètres carrés prévue ci-dessus
 s'applique à chaque maison.
 
-III. Le directeur des impôts du lieu de la situation des immeubles est autorisé
-à proroger le délai de quatre ans prévu au A de l'article 1594-0 G du code
-général des impôts. La demande de prorogation doit être formulée au plus tard
-dans le mois qui suit l'expiration du délai précédemment imparti.
+III. - La demande de prolongation du délai prévue au IV et au IV bis du A de
+l'article 1594-0 G du code général des impôts doit être formulée au plus tard
+dans le mois qui suit l'expiration du délai précédemment imparti. Elle doit être
+motivée et énoncer le délai supplémentaire normalement nécessaire à la bonne fin
+des travaux entrepris.
 
-Lorsqu'il s'agit de la construction d'ensembles à réaliser progressivement par
-tranches successives cette prorogation est accordée après avis du directeur des
-services départementaux du ministère de l'équipement et du logement.
+La prorogation susceptible d'être accordée peut être renouvelée dans les mêmes
+conditions.
 
-Dans les autres cas la demande de prorogation doit être motivée et énoncer le
-délai supplémentaire normalement nécessaire à la bonne fin des travaux
-entrepris. La durée de la prorogation susceptible d'être accordée ne peut
-excéder un an. Elle peut être renouvelée dans les mêmes conditions.
-
-Lorsque la prorogation a été accordée le certificat prévu au I doit être fourni
-dans les trois mois qui suivent l'expiration du délai finalement imparti pour la
-construction.
+Lorsqu'une prolongation a été accordée, le certificat prévu au I doit être
+fourni dans les trois mois qui suivent l'expiration du délai finalement imparti
+pour la construction.
