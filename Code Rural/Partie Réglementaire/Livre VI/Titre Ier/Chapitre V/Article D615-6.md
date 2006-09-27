@@ -14,3 +14,9 @@ susmentionné, le non-dépassement ou le dépassement de ces plafonds budgétair
 est constaté par arrêté conjoint des ministres chargés de l'agriculture et du
 budget pour chacun des paiements directs mentionnés à ces articles. Cet arrêté
 fixe pour chacun de ces paiements le taux de ce dépassement.
+
+III. - En cas de dépassement du plafond national fixé à l'annexe II du règlement
+(CE) n° 1782/2003 du 29 septembre 2003 susmentionné, le pourcentage de réduction
+linéaire du montant supplémentaire de l'aide mentionnée au 2 de l'article 12 de
+ce règlement est déterminé par arrêté conjoint des ministres chargés de
+l'agriculture et du budget.
