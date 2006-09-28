@@ -1,6 +1,6 @@
 Article R524-4
 ----
-Sont notamment pris en compte dans les ressources [*calcul*] :
+Sont notamment pris en compte dans les ressources :
 
 1°) les avantages en nature dont jouit éventuellement le parent isolé, à quelque
 titre que ce soit. Ces avantages sont évalués forfaitairement à un montant égal

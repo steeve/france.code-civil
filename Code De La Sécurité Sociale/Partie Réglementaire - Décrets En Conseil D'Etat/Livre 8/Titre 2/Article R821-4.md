@@ -55,3 +55,14 @@ Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activi
 ou d'un contrat d'avenir exerce une autre activité, il est fait application,
 pour les revenus procurés par cette activité, des dispositions du premier alinéa
 du présent article et du deuxième alinéa de l'article L. 821-3 du présent code.
+
+En cas de rupture d'un contrat insertion-revenu minimum d'activité pour un motif
+autre que celui prévu au premier alinéa de l'article L. 322-4-15-5 du code du
+travail, ou en cas de rupture d'un contrat d'avenir pour un motif autre que
+celui mentionné au IV de l'article L. 322-4-12 du même code, ou lorsque le
+contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité
+professionnelle rémunérée, la diminution du montant de l'aide à l'employeur
+définie au troisième alinéa du I de l'article L. 322-4-15-6 pour le contrat
+insertion-revenu minimum d'activité et au premier alinéa du II de l'article L.
+322-4-12 pour le contrat d'avenir n'est plus opérée à compter du premier jour du
+mois au cours duquel intervient la rupture ou la fin du contrat.

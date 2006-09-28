@@ -1,4 +1,5 @@
 Article R524-10
 ----
-L'allocation de parent isolé est due par l'organisme ou service qui est ou
-serait compétent pour verser des prestations familiales à son bénéficiaire.
+Lorsque le bénéficiaire interrompt son activité professionnelle ou sa formation
+rémunérée pendant une durée minimale de six mois, il peut bénéficier à nouveau
+et dans leur intégralité des dispositions prévues à l'article R. 524-6.

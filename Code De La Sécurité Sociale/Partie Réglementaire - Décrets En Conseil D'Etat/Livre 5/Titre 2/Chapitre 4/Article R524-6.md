@@ -1,21 +1,18 @@
 Article R524-6
 ----
-L'allocation de parent isolé est versée à compter du premier jour du mois civil
-au cours duquel la demande a été présentée.
+Lorsqu'en cours de droit à l'allocation, l'allocataire exerce une activité
+salariée ou non salariée ou suit une formation rémunérée, l'allocation de parent
+isolé n'est pas réduite pendant les trois premiers mois d'activité
+professionnelle du fait des rémunérations ainsi perçues.
 
-Sous réserve des dispositions des articles R. 524-7 et R. 524-8, le versement de
-l'allocation est poursuivi, selon le cas :
+Du quatrième au douzième mois d'activité professionnelle, le montant de
+l'allocation est diminué des revenus d'activité perçus par le bénéficiaire, qui
+font l'objet d'un abattement de 50 % et qui sont pris en compte dans les
+conditions fixées par l'article R. 524-5. Lorsque le bénéficiaire soit exerce
+une activité non salariée, soit exerce une activité salariée ou suit une
+formation rémunérée dont la durée contractuelle est au moins égale à
+soixante-dix-huit heures par mois, il perçoit mensuellement la prime forfaitaire
+mentionnée à l'article L. 524-5. Le montant de cette prime est de 225 euros.
 
-1°) soit pendant une période de douze mois consécutifs, dans la limite d'un
-délai de dix-huit mois à compter de la date d'ouverture du droit fixée en
-application de l'article R. 524-2 ;
-
-2°) soit, au-delà de la date résultant de l'application du 1° ci-dessus, jusqu'à
-ce que le plus jeune enfant à charge ait atteint l'âge de trois ans. Dans ce cas
-le versement de l'allocation est en outre prolongé d'une durée égale à celle qui
-s'est écoulée entre la date d'ouverture du droit et celle de la présentation de
-la demande, sous réserve que cette durée ait été inférieure à six mois.
-
-Pour l'application de l'alinéa précédent sont pris en compte tous les enfants de
-moins de trois ans, même si le parent isolé n'en a assumé la charge qu'après la
-présentation de sa demande.
+Pour la détermination de la durée contractuelle, il est tenu compte le cas
+échéant des différents contrats conclus par l'intéressé au cours du même mois.

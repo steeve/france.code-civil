@@ -31,12 +31,17 @@ Les ressources perçues hors du territoire national sont prises en compte comme
 si elles avaient été perçues sur ce territoire.
 
 L'allocation d'assurance précédemment perçue par l'intéressé, la majoration de
-l'allocation de solidarité, les prestations familiales, la prime de retour à
-l'emploi et l'allocation de logement prévue aux articles L. 831-1 et suivants du
-code de la sécurité sociale ne sont pas prises en compte pour la détermination
-des ressources. De même, la pension alimentaire ou la prestation compensatoire
-fixée par une décision de justice devenue exécutoire est déduite des ressources
-de celui qui la verse.
+l'allocation de solidarité, les prestations familiales, la prime exceptionnelle
+de retour à l'emploi instituée par le décret n° 2005-1054 du 29 août 2005 créant
+une prime exceptionnelle de retour à l'emploi en faveur de certains
+bénéficiaires de minima sociaux, la prime de retour à l'emploi instituée par
+l'article L. 322-12, les primes forfaitaires instituées respectivement par les
+articles L. 351-20 du présent code, L. 262-11 du code de l'action sociale et des
+familles et L. 524-5 du code de la sécurité sociale, et l'allocation de logement
+prévue aux articles L. 831-1 et suivants du code de la sécurité sociale ne sont
+pas prises en compte pour la détermination des ressources. De même, la pension
+alimentaire ou la prestation compensatoire fixée par une décision de justice
+devenue exécutoire est déduite des ressources de celui qui la verse.
 
 Il n'est pas tenu compte des allocations d'assurance ou de solidarité, des
 rémunérations de stage ou des revenus d'activité perçus pendant la période de

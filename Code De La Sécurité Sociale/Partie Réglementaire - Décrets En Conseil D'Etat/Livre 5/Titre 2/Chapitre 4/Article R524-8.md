@@ -1,9 +1,11 @@
 Article R524-8
 ----
-Lorsque le bénéficiaire de l'allocation ne remplit plus les conditions mises
-pour son attribution, celle-ci cesse d'être due à compter du premier jour du
-mois civil au cours duquel ces conditions ont cessé d'être remplies .
+Lorsque, au terme de la période de douze mois d'activité professionnelle définie
+à l'article R. 524-6, le nombre total des heures contractuelles n'atteint pas
+sept cent cinquante heures, le bénéfice de l'allocation de parent isolé ou de la
+prime forfaitaire, calculés dans les conditions prévues à cet article, est
+maintenu en faveur des bénéficiaires qui exercent une activité professionnelle.
 
-Toutefois, lorsque l'allocataire se marie ou se met en situation de vie
-maritale, la prestation cesse d'être due à compter du premier jour du mois civil
-suivant celui au cours duquel survient le changement de situation.
+Le maintien de l'allocation ou de la prime forfaitaire prend alors fin à compter
+du premier jour du mois qui suit celui au cours duquel a été atteint le plafond
+de sept cent cinquante heures.

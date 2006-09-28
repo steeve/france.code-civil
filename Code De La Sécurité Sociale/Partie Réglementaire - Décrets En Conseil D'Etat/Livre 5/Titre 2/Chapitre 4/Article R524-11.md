@@ -1,8 +1,7 @@
 Article R524-11
 ----
-La personne qui sollicite le bénéfice de l'allocation de parent isolé est tenue
-[*obligation*] de faire connaître à l'organisme ou service chargé de la
-liquidation de cette prestation toutes informations relatives à sa résidence, sa
-situation de famille, ses ressources et aux biens dont elle dispose. Le
-bénéficiaire de l'allocation doit faire connaître audit organisme ou service
-tout changement survenu dans l'un ou l'autre de ces éléments.
+Le droit au cumul et à la prime forfaitaire prévu en application des
+dispositions de l'article R. 262-10 du code de l'action sociale et des familles
+se poursuit, le cas échéant, pour les anciens titulaires du revenu minimum
+d'insertion bénéficiaires de l'allocation de parent isolé, dans les conditions
+et limites définies aux articles R. 524-6 à R. 524-10.
