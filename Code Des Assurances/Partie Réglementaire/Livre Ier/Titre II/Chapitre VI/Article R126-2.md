@@ -1,23 +1,34 @@
 Article R126-2
 ----
-Les contrats d'assurance de biens ne peuvent stipuler, pour les dommages
-résultant d'actes de terrorisme ou d'attentats, de franchise ou de plafond
-autres que ceux qu'ils prévoient pour des dommages de même nature qui n'auraient
-pas pour origine un acte de terrorisme ou un attentat.
+I. - Sont exclus du champ d'application de l'article L. 126-2 les contrats
+d'assurance de biens couvrant les dommages subis par les corps de véhicules
+ferroviaires, aériens, maritimes, lacustres et fluviaux ainsi que par les
+marchandises transportées.
 
-Toutefois, lorsqu'ils concernent des grands risques définis à l'article L.
-111-6, les contrats d'assurance de biens mentionnés à l'article R. 126-1 peuvent
-déroger aux dispositions du premier alinéa dans les limites fixées par arrêté du
-ministre chargé de l'économie et des finances. Ces dérogations ne peuvent en
-aucun cas conduire à réduire le montant de la garantie, net de franchise, pour
-les dommages résultant d'actes de terrorisme ou d'attentats, à un montant
-inférieur aux montants suivants :
+Toutefois, restent soumis à l'application de l'article L. 126-2 :
 
-1. Pour les marchandises transportées, 20 % du montant de garantie, net de
-franchise, prévu par le contrat pour des dommages de même nature qui n'auraient
-pas pour origine un acte de terrorisme ou un attentat ;
+1° Les contrats d'assurance de biens couvrant les dommages subis par les corps
+de véhicules aériens destinés à une activité non commerciale ou à but non
+lucratif lorsque la valeur unitaire des corps déclarée au contrat est inférieure
+à 1 million d'euros ;
 
-2. Pour les autres risques, 20 % du montant de garantie, net de franchise, prévu
-par le contrat pour des dommages de même nature qui n'auraient pas pour origine
-un acte de terrorisme ou un attentat et, en tout état de cause, 20 millions
-d'euros.
+2° Les contrats d'assurance de biens couvrant les dommages subis par les corps
+de véhicules maritimes, lacustres ou fluviaux destinés à la navigation de
+plaisance lorsque la valeur unitaire des corps déclarée au contrat est
+inférieure à 1 million d'euros.
+
+II. - Lorsqu'ils concernent des grands risques définis au 2° de l'article L.
+111-6, les contrats d'assurance de biens mentionnés au premier alinéa de
+l'article L. 126-2 peuvent stipuler, pour la réparation des dommages résultant
+d'actes de terrorisme ou d'attentats, des limites de franchise et de plafonds
+différentes de celles fixées au contrat au titre de la garantie incendie, sous
+les conditions suivantes :
+
+1° Le montant de la garantie, net de franchise, pour les dommages résultant
+d'actes de terrorisme ou d'attentats, ne peut pas être inférieur à 20 % du
+montant de garantie, net de franchise, prévu par le contrat au titre de la
+garantie incendie et, en tout état de cause, 20 millions d'euros ;
+
+2° Le montant de la franchise, pour les dommages résultant d'actes de terrorisme
+ou d'attentats, ne peut pas être supérieur au double de celui prévu par le
+contrat au titre de la garantie incendie.
