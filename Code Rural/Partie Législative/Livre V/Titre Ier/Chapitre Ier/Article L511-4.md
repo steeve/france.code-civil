@@ -1,23 +1,20 @@
 Article L511-4
 ----
-Les chambres d'agriculture peuvent, dans leur circonscription, créer ou
-subventionner tous établissements, institutions ou services d'utilité agricole,
-toutes entreprises collectives d'intérêt agricole.
+Dans le cadre de sa mission d'animation et de développement des territoires
+ruraux la chambre départementale d'agriculture :
 
-Les chambres d'agriculture peuvent se concerter avec les chambres de commerce et
-d'industrie en vue de créer ou subventionner des oeuvres ou entreprises
-collectives présentant un intérêt commun à l'agriculture, à l'industrie ou au
-commerce.
+1° Elabore et met en oeuvre, seule ou conjointement avec d'autres établissements
+du réseau, des programmes d'intérêt général regroupant les actions et les
+financements concourant à un même objectif. Les services rendus par la chambre
+aux entreprises agricoles sont retracés dans ces programmes ;
 
-Les établissements ou services d'utilité agricole créés par les chambres
-d'agriculture et par l'assemblée permanente des chambres d'agriculture en vertu
-du présent article sont gérés et leurs opérations sont comptabilisées
-conformément aux lois et usages du commerce.
+2° Crée et gère un centre de formalités des entreprises compétent pour les
+personnes exerçant à titre principal des activités agricoles et leur apporte
+tous conseils utiles pour leur développement. Les conditions dans lesquelles la
+chambre d'agriculture conserve et utilise les informations recueillies dans
+l'exercice de cette mission sont déterminées par décret ;
 
-Les prévisions de recettes et de dépenses de ces établissements et services
-doivent faire l'objet de budgets spéciaux. Elles ne figurent au budget ordinaire
-de la chambre d'agriculture intéressée ou de l'assemblée permanente que par leur
-solde créditeur ou débiteur.
-
-Un arrêté conjoint des ministres intéressés fixe les modalités d'application du
-présent article.
+3° Peut remplir, par délégation de l'Etat et dans des conditions fixées par
+décret, des tâches de collecte, de traitement et de conservation des données
+individuelles relatives aux exploitations agricoles aux fins de simplifier les
+procédures administratives qui leur sont applicables.
