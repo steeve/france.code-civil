@@ -14,21 +14,10 @@ durable de l'agriculture, de la forêt et du territoire.
 
 Elle remplit les missions suivantes :
 
-- elle apporte aux chambres départementales et régionales d'agriculture l'appui
-nécessaire à leur fonctionnement et à leurs actions dans les domaines technique,
-juridique, économique et financier. Elle réalise la synthèse des données
-relatives à la situation de ces chambres ;
-
 - elle contribue, notamment par ses avis, à la définition des orientations et
 des conditions de mise en oeuvre des politiques agricoles, du développement
 rural et de l'environnement, définies par l'Etat et l'Union européenne, ainsi
 que dans le cadre international ;
 
 - elle apporte son concours à la coopération pour le développement de
-l'agriculture des pays tiers ;
-
-- elle a compétence pour représenter l'ensemble des chambres d'agriculture en
-matière sociale et pour signer au nom de ces chambres tout accord national
-résultant d'une négociation à laquelle elle participe, sous réserve du vote
-d'une délibération spéciale à cet effet par la session, ou en cas d'urgence,
-pendant l'intervalle des sessions, par le comité permanent général.
+l'agriculture des pays tiers.
