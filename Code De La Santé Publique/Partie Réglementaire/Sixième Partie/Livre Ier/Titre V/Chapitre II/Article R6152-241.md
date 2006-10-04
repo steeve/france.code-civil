@@ -14,4 +14,4 @@ de santé conformément aux dispositions du 1° de l'article R. 6152-206 ;
 
 Le praticien détaché qui, ayant sollicité sa réintégration, refuse trois
 propositions de poste à l'issue de la procédure de mutation, peut être licencié
-sans indemnité après avis de la commission paritaire régionale.
+sans indemnité après avis de la commission statutaire nationale.
