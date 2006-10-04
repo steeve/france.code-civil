@@ -13,8 +13,4 @@ affectés à ces établissements dans les conditions prévues par les décrets p
 pour l'application de l'article L. 6142-5 ;
 
 2° A des praticiens hospitaliers à plein temps ou à temps partiel qui sont
-détachés auprès d'eux en application de l'article R. 6152-51.
-
-Les personnels et praticiens sont régis par les statuts qui leur sont
-respectivement applicables, notamment par les dispositions relatives à leur
-rémunération.
+détachés auprès d'eux en application des articles R. 6152-51 ou R. 6152-238.

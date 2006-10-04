@@ -1,7 +1,10 @@
 Article R6152-208
 ----
-Les nominations sont prononcées par arrêté du préfet de région, parmi les
-praticiens qui ont fait acte de candidature aux postes vacants, après avis de la
-commission paritaire régionale. Celle-ci dispose des avis motivés de la
-commission médicale d'établissement et du conseil d'administration, transmis par
-le directeur de l'établissement au préfet du département.
+La nomination dans l'établissement public de santé est prononcée par arrêté du
+ministre chargé de la santé, après avis de la commission médicale
+d'établissement et du conseil exécutif. Si ces avis sont divergents, l'avis de
+la commission statutaire nationale est requis.
+
+La nomination est notifiée, par lettre recommandée avec avis de réception, aux
+praticiens ainsi qu'aux directeurs d'établissement intéressés. Elle fait l'objet
+d'une publication au Journal officiel de la République française.

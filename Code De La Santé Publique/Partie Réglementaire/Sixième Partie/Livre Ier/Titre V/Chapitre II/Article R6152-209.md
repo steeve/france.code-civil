@@ -1,25 +1,31 @@
 Article R6152-209
 ----
-Les nominations des praticiens des hôpitaux à temps partiel régis par la
-présente section leur sont notifiées par lettre recommandée avec avis de
-réception, ainsi qu'aux directeurs d'établissement intéressés. Elles sont
-affichées au siège de la direction régionale des affaires sanitaires et sociales
-et publiées au Recueil des actes administratifs de la préfecture de chaque
-département de la région.
+Lorsqu'il est pourvu à la vacance par candidature externe, dès réception de
+l'arrêté de nomination mentionné à l'article R. 6152-208, l'affectation est
+prononcée sur le poste dans le pôle d'activité sur proposition du responsable de
+pôle et du président de la commission médicale d'établissement.
 
-L'intéressé doit rejoindre son poste dans le délai de deux mois à compter de la
-réception de la notification, sauf dérogation accordée par le préfet du
-département.
+En cas de mutation interne, le praticien déjà nommé dans l'établissement est
+affecté dans un pôle d'activité sur proposition du responsable de pôle et du
+président de la commission médicale d'établissement.
 
-Si l'intéressé ne rejoint pas son poste, sa nomination est rapportée après mise
-en demeure.
+En cas de transfert de poste d'un pôle d'activité à un autre pôle du même
+établissement public de santé intervenant dans le cadre d'une réorganisation
+interne, le praticien affecté sur ce poste fait l'objet d'une nouvelle
+affectation dans le pôle d'accueil, sur proposition du responsable de ce pôle et
+du président de la commission médicale d'établissement, dès lors que le profil
+du poste est compatible avec la spécialité d'exercice du praticien.
 
-Dans le cas d'une première nomination, il perd le bénéfice de son inscription
-sur la liste d'aptitude. Dans le cas d'une nomination consécutive à une demande
-de mutation, il est réputé avoir obtenu sa mutation ; il est en outre passible
-de sanction disciplinaire.
+En cas de fusion de deux ou plusieurs établissements publics de santé, les
+praticiens hospitaliers des établissements concernés sont affectés sur un poste
+dans un pôle du nouvel établissement, sur proposition du responsable du pôle
+d'accueil et du président de la commission médicale d'établissement.
 
-Le praticien établit sa résidence effective à proximité du lieu d'exercice de
-ses fonctions dans des conditions compatibles avec les responsabilités qu'il
-exerce dans le service public hospitalier, appréciées dans chaque cas par le
-préfet du département.
+Lorsque le responsable du pôle d'activité et le président de la commission
+médicale d'établissement émettent une proposition divergente, l'affectation est
+prononcée par arrêté du ministre chargé de la santé après avis de la commission
+statutaire nationale.
+
+Dans tous les cas, l'affectation est enregistrée par l'établissement national
+chargé de la gestion des personnels de direction de la fonction publique
+hospitalière et des praticiens hospitaliers.

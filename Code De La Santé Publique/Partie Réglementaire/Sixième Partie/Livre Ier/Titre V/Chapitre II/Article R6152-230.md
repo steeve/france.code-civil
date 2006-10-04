@@ -6,10 +6,10 @@ des soins coûteux et prolongés et qui figure sur la liste établie en applicat
 de l'article 28 du décret n° 86-442 du 14 mars 1986 relatif à la désignation des
 médecins agréés, à l'organisation des comités médicaux et des commissions de
 réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics
-et au régime de congés de maladie des fonctionnaires, a droit à un congé de
-longue maladie d'une durée maximale de trois ans. Il conserve, dans cette
-position, la totalité de ses émoluments pendant un an et la moitié de ses
-émoluments pendant les deux années suivantes.
+et au régime de congés de maladie des fonctionnaires, est de droit mis en congé
+de longue maladie pour une durée maximale de trois ans par décision du préfet de
+département. Il conserve, dans cette position, la totalité de ses émoluments
+pendant un an et la moitié de ses émoluments pendant les deux années suivantes.
 
 Le praticien qui a obtenu un congé de longue maladie ne peut bénéficier d'un
 autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses

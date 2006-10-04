@@ -1,6 +1,6 @@
 Article R6152-83
 ----
-Lorsque la commission statutaire nationale prévue à l'article R. 6152-18 est
+Lorsque la commission statutaire nationale prévue à l'article R. 6152-324 est
 appelée à donner un avis sur l'insuffisance professionnelle d'un praticien dans
 les conditions fixées à l'article R. 6152-80, elle siège dans la composition
 suivante :

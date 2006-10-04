@@ -1,33 +1,31 @@
 Article R6152-11
 ----
-Par dérogation aux dispositions de l'article R. 6152-7, peuvent poser leur
-candidature à la fonction de praticien hospitalier associé les médecins,
-pharmaciens, chirurgiens-dentistes, qui, n'étant pas de nationalité française,
-sous réserve des engagements internationaux souscrits par la France, ni
-ressortissant d'un Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen ou d'Andorre, remplissent les autres conditions
-requises pour l'exercice de la profession de médecin, de pharmacien, ou de
-chirurgien-dentiste, prévues par le présent code et qui sont inscrits sur une
-liste d'aptitude en cours de validité après réussite au concours national de
-praticien des établissements publics de santé.
+Lorsqu'il est pourvu à une vacance par candidature externe, dès réception de
+l'arrêté de nomination mentionné à l'article R. 6152-8, l'affectation est
+prononcée sur le poste dans le pôle d'activité, sur proposition du responsable
+de pôle et du président de la commission médicale d'établissement.
 
-La nomination en qualité de praticien hospitalier associé est prononcée par
-arrêté du ministre chargé de la santé pour une période de deux ans après avis de
-la commission statutaire nationale. Celle-ci dispose des avis motivés de la
-commission médicale d'établissement et du conseil d'administration, transmis par
-le directeur au préfet du département, sauf en ce qui concerne les postes à
-pourvoir en psychiatrie, pour lesquels ces avis ne sont pas requis.
+En cas de mutation interne, le praticien déjà nommé dans l'établissement est
+affecté dans un pôle d'activité sur proposition du responsable de pôle et du
+président de la commission médicale d'établissement.
 
-Leur nomination est renouvelable deux fois, dans les mêmes formes.
+En cas de transfert de poste d'un pôle d'activité à un autre pôle du même
+établissement public de santé intervenant dans le cadre d'une réorganisation
+interne, le praticien affecté sur ce poste fait l'objet d'une nouvelle
+affectation dans le pôle d'accueil, sur proposition du responsable de ce pôle et
+du président de la commission médicale d'établissement, dès lors que le profil
+du poste est compatible avec la spécialité d'exercice du praticien.
 
-Ces praticiens peuvent bénéficier du renouvellement de leurs fonctions dans un
-établissement différent de celui de la nomination initiale, sur un poste vacant.
+En cas de fusion de deux ou plusieurs établissements publics de santé, les
+praticiens hospitaliers des établissements concernés sont affectés sur un poste
+dans un pôle du nouvel établissement, sur proposition du responsable du pôle
+d'accueil et du président de la commission médicale d'établissement.
 
-Dès lors qu'ils remplissent les conditions de nationalité prévues au 1° de
-l'article R. 6152-302 et s'ils comptent quatre années de services effectifs dans
-un établissement public de santé, les praticiens hospitaliers associés peuvent
-être nommés praticiens hospitaliers, par arrêté du ministre chargé de la santé
-pris après avis de la commission statutaire nationale.
+Lorsque le responsable du pôle d'activité et le président de la commission
+médicale d'établissement émettent une proposition divergente, l'affectation est
+prononcée par arrêté du ministre chargé de la santé après avis de la commission
+statutaire nationale.
 
-Celle-ci dispose, le cas échéant, des avis des instances mentionnées au deuxième
-alinéa du présent article.
+Dans tous les cas, l'affectation est enregistrée par l'établissement national
+chargé de la gestion des personnels de direction de la fonction publique
+hospitalière et des praticiens hospitaliers.

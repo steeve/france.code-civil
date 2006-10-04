@@ -28,4 +28,4 @@ interdiction d'exercice de la profession ;
 situation régulière au regard de la réglementation relative aux conditions de
 séjour et de travail ;
 
-7° Etre âgé de moins de 62 ans.
+7° Etre âgé de moins de 65 ans.

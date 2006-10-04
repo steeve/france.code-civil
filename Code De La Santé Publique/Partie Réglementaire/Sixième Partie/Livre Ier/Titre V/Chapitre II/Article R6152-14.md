@@ -1,9 +1,9 @@
 Article R6152-14
 ----
-Les dispositions de l'article R. 6152-3, du 8° de l'article R. 6152-23 ainsi que
-des 2° et 3° de l'article R. 6152-24, de l'article R. 6152-30, de l'article R.
-6152-46, du paragraphe 5 de la sous-section 6 et de la sous-section 9 ne sont
-pas applicables aux praticiens hospitaliers nommés pour une période probatoire.
+Les dispositions de l'article R. 6152-3, ainsi que des 2° et 3° de l'article R.
+6152-24, de l'article R. 6152-30, de l'article R. 6152-46, des paragraphes 3 et
+6 de la sous-section 6 et de la sous-section 9 ne sont pas applicables aux
+praticiens hospitaliers nommés pour une période probatoire.
 
 Les praticiens hospitaliers nommés pour une période probatoire peuvent être
 placés en disponibilité d'office dans les cas prévus aux articles R. 6152-37, R.

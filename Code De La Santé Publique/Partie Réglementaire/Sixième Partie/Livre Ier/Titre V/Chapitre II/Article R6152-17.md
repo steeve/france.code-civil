@@ -1,21 +1,22 @@
 Article R6152-17
 ----
-Les dispositions des articles R. 6152-1, R. 6152-2, R. 6152-4, des 1°, 2°, 3°,
-4°, 5° de l'article R. 6152-23, des 1°, 4° et 5° de l'article R. 6152-24, des
-articles R. 6152-25 à R. 6152-29, R. 6152-31, R. 6152-32 à l'exception des
-dispositions relatives au remboursement des frais de changement de résidence, de
-l'article R. 6152-34, de l'article R. 6152-35 à l'exception des 4°, 5°, 6°, 9°
-et des articles R. 6152-49, R. 6152-73, R. 6152-97 et R. 6152-98 sont
-applicables aux praticiens recrutés à titre provisoire.
+Pour l'application des articles R. 6152-15 et R. 6152-16, les services accomplis
+à temps plein sont comptés pour la totalité de leur durée. Les services
+accomplis à temps partiel sont comptés au prorata de leur durée. Toutefois, ceux
+accomplis dans les conditions fixées par la section 2 du présent chapitre ainsi
+que ceux accomplis par les personnels enseignants et hospitaliers à temps plein
+sont comptés comme des services à temps plein.
 
-Dans ce cas, les compétences confiées au ministre par ces mêmes dispositions
-sont exercées par le préfet de département.
+Les fonctions accomplies par les médecins et les chirurgiens-dentistes en
+cabinet libéral ou en laboratoire d'analyses médicales sont prises en compte à
+compter de la date d'installation, dans la limite de vingt années, aux 2/3 pour
+les douze premières années et pour 1/3 pour les huit années suivantes. Pour les
+pharmaciens, les fonctions accomplies en officine ou en laboratoire d'analyses
+médicales sont prises en compte à compter de la date de leur inscription à
+l'ordre des pharmaciens, dans les conditions prévues ci-dessus.
 
-Les praticiens recrutés à titre provisoire bénéficient de congés de maladie,
-d'accident du travail et de maladie professionnelle, de maternité, de paternité
-ou d'adoption dans les conditions prévues par les dispositions du code de la
-sécurité sociale.
+Les fonctions cumulées accomplies à un ou plusieurs titres sur une même période
+sont prises en compte au maximum pour un temps plein.
 
-Ils ne peuvent ni ouvrir un compte épargne-temps, ni utiliser les droits
-épargnés sur un compte épargne-temps ouvert avant leur recrutement à titre
-provisoire.
+Les décisions de classement prévues au présent article sont prononcées par
+arrêté du ministre chargé de la santé.

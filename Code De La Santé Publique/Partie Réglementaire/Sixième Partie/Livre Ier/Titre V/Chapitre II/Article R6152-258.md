@@ -1,6 +1,6 @@
 Article R6152-258
 ----
-Lorsque la commission nationale paritaire prévue à l'article R. 6152-216 est
+Lorsque la commission nationale statutaire prévue à l'article R. 6152-324 est
 appelée à donner un avis sur l'insuffisance professionnelle d'un praticien à
 temps partiel des hôpitaux, elle siège dans la composition suivante :
 

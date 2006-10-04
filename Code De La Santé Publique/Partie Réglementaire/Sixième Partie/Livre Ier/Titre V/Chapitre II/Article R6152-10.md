@@ -1,16 +1,21 @@
 Article R6152-10
 ----
-Par dérogation aux dispositions de l'article R. 6152-6, les praticiens
-hospitaliers régis par les dispositions de la section 2 du présent chapitre et
-nommés dans un emploi de praticien à titre permanent, dont le poste a été
-transformé en poste à temps plein, peuvent demander à exercer leurs fonctions à
-temps plein et à être nommés sur leur poste en qualité de praticien hospitalier.
+Par dérogation aux dispositions de l'article R. 6152-7, peuvent poser leur
+candidature à la fonction de praticien hospitalier associé les médecins,
+pharmaciens, chirurgiens-dentistes, qui, n'étant pas de nationalité française,
+sous réserve des engagements internationaux souscrits par la France, ni
+ressortissants d'un Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen ou d'Andorre, remplissent les autres conditions
+requises pour l'exercice de la profession de médecin, de pharmacien, ou de
+chirurgien-dentiste, prévues par le présent code et qui sont inscrits sur une
+liste d'aptitude en cours de validité après réussite au concours national de
+praticien des établissements publics de santé.
 
-Leur candidature est examinée par la commission statutaire nationale. Celle-ci
-dispose des avis motivés de la commission médicale d'établissement et du conseil
-d'administration, transmis par le directeur au préfet du département, sauf en ce
-qui concerne les postes à pourvoir en psychiatrie, pour lesquels ces avis ne
-sont pas requis.
+La nomination dans un établissement public de santé en qualité de praticien
+hospitalier associé est prononcée par arrêté du ministre chargé de la santé
+selon les modalités prévues à l'article R. 6152-8.
 
-Leur nomination est prononcée par arrêté du ministre chargé de la santé après
-avis de la commission statutaire nationale.
+Dès lors qu'il remplit les conditions de nationalité prévues au premier alinéa
+du présent article et sous réserve qu'il ait effectué une période d'une année de
+service effectif validée dans les conditions prévues à l'article R. 6152-13, le
+praticien est nommé à titre permanent.

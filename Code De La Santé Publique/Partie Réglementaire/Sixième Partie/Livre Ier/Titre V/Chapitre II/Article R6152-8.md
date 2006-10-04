@@ -1,10 +1,10 @@
 Article R6152-8
 ----
-Lorsqu'un poste de praticien hospitalier est vacant au sein de l'unité
-hospitalière du Centre d'accueil et de soins hospitaliers de Nanterre, les
-praticiens qui sont régis par le statut des praticiens à temps plein de
-l'hôpital de la maison de Nanterre, peuvent au même titre que les personnes
-mentionnées au 1° de l'article R. 6152-7 faire acte de candidature.
+La nomination dans l'établissement public de santé est prononcée par arrêté du
+ministre chargé de la santé, après avis de la commission médicale
+d'établissement et du conseil exécutif. Si ces avis sont divergents, l'avis de
+la commission statutaire nationale est requis.
 
-Leur mutation est, le cas échéant, prononcée selon la procédure prévue aux
-articles R. 6152-9 et R. 6152-12.
+La nomination est notifiée par lettre recommandée avec avis de réception aux
+praticiens ainsi qu'aux directeurs d'établissement intéressés. Elle fait l'objet
+d'une publication au Journal officiel de la République française.

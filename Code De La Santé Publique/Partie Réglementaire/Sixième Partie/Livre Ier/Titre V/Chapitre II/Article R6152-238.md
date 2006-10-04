@@ -13,9 +13,7 @@ présent statut ;
 2° Auprès d'un établissement ou d'un organisme privé à but non lucratif
 participant au service public hospitalier ou d'un établissement privé entrant
 dans le champ d'application du I de l'article L. 313-12 du code de l'action
-sociale et des familles. Ces praticiens sont rémunérés sur la base des
-émoluments mentionnés au 1° de l'article R. 6152-220, éventuellement majorés,
-dans la limite de 15 % ;
+sociale et des familles ;
 
 3° Auprès d'une administration de l'Etat, auprès d'un établissement public de
 l'Etat ou d'une entreprise publique ;
