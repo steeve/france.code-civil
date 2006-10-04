@@ -1,17 +1,21 @@
 Article L232-1
 ----
-Les dispositions relatives à la traçabilité des produits et denrées sont
-définies à l'article L. 214-1-1 du code de la consommation, ci-après reproduit :
+Lorsqu'un exploitant du secteur alimentaire ou du secteur de l'alimentation
+animale n'a pas respecté les obligations qui lui sont faites par les
+dispositions des articles 19 ou 20 du règlement (CE) n° 178/2002 du Parlement
+européen et du Conseil du 28 janvier 2002, l'autorité administrative compétente
+peut ordonner, en utilisant notamment les informations issues des procédures de
+traçabilité que l'exploitant est tenu de mettre à sa disposition, la
+destruction, le retrait, la consignation ou le rappel en un ou plusieurs lieux
+du ou des lots de produits d'origine animale, de denrées alimentaires en
+contenant ou d'aliments pour animaux ou toute autre mesure qu'elle juge
+nécessaire.
 
-"Art. L. 214-1-1 : Un décret en Conseil d'Etat fixe la liste des produits ou
-denrées pour lesquels la traçabilité doit être assurée. Il précise les
-obligations des producteurs et des distributeurs qui sont tenus d'établir et de
-mettre à jour des procédures d'informations enregistrées et d'identification des
-produits ou des lots de produits. Ces procédures permettent de connaître
-l'origine de ces produits et de ces lots, ainsi que les conditions de leur
-production et de leur distribution.
+Tout opérateur qui, ayant acquis ou cédé un ou plusieurs éléments du lot, a
+connaissance de la décision de consignation ou de retrait, est tenu d'en
+informer celui qui lui a fourni la marchandise et ceux à qui il l'a cédée.
 
-L'autorité administrative précise, pour chaque produit ou denrée, les étapes de
-production et de commercialisation pour lesquelles la traçabilité doit être
-assurée, ainsi que les moyens à mettre en oeuvre en fonction de la taille des
-entreprises".
+Les frais résultant de la décision de consignation, de retrait ou de rappel,
+notamment les frais de transport, de stockage, d'analyses et de destruction,
+sont mis à la charge de l'exploitant mentionné au premier alinéa, sans préjudice
+des recours susceptibles d'être exercés par ce dernier contre les tiers.

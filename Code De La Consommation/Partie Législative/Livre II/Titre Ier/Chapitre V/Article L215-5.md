@@ -6,8 +6,9 @@ que dans le cas de flagrant délit de falsification ou lorsqu'elles portent sur 
 
 1° Les produits reconnus falsifiés, corrompus ou toxiques ;
 
-2° Les produits reconnus impropres à la consommation, à l'exception des denrées
-visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code rural dont
+2° Les produits reconnus impropres à la consommation, à l'exception des produits
+d'origine animale, des denrées alimentaires en contenant ainsi que des aliments
+pour animaux d'origine animale ou contenant des produits d'origine animale dont
 l'impropriété à la consommation ne peut être reconnue qu'en fonction de
 caractères organoleptiques anormaux ou de signes de pathologie lésionnelle ;
 

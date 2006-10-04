@@ -1,18 +1,20 @@
 Article L231-4
 ----
-L'autorité administrative peut, selon des modalités définies par un décret en
-Conseil d'Etat, prendre toutes mesures destinées à collecter des données et
-informations relatives aux denrées visées à l'article L. 231-1 en vue d'études
-épidémiologiques des affections et maladies liées à leur consommation et à en
-assurer le traitement et la diffusion.
+I. - Par dérogation aux dispositions du I de l'article L. 231-2, des tâches
+particulières liées aux contrôles officiels prévus aux 1° à 5° du II de
+l'article L. 231-1, à l'exception de la constatation des infractions, peuvent
+être déléguées à un ou plusieurs organismes de contrôle conformément à l'article
+5 du règlement (CE) n° 882/2004 du Parlement et du Conseil du 29 avril 2004. Un
+décret en Conseil d'Etat définit la nature de ces tâches, les modalités de ces
+délégations ainsi que les conditions auxquelles doivent satisfaire les
+organismes de contrôle.
 
-Ce décret précise notamment dans quelles conditions les producteurs, les
-distributeurs et les laboratoires qui ont été agréés pour réaliser les analyses
-effectuées dans le cadre des contrôles prévus à l'article L. 231-1 ou reconnus
-pour les analyses d'autocontrôles sont tenus de communiquer à l'autorité
-administrative des résultats d'examens concernant selon les cas une denrée ou un
-groupe de denrées, ayant fait ou non l'objet d'une analyse statistique, lorsque
-cela s'avère nécessaire pour prévenir ou maîtriser les risques pour la santé
-humaine ou animale.
+II. - Par dérogation aux dispositions du I de l'article L. 231-2, le personnel
+des abattoirs peut être autorisé à participer aux contrôles officiels
+conformément à l'article 5 du règlement (CE) n° 854/2004 du Parlement européen
+et du Conseil du 29 avril 2004 selon des modalités définies par décret.
 
-Ces résultats sont également portés à la connaissance des autorités sanitaires.
+III. - Des modalités dérogatoires peuvent être appliquées au contrôle d'hygiène
+de la viande, en vue de tester de nouvelles méthodes, conformément à l'article
+17 du règlement (CE) n° 854/2004 du 29 avril 2004 dans des conditions définies
+par décret.

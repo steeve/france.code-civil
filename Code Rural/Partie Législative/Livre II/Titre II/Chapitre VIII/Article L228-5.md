@@ -22,10 +22,12 @@ consommation humaine ;
 activité de commerce ou de transport d'animaux, de viandes ou de produits carnés
 destinés à la consommation humaine.
 
-II. - Les personnes morales peuvent être déclarées responsables pénalement, dans
-les conditions prévues à l'article 121-2 du code pénal, des infractions définies
-au I. Les peines encourues par les personnes morales sont :
+II. - Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
 
-1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ;
+- pour les établissements visés à l'article L. 226-3, de fonctionner sans être
+titulaire de l'agrément ;
 
-2° Les peines mentionnées à l'article 131-39 du même code.
+- pour les utilisateurs de sous-produits animaux visés à l'article 23 du
+règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre
+2002, de ne pas respecter les conditions posées à l'utilisation de ces
+sous-produits animaux par l'article L. 226-5.

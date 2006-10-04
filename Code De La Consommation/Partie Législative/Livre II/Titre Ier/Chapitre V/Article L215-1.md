@@ -9,10 +9,8 @@ direction générale des impôts ;
 
 2° Les inspecteurs du travail ;
 
-3° Les vétérinaires inspecteurs, les ingénieurs des travaux agricoles, les
-techniciens spécialisés des services du ministère chargé de l'agriculture, les
-préposés sanitaires, les agents techniques sanitaires, les ingénieurs et
-techniciens chargés de la protection des végétaux ;
+3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article
+L. 251-18 du code rural ;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de
 santé publique ;

@@ -1,25 +1,35 @@
 Article L231-1
 ----
-Dans l'intérêt de la protection de la santé publique, il doit être procédé :
+I.-Les prescriptions générales de la législation relative à l'hygiène
+alimentaire et les règles sanitaires applicables aux exploitants du secteur
+alimentaire, du secteur des sous-produits animaux et du secteur de
+l'alimentation animale sont définies par le II de l'article L. 221-4, le
+chapitre VI du titre II et par le présent titre ou par les règlements et
+décisions communautaires entrant dans le champ d'application des dispositions
+susmentionnées.
 
-1° A l'inspection sanitaire des animaux vivants présentés sur les foires,
-marchés ou expositions et, avant et après leur abattage, à l'inspection
-sanitaire et qualitative des animaux dont la chair doit être livrée au public en
-vue de la consommation ;
+II.-Dans l'intérêt de la protection de la santé publique, il doit être procédé :
 
-2° A la détermination et au contrôle des conditions d'hygiène dans lesquelles a
-lieu l'abattage ;
+1° Au contrôle officiel des animaux vivants appartenant à des espèces dont la
+chair ou les produits sont destinés à l'alimentation humaine ou animale et de
+leurs conditions de production ;
 
-3° A l'inspection de la salubrité et de la qualité des denrées animales ou
-d'origine animale destinées à cette consommation ;
+2° Au contrôle officiel des conditions d'abattage des animaux mentionnés au 1°
+ci-dessus ;
 
-4° A la détermination et à la surveillance des conditions d'hygiène dans
-lesquelles ces denrées sont préparées et conservées, notamment lors de leur
-transport et de leur mise en vente.
+3° Au contrôle officiel des produits d'origine animale, des denrées alimentaires
+en contenant, des sous-produits animaux et des aliments pour animaux ;
 
-Pour ces mêmes raisons, il peut être procédé à l'inspection sanitaire et
-qualitative des animaux vivants appartenant à des espèces dont la chair ou les
-produits sont destinés à l'alimentation humaine et de leurs conditions de
-production dans tous les lieux et locaux professionnels, autres que ceux visés
-au 1° ci-dessus où ils sont détenus, et dans les véhicules professionnels de
-transport.
+4° A la détermination et au contrôle officiel des conditions d'hygiène dans
+lesquelles les produits d'origine animale, les denrées alimentaires en
+contenant, les sous-produits animaux et les aliments pour animaux sont préparés,
+transformés, conservés ou éliminés, notamment lors de leur transport et de leur
+mise en vente ;
+
+5° Au contrôle officiel de la mise en oeuvre des bonnes pratiques d'hygiène et
+des systèmes d'analyse des dangers et des points critiques pour les maîtriser,
+en application de l'article 10 du règlement (CE) n° 882 / 2004 du Parlement
+européen et du Conseil du 29 avril 2004 ;
+
+6° Au contrôle officiel des conditions techniques du transport des denrées
+alimentaires sous température dirigée.

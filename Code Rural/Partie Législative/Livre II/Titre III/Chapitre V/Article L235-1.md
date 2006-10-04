@@ -10,6 +10,12 @@ conditions sanitaires, qualitatives et d'identification des origines de ces
 substances et produits et avoir été, selon les cas, agréés ou enregistrés par
 l'autorité administrative.
 
+S'ils ont des raisons de penser qu'un aliment pour animaux qu'ils ont importé,
+produit, transformé, fabriqué ou distribué ne répond pas aux prescriptions
+relatives à la sécurité des aliments pour animaux, ils engagent immédiatement
+les procédures de retrait du marché de cet aliment et en informent les autorités
+compétentes.
+
 Les ministres chargés de l'agriculture, de la santé et de la consommation fixent
 par arrêté conjoint la liste des produits, substances et matières premières
 concernés, les conditions que doivent remplir les établissements et les

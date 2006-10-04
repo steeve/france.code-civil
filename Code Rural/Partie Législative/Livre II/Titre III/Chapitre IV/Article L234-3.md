@@ -7,8 +7,9 @@ l'article L. 5144-1 du code de la santé publique qui bénéficie d'une
 autorisation au titre des réglementations relatives aux médicaments vétérinaires
 ou aux substances destinées à l'alimentation animale, sans respect des
 conditions prévues respectivement au VI de l'article L. 234-2 ou par décret, les
-vétérinaires inspecteurs habilités en vertu de l'article L. 231-2 peuvent
-ordonner l'exécution de tout ou partie des mesures suivantes :
+agents ayant la qualité de vétérinaires officiels en vertu du V de l'article L.
+231-2 habilités en vertu de l'article L. 231-2 peuvent ordonner l'exécution de
+tout ou partie des mesures suivantes :
 
 1° La séquestration, le recensement, le marquage de tout ou partie des animaux
 de l'exploitation ;
@@ -27,7 +28,6 @@ l'abattage des animaux ;
 l'exploitation concernée.
 
 Préalablement à l'exécution de ces mesures, le détenteur ou le propriétaire est
-mis en mesure de présenter ses observations. L'ensemble des frais induits par
-ces mesures, prises à la suite de la constatation du non-respect des
-dispositions susmentionnées, sont à leur charge et ne donnent lieu à aucune
-indemnité.
+mis en mesure de présenter ses observations.L'ensemble des frais induits par ces
+mesures, prises à la suite de la constatation du non-respect des dispositions
+susmentionnées, sont à leur charge et ne donnent lieu à aucune indemnité.

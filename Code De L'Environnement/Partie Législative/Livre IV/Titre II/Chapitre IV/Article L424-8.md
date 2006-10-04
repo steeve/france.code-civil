@@ -22,13 +22,13 @@ III. - Le transport, la vente, la mise en vente, la détention pour la vente et
 l'achat des animaux vivants ou morts d'espèces dont la chasse est autorisée et
 qui sont nés et élevés en captivité sont libres toute l'année.
 
-IV. - Nonobstant les dispositions des I et III, la vente, le transport pour la
-vente, la mise en vente, la détention pour la vente et l'achat des animaux
-licitement tués à la chasse ou morts provenant d'élevages visés au III sont
-autorisés s'ils respectent les dispositions relatives à la traçabilité des
-produits prévues aux articles L. 232-1, L. 232-1-1, L. 232-2 et L. 232-3 du code
-rural et si les animaux ont fait l'objet d'une inspection sanitaire conformément
-aux articles L. 231-1, L. 231-2 et L. 231-3 du même code.
+IV. - Outre les dispositions des I et III, la vente, le transport pour la vente,
+la mise en vente, la détention pour la vente et l'achat des animaux licitement
+tués à la chasse ou morts provenant d'élevage visés au III doivent respecter les
+dispositions relatives à la traçabilité des produits prévues à l'article 18 du
+règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier
+2002 et les animaux doivent avoir fait l'objet d'un contrôle officiel
+conformément aux articles L. 231-1, L. 231-2 et L. 231-3 du code rural.
 
 V. - Un décret en Conseil d'Etat précise les conditions d'application du présent
 article.
