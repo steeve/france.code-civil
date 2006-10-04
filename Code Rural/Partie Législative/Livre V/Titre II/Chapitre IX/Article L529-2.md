@@ -9,9 +9,11 @@ Communauté économique européenne, ni celle d'un pays avec lequel existe un
 accord de réciprocité ou qui ne bénéficie pas d'une dérogation accordée par le
 ministre de l'agriculture ;
 
-2° Qui participe directement ou indirectement, d'une façon habituelle ou
+2° Qui participe directement ou indirectement, de façon habituelle ou
 occasionnelle, à une activité concurrente de celle de la société qu'il
-administre ;
+administre, lorsque ladite activité est réalisée par une entreprise qui n'est
+pas contrôlée au sens des dispositions de l'article L. 233-3 du code de
+commerce, par la coopérative agricole ou l'union qu'il administre ;
 
 3° Qui a fait l'objet d'une des condamnations mentionnés au chapitre VIII du
 titre II du livre Ier du code de commerce.
