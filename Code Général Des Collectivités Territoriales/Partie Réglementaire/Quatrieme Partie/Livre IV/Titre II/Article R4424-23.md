@@ -7,4 +7,5 @@ prononcé par délibération de l'Assemblée de Corse.
 
 Le classement ne peut être décidé que pour autant que les communes, fractions de
 communes ou groupes de communes remplissent les conditions prévues notamment aux
-articles L. 2231-1 à L. 2231-4 et aux articles R. 2231-22 et R. 2231-23.
+articles L. 133-11, L. 133-13, L. 134-3 et L. 134-4 du code du tourisme et aux
+articles R. 133-52 et R. 133-53 du même code.
