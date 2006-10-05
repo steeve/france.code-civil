@@ -14,5 +14,11 @@ Lorsque les travaux de prélèvement sont soumis aux dispositions de l'article L
 publique et, s'ils sont soumis aux dispositions de l'article L. 1321-2,
 détermine les périmètres de protection à mettre en place.
 
+Lorsque les travaux et ouvrages de prélèvement sont situés à l'intérieur du
+périmètre d'une forêt de protection, cet arrêté déclare d'utilité publique
+lesdits travaux et ouvrages en application de l'article R. 412-19 du code
+forestier et autorise, le cas échéant, les défrichements nécessaires au titre de
+l'article L. 311-1 ou de l'article L. 312-1 du même code.
+
 N'est pas soumise à la procédure d'autorisation l'utilisation d'eau prélevée
 dans le milieu naturel à l'usage personnel d'une famille.
