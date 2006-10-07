@@ -100,4 +100,8 @@ emprise ;
 
 23° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à
 l'exploitation agricole intensive portant sur une superficie d'au moins 50
-hectares.
+hectares ;
+
+24° Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau
+destinée à la consommation humaine dans une forêt de protection mentionnés à
+l'article R. 412-19 du code forestier, à l'exclusion des travaux de recherche.
