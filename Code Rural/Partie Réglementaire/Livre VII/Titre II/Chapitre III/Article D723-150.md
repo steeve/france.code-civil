@@ -13,6 +13,5 @@ porté à trois mois lorsque la commission ordonne un complément d'instruction 
 prescrit une enquête.
 
 Le ministre chargé de l'agriculture décide, après avis de la commission
-disciplinaire nationale et du Haut Comité médical de la sécurité sociale, du
-maintien ou de la radiation des listes d'aptitude du praticien ayant fait
-l'objet d'une mesure de licenciement.
+disciplinaire nationale, du maintien ou de la radiation des listes d'aptitude du
+praticien ayant fait l'objet d'une mesure de licenciement.

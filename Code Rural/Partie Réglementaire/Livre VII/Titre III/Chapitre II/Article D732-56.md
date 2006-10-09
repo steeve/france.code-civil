@@ -16,6 +16,10 @@ En cas de renouvellement, l'autorisation prend effet à compter du premier jour
 du mois suivant la date de la demande et au plus tôt au premier jour du mois
 suivant la date d'expiration de la précédente autorisation.
 
+A défaut de réponse du préfet dans un délai de deux mois à compter de la
+réception de la demande, l'autorisation de poursuite d'activité est réputée
+acquise pour une durée de vingt-quatre mois.
+
 Les dispositions des articles D. 732-54 et D. 732-55 ainsi que celles du présent
 article sont applicables en cas de renouvellement de la demande d'autorisation
 de poursuivre l'exploitation.

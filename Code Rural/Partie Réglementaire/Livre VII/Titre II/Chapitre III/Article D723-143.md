@@ -11,10 +11,14 @@ fonctions de praticien-conseil les praticiens répondant aux conditions fixées
 par les articles L. 4111-1 à L. 4111-4, L. 4131-1 et L. 4141-3 du code de la
 santé publique.
 
-Un arrêté du ministre chargé de l'agriculture, pris après avis du Haut Comité
-médical de la sécurité sociale, détermine les modalités d'organisation de ces
-concours ainsi que les conditions d'âge et de titres requises pour l'admission à
-concourir. Un arrêté fixe la composition du jury constitué pour chaque concours.
+Un arrêté du ministre chargé de l'agriculture, détermine les modalités
+d'organisation de ces concours ainsi que les conditions de titres requises pour
+l'admission à concourir. Un arrêté fixe la composition du jury constitué pour
+chaque concours.
+
+A l'issue de chaque concours, la liste des candidats reçus est arrêtée, par
+ordre de mérite, sur proposition du jury, par le ministre chargé de
+l'agriculture.
 
 La Caisse centrale de mutualité sociale agricole informe chaque candidat inscrit
 sur la liste d'aptitude mentionnée à l'alinéa précédent des postes de

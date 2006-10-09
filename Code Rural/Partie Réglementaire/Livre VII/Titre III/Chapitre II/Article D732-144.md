@@ -4,7 +4,7 @@ Pour les périodes de chef d'exploitation ou d'entreprise, le nombre minimal
 annuel moyen de points de retraite proportionnelle A est déterminé selon la
 formule suivante :
 
-A = (MV 1 - AVTS) / 35,5 x VP
+A = (MV 1 - AVTS) / 37,5 x VP
 
 où :
 

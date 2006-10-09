@@ -19,7 +19,4 @@ demande au chef du service départemental de l'inspection du travail, de l'emplo
 et de la politique sociale agricoles.
 
 Cette demande doit être motivée et accompagnée de l'avis du comité d'entreprise
-ou, à défaut, de celui des délégués du personnel. Le silence gardé par
-l'inspecteur du travail pendant plus de quinze jours sur la demande vaut
-autorisation. Ce délai ne peut être modifié que par décret en Conseil d'Etat. Il
-n'est applicable qu'aux demandes formulées à compter du 23 février 2004.
+ou, à défaut, de celui des délégués du personnel.

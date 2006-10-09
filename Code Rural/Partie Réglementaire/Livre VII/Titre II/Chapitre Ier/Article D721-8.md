@@ -10,15 +10,13 @@ agriculture ;
 
 3° Le médecin-conseil national du régime agricole de protection sociale ;
 
-4° Un représentant du Haut Comité médical de la sécurité sociale ;
+4° Quatre représentants du groupement mentionné à l'article L. 752-14 ;
 
-5° Quatre représentants du groupement mentionné à l'article L. 752-14 ;
+5° Un représentant de l'ordre national des médecins ;
 
-6° Un représentant de l'ordre national des médecins ;
+6° Un représentant du Conseil national des professions de santé ;
 
-7° Un représentant du Conseil national des professions de santé ;
-
-8° Un représentant de la Fédération nationale des accidentés du travail et des
+7° Un représentant de la Fédération nationale des accidentés du travail et des
 handicapés.
 
 Le comité de gestion mentionné à l'article L. 752-18 est composé des membres
