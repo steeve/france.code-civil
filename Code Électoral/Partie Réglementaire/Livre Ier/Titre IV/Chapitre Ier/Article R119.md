@@ -13,14 +13,12 @@ administratif.
 Le recours formé par le préfet en application de l'article L. 248 doit être
 exercé dans le délai de quinzaine à dater de la réception du procès-verbal.
 
-Dans l'un et l'autre cas, la notification est faite, conformément aux
-dispositions de l'article 50 bis de la loi du 22 juillet 1889 et de l'article 25
-du décret du 28 novembre 1953, dans les trois jours de l'enregistrement de la
-protestation, aux conseillers dont l'élection est contestée qui sont avisés en
-même temps qu'ils ont cinq jours pour tout délai à l'effet de déposer leurs
-défenses au greffe (bureau central ou greffe annexe) du tribunal administratif
-et de faire connaître s'ils entendent ou non user du droit de présenter des
-observations orales.
+Dans l'un et l'autre cas, la notification est faite, dans les trois jours de
+l'enregistrement de la protestation, aux conseillers dont l'élection est
+contestée qui sont avisés en même temps qu'ils ont cinq jours pour tout délai à
+l'effet de déposer leurs défenses au greffe (bureau central ou greffe annexe) du
+tribunal administratif et de faire connaître s'ils entendent ou non user du
+droit de présenter des observations orales.
 
 Il est donné récépissé, soit des protestations, soit des défenses déposées au
 greffe.

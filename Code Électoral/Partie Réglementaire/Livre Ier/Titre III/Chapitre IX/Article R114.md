@@ -2,10 +2,9 @@ Article R114
 ----
 Le tribunal administratif prononce sa décision dans le délai de deux mois à
 compter de l'enregistrement de la réclamation au greffe (bureau central ou
-greffe annexe); la décision est notifiée dans les huit jours à partir de sa date
-au préfet et aux parties intéressées, conformément aux dispositions de l'article
-50 bis de la loi du 22 juillet 1889 et de l'article 25 du décret du 28 novembre
-1953.
+greffe annexe) ; la décision est notifiée dans les huit jours à partir de sa
+date au préfet et aux parties intéressées, dans les conditions fixées à
+l'article R. 751-3 du code de justice administrative.
 
 En cas de renouvellement d'une série sortante, ce délai est porté à trois mois.
 

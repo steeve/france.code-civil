@@ -1,16 +1,11 @@
 Article R30
 ----
-Chaque candidat ou liste de candidats ne peut faire imprimer, pour chaque tour
-de scrutin, un nombre de bulletins supérieur de plus de 20 % à deux fois le
-nombre des électeurs inscrits dans la circonscription.
+Les bulletins doivent être d'un grammage compris entre 60 et 80 grammes au mètre
+carré et avoir les formats suivants :
 
-Les bulletins ne peuvent dépasser les formats définis ci-après :
+- 105 x 148 mm pour les bulletins comportant un ou deux noms ;
 
-- 74 x 105 mm pour une candidature isolée;
-
-- 105 x 148 mm pour les bulletins comportant deux noms;
-
-- 148 x 210 mm pour les listes comportant de trois à trente et un noms;
+- 148 x 210 mm pour les listes comportant de trois à trente et un noms ;
 
 - 210 x 297 mm pour les listes comportant plus de trente et un noms.
 
