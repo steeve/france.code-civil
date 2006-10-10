@@ -1,7 +1,6 @@
 Article R1614-82
 ----
-Ne peuvent bénéficier d'une attribution au titre de la seconde part du concours
-particulier que les communes qui réalisent une opération de construction,
-d'extension ou d'équipement portant sur des bibliothèques municipales, dans les
-conditions prévues aux articles R. 1614-83, R. 1614-84, R. 1614-85 et R.
-1614-86.
+Les opérations de construction, de restructuration ou d'extension d'annexes des
+bibliothèques départementales de prêt principales ne peuvent être prises en
+compte au titre de la première fraction du concours particulier que si la
+surface minimale de l'annexe est au moins égale à 300 mètres carrés.

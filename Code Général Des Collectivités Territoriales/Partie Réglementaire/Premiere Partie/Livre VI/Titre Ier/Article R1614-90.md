@@ -1,18 +1,16 @@
 Article R1614-90
 ----
-Les demandes de subvention sont adressées au préfet, qui les transmet au préfet
-de région. Elles sont accompagnées :
+Les opérations de construction, de restructuration ou d'extension de
+bibliothèques départementales de prêt ne peuvent être prises en compte que si
+elles répondent aux conditions suivantes :
 
-1° D'une délibération du conseil municipal adoptant l'avant-projet de
-l'opération et arrêtant ses modalités de financement ;
+a) Le projet doit favoriser la coopération et la mise en réseau de bibliothèques
+ainsi que le développement des services aux bibliothèques de ce réseau, et
+proposer des fonctions d'expertise et de veille scientifique et technologique ;
 
-2° De l'avant-projet sommaire pour les opérations mentionnées aux articles R.
-1614-83, R. 1614-84, R. 1614-85 et au 2° de l'article R. 1614-86 ;
+b) La bibliothèque doit proposer plusieurs supports documentaires, offrir
+l'accès à internet et faciliter la transmission électronique d'informations et
+de documents ;
 
-3° D'une note explicative précisant notamment l'objet de l'opération, sa surface
-en mètres carrés et ses conditions de réalisation ;
-
-4° D'un plan de situation ;
-
-5° Du montant prévisionnel total des dépenses ainsi que de l'échéancier
-prévisionnel de ces dépenses.
+c) Les surfaces minimales de la bibliothèque doivent répondre aux conditions
+prévues aux articles R. 1614-81 et R. 1614-82.

@@ -1,6 +1,7 @@
 Article R1614-95
 ----
-Peuvent également être prises en compte les opérations d'équipement mobilier et
-d'aménagement ainsi que les opérations d'équipement informatique accompagnant la
-construction ou l'extension de bibliothèques principales remplissant les
-conditions énoncées à l'article R. 1614-94.
+La subvention est remboursée lorsque l'affectation de l'équipement est modifiée
+ou lorsque, à l'expiration d'un délai de deux ans à compter de la notification
+de la subvention, la commune, l'établissement public de coopération
+intercommunale ou le département bénéficiaire de la subvention n'a pas engagé un
+montant de dépenses au moins égal au montant de la subvention attribuée.

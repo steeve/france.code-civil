@@ -1,6 +1,6 @@
 Article R1614-93
 ----
-La subvention est remboursée lorsque l'affectation de l'équipement est modifiée
-ou lorsque, à l'expiration d'un délai de deux ans à compter de la notification
-de la subvention, la commune n'a pas engagé un montant de dépenses au moins égal
-au montant de la subvention attribuée.
+La liste des opérations à subventionner ainsi que les montants attribués aux
+collectivités ou établissements publics de coopération intercommunale qui en
+assurent la maîtrise d'ouvrage sont arrêtés conjointement par le ministre chargé
+de la culture et le ministre de l'intérieur.

@@ -1,21 +1,24 @@
 Article R1614-83
 ----
-Les opérations de construction de bibliothèques principales ne peuvent être
-prises en compte que si la surface totale atteint 100 mètres carrés et est au
-moins égale à une surface déterminée de la manière suivante :
+Peuvent également être prises en compte les opérations d'équipement suivantes :
 
-a) Lorsque la population de la commune n'excède pas 25 000 habitants, cette
-surface minimale est égale à 0,07 mètre carré par habitant ;
+a) Les opérations d'équipement mobilier accompagnant une mise en réseau ou la
+construction, la restructuration ou l'extension d'une bibliothèque municipale ou
+d'une bibliothèque départementale de prêt répondant aux conditions définies aux
+articles R. 1614-78 à R. 1614-82 ;
 
-b) Lorsque la population de la commune est supérieure à 25 000 habitants, cette
-surface minimale résulte du produit de la population de la commune par le
-coefficient 0,07, pour la fraction de la population inférieure à 25 000
-habitants, et du produit de la population de la commune par le coefficient
-0,015, pour la fraction de la population supérieure à 25 000 habitants ;
+b) Les opérations d'équipement mobilier et d'aménagement des locaux destinées à
+améliorer les conditions de préservation et de conservation des collections
+patrimoniales ;
 
-c) Lorsque les opérations de construction ont une surface supérieure à 8 000
-mètres carrés, elles peuvent être retenues, quelle que soit la population de la
-commune ;
+c) Les opérations d'informatisation ou de renouvellement du matériel
+informatique après cinq ans, à condition qu'elles permettent de travailler dans
+le format d'échange défini par arrêté du ministre chargé de la culture, et la
+création de nouveaux services aux usagers utilisant l'informatique. Seules les
+dépenses concernant les matériels et logiciels spécifiques à l'activité des
+bibliothèques peuvent être retenues ;
 
-d) Pour les communes de Paris, de Lyon et de Marseille, la population à prendre
-en compte pour l'application du présent article est celle de l'arrondissement.
+d) Les opérations de numérisation des collections ;
+
+e) L'acquisition et l'équipement de bibliobus communaux, intercommunaux ou
+départementaux.

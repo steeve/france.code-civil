@@ -1,14 +1,30 @@
 Article R1614-89
 ----
-Une même opération peut bénéficier du concours particulier au titre de plusieurs
-exercices.
+Les opérations de construction, de restructuration ou d'extension de
+bibliothèques municipales ne peuvent être prises en compte que si elles
+répondent aux conditions suivantes :
 
-En aucun cas, une opération ne peut bénéficier du concours particulier
-lorsqu'elle figure sur la liste des opérations en cours prévues par le décret n°
-86-277 du 26 février 1986 relatif aux opérations en cours en matière de
-bibliothèques municipales et de bibliothèques centrales de prêt à la date du
-transfert de compétences dans le domaine de la culture ou si elle a été l'objet,
-au cours des dix années antérieures au décret susvisé, d'une affectation
-d'autorisations de programme antérieurement au transfert de compétences et pour
-laquelle la totalité des crédits de paiement correspondants n'a pas encore été
-versée.
+a) La bibliothèque doit être implantée sur le territoire d'une commune ou d'un
+établissement public de coopération intercommunale d'au moins 80 000 habitants,
+ou dans un chef-lieu de région ;
+
+b) La surface minimale de la bibliothèque après réalisation des opérations
+envisagées doit être de 50 mètres carrés par tranche de 1 000 habitants ;
+au-delà de 200 000 habitants, la surface minimale requise est de 10 000 mètres
+carrés ;
+
+c) Pour les communes et les établissements de coopération intercommunale des
+départements d'outre-mer et de Saint-Pierre-et-Miquelon, la surface minimale de
+la bibliothèque doit être de 25 mètres carrés par tranche de 1 000 habitants ; à
+compter de 200 000 habitants, la surface minimale requise est de 5 000 mètres
+carrés ;
+
+d) La bibliothèque doit proposer plusieurs supports documentaires, offrir
+l'accès à internet et faciliter la transmission électronique d'informations et
+de documents ;
+
+e) Le projet doit permettre de participer à la circulation régionale des
+documents en utilisant notamment un réseau informatique d'information
+bibliographique et d'accès aux catalogues ; il doit favoriser la coopération
+avec les différents organismes en charge du livre et de la lecture en matière
+d'acquisition, de conservation, d'animation ou de formation.
