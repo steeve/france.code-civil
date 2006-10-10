@@ -1,5 +1,5 @@
-Article R15-7
+Article R17-2
 ----
-Les délais prévus aux articles R. 13 et R. 15-1 sont calculés et prorogés
+Les délais prévus aux articles L. 31 à L. 35 sont calculés et prorogés
 conformément aux dispositions des articles 640, 641 et 642 du nouveau code de
 procédure civile.

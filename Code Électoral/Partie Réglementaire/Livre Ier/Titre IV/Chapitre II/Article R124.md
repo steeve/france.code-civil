@@ -5,9 +5,9 @@ est publié dans les communes intéressées, avant la convocation des électeurs
 par les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits
 dans chaque section, le nombre des conseillers que la loi lui attribue.
 
-Le sectionnement adopté par le conseil général est représenté par un plan déposé
-à la préfecture et à la mairie de la commune intéressée. Tout électeur peut le
-consulter et en prendre copie.
+Le sectionnement est représenté par un plan déposé à la préfecture et à la
+mairie de la commune intéressée. Tout électeur peut le consulter et en prendre
+copie.
 
 Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte
 de la mairie.

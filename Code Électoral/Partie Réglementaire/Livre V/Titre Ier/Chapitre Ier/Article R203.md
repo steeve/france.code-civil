@@ -46,12 +46,9 @@ de : "conseiller régional" ;
 14° "Directeur du commerce et des prix", au lieu de : "directeur départemental
 des enquêtes économiques" ;
 
-15° "Office des postes et télécommunications", au lieu de :
+15° Abrogé
 
-"administration des postes et télécommunications" ;
-
-16° "Directeur de l'office des postes et télécommunications", au lieu de :
-"directeur départemental des postes et télécommunications" ;
+16° Abrogé
 
 17° "Conseil du contentieux administratif", au lieu de : "tribunal
 administratif".

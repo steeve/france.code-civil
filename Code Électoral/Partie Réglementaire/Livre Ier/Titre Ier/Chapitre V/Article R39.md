@@ -1,8 +1,20 @@
 Article R39
 ----
-Seuls les frais d'impression et d'affichage mis expressément par la loi à la
-charge de l'État et réellement exposés par les candidats ou les listes leur sont
-remboursés, sur présentation des pièces justificatives.
+Lorsqu'il est prévu par la loi, le remboursement par l'Etat des frais
+d'impression ou de reproduction et d'affichage exposés avant chaque tour de
+scrutin par les candidats ou les listes est effectué, sur présentation des
+pièces justificatives, pour les imprimés suivants :
+
+a) Deux affiches identiques d'un format maximal de 594 mm 841 mm, par
+emplacement prévu à l'article L. 51 ;
+
+b) Deux affiches d'un format maximal de 297 mm 420 mm pour annoncer la tenue des
+réunions électorales, par emplacement prévu à l'article L. 51 ;
+
+c) Un nombre de circulaires égal au nombre d'électeurs, majoré de 5 % ;
+
+d) Un nombre de bulletins de vote égal au double du nombre d'électeurs, majoré
+de 10 %.
 
 Toutefois, la somme remboursée ne peut excéder celle résultant de l'application,
 au nombre des imprimés admis à remboursement, des tarifs d'impression et
@@ -22,15 +34,12 @@ afficheurs désigné par le préfet selon la nature des tarifs à établir.
 La commission peut proposer des tarifs différents dans les diverses
 circonscriptions du département.
 
-En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des
-documents présentant les caractéristiques suivantes et excluant tous travaux de
-photogravure (clichés, simili ou trait) :
+Les tarifs ne peuvent s'appliquer qu'à des documents excluant tous travaux de
+photogravure. En outre, ils ne s'appliquent qu'à des circulaires et des
+bulletins de vote imprimés ou reproduits sur papier blanc et conformes au
+grammage et au format fixés par les articles R. 29 et R. 30.
 
-- affiches de format 594 mm x 841 mm et affiches de format 297 mm x 420 mm ;
-
-- circulaires et bulletins de vote sur papier blanc.
-
-Lorsqu'un candidat fait imprimer les affiches, circulaires et bulletins de vote
-dans un département autre que celui où il se présente, le remboursement des
-frais correspondants s'effectue dans la limite du tarif le moins élevé de ces
-deux départements.
+Lorsqu'un candidat fait imprimer ou reproduire les affiches, circulaires et
+bulletins de vote dans un département autre que celui où il se présente, le
+remboursement des frais correspondants s'effectue dans la limite du tarif le
+moins élevé de ces deux départements.

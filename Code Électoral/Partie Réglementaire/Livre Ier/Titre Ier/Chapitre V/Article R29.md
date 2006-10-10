@@ -1,5 +1,5 @@
 Article R29
 ----
-Chaque candidat ou liste de candidats ne peut faire imprimer ou envoyer aux
-électeurs, avant chaque tour de scrutin, qu'une seule circulaire sur un feuillet
-qui ne peut dépasser le format 210 x 297 mm.
+Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur,
+par la commission de propagande, qu'une seule circulaire d'un grammage compris
+entre 60 et 80 grammes au mètre carré et d'un format de 210 mm 297 mm.

@@ -1,8 +1,9 @@
 Article R109-1
 ----
-La déclaration de candidature prescrite à l'article L. 210-1 est déposée et
-enregistrée à la préfecture, pour chaque tour de scrutin, avant la date limite
-fixée par arrêté préfectoral, et dans la forme prévue à l'article R. 37.
+La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la
+préfecture, pour chaque tour de scrutin, par le candidat ou un mandataire
+désigné par lui, dans le délai fixé par arrêté préfectoral. Elle comporte les
+nom, prénoms, date et lieu de naissance, domicile et profession du candidat.
 
 Les retraits de candidatures ne peuvent être présentés que jusqu'à la date
 limite fixée pour le dépôt des candidatures : ils sont enregistrés comme les

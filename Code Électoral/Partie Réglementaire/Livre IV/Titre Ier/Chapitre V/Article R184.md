@@ -1,9 +1,10 @@
 Article R184
 ----
 L'état des listes de candidats au premier tour de scrutin est arrêté, dans
-l'ordre du dépôt des listes, par le préfet de région et publié par ses soins,
-ainsi que par les préfets des autres départements de la région, au plus tard le
-troisième samedi qui précède le jour de ce premier tour.
+l'ordre du dépôt des listes, par le préfet du département où se trouve le
+chef-lieu de région et publié par ses soins, ainsi que par les préfets des
+autres départements de la région, au plus tard le troisième samedi qui précède
+le jour de ce premier tour.
 
 L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et
 publié dans les mêmes conditions au plus tard le mercredi qui suit le premier

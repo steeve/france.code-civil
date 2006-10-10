@@ -7,3 +7,6 @@ suivant le premier tour.
 
 Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au
 sein de chaque section départementale.
+
+Chaque déclaration doit être accompagnée de la copie d'une des pièces
+mentionnées au I de l'article R. 109-2.

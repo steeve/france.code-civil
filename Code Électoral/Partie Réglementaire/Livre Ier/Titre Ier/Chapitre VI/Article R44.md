@@ -7,11 +7,10 @@ ci-après :
 assesseur et un seul pris parmi les électeurs du département;
 
 - si, pour une cause quelconque, le nombre des assesseurs ainsi désignés est
-inférieur à quatre, les assesseurs manquants sont pris, jusqu'à concurrence de
-ce chiffre, parmi les conseillers municipaux dans l'ordre du tableau et, à
-défaut, parmi les électeurs présents sachant lire et écrire, selon l'ordre de
-priorité suivant :
+inférieur à deux, les assesseurs manquants sont pris, jusqu'à concurrence de ce
+chiffre, parmi les conseillers municipaux dans l'ordre du tableau et, à défaut,
+parmi les électeurs présents sachant lire et écrire, selon l'ordre de priorité
+suivant :
 
 l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeune
-s'il en manque deux, les deux plus âgés et le plus jeune s'il en manque trois,
-les deux plus âgés et les deux plus jeunes s'il en manque quatre.
+s'il en manque deux.

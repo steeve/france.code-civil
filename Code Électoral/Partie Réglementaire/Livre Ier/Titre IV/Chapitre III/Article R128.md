@@ -6,14 +6,13 @@ suivants :
 1° Si le candidat est électeur dans la commune où il se présente, une
 attestation d'inscription sur la liste électorale de cette commune délivrée par
 le maire dans les trente jours précédant la date du dépôt de la candidature ou
-une copie certifiée conforme de la décision de justice ordonnant l'inscription
-de l'intéressé ;
+une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
 
 2° Si le candidat est électeur dans une autre commune que celle où il se
 présente, une attestation d'inscription sur la liste électorale de cette commune
 délivrée par le maire dans les trente jours précédant la date du dépôt de la
-candidature ou une copie certifiée conforme de la décision de justice ordonnant
-l'inscription de l'intéressé ;
+candidature ou une copie de la décision de justice ordonnant l'inscription de
+l'intéressé ;
 
 3° Dans les autres cas, un certificat de nationalité ou la carte nationale
 d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré
@@ -27,11 +26,10 @@ Trésor chargé du recouvrement qui établissent que l'intéressé est inscrit a
 rôle des contributions directes de la commune où il se présente au 1er janvier
 de l'année de l'élection ;
 
-b) Soit une copie certifiée conforme d'un acte notarié établissant que
-l'intéressé est devenu dans l'année précédant celle de l'élection propriétaire
-ou locataire d'un immeuble dans cette commune, ou d'un acte sous seing privé
-enregistré au cours de la même année établissant qu'il est devenu locataire d'un
-immeuble dans cette commune ;
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu dans
+l'année précédant celle de l'élection propriétaire ou locataire d'un immeuble
+dans cette commune, ou d'un acte sous seing privé enregistré au cours de la même
+année établissant qu'il est devenu locataire d'un immeuble dans cette commune ;
 
 c) Soit une attestation du directeur des services fiscaux établissant que
 l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection
