@@ -8,9 +8,7 @@ Les présidents de chambre ;
 
 Les conseillers maîtres ;
 
-Les conseillers référendaires de 1re classe ;
-
-Les conseillers référendaires de 2e classe ;
+Les conseillers référendaires ;
 
 Les auditeurs de 1re classe ;
 

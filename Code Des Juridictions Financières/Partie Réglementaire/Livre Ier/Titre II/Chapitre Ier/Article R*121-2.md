@@ -3,30 +3,34 @@ Article R*121-2
 Les auditeurs mentionnés à l'article précédent sont, en fonction de leur échelon
 de reclassement dans le grade d'auditeur de 2e classe, classés ainsi qu'il suit
 lors de leurs promotions aux grades d'auditeur de 1re classe et de conseiller
-référendaire de 2e classe :
+référendaire :
 
-Auditeur de 2e classe : 4e échelon
+AUDITEUR de 2 e classe
 
-Auditeur de 1e classe : 1e échelon
+AUDITEUR de 1 re classe
 
-Conseiller référendaire de 2e classe : 1e échelon
+CONSEILLER REFERENDAIRE de 2 e classe
 
-Auditeur de 2e classe : 5e échelon
+4 e échelon
 
-Auditeur de 1e classe : 2e échelon
+1 er échelon
 
-Conseiller référendaire de 2e classe : 1e échelon avec 6 mois d'ancienneté
-acquise
+1 er échelon
 
-Auditeur de 2e classe : 6e échelon
+5 e échelon
 
-Auditeur de 1e classe : 3e échelon
+2 e échelon
 
-Conseiller référendaire de 2e classe : 2e échelon
+1 er échelon avec 6 mois d'ancienneté acquise
 
-Auditeur de 2e classe : 7e échelon
+6 e échelon
 
-Auditeur de 1e classe : 4e échelon
+3 e échelon
 
-Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté
-acquise
+2 e échelon
+
+7 e échelon
+
+4 e échelon
+
+2 e échelon avec 6 mois d'ancienneté acquise

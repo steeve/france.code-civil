@@ -4,9 +4,9 @@ Les candidatures, motivées, doivent être présentées par les intéressés, da
 mois qui suit cette publication, au ministre chargé des finances.
 
 Celui-ci dispose d'un délai de deux mois pour adresser les dossiers des
-candidats remplissant les conditions prévues par le quatrième alinéa de
-l'article L. 122-5 au premier président de la Cour des comptes aux fins de
-recueillir l'avis de la commission prévue au quatrième alinéa de ce même
+candidats remplissant les conditions prévues par le quatrième et cinquième
+alinéas de l'article L. 122-5 au premier président de la Cour des comptes aux
+fins de recueillir l'avis de la commission prévue au sixième alinéa de ce même
 article.
 
 Le dossier constitué pour chaque candidat, en liaison avec l'administration ou
