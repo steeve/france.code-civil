@@ -1,11 +1,11 @@
 Article D732-42
 ----
-La majoration prévue à l'article L. 723-25-1 est égale à 3 % par année. La durée
+La majoration prévue à l'article L. 732-25-1 est égale à 3 % par année. La durée
 d'assurance mentionnée à cet article est celle accomplie à compter du 1er
 janvier 2004, postérieurement au soixantième anniversaire de l'assuré et au-delà
 de la durée minimale prévue à l'article L. 732-25.
 
-Dans le cas où la durée d'assurance mentionnée à l'article L. 723-25-1 au titre
+Dans le cas où la durée d'assurance mentionnée à l'article L. 732-25-1 au titre
 d'une année est inférieure à quatre trimestres, la majoration est égale à 0,75 %
 par trimestre.
 
