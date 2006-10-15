@@ -25,14 +25,19 @@ conjointe du ministre chargé de l'agriculture et du ministre chargé de
 l'outre-mer, sur proposition du ministre chargé de la consommation et après
 consultation du Comité national de la consommation ;
 
-5° Deux représentants du ministre chargé de l'agriculture désignés par ce
-ministre ;
+5° Le directeur général des politiques économique, européenne et internationale
+au ministère chargé de l'agriculture ou son représentant ;
 
-6° Un représentant du ministre chargé de l'outre-mer désigné par ce ministre ;
+6° Le directeur des affaires financières et de la logistique au ministère chargé
+de l'agriculture ou son représentant ;
 
-7° Un représentant du ministre chargé de l'économie désigné par ce ministre ;
+7° Le directeur des affaires économiques, sociales et culturelles au ministère
+chargé de l'outre-mer ou son représentant ;
 
-8° Un représentant du ministre chargé du budget désigné par ce ministre.
+8° Le directeur général de la concurrence, de la consommation et de la
+répression des fraudes ou son représentant ;
+
+9° Le directeur du budget ou son représentant.
 
 Les membres du conseil de direction peuvent se faire représenter par un autre
 membre. Un membre ne peut représenter qu'un seul de ses collègues.
