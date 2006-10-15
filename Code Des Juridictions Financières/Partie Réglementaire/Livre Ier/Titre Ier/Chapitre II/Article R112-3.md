@@ -7,8 +7,8 @@ le programme annuel des travaux au vu des propositions des présidents de
 chambre.
 
 Il préside les audiences solennelles, la chambre du conseil, les chambres
-réunies et le comité du rapport public et des programmes. Il peut présider les
-séances de chambre.
+réunies, la conférence des présidents et le comité du rapport public et des
+programmes. Il peut présider les séances de chambre.
 
 Il signe les arrêts et décisions rendus sous sa présidence.
 

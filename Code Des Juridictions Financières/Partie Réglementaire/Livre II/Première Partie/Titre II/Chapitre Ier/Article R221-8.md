@@ -1,9 +1,9 @@
 Article R221-8
 ----
-Chaque année, le ministre chargé des finances détermine le nombre des emplois de
-conseiller à pourvoir en application de l'article L. 221-4 et fixe la date
-limite de dépôt des candidatures. Celles-ci sont adressées par les intéressés au
-président de la commission instituée par l'article L. 221-7.
+Chaque année, le Premier ministre détermine le nombre des emplois de conseiller
+à pourvoir en application de l'article L. 221-4 et fixe la date limite de dépôt
+des candidatures. Celles-ci sont adressées par les intéressés au président de la
+commission instituée par l'article L. 221-7.
 
 Le dossier administratif des candidats est envoyé par l'autorité dont relèvent
 les intéressés au secrétaire général de la Cour des comptes. Cette autorité doit

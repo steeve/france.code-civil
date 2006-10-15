@@ -10,3 +10,6 @@ généraux adjoints certifie les expéditions des arrêts et en assure la
 notification aux comptables. Il délivre et certifie extraits et copies des actes
 intéressant le fonctionnement de la juridiction. Il peut déléguer à cet effet sa
 signature au chef de service responsable du greffe central.
+
+Le secrétaire général, ou, en cas d'absence ou d'empêchement, un des secrétaires
+généraux adjoints, assiste à la conférence des présidents.

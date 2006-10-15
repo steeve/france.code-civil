@@ -1,7 +1,7 @@
 Article R112-28
 ----
-La commission consultative de la Cour des comptes prévue à l'article L. 112-8
-comprend, en tant que membres élus :
+Le Conseil supérieur de la Cour des comptes prévu à l'article L. 112-8 comprend,
+en tant que membres élus :
 
 1° Trois conseillers maîtres ;
 

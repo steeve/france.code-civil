@@ -15,5 +15,5 @@ général.
 Un membre du corps des magistrats des chambres régionales des comptes apporte en
 qualité de chargé de mission son concours à l'accomplissement des missions
 définies au premier alinéa. Il est mis, avec son accord, à disposition de la
-Cour des comptes par arrêté du ministre chargé des finances, sur proposition du
-premier président de la Cour des comptes.
+Cour des comptes par arrêté du Premier ministre, sur proposition du premier
+président de la Cour des comptes.
