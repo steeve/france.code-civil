@@ -47,3 +47,8 @@ fois dans le périmètre du site Natura 2000 et dans celui du coeur du parc
 national, les dispositions du document de planification prévu au III qui
 concernent ces terrains sont soumises à l'avis conforme du commandant de la
 région terre.
+
+V. - Lorsque la plus grande partie d'un site Natura 2000 est située dans le
+périmètre d'un parc naturel marin, le plan de gestion du parc naturel marin
+comprend les éléments énumérés à l'article R. 414-11, à l'exception des cahiers
+des charges prévus au 4°, et a valeur de document d'objectifs du site.

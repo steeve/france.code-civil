@@ -39,7 +39,13 @@ l'application du code des marchés publics ;
 qu'il détermine ou comportant des engagements d'une durée supérieure à celle
 qu'il fixe ;
 
-13° La composition du conseil scientifique.
+13° La composition du conseil scientifique ;
+
+14° Les mesures proposées aux autorités compétentes en matière de gestion de la
+diversité biologique marine, d'accès, de navigation et de mouillage des navires,
+sur les parties maritimes du domaine relevant du conservatoire mentionnées à
+l'article L. 334-1 et les espaces maritimes adjacents, jusqu'à la limite d'un
+mille de la laisse de basse mer.
 
 III. - Il arrête son règlement intérieur.
 
