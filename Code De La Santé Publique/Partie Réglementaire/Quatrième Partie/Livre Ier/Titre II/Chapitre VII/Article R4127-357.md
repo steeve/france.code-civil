@@ -1,11 +1,9 @@
 Article R4127-357
 ----
-Une sage-femme peut accueillir dans son cabinet toutes les patientes, que
-celles-ci aient ou non une sage-femme traitante.
+Une sage-femme ne peut se faire remplacer dans son exercice que temporairement
+et par une sage-femme inscrite au tableau de l'ordre ou par un étudiant
+sage-femme remplissant les conditions prévues par l'article L. 4151-6.
 
-Si elle est consultée par une patiente venue à l'insu de la sage-femme
-traitante, la sage-femme doit, après accord de la patiente, essayer d'entrer en
-rapport avec l'autre sage-femme afin d'échanger leurs informations et de se
-faire part mutuellement de leurs observations et de leurs conclusions. En cas de
-refus de la patiente, elle doit informer celle-ci des conséquences que peut
-entraîner ce refus.
+La sage-femme qui se fait remplacer doit en informer préalablement, sauf
+urgence, le conseil de l'ordre dont elle relève en indiquant les nom et qualité
+du remplaçant ainsi que les dates et la durée du remplacement.

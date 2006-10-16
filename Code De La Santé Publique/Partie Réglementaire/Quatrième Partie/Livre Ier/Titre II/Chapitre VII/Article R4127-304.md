@@ -1,4 +1,4 @@
 Article R4127-304
 ----
-Les sages-femmes ont le devoir d'entretenir et de perfectionner leurs
-connaissances.
+La sage-femme a l'obligation d'entretenir et de perfectionner ses connaissances
+dans les conditions prévues par l'article L. 4153-1.

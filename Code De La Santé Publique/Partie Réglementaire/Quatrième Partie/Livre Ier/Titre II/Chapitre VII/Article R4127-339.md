@@ -6,10 +6,10 @@ feuilles d'ordonnance ou dans un annuaire professionnel sont :
 1° Ses nom, prénoms, adresse, numéro de téléphone, jours et heures de
 consultation ;
 
-2° Soit ses titres et fonctions dans les conditions autorisées par le Conseil
-national de l'ordre, soit, dans les cas mentionnés à l'article L. 4151-5, le
-diplôme, titre ou certificat lui permettant d'exercer sa profession ainsi que le
-nom de l'établissement où elle l'a obtenu ;
+2° Soit ses titres, diplômes et fonctions dans les conditions autorisées par le
+Conseil national de l'ordre, soit, dans les cas mentionnés à l'article L.
+4151-5, le diplôme, titre ou certificat lui permettant d'exercer sa profession
+ainsi que le nom de l'établissement où elle l'a obtenu ;
 
 3° Ses distinctions honorifiques reconnues par la République française ;
 

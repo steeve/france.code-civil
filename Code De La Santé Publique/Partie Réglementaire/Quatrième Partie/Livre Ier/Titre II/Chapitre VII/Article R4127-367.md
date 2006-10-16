@@ -5,3 +5,5 @@ présent code de déontologie doivent être motivées.
 
 Les décisions prises par les conseils départementaux peuvent faire l'objet d'un
 recours hiérarchique devant le conseil national.
+
+Ce recours hiérarchique doit être exercé avant tout recours contentieux.
