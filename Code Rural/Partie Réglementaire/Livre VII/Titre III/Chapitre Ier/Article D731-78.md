@@ -1,6 +1,6 @@
 Article D731-78
 ----
-Pour l'année 2005, le taux de la cotisation due pour la couverture des dépenses
+Pour l'année 2006, le taux de la cotisation due pour la couverture des dépenses
 complémentaires afférentes aux prestations familiales et assise sur les revenus
 professionnels ou l'assiette forfaitaire définis aux articles L. 731-14 à L.
 731-21 est fixé par arrêté préfectoral, sur proposition du comité départemental

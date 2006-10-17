@@ -2,13 +2,16 @@ Article D432-1
 ----
 Le rapport annuel mentionné à l'article L. 432-3-1 comporte des indicateurs qui
 doivent permettre la réalisation d'une analyse de la situation comparée des
-femmes et des hommes dans l'entreprise et de son évolution.
+femmes et des hommes dans l'entreprise et de son évolution ainsi que d'une
+analyse des conditions dans lesquelles s'articulent l'activité professionnelle
+et l'exercice de la responsabilité familiale des salariés ;
 
 Ces indicateurs comprennent des données chiffrées permettant de mesurer les
 écarts et, le cas échéant, des données explicatives sur les évolutions
 constatées ou à prévoir.
 
-Ces indicateurs sont les suivants :
+I. Les indicateurs relatifs à la situation comparée des femmes et des hommes
+dans l'entreprise sont les suivants :
 
 1. Conditions générales d'emploi
 
@@ -106,3 +109,37 @@ Données générales par sexe :
 - l'exposition à des risques professionnels ;
 
 - la pénibilité, dont le caractère répétitif des tâches.
+
+II. - Les indicateurs relatifs à l'articulation entre l'activité professionnelle
+et l'exercice de la responsabilité familiale sont les suivantes :
+
+1. Congés :
+
+Existence d'un complément de salaire versé par l'employeur pour le congé de
+paternité, le congé de maternité, le congé d'adoption.
+
+Données chiffrées par catégorie professionnelle :
+
+- nombre de jours de congés de paternité réellement pris par le salarié par
+rapport au nombre de jours de congés théoriques.
+
+2. Organisation du temps de travail dans l'entreprise :
+
+Existence de formules d'organisation du travail facilitant l'articulation de la
+vie familiale et de la vie professionnelle.
+
+Données chiffrées par sexe et par catégorie professionnelle :
+
+- nombre de salariés ayant accédé au temps partiel choisi ;
+
+- nombre de salariés à temps partiel choisi ayant repris un travail à temps
+plein.
+
+Services de proximité :
+
+- participation de l'entreprise aux modes d'accueil de la petite enfance ;
+
+- évolution des dépenses éligibles au crédit d'impôt famille ;
+
+- implication de l'entreprise dans un bureau des temps ou dans une structure
+territoriale de même nature.

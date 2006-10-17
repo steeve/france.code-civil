@@ -15,5 +15,6 @@ pour les aides familiaux de moins de dix-huit ans.
 
 Toutefois, en application du deuxième alinéa de l'article L. 731-36, le montant
 total de la cotisation due au titre du premier ou du deuxième alinéa du présent
-article et de la cotisation prévue à l'article D. 731-94 ne peut, pour l'année
-2005, pour chacune de ces personnes, excéder 1557,50.
+article et de la cotisation prévue aux deuxième et quatrième alinéas de
+l'article D. 731-94 ne peut, pour l'année 2006, pour chacune de ces personnes,
+excéder 1 584,20 euros.
