@@ -1,42 +1,56 @@
 Article D5141-55
 ----
-Les montants du droit progressif prévu à l'article L. 5141-8 sont fixés comme
-indiqué ci-après pour les demandes d'autorisation de mise sur le marché relevant
-d'une procédure nationale :
+I. - Les montants de la taxe prévue au 1° du 1 du I de l'article L. 5141-8 sont
+fixés comme indiqué ci-après pour les demandes d'autorisation de mise sur le
+marché relevant d'une procédure nationale ;
 
-1° 15 200 euros pour une demande relative à un médicament vétérinaire :
+1° 25 000 euros pour une demande relative à un médicament vétérinaire contenant
+une nouvelle substance active et 5 000 euros pour une demande présentée
+conjointement et relative à un médicament vétérinaire contenant un dosage
+différent de la même substance active ;
 
-a) Contenant un nouveau principe actif ou un nouvel adjuvant ;
+2° 15 000 euros pour une demande relative à un médicament vétérinaire contenant
+une association de substances actives connues en médecine vétérinaire mais qui
+n'ont pas encore été associées dans un même médicament vétérinaire et 5 000
+euros pour une demande présentée conjointement et relative à un médicament
+vétérinaire contenant un dosage différent des mêmes substances actives ;
 
-b) Contenant une nouvelle association, lorsque la demande est présentée
-conformément au 2° de l'article R. 5141-22 ;
+3° 10 000 euros pour une demande relative à un médicament vétérinaire qui
+contient une ou plusieurs substances actives connues en médecine vétérinaire et
+pour lequel il est fait référence de façon détaillée à la littérature
+scientifique publiée et 2 500 euros pour une demande présentée conjointement et
+relative à un médicament vétérinaire contenant un dosage différent des mêmes
+substances actives ;
 
-2° 11 600 euros pour une demande relative à un médicament vétérinaire :
+4° 7 500 euros pour une demande relative à un médicament vétérinaire
+essentiellement similaire à un médicament vétérinaire autorisé et 2 500 euros
+pour une demande présentée conjointement et relative à un médicament vétérinaire
+contenant un dosage différent des mêmes substances actives ;
 
-a) Présenté sous une nouvelle forme pharmaceutique ;
+5° 2 500 euros pour une demande relative à un médicament vétérinaire présentée
+avec le consentement du titulaire de l'autorisation de mise sur le marché du
+médicament vétérinaire original.
 
-b) Présenté selon un nouveau dosage ou une nouvelle formulation ;
+II. - Les montants de la taxe prévue au 1° du 1 du I de l'article L. 5141-8 sont
+fixés comme indiqué ci-après pour les demandes de modification d'autorisation de
+mise sur le marché relevant d'une procédure nationale :
 
-c) Lorsque cette demande est présentée conformément au b du 1° de l'article R.
-5141-22 ;
+1° 15 000 euros pour une demande portant sur le changement du dosage, de la
+forme pharmaceutique, de la voie d'administration, de l'activité, de la
+biodisponibilité, de la pharmacocinétique ou d'une espèce cible productrice de
+denrées alimentaires ou sur l'ajout d'une voie d'administration, d'une forme
+pharmaceutique, d'une espèce animale productrice de denrées alimentaires, d'une
+activité ou d'un dosage ;
 
-3° 8 750 euros pour une demande relative à un médicament vétérinaire :
+2° 4 000 euros pour une demande de modification de type II mentionnée à
+l'article R. 5141-35 et 200 euros pour une demande présentée conjointement et
+relative à un autre médicament vétérinaire concerné par la même modification ;
 
-a) Lorsque cette demande est présentée conformément au c du 1° de l'article R.
-5141-22 concernant un médicament vétérinaire répondant à la définition de
-l'article R. 5141-24 ;
+3° 1 000 euros pour une demande de modification de type I mentionnée à l'article
+R. 5141-35 et 200 euros pour une demande présentée conjointement et relative à
+un autre médicament vétérinaire concerné par la même modification.
 
-b) Homéopathique complexe ;
-
-4° 5 800 euros pour une demande relative à un médicament homéopathique
-vétérinaire unitaire, par famille de produit ;
-
-5° 4 650 euros pour une demande relative à un médicament vétérinaire lorsque
-cette demande est présentée conformément au a du 1° de l'article R. 5141-22 ;
-
-6° 2 500 euros au titre des frais complémentaires pour l'instruction d'une
-demande d'autorisation de mise sur le marché, par journée d'inspection d'une
-structure d'expérimentation ou d'un établissement de fabrication situé dans un
-Etat non membre de la Communauté européenne ou non partie à l'accord sur
-l'Espace économique européen ; les frais réels de déplacement et de séjour sont
-pris en charge par le demandeur.
+III. - Les montants fixés par le présent article ne s'appliquent pas aux
+médicaments homéopathiques vétérinaires ni aux médicaments vétérinaires dont
+l'autorisation de mise sur le marché relève exclusivement de la procédure prévue
+à l'avant-dernier alinéa de l'article L. 5141-5.

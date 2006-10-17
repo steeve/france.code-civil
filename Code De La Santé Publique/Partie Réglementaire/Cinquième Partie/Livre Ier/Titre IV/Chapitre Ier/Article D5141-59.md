@@ -1,18 +1,21 @@
 Article D5141-59
 ----
-Les montants du droit progressif prévu à l'article L. 5141-8 sont fixés comme
-indiqué ci-après pour les demandes de modification d'autorisation de mise sur le
-marché relevant d'une procédure de reconnaissance mutuelle :
+Les montants de la taxe prévue aux 1° et 8° du 1 du I de l'article L. 5141-8
+sont fixés comme indiqué ci-après pour une demande de transfert d'autorisation
+de mise sur le marché de médicament vétérinaire ou d'enregistrement de
+médicament homéopathique vétérinaire :
 
-1° 8 750 euros pour une demande de modification majeure présentée conformément
-au règlement (CE) n° 541/95 de la Commission du 10 mars 1995 concernant l'examen
-des modifications des termes d'une autorisation de mise sur le marché d'un
-médicament délivrée par l'autorité compétente d'un Etat membre, et pour laquelle
-la France est l'Etat membre de référence ;
+1° 1 500 euros pour une demande tendant à obtenir le transfert à un autre
+titulaire d'une autorisation de mise sur le marché dans les conditions prévues à
+l'article R. 5141-40 ;
 
-2° 2 900 euros pour une demande de modification majeure présentée conformément
-au même règlement du 10 mars 1995 et pour laquelle la France est l'un des Etats
-membres concernés ;
+2° 400 euros pour une demande tendant à obtenir le transfert à un autre
+titulaire d'une autorisation de mise sur le marché dans les conditions prévues à
+l'article R. 5141-40 pour les autorisations de mise sur le marché de médicament
+homéopathique vétérinaire ou quand il s'agit d'un médicament vétérinaire dont
+l'autorisation de mise sur le marché relève exclusivement de la procédure prévue
+à l'avant-dernier alinéa de l'article L. 5141-5 ;
 
-3° 950 euros pour une demande de modification mineure d'une autorisation de mise
-sur le marché présentée conformément au même règlement du 10 mars 1995.
+3° 100 euros pour une demande tendant à obtenir le transfert à un autre
+titulaire d'un enregistrement de médicament homéopathique vétérinaire dans les
+conditions prévues à l'article R. 5141-69.
