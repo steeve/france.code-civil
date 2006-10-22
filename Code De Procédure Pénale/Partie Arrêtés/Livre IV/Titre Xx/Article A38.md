@@ -1,105 +1,118 @@
 Article A38
 ----
 Les segments d'ADN sur lesquels portent les analyses destinées à
-l'identification génétique figure dans le tableau ci-après :
+l'identification génétique figurent dans le tableau ci-après :
 
-SEGMENTS D'ADN OU loci
-
-selon la nomenclature internationale
+Segment d'ADN ou " Locus " selon la nomenclature internationale
 
 
-LOCALISATION
+Localisation
 
 D3S1358
 
-Chromosome n° 3
 
+Chromosome 3
 
 VWA
 
-Chromosome n° 12
 
+Chromosome 12
 
 D8S1179
 
-Chromosome n° 8
 
+Chromosome 8
 
 D21S11
 
-Chromosome n° 21
 
+Chromosome 21
 
 D18S51
 
-Chromosome n° 18
+
+Chromosome 18
+
+TH01
 
 
-THO1
-
-Chromosome n° 11
-
+Chromosome 11
 
 FGA
 
-Chromosome n° 4
 
-
-Amélogénine
-
-Chromosomes X et Y
-
-Les analyses peuvent également porter sur les segments d'ADN suivants :
-
-SEGMENTS D'ADN OU loci
-
-selon la nomenclature internationale
-
-
-LOCALISATION
+Chromosome 4
 
 D16S539
 
-Chromosome n° 16
 
-
-D2S1338
-
-Chromosome n° 2
-
-
-D19S433
-
-Chromosome n° 19
-
-PentaE Chromosome n° 15
-
+Chromosome 16
 
 D5S818
 
-Chromosome n° 5
 
+Chromosome 5
 
 D13S317
 
-Chromosome n° 13
 
+Chromosome 13
 
 D7S820
 
-Chromosome n° 7
 
+Chromosome 7
 
 CSF1PO
 
-Chromosome n° 5
 
-
-PentaD
-
-Chromosome n° 21
-
+Chromosome 5
 
 TPOX
 
-Chromosome n° 2
+
+Chromosome 2
+
+Amélogénine
+
+
+Chromosomes X et Y
+
+Les analyses portent également sur deux au moins des quatre segments d'ADN
+suivants :
+
+Segment d'ADN ou " Locus " selon la nomenclature internationale
+
+
+Localisation
+
+D2S1338
+
+
+Chromosome 2
+
+D19S433
+
+
+Chromosome 19
+
+Penta E
+
+
+Chromosome 15
+
+Penta D
+
+
+Chromosome 21
+
+Les analyses peuvent également porter sur le segment d'ADN suivant :
+
+Segment d'ADN ou " Locus " selon la nomenclature internationale
+
+
+Localisation
+
+SE33 (ACTBP2)
+
+Chromosome 6
