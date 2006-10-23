@@ -26,7 +26,10 @@ marques de fabrique, procédés ou formules de fabrication ;
 d'instruments financiers ou d'options négociables, sur des bons d'option ou sur
 le marché à terme de marchandises mentionné à l'article 150 octies, lorsque
 l'option prévue au 8° du I de l'article 35 n'était pas ouverte au contribuable
-ou lorsqu'il ne l'a pas exercée.
+ou lorsqu'il ne l'a pas exercée ;
+
+6° Les sommes et indemnités perçues par les arbitres ou juges au titre de la
+mission arbitrale mentionnée à l'article L. 223-1 du code du sport.
 
 3. Les bénéfices réalisés par les greffiers titulaires de leur charge sont
 imposés, suivant les règles applicables aux bénéfices des charges et offices,

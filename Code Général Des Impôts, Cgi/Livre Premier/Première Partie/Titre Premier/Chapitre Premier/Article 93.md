@@ -32,12 +32,12 @@ conversion professionnelle par les personnes tirant un revenu de la pratique
 d'un sport ;
 
 6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un
-immeuble, dans les conditions et limites fixées au 10 de l'article 39.
+immeuble, dans les conditions et limites fixées au 10 de l'article 39 ;
 
 7° Les droits de mutation à titre gratuit acquittés par les héritiers,
 donataires ou légataires d'une exploitation, pour la part des droits afférente à
 cette exploitation, et les intérêts payés en application des dispositions de
-l'article 1717, pour la même part.
+l'article 1717, pour la même part ;
 
 8° Les redevances de concessions de produits de la propriété industrielle
 définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre
@@ -134,3 +134,9 @@ bénéficient pas de l'abattement prévu au premier alinéa.
 L'abattement mentionné au premier alinéa ne peut excéder 50 000 euros par an.
 
 Il ne s'applique pas en cas d'option pour le régime prévu à l'article 100 bis.
+
+10. Lorsque le montant total des sommes et indemnités perçues par les arbitres
+ou juges mentionnées au 6° du 2 de l'article 92 est inférieur, pour une année
+civile, à la limite définie au premier alinéa de l'article L. 241-16 du code de
+la sécurité sociale, plafonné à 14,5 % du montant annuel du plafond mentionné à
+l'article L. 241-3 du même code, ces sommes et indemnités sont exonérées.
