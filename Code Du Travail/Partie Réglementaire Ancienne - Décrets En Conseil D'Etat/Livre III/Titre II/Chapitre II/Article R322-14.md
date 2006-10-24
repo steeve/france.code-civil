@@ -1,25 +1,15 @@
 Article R322-14
 ----
-La commission permanente du comité supérieur de l'emploi comprend :
+La formation plénière et la commission permanente du Comité supérieur de
+l'emploi sont convoquées par leur président, sur l'initiative de celui-ci ou à
+la demande de la majorité de leurs membres.
 
-Le directeur général du travail et de l'emploi, président ;
+Elles peuvent, sur décision de leur président, entendre toute personne
+extérieure dont l'audition est de nature à éclairer leurs délibérations.
 
-Un représentant du ministre de l'économie et des finances ;
+Le directeur général de l'Agence nationale pour l'emploi et le directeur général
+de l'Association nationale pour la formation professionnelle des adultes, ou
+leur représentant, participent à ces instances avec voix consultative.
 
-Un représentant du ministre de l'agriculture ;
-
-Un représentant du ministre du développement industriel et scientifique ;
-
-Un représentant du ministre délégué auprès du Premier ministre, chargé du Plan
-et de l'aménagement du territoire, désigné au titre du la délégation
-interministérielle à l'aménagement et à la compétitivité des territoires ;
-
-Le secrétaire général du comité interministériel de la formation professionnelle
-et de la promotion sociale ou son représentant ;
-
-Cinq représentants des organisations syndicales de travailleurs ;
-
-Deux représentants de l'union nationale interprofessionnelle pour l'emploi dans
-l'industrie et le commerce ;
-
-Cinq représentants des organisations professionnelles d'employeurs.
+Des groupes de travail peuvent être créés pour l'étude de questions
+particulières.
