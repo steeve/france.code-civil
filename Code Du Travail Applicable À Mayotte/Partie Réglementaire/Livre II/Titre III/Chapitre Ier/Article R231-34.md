@@ -4,7 +4,7 @@ La présente section fixe les règles particulières de prévention et de protec
 des salariés contre les risques résultant d'une exposition à des agents
 biologiques.
 
-Elle est applicable aux établissements mentionnés à l'article L. 230-1 dans
+Elle est applicable aux établissements mentionnés à l'article L. 231-1 dans
 lesquels la nature de l'activité peut conduire à exposer les salariés à des
 agents biologiques.
 

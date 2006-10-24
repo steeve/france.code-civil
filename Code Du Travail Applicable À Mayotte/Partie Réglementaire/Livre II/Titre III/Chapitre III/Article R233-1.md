@@ -3,9 +3,9 @@ Article R233-1
 Le chef d'établissement doit mettre à la disposition des salariés les
 équipements de travail nécessaires, appropriés au travail à réaliser ou
 convenablement adaptés à cet effet, en vue de préserver la santé et la sécurité
-des salariés, conformément aux obligations définies par l'article L. 230-3 et
+des salariés, conformément aux obligations définies par l'article L. 233-1 et
 aux prescriptions particulières édictées par les décrets prévus à l'article L.
-230-4.
+231-16.
 
 A cet effet, les équipements de travail doivent être choisis en fonction des
 conditions et des caractéristiques particulières du travail. En outre, le chef
@@ -28,9 +28,9 @@ travail mis à la disposition des salariés conformément aux dispositions du
 présent titre ne constituent pas des avantages en nature au sens de l'article L.
 223-10.
 
-Les travailleurs indépendants et les employeurs mentionnés à l'article L.
-230-1-1 doivent utiliser des équipements de travail et des équipements de
-protection individuelle appropriés ou convenablement adaptés, choisis en
-fonction des conditions et des caractéristiques particulières du travail. En
-tant que de besoin, ils doivent mettre en oeuvre les mesures définies aux
-alinéas 3 et 4 ci-dessus.
+Les travailleurs indépendants et les employeurs mentionnés à l'article L. 231-2
+doivent utiliser des équipements de travail et des équipements de protection
+individuelle appropriés ou convenablement adaptés, choisis en fonction des
+conditions et des caractéristiques particulières du travail. En tant que de
+besoin, ils doivent mettre en oeuvre les mesures définies aux alinéas 3 et 4
+ci-dessus.

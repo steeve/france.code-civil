@@ -11,5 +11,5 @@ bon état de fonctionnement et désinfectés avant d'être attribués à un nouv
 titulaire.
 
 Lors de ces travaux, les travailleurs indépendants et les employeurs visés à
-l'article L. 230-1-1 sont également tenus de porter des appareils respiratoires
+l'article L. 231-2 sont également tenus de porter des appareils respiratoires
 appropriés et en bon état de fonctionnement.

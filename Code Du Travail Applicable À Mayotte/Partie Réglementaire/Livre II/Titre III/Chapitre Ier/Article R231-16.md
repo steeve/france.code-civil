@@ -22,4 +22,4 @@ Les dispositions de la présente sous-section, à l'exception des articles R.
 231-17, I, alinéa 3, R. 231-19, III, b, g, h, R. 231-21, R. 231-22, alinéas 4 et
 5, à R. 231-28 s'appliquent aux travailleurs indépendants et aux employeurs,
 lorsqu'ils interviennent sur chantier, dans les conditions visées à l'article L.
-230-1-1.
+231-2.

@@ -1,7 +1,16 @@
 Article R213-2
 ----
-Les chefs d'établissement qui, en cas de chômage résultant d'une interruption
-accidentelle ou de force majeure, veulent, en application de l'article L. 213-5,
-déroger temporairement aux dispositions des articles L. 213-1 et L. 213-2
-interdisant le travail de nuit des femmes, doivent adresser à l'inspecteur du
-travail, une demande dans la forme prévue à l'article R. 213-1.
+Il peut être dérogé par une convention ou un accord collectif de branche étendu
+ou par une convention ou un accord d'entreprise ou d'établissement à la durée
+maximale quotidienne de 8 heures fixée au premier alinéa de l'article L. 213-4
+pour les activités suivantes :
+
+1° Activités caractérisées par l'éloignement entre le domicile et le lieu de
+travail du salarié ou par l'éloignement entre différents lieux de travail du
+salarié ;
+
+2° Activités de garde, de surveillance et de permanence caractérisées par la
+nécessité d'assurer la protection des biens et des personnes ;
+
+3° Activités caractérisées par la nécessité d'assurer la continuité du service
+ou de la production.

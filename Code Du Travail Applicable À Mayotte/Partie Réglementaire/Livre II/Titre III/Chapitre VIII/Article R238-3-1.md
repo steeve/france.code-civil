@@ -1,7 +1,7 @@
 Article R238-3-1
 ----
 Les employeurs, chefs d'établissements, gérants ou préposés énumérés à l'article
-L. 230-1 et L. 251-1 dont le personnel procède, même à titre occasionnel, à
+L. 231-1 et L. 251-1 dont le personnel procède, même à titre occasionnel, à
 l'application par pulvérisation de peintures ou de vernis renfermant des
 mélanges toxiques ou inflammables sont soumis, indépendamment des mesures
 générales prescrites par le présent code, aux mesures particulières de

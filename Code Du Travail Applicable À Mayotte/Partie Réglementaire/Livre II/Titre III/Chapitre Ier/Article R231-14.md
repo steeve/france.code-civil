@@ -1,7 +1,7 @@
 Article R231-14
 ----
 Les contrôles techniques destinés à vérifier le respect des valeurs limites de
-concentration fixées en application de l'article L. 230-5 pour certaines
+concentration fixées en application de l'article L. 231-8 pour certaines
 substances ou préparations chimiques dangereuses telles que certains gaz,
 aérosols liquides, vapeurs ou poussières sont effectués par des organismes
 préalablement agréés pour les départements métropolitains ou d'outre-mer par

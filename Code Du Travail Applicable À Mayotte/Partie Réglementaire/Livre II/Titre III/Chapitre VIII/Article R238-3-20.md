@@ -1,9 +1,9 @@
 Article R238-3-20
 ----
 Les prescriptions de la présente section pour l'application desquelles est
-prévue la procédure de la mise en demeure en application des articles L. 230-10
-et L. 230-11 et le délai minimum prévu à l'article L. 230-12 pour l'exécution
-des mises en demeure sont fixés conformément au tableau ci-après :
+prévue la procédure de la mise en demeure en application des articles L. 231-3
+et L. 231-4 et le délai minimum prévu à l'article L. 231-4 pour l'exécution des
+mises en demeure sont fixés conformément au tableau ci-après :
 
 :------------------------------------------:
 
@@ -11,7 +11,7 @@ des mises en demeure sont fixés conformément au tableau ci-après :
 
 : pour lesquelles est : d'exécution des :
 
-: prévue la mise en : mises en demeure:
+: prévue la mise en : mises en demeure :
 
 : demeure : :
 
@@ -23,7 +23,7 @@ des mises en demeure sont fixés conformément au tableau ci-après :
 
 : Article R. 238-3-3, : :
 
-: alinéas 2, 3, 4 : 1 mois :
+: alinéas 2,3,4 : 1 mois :
 
 : Article R. 238-3-9 : 1 mois :
 

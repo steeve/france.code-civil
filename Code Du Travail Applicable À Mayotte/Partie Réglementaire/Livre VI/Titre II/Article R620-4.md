@@ -1,6 +1,6 @@
 Article R620-4
 ----
-Les chefs des établissements autres qu'agricoles, énumérés à l'article L. 230-1
+Les chefs des établissements autres qu'agricoles, énumérés à l'article L. 231-1
 doivent tenir à la disposition de l'inspecteur du travail, au siège de leur
 établissement, une liste de leurs chantiers et autres lieux de travail à
 caractère temporaire.

@@ -1,10 +1,10 @@
 Article R236-1
 ----
-I. - Les prescriptions des articles du présent chapitre doivent être observées
-dans les établissements soumis aux dispositions de l'article L. 230-1 qui
+I.-Les prescriptions des articles du présent chapitre doivent être observées
+dans les établissements soumis aux dispositions de l'article L. 231-1 qui
 mettent en oeuvre des courants électriques.
 
-II. - Toutefois, le présent chapitre ne s'applique pas :
+II.-Toutefois, le présent chapitre ne s'applique pas :
 
 a) Aux distributions d'énergie électrique, c'est-à-dire aux ouvrages proprement
 dits de distribution électrique ainsi qu'à leurs annexes et aux chantiers
@@ -16,7 +16,7 @@ b) Aux chantiers souterrains d'aménagement de chutes d'eau ;
 c) A la conception des installations électriques spécifiques de bord des navires
 et aéronefs, ainsi qu'aux essais, à l'utilisation et à l'entretien de ces mêmes
 installations par des personnels appartenant à des entreprises ne relevant pas
-de l'article L. 230-1.
+de l'article L. 231-1.
 
 Cependant, le présent chapitre est applicable aux installations provisoires
 mises en place à bord par les établissements de construction et de réparation de
@@ -34,8 +34,7 @@ du navire ou de l'aéronef, une consigne de travail visant à assurer la sécuri
 des salariés, compte tenu des dispositions propres aux installations électriques
 de bord.
 
-III. - Les articles R. 236-2, R. 236-3, R. 236-4, R. 236-5 (I à IV), R. 236-45
-a, R. 236-48 (III à V), R. 236-49, R. 236-50 (I, deuxième alinéa du II, III b),
-R. 236-51 (I, II a, b et c, troisième tiret) et R. 236-52 (I) sont applicables
-aux travailleurs indépendants et aux employeurs mentionnés à l'article L.
-230-1-1.
+III.-Les articles R. 236-2, R. 236-3, R. 236-4, R. 236-5 (I à IV), R. 236-45 a,
+R. 236-48 (III à V), R. 236-49, R. 236-50 (I, deuxième alinéa du II, III b), R.
+236-51 (I, II a, b et c, troisième tiret) et R. 236-52 (I) sont applicables aux
+travailleurs indépendants et aux employeurs mentionnés à l'article L. 231-2.
