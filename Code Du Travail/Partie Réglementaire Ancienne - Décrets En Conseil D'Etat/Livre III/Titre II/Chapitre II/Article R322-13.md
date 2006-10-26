@@ -1,42 +1,111 @@
 Article R322-13
 ----
-Le comité supérieur de l'emploi comprend :
+I. - Le Comité supérieur de l'emploi peut siéger soit en formation plénière,
+soit en commission permanente. Il se réunit en formation plénière au moins une
+fois par an.
 
-Le ministre chargé de l'emploi ou son représentant, président ;
+II. - Lorsqu'il siège en formation plénière, il comprend, outre le ministre
+chargé du travail, président, trente-quatre membres ainsi répartis :
 
-Deux représentants du ministre chargé du travail ;
+1° Neuf représentants de l'Etat :
 
-Deux représentants du ministre de l'économie et des finances ;
+a) Deux représentants du ministre chargé du travail, dont le délégué général à
+l'emploi et à la formation professionnelle qui préside la séance du comité en
+l'absence du ministre ;
 
-Un représentant du ministre de l'éducation nationale ;
+b) Un représentant du ministre chargé du budget ;
 
-Un représentant du ministre du développement industriel et scientifique ;
+c) Un représentant du ministre chargé de l'industrie ;
 
-Un représentant du ministre de l'équipement et du logement ;
+d) Un représentant du ministre chargé de l'éducation nationale ;
 
-Un représentant du ministre de l'agriculture ;
+e) Un représentant du ministre chargé de l'agriculture ;
 
-Deux représentants du ministre délégué auprès du Premier ministre, chargé du
-Plan et de l'aménagement du territoire, dont l'un désigné au titre du
-commissariat général du Plan d'équipement et de la productivité et l'autre au
-titre de la délégation interministérielle à l'aménagement et à la compétitivité
-des territoires ;
+f) Un représentant du ministre chargé de l'aménagement du territoire ;
 
-Le secrétaire général du comité interministériel de la formation professionnelle
-et de la promotion sociale ou son représentant ;
+g) Un représentant du ministre chargé de l'équipement ;
 
-Dix représentants des organisations professionnelles d'employeurs et dix
-représentants des organisations syndicales de travailleurs nommés par arrêté du
-ministre chargé du travail ;
+h) Un représentant du ministre chargé du tourisme ;
 
-Sur proposition des organisations syndicales nationales les plus représentatives
-des employeurs et des travailleurs, à raison de deux membres pour chacune des
-organisations syndicales de travailleurs précitées ;
+2° Dix représentants des organisations syndicales de salariés
+interprofessionnelles représentatives au plan national :
 
-Deux membres du conseil d'administration de l'union nationale
-interprofessionnelle pour l'emploi dans l'industrie et le commerce désignés par
-le ministre chargé de l'emploi sur proposition dudit conseil.
+a) Deux représentants nommés sur proposition de la Confédération générale du
+travail (CGT) ;
 
-Le ministre chargé du travail peut, en outre, appeler à participer aux travaux
-du comité, avec voix consultative et selon la nature des questions étudiées, des
-représentants d'administration ou d'organismes intéressés.
+b) Deux représentants nommés sur proposition de la Confédération française
+démocratique du travail (CFDT) ;
+
+c) Deux représentants nommés sur proposition de la Confédération générale du
+travail - Force ouvrière (CGT-FO) ;
+
+d) Deux représentants nommés sur proposition de la Confédération française des
+travailleurs chrétiens (CFTC) ;
+
+e) Deux représentants nommés sur proposition de la Confédération française de
+l'encadrement - Confédération générale des cadres (CFE-CGC) ;
+
+3° Dix représentants des organisations professionnelles d'employeurs :
+
+a) Six représentants nommés sur proposition du Mouvement des entreprises de
+France (MEDEF) ;
+
+b) Un représentant nommé sur proposition de la Confédération générale des
+petites et moyennes entreprises (CGPME) ;
+
+c) Un représentant nommé sur proposition de l'Union professionnelle artisanale
+(UPA) ;
+
+d) Un représentant nommé sur proposition de l'Union nationale des professions
+libérales (UNAPL) ;
+
+e) Un représentant nommé sur proposition de la Fédération nationale des
+syndicats d'exploitants agricoles (FNSEA) ;
+
+4° Trois représentants des collectivités territoriales nommés sur proposition
+respectivement des présidents de l'Association des maires de France, de
+l'Assemblée des départements de France et de l'Association des régions de France
+;
+
+5° Deux membres du conseil d'administration de l'Union nationale
+interprofessionnelle pour l'emploi dans l'industrie et le commerce, nommés sur
+proposition de ce conseil.
+
+Les membres de la formation plénière du Comité supérieur de l'emploi sont nommés
+par arrêté du ministre chargé du travail pour une durée de trois ans
+renouvelable.
+
+Pour chacun d'entre eux, un suppléant, chargé de le remplacer en cas
+d'empêchement, est désigné dans les mêmes conditions.
+
+Toute vacance ou perte de la qualité au titre de laquelle ils ont été désignés
+donne lieu à remplacement pour la durée de mandat restant à courir.
+
+III. - Lorsqu'il siège en commission permanente, le Comité supérieur de l'emploi
+est composé, outre du délégué général à l'emploi et à la formation
+professionnelle, président, de membres titulaires de sa formation plénière,
+désignés par arrêté du ministre chargé du travail et ainsi répartis :
+
+1° Cinq représentants de l'Etat :
+
+a) Le représentant du ministre chargé du budget ;
+
+b) Le représentant du ministre chargé de l'industrie ;
+
+c) Le représentant du ministre chargé de l'agriculture ;
+
+d) Le représentant du ministre chargé de l'aménagement du territoire ;
+
+e) Le représentant du ministre chargé de l'équipement ;
+
+2° Un représentant pour chacune des organisations syndicales de salarié et
+professionnelles d'employeur mentionnées aux 2° et 3° du II du présent article,
+désigné sur proposition de ces organisations ;
+
+3° Les trois représentants des collectivités territoriales ;
+
+4° Les deux représentants de l'Union nationale interprofessionnelle pour
+l'emploi dans l'industrie et le commerce.
+
+En cas d'empêchement, chaque membre peut être remplacé par son suppléant au sein
+de la formation plénière.
