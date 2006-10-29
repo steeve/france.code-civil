@@ -7,9 +7,9 @@ représentant, président ;
 
 2° Le directeur général de la santé ou son représentant ;
 
-3° Le directeur de l'enseignement supérieur ou son représentant ;
+3° Le directeur général de l'enseignement supérieur ou son représentant ;
 
-4° Deux représentants du conseil national de l'ordre de la profession concernée.
+4° Deux représentants du Conseil national de l'ordre de la profession concernée.
 
 II. - La section compétente pour l'examen des demandes d'autorisation d'exercice
 présentées par les médecins comprend en outre :
@@ -18,9 +18,9 @@ présentées par les médecins comprend en outre :
 spécialités des médecins siégeant à la commission de qualification ordinale de
 première instance telle que prévue par le règlement de qualification ;
 
-6° Un membre de la profession concernée proposé par les organisations syndicales
-preprésentatives des praticiens titulaires d'un diplôme acquis en dehors de
-l'Union européenne ou de l'Espace économique européen.
+6° Un membre de la profession concernée proposé par les organisations nationales
+des praticiens titulaires d'un diplôme acquis en dehors de l'Union européenne ou
+de l'Espace économique européen.
 
 III. - La section compétente pour l'examen des demandes d'autorisation
 d'exercice présentées par les chirurgiens-dentistes comprend en outre :
@@ -28,9 +28,9 @@ d'exercice présentées par les chirurgiens-dentistes comprend en outre :
 5° Deux membres choisis parmi des organisations syndicales représentatives des
 chirurgiens-dentistes ;
 
-6° Un membre de la profession concernée proposé par les organisations syndicales
-représentatives des praticiens titulaires d'un diplôme acquis en dehors de
-l'Union européenne ou de l'Espace économique européen ;
+6° Un membre de la profession concernée proposé par les organisations nationales
+des praticiens titulaires d'un diplôme acquis en dehors de l'Union européenne ou
+de l'Espace économique européen ;
 
 7° Un professeur des universités-praticien hospitalier en odontologie ;
 
@@ -42,9 +42,9 @@ présentées par les sages-femmes comprend en outre :
 5° Deux membres choisis parmi des organisations syndicales représentatives des
 sages-femmes ;
 
-6° Un membre de la profession concernée proposé par les organisations syndicales
-représentatives des praticiens titulaires d'un diplôme acquis en dehors de
-l'Union européenne ou de l'Espace économique européen ;
+6° Un membre de la profession concernée proposé par les organisations nationales
+des praticiens titulaires d'un diplôme acquis en dehors de l'Union européenne ou
+de l'Espace économique européen ;
 
 7° Un ou une sage-femme directeur d'école ;
 
