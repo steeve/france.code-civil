@@ -1,9 +1,9 @@
 Article R8
 ----
-La commission prévue à l'article 16 (3° et 4°), dont l'avis conforme est requis
-pour la désignation des fonctionnaires du corps de commandement et d'encadrement
-et du corps de maîtrise et d'application de la police nationale auxquels est
-attribuée la qualité d'officier de police judiciaire, est composée comme suit :
+La commission prévue à l'article 16 (4°), dont l'avis conforme est requis pour
+la désignation des fonctionnaires du corps d'encadrement et d'application de la
+police nationale auxquels est attribuée la qualité d'officier de police
+judiciaire, est composée comme suit :
 
 1° Le procureur général près la Cour de cassation ou son délégué choisi par lui
 parmi le premier avocat général et les avocats généraux près la Cour de
@@ -18,8 +18,8 @@ représentant ;
 
 5° Le directeur de la formation de la police nationale ou son représentant ;
 
-6° Neuf fonctionnaires de la police nationale ayant au moins rang de commissaire
-principal.
+6° Neuf fonctionnaires de la police nationale ayant au moins rang de
+commissaire.
 
 Toutefois l'effectif des magistrats et celui des fonctionnaires de la police
 nationale prévus aux 2° et 6° peut être augmenté en nombre égal, sans pouvoir
