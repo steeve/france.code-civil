@@ -3,7 +3,7 @@ Article R382-17
 Toute personne physique ou morale qui procède à la diffusion ou à l'exploitation
 commerciale des oeuvres originales relevant des arts mentionnés au présent
 chapitre est tenue de verser à l'organisme agréé compétent la contribution
-instituée à l'article L. 382-4 [*obligation*].
+instituée à l'article L. 382-4.
 
 La contribution due à l'occasion de la diffusion ou de l'exploitation
 commerciale des oeuvres des artistes, vivants ou morts, auteurs d'oeuvres
@@ -14,12 +14,13 @@ soit, lorsque l'oeuvre n'est pas vendue au public, du montant de la rémunérati
 brute de l'artiste auteur.
 
 Pour la détermination du chiffre d'affaires mentionné à l'alinéa précédent, il
-est tenu compte de 30 p. 100 du prix de vente des oeuvres et, en cas de vente à
-la commission, du montant de la commission.
+est tenu compte de 30 % du prix de vente des oeuvres et, en cas de vente à la
+commission, du montant de la commission.
 
-Lorsqu'il s'agit d'oeuvres autres que graphiques et plastiques, la contribution
-est calculée en pourcentage du montant brut des droits d'auteur versés à
-l'auteur directement ou indirectement.
+Lorsqu'il s'agit d'oeuvres autres que graphiques et plastiques,
+
+la contribution est calculée en pourcentage du montant brut des droits d'auteur
+versés à l'auteur directement ou indirectement.
 
 Pour l'application de l'alinéa précédent, on entend par droit d'auteur la
 rémunération au sens des articles L. 131-4 et L. 132-6 du code de la propriété

@@ -13,4 +13,4 @@ contrat d'association, et dont les statuts satisfont aux dispositions des
 articles R. 382-8 à R. 382-11.
 
 L'agrément est donné par arrêté conjoint du ministre chargé de la culture et du
-ministre chargé de la sécurité sociale [*autorités compétentes*].
+ministre chargé de la sécurité sociale.

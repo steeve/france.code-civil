@@ -3,8 +3,8 @@ Article R382-30-1
 Le financement de l'action sociale prévue à l'article L. 382-7 est assuré par
 l'affectation d'une fraction de la contribution instituée à l'article L. 382-4.
 Cette fraction est fixée, pour la période comprise entre le 1er juillet d'une
-année et le 30 juin de l'année suivante, à 1,5 p. 100 du montant recouvré lors
-de l'année civile précédente.
+année et le 30 juin de l'année suivante, à 1,5 % du montant recouvré lors de
+l'année civile précédente.
 
 Peuvent bénéficier de cette action sociale les personnes mentionnées à l'article
 R. 382-24 que leur situation économique et sociale, appréciée compte tenu de

@@ -1,6 +1,6 @@
 Article R382-11
 ----
-L'agent comptable est chargé , sous sa propre responsabilité et sous le contrôle
+L'agent comptable est chargé, sous sa propre responsabilité et sous le contrôle
 du conseil d'administration, des opérations financières et comptables de
 l'organisme afférentes aux activités mentionnées à l'article R. 382-7.
 

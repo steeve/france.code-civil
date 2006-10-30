@@ -7,8 +7,8 @@ leurs activités professionnelles au cours de l'année précédente. A cette
 déclaration doit être jointe une copie certifiée conforme par l'intéressé de sa
 dernière déclaration d'impôt sur le revenu.
 
-La déclaration doit être complétée, au plus tard le 1er octobre de chaque année
-, par l'avis d'imposition sur le revenu fourni par l'administration fiscale.
+La déclaration doit être complétée, au plus tard le 1er octobre de chaque année,
+par l'avis d'imposition sur le revenu fourni par l'administration fiscale.
 
 En cas de carence, l'organisme agréé compétent procède à l'évaluation d'office
 des ressources servant de base au calcul de la cotisation.

@@ -36,7 +36,7 @@ Le président du conseil d'administration est élu en son sein par le conseil.
 
 Le conseil d'administration siège valablement dès lors que le nombre de ses
 membres présents est supérieur à la moitié du nombre total des membres dont il
-est composé .
+est composé.
 
 Les organismes ne peuvent, en aucun cas, allouer un traitement à leurs
 administrateurs. Toutefois, ils leur remboursent leurs frais de déplacement. Un

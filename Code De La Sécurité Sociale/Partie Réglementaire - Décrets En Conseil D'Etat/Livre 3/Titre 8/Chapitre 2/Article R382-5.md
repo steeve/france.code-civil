@@ -1,10 +1,9 @@
 Article R382-5
 ----
-Les commissions élisent leur président pour trois ans parmi leurs membres
-[*durée du mandat*].
+Les commissions élisent leur président pour trois ans parmi leurs membres.
 
 Elles se réunissent au moins une fois par trimestre sur convocation de leur
-président .
+président.
 
 Elles émettent leur avis à la majorité des membres présents, compte non tenu des
 représentants de l'Etat, qui ne prennent pas part au vote. Ces derniers peuvent
