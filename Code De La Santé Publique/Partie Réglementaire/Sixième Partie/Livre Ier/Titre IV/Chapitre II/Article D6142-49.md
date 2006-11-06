@@ -1,6 +1,6 @@
 Article D6142-49
 ----
-Les fonctions de président et de membre du comité sont gratuites. Leurs frais de
-déplacement ainsi que ceux des experts appelés en consultation sont remboursés
-dans les conditions prévues par la réglementation en vigueur pour les
-fonctionnaires de l'Etat.
+Le Haut Comité hospitalo-universitaire institué à l'article L. 6142-15 peut être
+consulté sur toute question intéressant les missions hospitalo-universitaires
+des centres hospitaliers et universitaires, et notamment dans le domaine de
+l'évaluation de la qualité de la formation.
