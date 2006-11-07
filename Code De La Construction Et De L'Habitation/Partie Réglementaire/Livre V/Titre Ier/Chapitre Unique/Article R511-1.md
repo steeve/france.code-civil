@@ -1,16 +1,12 @@
 Article R511-1
 ----
-Dans le cas prévu par l'article L. 511-1, l'arrêté [*de péril*] du maire
-prescrivant la réparation ou la démolition d'un bâtiment menaçant ruine et les
-rapports d'experts nommés comme il est dit à l'article L. 511-2, sont transmis
-immédiatement au tribunal administratif. Dans les huit jours qui suivent le
-dépôt au greffe [*délai*], le tribunal, s'il y a désaccord entre les deux
-experts, désigne un homme de l'art pour procéder à la même opération.
+Lorsque les désordres affectant des murs, bâtiments ou édifices sont
+susceptibles de justifier le recours à la procédure prévue à l'article L. 511-2,
+le maire en informe, en joignant tous éléments utiles en sa possession, le
+propriétaire et les titulaires de droits réels immobiliers et les invite à
+présenter leurs observations dans un délai qu'il fixe et qui ne peut être
+inférieur à un mois.
 
-Dans le cas d'une constatation unique, le tribunal administratif peut ordonner
-telles vérifications qu'il croit nécessaires.
-
-Notification de la décision du tribunal est faite au propriétaire par la voie
-administrative.
-
-Recours contre la décision peut être porté devant le Conseil d'Etat.
+Le maire est réputé avoir satisfait à cette obligation lorsqu'il a informé les
+propriétaires et titulaires de droits réels immobiliers tels qu'ils figurent au
+fichier immobilier de la conservation des hypothèques ou au livre foncier.
