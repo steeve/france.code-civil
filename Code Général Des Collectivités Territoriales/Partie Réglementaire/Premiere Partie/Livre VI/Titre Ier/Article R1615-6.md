@@ -1,20 +1,17 @@
 Article R1615-6
 ----
-I. - Les collectivités et établissements bénéficiaires du fonds de compensation
-pour la taxe sur la valeur ajoutée autres que les communautés d'agglomération,
-les communautés de villes et les communautés de communes tiennent des états
-annuels des dépenses mentionnées à l'article R. 1615-2, des subventions
-spécifiques de l'Etat calculées taxe sur la valeur ajoutée incluse ainsi que des
-cessions et des mises à disposition, mentionnées à l'article R. 1615-5, qu'ils
-réalisent.
+Les collectivités et établissements bénéficiaires du fonds de compensation pour
+la taxe sur la valeur ajoutée, autres que les communautés d'agglomération et les
+communautés de communes, tiennent des états annuels relatifs aux dépenses
+mentionnées aux articles R. 1615-1 et R. 1615-2, aux subventions spécifiques de
+l'Etat calculées taxe sur la valeur ajoutée incluse ainsi qu'au reversement des
+attributions dans les conditions prévues par l'article R. 1615-5.
 
-Ces états sont joints aux demandes d'attribution du fonds.
+Les communautés d'agglomération et les communautés de communes bénéficiaires du
+fonds de compensation pour la taxe sur la valeur ajoutée tiennent des états
+trimestriels relatifs au mandatement des dépenses mentionnées aux articles R.
+1615-1 et R. 1615-2, aux subventions spécifiques de l'Etat calculées taxe sur la
+valeur ajoutée incluse ainsi qu'au reversement des attributions dans les
+conditions prévues par l'article R. 1615-5.
 
-II. - Les communautés d'agglomération, les communautés de villes et les
-communautés de communes bénéficiaires du fonds de compensation pour la taxe sur
-la valeur ajoutée tiennent des états de mandatement trimestriels des dépenses
-mentionnées à l'article R. 1615-2, des subventions spécifiques de l'Etat
-calculées taxe sur la valeur ajoutée incluse ainsi que des cessions et des mises
-à disposition mentionnées à l'article R. 1615-5, qu'elles réalisent.
-
-Ces états sont joints aux demandes d'attribution du fonds.
+Les états mentionnés ci-dessus sont joints aux demandes d'attribution du fonds.
