@@ -1,32 +1,33 @@
 Article R351-10
 ----
-Dans les conditions fixées au 4° de l'article L. 351-9, sont également admis au
-bénéfice de l'allocation d'insertion :
+Pour bénéficier de l'allocation temporaire d'attente, la personne mentionnée à
+l'article L. 351-9 doit justifier de ressources mensuelles inférieures au
+montant du revenu minimum d'insertion défini à l'article L. 262-2 du code de
+l'action sociale et des familles. Les ressources prises en considération pour
+l'application de ce plafond comprennent, hors l'allocation temporaire d'attente,
+celles de l'intéressé et, le cas échéant, de son conjoint, de son concubin, ou
+de son partenaire lié par un pacte civil de solidarité, telles qu'elles doivent
+être déclarées à l'administration fiscale pour le calcul de l'impôt sur le
+revenu avant déduction des divers abattements. Le montant pris en compte est le
+douzième du total des ressources perçues pendant les douze mois précédant celui
+au cours duquel les ressources sont examinées. La condition relative aux
+ressources est appréciée le mois de la demande d'allocation, puis à échéance
+semestrielle.
 
-1° Les rapatriés : ils peuvent cumuler l'allocation d'insertion avec la
-prestation de subsistance instituée par la loi n° 61-1439 du 26 décembre 1961
-dans des conditions déterminées par arrêté ministériel ;
+Les ressources perçues hors du territoire national sont prises en compte comme
+si elles avaient été perçues sur ce territoire.
 
-2° Les apatrides et les ressortissants étrangers titulaires de la carte de
-réfugié résidant régulièrement en France, ainsi que les ressortissants étrangers
-dont le titre de séjour ou le récépissé de demande de titre de séjour mentionne
-qu'ils ont sollicité l'asile en France et qui ont présenté une demande tendant à
-bénéficier du statut de réfugié ; toutefois, le versement aux intéressés de
-l'allocation d'insertion est suspendu lorsque leur séjour dans un centre
-d'hébergement est entièrement pris en charge par l'aide sociale ;
+Il n'est pas tenu compte des prestations familiales.
 
-3° Les travailleurs salariés expatriés non couverts par le régime d'assurance
-prévu à l'article L. 351-3 qui, lors de leur retour en France, justifient d'une
-durée de travail de 182 jours au cours des douze mois précédant la fin de leur
-contrat de travail ;
+La pension alimentaire ou la prestation compensatoire fixée par une décision de
+justice devenue exécutoire est déduite des ressources de celui qui la verse.
 
-4° Les salariés victimes d'accidents du travail ou de maladies professionnelles
-dont le contrat de travail est, en application de l'article L. 122-32-1,
-suspendu après déclaration de consolidation par la caisse d'assurance maladie et
-qui sont en attente d'un stage de réadaptation, de rééducation ou de formation
-professionnelle.
+Il n'est tenu compte ni des allocations d'assurance ou de solidarité ni des
+rémunérations de stage ou des revenus d'activité perçus pendant la période de
+référence lorsqu'il est justifié que leur perception est interrompue de manière
+certaine à la date de la demande et que le bénéficiaire de ces ressources ne
+peut prétendre à un revenu de substitution.
 
-L'inscription comme demandeur d'emploi doit intervenir dans les douze mois à
-compter du rapatriement, ou de la délivrance de la carte de réfugié ou de la
-demande d'asile, ou de la fin du contrat de travail ou de la déclaration de
-consolidation.
+Si le bénéficiaire peut prétendre à un revenu de substitution, un abattement de
+30 % est appliqué sur la moyenne des ressources auxquelles ce revenu se
+substitue.
