@@ -1,8 +1,9 @@
 Article R3511-6
 ----
-La décision de mettre des emplacements à la disposition des fumeurs est soumise
-à la consultation du comité d'hygiène et de sécurité et des conditions de
-travail ou, à défaut, des délégués du personnel, ainsi que du médecin du
-travail.
+Dans les lieux mentionnés à l'article R. 3511-1, une signalisation apparente
+rappelle le principe de l'interdiction de fumer. Un modèle de signalisation
+accompagné d'un message sanitaire de prévention est déterminé par arrêté du
+ministre chargé de la santé.
 
-Cette consultation est renouvelée au moins tous les deux ans.
+Le même arrêté fixe le modèle de l'avertissement sanitaire à apposer à l'entrée
+des espaces mentionnés à l'article R. 3511-2.
