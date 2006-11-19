@@ -9,6 +9,5 @@ placement à risques ou le dépositaire des actifs de ce fonds agissant pour le
 compte de la société de gestion s'assure que les sociétés dont les titres sont
 retenus pour le calcul de la proportion de 50 % mentionnée au II de l'article
 163 quinquies B du code général des impôts remplissent, à la date de clôture de
-leur dernier exercice précédant l'inventaire, les conditions posées aux premier
-et troisième alinéas du I de l'article 1er modifié de la loi n° 85-695 du 11
-juillet 1985.
+leur dernier exercice précédant l'inventaire, les conditions posées au II de
+l'article 163 quinquies B précité.
