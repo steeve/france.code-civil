@@ -1,8 +1,8 @@
 Article 74-0 N
 ----
-L'état prévu au b du 2 de l'article 74-0 K et au 2 de l'article 74-0 M, établi
-sur une formule délivrée par l'administration, fait apparaître, pour chaque
-plus-value dont le report n'est pas expiré :
+L'état prévu au 2 de l'article 74-0 M, établi sur une formule délivrée par
+l'administration, fait apparaître, pour chaque plus-value dont le report n'est
+pas expiré :
 
 a) La nature et la date de l'opération ainsi que le régime d'imposition
 applicable ;
