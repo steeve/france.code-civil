@@ -1,10 +1,11 @@
 Article R422-86
 ----
-Tout acte de chasse est interdit dans une réserve de chasse et de faune sauvage.
-
-Toutefois, l'arrêté d'institution peut prévoir la possibilité d'exécuter un plan
-de chasse ou un plan de gestion, lorsque celui-ci est nécessaire au maintien des
+L'arrêté d'institution de la réserve prévoit l'exécution d'un plan de chasse ou
+d'un plan de gestion cynégétique lorsque celui-ci est nécessaire au maintien des
 équilibres biologiques et agro-sylvo-cynégétiques. Les conditions d'exécution de
-ce plan doivent être compatibles avec la préservation du gibier et de sa
-tranquillité. Cette exécution doit être autorisée par l'arrêté attributif de
-plan de chasse ou par l'arrêté approuvant le plan de gestion.
+ce plan doivent être compatibles avec la protection du gibier et la préservation
+de sa tranquillité. Son exécution doit être autorisée chaque année, selon les
+cas, par l'arrêté attributif du plan de chasse ou par l'arrêté approuvant le
+plan de gestion cynégétique.
+
+Tout autre acte de chasse est interdit.

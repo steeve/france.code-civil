@@ -1,29 +1,24 @@
 Article R422-84
 ----
-I. - La réserve peut également être instituée sans que le détenteur du droit de
-chasse en fasse la demande lorsqu'il apparaît nécessaire de conforter des
-actions importantes de protection et de gestion du gibier effectuées dans
-l'intérêt général.
+I.-Le préfet peut supprimer une réserve de chasse et de faune sauvage :
 
-II. - Dans ce cas, le préfet transmet par lettre recommandée avec demande d'avis
-de réception au détenteur du droit de chasse un dossier comprenant :
+1° A tout moment, pour un motif d'intérêt général ;
 
-1° Un plan de situation au 1/25 000 indiquant le territoire à mettre en réserve,
-avec les plans cadastraux et les états parcellaires correspondants ;
+2° Sur demande du détenteur du droit de chasse ou de la fédération
+départementale ou interdépartementale des chasseurs présentée dans les
+conditions fixées par arrêté du ministre chargé de la chasse, à l'expiration :
 
-2° Une note précisant la durée de la mise en réserve et, le cas échéant, la
-nature des mesures prises pour prévenir les dommages aux activités humaines,
-favoriser la protection du gibier et de ses habitats et maintenir les équilibres
-biologiques ;
+a) De périodes quinquennales courant à compter de la date d'institution de la
+réserve ou, pour les réserves créées avant le 28 juillet 2000, à compter de la
+date d'expiration de la période de six ans en cours à la date du 28 juillet 2000
+;
 
-3° Une note présentant les actions importantes de protection et de gestion du
-gibier effectuées dans l'intérêt général qui rendent nécessaire l'institution de
-la réserve ;
+b) Des baux de chasse consentis sur le domaine public fluvial, sur le domaine
+public maritime et sur les terrains mentionnés à l'article L. 121-2 du code
+forestier pour les réserves assises sur ces domaines ou ces terrains ;
 
-4° Une proposition d'indemnisation lorsque la mise en réserve entraîne un
-préjudice grave, spécial et certain.
+c) Des baux de chasse consentis dans le Bas-Rhin, dans le Haut-Rhin et en
+Moselle en application des articles L. 429-7 à L. 429-18.
 
-III. - Le préfet invite par le même courrier l'intéressé à lui faire connaître
-son accord ou ses observations par lettre recommandée avec demande d'avis de
-réception dans un délai d'un mois. Faute de réponse dans ce délai, l'accord de
-l'intéressé est réputé acquis. Le préfet statue par arrêté motivé.
+II.-La décision de refus opposée par le préfet à la demande prévue au 2°
+ci-dessus doit être motivée.
