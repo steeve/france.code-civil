@@ -9,7 +9,10 @@ a) Le montant global, compte non tenu des frais, de l'ensemble des cessions
 réalisées au cours de l'année d'imposition ;
 
 b) Le montant du gain net imposable assorti des éléments nécessaires à sa
-détermination.
+détermination ;
+
+c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité
+ainsi que les éléments nécessaires à sa détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en
 fournissant, pour les titres en dépôt ou inscrits en compte auprès d'un
