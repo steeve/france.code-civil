@@ -4,6 +4,9 @@ I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit
 porter une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en
 est équipé en application des dispositions du livre III.
 
+Chaque siège équipé d'une ceinture de sécurité ne peut être occupé que par une
+seule personne.
+
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
 1° Pour toute personne dont la morphologie est manifestement inadaptée au port
