@@ -87,3 +87,7 @@ d'une juridiction étrangère en application du règlement (CE) n° 1206/2001 du
 Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats
 membres dans le domaine de l'obtention des preuves en matière civile et
 commerciale.
+
+25° Des frais de la notification prévue à l'article 30-3 de l'annexe du nouveau
+code de procédure civile relative à son application dans les départements du
+Bas-Rhin, du Haut-Rhin et de la Moselle.
