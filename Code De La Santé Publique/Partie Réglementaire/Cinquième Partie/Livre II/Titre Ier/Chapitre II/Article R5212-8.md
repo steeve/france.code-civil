@@ -14,8 +14,7 @@ c) Le président de l'Etablissement français du sang ou son représentant ;
 d) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;
 
-e) Le directeur général de l'Etablissement français des greffes ou son
-représentant ;
+e) Le directeur général de l'Agence de la biomédecine ou son représentant ;
 
 2° Quinze membres nommés par le ministre chargé de la santé pour une durée de
 trois ans renouvelable :

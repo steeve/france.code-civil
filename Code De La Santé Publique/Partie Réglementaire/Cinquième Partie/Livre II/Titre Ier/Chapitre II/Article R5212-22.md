@@ -16,13 +16,14 @@ d'eux au titre du signalement facultatif mentionné à l'article R. 5212-15 ;
 c) D'informer les fabricants concernés des incidents ou risques d'incident
 mentionnés ci-dessus ;
 
-d) D'informer l'Etablissement français des greffes de tout signalement
-d'incident ou risque d'incident provoqué par des dispositifs médicaux utilisés
-dans la collecte, la préparation, la conservation d'éléments et produits du
-corps humain ;
+d) D'informer l'Agence de la biomédecine de tout signalement d'incident ou
+risque d'incident provoqué par des dispositifs médicaux utilisés dans la
+collecte, la préparation, la conservation d'éléments et produits du corps humain
+;
 
 e) De conduire les enquêtes et travaux relatifs à la sécurité d'utilisation des
-dispositifs médicaux demandés par le directeur général de l'agence ;
+dispositifs médicaux demandés par le directeur général de l'Agence française de
+sécurité sanitaire des produits de santé ;
 
 2° Au sein des établissements ou associations mentionnés à l'article R. 5212-12
 :

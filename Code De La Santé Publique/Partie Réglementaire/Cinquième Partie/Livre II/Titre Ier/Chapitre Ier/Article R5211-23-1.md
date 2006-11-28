@@ -14,13 +14,11 @@ sont destinés à être éliminés au cours des étapes de fabrication du dispos
 médical ou à y être incorporés définitivement.
 
 Les tissus ou produits dérivés classés comme présentant un risque élevé
-d'infection aux encéphalopathies spongiformes transmissibles dites "EST", en
-vertu des dispositions du règlement (CE) n° 999/2001 du Parlement européen et du
-Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et
-l'éradication de certaines encéphalopathies spongiformes transmissibles et du
-règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre
-2002 établissant des règles sanitaires applicables aux sous-produits animaux non
-destinés à la consommation humaine, ne peuvent être utilisés dans la fabrication
-de dispositifs médicaux, sauf si leur utilisation est rendue nécessaire, dans
-des circonstances exceptionnelles, en l'absence de tout tissu de remplacement,
-par l'importance du bénéfice attendu pour le patient.
+d'infection aux encéphalopathies spongiformes transmissibles dites " EST " ne
+peuvent être utilisés dans la fabrication de dispositifs médicaux, sauf si leur
+utilisation est rendue nécessaire, dans des circonstances exceptionnelles, en
+l'absence de tout tissu de remplacement, par l'importance du bénéfice attendu
+pour le patient. La classification de l'infectiosité des tissus ou produits
+dérivés au regard du risque de transmission des encéphalopathies spongiformes
+transmissibles est établie par l'arrêté du ministre chargé de la santé mentionné
+au deuxième alinéa de l'article R. 5211-23-2.

@@ -21,8 +21,8 @@ dispositifs médicaux de diagnostic in vitro ;
 b) Un expert de l'Etablissement français du sang sur proposition de son
 président ;
 
-c) Un expert de l'Etablissement français des greffes sur proposition de son
-directeur général ;
+c) Un expert de l'Agence de la biomédecine sur proposition de son directeur
+général ;
 
 d) Une personnalité scientifique proposée par le ministre chargé de l'industrie
 ;
