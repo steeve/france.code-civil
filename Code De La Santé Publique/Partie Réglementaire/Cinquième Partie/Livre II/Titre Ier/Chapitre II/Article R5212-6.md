@@ -8,9 +8,9 @@ l'article L. 5212-2 :
 médicaux utilisés dans la collecte, la fabrication et l'administration de
 produits dérivés du sang ;
 
-- l'Etablissement français des greffes, pour ce qui concerne les dispositifs
-médicaux utilisés dans la collecte, le traitement, la conservation et
-l'utilisation d'organes, tissus et cellules d'origine humaine.
+- l'Agence de la biomédecine, pour ce qui concerne les dispositifs médicaux
+utilisés dans la collecte, le traitement, la conservation et l'utilisation
+d'organes, tissus et cellules d'origine humaine.
 
 Le directeur général de l'agence informe de façon régulière les organismes
 susmentionnés des autres incidents ou dysfonctionnements en relation avec leurs

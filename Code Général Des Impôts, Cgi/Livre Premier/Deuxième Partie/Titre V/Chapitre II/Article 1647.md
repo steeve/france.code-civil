@@ -28,11 +28,7 @@ a. 2,50 p. 100 en sus du montant de la taxe de publicité foncière ou des droit
 d'enregistrement perçus au profit des départements en application de l'article
 1594 A.
 
-b. 2,50 p. 100 en sus du montant de la taxe différentielle sur les véhicules à
-moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p.
-100 à compter de la période d'imposition s'ouvrant le 1er décembre 1993. Ce
-prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
-deuxième alinéa de l'article 1599 nonies.
+b. (abrogé)
 
 c. 2 % sur les montants de la taxe d'apprentissage versés au Fonds national de
 développement et de modernisation de l'apprentissage en application du 1 de
@@ -58,4 +54,4 @@ L. 524-2 du code du patrimoine.
 
 XI. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 de 1 % sur le montant de la taxe mentionnée au I de l'article 1605. Toutefois,
-pour 2005, ce taux est fixé à 2 % (1).
+pour 2005, ce taux est fixé à 2 %.
