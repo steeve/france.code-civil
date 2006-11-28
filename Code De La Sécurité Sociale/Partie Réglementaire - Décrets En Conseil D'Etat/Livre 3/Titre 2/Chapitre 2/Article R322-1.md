@@ -29,7 +29,9 @@ majeur ou important ;
 
 7° De 60 à 70 % pour les spécialités homéopathiques, dès lors qu'elles sont
 inscrites sur la liste établie en application du premier alinéa de l'article L.
-162-17 ;
+162-17 et pour les préparations homéopathiques répondant aux conditions définies
+au 11° de l'article L. 5121-1 du code de la santé publique prises en charge par
+l'assurance maladie ;
 
 8° de 30 à 40 % pour les frais de produits et prestations figurant sur la liste
 mentionnée à l'article L. 165-1 ;
