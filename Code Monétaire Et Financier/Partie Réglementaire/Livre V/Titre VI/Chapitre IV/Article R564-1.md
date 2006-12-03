@@ -17,4 +17,7 @@ L. 565-3 est exercé en liaison avec l'inspection générale des postes et
 télécommunications.
 
 Les changeurs manuels résidant dans les départements d'outre-mer adressent leur
-déclaration d'activité à l'Institut d'émission des départements d'outre-mer.
+déclaration d'activité à l'Institut d'émission des départements d'outre-mer ;
+ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission
+d'outre-mer.
