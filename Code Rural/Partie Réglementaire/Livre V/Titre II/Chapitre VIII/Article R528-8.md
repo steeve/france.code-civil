@@ -1,6 +1,5 @@
 Article R528-8
 ----
-La commission départementale d'orientation de l'agriculture est compétente pour
-délibérer en matière d'agrément des sociétés coopératives agricoles lorsque cet
-agrément est de la compétence du commissaire de la République du département,
-conformément à l'article R. 525-2.
+Le comité directeur se réunit aussi souvent que nécessaire et au moins quatre
+fois par an, sur convocation de son président ou à la demande d'un des
+commissaires du gouvernement.
