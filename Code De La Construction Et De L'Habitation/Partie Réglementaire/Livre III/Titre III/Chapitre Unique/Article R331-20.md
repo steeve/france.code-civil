@@ -10,6 +10,5 @@ la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001). Dans ce cas, 
 montant de la subvention consentie à l'aide des sommes mentionnées à l'article
 L. 313-1 est pris en compte dans le calcul de cette quotité.
 
-III. - Ce prêt constitue le seul concours de l'établissement prêteur au plan de
-financement de l'opération. L'établissement prêteur apprécie les sûretés
-nécessaires à la garantie de ses créances.
+III. - L'établissement prêteur apprécie les sûretés nécessaires à la garantie de
+ses créances.
