@@ -23,12 +23,13 @@ l'ensemble des organismes dont les émissions, prêts ou garanties de prêt sont
 admis au-delà du ratio de 5 % n'excède pas 40 % de la base de dispersion définie
 à l'article R. 332-3.
 
-2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société
-immobilière ou foncière ;
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 9° bis à 9°
+quater et 9° sexies de l'article R. 332-2 ;
 
-3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis et 7° ter de l'article R.
-332-2 et les prêts mentionnés au troisième alinéa du 1 de l'article R. 332-13,
-respectivement émises ou obtenus par une même société ou un même organisme.
+3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis, 7° ter et 9° quinquies
+de l'article R. 332-2 et les prêts mentionnés au troisième alinéa du 1 de
+l'article R. 332-13, respectivement émises ou obtenus par une même société ou un
+même organisme.
 
 Une entreprise ne peut affecter à la représentation de ses engagements
 réglementés plus de 50 % des actions émises par une même société mentionnée au
