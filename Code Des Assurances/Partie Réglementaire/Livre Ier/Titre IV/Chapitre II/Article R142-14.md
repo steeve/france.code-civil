@@ -1,7 +1,7 @@
 Article R142-14
 ----
 Les engagements réglementés mentionnés à l'article R. 331-1 au titre de chaque
-contrat sont représentés par les actifs mentionnés aux l° à 5° de l'article R.
+contrat sont représentés par les actifs mentionnés aux 1° à 7° de l'article R.
 131-1.
 
 La valeur au bilan d'affectation visé à l'article R. 342-1 des actifs ci-après
@@ -23,8 +23,8 @@ législatives, réglementaires et administratives concernant certains organismes
 de placement collectif en valeurs mobilières.
 
 De plus, la valeur au bilan d'affectation mentionnée à l'article R. 342-1 des
-parts ou actions mentionnées au 5° de l'article R. 131-1 ou au 9° bis de
-l'article R. 332-2 ne peut excéder 30 % au total.
+parts ou actions mentionnées au 5°, au 6° ou au 7° de l'article R. 131-1 ou au
+9° bis de l'article R. 332-2 ne peut excéder 30 % au total.
 
 L'article R. 342-2 s'applique sous réserve des dispositions du présent article.
 Par dérogation à cet article R. 342-2, l'article R. 332-3 ne s'applique pas à la

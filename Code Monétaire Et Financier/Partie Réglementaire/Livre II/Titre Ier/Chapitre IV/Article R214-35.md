@@ -1,6 +1,6 @@
 Article R214-35
 ----
-I. - Le deuxième alinéa du II de l'article R. 214-12 (1) et le I de l'article R.
+I. - Le deuxième alinéa du II de l'article R. 214-12 et le I de l'article R.
 214-16 ne sont pas applicables aux organismes de placement collectif en valeurs
 mobilières mentionnés à l'article R. 214-32.
 

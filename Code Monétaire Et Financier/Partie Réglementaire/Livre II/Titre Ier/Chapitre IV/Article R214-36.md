@@ -18,16 +18,22 @@ bénéficiant d'une procédure allégée relevant de l'article L. 214-35 dans sa
 rédaction antérieure au 2 août 2003 ;
 
 5° En parts de fonds communs d'intervention sur les marchés à terme mentionnés à
-l'article L. 214-42.
+l'article L. 214-42 ;
+
+6° En parts ou actions d'organismes de placement collectif en valeurs mobilières
+nourriciers mentionnés à l'article L. 214-34 ou, dans des conditions définies
+dans le règlement général de l'Autorité des marchés financiers, en parts ou
+actions de fonds nourriciers de droit étranger dont le fonds maître répond aux
+conditions fixées au 5° de l'article R. 214-5.
 
 Un organisme de placement collectif en valeurs mobilières de fonds alternatifs
 peut employer jusqu'à 100 % de son actif dans les parts ou actions mentionnées
-aux 1° à 5° .
+aux 1° à 6° .
 
 II. - Pour l'application des ratios définis à la sous-section 1, les parts ou
 actions émises par les fonds ou organismes de placement collectif en valeurs
-mobilières mentionnés aux 1° à 5° du I sont assimilées à des instruments
-mentionnés au a du 2° de l'article R. 214-1.
+mobilières mentionnés aux 1° à 6° du I sont assimilées à des instruments
+mentionnés au a du 2° de l'article R. 214-1-1.
 
 III. - Les dispositions des sous-paragraphes 1 et 2 ne sont pas applicables aux
 organismes de placement collectif en valeurs mobilières de fonds alternatifs.

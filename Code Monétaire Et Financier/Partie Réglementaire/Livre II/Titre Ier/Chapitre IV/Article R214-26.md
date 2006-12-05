@@ -5,8 +5,8 @@ placement collectif en valeurs mobilières ne bénéficiant pas d'une procédure
 reconnaissance mutuelle des agréments au sens de la directive 85/611/CEE du
 Conseil du 20 décembre 1985 susmentionnée et dont l'actif comprend plus de 10 %
 d'actions ou parts d'organismes de placement collectif en valeurs mobilières
-relevant du c du 2° de l'article R. 214-1 ou du 6° de l'article R. 214-5, ou de
-fonds d'investissement relevant du 5° de l'article R. 214-5.
+relevant du c du 2° de l'article R. 214-1-1 ou du 6° de l'article R. 214-5, ou
+de fonds d'investissement relevant du 5° de l'article R. 214-5.
 
 II. - Un organisme de placement collectif en valeurs mobilières régi par le
 présent paragraphe peut employer jusqu'à la totalité de son actif en :

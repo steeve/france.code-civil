@@ -1,13 +1,17 @@
 Article L214-9
 ----
-Chaque propriétaire est tenu de faire identifier les équidés qu'il détient par
-toute personne habilitée à cet effet par le ministre chargé de l'agriculture,
-selon tout procédé agréé par le ministre chargé de l'agriculture.
+Dans les conditions fixées par arrêté du ministre de l'agriculture, tout
+propriétaire ou détenteur d'animaux non mentionnés à l'article L. 234-1 et
+destinés à la production de laine, de peau, de fourrure ou à d'autres fins
+agricoles doit tenir un registre d'élevage, conservé sur place et régulièrement
+mis à jour, sur lequel il recense chronologiquement les données sanitaires,
+zootechniques et médicales relatives aux animaux.
 
-L'établissement public "les Haras nationaux" assure la tenue du fichier national
-des équidés et délivre aux propriétaires les documents d'identification
-obligatoires. Tout changement de propriété doit être déclaré à cet établissement
-par le nouveau propriétaire.
+Le registre est tenu à disposition des agents mentionnés aux articles L. 221-5,
+L. 221-6, L. 214-19 ou L. 214-20.
 
-Les détenteurs d'équidés sont tenus de se déclarer auprès de l'établissement
-public "les Haras nationaux" dans des conditions définies par décret.
+Tout vétérinaire mentionne sur ce registre les éléments relatifs à ses
+interventions dans l'élevage.
+
+La durée minimale pendant laquelle le registre est conservé est fixée par arrêté
+du ministre de l'agriculture.

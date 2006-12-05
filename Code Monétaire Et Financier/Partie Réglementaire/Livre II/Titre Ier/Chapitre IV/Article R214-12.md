@@ -3,7 +3,8 @@ Article R214-12
 I. - Pour la réalisation de son objectif de gestion, un organisme de placement
 collectif en valeurs mobilières peut recevoir ou octroyer les garanties
 mentionnées à l'article L. 431-7-3, dans les conditions définies à ce même
-article.
+article ainsi que recevoir des cautions solidaires ou garanties à première
+demande.
 
 L'organisme de placement collectif en valeurs mobilières ne peut recevoir des
 garanties que si elles lui sont octroyées par un établissement ayant la qualité
@@ -24,7 +25,7 @@ valeurs mobilières sont des sûretés, l'acte constitutif de ces sûretés déf
 1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser
 ou aliéner. A défaut de cette indication, le bénéficiaire ne peut utiliser ou
 aliéner que des dépôts, des liquidités ou des instruments financiers mentionnés
-au a, b, c ou d du 2° de l'article R. 214-1 ;
+au a, b, c ou d du 2° de l'article R. 214-1-1 ;
 
 2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut
 utiliser ou aliéner. Ce montant maximal ne peut excéder 100 % de la créance du
@@ -37,9 +38,9 @@ organisme de placement collectif en valeurs mobilières sont définies dans l'ac
 constitutif des garanties ou dans un contrat annexe conclu entre les parties. A
 défaut d'avoir prévu ces modalités d'évaluation, la réalisation des garanties ne
 peut concerner que des dépôts, des liquidités ou des instruments financiers
-mentionnés au a, b, c ou d du 2° de l'article R. 214-1. Le règlement général de
-l'Autorité des marchés financiers précise les modalités d'évaluation des biens
-ou droits remis en garantie par l'organisme.
+mentionnés au a, b, c ou d du 2° de l'article R. 214-1-1. Le règlement général
+de l'Autorité des marchés financiers précise les modalités d'évaluation des
+biens ou droits remis en garantie par l'organisme.
 
 II. - Le risque de contrepartie sur un même cocontractant est le risque que
 celui-ci manque à une de ses obligations et amène de ce fait l'organisme de
@@ -52,8 +53,8 @@ L'exposition de l'organisme au risque de contrepartie sur un même cocontractant
 résultant des contrats mentionnés aux articles R. 214-13 à R. 214-17 est limitée
 à 10 % de son actif.
 
-Lorsque les garanties sont effectuées sous la forme de dépôts, les 2°, 3°, 4° et
-5° de l'article R. 214-3 ne s'appliquent pas dans la limite des besoins de
+Lorsque les garanties sont effectuées sous la forme de dépôts, les 2°, 3° et 4°
+de l'article R. 214-3 ne s'appliquent pas dans la limite des besoins de
 couverture du risque de contrepartie.
 
 III. - L'engagement d'un organisme de placement collectif en valeurs mobilières

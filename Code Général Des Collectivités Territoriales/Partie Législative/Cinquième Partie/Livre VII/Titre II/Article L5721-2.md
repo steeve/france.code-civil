@@ -3,7 +3,8 @@ Article L5721-2
 Un syndicat mixte peut être constitué par accord entre des institutions
 d'utilité commune interrégionales, des régions, des ententes ou des institutions
 interdépartementales, des départements, des établissements publics de
-coopération intercommunale, des communes, des chambres de commerce et
+coopération intercommunale, des communes, des syndicats mixtes définis à
+l'article L. 5711-1 ou à l'article L. 5711-4, des chambres de commerce et
 d'industrie, d'agriculture, de métiers et d'autres établissements publics, en
 vue d'oeuvres ou de services présentant une utilité pour chacune de ces
 personnes morales.

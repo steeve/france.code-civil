@@ -1,7 +1,7 @@
 Article R214-2
 ----
 I. - Les instruments financiers mentionnés aux a, b et d du 2° de l'article R.
-214-1 éligibles à l'actif d'un organisme de placement collectif en valeurs
+214-1-1 éligibles à l'actif d'un organisme de placement collectif en valeurs
 mobilières sont :
 
 1° Soit admis à la négociation sur un marché réglementé au sens de l'article L.

@@ -1,16 +1,16 @@
-Article R214-14
+Article R214-193
 ----
-Un organisme de placement collectif en valeurs mobilières peut conclure des
-contrats constituant des instruments financiers à terme répondant aux
-caractéristiques des dérivés de crédit définis par les conventions mentionnées à
-l'article L. 431-7, dans les conditions fixées aux articles R. 214-12 et R.
-214-13 et à chacune des conditions suivantes :
+Un organisme de placement collectif immobilier peut conclure des contrats
+constituant des instruments financiers à terme mentionnés à l'article L. 214-94
+répondant aux caractéristiques des dérivés de crédit définis par les conventions
+mentionnées à l'article L. 431-7, dans les conditions fixées aux articles R.
+214-190 et R. 214-192 et à chacune des conditions suivantes :
 
 1° La société de gestion assurant directement ou par délégation la gestion de
-l'organisme de placement collectif en valeurs mobilières qui conclurait au moins
-un tel contrat doit au préalable faire approuver par l'Autorité des marchés
-financiers un programme d'activités spécifique. Celui-ci doit notamment prévoir
-des systèmes de gestion et une organisation permettant :
+l'organisme de placement collectif immobilier qui conclurait au moins un tel
+contrat doit au préalable faire approuver par l'Autorité des marchés financiers
+un programme d'activités spécifique. Celui-ci doit notamment prévoir des
+systèmes de gestion et une organisation permettant :
 
 a) Une évaluation quotidienne par la société de gestion des contrats précités.
 Cette évaluation fait l'objet d'une comparaison au moins mensuelle avec une
@@ -48,4 +48,4 @@ e) Plusieurs entités relevant des catégories a à d ci-dessus ;
 
 3° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à
 la livraison ou au transfert d'actifs éligibles à l'actif d'un organisme de
-placement collectif en valeurs mobilières.
+placement collectif immobilier.
