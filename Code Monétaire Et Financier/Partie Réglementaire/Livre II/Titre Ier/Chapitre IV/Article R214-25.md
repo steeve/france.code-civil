@@ -7,7 +7,7 @@ Conseil du 20 décembre 1985 portant coordination des dispositions législatives
 réglementaires et administratives concernant certains organismes de placement
 collectif en valeurs mobilières et dont l'actif comprend plus de 10 % d'actions
 ou parts d'organismes de placement collectif en valeurs mobilières relevant du c
-du 2° de l'article R. 214-1 ou du 6° de l'article R. 214-5, ou de fonds
+du 2° de l'article R. 214-1-1 ou du 6° de l'article R. 214-5, ou de fonds
 d'investissement relevant du 5° de l'article R. 214-5.
 
 II. - Un organisme de placement collectif en valeurs mobilières régi par le

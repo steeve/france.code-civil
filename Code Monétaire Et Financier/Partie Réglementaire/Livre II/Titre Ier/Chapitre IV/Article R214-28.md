@@ -30,7 +30,7 @@ III. - Par dérogation à la limite de 10 % fixée à l'article R. 214-6, un
 organisme de placement collectif en valeurs mobilières indiciel ou un organisme
 de placement collectif en valeurs mobilières à gestion indicielle étendue peut
 employer jusqu'à 20 % de son actif en instruments mentionnés aux a, b et d du 2°
-de l'article R. 214-1 d'un même émetteur.
+de l'article R. 214-1-1 d'un même émetteur.
 
 Par dérogation à l'alinéa précédent, la limite de 20 % peut être portée à 35 %
 pour une seule entité.

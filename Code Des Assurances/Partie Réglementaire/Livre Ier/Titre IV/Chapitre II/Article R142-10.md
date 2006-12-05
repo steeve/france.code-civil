@@ -16,7 +16,7 @@ de compte mentionnées à l'article R. 131-1.
 L'adhérent peut détenir des droits au titre, d'une part, d'engagements relevant
 de l'article R. 142-12 et au titre, d'autre part d'engagements mentionnés à
 l'article R. 142-2 et ne relevant pas de l'article R. 142-12 : le compte
-individuel procède alors à des inscriptions séparées pour chacune des deux
+individuel procède alors à des inscriptions séparées pour chacune des
 comptabilités auxiliaires d'affectation correspondantes.
 
 Le montant des droits individuels de chaque adhérent est la somme des provisions
