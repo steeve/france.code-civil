@@ -1,6 +1,6 @@
 Article L115-30
 ----
-Est puni des peines [*sanctions*] prévues à l'article L. 213-1 :
+Est puni des peines prévues à l'article L. 213-1 :
 
 1° Le fait, dans la publicité, l'étiquetage ou la présentation de tout produit
 ou service, ainsi que dans les documents commerciaux de toute nature qui s'y

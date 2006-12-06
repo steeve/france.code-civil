@@ -10,5 +10,5 @@ sont délivrées par le préfet du département du siège de l'exploitation, apr
 avis de l'Office national interprofessionnel des fruits, des légumes, des vins
 et de l'horticulture.
 
-L'avis de l'Institut national des appellations d'origine est requis pour toute
-plantation à l'intérieur d'une aire délimitée d'appellation d'origine.
+L'avis de l'Institut national de l'origine et de la qualité est requis pour
+toute plantation à l'intérieur d'une aire délimitée d'appellation d'origine.

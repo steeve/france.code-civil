@@ -1,18 +1,10 @@
 Article L641-9
 ----
-Il est établi au profit de l'Institut national des appellations d'origine un
-droit acquitté par les producteurs des produits à appellation d'origine
-contrôlée autres que les vins. Ce droit est fixé par appellation, par arrêté
-conjoint du ministre de l'agriculture et du ministre chargé du budget, après
-avis des comités nationaux compétents de l'Institut national des appellations
-d'origine. Il est perçu sur les quantités, exprimées en unités de masse ou de
-volume, des produits destinés à la commercialisation en appellation d'origine
-contrôlée, dans la limite de :
+Les appellations d'origine définies par voie législative ou réglementaire avant
+le 1er juillet 1990 sont considérées comme répondant aux conditions de l'article
+L. 641-5. Toute modification ultérieure des textes définissant ces appellations
+doit intervenir conformément à la procédure prévue par les articles L. 641-6 et
+L. 641-7.
 
-0,08 euro par hectolitre ou 0,8 euro par hectolitre d'alcool pur pour les
-boissons alcoolisées autres que les vins ;
-
-0,008 euro par kilogramme pour les produits agroalimentaires ou forestiers
-autres que les vins et les boissons alcoolisées.
-
-Il est exigible annuellement.
+Les appellations d'origine en vigueur au 1er juillet 1990 dans les départements
+d'outre-mer conservent leur statut.

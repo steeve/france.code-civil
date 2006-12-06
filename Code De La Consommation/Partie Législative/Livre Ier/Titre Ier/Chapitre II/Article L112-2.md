@@ -7,6 +7,6 @@ toute présentation des produits agricoles et des denrées alimentaires
 bénéficiant d'une appellation d'origine contrôlée, à l'exception des vins, des
 boissons spiritueuses et des produits intermédiaires.
 
-Un décret en Conseil d'Etat fixe, après consultation de l'Institut national des
-appellations d'origine, le modèle du logo officiel et ses modalités
+Un décret en Conseil d'Etat fixe, après consultation de l'Institut national de
+l'origine et de la qualité, le modèle du logo officiel et ses modalités
 d'utilisation.

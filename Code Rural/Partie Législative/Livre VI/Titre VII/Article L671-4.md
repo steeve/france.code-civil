@@ -1,7 +1,7 @@
 Article L671-4
 ----
-Les infractions aux dispositions des articles L. 641-18 à L. 641-20 sont punies
-d'un emprisonnement d'un an et d'une amende de 30 000 F.
+Les infractions aux dispositions des articles L. 644-6 à L. 644-8 sont punies
+d'un emprisonnement d'un an et d'une amende de 4500 euros.
 
 Les tribunaux peuvent aussi ordonner la publication du jugement de condamnation
 intégralement ou par extrait dans tels journaux qu'ils désignent ainsi que son

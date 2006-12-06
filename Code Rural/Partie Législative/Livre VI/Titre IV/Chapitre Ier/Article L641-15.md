@@ -1,6 +1,11 @@
 Article L641-15
 ----
-Les conditions de production visées à l'article L. 641-2 sont relatives
-notamment à l'aire de production, aux cépages, aux rendements, au titre
-alcoométrique volumique naturel minimum du vin, aux procédés de culture et de
-vinification ou de distillation et, le cas échéant, au conditionnement.
+Sont dispensés de l'autorisation prévue au premier alinéa de l'article L. 641-14
+les produits bénéficiant d'une appellation d'origine, d'une indication
+géographique protégée ou d'une spécialité traditionnelle garantie lorsque la
+mention "montagne" figure dans la dénomination enregistrée.
+
+En sont également dispensées les marchandises, légalement produites ou
+commercialisées dans l'un des Etats membres de la Communauté européenne ou dans
+l'un des pays signataires de l'accord sur l'Espace économique européen, qui
+emploient dans leur étiquetage ou leur présentation la dénomination "montagne".

@@ -7,5 +7,5 @@ du potentiel de production viticole dans le cadre de la réserve. Sa composition
 et ses modalités de fonctionnement sont fixées, après avis du conseil de
 direction de l'Office national interprofessionnel des fruits, des légumes, des
 vins et de l'horticulture et du Comité national des vins et eaux de vie de
-l'Institut national des appellations d'origine (INAO) par arrêté du ministre
+l'Institut national de l'origine et de la qualité (INAO) par arrêté du ministre
 chargé de l'agriculture.

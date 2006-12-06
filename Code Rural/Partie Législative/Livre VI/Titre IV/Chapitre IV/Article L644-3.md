@@ -1,15 +1,6 @@
 Article L644-3
 ----
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles est délivrée
-cette autorisation et précise, en tant que de besoin, les clauses que doivent
-contenir les cahiers des charges, notamment concernant les techniques de
-fabrication, le lieu de fabrication et la provenance des matières premières
-permettant l'utilisation du terme "montagne".
-
-La provenance des matières premières ne peut être limitée aux seules zones de
-montagne françaises.
-
-La dénomination "montagne" est accessible aux produits agricoles et
-agro-alimentaires produits et élaborés dans les zones de montagne telles que
-définies par le 3 de l'article 3 de la directive 75/268 du Conseil du 28 avril
-1975.
+Les conditions de production au sens des articles L. 641-5 à L. 641-7
+s'entendent notamment de l'aire de production, des cépages, des rendements, du
+titre alcoométrique volumique naturel minimum du vin, des procédés de culture et
+de vinification ou de distillation et, le cas échéant, du conditionnement.

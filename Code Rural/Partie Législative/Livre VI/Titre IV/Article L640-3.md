@@ -1,7 +1,5 @@
 Article L640-3
 ----
-Un décret définit les modes de production raisonnés en agriculture et précise
-les modalités de qualification des exploitations et de contrôle applicables,
-ainsi que les conditions d'agrément des organismes chargés de la mise en oeuvre.
-Il détermine également les conditions d'utilisation du qualificatif
-d'"agriculture raisonnée" ou de toute autre dénomination équivalente.
+Les modalités d'application des chapitres Ier et II du présent titre sont, en
+tant que de besoin et sauf dispositions contraires, fixées par décret en Conseil
+d'Etat.

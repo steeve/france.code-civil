@@ -1,21 +1,35 @@
 Article L115-22
 ----
-L'objet des labels agricoles est défini à l'article L. 643-2 du code rural,
-ci-après reproduit :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
 
-"Art. L. 643-2. - Les labels agricoles attestent qu'une denrée alimentaire ou
-qu'un produit agricole non alimentaire et non transformé possède un ensemble
-distinct de qualités et caractéristiques spécifiques préalablement fixées dans
-un cahier des charges et établissant un niveau de qualité supérieure.
+1° De délivrer une appellation d'origine protégée, une indication géographique
+protégée ou une spécialité traditionnelle garantie sans satisfaire aux
+conditions prévues à l'article L. 642-3 du code rural ;
 
-"L'origine géographique ne peut figurer parmi les caractéristiques spécifiques
-que si elle est enregistrée comme indication géographique protégée, sous réserve
-des dispositions du deuxième alinéa de l'article L. 643-4.
+2° De délivrer une appellation d'origine protégée, une indication géographique
+protégée ou une spécialité traditionnelle garantie qui n'a pas fait l'objet de
+l'homologation prévue respectivement aux articles L. 641-10, L. 641-11 et L.
+641-12 du code rural ;
 
-"Ce produit doit se distinguer des produits similaires de l'espèce
-habituellement commercialisés, notamment par ses conditions particulières de
-production ou de fabrication et, le cas échéant, par son origine géographique.
+3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine
+protégée, une indication géographique protégée ou une spécialité traditionnelle
+garantie ;
 
-"Seuls des producteurs ou des transformateurs organisés en groupement, quelle
-qu'en soit la forme juridique, sont habilités à demander la délivrance d'un
-label".
+4° D'apposer ou de faire apparaître, par addition, retranchement ou par une
+altération quelconque, sur des produits, naturels ou fabriqués, mis en vente ou
+destinés à être mis en vente, une appellation d'origine protégée, une indication
+géographique protégée ou une spécialité traditionnelle garantie en les sachant
+inexactes ;
+
+5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire
+qu'un produit bénéficie d'une appellation d'origine protégée, une indication
+géographique protégée ou une spécialité traditionnelle garantie ;
+
+6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une
+spécialité traditionnelle garantie, d'une appellation d'origine protégée ou
+d'une indication géographique protégée est garanti par l'Etat ou par un
+organisme public.
+
+Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux
+qu'il désignera et son insertion intégrale ou par extraits dans les journaux
+qu'il indiquera, le tout aux frais du condamné.

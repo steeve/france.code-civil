@@ -1,9 +1,10 @@
 Article L641-1
 ----
-Les appellations d'origine sont définies à l'article L. 115-1 du code de la
-consommation, ci-après reproduit :
+Peuvent bénéficier d'un label rouge les denrées alimentaires et les produits
+agricoles non alimentaires et non transformés.
 
-"Art. L. 115-1 : Constitue une appellation d'origine la dénomination d'un pays,
-d'une région ou d'une localité servant à désigner un produit qui en est
-originaire et dont la qualité ou les caractères sont dus au milieu géographique,
-comprenant des facteurs naturels et des facteurs humains".
+Le label rouge atteste que ces denrées et produits possèdent des
+caractéristiques spécifiques établissant un niveau de qualité supérieure,
+résultant notamment de leurs conditions particulières de production ou de
+fabrication et conformes à un cahier des charges, qui les distinguent des
+denrées et produits similaires habituellement commercialisés.

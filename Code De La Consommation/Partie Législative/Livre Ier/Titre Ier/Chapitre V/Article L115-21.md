@@ -1,10 +1,6 @@
 Article L115-21
 ----
-Les produits susceptibles de bénéficier d'un label agricole ou d'une
-certification de conformité sont définis à l'article L. 643-1 du code rural,
-ci-après reproduit :
-
-"Art. L. 643-1. - Les denrées alimentaires et les produits agricoles non
-alimentaires et non transformés peuvent bénéficier d'un label agricole ou faire
-l'objet d'une certification de conformité aux règles définies dans un cahier des
-charges".
+Les conditions dans lesquelles le bénéfice d'une appellation d'origine protégée,
+d'une indication géographique protégée ou d'une spécialité traditionnelle
+garantie peut être attribué sont prévues respectivement aux articles L. 641-10,
+L. 641-11 et L. 641-12 du code rural.
