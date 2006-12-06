@@ -16,7 +16,9 @@ L'opérateur de communications électroniques prend à sa charge les coûts de
 dépose, de réinstallation en souterrain et de remplacement des équipements de
 communications électroniques incluant les câbles, les fourreaux et les chambres
 de tirage, y compris les coûts d'études et d'ingénierie correspondants. Il prend
-à sa charge l'entretien de ses équipements.
+à sa charge l'entretien de ses équipements. Un arrêté des ministres chargés des
+communications électroniques et de l'énergie détermine la proportion des coûts
+de terrassement pris en charge par l'opérateur de communications électroniques.
 
 Une convention conclue entre la collectivité ou l'établissement public de
 coopération et l'opérateur de communications électroniques fixe la participation

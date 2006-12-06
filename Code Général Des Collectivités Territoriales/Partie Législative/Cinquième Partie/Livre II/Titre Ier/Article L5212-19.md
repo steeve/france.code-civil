@@ -14,6 +14,6 @@ particuliers, en échange d'un service rendu ;
 5° Les produits des dons et legs ;
 
 6° Le produit des taxes, redevances et contributions correspondant aux services
-assurés ;
+assurés ou aux investissements réalisés ;
 
 7° Le produit des emprunts.
