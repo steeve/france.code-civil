@@ -4,12 +4,9 @@ Sauf lorsqu'elles relèvent de la compétence de l'Agence européenne de la
 sécurité aérienne en vertu des dispositions du règlement (CE) n° 1592/2002 du
 Parlement européen et du Conseil du 15 juillet 2002, les vérifications
 nécessaires à la délivrance et au maintien en état de validité des certificats,
-des laissez-passer, des licences et des agréments prévus aux articles R. 133-1,
-R. 133-1-1 et R. 133-2 et de la licence de station d'aéronefs mentionnée à
-l'article R. 133-2-1 sont exercées au sol et en vol soit par des agents de
-l'Etat soit par l'intermédiaire d'organismes techniques ou de personnes
-extérieures à l'administration disposant de la qualification technique
-nécessaire et habilités à cet effet par le ministre chargé de l'aviation civile.
+des laissez-passer, des licences et des agréments prévus par la réglementation
+communautaire et le présent code sont effectuées par les agents, organismes ou
+personnes mentionnés à l'article L. 133-4.
 
 L'habilitation des organismes techniques ou des personnes extérieures peut
 porter sur la délivrance et le maintien en état de validité par ceux-ci des
