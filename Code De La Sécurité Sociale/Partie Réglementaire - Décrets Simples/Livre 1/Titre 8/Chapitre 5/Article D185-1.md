@@ -50,3 +50,35 @@ ayant adhéré à l'option de coordination ;
 
 - 35 % de cette part pour les médecins autorisés à pratiquer des honoraires
 différents n'ayant pas adhéré à l'option de coordination.
+
+Pour les spécialités mentionnées du 1° au 12° et au 16° de l'article D. 4135-2
+du code de la santé publique, l'aide annuelle est calculée par exception aux
+cinquième, dixième et onzième alinéas du présent article selon les modalités
+suivantes :
+
+1° Le seuil minimum d'appel de cotisation mentionné au cinquième alinéa du
+présent article est fixé à 0 euro.
+
+2° Les taux mentionnés aux dixième et onzième alinéas du présent article sont
+portés :
+
+- aux deux tiers pour les médecins non autorisés à pratiquer des honoraires
+différents ainsi que pour les médecins autorisés à pratiquer des honoraires
+différents ayant adhéré à l'option de coordination ;
+
+- à 55 % pour les médecins autorisés à pratiquer des honoraires différents
+n'ayant pas adhéré à l'option de coordination.
+
+Une partie, dont le niveau est fixé par arrêté du ministre chargé de la sécurité
+sociale, de l'aide prévue au présent article est versée par la caisse primaire
+d'assurance maladie à l'organisme auprès duquel le médecin s'est engagé dans la
+procédure d'accréditation.
+
+Les seuils maximum d'appel de cotisation mentionnés ci-dessus évoluent chaque
+année en fonction d'un indice des primes de responsabilité civile médicale de la
+spécialité ou du groupe de spécialités concernés, dans des conditions fixées par
+décret.
+
+Cet indice est fondé sur des informations transmises annuellement par les
+entreprises d'assurance couvrant en France les risques de responsabilité civile
+mentionnés à l'article L. 1142-2 du code de la santé publique.

@@ -28,8 +28,9 @@ laquelle le médecin exerce, le cas échéant, son activité libérale.
 La Haute Autorité de santé informe la Caisse nationale d'assurance maladie des
 travailleurs salariés, ainsi que la caisse primaire d'assurance maladie dans le
 ressort de laquelle le médecin exerce son activité, de la demande
-d'accréditation ou de renouvellement d'accréditation des médecins, ainsi que des
-décisions d'accréditation, de refus ou de retrait d'accréditation des médecins.
+d'accréditation ou de renouvellement d'accréditation des médecins, en précisant
+l'organisme agréé concerné, ainsi que des décisions d'accréditation, de refus ou
+de retrait d'accréditation des médecins.
 
 L'accréditation est valable pour une durée de quatre ans.
 
