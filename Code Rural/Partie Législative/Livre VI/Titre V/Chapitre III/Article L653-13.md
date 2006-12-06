@@ -1,5 +1,7 @@
 Article L653-13
 ----
-Des décrets en Conseil d'Etat fixent les conditions auxquelles doivent
-satisfaire les établissements et les instituts mentionnés aux articles L. 653-11
-et L. 653-12 ainsi que les contrôles auxquels ils sont soumis.
+Les activités de collecte et de conditionnement du sperme des équidés sont
+exercées par les titulaires d'une licence de chef de centre d'insémination. La
+mise en place de la semence est réalisée par les titulaires d'une licence de
+chef de centre d'insémination ou d'inséminateur. Les conditions d'octroi et de
+retrait de ces licences sont définies par décret en Conseil d'Etat.
