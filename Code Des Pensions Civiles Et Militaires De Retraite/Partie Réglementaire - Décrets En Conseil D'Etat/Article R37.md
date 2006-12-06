@@ -60,8 +60,8 @@ loi du 9 janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 févri
 e) Du congé de présence parentale, tel que prévu aux articles 54 et 58 de la loi
 du 24 mars 2005 susmentionnée, à l'article 40 bis de la loi du 11 janvier 1984
 susmentionnée, à l'article 60 sexies de la loi du 26 janvier 1984 susmentionnée,
-à l'article 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du
-décret du 24 février 1972 susmentionné et à l'article 122-28-9 du code du
+du 11° de l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4
+ter du décret du 24 février 1972 susmentionné et à l'article 122-28-9 du code du
 travail ;
 
 f) D'une disponibilité pour élever un enfant de moins de huit ans prévue au b de
