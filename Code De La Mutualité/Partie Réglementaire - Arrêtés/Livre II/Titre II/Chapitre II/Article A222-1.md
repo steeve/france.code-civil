@@ -45,15 +45,14 @@ R. 222-16, des équivalences actuarielles prévues à l'article R. 222-15 et de 
 répartition des droits prévue au second alinéa de l'article R. 222-21 sont
 effectués à l'aide d'un taux d'intérêt au plus égal à 60 % du taux moyen des
 emprunts de l'Etat français, calculé sur une base semestrielle, sans pouvoir
-excéder 3,5 % et en utilisant une des tables de mortalité prévues au 2° du
-premier alinéa de l'article A. 212-10.
+excéder 3,5 % et en utilisant les tables de mortalité appropriées mentionnées à
+l'article A. 212-10 applicables aux contrats de rente viagère souscrits à
+compter du 1er janvier 2007.
 
-La provision mathématique théorique ne peut être inférieure à celle qui
-résulterait de l'utilisation des tables prévues au premier tiret du 2° du
-premier alinéa de l'article A. 212-10.
+Les mutuelles et les unions peuvent répartir sur une période allant jusqu'à
+l'exercice 2015 inclus les effets sur le calcul de la provision mathématique
+théorique du changement de taux d'intérêt utilisé pour ce calcul.
 
-Les mutuelles et les unions peuvent répartir sur une période allant jusqu'en
-2015 les effets sur le calcul de la provision mathématique théorique des
-dispositions du premier alinéa, sans que le taux d'actualisation utilisé puisse
-excéder le taux de rendement de l'actif affecté à la couverture de la provision
-technique spéciale prévue à l'article R. 222-8.
+Les mutuelles ou unions peuvent répartir sur une période de quinze ans au plus
+les effets sur le niveau de la provision mathématique théorique résultant de
+l'utilisation des tables mentionnées au premier alinéa du IV.

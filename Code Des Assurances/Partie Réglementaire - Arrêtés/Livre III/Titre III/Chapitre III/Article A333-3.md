@@ -13,11 +13,9 @@ actuelle ainsi calculée est multipliée par le rapport entre l'indice de
 référence à la date de la vente ou de la conversion et ce même indice à la date
 d'acquisition.
 
-Pour les obligations visées au II de l'article R. 332-19, la valeur actuelle
-ainsi calculée est multipliée par le rapport entre l'indice de référence à la
-date de la vente ou de la conversion et ce même indice à la date d'acquisition.
-
-Lorsque le prix de vente est supérieur à la valeur actuelle, l'excédent est
-versé à la réserve de capitalisation ; lorsqu'il est inférieur à la valeur
-actuelle, la différence est prélevée sur la réserve de capitalisation, dans la
-limite du montant de celle-ci.
+Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée le cas
+échéant de la dépréciation mentionnée au dernier alinéa du I de l'article R.
+332-19, l'excédent est versé à la réserve de capitalisation ; lorsqu'il est
+inférieur à la valeur actuelle, diminuée le cas échéant de la dépréciation
+mentionnée au dernier alinéa du I du même article, la différence est prélevée
+sur la réserve de capitalisation, dans la limite du montant de celle-ci.

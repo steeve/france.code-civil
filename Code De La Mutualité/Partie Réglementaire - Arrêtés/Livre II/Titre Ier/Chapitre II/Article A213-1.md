@@ -12,6 +12,9 @@ l'organisme assureur à l'actif duquel ces actifs sont inscrits. Au-delà, les
 plus-values latentes sur actifs de ces organismes assureurs ne sont prises en
 compte qu'une fois déduits les droits à participations des assurés ;
 
+Pour les mutuelles ou unions relevant de l'article L. 111-1 ces droits sont
+calculés conformément à l'article R. 212-90 ;
+
 2. Les titres et emprunts subordonnés détenus en dehors de l'ensemble formé par
 les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
 subordonnées dans la mesure où ils sont admis à contribuer à la constitution de

@@ -1,6 +1,6 @@
 Article R214-38
 ----
-Pour l'appréciation du quota de 50 % figurant au 1 de l'article L. 214-36 :
+I. - Pour l'appréciation du quota de 50 % figurant au 1 de l'article L. 214-36 :
 
 1° Le numérateur est constitué par le prix de souscription ou d'acquisition des
 titres ou droits du portefeuille et la valeur comptable des autres actifs.
@@ -64,3 +64,36 @@ lors de l'inventaire suivant sous réserve, d'une part, que la société de gest
 informe le service des impôts auprès duquel elle dépose sa déclaration de
 résultats dans le mois suivant l'inventaire ayant fait apparaître que le quota
 n'a pas été respecté et, d'autre part, qu'il s'agisse du premier manquement.
+
+II. - 1° Pour l'application du 3 de l'article L. 214-36, la capitalisation
+boursière d'une société est déterminée par le produit du nombre de ses titres de
+capital admis à la négociation à l'ouverture du jour de négociation précédant
+celui de l'investissement par la moyenne des cours d'ouverture des soixante
+jours de négociation précédant celui de l'investissement.
+
+Toutefois, lorsque durant ces soixante jours les titres de capital de la société
+sont pour la première fois admis à la négociation, la moyenne retenue est celle
+des cours d'ouverture des jours de négociation depuis le jour de l'admission à
+la négociation jusqu'au jour précédant celui de l'investissement. Il en est de
+même en cas d'augmentation de capital ou d'opération de fusion, scission ou
+apport partiel d'actif réalisée durant ces soixante jours et emportant admission
+à la négociation de nouveaux titres de capital de la société absorbante ou
+bénéficiaire.
+
+2° Par dérogation aux dispositions du 1°, en cas d'investissement le jour de la
+première cotation des titres de capital d'une société, sa capitalisation
+boursière est déterminée par le produit du nombre de titres de capital ainsi
+admis à la négociation par le prix auquel ces titres sont placés dans le public,
+à savoir le prix auquel ces titres sont vendus au public avant la première
+cotation.
+
+De même, en cas d'investissement le jour où de nouveaux titres de capital de la
+société sont admis à la négociation à la suite d'une augmentation de capital ou
+à une opération de fusion, scission ou apport partiel d'actif, sa capitalisation
+boursière est déterminée par le produit du nombre total des titres de capital de
+la société absorbante ou bénéficiaire admis à la négociation à l'issue de
+l'opération par le cours de clôture du dernier jour de négociation précédant
+l'admission à la négociation de ces nouveaux titres de capital.
+
+3° Le jour de l'investissement mentionné aux 1° et 2° s'entend du jour
+d'acquisition ou de souscription des titres de capital admis à la négociation.
