@@ -1,6 +1,8 @@
 Article R411-1
 ----
-Les règles relatives aux conditions du regroupement familial sont régies par les
-dispositions du décret n° 2005-253 du 17 mars 2005 relatif au regroupement
-familial des étrangers pris pour l'application du livre IV du code de l'entrée
-et du séjour des étrangers et du droit d'asile.
+Le titre de séjour dont doit justifier un ressortissant étranger pour formuler
+une demande de regroupement familial est soit une carte de séjour temporaire,
+d'une durée de validité d'au moins un an, soit une carte de résident, soit une
+carte de résident portant la mention "résident de longue durée-CE" et délivrée
+en France, soit le récépissé de la demande de renouvellement de l'un de ces
+titres.
