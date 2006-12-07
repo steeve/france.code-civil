@@ -1,7 +1,7 @@
 Article R452-17
 ----
 La commission de réorganisation est présidée par le président du conseil
-d'administration et comprend huit autres membres nommés à raison :
+d'administration et comprend neuf autres membres nommés à raison :
 
 - de deux par le ministre chargé du logement ;
 
@@ -10,6 +10,9 @@ d'administration et comprend huit autres membres nommés à raison :
 - de quatre par le président de l'Union nationale des fédérations d'organismes
 d'habitations à loyer modéré, dont l'un est désigné pour remplacer le président
 de la commission en cas d'empêchement ou de vacance de la présidence ;
+
+- d'un par le président de la fédération groupant les sociétés d'économie mixte
+;
 
 - d'un désigné par le directeur général de l'Agence nationale pour la rénovation
 urbaine.

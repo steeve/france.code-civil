@@ -9,7 +9,8 @@ prévention et au redressement, d'attribution des garanties des prêts au logeme
 locatif social et d'attribution des concours financiers à la prévention et au
 redressement. Il fixe les orientations générales relatives à l'octroi des
 concours financiers destinés à favoriser la réorganisation des organismes
-d'habitations à loyer modéré et leur regroupement.
+d'habitations à loyer modéré ou des sociétés d'économie mixte et leur
+regroupement.
 
 Il est notamment compétent pour :
 
