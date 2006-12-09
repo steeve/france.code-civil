@@ -11,7 +11,7 @@ de défense agréé pour une appellation plus générale. Il peut aussi agréer 
 autre organisme préalablement habilité à sa demande et à cet effet par le
 ministre chargé de l'agriculture.
 
-Cet agrément est accordé pour une durée maximale de trois ans qui peut être
+Cet agrément est accordé pour une durée maximale de un an qui peut être
 renouvelée. Il entre en vigueur dès la signature entre ledit organisme et le
 directeur de l'INAO d'une convention établie conformément à la convention-cadre
 approuvée par le comité national des vins et eaux-de-vie.
