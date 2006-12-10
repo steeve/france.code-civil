@@ -1,10 +1,9 @@
 Article R931-12-16
 ----
-Une provision pour risques et charges est constituée dans la comptabilité du
-fonds paritaire de garantie pour enregistrer les cotisations versées par les
-institutions de prévoyance ou unions adhérentes, les produits financiers générés
-par ces cotisations, et toutes autres ressources du fonds, sous déduction de ses
-frais de gestion.
+Une provision est constituée dans la comptabilité du fonds paritaire de garantie
+pour enregistrer les cotisations versées par les institutions de prévoyance ou
+unions adhérentes, les produits financiers générés par ces cotisations, et
+toutes autres ressources du fonds, sous déduction de ses frais de gestion.
 
 Le montant de cette provision est investi dans :
 
