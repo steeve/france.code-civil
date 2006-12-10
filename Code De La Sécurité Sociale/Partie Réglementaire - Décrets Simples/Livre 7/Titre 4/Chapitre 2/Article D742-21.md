@@ -11,4 +11,4 @@ cotisant obligatoire en ce qui concerne les personnes mentionnées aux 2° et 3�
 de l'article L. 742-6 ;
 
 3°) la caisse à laquelle est affilié le chef d'entreprise en ce qui concerne les
-personnes mentionnées aux 4° et 5° de l'article L. 742-6.
+personnes mentionnées au 4° de l'article L. 742-6.

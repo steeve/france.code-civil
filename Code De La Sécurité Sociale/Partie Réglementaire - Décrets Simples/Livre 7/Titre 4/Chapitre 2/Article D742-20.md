@@ -13,12 +13,5 @@ non salariée du chef d'entreprise en ce qui concerne les personnes mentionnées
 au 4° de l'article L. 742-6.
 
 Toutefois, les demandes d'adhésion présentées par les conjoints de chefs
-d'entreprise mentionnés aux 4° et 5° de l'article L. 742-6 ne sont soumises à
-aucun délai.
-
-Pour les conjoints collaborateurs mentionnés au 5° de l'article L. 742-6, une
-nouvelle demande d'affiliation intervenant après une radiation ne peut être
-présentée avant l'expiration d'un délai de trois ans suivant la date d'effet de
-cette radiation, sauf si cette dernière a été prononcée en raison de ce que
-l'intéressé avait cessé de remplir les conditions mentionnées au 5° de l'article
-L. 742-6.
+d'entreprise mentionnés au 4° de l'article L. 742-6 ne sont soumises à aucun
+délai.
