@@ -13,8 +13,8 @@ fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros
 supérieur. Si la variation de l'indice depuis la dernière adaptation est
 inférieure à 5 %, ce montant n'est pas révisé.
 
-Le fonds est constitué par les éléments mentionnés à l'article R. 212-15, à
-l'exception de ceux mentionnés au 2° et au 6° (a) dudit article.
+Le fonds est constitué par les éléments mentionnés aux 1, 2 et 3 du I, au 1 du
+II et au 1 du III de l'article R. 212-15.
 
 Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui :
 
