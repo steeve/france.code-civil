@@ -25,4 +25,5 @@ procéder à la sélection des donneurs et qui a obtenu les renseignements relat
 à l'état de santé et aux antécédents médicaux de ceux-ci. Une décision du
 directeur général de l'Agence française de sécurité sanitaire des produits de
 santé précise les données relatives à la sélection du donneur qui doivent être
-conservées par l'Etablissement français du sang.
+conservées par l'Etablissement français du sang et le centre de transfusion
+sanguine des armées.
