@@ -11,7 +11,7 @@ a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 b) Centre national de promotion rurale, enseignement et formation
 professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
 
-c) Centre d'expérimentation pédagogique de Florac (Lozère) ;
+c) (Abrogé)
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
