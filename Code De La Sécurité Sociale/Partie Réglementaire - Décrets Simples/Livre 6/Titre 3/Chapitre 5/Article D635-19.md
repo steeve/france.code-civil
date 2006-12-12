@@ -1,6 +1,35 @@
 Article D635-19
 ----
-En application de l'article L. 635-1, il est institué un régime complémentaire
-facultatif d'assurance vieillesse des travailleurs non salariés des professions
-industrielles et commerciales relevant de l'organisation autonome d'assurance
-vieillesse mentionnée au 2° de l'article L. 621-3.
+La cotisation d'assurance invalidité-décès du conjoint collaborateur est
+calculée sur le revenu retenu pour le calcul de sa cotisation d'assurance
+vieillesse de base. Elle ne fait toutefois pas l'objet de la régularisation à
+laquelle cette dernière donne lieu le cas échéant. Son montant ne peut être
+inférieur à celui qui serait dû au titre d'un revenu égal à 800 fois le montant
+horaire du salaire minimum de croissance en vigueur au 1er janvier de l'année
+considérée.
+
+Lorsque la cotisation d'assurance vieillesse de base du conjoint est calculée
+selon les modalités prévues au 4° ou au 5° de l'article D. 633-19-2, le revenu
+sur lequel la cotisation d'assurance invalidité-décès du conjoint est calculée
+est déduit du revenu retenu pour déterminer l'assiette de celle du chef
+d'entreprise.
+
+Par exception à la première phrase du premier alinéa, les cotisations des deux
+premières années civiles d'activité du conjoint collaborateur d'un artisan sont
+calculées dans les conditions ci-après lorsqu'il débute son activité au cours de
+l'une des deux premières années civiles d'activité de l'artisan et qu'il choisit
+l'une des options prévues aux 2° à 5° de l'article D. 633-19-2 :
+
+a) Si l'activité débute au cours de la première année civile d'activité de
+l'artisan, la cotisation de la première année est calculée sur le revenu prévu
+au 1° de l'article D. 635-15 et celle de la deuxième année sur celui prévu au 2°
+de ce même article ;
+
+b) Si l'activité débute au cours de la deuxième année civile d'activité de
+l'artisan, la cotisation de la première année est calculée sur le revenu prévu
+au 2° de l'article D. 635-15, celle de la deuxième année sur le revenu mentionné
+au premier alinéa.
+
+Les revenus mentionnés aux quatrième et cinquième alinéas ci-dessus sont pris en
+compte à hauteur du pourcentage et selon les modalités correspondant à l'option
+effectuée en application des dispositions des 2° à 5° de l'article D. 633-19-2.

@@ -10,10 +10,10 @@ par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R.
 212-31 et des prêts mentionnés au troisième alinéa du I de l'article R. 212-45,
-dont 5 % au maximum pour l'ensemble formé par les actions d'entreprises
-étrangères d'assurance mentionnées au 8° de l'article R. 212-31, par les actions
-et parts mentionnées aux 9°, 10° et 11° de l'article R. 212-31 et par les prêts
-mentionnés ci-dessus ;
+dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises
+étrangères d'assurance et de réassurance mentionnées au 8° de l'article R.
+212-31 et par les actions et parts mentionnées aux 9°, 10°, 10° bis, 10 ter et
+11° du même article et par les prêts mentionnés ci-dessus ;
 
 2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° de l'article R.
 212-31 ;

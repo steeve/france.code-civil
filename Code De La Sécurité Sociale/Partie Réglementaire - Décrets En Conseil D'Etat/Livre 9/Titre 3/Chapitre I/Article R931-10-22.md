@@ -10,10 +10,10 @@ par l'Autorité de contrôle mentionnée à l'article L. 951-1 :
 
 1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 5° au 10° de l'article
 R. 931-10-21 et des prêts mentionnés au troisième alinéa du 1° de l'article R.
-931-10-34, dont 5 p. 100 au maximum pour l'ensemble formé par les actions
+931-10-34, dont 10 % au maximum pour l'ensemble formé par les actions
 d'entreprises d'assurance ou de réassurance étrangères mentionnées au 7° de
-l'article R. 931-10-21 et par les actions et parts mentionnées aux 8° et 9° du
-même article et par les prêts mentionnés ci-dessus ;
+l'article R. 931-10-21 et par les actions et parts mentionnées aux 8° et 9° à 9°
+quater du même article et par les prêts mentionnés ci-dessus ;
 
 2° 40 p. 100 pour les actifs immobiliers mentionnés aux 11° et 12° de l'article
 R. 931-10-21 ;

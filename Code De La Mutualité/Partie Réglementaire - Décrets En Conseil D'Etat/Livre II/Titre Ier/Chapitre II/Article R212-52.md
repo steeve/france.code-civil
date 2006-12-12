@@ -33,8 +33,8 @@ réalisation des titres correspondants évaluée conformément à l'article R.
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en
 mesure de respecter ses engagements, soit pour le paiement des intérêts, soit
-pour le remboursement du principal, une provision pour dépréciation doit être
-constituée à l'inventaire.
+pour le remboursement du principal, une dépréciation doit être constatée à
+l'inventaire.
 
 II. - Le I du présent article s'applique également aux obligations indexées sur
 le niveau général des prix, avec garantie de remboursement au pair et émises ou
@@ -54,12 +54,11 @@ dernier arrêté comptable ou depuis l'achat, s'il est plus récent, est enregis
 en produits ou en charges.
 
 Sans préjudice des dispositions du I, les obligations indexées sur le niveau
-général des prix donnent lieu à la constitution d'une provision pour
-dépréciation si une situation de déflation durable est envisagée. Pour la
-détermination du montant de cette provision, la valeur de réalisation de ces
-obligations, qui ne peut être inférieure à leur nominal, est la valeur la plus
-faible entre, d'une part, leur valeur de marché et, d'autre part, leur valeur
-calculée sur la base des prévisions d'évolution de l'indice des prix de
-référence publiées par un organisme figurant sur la liste fixée par arrêté du
-ministre chargé de l'économie en application de l'article R. 332-19 du code des
-assurances.
+général des prix donnent lieu à la constatation d'une dépréciation si une
+situation de déflation durable est envisagée. Pour la détermination du montant
+de cette provision, la valeur de réalisation de ces obligations, qui ne peut
+être inférieure à leur nominal, est la valeur la plus faible entre, d'une part,
+leur valeur de marché et, d'autre part, leur valeur calculée sur la base des
+prévisions d'évolution de l'indice des prix de référence publiées par un
+organisme figurant sur la liste fixée par arrêté du ministre chargé de
+l'économie en application de l'article R. 332-19 du code des assurances.

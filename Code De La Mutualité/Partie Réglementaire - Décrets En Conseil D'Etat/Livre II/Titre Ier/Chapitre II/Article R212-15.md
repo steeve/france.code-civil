@@ -49,13 +49,13 @@ emprunts subordonnés.
 
 Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de
 remboursement, qui sont fixées par arrêté du ministre chargé de la mutualité. La
-prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge
-de solvabilité prévue au présent article. Toutefois, la prise en compte de ceux
-de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est
-admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué
-irrégulièrement peut, conformément aux dispositions de l'article L. 510-11,
-donner lieu à application de sanctions par l'Autorité de contrôle mentionnée à
-l'article L. 510-1 ;
+prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant
+le plus faible de l'exigence de marge de solvabilité ou de la marge de
+solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui proviennent
+de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
+de cette marge. Tout remboursement effectué irrégulièrement peut, conformément
+aux dispositions de l'article L. 510-11, donner lieu à application de sanctions
+par l'Autorité de contrôle mentionnée à l'article L. 510-1 ;
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée

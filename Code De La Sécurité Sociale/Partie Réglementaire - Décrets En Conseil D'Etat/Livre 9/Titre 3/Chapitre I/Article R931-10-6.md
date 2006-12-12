@@ -48,13 +48,13 @@ subordonnés.
 
 Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de
 remboursement, fixées par arrêté du ministre chargé de la sécurité sociale. La
-prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge
-de solvabilité prévue au présent article. Toutefois, la prise en compte de ceux
-de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est
-admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué
-irrégulièrement peut, conformément aux dispositions de l'article L. 951-10,
-donner lieu à application de sanctions par l'Autorité de contrôle instituée par
-l'article L. 951-1.
+prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant
+le plus faible de l'exigence de marge de solvabilité ou de la marge de
+solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui proviennent
+de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
+de cette marge. Tout remboursement effectué irrégulièrement peut, conformément
+aux dispositions de l'article L. 951-10, donner lieu à application de sanctions
+par l'Autorité de contrôle instituée par l'article L. 951-1.
 
 III. - Sur demande et justification de l'institution ou de l'union et avec
 l'accord de l'Autorité de contrôle instituée par l'article L. 951-1, la marge de

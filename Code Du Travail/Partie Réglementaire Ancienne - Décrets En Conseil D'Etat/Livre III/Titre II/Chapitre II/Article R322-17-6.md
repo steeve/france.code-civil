@@ -10,3 +10,8 @@ répartition de la durée du travail sur l'année ou sur la période d'exécutio
 contrat est communiqué par écrit au salarié au moins quinze jours ouvrés avant
 la période annuelle de référence ; la modification éventuelle de cette
 programmation doit également respecter un délai de prévenance de quinze jours.
+
+Pour les contrats conclus par les employeurs conventionnés en application de
+l'article L. 322-4-16-8 ou mentionnés au premier alinéa de l'article L. 129-1,
+la durée hebdomadaire prévue à l'alinéa précédent peut être comprise entre vingt
+et vingt-six heures, prévues dans le contrat de travail.

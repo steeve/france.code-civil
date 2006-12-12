@@ -50,17 +50,32 @@ mutuelles, les mutuelles, unions et fédérations régies par le présent code e
 les institutions de prévoyance régies par le titre III du livre IX du code de la
 sécurité sociale, ayant leur siège social sur le territoire de l'un des Etats
 membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°,
-11°, 12° et 14° ;
+10° bis, 12° et 14° ;
 
-10° Parts des fonds communs de placement régis par les sous-sections 7 et 9 de
-la section 1 du chapitre IV du titre Ier du livre II du code monétaire et
-financier ;
+10° Parts des fonds communs de placement à risques de l'article L. 214-36 du
+code monétaire et financier, parts des fonds communs de placement dans
+l'innovation de l'article L. 214-41 du même code et parts des fonds
+d'investissement de proximité de l'article L. 214-41-1 du même code ;
 
-11° Actions des sociétés d'investissement à capital variable ;
+10° bis Actions des sociétés d'investissement à capital variable et parts de
+fonds communs de placement des articles L. 214-37 et L. 214-38 du code monétaire
+et financier, actions ou parts d'organisme de placement collectif en valeurs
+mobilières relevant de l'article L. 214-35-2 du code monétaire et financier,
+actions ou parts d'organismes de placement collectif en valeurs mobilières
+relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
+antérieure au 2 août 2003 ;
+
+10° ter Parts ou actions d'organismes de placement collectif en levier
+mentionnés au R. 214-29 ou d'organismes de placement collectif en valeurs
+mobilières à règles d'investissement allégées à effet de levier mentionnés au R.
+214-32 ;
+
+11° Parts ou actions d'organismes de placement collectifs en valeur mobilières
+de fonds alternatifs mentionnés au R. 214-36 ;
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement, autres que celles mentionnées aux 5°, 10° et 11°, dans les
-conditions fixées par l'article R. 212-46.
+communs de placement, autres que celles mentionnées aux 5°, 10°, 10° bis, 10°
+ter et 11°, dans les conditions fixées par l'article R. 212-46.
 
 Les marchés reconnus mentionnée aux 2°, 3°, 4° et 6° du présent article sont les
 marchés réglementés des Etats membres de la Communauté européenne ou des Etats
