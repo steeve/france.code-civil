@@ -4,8 +4,9 @@ Toute association ou société entre médecins en vue de l'exercice de la
 profession doit faire l'objet d'un contrat écrit qui respecte l'indépendance
 professionnelle de chacun d'eux.
 
-Il en est de même dans les cas prévus aux articles R. 4127-65, R. 4127-87 et R.
-4127-88 du présent code de déontologie.
+Il en est de même dans les cas prévus aux articles R. 4127-65, R. 4127-87, R.
+4127-88 du présent code de déontologie, ainsi qu'en cas d'emploi d'un médecin
+par un confrère dans les conditions prévues par l'article R. 4127-95.
 
 Les contrats et avenants doivent être communiqués, conformément à l'article L.
 4113-9 au conseil départemental de l'ordre qui vérifie leur conformité avec les

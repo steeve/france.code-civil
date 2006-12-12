@@ -1,12 +1,15 @@
 Article R4127-88
 ----
-Par dérogation au premier alinéa de l'article R. 4127-87, le médecin peut être
-assisté dans son exercice par un autre médecin en cas de circonstances
-exceptionnelles, notamment d'épidémie, ou lorsque, momentanément, son état de
-santé le justifie. L'autorisation est accordée à titre exceptionnel par le
-conseil départemental pour une durée limitée à trois mois, éventuellement
-renouvelable.
+Le médecin peut, sur autorisation, être assisté dans son exercice par un autre
+médecin lorsque les besoins de la santé publique l'exigent, en cas d'afflux
+exceptionnel de population, ou lorsque, momentanément, son état de santé le
+justifie.
 
-Le silence gardé par le conseil départemental vaut autorisation implicite à
-l'expiration d'un délai de deux mois à compter de la date de réception soit de
-la demande d'autorisation, soit de la demande de renouvellement.
+L'autorisation est accordée par le conseil départemental pour une durée de trois
+mois, renouvelable.
+
+Le silence gardé pendant deux mois par le conseil départemental sur la demande
+d'autorisation ou de renouvellement vaut décision d'acceptation.
+
+Le médecin peut également s'adjoindre le concours d'un étudiant en médecine,
+dans les conditions prévues à l'article L. 4131-2 du code de la santé publique.
