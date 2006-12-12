@@ -4,10 +4,11 @@ Peuvent faire l'objet d'une pénalité :
 
 1° Les assurés :
 
-- qui fournissent de fausses déclarations relatives à l'état civil, la
-résidence, la qualité d'assuré ou d'ayant droit ou les ressources dans le but
-d'obtenir ou de faire obtenir une prestation d'assurance maladie ou d'accident
-du travail ;
+- qui, dans le but d'obtenir ou de faire obtenir une prestation d'assurance
+maladie ou d'accident de travail, soit fournissent de fausses déclarations
+relatives à l'état civil, la résidence, la qualité d'assuré ou d'ayant droit ou
+les ressources, soit qui omettent de déclarer la modification d'une ou plusieurs
+de ces mêmes déclarations ;
 
 - qui ne respectent pas :
 

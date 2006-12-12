@@ -12,7 +12,7 @@ défaut au niveau régional :
 
 - pour les médecins, de la commission paritaire locale ;
 
-- pour les chirurgiens-dentistes, du comité dentaire départemental ;
+- pour les chirurgiens-dentistes, de la commission paritaire départementale ;
 
 - pour les directeurs de laboratoire, de la commission conventionnelle paritaire
 régionale ;

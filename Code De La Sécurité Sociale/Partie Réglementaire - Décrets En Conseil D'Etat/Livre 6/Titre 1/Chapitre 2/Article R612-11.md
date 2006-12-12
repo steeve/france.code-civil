@@ -37,7 +37,3 @@ actes qui lui font suite sont à la charge des débiteurs faisant l'objet desdit
 contraintes. Toutefois, ces frais sont, dans le cas d'opposition jugée fondée, à
 la charge soit de la caisse de base, soit de l'organisme conventionné, selon la
 responsabilité encourue.
-
-Pour le recouvrement de l'indu mentionné à l'article L. 133-4, la contrainte est
-délivrée par le directeur de la caisse de base. Elle est régie par les
-dispositions du présent article.
