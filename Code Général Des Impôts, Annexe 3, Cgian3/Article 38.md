@@ -81,16 +81,24 @@ leur dénomination, adresse et numéro d'identification au répertoire national 
 établissements (numéro SIRET), pour les personnes physiques leurs nom, prénoms,
 adresse, date et lieu de naissance ;
 
-2° La liste, suivant modèle fourni par l'administration, de leurs filiales et de
+2° la liste, suivant modèle fourni par l'administration, de leurs filiales et de
 leurs participations, en précisant pour chacune d'entre elles le taux de
 détention et son numéro d'identification au répertoire national des
 établissements (numéro SIRET).
 
-IV. les déclarations et les documents qui y sont joints doivent être remis en
+IV. Les déclarations et les documents qui y sont joints doivent être remis en
 double exemplaire au service des impôts du siège de la direction de l'entreprise
-ou, à défaut, du lieu du principal établissement. Toutefois, les sociétés ayant
-pour objet la construction d'immeubles en vue de la vente et dont l'activité
-porte sur un seul immeuble ou groupe d'immeubles souscrivent cette déclaration
-auprès du service des impôts du lieu de situation des constructions.
+ou, à défaut, du lieu du principal établissement.
+
+Par dérogation au premier alinéa :
+
+1° les personnes physiques qui exercent une activité professionnelle dans la
+Principauté de Monaco déposent leur déclaration auprès du service désigné par le
+ministre chargé du budget ;
+
+2° les sociétés ayant pour objet la construction d'immeubles en vue de la vente
+et dont l'activité porte sur un seul immeuble ou groupe d'immeubles souscrivent
+cette déclaration auprès du service des impôts du lieu de situation des
+constructions.
 
 Il en est délivré récépissé sur demande du contribuable.

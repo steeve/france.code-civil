@@ -60,3 +60,7 @@ III. Cette déclaration et, le cas échéant, les listes visées au II, est adre
 au service des impôts dont dépend le lieu d'exercice de la profession ou le
 principal établissement, en simple exemplaire, à l'aide d'imprimés établis par
 l'administration.
+
+Les personnes physiques qui exercent une activité professionnelle dans la
+Principauté de Monaco déposent leur déclaration auprès du service désigné par le
+ministre chargé du budget.
