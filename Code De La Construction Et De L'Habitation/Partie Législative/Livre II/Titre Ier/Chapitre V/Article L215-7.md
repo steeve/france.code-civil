@@ -19,3 +19,21 @@ considération des objectifs définis dans les conventions mentionnées au premi
 alinéa, un avis conforme aux prises ou cessions de participations directes ou
 indirectes par les sociétés anonymes coopératives d'intérêt collectif pour
 l'accession à la propriété dans des sociétés.
+
+L'Union d'économie sociale pour l'accession à la propriété veille au respect de
+l'article L. 215-1-2 par les sociétés anonymes coopératives d'intérêt collectif
+pour l'accession sociale à la propriété. A ce titre, elle passe toute convention
+avec l'Etat définissant les modalités de contrôle du montant et de l'utilisation
+de la réserve de disponibilités, mentionnée au second alinéa de l'article L.
+215-1-2, constituée par chaque société anonyme coopérative d'intérêt collectif
+pour l'accession à la propriété.
+
+Lorsqu'une société anonyme coopérative d'intérêt collectif pour l'accession à la
+propriété n'utilise pas, pendant deux exercices successifs, tout ou partie de la
+réserve mentionnée au second alinéa de l'article L. 215-1-2 dans les conditions
+prévues au premier alinéa du même article, les sommes non utilisées sont
+attribuées, sur proposition de l'Union d'économie sociale pour l'accession à la
+propriété et avec l'accord de l'autorité administrative, à une autre société
+anonyme coopérative d'intérêt collectif pour l'accession à la propriété. Cette
+société doit employer les sommes ainsi attribuées aux fins prévues à l'article
+L. 215-1-2 en supplément de ses propres obligations résultant de cet article.

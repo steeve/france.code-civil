@@ -16,12 +16,12 @@ majoritairement et de façon conjointe par des sociétés anonymes coopératives
 d'intérêt collectif pour l'accession à la propriété, à l'exception des sociétés
 d'habitation à loyer modéré.
 
-L'un des collèges dispose de 50 % des droits de vote aux assemblées générales.
-Les statuts peuvent également prévoir qu'un groupe de plusieurs collèges, réunis
-par un pacte coopératif les engageant à s'exprimer d'une seule voix dans les
-assemblées générales, disposera de la même proportion des droits de vote.
+Les statuts attribuent 50 % des droits de vote en assemblée générale à l'un des
+collèges ou à un groupe de collèges dont les associés qui les composent se sont
+engagés par convention à ce qu'ils s'expriment d'une seule voix dans les
+assemblées générales de la société.
 
 Si le collège composé de sociétés anonymes coopératives d'intérêt collectif pour
 l'accession à la propriété ou de sociétés détenues majoritairement et de façon
-conjointe par elles est constitué, il ne peut détenir plus de 10 % des droits de
+conjointe par elles est constitué, il ne peut détenir plus de 20 % des droits de
 vote à l'assemblée générale.

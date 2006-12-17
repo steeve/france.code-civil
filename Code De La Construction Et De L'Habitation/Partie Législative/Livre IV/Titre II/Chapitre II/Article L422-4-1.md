@@ -26,13 +26,14 @@ l'avertissement, du blâme et de la radiation de l'affiliation au réseau ; elle
 peut prononcer à l'égard des dirigeants les sanctions disciplinaires de
 l'avertissement, du blâme et du retrait d'agrément.
 
-Le président de la chambre syndicale est de droit président de la caisse
-centrale des sociétés anonymes de crédit immobilier, dont le capital est détenu
-majoritairement par les sociétés anonymes de crédit immobilier. Toutefois, en
-cas d'incompatibilité rendant impossible l'exercice par le président de la
-chambre syndicale du mandat de président de la caisse centrale, ce dernier est
-nommé par le conseil d'administration de la caisse centrale sur proposition du
-président de la chambre syndicale.
+Les sociétés anonymes de crédit immobilier et les sociétés anonymes coopératives
+d'intérêt collectif pour l'accession à la propriété détiennent la majorité du
+capital de la caisse centrale des sociétés anonymes de crédit immobilier. Le
+président de la chambre syndicale est de droit président de la caisse centrale.
+Toutefois, en cas d'incompatibilité rendant impossible l'exercice par le
+président de la chambre syndicale du mandat de président de la caisse centrale,
+ce dernier est nommé par le conseil d'administration de la caisse centrale sur
+proposition du président de la chambre syndicale.
 
 Un décret en Conseil d'Etat approuve les statuts de la chambre syndicale et
 précise, en tant que de besoin, les modalités d'application du présent article,

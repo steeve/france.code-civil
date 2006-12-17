@@ -8,10 +8,9 @@ territoriale ou un groupement de collectivités territoriales et un organisme
 d'habitations à loyer modéré pour former les collèges mentionnés au deuxième
 alinéa de l'article L. 215-4.
 
-En cas de changement du collège disposant d'au moins 50 % des droits de vote ou
-du pacte coopératif mentionné à l'article L. 215-4, la société anonyme
-coopérative d'intérêt collectif pour l'accession à la propriété doit obtenir un
-nouvel agrément dans les formes prévues au premier alinéa.
+En cas de changement du collège ou du groupe de collèges disposant de 50 % des
+droits de vote dans les conditions prévues à l'article L. 215-4, la société doit
+obtenir un nouvel agrément.
 
 La perte d'agrément entraîne la dissolution de la société anonyme coopérative
 d'intérêt collectif pour l'accession à la propriété. Le boni de liquidation est

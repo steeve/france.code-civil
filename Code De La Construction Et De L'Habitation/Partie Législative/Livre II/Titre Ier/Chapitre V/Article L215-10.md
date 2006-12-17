@@ -4,9 +4,10 @@ Si une société anonyme coopérative d'intérêt collectif pour l'accession à 
 propriété méconnaît les dispositions législatives ou réglementaires applicables
 à son activité ou ne respecte pas les engagements pris dans des conventions
 passées avec l'Etat par elle ou l'Union d'économie sociale pour l'accession à la
-propriété, l'autorité administrative peut suspendre le directoire ou le conseil
-de surveillance de la société et nommer un administrateur provisoire, jusqu'à la
-prochaine assemblée générale et au maximum pour un an.
+propriété, l'autorité administrative peut suspendre le conseil d'administration
+ou le conseil de surveillance et le directoire, ou ce dernier seulement, et
+nommer un administrateur provisoire, jusqu'à la prochaine assemblée générale et
+au maximum pour un an.
 
 En cas de manquements graves et réitérés d'une société anonyme coopérative
 d'intérêt collectif pour l'accession à la propriété à son objet social ou de
