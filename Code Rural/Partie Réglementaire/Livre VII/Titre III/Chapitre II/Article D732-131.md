@@ -6,15 +6,7 @@ années et demie, le montant des points déterminé conformément aux articles D
 coefficient est fonction de l'écart entre trente-sept années et demie et la
 durée d'assurance.
 
-Pour chacune des années de l'écart constaté, les coefficients de minoration à
-appliquer sont de :
-
-1° 15 % pour chacune des deux premières années manquantes ;
-
-2° 10 % pour chacune des trois années suivantes ;
-
-3° 40 % pour la sixième année.
-
-Dans le cas prévu au deuxième alinéa de l'article D. 732-118, il n'est pas
-appliqué de coefficient supplémentaire au titre des années manquantes situées
-au-delà de la cinquième.
+Pour chacune des années de l'écart constaté, le coefficient de minoration à
+appliquer est de 5,5 % au 1er janvier 2007 pour les pensions dues au titre de
+l'année 2007 et de 4 % au 1er janvier 2008 pour les pensions dues à compter du
+1er janvier 2008.
