@@ -13,20 +13,12 @@ En ce qui concerne les opérations libellées en devises étrangères, le taux
 d'intérêt technique ne peut être supérieur à 75 % du taux moyen des emprunts
 d'Etat à long terme du pays de la devise concernée calculé sur base semestrielle
 ou, à défaut, de la référence de taux à long terme pertinente pour la devise
-concernée et équivalente à la référence retenue pour le franc français.
+concernée et équivalente à la référence retenue pour l'euro.
 
 Pour les opérations au-delà de huit ans, le taux du tarif ne peut en outre être
 supérieur au plafond établi par les réglementations en vigueur dans le pays de
 chaque devise concernée, pour les garanties de même durée, sans pouvoir excéder
 60 % du taux moyen visé à l'alinéa précédent. Il en est de même pour les
-opérations à cotisations périodiques.
-
-Pour ce qui est des opérations libellées en écus, le taux d'intérêt technique ne
-peut être supérieur à 75 % du taux moyen des emprunts de l'Etat français
-libellés dans cette référence monétaire et calculé sur une base semestrielle. Le
-taux du tarif ne peut en outre excéder, au-delà de huit ans, le plus bas des
-deux taux suivants : 3,5 % ou 60 % du taux moyen des emprunts de l'Etat français
-libellés dans la référence monétaire précitée. Il en est de même pour les
 opérations à cotisations périodiques.
 
 Le taux moyen des emprunts d'Etat à retenir est le plus élevé des deux taux

@@ -9,26 +9,40 @@ rémunération de celles-ci et sont établis d'après les éléments suivants :
 
 2° Une des tables suivantes :
 
-- tables TD 88-90 pour les assurances en cas de décès et TV 88-90 pour les
-assurances en cas de vie établies sur la base des données publiées par
-l'Institut national de la statistique et des études économiques annexées au
-présent article et tables de génération pour les rentes viagères (1) ;
+a) Tables homologuées par arrêté du ministre chargé de la sécurité sociale,
+établies par sexe, sur la base de populations de membres participants et
+bénéficiaires pour les contrats de rente viagère et sur la base de données
+publiées par l'Institut national de la statistique et des études économiques
+pour les autres contrats ;
 
-- tables établies par l'institution ou l'union et certifiées par un actuaire
-indépendant de celle-ci, agréé à cet effet par l'une des associations
-d'actuaires reconnues par l'Autorité de contrôle instituée par l'article L.
-951-1.
+b) tables établies ou non par sexe par l'institution ou l'union et certifiées
+par un actuaire indépendant de celle-ci, agréé à cet effet par l'une des
+associations d'actuaires reconnues par l'Autorité de contrôle instituée par
+l'article L. 951-1.
 
-Pour les rentes viagères, les tarifs et les provisions techniques déterminés en
-utilisant les tables visées au deuxième tiret du 2° ne peuvent être inférieurs à
-ceux qui résulteraient de l'utilisation des tables de génération visées au
-premier tiret du 2°.
+Les tables mentionnées au b sont établies d'après des données d'expérience de
+l'institution ou de l'union, ou des données d'expérience démographiquement
+équivalentes.
+
+Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors
+qu'est retenue une table unique pour tous les membres participants, celle-ci
+correspond à la table appropriée conduisant au tarif le plus prudent.
+
+Pour les contrats en cas de vie autres que les contrats de rente viagère, les
+tables mentionnées au a sont utilisées en corrigeant l'âge du membre participant
+conformément aux décalages d'âge ci-annexés.
+
+Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité
+annuel à un âge donné soit égal au taux de mortalité annuel à l'âge ayant subi
+le décalage dans la table appropriée.
+
+Pour les rentes viagères, en ce compris celles revêtant un caractère temporaire,
+et à l'exception des contrats relevant de la section 9 du chapitre II du titre
+III du livre IX, les tarifs et les provisions techniques déterminés en utilisant
+les tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient
+de l'utilisation des tables appropriées mentionnées au a.
 
 Pour l'élaboration des tarifs des opérations collectives en cas de décès
 résiliables annuellement, l'institution ou l'union peut utiliser les tables
-visées au premier tiret du 2° avec une méthode forfaitaire dès lors que celle-ci
-est justifiable.
-
-(1) Tables de génération pour les rentes viagères : annexe à l'arrêté du 28
-juillet 1993, paru au Journal officiel, édition des Documents administratifs n°
-58.
+mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est
+justifiable.
