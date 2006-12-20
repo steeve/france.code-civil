@@ -7,14 +7,14 @@ nombre des enfants.
 Il lui est attribué, à cet effet, une allocation dite de parent isolé, égale à
 la différence entre le montant du revenu familial et la totalité de ses
 ressources, à l'exception de celles définies par décret en Conseil d'Etat. Ces
-ressources prennent en compte un montant forfaitaire déterminé en pourcentage de
-la base mensuelle de calcul visée à l'article L. 551-1, variable selon le nombre
-d'enfants à charge, fixé par décret, représentatif soit du bénéfice d'une des
-aides personnelles au logement visées au 4° de l'article L. 511-1, aux articles
-L. 755-21 ou L. 831-1 du présent code ou à l'article L. 351-1 du code de la
-construction et de l'habitation dans la limite du montant de l'aide due, soit de
-l'avantage en nature procuré par un hébergement au titre duquel aucune de ces
-aides n'est due.
+ressources prennent en compte un montant forfaitaire déterminé en pourcentage du
+montant du revenu minimum d'insertion mentionné à l'article L. 262-2 du code de
+l'action sociale et des familles, fixé par décret, représentatif soit du
+bénéfice d'une des aides personnelles au logement visées au 4° de l'article L.
+511-1, aux articles L. 755-21 ou L. 831-1 du présent code ou à l'article L.
+351-1 du code de la construction et de l'habitation dans la limite du montant de
+l'aide due, soit de l'avantage en nature procuré par un hébergement au titre
+duquel aucune de ces aides n'est due.
 
 L'allocation de parent isolé est attribuée sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant

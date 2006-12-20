@@ -16,9 +16,9 @@ plus à 75 % du taux de progression de l'ensemble des ressources de la dotation
 globale de fonctionnement ;
 
 2° Une dotation proportionnelle à la superficie, égale à 3 euros par hectare en
-2005 et à 5 euros par hectare dans les communes situées en zone de montagne. A
+2005 et à 5 euros par hectare dans les communes situées en zone de montagne.A
 compter de 2006, ce montant évolue selon le taux d'indexation fixé par le comité
-des finances locales pour la dotation de base. A compter de 2005, le montant de
+des finances locales pour la dotation de base.A compter de 2005, le montant de
 cette dotation perçu par les communes de Guyane ne peut excéder le triple du
 montant qu'elles perçoivent au titre de la dotation de base ;
 
@@ -27,7 +27,7 @@ du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembr
 1998) et du 2° bis du II de l'article 1648 B du code général des impôts dans sa
 rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre
 2003). En 2005, ces montants sont indexés pour les communes qui en bénéficient
-selon un taux de 1 %. A compter de 2006, ces montants progressent selon un taux
+selon un taux de 1 %.A compter de 2006, ces montants progressent selon un taux
 fixé par le comité des finances locales, égal au plus à 50 % du taux de
 croissance de l'ensemble des ressources de la dotation globale de fonctionnement
 ;
@@ -55,9 +55,11 @@ a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux 
 b. Et la somme de la dotation de base et de la dotation proportionnelle à la
 superficie calculées en application des 1° et 2°.
 
-A compter de 2006, cette garantie évolue selon un taux égal à 25 % du taux de
-progression de l'ensemble des ressources de la dotation globale de
-fonctionnement.
+A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du
+taux de progression de l'ensemble des ressources de la dotation globale de
+fonctionnement. Toutefois, pour les communes dont la garantie par habitant est
+supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année
+précédente, le taux de progression de la garantie est nul.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
 la somme des composantes de cette dotation par rapport à la somme des montants
@@ -114,7 +116,7 @@ intercommunale soumis pour la première fois à compter de 2004 aux dispositions
 de l'article 1609 nonies C du code général des impôts, les crédits correspondant
 à la compensation antérieurement perçue en application du I du D de l'article 44
 de la loi de finances pour 1999 précitée sont versés à l'établissement en lieu
-et place des communes. A cet effet, l'ensemble des crédits correspondant à la
+et place des communes.A cet effet, l'ensemble des crédits correspondant à la
 compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
@@ -123,4 +125,6 @@ forfaitaire.
 compris dans le coeur d'un parc national. Elle est fonction de la part de la
 superficie de la commune comprise dans ce coeur, cette part étant doublée pour
 le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
-carrés. Elle évolue chaque année comme la dotation globale de fonctionnement.
+carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007 et
+évolue chaque année selon le taux d'indexation fixé par le Comité des finances
+locales pour la dotation de base et la dotation proportionnelle à la superficie.

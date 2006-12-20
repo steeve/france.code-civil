@@ -76,10 +76,14 @@ article.
 
 "Art. L. 341-8 du code du travail.
 
-"Le renouvellement des autorisations de travail prévues à l'article L. 341-2
-donne lieu à la perception au profit de l'Agence nationale de l'accueil des
-étrangers et des migrations d'une taxe dont le montant et les modalités de
-perception sont fixés par décret.
+"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 ou
+des titres de séjour voulant autorisation de travail ou portant mention de
+celle-ci donne lieu à la perception, au profit de l'Agence nationale de
+l'accueil des étrangers et des migrations, d'une taxe dont le montant est fixé
+par décret dans les limites comprises entre 55 euros et 110 euros.
+
+"Cette taxe est recouvrée comme en matière de timbre, sous réserve, en tant que
+de besoin, des adaptations fixées par décret en Conseil d'Etat.
 
 "La participation de l'Etat aux frais d'introduction des familles de
 travailleurs étrangers et les sommes versées par les employeurs à l'Agence

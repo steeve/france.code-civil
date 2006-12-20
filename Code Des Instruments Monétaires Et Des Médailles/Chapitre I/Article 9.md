@@ -8,7 +8,7 @@ ministre de l'économie et des finances.
 
 Néanmoins, tout dessinateur ou graveur ou autre personne peut dessiner ou
 graver, faire dessiner ou graver des médailles ; celles-ci sont frappées avec le
-coin qu'ils remettent à l'administration des monnaies et médailles.
+coin qu'ils remettent à la Monnaie de Paris.
 
 Les frais de fabrication sont réglés par le ministre de l'économie et des
 finances.

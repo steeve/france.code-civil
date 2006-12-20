@@ -8,7 +8,12 @@ mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et
 aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou
 titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont
 soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par
-foyer fiscal, 15 000 euros par an.
+foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007. Pour
+l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
+d'euros la plus proche, est actualisé chaque année dans la même proportion que
+la limite supérieure de la première tranche du barème de l'impôt sur le revenu
+de l'année précédant celle de la cession et sur la base du seuil retenu au titre
+de cette année.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
@@ -41,9 +46,7 @@ du premier cédant au titre de l'année de la revente des droits au tiers.
 l'option pour l'imputation des pertes a été exercée dans les conditions du
 deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'année
 au cours de laquelle elles sont reçues, quel que soit le montant des cessions
-réalisées au cours de cette année, sous déduction du montant repris en
-application de l'article 163 octodecies A, à hauteur de la perte imputée ou
-reportée.
+réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
 
 II. - Les dispositions du I sont applicables :
 
@@ -113,10 +116,11 @@ III. - Les dispositions du I ne s'appliquent pas :
 
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques
 mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts,
-remplissant les conditions fixées aux I et II de l'article précité, après
-l'expiration de la période mentionnée au I du même article. Cette disposition
-n'est pas applicable si, à la date de la cession ou du rachat, le fonds a cessé
-de remplir les conditions énumérées au II de l'article 163 quinquies B ;
+remplissant les conditions fixées aux I et II ou aux I et III bis de l'article
+précité, après l'expiration de la période mentionnée au I du même article. Cette
+disposition n'est pas applicable si, à la date de la cession ou du rachat, le
+fonds a cessé de remplir les conditions énumérées au II ou au III bis de
+l'article 163 quinquies B ;
 
 1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au II de
 l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier 2001,

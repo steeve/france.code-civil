@@ -4,15 +4,12 @@ Pour les employeurs inscrits au répertoire des métiers et, dans les départeme
 du Bas-Rhin, du Haut-Rhin et de la Moselle, au registre des entreprises créé par
 le décret n° 73-942 du 3 octobre 1973, ainsi que ceux occupant moins de onze
 salariés au 31 décembre précédant la date de conclusion du contrat, non compris
-les apprentis, l'Etat prend en charge totalement, selon des taux fixés ou
-approuvés par arrêté ministériel, les cotisations sociales patronales et
+les apprentis, l'Etat prend en charge, selon des taux fixés ou approuvés par
+arrêté ministériel, les cotisations sociales patronales, à l'exclusion de celles
+dues au titre des accidents du travail et des maladies professionnelles, et
 salariales d'origine légale et conventionnelle imposées par la loi dues au titre
 des salaires versés aux apprentis, dans les conditions prévues à l'article L.
 118-5.
-
-Toutefois, les cotisations supplémentaires d'accidents du travail imposées en
-application des articles L. 242-7 du code de la sécurité sociale et L. 751-21 du
-code rural sont exclues de cette prise en charge.
 
 La prise en compte des droits validables à l'assurance vieillesse ouverts
 pendant la période d'apprentissage s'effectue sur une base forfaitaire suivant

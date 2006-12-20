@@ -16,7 +16,9 @@ c) De personnalités qualifiées désignées par l'Etat ;
 
 d) De représentants des collectivités territoriales ;
 
-e) De représentants élus des membres adhérents de la "Fondation du patrimoine".
+e) De représentants élus des membres adhérents de la "Fondation du patrimoine" ;
+
+f) D'un représentant des associations de propriétaires de monuments protégés.
 
 Les représentants des fondateurs doivent disposer ensemble de la majorité
 absolue des voix au conseil d'administration.

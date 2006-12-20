@@ -12,3 +12,5 @@ rapportent.
 Le fonds est administré par un conseil de gestion dont la composition, les modes
 de désignation des membres et les modalités de fonctionnement sont fixés par
 décret.
+
+Sa gestion est assurée par la Caisse des dépôts et consignations.

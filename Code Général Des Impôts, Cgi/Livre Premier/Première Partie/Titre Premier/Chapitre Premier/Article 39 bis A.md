@@ -1,14 +1,19 @@
 Article 39 bis A
 ----
-1. Les entreprises exploitant soit un journal, soit une publication mensuelle ou
-bimensuelle consacrée pour une large part à l'information politique, sont
-autorisées à constituer une provision déductible du résultat imposable des
-exercices 1997 à 2006, en vue de faire face aux dépenses suivantes :
+1. Les entreprises exploitant soit un journal quotidien, soit une publication de
+périodicité au maximum mensuelle consacrée pour une large part à l'information
+politique et générale, sont autorisées à constituer une provision déductible du
+résultat imposable des exercices 1997 à 2010, en vue de faire face aux dépenses
+suivantes :
 
-a. acquisition de matériels, mobiliers, terrains, constructions et prises de
-participation majoritaire dans des entreprises d'imprimerie ou exploitant des
-réseaux de portage, dans la mesure où ces éléments d'actif sont strictement
-nécessaires à l'exploitation du journal ou de la publication ;
+a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure
+où ces éléments d'actif sont strictement nécessaires à l'exploitation du journal
+ou de la publication, et prises de participation dans des entreprises de presse
+qui ont pour activité principale l'édition d'un journal ou d'une publication
+mentionnés au premier alinéa ou dans des entreprises dont l'activité principale
+est d'assurer pour ces entreprises de presse des prestations de services dans
+les domaines de l'information, de l'approvisionnement en papier, de l'impression
+ou de la distribution ;
 
 b. constitution de bases de données, extraites du journal ou de la publication,
 et acquisition du matériel nécessaire à leur exploitation ou à la transmission
@@ -29,6 +34,10 @@ régionale consacrées principalement à l'information politique et générale,
 paraissant au moins une fois par semaine et dont le prix de vente n'excède pas
 de 75 p. 100 celui de la majorité des quotidiens. Un arrêté du ministre de
 l'économie et des finances fixe les conditions de cette assimilation.
+
+2 bis. Un décret en Conseil d'État précise les caractéristiques, notamment de
+contenu et de surface rédactionnelle, des publications mentionnées aux 1 et 2
+qui sont regardées comme se consacrant à l'information politique et générale.
 
 3. Les sommes prélevées ou déduites des résultats imposables en vertu du 1 ne
 peuvent être utilisées qu'au financement d'une fraction du prix de revient des

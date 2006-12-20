@@ -2,8 +2,8 @@ Article 209-0 A
 ----
 1° Pour la détermination de leur résultat imposable, les entreprises qui
 détiennent des parts ou actions d'organismes de placement collectif en valeurs
-mobilières français [*OPCVM*] ou étrangers évaluent ces parts ou actions, à la
-clôture de chaque exercice, à leur valeur liquidative.
+mobilières français ou étrangers évaluent ces parts ou actions, à la clôture de
+chaque exercice, à leur valeur liquidative.
 
 L'écart entre la valeur liquidative à l'ouverture et à la clôture de l'exercice
 constaté lors de cette évaluation est compris dans le résultat imposable de
@@ -52,12 +52,12 @@ constitués directement par ces bénéfices distribués et par les plus-values
 résultant de leur cession.
 
 Pour les parts d'un fonds commun de placement à risques qui remplit les
-conditions prévues au II de l'article 163 quinquies B, les entreprises peuvent
-s'abstenir de constater l'écart mentionné au deuxième alinéa à condition de
-s'engager à les conserver pendant un délai d'au moins cinq ans à compter de leur
-date d'acquisition. L'engagement est réputé avoir été pris dès lors que cet
-écart n'a pas été soumis spontanément à l'impôt. En cas de rupture de
-l'engagement, l'entreprise acquitte spontanément une taxe dont le montant est
+conditions prévues au II ou au III bis de l'article 163 quinquies B, les
+entreprises peuvent s'abstenir de constater l'écart mentionné au deuxième alinéa
+à condition de s'engager à les conserver pendant un délai d'au moins cinq ans à
+compter de leur date d'acquisition. L'engagement est réputé avoir été pris dès
+lors que cet écart n'a pas été soumis spontanément à l'impôt. En cas de rupture
+de l'engagement, l'entreprise acquitte spontanément une taxe dont le montant est
 calculé en appliquant à l'impôt qui aurait été versé en application du deuxième
 alinéa un taux de 0,75 p. 100 par mois décompté du premier jour du mois suivant
 celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour du mois

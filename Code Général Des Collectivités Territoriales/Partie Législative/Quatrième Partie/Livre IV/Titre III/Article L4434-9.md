@@ -1,7 +1,11 @@
 Article L4434-9
 ----
-Les régions d'outre-mer perçoivent une quote-part de la dotation de péréquation
-déterminée dans les conditions prévues à l'article L. 4332-8.
+La quote-part de la dotation de péréquation des régions mentionnée à l'article
+L. 4332-8 perçue par les régions d'outre-mer est déterminée par application au
+montant total de la dotation de péréquation du triple du rapport entre la
+population des régions d'outre-mer, telle qu'elle résulte du dernier recensement
+général, et la population de l'ensemble des régions et de la collectivité
+territoriale de Corse.
 
 Cette quote-part est répartie entre les régions d'outre-mer :
 

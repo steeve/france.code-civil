@@ -34,7 +34,7 @@ immobilisations affectées à l'usage d'alpage.
 
 Les collectivités territoriales et leurs groupements bénéficient des
 attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
-titre de leurs dépenses d'investissement réalisées sur la période 2003-2006,
+titre de leurs dépenses d'investissement réalisées sur la période 2003-2008,
 sous maîtrise d'ouvrage publique, en matière d'infrastructures passives
 intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension
 de la couverture du territoire par les réseaux de téléphonie mobile.
@@ -53,3 +53,9 @@ destinés à la location, dès lors qu'elles concernent des travaux de lutte con
 les risques spécifiques liés aux zones de montagne. Nul autre que la
 collectivité bailleuse ne peut exiger l'intégration des coûts de ces équipements
 dans la base de calcul des loyers des biens concernés.
+
+Sont éligibles au fonds de compensation pour la taxe sur la valeur ajoutée les
+dépenses correspondant à des travaux réalisés à compter du 1er janvier 2005 sur
+les monuments historiques inscrits ou classés appartenant à des collectivités
+territoriales, quels que soient l'affectation finale et éventuellement le mode
+de location ou de mise à disposition de ces édifices.

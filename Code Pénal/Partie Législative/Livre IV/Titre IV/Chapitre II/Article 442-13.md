@@ -11,11 +11,11 @@ fabrication est obligatoire.
 
 Selon que la contrefaçon ou la falsification a porté sur des pièces de monnaie
 ou des billets de banque, les signes monétaires contrefaits ou falsifiés sont
-remis à l'administration des monnaies et médailles ou à la Banque de France, aux
-fins de destruction éventuelle. Leur sont également remis, aux mêmes fins, ceux
-des matériels et instruments confisqués qu'elles désignent.
+remis à la Monnaie de Paris ou à la Banque de France, aux fins de destruction
+éventuelle. Leur sont également remis, aux mêmes fins, ceux des matériels et
+instruments confisqués qu'elles désignent.
 
 La confiscation des objets, imprimés ou formules visés à l'article 442-6 est
-également obligatoire. Elle entraîne remise de la chose confisquée à
-l'administration des monnaies et médailles ou à la Banque de France, selon la
-distinction prévue à l'alinéa précédent, aux fins de destruction éventuelle.
+également obligatoire. Elle entraîne remise de la chose confisquée à la Monnaie
+de Paris ou à la Banque de France, selon la distinction prévue à l'alinéa
+précédent, aux fins de destruction éventuelle.
