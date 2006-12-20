@@ -22,3 +22,7 @@ régimes de sécurité sociale sauf :
 4°) à la caisse nationale des barreaux français ;
 
 5°) à la caisse d'assurance vieillesse, invalidité et maladie des cultes.
+
+Dans les établissements de santé, les conséquences financières des conventions
+agréées prévues au premier alinéa ne sont pas opposables à l'autorité de
+tarification de ces établissements.

@@ -38,11 +38,12 @@ capital social des unions d'économie sociale, groupements d'intérêt économiq
 ou sociétés civiles immobilières auxquels elles sont autorisées à participer,
 les budgets et comptes annuels des unions d'économie sociale, groupements
 d'intérêt économique et sociétés civiles immobilières sont soumis à
-l'approbation de l'autorité compétente de l'Etat dans les mêmes conditions que
-celles prévues pour les caisses de mutualité sociale agricole. Ces dispositions
-sont également applicables aux unions et associations dont au moins la moitié
-des moyens de fonctionnement est financée, de manière directe ou indirecte, par
-les caisses de mutualité sociale agricole et leurs associations.
+l'approbation de l'organisme de mutualité sociale agricole détenant la
+participation majoritaire.
+
+Ces dispositions sont également applicables aux unions et associations dont au
+moins la moitié des moyens de fonctionnement est financée, de manière directe ou
+indirecte, par les caisses de mutualité sociale agricole et leurs associations.
 
 IV. - Un décret en Conseil d'Etat fixe les conditions d'application des
-dispositions prévues aux I, II et III ci-dessus.
+dispositions prévues aux I, et II ci-dessus.

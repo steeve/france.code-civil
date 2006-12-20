@@ -8,6 +8,3 @@ légalement obligatoire d'assurance contre la maladie, la maternité, la
 vieillesse, l'invalidité, le décès, les accidents du travail et les maladies
 professionnelles ou de prestations familiales, ainsi qu'aux unions ou
 fédérations desdits organismes.
-
-Les frais du contrôle institué par l'article L. 154-1 sont supportés par le
-budget général.
