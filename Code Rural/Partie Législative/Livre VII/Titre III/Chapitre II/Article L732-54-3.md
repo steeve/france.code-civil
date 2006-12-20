@@ -2,24 +2,24 @@ Article L732-54-3
 ----
 I. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er
 janvier 1998 bénéficient d'une majoration de la retraite qui leur est servie à
-titre personnel, lorsqu'elles justifient d'une durée d'assurance fixée par
-décret accomplie, à titre exclusif ou principal, dans le régime d'assurance
-vieillesse des personnes non salariées des professions agricoles et qu'elles ne
-sont pas titulaires d'une retraite proportionnelle ou sont titulaires d'une
-pension de retraite proportionnelle inférieure aux minima fixés en application
-du premier alinéa du II de l'article L. 732-54-1 pour celles ayant pris leur
-retraite en 1997 ou au deuxième alinéa du III du même article pour celles dont
-la retraite a pris effet avant le 1er janvier 1997. Le montant de cette
-majoration est fixé par décret en tenant compte de la durée d'assurance
-justifiée par l'intéressé. Cette majoration de pension de retraite n'est pas
-cumulable avec les majorations de la pension de retraite proportionnelle prévues
-au premier alinéa du II et au deuxième alinéa du III de l'article L. 732-54-1,
-dont les dispositions sont appliquées en priorité.
+titre personnel, lorsqu'elles justifient d'une durée d'assurance d'au moins
+vingt-deux années et demie accomplie, à titre exclusif ou principal, dans le
+régime d'assurance vieillesse des personnes non salariées des professions
+agricoles et qu'elles ne sont pas titulaires d'une retraite proportionnelle ou
+sont titulaires d'une pension de retraite proportionnelle inférieure aux minima
+fixés en application du premier alinéa du II de l'article L. 732-54-1 pour
+celles ayant pris leur retraite en 1997 ou au deuxième alinéa du III du même
+article pour celles dont la retraite a pris effet avant le 1er janvier 1997. Le
+montant de cette majoration est fixé par décret en tenant compte de la durée
+d'assurance justifiée par l'intéressé. Cette majoration de pension de retraite
+n'est pas cumulable avec les majorations de la pension de retraite
+proportionnelle prévues au premier alinéa du II et au deuxième alinéa du III de
+l'article L. 732-54-1, dont les dispositions sont appliquées en priorité.
 
 II. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er
 janvier 1998 bénéficient d'une majoration de la retraite qui leur est servie à
-titre personnel, lorsqu'elles justifient de périodes de cotisations à ladite
-retraite et d'assurance déterminées par décret, accomplies, à titre exclusif ou
+titre personnel, lorsqu'elles justifient d'au moins vingt-deux années et demie
+de durée d'activité et de périodes d'assurance, accomplies, à titre exclusif ou
 principal, dans le régime d'assurance vieillesse des personnes non salariées des
 professions agricoles et qu'elles ne sont pas titulaires d'un autre avantage
 servi à quelque titre que ce soit par le régime d'assurance vieillesse des
