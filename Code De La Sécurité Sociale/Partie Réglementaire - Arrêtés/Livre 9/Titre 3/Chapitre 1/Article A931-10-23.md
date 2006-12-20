@@ -32,10 +32,12 @@ Pour les obligations visées au II de l'article R. 931-10-40, la valeur actuelle
 ainsi calculée est multipliée par le rapport entre l'indice de référence à la
 date de la vente ou de la conversion et ce même indice à la date d'acquisition.
 
-Lorsque le prix de vente est supérieur à la valeur actuelle, l'excédent est
-versé à la réserve de capitalisation. Lorsqu'il lui est inférieur, la différence
-est prélevée sur la réserve de capitalisation, dans la limite du montant de
-celle-ci.
+Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée, le cas
+échéant, de la dépréciation mentionnée au dernier alinéa du I de l'article R.
+931-10-40, l'excédent est versé à la réserve de capitalisation ; lorsqu'il est
+inférieur à la valeur actuelle, diminuée, le cas échéant, de la dépréciation
+mentionnée au dernier alinéa du I du même article, la différence est prélevée
+sur la réserve de capitalisation, dans la limite du montant de celle-ci.
 
 IV. - Les institutions ou unions, dont les placements en valeurs soumises à la
 réserve de capitalisation ne dépassent pas cinq millions de francs à la date de
