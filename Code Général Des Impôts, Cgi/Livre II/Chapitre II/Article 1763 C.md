@@ -2,13 +2,13 @@ Article 1763 C
 ----
 Lorsque l'administration établit qu'un fonds commun de placement à risques dont
 le règlement prévoit que les porteurs de parts pourront bénéficier des avantages
-fiscaux prévus aux articles 163 quinquies B, 150-0 A, 209-0 A et 219 n'a pas
-respecté son quota d'investissement prévu au 1° du II de l'article 163 quinquies
-B, la société de gestion du fonds est redevable d'une amende égale à 20 % du
-montant des investissements qui permettraient d'atteindre un quota
-d'investissement de 50 %. Le montant de cette amende est toutefois limité à la
-moitié du montant des sommes qui lui sont dues par le fonds au titre des frais
-de gestion pour l'exercice concerné.
+fiscaux prévus au 2° du 5 de l'article 38 et aux articles 163 quinquies B, 150-0
+A, 209-0 A et 219 n'a pas respecté son quota d'investissement prévu au 1° du II
+de l'article 163 quinquies B, la société de gestion du fonds est redevable d'une
+amende égale à 20 % du montant des investissements qui permettraient d'atteindre
+un quota d'investissement de 50 %. Le montant de cette amende est toutefois
+limité à la moitié du montant des sommes qui lui sont dues par le fonds au titre
+des frais de gestion pour l'exercice concerné.
 
 Lorsque l'administration établit qu'un fonds commun d'investissements dans
 l'innovation ou qu'un fonds d'investissements de proximité n'a pas respecté son

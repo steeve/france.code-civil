@@ -4,9 +4,9 @@ Le contribuable âgé de plus de soixante-cinq ans au 31 décembre de l'année
 d'imposition, ou remplissant l'une des conditions d'invalidité mentionnées à
 l'article 195, peut déduire de son revenu global net une somme de :
 
-- 2 132 euros si ce revenu n'excède pas 13 125 euros ;
+- 2 172 euros si ce revenu n'excède pas 13 370 euros ;
 
-- 1 066 euros si ce revenu est compris entre 13 125 euros et 21 188 euros.
+- 1 086 euros si ce revenu est compris entre 13 370 euros et 21 570 euros.
 
 Dans le cas de personnes mariées soumises à une imposition commune, la déduction
 prévue aux deuxième et troisième alinéas est doublée si les deux époux

@@ -5,7 +5,7 @@ les conditions prévues à l'article 1er modifié de la loi n° 85-695 du 11 jui
 1985 portant diverses dispositions d'ordre économique et financier, prélevées
 sur des plus-values nettes provenant des titres de leur portefeuille sont
 soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition
-prévu au 2 de l'article 200 A (1).
+prévu au 2 de l'article 200 A.
 
 Toutefois, les distributions prélevées sur des plus-values provenant du
 portefeuille coté ou non coté, ou sur les revenus des titres non cotés de la
@@ -28,7 +28,7 @@ pas ensemble directement ou indirectement plus de 25 p. 100 des droits dans les
 bénéfices de sociétés dont les titres figurent à l'actif de la société de
 capital-risque, ou n'ont pas détenu ce montant à un moment quelconque au cours
 des cinq années précédant la souscription ou l'acquisition des actions de la
-société de capital-risque (2).
+société de capital-risque.
 
 Ces dispositions sont applicables lorsque les plus-values ou les revenus
 distribués ont été réalisés au cours de l'exercice au titre duquel la
@@ -36,11 +36,10 @@ distribution est effectuée ou des trois exercices précédents.
 
 II. - Les distributions par les sociétés de capital-risque qui remplissent les
 conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
-précitée, prélevées sur des plus-values nettes réalisées au cours des exercices
-clos à compter du 31 décembre 2001 provenant de titres, cotés ou non cotés, de
-la nature de ceux retenus pour la proportion de 50 % mentionnée au même article
-1er-1 sont soumises, lorsque l'actionnaire est une personne physique, au taux
-d'imposition prévu au 2 de l'article 200 A.
+précitée, prélevées sur des plus-values nettes de cessions de titres réalisées
+par la société au cours des exercices clos à compter du 31 décembre 2001 sont
+soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition
+prévu au 2 de l'article 200 A.
 
 Toutefois, les distributions prélevées sur les bénéfices réalisés dans le cadre
 de leur objet social défini à l'article 1er-1 de la loi n° 85-695 du 11 juillet
@@ -63,7 +62,7 @@ pas ensemble, directement ou indirectement, plus de 25 % des droits dans les
 bénéfices de sociétés dont les titres figurent à l'actif de la société de
 capital-risque, ou n'ont pas détenu cette part à un moment quelconque au cours
 des cinq années précédant la souscription ou l'acquisition des actions de la
-société de capital-risque (2).
+société de capital-risque.
 
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au
 revenu imposable de l'année au cours de laquelle la société ou le contribuable

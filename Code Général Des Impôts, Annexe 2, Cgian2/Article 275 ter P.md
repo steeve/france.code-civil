@@ -8,5 +8,5 @@ responsabilité de l'organisme est établie à l'issue de l'enquête administrat
 l'administration engage une procédure de retrait d'agrément. Les poinçons de
 titre usagés ainsi que ceux détenus par un organisme dont l'agrément est retiré
 sont remis à la direction régionale des douanes et droits indirects dont dépend
-l'organisme pour être détruits ou renvoyés à la direction des monnaies et
-médailles, après information de l'administration des douanes.
+l'organisme pour être détruits ou renvoyés à la Monnaie de Paris, après
+information de l'administration des douanes.

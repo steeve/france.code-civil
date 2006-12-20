@@ -6,17 +6,17 @@ l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à l
 habitation principale pour la fraction de leur cotisation qui excède 4,3 % de
 leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-a. 3 533 euros pour la première part de quotient familial, majoré de 1 021 euros
-pour les quatre premières demi-parts et de 1 806 euros pour chaque demi-part
+a. 4 814 euros pour la première part de quotient familial, majoré de 1 391 euros
+pour les quatre premières demi-parts et de 2 461 euros pour chaque demi-part
 supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-b. 4 241 euros pour la première part de quotient familial, majoré de 1 021 euros
-pour les deux premières demi-parts et de 1 806 euros pour chaque demi-part
+b. 5 777 euros pour la première part de quotient familial, majoré de 1 391 euros
+pour les deux premières demi-parts et de 2 461 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans les départements de la
 Martinique, de la Guadeloupe et de la Réunion ;
 
-c. 4 712 euros pour la première part de quotient familial, majoré de 785 euros
-pour les deux premières demi-parts et de 1 883 euros pour chaque demi-part
+c. 6 418 euros pour la première part de quotient familial, majoré de 1 070 euros
+pour les deux premières demi-parts et de 2 566 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans le département de la Guyane.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
@@ -46,18 +46,7 @@ d. L'abattement est déterminé en tenant compte de la somme des parts retenues
 pour l'établissement de l'impôt sur le revenu de chacun des foyers fiscaux dont
 le revenu est retenu pour le calcul du dégrèvement.
 
-2. Pour les impositions établies au titre de 2000 à 2004, le montant du
-dégrèvement calculé dans les conditions fixées au I ne peut être inférieur au
-montant du dégrèvement qui aurait été accordé conformément aux dispositions de
-l'article 1414 C dans sa rédaction en vigueur au titre de 2000 avant la
-publication de la loi de finances rectificative pour 2000 (n° 2000-656 du 13
-juillet 2000) ; toutefois, pour les impositions établies à compter de 2001, le
-pourcentage de 50 % mentionné à ce même article est réduit de dix points chaque
-année.
-
-Les majorations de revenu à retenir au-delà de la première part pour l'octroi du
-dégrèvement prévu par l'article 1414 C sont divisées par deux pour les quarts de
-part.
+2. (Périmé)
 
 III. 1. A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
 montant égal au produit de la base nette imposable au profit des collectivités

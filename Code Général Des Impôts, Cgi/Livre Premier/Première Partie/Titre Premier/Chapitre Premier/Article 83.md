@@ -151,14 +151,14 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 229 euros
-pour l'imposition des rémunérations perçues en 2001 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 328 euros
+pour l'imposition des rémunérations perçues en 2006 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 364 euros ou à 797 euros pour les personnes inscrites en tant que
+inférieur à 396 euros ou à 869 euros pour les personnes inscrites en tant que
 demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut
 des traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de
