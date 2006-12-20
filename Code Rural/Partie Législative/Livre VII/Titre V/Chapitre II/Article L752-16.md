@@ -19,3 +19,7 @@ l'arrêté prévu à l'alinéa précédent ; il est opéré une réduction du mo
 la cotisation due pour les personnes relevant d'un régime de protection sociale
 autre que le régime des non-salariés agricoles au titre de leur activité
 principale.
+
+Le régime est également financé par les cotisations dues par les assurés
+mentionnés au II de l'article L. 752-1 pour eux-mêmes. Le montant de ces
+cotisations est fixé par l'arrêté prévu au 1°.

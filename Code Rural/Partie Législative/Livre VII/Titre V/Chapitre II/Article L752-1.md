@@ -1,6 +1,6 @@
 Article L752-1
 ----
-Sont obligatoirement assurés contre les accidents du travail et les maladies
+I.-Sont obligatoirement assurés contre les accidents du travail et les maladies
 professionnelles, lorsqu'ils sont occupés dans les exploitations, entreprises ou
 établissements énumérés aux 1° à 5° de l'article L. 722-1 :
 
@@ -26,5 +26,12 @@ chef d'exploitation ou d'entreprise agricole pour lui-même et les autres
 personnes mentionnées au présent article, les enfants mentionnés au 3°
 bénéficiant d'une présomption d'affiliation.
 
-Les bénéficiaires de l'assurance prévue au présent chapitre peuvent contracter
-librement toutes assurances complémentaires ou supplémentaires.
+II.-Sont obligatoirement assurées pour leur propre compte contre les accidents
+du travail et les maladies professionnelles les personnes mentionnées à
+l'article L. 731-23 dont l'exploitation ou l'entreprise agricole répond à des
+critères de superficie ou de temps travaillé fixés par décret, à l'exception de
+celles qui bénéficient à un autre titre de l'assurance prévue au présent
+chapitre.
+
+III.-Les bénéficiaires de l'assurance prévue au présent chapitre peuvent
+contracter librement toutes assurances complémentaires ou supplémentaires.
