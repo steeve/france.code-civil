@@ -1,7 +1,9 @@
 Article L162-16-5
 ----
 Le prix de cession au public des spécialités disposant d'une autorisation de
-mise sur le marché et inscrites sur la liste prévue à l'article L. 5126-4 du
+mise sur le marché, de l'autorisation mentionnée à l'article L. 5124-17-1 du
+code de la santé publique ou de l'autorisation mentionnée à l'article L.
+5121-9-1 du même code et inscrites sur la liste prévue à l'article L. 5126-4 du
 code de la santé publique, majoré le cas échéant du montant de la taxe sur la
 valeur ajoutée, est égal au prix de vente aux établissements de santé déclaré
 par l'entreprise au Comité économique des produits de santé et publié par ce
@@ -38,10 +40,10 @@ ajoutée.
 
 Un accord conclu à cet effet entre le comité et une ou plusieurs organisations
 syndicales représentatives des entreprises concernées ou, à défaut, un décret en
-Conseil d'Etat précise les conditions dans lesquelles sont effectuées les
-déclarations des laboratoires exploitants, les critères de l'opposition du
-comité, les conditions dans lesquelles les prix de vente déclarés peuvent être
-révisés et les engagements que doit prendre l'entreprise.
+Conseil d'Etat précise la procédure, les conditions dans lesquelles sont
+effectuées les déclarations des laboratoires exploitants, les critères de
+l'opposition du comité, les conditions dans lesquelles les prix de vente
+déclarés peuvent être révisés et les engagements que doit prendre l'entreprise.
 
 Sont constatées et poursuivies dans les conditions fixées par le titre V du
 livre IV du code de commerce les infractions aux conventions et arrêtés

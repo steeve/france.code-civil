@@ -7,9 +7,17 @@ des prix.
 
 Cette cotisation est fixée en pourcentage du montant des revenus, définis selon
 les modalités fixées au IV de l'article 1417 du code général des impôts, qui
-dépasse le plafond mentionné au premier alinéa. Un décret détermine le taux et
-les modalités de calcul de cette cotisation ainsi que les obligations
-déclaratives incombant aux assujettis.
+dépasse le plafond mentionné au premier alinéa. Servent également au calcul de
+l'assiette de la cotisation, lorsqu'ils ne sont pas pris en compte en
+application du IV de l'article 1417 du code général des impôts, l'ensemble des
+moyens d'existence et des éléments de train de vie, notamment les avantages en
+nature et les revenus procurés par des biens mobiliers et immobiliers, dont le
+bénéficiaire de la couverture maladie universelle a disposé, en quelque lieu que
+ce soit, en France ou à l'étranger, et à quelque titre que ce soit. Ces éléments
+de train de vie font l'objet d'une évaluation dont les modalités sont fixées par
+décret en Conseil d'Etat. Un décret détermine le taux et les modalités de calcul
+de cette cotisation ainsi que les obligations déclaratives incombant aux
+assujettis.
 
 La cotisation est recouvrée selon les dispositions des sections 2 à 4 du
 chapitre III et du chapitre IV du titre IV du livre II du présent code, sous

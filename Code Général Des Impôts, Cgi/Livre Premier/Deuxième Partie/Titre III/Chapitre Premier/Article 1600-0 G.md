@@ -4,11 +4,9 @@ I. Les personnes physiques désignées à l'article L. 136-1 du code de la sécu
 sociale sont assujetties à une contribution perçue à compter de 1996 et assise
 sur les revenus du patrimoine définis au I de l'article L. 136-6 du même code.
 
-Cette contribution est établie chaque année, sous réserve des revenus des
-placements visés aux 3 et 4 du I de l'article 1600-0 J autres que les contrats
-en unités de comptes, sur les revenus de l'année précédente. Toutefois, la
-contribution due sur les revenus de la première année d'imposition est assise
-sur les onze douzièmes des revenus de l'année 1995.
+Cette contribution est établie chaque année sur les revenus de l'année
+précédente. Toutefois, la contribution due sur les revenus de la première année
+d'imposition est assise sur les onze douzièmes des revenus de l'année 1995.
 
 Elle est établie, recouvrée et contrôlée dans les conditions et selon les
 modalités prévues au III de l'article L. 136-6 du code de la sécurité sociale, à

@@ -36,7 +36,13 @@ sécurité sociale en vigueur à la date du versement des indemnités ;
 
 b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention
 collective de branche, par l'accord professionnel ou interprofessionnel ou, à
-défaut, par la loi.
+défaut, par la loi ;
+
+5° La fraction des indemnités de départ volontaire versées aux salariés dans le
+cadre d'un accord collectif de gestion prévisionnelle des emplois et des
+compétences dans les conditions prévues au II de l'article L. 320-2 du code du
+travail, n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du
+code de la sécurité sociale en vigueur à la date du versement des indemnités.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à
 l'occasion de la cessation de leurs fonctions, aux mandataires sociaux,

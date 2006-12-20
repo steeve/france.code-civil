@@ -23,4 +23,6 @@ Avant d'être installé, l'agent comptable doit fournir en garantie un
 cautionnement.
 
 Les opérations et les contrôles dont il assume la responsabilité sont précisés
-par décret.
+par décret. Ce décret précise également les conséquences de la mise en oeuvre
+des articles L. 216-2-1 et L. 216-2-2 sur la responsabilité des agents
+comptables concernés.

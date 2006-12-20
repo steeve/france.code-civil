@@ -2,17 +2,18 @@ Article L6211-2-1
 ----
 Les laboratoires établis dans un autre Etat membre de la Communauté européenne
 ou partie à l'accord sur l'Espace économique européen peuvent effectuer des
-analyses de biologie médicale au sens de l'article L. 6211-1 à destination de
-patients résidant en France.
+analyses de biologie médicale au sens de l'article L. 6211-1 sur des
+prélèvements réalisés en France à destination d'assurés d'un régime français de
+sécurité sociale dans les conditions définies aux alinéas suivants.
 
-L'exécution de ces actes est subordonnée à :
+Lorsque le laboratoire est installé dans un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen dont les
+conditions d'autorisation ou d'agrément ont été préalablement reconnues
+équivalentes à celles du présent livre, il adresse une déclaration attestant
+qu'il bénéficie d'une autorisation ou d'un agrément délivré par les autorités
+compétentes.
 
-1° Une déclaration préalable fournie par les laboratoires certifiant que les
-conditions de leur fonctionnement sont conformes aux dispositions applicables
-dans l'Etat membre ou partie de leur implantation, et que les personnels qui y
-exercent sont titulaires des diplômes, certificats ou autres titres requis pour
-cette activité ;
-
-2° L'obtention d'une autorisation administrative qui leur est délivrée après
-vérification que leurs conditions de fonctionnement sont équivalentes à celles
-définies par le présent livre.
+Lorsque le laboratoire ne répond pas aux conditions définies au deuxième alinéa,
+l'exécution des analyses est subordonnée à l'obtention d'une autorisation
+administrative qui lui est délivrée après vérification que ses conditions de
+fonctionnement sont équivalentes à celles définies par le présent livre.

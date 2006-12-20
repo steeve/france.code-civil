@@ -6,3 +6,6 @@ mentionnées aux a, b et f du 2° de l'article L. 412-8 qui n'excède pas, au ti
 d'un mois civil, le produit d'un pourcentage, fixé par décret, du plafond
 horaire défini en application du premier alinéa de l'article L. 241-3 et du
 nombre d'heures de stage effectuées au cours du mois considéré.
+
+Les dispositions de l'alinéa précédent ne donnent pas lieu à application de
+l'article L. 131-7.

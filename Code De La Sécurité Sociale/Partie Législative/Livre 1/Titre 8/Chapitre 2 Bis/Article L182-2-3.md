@@ -8,9 +8,9 @@ Le conseil délibère sur :
 proposition du collège des directeurs ;
 
 3° Les orientations de l'union relatives aux inscriptions d'actes et de
-prestations prévues à l'article L. 162-1-7, sur la base des principes généraux
-définis annuellement par les ministres chargés de la santé et de la sécurité
-sociale ;
+prestations prévues aux articles L. 162-1-7 et L. 162-1-7-2 sur la base des
+principes généraux définis annuellement par les ministres chargés de la santé et
+de la sécurité sociale ;
 
 4° Les orientations relatives à la négociation des accords, contrats et
 conventions qui sont de la compétence de l'union ;

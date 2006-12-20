@@ -1,9 +1,9 @@
 Article L216-6
 ----
-Les caisses primaires et régionales d'assurance maladie, la caisse régionale
-d'assurance vieillesse des travailleurs salariés de Strasbourg et les caisses
-d'allocations familiales peuvent confier à des agents agréés dans les conditions
-fixées à l'article L. 243-7 et assermentés le soin de procéder à toutes
-vérifications ou enquêtes administratives concernant l'attribution des
-prestations et la tarification des accidents du travail et des maladies
-professionnelles.
+Le directeur et l'agent comptable sont nommés et il peut être mis fin à leurs
+fonctions dans les conditions prévues à l'article L. 217-3-1. Toutefois, les
+décisions relatives à la nomination ou à la cessation de fonctions sont prises
+conjointement par les directeurs des caisses nationales concernées. Les mêmes
+directeurs exercent sur cette caisse les compétences visées au douzième alinéa
+de l'article L. 221-3-1 et à l'avant-dernier alinéa de l'article L. 227-3, le
+cas échéant par décision conjointe.

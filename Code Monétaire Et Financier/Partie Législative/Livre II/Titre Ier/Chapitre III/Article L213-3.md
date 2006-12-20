@@ -31,8 +31,10 @@ conditions prévues pour l'émission d'obligations par appel public à l'épargn
 
 8. Les Etats ;
 
-9. Les fonds communs de créances.
+9. Les fonds communs de créances ;
+
+10. L'Agence centrale des organismes de sécurité sociale.
 
 Un décret précise les conditions que doivent remplir les émetteurs mentionnés
-aux 2, 3, 4, 5, 6, 7, 8 et 9 et fixe les conditions d'émission des titres de
+aux 2, 3, 4, 5, 6, 7, 8, 9 et 10 et fixe les conditions d'émission des titres de
 créances négociables.

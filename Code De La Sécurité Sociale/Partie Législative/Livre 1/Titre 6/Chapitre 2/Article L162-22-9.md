@@ -13,12 +13,11 @@ contenu de cet objectif est défini par décret.
 Le montant de cet objectif commun est arrêté par l'Etat en fonction de
 l'objectif national de dépenses d'assurance maladie.
 
-Cet objectif prend en compte, outre la part mentionnée à l'article L. 162-43,
-les évolutions de toute nature à l'issue desquelles des établissements de santé
-ou des services ou des activités de ces établissements se trouvent placés pour
-tout ou partie sous un régime juridique ou de financement différent de celui
-sous lequel ils étaient placés auparavant, notamment celles relatives aux
-conversions d'activité.
+Cet objectif prend en compte les évolutions de toute nature à la suite
+desquelles des établissements, des services ou des activités sanitaires ou
+médico-sociaux se trouvent placés pour tout ou partie sous un régime juridique
+ou de financement différent de celui sous lequel ils étaient placés auparavant,
+notamment celles relatives aux conversions d'activité.
 
 II. - Un décret en Conseil d'Etat précise les modalités selon lesquelles, chaque
 année, sont déterminés les éléments mentionnés aux 1° à 3° du I de l'article L.

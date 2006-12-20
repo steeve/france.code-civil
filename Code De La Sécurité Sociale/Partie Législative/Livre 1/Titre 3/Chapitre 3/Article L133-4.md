@@ -14,6 +14,12 @@ Il en est de même en cas de facturation en vue du remboursement, par les
 organismes d'assurance maladie, d'un acte non effectué ou de prestations et
 produits non délivrés.
 
+Lorsque le professionnel ou l'établissement faisant l'objet de la notification
+d'indu est également débiteur à l'égard de l'assuré ou de son organisme
+complémentaire, l'organisme de prise en charge peut récupérer la totalité de
+l'indu. Il restitue à l'assuré et, le cas échéant, à son organisme
+complémentaire les montants qu'ils ont versés à tort.
+
 L'action en recouvrement, qui se prescrit par trois ans à compter de la date de
 paiement de la somme indue, s'ouvre par l'envoi au professionnel ou à
 l'établissement d'une notification de payer le montant réclamé ou de produire,

@@ -9,7 +9,3 @@ mentionnées à l'alinéa précédent une organisation de sécurité sociale dot
 l'ensemble des attributions définies à l'article L. 111-1. Cette organisation
 peut comporter l'intervention de l'organisation générale de la sécurité sociale
 pour une partie des prestations.
-
-Les administrateurs des organismes de sécurité sociale relevant des régimes
-spéciaux sont désignés par voie d'élection à la représentation proportionnelle
-[*mode de scrutin*] suivant les modalités définies pour chacun de ces régimes.

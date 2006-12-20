@@ -4,7 +4,7 @@ Article 102 ter
 commerciaux d'un montant annuel, ajusté s'il y a lieu au prorata du temps
 d'activité au cours de l'année civile, n'excédant pas 27 000 euros hors taxes
 est égal au montant brut des recettes annuelles diminué d'une réfaction
-forfaitaire de 25 % avec un minimum de 305 euros.
+forfaitaire de 34 % avec un minimum de 305 euros.
 
 Les plus ou moins-values provenant de la cession des biens affectés à
 l'exploitation sont prises en compte distinctement pour l'assiette de l'impôt

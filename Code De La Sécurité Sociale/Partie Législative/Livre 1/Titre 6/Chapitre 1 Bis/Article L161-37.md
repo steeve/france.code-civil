@@ -28,7 +28,10 @@ mentionnées à l'article L. 1414-3-3 du code de la santé publique ;
 la santé publique ;
 
 5° Participer au développement de l'évaluation de la qualité de la prise en
-charge sanitaire de la population par le système de santé.
+charge sanitaire de la population par le système de santé ;
+
+6° Rendre un avis sur tout projet de loi ou de décret instituant des modes
+particuliers de soins préventifs ou curatifs.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence française de sécurité sanitaire des produits de

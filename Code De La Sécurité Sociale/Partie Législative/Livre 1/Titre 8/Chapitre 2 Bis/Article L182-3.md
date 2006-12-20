@@ -27,3 +27,6 @@ nationale des caisses d'assurance maladie examinent conjointement leurs
 programmes annuels de négociations avec les professionnels et les centres de
 santé portant sur leur champ respectif. Elles déterminent annuellement les
 actions communes menées en matière de gestion du risque.
+
+L'Union nationale des organismes d'assurance maladie complémentaire peut être
+constituée sous la forme d'une association régie par la loi du 1er juillet 1901.

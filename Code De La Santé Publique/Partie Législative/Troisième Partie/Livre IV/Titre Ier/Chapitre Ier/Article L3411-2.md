@@ -3,8 +3,9 @@ Article L3411-2
 Les dépenses de prévention résultant du présent livre, les dépenses de soins
 entraînées par l'application des articles L. 3414-1 et L. 3423-1 à L. 3424-2,
 ainsi que les dépenses d'aménagement des établissements de cure sont prises en
-charge par l'Etat, à l'exclusion des dépenses mentionnées au sixième alinéa de
-l'article L. 314-8 du code de l'action sociale et des familles.
+charge par l'Etat, à l'exclusion des dépenses médico-sociales des centres de
+soins, d'accompagnement et de prévention en addictologie mentionnées à l'article
+L. 314-8 du code de l'action sociale et des familles.
 
 Toutefois, lorsque la cure de désintoxication est réalisée avec hébergement dans
 un établissement de santé, les dépenses afférentes à la cure sont prises en

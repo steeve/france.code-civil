@@ -7,9 +7,9 @@ chargé de la santé et de la sécurité sociale et, en tant que de besoin, des
 ministres intéressés.
 
 Dans le cadre de ce programme sont prévus des consultations médicales
-périodiques de prévention et des examens de dépistage, dont la liste est fixée
-par arrêté du ministre chargé de la santé, ainsi que des actions d'information
-et d'éducation pour la santé.
+périodiques de prévention et des examens de dépistage, dont la liste est fixée,
+après avis de la Haute Autorité de santé, par arrêté du ministre chargé de la
+santé, ainsi que des actions d'information et d'éducation pour la santé.
 
 Les personnes handicapées bénéficient de consultations médicales de prévention
 supplémentaires spécifiques. Elles y reçoivent une expertise médicale qui leur

@@ -23,7 +23,9 @@ représentant de l'Etat assiste à leurs travaux.
 Les conditions d'inscription d'un acte ou d'une prestation, leur inscription et
 leur radiation sont décidées par l'Union nationale des caisses d'assurance
 maladie, après avis de la Haute Autorité de santé et de l'Union nationale des
-organismes d'assurance maladie complémentaire.
+organismes d'assurance maladie complémentaire. L'avis de la Haute Autorité de
+santé n'est pas nécessaire lorsque la décision ne modifie que la hiérarchisation
+d'un acte ou d'une prestation.
 
 Les décisions de l'Union nationale des caisses d'assurance maladie sont réputées
 approuvées sauf opposition motivée des ministres chargés de la santé et de la

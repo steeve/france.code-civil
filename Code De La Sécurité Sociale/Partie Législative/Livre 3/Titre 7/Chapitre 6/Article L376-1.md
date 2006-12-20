@@ -11,14 +11,19 @@ Les caisses de sécurité sociale sont tenues de servir à l'assuré ou à ses a
 droit les prestations prévues par le présent livre, sauf recours de leur part
 contre l'auteur responsable de l'accident dans les conditions ci-après.
 
-Si la responsabilité du tiers est entière ou si elle est partagée avec la
-victime, la caisse est admise à poursuivre le remboursement des prestations
-mises à sa charge à due concurrence de la part d'indemnité mise à la charge du
-tiers qui répare l'atteinte à l'intégrité physique de la victime, à l'exclusion
-de la part d'indemnité, de caractère personnel, correspondant aux souffrances
-physiques ou morales par elle endurées et au préjudice esthétique et d'agrément.
-De même, en cas d'accident suivi de mort, la part d'indemnité correspondant au
-préjudice moral des ayants droit leur demeure acquise.
+Les recours subrogatoires des caisses contre les tiers s'exercent poste par
+poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en
+charge, à l'exclusion des préjudices à caractère personnel.
+
+Conformément à l'article 1252 du code civil, la subrogation ne peut nuire à la
+victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en
+charge que partiellement par les prestations sociales ; en ce cas, l'assuré
+social peut exercer ses droits contre le responsable, par préférence à la caisse
+subrogée.
+
+Cependant, si le tiers payeur établit qu'il a effectivement et préalablement
+versé à la victime une prestation indemnisant de manière incontestable un poste
+de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.
 
 Hors le cas où la caisse est appelée en déclaration de jugement commun
 conformément aux dispositions ci-après, la demande de la caisse vis-à-vis du
@@ -38,12 +43,12 @@ les conditions déterminées par le même décret.
 L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure,
 la qualité d'assuré social de la victime de l'accident ainsi que les caisses de
 sécurité sociale auxquelles celle-ci est ou était affiliée pour les divers
-risques. Ils doivent appeler ces caisses en déclaration de jugement commun. A
-défaut du respect de l'une de ces obligations, la nullité du jugement sur le
-fond pourra être demandée pendant deux ans, à compter de la date à partir de
-laquelle ledit jugement est devenu définitif, soit à la requête du ministère
-public, soit à la demande des caisses de sécurité sociale intéressées ou du
-tiers responsable, lorsque ces derniers y auront intérêt.
+risques. Ils doivent appeler ces caisses en déclaration de jugement commun ou
+réciproquement. A défaut du respect de l'une de ces obligations, la nullité du
+jugement sur le fond pourra être demandée pendant deux ans, à compter de la date
+à partir de laquelle ledit jugement est devenu définitif, soit à la requête du
+ministère public, soit à la demande des caisses de sécurité sociale intéressées
+ou du tiers responsable, lorsque ces derniers y auront intérêt.
 
 En contrepartie des frais qu'elle engage pour obtenir le remboursement mentionné
 au troisième alinéa ci-dessus, la caisse d'assurance maladie à laquelle est
@@ -66,4 +71,4 @@ livre II applicables au recouvrement des cotisations de sécurité sociale.
 Lorsque l'assuré victime de l'accident est affilié au régime agricole,
 l'indemnité est recouvrée selon les règles et sous les garanties et sanctions
 prévues aux chapitres 2, 3 et 4 du titre IV du livre Ier ainsi qu'à l'article
-1143-2 du code rural.
+1143-2 (1) du code rural.

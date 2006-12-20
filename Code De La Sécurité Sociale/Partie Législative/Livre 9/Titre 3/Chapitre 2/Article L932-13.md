@@ -24,3 +24,7 @@ La prescription est portée à dix ans lorsque, pour les opérations mentionnée
 a de l'article L. 931-1, le bénéficiaire n'est pas le participant et, dans les
 opérations relatives à la couverture du risque accident, lorsque les
 bénéficiaires sont les ayants droit du participant décédé.
+
+Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les
+actions du bénéficiaire sont prescrites au plus tard trente ans à compter du
+décès du membre participant.

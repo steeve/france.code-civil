@@ -99,12 +99,6 @@ contrat ;
 
 10. (Abrogé)
 
-II. Les dispositions du I ne sont pas applicables aux revenus visés au 3
-s'agissant des seuls contrats en unités de comptes et aux 5 à 9, lorsque ces
-revenus entrent dans le champ d'application de l'article 1600-0 G (1).
+II. Abrogé
 
 III. (sans objet).
-
-l'article 157, lors de l'expiration du contrat ;
-
-10. (Abrogé)

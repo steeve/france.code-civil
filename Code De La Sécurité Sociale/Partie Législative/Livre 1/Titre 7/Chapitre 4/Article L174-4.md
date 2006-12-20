@@ -9,7 +9,9 @@ protection sociale, sauf dans le cas des enfants et adolescents handicapés
 hébergés dans des établissements d'éducation spéciale ou professionnelle, des
 victimes d'accidents du travail et de maladies professionnelles, des
 bénéficiaires de l'assurance maternité et des bénéficiaires de l'article L. 115
-du code des pensions militaires d'invalidité et des victimes de la guerre.
+du code des pensions militaires d'invalidité et des victimes de la guerre, ainsi
+que des donneurs d'éléments et produits du corps humain mentionnés à l'article
+L. 1211-2 du code de la santé publique.
 
 Le forfait journalier peut être modulé dans des conditions fixées par décret en
 Conseil d'Etat, en fonction de l'un ou de plusieurs des critères suivants :

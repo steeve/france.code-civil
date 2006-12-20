@@ -7,8 +7,10 @@ Les ressources de la Haute Autorité sont constituées notamment par :
 
 1° Des subventions de l'Etat ;
 
-2° Une dotation globale versée dans des conditions prévues par l'article L.
-174-2 ;
+2° Une dotation des régimes obligatoires d'assurance maladie dont le montant est
+fixé chaque année par arrêté des ministres chargés de la santé et de la sécurité
+sociale, versée et répartie dans les conditions prévues aux articles L.
+162-22-15 et L. 174-2 ;
 
 3° Le produit des redevances pour services rendus, dont les montants sont
 déterminés sur proposition du directeur par le collège ;
@@ -21,14 +23,20 @@ code de la santé publique ;
 
 6° Des produits divers, des dons et legs ;
 
-7° Une contribution financière due par les établissements de santé à l'occasion
-de la procédure prévue par les articles L. 6113-3 et L. 6113-4 du code de la
-santé publique. Le montant de cette contribution est fixé par décret. Il est
-fonction du nombre, déterminé au 31 décembre de l'année qui précède la visite de
-certification, de lits et de places de l'établissement, autorisés en application
-de l'article L. 6122-1 du même code, ainsi que du nombre de sites concernés par
-la procédure de certification. Il ne peut être inférieur à 2 286 Euros, ni
-supérieur à 53 357 Euros. Cette contribution est exigible dès la notification de
-la date de la visite de certification. Elle est recouvrée selon les modalités
+7° Une contribution financière due par les établissements de santé ainsi que par
+les groupements, réseaux et installations de chirurgie esthétique à l'occasion
+de la procédure prévue par les articles L. 6113-3, L. 6113-4 et L. 6322-1 du
+code de la santé publique au titre de chacun de leurs sites d'implantation
+donnant lieu à certification. La certification des installations de chirurgie
+esthétique implantées dans les établissements de santé ne donne pas lieu à
+versement d'une contribution distincte.
+
+Les montants de cette contribution sont fixés par arrêté conjoint des ministres
+chargés de la santé et de la sécurité sociale en fonction du nombre cumulé des
+journées d'hospitalisation et des venues dans l'établissement de santé, le
+groupement, le réseau ou l'installation de chirurgie esthétique au cours de
+l'année précédant la visite. Ils ne peuvent être inférieurs à 2 500 euros, ni
+supérieurs à 55 000 euros. Cette contribution est exigible dès la notification
+de la date de la visite de certification. Elle est recouvrée selon les modalités
 prévues pour le recouvrement des créances des établissements publics
 administratifs de l'Etat.

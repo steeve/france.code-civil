@@ -19,3 +19,7 @@ La prescription est portée à dix ans dans les contrats d'assurance sur la vie
 lorsque le bénéficiaire est une personne distincte du souscripteur et, dans les
 contrats d'assurance contre les accidents atteignant les personnes, lorsque les
 bénéficiaires sont les ayants droit de l'assuré décédé.
+
+Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les
+actions du bénéficiaire sont prescrites au plus tard trente ans à compter du
+décès de l'assuré.

@@ -1,6 +1,6 @@
 Article L1511-8
 ----
-I. - Les collectivités territoriales et leurs groupements peuvent attribuer des
+I.-Les collectivités territoriales et leurs groupements peuvent attribuer des
 aides destinées à favoriser l'installation ou le maintien de professionnels de
 santé dans les zones définies à l'article L. 162-47 du code de la sécurité
 sociale, dans lesquelles est constaté un déficit en matière d'offre de soins. A
@@ -21,8 +21,8 @@ Les collectivités territoriales et leurs groupements peuvent aussi attribuer de
 aides visant à financer des structures participant à la permanence des soins,
 notamment des maisons médicales.
 
-Les investissements immobiliers réalisés par les communes et/ou leurs
-groupements, destinés à l'installation des professionnels de santé et/ou à
+Les investissements immobiliers réalisés par les communes et / ou leurs
+groupements, destinés à l'installation des professionnels de santé et / ou à
 l'action sanitaire et sociale, sont éligibles au Fonds de compensation pour la
 taxe sur la valeur ajoutée.
 
@@ -35,12 +35,13 @@ est constaté un déficit en matière d'offre de soins.
 Un décret détermine le montant maximal et les modalités d'attribution de ces
 indemnités.
 
-II. - Une indemnité d'étude et de projet professionnel peut être attribuée par
-les collectivités territoriales et leurs groupements à tout étudiant en
-médecine, à partir de la première année du troisième cycle, s'il s'engage à
-exercer comme médecin généraliste au moins cinq années dans l'une des zones
-déficitaires mentionnées au premier alinéa du I. Pour bénéficier de cette aide,
-l'étudiant signe un contrat avec la collectivité qui attribue l'aide.
+II.-Une indemnité d'étude et de projet professionnel peut être attribuée par les
+collectivités territoriales et leurs groupements à tout étudiant, titulaire du
+concours de médecine, inscrit en faculté de médecine ou de chirurgie dentaire,
+s'il s'engage à exercer en tant que médecin généraliste, spécialiste ou
+chirurgien-dentiste au moins cinq années dans l'une des zones déficitaires
+mentionnées au premier alinéa du I. Pour bénéficier de cette aide, l'étudiant
+signe un contrat avec la collectivité qui attribue l'aide.
 
 Les conditions générales d'attribution de l'indemnité, son montant maximal ainsi
 que, le cas échéant, les modalités de son remboursement total ou partiel et de

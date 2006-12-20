@@ -1,7 +1,7 @@
 Article L637-1
 ----
-Les personnes condamnées en application de l'article L. 652-7 sont inéligibles
-pour une durée de six ans :
+Les personnes condamnées en application de l'article L. 114-18 ou de l'article
+L. 652-7 sont inéligibles pour une durée de six ans :
 
 - aux chambres de commerce et d'industrie ;
 

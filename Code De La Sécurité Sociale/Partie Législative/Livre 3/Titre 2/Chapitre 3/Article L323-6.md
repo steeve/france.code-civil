@@ -8,8 +8,9 @@ bénéficiaire :
 2° De se soumettre aux contrôles organisés par le service du contrôle médical
 prévus à l'article L. 315-2 ;
 
-3° De respecter les heures de sorties autorisées par le praticien, qui ne
-peuvent excéder trois heures consécutives par jour ;
+3° De respecter les heures de sorties autorisées par le praticien selon des
+règles et des modalités prévues par décret en Conseil d'Etat après avis de la
+Haute Autorité de santé ;
 
 4° De s'abstenir de toute activité non autorisée.
 

@@ -19,3 +19,10 @@ européenne peuvent également être prises en compte ;
 régime général à quelque titre que ce soit, au titre desquelles il est retenu,
 en application du deuxième alinéa de l'article L. 351-1, un nombre de trimestres
 inférieur à quatre.
+
+Les versements mentionnés aux 1° et 2° qui sont utilisés pour compléter la durée
+d'assurance ou de périodes reconnues équivalentes, ou pour compléter la durée
+d'assurance ayant donné lieu à cotisations à la charge de l'assuré, afin de lui
+ouvrir le bénéfice des dispositions de l'article L. 351-1-1, font l'objet d'un
+barème spécifique. Ce barème est établi dans le respect du principe de
+neutralité actuarielle.

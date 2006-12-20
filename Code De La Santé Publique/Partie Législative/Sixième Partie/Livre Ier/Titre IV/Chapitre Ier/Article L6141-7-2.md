@@ -1,9 +1,7 @@
 Article L6141-7-2
 ----
 Des conseillers généraux des établissements de santé, placés auprès du ministre
-chargé de la santé, assurent à sa demande, dans le cadre d'une mission de
-coordination financée par le Fonds pour la modernisation des établissements de
-santé publics et privés, les attributions suivantes :
+chargé de la santé, assurent à sa demande les attributions suivantes :
 
 1° Proposer au ministre toutes mesures propres à améliorer le fonctionnement de
 ces établissements et leurs relations avec les collectivités territoriales, les

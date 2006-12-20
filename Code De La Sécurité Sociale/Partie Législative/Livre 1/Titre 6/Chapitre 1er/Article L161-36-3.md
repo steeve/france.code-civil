@@ -1,7 +1,8 @@
 Article L161-36-3
 ----
 L'accès au dossier médical personnel ne peut être exigé en dehors des cas prévus
-à l'article L. 161-36-2, même avec l'accord de la personne concernée.
+aux articles L. 161-36-2 et L. 161-36-2-1, même avec l'accord de la personne
+concernée.
 
 L'accès au dossier médical personnel est notamment interdit lors de la
 conclusion d'un contrat relatif à une protection complémentaire en matière de

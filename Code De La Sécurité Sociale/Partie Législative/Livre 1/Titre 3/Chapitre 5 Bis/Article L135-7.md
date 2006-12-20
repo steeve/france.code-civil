@@ -37,4 +37,7 @@ par l'article 2262 du code civil ;
 9° Toute autre ressource affectée au Fonds de réserve pour les retraites ;
 
 10° Le produit des placements effectués au titre du Fonds de réserve pour les
-retraites.
+retraites ;
+
+11° Les sommes acquises à l'Etat conformément au 5° de l'article L. 1126-1 du
+code général de la propriété des personnes publiques.

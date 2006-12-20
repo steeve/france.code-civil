@@ -6,10 +6,10 @@ intentionnelle, la décision attribuant la protection complémentaire est
 rapportée. Le rapport de la décision entraîne la nullité des adhésions et
 contrats prévus au b de l'article L. 861-4.
 
-II. - Paragraphe abrogé
+II. - Paragraphe abrogé.
 
 III. - Toute infraction aux prescriptions des articles L. 861-3 et L. 861-8 est
-punie d'une amende de 15000 euros.
+punie d'une amende de 15 000 euros.
 
 IV. - Les organismes prévus à l'article L. 861-4 peuvent obtenir le
 remboursement des prestations qu'ils ont versées à tort. En cas de précarité de

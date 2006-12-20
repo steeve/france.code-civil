@@ -1,39 +1,48 @@
 Article L4111-2
 ----
-I. - A compter du 1er janvier 2002, le ministre chargé de la santé peut, après
-avis d'une commission comprenant notamment des délégués des conseils nationaux
-des ordres et des organisations nationales des professions intéressées, choisis
-par ces organismes, autoriser individuellement à exercer les personnes
-françaises ou étrangères titulaires d'un diplôme, titre ou certificat de valeur
-scientifique attestée par le ministre chargé de l'enseignement supérieur. Ces
-personnes doivent avoir été classées en rang utile à des épreuves de
-vérification des connaissances qui, en ce qui concerne les médecins, sont
-organisées pour une ou plusieurs disciplines ou spécialités. La commission doit
-rendre un avis dans l'année suivant le dépôt de la candidature.
+I. - Le ministre chargé de la santé peut, après avis d'une commission comprenant
+notamment des délégués des conseils nationaux des ordres et des organisations
+nationales des professions intéressées, choisis par ces organismes, autoriser
+individuellement à exercer les personnes titulaires d'un diplôme, certificat ou
+autre titre permettant l'exercice de la profession de médecin,
+chirurgien-dentiste ou sage-femme dans le pays d'obtention de ce diplôme,
+certificat ou titre.
 
-Les médecins doivent en outre avoir exercé pendant trois ans des fonctions
-hospitalières. Des dispositions réglementaires fixent les conditions
-d'organisation des épreuves de sélection et les modalités d'exercice des
-fonctions hospitalières.
+Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification de
+leur maîtrise de la langue française et des connaissances, organisées par
+profession, discipline ou spécialité. Des dispositions réglementaires fixent les
+conditions d'organisation de ces épreuves. Le nombre maximum de candidats
+susceptibles d'être reçus à ces épreuves pour chaque profession et pour chaque
+discipline ou spécialité est fixé par arrêté du ministre chargé de la santé en
+tenant compte, notamment, de l'évolution des nombres d'étudiants déterminés
+conformément aux dispositions du premier alinéa de l'article L. 631-1 du code de
+l'éducation.
 
-Le ministre chargé de la santé peut également, après avis de ladite commission,
-autoriser individuellement à exercer des ressortissants d'un Etat autre que ceux
-membres de la Communauté européenne ou parties à l'accord sur l'Espace
-économique européen et titulaires d'un diplôme, certificat ou autre titre obtenu
-dans l'un de ces Etats, conformément aux obligations communautaires.
+Le nombre maximum mentionné à l'alinéa précédent n'est pas opposable aux
+réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la
+protection subsidiaire et aux Français ayant regagné le territoire national à la
+demande des autorités françaises.
 
-Le nombre maximum de candidats susceptibles d'être autorisés à exercer pour
-chaque profession et, en ce qui concerne les médecins, pour chaque discipline ou
-spécialité, est fixé par arrêté du ministre chargé de la santé, en accord avec
-la commission susmentionnée. En sus de ce nombre maximum, les réfugiés
-politiques, apatrides et bénéficiaires de l'asile territorial ainsi que les
-Français ayant regagné le territoire national à la demande des autorités
-françaises peuvent être autorisés à exercer par le ministre chargé de la santé
-après avis de la commission susmentionnée et après avis d'un jury de la
-discipline concernée dont les modalités d'organisation sont définies par arrêté.
+Les lauréats, candidats à la profession de médecin, doivent en outre justifier
+de trois ans de fonctions accomplies dans un service ou organisme agréé pour la
+formation des internes. Toutefois, les fonctions exercées avant la réussite à
+ces épreuves peuvent être prises en compte après avis de la commission
+mentionnée au premier alinéa, dans des conditions fixées par voie réglementaire.
 
-Nul ne peut être candidat plus de deux fois aux épreuves de sélection et à
-l'autorisation d'exercice.
+Nul ne peut être candidat plus de deux fois aux épreuves de vérification des
+connaissances et à l'autorisation d'exercice.
+
+I bis. - Le ministre chargé de la santé peut également, après avis de la
+commission mentionnée au I, autoriser individuellement à exercer des
+ressortissants d'un Etat autre que ceux membres de la Communauté européenne ou
+parties à l'accord sur l'Espace économique européen et titulaires d'un diplôme,
+certificat ou autre titre obtenu dans l'un de ces Etats, conformément aux
+obligations communautaires. Le nombre maximum de candidats susceptibles d'être
+autorisés à exercer pour chaque profession et, en ce qui concerne la profession
+de médecin, pour chaque discipline ou spécialité, est fixé par arrêté du
+ministre chargé de la santé.
+
+Nul ne peut être candidat plus de deux fois à l'autorisation d'exercice.
 
 II. - Le ministre chargé de la santé peut également, selon des modalités prévues
 par décret en Conseil d'Etat, autoriser individuellement à exercer la profession

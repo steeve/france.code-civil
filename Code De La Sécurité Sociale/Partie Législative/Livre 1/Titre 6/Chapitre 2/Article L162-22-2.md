@@ -10,12 +10,12 @@ obligatoires d'assurance maladie et tient compte notamment des créations et
 fermetures d'établissements. Le contenu de cet objectif est défini par décret.
 
 Le montant de l'objectif quantifié national est arrêté par l'Etat en fonction de
-l'objectif national de dépenses d'assurance maladie. Ce montant prend en compte,
-outre la part mentionnée à l'article L. 162-43, les évolutions de toute nature à
-la suite desquelles des établissements, des services ou des activités sanitaires
-ou médico-sociaux se trouvent placés pour tout ou partie sous un régime
-juridique ou de financement différent de celui sous lequel ils étaient placés
-auparavant, notamment celles relatives aux conversions d'activité.
+l'objectif national de dépenses d'assurance maladie. Ce montant prend en compte
+les évolutions de toute nature à la suite desquelles des établissements, des
+services ou des activités sanitaires ou médico-sociaux se trouvent placés pour
+tout ou partie sous un régime juridique ou de financement différent de celui
+sous lequel ils étaient placés auparavant, notamment celles relatives aux
+conversions d'activité.
 
 II. - Un décret en Conseil d'Etat, pris après avis des organisations nationales
 les plus représentatives de ces établissements, détermine les modalités selon

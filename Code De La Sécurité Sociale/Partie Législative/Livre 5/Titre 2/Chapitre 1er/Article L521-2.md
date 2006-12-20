@@ -3,6 +3,14 @@ Article L521-2
 Les allocations sont versées à la personne qui assume, dans quelques conditions
 que ce soit, la charge effective et permanente de l'enfant.
 
+En cas de résidence alternée de l'enfant au domicile de chacun des parents telle
+que prévue à l'article 373-2-9 du code civil, mise en oeuvre de manière
+effective, les parents désignent l'allocataire. Cependant, la charge de l'enfant
+pour le calcul des allocations familiales est partagée par moitié entre les deux
+parents soit sur demande conjointe des parents, soit si les parents sont en
+désaccord sur la désignation de l'allocataire. Un décret en Conseil d'Etat fixe
+les conditions d'application du présent alinéa.
+
 Lorsque la personne qui assume la charge effective et permanente de l'enfant ne
 remplit pas les conditions prévues au titre I du présent livre pour l'ouverture
 du droit aux allocations familiales, ce droit s'ouvre du chef du père ou, à

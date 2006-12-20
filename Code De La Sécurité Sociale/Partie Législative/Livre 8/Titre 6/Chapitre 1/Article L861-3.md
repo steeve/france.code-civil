@@ -27,7 +27,8 @@ la limite du montant des frais pris en charge.
 
 Les personnes mentionnées à l'article L. 861-1 sont dispensées de l'avance de
 frais pour les dépenses prises en charge par les régimes obligatoires des
-assurances maladie et maternité et celles prévues au présent article.
+assurances maladie et maternité et celles prévues au présent article dans les
+conditions fixées au troisième alinéa de l'article L. 162-16-7.
 
 Les personnes ayant souscrit un acte d'adhésion, transmis à leur caisse
 d'assurance maladie, formalisant leur engagement auprès d'un médecin référent
