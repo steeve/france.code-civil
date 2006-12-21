@@ -1,21 +1,31 @@
 Article R145-2
 ----
-La demande est accompagnée d'un dossier constitué par un rapport et des
-documents graphiques décrivant *contenu*:
+Sont soumises à autorisation du préfet coordonnateur de massif, en application
+du I de l'article L. 145-11, les unités touristiques nouvelles ayant pour objet
+:
 
-1° L'état du site et de son environnement, celui du bâti, des infrastructures et
-des équipements touristiques existants avec leurs conditions de fréquentation
-ainsi que les principales caractéristiques de l'économie locale ;
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque
+ces travaux ont pour effet :
 
-2° Les caractéristiques principales du projet et, notamment, de la demande à
-satisfaire, des produits touristiques visés, des modes d'exploitation et de
-promotion des hébergements et des équipements touristiques ;
+a) La création d'un nouveau domaine skiable alpin ;
 
-3° Les risques naturels auxquels le projet peut être exposé ainsi que leurs
-mesures nécessaires pour en assurer la prévention ;
+b) L'augmentation de la superficie totale d'un domaine skiable alpin existant,
+dès lors que cette augmentation est supérieure ou égale à 100 hectares ;
 
-4° Les effets prévisibles du projet sur l'économie agricole, les peuplements
-forestiers et l'environnement ainsi que les mesures de protection et de
-réhabilitation à prévoir et l'estimation de leur coût ;
+2° Des opérations de construction ou d'extension d'hébergements et d'équipements
+touristiques d'une surface de plancher hors oeuvre nette totale supérieure à 12
+000 mètres carrés, à l'exclusion des logements à destination des personnels
+saisonniers ou permanents des équipements et hébergements touristiques ;
 
-5° Les conditions générales de l'équilibre économique et financier du projet.
+3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1
+du code de l'environnement :
+
+a) L'aménagement, la création et l'extension de terrains de golf ;
+
+b) L'aménagement de terrains de camping ;
+
+c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés
+;
+
+d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver
+alpins, lorsque les pistes ne font pas partie du domaine skiable visé au 1°.

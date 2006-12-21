@@ -41,6 +41,6 @@ Lorsque les documents graphiques délimitent des espaces ou sites à protéger e
 application du 2° ci-dessus, ils doivent permettre d'identifier les terrains
 inscrits dans ces limites.
 
-En zone de montagne, le schéma de cohérence territoriale précise, le cas
-échéant, l'implantation et l'organisation générale des unités touristiques
-nouvelles.
+En zone de montagne, le schéma de cohérence territoriale désigne, le cas
+échéant, les plans d'eau de faible importance auxquels il est décidé de faire
+application du huitième alinéa de l'article L. 145-5.

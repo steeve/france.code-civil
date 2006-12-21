@@ -1,25 +1,28 @@
 Article R145-6
 ----
-Dès la notification prévue au I de l'article R. 145-5, le préfet du département
-prescrit par arrêté la mise à la disposition du public du dossier joint à la
-demande de création d'unité touristique nouvelle.
+La demande est accompagnée d'un dossier comportant un rapport et des documents
+graphiques précisant :
 
-Cet arrêté, qui est publié au recueil des actes administratifs du département,
-fixe :
+1° L'état des milieux naturels, des paysages, du site et de son environnement,
+comprenant le cas échéant l'historique de l'enneigement local, l'état du bâti,
+des infrastructures et des équipements touristiques existants avec leurs
+conditions de fréquentation, ainsi que les principales caractéristiques de
+l'économie locale ;
 
-a) la date à compter de laquelle le dossier est tenu à la disposition du public
-et la durée pendant laquelle il peut être consulté, qui ne peut être inférieure
-à un mois ;
+2° Les caractéristiques principales du projet et, notamment, de la demande à
+satisfaire, des modes d'exploitation et de promotion des hébergements et des
+équipements, ainsi que, lorsque le projet porte sur la création ou l'extension
+de remontées mécaniques, les caractéristiques du domaine skiable, faisant
+apparaître les pistes nouvelles susceptibles d'être créées ;
 
-b) les heures et lieux où le public peut prendre connaissance du dossier et
-formuler ses observations sur un ou plusieurs registres ouverts à cet effet.
+3° Les risques naturels auxquels le projet peut être exposé ainsi que les
+mesures nécessaires pour les prévenir ;
 
-Mention de l'arrêté ainsi que la date à laquelle la commission spécialisée du
-comité de massif examinera la demande est insérée une semaine au moins avant le
-début de la consultation du public dans deux journaux diffusés dans le
-département et affichée dans les mairies des communes intéressées et, le cas
-échéant, au siège de l'établissement public compétent en matière d'urbanisme.
+4° Les effets prévisibles du projet sur le trafic et la circulation locale,
+l'économie agricole, les peuplements forestiers, les terres agricoles,
+pastorales et forestières, les milieux naturels, les paysages et
+l'environnement, notamment la ressource en eau et la qualité des eaux, ainsi que
+les mesures de suppression, compensation et réhabilitation à prévoir, et
+l'estimation de leur coût ;
 
-Le préfet du département adresse au président et aux membres de la commission
-spécialisée du comité de massif quinze jours au moins avant la date fixée pour
-l'examen de la demande un compte rendu des observations recueillies.
+5° Les conditions générales de l'équilibre économique et financier du projet.

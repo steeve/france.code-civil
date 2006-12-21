@@ -76,3 +76,7 @@ Les règles mentionnées aux 6° et 7° relatives à l'implantation des construc
 par rapport aux voies et emprises publiques et par rapport aux limites
 séparatives, qui ne sont pas fixées dans le règlement, doivent figurer dans les
 documents graphiques.
+
+En zone de montagne, le règlement désigne, le cas échéant, les plans d'eau de
+faible importance auxquels il est décidé de faire application du huitième alinéa
+de l'article L. 145-5.

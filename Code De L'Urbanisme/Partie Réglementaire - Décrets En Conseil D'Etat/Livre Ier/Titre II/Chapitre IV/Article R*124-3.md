@@ -10,6 +10,10 @@ en valeur des ressources naturelles.
 Ils peuvent préciser qu'un secteur est réservé à l'implantation d'activités,
 notamment celles qui sont incompatibles avec le voisinage des zones habitées.
 
+En zone de montagne, ils indiquent, le cas échéant, les plans d'eau de faible
+importance auxquels il est décidé de faire application du huitième alinéa de
+l'article L. 145-5.
+
 Ils délimitent, s'il y a lieu, les secteurs dans lesquels la reconstruction à
 l'identique d'un bâtiment détruit par un sinistre n'est pas autorisée.
 

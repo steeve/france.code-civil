@@ -8,6 +8,7 @@ Les documents et décisions mentionnées au dernier alinéa de l'article L. 122-
 doivent être compatibles avec le document d'orientations générales et les
 documents graphiques dont il est assorti.
 
-En zone de montagne, il comporte, s'il y a lieu, l'étude prévue au a du III de
-l'article L. 145-3. Les plans locaux d'urbanisme et les cartes communales
-doivent respecter les conclusions de cette étude.
+En zone de montagne, il comporte, s'il y a lieu, les études prévues au a du III
+de l'article L. 145-3 et au troisième alinéa de l'article L. 145-5. Les plans
+locaux d'urbanisme et les cartes communales doivent respecter les conclusions de
+cette étude.

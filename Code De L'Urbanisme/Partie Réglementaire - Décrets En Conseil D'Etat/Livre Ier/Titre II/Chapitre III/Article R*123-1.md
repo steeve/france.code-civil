@@ -6,7 +6,8 @@ que des documents graphiques. Il peut comporter en outre des orientations
 d'aménagement relatives à des quartiers ou à des secteurs, assorties le cas
 échéant de documents graphiques.
 
-En zone de montagne, il comporte, s'il y a lieu, l'étude prévue au a du III de
-l'article L. 145-3.
+Il comporte, s'il y a lieu, l'étude prévue au huitième alinéa de l'article L.
+111-1-4 et, en zone de montagne, les études prévues au a du III de l'article L.
+145-3 et au troisième alinéa de l'article L. 145-5.
 
-Il est accompagné d'annexes.
+Le plan local d'urbanisme est accompagné d'annexes.

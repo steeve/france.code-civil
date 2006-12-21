@@ -1,7 +1,6 @@
 Article R145-1
 ----
-Dans le cas prévu à l'article L. 145-11 du code de l'urbanisme, la demande
-d'autorisation de créer une unité touristique nouvelle est présentée par la
-commune ou les communes ou le groupement de communes sur le territoire
-desquelles s'étend l'emprise du projet ; elle peut porter simultanément sur
-plusieurs opérations.
+Dans les communes qui ne sont pas couvertes par un schéma de cohérence
+territoriale, la création et l'extension des unités touristiques nouvelles
+mentionnées au I et au II de l'article L. 145-11 sont soumises à autorisation
+dans les conditions fixées par les articles R. 145-2 à R. 145-10.
