@@ -16,11 +16,20 @@ de suivi et les modalités d'évaluation du fonctionnement de la régulation pr�
 de permanence des soins, ainsi que de l'ensemble du dispositif de permanence de
 soins.
 
+Le cahier des charges précise, le cas échéant, si la permanence des soins est
+organisée pendant les périodes mentionnées aux 1° à 3° de l'article R. 6315-1,
+sur tout ou partie des secteurs du département.
+
 Lorsque le cahier des charges prévoit que la permanence des soins en médecine
 ambulatoire est assurée, pour partie de la période comprise entre 20 heures et 8
 heures, selon des modalités distinctes de celles prévues au premier alinéa de
 l'article R. 6315-1, il précise alors l'organisation prévue pour répondre aux
 demandes de soins.
+
+Lorque le cahier des charges prévoit la participation des médecins d'exercice
+libéral à la régulation au sein du service d'aide médicale urgente en dehors des
+périodes pendant lesquelles la permanence des soins est organisée, il en précise
+les modalités.
 
 Le cahier des charges peut prévoir une mise en commun entre plusieurs secteurs
 des moyens nécessaires pour assurer la permanence des soins.

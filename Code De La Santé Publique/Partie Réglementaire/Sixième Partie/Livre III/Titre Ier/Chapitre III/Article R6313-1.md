@@ -55,6 +55,10 @@ e) Un représentant de l'union régionale des caisses d'assurance maladie ;
 f) Un médecin représentant l'union régionale des médecins exerçant à titre
 libéral ;
 
+g) Un pharmacien représentant le conseil régional de l'ordre des pharmaciens ou,
+dans les départements d'outre-mer, la délégation locale de l'ordre des
+pharmaciens ;
+
 4° De membres nommés, ainsi que leurs suppléants, par le préfet :
 
 a) Un médecin responsable de service d'aide médicale urgente et un médecin
@@ -76,18 +80,27 @@ f) Un représentant de chacune des associations de permanence des soins
 lorsqu'elles interviennent dans le dispositif de permanence des soins au niveau
 départemental ;
 
-g) Deux représentants des organisations d'hospitalisation privée les plus
+g) Un pharmacien d'officine pour chacune des organisations représentatives au
+niveau national, représentées dans le département ou, à défaut, dans la région,
+désigné sur proposition des instances localement compétentes ;
+
+h) Deux représentants des organisations d'hospitalisation privée les plus
 représentatives au plan départemental, dont un représentant les établissements
 privés de santé mentionnés à l'article L. 6161-5 ;
 
-h) Quatre représentants des organisations professionnelles nationales de
+i) Quatre représentants des organisations professionnelles nationales de
 transports sanitaires les plus représentatives au plan départemental ;
 
-i) Un représentant de l'association départementale de transports sanitaires
+j) Un représentant de l'association départementale de transports sanitaires
 d'urgence la plus représentative sur le plan départemental ;
 
-j) Deux praticiens hospitaliers sur proposition des organisations
+k) Deux praticiens hospitaliers sur proposition des organisations
 représentatives au niveau national des médecins exerçant dans les structures des
 urgences hospitalières ;
 
-k) Un représentant des associations d'usagers.
+l) Un médecin sur proposition des organisations représentatives au niveau
+national des médecins exerçant dans les structures de médecine d'urgence des
+établissements privés de santé, lorsqu'elles sont représentées dans le
+département.
+
+m) Un représentant des associations d'usagers.

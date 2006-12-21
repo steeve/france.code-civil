@@ -7,6 +7,16 @@ jours fériés par des médecins de garde et d'astreinte exerçant dans ces cabi
 et centres ainsi que par des médecins appartenant à des associations de
 permanence des soins.
 
+La permanence des soins peut, en outre, être organisée, en fonction des besoins
+de la population évalués à partir de l'activité médicale constatée et de l'offre
+de soins existante, pour tout ou partie des secteurs du département :
+
+1° Le samedi à partir de midi ;
+
+2° Le lundi lorsqu'il précède un jour férié ;
+
+3° Le vendredi et le samedi lorsqu'ils suivent un jour férié.
+
 Toutefois, le cahier des charges mentionné à l'article R. 6315-6 peut prévoir
 que la permanence des soins en médecine ambulatoire est assurée, pour partie de
 la période comprise entre 20 heures et 8 heures, selon des modalités distinctes
