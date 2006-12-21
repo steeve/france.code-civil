@@ -1,13 +1,11 @@
 Article R2142-7
 ----
-L'établissement de santé doit conserver dans le respect de la confidentialité :
+Peuvent seuls conserver des embryons destinés à être accueillis et mettre en
+oeuvre leur accueil, les centres définis à l'article R. 2142-6 réunissant en
+outre les autorisations pour exercer les activités mentionnées au e du 1° et au
+h du 2° de l'article R. 2142-1.
 
-1° La copie des pièces attestant du respect des conditions prévues au troisième
-alinéa de l'article L. 2141-2 ;
-
-2° Le consentement écrit du couple bénéficiaire de l'assistance médicale à la
-procréation, formulé avant la mise en oeuvre de celle-ci et avant le transfert
-de l'embryon ou avant l'insémination, ainsi que, dans le cas où l'intervention
-d'un tiers donneur est nécessaire, la mention de la date et du lieu de la
-déclaration conjointe du couple prévue aux articles 311-20 du code civil et
-1157-2 du nouveau code de procédure civile.
+Ces autorisations ne peuvent être délivrées qu'aux établissements de santé
+publics et privés à but non lucratif ou aux laboratoires d'analyses de biologie
+médicale mentionnés aux 4°, 5° et 6° de l'article L. 6212-1, en ce qui concerne
+l'activité mentionnée au h du 2° de l'article R. 2142-1.

@@ -1,8 +1,4 @@
 Article R1244-9
 ----
-En vue de se conformer aux prescriptions de l'article L. 1244-4 et pour
-permettre l'accès aux informations médicales dans les conditions prévues à la
-deuxième phrase de l'article L. 1244-6, l'établissement ou l'organisme conserve
-toute information relative à l'évolution des grossesses induites par un don de
-gamètes, y compris leur éventuelle interruption, la date de naissance et l'état
-de santé des nouveau-nés.
+Les gamètes provenant d'un don ne peuvent être cédés qu'au praticien réalisant
+l'assistance médicale à la procréation ou au couple destinataire du don.

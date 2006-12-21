@@ -1,9 +1,15 @@
 Article R1244-3
 ----
-Sont applicables aux organismes ou établissements mentionnés à l'article R.
-1244-1, les dispositions du chapitre II du titre IV du livre I de la partie II
-du présent code en tant qu'elles concernent le recueil, le traitement et la
-conservation des gamètes, les dispositions des sections II et III du chapitre II
-du titre IV du livre Ier de la partie II en tant qu'elles concernent la
-conservation des gamètes et les dispositions de la section IV de ce chapitre en
-tant qu'elles concernent les registres de gamètes.
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article
+L. 6122-10 relatives au renouvellement d'autorisation, la demande est déposée
+comme il est prévu à l'article R. 6122-28. Dans ce cas, le titulaire de
+l'autorisation adresse un exemplaire de sa demande au directeur général de
+l'Agence de la biomédecine.
+
+Lorsqu'il est fait application des dispositions du dernier alinéa de l'article
+L. 6122-13 relatives au maintien de la suspension ou de retrait de
+l'autorisation, le directeur de l'agence régionale de l'hospitalisation
+recueille l'avis de l'Agence de la biomédecine. L'absence d'avis de l'Agence de
+la biomédecine dans les quinze jours qui suivent la consultation du directeur de
+l'agence régionale de l'hospitalisation vaut acceptation de la mesure proposée
+par ce dernier.

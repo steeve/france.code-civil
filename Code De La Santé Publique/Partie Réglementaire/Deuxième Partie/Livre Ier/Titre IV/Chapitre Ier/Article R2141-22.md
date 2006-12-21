@@ -1,11 +1,24 @@
 Article R2141-22
 ----
-Le responsable de l'étude est chargé de recueillir le consentement écrit des
-deux membres du couple dont les embryons seront soumis à l'étude.
+La conservation des embryons en vue d'étude peut être autorisée par le directeur
+général de l'Agence de la biomédecine pour une durée de cinq ans. L'autorisation
+fait mention du nom de la personne responsable de l'activité de conservation.
 
-Ce consentement est révocable par écrit, à tout moment, par le couple ou par
-l'un de ses membres. Dans ce cas, le responsable est tenu de mettre
-immédiatement un terme à l'étude en tant qu'elle concerne les embryons de ce
-couple, et d'informer sans délai le ministre chargé de la santé ainsi que le
-président de la Commission nationale de médecine et de biologie de la
-reproduction et du diagnostic prénatal.
+Les établissements publics de santé ou les laboratoires d'analyses de biologie
+médicale autorisés à pratiquer les activités relatives à la fécondation in
+vitro, avec ou sans micro-manipulation, qui prétendent au bénéfice de cette
+autorisation doivent justifier à l'appui de leur demande d'autorisation qu'ils
+s'engagent à conserver les embryons en vue de la réalisation de leurs protocoles
+d'étude sur l'embryon et en vue de la réalisation de ces protocoles par d'autres
+établissements et organismes.
+
+La conservation des embryons en vue d'étude respecte les dispositions de la
+section 4 du chapitre II du présent titre. Elle est assurée dans un local ou
+grâce à un équipement exclusivement affecté à cette fin et permettant une
+séparation physique avec les opérations de conservation des embryons en vue d'un
+projet parental et en vue de leur accueil. Ce local ou cet équipement est équipé
+d'une protection contre le vol.
+
+En cas de suspension ou retrait de l'autorisation, le directeur général de
+l'Agence de la biomédecine organise le transfert des embryons vers un autre
+organisme autorisé à les conserver.

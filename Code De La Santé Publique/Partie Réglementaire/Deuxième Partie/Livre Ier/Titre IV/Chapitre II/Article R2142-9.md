@@ -1,21 +1,20 @@
 Article R2142-9
 ----
-L'établissement de santé ou le laboratoire d'analyses de biologie médicale dans
-lequel sont pratiquées les activités définies au 2° de l'article R. 2141-1 doit
-comprendre une pièce exclusivement affectée au recueil du sperme, une pièce
-exclusivement affectée au traitement des gamètes et à la fécondation in vitro et
-une pièce exclusivement affectée à la conservation des gamètes et des embryons.
-Il doit disposer en outre de l'équipement et du matériel nécessaires à la mise
-en oeuvre de ces activités et doit être en mesure d'en assurer la
-décontamination et la stérilisation.
+Le centre d'assistance médicale à la procréation conserve, sous la
+responsabilité conjointe des titulaires des autorisations et dans le respect de
+la confidentialité, les informations suivantes dans le dossier médical commun
+mentionné à l'article R. 2142-8 :
 
-La pièce affectée à la conservation des gamètes et des embryons doit être
-équipée d'une protection contre le vol.
+1° L'indication médicale de la mise en oeuvre et du choix de la technique
+d'assistance médicale à la procréation ;
 
-Pour les activités mentionnées aux c) et d) du 2° de l'article R. 2141-1, la
-pièce affectée au traitement des gamètes et à la fécondation in vitro doit être
-équipée d'une hotte à flux laminaire ou d'un matériel équivalent.
+2° La date des ponctions de gamètes et le nombre d'ovocytes recueillis et
+traités lors de chacune des ponctions ;
 
-Pour l'activité mentionnée au d) du 2° de l'article R. 2141-1, l'établissement
-ou le laboratoire doit disposer d'un matériel spécifique adapté aux
-micro-manipulations.
+3° La date des transferts et le nombre d'embryons transférés ;
+
+4° Toute information disponible relative au devenir des embryons, à l'évolution
+des grossesses et à l'état de santé des nouveau-nés et des enfants ;
+
+5° Toute information relative aux incidents et accidents survenus dans la mise
+en oeuvre de l'assistance médicale à la procréation.

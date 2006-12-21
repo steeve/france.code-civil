@@ -1,9 +1,8 @@
 Article R2141-16
 ----
-L'autorisation est requise pour toute étude portant sur un embryon humain in
-vitro, dès le stade de la fécondation, que le développement de l'embryon soit en
-cours, suspendu ou interrompu et quel que soit son aspect morphologique.
-
-L'autorisation est également requise pour toute étude portant sur de nouvelles
-modalités de culture ou de conservation d'embryons, non consacrées par l'usage
-dans le cadre de l'assistance médicale à la procréation.
+Le directeur général de l'Agence de la biomédecine statue sur les demandes
+d'autorisation mentionnées aux articles R. 2141-14 et R. 2141-15 dans le mois
+qui suit la date de réception du dossier de demande complet. Il notifie sa
+décision d'autorisation au couple demandeur, à l'organisme étranger et à
+l'établissement de santé ou au laboratoire d'analyses de biologie médicale.
+L'absence de décision dans ce délai vaut rejet de la demande.

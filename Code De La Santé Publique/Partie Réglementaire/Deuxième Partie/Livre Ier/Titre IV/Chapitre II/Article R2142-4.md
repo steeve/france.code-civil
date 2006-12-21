@@ -1,6 +1,15 @@
 Article R2142-4
 ----
-L'établissement de santé dans lequel sont pratiquées les activités définies au
-1° de l'article R. 2141-1 doit disposer d'un médecin expérimenté en échographie
-et d'un anesthésiste réanimateur. En outre, l'établissement doit s'assurer le
-concours d'un psychologue ou d'un médecin qualifié en psychiatrie.
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article
+L. 6122-10 relatives au renouvellement d'autorisation, la demande est déposée
+comme il est prévu à l'article R. 6122-28. Dans ce cas, le titulaire de
+l'autorisation adresse un exemplaire de sa demande au directeur général de
+l'Agence de la biomédecine.
+
+Lorsqu'il est fait application des dispositions du dernier alinéa de l'article
+L. 6122-13 relatives au maintien de la suspension ou de retrait de
+l'autorisation, le directeur de l'Agence régionale de l'hospitalisation
+recueille l'avis de l'agence de la biomédecine. L'absence d'avis de celle-ci
+dans les quinze jours qui suivent la consultation du directeur de l'agence
+régionale de l'hospitalisation vaut acceptation de la mesure proposée par ce
+dernier.

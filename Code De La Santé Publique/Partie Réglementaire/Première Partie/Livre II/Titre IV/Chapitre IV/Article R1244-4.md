@@ -1,8 +1,9 @@
 Article R1244-4
 ----
-La disposition des locaux ainsi que les modalités d'accueil des donneurs et des
-couples receveurs sont de nature à assurer l'anonymat du don et la
-confidentialité des activités.
+L'Agence de la biomédecine est informée par l'agence régionale de
+l'hospitalisation des délivrances et des refus d'autorisations, ainsi que des
+décisions relatives à leur renouvellement et des décisions prises en application
+de la procédure prévue à l'article L. 6122-12.
 
-Une pièce est aménagée pour les entretiens préalables au don ou à la cession de
-gamètes.
+L'Agence de la biomédecine tient à jour la liste des organismes et des
+établissements de santé autorisés et la met à la disposition du public.

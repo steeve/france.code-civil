@@ -1,17 +1,7 @@
 Article R2142-16
 ----
-Le registre des gamètes que doit tenir tout établissement de santé ou tout
-laboratoire autorisé à conserver des gamètes doit mentionner :
-
-1° Soit l'identité de la personne sur laquelle ont été recueillis les gamètes
-lorsqu'il s'agit d'une assistance médicale à la procréation réalisée sans le
-recours à un tiers donneur, soit le code d'identification du donneur ;
-
-2° Le lieu et les dates de congélation des gamètes ;
-
-3° Les dates et les modes d'utilisation des gamètes ;
-
-4° Les indications précises du lieu de conservation des gamètes dans la pièce
-affectée à cet effet ;
-
-5° Le cas échéant, l'identité du couple destinataire du don de gamètes.
+A titre dérogatoire, un médecin inscrit en vue du diplôme d'études spécialisées
+complémentaires de médecine de la reproduction peut être agréé pour une durée
+d'un an, renouvelable une fois, par le directeur général de l'Agence de la
+biomédecine. Il exerce les activités cliniques d'assistance médicale à la
+procréation sous le contrôle d'un médecin agréé.

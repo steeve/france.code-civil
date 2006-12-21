@@ -1,7 +1,7 @@
 Article R2141-23
 ----
-Les embryons sur lesquels une étude est envisagée ne peuvent être remis par les
-praticiens mentionnés à l'article R. 2142-18 qu'au responsable d'une étude
-autorisée, sur production de l'autorisation du ministre et du document écrit par
-lequel le couple concerné a exprimé son consentement à la réalisation de
-l'étude.
+Les dispositions des articles R. 2151-4, R. 2151-6, R. 2151-8 à R. 2151-12
+s'appliquent aux autorisations prévues à la présente section.
+
+Les dispositions de l'article R. 2151-5, R. 2151-7 s'appliquent aux seules
+autorisations de protocoles d'études sur l'embryon.

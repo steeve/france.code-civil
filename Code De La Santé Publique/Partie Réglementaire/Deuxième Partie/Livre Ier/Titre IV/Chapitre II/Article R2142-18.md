@@ -1,6 +1,7 @@
 Article R2142-18
 ----
-Les praticiens agréés pour la conservation des gamètes ou pour la conservation
-des embryons doivent veiller à la bonne tenue des registres mentionnés aux
-articles R. 2142-16 et R. 2142-17 et à l'exactitude des informations qui y sont
-consignées.
+L'Agence de la biomédecine publie, au Bulletin officiel du ministère de la
+santé, les décisions relatives à l'agrément des praticiens, ainsi que celles
+relatives au renouvellement, à la suspension et au retrait de cet agrément. Elle
+tient à jour la liste des praticiens agréés et la met à la disposition du
+public.
