@@ -23,10 +23,9 @@ g) Trois représentants des centres antipoison ;
 h) Le représentant de l'organisme agréé au titre de l'article L. 1342-1 pour
 recevoir les déclarations des substances et préparations dangereuses ;
 
-i) Deux présidents de section du Conseil supérieur d'hygiène publique de France
-et le président de la commission des risques chimiques, biologiques et des
-ambiances physiques du Conseil supérieur de la prévention des risques
-professionnels ;
+i) Deux membres désignés par le Haut Conseil de la santé publique et le
+président de la commission des risques chimiques, biologiques et des ambiances
+physiques du Conseil supérieur de la prévention des risques professionnels ;
 
 2° Douze membres nommés en raison de leur qualification particulière :
 

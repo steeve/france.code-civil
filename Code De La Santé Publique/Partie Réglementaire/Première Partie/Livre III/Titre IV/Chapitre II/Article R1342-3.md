@@ -13,6 +13,6 @@ Dangereux. Respecter les précautions d'emploi ".
 Pour des raisons d'hygiène ou de santé publique, la mise sur le marché, la
 publicité et l'emploi de ces substances et préparations peuvent faire l'objet de
 mesures d'interdiction ou de restriction ou de prescriptions particulières
-définies, après avis du Conseil supérieur d'hygiène publique de France, par
-arrêté des ministres chargés de l'industrie et de la santé, et, le cas échéant,
-du ministre chargé de l'agriculture.
+définies, après avis du Haut Conseil de la santé publique, par arrêté des
+ministres chargés de l'industrie et de la santé, et, le cas échéant, du ministre
+chargé de l'agriculture.

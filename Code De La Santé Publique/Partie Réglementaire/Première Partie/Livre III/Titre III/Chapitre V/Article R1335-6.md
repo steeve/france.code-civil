@@ -12,4 +12,4 @@ prises pour l'application de la loi n° 42-263 du 5 février 1942 relative au
 transport des matières dangereuses et de l'article L. 543-8 du code de
 l'environnement, auxquelles peuvent s'ajouter des prescriptions complémentaires
 définies par arrêté des ministres chargés de l'agriculture, de l'environnement
-et de la santé, et après avis du Conseil supérieur d'hygiène publique de France.
+et de la santé, et après avis du Haut Conseil de la santé publique.

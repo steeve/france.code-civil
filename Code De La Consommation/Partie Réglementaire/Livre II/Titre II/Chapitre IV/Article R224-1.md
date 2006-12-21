@@ -22,8 +22,8 @@ liste de neuf noms proposée par le collège professionnel du Conseil national d
 la consommation ;
 
 6° Six personnalités qualifiées, chacune d'elle choisie sur une liste comportant
-trois noms, la première liste proposée par le président du Conseil supérieur
-d'hygiène publique, la deuxième proposée par le conseil d'administration du
+trois noms, la première liste proposée par le président du Haut Conseil de la
+santé publique, la deuxième proposée par le conseil d'administration du
 Laboratoire national d'essais, la troisième proposée par le conseil
 d'administration de l'Institut national de la santé et de la recherche médicale,
 la quatrième proposée par le conseil d'administration de la Caisse nationale

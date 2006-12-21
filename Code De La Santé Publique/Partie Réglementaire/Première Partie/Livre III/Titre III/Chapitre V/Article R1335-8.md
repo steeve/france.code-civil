@@ -11,5 +11,5 @@ Les appareils de désinfection mentionnés à l'alinéa précédent sont agréé
 arrêté des ministres chargés de l'environnement, du travail et de la santé. Les
 modalités de l'agrément et les conditions de mise en oeuvre des appareils de
 désinfection sont fixées par arrêté des ministres chargés de l'environnement, de
-l'industrie, du travail et de la santé, après avis du Conseil supérieur
-d'hygiène publique de France.
+l'industrie, du travail et de la santé, après avis du Haut Conseil de la santé
+publique.

@@ -14,10 +14,10 @@ Les contenants disposant d'un système de fermeture pouvant être remis en place
 sont conçus de manière que le contenant puisse être refermé à plusieurs
 reprises, sans déperdition du contenu.
 
-Pour des raisons d'hygiène ou de santé publique, après avis du Conseil supérieur
-d'hygiène publique de France, des arrêtés des ministres chargés de
-l'agriculture, de la consommation, de l'environnement, de l'industrie et de la
-santé peuvent notamment :
+Pour des raisons d'hygiène ou de santé publique, après avis du Haut Conseil de
+la santé publique, des arrêtés des ministres chargés de l'agriculture, de la
+consommation, de l'environnement, de l'industrie et de la santé peuvent
+notamment :
 
 1° Interdire l'usage de certains types de contenants ou emballages pour des
 substances ou préparations dangereuses ;
