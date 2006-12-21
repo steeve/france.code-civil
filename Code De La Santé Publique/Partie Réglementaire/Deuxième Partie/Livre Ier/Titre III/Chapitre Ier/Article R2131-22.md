@@ -1,5 +1,5 @@
 Article R2131-22
 ----
-La forme, la périodicité et le contenu de l'évaluation de l'activité des centres
-pluridisciplinaires de diagnostic prénatal sont définis par arrêté du ministre
-chargé de la santé.
+La forme et le contenu du rapport annuel d'activité mentionné à l'article L.
+2131-2 sont définis par arrêté du ministre chargé de la santé, pris après avis
+du directeur général de l'Agence de la biomédecine.

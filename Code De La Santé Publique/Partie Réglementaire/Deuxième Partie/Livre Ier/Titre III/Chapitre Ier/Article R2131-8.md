@@ -1,10 +1,15 @@
 Article R2131-8
 ----
-Les dispositions prévues aux articles R. 712-38 à R. 712-51 pour les
-autorisations d'activités de soins délivrées par le ministre chargé de la santé
-sont applicables aux demandes d'autorisation et de renouvellement d'autorisation
-prévues au présent chapitre.
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article
+L. 6122-10 relatives au renouvellement d'autorisation, la demande est déposée
+comme il est prévu à l'article R. 6122-28. Dans ce cas, le titulaire de
+l'autorisation adresse un exemplaire de sa demande au directeur général de
+l'Agence de la biomédecine.
 
-Toutefois, les pièces du dossier justificatif prévu à l'article R. 712-40 sont
-complétées ou remplacées par les pièces d'un dossier spécifique dont la
-composition est fixée par arrêté du ministre chargé de la santé.
+Lorsqu'il est fait application des dispositions du dernier alinéa de l'article
+L. 6122-13 relatives au maintien de la suspension ou de retrait de
+l'autorisation, le directeur de l'agence régionale de l'hospitalisation
+recueille l'avis de l'Agence de la biomédecine. L'absence d'avis de l'Agence de
+la biomédecine dans les quinze jours qui suivent la consultation du directeur de
+l'agence régionale de l'hospitalisation vaut acceptation de la mesure proposée
+par ce dernier.

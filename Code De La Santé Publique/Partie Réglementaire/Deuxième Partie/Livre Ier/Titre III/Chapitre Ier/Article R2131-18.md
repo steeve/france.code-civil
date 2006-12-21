@@ -12,4 +12,4 @@ Ces attestations comportent les noms et les signatures des médecins et
 mentionnent leur appartenance au centre pluridisciplinaire de diagnostic
 prénatal.
 
-Un exemplaire des attestations est remis à l'intéressée.
+Une copie des attestations est remise à l'intéressée.

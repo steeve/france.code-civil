@@ -1,27 +1,22 @@
 Article R2131-1
 ----
-Les analyses de cytogénétique et de biologie mentionnées au deuxième alinéa de
-l'article L. 2131-1 comprennent, lorsqu'elles sont pratiquées en vue d'établir
-un diagnostic prénatal in utero chez l'embryon ou le foetus :
+Les analyses mentionnées au deuxième alinéa de l'article L. 2131-1 ayant pour
+but de détecter in utero chez l'embryon ou le foetus une affection d'une
+particulière gravité comprennent :
 
-1° Les analyses de cytogénétique, incluant la cytogénétique moléculaire sur
-cellules embryonnaires ou foetales, y compris celles circulant dans le sang
-maternel ;
+1° Les analyses de cytogénétique, y compris les analyses de cytogénétique
+moléculaire ;
 
-2° Les analyses de génétique moléculaire en vue du diagnostic de maladies
-génétiques ;
+2° Les analyses de génétique moléculaire ;
 
-3° Les analyses de biologie embryonnaire et foetale, y compris celles de
-biologie moléculaire, en vue du diagnostic de maladies infectieuses ;
+3° Les analyses en vue du diagnostic de maladies infectieuses ;
 
-4° Les analyses de biochimie sur l'embryon et le foetus ;
+4° Les analyses d'hématologie ;
 
-5° Les analyses d'hématologie sur l'embryon et le foetus ;
+5° Les analyses d'immunologie ;
 
-6° Les analyses d'immunologie sur l'embryon et le foetus ;
+6° Les analyses de biochimie, y compris les analyses portant sur les marqueurs
+sériques maternels.
 
-7° Les analyses de biochimie portant sur les marqueurs sériques d'origine
-embryonnaire ou foetale dans le sang maternel.
-
-Les analyses effectuées sur l'embryon et le foetus incluent celles qui sont
-pratiquées sur leurs annexes.
+Les analyses mentionnées aux 3°, 4° et 5° du présent article incluent les
+analyses de biologie moléculaire.

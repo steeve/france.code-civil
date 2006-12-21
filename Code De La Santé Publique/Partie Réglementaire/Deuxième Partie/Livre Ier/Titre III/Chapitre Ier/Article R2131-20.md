@@ -6,8 +6,7 @@ article et pour une durée de deux ans renouvelable, un coordonnateur chargé
 notamment de veiller à l'organisation des activités du centre et d'établir le
 rapport annuel d'activité prévu à l'article L. 2131-2.
 
-Le nom du coordonnateur et celui des membres de l'équipe qui ne figurent pas
-dans l'annexe à la décision d'agrément, ainsi que le règlement intérieur
-définitif du centre, sont communiqués par le directeur de l'organisme ou de
-l'établissement de santé au ministre chargé de la santé dans un délai de trois
-mois à compter de la notification de la décision d'agrément.
+Le nom du coordonnateur ainsi que le règlement intérieur définitif du centre
+sont communiqués par le directeur de l'organisme ou de l'établissement de santé
+au directeur général de l'Agence de la biomédecine dans un délai de trois mois à
+compter de la notification de la décision d'autorisation.
