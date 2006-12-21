@@ -9,5 +9,5 @@ norme européenne équivalente.
 
 La hauteur minimale du débouché à l'air libre de la cheminée ainsi que les
 quantités maximales de polluants contenus dans les gaz rejetés dans l'atmosphère
-sont définies par arrêté du ministre chargé de la santé pris après avis du
-Conseil supérieur d'hygiène publique de France.
+sont définies par arrêté du ministre chargé de la santé pris après avis de
+l'Agence française de sécurité sanitaire de l'environnement et du travail.

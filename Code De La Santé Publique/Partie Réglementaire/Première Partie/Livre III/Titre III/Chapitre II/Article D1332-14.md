@@ -18,9 +18,10 @@ Les résultats, transmis à la direction départementale des affaires sanitaires
 sociales, sont affichés par le déclarant de manière visible pour les usagers.
 
 Les méthodes d'analyse employées par les laboratoires doivent être soit les
-méthodes de référence fixées par un arrêté du ministre chargé de la santé pris
-après avis du Conseil supérieur d'hygiène publique de France, soit des méthodes
-conduisant à des résultats équivalents.
+méthodes de référence fixées par un arrêté du ministre chargé de la santé dont
+il peut saisir pour avis l'Agence française de sécurité sanitaire de
+l'environnement et du travail, soit des méthodes conduisant à des résultats
+équivalents.
 
 Les conditions de conformité d'une eau aux normes de qualité sont définies au II
 de l'annexe 13-5.
