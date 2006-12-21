@@ -20,9 +20,8 @@ b) Trois représentants du comité de coordination des collectivités ;
 6° Cinq représentants des syndicats de salariés de l'agriculture, de
 l'agroalimentaire et de la distribution des produits alimentaires ;
 
-7° Le président et les deux vice-présidents de la section de la sécurité
-alimentaire et de la section de la nutrition et de l'hygiène de vie, du Conseil
-supérieur d'hygiène publique de France ;
+7° Le directeur général de l'Agence française de sécurité sanitaire des aliments
+ou son représentant ;
 
 8° Le directeur de l'Institut national de la recherche agronomique ou son
 représentant ;
@@ -40,7 +39,10 @@ la nutrition et l'alimentation ou son représentant ;
 
 13° Six personnalités scientifiques qualifiées nommées conjointement par le
 ministre de l'agriculture, le ministre chargé de la santé et le ministre chargé
-de la consommation.
+de la consommation ;
+
+14° Deux personnalités qualifiées nommées sur proposition du président du Haut
+Conseil de la santé publique.
 
 En outre, assistent de plein droit aux séances du conseil les représentants des
 ministres chargés des départements suivants :
