@@ -3,8 +3,8 @@ Article R5132-65
 Les substances très toxiques ou toxiques auxquelles peuvent s'appliquer les
 dérogations prévues à l'article R. 5132-64 et les zones géographiques et les
 périodes dans lesquelles ces substances peuvent être utilisées sont fixées après
-avis du Conseil supérieur d'hygiène publique de France, par arrêté des ministres
-chargés de l'agriculture et de la santé.
+avis de l'Agence française de sécurité sanitaire de l'environnement et du
+travail, par arrêté des ministres chargés de l'agriculture et de la santé.
 
 Cet arrêté précise, en outre, les conditions d'utilisation de ces substances et
 préparations ; il désigne, notamment, d'une part, les personnes auxquelles, en
