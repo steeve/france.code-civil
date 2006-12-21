@@ -11,8 +11,8 @@ Dans ce cas :
 
 1° Le dossier de demande d'autorisation prévu à l'article 2 du décret du 29 mars
 1993 précité est complété conformément aux dispositions de l'article R. 1321-7
-et, dans les cas mentionnés à l'article R. 1321-11, par l'avis du Conseil
-supérieur d'hygiène publique de France ;
+et, dans les cas mentionnés à l'article R. 1321-11, par l'avis de l'Agence
+française de sécurité sanitaire des aliments ;
 
 2° L'arrêté préfectoral d'autorisation fixe à la fois les conditions de
 prélèvement, en application du titre Ier du décret du 29 mars 1993 précité, et

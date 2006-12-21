@@ -7,7 +7,6 @@ source, ou l'exploitant si le propriétaire n'exploite pas lui-même. Il donne s
 avis motivé, et le transmet, avec toutes les pièces du dossier, au ministre
 chargé de la santé.
 
-Le ministre statue, après avis du Conseil supérieur d'hygiène publique de France
-et du Conseil général des mines, auxquels il est loisible de prescrire ou
-d'effectuer toutes les mesures d'instruction complémentaires qu'ils jugent
-utiles.
+Le ministre statue, après avis du Conseil général des mines, auxquels il est
+loisible de prescrire ou d'effectuer toutes les mesures d'instruction
+complémentaires qu'ils jugent utiles.

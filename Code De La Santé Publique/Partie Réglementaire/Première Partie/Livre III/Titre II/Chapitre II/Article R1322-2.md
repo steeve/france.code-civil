@@ -15,5 +15,4 @@ l'acquisition des droits de propriété ou de servitude permettant d'en assurer 
 protection sanitaire.
 
 En cas de désaccord avec le demandeur, le directeur régional en réfère au
-ministre chargé de la santé qui statue après avis de la section des eaux du
-Conseil supérieur d'hygiène publique de France et du conseil général des mines.
+ministre chargé de la santé qui statue après avis du conseil général des mines.
