@@ -18,7 +18,11 @@ R. 15-25 du code de procédure pénale ;
 
 6° Les provisions sur redevances et droits ;
 
-7° Le produit des ventes d'ouvrages et publications vendus dans les greffes.
+7° Le produit des ventes d'ouvrages et publications vendus dans les greffes ;
+
+8° Les sommes dues au titre des publicités au Bulletin des annonces civiles et
+commerciales prévues aux articles 788, 790 et 794 du code civil et à l'article
+1337 du nouveau code de procédure civile.
 
 En outre, les régisseurs des secrétariats-greffes des tribunaux d'instance
 enregistrent dans leur comptabilité les sommes trouvées lors de l'apposition des

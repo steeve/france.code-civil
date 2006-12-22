@@ -2,11 +2,12 @@ Article 1304
 ----
 L'apposition des scellés peut être demandée :
 
-1° Par le conjoint ;
+1° Par le conjoint ou le partenaire d'un pacte civil de solidarité ;
 
-2° Par tous ceux qui prétendent avoir un droit dans la succession ;
+2° Par tous ceux qui prétendent avoir une vocation successorale ;
 
-3° Par l'exécuteur testamentaire ;
+3° Par l'exécuteur testamentaire ou le mandataire désigné pour l'administration
+de la succession ;
 
 4° Par le ministère public ;
 

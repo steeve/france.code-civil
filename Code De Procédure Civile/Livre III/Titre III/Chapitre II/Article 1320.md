@@ -16,4 +16,4 @@ sont pas, l'état des altérations ;
 5° Les observations des requérants et des comparants et les suites qui, le cas
 échéant, leur ont été réservées ;
 
-6° L'indication du notaire qui procède à l'inventaire.
+6° L'indication de l'auteur de l'inventaire.

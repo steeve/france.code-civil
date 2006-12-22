@@ -28,4 +28,4 @@ des parties ou son conjoint ;
 
 8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
 
-Le ministère public, partie jointe, peut être récusé dans les mêmes cas.
+Le ministère public, partie jointe, peut être récusé dans les mêmes cas".

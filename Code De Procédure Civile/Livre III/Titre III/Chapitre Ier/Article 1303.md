@@ -1,4 +1,5 @@
 Article 1303
 ----
-Les alinéas 2 à 3 de l'article 1292, les articles 1293 à 1296 et l'article 1298
-sont applicables à l'homologation d'un changement de régime matrimonial.
+Le délai pour procéder, le cas échéant, aux formalités de publicité foncière de
+l'acte constatant le changement de régime matrimonial court à compter du jour où
+la décision d'homologation a acquis force de chose jugée.

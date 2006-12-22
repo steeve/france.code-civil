@@ -12,13 +12,14 @@ La convocation contient :
 
 2° L'indication de la juridiction devant laquelle l'opposition est portée ;
 
-3° L'indication de la date de l'audience à laquelle le défendeur est convoqué ;
+3° L'indication de la date de l'audience à laquelle les parties sont convoquées
+;
 
-4° L'indication que, faute pour le défendeur de comparaître, il s'expose à ce
-qu'un jugement soit rendu contre lui sur les seuls éléments fournis par son
-adversaire ;
-
-5° Les conditions dans lesquelles le défendeur peut se faire assister ou
+4° Les conditions dans lesquelles les parties peuvent se faire assister ou
 représenter.
+
+La convocation adressée au défendeur précise en outre que, faute de comparaître,
+il s'expose à ce qu'un jugement soit rendu contre lui sur les seuls éléments
+fournis par son adversaire.
 
 Ces mentions sont prescrites à peine de nullité.
