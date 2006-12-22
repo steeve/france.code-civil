@@ -30,24 +30,20 @@ civile de référence.
 Les revenus mentionnés aux a, b et c sont affectés pour le calcul de
 l'allocation d'un abattement de :
 
-- 1 % lorsque la part de la rémunération garantie financée par l'établissement
+- 3,5 % lorsque la part de la rémunération garantie financée par l'établissement
 ou le service est supérieure à 5 % et inférieure à 10 % du salaire minimum de
 croissance ;
 
-- 2 % lorsque la part de la rémunération garantie financée par l'établissement
+- 4 % lorsque la part de la rémunération garantie financée par l'établissement
 ou le service est supérieure ou égale à 10 % et inférieure à 15 % du salaire
 minimum de croissance ;
 
-- 3 % lorsque la part de la rémunération garantie financée par l'établissement
+- 4,5 % lorsque la part de la rémunération garantie financée par l'établissement
 ou le service est supérieure ou égale à 15 % et inférieure à 20 % du salaire
 minimum de croissance ;
 
-- 4 % lorsque la part de la rémunération garantie financée par l'établissement
-ou le service est supérieure ou égale à 20 % et inférieure à 25 % du salaire
-minimum de croissance ;
-
 - 5 % lorsque la part de la rémunération garantie financée par l'établissement
-ou le service est supérieure ou égale à 25 % et inférieure ou égale à 50 % du
+ou le service est supérieure ou égale à 20 % et inférieure ou égale à 50 % du
 salaire minimum de croissance.
 
 Ils font ensuite l'objet des déductions et abattements fixés par le premier
