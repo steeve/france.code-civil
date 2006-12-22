@@ -1,6 +1,4 @@
 Article R*653-58
 ----
-Tout vétérinaire chargé de l'encadrement d'un agent de l'établissement public
-Les Haras nationaux pour la réalisation de l'identification électronique des
-équidés en informe le conseil régional de l'ordre des vétérinaires et lui
-adresse copie de la convention correspondante.
+Le ministre désigne un laboratoire national de référence dans les conditions
+prévues à la section 2 du chapitre II du titre préliminaire du livre II.

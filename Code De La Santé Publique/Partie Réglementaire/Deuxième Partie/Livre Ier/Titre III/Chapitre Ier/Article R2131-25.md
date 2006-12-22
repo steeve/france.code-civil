@@ -1,19 +1,19 @@
 Article R2131-25
 ----
-Au terme des entretiens mentionnés à l'article R. 2131-24, et au vu de
-l'attestation remise par le couple, un des praticiens agréés au titre des
-articles R. 2141-27 et R. 2141-28 pour être responsable des activités cliniques
-ou biologiques d'assistance médicale à la procréation recueille, avant la mise
-en oeuvre de celle-ci, le consentement écrit des deux membres du couple
-demandeur du diagnostic biologique sur l'embryon. Ce consentement est exprimé
-sur un formulaire dont le contenu est fixé par arrêté du ministre chargé de la
-santé.
+Au vu de l'attestation remise par le couple demandeur du diagnostic biologique
+sur l'embryon in vitro, un des praticiens de l'équipe médicale
+clinico-biologique pluridisciplinaire recueille le consentement écrit des deux
+membres de ce couple, avant la mise en oeuvre de l'assistance médicale à la
+procréation. Ce consentement est exprimé sur un formulaire dont le contenu est
+fixé par arrêté du ministre chargé de la santé, pris après avis du directeur
+général de l'Agence de la biomédecine.
 
-Le praticien responsable de l'activité de prélèvement mentionnée à l'article R.
-2131-27 ne peut procéder au prélèvement sur l'embryon qu'au vu de l'attestation
-établissant l'indication du diagnostic, et du consentement du couple.
+Le praticien agréé pour de l'activité de prélèvement mentionnée au 1° de
+l'article R. 2131-22-2 ne peut procéder au prélèvement sur l'embryon qu'au vu de
+l'attestation établissant l'indication du diagnostic, et du consentement du
+couple.
 
-La ou les cellules embryonnaires prélevées sont transmises au praticien
-responsable de l'analyse génétique mentionnée à l'article R. 2131-27,
-accompagnées d'une copie de l'attestation établissant l'indication du diagnostic
-et du consentement du couple.
+La ou les cellules embryonnaires prélevées sont transmises, accompagnées d'une
+copie de l'attestation établissant l'indication du diagnostic et du formulaire
+de recueil du consentement du couple, au praticien agréé pour réaliser l'analyse
+de cytogénétique, y compris moléculaire, ou l'analyse de génétique moléculaire.

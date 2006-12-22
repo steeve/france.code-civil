@@ -1,19 +1,18 @@
 Article R2142-17
 ----
-Le registre d'embryons que doit tenir tout établissement de santé ou tout
-laboratoire autorisé à conserver des embryons doit mentionner :
+Le retrait de l'agrément du praticien est encouru en cas de violation des
+prescriptions législatives et réglementaires applicables à l'assistance médicale
+à la procréation ou de violation des conditions fixées par l'agrément, ainsi
+qu'en cas de volume d'activité ou de qualité des résultats insuffisants au
+regard des critères fixés par le directeur général de l'Agence de la
+biomédecine, après avis de son conseil d'orientation.
 
-1° L'identité du couple qui est à l'origine de l'embryon et, le cas échéant, le
-code d'identification du donneur de gamètes ;
+En cas d'urgence, l'agrément peut, à titre conservatoire, être suspendu pour une
+durée maximale de trois mois.
 
-2° Le nombre d'embryons conservés pour chaque couple ;
-
-3° Le lieu et les dates de fécondation et de congélation ;
-
-4° Le cas échéant, le lieu de conservation antérieure ;
-
-5° Les indications précises du lieu de conservation des embryons dans la pièce
-affectée à cet effet ;
-
-6° Les informations relatives au devenir de chaque embryon, notamment la date de
-décongélation.
+La décision motivée de suspension ou de retrait est prise par le directeur
+général de l'Agence de la biomédecine qui en informe l'agence régionale de
+l'hospitalisation compétente, ainsi que les titulaires de l'autorisation de
+l'établissement de santé ou du laboratoire d'analyses de biologie médicale où le
+praticien exerce les activités d'assistance médicale à la procréation. Ce
+praticien est invité à présenter ses observations.

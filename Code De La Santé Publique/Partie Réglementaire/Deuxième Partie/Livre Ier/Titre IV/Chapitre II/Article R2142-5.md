@@ -1,11 +1,7 @@
 Article R2142-5
 ----
-Les activités définies aux a) et c) du 1° de l'article R. 2141-1 doivent être
-exercées au sein d'une structure de gynécologie ou de gynécologie-obstétrique,
-dans des locaux comprenant une pièce pour les entretiens des couples avec
-l'équipe médicale, prévus à l'article L. 2141-10, une salle de ponction équipée
-d'un échographe de haute définition avec sonde vaginale, un bloc opératoire, une
-salle de réveil et des lits d'hospitalisation.
-
-Les activités définies au b) du 1° de l'article R. 2141-1 sont réalisées dans
-une structure chirurgicale.
+La forme, la périodicité et le contenu de l'évaluation périodique des activités
+cliniques et biologiques d'assistance médicale à la procréation mentionnée à
+l'article L. 6122-10 ainsi que la forme et le contenu du rapport annuel
+mentionné à l'article L. 2142-2 sont définis par arrêté du ministre chargé de la
+santé, après avis du directeur général de l'Agence de la biomédecine.

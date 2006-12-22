@@ -1,19 +1,14 @@
 Article R2131-27
 ----
-L'autorisation de pratiquer le diagnostic biologique sur l'embryon in vitro
-délivrée à un établissement en application de l'article L. 2131-4 porte sur
-chacune des deux activités suivantes :
+L'autorisation de pratiquer le diagnostic biologique effectué à partir de
+cellules prélevées sur l'embryon in vitro délivrée à un établissement en
+application de l'article L. 2131-4 porte sur l'ensemble des trois activités
+mentionnées à l'article R. 2131-22-2.
 
-1° Une activité de prélèvement cellulaire sur l'embryon obtenu par fécondation
-in vitro ;
+L'établissement est autorisé, pour une durée de cinq ans, par le directeur
+général de l'Agence de la biomédecine pour la pratique de chacune de ces
+activités, après avis du conseil d'orientation de l'agence conformément à
+l'article L. 1418-4.
 
-2° Une activité d'analyse génétique sur la ou les cellules embryonnaires.
-
-Les établissements sont autorisés, pour une durée de trois ans, par le ministre
-chargé de la santé pour la pratique de chacune de ces activités, après avis de
-la Commission nationale de médecine et de biologie de la reproduction et du
-diagnostic prénatal rendu dans les conditions prévues à l'article R. 2113-4.
-
-Les activités sont placées sous la responsabilité des praticiens désignés dans
-l'autorisation. Seuls sont habilités à signer les comptes rendus d'analyses
-prévues au 2° les praticiens responsables de ces analyses.
+Lorsqu'un établissement comporte plusieurs sites, l'autorisation précise le ou
+les sites d'exercice de la ou des activités.

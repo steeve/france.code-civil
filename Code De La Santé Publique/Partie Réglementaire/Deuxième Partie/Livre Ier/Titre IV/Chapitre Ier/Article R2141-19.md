@@ -1,8 +1,8 @@
 Article R2141-19
 ----
-L'avis rendu par la Commission nationale de médecine et de biologie de la
-reproduction et du diagnostic prénatal se fonde sur l'appréciation de la
-finalité de l'étude et l'évaluation de ses effets potentiels, tels que définis à
-l'article R. 2141-14, ainsi que sur sa pertinence scientifique au regard de
-l'état actuel des connaissances, compte tenu de son protocole et de la
-compétence dans le domaine d'étude proposé du ou des responsables désignés.
+Seuls peuvent entreprendre une étude sur l'embryon les établissements publics de
+santé ou les laboratoires d'analyses de biologie médicale, autorisés, en
+application de l'article L. 2142-1 et dans les conditions fixées par la section
+1 du chapitre II du présent titre, à pratiquer les activités relatives à la
+fécondation in vitro, avec ou sans micro-manipulation et à conserver les
+embryons en vue d'étude en application de l'article R. 2141-22.

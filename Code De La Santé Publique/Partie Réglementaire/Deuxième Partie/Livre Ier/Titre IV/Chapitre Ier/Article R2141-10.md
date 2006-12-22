@@ -1,8 +1,9 @@
 Article R2141-10
 ----
-La demande aux fins d'autorisation d'accueil d'embryon, formulée par un couple
-répondant aux conditions de l'article L. 2141-5, est portée devant le président
-du tribunal de grande instance ou son délégué.
+La demande aux fins d'autorisation d'accueil d'embryon ou la demande de
+renouvellement de cette autorisation, formulée par un couple répondant aux
+conditions de l'article L. 2141-6, est portée devant le président du tribunal de
+grande instance ou son délégué.
 
 Le tribunal compétent est :
 
@@ -12,3 +13,5 @@ en France ;
 - le tribunal du lieu où est situé le centre autorisé dans lequel est envisagé
 le transfert de l'embryon en vue de son implantation, lorsque le couple
 requérant demeure à l'étranger.
+
+La demande est dispensée de ministère d'avocat.

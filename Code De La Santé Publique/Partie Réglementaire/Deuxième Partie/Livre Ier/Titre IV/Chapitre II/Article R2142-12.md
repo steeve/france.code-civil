@@ -1,11 +1,10 @@
 Article R2142-12
 ----
-L'établissement de santé ou le laboratoire conserve, dans le respect de la
-confidentialité, pour chaque couple et chaque tentative d'assistance médicale à
-la procréation, la mention :
+Pour être agréé au titre des activités définies au b du 1° de l'article R.
+2142-1, le praticien doit être médecin qualifié soit en urologie, soit en
+chirurgie générale, soit en gynécologie-obstétrique.
 
-1° Du nombre d'ovocytes traités ;
-
-2° De la date de fécondation ;
-
-3° Du nombre d'embryons obtenus.
+Il doit en outre justifier d'une formation et d'une expérience dans le domaine
+de l'andrologie jugées suffisantes au regard des critères d'appréciation de la
+formation et de l'expérience définis par le conseil d'orientation de l'Agence de
+la biomédecine.

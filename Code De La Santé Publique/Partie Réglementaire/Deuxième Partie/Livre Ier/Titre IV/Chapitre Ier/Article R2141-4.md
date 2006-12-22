@@ -1,23 +1,35 @@
 Article R2141-4
 ----
-Après un délai d'au moins un mois suivant l'entretien prévu à l'article R.
-2141-2, les deux membres du couple à l'origine de la conception des embryons ou
-le membre survivant de ce couple expriment devant le praticien agréé mentionné à
-l'article R. 2141-3, leur consentement écrit à l'accueil d'un ou plusieurs de
-leurs embryons sur un document daté et revêtu de leur signature, qui mentionne
-que les informations mentionnées à l'article R. 2141-2, leur ont été données ;
-un arrêté du ministre chargé de la santé fixe le contenu de ce document.
+Un praticien agréé du centre mentionné au premier alinéa de l'article R. 2141-3
+s'assure que les résultats des analyses de biologie médicale pratiquées chez les
+deux membres du couple à l'origine de la conception des embryons sont négatifs
+en ce qui concerne les marqueurs biologiques d'infection ou, lorsque cela est
+techniquement possible, d'infectivité relatifs aux affections suivantes :
 
-Le document mentionné à l'alinéa précédent est adressé par le praticien agréé
-mentionné à l'article R. 2141-3, en trois exemplaires au président du tribunal
-de grande instance dans le ressort duquel est situé le centre d'assistance
-médicale à la procréation. Le président du tribunal de grande instance ou son
-délégué procède le cas échéant à l'audition des deux membres du couple ayant
-consenti à l'accueil de leurs embryons ou du membre survivant de ce couple. Il
-retourne deux exemplaires de ce document, visés par ses soins, au praticien
-agréé.
+1° Infection par les virus VIH 1 et 2 ;
 
-L'un de ces exemplaires est conservé sous forme rendue anonyme dans le dossier
-mentionné à l'article R. 2141-6, l'autre est conservé par l'établissement public
-de santé ou le laboratoire d'analyses de biologie médicale assurant la
-conservation des embryons.
+2° Infection par les virus des hépatites B et C ;
+
+3° Syphilis.
+
+Ces analyses doivent avoir été effectuées au moins six mois après la date de
+congélation de l'embryon susceptible de faire l'objet d'un accueil.
+
+Lorsque l'embryon conçu est issu d'un don de gamètes, le praticien s'assure du
+respect des règles de sécurité sanitaire prévues aux articles R. 1211-25 à R.
+1211-28.
+
+Lorsque les résultats de l'une ou plusieurs des analyses mentionnées ci-dessus
+sont positifs, l'embryon ne peut être cédé en vue de son accueil.
+
+Le praticien agréé mentionné au premier alinéa s'enquiert également des
+antécédents personnels et familiaux des deux membres du couple à l'origine de la
+conception et des données cliniques actuelles qu'il estime nécessaire de
+recueillir. Au vu de ces antécédents et de ces données cliniques, il fait
+pratiquer les analyses complémentaires qu'il juge utiles.
+
+L'embryon ne peut être cédé en vue de son accueil lorsqu'il existe un risque
+potentiel de transmission de la maladie de Creutzfeldt-Jakob ou d'autres
+encéphalopathies subaiguës spongiformes transmissibles. Les critères ou
+antécédents faisant suspecter l'existence de ce risque sont précisés par
+l'arrêté mentionné aux articles R. 2142-24 et R. 2142-27.
