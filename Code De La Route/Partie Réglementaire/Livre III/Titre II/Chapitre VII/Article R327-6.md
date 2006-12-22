@@ -1,17 +1,11 @@
 Article R327-6
 ----
-Outre son président, la commission nationale chargée d'établir la liste des
-experts en automobile prévue par l'article L. 326-3 comprend :
+Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord
+pour céder son véhicule à l'assureur, la carte grise du véhicule est transmise
+par l'assureur au préfet du département du lieu d'immatriculation dans un délai
+d'un mois à compter de l'accord entre l'assureur et le propriétaire du véhicule.
 
-1° Sept représentants de l'Etat ;
-
-2° Sept représentants des professions concernées par l'expertise et l'assurance,
-dont :
-
-a) Quatre experts en automobile ;
-
-b) Deux représentants des entreprises d'assurance ;
-
-c) Un représentant des professionnels de la réparation automobile ;
-
-3° Sept représentants des consommateurs.
+L'assureur fournit une copie du rapport d'expertise établi en application de
+l'article L. 327-1. Dans le cas où l'expert estime le véhicule réparable, au
+sens du deuxième alinéa de l'article R. 327-2, son rapport comporte une
+description détaillée des réparations à effectuer.

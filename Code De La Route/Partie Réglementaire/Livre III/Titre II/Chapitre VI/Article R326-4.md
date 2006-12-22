@@ -1,7 +1,6 @@
 Article R326-4
 ----
-Le retrait conservatoire du certificat d'immatriculation ne fait pas obstacle au
-transfert de propriété du véhicule ; dans ce cas, les règles édictées aux
-articles précédents pour sa mise en circulation s'appliquent au nouveau
-propriétaire et conditionnent la délivrance à ce dernier d'un nouveau certificat
-d'immatriculation.
+Dès qu'il a connaissance d'une contestation portant sur les conclusions
+techniques ou sur le coût des dommages ou des réparations, l'expert doit en
+informer, par tous moyens à sa convenance, les parties intéressées, notamment le
+propriétaire et le professionnel dépositaire du véhicule.

@@ -1,10 +1,5 @@
 Article R326-5
 ----
-Les dispositions de la présente section ne sont applicables qu'aux véhicules
-dont le poids total autorisé en charge n'excède pas 3,5 tonnes, à l'exclusion
-des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules
-militaires.
-
-Un arrêté du ministre chargé des transports, pris après avis du ministre de la
-défense et du ministre de l'intérieur, fixe les modalités d'application des
-dispositions de la présente section.
+La commission nationale instituée par l'article L. 326-3 peut être consultée par
+le ministre chargé des transports sur toute question relative à l'expertise en
+automobile et à l'organisation générale de la profession d'expert en automobile.

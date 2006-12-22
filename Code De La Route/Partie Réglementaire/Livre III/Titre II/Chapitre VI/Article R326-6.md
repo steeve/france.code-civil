@@ -1,11 +1,36 @@
 Article R326-6
 ----
-Dans le cas prévu à l'article L. 326-11 où le propriétaire a donné son accord
-pour céder son véhicule à l'assureur, la carte grise du véhicule est transmise
-par l'assureur au préfet du département du lieu d'immatriculation dans un délai
-d'un mois à compter de l'accord entre l'assureur et le propriétaire du véhicule.
+I. - La commission nationale instituée par l'article L. 326-3 comprend :
 
-L'assureur fournit une copie du rapport d'expertise établi en application de
-l'article L. 326-10. Dans le cas où l'expert estime le véhicule réparable, au
-sens du deuxième alinéa de l'article R. 326-2, son rapport comporte une
-description détaillée des réparations à effectuer.
+1° Un président, conseiller en activité ou honoraire à la Cour de cassation,
+désigné par le ministre de la justice sur proposition du premier président de la
+Cour de cassation ;
+
+2° Cinq représentants de l'Etat, dont deux désignés par le ministre chargé des
+transports, un par le ministre chargé des assurances, un par le ministre de
+l'intérieur et un par le ministre chargé de la consommation ;
+
+3° Quatre experts en automobile désignés par le ministre chargé des transports,
+sur proposition des organisations professionnelles ;
+
+4° Deux représentants des consommateurs désignés par le ministre chargé de la
+consommation, pris dans une liste proposée par le collège de consommateurs du
+conseil national de la consommation ;
+
+5° Deux représentants des entreprises d'assurance désignés par le ministre
+chargé des assurances. Les représentants des consommateurs ne peuvent appartenir
+aux catégories mentionnées aux 3° et 5° du présent article.
+
+Un suppléant de chaque membre titulaire de la commission est désigné dans les
+mêmes conditions.
+
+II. - Les membres titulaires et suppléants de la commission sont nommés pour
+trois ans par arrêté du ministre chargé des transports.
+
+Il est procédé au remplacement du membre titulaire ou suppléant qui perd la
+qualité au titre de laquelle il a été désigné ou qui ne peut plus exercer ses
+fonctions. Le nouveau membre siège pour la durée du mandat restant à courir.
+Sauf s'il s'agit du président, il n'est pas procédé au remplacement d'un membre
+de la commission si l'on se trouve à moins de six mois du renouvellement général
+de la commission, à moins que la condition de quorum prévue à l'article R. 326-7
+l'exige.

@@ -1,7 +1,7 @@
 Article R327-9
 ----
-La commission ne peut valablement délibérer que si au moins deux tiers de ses
-membres sont présents.
-
-Les décisions de la commission sont prises à la majorité des suffrages exprimés.
-En cas de partage égal des voix, celle du président est prépondérante.
+Le second rapport d'expertise mentionné au troisième alinéa de l'article L.
+327-1 et au troisième alinéa de l'article L. 327-3 atteste que le véhicule n'a
+pas subi de transformation notable au sens de l'article R. 321-16, ni de
+transformation susceptible de modifier les caractéristiques indiquées sur la
+carte grise.

@@ -1,7 +1,8 @@
 Article R326-9
 ----
-Le second rapport d'expertise mentionné au troisième alinéa de l'article L.
-326-11 et au troisième alinéa de l'article L. 326-12 atteste que le véhicule n'a
-pas subi de transformation notable au sens de l'article R. 321-16, ni de
-transformation susceptible de modifier les caractéristiques indiquées sur la
-carte grise.
+La liste des experts en automobile est publiée avant le 31 décembre de chaque
+année au Bulletin officiel du ministère chargé des transports.
+
+Tout changement de situation ou de condition d'exercice professionnel survenant
+entre deux publications et entraînant une modification de la liste fait l'objet
+d'une publication distincte.
