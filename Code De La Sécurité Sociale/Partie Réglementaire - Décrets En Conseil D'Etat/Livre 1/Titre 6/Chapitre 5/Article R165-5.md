@@ -10,11 +10,11 @@ données sur lesquelles l'inscription est fondée ;
 
 2° Les produits inscrits sous forme de marque ou de nom commercial :
 
-a) Qui font l'objet, auprès du corps médical, d'informations ne mentionnant pas
-soit le tarif de responsabilité, soit le prix fixé, soit, le cas échéant, les
-seules indications thérapeutiques, diagnostiques ou de compensation du handicap
-dans lesquelles ils sont pris en charge ou les conditions de prescription et
-d'utilisation ;
+a) Qui font l'objet, auprès du corps médical ou de tout autre professionnel de
+santé, d'informations ne mentionnant pas soit le tarif de responsabilité, soit
+le prix fixé, soit, le cas échéant, les seules indications thérapeutiques,
+diagnostiques ou de compensation du handicap dans lesquelles ils sont pris en
+charge ou les conditions de prescription et d'utilisation ;
 
 b) Ou dont la commercialisation est suspendue ou interrompue.
 
