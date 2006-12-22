@@ -9,8 +9,9 @@ a) l'état des rectifications apportées à son résultat pour la détermination
 résultat d'ensemble ;
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme
-ouvrant droit à exonération en application du III de l'article 44 octies et du
-neuvième alinéa du I de l'article 44 decies du code général des impôts.
+ouvrant droit à exonération en application du III de l'article 44 octies, du III
+de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du
+code général des impôts.
 
 La société mère dépose avec son relevé de solde auprès du comptable de la
 direction générale des impôts la liste des sociétés membres du groupe et des
