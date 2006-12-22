@@ -24,9 +24,11 @@ mise à même de présenter des observations écrites et, le cas échéant, sur 
 demande, des observations orales.
 
 L'élève conducteur doit être sous la surveillance constante et directe d'un
-accompagnateur titulaire depuis au moins trois ans du permis de conduire
-correspondant à la catégorie du véhicule utilisé ou titulaire de l'autorisation
-d'enseigner la conduite des véhicules à moteur.
+accompagnateur. Cet accompagnateur doit avoir un âge minimal fixé par un arrêté
+du ministre chargé des transports et être titulaire soit de l'autorisation
+d'enseigner la conduite de véhicules à moteur soit du permis de conduire
+correspondant à la catégorie du véhicule utilisé, sous réserve, dans ce dernier
+cas, que le délai probatoire défini à l'article L. 223-1 soit expiré.
 
 Le fait pour tout élève conducteur de refuser de restituer son livret
 d'apprentissage malgré la notification qui lui aura été faite d'une décision
