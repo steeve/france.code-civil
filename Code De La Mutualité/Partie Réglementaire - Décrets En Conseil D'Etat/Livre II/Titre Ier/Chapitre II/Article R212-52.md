@@ -37,11 +37,15 @@ pour le remboursement du principal, une dépréciation doit être constatée à
 l'inventaire.
 
 II. - Le I du présent article s'applique également aux obligations indexées sur
-le niveau général des prix, avec garantie de remboursement au pair et émises ou
-garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1°
-du A de l'article R. 212-31, ou dont le débiteur est un établissement public
-national de l'un des Etats membres de la Communauté européenne ou parties à
-l'accord sur l'Espace économique européen.
+le niveau général des prix d'un pays ou d'un ensemble de pays dont la devise est
+celle dans laquelle sont libellées ces obligations, avec garantie de
+remboursement au pair. Ces obligations sont soit émises par une personne morale
+de droit privé ayant son siège social sur le territoire d'un Etat membre de
+l'OCDE et négociées sur un marché reconnu, soit émises ou garanties par un Etat,
+un organisme ou une collectivité publics mentionnés au 1° du A de l'article R.
+212-31, soit celles dont le débiteur est un établissement public national de
+l'un des Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen.
 
 Pour le calcul de la différence à amortir entre le prix d'achat d'une obligation
 indexée sur le niveau général des prix et son prix de remboursement, celui-ci
