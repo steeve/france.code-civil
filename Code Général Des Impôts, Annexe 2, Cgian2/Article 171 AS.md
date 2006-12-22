@@ -1,12 +1,6 @@
 Article 171 AS
 ----
-I. - Les sociétés de capital-risque joignent à leur déclaration de résultats un
-état permettant d'apprécier le respect, au 30 juin, au 31 décembre et à la
-clôture de l'exercice s'il est clos à une date différente, du quota prévu au
-troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet
-1985. Cet état, établi sur papier libre, mentionne la nature et le montant des
-investissements éligibles au quota ainsi que les éléments constitutifs de la
-situation nette comptable telle qu'elle est définie à l'article 171 AM.
+I. - (abrogé).
 
 II. - Les sociétés de capital-risque qui réalisent des prestations de services
 accessoires au sens du premier alinéa du 1° de l'article 1er-1 de la loi n°

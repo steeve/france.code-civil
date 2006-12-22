@@ -1,6 +1,6 @@
 Article 171 AM
 ----
-Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de
+I. - Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de
 l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 :
 
 a) La situation nette comptable d'une société de capital-risque s'apprécie après
@@ -42,3 +42,8 @@ par ces entités ;
 f) Ne sont pas prises en compte les participations détenues par la société de
 capital-risque pour le compte de tiers ou financées grâce au concours de tiers
 qui en assument les risques financiers.
+
+II. - Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi
+n° 85-695 du 11 juillet 1985, la capitalisation boursière d'une société est
+déterminée conformément au II de l'article R. 214-38 du code monétaire et
+financier.

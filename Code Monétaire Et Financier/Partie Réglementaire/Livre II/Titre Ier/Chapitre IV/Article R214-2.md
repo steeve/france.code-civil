@@ -10,19 +10,31 @@ mobilières sont :
 2° Soit admis à la négociation sur un marché réglementé en fonctionnement
 régulier d'un Etat ni membre de la Communauté européenne, ni partie à l'accord
 sur l'Espace économique européen pour autant que ce marché ne figure pas sur une
-liste de marchés exclus établie par l'Autorité des marchés financiers.
+liste de marchés exclus établie par l'Autorité des marchés financiers ;
 
-Sont assimilés à des instruments financiers admis à la négociation sur un marché
-réglementé les instruments financiers émis dès lors que leur admission à la
-négociation a été demandée. Toutefois, cette assimilation cesse de produire
-effet un an après l'émission, si, à cette date, l'admission à la négociation n'a
-pas été obtenue.
+3° Soit négociés sur un marché d'instruments financiers non mentionné au 1°,
+ouvert au public et en fonctionnement régulier, dont les règles d'organisation
+sont approuvées par l'Autorité des marchés financiers à la demande de la
+personne qui gère ce marché, et qui se soumet aux dispositions du règlement
+général de cette même autorité relatives aux abus de marché ;
 
-II. - Sont assimilés à des actifs admis à la négociation sur un marché
-réglementé mentionnés aux 1° et 2° du I les titres de créance négociables émis
-sur le fondement du droit français ou d'un droit étranger et soumis à un
-contrôle public particulier visant à protéger les détenteurs de ces titres et
-répondant à chacune des quatre conditions suivantes :
+4° Soit négociés sur un marché d'instruments financiers non mentionné aux 1° et
+3°, ouvert au public et en fonctionnement régulier, dont le siège est fixé dans
+un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord
+sur l'Espace économique européen, et ayant des règles d'organisation et de
+protection des investisseurs comparables à celles des marchés relevant du 3° et
+reconnues par l'autorité compétente de ce même Etat partie.
+
+Sont assimilés à des instruments financiers mentionnés au 1° à 4° les
+instruments financiers émis dès lors que leur admission à la négociation a été
+demandée. Toutefois, cette assimilation cesse de produire effet un an après
+l'émission, si, à cette date, l'admission à la négociation n'a pas été obtenue.
+
+II. - Sont assimilés à des actifs admis à la négociation sur un marché relevant
+du I les titres de créance négociables émis sur le fondement du droit français
+ou d'un droit étranger et soumis à un contrôle public particulier visant à
+protéger les détenteurs de ces titres et répondant à chacune des quatre
+conditions suivantes :
 
 1° Préalablement à la première émission, l'émetteur rédige une documentation
 financière portant sur son activité et sa situation économique et financière et
