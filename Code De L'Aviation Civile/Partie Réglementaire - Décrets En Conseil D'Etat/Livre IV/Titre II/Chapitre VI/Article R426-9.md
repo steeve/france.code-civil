@@ -2,10 +2,8 @@ Article R426-9
 ----
 Sur demande des intéressés, les cotisations des personnels navigants des essais
 réception, des parachutistes professionnels et des personnels navigants
-contractuels de la sécurité civile régis par le décret n° 94-1047 du 6 décembre
-1994 et engagés à titre principal dans les opérations aériennes de lutte contre
-les feux de forêt sont majorées de 50 p. 100. Dans ce cas, les cotisations des
-employeurs sont majorées dans la même proportion.
+contractuels de la sécurité civile sont majorées de 50 %. Dans ce cas, les
+cotisations des employeurs sont majorées dans la même proportion.
 
 Les majorations prévues ci-dessus ne sont plus appliquées lorsque le nombre
 d'annuités calculé en fonction des dispositions de l'article R. 426-13 atteint
