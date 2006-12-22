@@ -1,25 +1,24 @@
 Article R322-10-2
 ----
-La prise en charge des frais de transports sanitaires terrestres est subordonnée
-à la présentation par l'assuré d'une prescription attestant que l'état du malade
-justifie l'usage du moyen de transport prescrit *documents obligatoires*.
-
-La prescription médicale indique le moyen de transport le moins onéreux
-compatible avec l'état du malade.
+La prise en charge des frais de transport est subordonnée à la présentation par
+l'assuré de la prescription médicale de transport ainsi que d'une facture
+délivrée par le transporteur ou d'un justificatif de transport. La prescription
+indique le motif du transport et le mode de transport retenu en application des
+règles de prise en charge mentionnées au premier alinéa de l'article L. 322-5.
 
 En cas d'urgence, la prescription médicale peut être établie a posteriori.
 
-Dans les cas mentionnés à l'article R. 322-10-1, la convocation vaut
-prescription médicale ; le moyen de transport le moins onéreux compatible avec
-l'état du malade doit être indiqué dans la convocation par :
+Dans les cas mentionnés au 2° de l'article R. 322-10, la convocation vaut
+prescription médicale. Le moyen de transport le moins onéreux compatible avec
+l'état du bénéficiaire doit être indiqué dans la convocation par :
 
-a) Dans les cas mentionnés au 1° de l'article R. 322-10-1, le médecin conseil
-membre de la commission médicale d'appareillage ou le médecin prescripteur de
-l'appareil si l'assuré se rend chez un fournisseur d'appareillage ;
+a) Le médecin-conseil membre de la commission médicale d'appareillage ou le
+médecin prescripteur de l'appareil si l'assuré se rend chez un fournisseur
+d'appareillage dans les cas mentionnés au a ;
 
-b) Le médecin conseil dans les cas mentionnés au 2° de l'article R. 322-10-1 ;
+b) Le médecin-conseil dans les cas mentionnés au b ;
 
-c) Le médecin expert désigné par le tribunal du contentieux de l'incapacité dans
-les cas mentionnés au 3° de l'article R. 322-10-1 ;
+c) Le médecin expert désigné par la juridiction du contentieux de l'incapacité
+dans les cas mentionnés au c ;
 
-d) Le médecin expert dans les cas mentionnés au 4° de l'article R. 322-10-1.
+d) Le médecin expert dans les cas mentionnés au d.

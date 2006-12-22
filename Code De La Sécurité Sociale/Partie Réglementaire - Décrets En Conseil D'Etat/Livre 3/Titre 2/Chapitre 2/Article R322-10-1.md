@@ -1,19 +1,17 @@
 Article R322-10-1
 ----
-Les frais de transports sanitaires terrestres exposés pour se soumettre à un
-contrôle en application de la législation de la sécurité sociale s'entendent
-[*définition*] des frais de transports engagés par l'assuré ou ses ayants droit
-:
+Les transports pris en charge par l'assurance maladie peuvent être assurés par
+les moyens suivants :
 
-1° Pour se rendre à la convocation d'une consultation médicale d'appareillage ou
-pour se rendre chez un fournisseur d'appareillage agréé pour la fourniture
-d'appareils mentionnés aux chapitres III et V du livre V du tarif
-interministériel des prestations sanitaires ;
+1° L'ambulance ;
 
-2° Pour répondre à une convocation du contrôle médical ;
+2° Le transport assis professionnalisé, véhicule sanitaire léger et taxi ;
 
-3° Pour répondre à la convocation d'un médecin expert désigné par un tribunal du
-contentieux de l'incapacité mentionnée à l'article R. 143-1 ;
+3° Les transports en commun terrestres, l'avion ou le bateau de ligne régulière,
+les moyens de transport individuels.
 
-4° Pour se rendre à la consultation d'un expert désigné en application des
-articles R. 141-1 et R. 143-34.
+Un référentiel de prescription arrêté par le ministre chargé de la sécurité
+sociale précise les situations dans lesquelles l'état du malade justifie
+respectivement la prescription des modes de transport prévus au présent article
+en fonction de l'importance des déficiences et incapacités et de leurs
+incidences.
