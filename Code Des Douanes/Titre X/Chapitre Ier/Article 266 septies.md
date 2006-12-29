@@ -26,7 +26,7 @@ consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4
 du I de l'article 266 sexies ;
 
-c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4
+c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4
 du I de l'article 266 sexies.
 
 5. La première livraison après fabrication nationale, la livraison sur le marché
@@ -47,12 +47,7 @@ membre de la Communauté européenne, des matériaux mentionnés au a, par une
 personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de
 sa propre utilisation ;
 
-7. La première livraison après fabrication nationale, la livraison sur le marché
-intérieur après achat, importation ou fabrication dans un autre Etat membre de
-la Communauté européenne ou la mise à la consommation des produits
-antiparasitaires à usage agricole ou des produits assimilés dans la composition
-desquels entrent des substances classées dangereuses mentionnés au 7 du I de
-l'article 266 sexies ;
+7. Alinéa abrogé ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L.
 512-8 du code de l'environnement ;
