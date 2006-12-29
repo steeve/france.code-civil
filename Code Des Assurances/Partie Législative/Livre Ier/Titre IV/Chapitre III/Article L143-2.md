@@ -11,11 +11,10 @@ d'incapacité.
 Les droits individuels en cours de constitution relatifs aux contrats mentionnés
 à l'article L. 143-1 sont transférables vers un autre contrat mentionné à
 l'article L. 143-1, ainsi que, dans des conditions et des limites fixées par
-décret, vers un plan d'épargne retraite populaire défini à l'article 108 de la
-loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Ces droits sont
-également transférables vers un contrat offrant les prestations mentionnées à
-l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de l'agrément
-administratif mentionné au premier alinéa de cet article. La notice
+décret, vers un plan d'épargne retraite populaire défini à l'article L. 144-2.
+Ces droits sont également transférables vers un contrat offrant les prestations
+mentionnées à l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de
+l'agrément administratif mentionné au premier alinéa de cet article. La notice
 d'information précise les modalités d'exercice de la clause de transférabilité.
 Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire
 déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du
