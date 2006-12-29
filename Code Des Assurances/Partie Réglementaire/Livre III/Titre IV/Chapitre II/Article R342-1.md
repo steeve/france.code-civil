@@ -2,8 +2,8 @@ Article R342-1
 ----
 La présente section s'applique aux contrats pour lesquels il est tenu une
 comptabilité auxiliaire d'affectation ne relevant pas de l'article L. 441-8 ou
-de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
-retraites. Il est établi, pour chaque comptabilité auxiliaire :
+de l'article L. 144-2 du code des assurances. Il est établi, pour chaque
+comptabilité auxiliaire :
 
 a) Un compte de résultat d'affectation ;
 

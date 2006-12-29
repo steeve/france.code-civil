@@ -56,11 +56,10 @@ du code de la mutualité.
 Le contrat prévoit, au bénéfice du participant qui n'est plus tenu d'y adhérer,
 une faculté de transfert vers un autre contrat respectant les règles définies en
 application du septième alinéa de l'article L. 741-10 ou vers un plan d'épargne
-retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003
-portant réforme des retraites. La notice d'information mentionnée aux articles
-L. 140-4 du code des assurances, L. 221-6 du code de la mutualité et L. 932-6 du
-code de la sécurité sociale précise cette faculté et en détaille les modalités
-d'exercice.
+retraite populaire défini à l'article L. 144-2 du code des assurances. La notice
+d'information mentionnée aux articles L. 140-4 du code des assurances, L. 221-6
+du code de la mutualité et L. 932-6 du code de la sécurité sociale précise cette
+faculté et en détaille les modalités d'exercice.
 
 Entrent également dans le champ des opérations de retraite mentionnées au
 septième alinéa de l'article L. 741-10 les régimes de retraite à prestations

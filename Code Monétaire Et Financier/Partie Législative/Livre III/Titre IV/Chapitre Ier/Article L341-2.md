@@ -10,9 +10,10 @@ supérieurs à un seuil fixé par décret ;
 2° Aux prises de contact dans les locaux des personnes mentionnées à l'article
 L. 341-3, sauf lorsque ces personnes sont contractuellement liées, en vue de la
 commercialisation d'instruments financiers et de produits d'épargne, aux
-sociétés exploitant des magasins de grande surface visés à la section 3 du
-chapitre Ier du titre V du livre IV du code de l'urbanisme, et que leurs locaux
-sont implantés dans les locaux de ces magasins ;
+sociétés exploitant des magasins de grande surface visés par l'article L. 720-5
+du code de commerce et l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973
+d'orientation du commerce et de l'artisanat, et que leurs locaux sont implantés
+dans les locaux de ces magasins ;
 
 3° Aux démarches dans les locaux professionnels d'une personne morale à la
 demande de cette dernière ;
@@ -42,4 +43,10 @@ mentionnés, sous peine de nullité ;
 
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un
 établissement de crédit, en vue de proposer des crédits visés au titre Ier du
-livre III du code de la consommation.
+livre III du code de la consommation ;
+
+9° Aux conventions conclues entre les personnes mentionnées au 1° de l'article
+L. 341-3, à l'exception des sociétés de capital-risque, pour la distribution de
+produits, la réalisation d'une opération ou la fourniture d'un service,
+mentionnés à l'article L. 341-1, à l'exception des dispositions mentionnées à
+l'article L. 341-6.

@@ -5,8 +5,8 @@ capitaux garantis sont égaux ou supérieurs à un montant fixé par arrêté du
 ministre chargé de la mutualité :
 
 - le montant de la valeur de rachat ou la valeur de transfert de son plan
-d'épargne retraite populaire tel que défini à l'article 108 de la loi n°
-2003-775 du 21 août 2003 précitée (1) ;
+d'épargne retraite populaire tel que défini à l'article L. 144-2 du code des
+assurances ;
 
 - le cas échéant, le montant de la valeur de réduction ;
 
@@ -27,7 +27,7 @@ Ces montants ne peuvent tenir compte de participations aux excédents qui ne
 seraient pas attribuées à titre définitif.
 
 La mutuelle ou l'union indique en termes précis et clairs dans cette
-communication ce que signifient les opérations de rachat, de transfert (1) et de
+communication ce que signifient les opérations de rachat, de transfert et de
 réduction et quelles sont leurs conséquences légales et contractuelles.
 
 Lorsque les capitaux garantis sont inférieurs au montant défini au premier
