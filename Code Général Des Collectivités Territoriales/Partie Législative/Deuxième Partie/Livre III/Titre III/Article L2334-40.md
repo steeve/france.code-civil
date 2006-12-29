@@ -1,14 +1,14 @@
 Article L2334-40
 ----
 Il est institué une dotation budgétaire intitulée dotation de développement
-rural. Le montant de cette dotation est fixé à 116,104 millions d'euros pour
-2004. A compter de 2005, chaque année, la loi de finances détermine le montant
-de cette dotation par application du taux de croissance de la formation brute de
+rural. Le montant de cette dotation est fixé à 116, 104 millions d'euros pour
+2004.A compter de 2005, chaque année, la loi de finances détermine le montant de
+cette dotation par application du taux de croissance de la formation brute de
 capital fixe des administrations publiques prévu pour l'année à venir, tel qu'il
 est estimé dans la projection économique associée présentée en annexe au projet
-de loi de finances. A compter de 2006, la dotation de développement rural
+de loi de finances.A compter de 2006, la dotation de développement rural
 comporte deux parts. En 2006, le montant de la première part est fixé à 104 370
-000 euros et celui de la seconde part à 20 000 000 euros. A compter de 2007, le
+000 euros et celui de la seconde part à 20 000 000 euros.A compter de 2007, le
 montant des deux parts est fixé par application du taux de croissance défini
 ci-dessus.
 
@@ -20,9 +20,10 @@ seuils de population nécessaires pour une transformation en communauté
 d'agglomération, si les deux tiers au moins des communes du groupement comptent
 moins de 5 000 habitants, ainsi que les syndicats mixtes composés uniquement
 d'établissements publics de coopération intercommunale à fiscalité propre
-répondant aux mêmes règles d'éligibilité. Les communes éligibles à la seconde
-fraction de la dotation de solidarité rurale prévue à l'article L. 2334-22
-bénéficient de la seconde part de la dotation de développement rural.
+répondant aux mêmes règles d'éligibilité. Les communes éligibles au titre d'une
+année à la seconde fraction de la dotation de solidarité rurale prévue à
+l'article L. 2334-22 bénéficient l'année suivante de la seconde part de la
+dotation de développement rural.
 
 Les crédits de la première part de la dotation de développement rural sont
 répartis entre les départements en tenant compte du nombre de communes
@@ -50,8 +51,8 @@ directe locale ou les créations d'emplois prévues sur le territoire des
 
 Dans chaque département, il est institué auprès du représentant de l'Etat une
 commission composée des représentants des présidents des établissements publics
-de coopération intercommunale dont la population n'excède pas 60 000 habitants.
-A compter du renouvellement général des conseils des établissements publics de
+de coopération intercommunale dont la population n'excède pas 60 000 habitants.A
+compter du renouvellement général des conseils des établissements publics de
 coopération intercommunale mentionné au II de l'article 54 de la loi de finances
 pour 2004 (n° 2003-1311 du 30 décembre 2003), les représentants des maires de
 communes éligibles à la seconde part sont également membres de la commission et
@@ -82,8 +83,8 @@ La population à prendre en compte pour l'application du présent article est
 celle définie à l'article L. 2334-2.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat. A défaut, le décret n° 85-260 du 22 février 1985 relatif aux modalités
-de répartition des ressources du fonds national de péréquation de la taxe
+d'Etat.A défaut, le décret n° 85-260 du 22 février 1985 relatif aux modalités de
+répartition des ressources du fonds national de péréquation de la taxe
 professionnelle et du fonds national de péréquation, le décret n° 85-1314 du 11
 décembre 1985 relatif aux modalités de répartition des ressources du fonds
 national de péréquation de la taxe professionnelle et du Fonds national de

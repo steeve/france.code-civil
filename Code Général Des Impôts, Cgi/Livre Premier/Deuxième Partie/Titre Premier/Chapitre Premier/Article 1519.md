@@ -16,8 +16,8 @@ françaises.
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
 côte est utilisée.
 
-1° A compter du 1er janvier 2002, les taux de la redevance communale des mines
-sont fixés à :
+II. 1° A compter du 1er janvier 2002, les tarifs de la redevance communale des
+mines sont fixés à :
 
 - 41,9 euros par kilogramme d'or contenu pour les minerais aurifères ;
 
@@ -106,7 +106,7 @@ mis en exploitation avant le 1er janvier 1992 ;
 1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin
 au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060 du 24
 décembre 1971 relative à la délimitation des eaux territoriales françaises, les
-taux de la redevance communale des mines sont fixés à :
+tarifs de la redevance communale des mines sont fixés à :
 
 - 25,3 euros par 100 000 mètres cubes extraits pour le gaz naturel ;
 
@@ -116,7 +116,7 @@ Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
 côte est utilisée ;
 
 1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les
-taux de la redevance communale des mines sont fixés à :
+tarifs de la redevance communale des mines sont fixés à :
 
 - 59,6 euros par 100 000 mètres cubes extraits pour les gisements de gaz naturel
 ;
@@ -126,7 +126,7 @@ pétrole brut ;
 
 1° quater (Dispositions abrogées à compter du 1er janvier 2002).
 
-2° Les taux de la redevance applicables à partir du 1er janvier 1954 aux
+2° Les tarifs de la redevance applicables à partir du 1er janvier 1954 aux
 substances minérales concédées autres que celles mentionnées au 1° sont fixés,
 compte tenu de la valeur de la substance minérale concédée, par décret pris sur
 proposition du ministre de l'intérieur, du ministre chargé des mines et du
@@ -139,13 +139,15 @@ par application de l'article 5 du Code minier.
 III. Les modalités d'application des I et II sont fixées par décret en Conseil
 d'Etat rendu après avis du conseil général des mines.
 
-IV. Les taux prévus au 1° et 2° du II évoluent chaque année comme l'indice de
+IV. Les tarifs prévus au 1° et 2° du II évoluent chaque année comme l'indice de
 valeur du produit intérieur brut total, tel qu'il est estimé dans la projection
 économique présentée en annexe au projet de loi de finances de l'année.
 
-Les taux visés au 1° ter du II évoluent chaque année comme l'indice des prix tel
-qu'il est estimé dans la projection économique présentée en annexe au projet de
-loi de finances de l'année.
+Les tarifs visés au 1° ter du II évoluent chaque année comme l'indice des prix
+tel qu'il est estimé dans la projection économique présentée en annexe au projet
+de loi de finances de l'année.
+
+Les tarifs sont arrondis au dizième d'euro le plus proche.
 
 V. Les modalités d'attribution et de répartition de la redevance communale sont
 fixées par décrets en Conseil d'Etat.

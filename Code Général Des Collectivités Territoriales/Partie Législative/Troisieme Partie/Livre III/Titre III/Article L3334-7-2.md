@@ -2,8 +2,8 @@ Article L3334-7-2
 ----
 Il est créé, au sein de la dotation globale de fonctionnement des départements,
 une dotation dont le montant est égal à la diminution de la dotation mentionnée
-à l'article L. 2334-7-2 et des attributions mentionnées à l'article L. 5211-28.
-A compter de 2009, cette dotation évolue, chaque année, comme la dotation
+à l'article L. 2334-7-2 et des attributions mentionnées à l'article L. 5211-28.A
+compter de 2011, cette dotation évolue, chaque année, comme la dotation
 forfaitaire mise en répartition.
 
 Cette dotation est répartie entre les départements proportionnellement aux

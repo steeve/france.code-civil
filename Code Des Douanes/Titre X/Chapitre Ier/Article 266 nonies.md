@@ -9,7 +9,7 @@ Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés non autorisée au titre du titre Ier du livre V du code de
-l'environnement pour ladite réception, 36.
+l'environnement pour ladite réception, 38,90.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés autorisée au titre du titre Ier du livre V du code de l'environnement
@@ -19,49 +19,49 @@ pour ladite réception :
 de management environnemental et d'audit (EMAS) défini par le règlement (CE) n°
 761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le
 système de management environnemental a été certifié conforme à la norme
-internationale ISO 14001 par un organisme accrédité, 7,5.
+internationale ISO 14001 par un organisme accrédité, 8,10.
 
-- autre, 9,15.
+- autre, 9,90.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de
 déchets industriels spéciaux, ou transférés vers une telle installation située
-dans un autre Etat, 9,15.
+dans un autre Etat, 9,90.
 
 Déchets réceptionnés dans une installation de stockage de déchets industriels
 spéciaux, ou transférés vers une telle installation située dans un autre Etat,
-18,29.
+19,75.
 
 Substances émises dans l'atmosphère.
 
-Oxydes de soufre et autres composés soufrés, 38,11.
+Oxydes de soufre et autres composés soufrés, 42,68.
 
-Acide chlorhydrique, 38,11.
+Acide chlorhydrique, 42,68.
 
-Protoxyde d'azote, 57,17.
+Protoxyde d'azote, 64,03.
 
 Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du
-protoxyde d'azote, 45,73.
+protoxyde d'azote, 51,22.
 
 Hydrocarbures non méthaniques, solvants et autres composés organiques volatils,
-38,11.
+42,68.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des
 huiles usagées.
 
-Lubrifiants, huiles et préparations lubrifiantes, 38,11.
+Lubrifiants, huiles et préparations lubrifiantes, 43,45.
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et
 produits adoucissants et assouplissants pour le linge.
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 71,65.
+- dont la teneur en phosphates est inférieure à 5 % du poids, 39.
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 79,27.
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 168.
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 86,90.
+- dont la teneur en phosphates est supérieur à 30 % du poids, 280.
 
 Matériaux d'extraction.
 
-Matériaux d'extraction, 0,09.
+Matériaux d'extraction, 0,10.
 
 Substances classées dangereuses qui entrent dans la composition des produits
 antiparasitaires à usage agricole et des produits assimilés.
@@ -84,23 +84,43 @@ Installations classées.
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 442,10.
+- artisan n'employant pas plus de deux salariés, 495,15.
 
-- autres entreprises inscrites au répertoire des métiers, 1067,14.
+- autres entreprises inscrites au répertoire des métiers, 1195,20.
 
-- autres entreprises, 2225,76.
+- autres entreprises, 2492,85.
 
-Exploitation au cours d'une année civile (tarif de base), 335,39.
+Exploitation au cours d'une année civile (tarif de base) :
+
+- installation ayant fait l'objet d'un enregistrement dans le cadre du système
+communautaire de management environnemental et d'audit (EMAS) défini par le
+règlement (CE) n° 761-2001 du Parlement européen et du Conseil, du 19 mars 2001,
+ou dont le système de management environnemental a été certifié conforme à la
+norme ISO 14001 par un organisme accrédité, 335.
+
+- Autres installations, 375,54.
 
 Imprimés (Dispositions déclarées non conformes à la Constitution par décision du
 Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) mis à disposition ou
 distribués gratuitement aux particuliers, sans demande préalable de leur part,
 dans les boîtes aux lettres, dans les parties communes des habitations
 collectives, dans les locaux commerciaux, dans les lieux publics ou sur la voie
-publique, unité kilogramme, 0,15.
+publique, unité kilogramme, 0,9.
+
+1 bis. A compter de 2008, les tarifs applicables aux déchets, aux substances
+émises dans l'atmosphère, aux lubrifiants, huiles et préparations lubrifiantes
+dont l'utilisation génère des huiles usagées, aux préparations pour lessives, y
+compris les préparations auxiliaires de lavage, et produits adoucissants et
+assouplissants pour le linge, aux matériaux d'extraction, aux installations
+classées et aux imprimés mentionnés dans le tableau du 1 sont relevés, chaque
+année, dans la même proportion que la limite supérieure de la première tranche
+du barème de l'impôt sur le revenu.
 
 2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros
 par installation.
+
+2 bis. Le montant minimal annuel de la taxe prévue au 9 du I de l'article 266
+sexies est de 450 Euros par redevable.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de
 stockage de déchets industriels spéciaux ne s'applique pas aux résidus de

@@ -9,4 +9,4 @@ exceptionnel sur douze mois à compter de la date de mise en service de ces
 équipements.
 
 Ces dispositions sont applicables aux accumulateurs et aux équipements acquis ou
-fabriqués entre le 1er janvier 2003 et le 1er janvier 2007.
+fabriqués entre le 1er janvier 2003 et le 1er janvier 2010.

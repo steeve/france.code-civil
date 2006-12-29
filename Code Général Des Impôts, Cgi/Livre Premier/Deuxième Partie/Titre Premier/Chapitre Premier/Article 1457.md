@@ -7,4 +7,10 @@ les marchés, des fleurs, de l'amadou, des balais, des statues et figures en
 plâtre, des fruits, des légumes, des poissons, du beurre, des oeufs, du fromage
 et autres menus comestibles;
 
-2° Les chiffonniers au crochet, les rémouleurs ambulants.
+2° Les chiffonniers au crochet, les rémouleurs ambulants. 3° L'activité de vente
+de produits et services à domicile par démarchage de personne à personne ou par
+réunion exercée par les personnes visées au 20° de l'article L. 311-3 du code de
+la sécurité sociale et dont la rémunération brute totale, perçue au titre de
+cette activité au cours de la période de référence définie à l'article 1467 A,
+est inférieure à la limite de 16,5 % du montant annuel du plafond mentionné à
+l'article L. 241-3 du code de la sécurité sociale.

@@ -24,8 +24,9 @@ des impôts, dans les mêmes conditions. L'Etat est garant en dernier ressort de
 ces prêts.
 
 L'octroi de la garantie de l'Etat est subordonné à une participation financière
-des établissements de crédit qui cotisent à un dispositif de fonds de garantie
-de nature privée dont ils assurent la gestion.
+des établissements qui s'engagent à prendre en charge au moins la moitié en
+montant des sinistres intervenant sur leurs prêts garantis dans la limite de
+taux et dans des conditions définis par décret.
 
 Ces prêts peuvent être distribués par tout établissement de crédit ayant signé à
 cet effet une convention avec l'Etat et avec une société de gestion agissant

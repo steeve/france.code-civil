@@ -65,7 +65,8 @@ g. les groupements d'intérêt public mentionnés à l'article 239 quater B.
 
 h. Les sociétés civiles professionnelles visées à l'article 8 ter.
 
-i. les groupements de coopération sanitaire mentionnés à l'article 239 quater D.
+i. les groupements de coopération sanitaire et les groupements de coopération
+sociale et médico-sociale mentionnés à l'article 239 quater D.
 
 Cette option entraîne l'application auxdites sociétés et auxdits groupements,
 sous réserve des exceptions prévues par le présent code, de l'ensemble des

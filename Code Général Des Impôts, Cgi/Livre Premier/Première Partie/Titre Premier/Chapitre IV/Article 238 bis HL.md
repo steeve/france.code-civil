@@ -2,6 +2,7 @@ Article 238 bis HL
 ----
 En cas de dissolution de la société ou de réduction de son capital, le ministre
 de l'économie, des finances et du budget peut ordonner la réintégration des
-sommes déduites en application des articles 163 septdecies ou 217 septies au
-revenu net global ou au résultat imposable de l'année ou de l'exercice au cours
-desquels elles ont été déduites.
+sommes déduites en application de l'article 217 septies au résultat imposable de
+l'exercice au cours duquel elles ont été déduites ou la reprise de la réduction
+d'impôt prévue à l'article 199 unvicies l'année au cours de laquelle elle a été
+opérée.

@@ -15,7 +15,7 @@ l'article 223 B ;
 d. Registre mentionné au II de l'article 54 septies ;
 
 e. Etat prévu au IV de l'article 41, au I de l'article 54 septies, au II de
-l'article 151 octies ou au 2 du II de l'article 151 nonies au titre de
+l'article 151 octies ou au 2 du II et au VI de l'article 151 nonies au titre de
 l'exercice au cours duquel est réalisée l'opération visée par ces dispositions
 ou au titre des exercices ultérieurs.
 
@@ -29,3 +29,7 @@ II. - Entraîne l'application d'une amende égale à 5 % des résultats de la
 société scindée non imposés en application des dispositions prévues aux articles
 210 A et 210 B, le défaut de production ou le caractère inexact ou incomplet de
 l'état prévu au III de l'article 54 septies.
+
+III. - Entraîne l'application d'une amende égale à 5 % du prix de revient du
+bien donné en location ou mis à disposition sous toute autre forme le défaut de
+production de la déclaration prévue à l'article 54 octies.

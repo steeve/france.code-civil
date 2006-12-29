@@ -1,7 +1,6 @@
 Article L2323-2
 ----
-A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement
-ou de réclamation assortie d'une demande de sursis de paiement avec constitution
-de garanties dans les conditions fixées par l'article L. 2323-11, le comptable
-chargé du recouvrement met en oeuvre les dispositions fixées par l'article L.
-257 du livre des procédures fiscales.
+A défaut de paiement des sommes mentionnées sur le titre de perception ou de la
+mise en jeu de l'article L. 2323-11, le comptable public compétent adresse au
+redevable une lettre de rappel avant la notification du premier acte de
+poursuite devant donner lieu à des frais.

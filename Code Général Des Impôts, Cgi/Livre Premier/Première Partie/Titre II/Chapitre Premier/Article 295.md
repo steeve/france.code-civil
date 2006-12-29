@@ -42,8 +42,7 @@ douanes et les affaires de vente, de commission, de courtage et de façon portan
 sur lesdits produits dans les départements de la Guyane, de la Guadeloupe, de la
 Martinique et de la Réunion.
 
-2. L'exonération prévue aux d et d bis du 1° du 5 de l'article 261 est
-applicable dans les départements d'outre-mer.
+2. (abrogé)
 
 3. (Abrogé).
 

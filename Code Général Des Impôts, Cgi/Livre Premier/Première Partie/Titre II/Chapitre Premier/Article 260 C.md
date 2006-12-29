@@ -16,8 +16,8 @@ caisses d'épargne et de prévoyance, ainsi que leurs groupements, entre eux ou
 avec la Caisse nationale des caisses d'épargne et de prévoyance ;
 
 4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
-conditions du chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur
-l'épargne, aux profits tirés des pensions réalisées dans les conditions prévues
+conditions prévues aux articles L. 432-6 à L. 432-11 du code monétaire et
+financier, aux profits tirés des pensions réalisées dans les conditions prévues
 par les articles L. 432-12 à L. 432-19 du code monétaire et financier ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est

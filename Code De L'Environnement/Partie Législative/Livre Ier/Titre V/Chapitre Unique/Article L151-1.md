@@ -96,6 +96,10 @@ lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme matière ;
 1 ter Aux installations d'élimination de déchets exclusivement affectées à
 l'amiante-ciment ;
 
+1 quater Aux installations classées d'élimination de déchets tels que les
+bioréacteurs, lorsqu'elles maîtrisent et valorisent la totalité de leur
+production de biogaz ;
+
 2. (Alinéa abrogé)
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de

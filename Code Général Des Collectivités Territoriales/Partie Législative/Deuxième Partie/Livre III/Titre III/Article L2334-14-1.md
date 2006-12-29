@@ -102,12 +102,6 @@ comptant 200 000 habitants et plus est égal au produit de leur population par l
 montant moyen de l'attribution par habitant perçue l'année précédente par ces
 communes.
 
-Les communes bénéficiant d'une augmentation de leur attribution au titre de la
-dotation de solidarité urbaine et de cohésion sociale supérieure à 20 % ne
-bénéficient de l'augmentation éventuelle des montants calculés en application
-des alinéas précédents qu'à hauteur d'un montant correspondant à une
-augmentation égale au plus à 30 %.
-
 V. - La majoration de la dotation nationale de péréquation est répartie entre
 les communes éligibles comptant moins de 200 000 habitants en proportion de leur
 population et de l'écart relatif entre le potentiel financier moyen par

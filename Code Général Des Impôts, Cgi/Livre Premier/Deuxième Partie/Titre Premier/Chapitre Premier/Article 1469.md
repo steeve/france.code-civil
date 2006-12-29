@@ -18,12 +18,18 @@ imposés au nom du locataire ; toutefois, la valeur locative des entrepôts et
 magasins généraux n'est retenue que dans les bases d'imposition de l'exploitant
 de ces entrepôts ou magasins ;
 
-2° Les équipements et biens mobiliers dont la durée d'amortissement est au moins
-égale à trente ans sont évalués suivant les règles applicables aux bâtiments
-industriels ; toutefois, les lignes, câbles et canalisations extérieurs aux
-établissements sont exonérés ainsi que leurs supports; les équipements et biens
-mobiliers destinés à l'irrigation sont exonérés dans les mêmes conditions qu'au
-1° ;
+2° Les équipements et biens mobiliers dont la durée d'amortissement, déterminée
+conformément au 2° du 1 de l'article 39, est au moins égale à trente ans sont
+évalués suivant les règles applicables aux bâtiments industriels ; toutefois,
+les lignes, câbles et canalisations extérieurs aux établissements sont exonérés
+ainsi que leurs supports; les équipements et biens mobiliers destinés à
+l'irrigation sont exonérés dans les mêmes conditions qu'au 1°.
+
+L'application de la méthode par composants mentionnée à l'article 237 septies
+est sans incidence sur la durée d'amortissement des biens dont l'entreprise ou
+un autre redevable de la taxe professionnelle qui lui est lié au sens du 3°
+quater du présent article disposait à la date de clôture du dernier exercice
+ouvert avant le 1er janvier 2005 ;
 
 3° Pour les autres biens, lorsqu'ils appartiennent au redevable, lui sont
 concédés ou font l'objet d'un contrat de crédit-bail mobilier, la valeur
@@ -75,7 +81,7 @@ directement ou indirectement :
 a. l'entreprise cessionnaire contrôle l'entreprise cédante ou est contrôlée par
 elle ;
 
-b. ou ces deux entreprises sont contrôlées par la même entreprise.
+b. ou ces deux entreprises sont contrôlées par la même entreprise ;
 
 4° Il n'est pas tenu compte de la valeur locative définie aux 2° et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
@@ -91,4 +97,8 @@ principal établissement est situé dans une commune dont la population est
 inférieure à 3 000 habitants.
 
 5° Il n'est pas tenu compte de la valeur locative des oeuvres d'art acquises par
-les entreprises dans le cadre des articles 238 bis AB et 238 bis-0 AB.
+les entreprises dans le cadre des articles 238 bis AB et 238 bis-0 AB ;
+
+6° Il n'est pas tenu compte de la valeur locative des pièces de rechange, à
+l'exception de celles qui ne peuvent être utilisées qu'avec une immobilisation
+corporelle déterminée, et des pièces de sécurité.

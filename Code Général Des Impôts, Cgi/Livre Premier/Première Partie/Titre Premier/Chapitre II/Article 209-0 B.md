@@ -65,21 +65,27 @@ l'exploitation des navires éligibles est déterminé par application à chacun 
 ces navires, par jour et par tranche de jauge nette de 100 unités du système de
 jaugeage universel (UMS), du barème suivant :
 
-TONNAGE (en unités du système de jaugeage universel) : jusqu'à 1 000
+TONNAGE (en unités du système de jaugeage universel)
 
-Montant (en euros) : 0,93 euros
+Jusqu'à 1 000
 
-TONNAGE (en unités du système de jaugeage universel) : de 1 000 à 10 000
 
-Montant (en euros) : 0,71 euros
+De 1 000 à 10 000
 
-TONNAGE (en unités du système de jaugeage universel) : de 10 000 à 25 000
+De 10 000 à 25 000
 
-Montant (en euros) : 0,47 euros
 
-TONNAGE (en unités du système de jaugeage universel) : plus de 25 000
+Plus de 25 000
 
-Montant (en euros) : 0,24 euros
+Montant (en euros)
+
+0,93
+
+0,71
+
+0,47
+
+0,24
 
 Pour l'application du premier alinéa, la jauge nette de chaque navire est
 arrondie à la centaine supérieure.
@@ -123,9 +129,13 @@ brute de l'ensemble des éléments d'actif.
 
 III. - L'option prévue au I doit être exercée au plus tard au titre d'un
 exercice clos ou d'une période d'imposition arrêtée avant le 1er janvier 2005.
-Pour les entreprises qui deviennent éligibles, pour la première fois, au présent
-régime au titre d'un exercice clos à compter du 1er janvier 2004, l'option peut
-être exercée au plus tard au titre de l'exercice suivant.
+Pour les entreprises qui étaient éligibles avant le 1er janvier 2007 et qui
+n'ont pas opté, l'option prévue au I peut être exercée au plus tard au titre
+d'un exercice clos ou d'une période d'imposition arrêtée entre le 1er janvier
+2007 et le 1er janvier 2008. Pour les entreprises qui deviennent éligibles, pour
+la première fois, au présent régime au titre d'un exercice clos à compter du 1er
+janvier 2008, l'option peut être exercée au plus tard au titre de l'exercice
+suivant.
 
 Pour les sociétés qui sont membres d'un groupe mentionné à l'article 223 A,
 cette option n'est ou ne demeure valable que si elle est exercée par l'ensemble

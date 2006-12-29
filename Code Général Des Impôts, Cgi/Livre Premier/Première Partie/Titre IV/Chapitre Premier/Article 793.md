@@ -49,10 +49,11 @@ réserve des dispositions de l'article 793 bis, à condition :
 a) Que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
 
-b) Que les fonds agricoles constituant le patrimoine du groupement aient été
-donnés à bail à long terme dans les conditions prévues par les articles L. 416-1
-à L. 416-6, L. 416-8 et L. 416-9 du code rural ou à bail cessible dans les
-conditions prévues par les articles L. 418-1 à L. 418-5 du code rural ;
+b) Que les immeubles à destination agricole constituant le patrimoine du
+groupement aient été donnés à bail à long terme dans les conditions prévues par
+les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural ou à bail
+cessible dans les conditions prévues par les articles L. 418-1 à L. 418-5 du
+code rural ;
 
 c )Que les parts aient été détenues depuis deux ans au moins par le donateur ou
 le défunt.
