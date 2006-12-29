@@ -1,7 +1,7 @@
 Article 46 AT
 ----
-Pour l'application des dispositions du deuxième alinéa du I de l'article 200
-quinquies du code général des impôts :
+Pour l'application des dispositions du 3 du I de l'article 200 quinquies du code
+général des impôts :
 
 I. - La remise d'une voiture particulière en vue de sa destruction à un
 organisme autorisé au titre de la législation des installations classées pour la
@@ -18,8 +18,8 @@ polluante.
 
 Le propriétaire du véhicule retiré de la circulation dont l'identité figure sur
 le certificat d'immatriculation et sur le bon d'enlèvement et le bénéficiaire du
-crédit d'impôt prévu au deuxième alinéa du I de l'article 200 quinquies précité
-doivent appartenir au même foyer fiscal.
+crédit d'impôt prévu au 3 du I de l'article 200 quinquies précité doivent
+appartenir au même foyer fiscal.
 
 II. - Le véhicule acquis ou faisant l'objet d'une première souscription d'un
 contrat de location avec option d'achat ou de location souscrit pour une durée

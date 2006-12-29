@@ -14,7 +14,9 @@ des personnes interposées, telles qu'elles sont désignées par les articles 91
 deuxième alinéa, et 1100 du code civil, à moins que cette cession ait acquis
 date certaine avant l'ouverture de la succession.
 
-Les mesures destinées à l'application du présent article sont fixées par décret
-en Conseil d'Etat (1).
+La présomption du premier alinéa n'est pas appliquée aux biens ayant fait
+l'objet d'une libéralité graduelle ou résiduelle, telle que visée aux articles
+1048 à 1061 du code civil.
 
-(1) Voir livre des procédures fiscales, art. L19 et R19-1.
+Les mesures destinées à l'application du présent article sont fixées par décret
+en Conseil d'Etat.

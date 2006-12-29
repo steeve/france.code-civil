@@ -13,6 +13,10 @@ Les agents ont également libre accès aux lieux de dépôt des entreprises de
 transport ainsi qu'aux ateliers publics et aux locaux des associations
 coopératives où sont effectuées des distillations.
 
+Ils ont un accès immédiat aux données conservées dans des systèmes
+dématérialisés de billetterie, ainsi qu'à la restitution des informations en
+clair.
+
 Lorsque les agents de catégorie A et B constatent une infraction, ils ont le
 droit, après en avoir informé le contrevenant, de saisir les objets, produits,
 marchandises ou appareils passibles de confiscation. Il est fait mention de la

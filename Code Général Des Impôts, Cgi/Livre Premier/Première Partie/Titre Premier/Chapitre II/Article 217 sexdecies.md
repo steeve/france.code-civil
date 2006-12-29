@@ -88,8 +88,12 @@ prévue au b du II n'est pas remplie, le montant rapporté est limité à la
 fraction du montant qui n'a pas été utilisé conformément aux dispositions du
 même b.
 
-Lorsque l'entreprise versante a choisi de bénéficier des dispositions prévues au
-présent article, les sommes versées ne peuvent ouvrir droit à une autre
-déduction, à une réduction d'impôt ou à un crédit d'impôt.
+IV. - Le I s'applique dans les conditions et limites prévues par le règlement
+(CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application
+des articles 87 et 88 du traité CE aux aides de minimis.
+
+V. - Lorsque l'entreprise versante a choisi de bénéficier des dispositions
+prévues au présent article, les sommes versées ne peuvent ouvrir droit à une
+autre déduction, à une réduction d'impôt ou à un crédit d'impôt.
 
 Un décret fixe les obligations déclaratives.

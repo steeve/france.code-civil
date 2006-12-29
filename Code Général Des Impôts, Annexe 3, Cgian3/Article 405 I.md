@@ -9,6 +9,3 @@ formule comprenant :
 la mention "droit de timbre payé sur état" ;
 
 la date de l'autorisation, lorsque celle-ci est nécessaire.
-
-L'apposition de cette formule n'est pas obligatoire lorsqu'il s'agit des droits
-dus sur les tickets de pari mutuel.

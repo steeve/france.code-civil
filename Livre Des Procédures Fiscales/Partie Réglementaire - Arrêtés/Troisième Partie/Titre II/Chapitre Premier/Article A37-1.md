@@ -13,11 +13,9 @@ dimension exigible sur les écrits autres que les bulletins de souscription
 d'actions et que les pouvoirs de représentation aux assemblées générales des
 membres des sociétés par actions ;
 
-3° (Alinéa devenu sans objet).
+3° (Alinéa devenu sans objet) ;
 
-4° Au siège des sociétés de course de chevaux ou de lévriers autorisées à payer
-sur états le droit de timbre des quittances afférent aux tickets de pari mutuel,
-ainsi que sur les hippodromes ou cynodromes ;
+4° (Alinéa devenu sans objet) ;
 
 5° Au siège de l'établissement principal ainsi que dans les établissements
 annexes, agences ou succursales des commerçants, industriels et entrepreneurs de

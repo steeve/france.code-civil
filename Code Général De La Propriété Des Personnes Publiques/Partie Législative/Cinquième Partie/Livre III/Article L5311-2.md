@@ -17,8 +17,8 @@ alinéas de l'article L. 2125-1, des articles L. 2125-4 à L. 2125-7, L. 2131-2 
 L. 2131-6, L. 2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L.
 2132-22 à L. 2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L. 2142-2, des articles
 L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11, L. 2222-20 à L.
-2222-23, du II de l'article L. 2321-1, des articles L. 2322-2 et L. 2322-3, des
-5° et 6° de l'article L. 2331-1 et de l'article L. 2331-2 ;
+2222-23, du II de l'article L. 2321-1, de l'article L. 2322-2, des 5° et 6° de
+l'article L. 2331-1 et de l'article L. 2331-2 ;
 
 4° La troisième partie, à l'exception des articles L. 3112-1 à L. 3112-3, L.
 3113-1 à L. 3113-4, L. 3211-3 à L. 3211-8, L. 3211-10 et L. 3211-11, L. 3211-13,

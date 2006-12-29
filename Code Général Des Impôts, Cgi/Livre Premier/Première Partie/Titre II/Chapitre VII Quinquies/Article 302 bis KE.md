@@ -16,7 +16,11 @@ vidéogrammes.
 La taxe est assise sur le montant hors taxe sur la valeur ajoutée du prix
 acquitté au titre des opérations visées ci-dessus.
 
-Le taux est fixé à 2 %.
+Le taux est fixé à 2 %. Le taux de la taxe est porté à 10 % lorsque les
+opérations visées au présent article concernent des oeuvres et documents
+cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à
+la violence. Les conditions dans lesquelles les redevables procèdent à
+l'identification de ces oeuvres et documents sont fixées par décret.
 
 La taxe est exigible dans les mêmes conditions que celles applicables en matière
 de taxe sur la valeur ajoutée.

@@ -5,10 +5,10 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 1° Les opérations bancaires et financières suivantes :
 
 a. L'octroi et la négociation de crédits, la gestion de crédits effectuée par
-celui qui les a octroyés, les prêts de titres effectués dans les conditions du
-chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne et les
+celui qui les a octroyés, les prêts de titres effectués dans les conditions
+prévues aux articles L. 432-6 à L. 432-11 du code monétaire et financier et les
 pensions réalisées dans les conditions prévues par les articles L432-12 à
-L432-19 du code monétaire et financier ;
+L432-19 du même code ;
 
 b. La négociation et la prise en charge d'engagements, de cautionnements et
 d'autres sûretés et garanties ainsi que la gestion de garanties de crédits

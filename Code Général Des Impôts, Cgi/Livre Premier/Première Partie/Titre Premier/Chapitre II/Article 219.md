@@ -37,7 +37,7 @@ s'appliquer au résultat de la cession de titres du portefeuille réalisée au
 cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts
 ou actions de sociétés revêtant le caractère de titres de participation et des
 parts de fonds commun de placement à risques ou de société de capital risque qui
-remplissent les conditions prévues au II ou au III bis (2) de l'article 163
+remplissent les conditions prévues au II ou au III bis de l'article 163
 quinquies B ou aux articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11
 juillet 1985 portant diverses dispositions d'ordre économique et financier et
 qui sont détenues par l'entreprise depuis au moins cinq ans.
@@ -207,7 +207,7 @@ terme en application du 2° du 5 de l'article 38 ou du 5 de l'article 39
 terdecies sont soumises à l'impôt au taux de 8 % pour la fraction des sommes ou
 distributions afférentes aux cessions d'actions ou de parts de sociétés, à
 l'exception des titres des sociétés à prépondérance immobilière mentionnées au a
-quinquies (1), détenues depuis deux ans au moins et si le fonds ou la société a
+quinquies, détenues depuis deux ans au moins et si le fonds ou la société a
 détenu au moins 5 % du capital de la société émettrice pendant deux ans au
 moins. Le taux de 8 % est fixé à 0 % pour les exercices ouverts à compter du 1er
 janvier 2007.
@@ -369,8 +369,8 @@ opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
 IV. - Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
-imposables en application du 2 de l'article 221, du deuxième alinéa de l'article
-223 F et de l'article 208 C ter, relatives aux immeubles, droits afférents à un
-contrat de crédit-bail et parts des organismes mentionnés au dernier alinéa du
-II de l'article 208 C inscrits à l'actif des sociétés qui ont opté pour le
-régime prévu au II de ce même article.
+imposables en application du 2 de l'article 221, du troisième alinéa de
+l'article 223 F et de l'article 208 C ter, relatives aux immeubles, droits
+afférents à un contrat de crédit-bail et parts des organismes mentionnés au
+cinquième alinéa du II de l'article 208 C inscrits à l'actif des sociétés qui
+ont opté pour le régime prévu au II de ce même article.

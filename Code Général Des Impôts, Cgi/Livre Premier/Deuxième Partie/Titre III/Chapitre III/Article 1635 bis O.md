@@ -25,44 +25,45 @@ III. - Le tarif de la taxe est le suivant :
 
 a) Pour les voitures particulières mentionnées au a du II :
 
-TAUX D'EMISSION de dioxyde de carbone (en grammes par kilomètre)
-
-TARIF APPLICABLE par gramme de dioxyde de carbone (en euros)
+TAUX D'EMISSION DE DIOXYDE DE CARBONE (en grammes par kilomètre) :
 
 N'excédant pas 200
 
-0
+TARIF APPLICABLE PAR GRAMME DE DIOXYDE DE CARBONE (en euros) : 0
+
+TAUX D'EMISSION DE DIOXYDE DE CARBONE (en grammes par kilomètre) :
 
 
 Fraction supérieure à 200 et inférieure ou égale à 250
 
-2
+TARIF APPLICABLE PAR GRAMME DE DIOXYDE DE CARBONE (en euros) : 2
+
+TAUX D'EMISSION DE DIOXYDE DE CARBONE (en grammes par kilomètre) :
 
 
 Fraction supérieure à 250
 
-4
+TARIF APPLICABLE PAR GRAMME DE DIOXYDE DE CARBONE (en euros) : 4
 
 b) Pour les voitures particulières mentionnées au b du II :
 
-PUISSANCE FISCALE (en chevaux-vapeur)
+PUISSANCE FISCALE (en chevaux-vapeur) : Inférieure à 10
 
-TARIF (en euros)
+TARIF (en euros) : 0
 
+PUISSANCE FISCALE (en chevaux-vapeur) : Supérieure ou égale à 10 et inférieure à
+15
 
-Inférieure à 10
+TARIF (en euros) : 100
 
-0
+PUISSANCE FISCALE (en chevaux-vapeur) : Supérieure ou égale à 15
 
+TARIF (en euros) : 300
 
-Supérieure ou égale à 10 et inférieure à 15
-
-100
-
-
-Supérieure ou égale à 15
-
-300
+c) Pour les véhicules spécialement équipés pour fonctionner au moyen du
+superéthanol E85 mentionné au 1 du tableau B du 1 de l'article 265 du code des
+douanes, le montant de la taxe applicable, tel qu'il résulte, selon le cas, du
+barème mentionné au a ou au b est réduit de 50 %.
 
 IV. - La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions
 que la taxe prévue à l'article 1599 quindecies.

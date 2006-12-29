@@ -8,10 +8,10 @@ gratuit entre vifs consenties par actes passés à compter du 1er janvier 2002 e
 pour les successions ouvertes à compter de cette date ;
 
 b) de 50 000 euros sur la part de chacun des ascendants et sur la part de chacun
-des enfants vivants ou représentés.
+des enfants vivants ou représentés par suite de prédécès ou de renonciation.
 
-Entre les représentants des enfants prédécédés, cet abattement se divise d'après
-les règles de la dévolution légale.
+Entre les représentants des enfants prédécédés ou renonçants, cet abattement se
+divise d'après les règles de la dévolution légale.
 
 En cas de donation, les enfants décédés du donateur sont, pour l'application de
 l'abattement, représentés par leurs descendants donataires dans les conditions
@@ -39,4 +39,8 @@ autre que le mariage entre les partenaires ou le décès de l'un d'entre eux.
 IV Pour la perception des droits de mutation à titre gratuit, il est effectué en
 cas de donation ou, lorsque les dispositions du II de l'article 788 ne sont pas
 applicables, en cas de succession, un abattement de 5 000 euros sur la part de
-chacun des frères ou soeurs.
+chacun des frères ou soeurs vivants ou représentés par suite de prédécès ou de
+renonciation.
+
+Entre les représentants des frères et soeurs prédécédés ou renonçants, cet
+abattement se divise d'après les règles de dévolution légale.

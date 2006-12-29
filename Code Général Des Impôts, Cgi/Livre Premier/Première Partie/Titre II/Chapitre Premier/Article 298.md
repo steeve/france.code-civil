@@ -50,12 +50,13 @@ a les essences utilisées comme carburants mentionnées au tableau B de l'articl
 265 du code des douanes, à l'exception de celles utilisées pour les essais
 effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
 
-b Dans la limite de 20 % de son montant (1), les gazoles utilisés comme
-carburants mentionnés au tableau B de l'article 265 du code des douanes utilisés
-pour des véhicules et engins exclus du droit à déduction ainsi que pour des
-véhicules et engins pris en location quand le preneur ne peut pas déduire la
-taxe relative à cette location, à l'exception de ceux utilisés pour les essais
-effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
+b Dans la limite de 20 % de son montant, les gazoles et le superéthanol E85
+utilisés comme carburants mentionnés au tableau B de l'article 265 du code des
+douanes utilisés pour des véhicules et engins exclus du droit à déduction ainsi
+que pour des véhicules et engins pris en location quand le preneur ne peut pas
+déduire la taxe relative à cette location, à l'exception de ceux utilisés pour
+les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à
+moteur ;
 
 c les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux (position
 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.00.55 du

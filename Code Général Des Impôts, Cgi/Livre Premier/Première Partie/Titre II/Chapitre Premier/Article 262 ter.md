@@ -1,10 +1,14 @@
 Article 262 ter
 ----
-I. - Sont exonérés de la taxe sur la valeur ajoutée (0):
+I.-Sont exonérés de la taxe sur la valeur ajoutée :
 
 1° Les livraisons de biens expédiés ou transportés sur le territoire d'un autre
 Etat membre de la Communauté européenne à destination d'un autre assujetti ou
 d'une personne morale non assujettie.
+
+L'exonération ne s'applique pas lorsqu'il est démontré que le fournisseur savait
+ou ne pouvait ignorer que le destinataire présumé de l'expédition ou du
+transport n'avait pas d'activité réelle.
 
 L'exonération ne s'applique pas aux livraisons de biens effectuées par des
 assujettis visés à l'article 293 B et aux livraisons de biens, autres que des
@@ -12,9 +16,9 @@ alcools, des boissons alcooliques, des huiles minérales et des tabacs
 manufacturés ou des moyens de transport neufs, expédiés ou transportés à
 destination des personnes mentionnées au a du 1° du I de l'article 258 A.
 
-((L'exonération ne s'applique pas aux livraisons de biens d'occasion, d'oeuvres
+L'exonération ne s'applique pas aux livraisons de biens d'occasion, d'oeuvres
 d'art, d'objets de collection ou d'antiquité effectuées par des assujettis
-revendeurs qui appliquent les dispositions de l'article 297 A)) (1).
+revendeurs qui appliquent les dispositions de l'article 297 A.
 
 2° Les transferts assimilés aux livraisons mentionnées au III de l'article 256
 qui bénéficieraient de l'exonération prévue au 1° ci-dessus si elles avaient été
@@ -32,7 +36,3 @@ code général des impôts ;
 livraisons de biens ou des prestations de services bénéficierait du droit à
 remboursement total en application du V de l'article 271 de la taxe qui serait
 due au titre de l'acquisition.
-
-(0) Cf. Instruction 1997-03-28 3A-3-97.
-
-(1) Alinéa inséré par la loi. Disposition en vigueur le 1er janvier 1995.

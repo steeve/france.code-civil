@@ -14,8 +14,8 @@ courrier embarqués par l'entreprise sur l'aérodrome, quelles que soient les
 conditions tarifaires accordées par le transporteur, aux mêmes exceptions et
 conditions que celles énoncées à l'article 302 bis K.
 
-IV. - Le tarif de la taxe applicable sur chaque aérodrome est compris entre les
-valeurs correspondant à la classe dont il relève.
+IV. - Le tarif de la taxe par passager applicable sur chaque aérodrome est
+compris entre les valeurs correspondant à la classe dont il relève.
 
 Les aérodromes sont répartis en trois classes en fonction du nombre d'unités de
 trafic embarquées ou débarquées au cours de la dernière année civile connue sur
@@ -46,21 +46,18 @@ d'aérodromes sont fixées comme suit :
 
 CLASSE : 1
 
-Tarifs par passager : De 4,3 à 8,5 euros
-
-Tarifs par tonne de fret ou de courrier : De 0,3 à 0,6 euro.
+Tarifs par passager : De 4,3 à 9,5 euros
 
 CLASSE : 2
 
-Tarifs par passager : De 3,5 à 8 euros.
-
-Tarifs par tonne de fret ou de courrier : De 0,15 à 0,6 euro.
+Tarifs par passager : De 3,5 à 9 euros.
 
 CLASSE : 3
 
-Tarifs par passager : De 2,6 à 10 euros.
+Tarifs par passager : De 2,6 à 11 euros.
 
-Tarifs par tonne de fret ou de courrier : De 0,6 à 1,5 euro.
+Le tarif de la taxe est égal à 1 par tonne de fret pour tous les aérodromes
+visés au I.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de
 l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein
@@ -92,14 +89,14 @@ Le contentieux est suivi par la direction générale de l'aviation civile. Les
 réclamations sont présentées, instruites et jugées selon les règles applicables
 à la taxe de l'aviation civile.
 
-VI. - Les dispositions des I à V du présent article sont applicables aux
-aérodromes appartenant à l'Etat en Polynésie française et en Nouvelle-Calédonie,
-sous réserve des dispositions particulières suivantes :
+VI. - Les dispositions des I à V sont applicables aux aérodromes appartenant à
+l'Etat en Polynésie française et en Nouvelle-Calédonie, sous réserve des
+dispositions particulières suivantes :
 
 - le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
 
 - sur un même aérodrome, des tarifs différents peuvent être fixés pour les vols
 intérieurs en fonction de leur destination ;
 
-- la limite inférieure des tarifs est fixée à 0,50 euros par passager effectuant
+- la limite inférieure des tarifs est fixée à 0,50 euro par passager effectuant
 un vol intérieur à la Polynésie française.
