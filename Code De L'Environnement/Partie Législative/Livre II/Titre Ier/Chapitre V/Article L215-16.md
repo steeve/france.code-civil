@@ -1,15 +1,13 @@
 Article L215-16
 ----
-A défaut d'anciens règlements ou usages locaux, il est procédé en conformité des
-dispositions régissant les associations syndicales.
+Si le propriétaire ne s'acquitte pas de l'obligation d'entretien régulier qui
+lui est faite par l'article L. 215-14, la commune, le groupement de communes ou
+le syndicat compétent, après une mise en demeure restée infructueuse à l'issue
+d'un délai déterminé dans laquelle sont rappelées les dispositions de l'article
+L. 435-5, peut y pourvoir d'office à la charge de l'intéressé.
 
-Lorsque le groupement d'associations syndicales, soit autorisées, soit
-constituées d'office, paraît nécessaire au bon aménagement, soit du bassin d'un
-cours d'eau non domanial ou d'une partie de ce bassin, soit seulement de ce
-cours d'eau lui-même ou d'une section de celui-ci, une union de ces diverses
-associations peut être constituée d'office dans les conditions fixées par décret
-en Conseil d'Etat nonobstant l'absence de consentement unanime des associations
-intéressées.
-
-Le présent article s'applique sans préjudice des dispositions de l'article L.
-211-7.
+Le maire ou le président du groupement ou du syndicat compétent émet à
+l'encontre du propriétaire un titre de perception du montant correspondant aux
+travaux exécutés. Il est procédé au recouvrement de cette somme au bénéfice de
+la commune, du groupement ou du syndicat compétent, comme en matière de créances
+de l'Etat étrangères à l'impôt et au domaine.

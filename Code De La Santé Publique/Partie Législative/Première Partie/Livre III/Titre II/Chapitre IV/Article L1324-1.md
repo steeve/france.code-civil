@@ -8,7 +8,5 @@ titre ainsi qu'aux règlements pris pour leur application :
 effet ;
 
 2° Les agents mentionnés aux 1°, 2°, 5°, 8° et 9° du I et au II de l'article L.
-216-3 du code de l'environnement, ainsi que les agents des services déconcentrés
-du ministère chargé de l'industrie, habilités et assermentés à cet effet, pour
-les infractions relatives aux périmètres de protection prévus aux articles L.
-1321-2 et L. 1322-3 à L. 1322-7.
+216-3 du code de l'environnement, pour les infractions relatives aux périmètres
+de protection prévus aux articles L. 1321-2 et L. 1322-3 à L. 1322-7.

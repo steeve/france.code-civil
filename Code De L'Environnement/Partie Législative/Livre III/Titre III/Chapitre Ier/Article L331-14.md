@@ -1,11 +1,11 @@
 Article L331-14
 ----
-I. - Dans les espaces maritimes compris dans le coeur d'un parc national, les
+I.-Dans les espaces maritimes compris dans le coeur d'un parc national, les
 travaux et installations sont interdits, sauf autorisation spéciale de
 l'établissement public du parc, à l'exception de la pose de câbles sous-marins
 et des travaux nécessités par les impératifs de la défense nationale.
 
-II. - L'établissement public du parc national peut proposer aux autorités
+II.-L'établissement public du parc national peut proposer aux autorités
 administratives compétentes de soumettre à un régime particulier la pêche, la
 circulation en mer et la gestion du domaine public maritime dans le coeur du
 parc national, dans le respect du droit communautaire et du droit international.
@@ -20,9 +20,9 @@ Sauf cas d'urgence, les actes réglementaires du directeur pris en application d
 précédent alinéa doivent avoir été transmis pour avis huit jours au moins avant
 leur date d'entrée en vigueur aux maires des communes intéressées.
 
-III. - Lorsqu'une activité est susceptible d'altérer de façon notable l'espace
-maritime compris dans le coeur d'un parc national, l'autorisation à laquelle
-elle est soumise ne peut être délivrée que sur avis conforme de l'établissement
+III.-Lorsqu'une activité est susceptible d'altérer de façon notable le milieu
+marin compris dans le coeur d'un parc national, l'autorisation à laquelle elle
+est soumise ne peut être délivrée que sur avis conforme de l'établissement
 public du parc national pris après consultation de son conseil scientifique.
 Cette procédure n'est pas applicable aux activités répondant aux besoins de la
 défense nationale, de l'ordre public, de la sécurité maritime et de la lutte

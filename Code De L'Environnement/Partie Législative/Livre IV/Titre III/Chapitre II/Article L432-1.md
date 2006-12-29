@@ -7,10 +7,11 @@ effectuer les travaux d'entretien, sur les berges et dans le lit du cours d'eau,
 nécessaires au maintien de la vie aquatique.
 
 Avec l'accord du propriétaire, cette obligation peut être prise en charge par
-une association agréée de pêche et de pisciculture ou par la fédération
-départementale des associations agréées de pêche et de pisciculture qui, en
-contrepartie, exerce gratuitement le droit de pêche pendant la durée de la prise
-en charge de cette obligation. Cette durée peut être fixée par convention.
+une association agréée de pêche et de protection du milieu aquatique ou par la
+fédération départementale des associations agréées de pêche et de protection du
+milieu aquatique qui, en contrepartie, exerce gratuitement le droit de pêche
+pendant la durée de la prise en charge de cette obligation. Cette durée peut
+être fixée par convention.
 
 En cas de non-respect de l'obligation de participer à la protection du
 patrimoine piscicole et des milieux aquatiques, les travaux nécessaires peuvent

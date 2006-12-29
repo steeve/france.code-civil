@@ -9,8 +9,8 @@ milieu du cours d'eau, sauf titre ou prescription contraire.
 
 Chaque riverain a le droit de prendre, dans la partie du lit qui lui appartient,
 tous les produits naturels et d'en extraire de la vase, du sable et des pierres,
-à la condition de ne pas modifier le régime des eaux et d'en exécuter le curage
-conformément aux règles établies par les articles L. 215-14 à L. 215-24.
+à la condition de ne pas modifier le régime des eaux et d'en exécuter
+l'entretien conformément à l'article L. 215-14.
 
 Sont et demeurent réservés les droits acquis par les riverains ou autres
 intéressés sur les parties des cours d'eau qui servent de voie d'exploitation

@@ -1,12 +1,13 @@
 Article L5711-4
 ----
-En matière de gestion de l'eau, d'alimentation en eau potable, d'assainissement
-collectif ou non collectif, de collecte ou d'élimination des déchets ménagers et
-assimilés, ou de distribution d'électricité ou de gaz naturel, un syndicat mixte
-relevant du présent titre peut adhérer à un autre syndicat mixte défini au
-présent titre ou institué en application de l'article L. 5721-2, suivant la
-procédure définie à l'article L. 5211-18. L'adhésion d'un syndicat mixte à un
-autre syndicat mixte est sans incidence sur les règles qui régissent ce dernier.
+En matière de gestion de l'eau et des cours d'eau, d'alimentation en eau
+potable, d'assainissement collectif ou non collectif, de collecte ou
+d'élimination des déchets ménagers et assimilés, ou de distribution
+d'électricité ou de gaz naturel, un syndicat mixte relevant du présent titre
+peut adhérer à un autre syndicat mixte défini au présent titre ou institué en
+application de l'article L. 5721-2, suivant la procédure définie à l'article L.
+5211-18.L'adhésion d'un syndicat mixte à un autre syndicat mixte est sans
+incidence sur les règles qui régissent ce dernier.
 
 Lorsque le syndicat mixte qui adhère à un autre syndicat mixte lui transfère la
 totalité des compétences qu'il exerce, l'adhésion entraîne sa dissolution.

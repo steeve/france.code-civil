@@ -23,6 +23,11 @@ Il est procédé, selon les mêmes modalités, à l'élection de suppléants en 
 Le comptable de la collectivité et un représentant du ministre chargé de la
 concurrence siègent également à la commission avec voix consultative.
 
+Peuvent participer à la commission, avec voix consultative, un ou plusieurs
+agents de la collectivité territoriale ou de l'établissement public désignés par
+le président de la commission, en raison de leur compétence dans la matière qui
+fait l'objet de la délégation de service public.
+
 Au vu de l'avis de la commission, l'autorité habilitée à signer la convention
 engage librement toute discussion utile avec une ou des entreprises ayant
 présenté une offre. Elle saisit l'assemblée délibérante du choix de l'entreprise

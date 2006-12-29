@@ -1,8 +1,7 @@
 Article L436-5
 ----
-Des décrets en Conseil d'Etat, rendus après avis du Conseil supérieur de la
-pêche, déterminent les conditions dans lesquelles sont fixés, éventuellement par
-bassin :
+Des décrets en Conseil d'Etat déterminent les conditions dans lesquelles sont
+fixés, éventuellement par bassin :
 
 1° Les temps, saisons, heures pendant lesquels la pêche est interdite ;
 

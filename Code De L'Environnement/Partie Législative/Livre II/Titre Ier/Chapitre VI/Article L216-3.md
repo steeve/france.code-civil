@@ -2,15 +2,15 @@ Article L216-3
 ----
 I. - Sont chargés de procéder à la recherche et à la constatation des
 infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L.
-211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L.
-216-8 et L. 216-10 à L. 216-12, ainsi que des textes et des décisions pris pour
-leur application :
+211-7, L. 211-12, du II de l'article L. 212-5-1 et des articles L. 214-1 à L.
+214-9, L. 214-11 à L. 214-13, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L.
+216-10 à L. 216-12, ainsi que des textes et des décisions pris pour leur
+application :
 
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans
 les conditions prévues par décret en Conseil d'Etat, appartenant aux services de
 l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de
-l'équipement, des transports, de la mer, de la santé, de la défense, de la
-concurrence, de la consommation et de la répression des fraudes ;
+l'équipement, des transports, de la mer, de la santé, de la défense ;
 
 2° Les agents mentionnés à l'article L. 514-5 ;
 
@@ -20,7 +20,8 @@ salubrité de la préfecture de police ;
 4° Les agents des douanes ;
 
 5° Les agents assermentés et commissionnés à cet effet de l'Office national de
-la chasse et de la faune sauvage et du Conseil supérieur de la pêche ;
+la chasse et de la faune sauvage et de l'Office national de l'eau et des milieux
+aquatiques ;
 
 6° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français
 de recherche pour l'exploitation de la mer ;

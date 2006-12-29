@@ -1,6 +1,6 @@
 Article L213-13
 ----
-I. - Il est créé, dans chacun des départements d'outre-mer, un office de l'eau,
+I.-Il est créé, dans chacun des départements d'outre-mer, un office de l'eau,
 établissement public local à caractère administratif, rattaché au département.
 
 En liaison avec le comité de bassin, et conformément aux principes de gestion
@@ -19,7 +19,14 @@ l'information dans le domaine de la gestion de l'eau et des milieux aquatiques ;
 c) Sur proposition du comité de bassin, la programmation et le financement
 d'actions et de travaux.
 
-II. - L'office de l'eau est administré par un conseil d'administration qui
+Dans le respect des engagements internationaux de la France et dans le cadre de
+conventions soumises à l'avis du comité de bassin, l'office de l'eau peut mener
+des actions de coopération internationale dans les domaines de l'eau et de
+l'assainissement, dans la limite de 1 % de ses ressources, le cas échéant et
+suivant les règles statutaires en vigueur pour chaque catégorie de personnels,
+avec le concours de ses agents.
+
+II.-L'office de l'eau est administré par un conseil d'administration qui
 comprend :
 
 1° Des représentants de la région, du département et des communes, ainsi que des
@@ -50,14 +57,12 @@ président du conseil général.
 Le préfet exerce les fonctions de commissaire du Gouvernement auprès de
 l'office.
 
-III. - Le personnel de l'office est recruté et géré dans le cadre des
-dispositions législatives et réglementaires applicables à la fonction publique
-territoriale.
+III.-Le personnel de l'office est recruté et géré dans le cadre des dispositions
+législatives et réglementaires applicables à la fonction publique territoriale.
 
-IV. - Les ressources de l'office se composent :
+IV.-Les ressources de l'office se composent :
 
-1° De redevances pour prélèvement d'eau, sur proposition du comité de bassin et
-dans le cadre d'un programme pluriannuel d'intervention ;
+1° De redevances visées à l'article L. 213-14 (1) ;
 
 2° De redevances pour services rendus ;
 

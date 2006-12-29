@@ -1,6 +1,14 @@
 Article L2124-13
 ----
-La délivrance, dans les communes, des permis de stationnement ou de dépôt
-temporaire sur les cours d'eau, ports et quais fluviaux, est régie par les
-dispositions des articles L. 2213-6 et L. 2512-14 du code général des
-collectivités territoriales.
+Les zones d'occupation du domaine public fluvial supérieure à un mois par un
+bateau, un navire, un engin flottant ou un établissement flottant ne peuvent
+être délimitées par le gestionnaire de ce domaine qu'après accord du maire de la
+commune sur le territoire de laquelle se trouvent ces zones.
+
+En dehors des zones ainsi délimitées, aucune occupation supérieure à un mois par
+un bateau, un navire, un engin flottant ou un établissement flottant ne peut
+être autorisée.
+
+Ces dispositions ne s'appliquent pas aux bateaux, navires, engins flottants ou
+établissements flottants nécessaires à l'entretien ou à la conservation du
+domaine public fluvial ou à la sécurité de la navigation fluviale.

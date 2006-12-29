@@ -1,8 +1,8 @@
 Article L216-9
 ----
-En cas de poursuite pour infraction aux dispositions des articles L. 216-6 et L.
-216-8 ou pour infraction à une obligation de déclaration ou à toute autre
-obligation résultant des articles mentionnés à l'article L. 216-5, ou des
+En cas de poursuite pour infraction aux dispositions des articles L. 216-6, L.
+216-7 et L. 216-8 ou pour infraction à une obligation de déclaration ou à toute
+autre obligation résultant des articles mentionnés à l'article L. 216-5, ou des
 règlements ou décisions individuelles pris pour leur application, le tribunal
 peut, après avoir déclaré le prévenu coupable, décider l'ajournement du prononcé
 de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été

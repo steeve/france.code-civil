@@ -1,16 +1,16 @@
 Article L1321-5
 ----
-Si le captage et la distribution d'eau potable sont faits en régie, les
-obligations prévues à l'article L. 1321-4 incombent à la collectivité intéressée
-avec le concours du service communal d'hygiène et de santé s'il en existe un
-dans la commune et sous la surveillance du directeur départemental des affaires
-sanitaires et sociales.
+Le contrôle sanitaire des eaux destinées à la consommation humaine, qui relève
+de la compétence de l'Etat, comprend notamment des prélèvements et des analyses
+d'eau réalisés par les services du représentant de l'Etat dans le département ou
+un laboratoire agréé par le ministre chargé de la santé et choisi par le
+représentant de l'Etat dans le département.
 
-Les mêmes obligations incombent aux collectivités en ce qui concerne les puits
-publics, sources, nappes souterraines ou superficielles ou cours d'eau servant à
-l'alimentation collective des habitants.
+Celui-ci est chargé de l'organisation du contrôle sanitaire des eaux. Il passe à
+cet effet, avec un ou des laboratoires agréés, le marché nécessaire. Il est la
+personne responsable du marché.
 
-En cas d'inobservation par une collectivité des obligations énoncées au présent
-article, le représentant de l'Etat dans le département, après mise en demeure
-restée sans résultat, prend les mesures nécessaires. Il est procédé à ces
-mesures aux frais des communes.
+Le laboratoire agréé, titulaire du marché, est chargé de recouvrer les sommes
+relatives aux prélèvements et analyses du contrôle sanitaire des eaux auprès de
+la personne publique ou privée responsable de la production ou de la
+distribution d'eau.

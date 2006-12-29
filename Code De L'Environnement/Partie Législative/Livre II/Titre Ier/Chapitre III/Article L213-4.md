@@ -1,8 +1,8 @@
 Article L213-4
 ----
-Dans chaque département d'outre-mer, un comité de bassin, outre les compétences
-qui lui sont conférées par l'article L. 213-2, est associé à la mise en place
-des structures administratives qui se révéleraient nécessaires et, s'il y a
-lieu, à l'élaboration des adaptations facilitant l'application, dans le
-département, des dispositions des chapitres Ier à IV, VI et VII du présent
-titre.
+L'Office national de l'eau et des milieux aquatiques détermine les domaines et
+les conditions de son action dans un programme pluriannuel d'intervention qui
+indique les montants de dépenses et de recettes nécessaires à sa mise en oeuvre.
+
+L'exécution du programme pluriannuel d'intervention fait l'objet d'un rapport
+annuel présenté par le Gouvernement au Parlement.

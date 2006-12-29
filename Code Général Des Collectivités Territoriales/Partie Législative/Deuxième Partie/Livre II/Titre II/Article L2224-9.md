@@ -1,5 +1,8 @@
 Article L2224-9
 ----
-L'ensemble des prestations prévues à l'article L. 2224-8 doit en tout état de
-cause être assuré sur la totalité du territoire au plus tard le 31 décembre
-2005.
+Tout prélèvement, puits ou forage réalisé à des fins d'usage domestique de l'eau
+fait l'objet d'une déclaration auprès du maire de la commune concernée. Les
+informations relatives à cette déclaration sont tenues à disposition du
+représentant de l'Etat dans le département et des agents des services publics
+d'eau potable et d'assainissement. Un décret en Conseil d'Etat fixe les
+modalités d'application du présent article.

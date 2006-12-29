@@ -1,9 +1,10 @@
 Article L2124-11
 ----
-Le curage des cours d'eau domaniaux et de leurs dépendances est à la charge de
-la personne publique propriétaire du domaine public fluvial. Toutefois, les
-personnes qui ont rendu les travaux nécessaires ou y trouvent intérêt peuvent
-être appelées à contribuer au financement de leur entretien.
+L'entretien, tel que défini aux articles L. 215-14 et L. 215-15 du code de
+l'environnement, des cours d'eau domaniaux et de leurs dépendances est à la
+charge de la personne publique propriétaire du domaine public fluvial.
+Toutefois, les personnes qui ont rendu les travaux nécessaires ou y trouvent
+intérêt peuvent être appelées à contribuer au financement de leur entretien.
 
 De même, les propriétaires de moulins ou d'usines qui ont rendu les travaux
 nécessaires ou qui trouvent intérêt aux travaux d'entretien ou de réparation des

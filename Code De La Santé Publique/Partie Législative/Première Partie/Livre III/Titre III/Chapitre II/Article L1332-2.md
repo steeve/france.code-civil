@@ -1,10 +1,14 @@
 Article L1332-2
 ----
-Sans préjudice de l'exercice des pouvoirs de police appartenant aux diverses
-autorités administratives, l'utilisation d'une piscine ou d'une baignade
-aménagée peut être interdite par les autorités administratives si les conditions
-matérielles d'aménagement ou de fonctionnement portent atteinte à la santé ou à
-la sécurité des utilisateurs ainsi qu'à l'hygiène ou à la salubrité publique, ou
-si l'installation n'est pas conforme aux normes prévues ou n'a pas été mise en
-conformité avec celles-ci dans le délai déterminé par les autorités
-administratives.
+Au titre du présent chapitre, est définie comme eau de baignade toute partie des
+eaux de surface dans laquelle la commune s'attend à ce qu'un grand nombre de
+personnes se baignent et dans laquelle l'autorité compétente n'a pas interdit la
+baignade de façon permanente. Ne sont pas considérés comme eau de baignade :
+
+- les bassins de natation et de cure ;
+
+- les eaux captives qui sont soumises à un traitement ou sont utilisées à des
+fins thérapeutiques ;
+
+- les eaux captives artificielles séparées des eaux de surface et des eaux
+souterraines.

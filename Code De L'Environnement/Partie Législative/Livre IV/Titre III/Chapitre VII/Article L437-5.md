@@ -5,5 +5,5 @@ suivent leur clôture, au procureur de la République.
 
 Une copie en est transmise dans le même délai à l'intéressé, à l'autorité
 administrative, au président de la fédération départementale des associations
-agréées de pêche et de pisciculture et au président de l'association agréée de
-pêcheurs professionnels en eau douce.
+agréées de pêche et de protection du milieu aquatique et au président de
+l'association agréée de pêcheurs professionnels en eau douce.

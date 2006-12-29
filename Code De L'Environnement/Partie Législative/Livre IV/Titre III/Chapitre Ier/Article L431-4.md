@@ -1,5 +1,5 @@
 Article L431-4
 ----
-Les opérations de vidange de plans d'eau destinées exclusivement à la capture du
-poisson ne constituent pas une mise en communication au sens de l'article L.
-431-3.
+Les fossés, canaux, étangs, réservoirs et autres plans d'eau dans lesquels le
+poisson ne peut passer naturellement sont soumis aux seules dispositions du
+chapitre II du présent titre.

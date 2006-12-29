@@ -1,7 +1,7 @@
 Article L213-20
 ----
 Le directeur de l'office établit et rend exécutoires les titres de recettes
-relatifs à la redevance.
+relatifs aux redevances.
 
 Les redevances sont recouvrées par le comptable de l'office comme en matière de
 contributions directes.
@@ -18,3 +18,5 @@ majoré de 10 %.
 
 Les redevances ou suppléments de redevances inférieurs à 100 euros ne sont pas
 mis en recouvrement.
+
+Les redevances peuvent donner lieu chaque année au paiement d'acomptes.

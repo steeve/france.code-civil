@@ -1,6 +1,7 @@
 Article L652-1
 ----
-I. - Les articles L. 213-5 à L. 213-7 ne sont pas applicables à Mayotte.
+I. - Les articles L. 213-8 à L. 213-9-3 et L. 213-11 à L. 213-11-16 ne sont pas
+applicables à Mayotte.
 
 II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes,
 d'officiers de port, d'officiers de port adjoints, les pouvoirs qui leur sont

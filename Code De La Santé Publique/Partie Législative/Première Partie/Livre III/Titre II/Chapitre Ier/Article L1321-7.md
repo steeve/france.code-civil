@@ -7,8 +7,8 @@ l'exception de l'eau minérale naturelle, pour :
 
 1° La production ;
 
-2° La distribution, sous quelque forme que ce soit, y compris la glace
-alimentaire, par une personne publique ou privée, à l'exception de la
+2° La distribution par un réseau public ou privé, à l'exception de la
+distribution à l'usage d'une famille mentionnée au 3° du II et de la
 distribution par des réseaux particuliers alimentés par un réseau de
 distribution public ;
 
@@ -22,4 +22,8 @@ qui ne modifient pas de façon notable les conditions de l'autorisation prévue 
 I ;
 
 2° La distribution par des réseaux particuliers alimentés par un réseau de
-distribution public qui peuvent présenter un risque pour la santé publique.
+distribution public qui peuvent présenter un risque pour la santé publique ;
+
+3° L'utilisation d'eau en vue de la consommation humaine à l'usage d'une
+famille, dans les conditions prévues à l'article L. 2224-9 du code général des
+collectivités territoriales.

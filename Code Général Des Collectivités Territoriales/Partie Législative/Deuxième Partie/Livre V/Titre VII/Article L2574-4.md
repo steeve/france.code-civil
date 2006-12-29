@@ -61,10 +61,8 @@ entretien ;
 13° Les dépenses de prospections, traitements, travaux et contrôles nécessaires
 à l'action de lutte contre les moustiques ;
 
-14° Les dépenses relatives au système d'assainissement collectif mentionnées au
-premier alinéa de l'article L. 2224-8, sous réserve des dispositions de
-l'article L. 2224-9 tel que rendu applicable aux communes de Mayotte par
-l'article L. 2573-24 ;
+14° Les dépenses afférentes aux missions relatives aux systèmes d'assainissement
+collectif mentionnées au II de l'article L. 2224-8 ;
 
 15° Les dépenses liées à la police de la salubrité visées à l'article L. 2213-30
 ;

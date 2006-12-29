@@ -17,6 +17,4 @@ nautiques sont pratiquées aux risques et périls des intéressés.
 
 Le maire est tenu d'informer le public par une publicité appropriée, en mairie
 et sur les lieux où elles se pratiquent, des conditions dans lesquelles les
-baignades et les activités nautiques sont réglementées, ainsi que des résultats
-des contrôles de la qualité des eaux de ces baignades accompagnés des précisions
-nécessaires à leur interprétation.
+baignades et les activités nautiques sont réglementées.

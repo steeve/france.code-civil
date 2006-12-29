@@ -1,8 +1,7 @@
 Article L431-3
 ----
-Sous réserve des dispositions des articles L. 431-6 et L. 431-7, les
-dispositions du présent titre s'appliquent à tous les cours d'eau, canaux,
-ruisseaux ainsi qu'aux plans d'eau avec lesquels ils communiquent.
+Le présent titre s'applique à tous les cours d'eau, canaux, ruisseaux et plans
+d'eau, à l'exception de ceux visés aux articles L. 431-4, L. 431-6 et L. 431-7.
 
-Dans les cours d'eau et canaux affluant à la mer, les dispositions du présent
-titre s'appliquent en amont de la limite de salure des eaux.
+Dans les cours d'eau et canaux affluant à la mer, le présent titre s'applique en
+amont de la limite de la salure des eaux.

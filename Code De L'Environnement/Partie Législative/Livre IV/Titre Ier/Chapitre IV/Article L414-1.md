@@ -1,7 +1,7 @@
 Article L414-1
 ----
-I. - Les zones spéciales de conservation sont des sites maritimes et terrestres
-à protéger comprenant :
+I. - Les zones spéciales de conservation sont des sites marins et terrestres à
+protéger comprenant :
 
 - soit des habitats naturels menacés de disparition ou réduits à de faibles
 dimensions ou offrant des exemples remarquables des caractéristiques propres aux
@@ -16,11 +16,11 @@ exploitation sur leur état de conservation ;
 
 II. - Les zones de protection spéciale sont :
 
-- soit des sites maritimes et terrestres particulièrement appropriés à la survie
-et à la reproduction des espèces d'oiseaux sauvages figurant sur une liste
-arrêtée dans des conditions fixées par décret en Conseil d'Etat ;
+- soit des sites marins et terrestres particulièrement appropriés à la survie et
+à la reproduction des espèces d'oiseaux sauvages figurant sur une liste arrêtée
+dans des conditions fixées par décret en Conseil d'Etat ;
 
-- soit des sites maritimes et terrestres qui servent d'aires de reproduction, de
+- soit des sites marins et terrestres qui servent d'aires de reproduction, de
 mue, d'hivernage ou de zones de relais, au cours de leur migration, à des
 espèces d'oiseaux autres que celles figurant sur la liste susmentionnée.
 
@@ -56,19 +56,21 @@ significative ces mêmes espèces.
 
 Ces mesures sont définies en concertation notamment avec les collectivités
 territoriales intéressées et leurs groupements concernés ainsi qu'avec des
-représentants de propriétaires et exploitants des terrains inclus dans le site.
+représentants de propriétaires, exploitants et utilisateurs des terrains et
+espaces inclus dans le site.
 
-Elles tiennent compte des exigences économiques, sociales et culturelles, ainsi
-que des particularités régionales et locales. Elles sont adaptées aux menaces
-spécifiques qui pèsent sur ces habitats naturels et sur ces espèces. Elles ne
-conduisent pas à interdire les activités humaines dès lors qu'elles n'ont pas
-d'effets significatifs par rapport aux objectifs mentionnés à l'alinéa
-ci-dessus. Les activités piscicoles, la chasse et les autres activités
-cynégétiques pratiquées dans les conditions et sur les territoires autorisés par
-les lois et règlement en vigueur, ne constituent pas des activités perturbantes
-ou ayant de tels effets.
+Elles tiennent compte des exigences économiques, sociales, culturelles et de
+défense, ainsi que des particularités régionales et locales. Elles sont adaptées
+aux menaces spécifiques qui pèsent sur ces habitats naturels et sur ces espèces.
+Elles ne conduisent pas à interdire les activités humaines dès lors qu'elles
+n'ont pas d'effets significatifs sur le maintien ou le rétablissement dans un
+état de conservation favorable de ces habitats naturels et de ces espèces. La
+pêche, les activités aquacoles, la chasse et les autres activités cynégétiques
+pratiquées dans les conditions et sur les territoires autorisés par les lois et
+règlement en vigueur, ne constituent pas des activités perturbantes ou ayant de
+tels effets.
 
 Les mesures sont prises dans le cadre des contrats ou des chartes prévus à
 l'article L. 414-3 ou en application des dispositions législatives ou
-réglementaires, notamment de celles relatives aux parcs nationaux, aux réserves
-naturelles, aux biotopes ou aux sites classés.
+réglementaires, notamment de celles relatives aux parcs nationaux, aux parcs
+naturels marins, aux réserves naturelles, aux biotopes ou aux sites classés.

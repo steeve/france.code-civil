@@ -1,21 +1,32 @@
 Article L213-8
 ----
-Ainsi qu'il est dit à l'article 58 de la loi de finances pour 2000 (loi n°
-99-1172 du 30 décembre 1999) ci-après reproduit :
+Dans chaque bassin ou groupement de bassins hydrographiques visé à l'article L.
+212-1, il est créé un comité de bassin constitué :
 
-"I. - Abrogé.
+1° Pour 40 %, d'un premier collège composé de représentants des conseils
+généraux et régionaux et, majoritairement, de représentants des communes ou de
+leurs groupements compétents dans le domaine de l'eau ;
 
-II. - Il est institué à partir du 1er janvier 2000 un prélèvement de solidarité
-pour l'eau versé à l'Etat par les agences de l'eau, dont le montant est
-déterminé chaque année en loi de finances.
+2° Pour 40 %, d'un deuxième collège composé de représentants des usagers de
+l'eau et des milieux aquatiques, des organisations socioprofessionnelles, des
+associations agréées de protection de l'environnement et de défense des
+consommateurs, des instances représentatives de la pêche et de personnes
+qualifiées ;
 
-Le prélèvement est versé au comptable du Trésor du lieu du siège de chaque
-agence de l'eau, sous la forme d'un versement unique intervenant avant le 15
-février de chaque année.
+3° Pour 20 %, d'un troisième collège composé de représentants de l'Etat ou de
+ses établissements publics concernés.
 
-Ce prélèvement est recouvré selon les modalités s'appliquant aux créances de
-l'Etat étrangères à l'impôt, au domaine, aux amendes et autres condamnations
-pécuniaires.
+Le président est élu par les représentants des deux premiers collèges.
 
-Le montant du prélèvement de solidarité pour l'eau est inscrit comme dépense
-obligatoire dans le budget primitif des agences de l'eau."
+Le comité de bassin est consulté sur l'opportunité des actions significatives
+d'intérêt commun au bassin envisagées et, plus généralement, sur toutes les
+questions faisant l'objet des chapitres Ier à VII du présent titre.
+
+Il définit les orientations de l'action de l'agence de l'eau et participe, dans
+les conditions fixées à l'article L. 213-9-1, à l'élaboration des décisions
+financières de cette agence.
+
+Les membres des trois collèges visés ci-dessus représentant un sous-bassin
+peuvent se constituer en commission territoriale. Elle a pour mission de
+proposer au comité de bassin les priorités d'actions nécessaires à ce
+sous-bassin et de veiller à l'application de ces propositions.

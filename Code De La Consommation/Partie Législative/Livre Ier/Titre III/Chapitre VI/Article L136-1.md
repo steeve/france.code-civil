@@ -19,3 +19,6 @@ productives d'intérêts au taux légal.
 Les dispositions du présent article s'appliquent sans préjudice de celles qui
 soumettent légalement certains contrats à des règles particulières en ce qui
 concerne l'information du consommateur.
+
+Les trois alinéas précédents ne sont pas applicables aux exploitants des
+services d'eau potable et d'assainissement.

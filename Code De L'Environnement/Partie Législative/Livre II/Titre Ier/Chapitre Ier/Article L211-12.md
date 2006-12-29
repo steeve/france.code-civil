@@ -18,13 +18,13 @@ d'eau", afin de préserver ou de restaurer ses caractères hydrologiques et
 géomorphologiques essentiels ;
 
 3° Préserver ou restaurer des zones humides dites "zones stratégiques pour la
-gestion de l'eau" délimitées en application de l'article L. 212-5.
+gestion de l'eau" délimitées en application de l'article L. 212-5-1.
 
 III. - Les zones soumises aux servitudes visées aux 1° et 2° du II sont
 délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique
 menée conformément au code de l'expropriation pour cause d'utilité publique. Les
 zones soumises aux servitudes visées au 3° du II sont délimitées conformément à
-l'article L. 212-5.
+l'article L. 212-5-1.
 
 IV. - Dans les zones de rétention temporaire des eaux de crues ou de
 ruissellement mentionnées au 1° du II, l'arrêté préfectoral peut obliger les

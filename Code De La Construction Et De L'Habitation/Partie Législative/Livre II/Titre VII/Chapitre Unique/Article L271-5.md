@@ -1,6 +1,6 @@
 Article L271-5
 ----
-La durée de validité des documents prévus aux 1° à 4°, 6° et 7° du I de
+La durée de validité des documents prévus aux 1° à 4°, 6°, 7° et 8° du I de
 l'article L. 271-4 est fixée par décret en fonction de la nature du constat, de
 l'état ou du diagnostic.
 

@@ -1,8 +1,8 @@
 Article L436-4
 ----
-I. - Outre les droits individuels ou collectifs qui peuvent lui appartenir par
-ailleurs, tout membre d'une association agréée de pêche et de pisciculture a le
-droit de pêche :
+I.-Outre les droits individuels ou collectifs qui peuvent lui appartenir par
+ailleurs, tout membre d'une association agréée de pêche et de protection du
+milieu aquatique a le droit de pêche :
 
 1° De la rive ou en marchant dans l'eau, dans les parties classées en première
 catégorie, en vertu du 10° de l'article L. 436-5, des cours d'eau du domaine
@@ -20,12 +20,12 @@ du cours d'eau ; toutefois, le ministre chargé de la pêche en eau douce ou, pa
 délégation, le préfet peut autoriser les pêcheurs de saumons à marcher dans
 l'eau sur des parcours déterminés.
 
-II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à
+II.-Le droit de pêche défini par le présent article ne peut s'exercer qu'à
 l'aide d'une seule ligne.
 
-III. - Les dispositions du I et du II sont également applicables dans les eaux
-qui faisaient partie du domaine public fluvial de l'Etat à la date de
-promulgation de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention
-des risques technologiques et naturels et à la réparation des dommages et qui
-ont fait l'objet d'un transfert à une collectivité territoriale en application
-de ladite loi.
+III.-Les dispositions du I et du II sont également applicables dans les eaux qui
+faisaient partie du domaine public fluvial de l'Etat à la date de promulgation
+de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques
+technologiques et naturels et à la réparation des dommages et qui ont fait
+l'objet d'un transfert à une collectivité territoriale en application de ladite
+loi.

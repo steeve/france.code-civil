@@ -1,10 +1,11 @@
 Article L216-10
 ----
 Le fait d'exploiter une installation ou un ouvrage ou de réaliser des travaux en
-violation d'une mesure de mise hors service, de retrait ou de suspension d'une
-autorisation ou de suppression d'une installation ou d'une mesure d'interdiction
-prononcée en application des dispositions mentionnées à l'article L. 216-5, est
-puni d'une peine de deux ans d'emprisonnement et de 150 000 euros d'amende.
+violation d'une opposition à une opération soumise à déclaration, d'une mesure
+de mise hors service, de retrait ou de suspension d'une autorisation ou de
+suppression d'une installation ou d'une mesure d'interdiction prononcée en
+application des dispositions mentionnées à l'article L. 216-5, est puni d'une
+peine de deux ans d'emprisonnement et de 150 000 euros d'amende.
 
 Est puni des mêmes peines le fait de poursuivre une opération ou l'exploitation
 d'une installation ou d'un ouvrage sans se conformer à l'arrêté de mise en
