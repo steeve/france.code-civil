@@ -14,7 +14,10 @@ d'investissement à capital variable régis par le chapitre III de la loi n°
 
 c) D'actions émises par des sociétés créées dans les conditions prévues à
 l'article 11 de la loi du 9 juillet 1984 sur le développement de l'initiative
-économique.
+économique ;
+
+d) D'actions émises par des sociétés créées dans les conditions prévues à
+l'article 220 nonies du code général des impôts.
 
 Les actifs des fonds communs de placement peuvent également comprendre soit
 exclusivement des valeurs mobilières émises par l'entreprise ou par une
@@ -46,5 +49,5 @@ réglementé et qui a proposé ses titres aux adhérents de son plan d'épargne
 d'entreprise sans déterminer le prix de cession conformément aux dispositions
 législatives et réglementaires relatives à l'évaluation de ses titres ne
 bénéficie pas, au titre de cette opération, des exonérations fiscales et
-sociales prévues au dernier alinéa de l'article L. 443-5 et à l'article L.
-443-8..
+sociales prévues au cinquième alinéa de l'article L. 443-5 et à l'article L.
+443-8.

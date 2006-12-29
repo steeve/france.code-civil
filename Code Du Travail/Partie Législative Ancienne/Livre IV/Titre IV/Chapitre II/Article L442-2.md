@@ -5,12 +5,17 @@ participation des salariés doit être constituée comme suit :
 
 1. Les sommes affectées à cette réserve spéciale sont, après clôture des comptes
 de l'exercice, calculées sur le bénéfice réalisé en France métropolitaine et
-dans les départements d'outre-mer, tel qu'il est retenu pour être imposé au taux
-de droit commun de l'impôt sur le revenu ou aux taux de l'impôt sur les sociétés
-prévus au deuxième alinéa et au b (1), du I de l'article 219 du code général des
-impôts. Ce bénéfice est diminué de l'impôt correspondant qui, pour les
-entreprises soumises à l'impôt sur le revenu, est déterminé dans les conditions
-fixées par décret en Conseil d'Etat ;
+dans les départements d'outre-mer, tel qu'il est retenu pour être imposé à
+l'impôt sur le revenu ou aux taux de l'impôt sur les sociétés prévus au deuxième
+alinéa et au b du I de l'article 219 du code général des impôts et majoré des
+bénéfices exonérés en application des dispositions des articles 44 sexies, 44
+sexies A, 44 septies, 44 octies, 44 octies A, 44 undecies, 208 C et 217 bis du
+code général des impôts sans que, pour les entreprises qui n'ont pas conclu
+d'accord de participation conformément à l'article L. 442-6, ce bénéfice puisse
+être diminué des déficits constatés au cours des exercices antérieurs de plus de
+cinq ans à l'exercice en cours. Ce bénéfice est diminué de l'impôt correspondant
+qui, pour les entreprises soumises à l'impôt sur le revenu, est déterminé dans
+les conditions fixées par décret en Conseil d'Etat ;
 
 2. Une déduction représentant la rémunération au taux de 5 p. 100 des capitaux
 propres de l'entreprise est opérée sur le bénéfice net ainsi défini ;
@@ -32,6 +37,4 @@ réduction opérée au titre de l'impôt sur le revenu ainsi que les modalités
 suivant lesquelles sont appréciés les effectifs des entreprises pour
 l'application de l'article L. 442-1. Il fixe également les conditions dans
 lesquelles le présent chapitre est appliqué aux sociétés mères et aux sociétés
-filiales. Il détermine, en outre, le mode de calcul de la réserve spéciale de
-participation pour les entreprises situées dans des zones franches et exonérées
-d'impôt sur le revenu ou d'impôt sur les sociétés.
+filiales.

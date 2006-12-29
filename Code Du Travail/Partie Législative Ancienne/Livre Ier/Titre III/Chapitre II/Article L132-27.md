@@ -44,7 +44,13 @@ accord conclu en application des articles L. 441-1, L. 442-10, L. 443-1, L.
 négociation sur un ou plusieurs des dispositifs prévus par ces articles et, s'il
 y a lieu, sur l'affectation d'une partie des sommes collectées dans le cadre du
 plan mis en place en application de l'article L. 443-1-2 à l'acquisition de
-parts des fonds solidaires mentionnés au III de l'article L. 443-1-2.
+parts des fonds solidaires mentionnés au III de l'article L. 443-1-2. La même
+obligation incombe aux groupements d'employeurs.
+
+L'accord d'intéressement, l'accord de participation et le règlement d'un plan
+d'épargne salariale, lorsqu'ils sont conclus concomitamment, peuvent faire
+l'objet d'un dépôt commun dans les conditions prévues aux neuvième et dixième
+alinéas de l'article L. 441-2.
 
 Dans les entreprises visées au premier alinéa, l'employeur est également tenu
 d'engager chaque année une négociation sur les objectifs en matière d'égalité

@@ -1,12 +1,11 @@
 Article L160-13
 ----
-Les primes des contrats d'assurance en cas de décès correspondant à la période
-pendant laquelle ces contrats sont suspendus en raison de la participation de
-l'assuré à une guerre contre une puissance étrangère sont réduites de la portion
-de ces primes afférente au risque de décès non assuré pendant ladite période de
-suspension.
-
-Le calcul de cette réduction est toujours effectué pour un nombre entier de
-trimestres. Si la durée réelle de la suspension du contrat comporte une fraction
-de trimestre, cette fraction compte pour un trimestre plein lorsqu'elle est
-supérieure à un demi-trimestre ; elle est négligée dans le cas contraire.
+L'entreprise d'assurance informe les souscripteurs de contrats d'assurance vie
+et de capitalisation ne relevant pas de l'article L. 141-1 et comportant des
+unités de compte constituées de parts d'une société mentionnée à l'article L.
+160-10 de l'intention de cette société d'adopter le régime mentionné à ce même
+article. Chaque souscripteur dispose d'un délai de trente jours pour exprimer
+son opposition par écrit. La société ne peut adopter le régime mentionné à ce
+même article en cas d'opposition dans ce délai d'une majorité de souscripteurs
+dont une part ou la totalité des droits est exprimée en des parts de telles
+sociétés.

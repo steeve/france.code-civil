@@ -36,9 +36,8 @@ leurs actions dans les conditions prévues aux articles L. 225-197-1 à L.
 225-197-3 ainsi que celles qui entendent consentir des options d'achat d'actions
 à des salariés peuvent utiliser à cette fin tout ou partie des actions acquises
 dans les conditions prévues ci-dessus. Elles peuvent également leur proposer
-d'acquérir leurs propres actions dans les conditions prévues par le II de
-l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
-travail.
+d'acquérir leurs propres actions dans les conditions prévues par les articles L.
+443-1 et suivants du code du travail.
 
 Le nombre d'actions acquises par la société en vue de leur conservation et de
 leur remise ultérieure en paiement ou en échange dans le cadre d'une opération
@@ -52,3 +51,10 @@ d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser
 Un rapport spécial établi par les commissaires aux comptes sur l'opération
 envisagée est communiqué aux actionnaires de la société dans un délai fixé par
 décret en Conseil d'Etat.
+
+Les dispositions du présent article sont applicables aux sociétés dont les
+titres ne sont pas admis aux négociations sur un marché réglementé aux fins
+mentionnées aux articles L. 443-1 et suivants du code du travail. Dans ce cas,
+les dispositions du quatrième alinéa du présent article relatives à
+l'information de l'Autorité des marchés financiers et l'article L. 225-212 ne
+sont pas applicables.

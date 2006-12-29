@@ -7,7 +7,10 @@ salariés à participer aux résultats de l'entreprise.
 
 Si une entreprise ayant conclu un accord d'intéressement vient à employer au
 moins cinquante salariés, les obligations de la présente section ne s'appliquent
-qu'à la date d'expiration de l'accord d'intéressement.
+qu'à la date d'expiration de l'accord d'intéressement. A cette date, un accord
+de participation peut être conclu dans les conditions de l'article L. 442-6 sur
+une base de calcul et de répartition reprenant celle de l'accord d'intéressement
+ayant expiré.
 
 Pour l'application des dispositions qui précèdent, l'effectif des salariés
 employés habituellement par les entreprises de travail temporaire est calculé en

@@ -28,5 +28,5 @@ de 10 % d'une même catégorie de valeurs mobilières d'un même émetteur. Un d
 en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les
 conditions dans lesquelles il peut être dérogé à cette limite. Ce seuil est
 porté à 25 % lorsque l'émetteur est une entreprise solidaire visée à l'article
-L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à 150
+L. 443-3-2 du code du travail, et dont les fonds propres sont inférieurs à 150
 000 euros.

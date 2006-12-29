@@ -18,14 +18,16 @@ premier alinéa de l'article L. 321-7, détermine, le cas échéant sur la base
 d'une étude d'impact social et territorial prescrite par le représentant de
 l'Etat, la nature ainsi que les modalités de financement et de mise en oeuvre
 des actions prévues à l'alinéa précédent. Cette convention tient compte des
-actions de même nature éventuellement prévues dans le cadre du plan de
-sauvegarde de l'emploi établi par l'entreprise. Lorsqu'un accord collectif de
-groupe, d'entreprise ou d'établissement prévoit des actions de telle nature,
-assorties d'engagements financiers de l'entreprise au moins égaux au montant de
-la contribution visée au premier alinéa, cet accord tient lieu, à la demande de
-l'entreprise, de la convention prévue au présent alinéa entre l'entreprise et le
-représentant de l'Etat, sauf opposition de ce dernier motivée et exprimée dans
-les deux mois suivant la demande.
+actions de même nature éventuellement mises en oeuvre par anticipation dans le
+cadre d'un accord collectif relatif à la gestion prévisionnelle des emplois et
+des compétences ou prévues dans le cadre du plan de sauvegarde de l'emploi
+établi par l'entreprise. Lorsqu'un accord collectif de groupe, d'entreprise ou
+d'établissement prévoit des actions de telle nature, assorties d'engagements
+financiers de l'entreprise au moins égaux au montant de la contribution visée au
+premier alinéa, cet accord tient lieu, à la demande de l'entreprise, de la
+convention prévue au présent alinéa entre l'entreprise et le représentant de
+l'Etat, sauf opposition de ce dernier motivée et exprimée dans les deux mois
+suivant la demande.
 
 En l'absence de convention signée ou d'accord collectif en tenant lieu, les
 entreprises versent au Trésor public une contribution égale au double du montant

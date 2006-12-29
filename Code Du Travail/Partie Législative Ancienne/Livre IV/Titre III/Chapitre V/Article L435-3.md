@@ -10,7 +10,8 @@ aux quatrième et cinquième alinéas de l'article L. 432-1.
 
 Dans le domaine des activités sociales et culturelles, les comités
 d'établissement peuvent confier au comité central d'entreprise la gestion
-d'activités communes. Un accord entre le chef d'entreprise et l'ensemble des
-organisations syndicales représentatives dans l'entreprise peut définir les
-compétences respectives du comité central d'entreprise et des comités
-d'établissement.
+d'activités communes. Un accord entre le chef d'entreprise et une ou plusieurs
+organisations syndicales de salariés représentatives dans l'entreprise n'ayant
+pas fait l'objet d'une opposition dans les conditions prévues au 2° du III de
+l'article L. 132-2-2, peut définir les compétences respectives du comité central
+d'entreprise et des comités d'établissement.

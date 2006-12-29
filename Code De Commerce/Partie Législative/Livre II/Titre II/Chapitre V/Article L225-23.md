@@ -1,17 +1,21 @@
 Article L225-23
 ----
-Lorsque le rapport présenté par le conseil d'administration lors de l'assemblée
-générale en application de l'article L. 225-102 établit que les actions détenues
-par le personnel de la société ainsi que par le personnel de sociétés qui lui
-sont liées au sens de l'article L. 225-180 représentent plus de 3 % du capital
-social de la société, un ou plusieurs administrateurs doivent être nommés par
-l'assemblée générale des actionnaires sur proposition des actionnaires visés à
-l'article L. 225-102 dans des conditions fixées par décret. Ces administrateurs
-doivent être nommés parmi les salariés actionnaires ou, le cas échéant, parmi
-les salariés membres du conseil de surveillance d'un fonds commun de placement
-d'entreprise détenant des actions de la société. Ces administrateurs ne sont pas
-pris en compte pour la détermination du nombre minimal et du nombre maximal
-d'administrateurs prévus à l'article L. 225-17.
+Dans les sociétés dont les titres sont admis aux négociations sur un marché
+réglementé, lorsque le rapport présenté par le conseil d'administration lors de
+l'assemblée générale en application de l'article L. 225-102 établit que les
+actions détenues par le personnel de la société ainsi que par le personnel de
+sociétés qui lui sont liées au sens de l'article L. 225-180 représentent plus de
+3 % du capital social de la société, un ou plusieurs administrateurs sont élus
+par l'assemblée générale des actionnaires sur proposition des actionnaires visés
+à l'article L. 225-102. Ceux-ci se prononcent par un vote dans des conditions
+fixées par les statuts. Ces administrateurs sont élus parmi les salariés
+actionnaires ou, le cas échéant, parmi les salariés membres du conseil de
+surveillance d'un fonds commun de placement d'entreprise détenant des actions de
+la société. Ces administrateurs ne sont pas pris en compte pour la détermination
+du nombre minimal et du nombre maximal d'administrateurs prévus à l'article L.
+225-17. La durée de leur mandat est déterminée par application de l'article L.
+225-18. Toutefois, leur mandat prend fin par l'arrivée du terme ou la rupture,
+pour quelque cause que ce soit, de leur contrat de travail.
 
 Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de
 dix-huit mois à compter de la présentation du rapport, tout salarié actionnaire

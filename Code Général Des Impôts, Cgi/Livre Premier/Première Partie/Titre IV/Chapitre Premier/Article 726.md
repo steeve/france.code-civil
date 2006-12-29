@@ -34,6 +34,10 @@ organismes d'habitations à loyer modéré et les sociétés d'économie mixte
 exerçant une activité de construction ou de gestion de logements sociaux ne sont
 pas considérés comme des personnes morales à prépondérance immobilière.
 
+I bis. - Le droit d'enregistrement mentionné au I n'est pas applicable aux
+acquisitions de droits sociaux effectuées par une société créée en vue de
+racheter une autre société dans les conditions prévues à l'article 220 nonies.
+
 II. Le droit d'enregistrement prévu au I est assis sur le prix exprimé et le
 capital des charges qui peuvent ajouter au prix ou sur une estimation des
 parties si la valeur réelle est supérieure au prix augmenté des charges.

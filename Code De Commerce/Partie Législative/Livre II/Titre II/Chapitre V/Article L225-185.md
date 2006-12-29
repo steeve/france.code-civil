@@ -19,9 +19,16 @@ Le président du conseil d'administration, le directeur général, les directeur
 généraux délégués, les membres du directoire ou le gérant d'une société par
 actions peuvent se voir attribuer par cette société des options donnant droit à
 la souscription ou à l'achat d'actions dans les conditions prévues aux articles
-L. 225-177 à L. 225-184.
+L. 225-177 à L. 225-184. Toutefois, par dérogation à ces dispositions, le
+conseil d'administration ou, selon le cas, le conseil de surveillance soit
+décide que les options ne peuvent être levées par les intéressés avant la
+cessation de leurs fonctions, soit fixe la quantité des actions issues de levées
+d'options qu'ils sont tenus de conserver au nominatif jusqu'à la cessation de
+leurs fonctions. L'information correspondante est publiée dans le rapport
+mentionné à l'article L. 225-102-1.
 
-Ils peuvent également se voir attribuer des options donnant droit à la
-souscription ou à l'achat d'actions d'une société qui est liée dans les
-conditions prévues à l'article L. 225-180, sous réserve que les actions de cette
-dernière soient admises aux négociations sur un marché réglementé.
+Ils peuvent également se voir attribuer, dans les mêmes conditions, des options
+donnant droit à la souscription ou à l'achat d'actions d'une société qui est
+liée dans les conditions prévues à l'article L. 225-180, sous réserve que les
+actions de cette dernière soient admises aux négociations sur un marché
+réglementé.

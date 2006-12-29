@@ -19,13 +19,3 @@ remplace de plein droit, à compter de la date de publication de la loi n°
 d'ancienneté supérieure figurant dans les accords d'intéressement et de
 participation et dans les règlements de plan d'épargne d'entreprise en vigueur à
 cette même date.
-
-S'il n'existe pas de dispositif d'intéressement, de participation ou de plan
-d'épargne d'entreprise spécifique à un groupement d'employeurs, un salarié mis à
-la disposition d'une entreprise par ce groupement doit pouvoir bénéficier, comme
-les autres salariés de l'entreprise, des systèmes d'intéressement et de
-participation prévus aux chapitres Ier et II du présent titre ou des plans
-d'épargne prévus au chapitre III du même titre, en vigueur au sein de cette
-entreprise, ceci au prorata du temps de sa mise à disposition, et dans le
-respect des conditions d'ancienneté figurant dans les accords et règlements
-susvisés.

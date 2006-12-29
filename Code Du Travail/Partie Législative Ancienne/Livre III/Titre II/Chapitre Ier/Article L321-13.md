@@ -45,7 +45,12 @@ vingt salariés ;
 9° Licenciement pour inaptitude lorsque l'employeur justifie, par écrit, de
 l'impossibilité où il se trouve de donner suite aux propositions de reclassement
 du médecin du travail ou lorsque l'inaptitude à tout poste dans l'entreprise à
-été constatée par le médecin du travail.
+été constatée par le médecin du travail ;
+
+10° Rupture du contrat de travail d'un salarié dont l'embauche est intervenue
+après la date de publication de la loi n° 2006-1770 du 30 décembre 2006 pour le
+développement de la participation et de l'actionnariat salarié et portant
+diverses dispositions d'ordre économique et social.
 
 Toutefois, lorsque l'un des salariés visés à l'alinéa précédent est reclassé
 sous contrat à durée indéterminée dans les trois mois suivant l'expiration du

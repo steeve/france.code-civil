@@ -7,7 +7,12 @@ services de l'institution mentionnée au I de l'article 8 de l'ordonnance n°
 d'un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen. Dans ce cas, l'accord mettant en place le plan précise les
 modalités d'exécution des obligations mentionnées au dernier alinéa du I et aux
-premier et deuxième alinéas du II dudit article.
+premier et deuxième alinéas du II dudit article. L'entreprise qui a mis en place
+un plan d'épargne d'entreprise depuis plus de cinq ans est tenue d'ouvrir une
+négociation en vue de la mise en place d'un plan d'épargne pour la retraite
+collectif ou d'un contrat mentionné au b du 1 du I de l'article 163 quatervicies
+du code général des impôts ou d'un régime mentionné au 2° de l'article 83 du
+même code.
 
 Les sommes ou valeurs inscrites aux comptes des participants doivent être
 détenues jusqu'au départ à la retraite.
@@ -48,7 +53,15 @@ d'investissement.
 II. - Le plan d'épargne pour la retraite collectif peut recevoir, à l'initiative
 des participants, les versements des sommes issues de l'intéressement, de la
 participation ainsi que d'autres versements volontaires et des contributions des
-entreprises prévues à l'article L. 443-7.
+entreprises prévues à l'article L. 443-7. Un ancien salarié d'une entreprise
+peut continuer à effectuer des versements sur le plan d'épargne pour la retraite
+collectif. Ces versements ne bénéficient pas des versements complémentaires de
+l'entreprise et les frais afférents à leur gestion sont à la charge exclusive de
+l'ancien salarié qui effectue ces versements. Cette possibilité n'est pas
+ouverte au salarié qui a accès à un plan d'épargne pour la retraite collectif
+dans la nouvelle entreprise où il est employé. Peuvent aussi être versés sur le
+plan d'épargne pour la retraite collectif les droits inscrits au compte
+épargne-temps mentionné à l'article L. 227-1.
 
 Par dérogation à l'article L. 443-7, les sommes issues de la participation qui
 sont versées au plan d'épargne pour la retraite collectif peuvent donner lieu à
@@ -58,7 +71,7 @@ III. - Le règlement du plan d'épargne pour la retraite collectif doit prévoir
 qu'une partie des sommes recueillies peut être affectée à l'acquisition de parts
 de fonds investis, dans les limites prévues à l'article L. 214-39 du code
 monétaire et financier, dans les entreprises solidaires définies à l'article L.
-443-3-1 du présent code.
+443-3-2 du présent code.
 
 Un décret en Conseil d'Etat précise les éléments que doit contenir le règlement
 du plan d'épargne retraite collectif.

@@ -22,14 +22,22 @@ location, suivant des modalités fixées par décret, pendant un délai au moins
 égal à deux ans à compter de la date d'achèvement de la période mentionnée au I
 de l'article 163 bis C.
 
+L'échange sans soulte d'actions résultant d'une opération d'offre publique, de
+fusion, de scission, de division ou de regroupement réalisée conformément à la
+réglementation en vigueur ne fait pas perdre le bénéfice des taux réduits prévus
+au deuxième alinéa. Les conditions mentionnées au même alinéa continuent à être
+applicables aux actions reçues en échange (1).
+
 6 bis Sauf option pour l'imposition à l'impôt sur le revenu selon les règles
 applicables aux traitements et salaires, l'avantage correspondant à la valeur à
 leur date d'acquisition des actions mentionnées à l'article 80 quaterdecies est
-imposé au taux de 30 %. La plus-value qui est égale à la différence entre le
-prix de cession et la valeur du titre au jour de l'acquisition est imposée au
-taux prévu au 2. La moins-value éventuellement réalisée est déduite du revenu
-imposable conformément aux règles applicables aux moins-values sur valeurs
-mobilières.
+imposé au taux de 30 %.
+
+La plus-value qui est égale à la différence entre le prix de cession et la
+valeur des actions à leur date d'acquisition est imposée dans les conditions
+prévues à l'article 150-0 A. Si les actions sont cédées pour un prix inférieur à
+leur valeur à la date d'acquisition, la moins-value est déduite du montant de
+l'avantage mentionné au premier alinéa (1).
 
 7. Le taux prévu au 2 est réduit de 30 % dans les départements de la Guadeloupe,
 de la Martinique et de la Réunion et de 40 % dans le département de la Guyane

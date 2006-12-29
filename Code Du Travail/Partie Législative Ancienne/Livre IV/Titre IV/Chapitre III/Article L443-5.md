@@ -59,3 +59,7 @@ code de la sécurité sociale.
 Quand une société propose aux adhérents d'un plan d'épargne d'entreprise de
 souscrire des obligations qu'elle a émises, le prix de cession est fixé selon
 des conditions déterminées par décret en Conseil d'Etat.
+
+Le présent article s'applique également aux cessions par une société de ses
+titres, dans la limite de 10 % du total des titres qu'elle a émis, aux adhérents
+d'un plan d'épargne d'entreprise.

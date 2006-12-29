@@ -1,11 +1,11 @@
 Article L321-4-3
 ----
 Dans les entreprises ou les établissements occupant au moins mille salariés,
-ainsi que dans les entreprises visées à l'article L. 439-6 et celles visées à
-l'article L. 439-1 dès lors qu'elles occupent ensemble au moins mille salariés,
-l'employeur qui envisage de prononcer un licenciement pour motif économique est
-tenu de proposer à chaque salarié concerné un congé de reclassement, dont la
-durée ne peut exéder neuf mois.
+ainsi que dans les entreprises visées aux premier, deuxième et troisième alinéas
+de l'article L. 439-6 et celles visées à l'article L. 439-1 dès lors qu'elles
+occupent ensemble au moins mille salariés, l'employeur qui envisage de prononcer
+un licenciement pour motif économique est tenu de proposer à chaque salarié
+concerné un congé de reclassement, dont la durée ne peut exéder neuf mois.
 
 Le congé de reclassement a pour objet de permettre au salarié de bénéficier
 d'actions de formation et des prestations d'une cellule d'accompagnement des

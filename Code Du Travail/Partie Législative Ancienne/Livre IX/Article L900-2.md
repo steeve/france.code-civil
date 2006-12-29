@@ -35,7 +35,14 @@ niveau culturel ainsi que d'assumer des responsabilités accrues dans la vie
 associative ;
 
 7° Les actions de formation continue relative à la radioprotection des personnes
-prévues à l'article L. 1333-11 du code de la santé publique.
+prévues à l'article L. 1333-11 du code de la santé publique ;
+
+8° Les actions de formation relatives à l'économie de l'entreprise. Elles ont
+notamment pour objet la compréhension par les salariés du fonctionnement et des
+enjeux de l'entreprise ;
+
+9° Les actions de formation relatives à l'intéressement, à la participation et
+aux dispositifs d'épargne salariale et d'actionnariat salarié.
 
 Entrent également dans le champ d'application des dispositions relatives à la
 formation professionnelle continue les actions permettant de réaliser un bilan

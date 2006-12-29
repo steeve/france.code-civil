@@ -25,10 +25,11 @@ professionnelle mentionné à l'article L. 910-1.
 
 Les sommes affectées aux financements mentionnés aux 1° et 2° sont intégralement
 versées aux fonds régionaux de l'apprentissage et de la formation
-professionnelle continue selon des modalités fixées par décret pris après avis
-du Conseil national de la formation professionnelle tout au long de la vie. Ce
-décret détermine également les modalités de financement des actions nationales
-de communication et de promotion de l'apprentissage.
+professionnelle continue et aux centres de formation d'apprentis pour lesquels a
+été passée convention avec l'Etat selon des modalités fixées par décret pris
+après avis du Conseil national de la formation professionnelle tout au long de
+la vie. Ce décret détermine également les modalités de financement des actions
+nationales de communication et de promotion de l'apprentissage.
 
 Les sommes affectées en application du troisième alinéa (1°) du présent article
 sont destinées en priorité aux centres de formation d'apprentis et aux sections

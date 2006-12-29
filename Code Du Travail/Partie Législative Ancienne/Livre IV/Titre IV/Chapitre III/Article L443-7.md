@@ -2,16 +2,18 @@ Article L443-7
 ----
 Les sommes versées annuellement par une ou plusieurs entreprises pour un salarié
 ou une personne mentionnée au troisième alinéa de l'article L. 443-1 sont
-limitées à 2 300 euros pour les versements à un plan d'épargne d'entreprise et à
-4 600 euros pour les versements à un ou plusieurs plans d'épargne pour la
-retraite collectifs, sans pouvoir excéder le triple de la contribution du
-bénéficiaire. L'affectation au plan d'épargne de la part individuelle du salarié
-ou personne mentionnée au troisième alinéa de l'article L. 443-1 dans la réserve
-spéciale de participation ne peut tenir lieu de cette contribution. Les sommes
-provenant d'un compte épargne-temps dans les conditions mentionnées au dixième
-alinéa de l'article L. 227-1, correspondant à un abondement de l'employeur et
-transférées sur un ou plusieurs plans d'épargne pour la retraite collectifs,
-sont assimilées à des versements des employeurs à un ou plusieurs de ces plans.
+limitées à 8 % du montant annuel du plafond prévu à l'article L. 241-3 du code
+de la sécurité sociale pour les versements à un plan d'épargne d'entreprise et à
+16 % du montant annuel dudit plafond pour les versements à un ou plusieurs plans
+d'épargne pour la retraite collectifs, sans pouvoir excéder le triple de la
+contribution du bénéficiaire. L'affectation au plan d'épargne de la part
+individuelle du salarié ou personne mentionnée au troisième alinéa de l'article
+L. 443-1 dans la réserve spéciale de participation ne peut tenir lieu de cette
+contribution. Les sommes provenant d'un compte épargne-temps dans les conditions
+mentionnées au dixième alinéa de l'article L. 227-1, correspondant à un
+abondement de l'employeur et transférées sur un ou plusieurs plans d'épargne
+pour la retraite collectifs, sont assimilées à des versements des employeurs à
+un ou plusieurs de ces plans.
 
 Dans le cas des plans prévus à l'article L. 443-1, l'entreprise peut majorer ces
 sommes à concurrence du montant consacré par le salarié ou personne mentionnée

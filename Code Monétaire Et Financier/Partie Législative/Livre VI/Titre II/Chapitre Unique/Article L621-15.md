@@ -21,14 +21,14 @@ premier alinéa, le collège peut décider de rendre publique la transmission.
 II. - La commission des sanctions peut, après une procédure contradictoire,
 prononcer une sanction à l'encontre des personnes suivantes :
 
-a) Les personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L.
+a) Les personnes mentionnées aux 1° à 8° et 11° à 14° du II de l'article L.
 621-9, au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
 613-21 ;
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de
-l'une des personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L.
+l'une des personnes mentionnées aux 1° à 8° et 11° à 14° du II de l'article L.
 621-9 au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.

@@ -20,14 +20,13 @@ correspondante.
 Après l'expiration de la période d'indisponibilité, l'exonération est toutefois
 maintenue pour les revenus provenant de sommes utilisées pour acquérir des
 actions de l'entreprise ou versées à des organismes de placement extérieurs à
-l'entreprise tels que ceux-ci sont énumérés au 4° de l'article L. 442-5, tant
-que les salariés ne demandent pas la délivrance des droits constitués à leur
-profit.
+l'entreprise tels que ceux mentionnés au 1° de l'article L. 442-5, tant que les
+salariés ne demandent pas la délivrance des droits constitués à leur profit.
 
 Cette exonération est maintenue dans les mêmes conditions dans le cas où les
 salariés transfèrent sans délai au profit des organismes de placement mentionnés
-au 4° de l'article L. 442-5 les sommes initialement investies dans l'entreprise
-conformément aux dispositions du 3° de cet article.
+au 1° de l'article L. 442-5 les sommes initialement investies dans l'entreprise
+conformément aux dispositions du 2° de cet article.
 
 Cette exonération est également maintenue dans les mêmes conditions lorsque ces
 mêmes sommes sont retirées par les salariés pour être affectées à la
@@ -42,3 +41,6 @@ général des impôts.
 IV. - Pour ouvrir droit aux exonérations prévues au présent article, les accords
 de participation doivent avoir été déposés à la direction départementale du
 travail et de l'emploi du lieu où ils ont été conclus.
+
+V. - Les dispositions du présent article sont applicables au supplément de
+réserve spéciale de participation visé à l'article L. 444-12.

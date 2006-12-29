@@ -1,6 +1,6 @@
 Article 163 bis
 ----
-Pour l'établissement de l'impôt sur le revenu, le capital mentionné au deuxième
+Pour l'établissement de l'impôt sur le revenu, le capital mentionné au quatrième
 alinéa du I de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant
 réforme des retraites et versé à compter de la date de liquidation de la pension
 de l'adhérent dans un régime obligatoire d'assurance vieillesse ou à l'âge fixé

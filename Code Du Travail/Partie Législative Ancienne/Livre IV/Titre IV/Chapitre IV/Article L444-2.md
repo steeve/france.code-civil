@@ -17,7 +17,10 @@ salariés ;
 
 - de formuler des recommandations de nature à favoriser le développement de la
 participation et à renforcer les moyens d'une meilleure connaissance des
-pratiques de participation.
+pratiques de participation ;
+
+- de suivre la mise en oeuvre de la négociation de branche mentionnée à
+l'article L. 442-18.
 
 Le Conseil supérieur de la participation établit chaque année un rapport sur
 l'intéressement, la participation des salariés aux résultats de l'entreprise,

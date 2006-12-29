@@ -6,6 +6,13 @@ de l'entreprise peuvent, par accord conclu dans les conditions définies aux
 articles L. 442-5 et L. 442-10 ci-dessus, se soumettre volontairement aux
 dispositions de la section I.
 
+En cas d'échec des négociations, l'employeur peut mettre en application
+unilatéralement un régime de participation conforme aux dispositions de la
+section 1. Le comité d'entreprise ou, à défaut, les délégués du personnel sont
+consultés sur le projet d'assujettissement unilatéral à la participation au
+moins quinze jours avant son dépôt auprès du directeur du travail, de l'emploi
+et de la formation professionnelle.
+
 Une convention ou un accord de branche étendu peut prévoir la mise en
 application d'un régime de participation dans les entreprises agricoles
 employant des salariés visés aux 1° à 3°, 6° et 7° de l'article L. 722-20 du

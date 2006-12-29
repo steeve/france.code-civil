@@ -32,13 +32,12 @@ rentabilité et des perspectives d'activité de l'entreprise. Ces critères sont
 appréciés le cas échéant sur une base consolidée ou, à défaut, en tenant compte
 des éléments financiers issus des filiales significatives. A défaut, le prix de
 souscription est déterminé en divisant par le nombre de titres existants le
-montant de l'actif net réévalué, calculé d'après le bilan le plus récent. Un
-décret fixe les conditions de calcul du prix de souscription. Si les actions de
-la société sont admises aux négociations sur un marché réglementé le prix de
-souscription ne peut pas être inférieur à 80 % de la moyenne des cours cotés aux
-vingt séances de bourse précédant ce jour, aucune option ne pouvant être
-consentie moins de vingt séances de bourse après le détachement des actions d'un
-coupon donnant droit à un dividende ou à une augmentation de capital.
+montant de l'actif net réévalué, calculé d'après le bilan le plus récent. Si les
+actions de la société sont admises aux négociations sur un marché réglementé le
+prix de souscription ne peut pas être inférieur à 80 % de la moyenne des cours
+cotés aux vingt séances de bourse précédant ce jour, aucune option ne pouvant
+être consentie moins de vingt séances de bourse après le détachement des actions
+d'un coupon donnant droit à un dividende ou à une augmentation de capital.
 
 Dans une société dont les titres sont admis aux négociations sur un marché
 réglementé, les options ne peuvent être consenties :

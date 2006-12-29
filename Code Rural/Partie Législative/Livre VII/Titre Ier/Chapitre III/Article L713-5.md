@@ -22,6 +22,16 @@ d'entreprise ou d'établissement, des usages ou des stipulations du contrat de
 travail assimilant ces temps d'habillage et de déshabillage à du temps de
 travail effectif.
 
+Le temps de déplacement professionnel pour se rendre sur le lieu d'exécution du
+contrat de travail n'est pas un temps de travail effectif. Toutefois, s'il
+dépasse le temps normal de trajet entre le domicile et le lieu habituel de
+travail, il doit faire l'objet d'une contrepartie soit sous forme de repos, soit
+financière déterminée par convention ou accord collectif ou, à défaut, par
+décision unilatérale de l'employeur prise après consultation du comité
+d'entreprise ou des délégués du personnel, s'ils existent. La part de ce temps
+de déplacement professionnel coïncidant avec l'horaire de travail ne doit pas
+entraîner de perte de salaire.
+
 II. - Une durée équivalente à la durée légale peut être instituée dans les
 professions et pour des emplois déterminés comportant des périodes d'inaction
 soit par décret, pris après conclusion d'une convention ou d'un accord de

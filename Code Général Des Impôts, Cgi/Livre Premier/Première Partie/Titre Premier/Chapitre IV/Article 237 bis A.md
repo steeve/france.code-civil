@@ -22,7 +22,10 @@ sommes portées à la réserve de participation au cours du même exercice et qu
 correspondent à la participation de droit commun. Ce taux est porté à 50 % pour
 les accords existant à la date de publication de la loi n° 2001-152 du 19
 février 2001 sur l'épargne salariale et ceux conclus au plus tard deux ans après
-cette publication.
+cette publication. Ce taux est porté à 50 % pour les accords conclus dans les
+trois ans de la publication de la loi n° 2006-1770 du 30 décembre 2006 pour le
+développement de la participation et de l'actionnariat salarié et portant
+diverses dispositions d'ordre économique et social.
 
 Le montant de la provision visée aux premier et deuxième alinéas est réduit de
 moitié lorsque les accords prévoient que les sommes attribuées sont

@@ -9,9 +9,7 @@ inférieure, exprimée en nombre entier de mois au moins égal à trois ou aux
 résultats de l'une ou plusieurs de ses filiales au sens de l'article L. 233-16
 du code de commerce, dès lors que, à la date de conclusion de l'accord, au moins
 deux tiers des salariés de ces filiales situées en France sont couverts par un
-accord d'intéressement ; un engagement de négocier, dans chacune des filiales
-qui ne sont pas couvertes par un tel accord, dans un délai maximum de quatre
-mois à compter de cette même date, doit être pris par l'entreprise.
+accord d'intéressement.
 
 Les accords d'intéressement, au sens du présent chapitre, conclus au sein d'un
 groupe de sociétés établies dans plusieurs Etats membres de l'Union européenne,
@@ -29,6 +27,10 @@ Les accords intervenus en application de l'article L. 441-1 doivent définir les
 modalités de calcul de l'intéressement. Ces modalités peuvent varier selon les
 établissements et les unités de travail ; l'accord peut, à cet effet, renvoyer à
 des accords d'établissement.
+
+L'intéressement aux résultats des salariés d'un groupement d'intérêt économique
+ou d'un groupement d'employeurs peut prendre en compte les résultats ou les
+performances des entreprises membres du groupement.
 
 Le montant global des primes distribuées aux bénéficiaires ne doit pas dépasser
 annuellement 20 p. 100 du total des salaires bruts et, le cas échéant, de la
@@ -60,26 +62,16 @@ Le montant des primes distribuées à un même bénéficiaire ne peut, au titre 
 même exercice, excéder une somme égale à la moitié du montant du plafond annuel
 moyen retenu pour le calcul des cotisations de sécurité sociale.
 
-Pour ouvrir droit aux exonérations prévues aux articles L. 441-1 et L. 441-6
-ci-après, les accords doivent avoir été conclus avant le premier jour du
-septième mois suivant la date de leur prise d'effet et déposés par la partie la
-plus diligente au plus tard dans les quinze jours suivant la conclusion à la
-direction départementale du travail, de l'emploi et de la formation
-professionnelle du lieu où ils ont été conclus. Lorsque la formule de calcul de
-l'intéressement retient une période inférieure à une année, l'accord doit être
-conclu avant la première moitié de la première période de calcul.
+Pour ouvrir droit aux exonérations prévues aux articles L. 441-4 et L. 441-6,
+l'accord doit avoir été conclu avant le premier jour de la deuxième moitié de la
+période de calcul suivant la date de sa prise d'effet.
 
-Le directeur départemental du travail, de l'emploi et de la formation
-professionnelle dispose d'un délai de quatre mois à compter du dépôt de l'accord
-pour demander le retrait ou la modification des dispositions contraires aux lois
-et règlements. Aucune contestation ultérieure de la conformité des termes d'un
-accord aux dispositions législatives et réglementaires en vigueur au moment de
-sa conclusion ne peut avoir pour effet de remettre en cause les exonérations
-fiscales et sociales attachées aux avantages accordés aux salariés au titre des
-exercices en cours ou antérieurs à la contestation. L'accord peut alors être
-dénoncé à l'initiative d'une des parties en vue de la renégociation d'un accord
-conforme aux dispositions législatives et réglementaires.
+Cet accord doit être déposé, par la partie la plus diligente, auprès de
+l'autorité administrative compétente, dans un délai de quinze jours suivant
+cette date limite ; celle-ci est, le cas échéant, reportée à la fin du délai
+d'opposition mentionné à l'article L. 132-2-2.
 
-Lorsqu'un accord a été conclu ou déposé hors délai, il produit ses effets entre
-les parties mais n'ouvre droit aux exonérations que pour les périodes de calcul
-ouvertes postérieurement au dépôt.
+Lorsqu'un accord, valide au sens du I de l'article L. 132-2-2, a été conclu ou
+déposé hors délai, il produit ses effets entre les parties mais n'ouvre droit
+aux exonérations que pour les périodes de calcul ouvertes postérieurement au
+dépôt.

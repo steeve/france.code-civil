@@ -9,6 +9,9 @@ sexe, les moeurs, l'orientation sexuelle, l'origine, la nationalité, la race,
 l'appartenance à une ethnie ou les convictions religieuses, et poursuivant ainsi
 un objectif étranger à l'institution prud'homale.
 
+II. bis. - Ne sont pas recevables les listes qui ne respectent pas le principe
+de la parité de la juridiction prud'homale.
+
 III. - Le préfet refuse d'enregistrer les déclarations de candidatures qui ne
 respectent pas la condition fixée par l'alinéa 3 de l'article L. 513-6 et les
 conditions de régularité fixées par décret en Conseil d'Etat.

@@ -38,7 +38,7 @@ plan d'épargne salariale dans les mêmes conditions que les salariés de celles
 travaillant dans les départements de métropole, d'outre-mer ou à
 Saint-Pierre-et-Miquelon ;
 
-6° Les dispositions du troisième alinéa de l'article L. 513-3 s'appliquent
+6° Les dispositions du quatrième alinéa du I de l'article L. 513-3 s'appliquent
 également aux salariés travaillant dans un département de métropole ou
 d'outre-mer ou à Saint-Pierre-et-Miquelon et domiciliés à Mayotte, en
 Nouvelle-Calédonie, en Polynésie française ou à Wallis et Futuna.

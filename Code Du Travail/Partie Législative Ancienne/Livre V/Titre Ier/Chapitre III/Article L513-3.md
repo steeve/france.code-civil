@@ -9,6 +9,12 @@ pour chaque salarié.
 A défaut, la déclaration se fait dans les cas et selon les modalités fixés par
 décret.
 
+L'employeur met à la disposition des salariés de l'établissement, des délégués
+du personnel, des représentants syndicaux et des délégués syndicaux, à des fins
+de consultation et de vérification, les données relatives à l'inscription sur
+les listes électorales prud'homales de chacun des salariés dans les conditions
+fixées par décret.
+
 Lorsque l'entreprise comprend plusieurs établissements, l'employeur déclare ses
 salariés par unité géographiquement individualisée.
 

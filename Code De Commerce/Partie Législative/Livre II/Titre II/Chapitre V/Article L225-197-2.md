@@ -25,8 +25,9 @@ société qui procède à cette attribution ou à ceux mentionnés au 1°.
 II. - Des actions peuvent également être attribuées dans les mêmes conditions
 que celles prévues à l'article L. 225-197-1 par une entreprise contrôlée,
 directement ou indirectement, exclusivement ou conjointement, par un organe
-central ou les établissements de crédit qui lui sont affiliés au sens et pour
-l'application des articles L. 511-30 à L. 511-32 du code monétaire et financier,
-aux salariés de ces sociétés ainsi qu'à ceux des entités dont le capital est
-détenu pour plus de 50 %, directement ou indirectement, exclusivement ou
-conjointement, par cet organe central ou ces établissements de crédit.
+central, des organes centraux ou les établissements de crédit qui lui ou leur
+sont affiliés au sens et pour l'application des articles L. 511-30 à L. 511-32
+du code monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des
+entités dont le capital est détenu pour plus de 50 %, directement ou
+indirectement, exclusivement ou conjointement, par cet organe central, ces
+organes centraux ou ces établissements de crédit.

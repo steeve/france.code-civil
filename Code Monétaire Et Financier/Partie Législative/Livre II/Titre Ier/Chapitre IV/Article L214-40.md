@@ -65,6 +65,11 @@ l'entreprise de l'information aux porteurs de parts.
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du
 fonds.
 
+Le règlement prévoit que les dividendes et les coupons attachés aux titres
+compris à l'actif du fonds sont distribués aux porteurs de parts, à leur demande
+expresse, suivant des modalités qu'il détermine. Il prévoit, le cas échéant,
+différentes catégories de parts.
+
 Dans une société dont les actions sont admises aux négociations sur un marché
 réglementé, un fonds rassemblant en majorité les actions de cette société
 détenues par des salariés ou anciens salariés doit être géré par un
@@ -86,3 +91,10 @@ précitée, le fonds commun de placement d'entreprise peut investir dans les
 titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui
 régissent, le cas échéant, la souscription de ces titres par les salariés et
 dans les conditions fixées par décret.
+
+Lorsque les titres émis par l'entreprise ou toute société qui lui est liée au
+sens du second alinéa de l'article L. 444-3 du code du travail ne sont pas admis
+aux négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 ou L.
+423-1 du présent code, le fonds commun de placement d'entreprise peut être
+partie à un pacte d'actionnaires afin de favoriser la transmission de
+l'entreprise, la stabilité de l'actionnariat ou la liquidité du fonds.

@@ -12,6 +12,10 @@ visées aux articles L. 122-26 et L. 122-32-1.
 Ces accords peuvent en outre fixer un salaire plancher servant de base de calcul
 à la part individuelle.
 
+Le plafond de répartition individuelle fixé par le décret prévu au premier
+alinéa ne peut faire l'objet d'aucun aménagement, à la hausse ou à la baisse, y
+compris par un des accords mentionnés à l'article L. 442-5.
+
 Les sommes qui n'auraient pu être mises en distribution en raison des règles
 définies au présent article font l'objet d'une répartition immédiate entre tous
 les salariés auxquels ont été versées, en application des règles précitées, des
@@ -24,7 +28,8 @@ participation des salariés pour être réparties au cours des exercices
 ultérieurs.
 
 Lorsqu'un accord unique est conclu au sein d'une unité économique et sociale en
-application de l'article L. 442-1, la répartition des sommes est effectuée entre
-tous les salariés employés dans les entreprises constituant l'unité économique
-et sociale sur la base du total des réserves de participation constituées dans
-chaque entreprise.
+application de l'article L. 442-1 pour les entreprises qui n'entrent pas dans un
+même périmètre de consolidation ou de combinaison des comptes au sens du second
+alinéa de l'article L. 444-3, la répartition des sommes est effectuée entre tous
+les salariés employés sur la base du total des réserves de participation
+constituées dans chaque entreprise.

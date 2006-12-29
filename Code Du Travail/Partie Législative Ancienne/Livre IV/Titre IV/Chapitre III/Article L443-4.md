@@ -16,9 +16,24 @@ collectif en valeurs mobilières présentant les mêmes caractéristiques.
 Lorsqu'un fonds commun de placement d'entreprise mentionné au b de l'article L.
 443-3 est investi en titres de l'entreprise et que ceux-ci ne sont pas admis aux
 négociations sur un marché réglementé, l'actif de ce fonds doit comporter au
-moins un tiers de titres liquides ou il doit être instauré un mécanisme
-garantissant la liquidité de ces valeurs dans des conditions définies par
-décret.
+moins un tiers de titres liquides. Cette condition n'est pas exigée dans l'un
+des cas suivants :
+
+1° Lorsqu'il est instauré un mécanisme garantissant la liquidité de ces valeurs
+dans des conditions définies par décret ;
+
+2° Lorsque, pour l'application du présent titre, l'entreprise, la société qui la
+contrôle ou toute société contrôlée par elle au sens de l'article L. 233-16 du
+code de commerce s'est engagée à racheter, dans la limite de 10 % de son capital
+social, les titres non admis aux négociations sur un marché réglementé détenus
+par le fonds commun de placement d'entreprise.
+
+Dans ce dernier cas, la valeur liquidative du fonds commun de placement
+d'entreprise est publiée au moins une fois par an. Après communication de la
+valeur d'expertise de l'entreprise, les salariés disposent d'un délai de deux
+mois avant la publication de la valeur liquidative du fonds pour présenter leur
+demande de souscription, de rachat ou d'arbitrage de leurs avoirs. Un décret en
+Conseil d'Etat détermine les conditions d'application du présent alinéa.
 
 Un fonds commun de placement mentionné au b de l'article L. 443-3 peut détenir
 au plus 30 % de titres émis par un fonds commun de placement visé à la

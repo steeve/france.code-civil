@@ -16,13 +16,16 @@ géographique ;
 
 b) La nature des sommes qui peuvent être versées ;
 
-c) Les différentes possibilités d'affectation des sommes recueillies ;
+c) Les différentes possibilités d'affectation des sommes recueillies, en
+particulier le nombre, l'orientation de gestion et le profil de risque des fonds
+utilisés ;
 
 d) Les conditions dans lesquelles les frais de tenue de compte sont pris en
 charge par les employeurs ;
 
-e) Les différentes modalités selon lesquelles les entreprises qui le souhaitent
-effectuent des versements complémentaires à ceux de leurs salariés ;
+e) La liste de différents taux et plafonds d'abondement parmi lesquels les
+entreprises souhaitant effectuer des versements complémentaires à ceux de leurs
+salariés pourront opter ;
 
 f) Les conditions dans lesquelles sont désignés les membres des conseils de
 surveillance des fonds communs de placement prévus par le règlement du plan et
@@ -36,8 +39,8 @@ champ de l'accord et, le cas échéant, des versements complémentaires de ces
 entreprises.
 
 Le règlement peut prévoir que les sommes issues de la participation mise en
-place dans une entreprise peuvent être affectées à un fonds d'investissement
-créé dans l'entreprise en application du 3 de l'article L. 442-5.
+place dans une entreprise peuvent être affectées à un compte ouvert dans
+l'entreprise en application du 2° de l'article L. 442-5.
 
 Lorsqu'il prévoit de recueillir les sommes issues de la participation, l'accord
 instituant le plan d'épargne interentreprises dispense les entreprises
@@ -53,6 +56,13 @@ placement régis par l'article L. 214-39 du même code, ceux-ci ne peuvent déte
 plus de 10 % de titres non admis aux négociations sur un marché réglementé.
 Cette limitation ne s'applique pas aux parts et actions d'organismes de
 placement collectif en valeurs mobilières éventuellement détenus par le fonds.
+
+Un avenant au plan d'épargne interentreprises peut être conclu selon les
+modalités prévues au premier alinéa. Toutefois, le règlement d'un plan institué
+entre plusieurs employeurs pris individuellement et ouvert à l'adhésion d'autres
+entreprises peut prévoir qu'un avenant relatif aux points b, c et e du règlement
+de ce plan peut être valablement conclu s'il est ratifié par une majorité des
+entreprises parties prenantes au plan.
 
 Sous réserve des dispositions particulières du présent article, les dispositions
 relatives au plan d'épargne d'entreprise sont applicables au plan d'épargne
