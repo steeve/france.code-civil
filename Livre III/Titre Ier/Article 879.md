@@ -1,4 +1,4 @@
 Article 879
 ----
-Ce droit ne peut cependant plus être exercé lorsqu'il y a novation dans la
-créance contre le défunt par l'acceptation de l'héritier pour débiteur.
+Ce droit peut s'exercer par tout acte par lequel un créancier manifeste au
+créancier concurrent son intention d'être préféré sur un bien déterminé.

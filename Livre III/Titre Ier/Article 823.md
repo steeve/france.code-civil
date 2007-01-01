@@ -1,7 +1,6 @@
 Article 823
 ----
-Si l'un des cohéritiers refuse de consentir au partage ou s'il s'élève des
-contestations soit sur le mode d'y procéder, soit sur la manière de le terminer,
-le tribunal prononce comme en matière sommaire ou commet, s'il y a lieu, pour
-les opérations du partage, un des juges, sur le rapport duquel il décide les
-contestations.
+Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure à
+cinq ans. Il peut être renouvelé, dans le cas prévu au premier alinéa de
+l'article 822, jusqu'à la majorité du plus jeune des descendants et, dans le cas
+prévu au deuxième alinéa du même article, jusqu'au décès du conjoint survivant.

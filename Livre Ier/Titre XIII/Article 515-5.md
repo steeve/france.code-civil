@@ -1,12 +1,16 @@
 Article 515-5
 ----
-Les partenaires d'un pacte civil de solidarité indiquent, dans la convention
-visée au deuxième alinéa de l'article 515-3, s'ils entendent soumettre au régime
-de l'indivision les meubles meublants dont ils feraient l'acquisition à titre
-onéreux postérieurement à la conclusion du pacte. A défaut, ces meubles sont
-présumés indivis par moitié. Il en est de même lorsque la date d'acquisition de
-ces biens ne peut être établie.
+Sauf dispositions contraires de la convention visée au deuxième alinéa de
+l'article 515-3, chacun des partenaires conserve l'administration, la jouissance
+et la libre disposition de ses biens personnels. Chacun d'eux reste seul tenu
+des dettes personnelles nées avant ou pendant le pacte, hors le cas du dernier
+alinéa de l'article 515-4.
 
-Les autres biens dont les partenaires deviennent propriétaires à titre onéreux
-postérieurement à la conclusion du pacte sont présumés indivis par moitié si
-l'acte d'acquisition ou de souscription n'en dispose autrement.
+Chacun des partenaires peut prouver par tous les moyens, tant à l'égard de son
+partenaire que des tiers, qu'il a la propriété exclusive d'un bien. Les biens
+sur lesquels aucun des partenaires ne peut justifier d'une propriété exclusive
+sont réputés leur appartenir indivisément, à chacun pour moitié.
+
+Le partenaire qui détient individuellement un bien meuble est réputé, à l'égard
+des tiers de bonne foi, avoir le pouvoir de faire seul sur ce bien tout acte
+d'administration, de jouissance ou de disposition.

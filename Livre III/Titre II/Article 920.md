@@ -1,5 +1,5 @@
 Article 920
 ----
-Les dispositions soit entre vifs, soit à cause de mort, qui excéderont la
-quotité disponible, seront réductibles à cette quotité lors de l'ouverture de la
-succession.
+Les libéralités, directes ou indirectes, qui portent atteinte à la réserve d'un
+ou plusieurs héritiers, sont réductibles à la quotité disponible lors de
+l'ouverture de la succession.

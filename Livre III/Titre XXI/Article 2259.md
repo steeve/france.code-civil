@@ -1,4 +1,4 @@
 Article 2259
 ----
-Elle court encore pendant les trois mois pour faire inventaire, et les quarante
-jours pour délibérer.
+La prescription court pendant les délais mentionnés aux articles 771, 772 et
+790.

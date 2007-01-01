@@ -1,8 +1,8 @@
 Article 834
 ----
-Les lots sont faits par l'un des cohéritiers s'ils peuvent convenir entre eux
-sur le choix, et si celui qu'ils avaient choisi accepte la commission : dans le
-cas contraire, les lots sont faits par un expert que le juge-commissaire
-désigne.
+Le bénéficiaire de l'attribution préférentielle ne devient propriétaire exclusif
+du bien attribué qu'au jour du partage définitif.
 
-Ils sont ensuite tirés au sort.
+Jusqu'à cette date, il ne peut renoncer à l'attribution que lorsque la valeur du
+bien, telle que déterminée au jour de cette attribution, a augmenté de plus du
+quart au jour du partage indépendamment de son fait personnel.

@@ -1,27 +1,40 @@
 Article 1397
 ----
-Après deux années d'application du régime matrimonial, conventionnel ou légal,
-les époux pourront convenir dans l'intérêt de la famille de le modifier, ou même
-d'en changer entièrement, par un acte notarié qui sera soumis à l'homologation
-du tribunal de leur domicile.
+Après deux années d'application du régime matrimonial, les époux peuvent
+convenir, dans l'intérêt de la famille, de le modifier, ou même d'en changer
+entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la
+liquidation du régime matrimonial modifié.
 
-Toutes les personnes qui avaient été parties dans le contrat modifié doivent
-être appelées à l'instance d'homologation ; mais non leurs héritiers, si elles
-sont décédées.
+Les personnes qui avaient été parties dans le contrat modifié et les enfants
+majeurs de chaque époux sont informés personnellement de la modification
+envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois
+mois.
 
-Le changement homologué a effet entre les parties à dater du jugement et, à
-l'égard des tiers, trois mois après que mention en aura été portée en marge de
-l'un et de l'autre exemplaire de l'acte de mariage. Toutefois, en l'absence même
-de cette mention, le changement n'en est pas moins opposable aux tiers si, dans
-les actes passés avec eux, les époux ont déclaré avoir modifié leur régime
-matrimonial.
+Les créanciers sont informés de la modification envisagée par la publication
+d'un avis dans un journal habilité à recevoir les annonces légales dans
+l'arrondissement ou le département du domicile des époux. Chacun d'eux peut
+s'opposer à la modification dans les trois mois suivant la publication.
 
-Il sera fait mention du jugement d'homologation sur la minute du contrat de
-mariage modifié.
+En cas d'opposition, l'acte notarié est soumis à l'homologation du tribunal du
+domicile des époux. La demande et la décision d'homologation sont publiées dans
+les conditions et sous les sanctions prévues au code de procédure civile.
 
-La demande et la décision d'homologation doivent être publiées dans les
-conditions et sous les sanctions prévues au code de procédure civile.
+Lorsque l'un ou l'autre des époux a des enfants mineurs, l'acte notarié est
+obligatoirement soumis à l'homologation du tribunal du domicile des époux.
 
-Les créanciers, s'il a été fait fraude à leurs droits, pourront former tierce
-opposition contre le jugement d'homologation dans les conditions du code de
-procédure civile.
+Le changement a effet entre les parties à la date de l'acte ou du jugement qui
+le prévoit et, à l'égard des tiers, trois mois après que mention en a été portée
+en marge de l'acte de mariage. Toutefois, en l'absence même de cette mention, le
+changement n'en est pas moins opposable aux tiers si, dans les actes passés avec
+eux, les époux ont déclaré avoir modifié leur régime matrimonial.
+
+Il est fait mention de la modification sur la minute du contrat de mariage
+modifié et, si l'un des époux est commerçant, au registre du commerce et des
+sociétés.
+
+Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent
+attaquer le changement de régime matrimonial dans les conditions de l'article
+1167.
+
+Les modalités d'application du présent article sont déterminées par décret en
+Conseil d'Etat.

@@ -1,8 +1,7 @@
 Article 805
 ----
-Il ne peut vendre les meubles de la succession que par le ministère d'un
-officier public, aux enchères, et après les affiches et publications
-accoutumées.
+L'héritier qui renonce est censé n'avoir jamais été héritier.
 
-S'il les représente en nature, il n'est tenu que de la dépréciation ou de la
-détérioration causée par sa négligence.
+Sous réserve des dispositions de l'article 845, la part du renonçant échoit à
+ses représentants ; à défaut, elle accroît à ses cohéritiers ; s'il est seul,
+elle est dévolue au degré subséquent.

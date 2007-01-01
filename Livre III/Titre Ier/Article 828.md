@@ -1,9 +1,7 @@
 Article 828
 ----
-Après que les meubles et immeubles ont été estimés et vendus, s'il y a lieu, le
-juge-commissaire renvoie les parties devant un notaire dont elles conviennent,
-ou nommé d'office, si les parties ne s'accordent pas sur le choix.
-
-On procède, devant cet officier, aux comptes que les copartageants peuvent se
-devoir, à la formation de la masse générale, à la composition des lots, et aux
-fournissements à faire à chacun des copartageants.
+Lorsque le débiteur d'une soulte a obtenu des délais de paiement et que, par
+suite des circonstances économiques, la valeur des biens qui lui sont échus a
+augmenté ou diminué de plus du quart depuis le partage, les sommes restant dues
+augmentent ou diminuent dans la même proportion, sauf exclusion de cette
+variation par les parties.

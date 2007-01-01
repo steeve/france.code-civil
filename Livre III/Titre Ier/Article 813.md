@@ -1,9 +1,9 @@
 Article 813
 ----
-Le curateur à une succession vacante est tenu, avant tout, d'en faire constater
-l'état par un inventaire : il en exerce et poursuit les droits ; il répond aux
-demandes formées contre elle ; il administre, sous la charge de faire verser le
-numéraire qui se trouve dans la succession, ainsi que les deniers provenant du
-prix des meubles ou immeubles vendus, dans la caisse du receveur de la régie
-royale (nationale) pour la conservation des droits et à la charge de rendre
-compte à qui il appartiendra.
+Les héritiers peuvent, d'un commun accord, confier l'administration de la
+succession à l'un d'eux ou à un tiers. Le mandat est régi par les articles 1984
+à 2010.
+
+Lorsqu'un héritier au moins a accepté la succession à concurrence de l'actif
+net, le mandataire ne peut, même avec l'accord de l'ensemble des héritiers, être
+désigné que par le juge. Le mandat est alors régi par les articles 813-1 à 814.

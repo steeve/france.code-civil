@@ -1,8 +1,7 @@
 Article 817
 ----
-L'action en partage, à l'égard des cohéritiers mineurs ou majeurs en tutelle,
-peut être exercée par leurs tuteurs spécialement autorisés par un conseil de
-famille.
-
-A l'égard des cohéritiers absents, l'action appartient aux parents envoyés en
-possession.
+Celui qui est en indivision pour la jouissance peut demander le partage de
+l'usufruit indivis par voie de cantonnement sur un bien ou, en cas
+d'impossibilité, par voie de licitation de l'usufruit. Lorsqu'elle apparaît
+seule protectrice de l'intérêt de tous les titulaires de droits sur le bien
+indivis, la licitation peut porter sur la pleine propriété.

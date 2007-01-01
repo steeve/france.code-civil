@@ -1,9 +1,12 @@
 Article 824
 ----
-L'estimation des immeubles est faite par experts choisis par les parties
-intéressées ou, à leur refus, nommés d'office.
+Si des indivisaires entendent demeurer dans l'indivision, le tribunal peut, à la
+demande de l'un ou de plusieurs d'entre eux, en fonction des intérêts en
+présence et sans préjudice de l'application des articles 831 à 832-3, attribuer
+sa part à celui qui a demandé le partage.
 
-Le procès-verbal des experts doit présenter les bases de l'estimation ; il doit
-indiquer si l'objet estimé peut être commodément partagé ; de quelle manière ;
-fixer enfin, en cas de division, chacune des parts qu'on peut en former, et leur
-valeur.
+S'il n'existe pas dans l'indivision une somme suffisante, le complément est
+versé par ceux des indivisaires qui ont concouru à la demande, sans préjudice de
+la possibilité pour les autres indivisaires d'y participer, s'ils en expriment
+la volonté. La part de chacun dans l'indivision est augmentée à proportion de
+son versement.

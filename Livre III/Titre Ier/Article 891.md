@@ -1,5 +1,6 @@
 Article 891
 ----
-Le défendeur à la demande en rescision peut en arrêter le cours et empêcher un
-nouveau partage en offrant et en fournissant au demandeur le supplément de sa
-portion héréditaire soit en numéraire, soit en nature.
+L'action en complément de part n'est pas admise contre une vente de droits
+indivis faite sans fraude à un indivisaire par ses co-indivisaires ou par l'un
+d'eux, lorsque la cession comporte un aléa défini dans l'acte et expressément
+accepté par le cessionnaire.

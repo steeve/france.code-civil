@@ -1,7 +1,12 @@
 Article 826
 ----
-Chacun des cohéritiers peut demander sa part en nature des meubles et immeubles
-de la succession : néanmoins, s'il y a des créanciers saisissants ou opposants,
-ou si la majorité des cohéritiers juge la vente nécessaire pour l'acquit des
-dettes et charges de la succession, les meubles sont vendus publiquement en la
-forme ordinaire.
+L'égalité dans le partage est une égalité en valeur.
+
+Chaque copartageant reçoit des biens pour une valeur égale à celle de ses droits
+dans l'indivision.
+
+S'il y a lieu à tirage au sort, il est constitué autant de lots qu'il est
+nécessaire.
+
+Si la consistance de la masse ne permet pas de former des lots d'égale valeur,
+leur inégalité se compense par une soulte.

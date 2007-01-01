@@ -1,5 +1,4 @@
 Article 1061
 ----
-S'il n'a point été satisfait aux deux articles précédents, il sera procédé au
-même inventaire, à la diligence des personnes désignées en l'article 1057, en y
-appelant le grevé ou son tuteur, et le tuteur nommé pour l'exécution.
+Les dispositions prévues aux articles 1049, 1051, 1052, 1055 et 1056 sont
+applicables aux libéralités résiduelles.

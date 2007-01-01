@@ -1,7 +1,6 @@
 Article 2464
 ----
-Faute par le tiers détenteur de satisfaire pleinement à l'une de ces
-obligations, chaque créancier hypothécaire a droit de faire vendre sur lui
-l'immeuble hypothéqué, trente jours après commandement fait au débiteur
-originaire et sommation faite au tiers détenteur de payer la dette exigible ou
-de délaisser l'héritage.
+Faute par le tiers détenteur de satisfaire à l'une de ces obligations, chaque
+créancier titulaire d'un droit de suite sur l'immeuble a le droit de poursuivre
+la saisie et la vente de l'immeuble dans les conditions du titre XIX du livre
+III.

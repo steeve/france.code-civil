@@ -22,10 +22,14 @@ date, soit au profit de requérants titulaires du privilège et des hypothèques
 visés par le troisième alinéa, les inscriptions viennent en concurrence quel que
 soit l'ordre du registre susvisé.
 
-L'inscription d'une hypothèque judiciaire conservatoire est réputée d'un rang
-antérieur à celui conféré à la convention de rechargement lorsque la publicité
-de cette convention est postérieure à l'inscription de l'hypothèque judiciaire
-conservatoire.
+L'inscription de l'hypothèque légale du Trésor ou d'une hypothèque judiciaire
+conservatoire est réputée d'un rang antérieur à celui conféré à la convention de
+rechargement lorsque la publicité de cette convention est postérieure à
+l'inscription de cette hypothèque.
+
+Les dispositions du cinquième alinéa s'appliquent à l'inscription de
+l'hypothèque légale des organismes gestionnaires d'un régime obligatoire de
+protection sociale.
 
 L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les
 porteurs de warrants, dans la mesure où ces derniers sont gagés sur des biens

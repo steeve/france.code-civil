@@ -1,4 +1,8 @@
 Article 819
 ----
-Si tous les héritiers sont présents et capables, le partage peut être fait dans
-la forme et par tel acte que les parties jugent convenables.
+Celui qui est pour partie plein propriétaire et qui se trouve en indivision avec
+des usufruitiers et des nus-propriétaires peut user des facultés prévues aux
+articles 817 et 818.
+
+Le deuxième alinéa de l'article 815-5 n'est pas applicable en cas de licitation
+en pleine propriété.

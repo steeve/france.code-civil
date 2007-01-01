@@ -1,9 +1,8 @@
 Article 795
 ----
-L'héritier a trois mois pour faire inventaire, à compter du jour de l'ouverture
-de la succession.
+La déclaration de conserver un bien n'est pas opposable aux créanciers tant
+qu'elle n'a pas été publiée.
 
-Il a de plus, pour délibérer sur son acceptation ou sur sa renonciation, un
-délai de quarante jours, qui commencent à courir du jour de l'expiration des
-trois mois donnés pour l'inventaire, ou du jour de la clôture de l'inventaire
-s'il a été terminé avant les trois mois.
+Le défaut de déclaration de l'aliénation d'un bien dans le délai prévu à
+l'article 794 engage l'héritier sur ses biens personnels à hauteur du prix de
+l'aliénation.

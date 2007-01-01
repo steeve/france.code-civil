@@ -1,4 +1,7 @@
 Article 835
 ----
-Avant de procéder au tirage des lots, chaque copartageant est admis à proposer
-ses réclamations contre leur formation.
+Si tous les indivisaires sont présents et capables, le partage peut intervenir
+dans la forme et selon les modalités choisies par les parties.
+
+Lorsque l'indivision porte sur des biens soumis à la publicité foncière, l'acte
+de partage est passé par acte notarié.

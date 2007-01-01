@@ -1,6 +1,8 @@
 Article 1055
 ----
-Celui qui fera les dispositions autorisées par les articles précédents pourra,
-par le même acte, ou par un acte postérieur, en forme authentique, nommer un
-tuteur chargé de l'exécution de ces dispositions : ce tuteur ne pourra être
-dispensé que pour une des causes exprimées aux articles 428 et suivants.
+L'auteur d'une donation graduelle peut la révoquer à l'égard du second gratifié
+tant que celui-ci n'a pas notifié, dans les formes requises en matière de
+donation, son acceptation au donateur.
+
+Par dérogation à l'article 932, la donation graduelle peut être acceptée par le
+second gratifié après le décès du donateur.

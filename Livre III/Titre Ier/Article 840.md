@@ -1,5 +1,6 @@
 Article 840
 ----
-Les partages faits conformément aux règles ci-dessus prescrites au nom des
-présumés absents et non présents sont définitifs ; ils ne sont que provisionnels
-si les règles prescrites n'ont pas été observées.
+Le partage est fait en justice lorsque l'un des indivisaires refuse de consentir
+au partage amiable ou s'il s'élève des contestations sur la manière d'y procéder
+ou de le terminer ou lorsque le partage amiable n'a pas été autorisé ou approuvé
+dans l'un des cas prévus aux articles 836 et 837.

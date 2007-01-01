@@ -1,5 +1,5 @@
 Article 839
 ----
-S'il y a lieu à licitation, dans le cas prévu par l'alinéa 1er de l'article
-précédent, elle ne peut être faite qu'en justice avec les formalités prescrites
-pour l'aliénation des biens des mineurs. Les étrangers y sont toujours admis.
+Lorsque plusieurs indivisions existent exclusivement entre les mêmes personnes,
+qu'elles portent sur les mêmes biens ou sur des biens différents, un partage
+amiable unique peut intervenir.

@@ -1,7 +1,4 @@
 Article 896
 ----
-Les substitutions sont prohibées.
-
-Toute disposition par laquelle le donataire, l'héritier institué ou le légataire
-sera chargé de conserver et de rendre à un tiers sera nulle, même à l'égard du
-donataire, de l'héritier institué, ou du légataire.
+La disposition par laquelle une personne est chargée de conserver et de rendre à
+un tiers ne produit d'effet que dans le cas où elle est autorisée par la loi.

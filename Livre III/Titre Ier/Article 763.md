@@ -6,9 +6,10 @@ totalement de la succession, il a de plein droit, pendant une année, la
 jouissance gratuite de ce logement, ainsi que du mobilier, compris dans la
 succession, qui le garnit.
 
-Si son habitation était assurée au moyen d'un bail à loyer, les loyers lui en
-seront remboursés par la succession pendant l'année, au fur et à mesure de leur
-acquittement.
+Si son habitation était assurée au moyen d'un bail à loyer ou d'un logement
+appartenant pour partie indivise au défunt, les loyers ou l'indemnité
+d'occupation lui en seront remboursés par la succession pendant l'année, au fur
+et à mesure de leur acquittement.
 
 Les droits prévus au présent article sont réputés effets directs du mariage et
 non droits successoraux.

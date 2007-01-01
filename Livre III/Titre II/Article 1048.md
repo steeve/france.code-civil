@@ -1,6 +1,5 @@
 Article 1048
 ----
-Les biens dont les père et mère ont la faculté de disposer pourront être par eux
-donnés, en tout ou en partie, à un ou plusieurs de leurs enfants, par actes
-entre vifs ou testamentaires, avec la charge de rendre ces biens aux enfants nés
-et à naître, au premier degré seulement, desdits donataires.
+Une libéralité peut être grevée d'une charge comportant l'obligation pour le
+donataire ou le légataire de conserver les biens ou droits qui en sont l'objet
+et de les transmettre, à son décès, à un second gratifié, désigné dans l'acte.

@@ -1,7 +1,9 @@
 Article 1033
 ----
-S'il y a plusieurs exécuteurs testamentaires qui aient accepté, un seul pourra
-agir au défaut des autres ; et ils seront solidairement responsables du compte
-du mobilier qui leur a été confié, à moins que le testateur n'ait divisé leurs
-fonctions, et que chacun d'eux ne se soit renfermé dans celle qui lui était
-attribuée.
+L'exécuteur testamentaire rend compte dans les six mois suivant la fin de sa
+mission.
+
+Si l'exécution testamentaire prend fin par le décès de l'exécuteur, l'obligation
+de rendre des comptes incombe à ses héritiers.
+
+Il assume la responsabilité d'un mandataire à titre gratuit.

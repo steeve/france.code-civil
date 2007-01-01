@@ -1,7 +1,8 @@
 Article 1058
 ----
-Après le décès de celui qui aura disposé à la charge de restitution, il sera
-procédé, dans les formes ordinaires, à l'inventaire de tous les biens et effets
-qui composeront sa succession, excepté néanmoins le cas où il ne s'agirait que
-d'un legs particulier. Cet inventaire contiendra la prisée à juste prix des
-meubles et effets mobiliers.
+La libéralité résiduelle n'oblige pas le premier gratifié à conserver les biens
+reçus. Elle l'oblige à transmettre les biens subsistants.
+
+Lorsque les biens, objets de la libéralité résiduelle, ont été aliénés par le
+premier gratifié, les droits du second bénéficiaire ne se reportent ni sur le
+produit de ces aliénations ni sur les nouveaux biens acquis.
