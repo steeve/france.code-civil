@@ -1,15 +1,38 @@
 Article R1
 ----
-Les réclamations portant sur des prestations du service universel postal sont
-traitées par le prestataire de ce service selon des modalités fixées par arrêté
-du ministre chargé des postes, sur proposition du prestataire du service
-universel postal, après avis du Médiateur du service universel postal.
+Le service universel postal comprend l'offre des services d'envois postaux
+nationaux et transfrontaliers suivants :
 
-Le traitement des réclamations par le prestataire du service universel postal
-est gratuit pour les usagers.
+a) Les services d'envois de correspondance pesant au plus 2 kg comprenant :
 
-La proposition du prestataire du service universel postal mentionnée au premier
-alinéa porte sur la procédure interne de traitement des réclamations, sur la
-liste des prestations qui font l'objet d'un dédommagement en cas de perte, de
-vol, de détérioration ou de non-respect des engagements de qualité du service,
-ainsi que sur les barèmes de dédommagement.
+1° Les services d'envois ordinaires égrenés ou en nombre, les services d'envois
+nationaux égrenés incluant des services d'envois prioritaires et non
+prioritaires ;
+
+2° Les services d'envois recommandés avec ou sans avis de réception ;
+
+b) Les services d'envois de journaux et imprimés périodiques pesant au plus 2 kg
+;
+
+c) Les services d'envois de catalogues et autres imprimés pesant au plus 2 kg ;
+
+d) Les services d'envois de colis postaux pesant au plus 20 kg, en envoi
+ordinaire ou en recommandé, offerts au public à l'unité, à l'exclusion des
+services d'envois offerts à des entreprises en exécution de contrats portant sur
+plusieurs envois ;
+
+e) Les services d'envois à valeur déclarée dont le montant est inférieur à un
+seuil fixé par arrêté du ministre chargé des postes ;
+
+f) Le service de réexpédition des envois postaux mentionnés au présent article ;
+
+g) Dans les conditions fixées par arrêté du ministre chargé des postes, des
+services d'envois de cécogrammes à titre gratuit en envoi ordinaire ou en
+recommandé.
+
+Les envois prioritaires relevant du service universel postal sont distribués le
+jour ouvrable suivant le jour de leur dépôt.
+
+Les services d'envois en nombre portent sur le dépôt simultané d'un nombre
+d'objets homogènes ou classés en catégories homogènes, supérieur à un nombre
+arrêté par le ministre chargé des postes.
