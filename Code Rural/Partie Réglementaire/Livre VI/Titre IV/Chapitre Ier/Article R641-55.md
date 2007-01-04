@@ -1,11 +1,13 @@
 Article R641-55
 ----
-Outre les attributions mentionnées à l'article L. 641-5 du code rural, les
-comités nationaux sont également chargés :
+Est puni des peines d'amende prévues pour les contraventions de la 3e classe le
+fait pour tout producteur, transformateur ou tout autre responsable de la mise
+sur le marché d'une denrée alimentaire ou d'un produit agricole définis à
+l'article R. 641-45 d'employer les termes "produits pays" sans être titulaire de
+l'autorisation prévue par les articles R. 641-50 et R. 641-51 ou sans respecter
+les conditions de production ou de fabrication fixées par les articles R. 641-45
+à R. 641-49.
 
-1° D'étudier et proposer toute mesure de nature à favoriser l'amélioration de la
-qualité et des caractéristiques des produits bénéficiant d'une appellation
-d'origine ou d'une indication géographique protégée ;
-
-2° De donner tous avis sur les mesures techniques utiles à l'amélioration de la
-production et de la qualité de ces produits.
+Les personnes physiques coupables des infractions mentionnées au premier alinéa
+encourent également les peines complémentaires prévues au 5° de l'article 131-16
+du code pénal.

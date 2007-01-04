@@ -1,7 +1,12 @@
 Article R641-48
 ----
-L'Institut national de l'origine et de la qualité est soumis au régime financier
-et comptable défini par les articles 14 à 25 du décret du 10 décembre 1953
-relatif à la réglementation comptable applicable aux établissements nationaux à
-caractère administratif et par les articles 151 à 189 du décret du 29 décembre
-1962 portant règlement général sur la comptabilité publique.
+Les transcriptions créoles énumérées ci-dessous peuvent être utilisées si elles
+sont accompagnées d'une traduction en français :
+
+- produits pei ;
+
+- produits peyi ;
+
+- produits péi ;
+
+- produits péyi.

@@ -1,9 +1,8 @@
 Article R641-45
 ----
-Conformément aux dispositions de l'article 65 modifié de la loi de finances du
-27 février 1912 et dans les conditions prévues audit article, des agents de
-l'Institut national de l'origine et de la qualité peuvent, à la demande de
-l'institut, être agréés et commissionnés comme agents de la direction générale
-de la concurrence, de la consommation et de la répression des fraudes dans le
-domaine de la réglementation relative aux conditions de production des produits
-à appellation d'origine contrôlée.
+Les conditions dans lesquelles les denrées alimentaires ainsi que les produits
+agricoles non alimentaires et non transformés peuvent être autorisés à employer,
+dans leur étiquetage ou leur présentation, les termes "produits pays" sont
+fixées par la présente sous-section. Ces dispositions ne sont pas applicables
+aux produits relevant du règlement (CE) n° 1493/99 du 17 mai 1999 ni aux vins
+aromatisés et aux spiritueux.
