@@ -3,7 +3,7 @@ Article R520-3
 En cas de création par voie de construction ou de transformation, de locaux
 passibles de la redevance et sans préjudice de l'autorisation prévue à l'article
 L. 631-7 du code de la construction et de l'habitation si celle-ci est requise,
-la déclaration d'achèvement des travaux prévue à l'article R. 460-1 doit être
+la déclaration d'achèvement des travaux prévue à l'article L. 462-1 doit être
 faite dans les formes particulières fixées par un arrêté du ministre chargé de
 l'urbanisme et mentionner, avec toutes justifications utiles à l'appui, la
 personne physique ou morale propriétaire des locaux.

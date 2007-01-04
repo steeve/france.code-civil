@@ -1,9 +1,9 @@
 Article R251-2
 ----
-L'année d'achèvement des travaux est celle au cours de laquelle a été délivré le
-récépissé de la déclaration d'achèvement prévue par l'article R. 460-1 du code
-de l'urbanisme ou, s'il en a été délivré plusieurs, celle au cours de laquelle a
-été délivré le dernier de ceux-ci.
+L'année d'achèvement des travaux est celle au cours de laquelle a été adressée à
+la mairie la déclaration attestant l'achèvement et la conformité des travaux
+prévue par l'article L. 462-1 du code de l'urbanisme ou, s'il en a été délivré
+plusieurs, celle au cours de laquelle a été délivré le dernier de ceux-ci.
 
 Si, entre les dates du premier et du dernier desdits récépissés il s'est écoulé
 plus de deux ans, il est alors procédé à une révision du loyer pour ladite

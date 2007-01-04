@@ -1,24 +1,23 @@
 Article R442-1
 ----
-Les dispositions du présent chapitre sont applicables dans les communes,
-ensembles de communes ou parties de communes ci-après énumérés :
+Ne constituent pas des lotissements au sens du présent titre :
 
-a) Dans les communes, ensembles de communes ou parties de communes dotés d'un
-plan local d'urbanisme rendu public ou approuvé ;
+a) Les divisions effectuées dans le cadre d'une opération de remembrement
+réalisée par une association foncière urbaine autorisée ou constituée d'office
+régie par le chapitre II du titre II du livre III ;
 
-b) Dans les zones d'environnement protégé, sauf s'il en est disposé autrement
-par l'acte instituant la zone ;
+b) Les divisions effectuées par l'aménageur à l'intérieur d'une zone
+d'aménagement concerté ;
 
-c) Dans les communes figurant sur une liste dressée à cet effet par arrêté du
-préfet pris sur proposition du responsable du service de l'Etat dans le
-département, chargé de l'urbanisme et aprés avis du maire de chaque commune
-interéssée.
+c) Les divisions de terrains effectuées conformément à un permis de construire
+prévu à l'article R. 431-24 ;
 
-La liste établie en application du c ci-dessus fait l'objet des mesures de
-publicité et d'information du public mentionnées aux deuxième et troisième
-alinéas de l'article R. 441-1.
+d) Les divisions par ventes ou locations effectuées par un propriétaire au
+profit de personnes qu'il a habilitées à réaliser une opération immobilière sur
+une partie de sa propriété et qui ont elles-mêmes déjà obtenu un permis
+d'aménager ou un permis de construire portant sur la création d'un groupe de
+bâtiments ou d'un immeuble autre qu'une maison d'habitation individuelle ;
 
-Toutefois pour ce qui concerne le garage collectif des caravanes, ces
-dispositions sont applicables sur tout le territoire national. Il en va de même
-pour les travaux soumis à déclaration préalable en application de l'article R.
-442-3-1.
+e) Les divisions résultant de la vente, de la location ou de l'attribution
+ultérieure des lots issus des opérations énumérées au a, à la condition que
+chaque lot vendu ait été délimité par le plan de remembrement approuvé.

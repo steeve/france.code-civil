@@ -1,11 +1,10 @@
 Article R1614-20
 ----
-Des conventions passées entre l'Etat et les communes ou les établissements
-publics de coopération intercommunale peuvent prévoir :
-
-1° La transmission de supports informatiques, conformes aux spécifications des
-systèmes d'information nationaux, en remplacement des documents normalisés ;
-
-2° L'adaptation des documents normalisés aux besoins statistiques propres des
-communes et des établissements publics de coopération intercommunale et la
-réalisation conjointe de statistiques particulières.
+En application de l'article L. 426-1 du code de l'urbanisme, les communes et
+établissements publics de coopération intercommunale qui instruisent eux-mêmes
+les actes d'urbanisme transmettent chaque mois aux services du ministère de
+l'équipement, pour l'établissement de statistiques, les informations
+statistiques prévues par les arrêtés pris pour l'application de l'article R.
+434-2 de ce code. Ces arrêtés désignent le service destinataire. Cette
+transmission peut s'effectuer sur support électronique, conformément à la norme
+nationale définie par arrêté du ministre en charge de l'urbanisme.

@@ -14,9 +14,10 @@ transformation des établissements, que l'exécution des projets soit ou ne soit
 pas subordonnée à la délivrance d'un permis de construire ;
 
 De procéder aux visites de réception, prévues à l'article R. 123-45, desdits
-établissements et de donner son avis sur la délivrance du certificat de
-conformité prévu par l'article L. 460-2 du code de l'urbanisme et sur la
-délivrance de l'autorisation d'ouverture des établissements ;
+établissements et de donner son avis sur la déclaration attestant l'achèvement
+et la conformité des travaux d'achèvement prévue par l'article L. 462-1 du code
+de l'urbanisme et sur la délivrance de l'autorisation d'ouverture des
+établissements ;
 
 De procéder, soit de sa propre initiative, soit à la demande du maire ou du
 représentant de l'Etat dans le département, à des contrôles périodiques ou

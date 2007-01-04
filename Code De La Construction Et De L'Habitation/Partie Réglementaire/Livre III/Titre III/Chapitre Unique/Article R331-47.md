@@ -8,10 +8,9 @@ Neuf mois pour les opérations visées à l'article R. 331-48 ;
 Douze mois pour les opérations visées à l'article R. 331-49, le préfet peut
 rapporter cette décision.
 
-Le bénéficiaire est tenu [*obligation*] de justifier au préfet que la
-déclaration d'achèvement des travaux prévue à l'article R. 460-1 du code de
-l'urbanisme a été déposée dans les délais suivants à compter de la décision
-favorable :
+Le bénéficiaire est tenu de justifier au préfet que la déclaration d'achèvement
+des travaux prévue à l'article L. 462-1 du code de l'urbanisme a été déposée
+dans les délais suivants à compter de la décision favorable :
 
 Deux ans pour les opérations visées à l'article R. 331-48 ;
 

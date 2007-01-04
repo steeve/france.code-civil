@@ -6,12 +6,12 @@ que l'Etat a effectivement consacrés à l'indemnisation des préjudices nés de
 délivrance illégale des autorisations d'utilisation du sol pendant les quatre
 années précédant le 1er janvier 1984, déduction faite de la part de ces crédits
 qui correspond aux compétences et aux responsabilités conservées par l'Etat en
-application du dernier alinéa de l'article L. 421-2-1 du code de l'urbanisme.
-Elle est majorée forfaitairement de 25 % pour tenir compte, d'une part, des
-dépenses afférentes aux taxes sur les contrats d'assurance visés à l'article R.
-1614-52, d'autre part, des frais administratifs supportés par ces mêmes communes
-et établissements publics du fait de l'existence de contentieux. Cette somme
-évolue comme la dotation globale de fonctionnement.
+application de l'article L. 422-2 du code de l'urbanisme. Elle est majorée
+forfaitairement de 25 % pour tenir compte, d'une part, des dépenses afférentes
+aux taxes sur les contrats d'assurance visés à l'article R. 1614-52, d'autre
+part, des frais administratifs supportés par ces mêmes communes et
+établissements publics du fait de l'existence de contentieux. Cette somme évolue
+comme la dotation globale de fonctionnement.
 
 En 1984, la somme ainsi calculée :
 

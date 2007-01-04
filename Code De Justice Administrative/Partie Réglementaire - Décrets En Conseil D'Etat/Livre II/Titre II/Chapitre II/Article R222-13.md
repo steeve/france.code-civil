@@ -5,8 +5,8 @@ et ayant atteint au moins le grade de premier conseiller ou ayant une anciennet�
 minimale de deux ans statue en audience publique et après audition du
 commissaire du gouvernement :
 
-1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de
-construire ;
+1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L.
+421-4 du code de l'urbanisme ;
 
 2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou
 agents de l'Etat et des autres personnes ou collectivités publiques, ainsi que

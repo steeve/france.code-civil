@@ -12,8 +12,7 @@ opérations d'aménagement prévues au premier alinéa de l'article L. 321-1 du 
 de l'urbanisme ;
 
 b) Réaliser directement ou à titre de prestataire de services les opérations de
-restauration immobilière prévues par les articles L. 313-3 et L. 313-4 du code
-de l'urbanisme ;
+restauration immobilière prévues par l'article L. 313-4 du code de l'urbanisme ;
 
 2° Assurer, à titre de prestataire de services pour le compte de tous organismes
 d'habitations à loyer modéré ou d'emprunteur des sociétés de crédit immobilier,

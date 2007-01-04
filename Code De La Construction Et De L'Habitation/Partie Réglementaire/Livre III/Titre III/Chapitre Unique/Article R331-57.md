@@ -13,13 +13,13 @@ R. 331-49 à R. 331-52 ;
 des terrains en vue de l'aménagement de parcelles destinées à être
 ultérieurement cédées.
 
-Ces opérations d'aménagement doivent répondre aux conditions définies par les
-articles R. 315-1 ou R. 315-2, par. b, du code de l'urbanisme et être destinées
-à titre principal à l'implantation de logements réalisés par des personnes
-physiques dans les conditions fixées par le premier alinéa de l'article R.
-331-48 du présent code. En outre, pour bénéficier de ce préfinancement, les
-requérants doivent préalablement souscrire près du préfet du département un
-engagement portant sur :
+Ces opérations d'aménagement doivent répondre aux conditions définies par le a
+de l'article R. 421-19 et le b de l'article R. 442-1 du code de l'urbanisme et
+être destinées à titre principal à l'implantation de logements réalisés par des
+personnes physiques dans les conditions fixées par le premier alinéa de
+l'article R. 331-48 du présent code. En outre, pour bénéficier de ce
+préfinancement, les requérants doivent préalablement souscrire près du préfet du
+département un engagement portant sur :
 
 La définition des prestations à réaliser ;
 

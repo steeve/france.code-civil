@@ -26,8 +26,8 @@ l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 �
 L. 423-6 du présent code ;
 
 4° Réaliser directement ou à titre de prestataires de services, les opérations
-de restauration immobilière prévues aux articles L. 313-3 et L. 313-4 du code de
-l'urbanisme ;
+de restauration immobilière prévues à l'article L. 313-4 du code de l'urbanisme
+;
 
 5° Procéder, à titre de prestataires de services, et en vertu de conventions
 comportant des clauses types approuvées par arrêté du ministre chargé de la

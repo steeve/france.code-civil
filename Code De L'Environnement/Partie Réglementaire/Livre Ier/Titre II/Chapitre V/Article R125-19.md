@@ -7,5 +7,5 @@ l'intérieur, de l'environnement et du tourisme.
 
 Pour l'élaboration du cahier des prescriptions de sécurité, les services
 déconcentrés de l'Etat ainsi que les services départementaux d'incendie et de
-secours assistent, à sa demande, l'autorité compétente mentionnée au premier
-alinéa de l'article R. 443-7-4 du code de l'urbanisme.
+secours assistent, à sa demande, l'autorité compétente mentionnée aux articles
+L. 422-1 à L. 422-3 du code de l'urbanisme.

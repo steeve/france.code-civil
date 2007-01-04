@@ -5,10 +5,10 @@ décisions du directeur départemental de l'équipement ou, dans les conditions
 prévues à l'alinéa suivant, du maire.
 
 Lorsque le maire est compétent pour délivrer les permis de construire au nom de
-la commune, en application du premier alinéa de l'article L. 421-2-1, il peut se
-voir confier, sur sa demande ou avec son accord, par arrêté du préfet pris sur
-proposition du directeur départemental de l'équipement, la détermination de
-l'assiette et la liquidation de la redevance.
+la commune, en application du a de l'article L. 422-1, il peut se voir confier,
+sur sa demande ou avec son accord, par arrêté du préfet pris sur proposition du
+directeur départemental de l'équipement, la détermination de l'assiette et la
+liquidation de la redevance.
 
 Le directeur départemental de l'équipement et le maire peuvent déléguer leur
 signature aux agents placés sous leur autorité.

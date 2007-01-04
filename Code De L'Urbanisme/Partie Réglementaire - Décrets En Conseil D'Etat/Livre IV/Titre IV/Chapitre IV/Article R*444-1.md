@@ -1,5 +1,6 @@
 Article R*444-1
 ----
-Les dispositions du présent chapitre sont applicables dans toutes les communes,
-même si celles-ci sont dotées d'un plan local d'urbanisme rendu public ou
-approuvé ou d'un des documents d'urbanisme en tenant lieu.
+Un arrêté du ministre chargé de l'urbanisme fixe les modèles nationaux de
+demande de permis d'aménager, de déclaration préalable portant sur des projets
+d'aménagement, de déclaration d'ouverture de chantier, de décision et de
+déclaration d'achèvement des travaux.

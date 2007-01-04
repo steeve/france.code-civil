@@ -13,9 +13,9 @@ en considération ;
 
 2° Analyse l'état initial de l'environnement et les perspectives de son
 évolution en exposant, notamment, les caractéristiques des zones susceptibles
-d'être touchées de manière notable par la mise en oeuvre de la directive ;
+d'être touchées de manière notable par la mise en œuvre de la directive ;
 
-3° Analyse les incidences notables prévisibles de la mise en oeuvre de la
+3° Analyse les incidences notables prévisibles de la mise en œuvre de la
 directive sur l'environnement et expose les problèmes posés par son adoption sur
 la protection des zones revêtant une importance particulière pour
 l'environnement telles que celles désignées conformément aux articles R. 214-18
@@ -29,7 +29,7 @@ international, communautaire ou national et, s'il y a lieu, les raisons qui
 justifient le choix opéré au regard des autres solutions envisagées ;
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible,
-compenser, s'il y a lieu, les conséquences dommageables de la mise en oeuvre de
+compenser, s'il y a lieu, les conséquences dommageables de la mise en œuvre de
 la directive territoriale d'aménagement sur l'environnement et précise que la
 directive fera l'objet d'une analyse des résultats de son application au plus
 tard à l'expiration d'un délai de dix ans à compter de son approbation ;

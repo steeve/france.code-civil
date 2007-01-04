@@ -10,7 +10,7 @@ Si le terrain d'assiette n'est pas fourni à l'Etat, il prend les mesures
 nécessaires pour l'acquérir en recourant éventuellement à l'expropriation.
 
 Il délivre le permis de construire dans les conditions prévues par les articles
-L. 421-2-1, R. 421-33 (alinéa 2) et R. 421-36 du code de l'urbanisme.
+L. 422-2-2 et R. 422-2 du code de l'urbanisme.
 
 Il passe les marchés et souscrit l'assurance de dommages prévue par les articles
 L. 242-1 et suivants du code des assurances pour le compte de la collectivité

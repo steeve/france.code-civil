@@ -9,7 +9,7 @@ intercommunal, pris en considération ou approuvé, peuvent être déclarés ré
 par décret en Conseil d'Etat après enquête publique dans les formes fixée par le
 code de l'expropriation pour cause d'utilité publique.
 
-Les dispositions de l'article L. 123-9 du code de l'urbanisme sont dans ce cas
+Les dispositions du titre III du livre II du code de l'urbanisme sont alors
 applicables.
 
 La réserve des terrains peut être complétée par l'institution de servitudes
