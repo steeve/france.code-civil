@@ -1,24 +1,32 @@
 Article R641-37
 ----
-Les noix issues d'un opérateur dont la déclaration d'aptitude n'a pas été
-invalidée font l'objet périodiquement d'examens analytique et organoleptique
-organisés, sous la responsabilité de l'Institut national des appellations
-d'origine, par un organisme agréé par le Comité national des produits
-agro-alimentaires de l'Institut national des appellations d'origine après avis
-du syndicat ou du comité de défense de l'appellation.
+Pour les produits qui ne bénéficient pas de l'un des signes d'identification de
+la qualité et de l'origine énumérés au 1° de l'article L. 640-2, le dossier de
+demande d'autorisation comprend :
 
-L'examen analytique est effectué par des laboratoires agréés par
-l'administration sur proposition du Comité national des produits
-agro-alimentaires de l'Institut national des appellations d'origine.
+1° Le nom et le domicile du demandeur et, si le demandeur est une personne
+morale, son statut juridique et l'adresse de son siège social ;
 
-L'examen organoleptique est fait par une commission désignée par l'Institut
-national des appellations d'origine sur proposition du syndicat ou comité de
-défense de l'appellation.
+2° S'il y a lieu, le nom et l'adresse des professionnels intervenant dans les
+opérations de production, d'élevage, d'engraissement, d'abattage et de
+préparation, de fabrication, d'affinage et de conditionnement de la denrée
+alimentaire ou du produit agricole ;
 
-Les examens analytique et organoleptique peuvent donner lieu à un avertissement
-transmis à l'opérateur concerné, accompagné ou non d'une obligation de
-déclassement du lot en cause pour autant qu'il soit encore détenu par
-l'opérateur.
+3° Un cahier des charges précisant :
 
-Deux avertissements pour une même campagne donnent lieu à l'invalidation par
-l'Institut national des appellations d'origine de la déclaration d'aptitude.
+a) La dénomination et la description de la denrée alimentaire ou du produit
+agricole ;
+
+b) Les conditions d'obtention ou les techniques de fabrication de la denrée
+alimentaire ou du produit agricole ;
+
+c) L'aire géographique de production des matières premières ;
+
+d) Le lieu de fabrication et de conditionnement de la denrée alimentaire ;
+
+e) Les méthodes et moyens de contrôle prévus pour garantir l'origine de montagne
+du produit ou de la denrée et le respect des règles mentionnées au b, ainsi que
+les enregistrements prévus pour permettre aux services administratifs de
+vérifier la bonne exécution des contrôles ;
+
+f) S'il y a lieu, la référence du règlement technique national applicable.

@@ -1,11 +1,22 @@
 Article R641-3
 ----
-Après examen des dossiers des utilisateurs mentionnés à l'article R. 641-1 et en
-cas de reconnaissance de l'appellation d'origine contrôlée, le comité national
-compétent peut définir une période transitoire d'utilisation du nom de
-l'appellation pour désigner des produits similaires n'en bénéficiant pas.
+La demande de reconnaissance d'un label rouge est soumise à une procédure
+nationale d'opposition d'une durée de deux mois organisée par le directeur de
+l'Institut national de l'origine et de la qualité après avis du comité national
+compétent.
 
-La période transitoire mentionnée à l'alinéa précédent est définie dans le
-décret de reconnaissance de l'appellation, sur proposition de l'Institut
-national des appellations d'origine, conformément aux dispositions de l'article
-L. 641-2.
+L'annonce de l'ouverture de cette procédure, de son objet et de son terme est
+publiée au Journal officiel de la République française. Elle indique également
+l'adresse de l'Institut national de l'origine et de la qualité ainsi que celle
+du site internet de cet établissement où le projet de cahier des charges peut
+être consulté.
+
+Les oppositions motivées sont adressées par écrit à l'Institut national de
+l'origine et de la qualité dans le délai de deux mois prévu pour la
+consultation. Elles sont notifiées par l'institut au demandeur qui dispose d'un
+délai de deux mois pour y répondre. La réponse est portée par l'institut à la
+connaissance de l'opposant qui dispose d'un délai de quinze jours pour formuler
+d'autres observations.
+
+L'Institut national de l'origine et de la qualité notifie aux auteurs des
+oppositions les suites qui y ont été données.

@@ -1,8 +1,6 @@
 Article R641-11
 ----
-Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de
-l'économie, pris sur proposition du Comité national des produits laitiers, fixe
-les règles de procédure applicables à l'enregistrement et à l'invalidation de la
-"déclaration d'aptitude AOC", ainsi qu'aux modalités des examens analytique et
-organoleptique et aux sanctions relatives au non-respect des dispositions du
-présent paragraphe.
+Toute demande tendant à la reconnaissance d'une appellation d'origine, d'une
+indication géographique protégée ou d'une spécialité traditionnelle garantie par
+homologation d'un cahier des charges est déposée auprès de l'Institut national
+de l'origine et de la qualité.

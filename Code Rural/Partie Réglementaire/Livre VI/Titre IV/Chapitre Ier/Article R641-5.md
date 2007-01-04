@@ -1,6 +1,9 @@
 Article R641-5
 ----
-Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de
-la consommation, pris sur proposition du conseil permanent de l'Institut
-national des appellations d'origine, fixe, en tant que de besoin, les modalités
-d'application de la présente sous-section.
+Lorsque l'Institut national de l'origine et de la qualité estime qu'un produit
+ne remplit pas les conditions prévues par l'article L. 641-1 pour bénéficier
+d'un label rouge ou que la modification du cahier des charges d'un produit
+bénéficiant de ce signe n'est pas justifiée, il notifie au demandeur, et le cas
+échéant aux opposants, son refus de proposer la reconnaissance à ce produit du
+bénéfice du label ou d'approuver la modification du cahier des charges du
+produit.

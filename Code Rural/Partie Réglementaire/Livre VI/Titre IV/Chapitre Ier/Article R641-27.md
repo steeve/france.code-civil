@@ -1,7 +1,11 @@
 Article R641-27
 ----
-Un arrêté conjoint des ministres chargés de l'économie et de l'agriculture, pris
-sur proposition du Comité national des produits agro-alimentaires de l'Institut
-national des appellations d'origine, fixe, en tant que de besoin, les règles
-relatives aux déclarations prévues aux articles R. 641-19 à R. 641-22 et les
-modalités d'organisation des examens analytique et organoleptique.
+Le dossier de la demande comprend :
+
+1° La désignation précise du produit ;
+
+2° Un projet de cahier des charges définissant les critères minimaux de
+production, de préparation et de mise sur le marché et indiquant les méthodes et
+les exigences minimales de contrôle ;
+
+3° Une fiche de synthèse de ce dossier.

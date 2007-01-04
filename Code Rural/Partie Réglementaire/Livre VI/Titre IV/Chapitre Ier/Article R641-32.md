@@ -1,12 +1,13 @@
 Article R641-32
 ----
-Les entreprises (coopératives ou négociants) achetant aux exploitations
-mentionnées aux articles R. 641-28 et R. 641-29 et qui commercialisent des
-produits bénéficiant d'une appellation d'origine contrôlée doivent tenir à jour
-un registre d'entrées. Ce registre doit permettre d'identifier ces
-exploitations, les références du bon d'enlèvement et les quantités achetées par
-type de produits : noix fraîches, noix sèches et cerneaux.
-
-Ces mêmes entreprises doivent également tenir à jour un registre de sorties. Ce
-registre doit permettre d'identifier les acheteurs, les quantités vendues par
-type de produits : noix fraîches, noix sèches et cerneaux.
+Pour l'application aux produits originaires de France de la procédure
+d'autorisation prévue à l'article L. 641-14, l'aire géographique de toutes les
+opérations de production, d'élevage, d'engraissement, d'abattage et de
+préparation, de fabrication, d'affinage et de conditionnement des denrées
+alimentaires autres que les vins, et des produits agricoles non alimentaires et
+non transformés utilisant la dénomination " montagne ", de même que la
+provenance des matières premières entrant dans l'alimentation des animaux ou
+dans la fabrication de ces denrées et produits, doit être située dans une zone
+de montagne en France répondant aux critères définis aux articles 3 et 4 de la
+loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de
+la montagne.

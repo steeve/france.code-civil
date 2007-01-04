@@ -1,8 +1,9 @@
 Article R641-31
 ----
-Les exploitations mentionnées à l'article R. 641-28 qui conditionnent et
-commercialisent des produits bénéficiant d'une appellation d'origine contrôlée
-et dénommées "producteurs expéditeurs" doivent tenir à jour un registre
-d'entrées et sorties de leur produit. Ce registre doit permettre d'identifier
-les acheteurs, les quantités vendues par type de produits : noix fraîches, noix
-sèches et cerneaux.
+Le logo correspondant à la marque "AB" déposée par le ministère de l'agriculture
+peut être apposé sur tout produit auquel le bénéfice de la mention "Agriculture
+biologique" a été reconnu.
+
+L'Institut national de l'origine et de la qualité assure la protection de cette
+marque et l'Agence française pour le développement et la promotion de
+l'agriculture biologique en assure la gestion.

@@ -1,22 +1,20 @@
 Article R641-38
 ----
-L'invalidation de la déclaration d'aptitude se traduit par une incapacité à
-commercialiser les noix sous le nom de l'appellation d'origine contrôlée
-considérée.
+Pour les produits qui bénéficient de l'un des signes d'identification de la
+qualité et de l'origine énumérés au 1° de l'article L. 640-2, le dossier de
+demande d'autorisation comprend :
 
-La décision motivée d'invalidation, de levée d'invalidation ou de confirmation
-d'invalidation de la déclaration d'aptitude, prise par l'Institut national des
-appellations d'origine, est notifiée à l'opérateur concerné dans un délai qui ne
-peut excéder trois jours à compter de la date de ladite décision, ainsi qu'au
-syndicat ou comité de défense de l'appellation considérée.
+1° La dénomination de la denrée alimentaire ou du produit agricole ;
 
-L'invalidation prend effet le lendemain de la réception par l'opérateur de la
-notification.
+2° Le cahier des charges homologué de cette denrée ou de ce produit ;
 
-Afin de retrouver la capacité d'utiliser ou de commercialiser sa production sous
-le nom de l'appellation d'origine contrôlée considérée, l'opérateur concerné
-effectue une nouvelle déclaration d'aptitude et doit, selon le cas, apporter la
-preuve auprès de l'Institut national des appellations d'origine que toutes les
-conditions de production de l'appellation d'origine contrôlée considérée sont à
-nouveau remplies ou obtenir une décision favorable à l'occasion des examens
-analytique et organoleptique.
+3° Le nom et l'adresse des professionnels intervenant dans les opérations de
+production, d'élevage, d'engraissement, d'abattage et de préparation, de
+fabrication, d'affinage et de conditionnement de la denrée ou du produit ;
+
+4° Pour les appellations d'origine, la proposition de l'organe délibérant de
+l'organisme de défense et de gestion mentionnée à l'article L. 641-16 ;
+
+5° Les méthodes et moyens de contrôle prévus pour garantir l'origine de montagne
+de la denrée ou du produit ainsi que les enregistrements prévus pour permettre
+aux services administratifs de vérifier la bonne exécution des contrôles.

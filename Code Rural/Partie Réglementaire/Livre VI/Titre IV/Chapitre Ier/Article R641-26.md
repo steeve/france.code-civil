@@ -1,9 +1,5 @@
 Article R641-26
 ----
-L'examen analytique est effectué par des laboratoires agréés par
-l'administration, sur proposition du comité national des produits
-agroalimentaires de l'Institut national des appellations d'origine.
-
-L'examen organoleptique est réalisé par une commission désignée par le Comité
-national des produits agroalimentaires précité, sur proposition du syndicat de
-défense de l'appellation d'origine contrôlée considérée.
+Toute demande tendant à la reconnaissance du bénéfice de la mention "Agriculture
+biologique" par homologation d'un cahier des charges est déposée auprès de
+l'Institut national de l'origine et de la qualité.
