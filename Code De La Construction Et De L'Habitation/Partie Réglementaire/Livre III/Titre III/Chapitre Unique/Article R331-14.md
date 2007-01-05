@@ -19,13 +19,13 @@ modéré ;
 2° Des sociétés d'économie mixte ayant pour objet statutaire la réalisation de
 logements ;
 
-3° Pour les logements mentionnés au II de l'article R. 331-1, des collectivités
-territoriales ou leurs groupements et des organismes dont l'un des objets est de
-contribuer au logement des personnes défavorisées et agréés à cette fin par le
-représentant de l'Etat dans le département ;
+3° Des collectivités territoriales ou leurs groupements, sauf pour les
+opérations de construction que l'un des organismes mentionnés au 1° et 2° du
+présent article est en mesure de réaliser sur leur territoire, dès lors que ces
+collectivités ou groupements n'ont pas conclu les conventions prévues aux
+articles L. 301-5-1 et L. 301-5-2 ;
 
-4° Aux collectivités locales ou leurs groupements pour la réalisation des
-opérations mentionnées aux 3°, 4°, 6°, 7°, 8° et, à l'exclusion des opérations
-de construction, aux 5° et 9° du I de l'article R. 331-1, éligibles aux
-dispositions prévues aux 2° et 3° de l'article R. 331-15 et dont les logements
-sont attribués dans les conditions du deuxième alinéa de l'article R. 331-12.
+4° Des organismes dont l'un des objets est de contribuer au logement des
+personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans
+le département, sous réserve que les opérations réalisées comprennent
+majoritairement des logements mentionnés au II de l'article R. 331-1.
