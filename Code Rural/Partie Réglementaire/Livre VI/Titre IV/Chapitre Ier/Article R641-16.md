@@ -1,6 +1,6 @@
 Article R641-16
 ----
-Afin de retrouver la capacité de commercialiser sous le nom de l'appellation
-d'origine contrôlée, l'opérateur concerné doit apporter la preuve que les
-conditions de production de l'appellation d'origine contrôlée sont à nouveau
-remplies.
+A l'intérieur de l'aire géographique délimitée par le décret prononçant la
+reconnaissance du bénéfice d'une appellation d'origine, des zones affectées à
+l'une des phases de la production ou de l'élaboration ou de la transformation du
+produit peuvent être définies.

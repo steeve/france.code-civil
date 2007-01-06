@@ -1,11 +1,9 @@
 Article R641-25
 ----
-Sans préjudice des dispositions du règlement communautaire n° 2568-91 du 11
-juillet 1991 relatif aux caractéristiques des huiles d'olive et des huiles de
-grignon d'olive ainsi qu'aux méthodes y afférentes, les produits revendiqués en
-appellation d'origine contrôlée doivent faire l'objet d'examens analytique et
-organoleptique. Ceux-ci sont organisés, sous la responsabilité de l'Institut
-national des appellations d'origine, par un organisme agréé par le comité
-national des produits agro-alimentaires de l'Institut national des appellations
-d'origine, sur avis du syndicat de défense de l'appellation d'origine contrôlée
-considérée.
+Le ministre de l'agriculture et le ministre chargé de la consommation déclarent,
+le cas échéant, à la Commission européenne leur opposition à la demande
+d'enregistrement ou de modification du cahier des charges dans le délai de six
+mois suivant la publication au Journal officiel prévue par l'article R. 641-22.
+
+S'ils ne reprennent pas à leur compte une opposition, ils en informent, par
+décision motivée, les personnes qui l'ont formulée.
