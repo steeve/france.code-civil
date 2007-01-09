@@ -13,8 +13,13 @@ propositions d'ajustement de l'état des prévisions de recettes et de dépenses
 Le conseil d'administration examine cet état comparatif et délibère, le cas
 échéant, sur les mesures de redressement proposées. L'état comparatif et la
 délibération sont transmis au directeur de l'agence régionale de
-l'hospitalisation.
+l'hospitalisation. L'état comparatif relatif au premier quadrimestre est
+transmis dans les deux mois qui suivent la fin du quadrimestre. L'état
+comparatif relatif au second quadrimestre est communiqué en même temps que la
+délibération portant sur le rapport préliminaire. L'état relatif au dernier
+quadrimestre est transmis avant le 15 mars de l'exercice suivant.
 
-Lorsque ce dernier constate l'absence ou l'insuffisance des mesures de
-redressement, il peut, en application de l'article L. 6143-3, demander au
-conseil d'administration de présenter un plan de redressement.
+Lorsque le directeur de l'agence régionale d'hospitalisation constate l'absence
+ou l'insuffisance des mesures de redressement, il peut, en application de
+l'article L. 6143-3, demander au conseil d'administration de présenter un plan
+de redressement.

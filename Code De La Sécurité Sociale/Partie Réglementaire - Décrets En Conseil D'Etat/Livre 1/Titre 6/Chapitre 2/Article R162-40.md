@@ -12,4 +12,4 @@ Le comité régional concourt à l'application, au niveau régional, du contrat
 national tripartite et du contrat type qui y est annexé. Il peut être saisi pour
 avis par l'agence régionale de l'hospitalisation ou par un établissement de
 santé privé au sujet de l'application des contrats mentionnés à l'article L.
-710-16-2 du code de la santé publique.
+6114-1 du code de la santé publique.

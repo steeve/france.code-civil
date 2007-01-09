@@ -1,7 +1,7 @@
 Article R6146-63
 ----
 L'autorisation de création ou d'extension des structures d'hospitalisation
-mentionnées à l'article R. 6146-5 peut être accordée ou renouvelée pour une
+mentionnées à l'article R. 6146-62 peut être accordée ou renouvelée pour une
 durée de cinq ans par le directeur de l'agence régionale de l'hospitalisation,
 après avis du comité régional d'organisation sanitaire :
 

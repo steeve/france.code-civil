@@ -4,7 +4,7 @@ Les centres hospitaliers autres que les centres hospitaliers régionaux peuvent
 être autorisés, dans les conditions prévues à l'article L. 6146-10 et à la
 présente section, à créer dans les disciplines énumérées à l'article R. 6122-25,
 des structures d'hospitalisation médicales permettant aux médecins et
-sages-femmes répondant aux conditions fixées à l'article R. 6146-11 de
+sages-femmes répondant aux conditions fixées à l'article R. 6146-68 de
 dispenser, à titre libéral, dans ces structures, des soins à leurs patients dont
 l'état requiert une hospitalisation avec ou sans hébergement.
 

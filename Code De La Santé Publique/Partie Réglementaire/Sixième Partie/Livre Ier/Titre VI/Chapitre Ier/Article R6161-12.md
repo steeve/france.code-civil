@@ -4,16 +4,15 @@ Pour la détermination des tarifs de prestations mentionnés à l'article R.
 6145-21, l'établissement tient compte exclusivement :
 
 1° Des rémunérations des personnels telles qu'elles résultent des dispositions
-de la convention collective ou de l'accord d'établissement ayant reçu l'agrément
-prévu à l'article L. 314-6 du code de l'action sociale et des familles.
+de la convention collective ayant reçu l'agrément prévu à l'article L. 314-6 du
+code de l'action sociale et des familles.
 
-Lorsque l'établissement n'applique pas de convention collective ou d'accord
-d'établissement agréés, les rémunérations de ces personnels ne sont prises en
-compte que dans la limite de celles applicables aux catégories similaires des
-personnels des établissements publics de santé possédant les mêmes
-qualifications et la même ancienneté, sous réserve des dispositions
-réglementaires spécifiques applicables à certaines catégories de personnel
-médical des établissements de santé privés.
+Lorsque l'établissement n'applique pas de convention collective agréée, les
+rémunérations de ces personnels ne sont prises en compte que dans la limite de
+celles applicables aux catégories similaires des personnels des établissements
+publics de santé possédant les mêmes qualifications et la même ancienneté, sous
+réserve des dispositions réglementaires spécifiques applicables à certaines
+catégories de personnel médical des établissements de santé privés.
 
 La rémunération représentative de l'activité médicale des praticiens mentionnée
 à la seconde phrase de l'article R. 6161-5 constitue une charge d'exploitation.
