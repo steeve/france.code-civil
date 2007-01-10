@@ -1,16 +1,14 @@
 Article R1321-12
 ----
-Les hydrogéologues doivent obtenir un agrément en matière d'hygiène publique du
-préfet de région pour émettre des avis dans le cadre des procédures prévues aux
-articles R. 1321-6, R. 1321-7 et R. 1321-11. Un arrêté du ministre chargé de la
-santé fixe les modalités d'agrément et de désignation des hydrogéologues agréés
-en matière d'hygiène publique et des coordonnateurs départementaux.
+Le préfet peut prendre, à son initiative ou à la demande du titulaire de
+l'autorisation et conformément à la procédure prévue au I de l'article R.
+1321-7, un arrêté modificatif de l'arrêté d'autorisation, s'il estime que le
+maintien de certaines dispositions n'est plus justifié ou que des prescriptions
+complémentaires s'imposent afin d'assurer la sécurité sanitaire de l'eau
+distribuée.
 
-Le silence gardé par le préfet de région pendant plus de quatre mois sur la
-demande d'agrément vaut décision de rejet.
-
-Les frais supportés pour indemniser les hydrogéologues sont à la charge du
-demandeur de l'autorisation prévue aux articles R. 1321-6 et R. 1321-7. Un
-arrêté des ministres chargés des collectivités territoriales, de la
-consommation, de l'économie et des finances et de la santé fixe les conditions
-de rémunération des hydrogéologues et des coordonnateurs départementaux agréés.
+Avant de prendre son arrêté, le préfet peut prescrire au titulaire de
+l'autorisation, par une décision motivée, la fourniture ou la mise à jour des
+éléments contenus dans le dossier de la demande d'autorisation et la production
+de bilans de fonctionnement supplémentaires. Ces mesures sont à la charge du
+titulaire de l'autorisation.

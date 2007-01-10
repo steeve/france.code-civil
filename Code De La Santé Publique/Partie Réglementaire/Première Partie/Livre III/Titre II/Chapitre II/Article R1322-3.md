@@ -1,32 +1,26 @@
 Article R1322-3
 ----
-Les travaux terminés et après un nouveau constat de l'état des lieux par le
-directeur régional de l'industrie, de la recherche et de l'environnement ou son
-délégué, il est procédé :
+Une eau minérale naturelle ne doit pas contenir un nombre ou une concentration
+de micro-organismes, de parasites ou de toute autre substance constituant un
+danger pour la santé publique.
 
-1° Par le directeur régional de l'industrie, de la recherche et de
-l'environnement ou son délégué à la définition du régime qu'il propose pour
-l'exploitation de la source et, sous ce régime, à la mesure de son débit en eau
-et en gaz, de sa température d'émergence, de sa résistivité ;
+Elle répond en outre à des critères de qualité microbiologiques et
+physico-chimiques, définis par arrêté du ministre chargé de la santé et, s'il
+s'agit d'une eau conditionnée, par arrêté conjoint des ministres chargés de la
+consommation et de la santé.
 
-2° En présence du directeur régional de l'industrie, de la recherche et de
-l'environnement ou de son délégué, par un laboratoire agréé par le ministre
-chargé de la santé, pour le contrôle des eaux minérales naturelles :
+Les constituants physico-chimiques faisant l'objet d'une limite réglementaire de
+concentration sont naturellement présents dans l'eau minérale naturelle et ne
+résultent ni d'une contamination de la source ni d'un traitement.
 
-a) A la prise d'échantillons destinés, d'une part, à l'analyse chimique de l'eau
-et, s'il y a lieu, du gaz, et, d'autre part, à l'analyse bactériologique ;
+Les exigences indiquées ci-dessus sont respectées aux points de conformité
+suivants :
 
-b) Au dosage sur place des divers éléments dont la teneur dans l'eau est
-susceptible de varier dans les échantillons après le prélèvement ;
+1° A l'émergence, pour tous les paramètres de qualité des eaux, en tenant compte
+de la mise en oeuvre ultérieure d'un traitement autorisé ;
 
-c) S'il y a lieu, à une détermination de la radioactivité ;
+2° Et, selon les cas, au point où les eaux sont conditionnées, aux points
+d'utilisation thermale ou aux points de distribution en buvette publique.
 
-3° Par le laboratoire qui a procédé aux prélèvements :
-
-a) A une analyse faisant connaître la composition chimique de l'eau, ainsi que
-la composition des gaz dissous ou dégagés ;
-
-b) A une analyse bactériologique.
-
-Les opérations définies aux 1° et 2° sont réalisées autant que possible le même
-jour.
+Au cours de sa commercialisation, l'eau minérale naturelle conditionnée répond
+aux critères de qualité définis ci-dessus.

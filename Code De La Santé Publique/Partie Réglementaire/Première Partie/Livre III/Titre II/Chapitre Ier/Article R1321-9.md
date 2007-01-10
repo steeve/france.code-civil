@@ -1,18 +1,36 @@
 Article R1321-9
 ----
-Lorsque les travaux de prélèvement sont soumis à déclaration en application de
-l'article L. 214-1 du code de l'environnement, la demande d'autorisation déposée
-en application de l'article R. 1321-6 tient lieu de cette déclaration.
+A titre exceptionnel, une autorisation temporaire d'utilisation d'eau en vue de
+la consommation humaine peut être accordée par le préfet lorsque :
 
-Dans ce cas, le dossier de demande d'autorisation est complété conformément aux
-dispositions de l'article 29 du décret du 29 mars 1993 relatif aux procédures
-d'autorisation et de déclaration prévues à l'article 10 de la loi n° 92-3 du 3
-janvier 1992.
+1° Une restriction dans l'utilisation ou une interruption de la distribution est
+imminente ou effective, du fait de perturbations majeures liées à des
+circonstances climatiques exceptionnelles ou à une pollution accidentelle de la
+ressource ;
 
-En cas d'absence de déclaration d'utilité publique, le silence gardé pendant
-plus de huit mois ou, dans les cas prévus à l'article R. 1321-11, pendant plus
-de dix mois sur la demande d'autorisation vaut décision de rejet.
+2° L'utilisation de l'eau ne constitue pas un danger pour la santé des
+personnes.
 
-En cas de déclaration d'utilité publique, le silence gardé pendant plus de seize
-mois ou, dans les cas prévus à l'article R. 1321-11, pendant plus de dix-huit
-mois sur la demande d'autorisation vaut décision de rejet.
+Le dossier de la demande d'autorisation temporaire comprend les éléments
+mentionnés aux 1°, 2°, 6°, 7° et 8° de l'article R. 1321-6, ainsi que des
+éléments d'appréciation sur les caractéristiques géologiques et hydrogéologiques
+du secteur aquifère ou du bassin versant concerné, sur la vulnérabilité de la
+ressource et sur les mesures de protection à mettre en place. Son contenu est
+précisé par un arrêté du ministre chargé de la santé.
+
+S'il l'estime nécessaire, le préfet demande l'avis d'un hydrogéologue agréé en
+matière d'hygiène publique dans les conditions prévues à l'article R. 1321-14 et
+consulte le conseil départemental de l'environnement et des risques sanitaires
+et technologiques. Dans tous les cas, le préfet informe le conseil départemental
+des mesures mises en oeuvre.
+
+L'arrêté préfectoral d'autorisation temporaire fixe notamment les modalités de
+suivi de la qualité des eaux, la date de fin de l'autorisation et le délai
+maximal de mise en place des moyens de sécurisation de l'alimentation en eau
+destinée à la consommation humaine. Il peut restreindre l'utilisation de l'eau
+pour des usages spécifiques, dont le titulaire de l'autorisation informe la
+population concernée.
+
+L'autorisation ne peut pas excéder six mois et est renouvelable une fois.
+
+Les dispositions du présent article ne s'appliquent pas aux eaux conditionnées.

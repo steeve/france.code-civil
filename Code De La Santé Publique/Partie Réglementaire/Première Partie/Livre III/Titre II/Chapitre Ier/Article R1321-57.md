@@ -1,12 +1,16 @@
 Article R1321-57
 ----
-La hauteur piézométrique de l'eau distribuée par les réseaux intérieurs
-concernés par la présente sous-section doit, en tout point de mise à
-disposition, être au moins égale à trois mètres, à l'heure de pointe de
-consommation. Cette hauteur piézométrique est exigible pour tous les réseaux ;
-lorsque ceux-ci desservent des immeubles de plus de six étages, des surpresseurs
-et des réservoirs de mise sous pression, conformes aux dispositions de l'article
-R. 1321-49, peuvent être mis en oeuvre.
+Les réseaux intérieurs mentionnés au 3° de l'article R. 1321-43 ne peuvent pas,
+sauf dérogation du préfet, être alimentés par une eau issue d'une ressource qui
+n'a pas été autorisée en application de l'article L. 1321-7. Ils ne doivent pas
+pouvoir, du fait des conditions de leur utilisation, notamment à l'occasion de
+phénomènes de retour d'eau, perturber le fonctionnement du réseau auquel ils
+sont raccordés ou engendrer une contamination de l'eau distribuée dans les
+installations privées de distribution.
 
-Les dispositions du présent article ne sont pas applicables aux installations de
-distribution existant avant le 7 avril 1995.
+Un arrêté des ministres chargés de la santé et de la construction, pris après
+avis de l'Agence française de sécurité sanitaire des aliments, définit les cas
+où il y a lieu de mettre en place des dispositifs de protection et les
+prescriptions techniques applicables à ces dispositifs. Il appartient aux
+propriétaires des installations de mettre en place et d'entretenir ces
+dispositifs.

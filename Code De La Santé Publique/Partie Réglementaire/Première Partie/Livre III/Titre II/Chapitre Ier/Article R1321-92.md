@@ -1,13 +1,13 @@
 Article R1321-92
 ----
-Les eaux rendues potables par traitements, préemballées, sont détenues en vue de
-la vente, mises en vente, vendues ou distribuées à titre gratuit, sous l'une des
-dénominations de vente suivantes :
+Les eaux rendues potables par traitements, conditionnées, sont détenues en vue
+de la vente, mises en vente, vendues ou distribuées à titre gratuit, sous l'une
+des dénominations de vente suivantes :
 
 1° " Eau rendue potable par traitements " ;
 
 2° " Eau rendue potable par traitements et avec adjonction de gaz carbonique "
-qui désigne toute eau rendue potable par traitements, préemballée, qui a été
+qui désigne toute eau rendue potable par traitements, conditionnée, qui a été
 rendue effervescente par addition de gaz carbonique.
 
 Cette dénomination doit être complétée par l'indication des traitements mis en

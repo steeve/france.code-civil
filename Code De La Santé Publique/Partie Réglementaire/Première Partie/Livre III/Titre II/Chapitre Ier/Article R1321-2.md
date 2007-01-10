@@ -7,7 +7,6 @@ prévues à la présente section :
 parasites ou de toutes autres substances constituant un danger potentiel pour la
 santé des personnes ;
 
-- être conformes aux limites de qualité définies au I de l'annexe 13-1.
-Toutefois, pour les eaux de source préemballées, ces limites de qualité sont les
-paramètres microbiologiques fixés à l'article R. 1321-86 et au III de l'annexe
-13-4.
+- être conformes aux limites de qualité, portant sur des paramètres
+microbiologiques et chimiques, définies par arrêté du ministre chargé de la
+santé.

@@ -1,7 +1,8 @@
 Article R1321-39
 ----
-Ces eaux sont regardées comme conformes aux limites de qualité fixées par le III
-de l'annexe 13-1 lorsque sont respectées les règles suivantes :
+Ces eaux sont regardées comme conformes aux limites de qualité fixées par
+l'arrêté mentionné au premier alinéa de l'article R. 1321-38 lorsque sont
+respectées les règles suivantes :
 
 1° Les échantillons d'eau sont prélevés, avant traitement, à intervalles
 réguliers en un même lieu ;
@@ -21,7 +22,7 @@ b) Il ne peut en découler aucun danger pour la santé publique ;
 c) Des échantillons consécutifs d'eau prélevés à une fréquence statistiquement
 appropriée ne s'écartent pas des valeurs qui s'y rapportent.
 
-Les dépassements de valeurs limites impératives et des valeurs guides fixées au
-III de l'annexe 13-1 ne sont pas pris en compte lorsqu'ils résultent
-d'inondations, de catastrophes naturelles ou de circonstances météorologiques
-exceptionnelles.
+Les dépassements de valeurs limites impératives et des valeurs guides fixées par
+l'arrêté mentionné au premier alinéa de l'article R. 1321-38 ne sont pas pris en
+compte lorsqu'ils résultent d'inondations, de catastrophes naturelles ou de
+circonstances météorologiques exceptionnelles.

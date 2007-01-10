@@ -6,8 +6,8 @@ définies ci-après :
 1° Toutes les eaux qui, soit en l'état, soit après traitement, sont destinées à
 la boisson, à la cuisson, à la préparation d'aliments ou à d'autres usages
 domestiques, qu'elles soient fournies par un réseau de distribution, à partir
-d'un camion-citerne ou d'un bateau-citerne, en bouteilles ou en conteneurs, y
-compris les eaux de source ;
+d'une citerne, d'un camion-citerne ou d'un bateau-citerne, en bouteilles ou en
+conteneurs, y compris les eaux de source ;
 
 2° Toutes les eaux utilisées dans les entreprises alimentaires pour la
 fabrication, la transformation, la conservation ou la commercialisation de

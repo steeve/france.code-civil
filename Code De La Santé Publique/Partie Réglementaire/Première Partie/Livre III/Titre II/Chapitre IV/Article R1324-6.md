@@ -1,5 +1,5 @@
 Article R1324-6
 ----
-Le fait de procéder à l'embouteillage d'une eau minérale naturelle pour la
-livrer au public sans autorisation du ministre chargé de la santé est puni de
-l'amende prévue pour les contraventions de la quatrième classe.
+Le fait de mettre de l'eau à la disposition du public sans disposer de l'accord
+du préfet prévu à l'article R. 1321-10 ou à l'article R. 1322-9 est puni de
+l'amende prévue pour les contraventions de la 5e classe.

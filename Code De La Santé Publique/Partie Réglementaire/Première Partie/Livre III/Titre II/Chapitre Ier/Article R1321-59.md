@@ -1,11 +1,13 @@
 Article R1321-59
 ----
-L'entretien des réservoirs et des bâches de stockage doit être réalisé et
-vérifié aussi souvent que nécessaire et au moins une fois par an.
+L'utilisation des canalisations intérieures d'eau pour la mise à la terre des
+appareils électriques est interdite.
 
-Les dispositifs de protection et de traitement mentionnés aux articles R.
-1321-54 à R. 1321-56 équipant les installations collectives de distribution
-doivent être vérifiés et entretenus au moins tous les six mois. Un arrêté des
-ministres chargés de la santé et de la construction, pris après avis de l'Agence
-française de sécurité sanitaire des aliments, définit les modalités de cette
-vérification et de cet entretien.
+Toutefois, pour les installations de distribution existant avant le 22 décembre
+2001 et lorsqu'il n'existe pas de dispositif de mise à la terre, cette
+interdiction peut, à titre dérogatoire, ne pas être appliquée à condition que la
+sécurité des usagers et des personnels d'exploitation des installations de
+distribution d'eau soit assurée.
+
+Un arrêté des ministres chargés de la construction et de la santé définit les
+modalités d'application du présent article.

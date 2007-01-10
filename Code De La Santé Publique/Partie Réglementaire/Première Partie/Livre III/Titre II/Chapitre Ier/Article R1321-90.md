@@ -12,5 +12,5 @@ particuliers relatifs à la composition de l'eau.
 
 Toutefois, la mention du caractère approprié d'une eau de source pour
 l'alimentation des nourrissons est autorisée dans les mêmes conditions que
-celles prévues aux articles R. 1321-79 et R. 1321-80 pour les eaux minérales
-naturelles.
+celles prévues aux articles R. 1322-44-12 et R. 1322-44-13 pour les eaux
+minérales naturelles.

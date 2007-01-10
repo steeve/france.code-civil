@@ -1,28 +1,35 @@
 Article R1321-55
 ----
-Les réseaux intérieurs mentionnés au 3° de l'article R. 1321-43 peuvent
-comporter un dispositif de traitement complémentaire de la qualité de l'eau qui
-:
+Les installations de distribution d'eau mentionnées à l'article R. 1321-43
+doivent être conçues, réalisées et entretenues de manière à empêcher
+l'introduction ou l'accumulation de micro-organismes, de parasites ou de
+substances constituant un danger potentiel pour la santé des personnes ou
+susceptibles d'être à l'origine d'une dégradation de la qualité de l'eau
+destinée à la consommation humaine distribuée, telle qu'il ne soit plus
+satisfait aux exigences fixées aux articles R. 1321-2 et R. 1321-3.
 
-1° Dans le cas d'installations collectives, ne concerne qu'une partie des eaux
-livrées dans les immeubles desservis, de telle sorte que le consommateur final
-puisse disposer d'une eau froide non soumise à ce traitement complémentaire ;
+A l'issue du traitement, l'eau distribuée ne doit pas être agressive, corrosive
+ou gêner la désinfection.
 
-2° Utilise des produits et des procédés de traitement bénéficiant d'une
-autorisation du ministre chargé de la santé, prise après avis de l'Agence
-française de sécurité sanitaire des aliments. Le silence gardé pendant plus de
-six mois sur une demande d'autorisation d'utilisation vaut décision de rejet.
+Ces installations doivent, dans les conditions normales d'entretien, assurer en
+tout point la circulation de l'eau. Elles doivent pouvoir être entièrement
+nettoyées, rincées, vidangées et désinfectées.
 
-Les conditions d'autorisation d'utilisation des produits et les procédés de
-traitement complémentaire de l'eau destinée à la consommation humaine mentionnés
-à l'alinéa précédent sont précisés par un arrêté du ministre chargé de la santé,
-pris après avis de l'Agence française de sécurité sanitaire des aliments.
+Les parties de réseau de distribution d'eau réservées à un autre usage que la
+consommation humaine doivent être distinguées de celles déterminées par la
+présente section au moyen de signes particuliers. Sur tout point de puisage
+accessible au public et délivrant une eau réservée à un autre usage que la
+consommation humaine, une information doit être apposée afin de signaler le
+danger encouru.
 
-Les prescriptions techniques applicables aux dispositifs de traitement ainsi que
-les obligations minimales à respecter en matière d'information des consommateurs
-sont définies par arrêté des ministres chargés de la consommation, de la
-construction, de l'industrie et de la santé, pris après avis de l'Agence
-française de sécurité sanitaire des aliments.
+Des arrêtés des ministres chargés de la santé et de la construction, pris après
+avis de l'Agence française de sécurité sanitaire des aliments, définissent :
 
-A l'issue du traitement, l'eau ne doit pas être agressive, corrosive ni gêner la
-désinfection.
+1° Les modalités techniques d'application des dispositions du présent article
+ainsi que les délais éventuellement nécessaires pour mettre en conformité les
+installations existantes ;
+
+2° Les règles d'hygiène particulières, applicables aux puits, aux fontaines et
+aux sources accessibles au public, ainsi que celles concernant les citernes et
+bâches utilisées temporairement pour mettre à disposition des usagers des eaux
+destinées à la consommation humaine.

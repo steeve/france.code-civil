@@ -1,11 +1,13 @@
 Article R1321-58
 ----
-L'utilisation des canalisations intérieures d'eau pour la mise à la terre des
-appareils électriques est interdite. Pour les installations de distribution
-existant avant la date du 22 décembre 2001 et lorsqu'il n'existe pas de
-dispositif de mise à la terre, cette mesure peut, à titre dérogatoire, ne pas
-être appliquée à condition que la sécurité des usagers et des personnels
-d'exploitation des installations de distribution d'eau soit assurée. Un arrêté
-des ministres chargés de la construction et de la santé, pris après avis de
-l'Agence française de sécurité sanitaire des aliments, définit les modalités
-d'application du présent article.
+La hauteur piézométrique de l'eau distribuée par les réseaux intérieurs
+mentionnés au 3° de l'article R. 1321-43 doit, pour chaque réseau et en tout
+point de mise à disposition, être au moins égale à trois mètres, à l'heure de
+pointe de consommation.
+
+Lorsque les réseaux desservent des immeubles de plus de six étages, des
+surpresseurs et des réservoirs de mise sous pression, conformes aux dispositions
+de l'article R. 1321-55, peuvent être mis en oeuvre.
+
+Les dispositions du présent article ne sont pas applicables aux installations de
+distribution existant avant le 7 avril 1995.

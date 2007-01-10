@@ -1,6 +1,6 @@
 Article R1321-88
 ----
-L'étiquetage des eaux de source préemballées qui sont détenues en vue de la
+L'étiquetage des eaux de source conditionnées qui sont détenues en vue de la
 vente, mises en vente, vendues ou distribuées à titre gratuit doit comporter,
 outre les mentions prévues à l'article R. 112-9 du code de la consommation, les
 mentions suivantes :

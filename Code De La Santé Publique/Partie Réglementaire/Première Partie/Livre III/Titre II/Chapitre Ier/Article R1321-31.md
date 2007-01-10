@@ -1,11 +1,24 @@
 Article R1321-31
 ----
-Si l'utilisation de l'eau ne constitue pas un danger potentiel pour la santé des
-personnes et s'il n'existe pas d'autres moyens raisonnables pour maintenir la
-distribution de l'eau destinée à la consommation humaine dans le secteur
-concerné, la personne publique ou privée responsable de la distribution d'eau
-peut déposer auprès du préfet une demande de dérogation aux limites de qualité
-définies au B du I de l'annexe 13-1.
+Lorsque les mesures correctives prises en application de l'article R. 1321-27 ne
+permettent pas de rétablir la qualité de l'eau, la personne responsable de la
+distribution d'eau dépose auprès du préfet une demande de dérogation aux limites
+de qualité, portant sur les paramètres chimiques, définies par l'arrêté
+mentionné à l'article R. 1321-2.
+
+La délivrance par le préfet d'une dérogation est soumise aux conditions
+suivantes :
+
+1° L'utilisation de l'eau ne constitue pas un danger potentiel pour la santé des
+personnes ;
+
+2° La personne responsable de la distribution d'eau apporte la preuve qu'il
+n'existe pas d'autres moyens raisonnables pour maintenir la distribution de
+l'eau destinée à la consommation humaine dans le secteur concerné ;
+
+3° Un plan d'actions concernant les mesures correctives permettant de rétablir
+la qualité de l'eau est établi par la personne responsable de la distribution
+d'eau.
 
 Les dispositions du présent article ne s'appliquent pas aux eaux vendues en
 bouteilles ou en conteneurs.

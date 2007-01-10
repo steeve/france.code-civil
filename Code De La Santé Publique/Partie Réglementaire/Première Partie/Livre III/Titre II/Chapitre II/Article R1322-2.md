@@ -1,18 +1,23 @@
 Article R1322-2
 ----
-Le préfet transmet la demande au directeur régional de l'industrie, de la
-recherche et de l'environnement qui fait procéder à la visite des lieux,
-vérifier l'état des travaux et dresser un procès-verbal de ces constatations.
+Une eau minérale naturelle est une eau microbiologiquement saine, répondant aux
+conditions fixées par l'article R. 1322-3, provenant d'une nappe ou d'un
+gisement souterrain exploité à partir d'une ou plusieurs émergences naturelles
+ou forées constituant la source. Elle témoigne, dans le cadre des fluctuations
+naturelles connues, d'une stabilité de ses caractéristiques essentielles,
+notamment de sa composition et de sa température à l'émergence, qui n'est pas
+affectée par le débit de l'eau prélevée.
 
-Le captage et l'aménagement sont ensuite, s'il y a lieu, effectués ou complétés
-sous le contrôle et la surveillance du directeur régional de l'industrie, de la
-recherche et de l'environnement.
+Elle se distingue des autres eaux destinées à la consommation humaine :
 
-Celui-ci peut exiger du demandeur, d'une part, l'installation de dispositifs
-permettant de contrôler ou de suivre l'évolution des caractéristiques
-principales de la source, notamment sa température et son débit, d'autre part,
-l'acquisition des droits de propriété ou de servitude permettant d'en assurer la
-protection sanitaire.
+1° Par sa nature, caractérisée par sa teneur en minéraux, oligoéléments ou
+autres constituants ;
 
-En cas de désaccord avec le demandeur, le directeur régional en réfère au
-ministre chargé de la santé qui statue après avis du conseil général des mines.
+2° Par sa pureté originelle, l'une et l'autre caractéristiques ayant été
+conservées intactes en raison de l'origine souterraine de cette eau qui a été
+tenue à l'abri de tout risque de pollution.
+
+Ces caractéristiques doivent avoir été appréciées sur les plans géologique et
+hydrogéologique, physique, chimique, microbiologique et, si nécessaire,
+pharmacologique, physiologique et clinique, conformément aux dispositions des
+articles R. 1322-5 et R. 1322-6.

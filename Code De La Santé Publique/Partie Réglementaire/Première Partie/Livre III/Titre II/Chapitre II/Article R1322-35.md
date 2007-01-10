@@ -1,4 +1,5 @@
 Article R1322-35
 ----
-Le préfet statue sur les mesures à prendre et impartit, s'il y a lieu, un délai
-à l'exploitant pour l'exécution des travaux.
+L'eau minérale naturelle est une denrée alimentaire au sens du règlement (CE) n°
+852/2004 du 29 avril 2004 du Parlement européen et du Conseil relatif à
+l'hygiène des denrées alimentaires.

@@ -1,8 +1,8 @@
 Article R1322-27
 ----
-La demande d'autorisation préalable prévue au premier alinéa de l'article L.
-1322-4, pour les sondages et les travaux souterrains à exécuter dans le
-périmètre de protection, est adressée au préfet. La demande énonce les noms,
-prénoms et domicile du demandeur ; elle est accompagnée d'un plan indiquant les
-dispositions des ouvrages projetés et d'un mémoire explicatif des conditions
-dans lesquelles ils doivent s'exécuter.
+Il est procédé conformément aux dispositions de l'article R. 1322-26 dans le cas
+où le propriétaire d'une source d'eau minérale naturelle déclarée d'intérêt
+public demande au préfet d'ordonner provisoirement, en application de l'article
+L. 1322-6, la suspension d'un sondage ou d'un travail souterrain entrepris en
+dehors du périmètre de protection et qu'il signale comme étant de nature à
+altérer ou à diminuer le débit de la source.

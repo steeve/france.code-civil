@@ -1,8 +1,9 @@
 Article R1322-31
 ----
-Il est procédé, conformément aux dispositions de l'article R. 1322-30, dans le
-cas où le propriétaire d'une source minérale déclarée d'intérêt public demande
-au préfet d'ordonner provisoirement, en vertu de l'article L. 1322-6, la
-suspension de sondages et de travaux souterrains entrepris en dehors du
-périmètre de protection et qu'il signale comme étant de nature à altérer ou
-diminuer la source.
+Les dispositions du I de l'article R. 1321-49 sont applicables à l'exploitant
+d'une eau minérale naturelle.
+
+En outre, l'exploitant doit utiliser des matériaux en contact avec l'eau
+minérale naturelle compatibles avec sa composition de manière à empêcher toute
+altération chimique, physico-chimique, microbiologique et organoleptique de la
+qualité de l'eau telle qu'elle se présente à l'émergence.

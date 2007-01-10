@@ -1,13 +1,15 @@
 Article R1321-96
 ----
-L'autorisation prévue à l'article R. 1321-95 est accordée pour une période de
-cinq ans renouvelable, dès lors que l'eau satisfait aux conditions de qualité
-prévues à la sous-section I de la section II du présent chapitre. L'octroi et le
-refus d'autorisation sont motivés.
+L'importation d'eaux potables conditionnées, autres que les eaux minérales
+naturelles, et de glace alimentaire d'origine hydrique est soumise à
+autorisation délivrée par le préfet du département où siège l'importateur
+demandeur de l'autorisation de la première mise à la consommation en France,
+sous réserve qu'elle réponde aux exigences du présent code. Le silence gardé
+pendant plus de six mois sur la demande d'autorisation d'importation vaut
+décision de rejet. Une copie de l'autorisation préfectorale est présentée lors
+d'un contrôle douanier.
 
-L'autorisation vaut reconnaissance comme eau minérale naturelle au titre du
-paragraphe 2 de l'article 1er de la directive n° 80/777 C.E.E. du 15 juillet
-1980.
-
-Elle est publiée au Journal officiel de la République française et notifiée à la
-Commission des communautés européennes.
+Toutefois, n'est pas soumise à autorisation l'importation d'eaux conditionnées
+et de glace alimentaire d'origine hydrique en provenance d'un Etat membre de
+l'Union européenne ou d'un autre Etat Partie à l'accord sur l'Espace économique
+européen et importées sous les mêmes désignations que dans le pays d'origine.

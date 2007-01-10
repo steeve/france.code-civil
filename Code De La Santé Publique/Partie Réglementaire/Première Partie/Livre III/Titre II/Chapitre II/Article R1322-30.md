@@ -1,11 +1,14 @@
 Article R1322-30
 ----
-Le directeur régional de l'industrie, de la recherche et de l'environnement
-procède, en présence des parties intéressées, ou elles dûment convoquées, aux
-opérations de jaugeage et à toutes autres qu'il juge utiles pour établir
-l'influence des travaux qui ont donné lieu à la réclamation sur le régime de la
-source, son débit et la composition de ses eaux. Il dresse un procès-verbal
-détaillé qu'il signe conjointement avec toutes les parties comparantes ; il
-transmet ce procès-verbal, avec son avis, au préfet qui statue, conformément aux
-dispositions de l'article L. 1322-5. Chacune des parties intéressées peut
-requérir l'insertion de ses observations au procès-verbal.
+L'exploitant transmet au préfet un bilan synthétique annuel comprenant notamment
+un tableau des résultats d'analyses ainsi que toute information sur la qualité
+de l'eau minérale naturelle et sur le fonctionnement du système d'exploitation,
+notamment la surveillance, les travaux et les dysfonctionnements. Il indique
+également les modifications des procédures de surveillance, mentionnées à
+l'article R. 1322-29, prévues pour l'année suivante.
+
+Les documents établis à l'occasion de la surveillance effectuée par l'exploitant
+sont tenus à la disposition des agents des administrations chargés des contrôles
+sur le lieu des établissements pendant une période de trois ans. Ils indiquent
+les références du laboratoire habilité à effectuer, en application de l'article
+R. 1322-44, les analyses de surveillance.
