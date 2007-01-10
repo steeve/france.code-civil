@@ -8,11 +8,11 @@ et place des propriétaires, pour leur compte et à leurs frais.
 Les dispositions du quatrième alinéa de l'article L. 1334-4 sont applicables.
 
 II. - La créance de la collectivité publique résultant des frais d'exécution
-d'office, d'expulsion et de publicité foncière ainsi que des frais qui ont, le
-cas échéant, été exposés pour le relogement ou l'hébergement des occupants est
+d'office, du paiement des sommes avancées en lieu et place d'un copropriétaire
+défaillant, d'expulsion et de publicité ainsi que des frais qui ont, le cas
+échéant, été exposés pour le relogement ou l'hébergement des occupants est
 recouvrée comme en matière de contributions directes.
 
-Elle est garantie par l'inscription, à la diligence de l'autorité administrative
-compétente et aux frais des propriétaires, d'une hypothèque légale sur
-l'immeuble ou, dans le cas d'un immeuble en co-propriété, sur le ou les lots en
-cause.
+Si l'immeuble relève du statut de la copropriété, le titre de recouvrement est
+adressé à chaque copropriétaire pour la fraction de créance dont il est
+redevable.
