@@ -11,7 +11,7 @@ activités mentionnés aux 2° à 6° de l'article R. 6145-12 s'apprécie dans l
 limite du respect du total des crédits ouverts en charges d'exploitation.
 
 Lorsque, en application du troisième alinéa de l'article L. 6145-1 ou de
-l'article L. 6145-3, le directeur de l'agence régionale de l'hospitalisation
+l'article L. 6145-2, le directeur de l'agence régionale de l'hospitalisation
 arrête l'état des prévisions de recettes et de dépenses, le caractère limitatif
 des crédits s'apprécie au niveau de chaque chapitre.
 

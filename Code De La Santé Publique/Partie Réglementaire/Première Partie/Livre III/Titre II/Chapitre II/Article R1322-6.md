@@ -1,23 +1,16 @@
 Article R1322-6
 ----
-Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut
-faire l'objet d'aucun traitement ou adjonction autres que ceux autorisés par
-arrêté ministériel et relatifs à :
+Le préfet du département d'implantation du lieu d'exploitation final de la
+source, après avoir recueilli l'avis de l'hydrogéologue agréé en matière
+d'hygiène publique, spécialement désigné à cet effet, soumet un rapport de
+synthèse et un projet d'arrêté motivé à l'avis du conseil départemental de
+l'environnement et des risques sanitaires et technologiques.
 
-1° La séparation des éléments instables, par décantation ou filtration,
-éventuellement précédée d'une oxygénation, ce traitement ne devant pas avoir
-pour effet de modifier la composition de l'eau dans ses constituants essentiels
-;
+Le préfet transmet le projet d'arrêté au demandeur et l'informe de la date et du
+lieu de la réunion du conseil départemental. Le demandeur ou son mandataire peut
+demander à être entendu par le conseil départemental ou présenter ses
+observations écrites au préfet.
 
-2° L'élimination de gaz carbonique libre par des procédés exclusivement
-physiques ;
-
-3° L'incorporation ou la réincorporation de gaz carbonique.
-
-Ces traitements ou adjonctions ne doivent pas avoir pour but ou effet de
-modifier les caractéristiques microbiologiques de l'eau minérale naturelle.
-
-La même autorisation peut prévoir le transport de l'eau à distance par des
-canalisations ainsi que son mélange à des eaux de propriétés analogues et de
-même origine géologique et, le cas échéant, à des gaz provenant de ces mêmes
-eaux, si l'eau est destinée à alimenter un établissement thermal.
+Dans le cas où les installations sont situées dans des départements différents,
+le préfet du département où est envisagé le lieu d'exploitation final de la
+source coordonne la procédure.

@@ -1,12 +1,21 @@
 Article R1321-56
 ----
-Un arrêté des ministres chargés de la construction et de la santé, pris après
-avis de l'Agence française de sécurité sanitaire des aliments, définit les
-modalités d'application des dispositions du 1° de l'article R. 1321-55 pour les
-installations réalisées avant le 22 décembre 2001 ainsi que les délais
-éventuellement nécessaires à la mise en conformité desdites installations. Ces
-délais ne pourront pas excéder six ans à compter du 22 décembre 2001. Dans les
-cas où, compte tenu de l'ancienneté des installations, il s'avérerait
-impossible, pour des raisons techniques ou financières, de procéder à cette mise
-en conformité, l'arrêté interministériel susmentionné définit les conditions
-particulières de surveillance de la qualité des eaux ainsi distribuées.
+Les réseaux et installations définis aux 1° et 2° de l'article R. 1321-43
+doivent être nettoyés, rincés et désinfectés avant toute mise ou remise en
+service. La personne responsable de la production ou de la distribution d'eau
+doit s'assurer de l'efficacité de ces opérations et de la qualité de l'eau avant
+la première mise en service ainsi qu'après toute intervention susceptible d'être
+à l'origine d'une dégradation de cette qualité.
+
+Les réservoirs équipant ces réseaux et installations doivent être vidés,
+nettoyés, rincés et désinfectés au moins une fois par an. Toutefois, lorsque les
+conditions d'exploitation le permettent et que l'eau distribuée ne présente
+aucun signe de dégradation de sa qualité, la personne responsable de la
+production ou de la distribution d'eau peut demander au préfet que la fréquence
+de vidange, de nettoyage, de rinçage et de désinfection soit réduite. Le silence
+gardé pendant plus de quatre mois sur cette demande d'autorisation vaut décision
+de rejet.
+
+Le préfet est tenu informé par la personne responsable de la production ou de la
+distribution d'eau des opérations de désinfection réalisées en cours
+d'exploitation.

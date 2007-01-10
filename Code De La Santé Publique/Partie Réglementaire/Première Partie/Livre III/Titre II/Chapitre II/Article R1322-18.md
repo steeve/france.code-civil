@@ -1,21 +1,22 @@
 Article R1322-18
 ----
-Dans tous les cas, la demande contient, en outre, des renseignements précis sur
-l'importance du débit journalier de la source, avec les variations qu'elle est
-susceptible d'éprouver suivant les saisons, en ce qui concerne son débit, sa
-température et sa teneur en germes, les propriétés spéciales des eaux,
-l'importance de l'établissement d'eaux minérales naturelles qu'elle alimente et
-le nombre de personnes que cet établissement a reçu dans les trois dernières
-années. Si les eaux ne sont pas administrées sur place et si elles sont
-seulement livrées à la consommation publique, la demande indique avec précision
-le procédé d'embouteillage et le nombre de bouteilles produites par l'exploitant
-de la source pendant les trois années précédentes. A la demande est joint un
-plan, à l'échelle de 10 millimètres par mètre, représentant l'établissement
-d'eaux minérales naturelles, et faisant connaître la disposition des réservoirs,
-des salles de bains, de douches, d'inhalation et de tous appareils ou
-installations servant à l'administration des eaux, ainsi que la disposition des
-différents aménagements et constructions servant au fonctionnement de
-l'établissement, avec indications spéciales sur l'évacuation des matières et
-eaux usées. Le demandeur y ajoute tous les renseignements propres à faire
-apprécier les services que l'établissement rend à la santé publique. Le préfet
-donne récépissé de la demande.
+Lorsque la demande est jugée régulière et complète, elle est soumise à enquête
+publique. Celle-ci est effectuée dans les conditions prévues par les articles R.
+11-4 à R. 11-14 du code de l'expropriation pour cause d'utilité publique.
+
+L'arrêté du préfet ou des préfets concernés, pris en application de l'article R.
+11-4 du même code, désigne les communes où un dossier et un registre d'enquête
+doivent être tenus à la disposition du public. Il est publié par voie d'affiches
+dans les communes sur le territoire desquelles est situé le périmètre de
+protection sollicité.
+
+Après la clôture de l'enquête, le commissaire enquêteur ou le président de la
+commission d'enquête convoque le pétitionnaire, avec un délai de huit jours, et
+lui communique sur place les observations écrites et orales recueillies au cours
+de l'enquête publique et consignées dans un procès-verbal, en l'invitant à
+produire sa réponse dans un délai de vingt-deux jours.
+
+Le commissaire enquêteur ou le président de la commission d'enquête envoie le
+dossier de l'enquête, avec ses conclusions motivées, au préfet, dans les quinze
+jours à compter de la réponse du demandeur, ou de l'expiration du délai imparti
+à ce dernier pour produire sa réponse.

@@ -1,37 +1,27 @@
 Article R1321-7
 ----
-Le dossier de la demande d'autorisation doit contenir :
+I. - Le préfet soumet un rapport de synthèse et un projet d'arrêté motivé à
+l'avis du conseil départemental de l'environnement et des risques sanitaires et
+technologiques.
 
-1° Les informations permettant d'évaluer la qualité de l'eau de la ressource
-utilisée et ses variations possibles, y compris en ce qui concerne les eaux
-mentionnées à l'article R. 1321-37 ;
+Le préfet transmet le projet d'arrêté au demandeur et l'informe de la date et du
+lieu de la réunion du conseil départemental. Le demandeur ou son mandataire peut
+demander à être entendu par le conseil départemental ou lui présenter ses
+observations écrites.
 
-2° L'évaluation des risques susceptibles d'altérer la qualité de cette eau ;
+Dans le cas où les installations sont situées dans des départements différents,
+les préfets de ces départements choisissent le préfet coordonnateur de la
+procédure.
 
-3° Lorsque le débit de prélèvement est supérieur à 8 m3/h, une étude portant sur
-les caractéristiques géologiques et hydrogéologiques du secteur aquifère
-concerné ou sur les caractéristiques du bassin versant concerné, sur la
-vulnérabilité de la ressource et sur les mesures de protection à mettre en place
-;
+II. - Le préfet adresse le dossier de la demande au ministre chargé de la santé
+qui le transmet pour avis à l'Agence française de sécurité sanitaire des
+aliments lorsque la demande d'autorisation porte sur l'utilisation d'une eau
+prélevée dans le milieu naturel ne respectant pas une des limites de qualité,
+portant sur certains des paramètres microbiologiques et physico-chimiques,
+définis par arrêté du ministre chargé de la santé.
 
-4° L'avis de l'hydrogéologue agréé en matière d'hygiène publique, spécialement
-désigné pour l'étude du dossier par le préfet portant sur les disponibilités en
-eau et sur les mesures de protection à mettre en oeuvre et, dans le cas de
-travaux de prélèvement d'eau soumis aux dispositions de l'article L. 1321-2, sur
-la définition des périmètres de protection ;
+Le préfet peut également transmettre le dossier au ministre en cas de risque ou
+de situation exceptionnels.
 
-5° L'indication des mesures prévues pour maîtriser les risques identifiés et
-notamment les résultats des études effectuées pour justifier le choix des
-produits et des procédés de traitement qu'il est envisagé, le cas échéant, de
-mettre en oeuvre ;
-
-6° L'indication des mesures répondant à l'objectif défini à l'article R. 1321-44
-et notamment la prise en compte du potentiel de dissolution du plomb dans l'eau
-produite, prévu à l'article R. 1321-52, du cuivre et du nickel ;
-
-7° Les éléments descriptifs du système de production et de distribution de
-l'eau.
-
-Un arrêté du ministre chargé de la santé précise la nature des informations qui
-doivent figurer au dossier de la demande d'autorisation et notamment le nombre
-et le type des analyses à réaliser.
+Les dispositions du présent II ne s'appliquent pas aux eaux de source définies à
+l'article R. 1321-84.
