@@ -1,17 +1,10 @@
 Article D815-3
 ----
-Le recouvrement des arrérages servis au titre de l'allocation supplémentaire sur
-la part de succession attribuée au conjoint survivant peut être différé jusqu'au
-décès de ce dernier. Il en est de même en ce qui concerne les héritiers qui
-étaient à la charge de l'allocataire à la date de son décès et qui, à cette
-date, étaient soit âgés d'au moins soixante-cinq ans, ou d'au moins soixante ans
-en cas d'inaptitude au travail, soit en-dessous de cet âge, atteints d'une
-invalidité réduisant d'au moins des deux tiers leur capacité de travail ou de
-gain.
+Le montant limite récupérable prévu au premier alinéa de l'article L. 815-13, au
+titre des allocations versées pendant l'année 2006, est égal à 4 314,03 euros
+par an pour une personne seule et à 7 118,77 euros par an lorsque les deux
+conjoints, concubins ou partenaires liés par un pacte civil de solidarité en
+bénéficient.
 
-Pour l'application de l'alinéa précédent, est considérée comme ayant été à la
-charge de l'allocataire toute personne qui vivait habituellement à son foyer et
-dont les ressources, appréciées dans les conditions fixées par les articles L.
-815-8, R. 815-22, R. 815-25 à R. 815-32 et R. 815-40, n'excédaient pas, à la
-date du décès de l'allocataire, le montant limite prévu à cette date pour une
-personne seule en application de l'article L. 815-8.
+Lorsque l'allocation n'a pas été servie pendant l'année complète, ces montants
+sont diminués au prorata de la durée effective de service de l'allocation.
