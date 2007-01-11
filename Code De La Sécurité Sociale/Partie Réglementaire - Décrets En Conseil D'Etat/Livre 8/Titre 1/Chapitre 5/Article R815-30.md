@@ -1,9 +1,7 @@
 Article R815-30
 ----
-Pour l'appréciation du plafond des ressources, sont assimilées aux célibataires
-les personnes séparées de fait avec résidence distincte depuis plus de deux ans
-[*conditions, durée*] ainsi que les personnes séparées de corps.
-
-Le calcul des ressources des époux est effectué en faisant masse de leurs
-ressources quel que soit leur régime matrimonial, sans distinction entre les
-biens communs ou les biens propres des conjoints.
+Au vu des déclarations souscrites par le demandeur et compte tenu des
+renseignements recueillis, l'organisme ou le service liquidateur détermine le
+montant de l'allocation de solidarité aux personnes âgées auquel l'intéressé a
+droit, compte non tenu de l'aide que lui apportent ou sont susceptibles de lui
+apporter les personnes tenues à l'obligation alimentaire.

@@ -1,8 +1,11 @@
 Article R815-4
 ----
-L'invalidité générale mentionnée à l'article L. 815-3 doit réduire au moins des
-deux tiers la capacité de travail ou de gain du requérant *taux*.
+La majoration pour conjoint à charge servie par un régime d'assurance vieillesse
+de salariés est considérée comme un avantage de vieillesse servi au conjoint à
+charge pour l'application du présent chapitre.
 
-Pour les requérants mentionnés aux articles R. 815-6 et R. 815-15, le taux
-d'invalidité est celui fixé au premier alinéa de l'article L. 30 du code des
-pensions civiles et militaires de retraite.
+Si le droit personnel est liquidé à titre provisoire dans le cadre du dispositif
+de retraite progressive, la fraction de pension de vieillesse liquidée, la
+majoration pour conjoint à charge rattachée à cette fraction et la pension de
+réversion n'ouvrent pas droit au bénéfice de l'allocation de solidarité aux
+personnes âgées.

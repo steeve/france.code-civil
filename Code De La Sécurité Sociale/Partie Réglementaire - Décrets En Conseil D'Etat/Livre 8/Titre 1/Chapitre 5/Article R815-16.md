@@ -1,6 +1,5 @@
 Article R815-16
 ----
-La demande d'allocation supplémentaire présentée par un requérant non titulaire
-d'un avantage de vieillesse, mais ouvrant droit à une majoration pour conjoint à
-charge, peut être établie sur le formulaire de demande présenté par le titulaire
-de l'avantage principal.
+L'exactitude des indications concernant l'état civil du demandeur et, le cas
+échéant, de son conjoint est attestée par le maire, qui adresse le dossier au
+service de l'allocation de solidarité aux personnes âgées.

@@ -3,8 +3,8 @@ Article R353-1
 La pension de réversion est attribuée lorsque le conjoint de l'assuré décédé ou
 disparu ne dispose pas de ressources dépassant un montant fixé par décret. Ces
 ressources sont appréciées selon les modalités et dans les conditions fixées par
-les articles R. 815-22 à R. 815-28 et au deuxième alinéa de l'article R. 815-32.
-Toutefois, elles ne comprennent pas :
+les articles R. 815-18 à R. 815-20, R. 815-22 à R. 815-25 et au deuxième alinéa
+de l'article R. 815-29. Toutefois, elles ne comprennent pas :
 
 1° Les revenus d'activité et de remplacement de l'assuré décédé ;
 

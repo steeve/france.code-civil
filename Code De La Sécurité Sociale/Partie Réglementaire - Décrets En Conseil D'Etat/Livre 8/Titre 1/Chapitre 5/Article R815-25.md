@@ -1,43 +1,16 @@
 Article R815-25
 ----
-Il est tenu compte, pour l'appréciation des ressources, de tous avantages
-d'invalidité et de vieillesse dont bénéficient les intéressés, des revenus
-professionnels et autres y compris ceux des biens mobiliers et immobiliers et
-des biens dont l'intéressé a fait donation au cours des dix années qui ont
-précédé la demande *calcul*.
+Les biens actuels mobiliers et immobiliers et ceux dont le demandeur a fait
+donation à ses descendants au cours des cinq années précédant la demande, à
+l'exception des biens mentionnés aux 1° et 2° de l'article R. 815-22, sont
+réputés lui procurer un revenu évalué à 3 % de leur valeur vénale fixée à la
+date de la demande, contradictoirement et, à défaut, à dire d'expert. Ce
+pourcentage est fixé à 1,5 % lorsque la donation est intervenue depuis plus de
+cinq ans mais moins de dix ans avant la demande.
 
-Toutefois, et indépendamment des ressources exclues par des dispositions
-particulières, il n'est pas tenu compte dans l'estimation des ressources :
-
-1°) de la valeur des locaux d'habitation effectivement occupés à titre de
-résidence principale par l'intéressé et les membres de sa famille vivant à son
-foyer ;
-
-2°) de la valeur des bâtiments de l'exploitation agricole ;
-
-3°) des prestations familiales ;
-
-4°) de l'indemnité de soins aux tuberculeux prévue par l'article L. 41 du code
-des pensions militaires d'invalidité et des victimes de la guerre ;
-
-5°) de la majoration spéciale prévue par l'article L. 52-2 dudit code ;
-
-6°) des majorations accordées aux personnes dont l'état de santé nécessite
-l'aide constante d'une tierce personne ; ne sont considérées comme telles que
-les majorations allouées à ce titre en vertu de l'article L. 18 du code des
-pensions militaires d'invalidité et des victimes de la guerre ou en vertu des
-législations des accidents du travail, des assurances sociales et de l'aide
-sociale ;
-
-7°) de l'allocation de compensation accordée aux aveugles et grands infirmes
-travailleurs et généralement des avantages en espèces dont l'intéressé bénéficie
-au titre de l'aide sociale ;
-
-8°) de la retraite du combattant ;
-
-9°) des pensions attachées aux distinctions honorifiques ;
-
-10°) de l'allocation de logement prévue à l'article L. 831-1 ;
-
-11°) de la rente viagère instituée par l'article 47 de la loi de finances
-rectificative pour 1999 (n° 99-1173 du 30 décembre 1999).
+Le demandeur qui a fait donation de biens mobiliers ou immobiliers à d'autres
+personnes que ses descendants au cours des dix années précédant la demande est
+réputé percevoir du donataire une rente viagère, calculée sur la valeur de ces
+biens à la date de la demande, admise par l'enregistrement, suivant les tables
+de mortalité et le taux d'actualisation de référence figurant dans l'arrêté pris
+pour l'application du dernier alinéa de l'article R. 931-10-17.

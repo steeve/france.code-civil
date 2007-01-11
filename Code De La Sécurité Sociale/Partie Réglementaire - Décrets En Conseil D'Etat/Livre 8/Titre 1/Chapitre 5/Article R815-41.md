@@ -1,10 +1,12 @@
 Article R815-41
 ----
-Les organismes et services mentionnés à l'article L. 815-9 peuvent faire
-procéder, à toute époque, à toute vérification des ressources des requérants ou
-à tout contrôle des ressources des bénéficiaires de l'allocation supplémentaire
-par les soins d'agents agréés.
+Pour les personnes mentionnées à l'article R. 815-2, les droits du bénéficiaire
+de l'allocation de solidarité aux personnes âgées peuvent être révisés par le
+préfet.
 
-Les organismes et services mentionnés à l'article L. 815-9 susmentionné peuvent
-passer convention entre eux pour utiliser le concours de leurs agents agréés en
-vue d'exercer la vérification ou le contrôle des ressources des intéressés.
+En cas de modification du montant de la pension susceptible d'entraîner la
+modification du montant de l'allocation de solidarité aux personnes âgées, le
+comptable supérieur assignataire de la pension peut suspendre provisoirement,
+pour tout ou partie, le paiement de l'allocation de solidarité aux personnes
+âgées. Il saisit alors immédiatement le préfet qui a attribué l'allocation en
+vue de la révision des droits du bénéficiaire.

@@ -1,15 +1,16 @@
 Article R815-47
 ----
-L'organisme ou service mentionné à l'article L. 815-9 a la faculté de requérir,
-dans les conditions prévues à l'article 2428 du code civil, l'inscription d'une
-hypothèque grevant les biens des bénéficiaires de l'allocation supplémentaire
-sur les registres tenus par les conservateurs des hypothèques pour sûreté de la
-créance éventuelle résultant des sommes versées au titre de l'allocation
-supplémentaire.
+Pour l'application des dispositions des articles L. 815-13 et R. 815-46,
+l'organisme ou le service mentionné à l'article L. 815-7 détermine, au vu des
+déclarations des intéressés ou après enquête, ceux des bénéficiaires qui
+possèdent des biens immobiliers d'une valeur supérieure au seuil fixé par le
+décret prévu au deuxième alinéa de l'article L. 815-13.
 
-Les bordereaux d'inscription doivent mentionner une évaluation du montant des
-prestations qui seront allouées au bénéficiaire.
+L'inscription prévue à l'article R. 815-46 ne peut être prise que si
+l'allocataire possède des biens immobiliers d'une valeur égale ou supérieure à
+ce montant, cette valeur étant appréciée au jour de l'inscription.
 
-Lorsque les allocations servies dépassent l'évaluation figurant au bordereau
-d'inscription primitif, l'organisme ou service mentionné à l'article L. 815-9 du
-présent code a la faculté de requérir une nouvelle inscription d'hypothèque.
+Dans le cas où l'allocataire est propriétaire de plusieurs immeubles,
+l'inscription peut n'être prise que sur l'un ou certains d'entre eux, même si la
+valeur de chacun d'eux est inférieure au montant prévu au deuxième alinéa du
+présent article.

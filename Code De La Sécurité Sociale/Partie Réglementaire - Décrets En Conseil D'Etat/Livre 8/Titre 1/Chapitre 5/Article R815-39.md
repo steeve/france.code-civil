@@ -1,8 +1,10 @@
 Article R815-39
 ----
-Les arrérages de l'allocation supplémentaire sont payés dans les mêmes formes et
-conditions que ceux de l'avantage de vieillesse ou d'invalidité dont l'organisme
-ou le service liquidateur est débiteur.
+Les organismes et services mentionnés à l'article L. 815-7 peuvent procéder, à
+tout moment, à la vérification des ressources, de la résidence ou de la
+situation familiale des demandeurs ou au contrôle des ressources, de la
+résidence ou de la situation familiale des bénéficiaires de l'allocation de
+solidarité aux personnes âgées.
 
-L'allocation supplémentaire allouée au conjoint à charge est payée dans les
-mêmes formes et conditions que la majoration pour conjoint à charge.
+Ces organismes et services peuvent passer convention entre eux pour utiliser le
+concours de leurs agents agréés en vue de ces vérifications ou contrôles.

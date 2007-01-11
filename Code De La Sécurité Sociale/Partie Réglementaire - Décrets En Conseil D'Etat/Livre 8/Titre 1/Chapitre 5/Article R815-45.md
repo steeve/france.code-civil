@@ -1,7 +1,8 @@
 Article R815-45
 ----
-Lorsque les arrérages versés aux bénéficiaires mentionnés à l'article R. 815-6
-sont sujets à répétition, le recouvrement en est effectué par voie d'état
-exécutoire, dans les conditions fixées par la loi n° 42-365 du 13 mars 1942,
-modifiée par la loi n° 51-598 du 24 mai 1951, sauf application des dispositions
-de l'article L. 815-12.
+Les dispositions qui régissent l'avantage de vieillesse payé par l'organisme ou
+le service liquidateur s'appliquent à l'allocation de solidarité aux personnes
+âgées en cas de décès du titulaire.
+
+Pour les personnes mentionnées à l'article R. 815-15, l'allocation est servie
+jusqu'au dernier jour du mois au cours duquel le décès est survenu.

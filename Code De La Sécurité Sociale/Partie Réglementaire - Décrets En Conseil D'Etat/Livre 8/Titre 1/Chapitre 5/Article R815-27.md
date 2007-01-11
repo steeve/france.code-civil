@@ -1,10 +1,11 @@
 Article R815-27
 ----
-Lorsqu'il s'agit de salaires ou de gains assimilés à des salaires par la
-législation de sécurité sociale, les revenus professionnels sont appréciés
-d'après les règles suivies pour le calcul des cotisations d'assurances sociales.
+Le calcul des ressources des époux, quel que soit leur régime matrimonial, des
+concubins ou des partenaires liés par un pacte civil de solidarité est effectué
+en totalisant leurs ressources, sans distinction entre les biens communs ou les
+biens propres des conjoints, concubins ou partenaires liés par un pacte civil de
+solidarité.
 
-Lorsqu'il s'agit d'autre revenus professionnels, ceux-ci sont appréciés comme en
-matière fiscale en faisant abstraction de tous exonérations, abattements ou
-décotes et sans qu'il soit tenu compte de toute déduction ne correspondant pas à
-une charge réelle pour la période considérée.
+Toutefois, pour les conjoints, concubins ou partenaires liés par un pacte civil
+de solidarité, séparés de fait avec résidence distincte et pour les personnes
+séparées de corps, les ressources sont appréciées comme pour les célibataires.

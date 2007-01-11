@@ -1,9 +1,10 @@
 Article R815-5
 ----
-Lorsque le requérant âgé de moins de soixante-cinq ans est titulaire d'un
-avantage de vieillesse pour la liquidation duquel il n'a pas été nécessaire de
-faire connaître son inaptitude au travail, l'organisme ou service liquidateur
-détermine si, compte tenu de l'article L. 351-7 et, le cas échéant, de l'article
-R. 351-21, l'intéressé est inapte au travail. L'organisme ou service liquidateur
-notifie sa décision à l'intéressé. En cas de rejet, la notification est faite
-par lettre recommandée *condition de forme*.
+Pour bénéficier de l'allocation de solidarité aux personnes âgées instituée par
+l'article L. 815-1, l'intéressé doit souscrire une demande conforme au modèle
+arrêté par le ministre chargé de la sécurité sociale.
+
+Des exemplaires de la demande sont mis à la disposition des intéressés par les
+organismes ou services de retraite de base mentionnés à l'article L. 815-7 et,
+s'agissant des personnes mentionnées au deuxième alinéa de cet article, par les
+mairies.

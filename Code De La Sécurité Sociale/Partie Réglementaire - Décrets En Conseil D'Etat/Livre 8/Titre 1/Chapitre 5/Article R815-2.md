@@ -1,8 +1,9 @@
 Article R815-2
 ----
-L'âge mentionné à l'article L. 815-2 est fixé à soixante-cinq ans ; il est
-abaissé à soixante ans en cas d'inaptitude au travail.
-
-Pour bénéficier de l'allocation supplémentaire, les non-salariés agricoles
-doivent avoir cessé d'exploiter plus de trois hectares, sous réserve des
-coefficients d'équivalence prévus à l'article 188-4 du code rural.
+Les dispositions des sections 1 à 3 du présent chapitre s'appliquent aux assurés
+du régime de retraite des fonctionnaires de l'Etat sous les réserves prévues aux
+articles R. 815-10, R. 815-11, R. 815-32, R. 815-35, R. 815-41, R. 815-44, R.
+815-52 et R. 815-54, lorsqu'ils ne bénéficient d'aucun autre avantage de
+vieillesse ou lorsque, en application des articles R. 815-7 à R. 815-9 et R.
+815-12 à R. 815-14, la liquidation de l'allocation de solidarité aux personnes
+âgées incombe à ce régime.

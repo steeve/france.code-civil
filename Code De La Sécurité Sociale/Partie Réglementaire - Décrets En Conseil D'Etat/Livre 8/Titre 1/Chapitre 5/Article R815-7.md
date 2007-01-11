@@ -1,11 +1,19 @@
 Article R815-7
 ----
-Pour les requérants mentionnés aux articles R. 815-6 et R. 815-15, l'inaptitude
-au travail est appréciée par les commissions de réforme, prévues respectivement
-à l'article L. 31 du code des pensions civiles et militaires de retraite, à
-l'article 8 du décret n° 50-783 du 24 juin 1950, à l'article 23 du décret n°
-49-1416 du 5 octobre 1949 et par le conseil de direction mentionné à l'article
-10 de la loi du 29 juin 1927, modifié par la loi du 17 août 1950.
+Le demandeur titulaire de plusieurs avantages de vieillesse adresse ou remet sa
+demande à l'organisme ou au service déterminé selon l'ordre de priorité suivant
+:
 
-La décision de la commission de réforme est notifiée aux intéressés par le
-préfet.
+1° A la caisse de retraite de la mutualité sociale agricole lorsqu'il est
+titulaire d'une allocation ou retraite de vieillesse agricole des non-salariés
+et a la qualité d'exploitant agricole au jour de la demande ;
+
+2° A la caisse de retraite du régime général des travailleurs salariés lorsque
+l'un des avantages dont il bénéficie est servi par cet organisme ;
+
+3° A l'organisme ou au service débiteur de l'avantage de vieillesse dont le
+montant trimestriel est le plus élevé au jour de la demande parmi ceux dont il
+est titulaire.
+
+L'organisme ou le service ainsi défini procède à la liquidation de l'allocation
+de solidarité aux personnes âgées.

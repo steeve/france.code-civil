@@ -1,11 +1,9 @@
 Article R815-36
 ----
-L'organisme ou le service liquidateur notifie à l'intéressé sa décision
-d'attribution ou de rejet de l'allocation supplémentaire. La notification est
-effectuée par lettre recommandée en cas de rejet ou lorsqu'il est attribué une
-allocation réduite en raison des ressources de l'intéressé. Les décisions de
-rejet doivent être motivées.
+Les services ou organismes débiteurs de l'allocation de solidarité aux personnes
+âgées en assurent le paiement à terme échu aux échéances de l'avantage de
+vieillesse dont jouit le bénéficiaire.
 
-La notification attributive de l'allocation supplémentaire par l'organisme ou
-service liquidateur constitue titre pour le bénéficiaire. Un arrêté du ministre
-intéressé fixe le modèle de cette notification.
+Pour les personnes mentionnées à l'article R. 815-15, l'allocation est payée par
+le service de l'allocation de solidarité aux personnes âgées à terme échu le
+premier jour de chaque mois.

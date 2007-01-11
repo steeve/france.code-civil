@@ -1,10 +1,22 @@
 Article R815-15
 ----
-En ce qui concerne les tributaires des régimes de retraites institués par le
-décret n° 65-773 du 9 septembre 1965 et les décrets n° 65-836 du 24 septembre
-1965 et n° 67-711 du 18 août 1967 qui ne bénéficient d'aucun autre avantage de
-vieillesse ou pour lesquels la liquidation de l'allocation supplémentaire
-incombe à ces régimes en exécution des articles R. 815-10 à R. 815-13, R. 815-16
-à R. 815-18, les demandes d'allocations supplémentaires pourront être instruites
-par les préfets dans les conditions fixées aux deux premiers alinéas de
-l'article R. 815-14.
+Les dispositions du deuxième alinéa de l'article L. 815-7 sont applicables :
+
+1° Aux personnes n'appartenant pas et n'ayant pas appartenu à une catégorie
+professionnelle entrant dans le champ de l'affiliation obligatoire à un régime
+de retraite de base institué par une disposition législative ou réglementaire ;
+
+2° Aux personnes qui ne bénéficient pas de leur propre chef ou du chef de leur
+conjoint d'un avantage de vieillesse auprès d'un tel régime, ni n'ouvrent droit
+à la majoration pour conjoint à charge ;
+
+3° Aux veuves de guerre titulaires d'une pension servie au titre du premier
+alinéa de l'article L. 51 du code des pensions militaires d'invalidité et des
+victimes de la guerre, dès lors qu'elles ne relèvent ni d'une organisation
+autonome d'allocation vieillesse, ni d'un régime de vieillesse de sécurité
+sociale.
+
+Le demandeur appartenant aux catégories mentionnées ci-dessus dépose sa demande
+d'allocation de solidarité aux personnes âgées auprès de la mairie de son lieu
+de résidence. Il produit une déclaration sur l'honneur, conforme au modèle mis à
+sa disposition par la Caisse des dépôts et consignations dans les mairies.

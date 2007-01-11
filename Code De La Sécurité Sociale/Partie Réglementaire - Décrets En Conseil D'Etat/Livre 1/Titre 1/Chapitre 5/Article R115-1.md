@@ -11,8 +11,8 @@ régimes ;
 
 2° Le Fonds de solidarité vieillesse, ainsi que la Caisse des dépôts et
 consignations pour les fonds suivants : fonds spécial d'invalidité, service de
-l'allocation spéciale vieillesse, fonds commun des accidents du travail et fonds
-commun des accidents du travail agricole ;
+l'allocation de solidarité aux personnes âgées, fonds commun des accidents du
+travail et fonds commun des accidents du travail agricole ;
 
 3° Les mutuelles régies par le code de la mutualité, les entreprises régies par
 le code des assurances et les institutions régies par les titres II et III du

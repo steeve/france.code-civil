@@ -1,8 +1,7 @@
 Article R815-8
 ----
-Pour bénéficier de l'allocation supplémentaire instituée par les articles L.
-815-2 et L. 815-3, l'intéressé doit souscrire une demande conforme au modèle
-arrêté par le ministre chargé de la sécurité sociale.
-
-Des exemplaires de la demande sont mis à la disposition des intéressés dans les
-mairies.
+Par dérogation à l'article R. 815-6, lorsque le paiement des arrérages n'est pas
+opéré directement par l'organisme ou le service débiteur, la demande est
+adressée ou remise à l'organisme ou au service chargé du mandatement ou au
+comptable payeur de la pension qui transmet pour liquidation la demande à
+l'organisme ou au service débiteur.

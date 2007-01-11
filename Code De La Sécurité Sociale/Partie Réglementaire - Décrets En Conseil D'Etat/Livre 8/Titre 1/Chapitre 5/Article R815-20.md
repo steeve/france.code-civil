@@ -1,12 +1,10 @@
 Article R815-20
 ----
-L'organisme ou le service qui a été chargé, dans les conditions des articles
-précédents, de la liquidation de l'allocation supplémentaire, reste compétent
-pour l'application des articles L. 815-2 et suivants en ce qui concerne
-l'intéressé, quelles que soient les modifications survenues dans le montant ou
-le nombre des avantages de vieillesse dont il bénéficie.
-
-Toutefois, en cas de suppression de l'avantage de vieillesse, qui relève de
-l'organisme ou service liquidateur, le dossier de l'intéressé est, le cas
-échéant, transmis à un autre organisme ou service déterminé dans les conditions
-des articles R. 815-9 et suivants.
+Les organismes ou services mentionnés à l'article L. 815-7 peuvent mettre en
+demeure, sous les sanctions prévues à l'article R. 815-49, toute personne,
+institution ou organisme de leur faire connaître dans un délai d'un mois le
+montant des pensions, retraites, rentes viagères ou allocations viagères autres
+que les avantages de vieillesse mentionnés à l'article L. 815-7, tels qu'ils
+sont définis à l'article R. 815-4, qu'il est tenu de servir à une personne
+bénéficiant ou ayant demandé le bénéfice de l'allocation de solidarité aux
+personnes âgées.

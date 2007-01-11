@@ -1,21 +1,13 @@
 Article R815-32
 ----
-Les ressources à prendre en considération sont celles afférentes à la période de
-trois mois précédant la date d'entrée en jouissance de l'allocation
-supplémentaire. Le montant de ces ressources ne doit pas dépasser le quart des
-chiffres limite fixés par le décret prévu à l'article L. 815-8.
+Pour les assurés mentionnés aux articles R. 815-2 et R. 815-11, l'inaptitude au
+travail est appréciée par les commissions de réforme, prévues respectivement à
+l'article L. 31 du code des pensions civiles et militaires de retraite, à
+l'article 31 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de
+retraite des fonctionnaires affiliés à la Caisse nationale de retraites des
+agents des collectivités locales et à l'article 23 du décret n° 2004-1056 du 5
+octobre 2004 relatif au régime des pensions des ouvriers des établissements
+industriels de l'Etat.
 
-En ce qui concerne les avantages viagers, il est tenu compte du montant
-théorique des arrérages dus au cours desdits trois mois, abstraction faite des
-rappels effectivement payés au cours de ces trois mois.
-
-Si le montant des ressources ainsi évaluées dépasse le quart des chiffres limite
-fixés par le décret prévu à l'article L. 815-8, l'allocation supplémentaire est
-néanmoins servie, lorsque l'intéressé justifie qu'au cours de la période de
-douze mois précédant la date d'entrée en jouissance le montant de ses ressources
-a été inférieur auxdits chiffres limite. Pour l'application du présent alinéa,
-le montant annuel des avantages viagers est déterminé d'après le taux en vigueur
-à la date d'entrée en jouissance.
-
-S'il y a lieu, l'allocation est réduite dans les conditions prévues à l'article
-L. 815-8 et à l'article R. 815-31.
+La décision de la commission de réforme est notifiée aux intéressés par le
+préfet.

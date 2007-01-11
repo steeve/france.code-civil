@@ -139,7 +139,7 @@ douze derniers mois civils précédant l'adhésion au dispositif de cessation
 d'activité. Il est calculé selon les règles définies dans le cadre du régime
 d'assurance chômage visé à la section 1 du chapitre Ier du titre V du livre III
 du code du travail. Il est revalorisé selon les règles définies aux deuxième et
-troisième alinéas de l'article R. 351-29-2 du code de la sécurité sociale. La
+troisième alinéas de l'article L. 161-23-1 du code de la sécurité sociale. La
 première revalorisation ne peut intervenir que dès lors que les rémunérations
 qui composent le salaire de référence sont intégralement afférentes à des
 périodes de plus de six mois à la date de revalorisation.
