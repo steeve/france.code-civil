@@ -54,4 +54,12 @@ l'article 878 ;
 7° Les accédants à la propriété titulaires d'un contrat de location-accession
 régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à
 la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la
-garantie des droits qu'ils tiennent de ce contrat.
+garantie des droits qu'ils tiennent de ce contrat ;
+
+8° L'Etat ou la commune, pour la garantie des créances nées de l'application de
+l'article L. 1331-30 du code de la santé publique, de l'article L. 123-3 du code
+de la construction et de l'habitation lorsqu'elles sont relatives à des mesures
+édictées sous peine d'interdiction d'habiter ou d'utiliser les locaux ou de
+fermeture définitive de l'établissement, ou des articles L. 129-4,
+
+L. 511-4 et L. 521-3-2 de ce dernier code.
