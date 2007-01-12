@@ -1,11 +1,7 @@
 Article R815-44
 ----
-En ce qui concerne les personnes mentionnées à l'article R. 815-6, les droits du
-bénéficiaire de l'allocation supplémentaire pourront être révisés par le préfet.
-
-En cas de modification du montant de la pension susceptible d'entraîner la
-modification du montant de l'allocation supplémentaire, le comptable supérieur
-assignataire de la pension peut suspendre provisoirement, pour tout ou partie,
-le paiement de l'allocation supplémentaire. Il doit alors saisir immédiatement
-le préfet qui a attribué l'allocation en vue de la révision des droits du
-bénéficiaire.
+Lorsque les arrérages versés aux bénéficiaires mentionnés à l'article R. 815-2
+sont sujets à répétition, le recouvrement en est effectué par voie d'état
+exécutoire, dans les conditions fixées par les articles 80 à 95 du décret n°
+62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+publique, sauf application des dispositions de l'article L. 815-13.

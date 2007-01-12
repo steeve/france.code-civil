@@ -1,7 +1,8 @@
 Article R815-52
 ----
-Le ministre chargé de la sécurité sociale et les préfets de région agissant pour
-le compte du fonds de solidarité vieillesse et du fonds spécial d'invalidité
-mentionné par l'article L815-3-1 du même code sont recevables à intervenir
-devant toutes les juridictions et en tout état de la procédure dans toutes les
-affaires relatives à l'application du présent chapitre.
+Dans le cas des assurés du régime de retraite des fonctionnaires de l'Etat
+mentionnés à l'article R. 815-2, l'agent judiciaire du Trésor public est seul
+qualifié, en application de l'article 38 de la loi n° 55-366 du 3 avril 1955,
+pour intervenir devant les juridictions compétentes dans toutes les affaires
+relatives à l'attribution, à la suspension, à la révision et à la récupération
+sur successions de l'allocation de solidarité aux personnes âgées.

@@ -1,17 +1,12 @@
 Article R815-35
 ----
-Sous réserve que la condition de ressources mentionnée à l'article L. 815-8 soit
-remplie, la date de l'entrée en jouissance de l'allocation supplémentaire est
-fixée, sans pouvoir être antérieure au premier jour du mois suivant la date de
-réception de la demande :
+Le montant de l'allocation de solidarité aux personnes âgées attribuée aux
+bénéficiaires mentionnés à l'article R. 815-2 est notifié par le préfet au
+comptable supérieur assignataire de la pension.
 
-1°) à la date d'entrée en jouissance de l'avantage de vieillesse de l'intéressé
-si celle-ci est postérieure à son soixante-cinquième anniversaire ;
+Cette notification fait apparaître la nature et le montant des ressources
+considérées pour l'attribution de l'allocation.
 
-2°) au premier jour du mois qui suit le soixante-cinquième anniversaire de
-l'intéressé si ce dernier jouissait déjà à cette date d'un avantage de
-vieillesse.
-
-En cas d'inaptitude au travail, les mêmes règles s'appliquent, compte tenu de la
-date à laquelle l'intéressé a été reconnu inapte au travail entre son
-soixantième et son soixante-cinquième anniversaire.
+L'allocation de solidarité aux personnes âgées s'ajoute au montant de la pension
+inscrite au grand-livre de la dette publique et suit les mêmes règles de
+paiement que celle-ci.

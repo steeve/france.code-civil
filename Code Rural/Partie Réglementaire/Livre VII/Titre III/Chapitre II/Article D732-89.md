@@ -10,9 +10,9 @@ est fixé à 1,6 fois le plafond fixé à l'alinéa ci-dessus.
 La pension de réversion est attribuée lorsque le conjoint de l'assuré décédé ou
 disparu ne dispose pas de ressources dépassant le montant fixé au premier ou au
 deuxième alinéa. Ces ressources sont appréciées selon les modalités et dans les
-conditions fixées par les articles R. 815-22 à R. 815-28 du code de la sécurité
-sociale et au deuxième alinéa de l'article R. 815-32 du même code. Toutefois,
-elles ne comprennent pas :
+conditions fixées par les articles R. 815-18 à R. 815-20, R. 815-22 à R. 815-25
+et au deuxième alinéa de l'article R. 815-29 du code de la sécurité sociale.
+Toutefois, elles ne comprennent pas :
 
 1° Les revenus d'activité et de remplacement de l'assuré décédé ;
 
@@ -35,8 +35,8 @@ date, qui sont alors comparées au montant annuel de ce plafond.
 La pension de réversion est révisable en cas de variation dans le montant des
 ressources, calculé en application des dispositions des troisième à huitième
 alinéas, dans les conditions et selon les modalités fixées aux articles R.
-815-24, R. 815-40 et R. 815-41 du code de la sécurité sociale. La date d'effet
-de la dernière révision ne peut être postérieure :
+815-20, R. 815-38, R. 815-39 et R. 815-42 du code de la sécurité sociale. La
+date d'effet de la dernière révision ne peut être postérieure :
 
 1° A un délai de trois mois après la date à laquelle le conjoint survivant est
 entré en jouissance de l'ensemble des avantages personnels de retraite de base

@@ -1,11 +1,9 @@
 Article R815-55
 ----
-Le recours ouvert en application des articles L. 815-14, R. 815-51 et R. 815-52
-aux titulaires d'une pension attribuée au titre du code des pensions civiles et
-militaires de retraite devant les juridictions prévues par les articles L. 142-1
-et suivants est strictement limité aux contestations concernant l'allocation
-supplémentaire et ne saurait en aucun cas être étendu aux contestations
-d'attribution ou à la qualification de la pension principale.
+Le ministre chargé de la sécurité sociale contrôle l'application des articles L.
+815-1 et suivants.
 
-La présente disposition s'applique également dans le cas des régimes de
-retraites mentionnés à l'article R. 815-15.
+Sous réserve des dispositions des articles R. 815-56 et R. 815-57, le contrôle
+sur place de l'exécution des articles L. 815-1 et suivants est assuré par
+l'inspection générale des affaires sociales et par les directions régionales et
+départementales des affaires sanitaires et sociales.
