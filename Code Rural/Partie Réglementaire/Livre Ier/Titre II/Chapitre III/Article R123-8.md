@@ -3,8 +3,8 @@ Article R123-8
 Au vu des résultats de la consultation prévue à l'article R. 123-6, compte tenu
 notamment des observations des propriétaires et du rapport du président de la
 commission communale ou intercommunale et des indications relatives aux
-servitudes et aux droits réels obtenus en application des articles R. 127-1 et
-R. 127-2 ou, dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
+servitudes et aux droits réels obtenus en application des articles D. 127-1 et
+D. 127-2 ou, dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
 en application des dispositions du décret du 18 novembre 1924 relatif à la tenue
 du livre foncier, la commission établit le projet de nouveau parcellaire et de
 programme de travaux connexes de l'aménagement foncier agricole et forestier.

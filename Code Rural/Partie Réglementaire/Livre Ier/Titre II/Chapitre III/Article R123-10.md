@@ -20,7 +20,7 @@ prise de possession des parcelles aménagées et les dates auxquelles cette pris
 de possession aura lieu compte tenu des natures de cultures et des habitudes
 locales et, le cas échéant, de la conformité du projet des travaux connexes du
 nouveau plan parcellaire correspondant aux prescriptions édictées dans l'arrêté
-préfectoral mentionné au III de l'article L. 121-14 ordonnant les opérations ;
+préfectoral mentionné au III de l'article L. 121-14 ;
 
 4° L'indication du ou des maîtres d'ouvrage des travaux connexes prévus à
 l'article L. 123-8, avec pour chacun d'eux l'assiette des ouvrages qui leur est
