@@ -9,8 +9,8 @@ développement administré dans les conditions prévues aux articles R. 511-3 et
 
 2. D'assurer la coordination, le suivi et l'évaluation de ce programme ;
 
-3. D'assurer la gestion des crédits provenant de l'agence de développement
-agricole et rural.
+3. D'assurer la gestion des crédits provenant du compte d'affectation spéciale
+"Développement agricole et rural".
 
 Elle peut contribuer au financement du programme.
 

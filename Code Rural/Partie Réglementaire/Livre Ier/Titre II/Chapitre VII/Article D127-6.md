@@ -1,18 +1,17 @@
 Article D127-6
 ----
 Les inscriptions d'hypothèques et privilèges prises avant la date de clôture des
-opérations ne conservent leur rang antérieur sur les immeubles attribués par la
-réorganisation foncière ou le remembrement que si elles sont renouvelées à la
+opérations ne conservent leur rang antérieur sur les immeubles attribués par les
+opérations mentionnées à l'article R. 127-1 que si elles sont renouvelées à la
 diligence des créanciers dans le délai de six mois à dater de la clôture des
 opérations.
 
 Ces dispositions s'appliquent à tous les immeubles grevés compris dans le
-périmètre de remembrement ou ayant fait l'objet d'échanges en cas de
-réorganisation foncière.
+périmètre de ces opérations.
 
 Le renouvellement, qui conserve l'hypothèque ou le privilège jusqu'à la date
-fixée par le créancier conformément à l'article 2154-1 du code civil, s'opère
-par le dépôt à la conservation des hypothèques de deux bordereaux signés et
+fixée par le créancier conformément à l'article 2435 du code civil, s'opère par
+le dépôt à la conservation des hypothèques de deux bordereaux signés et
 certifiés exactement collationnés contenant exclusivement, sous peine de rejet
 de la formalité :
 
@@ -32,5 +31,5 @@ L'exemplaire du bordereau conservé au bureau des hypothèques doit, sous peine 
 rejet, être établi sur formule réglementaire.
 
 La radiation des inscriptions antérieures en tant qu'elles grèvent les immeubles
-échangés ou remembrés est effectuée par le conservateur des hypothèques, au vu
-de ces bordereaux.
+échangés ou cédés est effectuée par le conservateur des hypothèques, au vu de
+ces bordereaux.
