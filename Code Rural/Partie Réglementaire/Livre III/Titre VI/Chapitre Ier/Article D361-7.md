@@ -1,58 +1,48 @@
 Article D361-7
 ----
-La Commission nationale des calamités agricoles créée par l'article L. 361-19
+Le Comité national de l'assurance en agriculture créé par l'article L. 361-19
 comprend :
 
 1° Un président et un vice-président, choisis parmi les conseillers d'Etat ou
 les conseillers maîtres à la Cour des comptes ;
 
-2° Le directeur des exploitations, de la politique sociale et de l'emploi au
-ministère de l'agriculture ou son représentant ;
+2° Un représentant du ministre chargé de l'agriculture ;
 
-3° Le directeur des affaires financières et économiques au ministère de
-l'agriculture ou son représentant ;
+3° Un représentant du ministre chargé de l'économie ;
 
-4° Le directeur du budget au ministère du budget ou son représentant ;
+4° Un représentant du ministre chargé du budget ;
 
-5° Le directeur général du Trésor et de la politique économique au ministère de
-l'économie ou son représentant ;
+5° Un membre du Conseil général de l'agriculture, de l'alimentation et des
+espaces ruraux ;
 
-6° Le directeur des assurances au ministère de l'économie ou son représentant ;
-
-7° Le directeur général des collectivités locales au ministère de l'intérieur ou
-son représentant ;
-
-8° Le directeur de la sécurité civile au ministère de l'intérieur ou son
+6° Le président de l'Autorité de contrôle des assurances et des mutuelles ou son
 représentant ;
 
-9° Un ingénieur général du génie rural, des eaux et des forêts ;
+7° Un représentant de l'Assemblée permanente des chambres d'agriculture ;
 
-10° Un commissaire contrôleur des assurances ;
-
-11° Le directeur général de la Caisse centrale de réassurance ou son
-représentant ;
-
-12° Le directeur général de la Caisse nationale de crédit agricole ou son
-représentant ;
-
-13° Une personnalité nommée sur proposition de l'assemblée permanente des
-chambres d'agriculture ;
-
-14° Un représentant de chacune des organisations syndicales d'exploitants
+8° Un représentant de chacune des organisations syndicales d'exploitants
 agricoles à vocation générale habilitées en application de l'article 3 du décret
-n° 90-187 du 28 février 1990 ;
+n° 2000-139 du 16 février 2000 relatif à la représentation des organisations
+syndicales d'exploitants agricoles au sein de certains organismes ou commissions
+;
 
-15° Une personnalité nommée sur proposition de la Fédération nationale des
-centres d'études techniques agricoles ;
+9° Trois représentants des entreprises d'assurance distributrices de contrats
+d'assurances agricoles bénéficiant de l'aide prévue à l'article L. 361-8 du code
+rural, proposés par la Fédération française des sociétés d'assurance ;
 
-16° Une personnalité nommée sur proposition de la Confédération nationale de la
-mutualité, de la coopération et du crédit agricole ;
+10° Un représentant de la Fédération française des sociétés d'assurance ;
 
-17° Une personnalité nommée sur proposition de l'Union des caisses centrales des
-mutuelles agricoles ;
+11° Un représentant désigné par l'Association des réassureurs français ;
 
-18° Une personnalité nommée sur proposition de la Fédération française des
-sociétés d'assurances ;
+12° Deux représentants de la Confédération nationale de la mutualité, de la
+coopération et du crédit agricole ;
 
-19° Une personnalité nommée sur proposition de l'assemblée plénière des sociétés
-d'assurances contre l'incendie et les risques divers.
+13° Un représentant de l'organisme chargé de la gestion comptable et financière
+du Fonds national de garantie des calamités agricoles ;
+
+14° Un représentant des banques habilitées à distribuer des prêts bonifiés pour
+calamités agricoles, proposé par l'Association française des établissements de
+crédit et des entreprises d'investissement. A la demande de son président ou des
+représentants des ministres, le Comité national de l'assurance en agriculture
+peut faire appel en tant que de besoin à tout expert ou personne qualifiée non
+membre du comité.
