@@ -7,6 +7,9 @@ de santé publique.
 Ils assurent le contrôle de cette politique et les missions permanentes et
 temporaires d'inspection.
 
+Ils participent au contrôle de l'application des dispositions du présent code et
+des règlements pris pour son application.
+
 Ils contribuent à l'organisation du système sanitaire et à la promotion de la
 santé.
 
