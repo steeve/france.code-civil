@@ -16,11 +16,17 @@ dans les périmètres respectifs des ports autonomes du Havre, de Bordeaux et de
 Dunkerque ;
 
 d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat ;
 
 e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille
 dans le périmètre de compétence de l'établissement public d'aménagement
-Euroméditerranée.
+Euroméditerranée ;
 
 f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de
-l'Etablissement public d'aménagement de Seine-Arche à Nanterre.
+l'Etablissement public d'aménagement de Seine-Arche à Nanterre ;
+
+g) A l'aménagement et au développement des aérodromes qui relèvent de la société
+Aéroports de Paris ;
+
+h) Aux opérations d'aménagement et de rénovation urbaine de Saint-Etienne, dans
+le périmètre défini par décret en Conseil d'Etat.
