@@ -3,18 +3,14 @@ Article R611-63
 Le médecin-conseil national anime, contrôle et coordonne les services médicaux
 des caisses de base.
 
-Le service régional du contrôle médical de chaque caisse de base est placé sous
-l'autorité d'un médecin-conseil régional assisté, le cas échéant, d'un
-médecin-conseil régional adjoint.
+Le médecin-conseil national est nommé par le directeur général de la caisse
+nationale après avis du-conseil d'administration.
 
-Dans les caisses de base comportant moins de 60 000 ressortissants, le service
-du contrôle médical peut être placé sous l'autorité d'un médecin-conseil
-régional adjoint ou d'un médecin-conseil chef de service.
+Il est assisté au plus de deux médecins-conseils nationaux adjoints et
+éventuellement de praticiens-conseils auxquels il peut confier certaines
+attributions d'ordre technique.
 
-Le médecin-conseil régional, le médecin-conseil régional adjoint et les
-praticiens-conseils sont engagés par les caisses de base dans les conditions
-fixées par les dispositions de l'article L. 613-13.
-
-Il peut être fait appel dans les conditions définies par la caisse nationale au
-concours occasionnel ou permanent de praticiens qui ne sont pas soumis à la
-convention collective nationale des praticiens-conseils.
+Les médecins-conseils nationaux adjoints et les praticiens-conseils du service
+médical national sont nommés par le directeur général de la caisse nationale,
+sur proposition du médecin-conseil national et après avis du conseil
+d'administration.

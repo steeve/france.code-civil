@@ -52,8 +52,10 @@ d'empêchement du directeur ou du directeur adjoint ou à défaut de directeur
 adjoint, les fonctions de directeur sont exercées par un agent de l'organisme
 désigné dans les conditions prévues au 7° de l'article R. 121-1.
 
-Les dispositions du présent article ont le même champ d'application à
-l'exception des caisses visées aux articles L. 183-1 et L. 211-1 que les
-dispositions de l'article R. 121-2 ; toutefois elles sont applicables, à
-l'exception de la deuxième phrase de l'avant-dernier alinéa et du dernier
-alinéa, à la Caisse des Français de l'étranger.
+Les dispositions du présent article sont applicables à tous les organismes à
+l'exception de ceux ayant le caractère d'établissement public, de la Caisse
+d'assurance vieillesse, invalidité et maladie des cultes, des caisses visées aux
+articles L. 183-1 et L. 211-1 et, en ce qui concerne la deuxième phrase du
+treizième alinéa et le quatorzième alinéa, de la Caisse des Français à
+l'étranger. Le deuxième alinéa du présent article n'est pas applicable aux
+praticiens-conseils du régime social des indépendants.

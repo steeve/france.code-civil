@@ -15,9 +15,9 @@ au conseil d'administration.
 
 En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
 comptable, ses fonctions sont exercées par le fondé de pouvoir jusqu'à la
-désignation par le conseil d'administration d'un agent comptable.
+nomination d'un agent comptable.
 
-Les dispositions du présent article ont le même champ d'application à
-l'exception des caisses visées aux articles L. 183-1 et L. 211-1 que les
-dispositions de l'article R. 121-2 ; toutefois, elles sont applicables à la
-Caisse des Français de l'étranger.
+Les dispositions du présent article sont applicables à tous les organismes à
+l'exception de ceux ayant le caractère d'établissement public, de la Caisse
+d'assurance vieillesse, invalidité et maladie des cultes, du régime social des
+indépendants et des caisses visées aux articles L. 183-1 et L. 211-1.
