@@ -1,8 +1,8 @@
 Article D4111-6
 ----
-Les candidats médecins à l'autorisation ministérielle d'exercice, classés en
-rang utile aux épreuves de vérification des connaissances, sont recrutés à temps
-plein pour effectuer les fonctions hospitalières d'une durée de trois ans en
-qualité d'assistant généraliste associé ou, selon le cas, d'assistant
-spécialiste associé, dans des services agréés pour recevoir des internes,
-conformément aux dispositions réglementaires en vigueur.
+Les candidats à l'autorisation ministérielle d'exercice de la profession de
+médecin, lauréats des épreuves de vérification des connaissances et de maîtrise
+de la langue française, sont recrutés à temps plein dans un service ou organisme
+agréé pour la formation des internes, dans les conditions déterminées aux
+articles R. 6152-542 à R. 6152-544, pour exercer des fonctions d'une durée de
+trois ans.
