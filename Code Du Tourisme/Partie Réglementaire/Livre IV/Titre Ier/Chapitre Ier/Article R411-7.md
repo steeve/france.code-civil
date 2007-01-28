@@ -1,40 +1,9 @@
 Article R411-7
 ----
-Le conseil d'administration règle les affaires de l'agence. Ses délibérations
-portent sur les objets suivants :
-
-1° Le plan d'organisation de l'agence ;
-
-2° Le programme et le rapport annuels d'activités ;
-
-3° L'état prévisionnel des recettes et des dépenses ainsi que les décisions
-modificatives ;
-
-4° Le compte financier ;
-
-5° L'affectation des résultats de l'exercice ;
-
-6° Les conditions générales de cession et de remboursement des chèques-vacances
-;
-
-7° Les conditions générales de passation et d'exécution des contrats et
-conventions ;
-
-8° Les conditions générales d'attribution des aides financières mentionnées aux
-articles L. 411-13 et R. 411-13 ;
-
-9° L'acceptation ou le refus des dons et legs ;
-
-10° Les emprunts ;
-
-11° La prise, l'extension ou la cession de participations ;
-
-12° Les actions en justice ;
-
-13° Les projets d'achat, de vente, de bail et d'acquisition d'immeubles, de
-constitution de nantissements et d'hypothèques ;
-
-14° Les conditions générales de recrutement, d'emploi et de rémunération du
-personnel ;
-
-15° Toute autre question se rapportant à la mission de l'agence.
+L'utilisation des chèques-vacances par des personnes autres que les
+bénéficiaires, leur emploi pour d'autres dépenses que celles définies à
+l'article L. 411-2, leur acceptation par des prestataires qui n'ont pas signé la
+convention prévue à l'article R. 411-1 ou dont la convention a fait l'objet
+d'une résiliation ainsi que toute autre infraction aux dispositions du deuxième
+alinéa de l'article L. 411-2 et des articles R. 411-1, R. 411-2 et R. 411-3 sont
+punis de la peine d'amende prévue par le 5° de l'article 131-13 du code pénal.

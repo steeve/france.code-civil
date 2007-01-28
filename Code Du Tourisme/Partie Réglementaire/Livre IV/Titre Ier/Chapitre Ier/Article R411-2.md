@@ -1,9 +1,9 @@
 Article R411-2
 ----
-La durée du mandat des membres du conseil d'administration est de trois ans.
-
-Si un membre cesse d'exercer ses fonctions pour quelque cause que ce soit, il
-est remplacé dans un délai de trois mois pour la période restant à courir
-jusqu'à l'expiration de ce mandat.
-
-Le mandat des membres sortants peut être renouvelé.
+Si le prestataire de services cesse de remplir les conditions auxquelles était
+soumise la signature de la convention prévue à l'article précédent, ou s'il a
+manqué aux engagements souscrits dans cette convention, ou s'il a commis des
+manquements à l'égard des détenteurs de chèques-vacances, notamment en ce qui
+concerne la qualité ou la quantité des services offerts ou fournis, l'agence
+peut résilier la convention, après avoir donné au prestataire la possibilité de
+formuler des observations.

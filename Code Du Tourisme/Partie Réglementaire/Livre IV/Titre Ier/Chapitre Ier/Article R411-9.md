@@ -1,30 +1,19 @@
 Article R411-9
 ----
-Le directeur général de l'agence est nommé par décret sur le rapport du ministre
-chargé de l'économie et des finances et du ministre chargé du tourisme.
+Pour l'accomplissement de ses missions, l'agence :
 
-Il dirige l'agence, fixe l'organisation de l'ensemble des services et en assure
-le fonctionnement, prend toutes les décisions relatives au personnel.
+- produit, commercialise, rembourse, directement ou indirectement, les
+chèques-vacances ;
 
-Il représente l'agence en justice et dans tous les actes de la vie civile.
+- attribue des aides contribuant aux politiques sociales du tourisme et des
+loisirs ;
 
-Il est ordonnateur des recettes et des dépenses de l'agence.
+- coopère avec l'Etat, les collectivités territoriales, les organismes,
+associations et fondations poursuivant des objectifs répondant à sa vocation.
+Elle peut apporter un concours financier au profit de l'un quelconque d'entre
+eux, en particulier au profit de l'Etat dans les conditions prévues par
+l'article 17 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois
+de finances, pour des actions relatives aux politiques sociales du tourisme et
+des loisirs ;
 
-Il prépare les affaires soumises aux délibérations du conseil d'administration
-et assure l'exécution de celles-ci.
-
-Il a qualité, notamment, pour :
-
-- élaborer le programme et le rapport annuels d'activité de l'agence ;
-
-- préparer l'état annuel de prévision des recettes et des dépenses ainsi que les
-décisions modificatives et présenter le compte financier ;
-
-- passer au nom de l'agence tout acte, contrat, accord, convention ou marché ;
-
-- procéder, sous réserve de l'autorisation prévue à l'article R. 411-7
-ci-dessus, à tout achat, vente ou location d'immeubles, contracter tous
-emprunts, constituer nantissements ou hypothèques ;
-
-- gérer les fonds disponibles, procéder à toute acquisition, aliénation et
-transfert de valeurs.
+- exerce et développe toute activité qui se rattache à ses missions statutaires.

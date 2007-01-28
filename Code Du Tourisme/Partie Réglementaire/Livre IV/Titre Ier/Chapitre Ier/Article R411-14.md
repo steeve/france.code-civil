@@ -1,8 +1,27 @@
 Article R411-14
 ----
-Les fonds de l'agence sont déposés à la Caisse des dépôts et consignations.
+Le conseil d'administration se réunit, sur convocation de son président, aussi
+souvent que la bonne marche de l'établissement l'exige et au moins trois fois
+par an. La convocation est de droit si elle est demandée par l'un des ministres
+de tutelle ou par la moitié au moins des membres sur un ordre du jour déterminé.
 
-Les conditions de rémunération et de gestion des fonds mentionnés à l'alinéa
-précédent sont fixées par une convention passée entre l'agence et la Caisse des
-dépôts et consignations, après avoir été approuvée conjointement par le ministre
-chargé de l'économie et des finances et le ministre chargé du tourisme.
+Le conseil d'administration ne peut valablement délibérer que si la moitié au
+moins de ses membres sont présents. Si le quorum n'est pas atteint, le conseil
+est à nouveau convoqué sur le même ordre du jour dans un délai de quinze jours.
+Il délibère alors valablement quel que soit le nombre des membres présents.
+
+Tout administrateur peut donner mandat à un autre membre du conseil
+d'administration pour voter en ses lieu et place. Chaque administrateur ne peut
+détenir qu'un seul mandat. Les délibérations sont prises à la majorité des voix
+des membres présents ou représentés. En cas de partage égal des voix, la voix du
+président de séance est prépondérante.
+
+Il est établi un procès-verbal de chaque séance du conseil d'administration,
+signé par le président de séance et par le secrétaire. Le procès-verbal est
+adressé sans délai aux ministres exerçant la tutelle de l'établissement.
+
+Le conseil d'administration établit son règlement intérieur.
+
+Le directeur général, le membre du contrôle général économique et financier et
+l'agent comptable assistent aux séances du conseil d'administration avec voix
+consultative.

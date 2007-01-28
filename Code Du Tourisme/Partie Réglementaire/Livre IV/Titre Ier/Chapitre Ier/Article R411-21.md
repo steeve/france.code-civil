@@ -1,6 +1,6 @@
 Article R411-21
 ----
-Toute cessation d'activité d'un prestataire de services, ou toute cessation de
-celles de ses activités qui ont fait l'objet d'une convention doit être déclarée
-sans délai à l'agence. A défaut, le prestataire s'expose aux sanctions prévues
-par l'article R. 411-26.
+Il peut être institué dans l'établissement des régies de recettes et des régies
+d'avances dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992
+modifié relatif aux régies de recettes et aux régies d'avances des organismes
+publics.

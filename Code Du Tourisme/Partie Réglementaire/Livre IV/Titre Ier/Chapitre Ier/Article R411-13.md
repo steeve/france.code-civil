@@ -1,7 +1,6 @@
 Article R411-13
 ----
-Une fraction du résultat net comptable de l'Agence nationale pour les
-chèques-vacances est affectée par l'agence au versement des subventions
-représentatives des aides définies à l'article L. 411-14, selon une proportion
-fixée chaque année par un arrêté conjoint du ministre chargé de l'économie et
-des finances et du ministre chargé du tourisme.
+Les membres du conseil d'administration exercent leur fonction à titre gratuit.
+Ils bénéficient du remboursement des frais de déplacement et de séjour dans les
+conditions prévues par la réglementation applicable aux fonctionnaires civils de
+l'Etat.

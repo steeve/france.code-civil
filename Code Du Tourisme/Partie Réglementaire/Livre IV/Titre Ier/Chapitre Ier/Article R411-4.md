@@ -1,9 +1,7 @@
 Article R411-4
 ----
-Le président et les deux vice-présidents reçoivent une indemnité de fonctions
-dont le montant est fixé par le ministre chargé du budget et par le ministre
-chargé du tourisme.
+Les mentions portées sur les chèques-vacances, quel qu'en soit le support, sont
+fixées par arrêté conjoint du ministre chargé de l'économie et des finances et
+du ministre chargé du tourisme.
 
-Les membres du conseil d'administration, dont les fonctions sont gratuites,
-bénéficient du remboursement des frais de déplacement et de séjour effectivement
-supportés par eux dans l'exercice de leurs fonctions.
+Les chèques-vacances peuvent être émis sous forme dématérialisée.
