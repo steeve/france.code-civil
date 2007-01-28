@@ -1,13 +1,11 @@
 Article D4221-6
 ----
-Les candidats classés en rang utile aux épreuves de vérification des
-connaissances, et justifiant de fonctions hospitalières antérieures en qualité
-d'attaché associé, de praticien attaché associé, d'assistant associé ou de
-fonctions universitaires en qualité de chef de clinique associé des universités
-ou d'assistant associé des universités, à condition d'avoir été chargés de
-fonctions hospitalières dans le même temps, peuvent être dispensés par le
-Conseil supérieur de la pharmacie, en tout ou partie, de l'exercice des
-fonctions prévues à l'article D. 4221-5.
+Les candidats lauréats des épreuves de vérification des connaissances et de
+maîtrise de la langue française justifiant de fonctions hospitalières
+antérieures en qualité d'attaché associé, de praticien attaché associé ou
+d'assistant associé peuvent être dispensés, après avis du Conseil supérieur de
+la pharmacie, en tout ou partie, de l'exercice des fonctions prévues à l'article
+D. 4221-5.
 
 Les candidats doivent justifier de trois ans de fonctions hospitalières dans
 l'un des statuts susmentionnés à la date de dépôt du dossier devant le Conseil
