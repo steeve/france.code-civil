@@ -1,9 +1,9 @@
 Article L4132-1
 ----
-Le Conseil national de l'ordre des médecins comprend quarante membres, à savoir
-:
+Le Conseil national de l'ordre des médecins comprend quarante et un membres, à
+savoir :
 
-1° Trente-deux membres élus pour six ans par les conseils départementaux.
+1° Trente-trois membres élus pour six ans par les conseils départementaux.
 
 Ces membres sont répartis comme suit :
 

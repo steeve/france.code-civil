@@ -22,9 +22,10 @@ région, les représentants de l'Etat mentionnés aux articles L. 4132-9, L. 414
 et L. 4152-8 ne siègent pas dans cette instance.
 
 IV. - Les décisions de la chambre disciplinaire de première instance sont
-rendues en formation collégiale. Elles peuvent être rendues en formation
-restreinte compte tenu de l'objet de la saisine ou du litige ou de la nature des
-questions à examiner ou à juger. Elles doivent être motivées.
+rendues en formation collégiale, sous réserve des exceptions, précisées par
+décret en Conseil d'Etat, tenant à l'objet de la saisine ou du litige ou à la
+nature des questions à examiner ou à juger. Elles peuvent être rendues en
+formation restreinte. Elles doivent être motivées.
 
 V. - En cas d'interruption durable de son fonctionnement ou de difficultés
 graves rendant ce fonctionnement impossible dans des conditions normales, la

@@ -1,7 +1,9 @@
 Article L4123-2
 ----
 Il est constitué auprès de chaque conseil départemental une commission de
-conciliation composée d'au moins trois de ses membres.
+conciliation composée d'au moins trois de ses membres. La conciliation peut être
+réalisée par un ou plusieurs des membres de cette commission, selon des
+modalités fixées par décret en Conseil d'Etat.
 
 Lorsqu'une plainte est portée devant le conseil départemental, son président en
 accuse réception à l'auteur, en informe le médecin, le chirurgien-dentiste ou la

@@ -14,13 +14,13 @@ donner des soins aux assurés sociaux ;
 
 4°) dans le cas d'abus d'honoraires, le remboursement à l'assuré du trop-perçu
 ou le reversement aux organismes de sécurité sociale du trop-remboursé, même
-s'il n'est prononcé aucune des sanctions prévues ci-dessus ;
+s'il n'est prononcé aucune des sanctions prévues ci-dessus.
 
 Les sanctions prévues aux 3° et 4° ci-dessus peuvent faire l'objet d'une
 publication.
 
 Si, pour des faits commis dans un délai de cinq ans à compter de la notification
-au médecin d'une sanction assortie du sursis et devenue définitive, la
+au praticien d'une sanction assortie du sursis et devenue définitive, la
 juridiction prononce la sanction mentionnée au 3°, elle peut décider que la
 sanction pour la partie assortie du sursis devient exécutoire sans préjudice de
 l'application de la nouvelle sanction.

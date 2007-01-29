@@ -1,9 +1,10 @@
 Article L4323-5
 ----
 L'usage sans droit de la qualité de masseur-kinésithérapeute, de gymnaste
-médical, de masseur, ou de pédicure-podologue ou d'un diplôme, certificat ou
-autre titre légalement requis pour l'exercice de ces professions est puni comme
-le délit d'usurpation de titre prévu à l'article 433-17 du code pénal.
+médical, de masseur, de pédicure-podologue, de pédicure, de podologue ou d'un
+diplôme, certificat ou autre titre légalement requis pour l'exercice de ces
+professions est puni comme le délit d'usurpation de titre prévu à l'article
+433-17 du code pénal.
 
 Les personnes morales peuvent être déclarées pénalement responsables de ce
 délit, dans les conditions prévues par l'article 121-2 du code pénal. Elles

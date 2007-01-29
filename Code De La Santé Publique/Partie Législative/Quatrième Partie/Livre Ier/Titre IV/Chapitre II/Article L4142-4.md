@@ -8,6 +8,10 @@ les membres et anciens membres des conseils de l'ordre.
 
 La chambre siège en formation d'au moins cinq membres.
 
+Dans la région d'Ile-de-France, la chambre disciplinaire de première instance de
+l'ordre des chirurgiens-dentistes comprend, outre son président, douze membres
+titulaires et douze membres suppléants.
+
 La chambre disciplinaire de première instance de l'ordre des
 chirurgiens-dentistes de la Réunion-Mayotte comprend, outre son président, deux
 membres titulaires et deux membres suppléants.

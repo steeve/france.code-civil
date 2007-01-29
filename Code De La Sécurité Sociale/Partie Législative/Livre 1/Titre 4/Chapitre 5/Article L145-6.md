@@ -2,10 +2,10 @@ Article L145-6
 ----
 La section des assurances sociales de la chambre disciplinaire de première
 instance de l'ordre est une juridiction. Elle est présidée par un membre du
-corps des tribunaux administratifs et des cours administratives d'appel en
-activité nommé par le vice-président du Conseil d'Etat au vu des propositions du
-président de la cour administrative d'appel dans le ressort duquel se trouve le
-siège du conseil régional ou interrégional. Le cas échéant, plusieurs présidents
+corps des tribunaux administratifs et des cours administratives d'appel nommé
+par le vice-président du Conseil d'Etat au vu des propositions du président de
+la cour administrative d'appel dans le ressort duquel se trouve le siège du
+conseil régional ou interrégional. Le cas échéant, plusieurs présidents
 suppléants peuvent être nommés dans les mêmes conditions.
 
 Elle comprend un nombre égal d'assesseurs, membres, selon le cas, de l'ordre des

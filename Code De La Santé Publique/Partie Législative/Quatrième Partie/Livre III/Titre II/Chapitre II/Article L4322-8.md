@@ -9,9 +9,9 @@ Le Conseil national de l'ordre des pédicures-podologues comporte, en son sein,
 une chambre disciplinaire nationale présidée par un magistrat de la juridiction
 administrative.
 
-La chambre disciplinaire nationale comprend des membres élus par le conseil
-national, pour moitié parmi les membres du conseil national, et pour moitié
-parmi les pédicures-podologues inscrits au tableau.
+La chambre disciplinaire nationale comprend des membres élus, en nombre égal,
+par le conseil national, parmi, d'une part, les membres de ce conseil, et,
+d'autre part, les membres et anciens membres des conseils de l'ordre.
 
 Cette chambre est saisie en appel des décisions des chambres disciplinaires de
 première instance.

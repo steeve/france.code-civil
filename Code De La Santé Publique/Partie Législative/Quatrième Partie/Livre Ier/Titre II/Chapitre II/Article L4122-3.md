@@ -24,9 +24,10 @@ connaissance des faits de la cause à raison de l'exercice d'autres fonctions
 ordinales.
 
 IV. - Les décisions de la chambre disciplinaire nationale sont rendues en
-formation collégiale. Elles peuvent être rendues en formation restreinte compte
-tenu de l'objet de la saisine ou du litige ou de la nature des questions à
-examiner ou à juger. Elles doivent être motivées.
+formation collégiale, sous réserve des exceptions, précisées par décret en
+Conseil d'Etat, tenant à l'objet de la saisine ou du litige ou à la nature des
+questions à examiner ou à juger. Elles peuvent être rendues en formation
+restreinte. Elles doivent être motivées.
 
 V. - Peuvent faire appel, outre l'auteur de la plainte et le professionnel
 sanctionné, le ministre chargé de la santé, le représentant de l'Etat dans le

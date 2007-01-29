@@ -8,10 +8,7 @@ adjoints peuvent exercer leurs fonctions à temps partiel dans deux laboratoires
 situés soit dans une zone géographique constituée de trois départements
 limitrophes entre eux, soit exclusivement dans la région Ile-de-France.
 
-Ils ne peuvent exercer une autre activité médicale, pharmaceutique ou
-vétérinaire, à l'exception des actes médicaux et prescriptions pharmacologiques
-directement liés à l'exercice de la biologie et des prescriptions thérapeutiques
-à titre gratuit.
+Ils ne peuvent exercer une autre activité pharmaceutique ou vétérinaire.
 
 Ils peuvent cependant exercer des fonctions d'enseignement dans le ressort de
 l'académie où est exploité le laboratoire, ou dans un rayon de cent kilomètres

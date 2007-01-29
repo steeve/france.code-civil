@@ -1,11 +1,11 @@
 Article L4371-4
 ----
-Peuvent être autorisés à faire usage professionnel du titre de diététicien les
-ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen qui, sans posséder l'un des
-diplômes, certificats ou titres mentionnés à l'article L. 4371-2, ont suivi avec
-succès un cycle d'études les préparant à l'exercice de la profession et
-répondant aux exigences fixées par voie réglementaire, et qui sont titulaires :
+Peuvent être autorisés à exercer la profession de diététicien, sans posséder le
+diplôme mentionné à l'article L. 4371-2, les ressortissants d'un Etat membre de
+la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont suivi avec succès un cycle d'études les préparant à
+l'exercice de la profession et répondant aux exigences fixées par voie
+réglementaire, et qui sont titulaires :
 
 1° D'un ou plusieurs diplômes, certificats ou autres titres permettant
 l'exercice de la profession dans un Etat membre ou un Etat partie qui réglemente

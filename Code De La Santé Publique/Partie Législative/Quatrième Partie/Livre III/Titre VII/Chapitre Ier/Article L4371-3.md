@@ -1,17 +1,8 @@
 Article L4371-3
 ----
-Peuvent être autorisées à faire usage du titre de diététicien les personnes qui
-satisfont à l'une des deux conditions :
+Le diplôme mentionné à l'article L. 4371-2 est le diplôme d'Etat français de
+diététicien.
 
-- occuper un emploi permanent de diététicien en qualité de fonctionnaire ou
-d'agent public à la date d'entrée en vigueur de la loi n° 86-76 du 17 janvier
-1986 portant diverses dispositions d'ordre social ;
-
-- faire l'objet, sur leur demande, d'une décision administrative reconnaissant
-qu'elles remplissent, à la date d'entrée en vigueur de la loi n° 86-76 du 17
-janvier 1986 précitée, les conditions de formation ou d'expérience
-professionnelle leur conférant une qualification analogue à celle des titulaires
-des documents mentionnés à l'article L. 4371-1.
-
-Les conditions de formation ou d'expérience professionnelle à remplir et les
-modalités de la décision administrative sont déterminées par décret.
+Les modalités de la formation, ses conditions d'accès, ses modalités
+d'évaluation ainsi que les conditions de délivrance du diplôme d'Etat sont
+fixées par voie réglementaire.
