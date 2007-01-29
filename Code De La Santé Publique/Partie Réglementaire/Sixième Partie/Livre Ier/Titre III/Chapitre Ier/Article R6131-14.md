@@ -9,6 +9,8 @@ plus de la moitié des membres est présente ;
 du tiers des membres est présent, sans toutefois que ce nombre puisse être
 inférieur à vingt et un.
 
+Le quorum est apprécié en début de séance.
+
 Lorsque ce quorum n'a pas été atteint, une deuxième convocation portant sur le
 même ordre du jour est faite. A défaut de dispositions contraires dans le
 règlement intérieur, cette seconde convocation intervient à huit jours

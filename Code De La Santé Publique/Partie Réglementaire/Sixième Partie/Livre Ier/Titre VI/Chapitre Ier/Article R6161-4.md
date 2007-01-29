@@ -1,6 +1,6 @@
 Article R6161-4
 ----
-Dans l'attente des dispositions réglementaires mentionnées à l'article L.
-6161-6, les modalités d'admission à la participation au service public
-hospitalier d'un établissement de santé privé restent régies par les
-dispositions des articles R. 715-6-3 à R. 715-6-9.
+La demande d'admission d'un établissement de santé privé à participer à
+l'exécution du service public hospitalier concerne l'ensemble des activités de
+soins et les équipements matériels lourds mentionnés aux articles R. 6122-25 et
+R. 6122-26 pour lesquels l'établissement est autorisé.

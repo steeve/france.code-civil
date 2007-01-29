@@ -15,7 +15,10 @@ Mayotte et le médecin-conseil représentant le service médical de la caisse de
 sécurité sociale de Mayotte ou leurs représentants peuvent assister aux réunions
 de la conférence et participer aux débats" ;
 
-3° Au premier alinéa de l'article R. 6131-11, les mots : "schéma régional
+3° A l'article R. 6131-9, les mots : "à l'article R. 6131-5" sont remplacés par
+les mots : "à l'article R. 6413-5".
+
+4° Au premier alinéa de l'article R. 6131-11, les mots : "schéma régional
 d'organisation sanitaire" sont remplacés par les mots :
 
 "schéma d'organisation sanitaire applicable à Mayotte".

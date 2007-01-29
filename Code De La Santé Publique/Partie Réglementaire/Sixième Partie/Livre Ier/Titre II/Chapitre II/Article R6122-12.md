@@ -37,8 +37,8 @@ service public hospitalier, désignés sur proposition des conférences des
 présidents de commission médicale et de conférence médicale des établissements
 de santé privés ;
 
-9° Quatre représentants des syndicats médicaux les plus représentatifs au plan
-régional, dont deux au titre des syndicats de médecins hospitaliers publics ;
+9° Six représentants des syndicats médicaux représentés dans la région, dont
+quatre au titre des syndicats de médecins hospitaliers publics ;
 
 10° Un médecin libéral exerçant en cabinet dans la région désigné sur
 proposition de l'union régionale des médecins libéraux ;

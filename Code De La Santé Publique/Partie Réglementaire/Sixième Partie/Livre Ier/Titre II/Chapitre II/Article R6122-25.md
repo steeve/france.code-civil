@@ -1,6 +1,6 @@
 Article R6122-25
 ----
-Sont soumis à l'autorisation prévue à l'article L. 6122-1 les activités de
+Sont soumises à l'autorisation prévue à l'article L. 6122-1 les activités de
 soins, y compris lorsqu'elles sont exercées sous la forme d'alternatives à
 l'hospitalisation, énumérées ci-après :
 
@@ -18,7 +18,7 @@ l'hospitalisation, énumérées ci-après :
 
 7° Soins de longue durée ;
 
-8° Transplantations d'organes et greffes de moelle osseuse ;
+8° Greffes d'organes et greffes de cellules hématopoïétiques ;
 
 9° Traitement des grands brûlés ;
 

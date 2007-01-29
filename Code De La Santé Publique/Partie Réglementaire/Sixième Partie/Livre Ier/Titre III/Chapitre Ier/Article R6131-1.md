@@ -14,7 +14,10 @@ médical désigné par la commission ou la conférence ;
 l'assistance publique de Marseille : outre les deux membres mentionnés au 1°,
 deux à huit membres supplémentaires désignés par le directeur de l'agence
 régionale de l'hospitalisation sur proposition conjointe du directeur et de la
-commission médicale de l'établissement.
+commission médicale de l'établissement. Toutefois, lorsque les établissements de
+santé dépendant de ces organismes sont situés hors de la région où se trouve le
+siège de ceux-ci, ils sont représentés à la conférence comme les établissements
+mentionnés au 1°.
 
 Cependant, lorsque plus de vingt établissements sont situés dans le ressort
 territorial de la conférence, le nombre des représentants des établissements de
@@ -24,3 +27,14 @@ représentation des différentes catégories d'établissements publics de santé
 mentionnées à l'article L. 6141-2, et d'établissements de santé privés et tient
 compte des activités de soins relevant du schéma régional d'organisation
 sanitaire exercées dans le ressort de la conférence.
+
+Dans la région où ils ont leur siège, dans les conférences sanitaires des
+territoires de santé où ils ne sont pas représentés en application du 1° ou du
+2°, les centres hospitaliers régionaux mentionnés au deuxième alinéa de
+l'article L. 6141-2 sont représentés par leur directeur général ou son
+représentant et par le président de la commission médicale d'établissement ou, à
+défaut, par un membre du personnel médical désigné par cette commission.
+
+Lorsqu'un des hôpitaux des armées mentionnés à l'article L. 6147-7 est situé sur
+le territoire de la conférence sanitaire, il est représenté à celle-ci par le
+médecin-chef ou son représentant.

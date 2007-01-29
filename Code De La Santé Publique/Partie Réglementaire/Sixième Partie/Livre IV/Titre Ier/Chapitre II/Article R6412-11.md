@@ -24,8 +24,8 @@ les plus représentatives à Mayotte ;
 
 9° Le président de la commission médicale d'un établissement public de santé ;
 
-10° Deux représentants des syndicats médicaux les plus représentatifs à Mayotte,
-dont un au titre des syndicats de médecins hospitaliers publics ;
+10° Deux représentants des syndicats médicaux représentés à Mayotte, dont un au
+titre des syndicats de médecins hospitaliers publics ;
 
 11° Un médecin exerçant à titre libéral à Mayotte désigné par les médecins
 exerçant à titre libéral à Mayotte ;

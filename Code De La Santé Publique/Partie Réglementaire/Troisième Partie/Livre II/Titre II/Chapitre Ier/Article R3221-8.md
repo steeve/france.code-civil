@@ -27,33 +27,40 @@ privée, dont au moins un représentant par organisation comptant des
 établissements autorisés au titre de l'activité de soins de psychiatrie dans la
 région ;
 
-8° Deux représentants des organisations les plus représentatives des
+8° Trois à six représentants de commission médicale d'établissement public de
+santé et de conférence médicale d'établissement de santé privé, autorisés à
+exercer dans la région l'activité de soins de psychiatrie mentionnée au 4° de
+l'article R. 6122-25 ;
+
+9° Deux représentants des organisations les plus représentatives des
 institutions sociales et médico-sociales ;
 
-9° Trois à six psychiatres exerçant dans des secteurs psychiatriques mentionnés
+10° Trois à six psychiatres exerçant dans des secteurs psychiatriques mentionnés
 à l'article L. 3221-1 ;
 
-10° Un à trois médecins libéraux ou exerçant dans des institutions privées et
+11° Un à trois médecins libéraux ou exerçant dans des institutions privées et
 participant à la lutte contre les maladies mentales ;
 
-11° Trois à six représentants des professionnels de santé mentale non médicaux
-travaillant dans des établissements participant à la lutte contre les maladies
-mentales mentionnés à l'article L. 3221-1 ;
+12° Trois à six représentants des professionnels non médicaux travaillant dans
+des établissements participant à la lutte contre les maladies mentales
+mentionnés à l'article L. 3221-1 ;
 
-12° Un à trois représentants des professionnels travaillant dans les
+13° Un à trois représentants des professionnels travaillant dans les
 établissements et services sociaux et médico-sociaux ;
 
-13° Un médecin exerçant dans une structure des urgences mentionnée au 1° de
+14° Un médecin exerçant dans une structure des urgences mentionnée au 1° de
 l'article R. 712-63 ;
 
-14° Trois représentants des usagers ou de leurs familles ou des associations de
-consommateurs.
+15° Trois représentants des usagers ou de leurs familles ou des associations de
+consommateurs ;
 
-Les membres mentionnés aux 7° à 13° sont désignés par le directeur de l'agence
+16° Deux personnalités qualifiées.
+
+Les membres mentionnés au 7° à 14° sont désignés par le directeur de l'agence
 régionale de l'hospitalisation parmi les personnes figurant sur des listes
 proposées par les organisations les plus représentatives dans la région.
 
-Les membres mentionnés au 14° sont désignés par le directeur de l'agence
-régionale de l'hospitalisation parmi les personnes résidant dans la région
-proposées par les associations agréées, conformément à l'article L. 1114-1, au
-niveau régional ou, à défaut, national.
+Les membres mentionnés au 15° et au 16° sont désignés par le directeur de
+l'agence régionale de l'hospitalisation parmi les personnes résidant dans la
+région proposées par les associations agréées, conformément à l'article L.
+1114-1, au niveau régional ou, à défaut, national.

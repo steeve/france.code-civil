@@ -24,9 +24,9 @@ hospitalier et les décisions mettant fin à ces contrats en application de
 l'article R. 6161-29 ainsi que les projets d'accords d'association au
 fonctionnement du service public hospitalier ;
 
-6° Les demandes d'admission à participer au service public hospitalier ainsi que
-les projets de décision mettant fin d'office à cette participation, en
-application de l'article R. 715-6-7 ;
+6° Les demandes d'admission à participer à l'exécution du service public
+hospitalier, ainsi que les projets de décision mettant fin à cette
+participation, en application de l'article R. 6161-4-5 ;
 
 7° La création des établissements publics de santé autres que nationaux, en
 application de l'article L. 6141-1, ainsi que la modification de la liste des

@@ -1,7 +1,7 @@
 Article R6122-30
 ----
 Le bilan quantifié de l'offre de soins prévu par le quatrième alinéa de
-l'article L. 6122-9 est établi par le directeur de l'agence régionale de
+l'article L. 6122-9 est arrêté par le directeur de l'agence régionale de
 l'hospitalisation et publié quinze jours au moins avant l'ouverture de chacune
 des périodes mentionnées à l'article R. 6122-29.
 
@@ -14,3 +14,10 @@ Il est publié au recueil des actes administratifs de la préfecture de la régi
 et affiché au siège de l'agence régionale de l'hospitalisation, de la direction
 régionale et de la direction départementale des affaires sanitaires et sociales
 concernées tant que la période de réception des dossiers n'est pas close.
+
+Lorsque cette période est déterminée en vertu du deuxième alinéa de l'article R.
+6122-29, les directeurs des agences régionales de l'hospitalisation ayant fixé
+le schéma interrégional arrêtent en commun le bilan relatif aux territoires de
+santé compris dans ce schéma. Ce bilan est publié et affiché comme il est prévu
+à l'alinéa précédent, dans chacune des régions comprises dans le schéma
+interrégional.

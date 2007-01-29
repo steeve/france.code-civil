@@ -1,10 +1,9 @@
-Article R715-6-9
+Article R6161-4-7
 ----
-Lorsqu'il est mis fin à la participation à l'exécution du service public
-hospitalier par application des articles R. 715-6-7 et R. 715-6-8,
-l'établissement concerné doit rembourser à l'Etat, aux collectivités locales,
-aux groupements de collectivités locales, aux régions et aux organismes de
-sécurité sociale les sommes que, depuis son admission à cette participation et
+Lorsqu'il est mis fin à sa participation à l'exécution du service public
+hospitalier par application des articles R. 6161-4-5 et R. 6161-4-6,
+l'établissement doit rembourser à l'Etat, aux collectivités territoriales ou à
+leurs groupements les sommes que, depuis son admission à cette participation et
 du fait de celle-ci, il a reçues à titre de subventions d'investissement. Le
 remboursement n'est dû que pour la part des investissements acquis restant
 encore non amortie.

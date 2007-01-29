@@ -19,9 +19,9 @@ des membres présents, délibère valablement sur les points inscrits à l'ordre
 jour de la première réunion, lors d'une seconde réunion qui doit avoir lieu dans
 un délai de dix à trente jours.
 
-Les délibérations de la formation conjointe sont prises à la majorité des voix
-des membres présents. En cas de partage égal des voix, la voix du président de
-la séance est prépondérante.
+Les délibérations de la formation conjointe sont prises à la majorité des
+suffrages exprimés par les membres présents. En cas de partage égal des voix, la
+voix du président de la séance est prépondérante.
 
 Les dispositions des quatre derniers alinéas de l'article R. 6122-18 ainsi que
 les articles R. 6122-19 et R. 6122-20 sont applicables lorsque le comité
