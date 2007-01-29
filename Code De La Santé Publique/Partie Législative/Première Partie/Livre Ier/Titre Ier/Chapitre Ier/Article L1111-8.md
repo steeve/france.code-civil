@@ -27,6 +27,21 @@ particulier les mécanismes de contrôle et de sécurité dans le domaine
 informatique ainsi que les procédures de contrôle interne. Les dispositions de
 l'article L. 4113-6 s'appliquent aux contrats prévus à l'alinéa précédent.
 
+La détention et le traitement sur des supports informatiques de données de santé
+à caractère personnel par des professionnels de santé, des établissements de
+santé ou des hébergeurs de données de santé à caractère personnel sont
+subordonnés à l'utilisation de systèmes d'information conformes aux
+prescriptions adoptées en application de l'article L. 1110-4 et répondant à des
+conditions d'interopérabilité arrêtées par le ministre chargé de la santé.
+
+Les professionnels et établissements de santé peuvent, par dérogation aux
+dispositions de la dernière phrase des deux premiers alinéas du présent article,
+utiliser leurs propres systèmes ou des systèmes appartenant à des hébergeurs
+agréés, sans le consentement exprès de la personne concernée dès lors que
+l'accès aux données détenues est limité au professionnel de santé ou à
+l'établissement de santé qui les a déposées, ainsi qu'à la personne concernée
+dans les conditions prévues par l'article L. 1111-7.
+
 L'agrément peut être retiré, dans les conditions prévues par l'article 24 de la
 loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs
 relations avec les administrations, en cas de violation des prescriptions

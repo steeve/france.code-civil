@@ -10,9 +10,9 @@ délibère valablement sur les points inscrits à l'ordre du jour de la premièr
 réunion, lors d'une seconde réunion qui doit avoir lieu dans un délai de cinq à
 quinze jours.
 
-Les avis des comités sont émis à la majorité des voix des membres présents. Le
-vote par procuration n'est pas admis. En cas de partage égal des voix, celle du
-président est prépondérante.
+Les avis des comités sont émis à la majorité des suffrages exprimés par les
+membres présents. Le vote par procuration n'est pas admis. En cas de partage
+égal des voix, celle du président est prépondérante.
 
 Les membres suppléants ne siègent qu'en cas d'absence ou d'empêchement des
 membres titulaires.

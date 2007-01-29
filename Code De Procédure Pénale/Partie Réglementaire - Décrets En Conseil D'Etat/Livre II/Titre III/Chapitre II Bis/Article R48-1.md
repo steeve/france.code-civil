@@ -113,3 +113,6 @@ i) L'article R. 215-2 du code rural ;
 
 5° Contraventions réprimées par le code des postes et des communications
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
+
+6° Contraventions réprimées par le code de la santé publique prévues par les
+articles R. 3512-1 et le 1° et le 2° de l'article R$ 3512-2.

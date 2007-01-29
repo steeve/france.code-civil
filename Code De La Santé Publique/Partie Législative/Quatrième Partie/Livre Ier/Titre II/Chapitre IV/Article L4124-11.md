@@ -33,7 +33,10 @@ IV. - Le conseil régional ou interrégional est composé de membres titulaires 
 d'un nombre égal de membres suppléants élus par les conseils départementaux de
 la région ou de l'interrégion parmi les médecins, chirurgiens-dentistes ou
 sages-femmes inscrits à leur tableau et qui remplissent les conditions fixées à
-l'article L. 4123-5.
+l'article L. 4123-5. Les conseillers nationaux participent en outre avec voix
+consultative aux délibérations du conseil régional ou interrégional dont ils
+sont issus, à l'exception de celles mentionnées aux troisième et quatrième
+alinéas du I du présent article.
 
 V. - Lorsque, par leur fait, les membres d'un conseil régional ou interrégional
 mettent celui-ci dans l'impossibilité de fonctionner, le représentant de l'Etat

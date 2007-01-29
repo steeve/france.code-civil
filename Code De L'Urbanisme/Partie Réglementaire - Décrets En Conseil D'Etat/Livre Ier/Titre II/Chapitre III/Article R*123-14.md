@@ -6,7 +6,7 @@ Les annexes comprennent à titre informatif également :
 126-1 ainsi que les bois ou forêts soumis au régime forestier ;
 
 2° La liste des lotissements dont les règles d'urbanisme ont été maintenues en
-application du deuxième alinéa de l'article L. 315-2-1 ;
+application du deuxième alinéa de l'article L. 315-2-1 (nota) ;
 
 3° Les schémas des réseaux d'eau et d'assainissement et des systèmes
 d'élimination des déchets, existants ou en cours de réalisation, en précisant
@@ -33,4 +33,7 @@ l'environnement et les dispositions d'un projet de plan de prévention des
 risques miniers établi en application de l'article 94 du code minier ;
 
 8° Les zones agricoles protégées délimitées en application de l'article L. 112-2
-du code rural.
+du code rural ;
+
+9° L'arrêté du préfet coordonnateur de massif prévu au septième alinéa de
+l'article L. 145-5.
