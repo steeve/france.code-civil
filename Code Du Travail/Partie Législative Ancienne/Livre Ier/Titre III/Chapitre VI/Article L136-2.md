@@ -6,8 +6,9 @@ La commission nationale de la négociation collective est chargée :
 faciliter le développement de la négociation collective, en particulier en vue
 d'harmoniser les définitions conventionnelles des branches ;
 
-2° D'émettre un avis sur les projets de lois et décrets relatifs à la
-négociation collective ;
+2° D'émettre un avis sur les projets de loi, d'ordonnance et de décret relatifs
+aux règles générales relatives aux relations individuelles et collectives du
+travail, notamment celles concernant la négociation collective ;
 
 3° De donner un avis motivé au ministre chargé du travail sur l'extension et
 l'élargissement des conventions et accords collectifs ainsi que sur l'abrogation
