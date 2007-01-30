@@ -4,14 +4,19 @@ Tout candidat à l'élection au conseil général doit obligatoirement, avant ch
 tour de scrutin, souscrire une déclaration de candidature dans les conditions
 prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la
 signature du candidat, énonce les nom, prénoms, sexe, date et lieu de naissance,
-domicile et profession.
+domicile et profession. Elle mentionne également la personne appelée à remplacer
+le candidat comme conseiller général dans le cas prévu à l'article L. 221. Les
+articles L. 155 et L. 163 sont applicables à la désignation du remplaçant. Le
+candidat et son remplaçant sont de sexe différent.
 
-A cette déclaration sont jointes les pièces propres à prouver que le candidat
-répond aux conditions d'éligibilité prévues par l'article L. 194.
+A cette déclaration sont jointes les pièces propres à prouver que le candidat et
+son remplaçant répondent aux conditions d'éligibilité prévues par l'article L.
+194.
 
-Si la déclaration de candidature n'est pas accompagnée des pièces mentionnées au
-deuxième alinéa ou si ces pièces n'établissent pas que le candidat répond aux
-conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
+Si la déclaration de candidature n'est pas conforme aux dispositions du premier
+alinéa, qu'elle n'est pas accompagnée des pièces mentionnées au deuxième alinéa
+ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent
+aux conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
 enregistrée.
 
 Nul ne peut être candidat dans plus d'un canton.

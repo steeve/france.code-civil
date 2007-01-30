@@ -18,7 +18,7 @@ adjoints au moins doit être conseiller municipal.
 
 Sous réserve des dispositions des alinéas précédents, sont applicables au maire
 d'arrondissement et à ses adjoints les dispositions des articles L. 2122-4 à L.
-2122-7, des premier et deuxième alinéas de l'article L. 2122-8, des premier et
+2122-7-2, des premier et deuxième alinéas de l'article L. 2122-8, des premier et
 troisième alinéas de l'article L. 2122-10, des articles L. 2122-12, L. 2122-15,
 L. 2122-16, du second alinéa de l'article L. 2122-18 de l'article L. 3122-3 et
 de l'article L. 4133-3. En cas d'application de l'article L. 2122-15, le
