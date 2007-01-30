@@ -8,7 +8,8 @@ quorum et de majorité que celles prévues à l'article L. 4422-8.
 Les conseillers exécutifs de Corse et le président du conseil exécutif sont élus
 au scrutin de liste avec dépôt de listes complètes comportant autant de noms que
 de sièges à pourvoir, sans adjonction ni suppression de nom et sans modification
-de l'ordre de présentation.
+de l'ordre de présentation. Sur chacune des listes, l'écart entre le nombre des
+candidats de chaque sexe ne peut être supérieur à un.
 
 Si aucune liste n'a recueilli au premier et au deuxième tour la majorité absolue
 des membres de l'Assemblée, il est procédé à un troisième tour. Dans ce dernier
