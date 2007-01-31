@@ -1,11 +1,22 @@
 Article L421-6
 ----
-Le conseil d'administration d'un office public d'habitations à loyer modéré peut
-demander, par dérogation aux dispositions des articles 14, 54 et 82 de la loi n°
-82-213 du 2 mars 1982 précitée que le comptable de l'office soit un comptable
-direct du Trésor ou un comptable spécial placé sous l'autorité administrative du
-président de l'office. Le comptable direct du Trésor est nommé par le ministre
-chargé de l'économie et des finances, aprés information préalable du président
-du conseil d'administration. Le comptable spécial est nommé par le représentant
-de l'Etat dans le département, sur proposition du conseil d'administration,
-aprés avis du trésorier-payeur général.
+Les offices publics de l'habitat peuvent être rattachés :
+
+1° A un établissement public de coopération intercommunale compétent en matière
+d'habitat ;
+
+2° A un département ;
+
+3° A une commune, dès lors qu'elle n'est pas membre d'un établissement public de
+coopération intercommunale compétent en matière d'habitat.
+
+Ces dispositions ne font pas obstacle à ce que, après la publication de
+l'ordonnance n° 2007-137 du 1er février 2007 relative aux offices publics de
+l'habitat, un établissement public d'habitations à loyer modéré demeure, après
+sa transformation en office public de l'habitat, rattaché à un syndicat de
+communes ou à une commune membre d'un établissement public de coopération
+intercommunale compétent en matière d'habitat, s'il y était rattaché avant cette
+publication, ni à l'application du statut particulier de l'office
+interdépartemental de l'Essonne, du Val-d'Oise et des Yvelines régi par le
+décret n° 67-1223 du 22 décembre 1967 relatif aux offices publics d'habitation à
+loyer modéré de la région parisienne.

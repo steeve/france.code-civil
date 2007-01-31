@@ -10,5 +10,4 @@ cas de vente par adjudication lorsque cette procédure est rendue obligatoire de
 par la loi ou le règlement.
 
 La commune peut déléguer ce droit, dans les conditions définies à l'article L.
-213-3 du code de l'urbanisme, à un office public d'habitations à loyer modéré ou
-office public d'aménagement et de construction.
+213-3 du code de l'urbanisme, à un office public de l'habitat.

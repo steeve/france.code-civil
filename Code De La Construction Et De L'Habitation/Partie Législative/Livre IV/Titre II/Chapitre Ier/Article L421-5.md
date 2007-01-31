@@ -1,8 +1,8 @@
 Article L421-5
 ----
-La dotation des offices est constituée par :
+L'activité des offices publics de l'habitat s'exerce sur le territoire de la
+région où se trouve la collectivité territoriale ou l'établissement public
+auquel ils sont rattachés.
 
-1. Les biens meubles et immeubles et les fonds que les conseils municipaux ou le
-conseil général leur attribuent ;
-
-2. Des dons et legs.
+Ils peuvent également intervenir sur le territoire des départements limitrophes
+de cette région, après accord de la commune d'implantation de l'opération.

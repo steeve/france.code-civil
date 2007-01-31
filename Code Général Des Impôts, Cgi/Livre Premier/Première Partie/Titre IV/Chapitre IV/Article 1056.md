@@ -9,10 +9,10 @@ Les dispositions du premier alinéa ne s'appliquent pas aux mutations de biens
 sinistrés et des droits à indemnité y afférents sauf si ces mutations résultent
 d'acquisitions faites :
 
-a) Par les communes, les départements, les offices publics et les sociétés
-d'habitations à loyer modéré, en vue de la construction d'habitations à loyer
-modéré ou de l'aménagement de services publics, dans les conditions de remploi
-prévues par la loi;
+a) Par les communes, les départements, les offices publics de l'habitat et les
+sociétés d'habitations à loyer modéré, en vue de la construction d'habitations à
+loyer modéré ou de l'aménagement de services publics, dans les conditions de
+remploi prévues par la loi;
 
 b) Par des associations syndicales et des coopératives de reconstruction
 agissant dans le cadre de l'article 16 de la loi n° 50-531 du 2 juin 1950 et par
