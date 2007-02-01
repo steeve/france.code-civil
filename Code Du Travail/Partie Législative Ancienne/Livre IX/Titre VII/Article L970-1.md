@@ -1,11 +1,12 @@
 Article L970-1
 ----
-L'Etat met en oeuvre au bénéfice de ses agents une politique coordonnée de
-formation professionnelle et de promotion sociale semblable, par sa portée et
-par les moyens employés, à celle visée à l'article L. 910-1. Cette politique
-tient compte du caractère spécifique de la fonction publique.
+Le présent titre est applicable :
 
-Après consultation du conseil supérieur de la fonction publique, un décret en
-Conseil d'Etat fixe les conditions dans lesquelles les actions de formation et
-de perfectionnement intéressant les agents de l'Etat seront définies, animées et
-coordonnées.
+1° Aux actions de formation professionnelle des fonctionnaires relevant de la
+fonction publique de l'Etat, de la fonction publique territoriale et de la
+fonction publique hospitalière, qui sont menées dans le cadre de l'article 22 de
+la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
+fonctionnaires ;
+
+2° Aux actions de formation professionnelle des agents civils non titulaires
+relevant des administrations mentionnées à l'article 2 de la même loi.

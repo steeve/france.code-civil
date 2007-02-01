@@ -1,5 +1,8 @@
 Article L970-3
 ----
-Des décrets en Conseil d'Etat fixent les modalités particulières de formation
-professionnelle continue des agents civils non titulaires de l'Etat. Ils sont
-établis après avis du conseil supérieur de la fonction publique.
+Les organismes publics chargés de la mise en oeuvre de la politique définie à
+l'article L. 970-2 ne sont pas soumis aux dispositions des titres II et IX du
+présent livre.
+
+Les actions de formation relevant du présent titre peuvent également être
+assurées par les organismes mentionnés à l'article L. 920-4.
