@@ -93,9 +93,9 @@ D'une part, le prix exprimé et les charges qui peuvent s'y ajouter ;
 D'autre part, les sommes versées par le cédant en vue de l'acquisition du
 logement.
 
-Ces dispositions s'appliquent aux offices publics d'aménagement et de
-construction pour les opérations faites en application de la législation sur les
-habitations à loyer modéré.
+Ces dispositions s'appliquent aux offices publics de l'habitat pour les
+opérations faites en application de la législation sur les habitations à loyer
+modéré.
 
 3. (dispositions devenues sans objet).
 

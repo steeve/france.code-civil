@@ -2,18 +2,16 @@ Article L411-2
 ----
 Les organismes d'habitations à loyer modéré comprennent :
 
-- les offices publics d'aménagement et de construction ;
-
-- les offices publics d'habitations à loyer modéré ;
+- les offices publics de l'habitat ;
 
 - les sociétés anonymes d'habitations à loyer modéré ;
 
 - les sociétés anonymes coopératives de production et les sociétés anonymes
 coopératives d'intérêt collectif d'habitations à loyer modéré ;
 
-- les sociétés anonymes de crédit immobilier ;
+- les fondations d'habitations à loyer modéré ;
 
-- les fondations d'habitations à loyer modéré.
+- les sociétés anonymes de crédit immobilier.
 
 Les organismes d'habitations à loyer modéré mentionnés aux alinéas précédents
 bénéficient d'exonérations fiscales et d'aides spécifiques de l'Etat au titre du
@@ -43,14 +41,15 @@ plafonds fixés au titre IX du livre III, lorsque l'ensemble des opérations son
 assorties de garanties pour l'accédant dans des conditions fixées par décret en
 Conseil d'Etat ;
 
-- la gestion, avec l'accord du maire de la commune d'implantation et du
-représentant de l'Etat dans le département, de logements situés dans des
-copropriétés connaissant des difficultés importantes de fonctionnement ou
-faisant l'objet d'une opération programmée d'amélioration de l'habitat visée à
-l'article L. 303-1 ainsi que, pour une période maximale de dix ans à compter de
-la première cession, la gestion des copropriétés issues de la cession des
-logements locatifs mentionnés au neuvième alinéa tant que l'organisme vendeur y
-demeure propriétaire de logements ;
+- la gestion ou l'acquisition en vue de leur revente, avec l'accord du maire de
+la commune d'implantation et du représentant de l'Etat dans le département, de
+logements situés dans des copropriétés connaissant des difficultés importantes
+de fonctionnement ou faisant l'objet d'un plan de sauvegarde en application de
+l'article L. 615-1 ou d'une opération programmée d'amélioration de l'habitat
+visée à l'article L. 303-1 ainsi que, pour une période maximale de dix ans à
+compter de la première cession, la gestion des copropriétés issues de la cession
+des logements locatifs mentionnés au neuvième alinéa tant que l'organisme
+vendeur y demeure propriétaire de logements ;
 
 - les services accessoires aux opérations susmentionnées.
 

@@ -183,14 +183,11 @@ associations syndicales constituées en application de l'ordonnance n° 58-1145 
 31 décembre 1958 ;
 
 2° les apports et les cessions de terrains à bâtir effectués par les
-collectivités locales au profit des offices publics d'habitations à loyer modéré
-et de leurs unions ainsi que les apports consentis par les collectivités locales
-à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure
-où ces apports sont effectués à titre gratuit.
-
-Ces dispositions s'appliquent aux offices publics d'aménagement et de
-construction pour les opérations faites en application de la législation sur les
-organismes d'habitations à loyer modéré ;
+collectivités locales au profit des offices publics de l'habitat et de leurs
+unions, pour les opérations faites en application de la législation sur les
+organismes d'habitations à loyer modéré, ainsi que les apports consentis par les
+collectivités locales à des organismes d'habitations à loyer modéré ou à leurs
+unions, dans la mesure où ces apports sont effectués à titre gratuit.
 
 3° les apports faits aux sociétés civiles visées à l'article L322-12 du code de
 l'urbanisme ;

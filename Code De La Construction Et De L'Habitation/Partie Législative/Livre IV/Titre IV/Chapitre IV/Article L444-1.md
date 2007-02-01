@@ -1,7 +1,6 @@
 Article L444-1
 ----
-Les offices publics d'habitations à loyer modéré, les offices publics
-d'aménagement et de construction, les sociétés anonymes coopératives de
+Les offices publics de l'habitat, les sociétés anonymes coopératives de
 production d'habitations à loyer modéré visées à l'article L. 422-3 du présent
 code et les sociétés anonymes d'habitations à loyer modéré peuvent prendre à
 bail des logements vacants pour les donner en sous-location à des personnes
