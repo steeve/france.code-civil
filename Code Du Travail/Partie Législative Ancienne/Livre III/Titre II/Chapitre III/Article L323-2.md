@@ -11,7 +11,14 @@ l'obligation d'emploi instituée par l'article L. 323-1 ; les dispositions des
 articles L. 323-3, L. 323-4-1, L. 323-5, L. 323-8 et L. 323-8-6-1 leur sont
 applicables.
 
-L'application de l'alinéa précédent fait l'objet, chaque année, d'un rapport
+Les centres de gestion de la fonction publique territoriale ne sont assujettis à
+l'obligation d'emploi visée à l'alinéa précédent que pour leurs agents
+permanents. Leurs agents non permanents sont décomptés dans les effectifs de la
+collectivité ou de l'établissement qui les accueille dans les conditions prévues
+à l'article L. 323-4-1, excepté lorsqu'ils remplacent des agents permanents
+momentanément indisponibles.
+
+L'application des alinéas précédents font l'objet, chaque année, d'un rapport
 présenté aux comités techniques paritaires ou aux instances en tenant lieu ainsi
 qu'aux conseils supérieurs de la fonction publique de l'Etat, de la fonction
 publique territoriale et de la fonction publique hospitalière.

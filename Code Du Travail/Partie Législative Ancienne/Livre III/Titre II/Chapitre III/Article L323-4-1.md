@@ -10,7 +10,9 @@ articles L. 323-3 et L. 323-5 rémunérées par les employeurs mentionnés à
 l'alinéa précédent au 1er janvier de l'année écoulée.
 
 Pour l'application des deux précédents alinéas, chaque agent compte pour une
-unité.
+unité. Toutefois, les agents affectés sur des emplois non permanents ne sont pas
+comptabilisés lorsqu'ils ont été rémunérés pendant une période inférieure à six
+mois au 1er janvier de l'année écoulée.
 
 Le taux d'emploi correspond à l'effectif déterminé au deuxième alinéa rapporté à
 celui du premier alinéa.

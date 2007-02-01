@@ -29,5 +29,10 @@ licenciement des candidats aux mandats d'administrateur pendant une durée de
 trois mois à compter de la date de l'envoi de la liste des candidatures adressée
 par la mutuelle, union ou fédération à ses membres.
 
+Lorsque des attributions permanentes leur ont été confiées, les fonctionnaires
+peuvent être placés, sur leur demande, en position de détachement ou de mise à
+disposition pour exercer les fonctions de membre du conseil d'administration
+d'une mutuelle, union ou fédération.
+
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.
