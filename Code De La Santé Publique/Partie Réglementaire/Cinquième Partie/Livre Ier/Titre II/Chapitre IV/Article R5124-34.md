@@ -6,7 +6,8 @@ Le pharmacien responsable est :
 
 a) Dans les sociétés anonymes autres que celles régies par les articles L.
 225-57 et suivants du code de commerce, le président du conseil d'administration
-ou un directeur général ;
+ayant la qualité de directeur général, le directeur général ou un directeur
+général délégué ;
 
 b) Dans les sociétés anonymes régies par ces articles, soit le président du
 directoire, soit un autre membre du directoire ayant la qualité de directeur

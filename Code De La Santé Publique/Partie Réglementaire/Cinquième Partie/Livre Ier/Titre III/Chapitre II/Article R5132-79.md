@@ -8,16 +8,16 @@ pouvoir être involontairement détachée.
 Cette étiquette porte, en caractères noirs indélébiles et lisibles, les
 indications suivantes :
 
-1° Pour une substance : la dénomination commune internationale recommandée par
-l'Organisation mondiale de la santé, chaque fois qu'elle existe ou, dans le cas
-contraire, celle de la Pharmacopée européenne ou française ou, à défaut, la
-dénomination scientifique ;
+1° Pour une substance, une plante ou une partie de plante : la dénomination
+commune internationale recommandée par l'Organisation mondiale de la santé,
+chaque fois qu'elle existe ou, dans le cas contraire, celle de la Pharmacopée
+européenne ou française ou, à défaut, la dénomination scientifique ;
 
 2° Pour une préparation : sa dénomination commerciale, s'il y a lieu,
 accompagnée du nom de la ou des substances stupéfiantes qu'elle renferme,
 exprimée comme ci-dessus ;
 
-3° Le poids brut et net ;
+3° La masse brute et la tare correspondant au conditionnement utilisé ;
 
 4° Le nom et l'adresse du fabricant ou du distributeur ou de l'importateur ;
 

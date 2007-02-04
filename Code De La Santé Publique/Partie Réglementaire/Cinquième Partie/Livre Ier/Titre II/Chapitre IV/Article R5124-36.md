@@ -37,3 +37,9 @@ directeur général de l'Agence française de sécurité sanitaire des produits 
 santé ou, s'agissant des pharmaciens chimistes des armées, l'inspecteur
 technique des services pharmaceutiques et chimiques des armées, à charge pour
 celui-ci, si nécessaire, de saisir le directeur général de l'agence.
+
+Le pharmacien responsable participe aux délibérations des organes de gestion,
+d'administration, de direction ou de surveillance, ou à celles de tout autre
+organe ayant une charge exécutive, de l'entreprise ou de l'organisme, lorsque
+ces délibérations concernent ou peuvent affecter l'exercice des missions
+relevant de sa responsabilité et énumérées du 1° au 7° du présent article.

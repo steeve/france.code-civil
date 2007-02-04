@@ -16,6 +16,7 @@ permanente ou intermittente, d'une ou plusieurs substances psychoactives, ayant
 des conséquences préjudiciables à la santé physique ou psychique ;
 
 3° Pharmacodépendance grave ou abus grave de substance psychoactive, la
-pharmacodépendance ou l'abus létal de substance psychoactive ou susceptible de
-mettre la vie en danger, ou d'entraîner une invalidité ou une incapacité, ou
-provoquant ou prolongeant une hospitalisation.
+pharmacodépendance ou l'abus de substance psychoactive, soit létal, soit
+susceptible de mettre la vie en danger ou d'entraîner une invalidité ou une
+incapacité, de provoquer ou de prolonger une hospitalisation ou de se manifester
+par une anomalie ou une malformation congénitale.

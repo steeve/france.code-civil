@@ -7,3 +7,7 @@ médicaments mentionnés à l'article R. 5132-1.
 
 Les documents justificatifs sont conservés au moins trois ans, sous réserve des
 dispositions particulières applicables aux stupéfiants et aux psychotropes.
+
+Les responsables et personnes mentionnés au premier alinéa sont également tenus
+de justifier à tout moment de l'autorisation délivrée en application de
+l'article R. 5132-75.

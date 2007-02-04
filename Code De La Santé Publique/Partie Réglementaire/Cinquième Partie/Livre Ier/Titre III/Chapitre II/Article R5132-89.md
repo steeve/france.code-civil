@@ -5,14 +5,17 @@ d'autorisation pour le seul usage professionnel :
 
 1° L'autorisation délivrée en application des articles L. 5124-3 ou L. 5142-2 ;
 
-2° L'enregistrement à la préfecture prévu à l'article L. 5125-16 pour les
-pharmaciens titulaires d'une officine et les pharmaciens gérants des pharmacies
-mutualistes ;
+2° L'inscription à l'ordre des pharmaciens des pharmaciens titulaires d'une
+officine et des pharmaciens gérant des pharmacies mutualistes ou l'appartenance
+au cadre actif du service de santé des armées ;
 
-3° L'autorisation préfectorale délivrée en application de l'article L. 5126-7 ;
+3° L'inscription à l'ordre des pharmaciens des pharmaciens assurant la gérance
+de la pharmacie à usage intérieur autorisée en application de l'article L.
+5126-7 ou l'appartenance au cadre actif du service de santé des armées ;
 
-4° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les
-vétérinaires ;
+4° L'inscription à l'ordre des vétérinaires pour les vétérinaires ou, s'ils
+appartiennent au cadre actif du service vétérinaire de l'armée, la qualité de
+vétérinaires des armées ;
 
 5° L'habilitation établie en faveur de l'Institut Pasteur par l'article L.
 5124-10 ;

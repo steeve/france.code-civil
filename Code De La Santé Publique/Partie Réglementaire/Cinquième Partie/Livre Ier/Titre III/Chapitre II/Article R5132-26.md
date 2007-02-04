@@ -9,7 +9,12 @@ Les médicaments relevant de la liste II sont détenus séparément de tout autr
 médicament, produit ou substance, à l'exception des substances classées comme
 nocives, corrosives ou irritantes, en application de l'article L. 5132-2.
 
-Les dispositions des deux alinéas précédents ne sont pas applicables aux
+Toutefois, dans les établissements mentionnés à l'article R. 5124-2 et à
+l'article R. 5142-1, les médicaments et substances, préparations et produits
+relevant de la liste I et de la liste II sont détenus en un lieu ou un
+emplacement dont l'accès est réservé au personnel autorisé.
+
+Les dispositions des trois alinéas précédents ne sont pas applicables aux
 spécialités pharmaceutiques ayant fait l'objet du conditionnement sous lequel
 ils sont délivrés aux utilisateurs.
 

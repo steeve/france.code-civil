@@ -15,4 +15,7 @@ médicament ne contient qu'un seul principe actif ;
 b) Les informations indispensables pour un bon usage du médicament ;
 
 c) Une invitation expresse à lire attentivement les instructions figurant sur la
-notice ou sur le conditionnement extérieur, selon le cas.
+notice ou sur le conditionnement extérieur, selon le cas ;
+
+d) Un message de prudence, un renvoi au conseil d'un pharmacien et, en cas de
+persistance des symptômes, une invitation à la consultation d'un médecin.

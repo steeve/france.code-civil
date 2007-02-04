@@ -13,10 +13,13 @@ de santé ou son représentant ;
 4° Le président de la mission interministérielle de lutte contre la drogue et la
 toxicomanie ou son représentant ;
 
-5° Le président et le vice-président de la Commission nationale des stupéfiants
+5° Le directeur de l'Observatoire français des drogues et des toxicomanies ou
+son représentant ;
+
+6° Le président et le vice-président de la Commission nationale des stupéfiants
 et des psychotropes ;
 
-6° Un représentant de chacun des centres d'évaluation et d'information sur la
+7° Un représentant de chacun des centres d'évaluation et d'information sur la
 pharmacodépendance et de leurs correspondants mentionnés à l'article R.
 5132-112.
 

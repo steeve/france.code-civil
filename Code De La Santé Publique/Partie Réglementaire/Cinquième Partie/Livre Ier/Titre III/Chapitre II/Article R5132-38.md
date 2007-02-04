@@ -10,7 +10,7 @@ indélébiles, les indications suivantes :
 
 1° La dénomination du contenu ;
 
-2° Les poids brut et net ;
+2° La masse brute et la tare correspondant au conditionnement utilisé ;
 
 3° L'indication d'origine : les nom et adresse du fabricant ou du distributeur
 ou de l'importateur ;
