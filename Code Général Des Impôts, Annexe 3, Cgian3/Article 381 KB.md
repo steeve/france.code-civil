@@ -5,7 +5,7 @@ acomptes prévus à l'article 1673 du code général des impôts et à l'article
 K, à concurrence de la retenue à la source calculée sur les intérêts courus des
 obligations qui, dès leur émission, sont inscrites à l'actif d'une gestion
 collective en emploi des sommes apportées par les titulaires de comptes pour le
-développement industriel (Codevi) ;
+développement industriel (Livret de développement durable) ;
 
 2° A chaque échéance des intérêts de ces obligations, l'établissement émetteur
 compare les termes suivants :
@@ -33,4 +33,4 @@ d'une gestion collective ;
 collective, en même temps que l'intérêt met, la retenue à la source afférente
 aux obligations inscrites à son actif et représentative des acomptes dont les
 versements ont été suspendus. Les sommes correspondantes sont portées au crédit
-Codevi.
+des livrets de développement durable.
