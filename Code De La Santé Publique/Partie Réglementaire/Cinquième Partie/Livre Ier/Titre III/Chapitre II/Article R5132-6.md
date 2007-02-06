@@ -1,7 +1,8 @@
 Article R5132-6
 ----
-Les pharmaciens délivrent les médicaments mentionnés à la présente section sur
-prescription ou sur commande à usage professionnel :
+Les pharmaciens délivrent les médicaments relevant des listes I et II et les
+médicaments classés comme stupéfiants sur prescription ou sur commande à usage
+professionnel :
 
 1° D'un médecin ;
 

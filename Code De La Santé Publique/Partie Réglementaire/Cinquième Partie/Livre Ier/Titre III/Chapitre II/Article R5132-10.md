@@ -27,7 +27,8 @@ effectué la prescription ou la prescription initiale ;
 réservée à certains médecins spécialistes, la spécialité du prescripteur telle
 que définie à l'article R. 5121-91.
 
-Les registres, les enregistrements ainsi que les éditions de ces enregistrements
-par périodes maximales d'un mois sont conservés pendant une durée de dix ans et
-sont tenus à la disposition des autorités de contrôle pendant la durée
-prescrite.
+Les registres ou les enregistrements informatisés sont conservés pendant une
+durée de dix ans et sont tenus à la disposition des autorités de contrôle
+pendant la durée prescrite. Ces enregistrements doivent pouvoir être édités sur
+papier et être classés par patient, par médicament et par ordre chronologique.
+Ils sont mis à la disposition des autorités de contrôle à leur demande.
