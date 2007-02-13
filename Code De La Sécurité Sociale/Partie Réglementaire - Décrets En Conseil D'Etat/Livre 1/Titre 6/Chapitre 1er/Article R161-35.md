@@ -24,4 +24,6 @@ rattachement ;
 6° Eventuellement, l'identifiant d'un des organismes mentionnés au 3° de
 l'article R. 115-1 de son choix qui lui sert des prestations complémentaires
 d'assurance maladie et qu'il désire voir figurer sur sa carte électronique
-individuelle, et la date de son rattachement audit organisme.
+individuelle, et la date de son rattachement audit organisme ;
+
+7° Le numéro de la dernière carte émise et sa date d'émission.

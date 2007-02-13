@@ -65,11 +65,10 @@ prévue par la procédure mentionnée au deuxième alinéa du 1° du I du prése
 article, ou si le professionnel, l'organisme ou l'établissement qui l'a établie
 n'est pas en mesure, pour une raison indépendante de sa volonté, de transmettre
 la feuille de soins électronique, l'assuré peut obtenir le remboursement des
-sommes dues en produisant ou bien la copie électronique mentionnée au d du 2° de
-l'article R. 161-33-1 ou bien un duplicata sur support papier clairement signalé
-comme tel et conforme au modèle mentionné au deuxième alinéa de l'article R.
-161-41 signé du professionnel, de l'organisme ou de l'établissement concerné. Ce
-duplicata peut aussi être remis directement par le professionnel, l'organisme ou
+sommes dues en produisant un duplicata clairement signalé comme tel et conforme
+au modèle mentionné au deuxième alinéa de l'article R. 161-41 signé du
+professionnel, de l'organisme ou de l'établissement concerné. Ce duplicata peut
+aussi être remis directement par le professionnel, l'organisme ou
 l'établissement à l'organisme servant à l'assuré les prestations d'un régime de
 base d'assurance maladie selon des modalités fixées par les conventions
 mentionnées à l'article L. 161-34.

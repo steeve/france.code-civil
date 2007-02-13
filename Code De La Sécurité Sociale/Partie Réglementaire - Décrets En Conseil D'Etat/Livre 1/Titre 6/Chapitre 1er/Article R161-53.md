@@ -1,10 +1,12 @@
 Article R161-53
 ----
 Pour les professions de santé réglementées par le code de la santé publique dont
-l'exercice est subordonné à l'enregistrement du diplôme par l'Etat, les données
-d'identification mentionnées au 1° et au a du 2° de l'article R. 161-52 ainsi
-que les données mentionnées au b du 2° du même article sont issues des
-déclarations du demandeur, validées par :
+l'exercice est subordonné à l'enregistrement du diplôme par l'Etat et pour les
+personnes facturant ou permettant la prise en charge des actes ou prestations
+remboursables par l'assurance maladie, les données d'identification mentionnées
+au 1° et au a du 2° de l'article R. 161-52 ainsi que les données mentionnées au
+b du 2° du même article sont issues des déclarations du demandeur, validées par
+:
 
 1° Le service ou l'organisme chargé, pour le compte de l'Etat, de
 l'enregistrement du diplôme et, pour les professionnels relevant d'un ordre

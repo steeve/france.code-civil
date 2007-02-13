@@ -7,7 +7,9 @@ après avis de la Commission nationale de l'informatique et des libertés :
 interrégimes des bénéficiaires de l'assurance maladie et les organismes chargés
 de la gestion des régimes d'assurance maladie de base ou complémentaires, les
 informations relatives à la certification des identifiants et à la connaissance
-du rattachement auxdits organismes ;
+du rattachement auxdits organismes ainsi qu'avec le groupement mentionné à
+l'article L. 115-5 aux fins du contrôle de la délivrance d'une carte par
+titulaire ;
 
 2° Les modalités de réalisation des traitements effectués par le répertoire
 national précité ;
