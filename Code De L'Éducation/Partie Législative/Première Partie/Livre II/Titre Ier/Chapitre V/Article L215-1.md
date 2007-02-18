@@ -5,7 +5,7 @@ et de formation professionnelle sont fixées par les dispositions des articles L
 4424-1 à L. 4424-5 et L. 4424-34 du code général des collectivités
 territoriales, ci-après reproduites :
 
-Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au
+Art.L. 4424-1.-La collectivité territoriale de Corse établit et transmet au
 représentant de l'Etat, après consultation du conseil économique, social et
 culturel de Corse et compte tenu des orientations fixées par le plan, le schéma
 prévisionnel des formations des collèges, des lycées, des établissements
@@ -43,12 +43,31 @@ lorsqu'une convention portant sur les moyens attribués par l'Etat à l'académi
 de Corse et leurs modalités d'utilisation a été conclue entre le représentant de
 l'Etat et le président du conseil exécutif mandaté à cet effet.
 
-Art. L. 4424-2. - La collectivité territoriale de Corse finance, construit,
-équipe et entretient les collèges, les lycées, les établissements publics
+Art.L. 4424-2.-La collectivité territoriale de Corse finance, construit, équipe
+et entretient les collèges, les lycées, les établissements publics
 d'enseignement professionnel, les établissements d'enseignement artistique, les
 établissements d'éducation spéciale, ainsi que les lycées professionnels
 maritimes, les établissements d'enseignement agricole mentionnés à l'article L.
 811-8 du code rural et les centres d'information et d'orientation.
+
+La collectivité territoriale de Corse assure l'accueil, la restauration,
+l'hébergement ainsi que l'entretien général et technique, à l'exception des
+missions d'encadrement et de surveillance des élèves, dans les établissements
+d'enseignement dont elle a la charge.
+
+Elle assure le recrutement, la gestion et la rémunération des personnels
+techniciens, ouvriers et de service exerçant leurs missions dans ces
+établissements. Ces personnels sont membres de la communauté éducative et
+concourent directement aux missions du service public de l'éducation nationale
+dans les conditions fixées par les articles L. 421-13 et L. 913-1 du code de
+l'éducation.
+
+Les deuxième et troisième alinéas du présent article sont applicables à partir
+du 1er janvier 2005.
+
+Les articles 104 à 111 de la loi n° 2004-809 du 13 août 2004 relative aux
+libertés et responsabilités locales s'appliquent au transfert de compétences
+prévu par les trois alinéas précédents.
 
 La collectivité territoriale de Corse peut confier la maîtrise d'ouvrage des
 travaux de construction, d'équipement et d'entretien des établissements relevant
@@ -61,7 +80,7 @@ maritimes, aux établissements d'enseignement agricole mentionnés à l'article 
 811-8 du code rural et aux centres d'information et d'orientation, les moyens
 financiers directement liés à leur activité pédagogique.
 
-Art. L. 4424-3. - Dans le cadre de la politique nationale de l'enseignement
+Art.L. 4424-3.-Dans le cadre de la politique nationale de l'enseignement
 supérieur, le président du conseil exécutif présente à l'Assemblée de Corse les
 propositions relatives à l'enseignement supérieur et à la recherche, après avis
 de l'université de Corse.
@@ -79,13 +98,12 @@ recherche, sans préjudice des compétences de l'Etat en matière d'homologation
 des titres et diplômes. Elle passe, à cette fin, des conventions avec des
 établissements d'enseignement supérieur ou des organismes de recherche.
 
-Art. L. 4424-4. - La collectivité territoriale de Corse finance, construit,
-équipe et entretient les établissements d'enseignement supérieur figurant à la
-carte prévue à l'article L. 4424-3. L'Etat assure à ces établissements les
-moyens financiers directement liés à leurs activités pédagogiques et de
-recherche.
+Art.L. 4424-4.-La collectivité territoriale de Corse finance, construit, équipe
+et entretient les établissements d'enseignement supérieur figurant à la carte
+prévue à l'article L. 4424-3.L'Etat assure à ces établissements les moyens
+financiers directement liés à leurs activités pédagogiques et de recherche.
 
-Art. L. 4424-5. - Sur proposition du conseil exécutif, qui recueille l'avis du
+Art.L. 4424-5.-Sur proposition du conseil exécutif, qui recueille l'avis du
 conseil économique, social et culturel de Corse, l'Assemblée détermine les
 activités éducatives complémentaires que la collectivité territoriale de Corse
 organise.
@@ -99,10 +117,10 @@ Cette convention prévoit les mesures d'accompagnement nécessaires, et notammen
 celles relatives à la formation initiale et à la formation continue des
 enseignants.
 
-Art. L. 4424-34. - La collectivité territoriale de Corse assure la mise en
-oeuvre des actions d'apprentissage et de formation professionnelle continue dans
-les conditions prévues pour les régions aux articles L. 214-12 à L. 214-16 du
-code de l'éducation.
+Art.L. 4424-34.-La collectivité territoriale de Corse assure la mise en oeuvre
+des actions d'apprentissage et de formation professionnelle continue dans les
+conditions prévues pour les régions aux articles L. 214-12 à L. 214-16 du code
+de l'éducation.
 
 Elle élabore, en concertation avec l'Etat et après consultation des départements
 et du conseil économique, social et culturel de Corse, le plan régional de
