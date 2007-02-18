@@ -1,8 +1,8 @@
 Article A321-7
 ----
-I. - Toute demande d'agrément administratif présentée conformément à l'article
-L. 321-7 doit être produite en double exemplaire et comporter, outre les
-documents prévus aux a, e et f de l'article A. 321-1 :
+I.-Toute demande d'agrément administratif présentée conformément à l'article L.
+321-7 doit être produite en double exemplaire et comporter, outre les documents
+prévus aux a, e et f de l'article A. 321-1 :
 
 a) Le bilan, le compte de résultat et l'annexe pour chacun des trois derniers
 exercices sociaux. Toutefois, lorsque l'entreprise compte moins de trois
@@ -18,7 +18,8 @@ financiers nécessaires aux frais d'installation des services administratifs et
 du réseau de production ;
 
 c) La désignation d'une personne physique ou morale ayant la qualité de
-mandataire général accompagnée des informations prévues à l'article A. 321-2 ;
+mandataire général accompagnée d'une description détaillée de ses
+responsabilités ;
 
 d) Un programme d'activités comprenant les pièces mentionnées au g (1 à 6) de
 l'article A. 321-1 ;
@@ -33,6 +34,6 @@ e) La justification que l'entreprise possède sur le territoire de la Républiqu
 française, pour ses opérations sur ce territoire, une succursale où elle fait
 élection de domicile.
 
-II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e
-et f de l'article A. 321-1 ainsi qu'aux c et e du présent article ne sont pas
+II.-En cas de demande d'extension d'agrément, les documents mentionnés aux e et
+f de l'article A. 321-1 ainsi qu'aux c et e du présent article ne sont pas
 exigés.

@@ -12,4 +12,9 @@ c) Toutes informations relatives à la part du capital ou des droits de vote dé
 détenus dans l'entreprise pour laquelle l'entreprise est projetée ;
 
 d) Toutes informations relatives à la nature, au montant et aux mécanismes de
-l'opération projetée, ainsi que l'identité du ou des cessionnaires.
+l'opération projetée, ainsi que l'identité du ou des cessionnaires ;
+
+e) Le cas échéant, l'organigramme financier du groupe, au sens du 7° de
+l'article L. 334-2, auquel l'entreprise appartient, à la date de dépôt du
+dossier, ainsi que l'organigramme prévisionnel du groupe acquéreur, compte tenu
+de l'opération projetée.

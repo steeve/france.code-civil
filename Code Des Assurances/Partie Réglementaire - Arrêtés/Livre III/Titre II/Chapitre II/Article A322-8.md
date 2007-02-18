@@ -6,14 +6,15 @@ mentionné à l'article R. 322-161 est composé des pièces suivantes, rédigée
 langue française ou accompagnées de leur traduction conforme en langue française
 :
 
-I. - Informations relatives aux entités concernées par l'opération :
+I.-Informations relatives aux entités concernées par l'opération :
 
 a) La dénomination et l'adresse des entités concernées pour laquelle l'opération
 est projetée ;
 
 b) Un document faisant preuve de la constitution régulière de chacune d'elles
 selon les lois et règlements de l'Etat de leur siège social, sauf pour les
-entreprises d'assurances agréées en France ;
+entreprises d'assurances agréées en France, ainsi que les statuts de la société
+de groupe d'assurance ;
 
 c) La liste des principaux dirigeants de chacune d'elles, comportant les nom,
 prénoms, domicile, nationalité, date et lieu de naissance ;
@@ -40,7 +41,7 @@ d'assurance, le taux de couverture de sa marge de solvabilité ;
 i) Pour la société de groupe, le dossier de surveillance complémentaire de
 l'ensemble des sociétés affiliées.
 
-II. - Informations relatives à l'opération envisagée :
+II.-Informations relatives à l'opération envisagée :
 
 a) La convention d'affiliation mentionnée à l'article R. 322-166 ;
 
@@ -54,12 +55,12 @@ l'affiliation ou se prononçant pour l'exclusion ;
 d) Toutes informations relatives aux objectifs et effets attendus de l'opération
 projetée, et notamment :
 
-- dans tous les cas, un programme d'activité prévisionnel du nouvel ensemble
+-dans tous les cas, un programme d'activité prévisionnel du nouvel ensemble
 consolidé ou combiné sur cinq ans, comportant les comptes de résultat et bilans
 prévisionnels, les principaux flux financiers et les prévisions relatives à la
 marge de solvabilité ;
 
-- en cas de retrait ou d'exclusion, un programme d'activité prévisionnel de
+-en cas de retrait ou d'exclusion, un programme d'activité prévisionnel de
 l'entité envisageant de résilier la convention d'affiliation ou faisant l'objet
 d'une exclusion. Outre les indications mentionnées au précédent alinéa, ce
 programme d'activité comprend les prévisions relatives à la couverture de ses

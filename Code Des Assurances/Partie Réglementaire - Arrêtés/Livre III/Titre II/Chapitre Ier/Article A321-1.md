@@ -17,13 +17,13 @@ d) Le procès-verbal de l'assemblée générale constitutive ;
 e) Un exemplaire des statuts ;
 
 f) La liste des membres du conseil d'administration ou du directoire, des
-mandataires sociaux, directeurs généraux et directeurs au sens de l'article R.
-322-55, ainsi que de toute personne appelée à exercer en fait des fonctions
-équivalentes avec les nom, prénoms, domicile, nationalité, date et lieu de
-naissance de chacun d'eux. Si ces personnes ont résidé hors de France pendant la
-période de cinq ans précédant la demande d'agrément, elles doivent indiquer leur
-dernière adresse hors de France. Le dossier défini à l'article A. 321-2 doit
-être fourni par chacune de ces personnes ;
+membres du conseil de surveillance, du directeur général unique ou des
+directeurs généraux et des directeurs généraux délégués, ainsi que de toute
+personne appelée à exercer en fait des fonctions équivalentes. Cette liste est
+accompagnée des nom, prénoms, domicile, nationalité, date et lieu de naissance
+de chaque personne physique concernée, ainsi que de la dénomination sociale, du
+lieu du siège social et, le cas échéant, du numéro SIREN des personnes morales
+concernées ;
 
 g) Un programme d'activités comprenant les pièces suivantes :
 
@@ -83,9 +83,9 @@ garantie que l'entreprise doit posséder, selon le cas, conformément aux
 dispositions des sections II ou III du chapitre IV du titre III du présent livre
 ;
 
-9.1. Dans le cas d'une société anonyme, la liste des actionnaires détenant 5 p.
-100 ou plus du capital ou des droits de vote ainsi que la part du capital social
-et des droits de vote détenue par chacun d'eux. Est considéré comme actionnaire
+9.1. Dans le cas d'une société anonyme, la liste des actionnaires détenant 5 %
+ou plus du capital ou des droits de vote ainsi que la part du capital social et
+des droits de vote détenue par chacun d'eux. Est considéré comme actionnaire
 unique pour l'application des présentes dispositions, tout groupe d'actionnaires
 liés entre eux, soit parce que l'un détient le contrôle direct ou indirect de
 l'autre, soit parce qu'ils sont directement ou indirectement contrôlés par la
@@ -109,13 +109,13 @@ fournie, dans les mêmes conditions que la liste des actionnaires de l'entrepris
 d'assurance.
 
 Pour chacun des actionnaires mentionnés en application des présentes
-dispositions détenant 10 p. 100 ou plus du capital ou des droits de vote, est
-fourni un dossier composé comme il est prévu à l'article A 322-1-II.
+dispositions détenant 10 % ou plus du capital ou des droits de vote, est fourni
+un dossier composé comme il est prévu à l'article A 322-1-II.
 
-Pour chacun des actionnaires mentionnés détenant de 5 à moins de 10 p. 100 du
-capital ou des droits de vote, le dossier est composé des informations
-mentionnées à l'article A. 322-1-II 1 (a et b) ou des informations mentionnées
-au paragraphe II-2 (a, b, c, d, e) du même article.
+Pour chacun des actionnaires mentionnés détenant de 5 à moins de 10 % du capital
+ou des droits de vote, le dossier est composé des informations mentionnées à
+l'article A. 322-1-II 1 (a et b) ou des informations mentionnées au paragraphe
+II-2 (a, b, c, d, e) du même article.
 
 9.2. Dans le cas d'une société d'assurance mutuelle, une note détaillant les
 modalités de constitution du fonds d'établissement et des éléments constitutifs
@@ -124,6 +124,12 @@ de la marge de solvabilité ainsi que l'identité des apporteurs de fonds.
 10. Le nom et l'adresse du ou des principaux établissements bancaires où sont
 domiciliés les comptes de l'entreprise.
 
-II. - En cas de demande d'extension d'agrément, le dossier à communiquer est le
-même que celui prévu au I du présent article, à l'exception des documents
-mentionnés aux c, d et e.
+11. Le cas échéant, l'organigramme financier du groupe, au sens du 7° de
+l'article L. 334-2, auquel l'entreprise appartient.
+
+II. - En cas de demande d'extension d'agrément, le dossier à communiquer
+comporte les éléments mentionnés aux a, b, f et g du I du présent article. Il
+comporte en outre, pour les trois derniers exercices clos, les comptes annuels
+mentionnés à l'article A. 344-9, les états C 5 et C 6 mentionnés à l'article A.
+344-10 et, le cas échéant, l'état G 2 mentionné à l'annexe I de l'article A.
+344-14 ainsi que l'état G 20 mentionné à l'annexe de l'article A. 344-14-1.
