@@ -12,3 +12,6 @@ survient un conflit d'intérêt entre lui-même et l'assureur.
 
 Aucune clause du contrat ne doit porter atteinte, dans les limites de la
 garantie, au libre choix ouvert à l'assuré par les deux alinéas précédents.
+
+L'assureur ne peut proposer le nom d'un avocat à l'assuré sans demande écrite de
+sa part.

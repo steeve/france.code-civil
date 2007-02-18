@@ -5,10 +5,12 @@ renouvellement de titre de séjour ou d'un retrait de titre de séjour, de
 récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour
 assorti d'une obligation de quitter le territoire français mentionnant le pays
 de destination peut, dans le délai d'un mois suivant la notification, demander
-l'annulation de ces décisions au tribunal administratif. Son recours suspend
-l'exécution de l'obligation de quitter le territoire français sans pour autant
-faire obstacle au placement en rétention administrative dans les conditions
-prévues au titre V du présent livre.
+l'annulation de ces décisions au tribunal administratif. Il peut demander le
+bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa
+requête en annulation. Son recours suspend l'exécution de l'obligation de
+quitter le territoire français sans pour autant faire obstacle au placement en
+rétention administrative dans les conditions prévues au titre V du présent
+livre.
 
 Le tribunal administratif statue dans un délai de trois mois à compter de sa
 saisine. Toutefois, en cas de placement en rétention de l'étranger avant qu'il

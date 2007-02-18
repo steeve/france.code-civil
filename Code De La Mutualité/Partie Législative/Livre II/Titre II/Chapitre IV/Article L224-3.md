@@ -13,3 +13,6 @@ fois que survient un conflit d'intérêt entre lui-même et la mutuelle ou l'uni
 Aucune clause du contrat ne doit porter atteinte, dans les limites de la
 garantie, au libre choix ouvert au membre participant par les deux alinéas
 précédents.
+
+La mutuelle ou l'union ne peut proposer le nom d'un avocat au membre participant
+sans demande écrite de sa part.
