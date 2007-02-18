@@ -15,7 +15,10 @@ directeurs généraux ou les membres de son directoire ou ses gérants ;
 3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
 
 4° Entre les associés d'une société par actions simplifiée à l'égard des
-sociétés que celle-ci contrôle.
+sociétés que celle-ci contrôle ;
+
+5° Entre le fiduciaire et le bénéficiaire d'un contrat de fiducie, si ce
+bénéficiaire est le constituant.
 
 III. - Les personnes agissant de concert sont tenues solidairement aux
 obligations qui leur sont faites par les lois et règlements.

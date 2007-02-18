@@ -23,6 +23,11 @@ dont le droit de propriété est démembré à la suite d'une succession interve
 avant le 1er janvier 2004, le prix d'acquisition est déterminé en appliquant le
 barème prévu à l'article 669, apprécié à la date de la cession.
 
+En cas de cession d'un bien ou d'un droit mentionné aux articles 150 U à 150 UB,
+reçu lors du transfert du patrimoine fiduciaire aux ayants droit, à la fin du
+contrat de fiducie, le prix d'acquisition est égal à la valeur de ce bien ou de
+ce droit telle qu'elle est stipulée dans l'acte.
+
 II. - Le prix d'acquisition est, sur justificatifs, majoré :
 
 1° De toutes les charges et indemnités mentionnées au deuxième alinéa du I de

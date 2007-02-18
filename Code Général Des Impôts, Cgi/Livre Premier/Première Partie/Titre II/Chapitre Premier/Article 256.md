@@ -62,8 +62,9 @@ uniforme.
 
 IV. 1° Les opérations autres que celles qui sont définies au II, notamment la
 cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne
-pas faire ou à tolérer un acte ou une situation, les opérations de façon et les
-travaux immobiliers, sont considérés comme des prestations de services ;
+pas faire ou à tolérer un acte ou une situation, les opérations de façon, les
+travaux immobiliers et l'exécution des obligations du fiduciaire, sont
+considérés comme des prestations de services ;
 
 2° Sont également considérées comme des prestations de services (Disposition à
 caractère interprétatif) :

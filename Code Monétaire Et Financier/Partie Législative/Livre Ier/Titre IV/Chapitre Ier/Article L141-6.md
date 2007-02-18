@@ -1,14 +1,28 @@
 Article L141-6
 ----
-La Banque de France exerce également d'autres missions d'intérêt général.
+I. - La Banque de France est habilitée à se faire communiquer par les
+établissements de crédit, les entreprises d'investissement, les organismes de
+placement collectif en valeurs mobilières, les compagnies financières, les
+entreprises d'assurance et de réassurance régies par le code des assurances et
+les entreprises industrielles et commerciales tous documents et renseignements
+qui lui sont nécessaires pour l'exercice de ses missions fondamentales.
 
-Dans ce cadre, la Banque de France accomplit les prestations demandées par
-l'Etat ou réalisées pour des tiers avec l'accord de celui-ci.
+II. - La Banque de France établit la balance des paiements et la position
+extérieure de la France. Elle contribue à l'élaboration de la balance des
+paiements et de la position extérieure globale de la zone euro dans le cadre des
+missions du Système européen de banques centrales, ainsi qu'à l'élaboration des
+statistiques de la Communauté européenne en matière de balance des paiements, de
+commerce international des services et d'investissement direct étranger.
 
-A la demande de l'Etat ou avec son accord, la Banque de France peut aussi
-fournir des prestations pour le compte de celui-ci ou le compte de tiers. Ces
-prestations sont rémunérées afin de couvrir les coûts engagés par la Banque.
+III. - Un décret fixe les sanctions applicables en cas de manquement aux
+obligations déclaratives mentionnées aux I et II.
 
-La nature des prestations mentionnées ci-dessus et les conditions de leur
-rémunération sont fixées par des conventions conclues entre la Banque de France
-et, selon le cas, l'Etat ou les tiers intéressés.
+IV. - La Banque de France, l'Institut national de la statistique et des études
+économiques et les services statistiques ministériels se transmettent, dans le
+respect des dispositions légales applicables, les données qui leur sont
+nécessaires pour l'exercice de leurs missions respectives. Les modalités de
+transmission font l'objet de conventions.
+
+Les agents de l'administration des impôts peuvent communiquer à la Banque de
+France les renseignements qu'ils détiennent et qui sont nécessaires à
+l'accomplissement des missions mentionnées au II.

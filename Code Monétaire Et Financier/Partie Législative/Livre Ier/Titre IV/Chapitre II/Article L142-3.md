@@ -1,39 +1,39 @@
 Article L142-3
 ----
-Le Conseil de la politique monétaire comprend, outre le gouverneur et les deux
-sous-gouverneurs de la Banque de France, quatre membres.
+I. - Le conseil général de la Banque de France comprend :
 
-Ces quatre membres sont nommés par décret en Conseil des ministres pour une
-durée de six ans, sous réserve des dispositions des quatrième et cinquième
-alinéas du présent article.
+1° Les membres du comité monétaire du conseil général ;
 
-Ils sont choisis sur une liste, comprenant un nombre de noms triple de celui des
-membres à désigner, qui est établie d'un commun accord, ou à défaut à parts
-égales, par le président du Sénat, le président de l'Assemblée nationale et le
-président du Conseil économique et social. Celle-ci est dressée en fonction de
-la compétence et de l'expérience professionnelle des membres à désigner dans les
-domaines monétaire, financier ou économique. Préalablement à leur transmission
-au Gouvernement, les listes dressées pour le renouvellement des membres
-mentionnés au deuxième alinéa sont soumises pour avis au Conseil de la politique
-monétaire.
+2° Deux membres nommés en conseil des ministres, sur proposition du ministre
+chargé de l'économie, compte tenu de leur compétence et de leur expérience
+professionnelle dans les domaines financier ou économique ;
 
-Les membres mentionnés au deuxième alinéa sont renouvelés par moitié tous les
-trois ans. Il est pourvu au remplacement des membres du conseil au moins huit
-jours avant l'expiration de leurs fonctions. Si l'un de ces membres ne peut
-exercer son mandat jusqu'à son terme, il est pourvu immédiatement à son
-remplacement dans les conditions décrites à l'alinéa précédent. Dans ce cas, le
-membre nommé n'exerce ses fonctions que pour la durée restant à courir du mandat
-de la personne qu'il remplace.
+3° Un représentant élu des salariés de la Banque de France.
 
-A l'occasion de la constitution du premier Conseil de la politique monétaire, la
-durée du mandat des six membres du Conseil de la politique monétaire, autres que
-le gouverneur et les sous-gouverneurs, est fixée par tirage au sort, selon des
-modalités prévues par le décret en Conseil d'Etat mentionné à l'article L.
-144-4, pour deux d'entre eux à trois ans, pour deux autres à six ans et pour les
-deux derniers à neuf ans.
+Les fonctions des membres nommés en application du 2° ne sont pas exclusives
+d'une activité professionnelle, après accord du conseil général à la majorité
+des membres autres que l'intéressé. Le conseil général examine notamment
+l'absence de conflit d'intérêts et le respect du principe de l'indépendance de
+la Banque de France. Cette absence de conflit d'intérêts impose que les membres
+n'exercent aucune fonction et ne possèdent aucun intérêt au sein des
+prestataires de services visés par les titres Ier à V du livre V. Ces mêmes
+membres ne peuvent pas exercer un mandat parlementaire.
 
-Le mandat des membres définis au deuxième alinéa n'est pas renouvelable.
-Toutefois, cette règle n'est pas applicable aux membres qui ont effectué un
-mandat de trois ans par l'effet des mesures prévues au cinquième alinéa ou qui
-ont remplacé, pour une durée de trois ans au plus, un membre du conseil dans le
-cas prévu au quatrième alinéa.
+Le mandat de ces membres est de six ans. Ils sont tenus au secret professionnel.
+
+II. - La validité des délibérations est subordonnée à la présence d'au moins six
+membres.
+
+Les décisions se prennent à la majorité des membres présents. En cas de partage,
+la voix du président est prépondérante.
+
+Le conseil général peut consentir des délégations de pouvoir au gouverneur de la
+Banque de France, qui peut les subdéléguer dans les conditions fixées par le
+conseil.
+
+Un censeur, ou son suppléant, nommé par le ministre chargé de l'économie,
+assiste aux séances du conseil général. Il peut soumettre des propositions de
+décision à la délibération du conseil.
+
+Les décisions adoptées par le conseil général sont définitives, à moins que le
+censeur ou son suppléant n'y ait fait opposition.

@@ -46,6 +46,10 @@ matériellement les services utilisés par le client ;
 f. Pour les travaux immobiliers, par le montant des marchés, mémoires ou
 factures ;
 
+f bis. Pour les prestations effectuées par un fiduciaire, par la rémunération
+versée par le constituant ou retenue sur les recettes de l'exploitation des
+droits et biens du patrimoine fiduciaire ;
+
 g. (abrogé) ;
 
 h. (Abrogé à compter du 1er janvier 2001).

@@ -10,4 +10,5 @@ contribuable change fréquemment son lieu de résidence ou de principal
 déclaration de ses résultats ou de ses revenus non commerciaux, ou ne s'est pas
 fait connaître d'un centre de formalités des entreprises ou du greffe du
 tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du
-contribuable ou de tiers.
+contribuable ou de tiers ou, pour les fiducies, si les actes prévus à l'article
+635 du code général des impôts n'ont pas été enregistrés.

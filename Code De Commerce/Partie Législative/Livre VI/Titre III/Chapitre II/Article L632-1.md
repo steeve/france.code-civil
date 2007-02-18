@@ -18,8 +18,8 @@ commerce, virements, bordereaux de cession visés par la loi n° 81-1 du 2 janvi
 communément admis dans les relations d'affaires ;
 
 5° Tout dépôt et toute consignation de sommes effectués en application de
-l'article 2075-1 du code civil, à défaut d'une décision de justice ayant acquis
-force de chose jugée ;
+l'article 2075-1 du code civil (1), à défaut d'une décision de justice ayant
+acquis force de chose jugée ;
 
 6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que
 l'hypothèque légale des époux et tout droit de nantissement ou de gage
@@ -29,7 +29,10 @@ constitués sur les biens du débiteur pour dettes antérieurement contractées 
 soit antérieur à la date de cessation de paiement ;
 
 8° Toute autorisation, levée et revente d'options définies aux articles L.
-225-177 et suivants du présent code.
+225-177 et suivants du présent code ;
+
+9° Tout transfert de biens ou de droits dans un patrimoine fiduciaire en
+application des articles 2011 et suivants du code civil.
 
 II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1°
 du I faits dans les six mois précédant la date de cessation des paiements.

@@ -6,6 +6,11 @@ et taxes acquittés par le cédant, et leur prix effectif d'acquisition par
 celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la
 détermination des droits de mutation.
 
+1 bis. En cas de cession de titres ou droits reçus dans les conditions prévues à
+l'article 792 ter, le prix d'acquisition de ces titres ou droits s'entend de
+leur valeur retenue pour la détermination des droits de mutation à titre gratuit
+prévus à ce même article 792 ter.
+
 2. Le prix d'acquisition des titres ou droits à retenir par le cessionnaire pour
 la détermination du gain net de cession des titres ou droits concernés est, le
 cas échéant, augmenté du complément de prix mentionné au 2 du I de l'article
@@ -155,7 +160,8 @@ concernés, du montant :
 a. Des sommes ou valeurs remboursées dans la limite du prix d'acquisition des
 titres correspondants.
 
-b. De la déduction prévue à l'article 163 septdecies.
+b. Des sommes ayant ouvert droit à la réduction d'impôt en application de
+l'article 199 unvicies.
 
 c. abrogé
 

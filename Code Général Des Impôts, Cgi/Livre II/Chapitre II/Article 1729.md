@@ -10,4 +10,5 @@ a. 40 % en cas de manquement délibéré ;
 
 b. 80 % en cas de manoeuvres frauduleuses ou d'abus de droit au sens de
 l'article L. 64 du livre des procédures fiscales ou de dissimulation d'une
-partie du prix stipulé dans un contrat.
+partie du prix stipulé dans un contrat ou en cas d'application des dispositions
+de l'article 792 bis.

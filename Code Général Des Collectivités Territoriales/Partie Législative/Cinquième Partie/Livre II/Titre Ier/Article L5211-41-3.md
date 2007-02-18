@@ -1,8 +1,8 @@
 Article L5211-41-3
 ----
-I. - Des établissements publics de coopération intercommunale, dont au moins
-l'un d'entre eux est à fiscalité propre, peuvent être autorisés à fusionner dans
-les conditions suivantes.
+I.-Des établissements publics de coopération intercommunale, dont au moins l'un
+d'entre eux est à fiscalité propre, peuvent être autorisés à fusionner dans les
+conditions suivantes.
 
 Le projet de périmètre du nouvel établissement public de coopération
 intercommunale envisagé peut être fixé par arrêté du représentant de l'Etat dans
@@ -33,7 +33,7 @@ quinquies du code général des impôts.
 A compter de la notification de cet arrêté, le conseil municipal de chaque
 commune membre de l'un des établissements publics ou dont l'inclusion est
 envisagée et l'organe délibérant de chacun de ces établissements disposent d'un
-délai de trois mois pour se prononcer. A défaut de délibération dans ce délai,
+délai de trois mois pour se prononcer.A défaut de délibération dans ce délai,
 celle-ci est réputée favorable.
 
 Dans le délai prévu à l'alinéa précédent, les conseils municipaux de toutes les
@@ -41,7 +41,7 @@ communes intéressées par le projet de fusion se prononcent sur la répartition
 des sièges au conseil du nouvel établissement dans les conditions applicables à
 la catégorie d'établissements publics dont ce dernier relèvera après la fusion.
 
-II. - La fusion peut être décidée par arrêté du ou des représentants de l'Etat
+II.-La fusion peut être décidée par arrêté du ou des représentants de l'Etat
 dans le ou les départements concernés, après accord des conseils municipaux et
 des organes délibérants des établissements publics de coopération intercommunale
 sur l'arrêté dressant la liste des établissements publics et des communes. Cet
@@ -51,8 +51,8 @@ incluses dans le projet de périmètre représentant plus de la moitié de la
 population totale de celles-ci, ou par la moitié au moins des conseils
 municipaux des communes représentant les deux tiers de la population.
 
-III. - L'établissement public issu de la fusion relève de droit de la catégorie
-de celui des établissements publics de coopération intercommunale à fiscalité
+III.-L'établissement public issu de la fusion relève de droit de la catégorie de
+celui des établissements publics de coopération intercommunale à fiscalité
 propre inclus dans le projet auquel la loi a confié le plus grand nombre de
 compétences.
 
@@ -90,7 +90,12 @@ lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
 
 L'ensemble des personnels des établissements publics de coopération
 intercommunale fusionnés est réputé relever de l'établissement public issu de la
-fusion dans les conditions de statut et d'emploi qui sont les siennes.
+fusion dans les conditions de statut et d'emploi qui sont les siennes. Les
+agents conservent, s'ils y ont intérêt, le bénéfice du régime indemnitaire qui
+leur était applicable ainsi que, à titre individuel, les avantages acquis en
+application du troisième alinéa de l'article 111 de la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique
+territoriale.
 
-IV. - La fusion entraîne une nouvelle élection des délégués des communes au
+IV.-La fusion entraîne une nouvelle élection des délégués des communes au
 conseil du nouvel établissement public.

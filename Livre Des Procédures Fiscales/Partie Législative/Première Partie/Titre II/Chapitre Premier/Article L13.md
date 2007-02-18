@@ -10,3 +10,6 @@ concourent directement ou indirectement à la formation des résultats comptable
 ou fiscaux et à l'élaboration des déclarations rendues obligatoires par le code
 général des impôts ainsi que sur la documentation relative aux analyses, à la
 programmation et à l'exécution des traitements.
+
+Les fiducies, en la personne de leur fiduciaire, sont soumises à vérification de
+comptabilité dans les conditions prévues au présent article.

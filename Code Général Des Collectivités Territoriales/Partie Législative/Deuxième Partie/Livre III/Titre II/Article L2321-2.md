@@ -14,9 +14,15 @@ conservation du Journal officiel ;
 régime général de la sécurité sociale en application de l'article L. 2123-25-2,
 les cotisations aux régimes de retraites en application des articles L. 2123-26
 à L. 2123-28, les cotisations au fonds institué par l'article L. 1621-2 ainsi
-que les frais de formation des élus mentionnés à l'article L. 2123-14 ;.
+que les frais de formation des élus mentionnés à l'article L. 2123-14 ;
 
 4° La rémunération des agents communaux ;
+
+4° bis Dans les conditions prévues à l'article 88-1 de la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique
+territoriale, les dépenses afférentes aux prestations mentionnées à l'article 9
+de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
+fonctionnaires ;
 
 5° La cotisation au budget du Centre national de la fonction publique
 territoriale ;
