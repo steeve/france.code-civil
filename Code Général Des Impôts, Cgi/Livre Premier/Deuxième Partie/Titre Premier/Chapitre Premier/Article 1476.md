@@ -6,9 +6,10 @@ sous les mêmes sanctions ou recours.
 
 Pour les sociétés civiles professionnelles, les sociétés civiles de moyens et
 les groupements réunissant des membres de professions libérales, l'imposition
-est établie au nom de chacun des membres (1). Toutefois, ces dispositions ne
+est établie au nom de chacun des membres. Toutefois, ces dispositions ne
 s'appliquent pas aux sociétés civiles professionnelles, à compter de l'année qui
 suit celle où elles sont, pour la première fois, assujetties à l'impôt sur les
 sociétés.
 
-(1) Annexe II, art. 310 HP et 310 HQ.
+Lorsque l'activité est exercée en vertu d'un contrat de fiducie, elle est
+imposée au nom du fiduciaire.

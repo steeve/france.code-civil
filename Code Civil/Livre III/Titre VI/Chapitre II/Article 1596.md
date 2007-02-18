@@ -12,3 +12,5 @@ Les administrateurs, de ceux des communes ou des établissements publics confié
 
 Les officiers publics, des biens nationaux dont les ventes se font par leur
 ministère.
+
+Les fiduciaires, des biens ou droits composant le patrimoine fiduciaire.

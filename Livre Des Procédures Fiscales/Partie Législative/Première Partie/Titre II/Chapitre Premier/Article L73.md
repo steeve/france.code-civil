@@ -25,6 +25,10 @@ d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à
 l'article L. 324-9 du code du travail dans le cadre de l'article L. 324-12 du
 même code ;
 
+1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue
+à l'article 223 VI du code général des impôts n'a pas été déposée dans le délai
+légal par le fiduciaire ;
+
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non
 commerciaux ou des revenus assimilés lorsque la déclaration annuelle prévue à
 l'article 97 du code général des impôts n'a pas été déposée dans le délai légal

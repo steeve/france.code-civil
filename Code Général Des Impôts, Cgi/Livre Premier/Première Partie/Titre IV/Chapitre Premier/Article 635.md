@@ -20,7 +20,11 @@ son capital ;
 
 6° Les actes constatant la formation de groupement d'intérêt économique ;
 
-7° Les actes constatant un partage de biens à quelque titre que ce soit.
+7° Les actes constatant un partage de biens à quelque titre que ce soit ;
+
+8° Les actes constatant la formation, la modification ou l'extinction d'un
+contrat de fiducie, et le transfert de biens ou droits supplémentaires au
+fiduciaire dans les conditions prévues par l'article 2019 du code civil.
 
 2. 1° Les décisions des juridictions de l'ordre judiciaire lorsqu'elles donnent
 ouverture à un droit proportionnel ou progressif ;
@@ -50,3 +54,6 @@ prépondérance immobilière au sens du quatrième alinéa du 2° du I de l'arti
 726 ;
 
 8° 9° (Abrogés) ;
+
+10° Les actes portant cession et rachat taxables de parts de fonds de placement
+immobilier.

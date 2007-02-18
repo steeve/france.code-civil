@@ -13,3 +13,6 @@ réhabilitation ou du titulaire de l'autorisation.
 III. Dans les sociétés immobilières de copropriété visées à l'article 1655 ter,
 la taxe foncière est établie au nom de chacun des membres de la société pour la
 part lui revenant dans les immeubles sociaux.
+
+IV. - Lorsqu'un immeuble a été transféré en application d'un contrat de fiducie,
+la taxe foncière est établie au nom du fiduciaire.

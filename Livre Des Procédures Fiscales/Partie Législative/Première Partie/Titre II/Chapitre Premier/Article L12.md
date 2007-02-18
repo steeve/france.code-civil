@@ -15,6 +15,14 @@ Sous peine de nullité de l'imposition, un examen contradictoire de la situation
 fiscale personnelle ne peut s'étendre sur une période supérieure à un an à
 compter de la réception de l'avis de vérification.
 
+Lorsqu'un contrat de fiducie ou les actes le modifiant n'ont pas été enregistrés
+dans les conditions prévues à l'article 2019 du code civil, ou révélés à
+l'administration fiscale avant l'engagement de l'examen contradictoire de la
+situation fiscale personnelle d'un contribuable qui y est partie ou en tient des
+droits, la période prévue au troisième alinéa est prorogée du délai écoulé entre
+la date de réception de l'avis de vérification et l'enregistrement ou la
+révélation de l'information.
+
 Cette période est prorogée du délai accordé, le cas échéant, au contribuable et,
 à la demande de celui-ci, pour répondre aux demandes d'éclaircissements ou de
 justifications pour la partie qui excède les deux mois prévus à l'article L. 16

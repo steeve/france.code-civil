@@ -17,8 +17,9 @@ concernant :
 
 5° La constitution, la gestion ou la direction des sociétés ;
 
-6° La constitution, la gestion ou la direction de fiducies de droit étranger ou
-de toute autre structure similaire.
+6° La constitution, la gestion ou la direction de fiducies régies par les
+articles 2011 à 2031 du code civil ou par un droit étranger ou de toute autre
+structure similaire.
 
 Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des
 activités relatives aux transactions visées ci-dessus et les experts-comptables

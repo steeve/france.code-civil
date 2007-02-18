@@ -14,3 +14,6 @@ l'acquisition du bien ;
 
 - soit la valeur nominale des actions ou parts reçues en contrepartie des
 apports en nature qu'il a effectués.
+
+Lorsque l'opération est réalisée par un fiduciaire, les sommes mentionnées aux
+deux précédents alinéas s'apprécient, le cas échéant, chez le constituant.
