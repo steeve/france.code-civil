@@ -1,8 +1,10 @@
 Article L428
 ----
 Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les
-dispositions du titre IV du livre Ier sont applicables, sous réserve des
-dispositions prévues au présent chapitre.
+dispositions du titre IV du livre Ier sont applicables, dans leur rédaction en
+vigueur à la date de promulgation de la loi n° 2007-224 du 21 février 2007
+portant dispositions statutaires et institutionnelles relatives à l'outre-mer,
+sous réserve des dispositions prévues au présent chapitre.
 
 Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de
 l'article L. 231 est ainsi rédigé :

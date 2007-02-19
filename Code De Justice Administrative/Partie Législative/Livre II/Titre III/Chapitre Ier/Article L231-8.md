@@ -12,4 +12,4 @@ position de disponibilité.
 
 Il en va de même du membre du corps des tribunaux administratifs et des cours
 administratives qui est élu ou nommé à l'une des fonctions ou mandats mentionnés
-au dernier alinéa de l'article L. 231-7.
+aux quatre derniers alinéas de l'article L. 231-7.

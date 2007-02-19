@@ -5,177 +5,310 @@ I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au co
 ainsi rédigé :
 
 
+SÉRIE A
+
+SÉRIE B
+
+
+SÉRIE C
+
 Représentation des départements
 
-SÉRIE A :
 
-Ain à Indre : 95
+Ain à Indre
 
-Guyane : 1
+95
 
-= 96
 
-SÉRIE B :
+Indre-et-Loire à Pyrénées-Orientales
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+94
 
-La Réunion : 3
 
-= 97
+Bas-Rhin à Yonne
 
-SÉRIE C :
+68
 
-Bas-Rhin à Yonne : 68
 
-Essonne à Yvelines : 47
+Guyane
 
-Guadeloupe, Martinique : 5
+1
 
-= 120
+
+La Réunion
+
+3
+
+
+Essonne à Yvelines
+
+47
+
+Guadeloupe, Martinique
+
+5
+
+96
+
+97
+
+120
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
 Français établis hors de France
 
-SÉRIE A :
 
-Polynésie française : 1
+Polynésie française
 
-Iles Wallis et Futuna : 1
+1
 
-Français établis hors de France : 4
 
-= 102
+Nouvelle-Calédonie
 
-SÉRIE B :
+1
 
-Nouvelle-Calédonie : 1
 
-Français établis hors de France : 4
+Mayotte
 
-= 102
+2
 
-SÉRIE C :
 
-Mayotte : 2
+Iles Wallis-et-Futuna
 
-Saint-Pierre-et-Miquelon : 1
+1
 
-Français établis hors de France : 4
 
-= 127
+Français établis hors de France
+
+4
+
+
+Saint-Pierre-et-Miquelon
+
+1
+
+
+Français établis hors de France
+
+4
+
+
+Français établis hors de France
+
+4
+
+
+Total
+
+102
+
+102
+
+127
 
 II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi
 rédigé :
 
 
+SÉRIE A
+
+SÉRIE B
+
+
+SÉRIE C
+
 Représentation des départements
 
-SÉRIE A :
 
-Ain à Indre : 103
+Ain à Indre
 
-Guyane : 2
+103
 
-= 105
 
-SÉRIE B :
+Indre-et-Loire à Pyrénées-Orientales
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+94
 
-La Réunion : 3
 
-= 97
+Bas-Rhin à Yonne
 
-SÉRIE C :
+68
 
-Bas-Rhin à Yonne : 68
 
-Essonne à Yvelines : 47
+Guyane
 
-Guadeloupe, Martinique : 5
+2
 
-= 120
+
+La Réunion
+
+3
+
+
+Essonne à Yvelines
+
+47
+
+Guadeloupe, Martinique
+
+5
+
+105
+
+97
+
+120
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
 Français établis hors de France
 
-SÉRIE A :
 
-Polynésie française : 2
+Polynésie française
 
-Iles Wallis et Futuna : 1
+2
 
-Français établis hors de France : 4
 
-= 112
+Nouvelle-Calédonie
 
-SÉRIE B :
+1
 
-Nouvelle-Calédonie : 1
 
-Français établis hors de France : 4
+Mayotte
 
-= 102
+2
 
-SÉRIE C :
 
-Mayotte : 2
+Iles Wallis-et-Futuna
 
-Saint-Pierre-et-Miquelon : 1
+1
 
-Français établis hors de France : 4
 
-= 127
+Français établis hors de France
+
+4
+
+
+Saint-Pierre-et-Miquelon
+
+1
+
+
+Français établis hors de France
+
+4
+
+
+Français établis hors de France
+
+4
+
+
+Total
+
+114
+
+102
+
+127
 
 III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi
 rédigé :
 
 
+SÉRIE 1
+
+SÉRIE 2
+
+
 Représentation des départements
 
-SÉRIE 1 :
+Indre-et-Loire à Pyrénées-Orientales
 
-Indre-et-Loire à Pyrénées-Orientales : 97
+97
 
-Seine-et-Marne : 6
 
-Essonne à Yvelines : 47
+Ain à Indre
 
-Guadeloupe, Martinique, La Réunion : 9
+103
 
-= 159
 
-SÉRIE 2 :
+Seine-et-Marne
 
-Ain à Indre : 103
+6
 
-Bas-Rhin à Yonne à l'exception de la Seine-et-Marne : 62
+Bas-Rhin à Yonne (à l'exception de la Seine-et-Marne)
 
-Guyane : 2
+62
 
-= 167
+
+Essonne à Yvelines
+
+47
+
+
+Guyane
+
+2
+
+Guadeloupe, Martinique, La Réunion
+
+9
+
+159
+
+167
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
 Français établis hors de France
 
-SÉRIE 1 :
 
-Mayotte : 2
+Mayotte
 
-Saint-Pierre-et-Miquelon : 1
+2
 
-Nouvelle-Calédonie : 2
 
-Français établis hors de France : 6
+Polynésie française
 
-= 170
+2
 
-SÉRIE 2 :
 
-Polynésie française : 2
+Saint-Barthélemy
 
-Iles Wallis et Futuna : 1
+1
 
-Français établis hors de France : 6
 
-= 176
+Saint-Martin
+
+1
+
+
+Saint-Pierre-et-Miquelon
+
+1
+
+
+Iles Wallis-et-Futuna
+
+1
+
+
+Nouvelle-Calédonie
+
+2
+
+
+Français établis hors de France
+
+6
+
+
+Français établis hors de France
+
+6
+
+
+Total
+
+170
+
+178

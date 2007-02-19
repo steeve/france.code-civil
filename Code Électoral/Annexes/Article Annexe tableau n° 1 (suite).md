@@ -1,11 +1,8 @@
 Article Annexe tableau n° 1 (suite)
 ----
-DEPARTEMENT : SEINE-ET-MARNE
+Seine-et-Marne
 
-1e circonscription
-
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Melun Sud, Perthes, Savigny-le-Temple (par décret n° 91-219 du 27
 février 1991 art. 2, le canton de Savigny-le-Temple a été divisé en deux cantons
@@ -65,12 +62,10 @@ Cantons de : Brie-Comte-Robert (par décret n° 91-219 du 27 février 1991 art.
 Brie-Comte-Robert et Combs-la-Ville), Mormant, Pontault-Combault,
 Tournan-en-Brie.
 
-DEPARTEMENT : YVELINES
 
-1e circonscription
+Yvelines
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Versailles Nord, Versailles Nord-Ouest, Versailles Ouest (par
 décret n° 91-222 du 27 février 1991 art. 1er et 2, les cantons de Versailles
@@ -127,12 +122,10 @@ Communes de : Elancourt, La Verrière.
 
 Cantons de : Plaisir, Poissy Nord, Poissy Sud.
 
-DEPARTEMENT : DEUX-SEVRES
 
-1e circonscription
+Deux-Sèvres
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Niort Est, Niort Nord, Niort Ouest, Prahecq.
 
@@ -154,12 +147,10 @@ Secondigny, Thénezay.
 Cantons de : Argenton-Château, Bressuire, Cerizay, Mauléon, Saint-Varent,
 Thouars I, Thouars II.
 
-DEPARTEMENT : SOMME
 
-1e circonscription
+Somme
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Amiens I Ouest, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII
 Nord, Picquigny.
@@ -189,12 +180,10 @@ Nesle, Péronne, Roisel.
 Cantons de : Ailly-sur-Noye, Conty, Corbie, Montdidier, Moreuil,
 Poix-de-Picardie, Rosières-en-Santerre, Roye, Villers-Bocage.
 
-DEPARTEMENT : TARN
 
-1e circonscription
+Tarn
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Albi Nord-Est, Albi Nord-Ouest, Carmaux Nord, Carmaux Sud, Cordes
 (le canton de Cordes est devenu le canton de Cordes-sur-Ciel par suite du
@@ -215,21 +204,16 @@ Cantons de : Alban, Brassac, Castres Est, Castres Nord, Castres Sud (par décret
 du 21 février 1997 art. 2, les cantons de Castres Nord et de Castres Sud ont été
 remodelés en trois cantons :
 
-Castres Nord, Castres Ouest et Castres Sud), Castres, Lacaune,
-Montredon-Labessonnié, Murat-sur-Vèbre, Réalmont, Roquecourbe, Vabre.
-
 4e circonscription
 
 Cantons de : Anglès, Cuq-Toulza, Dourgne, Labruguière, Lautrec, Lavaur, Mazamet
 Nord-Est, Mazamet Sud-Ouest, Puylaurens, Saint-Amans-Soult,
 Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout.
 
-DEPARTEMENT : TARN-ET-GARONNE
 
-1e circonscription
+Tarn-et-Garonne
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
 Montauban I, Montauban II, Montauban III, Montauban IV (par décret n° 91-220 du
@@ -243,12 +227,10 @@ Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I,
 Castelsarrasin II, Grisolles, Lauzerte, Lavit, Moissac I, Moissac II, Montech,
 Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne.
 
-DEPARTEMENT : VAR
 
-1e circonscription
+Var
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Toulon I, Toulon V, Toulon VI, Toulon VIII.
 
@@ -284,12 +266,10 @@ Tavernes.
 Cantons de: Ollioules, Saint-Mandrier-sur-Mer, La Seyne sur-Mer,
 Six-Fours-les-Plages.
 
-DEPARTEMENT : VAUCLUSE
 
-1e circonscription
+Vaucluse
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
 
@@ -308,12 +288,10 @@ Pernes-les-Fontaines, Sault.
 Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest,
 Vaison-la-Romaine, Valréas.
 
-DEPARTEMENT : VENDEE
 
-1e circonscription
+Vendée
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La
 Roche-sur-Yon Nord.
@@ -338,12 +316,10 @@ Saint-Fulgent.
 Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte,
 L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-Hilaire-des-Loges.
 
-DEPARTEMENT : VIENNE
 
-1e circonscription
+Vienne
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Mirebeau, Neuville-de-Poitou, Poitiers I, Poitiers II, Poitiers
 VII, Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Vouneuil-sur-Vienne.
@@ -359,8 +335,6 @@ Cantons de : Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay,
 L'Isle-Jourdain, Lusignan, Lussac-les-Châteaux, Montmorillon, Saint-Savin, La
 Trimouille.
 
-Commune de La Puye.
-
 4e circonscription
 
 Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud,
@@ -368,9 +342,10 @@ Dangé-Saint-Romain, Lencloître, Loudun, Moncontour, Monts-sur-Guesnes,
 Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les
 Trois-Moutiers.
 
-DEPARTEMENT : HAUTE-VIENNE
 
-1e circonscription
+Haute-Vienne
+
+1re circonscription
 
 Cantons de : Limoges-Beaupuy, Limoges-Carnot, Limoges Centre, Limoges-Cité,
 Limoges-Condat, Limoges-Couzeix, Limoges-Emailleurs, Limoges-Puy-las-Rodas.
@@ -394,12 +369,10 @@ Cantons de : Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Limoges-La-Bastide,
 Limoges-Grand-Treuil, Limoges-Le-Palais, Limoges-Panazol, Limoges-Vigenal,
 Saint-Léonard-de-Noblat.
 
-DEPARTEMENT : VOSGES
 
-1e circonscription
+Vosges
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers,
 Xertigny.
@@ -419,12 +392,10 @@ Saulxures-sur-Moselotte, Le Thillot.
 Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney,
 Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel.
 
-DEPARTEMENT : YONNE
 
-1e circonscription
+Yonne
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord-Ouest (par décret n°
 91-221 du 27 février 1991 art. 1er, le canton d'Auxerre Nord-Ouest a été divisé
@@ -449,12 +420,10 @@ Cantons de : Brienon-sur-Armançon, Cerisiers, Chéroy, Joigny, Pont-sur-Yonne,
 Saint-Julien-du-Sault, Sens Nord-Est, Sens Ouest, Sens Sud-Est, Sergines,
 Villeneuve-l'Archevêque, Villeneuve-sur-Yonne.
 
-DEPARTEMENT : TERRITOIRE DE BELFORT
 
-1e circonscription
+Territoire de Belfort
 
-
-COMPOSITION
+1re circonscription
 
 Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine,
 Grandvillars.
@@ -464,12 +433,10 @@ Grandvillars.
 Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges,
 Giromagny, Offemont, Rougemont-le-Château, Valdoie.
 
-DEPARTEMENT : ESSONNE
 
-1e circonscription
+Essonne
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
 
@@ -510,12 +477,10 @@ Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbei
 Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois,
 Saint-Michel-sur-Orge.
 
-DEPARTEMENT : HAUTS-DE-SEINE
 
-1e circonscription
+Hauts-de-Seine
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord,
 Gennevilliers Sud, Villeneuve-la-Garenne.
@@ -557,7 +522,7 @@ République jusqu'au pont d'Issy).
 
 10e circonscription
 
-Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9,
+Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9
 circonscription), Issy-les-Moulineaux Est, Issy-les-Moulineaux Ouest, Vanves.
 
 11e circonscription
@@ -572,11 +537,10 @@ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
 
 Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.
 
-DEPARTEMENT : SEINE-SAINT-DENIS
 
-1e circonscription
+Seine-Saint-Denis
 
-COMPOSITION :
+1re circonscription
 
 Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
 
@@ -626,7 +590,7 @@ Pavillons-sous-Bois.
 
 11e circonscription
 
-Cantons de : Sevran, Tremblay-lès-Gonesse, Villepinte.
+Cantons de : Sevran, Tremblay-en-France, Villepinte.
 
 12e circonscription
 
@@ -636,12 +600,10 @@ Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
 
 Cantons de : Neuilly-Plaisance, Neuilly-sur-Marne, Noisy-le-Grand.
 
-DEPARTEMENT : VAL-DE-MARNE
 
-1e circonscription
+Val-de-Marne
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Bonneuil-sur-Marne, Créteil Nord, Saint-Maur-des-Fossés Centre,
 Saint-Maur-La-Varenne.
@@ -691,21 +653,15 @@ Vitry-sur-Seine Nord.
 
 11e circonscription
 
-
-Composition
-
 Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
 
 12e circonscription
 
-
-Composition
-
 Cantons de : Chevilly-Larue, Fresnes, L'Hay-les-Roses, Thiais.
 
-DEPARTEMENT : VAL-D'OISE
+Val-d'Oise
 
-1e circonscription
+1re circonscription
 
 Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La
 Vallée-du-Sausseron, Vigny.
@@ -743,12 +699,10 @@ Nord-Est, Villiers-le-Bel.
 
 Cantons de : Gonesse, Goussainville, Luzarches.
 
-DEPARTEMENT : GUADELOUPE
 
-1e circonscription
+Guadeloupe
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Les Abymes I, Les Abymes II, Les Abymes III, Les Abymes IV, Les
 Abymes V, Capesterre-de-Marie-Galante, Grand-Bourg, Pointe-à-Pitre I,
@@ -767,19 +721,15 @@ Goyave, Lamentin, Petit-Bourg, Pointe-Noire, Sainte-Rose I, Sainte-Rose II.
 
 4e circonscription
 
-Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Gourbeyre,
-Saint-Barthélemy, Saint-Claude, Saint-Martin, (par décret n° 91-232 du 28
-février 1991 (art. 1er), le canton de Saint-Martin a été divisé en deux cantons
-dénommés Saint-Martin I et Saint-Martin II).
+Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Gourbeyre, Saint-Claude,
+Saint-Martin.
 
 Les Saintes, Trois-Rivières, Vieux-Habitants.
 
-DEPARTEMENT : GUYANE
 
-1e circonscription
+Guyane
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Cayenne I, Cayenne II, Cayenne III, Cayenne IV, Cayenne V, Cayenne
 VI, Macouria.
@@ -790,12 +740,10 @@ Cantons de : Approuague-Kaw, Iracoubo, Kourou, Mana, Maripasoula, Matoury,
 Montsinéry-Tonnégrande, L'Oyapok, Rémire-Montjoly, Roura,
 Saint-Laurent-du-Maroni, Sinnamary.
 
-DEPARTEMENT : MARTINIQUE
 
-1e circonscription
+Martinique
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : L'Ajoupa-Bouillon, Basse-Pointe, Macouba, Gros-Morne, Le Lorrain,
 Le Marigot, Saint-Joseph, Sainte-Marie I, Sainte-Marie II, La Trinité.
@@ -818,12 +766,10 @@ Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le François I, Le François
 II, Le Marin, Rivière-Pilote, Rivière-Salée, Le Robert I, Le Robert II,
 Saint-Esprit, Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le Vauclin.
 
-DEPARTEMENT : REUNION
 
-1e circonscription
+Réunion
 
-
-COMPOSITION
+1re circonscription
 
 Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV (par
 décret n° 88-400 du 21 avril 1988 art. 4, en remplacement des cantons de

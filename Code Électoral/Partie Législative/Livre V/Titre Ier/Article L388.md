@@ -1,7 +1,10 @@
 Article L388
 ----
-Les dispositions du titre Ier du livre Ier du présent code, à l'exception des
-articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction
+en vigueur à la date de promulgation de la loi n° 2007-224 du 21 février 2007
+portant dispositions statutaires et institutionnelles relatives à l'outre-mer, à
+l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à
+l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles
 Wallis et Futuna ;

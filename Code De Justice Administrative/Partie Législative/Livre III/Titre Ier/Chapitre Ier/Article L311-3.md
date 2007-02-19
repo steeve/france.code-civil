@@ -30,6 +30,27 @@ conformément aux articles 82 et 117 de la même loi organique ;
 l'article 13-12 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis
 et Futuna le statut de territoire d'outre-mer ;
 
-6° Les élections à l'Assemblée des Français de l'étranger, conformément à
+6° Les élections au conseil territorial de Saint-Barthélemy, conformément à
+l'article LO 497 du code électoral, ainsi que l'élection du président du conseil
+territorial et des membres du conseil exécutif et les recours concernant la
+démission d'office des membres du conseil territorial conformément à l'article
+LO 495 du même code ;
+
+7° Les élections au conseil territorial de Saint-Martin, conformément à
+l'article LO 524 du même code, ainsi que l'élection du président du conseil
+territorial et des membres du conseil exécutif et les recours concernant la
+démission d'office des membres du conseil territorial conformément à l'article
+LO 522 du même code ;
+
+8° Les élections au conseil territorial de Saint-Pierre-et-Miquelon,
+conformément à l'article LO 552 du même code, ainsi que l'élection du président
+du conseil territorial et des membres du conseil exécutif et les recours
+concernant la démission d'office des membres du conseil territorial conformément
+à l'article LO 550 du même code ;
+
+9° Les élections à l'Assemblée des Français de l'étranger, conformément à
 l'article 9 de la loi n° 82-471 du 7 juin 1982 relative à l'Assemblée des
-Français de l'étranger.
+Français de l'étranger ;
+
+10° Les consultations organisées en application des articles 72-4 et 73 de la
+Constitution.

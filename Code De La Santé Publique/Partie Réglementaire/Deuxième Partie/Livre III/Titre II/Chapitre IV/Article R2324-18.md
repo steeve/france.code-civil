@@ -20,15 +20,8 @@ fonction du public accueilli et du contexte local, notamment en ce qui concerne
 les capacités d'accueil et les effectifs ainsi que la qualification des
 personnels ;
 
-5° Le nombre de places d'accueil régulier que l'établissement souhaite pouvoir
-utiliser pour de l'accueil occasionnel, ou réciproquement, en cas de
-multi-accueil ;
-
-6° Le nom et la qualification du directeur ou, pour les établissements à gestion
-parentale, du responsable technique ;
-
-7° Le projet d'établissement ou de service prévu à l'article R. 2324-29 et le
-règlement intérieur prévu à l'article R. 2324-30, ou les projets de ces
+5° Le projet d'établissement ou de service prévu à l'article R. 2324-29 et le
+règlement de fonctionnement prévu à l'article R. 2324-30, ou les projets de ces
 documents s'ils n'ont pas encore été adoptés ;
 
-8° Le plan des locaux avec la superficie et la destination des pièces.
+6° Le plan des locaux avec la superficie et la destination des pièces.
