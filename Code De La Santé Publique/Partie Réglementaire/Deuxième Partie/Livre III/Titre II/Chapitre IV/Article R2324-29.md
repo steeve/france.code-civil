@@ -6,9 +6,13 @@ de service qui comprend les éléments suivants :
 1° Un projet éducatif pour l'accueil, le soin, le développement, l'éveil et le
 bien-être des enfants ;
 
-2° Un projet social ;
+2° Un projet social, précisant notamment les modalités prévues pour faciliter ou
+garantir l'accès aux enfants de familles connaissant des difficultés
+particulières, en application des dispositions du sixième alinéa de l'article L.
+214-2 et de l'article L. 214-7 du code de l'action sociale et des familles ;
 
-3° Les prestations d'accueil proposées ;
+3° Les prestations d'accueil proposées, en précisant notamment les durées et les
+rythmes d'accueil ;
 
 4° Le cas échéant, les dispositions particulières prises pour l'accueil
 d'enfants atteints d'un handicap ou d'une maladie chronique ;

@@ -2,7 +2,7 @@ Article R2324-40
 ----
 Les modalités du concours du médecin sont fixées par voie conventionnelle entre
 l'établissement ou le service et le médecin, ou l'organisme qui l'emploie,
-conformément au règlement intérieur, en fonction du nombre des enfants
+conformément au règlement de fonctionnement, en fonction du nombre des enfants
 accueillis et de leur état de santé, à moins que le médecin et l'établissement
 ou le service ne relèvent de la même collectivité publique.
 

@@ -18,3 +18,7 @@ accueil régulier et occasionnel, ou un accueil familial et collectif.
 
 Les établissements d'accueil collectif gérés par une association de parents qui
 participent à l'accueil sont dénommés établissements à gestion parentale.
+
+Les établissements d'accueil collectif qui reçoivent exclusivement des enfants
+âgés de plus de deux ans non scolarisés ou scolarisés à temps partiel sont
+dénommés jardins d'enfants.

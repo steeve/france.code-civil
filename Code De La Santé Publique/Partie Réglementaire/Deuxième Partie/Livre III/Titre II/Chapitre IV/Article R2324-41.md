@@ -1,7 +1,11 @@
 Article R2324-41
 ----
-Dans les établissements et services d'une capacité supérieure ou égale à
-quarante places, le personnel comprend au moins un éducateur de jeunes enfants.
+Les établissements d'accueil collectif d'une capacité égale ou supérieure à
+vingt-cinq places disposent d'éducateurs de jeunes enfants diplômés d'Etat à
+raison d'au moins un demi-poste, auquel il est ajouté un demi-poste de plus par
+tranche complète de vingt places supplémentaires au-delà de vingt-cinq.
 
-Il comprend en outre un éducateur de jeunes enfants par effectif de quarante
-enfants supplémentaires.
+Les services d'accueil familial d'une capacité égale ou supérieure à trente
+places disposent d'éducateurs de jeunes enfants diplômés d'Etat à raison d'au
+moins un demi-poste, auquel il est ajouté un demi-poste de plus par tranche
+complète de trente places supplémentaires au-delà de trente.
