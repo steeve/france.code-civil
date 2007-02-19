@@ -1,31 +1,39 @@
 Article L142-5
 ----
-Les membres du Conseil de la politique monétaire sont tenus au secret
-professionnel.
+Le comité monétaire du conseil général comprend sept membres :
 
-Il ne peut être mis fin, avant terme, à leurs fonctions, que s'ils deviennent
-incapables d'exercer celles-ci ou commettent une faute grave, par révocation sur
-demande motivée du Conseil de la politique monétaire statuant à la majorité des
-membres autres que l'intéressé.
+- le gouverneur et les deux sous-gouverneurs de la Banque de France ;
 
-Les fonctions du gouverneur, des sous-gouverneurs et des autres membres du
-Conseil de la politique monétaire sont exclusives de toute autre activité
-professionnelle publique ou privée, rémunérée ou non, à l'exception de
-l'exercice du mandat de membre du Conseil économique et social ou le cas
-échéant, après accord du Conseil de la politique monétaire, d'activités
-d'enseignement ou de fonctions exercées au sein d'organismes internationaux. Ils
-ne peuvent exercer de mandats électifs. S'ils ont la qualité de fonctionnaires,
-ils sont placés en position de détachement et ne peuvent recevoir une promotion
-au choix.
+- deux membres nommés par le président du Sénat et deux membres nommés par le
+président de l'Assemblée nationale, compte tenu de leur compétence et de leur
+expérience professionnelle dans les domaines monétaire, financier ou économique.
 
-Le gouverneur et les sous-gouverneurs qui cessent leurs fonctions pour un motif
-autre que la révocation pour faute grave continuent à recevoir leur traitement
-d'activité pendant trois ans. Pour les autres membres du Conseil de la politique
-monétaire, cette période est limitée à un an. Au cours de cette période, ils ne
-peuvent, sauf accord du Conseil de la politique monétaire, exercer d'activités
-professionnelles, à l'exception de fonctions publiques électives ou de fonctions
-de membre du Gouvernement. Dans le cas où le Conseil de la politique monétaire a
-autorisé l'exercice d'activités professionnelles, ou s'ils exercent des
-fonctions publiques électives autres que nationales, le Conseil détermine les
-conditions dans lesquelles tout ou partie de leur traitement peut continuer à
-leur être versé.
+Lors de la première désignation, à compter de la promulgation de la loi n°
+2007-212 du 20 février 2007 portant diverses dispositions intéressant la Banque
+de France, des membres nommés dans les conditions définies au troisième alinéa,
+un membre est nommé par le président du Sénat et un membre est nommé par le
+président de l'Assemblée nationale. Le mandat de ces membres expire à la fin de
+l'année 2011, sous réserve des dispositions prévues au sixième alinéa. En outre,
+les membres du Conseil de la politique monétaire nommés par décret en conseil
+des ministres autres que le gouverneur et les deux sous-gouverneurs, en fonction
+à la date de publication de la loi n° 2007-212 du 20 février 2007 précitée, sont
+membres de droit du comité monétaire. Leur mandat ne sera pas renouvelé à
+l'expiration de leurs fonctions.
+
+A compter du 1er janvier 2009, le renouvellement des membres visés au troisième
+alinéa s'opère par moitié tous les trois ans. Lors de chaque renouvellement
+triennal, un membre est nommé par le président du Sénat et un membre est nommé
+par le président de l'Assemblée nationale. Le mandat de ces membres dure six
+ans, sous réserve des dispositions prévues au sixième alinéa.
+
+Il est pourvu au remplacement des membres du comité monétaire au moins huit
+jours avant l'expiration de leurs fonctions. Si l'un des membres visés au
+troisième alinéa ne peut exercer son mandat jusqu'à son terme, il est pourvu
+immédiatement à son remplacement dans les conditions décrites aux trois alinéas
+précédents et il n'exerce ses fonctions que pour la durée restant à courir du
+mandat de la personne qu'il remplace.
+
+Le mandat des membres nommés par le président du Sénat et le président de
+l'Assemblée nationale n'est pas renouvelable. Toutefois, cette règle n'est pas
+applicable aux membres qui ont remplacé, pour une durée de trois ans au plus, un
+membre du comité dans le cas prévu au sixième alinéa.

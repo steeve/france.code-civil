@@ -8,11 +8,10 @@ locales, les entreprises dans lesquelles l'Etat ou les collectivités locales on
 des participations, les organismes ou groupements de répartition, de
 distribution ou de coordination, créés sur l'ordre ou avec le concours ou sous
 le contrôle de l'Etat ou des collectivités locales doivent sous réserve des
-dispositions des articles 133, 207, 208, 1040, 1382, 1394 et 1449 à 1463
-acquitter, dans les conditions de droit commun, les impôts et taxes de toute
-nature auxquels seraient assujetties des entreprises privées effectuant les
-mêmes opérations (1).
+dispositions des articles 133,207,208,1040,1382,1394 et 1449 à 1463 acquitter,
+dans les conditions de droit commun, les impôts et taxes de toute nature
+auxquels seraient assujetties des entreprises privées effectuant les mêmes
+opérations.
 
-La Banque de France acquitte les impôts dans les conditions de droit commun.
-
-(1) Annexe IV, art. 165 à 170.
+La Banque de France acquitte les impôts dans les conditions de droit commun,
+sous réserve des dispositions de l'article 38 quinquies A.

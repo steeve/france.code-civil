@@ -1,13 +1,19 @@
 Article L142-2
 ----
-Le Conseil de la politique monétaire examine les évolutions monétaires et
-analyse les implications de la politique monétaire élaborée dans le cadre du
-Système européen de banques centrales.
+Le conseil général administre la Banque de France.
 
-Dans le cadre des orientations et instructions de la Banque centrale européenne,
-il précise les modalités d'achat ou de vente, de prêt ou d'emprunt, d'escompte,
-de prise en gage, de prise ou de mise en pension de créances et d'émission de
-bons portant intérêt, ainsi que la nature et l'étendue des garanties dont sont
-assortis les prêts consentis par la Banque de France.
+Il délibère sur les questions relatives à la gestion des activités de la Banque
+de France autres que celles qui relèvent des missions du Système européen de
+banques centrales.
 
-Il peut consentir au gouverneur des délégations temporaires de pouvoir.
+Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément
+des ministres compétents par le gouverneur de la Banque de France.
+
+Le conseil général délibère également de l'emploi des fonds propres et établit
+les budgets prévisionnels et rectificatifs de dépenses, arrête le bilan et les
+comptes de la banque, ainsi que le projet d'affectation du bénéfice et de
+fixation du dividende revenant à l'Etat.
+
+Le conseil général désigne deux commissaires aux comptes chargés de vérifier les
+comptes de la Banque de France. Ils sont convoqués à la réunion du conseil
+général qui arrête les comptes de l'exercice écoulé.
