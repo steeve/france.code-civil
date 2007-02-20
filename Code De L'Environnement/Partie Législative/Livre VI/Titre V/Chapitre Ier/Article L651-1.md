@@ -32,5 +32,5 @@ remplacés par les mots : "tribunal de première instance" ;
 "tribunal supérieur d'appel".
 
 Les références à des dispositions non applicables dans la collectivité sont
-remplacées par les références aux dispositions ayant le même objet applicable
+remplacées par les références aux dispositions ayant le même objet applicables
 localement.

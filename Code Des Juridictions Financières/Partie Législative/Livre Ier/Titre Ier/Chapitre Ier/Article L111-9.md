@@ -13,14 +13,12 @@ durée de la délégation. Il fixe, le cas échéant, le montant des recettes
 ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des
 établissements publics relevant d'une même catégorie peuvent être délégués.
 
-Dans les conditions définies à l'alinéa précédent, le jugement des comptes et
+Dans les conditions définies au deuxième alinéa, le jugement des comptes et
 l'examen de la gestion de tout ou partie des établissements publics nationaux
-relevant d'une même catégorie et ayant leur siège en Polynésie française peuvent
-être délégués à la chambre territoriale des comptes par arrêté du premier
-président de la Cour des comptes pris après avis du procureur général près la
-Cour des comptes et du président de la chambre territoriale des comptes.
-
-Dans les mêmes conditions, le jugement des comptes et l'examen de la gestion de
-tout ou partie des établissements publics nationaux relevant d'une même
-catégorie et ayant leur siège en Nouvelle-Calédonie peuvent être délégués à la
-chambre territoriale des comptes de la Nouvelle-Calédonie.
+relevant d'une même catégorie et ayant leur siège en Polynésie française, en
+Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à
+Saint-Pierre-et-Miquelon peuvent être délégués aux chambres territoriales des
+comptes de Polynésie française, de Nouvelle-Calédonie, de Mayotte, de
+Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon par arrêté du
+premier président de la Cour des comptes pris après avis du procureur général
+près la Cour des comptes et du président de la chambre territoriale des comptes.

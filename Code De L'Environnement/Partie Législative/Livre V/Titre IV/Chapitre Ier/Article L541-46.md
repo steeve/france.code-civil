@@ -31,7 +31,7 @@ l'article L. 541-22 ;
 prescriptions concernant les caractéristiques, les quantités, les conditions
 techniques et financières de prise en charge des déchets ou matériaux et les
 procédés de traitement mis en oeuvre fixées en application des articles L.
-541-11, L. 541-22, L. 541-24, L. 541-35 et L. 541-36 ;
+541-11, L. 541-22, L. 541-24 et L. 541-35 ;
 
 9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ;
 

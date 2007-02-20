@@ -1,9 +1,8 @@
 Article L710-4
 ----
-Pour l'application de l'article L. 121-7, les mots : "aux articles L. 1614-1 et
-L. 1614-3 du code général des collectivités territoriales" figurant au premier
-alinéa sont remplacés par les mots : "aux articles L. 1773-1 et L. 1773-3 du
-code général des collectivités territoriales".
+Pour l'application à Mayotte de l'article L. 121-7, les références : " aux
+articles L. 1614-1 et L. 1614-3 " figurant au premier alinéa sont remplacées par
+la référence : " au titre VII du livre Ier de la sixième partie ".
 
 Au deuxième alinéa, la première phrase est remplacée par les dispositions
 suivantes :
@@ -15,6 +14,6 @@ document d'urbanisme. En cas de nécessité, la collectivité départementale pe
 bénéficier des mêmes services pour l'élaboration ou la révision du plan
 d'aménagement et de développement durable de Mayotte.
 
-Aux deuxième et troisième phrases du même alinéa, après les mots : "ou le
-président de l'établissement public" sont insérés les mots : "ou le président du
-conseil général".
+Aux deuxième et troisième phrases du même alinéa, après les mots : " ou le
+président de l'établissement public " sont insérés les mots : " ou le président
+du conseil général ".

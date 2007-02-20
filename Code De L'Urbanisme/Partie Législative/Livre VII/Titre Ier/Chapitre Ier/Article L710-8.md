@@ -9,8 +9,7 @@ collectivité territoriale de Mayotte demeurent applicables jusqu'au 1er janvier
 Les plans d'occupation des sols mentionnés au premier alinéa ont les mêmes
 effets que les plans locaux d'urbanisme. Ils sont soumis au régime juridique des
 plans locaux d'urbanisme défini par les articles L. 123-1-1 à L. 123-5 et L.
-123-14 à L. 123-17. Ils peuvent comprendre tout ou partie du contenu des plans
-locaux d'urbanisme.
+123-14 à L. 123-17.
 
 Ils peuvent faire l'objet d'une modification selon les modalités prévues à
 l'article L. 710-9, sans être mis en forme de plan local d'urbanisme, à
