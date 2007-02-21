@@ -9,8 +9,8 @@ authentique en ce qui concerne les énonciations établissant l'état, la capaci
 et la qualité des parties, lorsque ces énonciations sont certifiées exactes dans
 l'acte par le notaire ou l'autorité administrative.
 
-Lorsque la radiation porte sur l'inscription d'une hypothèque conventionnelle,
-elle peut être requise par le dépôt au bureau du conservateur d'une copie
-authentique de l'acte notarié certifiant que le créancier a, à la demande du
-débiteur, donné son accord à cette radiation ; le contrôle du conservateur se
-limite à la régularité formelle de l'acte à l'exclusion de sa validité au fond.
+La radiation de l'inscription peut être requise par le dépôt au bureau du
+conservateur d'une copie authentique de l'acte notarié certifiant que le
+créancier a, à la demande du débiteur, donné son accord à cette radiation ; le
+contrôle du conservateur se limite à la régularité formelle de l'acte à
+l'exclusion de sa validité au fond.
