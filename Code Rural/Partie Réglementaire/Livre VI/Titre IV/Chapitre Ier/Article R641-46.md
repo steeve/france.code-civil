@@ -1,17 +1,9 @@
 Article R641-46
 ----
-Le budget de l'Institut national de l'origine et de la qualité et ses
-modifications, préparés par le directeur, sont, de même que le compte financier,
-établis par le conseil permanent et approuvés par les ministres chargés de
-l'agriculture et du budget dans les conditions prévues par le décret n° 99-575
-du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions
-financières des établissements publics de l'Etat.
-
-Outre la dotation budgétaire de l'Etat prévue à l'article L. 641-7 et les autres
-ressources dont il bénéficie en application de textes particuliers, l'institut
-perçoit des redevances pour services rendus et des recettes diverses dont le
-montant est fixé par arrêté conjoint des ministres chargés de l'économie, du
-budget et de l'agriculture, sur proposition du conseil permanent.
-
-L'institut peut recevoir en outre et le cas échéant tous legs, subventions et
-dons.
+La mention "produits pays" est réservée aux denrées alimentaires et aux produits
+agricoles non alimentaires définis à l'article R. 641-45 dont toutes les
+opérations de production, y compris de naissage, d'élevage, d'engraissement,
+d'abattage et de préparation, ainsi que de fabrication, d'affinage et de
+conditionnement sont réalisées dans un département d'outre-mer. Doivent
+également provenir d'un département d'outre-mer les matières premières entrant
+dans leur fabrication ou dans l'alimentation des animaux.
