@@ -6,7 +6,7 @@ annuelle, les tarifs des redevances mentionnées à l'article R. 224-2 hormis
 celles mentionnées au troisième alinéa du 2°, et, le cas échéant, leurs
 modulations, pour homologation par les ministres chargés de l'aviation civile et
 de l'économie. Cette notification est accompagnée des éléments mentionnés à
-l'article R. 224-3-1 et au IV de l'article R. 224-2 ainsi que de l'avis de la
+l'article R. 224-3-1 et au IV de l'article R. 224-3 ainsi que de l'avis de la
 commission consultative économique de l'aérodrome.
 
 Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés
