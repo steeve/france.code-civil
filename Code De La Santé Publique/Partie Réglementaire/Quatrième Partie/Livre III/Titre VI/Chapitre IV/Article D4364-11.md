@@ -23,7 +23,7 @@ b) Soit par un pays tiers, à condition que soit fournie une attestation émanan
 de l'autorité compétente de l'Etat membre ou de l'Etat partie qui a reconnu le
 ou les diplômes, certificats ou autres titres certifiant que le titulaire de ce
 ou ces diplômes, certificats ou autres titres a une expérience professionnelle
-dans cet Etat de trois ans au moins ;
+dans cet Etat de deux ans au moins ;
 
 2° Ou d'un ou plusieurs diplômes, certificats ou autres titres sanctionnant une
 formation réglementée, spécialisée dans l'exercice de la profession, dans un
