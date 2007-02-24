@@ -103,13 +103,13 @@ III. - Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des
 usagers au moins trois mois avant le début de chaque période tarifaire.
 
 Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis
-celles mentionnées au deuxième alinéa du 2°, et, le cas échéant, les modulations
-de celles-ci, par lettre recommandée avec avis de réception et deux mois au
-moins avant le début de chaque période tarifaire, aux ministres chargés de
-l'aviation civile et de l'économie. Cette notification est accompagnée de l'avis
-de la commission consultative économique de l'aérodrome, des éléments permettant
-de vérifier le respect du contrat et des informations mentionnées au IV de
-l'article R. 224-3.
+celles mentionnées au troisième alinéa du 2°, et, le cas échéant, les
+modulations de celles-ci, par lettre recommandée avec avis de réception et deux
+mois au moins avant le début de chaque période tarifaire, aux ministres chargés
+de l'aviation civile et de l'économie. Cette notification est accompagnée de
+l'avis de la commission consultative économique de l'aérodrome, des éléments
+permettant de vérifier le respect du contrat et des informations mentionnées au
+IV de l'article R. 224-3.
 
 Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés
 homologués et deviennent exécutoires pour la période tarifaire considérée dans
