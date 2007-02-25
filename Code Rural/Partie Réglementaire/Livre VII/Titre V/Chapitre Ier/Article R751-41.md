@@ -4,8 +4,7 @@ Pour l'application au régime défini au présent chapitre des règles de
 prescription prévues à l'article L. 431-2 du code de la sécurité sociale, les
 prestations et indemnités mentionnées au premier alinéa dudit article
 s'entendent de celles prévues à l'article L. 751-8 du présent code. Elles se
-prescrivent par deux ans à compter du jour de l'accident ou de la clôture de
-l'enquête prévue à l'article L. 751-29 du présent code ou de la cessation du
+prescrivent par deux ans à compter du jour de l'accident ou de la cessation du
 paiement de l'indemnité journalière.
 
 Dans les cas respectivement prévus aux articles L. 443-1 (1er alinéa) et L.
@@ -18,8 +17,5 @@ survenue dans l'état de la victime, sous réserve, en cas de difficultés prév
 lorsque celui-ci aura recueilli l'accord des parties ou, dans le cas contraire,
 de la décision judiciaire ;
 
-2° Soit de la clôture de l'enquête effectuée à l'occasion de cette modification
-;
-
-3° Soit de la date de cessation du paiement de l'indemnité journalière allouée
+2° Soit de la date de cessation du paiement de l'indemnité journalière allouée
 en raison de la rechute.
