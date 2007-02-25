@@ -39,6 +39,15 @@ santé, l'Institut national de veille sanitaire et l'Agence française de sécur
 sanitaire des aliments. Elle peut mener toute action commune avec les organismes
 ayant compétence en matière de recherche dans le domaine de la santé.
 
+La Haute Autorité de santé rend publics l'ordre du jour et les comptes rendus
+assortis des détails et explications des votes, y compris les opinions
+minoritaires, à l'exclusion des informations relatives au secret des stratégies
+commerciales, des réunions de la commission prévue à l'article L. 5123-3 du code
+de la santé publique siégeant auprès d'elle et consultée sur l'inscription des
+médicaments inscrits sur les listes prévues à l'article L. 162-17 du présent
+code et à l'article L. 5126-4 du code de la santé publique, ainsi que son
+règlement intérieur.
+
 Dans l'exercice de ses missions, la Haute Autorité tient compte des objectifs
 pluriannuels de la politique de santé publique mentionnés à l'article L. 1411-2
 du code de la santé publique.

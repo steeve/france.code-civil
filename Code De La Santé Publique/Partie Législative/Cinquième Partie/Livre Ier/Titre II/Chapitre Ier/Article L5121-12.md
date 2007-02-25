@@ -10,16 +10,23 @@ en vue d'une demande d'autorisation de mise sur le marché, et que cette demande
 a été déposée ou que le demandeur s'engage à la déposer dans un délai déterminé
 ;
 
-b) Ou que ces médicaments sont prescrits à des malades nommément désignés et, le
-cas échéant, importés dans ce but, sous la responsabilité de leur médecin
-traitant, dès lors que leur efficacité et leur sécurité sont présumées en l'état
-des connaissances scientifiques et qu'ils sont susceptibles de présenter un
-bénéfice réel.
+b) Ou que ces médicaments, le cas échéant importés, sont prescrits, sous la
+responsabilité d'un médecin, à un patient nommément désigné et ne pouvant
+participer à une recherche biomédicale, dès lors qu'ils sont susceptibles de
+présenter un bénéfice pour lui et que soit leur efficacité et leur sécurité sont
+présumées en l'état des connaissances scientifiques, soit une issue fatale à
+court terme pour le patient est, en l'état des thérapeutiques disponibles,
+inéluctable. Le médecin demandeur doit justifier que le patient, son
+représentant légal ou la personne de confiance qu'il a désignée en application
+de l'article L. 1111-6 a reçu une information adaptée à sa situation sur
+l'absence d'alternative thérapeutique, les risques courus, les contraintes et le
+bénéfice susceptible d'être apporté par le médicament. La procédure suivie est
+inscrite dans le dossier médical.
 
 L'utilisation de ces médicaments est autorisée, pour une durée limitée, par
 l'Agence française de sécurité sanitaire des produits de santé, à la demande du
 titulaire des droits d'exploitation du médicament dans le cas prévu au a ou à la
-demande du médecin traitant dans le cas prévu au b du présent article.
+demande du médecin prescripteur dans le cas prévu au b du présent article.
 
 Pour les médicaments mentionnés au a, l'autorisation est subordonnée par
 l'Agence française de sécurité sanitaire des produits de santé à la condition

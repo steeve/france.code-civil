@@ -30,4 +30,6 @@ mesure de leur compétence ;
 
 4° Participe à l'action européenne et internationale de la France ;
 
-5° Est chargé du fonctionnement de la commission de la transparence.
+5° Pour la mise en oeuvre des 1° à 4°, demande, à des fins d'analyse et pour des
+raisons justifiées, la transmission à titre gratuit d'échantillons de produits
+et objets mentionnés à l'article L. 5311-1.

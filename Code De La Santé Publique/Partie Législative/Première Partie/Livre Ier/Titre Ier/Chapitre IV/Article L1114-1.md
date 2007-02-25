@@ -21,3 +21,8 @@ dans les instances hospitalières ou de santé publique.
 
 Les représentants des usagers dans les instances mentionnées ci-dessus ont droit
 à une formation leur facilitant l'exercice de ce mandat.
+
+Les entreprises fabriquant et commercialisant des produits mentionnés dans la
+cinquième partie du présent code doivent rendre publics la liste des
+associations de patients et le montant des aides de toute nature qu'elles leur
+versent, selon des modalités fixées par un décret en Conseil d'Etat.

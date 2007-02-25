@@ -41,6 +41,11 @@ européenne pour l'évaluation des médicaments ;
 5° Les dispositions conventionnelles applicables en cas de non-respect des
 engagements mentionnés aux 3°, 4° et 4° bis.
 
+L'accord-cadre visé ci-dessus peut prévoir également les modalités d'information
+des entreprises titulaires d'une autorisation de mise sur le marché d'un
+médicament princeps sur l'avancement de la procédure d'inscription au
+remboursement des spécialités génériques de ce médicament.
+
 Lorsque les orientations reçues par le comité ne sont pas compatibles avec les
 conventions précédemment conclues, lorsque l'évolution des dépenses de
 médicaments n'est manifestement pas compatible avec le respect de l'objectif
