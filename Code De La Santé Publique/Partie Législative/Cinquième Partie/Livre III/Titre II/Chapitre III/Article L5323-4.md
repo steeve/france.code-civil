@@ -27,14 +27,16 @@ sous les mêmes peines, prendre part ni aux délibérations ni aux votes de ces
 instances s'ils ont un intérêt direct ou indirect à l'affaire examinée et sont
 soumis aux obligations énoncées au 1°.
 
-Les personnes mentionnées aux deux alinéas précédents adressent au directeur
-général de l'agence, à l'occasion de leur nomination ou de leur entrée en
-fonctions, une déclaration mentionnant leurs liens, directs ou indirects, avec
-les entreprises ou établissements dont les produits entrent dans son champ de
-compétence, ainsi qu'avec les sociétés ou organismes de conseil intervenant dans
-ces secteurs. Cette déclaration est rendue publique et est actualisée à leur
-initiative dès qu'une modification intervient concernant ces liens ou que de
-nouveaux liens sont noués.
+Les personnes mentionnées aux articles L. 5323-1, L. 5323-2 et L. 5323-3 ainsi
+que les personnes mentionnées aux deux alinéas précédents adressent au directeur
+général, à l'occasion de leur nomination ou de leur entrée en fonctions, puis
+annuellement, une déclaration mentionnant leurs liens, directs ou indirects,
+avec les entreprises ou établissements dont les produits entrent dans le champ
+de compétence de l'agence, ainsi qu'avec les sociétés ou organismes de conseil
+intervenant dans les secteurs correspondants. Cette déclaration est actualisée à
+leur initiative dès qu'une modification intervient concernant ces liens ou que
+de nouveaux liens sont noués. La déclaration adressée par les personnes
+mentionnées aux deux alinéas précédents est rendue publique.
 
 Les personnes mentionnées aux cinquième et sixième alinéas sont soumises à
 l'interdiction mentionnée au premier alinéa de l'article L. 4113-6. Est interdit

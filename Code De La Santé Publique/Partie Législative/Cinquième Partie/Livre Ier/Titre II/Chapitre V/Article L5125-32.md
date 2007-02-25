@@ -18,4 +18,6 @@ prévu à l'article L. 5125-21 doit être assuré par des pharmaciens ou par des
 4° Les modalités d'application des articles L. 5125-23 et L. 5125-25 ;
 
 5° Les conditions dans lesquelles peut être faite la publicité en faveur des
-officines de pharmacie.
+officines de pharmacie ;
+
+6° Les modalités d'application de l'article L. 5125-1-1.

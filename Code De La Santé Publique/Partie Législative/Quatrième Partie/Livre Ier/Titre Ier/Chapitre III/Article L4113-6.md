@@ -24,9 +24,9 @@ indirecte, lors de manifestations de promotion ou lors de manifestations à
 caractère exclusivement professionnel et scientifique lorsqu'elle est prévue par
 convention passée entre l'entreprise et le professionnel de santé et soumise
 pour avis au conseil départemental de l'ordre compétent avant sa mise en
-application, et que cette hospitalité est d'un niveau raisonnable, reste
-accessoire par rapport à l'objectif principal de la réunion et n'est pas étendue
-à des personnes autres que les professionnels directement concernés.
+application, et que cette hospitalité est d'un niveau raisonnable et limitée à
+l'objectif professionnel et scientifique principal de la manifestation et n'est
+pas étendue à des personnes autres que les professionnels directement concernés.
 
 Les conventions mentionnées aux deuxième et troisième alinéas sont transmises
 aux ordres des professions médicales par l'entreprise. Lorsque leur champ

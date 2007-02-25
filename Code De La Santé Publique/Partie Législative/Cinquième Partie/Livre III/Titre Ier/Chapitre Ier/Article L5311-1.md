@@ -58,11 +58,13 @@ lorsqu'un élément nouveau est susceptible de remettre en cause l'évaluation
 initiale. Elle assure la mise en oeuvre des systèmes de vigilance et prépare la
 pharmacopée.
 
-Elle rend publique une synthèse des dossiers d'autorisation de tout nouveau
-médicament. Elle organise des réunions régulières d'information avec des
-associations agréées de personnes malades et d'usagers du système de santé
-mentionnées à l'article L. 1114-1 sur les problèmes de sécurité sanitaire des
-produits de santé.
+Elle rend publics un rapport de synthèse de l'évaluation effectuée pour tout
+nouveau médicament dans des conditions déterminées par voie réglementaire, ainsi
+que les décisions d'octroi, de suspension et de retrait de l'autorisation de
+mise sur le marché mentionnées aux articles L. 5121-8 et L. 5121-9. Elle
+organise des réunions régulières d'information avec des associations agréées de
+personnes malades et d'usagers du système de santé mentionnées à l'article L.
+1114-1 sur les problèmes de sécurité sanitaire des produits de santé.
 
 Elle contrôle la publicité en faveur de tous les produits, objets, appareils et
 méthodes revendiquant une finalité sanitaire.
@@ -76,3 +78,11 @@ Elle établit un rapport annuel d'activité adressé au Gouvernement et au
 Parlement. Ce rapport est rendu public.
 
 Elle organise des auditions publiques sur des thèmes de santé publique.
+
+Elle rend également publics l'ordre du jour et les comptes rendus, assortis des
+détails et explications des votes, y compris les opinions minoritaires, à
+l'exclusion de toute information présentant un caractère de confidentialité
+commerciale, des réunions des commissions siégeant auprès d'elle et consultées
+en matière de mise sur le marché, de pharmacovigilance et de publicité des
+spécialités pharmaceutiques, son règlement intérieur et celui des commissions
+précitées.

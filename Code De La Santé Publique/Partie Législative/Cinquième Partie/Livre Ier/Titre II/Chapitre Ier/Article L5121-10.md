@@ -19,11 +19,14 @@ de la spécialité de référence. Toutefois, la commercialisation de cette
 spécialité générique ne peut intervenir qu'après l'expiration des droits de
 propriété intellectuelle, sauf accord du titulaire de ces droits.
 
+Préalablement à cette commercialisation, le titulaire de l'autorisation de mise
+sur le marché de la spécialité générique informe le directeur général de
+l'agence des indications, formes pharmaceutiques et dosages de la spécialité de
+référence pour lesquels les droits de propriété intellectuelle n'ont pas expiré.
+
 Aux seules fins d'en garantir la publicité, le directeur général de l'Agence
 française de sécurité sanitaire des produits de santé tient disponible au public
 la liste des titres de propriété intellectuelle attachés à une spécialité de
 référence si le titulaire de l'autorisation de mise sur le marché de cette
 spécialité la lui a communiquée à cet effet. Le laboratoire est seul responsable
-de l'exactitude des informations fournies. Les conditions de rémunération du
-service rendu par l'agence sont fixées par une décision de son conseil
-d'administration.
+de l'exactitude des informations fournies.

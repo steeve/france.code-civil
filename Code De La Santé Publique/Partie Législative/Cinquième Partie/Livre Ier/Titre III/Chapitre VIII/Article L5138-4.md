@@ -1,10 +1,12 @@
 Article L5138-4
 ----
-Chaque demande présentée par un établissement de fabrication, d'importation ou
-de distribution de matières premières à usage pharmaceutique en vue d'obtenir le
-certificat mentionné à l'article L. 5138-3 donne lieu au versement, au profit de
-l'Agence française de sécurité sanitaire des produits de santé, d'un droit fixe
-dont le montant est fixé par décret dans la limite de 2 300 euros.
+Lorsque dans le cadre de ses pouvoirs d'inspection l'Agence française de
+sécurité sanitaire des produits de santé constate que la fabrication ou le
+reconditionnement et le réétiquetage en vue de la distribution des matières
+premières à usage pharmaceutique respectent les bonnes pratiques prévues à
+l'article L. 5138-3, elle délivre un certificat de conformité.
 
-Ce droit est recouvré selon les modalités prévues pour le recouvrement des
-créances des établissements publics administratifs de l'Etat.
+Tout établissement réalisant une des activités mentionnées au premier alinéa
+peut demander à l'agence de certifier qu'il respecte ces bonnes pratiques.
+
+Le modèle du certificat de conformité est établi par l'agence.

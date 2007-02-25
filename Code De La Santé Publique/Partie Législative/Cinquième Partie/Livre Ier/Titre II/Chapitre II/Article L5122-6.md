@@ -1,11 +1,14 @@
 Article L5122-6
 ----
 La publicité auprès du public pour un médicament n'est admise qu'à la condition
-que ce médicament ne soit pas soumis à prescription médicale, qu'il ne soit pas
-remboursable par les régimes obligatoires d'assurance maladie et que
-l'autorisation de mise sur le marché ou l'enregistrement ne comporte pas de
-restrictions en matière de publicité auprès du public en raison d'un risque
-possible pour la santé publique.
+que ce médicament ne soit pas soumis à prescription médicale, qu'aucune de ses
+différentes présentations ne soit remboursable par les régimes obligatoires
+d'assurance maladie et que l'autorisation de mise sur le marché ou
+l'enregistrement ne comporte pas d'interdiction ou de restrictions en matière de
+publicité auprès du public en raison d'un risque possible pour la santé
+publique, notamment lorsque le médicament n'est pas adapté à une utilisation
+sans intervention d'un médecin pour le diagnostic, l'initiation ou la
+surveillance du traitement.
 
 Toutefois, les campagnes publicitaires pour des vaccins ou les médicaments
 mentionnés à l'article L. 5121-2 peuvent s'adresser au public.
@@ -17,9 +20,8 @@ décision et dans des conditions fixées par décret, l'objet de publicité aupr
 du public. Ces dispositions s'appliquent sous réserve :
 
 a) Que le médicament ne soit pas soumis à prescription médicale et que son
-autorisation de mise sur le marché ou son enregistrement ne comporte pas de
-restriction en matière de publicité auprès du public en raison d'un risque
-possible pour la santé publique ;
+autorisation de mise sur le marché ou son enregistrement ne comporte pas
+d'interdiction ou de restriction en matière de publicité auprès du public ;
 
 b) Que le médicament soit mentionné dans une convention prévue à l'article L.
 162-17-4 du même code comportant des engagements sur le chiffre d'affaires.
