@@ -8,5 +8,5 @@ d'équipements qui détectent les pièces fausses, contrefaites ou n'ayant pas
 cours légal en France et les séparent des pièces authentiques en euros.
 
 Ces équipements sont ceux dont un type a satisfait aux tests effectués par
-l'administration des monnaies et médailles. Celle-ci publie la liste des types
+l'établissement public La Monnaie de Paris. Celle-ci publie la liste des types
 d'équipements ayant subi un test positif, notamment sur son site internet.

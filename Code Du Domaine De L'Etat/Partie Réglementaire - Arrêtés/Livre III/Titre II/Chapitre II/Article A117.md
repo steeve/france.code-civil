@@ -1,8 +1,8 @@
 Article A117
 ----
 Lorsqu'un trésor de monnaies aura été remis au domaine, ce service devra aviser
-simultanément de cette remise l'administration des monnaies et médailles et
-celle de la bibliothèque nationale.
+simultanément de cette remise l'établissement public La Monnaie de Paris et
+l'administration de la bibliothèque nationale.
 
 En ce qui concerne les objets remis au domaine à Paris, cette notification sera
 directement faite aux services intéressés par le directeur régional chargé de la

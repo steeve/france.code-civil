@@ -1,10 +1,10 @@
 Article D291
 ----
-L'insigne, dont le modèle est déposé à l'Administration des Monnaies et
-Médailles, est de bronze. L'avers représente un coq, ailes déployées, se
-détachant de trois quarts à droite sur une croix de Lorraine, et dressé sur une
-chaîne brisée. Au revers sont inscrits les mots "République française" et,
-au-dessous, "Guerre 1939-1945".
+L'insigne, dont le modèle est déposé à l'établissement public La Monnaie de
+Paris, est de bronze. L'avers représente un coq, ailes déployées, se détachant
+de trois quarts à droite sur une croix de Lorraine, et dressé sur une chaîne
+brisée. Au revers sont inscrits les mots "République française" et, au-dessous,
+"Guerre 1939-1945".
 
 La médaille est suspendue à un ruban par une bélière également en bronze.
 

@@ -1,8 +1,8 @@
 Article A180
 ----
 La médaille des prisonniers civils, déportés et otages de la guerre 1914-1918
-est conforme au modèle établi pour le compte de l'administration des monnaies et
-médailles qui assure la fabrication de l'insigne.
+est conforme au modèle établi pour le compte de l'établissement public la
+Monnaie de Paris qui assure la fabrication de l'insigne.
 
 Son modèle est de 32 millimètres.
 

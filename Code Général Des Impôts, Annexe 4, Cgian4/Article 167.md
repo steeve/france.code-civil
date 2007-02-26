@@ -21,7 +21,7 @@ services à caractère industriel et commercial.
 
 les manufactures nationales ;
 
-l'administration des monnaies et médailles ;
+l'établissement public La Monnaie de Paris ;
 
 les arsenaux, poudreries et usines mécaniques de l'Etat.
 
