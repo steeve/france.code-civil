@@ -15,6 +15,12 @@ forfaits.
 Ces forfaits sont facturés par séance, journée ou séjour. Ils peuvent être
 minorés ou majorés notamment en fonction de la durée de séjour.
 
+Les forfaits correspondant aux prestations d'hospitalisation à domicile font
+l'objet d'une minoration lorsque ces prestations sont dispensées au profit d'un
+patient hébergé dans un établissement mentionné au 6° du I de l'article L. 312-1
+du code de l'action sociale et des familles et qui bénéficie d'une autorisation
+accordée conformément au quatrième alinéa de l'article L. 313-3 du même code.
+
 2° Les soins dispensés dans les services et les unités d'accueil et de
 traitement des urgences, à l'exception des soins dispensés en hospitalisation
 dans les zones de surveillance de très courte durée, représentatifs de la mise à
@@ -50,3 +56,12 @@ forfaits.
 Ces forfaits sont facturés dès lors que certains actes nécessitant l'utilisation
 de matériel de petite chirurgie ou d'immobilisation sont effectués lors des
 soins non programmés.
+
+5° Les soins non suivis d'une hospitalisation dispensés dans les établissements
+de santé, représentatifs de la mise à disposition de l'ensemble des moyens
+nécessaires à la réalisation d'actes requérant l'utilisation d'un secteur
+opératoire ou l'observation du patient dans un environnement hospitalier.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits facturés pour chaque passage à l'exception des cas où le passage est
+réalisé dans les conditions du 2° du présent article.

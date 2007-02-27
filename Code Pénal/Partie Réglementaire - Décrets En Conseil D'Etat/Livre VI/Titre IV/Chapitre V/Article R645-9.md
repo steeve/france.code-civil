@@ -2,10 +2,10 @@ Article R645-9
 ----
 Le fait, par une personne ayant reçu des pièces de monnaie ou billets de banque
 ayant cours légal en France contrefaits ou falsifiés, de refuser de les remettre
-ou de les faire remettre à la Banque de France ou à l'administration des
-Monnaies et médailles, conformément aux prescriptions de l'article 38-2 du code
-des instruments monétaires et des médailles, est puni de l'amende prévue pour
-les contraventions de la 5e classe.
+ou de les faire remettre à la Banque de France ou à l'établissement public La
+Monnaie de Paris, conformément aux prescriptions de l'article 38-2 du code des
+instruments monétaires et des médailles, est puni de l'amende prévue pour les
+contraventions de la 5e classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent
 également la peine complémentaire de confiscation de la chose qui a servi à
