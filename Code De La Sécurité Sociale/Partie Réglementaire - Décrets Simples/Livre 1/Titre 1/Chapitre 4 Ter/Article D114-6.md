@@ -45,7 +45,8 @@ g) Le directeur général de la gendarmerie nationale ou son représentant ;
 h) Le directeur des Français à l'étranger et des étrangers en France ou son
 représentant ;
 
-i) Le directeur des affaires civiles et du sceau ou son représentant ;
+i) Le délégué général à l'emploi et à la formation professionnelle ou son
+représentant ;
 
 j) Le directeur des affaires criminelles et des grâces ou son représentant ;
 
@@ -68,11 +69,13 @@ f) Le directeur général de la Caisse centrale de la mutualité sociale agricol
 
 3° Au titre de représentants des organismes de protection sociale :
 
-a) Le directeur général de l'AGIRC et de l'ARRCO ou son représentant ;
+a) Le directeur général de l'AGIRC ou son représentant ;
 
-b) Le directeur général de l'UNEDIC ou son représentant ;
+b) Le directeur général de l'ARRCO ou son représentant ;
 
-c) Le secrétaire général de l'Union nationale des organismes complémentaires
+c) Le directeur général de l'Unédic ou son représentant ;
+
+d) Le secrétaire général de l'Union nationale des organismes complémentaires
 d'assurance maladie ou son représentant.
 
 Ce comité est présidé par un membre appartenant à un corps d'inspection de
