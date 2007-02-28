@@ -22,6 +22,8 @@ La procédure de délivrance du brevet se déroule sur la base du texte original
 la demande de brevet ou de sa traduction ou, le cas échéant, du texte modifié au
 cours de la procédure devant l'Office européen des brevets ou de sa traduction.
 
-Si le demandeur n'a pas son domicile ou son siège en France, il doit, dans le
-même délai, constituer un mandataire en France et communiquer le nom et
-l'adresse de celui-ci à l'Institut national de la propriété industrielle.
+Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la
+Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux
+conditions prévues au premier alinéa de l'article R. 612-2 et communiquer le nom
+et l'adresse de celui-ci à l'Institut national de la propriété industrielle.

@@ -5,7 +5,8 @@ lesquels ces dessins ou modèles sont destinés à être incorporés ou auxquels
 sont destinés à être appliqués doivent relever d'une même classe, au sens de la
 classification établie par l'Arrangement de Locarno du 8 octobre 1968.
 Toutefois, cette condition ne s'applique pas lorsque le dépôt porte sur des
-ornementations.
+ornementations ou s'il a été effectué sous la forme simplifiée prévue au
+cinquième alinéa de l'article L. 512-2.
 
 Le dépôt comprend :
 

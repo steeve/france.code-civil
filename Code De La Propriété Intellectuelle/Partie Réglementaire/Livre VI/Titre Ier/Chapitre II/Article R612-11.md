@@ -23,6 +23,3 @@ invitation est notifiée au demandeur d'avoir à régulariser sa demande dans un
 délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne
 dont bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la
 date de priorité.
-
-Toute déclaration de priorité et toute requête du bénéfice de la date de dépôt
-d'une demande antérieure donnent lieu au paiement d'une redevance.
