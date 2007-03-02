@@ -1,7 +1,7 @@
 Article R612-1
 ----
-La demande de brevet peut être déposée soit à l'Institut national de la
-propriété industrielle, soit dans une préfecture autre que celle de Paris.
+La demande de brevet est déposée à l'Institut national de la propriété
+industrielle.
 
 Le dépôt peut également résulter d'un envoi à l'Institut national de la
 propriété industrielle soit sous pli postal recommandé avec demande d'avis de

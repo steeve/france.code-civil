@@ -16,9 +16,9 @@ mois au cours duquel prend fin la période de protection et être accompagnée d
 la justification du paiement de la redevance prescrite.
 
 Toutefois, la déclaration peut encore être présentée ou la redevance acquittée
-dans un délai supplémentaire de six mois, décompté depuis le lendemain du
-dernier jour du mois d'expiration de la protection, moyennant le paiement d'un
-supplément de redevance ;
+dans un délai supplémentaire de six mois à compter du lendemain du dernier jour
+du mois d'expiration de la protection, moyennant le paiement d'un supplément de
+redevance dans le même délai.
 
 2° Comporter la désignation de la marque à renouveler et émaner du titulaire
 inscrit, au jour de la déclaration, au registre national des marques ou de son

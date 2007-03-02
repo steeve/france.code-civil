@@ -2,7 +2,7 @@ Article R615-1
 ----
 La description détaillée, avec ou sans saisie réelle, des produits ou procédés
 prétendus contrefaits, prévue à l'article L. 615-5 est ordonnée par le président
-d'un des tribunaux de grande instance énumérés à l'article R. 631-1, dans le
+d'un des tribunaux de grande instance énumérés à l'article R. 631-2, dans le
 ressort duquel les opérations doivent être effectuées.
 
 L'ordonnance est rendue sur simple requête et sur la représentation soit du
