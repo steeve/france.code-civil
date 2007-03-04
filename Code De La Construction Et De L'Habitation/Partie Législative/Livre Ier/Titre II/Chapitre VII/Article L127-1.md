@@ -12,3 +12,10 @@ s'applique, les caractéristiques des immeubles ou locaux qui y sont assujettis,
 les mesures de gardiennage ou de surveillance à prendre en fonction de l'usage,
 de la localisation et de la taille des immeubles ou locaux et les dates
 auxquelles ces mesures devront au plus tard intervenir.
+
+Les communes ou les établissements publics de coopération intercommunale
+exerçant la compétence relative aux dispositifs locaux de prévention de la
+délinquance peuvent contribuer à l'obligation prévue par le présent article
+lorsque les immeubles ou groupes d'immeubles collectifs à usage d'habitation qui
+y sont assujettis sont particulièrement exposés à des risques de délinquance et
+font l'objet de dispositions des contrats locaux de sécurité.

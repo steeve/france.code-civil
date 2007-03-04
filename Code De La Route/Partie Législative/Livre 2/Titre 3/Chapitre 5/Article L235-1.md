@@ -1,9 +1,9 @@
 Article L235-1
 ----
-I. - Toute personne qui conduit un véhicule ou qui accompagne un élève
-conducteur alors qu'il résulte d'une analyse sanguine qu'elle a fait usage de
-substances ou plantes classées comme stupéfiants est punie de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+I.-Toute personne qui conduit un véhicule ou qui accompagne un élève conducteur
+alors qu'il résulte d'une analyse sanguine qu'elle a fait usage de substances ou
+plantes classées comme stupéfiants est punie de deux ans d'emprisonnement et de
+4 500 euros d'amende.
 
 Si la personne se trouvait également sous l'empire d'un état alcoolique
 caractérisé par une concentration d'alcool dans le sang ou dans l'air expiré
@@ -11,7 +11,7 @@ caractérisé par une concentration d'alcool dans le sang ou dans l'air expiré
 réglementaires du présent code, les peines sont portées à trois ans
 d'emprisonnement et 9 000 euros d'amende.
 
-II. - Toute personne coupable des délits prévus par le présent article encourt
+II.-Toute personne coupable des délits prévus par le présent article encourt
 également les peines complémentaires suivantes :
 
 1° La suspension pour une durée de trois ans au plus du permis de conduire ;
@@ -34,10 +34,13 @@ ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
 durée de cinq ans au plus ;
 
 6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
-sécurité routière.
+sécurité routière ;
 
-III. - L'immobilisation du véhicule peut être prescrite dans les conditions
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux
+dangers de l'usage de produits stupéfiants.
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions
 prévues aux articles L. 325-1 à L. 325-3.
 
-IV. - Les délits prévus par le présent article donnent lieu de plein droit à la
+IV.-Les délits prévus par le présent article donnent lieu de plein droit à la
 réduction de la moitié du nombre maximal de points du permis de conduire.

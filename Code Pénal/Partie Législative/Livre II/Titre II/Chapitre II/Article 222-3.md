@@ -49,7 +49,7 @@ ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme.
 

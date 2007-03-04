@@ -1,12 +1,14 @@
 Article L131-10
 ----
 Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur
-famille, sont dès la première année, et tous les deux ans, l'objet d'une enquête
-de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons
-alléguées par les personnes responsables, et s'il leur est donné une instruction
-dans la mesure compatible avec leur état de santé et les conditions de vie de la
-famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale.
+famille, y compris dans le cadre d'une inscription dans un établissement
+d'enseignement à distance, sont dès la première année, et tous les deux ans,
+l'objet d'une enquête de la mairie compétente, uniquement aux fins d'établir
+quelles sont les raisons alléguées par les personnes responsables, et s'il leur
+est donné une instruction dans la mesure compatible avec leur état de santé et
+les conditions de vie de la famille. Le résultat de cette enquête est communiqué
+à l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale.
 
 Lorsque l'enquête n'a pas été effectuée, elle est diligentée par le représentant
 de l'Etat dans le département.

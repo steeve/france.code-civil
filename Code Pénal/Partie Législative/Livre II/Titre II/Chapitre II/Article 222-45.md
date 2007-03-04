@@ -14,4 +14,7 @@ ans au plus, une activité professionnelle ou bénévole impliquant un contact
 habituel avec des mineurs ;
 
 4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
-par l'article 131-5-1.
+par l'article 131-5-1 ;
+
+5° L'obligation d'accomplir un stage de responsabilité parentale, selon les
+modalités fixées à l'article 131-35-1.

@@ -1,11 +1,11 @@
 Article L3424-1
 ----
-Les personnes mises en examen pour le délit prévu par l'article L. 3421-1,
-lorsqu'il est établi qu'elles relèvent d'un traitement médical, peuvent être
-astreintes, par ordonnance du juge d'instruction ou du juge des enfants, à subir
-une cure de désintoxication accompagnée de toutes les mesures de surveillance
-médicale et de réadaptation appropriées à leur état.
+Les personnes mises en examen pour les délits prévus par les articles L. 3421-1
+et L. 3425-2 peuvent se voir notifier, par ordonnance du juge d'instruction, du
+juge des enfants ou du juge des libertés et de la détention, une mesure
+d'injonction thérapeutique selon les modalités définies aux articles L. 3413-1 à
+L. 3413-4.
 
-L'exécution de l'ordonnance prescrivant cette cure se poursuit, s'il y a lieu,
-après la clôture de l'information, les règles fixées par l'article 148-1
-(alinéas 2 à 4) du code de procédure pénale étant, le cas échéant, applicables.
+L'exécution de cette ordonnance se poursuit, s'il y a lieu, après la clôture de
+l'information, les règles fixées par les deuxième à quatrième alinéas de
+l'article 148-1 du code de procédure pénale étant, le cas échéant, applicables.

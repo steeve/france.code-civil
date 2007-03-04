@@ -8,3 +8,8 @@ d'amende.
 Le fait de se rendre coupable du délit prévu au présent article, en ayant été
 condamné depuis moins de cinq ans pour un délit prévu au présent chapitre, est
 puni d'un an d'emprisonnement et de 7500 euros d'amende.
+
+Les personnes coupables des infractions prévues au présent article encourent
+également la peine complémentaire d'obligation d'accomplir un stage de
+responsabilité parentale, selon les modalités fixées à l'article 131-35-1 du
+code pénal.

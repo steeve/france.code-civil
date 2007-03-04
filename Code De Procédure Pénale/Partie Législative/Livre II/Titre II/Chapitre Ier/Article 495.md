@@ -9,7 +9,13 @@ prévues par ce code ;
 ;
 
 3° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels
-une peine d'emprisonnement n'est pas encourue.
+une peine d'emprisonnement n'est pas encourue ;
+
+4° Le délit d'usage de produits stupéfiants prévu par le premier alinéa de
+l'article L. 3421-1 du code de la santé publique ;
+
+5° Le délit prévu par l'article L. 126-3 du code de la construction et de
+l'habitation.
 
 Cette procédure n'est pas applicable :
 

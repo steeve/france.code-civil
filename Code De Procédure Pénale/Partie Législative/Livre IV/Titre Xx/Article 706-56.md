@@ -14,7 +14,8 @@ requérir toute personne habilitée dans les conditions fixées par l'article 16
 du code civil, sans qu'il soit toutefois nécessaire que cette personne soit
 inscrite sur une liste d'experts judiciaires ; dans ce cas, la personne prête
 alors par écrit le serment prévu au deuxième alinéa de l'article 60 du présent
-code.
+code. Les réquisitions prévues par le présent alinéa peuvent également être
+faites par le procureur de la République ou le juge d'instruction.
 
 Les personnes requises conformément à l'alinéa précédent peuvent procéder, par
 tous moyens y compris télématiques, à la demande de l'officier de police

@@ -20,10 +20,10 @@ Ces dispositions sont également applicables à l'audition ou à l'interrogatoir
 par un juge d'instruction d'une personne détenue, au débat contradictoire
 préalable au placement en détention provisoire d'une personne détenue pour une
 autre cause, au débat contradictoire prévu pour la prolongation de la détention
-provisoire, à l'examen des demandes de mise en liberté par la chambre de
-l'instruction ou la juridiction de jugement, ou à l'interrogatoire du prévenu
-devant le tribunal de police ou devant la juridiction de proximité si celui-ci
-est détenu pour une autre cause.
+provisoire, aux audiences relatives au contentieux de la détention provisoire
+devant la chambre de l'instruction ou la juridiction de jugement, ou à
+l'interrogatoire du prévenu devant le tribunal de police ou devant la
+juridiction de proximité si celui-ci est détenu pour une autre cause.
 
 Pour l'application des dispositions des deux alinéas précédents, si la personne
 est assistée par un avocat, celui-ci peut se trouver auprès de la juridiction

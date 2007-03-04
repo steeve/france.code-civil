@@ -17,3 +17,7 @@ soutien, engagées ou coordonnées par l'autorité municipale ou intercommunale.
 Les dispositions des articles 226-13 et 226-14 du code pénal s'appliquent aux
 destinataires de cette information, sous réserve de l'exercice de la mission
 mentionnée à l'alinéa précédent.
+
+Les modalités d'échange d'informations prévues au présent article peuvent être
+définies par les conventions mentionnées aux articles L. 2215-2 et L. 2512-15,
+que signe également le procureur de la République.

@@ -10,7 +10,7 @@ nouveau domicile.
 II. - Il est donné récépissé de cette déclaration par le maire lorsque y sont
 jointes les pièces justifiant :
 
-1° De l'identification du chien conforme à l'article L. 214-5 ;
+1° De l'identification du chien conforme à l'article L. 212-10 ;
 
 2° De la vaccination antirabique du chien en cours de validité ;
 
@@ -25,3 +25,15 @@ sens des présentes dispositions.
 
 III. - Une fois la déclaration déposée, il doit être satisfait en permanence aux
 conditions énumérées au II.
+
+IV. - En cas de constatation de défaut de déclaration de l'animal, le maire ou,
+à défaut, le préfet met en demeure le propriétaire ou le detenteur de celui-ci
+de procéder à la régularisation de la situation dans un délai d'un mois au plus.
+A défaut de régularisation au terme de ce délai, le maire ou, à défaut, le
+préfet peut ordonner que l'animal soit placé dans un lieu de dépôt adapté à
+l'accueil et à la garde de celui-ci et peut faire procéder sans délai et sans
+nouvelle mise en demeure à son euthanasie.
+
+Les frais afférents aux opérations de capture, de transport, de garde et
+d'euthanasie de l'animal sont intégralement mis à la charge de son propriétaire
+ou de son détenteur.

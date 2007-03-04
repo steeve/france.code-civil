@@ -27,9 +27,11 @@ pour une période maximale de six mois ;
 5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour
 une période maximale de six mois ;
 
-6° Accomplir au profit de la collectivité un travail non rémunéré pour une durée
-maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois
-;
+6° Accomplir au profit de la collectivité, notamment au sein d'une personne
+morale de droit public ou d'une personne morale de droit privé chargée d'une
+mission de service public ou d'une association habilitées, un travail non
+rémunéré pour une durée maximale de soixante heures, dans un délai qui ne peut
+être supérieur à six mois ;
 
 7° Suivre un stage ou une formation dans un service ou un organisme sanitaire,
 social ou professionnel pour une durée qui ne peut excéder trois mois dans un
@@ -66,13 +68,28 @@ nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
 psychologique ; les dispositions du présent 14° sont également applicables
 lorsque l'infraction est commise par l'ancien conjoint ou concubin de la
 victime, ou par la personne ayant été liée à elle par un pacte civil de
-solidarité, le domicile concerné étant alors celui de la victime.
+solidarité, le domicile concerné étant alors celui de la victime ;
+
+15° Accomplir, le cas échéant à ses frais, un stage de sensibilisation aux
+dangers de l'usage de produits stupéfiants ;
+
+16° Se soumettre à une mesure d'activité de jour consistant en la mise en oeuvre
+d'activités d'insertion professionnelle ou de mise à niveau scolaire soit auprès
+d'une personne morale de droit public, soit auprès d'une personne morale de
+droit privé chargée d'une mission de service public ou d'une association
+habilitées à mettre en oeuvre une telle mesure ;
+
+17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités
+définies aux articles L. 3413-1 à L. 3413-4 du code de la santé publique,
+lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une
+consommation habituelle et excessive de boissons alcooliques.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la
 réparation du préjudice commis, le procureur de la République doit également
 proposer à ce dernier de réparer les dommages causés par l'infraction dans un
 délai qui ne peut être supérieur à six mois. Il informe la victime de cette
-proposition.
+proposition. Cette réparation peut consister, avec l'accord de la victime, en la
+remise en état d'un bien endommagé par la commission de l'infraction.
 
 La proposition de composition pénale émanant du procureur de la République peut
 être portée à la connaissance de l'auteur des faits par l'intermédiaire d'un
@@ -121,9 +138,11 @@ code de procédure civile.
 Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier
 judiciaire.
 
-Les dispositions du présent article ne sont applicables ni aux mineurs de
-dix-huit ans ni en matière de délits de presse, de délits d'homicides
-involontaires ou de délits politiques.
+Les dispositions du présent article ne sont pas applicables en matière de délits
+de presse, de délits d'homicides involontaires ou de délits politiques. Elles
+sont applicables aux mineurs âgés d'au moins treize ans, selon les modalités
+prévues par l'article 7-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante.
 
 Le président du tribunal peut désigner, aux fins de validation de la composition
 pénale, tout juge du tribunal ainsi que tout juge de proximité exerçant dans le

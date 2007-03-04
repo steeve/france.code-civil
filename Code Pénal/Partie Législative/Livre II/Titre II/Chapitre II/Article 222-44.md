@@ -37,9 +37,17 @@ plus ;
 9° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'obligation
 d'accomplir, à leurs frais, un stage de sensibilisation à la sécurité routière ;
 
+9° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de
+l'usage de produits stupéfiants, selon les modalités fixées à l'article 131-35-1
+;
+
 10° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'immobilisation,
 pendant une durée d'un an au plus, du véhicule dont le condamné s'est servi pour
-commettre l'infraction, s'il en est le propriétaire.
+commettre l'infraction, s'il en est le propriétaire ;
+
+11° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ;
+
+12° L'interdiction, à titre définitif ou temporaire, de détenir un animal.
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa
 de l'article 222-19-1 donne lieu de plein droit à l'annulation du permis de

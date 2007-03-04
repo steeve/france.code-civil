@@ -8,6 +8,6 @@ et de 75000 euros d'amende lorsque ce message est susceptible d'être vu ou per�
 par un mineur.
 
 Lorsque les infractions prévues au présent article sont soumises par la voie de
-la presse écrite ou audiovisuelle, les dispositions particulières des lois qui
-régissent ces matières sont applicables en ce qui concerne la détermination des
-personnes responsables.
+la presse écrite ou audiovisuelle ou de la communication au public en ligne, les
+dispositions particulières des lois qui régissent ces matières sont applicables
+en ce qui concerne la détermination des personnes responsables.

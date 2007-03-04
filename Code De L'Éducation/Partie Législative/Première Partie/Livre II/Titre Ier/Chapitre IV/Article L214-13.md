@@ -7,6 +7,9 @@ des jeunes et des adultes et de favoriser un développement cohérent de
 l'ensemble des filières de formation en favorisant un accès équilibré des femmes
 et des hommes à chacune de ces filières de formation.
 
+Il comporte des actions de formation et d'information destinées à favoriser leur
+insertion sociale.
+
 Il définit également les priorités relatives à l'information, à l'orientation et
 à la validation des acquis de l'expérience.
 

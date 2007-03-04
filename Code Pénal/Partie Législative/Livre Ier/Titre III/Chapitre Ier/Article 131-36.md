@@ -18,4 +18,7 @@ accomplis dans son ressort ;
 avec la durée légale du travail ;
 
 3° Sont habilitées les associations mentionnées au premier alinéa de l'article
-131-8.
+131-8 ;
+
+4° Sont désignées les personnes physiques ou morales chargées de participer à la
+mise en oeuvre des stages mentionnés à l'article 131-35-1.

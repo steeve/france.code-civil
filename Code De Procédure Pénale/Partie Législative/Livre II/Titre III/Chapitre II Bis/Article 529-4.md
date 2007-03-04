@@ -5,13 +5,13 @@ forfaitaire et, le cas échéant, de la somme due au titre du transport.
 
 I. - Ce versement est effectué :
 
-1. Soit, au moment de la constatation de l'infraction, entre les mains de
-l'agent de l'exploitant ;
+1 Soit, au moment de la constatation de l'infraction, entre les mains de l'agent
+de l'exploitant ;
 
-2. Soit, dans un délai de deux mois à compter de la constatation de
-l'infraction, auprès du service de l'exploitant indiqué dans la proposition de
-transaction ; dans ce dernier cas, il y est ajouté aux sommes dues le montant
-des frais de constitution du dossier.
+2 Soit, dans un délai de deux mois à compter de la constatation de l'infraction,
+auprès du service de l'exploitant indiqué dans la proposition de transaction ;
+dans ce dernier cas, il y est ajouté aux sommes dues le montant des frais de
+constitution du dossier.
 
 A défaut de paiement immédiat entre ses mains, l'agent de l'exploitant est
 habilité à recueillir le nom et l'adresse du contrevenant ; en cas de besoin, il
@@ -22,9 +22,7 @@ constitution du dossier sont acquis à l'exploitant.
 
 II. - A défaut de paiement immédiat entre leurs mains, les agents de
 l'exploitant, s'ils ont été agréés par le procureur de la République et
-assermentés, et uniquement lorsqu'ils procèdent au contrôle de l'existence et de
-la validité des titres de transport des voyageurs, sont habilités à relever
-l'identité et l'adresse du contrevenant.
+assermentés, sont habilités à relever l'identité et l'adresse du contrevenant.
 
 Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son
 identité, l'agent de l'exploitant en rend compte immédiatement à tout officier
