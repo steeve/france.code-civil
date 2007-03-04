@@ -2,23 +2,40 @@ Article L122-26
 ----
 La salariée a le droit de suspendre le contrat de travail pendant une période
 qui commence six semaines avant la date présumée de l'accouchement et se termine
-dix semaines après la date de celui-ci. Lorsque des naissances multiples sont
-prévues, cette période commence douze semaines avant la date présumée de
-l'accouchement, vingt-quatre semaines en cas de naissance de plus de deux
-enfants et se termine vingt-deux semaines après la date de l'accouchement. En
-cas de naissance de deux enfants, la période antérieure à la date présumée de
-l'accouchement peut être augmentée d'une durée maximale de quatre semaines ; la
-période de vingt-deux semaines postérieure à l'accouchement est alors réduite
-d'autant. Cette période commence huit semaines avant la date présumée de
-l'accouchement et se termine dix-huit semaines après la date de celui-ci
-lorsque, avant l'accouchement, la salariée elle-même ou le ménage assume déjà la
-charge de deux enfants au moins dans les conditions prévues aux articles L.
-512-3 et suivants et L. 521-2 du code de la sécurité sociale ou lorsque la
-salariée a déjà mis au monde au moins deux enfants nés viables. La période de
+dix semaines après la date de celui-ci. La salariée peut réduire, à sa demande
+et sous réserve d'un avis favorable du professionnel de santé qui suit la
+grossesse, la période de suspension du contrat de travail qui commence avant la
+date présumée de l'accouchement d'une durée maximale de trois semaines, la
+période postérieure à la date présumée de l'accouchement étant alors augmentée
+d'autant. Lorsque des naissances multiples sont prévues, cette période commence
+douze semaines avant la date présumée de l'accouchement, vingt-quatre semaines
+en cas de naissance de plus de deux enfants et se termine vingt-deux semaines
+après la date de l'accouchement. En cas de naissance de deux enfants, la période
+antérieure à la date présumée de l'accouchement peut être augmentée d'une durée
+maximale de quatre semaines ; la période de vingt-deux semaines postérieure à
+l'accouchement est alors réduite d'autant. Cette période commence huit semaines
+avant la date présumée de l'accouchement et se termine dix-huit semaines après
+la date de celui-ci lorsque, avant l'accouchement, la salariée elle-même ou le
+ménage assume déjà la charge de deux enfants au moins dans les conditions
+prévues aux articles L. 512-3 et suivants et L. 521-2 du code de la sécurité
+sociale ou lorsque la salariée a déjà mis au monde au moins deux enfants nés
+viables. La salariée peut réduire, à sa demande et sous réserve d'un avis
+favorable du professionnel de santé qui suit la grossesse, la période de
+suspension du contrat de travail qui commence avant la date présumée de
+l'accouchement d'une durée maximale de trois semaines, la période postérieure à
+la date présumée de l'accouchement étant alors augmentée d'autant. La période de
 huit semaines de suspension du contrat de travail antérieure à la date présumée
 de l'accouchement peut être augmentée d'une durée maximale de deux semaines ; la
 période de dix-huit semaines de suspension du contrat de travail postérieure à
 la date de l'accouchement est alors réduite d'autant.
+
+Lorsque la salariée a fait usage de son droit de reporter après la naissance de
+l'enfant une partie du congé auquel elle peut prétendre en application du
+premier alinéa et qu'elle se voit prescrire un arrêt de travail pendant la
+période antérieure à la date présumée d'accouchement dont elle a demandé le
+report, celui-ci est annulé et la période de suspension du contrat de travail
+est décomptée à partir du premier jour de l'arrêt de travail. La période
+initialement reportée est réduite d'autant.
 
 Quand l'accouchement a lieu avant la date présumée, la période de suspension du
 contrat de travail pourra être prolongée jusqu'au terme des seize, des

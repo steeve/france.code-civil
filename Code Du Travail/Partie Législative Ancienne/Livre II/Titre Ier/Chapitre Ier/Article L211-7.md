@@ -1,9 +1,8 @@
 Article L211-7
 ----
 Les autorisations individuelles sont accordées par le préfet sur avis conforme
-d'une commission constituée au sein du conseil départemental de protection de
-l'enfance, à laquelle est adjoint, en la circonstance, le directeur
-départemental du travail et de l'emploi.
+d'une commission dont la composition et le mode de fonctionnement sont
+déterminés par décret en Conseil d'Etat.
 
 L'agrément est accordé aux agences de mannequins par le préfet pour une durée
 d'un an renouvelable sur avis conforme de la commission prévue au premier

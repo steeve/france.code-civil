@@ -1,9 +1,7 @@
-Article L444-6
+Article L445-1
 ----
-Sont incapables d'exercer une fonction quelconque de direction et d'être
-employés à des fonctions didactiques supposant, même occasionnellement, la
-présence physique du maître dans les lieux où l'enseignement est reçu, dans un
-organisme privé d'enseignement à distance :
+Sont incapables d'exercer une fonction quelconque de direction ou d'enseignement
+dans un organisme de soutien scolaire :
 
 a) Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à
 la probité et aux moeurs ;

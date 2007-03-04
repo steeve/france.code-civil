@@ -1,7 +1,7 @@
 Article L444-5
 ----
 Les personnels de direction et d'enseignement doivent satisfaire à des
-conditions de moralité, diplômes, titres et références.
+conditions de moralité, diplômes, titres et références définies par décret.
 
 Les étrangers non ressortissants d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'espace économique européen sont
