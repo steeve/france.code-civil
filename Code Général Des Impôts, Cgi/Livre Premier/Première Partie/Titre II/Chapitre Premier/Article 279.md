@@ -96,9 +96,12 @@ août 1984 relative à l'exploitation des services de radiotélévision mis à l
 disposition du public sur un réseau câblé ;
 
 3° les services autorisés de télévision par voie hertzienne et les services de
-télévision mis à la disposition du public sur un réseau câblé prévus par les
-chapitres 1er et 2 du titre II de la loi n° 86-1067 du 30 septembre 1986
-modifiée relative à la liberté de la communication ;
+télévision mis à la disposition du public sur un réseau de communications
+électroniques prévus par les chapitres 1er et 2 du titre II de la loi n° 86-1067
+du 30 septembre 1986 modifiée relative à la liberté de la communication. Lorsque
+ces services sont compris dans une offre composite pour un prix forfaitaire
+comprenant d'autres services fournis par voie électronique, le taux réduit
+s'applique à hauteur de 50 % de ce prix ;
 
 b nonies les droits d'entrée perçus pour la visite des parcs à décors animés qui
 illustrent un thème culturel et pour la pratique des activités directement liées

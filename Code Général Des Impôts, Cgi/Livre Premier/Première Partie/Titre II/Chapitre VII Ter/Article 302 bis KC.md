@@ -22,3 +22,9 @@ Le montant de la taxe résultant de l'application des dispositions précédentes
 est réduit de 50 % pour la Société nationale de radiodiffusion et de télévision
 d'outre-mer et pour les services de télévision dont l'exploitant est établi dans
 les départements d'outre-mer.
+
+Pour les services de télévision diffusés en haute définition, les taux qui
+précèdent sont majorés de 0,2.
+
+Pour les services de télévision diffusés en télévision mobile personnelle, les
+taux qui précèdent sont majorés de 0,1.
