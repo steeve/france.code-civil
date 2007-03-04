@@ -16,7 +16,7 @@ poste, le président désigne le juge d'instruction chargé de le remplacer.
 Toutefois, en cas d'urgence et pour des actes isolés, tout juge d'instruction
 peut suppléer un autre juge d'instruction du même tribunal.
 
-Dans les cas prévus par le deuxième alinéa de l'article 83 et l'article 83-1, le
-juge désigné ou, s'ils sont plusieurs, le premier dans l'ordre de désignation,
-peut remplacer ou suppléer le juge chargé de l'information sans qu'il y ait lieu
-à application des alinéas qui précèdent.
+Dans les cas prévus par l'article 83-1, le juge désigné ou, s'ils sont
+plusieurs, le premier dans l'ordre de désignation, peut remplacer ou suppléer le
+juge chargé de l'information sans qu'il y ait lieu à application des alinéas qui
+précèdent.
