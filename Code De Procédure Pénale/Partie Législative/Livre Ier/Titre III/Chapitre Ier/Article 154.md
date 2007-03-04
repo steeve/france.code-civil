@@ -21,9 +21,9 @@ Pour l'application du présent article, les ressorts des tribunaux de grande
 instance de Paris, Nanterre, Bobigny et Créteil constituent un seul et même
 ressort.
 
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables
-aux gardes à vue exécutées dans le cadre de la présente section. Les pouvoirs
-conférés au procureur de la République par les articles 63-2 et 63-3 sont alors
-exercés par le juge d'instruction. L'information prévue au troisième alinéa de
-l'article 63-4 précise que la garde à vue intervient dans le cadre d'une
-commission rogatoire.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64, 64-1 et 65 sont
+applicables aux gardes à vue exécutées dans le cadre de la présente section. Les
+pouvoirs conférés au procureur de la République par les articles 63-2, 63-3 et
+64-1 sont alors exercés par le juge d'instruction. L'information prévue au
+troisième alinéa de l'article 63-4 précise que la garde à vue intervient dans le
+cadre d'une commission rogatoire.
