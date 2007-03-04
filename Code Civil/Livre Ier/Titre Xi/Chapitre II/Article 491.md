@@ -1,5 +1,9 @@
 Article 491
 ----
-Peut être placé sous la sauvegarde de justice le majeur qui, pour l'une des
-causes prévues à l'article 490, a besoin d'être protégé dans les actes de la vie
-civile.
+Pour l'application du second alinéa de l'article 486, le mandataire rend compte
+au notaire qui a établi le mandat en lui adressant ses comptes, auxquels sont
+annexées toutes pièces justificatives utiles. Celui-ci en assure la conservation
+ainsi que celle de l'inventaire des biens et de ses actualisations.
+
+Le notaire saisit le juge des tutelles de tout mouvement de fonds et de tout
+acte non justifiés ou n'apparaissant pas conformes aux stipulations du mandat.

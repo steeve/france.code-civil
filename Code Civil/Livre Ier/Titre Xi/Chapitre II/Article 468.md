@@ -1,11 +1,11 @@
 Article 468
 ----
-Dans tous les cas où l'autorisation du conseil de famille est requise pour la
-validité d'un acte du tuteur, elle peut être suppléée par celle du juge des
-tutelles, si l'acte qu'il s'agit de passer porte sur les biens dont la valeur en
-capital n'excède pas une somme qui est fixée par décret.
+Les capitaux revenant à la personne en curatelle sont versés directement sur un
+compte ouvert à son seul nom et mentionnant son régime de protection, auprès
+d'un établissement habilité à recevoir des fonds du public.
 
-Le juge des tutelles peut aussi, à la requête du tuteur, autoriser une vente de
-valeur mobilière au lieu et place du conseil de famille, s'il lui apparaît qu'il
-y aurait péril en la demeure, mais à charge qu'il en soit rendu compte dans le
-plus bref délai au conseil qui décidera du remploi.
+La personne en curatelle ne peut, sans l'assistance du curateur, faire emploi de
+ses capitaux.
+
+Cette assistance est également requise pour introduire une action en justice ou
+y défendre.

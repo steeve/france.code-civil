@@ -6,11 +6,10 @@ Le juge des tutelles connaît :
 
 2° De l'administration légale et de la tutelle des mineurs ;
 
-3° Du placement sous sauvegarde de justice, de la curatelle et de la tutelle des
-incapables majeurs ;
+3° De la sauvegarde de justice, de la curatelle, de la tutelle majeurs et de la
+mesure d'accompagnement judiciaire ;
 
-4° Sous réserve de la compétence du juge des enfants, de la tutelle aux
-prestations sociales ;
+4° Des actions relatives à l'exercice du mandat de protection future ;
 
 5° De la tutelle des pupilles de la nation ;
 

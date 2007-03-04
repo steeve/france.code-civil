@@ -5,6 +5,6 @@ après la mainlevée de la tutelle des majeurs, peut requérir, dans le délai d
 an, l'inscription de son hypothèque légale ou une inscription complémentaire.
 
 Ce droit peut, en outre, être exercé par les héritiers du pupille ou du majeur
-en tutelle dans le même délai, et, au cas de décès de l'incapable avant
+en tutelle dans le même délai, et, au cas de décès de la personne protégée avant
 cessation de la tutelle ou mainlevée de la tutelle des majeurs, dans l'année du
 décès.

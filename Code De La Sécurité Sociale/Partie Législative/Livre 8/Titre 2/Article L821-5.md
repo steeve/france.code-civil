@@ -13,11 +13,8 @@ Cette prescription est également applicable à l'action intentée par un organi
 payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou
 de fausse déclaration.
 
-La tutelle aux prestations sociales, prévue au chapitre 7 du titre VI du livre
-I, s'applique à l'allocation aux adultes handicapés.
-
-Les articles L. 114-13, L. 377-2, L. 377-4 et L. 583-3 du présent code sont
-applicables à l'allocation aux adultes handicapés.
+Les dispositions des articles L. 114-13, L. 377-2 et L. 377-4 sont applicables à
+l'allocation aux adultes handicapés.
 
 Les différends auxquels peut donner lieu l'application du présent titre et qui
 ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions
