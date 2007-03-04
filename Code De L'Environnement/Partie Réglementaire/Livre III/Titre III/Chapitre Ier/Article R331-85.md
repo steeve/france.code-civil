@@ -19,4 +19,6 @@ occidentales ;
 7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe
 ;
 
-8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane.
+8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane ;
+
+9° Décret n° 2007-296 du 5 mars 2007 créant le parc national de la Réunion.
