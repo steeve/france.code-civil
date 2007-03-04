@@ -11,8 +11,26 @@ avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est
 susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la
 demande principale.
 
+En matière de détention provisoire, et par dérogation aux dispositions du
+premier alinéa, si la personne mise en examen est majeure, les débats se
+déroulent et l'arrêt est rendu en audience publique. Toutefois, le ministère
+public, la personne mise en examen ou la partie civile ou leurs avocats peuvent,
+avant l'ouverture des débats, s'opposer à cette publicité si celle-ci est de
+nature à entraver les investigations spécifiques nécessitées par l'instruction,
+à porter atteinte à la présomption d'innocence ou à la sérénité des débats ou à
+nuire à la dignité de la personne ou aux intérêts d'un tiers, ou si l'enquête
+porte sur des faits visés à l'article 706-73. La chambre statue sur cette
+opposition après avoir recueilli les observations du ministère public et des
+parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de
+pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande
+principale. Si la chambre fait droit à cette opposition ou si la personne mise
+en examen est mineure, les débats ont lieu et l'arrêt est rendu en chambre du
+conseil. Il en est de même si la partie civile s'oppose à la publicité, dans les
+seuls cas où celle-ci est en droit de demander le huis-clos lors de l'audience
+de jugement.
+
 Après le rapport du conseiller, le procureur général et les avocats des parties
-qui en ont fait la demande présentent des observations sommaires.
+sont entendus.
 
 La chambre de l'instruction peut ordonner la comparution personnelle des parties
 ainsi que l'apport des pièces à conviction.

@@ -36,20 +36,21 @@ prononcée, au délai de la prescription de la peine.
 
 Les informations relatives aux procédures suivies par chaque juridiction sont
 enregistrées sous la responsabilité, selon les cas, du procureur de la
-République, du juge d'instruction, du juge des enfants ou du juge de
-l'application des peines de la juridiction territorialement compétente, par les
-greffiers ou les personnes habilitées qui assistent ces magistrats.
+République ou des magistrats du siège exerçant des fonctions pénales de la
+juridiction territorialement compétente, par les greffiers ou les personnes
+habilitées qui assistent ces magistrats.
 
 Ces informations sont directement accessibles, pour les nécessités liées au seul
 traitement des infractions ou des procédures dont ils sont saisis, par les
-procureurs de la République, les juges d'instruction, les juges des enfants et
-les juges de l'application des peines de l'ensemble des juridictions ainsi que
-leur greffier ou les personnes habilitées qui assistent ces magistrats.
+procureurs de la République et les magistrats du siège exerçant des fonctions
+pénales de l'ensemble des juridictions ainsi que leur greffier ou les personnes
+habilitées qui assistent ces magistrats.
 
 Elles sont également directement accessibles aux procureurs de la République et
-aux juges d'instruction des juridictions mentionnées aux articles 704, 706-2,
-706-17, 706-75, 706-107 et 706-108 pour le traitement de l'ensemble des
-procédures susceptibles de relever de leur compétence territoriale élargie.
+aux magistrats du siège exerçant des fonctions pénales des juridictions
+mentionnées aux articles 704, 706-2, 706-17, 706-75, 706-107 et 706-108 pour le
+traitement de l'ensemble des procédures susceptibles de relever de leur
+compétence territoriale élargie.
 
 Elles sont de même directement accessibles aux procureurs généraux pour le
 traitement des procédures dont sont saisies les cours d'appel et pour
