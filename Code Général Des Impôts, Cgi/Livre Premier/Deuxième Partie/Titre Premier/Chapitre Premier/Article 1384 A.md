@@ -67,6 +67,19 @@ La durée d'exonération mentionnée au I bis est portée à trente ans pour les
 constructions qui bénéficient d'une décision d'octroi de subvention ou de prêt
 aidé prise entre le 1er juillet 2004 et le 31 décembre 2009.
 
+I quater. - Sont exonérées de taxe foncière sur les propriétés bâties pendant
+une durée de quinze ans à compter de l'année qui suit celle de leur achèvement
+les constructions de logements neufs à usage locatif et affectés à l'habitation
+principale appartenant à l'association mentionnée à l'article 116 de la loi de
+finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles
+immobilières dont cette association détient la majorité des parts lorsqu'elles
+sont financées à concurrence de plus de 50 % par des subventions versées au
+titre de la participation des employeurs à l'effort de construction et qu'elles
+bénéficient des dispositions des 2 ou 3 quinquies du I de l'article 278 sexies.
+La durée d'exonération est portée à vingt-cinq ans pour les constructions qui
+bénéficient d'une décision d'octroi de subvention prise entre le 1er mars 2007
+et le 31 décembre 2009.
+
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde
 prévues aux articles L. 615-1 à L. 615-5 du code de la construction et de

@@ -1,11 +1,12 @@
 Article L332-8
 ----
 Le juge statue sur les éventuelles contestations de créances et prononce la
-liquidation judiciaire du patrimoine personnel du débiteur, dont sont exclus les
-biens meublants nécessaires à la vie courante et les biens non professionnels
-indispensables à l'exercice de son activité professionnelle. Il se prononce, le
-cas échéant, au vu du rapport rendu par le mandataire dans un délai de quatre
-mois à compter de sa désignation.
+liquidation judiciaire du patrimoine du débiteur, dont sont exclus les biens
+insaisissables énumérés à l'article 14 de la loi n° 91-650 du 9 juillet 1991
+portant réforme des procédures civiles d'exécution, ainsi que les biens dont les
+frais de vente seraient manifestement disproportionnés au regard de leur valeur
+vénale et les biens non professionnels indispensables à l'exercice de l'activité
+professionnelle du débiteur.
 
 Le juge désigne un liquidateur qui peut être le mandataire. Le jugement qui
 prononce la liquidation emporte de plein droit dessaisissement du débiteur de la

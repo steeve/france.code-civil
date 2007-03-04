@@ -10,7 +10,7 @@ de leur famille qui les accompagnent ;
 2° Les personnes qui sont venues en France pour suivre un traitement médical ou
 une cure ;
 
-3° (Abrogé)
+3° (Abrogé) ;
 
 4° Les agents retraités d'une organisation internationale qui ne sont pas
 également titulaires d'une pension française, ainsi que les membres de leur
@@ -22,4 +22,8 @@ l'organisation dont ils relevaient quand ils étaient en activité ;
 activité professionnelle et exemptés d'affiliation au régime français de
 sécurité sociale en application d'une convention internationale de sécurité
 sociale ou d'un règlement communautaire, ainsi que les personnes appartenant aux
-catégories mentionnées aux articles L. 161-14 et L. 313-3.
+catégories mentionnées aux articles L. 161-14 et L. 313-3 ;
+
+6° Les ressortissants des Etats membres de la Communauté européenne et des
+autres Etats parties à l'accord sur l'Espace économique européen, entrés en
+France pour y chercher un emploi et qui s'y maintiennent à ce titre.

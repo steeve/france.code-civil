@@ -40,3 +40,8 @@ des conditions et tarifs applicables à son compte de dépôt.
 II. - Sauf si la convention de compte en dispose autrement, toutes les
 opérations en crédit et en débit d'un compte de dépôt doivent être portées à la
 connaissance du client à intervalle régulier n'excédant pas un mois.
+
+III. - Le montant des frais bancaires consécutifs à un incident de paiement
+autre que le rejet d'un chèque est plafonné dans des conditions fixées par
+décret en fonction de la nature et du montant de l'incident, sans excéder en
+tout état de cause ce dernier montant.

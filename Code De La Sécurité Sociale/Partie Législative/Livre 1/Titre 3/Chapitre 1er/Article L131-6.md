@@ -29,10 +29,10 @@ de commerce ou d'industrie, lorsque ces revenus sont perçus par une personne qu
 réalise des actes de commerce au titre de l'entreprise louée ou y exerce une
 activité.
 
-Les cotisations sont calculées, chaque année, à titre provisionnel, en
-pourcentage du revenu professionnel de l'avant-dernière année ou des revenus
-forfaitaires. Lorsque le revenu professionnel est définitivement connu, les
-cotisations font l'objet d'une régularisation.
+Les cotisations sont établies sur une base annuelle. Elles sont calculées, à
+titre provisionnel, en pourcentage du revenu professionnel de l'avant-dernière
+année ou des revenus forfaitaires. Lorsque le revenu professionnel est
+définitivement connu, les cotisations font l'objet d'une régularisation.
 
 Le montant des acomptes provisionnels de cotisations sociales dus au titre d'une
 année civile peut être calculé sur la base des revenus de cette année estimés
@@ -51,8 +51,14 @@ valeur de la base mensuelle de calcul des prestations familiales en vigueur au
 civile d'activité sont calculées à titre provisionnel sur une base forfaitaire
 qui ne peut excéder vingt-sept fois cette valeur.
 
-Par dérogation aux quatrième et sixième alinéas, et sans préjudice de l'article
-L. 131-6-1, les travailleurs non salariés imposés suivant le régime visé à
-l'article 50-0 ou à l'article 102 ter du code général des impôts peuvent
-demander à ce que leurs cotisations soient, dès l'année au titre de laquelle
-elles sont dues, calculées sur la base du revenu effectivement réalisé.
+Par dérogation aux quatrième et sixième alinéas, les travailleurs non salariés
+susceptibles de bénéficier des régimes définis aux articles 50-0 et 102 ter du
+code général des impôts peuvent, pour l'année au cours de laquelle débute leur
+activité professionnelle et les deux années civiles suivantes, demander que
+l'ensemble des cotisations et contributions de sécurité sociale dont ils sont
+redevables soient calculées trimestriellement en appliquant au montant de leur
+chiffre d'affaires ou de leurs revenus non commerciaux effectivement réalisés le
+trimestre précédent la fraction visée à l'article L. 131-6-2 du présent code. Ce
+régime reste applicable au titre de l'année civile au cours de laquelle les
+limites de chiffre d'affaires ou de recettes prévues par les articles précités
+du code général des impôts sont dépassées.

@@ -15,6 +15,4 @@ du règlement intérieur, préalablement à la réalisation de travaux, et sur t
 projet et organisation, dont la gestion des espaces communs, susceptibles
 d'avoir une incidence sur les conditions de logement et de vie des occupants.
 
-Le conseil doit être mis en place au plus tard dans l'année qui suit la
-publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national
-pour le logement.
+Le conseil doit être mis en place au plus tard le 31 décembre 2007.

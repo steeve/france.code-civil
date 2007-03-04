@@ -11,3 +11,8 @@ organismes mentionnés aux articles L. 213-1, L. 611-20 et L. 752-4. Cette
 convention détermine les modalités de transmission des informations recueillies
 aux organismes chargés du calcul et du recouvrement des cotisations et
 contributions.
+
+Par dérogation au premier alinéa, les travailleurs indépendants relevant du
+dernier alinéa de l'article L. 131-6 sont dispensés de la déclaration de revenus
+auprès du régime social des indépendants. Un décret fixe les obligations
+déclaratives particulières qui leur sont applicables.

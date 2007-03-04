@@ -11,10 +11,10 @@ versées au bénéfice de l'employeur et du travailleur indépendant sont ajout�
 au bénéfice pour le calcul de la contribution, à l'exception de celles prises en
 compte dans le revenu professionnel défini à l'article L. 131-6.
 
-La contribution est, à titre provisionnel, assise sur le revenu professionnel de
-l'avant-dernière année précédant celle au titre de laquelle elle est due.
-Lorsque le revenu professionnel est définitivement connu, la contribution fait
-l'objet d'une régularisation.
+La contribution est établie sur une base annuelle. Elle est assise, à titre
+provisionnel, sur le revenu professionnel de l'avant-dernière année précédant
+celle au titre de laquelle elle est due. Lorsque le revenu professionnel est
+définitivement connu, la contribution fait l'objet d'une régularisation.
 
 Pour les employeurs et travailleurs indépendants ainsi que pour les titulaires
 de bénéfices non commerciaux et de bénéfices industriels et commerciaux visés au
@@ -39,9 +39,8 @@ La contribution sociale due au titre de l'année 1991 par les employeurs et
 travailleurs indépendants ainsi que par les titulaires de bénéfices non
 commerciaux et de bénéfices industriels et commerciaux visés à l'alinéa
 précédent est calculée à titre provisionnel sur les revenus professionnels, tels
-que définis et déterminés au présent article, majorés de 25 p. 100.
+que définis et déterminés au présent article, majorés de 25 %.
 
-Par dérogation aux troisième et quatrième alinéas, la contribution est, dès
-l'année au titre de laquelle elle est due, calculée sur la base du revenu
-effectivement réalisé lorsque l'employeur ou le travailleur indépendant a exercé
-l'option prévue au septième alinéa de l'article L. 131-6.
+Par dérogation aux troisième et quatrième alinéas, le dernier alinéa de
+l'article L. 131-6 est applicable lorsque les employeurs ou les travailleurs
+indépendants ont exercé l'option prévue par cet alinéa.

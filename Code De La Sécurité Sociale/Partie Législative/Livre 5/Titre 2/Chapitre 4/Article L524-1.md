@@ -18,7 +18,11 @@ duquel aucune de ces aides n'est due.
 
 L'allocation de parent isolé est attribuée sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant
-des conditions de durée de résidence en France qui seront fixées par décret.
+des conditions de durée de résidence en France qui seront fixées par décret. Les
+ressortissants des Etats membres de la Communauté européenne et des autres Etats
+parties à l'accord sur l'Espace économique européen, entrés en France pour y
+chercher un emploi et qui s'y maintiennent à ce titre, ne bénéficient pas de
+l'allocation.
 
 L'Etat verse au Fonds national des prestations familiales, géré par la Caisse
 nationale des allocations familiales, une subvention correspondant aux sommes

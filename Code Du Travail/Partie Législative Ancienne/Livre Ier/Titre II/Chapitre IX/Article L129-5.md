@@ -12,8 +12,9 @@ l'action sociale et des familles ;
 2° Soit d'acquitter tout ou partie du montant des prestations de services
 fournies par les organismes agréés en application de l'article L. 129-1 du
 présent code, ou les organismes ou personnes mentionnés aux deux premiers
-alinéas de l'article L. 2324-1 du code de la santé publique ou à l'article L.
-227-6 du code de l'action sociale et des familles.
+alinéas de l'article L. 2324-1 du code de la santé publique ou les personnes
+organisant un accueil des enfants scolarisés en école maternelle ou élémentaire,
+limité aux heures qui précèdent ou suivent la classe.
 
 Un autre moyen de paiement peut être utilisé en remplacement du chèque ou du
 titre spécial de paiement, dans la limite des interdictions de paiement en

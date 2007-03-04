@@ -37,6 +37,5 @@ la notification ou de la signification délivre, sans autre acte de procédure n
 frais, un titre exécutoire.
 
 En tout état de cause, les frais de toute nature qu'occasionne le rejet d'un
-chèque sans provision sont à la charge du tireur. Lorsque le montant du chèque
-rejeté est inférieur à 50 euros, les frais perçus par le tiré ne peuvent excéder
-un montant fixé par décret.
+chèque sans provision sont à la charge du tireur. Les frais perçus par le tiré
+ne peuvent excéder un montant fixé par décret.

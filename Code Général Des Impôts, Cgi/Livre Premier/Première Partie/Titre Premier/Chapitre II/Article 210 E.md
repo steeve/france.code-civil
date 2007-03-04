@@ -28,8 +28,12 @@ l'application de l'amende prévue à l'article 1764.
 III. - Les plus-values nettes dégagées lors de la cession de biens immobiliers
 bâtis ou non bâtis par une personne morale soumise à l'impôt sur les sociétés
 dans les conditions de droit commun au profit d'un organisme d'habitations à
-loyer modéré, d'une société d'économie mixte gérant des logements sociaux ou
-d'un organisme mentionné à l'article L. 365-1 du code de la construction et de
+loyer modéré, d'une société d'économie mixte gérant des logements sociaux, de
+l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001), des sociétés civiles immobilières dont cette
+association détient la majorité des parts pour les logements visés au 4° de
+l'article L. 351-2 du code de la construction et de l'habitation ou d'un
+organisme mentionné à l'article L. 365-1 du code de la construction et de
 l'habitation sont soumises à l'impôt sur les sociétés au taux visé au IV de
 l'article 219.
 

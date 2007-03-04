@@ -3,7 +3,8 @@ Article L652-3
 Lorsqu'ils sont munis d'un titre exécutoire au sens de l'article 3 de la loi n°
 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, les
 caisses du régime social des indépendants et les organismes conventionnés pour
-l'assurance maladie et maternité habilités à décerner la contrainte définie à
+l'assurance maladie et maternité ainsi que les caisses d'assurance vieillesse
+des professions libérales, habilités à décerner la contrainte définie à
 l'article L. 244-9 peuvent, au moyen d'une opposition, enjoindre aux tiers
 dépositaires, détenteurs ou redevables de sommes appartenant ou devant revenir
 au débiteur, de verser au lieu et place de celui-ci, auxdits organismes, les

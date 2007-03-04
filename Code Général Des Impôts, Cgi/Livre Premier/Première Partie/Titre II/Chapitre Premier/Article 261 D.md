@@ -34,9 +34,11 @@ exploités de manière professionnelle : le petit déjeuner, le nettoyage régul
 des locaux, la fourniture de linge de maison et la réception, même non
 personnalisée, de la clientèle.
 
-c. Aux locations de locaux nus, meublés ou garnis consenties par bail ou
-convention de toute nature à l'exploitant d'un établissement d'hébergement qui
-remplit les conditions fixées au a ou au b.
+c. Aux locations de locaux nus, meublés ou garnis consenties à l'exploitant d'un
+établissement d'hébergement qui remplit les conditions fixées aux a ou b, à
+l'exclusion de celles consenties à l'exploitant d'un établissement mentionné à
+l'article L. 633-1 du code de la construction et de l'habitation dont l'activité
+n'ouvre pas droit à déduction.
 
 d. Aux prestations d'hébergement fournies dans les villages résidentiels de
 tourisme, lorsque ces derniers sont destinés à l'hébergement des touristes et

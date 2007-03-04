@@ -10,3 +10,9 @@ résiliation du bail avant l'expiration d'un délai de trois mois suivant la
 saisine des organismes payeurs desdites allocations en vue d'assurer le maintien
 du versement de l'allocation de logement, sauf si la décision de l'organisme
 concerné intervient avant l'expiration de ce délai.
+
+Ces dispositions sont applicables aux assignations tendant au prononcé de la
+résiliation du bail motivée par l'existence d'une dette locative du preneur.
+Elles sont également applicables aux demandes reconventionnelles aux fins de
+constat ou de prononcé de la résiliation motivée par l'existence d'une dette
+locative.

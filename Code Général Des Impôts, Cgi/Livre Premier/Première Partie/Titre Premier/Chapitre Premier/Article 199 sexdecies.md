@@ -4,11 +4,13 @@ Article 199 sexdecies
 différentes catégories, ouvrent droit à une aide les sommes versées par un
 contribuable domicilié en France au sens de l'article 4 B pour :
 
-a) L'emploi d'un salarié ou le recours à une association ou à une entreprise
-agréée par l'Etat, qui rend des services définis aux articles D. 129-35 et D.
-129-36 du code du travail ;
+a) L'emploi d'un salarié qui rend des services définis aux articles D. 129-35 et
+D. 129-36 du code du travail ;
 
-b) Le recours à un organisme à but non lucratif ayant pour objet l'aide à
+b) Le recours à une association, une entreprise ou un organisme ayant reçu un
+agrément délivré par l'Etat et qui rend des services mentionnés au a ;
+
+c) Le recours à un organisme à but non lucratif ayant pour objet l'aide à
 domicile et habilité au titre de l'aide sociale ou conventionné par un organisme
 de sécurité sociale.
 
@@ -46,17 +48,19 @@ parents. La limite de 12 000 Euros augmentée de ces majorations ne peut excéde
 15 000 Euros.
 
 4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des
-dépenses mentionnées au 3 du présent article au titre des services définis aux
-4° et 5° de l'article D. 129-35 du code du travail, supportées pour l'emploi
-d'un salarié à leur résidence et payées à l'aide du chèque emploi-service
-universel prévu à l'article L. 129-5 du même code par :
+dépenses mentionnées au 3 du présent article au titre des services définis à
+l'article D. 129-35 du code du travail, supportées au titre de l'emploi, à leur
+résidence, d'un salarié ou en cas de recours à une association, une entreprise
+ou un organisme, mentionné aux b ou c du 1 par :
 
 a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité
-professionnelle au cours de l'année du paiement des dépenses ;
+professionnelle ou est inscrit sur la liste des demandeurs d'emplois prévue à
+l'article L. 311-5 du code du travail durant trois mois au moins au cours de
+l'année du paiement des dépenses ;
 
 b) Les personnes mariées ou ayant conclu un pacte civil de solidarité, soumises
-à une imposition commune, qui exercent toutes deux une activité professionnelle
-au cours de l'année du paiement des dépenses.
+à une imposition commune, qui toutes deux satisfont à l'une ou l'autre
+conditions posées à l'alinéa précédent.
 
 Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des
 réductions d'impôt mentionnées aux articles 199 quater B à 200 bis du présent
@@ -68,11 +72,8 @@ dépenses mentionnées au 3 supportées par :
 
 a) Les personnes autres que celles mentionnées au 4 ;
 
-b) Les personnes mentionnées au 4, qui ont supporté ces dépenses au titre de
-services autres que ceux mentionnés au 4, n'ont pas utilisé pour ces dépenses au
-titre de services mentionnés au 4 un chèque emploi-service universel prévu à
-l'article L. 129-5 du code du travail ou ont supporté ces dépenses au titre de
-services mentionnés au 4 à la résidence d'un ascendant.
+b) Les personnes mentionnées au 4 qui ont supporté ces dépenses à la résidence
+d'un ascendant.
 
 6. L'aide est accordée sur présentation des pièces justifiant du paiement des
 salaires et des cotisations sociales, de l'identité du bénéficiaire, de la

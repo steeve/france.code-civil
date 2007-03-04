@@ -107,10 +107,11 @@ l'Etat dans le département, gérer, en qualité d'administrateurs de biens, des
 logements situés dans des copropriétés connaissant des difficultés importantes
 de fonctionnement ou être syndics de ces copropriétés. Dans ces mêmes
 copropriétés lorsqu'elles font l'objet d'un plan de sauvegarde en application de
-l'article L. 615-1, elles peuvent, selon les modalités précisées par décret en
-Conseil d'Etat qui peuvent déroger aux règles applicables aux habitations à
-loyer modéré, acquérir des lots en vue de leur revente, y effectuer tous travaux
-et les louer provisoirement ;
+l'article L. 615-1 ou d'une opération programmée d'amélioration de l'habitat
+prévue à l'article L. 303-1 et dédiée aux copropriétés dégradées, elles peuvent,
+selon les modalités précisées par décret en Conseil d'Etat qui peuvent déroger
+aux règles applicables aux habitations à loyer modéré, acquérir des lots en vue
+de leur revente, y effectuer tous travaux et les louer provisoirement ;
 
 - réaliser des hébergements de loisirs à vocation sociale dans les conditions
 prévues à l'article L. 421-1 ;

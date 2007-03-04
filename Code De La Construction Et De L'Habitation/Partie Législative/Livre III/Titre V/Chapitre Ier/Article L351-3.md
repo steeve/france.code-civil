@@ -22,7 +22,18 @@ La prise en compte des ressources peut faire l'objet de dispositions
 spécifiques, lorsque le demandeur est âgé de moins de vingt-cinq ans, et qu'il
 bénéficie d'un contrat de travail autre qu'un contrat à durée indéterminée.
 
-Le barème, révisé chaque année à une date fixée par décret, tient compte de
-l'évolution constatée des prix de détail et du coût de la construction. Cette
-révision assure, par toutes mesures appropriées, le maintien de l'efficacité
-sociale de l'aide personnalisée au logement.
+Le barème est révisé chaque année au 1er janvier. Cette révision assure, par
+toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
+personnalisée au logement. Sont indexés sur l'évolution de l'indice de référence
+des loyers défini à l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à
+améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du
+23 décembre 1986 les paramètres suivants :
+
+- les plafonds de loyers ;
+
+- les plafonds des charges de remboursement de contrats de prêts dont la
+signature est postérieure à la date de révision du barème ;
+
+- le montant forfaitaire des charges ;
+
+- les équivalences de loyer et de charges locatives.

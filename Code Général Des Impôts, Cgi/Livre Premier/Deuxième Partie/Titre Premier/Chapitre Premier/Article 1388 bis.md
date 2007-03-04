@@ -19,7 +19,8 @@ d'améliorer la qualité du service rendu aux locataires.
 
 Cet abattement s'applique au titre des impositions établies de 2001 à 2007 et à
 compter du 1er janvier de l'année suivant celle de la signature de la
-convention.
+convention. Il est également applicable aux impositions établies au titre des
+années 2008 et 2009 lorsqu'une convention a été conclue ou renouvelée en 2007.
 
 II bis. - Ouvrent également droit à l'abattement prévu au I les logements
 faisant l'objet d'une convention globale de patrimoine définie à l'article L.
@@ -27,7 +28,7 @@ faisant l'objet d'une convention globale de patrimoine définie à l'article L.
 et l'Etat.
 
 Cet abattement s'applique aux impositions établies au titre des années 2006 à
-2009 et à compter du 1er janvier de l'année suivant celle de la signature de la
+2013 et à compter du 1er janvier de l'année suivant celle de la signature de la
 convention.
 
 III. - Pour bénéficier de l'abattement prévu au I, les organismes concernés

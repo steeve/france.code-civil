@@ -14,3 +14,7 @@ acquise jusqu'au jugement de clôture.
 Le juge de l'exécution peut désigner un mandataire figurant sur une liste
 établie dans des conditions fixées par décret en Conseil d'Etat, faire procéder
 à une enquête sociale et ordonner un suivi social du débiteur.
+
+Nonobstant toute disposition contraire, le juge peut obtenir communication de
+tout renseignement lui permettant d'apprécier la situation du débiteur et
+l'évolution possible de celle-ci.

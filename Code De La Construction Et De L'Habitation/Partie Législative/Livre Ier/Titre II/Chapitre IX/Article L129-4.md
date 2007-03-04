@@ -10,3 +10,7 @@ avancés par la commune et recouvrés comme en matière de contributions directe
 Si l'immeuble relève du statut de la copropriété, le titre de recouvrement est
 adressé à chaque copropriétaire pour la fraction de créance dont il est
 redevable.
+
+Les créances qui n'ont pu être recouvrées par la commune sont mises à la charge
+de l'Etat ou, par subrogation de celui-ci dans ses droits et obligations, d'une
+personne publique s'y substituant.
