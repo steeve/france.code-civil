@@ -18,3 +18,12 @@ compter soit de l'exécution de la peine, soit de la prescription accomplie ;
 pour les condamnations multiples à l'emprisonnement dont l'ensemble ne dépasse
 pas cinq ans, après un délai de dix ans à compter soit de l'expiration de la
 peine subie, soit de la prescription accomplie.
+
+Les délais prévus au présent article sont doublés lorsque la personne a été
+condamnée pour des faits commis en état de récidive légale.
+
+Lorsqu'il s'agit de condamnations assorties en tout ou partie du sursis, du
+sursis avec mise à l'épreuve ou du sursis avec obligation d'accomplir un travail
+d'intérêt général, les délais de réhabilitation courent, pour chacune de ces
+condamnations et y compris en cas de condamnations multiples, à compter de la
+date à laquelle la condamnation est non avenue.
