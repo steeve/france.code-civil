@@ -40,9 +40,9 @@ propriété ou de jouissance, ou qui les occupent en droit ou en fait ;
 
 Sont notamment visés par le premier alinéa, les terrains pour lesquels, dans un
 délai de quatre ans à compter de la date de l'acte qui constate l'opération,
-l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou
-commence les travaux nécessaires pour édifier un immeuble ou un groupe
-d'immeubles ou pour construire de nouveaux locaux en surélévation.
+l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou le
+permis d'aménager ou commence les travaux nécessaires pour édifier un immeuble
+ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation.
 
 Ces dispositions ne sont pas applicables aux terrains acquis par des personnes
 physiques en vue de la construction d'immeubles que ces personnes affectent à un
@@ -177,7 +177,7 @@ d) De travaux d'amélioration, de transformation, d'aménagement ou d'entretien,
 autres que l'entretien des espaces verts et les travaux de nettoyage, par
 l'association mentionnée à l'article 116 de la loi de finances pour 2002
 précitée ou par les sociétés civiles immobilières dont cette association détient
-la majorité des parts ;
+la majorité des parts.
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
