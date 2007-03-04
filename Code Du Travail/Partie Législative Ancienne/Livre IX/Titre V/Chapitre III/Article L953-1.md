@@ -22,12 +22,11 @@ Cette contribution, à l'exclusion de celle effectuée par les assujettis visés
 aux articles L. 953-2 et L. 953-3, est versée à un fonds d'assurance formation
 visé à l'article L. 961-10.
 
-La contribution est recouvrée et contrôlée par les organismes chargés du
-recouvrement des cotisations du régime général de sécurité sociale selon les
-règles et sous les garanties et sanctions applicables au recouvrement des
-cotisations personnelles d'allocations familiales. Elle fait l'objet d'un
-versement unique au plus tard le 15 février de l'année qui suit celle au titre
-de laquelle elle est due.
+La contribution est recouvrée et contrôlée conformément aux dispositions prévues
+à l'article L. 133-6 du code de la sécurité sociale selon les règles et sous les
+garanties et sanctions applicables au recouvrement des cotisations personnelles
+d'allocations familiales. Elle fait l'objet d'un versement unique au plus tard
+le 15 février de l'année qui suit celle au titre de laquelle elle est due.
 
 Les organismes chargés du recouvrement reversent le montant de leur collecte aux
 fonds d'assurance formation visés à l'article L. 961-10, agréés à cet effet par
