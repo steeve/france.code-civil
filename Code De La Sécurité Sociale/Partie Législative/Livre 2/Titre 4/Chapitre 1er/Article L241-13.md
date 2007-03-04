@@ -22,24 +22,29 @@ des marins, des mines et des clercs et employés de notaires.
 III. - Le montant de la réduction est calculé chaque mois civil, pour chaque
 salarié. Il est égal au produit de la rémunération mensuelle, telle que définie
 à l'article L. 242-1 par un coefficient. Ce coefficient est déterminé par
-application d'une formule fixée par décret. Il est fonction de la rémunération
-horaire du salarié concerné calculée en divisant la rémunération mensuelle par
-le nombre d'heures rémunérées au cours du mois considéré.
+application d'une formule fixée par décret. Il est fonction du rapport entre le
+salaire minimum de croissance calculé pour un mois sur la base de la durée
+légale du travail et la rémunération mensuelle du salarié telle que définie à
+l'article L. 242-1, hors rémunération des heures complémentaires et
+supplémentaires dans la limite, en ce qui concerne la majoration salariale
+correspondante, des taux de 25 % ou 50 %, selon le cas, prévus au I de l'article
+L. 212-5 du code du travail et à l'article L. 713-6 du code rural. Pour les
+salariés qui ne sont pas employés à temps plein ou qui ne sont pas employés sur
+tout le mois, le salaire minimum de croissance pris en compte est celui qui
+correspond à la durée de travail prévue au contrat.
 
 Le décret prévu à l'alinéa précédent précise les modalités de calcul de la
-réduction dans le cas des salariés dont la rémunération ne peut être déterminée
-selon un nombre d'heures de travail effectuées et dans celui des salariés dont
-le contrat de travail est suspendu avec maintien de tout ou partie de la
-rémunération.
+réduction dans le cas des salariés dont le contrat de travail est suspendu avec
+maintien de tout ou partie de la rémunération.
 
 Pour les gains et rémunérations versés à compter du 1er juillet 2005, le
-coefficient maximal est de 0,26. Il est atteint pour une rémunération horaire
-égale au salaire minimum de croissance. Ce coefficient devient nul pour une
-rémunération horaire égale au salaire minimum de croissance majoré de 60 %. Pour
-les gains et rémunérations versés avant cette date, les dispositions du présent
-article s'appliquent sous réserve de celles de l'article 10 de la loi n° 2003-47
-du 17 janvier 2003 relative aux salaires, au temps de travail et au
-développement de l'emploi.
+coefficient maximal est de 0,26. Il est atteint pour une rémunération égale au
+salaire minimum de croissance. Ce coefficient devient nul pour une rémunération
+égale au salaire minimum de croissance majoré de 60 %. Pour les gains et
+rémunérations versés avant cette date, les dispositions du présent article
+s'appliquent sous réserve de celles de l'article 10 de la loi n° 2003-47 du 17
+janvier 2003 relative aux salaires, au temps de travail et au développement de
+l'emploi.
 
 Pour les gains et rémunérations versés à compter du 1er juillet 2007 par les
 employeurs de un à dix-neuf salariés au sens des articles L. 620-10 et L. 620-11
@@ -62,19 +67,9 @@ lesdites caisses de compensation.
 
 V. - Le bénéfice des dispositions du présent article est cumulable :
 
-1° Avec l'aide prévue à l'article 3 de la loi n° 98-461 du 13 juin 1998
-d'orientation et d'incitation relative à la réduction du temps de travail. En ce
-cas, le montant de la réduction mentionnée au II est minoré d'un montant
-forfaitaire fixé par décret. Cette possibilité de cumul n'est ouverte que
-jusqu'au 31 mars 2004 ;
+1° Avec la réduction forfaitaire prévue à l'article L. 241-14 ;
 
-2° Avec la réduction forfaitaire prévue à l'article L. 241-14 ;
-
-3° Avec les exonérations prévues aux articles L. 741-4-1, L. 741-15-1 et L.
-751-17-1 du code rural ;
-
-4° Avec les exonérations prévues aux articles L. 741-4-2, L. 741-15-2 et L.
-751-17-2 du code rural.
+2° Avec les déductions forfaitaires prévues à l'article L. 241-18.
 
 Le bénéfice des dispositions du présent article ne peut être cumulé, à
 l'exception des cas prévus aux 1° et 2°, avec celui d'une autre exonération
