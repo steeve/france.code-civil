@@ -18,7 +18,10 @@ exigences du bon fonctionnement du cabinet d'instruction.
 
 Après la première comparution ou la première audition, les avocats des parties
 peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et
-actes du dossier.
+actes du dossier. Cette copie peut être adressée à l'avocat sous forme
+numérisée, le cas échéant par un moyen de télécommunication selon les modalités
+prévues à l'article 803-1. La délivrance de cette copie doit intervenir dans le
+mois qui suit la demande.
 
 Les avocats peuvent transmettre une reproduction des copies ainsi obtenues à
 leur client. Celui-ci atteste au préalable, par écrit, avoir pris connaissance
@@ -39,13 +42,13 @@ pression sur les victimes, les personnes mises en examen, leurs avocats, les
 témoins, les enquêteurs, les experts ou toute autre personne concourant à la
 procédure.
 
-Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de
+Cette décision est notifiée par tout moyen et sans délai à l'avocat.A défaut de
 réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut
 communiquer à son client la reproduction des pièces ou actes dont il avait
 fourni la liste. Il peut, dans les deux jours de sa notification, déférer la
 décision du juge d'instruction au président de la chambre de l'instruction, qui
 statue dans un délai de cinq jours ouvrables par une décision écrite et motivée,
-non susceptible de recours. A défaut de réponse notifiée dans le délai imparti,
+non susceptible de recours.A défaut de réponse notifiée dans le délai imparti,
 l'avocat peut communiquer à son client la reproduction des pièces ou actes
 mentionnés sur la liste.
 

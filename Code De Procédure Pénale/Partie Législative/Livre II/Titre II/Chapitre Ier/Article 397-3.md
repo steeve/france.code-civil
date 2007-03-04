@@ -10,9 +10,9 @@ applicables.
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également
 placer ou maintenir le prévenu en détention provisoire par décision spécialement
 motivée. La décision prescrivant la détention est rendue suivant les modalités
-prévues par les articles 135, 137-3, premier alinéa et 464-1 et est motivée par
-référence aux dispositions des 1°, 2° et 3° de l'article 144. Elle est
-exécutoire par provision.
+prévues par les articles 135,137-3, premier alinéa et 464-1 et est motivée par
+référence aux dispositions des 1° à 6° de l'article 144. Elle est exécutoire par
+provision.
 
 Lorsque le prévenu est en détention provisoire, le jugement au fond doit être
 rendu dans les deux mois qui suivent le jour de sa première comparution devant

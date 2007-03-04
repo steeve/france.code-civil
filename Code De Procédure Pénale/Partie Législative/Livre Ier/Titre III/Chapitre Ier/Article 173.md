@@ -37,7 +37,7 @@ Dans les huit jours de la réception du dossier par le greffe de la chambre de
 l'instruction, le président peut, par ordonnance non susceptible de recours,
 constater que la requête est irrecevable en application du présent article,
 troisième ou quatrième alinéa, de l'article 173-1, des articles 174, premier
-alinéa, ou 175, deuxième alinéa ; il peut également constater l'irrecevabilité
+alinéa, ou 175, quatrième alinéa ; il peut également constater l'irrecevabilité
 de la requête si celle-ci n'est pas motivée. S'il constate l'irrecevabilité de
 la requête, le président de la chambre de l'instruction ordonne que le dossier
 de l'information soit renvoyé au juge d'instruction ; dans les autres cas, il le

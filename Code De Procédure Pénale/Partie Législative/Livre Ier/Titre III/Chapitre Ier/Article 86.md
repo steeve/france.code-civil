@@ -15,8 +15,12 @@ Le procureur de la République ne peut saisir le juge d'instruction de
 réquisitions de non informer que si, pour des causes affectant l'action publique
 elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à
 supposer ces faits démontrés, ils ne peuvent admettre aucune qualification
-pénale. Dans le cas où le juge d'instruction passe outre, il doit statuer par
-une ordonnance motivée.
+pénale. Le procureur de la République peut également prendre des réquisitions de
+non-lieu dans le cas où il est établi de façon manifeste, le cas échéant au vu
+des investigations qui ont pu être réalisées à la suite du dépôt de la plainte
+ou en application du troisième alinéa, que les faits dénoncés par la partie
+civile n'ont pas été commis. Dans le cas où le juge d'instruction passe outre,
+il doit statuer par une ordonnance motivée.
 
 Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut
 faire application des dispositions des articles 177-2 et 177-3.

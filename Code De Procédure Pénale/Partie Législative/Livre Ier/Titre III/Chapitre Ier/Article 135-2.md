@@ -21,7 +21,7 @@ de la République, soit placer la personne sous contrôle judiciaire, soit
 ordonner son placement en détention provisoire jusqu'à sa comparution devant la
 juridiction de jugement, par ordonnance motivée conformément aux dispositions de
 l'article 144, rendue à l'issue d'un débat contradictoire organisé conformément
-aux dispositions des quatrième à huitième alinéas de l'article 145. Si la
+aux dispositions des quatrième à neuvième alinéas de l'article 145. Si la
 personne est placée en détention, les délais prévus par les quatrième et
 cinquième alinéas de l'article 179 et par les huitième et neuvième alinéas de
 l'article 181 sont alors applicables et courent à compter de l'ordonnance de

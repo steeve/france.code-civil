@@ -9,7 +9,7 @@ la présentation aux fins de prolongation de la garde à vue ou de la retenue
 judiciaire peut être réalisée par l'utilisation de moyens de télécommunication
 audiovisuelle. Il est alors dressé, dans chacun des lieux, un procès-verbal des
 opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un
-enregistrement audiovisuel ou sonore, les dispositions des quatrième à neuvième
+enregistrement audiovisuel ou sonore, les dispositions des troisième à huitième
 alinéas de l'article 706-52 sont alors applicables.
 
 Les dispositions de l'alinéa précédent prévoyant l'utilisation d'un moyen de

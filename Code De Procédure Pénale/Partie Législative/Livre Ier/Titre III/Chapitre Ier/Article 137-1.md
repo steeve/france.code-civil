@@ -18,4 +18,8 @@ il a connu.
 
 Hors le cas prévu par le deuxième alinéa de l'article 137-4, il est saisi par
 une ordonnance motivée du juge d'instruction, qui lui transmet le dossier de la
-procédure accompagné des réquisitions du procureur de la République.
+procédure accompagné des réquisitions du procureur de la République. Lorsque le
+juge des libertés et de la détention doit statuer en application de l'article
+145, le juge d'instruction peut indiquer dans son ordonnance si la publicité de
+ce débat lui paraît devoir être écartée au regard d'une ou plusieurs des raisons
+mentionnées au sixième alinéa de cet article.
