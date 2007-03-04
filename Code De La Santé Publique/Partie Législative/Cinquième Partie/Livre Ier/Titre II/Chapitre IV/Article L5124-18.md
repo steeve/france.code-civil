@@ -30,10 +30,10 @@ l'article L. 5124-4 en cas de décès du pharmacien propriétaire ;
 8° Les conditions dans lesquelles peut être faite la publicité en faveur des
 entreprises et établissements pharmaceutiques ;
 
-9° Les modalités d'application des articles L. 5124-7 et L. 5124-8 et les
-adaptations qui pourront être apportées, en ce qui concerne les établissements
-pharmaceutiques, aux second, troisième, et quatrième alinéas de l'article L.
-5124-2 ;
+9° Les modalités d'application des articles L. 3135-1, L. 5124-7 et L. 5124-8 et
+les adaptations qui pourront être apportées, en ce qui concerne les
+établissements pharmaceutiques, aux second, troisième, et quatrième alinéas de
+l'article L. 5124-2 ;
 
 10° Les conditions dans lesquelles peut être faite la publicité en faveur des
 établissements pharmaceutiques ;
