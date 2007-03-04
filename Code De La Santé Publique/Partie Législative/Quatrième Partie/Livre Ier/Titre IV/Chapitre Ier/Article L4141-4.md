@@ -14,3 +14,8 @@ Un décret, pris après avis du Conseil national de l'ordre des
 chirurgiens-dentistes, fixe les conditions d'application du présent article,
 notamment le niveau d'études exigé selon la qualification du praticien remplacé,
 la durée maximale des autorisations et les conditions de leur prorogation.
+
+Les personnes appartenant à la réserve sanitaire prévue à l'article L. 3132-1 ou
+requises en application des articles L. 3131-8 ou L. 3131-9 et ayant satisfait à
+l'examen de cinquième année des études odontologiques sont autorisées à exercer
+l'art dentaire au titre des activités pour lesquelles elles ont été appelées.

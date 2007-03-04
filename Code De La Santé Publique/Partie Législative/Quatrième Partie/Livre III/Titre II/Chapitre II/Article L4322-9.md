@@ -2,8 +2,10 @@ Article L4322-9
 ----
 Le conseil national fixe le montant de la cotisation qui doit être versée à
 l'ordre des pédicures-podologues par chaque personne physique ou morale inscrite
-au tableau. Il détermine également les quotités de cette cotisation qui seront
-attribuées à l'échelon régional et national.
+au tableau. Toutefois, la cotisation n'est pas due par le pédicure podologue
+réserviste sanitaire dès lors qu'il n'exerce la profession qu'à ce titre. Il
+détermine également les quotités de cette cotisation qui seront attribuées à
+l'échelon régional et national.
 
 Le conseil national gère les biens de l'ordre et peut créer ou subventionner les
 oeuvres intéressant la profession, ainsi que les oeuvres d'entraide. Il

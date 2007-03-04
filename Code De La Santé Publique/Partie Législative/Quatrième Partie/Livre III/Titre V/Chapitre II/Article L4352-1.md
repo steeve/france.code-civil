@@ -3,7 +3,10 @@ Article L4352-1
 Les manipulateurs d'électroradiologie sont tenus de faire enregistrer sans frais
 leurs diplômes, certificats, titres ou autorisation auprès du service de l'Etat
 compétent ou de l'organisme désigné à cette fin. En cas de changement de
-situation professionnelle, ils en informent ce service ou cet organisme.
+situation professionnelle ou de résidence, ils en informent ce service ou cet
+organisme. L'obligation d'information relative au changement de résidence est
+maintenue pendant une période de trois ans à compter de la cessation de leur
+activité.
 
 Il est établi, pour chaque département, par le service de l'Etat compétent ou
 l'organisme désigné à cette fin, une liste de cette profession, portée à la

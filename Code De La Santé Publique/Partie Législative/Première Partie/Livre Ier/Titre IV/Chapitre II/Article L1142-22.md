@@ -16,7 +16,7 @@ de l'indemnisation des victimes de préjudices résultant de la contamination pa
 le virus d'immunodéficience humaine en application de l'article L. 3122-1 et de
 la réparation des dommages imputables directement à une activité de prévention,
 de diagnostic ou de soins réalisée en application de mesures prises conformément
-à l'article L. 3110-1.
+aux articles L. 3131-1 et L. 3134-1.
 
 Les obligations de l'association France-Hypophyse nées de son rôle dans
 l'organisation du traitement des patients par l'hormone de croissance extractive

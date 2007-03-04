@@ -24,7 +24,9 @@ Il répartit le produit de cette cotisation, entre les conseils en fonction de
 leur charge, en précisant la part consacrée au fonctionnement des chambres
 disciplinaires.
 
-La cotisation est obligatoire.
+La cotisation est obligatoire. Toutefois, la cotisation n'est pas due par
+l'infirmier ou l'infirmière réserviste sanitaire dès lors qu'il ou elle n'exerce
+la profession qu'à ce titre.
 
 Le conseil national gère les biens de l'ordre et peut créer ou subventionner des
 oeuvres intéressant la profession d'infirmier ainsi que des oeuvres d'entraide.

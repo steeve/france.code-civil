@@ -8,7 +8,9 @@ chaque conseil départemental, à chaque conseil régional ou interrégional et 
 conseil national, en précisant la part consacrée au fonctionnement des chambres
 disciplinaires placées auprès de ces instances.
 
-Les cotisations sont obligatoires.
+Les cotisations sont obligatoires. Toutefois, la cotisation n'est pas due par le
+médecin, le chirurgien-dentiste ou la sage-femme réserviste sanitaire, dès lors
+qu'il n'exerce la profession qu'à ce titre.
 
 Le conseil national gère les biens de l'ordre et peut créer ou subventionner des
 oeuvres intéressant la profession médicale ainsi que des oeuvres d'entraide.

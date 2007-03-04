@@ -33,3 +33,7 @@ aux prestations d'assurances sociales et aux prestations familiales ainsi qu'au
 regard de tous les droits que le salarié ou agent public tient du fait de son
 ancienneté dans l'entreprise. Ces absences n'entraînent aucune diminution de
 leurs rémunérations et des avantages y afférents.
+
+Toutefois, les premier et troisième alinéas ne sont pas applicables au
+pharmacien réserviste sanitaire dès lors qu'il n'exerce la profession qu'à ce
+titre.
