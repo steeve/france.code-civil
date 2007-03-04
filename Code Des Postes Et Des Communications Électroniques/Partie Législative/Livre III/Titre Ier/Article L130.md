@@ -3,9 +3,11 @@ Article L130
 L'Autorité de régulation des communications électroniques et des postes est
 composée de sept membres nommés en raison de leur qualification économique,
 juridique et technique, dans les domaines des communications électroniques, des
-postes et de l'économie des territoires pour un mandat de six ans. Trois
-membres, dont le président, sont nommés par décret. Deux membres sont nommés par
-le Président de l'Assemblée nationale et deux par le Président du Sénat.
+postes et de l'économie des territoires pour un mandat de six ans. Le président
+est nommé par décret, après avis des commissions du Parlement compétentes en
+matière de postes et de communications électroniques. Deux membres sont nommés
+par décret. Deux membres sont nommés par le Président de l'Assemblée nationale
+et deux par le Président du Sénat.
 
 Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les
 deux ans.
