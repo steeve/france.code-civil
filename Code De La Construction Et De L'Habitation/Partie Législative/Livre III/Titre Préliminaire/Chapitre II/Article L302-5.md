@@ -13,6 +13,16 @@ communauté urbaine, une communauté d'agglomération ou une communauté de comm
 compétentes en matière de programme local de l'habitat, dès lors que celui-ci a
 été adopté.
 
+A compter du 1er janvier 2008, ces dispositions s'appliquent également, dans les
+conditions prévues au premier alinéa, aux communes membres d'un établissement
+public de coopération intercommunale à fiscalité propre de plus de 50 000
+habitants comprenant au moins une commune de plus de 15 000 habitants, dont la
+population est au moins égale à 1 500 habitants en Ile-de-France et à 3 500
+habitants dans les autres régions et dans lesquelles le nombre total de
+logements locatifs sociaux représente, au 1er janvier de l'année précédente,
+moins de 20 % des résidences principales. Le prélèvement prévu à l'article L.
+302-7 est opéré à compter du 1er janvier 2014.
+
 Les dispositions de la présente section ne sont pas applicables aux communes
 dont plus de la moitié du territoire urbanisé est soumis à une
 inconstructibilité résultant d'une zone A, B ou C d'un plan d'exposition au

@@ -8,6 +8,14 @@ difficultés matérielles ou morales qu'elle rencontre. Cette personne ou ce
 service est chargé de suivre le développement de l'enfant et d'en faire rapport
 au juge périodiquement.
 
+Lorsqu'il confie un mineur à un service mentionné au premier alinéa, il peut
+autoriser ce dernier à lui assurer un hébergement exceptionnel ou périodique à
+condition que ce service soit spécifiquement habilité à cet effet. Chaque fois
+qu'il héberge le mineur en vertu de cette autorisation, le service en informe
+sans délai ses parents ou ses représentants légaux ainsi que le juge des enfants
+et le président du conseil général. Le juge est saisi de tout désaccord
+concernant cet hébergement.
+
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des
 obligations particulières, telles que celle de fréquenter régulièrement un
 établissement sanitaire ou d'éducation, ordinaire ou spécialisé, ou d'exercer

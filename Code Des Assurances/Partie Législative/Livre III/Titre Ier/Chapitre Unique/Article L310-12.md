@@ -44,6 +44,8 @@ directement ou indirectement, entre une mutuelle ou une union régie par le code
 de la mutualité, ou une institution régie par le titre III du livre IX du code
 de la sécurité sociale, d'une part, et une personne qui souhaite adhérer ou
 adhère à cette mutuelle, à cette union ou à cette institution, d'autre part.
+Elle contrôle le fonds de garantie universelle des risques locatifs mentionné à
+l'article L. 313-20 du code de la construction et de l'habitation.
 
 L'Autorité veille également au respect, par les entreprises soumises au contrôle
 de l'Etat en application de l'article L. 310-1-1, les sociétés de groupe

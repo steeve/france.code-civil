@@ -36,6 +36,6 @@ application du premier alinéa de l'article L. 302-8.
 
 La commune contribue au financement de l'opération pour un montant égal à la
 subvention foncière versée par l'Etat dans le cadre de la convention, sans que
-cette contribution puisse excéder la limite de 13 000 Euros par logement
-construit ou acquis en Ile-de-France et 5 000 Euros par logement sur le reste du
+cette contribution puisse excéder la limite de 13 000 euros par logement
+construit ou acquis en Ile-de-France et 5 000 euros par logement sur le reste du
 territoire.

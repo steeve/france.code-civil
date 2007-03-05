@@ -45,5 +45,14 @@ organisme d'habitations à loyer modéré peut mettre à disposition d'une
 association des locaux moyennant, éventuellement, le paiement des charges
 locatives correspondant auxdits locaux.
 
+Dans les quartiers situés dans les zones urbaines sensibles définies à l'article
+42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire ou dans les territoires définis à l'article 6 de la
+loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville
+et la rénovation urbaine, les organismes d'habitations à loyer modéré peuvent,
+après avis de la commune d'implantation, louer à titre temporaire des locaux
+d'habitation situés en rez-de-chaussée, en vue d'y exercer des activités
+économiques. Passé le délai d'un mois, cet avis est réputé favorable.
+
 Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne
 s'appliquent pas.

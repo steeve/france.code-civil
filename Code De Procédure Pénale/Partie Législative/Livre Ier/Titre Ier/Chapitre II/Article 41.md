@@ -9,7 +9,11 @@ judiciaire dans le ressort de son tribunal.
 Le procureur de la République contrôle les mesures de garde à vue. Il visite les
 locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois
 par an ; il tient à cet effet un registre répertoriant le nombre et la fréquence
-des contrôles effectués dans ces différents locaux.
+des contrôles effectués dans ces différents locaux. Il adresse au procureur
+général un rapport concernant les mesures de garde à vue et l'état des locaux de
+garde à vue de son ressort ; ce rapport est transmis au garde des sceaux. Le
+garde des sceaux rend compte de l'ensemble des informations ainsi recueillies
+dans un rapport annuel qui est rendu public.
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de
 police judiciaire prévus par la section II du chapitre Ier du titre Ier du

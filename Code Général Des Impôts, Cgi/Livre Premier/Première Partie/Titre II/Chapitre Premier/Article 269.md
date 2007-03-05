@@ -31,8 +31,9 @@ ans de la date de la décision favorable du représentant de l'Etat.
 
 Toutefois, par dérogation au premier alinéa, le fait générateur de la taxe
 intervient au dernier jour de chaque trimestre civil pour les livraisons à
-soi-même de travaux d'entretien mentionnés au c et au d du 7° bis et 7° quater
-de l'article 257 effectués au cours de ce trimestre ;
+soi-même de travaux d'entretien mentionnés au c et au d du 7° bis, au 7° quater,
+au 7° quinquies et au 7° sexies de l'article 257 effectués au cours de ce
+trimestre ;
 
 e) Pour les livraisons à soi-même mentionnées au 7° ter de l'article 257, au
 moment de la mise en service.

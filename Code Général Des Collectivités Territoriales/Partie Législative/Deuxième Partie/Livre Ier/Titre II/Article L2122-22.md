@@ -84,4 +84,7 @@ autorisé par le conseil municipal ;
 
 21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil
 municipal, le droit de préemption défini par l'article L. 214-1 du code de
-l'urbanisme.
+l'urbanisme ;
+
+22° D'exercer au nom de la commune le droit de priorité défini aux articles L.
+240-1 et suivants du code de l'urbanisme.

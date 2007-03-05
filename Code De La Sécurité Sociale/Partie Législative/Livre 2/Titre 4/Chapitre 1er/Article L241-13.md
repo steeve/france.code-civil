@@ -46,6 +46,12 @@ employeurs de un à dix-neuf salariés au sens des articles L. 620-10 et L. 620-
 du code du travail, le coefficient maximal est de 0,281. Ce coefficient est
 atteint et devient nul dans les conditions mentionnées à l'alinéa précédent.
 
+Ce coefficient maximal de 0,281 est également applicable aux groupements
+d'employeurs visés à l'article L. 127-1 du code du travail pour les salariés
+exclusivement mis à la disposition, au cours d'un même mois, des membres de ces
+groupements qui ont un effectif de dix-neuf salariés au plus au sens de
+l'article L. 620-10 du code du travail.
+
 IV. - Dans les professions dans lesquelles le paiement des congés des salariés
 et des charges sur les indemnités de congés est mutualisé entre les employeurs
 affiliés aux caisses de compensation prévues à l'article L. 223-16 du code du

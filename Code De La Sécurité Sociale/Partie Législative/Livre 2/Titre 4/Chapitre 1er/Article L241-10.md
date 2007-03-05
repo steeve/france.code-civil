@@ -39,13 +39,14 @@ Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domi
 avec le complément de libre choix du mode de garde de la prestation d'accueil du
 jeune enfant versé au titre de la garde à domicile.
 
-II. - Les personnes qui ont passé un contrat conforme aux dispositions du
-cinquième alinéa de l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative
-à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes
-âgées ou handicapées adultes sont exonérées totalement, dans les conditions
-prévues à l'avant-dernier alinéa du I, des cotisations patronales d'assurances
-sociales, d'accidents du travail et d'allocations familiales dues sur la
-rémunération qu'elles versent à ces particuliers.
+II. - Les particuliers et personnes morales qui ont passé un contrat conforme
+aux articles L. 442-1 et L. 444-3 du code de l'action sociale et des familles
+pour l'accueil par des particuliers à leur domicile, à titre onéreux, de
+personnes mentionnées aux a, c, d et e du I du présent article sont exonérés
+totalement, dans les conditions prévues à l'avant-dernier alinéa du même I, des
+cotisations d'assurances sociales, d'accidents du travail et d'allocations
+familiales dues sur la rémunération qu'elles versent à ces accueillants
+familiaux.
 
 III. - Les rémunérations des aides à domicile employées sous contrat à durée
 indéterminée ou sous contrat à durée déterminée pour remplacer les salariés

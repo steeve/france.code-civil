@@ -54,7 +54,11 @@ dans les cas de vente de lots remembrés ;
 l'immeuble ou de la partie d'immeuble ;
 
 7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer
-modéré, à une société d'économie mixte gérant des logements sociaux ou à un
+modéré, à une société d'économie mixte gérant des logements sociaux, à
+l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001), aux sociétés civiles immobilières dont cette
+association détient la majorité des parts pour les logements visés au 4° de
+l'article L. 351-2 du code de la construction et de l'habitation ou à un
 organisme mentionné à l'article L. 365-1 du code de la construction et de
 l'habitation.
 

@@ -24,7 +24,11 @@ restrictions expressément fondées sur l'existence de condamnations pénales.
 
 4° Aux présidents des tribunaux de commerce pour être joint aux procédures de
 faillite et de règlement judiciaire, ainsi qu'aux juges commis à la surveillance
-du registre du commerce à l'occasion des demandes d'inscription audit registre .
+du registre du commerce à l'occasion des demandes d'inscription audit registre ;
+
+5° Aux présidents de conseils généraux saisis d'une demande d'agrément en vue
+d'adoption prévu à l'article L. 225-2 du code de l'action sociale et des
+familles.
 
 Les dirigeants de personnes morales de droit public ou privé exerçant auprès des
 mineurs une activité culturelle, éducative ou sociale au sens de l'article L.

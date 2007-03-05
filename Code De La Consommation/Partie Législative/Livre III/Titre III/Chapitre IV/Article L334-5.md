@@ -25,8 +25,9 @@ procéder, à sa demande, à des enquêtes sociales ;
 c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L.
 331-4 et L. 332-2 sont fixés par les autorités locales compétentes ;
 
-d) Au dernier alinéa de l'article L. 332-6, les mots : "figurant sur une liste
-établie dans des conditions fixées par décret en Conseil d'Etat" sont supprimés.
+d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : "figurant sur
+une liste établie dans des conditions fixées par décret en Conseil d'Etat" sont
+supprimés.
 
 Pour l'application de ces dispositions :
 

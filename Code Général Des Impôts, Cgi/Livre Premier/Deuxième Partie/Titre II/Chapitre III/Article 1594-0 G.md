@@ -3,8 +3,8 @@ Article 1594-0 G
 Sous réserve de l'article 691 bis, sont exonérés de taxe de publicité foncière
 ou de droits d'enregistrement :
 
-A. I. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée,
-les acquisitions :
+A. I. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur
+ajoutée, les acquisitions :
 
 1° De terrains nus ou recouverts de bâtiments destinés à être démolis ;
 
@@ -33,8 +33,8 @@ sont ou non affectés à l'habitation pour les trois-quarts au moins de leur
 superficie totale.
 
 III. Cette exonération n'est applicable aux terrains destinés à la construction
-de maisons individuelles qu'à concurrence d'une superficie de 2.500 mètres
-carrés par maison, ou de la superficie minimale exigée par la règlementation sur
+de maisons individuelles qu'à concurrence d'une superficie de 2 500 mètres
+carrés par maison, ou de la superficie minimale exigée par la réglementation sur
 le permis de construire si elle est supérieure.
 
 Elle profite sans limitation de superficie aux terrains destinés à la
@@ -50,7 +50,15 @@ IV. Une prolongation annuelle renouvelable du délai de quatre ans fixé au II
 peut être accordée par le directeur des services fiscaux du lieu de la situation
 des immeubles dans des conditions fixées par décret, notamment en cas de force
 majeure ou lorsqu'il s'agit de la construction d'ensembles à réaliser
-progressivement par tranches successives (1).
+progressivement par tranches successives.
+
+IV bis. - Une prolongation annuelle renouvelable du délai mentionné au troisième
+alinéa de l'article 1115 peut être accordée, dans des conditions fixées par
+décret, par le directeur des services fiscaux du lieu de la situation des
+terrains nus ou biens assimilés mentionnés au I situés dans le périmètre d'une
+zone d'aménagement concerté définie à l'article L. 311-1 du code de l'urbanisme
+et acquis par la personne chargée de l'aménagement ou de l'équipement de cette
+zone.
 
 V. En cas d'acquisition d'un terrain compris dans le périmètre d'une association
 syndicale de remembrement, le délai de quatre ans ne commence à courir qu'à
@@ -60,7 +68,7 @@ VI. Pour l'application des dispositions du présent A les immeubles ou fractions
 d'immeubles destinés à une exploitation à caractère commercial ou professionnel
 ne sont pas considérés comme affectés à l'habitation.
 
-VII. Les modalités d'application des I à V sont fixées par décret (1).
+VII. Les modalités d'application des I à V sont fixées par décret.
 
 B. Sous réserve des dispositions du 7° de l'article 257 :
 
@@ -102,6 +110,11 @@ l'urbanisme, effectuées dans les conditions prévues aux articles L. 142-3 et L
 droit de préemption, directement, par substitution ou par délégation ;
 
 i. les rétrocessions consenties en application de l'article L. 142-8 du code de
-l'urbanisme.
+l'urbanisme ;
 
-(1) Annexe III, art. 266 bis.
+j. Les cessions d'actifs opérées par l'association mentionnée à l'article 116 de
+la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou par les
+sociétés civiles immobilières dont elle détient la majorité des parts, en faveur
+des régimes de retraites complémentaires obligatoires des salariés du secteur
+privé par répartition institués par voie d'accords collectifs
+interprofessionnels.

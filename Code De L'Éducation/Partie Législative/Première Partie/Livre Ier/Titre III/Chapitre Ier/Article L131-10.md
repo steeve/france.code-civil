@@ -1,7 +1,7 @@
 Article L131-10
 ----
 Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur
-famille sont dès la première année, et tous les deux ans, l'objet d'une enquête
+famille, sont dès la première année, et tous les deux ans, l'objet d'une enquête
 de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons
 alléguées par les personnes responsables, et s'il leur est donné une instruction
 dans la mesure compatible avec leur état de santé et les conditions de vie de la
@@ -17,7 +17,8 @@ l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel qu
 défini à l'article L. 131-1-1.
 
 Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile
-des parents de l'enfant.
+des parents de l'enfant. Il vérifie notamment que l'instruction dispensée au
+même domicile l'est pour les enfants d'une seule famille.
 
 Ce contrôle est effectué sans délai en cas de défaut de déclaration
 d'instruction par la famille, sans préjudice de l'application des sanctions
