@@ -37,7 +37,9 @@ fixées par la convention.
 travaux pendant le cours de leur exploitation est fixé au mètre carré de surface
 corrigée, telle que celle-ci résulte des dispositions de l'article R. 442-1, du
 décret n° 48-1766 du 22 novembre 1948 et de l'article 4 du décret n° 60-1063 du
-1er octobre 1960 modifié.
+1er octobre 1960 modifié, sauf en cas de signature d'une convention globale de
+patrimoine telle que prévue à l'article L. 445-1 fixant le montant maximal des
+loyers au mètre carré de surface utile.
 
 4° Le loyer maximum est majoré dans des limites fixées par décret pour les
 catégories de logements nouvellement conventionnés suivantes :
