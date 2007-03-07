@@ -18,5 +18,5 @@ concernant cet hébergement.
 
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des
 obligations particulières, telles que celle de fréquenter régulièrement un
-établissement sanitaire ou d'éducation, ordinaire ou spécialisé, ou d'exercer
-une activité professionnelle.
+établissement sanitaire ou d'éducation, ordinaire ou spécialisé, le cas échéant
+sous régime de l'internat ou d'exercer une activité professionnelle.
