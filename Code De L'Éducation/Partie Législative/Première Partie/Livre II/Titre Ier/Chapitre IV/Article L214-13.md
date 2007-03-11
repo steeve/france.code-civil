@@ -69,7 +69,7 @@ l'éducation.
 
 V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations
 représentatives des milieux socioprofessionnels et, le cas échéant,
-l'institution mentionnée à l'article L. 311-7 du code du travail peuvent
+l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent
 conclure des contrats fixant des objectifs de développement coordonné des
 différentes voies de formation professionnelle initiale et continue, notamment
 de formation professionnelle alternée et de financement des formations des
@@ -87,9 +87,9 @@ d'agriculture peuvent être associées aux contrats d'objectifs.
 L'Etat, la région ou la collectivité territoriale de Corse, les chambres
 consulaires, une ou plusieurs organisations représentatives d'employeurs et de
 salariés peuvent également conclure des contrats d'objectifs et de moyens visant
-au développement de l'apprentissage conformément à l'article L. 118-1 du code du
-travail. Ces contrats peuvent prendre la forme d'une annexe aux contrats visés à
-l'alinéa précédent.
+au développement de l'apprentissage conformément aux articles L. 6211-3, D6211-1
+et D. 6211-2 du code du travail . Ces contrats peuvent prendre la forme d'une
+annexe aux contrats visés à l'alinéa précédent.
 
 VI.-Dans le cadre de son plan régional de développement des formations
 professionnelles, chaque région arrête annuellement un programme régional

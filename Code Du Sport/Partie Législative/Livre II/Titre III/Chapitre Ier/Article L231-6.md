@@ -15,5 +15,5 @@ Les résultats de ces examens sont mentionnés dans le livret prévu à l'articl
 
 Cette surveillance médicale ne dispense pas les employeurs des sportifs
 professionnels titulaires d'un contrat de travail au titre du 3° de l'article L.
-122-1-1 du code du travail de satisfaire aux obligations qui leur incombent en
+1242-2 du code du travail de satisfaire aux obligations qui leur incombent en
 application du titre IV du livre II du même code.

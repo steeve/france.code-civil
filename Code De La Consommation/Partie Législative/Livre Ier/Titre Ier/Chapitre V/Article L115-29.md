@@ -15,7 +15,7 @@ communautaires par l'autorité publique ou par des organismes désignés à cet
 effet et soumis à un contrôle technique ou administratif de l'autorité publique
 en vertu de dispositions législatives ou réglementaires ;
 
-4° A la délivrance de labels ou marques prévus par l'article L. 413-1 du code du
-travail ainsi que des marques d'artisan et de maître artisan pour autant que ces
-marques ne tendent qu'à attester l'origine d'un produit ou d'un service et la
-mise en oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
+4° A la délivrance de labels ou marques prévus par l'article L. 2134-1 du code
+du travail ainsi que des marques d'artisan et de maître artisan pour autant que
+ces marques ne tendent qu'à attester l'origine d'un produit ou d'un service et
+la mise en oeuvre des règles de l'art et usages quand ils leur sont spécifiques.

@@ -1,13 +1,14 @@
 Article L621-15-2
 ----
 Lorsqu'une institution mentionnée à l'article L. 370-1 du code des assurances et
-proposant les opérations mentionnées à l'article L. 443-1-2 du code du travail a
-enfreint l'une des dispositions mentionnées au deuxième alinéa de l'article L.
-370-2 du code des assurances, l'Autorité des marchés financiers, de sa propre
-initiative ou sur saisine des autorités compétentes, notifie cette infraction
-sans délai à l'autorité compétente de l'Etat dans lequel est agréée
-l'institution, et lui demande, en coopération avec cette autorité de contrôle,
-de prendre les mesures nécessaires pour mettre un terme à l'infraction.
+proposant les opérations mentionnées aux articles L. 3334-1 à L. 3334-9 et L.
+3334-11 à L. 3334-16 du code du travail a enfreint l'une des dispositions
+mentionnées au deuxième alinéa de l'article L. 370-2 du code des assurances,
+l'Autorité des marchés financiers, de sa propre initiative ou sur saisine des
+autorités compétentes, notifie cette infraction sans délai à l'autorité
+compétente de l'Etat dans lequel est agréée l'institution, et lui demande, en
+coopération avec cette autorité de contrôle, de prendre les mesures nécessaires
+pour mettre un terme à l'infraction.
 
 Si, passé un délai de deux mois après cette notification, l'infraction persiste,
 l'Autorité des marchés financiers peut ouvrir une procédure de sanction à

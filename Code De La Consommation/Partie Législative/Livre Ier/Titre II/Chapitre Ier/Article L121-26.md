@@ -19,5 +19,5 @@ retournés au consommateur dans les quinze jours qui suivent sa rétractation.
 
 Les dispositions du deuxième alinéa s'appliquent aux souscriptions à domicile
 proposées par les associations et entreprises agréées par l'Etat ayant pour
-objet la fourniture de services mentionnés à l'article L. 129-1 du code du
+objet la fourniture de services mentionnés à l'article L. 7231-1 du code du
 travail sous forme d'abonnement.

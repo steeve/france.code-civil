@@ -1,7 +1,7 @@
 Article L222-3
 ----
-Les dispositions de l'article L. 125-3 du code du travail ne sont pas
-applicables à l'opération mentionnée à cet article lorsqu'elle concerne le
+Les dispositions des articles L. 8241-1 et L. 8241-2 du code du travail ne sont
+pas applicables à l'opération mentionnée à cet article lorsqu'elle concerne le
 salarié d'une association sportive ou d'une société mentionnée aux articles L.
 122-2 et L. 122-12 du présent code mis à disposition de la fédération sportive
 délégataire intéressée en qualité de membre d'une équipe de France, dans des

@@ -12,4 +12,4 @@ Les rapports annuels des inspections générales comportent l'évaluation de
 l'activité de formation continue des adultes.
 
 Ces évaluations s'effectuent sans préjudice des contrôles exercés dans les
-conditions prévues aux articles L. 991-1 et L. 991-2 du code du travail.
+conditions prévues aux articles L. 6361-1 à L. 6361-3 du code du travail.

@@ -15,10 +15,11 @@ conditions fixées par décret en Conseil d'Etat, des agents publics peuvent êt
 placés auprès de l'Autorité des marchés financiers dans une position prévue par
 le statut qui les régit.
 
-Les dispositions des articles L. 412-1, L. 421-1, L. 431-1 et L. 236-1 du code
-du travail sont applicables au personnel des services de l'Autorité des marchés
-financiers. Toutefois, ces dispositions peuvent faire l'objet d'adaptations
-résultant de décrets en Conseil d'Etat.
+Les dispositions des articles L. 2111-1, L. 2141-4, L. 2311-1 et L. 2312-1 à L.
+2312-5, L. 2321-1, L. 2322-1 à L. 2322-4, L. 4523-11 et L. 4523-12, L. 4523-14 à
+L. 4523-17 et L. 4524-1 du code du travail sont applicables au personnel des
+services de l'Autorité des marchés financiers. Toutefois, ces dispositions
+peuvent faire l'objet d'adaptations résultant de décrets en Conseil d'Etat.
 
 Sur proposition du secrétaire général, le collège fixe le règlement intérieur et
 les règles de déontologie applicables au personnel des services de l'Autorité

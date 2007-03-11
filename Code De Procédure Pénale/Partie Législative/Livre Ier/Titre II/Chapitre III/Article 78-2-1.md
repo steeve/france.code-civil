@@ -21,11 +21,11 @@ qu'elles figurent sur le registre ou qu'elles ont fait l'objet des déclarations
 mentionnées à l'alinéa précédent.
 
 Les réquisitions du procureur de la République sont écrites et précisent les
-infractions, parmi celles visées aux articles L. 324-9 et L. 341-6 du code du
-travail, qu'il entend faire rechercher et poursuivre, ainsi que les lieux dans
-lesquels l'opération de contrôle se déroulera. Ces réquisitions sont prises pour
-une durée maximum d'un mois et sont présentées à la personne disposant des lieux
-ou à celle qui la représente.
+infractions, parmi celles visées aux articles L. 5221-8, L. 5221-11, L. 8221-1,
+L. 8221-2, L. 8251-1 du code du travail, qu'il entend faire rechercher et
+poursuivre, ainsi que les lieux dans lesquels l'opération de contrôle se
+déroulera. Ces réquisitions sont prises pour une durée maximum d'un mois et sont
+présentées à la personne disposant des lieux ou à celle qui la représente.
 
 Les mesures prises en application des dispositions prévues au présent article
 font l'objet d'un procès-verbal remis à l'intéressé.

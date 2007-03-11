@@ -18,12 +18,12 @@ représentants.
 Le règlement précise les modalités de désignation des représentants des porteurs
 de parts soit par élection, soit par choix opéré par le ou les comités
 d'entreprise intéressés ou par les organisations syndicales représentatives au
-sens de l'article L. 132-2 du code du travail.
+sens de l'article L. 2231-1 du code du travail.
 
 Le président du conseil de surveillance est choisi parmi les représentants des
 porteurs de parts.
 
-Lorsqu'il est fait application du dernier alinéa de l'article L. 443-3 du même
+Lorsqu'il est fait application du dernier alinéa de l'article L. 3332-15 du même
 code, le règlement fait référence aux dispositions précisées par le règlement du
 plan d'épargne.
 
@@ -32,17 +32,17 @@ comprises dans le fonds et décide de l'apport des titres. Toutefois, le
 règlement peut prévoir que les droits de vote relatifs à ces titres sont exercés
 par la société de gestion, et que celle-ci peut décider de l'apport des titres,
 à l'exception des titres de l'entreprise ou de toute entreprise qui lui est liée
-dans les conditions prévues à l'article L. 444-3 du code du travail. Le conseil
-de surveillance est chargé notamment de l'examen de la gestion financière,
-administrative et comptable. Il peut demander à entendre la société de gestion,
-le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer
-à sa convocation. Il décide des fusions, scissions ou liquidations. Le règlement
-du fonds précise les transformations et les modifications du règlement qui ne
-peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice
-des compétences de la société de gestion mentionnées à l'article L. 214-25 et de
-celles du liquidateur prévues à l'article L. 214-31, le conseil de surveillance
-peut agir en justice pour défendre ou faire valoir les droits ou intérêts des
-porteurs.
+dans les conditions prévues aux articles L. 3344-1 et L. 3344-2 du code du
+travail. Le conseil de surveillance est chargé notamment de l'examen de la
+gestion financière, administrative et comptable. Il peut demander à entendre la
+société de gestion, le dépositaire et le commissaire aux comptes du fonds qui
+sont tenus de déférer à sa convocation. Il décide des fusions, scissions ou
+liquidations. Le règlement du fonds précise les transformations et les
+modifications du règlement qui ne peuvent être décidées sans l'accord du conseil
+de surveillance. Sans préjudice des compétences de la société de gestion
+mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à
+l'article L. 214-31, le conseil de surveillance peut agir en justice pour
+défendre ou faire valoir les droits ou intérêts des porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de
 chaque porteur de parts et dont le contenu est précisé par un règlement de
@@ -56,13 +56,13 @@ Le règlement peut prévoir que :
 
 Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte des
 avantages accordés aux salariés dans les conditions prévues à l'article L.
-225-194 du code de commerce (1) et des articles L. 442-7, L. 442-8 et L. 443-6
-du code du travail.
+225-194 du code de commerce (1) et des articles L. 3324-10, L. 3332-4 et L.
+3325-1 à L. 3325-4, L3332-14 et L. 3332-25 et L. 3332-26 du code du travail.
 
 Les dispositions du présent article sont applicables aux fonds dont l'actif
 comprend au plus un tiers de titres émis par l'entreprise ou par toute autre
-société qui est liée dans les conditions prévues à l'article L. 444-3 du code du
-travail.
+société qui est liée dans les conditions prévues à l'article L. 3344-1 et L.
+3344-2 du code du travail.
 
 Le règlement précise, le cas échéant, les considérations sociales,
 environnementales ou éthiques que doit respecter la société de gestion dans
@@ -79,8 +79,8 @@ décret.
 
 Les dispositions du présent article sont également applicables aux fonds
 solidaires qui peuvent être souscrits dans le cadre du plan d'épargne pour la
-retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de ces
-fonds solidaires est composé :
+retraite collectif mentionné aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à
+L. 3334-16 du même code. L'actif de ces fonds solidaires est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises
 solidaires agréées en application de l'article L. 443-3-2 du code du travail ou
@@ -98,6 +98,6 @@ Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la
 retraite collectif ne peuvent détenir plus de 5 % de titres non admis aux
 négociations sur un marché réglementé, sans préjudice des dispositions du a, ou
 plus de 5 % de titres de l'entreprise qui a mis en place le plan ou de sociétés
-qui lui sont liées au sens de l'article L. 444-3 du code du travail. Cette
+qui lui sont liées au sens de l'article L. 3344-1 du code du travail. Cette
 limitation ne s'applique pas aux parts et actions d'organismes de placement
 collectif en valeurs mobilières détenues par le fonds.

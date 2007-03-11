@@ -5,8 +5,8 @@ d'une hypothèque, la quote-part du prix correspondant aux créances garanties p
 ces sûretés est versée en compte de dépôt à la Caisse des dépôts et
 consignations et les créanciers bénéficiaires de ces sûretés ou titulaires d'un
 privilège général sont payés sur le prix après le paiement des créances
-garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et
-L. 751-15 du code du travail.
+garanties par le privilège établi aux articles L. 3253-2 à L. 3253-4, L. 742-6
+et L. 7313-8 du code du travail.
 
 Ils reçoivent les dividendes à échoir d'après le plan, réduits en fonction du
 paiement anticipé, suivant l'ordre de préférence existant entre eux.

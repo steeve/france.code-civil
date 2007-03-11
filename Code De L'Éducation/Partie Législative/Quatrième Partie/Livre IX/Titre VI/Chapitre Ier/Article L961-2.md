@@ -27,17 +27,18 @@ l'établissement au sein duquel l'enseignement leur est confié.
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels
 enseignants mentionnés à l'alinéa précédent sont, pour l'application des
-articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en
-compte dans le calcul des effectifs de l'établissement, tel que prévu à
-l'article L. 620-10 du même code. Ils sont électeurs et éligibles pour les
+articles L. 4611-1 à L. 4611-6, L. 4523-11, L. 4523-14à L. 4523-17, L. 4524-1,
+R. 4523-4, R. 4613-9, L. 2141-11, L. 2312-8 et L. 2322-6 du code du travail,
+pris en compte dans le calcul des effectifs de l'établissement, tel que prévu à
+l'article L. 1111-2 du même code. Ils sont électeurs et éligibles pour les
 élections des délégués du personnel et les élections au comité d'hygiène, de
 sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient
 de ces institutions dans les conditions prévues par le code du travail. Les
 rémunérations versées par l'Etat à ces personnels sont prises en compte pour le
-calcul de la masse salariale brute, tel que prévu à l'article L. 434-8 du même
-code, et la détermination du rapport entre la contribution aux institutions
-sociales et le montant global des salaires, mentionné à l'article L. 432-9 du
-même code.
+calcul de la masse salariale brute, tel que prévu aux articles L. 2325-12 et L.
+2325-13 du même code, et la détermination du rapport entre la contribution aux
+institutions sociales et le montant global des salaires, mentionné à l'article
+L. 2323-9 du même code.
 
 Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner
 priorité aux candidats qualifiés qui auraient perdu leur emploi par suite de la
