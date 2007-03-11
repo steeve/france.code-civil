@@ -8,7 +8,7 @@ d'une réduction.
 
 II.-Cette réduction est appliquée aux gains et rémunérations versés aux salariés
 au titre desquels l'employeur est soumis à l'obligation édictée par l'article L.
-351-4 du code du travail et aux salariés mentionnés au 3° de l'article L. 351-12
+351-4 du code du travail et aux salariés mentionnés au 3° de l'article L. 5424-1
 du même code, à l'exception des gains et rémunérations versés par les
 particuliers employeurs et, jusqu'au 31 décembre 2005, par l'organisme mentionné
 à l'article 2 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du
@@ -40,7 +40,7 @@ réduction dans le cas des salariés dont le contrat de travail est suspendu ave
 maintien de tout ou partie de la rémunération.
 
 Pour les gains et rémunérations versés à compter du 1er juillet 2005, le
-coefficient maximal est de 0, 26. Il est atteint pour une rémunération égale au
+coefficient maximal est de 0,26. Il est atteint pour une rémunération égale au
 salaire minimum de croissance. Ce coefficient devient nul pour une rémunération
 égale au salaire minimum de croissance majoré de 60 %. Pour les gains et
 rémunérations versés avant cette date, les dispositions du présent article
@@ -50,10 +50,10 @@ l'emploi.
 
 Pour les gains et rémunérations versés à compter du 1er juillet 2007 par les
 employeurs de un à dix-neuf salariés au sens des articles L. 620-10 et L. 620-11
-du code du travail, le coefficient maximal est de 0, 281. Ce coefficient est
+du code du travail, le coefficient maximal est de 0,281. Ce coefficient est
 atteint et devient nul dans les conditions mentionnées à l'alinéa précédent.
 
-Ce coefficient maximal de 0, 281 est également applicable aux groupements
+Ce coefficient maximal de 0,281 est également applicable aux groupements
 d'employeurs visés à l'article L. 127-1 du code du travail pour les salariés
 exclusivement mis à la disposition, au cours d'un même mois, des membres de ces
 groupements qui ont un effectif de dix-neuf salariés au plus au sens de
