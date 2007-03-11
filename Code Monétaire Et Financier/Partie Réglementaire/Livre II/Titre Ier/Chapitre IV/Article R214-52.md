@@ -3,10 +3,10 @@ Article R214-52
 L'Autorité des marchés financiers peut demander que lui soient transmis les
 éléments lui permettant de s'assurer qu'est offerte aux adhérents du plan au
 moins une possibilité de placement respectant les conditions prévues à l'article
-L. 443-4 du code du travail.
+L. 3332-17 du code du travail.
 
-Sont considérées comme liquides au sens de l'article L. 443-4 du code du travail
-:
+Sont considérées comme liquides au sens de l'article L. 3332-17 du code du
+travail :
 
 1° Les valeurs mobilières qui sont admises aux négociations sur un marché
 réglementé français ou étranger ;
@@ -16,12 +16,12 @@ mobilières à vocation générale relevant des sous-sections 1 à 4 de la prés
 section.
 
 Le mécanisme garantissant la liquidité des titres non admis aux négociations sur
-un marché réglementé qui est prévu à l'article L. 443-4 du code du travail doit
-offrir une liquidité au moins équivalente à celle dont bénéficierait le fonds
-s'il détenait au moins un tiers de titres liquides. Il doit faire l'objet d'un
-contrat écrit annexé au règlement du fonds, qui précise notamment les modalités
-de son intervention et les frais qui peuvent être, le cas échéant, imputés sur
-l'actif du fonds.
+un marché réglementé qui est prévu à l'article L. 3332-17 du code du travail
+doit offrir une liquidité au moins équivalente à celle dont bénéficierait le
+fonds s'il détenait au moins un tiers de titres liquides. Il doit faire l'objet
+d'un contrat écrit annexé au règlement du fonds, qui précise notamment les
+modalités de son intervention et les frais qui peuvent être, le cas échéant,
+imputés sur l'actif du fonds.
 
 Il peut être dénoncé à tout moment à l'initiative de la société de gestion ou du
 conseil de surveillance à condition d'être remplacé par des dispositions d'effet
