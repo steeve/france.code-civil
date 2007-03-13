@@ -16,10 +16,10 @@ dans un délai de vingt-sept mois à compter de la date à laquelle lui sont rem
 les résultats du contrôle prévu à l'article R. 1334-18, sauf lorsque des
 circonstances imprévisibles ne permettent pas le respect de ce délai.
 
-La prorogation est accordée par arrêté du préfet, pris après avis du Conseil
-supérieur d'hygiène publique de France, en tenant compte des risques spécifiques
-à l'immeuble ou à l'établissement concerné et des mesures conservatoires mises
-en oeuvre en application du dernier alinéa de l'article R. 1334-18. Le silence
+La prorogation est accordée par arrêté du préfet, pris après avis du Haut
+Conseil de la santé publique, en tenant compte des risques spécifiques à
+l'immeuble ou à l'établissement concerné et des mesures conservatoires mises en
+oeuvre en application du dernier alinéa de l'article R. 1334-18. Le silence
 gardé pendant plus de quatre mois par le préfet vaut décision de rejet.
 
 La prorogation est accordée pour une durée maximale de trente-six mois,
