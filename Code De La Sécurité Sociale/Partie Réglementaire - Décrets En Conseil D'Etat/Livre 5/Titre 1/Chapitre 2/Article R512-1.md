@@ -1,5 +1,9 @@
 Article R512-1
 ----
+Pour l'application de l'article L. 512-1, la résidence en France d'une personne
+assumant la charge d'un ou plusieurs enfants est appréciée dans les conditions
+fixées à l'article R. 115-6.
+
 Pour l'application de l'article L. 512-1, est considéré comme résidant en France
 tout enfant qui vit de façon permanente en France métropolitaine.
 
@@ -24,3 +28,8 @@ au 2° ci-dessus, que la famille a sa résidence principale en France dans une
 zone frontalière, que l'enfant fréquente dans le pays voisin à proximité de la
 frontière un établissement de soins ou un établissement d'enseignement et qu'il
 rejoint sa famille à intervalles rapprochés.
+
+Les organismes débiteurs de prestations familiales organisent périodiquement le
+contrôle de l'effectivité de la résidence en France. Ce contrôle est, chaque
+fois que possible, opéré par rapprochement avec les vérifications opérées par un
+autre organisme de sécurité sociale.
