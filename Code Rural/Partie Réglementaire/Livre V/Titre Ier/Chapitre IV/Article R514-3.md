@@ -1,32 +1,22 @@
 Article R514-3
 ----
-Ce compte qui est indépendant du budget de l'assemblée est crédité :
+Les organismes inter-établissements sont soumis au régime financier et comptable
+applicable aux établissements du réseau, à l'exception de ceux de ces organismes
+dont l'activité est principalement de nature industrielle et commerciale qui
+sont régis par les dispositions des articles 190 à 225 du décret n° 62-1587 du
+29 décembre 1962 modifié portant règlement général sur la comptabilité publique.
 
-1° D'un prélèvement sur les ressources ordinaires des chambres d'agriculture,
-arrêté par le ministre de l'agriculture, après avis de l'assemblée permanente
-des chambres d'agriculture ;
+Outre les cotisations des établissements participants et les rémunérations pour
+services rendus, ces organismes peuvent recevoir des subventions de l'Etat, des
+collectivités territoriales et toutes autres personnes morales.
 
-2° Du montant des remboursements en capital et des intérêts des prêts consentis
-par le fonds ;
+Le président de l'organisme est l'ordonnateur des dépenses et des recettes.
 
-3° Du produit de toutes ressources spéciales qui peuvent lui être affectées ;
+L'agent comptable est nommé par le comité de direction, sur proposition du
+trésorier-payeur général du département du siège de l'établissement.
 
-4° Des recettes diverses et accidentelles.
+Il perçoit une indemnité fixée par le comité de direction dans les limites
+prévues à l'article D. 511-80.
 
-Il est débité :
-
-1° Du montant des subventions ou prêts consentis aux chambres d'agriculture,
-spécialement à celles disposant de ressources insuffisantes, qui participent à
-la réalisation des programmes agricoles généraux arrêtés par le ministre de
-l'agriculture après avis de l'assemblée permanente des chambres d'agriculture ;
-
-2° Des bonifications d'intérêts octroyées aux emprunts réalisés pour le même
-objet par les chambres d'agriculture remplissant les conditions indiquées au 1°
-ci-dessus ;
-
-3° Des charges résultant de la mise en jeu de la garantie du fonds accordée à
-ces emprunts ;
-
-4° Des frais de fonctionnement du fonds ;
-
-5° Des dépenses accidentelles.
+Les dispositions de l'article R. 511-83 sont applicables aux organismes
+inter-établissements.

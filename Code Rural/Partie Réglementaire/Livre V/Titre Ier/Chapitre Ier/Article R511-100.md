@@ -1,10 +1,10 @@
 Article R511-100
 ----
-Les attributions et obligations dévolues aux commissaires de la République par
-les dispositions relatives aux chambres départementales d'agriculture sont
-exercées, en ce qui concerne la chambre d'agriculture de l'Ile-de-France, par le
-commissaire de la République des Yvelines, après consultation des commissaires
-de la République des autres départements intéressés.
+Les attributions et obligations dévolues aux préfets par les dispositions
+relatives aux chambres départementales d'agriculture sont exercées, en ce qui
+concerne la chambre d'agriculture de l'Ile-de-France, par le commissaire de la
+République des Yvelines, après consultation des préfets des autres départements
+intéressés.
 
 Le président du conseil de Paris, les présidents des conseils généraux des
 Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du

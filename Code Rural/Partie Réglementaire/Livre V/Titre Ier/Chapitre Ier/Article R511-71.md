@@ -1,9 +1,8 @@
 Article R511-71
 ----
-Les chambres d'agriculture dressent leur budget général et les budgets spéciaux
-de leurs établissements et services d'utilité agricole. Ces budgets sont soumis
-à l'approbation du commissaire de la République.
+Les chambres d'agriculture dressent leur budget, qui est soumis à l'approbation
+du préfet.
 
-Ils sont exécutoires dans le délai de un mois à compter de la date de leur
-réception par le commissaire de la République si dans ce délai ils n'ont fait
-l'objet ni d'une approbation expresse ni d'une demande de modification.
+Ce budget est exécutoire à l'issue d'un délai d'un mois à compter de la date de
+sa réception par le préfet si dans ce délai il n'a fait l'objet ni d'une
+approbation expresse ni d'une demande de modification.

@@ -1,10 +1,13 @@
 Article D513-18
 ----
-Le comité permanent général se réunit aussi souvent qu'il est nécessaire, sur la
-convocation de son président ou à la demande du ministre de l'agriculture.
-L'ordre du jour des réunions est soumis à l'approbation du ministre de
-l'agriculture qui peut y inscrire d'office les questions nécessitant un avis
-immédiat.
+L'assemblée permanente peut constituer en son sein des commissions ou des
+comités, notamment des comités d'orientation chargés de l'assister dans la mise
+en place des programmes d'intérêt général.
 
-Aucune discussion ne peut avoir lieu sur des questions non portées à l'ordre du
-jour.
+Peuvent être associées aux travaux des comités toutes personnes dont l'activité
+ou les responsabilités sont en relation avec le domaine de compétence de ces
+comités.
+
+La dénomination, l'objet, la composition et les modalités de fonctionnement des
+commissions et comités sont définis dans le règlement intérieur de l'assemblée
+permanente.

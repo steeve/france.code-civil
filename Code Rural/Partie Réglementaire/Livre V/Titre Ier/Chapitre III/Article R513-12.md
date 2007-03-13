@@ -1,14 +1,9 @@
 Article R513-12
 ----
-L'assemblée permanente des chambres d'agriculture désigne les membres d'un
-comité permanent général dont la composition et les attributions sont fixées par
-la présente section. Dans les attributions consultatives et représentatives
-qu'il exerce au nom de l'assemblée permanente, ce comité est assisté, en ce qui
-concerne l'agriculture des départements d'outre-mer, par un comité consultatif
-des chambres d'agriculture des départements d'outre-mer présidé par le président
-de l'assemblée permanente dont la composition et le fonctionnement sont fixés
-par arrêté conjoint du ministre chargé du budget, du ministre de l'agriculture
-et du ministre chargé des départements et territoires d'outre-mer.
+Dans les limites qu'elle détermine, l'assemblée permanente réunie en session
+peut déléguer au bureau les attributions mentionnées aux 2°, 5°, 10°, 12°, 13°,
+14°, 15°, 16°, 17°, 19° de l'article R. 513-1.
 
-L'assemblée permanente peut constituer en son sein des sections spécialisées ou
-des commissions.
+Pendant l'intervalle des sessions et en cas d'urgence, le bureau a qualité pour
+donner des avis et présenter des propositions au lieu et place de l'assemblée
+elle-même.

@@ -1,13 +1,21 @@
 Article R513-14
 ----
-Les sections spécialisées mentionnées à l'article R. 513-12 ne comprennent que
-des membres de l'assemblée, désignés chaque année par elle.
+Le bureau est composé, outre du président de l'assemblée permanente, de quinze
+membres élus au scrutin secret par l'assemblée permanente à raison de trois
+représentants pour chacune des circonscriptions géographiques définies par le
+règlement intérieur de l'assemblée permanente.
 
-Les commissions peuvent s'adjoindre, à titre consultatif et dans la limite du
-tiers de leur effectif ainsi complété, des délégués non permanents désignés par
-les groupements professionnels dont la liste est dressée par le comité permanent
-général.
+Les membres du bureau sont élus pour la même durée que celle des membres des
+chambres d'agriculture.
 
-Elles établissent leur règlement intérieur qui est soumis à l'approbation du
-comité permanent général. Leur secrétariat est assuré par les services de
-l'assemblée.
+Lorsqu'un membre du bureau désire qu'il soit mis fin à son mandat, il adresse sa
+démission au président de l'assemblée permanente par lettre recommandée avec
+demande d'avis de réception. La démission prend effet à compter de la date de
+l'avis de réception.
+
+La perte de la qualité de président de chambre d'agriculture, la démission ou le
+décès entraîne la vacance du siège. Il est pourvu à la prochaine session de
+l'assemblée permanente au remplacement du membre.
+
+En cas d'empêchement, les membres du bureau peuvent donner pouvoir aux autres
+membres du bureau. Un membre du bureau ne peut recevoir qu'un seul pouvoir.

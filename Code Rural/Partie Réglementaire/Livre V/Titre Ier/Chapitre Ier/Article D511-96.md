@@ -4,9 +4,8 @@ L'excédent des exercices antérieurs, les libéralités, le produit de l'alién
 d'un élément du patrimoine, les prélèvements sur les budgets de fonctionnement
 de ressources destinées à des dépenses d'équipement, ainsi que le produit des
 emprunts momentanément inutilisés peuvent être placés en valeurs de l'Etat ou
-garanties par l'Etat ou en obligations émises par la caisse nationale de crédit
-agricole. Ces placements doivent être autorisés par le budget général ou
-spécial.
+garanties par l'Etat ou en obligations. Ces placements doivent être autorisés
+par le budget.
 
 Toutefois, certaines valeurs à court terme désignées conjointement par le
 ministre de l'agriculture et par le ministre du budget sont souscrites et

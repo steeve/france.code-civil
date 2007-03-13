@@ -1,8 +1,6 @@
 Article R511-105
 ----
-Le détail des opérations de recettes et de dépenses de tout établissement ou
-service d'utilité agricole interchambres d'agriculture fait l'objet d'un budget
-spécial, préparé chaque année par le présent du comité interchambres
-d'agriculture de direction et voté par ledit comité, dans la limite du montant
-maximal des participations annuelles votées par chacune des chambres
-d'agriculture intéressées.
+Pour l'application des dispositions de l'article R. 511-17 aux chambres
+d'agriculture des départements d'outre-mer, les mots : "par les caisses
+départementales ou pluridépartementales de la mutualité sociale agricole" sont
+remplacés par les mots : "par les caisses générales de sécurité sociale".

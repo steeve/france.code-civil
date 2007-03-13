@@ -1,24 +1,15 @@
 Article R514-4
 ----
-Le fonds national de péréquation et d'action professionnelle des chambres
-d'agriculture est géré par un comité de gestion de onze membres composé :
-
-- du président de l'assemblée permanente des chambres d'agriculture, président ;
-
-- du président du comité consultatif des chambres d'agriculture des départements
-d'outre-mer ou de son représentant ;
-
-- et de neuf membres élus en son sein par l'assemblée permanente des chambres
-d'agriculture, à l'ouverture de sa première session ordinaire suivant le
-renouvellement général ou partiel des chambres départementales d'agriculture.
-Ces neufs membres sont élus à la majorité absolue au premier tour de scrutin et
-à la majorité relative, au second tour. Ils demeurent en fonctions jusqu'à la
-première session ordinaire suivant de nouvelles élections générales ou
-partielles des chambres d'agriculture.
-
-Le ministre de l'agriculture peut assister ou se faire représenter aux réunions
-du comité de gestion.
-
-Le président de l'assemblée permanente des chambres d'agriculture peut se faire
-représenter par un membre de l'assemblée permanente pour convoquer et présider
-le comité de gestion.
+Le retrait d'un établissement participant à un organisme inter-établissements
+est subordonné à l'absence d'opposition à ce retrait d'une majorité des
+établissements membres à l'issue d'un délai de deux mois à compter de la
+réception, par le président de l'organisme de la décision de retrait. A cet
+effet, l'établissement qui décide son retrait d'un organisme
+inter-établissements notifie sa décision au président de l'organisme qui en
+informe les autres établissements du réseau participants. Les modalités,
+notamment financières, du retrait sont fixées par le comité de direction de
+l'organisme inter-établissements. A défaut d'accord d'un nombre suffisant
+d'établissements à ce retrait ou de décision du comité de direction quant à ses
+modalités financières à l'issue du délai de deux mois, le retrait et ses
+modalités peuvent être décidées et fixées par le ministre chargé de
+l'agriculture.

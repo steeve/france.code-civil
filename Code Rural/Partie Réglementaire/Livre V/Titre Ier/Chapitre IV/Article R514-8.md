@@ -1,19 +1,21 @@
 Article R514-8
 ----
-Il est créé un fonds dénommé Fonds national d'aide à la gestion de l'emploi,
-sous la forme d'un compte ouvert dans les écritures de l'agent comptable de
-l'assemblée permanente des chambres d'agriculture.
+Le fonds national de péréquation et d'action professionnelle des chambres
+d'agriculture est géré par un comité de gestion de dix membres composé :
 
-Ce fonds a pour objet, au bénéfice des chambres d'agriculture, des
-établissements et services d'utilité agricole interchambres d'agriculture et de
-l'assemblée permanente des chambres d'agriculture lorsqu'ils y adhèrent :
+- du président de l'assemblée permanente des chambres d'agriculture, président ;
 
-1° De prendre en charge la gestion et le versement des allocations d'assurance
-chômage dues par ces établissements publics à leurs agents involontairement
-privés d'emploi, pour garantir à ceux-ci le paiement desdites allocations dans
-les conditions définies par les dispositions du chapitre Ier du titre V du livre
-III du code du travail, et les mesures d'application prévues dans son article L.
-351-8 ;
+- et de neuf membres élus en son sein par l'assemblée permanente des chambres
+d'agriculture, à l'ouverture de sa première session ordinaire suivant le
+renouvellement général ou partiel des chambres départementales d'agriculture.
+Ces neufs membres sont élus à la majorité absolue au premier tour de scrutin et
+à la majorité relative, au second tour. Ils demeurent en fonctions jusqu'à la
+première session ordinaire suivant de nouvelles élections générales ou
+partielles des chambres d'agriculture.
 
-2° De participer à la mise en oeuvre de toute autre mesure en faveur de la
-gestion de l'emploi dans les mêmes organismes.
+Le ministre de l'agriculture peut assister ou se faire représenter aux réunions
+du comité de gestion.
+
+Le président de l'assemblée permanente des chambres d'agriculture peut se faire
+représenter par un membre de l'assemblée permanente pour convoquer et présider
+le comité de gestion.

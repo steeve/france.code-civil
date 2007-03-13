@@ -5,8 +5,9 @@ de la session mentionnée au troisième alinéa de l'article R. 511-54, un burea
 composé d'un président, d'un premier et d'un second vice-président, d'un
 secrétaire et d'un secrétaire adjoint. Toutefois, les chambres peuvent décider,
 par délibération motivée, d'élire en même temps et pour la durée de leur mandat,
-un troisième vice-président et un, deux ou trois secrétaires adjoints sans que
-le nombre total des secrétaires adjoints puisse dépasser quatre.
+un troisième et un quatrième vice-président et des secrétaires adjoints sans que
+le nombre total des secrétaires adjoints puisse dépasser six. Pour délibérer
+valablement, le bureau doit réunir plus de la moitié de ses membres.
 
 Pour l'élection du président, il est constitué un bureau provisoire composé du
 doyen d'âge, président, et du plus jeune membre, secrétaire ; ce dernier assure

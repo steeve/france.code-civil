@@ -1,7 +1,7 @@
 Article D511-91
 ----
-Le budget général et les budgets spéciaux sont établis suivant les rubriques du
-plan comptable mentionné à l'article D. 511-94.
+Le budget est établi suivant les rubriques du plan comptable mentionné à
+l'article D. 511-94.
 
 Les prévisions de dépenses inscrites à ces budgets ont un caractère limitatif.
 

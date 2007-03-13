@@ -1,29 +1,30 @@
 Article R511-107
 ----
-Les opérations de fonctionnement comprennent notamment :
+Par dérogation aux dispositions de l'article R. 511-6, la chambre d'agriculture
+de la Guyane est composée :
 
-En recettes :
+1. De membres élus, au scrutin de liste départemental, par les chefs
+d'exploitation et assimilés. Ces membres sont élus par deux collèges distincts :
 
-1° La participation annuelle des chambres d'agriculture intéressées, qui est
-destinée à assurer le fonctionnement du service ou de l'établissement ;
+a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
 
-2° Eventuellement, les subventions de fonctionnement de l'Etat, des
-départements, des communes ou de tout autre organisme public ou privé ;
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
 
-3° Les revenus et intérêts des biens, fonds et valeurs leur appartenant ;
+2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou
+usufruitiers mentionnés à l'article R. 511-8, 2°.
 
-4° Les revenus des dons et legs ;
+3. De quatre membres élus, au scrutin de liste départemental, par les salariés
+mentionnés à l'article R. 511-8, 3°.
 
-5° Les recettes accidentelles ou exceptionnelles.
+4. D'un membre élu, au scrutin de liste départemental, par les anciens
+exploitants et assimilés mentionnés à l'article R. 511-8, 4°.
 
-En dépenses :
+5. De quatre membres élus, au scrutin de liste départemental, par les sociétés
+coopératives agricoles et les sociétés d'intérêt collectif agricole, ainsi que
+leurs unions et fédérations.
 
-1° Les frais d'administration (personnel, matériel, impôts, missions,
-inspections, etc.) ;
+6. D'un membre élu par les caisses d'assurances mutuelles agricoles.
 
-2° Les subventions, allocations, encouragements à diverses collectivités,
-oeuvres ou institutions s'occupant d'agriculture ;
-
-3° Les intérêts des emprunts ;
-
-4° Les dépenses accidentelles ou exceptionnelles.
+7. De deux membres élus par les organisations syndicales à vocation générale
+d'exploitants agricoles ou de jeunes agriculteurs, y compris leurs unions et
+fédérations.

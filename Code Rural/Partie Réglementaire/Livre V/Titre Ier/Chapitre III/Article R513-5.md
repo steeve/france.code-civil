@@ -1,22 +1,20 @@
 Article R513-5
 ----
-L'assemblée est convoquée en session ordinaire par le président, après décision
-du ministre de l'agriculture intervenue sur proposition du comité permanent
-général prévu à l'article R. 513-12.
+L'assemblée permanente est convoquée en session par le président au moins trois
+fois par an selon l'ordre du jour fixé par le bureau.
+
+La convocation est de droit si elle est demandée par le ministre chargé de
+l'agriculture ou par le tiers de ses membres. Les séances de l'assemblée
+permanente ne sont pas publiques mais l'assemblée permanente peut décider la
+publication de ses procès-verbaux.
 
 A l'ouverture de la première session qui suit le renouvellement général des
 chambres départementales et régionales d'agriculture, l'assemblée permanente,
-réunie sous la présidence de son doyen d'âge, le plus jeune membre faisant
-fonction de secrétaire, élit, au scrutin secret, son président ainsi que les
-membres du comité permanent général, lesquels, sous réserve des dispositions
-prévues au premier alinéa de l'article R. 513-16, demeurent en fonctions jusqu'à
-la première session suivant de nouvelles élections générales des chambres
-départementales et régionales d'agriculture.
+réunie sous la présidence de son doyen d'âge, le plus jeune faisant fonction de
+secrétaire, élit, au scrutin secret, son président ainsi que les membres du
+bureau, lesquels, sous réserve des dispositions prévues au premier alinéa de
+l'article R. 513-14, demeurent en fonctions jusqu'à la première session suivant
+de nouvelles élections générales des chambres départementales et régionales
+d'agriculture.
 
-L'article R. 511-55, relatif aux chambres d'agriculture, est applicable à ces
-élections.
-
-Dans les mêmes conditions que celles prévues au premier alinéa du présent
-article, l'assemblée peut être convoquée en session extraordinaire par son
-président, lorsque le tiers des membres en fait la demande ou sur la demande du
-ministre de l'agriculture.
+L'article D. 513-7 est applicable à ces élections.
