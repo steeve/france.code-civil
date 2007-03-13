@@ -4,7 +4,7 @@ Les chefs de juridiction désignent, après avis de l'assemblée générale des
 magistrats du siège et du parquet mentionnée à l'article R. 761-17, un magistrat
 qui, sous leur autorité, a pour mission :
 
-- de veiller, sans préjudice des attributions du greffier en chef, chef de
+- de veiller, sans préjudice des attributions du greffier en chef, directeur de
 greffe, à la coordination des actions conduites au sein d'une ou de plusieurs
 maisons de justice et du droit situées dans le ressort du tribunal et au bon
 emploi des moyens qui concourent à leur réalisation ;

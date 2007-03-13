@@ -1,8 +1,8 @@
 Article R*814-1
 ----
-Le chef du secrétariat-greffe tient la comptabilité administrative des
-opérations de recettes et de dépenses relatives aux opérations mentionnées au
-chapitre II du présent titre.
+Le directeur de greffe tient la comptabilité administrative des opérations de
+recettes et de dépenses relatives aux opérations mentionnées au chapitre II du
+présent titre.
 
 Il est institué auprès de chaque secrétariat-greffe pour les autres opérations
 dont celui-ci est chargé une régie de recettes et une régie d'avances
