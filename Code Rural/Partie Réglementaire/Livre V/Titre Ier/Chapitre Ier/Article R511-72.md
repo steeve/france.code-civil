@@ -32,9 +32,9 @@ inspections, etc.) ;
 
 2° Les cotisations obligatoires (assemblée permanente des chambres
 d'agriculture, fonds national de péréquation et d'action professionnelle des
-chambres d'agriculture, chambre régionale, établissements ou services d'utilité
-agricole à compétence interdépartementale, centre régional de la propriété
-forestière, etc.) ;
+chambres d'agriculture, chambre régionale, organismes inter-établissements
+mentionnés à l'article R. 514-1, services communs prévus à l'article D. 513-11,
+centre régional de la propriété forestière, etc.) ;
 
 3° Les subventions, allocations, encouragements à diverses collectivités,
 oeuvres ou institutions s'occupant d'agriculture ;

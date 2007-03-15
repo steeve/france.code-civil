@@ -6,5 +6,4 @@ crédits régulièrement ouverts.
 Le président liquide et ordonne les dépenses et établit les titres de recettes
 et les transmet à l'agent comptable.
 
-Un membre élu par le comité permanent général peut suppléer le président dans
-ses fonctions.
+Il peut désigner des ordonnateurs secondaires.
