@@ -234,3 +234,18 @@ Activités situées dans ces établissements et directement liées à leur objet
 Activités :
 
 Toutes activités directement liées à l'objet de ces associations.
+
+Établissements :
+
+26° Entreprises de transport ferroviaire.
+
+Activités :
+
+Conduite des trains et accompagnement dans les trains.
+
+Activités liées aux horaires de transport et à l'assurance de la continuité et
+de la régularité du trafic, y compris les activités de maintenance des
+installations et des matériels.
+
+Activités de garde, de surveillance et de permanence caractérisées par la
+nécessité d'assurer la protection des personnes et des biens.
