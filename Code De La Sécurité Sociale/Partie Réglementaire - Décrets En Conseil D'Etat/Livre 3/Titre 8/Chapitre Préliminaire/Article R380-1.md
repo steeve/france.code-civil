@@ -1,6 +1,7 @@
 Article R380-1
 ----
-I. - Les personnes visées à l'article L. 380-1 doivent justifier qu'elles
+I. - Pour être affiliées ou rattachées en qualité d'ayants droit au régime
+général, les personnes visées à l'article L. 380-1 doivent justifier qu'elles
 résident en France métropolitaine ou dans un département d'outre-mer de manière
 ininterrompue depuis plus de trois mois.
 
@@ -34,3 +35,7 @@ demandé le statut de réfugié.
 II. - Les personnes de nationalité étrangère doivent en outre justifier qu'elles
 sont en situation régulière au regard de la législation sur le séjour des
 étrangers en France à la date de leur affiliation.
+
+III. - Pour bénéficier du service des prestations en nature des assurances
+maladie et maternité, les personnes mentionnées à l'article L. 380-1 doivent
+résider en France conformément aux dispositions de l'article R. 115-6.
