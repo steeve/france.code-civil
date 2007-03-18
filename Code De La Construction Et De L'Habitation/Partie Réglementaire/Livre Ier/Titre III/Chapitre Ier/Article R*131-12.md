@@ -11,6 +11,6 @@ desservis par une même installation de production d'eau chaude :
 131-10 est supérieur à deux fois le nombre des locaux occupés à titre privatif
 desservis par cette installation ;
 
-2. Ou si, pour plus de 15 p. 100 des points de mesure, les canalisations ne
-satisfont pas aux conditions d'accessibilité fixées par arrêté du ministre
-chargé de la construction et de l'habitation.
+2. Ou si, pour plus de 15% des points de mesure, les canalisations ne satisfont
+pas aux conditions d'accessibilité fixées par arrêté du ministre chargé de la
+construction et de l'habitation.
