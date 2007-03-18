@@ -16,5 +16,9 @@ lot de fabrication, leur date de péremption ;
 
 4° Les indications nécessaires à leur bonne conservation ;
 
-5° La mention suivante : "Réservé aux essais cliniques de médicaments
-vétérinaires".
+5° La mention suivante : " Réservé aux essais cliniques de médicaments
+vétérinaires " ;
+
+6° La mention : " ce médicament contient un organisme génétiquement modifié "
+lorsque le médicament est composé en tout ou partie d'un organisme génétiquement
+modifié.

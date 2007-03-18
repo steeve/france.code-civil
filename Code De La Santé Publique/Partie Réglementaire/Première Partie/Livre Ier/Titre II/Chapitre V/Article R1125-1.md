@@ -5,10 +5,9 @@ Le dossier de demande d'autorisation prévu à l'article R. 1123-30 comporte
 de génie génétique et l'agrément du ministre chargé de la recherche mentionné à
 l'article L. 532-3 du code de l'environnement.
 
-La demande d'autorisation est adressée au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé qui se prononce sur la
-recevabilité du dossier en s'assurant que la demande comporte l'ensemble des
-informations mentionnées à l'article R. 1123-30. Il notifie au promoteur la date
-de réception du dossier. Si le dossier n'est pas complet, il notifie au
-promoteur une liste des documents manquants et lui fixe un délai maximum pour
-les fournir.
+La demande d'autorisation est adressée à l'autorité compétente définie à
+l'article L. 1123-12 qui se prononce sur la recevabilité du dossier en
+s'assurant que la demande comporte l'ensemble des informations mentionnées à
+l'article R. 1123-30. Elle notifie au promoteur la date de réception du dossier.
+Si le dossier n'est pas complet, elle notifie au promoteur une liste des
+documents manquants et lui fixe un délai maximum pour les fournir.
