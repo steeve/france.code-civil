@@ -1,6 +1,8 @@
 Article R134-4-1
 ----
-En cas de vente de tout ou partie d'un bâtiment, la durée de validité du
-diagnostic de performance énergétique prévu à l'article L. 134-1 et annexé à la
-promesse de vente ou à l'acte authentique de vente est définie au cinquième
-alinéa de l'article R. 271-5.
+Lorsqu'un bâtiment d'une surface hors oeuvre nette supérieure à 1 000 m2 soumis
+aux dispositions de la présente section et occupé par les services d'une
+collectivité publique ou d'un établissement public accueille un établissement
+recevant du public de la 1re à la 4e catégorie au sens de l'article R. 123-19,
+son exploitant affiche le diagnostic de performance énergétique de manière
+visible pour le public à proximité de l'entrée principale ou du point d'accueil.
