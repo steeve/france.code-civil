@@ -8,8 +8,8 @@ identique à un produit dénommé ci-après "produit de référence", est autori
 dans les conditions suivantes :
 
 Le produit de référence doit bénéficier d'une autorisation de mise sur le marché
-délivrée par le ministre chargé de l'agriculture en application de l'article R.
-253-56 et de la sous-section 1 de la section 2 du présent chapitre.
+délivrée par le ministre chargé de l'agriculture en application de la
+sous-section 1 de la section 3.
 
 L'identité du produit introduit sur le territoire national avec le produit de
 référence est appréciée au regard des trois critères suivants :

@@ -3,11 +3,10 @@ Article R253-83
 Est puni de la peine d'amende prévue pour les contraventions de la 4e classe le
 fait :
 
-1° Pour les produits antiparasitaires à usage agricole définis à l'article L.
-253-5 de faire une publicité destinée aux milieux agricoles alléguant, pour une
-marque particulière, d'une efficacité supérieure à celle du produit normalisé ou
-d'un emploi non indiqué dans les décisions d'autorisation de mise sur le marché
-;
+1° Pour les produits définis à l'article L. 253-1 de faire une publicité
+alléguant, pour une marque particulière, d'une efficacité supérieure à celle du
+produit normalisé ou d'un emploi non indiqué dans les décisions d'autorisation
+de mise sur le marché ;
 
 2° De porter sur l'emballage de ces produits une mention d'efficacité ;
 
