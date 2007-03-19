@@ -5,11 +5,11 @@ sécurité sanitaire des aliments sont fixés au chapitre III du titre II du liv
 III du code de la santé publique (deuxième partie : Décrets en Conseil d'Etat),
 ci-après reproduit :
 
-"Chapitre III : Agence française de sécurité sanitaire des aliments.
+" Chapitre III : Agence française de sécurité sanitaire des aliments.
 
-Section 1 : Dispositions générales".
+Section 1 : Dispositions générales ".
 
-"Art. R. 1323-1 :
+" Art.R. 1323-1 :
 
 L'Agence française de sécurité sanitaire des aliments, établissement public à
 caractère administratif, exerce les missions et prérogatives mentionnées aux
@@ -26,12 +26,12 @@ destinés à l'homme ou à l'animal.
 
 Elle participe au contrôle de l'utilisation et de la dissémination des
 organismes génétiquement modifiés, en ce qui concerne les médicaments
-vétérinaires, dans les conditions prévues par le décret n° 95-1173 du 6 novembre
-1995 pris pour l'application du titre III de la loi n° 92-654 du 13 juillet 1992
-relative au contrôle de l'utilisation et de la dissémination des organismes
-génétiquement modifiés, en ce qui concerne les médicaments vétérinaires".
+vétérinaires, dans les conditions prévues par le décret n° 2007-358 du 19 mars
+2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le
+marché de produits composés en tout ou en partie d'organismes génétiquement
+modifiés.
 
-"Art. R. 1323-2 :
+" Art.R. 1323-2 :
 
 Pour l'exercice de ses missions, l'Agence française de sécurité sanitaire des
 aliments peut notamment :
@@ -45,13 +45,13 @@ travaux ou ouvrages concourant à l'accomplissement de ses missions ;
 3° Conclure des conventions ou participer à des groupements d'intérêt public
 avec toute personne publique ou privée, française ou étrangère, et notamment
 avec des établissements d'enseignement et de recherche qui ont des missions
-complémentaires des siennes ou lui apportent leur concours".
+complémentaires des siennes ou lui apportent leur concours ".
 
-"Section 2 : Organisation administrative.
+" Section 2 : Organisation administrative.
 
-Sous-section 1 : Le conseil d'administration".
+Sous-section 1 : Le conseil d'administration ".
 
-"Art. R. 1323-3 :
+" Art.R. 1323-3 :
 
 Le conseil d'administration comprend, outre son président :
 
@@ -124,30 +124,30 @@ d'administration mentionnés au 2° sont nommés par arrêté des ministres char
 de l'agriculture, de la consommation et de la santé.
 
 Chacun des membres mentionnés au 2° a un suppléant désigné dans les mêmes
-conditions que le titulaire".
+conditions que le titulaire ".
 
-"Art. R. 1323-4 :
+" Art.R. 1323-4 :
 
 En cas de vacance d'un siège du fait de l'empêchement définitif de son titulaire
 ou de la perte de la qualité au titre de laquelle il a été désigné, il est
 procédé à la désignation d'un nouveau membre dans les conditions prévues à
 l'avant-dernier alinéa de l'article R. 1323-3 pour achever le mandat de celui
-qu'il remplace".
+qu'il remplace ".
 
-"Art. R. 1323-5 :
+" Art.R. 1323-5 :
 
 Le président du conseil d'administration est nommé pour une durée de trois ans
 renouvelable.
 
 Le conseil d'administration élit en son sein un vice-président qui exerce toutes
-les prérogatives du président en cas d'absence ou d'empêchement de ce dernier".
+les prérogatives du président en cas d'absence ou d'empêchement de ce dernier ".
 
-"Art. R. 1323-6 :
+" Art.R. 1323-6 :
 
 Les fonctions de membre du conseil d'administration sont incompatibles avec la
-qualité de membre du conseil scientifique mentionné à l'article R. 1323-18".
+qualité de membre du conseil scientifique mentionné à l'article R. 1323-18 ".
 
-"Art. R. 1323-7 :
+" Art.R. 1323-7 :
 
 Le directeur général, le membre du corps du contrôle général économique et
 financier, l'agent comptable et le président du conseil scientifique assistent
@@ -155,51 +155,36 @@ aux séances du conseil d'administration avec voix consultative. Le directeur
 général peut en outre se faire assister de toute personne de son choix.
 
 Le président du conseil d'administration peut également inviter à assister aux
-séances, avec voix consultative, toute personne dont il estime la présence
-utile".
+séances, avec voix consultative, toute personne dont il estime la présence utile
+".
 
-"Art. R. 1323-8 :
+" Art.R. 1323-8 :
 
 Les fonctions de membre du conseil d'administration sont exercées à titre
 gracieux. Elles ouvrent droit aux indemnités pour frais de déplacement et de
-séjour dans les conditions prévues par les décrets n° 86-416 du 12 mars 1986
-fixant les conditions et modalités de prise en charge par l'Etat des frais de
-voyage et de changement de résidence à l'étranger ou entre la France et
-l'étranger des agents civils de l'Etat et des établissements publics de l'Etat à
-caractère administratif, n° 89-271 du 12 avril 1989 fixant les conditions et les
-modalités de règlement des frais de déplacement des personnels civils à
-l'intérieur des départements d'outre-mer, entre la métropole et ses
-départements, et pour se rendre d'un département d'outre-mer à un autre, n°
-90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des
-frais occasionnés par les déplacements des personnels civils sur le territoire
-métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat,
-des établissements publics nationaux à caractère administratif et certains
-organismes subventionnés et n° 98-844 du 22 septembre 1998 fixant les conditions
-et les modalités de règlement des frais occasionnés par les déplacements des
-personnels civils de l'Etat, à l'intérieur d'un territoire d'outre-mer, entre la
-métropole et un territoire d'outre-mer, entre deux territoires d'outre-mer et
-entre un territoire d'outre-mer et un département d'outre-mer, la collectivité
-territoriale de Mayotte ou celle de Saint-Pierre-et-Miquelon".
+séjour dans les conditions prévues par le décret 2006-781 du 3 juillet 2006
+fixant les conditions et les modalités de règlement des frais occasionnés par
+les déplacements temporaires des personnels civils de l'Etat. "
 
-"Art. R. 1323-9 :
+" Art.R. 1323-9 :
 
 Le conseil d'administration se réunit au moins trois fois par an sur convocation
 de son président.
 
 En outre, la convocation est de droit dans les trente jours de la demande qui en
 est faite par l'un des ministres de tutelle, par le directeur général, ou par le
-tiers au moins des membres du conseil d'administration".
+tiers au moins des membres du conseil d'administration ".
 
-"Art. R. 1323-10 :
+" Art.R. 1323-10 :
 
 Le président fixe l'ordre du jour.
 
 Les questions dont les ministres chargés de l'agriculture, de la consommation ou
 de la santé, le directeur général ou le tiers au moins des membres du conseil
 d'administration demandent l'inscription à l'ordre du jour sont inscrites de
-droit".
+droit ".
 
-"Art. R. 1323-11 :
+" Art.R. 1323-11 :
 
 Le conseil d'administration ne peut délibérer valablement que si la moitié au
 moins de ses membres sont présents. Si le quorum n'est pas atteint, le conseil
@@ -207,9 +192,9 @@ est convoqué dans les quinze jours avec le même ordre du jour. Il délibère a
 valablement quel que soit le nombre d'administrateurs présents.
 
 Les décisions sont prises à la majorité simple. La voix du président est
-prépondérante en cas de partage égal des voix".
+prépondérante en cas de partage égal des voix ".
 
-"Art. R. 1323-12 :
+" Art.R. 1323-12 :
 
 Le conseil d'administration fixe les orientations générales de la politique de
 l'agence.
@@ -253,9 +238,9 @@ l'établissement ;
 12° Les participations de l'établissement à des groupements d'intérêt public ;
 
 13° Les règles générales applicables aux rémunérations des personnels
-contractuels de droit privé".
+contractuels de droit privé ".
 
-"Art. R. 1323-13 :
+" Art.R. 1323-13 :
 
 Sous réserve des dispositions des deuxième et troisième alinéas ci-après, les
 délibérations du conseil d'administration sont exécutoires quinze jours après
@@ -280,9 +265,9 @@ mentionnés à l'alinéa précédent et le ministre chargé de la fonction publi
 moins que l'un d'eux n'y fasse opposition.
 
 Les délibérations relatives aux actions en justice mentionnées au 11° de
-l'article R. 1323-12 sont immédiatement exécutoires".
+l'article R. 1323-12 sont immédiatement exécutoires ".
 
-"Art. R. 1323-14 :
+" Art.R. 1323-14 :
 
 Les décisions modificatives du budget qui sont soumises au conseil
 d'administration et à l'approbation des autorités de tutelle sont celles qui
@@ -293,11 +278,11 @@ fonctionnement et les chapitres de personnel.
 
 Les autres décisions modificatives du budget sont prises par le directeur
 général en accord avec le contrôle financier et soumises à la ratification du
-conseil d'administration lors de sa prochaine séance".
+conseil d'administration lors de sa prochaine séance ".
 
-"Sous-section 2 : Le directeur général de l'agence".
+" Sous-section 2 : Le directeur général de l'agence ".
 
-"Art. R. 1323-15 :
+" Art.R. 1323-15 :
 
 Le directeur général est nommé pour une durée de trois ans renouvelable.
 
@@ -336,12 +321,12 @@ du code de la consommation.
 
 Il prend, au nom de l'Etat, les décisions en matière de pharmacie vétérinaire
 qui relèvent de la compétence de l'agence, en application du titre IV du livre
-Ier de la partie V du présent code et du décret n° 95-1173 du 6 novembre 1995
-pris pour l'application du titre III de la loi n° 92-654 du 13 juillet 1992
-relative au contrôle de l'utilisation et de la dissémination des organismes
-génétiquement modifiés, en ce qui concerne les médicaments vétérinaires".
+Ier de la partie V du présent code et du décret n° 2007-358 du 19 mars 2007
+relatif à la dissémination volontaire à toute autre fin que la mise sur le
+marché de produits composés en tout ou en partie d'organismes génétiquement
+modifiés.
 
-"Art. R. 1323-16 :
+" Art.R. 1323-16 :
 
 Le directeur général est assisté de directeurs selon l'organisation de
 l'établissement dont un directeur général adjoint qui le supplée en cas de
@@ -354,9 +339,9 @@ Le directeur de l'Agence nationale du médicament vétérinaire est nommé par
 arrêté des ministres chargés de l'agriculture et de la santé, sur proposition du
 directeur général.
 
-Les autres directeurs sont nommés par arrêté du directeur général".
+Les autres directeurs sont nommés par arrêté du directeur général ".
 
-"Art. R. 1323-17 :
+" Art.R. 1323-17 :
 
 Le directeur général peut déléguer sa signature aux personnels placés sous son
 autorité.
@@ -370,11 +355,11 @@ organismes. Ces agents peuvent déléguer leur signature.
 Il peut toutefois déléguer au directeur de l'Agence nationale du médicament
 vétérinaire ses pouvoirs pour prendre les décisions mentionnées au dernier
 alinéa de l'article R. 1323-15. Cette délégation fait l'objet d'une publication
-au Journal officiel de la République française".
+au Journal officiel de la République française ".
 
-"Sous-section 3 : Le conseil scientifique".
+" Sous-section 3 : Le conseil scientifique ".
 
-"Art. R. 1323-18 :
+" Art.R. 1323-18 :
 
 Le conseil scientifique, mentionné à l'article L. 1323-5, est institué auprès du
 directeur général.
@@ -423,9 +408,9 @@ les mêmes conditions que le titulaire.
 
 En cas de vacance d'un siège, pour quelque cause que ce soit, il est procédé à
 la désignation d'un nouveau membre dans les conditions prévues aux 2° et 3° pour
-achever le mandat de celui qu'il remplace".
+achever le mandat de celui qu'il remplace ".
 
-"Art. R. 1323-19 :
+" Art.R. 1323-19 :
 
 Sans préjudice des dispositions de l'article R. 1323-29, les fonctions de membre
 du conseil scientifique sont exercées à titre gracieux. Elles ouvrent droit aux
@@ -447,9 +432,9 @@ par les déplacements des personnels civils de l'Etat à l'intérieur d'un
 territoire d'outre-mer, entre la métropole et un territoire d'outre-mer, entre
 deux territoires d'outre-mer et entre un territoire d'outre-mer et un
 département d'outre-mer, la collectivité territoriale de Mayotte ou celle de
-Saint-Pierre-et-Miquelon".
+Saint-Pierre-et-Miquelon ".
 
-"Art. R. 1323-20 :
+" Art.R. 1323-20 :
 
 Le conseil scientifique est convoqué par son président ou à la demande du
 directeur général. Il se réunit au moins trois fois par an.
@@ -479,19 +464,19 @@ application du même décret ;
 l'article R. 1323-22.
 
 Il concourt à la définition de la politique nationale de recherche en matière de
-sécurité sanitaire des aliments. A cet effet, il peut formuler des
+sécurité sanitaire des aliments.A cet effet, il peut formuler des
 recommandations sur toute question scientifique et technique entrant dans le
 champ de compétence de l'établissement. Celles-ci sont transmises au directeur
 général et au président du conseil d'administration.
 
 Les modalités de fonctionnement du conseil scientifique sont fixées par le
-règlement intérieur de l'agence".
+règlement intérieur de l'agence ".
 
-Art. R. 1323-21 :
+Art.R. 1323-21 :
 
 Article abrogé par le décret n° 2006-1177 du 22 septembre 2006.
 
-"Art. R. 1323-22 :
+" Art.R. 1323-22 :
 
 Pour évaluer les risques sanitaires et nutritionnels, les bénéfices agronomiques
 et les risques sanitaires et environnementaux liés à la mise sur le marché et à
@@ -514,44 +499,44 @@ comités communs sont précisées, en tant que de besoin, par convention entre l
 Sans préjudice des dispositions de l'article R. 1323-29, les membres des comités
 mentionnés au premier alinéa ont droit aux indemnités pour frais de déplacement
 et de séjour dans les conditions prévues pour les fonctionnaires civils de
-l'Etat".
+l'Etat ".
 
-"Section 3 : Dispositions financières et comptables".
+" Section 3 : Dispositions financières et comptables ".
 
-"Art. R. 1323-23 :
+" Art.R. 1323-23 :
 
 Les opérations financières et comptables sont effectuées conformément aux
 dispositions des décrets n° 53-1227 du 10 décembre 1953 relatif à la
 réglementation comptable applicable aux établissement publics nationaux à
 caractère administratif et n° 62-1587 du 29 décembre 1962 modifié portant
-règlement général sur la comptabilité publique".
+règlement général sur la comptabilité publique ".
 
-"Art. R. 1323-24 :
+" Art.R. 1323-24 :
 
 L'agent comptable est nommé par arrêté des ministres chargés de l'agriculture,
 du budget, de la consommation et de la santé. Des comptables secondaires peuvent
 être désignés par le directeur général après avis de l'agent comptable et avec
-l'agrément du ministre chargé du budget".
+l'agrément du ministre chargé du budget ".
 
-"Art. R. 1323-25 :
+" Art.R. 1323-25 :
 
 Des régies de recettes et d'avances peuvent être instituées conformément aux
 dispositions du décret du n° 92-681 du 20 juillet 1992 relatif aux régies de
-recettes et aux régies d'avances des organismes publics".
+recettes et aux régies d'avances des organismes publics ".
 
-"Art. R. 1323-26 :
+" Art.R. 1323-26 :
 
 L'établissement est soumis au contrôle financier de l'Etat institué par le
 décret du 25 octobre 1935 organisant le contrôle financier des offices et des
 établissements autonomes de l'Etat. Les modalités d'exercice du contrôle sont
 fixées par arrêté des ministres chargés de l'agriculture, du budget, de la
-consommation et de la santé".
+consommation et de la santé ".
 
-"Art. R. 1323-27 :
+" Art.R. 1323-27 :
 
-Les services de l'agence peuvent être dotés de comptabilités distinctes".
+Les services de l'agence peuvent être dotés de comptabilités distinctes ".
 
-"Art. R. 1323-28 :
+" Art.R. 1323-28 :
 
 Les recettes de l'établissement comprennent :
 
@@ -582,9 +567,9 @@ activité ;
 
 11° Le produit des dons et legs ;
 
-12° Toutes autres recettes autorisées par les lois et règlements".
+12° Toutes autres recettes autorisées par les lois et règlements ".
 
-"Art. R. 1323-29 :
+" Art.R. 1323-29 :
 
 Les membres des comités d'experts spécialisés mentionnés à l'article R. 1323-22,
 les membres du conseil scientifique prévu à l'article R. 1323-18 issus du
@@ -593,39 +578,39 @@ commissions prévues aux articles R. 5141-48 et R. 5141-97 et les experts appel�
 par décision du directeur général sont rémunérés pour leur participation aux
 réunions de ces instances ainsi que pour l'ensemble des travaux, rapports et
 études réalisés pour l'agence dans des conditions fixées par le conseil
-d'administration".
+d'administration ".
 
-"Section 4 : Saisine de l'agence par les associations de consommation".
+" Section 4 : Saisine de l'agence par les associations de consommation ".
 
-"Art. D. 1323-30 :
+" Art.D. 1323-30 :
 
 En application du 1° de l'article L. 1323-2, les associations de consommateurs
 agréées conformément aux dispositions de l'article L. 411-1 du code de la
 consommation peuvent saisir l'agence d'une demande d'avis sur les risques
 nutritionnels ou sanitaires que peuvent présenter les aliments destinés aux
-hommes ou aux animaux".
+hommes ou aux animaux ".
 
-"Art. D. 1323-31 :
+" Art.D. 1323-31 :
 
 La saisine doit être adressée par le président de l'association de consommateurs
 agréée, ou par son représentant expressément désigné par voie de procuration, au
 directeur général de l'agence. Elle doit être dûment motivée et, le cas échéant,
 être accompagnée de toutes pièces justificatives. En cas de saisine conjointe
 par plusieurs associations de consommateurs, il est possible d'adresser une
-saisine unique contresignée par les différents pétitionnaires".
+saisine unique contresignée par les différents pétitionnaires ".
 
-"Art. D. 1323-32 :
+" Art.D. 1323-32 :
 
 Le directeur général accuse réception de cette saisine, en précisant le cas
 échéant les délais nécessaires pour son examen. Si la demande n'entre pas dans
 le domaine de compétence de l'agence mentionné à l'article D. 1323-30 ou si elle
 est insuffisamment motivée, il en informe le demandeur. La demande d'avis est
-traitée dans les conditions prévues à l'article R. 1323-22".
+traitée dans les conditions prévues à l'article R. 1323-22 ".
 
-"Art. D. 1323-33 :
+" Art.D. 1323-33 :
 
 L'avis émis par l'agence est adressé à l'auteur de la saisine par courrier
 recommandé avec avis de réception. Il est communiqué immédiatement aux ministres
 chargés de la consommation, de l'agriculture et de la santé, ainsi qu'aux autres
 ministres concernés. Sa publicité est assurée dans les conditions prévues à
-l'article R. 1323-15".
+l'article R. 1323-15 ".

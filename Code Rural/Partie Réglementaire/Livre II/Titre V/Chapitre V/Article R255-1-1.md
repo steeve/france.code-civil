@@ -8,7 +8,7 @@ l'agriculture.
 
 Dans un délai de six mois à compter de la date de l'accusé de réception,
 l'agence transmet au ministre chargé de l'agriculture un avis comprenant les
-éléments mentionnés à l'article R. 253-1. Cet avis est également transmis aux
+éléments mentionnés à l'article R. 253-3. Cet avis est également transmis aux
 ministres chargés de la santé, du travail, de la consommation et de
 l'environnement.
 

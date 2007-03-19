@@ -1,16 +1,23 @@
 Article R*253-57
 ----
-Toute personne qui envisage de mettre sur le marché un produit
-phytopharmaceutique doit, avant d'entreprendre des expériences portant sur des
-vertébrés, demander au ministre chargé de l'agriculture si le produit
-phytopharmaceutique qu'il atteste vouloir mettre sur le marché est le même qu'un
-produit phytopharmaceutique déjà autorisé.
+La demande d'autorisation de mise sur le marché est adressée par le responsable
+de la mise sur le marché à l'Agence française de sécurité sanitaire des
+aliments.
 
-Si tel est le cas, le ministre chargé de l'agriculture fournit le nom et
-l'adresse du ou des détenteurs d'autorisations antérieures correspondantes et
-communique à ces derniers le nom et l'adresse du demandeur.
+Outre le dossier technique mentionné à l'article R. 533-26 du code de
+l'environnement, la demande d'autorisation doit comprendre :
 
-Le ou les détenteurs d'autorisations antérieures et le demandeur prennent toutes
-les dispositions nécessaires pour arriver à un accord sur l'utilisation partagée
-des informations afin d'éviter une répétition des essais utilisant des
-vertébrés.
+1° Un dossier, pour chaque substance active contenue dans le produit,
+lorsqu'elle est différente de l'organisme génétiquement modifié, satisfaisant
+aux exigences relatives à l'inscription de la substance active sur la liste
+communautaire prévue par la réglementation européenne ;
+
+2° Un dossier relatif au produit phytopharmaceutique comprenant les études et
+comptes rendus d'essais tels qu'ils sont définis à l'article R. 253-10 et
+démontrant que le produit satisfait, pour les conditions d'emploi demandées, aux
+exigences de sélectivité, d'efficacité et d'innocuité prévues par la
+réglementation européenne.
+
+La composition et les modalités de présentation des dossiers d'autorisation de
+mise sur le marché mentionnés au 1° et au 2° sont définies par l'arrêté conjoint
+prévu à l'article R. 253-39.

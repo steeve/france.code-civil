@@ -1,9 +1,14 @@
 Article R255-8
 ----
-L'autorisation de dissémination volontaire dans l'environnement, prévue par
-l'article L. 533-3 du code de l'environnement est, s'agissant des matières
-fertilisantes et des supports de culture composés en tout ou partie d'organismes
-génétiquement modifiés, délivrée par le ministre chargé de l'agriculture après
-accord du ministre chargé de l'environnement et après avis de la commission
-d'étude de la dissémination des produits issus du génie biomoléculaire, de
-l'Agence française de sécurité sanitaire des aliments.
+S'agissant des matières fertilisantes et des supports de culture composés en
+tout ou partie d'organismes génétiquement modifiés l'autorité administrative
+compétente, mentionnée par l'article R. 533-1 du code de l'environnement, est le
+ministre chargé de l'agriculture.
+
+L'autorisation est délivrée après avis de l'Agence française de sécurité
+sanitaire des aliments et de la commission d'étude de la dissémination des
+produits issus du génie biomoléculaire.
+
+L'agence est consultée sur la demande d'autorisation parallèlement à la
+commission d'étude de la dissémination des produits issus du génie
+biomoléculaire et rend son avis dans les mêmes conditions.

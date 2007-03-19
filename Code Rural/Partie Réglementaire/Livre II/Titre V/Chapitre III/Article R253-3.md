@@ -17,9 +17,10 @@ II. - L'Agence française de sécurité sanitaire des aliments dispose d'un dél
 de dix mois pour donner son avis au ministre chargé de l'agriculture en ce qui
 concerne :
 
-- les demandes d'autorisation provisoire mentionnées à l'article R. 253-49 ;
+- les demandes d'autorisation de mise sur le marché provisoire mentionnées à
+l'article R. 253-49 ;
 
-- les demandes d'autorisation d'une nouvelle préparation ;
+- les demandes d'autorisation de mise sur le marché d'une nouvelle préparation ;
 
 - les demandes de renouvellement d'une préparation déjà autorisée ;
 
@@ -33,7 +34,7 @@ concerne :
 - les demandes d'extension d'usage mineur d'un produit bénéficiant d'une
 autorisation de mise sur le marché ;
 
-- les demandes d'autorisation pour expérimentation ;
+- les demandes d'autorisation de distribution pour expérimentation ;
 
 - les demandes de changement de classification, emballage ou étiquetage ;
 
