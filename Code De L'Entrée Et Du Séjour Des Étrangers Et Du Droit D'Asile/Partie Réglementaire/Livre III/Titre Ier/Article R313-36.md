@@ -1,28 +1,18 @@
 Article R313-36
 ----
-L'étranger mentionné à l'article R. 313-35 présente en outre les documents
-ci-après :
+L'étranger qui sollicite le renouvellement de l'une des cartes de séjour
+temporaire prévues aux articles L. 313-4-1, L. 313-6, L. 313-7, L. 313-9, L.
+313-11 et L. 313-11-1 présente en outre les pièces prévues pour une première
+délivrance et justifiant qu'il continue de satisfaire aux conditions requises
+pour celle-ci.
 
-1° S'il désire exercer une activité salariée, les justificatifs prévus par la
-réglementation en vigueur ;
+S'il sollicite le renouvellement de la carte de séjour temporaire prévue à
+l'article L. 313-8, il présente en outre la convention d'accueil délivrée par un
+organisme ayant une mission de recherche ou d'enseignement supérieur agréé à cet
+effet dans les conditions prévues à l'article R. 313-13 et, le cas échéant, une
+attestation du même organisme établissant la poursuite des activités de
+recherche ou d'enseignement supérieur prévues par la convention.
 
-2° S'il désire exercer une activité professionnelle non salariée soumise à
-autorisation, les pièces justifiant qu'il est titulaire de cette autorisation ;
-
-3° S'il entend n'exercer aucune activité professionnelle, la justification de
-moyens suffisants d'existence et l'engagement de n'exercer en France aucune
-activité professionnelle ;
-
-4° S'il entend demeurer en France pour y poursuivre des études ou y suivre un
-enseignement ou un stage de formation, les pièces exigées à l'article R. 313-8 ;
-
-5° S'il entend demeurer en France pour poursuivre des travaux de recherche ou
-dispenser un enseignement de niveau universitaire, un protocole d'accueil
-délivré par un organisme scientifique ou universitaire agréé à cet effet, dans
-les conditions prévues à l'article R. 313-12 ;
-
-6° S'il entend demeurer en France en qualité d'artiste-interprète ou d'auteur
-d'oeuvre littéraire ou artistique, les pièces exigées à l'article R. 313-14 ;
-
-7° S'il relève des dispositions de l'article L. 313-11, les pièces justifiant
-que ces dispositions lui sont toujours applicables.
+Il bénéficie à sa demande du titre prévu à l'article L. 313-4 sur présentation
+d'une convention d'accueil attestant d'activités de recherche ou d'enseignement
+supérieur d'une durée supérieure à un an.

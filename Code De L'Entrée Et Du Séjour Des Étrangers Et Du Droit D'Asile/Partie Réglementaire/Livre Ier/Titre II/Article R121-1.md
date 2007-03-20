@@ -1,7 +1,14 @@
 Article R121-1
 ----
-Jusqu'à la publication du décret mentionné à l'article L. 121-5, les
-dispositions du décret n° 94-211 du 11 mars 1994 réglementant les conditions
-d'entrée et de séjour en France des ressortissants des Etats membres de la
-Communauté européenne bénéficiaires de la libre circulation des personnes
-restent applicables.
+Tout ressortissant mentionné au premier alinéa de l'article L. 121-1 muni d'une
+carte d'identité ou d'un passeport en cours de validité est admis sur le
+territoire français, à condition que sa présence ne constitue pas une menace
+pour l'ordre public.
+
+Tout membre de sa famille mentionné à l'article L. 121-3, ressortissant d'un
+Etat tiers, est admis sur le territoire français à condition que sa présence ne
+constitue pas une menace pour l'ordre public et qu'il soit muni, à défaut de
+titre de séjour en cours de validité, d'un passeport en cours de validité, d'un
+visa ou, s'il en est dispensé, d'un document établissant son lien familial.
+L'autorité consulaire lui délivre gratuitement et dans les meilleurs délais le
+visa requis sur justification de son lien familial.

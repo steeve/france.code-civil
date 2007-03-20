@@ -10,8 +10,8 @@ conjoint et de ses enfants à charge ;
 régulièrement en France ;
 
 3° Sauf stipulation contraire d'une convention internationale applicable en
-France, un visa de séjour d'une durée supérieure à trois mois autre que celui
-mentionné au 3° de l'article R. 311-3 ;
+France, un visa pour un séjour d'une durée supérieure à trois mois autre que
+celui mentionné au 3° de l'article R. 311-3 ;
 
 4° Un certificat médical délivré dans les conditions fixées par arrêté du
 ministre chargé de la santé ;

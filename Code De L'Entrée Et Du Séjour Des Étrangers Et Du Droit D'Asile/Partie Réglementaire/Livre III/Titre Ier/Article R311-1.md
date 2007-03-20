@@ -19,7 +19,22 @@ détermine soient adressées par voie postale ;
 soit déposée auprès des établissements d'enseignement ayant souscrit à cet effet
 une convention avec l'Etat.
 
-L'étranger qui sollicite un titre de séjour en application de l'article L. 317-1
-ou son renouvellement peut souscrire sa demande auprès de la représentation
-consulaire française territorialement compétente dans le pays où il a établi sa
-résidence habituelle.
+Les documents justificatifs présentés par l'étranger à l'appui de sa demande de
+titre de séjour doivent être accompagnés, le cas échéant, de leur traduction en
+français par un traducteur interprète agréé.
+
+Par dérogation au premier alinéa :
+
+1° L'étranger résidant hors de France qui sollicite le titre de séjour prévu à
+l'article L. 317-1 ou son renouvellement peut déposer sa demande auprès de la
+représentation consulaire française dans son pays de résidence, qui transmet la
+demande au préfet territorialement compétent ;
+
+2° L'étranger titulaire du statut de résident de longue durée-CE accordé dans un
+autre Etat membre de l'Union européenne et résidant sur le territoire de cet
+Etat qui sollicite une carte de séjour temporaire dans les conditions prévues à
+l'article L. 313-4-1, ainsi que les membres de sa famille résidant légalement
+avec lui sur le territoire de cet Etat qui sollicitent une carte de séjour
+temporaire en application de l'article L. 313-11-1, peuvent présenter leur
+demande auprès de la représentation consulaire française dans leur pays de
+résidence, qui transmet la demande au préfet territorialement compétent.

@@ -14,5 +14,4 @@ situe le local, l'étranger peut y être maintenu jusqu'à ce que le président 
 la cour d'appel ait statué. De même, en cas de recours contre l'arrêté de
 reconduite à la frontière, s'il n'y a pas de centre de rétention administrative
 dans le ressort du tribunal administratif où se situe le local, l'étranger peut
-y être maintenu jusqu'à ce que le président du tribunal administratif ait
-statué.
+y être maintenu jusqu'à ce qu'il ait été statué sur le recours.

@@ -1,7 +1,8 @@
 Article R314-1
 ----
 Pour l'application des dispositions des articles L. 314-8 et L. 314-9,
-l'étranger présente à l'appui de sa demande de carte de résident :
+l'étranger présente à l'appui de sa demande de carte de résident ou de carte de
+résident portant la mention "résident de longue durée-CE" :
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son
 conjoint et de ses enfants à charge ;
@@ -22,11 +23,19 @@ entend s'établir durablement en France ainsi que les éléments attestant du
 caractère suffisant et de la stabilité de ses moyens d'existence et, le cas
 échéant, les conditions de son activité professionnelle s'il en a une ;
 
-5° Tout document de nature à attester qu'il remplit la condition d'intégration
-dans la société française prévue à l'article L. 314-2, ainsi que, le cas
-échéant, la justification de la signature du contrat d'accueil et d'intégration
-prévu à l'article L. 117-1 du code de l'action sociale et des familles, et du
-respect des engagements souscrits au titre de ce contrat.
+5° Pour l'appréciation de la condition d'intégration prévue à l'article L. 314-2
+:
+
+a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les
+principes qui régissent la République française ;
+
+b) Le cas échéant, le contrat d'accueil et d'intégration conclu en application
+de l'article L. 311-9 ainsi que l'attestation nominative remise par l'Agence
+nationale de l'accueil des étrangers et des migrations précisant si les actions
+prévues au contrat ont été suivies ainsi que les conditions de leur validation ;
+
+c) Tout document de nature à attester sa connaissance suffisante de la langue
+française, notamment le diplôme initial de langue française.
 
 Lorsque les moyens d'existence de l'intéressé sont tirés de l'exercice d'une
 activité professionnelle soumise à l'autorisation d'une autorité de l'Etat,
