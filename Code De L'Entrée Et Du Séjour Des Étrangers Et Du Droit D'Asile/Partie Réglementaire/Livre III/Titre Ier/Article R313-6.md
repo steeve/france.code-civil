@@ -1,7 +1,8 @@
 Article R313-6
 ----
-L'étranger qui entend n'exercer en France aucune activité professionnelle
-présente les pièces suivantes :
+Pour l'application de l'article L. 313-6, l'étranger qui demande la délivrance
+de la carte de séjour mention " visiteur " doit en outre présenter les pièces
+suivantes :
 
 1° La justification de moyens suffisants d'existence ;
 

@@ -2,32 +2,39 @@ Article R311-14
 ----
 Le titre de séjour est retiré :
 
-1° Sous réserve des dispositions de l'article 37 de l'ordonnance n° 45-2658 du 2
-novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en
-France, si son titulaire, qui réside en France avec un premier conjoint, a fait
-venir dans le cadre du regroupement familial un autre conjoint ou des enfants
-autres que ceux mentionnés aux articles L. 411-1 à L. 411-7 ;
+1° Si son titulaire, qui réside en France avec un premier conjoint, a fait venir
+dans le cadre du regroupement familial un autre conjoint ou des enfants autres
+que ceux mentionnés aux articles L. 411-1 à L. 411-7 ;
 
-2° Sous réserve des dispositions de l'article 37 de l'ordonnance n° 45-2658 du 2
-novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en
-France, si l'étranger titulaire d'une carte de résident vit en France en état de
+2° Si l'étranger titulaire d'une carte de résident vit en France en état de
 polygamie ; dans ce cas, la carte de résident est également retirée au conjoint
-de cet étranger ;
+;
 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire
-pendant une période de plus de trois ans consécutifs sans que cette période ait
-fait l'objet d'une autorisation de prolongation ;
+français pendant une période de plus de trois ans consécutifs sans que cette
+période ait fait l'objet d'une autorisation de prolongation ;
 
-4° Si son détenteur fait l'objet d'une mesure d'expulsion ;
+4° Si l'étranger titulaire d'une carte de résident portant la mention "résident
+de longue durée-CE" accordée par la France a résidé en dehors du territoire des
+Etats membres de l'Union européenne pendant une période de plus de trois ans
+consécutifs sans que cette période ait fait l'objet d'une autorisation de
+prolongation, ou a résidé en dehors du territoire français pendant une période
+de plus de six ans consécutifs, ou a acquis le statut de résident de longue
+durée-CE dans un autre Etat membre de l'Union européenne ;
 
-5° Si son détenteur fait l'objet d'une décision judiciaire d'interdiction du
-territoire ; toutefois, sauf si sa présence constitue une menace pour l'ordre
-public, l'étranger, pour le cas où il a fait l'objet d'une interdiction
-judiciaire du territoire de trois ans ou moins, à laquelle il a été mis fin ou
-qui a été exécutée avant l'échéance du titre de séjour qu'il possédait
-antérieurement, se voit délivrer :
+5° Si son détenteur fait l'objet d'une mesure d'expulsion ;
 
-a) Une carte de résident de dix ans, si la carte qui lui a été retirée était
-celle d'un résident de plein droit ;
+6° Si son détenteur fait l'objet d'une décision judiciaire d'interdiction du
+territoire ;
 
-b) Une carte de séjour temporaire d'un an dans les autres cas.
+7° Si l'étranger titulaire d'une carte de résident est condamné pour avoir
+commis sur un mineur de quinze ans l'infraction définie à l'article 222-9 du
+code pénal ou s'être rendu complice de celle-ci ;
+
+8° Si l'étranger titulaire de la carte de séjour temporaire ou de la carte de
+séjour "compétences et talents" cesse de remplir l'une des conditions exigées
+pour sa délivrance.
+
+Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la
+mention "salarié" ou "travailleur temporaire" ne peut être retirée au motif que
+l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.

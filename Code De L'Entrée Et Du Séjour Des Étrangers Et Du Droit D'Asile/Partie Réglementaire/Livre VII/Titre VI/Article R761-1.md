@@ -7,6 +7,15 @@ suivantes :
 mesures nécessaires à la constitution et au fonctionnement de sections de la
 commission siégeant à Mayotte ;
 
+1° bis A l'article R. 723-1 :
+
+a) Au quatrième alinéa, les mots "au préfet de département compétent et, à
+Paris, au préfet de police sont remplacés par les mots : "au représentant de
+l'Etat à Mayotte ;
+
+b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le
+préfet sont remplacés par les mots : le représentant de l'Etat à Mayotte" ;
+
 2° Au troisième alinéa de l'article R. 723-2 :
 
 a) Les mots : "au préfet de département compétent et, à Paris, au préfet de

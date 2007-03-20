@@ -11,3 +11,12 @@ de la copie du document de séjour en cours de validité.
 
 Lorsque la demande est présentée complète dans les délais, l'office l'enregistre
 sans délai et en informe par lettre le demandeur.
+
+Dans le cas où l'admission au séjour lui a été refusée pour l'un des motifs
+mentionnés aux 2° à 4° de l'article L. 741-4, l'étranger demandeur d'asile
+dispose d'un délai de quinze jours pour présenter une demande d'asile complète
+au préfet de département compétent et, à Paris, au préfet de police. La demande
+d'asile rédigée sur l'imprimé établi par l'office est remise sous pli fermé.
+
+Le préfet transmet des réception le dossier à l'office en mentionnant son
+caractère prioritaire.

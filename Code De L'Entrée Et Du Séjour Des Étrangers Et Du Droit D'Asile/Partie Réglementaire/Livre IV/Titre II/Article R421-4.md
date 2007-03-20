@@ -23,8 +23,6 @@ moyens ;
 que : titre de propriété, bail de location, promesse de vente ou tout autre
 document de nature à établir que le demandeur disposera d'un logement à la date
 qu'il précise. Ces documents mentionnent les caractéristiques du logement au
-regard des conditions posées à l'article 9 du décret n° 2005-253 du 17 mars 2005
-relatif au regroupement familial des étrangers pris pour l'application du livre
-IV du code de l'entrée et du séjour des étrangers et du droit d'asile et la date
-à laquelle le logement sera disponible. Lorsque le demandeur occupe déjà le
-logement, il joint un justificatif de domicile de moins de trois mois.
+regard des conditions posées à l'article R. 411-5 et la date à laquelle le
+logement sera disponible. Lorsque le demandeur occupe déjà le logement, il joint
+un justificatif de domicile de moins de trois mois.

@@ -1,7 +1,7 @@
 Article R313-12
 ----
-Pour l'application de l'article L. 313-8, l'étranger venu en France pour mener
-des travaux de recherche ou dispenser un enseignement de niveau universitaire
-présente un protocole d'accueil délivré par un organisme scientifique ou
-universitaire agréé à cet effet, attestant de sa qualité de scientifique, ainsi
-que de l'objet et de la durée de son séjour en France.
+Le scientifique étranger qui exerce son activité en France dans les conditions
+prévues au deuxième alinéa de l'article L. 313-8 et qui souhaite s'y maintenir
+plus de trois mois pour continuer à exercer les mêmes travaux peut solliciter le
+visa prévu pour la délivrance de la carte de séjour temporaire mention
+"scientifique" auprès du préfet compétent pour la délivrance de cette carte.
