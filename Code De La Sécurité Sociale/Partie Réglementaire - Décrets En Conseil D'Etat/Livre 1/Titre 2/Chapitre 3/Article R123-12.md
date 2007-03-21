@@ -1,13 +1,9 @@
 Article R123-12
 ----
-Le président du conseil d'administration est élu, pour une durée de trois ans
-renouvelable, par et parmi les membres du conseil mentionnés aux 1°, 2° et 3° du
-premier alinéa de l'article R. 123-11. Le vote est secret. L'élection a lieu au
-premier et au deuxième tour de scrutin à la majorité absolue des suffrages
-exprimés, exclusion faite des bulletins blancs ou nuls, au troisième tour à la
-majorité relative et, en cas de partage égal des voix, au bénéfice de l'âge.
-Deux vice-présidents sont élus, successivement, dans les mêmes conditions et
-pour la même durée.
+Le président et le vice-président du conseil d'administration sont nommés par
+arrêté du ministre chargé de la sécurité sociale pour une durée de quatre ans
+renouvelable parmi les membres du conseil mentionnés aux 1°, 2° et 3° de
+l'article R. 123-11.
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité des
 membres assiste à la réunion. A défaut, il est procédé à la convocation d'une
