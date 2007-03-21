@@ -36,7 +36,7 @@ Il peut demander des informations sur les accidents dont les conséquences sont
 perceptibles à l'extérieur du site ;
 
 Son président est destinataire du rapport d'évaluation prévu par l'article L.
-515-26 du code de l'environnement.
+515-26.
 
 En application de l'article 6 de la loi n° 78-753 du 17 juillet 1978 modifiée
 portant diverses mesures d'amélioration des relations entre l'administration et

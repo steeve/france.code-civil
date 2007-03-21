@@ -1,6 +1,6 @@
 Article R125-11
 ----
-I. - L'information donnée au public sur les risques majeurs comprend la
+I.-L'information donnée au public sur les risques majeurs comprend la
 description des risques et de leurs conséquences prévisibles pour les personnes,
 les biens et l'environnement, ainsi que l'exposé des mesures de prévention et de
 sauvegarde prévues pour limiter leurs effets.
@@ -12,14 +12,14 @@ document les indications susceptibles de porter atteinte au secret de la défens
 nationale, à la sûreté de l'Etat, à la sécurité publique ou aux secrets en
 matière commerciale et industrielle.
 
-II. - Le dossier départemental sur les risques majeurs comprend la liste de
-l'ensemble des communes mentionnées à l'article 2 (1) ci-dessus avec
-l'énumération et la description des risques majeurs auxquels chacune de ces
-communes est exposée, l'énoncé de leurs conséquences prévisibles pour les
-personnes, les biens et l'environnement, la chronologie des événements et des
-accidents connus et significatifs de l'existence de ces risques et l'exposé des
-mesures générales de prévention, de protection et de sauvegarde prévues par les
-autorités publiques dans le département pour en limiter les effets.
+II.-Le dossier départemental sur les risques majeurs comprend la liste de
+l'ensemble des communes mentionnées à l'article R. 125-10 avec l'énumération et
+la description des risques majeurs auxquels chacune de ces communes est exposée,
+l'énoncé de leurs conséquences prévisibles pour les personnes, les biens et
+l'environnement, la chronologie des événements et des accidents connus et
+significatifs de l'existence de ces risques et l'exposé des mesures générales de
+prévention, de protection et de sauvegarde prévues par les autorités publiques
+dans le département pour en limiter les effets.
 
 Le préfet transmet aux maires des communes intéressées le dossier départemental
 sur les risques majeurs.
@@ -38,7 +38,7 @@ dans les documents mentionnés à l'article R. 125-10 intéressant le territoire
 chacune d'elles, les cartographies existantes des zones exposées ainsi que la
 liste des arrêtés portant constatation de l'état de catastrophe naturelle.
 
-III. - Le document d'information communal sur les risques majeurs reprend les
+III.-Le document d'information communal sur les risques majeurs reprend les
 informations transmises par le préfet. Il indique les mesures de prévention, de
 protection et de sauvegarde répondant aux risques majeurs susceptibles
 d'affecter la commune. Ces mesures comprennent, en tant que de besoin, les

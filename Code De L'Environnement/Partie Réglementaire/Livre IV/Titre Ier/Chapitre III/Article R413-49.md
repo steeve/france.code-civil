@@ -1,7 +1,7 @@
 Article R413-49
 ----
 Si, à l'expiration du délai imparti par le préfet en application de l'article R.
-413-49, l'exploitant n'a pas obtempéré à cette injonction, le préfet peut :
+413-48, l'exploitant n'a pas obtempéré à cette injonction, le préfet peut :
 
 1° Soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des
 mesures prescrites ;

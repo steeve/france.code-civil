@@ -15,9 +15,8 @@ une liste établie par arrêté du ministre chargé des ports maritimes.
 
 L'autorisation vaut, s'il y a lieu, autorisation au titre des articles L. 214-1
 à L. 214-6 du code de l'environnement ; dans ce cas, elle doit respecter les
-règles de fond prévues par cette loi (1) et fixer les prescriptions nécessaires
-à la protection des intérêts mentionnés à l'article L. 211-1 dudit code.
-L'autorisation peut donner lieu à des arrêtés complémentaires pris dans les
-formes prévues par les articles 14 et 15 du décret n° 93-742 du 29 mars 1993
-relatif aux procédures d'autorisation et de déclaration prévues par l'article 10
-de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+règles de fond prévues par ce code et fixer les prescriptions nécessaires à la
+protection des intérêts mentionnés à l'article L. 211-1 dudit
+code.L'autorisation peut donner lieu à des arrêtés complémentaires pris dans les
+formes prévues par les articles R. 214-17 et R. 214-19 du code de
+l'environnement.
