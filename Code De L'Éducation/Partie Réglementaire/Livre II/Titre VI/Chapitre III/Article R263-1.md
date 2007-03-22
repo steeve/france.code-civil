@@ -6,6 +6,6 @@ dispensé dans les lycées sont exercées, dans les conditions fixées à l'arti
 R. 263-2, sous l'autorité du haut-commissaire de la République, par un
 vice-recteur.
 
-Les fonctions de vice-recteur sont assurées par un fonctionnaire de catégorie A,
-titulaire d'un doctorat ou d'une habilitation à diriger des recherches, nommé
-par décret.
+Peuvent être nommés vice-recteur, par décret, les fonctionnaires nommés dans un
+emploi ou appartenant à un corps ou cadre d'emplois dont le sommet de
+l'échelonnement indiciaire atteint au moins le groupe hors échelle A.
