@@ -1,6 +1,6 @@
 Article R*122-4
 ----
-I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article R.
+I.-Le dossier d'instruction comporte l'étude d'impact définie à l'article R.
 *122-3 du code de l'environnement lorsque le coût total des travaux de
 construction ou d'extension excède le montant fixé à l'article R. *122-8 du même
 décret.
@@ -13,17 +13,14 @@ lorsque les travaux constituent un grand projet d'infrastructures tel que défin
 
 En outre, lorsqu'il y a lieu, le dossier :
 
-- mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743
-du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation
-ou à déclaration en application des articles L. 214-1 à L. 214-6 du code de
-l'environnement, dont relèvent les travaux ;
+-mentionne la ou les rubriques de la nomenclature annexée à l'article R. 214-1
+du code de l'environnement, dont relèvent les travaux ;
 
-- comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
-1993 relatif aux procédures d'autorisation et de déclaration prévues par les
-articles L. 214-1 à L. 214-6 du code de l'environnement. Si l'étude d'impact
-fournit les informations requises, elle tient lieu de ce document.
+-comporte le document prévu aux articles R. 214-6 et R. 214-32 du code de
+l'environnement. Si l'étude d'impact fournit les informations requises, elle
+tient lieu de ce document.
 
-II. - L'instruction, menée par le directeur du port, comprend les formalités
+II.-L'instruction, menée par le directeur du port, comprend les formalités
 ci-après qui sont effectuées simultanément :
 
 1° Consultation du conseil portuaire ;
@@ -51,10 +48,10 @@ des conditions de débarquement des produits de la pêche (CORECODE) ;
 
 Dans le cas où les travaux envisagés sont soumis aux procédures prévues les
 articles L. 214-1 à L. 214-6 du code de l'environnement, l'instruction est menée
-simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
-susmentionné.
+simultanément avec celle prévue par les articles R. 214-6 à R. 214-56 dudit
+code.
 
-III. - Le délai imparti aux collectivités, établissements publics, commissions
-et services consultés en application des 1°, 2°, 3°, 4° et 5° du II du présent
+III.-Le délai imparti aux collectivités, établissements publics, commissions et
+services consultés en application des 1°, 2°, 3°, 4° et 5° du II du présent
 article pour faire connaître leur avis est de deux mois à compter du jour où ils
-y sont invités. L'absence de réponse dans ce délai vaut avis favorable.
+y sont invités.L'absence de réponse dans ce délai vaut avis favorable.
