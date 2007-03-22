@@ -2,7 +2,7 @@ Article R553-7
 ----
 Lorsqu'un comité économique agricole agréé, en application de l'article L.
 552-2, a obtenu l'extension à l'ensemble des producteurs de sa circonscription
-de l'une ou de plusieurs règles édictées pour les producteurs et groupements
+de l'une ou de plusieurs règles édictées pour les producteurs et organisations
 relevant de lui, les producteurs pour lesquels cette règle est devenue
 obligatoire du fait de cette extension sont redevables au comité, dans les
 conditions fixées par arrêté du ministre de l'agriculture, de tout ou partie des

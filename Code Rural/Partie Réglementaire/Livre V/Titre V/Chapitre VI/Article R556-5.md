@@ -8,5 +8,5 @@ auxdites règles est punie de l'amende prévue pour les contraventions de la 4e
 classe.
 
 Ces peines ne font pas obstacle à l'application éventuelle aux membres des
-groupements de producteurs reconnus et des comités économiques agricoles agréés
-des sanctions prévues par les statuts.
+organisations de producteurs reconnues et des comités économiques agricoles
+agréés des sanctions prévues par les statuts.
