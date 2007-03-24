@@ -1,47 +1,27 @@
 Article D213-3
 ----
-Il est créé un comité consultatif des subventions aux exploitants d'aérodromes
-pour les missions mentionnées à l'article D. 213-2.
+Sur chaque aédrome dont le trafic commercial moyen des trois dernières années
+dépasse 70 000 passagers ou figurant sur une liste fixée par le ministre chargé
+des transports, après avis du ministre de la défense, le comité local de sûreté
+est chargé :
 
-Ce comité peut être consulté par le ministre chargé de l'aviation civile sur
-toute question relative au financement de ces missions.
+- d'assurer une concertation préalable à la définition de la zone réservée, des
+conditions d'accès à celle-ci ainsi que des règles particulières prises en
+application de l'arrêté préfectoral mentionné à l'article R. 213-3 ;
 
-Le comité consultatif est présidé par le ministre chargé de l'aviation civile ou
-son représentant.
+- de veiller à la cohérence générale des mesures de sûreté contenues dans les
+programmes de sûreté établis en application de l'article R. 213-1 ;
 
-Il comprend, outre son président :
+- de veiller à la coordination de la mise en oeuvre des mesures urgentes prises
+en application de l'article R. 213-1 ;
 
-- un sénateur ;
+- d'examiner les plans d'urgence permettant de riposter à une crise dans le
+domaine de la sûreté et de préparer les exercices relatifs à la mise en oeuvre
+de ces plans.
 
-- un député ;
-
-- le ministre chargé du budget ou son représentant ;
-
-- le ministre chargé de l'économie ou son représentant ;
-
-- le chef de l'inspection générale de l'aviation civile et de la météorologie ou
-son représentant ;
-
-- un fonctionnaire de la direction générale de l'aviation civile désigné par son
-directeur général ;
-
-- deux personnalités, nommées pour trois ans renouvelables, choisies par le
-ministre chargé de l'aviation civile en raison de leur connaissance du transport
-aérien ou des activités aéroportuaires.
-
-Le contrôleur financier central des services de l'aviation civile participe aux
-réunions du comité, avec voix consultative.
-
-Le comité consultatif se réunit sur convocation de son président, à l'initiative
-de celui-ci ou à la demande de la moitié au moins des membres du comité. Le
-président fixe l'ordre du jour des réunions.
-
-Le président du comité consultatif peut inviter à participer aux réunions du
-comité toute personne dont la présence est jugée utile en fonction de l'ordre du
-jour. Les fonctions de membre du comité consultatif sont gratuites.
-
-En cas de besoin, l'avis des membres du comité consultatif peut être recueilli
-par consultation écrite.
-
-La direction de la régulation économique de la direction générale de l'aviation
-civile assure le secrétariat du comité consultatif.
+Le comité local de sûreté est présidé par le préfet exerçant les pouvoirs de
+police sur l'aérodrome. Ce comité comprend des représentants des services de
+l'Etat exerçant leur activité sur l'aérodrome ainsi que des représentants de
+l'exploitant de l'aérodrome, des entreprises de transport aérien et des
+personnes autorisées à occuper ou à utiliser la zone réservée de l'aérodrome.
+Ces représentants sont nommés par le préfet.
