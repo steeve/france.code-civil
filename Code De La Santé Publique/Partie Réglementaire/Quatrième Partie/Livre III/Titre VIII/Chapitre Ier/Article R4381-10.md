@@ -37,3 +37,8 @@ transmise au préfet sans délai et dans les formes mentionnées à cet alinéa.
 
 Le règlement intérieur, s'il a été établi après la constitution de la société,
 est communiqué au préfet dans le mois suivant son établissement.
+
+Les dispositions du présent article ne sont pas applicables aux sociétés
+constituées de professionnels relevant d'un ordre, et qui font l'objet d'une
+inscription au tableau dans les conditions fixées par les articles R. 4113-4 à
+R. 4113-10.

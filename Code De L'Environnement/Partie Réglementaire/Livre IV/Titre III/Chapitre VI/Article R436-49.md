@@ -26,6 +26,7 @@ aux 2°, 3° et 4° du I, ainsi que le nombre et la qualité des représentants 
 l'Etat, sont fixés par un arrêté conjoint du ministre chargé de la pêche en eau
 douce et du ministre chargé des pêches maritimes.
 
-IV. - Un délégué régional du Conseil supérieur de la pêche et un représentant de
-l'Institut français de recherche pour l'exploitation de la mer désignés par ces
-organismes assistent, à titre consultatif, aux séances du comité.
+IV. - Un délégué régional de l'Office national de l'eau et des milieux
+aquatiques et un représentant de l'Institut français de recherche pour
+l'exploitation de la mer désignés par ces organismes assistent, à titre
+consultatif, aux séances du comité.
