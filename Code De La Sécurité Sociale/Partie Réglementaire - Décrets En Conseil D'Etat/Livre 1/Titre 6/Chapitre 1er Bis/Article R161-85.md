@@ -19,3 +19,5 @@ dans son champ de compétence, ainsi qu'avec les sociétés ou organismes de
 conseil intervenant dans ces secteurs. Cette déclaration est rendue publique et
 est actualisée à leur initiative dès qu'une modification intervient concernant
 ces liens ou que de nouveaux liens sont noués.
+
+Les dispositions de l'article R. 4113-110 leur sont applicables.
