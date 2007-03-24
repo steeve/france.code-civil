@@ -9,9 +9,9 @@ poisson une marque d'identification et remplir les rubriques de son carnet
 nominatif.
 
 Les pêcheurs amateurs doivent, pour chaque capture, adresser une déclaration de
-capture au Conseil supérieur de la pêche. Les pêcheurs professionnels en eau
-douce doivent adresser chaque mois le relevé des captures qu'ils ont réalisées
-au même conseil.
+capture à l'Office national de l'eau et des milieux aquatiques. Les pêcheurs
+professionnels en eau douce doivent adresser chaque mois le relevé des captures
+qu'ils ont réalisées au même conseil.
 
 Les modalités d'application du présent article sont fixées par arrêté conjoint
 du ministre chargé de la pêche en eau douce et du ministre chargé de la pêche

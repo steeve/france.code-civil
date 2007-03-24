@@ -6,6 +6,6 @@ chargé de la pêche en eau douce.
 
 Le produit de la taxe piscicole est versé trimestriellement par les fédérations
 départementales des associations agréées de pêche et de pisciculture et par les
-associations agréées de pêcheurs professionnels au Conseil supérieur de la
-pêche. Il est affecté au financement des dépenses de surveillance et de mise en
-valeur du domaine piscicole national.
+associations agréées de pêcheurs professionnels à l'Office national de l'eau et
+des milieux aquatiques. Il est affecté au financement des dépenses de
+surveillance et de mise en valeur du domaine piscicole national.

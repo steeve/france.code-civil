@@ -1,6 +1,6 @@
 Article R651-6
 ----
-I. - Une commission consultative de l'environnement et de la protection du
+I.-Une commission consultative de l'environnement et de la protection du
 patrimoine à Mayotte est placée auprès du représentant de l'Etat. Outre des
 représentants des services de l'Etat et des collectivités territoriales, elle
 comprend notamment des représentants des associations ayant pour objet la
@@ -12,11 +12,11 @@ représentant de l'Etat.
 La commission consultative peut constituer en son sein des formations
 spécialisées pour exercer les compétences définies au présent article.
 
-II. - Pour l'application des dispositions du présent code, la commission
+II.-Pour l'application des dispositions du présent code, la commission
 consultative de l'environnement et de la protection du patrimoine à Mayotte
 exerce les compétences :
 
-1° Du délégué régional du Conseil supérieur de la pêche ;
+1° Du délégué régional de l'Office national de l'eau et des milieux aquatiques ;
 
 2° De la commission technique départementale de la pêche ;
 
@@ -27,7 +27,7 @@ exerce les compétences :
 5° De la commission du milieu naturel aquatique de bassin prévue à l'article L.
 433-1.
 
-III. - Le représentant de l'Etat peut consulter la commission sur les mesures
+III.-Le représentant de l'Etat peut consulter la commission sur les mesures
 tendant à :
 
 1° Préserver et développer la faune et la flore sauvages ainsi que leurs
