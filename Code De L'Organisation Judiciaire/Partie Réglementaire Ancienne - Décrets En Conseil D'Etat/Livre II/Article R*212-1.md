@@ -10,9 +10,6 @@ contre les décisions du directeur de l'Institut national de la propriété
 industrielle en matière de délivrance, rejet ou maintien des titres de propriété
 industrielle sont fixés conformément au tableau IV bis annexé au présent code.
 
-Pour l'application de la deuxième phrase de l'article L. 420-7 du code de
-commerce, la cour d'appel de Paris est compétente.
-
 Lorsqu'une cour d'appel est créée ou lorsque le ressort d'une cour d'appel est
 modifié par suite d'une nouvelle délimitation des circonscriptions
 administratives ou judiciaires, la cour compétente primitivement saisie demeure

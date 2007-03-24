@@ -11,6 +11,5 @@ non-paiement établi en application de l'article L. 131-73.
 
 Le certificat de non-paiement fait l'objet d'une publicité par le greffier dans
 les conditions fixées par les articles L. 511-56 à L. 511-60 du code de commerce
-et les dispositions réglementaires prises pour leur application et par le décret
-n° 50-737 du 24 juin 1950 pris pour l'application de la loi n° 49-1093 du 2 août
-1949 relative à la publicité des protêts.
+et les dispositions réglementaires prises pour leur application et par les
+articles R. 511-2 à R. 511-11 du code du commerce.
