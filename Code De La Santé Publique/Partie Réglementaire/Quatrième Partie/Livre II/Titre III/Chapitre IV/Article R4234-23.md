@@ -1,7 +1,6 @@
 Article R4234-23
 ----
-L'audience est publique. Toutefois, le président de la chambre de discipline
-peut, d'office ou à la demande d'une des parties, interdire au public l'accès de
-la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public
-ou lorsque le respect de la vie privée ou du secret professionnel le justifie.
-La délibération est secrète.
+Le conseil national ne peut statuer que si la majorité des membres en exercice
+assistent à la séance. Si le quorum n'est pas atteint, le président procède à
+une nouvelle convocation. Dans ce cas, la chambre délibère et statue
+valablement, dès lors que le nombre des membres présents est au moins de cinq.

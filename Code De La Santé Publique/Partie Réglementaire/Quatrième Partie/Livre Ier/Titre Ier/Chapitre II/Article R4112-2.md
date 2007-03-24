@@ -7,9 +7,11 @@ de la demande et fait un rapport écrit.
 Le conseil vérifie les titres du candidat et demande communication du bulletin
 n° 2 du casier judiciaire de l'intéressé. Il refuse l'inscription si le
 demandeur ne remplit pas les conditions nécessaires de moralité et
-d'indépendance ou s'il est constaté, dans les conditions prévues à l'article R.
-4124-3, une infirmité ou un état pathologique incompatible avec l'exercice de la
-profession.
+d'indépendance ou s'il est constaté au vu d'un rapport d'expertise réalisée dans
+les conditions prévues à l'article R. 4124-3, une infirmité ou un état
+pathologique incompatible avec l'exercice de la profession. Cette expertise est
+ordonnée par le conseil départemental par une décision non susceptible de
+recours.
 
 Aucune décision de refus d'inscription ne peut être prise sans que l'intéressé
 ait été invité quinze jours au moins à l'avance par lettre recommandée avec

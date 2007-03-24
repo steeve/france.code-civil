@@ -8,7 +8,7 @@ trois groupes comprenant respectivement :
 
 2° Pour le troisième groupe : deux membres.
 
-Dans chacune de ses deux sections, la chambre disciplinaire de première instance
-du conseil interrégional de Provence-Alpes-Côte d'Azur-Corse comprend un
-représentant titulaire et un représentant suppléant du conseil régional de
-Corse.
+La chambre disciplinaire de première instance de l'interrégion
+Provence-Alpes-Côte d'Azur-Corse comporte deux sections de huit membres chacune.
+Chaque section comprend un représentant titulaire du conseil régional de Corse
+et son suppléant.

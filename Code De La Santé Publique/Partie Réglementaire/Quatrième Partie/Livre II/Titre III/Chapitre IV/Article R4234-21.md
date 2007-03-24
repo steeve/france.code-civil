@@ -1,8 +1,8 @@
 Article R4234-21
 ----
-Le président dirige les débats. Il donne tout d'abord la parole au rapporteur
-pour la lecture de son rapport. Il procède ensuite à l'interrogatoire de
-l'intéressé et à l'audition des témoins. Tout membre du conseil national peut
-poser des questions par son intermédiaire. Il donne la parole au plaignant,
-l'intéressé ou son défenseur parlant en dernier. Il peut la retirer à quiconque
-en abuse.
+Sauf en cas de force majeure, l'intéressé comparaît en personne ; il ne peut se
+faire représenter mais peut se faire assister par un pharmacien inscrit au
+tableau de l'ordre ou un avocat inscrit à un barreau, à l'exclusion de toute
+autre personne. Les membres d'un conseil de l'ordre ne peuvent être désignés
+comme défenseurs. Si l'intéressé ne se présente pas, le conseil apprécie
+souverainement s'il doit ou non passer outre aux débats.

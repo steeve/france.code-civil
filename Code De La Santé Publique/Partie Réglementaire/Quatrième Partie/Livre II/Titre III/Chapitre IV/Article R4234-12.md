@@ -1,7 +1,12 @@
 Article R4234-12
 ----
-Les décisions des chambres de discipline sont motivées et mentionnent les noms
-des membres présents.
+Les décisions des chambres de discipline sont motivées et contiennent le noms
+des parties, l'analyse des conclusions et mémoires ainsi que les visas des
+dispositions législatives et réglementaires dont elles font application et les
+noms des membres présents. Elles mentionnent également que l'audience a été
+publique ou, dans le cas contraire, visent l'ordonnance de huit clos. Elles font
+apparaître la date de l'audience et la date à laquelle elles ont été prononcées.
+Le dispositif des décisions est divisé en articles et précédé du mot : "décide".
 
 Les décisions sont rendues publiques. Le conseil peut décider de ne pas faire
 figurer dans les ampliations de la décision des mentions, notamment

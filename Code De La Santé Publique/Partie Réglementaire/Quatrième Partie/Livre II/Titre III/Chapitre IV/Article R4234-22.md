@@ -1,8 +1,7 @@
 Article R4234-22
 ----
-Sauf en cas de force majeure, l'intéressé comparaît en personne ; il ne peut se
-faire représenter mais peut se faire assister par un pharmacien inscrit au
-tableau de l'ordre ou un avocat inscrit à un barreau, à l'exclusion de toute
-autre personne. Les membres d'un conseil de l'ordre ne peuvent être désignés
-comme défenseurs. Si l'intéressé ne se présente pas, le conseil apprécie
-souverainement s'il doit ou non passer outre aux débats.
+L'audience est publique. Toutefois, le président de la chambre de discipline
+peut, d'office ou à la demande d'une des parties, interdire au public l'accès de
+la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public
+ou lorsque le respect de la vie privée ou du secret professionnel le justifie.
+La délibération est secrète.

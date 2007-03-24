@@ -1,4 +1,8 @@
 Article R4234-20
 ----
-Statuant disciplinairement, le conseil national est présidé par le président, ou
-à défaut, le vice-président ou à défaut le plus âgé des membres du bureau.
+Le président dirige les débats. Il donne tout d'abord la parole au rapporteur
+pour la lecture de son rapport. Il procède ensuite à l'interrogatoire de
+l'intéressé et à l'audition des témoins. Tout membre du conseil national peut
+poser des questions par son intermédiaire. Il donne la parole au plaignant,
+l'intéressé ou son défenseur parlant en dernier. Il peut la retirer à quiconque
+en abuse.

@@ -1,8 +1,6 @@
 Article R4234-27
 ----
-Les délais prévus au présent chapitre sont décomptés conformément aux
-dispositions des articles 640 à 642 du nouveau code de procédure civile.
-
-Ceux prévus aux articles R. 4234-6, R. 4234-16 et R. 4234-19, sont augmentés
-conformément à l'article 643 du nouveau code de procédure civile si le
-pharmacien exerce hors de la métropole.
+Tout membre des chambres de discipline des conseils régionaux, centraux, et du
+conseil national peut être récusé pour les motifs énumérés à l'article L. 721-1
+du code de justice administrative, dans les conditions fixées par les articles
+R. 721-1 à R. 721-9 du même code.

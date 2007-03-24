@@ -8,14 +8,15 @@ inférieur ou égal à 10 000, compris entre 10 000 et 15 000 ou supérieur à 1
 000.
 
 Dans la région Ile-de-France, le conseil régional comprend dix-neuf membres
-titulaires et dix-neuf membres suppléants, renouvelables, en deux fractions,
-l'une de six membres et l'autre de sept membres.
+titulaires et dix-neuf membres suppléants, renouvelables en trois fractions,
+dont deux de six membres et une de sept membres.
 
 Chaque conseil départemental élit un membre titulaire et un membre suppléant le
 représentant au conseil régional ou interrégional. Les sièges restants sont
 répartis par le conseil national de l'ordre compte tenu du nombre de médecins de
 la région ou de l'interrégion inscrits au tableau mentionné au premier alinéa.
 
-Les conseillers nationaux participent avec voix consultative aux délibérations
-du conseil régional dont ils sont issus, à l'exception de celles mentionnées aux
-troisième et quatrième alinéas de l'article L. 4124-11.
+Les conseillers nationaux du ressort de la région ou de l'interrégion
+participent avec voix consultative aux délibérations du conseil régional ou
+interrégional, à l'exception de celles mentionnées aux troisième et quatrième
+alinéas de l'article L. 4124-11.
