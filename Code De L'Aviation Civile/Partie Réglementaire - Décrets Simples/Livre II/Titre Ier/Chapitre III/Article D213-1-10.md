@@ -1,8 +1,8 @@
 Article D213-1-10
 ----
 Le préfet exerçant les pouvoirs de police sur l'aérodrome contrôle le respect
-des dispositions du présent chapitre par l'exploitant d'aérodrome ou l'organisme
-auquel il a confié le service.
+des dispositions de la présente section par l'exploitant d'aérodrome ou
+l'organisme auquel il a confié le service.
 
 A cette fin, celui-ci peut :
 
