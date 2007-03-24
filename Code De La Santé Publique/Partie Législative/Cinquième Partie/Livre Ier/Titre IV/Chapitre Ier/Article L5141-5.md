@@ -1,57 +1,54 @@
 Article L5141-5
 ----
-Exception faite des aliments médicamenteux, des autovaccins et des préparations
-extemporanées vétérinaires, tout médicament vétérinaire qui ne fait pas l'objet
-d'une autorisation de mise sur le marché délivrée par l'autorité compétente de
-la Communauté européenne en application du règlement (CEE) n° 2309/93 du Conseil
-du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation
-et la surveillance des médicaments à usage humain et à usage vétérinaire et
-instituant une agence européenne pour l'évaluation des médicaments doit faire
-l'objet, avant sa mise sur le marché à titre gratuit ou onéreux, d'une
-autorisation de mise sur le marché délivrée par l'Agence française de sécurité
-sanitaire des aliments. Le titulaire de l'autorisation de mise sur le marché
-doit être établi dans la Communauté européenne.
+Tout médicament vétérinaire fabriqué industriellement ou selon une méthode dans
+laquelle intervient un processus industriel qui ne fait pas l'objet d'une
+autorisation de mise sur le marché délivrée par la Communauté européenne en
+application du règlement (CE) n° 726/2004 du Parlement européen et du Conseil du
+31 mars 2004 doit faire l'objet, avant sa mise sur le marché ou sa distribution
+à titre gratuit, d'une autorisation préalable de mise sur le marché délivrée par
+l'Agence française de sécurité sanitaire des aliments. L'autorisation peut être
+assortie de conditions appropriées.
 
-L'autorisation de mise sur le marché est délivrée pour une durée de cinq ans ;
-elle est ensuite renouvelable par période quinquennale.
+Par exception au premier alinéa, ne sont pas soumis à autorisation de mise sur
+le marché les aliments médicamenteux, les autovaccins à usage vétérinaire, les
+allergènes pour un seul animal, les médicaments vétérinaires à base d'isotopes
+radioactifs, les préparations magistrales et officinales vétérinaires, les
+médicaments vétérinaires soumis aux essais de recherche et de développement, y
+compris les essais cliniques.
 
-Toutefois, les médicaments contenant des substances actives figurant à l'annexe
-III du règlement (CEE) n° 2377/90 du Conseil du 26 juin 1990 établissant une
-procédure communautaire pour la fixation de limites maximales de résidus de
-médicaments vétérinaires dans les aliments pour animaux d'origine animale ne
-sont autorisés que pour la période pour laquelle une limite a été fixée par le
-règlement ; au cas où cette période est prolongée, l'autorisation peut être
-reconduite pour une durée égale.
+Une autorisation de mise sur le marché ne peut être délivrée qu'à un demandeur
+établi dans un Etat membre de la Communauté européenne.
 
-A titre exceptionnel, lorsque le médicament, compte tenu de l'état des
-connaissances, justifie l'octroi d'une autorisation de mise sur le marché, mais
-qu'il nécessite une surveillance particulière après sa mise sur le marché,
-l'autorisation peut être soumise à un réexamen annuel et à certaines obligations
-spécifiques visant, après son obtention, à la réalisation d'études
-complémentaires ou à la notification d'effets indésirables.
+Le demandeur de l'autorisation peut être dispensé de produire certaines données
+et études dans des conditions fixées par voie réglementaire.
 
-Cette autorisation peut être assortie :
-
-1° De l'obligation de porter sur l'étiquetage et la notice des mentions utiles
-pour la protection de la santé publique ou de la santé animale, telles que des
-précautions particulières d'emploi ;
-
-2° De l'obligation d'introduire une substance de marquage dans le médicament ;
-
-3° De conditions restrictives de délivrance nécessaires à la protection de la
-santé humaine ou de la santé animale.
-
-Lorsqu'elle porte sur un prémélange médicamenteux, elle comporte les conditions
-techniques que doit respecter le fabricant des aliments médicamenteux
-correspondants, ainsi que les modalités d'emploi de ces aliments.
-
-Lorsque, du fait de la rareté des indications prévues ou du fait de l'état
-d'avancement de la science, la demande n'est pas assortie de l'ensemble des
-justifications prévues, une autorisation peut être accordée, dans des conditions
-fixées par le décret prévu au 5° de l'article L. 5141-16, sous réserve que le
-médicament soit délivré sur prescription d'un vétérinaire et administré sous la
-responsabilité de ce dernier.
+L'autorisation de mise sur le marché est initialement délivrée pour une durée de
+cinq ans. Elle peut être renouvelée, le cas échéant sans limitation de durée,
+dans des conditions fixées par décret en Conseil d'Etat, sauf si l'agence
+décide, pour des raisons justifiées ayant trait à la pharmacovigilance, de
+procéder à un renouvellement supplémentaire, sur la base d'une réévaluation des
+effets thérapeutiques du médicament vétérinaire au regard des risques tels que
+définis au 1° de l'article L. 5141-6. Ce décret détermine également les
+conditions dans lesquelles elle peut devenir caduque.
 
 Toute modification des éléments d'une autorisation de mise sur le marché
-délivrée par l'Agence française de sécurité sanitaire des aliments, doit être
+délivrée par l'Agence française de sécurité sanitaire des aliments doit être
 préalablement autorisée.
+
+L'accomplissement des formalités prévues au présent article n'a pas pour effet
+d'exonérer le fabricant et, s'il est distinct, le titulaire de l'autorisation de
+mise sur le marché, de la responsabilité que l'un ou l'autre peut encourir dans
+les conditions du droit commun en raison de la fabrication ou de la mise sur le
+marché du médicament vétérinaire.
+
+L'agence rend publics sans délai un rapport de synthèse de l'évaluation
+effectuée pour tout nouveau médicament vétérinaire dans des conditions
+déterminées par voie réglementaire, ainsi que les décisions d'octroi, de
+suspension et de retrait de l'autorisation de mise sur le marché mentionnées aux
+articles L. 5141-5 et L. 5141-6. Elle rend également publics sans délai l'ordre
+du jour et les comptes rendus, assortis des détails et explications des votes, y
+compris les opinions minoritaires, à l'exclusion de toute information présentant
+un caractère de confidentialité commerciale, des réunions des commissions
+siégeant auprès d'elle et consultées en matière de mise sur le marché des
+médicaments vétérinaires et de pharmacovigilance vétérinaire, son règlement
+intérieur et celui de ces commissions.

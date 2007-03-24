@@ -20,8 +20,15 @@ autorisé pour des animaux d'une autre espèce dans une indication thérapeutiqu
 différente ou un aliment médicamenteux fabriqué à partir d'un prémélange
 médicamenteux autorisé répondant aux mêmes conditions ;
 
-3° Si les médicaments mentionnés aux 1° et 2° n'existent pas, un médicament
-autorisé pour l'usage humain ;
+3° Si les médicaments mentionnés aux 1° et 2° n'existent pas :
+
+a) Soit un médicament autorisé pour l'usage humain ;
+
+b) Soit un médicament vétérinaire autorisé dans un autre Etat membre en vertu de
+la directive 2001/82/CE du Parlement européen et du Conseil instituant un code
+communautaire relatif aux médicaments vétérinaires, pour la même espèce ou pour
+une autre espèce, pour l'affection concernée ou pour une affection différente,
+sans préjudice de l'autorisation mentionnée à l'article L. 5142-7 ;
 
 4° A défaut des médicaments mentionnés aux 1°, 2° et 3°, une préparation
 magistrale vétérinaire.
@@ -36,10 +43,33 @@ les substances à action pharmacologique qu'il contient doivent être au nombre 
 celles qui figurent dans l'une des annexes I, II et III du règlement (CEE) n°
 2377/90 du Conseil du 26 juin 1990 établissant une procédure communautaire pour
 la fixation des limites maximales de résidus de médicaments vétérinaires dans
-les aliments d'origine animale. Le vétérinaire fixe le temps d'attente
+les aliments d'origine animale. Si le médicament utilisé n'indique aucun temps
+d'attente pour les espèces concernées, le vétérinaire fixe le temps d'attente
 applicable qui ne peut être inférieur au minimum fixé pour la denrée animale
-considérée, par arrêté des ministres chargés de l'agriculture et de la santé
-après avis de l'Agence française de sécurité sanitaire des aliments ; on entend
-par temps d'attente le délai à observer entre la dernière administration du
-médicament à l'animal dans les conditions normales d'emploi et l'obtention des
-denrées alimentaires provenant de cet animal.
+considérée, par arrêté des ministres chargés de l'agriculture et de la santé,
+après avis de l'Agence française de sécurité sanitaire des aliments.
+
+Le précédent alinéa ne s'applique pas aux équidés identifiés conformément à
+l'article L. 212-9 du code rural et déclarés comme n'étant pas destinés à
+l'abattage pour la consommation humaine. En outre, par exception au même alinéa,
+le vétérinaire peut prescrire et administrer à un équidé identifié conformément
+à l'article L. 212-9 du code rural et déclaré comme étant destiné à l'abattage
+pour la consommation humaine un médicament contenant des substances à action
+pharmacologique ne figurant dans aucune des annexes I, II, III ou IV du
+règlement CEE n° 2377/90 du Conseil si les conditions suivantes sont respectées
+:
+
+a) Les substances à action pharmacologique qu'il contient sont inscrites sur la
+liste fixée par le règlement (CE) n° 1950/2006 de la Commission du 13 décembre
+2006 établissant, conformément à la directive 2001/82/CE du Parlement européen
+et du Conseil instituant un code communautaire relatif aux médicaments
+vétérinaires, une liste de substances essentielles pour le traitement des
+équidés ;
+
+b) Le vétérinaire prescrit et administre les médicaments contenant ces
+substances pour les indications prévues par ce règlement et consigne ce
+traitement dans le document d'identification obligatoire ;
+
+c) Le vétérinaire fixe un temps d'attente qui ne peut être inférieur à une durée
+fixée par arrêté des ministres chargés de l'agriculture et de la santé, après
+avis de l'Agence française de sécurité sanitaire des aliments.

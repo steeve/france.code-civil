@@ -23,3 +23,6 @@ arrêtées selon les mêmes modalités.
 
 Les autorisations prévues aux premier et deuxième alinéas sont délivrées pour
 une durée de cinq ans. Elles sont renouvelables.
+
+Cet article ne s'applique pas aux éléments et produits du corps humain
+mentionnés à l'article L. 1211-8.

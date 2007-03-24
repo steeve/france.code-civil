@@ -11,12 +11,16 @@ a) Matières virulentes et produits d'origine microbienne destinés au diagnosti
 b) Substances d'origine organique destinées aux mêmes fins à l'exception de
 celles qui ne renferment que des principes chimiquement connus ;
 
-c) OEstrogènes ;
+c) Substances à activité anabolisante, anticatabolisante ou bêta-agoniste ;
 
 d) Substances vénéneuses ;
 
-e) Produits susceptibles de demeurer à l'état de résidus toxiques ou dangereux
-dans les denrées alimentaires d'origine animale ;
+e) Substances pharmacologiquement actives susceptibles de demeurer à l'état de
+résidus toxiques ou dangereux dans les denrées alimentaires d'origine animale et
+figurant dans l'une des annexes I ou III du règlement du Conseil (CEE) n°
+2377/90 du 26 juin 1990 établissant une procédure communautaire pour la fixation
+des limites maximales de résidus de médicaments vétérinaires dans les aliments
+d'origine animale ;
 
 f) Produits dont les effets sont susceptibles d'être à l'origine d'une
 contravention à la législation sur les fraudes ;

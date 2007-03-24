@@ -6,9 +6,13 @@ préparations de thérapie cellulaire xénogénique mentionnées au 12° et au 1
 l'article L. 5121-1 sont soumises à une autorisation préalable délivrée par
 l'Agence française de sécurité sanitaire des produits de santé.
 
-L'autorisation de mise sur le marché prévue à l'article L. 5121-8,
-l'enregistrement prévu à l'article L. 5121-13 ou l'autorisation prévue au 12° et
-au 13° de l'article L. 5121-1 valent autorisation au sens de l'alinéa précédent.
+L'autorisation de mise sur le marché prévue à l'article L. 5121-8, les
+enregistrements prévus aux articles L. 5121-13 et L. 5121-14-1, l'autorisation
+temporaire d'utilisation prévue à l'article L. 5121-12 ou l'autorisation prévue
+au 12° et au 13° de l'article L. 5121-1 valent autorisation au sens de l'alinéa
+précédent. L'autorisation prévue à l'article L. 1123-8 vaut autorisation
+d'importation pour tout médicament nécessaire à la réalisation de la recherche
+biomédicale autorisée.
 
 Une telle autorisation n'est pas requise pour le particulier qui transporte
 personnellement un médicament.
