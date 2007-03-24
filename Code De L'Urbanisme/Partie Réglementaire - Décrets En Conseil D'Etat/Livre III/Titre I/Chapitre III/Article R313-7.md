@@ -1,15 +1,18 @@
 Article R313-7
 ----
-Le projet de plan élaboré dans les conditions prévues aux articles précédents
-est soumis par le préfet pour délibération au conseil municipal de la commune
-intéressée ou, s'il existe un établissement public groupant plusieurs communes
-et ayant compétence en la matière, à l'organe délibérant de cet établissement.
-Cette délibération est réputée favorable si elle n'est pas intervenue dans un
-délai de trois mois. Si le conseil municipal ou l'organe délibérant entend faire
-connaître son opposition, celle-ci doit être expressément formulée dans la
-délibération.
+La procédure d'élaboration du plan de sauvegarde et de mise en valeur est
+conduite conjointement par le préfet et par le maire ou le président de
+l'établissement public de coopération intercommunale compétent.
 
-Après avoir été soumis à l'avis de la commission nationale des secteurs
-sauvegardés, le plan est rendu public par arrêté du préfet. Toutefois, le
-ministre chargé de l'urbanisme et le ministre chargé de l'architecture peuvent
-décider d'évoquer l'affaire pour prendre cette décision.
+Le préfet désigne, en accord avec le maire ou le président de l'établissement
+public de coopération intercommunale compétent, l'architecte chargé de concevoir
+un plan de sauvegarde et de mise en valeur.
+
+Il définit dans les mêmes conditions les modalités de la concertation prévue à
+l'article L. 300-2. Le bilan de cette concertation est présenté devant le
+conseil municipal ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent, qui en délibère.
+
+La commission locale du secteur sauvegardé prévue à l'article R. 313-20 est
+consultée à l'initiative du préfet ou du maire ou président de l'établissement
+public de coopération intercommunale compétent.

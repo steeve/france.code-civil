@@ -1,32 +1,42 @@
 Article R313-20
 ----
-La modification d'un plan de sauvegarde et de mise en valeur par application de
-l'article L. 313-1 (alinéa 4) a lieu suivant les modalités ci-après définies.
+A compter de la publication de l'acte qui crée le secteur sauvegardé, il est
+institué une commission locale du secteur sauvegardé, présidée par le maire ou
+le président de l'établissement public de coopération intercommunale compétent.
+Celui-ci peut déléguer la présidence de la commission au maire de la commune
+intéressée. En cas d'empêchement du maire ou du président de l'établissement
+public de coopération intercommunale, la présidence est assurée par le préfet ou
+son représentant.
 
-L'initiative de la modification appartient concurremment au préfet et au maire
-ou, s'il existe un établissement public groupant plusieurs communes et ayant
-compétence en matière d'urbanisme, au président de cet établissement.
+Lorsqu'une commune comporte plusieurs secteurs sauvegardés, il peut n'être
+institué, en accord avec le maire ou le président de l'établissement public de
+coopération intercommunale compétent, qu'une seule commission locale pour
+l'ensemble de ces secteurs.
 
-Après avis de la commission locale du secteur sauvegardé et consultation des
-services publics non représentés au sein de cette commission, dans la mesure où
-ils sont concernés, le projet de modification est soumis à enquête publique
-selon les modalités définies par les chapitres I et II du décret n° 85-453 du 23
-avril 1985, puis à une délibération prise par le conseil municipal ou, s'il
-existe un établissement public groupant plusieurs communes et ayant compétence
-en matière d'urbanisme, par l'organe délibérant de cet établissement. La
-délibération est réputée favorable [*silence*] si elle n'intervient pas dans le
-délai de trois mois.
+La liste des membres de cette commission est arrêtée par le préfet. Outre son
+président et le préfet ou son représentant, elle comprend :
 
-La commission nationale des secteurs sauvegardés émet un avis sur le projet de
-modification dans le délai de deux mois à compter de la réception du dossier. A
-défaut de réponse dans ce délai, elle est réputée favorable.
+1° Un tiers de représentants élus par le conseil municipal en son sein ou, le
+cas échéant, élus en son sein par l'organe délibérant de l'établissement public
+de coopération intercommunale compétent ; dans ce cas, deux au moins des
+représentants ainsi élus doivent appartenir au conseil municipal de la commune
+intéressée par le secteur sauvegardé ; pour chacun des membres représentants les
+collectivités territoriales, un suppléant est désigné dans les mêmes conditions
+;
 
-La modification est approuvée par arrêté conjoint du ministre chargé de
-l'architecture et du ministre chargé de l'urbanisme en l'absence d'opposition du
-conseil municipal ou de l'organe délibérant de l'établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme ou par arrêté des
-mêmes ministres et du ministre de l'intérieur en cas d'opposition du conseil
-municipal ou de l'organe délibérant de l'établissement public.
+2° Un tiers de représentants de l'Etat désignés par le préfet ;
 
-L'acte modifiant le plan fait l'objet des mesures de publicité mentionnées à
-l'article R. 313-10.
+3° Un tiers de personnes qualifiées désignées conjointement par le préfet et par
+le maire ou le président de l'établissement public de coopération intercommunale
+compétent.
+
+Le mandat des membres de la commission locale prend fin à chaque renouvellement
+du conseil municipal de la ou des communes intéressées.
+
+Toute vacance ou perte de la qualité au titre de laquelle les membres de la
+commission ont été désignés donne lieu à remplacement pour la durée du mandat
+restant à courir, si elle survient plus de trois mois avant le terme normal de
+celui-ci.
+
+La commission locale approuve un règlement qui fixe ses conditions de
+fonctionnement.

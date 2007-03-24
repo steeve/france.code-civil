@@ -1,21 +1,14 @@
 Article R313-9
 ----
-Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir
-compte des avis émis en application de l'article précédent, accompagné des avis
-émis en application de l'article précédent et des résultats de l'enquête, est
-soumis à la commission nationale des secteurs sauvegardés. Pour les immeubles ou
-ensembles urbains protégés au titre de la loi du 2 mai 1930 sur les sites et
-compris dans les limites du secteur sauvegardé la consultation de cette
-commission se substitue aux consultations des commissions départementales et
-supérieure des sites.
+Conformément à l'article L. 112-1 du code rural, le préfet et le maire ou
+président de l'établissement public de coopération intercommunale compétent
+consultent, lors de l'élaboration du plan de sauvegarde et de mise en valeur, le
+document de gestion de l'espace agricole et forestier, lorsqu'il existe.
 
-A la demande du ministre chargé de l'architecture, la commission supérieure des
-monuments historiques ou sa délégation permanente peut être consultée sur les
-dispositions du plan de sauvegarde et de mise en valeur touchant les immeubles
-protégés au titre de la loi du 31 décembre 1913 et compris dans les limites d'un
-secteur sauvegardé.
-
-Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir
-compte des avis émis, est approuvé par décret en Conseil d'Etat sur le rapport
-conjoint du ministre chargé de l'architecture, du ministre chargé de l'urbanisme
-et du ministre de l'intérieur *autorité compétente*.
+Conformément à l'article L. 112-3 du code rural, le projet de plan de sauvegarde
+et de mise en valeur, lorsqu'il prévoit une réduction des espaces agricoles ou
+forestiers, est soumis pour avis à la chambre d'agriculture et, le cas échéant,
+à l'Institut national de l'origine et de la qualité dans les zones d'appellation
+d'origine contrôlée et au centre régional de la propriété forestière. Ces avis
+sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de
+réponse à l'issue de ce délai, l'avis est réputé favorable.

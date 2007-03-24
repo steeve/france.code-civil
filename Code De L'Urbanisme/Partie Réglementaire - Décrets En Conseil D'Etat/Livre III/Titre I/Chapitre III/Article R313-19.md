@@ -1,5 +1,6 @@
 Article R313-19
 ----
-Le plan de sauvegarde et de mise en valeur rendu public remplace tout projet
-d'aménagement, tout plan d'urbanisme ou tout plan local d'urbanisme déjà
-existant et en tient lieu pour l'avenir.
+Outre les attributions qui lui sont conférées par la présente section, la
+commission nationale des secteurs sauvegardés délibère sur toutes les questions
+relatives à l'application des articles L. 313-1 à L. 313-15 dont elle est saisie
+par le ministre chargé du patrimoine ou par le ministre chargé de l'urbanisme.

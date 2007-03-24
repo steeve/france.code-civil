@@ -1,16 +1,11 @@
 Article R*313-8
 ----
-Le plan rendu public est soumis par le préfet à enquête dans les formes prévues
-par les articles R. 123-1 à R. 123-23 du code de l'environnement.
+Les présidents des organes délibérants des collectivités publiques, des
+établissements publics, des organismes associés et des associations agréées
+ainsi que les maires, mentionnés aux deux premiers alinéas de l'article L.
+123-8, ou leurs représentants, sont consultés par le préfet et le maire ou le
+président de l'établissement public de coopération intercommunale compétent, à
+chaque fois qu'ils le demandent, pendant la durée de l'élaboration du plan.
 
-Le préfet peut, par un même arrêté, rendre public le plan, prescrire l'enquête
-publique prévue au précédent alinéa et, s'il y a lieu, prescrire l'enquête en
-vue de la déclaration d'utilité publique des opérations ou acquisitions prévues
-à ce plan ou de certaines d'entre elles. Dans ce cas, le commissaire enquêteur
-ou la commission d'enquête est saisi de l'ensemble des procédures.
-
-Au vu des résultats de l'enquête et après avis de la commission locale du
-secteur sauvegardé, le plan est soumis par le préfet au conseil municipal ou à
-l'organe délibérant de l'établissement public compétent en la matière qui doit
-se prononcer dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les
-documents qui lui sont présentés.
+Le préfet et le maire ou le président de l'établissement public de coopération
+intercommunale compétent peuvent, en outre, entendre toute personne qualifiée.
