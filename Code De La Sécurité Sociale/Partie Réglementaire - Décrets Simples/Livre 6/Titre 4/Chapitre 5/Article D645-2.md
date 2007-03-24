@@ -9,9 +9,7 @@ fixé ainsi qu'il suit :
 omnipraticien fixé dans les conditions prévues aux articles L. 162-5 et L.
 162-5-2 ;
 
-2°) pour les chirurgiens-dentistes, à cinquante fois la valeur, au 1er janvier
-de l'année en cause, du tarif conventionnel de la lettre-clé C fixé dans les
-conditions prévues par l'article L. 162-9 ;
+2°) Paragraphe abrogé
 
 3°) pour les sages-femmes, à 1,5 fois la valeur au 1er janvier de l'année en
 cause du tarif conventionnel du forfait d'accouchement simple fixé dans les
