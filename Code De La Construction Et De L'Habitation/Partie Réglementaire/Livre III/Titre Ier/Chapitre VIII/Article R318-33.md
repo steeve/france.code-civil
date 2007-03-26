@@ -3,91 +3,42 @@ Article R318-33
 La durée mentionnée à l'article R. 318-15 est définie par le tableau suivant :
 
 
-REVENU FISCAL DE RÉFÉRENCE
-
-Moins de 12 641 euros
-
+REVENU fiscal de référence
 
 DURÉE DE LA PÉRIODE 1
 
 Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
 I de l'article 244 quater J du code général des impôts
-
-18 ans
 
 Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
 l'article 244 quater J du code général des impôts
 
-18 ans
-
-
-REVENU FISCAL DE RÉFÉRENCE
-
-De 12 641 à 15 800 euros
-
-
-DURÉE DE LA PÉRIODE 1
-
-Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
-I de l'article 244 quater J du code général des impôts
+Moins de 15 801 €
 
 18 ans
 
-Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
-l'article 244 quater J du code général des impôts
+18 ans
+
+De 15 801 € à 19 750 €
 
 18 ans
 
+18 ans
 
-REVENU FISCAL DE RÉFÉRENCE
-
-De 15 801 à 18 950 euros
-
-
-DURÉE DE LA PÉRIODE 1
-
-Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
-I de l'article 244 quater J du code général des impôts
+De 19 751 € à 23 688 €
 
 15 ans
 
-Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
-l'article 244 quater J du code général des impôts
-
 15 ans
 
-
-REVENU FISCAL DE RÉFÉRENCE
-
-De 18 951 à 25 270 euros
-
-
-DURÉE DE LA PÉRIODE 1
-
-Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
-I de l'article 244 quater J du code général des impôts
+De 23 689 € à 31 588 €
 
 8 ans
 
-Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
-l'article 244 quater J du code général des impôts
-
 12 ans
 
-
-REVENU FISCAL DE RÉFÉRENCE
-
-25 271 euros et plus
-
-
-DURÉE DE LA PÉRIODE 1
-
-Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
-I de l'article 244 quater J du code général des impôts
+31 589 € et plus
 
 6 ans
-
-Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
-l'article 244 quater J du code général des impôts
 
 9 ans

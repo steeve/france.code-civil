@@ -2,79 +2,39 @@ Article R318-29
 ----
 Les plafonds visés à l'article R. 318-4 sont définis par le tableau suivant :
 
-(En euros)
 
+NOMBRE DE PERSONNES destinées à occuper le logement
 
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
+ZONE A (en euros)
 
-1
+ZONES B ET C (en euros)
 
+1 personne
 
-ZONE A
+31 250
 
-25 000
+23 688
 
+2 personnes
 
-ZONES B ET C
+43 750
 
-18 950
+31 588
 
+3 personnes
 
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
+50 000
 
-2
+36 538
 
+4 personnes
 
-ZONE A
+56 875
 
-35 000
+40 488
 
+5 personnes et plus
 
-ZONES B ET C
+64 875
 
-25 270
-
-
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
-
-3
-
-
-ZONE A
-
-40 000
-
-
-ZONES B ET C
-
-29 230
-
-
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
-
-4
-
-
-ZONE A
-
-45 500
-
-
-ZONES B ET C
-
-32 390
-
-
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
-
-5 et plus
-
-
-ZONE A
-
-51 900
-
-
-ZONES B ET C
-
-35 540
+44 425

@@ -1,171 +1,93 @@
 Article R318-31
 ----
-1° Le seuil mentionné au III de l'article R. 318-10-1 est défini par le tableau
+1° Le seuil mentionné au b de l'article R. 318-10-1 est défini par le tableau
 suivant :
-
-(En euros)
 
 
 NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
+
+ZONE A
+
+
+ZONES B ET C
 
 3 et moins
 
-
-ZONE A
-
 4 000
-
-
-ZONES B ET C
 
 3 000
 
-
-NOMBRE DE PERSONNES DESTINÉES À OCCUPER LE LOGEMENT
-
 4 et plus
-
-
-ZONE A
 
 5 000
 
-
-ZONES B ET C
-
 4 000
 
-2° Les plafonds visés au IV de l'article R. 318-10-1 sont définis par le tableau
+2° Les plafonds visés au c de l'article R. 318-10-1 sont définis par le tableau
 suivant :
 
-(En euros)
 
+NOMBRE de personnes destinées à occuper le logement
 
-NOMBRE DE PERSONNES destinées à occuper le logement
+PARIS et communes limitrophes(en euros)
 
-1
+RESTE de l'Ile-de-France(en euros)
 
+AUTRES régions(en euros)
 
-PARIS et communes limitrophes
+1 personne
 
-18 463
+23 079
 
-RESTE de l'Ile-de-France
+23 079
 
-18 463
+20 065
 
+2 personnes
 
-AUTRES RÉGIONS
+34 491
 
-16 052
+34 491
 
+26 794
 
-NOMBRE DE PERSONNES destinées à occuper le logement
+3 personnes
 
-2
+45 215
 
+41 461
 
-PARIS et communes limitrophes
+32 223
 
-27 593
+4 personnes
 
-RESTE de l'Ile-de-France
+53 984
 
-27 593
+49 663
 
+38 899
 
-AUTRES RÉGIONS
+5 personnes
 
-21 435
+64 228
 
+58 791
 
-NOMBRE DE PERSONNES destinées à occuper le logement
+45 760
 
-3
+6 personnes
 
+72 274
 
-PARIS et communes limitrophes
+66 158
 
-36 172
+51 570
 
-RESTE de l'Ile-de-France
-
-33 169
-
-
-AUTRES RÉGIONS
-
-25 778
-
-
-NOMBRE DE PERSONNES destinées à occuper le logement
-
-4
-
-
-PARIS et communes limitrophes
-
-43 187
-
-RESTE de l'Ile-de-France
-
-39 730
-
-
-AUTRES RÉGIONS
-
-31 119
-
-
-NOMBRE DE PERSONNES destinées à occuper le logement
-
-5
-
-
-PARIS et communes limitrophes
-
-51 382
-
-RESTE de l'Ile-de-France
-
-47 033
-
-
-AUTRES RÉGIONS
-
-36 608
-
-
-NOMBRE DE PERSONNES destinées à occuper le logement
-
-6
-
-
-PARIS et communes limitrophes
-
-57 819
-
-RESTE de l'Ile-de-France
-
-52 926 AUTRES RÉGIONS
-
-41 256
-
-
-NOMBRE DE PERSONNES destinées à occuper le logement
 
 Par personne supplémentaire
 
+8 053
 
-PARIS et communes limitrophes
+7 371
 
-6 442
-
-RESTE de l'Ile-de-France
-
-5 897
-
-
-AUTRES RÉGIONS
-
-4 602
+5 753
