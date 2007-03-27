@@ -1,8 +1,10 @@
 Article 465
 ----
-I. - La méconnaissance des obligations déclaratives énoncées à l'article 464 est
-punie d'une amende égale au quart de la somme sur laquelle a porté l'infraction
-ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article 464 et
+dans le règlement (CE) n° 1889/2005 du Parlement européen et du Conseil du 26
+octobre 2005 relatif aux contrôles de l'argent liquide entrant ou sortant de la
+Communauté est punie d'une amende égale au quart de la somme sur laquelle a
+porté l'infraction ou la tentative d'infraction.
 
 II. - En cas de constatation de l'infraction mentionnée au I par les agents des
 douanes, ceux-ci consignent la totalité de la somme sur laquelle a porté
@@ -29,5 +31,5 @@ III. - La recherche, la constatation et la poursuite des infractions mentionnée
 au I sont effectuées dans les conditions fixées par le présent code.
 
 Dans le cas où l'amende prévue au I est infligée, la majoration de 40 %
-mentionnée au premier alinéa de l'article 1758 du code général des impôts n'est
+mentionnée au premier alinéa de l'article 1759 du code général des impôts n'est
 pas appliquée.
