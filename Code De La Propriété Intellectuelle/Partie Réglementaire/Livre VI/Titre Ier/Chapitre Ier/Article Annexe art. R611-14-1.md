@@ -158,7 +158,7 @@ avril 1988 modifié.
 
 - Professeurs, maîtres-assistants et assistants des écoles nationales
 supérieures des mines et des écoles nationales supérieures des techniques
-industrielles et des mines régis par le décret n° 69-444 du 14 mai 1969 modifié.
+industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des
 mines et dans les écoles nationales supérieures des techniques industrielles et
