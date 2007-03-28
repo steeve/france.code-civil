@@ -14,5 +14,4 @@ de l'Etat dans le département entend l'intéressé au plus tard dans un délai 
 trois jours suivant la décision de suspension.
 
 Le deuxième alinéa du présent article n'est pas applicable aux infirmiers et
-infirmières qui relèvent des dispositions de la loi n° 2005-270 du 24 mars 2005
-portant statut général des militaires.
+infirmières qui relèvent des dispositions de la partie 4 du code de la défense.

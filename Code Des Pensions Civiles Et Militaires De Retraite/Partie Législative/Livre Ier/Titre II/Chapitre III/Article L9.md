@@ -19,9 +19,9 @@ Les modalités de prise en compte de ces périodes d'interruption ou de réducti
 d'activité prévues par les articles 37 bis, 54 et 40 bis de la loi n° 84-16 du
 11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre
 1985 relatif au régime particulier de certaines positions des fonctionnaires de
-l'Etat et à certaines modalités de cessation définitive de fonctions et par la
-loi n° 2005-270 du 24 mars 2005 portant statut général des militaires sont
-précisées par décret en Conseil d'Etat ;
+l'Etat et à certaines modalités de cessation définitive de fonctions et par le
+livre Ier de la partie IV du code de la défense sont précisées par décret en
+Conseil d'Etat ;
 
 2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil
 d'Etat.
