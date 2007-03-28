@@ -48,15 +48,13 @@ niveau national ;
 d'agriculture, des chambres françaises de commerce et d'industrie et des
 chambres de métiers et de l'artisanat ;
 
-5° Trois représentants élus des régions, dont le président du comité de
-coordination des programmes régionaux de formation professionnelle et
-d'apprentissage et deux autres désignés sur proposition de l'Association des
-régions de France.
+5° Trois représentants élus des régions, désignés sur proposition de
+l'Association des régions de France.
 
 Participent également aux travaux de la commission en tant que personnalités
 qualifiées, avec voix consultative :
 
-1° Un rapporteur général ;
+1° Un rapporteur général et deux rapporteurs adjoints ;
 
 2° Deux personnalités désignées sur proposition d'organisations intéressées à la
 formation professionnelle ;
@@ -78,7 +76,10 @@ professions ;
 9° Un représentant de l'Union des confédérations de l'industrie et des
 employeurs d'Europe ;
 
-10° Un représentant de la Confédération européenne des syndicats.
+10° Un représentant de la Confédération européenne des syndicats ;
+
+11° Le président du Conseil national de la formation professionnelle tout au
+long de la vie.
 
 Chacun des membres de la commission dispose d'un suppléant.
 

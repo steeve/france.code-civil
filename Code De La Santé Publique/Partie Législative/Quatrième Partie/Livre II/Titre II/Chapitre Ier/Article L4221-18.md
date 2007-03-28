@@ -38,5 +38,4 @@ Les modalités d'application du présent article sont définies par décret en
 Conseil d'Etat.
 
 Le présent article n'est pas applicable aux pharmaciens qui relèvent des
-dispositions de la loi n° 2005-270 du 24 mars 2005 portant statut général des
-militaires.
+dispositions de la partie 4 du code de la défense.
