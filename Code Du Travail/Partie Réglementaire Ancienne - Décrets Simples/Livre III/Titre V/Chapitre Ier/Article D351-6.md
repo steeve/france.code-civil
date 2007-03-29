@@ -1,14 +1,21 @@
 Article D351-6
 ----
-La condition de contrôle [*de l'entreprise par le salarié*] mentionnée à
-l'alinéa 2 de l'article L. 351-22 est satisfaite si le ou les salariés
-involontairement privés d'emploi détiennent, individuellement ou collectivement,
-au minimum la moitié du capital lorsque l'entreprise est sous forme sociale
-[*preuve*].
+Bénéficient de l'allocation de fin de droits mentionnée à l'article D. 351-4 les
+travailleurs involontairement privés d'emploi mentionnés à l'article L. 351-13-1
+qui :
 
-Cette condition est également remplie si le salarié privé d'emploi exerce dans
-la société une fonction de dirigeant, tout en détenant au moins un tiers du
-capital de celle-ci.
+1° Ont épuisé leurs droits à l'allocation d'assurance mentionnée à l'article L.
+351-14 ou à l'allocation de professionnalisation et de solidarité ;
 
-Les parts de capital acquises par le conjoint, les ascendants ou les descendants
-sont prises en compte pour l'examen de la condition de contrôle.
+2° Ne satisfont pas à nouveau aux conditions d'attribution de l'allocation
+d'assurance mentionnée à l'article L. 351-3 ou de l'allocation de
+professionnalisation et de solidarité ;
+
+3° Justifient de 507 heures de travail selon les règles définies aux cinq
+premiers alinéas de l'article D. 351-5 au cours des douze mois précédant la fin
+de contrat de travail immédiatement antérieure à la demande d'allocation de fin
+de droits.
+
+La demande en paiement de l'allocation de fin de droits est déposée auprès des
+organismes mentionnés à l'article L. 351-21 dans un délai de deux mois suivant
+la fin de contrat de travail prise en considération pour l'ouverture des droits.
