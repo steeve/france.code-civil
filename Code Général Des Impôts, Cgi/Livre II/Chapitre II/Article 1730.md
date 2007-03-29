@@ -28,10 +28,10 @@ première quinzaine de novembre, la majoration prévue au 1 s'applique aux somme
 non versées le 30 décembre au plus tard.
 
 4. La majoration prévue au 1 s'applique au contribuable qui s'est dispensé du
-second acompte dans les conditions prévues au 4° de l'article 1664 ou du
-paiement de la totalité de l'acompte dans les conditions prévues au quatrième
-alinéa de l'article 1679 quinquies lorsqu'à la suite de la mise en recouvrement
-du rôle les versements effectués sont inexacts de plus du dixième.
+second acompte dans les conditions prévues au 4 de l'article 1664 ou du paiement
+de la totalité de l'acompte dans les conditions prévues au quatrième alinéa de
+l'article 1679 quinquies lorsqu'à la suite de la mise en recouvrement du rôle
+les versements effectués sont inexacts de plus du dixième.
 
 Toutefois, aucune majoration n'est appliquée lorsque la différence constatée
 résulte d'une loi intervenue postérieurement à la date du dépôt de la

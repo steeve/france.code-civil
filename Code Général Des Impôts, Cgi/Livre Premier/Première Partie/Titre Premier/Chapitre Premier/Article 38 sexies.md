@@ -8,5 +8,5 @@ l'objet d'un report d'imposition jusqu'à la date de cession, de transmission ou
 d'apport des parts ainsi attribuées ou jusqu'à la date de cessation d'activité
 si celle-ci est antérieure.
 
-Un décret précise les obligations déclaratives nécessaires à l'application de
-l'alinéa précédent.
+Un décret précise les obligations déclaratives nécessaires à l'application du
+premier alinéa.

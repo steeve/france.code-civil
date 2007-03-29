@@ -96,7 +96,7 @@ Toutefois, sur demande du contribuable qui, dans le cadre de l'activité ayant
 ouvert droit à réduction, participe à l'exploitation au sens des dispositions du
 1° bis du I de l'article 156, la fraction non utilisée peut être remboursée à
 compter de la troisième année, dans la limite de 40 % du crédit d'impôt et d'un
-montant d'investissement de 1 525 000 Euros.
+montant d'investissement de 1 525 000 euros.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa
 durée normale d'utilisation si elle est inférieure, l'investissement ayant
@@ -137,7 +137,7 @@ I de l'article 217 undecies sont remplies et si 60 % de la réduction d'impôt
 sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du
 prix de cession du bien à l'exploitant. Ce taux est ramené à 50 % pour les
 investissements dont le montant par programme et par exercice est inférieur à
-300 000 Euros par exploitant. Si, dans le délai de cinq ans de la mise à
+300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
 disposition du bien loué ou pendant sa durée normale d'utilisation si elle est
 inférieure, l'une des conditions visées au présent alinéa cesse d'être
 respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de
@@ -149,9 +149,9 @@ I bis. - 1. En cas de location, dans les conditions mentionnées au dernier
 alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
 classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant
 droit au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions
-du deuxième alinéa de l'article 39 C et, pour la partie de déficit provenant des
-travaux bénéficiant des dispositions du dix-huitième alinéa du I, les
-dispositions du 1° bis du I de l'article 156 ne sont pas applicables.
+du II de l'article 39 C et, pour la partie de déficit provenant des travaux
+bénéficiant des dispositions du dix-huitième alinéa du I, les dispositions du 1°
+bis du I de l'article 156 ne sont pas applicables.
 
 2. Les dispositions du 1 sont applicables sur agrément préalable du ministre
 chargé du budget dans les conditions prévues aux 1 et 2 du III de l'article 217
@@ -177,7 +177,7 @@ Les dispositions du premier alinéa sont également applicables aux
 investissements mentionnés au I et dont le montant total par programme et par
 exercice est supérieur à 300 000 euros, lorsque le contribuable ne participe pas
 à l'exploitation au sens des dispositions du 1° bis du I de l'article 156. Le
-seuil de 300 000 Euros s'apprécie au niveau de l'entreprise, société ou
+seuil de 300 000 euros s'apprécie au niveau de l'entreprise, société ou
 groupement qui inscrit l'investissement à l'actif de son bilan ou qui en est
 locataire lorsqu'il est pris en crédit-bail auprès d'un établissement financier.
 
