@@ -1,9 +1,9 @@
 Article 46 AS
 ----
-I. - Pour ouvrir droit au crédit d'impôt prévu au I de l'article 200 quinquies
-du code général des impôts, les véhicules sur lesquels sont effectuées les
-dépenses de transformation destinées à permettre leur fonctionnement au moyen du
-gaz de pétrole liquéfié sont ceux :
+I. - Pour ouvrir droit au crédit d'impôt prévu au 2 du I de l'article 200
+quinquies du code général des impôts, les véhicules pour lesquels sont
+effectuées les dépenses de transformation destinées à permettre leur
+fonctionnement au moyen du gaz de pétrole liquéfié sont ceux :
 
 a) Pour lesquels le délai entre la date de première mise en circulation figurant
 sur le certificat d'immatriculation et la date de la facturation desdites
@@ -15,13 +15,12 @@ certificat d'immatriculation et d'une assurance en cours de validité ;
 c) Qui ne sont pas déclarés économiquement irréparables au sens des articles L.
 327-1 et L. 327-2 du code de la route.
 
-II. - Les opérations de la transformation doivent être effectuées par un
-opérateur agréé conformément aux dispositions de l'article 8 de l'arrêté du 15
-janvier 1985 modifié relatif à l'équipement des véhicules automobiles utilisant
-comme source d'énergie les gaz de pétrole liquéfiés.
+II. - Le professionnel habilité à effectuer les travaux de transformation
+s'entend de l'" installateur GPL " défini à l'article 1er de l'arrêté du 4 août
+1999, modifié en dernier lieu par l'arrêté du 10 novembre 2004, relatif à la
+réglementation des installations de gaz de pétrole liquéfiés des véhicules à
+moteur.
 
 III. - Le contribuable justifie de la conformité de la transformation du
-véhicule aux dispositions de l'arrêté du 4 août 1999 modifié relatif à la
-réglementation des installations de gaz de pétrole liquéfiés des véhicules à
-moteur par la production d'une copie du certificat d'immatriculation portant la
-codification "EG".
+véhicule aux dispositions de l'arrêté du 4 août 1999 précité par la production
+d'une copie du certificat d'immatriculation portant la codification "EG".
