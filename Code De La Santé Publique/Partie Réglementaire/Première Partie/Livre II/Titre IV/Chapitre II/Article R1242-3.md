@@ -15,8 +15,8 @@ coordonnateur(s) hospitalier(s) peuvent être les mêmes que ceux prévus à
 l'article R. 1233-7 ;
 
 3° Disposer, en propre ou par le biais de conventions avec d'autres
-établissements de santé ou des établissements de santé ou organismes autorisés
-en application de l'article L. 1243-2, du personnel médical qualifié pour la
+établissements de santé ou des établissements ou organismes autorisés en
+application de l'article L. 1243-2, du personnel médical qualifié pour la
 réalisation des actes chirurgicaux de prélèvement et des autres personnels, en
 nombre suffisant pour l'exercice de cette activité ;
 
@@ -36,7 +36,7 @@ d'opération mentionnée au 5° c de l'article R. 1233-7 ;
 5° Justifier et être en mesure de disposer pour chaque type de tissus prélevées,
 des moyens matériels nécessaires à la restauration décente du corps ;
 
-6° Justifier d'une organisation permettant d'assurer, ou de faire assurer de
-façon satisfaisante, le transport, la transformation et la conservation des
-tissus prélevés en liaison avec les organismes de conservation autorisés en
-application des dispositions de l'article L. 1243-2.
+6° Justifier d'une organisation permettant d'assurer ou de faire assurer de
+façon satisfaisante le transport des tissus prélevés en liaison avec les
+établissements ou organismes autorisés en application des dispositions de
+l'article L. 1243-2.
