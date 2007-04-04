@@ -30,4 +30,8 @@ sanguine ;
 
 e) La dispensation de soins ;
 
-f) Le lactarium.
+f) Le lactarium ;
+
+g) Le prélèvement de cellules du sang et de cellules médullaires recueillies
+dans le sang, destinées à réaliser des préparations de thérapie cellulaire sous
+réserve du respect des dispositions des articles R. 1242-8 à R. 1242-13.
