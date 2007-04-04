@@ -36,11 +36,13 @@ pêche, sans préjudice de celui prévu à l'article L. 436-2 : 0 euro ;
 
 6° Pêcheurs amateurs, membres d'une association agréée de pêche et de
 pisciculture, titulaires d'une carte de pêche Vacances, valable pour 15 jours
-consécutifs entre le 1er juin et le 30 septembre : 3,80 euros ;
+consécutifs entre le 1er juin et le 31 décembre : 3,80 euros ;
 
-7° Pêcheurs amateurs dans les cours d'eau de 2e catégorie et dans les plans
-d'eau de 1re et 2e catégorie, membres d'une association agréée de pêche et de
-pisciculture, titulaires d'une carte de pêche à la journée : 1 euro.
+7° Pêcheurs amateurs dans les cours d'eau et les plans d'eau de 1re et 2e
+catégorie, membres d'une association agréée de pêche et de pisciculture,
+titulaires d'une carte de pêche à la journée :
+
+1 euro.
 
 II. - Tout pêcheur amateur qui pratique la pêche des salmonidés migrateurs
 (truite de mer et saumon) doit acquitter une taxe supplémentaire au taux de 20
