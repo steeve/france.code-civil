@@ -1,13 +1,13 @@
 Article R428-6
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
-contrevenir aux arrêtés réglementaires :
+Est puni de l'amende prévue pour les contraventions de la 4e classe le fait de :
 
-1° Concernant la destruction du gibier ou les mesures prises pour favoriser son
-repeuplement ;
+1° Contrevenir aux arrêtés réglementant, en application de l'article L. 424-1,
+le report de la date de broyage et de fauchage de la jachère de tous terrains à
+usage agricole ;
 
-2° Fixant la liste des espèces dont la chasse est autorisée ;
+2° Chasser en méconnaissance des arrêtés réglementant l'emploi et la divagation
+des chiens ;
 
-3° Concernant les oiseaux de passage et le gibier d'eau ;
-
-4° Relatifs à l'emploi et à la divagation des chiens.
+3° Contrevenir aux dispositions réglementaires prises en application des
+articles R. 424-2 et R. 424-3.

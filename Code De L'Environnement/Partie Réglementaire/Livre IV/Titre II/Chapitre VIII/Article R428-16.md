@@ -1,7 +1,9 @@
 Article R428-16
 ----
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de
-naturaliser, de mettre en vente, de vendre, de transporter, de colporter ou
-d'acheter sciemment du gibier mort soumis au plan de chasse, et dont la vente
-est autorisée, non muni du bracelet de marquage dûment daté ou non accompagné
-d'une attestation justifiant l'origine.
+Est puni de l'amende prévue pour les contraventions de la 4e classe le fait de :
+
+1° Ne pas munir d'un dispositif de marquage un animal capturé dans le cadre du
+prélèvement maximal autorisé, sur le lieu même où il a été abattu ou retrouvé et
+préalablement à tout transport ;
+
+2° Ne pas tenir à jour le carnet de prélèvements prévu à l'article R. 425-20.

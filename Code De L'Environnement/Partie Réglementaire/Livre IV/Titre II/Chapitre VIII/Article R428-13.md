@@ -1,12 +1,18 @@
 Article R428-13
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait :
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de :
 
-1° De chasser à l'aide d'engins et instruments prohibés, ou par d'autres moyens
-que ceux autorisés par les articles L. 424-4 et L. 427-8 ;
+1° Chasser sans plan de chasse individuel lorsqu'il est obligatoire ;
 
-2° D'employer des drogues ou appâts qui sont de nature à enivrer le gibier ou à
-le détruire ;
+2° Prélever un nombre d'animaux inférieur au minimum attribué par le plan de
+chasse individuel ;
 
-3° De détenir ou d'être trouvé muni ou porteur, hors de son domicile, des
-filets, engins ou autres instruments de chasse prohibés.
+3° Prélever un nombre d'animaux supérieur au maximum attribué par le plan de
+chasse individuel ;
+
+4° Ne pas munir d'un dispositif de marquage ou de pré-marquage un animal tué en
+application du plan de chasse individuel, sur le lieu même où il a été abattu ou
+retrouvé et préalablement à tout transport ;
+
+5° Ne pas dater du jour de la capture le dispositif de marquage ou de
+pré-marquage préalablement à sa pose sur l'animal capturé.

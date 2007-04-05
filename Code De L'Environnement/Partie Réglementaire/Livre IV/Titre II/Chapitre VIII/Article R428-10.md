@@ -1,5 +1,5 @@
 Article R428-10
 ----
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de
-chasser en méconnaissance des prescriptions du plan de chasse établi dans les
-conditions définies au chapitre V du présent titre.
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de
+ne pas tenir à jour le carnet de prélèvement prévu au dernier alinéa de
+l'article L. 424-5.

@@ -1,5 +1,4 @@
 Article R428-22
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
-contrevenir aux dispositions réglementaires et aux autorisations individuelles
-concernant la destruction des animaux nuisibles et malfaisants.
+Les personnes physiques encourent les peines complémentaires prévues aux 1° à 5°
+de l'article 131-16 du code pénal.

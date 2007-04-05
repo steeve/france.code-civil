@@ -1,6 +1,12 @@
 Article R428-5
 ----
-Est puni de l'amende prévue pour les contraventions de la 1re classe le fait de
-chasser sans être porteur de son permis de chasser ou de la licence de chasse
-valables pour le temps et le lieu où s'exerce la chasse ou du document de
-validation du permis de chasser ou de l'attestation d'assurance.
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
+chasser :
+
+1° Une espèce de gibier dont la chasse n'est pas autorisée ;
+
+2° En méconnaissance des arrêtés préfectoraux pris en application de l'article
+R. 424-1 pour prévenir la destruction et favoriser le repeuplement du gibier ;
+
+3° Les espèces de gibier d'eau en méconnaissance des dispositions de l'article
+L. 424-6.
