@@ -79,7 +79,11 @@ mobiles non routiers ;
 
 e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions
 constatées par la garderie du domaine du Conservatoire de l'espace littoral et
-des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
+des rivages lacustres et les agents visés à l'article L. 322-20 du même code ;
+
+f) Les dispositions du chapitre VIII et de la section 4 du chapitre IX du titre
+II du livre IV du code de l'environnement (partie réglementaire), relatives au
+droit de chasse.
 
 4° Contraventions en matière de protection ou de contrôle des animaux
 domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées
