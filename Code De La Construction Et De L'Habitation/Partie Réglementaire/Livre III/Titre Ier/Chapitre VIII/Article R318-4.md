@@ -11,6 +11,5 @@ du nombre de ces personnes et de la localisation du logement selon les zones A,
 B ou C mentionnées aux articles 2 duodecies, 2 duodecies A et 2 terdecies A de
 l'annexe III au code général des impôts.
 
-Le montant total de ces ressources ne peut excéder les plafonds suivants :
-
-(Tableau non reproduit)
+Le montant total de ces ressources ne peut excéder des plafonds fixés par
+décret.
