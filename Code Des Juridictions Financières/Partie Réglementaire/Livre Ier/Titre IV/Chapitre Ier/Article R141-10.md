@@ -1,5 +1,8 @@
 Article R141-10
 ----
+L'ordre du jour des audiences publiques est fixé par le président de la
+formation après consultation du ministère public.
+
 Toute partie est avertie par une notification faite par lettre recommandée du
 jour où l'affaire sera appelée à l'audience.
 
