@@ -6,7 +6,12 @@ cotisations est fixé forfaitairement par l'organisme chargé du recouvrement. C
 forfait est établi compte tenu des conventions collectives en vigueur ou, à
 défaut, des salaires pratiqués dans la profession ou la région considérée. La
 durée de l'emploi est déterminée d'après les déclarations des intéressés ou par
-tout autre moyen de preuve.
+tout autre moyen de preuve. Lorsque l'employeur ou le travailleur indépendant ne
+met pas à disposition les documents ou justificatifs nécessaires à la
+réalisation du contrôle engagé en application de l'article L. 243-7 ou lorsque
+leur présentation n'en permet pas l'exploitation, le montant des cotisations est
+fixé forfaitairement par l'organisme chargé du recouvrement, dans les conditions
+prévues au présent article.
 
 En cas de carence de l'organisme créancier, le forfait est établi par le préfet
 de région.

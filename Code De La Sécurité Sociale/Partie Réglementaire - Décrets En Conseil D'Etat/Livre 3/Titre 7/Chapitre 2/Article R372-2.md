@@ -15,12 +15,24 @@ d'accueil mentionné au I ci-dessus à l'Union pour le recouvrement des
 cotisations de sécurité sociale ou à la caisse générale de sécurité sociale dans
 la circonscription de laquelle est situé l'organisme d'accueil précité.
 
-Le versement des cotisations mentionnées à l'alinéa précédent est effectué dans
-les quinze jours du douzième mois qui suit la date de la décision ministérielle
-prononçant l'affectation du volontaire civil.
+Lorsque la durée du volontariat est au plus égale à douze mois, les cotisations
+mentionnées à l'alinéa précédent sont versées au cours du premier mois du
+semestre civil qui suit la fin de la période de volontariat.
 
-Lorsque la durée du volontariat est supérieure à douze mois, un deuxième
-versement de cotisations est effectué dans les quinze jours du quatorzième mois.
+Lorsque la durée du volontariat dépasse douze mois, les cotisations sont versées
+:
+
+- au titre des cotisations afférentes aux douze premiers mois, au cours du
+premier mois du semestre civil qui suit le douzième mois après la date de
+l'affectation du volontaire civil ;
+
+- au titre des cotisations afférentes à la période de volontariat excédant les
+douze premiers mois, au cours du premier mois du semestre civil qui suit la fin
+de la période de volontariat.
+
+Le versement intervient à la date d'échéance de paiement des cotisations et
+contributions de sécurité sociale applicables à l'entreprise et, à défaut, au 15
+du mois.
 
 III. - Les dispositions relatives aux majorations de retard prévues à l'article
 R. 243-18 sont applicables aux cotisations prévues au II ci-dessus.
