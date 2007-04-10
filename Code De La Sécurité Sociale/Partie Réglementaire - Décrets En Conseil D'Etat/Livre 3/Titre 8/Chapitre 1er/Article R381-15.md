@@ -7,3 +7,6 @@ sociale et du ministre chargé de l'éducation nationale, du ministre chargé de
 universités ou du ministre compétent. Elle est due dès lors que l'étudiant
 remplissant les autres conditions requises n'avait pas atteint l'âge limite
 avant le 1er octobre de l'année considérée.
+
+L'établissement auprès duquel s'effectue le versement ne peut majorer le montant
+de cette cotisation.
