@@ -83,7 +83,7 @@ conservent les documents et les résultats obtenus à la suite des vérification
 Pour l'ouverture d'un compte, la mesure prévue au 3° ne constitue pas une
 disposition suffisante et doit être accompagnée d'une autre mesure parmi celles
 énumérées ci-dessus. Les règlements professionnels ou administratifs prévus à
-l'article L. 565-3 précisent en tant que de besoin quelles mesures ou
+l'article L. 566-3 (1) précisent en tant que de besoin quelles mesures ou
 combinaison de mesures parmi celles prévues ci-dessus sont spécifiquement
 nécessaires pour certaines catégories d'opérations.
 
