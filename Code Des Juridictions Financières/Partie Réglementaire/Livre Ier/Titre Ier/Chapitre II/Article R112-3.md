@@ -8,7 +8,8 @@ chambre.
 
 Il préside les audiences solennelles, la chambre du conseil, les chambres
 réunies, la conférence des présidents et le comité du rapport public et des
-programmes. Il peut présider les séances de chambre.
+programmes. Il peut présider les séances de chambre, les formations
+interchambres et les chambres réunies statuant en formation restreinte.
 
 Il signe les arrêts et décisions rendus sous sa présidence.
 

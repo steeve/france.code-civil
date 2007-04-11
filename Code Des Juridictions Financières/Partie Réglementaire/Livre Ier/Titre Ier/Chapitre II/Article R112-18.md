@@ -1,27 +1,47 @@
 Article R112-18
 ----
-La Cour des comptes, toutes chambres réunies, se compose du premier président,
-des présidents de chambre et de deux conseillers maîtres par chambre, élus par
-le président et les conseillers maîtres de chaque chambre. Chaque chambre élit,
-en outre, un suppléant. La Cour, toutes chambres réunies, est constituée, au
-début de chaque année judiciaire, par arrêté du premier président.
+I. - La Cour des comptes, statuant toutes chambres réunies, comporte une
+formation plénière et une formation restreinte. Elles sont constituées, au début
+de chaque année, par arrêté du premier président.
 
-Elle juge les comptes et délibère sur les autres affaires qui lui sont renvoyées
-par le premier président sur proposition d'une chambre ou sur réquisitoire du
-procureur général.
+Un président de chambre ou le procureur général peuvent saisir le premier
+président en vue de la réunion de chambres réunies en formation plénière ou en
+formation restreinte sans que le premier président soit tenu d'y procéder.
 
-Elle statue sur les affaires renvoyées devant la Cour après cassation.
+Les chambres réunies de la Cour des comptes statuant en formation plénière se
+composent du premier président, des magistrats exerçant la présidence d'une
+chambre de la cour et d'un conseiller maître par chambre élu par le président et
+les conseillers maîtres de chaque chambre. Chaque chambre élit deux suppléants.
 
-Elle formule un avis sur les questions de procédure ou de jurisprudence dont
-elle est saisie par le premier président de sa propre initiative ou dans les
-conditions prévues au deuxième alinéa ci-dessus.
+Les chambres réunies statuant en formation plénière ne peuvent valablement
+délibérer que si huit au moins de leurs membres sont présents.
 
-La Cour, siégeant toutes chambres réunies, ne peut statuer qu'à douze membres au
-moins.
+En cas de partage des voix, celle du président est prépondérante.
 
-Sous réserve des dispositions du quatrième alinéa de l'article R. 141-8, le
-magistrat rapporteur devant les chambres réunies a voix délibérative.
+Les chambres réunies de la Cour des comptes statuant en formation restreinte se
+composent d'un magistrat exerçant la présidence d'une chambre de la cour qui les
+préside et est désigné par le premier président ainsi que des conseillers
+maîtres membres, titulaires ou suppléants, de la formation plénière. En cas
+d'absence ou d'empêchement, le président de la formation restreinte est suppléé
+par un magistrat exerçant ou ayant exercé la présidence d'une chambre de la cour
+désigné par le premier président.
 
-En cas de partage des voix, la voix du premier président est prépondérante.
+Les chambres réunies en formation restreinte ne peuvent valablement délibérer
+que si cinq au moins de leurs membres sont présents.
 
-Le procureur général assiste aux séances et présente ses conclusions.
+En cas de partage des voix, celle du président est prépondérante.
+
+Le premier président désigne le rapporteur parmi les magistrats de la Cour des
+comptes et le contre-rapporteur parmi les membres des chambres réunies. Il
+désigne le greffier des chambres réunies.
+
+II. - Les chambres réunies statuant en formation plénière formulent un avis sur
+les questions de droit dont elles sont saisies par le premier président.
+
+Les chambres réunies statuant en formation restreinte jugent les affaires dont
+elles sont saisies par le premier président sur proposition d'une chambre ou sur
+réquisitoire du procureur général. Elles statuent sur les affaires renvoyées
+devant la cour après cassation.
+
+Le premier président peut renvoyer des affaires relevant de la formation
+restreinte à la formation plénière qui les juge.

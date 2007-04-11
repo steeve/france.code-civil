@@ -8,7 +8,6 @@ l'arrêt, qui est, dans ce cas, signé par le greffier.
 Les arrêts de débet, de déclaration définitive de gestion de fait et de
 condamnation définitive à l'amende sont revêtus de la formule exécutoire.
 
-Les arrêts sont notifiés aux comptables par les soins du secrétaire général. Le
-procureur général procède à leur notification aux administrations, collectivités
-ou organismes intéressés. Les conditions dans lesquelles sont effectuées ces
-notifications sont fixées aux articles D. 144-1 à D. 144-6.
+Le secrétaire général ou, en cas d'absence, d'empêchement ou de vacance, un des
+secrétaires généraux adjoints, notifie les arrêts aux comptables et aux
+administrations, collectivités ou organismes intéressés.

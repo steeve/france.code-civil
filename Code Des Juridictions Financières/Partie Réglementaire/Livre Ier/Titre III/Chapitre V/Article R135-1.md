@@ -16,7 +16,8 @@ Les observations de la Cour peuvent également être transmises par des
 communications du procureur général aux autorités compétentes.
 
 Certaines observations de la Cour des comptes peuvent faire l'objet de lettres
-d'un président de chambre aux autorités compétentes.
+d'un président de chambre ou de formation interchambres aux autorités
+compétentes.
 
 Les rapports particuliers mentionnés ci-dessus sont transmis par le premier
 président au Premier ministre, aux ministres concernés ainsi qu'aux dirigeants

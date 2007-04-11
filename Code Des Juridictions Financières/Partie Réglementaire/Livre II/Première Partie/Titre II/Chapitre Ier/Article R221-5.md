@@ -1,6 +1,6 @@
 Article R221-5
 ----
-La commission consultative de la Cour des comptes désigne, parmi ses membres, le
+Le conseil supérieur de la Cour des comptes désigne, parmi ses membres, le
 représentant de la Cour des comptes à la commission instituée par l'article L.
 221-7 et son suppléant.
 
