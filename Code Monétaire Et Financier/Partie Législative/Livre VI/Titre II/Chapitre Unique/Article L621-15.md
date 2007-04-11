@@ -21,14 +21,14 @@ premier alinéa, le collège peut décider de rendre publique la transmission.
 II. - La commission des sanctions peut, après une procédure contradictoire,
 prononcer une sanction à l'encontre des personnes suivantes :
 
-a) Les personnes mentionnées aux 1° à 8° et 11° à 14° du II de l'article L.
+a) Les personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article L.
 621-9, au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
 613-21 ;
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de
-l'une des personnes mentionnées aux 1° à 8° et 11° à 14° du II de l'article L.
+l'une des personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article L.
 621-9 au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
@@ -55,17 +55,17 @@ un tel marché a été présentée.
 
 III. - Les sanctions applicables sont :
 
-a) Pour les personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L.
-621-9, l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif
-de l'exercice de tout ou partie des services fournis ; la commission des
-sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
-sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros
-ou au décuple du montant des profits éventuellement réalisés ; les sommes sont
-versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à
-défaut, au Trésor public ;
+a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de
+l'article L. 621-9, l'avertissement, le blâme, l'interdiction à titre temporaire
+ou définitif de l'exercice de tout ou partie des services fournis ; la
+commission des sanctions peut prononcer soit à la place, soit en sus de ces
+sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 1,5
+million d'euros ou au décuple du montant des profits éventuellement réalisés ;
+les sommes sont versées au fonds de garantie auquel est affiliée la personne
+sanctionnée ou, à défaut, au Trésor public ;
 
 b) Pour les personnes physiques placées sous l'autorité ou agissant pour le
-compte de l'une des personnes mentionnées aux 1° à 8°, 11° et 12° du II de
+compte de l'une des personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de
 l'article L. 621-9, et l'avertissement, le blâme, le retrait temporaire ou
 définitif de la carte professionnelle, l'interdiction à titre temporaire ou
 définitif de l'exercice de tout ou partie des activités ; la commission des
@@ -92,5 +92,7 @@ du rapporteur. Aucune sanction ne peut être prononcée sans que la personne
 concernée ou son représentant ait été entendu ou, à défaut, dûment appelé.
 
 V. - La commission des sanctions peut rendre publique sa décision dans les
-publications, journaux ou supports qu'elle désigne. Les frais sont supportés par
+publications, journaux ou supports qu'elle désigne, à moins que cette
+publication ne risque de perturber gravement les marchés financiers ou de causer
+un préjudice disproportionné aux parties en cause. Les frais sont supportés par
 les personnes sanctionnées.

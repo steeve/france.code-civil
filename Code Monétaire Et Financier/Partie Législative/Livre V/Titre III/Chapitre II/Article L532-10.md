@@ -5,7 +5,9 @@ l'Autorité des marchés financiers à la demande de la société. Il peut aussi
 décidé d'office par l'Autorité si la société ne remplit plus les conditions ou
 les engagements auxquels étaient subordonnés son agrément ou une autorisation
 ultérieure, ou si la société n'a pas fait usage de son agrément dans un délai de
-douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six mois.
+douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six mois,
+ou encore si elle a obtenu l'agrément par de fausses déclarations ou par tout
+autre moyen irrégulier.
 
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est
 déterminée par l'Autorité des marchés financiers.

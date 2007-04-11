@@ -1,13 +1,17 @@
 Article L532-9
 ----
-L'entreprise d'investissement qui exerce, à titre principal, le service
-mentionné au 4 de l'article L. 321-1, est agréée par l'Autorité des marchés
-financiers et prend le nom de société de gestion de portefeuille.
+Les sociétés de gestion de portefeuille sont des entreprises d'investissement
+qui fournissent, à titre principal, le service d'investissement mentionné au 4
+de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement
+collectifs mentionnés aux 1 et 5 du I de l'article L. 214-1.
+
+Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés
+financiers.
 
 Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité
 vérifie si celle-ci :
 
-1. A son siège social et son administration centrale en France ;
+1. A son siège social et sa direction effective en France ;
 
 2. Dispose d'un capital initial suffisant ainsi que des moyens financiers
 adaptés et suffisants ;
@@ -18,19 +22,21 @@ montant de leur participation ; l'Autorité apprécie la qualité de ces
 actionnaires au regard de la nécessité de garantir une gestion saine et prudente
 ;
 
-4. Est dirigée effectivement par des personnes possédant l'honorabilité et la
-compétence nécessaires ainsi que l'expérience adéquate à leur fonction ;
+4. Est dirigée effectivement par deux personnes au moins possédant
+l'honorabilité nécessaire et l'expérience adéquate à leur fonction, en vue de
+garantir sa gestion saine et prudente. Le règlement général de l'Autorité des
+marchés financiers fixe les conditions dans lesquelles une société de gestion de
+portefeuille peut, par dérogation, être dirigée effectivement par une seule
+personne. Il précise les mesures qui doivent être prises pour garantir la
+gestion saine et prudente de la société concernée ;
 
-5. Voit son orientation déterminée par deux personnes au moins remplissant les
-conditions fixées au 4 ;
-
-6. Dispose d'une forme juridique adéquate à la fourniture du service mentionné
-au 4 de l'article L. 321-1 ;
-
-7. Dispose d'un programme d'activité pour chacun des services qu'elle entend
-exercer qui précise les conditions dans lesquelles elle envisage de fournir les
+5. Dispose d'un programme d'activité pour chacun des services qu'elle entend
+exercer, qui précise les conditions dans lesquelles elle envisage de fournir les
 services d'investissement concernés et indique le type d'opérations envisagées
-et la structure de son organisation.
+et la structure de son organisation ;
+
+6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie
+des dépôts conformément aux articles L. 322-5 et L. 322-10.
 
 L'Autorité des marchés financiers peut refuser l'agrément lorsque l'exercice de
 la mission de surveillance de la société de gestion de portefeuille est
@@ -52,6 +58,5 @@ souscrits par la société requérante.
 Un règlement général de l'Autorité des marchés financiers précise les conditions
 d'agrément des sociétés de gestion de portefeuille.
 
-L'entreprise d'investissement qui exerce à titre principal le service mentionné
-au 4 de l'article L. 321-1 doit satisfaire à tout moment aux conditions de son
-agrément.
+Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux
+conditions de leur agrément.

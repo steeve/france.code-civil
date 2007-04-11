@@ -1,14 +1,18 @@
 Article L421-5
 ----
-Lorsqu'un événement exceptionnel perturbe le fonctionnement régulier d'un marché
-réglementé, le président de l'Autorité des marchés financiers ou, en cas
-d'empêchement, son représentant désigné à cet effet par lui peut suspendre tout
-ou partie des négociations, pour une durée n'excédant pas deux jours de
-négociations consécutifs. Au-delà de cette durée, la suspension est prononcée
-par arrêté du ministre chargé de l'économie pris sur proposition du président de
-l'Autorité des marchés financiers.
+Sur proposition de l'Autorité des marchés financiers, le ministre chargé de
+l'économie peut retirer la reconnaissance à un marché réglementé dans l'un ou
+l'autre des cas suivants :
 
-Si la suspension sur un marché réglementé a duré plus de deux jours de
-négociations consécutifs, les opérations en cours à la date de suspension
-peuvent être compensées et liquidées dans les conditions définies par les règles
-du marché.
+1. L'entreprise de marché n'en fait pas usage dans un délai de douze mois, si
+elle y renonce expressément ou si le marché a cessé de fonctionner depuis six
+mois ;
+
+2. L'entreprise de marché l'a obtenue par de fausses déclarations ou par tout
+autre moyen irrégulier ;
+
+3. Le marché réglementé ne remplit plus les conditions auxquelles la
+reconnaissance a été subordonnée ;
+
+4. L'entreprise de marché a gravement et de manière répétée enfreint les
+dispositions qui lui sont applicables.

@@ -9,9 +9,9 @@ crédit et des entreprises d'investissement et à l'Autorité des marchés
 financiers dans les conditions et selon des modalités fixées par décret en
 Conseil d'Etat.
 
-Le comité des établissements de crédit et des entreprises d'investissement et
+Le Comité des établissements de crédit et des entreprises d'investissement et
 l'Autorité des marchés financiers communiquent cette déclaration à l'autorité
-compétente de l'Etat membre d'accueil dans un délai d'un mois à compter de sa
-réception régulière. Le prestataire de services d'investissement peut alors
-commencer à fournir dans l'Etat membre d'accueil les services d'investissement
-déclarés.
+compétente de l'Etat membre d'accueil qui a été désignée comme point de contact
+dans un délai d'un mois à compter de sa réception régulière. Le prestataire de
+services d'investissement peut alors commencer à fournir dans l'Etat membre
+d'accueil les services d'investissement déclarés.

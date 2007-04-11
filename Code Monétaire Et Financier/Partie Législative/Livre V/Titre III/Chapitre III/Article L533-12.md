@@ -1,6 +1,14 @@
 Article L533-12
 ----
-Il est interdit aux sociétés de gestion de portefeuille de recevoir de leurs
-clients des dépôts de fonds, de titres ou d'or et d'effectuer des opérations
-entre le compte d'un client et leur propre compte ou des opérations directes
-entre les comptes de leurs clients.
+I. - Toutes les informations, y compris les communications à caractère
+promotionnel, adressées par un prestataire de services d'investissement à des
+clients, notamment des clients potentiels, présentent un contenu exact, clair et
+non trompeur. Les communications à caractère promotionnel sont clairement
+identifiables en tant que telles.
+
+II. - Les prestataires de services d'investissement communiquent à leurs
+clients, notamment leurs clients potentiels, les informations leur permettant
+raisonnablement de comprendre la nature du service d'investissement et du type
+spécifique d'instrument financier proposé ainsi que les risques y afférents,
+afin que les clients soient en mesure de prendre leurs décisions
+d'investissement en connaissance de cause.

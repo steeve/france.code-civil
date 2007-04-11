@@ -16,7 +16,8 @@ ainsi que les personnes physiques placées sous leur autorité ou agissant pour
 leur compte :
 
 1° Les prestataires de services d'investissement agréés ou exerçant leur
-activité en libre établissement en France ;
+activité en libre établissement en France ainsi que les personnes morales
+placées sous leur autorité ou agissant pour leur compte ;
 
 2° Les personnes autorisées à exercer l'activité de conservation ou
 d'administration d'instruments financiers mentionnées à l'article L. 542-1 ;
@@ -24,7 +25,8 @@ d'administration d'instruments financiers mentionnées à l'article L. 542-1 ;
 3° Les dépositaires centraux et les gestionnaires de système de règlement et de
 livraison d'instruments financiers ;
 
-4° Les membres des marchés réglementés mentionnés à l'article L. 421-8 ;
+4° Les membres des marchés réglementés non prestataires de services
+d'investissement ;
 
 5° Les entreprises de marché ;
 
@@ -44,12 +46,14 @@ diffusant des analyses financières ;
 
 12° Les dépositaires d'organismes de placement collectif ;
 
-13° Les personnes morales administrant des institutions de retraite
+13° Les évaluateurs immobiliers ;
+
+14° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs
 mentionnés à l'article L. 443-1-2 du code du travail ;
 
-14° Les évaluateurs immobiliers.
+15° Les agents liés mentionnés à l'article L. 545-1.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
@@ -61,5 +65,6 @@ sans préjudice des compétences conférées à la Banque de France par l'articl
 
 L'Autorité des marchés financiers est également chargée d'assurer le respect,
 par les prestataires de services d'investissement mentionnés à l'article L.
-532-18, des dispositions législatives et réglementaires qui leur sont
-applicables, dans les conditions prévues aux articles L. 532-19 à L. 532-21.
+532-18-1, des dispositions législatives et réglementaires qui leur sont
+applicables, dans les conditions prévues aux articles L. 532-18-2, L. 532-19 et
+L. 532-21.

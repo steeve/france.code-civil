@@ -1,19 +1,25 @@
 Article L421-12
 ----
-Les transactions sur un instrument financier admis aux négociations sur un
-marché réglementé, réalisées au profit d'un investisseur résidant habituellement
-ou établi en France, par un prestataire de services d'investissement agréé ou
-exerçant en France par voie de libre prestation de services ou de libre
-établissement, sont nulles si elles ne sont pas effectuées sur un marché
-réglementé d'un Etat partie à l'accord sur l'Espace économique européen.
+L'entreprise de marché instaure et maintient des dispositions et procédures en
+vue de contrôler que les membres du marché respectent les règles du marché
+réglementé et en vue de surveiller le bon déroulement des transactions
+effectuées sur celui-ci. Elle surveille les transactions effectuées par les
+membres du marché sur celui-ci, en vue de détecter tout manquement auxdites
+règles, toute condition de négociation de nature à perturber le bon ordre du
+marché ou tout comportement potentiellement révélateur d'une manipulation de
+cours, d'une diffusion de fausse information ou d'une opération d'initié.
 
-Par dérogation aux dispositions de l'alinéa précédent, les transactions qui y
-sont mentionnées peuvent être effectuées en dehors d'un marché réglementé si la
-demande en est faite par des investisseurs résidant habituellement ou établis
-sur le territoire français et si la transaction remplit les conditions définies
-par le règlement général de l'Autorité des marchés financiers concernant son
-volume, le statut de l'investisseur, la nature de l'instrument financier négocié
-et l'information du marché réglementé sur lequel cet instrument est admis. Cette
-dérogation est accordée de plein droit pour toutes les transactions qui,
-incluses dans une convention autre qu'une vente pure et simple, en constituent
-un élément nécessaire.
+L'entreprise de marché signale à l'Autorité des marchés financiers tout
+manquement significatif aux dispositions du règlement général de l'Autorité des
+marchés financiers et aux règles du marché ou toute condition de négociation de
+nature à perturber le bon ordre du marché pouvant entraîner un des manquements
+mentionnés au premier alinéa.
+
+Elle lui communique sans délai les informations pertinentes en matière
+d'enquêtes et de poursuites concernant ces manquements sur le marché réglementé.
+Elle lui prête toute l'aide nécessaire pour instruire et poursuivre les
+manquements commis sur le marché réglementé ou par l'intermédiaire de ses
+systèmes.
+
+Le règlement général de l'Autorité des marchés financiers détermine les
+conditions et modalités d'application de cet article.

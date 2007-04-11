@@ -20,8 +20,7 @@ droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports
 de la location, de droits réels portant sur de tels biens, de droits détenus en
 qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
 des immeubles en vue de leur location, ou de participations directes ou
-indirectes dans des sociétés dont la composition de l'actif répond aux
-conditions du présent b ;
+indirectes dans des sociétés répondant aux conditions du présent b ;
 
 3° Les autres actifs sont des avances en compte courant visées à l'article L.
 214-98, des créances résultant de leur activité principale, des liquidités
@@ -44,8 +43,8 @@ leurs apports ;
 de la location, de droits réels portant sur de tels biens, de droits détenus en
 qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
 des immeubles en vue de leur location ou de participations directes ou
-indirectes dans des sociétés dont la composition de l'actif répond aux
-conditions du présent c ;
+indirectes dans des sociétés répondant aux conditions des 1°, 2° et 4° du b ou
+du présent c ;
 
 3° Les instruments financiers qu'elles émettent ne sont pas admis aux
 négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1
@@ -63,10 +62,10 @@ e) Des parts ou actions d'organismes de placement collectif immobilier et de
 parts, actions ou droits détenus dans des organismes de droit étranger ayant un
 objet équivalent, quelle que soit leur forme ;
 
-f) Des instruments financiers mentionnés au I de l'article L. 211-1 admis aux
-négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1
-ainsi que les instruments financiers énumérés au II de l'article L. 211-1 à
-l'exception de ceux prévus au 4 ;
+f) Des instruments financiers mentionnés aux 1, 2, 3 et 5 du I de l'article L.
+211-1 admis aux négociations sur un marché mentionné aux articles L. 421-1, L.
+422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les
+conditions fixées à l'article L. 214-94 ;
 
 g) Des parts ou actions d'organismes de placement collectif en valeurs
 mobilières, à l'exception de ceux visés aux sous-sections 9 à 14 de la section 1

@@ -6,3 +6,6 @@ morales habilitées en tant que conseillers en investissements financiers doiven
 obligatoirement remplir des conditions d'âge et d'honorabilité fixées par
 décret, ainsi que des conditions de compétence professionnelle fixées par le
 règlement général de l'Autorité des marchés financiers.
+
+Les conseillers en investissements financiers doivent résider habituellement ou
+être établis en France.

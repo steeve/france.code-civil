@@ -1,5 +1,6 @@
 Article L621-7-1
 ----
-En cas de carence de l'Autorité des marchés financiers malgré une mise en
-demeure adressée par le ministre chargé de l'économie, les mesures urgentes
-nécessitées par les circonstances sont prises par décret.
+Le règlement général de l'Autorité des marchés financiers peut également fixer
+des règles relatives à l'information de l'Autorité des marchés financiers et du
+public concernant les ordres et les transactions sur des instruments financiers
+non admis aux négociations sur un marché réglementé.

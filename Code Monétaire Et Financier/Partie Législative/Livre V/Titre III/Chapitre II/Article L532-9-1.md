@@ -4,7 +4,7 @@ Toute modification apportée aux conditions auxquelles était subordonné
 l'agrément délivré à une société de gestion de portefeuille doit faire l'objet,
 selon les cas, d'une autorisation préalable de l'Autorité des marchés
 financiers, d'une déclaration ou d'une notification, dans les conditions fixées
-par un règlement de l'Autorité.
+par le règlement général de l'Autorité des marchés financiers.
 
 En cas de défaut d'information préalable concernant toute modification dans la
 structure de l'actionnariat d'une société de gestion de portefeuille et sans
@@ -17,5 +17,5 @@ directement ou indirectement.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être
 assortie de conditions particulières répondant à la finalité mentionnée à
-l'avant-dernier alinéa de l'article L. 532-9 ou subordonnée au respect
+l'antépénultième alinéa de l'article L. 532-9 ou subordonnée au respect
 d'engagements pris par la société de gestion.

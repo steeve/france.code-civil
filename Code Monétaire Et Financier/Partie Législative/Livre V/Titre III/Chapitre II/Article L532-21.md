@@ -1,19 +1,21 @@
 Article L532-21
 ----
-Lorsque la commission bancaire ou, lorsqu'il s'agit du service mentionné au 4 de
-l'article L. 321-1, l'Autorité des marchés financiers constate qu'un prestataire
-de services d'investissement bénéficiant du régime prévu à l'article L. 532-18
-ne respecte pas les dispositions législatives ou réglementaires en matière de
-règles prudentielles ou de règles d'agrément, ces autorités peuvent exiger que
-le prestataire mette fin à cette situation irrégulière et en informent les
-autorités compétentes de l'Etat membre d'origine.
+Lorsque la Commission bancaire ou l'Autorité des marchés financiers a des
+raisons claires et démontrables d'estimer qu'un prestataire de services
+d'investissement opérant dans le cadre du régime de la libre prestation de
+services ou possédant une succursale sur le territoire de la France
+métropolitaine et des départements d'outre-mer enfreint les obligations légales
+ou réglementaires pour lesquelles l'autorité de l'Etat d'origine est compétente,
+elle en fait part à cette autorité.
 
-Si, en dépit des mesures prises par l'Etat membre d'origine ou parce que ces
-mesures se révèlent inadéquates ou font défaut dans cet Etat, le prestataire de
-services d'investissement persiste à enfreindre les dispositions législatives ou
-réglementaires mentionnées à l'alinéa précédent, la commission bancaire, ou,
-lorsque cela relève de sa compétence, l'Autorité des marchés financiers prend
-les mesures appropriées pour prévenir ou sanctionner de nouvelles irrégularités
-et, au besoin, empêcher ce prestataire d'effectuer de nouvelles opérations sur
-le territoire de la France métropolitaine et des départements d'outre-mer. Ces
-autorités en informent, sans délai, les autorités de l'Etat membre d'origine.
+Si, en dépit des mesures prises par l'autorité compétente de l'Etat d'origine ou
+en raison du caractère inadéquat de ces mesures, le prestataire de services
+d'investissement concerné continue d'agir d'une manière clairement préjudiciable
+aux intérêts des investisseurs résidant ou établis en France ou au
+fonctionnement ordonné des marchés, la Commission bancaire ou l'Autorité des
+marchés financiers, selon le cas, après en avoir informé l'autorité compétente
+de l'Etat d'origine, prend toutes les mesures requises pour protéger les
+investisseurs et préserver le bon fonctionnement des marchés, y compris, le cas
+échéant, l'interdiction faite au prestataire concerné de continuer à fournir des
+services sur le territoire de la France métropolitaine et des départements
+d'outre-mer. La Commission européenne est informée de l'adoption de ces mesures.

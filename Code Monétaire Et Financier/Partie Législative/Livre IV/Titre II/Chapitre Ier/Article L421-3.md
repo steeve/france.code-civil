@@ -1,18 +1,20 @@
 Article L421-3
 ----
-Pour être reconnu comme marché réglementé, un marché d'instruments financiers
-doit garantir un fonctionnement régulier des négociations. Doivent notamment
-être fixées par les règles de ce marché, établies par l'entreprise de marché
-définie à l'article L. 441-1, les conditions d'accès au marché et d'admission à
-la cotation, les dispositions d'organisation des transactions, les conditions de
-suspension des négociations d'un ou plusieurs instruments financiers, les règles
-relatives à l'enregistrement et à la publicité des négociations.
+L'Autorité des marchés financiers peut désigner un mandataire auprès de
+l'entreprise de marché, auquel sont transférés tous les pouvoirs
+d'administration, de direction et de représentation de la personne morale.
 
-Ces règles sont approuvées par l'Autorité des marchés financiers.
+Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment
+ne plus être en mesure d'exercer normalement leurs fonctions, soit à
+l'initiative de l'Autorité des marchés financiers lorsque la gestion d'un marché
+réglementé ou d'un système multilatéral de négociation ne peut plus être assurée
+dans des conditions garantissant son bon fonctionnement.
 
-Les modifications de ces règles sont notifiées à l'Autorité des marchés
-financiers et à la Banque de France. L'Autorité des marchés financiers se
-prononce sur leur compatibilité avec la reconnaissance mentionnée à l'article L.
-421-1, informe la Banque de France de sa décision, et saisit le ministre chargé
-de l'économie en cas de constat d'une incompatibilité de ces modifications avec
-la décision de reconnaissance.
+Lorsque des circonstances particulières d'urgence le justifient, l'Autorité des
+marchés financiers peut désigner un mandataire à titre provisoire sans procédure
+contradictoire. Cette mesure est confirmée après une procédure contradictoire
+dans un délai prévu par décret en Conseil d'Etat. Elle peut être levée à tout
+moment.
+
+Un décret précise en tant que de besoin les conditions d'application du présent
+article.

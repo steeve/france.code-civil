@@ -7,10 +7,6 @@ judiciaire agissant dans le cadre soit d'une procédure de liquidation judiciair
 ouverte à l'égard d'un établissement de crédit, d'une entreprise
 d'investissement ou d'une compagnie financière, soit d'une procédure pénale.
 
-Ce secret n'est pas opposable aux juridictions administratives saisies d'un
-contentieux relatif à l'activité du comité des établissements de crédit et des
-entreprises d'investissement.
-
 Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative
 à la communication des documents et renseignements d'ordre économique,
 commercial, industriel, financier ou technique à des personnes physiques ou

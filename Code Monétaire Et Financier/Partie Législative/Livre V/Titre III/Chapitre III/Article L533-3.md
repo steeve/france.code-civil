@@ -1,5 +1,5 @@
 Article L533-3
 ----
-Les prestataires de services d'investissement, les entreprises de marché et les
-chambres de compensation doivent communiquer à la Banque de France les
-informations nécessaires à l'élaboration des statistiques monétaires.
+Les prestataires de services d'investissement notifient à la Commission bancaire
+les transactions intragroupes importantes, dans les conditions définies à
+l'article L. 618-3.
