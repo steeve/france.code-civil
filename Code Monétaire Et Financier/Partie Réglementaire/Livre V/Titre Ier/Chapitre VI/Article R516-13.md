@@ -36,7 +36,8 @@ titulaire.
 
 II. - Le président du conseil d'administration est nommé par décret pris sur le
 rapport du ministre chargé de l'économie, du ministre chargé de la coopération
-et du développement et du ministre chargé de l'outre-mer.
+et du développement et du ministre chargé de l'outre-mer. La limite d'âge
+applicable au président du conseil d'aministration est de 70 ans.
 
 Il dispose d'une voix prépondérante en cas de partage égal des voix.
 
@@ -54,3 +55,7 @@ le personnel, son suppléant exerce cette fonction pour la durée restant à cou
 du mandat initial.
 
 IV. - Le mandat des membres du conseil d'administration est gratuit.
+
+Toutefois, le président du conseil d'administration perçoit une indemnité de
+fonction dont le montant est fixé par arrêté conjoint des ministres chargés de
+l'économie, de la coopération et de l'outre-mer.
