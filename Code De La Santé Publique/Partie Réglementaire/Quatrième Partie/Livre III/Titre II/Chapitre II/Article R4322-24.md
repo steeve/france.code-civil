@@ -11,4 +11,4 @@ renouvelables par tiers tous les deux ans.
 
 Les anciens membres doivent être inscrits au tableau.
 
-La chambre siège en formation impaire.
+La chambre siège en formation d'au moins cinq membres.

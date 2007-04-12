@@ -19,4 +19,4 @@ membre et une fraction de deux membres.
 Les anciens membres doivent être inscrits au tableau dans le ressort de la
 chambre.
 
-La chambre siège en formation impaire d'au moins cinq membres.
+La chambre siège en formation d'au moins cinq membres.

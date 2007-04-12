@@ -3,7 +3,7 @@ Article R4123-5
 Les électeurs votent selon les modalités prévues à l'article L. 4123-4.
 
 Le bulletin de vote ne peut pas comporter, à peine de nullité, un nombre de noms
-supérieur au nombre de postes de titulaires ou de suppléants à pourvoir ni de
+supérieur au nombre de sièges de titulaires et de suppléants à pourvoir ni de
 signe de reconnaissance. Sous ces réserves, l'électeur peut voter sur papier
 libre.
 

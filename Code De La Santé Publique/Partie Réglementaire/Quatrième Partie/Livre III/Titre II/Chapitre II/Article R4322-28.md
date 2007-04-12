@@ -16,4 +16,4 @@ trois ans.
 Les anciens membres doivent être inscrits au tableau dans le ressort de la
 chambre.
 
-La chambre siège en formation impaire.
+La chambre siège au complet.

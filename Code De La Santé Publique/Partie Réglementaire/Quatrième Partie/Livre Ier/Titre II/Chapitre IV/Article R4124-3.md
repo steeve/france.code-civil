@@ -6,11 +6,11 @@ conseil régional ou interrégional pour une période déterminée, qui peut, s'
 a lieu, être renouvelée. Elle ne peut être ordonnée que sur un rapport motivé
 établi à la demande du conseil par trois médecins spécialistes désignés comme
 experts, désignés l'un par l'intéressé, le deuxième par le conseil départemental
-et le troisième par les deux premiers. En cas de carence de l'intéressé ou de
-ses proches, la désignation du premier expert est faite à la demande du conseil
-par ordonnance du président du tribunal de grande instance dans le ressort
-duquel se trouve la résidence professionnelle de l'intéressé. Cette demande est
-dispensée de ministère d'avocat.
+et le troisième par les deux premiers. En cas de carence de l'intéressé, la
+désignation du premier expert est faite à la demande du conseil par ordonnance
+du président du tribunal de grande instance dans le ressort duquel se trouve la
+résidence professionnelle de l'intéressé. Cette demande est dispensée de
+ministère d'avocat.
 
 Le conseil peut être saisi soit par le préfet, soit par délibération du conseil
 départemental ou du conseil national. L'expertise prévue à l'alinéa précédent

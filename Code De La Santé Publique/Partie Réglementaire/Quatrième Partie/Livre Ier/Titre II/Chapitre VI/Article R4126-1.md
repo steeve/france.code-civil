@@ -6,8 +6,8 @@ instance que par l'une des personnes ou autorités suivantes :
 
 1° Le conseil national ou le conseil départemental de l'ordre au tableau duquel
 le praticien poursuivi est inscrit à la date de la saisine de la juridiction,
-agissant de leur propre initiative ou à la suite de plaintes, formées par les
-patients, les organismes locaux d'assurance maladie obligatoires, les
+agissant de leur propre initiative ou à la suite de plaintes, formées notamment
+par les patients, les organismes locaux d'assurance maladie obligatoires, les
 médecins-conseils chefs ou responsables du service du contrôle médical placé
 auprès d'une caisse ou d'un organisme de sécurité sociale, les associations de
 défense des droits des patients, des usagers du système de santé ou des

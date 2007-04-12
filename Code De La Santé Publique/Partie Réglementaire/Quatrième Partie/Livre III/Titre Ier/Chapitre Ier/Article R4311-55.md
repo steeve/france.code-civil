@@ -1,0 +1,20 @@
+Article R4311-55
+----
+Le collège des infirmiers relevant du secteur public comprend les fonctionnaires
+et agents contractuels des fonctions publiques de l'Etat, territoriale et
+hospitalière.
+
+Le collège des infirmiers relevant du secteur privé comprend les personnels
+titulaires d'un contrat de travail de droit privé, y compris les personnels des
+établissements privés participant au service public hospitalier.
+
+Les infirmiers qui exercent à la fois à titre libéral et en qualité de salarié
+font partie du collège représentant les infirmiers exerçant à titre libéral.
+
+Les infirmiers retraités inscrits au tableau relèvent du dernier collège dont
+ils faisaient partie.
+
+Sous réserve des dispositions de l'article L. 4124-6 et de l'article L. 145-5-3
+du code de la sécurité sociale, sont seuls éligibles aux conseils et aux
+chambres disciplinaires de l'ordre les infirmiers inscrits au tableau depuis au
+moins trois ans à la date des élections.
