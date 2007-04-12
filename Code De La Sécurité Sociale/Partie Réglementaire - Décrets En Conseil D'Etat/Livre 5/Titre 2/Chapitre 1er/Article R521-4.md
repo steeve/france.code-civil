@@ -1,8 +1,8 @@
 Article R521-4
 ----
-L'âge mentionné au premier alinéa de l'article L. 521-3 à partir duquel les
-enfants ouvrent droit à la majoration des allocations familiales est fixé à onze
-ans. Ladite majoration est augmentée à partir de seize ans.
+Pour l'ouverture du droit à la majoration prévue à l'article L. 521-3, le nombre
+d'enfants à charge est évalué dans les conditions prévues au premier alinéa de
+l'article R. 521-3.
 
-Le nombre minimum d'enfants à charge, mentionné au deuxième alinéa de l'article
-L. 521-3 ouvrant droit à ladite majoration pour chaque enfant est fixé à trois.
+Lorsque le ou les enfants ouvrant droit à ladite majoration sont en résidence
+alternée, le montant servi au titre de cette majoration est réduit de moitié.

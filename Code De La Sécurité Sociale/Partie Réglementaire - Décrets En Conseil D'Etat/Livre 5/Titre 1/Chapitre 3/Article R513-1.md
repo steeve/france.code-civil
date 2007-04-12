@@ -1,8 +1,8 @@
 Article R513-1
 ----
 La personne physique à qui est reconnu le droit aux prestations familiales a la
-qualité d'allocataire. Ce droit n'est reconnu qu'à une seule personne au titre
-d'un même enfant.
+qualité d'allocataire. Sous réserve des dispositions de l'article R. 521-2, ce
+droit n'est reconnu qu'à une personne au titre d'un même enfant.
 
 Lorsque les deux membres d'un couple assument à leur foyer la charge effective
 et permanente de l'enfant, l'allocataire est celui d'entre eux qu'ils désignent
