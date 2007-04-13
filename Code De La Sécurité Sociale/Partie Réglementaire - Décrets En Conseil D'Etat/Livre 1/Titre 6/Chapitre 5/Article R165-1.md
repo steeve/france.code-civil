@@ -1,13 +1,21 @@
 Article R165-1
 ----
 Les produits et prestations mentionnés à l'article L. 165-1 ne peuvent être
-remboursés par l'assurance maladie, sur prescription médicale ou sur
-prescription d'un masseur-kinésithérapeute conformément aux dispositions de
-l'article L. 4321-1 du code de la santé publique, que s'ils figurent sur une
-liste établie par arrêté du ministre chargé de la sécurité sociale et du
-ministre chargé de la santé après avis de la commission spécialisée de la Haute
-Autorité de santé mentionnée à l'article L. 165-1 du présent code et dénommée
-"commission d'évaluation des produits et prestations".
+remboursés par l'assurance maladie, sur prescription médicale, sur prescription
+d'un masseur-kinésithérapeute conformément aux dispositions de l'article L.
+4321-1 du code de la santé publique, ou sur prescription d'un infirmier
+conformément aux dispositions de l'article L. 4311-1 dudit code, que s'ils
+figurent sur une liste établie par arrêté du ministre chargé de la sécurité
+sociale et du ministre chargé de la santé après avis de la commission
+spécialisée de la Haute Autorité de santé mentionnée à l'article L. 165-1 du
+présent code et dénommée "commission d'évaluation des produits et prestations".
+
+Peuvent également être remboursés par l'assurance maladie les verres correcteurs
+et, le cas échéant, les montures correspondantes, inscrits sur la liste prévue à
+l'article L. 165-1, délivrés par un opticien-lunetier en application de
+l'article L. 4362-10 du code de la santé publique. A chaque renouvellement,
+l'opticien-lunetier mentionne sur la prescription la nature des produits
+délivrés et la date de cette délivrance.
 
 L'inscription sur la liste précise, le cas échéant, les spécifications
 techniques, les seules indications thérapeutiques ou diagnostiques et les
