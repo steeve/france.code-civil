@@ -9,4 +9,5 @@ séparément par le propriétaire ou par le métayer pour la part de la récolte
 revenant. Dans ce cas, les droits à déduction de celui qui a opté sont calculés
 dans les conditions prévues pour les personnes qui ne réalisent pas
 exclusivement des opérations ouvrant droit à déduction. La totalité des recettes
-de la métairie est inscrite au second terme du rapport défini à l'article 212.
+de la métairie est inscrite au second terme du rapport défini au 1° du 3 du III
+de l'article 206.

@@ -13,6 +13,3 @@ donnés en location ouvrant droit à l'option en application du 2° de l'article
 260 du code général des impôts et d'autres locaux, l'option ne s'étend pas à ces
 derniers mais elle s'applique globalement à l'ensemble des locaux de la première
 catégorie.
-
-Chaque immeuble ou ensemble d'immeubles constitue un secteur d'activité pour
-l'application de l'article 213.

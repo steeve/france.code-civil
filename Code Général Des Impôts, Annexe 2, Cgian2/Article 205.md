@@ -1,9 +1,5 @@
 Article 205
 ----
-L'exercice du droit à déduction prévu à l'article 271 du code général des impôts
-comporte des modalités différentes selon qu'il concerne la taxe sur la valeur
-ajoutée ayant grevé :
-
-a. Les biens constituant des immobilisations ;
-
-b. Les biens ne constituant pas des immobilisations et les services.
+La taxe sur la valeur ajoutée grevant un bien ou un service qu'un assujetti à
+cette taxe acquiert, importe ou se livre à lui-même est déductible à proportion
+de son coefficient de déduction.

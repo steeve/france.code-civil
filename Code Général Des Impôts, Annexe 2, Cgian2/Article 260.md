@@ -18,9 +18,6 @@ Les collectivités territoriales ou les groupements de collectivités
 territoriales qui réalisent plusieurs opérations de lotissement ou d'aménagement
 de zone doivent exercer une option pour chacune de ces opérations.
 
-Chaque opération de lotissement ou d'aménagement de zone constitue un secteur
-distinct pour l'application de l'article 213.
-
 III. - Les collectivités territoriales ou les groupements de collectivités
 territoriales qui exercent l'option sont soumis à l'ensemble des obligations qui
 incombent aux assujettis à la taxe sur la valeur ajoutée. Les règles relatives à

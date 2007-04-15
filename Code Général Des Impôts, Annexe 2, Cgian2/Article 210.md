@@ -1,47 +1,36 @@
 Article 210
 ----
-I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la
-dix-neuvième année (1) qui suit celle de leur acquisition ou de leur achèvement
-et que la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou
-la valeur totale de l'immeuble, l'assujetti est redevable d'une fraction de la
-taxe antérieurement déduite. Cette fraction est égale au montant de la déduction
-diminuée d'un vingtième (2) par année civile ou fraction d'année civile écoulée
-depuis la date à laquelle l'immeuble a été acquis ou achevé. Sont assimilés à
-une cession ou un apport la cessation de l'activité ou la cessation des
-opérations ouvrant droit à déduction ainsi que le transfert entre différents
-secteurs d'activités d'un assujetti prévus à l'article 213. Lorsque le droit à
-déduction n'a été ouvert qu'après la date de l'acquisition ou de l'achèvement de
-l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette
-date. Lorsqu'un immeuble acquis ou construit en vue de la vente est utilisé
-directement par l'assujetti, la date de la première utilisation se substitue à
-celle de l'acquisition ou de l'achèvement.
+I.-1. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des
+immobilisations et utilisés pour la réalisation d'opérations ouvrant droit à
+déduction peut être déduite, dans les conditions et suivant les modalités
+prévues au 2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même
+propriétaire.
 
-II. Les dispositions du I s'appliquent aux autres biens constituant des
-immobilisations qui sont cédés, apportés ou ont disparu avant le commencement de
-la quatrième année qui suit celle de leur acquisition, de leur importation ou de
-leur première utilisation. Toutefois, la diminution est d'un cinquième au lieu
-d'un vingtième (2) par année civile ou fraction d'année civile.
+2. La taxe déductible est celle afférente :
 
-III. L'obligation prévue au présent article peut être transférée à une société
-absorbante ou à une société bénéficiaire de l'apport du bien.
+1° Aux dépenses exposées pour les investissements publics que l'Etat, les
+collectivités territoriales ainsi que leurs groupements, ou leurs établissements
+publics confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et
+risques, la gestion du service public qu'ils lui ont déléguée ;
 
-Elle ne concerne pas les immeubles pour lesquels la déduction initiale ne
-pouvait plus donner lieu à régularisation à la date d'entrée en vigueur du
-décret n° 75-102 du 20 février 1975 modifiant certaines dispositions relatives
-aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des
-biens constituant des immobilisations.
+2° Aux immeubles édifiés par les sociétés de construction dont les parts ou
+actions donnent vocation à l'attribution en propriété ou en jouissance d'un
+immeuble ou d'une fraction d'immeuble.
 
-Elle ne concerne pas les autres biens constituant des immobilisations lorsque le
-redevable justifie qu'ils lui ont été volés.
+3. La taxe déductible est celle due ou supportée à raison de l'acquisition ou de
+la construction du bien, ou de la réalisation des travaux. La mise à disposition
+ou l'entrée en jouissance du bien, le retrait ou l'interruption dans la
+jouissance du bien sont assimilés à des transferts de propriété. Les personnes
+énumérées au 2 délivrent à l'utilisateur une attestation du montant de la taxe
+qui a grevé le bien. Une copie est adressée au service des impôts.
 
-IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire
-de la cession, de l'apport ou du transfert, celui-ci peut opérer la déduction de
-la taxe ayant initialement grevé le bien diminuée dans les conditions précitées.
-A cette fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation
-mentionnant le montant de la taxe qu'il est en droit de déduire. La taxe ayant
-initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 du
-II de l'article 271 du code général des impôts ou de la fraction de taxe
-mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le bénéficiaire
-d'une cession ou d'un apport ultérieur peut également opérer la déduction d'une
-fraction, calculée dans les conditions précitées, de la taxe que le précédent
-propriétaire était en droit de déduire.
+II.-Les redevables de la taxe sur la valeur ajoutée qui, compte tenu des
+dispositions du 2° du 1 et du 2° du 4 de l'article 298 du code général des
+impôts, ne peuvent opérer eux-mêmes les déductions auxquelles ils ont droit sont
+autorisés à transférer leurs droits à déduction aux redevables de la taxe sur la
+valeur ajoutée exigible lors de la mise à la consommation des produits
+pétroliers et assimilés énumérés au tableau B de l'article 265 du code des
+douanes.
+
+Ce transfert s'effectue sous le couvert de certificats de transfert de droits à
+déduction, délivrés par la direction générale des douanes et droits indirects.
