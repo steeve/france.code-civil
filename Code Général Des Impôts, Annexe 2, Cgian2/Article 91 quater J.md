@@ -9,16 +9,15 @@ capitalisation, à la date de sa clôture diminuée des sommes ou valeurs
 correspondant à des retraits ou rachats réalisés, concomitamment à la clôture,
 en vue de la création ou de la reprise d'une entreprise dans les conditions
 fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité. La valeur
-liquidative est, le cas échéant, diminuée du montant des produits, avoirs
-fiscaux et crédits d'impôt inclus, ne bénéficiant pas de l'exonération prévue au
-5° bis de l'article 157 du code général des impôts. Dans ce dernier cas, le
-contribuable joint à la déclaration susmentionnée les éléments nécessaires à la
-détermination de cette correction.
+liquidative est, le cas échéant, diminuée du montant des produits ne bénéficiant
+pas de l'exonération prévue au 5° bis de l'article 157 du code général des
+impôts. Dans ce dernier cas, le contribuable joint à la déclaration
+susmentionnée les éléments nécessaires à la détermination de cette correction.
 
 Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé
 depuis l'ouverture du plan d'épargne en actions est, le cas échéant, diminué du
-montant des produits, avoirs fiscaux et crédits d'impôt inclus, qui n'ont pas
-bénéficié de l'exonération prévue au 5° bis de l'article 157 du même code.
+montant des produits qui n'ont pas bénéficié de l'exonération prévue au 5° bis
+de l'article 157 du même code.
 
 Lorsque la clôture du plan intervient avant l'expiration de la deuxième année,
 cette déclaration doit faire apparaître sous une rubrique spéciale le montant du

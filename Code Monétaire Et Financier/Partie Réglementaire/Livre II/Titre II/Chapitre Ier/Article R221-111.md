@@ -7,8 +7,7 @@ II. - Lorsque le plan d'épargne en actions est ouvert auprès d'un organisme
 autre qu'une entreprise d'assurance, l'organisme gestionnaire du plan porte au
 crédit du compte en espèces les versements effectués par le titulaire, le
 montant des produits en espèces que procurent les valeurs inscrites au compte de
-titres associé et des avoirs fiscaux ou crédits d'impôt restitués par
-l'administration, les remboursements ainsi que le montant des ventes de ces
+titres associé, les remboursements ainsi que le montant des ventes de ces
 valeurs. Il porte au débit du compte le montant des souscriptions ou
 acquisitions des valeurs inscrites au compte de titres associé et le montant des
 retraits en espèces. Les frais de gestion peuvent également être portés au débit
