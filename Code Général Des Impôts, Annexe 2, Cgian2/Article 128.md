@@ -4,7 +4,7 @@ Article 128
 chaque année la déclaration prévue, selon le cas, à l'article 223 ou à l'article
 223 Q du code général des impôts.
 
-2. (Abrogé).
+2. (Abrogé)
 
 3. Les sociétés agréées en vertu de l'article 113 doivent souscrire avant la fin
 du onzième mois suivant la clôture de l'exercice la déclaration du résultat
@@ -26,13 +26,7 @@ consolidé ;
 un état faisant apparaître le montant des impôts imputables sur l'impôt sur les
 sociétés dû par la société agréée.
 
-4. Les sociétés agréées en vertu de l'article 113 doivent souscrire dans le
-délai indiqué au 3 :
-
-1° La déclaration faisant apparaître les imputations opérées pour l'application
-de l'article 223 sexies du code général des impôts ;
-
-2° (Dispositions devenues sans objet).
+4. (Dispositions abrogées)
 
 5. Les sociétés agréées en vertu de l'article 113 doivent produire au service
 qui a accordé l'agrément :

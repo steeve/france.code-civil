@@ -29,11 +29,9 @@ b. Le montant cumulé des versements effectués depuis l'ouverture du plan,
 diminué du montant des versements correspondant à des retraits ou rachats
 n'entraînant pas la clôture de ce plan.
 
-L'organisme indique distinctement le montant des produits, avoirs fiscaux et
-crédits d'impôt procurés par les placements effectués en actions ou parts de
-sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à
-l'exception des intérêts versés, dans les conditions prévues à l'article 14 de
-la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, aux
-titres de capital de sociétés régies par cette loi. Les avoirs fiscaux et
-crédits d'impôt retenus sont ceux attachés aux produits encaissés dans le cadre
-du plan au cours de l'année civile précédente.
+L'organisme indique distinctement le montant des produits procurés par les
+placements effectués en actions ou parts de sociétés qui ne sont pas admises aux
+négociations sur un marché réglementé, à l'exception des intérêts versés, dans
+les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947
+portant statut de la coopération, aux titres de capital de sociétés régies par
+cette loi.

@@ -12,10 +12,10 @@ françaises ;
 b. Est tenu de délivrer au présentateur un certificat libellé au nom du
 bénéficiaire.
 
-2. L'avoir fiscal mentionné sur le certificat prévu au b du 1 comprend :
+2. Le montant du crédit d'impôt mentionné sur le certificat prévu au b du 1
+comprend :
 
-a. L'avoir attaché, en vertu de l'article 158 bis du code général des impôts,
-aux dividendes répartis par les sociétés françaises ;
+a. (dispositions abrogées) ;
 
 b. Le crédit d'impôt correspondant aux retenues prélevées en vertu du 1 des
 articles 119 bis et 1678 bis du code général des impôts ou réputées prélevées

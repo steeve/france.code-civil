@@ -23,6 +23,3 @@ de l'assiette et du montant de la contribution sociale généralisée, de la
 contribution pour le remboursement de la dette sociale, du prélèvement social et
 de la contribution additionnelle à ce prélèvement qui seront, le cas échéant,
 dus ultérieurement.
-
-Il lui communique également le montant des avoirs fiscaux et crédits d'impôt
-dont la restitution par l'Etat doit intervenir après le transfert.

@@ -1,10 +1,10 @@
 Article 122
 ----
 1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les
-sociétés et du précompte dont elle est redevable, au titre de chaque exercice, à
-raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du
-même exercice, hors de la France métropolitaine et des départements d'outre-mer,
-sur les bénéfices de ses exploitations directes et indirectes.
+sociétés dont elle est redevable, au titre de chaque exercice, à raison du
+résultat consolidé, les prélèvements fiscaux effectués, au titre du même
+exercice, hors de la France métropolitaine et des départements d'outre-mer, sur
+les bénéfices de ses exploitations directes et indirectes.
 
 Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité
 monétaire, assis sur un résultat fiscal, non déductibles de ce résultat et qui
