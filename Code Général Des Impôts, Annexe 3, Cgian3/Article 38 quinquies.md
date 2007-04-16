@@ -10,7 +10,8 @@ de règlement obtenus et majoré des coûts directement engagés pour la mise en
 état d'utilisation du bien et des coûts d'emprunt dans les conditions prévues à
 l'article 38 undecies.
 
-Les droits de mutation, honoraires ou commissions et frais d'acte liés à
+Sous réserve des dispositions du VII de l'article 209 du code général des
+impôts, les droits de mutation, honoraires ou commissions et frais d'acte liés à
 l'acquisition peuvent être, au choix de l'entreprise, soit portés à l'actif du
 bilan en majoration du coût d'acquisition de l'immobilisation à laquelle ils se
 rapportent, soit déduits immédiatement en charges. Ce choix est exercé
