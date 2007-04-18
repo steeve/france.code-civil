@@ -30,9 +30,9 @@ République française, nommés sur proposition des organismes professionnels, e
 six membres représentant les personnes assujetties à l'obligation d'assurance
 nommés sur proposition des organisations professionnelles à raison de un par
 l'assemblée permanente des présidents de chambres d'agriculture, un par
-l'assemblée permanente des présidents de chambres de métiers, un par les
-organismes professionnels les plus représentatifs des transports publics
-routiers de voyageurs ou de marchandises et trois par le collège des
+l'assemblée permanente des présidents de chambres de métiers et de l'artisanat,
+un par les organismes professionnels les plus représentatifs des transports
+publics routiers de voyageurs ou de marchandises et trois par le collège des
 consommateurs du Conseil national de la consommation ;
 
 3° Lorsqu'il statue en matière d'assurance des engins de remontée mécanique et
@@ -53,11 +53,11 @@ d'assurance pratiquant sur le territoire de la République française l'assuranc
 de responsabilité civile médicale prévue à ce même article, nommés sur
 proposition des organismes professionnels, et six membres représentant les
 assujettis à cette obligation d'assurance. Ces derniers sont nommés par arrêté
-du ministre chargé de la santé pour une période de trois ans renouvelable et
-comprennent :
+du ministre chargé de la sécurité sociale pour une période de trois ans
+renouvelable et comprennent :
 
 a) Au moins un membre représentant les professionnels de santé exerçant à titre
-libéral sur proposition du Centre national des professions de santé ;
+libéral sur proposition de l'Union nationale des professionnels de santé ;
 
 b) Au moins un membre sur proposition des organismes professionnels
 représentatifs des établissements de santé ;
