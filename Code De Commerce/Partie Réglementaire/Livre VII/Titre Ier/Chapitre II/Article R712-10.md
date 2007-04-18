@@ -1,31 +1,28 @@
 Article R712-10
 ----
-Les chambres de commerce et d'industrie constituant la chambre régionale de
-commerce et d'industrie sont autorisées par voie d'approbation du budget de la
-chambre régionale de commerce et d'industrie ou par décision particulière du
-ministre chargé de leur tutelle, à prévoir dans leur budget annuel un crédit
-spécial représentant leur part contributive aux dépenses de la chambre régionale
-de commerce et d'industrie.
+Dans les cas mentionnés aux alinéas ci-dessous, l'autorité de tutelle peut
+mettre en place une tutelle renforcée, après avoir demandé préalablement à
+l'établissement de prendre, dans un délai qu'elle fixe, les mesures correctrices
+nécessaires :
 
-Cette part contributive est ouverte soit au moyen de disponibilités du budget ou
-du fonds de réserve, soit à l'aide de l'imposition additionnelle à la taxe
-professionnelle qu'elles perçoivent.
+1° Lorsqu'il est constaté au cours de deux exercices budgétaires consécutifs que
+le résultat net ou le résultat d'exploitation ou le fonds de roulement sont
+négatifs, ou que les ratios mesurant la rentabilité ou la capacité
+d'autofinancement sont insuffisants ;
 
-Il est produit, à l'appui du budget de la chambre régionale de commerce et
-d'industrie, un état certifié par le président de la chambre régionale et
-indiquant :
+2° Lorsque les risques supportés par l'établissement sont excessifs ;
 
-a) Par chambre de commerce et d'industrie, le montant total des bases de la taxe
-professionnelle retenues dans les rôles généraux de l'année 2001 comme base de
-la taxe additionnelle à la taxe professionnelle prévue à l'article 1600 du code
-général des impôts, pour l'ensemble des communes de la circonscription ;
+3° Lorsqu'il ressort des résultats d'un audit que l'insuffisante évaluation des
+charges nécessite de prendre des mesures de gestion correctrices ;
 
-b) La répartition effectuée entre les diverses chambres de commerce au titre de
-l'exercice budgétaire concerné de la somme complémentaire nécessaire au
-règlement des dépenses de la chambre régionale de commerce et d'industrie compte
-tenu des ressources propres de cette dernière.
+4° Lorsque le ou les commissaires aux comptes ont refusé de certifier les
+comptes ;
 
-Dès réception du budget de la chambre régionale de commerce et d'industrie
-approuvé, le président de la chambre régionale notifie aux chambres de commerce
-le montant de leur contribution, qui doit figurer sur leur projet de budget
-respectif.
+5° Lorsque est constaté un dysfonctionnement grave dans l'exercice d'une mission
+de service public de l'établissement.
+
+Dans ce cas, l'autorité de tutelle institue un suivi renforcé de la gestion de
+l'établissement et en informe le ministre chargé de la tutelle des chambres de
+commerce et d'industrie. Elle lui rend compte régulièrement de l'évolution de sa
+situation et l'informe de sa décision de mettre fin à la tutelle renforcée,
+lorsqu'elle estime remplies les conditions du retour à l'équilibre.

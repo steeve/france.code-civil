@@ -1,9 +1,18 @@
 Article R712-13
 ----
-Les ressources de l'assemblée proviennent de contributions des chambres de
-commerce et d'industrie et des chambres régionales, de subventions et de
-recettes diverses. Les modalités de calcul et de répartition des contributions
-des chambres de commerce et d'industrie et des chambres régionales sont arrêtées
-par le ministre chargé de la tutelle des chambres de commerce et d'industrie,
-sur proposition de l'assemblée. Ces contributions constituent une dépense
-obligatoire pour les établissements qui composent l'assemblée.
+Le président de l'établissement est chargé de l'exécution du budget. Il émet, à
+destination du trésorier, les titres de perception des recettes et des produits,
+ainsi que les mandats des dépenses et des charges, préalablement à leur
+encaissement ou à leur paiement.
+
+Le trésorier est chargé de la tenue de la comptabilité, de l'exécution des
+opérations de dépenses et de recettes, ainsi que de la gestion de la trésorerie.
+Il est assisté en tant que de besoin par les services comptables et les régies
+mentionnées au dernier alinéa.
+
+Les délégations de signature du président et du trésorier respectent la règle de
+séparation de leurs compétences respectives.
+
+Des régies, limitées dans leur objet et leur montant, peuvent être instituées
+par le président, avec l'accord du trésorier, en ce qui concerne les recettes et
+les dépenses de faible importance, urgentes ou répétitives.

@@ -1,18 +1,13 @@
 Article R712-3
 ----
-Le président de l'établissement est chargé de l'exécution du budget. Il émet, à
-destination du trésorier, les titres de perception des recettes et des produits,
-ainsi que les mandats des dépenses et des charges, préalablement à leur
-encaissement ou à leur paiement.
+L'autorité de tutelle a accès de droit à toutes les séances des assemblées
+générales des établissements du réseau des chambres de commerce et d'industrie
+et du comité directeur de l'Assemblée des chambres françaises de commerce et
+d'industrie. Elle peut se faire représenter.
 
-Le trésorier est chargé de la tenue de la comptabilité, de l'exécution des
-opérations de dépenses et de recettes, ainsi que de la gestion de la trésorerie.
-Il est assisté en tant que de besoin par les services comptables et les régies
-mentionnées au dernier alinéa.
+Ces établissements informent l'autorité de tutelle des séances de leurs
+assemblées générales et du comité directeur dans les mêmes conditions et délais
+que ceux fixés pour les membres par le règlement intérieur de l'établissement.
 
-Les délégations de signature du président et du trésorier respectent la règle de
-séparation de leurs compétences respectives.
-
-Des régies, limitées dans leur objet et leur montant, peuvent être instituées
-par le président, avec l'accord du trésorier, en ce qui concerne les recettes et
-les dépenses de faible importance, urgentes ou répétitives.
+L'autorité de tutelle peut faire ajouter un ou plusieurs sujets à l'ordre du
+jour de ces instances.

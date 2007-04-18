@@ -3,9 +3,9 @@ Article R920-1
 Sous réserve des adaptations prévues dans les chapitres ci-après, les
 dispositions suivantes du code sont applicables à Mayotte :
 
-1° Le livre I, à l'exception des articles R. 121-3, R. 121-4, R. 123-171-1, R.
-122-1 à R. 122-17, R. 123-209 à R. 123-219, R. 132-1 à R. 133-2, D. 145-12 à D.
-145-19, D. 146-1 et D. 146-2 ;
+1° Le livre I, à l'exception des articles R. 121-3, R. 121-4, R. 122-1 à R.
+122-17, R. 123-209 à R. 123-219, R. 132-1 à R. 133-2, D. 145-12 à D. 145-19, D.
+146-1 et D. 146-2 ;
 
 2° Le livre II, à l'exception de l'article R. 252-1 ;
 

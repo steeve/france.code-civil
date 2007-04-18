@@ -2,7 +2,7 @@ Article R711-52
 ----
 La chambre régionale se réunit au moins tous les trois mois et, en outre, chaque
 fois qu'elle est convoquée par son président de sa propre initiative ou sur la
-demande du ministre chargé de sa tutelle.
+demande du préfet de région.
 
 Le président réunit également la chambre régionale toutes les fois qu'il est
 saisi d'une demande émanant du tiers de ses membres.

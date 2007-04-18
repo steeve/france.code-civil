@@ -1,25 +1,17 @@
 Article R712-5
 ----
-Le budget est un document unique comprenant l'ensemble des comptes retraçant les
-activités exercées directement par l'établissement et celles dont il contrôle
-l'exercice par l'intermédiaire de personnes dépendant de lui. Ce caractère
-unique ne fait pas obstacle à ce que le budget comprenne, dans les conditions
-fixées par arrêté du ministre chargé de la tutelle des chambres de commerce et
-d'industrie, des regroupements ou des subdivisions, sous forme de sections
-comptables ou autres, destinées à individualiser certaines activités, notamment
-économiques.
+La décision de suspension ou de dissolution des instances d'un établissement du
+réseau est prise en application de l'article L. 712-9 par arrêté de l'autorité
+de tutelle.
 
-Le budget primitif peut faire l'objet, en cas de nécessité, de budgets
-rectificatifs.
-
-A l'issue de chaque exercice, l'assemblée générale vote, d'une part, un budget
-exécuté, qui retrace les conditions dans lesquelles le budget primitif et les
-budgets rectificatifs ont été exécutés, et, d'autre part, un bilan, un compte de
-résultat et une annexe établis dans les conditions prévues à l'article R. 612-2
-applicable aux personnes morales de droit privé non commerçantes ayant une
-activité économique.
-
-Le plan comptable applicable aux documents mentionnés ci-dessus est fixé par
-arrêté conjoint du ministre chargé de la tutelle des chambres de commerce et
-d'industrie, du garde des sceaux, ministre de la justice, et du ministre chargé
-du budget.
+Cet arrêté précise la composition de la commission provisoire chargée d'expédier
+les affaires courantes jusqu'à la fin de la suspension ou, en cas de
+dissolution, dans l'attente de nouvelles élections. Cette commission est
+composée de trois à neuf présidents ou anciens présidents de chambre régionale
+de commerce et d'industrie et de chambre de commerce et d'industrie pour ce qui
+concerne l'Assemblée des chambres françaises de commerce et d'industrie, trois à
+neuf présidents ou anciens présidents de chambre du ressort de la chambre
+régionale pour ce qui concerne ces chambres régionales, trois à neuf membres
+désignés parmi les membres ou anciens membres pour ce qui concerne les chambres
+de commerce et d'industrie et trois à neuf membres désignés parmi les chambres
+participant au groupement en ce qui concerne les groupements interconsulaires.
