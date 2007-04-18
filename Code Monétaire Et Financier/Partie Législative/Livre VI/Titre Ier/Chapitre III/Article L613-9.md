@@ -1,6 +1,6 @@
 Article L613-9
 ----
-I. - La commission bancaire peut demander aux commissaires aux comptes des
+I.-La commission bancaire peut demander aux commissaires aux comptes des
 personnes soumises à son contrôle en application des articles L. 613-1 et L.
 613-2 et des personnes morales définies au 4 de l'article L. 511-21 tout
 renseignement sur l'activité et sur la situation financière de l'entité qu'ils
@@ -20,18 +20,18 @@ La commission bancaire peut, en outre, transmettre des observations écrites aux
 commissaires aux comptes qui sont alors tenus d'apporter des réponses en cette
 forme.
 
-II. - Les commissaires aux comptes sont tenus de signaler dans les meilleurs
+II.-Les commissaires aux comptes sont tenus de signaler dans les meilleurs
 délais à la commission bancaire tout fait ou décision concernant les personnes
 mentionnées au premier alinéa du I du présent article dont ils ont eu
 connaissance dans l'exercice de leur mission, de nature :
 
-1. A constituer une violation des dispositions législatives ou réglementaires
-qui leur sont applicables et susceptibles d'avoir des effets significatifs sur
-la situation financière, le résultat ou le patrimoine ;
+1.A constituer une violation des dispositions législatives ou réglementaires qui
+leur sont applicables et susceptibles d'avoir des effets significatifs sur la
+situation financière, le résultat ou le patrimoine ;
 
-2. A porter atteinte à la continuité d'exploitation ;
+2.A porter atteinte à la continuité d'exploitation ;
 
-3. A entraîner l'émission de réserves ou le refus de la certification des
+3.A entraîner l'émission de réserves ou le refus de la certification des
 comptes.
 
 La même obligation s'applique aux faits et aux décisions mentionnés ci-dessus
@@ -60,5 +60,5 @@ tribunal compétent de relever celui-ci de ses fonctions selon les modalités
 prévues à l'article L. 823-7 du code de commerce.
 
 La commission bancaire peut également dénoncer cette infraction à l'autorité
-disciplinaire compétente. A cette fin, la commission bancaire peut communiquer
+disciplinaire compétente.A cette fin, la commission bancaire peut communiquer
 tous les renseignements nécessaires à la bonne information de cette autorité.
