@@ -21,4 +21,4 @@ comptabilité auxiliaire d'affectation.
 
 Ces documents sont transmis en langue française. Le Comité des entreprises
 d'assurance accuse réception de ces documents. Cet accusé fait courir le délai
-de deux mois mentionné au premier alinéa de l'article L. 370-1.
+de deux mois mentionné au premier alinéa de l'article L. 370-3.

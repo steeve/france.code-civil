@@ -5,10 +5,11 @@ remplie dès lors que dans le contrat ou dans la notice s'agissant des contrats
 mentionnés à l'article L. 141-1 :
 
 1° Il est indiqué que le souscripteur ou l'adhérent peut désigner le ou les
-bénéficiaires dans le contrat et ultérieurement par avenant au contrat, ou dans
-le bulletin d'adhésion et ultérieurement par avenant à l'adhésion. Il est en
-outre indiqué que la désignation du bénéficiaire peut être effectuée notamment
-par acte sous seing privé ou par acte authentique.
+bénéficiaires dans le contrat et ultérieurement par avenant au contrat, ou, pour
+les contrats mentionnés à l'article L. 141-1, dans le bulletin d'adhésion et
+ultérieurement par avenant à l'adhésion. Il est en outre indiqué que la
+désignation du bénéficiaire peut être effectuée notamment par acte sous seing
+privé ou par acte authentique.
 
 2° Il est indiqué au souscripteur ou à l'adhérent que, lorsque le bénéficiaire
 est nommément désigné, il peut porter au contrat les coordonnées de ce dernier

@@ -17,11 +17,11 @@ différence est affectée à la provision pour aléas financiers mentionnée au 
 l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise
 à l'inventaire suivant.
 
-Les contrats à capital variable ainsi que les opérations de prévoyance
-collective visées au chapitre Ier du titre IV du livre IV et les opérations
-mentionnées à l'article L. 142-1 ne sont pas concernés par ces dispositions.
+Les contrats à capital variable et les opérations mentionnées aux articles L.
+142-1 et L. 441-1 ne sont pas concernés par ces dispositions.
 
 Le taux de rendement réel des actifs est calculé conformément à l'article A.
-331-7. Il ne tient pas compte du rendement des actifs afférents aux contrats à
-capital variable, aux opérations mentionnés à l'article L. 441-1 ainsi qu'à
-celles mentionnées à l'article L. 142-1 du code des assurances.
+331-7. Toutefois, il tient compte du rendement des actifs mentionnés au premier
+alinéa de l'article L. 324-7 ou inscrits dans les comptabilités auxiliaires
+d'affectation dont relèvent les contrats mentionnés aux 11 et 12 de l'article A.
+344-2.

@@ -1,6 +1,6 @@
 Article A132-5-2
 ----
-I. - Pour les contrats mentionnés à l'article L. 142-1 et ne relevant pas de
+I. ― Pour les engagements mentionnés à l'article L. 142-1 et ne relevant pas de
 l'article R. 142-12, le I de l'article A. 132-4-1 s'applique comme suit :
 
 1° Lorsque le taux technique retenu est non nul, l'explication littéraire
@@ -32,20 +32,20 @@ L'ensemble des paramètres de calcul retenus pour ces simulations est mentionné
 En particulier, il est indiqué, parmi les paramètres supposés constants pour la
 simulation, ceux qui sont susceptibles d'évoluer au cours du temps.
 
-II. - Pour les contrats mentionnés à l'article R. 142-12, le I de l'article A.
-132-4-1 s'applique également. La notice précise en caractères très apparents que
-l'entreprise d'assurance ne s'engage que sur le nombre de parts de provision de
-diversification, mais pas sur leur valeur ; il est également précisé que la
+II. ― Pour les engagements mentionnés à l'article R. 142-12, le I de l'article
+A. 132-4-1 s'applique également. La notice précise en caractères très apparents
+que l'entreprise d'assurance ne s'engage que sur le nombre de parts de provision
+de diversification, mais pas sur leur valeur ; il est également précisé que la
 valeur de ces parts de provision de diversification, qui reflète la valeur
 d'actifs sous-jacents, n'est pas garantie mais est sujette à des fluctuations à
 la hausse ou à la baisse dépendant en particulier de l'évolution des marchés
 financiers.
 
-III. - Pour les contrats mentionnés au premier alinéa de l'article R. 142-8 ne
+III. ― Pour les contrats mentionnés au premier alinéa de l'article R. 142-8 ne
 comportant pas de valeur de rachat durant huit années au moins, le I de
 l'article A. 132-4-1 ne s'applique pas.
 
-IV. - 1° Pour l'application du a du 2° de l'article A. 132-8 aux contrats
+IV. ― 1° Pour l'application du a du 2° de l'article A. 132-8 aux contrats
 mentionnés à l'article L. 142-1 :
 
 a) Pour les contrats ne relevant pas de l'article R. 142-11, il est indiqué dans

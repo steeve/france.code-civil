@@ -4,7 +4,7 @@ Information sur les valeurs de rachat ou de transfert ne pouvant être établies
 en euros ou devises lors de la remise du projet de contrat, de la proposition
 d'assurance ou de la notice.
 
-I. - Principe :
+I.-Principe :
 
 L'information prévue au cinquième alinéa de l'article L. 132-5-2 et au premier
 alinéa de l'article L. 132-5-3 sur les valeurs de rachat ou de transfert ne
@@ -20,11 +20,11 @@ exprimée en euros ou en devises.
 
 2° Dans le tableau mentionné à l'article L. 132-5-2, les valeurs de rachat ou de
 transfert, selon les cas à partir d'un nombre générique d'unités de compte, d'un
-nombre générique de parts de provision technique de diversification, ou d'une
-formule de calcul le cas échéant ; l'indication de ces valeurs est complétée par
-une explication littéraire en dessous dudit tableau.
+nombre générique de parts de provision de diversification, ou d'une formule de
+calcul le cas échéant ; l'indication de ces valeurs est complétée par une
+explication littéraire en dessous dudit tableau.
 
-II. - Application au cas particulier des contrats comprenant des garanties en
+II.-Application au cas particulier des contrats comprenant des garanties en
 unités de compte :
 
 Pour les contrats relevant du deuxième alinéa de l'article L. 131-1, les

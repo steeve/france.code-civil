@@ -1,19 +1,31 @@
 Article A331-4
 ----
 I - Pour les opérations de chaque entreprise mentionnées au 1° de l'article L.
-310-1, le montant minimal de la participation aux bénéfices à attribuer au titre
-d'un exercice est déterminé globalement à partir d'un compte de participation
-aux résultats.
+310-1 autres que celles mentionnées aux catégories 8 à 13 de l'article A. 344-2,
+le montant minimal de la participation aux bénéfices à attribuer au titre d'un
+exercice est déterminé globalement à partir d'un compte de participation aux
+résultats.
 
-Ce compte comporte, pour les contrats mentionnés à l'article A. 331-3, les
-éléments de dépenses et de recettes concernant les catégories 1, 2, 3, 4, 5, 7
-et 10 de l'article A. 344-2 et figurant, à l'annexe à l'article A. 344-3, dans
-la ventilation de l'ensemble des produits et charges des opérations par
-catégorie (point 2.2, "Catégories 1 à 19", du modèle d'annexe), aux sous-totaux
-"A. - Solde de souscription" et "B. - Charges d'acquisition et de gestion
-nettes". Il comporte également en dépenses la participation de l'assureur aux
-bénéfices de la gestion technique, qui est constituée par 10 % du solde
-créditeur des éléments précédents.
+Ce compte comporte les éléments de dépenses et de recettes concernant les
+catégories 1, 2, 3, 4, 5, 6 et 7 de l'article A. 344-2 et figurant, à l'annexe à
+l'article A. 344-3, dans la ventilation de l'ensemble des produits et charges
+des opérations par catégorie (point 2.2, "Catégories 1 à 19", du modèle
+d'annexe), aux sous-totaux "A. - Solde de souscription" et "B. - Charges
+d'acquisition et de gestion nettes". Le compte comprend également pour les
+contrats relevant de la catégorie 6 de l'article A. 344-2 les éléments de
+dépenses et de recettes concernant les garanties accessoires correspondant à la
+catégorie 21 dudit article et figurant, à l'annexe à l'article A. 334-3, dans la
+ventilation de l'ensemble des opérations par catégories (point 2.2, "Catégories
+20 à 39", du modèle d'annexe) aux sous-totaux "A. - Solde de souscription" et
+"B. - Charges d'acquisition et de gestion nettes", dès lors que le solde de ces
+éléments de dépenses et de recettes est débiteur. Toutefois, ce solde débiteur
+ne s'impute qu'à hauteur maximale du solde créditeur de la catégorie 6, le solde
+non imputé pouvant s'imputer dans les mêmes conditions au titre d'un exercice
+ultérieur. Le compte de participation comporte également en dépenses la
+participation de l'assureur aux bénéfices de la gestion technique, qui est
+constituée par le montant le plus élevé entre 10 % du solde créditeur des
+éléments précédents et 4,5 % des primes annuelles correspondant aux opérations
+relevant des catégories 3 et 6 de l'article A. 344-2.
 
 Il est ajouté en recette du compte de participation aux résultats une part des
 produits financiers. Cette part est égale à 85 % du solde d'un compte financier

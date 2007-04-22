@@ -4,7 +4,7 @@ I. - Pour les contrats mentionnés à l'article L. 142-1, durant la durée
 d'application de l'article R. 342-3, la mention d'une affectation d'actifs par
 l'entreprise d'assurance en raison d'une insuffisance de représentation des
 engagements figure en caractères très apparents dans la notice mentionnée à
-l'article L. 141-1.
+l'article L. 141-4.
 
 II. - Les adhérents sont avisés par écrit de la mise en application de l'article
 R. 342-3, dans un délai qui ne peut excéder un mois.

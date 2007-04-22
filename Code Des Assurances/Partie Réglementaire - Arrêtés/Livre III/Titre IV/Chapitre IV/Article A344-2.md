@@ -27,10 +27,14 @@ unique (ou versements libres) ;
 9 Contrats d'assurance vie ou de capitalisation en unités de compte à primes
 périodiques ;
 
-10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
+10 Contrats collectifs relevant de l'article L. 441-1 ;
 
-11 Plans d'épargne retraite populaires relevant de l'article 108 de la loi n°
-2003-775 du 21 août 2003 ;
+11 Contrats relevant de l'article L. 144-2 ;
+
+12. Contrats de retraite professionnelle supplémentaire ne relevant pas des
+articles L. 142-1 et L. 441-1 ;
+
+13. Contrats relevant du chapitre II du titre IV du livre Ier ;
 
 19 Acceptations en réassurance (vie) ;
 
