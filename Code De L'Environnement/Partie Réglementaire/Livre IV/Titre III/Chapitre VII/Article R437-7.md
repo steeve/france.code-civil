@@ -1,10 +1,17 @@
 Article R437-7
 ----
-Toute proposition de transaction doit être adressée au procureur de la
-République dans les délais de quatre mois pour les contraventions et d'un an
-pour les délits à compter de la clôture du procès-verbal.
+I.-Peuvent exercer, conjointement avec le ministère public, les poursuites et
+actions mentionnées à l'article L. 437-15 :
 
-Elle précise la somme que l'auteur de l'infraction sera invité à payer au Trésor
-public et, s'il y a lieu, les obligations tendant à faire cesser l'infraction ou
-à éviter son renouvellement qui lui seraient imposées. Elle fixe les délais dans
-lesquels elle devra être exécutée.
+1° Le préfet de département, lorsque l'infraction constitue une contravention ;
+
+2° Le préfet de région, lorsque l'infraction constitue un délit.
+
+II.-Le préfet de département et le préfet de région peuvent se faire représenter
+à l'audience par, respectivement :
+
+1° Les directeurs départementaux de l'agriculture et de la forêt, les directeurs
+départementaux de l'équipement, les chefs de circonscription des services
+spécialisés de la navigation ou leurs représentants ;
+
+2° Les directeurs régionaux de l'environnement ou leurs représentants.
