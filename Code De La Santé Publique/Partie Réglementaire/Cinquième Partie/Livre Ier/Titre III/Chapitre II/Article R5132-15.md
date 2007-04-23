@@ -12,7 +12,10 @@ l'article R. 5132-10 ;
 2° S'il est destiné à l'animal, un espace blanc, entouré d'un filet coloré, dans
 lequel le pharmacien ou le vétérinaire dispensateur inscrit la posologie
 prescrite ainsi que la mention prévue au 13° de l'article R. 5141-73 en
-caractères noirs sur fond rouge.
+caractères noirs sur fond rouge. S'il s'agit d'un médicament classé comme
+stupéfiant ou soumis à la réglementation des stupéfiants, le pharmacien ou le
+vétérinaire dispensateur inscrit en outre son nom, son adresse et le numéro
+d'ordre prévu à l'article R. 5141-112.
 
 L'espace blanc est d'une surface suffisante pour permettre l'apposition des
 mentions requises ; il est placé sous la dénomination spéciale de la spécialité
@@ -24,10 +27,7 @@ avaler", "Ne pas faire avaler", "Respecter les doses prescrites" selon les
 modalités fixées à l'article R. 5132-18 et, imprimée en caractères noirs, la
 mention :
 
-"Uniquement sur ordonnance". S'il s'agit d'un médicament classé comme stupéfiant
-ou soumis à la réglementation des stupéfiants, le pharmacien ou le vétérinaire
-dispensateur inscrit en outre son nom, son adresse et le numéro d'ordre prévu à
-l'article R. 5125-45.
+"Uniquement sur ordonnance".
 
 Lorsque les médicaments sont contenus dans un emballage extérieur conforme aux
 dispositions du présent article :

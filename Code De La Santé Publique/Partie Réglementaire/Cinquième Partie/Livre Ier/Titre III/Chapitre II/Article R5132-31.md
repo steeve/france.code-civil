@@ -11,7 +11,8 @@ chargé de la santé.
 
 La constitution et la reconstitution de cette provision sont effectuées par
 commandes à usage professionnel dans les conditions prévues au troisième alinéa
-de l'article R. 5132-4 et à l'article R. 5132-29.
+de l'article R. 5132-4 ou au VI de l'article R. 5141-111 pour les vétérinaires
+et à l'article R. 5132-29.
 
 Un relevé trimestriel indiquant le nom des praticiens, la nature et les
 quantités des médicaments délivrés est adressé par le pharmacien d'officine à

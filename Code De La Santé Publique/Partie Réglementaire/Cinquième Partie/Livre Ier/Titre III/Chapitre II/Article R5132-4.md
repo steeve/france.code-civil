@@ -1,7 +1,7 @@
 Article R5132-4
 ----
-La commande à usage professionnel de médicaments mentionnés à la présente
-section indique lisiblement :
+La commande à usage professionnel de médicaments destinés à la médecine humaine
+mentionnés à la présente section indique lisiblement :
 
 1° Le nom, la qualité, le numéro d'inscription à l'ordre, l'adresse et la
 signature du praticien, ainsi que la date ;

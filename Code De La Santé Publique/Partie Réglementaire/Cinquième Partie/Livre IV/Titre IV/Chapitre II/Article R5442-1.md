@@ -21,10 +21,14 @@ bonnes pratiques mentionnées à l'article R. 5143-1 ;
 5° De ne pas respecter les règles de prescription et de délivrance des
 médicaments vétérinaires prévues aux articles R. 5141-111 et R. 5141-112 ;
 
-6° De ne pas respecter les dispositions réglementaires fixant les conditions de
+6° Pour un vétérinaire de prescrire, sans remplir les conditions prévues au IV
+de l'article R. 5141-112-2, des médicaments vétérinaires sans examen clinique
+des animaux ;
+
+7° De ne pas respecter les dispositions réglementaires fixant les conditions de
 délivrance des substances mentionnées à l'article R. 5141-117 ;
 
-7° Pour le titulaire d'une autorisation mentionnée à l'article L. 5141-12, de ne
+8° Pour le titulaire d'une autorisation mentionnée à l'article L. 5141-12, de ne
 pas avoir déclaré, immédiatement après en avoir eu connaissance, au directeur
 général de l'Agence française de sécurité sanitaire des aliments, tout effet
 indésirable grave et tout effet indésirable sur l'être humain susceptibles
