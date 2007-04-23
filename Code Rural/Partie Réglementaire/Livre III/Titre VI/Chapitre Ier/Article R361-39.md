@@ -1,19 +1,10 @@
 Article R361-39
 ----
-La section viticole du Fonds national de solidarité agricole est alimentée par
-les ressources suivantes :
+Les prêts bonifiés à moyen terme ont pour objet :
 
-1° Sous réserve de l'inscription des crédits dans la loi de finances annuelle,
-une subvention inscrite au budget du ministère de l'agriculture et égale à une
-part déterminée annuellement du produit de la taxe unique sur les vins en
-fonction des charges de la section viticole ;
+1° La réparation des dégâts causés aux sols, plantations ainsi qu'au cheptel et
+aux bâtiments à usage agricole ;
 
-2° Les subventions éventuelles qui lui seraient accordées par les départements,
-communes, établissements publics et par toute personne physique ou morale.
-
-L'excédent d'actif de la section viticole du fonds de solidarité agricole, en
-cas de liquidation de ce dernier, est versé au Fonds national de progrès
-agricole institué par le décret du 16 janvier 1947 (section viticole).
-
-En outre, la caisse de crédit agricole mutuel prêteuse peut accorder aux
-sinistrés qui en font la demande le report des deux premières annuités.
+2° La réparation des dégâts causés aux récoltes et cultures non pérennes. Le
+bénéfice des prêts bonifiés pour calamités agricoles est dans ce cas subordonné
+au respect des niveaux de perte minimale fixés à l'article R. 361-30.

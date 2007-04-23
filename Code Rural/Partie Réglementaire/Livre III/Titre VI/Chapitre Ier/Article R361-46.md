@@ -1,4 +1,5 @@
 Article R361-46
 ----
-Le montant des prêts spéciaux à moyen terme mentionnés au 1° de l'article R.
-361-44 est calculé conformément aux dispositions de l'article R. 361-28.
+La durée maximale et les conditions de bonification d'intérêt des prêts bonifiés
+à moyen terme sont fixées par arrêté du ministre chargé de l'économie et du
+ministre chargé de l'agriculture.

@@ -1,29 +1,25 @@
 Article R361-36
 ----
-Un fonds spécial géré par la Caisse nationale de crédit agricole sous le
-contrôle d'une commission dont la composition est fixée par arrêté conjoint du
-ministre de l'agriculture et du ministre chargé de l'économie, garantit les
-emprunts contractés par les exploitants sinistrés qui ne pourraient offrir
-toutes les garanties exigées en raison de la modicité de leur exploitation et du
-fait de leur sinistre.
+A parution d'un arrêté d'attribution départementale du ministre chargé de
+l'agriculture pris dans le délai d'un mois après l'avis du Comité national de
+l'assurance en agriculture, les sommes correspondantes sont virées par la Caisse
+centrale de réassurance, pour le compte du Fonds national de garantie des
+calamités agricoles à l'agent comptable central du Trésor pour être mises à la
+disposition du trésorier-payeur général du département intéressé à un compte
+ouvert à cet effet au Trésor au nom de cet organisme. Les trésoriers-payeurs
+généraux, dès réception des crédits, en informent les préfets.
 
-Le montant des emprunts ainsi garantis par le fonds est limité à quinze fois
-celui des ressources dont il dispose.
+Le préfet, assisté du comité départemental d'expertise, arrête pour chaque
+dossier le montant des sommes allouées à chaque demandeur. Il est tenu compte,
+le cas échéant, des sommes déjà versées à titre d'acompte. Le paiement est fait
+par le comptable du Trésor dans le délai d'un mois après la réception des
+documents permettant le mandatement des indemnités allouées à chaque sinistré.
+En cas de métayage, la somme afférente aux dommages mentionnés au 1° de
+l'article R. 361-24 est versée au preneur du fonds et le bailleur est informé de
+ce versement par le préfet.
 
-Le fonds prend en charge les sommes devenues irrécouvrables sur les prêts
-assortis de sa garantie ainsi que les annuités de prêts octroyés en faveur des
-victimes de sinistres agricoles et de ceux consentis en application de l'article
-R. 361-40 dont il pourra être fait en tout ou partie remise aux emprunteurs dans
-des conditions fixées par décret.
-
-Ce fonds est alimenté par les ressources suivantes :
-
-1° Des dotations inscrites au budget de l'agriculture ;
-
-2° Des subventions éventuelles des départements, communes, établissements
-publics, organisations professionnelles agricoles et de toute personne physique
-ou morale.
-
-Toutes les garanties exigibles des sinistrés pour les prêts mentionnés au
-présent article peuvent être remplacées par une garantie individuelle ou
-collective donnée par le conseil général du département du sinistre.
+Lorsque le bénéficiaire a déjà obtenu un prêt au titre des calamités,
+l'indemnisation qui lui est servie sous forme définitive ou d'acompte doit, dans
+un délai d'un mois suivant son versement, être affectée au remboursement
+anticipé d'une partie du montant du prêt égale au montant de l'indemnisation,
+sous peine de l'interruption de la bonification de ce prêt.

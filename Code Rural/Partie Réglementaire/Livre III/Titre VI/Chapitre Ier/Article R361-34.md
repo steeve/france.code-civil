@@ -1,27 +1,30 @@
 Article R361-34
 ----
-Conformément à un arrêté conjoint d'attribution des ministres chargés de
-l'économie, du budget et de l'agriculture, pris dans le délai d'un mois après
-l'avis de la Commission nationale des calamités agricoles, les sommes
-correspondantes sont virées par la Caisse centrale de réassurance, à un compte
-ouvert à cet effet au Trésor au nom de cet organisme pour le compte du fonds
-national de garantie des calamités agricoles.
+Dans les deux mois qui suivent la réception par le directeur départemental de
+l'agriculture et de la forêt des demandes individuelles qui lui sont transmises,
+le préfet, après instruction et contrôle des dossiers dans les conditions
+prévues aux articles D. 361-15, R. 361-22 à R. 361-29, D. 361-30 et D. 361-31,
+adresse au ministre chargé de l'agriculture ainsi qu'au secrétariat général du
+Comité national de l'assurance en agriculture un rapport circonstancié sur les
+dossiers individuels accompagné de toutes les justifications nécessaires, et,
+notamment, les bases générales retenues pour procéder à l'évaluation. Le préfet
+saisit dans le même délai le comité départemental d'expertise des dossiers
+litigieux.
 
-Les trésoriers-payeurs généraux, dès réception des crédits, en informent les
-préfets.
+Le préfet rejette, après délibération du comité, les demandes d'indemnisation
+qui ne sont pas justifiées, notamment en application des règles fixées aux
+articles D. 361-30 et D. 361-31. Il en informe les demandeurs par voie
+administrative.
 
-Le préfet, assisté du comité départemental d'expertise, arrête pour chaque
-dossier le montant des sommes allouées à chacun des demandeurs qui a été
-préalablement communiqué au directeur général de la Caisse centrale de
-réassurance. Le paiement est fait par le comptable du Trésor dans le délai d'un
-mois après la réception des documents permettant le mandatement des indemnités
-allouées à chaque sinistré. En cas de métayage ou colonat partiaire, la somme
-afférente aux dommages mentionnés au 1° de l'article R. 361-24 est versée au
-preneur du fonds et le bailleur est informé de ce versement par le préfet.
+Lorsqu'en application de l'avant-dernier alinéa de l'article R. 361-21 des
+crédits sont attribués, le préfet peut, au fur et à mesure de l'instruction et
+du contrôle préalable des demandes, servir des acomptes sur les indemnisations
+dues aux sinistrés. Seul peut bénéficier d'un acompte un exploitant dont le
+montant des dommages afférents à tout ou partie de ses biens et productions,
+ayant fait l'objet d'une instruction et calculés au moment de l'octroi de
+l'acompte, satisfait à lui seul, sans prise en compte d'éventuels autres
+dommages, les conditions de perte minimale fixées à l'article D. 361-30.
 
-Lorsque le bénéficiaire a déjà obtenu un prêt au titre des calamités, le
-paiement qui lui est fait est limité si le montant cumulé de ce prêt et de
-l'indemnité excède le montant des dommages subis, à la différence entre ce
-montant et celui du prêt ; la fraction de l'indemnité excédant cette différence
-est versée à la caisse de crédit agricole mutuel à titre de remboursement
-anticipé du prêt.
+L'acompte à verser à l'exploitant est calculé en fonction des crédits délégués
+au département, sur la base des seuls dommages pour lesquels la demande a été
+instruite, et déterminée conformément aux dispositions du présent chapitre.

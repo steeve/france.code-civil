@@ -1,13 +1,9 @@
 Article R361-44
 ----
-Les prêts spéciaux à moyen terme ont pour objet :
-
-1° La réparation des dégâts causés aux sols, plantations ainsi qu'au cheptel et
-aux bâtiments à usage agricole ;
-
-2° La réparation des dégâts causés aux récoltes et cultures non pérennes lorsque
-le montant en valeur des pertes subies rapportées respectivement à la production
-brute de l'ensemble de l'exploitation, telle que définie à l'article R. 361-30
-et à la récolte ou la culture sinistrée est au moins égale à des pourcentages
-fixés par arrêté conjoint du ministre chargé de l'économie et du ministre de
-l'agriculture.
+Pour l'application des dispositions prévues aux articles L. 361-14 et L. 361-15,
+les établissements de crédit prêteurs communiquent aux directeurs départementaux
+de l'agriculture et de la forêt la liste des bénéficiaires des prêts bonifiés et
+l'encours restant dû. De leur côté, les directeurs départementaux de
+l'agriculture et de la forêt indiquent aux établissements de crédit prêteurs les
+noms des agriculteurs figurant sur la liste susmentionnée qui ont bénéficié
+d'une indemnisation ainsi que le montant de celle-ci.
