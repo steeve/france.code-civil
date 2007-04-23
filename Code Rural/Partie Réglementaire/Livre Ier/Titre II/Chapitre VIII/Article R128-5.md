@@ -1,28 +1,23 @@
 Article R128-5
 ----
-La publicité prévue au premier alinéa de l'article L. 128-5 et destinée à faire
-connaître aux bénéficiaires éventuels la faculté qui leur est offerte de
-demander l'attribution d'une autorisation d'exploiter consiste en l'affichage à
-la mairie de la commune où se trouve la terre, ainsi qu'à la mairie des communes
-limitrophes, durant un mois, d'un état des parcelles déclarées incultes ou
-manifestement sous-exploitées précisant pour chacune d'elles la superficie, les
-références au plan cadastral ou au plan parcellaire, le nom du propriétaire ou
-du mandataire, et, le cas échéant, le nom du titulaire du droit d'exploitation.
-Cette publicité doit commencer dans le mois qui suit le délai de deux mois prévu
-au dernier alinéa de l'article L. 128-4.
+A l'expiration du délai fixé par la mise en demeure pour mettre en valeur les
+terres, le préfet, après avoir recueilli l'avis de la commission départementale
+d'aménagement foncier, saisie par le président du conseil général, constate que
+le fonds a ou non été remis en valeur ou que la remise en valeur ne respecte pas
+le cahier des charges et décide de la poursuite de la procédure en application
+des articles L. 128-5, L. 128-6, L. 128-7 et L. 128-10.
 
-Durant toute la durée de la publicité, le cahier des charges, défini à l'article
-L. 128-9 et auquel devra se soumettre l'attributaire du droit d'exploitation,
-doit pouvoir être consulté par les candidats à l'attribution dans les mairies
-mentionnées à l'alinéa précédent.
+La commission désigne une délégation composée d'au moins deux de ses membres
+chargée de vérifier, sur les lieux mêmes de l'exploitation, la remise en valeur
+du fonds. L'exploitant est convoqué quinze jours au moins avant la date prévue
+pour la visite des lieux ; la délégation peut, en outre, entendre toute personne
+susceptible de compléter son information.
 
-Les candidats à l'attribution doivent, dans le mois qui suit le délai de
-publicité mentionné à l'alinéa premier, adresser leur demande au préfet par
-lettre recommandée avec demande d'avis de réception précisant les références de
-la parcelle au plan cadastral ou au plan parcellaire.
+L'état du fonds est apprécié, d'une part, par rapport au cahier des charges,
+d'autre part, par comparaison avec les conditions d'exploitation des parcelles
+de valeur culturale similaire des exploitations agricoles à caractère familial
+situées à proximité.
 
-S'il y a plusieurs demandeurs remplissant les critères de priorité prévus à
-l'article L. 128-5, l'autorisation d'exploiter est accordée compte tenu
-notamment de l'âge, de la situation de famille, de la capacité professionnelle
-et du degré d'intérêt que présente pour chacun d'eux l'exploitation du fonds,
-ainsi que de la politique d'aménagement foncier poursuivie dans le département.
+Si, dans le délai de quatre mois de la demande du préfet, le président du
+conseil général n'a pas saisi la commission départementale en vue de recueillir
+son avis, le préfet procède à cette saisine.

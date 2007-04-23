@@ -1,21 +1,22 @@
 Article R128-1
 ----
-Le préfet, lorsqu'il entend appliquer à certaines terres les articles L. 128-4 à
-L. 128-7, fait constituer un dossier comprenant :
+Avant de solliciter l'avis de la commission départementale prévu par l'article
+L. 128-4 le président du conseil général :
 
-1° Un extrait du plan cadastral relatif à ces terres ; en l'absence de cadastre,
-il fait établir un plan parcellaire établi par un levé régulier, satisfaisant
-aux tolérances fixées par la réglementation relative aux levés à grande échelle
-enregistrés par les services publics ; il peut toutefois, après avis du
-directeur des services fiscaux, se borner pour l'application des articles L.
-128-4 à L. 128-6 à faire dresser un plan obtenu à l'aide de tous moyens
-appropriés, sans la précision exigée pour les levés réguliers ;
+1° Fait établir une liste des parcelles susceptibles de se voir appliquer les
+dispositions des articles L. 128-4 à L. 128-12 et un extrait du plan cadastral
+correspondant à ces parcelles ou, en l'absence de cadastre, tout plan
+parcellaire en tenant lieu ;
 
-2° Un état indiquant pour chacune des terres en cause le ou les propriétaires
-et, le cas échéant, le ou les titulaires de droit d'exploitation autres que le
-ou les propriétaires ;
+2° Fait rechercher et dresser la liste du ou des propriétaires et, le cas
+échéant, du ou des titulaires de droit d'exploitation autres que le ou les
+propriétaires de chacune des parcelles ;
 
-3° Le cahier des charges prévu à l'article L. 128-9.
+3° Fait établir une analyse de l'état d'exploitation de ces parcelles par
+comparaison avec les conditions d'exploitation des parcelles de valeur culturale
+similaire des exploitations agricoles à caractère familial situées à proximité
+ainsi qu'un projet de cahier des charges pour leur exploitation ;
 
-Le cahier des charges est établi par le préfet après avis de la commission
-départementale d'aménagement foncier.
+4° Recense les dispositions législatives et réglementaires relatives notamment à
+la protection de l'environnement ou à l'urbanisme applicables à la zone
+considérée.
