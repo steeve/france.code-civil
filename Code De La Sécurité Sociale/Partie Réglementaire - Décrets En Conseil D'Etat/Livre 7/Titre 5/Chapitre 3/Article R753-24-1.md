@@ -1,11 +1,11 @@
 Article R753-24-1
 ----
 I. - La durée de vingt-cinq années fixée au premier alinéa de l'article R.
-753-24 est applicable aux pensions prenant effet postérieurement au 31 décembre
-2007, quelle que soit la date de naissance de l'assuré.
+753-24 est applicable aux assurés nés après 1947, quelle que soit la date
+d'effet de leur pension.
 
-II. - En ce qui concerne les pensions prenant effet avant le 1er janvier 2008,
-le nombre d'années mentionné au premier alinéa de l'article R. 753-24 est de :
+II. - Le nombre d'années mentionné au premier alinéa de l'article R. 753-24 est
+de :
 
 Dix années pour l'assuré né avant le 1er janvier 1934 ;
 
@@ -36,8 +36,3 @@ Vingt-deux années pour l'assuré né en 1945 ;
 Vingt-trois années pour l'assuré né en 1946 ;
 
 Vingt-quatre années pour l'assuré né en 1947.
-
-III. - Par dérogation aux dispositions du I ci-dessus, le nombre d'années
-mentionné au premier alinéa de l'article R. 753-24 demeure fixé à vingt-quatre
-pour les assurés nés en décembre 1947 et dont la pension prend effet au 1er
-janvier 2008 en application de l'article R. 351-37.

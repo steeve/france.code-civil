@@ -1,11 +1,10 @@
 Article R634-1-1
 ----
-I. - Les durées de vingt-cinq années fixées au deuxième alinéa de l'article R.
-634-1 sont applicables aux pensions prenant effet postérieurement au 31 décembre
-2012, quelle que soit la date de naissance de l'assuré.
+I. ― Les durées de vingt-cinq années fixées au deuxième alinéa de l'article R.
+634-1 sont applicables aux assurés nés après 1952, quelle que soit la date
+d'effet de leur pension.
 
-II. - En ce qui concerne les pensions prenant effet avant le 1er janvier 2013,
-le nombre d'années d'assurance et le nombre d'années civiles mentionnés au
+II. ― Le nombre d'années d'assurance et le nombre d'années civiles mentionnés au
 deuxième alinéa de l'article R. 634-1 sont, l'un et l'autre, de :
 
 Dix années pour l'assuré né avant le 1er janvier 1934 ;
@@ -36,11 +35,4 @@ Vingt-deux années pour l'assuré né en 1950 ;
 
 Vingt-trois années pour l'assuré né en 1951 ;
 
-Vingt-quatre années pour l'assuré né en 1952 ;
-
-Vingt-cinq années pour l'assuré né après 1952.
-
-III. - Par dérogation aux dispositions du I ci-dessus, les nombres d'années
-mentionnés au deuxième alinéa de l'article R. 634-1 demeurent fixés l'un et
-l'autre à vingt-quatre pour les assurés nés en décembre 1952 et dont la pension
-prend effet au 1er janvier 2013 en application de l'article R. 351-37.
+Vingt-quatre années pour l'assuré né en 1952.
