@@ -28,10 +28,27 @@ est invité, comme observateur, aux séances de cette commission.
 Une même commission peut être commune à plusieurs aérodromes proches dont
 l'exploitant est identique.
 
-La commission est créée par le signataire de la convention prévue à l'article L.
-221-1 ou par l'Etat pour les aérodromes lui appartenant et les aérodromes
-mentionnés à l'article L. 251-2. Les membres de la commission sont désignés et
-le règlement intérieur est approuvé dans les mêmes conditions.
+La commission est créée selon le cas :
+
+- par le signataire de la convention prévue à l'article L. 221-1 ;
+
+- par décret, pour les aérodromes mentionnés à l'article L. 251-2 ;
+
+- par le préfet de région, sur proposition du directeur de l'aviation civile ou
+du directeur du service de l'aviation civile, pour les aérodromes appartenant à
+l'Etat, lorsque leur emprise s'étend sur plusieurs départements ou lorsque la
+commission est compétente à l'égard d'aérodromes situés dans des départements
+différents ;
+
+- par le préfet de département, sur proposition du directeur de l'aviation
+civile ou du directeur du service de l'aviation civile, pour les aérodromes
+appartenant à l'Etat, dans les cas autres que ceux prévus à l'alinéa précédent.
+
+Les membres de la commission sont désignés et le règlement intérieur est
+approuvé dans les mêmes conditions. Toutefois, pour les aérodromes mentionnés à
+l'article L. 251-2, le règlement intérieur est approuvé par le ministre chargé
+de l'aviation civile et les membres sont nommés par le préfet de la région
+Ile-de-France.
 
 La commission est réunie au moins une fois par an pour émettre un avis sur les
 modalités d'établissement et d'application, sur l'aérodrome considéré, des
