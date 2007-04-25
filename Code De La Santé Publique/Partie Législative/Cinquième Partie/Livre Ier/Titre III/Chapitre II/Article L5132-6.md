@@ -11,9 +11,7 @@ danger pour la santé ;
 3° Les médicaments à usage humain contenant des substances dont l'activité ou
 les effets indésirables nécessitent une surveillance médicale ;
 
-4° Les produits insecticides ou acaricides destinés à être appliqués à l'homme
-et susceptibles de présenter directement ou indirectement un danger pour la
-santé ;
+4° (Abrogé) ;
 
 5° Tout autre produit ou substance présentant pour la santé des risques directs
 ou indirects.

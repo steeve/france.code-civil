@@ -26,3 +26,6 @@ l'Agence de la biomédecine.
 
 Les greffes composites de tissus vascularisés sont assimilées aux greffes
 d'organes et relèvent des mêmes dispositions.
+
+Cet article ne s'applique pas aux greffes et administration d'éléments et
+produits du corps humain mentionnés à l'article L. 1211-8.

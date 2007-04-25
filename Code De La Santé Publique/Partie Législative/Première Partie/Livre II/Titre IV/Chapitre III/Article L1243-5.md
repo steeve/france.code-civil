@@ -4,7 +4,7 @@ Les tissus ainsi que leurs dérivés utilisés à des fins thérapeutiques et le
 préparations de thérapie cellulaire font l'objet d'une autorisation de l'Agence
 française de sécurité sanitaire des produits de santé après évaluation de leurs
 procédés de préparation et de conservation ainsi que de leurs indications
-thérapeutiques.
+thérapeutiques et après avis de l'Agence de la biomédecine.
 
 Toute modification des éléments figurant dans l'autorisation initiale doit faire
 l'objet d'une nouvelle autorisation.

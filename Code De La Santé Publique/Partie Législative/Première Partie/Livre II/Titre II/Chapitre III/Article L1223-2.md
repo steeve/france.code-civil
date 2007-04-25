@@ -9,7 +9,9 @@ sanguins labiles et leur distribution ne peuvent être faites que par des
 établissements de transfusion sanguine, sous l'autorité d'un médecin ou d'un
 pharmacien. Les établissements de transfusion sanguine doivent être agréés par
 l'Agence française de sécurité sanitaire des produits de santé, à la demande de
-l'Etablissement français du sang.
+l'Etablissement français du sang. L'activité de délivrance des produits sanguins
+labiles est exercée par l'établissement de transfusion sanguine ou par
+l'établissement de santé sous l'autorité d'un médecin ou d'un pharmacien.
 
 L'agrément mentionné au premier alinéa est délivré pour une durée déterminée. Il
 est renouvelable. Il est subordonné à des conditions techniques, médicales et

@@ -134,4 +134,9 @@ remplit pas les conditions prévues au a du 5° du présent article pour être
 regardé comme une spécialité générique en raison de différences liées notamment
 à la variabilité de la matière première ou aux procédés de fabrication et
 nécessitant que soient produites des données précliniques et cliniques
-supplémentaires dans des conditions déterminées par voie réglementaire.
+supplémentaires dans des conditions déterminées par voie réglementaire ;
+
+16° Médicament à base de plantes, tout médicament dont les substances actives
+sont exclusivement une ou plusieurs substances végétales ou préparations à base
+de plantes ou une association de plusieurs substances végétales ou préparations
+à base de plantes.

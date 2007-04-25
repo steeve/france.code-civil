@@ -14,8 +14,9 @@ produits à finalité cosmétique, et notamment :
 
 1° Les médicaments, y compris les préparations magistrales, hospitalières et
 officinales, les substances stupéfiantes, psychotropes ou autres substances
-vénéneuses utilisées en médecine, les huiles essentielles et plantes
-médicinales, les matières premières à usage pharmaceutique ;
+vénéneuses utilisées en médecine, les insecticides, acaricides et
+antiparasitaires à usage humain, les huiles essentielles et plantes médicinales,
+les matières premières à usage pharmaceutique ;
 
 2° Les produits contraceptifs et contragestifs ;
 
@@ -35,7 +36,7 @@ compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale
 9° Les produits destinés à l'entretien ou à l'application des lentilles de
 contact ;
 
-10° Les produits insecticides, acaricides et antiparasitaires à usage humain ;
+10° (Abrogé)
 
 11° Les procédés et appareils destinés à la désinfection des locaux et des
 véhicules dans les cas prévus à l'article L. 3114-1 ;

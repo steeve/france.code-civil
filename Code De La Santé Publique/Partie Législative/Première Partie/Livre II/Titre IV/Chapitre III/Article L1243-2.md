@@ -9,5 +9,13 @@ respect des dispositions du titre Ier du présent livre.
 
 L'autorisation est accordée pour une durée de cinq ans. Elle est renouvelable.
 
-Toute modification des éléments figurant dans l'autorisation initiale doit faire
-l'objet d'une nouvelle autorisation.
+Toute modification substantielle dont la liste est fixée par décret en Conseil
+d'Etat affectant une ou plusieurs des activités exercées par l'établissement ou
+l'organisme autorisé doit faire l'objet d'une nouvelle autorisation. Les autres
+modifications sont soumises à une déclaration auprès du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé.
+
+Par dérogation aux dispositions du premier alinéa, les établissements de santé
+autorisés à prélever des cellules hématopoïétiques issues de la moelle osseuse
+peuvent distribuer des cellules hématopoïétiques issues de la moelle osseuse non
+transformées en vue d'une greffe immédiate.

@@ -58,9 +58,15 @@ publique à la prescription et à la délivrance de certains médicaments ;
 
 11° Les règles applicables en cas de changement du titulaire de l'autorisation
 de mise sur le marché ou du titulaire de l'enregistrement de médicament
-homéopathique ;
+homéopathique ou du titulaire de l'enregistrement de médicament traditionnel à
+base de plantes ;
 
-12° (Abrogé)
+12° Les modalités de présentation des demandes tendant à obtenir
+l'enregistrement des médicaments traditionnels à base de plantes prévu à
+l'article L. 5121-14-1, le contenu du dossier présenté à l'appui de ces
+demandes, ainsi que les conditions dans lesquelles interviennent
+l'enregistrement et les décisions, refusant, modifiant, renouvelant, suspendant
+ou retirant celui ci ;
 
 13° Les règles applicables à la pharmacovigilance exercée sur les médicaments et
 sur les produits mentionnés à l'article L. 5121-1, notamment les obligations de

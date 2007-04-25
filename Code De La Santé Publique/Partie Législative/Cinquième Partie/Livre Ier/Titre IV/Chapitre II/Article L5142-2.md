@@ -5,5 +5,7 @@ autorisation délivrée par l'agence française de sécurité sanitaire des alim
 Celle-ci peut être, après mise en demeure, suspendue ou retirée en cas
 d'infraction aux dispositions du livre II de la partie IV et du présent livre.
 
-Toute modification des éléments figurant dans l'autorisation initiale doit faire
-l'objet d'une autorisation préalable.
+Toute modification substantielle des éléments de l'autorisation initiale est
+subordonnée à une autorisation préalable. Un décret en Conseil d'Etat fixe les
+cas de modification substantielle de l'autorisation initiale. Les autres
+modifications font l'objet d'une déclaration.

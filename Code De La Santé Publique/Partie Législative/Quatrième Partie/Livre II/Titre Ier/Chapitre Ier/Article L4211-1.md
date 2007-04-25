@@ -6,9 +6,8 @@ présent code :
 1° La préparation des médicaments destinés à l'usage de la médecine humaine ;
 
 2° La préparation des objets de pansements et de tous articles présentés comme
-conformes à la pharmacopée, la préparation des insecticides et acaricides
-destinés à être appliqués sur l'homme, la préparation des produits destinés à
-l'entretien ou l'application des lentilles oculaires de contact ;
+conformes à la pharmacopée, la préparation des produits destinés à l'entretien
+ou l'application des lentilles oculaires de contact ;
 
 3° La préparation des générateurs, trousses ou précurseurs mentionnés à
 l'article L. 5121-1 ;

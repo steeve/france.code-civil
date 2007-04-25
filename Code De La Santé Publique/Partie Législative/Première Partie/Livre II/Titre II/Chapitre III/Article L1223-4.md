@@ -13,7 +13,12 @@ transfusion sanguine concerné.
 Le directeur de chacun des établissements de transfusion sanguine assure, sous
 l'autorité de la personne responsable mentionnée à l'article L. 1222-2, la mise
 en oeuvre des dispositions législatives et réglementaires relatives à la qualité
-et la sécurité des produits sanguins labiles.
+et la sécurité des produits sanguins labiles. Si l'établissement de transfusion
+sanguine est autorisé à exercer les activités prévues à l'article L. 1243-2, son
+directeur assure, sous l'autorité de la personne responsable mentionnée au
+deuxième alinéa de l'article L. 1243-2-1, la mise en oeuvre des dispositions
+législatives et réglementaires relatives à la qualité et à la sécurité des
+tissus et de leurs dérivés et des préparations de thérapie cellulaire.
 
 Un décret détermine les conditions dans lesquelles la liste d'aptitude prévue au
 premier alinéa est établie, et notamment la formation spécialisée et
