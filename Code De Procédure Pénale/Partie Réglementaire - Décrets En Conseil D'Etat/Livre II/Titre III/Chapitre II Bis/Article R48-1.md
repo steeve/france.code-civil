@@ -83,7 +83,12 @@ des rivages lacustres et les agents visés à l'article L. 322-20 du même code 
 
 f) Les dispositions du chapitre VIII et de la section 4 du chapitre IX du titre
 II du livre IV du code de l'environnement (partie réglementaire), relatives au
-droit de chasse.
+droit de chasse ;
+
+g) Le titre Ier du livre II et le titre III du livre IV du code de
+l'environnement (partie réglementaire), relatifs au droit de l'eau et des
+milieux aquatiques et de la pêche en eau douce et de la gestion des ressources
+piscicoles.
 
 4° Contraventions en matière de protection ou de contrôle des animaux
 domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées
@@ -119,4 +124,4 @@ i) L'article R. 215-2 du code rural ;
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues par les
-articles R. 3512-1 et le 1° et le 2° de l'article R$ 3512-2.
+articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2.

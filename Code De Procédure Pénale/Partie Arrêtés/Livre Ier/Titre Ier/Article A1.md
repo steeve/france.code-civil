@@ -43,7 +43,11 @@ d'itinéraires ;
 
 10° Le délégué général de l'Association des sociétés françaises d'autoroutes et
 d'ouvrages à péage, pour la réalisation d'un rapport annuel sur les accidents
-mortels.
+mortels ;
+
+11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère
+de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir
+des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
 
 II. - L'autorisation accordée par le procureur de la République peut être
 délivrée sans limitation de temps sous réserve de la possibilité d'y mettre fin
