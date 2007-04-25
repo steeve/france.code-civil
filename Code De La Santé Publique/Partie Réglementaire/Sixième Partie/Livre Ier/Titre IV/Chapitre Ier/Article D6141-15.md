@@ -55,12 +55,14 @@ application de l'article L. 6141-2 est fixée comme suit :
 
 26° Centre hospitalier régional de Rennes ;
 
-27° Centre hospitalier régional de Rouen ;
+27° Centre hospitalier régional de la Réunion ;
 
-28° Centre hospitalier régional de Saint-Etienne ;
+28° Centre hospitalier régional de Rouen ;
 
-29° Centre hospitalier régional de Strasbourg ;
+29° Centre hospitalier régional de Saint-Etienne ;
 
-30° Centre hospitalier régional de Toulouse ;
+30° Centre hospitalier régional de Strasbourg ;
 
-31° Centre hospitalier régional de Tours.
+31° Centre hospitalier régional de Toulouse ;
+
+32° Centre hospitalier régional de Tours.
