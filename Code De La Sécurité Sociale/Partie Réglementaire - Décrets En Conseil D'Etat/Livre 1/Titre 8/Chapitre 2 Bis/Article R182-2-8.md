@@ -18,5 +18,5 @@ Elle comprend également l'instance de gestion du régime local d'assurance
 maladie complémentaire obligatoire des départements du Haut-Rhin, du Bas-Rhin et
 de la Moselle.
 
-Pour chacune des catégories mentionnées aux 1°, 2° et 3°, l'Union doit
+Pour chacune des catégories mentionnées aux 1°, 2° et 3°, l'union doit
 comprendre au moins l'organisme professionnel le plus représentatif.
