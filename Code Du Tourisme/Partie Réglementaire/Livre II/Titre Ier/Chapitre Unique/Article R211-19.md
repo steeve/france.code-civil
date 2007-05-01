@@ -1,10 +1,7 @@
 Article R211-19
 ----
-Pour les prestations de transport aérien incluses dans un forfait touristique
-ainsi que pour les vols non réguliers affrétés, par dérogation aux dispositions
-de l'article R. 211-15 mais selon les modalités qu'elles fixent, l'information
-préalable peut être communiquée sous la forme d'une liste comprenant au maximum,
-par tronçon, cinq transporteurs contractuels au nombre desquels l'organisateur
-du voyage ou l'affréteur commercial s'engage à recourir. Cette information est
-complétée, le cas échéant, par la mention de l'identité des transporteurs de
-fait lorsque ceux-ci sont différents des transporteurs contractuels.
+Les règles relatives à l'obligation d'information des passagers aériens sur
+l'identité du transporteur aérien en dehors des ventes de forfaits touristiques
+sont fixées par les articles R. 322-3 à R. 322-6 du code de l'aviation civile et
+les sanctions applicables en cas de méconnaissance de cette obligation sont
+fixées par le paragraphe 5 de l'article R. 330-20 du code de l'aviation civile.

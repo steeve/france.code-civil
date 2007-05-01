@@ -49,4 +49,8 @@ organismes locaux de tourisme ;
 13° L'information concernant la souscription facultative d'un contrat
 d'assurance couvrant les conséquences de certains cas d'annulation ou d'un
 contrat d'assistance couvrant certains risques particuliers, notamment les frais
-de rapatriement en cas d'accident ou de maladie.
+de rapatriement en cas d'accident ou de maladie ;
+
+14° Lorsque le contrat comporte des prestations de transport aérien,
+l'information, pour chaque tronçon de vol, prévue aux articles R. 211-15 à R.
+211-18.

@@ -1,10 +1,10 @@
 Article R211-15
 ----
-Toute personne physique ou morale habilitée à commercialiser des titres de
-transport aérien informe le consommateur, pour chaque tronçon de vol, de
-l'identité du transporteur contractuel ainsi que de celle du transporteur de
-fait qui assurera effectivement le ou les tronçons de vols concernés, lorsque
-celui-ci est différent du transporteur contractuel.
+Pour les prestations de transport aérien incluses dans un forfait touristique,
+les personnes visées à l'article L. 211-1 transmettent au consommateur, pour
+chaque tronçon de vol, une liste comprenant au maximum trois transporteurs, au
+nombre desquels figurent le transporteur contractuel et le transporteur de fait
+auquel l'organisateur du voyage aura éventuellement recours.
 
 Pour l'application de l'alinéa précédent, les notions de transporteur
 contractuel et de transporteur de fait s'entendent au sens de la convention pour

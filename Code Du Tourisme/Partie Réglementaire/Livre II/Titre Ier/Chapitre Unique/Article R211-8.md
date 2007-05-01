@@ -82,4 +82,8 @@ vendeur ;
 
 b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de téléphone
 et une adresse permettant d'établir un contact direct avec l'enfant ou le
-responsable sur place de son séjour.
+responsable sur place de son séjour ;
+
+20° La clause de résiliation et de remboursement sans pénalités des sommes
+versées par l'acheteur en cas de non-respect de l'obligation d'information
+prévue au 14° de l'article R. 211-6.

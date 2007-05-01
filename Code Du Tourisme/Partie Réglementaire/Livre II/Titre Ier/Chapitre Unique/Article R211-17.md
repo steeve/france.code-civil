@@ -1,8 +1,10 @@
 Article R211-17
 ----
-L'information prévue à l'article R. 211-15 doit être obligatoirement confirmée
-par écrit, y compris par voie électronique lorsqu'un tel moyen est utilisé, lors
-de la conclusion du contrat.
+Dès qu'elle est connue, l'identité du transporteur aérien effectif est
+communiquée par écrit ou par voie électronique. Cette information est confirmée
+au plus tard huit jours avant la date prévue au contrat ou au moment de la
+conclusion du contrat si celle-ci intervient moins de huit jours avant le début
+du voyage.
 
-Toutefois, pour les contrats conclus par téléphone, le consommateur reçoit, sur
-sa demande, un document écrit confirmant cette information.
+Toutefois, pour les contrats conclus par téléphone, le consommateur reçoit un
+document écrit confirmant cette information.

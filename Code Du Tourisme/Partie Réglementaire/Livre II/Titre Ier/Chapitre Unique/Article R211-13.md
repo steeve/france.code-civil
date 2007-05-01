@@ -16,3 +16,6 @@ sont refusées par l'acheteur pour des motifs valables, fournir à l'acheteur,
 sans supplément de prix, des titres de transport pour assurer son retour dans
 des conditions pouvant être jugées équivalentes vers le lieu de départ ou vers
 un autre lieu accepté par les deux parties.
+
+Les dispositions du présent article sont applicables en cas de non-respect de
+l'obligation prévue au 14° de l'article R. 211-6.
