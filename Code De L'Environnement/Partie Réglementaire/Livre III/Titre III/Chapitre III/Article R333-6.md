@@ -1,7 +1,10 @@
 Article R333-6
 ----
-Dès que la délibération prescrivant l'élaboration de la charte a été transmise
-au préfet de région, celui-ci définit avec le président du conseil régional les
-modalités d'association de l'Etat à son élaboration. Il lui fait connaître la
-liste des services de l'Etat qui seront, à ce titre, associés à cette
-élaboration. Il lui transmet son avis motivé sur l'opportunité du projet.
+Le préfet de région définit avec le président du conseil régional, et avec le
+président du syndicat mixte de gestion du parc en cas de révision, les modalités
+d'association de l'Etat à l'élaboration ou à la révision de la charte dès que la
+délibération prescrivant celle-ci lui a été transmise et leur communique la
+liste des services de l'Etat et de ses établissements publics qui y seront
+associés.
+
+Il leur transmet son avis motivé sur l'opportunité du projet.

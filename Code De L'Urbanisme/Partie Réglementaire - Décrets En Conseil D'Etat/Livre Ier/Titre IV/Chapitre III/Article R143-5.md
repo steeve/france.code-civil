@@ -9,7 +9,7 @@ plan local d'urbanisme.
 
 Le projet de programme est également adressé à la chambre départementale
 d'agriculture ainsi qu'à l'Office national des forêts si le périmètre comprend
-des parcelles soumises au régime forestier et à l'établissement public
-gestionnaire du parc naturel régional si le périmètre inclut une partie du
-territoire de ce parc. Leurs avis, s'ils ne sont pas exprimés dans le délai de
-deux mois à compter de la saisine, sont réputés favorables.
+des parcelles soumises au régime forestier et, s'il y a lieu, à l'organe de
+gestion du parc national ou du parc naturel régional si le périmètre inclut une
+partie du territoire de ce parc. Leurs avis, s'ils ne sont pas exprimés dans le
+délai de deux mois à compter de la saisine, sont réputés favorables.

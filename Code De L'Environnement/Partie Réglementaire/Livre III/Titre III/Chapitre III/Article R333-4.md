@@ -1,7 +1,7 @@
 Article R333-4
 ----
-La décision de classement d'un territoire en " parc naturel régional " est
-fondée sur l'ensemble des critères suivants :
+La décision de classement d'un territoire en "parc naturel régional" est fondée
+sur l'ensemble des critères suivants :
 
 1° Qualité et caractère du patrimoine naturel, culturel et paysager,
 représentant une entité remarquable pour la ou les régions concernées et
@@ -12,4 +12,7 @@ façon cohérente et pertinente au regard de ce patrimoine en tenant compte des
 2° Qualité du projet présenté ;
 
 3° Capacité de l'organisme chargé de l'aménagement et de la gestion du parc
-naturel régional à conduire le projet de façon cohérente.
+naturel régional à conduire le projet de façon cohérente ;
+
+4° Détermination de l'ensemble des collectivités et groupements intéressés à
+mener à bien le projet.

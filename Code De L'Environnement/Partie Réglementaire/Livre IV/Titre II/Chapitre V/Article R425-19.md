@@ -8,7 +8,8 @@ autorisé n'a pas été fixé par arrêté ministériel, qu'un chasseur est auto
 prélever pendant une période déterminée, sur un territoire donné.
 
 Les dispositions du précédent alinéa ne sont pas applicables aux espèces pour
-lesquelles un plan de chasse est de droit en application de l'article R. 425-1.
+lesquelles un plan de chasse est de droit en application de l'article R.
+425-1-1.
 
 Si le ministre chargé de la chasse détermine ultérieurement, pour la même espèce
 et le même territoire, un prélèvement maximal inférieur, celui-ci se substitue à

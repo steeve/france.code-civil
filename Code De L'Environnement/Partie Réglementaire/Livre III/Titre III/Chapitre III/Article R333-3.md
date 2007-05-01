@@ -1,11 +1,12 @@
 Article R333-3
 ----
-I. - La charte est établie ou révisée à partir d'un inventaire du patrimoine et
-d'une analyse de la situation culturelle, sociale et économique du territoire,
-en fonction des enjeux en présence.
+I. - La charte est établie à partir d'un diagnostic comprenant un inventaire du
+patrimoine et d'une analyse de la situation culturelle, sociale et économique du
+territoire, en fonction des enjeux en présence.
 
-II. - En cas de révision de la charte, cet inventaire est accompagné d'un bilan
-de l'action du parc depuis le dernier classement.
+II. - La charte est révisée à partir d'une analyse de l'évolution du territoire
+et d'une évaluation de la mise en oeuvre des orientations de la charte
+précédente.
 
 III. - La charte comprend :
 
@@ -17,19 +18,18 @@ territoire, applicables à l'ensemble du parc ou sur des zones déterminées à
 partir des spécificités du territoire et fondant la délimitation des zones
 homogènes reportées sur le plan mentionné au 2° ;
 
-2° Un plan constitué d'un document graphique qui délimite, en fonction du
+2° Un plan du périmètre d'étude sur lequel sont délimitées, en fonction du
 patrimoine, les différentes zones où s'appliquent les orientations et les
 mesures définies dans le rapport ; le plan caractérise toutes les zones du
 territoire selon leur nature et leur vocation dominante ;
 
 3° Des annexes :
 
-a) La liste des communes qui ont approuvé la charte et adhéré à l'organisme de
-gestion pour tout ou partie de leur territoire ;
+a) La liste des communes figurant dans le périmètre d'étude ;
 
-b) Les statuts de l'organisme de gestion du parc ;
+b) La liste des communes et des établissements publics de coopération
+intercommunale à fiscalité propre qui ont approuvé la charte ;
 
-c) L'emblème du parc ;
+c) Les statuts du syndicat mixte de gestion du parc ;
 
-d) La convention d'application de la charte avec l'Etat, définie à l'article R.
-333-14.
+d) L'emblème du parc.

@@ -7,7 +7,7 @@ nombre maximal d'animaux d'une ou plusieurs espèces qu'un chasseur est autoris�
 à prélever pendant une période déterminée sur un territoire donné.
 
 Toutefois, ces dispositions ne sont pas applicables aux espèces pour lesquelles
-un plan de chasse est de droit en application de l'article R. 425-1.
+un plan de chasse est de droit en application de l'article R. 425-1-1.
 
 Le nombre maximal d'animaux qu'un chasseur est autorisé à capturer sur un
 territoire donné en application de l'arrêté ministériel mentionné au premier

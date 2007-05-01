@@ -8,7 +8,8 @@ commerce et d'industrie, aux chambres de métiers et aux chambres d'agriculture.
 
 Le projet est communiqué par le préfet à ceux des services publics qui ne sont
 pas représentés dans la commission locale de l'eau et qu'il y a lieu de
-consulter sur le projet.
+consulter sur le projet. Il est soumis, pour avis, aux organes de gestion de
+parcs nationaux et des parcs naturels régionaux en tant qu'il les concerne.
 
 Faute de réponse dans un délai de deux mois à compter du jour de la demande
 d'avis, les avis sont réputés favorables.

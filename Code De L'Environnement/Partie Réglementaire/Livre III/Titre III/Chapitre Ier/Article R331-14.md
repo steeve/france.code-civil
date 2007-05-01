@@ -61,11 +61,14 @@ sauvage et de ses habitats prévues par l'article L. 414-8 ;
 17° Le schéma régional de développement du tourisme et des loisirs prévu par
 l'article L. 131-7 du code du tourisme ;
 
-18° La charte de pays prévue par l'article 22 de la loi n° 95-115 du 4 février
+18° Le schéma d'aménagement touristique départemental prévu par l'article L.
+132-1 du même code ;
+
+19° La charte de pays prévue par l'article 22 de la loi n° 95-115 du 4 février
 1995 modifiée d'orientation pour l'aménagement et le développement du territoire
 ;
 
-19° Le schéma de mise en valeur de la mer prévu par l'article 57 de la loi n°
+20° Le schéma de mise en valeur de la mer prévu par l'article 57 de la loi n°
 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre
 les communes, les départements, les régions et l'Etat.
 
