@@ -7,7 +7,10 @@ soit sur l'invitation du ministre chargé de la sécurité sociale ou du ministr
 chargé du budget.
 
 Le directeur et l'agent comptable assistent aux séances du conseil
-d'administration.
+d'administration. Deux représentants du régime social des indépendants, dont le
+directeur général ou son représentant et un administrateur désigné en son sein
+par le conseil d'administration de la caisse nationale, assistent également aux
+séances, avec voix consultative.
 
 Le conseil d'administration ne peut délibérer valablement que si la majorité des
 membres ayant voix délibérative assistent à la séance. Les membres du conseil

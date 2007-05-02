@@ -19,7 +19,12 @@ Siègent également au conseil avec voix consultative :
 les personnes cotisant au régime ;
 
 2° Quatre représentants des organismes conventionnés mentionnés à l'article L.
-611-20, nommés par arrêté du ministre chargé de la sécurité sociale.
+611-20, nommés par arrêté du ministre chargé de la sécurité sociale ;
+
+3° Deux représentants de l'Agence centrale des organismes de sécurité sociale,
+dont le directeur ou son représentant et un administrateur désigné en son sein
+par le conseil d'administration parmi les représentants des travailleurs
+indépendants.
 
 II. - Des membres suppléants sont élus ou nommés au conseil d'administration en
 nombre égal et dans les mêmes conditions que les membres titulaires. Le
