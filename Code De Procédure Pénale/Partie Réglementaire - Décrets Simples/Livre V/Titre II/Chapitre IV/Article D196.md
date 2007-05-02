@@ -8,8 +8,8 @@ placés par décret en Conseil d'Etat sous statut spécial :
 
 a) Personnel de direction : corps des personnels de direction ;
 
-b) Personnel administratif : corps des attachés d'administration et
-d'intendance, corps des secrétaires administratifs, corps des adjoints
+b) Personnel administratif : corps des attachés d'administration du ministère de
+la justice, corps des secrétaires administratifs, corps des adjoints
 administratifs ;
 
 c) Personnel technique et de formation professionnelle : corps des professeurs
@@ -19,8 +19,8 @@ techniques, corps des chefs de travaux ;
 d) Personnel d'insertion et de probation : corps des chefs des services
 d'insertion et de probation, corps des conseillers d'insertion et de probation ;
 
-e) Personnel de surveillance : corps des chefs de service pénitentiaire, corps
-des gradés et surveillants ;
+e) Personnel de surveillance : corps de commandement et corps d'encadrement et
+d'application.
 
 2° Fonctionnaires des services déconcentrés de l'administration pénitentiaire,
 régis par des statuts interministériels :

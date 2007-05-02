@@ -8,8 +8,8 @@ d'instruction conformément aux dispositions des articles 8, 9 et 11 de
 l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance
 délinquante ;
 
-2° Une ordonnance de prise de corps pour le mineur âgé de seize à dix-huit ans
-accusé de crime ;
+2° Un mandat de dépôt pour le mineur âgé de seize à dix-huit ans accusé de crime
+;
 
 3° Un jugement ou arrêt prononçant une condamnation à une peine privative de
 liberté en application des articles 2 et 20-2 de l'ordonnance du 2 février 1945

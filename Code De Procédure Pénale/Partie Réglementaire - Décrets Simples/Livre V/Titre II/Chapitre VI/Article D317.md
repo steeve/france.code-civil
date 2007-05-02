@@ -6,7 +6,8 @@ judiciaire d'user de la faculté qu'ils ont d'entendre les détenus à l'intéri
 des établissements pénitentiaires, les services auxquels ces fonctionnaires
 appartiennent peuvent être autorisés à procéder à l'extraction des intéressés,
 sous la réserve que ces derniers demeurent sous leur responsabilité et soient
-réintégrés dans la journée.
+réintégrés à l'issue de cette mesure ou après avoir été déférés devant un
+magistrat.
 
 Lorsque des officiers de police judiciaire n'agissent pas en exécution d'une
 commission rogatoire ordonnant l'extraction, une autorisation spéciale doit être

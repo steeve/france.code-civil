@@ -2,16 +2,19 @@ Article D220
 ----
 Indépendamment des défenses résultant de la loi pénale, il est interdit aux
 agents des services déconcentrés de l'administration pénitentiaire et aux
-personnes ayant accès dans la détention :
+personnes ayant accès aux établissements pénitentiaires :
 
 - de se livrer à des actes de violence sur les détenus ;
 
 - d'user, à leur égard, soit de dénominations injurieuses, soit de tutoiement,
 soit de langage grossier ou familier ;
 
-- de fumer dans les lieux fermés et couverts affectés à un usage collectif, sous
-réserve de ceux spécialement aménagés à cet effet ou de boire à l'intérieur de
-la détention ou d'y paraître en état d'ébriété ;
+- de fumer dans les lieux fermés et couverts affectés à un usage collectif, ou
+qui constituent des lieux de travail ;
+
+- d'introduire ou de consommer des boissons alcoolisées dans ces établissements,
+à l'exception des logements des agents et des locaux affectés aux services de
+restauration et d'y paraître en état d'ébriété ;
 
 - d'occuper sans autorisation les détenus pour leur service particulier ;
 

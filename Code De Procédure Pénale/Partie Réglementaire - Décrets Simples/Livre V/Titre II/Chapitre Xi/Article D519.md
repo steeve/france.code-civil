@@ -6,4 +6,4 @@ importantes.
 
 Le juge de l'application des peines recueille l'avis du juge des enfants chaque
 fois qu'il exerce, à l'égard d'un mineur pénal, l'une des attributions qui lui
-sont conférées par l'article 722 du code de procédure pénale.
+sont conférées par les articles 712-1 à 712-10 du code de procédure pénale.

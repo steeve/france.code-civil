@@ -16,7 +16,7 @@ d'écrou et notamment à la notification prévue par le dernier alinéa de l'art
 721 et par l'article D. 115-18. Le greffe mentionne sur la fiche pénale le
 quantum du crédit de réduction de peine dont le condamné a effectivement
 bénéficié ; le retrait du crédit de réduction de peine prévu par les articles
-721 (alinéa 3) et 721-2 ne saurait alors être supérieur à ce quantum.
+721 (alinéa 5), 721-2 et 723-35 ne saurait alors être supérieur à ce quantum.
 
 Si le condamné n'était pas écroué, il est procédé conformément aux dispositions
 des articles D. 147-6 et suivants.
