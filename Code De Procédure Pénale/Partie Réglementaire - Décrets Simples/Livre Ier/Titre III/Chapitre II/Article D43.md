@@ -1,7 +1,13 @@
 Article D43
 ----
-Dans les cours d'appel comportant quatre chambres au plus, non compris les
-chambres détachées, et jusqu'à ce qu'il puisse en être autrement disposé, le
-président de la chambre d'instruction peut, en cas de nécessité, assurer à titre
-exceptionnel le service d'une autre chambre de la même cour, conformément aux
-dispositions de l'article 191, alinéa 4.
+Le nombre et le jour des audiences de la chambre de l'instruction sont fixés à
+la fin de chaque année judiciaire pour l'année judiciaire suivante par une
+décision conjointe du premier président et du procureur général prise après avis
+de l'assemblée générale de la cour d'appel.
+
+En cas de nécessité, cette décision peut être modifiée dans les mêmes conditions
+en cours d'année.
+
+En cas d'impossibilité de parvenir à une décision conjointe, le nombre et le
+jour des audiences de la chambre de l'instruction sont fixés par le seul premier
+président.
