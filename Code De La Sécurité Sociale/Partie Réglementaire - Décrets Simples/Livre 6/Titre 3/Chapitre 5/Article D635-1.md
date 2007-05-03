@@ -1,8 +1,6 @@
 Article D635-1
 ----
-La Caisse nationale de l'organisation autonome d'assurance vieillesse des
-professions artisanales et la Caisse nationale de l'organisation autonome
-d'assurance vieillesse des professions industrielles et commerciales assurent,
-chacune en ce qui la concerne, la gestion d'un régime complémentaire obligatoire
-d'assurance vieillesse. Ce régime attribue des avantages révisables chaque
-année, selon les ressources qui lui sont affectées.
+La Caisse nationale du régime social des indépendants assure la gestion des
+régimes complémentaires obligatoires des professions artisanales, industrielles
+et commerciales mentionnés à l'article L. 635-1. Ces régimes attribuent des
+avantages révisables chaque année, selon les ressources qui leur sont affectées.

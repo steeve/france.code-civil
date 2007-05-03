@@ -49,33 +49,26 @@ agricole ;
 g) Le président du conseil d'administration de la Caisse nationale d'assurance
 vieillesse des professions libérales ;
 
-h) Le président du conseil d'administration de la Caisse de compensation de
-l'organisation autonome nationale de l'industrie et du commerce ;
+h) Le président du conseil d'administration de la Caisse nationale du régime
+social des indépendants ;
 
-i) Le président du conseil d'administration de la Caisse de compensation de
-l'assurance vieillesse artisanale ;
-
-j) Le président du conseil d'administration de la Caisse nationale d'assurance
-maladie et maternité des travailleurs non salariés des professions non agricoles
-;
-
-k) Le président du conseil d'administration de la Caisse nationale de retraite
+i) Le président du conseil d'administration de la Caisse nationale de retraite
 des agents des collectivités locales ;
 
-l) La commission comprend en outre un représentant des régimes autres que ceux
+j) La commission comprend en outre un représentant des régimes autres que ceux
 énumérés ci-dessus, désigné après entente entre les présidents des caisses et
 institutions intéressés ou, à défaut, par le ministre chargé de la sécurité
 sociale ;
 
-m) Le président du conseil d'administration du Fonds de solidarité vieillesse ;
+k) Le président du conseil d'administration du Fonds de solidarité vieillesse ;
 
-n) Le président du conseil d'administration de l'Association des régimes de
+l) Le président du conseil d'administration de l'Association des régimes de
 retraites complémentaires ;
 
-o) Le président du conseil d'administration de l'Association générale des
+m) Le président du conseil d'administration de l'Association générale des
 institutions de retraites des cadres ;
 
-p) Un représentant désigné par la Fédération nationale de la mutualité française
+n) Un représentant désigné par la Fédération nationale de la mutualité française
 ;
 
 6° Le président du Centre national des professions de santé ainsi que cinq

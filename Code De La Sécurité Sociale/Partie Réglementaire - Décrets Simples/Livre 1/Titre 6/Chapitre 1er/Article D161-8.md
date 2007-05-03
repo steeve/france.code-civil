@@ -5,9 +5,8 @@ Les membres du Comité national paritaire de l'information médicale mentionnés
 
 1° Le directeur de la Caisse nationale de l'assurance maladie des travailleurs
 salariés, le directeur général de la caisse centrale de secours mutuels
-agricoles et le directeur général de la Caisse nationale d'assurance maladie et
-maternité des travailleurs non salariés des professions non agricoles ou leurs
-représentants ;
+agricoles et le directeur général de la Caisse nationale du régime social des
+indépendants ou leurs représentants ;
 
 2° Le médecin-conseil national de chacune des caisses nationales mentionnées au
 1°, ou son représentant ;

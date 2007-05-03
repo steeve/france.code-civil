@@ -20,9 +20,8 @@ répression des fraudes ou son représentant ;
 6° Deux représentants des organismes nationaux d'assurance maladie désignés par
 le directeur général de la Caisse nationale d'assurance maladie des travailleurs
 salariés et un représentant désigné conjointement par le directeur de la Caisse
-nationale d'assurance maladie et maternité des travailleurs non salariés des
-professions non agricoles et le directeur de la Caisse centrale de la mutualité
-sociale agricole ;
+nationale du régime social des indépendants et le directeur de la Caisse
+centrale de la mutualité sociale agricole ;
 
 7° Un représentant désigné par le conseil de l'Union nationale des organismes
 d'assurance maladie complémentaire.

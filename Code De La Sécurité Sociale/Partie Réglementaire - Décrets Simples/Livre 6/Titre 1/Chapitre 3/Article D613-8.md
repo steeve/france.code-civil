@@ -1,7 +1,8 @@
 Article D613-8
 ----
-Les encaissements effectués en exécution des obligations constatées par un
-contrat, une convention ou un titre de propriété dont l'agent comptable assure
-la conservation par application de l'article D. 253-28, donnent lieu
-annuellement à la délivrance par le directeur d'ordres de recette de
-régularisation soit individuels, soit collectifs.
+En cas d'état pathologique résultant de la grossesse et attesté par un
+certificat médical, les durées maximales fixées au 1° de l'article D. 613-6 sont
+augmentées de moitié. Dans ce cas, les jours supplémentaires peuvent être pris à
+partir de la déclaration de grossesse. Ils peuvent se cumuler avec la période de
+cessation de travail prévue à l'article D. 613-6 sans devoir nécessairement lui
+être reliés.

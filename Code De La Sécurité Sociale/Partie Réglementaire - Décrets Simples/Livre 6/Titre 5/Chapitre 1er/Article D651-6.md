@@ -2,8 +2,7 @@ Article D651-6
 ----
 Les opérations de recouvrement de la contribution sociale de solidarité sont
 décrites dans un compte spécial ouvert à cet effet dans la comptabilité de la
-caisse nationale et des caisses interprofessionnelles mentionnées aux articles
-D. 651-4 et D. 651-5.
+caisse nationale et des caisses mentionnées aux articles D. 651-4 et D. 651-5.
 
 Ces organismes disposent, pour l'encaissement de ladite contribution et des
 majorations prévues à l'article D. 651-11, d'un ou plusieurs comptes uniquement
@@ -19,8 +18,7 @@ application de l'article D. 651-7.
 Les opérations de recouvrement de la contribution additionnelle à la
 contribution sociale de solidarité à la charge des sociétés sont décrites dans
 un compte spécial ouvert à cet effet dans la comptabilité de la Caisse nationale
-de l'organisation autonome d'assurance vieillesse des professions industrielles
-et commerciales. La caisse dispose auprès de l'un des organismes mentionnés au
-deuxième alinéa d'un compte spécialement ouvert pour l'encaissement de la
-contribution additionnelle à la contribution sociale de solidarité à la charge
-des sociétés et les majorations afférentes.
+du régime social des indépendants. La caisse dispose auprès de l'un des
+organismes mentionnés au deuxième alinéa d'un compte spécialement ouvert pour
+l'encaissement de la contribution additionnelle à la contribution sociale de
+solidarité à la charge des sociétés et les majorations afférentes.

@@ -1,21 +1,25 @@
 Article D613-6
 ----
-Le directeur constate et liquide les droits et charges de l'organisme. Sous
-réserve, d'une part, pour certaines opérations et notamment celles dont
-l'importance dépasse une limite fixée par le conseil d'administration, de
-l'apposition du contreseing du président ou d'un administrateur ayant reçu
-délégation à cet effet, et, d'autre part, des délégations qu'il peut consentir
-dans les conditions prévues à l'alinéa suivant, il a qualité pour procéder à
-l'émission des ordres de recettes et des ordres de dépenses.
+L'indemnité complémentaire prévue à l'article L. 613-19-1 et au deuxième alinéa
+de l'article L. 613-19-2 est versée aux conjointes ou conjoints collaborateurs
+qui cessent leur activité et se font effectivement remplacer par du personnel
+salarié dans les travaux professionnels ou ménagers qu'ils effectuent
+habituellement :
 
-Toutefois, il peut déléguer sa signature au directeur adjoint de la caisse ou,
-avec l'autorisation du conseil d'administration, à un ou plusieurs agents de
-l'organisme. Cette délégation doit préciser, pour chaque agent, la nature des
-opérations qu'il peut effectuer et leur montant maximum.
+1° Pour les mères, pendant sept jours au moins compris dans la période
+commençant six semaines avant la date présumée de l'accouchement et se terminant
+dix semaines après ; la durée maximale de versement est de vingt-huit jours, ou
+sur demande de l'intéressée de cinquante-six jours, consécutifs ou non.
 
-En cas d'absence momentanée ou d'empêchement du directeur, ses fonctions sont
-exercées par le directeur adjoint lorsqu'il en existe un. En cas d'absence
-momentanée ou d'empêchement du directeur et du directeur adjoint, ou à défaut de
-directeur adjoint, le directeur peut, avec l'autorisation du conseil
-d'administration, se faire suppléer dans ses fonctions par un agent de la caisse
-spécialement désigné à cet effet.
+En cas d'accouchement plus de six semaines avant la date initialement prévue et
+exigeant l'hospitalisation postnatale de l'enfant, la période de versement de
+l'indemnité complémentaire est augmentée du nombre de jours courant de la date
+effective de l'accouchement au début de la période de six semaines précédant la
+date initialement prévue.
+
+2° Pour les mères adoptantes, pendant sept jours au moins à compter de la date
+d'arrivée de l'enfant au foyer ; la durée maximale de versement est égale à la
+moitié des durées fixées au 1° ;
+
+3° Pour les pères, pendant onze jours consécutifs au plus débutant dans la
+période de quatre mois suivant la naissance ou l'arrivée de l'enfant au foyer.

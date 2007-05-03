@@ -1,16 +1,12 @@
 Article D613-11
 ----
-Le directeur délivre les ordres de dépenses de la caisse. Les ordres de dépenses
-peuvent revêtir la forme d'une mention apposée sur le mémoire, la facture ou la
-pièce justificative en tenant lieu.
+Les conditions de collaboration professionnelle des conjointes ou conjoints des
+personnes mentionnées au 5° de l'article L. 613-1 et de membres des professions
+libérales sont réputées remplies sur la foi d'une déclaration sur l'honneur
+souscrite par ces personnes attestant que leur conjoint ou conjointe :
 
-Pour les opérations donnant lieu à l'établissement de budgets, les ordres de
-dépenses énoncent l'exercice et le chapitre d'imputation et, lorsqu'ils
-constituent des documents séparés des pièces justificatives, la référence à
-celles-ci.
+1° Leur apporte effectivement et habituellement, sans être rémunéré pour cela,
+son concours pour l'exercice de leur propre activité professionnelle ;
 
-Le montant des ordres de dépenses est exprimé soit en toutes lettres, soit en
-chiffres au moyen d'appareils donnant des garanties d'inscription au moins
-égales à celles de l'inscription en toutes lettres.
-
-Les ordres de dépenses sont datés et signés par le directeur ou son délégué.
+2° Ne relève pas à titre personnel d'un régime obligatoire d'assurance maladie
+et maternité.

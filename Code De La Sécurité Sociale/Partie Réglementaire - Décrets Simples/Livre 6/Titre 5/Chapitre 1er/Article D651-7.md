@@ -1,8 +1,8 @@
 Article D651-7
 ----
 Il est ouvert un compte unique de disponibilités courantes, à la Caisse des
-dépôts et consignations au nom de la caisse nationale de l'organisation autonome
-d'assurance vieillesse des professions industrielles et commerciales.
+dépôts et consignations au nom de la caisse nationale du régime social des
+indépendants.
 
 Ce compte enregistre en recettes les sommes virées en application du troisième
 alinéa de l'article D. 651-6 et les intérêts produits.

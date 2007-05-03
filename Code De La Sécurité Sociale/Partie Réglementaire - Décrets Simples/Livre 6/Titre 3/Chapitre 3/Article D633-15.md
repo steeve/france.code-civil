@@ -8,7 +8,8 @@ cotisations ayant donné lieu à application des majorations.
 Le directeur de la caisse est compétent pour statuer sur des demandes portant
 sur des montants inférieurs à un seuil fixé par arrêté du ministre chargé de la
 sécurité sociale. A partir de ce seuil, il est statué sur proposition du
-directeur par la commission de recours amiable.
+directeur par la commission de recours amiable. Les décisions tant du directeur
+que de la commission de recours amiable doivent être motivées.
 
 Il ne peut être accordé de remise des majorations de retard que sous les
 conditions et limites prévues aux troisième et quatrième alinéas et à la

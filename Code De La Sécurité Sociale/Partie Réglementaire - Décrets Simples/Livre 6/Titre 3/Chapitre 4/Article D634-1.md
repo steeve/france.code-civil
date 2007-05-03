@@ -18,8 +18,7 @@ d'assurance vieillesse des professions industrielles et commerciales.
 II. - Les références aux caisses du régime général de la sécurité sociale, aux
 caisses régionales d'assurance maladie ou aux caisses chargées de la liquidation
 des prestations vieillesse des travailleurs salariés sont remplacées par les
-références aux caisses d'assurance vieillesse des professions artisanales et aux
-caisses d'assurance vieillesse des professions industrielles et commerciales.
+références aux caisses de base du régime social des indépendants.
 
 III. - Les références au salaire annuel de base, salaire de base, salaires
 annuels et salaires sont remplacées par les références au revenu annuel moyen

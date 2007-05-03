@@ -5,11 +5,8 @@ dans les mêmes conditions que celles prévues par la présente section pour les
 cotisations de base.
 
 Le taux de la cotisation annuelle dont sont redevables les assurés cotisant
-bénéficiaires du régime d'indemnités journalières des artisans est fixé à 0,7 %.
-
-Le taux de la cotisation annuelle dont sont redevables les assurés cotisant
-bénéficiaires du régime d'indemnités journalières des industriels et commerçants
-est fixé à 0,7 %.
+bénéficiaires du régime d'indemnités journalières des artisans, des industriels
+et commerçants est fixé à 0,7 %.
 
 Le paiement de la cotisation annuelle supplémentaire s'effectue selon les mêmes
 modalités que la cotisation annuelle de base.

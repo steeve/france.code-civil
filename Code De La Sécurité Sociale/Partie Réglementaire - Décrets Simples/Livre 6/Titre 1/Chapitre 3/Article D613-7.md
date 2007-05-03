@@ -1,13 +1,6 @@
 Article D613-7
 ----
-Le directeur liquide les créances de l'organisme. Il a seul qualité pour
-certifier, par la signature de l'ordre de recette, la réalité de la créance.
-
-A chaque ordre de recette sont jointes, s'il y a lieu, les pièces
-justificatives.
-
-Les documents individuels ou collectifs obtenus par duplication ne constituent
-des ordres de recette qu'autant qu'ils sont revêtus de la signature du directeur
-ou de son délégué.
-
-Les ordres de recette sont conservés par l'agent comptable.
+L'indemnité de remplacement visée à l'article D. 613-6 est égale au coût réel du
+remplacement du ou de la bénéficiaire dans la limite d'un plafond journalier
+égal à 1/56 d'un montant fixé à deux fois le montant du salaire minimum de
+croissance prévu aux articles L. 141-1 et suivants du code du travail.
