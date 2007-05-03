@@ -1,7 +1,7 @@
 Article D653-59
 ----
 Tout manquement, par le naisseur, aux règles définies en application des
-dispositions de l'article D. 212-59 observé sur l'exploitation ou lors de la
+dispositions de l'article D. 653-55 observé sur l'exploitation ou lors de la
 vérification de compatibilité génétique peut, selon la nature ou la gravité du
 manquement ou de l'anomalie, entraîner l'invalidation de la filiation de
 l'animal objet du manquement ou de l'ensemble des filiations de l'élevage

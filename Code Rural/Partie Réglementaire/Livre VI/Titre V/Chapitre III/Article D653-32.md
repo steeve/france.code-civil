@@ -11,8 +11,3 @@ partenaires intéressés ainsi que des sources de financement adaptées aux
 missions, tenant une comptabilité analytique permettant d'identifier les
 recettes et les dépenses relevant des missions pour lesquelles ils sont agréés
 et satisfaisant aux contrôles du ministère de l'agriculture et de la pêche.
-
-Dans le cas des organismes de sélection agréés pour un type génétique hybride
-porcin, le maintien de l'agrément est en outre subordonné à la participation de
-ces organismes à un test sur les caractères des produits terminaux afin de
-fournir aux éleveurs une information fiable.

@@ -13,4 +13,4 @@ dans l'élevage considéré et à attribuer le code race de cet animal.
 
 Le service de certification de la parenté doit être apporté à tout naisseur ou
 détenteur qui en fait la demande, dans le respect des règles définies aux
-articles D. 212-57 à R. 653-59.
+articles D. 653-53 à D. 653-59.
