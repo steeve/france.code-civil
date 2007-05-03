@@ -5,9 +5,9 @@ opérations relevant d'une ou plusieurs des branches mentionnées aux 20 à 22 e
 24 à 26 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge
 de solvabilité définie à l'article R. 212-16.
 
-Ce fonds ne peut être inférieur à 2,25 millions d'euros. Ce montant est révisé
-annuellement en fonction de l'évolution de l'indice européen des prix à la
-consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque
+Ce fonds ne peut être inférieur à 2,4 millions d'euros (1). Ce montant est
+révisé annuellement en fonction de l'évolution de l'indice européen des prix à
+la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque
 année, l'Autorité de contrôle communique le nouveau montant en euros calculé en
 fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros
 supérieur. Si la variation de l'indice depuis la dernière adaptation est
@@ -18,8 +18,9 @@ II et au 1 du III de l'article R. 212-15.
 
 Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui :
 
-a) Soit garantissent exclusivement des frais d'obsèques dont le montant n'excède
-pas 50 % du plafond mensuel de la sécurité sociale ;
+a) soit garantissent exclusivement des prestations en cas de décès lorsque le
+montant en capital n'excède pas 150 % du plafond mensuel de la sécurité sociale
+ou lorsque ces prestations sont servies en nature ;
 
 b) Soit remplissent cumulativement les conditions suivantes :
 
