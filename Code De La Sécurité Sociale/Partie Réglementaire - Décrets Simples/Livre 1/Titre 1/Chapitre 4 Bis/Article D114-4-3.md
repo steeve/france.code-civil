@@ -45,13 +45,11 @@ politique sociale agricoles ou son représentant ;
 14° De représentants de l'Agence centrale des organismes de sécurité sociale, de
 la Caisse nationale de l'assurance maladie des travailleurs salariés, de la
 Caisse nationale d'assurance vieillesse des travailleurs salariés, de la Caisse
-nationale des allocations familiales, de la Caisse nationale d'assurance maladie
-et maternité des travailleurs non salariés des professions non agricoles, de la
-Caisse centrale de mutualité sociale agricole, de la Caisse autonome nationale
-de compensation de l'assurance vieillesse artisanale, de l'Organisation autonome
-nationale de l'industrie et du commerce et du Fonds de solidarité vieillesse ;
-chaque organisme désigne deux représentants occupant au moins des fonctions
-égales à celles de directeur adjoint ou d'agent comptable ;
+nationale des allocations familiales, de la Caisse nationale du régime social
+des indépendants, de la Caisse centrale de mutualité sociale agricole et du
+Fonds de solidarité vieillesse ; chaque organisme désigne deux représentants
+occupant au moins des fonctions égales à celles de directeur adjoint ou d'agent
+comptable ;
 
 15° Trois représentants des autres organismes de sécurité sociale désignés
 conjointement par les divers régimes ;

@@ -9,10 +9,11 @@ son adaptation ou sa reconversion professionnelle ou de favoriser la
 réorganisation ou la restructuration des structures hospitalières.
 
 Le placement d'un praticien hospitalier dans cette position est décidé, pour une
-durée maximale de deux ans, par le ministre chargé de la santé après avis motivé
-de la commission médicale d'établissement et du conseil exécutif de
-l'établissement public de santé dont il relève, ainsi que de la commission
-statutaire nationale.
+durée maximale de deux ans, par le directeur général du Centre national de
+gestion des praticiens hospitaliers et des personnels de direction de la
+fonction publique hospitalière après avis motivé de la commission médicale
+d'établissement et du conseil exécutif de l'établissement public de santé dont
+il relève, ainsi que de la commission statutaire nationale.
 
 Dans cette situation, le praticien hospitalier est tenu d'effectuer toutes les
 actions et démarches, concertées avec lui et arrêtées par l'établissement public

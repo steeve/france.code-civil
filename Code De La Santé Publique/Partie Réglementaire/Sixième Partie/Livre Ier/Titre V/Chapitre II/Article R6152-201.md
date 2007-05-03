@@ -15,6 +15,12 @@ exerçant leur activité à temps partiel qui exercent leurs fonctions dans des
 établissements mentionnés au I de l'article L. 313-12 du code de l'action
 sociale et des familles.
 
+Les dispositions de la présente section qui prescrivent la consultation du
+conseil exécutif ne sont pas applicables aux praticiens exerçant leurs fonctions
+dans les hôpitaux locaux ou dans les établissements mentionnés au I de l'article
+L. 313-12 du code de l'action sociale et des familles, pour lesquels l'avis du
+conseil d'administration est requis.
+
 Ils peuvent exercer leur activité dans plusieurs établissements pour favoriser
 le développement de la mise en réseaux des établissements mentionnés à l'article
 2 du titre IV du statut général des fonctionnaires et les actions de coopération

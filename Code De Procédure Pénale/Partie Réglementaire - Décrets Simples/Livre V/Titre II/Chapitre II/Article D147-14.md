@@ -10,10 +10,10 @@ Il peut en outre solliciter auprès du ministère public près la juridiction da
 le ressort de laquelle se situe l'établissement pénitentiaire toute information
 utile sur la situation judiciaire de l'intéressé.
 
-Pour les condamnés relevant des dispositions de l'article 712-21, il peut
-demander au juge de l'application des peines d'ordonner une expertise
-psychiatrique ou vérifier auprès de ce magistrat qu'une telle expertise figure
-au dossier et en demander la copie.
+Pour les condamnés relevant de l'article 712-21, il vérifie auprès du juge de
+l'application des peines qu'une expertise psychiatrique figure au dossier et
+peut alors en demander la copie. A défaut, il peut demander à ce magistrat
+d'ordonner une telle expertise.
 
 D'une manière générale, le directeur du service pénitentiaire d'insertion et de
 probation qui examine la situation du condamné pour déterminer s'il fera

@@ -14,11 +14,10 @@ L. 351-14-1 ;
 3° La référence au 1° de l'article L. 634-2-2 est substituée à la référence au
 1° de l'article L. 351-14-1 ;
 
-4° Au dernier alinéa de l'article D. 351-4, la référence à la caisse d'assurance
-vieillesse artisanale ou à la caisse d'assurance vieillesse industrielle et
-commerciale mentionnée à l'article R. 633-9 dont relève l'intéressé à la date de
-la demande ou dont il a relevé en dernier lieu est substituée à la référence à
-la caisse visée à cet alinéa ;
+4° Au dernier alinéa de l'article D. 351-4, la référence à la caisse de base du
+régime social des indépendants dont relève l'intéressé à la date de la demande
+ou dont il a relevé en dernier lieu est substituée à la référence à la caisse
+visée à cet alinéa ;
 
 5° A l'article D. 351-8, la référence au I de l'article D. 634-4-1 est
 substituée à la référence à l'article R. 351-29.

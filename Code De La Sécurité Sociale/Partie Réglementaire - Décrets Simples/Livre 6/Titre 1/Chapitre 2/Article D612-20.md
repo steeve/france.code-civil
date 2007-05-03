@@ -1,6 +1,6 @@
 Article D612-20
 ----
-Une majoration de 10 p. 100 est applicable aux cotisations qui n'ont pas été
+Une majoration de 10 % est applicable aux cotisations qui n'ont pas été
 acquittées à l'échéance.
 
 A l'expiration d'un délai de trois mois qui court à compter de la date
@@ -26,4 +26,4 @@ mutuelle régionale. Les décisions tant du directeur que de la commission de
 recours amiable doivent ête motivées.
 
 Les dispositions du présent article sont applicables aux majorations prévues au
-cinquième alinéa de l'article L. 131-6..
+cinquième alinéa de l'article L. 131-6.

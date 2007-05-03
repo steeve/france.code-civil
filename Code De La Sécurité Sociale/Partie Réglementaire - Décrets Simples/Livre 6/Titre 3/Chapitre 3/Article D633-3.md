@@ -7,5 +7,5 @@ réalisés au cours de l'année civile précédente.
 
 A défaut, les assurés n'ayant pas déclaré leurs revenus à l'organisme désigné
 par la convention dans les délais prévus par celle-ci sont tenus de le faire à
-la caisse d'assurance vieillesse à laquelle ils sont affiliés, sous peine des
-sanctions prévues à l'article D. 633-4.
+la caisse de base à laquelle ils sont affiliés, sous peine des sanctions prévues
+à l'article D. 633-4.

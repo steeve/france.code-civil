@@ -12,3 +12,9 @@ Les dispositions de la présente section qui prescrivent la consultation de la
 commission médicale d'établissement ne sont pas applicables aux praticiens
 hospitaliers qui exercent leurs fonctions dans des établissements mentionnés au
 I de l'article L. 313-12 du code de l'action sociale et des familles.
+
+Les dispositions de la présente section qui prescrivent la consultation du
+conseil exécutif ne sont pas applicables aux praticiens exerçant leurs fonctions
+dans les hôpitaux locaux ou dans les établissements mentionnés au I de l'article
+L. 313-12 du code de l'action sociale et des familles, pour lesquels l'avis du
+conseil d'administration est requis.
