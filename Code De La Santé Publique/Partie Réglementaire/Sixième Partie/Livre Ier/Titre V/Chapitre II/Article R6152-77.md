@@ -1,10 +1,11 @@
 Article R6152-77
 ----
 Dans l'intérêt du service, le praticien qui fait l'objet d'une procédure
-disciplinaire peut être immédiatement suspendu par le ministre chargé de la
-santé pour une durée maximale de six mois. Toutefois, lorsque l'intéressé fait
-l'objet de poursuites pénales, la suspension peut être prolongée pendant toute
-la durée de la procédure.
+disciplinaire peut être immédiatement suspendu par le directeur général du
+Centre national de gestion des praticiens hospitaliers et des personnels de
+direction de la fonction publique hospitalière pour une durée maximale de six
+mois. Toutefois, lorsque l'intéressé fait l'objet de poursuites pénales, la
+suspension peut être prolongée pendant toute la durée de la procédure.
 
 Le praticien suspendu conserve les émoluments mentionnés au 1° de l'article R.
 6152-23. Toutefois, lorsqu'une décision de justice lui interdit d'exercer, ses

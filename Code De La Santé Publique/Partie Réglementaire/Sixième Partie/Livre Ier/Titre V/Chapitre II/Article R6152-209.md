@@ -23,8 +23,9 @@ d'accueil et du président de la commission médicale d'établissement.
 
 Lorsque le responsable du pôle d'activité et le président de la commission
 médicale d'établissement émettent une proposition divergente, l'affectation est
-prononcée par arrêté du ministre chargé de la santé après avis de la commission
-statutaire nationale.
+prononcée par arrêté du directeur général du Centre national de gestion des
+praticiens hospitaliers et des personnels de direction de la fonction publique
+hospitalière après avis de la commission statutaire nationale.
 
 Dans tous les cas, l'affectation est enregistrée par l'établissement national
 chargé de la gestion des personnels de direction de la fonction publique

@@ -1,10 +1,11 @@
 Article R6152-5
 ----
 Sur proposition des directeurs d'agence régionale de l'hospitalisation, le
-ministre chargé de la santé établit une liste de postes à recrutement
-prioritaire qui, d'une part, sont conformes aux objectifs définis par les
-schémas régionaux d'organisation sanitaire, d'autre part, présentent des
-difficultés particulières de recrutement et d'exercice.
+directeur général du Centre national de gestion des praticiens hospitaliers et
+des personnels de direction de la fonction publique hospitalière établit une
+liste de postes à recrutement prioritaire qui, d'une part, sont conformes aux
+objectifs définis par les schémas régionaux d'organisation sanitaire, d'autre
+part, présentent des difficultés particulières de recrutement et d'exercice.
 
 Le praticien hospitalier, nommé ou en fonction sur l'un des postes mentionnés à
 l'alinéa précédent, s'engage par convention conclue avec le directeur de

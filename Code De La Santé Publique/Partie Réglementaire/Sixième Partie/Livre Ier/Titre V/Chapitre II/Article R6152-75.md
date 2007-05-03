@@ -1,6 +1,8 @@
 Article R6152-75
 ----
-Le conseil de discipline est saisi par le ministre chargé de la santé.
+Le conseil de discipline est saisi par le directeur général du Centre national
+de gestion des praticiens hospitaliers et des personnels de direction de la
+fonction publique hospitalière.
 
 Le praticien intéressé doit être avisé au moins deux mois à l'avance, par lettre
 recommandée avec demande d'avis de réception, de la date de sa comparution

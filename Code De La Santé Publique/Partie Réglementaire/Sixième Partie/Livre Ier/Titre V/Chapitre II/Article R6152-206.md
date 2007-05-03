@@ -5,21 +5,23 @@ temps partiel :
 
 1° Les praticiens des hôpitaux à temps partiel candidats à la mutation, comptant
 au moins trois années de fonctions effectives dans un même établissement, sauf
-dérogation exceptionnelle accordée par le ministre chargé de la santé.
-Toutefois, la condition de durée de fonctions n'est pas exigée pour les
-praticiens en fonctions dans l'établissement où survient la vacance, ni pour les
-praticiens dont l'emploi est transformé ou transféré dans le cadre d'une
-opération de restructuration ou de coopération mentionnée à l'article L. 6122-16
-;
+dérogation exceptionnelle accordée par le directeur général du Centre national
+de gestion des praticiens hospitaliers et des personnels de direction de la
+fonction publique hospitalière. Toutefois, la condition de durée de fonctions
+n'est pas exigée pour les praticiens en fonctions dans l'établissement où
+survient la vacance, ni pour les praticiens dont l'emploi est transformé ou
+transféré dans le cadre d'une opération de restructuration ou de coopération
+mentionnée à l'article L. 6122-16 ;
 
 2° Les praticiens des hôpitaux à temps plein, comptant au moins trois années de
 fonctions effectives dans un même établissement, sauf dérogation exceptionnelle
-accordée par le ministre chargé de la santé. Toutefois, la condition de durée de
-fonctions n'est pas exigée pour les praticiens, nommés à titre permanent, en
-fonctions dans l'établissement où survient la vacance, ni pour les praticiens
-dont l'emploi est transformé ou transféré dans le cadre d'une opération de
-restructuration, de réorganisation ou de coopération mentionnée à l'article L.
-6122-16 ;
+accordée par le directeur général du Centre national de gestion des praticiens
+hospitaliers et des personnels de direction de la fonction publique
+hospitalière. Toutefois, la condition de durée de fonctions n'est pas exigée
+pour les praticiens, nommés à titre permanent, en fonctions dans l'établissement
+où survient la vacance, ni pour les praticiens dont l'emploi est transformé ou
+transféré dans le cadre d'une opération de restructuration, de réorganisation ou
+de coopération mentionnée à l'article L. 6122-16 ;
 
 3° Les praticiens hospitaliers, les praticiens des hôpitaux à temps partiel qui,
 à l'issue d'un détachement ou d'une disponibilité, à l'expiration d'un des

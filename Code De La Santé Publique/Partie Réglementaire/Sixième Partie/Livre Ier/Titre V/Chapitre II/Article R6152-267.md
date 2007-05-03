@@ -1,4 +1,6 @@
 Article R6152-267
 ----
 L'avis motivé émis par la commission est transmis dans un délai de quinze jours
-au ministre chargé de la santé pour décision.
+au directeur général du Centre national de gestion des praticiens hospitaliers
+et des personnels de direction de la fonction publique hospitalière pour
+décision.

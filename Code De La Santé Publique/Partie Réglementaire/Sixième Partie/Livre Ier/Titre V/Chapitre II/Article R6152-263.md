@@ -17,5 +17,4 @@ choix du rapporteur.
 
 Le rapporteur assiste avec voix consultative à la séance de la commission.
 
-Le secrétariat est assuré par la direction de l'hospitalisation et de
-l'organisation des soins.
+Le secrétariat est assuré par le centre national de gestion.

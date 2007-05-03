@@ -3,8 +3,10 @@ Article R6152-254
 Le praticien hospitalier qui fait preuve d'insuffisance professionnelle fait
 l'objet, soit d'une modification de la nature de ses fonctions, soit d'une
 mesure de licenciement avec indemnité. Ces mesures sont prononcées par arrêté du
-ministre chargé de la santé, après avis de la commission statutaire nationale
-siégeant dans les conditions fixées à l'article R. 6152-255.
+directeur général du Centre national de gestion des praticiens hospitaliers et
+des personnels de direction de la fonction publique hospitalière, après avis de
+la commission statutaire nationale siégeant dans les conditions fixées à
+l'article R. 6152-255.
 
 L'insuffisance professionnelle consiste en une incapacité dûment constatée à
 accomplir les travaux ou à assumer les responsabilités relevant normalement des
