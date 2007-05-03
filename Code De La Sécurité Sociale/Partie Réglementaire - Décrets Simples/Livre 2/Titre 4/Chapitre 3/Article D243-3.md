@@ -13,5 +13,4 @@ salariés ;
 c) 50 % pour les autres créances.
 
 Pour la détermination du seuil applicable, les effectifs des salariés sont
-calculés selon les modalités fixées à l'avant-dernier alinéa de l'article R.
-243-6.
+calculés au 31 décembre de chaque année.
