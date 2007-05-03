@@ -71,9 +71,7 @@ ou d'un véhicule volé, la police municipale en informe les forces de sécurit�
 l'État.
 
 Art. 4.-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6
-du code de procédure pénale et par les articles L234-1, L234-3, L234-4, L234-5,
-L234-8, L234-6, L234-11, L234-7, L234-2, L234-8, L221-2, L223-5, L224-5,
-L224-16, L224-17, L224-18, L231-2, L233-1, L233-2 du code de la route, les
+du code de procédure pénale et par l'article L. 1 er du code de la route, les
 agents de police municipale doivent pouvoir joindre à tout moment un officier de
 police judiciaire territorialement compétent.A cette fin, le responsable des
 forces de sécurité de l'État et le responsable de la police municipale précisent

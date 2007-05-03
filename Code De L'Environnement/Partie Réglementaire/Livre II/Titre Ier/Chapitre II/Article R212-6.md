@@ -14,7 +14,8 @@ Dès que ces documents sont établis, le président du comité de bassin les
 adresse, pour information et observations éventuelles, aux conseils régionaux,
 aux conseils généraux, aux chambres consulaires, aux conseils économiques et
 sociaux régionaux ainsi que, lorsqu'ils existent, aux établissements publics
-territoriaux de bassin.
+territoriaux de bassin et, aux organes de gestion des parcs nationaux et des
+parcs naturels régionaux en tant qu'il les concerne.
 
 Il met ces documents à la disposition du public, pendant six mois au moins, dans
 les préfectures et au siège de l'agence de l'eau, où un registre est prévu pour
