@@ -1,9 +1,9 @@
 Article 72
 ----
-Pour bénéficier des avantages fiscaux prévus à l'article 298 septies du code
-général des impôts, les journaux et publications périodiques présentant un lien
-avec l'actualité, apprécié au regard de l'objet de la publication, doivent
-remplir les conditions suivantes :
+Les journaux et écrits périodiques présentant un lien direct avec l'actualité,
+apprécié au regard de l'objet de la publication et présentant un apport
+éditorial significatif, bénéficient des avantages fiscaux prévus à l'article 298
+septies du code général des impôts s'ils remplissent les conditions suivantes :
 
 1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée :
 instruction, éducation, information, récréation du public ;
@@ -32,15 +32,16 @@ Un arrêté conjoint du ministre chargé du budget, du ministre chargé de la
 communication et du ministre chargé des postes précise, en tant que de besoin,
 les modalités d'application de la présente disposition ;
 
-5° Avoir au plus les deux tiers de leur surface consacrés à la publicité, aux
-annonces judiciaires et légales et aux annonces classées sans que ces dernières
-excèdent la moitié de la surface totale ;
+5° Avoir au plus les deux tiers de leur surface consacrés aux annonces classées,
+sans que ces dernières excèdent la moitié de la surface totale, à la publicité
+et aux annonces judiciaires et légales ;
 
 6° N'être assimilables, malgré l'apparence de journaux ou de revues qu'elles
 pourraient présenter, à aucune des publications visées sous les catégories
 suivantes :
 
-a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs ;
+a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs,
+répertoires, index, lexiques ;
 
 b) Ouvrages publiés par livraison et dont la publication embrasse une période de
 temps limitée ou qui constituent le complément ou la mise à jour d'ouvrages déjà
@@ -93,3 +94,7 @@ Pour l'application du présent article, est considérée comme numéro spécial 
 hors-série d'un journal ou d'un écrit périodique toute publication proposée au
 public en dehors de la parution normale, à l'occasion d'un événement ou d'une
 manifestation importante.
+
+8° N'être pas susceptible de choquer le lecteur par une représentation
+dégradante de la personne humaine portant atteinte à sa dignité et à la décence
+ou présentant sous un jour favorable la violence.
