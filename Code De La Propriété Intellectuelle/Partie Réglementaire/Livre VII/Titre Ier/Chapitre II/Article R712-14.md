@@ -17,5 +17,5 @@ l'opposition ;
 4° La justification du paiement de la redevance prescrite ;
 
 5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété
-industrielle, le pouvoir du mandataire, ce pouvoir pouvant être adressé à
-l'institut dans le délai maximum d'un mois.
+industrielle ou d'avocat, le pouvoir du mandataire, ce pouvoir pouvant être
+adressé à l'institut dans le délai maximum d'un mois.
