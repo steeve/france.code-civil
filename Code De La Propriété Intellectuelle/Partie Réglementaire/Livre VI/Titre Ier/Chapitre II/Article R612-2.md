@@ -18,9 +18,9 @@ cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si
 celui-ci n'est pas l'un des demandeurs, il doit satisfaire aux conditions
 prévues par le premier alinéa.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire
-doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles
-R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la
-réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20,
-R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R.
-618-4. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le
+mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions
+des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les
+actes et à la réception de toutes les notifications prévus aux articles R.
+611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R.
+616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.

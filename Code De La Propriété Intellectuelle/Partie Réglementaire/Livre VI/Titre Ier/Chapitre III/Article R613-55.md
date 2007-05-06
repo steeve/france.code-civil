@@ -22,4 +22,4 @@ ou de la jouissance ;
 3° La justification du paiement de la redevance prescrite ;
 
 4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de
-conseil en propriété industrielle.
+conseil en propriété industrielle ou d'avocat.

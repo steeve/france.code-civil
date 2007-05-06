@@ -5,8 +5,8 @@ par une déclaration écrite.
 
 Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le
 propriétaire du brevet ou par un mandataire, lequel, sauf s'il a la qualité de
-conseil en propriété industrielle, doit joindre à la déclaration un pouvoir
-spécial de renonciation.
+conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un
+pouvoir spécial de renonciation.
 
 Si le brevet appartient à plusieurs personnes, la renonciation ne peut être
 effectuée que si elle est requise par l'ensemble de celles-ci.

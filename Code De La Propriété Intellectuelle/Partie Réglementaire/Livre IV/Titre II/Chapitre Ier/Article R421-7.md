@@ -1,9 +1,9 @@
 Article R421-7
 ----
-Les conditions de diplôme, de stage et d'examen professionnel prévues à
-l'article R. 421-1 ne sont pas applicables aux personnes qui ont suivi avec
-succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée
-équivalente à temps partiel dans une université ou un établissement
+Les conditions de diplôme, de stage et d'examen professionnel prévues aux
+articles R. 421-1 et R. 421-1-1 ne sont pas applicables aux personnes qui ont
+suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une
+durée équivalente à temps partiel dans une université ou un établissement
 d'enseignement supérieur ou dans un autre établissement de même niveau de
 formation et, le cas échéant, la formation professionnelle requise en plus de ce
 cycle d'études et qui justifient :

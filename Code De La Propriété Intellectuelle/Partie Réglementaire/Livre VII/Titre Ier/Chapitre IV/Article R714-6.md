@@ -12,7 +12,7 @@ La demande comprend :
 1° Un bordereau de demande d'inscription ;
 
 2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de
-conseil en propriété industrielle ;
+conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du
 paiement de la redevance prescrite ;

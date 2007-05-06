@@ -20,8 +20,8 @@ En cas de pluralité de déposants, un mandataire commun doit être constitué. 
 celui-ci n'est pas l'un des déposants, il doit satisfaire aux conditions prévues
 par le deuxième alinéa.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire
-doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles
-R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la
-réception de toutes les notifications prévues au présent titre. Le pouvoir est
-dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le
+mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions
+des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les
+actes et à la réception de toutes les notifications prévues au présent titre. Le
+pouvoir est dispensé de légalisation.

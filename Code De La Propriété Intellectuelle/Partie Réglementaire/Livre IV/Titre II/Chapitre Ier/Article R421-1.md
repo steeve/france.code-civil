@@ -1,7 +1,8 @@
 Article R421-1
 ----
-L'inscription d'une personne physique sur la liste des personnes qualifiées en
-propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de
+Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une
+personne physique sur la liste des personnes qualifiées en propriété
+industrielle prévue à l'article L. 421-1 est subordonnée au respect de
 l'ensemble des conditions suivantes :
 
 1° La possession d'un diplôme national de deuxième cycle juridique, scientifique
@@ -12,7 +13,7 @@ arrêté conjoint du garde des sceaux, ministre de la justice, du ministre charg
 de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
 
 2° La possession d'un diplôme délivré par le Centre d'études internationales de
-la propriété industrielle (C.E.I.P.I.) de l'université de Strasbourg ou d'un
+la propriété industrielle (C. E. I. P. I.) de l'université de Strasbourg ou d'un
 titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde
 des sceaux, ministre de la justice, du ministre chargé de la propriété
 industrielle et du ministre chargé de l'enseignement supérieur ;

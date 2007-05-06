@@ -22,7 +22,8 @@ application de la loi du 13 avril 1908.
 
 a) La justification du paiement des redevances prescrites ;
 
-b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
+b) S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il
+n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par
 l'usage, la justification de cet usage ;
