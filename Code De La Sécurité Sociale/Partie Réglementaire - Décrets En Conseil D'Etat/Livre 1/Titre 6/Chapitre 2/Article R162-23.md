@@ -1,13 +1,14 @@
 Article R162-23
 ----
-Un décret rendu sur le rapport du ministre chargé de la sécurité sociale, du
-ministre chargé de la santé et du ministre chargé de l'agriculture détermine les
-conditions à remplir par les établissements autorisés et les obligations
-imposées à ces établissements pour l'exercice du contrôle médical des assurances
-sociales. Il précise également la composition de la commission régionale prévue
-à l'article R. 162-22 ainsi que la procédure applicable à la délivrance des
-autorisations.
+Les recommandations relatives aux décisions mentionnées aux 1° à 4° de l'article
+R. 162-22 sont transmises aux ministres chargés de la santé et de la sécurité
+sociale au plus tard le 15 décembre de l'année précédant celle pour laquelle
+s'appliquent les décisions en cause. A défaut de recommandation, ces décisions
+sont transmises pour avis au conseil de l'hospitalisation qui dispose d'un délai
+de dix jours pour se prononcer.
 
-Il peut être fait appel des décisions de la commission régionale devant une
-commission nationale, dont la composition et les règles de procédure sont fixées
-par le même décret.
+Les recommandations relatives aux décisions mentionnées aux 5° et 7° du même
+article sont formulées par le conseil de l'hospitalisation de sa propre
+initiative ou sur saisine préalable des ministres chargés de la santé et de la
+sécurité sociale le sollicitent. Dans ce cas, le conseil dispose d'un délai d'un
+mois pour formuler ses recommandations.
