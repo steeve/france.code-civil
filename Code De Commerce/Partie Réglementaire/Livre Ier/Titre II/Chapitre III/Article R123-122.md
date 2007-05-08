@@ -50,12 +50,17 @@ redressement ou de liquidation judiciaire ;
 17° Prononçant la résolution du plan de cession ;
 
 18° Prononçant la clôture de la procédure pour extinction du passif ou
-insuffisance d'actif ;
+insuffisance d'actif avec, le cas échéant, l'indication de l'autorisation de la
+reprise des actions individuelles de tout créancier à l'encontre du débiteur ;
 
-19° Prononçant la faillite personnelle ou l'interdiction prévue à l'article L.
+19° Autorisant la reprise des actions individuelles de tout créancier à
+l'encontre du débiteur postérieurement au jugement prononçant la clôture de la
+procédure de liquidation judiciaire ;
+
+20° Prononçant la faillite personnelle ou l'interdiction prévue à l'article L.
 653-8 avec l'indication de la durée pour laquelle ces mesures ont été prononcées
 ;
 
-20° Remplaçant les mandataires de justice ;
+21° Remplaçant les mandataires de justice ;
 
-21° Décidant la reprise de la procédure de liquidation judiciaire.
+22° Décidant la reprise de la procédure de liquidation judiciaire.

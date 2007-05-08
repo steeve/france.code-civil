@@ -13,7 +13,7 @@ d'option avant cette opération.
 A cet effet, les nouveaux droits de souscription ou d'achat d'actions sont
 calculés en tenant compte du rapport entre, d'une part, le produit du
 pourcentage du capital racheté par la différence entre le prix de rachat et une
-moyenne pondérée au cours des trois dernières séances de bourse au moins qui
+moyenne pondérée des cours des trois dernières séances de bourse au moins qui
 précèdent le rachat ou la faculté de rachat et, d'autre part, cette moyenne. Les
 éventuels ajustements successifs sont effectués à partir de la parité qui
 précède immédiatement, arrondie comme il est dit à l'alinéa précédent.

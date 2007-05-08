@@ -5,7 +5,9 @@ personne morale :
 
 1° Sa raison sociale ou sa dénomination suivie, le cas échéant, de son sigle ;
 
-2° Sa forme juridique ;
+2° Sa forme juridique en précisant, s'il y a lieu, le fait que la société est
+constituée d'un associé unique et, le cas échéant, l'indication du statut légal
+particulier auquel la société est soumise ;
 
 3° Le montant de son capital social ; si le capital est variable, le montant
 au-dessous duquel il ne peut être réduit ;

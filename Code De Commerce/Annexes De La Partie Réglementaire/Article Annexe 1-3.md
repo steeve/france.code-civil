@@ -1,85 +1,179 @@
 Article Annexe 1-3
 ----
-Les formes juridiques de sociétés commerciales désignées à l'article R. 123-57
-sont les suivantes :
+ANNEXE AUX ARTICLES R. 123-57 ET 123-58
 
-1. Pour l'Allemagne :
+1° Pour l'Allemagne :
 
-die Aktiengesellschaft, die Kommanditgesellschaft auf Aktien, die Gesellschaft
-mit beschränkter Haftung.
+die Aktiengesellschaft ;
 
-2. Pour la Belgique :
+die Kommanditgesellschaft auf Aktien ;
 
-de naamloze vennootschap, de commanditaire vennootschap op aandelen, de
-personenvennootschap met beperkte aansprakelijkheid.
+die Gesellschaft mit beschränkter Haftung ;
 
-3. Pour l'Italie :
+2° Pour l'Autriche :
 
-società per azioni, società in accomandita per azioni, società a responsabilità
-limitata.
+die Aktiengesellschaft ;
 
-4. Pour le Luxembourg :
+die Gesellschaft mit beschraenkter Haftung ;
 
-la société anonyme, la société en commandite par actions, la société à
-responsabilité limitée.
+3° Pour la Belgique :
 
-5. Pour les Pays-Bas :
+de naamloze vennootschap ;
 
-de naamloze vennootschap, de besloten vennootschap met beperkte
-aansprakelijkheid.
+de commanditaire vennootschap op aandelen ;
 
-6. Pour le Royaume-Uni :
+de personenvennootschap met beperkre aansprakelijheid ;
 
-companies incorporated with limited liability.
+4° Pour la Bulgarie :
 
-7. Pour l'Irlande :
+5° Pour Chypre :
 
-companies incorporated with limited liability.
+6° Pour le Danemark :
 
-8. Pour le Danemark :
+aktieselskab ;
 
-aktieselskab, kommanditaktieselskab, anpartsselskab.
+kommanditaktieselskab ;
 
-9. Pour la Grèce :
+anpartsselskab ;
 
-10. Pour l'Espagne :
+7° Pour l'Espagne :
 
-11. Pour le Portugal :
+la sociedad anonima ;
 
-12. Pour l'Autriche :
+la sociedad en comandita por acciones ;
 
-die Aktiengesellschaft, die Gesellschaft mit beschränkter Haftung.
+la sociedad de responsabilidad limitada ;
 
-13. Pour la Finlande :
+8° Pour l'Estonie :
 
-yksityinen osakeyhtiö - privat aktiebolag, julkinen osakeyhtiö - publikt
-aktiebolag.
+aktsiaselts ;
 
-14. Pour la Suède :
+osaühing ;
 
-aktiebolag.
+9° Pour la Finlande :
 
-15. Pour la République tchèque :
+yksityinen osakeyhtiö/privat aktiebolag ;
 
-16. Pour l'Estonie :
+yulkinen osakeyhtiö/publikt aktiebolag ;
 
-aktsiaselts, osaühing.
+10° Pour la France :
 
-17. Pour Chypre :
+la société anonyme ;
 
-18. Pour la Lettonie :
+la société en commandite par actions ;
 
-19. Pour la Lituanie :
+la société à responsabilité limitée ;
 
-20. Pour la Hongrie :
+la société par actions simplifiée ;
 
-21. Pour Malte :
+11° Pour la Grèce :
 
-kumpanija pubblika - public limited liability company, kumpanijaprivata -
-private limited liability company.
+12° Pour la Hongrie :
 
-22. Pour la Pologne :
+részvénytajrsasajg ;
 
-23. Pour la Slovénie :
+korlajtolt felelosségu tajrsasajg ;
 
-24. Pour la Slovaquie :
+13° Pour l'Irlande :
+
+the public company limited by shares ;
+
+the public company limited by guarantee and having a share capital ;
+
+the private company limited by shares or by guarantee ;
+
+14° Pour l'Italie :
+
+sociétà per azioni ;
+
+sociétà in accomandita per azioni ;
+
+sociétà a responsabilità limitata ;
+
+15° Pour la Lettonie :
+
+Akciju sabiedriba ;
+
+sabiedriba ar ierobezotu atbildibu ;
+
+komanditsabiedriba ;
+
+16° Pour la Lituanie :
+
+akcine bendrove ;
+
+uzdaroji akcine bendrove ;
+
+17° Pour le Luxembourg :
+
+la société anonyme ;
+
+la société en commandite par actions ;
+
+la société à responsabilité limitée ;
+
+18° Pour Malte :
+
+kumpanija pubblika ;
+
+public limited liability company ;
+
+kumpanija privata ;
+
+private limited liability company ;
+
+19° Pour les Pays-Bas :
+
+de naamloze vennootschap ;
+
+de besloten vennootschap met beperkte aansprakelijkheid ;
+
+20° Pour la Pologne :
+
+spojlka z ograniczona odpowiedzialnoscia ;
+
+spojlka komandytowoakcyjna ;
+
+spojlka akcyjna ;
+
+21° Pour le Portugal :
+
+sociedade anonima ;
+
+sociedade en commandita por acçoes ;
+
+sociedade por quotas ;
+
+22° Pour la Roumanie :
+
+23° Pour le Royaume-Uni :
+
+the public company limited by shares ;
+
+the public company limited by guarantee and having a share capital ;
+
+the private company limited by shares or by guarantee ;
+
+24° Pour la Slovaquie :
+
+akciovaj spolecnost ;
+
+spolecnost s rucenijm obmedzenm' ;
+
+25° Pour la Slovénie :
+
+delniska druzba ;
+
+druzba z omejeno odgovornostjo ;
+
+26° Pour la Suède :
+
+aktiebolag ;
+
+komaditna delniska druzba ;
+
+27° Pour la République tchèque :
+
+spolecnost s rucenijm omezenm ;
+
+akciovaj spolecnost.

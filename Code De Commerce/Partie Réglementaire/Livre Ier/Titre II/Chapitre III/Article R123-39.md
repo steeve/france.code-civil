@@ -1,5 +1,6 @@
 Article R123-39
 ----
-Le justificatif de délivrance de l'information prévue au 5° de l'article R.
-123-37 est fourni conformément au modèle défini par arrêté du garde des sceaux,
-ministre de la justice.
+S'il a été arrêté un plan de cession, le cessionnaire déclare que la gestion de
+l'entreprise cédée lui a été confiée dans l'attente de l'accomplissement des
+actes nécessaires à la réalisation de la cession. La déclaration comporte la
+désignation du cédant.

@@ -10,3 +10,6 @@ radiation, soit à la mention correspondante selon le cas.
 
 Il notifie l'accomplissement de la formalité à la personne concernée et au
 greffier du nouveau siège ou du nouvel établissement.
+
+En cas de transfert d'un établissement secondaire, le greffier du nouvel
+établissement procède à la notification prévue au 1° de l'article R. 123-71.

@@ -3,7 +3,7 @@ Article R210-9
 Si l'une des mentions de l'avis prévu à l'article R. 210-3 est frappée de
 caducité par suite de la modification des statuts ou d'un autre acte,
 délibération ou décision, la modification intervenue est publiée dans les
-conditions suivantes :
+conditions prévues à l'article R. 210-3.
 
 L'avis est signé par le notaire qui a reçu l'acte ou au rang des minutes duquel
 il a été déposé ; dans les autres cas, il est signé par les représentants légaux

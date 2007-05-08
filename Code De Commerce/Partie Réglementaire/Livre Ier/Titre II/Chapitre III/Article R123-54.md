@@ -4,21 +4,22 @@ La société déclare en outre :
 
 1° Les nom, nom d'usage, pseudonyme, prénoms et domicile personnel des associés
 tenus indéfiniment ou tenus indéfiniment et solidairement des dettes sociales,
-leurs date et lieu de naissance, ainsi que les renseignements concernant leur
-nationalité et leur état matrimonial prévus aux 3° et 4° de l'article R. 123-37
-;
+leurs date et lieu de naissance, ainsi que leur nationalité de l'article R.
+123-37 ;
 
 2° Les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance,
 domicile personnel et nationalité des :
 
 a) Directeurs généraux, directeurs généraux délégués, membres du directoire,
-associés et tiers ayant le pouvoir de diriger, gérer ou engager à titre habituel
-la société avec l'indication, pour chacun d'eux lorsqu'il s'agit d'une société
+président du directoire ou, le cas échéant, directeur général unique, associés
+et tiers ayant le pouvoir de diriger, gérer ou engager à titre habituel la
+société avec l'indication, pour chacun d'eux lorsqu'il s'agit d'une société
 commerciale, qu'ils engagent seuls ou conjointement la société vis-à-vis des
 tiers ;
 
 b) Le cas échéant, administrateurs, président du conseil d'administration,
-membres du conseil de surveillance et commissaire aux comptes ;
+président du conseil de surveillance, membres du conseil de surveillance et
+commissaire aux comptes ;
 
 3° Lorsque les personnes mentionnées aux a et b ci-dessus sont des personnes
 morales, la dénomination sociale, la forme juridique, l'adresse du siège, le cas

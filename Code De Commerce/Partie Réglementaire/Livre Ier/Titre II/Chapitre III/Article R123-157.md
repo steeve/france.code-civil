@@ -17,13 +17,13 @@ au-dessous duquel le capital ne peut être réduit ;
 d'activité ;
 
 6° S'il s'agit d'une société, la forme juridique, les nom, nom d'usage,
-pseudonyme et prénoms des associés tenus indéfiniment ou tenus indéfiniment et
-solidairement des dettes sociales, les nom, nom d'usage, pseudonyme et prénoms
-des associés ou des tiers ayant dans la société la qualité de gérant,
-administrateur, président du conseil d'administration, directeur général, membre
-du directoire, membre du conseil de surveillance ou commissaire aux comptes ;
-les nom, nom d'usage, pseudonyme et prénoms des autres personnes ayant le
-pouvoir d'engager à titre habituel la société envers les tiers ;
+pseudonyme et prénoms des associés tenus indéfiniment et solidairement des
+dettes sociales, les nom, nom d'usage, pseudonyme et prénoms des associés ou des
+tiers ayant dans la société la qualité de gérant, administrateur, président du
+conseil d'administration, directeur général, membre du directoire, membre du
+conseil de surveillance ou commissaire aux comptes ; les nom, nom d'usage,
+pseudonyme et prénoms des autres personnes ayant le pouvoir d'engager à titre
+habituel la société envers les tiers ;
 
 7° S'il s'agit d'un groupement d'intérêt économique, les noms, nom d'usage,
 pseudonyme et prénoms des administrateurs, des personnes chargées du contrôle de

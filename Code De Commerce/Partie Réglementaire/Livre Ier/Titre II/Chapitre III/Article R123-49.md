@@ -8,3 +8,7 @@ adresse. Ce dernier procède d'office, dans le dossier en sa possession, soit à
 la radiation, soit à la mention correspondante. Il notifie l'accomplissement de
 la formalité à la personne immatriculée et au greffier du nouvel établissement
 ou de la nouvelle adresse.
+
+En cas de transfert d'un établissement secondaire, le greffier du nouvel
+établissement ou de la nouvelle adresse procède à la notification prévue au 1°
+de l'article R. 123-47.

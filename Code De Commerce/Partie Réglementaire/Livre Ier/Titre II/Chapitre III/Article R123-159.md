@@ -25,7 +25,9 @@ c) S'il s'agit d'une société, la forme juridique ;
 d) En cas de fusion ou de scission de société, l'indication de l'opération qui
 est à l'origine de ces modifications ainsi que celle des raison sociale,
 dénomination, forme juridique et siège des personnes morales ayant participé à
-cette opération.
+cette opération ;
+
+e) L'indication des modifications intervenues.
 
 Le présent article est applicable à la dissolution et la nullité d'une personne
 morale.
