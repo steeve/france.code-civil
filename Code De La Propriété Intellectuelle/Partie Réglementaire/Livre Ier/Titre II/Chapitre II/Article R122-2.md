@@ -1,21 +1,32 @@
 Article R122-2
 ----
-L'artiste qui désire obtenir, soit pour l'ensemble de son oeuvre, soit pour une
-ou plusieurs de ses oeuvres, le bénéfice du droit de suite lors de leur passage
-en vente publique doit faire insérer au Journal officiel une déclaration dont
-les termes seront déterminés par un arrêté ministériel.
+Les oeuvres mentionnées à l'article R. 122-1 sont les oeuvres originales
+graphiques ou plastiques créées par l'auteur lui-même, telles que les tableaux,
+les collages, les peintures, les dessins, les gravures, les estampes, les
+lithographies, les sculptures, les tapisseries, les céramiques, les verreries,
+les photographies et les créations plastiques sur support audiovisuel ou
+numérique.
 
-L'intéressé adresse en même temps un duplicata de la déclaration au ministre
-chargé de la culture.
+Les oeuvres exécutées en nombre limité d'exemplaires et sous la responsabilité
+de l'auteur sont considérées comme oeuvres d'art originales au sens de l'alinéa
+précédent si elles sont numérotées ou signées ou dûment autorisées d'une autre
+manière par l'auteur. Ce sont notamment :
 
-La déclaration peut être faite par les héritiers et ayants cause de l'artiste.
-La déclaration pourra mentionner les marques et indications de toute nature
-destinées à faciliter l'authentification des oeuvres de l'artiste.
+a) Les gravures, estampes et lithographies originales tirées en nombre limité
+d'une ou plusieurs planches ;
 
-Lorsque l'objet est dû à la collaboration de plusieurs artistes désirant
-bénéficier du droit de suite, la déclaration peut être effectuée soit
-collectivement par ceux-ci, soit isolément par chacun d'eux.
+b) Les éditions de sculpture, dans la limite de douze exemplaires, exemplaires
+numérotés et épreuves d'artiste confondus ;
 
-Cette déclaration doit indiquer s'il y a accord entre les collaborateurs sur la
-répartition du prélèvement prévu par le présent code et dans quelle proportion
-ils ont convenu de procéder à cette répartition.
+c) Les tapisseries et oeuvres d'art textile faites à la main, sur la base de
+modèles originaux fournis par l'artiste, dans la limite de huit exemplaires ;
+
+d) Les émaux entièrement exécutés à la main et comportant la signature de
+l'artiste, dans la limite de huit exemplaires numérotés et de quatre épreuves
+d'artiste ;
+
+e) Les oeuvres photographiques signées, dans la limite de trente exemplaires,
+quels qu'en soient le format et le support ;
+
+f) Les créations plastiques sur support audiovisuel ou numérique dans la limite
+de douze exemplaires.

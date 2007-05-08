@@ -1,9 +1,9 @@
 Article R122-4
 ----
-Les déclarations prévues aux articles R. 122-2 et R. 122-3 pourront comporter
-l'indication d'un mandataire tel que société ou syndicat, chargé de représenter
-les intérêts de l'artiste, de ses héritiers et ayants cause pour l'application
-des dispositions de l'article L. 122-8.
+Le prix de vente de chaque oeuvre pris en considération pour la perception du
+droit de suite est, hors taxes, le prix d'adjudication en cas de vente aux
+enchères publiques et, pour les autres ventes, le prix de cession perçu par le
+vendeur.
 
-Ledit mandataire prendra toutes mesures utiles pour sauvegarder les droits de
-l'artiste, de ses héritiers et ayants cause.
+Le droit de suite n'est pas exigible si le prix de vente de l'oeuvre, tel que
+défini à l'alinéa précédent, est inférieur à 750 euros.
