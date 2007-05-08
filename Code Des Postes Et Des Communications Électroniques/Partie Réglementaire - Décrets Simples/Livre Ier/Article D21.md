@@ -1,16 +1,14 @@
 Article D21
 ----
-Les journaux et écrits périodiques étrangers sont soumis au tarif des plis non
-urgents ou au tarif des imprimés selon leur destination.
+Les journaux et écrits périodiques édités dans un Etat non membre de l'Union
+européenne sont soumis à une tarification adaptée distincte du tarif de presse.
 
-Toutefois cette disposition ne s'applique pas aux publications des pays de la
-Communauté économique européenne instituée par le traité de Rome qui bénéficient
-du tarif préférentiel de presse dans les mêmes conditions que les publications
-françaises.
+Les journaux et écrits périodiques édités dans un Etat non membre de l'Union
+européenne, déposés à La Poste en France, bénéficient des tarifs de presse
+lorsque le pays considéré admet par réciprocité les journaux et écrits
+périodiques français remis à l'opérateur postal sur son territoire au bénéfice
+du tarif prévu par sa réglementation interne en faveur des objets de même
+catégorie.
 
-L'administration des postes et communications électroniques est autorisée à
-faire bénéficier du tarif préférentiel de presse les publications étrangères
-déposées à la poste en France, lorsque le pays considéré admet par réciprocité
-les journaux et écrits périodiques français mis à la poste sur son territoire,
-au bénéfice du tarif prévu par sa réglementation interne en faveur des objets de
-même catégorie.
+Le ministre chargé des postes publie la liste des Etats avec lesquels est établi
+un accord de réciprocité tel que prévu à l'alinéa précédent.
