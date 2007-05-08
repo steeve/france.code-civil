@@ -5,14 +5,10 @@ société de gestion de portefeuille mentionnée à l'article L. 532-9 et désig
 dans les statuts ou le règlement de l'organisme de placement collectif
 immobilier.
 
-Lorsqu'elle gère au moins un organisme de placement collectif immobilier, la
-société de gestion de portefeuille peut gérer à titre principal des actifs
-immobiliers faisant l'objet de mandats de gestion spécifiques ou des sociétés
-civiles de placement immobilier et, à titre accessoire, exercer une activité de
-conseil en investissement immobilier. Pour gérer des organismes de placement
-collectif immobilier, des sociétés civiles de placement immobilier ou des actifs
-immobiliers dans le cadre de mandats de gestion, la société de gestion de
-portefeuille dispose d'un programme d'activité spécifique.
+Cette société de gestion dispose d'un programme d'activité spécifique pour gérer
+des organismes de placement collectif immobilier et des sociétés civiles de
+placement immobilier et, à titre accessoire, fournir du conseil en
+investissement immobilier.
 
 Elle peut également être dirigeante des sociétés dans lesquelles l'organisme de
 placement collectif immobilier qu'elle gère détient les participations

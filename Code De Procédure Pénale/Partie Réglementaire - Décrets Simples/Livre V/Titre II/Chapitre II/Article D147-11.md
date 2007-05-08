@@ -5,7 +5,7 @@ d'insertion et de probation peut déléguer sa signature et ses pouvoirs à un c
 de service d'insertion et de probation ou à un conseiller technique de service
 social.
 
-En leur absence ou en cas d'empêchement, le directeur régional des services
+En leur absence ou en cas d'empêchement, le directeur interégional des services
 pénitentiaires désigne un fonctionnaire des services déconcentrés de
 l'administration pénitentiaire pour exercer les missions prévues par la présente
 section.

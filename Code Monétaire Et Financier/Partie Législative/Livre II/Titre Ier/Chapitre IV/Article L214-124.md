@@ -17,17 +17,17 @@ La libération des apports et, après la constitution de la société, les
 souscriptions d'actions ne peuvent s'effectuer par compensation avec des
 créances liquides et exigibles détenues sur la société.
 
-Le commissaire aux comptes apprécie, sous sa responsabilité, la valeur de tout
-apport en nature, au vu de l'estimation réalisée par deux évaluateurs
-immobiliers remplissant les conditions mentionnées à l'article L. 214-112 et
-désignés par la société de gestion. Le rapport du commissaire aux comptes est
-joint aux statuts et déposé au greffe du tribunal. Les statuts contiennent
-l'évaluation des apports en nature effectués lors de la constitution de la
-société de placement à prépondérance immobilière à capital variable. Les apports
-en nature effectués au cours de la vie de la société font l'objet d'une
-information des actionnaires dans les conditions définies par le règlement
-général de l'Autorité des marchés financiers. Un décret en Conseil d'Etat
-détermine les conditions d'application du présent alinéa.
+Tout apport en nature est évalué par le commissaire aux comptes sous sa
+responsabilité, au vu de l'estimation réalisée par deux évaluateurs immobiliers
+remplissant les conditions mentionnées à l'article L. 214-112 et désignés par la
+société de gestion. Le rapport du commissaire aux comptes est joint aux statuts
+et déposé au greffe du tribunal. Les statuts contiennent l'évaluation des
+apports en nature effectués lors de la constitution de la société de placement à
+prépondérance immobilière à capital variable. Les apports en nature effectués au
+cours de la vie de la société font l'objet d'une information des actionnaires
+dans les conditions définies par le règlement général de l'Autorité des marchés
+financiers. Un décret en Conseil d'Etat détermine les conditions d'application
+du présent alinéa.
 
 Le règlement général de l'Autorité des marchés financiers fixe, le cas échéant
 par dérogation au deuxième alinéa de l'article L. 225-128 du code de commerce,

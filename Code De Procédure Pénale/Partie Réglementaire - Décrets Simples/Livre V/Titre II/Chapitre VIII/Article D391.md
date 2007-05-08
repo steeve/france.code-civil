@@ -20,5 +20,5 @@ transfèrement et de séjour des militaires sont à la charge du ministère de l
 défense lorsque les intéressés sont dirigés sur un hôpital militaire.
 
 Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un
-établissement privé, à moins d'une décision du directeur régional des services
-pénitentiaires territorialement compétent.
+établissement privé, à moins d'une décision du directeur interrégional des
+services pénitentiaires territorialement compétent.

@@ -92,7 +92,25 @@ de l'un des Etats membres de l'O.C.D.E. ;
 9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
 territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées
-par l'article R. 332-15.
+par l'article R. 332-15 ;
+
+9° ter Parts ou actions d'organismes de placement collectif immobilier relevant
+de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, autres que ceux mentionnés aux 9° quater à 9° sexies ;
+
+9° quater Parts ou actions d'organismes de placement collectif immobilier
+relevant du paragraphe 2 de la sous-section 4 de la section 5 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
+
+9° quinquies Parts ou actions d'organismes de placement collectif immobilier
+relevant du paragraphe 3 de la sous-section 4 de la section 5 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
+
+9° sexies Parts ou actions d'organismes de placement collectif immobilier
+mentionnés au sous-paragraphe 7 du paragraphe 1 de la sous-section 1 de la
+section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
+même code.
 
 C. - Prêts et dépôts :
 

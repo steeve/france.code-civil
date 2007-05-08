@@ -20,7 +20,8 @@ droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports
 de la location, de droits réels portant sur de tels biens, de droits détenus en
 qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
 des immeubles en vue de leur location, ou de participations directes ou
-indirectes dans des sociétés répondant aux conditions du présent b ;
+indirectes dans des sociétés dont la composition de l'actif répond aux
+conditions du présent b ;
 
 3° Les autres actifs sont des avances en compte courant visées à l'article L.
 214-98, des créances résultant de leur activité principale, des liquidités
@@ -43,8 +44,8 @@ leurs apports ;
 de la location, de droits réels portant sur de tels biens, de droits détenus en
 qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
 des immeubles en vue de leur location ou de participations directes ou
-indirectes dans des sociétés répondant aux conditions des 1°, 2° et 4° du b ou
-du présent c ;
+indirectes dans des sociétés dont la composition de l'actif répond aux
+conditions du présent c ;
 
 3° Les instruments financiers qu'elles émettent ne sont pas admis aux
 négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1

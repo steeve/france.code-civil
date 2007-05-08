@@ -9,7 +9,8 @@ au e du 1° de l'article L. 111-1 dudit code, ni les entreprises
 d'investissement, ni les organismes collecteurs de la participation des
 employeurs à l'effort de construction pour les opérations prévues par le code de
 la construction et de l'habitation, ni les fonds communs de créances, ni les
-organismes de placement collectif en valeurs mobilières.
+organismes de placement collectif en valeurs mobilières ni les organismes de
+placement collectif immobilier.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
