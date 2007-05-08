@@ -4,7 +4,9 @@ Une demande d'inscription ou un dépôt d'acte ou de pièce au registre du comme
 et des sociétés peut être effectué par la voie électronique dès lors qu'il peut
 être transmis et reçu par cette voie, à l'exception toutefois du dépôt des actes
 et pièces dont l'original doit être fourni et qui ont été établis sur support
-papier.
+papier. Il peut néanmoins être suppléé, lors de la première immatriculation, à
+la production de l'original d'actes ou pièces sous seing privé par la remise
+d'une copie.
 
 Pour toutes les transmissions par voie électronique mentionnées au premier
 alinéa, il est fait usage d'une signature électronique sécurisée dans les

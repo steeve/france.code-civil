@@ -5,5 +5,5 @@ Pour l'application du 2° du I de l'article L. 515-14, les prêts cautionnés
 établissement de crédit ou une entreprise d'assurances détenant des capitaux
 propres d'au moins 12 millions d'euros est caution solidaire.
 
-Le montant total des prêts cautionnés ne peut dépasser 20 % du montant total de
+Le montant total des prêts cautionnés ne peut dépasser 35 % du montant total de
 l'actif des sociétés de crédit foncier.

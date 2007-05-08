@@ -7,7 +7,7 @@ Le contrat d'émission des obligations émises en application de l'article L.
 
 2° L'objet exclusif de l'établissement de crédit émetteur ;
 
-3° La dérogation prévue à l'article R. 214-8 ;
+3° La dérogation prévue à l'article R. 214-7 ;
 
 4° Le privilège dont bénéficie l'établissement de crédit émetteur conformément
 aux dispositions des articles L. 313-42 à L. 313-49.

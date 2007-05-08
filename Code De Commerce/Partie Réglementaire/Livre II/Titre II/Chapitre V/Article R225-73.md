@@ -16,7 +16,7 @@ obligatoires un avis contenant les indications suivantes :
 5° L'ordre du jour de l'assemblée ;
 
 6° Le texte des projets de résolution qui seront présentés à l'assemblée par le
-conseil d'administration ou la direction, selon le cas ;
+conseil d'administration ou le directoire, selon le cas ;
 
 7° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire
 de vote par correspondance, les lieux et les conditions dans lesquels peuvent
