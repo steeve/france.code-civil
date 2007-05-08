@@ -1,7 +1,7 @@
 Article D283-1
 ----
-Tout détenu peut être placé à l'isolement par mesure de protection ou de
-sécurité, soit sur sa demande, soit d'office.
+Tout détenu sauf s'il est mineur peut être placé à l'isolement par mesure de
+protection ou de sécurité, soit sur sa demande, soit d'office.
 
 La décision de placement à l'isolement est prise pour une durée de trois mois
 maximum. Elle peut être renouvelée pour la même durée.

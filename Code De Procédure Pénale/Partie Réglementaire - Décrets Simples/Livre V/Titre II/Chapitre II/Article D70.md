@@ -1,7 +1,8 @@
 Article D70
 ----
 Les établissements pour peines, dans lesquels sont reçus les condamnés
-définitifs, sont les maisons centrales, les centres de détention, les centres de
+définitifs, sont les maisons centrales, les centres de détention, les
+établissements pénitentiaires spécialisés pour mineurs, les centres de
 semi-liberté et les centres pour peines aménagées.
 
 A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés dans

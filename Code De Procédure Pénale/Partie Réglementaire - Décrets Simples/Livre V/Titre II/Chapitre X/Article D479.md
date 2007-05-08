@@ -6,4 +6,6 @@ et les secours, sous les diverses formes, dont il a pu éventuellement bénéfic
 à sa libération.
 
 Il comporte l'adresse du service pénitentiaire d'insertion et de probation ou de
-l'antenne locale du lieu de résidence de la personne libérée.
+l'antenne locale du lieu de résidence de la personne libérée ou, s'il est remis
+à un détenu mineur, les coordonnées du service compétent du secteur public de la
+protection judiciaire de la jeunesse.

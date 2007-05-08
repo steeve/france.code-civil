@@ -12,3 +12,12 @@ pour elles, ou encore lorsque cet établissement n'offre pas une capacité
 d'accueil ou des garanties de sécurité suffisantes, les prévenus sont incarcérés
 à la maison d'arrêt la plus proche disposant d'installations convenables, d'où
 ils sont extraits chaque fois que l'autorité judiciaire le requiert.
+
+Les prévenus mineurs peuvent également être incarcérés dans un établissement
+pénitentiaire spécialisé pour mineurs.
+
+L'équipe pluridisciplinaire mentionnée à l'article D. 514 peut proposer au
+magistrat saisi du dossier de l'information, dans l'intérêt du prévenu mineur,
+de l'incarcérer dans un établissement pénitentiaire spécialisé pour mineurs ou
+dans un quartier pour mineurs d'une maison d'arrêt, autre que son lieu
+d'incarcération initial.

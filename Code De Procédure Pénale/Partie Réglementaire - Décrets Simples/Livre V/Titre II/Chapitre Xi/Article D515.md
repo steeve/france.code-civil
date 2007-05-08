@@ -1,10 +1,9 @@
 Article D515
 ----
-Les détenus âgés de moins de vingt et un ans sont soumis à un régime particulier
-et individualisé qui fait une large place à l'éducation et à la formation
-professionnelle.
-
-Le régime défini aux articles D. 516 à D. 519 est applicable aux mineurs pénaux
-écroués dans les conditions spécifiées à l'article D. 514, aux condamnés et aux
-prévenus âgés de moins de vingt et un ans, sous la seule réserve des droits
-nécessaires à l'exercice de leur défense.
+Les titulaires de l'autorité parentale ou les représentants légaux du mineur
+sont destinataires du règlement intérieur de l'établissement pénitentiaire. Ils
+sont informés de toute demande de permis de visite faite au chef de
+l'établissement, de toute modification du régime de détention, ainsi que de
+toute procédure disciplinaire. Ils reçoivent mensuellement un état du compte
+nominatif du mineur. Ils sont tenus informés du déroulement de sa scolarité, de
+sa formation ou de ses activités professionnelles.

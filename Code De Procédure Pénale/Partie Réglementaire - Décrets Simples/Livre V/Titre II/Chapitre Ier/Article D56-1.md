@@ -20,3 +20,5 @@ du détenu.
 Le détenu placé à l'isolement par le magistrat saisi du dossier de l'information
 est soumis au régime de détention prévu par les articles D. 283-1-2 à D.
 283-1-4.
+
+Le mineur de seize ans prévenu ne peut faire l'objet d'une mesure d'isolement.

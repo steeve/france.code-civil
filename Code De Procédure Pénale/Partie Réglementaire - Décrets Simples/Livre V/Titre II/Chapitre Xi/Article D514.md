@@ -1,19 +1,16 @@
 Article D514
 ----
-Les mineurs relevant des juridictions pour enfants, lorsque exceptionnellement
-ils sont incarcérés, peuvent être détenus en vertu de l'un des titres suivants :
+Au sein de chaque établissement pénitentiaire recevant des mineurs, une équipe
+pluridisciplinaire réunit des représentants des différents services intervenant
+auprès des mineurs incarcérés afin d'assurer leur collaboration ainsi que le
+suivi individuel de chaque mineur détenu.
 
-1° Un mandat d'arrêt ou un mandat de dépôt du juge des enfants ou du juge
-d'instruction conformément aux dispositions des articles 8, 9 et 11 de
-l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance
-délinquante ;
+L'équipe pluridisciplinaire est présidée par le chef d'établissement ou son
+représentant. Elle comprend au moins, outre son président, un représentant du
+personnel de surveillance, un représentant du secteur public de la protection
+judiciaire de la jeunesse et un représentant de l'éducation nationale. Elle peut
+associer, en tant que de besoin, un représentant des services de santé, un
+représentant du service pénitentiaire d'insertion et de probation ou tout autre
+intervenant dans la prise en charge des mineurs détenus.
 
-2° Un mandat de dépôt pour le mineur âgé de seize à dix-huit ans accusé de crime
-;
-
-3° Un jugement ou arrêt prononçant une condamnation à une peine privative de
-liberté en application des articles 2 et 20-2 de l'ordonnance du 2 février 1945
-précitée ;
-
-4° Une ordonnance d'incarcération provisoire en application des articles 741-2
-et 744-2.
+L'équipe pluridisciplinaire se réunit au moins une fois par semaine.
