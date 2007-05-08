@@ -1,22 +1,20 @@
 Article R312-3
 ----
-Les conventions [*ART. L322-4*] contiennent obligatoirement des clauses
-concernant :
+Les organismes de droit privé exerçant à titre principal une fonction de
+placement adressent chaque année au représentant de l'Etat dans le département
+les renseignements suivants :
 
-Le champ d'activité territoriale et professionnel correspondant ;
+1° Le chiffre d'affaires relatif au placement, réalisé sur l'année écoulée,
+rapporté s'il y a lieu au chiffre d'affaire total ;
 
-L'interdiction de toute mesure discriminatoire fondée sur l'appartenance
-syndicale ou les opinions politiques des demandeurs d'emploi ;
+2° Le nombre des personnes à la recherche d'un emploi, réparties selon le sexe
+et l'âge :
 
-Le délai de communication à l'agence des offres d'emploi non satisfaites ;
+a) Reçues au cours de l'année ;
 
-La communication à l'Agence [*Nationale pour l'emploi*] sur demande de celle-ci,
-de tous renseignements utiles sur les demandeurs d'emploi qui sans motifs
-valables ont refusé des emplois offerts par le correspondant ;
+b) Placées au cours de l'année ;
 
-La communication à l'Agence et aux services du ministère chargé du travail
-d'états périodiques sur les offres et les demandes d'emploi enregistrées par le
-correspondant ainsi que sur les placements effectués sans préjudice de
-l'application des dispositions de l'article L. 312-24 ;
+c) Inscrites dans les fichiers de l'organisme au 31 décembre.
 
-La durée de la convention et les modalités de dénonciation et de renouvellement.
+Ces informations doivent être adressées avant le 31 mars de l'année suivante,
+selon un modèle fixé par arrêté du ministre chargé de l'emploi.

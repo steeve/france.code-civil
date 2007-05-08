@@ -72,6 +72,12 @@ Val-d'Oise
 
 Magny-en-Vexin.
 
+- dans le périmètre de l'opération d'intérêt national de La Défense tel que
+défini au b de l'article R. 490-5 du code de l'urbanisme pour les opérations de
+reconstruction, dans la limite de la création de 40 000 mètres carrés de surface
+hors oeuvre nette de planchers supplémentaires ou lorsque l'extension de surface
+est inférieure ou égale à 0,5 fois la surface initiale.
+
 2. Lorsque ces opérations portent sur des locaux à usage :
 
 - de magasin de vente ;
