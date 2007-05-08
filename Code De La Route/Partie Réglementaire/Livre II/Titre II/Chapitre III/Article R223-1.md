@@ -5,8 +5,15 @@ I. - Le permis de conduire est affecté d'un nombre maximal de douze points.
 II. - A la date d'obtention du permis de conduire, celui-ci est affecté d'un
 nombre initial de six points.
 
-III. - Pendant le délai probatoire défini à l'article L. 223-1, le permis de
-conduire ne peut être affecté d'un nombre de points supérieur à six.
+Au terme de chaque année du délai probatoire défini à l'article L. 223-1, si
+aucune infraction ayant donné lieu à retrait de points n'a été commise depuis le
+début de la période probatoire, ce permis de conduire est majoré de deux points.
+Cette majoration est portée à trois points si le titulaire du permis a suivi un
+apprentissage anticipé de la conduite.
+
+III. - Pendant le délai probatoire, le permis de conduire ne peut être affecté
+d'un nombre de points supérieur à six. Ce nombre est augmenté de la majoration
+résultant de l'application du II du présent article.
 
 IV. - A l'issue de ce délai probatoire, si aucune infraction ayant donné lieu à
 retrait de points n'a été commise, le permis de conduire est affecté du nombre
