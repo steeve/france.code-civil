@@ -14,7 +14,7 @@ ou dénomination, de la forme juridique et du siège des personnes morales ayant
 participé à l'opération ;
 
 4° Les décisions définitives plaçant l'une des personnes mentionnées aux 1° et
-2° de l'article R. 123-54 sous tutelle ou sous curatelle au sens des articles
-492, 508 et 508-1 du code civil, et celles qui en donnent mainlevée ou qui les
-rapportent ; lorsqu'il est fait application de ces articles, l'obligation de
-déclaration incombe au tuteur ou au curateur.
+2° de l'article R. 123-54 sous tutelle ou sous curatelle au sens de l'article
+440 du code civil, et celles qui en donnent mainlevée ou qui les rapportent ;
+lorsqu'il est fait application de cet article, l'obligation de déclaration
+incombe au tuteur ou au curateur.
