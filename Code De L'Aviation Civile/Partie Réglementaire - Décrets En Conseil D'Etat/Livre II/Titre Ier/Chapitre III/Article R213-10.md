@@ -1,9 +1,9 @@
 Article R213-10
 ----
-I. - L'employeur des personnes visées aux articles R. 213-1 (3e alinéa), R.
-282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure des compétences de son personnel
-dans le domaine de la sûreté du transport aérien requises pour l'exercice des
-tâches qui lui sont confiées.
+I. - L'employeur des personnes visées aux articles R. 213-1-1 (VI), R. 282-6, R.
+321-6, R. 321-8 et R. 321-10 s'assure des compétences de son personnel dans le
+domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui
+lui sont confiées.
 
 A cette fin, il met en oeuvre un plan destiné à dispenser au personnel concerné
 les formations initiales et continues ainsi que les entraînements périodiques
@@ -15,7 +15,9 @@ le cas échéant, des personnels intérimaires à ces formations et à ces
 entraînements. Il présente les attestations aux services compétents de l'Etat.
 
 Ces entraînements et formations sont dispensés par des entreprises ou organismes
-liés par une convention avec l'Etat.
+liés par une convention avec l'Etat. Cette convention est signée par le préfet
+du lieu de l'établissement après instruction des services de l'aviation civile.
+A Paris, la compétence appartient au préfet de police.
 
 II. - Le plan comprend notamment :
 

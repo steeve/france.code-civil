@@ -1,17 +1,40 @@
 Article R321-4
 ----
-La demande d'agrément en qualité de "chargeur connu" porte sur chaque
-établissement du demandeur. Elle doit comporter :
+I. - La demande d'agrément en qualité de "chargeur connu" précise
+l'établissement ou les établissements concernés de l'entreprise ou de
+l'organisme qui sollicite l'agrément. Elle doit comporter :
 
-a) Un programme de sûreté du fret aérien ;
+a) Un programme de sûreté ainsi qu'un programme d'assurance qualité ;
 
-b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme
-technique habilité visé au onzième alinéa de l'article L. 321-7.
+b) Pour chaque établissement, un rapport d'une évaluation effectuée par
+l'organisme technique habilité mentionné au onzième alinéa de l'article L. 321-7
+moins de trois mois avant la demande d'agrément.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et
-de l'organisation de l'établissement, des modalités de recours à des
-sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
-prises en application des points a, b, c, d et e de l'article R. 321-12.
+II. - Le programme de sûreté comprend obligatoirement la description de
+l'activité et de l'organisation de l'entreprise ou de l'organisme, des modalités
+de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des
+dispositions prises pour chaque établissement en application des points a, b, c,
+d et e de l'article R. 321-12.
 
-L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de
-l'établissement. A Paris, la compétence appartient au préfet de police.
+Le programme d'assurance qualité prévoit notamment la mise en place de
+dispositifs d'analyse des incidents relatifs aux mesures de sûreté, de
+vérification de conformité des moyens mis en oeuvre et, le cas échéant, de
+supervision des sous-traitants et la présentation de bilans synthétisant le
+suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité
+administrative compétente après instruction des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité
+administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque
+l'établissement est implanté sur l'emprise d'un aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité
+administrative compétente est le préfet du lieu où l'entreprise a son siège
+social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.

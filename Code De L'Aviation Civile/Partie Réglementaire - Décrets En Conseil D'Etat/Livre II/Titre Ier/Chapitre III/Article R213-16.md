@@ -12,8 +12,8 @@ b) La liste des personnes de l'organisme chargées de conduire les évaluations 
 
 c) Les dispositions prises en application du III.
 
-II. - L'habilitation est délivrée pour une durée de cinq ans par le ministre
-chargé des transports.
+II. - L'habilitation est délivrée pour une durée maximale de cinq ans par le
+ministre chargé des transports.
 
 L'habilitation est retirée par le ministre chargé des transports lorsque des
 manquements aux dispositions du présent code sont constatés. Le titulaire de
