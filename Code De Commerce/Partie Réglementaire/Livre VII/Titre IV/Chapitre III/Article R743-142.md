@@ -1,11 +1,6 @@
 Article R743-142
 ----
-Le droit, calculé sur la somme prévue dans l'acte, et destiné à rémunérer
-certains actes, formalités et diligences prévus aux tableaux 3, 4 et 6 de
-l'annexe 7-5 du présent livre est ainsi fixé :
+Le droit prévu pour chaque acte, formalité ou procédure est égal soit au montant
+du taux de base soit à un multiple ou sous-multiple de ce taux.
 
-Lorsque cette somme est inférieure à 16 000 taux de base, ce droit est de 7 taux
-de base ;
-
-Lorsque cette somme est égale ou supérieure à 16 000 taux de base, ce droit est
-de 31 taux de base.
+Ce taux est fixé à 1,30 euro.

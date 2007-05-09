@@ -10,4 +10,4 @@ Dans les autres cas, la consultation s'effectue au palier 3614 et est facturée
 aux conditions du contrat d'abonnement souscrit par l'utilisateur.
 
 Lorsque la consultation donne lieu à délivrance d'une copie, cette dernière est
-par ailleurs facturée selon les modalités prévues à l'article R. 743-141.
+par ailleurs facturée selon les modalités prévues à l'article R. 743-142.

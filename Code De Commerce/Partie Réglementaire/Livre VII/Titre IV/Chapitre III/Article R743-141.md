@@ -1,6 +1,6 @@
 Article R743-141
 ----
-Le droit prévu pour chaque acte, formalité ou procédure est égal soit au montant
-du taux de base soit à un multiple ou sous-multiple de ce taux.
-
-Ce taux est fixé à 1,30 euros.
+Lorsque le greffier accomplit les opérations prévues au dernier alinéa de
+l'article L. 143-11-7 du code du travail, il perçoit la rémunération fixée pour
+celles-ci par le tarif des administrateurs judiciaires en matière commerciale et
+des mandataires judiciaires au redressement et à la liquidation des entreprises.

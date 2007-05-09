@@ -1,6 +1,15 @@
 Article R743-147
 ----
-Les greffiers des tribunaux de commerce sont tenus, sous peine de sanctions
-disciplinaires, d'inscrire sur chaque document délivré par eux à la personne qui
-a requis ce document, le détail des sommes perçues à quelque titre que ce soit,
-en application de la présente section.
+Avant tout règlement, les greffiers sont tenus de remettre aux parties, même si
+celles-ci ne le requièrent pas, le ou les comptes détaillés relatifs aux sommes
+dont elles sont redevables à quelque titre que ce soit. La facture distingue :
+les émoluments hors taxe, les diligences et forfaits de transmission hors taxe,
+les déboursés, la taxe sur la valeur ajoutée et le montant total taxes incluses.
+
+En outre, lorsque le greffier a effectué des travaux, formalités, diligences ou
+missions en application de l'article R. 743-155, il indique le montant des
+honoraires correspondants sur une ligne spéciale en distinguant leur montant
+hors taxe et la taxe sur la valeur ajoutée.
+
+Ce compte doit mentionner pour chaque opération tarifée la référence au numéro
+figurant dans le tableau annexé correspondant.

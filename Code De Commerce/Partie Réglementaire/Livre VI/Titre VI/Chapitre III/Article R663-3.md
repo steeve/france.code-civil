@@ -25,4 +25,4 @@ date de la demande d'ouverture de la procédure.
 
 III. - Pour l'application des articles R. 663-4 et R. 663-9, la rémunération des
 administrateurs judiciaires est exprimée en taux de base dont le montant est
-fixé à 100.
+fixé à 100 euros.

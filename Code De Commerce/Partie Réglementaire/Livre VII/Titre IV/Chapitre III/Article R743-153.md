@@ -1,10 +1,15 @@
 Article R743-153
 ----
-Le procureur général ou le procureur de la République vérifient, chaque fois
-qu'ils le jugent utile, les registres et documents de toute nature des greffes
-de leur ressort. En cas d'infraction, ils font rapport au garde des sceaux,
-ministre de la justice, pour être prise à l'égard du contrevenant telle mesure
-qu'il appartiendra.
+Les greffiers des tribunaux de commerce qui, en raison de leurs fonctions, et
+comme officiers publics, sont obligés de se transporter à plus de deux
+kilomètres de la commune où siège le tribunal de commerce perçoivent pour la
+distance parcourue tant à l'aller qu'au retour :
 
-Le président du tribunal de commerce en est informé. Il peut procéder à la même
-vérification.
+1° Si le déplacement pouvait avoir lieu par chemin de fer ou par un autre
+service de transport en commun, le prix du transport en 1re classe ;
+
+2° A défaut de moyens de transport en commun, le prix du transport en 1re classe
+d'après le nombre de kilomètres parcourus.
+
+En outre, si le déplacement exige plus d'une journée, il est alloué par journée
+une indemnité égale à vingt taux de base.

@@ -1,6 +1,5 @@
 Article R743-143
 ----
-L'émolument est réduit de moitié pour les copies certifiées conformes demandées
-par les autorités judiciaires ou dont l'établissement a été prescrit par le juge
-de la mise en état pour constituer le dossier prévu à l'article 727 du nouveau
-code de procédure civile.
+Il n'est dû aucune rémunération pour les copies certifiées conformes et les
+extraits du registre du commerce et des sociétés demandés par les autorités
+judiciaires auprès des greffiers des tribunaux de commerce.

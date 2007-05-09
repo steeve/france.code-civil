@@ -1,5 +1,4 @@
 Article R743-157
 ----
-Une affiche, apposée de façon apparente dans chaque local du greffe accessible
-au public, doit faire connaître que le présent tarif est à la disposition de
-toute personne qui en fait la demande.
+Toute méconnaissance d'une obligation prévue à la présente section constitue une
+faute disciplinaire.

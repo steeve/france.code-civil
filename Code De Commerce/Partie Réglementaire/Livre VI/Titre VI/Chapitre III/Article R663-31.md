@@ -12,7 +12,7 @@ cour d'appel délégué à cette fin par le premier président, sur proposition 
 juge-commissaire, au vu d'un état de frais et d'un état descriptif des
 diligences accomplies. Le magistrat délégué recueille au préalable l'avis du
 ministère public et demande celui du débiteur. Sa décision peut être frappée de
-recours devant le premier président de la cour d'appel par l'administrateur, le
+recours devant le premier président de la cour d'appel par le liquidateur, le
 débiteur et le ministère public.
 
 Le droit prévu à l'article R. 663-18 ainsi que les acomptes perçus restent
