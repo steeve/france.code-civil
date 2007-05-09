@@ -13,17 +13,20 @@ délibérants, pour la durée de leur mandat électif restant à courir ;
 
 b) Le ou les représentants de l'Etat désignés par le préfet ;
 
-c) Le maire de la commune siège de l'établissement ou son représentant ;
+c) Le ou les représentants du ou des établissements publics nationaux ;
+
+d) Le maire de la commune siège de l'établissement ou son représentant,
+lorsqu'il en a formulé la demande ;
 
 2° Des personnalités qualifiées dans les domaines de compétence de
 l'établissement, désignées conjointement par les collectivités territoriales,
-leurs groupements et l'Etat pour une durée de trois ans renouvelable ; en
-l'absence d'accord sur la nomination conjointe des personnalités qualifiées,
+leurs groupements, l'Etat et, le cas échéant, les établissements publics
+nationaux pour une durée de trois ans renouvelable ; en l'absence d'accord,
 chacun des membres de l'établissement nomme les personnalités qualifiées selon
 la répartition définie par les statuts ;
 
-3° Des représentants du personnel élus pour une durée de trois ans renouvelable
-;
+3° Des représentants du personnel élus à cette fin pour une durée de trois ans
+renouvelable ;
 
 4° Des représentants élus des étudiants dès lors que l'établissement a pour
 mission de dispenser des enseignements ou des formations professionnelles
@@ -34,4 +37,7 @@ désignés du conseil d'administration.
 
 En l'absence de son suppléant, un membre du conseil d'administration peut donner
 mandat à un autre membre pour le représenter à une séance. Aucun membre ne peut
-recevoir plus d'un mandat.
+recevoir plus d'un mandat ;
+
+5° Le cas échéant, de représentants de fondations désignés dans les conditions
+fixées au 2°.
