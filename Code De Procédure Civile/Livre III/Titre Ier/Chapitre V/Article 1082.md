@@ -12,3 +12,7 @@ conservé sur un registre français. A défaut, l'extrait de la décision est
 conservé au répertoire mentionné à l'article 4-1 du décret n° 65-422 du 1er juin
 1965 portant création d'un service central d'état civil au ministère des
 affaires étrangères.
+
+Toutefois, cette mention ne peut être portée en marge de l'acte de naissance
+d'un Français qu'après transcription sur les registres de l'état civil de l'acte
+de mariage célébré par l'autorité étrangère à compter du 1er mars 2007.
