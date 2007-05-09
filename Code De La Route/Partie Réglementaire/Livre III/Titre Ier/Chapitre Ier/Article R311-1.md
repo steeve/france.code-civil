@@ -112,17 +112,20 @@ bénéficiant de facilités de passage ;
 
 - véhicule d'intérêt général prioritaire : véhicule des services de police, de
 gendarmerie, des douanes, de lutte contre l'incendie, d'intervention des unités
-mobiles hospitalières et du ministère de la justice affecté au transport des
-détenus ;
+mobiles hospitalières ou, à la demande du service d'aide médicale urgente,
+affecté exclusivement à l'intervention de ces unités et du ministère de la
+justice affecté au transport des détenus ou au rétablissement de l'ordre dans
+les établissements pénitentiaires ;
 
 - véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de
 transport sanitaire, véhicule d'intervention d'Electricité de France et de Gaz
 de France, du service de la surveillance de la Société nationale des chemins de
 fer français, de transports de fonds de la Banque de France, des associations
 médicales concourant à la permanence des soins, des médecins lorsqu'ils
-participent à la garde départementale, engin de service hivernal et, sur
-autoroutes ou routes à deux chaussées séparées, véhicule d'intervention des
-services gestionnaires de ces voies ;
+participent à la garde départementale, de transports de produits sanguins et
+d'organes humains, engin de service hivernal et, sur autoroutes ou routes à deux
+chaussées séparées, véhicule d'intervention des services gestionnaires de ces
+voies ;
 
 - véhicule spécialisé dans les opérations de remorquage : véhicule dont
 l'aménagement comporte un engin de levage installé à demeure permettant le

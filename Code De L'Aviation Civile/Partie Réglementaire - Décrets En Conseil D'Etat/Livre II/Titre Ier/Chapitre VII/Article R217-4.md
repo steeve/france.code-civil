@@ -4,13 +4,20 @@ Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléant
 raison de deux suppléants pour un titulaire sont nommés par arrêté du préfet
 pour une période de trois ans renouvelable.
 
-La commission est présidée, selon le cas, par le directeur de l'aviation civile
-ou son représentant, le directeur régional de l'aviation civile Antilles-Guyane
-ou son représentant, le chef du service de l'aviation civile ou son représentant
-à la Réunion, à Saint-Pierre-et-Miquelon et à Mayotte. Elle comprend en outre
-huit membres pour les aérodromes dont le trafic est égal ou supérieur à 200 000
-passagers par an et quatre membres pour les aérodromes dont le trafic est
-inférieur à 200 000 passagers par an, répartis à parts égales entre :
+La commission est présidée par le directeur de l'aviation civile ou le directeur
+du service de l'aviation civile ou son représentant. Elle comprend en outre :
+
+- huit membres pour les aérodromes dont la moyenne du trafic commercial des
+trois dernières années dépasse cinq millions de passagers ;
+
+- six membres pour les aérodromes dont la moyenne du trafic commercial des trois
+dernières années dépasse 200 000 passagers mais est inférieure à cinq millions
+de passagers ;
+
+- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des
+trois dernières années est inférieure à 200 000 passagers,
+
+répartis à parts égales entre :
 
 1° D'une part, des représentants de l'Etat désignés sur proposition des
 différents chefs de service territorialement compétents parmi les services de
@@ -29,13 +36,13 @@ l'aérodrome ;
 l'aérodrome.
 
 Dans tous les cas, cette commission comprend au moins un représentant de
-l'exploitant d'aérodrome et, sur les aérodromes dont le trafic est supérieur à
-200 000 passagers par an, un représentant des compagnies aériennes et un
-représentant des personnels navigants et des autres catégories de personnel
-employés sur l'aérodrome. En outre, sur les aérodromes où le ministère de la
-défense est affectataire principal, cette commission comprend le représentant de
-l'autorité militaire assurant la direction de l'aérodrome. La commission élit en
-son sein un délégué permanent.
+l'exploitant d'aérodrome et, sur les aérodromes dont la moyenne du trafic
+commercial des trois dernières années dépasse 200 000 passagers, un représentant
+des compagnies aériennes et un représentant des personnels navigants et des
+autres catégories de personnel employés sur l'aérodrome. En outre, sur les
+aérodromes où le ministère de la défense est affectataire principal, cette
+commission comprend le représentant de l'autorité militaire assurant la
+direction de l'aérodrome. La commission élit en son sein un délégué permanent.
 
 Dans les départements comportant plus d'un aérodrome, le préfet peut désigner
 une commission unique sur plusieurs aérodromes. Le nombre des membres de cette

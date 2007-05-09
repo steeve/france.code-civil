@@ -1,7 +1,7 @@
 Article R231-30
 ----
-La commission nationale se réunit au moins une fois par an [*périodicité*] sur
-convocation du ministre chargé de l'agriculture.
+La commission nationale se réunit au moins une fois par an sur convocation du
+ministre chargé de l'agriculture.
 
 L'ordre du jour de la commission nationale et de ses groupes de travail est fixé
 par le ministre soit de sa propre initiative, soit sur proposition de membres de

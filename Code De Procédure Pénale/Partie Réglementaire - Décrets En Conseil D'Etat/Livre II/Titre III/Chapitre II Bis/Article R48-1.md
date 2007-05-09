@@ -125,3 +125,6 @@ i) L'article R. 215-2 du code rural ;
 
 6° Contraventions réprimées par le code de la santé publique prévues par les
 articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2.
+
+Contraventions en matière de vente de boissons alcoolisées réprimées par
+l'article R. 3353-5-1 du code la santé publique.
