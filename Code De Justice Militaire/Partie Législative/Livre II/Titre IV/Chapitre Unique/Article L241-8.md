@@ -2,7 +2,7 @@ Article L241-8
 ----
 L'absence du destinataire de l'acte est constatée par procès-verbal si la durée
 de l'absence est indéterminée ou telle que la notification ne puisse être faite
-dans les délais prévus à l'article L. 241-5.
+dans les délais prévus à l'article L. 240-5.
 
 Lorsque des renseignements ont pu être recueillis sur le lieu où réside le
 destinataire, ceux-ci sont consignés au procès-verbal de constat d'absence.

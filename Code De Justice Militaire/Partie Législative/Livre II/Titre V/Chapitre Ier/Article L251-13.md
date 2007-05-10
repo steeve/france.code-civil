@@ -8,11 +8,10 @@ par prescription, le jugement intervenu doit lui être notifié sans délai.
 
 La notification doit, à peine de nullité, comporter mention qu'il peut, dans un
 délai de cinq jours, former opposition audit jugement par déclaration, soit lors
-de sa notification, soit au greffe de la juridiction qui a statué en appel, soit
-au greffe du tribunal de grande instance ou de première instance ou de la
-juridiction des forces armées la plus proche et que, ce délai expiré sans qu'il
-ait été formé opposition, le jugement est contradictoire et devient définitif à
-l'expiration des délais de pourvoi.
+de sa notification, soit au greffe du tribunal de grande ou de première instance
+ou de la juridiction des forces armées la plus proche et que, ce délai expiré
+sans qu'il ait été formé opposition, le jugement est contradictoire et devient
+définitif à l'expiration des délais de pourvoi.
 
 Si le jugement par défaut porte condamnation à une peine criminelle et s'il
 ressort du procès-verbal de notification que le condamné n'a pas formé

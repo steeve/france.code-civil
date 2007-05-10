@@ -1,6 +1,6 @@
 Article L231-2
 ----
-Les jugements rendus en dernier ressort par les juridictions des forces armées
-peuvent faire l'objet d'un pourvoi en cassation dans les conditions prévues par
-les articles 567 et suivants du code de procédure pénale, sous réserve des
-articles L. 231-3 à L. 231-10.
+Les jugements rendus par les juridictions des forces armées peuvent être
+attaqués par la voie du pourvoi devant la Cour de cassation pour les causes et
+dans les conditions prévues aux articles 567 et suivants du code de procédure
+pénale, sous réserve des articles L. 231-3 à L. 231-10.

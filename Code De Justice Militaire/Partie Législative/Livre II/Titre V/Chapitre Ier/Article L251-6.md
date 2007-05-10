@@ -4,9 +4,10 @@ Si le prévenu ne se présente pas, il est procédé, à l'expiration du délai
 mentionné à l'article L. 251-2, sur les réquisitions du commissaire du
 Gouvernement, au jugement par défaut.
 
-Lorsqu'un défenseur se présente pour assurer la défense du prévenu, il doit être
-entendu s'il en fait la demande. Si aucun défenseur ne se présente, les parents
-ou les amis du prévenu peuvent proposer son excuse.
+Aucun défenseur ne peut se présenter pour le prévenu défaillant. Toutefois, si
+le prévenu est dans l'impossibilité absolue de déférer à l'injonction contenue
+dans l'ordonnance prévue à l'article L. 251-2, ses parents ou ses amis peuvent
+proposer son excuse.
 
 Si le tribunal trouve l'excuse légitime, il ordonne qu'il soit sursis au
 jugement du prévenu et, s'il y a lieu, au séquestre de ses biens pendant un

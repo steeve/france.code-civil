@@ -1,24 +1,23 @@
 Article L221-4
 ----
 Pour le jugement des crimes, le tribunal aux armées est composé d'un président
-et, lorsqu'il statue en premier ressort, de six assesseurs, ou, lorsqu'il statue
-en appel, de huit assesseurs. Les dispositions des deuxième au cinquième alinéas
-de l'article 698-6 du code de procédure pénale sont applicables au tribunal
-ainsi composé. Toutefois, ces dispositions ne sont applicables, pour le jugement
-des crimes de droit commun commis dans l'exécution du service par les
-militaires, que s'il existe un risque de divulgation d'un secret de la défense
-nationale. L'ordonnance de mise en accusation prononcée par le juge
-d'instruction du tribunal aux armées constate, s'il y a lieu, qu'il existe un
-risque de divulgation d'un secret de la défense et ordonne que le tribunal aux
-armées soit composé conformément aux dispositions du présent alinéa.
+et de six assesseurs. Les dispositions des deuxième au cinquième alinéas de
+l'article 698-6 du code de procédure pénale sont applicables au tribunal ainsi
+composé. Toutefois, ces dispositions ne sont applicables, pour le jugement des
+crimes de droit commun commis dans l'exécution du service par les militaires,
+que s'il existe un risque de divulgation d'un secret de la défense nationale.
+L'ordonnance de mise en accusation prononcée par le juge d'instruction du
+tribunal aux armées constate, s'il y a lieu, qu'il existe un risque de
+divulgation d'un secret de la défense et ordonne que le tribunal aux armées soit
+composé conformément aux dispositions du présent alinéa.
 
 Pour le jugement des crimes de droit commun commis par des militaires dans
 l'exécution du service, lorsqu'il n'a pas été fait application des dispositions
 de l'alinéa précédent, le tribunal aux armées comprend le tribunal proprement
 dit et le jury. Le tribunal proprement dit est composé d'un président et deux
-assesseurs. Le jury est composé conformément aux articles 254 à 258 et 293 à 305
-du code de procédure pénale, sous réserve des dispositions prévues aux troisième
-à cinquième alinéas du présent article.
+assesseurs. Le jury est composé conformément aux articles 254 à 258-1 et 293 à
+305-1 du code de procédure pénale, sous réserve des dispositions prévues aux
+troisième à cinquième alinéas.
 
 Trente jours au moins avant l'audience, le président du tribunal aux armées ou
 son délégué établit la liste du jury de la juridiction et la liste des jurés

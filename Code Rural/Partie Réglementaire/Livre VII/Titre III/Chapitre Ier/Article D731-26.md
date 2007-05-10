@@ -26,3 +26,7 @@ janvier de l'année suivante.
 
 L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle
 est arrêté par le ministre chargé de l'agriculture.
+
+Pour les chefs d'exploitation ou d'entreprise agricole bénéficiaires de la
+retraite progressive mentionnée aux articles D. 732-167 et suivants, la date
+limite mentionnée au premier alinéa est reportée au 31 décembre.

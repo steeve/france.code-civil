@@ -16,8 +16,8 @@ d'aptitude aux fonctions de technicien d'insémination placés sous sa
 responsabilité, toute modification de cette liste étant notifiée dans un délai
 d'un mois à l'institut de l'élevage.
 
-III. - L'entreprise déclarée fait l'objet d'un enregistrement par
-l'établissement de l'élevage. Un numéro unique d'enregistrement zootechnique est
-attribué à chacun des techniciens d'insémination exerçant sous la responsabilité
-d'une entreprise de mise en place de semence ainsi qu'à chacune des entreprises
-d'insémination.
+III. - L'entreprise déclarée fait l'objet d'un enregistrement par l'institut
+technique en charge des ruminants. Un numéro unique d'enregistrement
+zootechnique est attribué à chacun des techniciens d'insémination exerçant sous
+la responsabilité d'une entreprise de mise en place de semence ainsi qu'à
+chacune des entreprises d'insémination.

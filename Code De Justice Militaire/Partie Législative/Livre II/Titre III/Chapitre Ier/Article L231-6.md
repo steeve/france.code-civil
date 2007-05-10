@@ -1,7 +1,7 @@
 Article L231-6
 ----
-La déclaration de pourvoi doit être faite au greffe de la juridiction qui,
-statuant en dernier ressort, a rendu la décision attaquée.
+La déclaration de pourvoi doit être faite au greffe de la juridiction des forces
+armées qui a rendu la décision attaquée.
 
 Elle doit être signée par le greffier et le demandeur en cassation lui-même ou
 par le conseil du condamné ou de la partie civile muni d'un pouvoir spécial.

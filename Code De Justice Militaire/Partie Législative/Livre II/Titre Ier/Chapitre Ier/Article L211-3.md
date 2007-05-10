@@ -2,9 +2,9 @@ Article L211-3
 ----
 Ont la qualité d'officiers de police judiciaire des forces armées :
 
-1° Les officiers et gradés de la gendarmerie ainsi que les gendarmes qui ont été
-désignés comme officiers de police judiciaire en application de l'article 16 du
-code de procédure pénale ;
+1° Les officiers et gradés de la gendarmerie, les gendarmes qui ont été désignés
+comme officiers de police judiciaire en application de l'article 16 du code de
+procédure pénale, les gendarmes qui servent dans les prévôtés ;
 
 2° Les officiers, sous-officiers et agents assermentés des différents services
 des armées, pour l'exercice des missions particulières qui leur sont dévolues

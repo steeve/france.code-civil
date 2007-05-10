@@ -1,9 +1,8 @@
 Article L222-73
 ----
 Après avoir prononcé le jugement de condamnation, le président avertit le
-condamné qu'il a le droit, selon le cas, de faire appel ou de se pourvoir en
-cassation et précise le délai dans lequel cette voie de recours peut être
-exercée.
+condamné qu'il a le droit de se pourvoir en cassation et précise le délai du
+pourvoi.
 
 Lorsque le bénéfice du sursis a été accordé, le président avertit le condamné
 que, s'il commet une nouvelle infraction, il pourra faire l'objet, sous réserve
