@@ -8,11 +8,13 @@ est l'unique moyen de mettre fin à la faute ou de préserver l'ordre à
 l'intérieur de l'établissement.
 
 Le placement préventif en cellule disciplinaire n'est pas applicable aux mineurs
-de seize ans. Il s'exécute dans les conditions prévues aux articles D. 251-3 et
-D. 251-4. Sa durée est limitée au strict nécessaire et ne peut excéder deux
-jours à compter de la date à laquelle les faits ont été portés à la connaissance
-du chef d'établissement. Le calcul de ce délai s'effectue conformément aux
-dispositions de l'article 801 du présent code.
+de seize ans. Pour les mineurs de seize à dix-huit ans, le placement préventif
+en cellule disciplinaire n'est possible que pour les fautes du premier degré
+visées à l'article D. 251-1-2. Il s'exécute dans les conditions prévues aux
+articles D. 251-3 et D. 251-4. Sa durée est limitée au strict nécessaire et ne
+peut excéder deux jours à compter de la date à laquelle les faits ont été portés
+à la connaissance du chef d'établissement. Le calcul de ce délai s'effectue
+conformément aux dispositions de l'article 801 du présent code.
 
 La durée du placement s'impute sur celle de la sanction à subir lorsqu'est
 prononcée à l'encontre du détenu l'une des sanctions de cellule prévues aux 4°

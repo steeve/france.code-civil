@@ -1,7 +1,8 @@
 Article D251-1
 ----
-Peuvent être prononcées, en fonction des circonstances de la faute
-disciplinaire, les sanctions disciplinaires suivantes :
+Lorsque le détenu est majeur, peuvent être prononcées, en fonction des
+circonstances de la faute disciplinaire, les sanctions disciplinaires suivantes
+:
 
 1° La mise à pied d'un emploi pour une durée maximum de huit jours lorsque la
 faute disciplinaire a été commise au cours ou à l'occasion du travail ;
@@ -28,10 +29,6 @@ au cours de ces activités ;
 
 7° L'exécution de travaux de réparation lorsque la faute disciplinaire est en
 relation avec la commission de dommages ou de dégradations.
-
-La mise à pied et le déclassement d'un emploi prévus aux 1° et 2° ainsi que la
-privation d'activités de formation ne sont pas applicables aux mineurs de seize
-ans.
 
 Les sanctions prévues aux 5° et 7° ne peuvent être prononcées que pour se
 substituer aux sanctions prévues aux 4° et 5° de l'article D. 251. Le

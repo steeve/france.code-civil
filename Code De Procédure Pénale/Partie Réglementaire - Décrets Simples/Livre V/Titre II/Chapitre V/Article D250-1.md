@@ -9,6 +9,10 @@ de surveillance ou un premier surveillant major et adressé au chef
 d'établissement. Ce rapport comporte tout élément d'information utile sur les
 circonstances des faits reprochés au détenu et la personnalité de celui-ci.
 
-Le chef d'établissement apprécie, au vu du rapport et après s'être fait
+Lorsque le détenu est mineur, le service du secteur public de la protection
+judiciaire de la jeunesse, saisi par le chef d'établissement, établit un rapport
+sur la situation personnelle, sociale et familiale de l'intéressé.
+
+Le chef d'établissement apprécie, au vu des rapports et après s'être fait
 communiquer, le cas échéant, tout élément d'information complémentaire,
 l'opportunité de poursuivre la procédure.

@@ -1,7 +1,7 @@
 Article D251
 ----
-Peuvent être prononcées, quelle que soit la faute disciplinaire, les sanctions
-disciplinaires suivantes :
+Lorsque le détenu est majeur, peuvent être prononcées, quelle que soit la faute
+disciplinaire, les sanctions disciplinaires suivantes :
 
 1° L'avertissement ;
 
