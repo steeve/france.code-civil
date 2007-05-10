@@ -1,10 +1,6 @@
 Article R341-8
 ----
-Tout employeur d'un travailleur étranger est tenu de l'inscrire au moment de son
-embauchage sur un registre spécial établi dans les conditions qui sont
-déterminées par arrêté du ministre chargé des travailleurs immigrés.
-
-Le registre mentionne [*contenu*] notamment la nature et le lieu de l'emploi
-confié à l'étranger ainsi que les caractéristiques de son titre de travail. Il
-est présenté à toute réquisition des fonctionnaires chargés du contrôle des
-conditions de travail.
+L'autorité administrative, auprès de laquelle sont effectuées la déclaration
+prévue à l'article R. 341-4-3 et les demandes prévues aux articles R. 341-6, R.
+341-6-1 et R. 341-7-1, peut exiger la production par l'étranger du document
+original.

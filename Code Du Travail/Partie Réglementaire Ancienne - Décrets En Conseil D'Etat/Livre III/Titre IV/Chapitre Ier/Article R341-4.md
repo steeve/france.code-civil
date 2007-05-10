@@ -1,29 +1,14 @@
 Article R341-4
 ----
-Sauf dans le cas où l'étranger bénéficie de plein droit de la carte de résident
-par application des articles 15 et 16 de l'ordonnance du 2 novembre 1945, pour
-accorder ou refuser le titre de travail sollicité le préfet du département où
-réside l'étranger prend notamment en considération les éléments suivants
-d'appréciation :
+La décision relative à la demande d'autorisation de travail mentionnée au
+premier alinéa de l'article R. 341-3 est prise par le préfet. Elle est notifiée
+à l'employeur ou au mandataire qui a présenté la demande, ainsi qu'à l'étranger.
 
-1. La situation de l'emploi présente et à venir dans la profession demandée par
-le travailleur étranger et dans la zone géographique où il compte exercer cette
-profession ;
+En cas d'accord, le préfet adresse les autorisations de travail portant sur des
+contrats d'une durée supérieure à trois mois ou sur des contrats de travail
+saisonniers à l'Agence nationale de l'accueil des étrangers et des migrations.
 
-2. Les conditions d'application par l'employeur de la réglementation relative au
-travail ;
-
-3. Les conditions d'emploi et de rémunération offertes au travailleur étranger,
-qui doivent être identiques à celles dont bénéficient les travailleurs français
-;
-
-4. Les dispositions prises par l'employeur pour assurer ou faire assurer, dans
-des conditions normales, le logement du travailleur étranger.
-
-Seuls les éléments d'appréciation mentionnés aux 2 et 3 ci-dessus sont pris en
-considération pour l'examen des demandes présentées par les réfugiés et par les
-apatrides. En outre, la situation de l'emploi n'est pas opposable à certaines
-catégories de travailleurs déterminées en fonction soit des liens entretenus
-avec la France par leur pays d'origine, soit des services qu'ils ont eux-mêmes
-rendus à la France, soit de l'ancienneté de leur séjour en France. Un arrêté du
-ministre chargé du travail énumère ces catégories.
+Les recours hiérarchiques dirigés contre les décisions mentionnées au présent
+article, ainsi que les recours hiérarchiques dirigés contre les décisions
+mentionnées au troisième alinéa de l'article R. 341-4-2 et à l'article R. 341-5
+sont formés auprès du ministre chargé du travail.

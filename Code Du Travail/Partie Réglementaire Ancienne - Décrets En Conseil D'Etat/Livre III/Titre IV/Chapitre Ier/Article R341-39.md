@@ -1,14 +1,13 @@
 Article R341-39
 ----
-Le directeur départemental du travail vérifie que les conditions de l'article L.
-341-6-4 sont réunies, et demande à l'agent verbalisateur, si nécessaire, toutes
-informations complémentaires utiles.
+Les émoluments alloués au greffier d'un tribunal de commerce pour l'inscription
+d'un privilège mentionné à l'article R. 341-37 sont égaux à ceux prévus à
+l'article R. 743-140 du code de commerce pour des actes et formalités analogues
+en cas de privilège de la sécurité sociale et des régimes complémentaires. Ces
+frais d'inscription sont à la charge du redevable, mais sont avancés par
+l'agence. Ils restent à la charge de l'agence si la décision mentionnée au
+premier alinéa de l'article R. 341-28 est annulée ou retirée.
 
-Il transmet au directeur de l'office des migrations internationales, en même
-temps que l'avis prévu au deuxième alinéa de l'article R. 341-33, son avis sur
-les modalités de mise en oeuvre de la contribution spéciale à l'égard de chacune
-des personnes mentionnées dans la procédure.
-
-Cet avis est accompagné du procès-verbal et de la notice qui lui est
-éventuellement annexée, ainsi que des observations de chacune de ces personnes
-s'il en a été produit et, le cas échéant, de l'avis du fonctionnaire compétent.
+En cas de radiation, les frais correspondants sont à la charge du redevable,
+sauf en cas d'annulation ou de retrait de la décision mentionnée au premier
+alinéa. Ils sont avancés par la personne qui demande la radiation.

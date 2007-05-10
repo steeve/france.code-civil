@@ -1,8 +1,15 @@
 Article R341-36
 ----
-Toute personne à laquelle les dispositions de l'article L. 341-6-4 sont
-applicables se fait remettre par son cocontractant une attestation sur l'honneur
-indiquant s'il a ou non l'intention de faire appel, pour l'exécution du contrat,
-à des salariés de nationalité étrangère et, dans l'affirmative, certifiant que
-ces salariés sont ou seront autorisés à exercer une activité professionnelle en
-France.
+L'inscription prévue au premier alinéa du I de l'article L. 341-11 est faite :
+
+1° Si le redevable est une personne physique, au greffe du tribunal de commerce
+ou du tribunal de grande instance statuant commercialement, dans le ressort
+duquel est situé son établissement principal ou, à défaut, son domicile ;
+
+2° Si le redevable est une personne morale, au greffe du tribunal de commerce ou
+du tribunal de grande instance statuant commercialement, dans le ressort duquel
+est situé son siège social ;
+
+3° Si le redevable n'a, selon le cas, ni son siège social ni son principal
+établissement, ou, à défaut, son domicile situé sur le territoire national, au
+greffe du tribunal de commerce de Paris.

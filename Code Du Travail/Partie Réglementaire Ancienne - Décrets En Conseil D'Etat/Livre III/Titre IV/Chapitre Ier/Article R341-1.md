@@ -1,17 +1,13 @@
 Article R341-1
 ----
-Tout étranger, pour exercer à temps plein ou à temps partiel une activité
-professionnelle salariée, doit être titulaire d'une autorisation de travail en
-cours de validité.
-
-Cette autorisation est délivrée par le préfet du département où réside
-l'étranger. Elle doit être présentée à toute réquisition des autorités chargées
-du contrôle des conditions de travail.
-
-Hormis le cas visé à l'article R. 341-7, elle autorise l'étranger à exercer,
-selon les cas, une ou plusieurs activités professionnelles salariées ou toute
-activité professionnelle salariée de son choix dans un ou plusieurs départements
-ou sur l'ensemble du territoire métropolitain.
-
-Le silence gardé pendant plus de quatre mois par le préfet sur une demande
-d'autorisation de travail vaut décision de rejet.
+Sous réserve des traités, conventions et accords régulièrement ratifiés ou
+approuvés et publiés et des dispositions de l'article R. 341-1-1, un étranger
+non ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie
+à l'Espace économique européen ou de la Confédération suisse, ainsi qu'un
+étranger ressortissant d'un Etat membre de l'Union européenne pendant la période
+d'application des mesures transitoires relatives à la libre circulation des
+travailleurs, doit, pour exercer une activité professionnelle salariée en
+France, être titulaire d'une autorisation de travail et du certificat médical
+mentionné au 4° de l'article R. 313-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile. Cette autorisation de travail est délivrée et
+renouvelée dans les conditions prévues par la présente section.
