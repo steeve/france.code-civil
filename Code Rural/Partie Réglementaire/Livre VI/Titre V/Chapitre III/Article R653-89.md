@@ -2,7 +2,7 @@ Article R653-89
 ----
 I. - La déclaration préalable de l'éleveur pratiquant l'insémination au sein de
 son troupeau s'effectue auprès de l'établissement de l'élevage territorialement
-compétent institué à l'article L. 653-3.
+compétent institué à l'article L. 653-7.
 
 II. - Pour être recevable, la déclaration doit être accompagnée des pièces
 suivantes :

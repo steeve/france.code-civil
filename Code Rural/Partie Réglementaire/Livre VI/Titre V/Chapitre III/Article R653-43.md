@@ -13,7 +13,7 @@ II ou du chapitre III du titre V du livre VI du présent code ou par son cahier
 des charges ou, lorsque son fonctionnement s'avère défectueux à la suite de
 contrôles administratifs. La Commission nationale d'amélioration génétique doit
 être consultée au préalable quand les défaillances constatées concernent les
-activités énumérées aux articles D. 212-52 et D 653-51 à D. 653-59. La
+activités énumérées aux articles R. 653-47 et D 653-51 à D. 653-59. La
 Commission nationale d'identification doit être consultée quand les défaillances
 constatées concernent les activités énumérées à l'article L. 212-7.
 
@@ -24,7 +24,7 @@ un mois.
 
 Dans les zones non encore pourvues d'un établissement de l'élevage agréé ou en
 cas de suspension ou de retrait d'agrément, les opérations mentionnées aux
-articles L. 212-7 et D. 212-52 peuvent être confiées à un autre organisme, si
+articles L. 212-7 et D. 653-51 peuvent être confiées à un autre organisme, si
 nécessaire à titre temporaire, après avis, sauf urgence, de la Commission
 nationale d'amélioration génétique et de la commission nationale
 d'identification.

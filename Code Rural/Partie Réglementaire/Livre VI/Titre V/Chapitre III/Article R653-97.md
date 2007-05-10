@@ -27,6 +27,6 @@ depuis le dernier centre de stockage agréé, en cas de semence congelée, jusqu
 l'éleveur ;
 
 3° "Mise en place" : l'acte d'insémination effectué par un technicien
-d'insémination au sens des dispositions de l'article R. 653-87 qui comprend
+d'insémination au sens des dispositions de l'article R. 653-85 qui comprend
 l'ensemble des étapes nécessaires au dépôt de la semence dans les voies
 génitales femelles.
