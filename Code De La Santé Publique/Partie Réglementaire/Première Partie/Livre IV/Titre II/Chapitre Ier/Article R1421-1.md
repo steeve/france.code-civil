@@ -1,41 +1,91 @@
 Article R1421-1
 ----
-La direction générale de la santé est chargée de l'élaboration et contribue à la
-mise en oeuvre de la politique de santé.
+La direction générale de la santé prépare la politique de santé publique définie
+à l'article L. 1411-1 et contribue à sa mise en oeuvre, en liaison avec les
+autres directions et services du ministère chargé de la santé et des autres
+départements ministériels compétents ainsi qu'avec l'appui des établissements ou
+organismes qui en dépendent.
 
-A ce titre, en liaison avec les autres directions et services du ministère et
-les établissements ou organismes qui en dépendent :
+A ce titre :
 
-1° Elle propose les objectifs et les priorités de la politique de prévention et
-de protection de la santé, en tenant compte notamment des risques professionnels
-; elle en détermine et coordonne les programmes d'intervention ; elle définit
-les indicateurs de santé nécessaires à l'élaboration de la programmation
-sanitaire ; elle favorise la recherche et l'expertise en santé publique ;
+1° A partir des analyses stratégiques et prospectives qu'elle conduit et des
+travaux de recherche qu'elle promeut, elle propose les objectifs et les
+priorités de la politique de santé publique en veillant, notamment, à la
+prévention des risques, à l'amélioration de l'état de santé général de la
+population, à l'égal accès au système de santé ainsi qu'à la qualité et à la
+sécurité de ce dernier et à la qualité de vie des personnes malades. Elle
+élabore les textes législatifs et réglementaires et contribue à l'élaboration
+des textes communautaires et internationaux ;
 
-2° Elle veille, en liaison avec les agences compétentes, à la qualité et à la
-sécurité des soins, des pratiques professionnelles et des produits de santé ;
+2° Elle élabore des plans de santé publique et des programmes nationaux de santé
+; elle veille à leur mise en oeuvre. Elle définit les indicateurs permettant
+d'en suivre et d'en évaluer la réalisation.
 
-3° Elle participe à la définition de la politique du médicament ;
+Elle élabore et contribue à mettre en oeuvre la politique de santé propre aux
+différents âges de la vie. Elle propose les objectifs et assure le suivi des
+politiques de santé mentale. Elle est chargée du volet sanitaire de la politique
+de lutte contre les pratiques addictives. Elle conduit la politique de
+prévention des maladies chroniques et des cancers. Elle participe à la mise en
+oeuvre des politiques de lutte contre la douleur et d'accompagnement de la fin
+de vie. Elle apporte son concours à la protection de la santé des populations en
+situation de précarité et des personnes victimes de violence. Elle prend en
+compte les difficultés propres aux populations fragilisées ;
 
-4° Elle définit, pour le compte du ministère, les actions de prévention, de
-surveillance et de gestion des risques sanitaires liés aux milieux ;
+3° Elle participe à l'élaboration des politiques relatives aux droits des
+personnes malades et des usagers du système de santé, aux questions d'éthique,
+de bioéthique et d'indemnisation des victimes d'accidents médicaux. Elle
+contribue au respect des droits des personnes malades et des usagers du système
+de santé. Elle veille à la participation des citoyens à la définition des
+politiques de santé et des usagers au fonctionnement du système de santé, et en
+fixe les modalités ;
 
-5° Elle est responsable des questions relatives à la démographie des professions
-de santé et notamment définit leurs besoins de formation en liaison avec le
-ministère de l'enseignement supérieur ;
+4° Elle veille à la qualité et à la sécurité des soins, des pratiques
+professionnelles, des recherches biomédicales et des produits de santé, et
+contribue à garantir l'accès des patients aux innovations.
 
-6° Elle participe, avec les ministères et institutions concernés, à
-l'élaboration des règles relatives aux questions d'éthique et de bioéthique ;
-elle suit les questions relatives à la déontologie ; elle veille au respect des
-droits des personnes malades et des usagers du système de santé ;
+Elle participe à la définition de la politique du médicament et des autres
+produits de santé et à celle relative aux éléments et produits issus du corps
+humain.
 
-7° Elle exerce la tutelle sur les établissements publics et organismes
-compétents en matière de recherche médicale, de sécurité et de veille sanitaire,
-d'accréditation et d'évaluation en santé, d'enseignement et de formation en
-santé publique, d'éducation pour la santé et la prévention.
+Elle prend, conjointement avec la direction de la sécurité sociale, les
+décisions permettant leur prise en charge par l'assurance maladie. Elle assure
+une fonction de veille sur les pratiques non conventionnelles ;
 
-La direction générale de la santé assure le secrétariat du Conseil supérieur
-d'hygiène publique de France, du Comité national de sécurité sanitaire, du Haut
-Comité de santé publique, de la Conférence nationale de santé et de la
-Commission nationale de la médecine et de la biologie de la reproduction et du
-diagnostic prénatal.
+5° Elle élabore la politique de prévention et de gestion du risque infectieux,
+et en particulier la politique vaccinale, ainsi que la politique de prévention
+des risques iatrogènes non infectieux ;
+
+6° Elle participe à la définition et contribue à la mise en oeuvre des actions
+de prévention, de surveillance et de gestion des risques sanitaires liés à
+l'environnement, au milieu de travail, aux accidents de la vie courante, à l'eau
+et à l'alimentation. Elle définit la politique nutritionnelle ;
+
+7° Elle centralise l'ensemble des alertes. En liaison avec les autres ministères
+et institutions concernés, elle organise et assure la gestion des situations
+d'urgence sanitaire ; elle participe à la préparation des réponses aux risques
+et menaces sanitaires liés aux événements naturels, aux épidémies, aux accidents
+technologiques ou aux actes de terrorisme ;
+
+8° Elle apporte son concours à la détermination des besoins en professionnels de
+santé, à la délimitation de leurs compétences, à la définition des règles
+déontologiques qui leur sont applicables, ainsi qu'à celle des formations en
+santé ;
+
+9° Elle coordonne l'action des services déconcentrés dans les domaines relevant
+de sa compétence ; elle concourt à la détermination de leurs besoins en
+personnels et en actions de formation ;
+
+10° Elle assure la tutelle des établissements publics et organismes exerçant
+leur activité dans les domaines de la santé publique et de la sécurité
+sanitaire. Elle prépare les contrats d'objectifs et de moyens et les contrats de
+performance passés avec ces établissements ;
+
+11° Elle est chargée du secrétariat de la Conférence nationale de santé, du
+Comité national de santé publique, du Haut Conseil de santé publique, de la
+Commission nationale des accidents médicaux et de la Commission nationale
+d'agrément des associations représentant les usagers dans les instances
+hospitalières ou de santé publique ;
+
+12° Elle participe à la définition de la position française lors de l'examen des
+questions de santé publique et de sécurité sanitaire au sein des instances
+européennes et internationales.
