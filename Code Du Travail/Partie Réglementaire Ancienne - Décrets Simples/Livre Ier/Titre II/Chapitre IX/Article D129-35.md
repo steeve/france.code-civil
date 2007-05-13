@@ -10,13 +10,13 @@ associations et les entreprises sont agréées en application de l'article L.
 
 1° Entretien de la maison et travaux ménagers ;
 
-2° Petits travaux de jardinage ;
+2° Petits travaux de jardinage y compris les travaux de débroussaillage ;
 
 3° Prestations de petit bricolage dites "hommes toutes mains" ;
 
 4° Garde d'enfant à domicile ;
 
-5° Soutien scolaire et cours à domicile ;
+5° Soutien scolaire à domicile ou cours à domicile ;
 
 6° Préparation de repas à domicile, y compris le temps passé aux commissions ;
 
@@ -47,10 +47,10 @@ domicile au travail, sur le lieu de vacances, pour les démarches
 administratives, à la condition que cette prestation soit comprise dans une
 offre de services incluant un ensemble d'activités effectuées à domicile ;
 
-14° Accompagnement des personnes âgées ou handicapées en dehors de leur domicile
-(promenades, transports, actes de la vie courante), à condition que cette
-prestation soit comprise dans une offre de services incluant un ensemble
-d'activités effectuées à domicile ;
+14° Accompagnement des enfants dans leurs déplacements, des personnes âgées ou
+handicapées en dehors de leur domicile (promenades, transports, actes de la vie
+courante), à condition que ces prestations soient comprises dans une offre de
+services incluant un ensemble d'activités effectuées à domicile ;
 
 15° Livraison de courses à domicile, à la condition que cette prestation soit
 comprise dans une offre de services comprenant un ensemble d'activités
@@ -58,15 +58,15 @@ effectuées à domicile ;
 
 16° Assistance informatique et internet à domicile ;
 
-17° Soins et promenades d'animaux domestiques, pour les personnes dépendantes ;
+17° Soins et promenades d'animaux de compagnie, à l'exception des soins
+vétérinaires et du toilettage, pour les personnes dépendantes ;
 
 18° Soins d'esthétique à domicile pour les personnes dépendantes ;
 
-19° Gardiennage et surveillance temporaire, à domicile, de la résidence
+19° Maintenance, entretien et vigilance temporaires, à domicile, de la résidence
 principale et secondaire ;
 
-20° Assistance administrative à domicile.
+20° Assistance administrative à domicile ;
 
-Les activités qui concourent directement et exclusivement à coordonner et
-délivrer les services aux personnes mentionnées au premier alinéa appartiennent
-au champ des activités définies à l'article L. 129-1.
+21° Les activités qui concourent directement et exclusivement à coordonner et
+délivrer les services mentionnés au premier alinéa.
