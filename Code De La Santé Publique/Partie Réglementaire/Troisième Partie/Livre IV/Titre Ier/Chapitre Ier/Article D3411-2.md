@@ -1,18 +1,8 @@
 Article D3411-2
 ----
-Les centres spécialisés de soins aux toxicomanes assurent :
+Les centres peuvent spécialiser leur activité de prise en charge en direction de
+personnes consommant des substances psychoactives illicites ou de l'alcool.
 
-1° L'accueil, l'information et l'orientation de la personne ainsi que
-l'accompagnement de son entourage ;
-
-2° L'aide au repérage des usages nocifs et à la réduction des risques associés à
-la consommation de substances ou plantes mentionnées à l'article D. 3411-1 ;
-
-3° Le diagnostic et des prestations de soins, dans le cadre d'une prise en
-charge médicale et psychologique. Le centre assure le sevrage ainsi que son
-accompagnement lorsqu'il est réalisé en milieu hospitalier ;
-
-4° La prescription et le suivi de traitements de substitution ;
-
-5° La prise en charge sociale et éducative, qui comprend l'accès aux droits
-sociaux et l'aide à l'insertion ou à la réinsertion.
+Dans ce cas, ils ne sont tenus de remplir les missions mentionnées au 2° et au
+3° de l'article D. 3411-1 que pour les personnes qu'ils prennent en charge, y
+compris pour leurs consommations associées.

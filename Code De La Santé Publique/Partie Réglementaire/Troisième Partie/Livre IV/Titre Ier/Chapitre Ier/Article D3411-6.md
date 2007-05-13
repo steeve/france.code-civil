@@ -1,9 +1,9 @@
 Article D3411-6
 ----
-Le directeur ou le responsable du centre assure lui-même ou, le cas échéant, par
-délégation, dans le respect des compétences et des règles déontologiques des
-différents professionnels, la cohérence d'ensemble de l'activité des personnels
-ainsi que la coordination avec les intervenants extérieurs. Il a la
-responsabilité générale du fonctionnement du centre.
+Les établissements expérimentaux au sens du 12° de l'article L. 312-1 du code de
+l'action sociale et des familles, dénommés communautés thérapeutiques, peuvent
+être autorisés en tant que centre de soins, d'accompagnement et de prévention en
+addictologie.
 
-La responsabilité des activités médicales est assurée par un médecin.
+Dans ce cas, les centres ne sont pas tenus d'assurer la prescription de
+traitement de substitution mentionnée au 3° de l'article D. 3411-1.
