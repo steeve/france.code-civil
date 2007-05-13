@@ -17,6 +17,6 @@ conforme pas à ses obligations telles qu'elles résultent des articles R.
 133-1-3, R. 133-4 et R. 133-4-1 ;
 
 - suspension ou retrait de la licence d'exploitation de transporteur aérien par
-l'autorité mentionnée à l'article R. 330-1 en application des dispositions du
-deuxième alinéa de l'article L. 330-1 lorsque les conditions ayant présidé à sa
-délivrance ne sont plus remplies.
+l'autorité qui l'a délivrée en application des dispositions du deuxième alinéa
+de l'article L. 330-1 lorsque les conditions ayant présidé à sa délivrance ne
+sont plus remplies.

@@ -26,6 +26,9 @@ du premier alinéa lorsqu'il exerce de façon stable, habituelle et continue une
 activité de transport aérien à partir d'une base d'exploitation située sur le
 territoire national telle que définie à l'article R. 330-2-1.
 
+Les dispositions du I sont applicables sous réserve de celles de l'article R.
+330-19-1.
+
 II. - L'exploitation, par un transporteur aérien titulaire d'une licence
 d'exploitation délivrée par un autre Etat membre de la Communauté et qui n'est
 pas établi en France, ou par un transporteur titulaire d'une licence

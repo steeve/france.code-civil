@@ -4,8 +4,8 @@ Les membres de la Commission nationale de prévention des nuisances prévue à
 l'article L. 227-4, ainsi que leurs suppléants, sont nommés par arrêté du
 ministre chargé de l'aviation civile pour une période de trois ans renouvelable.
 
-La commission est présidée par un membre de l'inspection générale de l'aviation
-civile et de la météorologie et comprend en outre :
+La commission est présidée par un membre du conseil général des ponts et
+chaussées et comprend en outre :
 
 1° Quatre représentants de l'Etat, dont un proposé par le ministre chargé de
 l'environnement et un proposé par le ministre de la défense ;
