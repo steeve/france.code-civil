@@ -1,10 +1,10 @@
 Article D621-77
 ----
-Les producteurs ont la faculté de livrer leurs céréales à plus d'un organisme
-stockeur.
+L'agrément des collecteurs de céréales est délivré par le directeur général de
+l'Office national interprofessionnel des grandes cultures ou, par délégation de
+celui-ci, par le directeur régional compétent.
 
-La livraison directe de céréales, du producteur à l'utilisateur, est autorisée
-par les organismes collecteurs agréés et sous leur contrôle, dans tous les cas
-où l'Office national interprofessionnel des grandes cultures la prévoit et dans
-les conditions fixées par cet office, sans que ce mode de livraison soit assorti
-d'une taxe spécifique.
+Ces décisions peuvent faire l'objet d'un recours auprès du directeur général. Ce
+recours, qui est suspensif, doit être formé dans un délai maximum de deux mois à
+compter de la notification de la décision attaquée. Le directeur général dispose
+de deux mois pour se prononcer.
