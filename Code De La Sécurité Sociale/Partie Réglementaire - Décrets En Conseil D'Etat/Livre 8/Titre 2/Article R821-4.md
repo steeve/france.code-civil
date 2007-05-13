@@ -17,6 +17,11 @@ de l'action sociale et des familles par le conjoint, le concubin, la personne
 avec laquelle son bénéficiaire a conclu un pacte civil de solidarité ou l'enfant
 rattaché au foyer fiscal de l'allocataire.
 
+La prime d'intéressement à l'excédent d'exploitation versée à une personne
+handicapée admise dans un établissement ou service d'aide par le travail
+mentionnée à l'article R. 243-6 du code de l'action sociale et des familles
+n'entre pas en compte pour l'attribution de cette allocation.
+
 Les prestations et les ressources d'origine étrangère ou versées par une
 organisation internationale sont prises en compte pour l'application des limites
 de cumul prévues aux articles L. 821-1 et L. 821-3.
