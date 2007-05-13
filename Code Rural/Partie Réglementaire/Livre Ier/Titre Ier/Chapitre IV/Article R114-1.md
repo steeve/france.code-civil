@@ -1,11 +1,12 @@
 Article R114-1
 ----
-Les zones d'érosion couvrent les parties du territoire où, en raison notamment
-de la nature des sols, des conditions de leur occupation, de l'absence de
-couvert végétal ou de haies, de leur déclivité, les pratiques agricoles ont
-favorisé l'érosion des sols et l'accélération de l'écoulement des eaux de
-ruissellement qui ont été à l'origine de dommages causés en aval ou sont
-susceptibles d'en causer.
+Les dispositions des articles R. 114-2 à R. 114-10 sont applicables :
 
-Un arrêté du préfet pris après avis de la commission départementale compétente
-en matière de risques naturels majeurs délimite ces zones.
+- aux zones d'érosion mentionnées à l'article L. 114-1 du code rural et au 5° du
+II de l'article L. 211-3 du code de l'environnement ;
+
+- aux zones humides d'intérêt environnemental particulier définies par le a du
+4° du II de l'article L. 211-3 du code de l'environnement ;
+
+- aux zones de protection des aires d'alimentation des captages définies par le
+5° du II de l'article L. 211-3 du code de l'environnement.

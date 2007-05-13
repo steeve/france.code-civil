@@ -1,6 +1,5 @@
 Article R211-110
 ----
-Les dispositions relatives aux eaux de consommation humaine conditionnées et aux
-eaux minérales naturelles sont énoncées respectivement à la section 2 du
-chapitre Ier du titre II du livre III de la première partie réglementaire du
-code de la santé publique et au chapitre II du même titre.
+Les dispositions applicables aux zones de protection des aires d'alimentation
+des captages définies par le 5° du II de l'article L. 211-3 sont fixées par les
+articles R. 114-1 à R. 114-10 du code rural.
