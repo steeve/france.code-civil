@@ -12,11 +12,13 @@ période, les ressources prises en compte sont constituées par :
 1°) les ressources effectivement perçues au cours des trois mois précédents,
 diminuées, le cas échéant, d'une part, des ressources du conjoint ou du
 concubin, d'autre part, des sommes provenant du service de l'allocation de
-veuvage et des prestations familiales au sens de l'article R. 524-3 ;
+veuvage, de la pension de réversion mentionnée à l'article L. 353-1 et des
+prestations familiales au sens de l'article R. 524-3 ;
 
 2°) les sommes qui seront reçues au cours des trois premiers mois de versement
-de l'allocation de parent isolé au titre de l'allocation de veuvage et des
-prestations familiales au sens de l'article R. 524-3.
+de l'allocation de parent isolé au titre de l'allocation de veuvage, de la
+pension de réversion mentionnée à l'article L. 353-1 et des prestations
+familiales au sens de l'article R. 524-3.
 
 L'allocation peut être versée sur la foi des déclarations des requérants pendant
 trois mois. La première mensualité est versée dans le mois suivant la date du
