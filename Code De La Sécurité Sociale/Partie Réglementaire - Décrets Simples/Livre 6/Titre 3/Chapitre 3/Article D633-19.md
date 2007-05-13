@@ -9,6 +9,3 @@ revenu est inférieur à 1 700 euros.
 
 Toutefois, ces dispositions ne sont pas applicables aux assurés dont les
 prestations de vieillesse ont pris effet postérieurement au 30 juin 1984.
-
-Les personnes mentionnées au quatrième alinéa de l'article L. 633-10 sont
-dispensées de toute cotisation lorsqu'elles sont nées avant le 1er janvier 1893.

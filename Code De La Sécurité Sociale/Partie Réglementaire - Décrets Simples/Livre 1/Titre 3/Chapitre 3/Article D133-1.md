@@ -14,3 +14,9 @@ plafond mensuel de sécurité sociale en vigueur, arrondi à l'euro supérieur.
 Cette acquisition ne peut intervenir avant l'expiration d'un délai de douze mois
 à compter de la date à laquelle lesdites cotisations, majorations ou pénalités
 de retard ont été acquittées.
+
+Les dispositions des deux alinéas précédents sont applicables aux cotisations et
+contributions sociales des personnes exerçant les professions artisanales,
+industrielles et commerciales, recouvrées par le régime social des indépendants.
+Les sommes mentionnées au deuxième alinéa sont définitivement acquises à la
+Caisse nationale du régime social des indépendants.
