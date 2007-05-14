@@ -1,3 +1,4 @@
 Article R213-42
 ----
-Le directeur de l'agence est nommé par arrêté du Premier ministre.
+Le directeur général de l'agence est nommé par arrêté du ministre chargé de
+l'environnement.

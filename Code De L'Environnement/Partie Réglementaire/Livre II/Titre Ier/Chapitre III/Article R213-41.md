@@ -1,11 +1,12 @@
 Article R213-41
 ----
-Les délibérations sont exécutoires par elles-mêmes, sauf si le Premier ministre
-y fait opposition dans le délai de trente jours à compter de la réception de la
-délibération.
+Les délibérations du conseil d'administration relatives au budget, au compte
+financier, aux emprunts et aux conditions générales d'attribution des
+subventions et des avances remboursables sont exécutoires par elles-mêmes, sauf
+si le ministre chargé du budget ou le ministre chargé de l'environnement y fait
+opposition dans un délai d'un mois à compter de leur réception, accompagnée des
+documents correspondants.
 
-Toutefois, les délibérations relatives au budget, au compte financier, aux
-emprunts et aux conditions générales d'attribution des subventions et des prêts
-sont soumises à l'approbation du Premier ministre et du ministre de l'économie
-et des finances, après consultation, en tant que de besoin, de la mission
-interministérielle créée en application de l'article R. 213-13.
+Les autres délibérations sont exécutoires par elles-mêmes, sauf si le ministre
+chargé de l'environnement y fait opposition dans un délai de quinze jours à
+compter de leur réception accompagnée des documents correspondants.

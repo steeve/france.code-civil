@@ -1,14 +1,16 @@
 Article R213-35
 ----
-Par dérogation à l'article R. 213-34, le conseil d'administration de l'agence
-Rhône-Méditerranée et Corse est complété par trois membres, à savoir :
+Les membres du conseil d'administration qui ne représentent pas l'Etat et qui ne
+sont pas élus, sont nommés par arrêté du ministre chargé de l'environnement pour
+une durée de six ans.
 
-1° Au titre du premier collège, un représentant des collectivités territoriales
-choisi par et parmi les membres représentant les collectivités territoriales au
-comité de bassin de Corse ;
+L'administrateur qui, au cours de son mandat, décède, démissionne ou perd la
+qualité au titre de laquelle il a été désigné est remplacé pour la durée du
+mandat restant à courir par une personne désignée dans les mêmes conditions.
 
-2° Au titre du deuxième collège, un représentant des différentes catégories
-d'usagers choisi par et parmi les membres représentant ces catégories d'usagers
-au comité de bassin de Corse ;
+Les membres du conseil d'administration peuvent, lorsqu'ils sont empêchés,
+donner mandat à un membre du même collège pour les représenter, dans la limite
+de deux mandats par membre.
 
-3° Au titre du troisième collège, le préfet de Corse.
+Les membres du conseil d'administration qui représentent l'Etat peuvent se faire
+suppléer par un membre du service ou de l'organisme auquel ils appartiennent.

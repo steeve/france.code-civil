@@ -1,16 +1,22 @@
 Article R213-43
 ----
-Le directeur de l'agence assure le fonctionnement de l'ensemble des services et
-la gestion du personnel.
+Le directeur général de l'agence assure le fonctionnement de l'ensemble des
+services et la gestion du personnel.
 
-Il assure la préparation des réunions du conseil d'administration, fait
-appliquer les décisions de celui-ci et le tient informé de leur exécution.
+Il propose l'ordre du jour des réunions du conseil d'administration, prépare ses
+délibérations et en assure l'exécution.
 
-Il est responsable de la répartition du budget et des décisions modificatives.
+Il prépare et exécute le budget de l'établissement.
 
-Il représente l'agence en justice et dans tous les actes de la vie civile.
+Il est l'ordonnateur des recettes et des dépenses de l'établissement.
 
-Il est ordonnateur des recettes et des dépenses de l'établissement et à ce titre
-il liquide notamment les redevances.
+Il signe les contrats et conventions engageant l'établissement.
 
-Il signe les contrats, accords ou conventions passés au nom de l'agence.
+Il est le pouvoir adjudicateur de l'établissement.
+
+Il représente l'établissement dans tous les actes de la vie civile et dans ses
+rapports avec les tiers.
+
+Il rend compte de sa gestion au conseil d'administration.
+
+Il peut déléguer sa signature à des agents placés sous son autorité.

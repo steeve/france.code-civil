@@ -1,10 +1,9 @@
 Article R213-47
 ----
-Les marchés concernant l'agence sont passés dans les formes et conditions
-prescrites pour les marchés de l'Etat.
+Il peut être institué auprès de l'établissement des régies de recettes et des
+régies d'avances dans les conditions prévues par le décret n° 92-681 du 20
+juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des
+organismes publics.
 
-Des régies de recettes et de dépenses peuvent être créées par arrêté conjoint du
-Premier ministre et du ministre de l'économie et des finances dans les
-conditions fixées par le décret n° 97-1259 du 29 décembre 1997 relatif aux
-régies de recettes, d'avances et de recettes et d'avances des collectivités
-locales et des établissements publics locaux.
+L'établissement est autorisé à placer ses fonds disponibles dans les conditions
+fixées par le ministre chargé des finances.

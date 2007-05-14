@@ -3,13 +3,16 @@ Article R213-37
 Le conseil d'administration se réunit sur convocation de son président et au
 moins deux fois par an.
 
-La convocation est en outre obligatoire dans le mois de la demande qui en est
-faite par le Premier ministre ou par la majorité des membres du conseil
-d'administration.
+Il est obligatoirement convoqué dans le mois qui suit la demande du ministre
+chargé de l'environnement ou de la majorité de ses membres.
 
 Le président arrête l'ordre du jour.
 
-Le directeur, le commissaire du Gouvernement, le membre du corps du contrôle
-général économique et financier et l'agent comptable participent aux travaux du
-conseil d'administration avec voix consultative. Le directeur peut se faire
-assister de toute personne de son choix.
+Le président du comité de bassin, le directeur général de l'agence, le
+commissaire du Gouvernement et l'agent comptable assistent aux séances avec voix
+consultative.
+
+L'autorité chargée du contrôle financier a droit d'entrée avec voix consultative
+à tout comité, commission ou organe consultatif existant en son sein.
+
+Le directeur général peut se faire assister de toute personne de son choix.
