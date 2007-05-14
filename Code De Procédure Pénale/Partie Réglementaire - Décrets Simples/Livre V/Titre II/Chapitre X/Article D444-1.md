@@ -2,7 +2,7 @@ Article D444-1
 ----
 La sortie des écrits faits par un détenu en vue de leur publication ou de leur
 divulgation, sous quelque forme que ce soit, est autorisée par décision du
-directeur régional des services pénitentiaires territorialement compétent.
+directeur interégional des services pénitentiaires territorialement compétent.
 
 Sans préjudice d'une éventuelle saisie par l'autorité judiciaire et sous réserve
 de l'exercice des droits de la défense, tout manuscrit rédigé en détention peut

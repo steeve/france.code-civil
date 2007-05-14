@@ -7,7 +7,7 @@ lui sont confiées par des personnes détenues dans un ou plusieurs établisseme
 pénitentiaires relevant d'une même direction régionale.
 
 Un mandataire, préalablement bénéficiaire d'un agrément en cours de validité,
-peut, à sa demande, être autorisé par le directeur régional des services
+peut, à sa demande, être autorisé par le directeur interrégional des services
 pénitentiaires d'une autre région pénitentiaire à accomplir des missions
 d'assistance ou de représentation, dans les conditions prévues au deuxième
 alinéa de l'article R. 57-9-5, dans un ou plusieurs établissements

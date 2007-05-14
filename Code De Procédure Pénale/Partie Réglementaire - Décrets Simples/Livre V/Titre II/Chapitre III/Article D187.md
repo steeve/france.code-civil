@@ -5,7 +5,7 @@ permettent, à titre permanent, ou pour un nombre limité de visites, la
 communication avec les détenus non nominativement désignés, sous réserve des
 droits conférés à l'autorité judiciaire.
 
-Le directeur régional des services pénitentiaires délivre ces autorisations
+Le directeur interrégional des services pénitentiaires délivre ces autorisations
 lorsque la demande est relative à des personnes détenues dans des établissements
 situés dans le ressort de sa compétence territoriale.
 

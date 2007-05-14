@@ -1,7 +1,8 @@
 Article D102
 ----
 Aucun genre de travail ne peut être adopté à titre définitif s'il n'a été
-préalablement autorisé par le directeur régional des services pénitentiaires.
+préalablement autorisé par le directeur interrégional des services
+pénitentiaires.
 
 L'organisation, les méthodes et les rémunérations du travail doivent se
 rapprocher autant que possible de celles des activités professionnelles

@@ -1,6 +1,6 @@
 Article D388
 ----
-L'habilitation peut être suspendue par le directeur régional des services
+L'habilitation peut être suspendue par le directeur interrégional des services
 pénitentiaires pour les praticiens hospitaliers à temps plein, ou par le chef de
 l'établissement pénitentiaire pour les autres personnels hospitaliers, en cas de
 manquements graves aux dispositions du code de procédure pénale ou du règlement

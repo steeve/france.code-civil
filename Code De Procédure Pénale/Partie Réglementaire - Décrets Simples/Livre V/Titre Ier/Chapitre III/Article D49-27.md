@@ -13,6 +13,6 @@ liberté.
 Le juge de l'application des peines exerce les missions qui lui sont confiées,
 en déterminant notamment, pour chaque condamné, les principales modalités du
 traitement pénitentiaire, dans le respect des attributions propres au directeur
-régional des services pénitentiaires et aux chefs des établissements
+interrégional des services pénitentiaires et aux chefs des établissements
 pénitentiaires relatives à l'organisation et au fonctionnement de ces
 établissements.

@@ -12,8 +12,10 @@ près ledit tribunal, ou les magistrats les représentant ;
 3° Un juge d'instruction désigné par le président du tribunal de grande instance
 ;
 
-4° Le juge des enfants, si la commission est instituée auprès d'une maison
-d'arrêt située au siège d'un tribunal pour enfant ;
+4° Le juge des enfants, si la commission est instituée auprès d'un établissement
+pénitentiaire comportant un quartier des mineurs ou d'un établissement
+pénitentiaire spécialisé pour mineurs situé dans le ressort d'un tribunal pour
+enfants ;
 
 5° Le bâtonnier de l'ordre des avocats ou son représentant ;
 
@@ -38,9 +40,7 @@ représentant ;
 13° Le directeur départemental des affaires sanitaires et sociales ou son
 représentant ;
 
-14° Le directeur départemental de la protection judiciaire de la jeunesse ou son
-représentant, si l'établissement pénitentiaire est habilité à recevoir des
-mineurs ;
+14° (supprimé)
 
 15° Le directeur départemental de la jeunesse et des sports ou son représentant
 ;
@@ -67,5 +67,6 @@ les personnels socio-éducatifs ainsi que les aumôniers attachés à
 l'établissement, et toutes autres personnes y exerçant habituellement une
 activité ne peuvent faire partie de la commission de surveillance.
 
-Le directeur régional des services pénitentiaires, ou son représentant, assiste
-aux travaux de la commission de surveillance.
+Le directeur interrégional des services pénitentiaires et le directeur régional
+de la protection judiciaire de la jeunesse ou leur représentant assistent aux
+travaux de la commission de surveillance.

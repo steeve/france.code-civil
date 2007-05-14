@@ -15,5 +15,5 @@ mandataire agréé sont jointes au dossier de la procédure. Si le détenu prés
 des observations orales, elles font l'objet d'un compte rendu écrit.
 
 Le chef d'établissement transmet le dossier de la procédure au directeur
-régional des services pénitentiaires lorsque la décision relève de la compétence
-de celui-ci ou du ministre de la justice.
+interrégional des services pénitentiaires lorsque la décision relève de la
+compétence de celui-ci ou du ministre de la justice.

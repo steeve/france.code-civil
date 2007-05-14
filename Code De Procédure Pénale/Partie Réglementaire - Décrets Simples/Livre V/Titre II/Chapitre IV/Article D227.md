@@ -20,8 +20,8 @@ par convention avec l'administration pénitentiaire auprès de l'établissement 
 du service.
 
 Selon l'importance de l'établissement pénitentiaire, un ou plusieurs médecins
-sont désignés par le directeur régional des services pénitentiaires pour remplir
-ces missions.
+sont désignés par le directeur interrégional des services pénitentiaires pour
+remplir ces missions.
 
 Les soins au personnel de l'établissement pénitentiaire ne relèvent pas des
 missions de l'unité de consultations et des soins ambulatoires, en dehors des

@@ -17,8 +17,8 @@ les articles 421-1 à 421-5 du code pénal ;
 3° Un condamné ayant fait l'objet d'une inscription au répertoire des détenus
 particulièrement signalés, prévu par l'article D. 276-1.
 
-Le directeur régional des services pénitentiaires est compétent pour décider du
-changement d'affectation des autres condamnés.
+Le directeur interégional des services pénitentiaires est compétent pour décider
+du changement d'affectation des autres condamnés.
 
 L'affectation ne peut être modifiée que s'il survient un fait ou un élément
 d'appréciation nouveau.

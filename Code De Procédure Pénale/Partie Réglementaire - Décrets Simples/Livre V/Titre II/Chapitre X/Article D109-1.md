@@ -18,6 +18,6 @@ travail, ce délai est ramené à quinze jours.
 
 En cas de désaccord sur la nature ou le calendrier de ces mesures, l'inspecteur
 du travail en réfère au directeur régional du travail, de l'emploi et de la
-formation professionnelle qui saisit le directeur régional des services
+formation professionnelle qui saisit le directeur interrégional des services
 pénitentiaires compétent. Ce dernier fait connaître sa réponse dans un délai
 d'un mois.

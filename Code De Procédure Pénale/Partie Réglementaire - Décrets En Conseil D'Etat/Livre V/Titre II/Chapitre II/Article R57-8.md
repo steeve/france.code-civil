@@ -1,7 +1,7 @@
 Article R57-8
 ----
-Le directeur régional des services pénitentiaires est compétent pour prendre les
-décisions administratives individuelles suivantes :
+Le directeur interrégional des services pénitentiaires est compétent pour
+prendre les décisions administratives individuelles suivantes :
 
 1° Agrément des associations pour le compte desquelles les détenus peuvent être
 autorisés à travailler ;
@@ -42,6 +42,6 @@ situé dans le ressort de la direction régionale des services pénitentiaires ;
 12° Prolongation de l'isolement au-delà de six mois et jusqu'à un an.
 
 Pour les compétences définies par la partie réglementaire du présent code, le
-directeur régional des services pénitentiaires peut déléguer sa signature à un
-ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un
+directeur interrégional des services pénitentiaires peut déléguer sa signature à
+un ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un
 emploi au siège de la direction régionale.

@@ -16,7 +16,7 @@ désaccord entre les directeurs régionaux.
 
 4° Soit à un dessaisissement au profit du ministre de la justice en vue d'une
 affectation dans une maison centrale ou un quartier maison centrale, dès lors
-que le directeur régional des services pénitentiaires estime que le condamné
-doit être affecté dans cette catégorie d'établissement. Dans ce cas, la décision
-incombe au ministre de la justice qui décide de l'affectation du condamné dans
-l'établissement pénitentiaire le plus approprié.
+que le directeur interrégional des services pénitentiaires estime que le
+condamné doit être affecté dans cette catégorie d'établissement. Dans ce cas, la
+décision incombe au ministre de la justice qui décide de l'affectation du
+condamné dans l'établissement pénitentiaire le plus approprié.

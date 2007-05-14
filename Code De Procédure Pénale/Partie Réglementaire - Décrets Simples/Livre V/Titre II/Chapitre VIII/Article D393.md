@@ -3,7 +3,7 @@ Article D393
 L'admission dans un établissement de santé à vocation nationale ou dans un
 établissement de santé situé dans une autre direction régionale des services
 pénitentiaires que celle où le détenu est écroué doit être autorisée par le
-ministre de la justice. Le directeur régional des services pénitentiaires
+ministre de la justice. Le directeur interrégional des services pénitentiaires
 autorise cette hospitalisation dans les autres cas. Ces autorisations sont
 données après avis d'un médecin intervenant à l'établissement.
 
