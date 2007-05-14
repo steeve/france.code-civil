@@ -1,11 +1,22 @@
 Article D4381-1
 ----
-Le Conseil supérieur des professions paramédicales peut être consulté par le
-ministre chargé de la santé, notamment sur les questions intéressant :
+Auprès du ministre chargé de la santé, le Haut Conseil des professions
+paramédicales a pour missions :
 
-1° L'exercice des professions paramédicales réglementées au présent livre ;
+1° De promouvoir une réflexion interprofessionnelle sur :
 
-2° L'enseignement organisé en vue de l'obtention de diplômes, titres ou
-certificats délivrés par le ministre chargé de la santé pour l'exercice d'une
-profession de santé autre qu'une profession médicale ou que la profession de
-pharmacien.
+a) Les conditions d'exercice des professions paramédicales, l'évolution de leurs
+métiers, la coopération entre les professionnels de santé et la répartition de
+leurs compétences ;
+
+b) La formation et les diplômes ;
+
+c) la place des professions paramédicales dans le système de santé ;
+
+2° De participer, en coordination avec la Haute Autorité de santé, à la
+diffusion des recommandations de bonne pratique et à la promotion de
+l'évaluation des pratiques des professions paramédicales ;
+
+Dans la conduite de ses missions, le Haut Conseil des professions paramédicales
+prend en compte les études et réflexions menées au niveau européen et
+international.
