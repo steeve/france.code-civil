@@ -8,4 +8,9 @@ Sont fixés par arrêté du ministre chargé de la santé :
 
 2° Les modalités des épreuves sanctionnant cet enseignement ;
 
-3° Les conditions d'admission des étudiants et la nature des épreuves.
+3° Les conditions d'admission des étudiants et la nature des épreuves ;
+
+4° ;
+
+5° Les conditions d'indemnisation des stages et de remboursement des frais de
+déplacement liés aux stages.
