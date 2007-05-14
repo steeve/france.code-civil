@@ -2,9 +2,10 @@ Article D811-167-2
 ----
 Chaque option du titre est créée par arrêté du ministre chargé de l'agriculture
 après avis de la commission professionnelle consultative des métiers de
-l'agriculture, de l'agro-industrie et de l'espace rural et classée par arrêté au
-niveau V, IV ou III de la nomenclature interministérielle des niveaux de
-formation selon le niveau du diplôme sur lequel il s'appuie.
+l'agriculture, de la transformation, des services et de l'aménagement des
+espaces et classée par arrêté au niveau V, IV ou III de la nomenclature
+interministérielle des niveaux de formation selon le niveau du diplôme sur
+lequel il s'appuie.
 
 L'arrêté de création de chaque option du certificat de spécialisation agricole
 comporte au minimum :
