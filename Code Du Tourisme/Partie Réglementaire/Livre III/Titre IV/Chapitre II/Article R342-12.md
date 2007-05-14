@@ -1,17 +1,17 @@
 Article R342-12
 ----
-Les installations font l'objet de visites par les agents chargés du contrôle de
-l'Etat. Ces visites ont pour but notamment :
+L'exploitant désigne un chef d'exploitation chargé d'assurer la direction
+technique d'une ou plusieurs remontées mécaniques ou tapis roulants et en
+informe le préfet.
 
-1° De vérifier si les prescriptions réglementaires sont observées ;
+L'exploitant prend les mesures appropriées pour que l'organisation du travail
+respecte la réglementation technique et de sécurité prévue à l'article R. 342-3
+et que le personnel affecté aux tâches de sécurité soit en nombre suffisant et
+correctement formé.
 
-2° De s'assurer que les vérifications, visites et essais prévus par la
-réglementation technique ont été effectués ;
+Pour chaque remontée mécanique ou tapis roulant, l'exploitant tient à jour un
+registre d'exploitation dans lequel sont notamment consignées les interventions
+effectuées en exploitation sur l'installation.
 
-3° D'effectuer toutes investigations nécessaires à la recherche de la sécurité ;
-
-4° D'effectuer toute enquête administrative consécutive aux accidents ou
-incidents.
-
-Au cours de ces visites, les agents du contrôle ont un libre accès à toutes les
-installations.
+Un arrêté du ministre chargé des transports précise, en tant que de besoin, les
+dispositions du présent article.
