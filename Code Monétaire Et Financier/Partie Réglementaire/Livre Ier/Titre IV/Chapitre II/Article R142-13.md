@@ -1,10 +1,11 @@
 Article R142-13
 ----
-Chaque fois qu'il y a lieu d'élire un conseiller, le gouverneur fixe la date du
-scrutin. Cette date doit être annoncée au plus tard le trentième jour avant
-celui qui est fixé pour le scrutin.
+Des extraits de la liste électorale sont affichés dans chaque unité
+administrative de la Banque de France.
 
-Les agents qui désirent se présenter aux suffrages du personnel doivent notifier
-leur candidature par lettre recommandée adressée au gouverneur. Cette lettre
-doit parvenir au gouverneur au plus tard le quinzième jour avant celui qui est
-fixé pour le scrutin. Le gouverneur accuse aussitôt réception de cet envoi.
+Toute réclamation contre l'établissement de la liste électorale doit être
+adressée par écrit au président de la commission.
+
+La commission statue sur les réclamations reçues, modifie s'il y a lieu la liste
+électorale et notifie aux unités administratives concernées les additions ou les
+radiations qu'elle opère.

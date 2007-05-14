@@ -1,11 +1,10 @@
 Article R142-11
 ----
-Le conseiller représentant le personnel doit être élu parmi les agents ayant la
-qualité d'électeur, sous réserve :
+Chaque fois qu'il y a lieu d'élire un conseiller, le gouverneur fixe la date du
+scrutin. Cette date doit être annoncée au plus tard le trentième jour avant
+celui qui est fixé pour le scrutin.
 
-1° Pour les agents titulaires, qu'ils soient majeurs et ne soient pas placés en
-disponibilité pour service national, mobilisés ou détachés avec ou sans
-traitement ;
-
-2° Pour les agents non titulaires de la Banque de France, qu'ils aient été
-recrutés depuis un an au moins au jour du scrutin.
+Les agents qui désirent se présenter aux suffrages du personnel doivent notifier
+leur candidature par lettre recommandée adressée au gouverneur. Cette lettre
+doit parvenir au gouverneur au plus tard le quinzième jour avant celui qui est
+fixé pour le scrutin. Le gouverneur accuse aussitôt réception de cet envoi.

@@ -18,12 +18,12 @@ s'appliquent à la Banque de France pour les opérations autres que celles
 comptabilisées et évaluées selon les règles mentionnées au premier alinéa du
 présent article.
 
-Le conseil général arrête, après avis du Conseil de la politique monétaire, la
-présentation des états comptables publiés. Sur proposition du Conseil de la
-politique monétaire, il peut limiter le détail des informations rendues
+Le conseil général arrête, après avis du comité monétaire du conseil général, la
+présentation des états comptables publiés. Sur proposition du comité monétaire
+du conseil général, il peut limiter le détail des informations rendues
 publiques.
 
-Toutefois, le conseil général, après avis du Conseil de la politique monétaire,
-peut, par dérogation au deuxième alinéa du présent article, rendre applicables à
-la Banque de France les règles de comptabilisation et d'évaluation recommandées
-par la Banque centrale européenne.
+Toutefois, le conseil général, après avis du comité monétaire du conseil
+général, peut, par dérogation au deuxième alinéa du présent article, rendre
+applicables à la Banque de France les règles de comptabilisation et d'évaluation
+recommandées par la Banque centrale européenne.

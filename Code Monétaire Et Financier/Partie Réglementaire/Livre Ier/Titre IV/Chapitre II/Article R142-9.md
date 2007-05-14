@@ -1,10 +1,11 @@
 Article R142-9
 ----
-Sont électeurs sans conditions d'âge :
+Le conseiller représentant le personnel doit être élu parmi les agents ayant la
+qualité d'électeur, sous réserve :
 
-1° Les agents titulaires qui se trouvent le jour du scrutin soit en service à la
-Banque de France, soit en congé, soit en position de détachement, soit en
-disponibilité pour un service national, soit mobilisés ;
+1° Pour les agents titulaires, qu'ils soient majeurs et ne soient pas placés en
+disponibilité pour service national, mobilisés ou détachés avec ou sans
+traitement ;
 
-2° Les agents non titulaires de la Banque de France recrutés depuis trois mois
-au moins à la date du scrutin.
+2° Pour les agents non titulaires de la Banque de France, qu'ils aient été
+recrutés depuis un an au moins au jour du scrutin.

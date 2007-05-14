@@ -1,7 +1,4 @@
 Article R142-5
 ----
-Le conseil général se réunit aussi souvent que l'intérêt de la Banque de France
-l'exige, et au moins six fois par an, sur la convocation du gouverneur.
-
-Il se réunit extraordinairement lorsque la demande en est faite soit par la
-moitié au moins des membres du conseil général, soit par le censeur.
+Les ministres mentionnés au troisième alinéa de l'article L. 142-2 sont le
+ministre chargé de l'économie et le ministre chargé du budget.
