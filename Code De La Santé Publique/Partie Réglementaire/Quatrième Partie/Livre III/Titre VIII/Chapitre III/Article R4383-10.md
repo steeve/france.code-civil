@@ -1,4 +1,6 @@
 Article R4383-10
 ----
-Le silence gardé pendant plus de quatre mois sur les demandes d'attestation
-d'aptitude aux fonctions d'aide-soignant vaut décision de rejet.
+Le préfet de région statue sur la demande d'attestation d'aptitude aux fonctions
+d'aide-soignant, après avis de la commission régionale spécialisée, par une
+décision motivée, dans un délai de trois mois à compter de la date du récépissé
+délivré au demandeur, à réception de son dossier.

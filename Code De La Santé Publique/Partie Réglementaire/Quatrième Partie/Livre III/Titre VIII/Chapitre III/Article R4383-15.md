@@ -16,5 +16,7 @@ d'aptitude. Dans ce cas, l'attestation d'aptitude aux fonctions d'auxiliaire de
 puériculture ne lui est délivrée qu'après validation du stage d'adaptation ou
 réussite à l'épreuve d'aptitude.
 
-Le silence gardé pendant plus de quatre mois sur les demandes d'attestation
-d'aptitude aux fonctions d'auxiliaire de puériculture vaut décision de rejet.
+Le préfet de région statue sur la demande d'attestation d'aptitude aux fonctions
+d'auxiliaire de puériculture, après avis de la commission régionale spécialisée,
+par une décision motivée, dans un délai de trois mois à compter de la date du
+récépissé délivré au demandeur, à réception de son dossier.
