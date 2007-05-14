@@ -20,7 +20,8 @@ une succursale ;
 
 2° Le programme d'activité dans lequel sont, notamment, indiqués les services
 d'investissement et les services connexes envisagés, ainsi que la structure de
-l'organisation de la succursale ;
+l'organisation de la succursale et précisant si la succursale prévoit de
+recourir à des agents liés mentionnés à l'article L. 545-1 ;
 
 3° L'adresse de la succursale à laquelle les autorités de l'Etat mentionné au 1°
 peuvent demander des informations en vue de l'exercice de leurs compétences ;

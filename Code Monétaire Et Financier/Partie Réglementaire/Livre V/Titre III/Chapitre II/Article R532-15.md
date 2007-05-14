@@ -19,7 +19,7 @@ l'Espace économique européen,
 
 l'Autorité des marchés financiers consulte l'autorité compétente, au sens du 4°
 du I de l'article L. 517-2, afin d'évaluer notamment la qualité des actionnaires
-ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion
+ainsi que l'honorabilité et l'expérience des dirigeants associés à la gestion
 d'une autre entité du même groupe.
 
 Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce
