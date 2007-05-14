@@ -13,6 +13,9 @@ lorsque la personne est détenue, par les soins du chef de l'établissement
 pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la
 copie du récépissé signé par l'intéressé. L'intégralité du rapport peut aussi
 être notifiée, à leur demande, aux avocats des parties par lettre recommandée.
+Si les avocats des parties ont fait connaître au juge d'instruction qu'ils
+disposent d'une adresse électronique, l'intégralité du rapport peut leur être
+adressée par cette voie, selon les modalités prévues par l'article 803-1.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour
 présenter des observations ou formuler une demande, notamment aux fins de
@@ -29,8 +32,9 @@ de l'article 82-1, sous réserve de la survenance d'un élément nouveau.
 Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée
 qui doit intervenir dans un délai d'un mois à compter de la réception de la
 demande. Il en est de même s'il commet un seul expert alors que la partie a
-demandé qu'il en soit désigné plusieurs. Les dispositions du dernier alinéa de
-l'article 81 sont applicables.
+demandé qu'il en soit désigné plusieurs. Faute pour le juge d'instruction
+d'avoir statué dans le délai d'un mois, la partie peut saisir directement la
+chambre de l'instruction.
 
 Le juge d'instruction peut également notifier au témoin assisté, selon les
 modalités prévues par le présent article, les conclusions des expertises qui le

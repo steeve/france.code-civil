@@ -22,9 +22,9 @@ France ou versés par une organisation internationale.
 
 Est également prise en considération, suivant les règles applicables en matière
 d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de
-l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général
-des impôts, l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du
-code de la sécurité sociale.
+l'article 83 et au 5 (a) de l'article 158 du code général des impôts,
+l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du code de la
+sécurité sociale.
 
 Sont également prises en compte les majorations de retraite ou de pensions pour
 enfants exonérées de l'impôt sur le revenu en application du 2° ter de l'article
@@ -40,16 +40,17 @@ l'objet d'un report, en vertu du I de l'article 156 du code général des impôt
 Sont déduits de ce décompte :
 
 - les créances alimentaires mentionnées au 2° du II de l'article 156 du code
-général des impôts ;
+général des impôts et majorées dans les conditions prévues au 7 de l'article 158
+du code général des impôts ;
 
 - l'abattement mentionné à l'article 157 bis du code général des impôts pour les
 personnes nées avant le 1er janvier 1931 et pour les personnes invalides.
 
 Sont exclus de ce décompte :
 
-- l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre
-1988 relative au revenu minimum d'insertion et servie soit au bénéficiaire ou à
-son conjoint, soit aux autres personnes définies au I du présent article ;
+- l'allocation mentionnée à l'article L. 262-3 du code de l'action sociale et
+des familles et servie soit au bénéficiaire ou à son conjoint, soit aux autres
+personnes définies au I du présent article ;
 
 - les arrérages des rentes viagères constituées en faveur d'une personne
 handicapée et mentionnés à l'article 199 septies du code général des impôts ;
@@ -65,8 +66,9 @@ des ménages pour l'année civile de référence figurant dans le rapport écono
 et financier annexé au projet de loi finances.
 
 IV. - Ne sont prises en compte que pour la fraction dépassant le plafond
-individuel prévu à l'article L. 815-8 du code de la sécurité sociale les
-ressources de chacune des personnes vivant habituellement au foyer qui sont :
+individuel prévu à l'article L. 815-9 du code de la sécurité sociale et
+multiplié par 1,25 les ressources de chacune des personnes vivant habituellement
+au foyer qui sont :
 
 Soit ascendants du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq
 ans ou d'au moins soixante ans en cas d'inaptitude au travail ;

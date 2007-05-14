@@ -6,7 +6,8 @@ l'allocataire, sont à sa charge au sens des articles L. 512-3 et L. 513-1, sont
 logement et le calcul de son montant les personnes vivant au foyer de
 l'allocataire ci-dessous désignées et dont les ressources déterminées dans les
 conditions prévues à l'article D. 542-10 n'excèdent pas le plafond individuel
-prévu à l'article L. 815-8 en vigueur au 31 décembre de l'année de référence :
+prévu à l'article L. 815-9 en vigueur au 31 décembre de l'année de référence,
+multiplié par 1,25 :
 
 1°) ascendants de l'allocataire ou de son conjoint, âgés d'au moins
 soixante-cinq ans ;

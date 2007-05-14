@@ -16,12 +16,11 @@ Il peut placer le prévenu en détention provisoire jusqu'à sa comparution deva
 le tribunal. L'ordonnance prescrivant la détention est rendue suivant les
 modalités prévues par l'article 137-3, premier alinéa, et doit comporter
 l'énoncé des considérations de droit et de fait qui constituent le fondement de
-la décision par référence aux dispositions des 1°, 2° et 3° de l'article 144.
-Cette décision énonce les faits retenus et saisit le tribunal ; elle est
-notifiée verbalement au prévenu et mentionnée au procès-verbal dont copie lui
-est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus
-tard le troisième jour ouvrable suivant. A défaut, il est mis d'office en
-liberté.
+la décision par référence aux dispositions des 1° à 6° de l'article 144. Cette
+décision énonce les faits retenus et saisit le tribunal ; elle est notifiée
+verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise
+sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus tard le
+troisième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
 Si le juge estime que la détention provisoire n'est pas nécessaire, il peut
 soumettre le prévenu, jusqu'à sa comparution devant le tribunal, à une ou

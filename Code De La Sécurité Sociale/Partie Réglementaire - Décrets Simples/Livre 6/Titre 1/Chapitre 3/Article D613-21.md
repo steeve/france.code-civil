@@ -1,14 +1,13 @@
 Article D613-21
 ----
-En cas de vacance d'emploi par suite de décès, démission, licenciement ou pour
-toute autre cause, le conseil d'administration, sur proposition du directeur,
-procède à la désignation d'un agent comptable intérimaire. En cas d'urgence, le
-président du conseil d'administration peut procéder, sur proposition du
-directeur, à cette désignation, qui doit être ratifiée par le conseil
-d'administration à sa plus prochaine séance.
+Le montant de l'indemnité journalière est égal à 1/720 du revenu professionnel
+annuel moyen des trois dernières années civiles pris en compte pour le calcul de
+la cotisation visée à l'article D. 612-9 émise et échue à la date de la
+constatation médicale de l'incapacité de travail, dans la limite du plafond
+annuel mentionné à l'article L. 241-3 en vigueur à la date du constat médical.
 
-L'agent comptable intérimaire est installé dans les conditions de l'article D.
-613-18.
+Le montant de l'indemnité journalière ne peut être supérieur à 1/720 du plafond
+mentionné à l'article L. 241-3 en vigueur à la date du constat médical.
 
-La durée de cet intérim ne peut excéder six mois, sauf renouvellement d'égale
-durée dans les mêmes conditions.
+Le montant de l'indemnité journalière ne peut être inférieur à 1/720 de 40 p.
+100 du plafond mentionné à l'article L. 241-3.

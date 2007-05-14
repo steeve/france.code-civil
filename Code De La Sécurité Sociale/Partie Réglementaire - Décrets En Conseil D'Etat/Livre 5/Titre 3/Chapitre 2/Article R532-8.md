@@ -8,7 +8,7 @@ mentionnée à l'article L. 821-1 du présent code :
 
 a) Lors de l'ouverture du droit, si le total des ressources de la personne ou du
 ménage perçues au titre de l'année civile de référence et appréciées selon les
-dispositions de l'article R. 532-3 sont au plus égales à 812 fois le salaire
+dispositions de l'article R. 532-3 sont au plus égales à 1 015 fois le salaire
 minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
 
 b) Au premier renouvellement du droit, si les ressources lors de l'ouverture du
@@ -31,15 +31,15 @@ II. - L'évaluation forfaitaire correspond :
 a) S'il s'agit d'une personne exerçant une activité salariée à douze fois la
 rémunération mensuelle perçue par l'intéressé le mois civil précédant
 l'ouverture du droit ou le mois de mai précédant le renouvellement du droit,
-affectée des déductions prévues au deuxième alinéa du 3° de l'article 83 et au
-quatrième alinéa du 5 (a) de l'article 158 du code général des impôts ;
+affectée de la déduction prévue au deuxième alinéa du 3° de l'article 83 du code
+général des impôts ;
 
 b) S'il s'agit d'une personne exerçant une activité professionnelle non salariée
-à 1 200 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
+à 1 500 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
 qui précède l'ouverture ou le renouvellement du droit.
 
-Le montant des ressources ainsi déterminé est affecté des déductions et
-abattements prévus au premier alinéa de l'article R. 532-3.
+Le montant des ressources ainsi déterminé est affecté de la déduction et de
+l'abattement prévus aux a et b de l'article R. 532-3.
 
 III. - Par dérogation aux dispositions du a du II du présent article,
 l'évaluation forfaitaire peut être révisée en cours de période de paiement, à la

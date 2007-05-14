@@ -1,13 +1,20 @@
 Article R341-38
 ----
-Indépendamment de la procédure prévue à l'article R. 341-33, le directeur
-départemental du travail ou le fonctionnaire compétent fait connaître à chacune
-des personnes visées dans le procès-verbal ou la notice, par lettre recommandée
-avec demande d'avis de réception, que les dispositions de l'article L. 341-6-4
-lui sont applicables et qu'elle peut lui adresser des observations dans un délai
-de quinze jours.
+I. - L'agent comptable de l'Agence nationale de l'accueil des étrangers et des
+migrations peut requérir l'inscription du privilège même si les sommes dues font
+l'objet d'une contestation de la part du redevable. Mention de l'existence de la
+contestation est portée sur le bordereau mentionné à l'article R. 341-37 à la
+diligence, soit du directeur général de l'agence, soit du redevable sur
+production d'un certificat délivré par l'agence et établissant l'existence d'une
+réclamation. Cette mention fait l'objet d'une radiation effectuée dans les mêmes
+conditions.
 
-Dès réception de ces observations, et au plus tard à l'expiration du délai ainsi
-fixé, le fonctionnaire compétent, s'il n'est pas le directeur départemental du
-travail, les transmet à ce dernier avec le procès-verbal, accompagné de la
-notice, si elle a été établie, ainsi que de son avis.
+II. - Les radiations totales ou partielles sont faites sur présentation au
+greffier du certificat mentionné au troisième alinéa du I de l'article L.
+341-11. Le greffier mentionne en marge des inscriptions les radiations totales
+ou partielles.
+
+III. - Les certificats prévus aux I et II du présent article sont remis ou
+adressés au greffe en deux exemplaires, dont l'un est restitué ou renvoyé à
+titre de récépissé, après avoir été revêtu, dès réception, d'une mention
+indiquant la date d'accomplissement de la formalité requise.

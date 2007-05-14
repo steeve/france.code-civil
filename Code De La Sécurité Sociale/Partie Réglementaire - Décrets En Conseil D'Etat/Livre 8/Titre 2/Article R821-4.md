@@ -2,7 +2,9 @@ Article R821-4
 ----
 Sous réserve des dispositions des alinéas suivants, le revenu dont il est tenu
 compte pour l'application de la condition de ressources prévue à l'article L.
-821-3 est évalué selon les modalités fixées aux articles R. 532-3 à R. 532-7.
+821-3 est évalué selon les modalités fixées aux articles R. 532-3 à R. 532-7
+après application d'un coefficient de 0,8 au revenu déterminé par les règles de
+l'article R. 532-3.
 
 N'entrent pas en compte pour l'attribution de cette allocation les rentes
 viagères mentionnées aux 1° et 2° du I de l'article 199 septies du code général

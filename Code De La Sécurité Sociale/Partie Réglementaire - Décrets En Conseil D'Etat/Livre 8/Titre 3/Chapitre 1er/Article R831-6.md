@@ -9,7 +9,8 @@ revenus perçus hors de France ou versés par une organisation internationale et
 après :
 
 a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
-l'article 156 du code général des impôts ;
+l'article 156 du code général des impôts, et majorées dans les conditions
+prévues au 7 de l'article 158 du code général des impôts ;
 
 b) L'abattement mentionné à l'article 157 bis du code général des impôts pour
 les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur
@@ -17,10 +18,9 @@ les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur
 
 Sont également prises en considération :
 
-1° Après application des déductions correspondant à celles visées au deuxième
-alinéa du 3° de l'article 83 du code général des impôts et au quatrième alinéa
-du 5 (a) de l'article 158 du même code, l'indemnité journalière mentionnée au 2°
-de l'article L. 431-1 ;
+1° Après application de la déduction correspondant à celle visée au deuxième
+alinéa du 3° de l'article 83 du code général des impôts, l'indemnité journalière
+mentionnée au 2° de l'article L. 431-1 ;
 
 2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
 sur le revenu en application du 2° ter de l'article 81 du code général des

@@ -13,16 +13,8 @@ de délivrer un mandat d'arrêt contre le prévenu.
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement
 motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à
-sa comparution devant le tribunal. En cas de maintien en détention provisoire,
-les éléments de l'espèce expressément énoncés dans l'ordonnance doivent
-justifier cette mesure particulière par la nécessité d'empêcher une pression sur
-les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de
-protéger le prévenu ou de garantir son maintien à la disposition de la justice.
-La même ordonnance peut également être prise lorsque l'infraction, en raison de
-sa gravité, des circonstances de sa commission ou de l'importance du préjudice
-qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre
-public auquel le maintien en détention provisoire demeure l'unique moyen de
-mettre fin.
+sa comparution devant le tribunal. L'ordonnance de maintien en détention
+provisoire est motivée par référence aux 2°, 4°, 5° et 6° de l'article 144.
 
 Le prévenu en détention est immédiatement remis en liberté si le tribunal
 correctionnel n'a pas commencé à examiner au fond à l'expiration d'un délai de

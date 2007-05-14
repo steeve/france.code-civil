@@ -9,7 +9,7 @@ l'article L. 821-1 du code de la sécurité sociale :
 a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et,
 le cas échéant, de son conjoint, perçues au titre de l'année civile de référence
 et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à
-812 fois le salaire minimum de croissance horaire en vigueur au 31 décembre de
+1 015 fois le salaire minimum de croissance horaire en vigueur au 31 décembre de
 ladite année ;
 
 b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du
@@ -29,11 +29,11 @@ renouvellement du droit.
 II. - L'évaluation forfaitaire correspond soit à 12 fois la rémunération
 mensuelle perçue par l'intéressé le mois civil qui précède l'ouverture du droit
 ou le mois de mai précédant le renouvellement du droit, affectée des déductions
-prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a)
-de l'article 158 du code général des impôts, soit, s'il s'agit d'une personne
-exerçant une activité professionnelle en qualité d'employeur ou de travailleur
-indépendant, à 1 200 fois le salaire minimum de croissance horaire en vigueur au
-1er janvier qui précède l'ouverture ou le renouvellement du droit.
+prévues au deuxième alinéa du 3° de l'article 83 et au 5 (a) de l'article 158 du
+code général des impôts, soit, s'il s'agit d'une personne exerçant une activité
+professionnelle en qualité d'employeur ou de travailleur indépendant, à 1 500
+fois le salaire minimum de croissance horaire en vigueur au 1er janvier qui
+précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
 abattements fixés par le II de l'article R. 351-5.

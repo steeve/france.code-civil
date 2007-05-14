@@ -9,7 +9,8 @@ ainsi que les revenus perçus hors de France ou versés par une organisation
 internationale et après :
 
 a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
-l'article 156 du code général des impôts ;
+l'article 156 du code général des impôts et majorées dans les conditions prévues
+au 7 de l'article 158 du code général des impôts ;
 
 b) L'abattement mentionné à l'article 157 bis du code général des impôts pour
 les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur âge
@@ -17,10 +18,9 @@ les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur â
 
 Sont également prises en considération :
 
-1° Après application des déductions correspondant à celles visées au deuxième
-alinéa du 3° de l'article 83 du code général des impôts et au quatrième alinéa
-du a du 5 de l'article 158 du même code, l'indemnité journalière mentionnée au
-2° de l'article L. 431-1 du présent code ;
+1° Après application de la déduction correspondant à celle mentionnée au
+deuxième alinéa du 3° de l'article 83 du code général des impôts, l'indemnité
+journalière mentionnée au 2° de l'article L. 431-1 du présent code ;
 
 2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
 sur le revenu en application du 2° ter de l'article 81 du code général des
@@ -53,7 +53,7 @@ de revenus au cours de l'année civile de référence et que chacun des deux
 revenus correspondants a été au moins égal à douze fois la base mensuelle de
 calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
-Cet abattement est fixé à 76 euros.
+Cet abattement est fixé à 95 euros.
 
 Un abattement est opéré sur les ressources de la personne seule qui assume la
 charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
@@ -62,10 +62,10 @@ l'article D. 542-5.
 
 Cet abattement est fixé à :
 
-721 euros pour les personnes seules assumant la charge d'un ou de deux enfants
+901 euros pour les personnes seules assumant la charge d'un ou de deux enfants
 ou personnes au sens de l'article L. 542-1 ;
 
-1 080 euros pour les personnes seules assumant la charge d'au moins trois
+1 350 euros pour les personnes seules assumant la charge d'au moins trois
 enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
@@ -83,7 +83,7 @@ majoration fixée par le même arrêté.
 En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
 au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
 déterminées en application des alinéas précédents et des articles R. 532-8 et D.
-542-11 sont inférieures à un montant égal à treize fois la mensualité de charges
+542-11 sont inférieures à un montant égal à 16,25 fois la mensualité de charges
 de prêt déclarées par l'allocataire, les ressources du bénéficiaire et de son
 conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer
 les dispositions des articles R. 532-4 à R. 532-7.
@@ -91,7 +91,7 @@ les dispositions des articles R. 532-4 à R. 532-7.
 A compter du 1er octobre 1994, pour les contrats de prêts signés postérieurement
 au 30 septembre 1994, si les ressources du bénéficiaire et de son conjoint
 appréciées au sens des alinéas 1 à 9 du présent article et des articles R. 532-8
-et D. 542-11 sont inférieures à un montant égal à treize fois la mensualité de
+et D. 542-11 sont inférieures à un montant égal à 16,25 fois la mensualité de
 charges de prêt déclarées par l'allocataire lorsque l'allocation est accordée en
 application du 1°, 3° ou 4° de l'article D. 542-24, celles-ci sont réputées
 égales à ce montant, sauf lorsque, postérieurement à la date de signature du
@@ -111,9 +111,9 @@ Le montant forfaitaire visé à l'alinéa précédent est fixé par arrêté con
 des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
 logement.
 
-Les dispositions des onzième, douzième et treizième alinéas ne s'appliquent pas
-lorsque postérieurement à la date de signature du prêt et pendant la période
-d'accession en cours le bénéficiaire ou son conjoint se trouve dans l'obligation
-de cesser son activité professionnelle et est admis au bénéfice d'une pension
-d'invalidité, d'une rente d'accident du travail, de l'allocation aux adultes
-handicapés ou de l'allocation compensatrice.
+Les dispositions des dix-septième, dix-huitième et dix-neuvième alinéas ne
+s'appliquent pas lorsque postérieurement à la date de signature du prêt et
+pendant la période d'accession en cours le bénéficiaire ou son conjoint se
+trouve dans l'obligation de cesser son activité professionnelle et est admis au
+bénéfice d'une pension d'invalidité, d'une rente d'accident du travail, de
+l'allocation aux adultes handicapés ou de l'allocation compensatrice.
