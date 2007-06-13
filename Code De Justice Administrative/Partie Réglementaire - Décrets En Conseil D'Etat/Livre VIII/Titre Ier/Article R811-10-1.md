@@ -24,7 +24,11 @@ fonds ;
 
 8° Police des débits de boisson ;
 
-9° Hospitalisation sous contrainte.
+9° Hospitalisation sous contrainte ;
+
+10° Mise en demeure de quitter les lieux en application de l'article 9 de la loi
+n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du
+voyage.
 
 Les dispositions du présent article ne sont pas applicables dans la collectivité
 départementale de Mayotte.
