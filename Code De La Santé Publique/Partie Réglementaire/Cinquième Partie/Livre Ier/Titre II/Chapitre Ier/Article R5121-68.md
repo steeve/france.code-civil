@@ -23,4 +23,33 @@ produit mentionné au 1° ci-dessus ;
 
 4° Lorsque la demande d'autorisation de mise sur le marché n'est pas déposée,
 une lettre du demandeur de l'autorisation temporaire s'engageant à déposer une
-telle demande et indiquant le délai dans lequel il compte y procéder.
+telle demande et indiquant le délai dans lequel il compte y procéder ;
+
+5° Lorsque la demande porte sur un médicament autorisé dans un Etat membre de la
+Communauté européenne ou partie à l'accord sur l'Espace économique européen ou
+dans un Etat tiers, la copie de l'autorisation de mise sur le marché et le
+résumé des caractéristiques du produit, ainsi que le dernier rapport périodique
+actualisé de pharmacovigilance ou les documents équivalents ;
+
+6° Le cas échéant, une copie de la désignation du médicament comme médicament
+orphelin en application du règlement (CE) n° 141/2000 du Parlement européen et
+du Conseil du 16 décembre 1999 ;
+
+7° Toute information relative à une utilisation à titre exceptionnel et précoce
+dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen ou dans un pays tiers ;
+
+8° Le cas échéant, la copie de tout avis scientifique rendu par l'Agence
+française de sécurité sanitaire des produits de santé, par l'Agence européenne
+des médicaments ou par l'autorité compétente d'un autre Etat membre de la
+Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+
+9° Le projet de protocole d'utilisation thérapeutique et de recueil
+d'informations défini à l'article R. 5121-69 ;
+
+10° Les motifs de la demande au regard des conditions énoncées au premier alinéa
+de l'article L. 5121-12, ainsi qu'une estimation du nombre de patients
+susceptibles d'être traités par ce médicament.
+
+Le modèle-type de demande d'autorisation est fixé par arrêté du ministre chargé
+de la santé, sur proposition du directeur général de l'agence.

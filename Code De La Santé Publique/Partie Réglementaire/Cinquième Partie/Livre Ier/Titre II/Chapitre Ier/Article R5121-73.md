@@ -24,3 +24,7 @@ e) La durée de l'autorisation ;
 
 3° Est accompagnée, le cas échéant, d'informations complémentaires relatives à
 l'utilisation du médicament.
+
+Ces médicaments sont délivrés par le pharmacien gérant la pharmacie à usage
+intérieur d'un établissement de santé ou par le responsable mentionné à
+l'article L. 5126-6.

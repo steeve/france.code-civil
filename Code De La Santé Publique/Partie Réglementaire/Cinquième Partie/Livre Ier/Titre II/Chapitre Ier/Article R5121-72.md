@@ -14,7 +14,10 @@ et sa forme pharmaceutique et son dosage ;
 alinéa de l'article R. 5121-36 ;
 
 4° Est accompagnée du résumé des caractéristiques du produit, de l'étiquetage et
-de la notice ainsi que, le cas échéant, du protocole d'utilisation, mentionnés
-aux articles R. 5121-68 et R. 5121-69, tels qu'ils ont été approuvés par le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+de la notice ainsi que du protocole d'utilisation, mentionnés aux articles R.
+5121-68 et R. 5121-69, tels qu'ils ont été approuvés par le directeur général de
+l'Agence française de sécurité sanitaire des produits de santé.
+
+Ces médicaments sont délivrés par le pharmacien gérant la pharmacie à usage
+intérieur d'un établissement de santé ou par le responsable mentionné à
+l'article L. 5126-6.

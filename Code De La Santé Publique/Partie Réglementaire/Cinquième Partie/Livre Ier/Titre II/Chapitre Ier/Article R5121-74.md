@@ -9,4 +9,7 @@ cours de la période d'autorisation précédente sur le médicament en cause et 
 conséquences de son utilisation. Pour les médicaments mentionnés au a de
 l'article L. 5121-12, le titulaire des droits d'exploitation indique les
 quantités délivrées pendant cette même période et joint les rapports mentionnés
-au deuxième alinéa de l'article R. 5121-173.
+à l'article R. 5121-173. Pour les médicaments mentionnés au b de l'article L.
+5121-12, le prescripteur doit fournir toute information relative à l'efficacité
+et à la tolérance du médicament concernant le patient pour lequel cette
+autorisation a été délivrée permettant de justifier la poursuite du traitement.
