@@ -18,3 +18,8 @@ La sous-commission des salaires est assistée dans ses travaux par un expert
 nommé, sur proposition de l'union nationale des associations familiales, par le
 ministre chargé du travail qui nomme, en outre, dans les mêmes conditions, deux
 autres experts appelés à le suppléer éventuellement.
+
+La sous-commission des salaires constitue un comité chargé de faire un examen de
+la situation de la négociation salariale de branche et de préparer un rapport
+examiné par la sous-commission en vue de la réalisation du bilan annuel
+mentionné au 7° de l'article L. 136-2.
