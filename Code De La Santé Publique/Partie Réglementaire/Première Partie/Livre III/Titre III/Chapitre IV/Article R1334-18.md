@@ -4,21 +4,20 @@ Les mesures de l'empoussièrement sont réalisées selon des modalités définie
 arrêté des ministres chargés de la construction, de l'environnement, du travail
 et de la santé. Ces mesures sont effectuées par des organismes agréés selon des
 modalités et conditions définies par arrêté du ministre chargé de la santé, pris
-après avis du Conseil supérieur d'hygiène publique de France, en fonction de la
-qualification des personnels de l'organisme, de la nature des matériels dont il
-dispose et des résultats des évaluations auxquelles il est soumis. L'agrément
-est accordé par arrêté du ministre chargé de la santé. Cet arrêté peut limiter
-l'agrément aux seules opérations de prélèvement ou de comptage. Les organismes
-agréés adressent au ministre chargé de la santé un rapport d'activité sur
-l'année écoulée dont les modalités et le contenu sont définis par arrêté du
-ministre chargé de la santé.
+après avis de l'Agence française de sécurité sanitaire de l'environnement et du
+travail, en fonction de la qualification des personnels de l'organisme, de la
+nature des matériels dont il dispose et des résultats des évaluations auxquelles
+il est soumis. L'agrément est accordé par arrêté du ministre chargé de la santé.
+Cet arrêté peut limiter l'agrément aux seules opérations de prélèvement ou de
+comptage. Les organismes agréés adressent au ministre chargé de la santé un
+rapport d'activité sur l'année écoulée dont les modalités et le contenu sont
+définis par arrêté du ministre chargé de la santé.
 
 Les analyses de matériaux et produits prévues aux articles R. 1334-15, R.
 1334-26 et R. 1334-27 sont réalisées par un organisme accrédité répondant aux
-exigences définies par un arrêté du ministre chargé de la santé, pris après avis
-du Conseil supérieur d'hygiène publique de France, précisant notamment les
-méthodes qui doivent être mises en oeuvre pour vérifier la présence d'amiante
-dans le matériau ou le produit.
+exigences définies par un arrêté du ministre chargé de la santé précisant
+notamment les méthodes qui doivent être mises en oeuvre pour vérifier la
+présence d'amiante dans le matériau ou le produit.
 
 Si le niveau d'empoussièrement est inférieur ou égal à la valeur de 5 fibres par
 litre, les propriétaires procèdent à un contrôle périodique de l'état de

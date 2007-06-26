@@ -3,7 +3,8 @@ Article R2213-25
 Sauf dans les cas prévus à l'article R. 2213-26, le corps est placé dans un
 cercueil en bois d'au moins 22 millimètres d'épaisseur avec une garniture
 étanche fabriquée dans un matériau biodégradable agréé par le ministre de la
-santé après avis du Conseil supérieur d'hygiène publique de France.
+santé après avis de l'Agence française de sécurité sanitaire de l'environnement
+et du travail.
 
 Toutefois, un cercueil d'une épaisseur minimale de 18 millimètres après
 finition, avec garniture étanche fabriquée dans un matériau biodégradable agréé
@@ -16,5 +17,5 @@ composés exclusivement de matériaux combustibles ou sublimables et il ne peut 
 charbon pulvérisé.
 
 Les cercueils peuvent également être fabriqués dans un matériau ayant fait
-l'objet d'un agrément par le ministre chargé de la santé, après avis du Conseil
-supérieur d'hygiène publique de France.
+l'objet d'un agrément par le ministre chargé de la santé, après avis de l'Agence
+française de sécurité sanitaire de l'environnement et du travail.
