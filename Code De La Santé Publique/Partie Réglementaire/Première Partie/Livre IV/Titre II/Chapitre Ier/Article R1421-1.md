@@ -89,3 +89,7 @@ hospitalières ou de santé publique ;
 12° Elle participe à la définition de la position française lors de l'examen des
 questions de santé publique et de sécurité sanitaire au sein des instances
 européennes et internationales.
+
+La direction générale de la santé est dirigée par un directeur général, assisté,
+pour l'ensemble de ses attributions, par un directeur portant le titre de
+directeur général adjoint.
