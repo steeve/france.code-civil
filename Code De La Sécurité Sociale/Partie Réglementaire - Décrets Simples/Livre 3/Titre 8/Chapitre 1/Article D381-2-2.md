@@ -12,8 +12,8 @@ justificatifs suivants :
 1° Une déclaration sur l'honneur de son lien familial avec la personne aidée,
 tel qu'énoncé à l'article L. 381-1 ;
 
-2° L'un des justificatifs mentionnés aux 2° et 3° de l'article D. 225-4 du code
-du travail ;
+2° L'un des justificatifs mentionnés aux 2°, 3° et 4° de l'article D. 225-4 du
+code du travail ;
 
 3° Le ou les justificatifs requis pour la catégorie professionelle concernée :
 
