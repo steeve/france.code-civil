@@ -1,8 +1,8 @@
 Article R831-7
 ----
 Ne sont prises en compte que pour la fraction dépassant le plafond individuel
-prévu à l'article L. 815-8 les ressources de chacune des personnes mentionnées,
-qui sont :
+prévu à l'article L. 815-9 et multiplié par 1,25, les ressources de chacune des
+personnes mentionnées, qui sont :
 
 1°) ascendants de l'allocataire ou de son conjoint âgés d'au moins soixante-cinq
 ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
