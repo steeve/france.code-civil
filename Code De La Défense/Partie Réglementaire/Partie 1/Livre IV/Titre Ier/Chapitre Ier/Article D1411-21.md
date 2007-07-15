@@ -1,5 +1,7 @@
 Article D1411-21
 ----
-Les moyens affectés à l'inspecteur des armements nucléaires sont fixés par un
-arrêté du ministre de la défense, après accord du ministre chargé de l'industrie
-pour ceux d'entre eux provenant du Commissariat à l'énergie atomique.
+L'inspecteur des armements nucléaires rend compte de ses activités au Président
+de la République et en tient informé le Premier ministre.
+
+Il en informe également, dans le domaine de leurs compétences respectives, le
+ministre de la défense et le ministre chargé de l'industrie.

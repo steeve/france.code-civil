@@ -1,6 +1,7 @@
 Article D1411-18
 ----
-L'inspecteur des armements nucléaires est consulté lors de la définition des
-systèmes et procédures de contrôle gouvernemental. Il est habilité à formuler
-son avis sur la validité des dispositions ou mesures prises et à proposer les
-modifications qu'il lui apparaîtrait nécessaire d'y apporter.
+La sûreté nucléaire participe à la crédibilité et à la pérennité de la
+dissuasion. A cet égard, l'inspecteur des armements nucléaires s'assure de la
+cohérence des mesures prises dans ce domaine au regard des exigences de la
+dissuasion, notamment auprès du délégué à la sûreté nucléaire et à la
+radioprotection pour les activités et installations intéressant la défense.

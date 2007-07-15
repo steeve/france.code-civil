@@ -1,10 +1,8 @@
 Article D1411-16
 ----
-En matière de contrôle gouvernemental de l'engagement et de l'emploi des forces
-nucléaires, l'inspecteur des armements nucléaires a seul pouvoir d'inspection
-direct et permanent, les inspecteurs généraux des armées n'ayant aucune
-responsabilité dans ces domaines.
-
-Ce pouvoir s'applique non seulement au respect de l'organisation et des
-procédures de contrôle, mais également au fonctionnement des dispositifs
-techniques et des liaisons nécessaires à ce contrôle.
+En matière de contrôle gouvernemental de l'engagement et de la conformité de
+l'emploi des forces nucléaires, l'inspecteur des armements nucléaires a, seul,
+pouvoir d'inspection direct et permanent. Ce pouvoir s'applique à l'organisation
+et aux procédures de contrôle, aux dispositifs techniques et aux liaisons
+nécessaires à ce contrôle, ainsi qu'à tout ce qui concourt à la disponibilité
+des moyens.
