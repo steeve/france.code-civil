@@ -1,6 +1,6 @@
 Article R1211-38
 ----
-La Commission nationale de biovigilance est composée de :
+La commission est composée de :
 
 1° Quatre membres de droit :
 
@@ -12,27 +12,26 @@ représentant ;
 c) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;
 
-d) Le directeur général de l'Etablissement français des greffes ou son
-représentant ;
+d) Le directeur général de l'Agence de la biomédecine ou son représentant ;
 
-2° Vingt-trois membres nommés par le ministre chargé de la santé pour une durée
+2° Vingt-quatre membres nommés par le ministre chargé de la santé pour une durée
 de trois ans renouvelable :
 
-a) Un expert de l'Etablissement français du sang, sur proposition du président
-de l'Etablissement français du sang ;
+a) Un expert de l'Etablissement français du sang, sur proposition de son
+président ;
 
 b) Six cliniciens dont un généraliste et, sur proposition du ministre de la
-défense, un médecin des armées ;
+défense, un praticien du service de santé des armées ;
 
 c) Quatre personnes en raison de leurs compétences dans le domaine de la
-conservation, de la transformation, de la distribution et de la cession des
-tissus ou des cellules ou des produits de thérapie cellulaire ;
+conservation, de la préparation, de la distribution et de la cession des tissus
+ou des préparations de thérapie cellulaire ;
 
 d) Deux personnes en raison de leurs compétences dans le domaine des
 prélèvements, dont un infirmier relevant de la fonction publique hospitalière et
 exerçant une activité de coordination hospitalière dans le domaine du
-prélèvement et de la greffe, sur proposition du directeur général de
-l'Etablissement français des greffes ;
+prélèvement et de la greffe, sur proposition du directeur général de l'Agence de
+la biomédecine ;
 
 e) Un pharmacien hospitalier ;
 
@@ -48,14 +47,20 @@ proposition du directeur général de l'Institut de la veille sanitaire ;
 i) Deux personnes exerçant les fonctions de correspondant local de biovigilance
 ;
 
-j) Un médecin ou un pharmacien inspecteur de santé publique.
+j) Un médecin ou un pharmacien inspecteur de santé publique ;
+
+k) Une personne représentant les associations d'usagers du système de santé
+ayant fait l'objet d'un agrément au niveau national en application de l'article
+L. 1114-1. Celle-ci participe aux réunions de la commission avec voix
+consultative.
 
 A l'exception des personnes proposées par le ministre chargé de la défense, par
 le président de l'Etablissement français du sang, par le directeur général de
-l'Etablissement français des greffes et par le directeur général de l'Institut
-de la veille sanitaire, les membres mentionnés au 2° sont nommés sur proposition
-du directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+l'Agence de la biomédecine et par le directeur général de l'Institut de la
+veille sanitaire, ainsi que de la personne représentant les associations
+d'usagers du système de santé, les membres mentionnés au 2° sont nommés sur
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé.
 
 Des suppléants en nombre égal sont désignés dans les mêmes conditions que les
 membres titulaires et remplacent ces derniers en cas d'empêchement. Ils leur
@@ -64,4 +69,6 @@ restant à courir.
 
 Le président et le vice-président sont nommés par le ministre chargé de la santé
 parmi les membres mentionnés au 2°. Le vice-président supplée le président en
-cas d'empêchement.
+cas d'empêchement. En cas d'absence du président et du vice-président, le
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé désigne un président de séance.

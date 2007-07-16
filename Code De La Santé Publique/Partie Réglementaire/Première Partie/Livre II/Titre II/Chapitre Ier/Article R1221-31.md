@@ -14,3 +14,14 @@ vigueur applicable aux fonctionnaires de l'Etat.
 
 Le secrétariat de la Commission nationale d'hémovigilance est assuré par
 l'Agence française de sécurité sanitaire des produits de santé.
+
+Le règlement intérieur fixe les règles de fonctionnement de la commission,
+notamment les règles relatives aux délais de convocation, les règles de vote et
+de quorum ainsi que celles relatives à l'établissement des comptes rendus des
+réunions.
+
+En application des dispositions du second alinéa de l'article 5 du décret n°
+2006-672 du 8 juin 2006 relatif à la création, à la composition et au
+fonctionnement de commissions administratives à caractère consultatif, la
+commission est réunie sur convocation du directeur général de l'Agence française
+de sécurité sanitaire des produits de santé qui fixe l'ordre du jour.

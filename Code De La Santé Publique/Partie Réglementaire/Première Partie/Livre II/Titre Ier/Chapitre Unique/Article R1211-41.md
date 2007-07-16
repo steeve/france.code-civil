@@ -11,4 +11,4 @@ professions.
 Dès sa nomination, l'identité, la qualité et l'expérience du correspondant local
 sont communiquées par le responsable de l'organisme ou de la structure dans
 lequel le correspondant exerce ses fonctions à l'Agence française de sécurité
-sanitaire des produits de santé et à l'Etablissement français des greffes.
+sanitaire des produits de santé et à l'Agence de la biomédecine.

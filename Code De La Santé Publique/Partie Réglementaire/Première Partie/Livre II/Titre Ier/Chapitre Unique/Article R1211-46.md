@@ -1,19 +1,17 @@
 Article R1211-46
 ----
-Les professionnels de santé mentionnés au 8° de l'article R. 1211-32 exerçant
+Tout professionnel mentionné au 8° et au 9° de l'article R. 1211-32 exerçant
 dans un établissement ou une structure disposant d'un correspondant local de
-biovigilance qui ont connaissance de la survenue chez un patient, un donneur
-vivant ou un receveur d'un incident ou d'un effet indésirable lié à un produit
-mentionné à l'article R. 1211-29 le signalent sans délai à ce correspondant. En
-l'absence du correspondant local ou en cas d'urgence, ces professionnels
-déclarent sans délai ces incidents ou effets indésirables à l'Agence française
-de sécurité sanitaire des produits de santé et en informent l'Etablissement
-français des greffes.
+biovigilance et qui a connaissance de la survenue d'un incident ou d'un effet
+indésirable lié ou susceptible d'être lié à un produit ou une activité
+mentionnés aux articles R. 1211-29 et R. 1211-30 le signale sans délai à ce
+correspondant. En cas d'empêchement du correspondant ou en cas d'urgence, le
+professionnel de santé déclare sans délai ces incidents ou effets indésirables à
+l'Agence française de sécurité sanitaire des produits de santé et en informe
+l'Agence de la biomédecine.
 
-Les autres professionnels de santé mentionnés au 8° de l'article R. 1211-32
-déclarent sans délai ces incidents ou effets indésirables à l'Agence française
-de sécurité sanitaire des produits de santé, et en informent l'Etablissement
-français des greffes.
-
-Les déclarations sont effectuées selon un modèle fixé par décision du directeur
-général de l'agence.
+Tout autre professionnel mentionné au 8° de l'article R. 1211-32 qui a
+connaissance de la survenue d'un incident ou d'un effet indésirable lié ou
+susceptible d'être lié à un produit ou une activité mentionnés aux articles R.
+1211-29 et R. 1211-30 le déclare sans délai à l'Agence française de sécurité
+sanitaire des produits de santé et en informe l'Agence de la biomédecine.

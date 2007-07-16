@@ -5,7 +5,8 @@ l'article R. 1211-32 doivent assurer la biovigilance dans leur champ de
 compétence respectif et désignent à cet effet un correspondant local de
 biovigilance.
 
-Il est désigné un correspondant local par établissement de transfusion sanguine.
+Il est désigné un correspondant local par établissement de transfusion sanguine
+sur proposition de la personne responsable.
 
 Lorsqu'un établissement ou une structure mentionné aux 5°, 6° ou 7° de l'article
 R. 1211-32 autre que les établissements de transfusion sanguine exerce plusieurs
