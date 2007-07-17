@@ -13,7 +13,7 @@ Bordeaux : cinq chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : huit chambres ;
+Cergy-Pontoise : dix chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -31,7 +31,7 @@ Lyon : sept chambres ;
 
 Marseille : huit chambres ;
 
-Melun : six chambres ;
+Melun : sept chambres ;
 
 Montpellier : sept chambres ;
 
@@ -57,6 +57,6 @@ Strasbourg : cinq chambres ;
 
 Toulouse : cinq chambres ;
 
-Versailles : neuf chambres ;
+Versailles : dix chambres ;
 
 Saint-Denis : deux chambres.
