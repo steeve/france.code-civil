@@ -5,8 +5,10 @@ agricole sont chargées, en ce qui concerne les personnes mentionnées à l'arti
 L. 752-1 dont l'exploitation ou l'entreprise a son siège dans leur
 circonscription, de :
 
-1° Certifier au groupement mentionné à l'article L. 752-14 l'immatriculation de
-ces personnes auprès du régime de protection sociale des non-salariés agricoles.
+1° Certifier au groupement mentionné à l'article L. 752-14 l'immatriculation des
+personnes mentionnées au I de l'article L. 752-1 auprès du régime de protection
+sociale des non-salariés agricoles ainsi que l'immatriculation en qualité de
+cotisant de solidarité des personnes mentionnées au II de l'article L. 752-1.
 Les modalités de cette certification sont précisées par la convention prévue au
 troisième alinéa de l'article L. 752-14 ;
 

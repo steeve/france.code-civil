@@ -6,6 +6,9 @@ victime. Elle évalue, compte tenu du montant du gain forfaitaire annuel
 mentionné à l'article L. 752-5, le montant de la rente qui serait due à la
 victime sur la base de ces propositions.
 
+Pour les assurés mentionnés au II de l'article L. 752-1, le gain forfaitaire
+annuel est celui fixé au troisième alinéa de l'article D. 752-26.
+
 La caisse de mutualité sociale agricole ou le groupement notifie immédiatement à
 la victime les propositions relatives au taux d'incapacité et lui communique,
 pour information, le montant de la rente correspondante.

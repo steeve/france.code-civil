@@ -10,6 +10,9 @@ deuxième alinéa de l'article R. 434-16 du code de la sécurité sociale est
 substituée la fraction de gain forfaitaire annuel mentionné à l'article L. 752-5
 du présent code ;
 
+Pour les assurés mentionnés au II de l'article L. 752-1, le gain forfaitaire
+annuel est celui fixé au troisième alinéa de l'article D. 752-26 ;
+
 2° Les caisses de mutualité sociale agricole ou le groupement mentionné à
 l'article L. 752-14 du présent code exercent les fonctions dévolues aux caisses
 primaires d'assurance maladie ;

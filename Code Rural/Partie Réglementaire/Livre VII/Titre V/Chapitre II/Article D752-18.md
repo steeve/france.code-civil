@@ -9,5 +9,6 @@ constatées antérieurement au changement d'organisme assureur.
 
 Lorsqu'un litige portant sur le caractère professionnel de l'accident ou de la
 maladie est en cours, le nouvel organisme assureur choisi par le chef
-d'exploitation ou d'entreprise agricole en application de l'article L. 752-13
-n'assure le service des prestations qu'à l'issue de la décision définitive.
+d'exploitation ou d'entreprise agricole ou par l'assuré mentionné au II de
+l'article L. 752-1 en application de l'article L. 752-13 n'assure le service des
+prestations qu'à l'issue de la décision définitive.

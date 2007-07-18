@@ -1,10 +1,10 @@
 Article D752-61
 ----
-Les cotisations dues par les personnes mentionnées à l'article L. 752-16 au
-titre du régime défini au présent chapitre sont recouvrées par les caisses de
-mutualité sociale agricole et par le groupement et au choix des caisses et du
-groupement par appels fractionnés ou par appel unique, auprès de leurs assurés
-respectifs.
+Les cotisations dues par les personnes mentionnées au 1° et au 2° de l'article
+L. 752-16 au titre du régime défini au présent chapitre sont recouvrées par les
+caisses de mutualité sociale agricole et par le groupement et au choix des
+caisses et du groupement par appels fractionnés ou par appel unique, auprès de
+leurs assurés respectifs.
 
 Pour les appels fractionnés, les dates d'exigibilité et la fraction des
 cotisations dues au titre de l'année en cours sont celles retenues pour l'appel

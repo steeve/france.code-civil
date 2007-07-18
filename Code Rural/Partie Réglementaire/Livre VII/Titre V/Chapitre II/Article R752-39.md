@@ -1,9 +1,9 @@
 Article R752-39
 ----
 Pour l'application de l'article L. 752-14, les organismes assureurs sont
-autorisés à participer à la gestion de l'assurance contre les accidents du
-travail et les maladies professionnelles des non-salariés agricoles par arrêté
-du ministre chargé de l'agriculture. Cette autorisation est subordonnée à :
+autorisés à participer à la gestion de l'assurance prévue au présent chapitre
+par arrêté du ministre chargé de l'agriculture. Cette autorisation est
+subordonnée à :
 
 1° La détention de l'agrément du ministre chargé de l'économie et des finances
 mentionné aux articles L. 321-1, L. 321-7 et L. 321-9 du code des assurances, ou
