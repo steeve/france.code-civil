@@ -1,38 +1,47 @@
 Article Tableau n° 36
 ----
-Affections professionnelles provoquées par les bois
+Affections professionnelles provoquées par les poussières de bois
 
 
 DÉSIGNATION DES MALADIES
 
 DÉLAI DE PRISE en charge
 
-TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-A. - Dermites érythématheuses, conjonctivites, rhinites.
+LISTE LIMITATIVE DES TRAVAUX
+
+susceptibles de provoquer ces maladies
+
+A. - Affections cutanéo-muqueuses d'origine irritative :
+
+- dermatite irritative ;
+
+- rhinite ;
+
+- conjonctivite.
 
 7 jours
 
-Manipulation, traitement et usinage des bois et tous travaux exposant aux
+A. - Manipulation, traitement et usinage des bois et tous travaux exposant aux
 poussières de bois.
 
-Lésions eczématiformes (cf. tableau 44)
+B. - Affections d'origine allergique :
 
-(cf. tableau 44)
+- cutanéo-muqueuse (cf tableau 44) ;
 
-B. - Affections respiratoires professionnelles de mécanisme allergique (cf.
-tableau 45 A, B, C).
+- respiratoire (cf tableau 45 A, B, C).
 
-Délais correspondant aux A, B et C du tableau 45.
+Délais correspondant aux tableaux 44 et 45.
 
-Manipulation, traitement et usinage des bois et tous travaux exposant aux
+B. - Manipulation, traitement et usinage des bois et tous travaux exposant aux
 poussières de bois.
 
-C. - Cancer primitif de l'ethmoïde et des sinus de la face.
+C. - Cancer primitif des fosses nasales, de l'ethmoïde et des sinus de la face
+(sinus maxillaire, frontal, sphénoïdal et sinus accessoire).
 
-30 ans
+40 ans
 
-Travaux exposant à l'inhalation des poussières de bois, notamment :
+C. - Travaux exposant à l'inhalation des poussières de bois, notamment :
 
 - travaux d'usinage des bois tels que sciage, fraisage, rabotage, perçage et
 ponçage ;
