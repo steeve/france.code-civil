@@ -16,19 +16,24 @@ d'assurance en autant d'exemplaires qu'il est prévu par le contrat.
 
 Le document justificatif doit mentionner :
 
-- la dénomination et l'adresse de l'entreprise d'assurance ;
+a) la dénomination et l'adresse de l'entreprise d'assurance ;
 
-- les nom, prénoms et adresse du souscripteur du contrat ;
+b) les nom, prénoms et adresse du souscripteur du contrat ;
 
-- le numéro de la police d'assurance ;
+c) le numéro de la police d'assurance ;
 
-- la période d'assurance correspondant à la prime ou portion de prime payée.
+d) la période d'assurance correspondant à la prime ou portion de prime payée ;
 
-En outre, il doit préciser :
+e) les caractéristiques du véhicule, notamment son numéro d'immatriculation ou,
+à défaut, et, s'il y a lieu, le numéro du moteur.
 
-- dans le cas prévu au premier alinéa du présent article, les caractéristiques
-du véhicule, notamment son numéro d'immatriculation ou, à défaut et s'il y a
-lieu, le numéro du moteur ;
+Par dérogation aux dispositions ci-dessus, le document justificatif délivré aux
+professionnels de la réparation, de la vente ou du contrôle de l'automobile, ne
+comporte pas les indications prévues au e. Il mentionne par ailleurs la
+profession du souscripteur et, en termes apparents, le mot : " Garage ".
 
-- dans le cas prévu au troisième alinéa du présent article, la profession du
-souscripteur.
+Tout conducteur d'un véhicule qui présente aux autorités chargées du contrôle le
+document justificatif comportant les mentions précisées à l'alinéa précédent
+doit en outre être en mesure de justifier que la conduite du véhicule lui a été
+confiée par une des personnes mentionnées au premier alinéa de l'article R.
+211-3.

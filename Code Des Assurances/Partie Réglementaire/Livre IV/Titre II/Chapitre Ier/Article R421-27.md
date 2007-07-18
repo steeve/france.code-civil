@@ -6,8 +6,8 @@ les conditions suivantes :
 
 1° La contribution des entreprises d'assurances au titre de la section
 "Opérations du fonds de garantie résultant de la défaillance d'entreprises
-d'assurance dommages" prévue à l'article R. 421-9 est proportionnelle aux primes
-ou cotisations du dernier exercice, accessoires et rappels compris et
+d'assurance dommages" prévue à l'article R. 421-24-8 est proportionnelle aux
+primes ou cotisations du dernier exercice, accessoires et rappels compris et
 annulations déduites, relatives aux contrats dont la souscription est rendue
 obligatoire, à l'exception des garanties relatives à la responsabilité du
 transporteur maritime, fluvial et aérien, y compris ceux souscrits en

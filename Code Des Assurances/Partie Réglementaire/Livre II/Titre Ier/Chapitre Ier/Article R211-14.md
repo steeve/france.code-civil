@@ -27,7 +27,3 @@ présenté ce document avant l'expiration de ce délai.
 
 Les documents justificatifs prévus au présent article n'impliquent pas une
 obligation de garantie à la charge de l'assureur.
-
-Les dispositions du présent article ne sont pas applicables aux conducteurs de
-véhicules ayant leur stationnement habituel au sens de l'article L. 211-4 sur le
-territoire d'un Etat, autre que la France et Monaco, visé au même article.

@@ -1,9 +1,10 @@
 Article R211-3
 ----
-Les professionnels de la réparation, de la vente et du contrôle de l'automobile
-sont tenus de s'assurer pour leur propre responsabilité, celle des personnes
-travaillant dans leur exploitation, et celle des personnes ayant la garde ou la
-conduite du véhicule, ainsi que celle des passagers.
+Les professionnels de la réparation, de la vente ou du contrôle de l'automobile
+sont tenus de s'assurer, pour leur propre responsabilité, celle des personnes
+travaillant dans leur exploitation, celle des personnes ayant la garde ou la
+conduite du véhicule, même sans y avoir été autorisées, ainsi que celle des
+passagers.
 
 Cette obligation s'applique à la responsabilité civile que les personnes
 mentionnées au précédent alinéa peuvent encourir du fait des dommages causés aux

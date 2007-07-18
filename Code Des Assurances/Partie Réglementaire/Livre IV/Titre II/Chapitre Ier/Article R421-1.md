@@ -6,12 +6,12 @@ l'article L. 421-1 ou à leurs ayants droit à la condition que ces accidents
 soient survenus en France métropolitaine, à Mayotte ou dans les départements
 d'outre-mer.
 
-Ne sont prises en charge par le fonds de garantie les indemnités dues aux
+Ne sont pas prises en charge par le fonds de garantie les indemnités dues aux
 victimes d'accidents dans lesquels sont impliqués des véhicules terrestres à
-moteur ainsi que les remorques ou semi-remorques de ces véhicules, ayant leur
+moteur ainsi que les remorques ou semi-remorques de ces véhicules ayant leur
 stationnement habituel sur le territoire d'un Etat, autre que la France, visé à
-l'article L. 211-4, que lorsque l'indemnisation de ces victimes n'incombe pas au
-bureau central français pour leur totalité ou en partie.
+l'article L. 211-4, lorsque l'indemnisation de ces victimes incombe au bureau
+central français pour leur totalité ou en partie.
 
 Le bureau central français est le bureau national d'assurance constitué en
 France dans les conditions mentionnées au deuxième alinéa de l'article R.
