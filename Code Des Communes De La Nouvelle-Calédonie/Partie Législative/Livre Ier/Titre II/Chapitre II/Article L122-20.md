@@ -70,4 +70,7 @@ certificats d'urbanisme ;
 
 18° D'exercer au nom de la commune, et sans préjudice des droits de préemption
 de la Nouvelle-Calédonie et des provinces, les droits de préemption définis par
-les règlements d'urbanisme.
+les règlements d'urbanisme ;
+
+19° De réaliser les lignes de trésorerie sur la base d'un montant maximum
+autorisé par le conseil municipal.

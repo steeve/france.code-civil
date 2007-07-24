@@ -14,8 +14,8 @@ l'exception des circonscriptions hospitalières ;
 autres que les bureaux d'aide sociale, les autorisations d'acquérir, d'aliéner,
 d'échanger, de plaider ou de transiger demandées par lesdits établissements,
 l'acceptation des dons et legs qui leur sont faits, sans préjudice des
-dispositions des articles 22 des lois n° 70-1318 du 31 décembre 1970 et n°
-75-535 du 30 juin 1975 ;
+dispositions des articles L. 314-7, L. 314-10, L. 314-11 et L. 314-12 du code de
+l'action sociale et des familles.
 
 4° Le classement des stations.
 

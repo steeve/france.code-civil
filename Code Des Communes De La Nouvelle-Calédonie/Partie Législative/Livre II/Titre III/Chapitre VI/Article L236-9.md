@@ -1,8 +1,14 @@
 Article L236-9
 ----
-Le service financier des emprunts émis en conformité des dispositions de
-l'article précédent est assuré dès leur émission par la caisse d'aide à
-l'équipement des collectivités locales.
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
+236-8 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
+accordés par une commune :
 
-Les emprunts présentant les mêmes caractéristiques sont groupés en une série
-unique.
+1° Pour les opérations de construction, d'acquisition ou d'amélioration de
+logements réalisées par les organismes d'habitation sociale ou les sociétés
+d'économie mixte ;
+
+2° Pour les opérations de construction, d'acquisition ou d'amélioration de
+logements bénéficiant d'une subvention de l'Etat ou réalisées avec le bénéfice
+de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources
+défiscalisées.

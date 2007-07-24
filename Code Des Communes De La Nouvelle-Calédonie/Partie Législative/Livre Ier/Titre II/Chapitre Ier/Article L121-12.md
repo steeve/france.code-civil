@@ -20,3 +20,7 @@ Dans ces derniers cas, après deux tours de scrutin secret, si aucun des
 candidats n'a obtenu la majorité absolue, il est procédé à un troisième tour de
 scrutin et l'élection a lieu à la majorité relative ; à égalité de voix,
 l'élection est acquise au plus âgé.
+
+Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin
+secret aux nominations ou aux présentations, sauf disposition législative ou
+réglementaire prévoyant expressément ce mode de scrutin.

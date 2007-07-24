@@ -58,4 +58,28 @@ revenus communaux ;
 
 15° L'acquittement des dettes exigibles ;
 
-16° Les dépenses occasionnées par l'application de l'article L. 122-14.
+16° Les dépenses occasionnées par l'application de l'article L. 122-14 ;
+
+17° Les dépenses occasionnées par l'application des articles L. 125-1 et
+suivants ;
+
+18° Pour les communes ou les groupements de communes dont la population est
+égale ou supérieure à 3 500 habitants et pour leurs établissements publics, les
+dotations aux amortissements des immobilisations ;
+
+19° Pour les communes de moins de 3 500 habitants et les groupements de communes
+dont la population est inférieure à 3 500 habitants et pour leurs
+établissements, les dotations aux amortissements des subventions d'équipements
+versées ;
+
+20° Les dotations aux provisions dont les modalités de constitution,
+d'ajustement et d'emploi sont déterminées par décret ;
+
+21° Les intérêts de la dette et les dépenses de remboursement en capital.
+
+Les dispositions des 18°, 19° et 20° entrent en vigueur à compter de l'exercice
+2009 pour les immobilisations acquises à compter du 1er janvier 2008.
+
+Un décret définit les modalités d'application des 18° et 19° ; il définit
+notamment les immobilisations qui sont assujetties à l'obligation
+d'amortissement.

@@ -1,6 +1,6 @@
 Article L323-4
 ----
-Les règles de la comptabilité des communes sont applicables aux régies
+Les règles budgétaires et comptables des communes sont applicables aux régies
 municipales, sous réserve des modifications prévues par les décrets en Conseil
 d'Etat mentionnés aux articles L. 323-8 et L. 323-12.
 

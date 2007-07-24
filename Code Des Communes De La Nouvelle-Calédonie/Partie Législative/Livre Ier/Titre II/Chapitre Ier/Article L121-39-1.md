@@ -3,7 +3,12 @@ Article L121-39-1
 I. - Les actes pris par les autorités communales sont exécutoires de plein droit
 dès qu'il a été procédé à leur publication ou affichage ou à leur notification
 aux intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son
-représentant dans la province.
+représentant dans la province. Pour les décisions individuelles, cette
+transmission intervient dans un délai de quinze jours à compter de leur
+signature.
+
+Cette transmission peut s'effectuer par voie électronique, selon des modalités
+fixées par décret.
 
 Le maire certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
 
@@ -21,7 +26,8 @@ II. - Sont soumis aux dispositions du I les actes suivants :
 du conseil municipal en application de l'article L. 122-20 ;
 
 - les décisions réglementaires et individuelles prises par le maire dans
-l'exercice de son pouvoir de police ;
+l'exercice de son pouvoir de police, à l'exclusion de celles relatives à la
+circulation et au stationnement ;
 
 - les actes à caractère réglementaire pris par les autorités communales dans
 tous les autres domaines qui relèvent de leur compétence en application de la
@@ -32,8 +38,13 @@ conventions de concessions ou d'affermage de services publics locaux à caractè
 industriel ou commercial ;
 
 - les décisions individuelles relatives à la nomination, à l'avancement de
-grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de
-discipline local et au licenciement des agents de la commune ;
+grade, à la mise à la retraite d'office, à la révocation des fonctionnaires,
+ainsi que les décisions individuelles relatives au recrutement, y compris le
+contrat d'engagement, et au licenciement des agents non titulaires, à
+l'exception de celles prises dans le cadre d'un besoin saisonnier ou
+occasionnel, en application du 2° de l'article 11 de la délibération n° 486 du
+10 août 1994 portant création du statut général des fonctionnaires des communes
+de Nouvelle-Calédonie et de leurs établissements publics ;
 
 - les ordres de réquisition du comptable pris par le maire ;
 
@@ -49,6 +60,11 @@ ou d'un établissement public de coopération intercommunale.
 III. - Les actes pris au nom de la commune, autres que ceux qui sont mentionnés
 au II, sont exécutoires de plein droit dès qu'il a été procédé à leur
 publication ou affichage ou à leur notification aux intéressés.
+
+Le représentant de l'Etat peut en demander communication à tout moment. Il ne
+peut les déférer au tribunal administratif, dans un délai de deux mois à compter
+de leur communication, que si sa demande a été présentée dans le délai de deux
+mois à compter de la date à laquelle les actes sont devenus exécutoires.
 
 IV. - Les actes pris par les autorités communales au nom de l'Etat ainsi que les
 actes relevant du droit privé ne sont pas soumis aux dispositions du présent

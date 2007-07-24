@@ -8,6 +8,5 @@ haut-commissaire, sur l'avis du congrès de la Nouvelle-Calédonie ou, dans
 l'intervalle des sessions, de la commission permanente.
 
 La part de la dépense définitivement assignée à chaque commune est portée
-d'office aux budgets respectifs, conformément à l'article 11 de la loi n° 82-213
-du 2 mars 1982 relative aux droits et libertés des communes, des départements et
-des régions.
+d'office aux budgets respectifs, conformément à l'article L. 263-21 du code des
+juridictions financières.

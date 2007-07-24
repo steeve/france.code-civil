@@ -1,5 +1,6 @@
 Article L125-4
 ----
-Après avoir pris connaissance du résultat de la consultation, le conseil
-municipal ou l'assemblée délibérante de l'établissement public de coopération
-intercommunale délibère dans les conditions prévues à l'article L. 121-12.
+Les électeurs font connaître par "oui" ou par "non" s'ils approuvent le projet
+de délibération ou d'acte qui leur est présenté. Après avoir pris connaissance
+du résultat de la consultation, l'autorité compétente de la commune arrête sa
+décision sur l'affaire qui en a fait l'objet.

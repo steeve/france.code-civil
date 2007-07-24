@@ -9,7 +9,8 @@ Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds de la commune ou
 de l'établissement public disponibles, de dépense ordonnancée sur des crédits
 irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur
 lesquels elle devrait être imputée, d'absence de justification du service fait
-ou de défaut de caractère libératoire du règlement.
+ou de défaut de caractère libératoire du règlement ainsi qu'en cas d'absence de
+caractère exécutoire des actes pris par les autorités communales.
 
 L'ordre de réquisition est notifié à la chambre territoriale des comptes.
 

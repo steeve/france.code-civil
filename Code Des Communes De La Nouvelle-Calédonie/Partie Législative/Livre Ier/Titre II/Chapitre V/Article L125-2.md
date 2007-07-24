@@ -1,10 +1,11 @@
 Article L125-2
 ----
-Sur proposition du maire, ou sur demande écrite du tiers des membres du conseil
-municipal dans les communes de 3 500 habitants et plus, ou sur demande écrite de
-la majorité des membres du conseil municipal dans les communes de moins de 3 500
-habitants, le conseil municipal délibère sur le principe et les modalités
-d'organisation de la consultation. Dans ce cas, l'urgence ne peut être invoquée.
+Un cinquième des électeurs inscrits sur les listes électorales peuvent demander
+à ce que soit inscrite à l'ordre du jour du conseil municipal l'organisation
+d'une consultation sur toute affaire relevant de la décision des autorités de la
+commune.
 
-La délibération qui décide la consultation indique expressément que cette
-consultation n'est qu'une demande d'avis.
+Dans l'année, un électeur ne peut signer qu'une seule demande tendant à
+l'organisation d'une consultation.
+
+La décision d'organiser la consultation appartient au conseil municipal.

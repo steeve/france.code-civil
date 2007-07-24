@@ -1,8 +1,8 @@
 Article L125-6
 ----
-Lorsque l'élection du conseil municipal ou du maire ou la désignation des
-délégués à l'assemblée délibérante de l'établissement public de coopération
-intercommunale, ou du président de celle-ci, fait l'objet d'un recours
-contentieux devant le tribunal administratif et, s'il y a lieu, devant le
-Conseil d'Etat, aucune consultation ne peut avoir lieu tant que cette élection
-ou cette désignation n'a fait l'objet d'une décision devenue définitive.
+Le droit des habitants de la commune à être informés des affaires de celle-ci et
+à être consultés sur les décisions qui les concernent, indissociable de la libre
+administration des communes, est un principe essentiel de la démocratie locale.
+Il s'exerce sans préjudice des dispositions en vigueur relatives notamment à la
+publicité des actes des autorités territoriales ainsi qu'à la liberté d'accès
+aux documents administratifs.

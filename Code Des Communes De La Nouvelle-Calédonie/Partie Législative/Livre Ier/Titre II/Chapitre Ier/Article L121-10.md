@@ -2,8 +2,9 @@ Article L121-10
 ----
 I. - Toute convocation est faite par le maire. Elle indique les questions
 portées à l'ordre du jour. Elle est mentionnée au registre des délibérations,
-affichée ou publiée. Elle est adressée aux conseillers municipaux par écrit et à
-domicile.
+affichée ou publiée. La convocation est adressée par écrit, sous quelque forme
+que ce soit, au domicile des conseillers municipaux, sauf s'ils font le choix
+d'une autre adresse.
 
 II. - Dans les communes de moins de 3 500 habitants, la convocation est adressée
 trois jours francs au moins avant celui de la réunion.
