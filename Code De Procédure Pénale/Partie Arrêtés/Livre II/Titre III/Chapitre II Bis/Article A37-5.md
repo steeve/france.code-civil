@@ -6,7 +6,8 @@ des formulaires décrits aux articles A. 37 à A. 37-4 ci-dessus.
 
 Au recto de la carte de paiement remise au contrevenant figure l'indication que
 la procédure de l'amende forfaitaire n'est pas applicable et que la
-contravention sera jugée par le tribunal de police.
+contravention sera jugée par la juridiction de proximité ou le tribunal de
+police.
 
 Au verso du procès-verbal de contravention sont recueillies les déclarations du
 contrevenant indiquant s'il reconnaît ou ne reconnaît pas l'infraction, sa

@@ -20,3 +20,20 @@ voie empruntée et sur le modèle de véhicule ;
 37-3, ce volet de couleur jaune comporte au recto, sur la partie gauche, les
 informations obtenues par duplication du second volet décrit au paragraphe
 précédent.
+
+La rubrique prévue par le deuxième alinéa du II de l'article A 37-2 comprend la
+mention "Cette contravention entraîne un retrait de point(s) du permis de
+conduire" et ne comporte pas de case devant être cochée.
+
+Les mentions prévues par le 2 et le premier alinéa du 3 du III sont les
+suivantes :
+
+"2. Le paiement de l'amende entraîne reconnaissance de la réalité de
+l'infraction et par là même réduction du nombre de points de votre permis de
+conduire.
+
+3. Vous encourez un retrait de point(s) correspondant à l'infraction constatée ;
+le retrait de point(s) sera effectif dès que la réalité de l'infraction aura été
+établie par le paiement de l'amende forfaitaire ou l'émission du titre
+exécutoire de l'amende forfaitaire majorée, par l'exécution d'une composition
+pénale ou par une condamnation définitive."
