@@ -1,12 +1,10 @@
 Article R524-20
 ----
-Après dotation des réserves obligatoires et facultatives par décision de
-l'assemblée générale et, s'il y a lieu, fixation d'un intérêt aux parts sociales
-et distribution de tout ou partie des dividendes reçus au titre des
-participations détenues, le reliquat des excédents annuels ne peut
-éventuellement être réparti entre les associés-coopérateurs que
-proportionnellement aux opérations qu'ils ont réalisées avec la coopérative et
-suivant les modalités prévues par les statuts.
+Les intérêts servis aux parts sociales et les dividendes reçus au titre des
+participations détenues et redistribués en application de l'article L. 524-2-1
+sont versés aux associés coopérateurs détenteurs de parts sociales à la date de
+convocation de l'assemblée générale.
 
-La répartition est décidée par l'assemblée générale sur proposition du conseil
-d'administration.
+Les ristournes visées au même article sont réparties entre les associés
+coopérateurs inscrits sur le fichier des associés coopérateurs de la coopérative
+à la date de clôture du dernier exercice écoulé.

@@ -2,21 +2,21 @@ Article R524-16
 ----
 Lorsque, en raison de l'étendue de la circonscription de la coopérative ou du
 nombre des associés coopérateurs, il y a lieu de craindre des difficultés pour
-la réunion des quorum prévus à l'article R. 524-15, les statuts doivent prévoir
+la réunion des quorums prévus à l'article R. 524-15, les statuts peuvent prévoir
 des assemblées de section.
 
 Le nombre et la circonscription des sections sont fixés par décision de
-l'assemblée générale et inscrits dans le règlement intérieur. Cette décision
-doit être approuvée par le Haut Conseil de la coopération agricole, après avis
-de sa section juridique.
+l'assemblée générale ordinaire ou extraordinaire et inscrits dans le règlement
+intérieur. L'assemblée générale peut en outre constituer en section autonome une
+ou plusieurs coopératives adhérentes.
 
 Les assemblées de section se tiennent en présence d'un administrateur désigné
 par le conseil d'administration. Elles font l'objet d'un procès-verbal relatant
-notamment la composition du bureau, les noms et prénoms des délégués à
+notamment la composition du bureau et les noms et prénoms des délégués à
 l'assemblée générale plénière désignés par l'assemblée de section.
 
-Les procès-verbaux et les feuilles de présence des assemblées de section
-certifiés exacts par le délégué du conseil d'administration sont annexés au
+Les procès-verbaux et les feuilles de présence des assemblées de section,
+certifiés exacts par le délégué du conseil d'administration, sont annexés au
 procès-verbal de l'assemblée plénière.
 
 Les délégués de section sont élus au scrutin secret lorsque le conseil

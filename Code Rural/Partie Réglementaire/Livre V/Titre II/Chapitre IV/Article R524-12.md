@@ -1,6 +1,8 @@
 Article R524-12
 ----
-L'assemblée générale réunit tous les associés coopérateurs de la coopérative.
+L'assemblée générale réunit tous les associés coopérateurs de la coopérative
+régulièrement inscrits sur le fichier des associés coopérateurs de la
+coopérative à la date de la convocation de l'assemblée générale.
 
 L'assemblée générale ordinaire doit être convoquée par le conseil
 d'administration au moins une fois par an dans les six mois qui suivent la

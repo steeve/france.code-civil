@@ -1,26 +1,17 @@
 Article R524-5
 ----
-Les administrateurs sont responsables selon les règles du droit commun,
-individuellement ou solidairement, suivant les cas, envers la société ou envers
-les tiers, des fautes qu'ils auraient commises dans leur gestion.
+Le conseil d'administration est chargé de la gestion de la société et doit
+assurer le bon fonctionnement de celle-ci.
 
-Outre les parts souscrites en application de l'article R. 523-1, chacun d'eux
-doit être propriétaire, pendant toute la durée de son mandat, d'un nombre de
-parts fixé par les statuts de la société.
+Sans aucune limitation autre que celle des pouvoirs et attributions expressément
+réservés aux assemblées générales par le présent chapitre ou, éventuellement,
+par les statuts de chaque coopérative, le conseil d'administration dispose des
+pouvoirs les plus étendus.
 
-Ces dernières parts sont affectées à la garantie de tous les actes de leur
-gestion, même de ceux qui leur seraient exclusivement personnels. Elles sont
-inaliénables et, s'il a été délivré des certificats correspondants, ceux-ci sont
-frappés d'un timbre indiquant leur inaliénabilité et déposés au siège social.
+Le conseil d'administration nomme son président ainsi que les autres membres du
+bureau, parmi ses membres, personnes physiques ou mandataires représentant les
+personnes morales qui en font partie.
 
-Toute convention entre la coopérative et l'un de ses administrateurs, soit
-directe, soit indirecte, soit par personne interposée, doit être soumise à
-l'autorisation préalable du conseil d'administration. Avis en est donné aux
-commissaires aux comptes. Cette disposition n'est pas applicable aux engagements
-et obligations mentionnés à l'article R. 522-3, alinéa 1.
-
-Il est interdit aux administrateurs autres que les personnes morales de
-contracter, sous quelque forme que ce soit, des emprunts auprès de la société,
-de se faire consentir par elle un découvert dont la durée dépasse une année
-ainsi que de faire cautionner ou avaliser par elle leurs engagements envers des
-tiers.
+Le président du conseil d'administration représente la société en justice. Il
+peut déléguer avec l'accord du conseil d'administration ce pouvoir de
+représentation à un ou plusieurs administrateurs ou au directeur.

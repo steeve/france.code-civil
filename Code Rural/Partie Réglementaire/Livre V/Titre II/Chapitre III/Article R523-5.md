@@ -1,34 +1,40 @@
 Article R523-5
 ----
-En cas de retraite, l'associé coopérateur a droit au remboursement de ses parts
-de capital social à leur valeur nominale. Toutefois, si les statuts le
-prévoient, il reçoit un montant déterminé par application du deuxième alinéa de
-l'article 18 de la loi du 10 septembre 1947 modifiée ou des articles L. 523-1 et
-L. 523-7, alinéas 3 à 5.
+La démission en fin de période d'engagement, l'exclusion ou le retrait de
+l'associé coopérateur en cours d'engagement d'activité avec l'accord du conseil
+d'administration entraîne la perte de la qualité d'associé coopérateur.
 
-Le montant du remboursement est réduit dans l'hypothèse et selon les modalités
-visées à l'article L. 523-2-1.
+Cette perte de qualité donne lieu à l'annulation de ses parts sociales, à défaut
+de transfert de celles-ci.
 
-Dans tous les cas le remboursement est opéré sans préjudice des intérêts dus sur
-ces parts et des ristournes qui peuvent revenir à l'intéressé.
+Leur remboursement a lieu dans les conditions suivantes :
 
-Le remboursement des parts annulées doit être compensé par la constitution d'une
-réserve prélevée sur le résultat. La dotation à cette réserve est égale au
-montant des parts remboursées pendant l'exercice diminué, le cas échéant, des
-nouvelles parts souscrites pendant cette période.
+1° L'associé coopérateur a droit au remboursement de ses parts de capital social
+à leur valeur nominale. Toutefois, si les statuts le prévoient, il reçoit un
+montant déterminé par application du deuxième alinéa de l'article 18 de la loi
+n° 47-1775 du 10 septembre 1947 portant statut de la coopération ou des articles
+L. 523-1 et L. 523-7, alinéas 3 à 5 ;
 
-Le conseil fixe l'époque à laquelle le paiement de ces sommes pourra être fait
-compte tenu des dispositions de l'article R. 522-4.
+2° Le montant du remboursement est réduit dans l'hypothèse et selon les
+modalités visées à l'article L. 523-2-1 ;
 
-En tout état de cause, le délai de remboursement ne pourra dépasser la durée de
-dix ans.
+3° Dans tous les cas, le remboursement est opéré sans préjudice des intérêts dus
+sur ces parts et des ristournes qui peuvent revenir à l'intéressé ;
 
-Tout membre qui cesse de faire partie de la société à un titre quelconque reste
-tenu pendant cinq ans et pour sa part, telle qu'elle est déterminée par
+4° Le remboursement des parts annulées souscrites ou acquises dans le cadre de
+l'engagement prévu au a de l'article L. 521-3, doit être compensé par la
+constitution d'une réserve prélevée sur le résultat. La dotation à cette réserve
+est égale au montant de ces parts remboursées pendant l'exercice diminué, le cas
+échéant, des nouvelles parts souscrites pendant cette période ;
+
+5° Le conseil se prononce sur le remboursement et fixe l'époque à laquelle le
+paiement de ces sommes pourra être fait, compte tenu des dispositions de
+l'article R. 522-4 ;
+
+6° Dans tous les cas, le délai de remboursement ne pourra dépasser la durée de
+cinq ans ;
+
+7° Tout membre qui cesse de faire partie de la société à un titre quelconque
+reste tenu pendant cinq ans et pour sa part, telle qu'elle est déterminée par
 l'article R. 526-3, envers ses coassociés coopérateurs et envers les tiers, de
-toutes les dettes sociales existantes au moment de sa sortie et cela sans
-préjudice, le cas échéant, des engagements solidaires soit auprès de l'Etat
-représenté par la caisse nationale de crédit agricole, soit auprès des caisses
-de crédit agricole mutuel, soit, au cas où la société a bénéficié d'un prêt sur
-les disponibilités du fonds forestier national, auprès de l'Etat, représenté par
-le ministre de l'agriculture.
+toutes les dettes sociales existantes au moment de sa sortie.

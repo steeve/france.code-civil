@@ -11,7 +11,15 @@ Ce dernier doit dénoncer la mutation à la coopérative par lettre recommandée
 avec demande d'avis de réception dans un délai de trois mois à dater du
 transfert de propriété ou de jouissance.
 
-Dans un délai de trois mois suivant la dénonciation prévue à l'alinéa précédent,
-le conseil d'administration peut, par décision motivée prise dans les conditions
-de quorum et de majorité prévues à l'article R. 522-8 refuser l'admission du
-nouvel exploitant sous réserve des recours prévus à l'article R. 522-4.
+Dans un délai d'un mois suivant la dénonciation prévue à l'alinéa précédent, le
+conseil d'administration peut, par décision motivée prise dans les conditions de
+quorum et de majorité prévues à l'article R. 522-8 refuser l'admission du nouvel
+exploitant sous réserve des recours prévus à l'article R. 522-4. En cas de refus
+d'admission du nouvel exploitant par le conseil d'administration et, le cas
+échéant, par l'assemblée générale, aucune sanction ne peut être prise, en raison
+de cette mutation d'exploitation, à l'encontre de l'associé coopérateur à
+l'origine de celle-ci.
+
+En cas de refus du nouvel exploitant d'adhérer à la coopérative, les
+dispositions de l'article R. 522-4 sont applicables à l'associé coopérateur
+auteur de la mutation de l'exploitation.

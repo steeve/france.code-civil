@@ -9,4 +9,4 @@ la date du dépôt du dossier comportant toutes les pièces prévues à l'articl
 525-3. En l'absence de décision expresse notifiée dans ce délai par lettre
 recommandée avec accusé de réception, l'agrément est considéré comme acquis.
 
-Un numéro d'immatriculation est attribué à chaque organisme agréé.
+Un numéro d'agrément est attribué à chaque organisme agréé.

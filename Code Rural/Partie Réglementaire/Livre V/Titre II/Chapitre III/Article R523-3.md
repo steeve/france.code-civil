@@ -1,15 +1,14 @@
 Article R523-3
 ----
 Le capital social souscrit est soumis aux variations normales résultant de la
-souscription de parts nouvelles par les associés coopérateurs ou de l'annulation
-des parts des associés coopérateurs sortants ou décédés.
+souscription de parts nouvelles ou de l'annulation de parts souscrites.
 
 Aucune limitation n'est fixée pour le capital initial ni pour ses augmentations
 successives.
 
-Le capital social souscrit ne peut être réduit au-dessous des trois quarts du
-montant le plus élevé constaté par une assemblée générale depuis la constitution
-de la société.
+Le capital social souscrit dans le cadre de l'engagement visé au a de l'article
+L. 521-3 ne peut être réduit au-dessous des trois quarts du montant le plus
+élevé constaté par une assemblée générale depuis la constitution de la société.
 
 Toutefois, cette limite ne s'applique pas lorsque les parts sont remboursées à
 la suite d'un retrait ou d'une exclusion des associés coopérateurs dans les cas

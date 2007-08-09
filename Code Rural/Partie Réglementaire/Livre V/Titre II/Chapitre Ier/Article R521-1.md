@@ -1,8 +1,9 @@
 Article R521-1
 ----
 L'objet des sociétés coopératives agricoles, qui doit être déterminé par leurs
-statuts, est l'exercice, quels que soient les moyens et techniques mis en oeuvre
-par elles, d'une ou plusieurs des activités ci-dessous définies :
+statuts en application des dispositions de l'article L. 521-1, est notamment
+l'exercice, quels que soient les moyens et techniques mis en oeuvre par elles,
+d'une ou plusieurs des activités ci-dessous définies :
 
 a) assurer ou faciliter la production, l'écoulement ou la vente, notamment à
 l'exportation, des produits agricoles et forestiers provenant exclusivement des
@@ -27,9 +28,8 @@ perfectionnement technique et de formation professionnelle, des organismes
 d'études, d'expérimentation et d'analyse, ainsi que le personnel spécialisé
 correspondant ;
 
-d) et, d'une manière générale, faire, pour le compte de leurs associés
-coopérateurs, des opérations ou des travaux entrant normalement dans le cadre de
-la profession agricole.
+d)faire, pour le compte de leurs associés coopérateurs, des opérations ou des
+travaux entrant normalement dans le cadre de la profession agricole.
 
 Les opérations ci-dessus définies peuvent également être faites par les sociétés
 coopératives pour les exploitations qui leur appartiennent en propre ou qu'elles

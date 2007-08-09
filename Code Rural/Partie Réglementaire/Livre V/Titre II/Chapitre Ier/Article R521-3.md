@@ -10,9 +10,3 @@ la réalisation de son objet statutaire. Une société coopérative agricole peu
 moyens de transport, à la disposition de cette coopérative, d'une société
 d'intérêt collectif agricole, associé coopérateur, ou d'une autre société
 coopérative.
-
-Le ministre de l'agriculture, le ministre de l'économie, le ministre du budget
-et le ministre chargé du commerce peuvent autoriser, dans un but d'intérêt
-général économique et par arrêté conjoint, les coopératives agricoles et leurs
-unions membres d'une même société d'intérêt collectif agricole à échanger avec
-les autres membres leurs services et les produits qu'elles traitent.

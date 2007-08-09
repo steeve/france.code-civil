@@ -10,6 +10,4 @@ moitié de ses membres en exercice.
 
 Sauf dans le cas prévu à l'article R. 522-8, les délibérations sont prises à la
 majorité des membres présents. En cas de partage, la voix du président est
-prépondérante.
-
-Nul ne peut voter par procuration au sein du conseil.
+prépondérante. Nul ne peut voter par procuration au sein du conseil.

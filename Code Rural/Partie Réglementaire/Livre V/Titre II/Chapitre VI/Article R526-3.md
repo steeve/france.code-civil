@@ -7,7 +7,6 @@ coopérateurs eux-mêmes, divisées entre les associés coopérateurs
 proportionnellement au nombre de parts du capital appartenant à chacun d'eux ou
 qu'ils auraient dû souscrire.
 
-Toutefois, et sous réserve des dispositions des articles 656 et 732 du code
-rural, l'associé coopérateur n'est soumis de ce fait qu'à la seule obligation de
-libérer le solde des parts qu'il a souscrites ou aurait dû souscrire et de
-verser en complément une somme égale au montant de ces parts.
+Toutefois, l'associé coopérateur n'est soumis de ce fait qu'à la seule
+obligation de libérer le solde des parts qu'il a souscrites ou aurait dû
+souscrire et de verser en complément une somme égale au montant de ces parts.
