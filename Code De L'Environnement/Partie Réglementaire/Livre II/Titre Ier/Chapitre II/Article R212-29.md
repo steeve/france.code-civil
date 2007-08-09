@@ -1,10 +1,10 @@
 Article R212-29
 ----
-Lorsque le périmètre du projet de schéma d'aménagement et de gestion des eaux a
-été publié, le préfet arrête la composition de la commission locale de l'eau,
-dont la création est prévue à l'article L. 212-4.
+La composition de la commission locale de l'eau est arrêtée par le préfet du
+département ou le préfet responsable de la procédure d'élaboration ou de
+révision du schéma d'aménagement et de gestion des eaux.
 
-L'arrêté constituant la commission ou renouvelant l'ensemble de ses membres est
-publié au recueil des actes administratifs de chacun des départements
-intéressés. Cette publication mentionne le site internet où la liste des membres
-peut être consultée.
+Les arrêtés portant composition, modification ou renouvellement de la commission
+locale de l'eau sont publiés au recueil des actes administratifs de chacune des
+préfectures intéressées et sont mis en ligne sur un site internet désigné par le
+ministère chargé de l'environnement.

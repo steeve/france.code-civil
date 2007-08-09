@@ -1,15 +1,8 @@
 Article R212-39
 ----
-Le projet de schéma d'aménagement et de gestion des eaux, éventuellement modifié
-pour tenir compte des avis et observations exprimés en application des articles
-R. 212-37 et R. 212-38, et si la nature et l'importance des modifications le
-justifient après consultation des services de l'Etat fait l'objet d'une nouvelle
-délibération de la commission locale de l'eau. Cette délibération est transmise
-au préfet qui approuve le schéma d'aménagement et de gestion des eaux. Toute
-modification apportée par le préfet au projet arrêté par la commission locale de
-l'eau est motivée.
+Le projet de schéma, accompagné du rapport environnemental prévu par les
+articles L. 122-6 et R. 122-20, est adressé pour avis au préfet du département
+ou au préfet responsable de la procédure d'élaboration ou de révision du schéma
+au moins trois mois avant l'ouverture de l'enquête publique.
 
-Le schéma d'aménagement est transmis aux maires des communes concernées ainsi
-qu'aux présidents des conseils généraux et des conseils régionaux des
-départements et régions concernés et aux présidents des chambres de commerce et
-d'industrie, des chambres d'agriculture et des chambres de métiers.
+L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.

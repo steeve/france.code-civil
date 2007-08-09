@@ -1,8 +1,8 @@
 Article R212-33
 ----
-Le président de la commission locale de l'eau conduit la procédure d'élaboration
-du projet d'aménagement et de gestion des eaux par la commission.
-
-La commission élabore un règlement intérieur qui fixe notamment les conditions
-dans lesquelles le président soumet à son approbation l'état d'avancement du
-projet de schéma.
+La commission peut confier son secrétariat ainsi que des études et analyses
+nécessaires à l'élaboration du schéma d'aménagement et de gestion des eaux et au
+suivi de sa mise en oeuvre à une collectivité territoriale, à un établissement
+public territorial de bassin ou à un groupement de collectivités territoriales
+ou, à défaut, à une association de communes regroupant au moins deux tiers des
+communes situées dans le périmètre du schéma.
