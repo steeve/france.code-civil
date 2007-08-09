@@ -14,8 +14,9 @@ présent paragraphe peut employer jusqu'à la totalité de son actif en :
 1° Parts ou actions d'organismes de placement collectif en valeurs mobilières
 mentionnés au 1° du II de l'article R. 214-25 ;
 
-2° Parts ou actions d'organismes de placement collectif en valeurs mobilières ou
-de fonds d'investissement mentionnés au 2° du II de l'article R. 214-25.
+2° Parts ou actions mentionnés au 2° du II de l'article R. 214-25, à l'exception
+des parts ou actions de fonds d'investissement mentionnées au b du même 2° qui
+ne peuvent représenter plus de 30 % de l'actif.
 
 III. - Par dérogation aux limites de 5 % et 10 % fixées aux sixième et huitième
 alinéas de l'article L. 214-4, un organisme de placement collectif en valeurs

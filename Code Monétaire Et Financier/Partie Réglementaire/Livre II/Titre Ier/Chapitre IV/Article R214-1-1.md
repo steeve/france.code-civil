@@ -13,15 +13,18 @@ indirectement, au capital ou aux droits de vote, transmissibles par inscription
 en compte ou tradition ;
 
 b) Les titres de créance qui représentent chacun un droit de créance sur
-l'entité qui les émet, transmissibles par inscription en compte ou tradition, à
-l'exclusion des effets de commerce ;
+l'entité qui les émet, transmissibles par inscription en compte ou tradition,
+autres que les effets de commerce et les instruments financiers mentionnés au f
+;
 
 c) Les parts ou actions d'organismes de placement collectif en valeurs
 mobilières ;
 
 d) Les parts et titres de créance émis par des fonds communs de créances ;
 
-e) Les instruments financiers à terme.
+e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ;
+
+f) Les instruments du marché monétaire.
 
 Pour l'application de la présente sous-section, les actions de sociétés
 d'investissement à capital variable relèvent du seul c.

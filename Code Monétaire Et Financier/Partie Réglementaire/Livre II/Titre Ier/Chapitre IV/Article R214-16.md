@@ -5,7 +5,7 @@ dans la limite de 100 % de son actif, des opérations de cession temporaire
 d'instruments financiers.
 
 Un organisme de placement collectif en valeurs mobilières peut effectuer, dans
-la limite de 10 % de son actif, des opérations d'acquisition temporaire
+la limite de 100 % de son actif, des opérations d'acquisition temporaire
 d'instruments financiers.
 
 Les valeurs liquidatives des actions ou parts d'un organisme de placement
@@ -26,5 +26,5 @@ de composition de l'actif, des ratios d'emprise, des règles d'exposition au
 risque de contrepartie et des règles d'engagement définis à la présente
 sous-section ;
 
-4° Elles doivent respecter les règles de dénouement fixées au c du 2° du I de
-l'article R. 214-13.
+4° Elles doivent respecter les règles de dénouement fixées au ii du b du 2° du I
+de l'article R. 214-13.

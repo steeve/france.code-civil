@@ -5,7 +5,14 @@ alternatifs est un organisme de placement collectif en valeurs mobilières qui
 respecte les règles fixées au II et investit plus de 10 % de son actif :
 
 1° En actions ou parts de fonds d'investissement répondant aux conditions fixées
-au 5° de l'article R. 214-5 ;
+au 5° de l'article R. 214-5, y compris ceux investissant plus de 10 % de leur
+actif en parts ou actions d'organismes relevant du II de l'article D. 214-1, en
+parts ou actions d'organismes de placement collectif en valeurs mobilières ou de
+fonds d'investissement étrangers investis comme il est dit au b du 4° de
+l'article R. 214-172, ou en parts ou actions de fonds d'investissement
+mentionnés au 5° de l'article R. 214-5 dont l'objectif de gestion correspond à
+l'évolution d'un indice d'instruments financiers répondant aux conditions
+définies aux II et III de l'article R. 214-28 ;
 
 2° En actions ou parts d'organismes de placement collectif en valeurs mobilières
 contractuels relevant de l'article L. 214-35-2 ;
@@ -28,12 +35,21 @@ conditions fixées au 5° de l'article R. 214-5.
 
 Un organisme de placement collectif en valeurs mobilières de fonds alternatifs
 peut employer jusqu'à 100 % de son actif dans les parts ou actions mentionnées
-aux 1° à 6° .
+aux 1° à 6°.
 
-II. - Pour l'application des ratios définis à la sous-section 1, les parts ou
-actions émises par les fonds ou organismes de placement collectif en valeurs
-mobilières mentionnés aux 1° à 6° du I sont assimilées à des instruments
-mentionnés au a du 2° de l'article R. 214-1-1.
+II. - Par dérogation au sixième alinéa de l'article L. 214-4, un organisme de
+placement collectif en valeurs mobilières de fonds alternatifs peut employer
+jusqu'à 10 % de son actif en parts ou actions d'un même fonds d'investissement
+ou organisme mentionné aux 1° à 6° du I. Il peut également employer jusqu'à 15 %
+de son actif en parts ou actions d'un même fonds d'investissement ou organisme
+mentionné aux 1° à 6° du I si la valeur totale de ces parts ou actions excédant
+10 % de l'actif ne dépasse pas 40 % dudit actif.
 
 III. - Les dispositions des sous-paragraphes 1 et 2 ne sont pas applicables aux
 organismes de placement collectif en valeurs mobilières de fonds alternatifs.
+
+IV. - Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de
+placement collectif en valeurs mobilières relevant du présent article peut
+également comprendre, dans la limite de 10 % mentionnée au même article, des
+actions ou parts de fonds d'investissement de droit étranger ne respectant pas
+les critères prévus à ce même 5°.

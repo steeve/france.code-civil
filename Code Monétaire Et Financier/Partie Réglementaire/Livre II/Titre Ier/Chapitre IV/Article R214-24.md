@@ -13,7 +13,7 @@ la condition additionnelle que le calcul de l'engagement de l'actif de cet
 organisme prenne en compte les opérations effectuées, le cas échéant, par
 l'organisme maître.
 
-En outre, lorsque l'organisme maître ou l'organisme nourricier, dans les
-documents d'information qu'il fournit au souscripteur, prévoit l'intervention
-sur les marchés à terme, le dépositaire de l'organisme nourricier est
-nécessairement celui de l'organisme maître.
+En outre, lorsque l'organisme nourricier, dans les documents d'information qu'il
+fournit au souscripteur, prévoit l'intervention sur les marchés à terme, le
+dépositaire de l'organisme nourricier est nécessairement celui de l'organisme
+maître.
