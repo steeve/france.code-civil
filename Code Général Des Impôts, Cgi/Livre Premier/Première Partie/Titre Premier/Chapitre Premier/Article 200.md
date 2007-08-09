@@ -7,12 +7,14 @@ produits, effectués par les contribuables domiciliés en France au sens de
 l'article 4 B, au profit :
 
 a) De fondations ou associations reconnues d'utilité publique sous réserve du 2
-bis et, pour les seuls salariés des entreprises fondatrices ou des entreprises
-du groupe, au sens de l'article 223 A, auquel appartient l'entreprise
-fondatrice, de fondations d'entreprise, lorsque ces organismes répondent aux
-conditions fixées au b ;
+bis, de fondations universitaires ou de fondations partenariales mentionnées
+respectivement aux articles L. 719-12 et L. 719-13 du code de l'éducation et,
+pour les seuls salariés des entreprises fondatrices ou des entreprises du
+groupe, au sens de l'article 223 A, auquel appartient l'entreprise fondatrice,
+de fondations d'entreprise, lorsque ces organismes répondent aux conditions
+fixées au b ;
 
-b. D'oeuvres ou d'organismes d'intérêt général ayant un caractère
+b) D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
 culturel, ou concourant à la mise en valeur du patrimoine artistique, notamment
 à travers les souscriptions ouvertes pour financer l'achat d'objets ou d'oeuvres
@@ -20,14 +22,12 @@ d'art destinés à rejoindre les collections d'un musée de France accessibles a
 public, à la défense de l'environnement naturel ou à la diffusion de la culture,
 de la langue et des connaissances scientifiques françaises ;
 
-c. Des établissements d'enseignement supérieur ou d'enseignement artistique,
-publics ou privés, à but non lucratif, agréés par le ministre chargé du budget,
-ainsi que par le ministre chargé de l'enseignement supérieur, ou par le ministre
-chargé de la culture ;
+c) Des établissements d'enseignement supérieur ou d'enseignement artistique
+publics ou privés, d'intérêt général, à but non lucratif ;
 
-d. D'organismes visés au 4 de l'article 238 bis ;
+d) D'organismes visés au 4 de l'article 238 bis ;
 
-e. D'associations cultuelles et de bienfaisance, ainsi que des établissements
+e) D'associations cultuelles et de bienfaisance, ainsi que des établissements
 publics des cultes reconnus d'Alsace-Moselle ;
 
 f) Abrogé
@@ -71,20 +71,21 @@ ces associations est reconnue d'utilité publique.
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
 modalités de procédure déconcentrée permettant de l'accorder.
 
-2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la
-"Fondation du patrimoine" ou à une fondation ou une association qui affecte
-irrévocablement ces dons à la "Fondation du patrimoine", en vue de subventionner
-la réalisation des travaux prévus par les conventions conclues en application de
-l'article L. 143-2-1 du code du patrimoine entre la "Fondation du patrimoine" et
-les propriétaires des immeubles, personnes physiques ou sociétés civiles
-composées uniquement de personnes physiques et qui ont pour objet exclusif la
-gestion et la location nue des immeubles dont elles sont propriétaires.
+2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la "
+Fondation du patrimoine " ou à une fondation ou une association qui affecte
+irrévocablement ces dons à la " Fondation du patrimoine ", en vue de
+subventionner la réalisation des travaux prévus par les conventions conclues en
+application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation
+du patrimoine " et les propriétaires des immeubles, personnes physiques ou
+sociétés civiles composées uniquement de personnes physiques et qui ont pour
+objet exclusif la gestion et la location nue des immeubles dont elles sont
+propriétaires.
 
 Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire
 l'objet d'une exploitation commerciale.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de
-convention avec la "Fondation du patrimoine" en application de l'article L.
+convention avec la " Fondation du patrimoine " en application de l'article L.
 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les
 travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de
 cet immeuble. En cas de détention de l'immeuble par une société mentionnée au

@@ -29,10 +29,7 @@ d'établissement ; ces mesures sont prononcées par le ministre après consultat
 de la commission administrative paritaire.
 
 La commission paritaire d'établissement prépare les travaux des commissions
-administratives paritaires des corps mentionnés au premier alinéa ainsi que,
-pour ce qui concerne les problèmes généraux d'organisation et de fonctionnement
-des services, les travaux des conseils des établissements publics d'enseignement
-supérieur.
+administratives paritaires des corps mentionnés au premier alinéa.
 
 Un décret en Conseil d'Etat détermine les conditions de création, la
 composition, l'organisation et le fonctionnement de la commission paritaire

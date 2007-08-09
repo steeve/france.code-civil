@@ -7,11 +7,6 @@ l'Etat et de ses établissements publics et autorisant l'intégration des agents
 non titulaires occupant de tels emplois, sont applicables aux établissements
 publics à caractère scientifique, culturel et professionnel.
 
-Sous réserve des dispositions du dernier alinéa de l'article L. 123-5, les
-établissements ne peuvent pas recruter par contrat à durée indéterminée des
-personnes rémunérées, soit sur des crédits alloués par l'Etat ou d'autres
-collectivités publiques, soit sur leurs ressources propres.
-
 Le régime des contrats à durée déterminée est fixé par les articles 4 et 6 de la
 loi n° 84-16 du 11 janvier 1984 précitée.
 

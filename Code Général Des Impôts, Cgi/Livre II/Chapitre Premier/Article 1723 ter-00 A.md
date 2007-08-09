@@ -6,14 +6,16 @@ décès.
 
 Toutefois, ne sont pas applicables :
 
-1° Les dispositions des articles 1715 à 1716 A relatives au paiement en valeur
+1° les dispositions des articles 1715 à 1716 A relatives au paiement en valeur
 du Trésor ou en créances sur l'Etat ;
 
-2° Les dispositions des articles 1717, 1722 bis et 1722 quater relatives au
-paiement fractionné ou différé des droits.
+1° bis les dispositions de l'article 1716 bis relatives au paiement des droits
+par remise de blocs de titres de sociétés cotées, de titres d'organismes de
+placement collectif en valeurs mobilières investis en titres de sociétés cotées
+ou en obligations négociables ou d'obligations négociables ;
 
-3° Les dispositions du 3 de l'article 1929 relatives à l'inscription de
-l'hypothèque légale du Trésor(1).
+2° les dispositions des articles 1717, 1722 bis et 1722 quater relatives au
+paiement fractionné ou différé des droits ;
 
-(1) Cette disposition s'applique également à l'impôt de solidarité sur la
-fortune dû au titre de 1989.
+3° les dispositions du 3 de l'article 1929 relatives à l'inscription de
+l'hypothèque légale du Trésor.

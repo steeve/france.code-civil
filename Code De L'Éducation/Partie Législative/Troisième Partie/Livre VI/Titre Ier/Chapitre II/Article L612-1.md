@@ -8,6 +8,13 @@ qualification professionnelle, à la recherche, au développement de la
 personnalité, du sens des responsabilités et de l'aptitude au travail individuel
 et en équipe.
 
-Chaque cycle conduit à la délivrance de diplômes nationaux ou de diplômes
-d'établissements sanctionnant les connaissances, les compétences ou les éléments
-de qualification professionnelle acquis.
+Au cours de chaque cycle sont délivrés des diplômes nationaux ou des diplômes
+d'établissement sanctionnant les connaissances, les compétences ou les éléments
+de qualification professionnelle acquis. Les grades de licence, de master et de
+doctorat sont conférés respectivement dans le cadre du premier, du deuxième et
+du troisième cycle.
+
+Les établissements dispensant des formations sanctionnées par un diplôme
+d'études supérieures rendent publiques des statistiques comportant des
+indicateurs de réussite aux examens et aux diplômes, de poursuite d'études et
+d'insertion professionnelle des étudiants.
