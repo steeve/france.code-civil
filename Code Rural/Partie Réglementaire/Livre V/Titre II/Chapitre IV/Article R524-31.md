@@ -13,9 +13,9 @@ surveillance la conclusion des opérations qu'ils énumèrent. Les cautions, ava
 garanties et emprunts de montants supérieurs à ceux fixés par le conseil de
 surveillance font nécessairement l'objet d'une telle autorisation.
 
-Le conseil de surveillance peut décider le déplacement du siège social dans le
-même département ou dans un département limitrophe sous réserve de ratification
-de cette décision par la prochaine assemblée générale ordinaire.
+Le conseil de surveillance peut transférer le siège social de la coopérative à
+l'intérieur de sa circonscription territoriale ou le siège social de l'union en
+tout autre lieu du territoire national.
 
 A toute époque de l'année, le conseil de surveillance opère les vérifications et
 les contrôles qu'il juge opportuns et peut se faire communiquer les documents
