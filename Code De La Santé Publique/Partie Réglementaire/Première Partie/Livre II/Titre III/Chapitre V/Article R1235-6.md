@@ -1,13 +1,6 @@
 Article R1235-6
 ----
-Seuls peuvent obtenir, dans les conditions prévues à la présente section,
-l'autorisation d'importer et celle d'exporter des organes, lorsque ceux-ci sont
-utilisés à des fins scientifiques, les organismes publics ou privés ayant des
-activités de recherche et utilisant des organes, pour les besoins de leurs
-propres programmes de recherche.
-
-A titre dérogatoire, peuvent obtenir, dans les conditions prévues à la présente
-section, l'autorisation d'importer et celle d'exporter des organes en vue de
-leur cession, pour un usage scientifique, à un organisme public ou privé qui
-développe des programmes de recherche, les organismes bénéficiant de
-l'autorisation prévue à l'article L. 1243-3.
+La liste des établissements de santé autorisés à prélever ou à greffer des
+organes en application des articles L. 1233-1 et L. 1234-2, est établie et tenue
+à jour par le ministre chargé de la santé qui la transmet au ministre chargé des
+douanes et à l'Agence française de sécurité sanitaire des produits de santé.

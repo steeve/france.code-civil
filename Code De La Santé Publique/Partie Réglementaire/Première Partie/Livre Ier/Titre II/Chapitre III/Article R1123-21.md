@@ -8,8 +8,10 @@ sont également adressés au comité :
 2° Les demandes d'avis sur les projets de recherches sur les soins courants
 mentionnés au 2° de l'article L. 1121-1 ;
 
-3° Les demandes d'avis sur les projets de déclarations relatives aux collections
-d'échantillons biologiques ;
+3° Les demandes d'avis sur les projets de déclaration mentionnées à l'article L.
+1243-3 et, lorsqu'elles sont relatives à des collections d'échantillons
+biologiques, sur les demandes d'autorisations mentionnées à l'article L. 1243-4
+;
 
 4° Les demandes d'avis préalable à l'utilisation d'éléments et de produits du
 corps humain à des fins scientifiques relevant d'un changement substantiel de

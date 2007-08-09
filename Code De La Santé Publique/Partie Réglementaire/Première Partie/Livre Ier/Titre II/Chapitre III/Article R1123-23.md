@@ -1,9 +1,8 @@
 Article R1123-23
 ----
-Le contenu de la demande d'avis soumise au comité de protection des personnes
-pour les collections d'échantillons biologiques humains constituées en dehors du
-cadre d'une recherche biomédicale et en application de l'article L. 1243-3 est
-défini par arrêté des ministres chargés de la santé et de la recherche.
+Le dossier faisant l'objet des demandes d'avis mentionnées au 3° de l'article R.
+1123-21 est défini selon les modalités prévues aux articles R. 1243-51 et R.
+1243-63.
 
 En cas d'utilisation d'éléments et de produits du corps humain à des fins
 scientifiques relevant d'un changement de finalité par rapport au consentement

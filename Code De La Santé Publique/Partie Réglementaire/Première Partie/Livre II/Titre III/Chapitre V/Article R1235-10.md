@@ -1,9 +1,12 @@
 Article R1235-10
 ----
-La liste des organismes autorisés est régulièrement mise à jour et communiquée
-par le ministre chargé de la recherche au ministre chargé des douanes, à
-l'Etablissement français des greffes et à l'Agence française de sécurité
-sanitaire des produits de santé.
+Les autorisations peuvent être modifiées, suspendues ou retirées en tout ou
+partie par le ministre chargé de la recherche, en cas de non-respect des
+dispositions du présent chapitre. La suspension ou le retrait intervient dans
+les conditions prévues au troisième alinéa de l'article L. 1245-1.
 
-Cette liste mentionne les noms et adresses des établissements et organismes, le
-type d'organes, que chacun d'eux est autorisé à importer ou à exporter.
+En cas d'incident susceptible d'affecter la sécurité sanitaire, le ministre
+chargé de la recherche en informe immédiatement le directeur général de l'Agence
+française de sécurité sanitaire des produits de santé. Il peut prononcer une
+suspension provisoire, à titre conservatoire, de tout ou partie de
+l'autorisation.
