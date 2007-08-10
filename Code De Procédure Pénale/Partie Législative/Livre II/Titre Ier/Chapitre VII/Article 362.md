@@ -1,9 +1,11 @@
 Article 362
 ----
 En cas de réponse affirmative sur la culpabilité, le président donne lecture aux
-jurés des dispositions des articles 132-18 et 132-24 du code pénal. La cour
-d'assises délibère alors sans désemparer sur l'application de la peine. Le vote
-a lieu ensuite au scrutin secret, et séparément pour chaque accusé.
+jurés des dispositions des articles 132-18 et 132-24 du code pénal, ainsi que,
+si les faits ont été commis en état de récidive légale, de l'article 132-18-1
+et, le cas échéant, de l'article 132-19-1 du même code. La cour d'assises
+délibère alors sans désemparer sur l'application de la peine. Le vote a lieu
+ensuite au scrutin secret, et séparément pour chaque accusé.
 
 La décision sur la peine se forme à la majorité absolue des votants. Toutefois,
 le maximum de la peine privative de liberté encourue ne peut être prononcé qu'à

@@ -5,11 +5,12 @@ représentation, d'une part, des établissements publics à caractère scientifi
 culturel et professionnel et, d'autre part, des grands intérêts nationaux,
 notamment éducatifs, culturels, scientifiques, économiques et sociaux.
 
-Les représentants des personnels et des étudiants des établissements à caractère
-scientifique, culturel et professionnel sont élus au scrutin secret et par
-collèges distincts tels que définis à l'article L. 719-1. Les représentants des
-grands intérêts nationaux sont nommés par le ministre chargé de l'enseignement
-supérieur.
+Les établissements publics à caractère scientifique, culturel et professionnel
+sont représentés par les deux conférences composant la Conférence des chefs
+d'établissements de l'enseignement supérieur, qui désignent leurs représentants,
+et par des représentants élus des personnels et des étudiants, élus au scrutin
+secret par collèges distincts. Les représentants des grands intérêts nationaux
+sont nommés par le ministre chargé de l'enseignement supérieur.
 
 Le conseil est présidé par le ministre chargé de l'enseignement supérieur.
 

@@ -10,7 +10,9 @@ philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial
 culturel ou concourant à la mise en valeur du patrimoine artistique, à la
 défense de l'environnement naturel où à la diffusion de la culture, de la langue
 et des connaissances scientifiques françaises, notamment quand ces versements
-sont faits au bénéfice d'une fondation d'entreprise, même si cette dernière
+sont faits au bénéfice d'une fondation universitaire, d'une fondation
+partenariale mentionnées respectivement aux articles L. 719-12 et L. 719-13 du
+code de l'éducation ou d'une fondation d'entreprise, même si cette dernière
 porte le nom de l'entreprise fondatrice. Ces dispositions s'appliquent même si
 le nom de l'entreprise versante est associé aux opérations réalisées par ces
 organismes ;
@@ -25,10 +27,8 @@ la mission de ces associations est reconnue d'utilité publique. Un décret en
 Conseil d'Etat fixe les conditions de cette reconnaissance et les modalités de
 procédure permettant de l'accorder ;
 
-c) Des établissements d'enseignement supérieur ou d'enseignement artistique,
-publics ou privés, à but non lucratif, agréés par le ministre chargé du budget
-ainsi que par le ministre chargé de l'enseignement supérieur ou par le ministre
-chargé de la culture ;
+c) Des établissements d'enseignement supérieur ou d'enseignement artistique
+publics ou privés, d'intérêt général, à but non lucratif ;
 
 d) Des sociétés ou organismes publics ou privés agréés à cet effet par le
 ministre chargé du budget en vertu de l'article 4 de l'ordonnance n° 58-882 du
@@ -43,21 +43,24 @@ versements soient affectés à cette activité. Cette disposition ne s'applique 
 aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
 à la violence ;
 
-f) De la "Fondation du patrimoine" ou d'une fondation ou une association qui
-affecte irrévocablement ces versements à la "Fondation du patrimoine", en vue de
-subventionner la réalisation des travaux prévus par les conventions conclues en
-application de l'article L. 143-2-1 du code du patrimoine entre la "Fondation du
-patrimoine" et les propriétaires des immeubles, personnes physiques ou sociétés
-civiles composées uniquement de personnes physiques et qui ont pour objet
-exclusif la gestion et la location nue des immeubles dont elles sont
-propriétaires.
+e bis) De projets de thèse proposés au mécénat de doctorat par les écoles
+doctorales dans des conditions fixées par décret ;
+
+f) De la " Fondation du patrimoine " ou d'une fondation ou une association qui
+affecte irrévocablement ces versements à la " Fondation du patrimoine ", en vue
+de subventionner la réalisation des travaux prévus par les conventions conclues
+en application de l'article L. 143-2-1 du code du patrimoine entre la "
+Fondation du patrimoine " et les propriétaires des immeubles, personnes
+physiques ou sociétés civiles composées uniquement de personnes physiques et qui
+ont pour objet exclusif la gestion et la location nue des immeubles dont elles
+sont propriétaires.
 
 Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une
 exploitation commerciale.
 
 Les dirigeants ou les membres du conseil d'administration ou du directoire de la
-société ne doivent pas avoir conclu une convention avec la "Fondation du
-patrimoine" en application de l'article L. 143-2-1 précité, être propriétaires
+société ne doivent pas avoir conclu une convention avec la " Fondation du
+patrimoine " en application de l'article L. 143-2-1 précité, être propriétaires
 de l'immeuble sur lequel sont effectués les travaux ou être un conjoint, un
 ascendant, un descendant ou un collatéral du propriétaire de cet immeuble.
 Lorsque l'immeuble est détenu par une société mentionnée au premier alinéa, les
@@ -98,7 +101,7 @@ imposable.
 prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à
 l'article 1649 nonies et dont l'objet exclusif est de verser des aides
 financières permettant la réalisation d'investissements tels que définis au c de
-l'article 2 du règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
+l'article 2 du règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001,
 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
 faveur des petites et moyennes entreprises ou de fournir des prestations
 d'accompagnement à des petites et moyennes entreprises telles qu'elles sont
@@ -113,7 +116,7 @@ l'ensemble des conditions suivantes :
 l'intérêt direct des entreprises bénéficiaires ;
 
 3° Les aides accordées entrent dans le champ d'application du règlement (CE) n°
-70/2001 précité ou sont spécifiquement autorisées par la Commission ;
+70 / 2001 précité ou sont spécifiquement autorisées par la Commission ;
 
 4° Le montant versé chaque année à une entreprise ne devra pas excéder 20 % des
 ressources annuelles de l'organisme ;
