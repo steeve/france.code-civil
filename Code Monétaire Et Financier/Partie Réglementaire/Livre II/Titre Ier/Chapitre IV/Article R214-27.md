@@ -17,13 +17,14 @@ l'organisme de placement collectif en valeurs mobilières ou à ses porteurs ou
 actionnaires.
 
 II. - Pour les organismes de placement collectif en valeurs mobilières relevant
-du présent article, le respect des limites fixées à l'article R. 214-13
+du présent article, le respect des limites fixées au II de l'article R. 214-13
 s'apprécie à la date de conclusion des contrats constituant des instruments
 financiers à terme.
 
 Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de
 placement collectif en valeurs mobilières relevant de la présente sous-section
-est constitué par la perte potentielle de cet organisme évaluée à tout moment.
+est constitué, à tout moment, par la perte maximale de cet organisme évaluée à
+la même date.
 
 III. - Les dispositions de l'article R. 214-28 sont applicables à un organisme
 de placement collectif en valeurs mobilières relevant du présent article dont

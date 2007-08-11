@@ -6,7 +6,9 @@ sans effet de levier.
 
 Toutefois, un organisme de placement collectif en valeurs mobilières à règles
 d'investissement allégées sans effet de levier ne peut employer plus de 10 % de
-son actif en instruments mentionnés au 8° de l'article R. 214-5.
+son actif en instruments mentionnés à l'article L. 214-130, et 20 % de son actif
+en instruments mentionnés à l'article L. 214-120. Les instruments mentionnés au
+8° de l'article R. 214-5 ne peuvent représenter plus de 20 % de son actif.
 
 II. - L'article R. 214-8 n'est pas applicable aux organismes de placement
 collectif en valeurs mobilières mentionnés au I.

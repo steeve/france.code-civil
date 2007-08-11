@@ -3,7 +3,7 @@ Article R214-7
 I. - Par dérogation à la limite de 5 % fixée au sixième alinéa de l'article L.
 214-4, un organisme de placement collectif en valeurs mobilières :
 
-1° Peut employer en instruments financiers mentionnés aux a, b et d du 2° de
+1° Peut employer en instruments financiers mentionnés aux a, b, d et f du 2° de
 l'article R. 214-1-1 émis par une même entité 35 % de son actif si ces titres
 sont émis ou garantis par un Etat membre de l'Organisation de coopération et de
 développement économique, par les collectivités territoriales d'un Etat membre
@@ -38,9 +38,9 @@ appliquer les limites de 20 % et de 40 % mentionnées au I de l'article R. 214-6
 
 III. - Par dérogation aux dispositions du III de l'article R. 214-6, lorsqu'ils
 sont cumulés avec les instruments financiers mentionnés au I du présent article,
-les investissements dans les instruments financiers mentionnés aux a, b et d du
-2° de l'article R. 214-1-1 d'une entité, les dépôts placés auprès de celle-ci et
-le risque de contrepartie défini au II de l'article R. 214-12 sur celle-ci
+les investissements dans les instruments financiers mentionnés aux a, b, d et f
+du 2° de l'article R. 214-1-1 d'une entité, les dépôts placés auprès de celle-ci
+et le risque de contrepartie défini au II de l'article R. 214-12 sur celle-ci
 peuvent atteindre 35 % de l'actif de l'organisme de placement collectif en
 valeurs mobilières.
 

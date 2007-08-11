@@ -25,7 +25,7 @@ valeurs mobilières sont des sûretés, l'acte constitutif de ces sûretés déf
 1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser
 ou aliéner. A défaut de cette indication, le bénéficiaire ne peut utiliser ou
 aliéner que des dépôts, des liquidités ou des instruments financiers mentionnés
-au a, b, c ou d du 2° de l'article R. 214-1-1 ;
+au a, b, c, d ou f du 2° de l'article R. 214-1-1 ;
 
 2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut
 utiliser ou aliéner. Ce montant maximal ne peut excéder 100 % de la créance du
@@ -38,9 +38,9 @@ organisme de placement collectif en valeurs mobilières sont définies dans l'ac
 constitutif des garanties ou dans un contrat annexe conclu entre les parties. A
 défaut d'avoir prévu ces modalités d'évaluation, la réalisation des garanties ne
 peut concerner que des dépôts, des liquidités ou des instruments financiers
-mentionnés au a, b, c ou d du 2° de l'article R. 214-1-1. Le règlement général
-de l'Autorité des marchés financiers précise les modalités d'évaluation des
-biens ou droits remis en garantie par l'organisme.
+mentionnés au a, b, c, d ou f du 2° de l'article R. 214-1-1. Le règlement
+général de l'Autorité des marchés financiers précise les modalités d'évaluation
+des biens ou droits remis en garantie par l'organisme.
 
 II. - Le risque de contrepartie sur un même cocontractant est le risque que
 celui-ci manque à une de ses obligations et amène de ce fait l'organisme de
@@ -66,8 +66,17 @@ valeur de l'actif de l'organisme.
 Les modalités de calcul de l'engagement sont définies par le règlement général
 de l'Autorité des marchés financiers.
 
-IV. - Le recours par un organisme de placement collectif en valeurs mobilières à
-des instruments financiers à terme, des opérations de pension, ainsi que toute
-autre opération assimilée d'acquisition ou de cession temporaire de titres ne
-doit pas amener cet organisme à s'écarter des objectifs d'investissement exposés
-dans les documents d'information destinés aux souscripteurs.
+IV. - Un organisme de placement collectif en valeurs mobilières ne peut recourir
+aux techniques et instruments afférents aux actifs mentionnés aux a, b, d et f
+du 2° de l'article R. 214-1-1, et notamment à des opérations de pension, à des
+opérations assimilées d'acquisition ou de cession temporaire de titres, que
+lorsque ces techniques et instruments satisfont aux conditions suivantes :
+
+1° Leur mise en oeuvre répond à un intérêt économique pour l'organisme de
+placement collectif en valeurs mobilières ;
+
+2° Ils ont pour objectif soit la réduction des risques ou des coûts, soit
+l'augmentation de la valeur d'inventaire net ou des revenus, soit la réalisation
+de l'objectif de gestion de l'organisme de placement collectif en valeurs
+mobilières, avec un niveau de risque compatible avec son profil de risque ainsi
+qu'avec le respect du sixième alinéa de l'article L. 214-4.

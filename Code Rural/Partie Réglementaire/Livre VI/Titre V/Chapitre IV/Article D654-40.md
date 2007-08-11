@@ -10,4 +10,7 @@ notification des taux de référence de matière grasse. Cet arrêté fixe égal
 les conditions d'utilisation des quantités de référence individuelles si les
 producteurs qui en disposent ne les utilisent pas en tout ou partie au cours de
 la campagne en cause ainsi que les conditions d'utilisation du trop-perçu
-mentionné à à l'article 13, du même règlement.
+mentionné à à l'article 13, du même règlement. Un arrêté du ministre chargé de
+l'agriculture, pris après avis du conseil de direction de l'Office de l'élevage,
+fixe les modalités de détermination du taux de référence de matière grasse des
+producteurs effectuant des livraisons en laiterie.

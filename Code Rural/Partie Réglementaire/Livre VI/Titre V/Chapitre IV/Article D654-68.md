@@ -14,12 +14,12 @@ pénalité prévue à l'article 11, point 3, du règlement (CE) n° 595/2004 du 
 mars 2004.
 
 Le producteur qui n'a pas transmis cette déclaration à l'Office de l'élevage
-avant le 1er juillet suivant la fin de la campagne est passible de la sanction
+avant le 15 juin suivant la fin de la campagne est passible de la sanction
 prévue au 7° de l'article L. 654-33.
 
 La mise en réserve de la quantité de référence pour la vente directe par le
-directeur de l'Office de l'élevage intervient à l'expiration d'un délai d'un
-mois après mise en demeure, si celle-ci est restée sans effet.
+directeur de l'Office de l'élevage intervient à l'expiration d'un délai de
+quinze jours après mise en demeure, si celle-ci est restée sans effet.
 
 La mise en réserve ne peut être prononcée qu'après avis de la commission de
 conciliation des litiges prévue à l'article D. 654-94.

@@ -18,7 +18,14 @@ sociétés ;
 participations directes détenues par les sociétés mentionnées au 2° du présent
 article dans des sociétés mentionnées à l'article R. 214-63, au prorata des
 participations directes et indirectes de l'organisme de placement collectif
-immobilier dans lesdites sociétés mentionnées au 2° du présent article.
+immobilier dans lesdites sociétés mentionnées au 2° du présent article ;
+
+4° Des participations directes dans des organismes mentionnés au e du I de
+l'article L. 214-92, ainsi que des participations directes détenues par les
+sociétés mentionnées au 2° du présent article dans les organismes mentionnés
+audit e, au prorata des participations directes et indirectes de l'organisme de
+placement collectif immobilier dans lesdites sociétés mentionnées au 2° du
+présent article.
 
 II. - Pour l'appréciation de la limite de 10 % mentionnée à l'article R.
 214-163, il est tenu compte, au numérateur, des participations mentionnées au 3°

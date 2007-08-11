@@ -4,24 +4,16 @@ Un organisme de placement collectif en valeurs mobilières peut conclure des
 contrats constituant des instruments financiers à terme répondant aux
 caractéristiques des dérivés de crédit définis par les conventions mentionnées à
 l'article L. 431-7, dans les conditions fixées aux articles R. 214-12 et R.
-214-13 et à chacune des conditions suivantes :
+214-13.
 
-1° La société de gestion assurant directement ou par délégation la gestion de
-l'organisme de placement collectif en valeurs mobilières qui conclurait au moins
-un tel contrat doit au préalable faire approuver par l'Autorité des marchés
-financiers un programme d'activités spécifique. Celui-ci doit notamment prévoir
-des systèmes de gestion et une organisation permettant :
+Ces instruments financiers à terme permettent de transférer le risque de crédit
+lié à leur actif sous-jacent, indépendamment des autres risques liés à cet actif
+sous-jacent et respectent les critères qui suivent :
 
-a) Une évaluation quotidienne par la société de gestion des contrats précités.
-Cette évaluation fait l'objet d'une comparaison au moins mensuelle avec une
-évaluation externe ;
-
-b) Une analyse des risques, réalisée par une unité indépendante des unités
-commerciales et opérationnelles et soumise au moins semestriellement à l'organe
-délibérant de la société de gestion en vue notamment de la définition de limites
-;
-
-c) L'exercice d'un contrôle interne indépendant des fonctions opérationnelles ;
+1° Dans des conditions fixées par le règlement général de l'Autorité des marchés
+financiers, l'organisme de placement collectif en valeurs mobilières prend en
+compte de façon appropriée le risque que son cocontractant détienne des
+informations auxquelles il n'a pas accès ;
 
 2° Les émetteurs sur lesquels repose le risque de crédit peuvent être :
 
@@ -47,5 +39,5 @@ au sens du I de l'article R. 214-2 ;
 e) Plusieurs entités relevant des catégories a à d ci-dessus ;
 
 3° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à
-la livraison ou au transfert d'actifs éligibles à l'actif d'un organisme de
-placement collectif en valeurs mobilières.
+la livraison ou au transfert d'actifs, en ce compris les espèces, éligibles à
+l'actif d'un organisme de placement collectif en valeurs mobilières.
