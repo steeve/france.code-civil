@@ -1,54 +1,23 @@
 Article R6144-42
 ----
-Le comité technique d'établissement comprend, outre le directeur de
+I. - Le comité technique d'établissement comprend, outre le directeur de
 l'établissement ou son représentant, président, les représentants du personnel
 suivants :
 
-1° Dans les établissements de moins de cent agents :
+1° Dans les établissements de moins de cinquante agents : trois membres
+titulaires et trois membres suppléants ;
 
-a) Un membre titulaire et un membre suppléant représentant les personnels
-composant le collège des agents de la catégorie A ;
+2° Dans les établissements de cinquante à quatre-vingt-dix-neuf agents : six
+membres titulaires et six membres suppléants ;
 
-b) Deux membres titulaires et deux membres suppléants représentant les
-personnels composant le collège des agents de la catégorie B ;
+3° Dans les établissements de cent agents au moins et cinq cents agents au plus
+: dix membres titulaires et dix membres suppléants ;
 
-c) Trois membres titulaires et trois membres suppléants représentant les
-personnels composant le collège des agents des catégories C et D ;
+4° Dans les établissements comptant cinq cent un agents au moins et deux mille
+agents au plus : seize membres titulaires et seize membres suppléants ;
 
-2° Dans les établissements de cent agents au moins et cinq cents agents au plus
-:
-
-a) Un membre titulaire et un membre suppléant représentant les personnels
-composant le collège des agents de la catégorie A ;
-
-b) Quatre membres titulaires et quatre membres suppléants représentant les
-personnels composant le collège des agents de la catégorie B ;
-
-c) Cinq membres titulaires et cinq membres suppléants représentant les
-personnels composant le collège des agents des catégories C et D ;
-
-3° Dans les établissements comptant cinq cent un agents au moins et deux mille
-agents au plus :
-
-a) Deux membres titulaires et deux membres suppléants représentant les
-personnels composant le collège des agents de la catégorie A ;
-
-b) Six membres titulaires et six membres suppléants représentant les personnels
-composant le collège des agents de la catégorie B ;
-
-c) Huit membres titulaires et huit membres suppléants représentant les
-personnels composant le collège des agents des catégories C et D ;
-
-4° Dans les établissements de plus de deux mille agents :
-
-a) Trois membres titulaires et trois membres suppléants représentant les
-personnels composant le collège des agents de la catégorie A ;
-
-b) Sept membres titulaires et sept membres suppléants représentant les
-personnels composant le collège des agents de la catégorie B ;
-
-c) Dix membres titulaires et dix membres suppléants représentant les personnels
-composant le collège des agents des catégorie C et D.
+5° Dans les établissements de plus de deux mille agents : vingt membres
+titulaires et vingt membres suppléants.
 
 Pour l'application de ces dispositions, l'effectif à prendre en considération
 est celui de l'ensemble des fonctionnaires titulaires et stagiaires et des
@@ -62,3 +31,24 @@ l'exception des personnels mentionnés au dernier alinéa de l'article 2 du titr
 IV du statut général des fonctionnaires. Cet effectif est apprécié au 31
 décembre de l'année qui précède celle au cours de laquelle le comité est
 constitué ou renouvelé.
+
+II. - Le nombre des représentants à élire pour chaque collège est proportionnel
+à l'effectif des agents qui en relèvent.
+
+Les sièges sont attribués selon la règle suivante :
+
+1° Il est attribué à chaque collège le nombre de sièges correspondant à la
+partie entière de la proportion ;
+
+2° Les sièges restant à attribuer le sont par ordre décroissant de la décimale
+jusqu'à atteindre le nombre total prévu aux 1°, 2°, 3°, 4° et 5° du I du présent
+article.
+
+Toutefois, cette règle ne doit pas conduire à ce que :
+
+a) Sous réserve de l'application des dispositions de l'article R. 6144-45 du
+présent code, une catégorie n'ait aucun siège ;
+
+b) Le nombre de sièges des représentants de la catégorie A soit inférieur à deux
+dans les établissements comptant cinq cent un agents au moins et deux mille
+agents au plus, et à trois dans les établissements de plus de deux mille agents.

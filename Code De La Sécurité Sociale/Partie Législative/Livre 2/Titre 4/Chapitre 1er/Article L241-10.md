@@ -94,7 +94,8 @@ familiales, dans la limite, lorsqu'elles ne sont pas éligibles à une autre
 exonération mentionnée au présent article, d'un plafond déterminé par décret. Le
 bénéfice de cette exonération n'est pas cumulable avec celui d'une autre
 exonération totale ou partielle de cotisations patronales ou l'application de
-taux ou d'assiettes spécifiques ou de montants forfaitaires de cotisations.
+taux ou d'assiettes spécifiques ou de montants forfaitaires de cotisations, à
+l'exception de la déduction forfaitaire prévue à l'article L. 241-18.
 
 IV. - Par dérogation aux dispositions de l'article L. 131-7 du présent code,
 l'exonération prévue au III n'est pas compensée par le budget de l'Etat.

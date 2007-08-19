@@ -66,16 +66,11 @@ entraîné la clôture du plan.
 long terme est réputé égal au dernier cours coté au comptant de ces titres
 précédant l'expiration de cet engagement.
 
-8. Le gain net mentionné au 1 du II de l'article 150-0 A est constitué par la
-différence entre le prix effectif de cession des actions, net des frais et taxes
-acquittés par le cédant, et le prix de souscription ou d'achat.
-
-Le prix d'acquisition est, le cas échéant, augmenté du montant mentionné à
-l'article 80 bis imposé selon les règles prévues pour les traitements et
-salaires.
-
-Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est
-réputé égal à la valeur de l'action à la date de la levée de l'option.
+8. Pour les actions acquises dans les conditions prévues aux articles L. 225-177
+à L. 225-186 du code de commerce, le prix d'acquisition des titres à retenir par
+le cessionnaire pour la détermination du gain net est le prix de souscription ou
+d'achat des actions augmenté de l'avantage défini à l'article 80 bis du présent
+code.
 
 8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une
 opération mentionnée au 4 de l'article L. 313-7 du code monétaire et financier,

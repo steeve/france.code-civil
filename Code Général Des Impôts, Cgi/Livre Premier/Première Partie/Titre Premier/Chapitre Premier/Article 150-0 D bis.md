@@ -34,18 +34,18 @@ administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
 III. - Les dispositions du I ne s'appliquent pas :
 
-1° A l'avantage mentionné au I de l'article 163 bis C, aux plus-values
-mentionnées aux articles 238 bis HK et 238 bis HS et aux pertes constatées dans
-les conditions prévues aux 12 et 13 de l'article 150-0 D ;
+1° aux plus-values mentionnées aux articles 238 bis HK et 238 bis HS et aux
+pertes constatées dans les conditions prévues aux 12 et 13 de l'article 150-0 D
+;
 
-2° Aux gains nets de cession d'actions de sociétés d'investissement mentionnées
+2° aux gains nets de cession d'actions de sociétés d'investissement mentionnées
 aux 1° bis, 1° ter et 3° septies de l'article 208 et de sociétés unipersonnelles
 d'investissement à risque pendant la période au cours de laquelle elles
 bénéficient de l'exonération d'impôt sur les sociétés prévue à l'article 208 D,
 ainsi que de sociétés de même nature établies hors de France et soumises à un
 régime fiscal équivalent ;
 
-3° Aux gains nets de cession d'actions des sociétés mentionnées au 1° bis A de
+3° aux gains nets de cession d'actions des sociétés mentionnées au 1° bis A de
 l'article 208, des sociétés de placement à prépondérance immobilière à capital
 variable régies par les articles L. 214-89 et suivants du code monétaire et
 financier et des sociétés de même nature établies hors de France et soumises à

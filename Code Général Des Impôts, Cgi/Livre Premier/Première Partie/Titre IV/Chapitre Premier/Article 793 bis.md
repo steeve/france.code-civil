@@ -15,7 +15,7 @@ de cette limite.
 Pour l'appréciation de cette limite, il est tenu compte de l'ensemble des
 donations consenties par la même personne à un titre, à une date et sous une
 forme quelconques à l'exception des donations passées devant notaire depuis plus
-de dix ans.
+de six ans.
 
 L'exonération partielle visée au premier alinéa ne s'applique pas lorsque le
 bail a été consenti depuis moins de deux ans au donataire de la transmission, à
