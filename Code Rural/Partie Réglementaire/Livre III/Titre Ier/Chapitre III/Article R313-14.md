@@ -24,14 +24,12 @@ Il recherche, en accord avec les sociétés d'aménagement foncier et
 d'établissement rural, des terres et des exploitations afin de les mettre à la
 disposition des agriculteurs.
 
-Il reçoit et instruit sous le contrôle de l'administration les demandes d'aide
-et il les transmet, en vue de décisions, à l'autorité administrative compétente
-pour y statuer.
-
-Il assure, sous réserve de l'application des dispositions réglementaires
-prévoyant l'intervention d'autres organismes ou services publics, le paiement
-des subventions correspondant aux différentes catégories d'aides et le
-recouvrement des indus.
+Sous réserve des dispositions réglementaires particulières prévues au II de
+l'article L. 313-1, il reçoit et instruit sous contrôle de l'administration les
+demandes d'aides et les transmet, en vue de décisions, à l'autorité
+administrative compétente pour y statuer et assure la liquidation et le paiement
+des sommes correspondant aux différentes aides dont la gestion lui est confiée
+ainsi que le recouvrement des indus.
 
 Dans le cadre des programmes arrêtés par le ministre de l'agriculture, il
 procède, en liaison avec les autres services publics et organismes de
