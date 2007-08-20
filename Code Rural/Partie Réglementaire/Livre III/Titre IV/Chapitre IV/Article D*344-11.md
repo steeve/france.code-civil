@@ -11,5 +11,3 @@ des prêts spéciaux de modernisation.
 Après avoir recueilli l'avis de la commission départementale d'orientation de
 l'agriculture, le préfet se prononce sur l'agrément du plan, au vu du rapport
 d'instruction.
-
-Le silence gardé pendant plus de six mois par le préfet vaut décision de rejet.
