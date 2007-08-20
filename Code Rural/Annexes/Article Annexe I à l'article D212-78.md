@@ -544,11 +544,13 @@ aux dispositions de la loi n° 95-96 du 1er février 1995 concernant les clauses
 abusives et la présentation des contrats et régissant diverses activités d'ordre
 économique et commercial ainsi que de la qualité de la prestation rendue.
 
-Le prix de transport initialement convenu est révisé en cas de variations
-significatives des charges de l'entreprise de transport, qui tiennent à des
-conditions extérieures à cette dernière, tel notamment le prix des carburants,
-et dont la partie demanderesse justifie par tous moyens. Toute prestation annexe
-ou complémentaire est rémunérée au prix convenu. Tel est le cas, notamment :
+Sans préjudice des dispositions des paragraphes II et III de l'article 24 de
+ladite loi, le prix du transport initialement convenu est révisé en cas de
+variations significatives des charges de l'entreprise de transport qui tiennent
+à des conditions extérieures à cette dernière.
+
+Toute prestation annexe ou complémentaire est rémunérée au prix convenu. Tel est
+le cas, notamment :
 
 1. Des opérations d'encaissement, en particulier dans le cas d'encaissement
 différé ;
@@ -613,19 +615,24 @@ doit intervenir. Elle précise les conditions d'escompte applicables en cas de
 paiement à une date antérieure à celle mentionnée sur ladite facture. Cette
 dernière doit être réglée au plus tard à la date indiquée.
 
-20.4. Tout retard dans le paiement entraîne de plein droit, après mise en
-demeure, le versement de pénalités d'un montant au moins équivalent à une fois
-et demie le taux d'intérêt légal, conformément à l'article L. 441-6, alinéa 3,
-du code de commerce, sans préjudice de la réparation, dans les conditions du
-droit commun, de tout autre dommage résultant de ce retard.
+20.4. Conformément aux dispositions de l'article L. 441-6, alinéa 9, du code de
+commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à
+trente jours à compter de la date d'émission de la facture.
 
-20.5. Le non-paiement total ou partiel d'une facture à une seule déchéance
+20.5. Le paiement est exigible à la réception de la facture et à son lieu
+d'émission. Tout retard dans le paiement entraîne de plein droit, après mise en
+demeure, le versement de pénalités d'un montant au moins équivalent à une fois
+et demie le taux légal, conformément à l'article L. 441-6, alinéa 10, du code de
+commerce, sans préjudice de la réparation, dans les conditions du droit commun,
+de tout autre dommage résultant de ce retard.
+
+20.6. Le non-paiement total ou partiel d'une facture à une seule déchéance
 emporte, sans formalité, déchéance du terme entraînant l'exigibilité immédiate
 du règlement, sans mise en demeure, de toutes sommes dues, même à terme, à la
 date de ce manquement et autorise le transporteur à exiger le paiement comptant
 avant l'exécution de toute nouvelle opération.
 
-20.6. En cas de perte et/ou d'avarie partielles ou totales de la marchandise, le
+20.7. En cas de perte et/ou d'avarie partielles ou totales de la marchandise, le
 transporteur a droit au paiement du prix du transport, sous réserve qu'il règle
 l'indemnité correspondante.
 
