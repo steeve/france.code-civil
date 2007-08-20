@@ -1,6 +1,6 @@
 Article 150-0 A
 ----
-I. - 1. Sous réserve des dispositions propres aux bénéfices industriels et
+I.-1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
 des articles 150 UB et 150 UC, les gains nets retirés des cessions à titre
 onéreux, effectuées directement ou par personne interposée, de valeurs
@@ -44,8 +44,8 @@ ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours 
 cinq dernières années, la plus-value réalisée lors de la cession de ces droits,
 pendant la durée de la société, à l'une des personnes mentionnées au présent
 alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
-un tiers dans un délai de cinq ans. A défaut, la plus-value est imposée au nom
-du premier cédant au titre de l'année de la revente des droits au tiers.
+un tiers dans un délai de cinq ans.A défaut, la plus-value est imposée au nom du
+premier cédant au titre de l'année de la revente des droits au tiers.
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
 l'option pour l'imputation des pertes a été exercée dans les conditions du
@@ -53,11 +53,9 @@ deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'anné
 au cours de laquelle elles sont reçues, quel que soit le montant des cessions
 réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
 
-II. - Les dispositions du I sont applicables :
+II.-Les dispositions du I sont applicables :
 
-1. Au gain net retiré des cessions d'actions acquises par le bénéficiaire d'une
-option accordée dans les conditions prévues aux articles L. 225-177 à L. 225-186
-du code de commerce ;
+1. (Abrogé) ;
 
 2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
 l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de
@@ -117,7 +115,7 @@ revenu au titre de ce rachat dans les conditions prévues aux articles 109, 112,
 120 et 161 est ajouté au montant des cessions réalisées au cours de la même
 année.
 
-III. - Les dispositions du I ne s'appliquent pas :
+III.-Les dispositions du I ne s'appliquent pas :
 
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques
 mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts,
@@ -145,12 +143,12 @@ placement, constitués en application des législations sur la participation des
 salariés aux résultats des entreprises et les plans d'épargne d'entreprise ainsi
 qu'aux rachats de parts de tels fonds ;
 
-4. A la cession des titres acquis dans le cadre de la législation sur la
+4.A la cession des titres acquis dans le cadre de la législation sur la
 participation des salariés aux résultats de l'entreprise et sur l'actionnariat
 des salariés, à la condition que ces titres revêtent la forme nominative et
 comportent la mention d'origine ;
 
-5. A la cession de titres effectuée dans le cadre d'un engagement d'épargne à
+5.A la cession de titres effectuée dans le cadre d'un engagement d'épargne à
 long terme lorsque les conditions fixées par l'article 163 bis A sont respectées
 ;
 
