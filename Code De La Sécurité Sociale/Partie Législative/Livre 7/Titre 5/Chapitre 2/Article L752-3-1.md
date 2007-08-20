@@ -76,7 +76,8 @@ taux et sur l'assiette de rémunération correspondant à cette activité.
 
 IV bis. - Les exonérations prévues par le présent article ne peuvent être
 cumulées avec une autre exonération totale ou partielle de cotisations
-patronales de sécurité sociale.
+patronales de sécurité sociale, à l'exception de la déduction forfaitaire prévue
+à l'article L. 241-18.
 
 V. - Toute condamnation pénale de l'entreprise ou du chef d'entreprise pour
 fraude fiscale, travail dissimulé, marchandage ou prêt illicite de

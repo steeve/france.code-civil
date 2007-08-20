@@ -23,6 +23,7 @@ organismes visés à l'article 1er de la loi n° 90-568 du 2 juillet 1990 relati
 
 Le bénéfice des dispositions du présent article ne peut être cumulé avec celui
 d'une autre exonération totale ou partielle de cotisations patronales de
-sécurité sociale, à l'exception de l'abattement prévu à l'article L. 322-12 du
-code du travail, ni avec l'application de taux spécifiques, d'assiettes ou
-montants forfaitaires de cotisations.
+sécurité sociale, à l'exception de la déduction forfaitaire prévue à l'article
+L. 241-18 et de l'abattement prévu à l'article L. 322-12 du code du travail, ni
+avec l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
+cotisations.

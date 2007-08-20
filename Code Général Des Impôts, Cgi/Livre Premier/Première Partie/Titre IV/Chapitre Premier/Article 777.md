@@ -27,7 +27,8 @@ Au-delà de 1 700 000 euros : 40 %.
 
 TABLEAU II
 
-Tarif des droits applicables entre époux
+Tarif des droits applicables entre époux et entre partenaires liés par un pacte
+civil de solidarité
 
 FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
@@ -69,3 +70,8 @@ Entre parents au-delà du quatrième degré et entre personnes non parentes : 60
 Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795,
 les dons et legs faits aux établissements publics ou d'utilité publique sont
 soumis aux tarifs fixés pour les successions entre frères et soeurs.
+
+Les limites des tranches des tarifs prévus aux tableaux ci-dessus sont
+actualisées au 1er janvier de chaque année dans la même proportion que la limite
+supérieure de la première tranche du barème de l'impôt sur le revenu et
+arrondies à l'euro le plus proche.

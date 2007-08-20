@@ -7,7 +7,7 @@ soumis à la formalité fusionnée et qui mentionne exactement la date et le lie
 du décès ainsi que le nom et l'adresse de l'un au moins des héritiers et autres
 ayants droit, soit de l'enregistrement d'un écrit ou d'une déclaration portant
 les mêmes mentions. En aucun cas il ne peut en résulter une prolongation du
-délai de dix ans fixé par l'article L. 186.
+délai fixé par l'article L. 186.
 
 Le délai de reprise ainsi déterminé ne concerne que les droits d'enregistrement
 exigibles sur des biens, sommes ou valeurs expressément mentionnés dans l'écrit

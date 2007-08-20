@@ -17,6 +17,6 @@ mutation à titre gratuit comme inclus dans les tranches les plus élevées de
 l'actif imposable.
 
 Pour le calcul des abattements et réductions édictés par les articles 779, 780,
-790 B, 790 C et 790 D il est tenu compte des abattements et des réductions
-effectués sur les donations antérieures visées au deuxième alinéa consenties par
-la même personne.
+790 B, 790 D, 790 E et 790 F il est tenu compte des abattements et des
+réductions effectués sur les donations antérieures visées au deuxième alinéa
+consenties par la même personne.

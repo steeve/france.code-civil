@@ -7,5 +7,5 @@ travail à la société ou à toute société contrôlée ou qui la contrôle au
 II et III de l'article L. 233-16, les dispositions dudit contrat correspondant,
 le cas échéant, à des éléments de rémunération, des indemnités ou des avantages
 dus ou susceptibles d'être dus à raison de la cessation ou du changement de ces
-fonctions, ou postérieurement à celles-ci, sont soumises aux dispositions des
-articles L. 225-38 et L. 225-40 à L. 225-42.
+fonctions, ou postérieurement à celles-ci, sont soumises au régime prévu par
+l'article L. 225-42-1.

@@ -55,13 +55,13 @@ sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, ainsi que du 9 de
 l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus à
-l'article 125 A, de ceux visés aux articles 81 A et 81 B, de ceux mentionnés au
-I de l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour
-lesquels l'option prévue au III du même article n'a pas été exercée, de ceux
-perçus par les fonctionnaires des organisations internationales, de ceux
-exonérés par application d'une convention internationale relative aux doubles
-impositions ainsi que de ceux exonérés en application des articles 163 quinquies
-B à 163 quinquies C bis ;
+l'article 125 A, de ceux visés aux articles 81 quater, 81 A et 81 B, de ceux
+mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais
+d'emploi et pour lesquels l'option prévue au III du même article n'a pas été
+exercée, de ceux perçus par les fonctionnaires des organisations
+internationales, de ceux exonérés par application d'une convention
+internationale relative aux doubles impositions ainsi que de ceux exonérés en
+application des articles 163 quinquies B à 163 quinquies C bis ;
 
 d. Du montant des plus-values exonérées en application des 1, 1 bis et 7 du III
 de l'article 150-0 A.

@@ -12,9 +12,9 @@ Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner
 également le montant des bénéfices exonérés en application des articles 44
 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, le
 montant des bénéfices exonérés en application du 9 de l'article 93, le montant
-des revenus exonérés en application des articles 81 A et 81 B, le montant des
-indemnités de fonction des élus locaux, après déduction de la fraction
-représentative des frais d'emploi, soumises à la retenue à la source en
+des revenus exonérés en application des articles 81 quater, 81 A et 81 B, le
+montant des indemnités de fonction des élus locaux, après déduction de la
+fraction représentative des frais d'emploi, soumises à la retenue à la source en
 application du I de l'article 204-0 bis pour lesquelles l'option prévue au III
 du même article n'a pas été exercée, les revenus de la nature et de l'origine de
 ceux mentionnés au 2°, sous réserve du 3°, et au 4° du 3 de l'article 158 perçus

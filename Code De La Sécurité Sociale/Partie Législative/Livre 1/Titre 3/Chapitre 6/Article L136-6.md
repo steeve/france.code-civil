@@ -17,14 +17,8 @@ d) (Abrogé)
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
 négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
-de l'avantage défini au 6 bis de l'article 200 A du code général des impôts.
-
-Pour l'application de l'alinéa précédent, le gain net retiré de la cession
-d'actions acquises dans les conditions prévues aux articles L. 225-177 à L.
-225-186 du code de commerce est égal à la différence entre le prix effectif de
-cession des actions net des frais et taxes acquittés par le cédant et le prix de
-souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
-deuxième alinéa de l'article L. 242-1 du code de la sécurité sociale.
+des avantages définis aux 6 et 6 bis de l'article 200 A du code général des
+impôts et du gain défini à l'article 150 duodecies du même code ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -33,8 +27,8 @@ contribution sur les revenus d'activité et de remplacement définie aux article
 L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A et, à l'article
-150-0 D bis, aux 2° et 5° du 3 de l'article 158 du code général des impôts.
+application des abattements mentionnés au I de l'article 125-0 A, à l'article
+150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts.
 
 II. - Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
@@ -72,6 +66,6 @@ applicables.
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
 par article de rôle est inférieur à 61 euros.
 
-La majoration de 10 p. 100 prévue à l'article 1730 du même code est appliquée au
+La majoration de 10 % prévue à l'article 1730 du même code est appliquée au
 montant de la contribution qui n'a pas été réglé dans les trente jours suivant
 la mise en recouvrement.

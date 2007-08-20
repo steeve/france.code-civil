@@ -3,8 +3,8 @@ Article 1414 A
 I. - Les contribuables autres que ceux mentionnés à l'article 1414, dont le
 montant des revenus de l'année précédente n'excède pas la limite prévue au II de
 l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à leur
-habitation principale pour la fraction de leur cotisation qui excède 4,3 % de
-leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
+habitation principale pour la fraction de leur cotisation qui excède 3,44 % (1)
+de leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
 a. 4 814 euros pour la première part de quotient familial, majoré de 1 391 euros
 pour les quatre premières demi-parts et de 2 461 euros pour chaque demi-part

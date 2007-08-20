@@ -18,7 +18,7 @@ d'assurance et assimilés à raison du décès du même assuré.
 
 Le bénéficiaire n'est pas assujetti au prélèvement visé au premier alinéa
 lorsqu'il est exonéré de droits de mutation à titre gratuit en application des
-dispositions de l'article 795.
+dispositions des articles 795, 796-0 bis et 796-0 ter.
 
 II. - Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable
 des impôts par les organismes d'assurance et assimilés ou leur représentant
