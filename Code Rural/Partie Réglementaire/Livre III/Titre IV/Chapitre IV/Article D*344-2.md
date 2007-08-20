@@ -6,10 +6,7 @@ suivantes :
 1° Etre âgé de plus de 18 ans et ne pas avoir fait valoir ses droits à la
 retraite dans un régime d'assurance vieillesse obligatoire de base ;
 
-2° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen, ou pouvoir invoquer les stipulations d'accords internationaux
-interdisant une restriction d'activité fondée sur la nationalité ;
+2° Alinéa abrogé.
 
 3° Conduire son exploitation en respectant l'environnement et les normes
 relatives au bien-être et à l'hygiène des animaux, dans les conditions prévues à
@@ -32,7 +29,7 @@ dans les conditions prévues par l'article L. 411-59 ou d'activité en tant que
 salarié dans une exploitation agricole ;
 
 c) S'engager à suivre une formation adaptée, dans un délai maximum de deux ans
-suivant la décision d'agrément du plan d'investissements défini à l'article R.
+suivant la décision d'agrément du plan d'investissements défini à l'article D.
 344-8 ou, dans le cas des prêts spéciaux d'élevage ou des prêts aux productions
 végétales spéciales, à compter de la décision d'octroi du prêt par le préfet ;
 
