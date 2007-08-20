@@ -1,7 +1,8 @@
 Article R6123-79
 ----
-Les autorisations sont subordonnées au respect des conditions fixées par les
-articles R. 6123-80 à R. 6123-82.
+L'établissement de santé autorisé à pratiquer l'activité de greffe d'organes
+doit pouvoir en assurer à tout moment la réalisation.
 
-Elles sont accordées en fonction des besoins de la population selon une
-répartition régionale équilibrée.
+L'établissement de santé autorisé à pratiquer l'activité de greffe de cellules
+hématopoïétiques doit pouvoir en assurer la réalisation dans des délais
+compatibles avec la nature de cette activité.

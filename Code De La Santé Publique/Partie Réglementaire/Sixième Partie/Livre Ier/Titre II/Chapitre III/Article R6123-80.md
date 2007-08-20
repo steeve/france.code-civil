@@ -1,6 +1,8 @@
 Article R6123-80
 ----
-Les unités mentionnées aux articles R. 6123-77 et R. 6123-78 comportent des lits
-d'hospitalisation, disposent de moyens en personnels spécialisés, en locaux et
-en équipements matériels correspondant aux besoins propres à chaque type de
-transplantation et définis par arrêté du ministre chargé de la santé.
+L'établissement de santé autorisé à pratiquer l'activité de greffes d'organes ou
+l'injection de cellules hématopoïétiques assure la prise en charge médicale des
+patients avant et après l'intervention pour greffe ou injection. Lorsque
+l'établissement n'assure pas lui-même le suivi des patients, il passe convention
+avec un ou plusieurs établissements de santé dans le cadre d'une filière de
+soins organisée.

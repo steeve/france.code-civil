@@ -1,9 +1,11 @@
 Article R6123-75
 ----
-Les activités de transplantations d'organes nécessitant un traitement
-immunodépresseur comportent au sens de la présente section :
+L'activité de greffes d'organes mentionnée au 8° de l'article R. 6122-25 associe
+la mise en place chirurgicale d'un organe, de plusieurs organes, d'une partie
+d'organe ou l'administration de cellules provenant d'un donneur vivant ou
+décédé, et un traitement immunosuppresseur du receveur.
 
-1° L'acte chirurgical de la transplantation, et la prise en charge
-médico-chirurgicale pré et post-opératoire.
-
-2° La greffe de moelle osseuse hormis l'autogreffe.
+L'activité de greffes de cellules hématopoïétiques mentionnée au 8° de l'article
+R. 6122-25 ne concerne que les allogreffes de cellules hématopoïétiques. Elle
+associe l'injection de cellules hématopoïétiques et un traitement
+immunosuppresseur du receveur.
