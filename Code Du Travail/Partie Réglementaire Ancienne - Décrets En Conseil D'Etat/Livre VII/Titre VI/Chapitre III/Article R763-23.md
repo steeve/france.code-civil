@@ -8,6 +8,6 @@ dossier en liaison avec le directeur régional des affaires culturelles.
 Elle peut être renouvelée pour une durée identique dans les conditions prévues à
 l'article R. 763-27.
 
-Les arrêtés portant délivrance, refus de renouvellement ou retrait de la licence
-d'agence de mannequins sont notifiés aux intéressés et publiés au Journal
-officiel de la République française.
+Les arrêtés portant délivrance, renouvellement, refus de renouvellement ou
+retrait de la licence d'agence de mannequins sont notifiés aux intéressés et
+publiés au Journal officiel de la République française.

@@ -1,45 +1,23 @@
 Article R763-30
 ----
-Il est créé auprès du ministre chargé du travail une commission consultative
-chargée de donner son avis sur la délivrance, le renouvellement et le retrait de
-la licence d'agence de mannequins.
+L'examen médical d'embauche prescrit par l'article R. 241-48 est effectué par le
+service de santé au travail chargé du suivi médical des mannequins.
 
-Cette commission est présidée par le ministre chargé du travail ou son
-représentant et comprend :
+Par dérogation aux dispositions du premier alinéa de l'article R. 241-48, cet
+examen demeure valable un an pour les différents contrats conclus par le
+mannequin auprès de la même agence de mannequins ou six mois pour les contrats
+conclus avec plusieurs agences de mannequins lorsque les conditions suivantes
+sont réunies :
 
-1° Cinq représentants de l'administration, à savoir :
+1° Le mannequin est appelé à occuper un emploi identique ;
 
-a) Deux représentants du ministre chargé du travail, de l'emploi et de la
-formation professionnelle ;
+2° Le médecin du travail, chargé de la surveillance médicale des mannequins de
+chaque agence de mannequins, est en possession de la fiche médicale d'aptitude
+établie en application de l'article R. 241-57 ;
 
-b) Un représentant du ministre chargé de la famille ;
+3° Aucune inaptitude n'a été reconnue lors du dernier examen médical intervenu
+au cours des douze mois précédents.
 
-c) Un représentant du ministre chargé de l'intérieur ;
-
-d) Un représentant du ministre chargé de la culture.
-
-2° Cinq représentants des organisations syndicales de mannequins ;
-
-3° Cinq représentants des organisations professionnelles d'agence de mannequins
-;
-
-4° Cinq représentants des organisations d'utilisateurs, à savoir :
-
-a) Un représentant des organisations professionnelles de photographes ;
-
-b) Un représentant des organisations professionnelles d'agents artistiques ;
-
-c) Un représentant des organisations professionnelles d'annonceurs ;
-
-d) Un représentant des organisations professionnelles d'agences-conseils en
-communication ;
-
-e) Un représentant des organisations professionnelles de producteurs de films
-publicitaires.
-
-Les représentants des organisations professionnelles et syndicales mentionnées
-aux 2°, 3° et 4° ci-dessus sont nommés sur propositions de ces organisations,
-pour une durée de trois ans renouvelable, par arrêté du ministre chargé du
-travail. Ils ont des suppléants, désignés dans les mêmes conditions, qui ne
-participent aux délibérations qu'en cas d'absence ou d'empêchement des
-titulaires.
+La mise en oeuvre de la dérogation mentionnée au deuxième alinéa est subordonnée
+à la conclusion et à l'extension d'un accord de branche, prévoyant notamment les
+modalités de répartition du financement de la surveillance médicale.

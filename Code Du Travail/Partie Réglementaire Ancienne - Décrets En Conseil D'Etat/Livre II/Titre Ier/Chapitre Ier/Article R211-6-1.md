@@ -13,11 +13,11 @@ d'agrément.
 
 3° Une attestation par laquelle l'agence s'engage à faire passer à l'enfant un
 examen médical aux frais de l'agence. Cet examen, préalable à l'emploi de
-l'enfant, est effectué par un médecin pédiatre choisi par l'agence sur une liste
-dressée dans chaque département par le préfet. Il doit faire apparaître si,
-compte tenu de l'âge et de l'état de santé de l'enfant, celui-ci sera en mesure
-d'assurer une activité de mannequin sans compromettre sa santé ou son
-développement. Cet examen doit être renouvelé tous les trois mois pour les
+l'enfant, est réalisé par un pédiatre ou par un médecin généraliste, selon les
+modalités prévues au c (deuxième alinéa) de l'article R. 211-6. Il doit faire
+apparaître si, compte tenu de l'âge et de l'état de santé de l'enfant, celui-ci
+sera en mesure d'assurer une activité de mannequin sans compromettre sa santé ou
+son développement. Cet examen doit être renouvelé tous les trois mois pour les
 enfants de moins de trois ans, tous les six mois pour ceux de trois à six ans et
 tous les ans pour ceux âgés de plus de six ans. En cas d'avis négatif du
 médecin, l'enfant ne peut être employé.
