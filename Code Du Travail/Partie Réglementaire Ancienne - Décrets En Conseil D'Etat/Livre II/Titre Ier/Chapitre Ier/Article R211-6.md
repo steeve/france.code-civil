@@ -13,13 +13,19 @@ difficultés et de sa moralité, être normalement confié à l'enfant ;
 b) Si l'enfant a déjà été ou est actuellement employé dans des activités du
 spectacle ou comme mannequin et à quelles conditions ;
 
-c) Si, compte tenu de son âge et de l'état de sa santé, celui-ci sera en mesure
-d'assurer le travail qui lui est proposé sans compromettre son avenir. A cet
-effet, un examen médical est notamment effectué, aux frais du demandeur, par un
-médecin pédiatre figurant sur une liste établie par la commission. Pour les
-demandes présentées à Paris et dans les départements des Yvelines, de l'Essonne,
-des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise,
-cet examen est effectué par un médecin inspecteur du service spécialisé ;
+c) Si, compte tenu de son âge, de l'obligation scolaire à laquelle il est soumis
+et de son état de santé, celui-ci sera en mesure d'assurer le travail qui lui
+est proposé. A cet effet, un examen médical pris en charge par l'employeur est
+réalisé par un pédiatre ou par un médecin généraliste. Toutefois, pour les
+demandes présentées dans les départements de la région Ile-de-France, cet examen
+est réalisé par un médecin du travail du service interprofessionnel de santé au
+travail spécialisé en médecine du travail des intermittents du spectacle.
+
+Un arrêté du ministre chargé de la santé fixe les vérifications auxquelles il
+doit être procédé au cours de cet examen médical pour s'assurer, en fonction de
+l'âge, de l'état de santé de l'enfant, de la durée, du rythme et des horaires de
+l'activité proposée que cette activité ne sera pas néfaste pour sa santé et pour
+déterminer d'éventuelles contre-indications.
 
 d) Si les conditions d'emploi de l'enfant sont satisfaisantes au regard des
 horaires de travail, du rythme des représentations (notamment en ce qui concerne

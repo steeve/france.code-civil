@@ -1,8 +1,6 @@
 Article R763-31
 ----
-La commission se réunit sur convocation de son président. Elle ne peut délibérer
-valablement que si la moitié au moins de ses membres sont présents. Si ce quorum
-n'est pas atteint lors d'une réunion, la commission est à nouveau convoquée dans
-les quinze jours suivants et délibère alors valablement quel que soit le nombre
-des membres présents. En cas de partage égal des voix, le président a voix
-prépondérante.
+Chaque mannequin bénéficie d'au moins un examen médical par période de douze
+mois, en vue de s'assurer du maintien de son aptitude à exercer l'emploi
+considéré. Le premier examen a lieu dans les douze mois qui suivent l'examen
+médical d'embauche, mentionné à l'article R. 241-48.
