@@ -24,7 +24,7 @@ au troisième alinéa ci-dessus, courant à compter de la date de réception de 
 demande.
 
 Pour les établissements pharmaceutiques dépendant d'entreprises ou organismes
-mentionnés aux 4° à 13° de l'article R. 5124-2, le silence gardé par le
+mentionnés aux 4° à 14° de l'article R. 5124-2, le silence gardé par le
 directeur général vaut autorisation tacite à l'expiration de l'un des délais
 mentionnés au troisième alinéa ci-dessus, courant à compter de la date de
 réception de la demande.

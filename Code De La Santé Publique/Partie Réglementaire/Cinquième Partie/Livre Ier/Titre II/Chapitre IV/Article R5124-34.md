@@ -25,7 +25,10 @@ l'article R. 5124-36 ;
 un vice-président ou l'une des personnes chargées de la direction ;
 
 3° Dans les établissements distributeurs en gros de médicaments dérivés du sang,
-un membre de leur direction.
+un membre de leur direction ;
+
+4° Dans l'Etablissement de préparation et de réponse aux urgences sanitaires, un
+membre de la direction.
 
 Dans la pharmacie centrale des armées et dans les établissements de
 ravitaillement sanitaire du service de santé des armées, le pharmacien

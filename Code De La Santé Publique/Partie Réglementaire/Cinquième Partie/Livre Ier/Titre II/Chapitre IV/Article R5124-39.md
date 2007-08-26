@@ -1,7 +1,7 @@
 Article R5124-39
 ----
 Pour chaque établissement dépendant d'entreprises ou organismes mentionnés aux
-4° à 13° de l'article R. 5124-2, le nombre de pharmaciens adjoints qui assistent
+4° à 14° de l'article R. 5124-2, le nombre de pharmaciens adjoints qui assistent
 et remplacent le pharmacien responsable ou le pharmacien délégué, conformément
 au deuxième alinéa de l'article L. 5124-4 est fixé comme suit, en fonction de
 l'effectif du personnel calculé dans les conditions prévues à l'article R.

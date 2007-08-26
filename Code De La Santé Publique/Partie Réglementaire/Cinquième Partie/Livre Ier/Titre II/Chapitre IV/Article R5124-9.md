@@ -10,6 +10,11 @@ général vaut refus d'autorisation à l'expiration d'un délai de quatre-vingt-
 jours à compter de la date de réception de la demande.
 
 Pour les établissements pharmaceutiques dépendant d'entreprises ou organismes
-mentionnés aux 4° à 13° de l'article R. 5124-2, le silence gardé par le
+mentionnés aux 4° à 14° de l'article R. 5124-2, le silence gardé par le
 directeur général vaut autorisation tacite à l'expiration d'un délai de
 quatre-vingt-dix jours à compter de la date de réception de la demande.
+
+Lorsque la demande d'ouverture présentée par le distributeur en gros mentionné
+au 14° de l'article R. 5124-2 résulte d'une situation telle que définie par
+l'article L. 3134-1, le délai prévu à l'alinéa précédent est ramené à trente
+jours.

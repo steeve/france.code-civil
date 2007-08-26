@@ -11,7 +11,7 @@ organisme ou par un pharmacien n'ayant pas d'autre activité professionnelle
 pendant la durée du remplacement ;
 
 3° Ou, à défaut, pour les établissements dépendant d'entreprises ou organismes
-mentionnés aux 4° à 12° de l'article R. 5124-2, par un pharmacien ayant
+mentionnés aux 4° à 12° et 14° de l'article R. 5124-2, par un pharmacien ayant
 sollicité son inscription au tableau de l'une des sections de l'ordre national
 des pharmaciens en attendant qu'il soit statué sur sa demande et n'ayant pas
 d'autre activité professionnelle pendant la durée du remplacement.
