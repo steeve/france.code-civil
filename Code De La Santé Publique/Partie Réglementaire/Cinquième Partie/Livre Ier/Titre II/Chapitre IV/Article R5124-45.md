@@ -2,8 +2,8 @@ Article R5124-45
 ----
 Outre leurs activités de distribution aux officines, aux pharmacies mutualistes
 ou de sociétés de secours minières et aux pharmacies à usage intérieur, les
-entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 6°, 9° et
-12° de l'article R. 5124-2 fournissent :
+entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 6°, 9°, 12°
+et 14° de l'article R. 5124-2 fournissent :
 
 1° Aux établissements de transfusion sanguine mentionnés à l'article L. 1223-1
 bénéficiant de l'autorisation mentionnée à cet article, les médicaments dérivés
@@ -56,3 +56,13 @@ et classés dans la catégorie des médicaments réservés à l'usage hospitalie
 prévue à l'article R. 5121-83 sur commande écrite du pharmacien ou du médecin
 responsable dans l'établissement de la détention et de la dispensation de ces
 médicaments.
+
+En cas d'urgence telle que définie à l'article L. 3134-1, les établissements
+pharmaceutiques de l'Etablissement de préparation et de réponse aux situations
+d'urgence sanitaires peuvent, en outre, distribuer les produits mentionnés à
+l'article L. 4211-1 aux grossistes-répartiteurs, aux dépositaires dans les
+conditions prévues à l'article R. 5106-2 (4°), aux professionnels de santé, aux
+collectivités territoriales et aux services ou organismes dont relèvent les
+sites identifiés dans les plans de réponse aux menaces sanitaires, sous réserve,
+dans ces deux derniers cas, qu'ils disposent de lieux spécifiquement adaptés
+placés sous la responsabilité d'un professionnel de santé.

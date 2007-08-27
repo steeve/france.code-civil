@@ -128,4 +128,10 @@ ravitaillement sanitaire du service de santé des armées comportant un ou
 plusieurs établissements pharmaceutiques se livrant, dans le cadre du décret n°
 91-685 du 14 juillet 1991 fixant les attributions du service de santé des
 armées, à la distribution en gros et en l'état des médicaments, produits ou
-objets mentionnés à l'article L. 5124-8.
+objets mentionnés à l'article L. 5124-8 ;
+
+14° Distributeur en gros de produits nécessaires à la protection de la
+population face aux menaces sanitaires graves, l'Etablissement de préparation et
+de réponse aux urgences sanitaires se livrant à l'achat et au stockage de
+produits mentionnés à l'article L. 4211-1, en vue de leur distribution aux
+structures énumérées à l'article R. 5124-45.
