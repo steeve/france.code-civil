@@ -1,6 +1,6 @@
 Article R1511-22
 ----
-Pour l'application de la présente section, les aides accordées sous les formes
-prévues par l'article L. 1511-3 pour le financement de projets immobiliers dans
-le cadre de contrats de crédit-bail et de location-vente sont considérées comme
-des aides à l'investissement.
+Le montant des aides ne peut excéder 40 % de la valeur vénale de référence
+définie à l'article R. 1511-12. Ce taux est toutefois porté à 50 % dans les
+départements d'outre-mer, sous réserve de l'application des taux prévus par les
+articles R. 1511-12 et R. 1511-13.

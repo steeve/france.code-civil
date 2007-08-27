@@ -1,20 +1,27 @@
 Article R1511-13
 ----
-Afin de favoriser la création ou l'extension d'activités économiques dans les
-zones énumérées à l'annexe II au décret n° 2001-312 du 11 avril 2001 relatif à
-la prime d'aménagement du territoire, les collectivités territoriales ou leurs
-groupements peuvent, seuls ou conjointement, accorder, sous réserve des
-dispositions de la sous-section 4 de la présente section, les aides mentionnées
-à l'article L. 1511-3 dans les conditions définies ci-après.
+Le montant des aides à l'investissement immobilier, calculé comme il est dit à
+l'article R. 1511-12, accordées à des petites et moyennes entreprises au sens du
+règlement mentionné à l'article R. 1511-5 ne peut excéder :
 
-Ces aides ne peuvent être accordées, conformément aux dispositions du règlement
-(CE) n° 70/2001 de la Commission du 12 janvier 2001 concernant l'application des
-articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et
-moyennes entreprises publié au Journal officiel des Communautés européennes (JO
-L 10 du 13 janvier 2001) et modifié par le règlement (CE) n° 364/2004 de la
-Commission publié au Journal officiel des Communautés européennes (JO L 63 du 28
-février 2004), qu'aux petites et moyennes entreprises telles qu'elles sont
-définies à l'annexe 1 au même règlement.
+a) 70 % de la valeur vénale de référence en Guyane ;
 
-Elles ne peuvent être accordées aux entreprises exerçant leur activité dans les
-secteurs de l'industrie charbonnière, du transport et des services financiers.
+b) 60 % de cette valeur dans les départements de la Guadeloupe, de la Martinique
+et de la Réunion ;
+
+c) 25 % de cette valeur dans les zones d'aide à finalité régionale à taux normal
+énumérées au A de l'annexe 1 au décret mentionné à l'article R. 1511-5 ;
+
+d) 20 % de cette valeur dans les zones d'aide à finalité régionale à taux réduit
+énumérées au B de l'annexe 1 au décret mentionné à l'article R. 1511-5 et dans
+les zones énumérées à l'annexe 2 au même décret.
+
+Ces taux peuvent être majorés de 10 points de pourcentage lorsque l'aide est
+accordée à une petite entreprise au sens du même règlement.
+
+Toutefois, lorsque les investissements aidés portent sur des immeubles dont la
+valeur vénale de référence est supérieure à 50 millions d'euros ou lorsque le
+bénéficiaire de l'aide exerce ses activités dans le secteur des transports, le
+montant maximal des aides à l'investissement immobilier accordées à des petites
+et moyennes entreprises au sens du règlement mentionné à l'article R. 1511-5 est
+fixé dans la limite des taux prévus à l'article R. 1511-12.

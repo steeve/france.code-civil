@@ -1,16 +1,14 @@
 Article R1511-14
 ----
-Le montant des aides à l'investissement immobilier ne peut excéder :
+La somme des aides publiques accordées pour des investissements portant sur des
+immeubles dont la valeur vénale de référence est supérieure à 50 millions
+d'euros ne peut excéder, pour un même projet, un montant résultant de
+l'application aux taux plafonds prévus par les a, b, c, et d des articles R.
+1511-12 et R. 1511-13 de coefficients de pondération fixés selon l'échelle
+suivante :
 
-a) Soit 7,5 % de la valeur vénale de référence définie à l'article R. 1511-6
-lorsque l'aide est accordée à une moyenne entreprise au sens du règlement
-mentionné à l'article R. 1511-13 ; le taux est porté à 15 % de cette valeur
-lorsque l'aide est accordée à une petite entreprise au sens du même règlement ;
+a) Jusqu'à 50 millions d'euros : 1 ;
 
-b) Soit 25 % de la valeur vénale de référence. Dans ce cas, le montant des aides
-est limité à 140 000 euros et la partie du montant des aides qui correspond à la
-différence entre le taux appliqué et le taux de 7,5 % ou de 15 %, selon que le
-bénéficiaire est une moyenne ou une petite entreprise au sens du règlement
-mentionné à l'article R. 1511-13, est accordée conformément au règlement n°
-69/2001 de la Commission du 12 janvier 2001 concernant l'application des
-articles 87 et 88 du traité CE aux aides de minimis.
+b) Tranche comprise entre 50 et 100 millions d'euros : 0,5 ;
+
+c) Tranche supérieure à 100 millions d'euros : 0,34.

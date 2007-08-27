@@ -1,33 +1,25 @@
 Article R1511-18
 ----
-Des aides à l'investissement immobilier peuvent être accordées à des entreprises
-de transformation et de commercialisation du secteur agricole dont les matières
-premières et les produits finis sont inscrits à l'annexe I au traité instituant
-la Communauté européenne. Toutefois, l'acquisition d'un terrain ne peut donner
-lieu au versement d'une aide que si cette acquisition est liée à la construction
-d'un bâtiment ou d'une installation destinés à la transformation ou à la
-commercialisation de produits inscrits à l'annexe I susmentionnée.
+Le montant des aides à la location ne peut excéder un pourcentage du montant des
+loyers correspondant à la valeur vénale des biens loués dans la limite, selon la
+zone où se situent les biens loués, des taux mentionnés à l'article R. 1511-12.
+Lorsque les aides sont accordées à de petites et moyennes entreprises au sens du
+règlement mentionné à l'article R. 1511-5, ce pourcentage ne peut être
+supérieur, selon la zone où se situent les biens loués et la taille de
+l'entreprise, aux taux mentionnés à l'article R. 1511-13.
 
-Pour bénéficier d'une aide, un projet d'investissement immobilier doit remplir
-les conditions fixées par arrêté du ministre chargé de l'agriculture et de la
-pêche, notamment celles relatives aux sources d'approvisionnement de
-l'entreprise bénéficiaire en matières premières, à l'engagement de maintien de
-l'usage du bien qu'elle est tenue de prendre en contrepartie de l'aide reçue et
-au respect des normes édictées en matière de protection de l'environnement,
-d'hygiène et de bien-être des animaux.
+Toutefois, dans le cas des aides attribuées au cours des trois exercices fiscaux
+suivant la création ou la reprise de l'entreprise, le pourcentage mentionné au
+premier alinéa peut être porté :
 
-Une aide ne peut être accordée à une entreprise de transformation ou de
-commercialisation de produits pour lesquels des débouchés normaux ne peuvent
-être trouvés sur le marché. En tant que de besoin, le ministre chargé de
-l'agriculture et de la pêche arrête la liste des produits dont les débouchés
-normaux ne peuvent être trouvés sur le marché.
+a) Soit à 75 % pour le premier exercice fiscal, 50 % pour le deuxième exercice
+fiscal et 25 % pour le troisième exercice fiscal ;
 
-En outre, aucune aide ne peut être accordée :
+b) Soit à 50 % pour chacun des trois exercices fiscaux.
 
-a) A une entreprise exerçant une activité liée à la production des produits
-agricoles, de la pêche et de l'aquaculture énumérés à l'annexe I au traité
-instituant la Communauté européenne ;
-
-b) A une entreprise de transformation et de commercialisation exerçant une
-activité dans les secteurs du sucre et des produits destinés à imiter ou à
-remplacer le lait et les produits laitiers.
+Le montant des aides à la location ne peut être supérieur à 200 000 euros par
+entreprise sur une période de trois exercices fiscaux conformément au règlement
+mentionné à l'article R. 1511-4-2. Toutefois, lorsque les aides sont accordées à
+une entreprise exerçant son activité dans le secteur du transport routier, la
+limite est de 100 000 euros par entreprise sur une période de trois exercices
+fiscaux.

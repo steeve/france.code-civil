@@ -1,13 +1,23 @@
 Article R1511-17
 ----
-Dans les zones énumérées à l'annexe II au décret n° 2001-312 du 11 avril 2001
-relatif à la prime d'aménagement du territoire et sous réserve des dispositions
-de la sous-section 4 de la présente section, des aides à l'investissement
-immobilier ou à la location de terrains ou de bâtiments peuvent également être
-accordées aux entreprises qui ne répondent pas aux critères des moyennes et des
-petites entreprises définis à l'annexe 1 au règlement mentionné à l'article R.
-1511-13. Elles ne peuvent excéder 10 % de la valeur vénale de référence définie
-à l'article R. 1511-6. Elles sont plafonnées à 100 000 euros par entreprise sur
-trois ans conformément au règlement (CE) n° 69/2001 de la Commission du 12
-janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux
-aides de minimis.
+Les aides à l'investissement immobilier ne peuvent être accordées que si le
+bénéficiaire a présenté, avant le début de la réalisation de l'investissement,
+une demande à cet effet et si l'autorité compétente pour l'attribution de l'aide
+a confirmé par écrit que le projet remplissait, au vu des informations fournies,
+les conditions prévues par les dispositions de la présente section.
+
+L'octroi d'aides à l'investissement immobilier est subordonné à l'engagement de
+l'entreprise de maintenir pendant une période de cinq ans au moins son activité
+sur les terrains ou dans les bâtiments pour lesquels elle a bénéficié de l'aide.
+Ce délai est de trois ans pour les aides accordées aux petites et moyennes
+entreprises au sens du règlement mentionné à l'article R. 1511-5. La convention
+mentionnée à l'article L. 1511-3 prévoit les conditions dans lesquelles la
+collectivité territoriale ou le groupement qui a octroyé l'aide procède à sa
+récupération en cas de manquement de l'entreprise bénéficiaire à son engagement.
+
+Cette aide ne peut être accordée que si 25 % au moins des dépenses liées à
+l'investissement immobilier sont financées sans aucune aide publique. Ce taux
+est ramené à 20 % en Guyane.
+
+Les obligations résultant du présent article sont mentionnées dans la convention
+prévue à l'article L. 1511-3.

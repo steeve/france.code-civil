@@ -1,15 +1,19 @@
 Article R1511-6
 ----
-Le montant des aides à l'investissement immobilier que les collectivités
-territoriales et leurs groupements peuvent attribuer en application de l'article
-L. 1511-3 est calculé par référence à la valeur vénale des terrains et des
-bâtiments d'après les conditions du marché. Il ne peut excéder :
+Le montant des aides à l'investissement immobilier ne peut excéder :
 
-a) 65 % de cette valeur vénale dans les départements d'outre-mer ;
+a) Soit 7, 5 % de la valeur vénale de référence définie à l'article R. 1511-12
+lorsque l'aide est accordée à une moyenne entreprise au sens du règlement
+mentionné à l'article R. 1511-5 ; le taux est porté à 15 % de cette valeur
+lorsque l'aide est accordée à une petite entreprise au sens du même règlement ;
 
-b) 23 % de cette valeur dans les zones énumérées au C de l'annexe I au décret n°
-2001-312 du 11 avril 2001 relatif à la prime d'aménagement du territoire ;
+b) Soit 20 % de la valeur vénale de référence, dans la limite de 200 000 euros
+par entreprise sur une période de trois exercices fiscaux. Dans ce cas, les
+aides sont accordées dans les conditions prévues par le règlement mentionné à
+l'article R. 1511-4-2. Le taux est porté à 30 % de cette valeur lorsque l'aide
+est accordée à une petite entreprise au sens du règlement mentionné à l'article
+R. 1511-5.
 
-c) 17 % de cette valeur dans les zones énumérées au B de la même annexe ;
-
-d) 11,5 % de cette valeur dans les zones énumérées au D de la même annexe.
+Lorsque des aides sont accordées à une entreprise exerçant son activité dans le
+secteur du transport routier, la limite mentionnée au b est de 100 000 euros sur
+une période de trois exercices fiscaux.

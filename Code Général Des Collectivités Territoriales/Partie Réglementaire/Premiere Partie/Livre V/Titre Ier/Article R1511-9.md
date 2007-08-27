@@ -1,14 +1,13 @@
 Article R1511-9
 ----
-La somme des aides publiques accordées pour des investissements portant sur des
-immeubles dont la valeur vénale de référence est supérieure à 50 millions
-d'euros ne peut excéder, pour un même projet, un montant résultant de
-l'application aux taux plafonds prévus par les a, b c et d des articles R.
-1511-6 et R. 1511-7 de coefficients de pondération fixés selon l'échelle
-suivante :
+Des aides à l'investissement immobilier ou à la location de terrains ou de
+bâtiments peuvent être accordées aux entreprises autres que les petites et
+moyennes entreprises au sens du règlement mentionné à l'article R. 1511-5. Elles
+ne peuvent excéder 10 % de la valeur vénale de référence définie à l'article R.
+1511-12 et sont plafonnées à 200 000 euros par entreprise sur une période de
+trois exercices fiscaux conformément au règlement mentionné à l'article R.
+1511-4-2.
 
-a) Jusqu'à 50 millions d'euros : 1 ;
-
-b) Tranche comprise entre 50 et 100 millions d'euros : 0,5 ;
-
-c) Tranche supérieure à 100 millions d'euros : 0,34.
+Lorsque les aides sont accordées à une entreprise exerçant son activité dans le
+secteur du transport routier, le plafond mentionné au premier alinéa est de 100
+000 euros par entreprise sur une période de trois exercices fiscaux.

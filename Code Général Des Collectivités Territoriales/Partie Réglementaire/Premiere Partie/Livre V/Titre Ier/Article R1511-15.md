@@ -1,10 +1,19 @@
 Article R1511-15
 ----
-Le montant des aides à la location ne peut excéder 25 % du montant des loyers
-correspondant à la valeur vénale des biens loués, plafonnés à 100 000 euros par
-entreprise sur trois ans conformément au règlement (CE) n° 69/2001 de la
-Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du
-traité CE aux aides de minimis.
+Sont soumises à l'obligation de notification à la Commission européenne,
+préalablement à leur mise en oeuvre, dans les conditions prévues à l'article L.
+1511-1-1, les aides à l'investissement immobilier ayant pour effet de porter le
+total des aides publiques accordées pour un même projet à un montant supérieur à
+:
 
-Les aides à la location ne peuvent être accordées aux entreprises exerçant leur
-activité dans le secteur du transport.
+a) 33,75 millions d'euros en Guyane ;
+
+b) 28,125 millions d'euros dans les départements de la Guadeloupe, de la
+Martinique et de la Réunion ;
+
+c) 8,4375 millions d'euros dans les zones d'aide à finalité régionale à taux
+normal énumérées au A de l'annexe 1 au décret mentionné à l'article R. 1511-5 ;
+
+d) 5,625 millions d'euros dans les zones d'aide à finalité régionale à taux
+réduit énumérées au B de l'annexe 1 au décret mentionné à l'article R. 1511-5 et
+dans les zones énumérées à l'annexe 2 au même décret.
