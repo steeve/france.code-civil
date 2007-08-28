@@ -18,6 +18,11 @@ représentants de l'Etat dans le département à autoriser, pour une durée limi
 l'exercice de la médecine par des étudiants ayant validé le deuxième cycle des
 études médicales.
 
+Les personnes appartenant à la réserve sanitaire prévue à l'article L. 3132-1 ou
+requises en application des articles L. 3131-8 ou L. 3131-9 et ayant validé le
+deuxième cycle des études médicales sont autorisées à exercer la médecine au
+titre des activités pour lesquelles elles ont été appelées.
+
 Un décret, pris après avis du Conseil national de l'ordre des médecins, fixe les
 conditions d'application des premier et deuxième alinéas du présent article,
 notamment le niveau d'études exigé selon la qualification du praticien remplacé,

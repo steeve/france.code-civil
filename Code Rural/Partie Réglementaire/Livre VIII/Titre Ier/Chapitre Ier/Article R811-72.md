@@ -32,8 +32,3 @@ nécessaires, avant l'expiration du sixième mois suivant la clôture de
 l'exercice, au comptable supérieur du Trésor territorialement compétent qui,
 après l'avoir mis en état d'examen, le transmet à la chambre régionale des
 comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
-
-Faute de présentation dans le délai prescrit, le préfet peut, après avis du
-comptable supérieur du Trésor territorialement compétent, et sur proposition du
-directeur régional de l'agriculture et de la forêt, désigner d'office un agent
-chargé de la reddition des comptes.

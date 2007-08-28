@@ -1,7 +1,7 @@
 Article L4151-6
 ----
-Les étudiants sages-femmes français ou ressortissants d'un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen
+I. - Les étudiants sages-femmes français ou ressortissants d'un Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen
 effectuant leur formation en France peuvent être autorisés à exercer la
 profession de sage-femme comme remplaçant.
 
@@ -12,3 +12,9 @@ Un décret, pris après avis du Conseil national de l'ordre des sages-femmes, fi
 les conditions d'application du présent article, notamment le niveau d'études
 exigé, la durée maximale des autorisations et les conditions de leur
 prorogation.
+
+II. - Les personnes appartenant à la réserve sanitaire prévue à l'article L.
+3132-1 ou requises en application des articles L. 3131-8 ou L. 3131-9 et ayant
+satisfait à l'examen de troisième année des études de sage-femme sont autorisées
+à exercer la profession de sage-femme au titre des activités pour lesquelles
+elles ont été appelées.
