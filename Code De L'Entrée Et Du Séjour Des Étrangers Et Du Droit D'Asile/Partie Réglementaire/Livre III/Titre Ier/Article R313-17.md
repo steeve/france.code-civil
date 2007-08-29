@@ -1,7 +1,11 @@
 Article R313-17
 ----
-L'étranger autorisé à exercer à titre temporaire, en application de l'article R.
-341-7 du code du travail, une activité salariée chez un employeur déterminé
-reçoit une carte de séjour temporaire portant la mention "travailleur
-temporaire", faisant référence à l'autorisation provisoire de travail dont il
-bénéficie et de même durée de validité.
+Pour l'application du 3° de l'article L. 313-10, l'étranger qui vient en France
+pour y exercer une activité professionnelle non soumise à l'autorisation prévue
+à l'article L. 341-2 du code du travail présente, outre les pièces prévues à
+l'article R. 313-1, celles justifiant qu'il dispose de ressources d'un niveau au
+moins équivalent au salaire minimum de croissance correspondant à un emploi à
+temps plein.
+
+Dans les cas où il envisage d'exercer une activité réglementée, il justifie
+satisfaire aux conditions d'accès à l'activité en cause.
