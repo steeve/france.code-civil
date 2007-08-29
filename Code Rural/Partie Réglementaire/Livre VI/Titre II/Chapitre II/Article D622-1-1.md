@@ -8,11 +8,14 @@ suivantes :
 supplémentaire de l'aide prévu à l'article 12 de ce règlement ;
 
 - autres régimes d'aide prévus par le titre IV du règlement (CE) n° 1782/2003 du
-Conseil du 29 septembre 2003, à l'exception de l'aide aux pommes de terre
-féculières, de la prime aux produits laitiers et paiements supplémentaires, de
-l'aide au tabac, de l'aide à la surface pour le houblon, des primes aux ovins et
-caprins et des paiements pour la viande bovine prévues respectivement aux
-chapitres 6, 7, 10 quater, 10 quinquies, 11 et 12 de ce règlement ;
+Conseil du 29 septembre 2003 ;
+
+- primes animales aux éleveurs de ruminants prévues dans les départements
+d'outre-mer en application du règlement (CE) n° 247/2006 du Conseil du 30
+janvier 2006 ;
+
+- prime aux féculeries en application du règlement (CE) n° 1868/94 du Conseil du
+27 juillet 1994 ;
 
 - aides communautaires relatives aux fourrages séchés et aux plantes textiles
 prévues par le règlement (CE) n° 1786/2003 du Conseil du 29 septembre 2003 ;
