@@ -2,10 +2,13 @@ Article R135-1
 ----
 La Cour des comptes fait connaître ses observations :
 
-Par le rapport public annuel établi en application de l'article L. 136-1 ;
+Par le rapport public annuel et les rapports publics thématiques établis en
+application de l'article L. 136-1 ;
 
-Par les rapports établis et les avis formulés en exécution des articles LO
-132-1, LO 132-3, L. 132-4 et L. 135-5 ;
+Par les rapports établis et les avis formulés en application des dispositions
+prévues aux 2°, 3°, 4°, 5° et 6° de l'article 58 de la loi organique n° 2001-692
+du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code
+;
 
 Par les rapports particuliers établis en application du deuxième alinéa de
 l'article L. 135-3 ;
