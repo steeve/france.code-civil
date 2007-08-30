@@ -1,7 +1,6 @@
 Article R811-108
 ----
-Les fonds de l'établissement sont déposés chez un comptable du Trésor ou au
-service des chèques postaux.
+Les fonds de l'établissement sont déposés chez un comptable du Trésor.
 
 Les placements des fonds disponibles sont effectués dans les conditions fixées
 par l'article 175 du décret précité du 29 décembre 1962.
