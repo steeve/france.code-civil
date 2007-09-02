@@ -5,11 +5,11 @@ dossier individuel de suivi pédagogique ou du dossier de validation des acquis
 de l'expérience, les candidats ayant satisfait à l'ensemble des conditions
 d'obtention du diplôme.
 
-Pour l'obtention du diplôme, les unités de contrôle capitalisables obtenues ont
-une durée de validité limitée à cinq ans à compter de leur date de délivrance.
+Pour l'obtention du diplôme, les unités capitalisables obtenues ont une durée de
+validité limitée à cinq ans à compter de leur date de délivrance.
 
-L'obtention d'une unité de contrôle capitalisable ou d'un certificat peut faire
-l'objet de la délivrance d'une attestation de réussite.
+L'obtention d'une unité capitalisable ou d'un certificat peut faire l'objet de
+la délivrance d'une attestation de réussite.
 
 Les candidats ajournés à l'issue de la présentation de la totalité des unités
 capitalisables ou, en cas de dépassement de la limite de validité d'unités

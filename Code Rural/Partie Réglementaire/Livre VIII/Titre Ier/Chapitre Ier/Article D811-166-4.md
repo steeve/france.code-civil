@@ -6,12 +6,14 @@ travail et justifiant à la fois :
 
 1. D'au moins douze mois d'activité professionnelle à temps plein ou son
 équivalent. Cette durée est appréciée avant la présentation de la dernière unité
-de contrôle capitalisable ou de la première épreuve terminale nécessaire pour
-obtenir le diplôme ;
+capitalisable ou de la première épreuve terminale nécessaire pour obtenir le
+diplôme ;
 
-2. D'une formation d'au moins 800 heures en centre de formation. Cette durée de
-formation peut être réduite après l'évaluation de positionnement qui prend en
-compte :
+2. D'une formation d'au moins 800 heures en centre de formation et d'une
+formation en milieu professionnel de 8 à 12 semaines.
+
+Cette durée de formation peut être réduite après l'évaluation de positionnement
+qui prend en compte :
 
 a) Les études suivies en France ou à l'étranger ;
 
