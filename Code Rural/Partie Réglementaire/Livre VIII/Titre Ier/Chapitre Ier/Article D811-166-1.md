@@ -21,7 +21,7 @@ centres de formation d'apprentis et les établissements d'enseignement à
 distance.
 
 Pour dispenser la formation en vue de l'obtention du brevet professionnel
-agricole selon la modalité des unités de contrôle capitalisable, les centres de
-formation doivent avoir obtenu, préalablement à la mise en place de la
-formation, une habilitation du ministre chargé de l'agriculture dans des
-conditions fixées par arrêté.
+agricole selon la modalité des unités capitalisables, les centres de formation
+doivent avoir obtenu, préalablement à la mise en place de la formation, une
+habilitation du ministre chargé de l'agriculture dans des conditions fixées par
+arrêté.
