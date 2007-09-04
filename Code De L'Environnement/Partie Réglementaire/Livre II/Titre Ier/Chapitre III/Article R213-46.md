@@ -1,6 +1,6 @@
 Article R213-46
 ----
-I. - Les ressources de l'agence comprennent notamment :
+I.-Les ressources de l'agence comprennent notamment :
 
 1° Les redevances perçues en application de l'article L. 213-10 ;
 
@@ -20,5 +20,5 @@ activité ;
 8° De manière générale, toutes autres recettes autorisées par les lois et
 règlements en vigueur.
 
-II. - L'agence peut bénéficier d'une dotation en capital de l'Etat et de
+II.-L'agence peut bénéficier d'une dotation en capital de l'Etat et de
 subventions d'équipement.

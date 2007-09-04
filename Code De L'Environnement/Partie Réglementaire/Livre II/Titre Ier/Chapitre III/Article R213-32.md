@@ -1,6 +1,6 @@
 Article R213-32
 ----
-I. - Pour l'exercice de ses missions définies aux articles L. 213-8-1 et L.
+I.-Pour l'exercice de ses missions définies aux articles L. 213-8-1 et L.
 213-9-2 :
 
 1° L'agence peut attribuer des subventions, des primes de résultat et consentir
@@ -27,6 +27,6 @@ l'exercice de ses missions ;
 
 6° Elle peut contracter des emprunts.
 
-II. - Les communes rurales mentionnées au VI de l'article L. 213-9-2 sont celles
+II.-Les communes rurales mentionnées au VI de l'article L. 213-9-2 sont celles
 définies à l'article D. 3334-8-1 du code général des collectivités
 territoriales.
