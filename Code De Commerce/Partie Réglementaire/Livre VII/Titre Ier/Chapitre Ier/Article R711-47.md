@@ -1,28 +1,40 @@
 Article R711-47
 ----
-Un arrêté du préfet de région détermine le nombre des membres de chaque chambre
-régionale de commerce et d'industrie dans les conditions fixées ci-après.
+Un arrêté du préfet de région détermine le nombre des membres de la chambre
+régionale de commerce et d'industrie et le nombre des sièges attribués au sein
+de la chambre régionale à chacune des chambres incluses dans la circonscription
+de la chambre régionale dans les conditions suivantes :
 
-Chacune des chambres de commerce et d'industrie dont la circonscription fait
-partie de celle de la chambre régionale de commerce et d'industrie y est
-représentée par :
+a) Le nombre des membres de la chambre régionale de commerce et d'industrie est
+de 30 au minimum et de 60 au maximum. Ce nombre est déterminé sur proposition de
+la chambre régionale en tenant compte des bases de taxe professionnelle, du
+nombre des ressortissants et de l'effectif des salariés des ressortissants de
+chacune des chambres de commerce et d'industrie relevant de la chambre régionale
+et des bases de taxe professionnelle, du nombre des ressortissants et du nombre
+des salariés des ressortissants de l'ensemble de la chambre régionale.
 
-1° Son président et un autre de ses membres ;
+b) Le nombre de sièges attribués, au sein de la chambre régionale, à chaque
+chambre de commerce et d'industrie est établi au prorata, arrondi à l'unité la
+plus proche, de la moyenne des rapports entre :
 
-2° Des membres supplémentaires en nombre égal au quotient du nombre de
-ressortissants par 6 000 arrondi à l'unité la plus proche, lorsque la
-circonscription de la chambre régionale de commerce et d'industrie compte au
-plus 400 000 ressortissants ; ce nombre est égal au quotient du nombre de
-ressortissants par 18 000 arrondi à l'unité la plus proche lorsque cette
-circonscription compte plus de 400 000 ressortissants ;
+1° La somme des bases d'imposition à la taxe professionnelle des ressortissants
+de la chambre de commerce et d'industrie et la somme des bases d'imposition de
+l'ensemble des ressortissants des chambres composant la chambre régionale de
+commerce et d'industrie ;
 
-3° Un membre complémentaire par département compris dans sa circonscription.
+2° Le nombre de ressortissants de la chambre de commerce et d'industrie et le
+nombre de l'ensemble des ressortissants des chambres composant la chambre
+régionale de commerce et d'industrie ;
 
-Si, en application des règles qui précèdent, le nombre total des sièges d'une
-chambre régionale de commerce et d'industrie est inférieur à vingt, le nombre
-forfaitaire de représentants par chambre de commerce et d'industrie peut être
-porté de deux à trois. Dans ce cas, le nombre de sièges est arrêté par le préfet
-de région, après avis de la chambre régionale de commerce et d'industrie.
+3° Le nombre de salariés employés par les ressortissants de la chambre de
+commerce et d'industrie et le nombre de salariés employés par l'ensemble des
+ressortissants des chambres composant la chambre régionale de commerce et
+d'industrie.
 
-Aucune chambre de commerce et d'industrie ne peut disposer à elle seule de la
-moitié des sièges de la chambre régionale de commerce et d'industrie.
+c) Aucune chambre de commerce et d'industrie ne peut disposer de moins de deux
+sièges dont l'un est occupé par son président.
+
+d) Aucune chambre de commerce et d'industrie ne peut disposer de plus du tiers
+des sièges de la chambre régionale de commerce et d'industrie. Toutefois,
+lorsque le nombre de chambres incluses dans le ressort de la chambre régionale
+est inférieur ou égal à 4, ce plafond est porté à 45 %.

@@ -28,3 +28,6 @@ et d'industrie est habilité à représenter son président.
 
 Les dispositions prévues aux 2°, 3° et 4° ci-dessus ne peuvent pas être
 modifiées dans l'année d'un renouvellement.
+
+Les règlements intérieurs peuvent prévoir l'adoption de certaines délibérations
+par des majorités qualifiées.
