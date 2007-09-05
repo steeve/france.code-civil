@@ -15,9 +15,9 @@ retraite ne peut excéder un montant égal au produit du nombre d'années
 d'assurance dont il justifie dans ce régime par le rapport de la pension
 maximale mentionnée à l'alinéa précédent sur :
 
-a) Pour les pensions prenant effet avant le 1er janvier 2009, la durée
-mentionnée au 1° de l'article L. 762-29 ;
+a) Pour les assurés nés avant le 1er janvier 1949, la durée mentionnée au 1° de
+l'article L. 762-29 ;
 
-b) Pour les pensions prenant effet postérieurement au 31 décembre 2008, le quart
-de la durée d'assurance prévue au troisième alinéa de l'article L. 351-1 du code
-de la sécurité sociale.
+b) Pour les assurés nés après le 31 décembre 1948, le quart de la durée
+d'assurance prévue au troisième alinéa de l'article L. 351-1 du code de la
+sécurité sociale.
