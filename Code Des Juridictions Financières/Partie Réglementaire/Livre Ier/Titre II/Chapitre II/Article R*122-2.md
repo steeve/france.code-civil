@@ -1,13 +1,12 @@
 Article R*122-2
 ----
 Les candidatures, motivées, doivent être présentées par les intéressés, dans le
-mois qui suit cette publication, au ministre chargé des finances.
+mois qui suit cette publication, au premier président de la Cour des comptes.
 
-Celui-ci dispose d'un délai de deux mois pour adresser les dossiers des
-candidats remplissant les conditions prévues par le quatrième et cinquième
-alinéas de l'article L. 122-5 au premier président de la Cour des comptes aux
-fins de recueillir l'avis de la commission prévue au sixième alinéa de ce même
-article.
+Celui-ci dispose d'un délai de deux mois pour vérifier si les candidats
+satisfont aux conditions prévues par les quatrième et cinquième alinéas de
+l'article L. 122-5 avant de recueillir l'avis de la commission prévue au sixième
+alinéa de ce même article.
 
 Le dossier constitué pour chaque candidat, en liaison avec l'administration ou
 l'organisme dont il relève, comprend les éléments de notation ou d'évaluation de
