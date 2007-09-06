@@ -22,8 +22,12 @@ Il atteste, en outre, que tous les renseignements qu'il a fournis sont, à sa
 connaissance, exacts, en apposant sa signature sur la partie du questionnaire
 prévue à cet effet. Cette partie est contresignée par la personne habilitée à
 procéder à la sélection des donneurs et qui a obtenu les renseignements relatifs
-à l'état de santé et aux antécédents médicaux de ceux-ci. Une décision du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé précise les données relatives à la sélection du donneur qui doivent être
-conservées par l'Etablissement français du sang et le centre de transfusion
-sanguine des armées.
+à l'état de santé et aux antécédents médicaux de ceux-ci. Un arrêté du ministre
+chargé de la santé, pris après avis du directeur général de l'Agence française
+de sécurité sanitaire des produits de santé, fixe les critères de sélection des
+donneurs en distinguant notamment ceux qui conduisent à une contre-indication
+permanente au don de sang et ceux qui conduisent à une contre-indication
+temporaire. Une décision du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé précise les données relatives à la sélection du
+donneur qui doivent être conservées par l'Etablissement français du sang et le
+centre de transfusion sanguine des armées.
