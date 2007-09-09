@@ -1,11 +1,13 @@
 Article R5212-9
 ----
-Les membres de la commission adressent lors de leur nomination au directeur de
-l'Agence française de sécurité sanitaire des produits de santé une déclaration
-mentionnant les liens directs ou indirects qu'ils peuvent avoir avec des
-entreprises dont les produits sont susceptibles de faire l'objet d'une
-évaluation par la commission. Ils s'engagent à signaler toute modification
-concernant ces liens.
+Le règlement intérieur de la commission est arrêté par le directeur général de
+l'agence. Il fixe les règles de fonctionnement de la commission, notamment les
+règles relatives aux délais de convocation, les règles de vote et de quorum,
+celles relatives à l'établissement des comptes rendus ainsi que celles selon
+lesquelles ces comptes rendus peuvent, le cas échéant, être rendus publics.
 
-Les membres de la commission ne peuvent prendre part ni aux délibérations ni aux
-votes s'ils ont un intérêt direct ou indirect pour le dossier examiné.
+En application des dispositions du second alinéa de l'article 5 du décret n°
+2006-672 du 8 juin 2006 relatif à la création, à la composition et au
+fonctionnement de commissions administratives à caractère consultatif, la
+commission est réunie sur convocation du directeur général de l'Agence française
+de sécurité sanitaire des produits de santé qui en fixe l'ordre du jour.

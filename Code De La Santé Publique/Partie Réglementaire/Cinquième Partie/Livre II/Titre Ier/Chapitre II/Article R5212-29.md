@@ -9,13 +9,16 @@ lesquelles il est accordé.
 L'agrément est accordé pour une durée de cinq ans renouvelable, en fonction des
 garanties d'indépendance et de compétence présentées, de l'expérience acquise
 dans le domaine considéré et des moyens dont l'organisme dispose pour exécuter
-les tâches pour lesquelles il est agréé. La composition du dossier de demande
-d'agrément est fixée par arrêté du ministre chargé de la santé après avis du
-directeur général de l'agence.
+les tâches pour lesquelles il est agréé.
 
-Les organismes qui satisfont aux normes les concernant, transposant les normes
-européennes harmonisées, dont les références ont été publiées au Journal
-officiel de la République française, sont présumés répondre à ces critères.
+La composition du dossier de demande d'agrément, les modalités relatives à son
+dépôt et à son instruction, ainsi que les conditions que doit remplir
+l'organisme pour respecter les critères généraux d'agrément mentionnés à
+l'alinéa précédent, notamment les normes européennes harmonisées dont les
+références ont été publiées au Journal officiel de la République française,
+auxquelles il doit satisfaire, sont fixées par arrêté du ministre chargé de la
+santé après avis du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé.
 
 Les organismes s'engagent à permettre aux personnes désignées par le directeur
 général de l'agence d'accéder à leurs locaux et de procéder à toute

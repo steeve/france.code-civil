@@ -16,40 +16,44 @@ de santé ou son représentant ;
 
 e) Le directeur général de l'Agence de la biomédecine ou son représentant ;
 
-2° Quinze membres nommés par le ministre chargé de la santé pour une durée de
-trois ans renouvelable :
+2° Vingt-trois membres nommés par le ministre chargé de la santé pour une durée
+de trois ans renouvelable :
 
-a) Quatre cliniciens dont au moins un médecin généraliste ;
+a) Quinze personnes, dont une sur proposition du ministre de la défense,
+choisies en raison de leurs compétences scientifiques et techniques dans le
+domaine des dispositifs médicaux, dont six cliniciens, trois ingénieurs
+hospitaliers et trois pharmaciens ;
 
-b) Trois ingénieurs biomédicaux hospitaliers ;
+b) Une personne exerçant les fonctions de correspondant local de
+matériovigilance ;
 
-c) Deux pharmaciens hospitaliers ;
+c) Un cadre infirmier hospitalier ;
 
-d) Un pharmacien d'officine ;
+d) Une personne représentant les associations de consommateurs proposée par le
+ministre chargé de la consommation ;
 
-e) Un toxicologue ;
+e) Deux personnes représentant les associations d'usagers du système de santé
+ayant fait l'objet d'un agrément au niveau national en application de l'article
+L. 1114-1 ;
 
-f) Un cadre infirmier hospitalier ;
+f) Deux représentants des fabricants de dispositifs médicaux ;
 
-g) Une personnalité scientifique proposée par le ministre chargé de la
-consommation ;
+g) un représentant des distributeurs de dispositifs médicaux.
 
-h) Un représentant des fabricants de dispositifs médicaux ;
+Les personnes mentionnées aux d, e, f et g du 2° du présent article participent
+aux délibérations de la commission avec voix consultative.
 
-i) Un représentant des distributeurs de dispositifs médicaux ;
+Vingt-trois suppléants sont désignés dans les mêmes conditions que les membres
+titulaires qu'ils remplacent en cas d'empêchement. Ils leur succèdent, s'il se
+produit une vacance en cours de mandat, pour la durée du mandat restant à
+courir.
 
-Quinze suppléants sont désignés dans les mêmes conditions que les membres
-titulaires. Ils remplacent ces derniers en cas d'empêchement. Ils leur
-succèdent, s'il se produit une vacance, en cours de mandat, pour la durée du
-mandat restant à courir.
-
-Le président et le vice-président sont désignés par le ministre chargé de la
-santé parmi les membres de la commission. Le vice-président supplée le président
-en cas d'empêchement.
+Le président et deux vice-présidents sont désignés par le ministre chargé de la
+santé parmi les membres de la commission. Les vice-présidents suppléent le
+président en cas d'empêchement. En cas d'absence du président et des deux
+vice-présidents, le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé désigne un président de séance.
 
 La commission a la faculté d'entendre toute personne qualifiée. Elle peut faire
-appel à des rapporteurs et des experts consultants désignés par le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
-
-Des sous-commissions techniques préparent le travail de la commission. Leurs
-membres sont désignés par le directeur général de l'agence.
+appel à des rapporteurs et à des experts désignés par le directeur général de
+l'Agence française de sécurité sanitaire des produits de santé.
