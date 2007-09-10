@@ -27,8 +27,11 @@ l'annexe à l'article R563-4 du code de l'environnement, des immeubles dont le
 plancher bas du dernier niveau est situé à plus de 8 mètres par rapport au
 niveau du sol ;
 
-5° Lorsqu'ils sont situés dans les zones de sismicité I a, I b, II et III,
+5° Lorsqu'ils sont situés dans les zones de sismicité I a, I b, II et III
 délimitées par l'annexe à l'article R563-4 du code de l'environnement, des
 bâtiments appartenant aux classes C et D au sens de l'article R563-3 du même
 code et des établissements de santé, lorsqu'ils n'y sont pas déjà soumis au
-titre d'une autre disposition du présent article.
+titre d'une autre disposition du présent article ;
+
+6° d'éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est
+supérieure ou égale à 12 mètres.
