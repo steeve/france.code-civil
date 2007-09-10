@@ -1,4 +1,4 @@
-Article R2333-128
+Article R2224-19-7
 ----
 Le recouvrement, à l'exclusion des procédures contentieuses, des redevances pour
 consommation d'eau et des redevances d'assainissement collectif et non collectif

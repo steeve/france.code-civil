@@ -7,9 +7,9 @@ les conditions fixées aux articles R. 2224-12 à R. 2224-17 ci-après.
 
 Un arrêté des ministres chargés de la santé et de l'environnement fixe les
 prescriptions techniques minimales qui permettent de garantir l'efficacité de
-l'épuration des eaux usées, en ce qui concerne notamment la "demande biochimique
-en oxygène" (DBO), la "demande chimique en oxygène" (DCO), les matières en
-suspension (MES), le phosphore et l'azote.
+l'épuration des eaux usées, en ce qui concerne notamment la " demande
+biochimique en oxygène " (DBO), la " demande chimique en oxygène " (DCO), les
+matières en suspension (MES), le phosphore et l'azote.
 
 Lorsque l'installation est soumise à autorisation ou à déclaration en
 application des articles L. 214-2 à L. 214-6 du code de l'environnement, les

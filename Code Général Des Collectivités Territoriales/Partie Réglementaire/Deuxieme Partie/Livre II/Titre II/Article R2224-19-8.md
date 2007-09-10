@@ -1,4 +1,4 @@
-Article R2333-129
+Article R2224-19-8
 ----
 La facturation des sommes dues par les usagers est faite au nom du titulaire de
 l'abonnement à l'eau, à défaut au nom du propriétaire du fonds de commerce, à

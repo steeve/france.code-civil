@@ -1,4 +1,4 @@
-Article R2333-130
+Article R2224-19-9
 ----
 A défaut de paiement dans un délai de trois mois à compter de la présentation de
 la quittance et dans les quinze jours d'une mise en demeure par lettre
