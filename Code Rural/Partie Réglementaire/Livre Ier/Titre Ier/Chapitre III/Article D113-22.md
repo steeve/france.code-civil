@@ -12,4 +12,5 @@ les catégories de cheptel retenues pour le calcul du chargement.
 
 Les surfaces agricoles situées hors du département dans lequel est sise
 l'exploitation sont primées en fonction des critères afférents aux zones
-défavorisées retenus par le préfet du département du siège de l'exploitation.
+défavorisées retenus par le préfet du département où sont situées lesdites
+surfaces agricoles de l'exploitation.
