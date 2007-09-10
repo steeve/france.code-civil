@@ -29,12 +29,17 @@ inscrit, en zone de protection du patrimoine architectural, urbain et paysager
 ou en secteur sauvegardé et que les travaux sont de nature à porter atteinte à
 la qualité de ces espaces protégés.
 
-Dans tous les cas, le représentant de l'Etat dans le département prend sa
-décision après avoir consulté la commission mentionnée au premier alinéa du I de
-l'article R. 111-19-16 ou, par délégation de la commission départementale, la
-commission d'accessibilité d'arrondissement mentionnée au deuxième alinéa du
-même I. A défaut de réponse de la commission dans un délai d'un mois à compter
-de la transmission de la demande par le préfet, cet avis est réputé favorable.
+Dans tous les cas prévus au présent article, la demande de dérogation est
+transmise en trois exemplaires au préfet. Cette demande indique les règles
+auxquelles le demandeur souhaite déroger, les éléments du projet auxquels elles
+s'appliquent et les justifications de chaque demande.
 
-A défaut de réponse du préfet dans le délai de deux mois à compter de la date à
-laquelle il a reçu la demande, la dérogation demandée est réputée accordée.
+Le préfet notifie dans les trois mois de la réception de la demande sa décision
+motivée après avoir consulté la commission mentionnée au premier alinéa de
+l'article R. 111-19-30 ou, par délégation de la commission départementale, la
+commission d'accessibilité d'arrondissement mentionnée au deuxième alinéa du
+même article. A défaut de réponse de la commission dans un délai de deux mois à
+compter de la transmission de la demande d'avis, cet avis est réputé favorable.
+
+A défaut de réponse du préfet dans le délai de trois mois à compter de la date à
+laquelle il a reçu la demande, la dérogation demandée est réputée refusée.

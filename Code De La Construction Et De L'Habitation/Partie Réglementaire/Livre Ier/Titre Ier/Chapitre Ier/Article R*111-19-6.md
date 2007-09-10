@@ -16,5 +16,5 @@ la conservation du patrimoine architectural en cas de création d'un
 établissement recevant du public par changement de destination dans un bâtiment
 ou une partie de bâtiment classé ou inscrit au titre des monuments historiques.
 
-La demande de dérogation est soumise à la procédure prévue au II de l'article R.
-111-19-16.
+La demande de dérogation est soumise à la procédure prévue aux articles R.
+111-19-24 et R. 111-19-25.

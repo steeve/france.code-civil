@@ -1,19 +1,30 @@
 Article R*111-19-18
 ----
-Lorsque les travaux projetés ne sont pas soumis au permis de construire prévu à
-l'article L. 421-1 du code de l'urbanisme, l'autorisation de travaux prévue à
-l'article L. 111-8-1 est délivrée par le maire au nom de l'Etat dans un délai de
-trois mois à compter du dépôt d'un dossier complet. Dans ce cas, une
-autorisation unique est délivrée par cette autorité au titre des articles L.
-111-8-1 et R. 123-23.
+Le dossier, mentionné au a de l'article R. 111-19-17, comprend les pièces
+suivantes :
 
-A défaut de notification au demandeur d'une décision expresse du maire dans le
-délai de trois mois à compter du dépôt d'un dossier complet, l'autorisation de
-travaux est considérée comme accordée et les travaux prévus peuvent être
-entrepris conformément au projet déposé.
+1° Un plan coté en trois dimensions précisant les cheminements extérieurs ainsi
+que les conditions de raccordement entre la voirie et les espaces extérieurs de
+l'établissement et entre l'intérieur et l'extérieur du ou des bâtiments
+constituant l'établissement ;
 
-Si le dossier est incomplet, le maire invite le demandeur, par lettre
-recommandée avec accusé de réception et dans le mois suivant la réception de la
-demande, à fournir les pièces complémentaires. Le délai d'instruction de trois
-mois commence à courir, dans ce cas, à compter de la réception des pièces
-complétant le dossier.
+2° Un plan coté en trois dimensions précisant les circulations intérieures
+horizontales et verticales, les aires de stationnement et, s'il y a lieu, les
+locaux sanitaires destinés au public.
+
+Dans les cas visés au a du III de l'article R. 111-19-8, le plan précise la
+délimitation de la partie de bâtiment accessible aux personnes handicapées ;
+
+3° Une notice expliquant comment le projet prend en compte l'accessibilité aux
+personnes handicapées, en ce qui concerne :
+
+a) Les dimensions des locaux et les caractéristiques des équipements techniques
+et des dispositifs de commande utilisables par le public qui sont définis par
+arrêté du ministre chargé de la construction ;
+
+b) La nature et la couleur des matériaux et revêtements de sols, murs et
+plafonds ;
+
+c) Le traitement acoustique des espaces ;
+
+d) Le dispositif d'éclairage des parties communes.

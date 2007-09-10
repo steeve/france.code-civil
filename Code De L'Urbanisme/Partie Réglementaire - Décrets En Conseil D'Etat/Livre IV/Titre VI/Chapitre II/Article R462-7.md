@@ -29,3 +29,8 @@ d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de
 prévention des risques naturels prévisibles ou par un plan de prévention des
 risques technologiques établi en application du code de l'environnement, ou par
 un plan de prévention des risques miniers établi en application du code minier.
+Toutefois, le récolement n'est pas obligatoire lorsque le plan de prévention
+n'impose pas d'autre règle que le respect de normes paracycloniques ou
+parasismiques ou l'obligation de réaliser une étude préalable permettant de
+déterminer l'aptitude du terrain à recevoir la construction compte tenu de la
+destination de celle-ci.
