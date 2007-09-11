@@ -31,8 +31,10 @@ Les montants par hectare pour les surfaces fourragère et cultivée peuvent êtr
 majorés pour les premiers hectares primés. Le nombre de ces premiers hectares et
 le taux de majoration sont fixés par arrêté interministériel.
 
-Les éleveurs dont les ovins et caprins pratiquent le pâturage peuvent bénéficier
-d'une majoration sur le montant par hectare. Celle-ci est définie par arrêté
-interministériel en fonction de la situation de la surface agricole utilisée
-dans les zones défavorisées. Les élevages bovins à orientation laitière pure ne
-bénéficient pas de l'indemnité dans les zones de piémont et défavorisée simple.
+Les éleveurs dont les ovins et caprins pratiquent la transhumance peuvent
+bénéficier d'une majoration sur le montant par hectare définie par arrêté
+conjoint des ministres chargés de l'agriculture et du budget.
+
+Les élevages bovins à orientation laitière pure ne bénéficient pas de
+l'indemnité dans les zones défavorisée simple et de piémont dont l'orientation
+laitière n'est pas dominante.

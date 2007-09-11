@@ -13,7 +13,13 @@ qu'à l'occasion de son adhésion les autres associés lui cèdent, soit
 immédiatement, soit par la suite (en propriété ou en location par bail à ferme),
 un droit d'utilisation du foncier pour au moins une demi-SMI ;
 
-2° Les autres exploitations agricoles de forme sociétaire peuvent bénéficier des
-ICHN dans la limite d'un plafond d'hectares primables précisé par arrêté
-interministériel lorsque plus de 50 % du capital social est détenu par des
-associés exploitants avec au moins un de ces associés éligible à l'indemnité.
+2° Peuvent également être éligibles aux indemnités compensatoires des handicaps
+naturels, dans la limite d'un plafond de 50 hectares primés :
+
+- les autres exploitations agricoles de forme sociétaire lorsque plus de 50 % du
+capital social est détenu par des associés exploitants avec au moins un des
+associés éligible à l'indemnité ;
+
+- les fondations, associations sans but lucratif et les établissements
+d'enseignement, de formation et de recherche lorsqu'ils exercent directement des
+activités agricoles au sens de l'article L. 311-1 du code rural.
