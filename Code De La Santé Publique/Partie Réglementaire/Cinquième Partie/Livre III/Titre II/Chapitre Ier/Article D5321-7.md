@@ -20,7 +20,7 @@ dispositions de la présente section sont :
 
 8° La Commission nationale d'hémovigilance ;
 
-9° La Commission nationale de matériovigilance ;
+9° La Commission nationale des dispositifs médicaux ;
 
 10° La Commission nationale de la pharmacopée ;
 
