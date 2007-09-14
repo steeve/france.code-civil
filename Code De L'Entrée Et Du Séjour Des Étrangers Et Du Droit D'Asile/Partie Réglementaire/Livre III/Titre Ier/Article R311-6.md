@@ -3,7 +3,8 @@ Article R311-6
 Le récépissé de la demande de première délivrance d'une carte de séjour prévue à
 l'article L. 313-8, aux 1°, 2° bis, 3°, 4°, 5°, 6°, 8°, 9° et 10° de l'article
 L. 313-11, à l'article L. 313-13, aux 1° et 3° de l'article L. 314-9, à
-l'article L. 314-11, à l'article L. 314-12 ou à l'article L. 316-1 autorise son
+l'article L. 314-11, à l'article L. 314-12 ou à l'article L. 316-1, ainsi que le
+récépissé mentionné au deuxième alinéa de l'article R. 311-4, autorisent son
 titulaire à travailler.
 
 Il en est de même du récépissé de la demande de première délivrance d'une carte
