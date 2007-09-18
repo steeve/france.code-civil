@@ -40,7 +40,7 @@ les veaux ;
 
 - 75 % des paiements pour le houblon ;
 
-- 100 % des paiements pour l'aide aux oliveraies ;
+- 100 % des paiements pour l'aide à la production d'huile d'olive ;
 
 - 40 % des paiements pour la prime au tabac ;
 
@@ -51,3 +51,11 @@ organisation commune des marchés dans le secteur des semences.
 IV. - Les montants des paiements des primes à l'abattage pour les veaux et au
 maintien de troupeaux de vaches allaitantes sont exclus de la composante des
 plafonds nationaux.
+
+V. - En application du deuxième alinéa du 4 de l'article 110 decies du règlement
+du 29 septembre 2003 susmentionné, 10 % de la composante huile d'olive du
+plafond national mentionné à l'article 41 de ce règlement sont retenus pour
+assurer le financement communautaire des programmes de travail élaborés par des
+organisations d'opérateurs agréés, tels que définis à l'article 8 du règlement
+(CE) n° 865/2004 du Conseil du 29 avril 2004 portant organisation commune des
+marchés dans le secteur de l'huile d'olive et des olives de tabac.
