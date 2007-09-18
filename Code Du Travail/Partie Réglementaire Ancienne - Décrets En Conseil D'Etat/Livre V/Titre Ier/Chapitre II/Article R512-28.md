@@ -9,4 +9,4 @@ ne peut le faire le président de la juridiction, désigne l'un des greffiers en
 chef adjoints pour assurer la suppléance ou l'intérim.
 
 A défaut de greffier en chef adjoint, un chef de service ou un autre agent du
-secrétariat-greffe est désigné dans les mêmes conditions.
+greffe est désigné dans les mêmes conditions.

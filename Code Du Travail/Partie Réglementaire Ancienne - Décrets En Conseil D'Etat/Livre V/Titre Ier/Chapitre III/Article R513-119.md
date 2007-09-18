@@ -8,6 +8,5 @@ pour cette élection générale.
 Si les vacances sont constatées ou les augmentations des effectifs décidées
 après expiration de la période mentionnée à l'alinéa précédent, une nouvelle
 liste électorale est établie. La liste est établie par le maire, assisté de la
-commission administrative prévue au septième alinéa de l'article L. 513-3, à
-partir des déclarations nominatives qui lui sont directement adressées par les
-employeurs et les salariés involontairement privés d'emploi concernés.
+commission administrative prévue à l'article L. 513-3 à partir des déclarations
+nominatives mentionnées au même article.

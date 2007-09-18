@@ -31,7 +31,7 @@ suivantes ;
 5° A l'occasion de la soumission par un émetteur d'un document d'information sur
 un programme d'émission de titres de créances à l'enregistrement préalable de
 l'Autorité des marchés financiers en application de l'article L. 621-8 ou
-portant sur des contrats financiers à terme mentionnés au 1 du II de l'article
+portant sur des instruments financiers à terme mentionnés au 4 du I de l'article
 L. 211-1, le droit dû, fixé par décret, est supérieur à 1 000 euros et inférieur
 ou égal à 2 000 euros. Il est exigible le jour du dépôt du document ;
 

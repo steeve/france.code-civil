@@ -7,8 +7,9 @@ d'investissement. Il peut aussi être décidé d'office par le comité si
 l'entreprise d'investissement ne remplit plus les conditions ou les engagements
 auxquels étaient subordonnés son agrément ou une autorisation ultérieure, ou si
 l'entreprise d'investissement n'a pas fait usage de son agrément dans un délai
-de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six
-mois.
+de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six mois
+ou encore si elle a obtenu l'agrément par de fausses déclarations ou par tout
+autre moyen irrégulier.
 
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est
 déterminée par le comité des établissements de crédit et des entreprises

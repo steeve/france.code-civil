@@ -1,8 +1,7 @@
 Article R512-35
 ----
-Les greffiers en chef [*attribution*] tiennent la comptabilité administrative
-des dépenses de fonctionnement énoncées à l'article L. 51-10-2 du code du
-travail.
+Les greffiers en chef tiennent la comptabilité administrative des dépenses de
+fonctionnement énoncées à l'article L. 51-10-2 du code du travail.
 
 Ils sont habilités à recevoir les sommes déposées par les parties à l'instance à
 titre de provision. Ces sommes sont versées dans un compte de dépôt au Trésor.

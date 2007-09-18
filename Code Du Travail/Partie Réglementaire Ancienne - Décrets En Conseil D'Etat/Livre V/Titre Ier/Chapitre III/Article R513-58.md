@@ -11,8 +11,5 @@ titre de laquelle il est électeur ; il fait ensuite constater au président qu'
 n'est porteur que d'une seule enveloppe ; le président le constate sans toucher
 l'enveloppe que l'électeur introduit lui-même dans l'urne.
 
-Dans chaque bureau de vote, il y a un isoloir par 300 électeurs inscrits ou par
-fraction *nombre*.
-
 Les isoloirs ne doivent pas être placés de façon à dissimuler au public les
 opérations électorales.

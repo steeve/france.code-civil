@@ -2,7 +2,7 @@ Article R512-34
 ----
 Selon les besoins du service, les agents des secrétariats-greffes peuvent être
 délégués dans les services administratifs d'un autre conseil de prud'hommes du
-ressort de la même cour d'appel *déplacement*.
+ressort de la même cour d'appel.
 
 Cette délégation est prononcée par décision des chefs de cour après consultation
 du président du conseil de prud'hommes, du vice-président et du greffier en

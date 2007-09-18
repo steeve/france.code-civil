@@ -67,4 +67,4 @@ L'Autorité des marchés financiers est également chargée d'assurer le respect
 par les prestataires de services d'investissement mentionnés à l'article L.
 532-18-1, des dispositions législatives et réglementaires qui leur sont
 applicables, dans les conditions prévues aux articles L. 532-18-2, L. 532-19 et
-L. 532-21.
+L. 532-21-1.

@@ -2,7 +2,7 @@ Article L511-37
 ----
 Tout établissement de crédit, entreprise d'investissement, autre qu'une société
 de gestion de portefeuille, ou adhérent aux chambres de compensation mentionné
-au 3 de l'article L. 442-2 doit publier ses comptes annuels dans des conditions
+au 3 de l'article L. 440-2 doit publier ses comptes annuels dans des conditions
 fixées par le comité de la réglementation comptable après avis du Comité
 consultatif de la législation et de la réglementation financières.
 

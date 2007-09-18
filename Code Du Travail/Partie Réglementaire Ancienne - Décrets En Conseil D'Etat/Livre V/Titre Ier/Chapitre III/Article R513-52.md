@@ -14,5 +14,4 @@ modalités prévues au même article.
 Les autres dépenses de fonctionnement de la commission de propagande sont
 remboursées à chaque commission en fonction du nombre d'électeurs et du nombre
 de candidats, sur la base d'un barème établi par arrêté conjoint du ministre
-chargé de l'économie et des finances et du ministre chargé des affaires
-sociales.
+chargé de l'économie et des finances et du ministre chargé du travail.

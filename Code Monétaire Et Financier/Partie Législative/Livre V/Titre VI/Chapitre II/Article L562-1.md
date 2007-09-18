@@ -20,7 +20,7 @@ mutualité (1) ;
 
 5. Aux entreprises d'investissement, aux membres des marchés réglementés
 d'instruments financiers et aux personnes morales mentionnées aux articles L.
-421-8 et L. 442-2, ainsi qu'aux organismes de placement collectif en valeurs
+421-17 et L. 440-2, ainsi qu'aux organismes de placement collectif en valeurs
 mobilières mentionnés au 1 du I de l'article L. 214-1, aux sociétés de gestion
 d'organismes de placements collectifs mentionnées à l'article L. 543-1, aux
 intermédiaires en biens divers mentionnés au titre V du présent livre, aux

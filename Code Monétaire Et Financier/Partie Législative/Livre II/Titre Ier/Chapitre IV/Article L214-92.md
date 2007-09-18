@@ -8,7 +8,7 @@ portant sur de tels biens et énumérés par le décret en Conseil d'Etat mentio
 à l'alinéa précédent ;
 
 b) Des parts de sociétés de personnes qui ne sont pas admises aux négociations
-sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1, et qui
+sur un marché mentionné aux articles L. 421-4, L. 422-1 et L. 423-1, et qui
 satisfont aux conditions suivantes :
 
 1° Les associés répondent du passif au-delà de leurs apports sauf dans les cas
@@ -28,12 +28,12 @@ mentionnées au i ou des instruments financiers à caractère liquide mentionné
 h ;
 
 4° Les instruments financiers qu'elles émettent ne sont pas admis aux
-négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1
+négociations sur un marché mentionné aux articles L. 421-4, L. 422-1 et L. 423-1
 ;
 
 c) Des parts de sociétés de personnes autres que celles mentionnées au b, des
 parts ou des actions de sociétés autres que des sociétés de personnes qui ne
-sont pas admises aux négociations sur un marché mentionné aux articles L. 421-3,
+sont pas admises aux négociations sur un marché mentionné aux articles L. 421-4,
 L. 422-1 et L. 423-1. Ces sociétés satisfont aux conditions suivantes :
 
 1° La responsabilité des associés ou actionnaires est limitée au montant de
@@ -47,10 +47,10 @@ indirectes dans des sociétés répondant aux conditions des 1°, 2° et 4° du 
 du présent c ;
 
 3° Les instruments financiers qu'elles émettent ne sont pas admis aux
-négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1
+négociations sur un marché mentionné aux articles L. 421-4, L. 422-1 et L. 423-1
 ;
 
-d) Des actions négociées sur un marché mentionné aux articles L. 421-3, L. 422-1
+d) Des actions négociées sur un marché mentionné aux articles L. 421-4, L. 422-1
 et L. 423-1 et émises par une société dont l'actif est principalement constitué
 d'immeubles acquis ou construits en vue de la location, de droits réels portant
 sur de tels biens, de droits détenus en qualité de crédit-preneur afférents à

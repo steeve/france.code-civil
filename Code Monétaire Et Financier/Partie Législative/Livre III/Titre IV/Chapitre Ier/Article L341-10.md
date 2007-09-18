@@ -23,7 +23,7 @@ en application de l'article L. 151-2 ;
 3° Les produits relevant des articles L. 214-42 et L. 214-43 :
 
 4° Les instruments financiers qui ne sont pas admis aux négociations sur les
-marchés réglementés définis aux articles L. 421-1 et L. 422-1 ou sur les marchés
+marchés réglementés définis aux articles L. 421-4 et L. 422-1 ou sur les marchés
 étrangers reconnus définis à l'article L. 423-1, à l'exception des parts ou
 actions d'organismes de placement collectif en valeurs mobilières, des
 instruments financiers qui font l'objet d'une opération d'appel public à

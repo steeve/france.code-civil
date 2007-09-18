@@ -22,15 +22,17 @@ II. - Sauf dans le cas où l'Autorité des marchés financiers établit que les
 structures administratives ou la situation financière de la société de gestion
 de portefeuille ne permettent pas l'établissement d'une succursale, elle
 transmet la notification et les éléments d'information mentionnés aux 2° , 3° et
-4° de cet article R. 532-20 aux autorités compétentes de l'Etat d'accueil
-mentionné au 1° du même article dans les trois mois suivant leur réception.
+4° de cet article R. 532-20 à l'autorité compétente de l'Etat d'accueil
+mentionné au 1° du même article, qui a été désignée comme point de contact, dans
+les trois mois suivant leur réception.
 
 L'Autorité des marchés financiers transmet également, le cas échéant, des
 précisions sur le dispositif d'indemnisation ou de protection équivalente des
-clients de la succursale et en avise l'entreprise concernée.
+clients de la succursale et en avise la société concernée.
 
 III. - Lorsque l'Autorité des marchés financiers refuse de transmettre aux
 autorités compétentes de l'Etat d'accueil mentionné au 1° du de l'article R.
-532-20 les éléments d'information mentionnés à l'article R. 532-21, elle doit
-faire connaître les raisons de ce refus à l'entreprise concernée dans le délai
-de trois mois prévu à cet article R. 532-21.
+532-20, qui a été désignée comme point de contact, les éléments d'information
+mentionnés à l'article R. 532-21, elle doit faire connaître les raisons de ce
+refus à la société concernée dans le délai de trois mois prévu à cet article R.
+532-21.

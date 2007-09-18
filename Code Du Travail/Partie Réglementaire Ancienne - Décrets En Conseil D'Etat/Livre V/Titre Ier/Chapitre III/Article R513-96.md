@@ -2,33 +2,39 @@ Article R513-96
 ----
 N'entrent pas en compte dans le résultat du dépouillement :
 
-- les bulletins blancs ;
+1° Les enveloppes sans bulletin ;
 
-- les bulletins désignant une liste qui n'a pas été régulièrement publiée ou
-dont l'irrégularité ou l'irrecevabilité a été constatée par le juge ;
+2° Les bulletins blancs ;
 
-- les bulletins dans lesquels les votants se sont fait connaître *nuls* ;
-
-- les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non
+3° Les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non
 réglementaires ;
 
-- les bulletins imprimés sur papier de couleur ou à l'aide d'encre d'une autre
-couleur que le noir ;
-
-- les bulletins multiples trouvés dans la même enveloppe et concernant des
+4° Les bulletins multiples trouvés dans la même enveloppe et concernant des
 listes différentes ;
 
-- les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de
+5° Les bulletins désignant une liste qui n'a pas été régulièrement publiée ou
+dont l'irrégularité ou l'irrecevabilité a été constatée par le juge ;
+
+6° Les bulletins ou enveloppes ne correspondant pas au conseil, au collège ou à
+la section d'inscription de l'électeur ;
+
+7° Les bulletins comportant adjonction ou suppression de noms ou modifications
+de l'ordre de présentation des candidats ;
+
+8° Des bulletins imprimés d'un modèle différent de ceux qui ont été produits par
+les candidats ou qui comporte une mention manuscrite ;
+
+9° Les bulletins manuscrits ;
+
+10° Les bulletins non conformes à l'article R. 513-45 ;
+
+11° Les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de
 reconnaissance ;
 
-- les bulletins ou enveloppes portant des mentions injurieuses pour les
+12° Les bulletins ou enveloppes portant des mentions injurieuses pour les
 candidats ou pour des tiers ;
 
-- les bulletins comportant adjonction ou suppression de noms ou modifications de
-l'ordre de présentation des candidats ;
-
-- les bulletins manuscrits ne comportant pas les mentions prévues au troisième
-alinéa de l'article R. 513-45.
+13° Les circulaires utilisées comme bulletin.
 
 Les bulletins qui n'ont pas été pris en compte ainsi que les enveloppes non
 réglementaires sont annexés au procès-verbal et contresignés par les membres du

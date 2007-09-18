@@ -12,8 +12,8 @@ d'effectuer une transaction qui porte sur un instrument financier et dans
 laquelle intervient l'entreprise qui octroie le crédit ou le prêt ;
 
 3. La fourniture de conseil aux entreprises en matière de structure de capital,
-de stratégie industrielle et de questions connexes ainsi que la fourniture de
-conseil et de services en matière de fusions et de rachat d'entreprises ;
+de stratégie industrielle et de questions connexes ainsi que de services
+concernant les fusions et le rachat d'entreprises ;
 
 4. La recherche en investissements et l'analyse financière ou toute autre forme
 de recommandation générale concernant les transactions sur instruments

@@ -1,10 +1,10 @@
 Article R513-116
 ----
-Dans un délai d'un mois à compter de la réception du procès-verbal mentionné à
-l'article R. 513-107, le procureur de la République près le tribunal de grande
-instance dans le ressort duquel se trouve le siège du conseil de prud'hommes
-invite les conseillers prud'hommes nouvellement élus, qui n'ont pas encore
-exercé de fonctions judiciaires dans un conseil de prud'hommes, à se présenter à
+Le procureur de la République près le tribunal de grande instance dans le
+ressort duquel se trouve le siège du conseil de prud'hommes invite, dans le
+courant du mois de janvier de l'année qui suit les élections générales, les
+conseillers prud'hommes nouvellement élus, qui n'ont pas encore exercé de
+fonctions judiciaires dans un conseil de prud'hommes, à se présenter à
 l'audience de ce tribunal pour prêter individuellement le serment suivant : "Je
 jure de remplir mes devoirs avec zèle et intégrité et de garder le secret des
 délibérations".

@@ -8,5 +8,5 @@ cas, des frais et commissions. Ne s'appliquent pas au fonds commun de placement,
 les dispositions du code civil relatives à l'indivision ni celles des articles
 1871 à 1873 du même code relatives aux sociétés en participation.
 
-Les parts peuvent être admises par l'Autorité des marchés financiers aux
-négociations sur un marché réglementé dans des conditions fixées par décret.
+Les parts peuvent être admises aux négociations sur un marché réglementé dans
+des conditions fixées par décret.

@@ -1,6 +1,7 @@
 Article R513-104
 ----
-Après avoir recensé les votes de toutes les communes, la commission de
+Après avoir recensé les votes de toutes les communes et procédé, s'il y a lieu,
+au redressement des chiffres portés sur les procès-verbaux, la commission de
 recensement des votes du ressort du conseil attribue les sièges par collège et
 par section dans l'ordre de présentation de chaque liste en faisant application
 de la représentation proportionnelle avec répartition complémentaire suivant la

@@ -23,8 +23,15 @@ proportionnée à leurs besoins et à leurs objectifs ;
 activités et mettre en oeuvre ces ressources et procédures avec un souci
 d'efficacité ;
 
-4° S'enquérir, avant de formuler un conseil, de la situation financière de leurs
-clients, de leur expérience et de leurs objectifs en matière d'investissement ;
+4° S'enquérir auprès de leurs clients ou de leurs clients potentiels, avant de
+formuler un conseil mentionné au I de l'article L. 541-1, de leurs connaissances
+et de leur expérience en matière d'investissement, ainsi que de leur situation
+financière et de leurs objectifs d'investissement, de manière à pouvoir leur
+recommander les opérations, instruments et services adaptés à leur situation.
+Lorsque les clients ou les clients potentiels ne communiquent pas les
+informations requises, les conseillers en investissements financiers
+s'abstiennent de leur recommander les opérations, instruments et services en
+question ;
 
 5° Communiquer aux clients, d'une manière appropriée, la nature juridique et
 l'étendue des éventuelles relations entretenues avec les établissements

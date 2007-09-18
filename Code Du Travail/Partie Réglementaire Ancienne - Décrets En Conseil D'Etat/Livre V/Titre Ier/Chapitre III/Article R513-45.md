@@ -1,7 +1,7 @@
 Article R513-45
 ----
 Le nombre de bulletins de vote que chaque liste de candidats peut faire imprimer
-ne doit pas excéder de plus de 20 p. cent le double du nombre des électeurs dont
+ne doit pas excéder de plus de 10 p. cent le double du nombre des électeurs dont
 cette liste sollicite les suffrages.
 
 Les bulletins de vote ont un format de 148 X 210 mm pour les listes comportant
