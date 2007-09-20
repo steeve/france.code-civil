@@ -1,6 +1,6 @@
 Article D681-6
 ----
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont
+Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45 sont
 tenus, lorsqu'ils irriguent tout ou partie de leur surface cultivée, de fournir
 les autorisations ou récépissés de déclaration de prélèvement d'eau et d'équiper
 leurs points de prélèvements en moyens de mesure ou d'évaluation de l'eau

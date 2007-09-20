@@ -1,6 +1,6 @@
 Article D681-5
 ----
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont
+Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45 sont
 tenus de mettre en oeuvre des mesures relatives au maintien de la matière
 organique des sols définies, au regard des cultures pratiquées localement, par
 arrêté préfectoral parmi les mesures suivantes :

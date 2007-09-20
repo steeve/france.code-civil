@@ -1,6 +1,6 @@
 Article D681-7
 ----
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont
+Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45 sont
 tenus de respecter les règles d'entretien des terres mises en culture, des
 terres en herbes et des terres gelées dans le cadre de la politique agricole
 commune définies par arrêté préfectoral.
