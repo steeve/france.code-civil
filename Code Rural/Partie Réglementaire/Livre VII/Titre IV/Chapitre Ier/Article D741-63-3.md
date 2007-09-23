@@ -6,4 +6,4 @@ d'un nombre d'heures de travail rémunérées ou lorsque la période d'emploi
 rémunérée couvre une partie d'un mois et lorsque le contrat de travail du
 salarié est suspendu avec maintien total ou partiel de sa rémunération mensuelle
 brute, le nombre d'heures rémunérées est déterminé dans les conditions prévues
-par l'article D. 241-8 du code de la sécurité sociale.
+par l'article D. 241-27 du code de la sécurité sociale.

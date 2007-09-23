@@ -1,14 +1,17 @@
 Article D241-24
 ----
-L'employeur doit tenir à la disposition de l'inspecteur du recouvrement
-mentionné à l'article R. 243-59 un document justificatif du montant de
-l'allégement appliqué indiquant, par établissement et par mois civil, la durée
-du travail applicable, le nombre de salariés concernés, le montant total de
-l'allégement et, le cas échéant, de la majoration ou de la minoration appliquée
-ainsi que, pour chacun des salariés, son identité, le montant de la rémunération
-versée et, le cas échéant, le nombre d'heures pris en compte pour l'application
-de l'article D. 241-20, et le montant de l'allégement appliqué.
+I. - Le montant de la déduction forfaitaire des cotisations patronales prévue au
+I de l'article L. 241-18 est fixé à 0,50 euros.
 
-Il tient également à disposition de cet inspecteur les documents justifiant que
-sont satisfaites les conditions fixées par les articles 19 et 20 de la loi du 19
-janvier 2000 précitée pour bénéficier de l'allégement.
+II. - Dans les entreprises employant au plus vingt salariés, le montant prévu au
+I du présent article est majoré d'un euro.
+
+Pour bénéficier de cette majoration, l'employeur doit s'assurer que le montant
+de la déduction forfaitaire des cotisations patronales et des autres aides
+entrant dans le champ du règlement communautaire mentionné au IV de l'article L.
+241-18 n'excède pas, sur une période de trois exercices fiscaux dont l'exercice
+en cours, le plafond fixé par ledit règlement.
+
+III. - La déduction forfaitaire n'est accordée que lorsque l'heure
+supplémentaire effectuée fait l'objet d'une rémunération au moins égale à celle
+d'une heure normale.

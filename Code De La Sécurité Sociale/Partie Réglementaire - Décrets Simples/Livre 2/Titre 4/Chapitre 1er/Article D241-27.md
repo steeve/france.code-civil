@@ -1,9 +1,9 @@
-Article D241-8
+Article D241-27
 ----
-I. - Pour les salariés dont la rémunération ne peut être déterminée au cours du
-mois en fonction d'un nombre d'heures de travail rémunérées, le nombre d'heures
-de travail pris en compte au titre du calcul du coefficient mentionné à
-l'article D. 241-7 est réputé égal :
+Pour l'application de l'article L. 241-15 aux salariés dont la rémunération ne
+peut être déterminée au cours du mois en fonction d'un nombre d'heures de
+travail rémunérées, le nombre d'heures de travail pris en compte est réputé égal
+:
 
 1. Pour les salariés dont la durée du travail est fixée par une convention
 individuelle de forfait annuel en jours, au produit de la durée légale du
@@ -23,7 +23,7 @@ de référence d'une activité à temps plein, le nombre d'heures déterminé co
 ci-dessus est réduit selon le rapport entre la rémunération versée et cette
 rémunération de référence.
 
-II. - Dans les cas visés au I, lorsque la période d'emploi rémunérée couvre une
+II. - Dans les cas prévus au I, lorsque la période d'emploi rémunérée couvre une
 partie du mois civil, le nombre d'heures rémunérées au cours du mois est réputé
 égal au produit du nombre de jours calendaires compris dans la période par un
 trentième du nombre d'heures reconstitué conformément aux dispositions prévues
@@ -40,3 +40,11 @@ Pour l'application de ces dispositions, dans le cas des salariés mentionnés au
 du I, la rémunération à comparer à la rémunération de référence d'une activité à
 temps plein est celle qu'aurait perçue le salarié s'il avait effectué son
 activité sur la totalité du mois civil.
+
+III. - La durée collective calculée sur le mois mentionnée au présent article
+est égale à cinquante-deux douzièmes de la durée hebdomadaire ou de la durée
+moyenne hebdomadaire en cas de modulation de la durée hebdomadaire du travail en
+application des articles L. 212-8 du code du travail ou L. 713-14 du code rural
+ou du V de l'article 8 de la loi n° 2000-37 du 19 janvier 2000 relative à la
+réduction négociée du temps de travail ou en cas de réduction du temps de
+travail en application du II de l'article L. 212-9 du même code.

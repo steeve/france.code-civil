@@ -17,8 +17,3 @@ la charge de l'employeur et soumis à cotisations. Le nombre d'heures rémunér�
 ainsi déterminé ne peut excéder au titre du mois civil considéré la durée légale
 du travail calculée sur le mois, ou, si elle est inférieure, la durée
 conventionnelle applicable dans l'établissement.
-
-Pour les salariés dont la rémunération ne peut être déterminée au cours du mois
-en fonction d'un nombre d'heures de travail rémunérées, le nombre d'heures
-rémunérées pris en compte pour le calcul de l'exonération est déterminée
-conformément aux dispositions de l'article D. 241-8.
