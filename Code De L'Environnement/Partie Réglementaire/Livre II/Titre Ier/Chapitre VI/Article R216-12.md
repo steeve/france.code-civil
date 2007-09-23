@@ -59,7 +59,11 @@ alinéa de l'article R. 214-53, lorsque viennent à être inscrits à la
 nomenclature prévue à l'article L. 214-2, des installations, ouvrages, travaux
 ou activités jusqu'alors dispensés d'autorisation ou de déclaration, soit de
 produire les pièces qui peuvent être exigées par le préfet pour l'application du
-III de l'article L. 214-6.
+III de l'article L. 214-6 ;
+
+11° Le fait de ne pas respecter les conditions de prélèvements d'eau et les
+modalités de répartition prescrites par les arrêtés pris en application des
+articles R. 214-24, R. 214-31-2 ou R. 214-31-3.
 
 II. - Les personnes physiques encourent également la peine complémentaire de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction
