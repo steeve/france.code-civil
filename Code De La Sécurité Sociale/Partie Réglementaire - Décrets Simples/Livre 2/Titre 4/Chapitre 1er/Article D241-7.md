@@ -7,43 +7,46 @@ formule suivante :
 
 Coefficient =
 
-(0,26/0,6) x (1,6 x SMIC x nombre d'heures rémunérées/rémunération mensuelle
-brute - 1)
+(0,260/0,6) x (1,6 x montant mensuel du SMIC/rémunération mensuelle brute hors
+heures supplémentaires et complémentaires - 1)
 
 Pour les employeurs de un à dix-neuf salariés mentionnés au quatrième alinéa du
 III de l'article L. 241-13, le coefficient fixé au premier alinéa est déterminé
 par application de la formule suivante :
 
-Pour l'application du quatrième alinéa du III de l'article L. 241-13, l'effectif
-de l'entreprise est apprécié au 31 décembre, tous établissements confondus, en
-fonction de la moyenne, au cours de l'année civile, des effectifs déterminés
-chaque mois conformément aux dispositions des articles L. 620-10 et L. 620-11 du
-code du travail.
+Coefficient =
 
-Cet effectif détermine la formule applicable pour le calcul des cotisations dues
-au titre des gains et rémunérations versés à compter du 1er janvier de l'année
-suivante et pour la durée de celle-ci.
+(0,281/0,6) x (1,6 x montant mensuel du SMIC/rémunération mensuelle brute hors
+heures supplémentaires et complémentaires - 1)
 
-Pour ce calcul :
+1. Le montant mensuel du salaire minimum de croissance à prendre en compte est
+égal à la valeur de 151,67 fois le salaire minimum de croissance prévu par
+l'article L. 141-2 du code du travail. Pour les salariés dont la rémunération
+contractuelle n'est pas fixée pour l'ensemble du mois considéré sur la base
+d'une durée hebdomadaire, ou rapportée à la durée du cycle, de 35 heures ou
+d'une durée annuelle de 1 607 heures, le montant mensuel du salaire minimum de
+croissance ainsi déterminé est corrigé à proportion de la durée de travail ou de
+la durée équivalente au sens du cinquième alinéa de l'article L. 212-4 du code
+du travail, hors heures supplémentaires et complémentaires au sens de l'article
+81 quater du code général des impôts, inscrite à leur contrat de travail au
+titre de la période où ils sont présents dans l'entreprise et rapportée à celle
+correspondant à la durée légale du travail.
 
-1. Le SMIC est le taux horaire du salaire minimum de croissance prévu par
-l'article L. 141-4 du code du travail. Il est pris en compte pour sa valeur la
-plus élevée en vigueur au cours de la période d'emploi rémunérée.
+2. La rémunération mensuelle brute hors heures supplémentaires et
+complémentaires est constituée des gains et rémunérations tels que définis à
+l'article L. 242-1, versés au salarié au cours du mois civil, à l'exclusion de
+la rémunération des heures complémentaires et supplémentaires dans la limite, en
+ce qui concerne la majoration salariale correspondante, des taux de 25 % ou de
+50 %, selon le cas, prévus au I de l'article L. 212-5 du code du travail et à
+l'article L. 713-6 du code rural.
 
-2. Le nombre d'heures rémunérées correspond au nombre d'heures de travail auquel
-se rapporte la rémunération brute versée au cours du mois civil considéré.
-
-3. La rémunération mensuelle brute est constituée des gains et rémunérations
-tels que définis à l'article L. 242-1 versés au salarié au cours du mois civil.
-
-4. En cas de suspension du contrat de travail avec maintien total ou partiel de
-la rémunération mensuelle brute du salarié, le nombre d'heures rémunérées pris
-en compte au titre de ces périodes de suspension est égal au produit de la durée
-de travail que le salarié aurait effectuée s'il avait continué à travailler par
-le pourcentage de la rémunération demeuré à la charge de l'employeur et soumis à
+3. En cas de suspension du contrat de travail avec maintien partiel de la
+rémunération mensuelle brute du salarié, le montant mensuel du salaire minimum
+de croissance pris en compte pour le calcul du coefficient est réduit selon le
+pourcentage de la rémunération demeurée à la charge de l'employeur et soumise à
 cotisations.
 
-5. Le résultat obtenu par application de l'une ou l'autre de ces formules est
+4. Le résultat obtenu par application de l'une ou l'autre de ces formules est
 arrondi à trois décimales, au millième le plus proche. Pour les entreprises de
 un à dix-neuf salariés, il est pris en compte pour une valeur égale à 0,281 s'il
 est supérieur à 0,281. Pour les entreprises de plus de dix-neuf salariés, il est
@@ -54,5 +57,4 @@ au cours d'un mois civil auprès de plusieurs entreprises utilisatrices, le
 montant mensuel de la réduction est la somme des réductions appliquées à la
 rémunération brute versée au salarié au titre de chaque mission effectuée au
 cours de ce mois. Le coefficient mentionné au I est déterminé pour chaque
-mission, la formule de calcul intégrant la rémunération brute afférente et le
-nombre d'heures rémunérées auquel elle se rapporte.
+mission.
