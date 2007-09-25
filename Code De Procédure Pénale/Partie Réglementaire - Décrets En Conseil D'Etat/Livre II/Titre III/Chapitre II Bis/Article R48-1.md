@@ -56,8 +56,8 @@ de voyageurs.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
-a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
-d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
+a) L'article R. 632-1 du code pénal relatif à l'abandon d'ordures, déchets,
+matériaux et autres objets ;
 
 b) Les articles R. 331-63 à R. 331-66 du code de l'environnement relatifs aux
 coeurs de parcs nationaux et les articles R332-69 à R332-72 du même code

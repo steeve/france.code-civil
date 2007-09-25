@@ -1,9 +1,15 @@
 Article R131-45
 ----
-Le mandataire de justice prévu par l'article 131-46 est choisi soit parmi les
-personnes inscrites sur la liste prévue par l'article L. 811-2 du code de
-commerce, soit parmi celles inscrites sur l'une des listes prévues par l'article
-157 du code de procédure pénale. Toutefois, à titre exceptionnel, la juridiction
-peut, par décision motivée, désigner comme mandataire une personne physique ne
-figurant sur aucune des listes précitées mais ayant une expérience ou une
-qualification particulière.
+Dès que la condamnation est exécutoire, la personne condamnée à la peine de
+sanction-réparation est informée par le procureur de la République ou par son
+délégué qu'elle doit lui adresser, au plus tard à l'expiration du délai fixé
+pour indemniser la victime ou procéder à la remise en état des lieux, la
+justification qu'il a été procédé à cette indemnisation ou à cette remise en
+état. Si l'indemnisation se fait en plusieurs fois selon des modalités fixées
+par la juridiction, la justification doit intervenir pour chaque versement, sauf
+décision contraire du procureur ou de son délégué.
+
+Lorsque la réparation s'exécute en nature et consiste en une remise en état des
+lieux, ou en cas de retard dans l'indemnisation de la victime, le délégué du
+procureur peut convoquer le condamné, le cas échéant avec la partie civile, afin
+de faciliter l'exécution de la peine ou d'en vérifier l'exécution.

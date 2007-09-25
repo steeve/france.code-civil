@@ -1,9 +1,8 @@
 Article R49-8-1
 ----
 L'exploitant d'un service public de transport terrestre mentionné à l'article
-529-3 qui entend faire agréer ses agents pour procéder au relevé d'identité des
-voyageurs dépourvus de titres réguliers de transport, prévu au II de l'article
-529-4, doit :
+529-3 qui entend faire agréer ses agents pour procéder aux relevés d'identité
+prévus au II de l'article 529-4, doit :
 
 I. - Assurer une formation de ses agents portant sur :
 

@@ -9,3 +9,7 @@ délit de défaut d'assurance prévu par l'article L. 324-2 du code de la route 
 pour les infractions en matière de chasse.
 
 La diminution porte sur l'ensemble des sommes dues.
+
+Lorsqu'une consignation a été versée en application des dispositions de
+l'article 529-10 du présent code ou de l'article L. 121-4 du code de la route,
+la diminution ne porte que sur les sommes restant dues.

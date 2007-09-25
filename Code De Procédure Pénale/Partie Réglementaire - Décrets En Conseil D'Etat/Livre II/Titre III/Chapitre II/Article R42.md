@@ -12,6 +12,6 @@ s'il y a lieu, de la majoration de l'amende, dans le délai d'un mois à compter
 de sa date d'envoi, le montant des sommes dues sera diminué de vingt pour cent.
 
 Les magistrats ou officiers du ministère public vérifient les extraits
-d'ordonnances pénales. Ils vérifient et visent l'état récapitulatif des
-ordonnances pénales, auquel sont joints les extraits mentionnés dans cet état,
-qui est adressé par le chef du greffe au comptable principal du Trésor.
+d'ordonnances pénales. Lorsqu'une peine d'amende a été prononcée, l'ordonnance
+fait l'objet d'un relevé de condamnation pénale adressé par le greffier en chef
+au comptable du Trésor conformément aux dispositions de l'article R. 55-5.

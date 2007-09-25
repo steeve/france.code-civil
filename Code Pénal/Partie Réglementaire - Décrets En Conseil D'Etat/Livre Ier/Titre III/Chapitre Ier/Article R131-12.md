@@ -1,11 +1,22 @@
 Article R131-12
 ----
-Les associations qui désirent obtenir l'habilitation prévue au premier alinéa de
+Les personnes morales de droit privé chargées d'une mission de service public ou
+les associations qui désirent obtenir l'habilitation prévue au premier alinéa de
 l'article 131-8 en font la demande au juge de l'application des peines du
 ressort dans lequel elles envisagent de mettre en oeuvre des travaux d'intérêt
 général.
 
-La demande comporte :
+Pour les personnes morales de droit privé chargées d'une mission de service
+public, la demande comporte :
+
+1° La copie des statuts de la personne morale ;
+
+2° Un extrait du registre du commerce et des sociétés (extraits K ou K bis)
+datant de moins de trois mois ;
+
+3° Une copie des comptes annuels et des bilans du dernier exercice.
+
+Pour les associations, la demande comporte :
 
 1° La copie du Journal officiel portant publication de la déclaration de
 l'association ou, pour les associations déclarées dans les départements du

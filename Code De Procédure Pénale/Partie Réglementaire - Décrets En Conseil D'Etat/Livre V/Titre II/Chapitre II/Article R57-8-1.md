@@ -9,5 +9,6 @@ individuelles suivantes :
 dirige.
 
 Pour les compétences définies par la partie réglementaire du présent code le
-chef d'établissement pénitentiaire peut déléguer sa signature à un agent
-d'encadrement placé sous son autorité.
+chef d'établissement pénitentiaire peut déléguer sa signature à son adjoint, à
+un directeur des services pénitentiaires ou à un membre du corps de commandement
+placé sous son autorité.
