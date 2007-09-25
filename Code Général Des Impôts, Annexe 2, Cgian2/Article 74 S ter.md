@@ -1,36 +1,27 @@
 Article 74 S ter
 ----
-Lorsque le vendeur exerce l'option prévue à l'article 150 V sexies du code
-général des impôts, il doit souscrire, auprès du service des impôts dont il
-dépend pour l'impôt sur le revenu, une déclaration d'option en double exemplaire
-selon un modèle établi par l'administration.
+Pour le bénéfice des exonérations prévues aux 5° et 6° de l'article 150 VJ du
+code général des impôts, l'exportateur doit justifier, lors de l'accomplissement
+des formalités douanières, être fiscalement domicilié hors de France et
+présenter, selon le cas, l'un des documents suivants :
 
-La déclaration mentionne l'identité de l'acquéreur et, le cas échéant, de
-l'intermédiaire chargé de la vente ainsi que la date de l'opération et le prix
-de vente.
+a. un document, tel que prévu par la législation douanière en vigueur, prouvant
+que le bien a fait antérieurement l'objet d'une importation en France ou dans un
+autre Etat membre de la Communauté européenne par ses soins ;
 
-Elle est appuyée :
+b. la facture d'acquisition du bien auprès d'un professionnel installé en France
+ou dans un autre Etat membre de la Communauté européenne ;
 
-Soit d'un certificat délivré par un officier ministériel attestant que l'objet a
-été acquis dans une vente publique, et mentionnant la date et le prix payé,
+c. un document mentionnant explicitement le bien concerné et établissant que
+celui-ci a été acquis par voie de succession ou de donation d'une personne
+résidant en France ou dans un autre Etat membre de la Communauté européenne ;
 
-Soit d'une facture régulière délivrée par un commerçant résidant en France,
+d. un document prouvant que le bien a été acquis à titre onéreux, en France ou
+dans un autre Etat membre de la Communauté européenne, auprès d'une personne
+autre que celle mentionnée au b ;
 
-Soit d'une facture délivrée par un particulier et visée par le service des
-impôts ayant encaissé la taxe,
-
-Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un
-extrait de la déclaration ayant servi de base à la liquidation des droits de
-mutation et mentionnant le bien concerné.
-
-L'acceptation de l'option par l'administration est notifiée en double exemplaire
-au vendeur. Le cas échéant, celui-ci remet l'un d'eux à la personne tenue au
-paiement de la taxe qui conserve cette pièce à l'appui de sa propre
-comptabilité. Le redevable de la taxe se trouve de ce fait déchargé du paiement.
-L'option exercée est irrévocable.
-
-Lorsqu'un exportateur se trouvant dans la situation prévue au deuxième alinéa de
-l'article 150 V quater du code général des impôts a acquis le bien auprès d'une
-personne qui a exercé l'option, la présentation par cet exportateur de la
-déclaration d'option visée par les services fiscaux vaut justification du
-paiement de la taxe.
+e. lorsque l'acquisition visée au d porte sur des biens mentionnés au 1° du I de
+l'article 150 VI et qu'elle a été effectuée en France, ou dans un autre Etat
+membre de la Communauté européenne auprès d'une personne physique domiciliée en
+France, un document prouvant que cette acquisition a donné lieu au paiement de
+la taxe ou que le cédant a exercé l'option prévue à l'article 150 VL.
