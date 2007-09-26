@@ -1,5 +1,4 @@
 Article 317 A
 ----
-Le taux maximum de la taxe perçue au profit du budget annexe des prestations
-sociales agricoles en application de l'article 1603 du code général des impôts
-est fixé à 5,50 %.
+Les dispositions du II de l'article 74 SH s'appliquent à la déclaration
+mentionnée au premier alinéa du IV de l'article 1529 du code général des impôts.
