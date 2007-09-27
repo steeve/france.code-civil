@@ -18,13 +18,15 @@ a) Experts et traducteurs interprètes ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ;
 
-c) Personnes contribuant au contrôle judiciaire ;
+c) Personnes contribuant au contrôle judiciaire ou, dans le cas prévu par le
+cinquième alinéa de l'article 471, au sursis avec mise à l'épreuve (1) ;
 
 d) Médiateurs du procureur de la République chargés d'une mission de médiation
 en application des dispositions du 5° de l'article 41-1 ;
 
 e) Délégués du procureur de la République chargés d'une des missions prévues par
-les 1° à 4° de l'article 41-1 ou intervenant au cours d'une composition pénale.
+les 1°, 2°, 3°, 4° et 6° de l'article 41-1 ou intervenant au cours d'une
+composition pénale (1).
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par
 application des articles R. 123 à R. 146 et aux parties civiles par application
