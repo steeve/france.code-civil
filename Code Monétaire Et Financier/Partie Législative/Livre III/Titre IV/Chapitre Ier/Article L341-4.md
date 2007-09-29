@@ -17,20 +17,20 @@ plusieurs entreprises, institutions ou établissements mentionnés au 1° de
 l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants des
 mandats ainsi détenus.
 
-III. - Les personnes morales mentionnées à l'article L. 341-3 et celles
-mandatées en application du I du présent article sont civilement responsables du
-fait des démarcheurs, agissant en cette qualité, auxquels elles ont délivré un
-mandat. Les personnes morales mentionnées à l'article L. 341-3 demeurent
-responsables du fait des salariés des personnes morales qu'elles ont mandatées,
-dans la limite du mandat.
+III. - Les personnes mentionnées à l'article L. 341-3 et celles mandatées en
+application du I du présent article sont civilement responsables du fait des
+démarcheurs, agissant en cette qualité, auxquels elles ont délivré un mandat.
+Les personnes morales mentionnées à l'article L. 341-3 demeurent responsables du
+fait des salariés ou employés des personnes physiques ou des personnes morales
+qu'elles ont mandatées, dans la limite du mandat.
 
 IV. - Les démarcheurs personnes physiques et les personnes physiques ayant le
 pouvoir de gérer ou d'administrer les personnes morales mandatées en application
 du I doivent remplir des conditions d'âge, d'honorabilité et de compétence
 professionnelle fixées par décret. Il en va de même des salariés ou employés des
 personnes mentionnées à l'article L. 341-3, lorsqu'ils exercent des activités de
-démarchage, et de ceux des personnes morales mandatées en application du I du
-présent article.
+démarchage, et de ceux des personnes physiques ou des personnes morales
+mandatées en application du I du présent article.
 
 V. - Les règles fixées aux II et IV ne s'appliquent pas aux personnes physiques
 participant à l'envoi de documents nominatifs, sous réserve qu'elles n'aient

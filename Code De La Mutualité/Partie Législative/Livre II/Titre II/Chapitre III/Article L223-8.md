@@ -13,17 +13,16 @@ Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destin�
 notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour
 les bulletins d'adhésion ou les contrats en cas de vie dont les prestations sont
 liées à la cessation d'activité professionnelle et notamment, pour les plans
-d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21
-août 2003 portant réforme des retraites, les valeurs de transfert ainsi que,
-dans le même tableau, la somme des cotisations versées au terme de chacune des
-huit premières années au moins. Le bulletin d'adhésion ou le contrat indique les
-valeurs minimales et explique le mécanisme de calcul des valeurs de rachat ou de
-transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union
-doit, en outre, remettre, contre récépissé, une note d'information sur les
-dispositions essentielles des règlements incluant, lorsque le contrat comporte
-des garanties exprimées en unités de compte, les caractéristiques principales de
-ces unités de compte, sur les conditions d'exercice de la faculté de
-renonciation.
+d'épargne retraite populaire créés à l'article L. 144-2 du code des assurances,
+les valeurs de transfert ainsi que, dans le même tableau, la somme des
+cotisations versées au terme de chacune des huit premières années au moins. Le
+bulletin d'adhésion ou le contrat indique les valeurs minimales et explique le
+mécanisme de calcul des valeurs de rachat ou de transfert lorsque celles-ci ne
+peuvent être établies. La mutuelle ou l'union doit, en outre, remettre, contre
+récépissé, une note d'information sur les dispositions essentielles des
+règlements incluant, lorsque le contrat comporte des garanties exprimées en
+unités de compte, les caractéristiques principales de ces unités de compte, sur
+les conditions d'exercice de la faculté de renonciation.
 
 Pour les opérations collectives facultatives, la note précise que les droits et
 obligations du membre participant peuvent être modifiés par des avenants aux
