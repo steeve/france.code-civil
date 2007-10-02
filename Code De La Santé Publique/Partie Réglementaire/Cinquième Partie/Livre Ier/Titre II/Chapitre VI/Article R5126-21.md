@@ -6,3 +6,7 @@ de pharmacie à usage intérieur. Ces demandes comportent tout élément établi
 que l'existence d'une pharmacie à usage intérieur n'est plus justifiée et, s'il
 y a lieu, précisent les moyens envisagés pour satisfaire les besoins
 pharmaceutiques subsistants.
+
+Le ministre chargé de la défense autorise la suppression des pharmacies à usage
+intérieur des hôpitaux des armées dans les conditions prévues à l'article R.
+5126-16-1.

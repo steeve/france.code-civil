@@ -1,8 +1,8 @@
 Article R5126-45
 ----
 Lorsque l'importance de l'activité de la pharmacie à usage intérieur l'exige, un
-ou plusieurs des pharmaciens mentionnés à l'article R. 5125-34 assistent le
-pharmacien chargé de la gérance.
+ou plusieurs des pharmaciens adjoints assistent le pharmacien chargé de la
+gérance.
 
 En ce qui concerne les établissements de santé, le nombre de ces pharmaciens est
 déterminé en tenant compte du contrat conclu avec l'agence régionale de

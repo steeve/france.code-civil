@@ -7,3 +7,7 @@ mentionnée aux articles L. 4221-9, L. 4221-11 ou L. 4221-12, est lié à
 l'établissement par un contrat de gérance conforme à un contrat type fixé, après
 avis du Conseil national de l'ordre des pharmaciens, par arrêté du ministre
 chargé de la santé.
+
+Ce contrat type peut comporter des clauses spécifiques pour la gérance des
+pharmacies des structures d'hospitalisation à domicile et des unités de dialyse
+à domicile.

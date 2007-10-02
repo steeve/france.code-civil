@@ -1,7 +1,7 @@
 Article R5126-29
 ----
-Un même pharmacien peut assurer la gérance de deux ou trois pharmacies à usage
-intérieur situées dans des établissements médico-sociaux publics, sous réserve
-que l'intéressé puisse assurer quotidiennement ses missions dans chaque
-établissement, et notamment les urgences, et qu'il obtienne l'accord du
-représentant légal des établissements concernés.
+La gérance des pharmacies à usage intérieur des hôpitaux des armées est assurée
+par les pharmaciens praticiens certifiés du service de santé des armées ou les
+praticiens professeurs agrégés du service de santé des armées nommés en qualité
+de responsable ou de chef de service d'une pharmacie à usage intérieur, par
+décision du ministre de la défense.

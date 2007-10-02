@@ -4,11 +4,9 @@ La gérance d'une pharmacie à usage intérieur d'un établissement public de sa
 autre qu'un hôpital local est assurée par un pharmacien exerçant l'une des
 fonctions suivantes :
 
-1° Chef du service ou du département de pharmacie ;
+1° Responsable de pôle, dans les pôles d'activité exclusivement pharmaceutique
+qui ne comportent pas de structures internes ou qui ne comportent que des unités
+fonctionnelles ;
 
-2° Coordonnateur d'une fédération regroupant les services ou départements
-pharmaceutiques ;
-
-3° Responsable de la structure en charge des missions prévues à l'article L.
-5126-5, en cas d'organisation libre des soins et du fonctionnement médical dans
-les conditions de l'article L. 6146-8.
+2° Responsable d'une structure interne de pharmacie autre qu'une unité
+fonctionnelle, dans les autres pôles d'activité clinique ou médico-technique.

@@ -1,12 +1,9 @@
 Article R5126-19
 ----
-Conformément au deuxième alinéa de l'article L. 5126-7, la demande de
-modification des éléments figurant dans l'autorisation initiale est présentée
-dans les mêmes conditions que celles prévues à l'article R. 5126-15. Toutefois,
-le dossier accompagnant la demande ne comporte, parmi les renseignements
-énumérés à cet article, que les informations permettant à l'autorité
-administrative compétente d'apprécier la nature et l'importance de la
-modification.
-
-Les dispositions des articles R. 5126-16 et R. 5126-17 s'appliquent à
-l'autorisation de modification.
+La modification des éléments figurant dans l'autorisation initiale est autorisée
+dans les mêmes conditions que celles prévues aux articles R. 5126-15 à R.
+5126-17. Toutefois, parmi les renseignements énumérés à l'article R. 5126-15,
+seules doivent être transmises les informations permettant au directeur de
+l'agence régionale de l'hospitalisation ou au préfet ainsi que, dans la
+procédure prévue à l'article R. 5126-16-1, au ministre chargé de la santé,
+d'apprécier la nature et l'importance de la modification.

@@ -15,4 +15,6 @@ pénitentiaire.
 Ce pharmacien fait l'objet d'une habilitation, conformément au décret n° 87-604
 du 31 juillet 1987 fixant les conditions d'habilitation des personnes auxquelles
 peuvent être confiées certaines fonctions dans les établissements
-pénitentiaires.
+pénitentiaires. Il est désigné, selon le cas, par la personne physique ou par le
+représentant légal de la personne morale ayant passé convention avec l'Etat pour
+en assurer la fonction sanitaire.
