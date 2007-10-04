@@ -1,11 +1,13 @@
 Article L2572-10
 ----
-I. - Les articles L. 2123-34 et L. 2123-35 sont applicables aux communes de
+I.-Les articles L. 2123-26 et L. 2123-29 sont applicables aux communes de
 Mayotte.
 
-II. - Pour l'application de l'article L. 2123-34, les mots : "par l'article 11
-de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires" sont remplacés par les mots : "par l'article 15 de l'ordonnance
-n° 96-782 du 5 septembre 1996 portant statut général des fonctionnaires de la
-collectivité départementale, des communes et des établissements publics de
-Mayotte".
+II.-Pour l'application de l'article L. 2123-26, les mots : " du régime général
+de la sécurité sociale " sont remplacés par les mots : " du régime d'assurance
+vieillesse des salariés et assimilés de droit privé de Mayotte ".
+
+III.-Pour l'application de l'article L. 2123-29, les mots : " des articles L.
+2123-26 à L. 2123-28 " sont remplacés par les mots :
+
+" de l'article L. 2123-26 ".

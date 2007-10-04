@@ -1,20 +1,23 @@
 Article L2572-6
 ----
-I. - Les articles L. 2123-17 à L. 2123-18-1, L. 2123-18-3, L. 2123-19, L.
-2123-20, L. 2123-22 à L. 2123-24-1 sont applicables aux communes de Mayotte.
+I.-Les articles L. 2123-1 à L. 2123-11, le premier alinéa de l'article L.
+2123-11-1 et l'article L. 2123-11-2 sont applicables aux communes de Mayotte.
 
-II. - Pour l'application de l'article L. 2123-18 :
+II.-Pour l'application de l'article L. 2123-9, les mots : " L. 122-24-2 et L.
+122-24-3 du code du travail relatives aux droits des salariés élus membres de
+l'Assemblée nationale ou du Sénat " sont remplacés par les mots : " L. 122-43 et
+L. 122-44 du code du travail applicable à Mayotte ".
 
-1° Les mots : "fonctionnaires de l'Etat" sont remplacés par les mots :
-"fonctionnaires de Mayotte" ;
+III.-Pour l'application de l'article L. 2123-11-1, les mots : " le livre IX du
+code du travail " sont remplacés par les mots : " le livre VII du code du
+travail applicable à Mayotte ".
 
-2° La dernière phrase du dernier alinéa est supprimée.
+IV.-Pour l'application de l'article L. 2123-11-2 :
 
-III. - Pour l'application de l'article L. 2123-20, après les mots : "de la
-fonction publique" sont ajoutés les mots : "de Mayotte".
+1° Le deuxième alinéa est ainsi rédigé :
 
-IV. - Pour l'application de l'article L. 2123-22, le 5° est supprimé.
+-être inscrit auprès des services de l'emploi mentionnés à l'article L. 326-1 du
+code du travail applicable à Mayotte ;
 
-V. - Pour l'application des articles L. 2123-23 à L. 2123-24-1, après les mots :
-"l'article L. 2123-20" sont ajoutés les mots : "tel que rendu applicable aux
-communes de Mayotte par le I et le III de l'article L. 2572-6".
+2° La deuxième phrase du cinquième alinéa est remplacée par la phrase suivante :
+" Elle n'est pas cumulable avec celle prévue par l'article L. 3123-9-2 ".
