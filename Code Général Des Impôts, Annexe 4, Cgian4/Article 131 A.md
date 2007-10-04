@@ -1,15 +1,15 @@
 Article 131 A
 ----
-I. Les billets prévus à l'article 1564 du code général des impôts peuvent être
-établis par un système informatisé dont les caractéristiques et le
-fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du
-8 mars 1993.
+I.-Pour l'application de l'article 1564 du code général des impôts, les
+organisateurs de réunions sportives et les exploitants de spectacles peuvent
+utiliser un système informatisé dont les caractéristiques et le fonctionnement
+doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993
+modifié.
 
-II. Les organisateurs de réunions sportives et les exploitants d'établissements
-de spectacles visés à l'article 1559 du code précité déclarent à la direction
-régionale des douanes et droits indirects dont ils dépendent la mise en service
-d'un système informatisé de billetterie au plus tard lors de la première
-utilisation.
+II.-Les organisateurs de réunions sportives et les exploitants de spectacles
+mentionnés à l'article 1559 du code précité déclarent à la direction régionale
+des douanes et droits indirects dont ils dépendent la mise en service d'un
+système informatisé de billetterie au plus tard lors de la première utilisation.
 
 Cette déclaration comporte les mentions suivantes nécessaires à la description
 du système utilisé :

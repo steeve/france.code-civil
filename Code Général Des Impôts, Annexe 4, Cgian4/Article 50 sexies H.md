@@ -1,9 +1,12 @@
 Article 50 sexies H
 ----
 Les exploitants de spectacles sont tenus d'établir, dès la fin de chaque journée
-ou représentation, un relevé comportant, pour chaque catégorie de places : les
-numéros des premiers et derniers billets délivrés le nombre de ceux-ci le prix
-de la place et la recette correspondante.
+ou représentation, un relevé comportant, pour chaque catégorie de places : le
+nombre de billets émis, le prix de la place et la recette correspondante.
+
+Dans le cas des billets qui ne sont pas émis par le biais de systèmes
+informatisés, le relevé doit comporter, en outre, pour chaque catégorie de
+places, les numéros des premiers et derniers billets délivrés.
 
 Tous registres ou documents présentant les indications prévues ci-dessus
 tiennent lieu de relevé.
