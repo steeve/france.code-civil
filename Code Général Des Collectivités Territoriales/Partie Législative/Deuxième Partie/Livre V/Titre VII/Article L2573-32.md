@@ -1,8 +1,7 @@
 Article L2573-32
 ----
-I. - Les articles L. 2251-1 à L. 2251-3 sont applicables aux communes de Mayotte
-à compter du renouvellement des conseils municipaux de 2007.
-
-II. - Pour l'application de l'article L. 2251-2, les mots : "le titre Ier du
-livre V de la première partie" sont remplacés par les mots : "le titre VI du
-livre VII de la première partie".
+Les communes et leurs groupements peuvent créer des établissements publics,
+dénommés centres communaux et centres intercommunaux d'action sociale, pour
+intervenir en matière d'action sociale, dans le respect de la réglementation
+applicable localement. Le haut-commissaire fixe par arrêté les règles de
+fonctionnement de ces établissements.

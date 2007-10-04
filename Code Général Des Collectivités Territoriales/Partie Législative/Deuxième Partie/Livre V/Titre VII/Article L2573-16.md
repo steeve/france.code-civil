@@ -1,6 +1,4 @@
 Article L2573-16
 ----
-Le matériel fourni dans le cadre du service public des pompes funèbres par les
-régies et les entreprises ou associations habilitées doit être constitué en vue
-aussi bien d'obsèques religieuses de tout culte que d'obsèques dépourvues de
-tout caractère confessionnel.
+Les articles L. 2144-1 et L. 2144-3 sont applicables aux communes de la
+Polynésie française.

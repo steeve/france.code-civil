@@ -1,11 +1,12 @@
 Article L2573-24
 ----
-I. - Les articles L. 2224-7 à L. 2224-12-5 sont applicables aux communes de
-Mayotte.
+I.-Les articles L. 2221-1 à L. 2221-7 et L. 2221-9 à L. 2221-20 sont applicables
+aux communes de la Polynésie française sous réserve des adaptations prévues aux
+II et III.
 
-II. - La réalisation du diagnostic et la mise en oeuvre du contrôle des
-installations d'assainissement non collectif et éventuellement leur entretien
-prévus au III de l'article L. 2224-8 et au 2° de l'article L. 2224-10 et, dans
-les zones d'assainissement collectif définies en application de l'article L.
-2224-10, l'ensemble des prestations de collecte et d'épuration des rejets
-doivent en tout état de cause être assurés au plus tard au 31 décembre 2020.
+II.-Pour l'application de l'article L. 2221-1, à la fin du deuxième alinéa, sont
+ajoutés les mots : " conclus selon la réglementation applicable localement ".
+
+III.-Pour l'application de l'article L. 2221-5-1, après les mots : " sur un
+compte ouvert ", le membre de phrase est remplacé par les mots : " dans un des
+établissements de crédit dont la liste est fixée par décret ".
