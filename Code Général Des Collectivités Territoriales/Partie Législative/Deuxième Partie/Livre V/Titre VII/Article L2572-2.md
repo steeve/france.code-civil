@@ -1,7 +1,11 @@
 Article L2572-2
 ----
-I. - Les articles L. 2121-1, L. 2121-3 à L. 2121-31, L. 2121-33 et L. 2121-35 à
-L. 2121-39 sont applicables aux communes de Mayotte.
+Pour l'application des articles L. 2121-11, L. 2121-12, L. 2121-27, L. 2312-1,
+L. 2313-1 et L. 2313-2 aux communes de Mayotte, la référence aux communes de
+moins de 3 500 habitants ou de plus de 3 500 habitants est remplacée :
 
-II. - L'article L. 2121-2 est applicable à compter du renouvellement des
-conseils municipaux de 2007.
+1° Jusqu'au renouvellement des conseils municipaux de 2007, par la référence aux
+communes de moins ou de plus de 20 000 habitants ;
+
+2° Jusqu'au renouvellement des conseils municipaux de 2013, par la référence aux
+communes de moins ou de plus de 10 000 habitants.
