@@ -12,3 +12,8 @@ des dispositifs médicaux stériles ;
 de spécialités pharmaceutiques ;
 
 3° La division des produits officinaux.
+
+Les unités de dialyse à domicile et les unités d'autodialyse mentionnées à
+l'article R. 6123-54 ne peuvent détenir et dispenser que des médicaments,
+produits ou objets ainsi que des dispositifs médicaux stériles directement liés
+à la dialyse.
