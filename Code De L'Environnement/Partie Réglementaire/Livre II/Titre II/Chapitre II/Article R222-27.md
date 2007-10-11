@@ -12,3 +12,7 @@ d'ordre administratif, social et fiscal.
 Le rapport et les conclusions de l'enquête sont consultables dans les
 préfectures concernées pendant un an à compter de la date de clôture de
 l'enquête.
+
+En cas de prorogation de la durée de l'enquête, il n'est pas fait application
+des dispositions relatives à l'affichage prévues au deuxième alinéa de l'article
+R. 123-21 du présent code.

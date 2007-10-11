@@ -1,8 +1,9 @@
 Article R221-6
 ----
-Les organismes de surveillance de la qualité de l'air diffusent l'information en
-permanence et la mettent à jour au moins quotidiennement, et toutes les heures
-lorsque cela est possible.
+Les organismes de surveillance de la qualité de l'air diffusent l'information
+définie à l'article R. 221-5 en permanence et la mettent à jour de façon
+régulière.
 
-Les informations sur les concentrations en plomb et en benzène sont mises à jour
-tous les trois mois.
+Un arrêté du ministre chargé de l'environnement, pris après avis de l'Agence de
+l'environnement et de la maîtrise de l'énergie, précise les modalités de
+diffusion et de mise à jour de cette information.

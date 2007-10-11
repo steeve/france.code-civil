@@ -10,9 +10,8 @@ particulièrement sensibles en cas d'exposition de courte durée.
 
 Tableau de l'article R. 221-1
 
-Objectifs de qualité, seuils d'alerte, seuils de recommandation
-
-et d'information et valeurs limites
+Polluants, objectifs de qualité, seuils d'alerte, seuils de recommandation et
+d'information et valeurs limites
 
 1. Polluant visé : dioxyde d'azote :
 
@@ -48,13 +47,91 @@ valeur limite est applicable à compter du 1er janvier 2010. Avant cette date, l
 valeur limite applicable est la valeur de 2010 augmentée des marges de
 dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Marge de dépassement (en µg/m 3 )
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
 
 40 micro g/m3 en moyenne annuelle. Cette valeur est applicable à compter du 1er
 janvier 2010. Avant cette date, la valeur limite applicable est la valeur de
 2010 augmentée des marges de dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Marge de dépassement (en µg/m 3 )
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
 
 Valeur limite pour la protection de la végétation : 30 micro g/m3 en moyenne
 annuelle d'oxydes d'azote.
@@ -88,13 +165,51 @@ g/m3. Cette valeur est applicable à compter du 1er janvier 2005. Avant cette
 date, la valeur limite applicable est la valeur de 2005 augmentée des marges de
 dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE
+
+2001
+
+2002
+
+2003
+
+2004
+
+Marge de dépassement (en µg/m 3 ).
+
+20
+
+15
+
+10
+
+5
 
 Moyenne annuelle : 40 micro g/m3. Cette valeur est applicable à compter du 1er
 janvier 2005. Avant cette date, la valeur limite applicable est la valeur de
 2005 augmentée des marges de dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE
+
+2001
+
+2002
+
+2003
+
+2004
+
+Marge de dépassement (en µg/m 3 ).
+
+6
+
+4
+
+3
+
+1
 
 3. Polluant visé : plomb :
 
@@ -107,16 +222,6 @@ Valeur limite :
 - jusqu'au 31 décembre 2001 : 0,8 micro g/m3 en moyenne annuelle ;
 
 - à compter du 1er janvier 2002 : 0,5 micro g/m3 en moyenne annuelle.
-
-Le ministre chargé de l'environnement fixe par arrêté la liste des sites pour
-lesquels la valeur limite de 0,5 micro g/m3 en moyenne annuelle s'applique à
-compter du 1er janvier 2010.
-
-Avant le 1er janvier 2010 et à compter du 1er janvier 2002, la valeur limite
-applicable pour ces sites est la valeur de 2010 augmentée des marges de
-dépassement suivantes :
-
-(Tableau non reproduit, consulter le fac-similé)
 
 4. Polluant visé : dioxyde de soufre :
 
@@ -138,7 +243,26 @@ jours) des concentrations horaires : 350 micro g/m3. Cette valeur est applicable
 à compter du 1er janvier 2005. Avant cette date, la valeur limite applicable est
 la valeur de 2005 augmentée des marges de dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE CIVILE CONSIDÉRÉE
+
+2001
+
+2002
+
+2003
+
+2004
+
+Marge de dépassement (en µg/m 3 )
+
+120
+
+90
+
+60
+
+30
 
 - centile 99,2 (soit 3 jours de dépassement autorisés par année civile de 365
 jours) des concentrations moyennes journalières :
@@ -151,13 +275,29 @@ mars.
 
 5. Polluant visé : ozone :
 
+L'expression du volume doit être ramenée aux conditions de température et de
+pression suivantes : 293 K et 101,3 kPa.
+
 Objectifs de qualité :
 
-110 micro g/m3 en moyenne sur une plage de 8 heures pour la protection de la
-santé humaine ;
+Protection de la santé humaine : 120 micro g/m3 pour le maximum journalier de la
+moyenne sur 8 heures, calculé sur une année civile (a) ;
 
-200 micro g/m3 en moyenne horaire et 65 micro g/m3 en moyenne sur 24 heures pour
-la protection de la végétation.
+Protection de la végétation : 6 000 micro g/m3 par heure en AOT40 (b), calculée
+à partir des valeurs enregistrées sur 1 heure de mai à juillet.
+
+(a) Le maximum journalier de la moyenne sur 8 heures est sélectionné après
+examen des moyennes glissantes sur 8 heures, calculées à partir des données
+horaires et actualisées toutes les heures. Chaque moyenne sur 8 heures ainsi
+calculée est attribuée au jour où elle s'achève : la première période considérée
+pour le calcul sur un jour donné sera la période comprise entre 17 heures la
+veille et 1 heure le jour même et la dernière période considérée pour un jour
+donné sera la période comprise entre 16 heures et minuit le même jour.
+
+(b) L'"AOT40", exprimé en micro g/m3 par heure, est égal à la somme des
+différences entre les concentrations horaires supérieures à 80 micro g/m3 (soit
+40 ppb) et 80 micro g/m3 en utilisant uniquement les valeurs sur une heure
+mesurées quotidiennement entre 8 heures et 20 heures, durant une période donnée.
 
 Seuil de recommandation et d'information : 180 micro g/m3 en moyenne horaire.
 
@@ -173,10 +313,18 @@ consécutives ;
 
 6. Polluant visé : monoxyde de carbone :
 
+L'expression du volume doit être ramenée aux conditions de température et de
+pression suivantes : 293 K et 101,3 kPa.
+
 Valeur limite pour la protection de la santé humaine : 10 mg/m3 pour le maximum
 journalier de la moyenne glissante sur 8 heures.
 
 7. Polluant visé : benzène :
+
+L'expression du volume doit être ramenée aux conditions de température et de
+pression suivantes : 293 K et 101,3 kPa.
+
+La période annuelle de référence est l'année civile.
 
 Objectif de qualité : 2 micro g/m3 en moyenne annuelle.
 
@@ -186,7 +334,30 @@ annuelle, valable à compter du 1er janvier 2010.
 Avant cette date, la valeur limite applicable est la valeur de 2010 augmentée
 des marges de dépassement suivantes :
 
-(Tableau non reproduit, consulter le fac-similé)
+
+ANNÉE
+
+2001 A 2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Marge de dépassement (en µg/m 3 )
+
+5
+
+4
+
+3
+
+2
+
+1
 
 Définition et mode de calcul des centiles :
 
@@ -198,3 +369,17 @@ suivante :
 
 k = C/100 N, N étant le nombre de valeurs portées dans la liste ci-dessus. k est
 arrondi au nombre entier le plus proche.
+
+8. Polluants visés : métaux lourds et hydrocarbures aromatiques polycycliques.
+
+Le benzo(a)pyrène est utilisé comme traceur du risque cancérogène lié aux
+hydrocarbures aromatiques polycycliques dans l'air ambiant. Les hydrocarbures
+aromatiques polycycliques correspondent aux composés organiques formés d'au
+moins deux anneaux aromatiques fusionnés entièrement constitués de carbone et
+d'hydrogène.
+
+Les concentrations en arsenic, cadmium, nickel et benzo(a)pyrène correspondent à
+la teneur totale de ces éléments et composés dans la fraction "PM10". Cette
+fraction est constituée de particules qui passent dans un orifice d'entrée
+calibré tel que défini dans la norme NF EN 12341 avec un rendement de séparation
+de 50 % pour un diamètre aérodynamique de 10 microns m.
