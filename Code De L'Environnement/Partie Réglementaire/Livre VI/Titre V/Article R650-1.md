@@ -49,3 +49,15 @@ III. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes,
 d'officiers de port ou d'officiers de port adjoints, les pouvoirs qui leur sont
 dévolus par le présent code sont exercés par le représentant de l'Etat ou par
 l'un de ses délégués.
+
+IV. - Les dispositions des actes communautaires auxquelles il est fait référence
+dans le présent code sont applicables à Mayotte en tant qu'elles sont
+nécessaires à la mise en oeuvre dans la collectivité départementale des
+dispositions du présent code.
+
+V. - Pour l'application à Mayotte des dispositions prévoyant une transmission de
+pièces ou une communication d'informations à la Commission européenne ou aux
+Etats membres de l'Union européenne, ces pièces sont communiquées au ministre
+chargé de l'environnement lorsqu'il n'en est pas détenteur. Ce dernier décide,
+en accord avec le ministre chargé de l'outre-mer, s'il y a lieu de les adresser
+à la Commission européenne et aux Etats membres.
