@@ -14,9 +14,7 @@ l'occasion de leur activité d'exploitation aux dispositions de l'article L.
 a) Du premier alinéa de l'article L. 216-6 et des articles L. 216-8, L. 216-10
 et L. 514-9 à L. 514-12 ;
 
-b) De l'article 43 du décret n° 77-1133 du 21 septembre 1977 modifié pris pour
-l'application de la loi n° 76-663 du 19 juillet 1976 relative aux installations
-classées pour la protection de l'environnement ;
+b) De l'article R. 514-4 du code de l'environnement ;
 
 c) De l'article R. 216-10 ;
 

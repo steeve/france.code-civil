@@ -15,6 +15,5 @@ rendues immédiatement opposables en application de l'article L. 562-2 ;
 prévention des risques technologiques ou d'un plan de prévention des risques
 naturels prévisibles prescrit ;
 
-4° Dans une des zones de sismicité I a, I b, II ou III mentionnées à l'article 4
-du décret n° 91-461 du 14 mai 1991 modifié relatif à la prévention du risque
-sismique.
+4° Dans une des zones de sismicité I a, I b, II ou III mentionnées à l'article
+R563-4 du code de l'environnement.

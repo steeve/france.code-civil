@@ -1,6 +1,6 @@
 Article R125-10
 ----
-I.-Les dispositions de la présente sous-section sont applicables dans les
+I. - Les dispositions de la présente sous-section sont applicables dans les
 communes :
 
 1° Où existe un plan particulier d'intervention établi en application du titre
@@ -13,8 +13,8 @@ du titre VI du livre V ou un des documents valant plan de prévention des risque
 naturels en application de l'article L. 562-6 ou un plan de prévention des
 risques miniers établi en application de l'article 94 du code minier ;
 
-2° Situées dans les zones de sismicité I a, I b, II et III définies par le
-décret n° 91-461 du 14 mai 1991 relatif à la prévention du risque sismique ;
+2° Situées dans les zones de sismicité I a, I b, II et III définies à l'article
+R563-4 du code de l'environnement ;
 
 3° Particulièrement exposées à un risque d'éruption volcanique et figurant à ce
 titre sur une liste établie par décret ;
@@ -29,5 +29,5 @@ Réunion, en ce qui concerne le risque cyclonique ;
 6° Inscrites par le préfet sur la liste des communes visées par le III de
 l'article L. 563-6.
 
-II.-Elles sont également applicables dans les communes désignées par arrêté
+II. - Elles sont également applicables dans les communes désignées par arrêté
 préfectoral en raison de leur exposition à un risque majeur particulier.
