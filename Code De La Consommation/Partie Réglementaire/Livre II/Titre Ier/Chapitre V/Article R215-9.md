@@ -1,9 +1,9 @@
 Article R215-9
 ----
 Aussitôt après avoir scellé les échantillons, l'agent verbalisateur, s'il est en
-présence du propriétaire ou détenteur de la marchandise, doit le mettre en
-demeure de déclarer la valeur des échantillons prélevés. Le propriétaire ou le
-détenteur pourra justifier cette valeur à l'aide de ses documents comptables.
+présence du propriétaire ou détenteur de la marchandise, l'invite à déclarer la
+valeur des échantillons prélevés. Le propriétaire ou le détenteur pourra
+justifier cette valeur à l'aide de ses documents comptables.
 
 Le procès-verbal mentionne la valeur déclarée par le propriétaire ou le
 détenteur et, dans le cas où l'agent verbalisateur estime que cette valeur est
