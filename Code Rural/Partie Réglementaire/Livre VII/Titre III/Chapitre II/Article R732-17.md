@@ -12,8 +12,16 @@ valeur de cette exploitation ou l'activité de cette entreprise et, notamment,
 ceux qui concernent la tenue du ménage familial ne sont pas pris en
 considération pour l'application de la présente sous-section ;
 
-2° Remplir les conditions d'assujettissement à l'assurance dix mois au moins
-avant la date présumée de l'accouchement ou la date de l'adoption ;
+2° Justifier, à la date présumée de l'accouchement ou à la date de l'adoption,
+d'une durée de dix mois au moins d'affiliation au régime obligatoire d'assurance
+maladie, invalidité, maternité des personnes non salariées des professions
+agricoles.
+
+Lorsque l'intéressée est affiliée depuis moins de dix mois à ce régime et
+relevait précédemment à titre personnel d'un ou de plusieurs autres régimes, la
+période d'affiliation au régime antérieur est prise en compte pour
+l'appréciation de la durée d'affiliation prévue à l'alinéa précédent, sous
+réserve qu'il n'y ait pas eu d'interruption entre les deux affiliations ;
 
 3° Dans le cas d'accouchement, cesser tout travail sur l'exploitation ou dans
 l'entreprise agricole pendant deux semaines au moins dans une période commençant
