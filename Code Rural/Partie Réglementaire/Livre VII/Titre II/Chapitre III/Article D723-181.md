@@ -7,5 +7,4 @@ sous-section de l'encaissement des recettes et du paiement des dépenses de
 l'organisme. Il a seul qualité pour opérer tout maniement de fonds et valeurs.
 Il signe les titres de paiements, mandats et chèques.
 
-L'agent comptable est responsable de la conservation des fonds et valeurs. Il
-est également responsable de la sincérité des écritures.
+L'agent comptable est responsable de la conservation des fonds et valeurs.

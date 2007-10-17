@@ -20,6 +20,3 @@ oblige l'agent comptable à constater immédiatement l'existence d'un excédent 
 d'un manquant.
 
 Les excédents sont acquis à la caisse à l'expiration des délais de prescription.
-
-Les manquants sont ajustés par l'agent comptable dans les conditions définies à
-l'article D. 723-210.
