@@ -23,4 +23,4 @@ compétence d'une autorité compétente d'un autre Etat membre de la Communauté
 européenne ou partie à l'accord sur l'Espace économique européen, l'Autorité des
 marchés financiers transmet sans délai la déclaration à cette autorité, ainsi
 que les éventuels compléments d'information fournis par le déclarant à la
-demande de cette dernière, dans les conditions prévues à l'article L. 621-21.
+demande de cette dernière, dans les conditions prévues à l'article L. 632-16.

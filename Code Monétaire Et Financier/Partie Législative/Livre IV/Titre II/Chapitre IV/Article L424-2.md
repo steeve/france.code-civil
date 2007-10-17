@@ -13,7 +13,7 @@ ces règles ne sont pas compatibles avec les dispositions du présent chapitre.
 Le règlement général de l'Autorité des marchés financiers fixe les conditions
 dans lesquelles les règles du système sont publiées par la personne qui le gère.
 
-Les dispositions des articles L. 533-11 à L. 533-14, L. 533-20 et L. 533-22 ne
+Les dispositions des articles L. 533-11 à L. 533-16, L. 533-18 et L. 533-19 ne
 sont applicables, en liaison avec l'utilisation d'un système multilatéral de
 négociation, ni dans les relations entre membres du système, ni dans celles
 entre ces membres et la personne qui gère le système.

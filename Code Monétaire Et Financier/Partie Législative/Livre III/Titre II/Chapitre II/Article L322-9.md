@@ -12,13 +12,14 @@ leur souscripteur, après imputation, le cas échéant, des pertes subies par le
 fonds ;
 
 3. Le montant global des cotisations annuelles dues par les adhérents et la
-formule de répartition de ces cotisations annuelles dont l'assiette est
-constituée de la valeur des dépôts et des parts ou actions d'organismes de
-placement collectif qui sont couverts par la garantie en application de
-l'article L. 322-5 pondérée par les cotisations déjà versées ainsi que par des
-indicateurs de la situation financière de chacune des sociétés de gestion de
-portefeuilles concernées, reflétant les risques objectifs que l'adhérent fait
-courir au fonds ;
+formule de répartition des cotisations annuelles, qui comprennent une part fixe
+et une part variable. L'assiette de la part variable est constituée de la valeur
+des actifs gérés sous mandat ainsi que des parts ou actions d'organismes de
+placement collectif inscrites en compte sous forme nominative qui sont couverts
+par la garantie en application du premier alinéa de l'article L. 322-5. Elle est
+pondérée par les cotisations déjà versées ainsi que par des indicateurs de la
+situation financière de chacune des sociétés de gestion de portefeuille
+concernées ;
 
 4. Les conditions dans lesquelles une partie de ces contributions peut ne pas
 être versée au fonds de garantie moyennant la constitution de garanties

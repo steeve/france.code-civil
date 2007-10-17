@@ -14,7 +14,7 @@ membre ;
 2° Aux obligations financières résultant de tout contrat donnant lieu à un
 règlement en espèces ou à une livraison d'instruments financiers lorsque toutes
 les parties appartiennent à l'une des catégories de personnes mentionnées à
-l'alinéa précédent, à l'exception des personnes mentionnées aux alinéas c à i du
+l'alinéa précédent, à l'exception des personnes mentionnées aux alinéas c à n du
 2° de l'article L. 531-2 ;
 
 3° Aux obligations financières résultant de tout contrat conclu dans le cadre

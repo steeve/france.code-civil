@@ -1,6 +1,6 @@
 Article L440-8
 ----
-Les dispositions du second alinéa de l'article L. 442-6 s'appliquent également à
+Les dispositions du second alinéa de l'article L. 440-7 s'appliquent également à
 tout créancier d'un donneur d'ordre, à tout représentant d'un donneur d'ordre ou
 d'un adhérent à une chambre de compensation, ainsi qu'à tout mandataire
 judiciaire désigné dans le cadre du titre Ier ou du titre II du livre VI du code

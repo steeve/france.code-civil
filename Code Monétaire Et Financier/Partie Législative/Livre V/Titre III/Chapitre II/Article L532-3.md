@@ -15,7 +15,7 @@ structure de son organisation.
 
 L'établissement de crédit doit en outre avoir adhéré à un mécanisme de garantie
 des titres géré par le Fonds de garantie des dépôts conformément aux articles L.
-322-1 et L. 322-4.
+322-1 à L. 322-4.
 
 Le comité peut assortir l'agrément de conditions particulières visant à
 préserver l'équilibre de la structure financière de l'établissement. Le comité

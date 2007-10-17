@@ -5,7 +5,7 @@ d'un groupe mixte ou d'un conglomérat financier auquel appartiennent des
 établissements de crédit ou entreprises d'investissement ayant leur siège social
 dans un Etat membre de la Communauté européenne ou Etat partie à l'accord sur
 l'Espace économique européen ou dans un Etat où sont applicables les accords
-prévus à l'article L. 613-13 sont tenues, nonobstant toutes dispositions
+prévus à l'article L. 632-13 sont tenues, nonobstant toutes dispositions
 contraires, de transmettre à des entreprises du même groupe ayant leur siège
 social dans l'un de ces Etats :
 

@@ -32,7 +32,7 @@ L'entreprise de marché communique régulièrement la liste des membres du march
 réglementé à l'Autorité des marchés financiers.
 
 Le règlement général de l'Autorité des marchés financiers fixe les conditions
-d'application du présent article et précise notamment les délégations incombant
+d'application du présent article et précise notamment les obligations incombant
 aux membres du marché. Sans préjudice des compétences reconnues à la Banque de
 France par le II de l'article L. 141-4, le règlement général fixe les conditions
 dans lesquelles l'entreprise de marché peut restreindre le choix des systèmes de

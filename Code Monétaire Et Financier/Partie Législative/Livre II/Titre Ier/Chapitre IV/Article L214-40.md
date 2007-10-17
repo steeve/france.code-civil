@@ -2,7 +2,7 @@ Article L214-40
 ----
 Sont soumis aux dispositions du présent article les fonds dont plus du tiers de
 l'actif est composé de titres émis par l'entreprise ou par toute autre société
-qui lui est liée dans les conditions prévues à l'article L. 444-3 du code du
+qui lui est liée dans les conditions prévues à l'article L. 3344-1 du code du
 travail.
 
 Le règlement du fonds précise la composition et les modalités de désignation de
@@ -30,17 +30,18 @@ exercices, qu'il détient sur l'entreprise.
 
 Dans les entreprises qui disposent d'un comité d'entreprise, doivent être
 transmises au conseil de surveillance les informations communiquées à ce comité
-en application des articles L. 432-4 et L. 432-4-2 du code du travail, ainsi
-que, le cas échéant, copie du rapport de l'expert-comptable désigné en
-application de l'article L. 434-6 du même code.
+en application des articles L. 2323-7 à L. 2323-11 et L. 2323-46, L. 2323-51 et
+L. 2323-55 et L. 2325-35 à L. 2325-42 du code du travail, ainsi que, le cas
+échéant, copie du rapport de l'expert-comptable désigné en application des
+articles L. 2325-35 à L. 2325-42 du même code.
 
 Dans les entreprises qui n'ont pas mis en place de comité d'entreprise, le
 conseil de surveillance peut se faire assister d'un expert-comptable dans les
-conditions précisées à l'article L. 434-6 du code du travail ou convoquer les
-commissaires aux comptes de l'entreprise pour recevoir leurs explications sur
-les comptes de l'entreprise ; il peut également inviter le chef d'entreprise à
-expliquer les événements ayant eu une influence significative sur la
-valorisation des titres.
+conditions précisées aux articles L. 2325-35 à L. 2325-42 du code du travail ou
+convoquer les commissaires aux comptes de l'entreprise pour recevoir leurs
+explications sur les comptes de l'entreprise ; il peut également inviter le chef
+d'entreprise à expliquer les événements ayant eu une influence significative sur
+la valorisation des titres.
 
 Le conseil de surveillance décide de l'apport des titres aux offres d'achat ou
 d'échange. Le règlement du fonds précise les cas où le conseil doit recueillir
@@ -93,8 +94,8 @@ régissent, le cas échéant, la souscription de ces titres par les salariés et
 dans les conditions fixées par décret.
 
 Lorsque les titres émis par l'entreprise ou toute société qui lui est liée au
-sens du second alinéa de l'article L. 444-3 du code du travail ne sont pas admis
-aux négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 ou L.
-423-1 du présent code, le fonds commun de placement d'entreprise peut être
-partie à un pacte d'actionnaires afin de favoriser la transmission de
+sens du second alinéa de l'article L. 3344-1 et L. 3344-2 du code du travail ne
+sont pas admis aux négociations sur un marché mentionné aux articles L. 421-4,
+L. 422-1 ou L. 423-1 du présent code, le fonds commun de placement d'entreprise
+peut être partie à un pacte d'actionnaires afin de favoriser la transmission de
 l'entreprise, la stabilité de l'actionnariat ou la liquidité du fonds.
