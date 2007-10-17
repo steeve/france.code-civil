@@ -1,7 +1,6 @@
 Article L736-3
 ----
-A l'article L. 621-32, les mots : " conformément à la directive 2003 / 125 / CE
-de la Commission du 22 décembre 2003 portant modalités d'application de la
-directive 2003 / 6 / CE du Parlement européen et du Conseil en ce qui concerne
-la présentation équitable des recommandations d'investissement et la mention des
-conflits d'intérêts " sont supprimés.
+Le chapitre III du titre Ier du livre VI est applicable à Mayotte à l'exception
+des articles L. 613-31-1 à L. 613-31-10 et L. 613-33.
+
+L'article L. 641-2 s'y applique également.

@@ -1,10 +1,10 @@
 Article L756-5
 ----
-I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de
-l'article L. 621-8, les articles L. 621-8-1, L. 621-8-2, L. 621-9 à L. 621-20-1,
-l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à
-L. 621-35 ainsi que les articles L. 642-1 et L. 642-3 sont applicables en
-Polynésie française sous réserve des adaptations prévues au II.
+I. - Les articles L. 621-1 à L. 621-7-2, les I, II, III, IV, VII, VIII, IX de
+l'article L. 621-8, les articles L. 621-8-1, L. 621-8-2, L. 621-9, à l'exception
+de son dernier alinéa, L. 621-9-1 à L. 621-20-1, L. 621-22 à L. 621-35 ainsi que
+les articles L. 642-1 et L. 642-3 sont applicables en Polynésie française sous
+réserve des adaptations prévues au II.
 
 II. - 1° Pour l'application du I de l'article L. 621-8 :
 

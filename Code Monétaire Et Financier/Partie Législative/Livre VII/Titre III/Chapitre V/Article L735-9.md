@@ -1,7 +1,7 @@
-Article L745-9
+Article L735-9
 ----
-Le chapitre Ier du titre III du livre V est applicable en Nouvelle-Calédonie
-sous réserve des adaptations suivantes :
+Le chapitre Ier du titre III du livre V est applicable à Mayotte sous réserve
+des adaptations suivantes :
 
 a) A l'article L. 531-2, les mots : " mais sans pouvoir prétendre au bénéfice
 des dispositions des articles L. 532-16 à L. 532-27 " sont supprimés ;

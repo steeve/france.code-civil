@@ -1,8 +1,7 @@
-Article L745-10
+Article L735-10
 ----
 Le chapitre II du titre III du livre V, à l'exception des articles L. 532-16 à
-L. 532-27, est applicable en Nouvelle-Calédonie, sous réserve des adaptations
-suivantes :
+L. 532-27, est applicable à Mayotte, sous réserve des adaptations suivantes :
 
 a) Au dernier alinéa de l'article L. 532-1, les mots : " soit ont été agréés
 dans un autre Etat membre de la Communauté européenne, soit ne relèvent pas du

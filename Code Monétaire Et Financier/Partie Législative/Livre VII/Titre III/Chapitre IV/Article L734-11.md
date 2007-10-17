@@ -1,8 +1,8 @@
-Article L744-11
+Article L734-11
 ----
-I.-Le titre IV du livre IV est applicable en Nouvelle-Calédonie, à l'exception
-des deux derniers alinéas de l'article L. 440-2, sous réserve des adaptations
-prévues au II.
+I.-Le titre IV du livre IV est applicable à Mayotte, à l'exception des deux
+derniers alinéas de l'article L. 440-2, sous réserve des adaptations prévues au
+II.
 
 II.-L'article L. 440-2 est adapté comme suit :
 
@@ -22,4 +22,4 @@ en France " ;
 4° Au septième alinéa, les mots : " métropolitaine ou dans les départements
 d'outre-mer " sont supprimés.
 
-III.-L'article L. 464-1 est également applicable en Nouvelle-Calédonie.
+III.-L'article L. 464-1 est également applicable à Mayotte.
