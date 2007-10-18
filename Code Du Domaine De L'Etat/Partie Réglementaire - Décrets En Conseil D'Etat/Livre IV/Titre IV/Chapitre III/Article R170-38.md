@@ -22,6 +22,15 @@ exploité personnellement pendant une période d'au moins trois ans. L'avenant
 peut, en outre, fixer, en fonction de la demande présentée, de nouvelles
 conditions de mise en valeur agricole.
 
+Dans le cas des concessions foncières destinées à la culture sur abattis à
+caractère itinérant, la transmission de la concession peut être demandée par les
+collatéraux du concessionnaire dès lors que ceux-ci ont, antérieurement à cette
+transmission, participé à la mise en valeur de la surface concédée et que le
+conjoint ou les descendants ou les ascendants du concessionnaire ou leurs
+conjoints ne demandent pas cette transmission en application du deuxième alinéa.
+La durée de ces concessions n'est pas prorogée en cas de transmission quelle que
+soit la durée de concession restant à courir.
+
 II. - Les personnes morales concessionnaires doivent informer le préfet des
 modifications concernant les détenteurs et la répartition du capital social,
 ainsi que l'objet statutaire.

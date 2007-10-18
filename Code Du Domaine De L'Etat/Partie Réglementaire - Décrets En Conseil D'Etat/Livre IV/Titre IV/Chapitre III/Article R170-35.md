@@ -18,7 +18,10 @@ les personnes physiques associées mentionnées au deuxième alinéa de l'articl
 2° La situation exacte et la superficie du terrain demandé ;
 
 3° Le programme technique et économique de l'exploitation envisagée et les
-moyens auxquels le demandeur aura recours pour sa mise en oeuvre.
+moyens auxquels le demandeur aura recours pour sa mise en oeuvre. Pour les
+concessions foncières en vue de la pratique de l'agriculture sur abattis à
+caractère itinérant, le programme technique et économique intègre des mesures
+environnementales.
 
 La demande comporte l'engagement prévu au deuxième alinéa de l'article R.
 170-33. Elle est adressée au préfet, qui fait procéder à son instruction, sauf

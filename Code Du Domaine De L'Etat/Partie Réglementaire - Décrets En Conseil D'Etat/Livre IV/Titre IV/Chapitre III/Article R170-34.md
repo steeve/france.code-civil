@@ -1,8 +1,10 @@
 Article R170-34
 ----
 L'acte de concession fixe le lieu et la nature de l'exploitation, le programme
-de travaux, les conditions et délais de sa réalisation par tranches et les
-conditions d'occupation des immeubles bâtis et non bâtis.
+de travaux et, lorsqu'il s'agit d'une concession prévue au II de l'article R.
+170-32, la superficie minimale à exploiter, les conditions et délais de sa
+réalisation par tranches et les conditions d'occupation des immeubles bâtis et
+non bâtis.
 
 L'acte de concession est complété par un cahier des charges conforme à un modèle
 établi par arrêté conjoint des ministres chargés des départements d'outre-mer,

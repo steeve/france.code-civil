@@ -6,8 +6,8 @@ La concession est déclarée vacante dans les cas suivants :
 
 2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le
 décès ou le défaut d'exploitation n'est pas suivi d'une transmission du bénéfice
-de la concession dans les conditions prévues aux deuxième et troisième alinéas
-de l'article R. 170-38 ;
+de la concession dans les conditions prévues aux deuxième, troisième et
+quatrième alinéas de l'article R. 170-38 ;
 
 3° Dissolution ou cessation d'activité de la personne morale ;
 
