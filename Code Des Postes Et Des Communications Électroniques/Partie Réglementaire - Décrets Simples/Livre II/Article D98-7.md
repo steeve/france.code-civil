@@ -46,11 +46,28 @@ interceptions de correspondances émises par voie des communications
 moyens mis en oeuvre doivent permettre d'effectuer les interceptions à partir du
 territoire national.
 
-IV. - L'ensemble des dispositions spécifiques prises par l'opérateur à la
-demande de l'Etat au titre du III du présent article font l'objet d'une
-convention avec l'Etat qui garantit une juste rémunération de l'opérateur pour
-les études, l'ingénierie, la conception, le déploiement et l'exploitation des
-systèmes demandés.
+IV. - L'Etat garantit à l'opérateur une juste rémunération des dispositions
+prises par ce dernier au titre du III du présent article. La juste rémunération
+de l'opérateur correspond à la couverture :
+
+a) Des coûts exposés pour les études, l'ingénierie, la conception et le
+déploiement des systèmes demandés pour les interceptions de communications
+électroniques ;
+
+b) Des coûts liés à la maintenance et, le cas échéant, à la location des moyens
+permettant le fonctionnement des systèmes demandés pour les interceptions de
+communications électroniques ;
+
+c) Des coûts liés au traitement des demandes d'interception.
+
+Les choix opérés par l'opérateur au titre du a et du b font l'objet d'une
+validation par le ministre chargé des communications électroniques.
+
+La rémunération de l'opérateur au titre du a et du b est assurée dans le cadre
+d'une convention signée avec l'Etat.
+
+La rémunération de l'opérateur au titre du c est fixée par arrêté du ministre
+chargé des communications électroniques et du ministre chargé du budget.
 
 V. - Dans le cadre des missions judiciaires ou d'interventions de secours,
 l'opérateur permet aux services visés au dernier alinéa de l'article L. 35-5
