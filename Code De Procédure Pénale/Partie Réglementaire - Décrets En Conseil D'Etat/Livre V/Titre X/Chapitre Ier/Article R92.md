@@ -5,11 +5,12 @@ Les frais de justice criminelle, correctionnelle et de police sont :
 1° Les frais de translation des prévenus ou accusés, les frais de translation
 des condamnés pour se rendre au lieu où ils sont appelés en témoignage lorsque
 cette translation ne peut être effectuée par les voitures cellulaires du service
-pénitentiaire, les frais de transport des procédures et des pièces à conviction.
+pénitentiaire, les frais de transport des procédures et des pièces à conviction
+;
 
 2° Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de
 commission rogatoire et autres frais de procédure pénale en matière
-internationale.
+internationale ;
 
 3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après
 :
@@ -26,51 +27,51 @@ en application des dispositions du 5° de l'article 41-1 ;
 
 e) Délégués du procureur de la République chargés d'une des missions prévues par
 les 1°, 2°, 3°, 4° et 6° de l'article 41-1 ou intervenant au cours d'une
-composition pénale (1).
+composition pénale (1) ;
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par
 application des articles R. 123 à R. 146 et aux parties civiles par application
-des articles 375-1 et 422.
+des articles 375-1 et 422 ;
 
 5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les
-frais en matière de scellés.
+frais en matière de scellés ;
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou
-d'application des peines et en matière de grâces.
+d'application des peines et en matière de grâces ;
 
-7° Les émoluments et indemnités alloués aux huissiers de justice.
+7° Les émoluments et indemnités alloués aux huissiers de justice ;
 
-8° Les frais de capture.
+8° Les frais de capture ;
 
 9° Les dépenses diverses de reconstitution, d'exhumation ou de travaux
 techniques exposés pour l'instruction d'une affaire particulière et pour une
 enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de
-fonctionnement.
+fonctionnement ;
 
 10° Les indemnités allouées aux magistrats et greffiers au cas de transport pour
 exercer un acte de leur fonction dans les cas prévus par la section VII du
-chapitre II du présent titre.
+chapitre II du présent titre ;
 
 11° Les frais postaux et télégraphiques, le port des paquets pour une procédure
-pénale.
+pénale ;
 
 12° Les frais des procédures suivies en application des lois concernant
-l'enfance délinquante.
+l'enfance délinquante ;
 
 13° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les
-frais de révision et les secours aux individus relaxés ou acquittés.
+frais de révision et les secours aux individus relaxés ou acquittés ;
 
-14° Les indemnités accordées en application des articles 149 et 150.
+14° Les indemnités accordées en application des articles 149 et 150 ;
 
-15° Les frais exposés devant les commissions prévues par l'article 706-4.
+15° Les frais exposés devant les commissions prévues par l'article 706-4 ;
 
 16° Les frais de copie, droits, redevances et émoluments, dus aux greffiers des
 tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans
-le cadre d'une procédure pénale.
+le cadre d'une procédure pénale ;
 
 17° Les frais et dépens mis à la charge du Trésor public en cas de décision
 juridictionnelle rectifiant ou interprétant une précédente décision en matière
-pénale.
+pénale ;
 
 18° Les frais de recherche et de délivrance de reproductions de tous documents
 imprimés ;
@@ -92,4 +93,7 @@ R. 53-6 ;
 
 23° Les frais correspondant à la fourniture des données conservées en
 application du II de l'article L. 34-1 du code des postes et des communications
-électroniques.
+électroniques ;
+
+24° les coûts liés au traitement des demandes d'interception de communication
+électronique.
