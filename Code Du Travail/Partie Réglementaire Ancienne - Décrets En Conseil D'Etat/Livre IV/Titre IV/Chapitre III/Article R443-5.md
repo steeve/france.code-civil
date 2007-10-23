@@ -19,6 +19,6 @@ moins une fois par an aux intéressés avec l'indication de l'état de leur comp
 
 Les frais de tenue de compte-conservation des anciens salariés de l'entreprise
 et non pris en charge par l'entreprise peuvent être perçus par prélèvement sur
-les avoirs dans les conditions fixées par l'accord collectif instituant les
-plans mentionnés aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 ou, à défaut,
-par le règlement du fonds.
+les avoirs dans les conditions fixées par l'accord de participation ou par
+l'accord collectif instituant les plans mentionnés aux articles L. 443-1, L.
+443-1-1 et L. 443-1-2 ou, à défaut, par le règlement du fonds.

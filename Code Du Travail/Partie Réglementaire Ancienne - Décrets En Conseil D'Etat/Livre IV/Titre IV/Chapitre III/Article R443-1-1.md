@@ -2,7 +2,9 @@ Article R443-1-1
 ----
 Le plan d'épargne interentreprises institué en application de l'article L.
 443-1-1 peut recueillir les sommes issues de la participation prévue par les
-accords mentionnés à l'article L. 442-5 ou par l'accord qui institue le plan.
+accords mentionnés à l'article L. 442-5, par le régime de participation mis en
+place conformément au deuxième alinéa de l'article L. 442-15 ou par l'accord qui
+institue le plan.
 
 Lorsqu'il dispense les entreprises mentionnées à l'article L. 442-15 de conclure
 un accord prévu à l'article L. 442-5, l'accord instituant le plan d'épargne

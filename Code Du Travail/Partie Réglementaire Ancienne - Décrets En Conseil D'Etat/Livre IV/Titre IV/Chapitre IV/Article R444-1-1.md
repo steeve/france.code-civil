@@ -1,11 +1,12 @@
 Article R444-1-1
 ----
-Lorsque l'accord d'intéressement, de participation ou un plan d'épargne tel que
-défini aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 du code du travail est
-conclu autrement que dans le cadre d'une convention ou d'un accord collectif de
-travail, les documents qui doivent être déposés à la direction départementale du
-travail, de l'emploi et de la formation professionnelle comportent *formalités -
-contenu - mentions obligatoires* :
+Lorsque l'accord d'intéressement, de participation, un plan d'épargne salariale
+tel que défini aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 ou un accord de
+répartition d'actions gratuites tel que défini au dernier alinéa de l'article L.
+443-6 est conclu autrement que dans le cadre d'une convention ou d'un accord
+collectif de travail, les documents qui doivent être déposés à la direction
+départementale du travail, de l'emploi et de la formation professionnelle
+comportent :
 
 a) Si l'accord a été conclu entre le chef d'entreprise et les représentants
 d'organisations syndicales, la mention que ces représentants ont la qualité de
@@ -30,14 +31,24 @@ d'entreprise et une ou plusieurs organisations syndicales ou le comité
 d'entreprise, il doit en être fait mention dans les documents déposés.
 
 Au cas où le projet ratifié par les salariés ne fait pas mention d'une demande
-conjointe, doivent être déposés avec l'accord *documents joints* une attestation
-du chef d'entreprise selon laquelle il n'a été saisi d'aucune désignation de
-délégué syndical et, pour les entreprises assujetties à la législation sur les
-comités d'entreprise, un procès-verbal de carence datant de moins de deux ans.
+conjointe, doivent être déposés avec l'accord une attestation du chef
+d'entreprise selon laquelle il n'a été saisi d'aucune désignation de délégué
+syndical et, pour les entreprises assujetties à la législation sur les comités
+d'entreprise, un procès-verbal de carence datant de moins de deux ans.
 
 Si le plan d'épargne d'entreprise est mis en place à l'initiative de
 l'entreprise, le procès-verbal de consultation du comité d'entreprise ou, à
 défaut, des délégués du personnel doit être déposé avec le règlement du plan.
+
+Si le régime de participation est mis en place à l'initiative de l'entreprise,
+la décision précisant les modalités de cet assujettissement unilatéral est
+déposée avec le procès-verbal de la consultation du comité d'entreprise ou, à
+défaut, des délégués du personnel prévue au deuxième alinéa de l'article L.
+442-15.
+
+Le dépôt d'un des accords ou règlements mentionnés au premier alinéa, de leurs
+avenants et de leurs annexes, est opéré dans les conditions prévues à l'article
+R. 132-1.
 
 Dans l'hypothèse où un accord de branche d'intéressement ou de participation
 ouvre des choix aux parties signataires au niveau de l'entreprise, l'accord
@@ -56,15 +67,7 @@ commerce, la liste de ces entreprises dont le siège social est situé en France
 doit être annexée au texte de l'accord déposé. Il doit être fait mention, pour
 chaque entreprise liée, de l'adresse de son siège social, de ses effectifs, des
 dates de conclusion, d'effet et de dépôt de l'accord d'intéressement en vigueur
-dans l'entreprise. Pour les entreprises dont elle détient directement ou
-indirectement la majorité des droits de vote et qui ne sont pas couvertes par un
-accord d'intéressement, l'entreprise transmet dans un délai de quatre mois à
-compter de la conclusion de l'accord, copie des convocations adressées par ces
-entreprises aux parties en vue de négocier un accord d'intéressement. Pour les
-entreprises liées dont elle ne détient pas directement ou indirectement la
-majorité des droits de vote, l'entreprise transmet dans le même délai une copie
-de la demande adressée aux présidents ou gérants desdites entreprises d'engager
-une telle négociation.
+dans l'entreprise.
 
 Il est accusé sans délai réception de l'accord et des autres documents
 mentionnés au présent article.

@@ -1,22 +1,18 @@
 Article R443-15
 ----
-I - L'avoir fiscal et le crédit d'impôt attachés aux revenus de valeurs
-mobilières figurant dans le portefeuille collectif constitué en application d'un
-plan d'épargne d'entreprise donne lieu à la délivrance d'un certificat distinct
-d'avoir fiscal, conformément aux dispositions de l'article 8 quaterdecies, 3, de
-l'annexe II du Code général des impôts.
+Les faits en raison desquels, en application du deuxième alinéa de l'article L.
+443-3-1, les droits constitués au profit des participants peuvent être
+exceptionnellement débloqués avant l'expiration du terme de l'opération de
+rachat mentionné au 2° de cet article sont les suivants :
 
-II - Lorsque les salariés participant à un plan d'épargne d'entreprise
-réinvestissent immédiatement dans ce plan leur part des revenus du portefeuille
-collectif, le certificat d'avoir fiscal est établi [*formalité*] au nom de
-l'organisme chargé d'effectuer leur emploi et la restitution de l'avoir fiscal
-ou du crédit d'impôt mentionné sur ce certificat est demeurée émendée par cet
-organisme.
+1° Invalidité du salarié, appréciée au sens des 2° et 3° de l'article L. 341-4
+du code de la sécurité sociale ;
 
-III - La demande de restitution, accompagnée du certificat d'avoir fiscal est
-adressée au directeur des impôts (contributions directes) du siège de
-l'organisme qui l'a établi.
+2° Mise à la retraite du salarié ;
 
-La restitution est opérée au profit de cet organisme, à charge pour lui
-d'effectuer le remploi des sommes correspondantes dans le plan d'épargne
-d'entreprise.
+3° Décès du salarié.
+
+En cas de décès du salarié, il appartient à ses ayants droit de demander la
+liquidation de ses droits. Dans ce cas, les dispositions du 4 du III de
+l'article 150-0-A du code général des impôts cessent d'être applicables à
+l'expiration des délais fixés par l'article 641 du même code.

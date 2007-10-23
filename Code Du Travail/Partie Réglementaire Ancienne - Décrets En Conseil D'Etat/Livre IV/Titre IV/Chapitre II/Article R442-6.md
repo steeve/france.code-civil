@@ -19,16 +19,12 @@ Toutefois, lorsque le salarié n'a pas accompli une année entière dans la mêm
 entreprise, les plafonds prévus aux deux alinéas précédents sont calculés au
 prorata de la durée de présence.
 
-Les sommes qui, en raison des règles définies par le présent article, n'auraient
-pu être mises en distribution demeurent dans la réserve spéciale de
-participation des salariés pour être réparties au cours des exercices
-ultérieurs. Elles ne peuvent ouvrir droit au bénéfice des dispositions des
-articles L. 442-8 et 32 de l'ordonnance du 21 octobre 1986 qu'au titre des
+Les sommes qui, en raison des règles définies par l'article L. 442-4 et par le
+présent article, n'auraient pu être mises en distribution demeurent dans la
+réserve spéciale de participation des salariés pour être réparties au cours des
+exercices ultérieurs. Elles ne peuvent ouvrir droit au bénéfice des dispositions
+des articles L. 442-8 et 32 de l'ordonnance du 21 octobre 1986 qu'au titre des
 exercices au cours desquels elles sont réparties.
-
-L'accord peut cependant prévoir que ces sommes seront immédiatement réparties
-entre les salariés n'atteignant pas le plafond individuel mentionné au deuxième
-alinéa.
 
 Les plafonds mentionnés ci-dessus s'appliquent à la totalité de la participation
 attribuée à chaque salarié.

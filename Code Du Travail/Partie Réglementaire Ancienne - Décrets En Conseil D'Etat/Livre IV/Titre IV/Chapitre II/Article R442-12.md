@@ -34,7 +34,7 @@ En l'absence de stipulation des accords, les revenus des droits de créance des
 salariés doivent être versés annuellement aux bénéficiaires.
 
 Lorsque les intérêts afférents aux sommes placées dans les conditions prévues au
-3 de l'article L. 442-5 sont réinvestis, ils sont capitalisés annuellement.
+2° de l'article L. 442-5 sont réinvestis, ils sont capitalisés annuellement.
 
 Les sommes attribuées au titre de la participation et affectées à un fonds
 d'investissement de l'entreprise sont rémunérées pour tous les salariés à un

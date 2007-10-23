@@ -1,6 +1,6 @@
 Article R442-10
 ----
-Lorsque, en application du 4° de l'article L. 442-5, les parties ont choisi
+Lorsque, en application du 1° de l'article L. 442-5, les parties ont choisi
 d'utiliser la réserve spéciale de participation à l'acquisition de titres émis
 par des sociétés d'investissement à capital variable ou à l'acquisition de parts
 de fonds communs de placement, les entreprises doivent effectuer les versements
