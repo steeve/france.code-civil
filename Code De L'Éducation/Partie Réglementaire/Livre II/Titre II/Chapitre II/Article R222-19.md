@@ -4,6 +4,8 @@ Sous l'autorité du recteur, le secrétaire général d'académie est chargé de
 l'administration de l'académie. En cas d'absence ou d'empêchement, il supplée le
 recteur.
 
-L'académie de Paris comprend deux emplois de secrétaire général. Les
-fonctionnaires nommés dans ces deux emplois exercent leurs fonctions dans les
-conditions fixées par les articles R. 222-17 et R. 222-18.
+En cas de vacance momentanée du poste de recteur, le secrétaire général
+d'académie assure l'intérim. Toutefois, l'intérim du recteur de l'académie de
+Paris est assuré par le vice-chancelier des universités de Paris pour les
+questions mentionnées à l'article R.* 222-17 et par le directeur de l'académie
+de Paris pour les questions mentionnées à l'article R.* 222-18.
