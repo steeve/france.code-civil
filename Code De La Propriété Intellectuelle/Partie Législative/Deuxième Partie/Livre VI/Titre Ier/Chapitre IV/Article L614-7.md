@@ -1,8 +1,10 @@
 Article L614-7
 ----
-Lorsque le texte, dans lequel l'Office européen des brevets créé par la
-Convention de Munich délivre un brevet européen ou maintient un tel brevet sous
-une forme modifiée, n'est pas rédigé en français, le titulaire du brevet doit
-fournir à l'Institut national de la propriété industrielle une traduction de ce
-texte dans les conditions et délai déterminés par décret en Conseil d'Etat.
-Faute de satisfaire à cette obligation, le brevet est sans effet.
+Le texte de la demande de brevet européen ou du brevet européen rédigé dans la
+langue de procédure devant l'Office européen des brevets créé par la convention
+de Munich est le texte qui fait foi.
+
+En cas de litige relatif à un brevet européen dont le texte n'est pas rédigé en
+français, le titulaire du brevet fournit, à ses frais, à la demande du présumé
+contrefacteur ou à la demande de la juridiction compétente, une traduction
+complète du brevet en français.

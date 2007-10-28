@@ -2,12 +2,11 @@ Article 428
 ----
 1. Est réputée importation ou exportation sans déclaration de marchandises
 prohibées toute infraction aux dispositions, soit législatives, soit
-réglementaires portant prohibition d'importation sous tous régimes douaniers,
-d'exportation ou de réexportation ou bien subordonnant l'exportation ou la
-réexportation au paiement de droits, de taxes ou à l'accomplissement de
-formalités particulières lorsque la fraude a été faite ou tentée par les bureaux
-et qu'elle n'est pas spécialement réprimée par une autre disposition du présent
-code.
+réglementaires portant prohibition d'importation, d'exportation ou de
+réexportation ou bien subordonnant l'exportation ou la réexportation au paiement
+de droits, de taxes ou à l'accomplissement de formalités particulières lorsque
+la fraude a été faite ou tentée par les bureaux et qu'elle n'est pas
+spécialement réprimée par une autre disposition du présent code.
 
 2. Dans le cas où les marchandises ayant été exportées par dérogation à une
 prohibition de sortie, à destination d'un pays déterminé, sont, après arrivée

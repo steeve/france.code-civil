@@ -16,7 +16,10 @@ lésionnelle ;
 
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois
 et règlements en vigueur et de présenter un danger pour la santé ou la sécurité
-des consommateurs.
+des consommateurs ;
+
+4° Les produits susceptibles d'être présentés sous une marque, une marque
+collective ou une marque collective de certification contrefaisantes.
 
 Les produits, objets ou appareils consignés seront laissés à la garde de leur
 détenteur.

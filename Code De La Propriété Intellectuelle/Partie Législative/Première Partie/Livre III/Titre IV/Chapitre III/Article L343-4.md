@@ -1,8 +1,6 @@
 Article L343-4
 ----
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve
-de la matérialité des infractions définies au présent chapitre peut résulter des
-constatations d'agents assermentés désignés par les organismes professionnels de
-producteurs. Ces agents sont agréés par le ministre chargé de la culture dans
-les mêmes conditions que celles prévues pour les agents visés à l'article L.
-331-2.
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de
+porter atteinte aux droits du producteur d'une base de données tels que définis
+à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les
+peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.

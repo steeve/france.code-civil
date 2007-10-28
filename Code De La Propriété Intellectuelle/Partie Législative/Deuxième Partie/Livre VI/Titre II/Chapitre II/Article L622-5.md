@@ -17,3 +17,6 @@ distincte pouvant prétendre à la protection du présent chapitre.
 L'interdiction ci-dessus n'est pas opposable à l'acquéreur de bonne foi d'un
 produit semi-conducteur. Celui-ci est cependant redevable d'une juste indemnité
 s'il entend poursuivre l'exploitation commerciale du produit ainsi acquis.
+
+Toute violation de l'interdiction prévue aux alinéas précédents constitue une
+contrefaçon engageant la responsabilité civile de son auteur.

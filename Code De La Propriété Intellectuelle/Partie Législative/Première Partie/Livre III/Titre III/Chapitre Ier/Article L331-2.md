@@ -7,6 +7,7 @@ relative aux droits d'auteur et aux droits des artistes interprètes, des
 producteurs de phonogrammes et de vidéogrammes et des entreprises de
 communication audiovisuelle peut résulter des constatations d'agents assermentés
 désignés selon les cas par le Centre national de la cinématographie, par les
-organismes professionnels d'auteurs et par les sociétés mentionnées au titre II
-du présent livre. Ces agents sont agréés par le ministre chargé de la culture
-dans les conditions prévues par un décret en Conseil d'Etat.
+organismes de défense professionnelle visés à l'article L. 331-1 et par les
+sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le
+ministre chargé de la culture dans les conditions prévues par un décret en
+Conseil d'Etat.

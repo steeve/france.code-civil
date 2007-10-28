@@ -17,7 +17,10 @@ les cas prévus aux articles L. 213-3 et L. 213-4 ;
 
 4° Les produits, objets ou appareils reconnus non conformes aux lois et
 règlements en vigueur et présentant un danger pour la santé ou la sécurité des
-consommateurs.
+consommateurs ;
+
+5° Les produits présentés sous une marque, une marque collective ou une marque
+collective de certification contrefaisantes ;
 
 Les saisies peuvent être faites à la suite de constatations opérées sur place ou
 de l'analyse ou de l'essai d'un échantillon en laboratoire.

@@ -1,11 +1,12 @@
 Article L615-7
 ----
-Sur la demande de la partie lésée, et autant que la mesure s'avère nécessaire
-pour assurer l'interdiction de continuer la contrefaçon, les juges pourront
-ordonner la confiscation, au profit du demandeur, des objets reconnus
-contrefaits, qui sont la propriété du contrefacteur à la date de l'entrée en
-vigueur de l'interdiction, et, le cas échéant, celles des dispositifs ou moyens
-spécialement destinés à la réalisation de la contrefaçon.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les
+conséquences économiques négatives, dont le manque à gagner, subies par la
+partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral
+causé au titulaire des droits du fait de l'atteinte.
 
-Il sera tenu compte de la valeur des objets confisqués dans le calcul de
-l'indemnité allouée au bénéficiaire de la condamnation.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la
+partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui
+ne peut être inférieure au montant des redevances ou droits qui auraient été dus
+si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a
+porté atteinte.

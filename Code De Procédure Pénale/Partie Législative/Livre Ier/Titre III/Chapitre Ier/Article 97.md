@@ -42,9 +42,9 @@ la sauvegarde des droits des parties, il peut autoriser le greffier à en faire
 le dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
 
 Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés
-en euros contrefaits, le juge d'instruction ou l'officier de police judiciaire
-par lui commis doit transmettre, pour analyse et identification, au moins un
-exemplaire de chaque type de billets ou pièces suspectés faux au centre
+en euros contrefaisants, le juge d'instruction ou l'officier de police
+judiciaire par lui commis doit transmettre, pour analyse et identification, au
+moins un exemplaire de chaque type de billets ou pièces suspectés faux au centre
 d'analyse national habilité à cette fin. Le centre d'analyse national peut
 procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui
 doit mentionner toute ouverture ou réouverture des scellés. Lorsque les

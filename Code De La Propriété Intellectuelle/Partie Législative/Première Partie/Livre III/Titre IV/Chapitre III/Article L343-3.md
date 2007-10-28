@@ -1,10 +1,8 @@
 Article L343-3
 ----
-En cas de récidive des infractions définies à l'article L. 343-1 ou si le
-délinquant est ou a été lié à la partie lésée par convention, les peines
-encourues sont portées au double.
-
-Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas
-cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce,
-les chambres de commerce et d'industrie et les chambres de métiers, ainsi que
-pour les conseils de prud'hommes.
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve
+de la matérialité des infractions définies au présent chapitre peut résulter des
+constatations d'agents assermentés désignés par les organismes professionnels de
+producteurs. Ces agents sont agréés par le ministre chargé de la culture dans
+les mêmes conditions que celles prévues pour les agents visés à l'article L.
+331-2.

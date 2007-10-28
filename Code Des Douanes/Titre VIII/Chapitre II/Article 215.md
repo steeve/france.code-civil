@@ -1,17 +1,17 @@
 Article 215
 ----
 1. Ceux qui détiennent ou transportent des marchandises dangereuses pour la
-santé, la sécurité ou la moralité publiques, des marchandises contrefaites, des
-marchandises prohibées au titre d'engagements internationaux ou des marchandises
-faisant l'objet d'un courant de fraude internationale et d'un marché clandestin
-préjudiciant aux intérêts légitimes du commerce régulier et à ceux du Trésor,
-spécialement désignées par arrêtés du ministre de l'économie et des finances
-doivent, à première réquisition des agents des douanes, produire soit des
-quittances attestant que ces marchandises ont été régulièrement importées dans
-le territoire douanier de la Communauté européenne, soit des factures d'achat,
-bordereaux de fabrication ou toutes autres justifications d'origine émanant de
-personnes ou sociétés régulièrement établies à l'intérieur du territoire
-douanier de la Communauté européenne.
+santé, la sécurité ou la moralité publiques, des marchandises contrefaisantes,
+des marchandises prohibées au titre d'engagements internationaux ou des
+marchandises faisant l'objet d'un courant de fraude internationale et d'un
+marché clandestin préjudiciant aux intérêts légitimes du commerce régulier et à
+ceux du Trésor, spécialement désignées par arrêtés du ministre de l'économie et
+des finances doivent, à première réquisition des agents des douanes, produire
+soit des quittances attestant que ces marchandises ont été régulièrement
+importées dans le territoire douanier de la Communauté européenne, soit des
+factures d'achat, bordereaux de fabrication ou toutes autres justifications
+d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
+du territoire douanier de la Communauté européenne.
 
 Le ministre du budget adresse en fin d'année au Parlement un rapport sur les
 modifications apportées dans l'année en cours aux arrêtés visés au 1.

@@ -3,7 +3,7 @@ Article L613-25
 Le brevet est déclaré nul par décision de justice :
 
 a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L.
-611-11 et L. 611-13 à L. 611-17 ;
+611-11 et L. 611-13 à L. 611-19 ;
 
 b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour
 qu'un homme du métier puisse l'exécuter ;

@@ -3,11 +3,11 @@ Article L716-10
 Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour
 toute personne :
 
-a) De détenir sans motif légitime, d'importer sous tous régimes douaniers ou
-d'exporter des marchandises présentées sous une marque contrefaite ;
+a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises
+présentées sous une marque contrefaisante ;
 
 b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque
-contrefaite ;
+contrefaisante ;
 
 c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une
 marque, une marque collective ou une marque collective de certification en

@@ -1,25 +1,25 @@
 Article L615-5
 ----
-Le propriétaire d'une demande de brevet ou le propriétaire d'une demande de
-certificat d'utilité, ou le propriétaire d'un brevet ou d'un certificat
-d'utilité, a la possibilité de faire la preuve par tous moyens de la contrefaçon
-dont il se prétend victime.
+La contrefaçon peut être prouvée par tous moyens.
 
-Il est par ailleurs en droit de faire procéder, sur ordonnance du président du
-tribunal de grande instance du lieu de la contrefaçon présumée, par tous
-huissiers assistés d'experts de son choix, à la description détaillée, avec ou
-sans saisie réelle, des produits ou procédés prétendus contrefaits. L'ordonnance
-est exécutoire par provision. Elle peut être subordonnée à une consignation par
-le requérant. Dans la même ordonnance, le président du tribunal peut autoriser
-l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la
-consistance et l'étendue de la contrefaçon.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit
+de faire procéder en tout lieu et par tous huissiers, assistés d'experts
+désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans
+prélèvement d'échantillons, soit à la saisie réelle des produits ou procédés
+prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-Le même droit est ouvert au concessionnaire d'un droit exclusif d'exploitation
-sous la condition prévue au deuxième alinéa de l'article L. 615-2, ainsi que
-sous la condition prévue au quatrième alinéa de l'article L. 615-2, au titulaire
-d'une licence de droit, d'une licence obligatoire ou d'une licence d'office
-visées aux articles L. 613-10, L. 613-11, L. 613-15, L. 613-17 et L. 613-19.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des
+matériels et instruments utilisés pour fabriquer ou distribuer les produits ou
+pour mettre en oeuvre les procédés prétendus contrefaisants.
 
-A défaut par le requérant de s'être pourvu devant le tribunal dans le délai de
-quinze jours, la saisie sera nulle de plein droit, sans préjudice d'éventuels
-dommages-intérêts.
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du
+défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la
+saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou
+pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y
+compris la description, est annulée à la demande du saisi, sans que celui-ci ait
+à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être
+réclamés.

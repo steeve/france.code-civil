@@ -26,10 +26,13 @@ usage humain visés à l'article L. 5124-13 du code de la santé publique, aux
 micro-organismes et aux toxines mentionnés à l'article L. 5139-1 du code de la
 santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L.
 5142-7 du code de la santé publique, aux marchandises présentées sous une marque
-contrefaite, ainsi qu'aux produits sanguins labiles et aux pâtes plasmatiques
-mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux organes,
-tissus et leurs dérivés, cellules, gamètes issus du corps humain ainsi qu'aux
-préparations de thérapie cellulaire mentionnés aux articles L. 1235-1, L.
+contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article
+L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19
+du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les dessins ou
+modèles communautaires, ainsi qu'aux produits sanguins labiles et aux pâtes
+plasmatiques mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux
+organes, tissus et leurs dérivés, cellules, gamètes issus du corps humain ainsi
+qu'aux préparations de thérapie cellulaire mentionnés aux articles L. 1235-1, L.
 1243-1, L. 1244-8 et L. 1245-5 dudit code, aux tissus ou cellules embryonnaires
 ou foetaux mentionnés à l'article L. 2151-6 du même code, aux sources
 artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du

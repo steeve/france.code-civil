@@ -1,6 +1,22 @@
 Article L716-8-1
 ----
-Les officiers de police judiciaire peuvent procéder, dès la constatation des
-infractions prévues aux articles L. 716-9 et L. 716-10, à la saisie des produits
-fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et
-des matériels spécialement installés en vue de tels agissements.
+En l'absence de demande écrite du propriétaire d'une marque enregistrée ou du
+bénéficiaire d'un droit exclusif d'exploitation et en dehors des cas prévus par
+la réglementation communautaire en vigueur, l'administration des douanes peut,
+dans le cadre de ses contrôles, retenir une marchandise susceptible de porter
+atteinte à une marque enregistrée ou à un droit exclusif d'exploitation.
+
+Cette retenue est immédiatement notifiée au propriétaire de la marque
+enregistrée ou au bénéficiaire du droit exclusif d'exploitation. Le procureur de
+la République est également informé de ladite mesure.
+
+Lors de la notification visée au deuxième alinéa, la nature et la quantité
+réelle ou estimée des marchandises est communiquée au propriétaire de la marque
+enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation
+à l'article 59 bis du code des douanes.
+
+La mesure de retenue est levée de plein droit si le propriétaire de la marque
+enregistrée ou le bénéficiaire du droit exclusif d'exploitation n'a pas déposé
+la demande prévue par l'article L. 716-8 du présent code dans un délai de trois
+jours ouvrables à compter de la notification de la retenue visée au deuxième
+alinéa du présent article.

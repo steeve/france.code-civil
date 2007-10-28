@@ -42,5 +42,5 @@ la valeur.
 4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes
 fraudées ou indûment obtenues ni de la confiscation des marchandises dangereuses
 pour la santé ou la moralité et la sécurité publiques, des marchandises
-contrefaites, ainsi que de celles qui sont soumises à des restrictions
+contrefaisantes, ainsi que de celles qui sont soumises à des restrictions
 quantitatives.

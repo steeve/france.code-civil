@@ -1,7 +1,14 @@
 Article L716-13
 ----
-Le tribunal peut dans tous les cas ordonner, aux frais du condamné, l'affichage
-du jugement prononçant la condamnation dans les conditions et sous les peines
-prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou
-par extrait dans les journaux qu'il désigne, sans que les frais de cette
-publication puissent excéder le montant maximum de l'amende encourue.
+Les personnes physiques coupables de l'un des délits prévus aux articles L.
+716-9 et L. 716-10 peuvent être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi
+ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à
+la partie lésée des objets et choses retirés des circuits commerciaux ou
+confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou
+la diffusion du jugement prononçant la condamnation, dans les conditions prévues
+à l'article 131-35 du code pénal.

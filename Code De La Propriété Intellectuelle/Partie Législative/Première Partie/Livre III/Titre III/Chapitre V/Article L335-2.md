@@ -9,7 +9,7 @@ La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est pu
 de trois ans d'emprisonnement et de 300 000 euros d'amende.
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des
-ouvrages contrefaits.
+ouvrages contrefaisants.
 
 Lorsque les délits prévus par le présent article ont été commis en bande
 organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000

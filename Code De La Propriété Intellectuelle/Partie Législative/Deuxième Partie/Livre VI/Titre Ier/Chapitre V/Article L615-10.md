@@ -5,8 +5,8 @@ exploitée pour les besoins de la défense nationale par l'Etat ou ses
 fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une
 licence d'exploitation leur ait été octroyée, l'action civile est portée devant
 la chambre du conseil du tribunal de grande instance. Celui-ci ne peut ordonner
-ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue à
-l'article L. 615-7.
+ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue
+aux articles L. 615-3 et L. 615-7-1.
 
 Si une expertise ou une description avec ou sans saisie réelle telle que prévue
 à l'article L. 615-5 est ordonnée par le président du tribunal, l'officier

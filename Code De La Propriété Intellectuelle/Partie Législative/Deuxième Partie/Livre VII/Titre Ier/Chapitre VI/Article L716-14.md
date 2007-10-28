@@ -1,10 +1,12 @@
 Article L716-14
 ----
-En cas de condamnation pour infraction aux articles L. 716-9 et L. 716-10, le
-tribunal peut prononcer la confiscation des produits ainsi que celle des
-instruments ayant servi à commettre le délit.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les
+conséquences économiques négatives, dont le manque à gagner, subies par la
+partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral
+causé au titulaire des droits du fait de l'atteinte.
 
-Il peut ordonner que les produits confisqués soient remis au propriétaire de la
-marque contrefaite sans préjudice de tous dommages et intérêts.
-
-Il peut également prescrire leur destruction.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la
+partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui
+ne peut être inférieure au montant des redevances ou droits qui auraient été dus
+si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a
+porté atteinte.

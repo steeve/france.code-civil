@@ -1,19 +1,25 @@
 Article L716-7
 ----
-Le titulaire d'une demande d'enregistrement, le propriétaire d'une marque
-enregistrée ou le bénéficiaire d'un droit exclusif d'exploitation est en droit
-de faire procéder en tout lieu par tout huissier assisté d'experts de son choix,
-en vertu d'une ordonnance du président du tribunal de grande instance rendue sur
-requête, soit à la description détaillée avec ou sans prélèvement
-d'échantillons, soit à la saisie réelle des produits ou des services qu'il
-prétend marqués, offerts à la vente, livrés ou fournis à son préjudice en
-violation de ses droits.
+La contrefaçon peut être prouvée par tous moyens.
 
-La saisie réelle peut être subordonnée par le président du tribunal à la
-constitution de garanties par le demandeur destinées à assurer l'indemnisation
-éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est
-ultérieurement jugée non fondée.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit
+de faire procéder en tout lieu et par tous huissiers, assistés d'experts
+désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans
+prélèvement d'échantillons, soit à la saisie réelle des produits ou services
+prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-A défaut pour le requérant de s'être pourvu soit par la voie civile, soit par la
-voie correctionnelle dans le délai de quinzaine, la saisie est nulle de plein
-droit, sans préjudice des dommages-intérêts qui peuvent être réclamés.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des
+matériels et instruments utilisés pour fabriquer ou distribuer les produits ou
+fournir les services prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du
+défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la
+saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou
+pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y
+compris la description, est annulée à la demande du saisi, sans que celui-ci ait
+à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être
+réclamés.
