@@ -29,7 +29,7 @@ application de l'article L. 6141-2 est fixée comme suit :
 
 13° Hospices civils de Lyon ;
 
-14° Assistance publique de Marseille ;
+14° Assistance publique-hôpitaux de Marseille ;
 
 15° Centre hospitalier régional de Metz-Thionville ;
 

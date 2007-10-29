@@ -1,13 +1,23 @@
 Article R6147-52
 ----
-La dotation annuelle de financement de l'établissement public de santé
-territorial de Saint-Pierre-et-Miquelon mentionnée à l'article L. 174-1 du code
-de la sécurité sociale représente la part des dépenses obligatoirement prises en
-charge par les régimes d'assurance maladie.
+Outre les attributions consultatives qui peuvent lui être déléguées par la
+commission médicale d'établissement en application de l'article R. 6147-46, le
+comité consultatif médical est consulté par cette dernière sur :
 
-Elle est égale à la différence entre, d'une part, la totalité des charges
-d'exploitation inscrites au compte de résultat prévisionnel de l'activité
-principale, à l'exclusion de celles relatives aux annulations de titres de
-recettes sur exercices antérieurs pour changement de débiteurs, et, d'autre
-part, la totalité des recettes d'exploitation autres que la dotation annuelle de
-financement.
+1° L'organisation interne de l'hôpital ou du groupe hospitalier définie à
+l'article L. 6146-1 ;
+
+2° Les contrats d'exercice d'activité libérale mentionnés à l'article L. 6154-4
+;
+
+3° Les candidatures et la nature des missions des consultants mentionnées au
+dernier alinéa de l'article L. 6151-3.
+
+En outre, le comité consultatif médical peut être consulté sur toutes les
+questions relevant des attributions de la commission médicale d'établissement
+dans les conditions prévues à l'article R. 6144-38.
+
+Chaque comité consultatif médical est régulièrement tenu informé de la situation
+budgétaire et des effectifs prévisionnels et réels de l'hôpital ou du groupe
+hospitalier, notamment des créations, suppressions ou transformations d'emplois
+de praticiens hospitaliers.

@@ -1,7 +1,11 @@
 Article R6147-41
 ----
-Les documents annexés au budget concernent l'ensemble du centre. Y sont joints :
+Les Hospices civils de Lyon et l'Assistance publique-hôpitaux de Marseille sont
+des établissements publics de santé rattachés respectivement à la ville de Lyon
+et à la ville de Marseille.
 
-1° L'avis de la commission sociale d'établissement ;
+Ces deux établissements sont des centres hospitaliers universitaires constitués
+de plusieurs hôpitaux et groupes hospitaliers.
 
-2° Les statistiques d'activité des unités sociales.
+Les dispositions du chapitre II du présent livre et celles du présent titre leur
+sont applicables sous réserve des dispositions de la présente section.

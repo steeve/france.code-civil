@@ -1,9 +1,13 @@
 Article R6147-15
 ----
-La durée du mandat du président du conseil d'administration et des membres
-mentionnés aux 5°, 6°, 10°, 11° et 12° de l'article R. 6147-14 est fixée à trois
-ans.
+La commission médicale d'établissement comprend, outre les membres mentionnés à
+l'article R. 6144-8, cinq présidents de comités consultatifs médicaux, élus par
+l'ensemble des présidents de ces comités, dont un président de comité
+consultatif médical d'un hôpital ou d'un groupe hospitalier de soins de suite et
+de soins de longue durée.
 
-Le mandat des autres membres du conseil d'administration prend fin en même temps
-que le mandat ou les fonctions au titre desquels les intéressés ont été élus ou
-désignés.
+Le président de la commission médicale d'établissement est élu dans les
+conditions définies au deuxième alinéa de l'article R. 6144-19. Son
+vice-président est élu parmi les membres de la commission mentionnés aux 1° à 6°
+de l'article R. 6144-8 et les cinq présidents de comités consultatifs médicaux
+mentionnés au premier alinéa du présent article.

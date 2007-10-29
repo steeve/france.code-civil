@@ -1,47 +1,23 @@
 Article R6147-35
 ----
-Le conseil d'administration du centre est composé de vingt et un membres :
+I. - Le conseil d'administration peut désigner son ou ses représentants
+titulaires et suppléants aux commissions d'appel d'offres prévues au dernier
+alinéa du I de l'article 22 du code des marchés publics, soit en son sein ou
+soit parmi les membres des commissions de surveillance mentionnés au 2° du I de
+l'article R. 6147-25, soit parmi les personnalités qualifiées proposées par le
+directeur général.
 
-1° Le préfet de police de Paris, président ;
+II. - Il est institué une commission consultative des marchés dont la
+composition, le seuil de compétence et les règles de fonctionnement sont fixées
+par un arrêté des ministres chargés du budget, de la santé et de la sécurité
+sociale.
 
-2° Quatre membres élus en son sein par le conseil de Paris, dont un membre en
-qualité de vice-président ;
+Le président, le vice-président et les rapporteurs de la commission consultative
+des marchés bénéficient d'indemnités dans les mêmes conditions et selon les
+mêmes montants que celles allouées aux présidents, vice-présidents et
+rapporteurs des commissions spécialisées des marchés.
 
-3° Un membre élu en son sein par le conseil général des Hauts-de-Seine ;
-
-4° Un membre élu en son sein par le conseil municipal de Nanterre ;
-
-5° Quatre représentants des organismes de sécurité sociale :
-
-a) Un représentant désigné par le conseil d'administration de la caisse
-régionale d'assurance maladie d'Ile-de-France ;
-
-b) Un représentant de la caisse primaire d'assurance maladie de Paris ;
-
-c) Un représentant de la caisse primaire d'assurance maladie de Nanterre ;
-
-d) Un représentant de la caisse d'allocations familiales territorialement
-compétente ;
-
-6° Le président de la commission médicale d'établissement et deux membres de
-cette commission élus par celle-ci ;
-
-7° Deux membres de la commission sociale de l'établissement élus par celle-ci ;
-l'incompatibilité résultant de la qualité d'agent salarié de l'établissement
-n'est pas applicable dans ce cas ;
-
-8° Deux représentants du personnel titulaire en fonction dans l'établissement, à
-l'exception des médecins et pharmaciens, désignés sur proposition des
-organisations syndicales les plus représentatives au sein de l'établissement ;
-cette représentativité est appréciée compte tenu du nombre moyen de voix
-recueillies dans l'établissement par les organisations syndicales à l'occasion
-du renouvellement des commissions administratives paritaires ;
-
-9° Un membre désigné par le maire de Paris en raison de sa compétence dans le
-domaine sanitaire ou social ;
-
-10° Un membre désigné par le préfet de police de Paris en raison de sa
-compétence dans le domaine sanitaire ou social ;
-
-11° Un membre désigné par le préfet des Hauts-de-Seine en raison de sa
-compétence dans le domaine sanitaire ou social.
+III. - A l'exception de ceux passés selon la procédure adaptée et au-delà d'un
+seuil fixé par arrêté des ministres chargés du budget et de la santé, les
+marchés de l'Assistance publique-hôpitaux de Paris ne sont exécutoires qu'après
+visa du contrôleur financier.

@@ -11,13 +11,14 @@ conférence médicale d'établissement, ou, à défaut, un membre du personnel
 médical désigné par la commission ou la conférence ;
 
 2° Pour l'Assistance publique-hôpitaux de Paris, les hospices civils de Lyon et
-l'assistance publique de Marseille : outre les deux membres mentionnés au 1°,
-deux à huit membres supplémentaires désignés par le directeur de l'agence
-régionale de l'hospitalisation sur proposition conjointe du directeur et de la
-commission médicale de l'établissement. Toutefois, lorsque les établissements de
-santé dépendant de ces organismes sont situés hors de la région où se trouve le
-siège de ceux-ci, ils sont représentés à la conférence comme les établissements
-mentionnés au 1°.
+l'Assistance publique-hôpitaux de Marseille :
+
+outre les deux membres mentionnés au 1°, deux à huit membres supplémentaires
+désignés par le directeur de l'agence régionale de l'hospitalisation sur
+proposition conjointe du directeur et de la commission médicale de
+l'établissement. Toutefois, lorsque les établissements de santé dépendant de ces
+organismes sont situés hors de la région où se trouve le siège de ceux-ci, ils
+sont représentés à la conférence comme les établissements mentionnés au 1°.
 
 Cependant, lorsque plus de vingt établissements sont situés dans le ressort
 territorial de la conférence, le nombre des représentants des établissements de

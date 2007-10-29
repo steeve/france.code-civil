@@ -1,7 +1,8 @@
 Article R6147-17
 ----
-Peuvent assister ou se faire représenter aux séances du conseil
-d'administration, avec voix consultative, le directeur de l'administration
-pénitentiaire, le directeur de l'administration générale et de l'équipement au
-ministère de la justice, le directeur de l'hospitalisation et de l'organisation
-des soins et le directeur général de la santé.
+A l'Assistance publique-hôpitaux de Paris, le comité technique d'établissement
+institué par l'article L. 6144-3 est dénommé comité technique central
+d'établissement.
+
+Il est présidé par le directeur général ou son représentant, et constitué
+conformément aux dispositions des articles R. 6144-42 à R. 6144-67.

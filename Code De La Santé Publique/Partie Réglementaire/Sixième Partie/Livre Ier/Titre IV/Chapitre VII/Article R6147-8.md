@@ -1,10 +1,15 @@
 Article R6147-8
 ----
-Par dérogation à l'article L. 6112-2, ces établissements accueillent uniquement
-les malades et blessés détenus dans les établissements pénitentiaires qui leur
-sont adressés dans les conditions prévues par les dispositions du code de
-procédure pénale.
+Le président du conseil d'administration ou, en cas d'empêchement, son suppléant
+peut, par délégation du conseil d'administration, être chargé d'exercer au nom
+de celui-ci les compétences qu'il détient en ce qui concerne les modifications
+de l'état des prévisions de recettes et de dépenses mentionnées au 3° de
+l'article L. 6143-1.
 
-Par dérogation à l'article L. 6112-2, le transfert d'un malade dans un autre
-établissement ne peut être décidé que dans les conditions fixées par le code de
-procédure pénale.
+Les décisions prises en vertu du présent article sont signées par le président
+ou, en cas d'empêchement de celui-ci, par le président suppléant, qui doit en
+rendre compte au conseil d'administration lors de sa plus proche séance suivant
+chaque décision.
+
+Le conseil d'administration peut mettre fin à tout moment à cette délégation de
+compétence.

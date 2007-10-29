@@ -16,9 +16,9 @@ centres de soins, d'enseignement et de recherche dentaires des centres
 hospitaliers et universitaires, et, le cas échéant, des dispositions des décrets
 n° 72-360 portant statut des pharmaciens résidents de l'administration générale
 de l'Assistance publique-hôpitaux de Paris, de l'administration de l'Assistance
-publique à Marseille et des hospices civils de Lyon et n° 72-361 du 20 avril
-1972 relatif à la nomination et à l'avancement des pharmaciens résidents des
-établissements d'hospitalisation, de soins et de cure publics ;
+publique-hôpitaux de Marseille et des hospices civils de Lyon et n° 72-361 du 20
+avril 1972 relatif à la nomination et à l'avancement des pharmaciens résidents
+des établissements d'hospitalisation, de soins et de cure publics ;
 
 3° De sept représentants élus par et parmi les catégories de personnels
 mentionnés au 7° de l'article R. 6144-8 ;

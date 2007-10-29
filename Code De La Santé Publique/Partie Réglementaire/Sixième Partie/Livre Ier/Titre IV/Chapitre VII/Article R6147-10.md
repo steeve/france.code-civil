@@ -1,5 +1,5 @@
 Article R6147-10
 ----
-Par dérogation à l'article R. 6145-28, la tutelle des établissements
-exclusivement destinés à l'accueil des personnes incarcérées est exercée par le
-ministre de la justice et le ministre chargé de la santé.
+Le directeur général et le secrétaire général de l'Assistance publique-hôpitaux
+de Paris sont nommés par décret en conseil des ministres, sur proposition des
+ministres chargés de la santé et de la sécurité sociale.

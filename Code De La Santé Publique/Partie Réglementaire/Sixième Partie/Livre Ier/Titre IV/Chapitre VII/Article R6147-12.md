@@ -1,8 +1,9 @@
 Article R6147-12
 ----
-L'affectation et la nomination par le ministre de la justice, dans les
-établissements publics de santé nationaux exclusivement destinés à l'accueil des
-personnes incarcérées, des agents mentionnés au deuxième alinéa de l'article L.
-6141-5 se font dans les conditions prévues par le code de procédure pénale,
-chacun de ces établissements étant considéré comme un établissement
-pénitentiaire.
+Le conseil exécutif de l'Assistance publique-hôpitaux de Paris exerce, dans les
+conditions définies à l'article L. 6143-6-1, les attributions prévues au même
+article.
+
+Le directeur de l'unité de formation et de recherche médicale mentionné au
+troisième alinéa de cet article est élu par l'ensemble des directeurs des unités
+de formation et de recherche médicale des universités de Paris.

@@ -8,15 +8,15 @@ recrutés comme praticiens contractuels :
 1° Les praticiens régis par les décrets du 22 septembre 1965 relatif aux centres
 de soins, d'enseignement et de recherche dentaire, n° 72-360 du 20 avril 1972
 portant statut des pharmaciens résidents de l'administration générale de
-l'assistance publique à Paris, de l'administration de l'assistance publique à
-Marseille et des hospices civils de Lyon, n° 72-361 du 20 avril 1972 relatif à
-la nomination et à l'avancement des pharmaciens résidents des établissements
-d'hospitalisation, de soins et de cure publics, n° 84-135 du 24 février 1984
-portant statut des personnels enseignants et hospitaliers des centres
-hospitaliers et universitaires, n° 90-92 du 24 janvier 1990 portant statut des
-personnels enseignants et hospitaliers des centres de soins, d'enseignement et
-de recherche dentaires des centres hospitaliers et universitaires et par les
-dispositions des sections 1 et 3 ;
+l'assistance publique à Paris, de l'administration de l'Assistance
+publique-hôpitaux de Marseille et des hospices civils de Lyon, n° 72-361 du 20
+avril 1972 relatif à la nomination et à l'avancement des pharmaciens résidents
+des établissements d'hospitalisation, de soins et de cure publics, n° 84-135 du
+24 février 1984 portant statut des personnels enseignants et hospitaliers des
+centres hospitaliers et universitaires, n° 90-92 du 24 janvier 1990 portant
+statut des personnels enseignants et hospitaliers des centres de soins,
+d'enseignement et de recherche dentaires des centres hospitaliers et
+universitaires et par les dispositions des sections 1 et 3 ;
 
 2° Les praticiens attachés régis par les dispositions de la section 6 ;
 
