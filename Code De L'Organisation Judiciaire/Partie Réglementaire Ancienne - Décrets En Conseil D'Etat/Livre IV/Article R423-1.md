@@ -19,8 +19,7 @@ radiation".
 
 "Art. R. 513-2 :
 
-Les conditions pour être électeur s'apprécient à une date de l'année de
-l'élection générale fixée par décret".
+Les conditions pour être électeur s'apprécient à une date fixée par décret".
 
 "Art. R. 513-3 :
 
@@ -29,16 +28,20 @@ l'article L. 513-1 les périodes de suspension du contrat de travail".
 
 "Art. R. 513-4 :
 
-Nul ne peut être inscrit sur la liste électorale prud'homale à la fois en
-qualité d'employeur et en qualité de salarié".
+La délégation particulière d'autorité mentionnée au III de l'article L. 513-1,
+permettant aux cadres d'être inscrits dans le collège employeur, doit être
+écrite. Elle peut prendre la forme d'un document spécifique ou figurer dans le
+contrat de travail. A défaut de délégation, les cadres ne peuvent être inscrits
+que dans la section de l'encadrement du collège salarié".
 
 "Art. R. 513-5 :
 
-Sans préjudice des dispositions propres aux sections de l'encadrement et des
-activités diverses, la répartition par section des électeurs salariés qui sont
-employés dans une seule entreprise et des électeurs employeurs qui exercent une
-seule activité professionnelle s'effectue d'après l'activité principale des
-entreprises.
+Sous réserve des dispositions propres à la section de l'encadrement, aux
+employés de maison et aux salariés mentionnés aux 1°, 2°, 6°, 6° bis, 6° ter, 6°
+quater, 7° et 12° de l'article L. 722-20 du code rural, la répartition par
+section des électeurs salariés qui sont employés dans une seule entreprise et
+des électeurs employeurs qui exercent une seule activité professionnelle
+s'effectue d'après l'activité principale des entreprises.
 
 Lorsqu'une entreprise comprend plusieurs établissements, les salariés et les
 employeurs de chacun de ces établissements sont électeurs au titre de la section
@@ -46,57 +49,53 @@ correspondant à l'activité principale de cet établissement".
 
 "Art. R. 513-6 :
 
-Lorsqu'un employeur exerce des activités professionnelles multiples, la section
-au titre de laquelle il est électeur est déterminée par son activité principale.
-
-Lorsqu'un salarié exerce son activité professionnelle dans plusieurs
-entreprises, la section au titre de laquelle il est électeur est déterminée
-comme s'il n'était employé que dans l'entreprise où s'exerce son activité
+I. - Lorsqu'un employeur exerce des activités professionnelles multiples, la
+section au titre de laquelle il est électeur est déterminée par son activité
 principale.
 
 L'activité principale de l'employeur est celle de ses activités professionnelles
 au titre de laquelle il occupe le plus grand nombre de salariés.
 
-L'activité principale du salarié est celle dont il a tiré au cours du premier
-trimestre de l'année de l'élection la majeure partie des revenus que lui ont
-procurés au cours de la même période l'ensemble de ses activités salariées".
+II. - Lorsqu'un salarié exerce son activité professionnelle dans plusieurs
+établissements, la section au titre de laquelle il est électeur est déterminée
+comme s'il n'était employé que dans l'établissement où s'exerce son activité
+principale.
+
+L'activité principale du salarié est celle pour laquelle il a effectué le plus
+grand nombre d'heures au cours du dernier trimestre de l'année précédant l'année
+de l'élection.
+
+III. - Dans le cas prévu au second alinéa du VI de l'article L. 513-1,
+l'activité principale de l'électeur employant un salarié est son activité
+salariale s'il emploie un à trois salariés. Elle est choisie par l'électeur s'il
+emploie plus de trois salariés".
 
 "Art. R. 513-7 :
 
-Sous réserve des dispositions des articles R. 513-8 et R. 513-9, l'activité
-principale des entreprises et des établissements est présumée résulter du numéro
-de classement dans la nomenclature d'activités qui leur est attribuée dans le
-répertoire tenu par l'institut national de la statistique et des études
-économiques en application du décret n° 73-314 du 14 mars 1973 à la date fixée
-en application de l'article R. 513-2.
+L'activité principale des entreprises et des établissements est présumée
+résulter du numéro de classement dans la nomenclature d'activités qui leur est
+attribué dans le répertoire tenu par l'Institut national de la statistique et
+des études économiques, en application des articles R. 123-220 à R. 123-234 du
+code de commerce et dans le cadre du règlement (CEE) n° 3037/90 du Conseil du 9
+octobre 1990 relatif à la nomenclature statistique des activités économiques
+dans la Communauté européenne (NACE, révision 1), modifié en dernier lieu par le
+règlement (CE) n° 29/2002 de la Commission du 19 décembre 2001 (NACE, révision
+1.1), à la date fixée en application de l'article R. 513-2.
 
-Les entreprises et les établissements qui exercent à titre principal une des
-activités incluses dans le tableau joint en annexe I relèvent de la section de
-l'industrie ; ceux qui exercent à titre principal une des activités incluses
-dans le tableau joint en annexe II relèvent de la section du commerce et des
-services commerciaux".
+Le tableau joint en annexe détermine les activités relevant des sections de
+l'industrie, du commerce, des activités diverses et de l'agriculture.
 
 "Art. R. 513-8 :
 
-Relèvent de la section de l'agriculture les entreprises ou les établissements
-qui, au titre de leur activité principale, emploient un ou plusieurs salariés
-entrant dans les catégories prévues aux 1° à 7° et 9° de l'article 1144 du code
-rural.
-
-Relèvent également de ladite section, en qualité d'employeurs, les métayers qui
-occupent un ou plusieurs salariés".
+Sous réserve des dispositions du deuxième alinéa du IV de l'article L. 513-1,
+relèvent de la section de l'agriculture les salariés mentionnés aux 1°, 2°, 6°,
+6 bis, 6 ter, 6 quater, 7° et 12° de l'article L. 722-20 du code rural".
 
 "Art. R. 513-9 :
 
-Les salariés mentionnés au troisième alinéa de l'article L. 513-1 sont électeurs
-au titre de la section de l'encadrement sans que soit prise en considération
-l'activité de l'entreprise ou de l'établissement dont ils dépendent.
-
-La délégation particulière d'autorité, permettant aux cadres mentionnés au
-sixième alinéa de l'article L. 513-1 d'être inscrits dans le collège employeur,
-doit être écrite et peut prendre la forme d'un document spécifique ou figurer
-dans le contrat de travail. A défaut de délégation, les cadres ne peuvent être
-inscrits que dans la section de l'encadrement du collège salarié.
+Les salariés mentionnés au IV de l'article L. 513-1 sont électeurs au titre de
+la section de l'encadrement sans que soit prise en considération l'activité de
+l'entreprise ou de l'établissement dont ils dépendent.
 
 Les employeurs qui ne comptent dans leur personnel que des salariés relevant de
 la section de l'encadrement ne peuvent voter qu'au titre de cette section.
@@ -105,230 +104,140 @@ les employeurs dont un salarié au moins relève de ladite section".
 
 "Art. R. 513-10 :
 
-Sont électeurs au titre de la section des activités diverses les salariés
-mentionnés au septième alinéa de l'article L. 512-2 *les ouvriers et employés
-dont les employeurs n'exercent pas une activité industrielle, commerciale ou
-agricole, ainsi que les employés de maison, concierges et gardiens d'immeubles à
-usage d'habitation*.
-
-Sont électeurs au titre de la même section les employeurs qui ne relèvent pas
-des autres sections".
+Les employés de maison sont électeurs au titre de la section des activités
+diverses".
 
 "Art. R. 513-11 :
 
-I- En vue de l'établissement de la liste électorale, l'employeur déclare ses
-salariés sur papier ou sur support magnétique.
-
-Ces déclarations mentionnent les noms et prénoms, la date et le lieu de
-naissance, le domicile ainsi que le numéro d'inscription au Répertoire national
-d'identification des personnes physiques du salarié. Elles précisent pour chaque
-salarié le collège électoral, la section et la commune de vote.
-
-Elles sont réunies dans un état unique. L'employeur peut utiliser cet état pour
-s'inscrire dans la commune où il exerce son activité professionnelle principale.
-
-Le conjoint collaborateur, mentionné au cinquième alinéa de l'article L. 513-1,
-joint à sa déclaration le mandat qu'il a reçu afin de se substituer à son
-conjoint en vue de son inscription sur la liste électorale et attestant de son
-statut de conjoint collaborateur et de sa mention aux registres ou répertoire
-mentionnés audit article.
-
-Dans le cas où, par application du sixième alinéa de l'article L. 513-1 du code
-du travail, l'employeur a la faculté d'opter entre la section correspondant à
-son activité professionnelle principale et la section de l'encadrement, il
-indique celle des deux sections au titre de laquelle il entend être électeur.
-
-II. - L'employeur adresse les déclarations nominatives au plus tard à une date
-de l'année de l'élection générale fixée par décret à un centre de traitement
-déterminé par le ministre chargé du travail.
-
-Les déclarations nominatives sont remises ou transmises électroniquement au
-centre de traitement contre récépissé ou adressées par lettre recommandée avec
-demande d'avis de réception.
-
-III. - Le centre de traitement procède au traitement des déclarations et à leur
-envoi aux maires des communes définies à l'article L. 513-3 dans les conditions
-fixées par un arrêté pris en application de l'article 15 de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
-IV. - Quel que soit le support retenu par l'employeur, lorsque l'entreprise
-comprend plusieurs établissements, les listes sont dressées par établissement.
-Elles font mention de la section dont relève l'établissement".
+L'employeur précise, pour chaque salarié, dans la déclaration mentionnée au
+premier alinéa de l'article L. 513-3, les noms et prénoms, la date et le lieu de
+naissance, le domicile, le numéro d'inscription au répertoire national
+d'identification des personnes physiques ainsi que le collège, la section et la
+commune d'inscription".
 
 "Art. R. 513-12 :
 
-Préalablement à la transmission des déclarations [*nominatives*] mentionnées à
-l'article R. 513-11, l'employeur prend, après consultation des organisations
-syndicales de salariés représentatives dans l'entreprise, toute mesure utile en
-vue de faire connaître au personnel que ces déclarations sont ouvertes à la
-consultation dans les conditions fixées au sixième alinéa de l'article L. 513-3.
-Cette consultation ne peut avoir lieu pendant la période annuelle de fermeture
-de l'entreprise pour congés.
-
-Les déclarations peuvent être consultées dans leur intégralité.
-
-Dans les entreprises ou établissements occupant habituellement plus de dix
-salariés, le personnel est prévenu de l'ouverture de la période de consultation
-par voie d'affichage dans les lieux de travail.
-
-Les déclarations sont définitivement établies à l'expiration du délai de quinze
-jours pendant lequel elles sont tenues à la disposition du personnel".
+En application du troisième alinéa du I de l'article L. 513-3, l'employeur
+organise au sein de son établissement, l'année de l'élection, la consultation
+des données prud'homales afin que les personnes mentionnées à ce même article en
+vérifient l'exactitude".
 
 "Art. R. 513-13 :
 
-Dans les entreprises ou les établissements occupant habituellement plus de dix
-salariés, l'employeur dresse un procès-verbal des conditions dans lesquelles a
-été organisée la consultation prévue à l'article R. 513-12. Ce procès-verbal,
-qui mentionne la date à laquelle les déclarations ont été envoyées au centre de
-traitement, est affiché dans les lieux de travail".
+Les conjoints collaborateurs des personnes mentionnées au deuxième alinéa du III
+de l'article L. 513-1 à qui ceux-ci demandent de se substituer à eux en vue de
+l'inscription sur les listes électorales attestent avoir reçu mandat de
+celles-ci".
 
 "Art. R. 513-14 :
 
-Au terme de la consultation prévue à l'article R. 513-12, l'employeur adresse au
-maire les observations écrites concernant les salariés susceptibles de voter
-dans la commune dans laquelle l'établissement a son siège.
+Les personnes à la recherche d'un emploi, mentionnées au premier alinéa du I de
+l'article L. 513-1, sont inscrites dans la section, du collège des salariés,
+correspondant à leur dernière activité principale".
 
-Dans le cas où des observations écrites concernent des salariés susceptibles de
-voter dans la commune où est situé leur domicile, ces observations doivent être
-envoyées aux maires des communes concernées".
+"Art. R. 513-15 :
+
+Le centre de traitement procède au traitement de l'ensemble des données, dans
+les conditions fixées par les articles R. 513-15-1 à R. 513-15-5, et à leur
+envoi aux mairies des communes concernées".
 
 "Art. R. 513-16 :
 
 Au vu des documents préparatoires qui lui sont transmis par le centre de
-traitement et des observations mentionnées à l'article R. 513-14, le maire
-inscrit sur la liste électorale les salariés et les employeurs qui remplissent
-les conditions légales pour être électeurs et pour exercer leur droit de vote
-dans la commune.
+traitement et des observations mentionnées suite à la consultation prévue à
+l'article R. 513-12, le maire inscrit sur la liste électorale les salariés et
+les employeurs qui remplissent les conditions légales pour être électeurs et
+pour exercer leur droit de vote dans la commune.
 
-Le maire est assisté de la commission administrative prévue au septième alinéa
-de l'article L. 513-3 dès lors qu'au moins 300 électeurs étaient inscrits sur la
-liste électorale prud'homale de la commune lors des dernières élections
-générales. En dessous de ce seuil, la commission peut être réunie par le maire
-si les circonstances locales le justifient. La commission est installée dès la
-phase d'élaboration de la liste des établissements de la commune appelés à
-déclarer leurs salariés. La commission donne un avis au maire sur cette liste.
+La commission administrative prévue au III de l'article L. 513-3 est installée
+dès la phase d'élaboration de la liste des établissements de la commune appelés
+à déclarer leurs salariés. Elle donne un avis au maire sur cette liste.
 
-La commission examine l'ensemble des documents mentionnés aux articles R. 513-14
-et au présent article ainsi que les demandes formulées en application de
-l'article R. 513-17. Elle donne un avis sur les modifications à apporter aux
-documents préparatoires qui lui sont soumis".
-
-"Art. R. 513-17 :
-
-Les salariés involontairement privés d'emploi à la date fixée en application de
-l'article R. 513-2 demandent, au plus tard à une date de cette même année fixée
-par décret, leur inscription sur la liste électorale de la mairie du lieu de
-leur domicile. A cet effet, ils adressent une déclaration à un centre de
-traitement déterminé par le ministre chargé du travail. Les salariés
-involontairement privés d'emploi sont inscrits dans la section du collège
-salarié correspondant à leur dernière activité proncipale.
-
-Est considéré comme involontairement privé d'emploi le salarié attestant sur
-l'honneur être à la recherche d'un emploi et n'avoir pas quitté volontairement
-sans motif reconnu légitime sa dernière activité professionnelle".
+La commission examine l'ensemble des observations mentionnées suite à la
+consultation prévue à l'article R. 513-12. Elle donne un avis sur les
+modifications à apporter aux documents préparatoires qui lui sont soumis".
 
 "Art. R. 513-18 :
 
-La commission administrative prévue au septième alinéa de l'article L. 513-3 est
-composée du maire ou de son représentant, d'un délégué de l'administration
-désigné par le préfet ou le sous-préfet, d'un représentant de chacune des
-organisations professionnelles et syndicales les plus représentatives au plan
-national, d'un électeur employeur et d'un électeur salarié nommés par le conseil
-municipal, sur proposition du maire, parmi les électeurs inscrits sur la liste
-électorale prud'homale de la commune lors des dernières élections générales
-ainsi que d'un délégué désigné par le directeur départemental du travail, de
-l'emploi et de la formation professionnelle et d'un délégué désigné par le
-président du tribunal de grande instance. En cas d'impossibilité de désigner un
-électeur employeur ou un électeur salarié, le conseil municipal peut faire appel
-à toute personne inscrite sur la liste électorale établie en application du code
-électoral.
+Le maire préside la commission prévue au III de l'article L. 513-3.
 
-Il est désigné, pour chacun d'entre eux, un suppléant dans les mêmes formes.
+Il la convoque et en fixe l'ordre du jour. Le secrétariat de la commission est
+assuré par un agent de la commune.
 
-Afin de préparer les travaux de la commission administrative, le maire peut
-créer des sous-commissions.
-
-Le maire préside la commission. Il la convoque et en fixe l'ordre du jour. Le
-secrétariat de la commission est assuré par un agent de la commune.
-
-Celui-ci tient à la dispositions des membres de la commission, au moins cinq
+Le maire tient à la disposition des membres de la commission, au moins cinq
 jours avant la réunion, les documents nécessaires au travail de la commission".
 
 "Art. R. 513-19 :
 
 Le maire établit la liste électorale en procédant à l'inscription dans chaque
 section des électeurs salariés et des électeurs employeurs. Il arrête cette
-liste à une date fixée par un arrêté du ministre chargé du travail. Il en
-transmet un exemplaire au préfet".
+liste à une date fixée par un arrêté du ministre chargé du travail".
 
 "Art. R. 513-20 :
 
-A une date fixée par un arrêté du ministre chargé du travail, la liste
-électorale de chaque commune est déposée au secrétariat de la mairie en vue de
-sa consultation par toute personne intéressée. Dans les villes divisées en
-plusieurs arrondissements municipaux, la liste des électeurs de chaque
-arrondissement est déposée au secrétariat de la mairie ou de la mairie annexe de
-cet arrondissement.
+La liste électorale est déposée, à la date mentionnée à l'article R. 513-19, au
+secrétariat de la mairie en vue de sa consultation. Toutefois, dans les villes
+divisées en plusieurs arrondissements municipaux, la liste des électeurs de
+chaque arrondissement est déposée au secrétariat de la mairie annexe de cet
+arrondissement.
 
-Le même jour, le maire avise les électeurs par voie d'affichage, du dépôt de la
+Le même jour, le maire avise les électeurs, par voie d'affichage, du dépôt de la
 liste électorale, de la date de sa clôture mentionnée à l'article R. 513-21-1 et
-des voies et délais de recours contre l'inscription".
+des voies et délais de recours contre l'inscription.
+
+Tout électeur de la commune peut prendre communication et, à ses frais, copie de
+la liste électorale à condition de s'engager à ne pas en faire un usage qui ne
+soit strictement lié à l'élection prud'homale.
+
+Tout mandataire de liste peut prendre communication et copie, dans les mêmes
+conditions, de l'ensemble des listes électorales des communes du ressort du
+conseil de prud'hommes pour lequel il a déposé une liste de candidats.
+
+A l'expiration du délai de huit jours suivant l'affichage des résultats du
+scrutin, la liste électorale ne peut plus être consultée"
 
 "Art. R. 513-21 :
 
-La contestation mentionnée à l'article L. 513-3 doit être adressée au maire au
-plus tard dans les vingt et un jours de l'affichage du dépôt de la liste.
-Lorsqu'elle porte sur l'inscription d'un cadre comme électeur employeur, elle
-est accompagnée de la délégation particulière d'autorité mentionnée au troisième
-alinéa de l'article L. 513-1. La contestation indique son objet, les nom,
-prénoms et adresse du requérant et la qualité en laquelle il agit; si elle
-concerne un ou plusieurs électeurs autres que le requérant, elle précise en
-outre les noms, prénoms et adresses de ceux-ci.
+I. - La contestation mentionnée au premier alinéa du IV de l'article L. 513-3
+indique son objet, les noms, prénoms et adresse du requérant et la qualité en
+laquelle il agit, si elle concerne un ou plusieurs électeurs autres que le
+requérant, elle précise en outre les noms, prénoms et adresses de ceux-ci.
 
 Le maire se prononce sur la contestation et notifie sa décision à son auteur
-dans le délai de quinze jours à compter de sa date de réception et au plus tard
-à la date de clôture mentionnée à l'article R. 513-21-1. La décision est motivée
-en cas de refus. Si sa décision a des conséquences sur la liste électorale d'une
-autre commune, il en avise le maire intéressé.
+dans le délai de dix jours à compter de sa date de réception. La décision est
+motivée en cas de refus. Si sa décision a des conséquences sur la liste
+électorale d'une autre commune, il en avise le maire intéressé.
 
 Le silence gardé par le maire à l'expiration de ce délai vaut décision de rejet.
 
 Les électeurs mineurs peuvent présenter une réclamation ou défendre à une
 réclamation dirigée contre eux sans autorisation.
 
-Le recours formé contre la décision du maire, en application de l'article L.
-513-3, est porté, dans les formes prévues à l'article R. 513-22, devant le
-tribunal d'instance dans le ressort duquel est située la commune dont la liste
-est contestée, dans les dix jours à compter de la notification de la décision ou
-de la date à laquelle est née une décision implicite de rejet. L'auteur d'une
-action en représentation rapporte, par tout moyen, la preuve de l'avertissement
-préalable du ou des électeurs concernés par la contestation et de leur
-non-opposition à l'action engagée.
+II. - Le recours formé contre la décision du maire est porté, dans les formes
+prévues à l'article R. 513-22, devant le tribunal d'instance, dans le ressort
+duquel est située la commune dont la liste est contestée, dans les dix jours à
+compter de la notification de la décision ou de la date à laquelle est née une
+décision implicite de rejet. L'auteur d'une action en représentation rapporte,
+par tout moyen, la preuve de l'avertissement préalable du ou des électeurs
+concernés par la contestation et de leur non-opposition à l'action engagée.
 
-Le tribunal d'instance statue dans les dix jours du recours dans les formes
-prévues à l'article R. 513-23. Sa décision est notifiée par le
-secrétariat-greffe dans les formes prévues à l'article R. 513-24".
+Le tribunal d'instance statue dans les dix jours du recours sans forme et sans
+frais et sur simple avertissement donné trois jours à l'avance aux parties
+intéressées. Sa décision est notifiée par le greffe dans les formes prévues à
+l'article R. 513-24"
 
 "Art R. 513-21-1 :
 
 La liste électorale, rectifiée s'il y a lieu pour tenir compte des décisions du
-maire et des décisions judiciaires rendues en application du huitième alinéa de
-l'article L. 513-3, est close à une date fixée par arrêté du ministre chargé du
-travail".
+maire et des décisions judiciaires rendues en application du premier alinéa du
+IV de l'article L. 513-3, est close à une date fixée par arrêté du ministre
+chargé du travail".
 
 "Art. R. 513-21-2 :
 
-Sans préjudice des dispositions du deuxième alinéa du présent article, les
-contestations postérieures à la clôture de la liste électorale sont formées,
-dans les quinze jours de cette clôture, devant le tribunal d'instance dans le
-ressort duquel est située la commune dont la liste électorale prud'homale est
-contestée.
-
-Les contestations tendant à la rectification d'omissions ou d'erreurs manifestes
-d'identification, d'inscription ou d'affectation d'un ou plusieurs électeurs
-dans une section, un collège ou une commune peuvent être portées jusqu'au jour
-du scrutin devant le tribunal d'instance sans observer, le cas échéant, les
-délais prévus à l'article R. 513-23.
+Les contestations mentionnées au deuxième alinéa du IV de l'article L. 513-3
+sont formées devant le tribunal d'instance dans le ressort duquel se situe la
+commune dont la liste électorale prud'homale est contestée.
 
 Le mandataire de liste rapporte, par tout moyen, la preuve de l'avertissement
 préalable des électeurs concernés par sa requête et de leur non-opposition à
@@ -338,11 +247,11 @@ défendre à une réclamation dirigée contre eux, sans autorisation".
 "Art. R. 513-22 :
 
 Les recours contentieux prévus à l'article L. 513-3 sont formés par déclaration
-orale ou écrite, faite, remise ou adressée au secrétariat-greffe du tribunal
-d'instance. La déclaration indique les nom, prénoms et adresse du requérant, la
-qualité en laquelle il agit et l'objet du recours; si celui-ci concerne un ou
-plusieurs électeurs autres que le requérant, elle précise en outre les noms,
-prénoms et adresses de ceux-ci".
+orale ou écrite, faite, remise ou adressée au greffe du tribunal d'instance. La
+déclaration indique les nom, prénoms et adresse du requérant, la qualité en
+laquelle il agit et l'objet du recours; si celui-ci concerne un ou plusieurs
+électeurs autres que le requérant, elle précise en outre les noms, prénoms et
+adresses de ceux-ci".
 
 "Art. R. 513-23 :
 
@@ -353,48 +262,32 @@ donné trois jours à l'avance à toutes les parties intéressées".
 "Art. R. 513-24 :
 
 La décision prise par le tribunal d'instance, en application des articles R.
-513-21 et R. 513-21-2, est notifiée immédiatement par le secrétariat-greffe au
-requérant et, s'il y a lieu, aux électeurs intéressés par lettre recommandée
-avec demande d'avis de réception. Le secrétariat-greffe donne avis au préfet et
-au maire dans le même délai.
+513-21 et R. 513-21-2, est notifiée immédiatement par le greffe au requérant et,
+s'il y a lieu, aux électeurs intéressés par lettre recommandée avec demande
+d'avis de réception. Le greffe donne avis au préfet et au maire dans le même
+délai.
 
 La décision n'est pas susceptible d'opposition".
 
 "Art. R. 513-25 :
 
 Le pourvoi en cassation contre les décisions du tribunal d'instance mentionnées
-aux articles R. 513-21 et R. 513-21-2 est formé dans les dix jours suivant la
-notification de la décision du tribunal d'instance. Il n'est pas suspensif.
+aux articles R. 513-21 et R. 513-21-2 est formé dans les conditions fixées aux
+articles 999 à 1008 du nouveau code de procédure civile. Le délai de pourvoi
+court à compter de la notification du jugement.
 
-Les dispositions des articles R. 15-1 à R. 15-6 du code électoral sont
-applicables".
+Les parties sont dispensées du ministère d'avocat au Conseil d'Etat et à la Cour
+de cassation".
 
 "Art. R. 513-26 :
 
-Les délais fixés par les articles R. 513-21, alinéas 1 et 5, R. 513-21-2 et R.
-513-25 sont calculés et prorogés conformément aux dispositions des articles 640,
-641, et 642 du nouveau code de procédure civile".
-
-"Art. R. 513-28 :
-
-Tout électeur de la commune peut, à ses frais, prendre communication et copie de
-la liste électorale prud'homale à condition de s'engager à ne pas en faire un
-usage qui ne soit strictement lié à l'élection prud'homale. Tout mandataire de
-liste peut prendre communication et copie, dans les mêmes conditions, de
-l'ensemble des listes électorales des communes du ressort du conseil de
-prud'hommes pour lequel il a déposé une liste de candidats.
-
-A l'expiration du délai de huit jours suivant l'affichage des résultats du
-scrutin, la liste électorale ne peut plus être consultée".
-
-"Art. R. 513-30 :
-
-Les déclarations mentionnées aux articles R. 513-11 et R. 513-17 doivent être
-conformes aux modèles ou aux normes fixés par décret".
+Les délais fixés par les articles R. 513-21 et R. 513-25 sont calculés et
+prorogés conformément aux dispositions des articles 640, 641, et 642 du nouveau
+code de procédure civile".
 
 "Art. R. 513-31 :
 
-Le mandataire de la liste notifie à l'employeur, en application du quatrième
+Le mandataire de la liste notifie à l'employeur, en application du troisième
 alinéa de l'article L. 513-4, les noms et prénoms du ou des salariés de son
 entreprise qu'il entend présenter sur sa liste de candidats, soit par lettre
 recommandée avec demande d'avis de réception, soit par lettre remise contre
@@ -406,41 +299,31 @@ compétent ou à l'autorité qui en tient lieu".
 Les listes des candidatures sont établies, pour chaque conseil de prud'hommes,
 par section et par collège distinct dans chaque section".
 
-"Art. R. 513-32 :
-
-Aucune liste ne peut comporter un nombre de candidats inférieur au nombre de
-postes à pourvoir ni supérieur au double du nombre de postes à pourvoir".
-
 "Art. R. 513-33 :
 
-Chaque liste fait l'objet d'une déclaration collective effectuée par un
-mandataire muni d'une procuration écrite signée de chaque candidat figurant sur
-la liste.
+Chaque liste fait l'objet d'une déclaration collective de candidature qui
+précise :
 
-Cette déclaration collective précise :
+1° Le conseil de prud'hommes, le collège et la section de ce conseil auxquels
+les candidats de la liste se présentent ;
 
-- le conseil de prud'hommes, le collège et la section de ce conseil auxquels les
-candidats de la liste se présentent ;
+2° L'ordre de présentation des candidats figurant sur la liste ;
 
-- l'ordre de présentation des candidats figurant sur la liste ;
+3° Le titre de la liste.
 
-- le titre de la liste.
+A cette déclaration collective sont jointes une déclaration s ur l'honneur
+attestant que la liste est recevable au sens de l'article L. 513-3-1 et une
+déclaration individuelle de chacun des candidats de la liste signée par le
+candidat et énumérant ses noms, prénoms, date et lieu de naissance, domicile.
 
-A cette déclaration collective sont jointes une déclaration sur l'honneur
-attestant que la liste est recevable au sens de l'article L. 513-3-1 ainsi que
-les déclarations individuelles de chacun des candidats de la liste. Chaque
-déclaration individuelle est signée par le candidat.
+Au cas où le candidat fait partie des catégories mentionnées au 1° et au 2° de
+l'article L. 513-2, sa déclaration individuelle fait état de la liste électorale
+sur laquelle il est inscrit ou était en droit d'être inscrit.
 
-Elle énumère les nom, prénoms, date et lieu de naissance, domicile du candidat.
-
-Au cas où le candidat fait partie des catégories mentionnées au 1° de l'article
-L. 513-2, sa déclaration individuelle fait état de la liste électorale sur
-laquelle il est inscrit ou était en droit d'être inscrit.
-
-Au cas où le candidat fait partie des catégories mentionnées au 2° de l'article
-L. 513-2, sa déclaration individuelle fait état des listes électorales
-prud'homales sur lesquelles il a été inscrit pendant trois ans au moins ainsi
-que l'activité professionnelle au titre de laquelle il a été inscrit".
+Au cas où le candidat fait partie de la catégorie mentionnée au 3° de l'article
+L. 513-2, sa déclaration individuelle fait état de la ou des listes électorales
+prud'homales sur lesquelles il a été inscrit ainsi que de l'activité
+professionnelle au titre de laquelle il a été inscrit".
 
 "Art. R. 513-34 :
 
@@ -450,26 +333,27 @@ figurant sur un arrêté du ministre chargé du travail.
 Chaque candidat doit en outre attester sur l'honneur n'être l'objet d'aucune
 interdiction, déchéance ou incapacité relative à ses droits civiques".
 
-"Art. R. 513-35 :
-
-Un arrêté ministériel fixe la période de dépôt des candidatures à la préfecture
-qui a dans son ressort le siège du conseil de prud"hommes ainsi que la date à
-laquelle le préfet publie les listes de candidatures".
-
 "Art. R. 513-36 :
 
-Il est délivré au mandataire de la liste un reçu de dépôt de l'ensemble des
-déclarations mentionnées aux articles R. 513-33 et R. 513-34".
+et contrôle la régularité de la déclaration de candidature en s'assurant qu'elle
+satisfait à la condition fixée par le troisième alinéa de l'article L. 513-6 et
+qu'elle comporte l'ensemble des documents mentionnés aux articles R. 513-33 et
+R. 513-34.
+
+Il est délivré au mandataire de la liste régulière un reçu d'enregistrement.
+
+Le préfet notifie au mandataire de la liste irrégulière son refus
+d'enregistrement".
 
 "Art. R. 513-37 :
 
-Le préfet publie les listes de candidatures. Ces listes sont affichées à la
-préfecture, dans la mairie de la commune où chaque conseil de prud'hommes a son
-siège et au secrétariat-greffe dudit conseil.
+Le préfet publie les listes de candidatures qui sont régulières le jour suivant
+l'expiration de la période de dépôt en application de l'article L. 513-3-1. Ces
+listes sont affichées à la préfecture, dans la mairie de la commune où chaque
+conseil de prud'hommes a son siège et au secrétariat-greffe dudit conseil.
 
-Aucun dépôt ou retrait individuel de candidature ne peut être opéré après
-l'expiration de la période de dépôt des candidatures mentionnée à l'article R.
-513-35.
+Aucun dépôt ou retrait individuel de candidature ne peut être opéré après le
+dépôt en préfecture des candidatures mentionné à l'article R. 513-33.
 
 Une liste peut faire l'objet d'un retrait à condition que la moitié des
 candidats inscrits sur cette liste le demande au préfet par écrit et que cette
@@ -481,12 +365,13 @@ candidatures".
 
 "Art. R. 513-38 :
 
-Les contestations relatives à l'éligibilité des candidats, la régularité et la
-recevabilité des listes de candidats peuvent être portées dans un délai de dix
-jours à partir de la publication mentionnée à l'article R. 513-37 devant le
-tribunal d'instance dans le ressort duquel se trouve le siège du conseil de
-prud'hommes. Le tribunal est saisi par une déclaration orale ou écrite, faite,
-remise ou adressée au secrétariat-greffe.
+Les contestations relatives à l'éligibilité des candidats, à la régularité et à
+la recevabilité des listes sont portées, dans un délai de dix jours à partir de
+la publication mentionnée au premier alinéa de l'article R. 513-37 ou de la
+notification de la décision de refus du préfet d'enregistrer la liste mentionnée
+au troisième alinéa de l'article R. 513-36, devant le tribunal d'instance dans
+le ressort duquel se trouve le siège du conseil de prud'hommes. Le tribunal est
+saisi par déclaration orale ou écrite, faite, remise ou adressée au greffe.
 
 Les contestations portant sur les opérations pré-électorales sont portées, dans
 les mêmes conditions qu'à l'alinéa précédent, devant le tribunal d'instance dans
@@ -498,31 +383,33 @@ Les électeurs mineurs peuvent présenter un recours sans autorisation".
 "Art. 513-38-1 :
 
 Le tribunal d'instance statut sans formalité dans les dix jours. Sa décision est
-notifiée immédiatement par le secrétariat-greffe aux parties par lettre
-recommandée avec demande d'avis de réception. Le secrétariat-greffe en donne
-avis dans les trois jours au préfet et au procureur de la République lorsque ces
-autorités ne sont pas parties à la procédure. La décision n'est pas susceptible
-d'opposition".
+notifiée immédiatement par le greffe aux parties par lettre recommandée avec
+demande d'avis de réception. Le greffe en donne avis dans les trois jours au
+préfet et au procureur de la République lorsque ces autorités ne sont pas
+parties à la procédure. La décision n'est pas susceptible d'opposition".
 
 "Art. R513-38-2 :
 
-Le pourvoi en cassation est formé dans les dix jours de la notification de la
-décision du tribunal d'instance. Il n'est pas suspensif. Les dispositions des
-articles R. 15-1 à R. 15-6 du code électoral sont applicables".
+Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à
+1008 du nouveau code de procédure civile. Le délai de pourvoi court à compter de
+la notification du jugement.
+
+Les parties sont dispensées du ministère d'avocat au Conseil d'Etat et à la Cour
+de Cassation".
 
 "Art. R. 513-39 :
 
 Un arrêté du préfet, pris dans les délais fixés par arrêté du ministre chargé du
-travail, fixe, au vu d'un double des listes électorales, la liste des bureaux de
-vote et précise, le cas échéant, la circonscription des bureaux de vote
-intercommunaux. Le préfet consulte à cet effet les maires, qui recueillent
-préalablement l'avis des commissions administratives mentionnées à l'article L.
-513-3, et le directeur départemental du travail, de l'emploi et de la formation
-professionnelle. Il consulte également les représentants locaux des
-organisations professionnelles et syndicales les plus représentatives au plan
-national. Il s'assure que les bureaux de vote se situent le plus près possible
-des lieux de travail des électeurs concernés. Ils peuvent être installés dans
-des lieux publics ou privés avec l'accord des propriétaires".
+travail, fixe, au vu des listes électorales, la liste des bureaux de vote et
+précise, le cas échéant, la circonscription des bureaux de vote intercommunaux.
+Le préfet consulte à cet effet les maires, qui recueillent préalablement l'avis
+de la commission mentionnée au III de l'article L. 513-3, et le directeur
+départemental du travail, de l'emploi et de la formation professionnelle. Il
+consulte également les représentants locaux des organisations professionnelles
+et syndicales les plus représentatives au plan national. Il s'assure que les
+bureaux de vote se situent le plus près possible des lieux de travail des
+électeurs concernés. Ils peuvent être installés dans des lieux publics ou privés
+avec l'accord des propriétaires".
 
 "Art. R. 513-40 :
 
@@ -532,23 +419,23 @@ Une carte électorale est délivrée à tout électeur inscrit sur la liste
 
 "Art. R. 513-41 :
 
-Dans chaque commune, les cartes électorales sont établies par le maire. Elles
+Les cartes électorales sont établies et envoyées par le centre de traitement, ou
+par les mairies lorsque celles-ci disposent des moyens pour les établir. Elles
 mentionnent :
 
-- le nom, la date, le lieu de naissance et le domicile de l'électeur ;
+1° Les noms, les prénoms et domicile de l'électeur ;
 
-- la section et le collège dont il relève ;
+2° La section et le collège dont il relève ;
 
-- le bureau de vote dont il dépend ;
+3° Le bureau de vote dont il dépend ;
 
-- le numéro d'ordre qui lui est attribué sur la liste d'émargement ;
+4° Le numéro d'ordre qui lui est attribué sur la liste d'émargement ;
 
-- l'attestation sur l'honneur par laquelle le titulaire de la carte certifie
+5° L'attestation sur l'honneur par laquelle le titulaire de la carte certifie
 n'être l'objet d'aucune interdiction, déchéance ou incapacité relative à ses
 droits civiques ;
 
-- les horaires d'ouverture du bureau de vote fixés en application de l'article
-R. 513-55".
+6° Les horaires d'ouverture du bureau de vote".
 
 "Art. R. 513-42 :
 
@@ -556,28 +443,13 @@ La carte électorale doit être signée par l'électeur".
 
 "Art. R. 513-43 :
 
-Les cartes électorales sont envoyées au domicile des électeurs par la mairie.
+Les cartes électorales sont envoyées au domicile des électeurs par voie postale.
 
 Cet envoi doit intervenir au plus tard le jour de l'affichage du dépôt de la
 liste électorale en application de l'article R. 513-20.
 
-Les cartes qui n'ont pas été remises à leurs titulaires sont retournées à la
-mairie expéditrice qui recherche la nouvelle adresse des intéressés et leur
-envoie leurs cartes. En cas d'impossibilité, elles sont remises le jour du
-scrutin au bureau de vote intéressé et y sont tenues à la disposition de leur
-titulaire. Elles ne peuvent être délivrées à l'électeur qu'au vu d'une pièce
-d'identité ou après authentification de son identité par deux témoins inscrits
-sur les listes du même bureau de vote.
-
-Dans les communes où existent plusieurs bureaux de vote, elles sont remises le
-jour du scrutin au bureau de vote intéressé pour être mises à la disposition de
-leurs titulaires. Dans l'un et l'autre cas, elles ne peuvent être remises à
-l'électeur que sur le vu de pièces d'identité ou après authentification de son
-identité par deux témoins inscrits sur la liste du même bureau de vote.
-
-Les règles posées à l'alinéa précédent s'appliquent lorsque les cartes
-électorales retournées à la mairie sont destinées à des électeurs appelés à
-voter dans un bureau intercommunal".
+Les cartes qui n'ont pas été remises à leurs titulaires sont retournées à
+l'expéditeur".
 
 "Art. R. 513-44 :
 
@@ -587,8 +459,8 @@ feuillet de format 210 mm x 297 mm".
 "Art. R. 513-45 :
 
 Le nombre de bulletins de vote que chaque liste de candidats peut faire imprimer
-ne doit pas excéder de plus de 20 p. cent le double du nombre des électeurs dont
-cette liste sollicite les suffrages.
+ne doit pas excéder de plus de 10 % le double du nombre des électeurs dont cette
+liste sollicite les suffrages.
 
 Les bulletins de vote ont un format de 148 X 210 mm pour les listes comportant
 jusqu'à trente et un noms et un format de 210 X 297 mm pour les listes
@@ -634,7 +506,7 @@ La commission de propagande reçoit du préfet les enveloppes nécessaires à
 l'expédition des circulaires et des bulletins de vote. Elle fait préparer le
 libellé de ces enveloppes.
 
-Elle est chargée *mission* :
+Elle est chargée :
 
 - d'adresser au plus tard douze jours avant le scrutin, dans une même enveloppe
 fermée, d'une part, à tous les électeurs, une enveloppe électorale destinée à
@@ -649,12 +521,10 @@ des électeurs inscrits".
 
 "Art. R. 513-49 :
 
-Le mandataire de chaque liste fait connaître au président de la commission le
-nom du ou des imprimeurs choisis par elle.
-
-Le président lui indique les caractéristiques et le nombre maximum des documents
-de chaque catégorie qu'il est autorisé à faire imprimer, ainsi que les tarifs
-maxima d'impression fixés en application de l'article R. 513-50.
+Le président de la commission indique au mandataire de chaque liste les
+caractéristiques et le nombre maximum des documents de chaque catégorie qu'il
+est autorisé à faire imprimer, ainsi que les tarifs maxima d'impression fixés en
+application de l'article R. 513-50.
 
 Le mandataire de la liste doit remettre au président de la commission, à une
 date fixée par arrêté ministériel, les exemplaires imprimés de la circulaire
@@ -670,14 +540,16 @@ acceptés par la commission".
 
 "Art. R. 513-50 :
 
-Il est remboursé aux listes qui ont obtenu au moins 5 p. cent des suffrages
-exprimés dans chaque collège et dans chaque section et qui n'ont pas été
-déclarées irrecevables en application du deuxième alinéa de l'article L.
-513-3-1, le coût du papier et les frais d'impression des circulaires et
-bulletins de vote prévus respectivement aux articles R. 513-44 et R. 513-45.
+Il est remboursé aux listes qui ont obtenu au moins 5 % des suffrages exprimés
+dans une section d'un des deux collèges et qui n'ont pas été jugées irrecevables
+ou irrégulières en application de l'article L. 513-3-1, le coût du papier et les
+frais d'impression des circulaires et bulletins de vote prévus respectivement
+aux articles R. 513-44 et R. 513-45.
 
 Toutefois, seuls sont remboursés, sur présentation des pièces justificatives,
-les frais d'impression réellement exposés.
+les frais d'impression réellement exposés et pour des circulaires et bulletins
+de vote produits conformément aux dispositions de l'article R. 39 du code
+électoral.
 
 La somme remboursée ne peut excéder celle résultant de l'application au nombre
 des imprimés admis à remboursement des tarifs d'impression fixés par arrêté du
@@ -687,16 +559,14 @@ préfet, après avis d'une commission départementale comprenant :
 
 - le trésorier-payeur général ou son représentant ;
 
-- le directeur départemental de la concurrence et de la consommation ou son
-représentant ;
-
-- un représentant des organisations professionnelles des imprimeurs désignés par
-le préfet, selon la nature des tarifs à établir.
+- le directeur départemental de la concurrence, de la consommation et de la
+répression des fraudes ou son représentant ;&lt;RL - un représentant des
+organisations professionnelles des imprimeurs désignés par le préfet, selon la
+nature des tarifs à établir.
 
 En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des
-circulaires et bulletins de vote présentant les caractéristiques suivantes et
-excluant tous travaux de photogravure (clichés, simili ou trait) : papier blanc
-satiné, 56 grammes au mètre carré, Afnor II/1".
+circulaires et bulletins de vote imprimés sur papier blanc et excluant tous
+travaux de photogravure".
 
 "Art. R. 513-51 :
 
@@ -720,19 +590,19 @@ modalités prévues au même article.
 Les autres dépenses de fonctionnement de la commission de propagande sont
 remboursées à chaque commission en fonction du nombre d'électeurs et du nombre
 de candidats, sur la base d'un barème établi par arrêté conjoint du ministre
-chargé de l'économie et des finances et du ministre chargé des affaires
-sociales".
+chargé de l'économie et des finances et du ministre chargé du travail".
 
 "Art. R. 513-52-1 :
 
-Pendant les dix jours précédant l'élection, dans chaque commune, des
-emplacements spéciaux sont réservés par l'autorité municipale pour l'apposition
-des affiches électorales des listes de candidats.
+Pendant les dix jours précédant l'élection et le jour de celle-ci, dans chaque
+commune, des emplacements spéciaux sont réservés par l'autorité municipale pour
+l'apposition des affiches électorales des listes de candidats.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque liste.
 
-Un emplacement est attribué à chaque liste dans l'ordre de dépôt des listes de
-candidats auprès du préfet.
+Un emplacement est attribué à chaque organisation déposant des listes, dans
+l'ordre de dépôt des listes de candidats, quelle que soit la section, auprès du
+préfet. Cet ordre est conservé pour l'ensemble des sections".
 
 Art. R. 513-53 :
 
@@ -807,9 +677,6 @@ pendant qu'il met son bulletin dans l'enveloppe correspondant à la section au
 titre de laquelle il est électeur ; il fait ensuite constater au président qu'il
 n'est porteur que d'une seule enveloppe ; le président le constate sans toucher
 l'enveloppe que l'électeur introduit lui-même dans l'urne.
-
-Dans chaque bureau de vote, il y a un isoloir par 300 électeurs inscrits ou par
-fraction.
 
 Les isoloirs ne doivent pas être placés de façon à dissimuler au public les
 opérations électorales".
@@ -1057,36 +924,7 @@ cette mission.
 A l'issue du scrutin, la commission dresse, s'il y a lieu, un rapport qui est
 adressé à la préfecture et joint au procès-verbal des opérations de vote".
 
-"Art. R. 513-77 :
-
-Peuvent voter par correspondance les électeurs dont le lieu de travail est
-éloigné du bureau de vote d'une distance supérieure à cinq kilomètres, ceux
-auxquels leurs activités professionnelles ne permettent pas de se rendre au
-bureau de vote, ceux qui travaillent en dehors des heures d'ouverture du
-scrutin, ceux qui sont en congé régulier, ceux qui ne peuvent se déplacer en
-raison de leur état de santé".
-
-"Art. R. 513-78 :
-
-Tout électeur qui veut voter par correspondance doit remplir une déclaration sur
-l'honneur jointe à sa carte électorale attestant qu'il remplit l'une des
-conditions prévues à l'article R. 513-77".&lt;RL "Art. R. 513-80 :
-
-L'électeur place son bulletin de vote dans l'enveloppe électorale qu'il a reçue
-de la commission de propagande sans la cacheter. Il insère cette enveloppe et la
-carte électorale accompagnée de la déclaration sur l'honneur mentionnée à
-l'article R. 513-78, dûment remplie, dans la deuxième enveloppe qui porte la
-mention "Election des conseillers prud'hommes. - Vote par correspondance". Il
-complète cette enveloppe et l'adresse au président du bureau de vote
-destinataire des suffrages".
-
-"Art. R. 513-83 :
-
-Les plis de type officiel portant la mention "Vote par correspondance" sont
-conservés par les services des postes jusqu'au jour du scrutin.
-
-Le jour du scrutin, les plis sont remis par les agents des postes aux présidents
-des bureaux de vote, qui leur en donnent décharge".&lt;RL "Art. R. 513-85 :
+"Art. R. 513-85 :
 
 Immédiatement après la clôture du scrutin et préalablement au dépouillement, le
 président du bureau de vote ouvre chaque pli et vérifie que l'enveloppe
@@ -1107,12 +945,6 @@ l'honneur dûment remplie".
 Le vote de chaque électeur est mentionné sur sa carte électorale".
 
 "Art. R. 513-87 :
-
-Lors de la clôture du scrutin, les déclarations sur l'honneur et les enveloppes
-ayant contenu les enveloppes électorales sont jointes aux listes d'émargement de
-chaque bureau de vote. Ces documents doivent être conservés pendant quatre mois
-après l'expiration des délais prescrits pour l'exercice des recours contre
-l'élection.
 
 Les cartes électorales sont conservées par la mairie de la commune d'inscription
 de l'électeur à disposition de leurs titulaires. Elles peuvent être remises à
@@ -1182,33 +1014,39 @@ observations".
 
 N'entrent pas en compte dans le résultat du dépouillement :
 
-- les bulletins blancs ;
+1° Les enveloppes sans bulletin ;
 
-- les bulletins désignant une liste qui n'a pas été régulièrement publiée ou
-dont l'irrégularité ou l'irrecevabilité a été constatée par le juge ;
+2° Les bulletins blancs ;
 
-- les bulletins dans lesquels les votants se sont fait connaître ;
-
-- les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non
+3° Les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non
 réglementaires ;
 
-- les bulletins imprimés sur papier de couleur ou à l'aide d'encre d'une autre
-couleur que le noir ;
-
-- les bulletins multiples trouvés dans la même enveloppe et concernant des
+4° Les bulletins multiples trouvés dans la même enveloppe et concernant des
 listes différentes ;
 
-- les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de
+5° Les bulletins désignant une liste qui n'a pas été régulièrement publiée ou
+dont l'irrégularité ou l'irrecevabilité a été constatée par le juge ;
+
+6° Les bulletins ou enveloppes ne correspondant pas au conseil, au collège ou à
+la section d'inscription de l'électeur ;
+
+7° Les bulletins comportant adjonction ou suppression de noms ou modifications
+de l'ordre de présentation des candidats ;
+
+8° Des bulletins imprimés d'un modèle différent de ceux qui ont été produits par
+les candidats ou qui comporte une mention manuscrite ;
+
+9° Les bulletins manuscrits ;
+
+10° Les bulletins non conformes à l'article R. 513-45 ;
+
+11° Les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de
 reconnaissance ;
 
-- les bulletins ou enveloppes portant des mentions injurieuses pour les
+12° Les bulletins ou enveloppes portant des mentions injurieuses pour les
 candidats ou pour des tiers ;
 
-- les bulletins comportant adjonction ou suppression de noms ou modifications de
-l'ordre de présentation des candidats.
-
-- les bulletins manuscrits ne comportant pas les mentions prévues au troisième
-alinéa de l'article R. 513-45.
+13° Les circulaires utilisées comme bulletin.
 
 Les bulletins qui n'ont pas été pris en compte ainsi que les enveloppes non
 réglementaires sont annexés au procès-verbal et contresignés par les membres du
@@ -1251,9 +1089,9 @@ détruits en présence des électeurs".
 "Art. R. 513-100 :
 
 Lorsqu'il y a plusieurs bureaux de vote dans la commune, le bureau installé à la
-mairie de la commune est le bureau centralisateur. Les procès-verbaux établis
-dans chacun des bureaux de vote sont transmis au bureau centralisateur, qui
-recense les résultats de la commune".
+mairie de la commune est le bureau centralisateur pour les deux collèges. Les
+procès-verbaux établis dans chacun des bureaux de vote sont transmis au bureau
+centralisateur pour les deux collèges, qui recense les résultats de la commune".
 
 "Art. R. 513-101 :
 
@@ -1292,7 +1130,8 @@ désigné par le maire".
 
 "Art. R. 513-104 :
 
-Après avoir recensé les votes de toutes les communes, la commission de
+Après avoir recensé les votes de toutes les communes et procédé, s'il y a lieu,
+au redressement des chiffres portés sur les procès-verbaux, la commission de
 recensement des votes du ressort du conseil attribue les sièges par collège et
 par section dans l'ordre de présentation de chaque liste en faisant application
 de la représentation proportionnelle avec répartition complémentaire suivant la
@@ -1377,18 +1216,19 @@ Les électeurs mineurs peuvent présenter un recours sans autorisation".
 
 "Art. R. 513-109 :
 
-En cas de contestation, les conseillers prud'hommes proclamés élus demeurent en
-fonctions jusqu'à ce qu'il ait été définitivement statué sur les recours".
+Les conseillers prud'hommes dont l'élection est contestée peuvent valablement
+prêter serment, être installés et siéger tant qu'il n'a pas été définitivement
+statué sur le recours".
 
 "Art. R. 513-110 :
 
 Le recours est formé par déclaration orale ou écrite faite, remise ou adressée
-au secrétariat-greffe du tribunal d'instance. La déclaration indique les nom,
-prénoms et adresse du requérant, la qualité en laquelle il agit et l'objet du
-recours. Si le recours met en cause l'éligibilité d'un candidat, l'éligibilité
-ou l'élection d'un élu, la déclaration mentionne les noms, prénoms et adresses
-de ces derniers. S'il porte sur la recevabilité ou la régularité d'une liste ou
-sur la régularité du scrutin, elle fait état, selon le cas, des noms, prénoms et
+au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et
+adresse du requérant, la qualité en laquelle il agit et l'objet du recours. Si
+le recours met en cause l'éligibilité d'un candidat, l'éligibilité ou l'élection
+d'un élu, la déclaration mentionne les noms, prénoms et adresses de ces
+derniers. S'il porte sur la recevabilité ou la régularité d'une liste ou sur la
+régularité du scrutin, elle fait état, selon le cas, des noms, prénoms et
 adresses des mandataires de la liste contestée ou des mandataires de l'ensemble
 des listes.
 
@@ -1402,19 +1242,20 @@ sans frais et sur simple avertissement donné trois jours à l'avance à toutes 
 parties mentionnées à l'article R. 513-110".&lt;RL "Art. R. 513-112 :
 
 La décision prise par le tribunal d'instance est notifiée dans les trois jours
-par le secrétariat-greffe aux parties par lettre recommandée avec demande d'avis
-de réception. Le secrétariat-greffe en donne avis au préfet et au procureur de
-la République dans le même délai.
+par le greffe aux parties par lettre recommandée avec demande d'avis de
+réception. Le greffe en donne avis au préfet et au procureur de la République
+dans le même délai.
 
 La décision n'est pas susceptible d'opposition".
 
 "Art. R. 513-113 :
 
-Le pourvoi en cassation est formé dans les dix jours suivant la notification de
-la décision du tribunal d'instance.
+Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à
+1008 du nouveau code de procédure civile. Le délai de pourvoi court à compter de
+la notification du jugement. Le pourvoi est suspensif.
 
-Les dispositions des articles R. 15-1 à R. 15-6 du code électoral sont
-applicables".
+Les parties sont dispensées du ministère d'avocat au Conseil d'Etat et à la Cour
+de cassation".
 
 "Art. R. 513-114 :
 
@@ -1424,14 +1265,14 @@ Les délais fixés par les articles R. 513-38, R. 513-38-2, R. 513-108 et R.
 
 "Art. R. 513-116 :
 
-Dans un délai d'un mois à compter de la réception du procès-verbal mentionné à
-l'article R. 513-107, le procureur de la République près le tribunal de grande
-instance dans le ressort duquel se trouve le siège du conseil de prud'hommes
-invite les conseillers prud"hommes nouvellement élus, qui n'ont pas encore
-exercé de fonctions judiciaires dans un conseil de prud'hommes, à se présenter à
-l'audience de ce tribunal pour prêter individuellement le serment suivant : " Je
+Le procureur de la République près le tribunal de grande instance dans le
+ressort duquel se trouve le siège du conseil de prud'hommes invite, dans le
+courant du mois de janvier de l'année qui suit les élections générales, les
+conseillers prud'hommes nouvellement élus, qui n'ont pas encore exercé de
+fonctions judiciaires dans un conseil de prud'hommes, à se présenter à
+l'audience de ce tribunal pour prêter individuellement le serment suivant : "Je
 jure de remplir mes devoirs avec zèle et intégrité et de garder le secret des
-délibérations ".
+délibérations".
 
 Il est dressé procès-verbal de la réception du serment.
 
@@ -1490,6 +1331,5 @@ pour cette élection générale.
 Si les vacances sont constatées ou les augmentations des effectifs décidées
 après expiration de la période mentionnée à l'alinéa précédent, une nouvelle
 liste électorale est établie. La liste est établie par le maire, assisté de la
-commission administrative prévue au septième alinéa de l'article L. 513-3, à
-partir des déclarations nominatives qui lui sont directement adressées par les
-employeurs et les salariés involontairement privés d'emplois concernés".
+commission administrative prévue à l'article L. 513-3 à partir des déclarations
+nominatives mentionnées au même article".

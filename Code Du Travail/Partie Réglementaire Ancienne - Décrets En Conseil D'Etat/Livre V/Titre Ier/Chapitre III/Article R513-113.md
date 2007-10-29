@@ -1,7 +1,8 @@
 Article R513-113
 ----
-Le pourvoi en cassation est formé dans les dix jours suivant la notification de
-la décision du tribunal d'instance *délai*.
+Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à
+1008 du nouveau code de procédure civile. Le délai de pourvoi court à compter de
+la notification du jugement. Le pourvoi est suspensif.
 
-Les dispositions des articles R. 15-1 à R. 15-6 du code électoral sont
-applicables.
+Les parties sont dispensées du ministère d'avocat au Conseil d'Etat et à la Cour
+de cassation.

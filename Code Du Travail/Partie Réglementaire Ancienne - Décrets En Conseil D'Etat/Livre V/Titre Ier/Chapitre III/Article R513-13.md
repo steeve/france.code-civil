@@ -1,7 +1,6 @@
 Article R513-13
 ----
-Dans les entreprises ou les établissements occupant habituellement plus de dix
-salariés *effectif*, l'employeur dresse un procès-verbal des conditions dans
-lesquelles a été organisée la consultation prévue à l'article R. 513-12. Ce
-procès-verbal, qui mentionne la date à laquelle les déclarations ont été
-envoyées au centre de traitement, est affiché dans les lieux de travail.
+Les conjoints collaborateurs des personnes mentionnées au deuxième alinéa du III
+de l'article L. 513-1 à qui ceux-ci demandent de se substituer à eux en vue de
+l'inscription sur les listes électorales attestent avoir reçu mandat de
+celles-ci.

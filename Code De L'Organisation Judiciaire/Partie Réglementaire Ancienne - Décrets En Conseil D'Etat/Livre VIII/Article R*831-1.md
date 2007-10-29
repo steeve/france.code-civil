@@ -1,18 +1,17 @@
 Article R*831-1
 ----
-Les dispositions applicables au secrétariat-greffe des conseils de prud'hommes
-sont fixées par les articles R. 512-18 à R. 512-35 du Code du travail, qui sont
-ainsi rédigés :
+Les dispositions applicables au greffe des conseils de prud'hommes sont fixées
+par les articles R. 512-18 à R. 512-35 du Code du travail, qui sont ainsi
+rédigés :
 
 "Art. R. 512-18 :
 
-Chaque conseil de prud'hommes comporte un secrétariat-greffe".
+Chaque conseil de prud'hommes comporte un greffe".
 
 "Art. R. 512-19 :
 
 Le premier président de la cour d'appel fixe, après avis du président du conseil
-de prud'hommes, les jours et heures d'ouverture au public du
-secrétariat-greffe".
+de prud'hommes, les jours et heures d'ouverture au public du greffe".
 
 "Art. R. 512-20 :
 
@@ -26,8 +25,8 @@ chacun des présidents de ces conseils."
 
 "Art. R. 512-21 :
 
-Le greffier en chef administre le personnel du secrétariat-greffe. Il le
-répartit et l'affecte dans les différents services du conseil".
+Le greffier en chef administre le personnel du greffe. Il le répartit et
+l'affecte dans les différents services du conseil".
 
 "Art. R. 512-22 :
 
@@ -68,8 +67,8 @@ d'appel".
 "Art. R. 512-27 :
 
 Selon les besoins du service, le greffier en chef peut désigner sous sa
-responsabilité un ou plusieurs agents du secrétariat-greffe pour exercer partie
-des fonctions qui lui sont attribuées aux articles précédents".
+responsabilité un ou plusieurs agents du greffe pour exercer partie des
+fonctions qui lui sont attribuées aux articles précédents".
 
 "Art. R. 512-28 :
 
@@ -82,20 +81,20 @@ ne peut le faire le président de la juridiction, désigne l'un des greffiers en
 chef adjoints pour assurer la suppléance ou l'intérim.
 
 A défaut de greffier en chef adjoint, un chef de service ou un autre agent du
-secrétariat-greffe est désigné dans les mêmes conditions".
+greffe est désigné dans les mêmes conditions".
 
 "Art. R. 512-29 :
 
 Les greffiers en chef adjoints assistent le greffier en chef.
 
-Ils peuvent diriger plusieurs services du secrétariat-greffe ou contrôler
-l'activité de tout ou partie du personnel".
+Ils peuvent diriger plusieurs services du greffe ou contrôler l'activité de tout
+ou partie du personnel".
 
 "Art. R. 512-30 :
 
-Les chefs de service de secrétariat-greffe sont placés à la tête d'un ou de
-plusieurs services. Ils assistent le greffier en chef en l'absence de greffier
-en chef adjoint"
+Les chefs de service de greffe sont placés à la tête d'un ou de plusieurs
+services. Ils assistent le greffier en chef en l'absence de greffier en chef
+adjoint"
 
 "Art. R. 512-31 :
 
@@ -108,16 +107,16 @@ fonctions de greffier en chef".
 
 "Art. R. 512-32 :
 
-Les greffiers en chef adjoints, les chefs de service de secrétariat-greffe et
-les fonctionnaires du corps des secrétaires-greffiers exercent, dans
-l'affectation qui leur est donnée par le greffier en chef, les attributions
-confiées à celui-ci par l'article R. 512-24".
+Les greffiers en chef adjoints, les chefs de service de greffe et les
+fonctionnaires du corps des secrétaires-greffiers exercent, dans l'affectation
+qui leur est donnée par le greffier en chef, les attributions confiées à
+celui-ci par l'article R. 512-24".
 
 "Art. R. 512-33 :
 
 Des personnels appartenant aux catégories C et D et, le cas échéant, des
 auxilaires et des vacataires, concourent au fonctionnement des différents
-services des secrétariats-greffes.
+services des greffes.
 
 Ces personnels peuvent, à titre exceptionnel et après avoir prêté le serment
 prévu à l'article 34 du décret n° 79-1071 du 12 décembre 1979, être chargés des
@@ -126,9 +125,9 @@ copies".
 
 "Art. R. 512-34 :
 
-Selon les besoins du service, les agents des secrétariats-greffes peuvent être
-délégués dans les services administratifs d'un autre conseil de prud'hommes du
-ressort de la même cour d'appel.
+Selon les besoins du service, les agents des greffes peuvent être délégués dans
+les services administratifs d'un autre conseil de prud'hommes du ressort de la
+même cour d'appel.
 
 Cette délégation est prononcée par décision des chefs de cour après consultation
 du président du conseil de prud'hommes, du vice-président et du greffier en
