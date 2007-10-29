@@ -25,7 +25,9 @@ fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou
 moyens, fabriqués ou en cours de fabrication, portant atteinte aux mesures
 techniques et aux informations mentionnées respectivement aux articles L. 331-5
 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement
-utilisés ;
+utilisés ; il peut également ordonner la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer illicitement les oeuvres, ainsi
+que de tout document s'y rapportant ;
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou
 diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit, effectuée en
@@ -36,13 +38,17 @@ et L. 331-22 ;
 4° La suspension, par tout moyen, du contenu d'un service de communication au
 public en ligne portant atteinte à l'un des droits de l'auteur, y compris en
 ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre
-l'accès. Dans ce cas, le délai prévu à l'article L. 332-2 est réduit à quinze
-jours.
+l'accès. Le délai dans lequel la mainlevée ou le cantonnement des effets de
+cette mesure peuvent être demandés par le défendeur est fixé par voie
+réglementaire ;
+
+5° La saisie réelle des oeuvres illicites ou produits soupçonnés de porter
+atteinte à un droit d'auteur, ou leur remise entre les mains d'un tiers afin
+d'empêcher leur introduction ou leur circulation dans les circuits commerciaux ;
 
 Le président du tribunal de grande instance peut, dans les mêmes formes,
-ordonner les mesures prévues aux 1° à 4° à la demande des titulaires de droits
+ordonner les mesures prévues aux 1° à 5° à la demande des titulaires de droits
 voisins définis au livre II.
 
 Le président du tribunal de grande instance peut, dans les ordonnances prévues
-ci-dessus, ordonner la constitution préalable par le saisissant d'un
-cautionnement convenable.
+ci-dessus, ordonner la constitution préalable de garanties par le saisissant.

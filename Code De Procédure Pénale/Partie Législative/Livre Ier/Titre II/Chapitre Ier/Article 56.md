@@ -43,7 +43,7 @@ personnes intéressées, autoriser leur dépôt à la Caisse des dépôts et
 consignations ou à la Banque de France.
 
 Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés
-en euros contrefaits, l'officier de police judiciaire doit transmettre, pour
+en euros contrefaisants, l'officier de police judiciaire doit transmettre, pour
 analyse et identification, au moins un exemplaire de chaque type de billets ou
 pièces suspectés faux au centre d'analyse national habilité à cette fin. Le
 centre d'analyse national peut procéder à l'ouverture des scellés. Il en dresse

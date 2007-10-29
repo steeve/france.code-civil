@@ -26,3 +26,8 @@ créer un danger pour les personnes ou les biens deviennent propriété de l'Eta
 sous réserve des droits des tiers, dès que la décision de non-restitution ne
 peut plus être contestée, ou dès que le jugement ou l'arrêt de non-restitution
 est devenu définitif.
+
+Le procureur de la République peut ordonner la destruction des biens meubles
+saisis dont la conservation n'est plus nécessaire à la manifestation de la
+vérité, lorsqu'il s'agit d'objets qualifiés par la loi de dangereux ou
+nuisibles, ou dont la détention est illicite.

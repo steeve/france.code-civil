@@ -1,11 +1,11 @@
 Article 28-1
 ----
-I. - Des agents des douanes de catégories A et B, spécialement désignés par
-arrêté des ministres chargés de la justice et du budget, pris après avis
-conforme d'une commission dont la composition et le fonctionnement sont
-déterminés par décret en Conseil d'Etat, peuvent être habilités à effectuer des
-enquêtes judiciaires sur réquisition du procureur de la République ou sur
-commission rogatoire du juge d'instruction.
+I.-Des agents des douanes de catégories A et B, spécialement désignés par arrêté
+des ministres chargés de la justice et du budget, pris après avis conforme d'une
+commission dont la composition et le fonctionnement sont déterminés par décret
+en Conseil d'Etat, peuvent être habilités à effectuer des enquêtes judiciaires
+sur réquisition du procureur de la République ou sur commission rogatoire du
+juge d'instruction.
 
 Ces agents ont, pour l'exercice des missions prévues par le présent article,
 compétence sur l'ensemble du territoire national.
@@ -25,15 +25,14 @@ du code de la défense ;
 
 5° Les infractions prévues par les articles 324-1 à 324-9 du code pénal ;
 
-6° Les infractions prévues aux articles L. 716-9 à L. 716-11 du code de la
-propriété intellectuelle ;
+6° Les infractions prévues au code de la propriété intellectuelle ;
 
 7° Les infractions connexes aux infractions visées aux 1° à 6°.
 
 Toutefois, sous réserve des dispositions du II, ils n'ont pas compétence en
 matière de trafic de stupéfiants.
 
-II. - Pour la recherche et la constatation des infractions prévues par les
+II.-Pour la recherche et la constatation des infractions prévues par les
 articles 222-34 à 222-40 du code pénal et des infractions qui leur sont
 connexes, le procureur de la République ou le juge d'instruction
 territorialement compétent peut constituer des unités temporaires composées
@@ -45,9 +44,9 @@ Les unités temporaires agissent sous la direction du procureur de la Républiqu
 ou du juge d'instruction mandant, conformément aux dispositions du présent code.
 Elles ont compétence sur toute l'étendue du territoire national.
 
-III. - Abrogé.
+III. (Abrogé).
 
-IV. - Les agents des douanes désignés dans les conditions prévues au I doivent,
+IV.-Les agents des douanes désignés dans les conditions prévues au I doivent,
 pour mener des enquêtes judiciaires et recevoir des commissions rogatoires, y
 être habilités personnellement en vertu d'une décision du procureur général.
 
@@ -58,18 +57,18 @@ des conditions fixées par décret en Conseil d'Etat.
 Dans le mois qui suit la notification de la décision de suspension ou de retrait
 de l'habilitation, l'agent concerné peut demander au procureur général de
 rapporter cette décision. Le procureur général doit statuer dans un délai d'un
-mois. A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
+mois.A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
 partir du rejet de la demande, l'agent concerné peut former un recours devant la
 commission prévue à l'article 16-2. La procédure applicable devant cette
 commission est celle prévue par l'article 16-3 et ses textes d'application.
 
-V. - Pour l'exercice des missions mentionnées aux I et II, les agents des
-douanes sont placés sous la direction du procureur de la République, sous la
+V.-Pour l'exercice des missions mentionnées aux I et II, les agents des douanes
+sont placés sous la direction du procureur de la République, sous la
 surveillance du procureur général et sous le contrôle de la chambre de
 l'instruction du siège de leur fonction dans les conditions prévues par les
 articles 224 à 230.
 
-VI. - Lorsque, sur réquisition du procureur de la République, les agents des
+VI.-Lorsque, sur réquisition du procureur de la République, les agents des
 douanes mentionnés aux I et II procèdent à des enquêtes judiciaires, il est fait
 application des articles 54 (deuxième et troisième alinéas), 55-1, 56, 57 à 62,
 63 à 67, 75 à 78.
@@ -95,11 +94,11 @@ Par dérogation à la règle fixée au 2 de l'article 343 du code des douanes,
 l'action pour l'application des sanctions fiscales peut être exercée par le
 ministère public, en vue de l'application des dispositions du présent article.
 
-VII. - Les agents des douanes mentionnés aux I et II sont placés sous la
-direction administrative d'un magistrat de l'ordre judiciaire selon des
-modalités fixées par décret en Conseil d'Etat.
+VII.-Les agents des douanes mentionnés aux I et II sont placés sous la direction
+administrative d'un magistrat de l'ordre judiciaire selon des modalités fixées
+par décret en Conseil d'Etat.
 
-VIII. - Les agents de l'administration des douanes mentionnés aux I et II ne
+VIII.-Les agents de l'administration des douanes mentionnés aux I et II ne
 peuvent, à peine de nullité, exercer d'autres attributions ou accomplir d'autres
 actes que ceux prévus par le présent code dans le cadre des faits dont ils sont
 saisis par l'autorité judiciaire.
