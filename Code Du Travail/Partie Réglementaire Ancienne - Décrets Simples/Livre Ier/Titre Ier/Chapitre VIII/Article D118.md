@@ -28,9 +28,27 @@ d'apprentissage par apprenti perçue par les centres de formation d'apprentis et
 les sections d'apprentissage dans la région métropolitaine où ce montant est le
 plus faible est retenu comme dénominateur de ce quotient.
 
-II. - Les recettes attribuées à la seconde section du Fonds de développement et
-de modernisation de l'apprentissage en application de l'article L. 118-2-3 sont
-réparties entre les fonds régionaux de l'apprentissage et de la formation
-professionnelle continue par arrêté du ministre chargé de la formation
-professionnelle en fonction des engagements financiers pris par l'Etat dans les
-contrats d'objectifs et de moyens prévus à l'article L. 118-1.
+II. - Une partie des ressources de la seconde section du Fonds national de
+développement et de modernisation de l'apprentissage est affectée au financement
+des actions arrêtées en application des contrats d'objectifs et de moyens
+mentionnés à l'article L. 118-1 et répartie par arrêté du ministre chargé de la
+formation professionnelle entre les fonds régionaux de l'apprentissage et de la
+formation professionnelle continue, en fonction des engagements financiers pris
+par le président du conseil régional et le représentant de l'Etat dans la
+région, après visa du trésorier-payeur général de la région, dans le cadre de
+ces contrats.
+
+Une partie des ressources de la seconde section du Fonds national de
+développement et de modernisation de l'apprentissage est affectée au financement
+des actions de développement et de modernisation de l'apprentissage arrêtées
+dans le cadre des conventions portant création de centres de formation
+d'apprentis à recrutement national en application de l'article L. 116-2 et
+répartie par arrêté du ministre chargé de la formation professionnelle entre les
+organismes gestionnaires signataires de ces conventions, en fonction des
+engagements financiers pris dans le cadre de ces conventions par le ministre
+signataire de la convention de création du centre et par le ministre chargé de
+la formation professionnelle.
+
+Une partie des ressources de la seconde section du Fonds national de
+développement et de modernisation de l'apprentissage est affectée au financement
+des actions nationales de communication et de promotion de l'apprentissage.
