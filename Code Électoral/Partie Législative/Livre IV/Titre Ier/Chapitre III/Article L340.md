@@ -14,9 +14,10 @@ régional visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11 m
 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même
 article.
 
-Pendant la durée de leurs fonctions, le Médiateur de la République et le
-Défenseur des enfants ne peuvent être candidats à un mandat de conseiller
-régional s'ils n'exerçaient le même mandat antérieurement à leur nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur
+des enfants et le Contrôleur général des lieux de privation de liberté ne
+peuvent être candidats à un mandat de conseiller régional s'ils n'exerçaient le
+même mandat antérieurement à leur nomination.
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers
 régionaux.
