@@ -26,10 +26,11 @@ Servitude de passage sur le littoral instituée en application des articles L.
 
 c) Eaux.
 
-Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement
-ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes
-instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les
-conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
+Servitudes prévues aux articles L. 215-4 et L. 215-5 (2bis) du code de
+l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les
+servitudes instituées en application du décret n° 59-96 du 7 janvier 1959
+validées dans les conditions prévues au IV de l'article L. 211-7 du code de
+l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des
 articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
@@ -79,7 +80,7 @@ Sites inscrits ;
 Sites classés ;
 
 Zones de protection des sites créées en application de l'article 17 de la loi du
-2 mai 1930 modifiée (3).
+2 mai 1930 modifiée (3) .
 
 c) patrimoine architectural et urbain.
 
@@ -161,7 +162,7 @@ rural (5) ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux
 d'assainissement des terres par le drainage instituées en application des
-articles 135 à 138 du code rural (6).
+articles 135 à 138 du code rural (6) .
 
 D. - Communications.
 
@@ -169,7 +170,7 @@ a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28
 du code du domaine public fluvial et de la navigation intérieure et par
-l'article 424 du code rural (7).
+l'article 424 du code rural (7) .
 
 b) Navigation maritime.
 
@@ -203,7 +204,7 @@ communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés
 limitrophes des routes express et des déviations d'agglomérations en application
-des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10).
+des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10) .
 
 e) Circulation aérienne.
 
@@ -283,7 +284,7 @@ Servitudes relatives aux cimetières instituées par :
 
 L'article L. 361-1 du code des communes (11) ;
 
-L'article L. 361-4 du code des communes (12).
+L'article L. 361-4 du code des communes (12) .
 
 b) Etablissements conchylicoles.
 
@@ -317,3 +318,7 @@ du code de l'environnement ;
 
 Plans de prévention des risques technologiques établis en application de
 l'article L. 515-15 du code de l'environnement.
+
+Servitudes d'utilité publique instituées en application de l'article 31 de la
+loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en
+matière nucléaire.
