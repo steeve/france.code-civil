@@ -62,4 +62,11 @@ b) des contrats de crédit-bail conclus en application des dispositions de
 l'article L. 34-7 du code précité ;
 
 16° pour la publication de chaque déclaration établie pour l'application des
-articles L. 526-1 à L. 526-3 du code de commerce.
+articles L. 526-1 à L. 526-3 du code de commerce ;
+
+17° Pour l'inscription des avenants prévus par l'article 59 de l'ordonnance n°
+2006-346 du 23 mars 2006 relative aux sûretés ;
+
+18° Pour l'inscription des transformations prévues par le III de l'article 10 de
+la loi n° 2007-212 du 20 février 2007 portant diverses dispositions intéressant
+la Banque de France.
