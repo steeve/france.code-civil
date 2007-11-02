@@ -469,8 +469,7 @@ b) Autres travaux de recherche visés au même décret (D).
 minérales ou fossiles non visées à l'article 2 du code minier et contenues dans
 les fonds marins du domaine public (A).
 
-5.2.1.0. Effluents radioactifs provenant d'une installation nucléaire de base
-(INB) (A).
+5.2.1.0. (Rubrique supprimée)
 
 5.2.2.0. Entreprises hydrauliques soumises à la loi du 16 octobre 1919 relative
 à l'utilisation de l'énergie hydraulique (A).
