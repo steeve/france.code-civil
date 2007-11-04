@@ -6,8 +6,7 @@ La date des élections aux conseils régionaux de l'ordre des infirmiers ainsi q
 les modalités de vote sont fixées par le conseil national.
 
 Ces informations sont publiées par les conseils régionaux par voie de presse
-dans au moins un journal professionnel à diffusion nationale et un journal à
-diffusion régionale trois mois au moins avant la date prévue pour les élections.
+trois mois au moins avant la date prévue pour les élections.
 
 Les élections des membres des conseils régionaux ont lieu dans les conditions
 fixées aux articles D. 4311-59 à D. 4311-70.
