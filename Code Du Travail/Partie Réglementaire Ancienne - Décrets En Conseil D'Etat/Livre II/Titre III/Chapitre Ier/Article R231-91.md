@@ -1,15 +1,30 @@
 Article R231-91
 ----
-La manipulation d'appareils de radiologie industrielle ne peut être confiée qu'à
-des personnes titulaires d'un certificat d'aptitude. Toutefois, le directeur
-régional du travail, de l'emploi et de la formation professionnelle ou le chef
-de service régional de l'inspection du travail, de l'emploi et de la politique
-sociale agricole peut autoriser des personnes n'étant pas titulaires de ce
-certificat à manipuler des générateurs électriques de rayons X utilisés à poste
-fixe.
+I. - Les appareils de radiologie industrielle figurant sur une liste fixée par
+une décision de l'Autorité de sûreté nucléaire homologuée par les ministres
+chargés du travail et de l'agriculture ne peuvent être manipulés que par des
+personnes titulaires d'un certificat d'aptitude.
 
-Un arrêté des ministres chargés du travail et de l'agriculture, pris après avis
-de l'Institut de radioprotection et de sûreté nucléaire, définit la liste des
-appareils pour lesquels la manipulation requiert un certificat d'aptitude, les
-conditions de sa délivrance ainsi que les conditions dans lesquelles une
-dérogation peut être éventuellement accordée.
+Cette liste tient compte de la nature de l'activité exercée, des
+caractéristiques et, le cas échéant, des modalités de mise en oeuvre de
+l'appareil.
+
+Ce certificat d'aptitude est délivré par l'Institut de radioprotection et de
+sûreté nucléaire.
+
+II. - Un arrêté des ministres chargés du travail et de l'agriculture, pris après
+avis de l'Autorité de sûreté nucléaire et de l'Institut de radioprotection et de
+sûreté nucléaire, détermine :
+
+1° Le contenu et la durée de la formation des travailleurs concernés, en tenant
+compte de la nature de l'activité exercée et des caractéristiques des appareils
+utilisés ;
+
+2° La qualification des personnes chargées de la formation ;
+
+3° Les modalités de contrôle des connaissances ;
+
+4° Les conditions de délivrance et de renouvellement du certificat mentionné au
+I ;
+
+5° La durée de validité de ce certificat.

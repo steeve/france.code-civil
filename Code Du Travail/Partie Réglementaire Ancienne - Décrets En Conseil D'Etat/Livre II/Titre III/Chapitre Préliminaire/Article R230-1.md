@@ -26,3 +26,10 @@ ainsi que du médecin du travail.
 Il est également tenu, sur leur demande, à la disposition de l'inspecteur ou du
 contrôleur du travail ou des agents des services de prévention des organismes de
 sécurité sociale et des organismes mentionnés au 4° de l'article L. 231-2.
+
+En outre, pour ce qui concerne les résultats des évaluations relatives aux
+risques liés à l'exposition des travailleurs aux rayonnements ionisants et pour
+les installations et activités dont ils ont respectivement la charge, il est
+tenu à la disposition des inspecteurs de la radioprotection mentionnés à
+l'article L. 1333-17 du code de la santé publique et des agents mentionnés à
+l'article L. 1333-18 du même code.

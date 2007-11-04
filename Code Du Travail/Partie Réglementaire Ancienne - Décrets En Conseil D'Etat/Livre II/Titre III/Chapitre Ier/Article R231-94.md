@@ -1,10 +1,18 @@
 Article R231-94
 ----
-I. - Tout travailleur intervenant en zone contrôlée fait l'objet d'un suivi par
-dosimétrie opérationnelle. La personne compétente en radioprotection, mentionnée
-à l'article R. 231-106, communique périodiquement, sous leur forme nominative, à
-l'Institut de radioprotection et de sûreté nucléaire, les résultats de la
-dosimétrie opérationnelle pour chaque travailleur exposé.
+I. - Tout travailleur intervenant en zone contrôlée ou sur les lieux de travail
+des établissements mentionnés au deuxième alinéa du II de l'article R. 231-73
+fait l'objet, du fait de l'exposition externe, d'un suivi par dosimétrie
+opérationnelle.
+
+Lorsque l'exposition est liée à la radioactivité naturelle mentionnée à la
+sous-section 7, le suivi dosimétrique est assuré selon les modalités définies
+par l'arrêté prévu à l'article R. 231-116-1.
+
+La personne compétente en radioprotection, mentionnée à l'article R. 231-106,
+communique périodiquement, sous leur forme nominative, à l'Institut de
+radioprotection et de sûreté nucléaire, les résultats de la dosimétrie
+opérationnelle pour chaque travailleur exposé.
 
 II. - Sous leur forme nominative, les résultats de la dosimétrie opérationnelle
 sont communiqués au travailleur concerné ainsi qu'au médecin désigné à cet effet
@@ -35,9 +43,9 @@ fixées à l'article R. 231-76, il en informe immédiatement le chef
 d'établissement et le médecin du travail. Ce dernier en informe alors le salarié
 concerné.
 
-L'inspecteur du travail ou le contrôleur du travail, s'il en fait la demande, a
-accès, sans limitation de durée, aux résultats nominatifs de la dosimétrie
-opérationnelle.
+L'inspecteur du travail ou le contrôleur du travail ainsi que les inspecteurs et
+agents mentionnés à l'article R. 231-111, s'ils en font la demande, ont accès
+aux résultats nominatifs de la dosimétrie opérationnelle.
 
 III. - Au titre des mesures d'évaluation et de prévention prévues au II de
 l'article L. 230-2, le chef d'établissement peut, sous une forme excluant toute

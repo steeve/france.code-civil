@@ -5,7 +5,8 @@ techniques, notamment en matière d'organisation du travail et de conditions de
 travail, nécessaires pour assurer la prévention des accidents du travail et des
 maladies professionnelles susceptibles d'être causés par l'exposition aux
 rayonnements ionisants résultant des activités ou des interventions mentionnées
-au I de l'article R. 231-73.
+au I de l'article R. 231-73 ainsi que de celles mentionnées au deuxième alinéa
+du II de l'article R. 231-73.
 
 II. - Lorsque le chef de l'entreprise utilisatrice fait intervenir une
 entreprise extérieure ou un travailleur non salarié, il assure la coordination
@@ -18,7 +19,7 @@ sont transmises par les chefs des entreprises extérieures en application de
 l'article R. 237-4. Il transmet les consignes particulières applicables en
 matière de radioprotection dans l'établissement aux chefs des entreprises
 extérieures qui les portent à la connaissance des personnes compétentes en
-radioprotection qu'ils ont, le cas échéant, désignées.
+radioprotection qu'ils ont désignées.
 
 Chaque chef d'entreprise est responsable de l'application des mesures de
 prévention nécessaires à la protection de son personnel et, notamment, de la
@@ -31,8 +32,8 @@ entreprises extérieures ou les travailleurs non salariés concernant la mise à
 disposition des appareils et des équipements de protection individuelle ainsi
 que des instruments de mesures de l'exposition individuelle.
 
-III. - Le travailleur non salarié exerçant une activité visée au III de
-l'article R. 231-73 met en oeuvre les mesures de protection vis-à-vis de
-lui-même comme des autres personnes susceptibles d'être exposées à des
-rayonnements ionisants par son activité. A cet effet, il prend les dispositions
-nécessaires afin d'être suivi médicalement.
+III. - Le travailleur non salarié exerçant une activité visée au IV de l'article
+R. 231-73 met en oeuvre les mesures de protection vis-à-vis de lui-même comme
+des autres personnes susceptibles d'être exposées à des rayonnements ionisants
+par son activité. A cet effet, il prend les dispositions nécessaires afin d'être
+suivi médicalement.

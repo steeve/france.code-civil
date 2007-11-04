@@ -19,18 +19,20 @@ limites fixées au II de l'article R. 231-76. Son accès est réservé aux perso
 ne doivent pas être incluses dans la zone contrôlée.
 
 A l'intérieur de la zone contrôlée et lorsque l'exposition est susceptible de
-dépasser certains niveaux fixés, compte tenu notamment des débits de dose et de
-la contamination radioactive, par arrêté des ministres chargés de l'industrie,
-du travail et de l'agriculture, pris après avis de l'Institut de radioprotection
-et de sûreté nucléaire, le chef d'établissement prend toutes dispositions pour
-que soient délimitées des zones spécialement réglementées ou interdites. Ces
-zones font l'objet d'une signalisation distincte et de règles d'accès
-particulières.
+dépasser certains niveaux fixés par une décision de l'Autorité de sûreté
+nucléaire prise en application du II de l'article R. 231-83, le chef
+d'établissement prend toutes dispositions pour que soient délimitées des zones
+spécialement réglementées ou interdites. Ces zones font l'objet d'une
+signalisation distincte et de règles d'accès particulières.
 
 II. - Le chef d'établissement s'assure que la zone contrôlée ou la zone
 surveillée est toujours convenablement délimitée. Il apporte, le cas échéant,
 les modifications nécessaires à la délimitation de la zone au vu des résultats
-des contrôles effectués en application des articles R. 231-84 et R. 231-86 et
+des contrôles effectués en application des articles R. 231-84 et R. 231-85 et
 après toute modification apportée à l'installation, à son mode d'utilisation ou
 à celui des sources, à l'équipement ou au blindage, ainsi qu'après tout incident
 ou tout accident.
+
+Il consigne, dans le document prévu à l'article R. 230-1, les résultats de
+l'évaluation des risques retenus pour délimiter les zones surveillées ou
+contrôlées.

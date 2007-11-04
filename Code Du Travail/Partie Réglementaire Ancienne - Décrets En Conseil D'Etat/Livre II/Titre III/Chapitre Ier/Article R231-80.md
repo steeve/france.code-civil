@@ -1,17 +1,16 @@
 Article R231-80
 ----
 I. - Les méthodes de calcul de la dose efficace et des doses équivalentes sont
-définies par arrêté des ministres chargés du travail, de la santé et de
-l'agriculture pris après avis de l'Institut de radioprotection et de sûreté
-nucléaire.
+définies par décision de l'Autorité de sûreté nucléaire homologuée par les
+ministres chargés du travail et de l'agriculture.
 
-Dans le cas particulier d'activités soumises à autorisation en application de
-l'article L. 1333-4 du code de la santé publique, et lorsque la connaissance des
-paramètres de l'exposition permet une estimation plus précise, d'autres méthodes
-peuvent être utilisées dès lors qu'elles ont été approuvées selon des modalités
-fixées par arrêté des ministres chargés du travail, de la santé et de
-l'agriculture, et qu'elles ont été soumises pour avis au comité d'hygiène, de
-sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
+Dans le cas particulier d'activités nucléaires définies au 1° du I de l'article
+R. 231-73, et lorsque la connaissance des paramètres de l'exposition permet une
+estimation plus précise, d'autres méthodes peuvent être utilisées dès lors
+qu'elles ont été approuvées par décision de l'Autorité de sûreté nucléaire
+homologuée par les ministres chargés du travail et de l'agriculture et qu'elles
+ont été soumises pour avis au comité d'hygiène, de sécurité et des conditions de
+travail ou, à défaut, aux délégués du personnel.
 
 II. - S'agissant de l'exposition externe, la mesure de référence utilisée pour
 vérifier le respect des valeurs limites repose sur la dosimétrie passive

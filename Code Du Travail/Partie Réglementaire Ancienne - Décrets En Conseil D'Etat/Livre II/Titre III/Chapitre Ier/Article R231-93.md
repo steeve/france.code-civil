@@ -1,27 +1,36 @@
 Article R231-93
 ----
-I. - Chaque travailleur appelé à intervenir en zone surveillée ou en zone
-contrôlée fait l'objet d'un suivi dosimétrique assuré par des mesures
-individuelles de l'exposition externe, appelées dosimétrie passive et, le cas
-échéant, par des mesures permettant d'évaluer l'exposition interne.
+I. - Chaque travailleur appelé à intervenir en zone surveillée, en zone
+contrôlée ou sur les lieux de travail des établissements mentionnés au deuxième
+alinéa du II de l'article R. 231-73 fait l'objet d'un suivi dosimétrique adapté
+au mode d'exposition :
 
-II. - Les mesures de l'exposition externe sont effectuées par l'Institut de
-radioprotection et de sûreté nucléaire ou un organisme agréé par arrêté des
-ministres chargés du travail et de l'agriculture.
+1° Lorsque l'exposition est externe, le suivi dosimétrique est assuré par des
+mesures individuelles, appelées dosimétrie passive ;
+
+2° Lorsque l'exposition est interne, le suivi dosimétrique est assuré par des
+mesures d'anthroporadiométrie ou des analyses de radio-toxicologie ;
+
+3° Lorsque l'exposition est liée à la radioactivité naturelle mentionnée à la
+sous-section 7, le suivi dosimétrique est assuré selon les modalités définies
+par l'arrêté prévu à l'article R. 231-116-1.
+
+II. - Les mesures ou les calculs de l'exposition externe sont effectués par
+l'Institut de radioprotection et de sûreté nucléaire ou un organisme agréé par
+l'Autorité de sûreté nucléaire.
 
 Les mesures de l'exposition interne sont effectuées par l'un des organismes
 suivants :
 
-- l'Institut de radioprotection et de sûreté nucléaire ;
+1° L'Institut de radioprotection et de sûreté nucléaire ;
 
-- un organisme agréé par arrêté des ministres chargés du travail et de
-l'agriculture ;
+2° Un organisme agréé par l'Autorité de sûreté nucléaire ;
 
-- le service médical du travail ;
+3° Le service de santé au travail ;
 
-- un laboratoire d'analyses médicales autorisé à fonctionner en application de
-l'article L. 6211-2 du code de la santé publique et agréé par arrêté des
-ministres chargés du travail, de la santé et de l'agriculture.
+4° Un laboratoire d'analyses de biologie médicale autorisé à fonctionner en
+application de l'article L. 6211-2 du code de la santé publique et agréé par
+l'Autorité de sûreté nucléaire.
 
 III. - Sous leur forme nominative, les résultats du suivi dosimétrique et les
 doses efficaces reçues sont communiqués au travailleur concerné ainsi qu'au
@@ -32,7 +41,7 @@ Ils sont également communiqués au médecin du travail dont il relève et, le c
 échéant, au médecin du travail de l'établissement dans lequel il intervient. Au
 vu de ces résultats, le médecin du travail peut prescrire, au titre de la
 surveillance médicale, les examens qu'il estime nécessaires et, en cas
-d'exposition interne, des examens anthropogammamétriques ou des analyses
+d'exposition interne, des examens anthroporadiométriques ou des analyses
 radiotoxicologiques et peut proposer au chef d'établissement des mesures
 individuelles au titre de l'article L. 241-10-1.
 
@@ -50,8 +59,9 @@ sont confiés, des doses dépassant les valeurs limites fixées à l'article R.
 231-76, elle en informe immédiatement le chef d'établissement et le médecin du
 travail. Ce dernier en informe alors le salarié concerné.
 
-L'inspecteur ou le contrôleur du travail peut demander communication des doses
-efficaces reçues sous leur forme nominative.
+L'inspecteur ou le contrôleur du travail ainsi que les inspecteurs et agents
+mentionnées à l'article R. 231-111, s'ils en font la demande, ont accès, sous
+leur forme nominative, aux doses efficaces reçues.
 
 IV. - En cas de dépassement de l'une des valeurs limites d'exposition fixées aux
 articles R. 231-76 et R. 231-77, le médecin du travail et l'employeur en sont
