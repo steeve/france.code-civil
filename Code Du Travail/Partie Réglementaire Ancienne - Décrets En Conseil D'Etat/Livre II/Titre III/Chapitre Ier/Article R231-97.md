@@ -20,6 +20,5 @@ travailleurs et leur répartition dans l'organisme ;
 nucléaire les mesures à prendre pour remédier à toute défectuosité et en
 prévenir un éventuel renouvellement ;
 
-5° Procéder ou faire procéder par un organisme de contrôle agréé à un contrôle
-technique de radioprotection des postes de travail dans les conditions prévues
-aux articles R. 231-84 et R. 231-86.
+5° Faire procéder aux contrôles prévus au III de l'article R. 231-84 et au III
+de l'article R. 231-85.

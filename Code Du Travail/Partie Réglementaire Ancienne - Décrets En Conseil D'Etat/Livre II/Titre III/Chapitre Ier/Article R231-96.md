@@ -5,7 +5,10 @@ Dans le cas où l'une des limites fixées aux articles R. 231-76 et R. 231-77 a
 d'hygiène, de sécurité et des conditions de travail ou, à défaut, les délégués
 du personnel ainsi que l'inspecteur du travail, en précisant les causes
 présumées, les circonstances et les mesures envisagées pour éviter son
-renouvellement.
+renouvellement. Il en informe également, selon le cas, l'Autorité de sûreté
+nucléaire, dans les conditions prévues à l'article R. 231-105-1, ou le délégué à
+la sûreté nucléaire et à la radioprotection pour les activités et installations
+intéressant la défense.
 
 Le médecin du travail prend toute disposition qu'il estime utile. Toute
 exposition ultérieure du travailleur concerné requiert son avis.
