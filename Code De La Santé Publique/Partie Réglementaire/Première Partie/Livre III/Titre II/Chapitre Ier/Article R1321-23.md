@@ -34,7 +34,7 @@ selon des modalités fixées par un arrêté des ministres chargés de l'intéri
 de la santé.
 
 Pour les eaux conditionnées, les dispositions applicables sont celles des
-articles R. 1322-30 et R. 1322-43 à R. 1322-44-1. Pour les eaux de source et les
-eaux conditionnées rendues potables par traitements, le laboratoire mentionné au
-1° de l'article R. 1322-44 est agréé dans les conditions prévues à l'article R.*
-1321-21.
+articles R. 1322-29, R. 1322-30 et R. 1322-43 à R. 1322-44-1. Pour les eaux de
+source et les eaux conditionnées rendues potables par traitements, le
+laboratoire mentionné au 1° de l'article R. 1322-44 est agréé dans les
+conditions prévues à l'article R.* 1321-21.

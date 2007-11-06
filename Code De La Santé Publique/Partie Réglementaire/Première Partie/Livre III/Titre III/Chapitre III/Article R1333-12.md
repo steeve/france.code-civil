@@ -1,35 +1,41 @@
 Article R1333-12
 ----
-Les dispositions du présent article s'appliquent aux effluents et déchets
-provenant :
+Les effluents et les déchets contaminés par les radionucléides, ou susceptibles
+de l'être du fait d'une activité nucléaire, de quelque nature qu'elle soit,
+doivent être collectés, traités ou éliminés, en tenant compte des
+caractéristiques et des quantités de ces radionucléides, du risque d'exposition
+encouru ainsi que des exutoires retenus pour leur élimination. Une décision de
+l'Autorité de sûreté nucléaire, homologuée par les ministres chargés de la santé
+et de l'environnement, fixe les règles techniques auxquelles doit satisfaire
+l'élimination des effluents et déchets provenant :
 
-- de toutes les activités nucléaires destinées à la médecine, à l'art dentaire,
-à la biologie humaine ou à la recherche biomédicale et vétérinaire ;
+1° De toutes les activités nucléaires destinées à la médecine, à la biologie
+humaine ou à la recherche biomédicale ;
 
-- de toute autre activité nucléaire, à l'exception de celles exercées dans les
-installations nucléaires de base définies dans le décret n° 63-1228 du 11
-décembre 1963 relatif aux installations nucléaires de base et le décret n°
-2001-592 du 5 juillet 2001 relatif à la sûreté et à la radioprotection des
-installations et activités nucléaires intéressant la défense, dans les
-installations classées pour la protection de l'environnement et dans les
-installations soumises à autorisation en application de l'article L. 83 du code
-minier.
+2° De toute autre activité nucléaire, à l'exception de celles exercées :
 
-Tout projet de rejet des effluents liquides et gazeux ainsi que des déchets
-contaminés par des radionucléides, ou susceptibles de l'être du fait de
-l'activité nucléaire, doit faire l'objet d'un examen et d'une approbation, dans
-des conditions prévues par arrêté interministériel en fonction du risque
-d'exposition encouru. La collecte, le traitement et l'élimination de ces
-effluents et déchets obéissent à des règles techniques établies par arrêté des
-ministres chargés de l'environnement et de la santé. Ces règles tiennent compte
-des caractéristiques et des quantités de radionucléides détenus et éliminés,
-ainsi que des exutoires retenus pour leur élimination. L'élimination des
-effluents et de ces déchets en dehors d'installations ou d'ouvrages autorisés à
-les recevoir est interdite, sauf si des dispositions particulières sont prévues
-pour organiser et contrôler sur place la décroissance radioactive des
-radionucléides détenus avant leur élimination.
+a) Dans les installations nucléaires de base mentionnées au III de l'article 28
+de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la
+sécurité en matière nucléaire ;
+
+b) Dans les installations et activités nucléaires intéressant la défense
+mentionnées au III de l'article 2 de la même loi ;
+
+c) Dans les installations classées pour la protection de l'environnement
+soumises à autorisation en application des articles L. 511-1 à L. 517-2 du code
+de l'environnement ;
+
+d) Dans les installations soumises à autorisation en application de l'article 83
+du code minier.
+
+Pour les installations mentionnées aux a à d du 2°, ces règles sont fixées par
+les réglementations particulières qui leur sont applicables.
 
 Lorsque l'activité nucléaire est soumise à autorisation en application des
-dispositions de la section III, son titulaire doit tenir à disposition du public
-un inventaire des effluents et des déchets éliminés, en précisant les exutoires
-retenus. Cet inventaire doit être mis à jour chaque année.
+dispositions de la section 3 du présent chapitre, tout projet de rejet des
+effluents liquides et gazeux ainsi que d'élimination des déchets contaminés par
+des radionucléides, ou susceptibles de l'être du fait de l'activité nucléaire,
+doit faire l'objet d'un examen et d'une approbation dans le cadre de ladite
+autorisation. Le titulaire de l'autorisation doit tenir à la disposition du
+public un inventaire des effluents et des déchets éliminés, en précisant les
+exutoires retenus. Cet inventaire doit être mis à jour chaque année.
