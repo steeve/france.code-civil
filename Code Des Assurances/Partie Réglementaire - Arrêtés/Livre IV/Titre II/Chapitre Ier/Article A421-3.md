@@ -18,6 +18,5 @@ l'article R. 421-27 :
 
 - taux réduit : 5 % ;
 
-Contribution des assurés au titre du 5° de l'article R. 421-27 :
-
-0,1 % des primes.
+Contribution des assurés au titre du 5° de l'article R. 421-27 : 0,6 % des
+primes (1).
