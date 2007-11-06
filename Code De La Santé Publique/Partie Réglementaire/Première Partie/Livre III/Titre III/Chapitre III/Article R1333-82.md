@@ -10,4 +10,5 @@ l'exposition, selon les modalités définies en application de l'article R.
 L'efficacité de l'intervention est mesurée par différence entre ces bilans
 dosimétriques et les bilans analogues établis par les départements ministériels
 compétents et les organismes d'expertise placés sous leur tutelle en supposant
-une absence d'intervention.
+une absence d'intervention. Ces bilans sont transmis pour avis à l'Autorité de
+sûreté nucléaire.

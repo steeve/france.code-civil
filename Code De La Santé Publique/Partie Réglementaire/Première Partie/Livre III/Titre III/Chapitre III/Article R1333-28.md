@@ -1,15 +1,17 @@
 Article R1333-28
 ----
-La demande d'autorisation mentionnée à l'article R. 1333-27, ou son
-renouvellement, doit être présentée par le chef d'établissement ou son préposé,
-et doit être cosignée par la personne physique qui sera le responsable direct de
-l'activité nucléaire envisagée. Les signataires doivent veiller au respect des
-obligations que comporte l'autorisation.
+La demande d'autorisation ou de renouvellement d'autorisation est adressée, sous
+pli recommandé avec demande d'avis de réception, ou déposée contre récépissé à
+l'Autorité de sûreté nucléaire.
 
-La première demande d'autorisation ne peut être examinée que si elle est
-accompagnée d'un dossier justificatif contenant les informations prévues aux 1°,
-2° et, le cas échéant, 4° de l'article R. 1333-20. Pour les autorisations
-comportant l'utilisation, en dehors de tout établissement, de radionucléides,
-produits, dispositifs ou appareils en contenant, le dossier doit également
-contenir la description des conditions de transport, d'utilisation et de
-stockage.
+Le dossier est réputé complet si, dans un délai de trois mois à compter de sa
+réception, l'Autorité de sûreté nucléaire n'a pas sollicité la fourniture
+d'informations ou de documents complémentaires. Lorsque l'Autorité de sûreté
+nucléaire demande des informations ou des documents complémentaires, le délai
+prévu au présent article est suspendu jusqu'à réception de ces informations ou
+documents.
+
+L'Autorité de sûreté nucléaire peut solliciter, préalablement à la délivrance de
+l'autorisation, l'avis de l'Institut de radioprotection et de sûreté nucléaire,
+de l'Agence française de sécurité sanitaire des produits de santé ou d'un autre
+organisme.

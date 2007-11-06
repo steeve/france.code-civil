@@ -1,9 +1,12 @@
 Article R1333-31
 ----
-L'autorité qui délivre l'autorisation notifie sa décision dans un délai maximum
-de six mois à compter de la date à laquelle le dossier est réputé complet.
-L'absence de réponse dans ce délai vaut rejet de la demande. Elle peut requérir
-du demandeur toutes informations complémentaires nécessaires à l'instruction de
-la demande. Le délai prévu au présent article est alors suspendu jusqu'à
-réception de ces informations. L'autorisation n'est accordée qu'après réception
-des informations nouvelles.
+Pour les activités nucléaires mettant en oeuvre des radionucléides en sources
+radioactives non scellées, l'autorisation prise en application de la présente
+section fixe en outre :
+
+1° Les prescriptions techniques applicables aux déchets et effluents produits en
+vue de leur élimination dans les installations autorisées ;
+
+2° Si nécessaire, la fréquence selon laquelle il est procédé à une estimation
+des doses auxquelles la population est soumise suivant les modalités prévues aux
+articles R. 1333-10 et R. 1333-11.

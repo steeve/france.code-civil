@@ -23,5 +23,5 @@ A l'issue d'un acte de médecine nucléaire à visée diagnostique ou thérapeut
 le médecin réalisateur fournit au patient ou à son représentant légal toutes
 informations adaptées et nécessaires pour limiter l'exposition aux rayonnements
 ionisants des personnes qui seront en contact avec lui. Ces informations
-comportent des éléments obligatoires définis par arrêté du ministre chargé de la
-santé.
+comportent des éléments obligatoires définis par décision de l'Autorité de
+sûreté nucléaire, homologuée par le ministre chargé de la santé.

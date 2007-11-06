@@ -7,8 +7,8 @@ l'organisation de la sécurité civile, à la protection de la forêt contre
 l'incendie et à la prévention des risques majeurs.
 
 Il fait appel aux moyens d'évaluation mis à sa disposition par les départements
-ministériels compétents et les organismes placés sous leur tutelle, tant au
-niveau local que national.
+ministériels compétents et les organismes placés sous leur tutelle, et par
+l'Autorité de sûreté nucléaire, tant au niveau local que national.
 
 Ceux-ci lui fournissent, dans les meilleurs délais, les informations et les
 avis, notamment les informations concernant la répartition dans le temps et dans
@@ -24,6 +24,7 @@ définies en application de l'article R. 1333-10.
 Le préfet dirige les opérations de secours et assure l'information des
 populations. Pour satisfaire aux obligations internationales en matière de
 notification, d'échange d'informations et d'assistance, il informe les ministres
-chargés de la sûreté nucléaire et de la radioprotection de ses décisions. En
-liaison avec les départements ministériels concernés, il met en oeuvre, le cas
-échéant, les accords bilatéraux avec les Etats frontaliers.
+chargés de la sûreté nucléaire et de la radioprotection et l'Autorité de sûreté
+nucléaire de ses décisions. En liaison avec les départements ministériels
+concernés, il met en oeuvre, le cas échéant, les accords bilatéraux avec les
+Etats frontaliers.

@@ -4,12 +4,12 @@ Pour une intervention en situation d'urgence radiologique identifiée, des
 niveaux de référence d'exposition individuelle, constituant des repères
 pratiques, exprimés en termes de dose efficace, sont fixés comme suit :
 
-- la dose efficace susceptible d'être reçue par les personnels du groupe 1,
+-la dose efficace susceptible d'être reçue par les personnels du groupe 1,
 pendant la durée de leurs missions, est de 100 millisieverts. Elle est fixée à
 300 millisieverts lorsque l'intervention est destinée à protéger des personnes ;
 
-- la dose efficace susceptible d'être reçue par les personnels du groupe 2 est
-de 10 millisieverts.
+-la dose efficace susceptible d'être reçue par les personnels du groupe 2 est de
+10 millisieverts.
 
 Un dépassement des niveaux de référence peut être admis exceptionnellement, afin
 de sauver des vies humaines, pour des intervenants volontaires et informés du

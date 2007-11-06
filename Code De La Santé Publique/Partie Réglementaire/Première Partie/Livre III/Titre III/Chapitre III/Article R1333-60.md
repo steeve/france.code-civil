@@ -8,5 +8,5 @@ des fins médicales.
 
 La formation, les missions et les conditions d'intervention de la personne
 spécialisée en radiophysique médicale sont définies par arrêté du ministre
-chargé de la santé selon le type d'installation, la nature des actes pratiqués
-et le niveau d'exposition.
+chargé de la santé, après avis de l'Autorité de sûreté nucléaire selon le type
+d'installation, la nature des actes pratiqués et le niveau d'exposition.

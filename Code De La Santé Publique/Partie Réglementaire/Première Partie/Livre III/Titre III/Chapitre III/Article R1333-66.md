@@ -14,5 +14,5 @@ de l'article L. 1333-1.
 Le médecin réalisateur de l'acte indique sur un compte rendu les informations au
 vu desquelles il a estimé l'acte justifié, les procédures et les opérations
 réalisées ainsi que toute information utile à l'estimation de la dose reçue par
-le patient. Un arrêté du ministre chargé de la santé précise la nature de ces
-informations.
+le patient. Une décision de l'Autorité de sûreté nucléaire, homologuée par le
+ministre chargé de la santé précise la nature de ces informations.

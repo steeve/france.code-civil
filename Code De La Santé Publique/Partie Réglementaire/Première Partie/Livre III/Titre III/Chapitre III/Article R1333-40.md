@@ -1,5 +1,7 @@
 Article R1333-40
 ----
-La suspension de l'activité prévue à l'article L. 1333-5 est prononcée par
-l'autorité qui a délivré l'autorisation ou, lorsque cette activité relève d'une
-simple déclaration, par le préfet du département.
+Tout changement de personne compétente en radioprotection, ainsi que toute autre
+modification concernant l'équipement technique des installations où sont
+utilisés les radionucléides et les dispositifs émetteurs de rayonnements
+ionisants, doit faire l'objet d'une information de l'Autorité de sûreté
+nucléaire.

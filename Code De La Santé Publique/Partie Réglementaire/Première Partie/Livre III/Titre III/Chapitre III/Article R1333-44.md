@@ -1,21 +1,20 @@
 Article R1333-44
 ----
-Un arrêté du ministre chargé de la santé et du ministre chargé du travail
-définit les modalités d'application de la présente sous-section et en
-particulier celles concernant :
+I.-Sans préjudice de la réglementation concernant le transport des marchandises
+dangereuses, les entreprises réalisant des transports de matières radioactives
+sont soumises, pour l'acheminement sur le territoire national, à une déclaration
+ou à une autorisation de l'Autorité de sûreté nucléaire. Une décision de
+l'Autorité de sûreté nucléaire, homologuée par les ministres chargés de la
+sûreté nucléaire et des transports, fixe notamment les caractéristiques des
+matières radioactives relevant soit de l'autorisation, soit de la déclaration,
+la composition du dossier de demande d'autorisation et des éléments joints à la
+déclaration, les modalités d'instruction et les conditions de renouvellement, de
+retrait et de suspension.
 
-1° Les qualifications et niveaux de formation requis pour les personnes
-mentionnées à l'article R. 1333-29 ;
+Toutefois, les transports assurés par des navires pénétrant dans les eaux
+territoriales mais ne faisant pas escale dans un port français sont exemptés de
+déclaration et d'autorisation.
 
-2° Les modèles des dossiers qui accompagnent les demandes d'autorisation
-mentionnées aux articles R. 1333-18, R. 1333-24 et R. 1333-27 ;
-
-3° La liste des informations et des documents qui doivent être joints à la
-demande de renouvellement de l'autorisation mentionnée à l'article R. 1333-35 ;
-
-4° Les conditions particulières d'emploi applicables à certains dispositifs
-contenant des radionucléides compte tenu des modes d'exposition et des
-caractéristiques de ces derniers ;
-
-5° Les modalités d'agrément des organismes agréés mentionnés à l'article R.
-1333-43 ainsi que les modalités des contrôles prévues au même article.
+II.-Les autorisations de transport aérien de matières radioactives délivrées en
+application de l'article R. 330-1-1 du code de l'aviation civile tiennent lieu
+de l'autorisation prévue au présent article.

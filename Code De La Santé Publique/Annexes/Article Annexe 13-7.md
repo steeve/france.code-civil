@@ -20,6 +20,11 @@ L'unité d'activité d'une source radioactive est le becquerel (Bq).
 Becquerel (unité d'activité) : un becquerel (Bq) représente une transition
 nucléaire spontanée par par seconde, avec émission d'un rayonnement ionisant.
 
+Défaillant : fournisseur qui fait ou a fait l'objet d'une liquidation judiciaire
+et qui, en conséquence, ne peut remplir l'obligation de reprise des sources
+radioactives scellées périmées ou sans usage fixée aux articles L. 1333-7 et R.
+1333-53-1.
+
 Dose absorbée (D) : énergie absorbée par unité de masse
 
 D = dE/dm
@@ -104,9 +109,10 @@ HT(t) est le débit de dose équivalente à l'organe ou au tissu T au moment t ;
 
 t la période sur laquelle l'intégration est effectuée.
 
-Dans HT(t) t est indiqué en années. Si la valeur de t n'est pas donnée, elle est
-implicitement, pour les adultes, de cinquante années. L'unité de dose
-équivalente engagée est le sievert (Sv).
+Dans HT(t), t est indiqué en années. Si la valeur de t n'est pas donnée, elle
+est implicitement, pour les adultes, de cinquante années et, pour les enfants,
+du nombre d'années entre l'âge au moment de l'incorporation et l'âge de 70 ans.
+L'unité de dose équivalente engagée est le sievert (Sv).
 
 Exposition : fait d'être exposé à des rayonnements ionisants.
 
@@ -124,6 +130,9 @@ L'exposition globale : exposition du corps entier considérée comme homogène ;
 
 L'exposition partielle : exposition portant essentiellement sur une partie de
 l'organisme ou sur un ou plusieurs organes ou tissus.
+
+Fournisseur : toute personne qui fournit ou met à disposition des sources de
+rayonnements ionisants.
 
 Gray (unité de dose absorbée) : un gray (Gy) correspond à un joule par
 kilogramme (1 Gy = 1 J kg-1).
@@ -169,6 +178,20 @@ radioactive.
 Source radioactive scellée : source dont la structure ou le conditionnement
 empêche, en utilisation normale, toute dispersion de matières radioactives dans
 le milieu ambiant.
+
+Source radioactive orpheline : une source dont le niveau d'activité au moment de
+sa découverte est supérieur aux seuils d'exemption définis en annexe 13-8 et qui
+n'est plus sous le contrôle d'une personne déclarée ou autorisée à la détenir :
+
+- soit du fait qu'elle a été abandonnée, perdue, égarée ou volée ;
+
+- soit du fait qu'elle n'a jamais fait l'objet d'une telle déclaration ou
+autorisation.
+
+Source radioactive de haute activité : une source radioactive scellée contenant
+un radionucléide dont l'activité au moment de la fabrication ou, si ce moment
+n'est pas connu, au moment de la première mise sur le marché est égale ou
+supérieure au niveau d'activité défini dans le tableau C de l'annexe 13-8.
 
 Substance radioactive : toute substance qui contient un ou plusieurs
 radionucléides dont l'activité ou la concentration ne peut être négligée du

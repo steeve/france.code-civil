@@ -1,31 +1,30 @@
 Article R1333-26
 ----
-Les dispositions de la présente sous-section définissent les modalités
-d'instruction des autorisations requises, en application de l'article L. 1333-4,
-pour les activités nucléaires autres que celles destinées à la médecine, à l'art
-dentaire, à la biologie humaine et à la recherche biomédicale, et notamment pour
-:
+I.-Dans le cas où la demande porte sur une utilisation des rayonnements
+ionisants à des fins médicales, le dossier de demande d'autorisation est
+complété par des informations d'ordre médical sur la justification de la
+nouvelle application et sur ses conséquences éventuelles pour le patient et les
+personnes de son entourage.
 
-1° La fabrication de radionucléides ;
+Dans le cas où la demande porte sur une utilisation des rayonnements ionisants à
+des fins de recherche biomédicale, le dossier de demande d'autorisation est
+complété par des informations indiquant les modalités suivant lesquelles sont
+appliquées les dispositions prévues à l'article R. 1333-65.
 
-2° La fabrication de produits ou dispositifs en contenant ;
+II.-Lorsque la demande porte sur la distribution, l'importation ou l'exportation
+de sources radioactives, de produits ou dispositifs en contenant, le dossier de
+demande d'autorisation est complété par :
 
-3° L'importation, l'exportation de radionucléides, de produits ou dispositifs en
-contenant ;
+1° Des informations complémentaires sur le fabricant, le cas échéant, son
+mandataire et ses fournisseurs et, dans le cas de sources radioactives scellées,
+sur les modalités prévues pour la reprise des sources et les garanties
+financières qui y sont associées ;
 
-4° La distribution de radionucléides, de produits ou dispositifs en contenant ;
+2° Les guides et manuels d'utilisation et de maintenance ;
 
-5° L'utilisation d'appareils émettant des rayons X ou de sources radioactives et
-l'emploi d'accélérateurs autres que les microscopes électroniques ;
+3° Les résultats des essais effectués pour évaluer leurs performances et la
+sécurité.
 
-6° L'irradiation de produits de quelque nature que ce soit, y compris les
-denrées alimentaires.
-
-Sont exclues du domaine d'application de cette sous-section les activités
-nucléaires soumises à autorisation en application de l'article L. 83 du code
-minier ou des décrets n° 63-1228 du 11 décembre 1963 relatif aux installations
-nucléaires et n° 2001-592 du 5 juillet 2001 relatif à la sûreté et à la
-radioprotection des installations et activités nucléaires intéressant la
-défense, ainsi que les activités nucléaires mentionnées aux 1° , 2° , 5° et 6°
-du présent article lorsqu'elles relèvent du régime d'autorisation défini aux
-articles L. 511-1 à L. 517-2 du code de l'environnement.
+Les informations mentionnées aux 2° et 3° sont également jointes à toute demande
+d'autorisation de distribution d'appareils électriques émettant des rayonnements
+ionisants.

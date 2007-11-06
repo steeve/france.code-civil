@@ -23,17 +23,3 @@ chacun des nucléides, de la quantité totale présente par la valeur indiquée 
 le tableau A est inférieure ou égale à 1. Cette règle d'addition s'applique
 également aux concentrations d'activités lorsque les différents nucléides
 concernés figurent dans le même tableau.
-
-
-Tableau A
-
-(Tableau non reproduit. Voir le fac-similé du JO n° 122 du 27 mai 2003 p. 37006
-à 37231).
-
-
-Tableau B
-
-Liste des nucléides en équilibre séculaire
-
-(Tableau non reproduit. Voir le fac-similé du JO n° 122 du 27 mai 2003 p. 37006
-à 37231).

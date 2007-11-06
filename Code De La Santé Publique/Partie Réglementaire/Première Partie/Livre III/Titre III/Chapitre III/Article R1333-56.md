@@ -15,9 +15,8 @@ médicale.
 
 La justification d'une exposition aux rayonnements ionisants à des fins
 médicales et médico-légales s'appuie soit sur les recommandations de pratique
-clinique de l'Agence nationale d'accréditation et d'évaluation en santé, soit
-sur l'avis concordant d'experts formulé dans les conditions prévues à l'article
-R. 1333-70.
+clinique de la Haute Autorité de santé, soit sur l'avis concordant d'experts
+formulé dans les conditions prévues à l'article R. 1333-70.
 
 Dans le cas où une exposition n'est habituellement pas justifiée au regard des
 recommandations ou avis mentionnés ci-dessus mais où elle paraît cependant
