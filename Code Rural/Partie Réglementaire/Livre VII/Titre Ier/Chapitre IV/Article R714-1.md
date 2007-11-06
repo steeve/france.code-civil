@@ -33,4 +33,6 @@ installations ;
 10° A la conduite des appareils fonctionnant en continu ;
 
 11° Au traitement et au transport des matières susceptibles d'altération très
-rapide.
+rapide ;
+
+12° Dans les jardineries et graineteries coopératives.
