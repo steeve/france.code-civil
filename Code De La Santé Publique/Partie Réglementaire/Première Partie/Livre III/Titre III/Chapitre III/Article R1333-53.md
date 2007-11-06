@@ -1,22 +1,25 @@
 Article R1333-53
 ----
-Un arrêté des ministres chargés de la santé et de l'environnement définit les
-modalités d'application des dispositions de la présente section et en
-particulier celles concernant :
+Au titre du présent article, est considéré comme fournisseur celui qui :
 
-1° L'enregistrement des radionucléides, produits ou dispositifs en contenant
-mentionnés aux articles R. 1333-47 à R. 1333-49 ;
+1° Distribue des sources radioactives scellées, des produits ou dispositifs en
+contenant à un détenteur ou utilisateur final ;
 
-2° Les règles de suivi des sources scellées ou non scellées et des produits ou
-dispositifs en contenant édictées à l'article R. 1333-50, compte tenu de leurs
-caractéristiques et de leur destination ;
+2° Importe, en vue de leur distribution à un détenteur ou utilisateur final ou
+pour son usage propre, des sources radioactives scellées, des produits ou
+dispositifs en contenant, acquis auprès d'une entreprise étrangère ne détenant
+pas d'autorisation en application de l'article L. 1333-4 du code de la santé
+publique.
 
-3° Les règles générales selon lesquelles la publicité prévue à l'article L.
-1333-14 peut être faite ainsi que les informations minimales qui doivent être
-portées sur les emballages de sources, de produits ou dispositifs en contenant,
-soumis on non à autorisation ;
+Avant toute importation, transfert entre Etats membres de la Communauté
+européenne, ou distribution de sources radioactives scellées ou de produits ou
+dispositifs en contenant, le fournisseur doit être en mesure de présenter la
+garantie financière prévue à l'article L. 1333-7. Les modalités de mise en
+oeuvre et d'acquittement de cette garantie sont fixées par l'arrêté prévu à
+l'article R. 1333-54-2, à concurrence du montant fixé conformément à l'article
+R. 1333-54.
 
-4° Les critères techniques sur lesquels reposent les dérogations prévues à
-l'article R. 1333-52 ;
-
-5° La reprise et l'élimination des sources prévues à l'article R. 1333-52.
+L'obligation du fournisseur de présenter une garantie financière dans les
+conditions fixées à l'alinéa précédent subsiste nonobstant la garantie
+financière dont pourraient bénéficier ces sources, produits ou dispositifs dans
+un autre Etat membre de la Communauté européenne.

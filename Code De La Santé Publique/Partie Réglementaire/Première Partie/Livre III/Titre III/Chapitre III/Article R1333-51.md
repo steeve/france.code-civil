@@ -1,8 +1,9 @@
 Article R1333-51
 ----
-La perte ou le vol de radionucléides sous forme de sources scellées ou non
-scellées, produits ou dispositifs en contenant, ainsi que tout fait susceptible
-d'engendrer une dissémination radioactive doivent être immédiatement déclarés au
-préfet du département du lieu de survenance de la perte ou du vol. Le préfet
-informe l'autorité qui a délivré l'autorisation et l'Institut de radioprotection
-et de sûreté nucléaire.
+Toute mesure appropriée doit être prise pour empêcher l'accès non autorisé aux
+sources radioactives, leur perte, leur vol ou les dommages par le feu ou l'eau
+qu'elles pourraient subir.
+
+Après tout événement susceptible d'avoir endommagé une source, notamment un
+incendie ou une inondation, le chef d'établissement fait procéder à une
+vérification de l'intégrité de chaque source.
