@@ -13,8 +13,9 @@ alinéa de l'article L. 512-3 du même code ;
 2° a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins
 soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail et dont les
 ressources déterminées dans les conditions prévues à l'article R. 351-5
-n'excèdent pas le plafond individuel prévu à l'article L. 815-8 du code de la
-sécurité sociale en vigueur au 31 décembre de l'année de référence ;
+n'excèdent pas le plafond individuel prévu à l'article L. 815-9 du code de la
+sécurité sociale en vigueur au 31 décembre de l'année de référence multiplié par
+1,25 ;
 
 b) Les ascendants, descendants ou collatéraux au deuxième ou au troisième degré
 du bénéficiaire ou de son conjoint qui sont atteints d'une infirmité entraînant
@@ -23,5 +24,6 @@ sont, compte tenu de leur handicap, dans l'impossibilité reconnue par la
 commission technique d'orientation et de reclassement professionnel, prévue par
 l'article L. 323-11 du code du travail, de se procurer un emploi et dont les
 ressources déterminées dans les conditions prévues à l'article R. 351-5
-n'excèdent pas le plafond individuel prévu à l'article L. 815-8 du code de la
-sécurité sociale en vigueur au 31 décembre de l'année de référence.
+n'excèdent pas le plafond individuel prévu à l'article L. 815-9 du code de la
+sécurité sociale en vigueur au 31 décembre de l'année de référence multiplié par
+1,25.
