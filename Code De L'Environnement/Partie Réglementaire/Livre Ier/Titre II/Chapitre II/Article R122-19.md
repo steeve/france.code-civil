@@ -10,7 +10,7 @@ II. - L'autorité administrative de l'Etat compétente en matière d'environneme
 mentionnée à l'article L. 122-7 est :
 
 1° Le ministre chargé de l'environnement pour les plans et documents entrant
-dans les catégories énumérées aux 1° et 9° de l'article R. 122-17 ;
+dans la catégorie énumérée au 9° de l'article R. 122-17 ;
 
 2° Le préfet de région pour les plans et documents entrant dans les catégories
 énumérées aux 7°, 8°, 12°, 13° et 14° de l'article R. 122-17 et le plan de
