@@ -63,8 +63,8 @@ articles R. 313-16, R. 313-17 et R. 313-18.
 
 4° Prêts à des sociétés coopératives de construction régies par le livre II,
 titre Ier, chapitre III, du présent code, ou à des sociétés immobilières créées
-par des sociétés de crédit immobilier réalisant des opérations définies à
-l'article R. 313-16.
+par des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la
+propriété réalisant des opérations définies à l'article R. 313-16.
 
 5° Prêts à des personnes physiques ou morales pour des opérations prévues au II
 de l'article R. 313-17.
@@ -81,14 +81,16 @@ prévues à l'article R. 313-17.
 d'autres associations à caractère professionnel ou interprofessionnel et à des
 chambres de commerce et d'industrie agréées pour collecter.
 
-9° Souscription ou achat d'actions de sociétés anonymes de crédit immobilier et
-d'organismes mentionnés au c du 2° de l'article R. 313-9, ou prêts et
-subventions à ces sociétés et organismes. Que ces sociétés et organismes soient
-ou non agréés pour collecter la participation des employeurs, les sociétés
-anonymes de crédit immobilier doivent utiliser les sommes provenant de celle-ci
-dans les conditions prévues à l'article R. 313-34 et les organismes mentionnés
-au c du 2° de l'article R. 313-9 selon les modalités fixées par l'article R.
-313-35.
+9° Souscription ou achat d'actions de sociétés anonymes coopératives d'intérêt
+collectif pour l'accession à la propriété ou prêts à ces sociétés, les sommes
+provenant de la participation des employeurs devant être utilisées dans les
+conditions prévues à l'article R.* 313-16.
+
+Souscription ou achat d'actions d'organismes mentionnés au c du 2° de l'article
+R.* 313-9 ou prêts et subventions à ces organismes, les sommes provenant de la
+participation des employeurs devant être utilisées par ces derniers, qu'ils
+soient ou non agréés pour collecter la participation, dans les conditions
+prévues à l'article R.* 313-35 ;
 
 10° Prêts à des collectivités territoriales en vue de la participation au
 financement d'opérations de construction, d'acquisition,
