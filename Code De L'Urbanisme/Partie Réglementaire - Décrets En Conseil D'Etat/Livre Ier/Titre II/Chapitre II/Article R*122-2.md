@@ -40,3 +40,10 @@ de la manière dont l'évaluation a été effectuée ;
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
 l'environnement figurant dans d'autres études, plans et documents.
+
+Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé
+valant schéma de mise en valeur de la mer, le rapport de présentation du schéma
+de cohérence territoriale décrit les conditions de l'utilisation de l'espace
+marin et terrestre du littoral, indique les perspectives d'évolution de ce
+milieu et explique les orientations retenues, en matière de développement, de
+protection et d'équipement.
