@@ -1,9 +1,7 @@
 Article R*510-6
 ----
-I. - Sont dispensées de l'agrément les opérations, autres que réalisées par un
-service de l'Etat ou par une personne publique ou privée soumise à son contrôle
-et dont l'activité ne s'exerce pas dans le secteur concurrentiel, qui répondent
-à l'une des conditions suivantes :
+Sont dispensées de l'agrément les opérations qui répondent à l'une des
+conditions suivantes :
 
 1. Lorsqu'elles sont situées :
 
@@ -101,20 +99,7 @@ technique, scientifique, d'enseignement ou de bureaux ;
 - 5 000 mètres carrés pour la construction de locaux destinés à un usage
 industriel sans utilisateur déterminé ou à un usage d'entrepôt.
 
-5. Lorsqu'elles portent sur le changement d'utilisateur ou d'utilisation de
-locaux, quelle que soit leur nature.
+5. Abrogé.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des
 résidences universitaires.
-
-II. - Les opérations réalisées par un service de l'Etat ou par une personne
-publique ou privée soumise à son contrôle et dont l'activité ne s'exerce pas
-dans le secteur concurrentiel sont dispensées d'agrément si elles répondent à
-l'une des conditions suivantes :
-
-1. Lorsqu'elles portent sur une surface hors oeuvre nette inférieure à 200
-mètres carrés ;
-
-2. Lorsqu'elles concernent des locaux des services déconcentrés de l'Etat à
-compétence départementale ou des locaux de services dont les activités ne
-s'exercent pas au-delà du département d'implantation.
