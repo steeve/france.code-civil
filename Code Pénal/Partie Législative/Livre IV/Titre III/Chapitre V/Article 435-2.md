@@ -1,20 +1,11 @@
 Article 435-2
 ----
-Pour l'application de la convention relative à la lutte contre la corruption
-impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires
-des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est
-puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait de proposer
-sans droit, à tout moment, directement ou indirectement, des offres, des
-promesses, des dons, des présents ou des avantages quelconques pour obtenir d'un
-fonctionnaire communautaire ou d'un fonctionnaire national d'un autre Etat
-membre de l'Union européenne ou d'un membre de la Commission des Communautés
-européennes, du Parlement européen, de la Cour de justice et de la Cour des
-comptes des Communautés européennes qu'il accomplisse ou s'abstienne d'accomplir
-un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa
-fonction, sa mission ou son mandat.
-
-Est puni des mêmes peines le fait de céder à une personne visée à l'alinéa
-précédent qui sollicite, sans droit, à tout moment, directement ou
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
+quiconque, de solliciter ou d'agréer, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des
-avantages quelconques pour accomplir ou s'abstenir d'accomplir un acte visé
-audit alinéa.
+avantages quelconques, pour lui-même ou pour autrui, afin d'abuser de son
+influence réelle ou supposée en vue de faire obtenir des distinctions, des
+emplois, des marchés ou toute autre décision favorable d'une personne
+dépositaire de l'autorité publique, chargée d'une mission de service public ou
+investie d'un mandat électif public au sein d'une organisation internationale
+publique.

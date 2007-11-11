@@ -1,17 +1,17 @@
-Article 435-4
+Article 435-10
 ----
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
 quiconque, de proposer, sans droit, à tout moment, directement ou indirectement,
 des offres, des promesses, des dons, des présents ou des avantages quelconques à
 une personne, pour elle-même ou pour autrui, afin qu'elle abuse de son influence
-réelle ou supposée en vue de faire obtenir des distinctions, des emplois, des
-marchés ou toute autre décision favorable d'une personne dépositaire de
-l'autorité publique, chargée d'une mission de service public ou investie d'un
-mandat électif public au sein d'une organisation internationale publique.
+réelle ou supposée en vue de faire obtenir toute décision ou avis favorable
+d'une personne visée à l'article 435-9, lorsqu'elle exerce ses fonctions au sein
+ou auprès d'une cour internationale ou lorsqu'elle est nommée par une telle
+cour.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui
 sollicite, à tout moment, directement ou indirectement, des offres, des
-promesses, des dons, des présents ou des avantages quelconques, pour elle-même
+promesses, des dons ou des présents ou des avantages quelconques, pour elle-même
 ou pour autrui, afin d'abuser de son influence réelle ou supposée en vue de
-faire obtenir des distinctions, des emplois, des marchés ou toute autre décision
-favorable d'une personne visée au premier alinéa.
+faire obtenir d'une personne visée au premier alinéa toute décision ou tout avis
+favorable.

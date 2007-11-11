@@ -1,0 +1,15 @@
+Article 434-9-1
+----
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
+quiconque, de solliciter ou d'agréer, à tout moment, directement ou
+indirectement, des offres, des promesses, des dons, des présents ou des
+avantages quelconques, pour lui-même ou pour autrui, afin d'abuser de son
+influence réelle ou supposée en vue de faire obtenir d'une des personnes visées
+à l'article 434-9 toute décision ou tout avis favorable.
+
+Est puni des mêmes peines le fait, par quiconque, à tout moment, de céder aux
+sollicitations prévues au premier alinéa ou de proposer, sans droit, directement
+ou indirectement, des offres, des promesses, des dons, des présents ou des
+avantages quelconques à une personne, pour elle-même ou pour autrui, afin
+qu'elle abuse de son influence réelle ou supposée en vue de faire obtenir d'une
+des personnes visées à l'article 434-9 une décision ou un avis favorable.
