@@ -7,3 +7,6 @@ lui permettant d'obtenir le paiement des dommages et intérêts qui lui ont ét�
 alloués et, s'il y a lieu, des démarches devant être effectuées pour saisir la
 commission d'indemnisation des victimes d'infractions ainsi que du délai dans
 lequel elles doivent intervenir.
+
+Le greffier informe également la partie civile de sa possibilité de saisir le
+juge délégué au victimes.
