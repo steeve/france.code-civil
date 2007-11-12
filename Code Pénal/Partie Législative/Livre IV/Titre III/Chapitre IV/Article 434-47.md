@@ -1,10 +1,9 @@
 Article 434-47
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux articles
-434-39 et 434-43.
-
-Les peines encourues par les personnes morales sont :
+Les personnes morales reconnues pénalement responsables, dans les conditions
+prévues à l'article 121-2, des infractions prévues au huitième alinéa de
+l'article 434-9, au deuxième alinéa de l'article 434-9-1 et aux articles 434-39
+et 434-43 encourent les peines suivantes :
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 ;
 

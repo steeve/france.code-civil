@@ -1,35 +1,11 @@
 Article 435-6
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux articles
-435-2, 435-3 et 435-4.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Pour une durée de cinq ans au plus :
-
-- l'interdiction d'exercer directement ou indirectement l'activité
-professionnelle ou sociale dans laquelle ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise ;
-
-- le placement sous surveillance judiciaire ;
-
-- la fermeture des établissements ou de l'un des établissements de l'entreprise
-ayant servi à commettre les faits incriminés ;
-
-- l'exclusion des marchés publics ;
-
-- l'interdiction de faire appel public à l'épargne ;
-
-- l'interdiction d'émettre des chèques autres que ceux qui permettent le retrait
-de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser
-des cartes de paiement ;
-
-3° La confiscation, suivant les modalités prévues par l'article 131-21, de la
-chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui
-en est le produit, à l'exception des objets susceptibles de restitution ;
-
-4° L'affichage ou la diffusion de la décision prononcée dans les conditions
-prévues par l'article 131-35.
+La poursuite des délits mentionnés aux articles 435-1 à 435-4 ne peut être
+engagée qu'à la requête du ministère public, sauf lorsque les offres, promesses,
+dons, présents ou avantages quelconques sont soit proposés ou accordés à une
+personne qui exerce ses fonctions dans un des Etats membres de l'Union
+européenne ou au sein ou auprès des Communautés européennes ou d'un organisme
+créé en application du traité sur l'Union européenne, soit sollicités ou agréés
+par une telle personne en vue de faire obtenir une décision favorable, ou
+d'accomplir ou de s'abstenir d'accomplir un acte de sa fonction ou facilité par
+ses fonctions.
