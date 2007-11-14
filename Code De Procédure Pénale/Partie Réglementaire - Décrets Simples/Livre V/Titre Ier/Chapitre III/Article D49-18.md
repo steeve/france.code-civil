@@ -22,3 +22,8 @@ Dès qu'il est rendu, le jugement est notifié au procureur de la République. U
 copie en est adressée au directeur du service pénitentiaire d'insertion et de
 probation et, lorsque le condamné est incarcéré, au chef de l'établissement
 pénitentiaire.
+
+En cas d'utilisation d'un moyen de communication audiovisuelle, lecture du
+dispositif du jugement est donnée au condamné par ce même procédé, et mention de
+cette formalité est portée sur les notes d'audience. Après l'audience, le
+jugement est notifié au condamné selon les modalités prévues au deuxième alinéa.
