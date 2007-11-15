@@ -1,10 +1,10 @@
 Article D147-36
 ----
 L'expertise prévue par l'article 723-31 peut ne pas être ordonnée si figure dans
-le dossier individuel du condamné une expertise datant de moins d'un an,
-ordonnée le cas échéant à l'occasion d'une demande de libération conditionnelle,
-et qui conclut à la dangerosité du condamné et d'où il ressort qu'il existe un
-risque de récidive paraissant avéré.
+le dossier individuel du condamné une expertise datant de moins de moins de deux
+ans, ordonnée le cas échéant à l'occasion d'une demande de libération
+conditionnelle, et qui conclut à la dangerosité du condamné et d'où il ressort
+qu'il existe un risque de récidive paraissant avéré.
 
 Toutefois, s'il s'agit d'une personne condamnée pour des faits commis avant le
 14 décembre 2005, elle peut demander une contre-expertise avant qu'il ne soit

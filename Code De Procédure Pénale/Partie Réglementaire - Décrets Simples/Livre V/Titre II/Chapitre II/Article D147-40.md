@@ -1,6 +1,8 @@
 Article D147-40
 ----
-Les dispositions du 3° de l'article 723-30 permettant le placement sous
-surveillance électronique mobile d'un condamné dans le cadre d'une surveillance
-judiciaire seront applicables à la date qui sera fixée par le décret pris en
-application de l'article 763-14.
+Au moins deux semaines avant la date de libération du condamné, une copie de
+tout ou partie du dossier individuel le concernant, comportant notamment la
+décision de placement sous surveillance judiciaire, est adressée au juge de
+l'application des peines du tribunal de grande instance dans le ressort duquel
+le condamné devra résider, afin de lui permettre de préparer la mise en oeuvre
+de la surveillance judiciaire.

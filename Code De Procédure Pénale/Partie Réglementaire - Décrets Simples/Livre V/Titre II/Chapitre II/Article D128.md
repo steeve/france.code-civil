@@ -14,4 +14,8 @@ au bénéfice de la libération conditionnelle, quels que soient leurs antécéd
 et la durée de l'incarcération à subir ;
 
 3° Les détenus remplissant les conditions de délai requises pour être admis à la
-semi-liberté.
+semi-liberté ;
+
+4° Les condamnés pouvant faire l'objet d'un placement extérieur sans
+surveillance du personnel pénitentiaire, en application des dispositions de
+l'article D. 136.
