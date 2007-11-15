@@ -3,12 +3,27 @@ Article R243-1
 Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en
 Nouvelle-Calédonie dans la rédaction suivante :
 
-"Art. R. 234-1. - Même en l'absence de tout signe d'ivresse manifeste, le fait
-de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par une
-concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre
-ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25
-milligramme par litre, sans atteindre les seuils fixés à l'article L. 234-1 est
-puni de l'amende prévue pour les contraventions de la quatrième classe."
+"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est
+puni de l'amende prévue pour les contraventions de la quatrième classe le fait
+de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+
+1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par
+litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à
+0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1,
+pour les véhicules de transport en commun ;
+
+2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par
+litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à
+0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1,
+pour les autres catégories de véhicules.
+
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux
+articles L. 325-1 à L. 325-3.
+
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt
+également la peine complémentaire de suspension du permis de conduire pour une
+durée de trois ans au plus, cette suspension pouvant être limitée à la conduite
+en dehors de l'activité professionnelle.
 
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par
 l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L. 234-9 sont

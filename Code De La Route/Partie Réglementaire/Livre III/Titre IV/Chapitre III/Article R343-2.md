@@ -3,28 +3,38 @@ Article R343-2
 Les articles R. 325-2 à R. 325-6 et R. 325-9 à R. 325-11 sont applicables à la
 Polynésie française dans la rédaction suivante :
 
-Art. R. 325-2. - L'immobilisation est l'obligation faite au conducteur ou au
+" Art. R. 325-2.-L'immobilisation est l'obligation faite au conducteur ou au
 propriétaire d'un véhicule, en cas d'infraction prévue à l'article R. 343-3, de
 maintenir ce véhicule sur place ou à proximité du lieu de constatation de
 l'infraction en se conformant aux règles relatives au stationnement.
 
-En cas d'absence du conducteur ou du propriétaire ou lorsque celui-ci refuse de
-déplacer son véhicule, l'immobilisation de ce véhicule peut être assurée par un
-moyen mécanique.
+En cas d'absence du conducteur ou lorsque celui-ci refuse de déplacer son
+véhicule, l'immobilisation de ce véhicule peut être assurée par un moyen
+mécanique.
 
 Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde
 juridique de son conducteur ou propriétaire.
 
-Art. R. 325-3. - L'immobilisation peut être prescrite par les officiers ou
-agents de police judiciaire habilités à constater les contraventions de police
-de la circulation routière lorsqu'ils constatent la nécessité de faire cesser
-sans délai une des infractions prévues à l'article R. 343-3.
+Le fait pour tout conducteur ou propriétaire d'un véhicule de transport de
+marchandises d'un poids total autorisé en charge excédant 3,5 tonnes ou d'un
+véhicule de transport en commun de contrevenir à l'obligation prévue au premier
+alinéa est puni de l'amende prévue pour les contraventions de la cinquième
+classe.
+
+Le fait pour tout conducteur ou propriétaire d'un autre véhicule de contrevenir
+à l'obligation prévue au premier alinéa est puni de l'amende prévue pour les
+contraventions de la quatrième classe.
+
+" Art. R. 325-3.-L'immobilisation peut être prescrite par le officiers ou agents
+de police judiciaire habilités à constater les contraventions de police de la
+circulation routière lorsqu'ils constatent la nécessité de faire cesser sans
+délai une des infractions prévues à l'article R. 343-3.
 
 L'immobilisation peut également être prescrite dans les conditions définies à
 l'alinéa précédent par les adjoints de sécurité ainsi que par les volontaires
 servant en qualité de militaires dans la gendarmerie.
 
-Art. R. 325-4. - Lorsque la décision d'immobilisation résulte de l'une des
+" Art. R. 325-4.-Lorsque la décision d'immobilisation résulte de l'une des
 situations visées aux 1°, 2° et 10° de l'article R. 343-3, le véhicule peut
 poursuivre sa route dès qu'un conducteur qualifié, proposé par le conducteur ou
 éventuellement par le propriétaire du véhicule, peut assurer la conduite de
@@ -35,7 +45,7 @@ peuvent prendre toute mesure destinée à placer le véhicule en stationnement
 régulier, au lieu qu'ils désignent, en faisant notamment appel à un conducteur
 qualifié.
 
-Art. R. 325-5. - Lorsque la décision d'immobilisation résulte d'une infraction
+" Art. R. 325-5.-Lorsque la décision d'immobilisation résulte d'une infraction
 aux règles concernant l'état ou l'équipement du véhicule, elle peut n'être
 rendue effective que dans un lieu où le conducteur du véhicule sera susceptible
 de trouver les moyens de faire cesser l'infraction.
@@ -48,17 +58,22 @@ Le conducteur peut également être autorisé à faire appel à un professionnel
 qualifié pour la prise en remorque de son véhicule en vue de sa réparation.
 L'immobilisation devient alors effective au lieu de réparation.
 
-Art. R. 325-6. - La décision d'immobilisation prise en vertu du 13° de l'article
+" Art. R. 325-6-La décision d'immobilisation prise en vertu du 13° de l'article
 R. 343-3 doit prescrire la présentation du véhicule à une visite technique dans
-les conditions fixées par délibération de l'assemblée de la Polynésie française.
+les conditions fixées par une décision du conseil des ministres de Polynésie
+française.
 
-Art. R. 325-9. - Lorsque l'infraction qui a motivé l'immobilisation n'a pas
-cessé au moment où l'agent quitte le lieu où le véhicule est immobilisé, l'agent
+" Art. R. 325-9-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé
+au moment où l'agent quitte le lieu où le véhicule est immobilisé, l'agent
 saisit l'officier de police judiciaire territorialement compétent en lui
-remettant soit la carte grise du véhicule et une fiche d'immobilisation, soit,
-le cas échéant, les pièces administratives nécessaires à la circulation du
-véhicule et une fiche d'immobilisation. Un double de cette fiche est remis au
-contrevenant.
+remettant soit la carte grise du véhicule s'il s'agit d'un véhicule dont le
+poids total autorisé en charge n'excède pas 3,5 tonnes et une fiche
+d'immobilisation, soit les pièces administratives nécessaires à la circulation
+du véhicule s'il s'agit d'un véhicule de transport de marchandises d'un poids
+total autorisé en charge excédant 3,5 tonnes ou de transport en commun et la
+fiche d'immobilisation.
+
+Un double de cette fiche est remis au contrevenant.
 
 La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation,
 l'infraction qui l'a motivée, les éléments d'identification du véhicule et de la
@@ -66,15 +81,15 @@ carte grise, les nom et adresse du contrevenant, les noms, qualités et
 affectations des agents qui la rédigent, et précise la résidence de l'officier
 de police judiciaire qualifié pour lever la mesure.
 
-Art. R. 325-10. - Le procès-verbal de l'infraction qui a motivé l'immobilisation
+" Art. R. 325-10.-Le procès-verbal de l'infraction qui a motivé l'immobilisation
 d'un véhicule est transmis dans les plus brefs délais au procureur de la
 République. Il relate de façon sommaire les circonstances et les conditions dans
 lesquelles la mesure a été prise.
 
-Art. R. 325-11. - I. - L'immobilisation ne peut être maintenue après que la
+" Art. R. 325-11.-I.-L'immobilisation ne peut être maintenue après que la
 circonstance qui l'a motivée a cessé.
 
-II. - Elle est levée :
+II.-Elle est levée :
 
 1° Par l'agent qui l'a prescrite s'il est encore présent lors de la cessation de
 l'infraction ;
@@ -86,14 +101,14 @@ carte grise ou les pièces mentionnées au même article et transmet au procureu
 de la République un exemplaire de la fiche d'immobilisation ou une copie
 conforme de cette fiche, comportant mention de la levée de la mesure.
 
-III. - Lorsque le conducteur du véhicule n'a pas justifié de la cessation de
+III.-Lorsque le conducteur du véhicule n'a pas justifié de la cessation de
 l'infraction dans un délai de quarante-huit heures, l'officier de police
 judiciaire peut transformer l'immobilisation en une mise en fourrière ; il joint
 alors à chacun des exemplaires de la procédure de mise en fourrière un
 exemplaire ou une copie conforme de la fiche d'immobilisation. L'officier de
 police judiciaire adresse ces documents au procureur de la République.
 
-IV. - Dans tous les cas, dès la cessation de l'infraction qui a motivé
+IV.-Dans tous les cas, dès la cessation de l'infraction qui a motivé
 l'immobilisation, le véhicule peut circuler entre le lieu d'immobilisation et la
 résidence de l'autorité désignée pour lever la mesure, sous couvert du double de
 la fiche d'immobilisation remise au conducteur.
