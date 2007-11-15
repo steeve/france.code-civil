@@ -7,4 +7,4 @@ et de faire au Gouvernement toute proposition utile.
 Il est consulté sur les programmes d'information, de prévention et d'éducation
 pour la santé, établis par le Gouvernement, et les organismes publics.
 
-Le conseil élabore chaque année un rapport qu'il rend public.
+Le conseil élabore tous les deux ans un rapport qu'il rend public.

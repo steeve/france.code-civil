@@ -20,8 +20,8 @@ l'exécution de la mesure suivant la nature de l'activité ou de la prise en
 charge sanitaire, et la personnalité du condamné.
 
 Il peut en outre subordonner l'octroi ou le maintien de la mesure à l'une ou
-plusieurs des obligations et interdictions mentionnées aux articles 132-44 et
-132-45 du code pénal.
+plusieurs des obligations et interdictions mentionnées aux articles 131-36-2,
+132-44, 132-45 et 132-45-1 du code pénal.
 
 L'employeur ou le directeur de l'établissement de formation ou de soins doit
 informer sans délai le représentant qualifié de l'administration pénitentiaire

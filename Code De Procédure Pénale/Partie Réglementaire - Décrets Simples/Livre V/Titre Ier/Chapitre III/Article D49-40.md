@@ -1,7 +1,7 @@
 Article D49-40
 ----
 Lorsque le juge ou le tribunal de l'application des peines accorde l'une des
-mesures mentionnées aux articles 712-6 ou 712-7, la mise à exécution de la
+mesures mentionnées aux articles 712-5,712-6 et 712-7, la mise à exécution de la
 mesure ne peut intervenir, avant l'expiration du délai de vingt-quatre heures à
 compter de la notification de la décision au magistrat du ministère public, en
 l'absence de visa de ce dernier indiquant qu'il ne fait pas appel ; si le

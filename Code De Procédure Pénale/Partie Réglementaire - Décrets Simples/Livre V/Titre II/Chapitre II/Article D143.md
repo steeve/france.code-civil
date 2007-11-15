@@ -23,4 +23,6 @@ conditionnelle a été accordée, soit à l'égard des détenus militaires ;
 5° Sorties pour la pratique d'activités culturelles ou sportives organisées ;
 
 6° Comparution soit devant une juridiction de l'ordre judiciaire, soit devant
-une juridiction ou un organisme d'ordre administratif.
+une juridiction ou un organisme d'ordre administratif ;
+
+7° Exercice par le condamné de son droit de vote.
