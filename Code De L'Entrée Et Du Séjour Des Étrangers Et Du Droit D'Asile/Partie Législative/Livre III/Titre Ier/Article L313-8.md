@@ -16,3 +16,7 @@ Etat membre s'il séjourne en France pour une durée inférieure ou égale à tr
 mois, pour autant qu'il dispose de ressources suffisantes. S'il séjourne en
 France pour une durée supérieure à trois mois, il doit justifier remplir les
 conditions définies au premier alinéa.
+
+Lorsque l'étranger mentionné au deuxième alinéa poursuit les mêmes travaux
+au-delà de trois mois, la condition prévue à l'article L. 311-7 n'est pas
+exigée.

@@ -1,7 +1,7 @@
 Article L514-1
 ----
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et dans la
-commune de Saint-Martin (Guadeloupe), les dispositions suivantes :
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à
+Saint-Martin, les dispositions suivantes :
 
 1° Si l'autorité consulaire le demande, la mesure de reconduite à la frontière
 ne peut être mise à exécution avant l'expiration du délai d'un jour franc à
@@ -13,5 +13,5 @@ administrative de reconduite à la frontière et qui défère cet acte au tribun
 administratif peut assortir son recours d'une demande de suspension de son
 exécution.
 
-En conséquence, les dispositions des articles L. 512-2 à L. 512-4 (1) ne sont
-pas applicables en Guyane ni dans la commune de Saint-Martin (Guadeloupe).
+En conséquence, les dispositions des articles L. 512-1 et L. 512-2 à L. 512-4 ne
+sont pas applicables en Guyane ni à Saint-Martin.

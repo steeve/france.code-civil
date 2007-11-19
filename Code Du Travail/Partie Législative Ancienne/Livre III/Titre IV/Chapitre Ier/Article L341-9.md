@@ -12,9 +12,9 @@ a) A l'entrée et au séjour d'une durée inférieure ou égale à trois mois de
 
 b) A l'accueil des demandeurs d'asile ;
 
-c) A l'introduction en France, au titre du regroupement familial ou en vue d'y
-effectuer un travail salarié, d'étrangers ressortissants de pays tiers à l'Union
-européenne ;
+c) A l'introduction en France, au titre du regroupement familial, du mariage
+avec un Français ou en vue d'y effectuer un travail salarié, d'étrangers
+ressortissants de pays tiers à l'Union européenne ;
 
 d) Au contrôle médical des étrangers admis à séjourner en France pour une durée
 supérieure à trois mois ;

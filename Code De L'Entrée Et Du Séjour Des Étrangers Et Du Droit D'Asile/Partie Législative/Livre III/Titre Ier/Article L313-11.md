@@ -60,7 +60,8 @@ française ainsi que de la nature de ses liens avec la famille restée dans le
 pays d'origine, sont tels que le refus d'autoriser son séjour porterait à son
 droit au respect de sa vie privée et familiale une atteinte disproportionnée au
 regard des motifs du refus, sans que la condition prévue à l'article L. 311-7
-soit exigée ;
+soit exigée. L'insertion de l'étranger dans la société française est évaluée en
+tenant compte notamment de sa connaissance des valeurs de la République ;
 
 8° A l'étranger né en France qui justifie par tout moyen y avoir résidé pendant
 au moins huit ans de façon continue et suivi, après l'âge de dix ans, une

@@ -1,7 +1,7 @@
 Article L111-10
 ----
 Chaque année, le Gouvernement dépose devant le Parlement un rapport sur les
-orientations pluriannuelles de la politique d'immigration.
+orientations pluriannuelles de la politique d'immigration et d'intégration.
 
 Ce rapport indique et commente :
 
@@ -28,9 +28,12 @@ contre les trafics de main-d'oeuvre étrangère ;
 h) Les actions entreprises avec les pays d'origine pour mettre en oeuvre une
 politique d'immigration fondée sur le codéveloppement et le partenariat ;
 
-i) Les actions entreprises au niveau national en vue de lutter contre les
-discriminations et de favoriser l'intégration des étrangers en situation
-régulière.
+i) Le nombre de contrats souscrits en application des articles L. 311-9 et L.
+311-9-1 ainsi que les actions entreprises au niveau national pour favoriser
+l'intégration des étrangers en situation régulière en facilitant notamment leur
+accès à l'emploi, au logement et à la culture ;
+
+j) Le nombre des acquisitions de la nationalité française.
 
 Ce rapport propose également des indicateurs permettant d'estimer le nombre
 d'étrangers se trouvant en situation irrégulière sur le territoire français.

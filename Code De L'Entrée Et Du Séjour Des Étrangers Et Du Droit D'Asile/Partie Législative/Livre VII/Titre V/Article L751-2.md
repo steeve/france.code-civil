@@ -16,14 +16,14 @@ qualifiées ;
 4° Les modalités de désignation et d'habilitation des agents mentionnés à
 l'article L. 723-4 ;
 
-5° La durée du mandat des membres de la Commission des recours des réfugiés ;
+5° La durée du mandat des membres de la Cour nationale du droit d'asile ;
 
 6° Les conditions d'exercice des recours prévus aux articles L. 731-2 et L.
 731-3 ainsi que les conditions dans lesquelles le président et les présidents de
-section de la commission des recours peuvent, après instruction, statuer par
-ordonnance sur les demandes qui ne présentent aucun élément sérieux susceptible
-de remettre en cause les motifs de la décision du directeur général de l'office
-;
+section de la Cour nationale du droit d'asile peuvent, après instruction,
+statuer par ordonnance sur les demandes qui ne présentent aucun élément sérieux
+susceptible de remettre en cause les motifs de la décision du directeur général
+de l'office ;
 
 7° Le délai prévu pour la délivrance du document provisoire de séjour mentionné
 à l'article L. 742-1 et permettant de déposer une demande d'asile ;
@@ -36,7 +36,7 @@ auprès de l'office, du nouveau document provisoire de séjour mentionné à
 l'article L. 742-1 ainsi que la nature et la durée de validité de ce document ;
 
 10° Le délai pour la délivrance du titre de séjour après la décision d'octroi
-par l'office ou la commission des recours du statut de réfugié ou de la
+par l'office ou la Cour nationale du droit d'asile du statut de réfugié ou de la
 protection subsidiaire ;
 
 11° Les délais dans lesquels l'office doit se prononcer lorsqu'il statue selon

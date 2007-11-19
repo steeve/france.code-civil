@@ -1,6 +1,6 @@
 Article L732-1
 ----
-La commission comporte des sections comprenant chacune :
+La Cour nationale du droit d'asile comporte des sections comprenant chacune :
 
 1° Un président nommé :
 

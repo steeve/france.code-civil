@@ -16,3 +16,6 @@ contrôlés à l'occasion du franchissement de la frontière en provenance d'un 
 tiers aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne
 remplissent pas les conditions d'entrée prévues à l'article 5 de cette
 convention ou à l'article L. 211-1.
+
+Il en est de même des bénéficiaires de l'aide au retour mentionnée au dernier
+alinéa du I de l'article L. 511-1.

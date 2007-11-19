@@ -2,7 +2,9 @@ Article L121-2
 ----
 Les ressortissants visés à l'article L. 121-1 qui souhaitent établir en France
 leur résidence habituelle se font enregistrer auprès du maire de leur commune de
-résidence dans les trois mois suivant leur arrivée.
+résidence dans les trois mois suivant leur arrivée. Les ressortissants qui n'ont
+pas respecté cette obligation d'enregistrement sont réputés résider en France
+depuis moins de trois mois.
 
 Ils ne sont pas tenus de détenir un titre de séjour. S'ils en font la demande,
 il leur est délivré un titre de séjour.

@@ -1,8 +1,11 @@
 Article L341-4
 ----
 Un étranger ne peut exercer une activité professionnelle salariée en France sans
-avoir obtenu au préalable l'autorisation mentionnée à l'article L. 341-2 et sans
-s'être fait délivrer un certificat médical.
+avoir obtenu au préalable l'autorisation mentionnée à l'article L. 341-2.
+
+L'autorisation de travail peut être retirée si l'étranger ne s'est pas fait
+délivrer un certificat médical dans les trois mois suivant la délivrance de
+cette autorisation.
 
 L'autorisation de travail peut être limitée à certaines activités
 professionnelles ou zones géographiques.
