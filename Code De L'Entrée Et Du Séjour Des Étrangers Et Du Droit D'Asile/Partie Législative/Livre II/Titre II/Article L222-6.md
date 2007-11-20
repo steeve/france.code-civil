@@ -3,8 +3,9 @@ Article L222-6
 L'ordonnance est susceptible d'appel devant le premier président de la cour
 d'appel ou son délégué. Celui-ci est saisi sans forme et doit statuer dans les
 quarante-huit heures de sa saisine. Par décision du premier président de la cour
-d'appel ou de son délégué, sur proposition de l'autorité administrative et avec
-le consentement de l'étranger, l'audience peut se dérouler avec l'utilisation de
+d'appel ou de son délégué, prise sur une proposition de l'autorité
+administrative à laquelle l'étranger dûment informé dans une langue qu'il
+comprend ne s'est pas opposé, l'audience peut se dérouler avec l'utilisation de
 moyens de télécommunication audiovisuelle dans les conditions prévues au
 troisième alinéa de l'article L. 222-4. Le droit d'appel appartient à
 l'intéressé, au ministère public et au représentant de l'Etat dans le

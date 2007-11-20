@@ -17,8 +17,9 @@ La carte porte la mention "salarié" lorsque l'activité est exercée pour une
 durée supérieure ou égale à douze mois. Elle porte la mention "travailleur
 temporaire" lorsque l'activité est exercée pour une durée déterminée inférieure
 à douze mois. Si la rupture du contrat de travail du fait de l'employeur
-intervient dans les trois mois précédant son renouvellement, une nouvelle carte
-lui est délivrée pour une durée d'un an ;
+intervient dans les trois mois précédant le renouvellement de la carte portant
+la mention "salarié", une nouvelle carte lui est délivrée pour une durée d'un an
+;
 
 2° A l'étranger qui vient exercer une profession commerciale, industrielle ou
 artisanale, à condition notamment qu'il justifie d'une activité économiquement
@@ -54,8 +55,10 @@ Elle porte la mention "travailleur saisonnier" ;
 5° A l'étranger détaché par un employeur établi hors de France lorsque ce
 détachement s'effectue entre établissements d'une même entreprise ou entre
 entreprises d'un même groupe, conformément au 2° du I de l'article L. 342-1 du
-code du travail, à la condition que la rémunération brute du salarié soit au
-moins égale à 1,5 fois le salaire minimum de croissance.
+code du travail, à la condition que l'étranger justifie d'un contrat de travail
+datant d'au moins trois mois, que la rémunération brute du salarié soit au moins
+égale à 1,5 fois le salaire minimum de croissance et sans que lui soit opposable
+la situation de l'emploi sur le fondement du même article L. 341-2.
 
 Elle porte la mention "salarié en mission".
 
@@ -69,7 +72,8 @@ France, lorsque l'introduction de cet étranger en France s'effectue entre
 établissements d'une même entreprise ou entre entreprises d'un même groupe,
 bénéficie également de la carte mentionnée au troisième alinéa du présent 5° à
 condition que sa rémunération brute soit au moins égale à 1,5 fois le salaire
-minimum de croissance.
+minimum de croissance et sans que lui soit opposable la situation de l'emploi
+sur le fondement du même article L. 341-2.
 
 Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs
 en France dans l'année qui suit leur dix-huitième anniversaire ou entrant dans

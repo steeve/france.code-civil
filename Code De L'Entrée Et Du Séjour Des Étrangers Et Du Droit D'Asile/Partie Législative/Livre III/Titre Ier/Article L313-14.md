@@ -1,11 +1,12 @@
 Article L313-14
 ----
-La carte de séjour temporaire mentionnée à l'article L. 313-11 peut être
-délivrée, sauf si sa présence constitue une menace pour l'ordre public, à
-l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond
-à des considérations humanitaires ou se justifie au regard des motifs
-exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue à
-l'article L. 311-7.
+La carte de séjour temporaire mentionnée à l'article L. 313-11 ou la carte de
+séjour temporaire mentionnée au 1° de l'article L. 313-10 sur le fondement du
+troisième alinéa de cet article peut être délivrée, sauf si sa présence
+constitue une menace pour l'ordre public, à l'étranger ne vivant pas en état de
+polygamie dont l'admission au séjour répond à des considérations humanitaires ou
+se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit
+opposable la condition prévue à l'article L. 311-7.
 
 La Commission nationale de l'admission exceptionnelle au séjour exprime un avis
 sur les critères d'admission exceptionnelle au séjour mentionnés au premier
@@ -22,6 +23,6 @@ habituellement depuis plus de dix ans.
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent
 article et en particulier la composition de la commission, ses modalités de
-fonctionnement ainsi que les conditions dans lesquelles le ministre de
-l'intérieur, saisi d'un recours hiérarchique contre un refus d'admission
+fonctionnement ainsi que les conditions dans lesquelles l'autorité
+administrative, saisie d'un recours hiérarchique contre un refus d'admission
 exceptionnelle au séjour, peut prendre l'avis de la commission.
