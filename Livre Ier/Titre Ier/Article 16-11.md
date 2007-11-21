@@ -1,9 +1,10 @@
 Article 16-11
 ----
 L'identification d'une personne par ses empreintes génétiques ne peut être
-recherchée que dans le cadre de mesures d'enquête ou d'instruction diligentées
+recherchée que dans le cadre de mesures d'enquête ou d'instruction diligentée
 lors d'une procédure judiciaire ou à des fins médicales ou de recherche
-scientifique.
+scientifique ou d'identification d'un militaire décédé à l'occasion d'une
+opération conduite par les forces armées ou les formations rattachées.
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution
 d'une mesure d'instruction ordonnée par le juge saisi d'une action tendant soit
