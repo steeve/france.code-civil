@@ -14,9 +14,9 @@ Les sièges des représentants des assurés sociaux sont répartis ainsi qu'il s
 
 Confédération française démocratique du travail : 7 ;
 
-Confédération générale du travail : 5 ;
+Confédération générale du travail : 6 ;
 
-Confédération générale du travail-Force ouvrière : 5 ;
+Confédération générale du travail-Force ouvrière : 4 ;
 
 Confédération française des travailleurs chrétiens : 4 ;
 
