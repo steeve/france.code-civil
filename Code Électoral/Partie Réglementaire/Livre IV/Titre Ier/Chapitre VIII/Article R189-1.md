@@ -1,8 +1,11 @@
 Article R189-1
 ----
 La commission départementale effectue le recensement des votes dès la fermeture
-du scrutin et au fur et à mesure de l'arrivée des procès-verbaux. Elle procède,
-s'il y a lieu, au redressement des chiffres portés sur ceux-ci.
+du scrutin et au fur et à mesure de l'arrivée des procès-verbaux. La commission
+tranche les questions que peuvent poser, en dehors de toute réclamation, la
+validité et le décompte des bulletins, et procède aux rectifications
+nécessaires, sans préjudice toutefois du pouvoir d'appréciation du juge de
+l'élection.
 
 Les résultats du recensement des votes sont constatés par un procès-verbal
 établi en double exemplaire et signé de tous les membres de la commission. Le

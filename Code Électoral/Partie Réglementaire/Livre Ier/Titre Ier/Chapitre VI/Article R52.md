@@ -8,6 +8,6 @@ au procès-verbal, les pièces qui s'y rapportent y sont annexées après avoir 
 paraphées par les membres du bureau.
 
 Pendant toute la durée des opérations de vote, le procès-verbal est tenu à la
-disposition des membres du bureau, délégués des candidats, électeurs du bureau
-et personnes chargées du contrôle des opérations, qui peuvent y porter leurs
-observations ou réclamations.
+disposition des membres du bureau, candidats, remplaçants et délégués des
+candidats, électeurs du bureau et personnes chargées du contrôle des opérations,
+qui peuvent y porter leurs observations ou réclamations.

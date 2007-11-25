@@ -1,7 +1,6 @@
 Article R25
 ----
-Les cartes électorales sont distribuées au domicile des électeurs, par les soins
-du maire.
+Les cartes électorales sont distribuées aux électeurs, par les soins du maire.
 
 Cette distribution doit être achevée trois jours avant le scrutin et, en
 l'absence de scrutin, au plus tard le 1er juillet.
@@ -10,11 +9,10 @@ Les cartes qui n'ont pu être remises à leur titulaire font retour à la mairie
 
 Elles sont remises le jour du scrutin au bureau de vote intéressé et y sont
 tenues à la disposition de leur titulaire. Elles ne peuvent être délivrées à
-l'électeur que sur le vu d'une pièce d'identité ou après authentification de son
-identité par deux témoins inscrits sur les listes du même bureau de vote.
+l'électeur que sur la présentation d'une pièce d'identité.
 
-Procès-verbal de cette opération est alors dressé, signé par le titulaire, et,
-le cas échéant, par les témoins et paraphé par le bureau.
+Procès-verbal de cette opération est alors dressé, signé par le titulaire et
+paraphé par le bureau.
 
 Dans chaque bureau de vote, lors de la clôture du scrutin, les cartes non
 retirées, ainsi que celles qui l'ont été, sont mentionnées nominativement sur le

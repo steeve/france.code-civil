@@ -11,6 +11,3 @@ prévus par la loi.
 
 Dès qu'elle est arrêtée, la liste peut être communiquée à tout électeur qui en
 fait la demande. Elle peut être copiée et publiée.
-
-Une carte d'un modèle spécial est adressée à chaque électeur par les soins du
-préfet.

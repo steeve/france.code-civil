@@ -1,8 +1,7 @@
 Article R54
 ----
-Les enveloppes électorales sont fournies par l'administration préfectorale.
-Elles sont opaques, non gommées et de type uniforme pour chaque collège
-électoral.
+Les enveloppes électorales sont fournies par l'Etat. Elles sont opaques, non
+gommées et de type uniforme pour chaque bureau de vote.
 
 Les enveloppes sont envoyées dans chaque mairie cinq jours au moins avant
 l'élection, en nombre égal à celui des électeurs inscrits. Toutefois, lorsque la

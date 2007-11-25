@@ -1,8 +1,9 @@
 Article R123
 ----
-Le recours au Conseil d'Etat doit, à peine de nullité, être déposé à la
-sous-préfecture, ou à la préfecture, ou au Conseil d'Etat, dans le délai d'un
-mois qui court à l'encontre du préfet ou des parties intéressées, à partir de la
-notification qui leur est faite et qui comporte l'indication dudit délai.
+Le recours contre la décision du tribunal administratif est ouvert soit au
+préfet, soit aux parties intéressées. Il doit, à peine d'irrecevabilité, être
+déposé au Conseil d'Etat, dans le délai d'un mois à partir de la notification de
+la décision qui leur est faite et qui comporte l'indication dudit délai.
 
-Le pourvoi est jugé comme affaire urgente.
+La procédure devant le Conseil d'Etat est régie par les dispositions du code de
+justice administrative.

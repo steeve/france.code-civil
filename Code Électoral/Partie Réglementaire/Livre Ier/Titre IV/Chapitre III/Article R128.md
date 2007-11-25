@@ -1,12 +1,13 @@
 Article R128
 ----
-Les documents officiels prévus au troisième alinéa de l'article L. 265 sont les
-suivants :
+A la déclaration de candidature en vue du premier tour, il est joint, pour
+chaque candidat visé à l'article L. 265 :
 
 1° Si le candidat est électeur dans la commune où il se présente, une
-attestation d'inscription sur la liste électorale de cette commune délivrée par
-le maire dans les trente jours précédant la date du dépôt de la candidature ou
-une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
+attestation d'inscription sur la liste électorale de cette commune comportant
+les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire dans les
+trente jours précédant la date du dépôt de la candidature ou une copie de la
+décision de justice ordonnant l'inscription de l'intéressé ;
 
 2° Si le candidat est électeur dans une autre commune que celle où il se
 présente, une attestation d'inscription sur la liste électorale de cette commune
@@ -41,5 +42,8 @@ il se présente à la date du 1er janvier de l'année de l'élection.
 Les députés et les sénateurs élus dans le département sont dispensés de la
 production des pièces énumérées au présent article.
 
-La délivrance du récépissé par le préfet ne fait pas obstacle à ce que
-l'éligibilité du candidat puisse être contestée devant le juge de l'élection.
+Un récépissé attestant de l'enregistrement de la déclaration de candidature est
+délivré dans les quatre jours du dépôt de cette déclaration, si celle-ci est
+conforme aux prescriptions en vigueur. La délivrance du récépissé par le préfet
+ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée
+devant le juge de l'élection.

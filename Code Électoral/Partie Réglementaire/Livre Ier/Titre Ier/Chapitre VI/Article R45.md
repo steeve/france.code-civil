@@ -8,6 +8,5 @@ soit parmi les autres conseillers municipaux, soit parmi les électeurs de la
 commune.
 
 Les suppléants exercent les prérogatives des assesseurs quand ils les
-remplacent. Ils ne peuvent toutefois les remplacer à l'ouverture et à la clôture
-du scrutin, ni pour le dépouillement ni pour la signature du procès-verbal des
-opérations électorales.
+remplacent. Ils ne peuvent toutefois les remplacer pour le dépouillement ni pour
+la signature du procès-verbal des opérations électorales.

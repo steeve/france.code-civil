@@ -15,6 +15,13 @@ précédant le premier tour de scrutin et, en cas de ballottage, le jeudi
 précédant le second tour, les bulletins de vote de chaque candidat ou de chaque
 liste en nombre au moins égal à celui des électeurs inscrits.
 
+Si un candidat ou une liste de candidats remet à la commission de propagande
+moins de circulaires ou de bulletins de vote que les quantités prévues
+ci-dessus, il propose la répartition de ses circulaires et bulletins de vote
+entre les électeurs. A défaut de proposition, les circulaires demeurent à la
+disposition du candidat et les bulletins de vote sont distribués dans les
+bureaux de vote en proportion du nombre d'électeurs inscrits.
+
 Lorsque la circonscription électorale comprend des bureaux de vote dotés d'une
 machine à voter, la commission n'envoie pas aux mairies des bulletins de vote
 pour ces bureaux ; elle n'en adresse pas aux électeurs qui y sont inscrits.

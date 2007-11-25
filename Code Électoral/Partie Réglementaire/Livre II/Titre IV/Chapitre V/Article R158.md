@@ -10,6 +10,8 @@ Cette commission, instituée par arrêté préfectoral, comprend :
 
 - un fonctionnaire désigné par le directeur des postes et télécommunications.
 
+Un suppléant du président peut être désigné dans les mêmes conditions.
+
 Chaque candidat ou liste de candidats peut désigner un mandataire qui participe
 aux travaux de la commission avec voix consultative.
 

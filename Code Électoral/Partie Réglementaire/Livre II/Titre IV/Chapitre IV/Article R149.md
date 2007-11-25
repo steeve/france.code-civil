@@ -1,6 +1,9 @@
 Article R149
 ----
-Les déclarations de candidatures établies en double exemplaire peuvent être
-rédigées sur papier libre. Elles doivent comporter, outre les mentions prévues
-aux articles L. 298, L. 299 et L. 300, l'indication des listes électorales sur
-lesquelles les candidats, et leurs remplaçants lorsqu'il y en a, sont inscrits.
+La déclaration de candidature est rédigée sur papier libre.
+
+Elle est accompagnée, pour chaque candidat et remplaçant, des pièces exigées à
+l'article R. 99.
+
+La déclaration de candidature est déposée par tout candidat, le remplaçant d'un
+candidat ou un mandataire désigné par eux.

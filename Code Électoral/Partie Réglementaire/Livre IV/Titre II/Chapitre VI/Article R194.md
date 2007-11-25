@@ -12,6 +12,8 @@ comprend :
 - un fonctionnaire désigné par le chef de service de La Poste compétent pour la
 Corse.
 
+Un suppléant du président peut être désigné dans les mêmes conditions.
+
 Le secrétariat est assuré par un fonctionnaire désigné par le préfet de Corse.
 
 Les mandataires des listes de candidats peuvent participer, avec voix

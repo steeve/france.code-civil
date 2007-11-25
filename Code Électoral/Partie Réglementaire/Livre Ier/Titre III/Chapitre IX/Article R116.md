@@ -1,13 +1,9 @@
 Article R116
 ----
-Le recours au Conseil d'Etat contre la décision du tribunal administratif est
-ouvert, soit au préfet, soit aux parties intéressées. Il doit, à peine de
-nullité, être déposé au secrétariat de la sous-préfecture ou de la préfecture
-dans le délai d'un mois à partir de la notification de la décision.
+Le recours contre la décision du tribunal administratif est ouvert soit au
+préfet, soit aux parties intéressées. Il doit, à peine d'irrecevabilité, être
+déposé au Conseil d'Etat, dans le délai d'un mois à partir de la notification de
+la décision qui leur est faite et qui comporte l'indication dudit délai.
 
-Les délais pour la constitution d'un avocat sont d'un mois pour chacune de ces
-opérations.
-
-Les dispositions contenues dans l'article 16 de la loi du 10 août 1871, modifiée
-par la loi du 31 juillet 1875, demeurent applicables à l'instruction et au
-jugement des recours portés devant le Conseil d'Etat.
+La procédure devant le Conseil d'Etat est régie par les dispositions du code de
+justice administrative.
