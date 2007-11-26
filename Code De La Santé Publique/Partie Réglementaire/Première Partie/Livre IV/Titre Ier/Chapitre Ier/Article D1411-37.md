@@ -1,12 +1,12 @@
 Article D1411-37
 ----
-La Conférence nationale de santé est composée de cent dix membres nommés par
+La Conférence nationale de santé est composée de cent treize membres nommés par
 arrêté du ministre chargé de la santé et répartis en six collèges. Elle réunit :
 
 Collège 1 : vingt représentants des malades et des usagers du système de santé
 désignés sur la proposition des associations agréées au niveau national.
 
-Collège 2 : trente-six membres représentant les professionnels de santé et les
+Collège 2 : trente-neuf membres représentant les professionnels de santé et les
 établissements de santé ou autres structures de soins et de prévention dont :
 
 1° Treize représentants des professionnels de santé exerçant à titre libéral,
@@ -32,12 +32,15 @@ Syndicat national des médecins, chirurgiens, spécialistes et biologistes des
 hôpitaux publics, par la Confédération des hôpitaux généraux et par la
 Coordination médicale hospitalière ;
 
-b) Cinq représentants des personnels non médicaux de la fonction publique
+b) huit représentants des personnels non médicaux de la fonction publique
 hospitalière désignés respectivement sur proposition de la Confédération
 française démocratique du travail, de la Confédération française des
 travailleurs chrétiens, de la Confédération générale du travail, de la
 Confédération générale du travail-Force ouvrière, de la Confédération française
-de l'encadrement-CGC ;
+de l'encadrement-CGC, de la Fédération nationale Sud santé-sociaux
+"solidaires-unitaires-démocratiques", de la Fédération de l'union nationale des
+syndicats autonomes santé et sociaux public et privé, du Syndicat national des
+cadres hospitaliers ;
 
 c) Quatre représentants des médecins de prévention désignés sur proposition de
 l'Union confédérale des médecins salariés, dont au moins un représentant de la
