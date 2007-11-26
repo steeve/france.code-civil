@@ -1,10 +1,11 @@
 Article R4342-13
 ----
-Sont fixées, après avis de la commission des orthoptistes du Conseil supérieur
-des professions paramédicales, par arrêté des ministres chargés de
-l'enseignement supérieur et de la santé :
+Le ministre chargé de la santé, après avis de la commission des orthoptistes du
+Conseil supérieur des professions paramédicales, statue sur la demande
+d'autorisation par une décision motivée prise dans un délai de quatre mois à
+compter de la date du récépissé mentionné à l'article R. 4342-11.
 
-1° Les conditions d'organisation, les modalités de notation de l'épreuve
-d'aptitude, la composition du jury chargé de l'évaluer ;
-
-2° Les conditions de validation du stage d'adaptation.
+Le ministre chargé de la santé accorde l'autorisation dans le cas où l'intéressé
+est soumis par cette décision à l'épreuve d'aptitude ou au stage d'adaptation
+mentionnés à l'article R. 4342-12, après réussite à l'épreuve d'aptitude ou
+validation du stage d'adaptation.

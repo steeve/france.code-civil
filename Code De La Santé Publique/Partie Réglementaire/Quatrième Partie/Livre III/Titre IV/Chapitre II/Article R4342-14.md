@@ -1,9 +1,11 @@
 Article R4342-14
 ----
-La profession d'orthoptiste ne peut s'exercer dans les locaux ou les dépendances
-des locaux commerciaux.
+L'épreuve d'aptitude mentionnée à l'article R. 4342-12 a pour objet de vérifier
+au moyen d'épreuves écrites et orales que l'intéressé fait preuve d'une
+connaissance appropriée des matières qui ne lui ont pas été enseignées
+initialement.
 
-L'interdiction prévue à l'alinéa précédent ne fait pas obstacle à l'exercice de
-cette profession dans des locaux dépendant d'un établissement sanitaire, social
-ou médico-social ou d'éducation, ou dans des locaux aménagés par une entreprise
-pour les soins donnés à son personnel.
+Le stage d'adaptation mentionné à l'article R. 4342-12 a pour objet de donner
+aux intéressés les connaissances définies à l'alinéa précédent. Il comprend un
+stage pratique accompagné éventuellement d'une formation théorique
+complémentaire.

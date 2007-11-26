@@ -1,13 +1,10 @@
 Article R4342-15
 ----
-Lors de l'enregistrement à la préfecture du titre de capacité ou, le cas
-échéant, de l'autorisation d'exercice, il est délivré à l'intéressé une carte
-professionnelle, dont le modèle est établi par le ministre chargé de la santé.
+Sont fixées, après avis de la commission des orthoptistes du Conseil supérieur
+des professions paramédicales, par arrêté des ministres chargés de
+l'enseignement supérieur et de la santé :
 
-Le changement de résidence professionnelle hors des limites du département
-oblige à un nouvel enregistrement. La même obligation s'impose aux personnes qui
-après deux ans d'interruption, veulent reprendre l'exercice de leur profession.
+1° Les conditions d'organisation, les modalités de notation de l'épreuve
+d'aptitude, la composition du jury chargé de l'évaluer ;
 
-Dans chaque département, le préfet dresse annuellement les listes des personnes
-qui exercent la profession d'orthoptiste. Ces listes sont insérées au recueil
-des actes administratifs de la préfecture.
+2° Les conditions de validation du stage d'adaptation.

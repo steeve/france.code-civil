@@ -1,5 +1,9 @@
 Article R4342-16
 ----
-Seules les personnes remplissant les conditions exigées à l'article L. 4342-2
-pour l'exercice de la profession d'orthoptiste peuvent porter le titre
-d'orthoptiste.
+La profession d'orthoptiste ne peut s'exercer dans les locaux ou les dépendances
+des locaux commerciaux.
+
+L'interdiction prévue à l'alinéa précédent ne fait pas obstacle à l'exercice de
+cette profession dans des locaux dépendant d'un établissement sanitaire, social
+ou médico-social ou d'éducation, ou dans des locaux aménagés par une entreprise
+pour les soins donnés à son personnel.

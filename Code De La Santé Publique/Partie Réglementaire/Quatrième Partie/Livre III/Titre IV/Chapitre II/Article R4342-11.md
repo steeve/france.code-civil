@@ -1,11 +1,9 @@
 Article R4342-11
 ----
-Le ministre chargé de la santé, après avis de la commission des orthoptistes du
-Conseil supérieur des professions paramédicales, statue sur la demande
-d'autorisation par une décision motivée prise dans un délai de quatre mois à
-compter de la date du récépissé mentionné à l'article R. 4342-9.
+Les modalités de présentation de la demande d'autorisation d'exercice, et
+notamment la composition du dossier l'accompagnant, sont fixées, après avis de
+la commission des orthoptistes du Conseil supérieur des professions
+paramédicales, par arrêté des ministres chargés de l'enseignement supérieur et
+de la santé.
 
-Le ministre chargé de la santé accorde l'autorisation dans le cas où l'intéressé
-est soumis par cette décision à l'épreuve d'aptitude ou au stage d'adaptation
-mentionnés à l'article R. 4342-10, après réussite à l'épreuve d'aptitude ou
-validation du stage d'adaptation.
+Un récépissé est délivré à l'intéressé à la réception du dossier complet.

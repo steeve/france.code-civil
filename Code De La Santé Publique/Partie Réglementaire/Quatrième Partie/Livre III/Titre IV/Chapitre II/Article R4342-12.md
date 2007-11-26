@@ -1,11 +1,14 @@
 Article R4342-12
 ----
-L'épreuve d'aptitude mentionnée à l'article R. 4342-10 a pour objet de vérifier
-au moyen d'épreuves écrites et orales que l'intéressé fait preuve d'une
-connaissance appropriée des matières qui ne lui ont pas été enseignées
-initialement.
+L'autorisation d'exercice de la profession est délivrée lorsque sont réunies les
+conditions définies au premier alinéa de l'article L. 4342-4.
 
-Le stage d'adaptation mentionné à l'article R. 4342-10 a pour objet de donner
-aux intéressés les connaissances définies à l'alinéa précédent. Il comprend un
-stage pratique accompagné éventuellement d'une formation théorique
-complémentaire.
+Toutefois, dans les cas prévus au septième alinéa du même article, la délivrance
+de l'autorisation d'exercice est subordonnée à la vérification de la capacité du
+demandeur à l'exercice de la profession en France. Cette vérification est
+effectuée, au choix du demandeur :
+
+1° Soit par une épreuve d'aptitude ;
+
+2° Soit à l'issue d'un stage d'adaptation, dont la durée ne peut excéder trois
+ans.

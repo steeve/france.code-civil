@@ -5,6 +5,6 @@ médecin en mesure d'en contrôler l'exécution et d'intervenir immédiatement, 
 enregistrements effectués à l'occasion des explorations fonctionnelles suivantes
 :
 
-1° Rétinographie ;
+1° Rétinographie mydriatique ;
 
 2° Electrophysiologie oculaire.
