@@ -20,11 +20,11 @@ Le total des logements réservés aux collectivités territoriales, aux
 en contrepartie de l'octroi de la garantie financière des emprunts ne peut
 globalement représenter plus de 20 % des logements de chaque programme.
 
-Le préfet peut exercer le droit de réservation qui lui est reconnu par l'alinéa
-3 de l'article L. 441-1 lors de la première mise en location des logements ou au
-fur et à mesure qu'ils se libèrent. La réservation donne lieu à une convention
-avec l'organisme d'habitations à loyer modéré. A défaut, elle est réglée par
-arrêté du préfet.
+Le préfet peut exercer le droit de réservation qui lui est reconnu par l'article
+L. 441-1 lors de la première mise en location des logements ou au fur et à
+mesure qu'ils se libèrent. La réservation donne lieu à une convention avec
+l'organisme d'habitations à loyer modéré. A défaut, elle est réglée par arrêté
+du préfet.
 
 Le total des logements réservés par le préfet au bénéfice des personnes
 prioritaires ne peut représenter plus de 30 % du total des logements de chaque

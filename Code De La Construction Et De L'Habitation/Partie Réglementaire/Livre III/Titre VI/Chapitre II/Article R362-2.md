@@ -20,13 +20,11 @@ le retrait temporaire d'une ou plusieurs compétences décidé en application de
 articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la dissolution prononcée en
 application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 
-5° Sur les projets de règlements départementaux prévus à l'article L. 441-1-1,
-les projets d'accords collectifs prévus à l'article L. 441-1-2 et les projets de
-délimitations des bassins d'habitat prévus à l'article L. 441-1-4 ;
+5° Sur les projets de plans départementaux d'action pour le logement des
+personnes défavorisées ;
 
-6° Sur les projets de plans départementaux d'action pour le logement des
-personnes défavorisées.
+6° Abrogé.
 
 Le comité régional de l'habitat peut déléguer tout ou partie des compétences
-prévues aux 2° à 6° du présent article à son bureau ou aux commissions
+prévues aux 2° à 5° du présent article à son bureau ou aux commissions
 spécialisées mentionnées à l'article R. 362-11.

@@ -2,7 +2,9 @@ Article R441-9-1
 ----
 Peuvent être agréées dans un département au titre de l'article L. 441-2 les
 associations qui y mènent de façon significative des actions d'insertion ou en
-faveur du logement des personnes défavorisées.
+faveur du logement des personnes défavorisées à l'exclusion de toute association
+qui gère ou donne en location des logements destinés à des personnes
+défavorisées dans le département.
 
 L'agrément est accordé par le préfet pour une durée de quatre ans renouvelable.
 Il peut être retiré à tout moment si l'association ne satisfait plus aux
