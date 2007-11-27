@@ -7,5 +7,7 @@ Elle comprend trois magistrats, dont le président de la commission, désignés 
 le premier président de la cour d'appel, un conseiller général et un
 fonctionnaire désigné par le préfet.
 
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+
 Un représentant de chacune des listes peut assister aux opérations de la
 commission.

@@ -9,6 +9,8 @@ Cette commission comprend un magistrat désigné par le premier président de la
 cour d'appel, président, deux juges désignés par la même autorité, un conseiller
 général et un fonctionnaire de préfecture désignés par le préfet.
 
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+
 Un représentant de chacun des candidats peut assister aux opérations de la
 commission.
 

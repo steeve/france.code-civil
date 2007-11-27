@@ -9,6 +9,6 @@ moins égale au double du nombre des électeurs inscrits.
 La commission n'est pas tenue d'assurer l'envoi des imprimés remis
 postérieurement à cette date.
 
-Les circulaires et bulletins dont le format, le libellé ou l'impression ne
-répondent pas aux prescriptions légales ou réglementaires ne sont pas acceptés
-par la commission.
+La commission n'assure pas l'envoi des circulaires qui ne sont pas conformes aux
+articles R. 27 et R. 29 et des bulletins de vote qui ne sont pas conformes à
+l'article R. 30 et aux prescriptions édictées pour chaque catégorie d'élections.

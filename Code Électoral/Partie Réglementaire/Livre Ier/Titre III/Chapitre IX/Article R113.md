@@ -6,8 +6,9 @@ par un électeur du canton, par un candidat ou par un membre du conseil généra
 l'article L. 222, ce procès-verbal doit être transmis dès sa réception par le
 préfet au greffe du tribunal administratif.
 
-Les protestations peuvent également être déposées audit greffe dans les cinq
-jours qui suivent l'élection.
+Les protestations peuvent également être déposées directement au greffe du
+tribunal administratif au plus tard à dix-huit heures le cinquième jour qui suit
+l'élection.
 
 Le recours qui peut être formé par le préfet, conformément à l'article L. 222
 pour inobservation des conditions et formalités légales, doit être déposé au
