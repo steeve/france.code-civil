@@ -16,7 +16,7 @@ sur lesquels ils sont proposés à l'achat.
 
 Chaque lot est attribué au candidat dont la proposition est jugée la meilleure
 au regard de critères préalablement définis dans l'avis d'appel à candidatures.
-Les contrats sont conclus pour une durée qui ne peut excéder trois ans.
+Les contrats sont conclus pour une durée qui ne peut excéder quatre ans.
 
 La ligue doit rejeter les propositions d'offres globales ou couplées ainsi que
 celles qui sont assorties d'un complément de prix.
