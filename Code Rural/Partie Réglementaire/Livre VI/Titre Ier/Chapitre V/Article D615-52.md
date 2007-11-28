@@ -13,8 +13,8 @@ désignées comme organismes spécialisés en matière de contrôle au sens de
 l'article 42 du règlement (CE) n° 796/2004 du 21 avril 2004 de la Commission
 susmentionné, pour le contrôle du respect des exigences réglementaires
 mentionnées à l'article D. 615-45 relatives à l'identification et à
-l'enregistrement des animaux, à la santé publique, à la santé des animaux et à
-la notification des maladies.
+l'enregistrement des animaux, à la santé publique, la santé des animaux, à la
+notification des maladies, ainsi qu'à la protection et au bien-être animal.
 
 III. - Les directions régionales de l'agriculture et de la forêt ou, dans les
 départements d'outre-mer, les directions de l'agriculture et de la forêt sont

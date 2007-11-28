@@ -13,6 +13,8 @@ l'article D. 615-58, sans pouvoir être supérieur à 15 %.
 Lorsqu'un cas de non-conformité intentionnelle est constaté, le taux de
 réduction est fixé à 20 %. Par décision motivée, pour des raisons justifiées au
 vu des résultats des contrôles et de la situation particulière de l'exploitant,
-ce taux peut être ramené à 15 % ou porté jusqu'à 100 %. L'arrêté mentionné à
-l'article D. 615-57 précise les cas dans lesquels une non-conformité est
-présumée intentionnelle.
+ce taux peut être ramené à 15 % ou porté jusqu'à 100 %.L'arrêté mentionné à
+l'article D. 615-57précise les cas dans lesquels une non-conformité est présumée
+intentionnelle.
+
+En cas de refus de contrôle, le taux de réduction est fixé à 100 %.
