@@ -10,8 +10,8 @@ autres, les fonds perçus en contrepartie de la cession des titres. Le montant d
 ce compte, égal à la contre-valeur des titres spéciaux de paiement en
 circulation, garantit le remboursement aux intervenants des titres spéciaux de
 paiement valablement émis et utilisés. L'encours de cette contrepartie doit être
-de 300 000 euros au moins. Le compte doit faire l'objet d'une dotation initiale
-à hauteur de ce montant au moins.
+de 300 000 € au moins. Le compte doit faire l'objet d'une dotation initiale à
+hauteur de ce montant au moins.
 
 Un émetteur habilité est autorisé à ouvrir plusieurs de ces comptes dans un ou
 plusieurs établissements bancaires ou centres de chèques postaux, sous réserve
@@ -77,3 +77,12 @@ maîtrise des risques.
 
 Le manquement à l'une de ces obligations peut donner lieu à une suspension ou un
 retrait d'habilitation par l'Agence nationale des services à la personne.
+
+Les organismes et établissements habilités à émettre le chèque emploi service
+universel préfinancé, sur support papier ou sous forme dématérialisée,
+perçoivent une rémunération de la part des personnes physiques ou morales qui en
+assurent le préfinancement.
+
+Un arrêté du ministre chargé de l'emploi précise, pour les émetteurs habilités
+et les organismes et établissements candidats, les conditions relatives à
+l'émission et au remboursement du chèque emploi service universel préfinancé.
