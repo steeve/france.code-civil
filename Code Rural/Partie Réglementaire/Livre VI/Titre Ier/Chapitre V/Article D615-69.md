@@ -1,8 +1,8 @@
 Article D615-69
 ----
-I. - En application du 3 de l'article 46 du règlement (CE) n° 1782/2003 du
+I.-En application du 3 de l'article 46 du règlement (CE) n° 1782 / 2003 du
 Conseil du 29 septembre 2003 susmentionné et de l'article 9 du règlement (CE) n°
-795/2004 de la Commission du 21 avril 2004 susmentionné, le prélèvement sur la
+795 / 2004 de la Commission du 21 avril 2004 susmentionné, le prélèvement sur la
 valeur des droits à paiement unique localisés dans un département donné
 transférés à titre définitif conjointement à un nombre égal d'hectares de terres
 agricoles admissibles situées dans le même département est égal à 3 % de la
@@ -31,15 +31,15 @@ application de l'article L. 312-5 ne peut être supérieur à 2 ni inférieur à
 Dans le cas d'une exploitation sise sur plusieurs départements, le seuil de
 prélèvement est celui du siège de l'exploitation de l'acquéreur des droits.
 
-II. - Le prélèvement de 3 % est ramené à zéro pour les droits transférés :
+II.-Le prélèvement de 3 % est ramené à zéro pour les droits transférés :
 
-- au profit du conjoint du cédant ou d'une personne ayant avec le cédant un lien
+-au profit du conjoint du cédant ou d'une personne ayant avec le cédant un lien
 de parenté jusqu'au second degré inclus ;
 
-- pendant les cinq années suivant la date de son installation, à un agriculteur
+-pendant les cinq années suivant la date de son installation, à un agriculteur
 qui commence à exercer une activité agricole au sens du k de l'article 2 du
-règlement (CE) n° 795/2004 de la Commission du 21 avril 2004 susmentionné et qui
-remplit les conditions fixées aux 2° à 4° de l'article R. 343-4 et au 4° de
+règlement (CE) n° 795 / 2004 de la Commission du 21 avril 2004 susmentionné et
+qui remplit les conditions fixées aux 2° à 4° de l'article R. 343-4 et au 4° de
 l'article R. 343-5.
 
 Pour un agriculteur bénéficiant des aides à l'installation des jeunes
@@ -49,10 +49,23 @@ d'installation est celle de la première affiliation au régime de protection
 sociale des personnes non salariées agricoles en qualité de chef d'exploitation
 ou d'entreprise agricole.
 
-III. - Aucun prélèvement n'est effectué sur les droits à paiement unique
+III.-Aucun prélèvement n'est effectué sur les droits à paiement unique
 transférés au profit d'un agriculteur commençant à exercer une activité agricole
-au sens du k de l'article 2 du règlement (CE) n° 795/2004 de la Commission du 21
-avril 2004 susmentionné, sur les droits à paiement unique préemptés par une
+au sens du k de l'article 2 du règlement (CE) n° 795 / 2004 de la Commission du
+21 avril 2004 susmentionné, sur les droits à paiement unique préemptés par une
 société d'aménagement foncier et d'établissement rural en application de
-l'article L. 143-1, ou sur les droits à paiement unique transférés à l'occasion
-d'un changement de statut ou de dénomination juridique de l'exploitation.
+l'article L. 143-1.
+
+IV.-Aucun prélèvement n'est effectué sur les droits à paiement unique transférés
+à l'occasion d'un changement de dénomination ou de statut juridique de
+l'exploitation si, à l'issue de cette opération, les deux conditions cumulatives
+suivantes sont réunies :
+
+1° Au moins l'une des personnes qui assurait les fonctions de chef
+d'exploitation, d'associé, d'associé gérant ou d'associé exploitant au sein de
+l'exploitation avant le changement continue d'assurer l'une ou l'autre de ces
+fonctions par la suite ;
+
+2° L'augmentation ou la diminution de la surface agricole utile de
+l'exploitation entre le 15 mai précédant le changement et le 15 mai suivant
+n'excède pas 5 %.
