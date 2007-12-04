@@ -16,8 +16,11 @@ similaires ou des métiers connexes ainsi que leurs unions.
 
 Les centres doivent avoir pour objet de fournir à leurs adhérents industriels,
 commerçants, artisans ou agriculteurs tous services en matière de gestion
-notamment dans les domaines de l'assistance technique et de la formation. Ces
-services sont réservés aux membres adhérents.
+notamment dans les domaines de l'assistance technique et de la formation ainsi
+qu'une analyse des informations économiques, comptables et financières en
+matière de prévention des difficultés économiques et financières. Ces services
+sont réservés aux membres adhérents. Les formations proposées par l'organisme
+agréé sont également offertes au représentant de l'adhérent.
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres.
 

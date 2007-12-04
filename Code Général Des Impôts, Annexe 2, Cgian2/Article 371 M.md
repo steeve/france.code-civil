@@ -23,9 +23,12 @@ telle association.
 
 Les associations doivent avoir pour objet de développer chez leurs membres
 l'usage de la comptabilité et de faciliter à ces derniers l'accomplissement de
-leurs obligations administratives et fiscales. Ces services sont réservés aux
-seuls adhérents de l'association exerçant une profession libérale ou titulaires
-de charges et offices.
+leurs obligations administratives et fiscales. Elles fournissent à leurs membres
+une analyse des informations économiques, comptables et financières en matière
+de prévention des difficultés économiques et financières. Ces services sont
+réservés aux seuls adhérents de l'association exerçant une profession libérale
+ou titulaires de charges et offices. Les formations proposées par l'organisme
+agréé sont également offertes au représentant de l'adhérent.
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres.
 

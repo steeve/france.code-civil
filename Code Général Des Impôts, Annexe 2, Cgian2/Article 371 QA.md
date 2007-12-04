@@ -3,8 +3,11 @@ Article 371 QA
 Les statuts doivent comporter des clauses selon lesquelles les associations
 s'engagent :
 
-1° A ne faire aucune publicité, sauf dans les journaux et bulletins
-professionnels ;
+1° Si elles ont recours à la publicité, à ne pas porter atteinte à
+l'indépendance, à la dignité et à l'honneur de l'institution, pas plus qu'aux
+règles du secret professionnel, à la loyauté envers les adhérents et les autres
+associations se livrant à la même activité, quel que soit le support utilisé, et
+à ne pas avoir recours au démarchage ou à toute autre forme de sollicitation ;
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par
 leurs soins leur qualité d'associations agréées et les références de la décision
@@ -27,4 +30,8 @@ l'exercice de leurs activités ;
 professionnel ;
 
 6° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès
-réception de la notification de la décision de retrait d'agrément.
+réception de la notification de la décision de retrait d'agrément ;
+
+7° A réclamer une cotisation dont le montant est identique pour l'ensemble des
+adhérents. Toutefois, la cotisation réclamée aux adhérents relevant du régime
+prévu à l'article 102 ter du code général des impôts peut être réduite.
