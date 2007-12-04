@@ -1,9 +1,9 @@
 Article R315-2
 ----
 La Commission nationale des compétences et des talents est placée auprès du
-ministre de l'intérieur. Elle comprend quinze membres :
+ministre chargé de l'immigration. Elle comprend dix-sept membres :
 
-1° Une personnalité qualifiée, président ;
+1° Cinq personnalités qualifiées dont l'une est le président ;
 
 2° Un député ;
 
@@ -11,15 +11,16 @@ ministre de l'intérieur. Elle comprend quinze membres :
 
 4° Un membre du Conseil économique et social ;
 
-5° Un représentant du ministre de l'intérieur ;
+5° Le secrétaire général du comité interministériel de contrôle de l'immigration
+;
 
-6° Deux représentants du ministre des affaires étrangères ;
+6° Deux représentants du ministre des affaires étrangères et européennes ;
 
-7° Deux représentants du ministre chargé de l'emploi ;
+7° Un représentant du ministre chargé de l'emploi ;
 
-8° Deux représentants du ministre chargé de l'économie ;
+8° Un représentant du ministre chargé de l'économie ;
 
-9° Un représentant du ministre chargé de l'éducation ;
+9° Un représentant du ministre chargé de la recherche ;
 
 10° Un représentant du ministre chargé de la culture ;
 
