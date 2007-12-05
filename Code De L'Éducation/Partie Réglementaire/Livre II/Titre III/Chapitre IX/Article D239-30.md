@@ -1,4 +1,4 @@
 Article D239-30
 ----
-L'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur élabore son règlement intérieur.
+L'Observatoire national de la sécurité et de l'accessibilité des établissements
+d'enseignement élabore son règlement intérieur.

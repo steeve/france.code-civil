@@ -1,13 +1,17 @@
 Article D239-25
 ----
-L'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur, placé auprès du ministre chargé de l'éducation et de
+L'Observatoire national de la sécurité et de l'accessibilité des établissements
+d'enseignement, placé auprès du ministre chargé de l'éducation et de
 l'enseignement supérieur étudie, au regard des règles de sécurité et dans le
 respect des compétences des commissions centrale et locales de sécurité et de
 celles des inspecteurs du travail, les conditions d'application des règles de
-sécurité, l'état des immeubles et des équipements affectés aux établissements
-scolaires, aux établissements d'enseignement supérieur et aux centres
-d'information et d'orientation ou qui sont utilisés par eux de façon régulière.
+sécurité, l'état des immeubles et des équipements notamment utilisés à des fins
+d'enseignement, de recherche, de restauration, d'hébergement, d'information,
+d'orientation et d'administration ainsi que les conditions de leur protection en
+vue de prévenir toute atteinte aux personnes et aux biens.
+
+Il évalue l'accessibilité des établissements mentionnés à l'article D. 239-26,
+conformément aux dispositions du code de la construction et de l'habitation.
 
 Il informe des conclusions de ses travaux les collectivités territoriales, les
 administrations, les chancelleries des universités, les établissements

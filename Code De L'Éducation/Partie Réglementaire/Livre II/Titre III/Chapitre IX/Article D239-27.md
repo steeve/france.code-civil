@@ -1,9 +1,9 @@
 Article D239-27
 ----
-L'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur est composé de cinquante et un membres. Ceux-ci ainsi
-que, s'il y a lieu, leurs suppléants, sont nommés pour une durée de trois ans
-par arrêté du ministre chargé de l'éducation.
+L'Observatoire national de la sécurité et de l'accessibilité des établissements
+d'enseignement est composé de cinquante et un membres. Ceux-ci ainsi que, s'il y
+a lieu, leurs suppléants, sont nommés pour une durée de trois ans par arrêté du
+ministre chargé de l'éducation.
 
 Ils se répartissent de la manière suivante :
 
@@ -70,7 +70,7 @@ personnalités qualifiées nommées par lui, composé ainsi qu'il suit :
 a) Onze représentants des ministres et deux suppléants pour chaque membre
 titulaire :
 
-aa) Deux représentants du ministre chargé de l'éducation ;
+aa) Un représentant du ministre chargé de l'éducation ;
 
 ab) Un représentant du ministre chargé de l'enseignement supérieur ;
 
@@ -88,7 +88,9 @@ ah) Un représentant du ministre chargé de l'outre-mer ;
 
 ai) Un représentant du ministre chargé de l'équipement ;
 
-aj) Un représentant du ministre chargé des sports.
+aj) Un représentant du ministre chargé des sports ;
+
+ak) Un représentant du ministre chargé des personnes handicapées.
 
 b) Deux membres titulaires représentants des chefs d'établissement et deux
 suppléants, nommés sur proposition des organisations représentatives :
