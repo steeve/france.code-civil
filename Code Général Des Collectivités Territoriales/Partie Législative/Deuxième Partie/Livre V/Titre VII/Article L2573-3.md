@@ -1,28 +1,24 @@
 Article L2573-3
 ----
-I. - Les articles L. 2213-1 à L. 2213-16, l'article L. 2213-17, à l'exception
-des quatre derniers alinéas, et les articles L. 2213-18 à L. 2213-31 sont
-applicables aux communes de Mayotte.
+I.-Les articles L. 2113-1 à L. 2113-19, les articles L. 2113-21 à L. 2113-25 et
+le second alinéa de l'article L. 2113-26 sont applicables aux communes de la
+Polynésie française sous réserve des adaptations prévues aux II, III, IV et V.
 
-II. - Pour l'application de l'article L. 2213-1, les mots : "les routes
-départementales" sont remplacés par les mots : "la voirie relevant de la
-collectivité départementale".
+II.-Pour l'application de l'article L. 2113-3, après les mots : " est prononcée
+par arrêté du représentant de l'Etat dans le département " sont insérés les mots
+: ", après avis de l'assemblée et du conseil des ministres de la Polynésie
+française, conformément aux articles 97 et 134 de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française, ".
 
-III. - Pour l'application de l'article L. 2213-5, les matières dangereuses dont
-le transport est réglementé sont définies par décret pris après avis du comité
-interministériel de la sécurité routière.
+III.-Pour l'application de l'article L. 2113-12, les mots : " le premier alinéa
+de l'article L. 2113-19, " sont supprimés.
 
-IV. - Pour son application aux communes de Mayotte, l'article L. 2213-10 est
-complété par un alinéa ainsi rédigé :
+IV.-Pour l'application de l'article L. 2113-13, le 3° est supprimé.
 
-Le maire peut prescrire des aménagements particuliers pour les terrains qui
-appartiennent à une personne publique autre que la commune ou à une personne
-privée et sont utilisés comme lieux de sépulture.
-
-V. - Pour son application aux communes de Mayotte, l'article L. 2213-22 est
-ainsi rédigé :
-
-"Art. L. 2213-22. - Le maire assure la police des ports affectés exclusivement à
-la plaisance lorsque la collectivité départementale a transféré à la commune ses
-compétences dans les conditions prévues par l'article 34 de la loi n° 2001-616
-du 11 juillet 2001 relative à Mayotte".
+V.-Pour l'application de l'article L. 2113-16, après le mot : " peut " sont
+insérés les mots : ", après consultation du conseil des ministres de la
+Polynésie française, conformément à l'article 97 de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ou le
+ministre chargé de l'outre-mer, après avis de l'assemblée de la Polynésie
+française, conformément à l'article 134 de la même loi organique, en cas de
+désaccord entre le conseil municipal et le conseil des ministres, ".

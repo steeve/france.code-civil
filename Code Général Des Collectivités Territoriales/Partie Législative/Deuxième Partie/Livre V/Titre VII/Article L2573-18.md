@@ -1,7 +1,20 @@
 Article L2573-18
 ----
-Dans les localités où les familles pourvoient directement, en vertu d'anciennes
-coutumes, au transport ou à l'enterrement de leurs morts, les mêmes usages
-peuvent être maintenus avec l'autorisation du conseil municipal et sous la
-surveillance du maire, sous réserve que les opérations funéraires puissent
-s'effectuer dans de bonnes conditions de décence, d'hygiène et de sécurité.
+I.-Les articles L. 2212-1, L. 2212-2, à l'exception de son 8°, l'article L.
+2212-2-1, les articles L. 2212-3 à L. 2212-6 et L. 2212-8 à L. 2212-10 sont
+applicables aux communes de la Polynésie française sous réserve des adaptations
+prévues aux II, III et IV.
+
+II.-L'article L. 2212-2 est complété par la phrase suivante :
+
+"Un arrêté du haut-commissaire détermine les conditions dans lesquelles les
+services de police nationale et de la gendarmerie nationale appliquent les
+réquisitions du maire."
+
+III.-Pour l'application de l'article L. 2212-5, les mots : " contraventions aux
+dispositions du code de la route " sont remplacés par les mots : "
+contraventions aux dispositions applicables localement en matière de circulation
+et de sécurité routières ".
+
+IV.-Pour l'application de l'article L. 2212-10, le cinquième alinéa est
+supprimé.
