@@ -10,7 +10,7 @@ collectivités territoriales ;
 
 c) Tout représentant, administrateur ou agent des autres organismes qui sont
 soumis soit au contrôle de la Cour des comptes, soit au contrôle d'une chambre
-régionale des comptes.
+régionale des comptes ou d'une chambre territoriale des comptes.
 
 Sont également justiciables de la Cour tous ceux qui exercent, en fait, les
 fonctions des personnes désignées ci-dessus.
