@@ -15,7 +15,15 @@ formation de dix personnes au plus, titulaire d'un certificat de qualification
 professionnelle, conformément aux dispositions de l'article L. 254-4 ;
 
 2° Une attestation de la souscription d'une police d'assurance couvrant sa
-responsabilité civile professionnelle.
+responsabilité civile professionnelle ;
+
+3° La photocopie du certificat de qualification professionnelle des employés
+permanents mentionnés au 1°, en cours de validité, pour chacun des
+établissements de l'organisme ;
+
+4° Le cas échéant, une liste des différents établissements de l'organisme
+distribuant des produits mentionnés à l'article L. 253-1, leur raison sociale,
+leur numéro SIRET et leur adresse complète.
 
 Lorsque l'organisme demandeur comporte plusieurs établissements, il est présenté
 une demande unique.

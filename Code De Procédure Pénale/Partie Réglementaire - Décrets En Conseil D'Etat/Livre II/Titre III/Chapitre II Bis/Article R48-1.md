@@ -124,7 +124,10 @@ i) L'article R. 215-2 du code rural ;
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues par les
-articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2.
+articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2 ;
 
 Contraventions en matière de vente de boissons alcoolisées réprimées par
 l'article R. 3353-5-1 du code la santé publique.
+
+6° bis Contraventions réprimées par les 1° et 3° de l'article R. 254-20 du code
+rural.
