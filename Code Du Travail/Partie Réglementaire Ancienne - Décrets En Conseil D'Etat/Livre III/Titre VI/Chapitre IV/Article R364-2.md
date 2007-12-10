@@ -1,12 +1,7 @@
 Article R364-2
 ----
-Tout employeur qui aura occupé une proportion de travailleurs étrangers
-supérieure à la limite fixée en vertu des articles L. 342-1 et L. 342-2 sera
-passible d'une amende de 300 F à 600 F par jour par travailleur irrégulièrement
-occupé.
-
-Toute contravention à l'article L. 342-5 sera passible d'une amende de 300 F (1)
-à 600 F (1) *taux résultant du décret 567 du 18 juillet 1980*.
-
-Ces pénalités ne sauraient préjudicier à l'application de celles prévues par les
-cahiers des charges ou par l'article R. 364-1.
+Le fait pour un employeur de ne pas présenter à l'inspecteur du travail les
+documents mentionnés aux articles R. 342-7, R. 342-8, R. 342-10 et R. 342-11, ou
+à l'inspecteur général du travail des transports les documents mentionnés à
+l'article R. 342-12, dans les conditions déterminées à ces articles, est puni de
+l'amende prévue pour les contraventions de 3e classe.
