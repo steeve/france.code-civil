@@ -1,17 +1,11 @@
 Article R6141-36
 ----
-Lorsque le médecin responsable est un médecin généraliste, il bénéficie au titre
-des fonctions prévues à l'article R. 6141-33 d'une indemnité de responsabilité
-dont le montant mensuel est fixé par le directeur de l'agence régionale de
-l'hospitalisation, sur proposition du conseil d'administration, par référence à
-la valeur de quatre à sept vacations, au taux de niveau 3 des vacations allouées
-aux attachés exerçant dans les centres hospitaliers autres que les centres
-hospitaliers universitaires.
-
 L'hôpital local verse aux médecins généralistes libéraux autorisés à intervenir
 en son sein une indemnisation forfaitaire représentative de la perte de revenus
-occasionnée par leur participation à des réunions au cours desquelles des
-questions relatives à la qualité et à la sécurité des soins sont examinées par :
+occasionnée par leur participation à des actions de formation prévues dans le
+cadre de la politique de formation de l'établissement ainsi qu'à des réunions au
+cours desquelles des questions relatives à la qualité et à la sécurité des soins
+sont examinées par :
 
 1° Le conseil d'administration ;
 
@@ -33,18 +27,19 @@ charge ;
 personnalité morale mentionnées au 9° de l'article L. 6143-1 dans lesquelles ces
 médecins représentent l'établissement.
 
-Cette indemnité, fixée par réunion à 5 consultations de médecins généralistes
-dans le respect des tarifs fixés en application de l'article L. 162-14-1 du code
-de la sécurité sociale, est versée mensuellement sur la base d'un justificatif
-de présence dans la limite de quatre réunions annuelles pour les instances
-mentionnées aux 1° à 6° du présent article et dans la limite de trois réunions
-annuelles pour les instances mentionnées aux 8° à 11°.
+Cette indemnité, fixée par réunion ou par demi-journée de formation à 5
+consultations de médecins généralistes dans le respect des tarifs fixés en
+application de l'article L. 162-14-1 du code de la sécurité sociale, est versée
+mensuellement sur la base d'un justificatif de présence dans la limite de quatre
+réunions annuelles pour les instances mentionnées aux 1° à 5° du présent article
+et dans la limite de cinq journées de formation par an, de trois réunions
+annuelles pour les instances mentionnées aux 6° à 8°.
 
 Peuvent seuls prétendre à ces indemnités les médecins qui siègent avec voix
 délibérative dans ces instances ou qui assistent avec voix consultative à leurs
 séances en vertu du texte qui les institue.
 
-Le montant annuel des indemnités perçues au titre des réunions mentionnées au
-présent article ne peut excéder le tiers du montant des honoraires perçus pour
-la même période dans les conditions définies aux articles R. 6141-34 et R.
-6141-35.
+Le montant annuel des indemnités perçues au titre des formations et des réunions
+mentionnées au présent article ne peut excéder le tiers du montant des
+honoraires perçus pour la même période dans les conditions définies aux articles
+R. 6141-34 et R. 6141-35.

@@ -11,8 +11,8 @@ ces établissements ;
 
 3° L'harmonisation de la gestion des dossiers des malades ;
 
-4° La compatibilité du traitement des informations permettant l'analyse de
-l'activité prévue à l'article L. 6113-7.
+4° Les modalités de transmission et de traitement des informations permettant
+l'analyse de l'activité prévue à l'article L. 6113-7.
 
 La convention prévoit en outre, le cas échéant, l'organisation de consultations
 externes spécialisées à l'hôpital local en liaison avec le ou les établissements

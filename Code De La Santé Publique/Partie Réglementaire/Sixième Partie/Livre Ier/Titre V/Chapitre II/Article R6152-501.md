@@ -4,9 +4,9 @@ Les médecins, odontologistes et pharmaciens mentionnés au 2° de l'article L.
 6152-1 peuvent être recrutés en qualité d'assistant des hôpitaux dans les
 conditions définies par la présente section :
 
-1° Dans les centres hospitaliers non universitaires sous réserve, en ce qui
-concerne les hôpitaux locaux, que soient remplies les conditions définies aux
-articles R. 6141-29 et R. 6141-30 ;
+1° Dans les centres hospitaliers non universitaires et les hôpitaux locaux, sous
+réserve, en ce qui concerne les hôpitaux locaux, que soient remplies les
+conditions définies aux articles R. 6141-29 à R. 6141-31 ;
 
 2° Dans les centres hospitaliers universitaires, sous réserve qu'ils exercent
 leurs fonctions dans les services ou structures de biologie déterminés au 1° de
