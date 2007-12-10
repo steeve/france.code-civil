@@ -1,10 +1,10 @@
 Article R214-6
 ----
-I. - Toute personne souhaitant réaliser une installation, un ouvrage, des
-travaux ou une activité soumise à autorisation adresse une demande au préfet du
+I.-Toute personne souhaitant réaliser une installation, un ouvrage, des travaux
+ou une activité soumise à autorisation adresse une demande au préfet du
 département ou des départements où ils doivent être réalisés.
 
-II. - Cette demande, remise en sept exemplaires, comprend :
+II.-Cette demande, remise en sept exemplaires, comprend :
 
 1° Le nom et l'adresse du demandeur ;
 
@@ -49,7 +49,7 @@ moyens d'intervention en cas d'incident ou d'accident ;
 6° Les éléments graphiques, plans ou cartes utiles à la compréhension des pièces
 du dossier, notamment de celles mentionnées aux 3° et 4°.
 
-III. - Lorsqu'il s'agit de stations d'épuration d'une agglomération
+III.-Lorsqu'il s'agit de stations d'épuration d'une agglomération
 d'assainissement ou de dispositifs d'assainissement non collectif, la demande
 comprend en outre :
 
@@ -94,8 +94,8 @@ f) Les modalités prévues d'élimination des sous-produits issus de l'entretien
 système de collecte des eaux usées et du fonctionnement de la station
 d'épuration ou du dispositif d'assainissement non collectif.
 
-IV. - Lorsqu'il s'agit de déversoirs d'orage situés sur un système de collecte
-des eaux usées, la demande comprend en outre :
+IV.-Lorsqu'il s'agit de déversoirs d'orage situés sur un système de collecte des
+eaux usées, la demande comprend en outre :
 
 1° Une évaluation des charges brutes et des flux de substances polluantes,
 actuelles et prévisibles, parvenant au déversoir, ainsi que leurs variations,
@@ -108,7 +108,41 @@ pluviométriques d'intensité supérieure ou égale à ce niveau ;
 3° Une estimation des flux de pollution déversés au milieu récepteur en fonction
 des événements pluviométriques retenus au 2° et l'étude de leur impact.
 
-V. - Les études et documents prévus au présent article portent sur l'ensemble
+V.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3. 2. 5. 0 du tableau de
+l'article R. 214-1 :
+
+1° En complément des informations prévues au 5° du II, des consignes de
+surveillance de l'ouvrage en toutes circonstances et des consignes
+d'exploitation en période de crue ;
+
+2° Une note décrivant les mesures de sécurité pendant la première mise en eau ;
+
+3° Une étude de dangers si l'ouvrage est de classe A ou B.
+
+VI.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3. 2. 6. 0 du tableau
+de l'article R. 214-1 :
+
+1° En complément des informations prévues au 5° du II, des consignes de
+surveillance de l'ouvrage en toutes circonstances et des consignes
+d'exploitation en période de crue ;
+
+2° Une étude de dangers si l'ouvrage est de classe A, B ou C.
+
+VII.-Lorsqu'il s'agit d'un plan de gestion établi pour la réalisation d'une
+opération groupée d'entretien régulier d'un cours d'eau, canal ou plan d'eau
+prévue par l'article L. 215-15, la demande comprend en outre :
+
+1° La démonstration de la cohérence hydrographique de l'unité d'intervention ;
+
+2° S'il y a lieu, la liste des obstacles naturels ou artificiels, hors ouvrages
+permanents, préjudiciables à la sécurité des sports nautiques non motorisés ;
+
+3° Le programme pluriannuel d'interventions ;
+
+4° S'il y a lieu, les modalités de traitement des sédiments déplacés, retirés ou
+remis en suspension dans le cours d'eau.
+
+VIII.-Les études et documents prévus au présent article portent sur l'ensemble
 des installations, ouvrages, travaux ou activités exploités ou projetés par le
 demandeur qui, par leur proximité ou leur connexité avec l'installation soumise
 à autorisation, sont de nature à participer aux incidences sur les eaux ou le

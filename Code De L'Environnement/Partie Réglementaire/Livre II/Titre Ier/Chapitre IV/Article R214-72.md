@@ -1,6 +1,6 @@
 Article R214-72
 ----
-I. - Par dérogation à l'article R. 214-6, le dossier de demande comporte les
+I.-Par dérogation à l'article R. 214-6, le dossier de demande comporte les
 pièces et informations suivantes :
 
 1° Le nom et l'adresse du demandeur ;
@@ -79,10 +79,16 @@ motrice de la chute et de ses aménagements ;
 annexé à l'article R. 214-85 et comportant les compléments et dérogations à ce
 règlement d'eau type ;
 
-17° L'indication des moyens de surveillance prévus et, si l'opération présente
-un danger, des moyens d'intervention en cas d'incident ou d'accident.
+17° L'indication des moyens d'intervention en cas d'incident et d'accident ;
 
-II. - En outre, lorsque le pétitionnaire est une collectivité locale ou un
+18° Un recueil de consignes de surveillance de l'ouvrage en toutes circonstances
+et de consignes d'exploitation en période de crue ;
+
+19° Le cas échéant une étude de dangers ;
+
+20° Une note décrivant les mesures de sécurité pendant la première mise en eau.
+
+II.-En outre, lorsque le pétitionnaire est une collectivité locale ou un
 groupement de collectivités locales et qu'il sollicite une déclaration d'utilité
 publique en application de l'article 16 bis de la loi du 16 octobre 1919
 relative à l'utilisation de l'énergie hydraulique, le dossier accompagnant la

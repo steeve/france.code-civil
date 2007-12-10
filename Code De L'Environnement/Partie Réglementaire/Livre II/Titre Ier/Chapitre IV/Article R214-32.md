@@ -125,17 +125,3 @@ consignes de surveillance de l'ouvrage en toutes circonstances et des consignes
 d'exploitation en période de crue ;
 
 Une étude de dangers si l'ouvrage est de classe A, B ou C.
-
-VII.-Lorsqu'il s'agit d'un plan de gestion établi pour la réalisation d'une
-opération groupée d'entretien régulier d'un cours d'eau, canal ou plan d'eau
-prévue par l'article L. 215-15, la demande comprend en outre :
-
-1° La démonstration de la cohérence hydrographique de l'unité d'intervention ;
-
-2° S'il y a lieu, la liste des obstacles naturels ou artificiels, hors ouvrages
-permanents, préjudiciables à la sécurité des sports nautiques non motorisés ;
-
-3° Le programme pluriannuel d'interventions ;
-
-4° S'il y a lieu, les modalités de traitement des sédiments déplacés, retirés ou
-remis en suspension dans le cours d'eau.
