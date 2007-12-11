@@ -32,6 +32,8 @@ Dès réception de la demande initiale, la commission informe par lettre
 recommandée avec accusé de réception le professionnel, l'établissement, le
 centre, l'organisme de santé ou le producteur, l'exploitant ou le distributeur
 de produits de santé dont la responsabilité est mise en cause, le cas échéant,
-par le demandeur. La partie mise en cause indique sans délai à la commission le
-nom de l'assureur qui garantit sa responsabilité civile, au moment de la demande
-d'indemnisation ainsi qu'à l'époque des faits incriminés.
+par le demandeur ainsi que l'organisme de sécurité sociale auquel était affiliée
+la victime lors du dommage qu'elle a subi. La partie mise en cause indique sans
+délai à la commission le nom de l'assureur qui garantit sa responsabilité
+civile, au moment de la demande d'indemnisation ainsi qu'à l'époque des faits
+incriminés.
