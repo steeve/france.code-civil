@@ -1,9 +1,7 @@
 Article R611-84
 ----
-La caisse de base conclut une convention avec les organismes habilités auxquels
-elle entend confier le soin d'effectuer, pour son compte, les opérations
-mentionnées au premier alinéa de l'article L. 611-20.
-
-Une convention type peut être établie par arrêté conjoint du ministre chargé de
-la sécurité sociale et du ministre chargé du budget, pris après avis du conseil
-d'administration de la caisse nationale.
+Lorsque des organismes conventionnés décident de fusionner, ils avertissent la
+caisse nationale de ce projet. Sauf décision contraire de la caisse nationale
+intervenant dans le délai de deux mois, l'organisme résultant de la fusion est
+conventionné, dès lors qu'il remplit les conditions prévues à l'article R.
+611-79.

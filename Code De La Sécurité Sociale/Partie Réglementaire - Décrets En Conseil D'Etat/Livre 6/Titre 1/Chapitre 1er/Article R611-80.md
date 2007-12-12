@@ -1,27 +1,24 @@
 Article R611-80
 ----
-L'habilitation prévue au deuxième alinéa de l'article L. 611-20 est prononcée
-par la Caisse nationale du régime social des indépendants.
+I. ― En vue de conclure la convention mentionnée au premier alinéa du I de
+l'article R. 611-79, l'organisme adresse une demande de conventionnement à la
+caisse nationale.
 
-Elle est accordée aux organismes remplissant les conditions suivantes :
+II. ― Dès la réception de cette demande, la caisse nationale envoie un accusé de
+réception à l'organisme demandeur et lui fait connaître la liste des pièces et
+informations à fournir.
 
-1° Appartenir à l'une des catégories ci-après énumérées :
+III. ― Dans le délai d'un mois à compter de la réception du dossier complet, la
+caisse nationale notifie à l'organisme, par lettre recommandée avec accusé de
+réception, sa décision de conventionnement ou de refus de conventionnement. En
+cas de refus de conventionnement, cette décision doit être motivée.
 
-a) Organismes régis par le code de la mutualité et habilités par leurs statuts à
-assurer la couverture des risques de maladie ou de maternité ;
+IV. ― Les décisions de conventionnement ou de refus de conventionnement sont
+immédiatement communiquées au ministre chargé de la sécurité sociale et au
+ministre chargé du budget.
 
-b) Sociétés d'assurances régies par le code des assurances qui sont agréées pour
-effectuer les opérations mentionnées à l'article R. 321-1 de ce code ;
-
-c) Groupements constitués par lesdites sociétés d'assurances, en vue de
-l'exécution des tâches prévues au premier alinéa de l'article L. 611-20, dont
-les statuts sont conformes à des statuts types fixés par arrêté du ministre
-chargé du budget et du ministre chargé de la sécurité sociale ;
-
-2° Présenter des garanties de leur aptitude à remplir d'une manière aussi
-économique et efficace que possible les obligations qui leur incomberaient dans
-leur participation à la gestion du régime ;
-
-3° Disposer sur le territoire national d'une organisation administrative leur
-permettant d'effectuer les opérations en vue desquelles ils sollicitent
-l'habilitation.
+Chacun des deux ministres, s'il estime qu'une des conditions mentionnées à
+l'article R. 611-79 n'est pas remplie, peut faire opposition à une décision de
+conventionnement dans le délai d'un mois à compter de la date à laquelle elle
+lui a été communiquée.A défaut d'opposition notifiée dans ce délai, la décision
+de la caisse nationale prend son entier effet.

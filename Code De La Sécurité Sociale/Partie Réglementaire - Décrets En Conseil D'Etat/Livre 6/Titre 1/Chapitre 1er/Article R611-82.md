@@ -1,32 +1,19 @@
 Article R611-82
 ----
-L'habilitation peut être prononcée soit pour l'ensemble de la circonscription
-d'une caisse de base, soit pour une zone géographique plus restreinte.
+La convention type prévue au second alinéa du I de l'article R. 611-79 fixe : 1°
+Les modalités suivant lesquelles les organismes conventionnés s'acquittent des
+obligations qui leur incombent en vertu des textes législatifs et réglementaires
+pris pour l'application du présent titre ;
 
-Sauf décision contraire de la caisse nationale, l'habilitation donne à
-l'organisme vocation pour effectuer l'ensemble des opérations énumérées au
-deuxième alinéa de l'article L. 611-20.
+2° La durée, qui ne peut être inférieure à quatre ans, les conditions de
+dénonciation et les modalités de renouvellement des conventions conclues entre
+la caisse nationale et les organismes auxquels celle-ci confie l'exécution des
+opérations mentionnées à l'article L. 611-20 ;
 
-Les décisions refusant l'habilitation doivent être motivées.
+3° Les modalités de suivi par la caisse nationale et les caisses de base de la
+réalisation des objectifs fixés dans les contrats prévus à l'article R. 611-87 ;
 
-Les décisions d'habilitation ou de refus d'habilitation sont notifiées dans un
-délai de huit jours à la caisse de base et à l'organisme intéressé. Elles sont
-immédiatement communiquées au ministre chargé de la sécurité sociale et au
-ministre chargé du budget.
+4° L'organisation du contrôle des organismes conventionnés par la caisse
+nationale et les caisses de base.
 
-Si aucune décision n'a été notifiée à l'issue d'un délai de soixante jours à
-compter de la réception par la caisse nationale de la demande, l'habilitation
-est réputée acquise.
-
-Lorsque la caisse nationale a accordé l'habilitation, chacun des deux ministres
-peut faire opposition à cette décision dans le délai d'un mois à compter de la
-date où elle lui a été communiquée. A défaut d'opposition notifiée dans ce
-délai, la décision de la caisse nationale prend son entier effet.
-
-Dans le cas d'une décision implicite d'habilitation, le délai d'opposition des
-ministres de tutelle court à compter du jour où cette habilitation est réputée
-acquise.
-
-En cas de décision de refus d'habilitation, chacun des deux ministres mentionnés
-ci-dessus peut demander à la caisse nationale une nouvelle délibération, qui
-doit intervenir dans le mois suivant cette demande.
+Elle comporte des clauses obligatoires et des clauses facultatives.

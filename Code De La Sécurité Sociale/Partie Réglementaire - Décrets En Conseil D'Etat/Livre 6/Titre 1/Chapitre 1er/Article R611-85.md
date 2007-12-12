@@ -1,14 +1,27 @@
 Article R611-85
 ----
-La convention type prévue au second alinéa de l'article R. 611-84 fixe, en tant
-que de besoin, les modalités suivant lesquelles les organismes conventionnés
-s'acquittent des obligations qui leur incombent en vertu des textes
-réglementaires pris pour l'application du présent titre.
+La convention d'objectifs et de moyens mentionnée au troisième alinéa de
+l'article L. 611-21, conclue entre la caisse nationale et chacun des organes
+nationaux représentant les organismes conventionnés, fixe :
 
-Cette convention type fixe également la durée, les conditions de dénonciation et
-les modalités de renouvellement des conventions conclues entre les caisses de
-base et les organismes habilités auxquels celles-ci confient l'exécution des
-opérations mentionnées au premier alinéa de l'article L. 611-20.
+1° Les objectifs liés à la mise en oeuvre des dispositions législatives et
+réglementaires pour l'accomplissement des opérations mentionnées à l'article L.
+611-20 ;
 
-Cette convention type comporte des clauses obligatoires et des clauses
-facultatives.
+2° Les objectifs liés à l'amélioration de la qualité du service aux usagers ;
+
+3° Les objectifs liés à l'amélioration du rendement des organismes conventionnés
+et des conditions d'exécution de leurs missions ;
+
+4° Le montant des remises de gestion accordées en contrepartie des activités
+confiées aux organismes conventionnés ainsi que les modalités et le calendrier
+de leur versement aux organes nationaux qui les représentent ;
+
+5° Les modalités de suivi et d'évaluation de la mise en oeuvre de la convention.
+
+La convention prévoit les indicateurs quantitatifs et qualitatifs associés à la
+définition des objectifs.
+
+La caisse nationale adresse un bilan annuel d'exécution de la convention au
+ministre chargé de la sécurité sociale, au ministre chargé du budget et au
+ministre chargé du commerce, de l'artisanat et des professions libérales.

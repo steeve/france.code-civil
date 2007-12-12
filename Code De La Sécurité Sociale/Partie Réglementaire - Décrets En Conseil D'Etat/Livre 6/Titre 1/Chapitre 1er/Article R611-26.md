@@ -28,12 +28,5 @@ L. 611-7.
 Il contrôle l'application par le directeur et l'agent comptable des dispositions
 législatives et réglementaires ainsi que l'exécution de ses décisions.
 
-Il contrôle l'application par les organismes conventionnés mentionnés à
-l'article L. 611-20 et situés dans la circonscription de la caisse des
-dispositions législatives, réglementaires et conventionnelles, notamment en
-matière d'encaissement des cotisations maladie, de versement des prestations
-maladie et de respect des exigences des contrats signés par l'organisme
-conventionné pour l'exercice des fonctions qui lui sont confiées.
-
 Le conseil d'administration peut être saisi par le directeur de toute question
 relative au fonctionnement de la caisse.
