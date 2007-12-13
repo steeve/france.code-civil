@@ -7,11 +7,6 @@ préfets des départements concernés. Dans ce dernier cas, le préfet du
 département où la plus grande partie de l'opération doit être réalisée coordonne
 l'enquête.
 
-Lorsque le pétitionnaire est une communauté locale de l'eau, elle joint
-obligatoirement au dossier de l'enquête son programme pluriannuel
-d'intervention, qui mentionne l'opération dont elle demande la déclaration du
-caractère d'intérêt général ou d'urgence.
-
 Lorsque, pour l'application des dispositions des articles R. 435-34 à R. 435-39
 il y a lieu de procéder à une déclaration d'utilité publique, le dossier de
 l'enquête comporte un état des propriétés incluses dans l'emprise de l'opération
