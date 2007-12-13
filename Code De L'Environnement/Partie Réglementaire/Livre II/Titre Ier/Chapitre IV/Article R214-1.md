@@ -4,7 +4,7 @@ La nomenclature des installations, ouvrages, travaux et activités soumis à
 autorisation ou à déclaration en application des articles L. 214-1 à L. 214-6
 figure au tableau annexé au présent article.
 
-Tableau de l'article R. 214-1
+Tableau de l'article R. 214-1 :
 
 Nomenclature des opérations soumises à autorisation ou à déclaration en
 application des articles L. 214-1 à L. 214-3 du code de l'environnement
@@ -225,15 +225,15 @@ artificiels, par des techniques autres que végétales vivantes :
 3. 1. 5. 0. Installations, ouvrages, travaux ou activités, dans le lit mineur
 d'un cours d'eau, étant de nature à détruire les frayères, les zones de
 croissance ou les zones d'alimentation de la faune piscicole, des crustacés et
-des batraciens :
+des batraciens , ou dans le lit majeur d'un cours d'eau, étant de nature à
+détruire les frayères de brochet :
 
 1° Destruction de plus de 200 m2 de frayères (A) ;
 
 2° Dans les autres cas (D).
 
 3. 2. 1. 0. Entretien de cours d'eau ou de canaux, à l'exclusion de l'entretien
-visé à l'article L. 215-14 réalisé par le propriétaire riverain, du maintien et
-du rétablissement des caractéristiques des chenaux de navigation, des dragages
+visé à l'article L. 215-14 réalisé par le propriétaire riverain, des dragages
 visés à la rubrique 4. 1. 3. 0 et de l'entretien des ouvrages visés à la
 rubrique 2. 1. 5. 0, le volume des sédiments extraits étant au cours d'une année
 :
