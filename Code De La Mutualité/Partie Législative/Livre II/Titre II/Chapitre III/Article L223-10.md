@@ -33,3 +33,7 @@ cette substitution peut être réalisée soit par la modification du bulletin
 d'adhésion, soit par voie d'avenant au contrat, soit en remplissant les
 formalités édictées par l'article 1690 du code civil, soit par endossement quand
 le contrat est à ordre, soit par voie testamentaire.
+
+Lorsque la mutuelle ou l'union est informée du décès du membre participant, elle
+est tenue de rechercher le bénéficiaire et, si cette recherche aboutit, de
+l'aviser de la stipulation effectuée à son profit.

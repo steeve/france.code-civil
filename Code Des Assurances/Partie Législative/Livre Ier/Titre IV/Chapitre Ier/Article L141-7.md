@@ -7,7 +7,7 @@ composé, pour plus de la moitié, de membres ne détenant ou n'ayant détenu au
 cours des deux années précédant leur désignation aucun intérêt ni aucun mandat
 dans l'organisme d'assurance signataire du contrat d'assurance de groupe, et ne
 recevant ou n'ayant reçu au cours de la même période aucune rétribution de la
-part de ces mêmes organismes ou sociétés.
+part de ce même organisme.
 
 Les adhérents à ces contrats sont membres de droit de l'association
 souscriptrice ; ils disposent d'un droit de vote à l'assemblée générale et
@@ -16,4 +16,4 @@ d'Etat précise, pour ces associations, les droits des adhérents lors des
 assemblées générales.
 
 II. - Le I ne s'applique pas au régime de retraite complémentaire institué par
-la Caisse nationale de prévoyance de la fonction publique. (1)
+la Caisse nationale de prévoyance de la fonction publique.

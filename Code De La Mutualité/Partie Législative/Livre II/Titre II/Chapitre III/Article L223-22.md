@@ -28,15 +28,8 @@ adhésion obligatoire ou facultative en cas de vie dont les prestations sont
 liées à la cessation d'activité professionnelle doivent comporter une clause de
 transférabilité.
 
-Pour les autres assurances sur la vie, la mutuelle ou l'union ne peut refuser la
-réduction ou le rachat lorsque 15 % des cotisations prévues au contrat ont été
-versées. Le droit à rachat ou à réduction est acquis lorsqu'au moins deux
-cotisations annuelles ont été payées.
+Pour les autres assurances sur la vie et pour les opérations de capitalisation,
+la mutuelle ou l'union ne peut refuser la réduction ou le rachat.
 
 La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la
-valeur de rachat du contrat est inférieure à un montant fixé par décret.
-
-Pour les opérations de capitalisation, la mutuelle ou l'union ne peut refuser le
-rachat lorsque 15 % des cotisations prévues au contrat ont été versées. En tout
-état de cause, le droit à rachat est acquis lorsqu'au moins deux cotisations
-annuelles ont été payées.
+valeur de rachat est inférieure à un montant fixé par décret.
