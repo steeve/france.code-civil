@@ -7,3 +7,8 @@ parties, selon des énonciations précisées par décret en Conseil d'Etat.
 
 Le contrat précise les conditions d'affectation des bénéfices techniques et
 financiers.
+
+Le contrat d'assurance comportant des valeurs de rachat précise les conditions
+dans lesquelles, en cas de décès, la revalorisation du capital garanti
+intervient à compter au plus tard du premier anniversaire du décès de l'assuré
+jusqu'à la réception des pièces mentionnées à l'article L. 132-23-1.

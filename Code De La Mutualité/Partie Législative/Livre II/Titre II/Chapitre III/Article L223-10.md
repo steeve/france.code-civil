@@ -31,8 +31,8 @@ cette substitution ne peut être opérée, à peine de nullité, qu'avec l'accor
 membre participant, lorsque celui-ci n'est pas le cotisant. Cette désignation ou
 cette substitution peut être réalisée soit par la modification du bulletin
 d'adhésion, soit par voie d'avenant au contrat, soit en remplissant les
-formalités édictées par l'article 1690 du code civil, soit par endossement quand
-le contrat est à ordre, soit par voie testamentaire.
+formalités édictées par l'article 1690 du code civil, soit par voie
+testamentaire.
 
 Lorsque la mutuelle ou l'union est informée du décès du membre participant, elle
 est tenue de rechercher le bénéficiaire et, si cette recherche aboutit, de

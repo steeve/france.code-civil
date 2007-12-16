@@ -31,7 +31,7 @@ cette substitution ne peut être opérée, à peine de nullité, qu'avec l'accor
 l'assuré, lorsque celui-ci n'est pas le contractant. Cette désignation ou cette
 substitution peut être réalisée soit par voie d'avenant au contrat, soit en
 remplissant les formalités édictées par l'article 1690 du code civil, soit par
-endossement quand la police est à ordre, soit par voie testamentaire.
+voie testamentaire.
 
 Lorsque l'assureur est informé du décès de l'assuré, l'assureur est tenu de
 rechercher le bénéficiaire, et, si cette recherche aboutit, de l'aviser de la

@@ -1,15 +1,9 @@
 Article L223-20
 ----
-Les modalités de calcul de la valeur de rachat ou de la valeur de transfert pour
-les opérations relevant de l'article L. 144-2 du code des assurances et, le cas
-échéant, de la valeur de réduction sont déterminées par un règlement général
-mentionné dans les règlements ou le contrat collectif et établi par la mutuelle
-ou l'union.
-
-Dès la signature du bulletin d'adhésion ou du contrat collectif, la mutuelle ou
-l'union informe l'adhérent que ce règlement général est tenu à sa disposition,
-sur sa demande. La mutuelle ou l'union doit communiquer à l'adhérent, sur la
-demande de celui-ci, le texte du règlement général.
+Le bulletin d'adhésion ou le contrat précise les modalités de calcul de la
+valeur de rachat ou de la valeur de transfert et, le cas échéant, de la valeur
+de réduction. Pour le calcul de la valeur de réduction, il ne peut être prévu
+d'imputer sur la provision mathématique du contrat une indemnité de réduction.
 
 Dans la limite de la valeur de rachat, la mutuelle ou l'union peut consentir des
 avances au membre participant.
