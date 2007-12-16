@@ -7,10 +7,13 @@ code des assurances ci-après reproduits :
 " Art.L. 211-1.-Toute personne physique ou toute personne morale autre que
 l'Etat, dont la responsabilité civile peut être engagée en raison de dommages
 subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la
-réalisation desquels un véhicule terrestre à moteur, ainsi que ses remorques ou
-semi-remorques, est impliqué, doit, pour faire circuler lesdits véhicules, être
-couverte par une assurance garantissant cette responsabilité, dans les
-conditions fixées par décret en Conseil d'Etat.
+réalisation desquels un véhicule est impliqué, doit, pour faire circuler
+celui-ci, être couverte par une assurance garantissant cette responsabilité,
+dans les conditions fixées par décret en Conseil d'Etat. Pour l'application du
+présent article, on entend par "véhicule" tout véhicule terrestre à moteur,
+c'est-à-dire tout véhicule automoteur destiné à circuler sur le sol et qui peut
+être actionné par une force mécanique sans être lié à une voie ferrée, ainsi que
+toute remorque, même non attelée.
 
 Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa
 du présent article doivent également couvrir la responsabilité civile de toute
@@ -32,7 +35,7 @@ l'emploi de véhicules automobiles.
 Les membres de la famille du conducteur ou de l'assuré, ainsi que les élèves
 d'un établissement d'enseignement de la conduite des véhicules terrestres à
 moteur agréé, en cours de formation ou d'examen, sont considérés comme des tiers
-au sens du premier alinéa du présent article. "
+au sens du premier alinéa du présent article."
 
 " Art.L. 211-2.-Les dispositions de l'article L. 211-1 ne sont pas applicables
 aux dommages causés par les chemins de fer et les tramways. "
