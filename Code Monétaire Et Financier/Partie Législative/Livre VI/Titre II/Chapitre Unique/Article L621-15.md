@@ -1,6 +1,6 @@
 Article L621-15
 ----
-I. - Le collège examine le rapport d'enquête ou de contrôle établi par les
+I.-Le collège examine le rapport d'enquête ou de contrôle établi par les
 services de l'Autorité des marchés financiers, ou la demande formulée par le
 gouverneur de la Banque de France, président de la Commission bancaire, ou par
 le président de l'Autorité de contrôle des assurances et des mutuelles.
@@ -18,7 +18,7 @@ aux a et b du II contre lesquelles des procédures de sanction sont engagées.
 Si le collège transmet au procureur de la République le rapport mentionné au
 premier alinéa, le collège peut décider de rendre publique la transmission.
 
-II. - La commission des sanctions peut, après une procédure contradictoire,
+II.-La commission des sanctions peut, après une procédure contradictoire,
 prononcer une sanction à l'encontre des personnes suivantes :
 
 a) Les personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article L.
@@ -53,7 +53,7 @@ Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
 économique européen ou pour lequel une demande d'admission aux négociations sur
 un tel marché a été présentée.
 
-III. - Les sanctions applicables sont :
+III.-Les sanctions applicables sont :
 
 a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de
 l'article L. 621-9, l'avertissement, le blâme, l'interdiction à titre temporaire
@@ -66,7 +66,7 @@ sanctionnée ou, à défaut, au Trésor public ;
 
 b) Pour les personnes physiques placées sous l'autorité ou agissant pour le
 compte de l'une des personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de
-l'article L. 621-9, et l'avertissement, le blâme, le retrait temporaire ou
+l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou
 définitif de la carte professionnelle, l'interdiction à titre temporaire ou
 définitif de l'exercice de tout ou partie des activités ; la commission des
 sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
@@ -87,11 +87,16 @@ Le montant de la sanction doit être fixé en fonction de la gravité des
 manquements commis et en relation avec les avantages ou les profits
 éventuellement tirés de ces manquements.
 
-IV. - La commission des sanctions statue par décision motivée, hors la présence
-du rapporteur. Aucune sanction ne peut être prononcée sans que la personne
+III bis.-Dans les conditions fixées par décret en Conseil d'Etat, la récusation
+d'un membre de la commission des sanctions est prononcée à la demande de la
+personne mise en cause s'il existe une raison sérieuse de mettre en doute
+l'impartialité de ce membre.
+
+IV.-La commission des sanctions statue par décision motivée, hors la présence du
+rapporteur. Aucune sanction ne peut être prononcée sans que la personne
 concernée ou son représentant ait été entendu ou, à défaut, dûment appelé.
 
-V. - La commission des sanctions peut rendre publique sa décision dans les
+V.-La commission des sanctions peut rendre publique sa décision dans les
 publications, journaux ou supports qu'elle désigne, à moins que cette
 publication ne risque de perturber gravement les marchés financiers ou de causer
 un préjudice disproportionné aux parties en cause. Les frais sont supportés par

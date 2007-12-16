@@ -12,7 +12,10 @@ les conditions ci-après :
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services
 aux dispositions du présent code et des textes et décisions pris pour son
-application, ainsi qu'aux prescriptions d'une décision d'attribution ou
+application ou du règlement (CE) n° 717 / 2007 du Parlement européen et du
+Conseil, du 27 juin 2007, concernant l'itinérance sur les réseaux publics de
+téléphonie mobile à l'intérieur de la Communauté et modifiant la directive 2002
+/ 21 / CE, ainsi qu'aux prescriptions d'une décision d'attribution ou
 d'assignation de fréquence prise par l'autorité en application de l'article 26
 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
 communication, l'exploitant ou le fournisseur est mis en demeure par le
@@ -30,19 +33,19 @@ des sanctions suivantes :
 
 a) Soit, en fonction de la gravité du manquement :
 
-- la suspension totale ou partielle, pour un mois au plus, du droit d'établir un
+-la suspension totale ou partielle, pour un mois au plus, du droit d'établir un
 réseau de communications électroniques ou de fournir un service de
 communications électroniques, ou le retrait de ce droit, dans la limite de trois
 ans ;
 
-- la suspension totale ou partielle, pour un mois au plus, la réduction de la
+-la suspension totale ou partielle, pour un mois au plus, la réduction de la
 durée, dans la limite d'une année, ou le retrait de la décision d'attribution ou
 d'assignation prise en application des articles L. 42-1 ou L. 44.
 
 b) Soit, si le manquement n'est pas constitutif d'une infraction pénale, une
 sanction pécuniaire, dont le montant est proportionné à la gravité du manquement
-et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
-d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de
+et aux avantages qui en sont tirés, sans pouvoir excéder 3 % du chiffre
+d'affaires hors taxes du dernier exercice clos, taux porté à 5 % en cas de
 nouvelle violation de la même obligation. A défaut d'activité permettant de
 déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 euros,
 porté à 375 000 euros en cas de nouvelle violation de la même obligation.

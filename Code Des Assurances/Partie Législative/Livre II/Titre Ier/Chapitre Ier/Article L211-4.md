@@ -13,6 +13,10 @@ territoire duquel s'est produit le sinistre ou par celle de l'Etat où le
 véhicule a son stationnement habituel lorsque la couverture d'assurance y est
 plus favorable.
 
+Cette assurance ne peut être résiliée et sa prime ne peut être modifiée au motif
+d'un séjour du véhicule dans un Etat membre de la Communauté européenne autre
+que la France pendant la durée du contrat.
+
 Cette assurance doit également comporter une garantie de la responsabilité
 civile en cas de sinistre survenant au cours du trajet reliant directement deux
 territoires où le traité instituant la Communauté économique européenne est
@@ -24,8 +28,3 @@ victimes les ressortissants des Etats mentionnés au premier alinéa du présent
 article, dans les conditions prévues par la législation nationale sur
 l'obligation d'assurance en vigueur dans l'Etat où le véhicule qui a causé
 l'accident a son stationnement habituel.
-
-L'Etat où le véhicule a son stationnement habituel est soit l'Etat
-d'immatriculation du véhicule, soit, à défaut d'obligation d'immatriculation,
-L'Etat sur le territoire duquel est domiciliée la personne qui a la garde du
-véhicule.

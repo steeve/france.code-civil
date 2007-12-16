@@ -28,8 +28,8 @@ le cadre de ses activités professionnelles dont l'assureur a été l'objet de l
 procédure prévue à l'article L. 421-9-1, le fonds de garantie engage une action
 contre le responsable du dommage. Lorsque le fonds de garantie prend en charge,
 pour le compte de l'entreprise en liquidation, le règlement des dommages
-mentionnés à l'article L. 211-1, le septième alinéa de l'article L. 421-1 est
-applicable.
+mentionnés à l'article L. 211-1, le premier alinéa du III de l'article L. 421-1
+est applicable.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article.

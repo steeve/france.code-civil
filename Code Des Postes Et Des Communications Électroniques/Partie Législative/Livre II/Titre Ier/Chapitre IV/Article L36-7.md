@@ -9,7 +9,10 @@ conformité prévue à l'article L. 34-9 ;
 
 3° Contrôle le respect par les opérateurs des obligations résultant des
 dispositions législatives et réglementaires qui leur sont applicables en vertu
-du présent code et des autorisations dont ils bénéficient et sanctionne les
+du présent code, du règlement (CE) n° 717 / 2007 du Parlement européen et du
+Conseil, du 27 juin 2007, concernant l'itinérance sur les réseaux publics de
+téléphonie mobile à l'intérieur de la Communauté et modifiant la directive 2002
+/ 21 / CE et des autorisations dont ils bénéficient et sanctionne les
 manquements constatés dans les conditions prévues aux articles L. 36-10 et L.
 36-11 ;
 
