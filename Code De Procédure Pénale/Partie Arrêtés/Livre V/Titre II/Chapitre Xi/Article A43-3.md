@@ -3,10 +3,6 @@ Article A43-3
 La liste des quartiers des mineurs des maisons d'arrêt ou des établissements
 pour peines prévue à l'article R. 57-9-11 est fixée comme suit :
 
-Quartier des mineurs de la maison d'arrêt d'Aix-Luynes (Bouches-du-Rhône) ;
-
-Quartier des mineurs de la maison d'arrêt d'Amiens (Somme) ;
-
 Quartier des mineurs de la maison d'arrêt d'Angers (Maine-et-Loire) ;
 
 Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;
@@ -53,16 +49,11 @@ Quartier des mineurs du centre pénitentiaire du Port (Réunion) ;
 
 Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ;
 
-Quartier des mineurs de la maison d'arrêt du centre pénitentiaire de
-Lille-Loos-Sequedin (Nord) ;
-
 Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ;
 
 Quartier des mineurs de la maison d'arrêt de Longuenesse (Pas-de-Calais) ;
 
 Quartier des mineurs du centre pénitentiaire de Lorient-Plömeur (Morbihan) ;
-
-Quartier des mineurs de la maison d'arrêt de Lyon-Perrache (Rhône) ;
 
 Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ;
 
@@ -81,8 +72,6 @@ Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
 Quartier des mineurs du centre pénitentiaire de Nantes (Loire-Atlantique) ;
 
-Quartier des mineurs de la maison d'arrêt de Nîmes (Gard) ;
-
 Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
 
 Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ;
@@ -100,26 +89,16 @@ Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
 
 Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ;
 
-Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ;
-
 Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 
 Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ;
 
-Quartier des mineurs de la maison d'arrêt de Strasbourg (Haut-Rhin) ;
-
-Quartier des mineurs du centre pénitentiaire de Toulon-La Farlède (Var) ;
-
-Quartier des mineurs de la maison d'arrêt de Toulouse-Seysses (Haute-Garonne) ;
+Quartier des mineurs de la maison d'arrêt de Strasbourg (Bas-Rhin) ;
 
 Quartier des mineurs de la maison d'arrêt de Tours (Indre-et-Loire) ;
 
-Quartier des mineurs de la maison d'arrêt de Valenciennes (Nord) ;
-
 Quartier des mineurs de la maison d'arrêt de Varennes-le-Grand (Saône-et-Loire)
 ;
-
-Quartier des mineurs de la maison d'arrêt de Villefranche-sur-Saône (Rhône) ;
 
 Quartier des mineurs de la maison d'arrêt de Villeneuve-lès-Maguelone (Hérault)
 ;
