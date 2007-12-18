@@ -28,7 +28,7 @@ aux articles L. 245-14 et L. 245-15 ;
 8° Les fonds consignés au 31 décembre 2003 au titre des compensations prévues à
 l'article L. 134-1 ;
 
-9° Le produit de la contribution instituée à l'article L. 137-10 ;
+9° Alinéa abrogé
 
 10° Le produit de la contribution instituée à l'article L. 137-11.
 
