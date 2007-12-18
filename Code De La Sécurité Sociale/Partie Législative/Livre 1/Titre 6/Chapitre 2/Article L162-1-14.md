@@ -1,6 +1,6 @@
 Article L162-1-14
 ----
-I.-Peuvent faire l'objet d'une pénalité prononcée par le directeur de
+I. - Peuvent faire l'objet d'une pénalité prononcée par le directeur de
 l'organisme local d'assurance maladie :
 
 1° Les bénéficiaires des régimes obligatoires des assurances maladie, maternité,
@@ -20,12 +20,12 @@ dispositifs médicaux aux bénéficiaires mentionnés au 1° ;
 4° Tout individu impliqué dans le fonctionnement d'une fraude en bande
 organisée.
 
-II.-La pénalité mentionnée au I est due pour :
+II. - La pénalité mentionnée au I est due pour :
 
-1° Toute inobservation des règles du présent code, du code de la santé publique
-ou du code de l'action sociale et des familles ayant abouti à une demande, une
-prise en charge ou un versement indu d'une prestation en nature ou en espèces
-par l'organisme local d'assurance maladie. Il en va de même lorsque
+1° Toute inobservation des règles du présent code, du code de la santé publique,
+du code rural ou du code de l'action sociale et des familles ayant abouti à une
+demande, une prise en charge ou un versement indu d'une prestation en nature ou
+en espèces par l'organisme local d'assurance maladie. Il en va de même lorsque
 l'inobservation de ces règles a pour effet de faire obstacle aux contrôles ou à
 la bonne gestion de l'organisme ;
 
@@ -51,7 +51,8 @@ préalable prévus aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17 
 L. 315-1 ;
 
 6° Une récidive après deux périodes de mise sous accord préalable en application
-de l'article L. 162-1-15 ;
+de l'article L. 162-1-15 ou lorsque le médecin n'atteint pas l'objectif de
+réduction des prescriptions ou réalisations prévu au II du même article ;
 
 7° Les abus constatés dans les conditions prévues au II de l'article L. 315-1 ;
 
@@ -60,24 +61,26 @@ personnel les éléments issus de chaque acte ou consultation, dès lors que le
 patient ne s'est pas explicitement opposé au report de cet acte ou consultation
 dans son dossier médical personnel ;
 
-9° Le non-respect par les employeurs des obligations mentionnées aux articles L.
-441-2 et L. 441-5 ;
+9° Le non-respect par les employeurs des obligations relatives à la déclaration
+d'accident du travail à l'organisme local d'assurance maladie et à la remise de
+la feuille d'accident à la victime ;
 
 10° Le fait d'organiser ou de participer au fonctionnement d'une fraude en bande
 organisée.
 
-III.-Le montant de la pénalité mentionnée au I est fixé en fonction de la
+III. - Le montant de la pénalité mentionnée au I est fixé en fonction de la
 gravité des faits reprochés, soit proportionnellement aux sommes concernées dans
 la limite de 50 % de celles-ci, soit, à défaut de sommes déterminées ou
-clairement déterminables, forfaitairement dans la limite de deux fois le plafond
-mensuel de la sécurité sociale. Il est tenu compte des prestations servies au
-titre de la protection complémentaire en matière de santé et de l'aide médicale
-de l'Etat pour la fixation de la pénalité.
+clairement déterminables, réserve faite de l'application de l'article L.
+162-1-14-2, forfaitairement dans la limite de deux fois le plafond mensuel de la
+sécurité sociale. Il est tenu compte des prestations servies au titre de la
+protection complémentaire en matière de santé et de l'aide médicale de l'Etat
+pour la fixation de la pénalité.
 
 Le montant de la pénalité est doublé en cas de récidive dans un délai fixé par
 voie réglementaire.
 
-IV.-Le directeur de l'organisme local d'assurance maladie notifie les faits
+IV. - Le directeur de l'organisme local d'assurance maladie notifie les faits
 reprochés à la personne physique ou morale en cause afin qu'elle puisse
 présenter ses observations dans un délai fixé par voie réglementaire.A
 l'expiration de ce délai, le directeur :
@@ -110,8 +113,8 @@ Le directeur ne peut concurremment recourir au dispositif de pénalité prévu p
 le présent article et aux procédures conventionnelles visant à sanctionner les
 mêmes faits.
 
-V.-La pénalité ne peut être prononcée qu'après avis d'une commission composée et
-constituée au sein du conseil ou du conseil d'administration de l'organisme
+V. - La pénalité ne peut être prononcée qu'après avis d'une commission composée
+et constituée au sein du conseil ou du conseil d'administration de l'organisme
 local d'assurance maladie. Lorsqu'est en cause une des personnes mentionnées au
 3° du I, des représentants de la même profession ou des établissements concernés
 participent à cette commission.
@@ -124,16 +127,16 @@ dont elle évalue le montant.
 L'avis de la commission est adressé simultanément au directeur de l'organisme et
 à l'intéressé.
 
-VI.-Lorsque plusieurs organismes locaux d'assurance maladie sont concernés par
-les mêmes faits mettant en cause une des personnes mentionnées au 3° du I, ils
-peuvent mandater le directeur de l'un d'entre eux pour instruire la procédure
-ainsi que pour prononcer et recouvrer la pénalité en leur nom.
+VI. - Lorsque plusieurs organismes locaux d'assurance maladie sont concernés par
+les mêmes faits mettant en cause une des personnes mentionnées au 3° ou au 4° du
+I, ils peuvent mandater le directeur de l'un d'entre eux pour instruire la
+procédure ainsi que pour prononcer et recouvrer la pénalité en leur nom.
 
 La constitution et la gestion de la commission mentionnée au V peuvent être
 déléguées à un autre organisme local d'assurance maladie par une convention qui
 doit être approuvée par les conseils d'administration des organismes concernés.
 
-VII.-En cas de fraude établie dans des cas définis par voie réglementaire :
+VII. - En cas de fraude établie dans des cas définis par voie réglementaire :
 
 1° Le directeur de l'organisme local d'assurance maladie peut prononcer une
 pénalité sans solliciter l'avis de la commission mentionnée au V ;
@@ -152,5 +155,5 @@ les personnes morales mentionnées au 3° du même I ;
 4° Le délai mentionné au dernier alinéa du III est majoré par voie réglementaire
 ;
 
-VIII.-Les modalités d'application du présent article sont déterminées par décret
-en Conseil d'Etat.
+VIII. - Les modalités d'application du présent article sont déterminées par
+décret en Conseil d'Etat.
