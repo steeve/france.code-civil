@@ -5,7 +5,8 @@ code à des fonctionnaires ou agents d'offices ou établissements de l'Etat dot�
 de l'autonomie financière sont effectués par l'Etat.
 
 Les offices et établissements autonomes sont astreints, en contrepartie, à
-verser annuellement au Trésor public :
+verser mensuellement, dans des conditions fixées par décret en Conseil d'Etat au
+Trésor public :
 
 1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution
 de l'article L. 61 ;
