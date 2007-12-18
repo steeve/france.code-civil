@@ -57,11 +57,10 @@ Le montant de la pénalité ne peut être supérieur à 10 % du chiffre d'affair
 réalisé en France par l'entreprise au titre du dernier exercice clos pour le
 produit considéré ; elle est reconductible, le cas échéant, chaque année.
 
-Les dispositions de l'article L. 138-20 du présent code s'appliquent à la
-pénalité mentionnée à l'alinéa précédent. Son produit est affecté aux régimes
-d'assurance maladie selon les règles prévues à l'article L. 138-8. Le recours
-présenté contre la décision prononçant cette pénalité est un recours de pleine
-juridiction.
+La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
+désignés par le directeur de l'Agence centrale des organismes de sécurité
+sociale. Le recours présenté contre la décision prononçant cette pénalité est un
+recours de pleine juridiction.
 
 Les modalités d'application du présent article, notamment la procédure de prise
 en charge dérogatoire prévue au premier alinéa ainsi que les règles et les

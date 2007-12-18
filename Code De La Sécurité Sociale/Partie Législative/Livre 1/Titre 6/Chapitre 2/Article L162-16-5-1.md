@@ -19,7 +19,8 @@ Si le prix ou le tarif de remboursement fixé ultérieurement par le comité
 économique des produits de santé pour le médicament lors de son inscription au
 remboursement au titre d'une autorisation de mise sur le marché est inférieur au
 montant de l'indemnité déclarée au comité, ce dernier demande au laboratoire de
-reverser à l'Agence centrale des organismes de sécurité sociale, sous forme de
+reverser aux organismes mentionnés à l'article L. 213-1 désignés par le
+directeur de l'Agence centrale des organismes de sécurité sociale, sous forme de
 remise, tout ou partie de la différence entre le chiffre d'affaires facturé aux
 établissements de santé sur la base de l'indemnité et celui qui aurait résulté
 de la valorisation des unités vendues au prix ou au tarif de remboursement fixé

@@ -33,7 +33,7 @@ orientations ministérielles précitées ;
 4° bis Les conditions et les modalités de mise en oeuvre des études
 pharmaco-épidémiologiques, postérieurement à l'obtention de l'autorisation de
 mise sur le marché visée à l'article L. 5121-8 du code de la santé publique ou
-dans le règlement (CEE) n° 2309 / 93 du Conseil, du 22 juillet 1993, établissant
+dans le règlement (CEE) n° 2309/93 du Conseil, du 22 juillet 1993, établissant
 des procédures communautaires pour l'autorisation et la surveillance des
 médicaments à usage humain et à usage vétérinaire et instituant une agence
 européenne pour l'évaluation des médicaments, ainsi que les sanctions encourues
@@ -44,7 +44,7 @@ sur la base des conséquences entraînées pour l'assurance maladie par la
 non-réalisation des études ;
 
 5° Les dispositions conventionnelles applicables en cas de non-respect des
-engagements mentionnés aux 3°,4° et 4° bis.
+engagements mentionnés aux 3°, 4° et 4° bis.
 
 L'accord-cadre visé ci-dessus peut prévoir également les modalités d'information
 des entreprises titulaires d'une autorisation de mise sur le marché d'un
@@ -78,7 +78,8 @@ Son montant est fixé en fonction de la gravité de l'infraction sanctionnée pa
 la mesure d'interdiction et de l'évolution des ventes des spécialités concernées
 durant la période définie à l'alinéa précédent.
 
-La pénalité est recouvrée par l'Agence centrale des organismes de sécurité
+La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
+désignés par le directeur de l'Agence centrale des organismes de sécurité
 sociale. Son produit est affecté aux régimes d'assurance maladie selon les
 règles prévues à l'article L. 138-8 du présent code.
 

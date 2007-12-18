@@ -20,4 +20,7 @@ des collectivités.
 
 Ces conventions sont conclues entre, d'une part, le comité visé à l'article L.
 162-17-3, et, d'autre part, soit une ou plusieurs des organisations syndicales
-nationales les plus représentatives de la profession, soit une entreprise.
+nationales les plus représentatives de la profession, soit une entreprise. Les
+remises sont recouvrées par les organismes mentionnés à l'article L. 213-1
+désignés par le directeur de l'Agence centrale des organismes de sécurité
+sociale.

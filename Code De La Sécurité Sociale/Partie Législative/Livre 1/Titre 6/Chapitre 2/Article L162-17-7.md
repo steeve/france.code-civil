@@ -20,7 +20,8 @@ informations concernées, les règles et délais de procédure, les modes de cal
 de la pénalité financière et la répartition de son produit entre les organismes
 de sécurité sociale, sont déterminées par décret en Conseil d'Etat.
 
-La pénalité est recouvrée par l'Agence centrale des organismes de sécurité
+La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
+désignés par le directeur de l'Agence centrale des organismes de sécurité
 sociale. Son produit est affecté aux régimes d'assurance maladie selon les
 règles prévues à l'article L. 138-8 du présent code.
 
