@@ -28,10 +28,8 @@ janvier 2002).
 complémentaire auxquels le salarié est affilié à titre obligatoire, à condition,
 lorsque ces cotisations ou primes financent des garanties portant sur le
 remboursement ou l'indemnisation de frais occasionnés par une maladie, une
-maternité ou un accident, que ces garanties ne couvrent pas la participation
-mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et
-qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même
-code.
+maternité ou un accident, que ces garanties respectent les conditions
+mentionnées à l'article L. 871-1 du même code.
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
 dans la limite, y compris les versements de l'employeur, d'un montant égal à la

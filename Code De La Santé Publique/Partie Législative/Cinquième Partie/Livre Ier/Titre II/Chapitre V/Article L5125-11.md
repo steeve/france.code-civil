@@ -1,34 +1,27 @@
 Article L5125-11
 ----
-Dans les communes d'une population égale ou supérieure à 30 000 habitants, une
-création d'officine ne peut être accordée que lorsque le nombre d'habitants par
-pharmacie est égal ou supérieur à 3 000.
+L'ouverture d'une officine dans une commune qui en est dépourvue peut être
+autorisée par voie de transfert lorsque le nombre d'habitants recensés dans la
+commune est au moins égal à 2 500.
 
-Dans ce cas, il ne peut être délivré qu'une licence par tranche entière de 3 000
-habitants recensés dans les limites de la commune.
+L'ouverture d'une nouvelle officine dans une commune de plus de 2 500 habitants
+où au moins une licence a déjà été accordée peut être autorisée par voie de
+transfert à raison d'une autorisation par tranche entière supplémentaire de 3
+500 habitants recensés dans la commune.
 
-Dans les communes d'une population égale ou supérieure à 2 500 habitants et
-inférieure à 30 000 habitants, une création d'officine ne peut être accordée que
-lorsque le nombre d'habitants par pharmacie est égal ou supérieur à 2 500.
+Lorsque la dernière officine présente dans une commune de moins de 2 500
+habitants a cessé définitivement son activité et qu'elle desservait jusqu'alors
+une population au moins égale à 2 500 habitants, une nouvelle licence peut être
+délivrée pour l'installation d'une officine par voie de transfert dans cette
+commune.
 
-Dans ce cas, il ne peut être délivré qu'une licence par tranche entière de 2 500
-habitants recensés dans les limites de la commune.
-
-Aucune création n'est possible dans les communes comportant une population
-inférieure à 2 500 habitants :
-
-- lorsqu'elles disposent déjà d'au moins une officine ;
-
-- lorsqu'elles ne disposent d'aucune officine mais que leur population a déjà
-été prise en compte pour la création d'une officine dans une autre commune.
-
-Dans les communes de moins de 2 500 habitants dépourvues d'officine et dont la
-population n'a pas été ou n'est plus prise en compte pour une création
-d'officine dans une autre commune, une création peut être accordée dans une zone
-géographique constituée d'un ensemble de communes contiguës, si la totalité de
-la population de cette zone est au moins égale à 2 500 habitants.
-
-Le représentant de l'Etat dans le département précise, dans sa décision, les
-communes prises en compte pour l'octroi de la licence. La totalité de la
-population de ces communes est considérée comme desservie par la nouvelle
-création.
+Dans les communes qui sont dépourvues d'officine ou dans les zones franches
+urbaines, les zones urbaines sensibles et les zones de redynamisation urbaine
+mentionnées dans la loi n° 96-987 du 14 novembre 1996 relative à la mise en
+oeuvre du pacte de relance pour la ville ainsi que dans les zones de
+revitalisation rurale définies par l'article 1465 A du code général des impôts,
+l'ouverture d'une officine peut être autorisée par voie de création si les
+conditions prévues au premier, deuxième ou troisième alinéa sont remplies depuis
+au moins deux ans à compter de la publication d'un recensement mentionné à
+l'article L. 5125-10 et si aucune décision autorisant cette ouverture par voie
+de transfert ou regroupement n'a été prise dans ce délai.

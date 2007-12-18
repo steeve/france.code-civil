@@ -1,6 +1,6 @@
 Article L6313-1
 ----
-Est puni de 3750 euros d'amende le fait :
+Est puni d'une amende de 8 000 euros le fait :
 
 1° D'effectuer un transport sanitaire sans agrément ou malgré le retrait
 d'agrément ;

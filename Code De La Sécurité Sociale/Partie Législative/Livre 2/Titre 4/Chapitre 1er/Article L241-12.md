@@ -6,13 +6,12 @@ personnes en difficulté sont calculées sur une assiette forfaitaire fixée par
 arrêté lorsque les rémunérations qui leur sont versées sont inférieures ou
 égales au montant de cette assiette.
 
-Il n'est pas dû de cotisations patronales d'assurances sociales, d'allocations
-familiales et d'accidents du travail au titre des activités mentionnées au
-présent article et calculées sur l'assiette forfaitaire mentionnée au précédent
-alinéa ou sur la rémunération ou la partie de la rémunération inférieure ou
-égale, par heure d'activité rémunérée, au salaire minimum de croissance. Les
-présentes dispositions sont applicables aux périodes d'activité accomplies à
-compter du 1er janvier 1999.
+Il n'est pas dû de cotisations patronales d'assurances sociales et d'allocations
+familiales au titre des activités mentionnées au présent article et calculées
+sur l'assiette forfaitaire mentionnée au précédent alinéa ou sur la rémunération
+ou la partie de la rémunération inférieure ou égale, par heure d'activité
+rémunérée, au salaire minimum de croissance. Les présentes dispositions sont
+applicables aux périodes d'activité accomplies à compter du 1er janvier 1999.
 
 Les dispositions du présent article sont applicables aux personnes accueillies
 dans les structures suivantes :

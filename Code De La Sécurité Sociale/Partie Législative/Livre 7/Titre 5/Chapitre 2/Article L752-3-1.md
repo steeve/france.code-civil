@@ -2,13 +2,15 @@ Article L752-3-1
 ----
 Dans les départements mentionnés à l'article L. 751-1, les employeurs, y compris
 les employeurs du secteur artisanal, sont exonérés du paiement des cotisations à
-leur charge au titre de la législation de sécurité sociale, dans les conditions
-suivantes :
+leur charge au titre de la législation de sécurité sociale, à l'exclusion de
+celles dues au titre des accidents du travail et des maladies professionnelles,
+dans les conditions suivantes :
 
-I. - L'exonération est égale à 100 % du montant des cotisations patronales
-afférentes aux salaires et rémunérations des salariés employés dans la limite
-d'un montant de rémunération égal au salaire minimum de croissance majoré de 30
-% dues par :
+I. - L'exonération est égale à 100 % du montant des cotisations patronales, à
+l'exclusion de celles dues au titre des accidents du travail et des maladies
+professionnelles, afférentes aux salaires et rémunérations des salariés employés
+dans la limite d'un montant de rémunération égal au salaire minimum de
+croissance majoré de 30 % dues par :
 
 1° Les entreprises, employeurs et organismes mentionnés à l'article L. 131-2 du
 code du travail, occupant dix salariés au plus, dénombrés selon les dispositions
@@ -50,24 +52,27 @@ L. 421-2 du code du travail.
 
 II. - A l'exclusion des entreprises et établissements publics mentionnés à
 l'article L. 131-2 du code du travail, l'exonération est égale à 100 % du
-montant des cotisations patronales dans la limite d'un montant de rémunération
-égal au salaire minimum de croissance majoré de 40 % applicable aux cotisations
-afférentes aux salaires et rémunérations des salariés employés par les
-entreprises, quel que soit leur effectif, des secteurs de l'industrie, de la
-restauration, à l'exception de la restauration de tourisme classée, de la
-presse, de la production audiovisuelle, des énergies renouvelables, des
-nouvelles technologies de l'information et de la communication et des centres
-d'appel, de la pêche, des cultures marines, de l'aquaculture, de l'agriculture,
-y compris les coopératives agricoles et sociétés d'intérêt collectif agricoles
-et leurs unions, les coopératives maritimes et leurs unions.
+montant des cotisations patronales, à l'exclusion de celles dues au titre des
+accidents du travail et des maladies professionnelles, dans la limite d'un
+montant de rémunération égal au salaire minimum de croissance majoré de 40 %
+applicable aux cotisations afférentes aux salaires et rémunérations des salariés
+employés par les entreprises, quel que soit leur effectif, des secteurs de
+l'industrie, de la restauration, à l'exception de la restauration de tourisme
+classée, de la presse, de la production audiovisuelle, des énergies
+renouvelables, des nouvelles technologies de l'information et de la
+communication et des centres d'appel, de la pêche, des cultures marines, de
+l'aquaculture, de l'agriculture, y compris les coopératives agricoles et
+sociétés d'intérêt collectif agricoles et leurs unions, les coopératives
+maritimes et leurs unions.
 
 III. - A l'exclusion des entreprises et établissements publics mentionnés à
 l'article L. 131-2 du code du travail, l'exonération est égale à 100 % du
-montant des cotisations patronales dans la limite d'un montant de rémunération
-égal au salaire minimum de croissance majoré de 50 % applicable aux cotisations
-afférentes aux salaires et rémunérations des salariés employés par les
-entreprises, quel que soit leur effectif, des secteurs du tourisme, de la
-restauration de tourisme classée et de l'hôtellerie.
+montant des cotisations patronales, à l'exclusion de celles dues au titre des
+accidents du travail et des maladies professionnelles, dans la limite d'un
+montant de rémunération égal au salaire minimum de croissance majoré de 50 %
+applicable aux cotisations afférentes aux salaires et rémunérations des salariés
+employés par les entreprises, quel que soit leur effectif, des secteurs du
+tourisme, de la restauration de tourisme classée et de l'hôtellerie.
 
 IV. - Lorsque dans une même entreprise ou un même établissement sont exercées
 plusieurs activités, l'exonération est applicable au titre des salariés employés

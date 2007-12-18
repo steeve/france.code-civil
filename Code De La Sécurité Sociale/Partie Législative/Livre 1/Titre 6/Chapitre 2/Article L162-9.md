@@ -6,7 +6,7 @@ par des conventions nationales conclues entre l'Union nationale des caisses
 d'assurance maladie et une ou plusieurs des organisations syndicales nationales
 les plus représentatives de chacune de ces professions.
 
-Ces conventions déterminent *contenu* :
+Ces conventions déterminent :
 
 1°) les obligations des caisses primaires d'assurance maladie et celles des
 chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux ;
@@ -42,7 +42,15 @@ formes d'exercice et modes de rémunération mentionnés aux a et b ci-dessus ;
 
 6°) Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
 des activités de soins ainsi que les modes de rémunération des activités non
-curatives des professionnels mentionnés au 1°.
+curatives des professionnels mentionnés au 1° ;
+
+7° Les mesures d'adaptation, notamment incitatives, des dispositions de
+l'article L. 162-14-1 et du présent article applicables aux
+chirurgiens-dentistes, sages-femmes et auxiliaires médicaux en fonction du
+niveau de l'offre en soins au sein de chaque région dans les zones au sens du 2°
+de l'article L. 162-47. Ces modalités sont définies après concertation des
+organisations les plus représentatives des étudiants et jeunes
+chirurgiens-dentistes, sages-femmes et auxiliaires médicaux.
 
 Elles fixent également les modalités d'application du 3°, et notamment les
 conditions dans lesquelles le professionnel concerné présente ses observations.

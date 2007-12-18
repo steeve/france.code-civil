@@ -23,6 +23,8 @@ inférieur à quatre.
 Les versements mentionnés aux 1° et 2° qui sont utilisés pour compléter la durée
 d'assurance ou de périodes reconnues équivalentes, ou pour compléter la durée
 d'assurance ayant donné lieu à cotisations à la charge de l'assuré, afin de lui
-ouvrir le bénéfice des dispositions de l'article L. 351-1-1, font l'objet d'un
-barème spécifique. Ce barème est établi dans le respect du principe de
-neutralité actuarielle.
+ouvrir le bénéfice des dispositions des articles L. 351-1-1 ou L. 634-3-2, du II
+des articles L. 643-3 ou L. 723-10-1 du présent code, de l'article L. 732-18-1
+du code rural ou de l'article L. 25 bis du code des pensions civiles et
+militaires de retraite, font l'objet d'un barème spécifique. Ce barème est
+établi dans le respect du principe de neutralité actuarielle.

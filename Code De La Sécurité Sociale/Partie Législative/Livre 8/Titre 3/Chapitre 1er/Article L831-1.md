@@ -11,9 +11,8 @@ Cette allocation est versée aux personnes hébergées dans les unités et centr
 de long séjour relevant de la loi n° 70-1318 du 31 décembre 1970 portant réforme
 hospitalière.
 
-Le présent titre est applicable aux personnes de nationalité étrangère
-titulaires d'un des titres de séjour ou documents justifiant de la régularité du
-séjour et prévus en application de l'article L. 512-2.
+Le présent titre est applicable aux personnes de nationalité étrangère dans les
+conditions prévues par les deux premiers alinéas de l'article L. 512-2.
 
 L'allocation de logement n'est pas due lorsque la même personne peut bénéficier,
 au titre d'une autre réglementation, d'une indemnité ou allocation répondant au

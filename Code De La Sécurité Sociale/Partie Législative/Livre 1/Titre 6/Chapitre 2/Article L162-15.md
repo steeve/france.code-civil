@@ -8,7 +8,7 @@ tacite reconduction, par l'Union nationale des caisses d'assurance maladie aux
 ministres chargés de la santé et de la sécurité sociale. Le Conseil national de
 l'ordre des médecins, des chirurgiens-dentistes ou des sages-femmes est consulté
 par l'Union nationale des caisses d'assurance maladie sur les dispositions
-conventionnelles relatives à la déontologie de ces professions. L'avis rendu est
+conventionnelles relatives à la déontologie de ces professions.L'avis rendu est
 transmis simultanément à l'union et aux ministres chargés de la santé et de la
 sécurité sociale.
 
@@ -64,3 +64,16 @@ demande ;
 2° Aux autres professionnels de santé tant qu'ils n'ont pas fait connaître à la
 caisse primaire d'assurance maladie qu'ils ne souhaitent plus être régis par ces
 dispositions.
+
+L'Union nationale des caisses d'assurance maladie soumet pour avis à l'Union
+nationale des organismes d'assurance maladie complémentaire, avant transmission
+aux ministres chargés de la santé et de la sécurité sociale, toute mesure
+conventionnelle ayant pour effet une revalorisation des tarifs des honoraires,
+rémunérations et frais accessoires mentionnés au 1° du I de l'article L.
+162-14-1 ou des rémunérations mentionnées par les conventions ou accords prévus
+aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L.
+162-32-1 et L. 322-5-2. Cet avis est réputé rendu au terme d'un délai de vingt
+et un jours à compter de la réception du texte. Il est transmis à l'Union
+nationale des caisses d'assurance maladie, qui en assure la transmission aux
+ministres chargés de la santé et de la sécurité sociale simultanément à celle de
+la convention, l'avenant, l'accord-cadre ou l'accord interprofessionnel.

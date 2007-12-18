@@ -12,7 +12,7 @@ prévu à l'article 575 A, à leur prix de vente au détail. Le montant du droit
 consommation applicable à ces cigarettes ne peut être inférieur à 60 euros par 1
 000 unités et, à compter du 1er juillet 2006, à 64 euros par 1 000 unités.
 
-La part spécifique est égale à 7,5 % de la charge fiscale totale afférente aux
+La part spécifique est égale à 7, 5 % de la charge fiscale totale afférente aux
 cigarettes de la classe de prix la plus demandée et comprenant le droit de
 consommation, la taxe sur la valeur ajoutée et la taxe sur les tabacs
 manufacturés.
@@ -33,3 +33,17 @@ cinquième alinéa ne peut être inférieur à un minimum de perception fixé pa
 Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal
 applicable à leur prix de vente au détail, sous réserve d'un minimum de
 perception fixé par mille unités ou par mille grammes.
+
+Lorsque le prix de vente au détail homologué des cigarettes et des tabacs fine
+coupe destinés à rouler les cigarettes est inférieur, respectivement, à 95 % et
+97 % du prix moyen de ces produits constaté par le dernier arrêté de prix, le
+montant des minimums de perception prévu à l'article 575 A peut être relevé par
+arrêté du ministre chargé du budget.
+
+Pour les cigarettes, le minimum de perception qui résulte de cette augmentation
+ne peut excéder le montant du droit de consommation applicable aux cigarettes de
+la classe de prix la plus demandée.
+
+Pour les tabacs fine coupe destinés à rouler les cigarettes, l'augmentation du
+minimum de perception ne peut dépasser 25 % du montant figurant au dernier
+alinéa de l'article 575 A.

@@ -17,7 +17,7 @@ chômage ainsi que les indemnités et allocations mentionnées au 7° du II de
 l'article L. 136-2 ;
 
 2° Sont assujetties à la contribution au taux de 6,6 % les pensions de retraite,
-les pensions d'invalidité et les allocations de préretraite.
+et les pensions d'invalidité.
 
 III. - Par dérogation au I et au II, sont assujettis à la contribution sociale
 au taux de 3,8 % les revenus visés aux 1° et 2° du III de l'article L. 136-2,

@@ -24,3 +24,23 @@ pour que les établissements concluent une convention de coopération, adhèrent
 un réseau de soins ou créent un groupement de coopération sanitaire, un syndicat
 interhospitalier ou un groupement d'intérêt public, ou prononcer la fusion des
 établissements publics de santé concernés.
+
+Lorsque le directeur de l'agence régionale de l'hospitalisation prend les
+mesures appropriées pour que des établissements publics de santé d'un ou
+plusieurs territoires de santé créent un groupement de coopération sanitaire, il
+fixe les compétences de ces établissements obligatoirement transférées au
+groupement parmi celles figurant sur une liste établie par décret en Conseil
+d'Etat.
+
+Lorsque les compétences transférées sont relatives à l'exercice d'une activité
+de soins mentionnée au second alinéa de l'article L. 6122-1, l'autorisation est
+transférée au groupement. Dans ce cas, la première phrase du huitième alinéa de
+l'article L. 6133-1 n'est pas applicable.
+
+Les établissements de santé privés exerçant une activité de soins dans le ou les
+territoires concernés peuvent adhérer à ce groupement.
+
+Lorsque le groupement de coopération sanitaire comprend des établissements
+relevant de territoires appartenant à plusieurs régions, sa création est décidée
+par décision conjointe des directeurs des agences régionales de
+l'hospitalisation territorialement compétentes.

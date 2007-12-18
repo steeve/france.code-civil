@@ -13,9 +13,8 @@ soient, le cas échéant, la nature et la répartition de leur capital ;
 
 3°) Des sociétés en commandite ;
 
-4°) Des personnes morales de droit public, dans la mesure où elles sont
-assujetties à la taxe sur la valeur ajoutée en application des dispositions de
-l'article 256 B du code général des impôts ;
+4°) Des personnes morales de droit public dans les limites de leur activité
+concurrentielle ;
 
 4° bis) Des groupements d'intérêt public assujettis à la taxe sur la valeur
 ajoutée en application de dispositions du chapitre Ier du titre II de la
@@ -53,4 +52,9 @@ d'assurer l'approvisionnement de leurs associés coopérateurs en leur procurant
 les produits, les équipements, les instruments et les animaux nécessaires à
 leurs exploitations agricoles et des sociétés coopératives agricoles ayant pour
 objet exclusif l'utilisation de matériels agricoles par les associés
-coopérateurs.
+coopérateurs ;
+
+11°) Des sociétés européennes au sens de l'article L. 229-1 du code de commerce
+et des sociétés coopératives européennes, au sens du règlement (CE) 1435/2003 du
+Conseil du 22 juillet 2003 relatif au statut de la société coopérative
+européenne.

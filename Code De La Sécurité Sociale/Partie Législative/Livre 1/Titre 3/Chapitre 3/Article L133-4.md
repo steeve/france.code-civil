@@ -6,9 +6,12 @@ En cas d'inobservation des règles de tarification ou de facturation :
 articles L. 162-1-7, L. 162-17, L. 165-1, L. 162-22-7 ou relevant des
 dispositions des articles L. 162-22-1 et L. 162-22-6 ;
 
-2° Des frais de transports mentionnés à l'article L. 321-1, l'organisme de prise
-en charge recouvre l'indu correspondant auprès du professionnel ou de
-l'établissement à l'origine du non-respect de ces règles.
+2° Des frais de transports mentionnés à l'article L. 321-1,
+
+l'organisme de prise en charge recouvre l'indu correspondant auprès du
+professionnel ou de l'établissement à l'origine du non-respect de ces règles et
+ce, que le paiement ait été effectué à l'assuré, à un autre professionnel de
+santé ou à un établissement.
 
 Il en est de même en cas de facturation en vue du remboursement, par les
 organismes d'assurance maladie, d'un acte non effectué ou de prestations et
@@ -20,10 +23,10 @@ complémentaire, l'organisme de prise en charge peut récupérer la totalité de
 l'indu. Il restitue à l'assuré et, le cas échéant, à son organisme
 complémentaire les montants qu'ils ont versés à tort.
 
-L'action en recouvrement, qui se prescrit par trois ans à compter de la date de
-paiement de la somme indue, s'ouvre par l'envoi au professionnel ou à
-l'établissement d'une notification de payer le montant réclamé ou de produire,
-le cas échéant, leurs observations.
+L'action en recouvrement, qui se prescrit par trois ans, sauf en cas de fraude,
+à compter de la date de paiement de la somme indue, s'ouvre par l'envoi au
+professionnel ou à l'établissement d'une notification de payer le montant
+réclamé ou de produire, le cas échéant, leurs observations.
 
 En cas de rejet total ou partiel des observations de l'intéressé, le directeur
 de l'organisme d'assurance maladie adresse, par lettre recommandée, une mise en

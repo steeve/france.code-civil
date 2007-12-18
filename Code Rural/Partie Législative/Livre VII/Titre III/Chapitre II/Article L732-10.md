@@ -14,3 +14,8 @@ code de la famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un
 enfant en vue de son adoption par décision de l'autorité étrangère compétente, à
 condition que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire
 français.
+
+L'allocation de remplacement est accordée aux femmes mentionnées au premier
+alinéa dont il est reconnu que la grossesse pathologique est liée à l'exposition
+in utero au diéthylstilbestrol à compter du premier jour de leur arrêt de
+travail dans les conditions fixées par décret.

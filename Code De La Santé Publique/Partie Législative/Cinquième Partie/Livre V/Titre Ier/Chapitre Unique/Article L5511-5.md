@@ -28,6 +28,9 @@ de la pharmacie, une officine ne peut être cédée avant l'expiration d'un dél
 de cinq ans qui court à partir du jour de son ouverture. Tout refus de licence
 doit faire l'objet d'une décision motivée. Il peut en être fait appel au
 ministre chargé de la santé, qui statue après avis du conseil central de la
-section E de l'ordre national des pharmaciens. Lors de la fermeture définitive
-de l'officine, la licence doit être remise au représentant de l'Etat par son
-dernier titulaire ou par ses héritiers. "
+section E de l'ordre national des pharmaciens. La cessation définitive
+d'activité de l'officine entraîne la caducité de la licence, qui doit être
+remise au représentant de l'Etat par son dernier titulaire ou par ses héritiers.
+Lorsqu'elle n'est pas déclarée, la cessation d'activité est réputée définitive
+au terme d'une durée de douze mois. Le représentant de l'Etat constate cette
+cessation définitive d'activité par arrêté."

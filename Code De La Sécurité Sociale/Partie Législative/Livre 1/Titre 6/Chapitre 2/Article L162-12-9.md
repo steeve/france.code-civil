@@ -51,7 +51,14 @@ formes d'exercice et modes de rémunération mentionnés aux a et b ci-dessus ;
 
 8° Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
 des activités de soins ainsi que les modes de rémunération des activités autres
-que curatives des masseurs-kinésithérapeutes.
+que curatives des masseurs-kinésithérapeutes ;
+
+9° Les mesures d'adaptation, notamment incitatives, des dispositions de
+l'article L. 162-14-1 et du présent article applicables aux
+masseurs-kinésithérapeutes en fonction du niveau de l'offre en soins au sein de
+chaque région dans les zones au sens du 2° de l'article L. 162-47. Ces modalités
+sont définies après concertation des organisations les plus représentatives des
+étudiants et jeunes masseurs-kinésithérapeutes.
 
 Elle fixe également les modalités d'application de l'alinéa précédent, et
 notamment les conditions dans lesquelles le masseur-kinésithérapeute concerné

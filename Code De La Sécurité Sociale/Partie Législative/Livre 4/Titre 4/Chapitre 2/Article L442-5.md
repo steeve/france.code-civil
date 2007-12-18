@@ -1,4 +1,3 @@
 Article L442-5
 ----
-Les dispositions de l'article L. 315-1 sont applicables aux accidents du
-travail.
+Les articles L. 315-1 et L. 315-2 sont applicables aux accidents du travail.

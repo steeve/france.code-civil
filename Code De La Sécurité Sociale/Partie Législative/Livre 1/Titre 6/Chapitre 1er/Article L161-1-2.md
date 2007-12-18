@@ -19,8 +19,6 @@ les intéressés relèvent d'un régime de salariés ;
 
 2° Sur les cotisations dues au titre de l'activité exercée au cours de la
 période d'exonération, si les intéressés relèvent d'un régime de non-salariés.
-Dans ce cas, l'exonération porte également sur les cotisations des accidents du
-travail.
 
 L'exonération doit être demandée par l'employeur dans le cas mentionné au l° et
 par le non-salarié dans le cas mentionné au 2°.

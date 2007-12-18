@@ -7,6 +7,10 @@ d'informations ou de faits pouvant être de nature à constituer une fraude, de
 procéder aux contrôles et enquêtes nécessaires. Ils transmettent à l'autorité
 compétente de l'Etat le rapport établi à l'issue des investigations menées.
 
+L'organisme local d'assurance maladie informe le cas échéant, s'il peut être
+identifié, l'organisme d'assurance maladie complémentaire de l'assuré de la mise
+en oeuvre de la procédure visée au présent article.
+
 Les organismes nationaux des différents régimes suivent les opérations réalisées
 par les organismes mentionnés au premier alinéa. Ils en établissent annuellement
 une synthèse qui est transmise au ministre chargé de la sécurité sociale. Un
@@ -18,3 +22,12 @@ constatée pour un montant supérieur à un seuil fixé par décret, les organis
 visés au premier alinéa portent plainte en se constituant partie civile. En ce
 cas, ils sont dispensés de la consignation prévue à l'article 88 du code de
 procédure pénale.
+
+Les organismes nationaux sont avisés par l'organisme de sécurité sociale de
+cette fraude et de la suite donnée. A défaut de plainte avec constitution de
+partie civile de l'organisme lésé, les organismes nationaux peuvent agir, en son
+nom et pour son compte, à l'expiration d'un délai d'un mois après une mise en
+demeure de ce dernier restée infructueuse. Les organismes nationaux peuvent
+aussi déposer plainte avec constitution de partie civile au nom et pour le
+compte d'un ou plusieurs organismes de sécurité sociale qui les mandatent à
+cette fin.

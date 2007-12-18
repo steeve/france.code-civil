@@ -1,12 +1,12 @@
 Article L136-2
 ----
-I. - La contribution est assise sur le montant brut des traitements, indemnités,
+I.-La contribution est assise sur le montant brut des traitements, indemnités,
 émoluments, salaires, allocations, pensions y compris les majorations et
 bonifications pour enfants, des rentes viagères autres que celles visées au 6 de
 l'article 158 du code général des impôts et des revenus tirés des activités
-exercées par les personnes mentionnées aux articles L. 311-2 et L. 311-3.
-L'assiette de la contribution due par les artistes-auteurs est celle prévue au
-troisième alinéa de l'article L. 382-3.
+exercées par les personnes mentionnées aux articles L. 311-2 et L.
+311-3.L'assiette de la contribution due par les artistes-auteurs est celle
+prévue au troisième alinéa de l'article L. 382-3.
 
 Sur le montant brut des traitements, indemnités autres que celles visées au 7°
 du II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs
@@ -22,13 +22,13 @@ sommes versées en contrepartie ou à l'occasion du travail sont évalués selon
 règles fixées à l'article L. 242-1. Toutefois, les déductions visées au 3° de
 l'article 83 du code général des impôts ne sont pas applicables.
 
-I bis. - La contribution est établie sur l'assiette correspondant aux
-cotisations forfaitaires applicables aux catégories de salariés ou assimilés
-visées par les arrêtés pris en application des articles L. 241-2 et L. 241-3 du
-présent code et L. 741-13 du code rural, dans leur rédaction en vigueur à la
-date de publication de la dernière loi de financement de la sécurité sociale.
+I bis.-La contribution est établie sur l'assiette correspondant aux cotisations
+forfaitaires applicables aux catégories de salariés ou assimilés visées par les
+arrêtés pris en application des articles L. 241-2 et L. 241-3 du présent code et
+L. 741-13 du code rural, dans leur rédaction en vigueur à la date de publication
+de la dernière loi de financement de la sécurité sociale.
 
-II. - Sont inclus dans l'assiette de la contribution :
+II.-Sont inclus dans l'assiette de la contribution :
 
 1° Les sommes allouées au salarié au titre de l'intéressement prévu à l'article
 L. 441-4 du code du travail ;
@@ -101,14 +101,14 @@ maladies professionnelles, à l'exception des rentes viagères et indemnités en
 capital servies aux victimes d'accident du travail ou de maladie professionnelle
 ou à leurs ayants droit.
 
-III. - Ne sont pas inclus dans l'assiette de la contribution :
+III.-Ne sont pas inclus dans l'assiette de la contribution :
 
-1° Les allocations de chômage et de préretraite visées à l'article L. 131-2,
-perçues par des personnes dont le montant des revenus de l'avant-dernière année
-tels que définis au IV de l'article 1417 du code général des impôts n'excède pas
-les seuils déterminés en application des dispositions des I et III du même
-article. En outre, la contribution pesant sur ces allocations ne peut avoir pour
-effet de réduire le montant net de celles-ci ou, en cas de cessation partielle
+1° Les allocations de chômage visées à l'article L. 131-2, perçues par des
+personnes dont le montant des revenus de l'avant-dernière année tels que définis
+au IV de l'article 1417 du code général des impôts n'excède pas les seuils
+déterminés en application des dispositions des I et III du même article. En
+outre, la contribution pesant sur ces allocations ne peut avoir pour effet de
+réduire le montant net de celles-ci ou, en cas de cessation partielle
 d'activité, le montant cumulé de la rémunération d'activité et de l'allocation
 perçue, en deçà du montant du salaire minimum de croissance ;
 
@@ -122,9 +122,9 @@ l'article L. 814-5. Ces conditions de ressources sont celles qui sont
 applicables pour l'attribution de l'allocation supplémentaire du fonds national
 de solidarité ;
 
-3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 9° quater, 9°
-quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, 17°, 19° et b du 19° ter
-de l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
+3° Les revenus visés aux 2°,2° bis,3°,4°,7°,9°,9° bis,9° quater,9°
+quinquies,10°,12°,13°,14°,14° bis,14° ter,15°,17°,19° et b du 19° ter de
+l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
 961-1, deuxième alinéa, et L. 961-5 du code du travail ;
 
 4° Les pensions alimentaires répondant aux conditions fixées par les articles

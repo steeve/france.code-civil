@@ -11,17 +11,17 @@ régime local d'assurance maladie complémentaire obligatoire des départements 
 Haut-Rhin, du Bas-Rhin et de la Moselle ou des entreprises régies par le code
 des assurances. Les conseils nationaux de l'ordre des professions concernées
 sont consultés pour avis sur les dispositions relatives à la déontologie
-figurant dans ces accords.
-
-Les engagements de ces réseaux de professionnels de santé et les objectifs
-quantifiés associés peuvent porter sur l'évaluation et l'amélioration des
-pratiques des professionnels concernés, la mise en oeuvre des références
-médicales, la gestion du dossier du patient ou la mise en oeuvre d'actions de
-prévention et de dépistage.
-
-Le contrat prévoit le montant des financements alloués à la structure en
-contrepartie de ces engagements ainsi que les conditions dans lesquelles les
-actions font l'objet d'une évaluation.
+figurant dans ces accords. Les engagements de ces réseaux de professionnels
+peuvent porter sur l'évaluation et l'amélioration des pratiques des
+professionnels concernés, la maîtrise médicalisée des dépenses, la mise en
+oeuvre des références médicales, la gestion du dossier médical et la mise en
+oeuvre d'actions de prévention ou de dépistage. Des objectifs quantifiés peuvent
+être associés à ces engagements portant notamment sur le respect des
+recommandations, l'évaluation effective des pratiques des professionnels
+concernés, l'évolution de certaines dépenses ou la réalisation des actions de
+prévention ou de dépistage. Le contrat peut prévoir le montant des financements
+alloués à la structure en fonction du respect des objectifs ainsi que la méthode
+selon laquelle ils sont évalués.
 
 Les unions régionales des caisses d'assurance maladie transmettent pour avis ces
 contrats, en tant qu'ils concernent les médecins dans le cadre de leur activité

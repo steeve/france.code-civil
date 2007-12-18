@@ -13,5 +13,5 @@ située.
 
 Lorsque le représentant de l'Etat utilise l'une ou l'autre ou les deux
 possibilités mentionnées aux alinéas ci-dessus, la licence ne peut être accordée
-que lorsque la future officine remplit les conditions fixées par le représentant
-de l'Etat dans un délai fixé par le décret mentionné à l'article L. 5125-32.
+que lorsque la future officine remplit les conditions fixées par sa décision
+dans un délai fixé par le décret mentionné à l'article L. 5125-32.

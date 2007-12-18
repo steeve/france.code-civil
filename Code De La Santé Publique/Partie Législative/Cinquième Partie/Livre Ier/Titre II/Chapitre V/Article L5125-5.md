@@ -1,9 +1,7 @@
 Article L5125-5
 ----
 Les demandes de regroupement présentées en application de l'article L. 5125-15
-bénéficient d'une priorité par rapport aux demandes de transfert et aux demandes
-de création. Les demandes de transfert bénéficient d'une priorité par rapport
-aux demandes de création.
+bénéficient d'une priorité par rapport aux demandes de transfert.
 
 Parmi les demandes de création, celles qui sont présentées par des pharmaciens
 n'ayant jamais été titulaires d'une licence d'officine ou n'en étant plus

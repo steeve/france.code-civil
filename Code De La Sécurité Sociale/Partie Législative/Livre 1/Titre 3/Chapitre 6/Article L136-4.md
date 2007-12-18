@@ -1,7 +1,7 @@
 Article L136-4
 ----
-I. - Sont soumis à la contribution les revenus professionnels visés à l'article
-L. 731-14 du code rural.
+I.-Sont soumis à la contribution les revenus professionnels visés à l'article L.
+731-14 du code rural.
 
 Les revenus pris en compte sont constitués par la moyenne des revenus se
 rapportant aux trois années antérieures à celle au titre de laquelle la
@@ -47,7 +47,7 @@ des appels fractionnés ou des versements mensuels lorsque les revenus définiti
 de l'année considérée sont supérieurs de plus d'un tiers aux revenus estimés par
 l'intéressé pour cette même année.
 
-II. - Lorsque la durée d'assujettissement au régime de protection sociale des
+II.-Lorsque la durée d'assujettissement au régime de protection sociale des
 non-salariés agricoles d'un chef d'exploitation ou d'entreprise agricole ne
 permet pas de calculer la moyenne des revenus professionnels se rapportant aux
 trois années de référence prévues au premier alinéa de l'article L. 731-15 du
@@ -55,10 +55,10 @@ code rural, l'assiette de la contribution est déterminée forfaitairement à ti
 provisoire dans les conditions suivantes :
 
 a) Pour la première année au titre de laquelle la contribution est due,
-l'assiette forfaitaire provisoire est fixée conformément aux dispositions des
-III, IV et V ci-dessous ; cette assiette fait l'objet d'une régularisation sur
-la base des revenus professionnels afférents à la première année lorsque ceux-ci
-sont définitivement connus ;
+l'assiette forfaitaire provisoire est fixée conformément au III ci-dessous ;
+cette assiette fait l'objet d'une régularisation sur la base des revenus
+professionnels afférents à la première année lorsque ceux-ci sont définitivement
+connus ;
 
 b) Pour la deuxième année au titre de laquelle la contribution est due,
 l'assiette est égale à la somme de la moitié de l'assiette forfaitaire prévue au
@@ -76,46 +76,25 @@ trois premières années lorsque ceux-ci sont définitivement connus.
 Lorsque le chef d'exploitation ou d'entreprise agricole a opté pour l'assiette
 prévue à l'article L. 731-19 du code rural, pour la première année au titre de
 laquelle la contribution est due, celle-ci est calculée à titre provisoire sur
-la base de l'assiette forfaitaire fixée conformément aux dispositions des III,
-IV et V ci-dessous. Cette assiette fait l'objet d'une régularisation sur la base
-des revenus professionnels afférents à la première année lorsque ceux-ci sont
-définitivement connus.
+la base de l'assiette forfaitaire fixée conformément au III ci-dessous. Cette
+assiette fait l'objet d'une régularisation sur la base des revenus
+professionnels afférents à la première année lorsque ceux-ci sont définitivement
+connus.
 
 Par dérogation aux dispositions ci-dessus du présent II, pour les personnes
 mentionnées au deuxième et au troisième alinéa de l'article L. 731-16 du code
 rural, l'assiette de la contribution est déterminée selon les modalités des
 deuxième, troisième et quatrième alinéas du même article.
 
-III. - Pour les chefs d'exploitation ou d'entreprise agricole dont l'importance
-de l'exploitation ou de l'entreprise peut être appréciée en pourcentage de la
-surface minimum d'installation prévue à l'article L. 312-6 du code rural,
-l'assiette forfaitaire prévue au a du II est égale au produit de ce pourcentage
-par le tiers de 2 028 fois le montant du salaire minimum de croissance, sans que
-l'assiette puisse être inférieure à 800 fois le montant du salaire minimum de
-croissance ou supérieure à 2 028 fois le montant du salaire minimum de
-croissance.
+III.-L'assiette forfaitaire provisoire prévue au a du II est égale à six cents
+fois le montant du salaire minimum de croissance en vigueur au 1er janvier de
+l'année au titre de laquelle la contribution est due.
 
-IV. - Pour les chefs d'exploitation ou d'entreprise agricole dont l'importance
-de l'exploitation ou de l'entreprise ne peut être appréciée en pourcentage de la
-surface minimum d'installation, l'assiette forfaitaire prévue au a du II est
-égale à 1 000 fois le montant du salaire minimum de croissance.
+IV. (Abrogé)
 
-Pour les chefs d'exploitation ou d'entreprise agricole qui débutent
-simultanément deux activités agricoles non salariées dont l'une ne peut être
-appréciée en pourcentage de la surface minimum d'installation, à l'élément
-d'assiette déterminé au III s'ajoute, au titre de la seconde activité, 800 fois
-le montant du salaire minimum de croissance, sans que le montant total de
-l'assiette puisse être supérieur à 2 028 fois le salaire minimum de croissance.
+V. (Abrogé)
 
-V. - Pour l'application des III et IV, le salaire minimum de croissance à
-prendre en considération est celui en vigueur au 1er janvier de l'année au titre
-de laquelle la contribution est due.
-
-Pour l'application du III, l'importance de l'exploitation ainsi que la valeur de
-la surface minimum d'installation sont appréciées au 1er janvier de l'année au
-titre de laquelle la contribution est due.
-
-VI. - En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque
+VI.-En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque
 les revenus professionnels de chacun des coexploitants ou associés n'ont pas
 fait l'objet d'une imposition séparée, le montant total des revenus est réparti
 entre les coexploitants ou associés au prorata de la participation de chacun
@@ -135,7 +114,7 @@ revenus sont répartis au prorata du nombre d'heures de travail effectué dans
 chacune de ces exploitations ou entreprises au cours de l'année précédant celle
 au titre de laquelle les cotisations sont dues ou, à défaut, à parts égales.
 
-VII. - Sont soumis à la contribution les revenus professionnels, définis à
+VII.-Sont soumis à la contribution les revenus professionnels, définis à
 l'article L. 731-14 du code rural, des personnes redevables de la cotisation de
 solidarité visée à l'article L. 731-23 du même code.
 
@@ -150,17 +129,8 @@ Les revenus sont majorés de la cotisation de solidarité visée à l'article L.
 
 Pour les personnes redevables de la cotisation de solidarité définie à l'article
 L. 731-23 du code rural, lorsque les revenus professionnels ne sont pas connus,
-la contribution est calculée sur une assiette forfaitaire provisoire. Lorsque
-l'importance de l'exploitation ou de l'entreprise agricole peut être appréciée
-en pourcentage de la surface minimum d'installation prévue à l'article L. 312-6
-du même code, cette assiette forfaitaire est égale au produit de ce pourcentage
-par 30 % de 2 028 fois le montant du salaire minimum de croissance. Dans le cas
-contraire, elle est égale à 150 fois le montant du salaire minimum de
-croissance.
+la contribution est calculée sur une assiette forfaitaire provisoire égale à
+cent fois le montant du salaire minimum de croissance en vigueur au 1er janvier
+de l'année au titre de laquelle la contribution est due.
 
 Cette assiette forfaitaire est régularisée lorsque les revenus sont connus.
-
-Pour l'application des dispositions du présent VII, le salaire minimum de
-croissance et la valeur de la surface minimale d'installation à prendre en
-considération sont ceux en vigueur au 1er janvier de l'année au titre de
-laquelle la contribution est due.

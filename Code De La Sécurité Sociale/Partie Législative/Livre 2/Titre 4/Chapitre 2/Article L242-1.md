@@ -64,7 +64,7 @@ prestations complémentaires de prévoyance, à condition, lorsque ces
 contributions financent des garanties portant sur le remboursement ou
 l'indemnisation de frais occasionnés par une maladie, une maternité ou un
 accident, que ces garanties ne couvrent pas la participation mentionnée au II de
-l'article L. 322-2.
+l'article L. 322-2 ou la franchise annuelle prévue au III du même article (2).
 
 Toutefois, les dispositions des trois alinéas précédents ne sont pas applicables
 lorsque lesdites contributions se substituent à d'autres éléments de
@@ -102,10 +102,13 @@ code général des impôts et si l'employeur notifie à son organisme de
 recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
 actions gratuites ont été attribuées définitivement au cours de l'année civile
 précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
-d'entre eux. A défaut, l'employeur est tenu au paiement de la totalité des
+d'entre eux.A défaut, l'employeur est tenu au paiement de la totalité des
 cotisations sociales, y compris pour leur part salariale.
 
 Les dispositions de l'avant-dernier alinéa sont également applicables lorsque
 l'attribution est effectuée, dans les mêmes conditions, par une société dont le
 siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans
 laquelle l'attributaire exerce son activité.
+
+Les dispositions des deux alinéas précédents ne donnent pas lieu à application
+de l'article L. 131-7. (1)

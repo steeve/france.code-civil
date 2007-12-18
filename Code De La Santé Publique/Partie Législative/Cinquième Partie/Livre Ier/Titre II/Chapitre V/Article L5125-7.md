@@ -20,7 +20,10 @@ capital social et des droits de vote d'une société d'exercice libéral de
 pharmaciens d'officine, au titre des 1° à 4° de l'article 5 de la loi n° 90-1258
 du 31 décembre 1990 relative à l'exercice sous forme de société des professions
 libérales soumises à un statut législatif ou réglementaire ou dont le titre est
-protégé.
+protégé et aux sociétés de participations financières de professions libérales.
 
-Toute fermeture définitive de l'officine entraîne la caducité de la licence, qui
-doit être remise à la préfecture par son dernier titulaire ou par ses héritiers.
+La cessation définitive d'activité de l'officine entraîne la caducité de la
+licence, qui doit être remise à la préfecture par son dernier titulaire ou par
+ses héritiers. Lorsqu'elle n'est pas déclarée, la cessation d'activité est
+réputée définitive au terme d'une durée de douze mois. Le représentant de l'Etat
+dans le département constate cette cessation définitive d'activité par arrêté.

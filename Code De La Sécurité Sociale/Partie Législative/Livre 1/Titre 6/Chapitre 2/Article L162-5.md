@@ -127,4 +127,15 @@ dispositions de l'article L. 162-2-1, des dépassements d'honoraires sur le tari
 des actes et consultations pour les patients qui les consultent sans
 prescription préalable de leur médecin traitant et qui ne relèvent pas d'un
 protocole de soins, et les engagements des professionnels pour assurer l'égalité
-de traitement des patients au regard des délais d'accès au médecin.
+de traitement des patients au regard des délais d'accès au médecin ;
+
+19° Des objectifs de prescription de médicaments appartenant à un groupe
+générique tel que défini à l'article L. 5121-1 du code de la santé publique ;
+
+20° Les mesures d'adaptation, notamment incitatives, des dispositions de
+l'article L. 162-14-1 et du présent article applicables aux médecins en fonction
+du niveau de l'offre en soins au sein de chaque région dans les zones au sens du
+2° de l'article L. 162-47. Ces modalités sont définies après concertation des
+organisations les plus représentatives des étudiants en médecine, des internes,
+des chefs de clinique et des médecins récemment diplômés ou installés avec
+l'Union nationale des caisses d'assurance maladie.

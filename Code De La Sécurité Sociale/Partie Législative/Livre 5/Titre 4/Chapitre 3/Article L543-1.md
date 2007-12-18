@@ -14,3 +14,5 @@ la consommation des ménages hors les prix du tabac, dans des conditions prévue
 par décret en Conseil d'Etat. Son montant est fixé par décret et revalorisé par
 arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de
 l'agriculture.
+
+Le montant de l'allocation de rentrée scolaire varie selon l'âge de l'enfant.

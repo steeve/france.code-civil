@@ -1,15 +1,15 @@
 Article L6143-3-1
 ----
-Le directeur de l'agence régionale de l'hospitalisation peut, par décision
-motivée et pour une durée n'excédant pas douze mois, placer l'établissement sous
+Le directeur de l'agence régionale de l'hospitalisation, par décision motivée et
+pour une durée n'excédant pas douze mois, place l'établissement sous
 l'administration provisoire de conseillers généraux des établissements de santé
 désignés dans les conditions prévues à l'article L. 6141-7-2 lorsque la mise en
-demeure prévue à l'article L. 6143-3 est restée sans effet pendant plus de deux
-mois ou lorsque le plan de redressement adopté n'a pas permis de redresser la
-situation financière de l'établissement. Il peut également prendre une telle
-mesure lorsque, après mise en demeure demeurée sans effet depuis plus de deux
-mois, le conseil d'administration s'abstient de délibérer sur les matières
-prévues aux 1°, 2° et 6° de l'article L. 6143-1.
+demeure prévue au II de l'article L. 6143-3 est restée sans effet pendant plus
+de deux mois ou lorsque le plan de redressement adopté n'a pas permis de
+redresser la situation financière de l'établissement. Il peut également prendre
+une telle mesure lorsque, après mise en demeure demeurée sans effet depuis plus
+de deux mois, le conseil d'administration s'abstient de délibérer sur les
+matières prévues aux 1°, 2° et 6° de l'article L. 6143-1.
 
 Pendant la période d'administration provisoire, les attributions du conseil
 d'administration et du directeur, ou les attributions de ce conseil ou du

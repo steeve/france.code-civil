@@ -7,10 +7,9 @@ définies au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire et dans les
 zones de revitalisation rurale définies à l'article 1465 A du code général des
 impôts sont, dans les conditions fixées aux II et III, exonérés des cotisations
-à la charge de l'employeur au titre des assurances sociales, des allocations
-familiales et des accidents du travail dans la limite du produit du nombre
-d'heures rémunérées par le montant du salaire minimum de croissance majoré de 50
-p. 100.
+à la charge de l'employeur au titre des assurances sociales et des allocations
+familialesl dans la limite du produit du nombre d'heures rémunérées par le
+montant du salaire minimum de croissance majoré de 50 p. 100.
 
 II. - Ouvrent droit à l'exonération prévue au I, lorsqu'elles n'ont pas pour
 effet de porter l'effectif total de l'entreprise à plus de cinquante salariés,
@@ -19,12 +18,13 @@ exerçant une activité artisanale, industrielle, commerciale, au sens de
 l'article 34 du code général des impôts, une activité agricole, au sens de
 l'article 63 du même code, ou non commerciale, au sens du 1 de l'article 92 du
 même code, à l'exclusion des organismes mentionnés à l'article 1er de la loi n°
-90-658 du 2 juillet 1990 relative à l'organisation du service public de la poste
+90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste
 et des télécommunications et des employeurs relevant des dispositions du titre
 Ier du livre VII du code de la sécurité sociale.
 
 Pour bénéficier de cette exonération, l'employeur ne doit pas avoir procédé à un
-licenciement dans les douze mois précédant la ou les embauches.
+licenciement au sens de l'article L. 321-1 dans les douze mois précédant la ou
+les embauches.
 
 III. - L'exonération prévue au I est applicable, pour une durée de douze mois à
 compter de la date d'effet du contrat de travail, aux gains et rémunérations

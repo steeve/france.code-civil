@@ -10,6 +10,10 @@ formation du personnel. Elle assure le suivi de la gestion prévisionnelle de
 l'emploi, des effectifs, de la masse salariale et des politiques de recrutement
 du régime général. Elle promeut la sécurité et la santé au travail.
 
+Elle peut assurer la fonction de centrale d'achat au sens du code des marchés
+publics, pour le compte des caisses nationales du régime général, de l'Agence
+centrale des organismes de sécurité sociale ou des organismes locaux.
+
 Elle peut se voir confier par l'Etat, les caisses nationales du régime général
 ou l'Agence centrale des organismes de sécurité sociale des missions sur les
 questions relatives aux conditions de travail du personnel des organismes de

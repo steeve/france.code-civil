@@ -25,7 +25,9 @@ travail, la somme des taux d'incapacité permanente est égale ou supérieure à
 taux minimum, l'indemnisation se fait, sur demande de la victime, soit par
 l'attribution d'une rente qui tient compte de la ou des indemnités en capital
 précédemment versées, soit par l'attribution d'une indemnité en capital dans les
-conditions prévues à l'article L. 434-1.
+conditions prévues à l'article L. 434-1. Le montant de la rente afférente au
+dernier accident ne peut dépasser le montant du salaire servant de base au
+calcul de la rente.
 
 Lorsque l'état d'invalidité apprécié conformément aux dispositions du présent
 article est susceptible d'ouvrir droit, si cet état relève de l'assurance

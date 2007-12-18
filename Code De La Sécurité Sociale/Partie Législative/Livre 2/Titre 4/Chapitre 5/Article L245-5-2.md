@@ -1,7 +1,7 @@
 Article L245-5-2
 ----
-La contribution est assise sur les charges comptabilisées au titre du dernier
-exercice clos au titre :
+La contribution est assise sur les charges comptabilisées au titre du ou des
+exercices clos depuis la dernière échéance au titre :
 
 1° Des rémunérations de toutes natures, y compris l'épargne salariale ainsi que
 les charges sociales et fiscales y afférentes, des personnes, qu'elles soient ou
@@ -12,7 +12,7 @@ régis par les dispositions du titre Ier du livre Ier de la quatrième partie du
 code de la santé publique, auprès des masseurs-kinésithérapeutes ou auprès des
 établissements de santé. Seules sont prises en compte les rémunérations
 afférentes à la promotion, la présentation ou la vente des produits et
-prestations inscrits sur la liste prévue à l'article L. 165-1 ;
+prestations aux titres Ier et III sur la liste prévue à l'article L. 165-1 ;
 
 2° Des remboursements de frais de transports, à l'exclusion des charges
 afférentes à des véhicules mis à disposition, des frais de repas et des frais
@@ -24,6 +24,8 @@ défini dans les conditions fixées par décret, dès lors qu'un des dispositifs
 tissus, cellules, produits ou prestations y est mentionné.
 
 Il est procédé sur l'assiette définie aux alinéas précédents à un abattement
-forfaitaire de 50 000 euros.
+forfaitaire de 50 000 euros. Cet abattement est modulé, selon des modalités
+fixées par décret en Conseil d'Etat, lorsque la durée du ou des exercices clos
+depuis la dernière échéance de la contribution est différente de douze mois.
 
 Le taux de la contribution est fixé à 10 %.

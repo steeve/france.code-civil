@@ -6,8 +6,11 @@ suppression ou de la dispense de participation prévues par le présent code ou
 stipulées par les garanties collectives obligatoires professionnelles :
 
 1° De la participation de l'assuré aux tarifs de responsabilité des organismes
-de sécurité sociale pour les prestations couvertes par les régimes obligatoires
-;
+de sécurité sociale prévue au I de l'article L. 322-2 pour les prestations
+couvertes par les régimes obligatoires cette participation demeure toutefois à
+la charge des personnes mentionnées à l'article L. 861-1, dans les conditions
+prévues par le présent code, lorsqu'elles se trouvent dans l'une des situations
+prévues à l'avant-dernier alinéa de l'article L. 162-5-3 ;
 
 2° Du forfait journalier prévu à l'article L. 174-4 ;
 
@@ -25,10 +28,12 @@ santé.
 L'arrêté mentionné au 3° ci-dessus précise notamment la liste des dispositifs et
 la limite du montant des frais pris en charge.
 
-Les personnes mentionnées à l'article L. 861-1 sont dispensées de l'avance de
-frais pour les dépenses prises en charge par les régimes obligatoires des
-assurances maladie et maternité et celles prévues au présent article dans les
-conditions fixées au troisième alinéa de l'article L. 162-16-7.
+Sauf lorsqu'elles se trouvent dans l'une des situations mentionnées à
+l'avant-dernier alinéa de l'article L. 162-5-3, les personnes mentionnées à
+l'article L. 861-1 sont dispensées de l'avance de frais pour les dépenses prises
+en charge par les régimes obligatoires des assurances maladie et maternité et
+celles prévues au présent article dans les conditions fixées au troisième alinéa
+de l'article L. 162-16-7.
 
 Les personnes ayant souscrit un acte d'adhésion, transmis à leur caisse
 d'assurance maladie, formalisant leur engagement auprès d'un médecin référent

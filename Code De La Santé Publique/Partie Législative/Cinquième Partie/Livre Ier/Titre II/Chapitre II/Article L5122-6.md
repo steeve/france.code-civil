@@ -11,7 +11,13 @@ sans intervention d'un médecin pour le diagnostic, l'initiation ou la
 surveillance du traitement.
 
 Toutefois, les campagnes publicitaires pour des vaccins ou les médicaments
-mentionnés à l'article L. 5121-2 peuvent s'adresser au public.
+mentionnés à l'article L. 5121-2 peuvent s'adresser au public. Sauf pour les
+campagnes vaccinales institutionnelles, les campagnes publicitaires auprès du
+public pour des vaccins obligatoires ou recommandés, sous la forme de messages
+télévisuels ou radiodiffusés, ne sont autorisées que si elles sont assorties, de
+façon clairement identifiée, des mentions minimales obligatoires que le Haut
+Conseil de la santé publique détermine en prenant en compte les caractéristiques
+de tels messages publicitaires audiovisuels.
 
 Lorsqu'un médicament est radié de la liste mentionnée au premier alinéa de
 l'article L. 162-17 du code de la sécurité sociale, la décision de radiation

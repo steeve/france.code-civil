@@ -19,27 +19,26 @@ conditions d'octroi et le montant de l'aide qui peut être modulée en fonction 
 la gravité des difficultés d'accès à l'emploi, sont fixés par décret ;
 
 2° A une exonération des cotisations à la charge de l'employeur dues au titre
-des assurances sociales, des allocations familiales et des accidents du travail
-; cette exonération porte sur la partie des rémunérations des salariés
-n'excédant pas le salaire minimum de croissance majoré de 30 % ; elle est
-accordée dans la limite d'une période de vingt-quatre mois, ou de trente mois
-pour les bénéficiaires du revenu minimum d'insertion, suivant la date d'embauche
-; toutefois, pour les bénéficiaires âgés de plus de cinquante ans et de moins de
-soixante-cinq ans, demandeurs d'emploi depuis plus d'un an ou handicapés ou
-percevant le revenu minimum d'insertion et sans emploi depuis plus d'un an,
-l'exonération porte sur les rémunérations versées jusqu'à ce qu'ils atteignent
-l'âge et justifient de la durée d'assurance, définis aux premier et deuxième
-alinéas de l'article L. 351-1 du code de la sécurité sociale, requis pour
-l'ouverture du droit à une pension de vieillesse à taux plein ; l'exonération
-est subordonnée à la production d'une attestation des services du ministère
-chargé de l'emploi.
+des assurances sociales et des allocations familiales ; cette exonération porte
+sur la partie des rémunérations des salariés n'excédant pas le salaire minimum
+de croissance majoré de 30 % ; elle est accordée dans la limite d'une période de
+vingt-quatre mois, ou de trente mois pour les bénéficiaires du revenu minimum
+d'insertion, suivant la date d'embauche ; toutefois, pour les bénéficiaires âgés
+de plus de cinquante ans et de moins de soixante-cinq ans, demandeurs d'emploi
+depuis plus d'un an ou handicapés ou percevant le revenu minimum d'insertion et
+sans emploi depuis plus d'un an, l'exonération porte sur les rémunérations
+versées jusqu'à ce qu'ils atteignent l'âge et justifient de la durée
+d'assurance, définis aux premier et deuxième alinéas de l'article L. 351-1 du
+code de la sécurité sociale, requis pour l'ouverture du droit à une pension de
+vieillesse à taux plein ; l'exonération est subordonnée à la production d'une
+attestation des services du ministère chargé de l'emploi.
 
 3° A la prise en charge par l'Etat des frais de formation lorsque le contrat
 associe l'exercice d'une activité professionnelle et le bénéfice d'une formation
 liée à cette activité et dispensée pendant le temps de travail selon des
 modalités fixées par décret.
 
-II. - Les contrats d'accès à l'emploi sont des contrats de travail à durée
+II.-Les contrats d'accès à l'emploi sont des contrats de travail à durée
 indéterminée ou à durée déterminée conclus en application de l'article L. 122-2
 ; dans ce dernier cas, leur durée doit être au moins égale à douze mois et ne
 peut excéder vingt-quatre mois, cette limite étant portée à trente mois pour les
@@ -48,7 +47,7 @@ contrats de travail temporaire régis par l'article L. 124-2. Ils sont passés p
 écrit et font l'objet d'un dépôt auprès des services du ministère chargé de
 l'emploi.
 
-III. - Peuvent conclure des contrats d'accès à l'emploi les employeurs définis à
+III.-Peuvent conclure des contrats d'accès à l'emploi les employeurs définis à
 l'article L. 351-4 et aux 3° et 4° de l'article L. 351-12, ainsi que les
 employeurs des entreprises de pêche maritime non couverts par lesdits articles,
 à l'exception des employeurs des salariés définis à l'article L. 773-1 sous
@@ -66,18 +65,18 @@ d'effet du contrat d'accès à l'emploi qu'après autorisation préalable de la
 direction départementale du travail, de l'emploi et de la formation
 professionnelle qui vérifie que l'embauche ne résulte pas du licenciement d'un
 salarié sous contrat à durée indéterminée, ou qu'elle n'a pas pour conséquence
-un tel licenciement. L'administration dispose d'un délai d'un mois pour faire
-connaître soit son accord, soit son refus motivé. A défaut de réponse notifiée à
+un tel licenciement.L'administration dispose d'un délai d'un mois pour faire
+connaître soit son accord, soit son refus motivé.A défaut de réponse notifiée à
 l'employeur dans le délai précité, l'accord est réputé acquis.
 
-IV. - La protection complémentaire en matière de santé visée à l'article L.
-861-1 du code de la sécurité sociale, dont le titulaire du contrat d'accès à
-l'emploi bénéficiait en tant qu'allocataire du revenu minimum d'insertion, est
-maintenue jusqu'à l'expiration de la période de droit. A l'expiration de cette
-période, le droit à la protection complémentaire est renouvelé dans les
-conditions prévues au premier alinéa de l'article L. 861-5 du même code si
-l'intéressé remplit la condition de ressources visée au premier alinéa de
-l'article L. 861-1 du même code.
+IV.-La protection complémentaire en matière de santé visée à l'article L. 861-1
+du code de la sécurité sociale, dont le titulaire du contrat d'accès à l'emploi
+bénéficiait en tant qu'allocataire du revenu minimum d'insertion, est maintenue
+jusqu'à l'expiration de la période de droit.A l'expiration de cette période, le
+droit à la protection complémentaire est renouvelé dans les conditions prévues
+au premier alinéa de l'article L. 861-5 du même code si l'intéressé remplit la
+condition de ressources visée au premier alinéa de l'article L. 861-1 du même
+code.
 
 V. Les salariés bénéficiaires d'un contrat d'accès à l'emploi ne sont pas pris
 en compte, pendant une durée de deux ans, dans le calcul de l'effectif du

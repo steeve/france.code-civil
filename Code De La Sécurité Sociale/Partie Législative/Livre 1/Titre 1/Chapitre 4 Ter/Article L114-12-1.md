@@ -26,7 +26,9 @@ Ont également accès aux données de ce répertoire :
 l'exercice de leurs missions ;
 
 2° Les collectivités territoriales pour les procédures d'attribution d'une forme
-quelconque d'aide sociale.
+quelconque d'aide sociale et les centres communaux et intercommunaux d'action
+sociale mentionnés aux articles L. 123-4 à L. 123-9 du code de l'action sociale
+et des familles.
 
 Le répertoire contient les données communes d'identification des individus, les
 informations relatives à leur affiliation aux différents régimes concernés, à

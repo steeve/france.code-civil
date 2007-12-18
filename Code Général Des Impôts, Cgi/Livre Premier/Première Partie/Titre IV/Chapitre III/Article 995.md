@@ -58,7 +58,9 @@ physiques ou morales qui exercent exclusivement ou principalement une des
 professions agricoles ou connexes à l'agriculture définies aux articles L722-4,
 L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29,
 L731-25 et L741-2 du code rural ainsi que leurs salariés et les membres de la
-famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation.
+famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation, si
+ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code
+de la sécurité sociale.
 
 14° Les contrats d'assurance dépendance ;
 
@@ -67,16 +69,13 @@ collectives à adhésion facultative à la condition que l'organisme ne recueill
 pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des
 personnes souhaitant bénéficier de cette couverture, que les cotisations ou les
 primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces
-garanties ne couvrent pas la participation mentionnée au II de l'article L.
-322-2 du code de la sécurité sociale et qu'elles respectent les conditions
-mentionnées à l'article L. 871-1 du même code ;
+garanties respectent les conditions mentionnées à l'article L. 871-1 du même
+code ;
 
 16° Les contrats d'assurance maladie relatifs à des opérations collectives à
 adhésion obligatoire à la condition que les cotisations ou les primes ne soient
-pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne
-couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de
-la sécurité sociale et qu'elles respectent les conditions mentionnées à
-l'article L. 871-1 du même code ;
+pas fixées en fonction de l'état de santé de l'assuré, que ces garanties
+respectent les conditions mentionnées à l'article L. 871-1 du même code ;
 
 17° Les cotisations versées par les exploitants de remontées mécaniques dans le
 cadre du système mutualiste d'assurance contre les aléas climatiques.

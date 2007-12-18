@@ -1,6 +1,6 @@
 Article L227-1
 ----
-I. - Dans le respect des lois de financement de la sécurité sociale, l'autorité
+I.-Dans le respect des lois de financement de la sécurité sociale, l'autorité
 compétente de l'Etat conclut respectivement avec la Caisse nationale de
 l'assurance maladie des travailleurs salariés, la Caisse nationale d'assurance
 vieillesse des travailleurs salariés, la Caisse nationale des allocations
@@ -8,8 +8,8 @@ familiales et l'Agence centrale des organismes de sécurité sociale des
 conventions d'objectifs et de gestion comportant des engagements réciproques des
 signataires.
 
-Ces conventions déterminent, pour les branches mentionnées aux 1°, 2°, 3° et 4°
-de l'article L. 200-2 et pour les organismes de recouvrement, les objectifs
+Ces conventions déterminent, pour les branches mentionnées aux 1°,2°,3° et 4° de
+l'article L. 200-2 et pour les organismes de recouvrement, les objectifs
 pluriannuels de gestion, les moyens de fonctionnement dont les branches et les
 organismes disposent pour les atteindre et les actions mises en oeuvre à ces
 fins par chacun des signataires.
@@ -28,9 +28,8 @@ organisation territoriale ;
 3° Les objectifs de l'action sociale, de prévention et de lutte contre
 l'exclusion ;
 
-4° Les règles de calcul et d'évolution des budgets de gestion administrative et,
-s'il y a lieu, des budgets de contrôle médical, d'action sanitaire et sociale et
-de prévention ;
+4° Les règles de calcul et d'évolution des budgets de gestion et, s'il y a lieu,
+d'action sanitaire et sociale et de prévention ;
 
 5° Le cas échéant, les conditions de constitution ou d'amélioration et
 d'évolution du réseau des caisses locales.
@@ -48,7 +47,7 @@ l'évolution du cadre législatif et réglementaire de leur action ;
 2° Le processus d'évaluation contradictoire des résultats obtenus au regard des
 objectifs fixés.
 
-II. - Pour la branche maladie, la convention d'objectifs et de gestion mentionne
+II.-Pour la branche maladie, la convention d'objectifs et de gestion mentionne
 notamment les orientations pluriannuelles de l'action du Gouvernement dans les
 domaines de la santé publique, de la démographie médicale, du médicament et de
 la lutte contre l'exclusion en matière d'accès aux soins. La convention comporte
@@ -81,7 +80,7 @@ médicales délivrées en ville ;
 Les dépenses déléguées comprennent les dépenses mentionnées au 1° ci-dessus
 ainsi que les frais de transport mentionnés à l'article L. 322-5.
 
-III. - Les conventions d'objectifs et de gestion sont conclues pour une période
+III.-Les conventions d'objectifs et de gestion sont conclues pour une période
 minimale de quatre ans. Elles sont communiquées aux conseils de surveillance
 mentionnés à l'article L. 228-1.
 

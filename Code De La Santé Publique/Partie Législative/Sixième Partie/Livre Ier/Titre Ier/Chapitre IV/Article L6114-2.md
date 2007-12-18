@@ -12,9 +12,9 @@ doivent être identifiés comme des lits de soins palliatifs.
 Ils précisent la ou les missions d'intérêt général mentionnées à l'article L.
 162-22-13 du code de la sécurité sociale auxquelles l'établissement concerné
 participe et ses engagements relatifs à la mise en oeuvre de la politique
-nationale d'innovation médicale et de recours, ainsi que ses autres engagements
-donnant lieu à un financement par la dotation prévue à l'article L. 162-22-14 du
-même code.
+nationale d'innovation médicale et de recours, ainsi que ses autres engagements,
+notamment de retour à l'équilibre financier, donnant lieu à un financement par
+la dotation prévue à l'article L. 162-22-14 du même code.
 
 Ils décrivent les transformations qu'ils s'engagent à opérer dans leurs
 activités et dans leurs actions de coopération.

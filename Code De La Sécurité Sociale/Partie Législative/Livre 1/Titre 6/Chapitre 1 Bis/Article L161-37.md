@@ -52,6 +52,10 @@ Dans l'exercice de ses missions, la Haute Autorité tient compte des objectifs
 pluriannuels de la politique de santé publique mentionnés à l'article L. 1411-2
 du code de la santé publique.
 
+Dans le cadre de ses missions, la Haute Autorité de santé émet des
+recommandations et avis médico-économiques sur les stratégies de soins, de
+prescription ou de prise en charge les plus efficientes.
+
 La Haute Autorité de santé établit un rapport annuel d'activité adressé au
 Parlement et au Gouvernement avant le 1er juillet, qui porte notamment sur les
 travaux des commissions mentionnées à l'article L. 161-41 du présent code ainsi

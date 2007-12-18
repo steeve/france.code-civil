@@ -19,3 +19,6 @@ l'indemnité maintenue et du salaire ne peut dépasser le salaire normal des
 travailleurs de la même catégorie professionnelle ou, s'il est plus élevé, le
 salaire sur lequel a été calculée l'indemnité journalière. En cas de
 dépassement, l'indemnité est réduite en conséquence.
+
+Le droit à l'indemnité journalière est ouvert dans les conditions définies à
+l'article L. 323-6.

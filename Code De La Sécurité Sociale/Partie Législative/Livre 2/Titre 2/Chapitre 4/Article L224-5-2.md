@@ -25,6 +25,11 @@ budgétaire, à l'exception de celles prévues à l'article L. 224-5-1 ;
 2° De proposer au conseil d'orientation la nomination du directeur, du directeur
 adjoint et de l'agent comptable ;
 
+2° bis De déterminer, pour la conclusion de la convention mentionnée à l'article
+L. 224-5-5, les orientations pluriannuelles relatives aux missions de l'union
+ainsi que l'ensemble des moyens nécessaires à la réalisation de ces orientations
+;
+
 3° D'élaborer, après concertation avec les fédérations syndicales, le programme
 de la négociation collective proposé au conseil d'orientation ;
 

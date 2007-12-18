@@ -20,13 +20,13 @@ contribution.
 
 En outre, les redevables mentionnés aux 1° à 3°, 4°, sauf s'il s'agit de
 groupements d'intérêt public assujettis à la taxe sur la valeur ajoutée en
-application de l'article 256 B du code général des impôts, 5° et 10 de l'article
-L. 651-1 ne tiennent pas compte, pour la détermination de leur contribution, de
-la part du chiffre d'affaires correspondant à des ventes de biens réalisées avec
-les sociétés ou groupements visés à l'alinéa précédent et acquittant la
-contribution, dans lesquels ils détiennent une participation au moins égale à 20
-%, à condition que ces biens soient utilisés pour les besoins d'opérations de
-production effectuées par ces sociétés ou groupements.
+application de l'article 256 B du code général des impôts, 5°, 10° et 11° de
+l'article L. 651-1 ne tiennent pas compte, pour la détermination de leur
+contribution, de la part du chiffre d'affaires correspondant à des ventes de
+biens réalisées avec les sociétés ou groupements visés à l'alinéa précédent et
+acquittant la contribution, dans lesquels ils détiennent une participation au
+moins égale à 20 %, à condition que ces biens soient utilisés pour les besoins
+d'opérations de production effectuées par ces sociétés ou groupements.
 
 La contribution des organismes visés au 10° de l'article L. 651-1 et relevant de
 l'article L. 521-1 du code rural est établie sans tenir compte du chiffre

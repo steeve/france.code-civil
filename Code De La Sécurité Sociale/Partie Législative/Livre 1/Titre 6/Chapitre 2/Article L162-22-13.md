@@ -5,18 +5,20 @@ prévu au 4° du I de l'article LO 111-3, une dotation nationale de financement
 des missions d'intérêt général et d'aide à la contractualisation des
 établissements de santé mentionnés aux a, b, c et d de l'article L. 162-22-6.
 Cette dotation participe notamment au financement des engagements relatifs aux
-missions mentionnées à l'article L. 6112-1 du code de la santé publique, à ceux
-relatifs à la mise en oeuvre des orientations du schéma régional d'organisation
-sanitaire, à ceux visant à améliorer la qualité des soins ou à répondre aux
-priorités nationales ou locales en matière de politique sanitaire, par
-dérogation aux dispositions de l'article L. 162-1-7, à ceux relatifs à la mise
-en oeuvre de la politique nationale en matière d'innovation médicale ou au rôle
-de recours dévolu à certains établissements. Par dérogation aux dispositions de
-l'article L. 162-22-6, cette dotation participe également au financement des
-activités de soins dispensés à certaines populations spécifiques. Ces
-engagements sont mentionnés au contrat pluriannuel d'objectifs et de moyens
-mentionné à l'article L. 6114-2 du code de la santé publique ou, à défaut, dans
-un engagement contractuel spécifique.
+missions mentionnées à l'article L. 6112-1 du code de la santé publique à
+l'exception des formations prises en charge par la région en application des
+articles L. 4151-9, L. 4244-1 et L. 4383-5 du même code, à ceux relatifs à la
+mise en oeuvre des orientations du schéma régional d'organisation sanitaire, à
+ceux visant à améliorer la qualité des soins ou à répondre aux priorités
+nationales ou locales en matière de politique sanitaire, par dérogation aux
+dispositions de l'article L. 162-1-7, à ceux relatifs à la mise en oeuvre de la
+politique nationale en matière d'innovation médicale ou au rôle de recours
+dévolu à certains établissements. Par dérogation aux dispositions de l'article
+L. 162-22-6, cette dotation participe également au financement des activités de
+soins dispensés à certaines populations spécifiques. Ces engagements sont
+mentionnés au contrat pluriannuel d'objectifs et de moyens mentionné à l'article
+L. 6114-2 du code de la santé publique ou, à défaut, dans un engagement
+contractuel spécifique.
 
 L'Etat détermine, en fonction de l'objectif national de dépenses d'assurance
 maladie, le montant de la dotation nationale et fixe, après avis des

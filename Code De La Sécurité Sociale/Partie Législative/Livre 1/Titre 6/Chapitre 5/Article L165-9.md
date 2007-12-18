@@ -1,11 +1,13 @@
 Article L165-9
 ----
 Tout audioprothésiste est tenu de remettre à l'assuré ou à son ayant droit,
-avant la conclusion du contrat de vente, un devis détaillé comportant le prix de
-vente hors taxe de chaque appareil proposé et de chaque prestation d'adaptation
-associée, ainsi que le prix net toutes taxes comprises à payer et le tarif de
-responsabilité correspondant figurant sur la liste des produits et prestations
-remboursables mentionnée à l'article L. 165-1.
+avant la conclusion du contrat de vente, un devis normalisé comportant le prix
+de vente hors taxes de l'appareillage proposé, incluant la fourniture du produit
+et précisant les prestations indissociables d'adaptation, ainsi que le prix net
+toutes taxes comprises à payer et le tarif de responsabilité correspondant
+figurant sur la liste des produits et prestations remboursables mentionnée à
+l'article L. 165-1. Un décret d'application fixera, dans un délai de six mois,
+la présentation et les éléments obligatoires de ce devis normalisé.
 
 Avant le paiement, l'audioprothésiste remet à l'assuré ou à son ayant droit une
 note détaillée reprenant les mêmes éléments.

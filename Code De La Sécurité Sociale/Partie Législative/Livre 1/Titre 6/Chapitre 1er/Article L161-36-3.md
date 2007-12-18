@@ -7,7 +7,7 @@ concernée.
 L'accès au dossier médical personnel est notamment interdit lors de la
 conclusion d'un contrat relatif à une protection complémentaire en matière de
 couverture des frais de santé et à l'occasion de la conclusion de tout autre
-contrat exigeant l'évaluation de l'état de santé d'une des parties. L'accès à ce
+contrat exigeant l'évaluation de l'état de santé d'une des parties.L'accès à ce
 dossier ne peut également être exigé ni préalablement à la conclusion d'un
 contrat, ni à aucun moment ou à aucune occasion de son application.
 
@@ -16,3 +16,12 @@ du travail.
 
 Tout manquement aux présentes dispositions donne lieu à l'application des peines
 prévues à l'article 226-13 du code pénal.
+
+Le dossier médical personnel est conservé pendant une durée de dix années à
+compter de sa clôture.
+
+En cas de décès du titulaire, les ayants droit peuvent solliciter l'accès au
+dossier conformément aux dispositions du dernier alinéa de l'article L. 1110-4
+du code de la santé publique.L'accès à ce dossier peut également intervenir dans
+le cadre d'une expertise médicale diligentée aux fins d'administration de la
+preuve.

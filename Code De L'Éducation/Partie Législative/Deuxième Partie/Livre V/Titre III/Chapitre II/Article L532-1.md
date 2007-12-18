@@ -17,5 +17,7 @@ l'article L. 512-3, qui poursuit des études ou qui est placé en apprentissage.
 Le niveau du plafond de ressources varie conformément à l'évolution des prix à
 la consommation des ménages hors les prix du tabac, dans des conditions prévues
 par décret en Conseil d'Etat. Son montant est fixé par décret et revalorisé par
-arrêté conjoint des ministres chargé de la sécurité sociale, du budget et de
-l'agriculture. "
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de
+l'agriculture.
+
+Le montant de l'allocation de rentrée scolaire varie selon l'âge de l'enfant."

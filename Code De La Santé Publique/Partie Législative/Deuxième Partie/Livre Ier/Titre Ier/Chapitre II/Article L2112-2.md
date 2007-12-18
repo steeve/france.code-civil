@@ -9,9 +9,10 @@ prévention médico-sociale en faveur des femmes enceintes ;
 enfants de moins de six ans ainsi que l'établissement d'un bilan de santé pour
 les enfants âgés de trois à quatre ans, notamment en école maternelle ;
 
-3° Des activités de planification familiale et d'éducation familiale dans les
-conditions définies par le chapitre Ier du titre Ier du livre III de la présente
-partie ;
+3° Des activités de planification familiale et d'éducation familiale ainsi que
+la pratique d'interruptions volontaires de grossesse par voie médicamenteuse
+dans les conditions définies par le chapitre Ier du titre Ier du livre III de la
+présente partie ;
 
 4° Des actions médico-sociales préventives à domicile pour les femmes enceintes
 notamment des actions d'accompagnement si celles-ci apparaissent nécessaires

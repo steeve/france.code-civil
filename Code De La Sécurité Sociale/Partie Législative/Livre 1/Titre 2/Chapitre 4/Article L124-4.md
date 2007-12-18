@@ -9,5 +9,10 @@ de prestations familiales, ainsi que des unions ou fédérations desdits
 organismes, font l'objet de marchés dont le mode de passation et les conditions
 d'exécution respectent les garanties prévues en matière de marchés de l'Etat.
 
+Les dispositions du premier alinéa sont également applicables aux groupements
+d'intérêt public et aux groupements d'intérêt économique financés
+majoritairement par un ou plusieurs organismes mentionnés au premier alinéa, ou
+par un ou plusieurs organismes nationaux cités à l'article L. 200-2.
+
 Les conditions d'application du présent article sont fixées par arrêté
 interministériel.

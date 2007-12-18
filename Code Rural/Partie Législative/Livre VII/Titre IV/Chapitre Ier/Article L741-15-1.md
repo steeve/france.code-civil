@@ -22,5 +22,5 @@ Le bénéfice des dispositions du présent article ne peut être cumulé avec ce
 d'une autre exonération totale ou partielle de cotisations patronales ou
 l'application de taux spécifiques d'assiettes ou montants forfaitaires de
 cotisations, à l'exception des exonérations prévues par les articles L. 741-4-1
-et L. 751-17-1 du présent code, ainsi que par l'article L. 241-18 du code de la
-sécurité sociale.
+du présent code, ainsi que par l'article L. 241-18 du code de la sécurité
+sociale.

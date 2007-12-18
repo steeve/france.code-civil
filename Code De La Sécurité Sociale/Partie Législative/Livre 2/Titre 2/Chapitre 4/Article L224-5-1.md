@@ -24,6 +24,9 @@ ressources humaines du régime général de sécurité sociale. Dans le cadre de
 orientations générales, il arrête le programme de la négociation collective sur
 proposition du comité exécutif des directeurs.
 
+Il donne son avis sur les orientations de la convention d'objectifs et de
+gestion mentionnée à l'article L. 224-5-5.
+
 Il donne son avis sur le rapport d'activité de l'union.
 
 Il nomme le directeur, l'agent comptable et le directeur adjoint de l'union sur

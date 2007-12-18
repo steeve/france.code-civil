@@ -17,11 +17,14 @@ d'acquisition de l'appareil ;
 3°) lorsque le bénéficiaire a été reconnu atteint d'une des affections,
 comportant un traitement prolongé et une thérapeutique particulièrement
 coûteuse, inscrites sur une liste établie par décret après avis de la Haute
-Autorité mentionnée à l'article L. 161-37 ;
+Autorité mentionnée à l'article L. 161-37 ; 4°) Lorsque les deux conditions
+suivantes sont cumulativement remplies : a) Le bénéficiaire est reconnu atteint
+par le service du contrôle médical soit d'une affection grave caractérisée ne
+figurant pas sur la liste mentionnée ci-dessus, soit de plusieurs affections
+entraînant un état pathologique invalidant ;
 
-4°) lorsque le bénéficiaire a été reconnu par le contrôle médical atteint d'une
-affection non inscrite sur la liste mentionnée ci-dessus, et comportant un
-traitement prolongé et une thérapeutique particulièrement coûteuse ;
+b) Cette ou ces affections nécessitent un traitement prolongé et une
+thérapeutique particulièrement coûteuse ;
 
 5°) lorsque l'assuré est titulaire de l'allocation de solidarité aux personnes
 âgées au titre d'un avantage vieillesse ;

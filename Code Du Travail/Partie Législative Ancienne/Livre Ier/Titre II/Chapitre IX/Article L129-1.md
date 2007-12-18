@@ -22,23 +22,24 @@ intercommunale compétents, les organismes ayant passé convention avec un
 organisme de sécurité sociale au titre de leur action sociale, ainsi que les
 organismes publics ou privés gestionnaires d'un établissement ou d'un service
 autorisé au titre du I de l'article L. 312-1 du code de l'action sociale et des
-familles peuvent être agréés au titre du présent article pour leurs activités
-d'aide à domicile. Peuvent également être agréées les unions et fédérations
-d'associations pour leurs activités qui concourent directement à coordonner et
-délivrer les services à la personne. Peuvent également être agréés les
-organismes publics ou privés gestionnaires d'un établissement de santé relevant
-de l'article L. 6111-1 du code de la santé publique, les centres de santé
-relevant de l'article L. 6323-1 du même code, ainsi que les organismes publics
-ou privés gestionnaires d'un établissement ou d'un service mentionné aux premier
-et deuxième alinéas de l'article L. 2324-1 du même code, pour leurs activités
-d'aide à domicile rendues aux personnes mentionnées au premier alinéa du présent
-article. Peuvent aussi être agréées les résidences-services relevant du chapitre
-IV bis de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
-des immeubles bâtis pour les services d'aide à domicile rendus aux personnes
-mentionnées au premier alinéa du présent article qui y résident. De même, les
-entreprises ou associations gestionnaires d'un service d'aide à domicile,
-agréées en application des dispositions du premier alinéa, peuvent déposer une
-demande d'autorisation de créer un établissement ou un service dont l'activité
-relève du I de l'article L. 312-1 du code de l'action sociale et des familles
-sans que leur agrément au titre du présent article puisse être remis en cause de
-ce simple fait.
+familles et les groupements de coopération mentionnés au 3° de l'article L.
+312-7 du même code peuvent être agréés au titre du présent article pour leurs
+activités d'aide à domicile. Peuvent également être agréées les unions et
+fédérations d'associations pour leurs activités qui concourent directement à
+coordonner et délivrer les services à la personne. Peuvent également être agréés
+les organismes publics ou privés gestionnaires d'un établissement de santé
+relevant de l'article L. 6111-1 du code de la santé publique, les centres de
+santé relevant de l'article L. 6323-1 du même code, ainsi que les organismes
+publics ou privés gestionnaires d'un établissement ou d'un service mentionné aux
+premier et deuxième alinéas de l'article L. 2324-1 du même code, pour leurs
+activités d'aide à domicile rendues aux personnes mentionnées au premier alinéa
+du présent article. Peuvent aussi être agréées les résidences-services relevant
+du chapitre IV bis de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
+copropriété des immeubles bâtis pour les services d'aide à domicile rendus aux
+personnes mentionnées au premier alinéa du présent article qui y résident. De
+même, les entreprises ou associations gestionnaires d'un service d'aide à
+domicile, agréées en application des dispositions du premier alinéa, peuvent
+déposer une demande d'autorisation de créer un établissement ou un service dont
+l'activité relève du I de l'article L. 312-1 du code de l'action sociale et des
+familles sans que leur agrément au titre du présent article puisse être remis en
+cause de ce simple fait.

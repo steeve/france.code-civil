@@ -52,11 +52,11 @@ la modulation de l'aide sont définies par décret en Conseil d'Etat. Cette aide
 est versée à l'organisme employeur et ne donne lieu à aucune charge fiscale.
 
 Ces embauches ouvrent droit à l'exonération des cotisations à la charge de
-l'employeur au titre des assurances sociales, des accidents du travail et des
-allocations familiales, pendant la durée de la convention, sans qu'il soit fait
-application des dispositions de l'article L. 131-7 du code de la sécurité
-sociale. Toutefois, les cotisations afférentes à la partie de la rémunération
-qui excède un montant fixé par décret ne donnent pas lieu à exonération.
+l'employeur au titre des assurances sociales et des allocations familiales,
+pendant la durée de la convention, sans qu'il soit fait application des
+dispositions de l'article L. 131-7 du code de la sécurité sociale. Toutefois,
+les cotisations afférentes à la partie de la rémunération qui excède un montant
+fixé par décret ne donnent pas lieu à exonération.
 
 Elles ouvrent également droit à l'exonération de la taxe sur les salaires, de la
 taxe d'apprentissage et des participations dues par les employeurs au titre de

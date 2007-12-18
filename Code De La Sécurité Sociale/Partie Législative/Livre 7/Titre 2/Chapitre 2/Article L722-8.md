@@ -6,7 +6,12 @@ d'une allocation forfaitaire de repos maternel destinée à compenser
 partiellement la diminution de leur activité.
 
 Lorsqu'elles cessent toute activité professionnelle, les assurées reçoivent
-également une indemnité journalière forfaitaire.
+également une indemnité journalière forfaitaire. Les femmes dont il est reconnu
+que la grossesse pathologique est liée à l'exposition in utero au
+diéthylstilbestrol bénéficient de l'indemnité journalière forfaitaire à compter
+du premier jour de leur arrêt de travail dans les conditions prévues par
+l'article 32 de la loi n° 2004-1370 du 20 décembre 2004 de financement de la
+sécurité sociale pour 2005.
 
 Les femmes mentionnées au premier alinéa bénéficient des allocations prévues par
 le présent article à l'occasion de l'arrivée à leur foyer d'un enfant confié en

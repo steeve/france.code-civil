@@ -24,3 +24,8 @@ Lorsque le pharmacien délivre par substitution à la spécialité prescrite une
 spécialité du même groupe générique, il doit inscrire le nom de la spécialité
 qu'il a délivrée. Il en est de même lorsque le pharmacien délivre une spécialité
 au vu d'une prescription libellée en dénomination commune.
+
+Lorsqu'un traitement est prescrit pour une durée d'au moins trois mois, y
+compris au moyen du renouvellement multiple d'un traitement mensuel, et qu'un
+grand conditionnement est disponible pour le médicament concerné ou pour sa
+forme générique, le pharmacien doit délivrer ledit conditionnement.

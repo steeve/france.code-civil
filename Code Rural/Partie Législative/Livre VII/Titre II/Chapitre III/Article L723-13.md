@@ -1,13 +1,13 @@
 Article L723-13
 ----
-La caisse centrale de la mutualité sociale agricole et la caisse centrale des
-mutuelles agricoles forment l'union des caisses centrales de la mutualité
-agricole.
+La Caisse centrale de la mutualité sociale agricole exerce, au titre des
+attributions énoncées aux articles L. 723-11, L. 723-12 et L. 723-12-1 un
+pouvoir de contrôle sur les caisses de mutualité sociale agricole mentionnées à
+l'article L. 723-2 ainsi que sur les groupements et associations mentionnés à
+l'article L. 723-5.
 
-Cette union, qui est placée sous le régime de la loi du 1er juillet 1901
-relative au contrat d'association ou de groupements d'intérêt économique, est
-chargée de gérer les intérêts communs desdites caisses.
+Sans préjudice des dispositions de l'article L. 724-1, elle peut également
+contrôler la régularité des opérations de liquidation des cotisations et des
+prestations de sécurité sociale par les caisses de mutualité sociale agricole.
 
-L'union est administrée par un comité d'au moins vingt-quatre membres comprenant
-en nombre égal des délégués de la caisse centrale de la mutualité sociale
-agricole et des délégués de la caisse centrale des mutuelles agricoles.
+Ces contrôles sont effectués selon des modalités fixées par décret.

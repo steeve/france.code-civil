@@ -14,28 +14,7 @@ travail ou un contrat de travail, au versement d'une indemnité de départ en
 retraite équivalente soit à l'indemnité de licenciement prévue par l'article 5
 de l'accord mentionné au premier alinéa s'il remplit les conditions fixées pour
 en bénéficier, soit à l'indemnité minimum de licenciement prévue à l'article L.
-122-9 du présent code. Cette indemnité est également due, dans les mêmes
-conditions, à tout salarié dont le départ à la retraite avec l'accord de
-l'employeur, à partir du 1er janvier 2010 et jusqu'au 1er janvier 2014, conduit
-à rompre le contrat de travail à un âge inférieur à celui mentionné au 1° de
-l'article L. 351-8 du code de la sécurité sociale. L'indemnité de départ
-mentionnée à la phrase précédente est assujettie en totalité à la contribution
-sociale généralisée visée à l'article L. 136-2 du même code et à la contribution
-pour le remboursement de la dette sociale visée à l'article 14 de l'ordonnance
-n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale. Elle
-obéit par ailleurs au même régime fiscal et social que celui de l'indemnité de
-licenciement.
-
-Le régime juridique prévu à la dernière phrase de l'alinéa précédent ne
-s'applique que lorsqu'une convention ou un accord collectif étendu relatif à la
-mise à la retraite, conclu après l'entrée en vigueur de la loi n° 2003-775 du 21
-août 2003 portant réforme des retraites et avant la publication de la loi n°
-2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007,
-prévoit la possibilité de rompre le contrat de travail à un âge inférieur à
-celui mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale, dès
-lors que le salarié peut bénéficier d'une pension de vieillesse à taux plein et
-que cet âge n'est pas inférieur à celui fixé au premier alinéa de l'article L.
-351-1 du même code.
+122-9 du présent code.
 
 La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre
 le contrat de travail d'un salarié ayant atteint l'âge visé au 1° de l'article
