@@ -28,8 +28,7 @@ d'habitations à loyer modéré ou son représentant ;
 10° Le président de la Fédération nationale des sociétés coopératives
 d'habitations à loyer modéré ou son représentant ;
 
-11° Le président de la chambre syndicale des sociétés anonymes de crédit
-immobilier ou son représentant ;
+11° Alinéa abrogé ;
 
 12° Le président de l'Union nationale des fédérations d'organismes d'habitations
 à loyer modéré ou son représentant.

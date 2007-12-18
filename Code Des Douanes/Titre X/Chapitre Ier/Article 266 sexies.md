@@ -1,6 +1,6 @@
 Article 266 sexies
 ----
-I. - Il est institué une taxe générale sur les activités polluantes qui est due
+I.-Il est institué une taxe générale sur les activités polluantes qui est due
 par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et
@@ -9,8 +9,8 @@ industriels spéciaux par incinération, coincinération, stockage, traitement
 physico-chimique ou biologique non exclusivement utilisée pour les déchets que
 l'entreprise produit ou toute personne qui transfère ou fait transférer des
 déchets industriels spéciaux vers un autre Etat en application du règlement
-(CEE) n° 259/93 du Conseil du 1er février 1993, concernant la surveillance et le
-contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+(CEE) n° 259 / 93 du Conseil du 1er février 1993, concernant la surveillance et
+le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
 européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V
@@ -43,7 +43,7 @@ qui livre sur le marché intérieur après achat, importation ou fabrication dan
 un autre Etat membre de la Communauté européenne ou qui met à la consommation
 des préparations pour lessives, y compris des préparations auxiliaires de
 lavage, ou des produits adoucissants ou assouplissants pour le linge relevant
-respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif
+respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif
 douanier ;
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale
@@ -58,16 +58,7 @@ b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre
 Etat membre de la Communauté européenne, des matériaux mentionnés au a, pour les
 besoins de sa propre utilisation ;
 
-7. Toute personne qui livre pour la première fois après fabrication nationale ou
-qui livre sur le marché intérieur après achat, importation ou fabrication dans
-un autre Etat membre de la Communauté européenne ou qui met à la consommation
-des produits antiparasitaires à usage agricole ou des produits assimilés
-relevant de la rubrique 3808 du tarif douanier dont la mise sur le marché est
-autorisée en application de la loi n° 525 du 2 novembre 1943 relative à
-l'organisation du contrôle des produits antiparasitaires à usage agricole et
-dans la composition desquels entrent des substances classées dangereuses selon
-les critères définis par les arrêtés pris pour l'application de l'article R.
-231-51 du code du travail ;
+7. Alinéa abrogé ;
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un
 établissement public à caractère industriel et commercial dont certaines
@@ -87,7 +78,7 @@ constitutionnel n° 2003-488 DC du 29 décembre 2003) dans les conditions
 mentionnées audit article et qui n'a pas acquitté la contribution financière ou
 en nature qui y est prévue.
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
 affectées à la valorisation comme matière par incorporation des déchets dans un
@@ -112,13 +103,12 @@ de silicium ;
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations
 auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le
-linge, aux matériaux d'extraction, aux produits antiparasitaires à usage
-agricole et aux produits assimilés mentionnés respectivement au a du 4 et aux 5,
-6 et 7 du I du présent article lorsque la première livraison après fabrication
+linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5,
+et 6 du I du présent article lorsque la première livraison après fabrication
 nationale consiste en une expédition directe à destination d'un Etat membre de
 la Communauté européenne ou en une exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au
+5.A l'exploitation d'installations classées par les entreprises inscrites au
 répertoire des métiers ;
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable
@@ -128,7 +118,7 @@ lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne d
 matière d'évaluation et de vérification pour l'attribution du label écologique
 communautaire aux lubrifiants.
 
-III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la
+III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la
 quantité annuelle totale de déchets reçus par installation, les réceptions de
 matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets
 qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction

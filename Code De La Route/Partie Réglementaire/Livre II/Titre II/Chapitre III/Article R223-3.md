@@ -15,13 +15,20 @@ articles L. 225-1 à L. 225-9.
 III. - Lorsque le ministre de l'intérieur constate que la réalité d'une
 infraction entraînant retrait de points est établie dans les conditions prévues
 par le quatrième alinéa de l'article L. 223-1, il réduit en conséquence le
-nombre de points affecté au permis de conduire de l'auteur de cette infraction
-et en informe ce dernier par lettre simple. Le ministre de l'intérieur constate
-et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de
-points obtenues en application des alinéas 1 et 3 de l'article L. 223-6.
+nombre de points affecté au permis de conduire de l'auteur de cette infraction.
 
-IV. - Lorsque le nombre de points est nul, le préfet du département ou
-l'autorité compétente du territoire ou de la collectivité territoriale
-d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre
-recommandée, de restituer son titre de conduite dans un délai d'une semaine à
-compter de la réception de cette lettre.
+Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de
+points affectés au permis de conduire de l'auteur de l'infraction, celui-ci est
+informé par le ministre de l'intérieur par lettre simple du nombre de points
+retirés. Le ministre de l'intérieur constate et notifie à l'intéressé, dans les
+mêmes conditions, les reconstitutions de points obtenues en application des
+alinéas 1 et 3 de l'article L. 223-6.
+
+Si le retrait de points aboutit à un nombre nul de points affectés au permis de
+conduire, l'auteur de l'infraction est informé par le ministre de l'intérieur
+par lettre recommandée avec demande d'avis de réception du nombre de points
+retirés. Cette lettre récapitule les précédents retraits ayant concouru au solde
+nul, prononce l'invalidation du permis de conduire et enjoint à l'intéressé de
+restituer celui-ci au préfet du département ou de la collectivité d'outre-mer de
+son lieu de résidence dans un délai de dix jours francs à compter de sa
+réception.

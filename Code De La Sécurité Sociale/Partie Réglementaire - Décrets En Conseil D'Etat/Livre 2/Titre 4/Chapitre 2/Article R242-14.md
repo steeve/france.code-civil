@@ -2,7 +2,7 @@ Article R242-14
 ----
 Lorsque l'employeur ou le travailleur indépendant n'a pas souscrit la
 déclaration de revenus prévue à l'article R. 115-5 ou, le cas échéant, celle
-prévue à l'article R. 243-25, la cotisation est calculée provisoirement sur la
+prévue à l'article R. 242-13-1, la cotisation est calculée provisoirement sur la
 moyenne, majorée de 30 %, des revenus des deux années précédant celle au titre
 de laquelle devait être souscrite la déclaration. Elle ne peut toutefois être
 inférieure à la cotisation, majorée de 30 %, qui serait due sur le dernier de
@@ -13,7 +13,7 @@ dispositions sont considérés comme des revenus nuls lorsqu'il sont déficitair
 
 Les dispositions du premier alinéa sont applicables sous réserve que l'employeur
 ou le travailleur indépendant se soit conformé aux obligations prévues aux
-articles R. 115-5 ou R. 243-25 au titre des deux années précédant l'année
+articles R. 115-5 ou R. 242-13-1 au titre des deux années précédant l'année
 considérée. Dans le cas contraire, la cotisation est calculée provisoirement sur
 la base de cinq fois le plafond prévu à l'article L. 241-3 en vigueur au 1er
 janvier de l'année au cours de laquelle est notifiée la taxation.

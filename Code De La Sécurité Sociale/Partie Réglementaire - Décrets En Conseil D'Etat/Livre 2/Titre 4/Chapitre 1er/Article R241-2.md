@@ -13,7 +13,18 @@ actions ;
 
 3°) tout gérant d'une société à responsabilité limitée qui n'est pas affilié
 obligatoirement aux assurances sociales, en application du 11° de l'article L.
-311-3.
+311-3 ;
+
+4° Tout associé unique d'une entreprise unipersonnelle à responsabilité limitée,
+sauf si l'activité qu'il exerce est de nature agricole au sens de l'article L.
+722-1 du code rural ;
+
+5° Tout gérant d'une société civile ayant un objet professionnel ;
+
+6° Toute personne relevant du groupe des professions artisanales ou du groupe
+des professions industrielles et commerciales, y compris les débitants de
+tabacs, au sens du a et du b du 1° de l'article L. 613-1 du présent code, à
+l'exception des artisans ruraux.
 
 Lorsque le titulaire d'un fonds n'en assure pas lui-même l'exploitation et
 confie celle-ci à un tiers non salarié ou à son conjoint, ces derniers sont

@@ -1,9 +1,15 @@
 Article R243-20
 ----
-Les employeurs peuvent formuler une demande gracieuse en réduction des
-majorations et pénalités prévues aux articles L. 243-14, L. 131-6 et L. 136-3,
-R. 243-16 et R. 243-18. Cette requête n'est recevable qu'après règlement de la
-totalité des cotisations ayant donné lieu à application des majorations.
+I. - Les employeurs peuvent formuler une demande gracieuse en réduction des
+majorations et pénalités prévues aux articles L. 131-6, L. 136-3 et L. 243-14,
+R. 243-16 et au premier alinéa de l'article R. 243-18. Cette requête n'est
+recevable qu'après règlement de la totalité des cotisations ayant donné lieu à
+application des majorations.
+
+La majoration de 0,4 % mentionnée à l'article R. 243-18 peut faire l'objet de
+remise lorsque les cotisations ont été acquittées dans le délai de trente jours
+qui suit la date limite d'exigibilité ou dans les cas exceptionnels ou de force
+majeure.
 
 Le directeur de l'organisme de recouvrement est compétent pour statuer sur les
 demandes portant sur des montants inférieurs à un seuil fixé par arrêté du
@@ -14,13 +20,15 @@ Il ne peut être accordé une remise des majorations et des pénalités que si l
 bonne foi des employeurs est dûment prouvée. Les décisions tant du directeur que
 de la commission de recours amiable doivent être motivées.
 
-Lorsque les cotisations sont acquittées avec un retard d'un mois ou plus à
-compter de la date limite d'exigibilité, un minimum de majoration de retard,
-fixé à 0,6 % des cotisations arriérées par mois ou fraction de mois de retard,
-doit obligatoirement être laissé à la charge du débiteur.
+II. - Par dérogation aux dispositions du I, aucune remise de la majoration de 5
+% du montant des cotisations afférentes aux rémunérations, versées ou dues à des
+salariés, réintégrées dans l'assiette des cotisations à la suite des contrôles
+mentionnés aux articles R. 243-59 et suivants, ne peut être accordée lorsque
+l'absence de bonne foi de l'employeur a été constatée dans les conditions
+prévues à l'article R. 243-59.
 
-Toutefois, par dérogation à l'alinéa précédent, la commission de recours amiable
-ou le directeur de l'organisme de recouvrement, dans la limite de leur
-compétence respective, peuvent décider, dans des cas exceptionnels ou de force
-majeure, la remise partielle ou intégrale du minimum de majoration visé à
-l'alinéa précédent.
+La majoration de retard de 10 % sur le montant des cotisations afférentes à des
+rémunérations, versées ou dues à des salariés, réintégrées dans l'assiette des
+cotisations à la suite du constat de l'infraction relative au travail dissimulé
+mentionnée à l'article L. 324-10 du code du travail ne peut pas faire l'objet de
+remise.

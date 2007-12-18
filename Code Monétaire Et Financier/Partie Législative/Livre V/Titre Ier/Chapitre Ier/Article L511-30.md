@@ -5,5 +5,4 @@ de crédit, sont considérées comme organes centraux :
 
 Crédit agricole S.A., la Banque fédérale des banques populaires, la
 Confédération nationale du crédit mutuel, la Caisse nationale des caisses
-d'épargne et de prévoyance ainsi que la Chambre syndicale des sociétés anonymes
-de crédit immobilier.
+d'épargne et de prévoyance.

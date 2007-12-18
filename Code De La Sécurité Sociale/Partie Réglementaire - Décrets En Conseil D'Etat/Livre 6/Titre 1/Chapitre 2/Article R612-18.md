@@ -1,11 +1,9 @@
 Article R612-18
 ----
 Les organismes conventionnés adressent chaque année, au plus tard le 1er avril,
-à toutes les personnes assujetties au régime inscrites sur leurs contrôles et
-qui ont eu des revenus d'activité non-salariée non-agricole au cours de l'année
-précédente, un imprimé de déclaration de revenus conforme au modèle arrêté par
-le ministre chargé de la sécurité sociale sur proposition de la caisse
-nationale.
+aux membres des professions libérales qui ont eu des revenus d'activité non
+salariée non agricole au cours de l'année précédente la déclaration de revenus
+mentionnée à l'article R. 115-5.
 
 Ces personnes sont tenues de retourner à l'organisme conventionné, au plus tard
 le 1er mai, cette déclaration dûment remplie et signée.
@@ -20,6 +18,6 @@ l'évaluation administrative dans le délai de quinze jours suivant la date de s
 notification.
 
 Les organismes conventionnés, après s'être assurés que tous les renseignements
-nécessaires ont été fournis, font parvenir à la caisse de base, au fur et à
-mesure de leur réception, et au plus tard dans les quinze jours, les
-déclarations reçues des assurés.
+nécessaires ont été fournis, font parvenir à la caisse de base du régime social
+des indépendants, au fur et à mesure de leur réception, et au plus tard dans les
+quinze jours, les déclarations reçues des assurés.

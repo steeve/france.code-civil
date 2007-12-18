@@ -20,10 +20,7 @@ linge mentionnés au 5 du I de l'article 266 sexies ;
 6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266
 sexies ;
 
-7. Le poids des substances classées dangereuses selon les critères définis par
-les arrêtés pris pour l'application de l'article R. 231-51 du code du travail
-qui entrent dans la composition des produits antiparasitaires à usage agricole
-ou des produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
+7. Alinéa abrogé ;
 
 8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la
 première phrase du premier alinéa de l'article L. 541-10-1 du code de

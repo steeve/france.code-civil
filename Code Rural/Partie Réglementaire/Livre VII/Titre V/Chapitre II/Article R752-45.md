@@ -12,7 +12,7 @@ de protection sociale des non-salariés agricoles, le groupement transmet au
 moment de l'affiliation à la caisse de mutualité sociale agricole
 territorialement compétente les données suivantes :
 
-1° Identité du chef d'exploitation et des autres personnes assurées ;
+1° Identité des personnes mentionnées à l'article L. 752-1 ;
 
 2° Dates et lieux de naissance ;
 

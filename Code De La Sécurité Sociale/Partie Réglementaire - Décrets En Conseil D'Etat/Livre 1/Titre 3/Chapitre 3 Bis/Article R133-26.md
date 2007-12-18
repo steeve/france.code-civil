@@ -34,13 +34,7 @@ seuil de recouvrement fixé en application du premier alinéa de l'article L.
 Lorsque la régularisation fait apparaître un trop-versé, celui-ci est remboursé
 à l'intéressé au plus tard le 30 novembre.
 
-III.-Par exception aux dispositions du II du présent article, les cotisations et
-contributions sociales dues, à titre définitif, par les travailleurs
-indépendants exerçant leur activité dans les départements mentionnés à l'article
-L. 751-1 ou dans les collectivités de Saint-Barthélemy ou de Saint-Martin sont
-prélevées en douze fractions égales.
-
-IV.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
+III.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
 somme est recouvrée avec le prélèvement mensuel suivant.
 
 Il est appliqué aux cotisations et contributions sociales qui ne sont pas

@@ -8,13 +8,6 @@ décembre de l'année considérée aux détenteurs d'un premier livret de caisse
 d'épargne majoré de 1,5 point et diminué des dividendes versés pendant la même
 période.
 
-Le prix maximum de cession des actions des sociétés anonymes de crédit
-immobilier est limité au montant nominal de ces actions, majoré pour chaque
-année ayant précédé la cession, sans pouvoir excéder vingt années, d'un intérêt
-équivalant à 90 p. 100 du taux de rendement des emprunts de l'Etat à l'émission
-au 31 décembre de l'année considérée et diminué des dividendes versés pendant la
-même période.
-
 Une dérogation à ces dispositions peut être accordée par le ministre chargé du
 logement, après avis du comité permanent du Conseil supérieur des habitations à
 loyer modéré, à la demande d'un actionnaire ayant acquis des actions avant la

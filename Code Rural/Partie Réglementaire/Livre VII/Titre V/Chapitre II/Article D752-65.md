@@ -1,7 +1,7 @@
 Article D752-65
 ----
-Lorsque lui-même ou l'une des personnes mentionnées à l'article L. 752-1 est
-victime d'un accident du travail, le chef d'exploitation ou d'entreprise
+Lorsque lui-même ou l'une des personnes mentionnées au I de l'article L. 752-1
+est victime d'un accident du travail, le chef d'exploitation ou d'entreprise
 agricole dispose d'un délai de huit jours à compter de la date de l'accident
 pour en effectuer la déclaration à la caisse de mutualité sociale agricole ou au
 groupement mentionné à l'article L. 752-14. En ce qui concerne la déclaration
@@ -30,3 +30,6 @@ de l'emploi, de la politique sociale agricoles ;
 La caisse de mutualité sociale agricole ou le groupement peut, dès qu'il a eu
 connaissance de l'accident, diligenter une enquête permettant d'établir les
 circonstances de l'accident.
+
+Les dispositions du présent article sont applicables aux assurés mentionnés au
+II de l'article L. 752-1.

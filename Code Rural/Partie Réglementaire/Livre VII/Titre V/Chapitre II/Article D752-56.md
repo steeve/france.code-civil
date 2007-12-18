@@ -1,9 +1,10 @@
 Article D752-56
 ----
 Le montant forfaitaire des cotisations prévues à l'article L. 752-16 est fixé
-d'après les prévisions des charges énumérées à l'article L. 752-17. Il est
-modulé en fonction des catégories de risques selon les modalités prévues aux
-articles suivants du présent paragraphe.
+d'après les prévisions des charges énumérées à l'article L. 752-17. les
+cotisations prévues aux 1° et 2° de l'article L. 752-16 sont modulées en
+fonction des catégories de risques selon les modalités prévues aux articles
+suivants du présent paragraphe.
 
 L'arrêté mentionné à l'article L. 752-17 détermine sur la base des prévisions
 présentées par la Caisse centrale de la mutualité sociale agricole le montant

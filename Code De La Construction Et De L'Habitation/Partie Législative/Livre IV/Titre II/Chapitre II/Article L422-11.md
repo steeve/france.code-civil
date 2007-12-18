@@ -10,8 +10,3 @@ précisées par décret.
 
 Lorsqu'il s'agit d'une société anonyme coopérative, le remboursement du capital
 porte sur la part du capital effectivement versée.
-
-En cas de dissolution d'une société anonyme de crédit immobilier, la portion
-d'actif qui excéderait la moitié du capital social, après paiement du passif et
-remboursement du capital social, est attribuée au fonds de garantie mentionné à
-l'article L. 422-4-1.
