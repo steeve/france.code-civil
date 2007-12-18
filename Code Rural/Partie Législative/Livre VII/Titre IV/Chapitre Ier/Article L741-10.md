@@ -92,10 +92,13 @@ l'article L. 225-197-1 du même code et si l'employeur notifie à son organisme 
 recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
 actions gratuites ont été attribuées définitivement au cours de l'année civile
 précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
-d'eux. A défaut, l'employeur est tenu au paiement de la totalité des cotisations
+d'eux.A défaut, l'employeur est tenu au paiement de la totalité des cotisations
 sociales, y compris pour leur part salariale.
 
 Les dispositions de l'alinéa précédent sont également applicables lorsque
 l'attribution est effectuée, dans les mêmes conditions, par une société dont le
 siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans
 laquelle l'attributaire exerce son activité.
+
+Les dispositions des deux alinéas précédents ne donnent pas lieu à application
+de l'article L. 131-7 du code de la sécurité sociale.

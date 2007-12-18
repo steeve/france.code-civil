@@ -24,3 +24,6 @@ son directeur général, de son ou ses directeurs généraux délégués, de ses
 gérants ou des membres de son directoire, dès lors que cette aide peut
 bénéficier également à l'ensemble des salariés de l'entreprise selon les mêmes
 règles d'attribution.
+
+Les dispositions du présent article ne donnent pas lieu à application de
+l'article L. 131-7 du code de la sécurité sociale.

@@ -24,3 +24,8 @@ Dans une entreprise où il n'existe ni conseil d'administration, ni directoire,
 le chef d'entreprise peut décider le versement d'un supplément d'intéressement
 ou de réserve spéciale de participation, dans les conditions mentionnées aux 1°
 ou 2°.
+
+L'application au supplément d'intéressement et au supplément de réserve spéciale
+de participation des dispositions du premier alinéa de l'article L. 441-4 et du
+deuxième alinéa du I de l'article L. 442-8 du présent code ne donne pas lieu à
+application de l'article L. 131-7 du code de la sécurité sociale.

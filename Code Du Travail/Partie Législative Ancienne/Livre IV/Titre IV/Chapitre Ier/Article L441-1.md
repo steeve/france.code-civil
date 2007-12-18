@@ -5,14 +5,14 @@ entreprise qui satisfait aux obligations lui incombant en matière de
 représentation du personnel, quelles que soient la nature de son activité et sa
 forme juridique, par un accord valable pour une durée de trois ans et passé :
 
-- soit dans le cadre d'une convention ou d'un accord collectif de travail ;
+-soit dans le cadre d'une convention ou d'un accord collectif de travail ;
 
-- soit entre le chef d'entreprise et les représentants d'organisations
-syndicales représentatives au sens de l'article L. 423-2 ;
+-soit entre le chef d'entreprise et les représentants d'organisations syndicales
+représentatives au sens de l'article L. 423-2 ;
 
-- soit au sein du comité d'entreprise ;
+-soit au sein du comité d'entreprise ;
 
-- soit à la suite de la ratification à la majorité des deux tiers du personnel
+-soit à la suite de la ratification à la majorité des deux tiers du personnel
 d'un projet d'accord proposé par le chef d'entreprise ; s'il existe dans
 l'entreprise une ou plusieurs organisations syndicales représentatives au sens
 de l'article L. 423-2 ou un comité d'entreprise, la ratification doit être
@@ -48,6 +48,10 @@ entreprise ou d'un même groupe. Il est négocié selon des modalités identique
 celles prévues au premier alinéa de l'article L. 443-1-1 s'il concerne tout ou
 partie des salariés d'entreprises qui ne constituent pas un groupe. Dans les
 deux cas, la majorité des deux tiers requise pour la ratification s'entend sur
-les personnels entrant dans le champ d'application du projet. L'accord définit
-un champ d'application et une période de calcul spécifiques, qui peuvent
-différer de ceux visés au premier alinéa, sans pouvoir excéder trois ans.
+les personnels entrant dans le champ d'application du projet.L'accord définit un
+champ d'application et une période de calcul spécifiques, qui peuvent différer
+de ceux visés au premier alinéa, sans pouvoir excéder trois ans.
+
+L'application à l'intéressement de projet des dispositions du premier alinéa de
+l'article L. 441-4 du présent code ne donne pas lieu à application de l'article
+L. 131-7 du code de la sécurité sociale.

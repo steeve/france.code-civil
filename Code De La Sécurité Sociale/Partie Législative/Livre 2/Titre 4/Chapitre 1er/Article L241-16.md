@@ -17,3 +17,6 @@ créés en application des articles L. 131-11 et L. 132-1 du code du sport,
 remplissent les obligations relatives aux déclarations et versements des
 cotisations et contributions visées au deuxième alinéa, dans des conditions
 précisées par décret.
+
+Les dispositions du premier alinéa du présent article ne donnent pas lieu à
+application de l'article L. 131-7.
