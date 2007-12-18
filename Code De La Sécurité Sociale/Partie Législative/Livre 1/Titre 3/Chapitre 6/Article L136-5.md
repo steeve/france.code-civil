@@ -30,14 +30,21 @@ conditions fixées au chapitre III du titre IV du livre II du code de la sécuri
 sociale dans sa rédaction publiée à la date de la publication de la dernière loi
 de financement de la sécurité sociale.
 
-II. - La contribution due sur les revenus des personnes assujetties aux régimes
-de la sécurité sociale des salariés et non-salariés des professions agricoles
-ainsi que la contribution due sur les revenus des personnes redevables de la
-cotisation de solidarité visée à l'article L. 731-23 du code rural sont
-directement recouvrées et contrôlées par les caisses de mutualité sociale
-agricole, selon les règles et sous les garanties et sanctions applicables au
-recouvrement des cotisations dues aux régimes de la sécurité sociale des
-salariés et non-salariés des professions agricoles.
+II. - La contribution due sur les revenus des personnes assujetties au régime de
+la sécurité sociale des salariés des professions agricoles est directement
+recouvrée et contrôlée par les caisses de mutualité sociale agricole, selon les
+règles et sous les garanties et sanctions applicables au recouvrement des
+cotisations dues au régime de la sécurité sociale des salariés des professions
+agricoles.
+
+La contribution due sur les revenus des personnes assujetties au régime de la
+sécurité sociale des non-salariés des professions agricoles ainsi que la
+contribution due sur les revenus des personnes redevables de la cotisation de
+solidarité visée à l'article L. 731-23 du code rural sont directement recouvrées
+et contrôlées par les caisses de mutualité sociale agricole, selon les règles et
+sous les garanties et sanctions applicables au recouvrement des cotisations
+d'assurance maladie, maternité et invalidité dues au régime de la sécurité
+sociale des non-salariés des professions agricoles.
 
 III. - La contribution due sur les pensions d'invalidité et sur les indemnités
 journalières ou allocations visées au 7° du II de l'article L. 136-2 est

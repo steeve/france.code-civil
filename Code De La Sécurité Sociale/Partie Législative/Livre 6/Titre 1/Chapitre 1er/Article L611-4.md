@@ -39,7 +39,13 @@ cotisations et contributions sociales personnelles dues par les personnes
 exerçant les professions artisanales, industrielles et commerciales avec celles
 définies, pour leurs cotisations et contributions sociales dues en leur qualité
 d'employeur, au titre de leurs salariés, par l'Agence centrale des organismes de
-sécurité sociale en application du 2° bis de l'article L. 225-1-1.
+sécurité sociale en application du 2° bis de l'article L. 225-1-1 ;
+
+12° De mettre en oeuvre ou de coordonner des actions de contrôle sur le service
+des prestations afin de détecter les fraudes et les comportements abusifs. Elle
+peut requérir la participation des caisses de base à ces actions. Elle peut à ce
+titre utiliser des traitements automatisés des données relatives au service des
+prestations.
 
 La Caisse nationale exerce, au titre des attributions énoncées ci-dessus, un
 pouvoir de contrôle sur les caisses de base.
