@@ -6,8 +6,9 @@ L'allocation journalière n'est pas cumulable avec :
 ;
 
 2° Le complément de l'allocation d'éducation de l'enfant handicapé prévu par
-l'article L. 541-1, lorsque celui-ci est accordé en contrepartie d'une cessation
-d'activité ;
+l'article L. 541-1, ou l'élément de la prestation de compensation prévu au 1° de
+l'article L. 245-3 du code de l'action sociale et des familles, lorsque ceux-ci
+sont accordés en contrepartie d'une cessation d'activité ;
 
 3° L'allocation journalière de présence parentale prévue à l'article L. 544-1 ;
 

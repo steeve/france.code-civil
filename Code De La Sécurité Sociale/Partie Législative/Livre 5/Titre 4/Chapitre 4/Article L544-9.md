@@ -8,8 +8,8 @@ bénéficiaire, avec :
 2° L'indemnité d'interruption d'activité ou l'allocation de remplacement pour
 maternité ou paternité, prévues aux articles L. 615-19 à L. 615-19-2 et L. 722-8
 à L. 722-8-3 du présent code, aux articles L. 732-10 à L. 732-12-1 du code rural
-et à l'article 17 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la
-pêche maritime et les cultures marines ;
+et de la pêche maritime et à l'article 17 de la loi n° 97-1051 du 18 novembre
+1997 d'orientation sur la pêche maritime et les cultures marines ;
 
 3° L'indemnisation des congés de maladie ou d'accident du travail ;
 
@@ -23,7 +23,10 @@ de la prestation d'accueil du jeune enfant ;
 7° Le complément et la majoration de l'allocation d'éducation de l'enfant
 handicapé perçus pour le même enfant ;
 
-8° L'allocation aux adultes handicapés.
+8° L'allocation aux adultes handicapés ;
+
+9° L'élément de la prestation de compensation mentionné au 1° de l'article L.
+245-3 du code de l'action sociale et des familles.
 
 Toutefois, l'allocation journalière de présence parentale, lorsqu'elle n'est pas
 servie pour la totalité des jours prévus à l'article L. 544-4, est cumulable en
