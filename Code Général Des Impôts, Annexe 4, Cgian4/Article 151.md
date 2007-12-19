@@ -10,10 +10,21 @@ assurer d'une manière satisfaisante cette concordance nécessaire le service de
 douanes et droits indirects mettrait le comité de direction des jeux en demeure
 de ne pas maintenir ce préposé dans son emploi.
 
-Les carnets de tickets sont livrés par le service des douanes et droits
-indirects aux cercles qui les remboursent au même prix que ceux utilisés dans
-les casinos et en donnent reçu. Les carnets ne contenant que les souches sont
-restitués au fur et à mesure de leur épuisement.
+Les carnets de tickets, dont le modèle est fixé par l'administration, sont
+commandés par les cercles et maisons de jeu aux imprimeurs déclarés auprès de la
+direction générale des douanes et droits indirects, qui les livrent directement
+et les facturent selon un tarif librement négocié.
+
+A chaque livraison de carnets, les imprimeurs sont tenus de transmettre au
+bureau de douane territorialement compétent un état reprenant les quantités de
+carnets livrés ainsi que leur valeur faciale. La notification des livraisons est
+faite sur une déclaration dont le modèle est fixé par l'administration.
+
+Après réception, les cercles et les maisons de jeux présentent les carnets de
+tickets au bureau de douane territorialement compétent, accompagnés de la
+facture acquittée, pour contrôle des livraisons et apposition du cachet du
+bureau. Les souches des carnets de tickets de jeux sont restituées au service
+des douanes de rattachement au fur et à mesure de leur épuisement.
 
 En cas de perte ou de détournement le cercle serait tenu sans préjudice des
 sanctions prévues par les articles 1791 et 1797 du code général des impôts de
