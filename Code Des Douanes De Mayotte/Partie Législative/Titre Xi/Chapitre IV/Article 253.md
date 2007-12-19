@@ -5,7 +5,7 @@ afin de garantir le paiement des amendes encourues, des frais de justice et la
 confiscation, le président du tribunal de première instance peut ordonner, à la
 demande de l'administration des douanes et après avis du procureur de la
 République, aux frais avancés du Trésor et selon les modalités prévues par le
-nouveau code de procédure civile, des mesures conservatoires sur les biens de la
+code de procédure civile, des mesures conservatoires sur les biens de la
 personne inculpée.
 
 La condamnation vaut validation des saisies conservatoires et permet

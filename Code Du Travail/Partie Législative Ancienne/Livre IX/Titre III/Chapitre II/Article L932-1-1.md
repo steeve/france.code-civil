@@ -23,4 +23,4 @@ prévues au présent article n'exonère pas l'employeur de son obligation de
 reconduction du contrat pour la saison suivante.
 
 Les contrats à durée déterminée ainsi souscrits sont mentionnés dans la
-déclaration des employeurs visée aux articles L. 951-12 et L. 952-4.
+déclaration des employeurs prévue à l'article L. 951-12.

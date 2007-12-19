@@ -89,8 +89,8 @@ qui a pour effet d'annuler le titre exécutoire pour le montant de la majoration
 
 La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée
 correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article
-529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a
-pas pour effet d'annuler le titre exécutoire. "
+529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
+irrecevable."
 
 " Art. 530-1-Au vu de la requête faite en application du premier alinéa de
 l'article 529-2, de la protestation formulée en application du premier alinéa de

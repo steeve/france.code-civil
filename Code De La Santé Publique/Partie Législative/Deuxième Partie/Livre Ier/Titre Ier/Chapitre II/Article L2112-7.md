@@ -1,12 +1,12 @@
 Article L2112-7
 ----
-Lorsque les examens institués par les articles L. 2121-1, L. 2122-1, deuxième
-alinéa, L. 2122-3 et L. 2132-2, deuxième alinéa, sont pratiqués dans une
-consultation du service départemental de protection maternelle et infantile et
-concernent des assurés sociaux ou leurs ayants droit, les frais y afférents sont
-remboursés au département par les organismes d'assurance maladie dont relèvent
-les intéressés selon le mode de tarification prévu à l'article L. 162-32 du code
-de la sécurité sociale.
+Lorsque des examens prénuptiaux et les examens institués par les articles L.
+2122-1, deuxième alinéa, L. 2122-3 et L. 2132-2, deuxième alinéa, sont pratiqués
+dans une consultation du service départemental de protection maternelle et
+infantile et concernent des assurés sociaux ou leurs ayants droit, les frais y
+afférents sont remboursés au département par les organismes d'assurance maladie
+dont relèvent les intéressés selon le mode de tarification prévu à l'article L.
+162-32 du code de la sécurité sociale.
 
 Les organismes d'assurance maladie peuvent également, par voie de convention,
 participer sur leurs fonds d'action sanitaire et sociale aux autres actions de

@@ -1,16 +1,19 @@
 Article L951-12
 ----
-I. - Les employeurs sont tenus de remettre à la recette des impôts compétente
-une déclaration en double exemplaire, indiquant notamment le montant de la
-participation à laquelle ils étaient tenus et les dépenses effectivement
-consenties, en vertu de l'article L. 951-1.
+I.-Les employeurs sont tenus de remettre au service des impôts compétent une
+déclaration relative à la participation au développement de la formation
+professionnelle continue prévue par l'article L. 951-1 et relative à la
+participation au financement du congé de formation prévue par l'article L.
+931-20.
+
+Le contenu de cette déclaration est défini par décret en Conseil d'Etat.
 
 Les employeurs qui occupent au moins cinquante salariés attestent sur l'honneur
 qu'ils ont satisfait à l'obligation de consultation du comité d'entreprise
-prévue à l'article L. 951-8. A la demande de l'administration, ils doivent
+prévue à l'article L. 951-8.A la demande de l'administration, ils doivent
 produire les procès-verbaux justifiant du respect de cette obligation.
 
-II. - La déclaration prévue au I ci-dessus doit être produite au plus tard le 30
+II.-La déclaration prévue au I ci-dessus doit être produite au plus tard le 30
 avril de l'année suivant celle au cours de laquelle les dépenses définies à
 l'article L. 951-1 ont été effectuées.
 

@@ -7,6 +7,9 @@ Outre les avocats, peuvent assister ou représenter les parties :
 
 1° Leur conjoint ou un ascendant ou descendant en ligne directe ;
 
+1° bis Leur concubin ou la personne avec laquelle elles ont conclu un pacte
+civil de solidarité ;
+
 2° Suivant le cas, un travailleur salarié ou un employeur ou un travailleur
 indépendant exerçant la même profession ou un représentant qualifié des
 organisations syndicales de salariés ou d'employeurs ;

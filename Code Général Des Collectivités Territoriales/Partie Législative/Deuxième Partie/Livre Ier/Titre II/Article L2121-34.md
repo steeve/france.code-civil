@@ -19,6 +19,3 @@ supérieur à douze années.
 
 L'emprunt ne peut être autorisé que par arrêté motivé du représentant de l'Etat
 dans le département si l'avis du conseil municipal est défavorable.
-
-L'emprunt ne peut être autorisé que par décret en Conseil d'Etat si la durée de
-remboursement dépasse trente ans.

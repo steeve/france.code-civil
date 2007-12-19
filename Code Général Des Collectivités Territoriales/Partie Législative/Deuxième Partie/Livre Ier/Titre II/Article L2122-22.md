@@ -20,14 +20,16 @@ l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, 
 de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation,
-l'exécution et le règlement des marchés de travaux, de fournitures et de
-services qui peuvent être passés sans formalités préalables en raison de leur
-montant, lorsque les crédits sont inscrits au budget ;
+l'exécution et le règlement des marchés et des accords-cadres d'un montant
+inférieur à un seuil défini par décret ainsi que toute décision concernant leurs
+avenants qui n'entraînent pas une augmentation du montant du contrat initial
+supérieure à 5 %, lorsque les crédits sont inscrits au budget ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une
 durée n'excédant pas douze ans ;
 
-6° De passer les contrats d'assurance ;
+6° De passer les contrats d'assurance ainsi que d'accepter les indemnités de
+sinistre y afférentes ;
 
 7° De créer les régies comptables nécessaires au fonctionnement des services
 municipaux ;

@@ -19,8 +19,8 @@ aux directions des services fiscaux dont dépendent ces résidences,
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions
 fixées par décret, par l'indication du nombre de parts retenu pour l'application
-du quotient familial, du revenu imposable et du montant de l'imp&lt;CB&gt;t mis
-à la charge de chaque redevable.
+du quotient familial, du revenu imposable et du montant de l'impôt mis à la
+charge de chaque redevable.
 
 I bis. Une liste des personnes assujetties à la taxe départementale sur le
 revenu est dressée par commune pour les impositions établies dans son ressort.
@@ -47,7 +47,8 @@ ci-dessus, soit de toute indication se rapportant à ces listes et visant des
 personnes nommément désignées est interdite, sous peine de l'amende fiscale
 prévue à l'article 1762 du code précité.
 
-II. Les créanciers d'aliments dont la qualité est reconnue par une décision de
-justice peuvent consulter les listes mentionnées aux I et I bis détenues par la
-direction des services fiscaux dans le ressort de laquelle l'imposition du
-débiteur est établie.
+II. - Les créanciers et débiteurs d'aliments dont la qualité est reconnue par
+une décision de justice peuvent consulter les éléments des listes mentionnées au
+I afférents à l'imposition de leur débiteur ou créancier, selon le cas, quelle
+que soit la direction des services fiscaux dans le ressort de laquelle
+l'imposition du débiteur ou du créancier est établie.

@@ -31,8 +31,9 @@ ou lors de consultations ;
 traitement de ces informations et en particulier de celles qui figurent sur les
 documents mentionnés par l'article L. 2132-2 ;
 
-6° L'édition et la diffusion des documents mentionnés par les articles L.
-2121-1, L. 2122-2, L. 2132-1 et L. 2132-2 ;
+6° L'édition et la diffusion des supports d'information sanitaire destinés aux
+futurs conjoints et des documents mentionnés par les articles L. 2122-2, L.
+2132-1 et L. 2132-2 ;
 
 7° Des actions d'information sur la profession d'assistant maternel et des
 actions de formation initiale destinées à aider les assistants maternels dans

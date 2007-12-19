@@ -12,7 +12,7 @@ une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce 
 concerne l'amende contestée. Cette réclamation reste recevable tant que la peine
 n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre
 moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire
-majorée. S'il s'agit d'une contravention au code de la route, la réclamation
+majorée.S'il s'agit d'une contravention au code de la route, la réclamation
 n'est toutefois plus recevable à l'issue d'un délai de trois mois lorsque l'avis
 d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse
 figurant sur le certificat d'immatriculation du véhicule, sauf si le
@@ -22,7 +22,7 @@ dernier cas, le contrevenant n'est redevable que d'une somme égale au montant d
 l'amende forfaitaire s'il s'en acquitte dans un délai de quarante-cinq jours, ce
 qui a pour effet d'annuler le titre exécutoire pour le montant de la majoration.
 
-La réclamation doit être accompagnée de l'avis correspondant à l'amende
-considérée ainsi que, dans le cas prévu par l'article 529-10, de l'un des
-documents exigés par cet article, à défaut de quoi elle n'a pas pour effet
-d'annuler le titre exécutoire.
+La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée
+correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article
+529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
+irrecevable.

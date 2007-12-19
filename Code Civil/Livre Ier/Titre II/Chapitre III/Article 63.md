@@ -12,15 +12,12 @@ mariage est subordonnée :
 1° A la remise, pour chacun des futurs époux, des indications ou pièces
 suivantes :
 
-- un certificat médical datant de moins de deux mois attestant, à l'exclusion de
-toute autre indication, que l'intéressé a été examiné en vue du mariage ;
+-les pièces exigées par les articles 70 ou 71 ;
 
-- les pièces exigées par les articles 70 ou 71 ;
-
-- la justification de l'identité au moyen d'une pièce délivrée par une autorité
+-la justification de l'identité au moyen d'une pièce délivrée par une autorité
 publique ;
 
-- l'indication des prénoms, nom, date et lieu de naissance, profession et
+-l'indication des prénoms, nom, date et lieu de naissance, profession et
 domicile des témoins, sauf lorsque le mariage doit être célébré par une autorité
 étrangère ;
 

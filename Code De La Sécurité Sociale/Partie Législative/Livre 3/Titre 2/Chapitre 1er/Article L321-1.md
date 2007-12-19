@@ -42,14 +42,13 @@ l'incapacité peut être également constatée, dans les mêmes conditions, par 
 sage-femme dans la limite de sa compétence professionnelle et pour une durée
 fixée par décret ; toutefois, les arrêts de travail prescrits à l'occasion d'une
 cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la
-situation de l'intéressé le justifie suivant des conditions fixées par décret ;
+situation de l'intéressé le justifie suivant des conditions fixées par décret.
 
 6°) La couverture des frais relatifs aux actes et traitements à visée préventive
 réalisés dans le cadre des programmes mentionnés à l'article L. 1411-6 du code
 de la santé publique, et notamment des frais relatifs aux examens de dépistage
 et aux consultations de prévention effectués au titre des programmes prévus par
-l'article L. 1411-2 du même code ainsi que des frais afférents aux examens
-prescrits en application de l'article L. 2121-1 du même code et aux vaccinations
+l'article L. 1411-2 du même code ainsi que des frais afférents aux vaccinations
 dont la liste est fixée par arrêté des ministres chargés de la santé et de la
 sécurité sociale ;
 

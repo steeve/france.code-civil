@@ -14,10 +14,11 @@ stationnement ;
 dans tous les autres domaines qui relèvent de leur compétence en application de
 la loi ;
 
-4° Les conventions relatives aux marchés à l'exception des marchés passés sans
-formalité préalable en raison de leur montant, et aux emprunts ainsi que les
-conventions de concession ou d'affermage de services publics locaux à caractère
-industriel ou commercial et les contrats de partenariat ;
+4° Les conventions relatives aux emprunts, aux marchés et aux accords-cadres, à
+l'exception des conventions relatives à des marchés et à des accords-cadres d'un
+montant inférieur à un seuil défini par décret, ainsi que les conventions de
+concession ou d'affermage de services publics locaux et les contrats de
+partenariat ;
 
 5° Les décisions individuelles relatives à la nomination, à l'avancement de
 grade, à la mise à la retraite d'office, à la révocation des fonctionnaires,

@@ -34,7 +34,7 @@ les services d'assainissement et sur les services de collecte, d'évacuation ou
 de traitement des ordures ménagères visés à l'article L. 2224-5 ;
 
 3° Un bilan d'activité des services exploités en régie dotée de l'autonomie
-financière.
+financière ;
 
 4° Le rapport mentionné à l'article L. 1414-14 établi par le cocontractant d'un
 contrat de partenariat.
@@ -47,7 +47,7 @@ délibérante ou l'organe délibérant se prononce dans les conditions prévues 
 l'article L. 1411-4 ;
 
 2° Tout projet de création d'une régie dotée de l'autonomie financière, avant la
-décision portant création de la régie.
+décision portant création de la régie ;
 
 3° Tout projet de partenariat avant que l'assemblée délibérante ou l'organe
 délibérant ne se prononce dans les conditions prévues à l'article L. 1414-2.
@@ -56,3 +56,7 @@ Le président de la commission consultative des services publics locaux présent
 à son assemblée délibérante ou à son organe délibérant, avant le 1er juillet de
 chaque année, un état des travaux réalisés par cette commission au cours de
 l'année précédente (1).
+
+Dans les conditions qu'ils fixent, l'assemblée délibérante ou l'organe
+délibérant peuvent charger, par délégation, l'organe exécutif de saisir pour
+avis la commission des projets précités.

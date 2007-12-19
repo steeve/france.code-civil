@@ -4,7 +4,7 @@ Le premier président a compétence dans les matières suivantes, sans préjudic
 des autres compétences qui lui sont attribuées par la loi ou le règlement :
 
 1° L'arrêt ou l'octroi de l'exécution provisoire en cas d'appel, conformément au
-nouveau code de procédure civile ;
+code de procédure civile ;
 
 2° Le recours contre la décision du bâtonnier prise sur contestation des
 honoraires d'avocat ;

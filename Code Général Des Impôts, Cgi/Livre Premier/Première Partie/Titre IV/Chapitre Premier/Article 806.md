@@ -8,10 +8,10 @@ dépositaires, détenteurs ou débiteurs de titres, sommes ou valeurs dépendant
 d'une succession qu'ils sauraient ouverte doivent adresser, soit avant le
 paiement, la remise ou le transfert, soit dans la quinzaine qui suit ces
 opérations, à la direction des services fiscaux du département de leur
-résidence, la liste de ces titres, sommes ou valeurs. Il en est donné récépissé.
+résidence, la liste de ces titres, sommes ou valeurs.
 
-II. Ces listes sont établies sur des formules imprimées, délivrées sans frais
-par le service des impôts.
+II. Ces listes sont établies sur des formulaires mis à disposition par le
+service des impôts.
 
 III. Les sociétés, compagnies, caisses ou organismes d'assurances et tous autres
 assureurs français, ainsi que les établissements, agences et succursales en
@@ -23,8 +23,8 @@ sans frais par le comptable des impôts et constatant soit l'acquittement, soit
 la non exigibilité de l'impôt de mutation par décès.
 
 Ils peuvent, toutefois, sur la demande écrite des bénéficiaires, verser tout ou
-partie des sommes dues par eux en l'acquit des droits de mutation par décès, à
-la recette des impôts où doit être déposée la déclaration de succession.
+partie des sommes dues par eux en l'acquit des droits de mutation par décès, au
+service des impôts où doit être déposée la déclaration de succession.
 
 Les dispositions du présent paragraphe ne sont pas applicables lorsque
 l'ensemble des sommes, rentes ou émoluments quelconques dus par un ou plusieurs

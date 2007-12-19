@@ -6,8 +6,8 @@ compétent peut, à l'expiration d'un délai de vingt jours suivant l'une ou
 l'autre de ces formalités, engager des poursuites.
 
 Sous réserve des dispositions des articles L. 259 à L. 261, ces poursuites sont
-effectuées dans les formes prévues par le nouveau code de procédure civile pour
-le recouvrement des créances.
+effectuées dans les formes prévues par le code de procédure civile pour le
+recouvrement des créances.
 
 Elles sont opérées par huissier de justice ou par tout agent de l'administration
 habilité à exercer des poursuites au nom du comptable.

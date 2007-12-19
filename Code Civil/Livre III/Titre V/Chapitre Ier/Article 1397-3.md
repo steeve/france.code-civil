@@ -9,9 +9,9 @@ que les nom, qualité et résidence de la personne qui l'a établi.
 
 Lorsque la désignation de la loi applicable est faite au cours du mariage, les
 époux font procéder aux mesures de publicité relatives à la désignation de la
-loi applicable dans les conditions et formes prévues au nouveau code de
-procédure civile. S'ils ont passé un contrat de mariage, mention de la loi
-applicable ainsi désignée est portée sur la minute de celui-ci.
+loi applicable dans les conditions et formes prévues au code de procédure
+civile. S'ils ont passé un contrat de mariage, mention de la loi applicable
+ainsi désignée est portée sur la minute de celui-ci.
 
 A l'occasion de la désignation de la loi applicable, avant le mariage ou au
 cours de celui-ci, les époux peuvent désigner la nature du régime matrimonial

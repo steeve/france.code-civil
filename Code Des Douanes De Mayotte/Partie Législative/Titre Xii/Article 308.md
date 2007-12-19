@@ -26,9 +26,9 @@ ces conditions, les assesseurs techniques peuvent être choisis dans les
 chapitres afférents aux marchandises qui présentent le plus d'analogie avec
 celles faisant l'objet de la contestation.
 
-4. Les dispositions des articles 341 à 355 du nouveau code de procédure civile
-sont applicables aux assesseurs et à leurs suppléants ; tout membre de la
-commission qui saura cause de récusation en sa personne sera tenu de la déclarer
+4. Les dispositions des articles 341 à 355 du code de procédure civile sont
+applicables aux assesseurs et à leurs suppléants ; tout membre de la commission
+qui saura cause de récusation en sa personne sera tenu de la déclarer
 immédiatement au président ; il sera remplacé par le suppléant désigné.
 
 5° Les assesseurs sont tenus au secret professionnel.

@@ -6,8 +6,8 @@ sans préjudice des cas de fraude ou d'infidélité.
 
 Toutes les autres actions auxquelles ce contrat peut donner lieu, tant contre le
 voiturier ou le commissionnaire que contre l'expéditeur ou le destinataire,
-aussi bien que celles qui naissent des dispositions de l'article 1269 du nouveau
-code de procédure civile, sont prescrites dans le délai d'un an.
+aussi bien que celles qui naissent des dispositions de l'article 1269 du code de
+procédure civile, sont prescrites dans le délai d'un an.
 
 Le délai de ces prescriptions est compté, dans le cas de perte totale, du jour
 où la remise de la marchandise aurait dû être effectuée, et, dans tous les

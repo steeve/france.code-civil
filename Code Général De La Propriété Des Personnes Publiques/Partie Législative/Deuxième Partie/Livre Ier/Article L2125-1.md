@@ -13,3 +13,9 @@ service public qui bénéficie gratuitement à tous ;
 
 2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la
 conservation du domaine public lui-même.
+
+L'autorisation d'occupation ou d'utilisation du domaine public peut également
+être délivrée gratuitement lorsque cette occupation ou cette utilisation ne
+présente pas un objet commercial pour le bénéficiaire de l'autorisation.L'organe
+délibérant de la collectivité concernée détermine les conditions dans lesquelles
+il est fait application du présent alinéa.

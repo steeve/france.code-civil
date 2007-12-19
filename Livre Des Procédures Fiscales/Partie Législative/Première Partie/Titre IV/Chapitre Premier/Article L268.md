@@ -5,5 +5,5 @@ comptable public compétent peut, par dérogation aux articles L143-3 et L143-4 
 code de commerce, faire ordonner par le président du tribunal de grande instance
 que cette vente soit effectuée dans les formes prévues pour les ventes de biens
 appartenant à des mineurs. Le président exerce, à cet égard, toutes les
-attributions confiées au tribunal par les articles 1272 et suivants du nouveau
-code de procédure civile.
+attributions confiées au tribunal par les articles 1272 et suivants du code de
+procédure civile.
