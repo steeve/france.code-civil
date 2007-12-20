@@ -1,9 +1,9 @@
 Article R137-1
 ----
-Le défaut de production dans les délais prescrits de la déclaration visée à
-l'article L. 137-7 entraîne une pénalité de 750 euros. Si le retard excède un
-mois, une pénalité identique est automatiquement appliquée pour chaque mois ou
-fraction de mois de retard.
+Le versement prévu au deuxième alinéa de l'article L. 137-7 du présent code est
+accompagné de l'envoi à l'organisme de recouvrement d'une déclaration conforme à
+un modèle fixé par arrêté du ministre chargé de la sécurité sociale.
 
-Une pénalité de 750 euros est également encourue en cas d'inexactitude de la
-déclaration produite.
+L'obligation de déclaration subsiste même si aucune prime, cotisation, fraction
+de prime ou de cotisation d'assurance n'a été émise au cours du bimestre civil.
+Dans ce cas, la déclaration est envoyée avec la mention " néant ".

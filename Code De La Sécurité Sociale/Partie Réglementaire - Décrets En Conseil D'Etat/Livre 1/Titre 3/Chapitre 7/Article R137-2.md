@@ -1,7 +1,11 @@
 Article R137-2
 ----
-Lorsque la déclaration visée à l'article L. 137-7 n'a pas été produite dans les
-délais prescrits, le montant du produit des contributions peut être fixé à titre
-provisionnel par l'Agence centrale des organismes de sécurité sociale en
-fonction des versements effectués au titre des exercices antérieurs ou, à
-défaut, par tous autres moyens.
+Le représentant désigné par les organismes d'assurances et assimilés mentionnés
+à l'article L. 138-22 est le représentant agréé par le directeur des services
+fiscaux, conformément à l'article 1004 bis du code général des impôts. Chaque
+année, la direction générale des impôts communique à l'Agence centrale des
+organismes de sécurité sociale la liste à jour de ces représentants agréés.
+
+Ces représentants sont tenus de présenter aux inspecteurs du recouvrement visés
+à l'article R. 243-59 du présent code, le registre prévu par l'article 1004 bis
+du code général des impôts.
