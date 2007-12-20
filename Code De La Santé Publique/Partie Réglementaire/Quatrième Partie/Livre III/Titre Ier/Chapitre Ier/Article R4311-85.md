@@ -44,11 +44,12 @@ titre libéral, dix membres représentant les infirmiers salariés du secteur pr
 et quatorze membres représentant les infirmiers relevant du secteur public, et
 autant de suppléants.
 
-Pour le collège des infirmiers libéraux, les membres sont élus par l'ensemble
-des membres titulaires des conseils départementaux de la région.
+Pour le collège des infirmiers libéraux et le collège des infirmiers relevant du
+secteur privé, les membres sont élus par l'ensemble des membres titulaires des
+conseils départementaux de la région.
 
-Pour les collèges des infirmiers salariés du secteur public et du secteur privé,
-chaque conseil départemental élit au moins un membre titulaire et un membre
-suppléant. La répartition des sièges restants entre les départements pour ces
-deux collèges est fixée par le conseil national de l'ordre qui leur attribue les
-sièges en fonction de la démographie de la région.
+Pour les collèges des infirmiers salariés du secteur public, chaque conseil
+départemental élit au moins un membre titulaire et un membre suppléant. La
+répartition des sièges restants entre les départements pour ce collège est fixée
+par le conseil national de l'ordre qui lui attribue les sièges en fonction de la
+démographie de la région.
