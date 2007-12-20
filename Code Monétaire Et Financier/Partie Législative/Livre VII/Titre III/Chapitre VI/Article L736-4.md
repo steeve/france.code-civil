@@ -1,6 +1,11 @@
 Article L736-4
 ----
-Les articles L. 614-1 à L. 614-3 sont applicables à Mayotte sous réserve de
-supprimer, à l'article L. 614-2, les mots : "et de toute proposition de
-règlement ou de directive communautaires avant son examen par le Conseil des
-Communautés européennes".
+A l'article L. 632-7 :
+
+1° Au I et au II, les mots : " non membre de la Communauté européenne et non
+partie à l'accord sur l'Espace économique européen, " sont remplacés par les
+mots : " autre que la France " ;
+
+2° Au III, les mots : " d'un autre Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen ou d'un pays
+tiers " sont remplacés par les mots : " autre que la France ".
