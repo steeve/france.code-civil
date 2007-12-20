@@ -39,4 +39,4 @@ directeur de l'hospitalisation et de l'organisation des soins et du directeur
 général de l'Union nationale des caisses d'assurance maladie ou de leurs
 représentants. Le bureau prépare et exécute les décisions du comité national de
 gestion dans les conditions prévues par le règlement intérieur du comité
-mentionné au II.
+mentionné à l'article D. 221-3.
