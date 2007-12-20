@@ -1,3 +1,4 @@
 Article L734-2
 ----
-Les articles L. 412-1, et L. 412-2 sont applicables à Mayotte.
+A l'article L. 421-2, les mots : "sur le territoire de la France métropolitaine
+ou des départements d'outre-mer" sont remplacés par les mots : "en France".

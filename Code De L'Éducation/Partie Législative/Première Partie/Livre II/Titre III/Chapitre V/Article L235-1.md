@@ -10,5 +10,5 @@ conseil sont de la compétence de l'Etat, du département ou de la région.
 
 Un décret en Conseil d'Etat précise notamment l'organisation et les compétences
 de ce conseil. Ce décret peut comporter les adaptations rendues nécessaires par
-l'organisation particulière de Paris, de la Corse et des départements
-d'outre-mer.
+l'organisation particulière de Paris, de la Corse des départements d'outre-mer
+et de Mayotte.

@@ -1,10 +1,12 @@
 Article L461-4
 ----
 Le prix du fermage est évalué en une quantité de denrées. La ou les denrées
-devant servir de base au calcul du prix des baux dans le département ou dans les
-diverses régions du département ainsi que les quantités de ces denrées
-représentant, par nature de cultures et par catégories de terres, la valeur
-locative normale des biens loués, sont déterminées par décision administrative.
+devant servir de base au calcul du prix des baux dans le département d'outre-mer
+ou la collectivité territoriale de Mayotte ou dans les diverses régions du
+département d'outre-mer ou de la collectivité territoriale de Mayotte ainsi que
+les quantités de ces denrées représentant, par nature de cultures et par
+catégories de terres, la valeur locative normale des biens loués, sont
+déterminées par décision administrative.
 
 Le prix du fermage tient compte, le cas échéant, de pratiques prévues dans le
 bail en application des quatre derniers alinéas de l'article L. 411-27.

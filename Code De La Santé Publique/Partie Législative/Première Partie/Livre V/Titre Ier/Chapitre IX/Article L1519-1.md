@@ -1,3 +1,4 @@
 Article L1519-1
 ----
-Les dispositions des articles L. 1141-1 à L. 1141-3 sont applicables à Mayotte.
+Les dispositions du chapitre II du titre IV du livre Ier de la présente partie
+sont applicables à Mayotte à compter du 1er janvier 2009.

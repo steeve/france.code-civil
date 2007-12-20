@@ -75,3 +75,6 @@ exposés par l'Etat.
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article, et notamment les catégories d'usagers exonérés du paiement des
 redevances.
+
+Pour l'application à Mayotte, la dernière phrase du premier alinéa du IX est
+supprimée.

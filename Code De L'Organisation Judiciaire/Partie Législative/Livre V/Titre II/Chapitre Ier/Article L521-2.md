@@ -1,7 +1,6 @@
 Article L521-2
 ----
-Pour l'application des dispositions étendues par le présent titre à Mayotte, il
-y a lieu de lire :
+Pour l'application du présent code à Mayotte, il y a lieu de lire :
 
 1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
 

@@ -9,4 +9,8 @@ dérogation au II de l'article 7 de la loi n° 82-1153 du 30 décembre 1982
 d'orientation des transports intérieurs, cette autorisation peut être délivrée
 sans qu'ait été conclue au préalable une convention répondant à cette
 disposition sauf lorsque les dispositions des paragraphes d et h de l'article 4
-du règlement (CEE) n° 2408/92 mentionné à l'article L. 330-2 sont appliquées.
+du règlement (CEE) n° 2408 / 92 mentionné à l'article L. 330-2 sont appliquées.
+
+Pour l'application à Mayotte, les mots : " sauf lorsque les dispositions des
+paragraphes d et h de l'article 4 du règlement (CEE) n° 2408 / 92 mentionné à
+l'article L. 330-2 sont appliquées " sont supprimés.

@@ -6,5 +6,5 @@ détermine les modalités d'application du chapitre II du titre Ier du livre Ier
 de la présente partie à Mayotte, notamment en ce qui concerne la technique de la
 vaccination par le vaccin antituberculeux BCG, ses contre-indications
 éventuelles, la pratique des revaccinations, le contrôle des réactions
-tuberculiniques avant ou après la vaccination et le contrôle de ces vaccinations
-lorsqu'elles sont effectuées dans les services prévus à l'article L. 3811-4.
+tuberculiniques avant ou après la vaccination et le contrôle de ces
+vaccinations.

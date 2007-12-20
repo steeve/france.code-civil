@@ -1,3 +1,4 @@
 Article L735-2
 ----
-L'article L. 515-1 est applicable à Mayotte.
+A l'article L. 545-5, les mots : "en France métropolitaine ou dans les
+départements d'outre-mer" sont remplacés par les mots : "en France".

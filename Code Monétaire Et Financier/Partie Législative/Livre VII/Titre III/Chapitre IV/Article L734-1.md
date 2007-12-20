@@ -1,9 +1,12 @@
 Article L734-1
 ----
-Les articles L. 411-1 et L. 411-2 sont applicables à Mayotte et sous réserve de
-l'adaptation suivante :
+Ne sont pas applicables à Mayotte les dispositions ci-après :
 
-Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n°
-45-2138 du 19 septembre 1945 portant institution de l'ordre des
-experts-comptables et réglementant le titre et la profession d'expert-comptable"
-sont supprimés."
+1° Dans le titre II, l'article L. 421-13, le deuxième alinéa du II de l'article
+L. 421-14, le huitième alinéa de l'article L. 421-17, l'article L. 421-20, le
+chapitre II relatif aux marchés réglementés européens et la section 6 du
+chapitre IV relative aux systèmes multilatéraux européens ;
+
+2° Dans le titre III, le II de l'article L. 433-1 ;
+
+3° Dans le titre V, l'article L. 451-1-5.

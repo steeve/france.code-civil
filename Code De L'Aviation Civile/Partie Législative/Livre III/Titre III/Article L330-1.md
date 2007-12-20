@@ -19,3 +19,7 @@ supérieure à une limite fixée par un décret en Conseil d'Etat. Ce décret
 détermine également les conditions d'octroi de ladite licence d'exploitation et
 dudit certificat de transporteur aérien, notamment en ce qui concerne les
 garanties morales, financières et techniques exigées du transporteur.
+
+Pour l'application à Mayotte, les mots : "et conformément aux dispositions du
+règlement (CEE) n° 2407/92 du 23 juillet 1992 concernant les licences des
+transporteurs aériens, annexé au présent code " sont supprimés.

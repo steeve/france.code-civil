@@ -1,5 +1,7 @@
 Article L732-6
 ----
-A Mayotte, les sociétés par actions appartenant au secteur public peuvent
-émettre des titres participatifs dans les conditions fixées par les articles L.
-228-36 et L. 228-37 du code de commerce.
+Pour son application à Mayotte, l'article L. 221-29 est ainsi rédigé :
+
+Art.L. 221-29.-Les règles relatives à l'épargne-logement sont applicables à
+Mayotte dans les conditions prévues à l'article L. 371-4 du code de la
+construction et de l'habitation.

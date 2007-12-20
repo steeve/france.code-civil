@@ -1,4 +1,8 @@
 Article L732-4
 ----
-Les articles L. 213-5 et L. 213-6 ainsi que l'article L. 231-1 sont applicables
-à Mayotte.
+Le premier alinéa de l'article L. 221-30 est ainsi rédigé :
+
+Les personnes ayant leur résidence fiscale à Mayotte peuvent ouvrir un plan
+d'épargne en actions auprès d'un établissement de crédit, de La Poste, d'une
+entreprise d'investissement ou d'une entreprise d'assurance relevant du code des
+assurances.

@@ -1,9 +1,9 @@
 Article L651-1
 ----
-Le présent code est applicable à Mayotte sous réserve des adaptations prévues
-par le présent titre.
+I. - Le présent code est applicable à Mayotte sous réserve des adaptations
+prévues par le présent titre.
 
-Pour l'application à Mayotte des dispositions du présent code :
+II. - Pour l'application à Mayotte des dispositions du présent code :
 
 1° Les références au département, au département d'outre-mer ou à la région sont
 remplacées par la référence à la collectivité départementale de Mayotte ;
@@ -34,3 +34,15 @@ remplacés par les mots : "tribunal de première instance" ;
 Les références à des dispositions non applicables dans la collectivité sont
 remplacées par les références aux dispositions ayant le même objet applicables
 localement.
+
+III. - Les dispositions des actes communautaires auxquelles il est fait
+référence dans le présent code sont applicables à Mayotte en tant qu'elles sont
+nécessaires à la mise en oeuvre des dispositions du présent code dans cette
+collectivité.
+
+IV. - Pour l'application à Mayotte des dispositions prévoyant une transmission
+de pièces ou une communication d'informations à la Commission européenne ou aux
+Etats membres de l'Union européenne, ces pièces sont communiquées au ministre
+chargé de l'environnement lorsqu'il n'en est pas détenteur. Ce dernier décide,
+en accord avec le ministre chargé de l'outre-mer, s'il y a lieu de les adresser
+à la Commission européenne et aux Etats membres.

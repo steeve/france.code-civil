@@ -1,3 +1,3 @@
 Article L521-1
 ----
-Le livre Ier du présent code est applicable à Mayotte.
+Le livre II n'est pas applicable à Mayotte, à l'exception de son titre V.
