@@ -22,17 +22,25 @@ arrêté du garde des sceaux, ministre de la justice ;
 -d'assurer, comme instance d'appel des décisions des commissions régionales
 mentionnées à l'article L. 822-2, l'inscription des commissaires aux comptes ;
 
--de définir les orientations et le cadre des contrôles périodiques prévus à
-l'article L. 821-7 et d'en superviser la mise en oeuvre et le suivi dans les
-conditions définies par l'article L. 821-9 ;
-
 -d'assurer, comme instance d'appel des décisions prises par les chambres
 régionales mentionnées à l'article L. 822-6, la discipline des commissaires aux
 comptes ;
 
--de veiller à la bonne exécution des contrôles mentionnés aux b et c de
-l'article L. 821-7 dans les conditions définies par décret en Conseil d'Etat et
-garantissant l'indépendance des fonctions de contrôle et de sanction ;
+-de définir le cadre et les orientations des contrôles périodiques prévus au b
+de l'article L. 821-7 qu'il met en œuvre soit directement, soit en en déléguant
+l'exercice à la Compagnie nationale des commissaires aux comptes et aux
+compagnies régionales, ou qui sont réalisés par la Compagnie nationale et les
+compagnies régionales, selon les modalités prévues à l'article L. 821-9 ;
+
+-de superviser les contrôles prévus au b et au c de l'article L. 821-7 et
+d'émettre des recommandations dans le cadre de leur suivi ;
+
+-de veiller à la bonne exécution des contrôles prévus au b de l'article L. 821-7
+et, lorsqu'ils sont effectués à sa demande, au c du même article ;
 
 -d'établir des relations avec les autorités d'autres Etats exerçant des
 compétences analogues.
+
+Les missions définies aux dixième et onzième alinéas du présent article sont
+exercées dans des conditions fixées par décret en Conseil d'Etat garantissant
+l'indépendance des fonctions de contrôle et de sanction.
