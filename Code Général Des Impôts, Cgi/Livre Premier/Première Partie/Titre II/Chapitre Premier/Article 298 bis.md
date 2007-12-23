@@ -14,7 +14,7 @@ indiquant les éléments de liquidation de la taxe sur la valeur ajoutée affér
 à l'année écoulée. Si leur exercice comptable ne coïncide pas avec l'année
 civile, ils peuvent, sur option, déposer une déclaration annuelle correspondant
 à cet exercice avant le cinquième jour du cinquième mois qui suit la clôture de
-celui-ci. L'option doit être formulée avant le début du premier exercice pour
+celui-ci.L'option doit être formulée avant le début du premier exercice pour
 lequel elle est souscrite. Les modalités d'exercice de cette option sont fixées
 par décret en Conseil d'Etat. En outre, les exploitants agricoles doivent, au
 titre de la période comprise entre le 1er janvier et le dernier jour précédant
@@ -89,7 +89,7 @@ l'article 260.
 coopératives d'utilisation de matériel agricole et les coopératives
 d'insémination artificielle.
 
-II bis. - Par dérogation aux dispositions des I et II, en cas de décès d'un
+II bis.-Par dérogation aux dispositions des I et II, en cas de décès d'un
 exploitant soumis au régime simplifié, ce régime continue de s'appliquer dans
 les mêmes conditions au conjoint, à l'héritier ou à l'indivision reprenant
 l'exploitation.
@@ -109,8 +109,16 @@ la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis po
 ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
 selon ce régime lorsque le montant total des recettes accessoires taxes
 comprises n'excède pas, au titre de la période annuelle d'imposition précédente,
-30 000 euros et 30 % du montant des recettes taxes comprises provenant de ses
+50 000 euros et 30 % du montant des recettes taxes comprises provenant de ses
 activités agricoles.
+
+Il en est de même des recettes des activités de production d'électricité
+d'origine photovoltaïque ou éolienne, passibles de la taxe sur la valeur
+ajoutée, réalisées par un exploitant agricole sur son exploitation agricole,
+lorsque le montant total des recettes provenant de ces activités, majorées des
+recettes accessoires commerciales et non commerciales susvisées, n'excède pas,
+au titre de la période annuelle d'imposition précédente, 100 000 euros et 50 %
+du montant des recettes taxes comprises de ses activités agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au

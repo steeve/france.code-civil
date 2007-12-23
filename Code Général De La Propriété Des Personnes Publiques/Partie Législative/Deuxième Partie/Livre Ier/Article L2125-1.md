@@ -1,7 +1,9 @@
 Article L2125-1
 ----
 Toute occupation ou utilisation du domaine public d'une personne publique
-mentionnée à l'article L. 1 donne lieu au paiement d'une redevance.
+mentionnée à l'article L. 1 donne lieu au paiement d'une redevance sauf lorsque
+l'occupation ou l'utilisation concerne l'installation par l'Etat des équipements
+visant à améliorer la sécurité routière.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'autorisation
 d'occupation ou d'utilisation du domaine public peut être délivrée gratuitement

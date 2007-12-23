@@ -5,25 +5,27 @@ salaires égale à 4,25 % de leur montant, évalué selon les règles prévues a
 chapitres Ier et II du titre IV du livre II du code de la sécurité sociale ou
 pour les employeurs de salariés visés aux articles L. 722-20 et L. 751-1 du code
 rural, au titre IV du livre VII dudit code, et à la charge des personnes ou
-organismes, à l'exception des collectivités locales et de leurs groupements, des
-services départementaux de lutte contre l'incendie, des centres d'action sociale
-dotés d'une personnalité propre lorsqu'ils sont subventionnés par les
-collectivités locales, du centre de formation des personnels communaux, des
-caisses des écoles et des établissements d'enseignement supérieur visés au livre
-VII du code de l'éducation qui organisent des formations conduisant à la
-délivrance au nom de l'Etat d'un diplôme sanctionnant cinq années d'études après
-le baccalauréat (1), qui paient ces rémunérations lorsqu'ils ne sont pas
-assujettis à la taxe sur la valeur ajoutée ou ne l'ont pas été sur 90 % au moins
-de leur chiffre d'affaires au titre de l'année civile précédant celle du
-paiement desdites rémunérations. L'assiette de la taxe due par ces personnes ou
-organismes est constituée par une partie des rémunérations versées, déterminée
-en appliquant à l'ensemble de ces rémunérations le rapport existant, au titre de
-cette même année, entre le chiffre d'affaires qui n'a pas été passible de la
-taxe sur la valeur ajoutée et le chiffre d'affaires total. Le chiffre d'affaires
-qui n'a pas été assujetti à la taxe sur la valeur ajoutée en totalité ou sur 90
-p. 100 au moins de son montant, ainsi que le chiffre d'affaires total mentionné
-au dénominateur du rapport s'entendent du total des recettes et autres produits,
-y compris ceux correspondant à des opérations qui n'entrent pas dans le champ
+organismes, à l'exception des collectivités locales, de leurs régies
+personnalisées mentionnées à l'article L. 1412-2 du code général des
+collectivités territoriales et de leurs groupements, des services départementaux
+de lutte contre l'incendie, des centres d'action sociale dotés d'une
+personnalité propre lorsqu'ils sont subventionnés par les collectivités locales,
+du centre de formation des personnels communaux, des caisses des écoles et des
+établissements d'enseignement supérieur visés au livre VII du code de
+l'éducation qui organisent des formations conduisant à la délivrance au nom de
+l'Etat d'un diplôme sanctionnant cinq années d'études après le baccalauréat, qui
+paient ces rémunérations lorsqu'ils ne sont pas assujettis à la taxe sur la
+valeur ajoutée ou ne l'ont pas été sur 90 % au moins de leur chiffre d'affaires
+au titre de l'année civile précédant celle du paiement desdites
+rémunérations.L'assiette de la taxe due par ces personnes ou organismes est
+constituée par une partie des rémunérations versées, déterminée en appliquant à
+l'ensemble de ces rémunérations le rapport existant, au titre de cette même
+année, entre le chiffre d'affaires qui n'a pas été passible de la taxe sur la
+valeur ajoutée et le chiffre d'affaires total. Le chiffre d'affaires qui n'a pas
+été assujetti à la taxe sur la valeur ajoutée en totalité ou sur 90 p. 100 au
+moins de son montant, ainsi que le chiffre d'affaires total mentionné au
+dénominateur du rapport s'entendent du total des recettes et autres produits, y
+compris ceux correspondant à des opérations qui n'entrent pas dans le champ
 d'application de la taxe sur la valeur ajoutée. Le chiffre d'affaires qui n'a
 pas été passible de la taxe sur la valeur ajoutée mentionné au numérateur du
 rapport s'entend du total des recettes et autres produits qui n'ont pas ouvert

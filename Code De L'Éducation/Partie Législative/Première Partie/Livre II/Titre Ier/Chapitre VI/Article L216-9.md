@@ -1,13 +1,7 @@
 Article L216-9
 ----
-Chaque année, le montant de la dotation régionale d'équipement scolaire et le
-montant de la dotation départementale d'équipement des collèges sont fixés en
-fonction des objectifs du Plan par la loi de finances.
-
-Chaque dotation est répartie entre les régions et l'ensemble des départements
-d'une région dans les conditions définies par les décrets prévus aux articles L.
-3334-16 et L. 4332-3 du code général des collectivités territoriales.
-
-Les crédits de payement correspondant aux crédits d'autorisations de programme
-comprises dans les dotations susmentionnées sont versés sur une période qui ne
-peut excéder trois ans.
+La dotation régionale d'équipement scolaire et la dotation départementale
+d'équipement des collèges sont calculées et attribuées respectivement aux
+régions et aux départements dans les conditions prévues aux articles L. 3334-16,
+L. 3443-2 et L. 4332-3, et L. 4434-8 du code général des collectivités
+territoriales.

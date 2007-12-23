@@ -1,27 +1,27 @@
 Article L3334-16
 ----
-La dotation départementale d'équipement des collèges évolue comme la dotation
-globale d'équipement.
+En 2008, le montant de la dotation départementale d'équipement des collèges est
+fixé à 328 666 225 euros.
 
-La part de l'ensemble des départements de chaque région dans la dotation
-départementale d'équipement des collèges est déterminée dans les conditions
-définies par décret en Conseil d'Etat en fonction, notamment, de l'évolution de
-la population scolarisable et de la capacité d'accueil des établissements.
+Le montant alloué en 2008 à chaque département exerçant les compétences définies
+à l'article L. 213-2 du code de l'éducation est obtenu en appliquant un
+coefficient au montant total de la dotation départementale d'équipement des
+collèges fixé pour cette même année. Ce coefficient est calculé pour chaque
+département sur la base du rapport entre la moyenne actualisée des crédits de
+paiement qui lui ont été versés de 1998 à 2007 et la moyenne actualisée des
+crédits de paiement versés par l'Etat à l'ensemble des départements au titre de
+la dotation départementale d'équipement des collèges au cours de ces mêmes
+années.
 
-Elle est répartie entre les départements par la conférence des présidents des
-conseils généraux, après communication, par le représentant de l'Etat dans la
-région, de la liste des opérations de construction et d'extension prévue à
-l'article L. 211-2 du code de l'éducation.
+A compter de 2009, le montant de la dotation revenant à chaque département est
+obtenu par application au montant de l'année précédente du taux prévisionnel de
+croissance de la formation brute de capital fixe des administrations publiques
+associé au projet de loi de finances relatif à l'année de versement.
 
-A défaut d'accord entre les présidents des conseils généraux, elle est répartie
-par le représentant de l'Etat dans la région dans les conditions définies par
-décret en Conseil d'Etat.
+La dotation départementale d'équipement des collèges est versée aux départements
+en une seule fois au cours du troisième trimestre de l'année en cours.
 
-La dotation est inscrite au budget de chaque département qui l'affecte à la
+La dotation est inscrite au budget de chaque département, qui l'affecte à la
 reconstruction, aux grosses réparations, à l'équipement et, si ces opérations
 figurent sur la liste établie en application de l'article L. 211-2 du code de
-l'éducation, à l'extension et à la construction des collèges.
-
-Par dérogation aux articles L. 1614-4 et L. 1614-5, les crédits mentionnés au
-présent article ne sont pas compris dans la dotation générale de
-décentralisation.
+l'éducation, à l'extension et la construction des collèges.

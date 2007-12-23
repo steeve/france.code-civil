@@ -7,9 +7,9 @@ Toutefois, les personnes physiques qui pouvaient prétendre à cette allocation
 pendant la campagne 1959-1960, sous réserve qu'elles continuent à remplir les
 conditions prévues au premier et deuxième alinéas de l'article 315, sont
 maintenues dans ce droit, à titre personnel, sans pouvoir le transmettre à
-d'autres personnes que leur conjoint survivant, pour une durée de cinq années à
+d'autres personnes que leur conjoint survivant, pour une durée de dix années à
 compter du 1er janvier 2003. Ce droit est également maintenu, pour une durée de
-cinq années à compter du 1er janvier 2003, aux militaires remplissant ces
+dix années à compter du 1er janvier 2003, aux militaires remplissant ces
 conditions qui n'ont pu bénéficier de l'allocation en franchise du fait de leur
 présence sous les drapeaux pendant la même campagne.
 

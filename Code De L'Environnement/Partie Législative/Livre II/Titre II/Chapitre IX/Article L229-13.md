@@ -10,12 +10,6 @@ quantité de quotas d'émission valables pour la nouvelle période est
 simultanément délivrée aux personnes qui étaient détentrices des quotas ainsi
 annulés.
 
-Toutefois, à l'issue de la période triennale débutant le 1er janvier 2005, dans
-le cas où l'application de l'alinéa précédent risquerait de compromettre le
-respect des engagements internationaux de maîtrise des émissions de gaz à effet
-de serre pris par la France, l'autorité administrative peut décider de limiter
-la délivrance de quotas d'émission, faite au début de la période suivante en
-vertu de cet alinéa, aux seuls exploitants d'installations autorisées à émettre
-des gaz à effet de serre et à une quantité égale pour chaque exploitant à la
-différence entre celle qui lui a été affectée au titre de la période précédente
-et le montant des émissions de ses installations pendant la même période.
+Toutefois, il n'est pas procédé à la délivrance des quotas prévue à la seconde
+phrase de l'alinéa précédent en remplacement des quotas annulés à l'issue de la
+période triennale débutant le 1er janvier 2005.

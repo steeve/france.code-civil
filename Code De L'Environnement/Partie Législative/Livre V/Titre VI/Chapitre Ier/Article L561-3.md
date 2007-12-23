@@ -73,7 +73,7 @@ est versé par les entreprises d'assurances ou leur représentant fiscal visé �
 l'article 1004 bis du code général des impôts.
 
 Le taux de ce prélèvement est fixé par l'autorité administrative dans la limite
-de 4 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes
+de 8 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes
 garanties et les mêmes sanctions que la taxe sur les conventions d'assurance
 prévue aux articles 991 et suivants du code général des impôts.
 

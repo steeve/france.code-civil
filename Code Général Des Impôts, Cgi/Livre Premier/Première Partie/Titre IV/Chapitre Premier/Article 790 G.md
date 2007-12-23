@@ -28,3 +28,7 @@ ou enregistrés par le donataire au service des impôts du lieu de son domicile
 dans le délai d'un mois qui suit la date du don. L'obligation déclarative est
 accomplie par la souscription, en double exemplaire, d'un formulaire conforme au
 modèle établi par l'administration.
+
+V. - Le montant mentionné au I est actualisé, le 1er janvier de chaque année,
+dans la même proportion que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu et arrondi à l'euro le plus proche (1).

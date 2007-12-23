@@ -28,7 +28,9 @@ L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
 application des abattements mentionnés au I de l'article 125-0 A, à l'article
-150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts.
+150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
+ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
+vue de l'acquisition et de la conservation du revenu .
 
 II. - Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :

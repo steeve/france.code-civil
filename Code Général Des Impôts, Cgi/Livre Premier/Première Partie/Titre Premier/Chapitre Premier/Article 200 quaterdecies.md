@@ -59,6 +59,9 @@ handicapé.
 V. - Le crédit d'impôt est égal à 20 % du montant des intérêts mentionnés au
 III, dans la limite mentionnée au IV.
 
+Ce taux est porté à 40 % pour les intérêts payés au titre de la première annuité
+de remboursement.
+
 VI. - Le I s'applique à la condition que le logement faisant l'objet du prêt
 soit, à la date de paiement des intérêts, affecté à l'usage d'habitation
 principale du contribuable.
@@ -81,6 +84,16 @@ logement objet du prêt à son habitation principale, sous réserve que ce logem
 ne soit pas donné en location et que le contribuable n'ait pas fait
 l'acquisition d'un nouveau logement affecté à son habitation principale ou
 destiné à cet usage.
+
+La date à partir de laquelle sont décomptées les cinq premières annuités
+mentionnées au III est constituée par celle de la première mise à disposition
+des fonds empruntés. Toutefois, en cas de construction ou d'acquisition en état
+futur d'achèvement, cette date peut être fixée, à la demande du contribuable, à
+la date de l'achèvement ou de la livraison du logement. Cette demande,
+irrévocable et exclusive de l'application des deuxième et troisième alinéas,
+doit être exercée au plus tard lors du dépôt de la déclaration de revenus de
+l'année au cours de laquelle intervient l'achèvement ou la livraison du
+logement.
 
 VII. - Le crédit d'impôt mentionné au I est imputé sur l'impôt sur le revenu
 après imputation des réductions d'impôt mentionnées aux articles 199 quater B à

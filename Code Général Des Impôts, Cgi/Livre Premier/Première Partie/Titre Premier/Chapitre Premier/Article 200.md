@@ -71,21 +71,20 @@ ces associations est reconnue d'utilité publique.
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
 modalités de procédure déconcentrée permettant de l'accorder.
 
-2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la "
-Fondation du patrimoine " ou à une fondation ou une association qui affecte
-irrévocablement ces dons à la " Fondation du patrimoine ", en vue de
-subventionner la réalisation des travaux prévus par les conventions conclues en
-application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation
-du patrimoine " et les propriétaires des immeubles, personnes physiques ou
-sociétés civiles composées uniquement de personnes physiques et qui ont pour
-objet exclusif la gestion et la location nue des immeubles dont elles sont
-propriétaires.
+2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la
+"Fondation du patrimoine" ou à une fondation ou une association qui affecte
+irrévocablement ces dons à la "Fondation du patrimoine", en vue de subventionner
+la réalisation des travaux prévus par les conventions conclues en application de
+l'article L. 143-2-1 du code du patrimoine entre la "Fondation du patrimoine" et
+les propriétaires des immeubles, personnes physiques ou sociétés civiles
+composées uniquement de personnes physiques et qui ont pour objet exclusif la
+gestion et la location nue des immeubles dont elles sont propriétaires.
 
 Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire
 l'objet d'une exploitation commerciale.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de
-convention avec la " Fondation du patrimoine " en application de l'article L.
+convention avec la "Fondation du patrimoine" en application de l'article L.
 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les
 travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de
 cet immeuble. En cas de détention de l'immeuble par une société mentionnée au
@@ -124,13 +123,12 @@ cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas l
 dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
-6. Par dérogation aux dispositions du premier alinéa du 5 et jusqu'à
-l'imposition des revenus de l'année 2006, le bénéfice de la réduction d'impôt
-est accordé aux contribuables qui transmettent la déclaration de leurs revenus
-par voie électronique, en application de l'article 1649 quater B ter, à la
-condition que soient mentionnés sur cette déclaration l'identité de chaque
-organisme bénéficiaire et le montant total des versements effectués au profit de
-chacun d'entre eux au titre de l'année d'imposition des revenus.
+6. Par dérogation aux dispositions du premier alinéa du 5, le bénéfice de la
+réduction d'impôt est accordé aux contribuables qui transmettent la déclaration
+de leurs revenus par voie électronique, en application de l'article 1649 quater
+B ter, à la condition que soient mentionnés sur cette déclaration l'identité de
+chaque organisme bénéficiaire et le montant total des versements effectués au
+profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
 
 L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations
 versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas,

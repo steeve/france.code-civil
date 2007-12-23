@@ -89,9 +89,10 @@ ce même article à des sociétés n'ayant pas opté pour le régime prévu à l
 209-0 B précité et liées directement ou indirectement au sens du 12 de l'article
 39.
 
-VI. - Les dispositions du vingtième alinéa du 5° du 1 de l'article 39
-s'appliquent distinctement aux titres de participation mentionnés au a quinquies
-du I de l'article 219 et aux autres titres de participation.
+VI. - Le vingtième alinéa du 5° du 1 de l'article 39 s'applique distinctement
+aux titres de sociétés à prépondérance immobilière définis au troisième alinéa
+du a du I de l'article 219 et aux autres titres de sociétés à prépondérance
+immobilière.
 
 VII. - Les frais liés à l'acquisition de titres de participation définis au
 dix-huitième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre

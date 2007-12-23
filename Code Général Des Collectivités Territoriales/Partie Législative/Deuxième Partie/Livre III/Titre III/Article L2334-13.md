@@ -55,3 +55,9 @@ l'augmentation du solde de la dotation d'aménagement répartie par le comité d
 finances locales en application de l'avant-dernier alinéa du présent article est
 calculée à partir du solde de la dotation d'aménagement effectivement réparti,
 compte tenu de cette minoration de 10,5 millions d'euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité
+urbaine et de cohésion sociale est majoré de 68 574 738 euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité
+rurale est majoré de 68 574 738 euros.

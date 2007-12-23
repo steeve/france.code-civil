@@ -34,7 +34,7 @@ en considération est le dernier revenu imposable connu.
 
 Les départements sont classés en fonction de la valeur décroissante de leur
 indice synthétique, selon des modalités définies par décret en Conseil d'Etat et
-tenant compte des montants visés aux 1°, 2°, 3° et 4°. L'attribution revenant à
+tenant compte des montants visés aux 1°, 2°, 3° et 4°.L'attribution revenant à
 chaque département urbain éligible est déterminée en fonction de sa population
 et de son indice synthétique.
 
@@ -46,7 +46,10 @@ comité des finances locales à la dotation de péréquation urbaine. Pour
 l'application de cette disposition en 2005 et 2006, sont pris en compte les
 montants perçus en 2004 au titre de la dotation de péréquation prévue à
 l'article L. 3334-4 dans sa rédaction antérieure à la loi de finances pour 2005
-(n° 2004-1484 du 30 décembre 2004).
+(n° 2004-1484 du 30 décembre 2004). Cette disposition ne s'applique pas aux
+départements qui cessent de remplir les conditions démographiques prévues au
+premier alinéa et qui bénéficient la même année d'une attribution au titre de la
+dotation de fonctionnement minimale.
 
 Les départements urbains dont le potentiel financier par habitant est supérieur
 à 150 % de la moyenne du potentiel financier par habitant de l'ensemble des

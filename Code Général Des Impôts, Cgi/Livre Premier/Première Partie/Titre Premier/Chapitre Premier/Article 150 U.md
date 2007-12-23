@@ -1,6 +1,6 @@
 Article 150 U
 ----
-I. - Sous réserve des dispositions propres aux bénéfices industriels et
+I.-Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices agricoles et aux bénéfices non commerciaux, les
 plus-values réalisées par les personnes physiques ou les sociétés ou groupements
 qui relèvent des articles 8 à 8 ter, lors de la cession à titre onéreux de biens
@@ -12,7 +12,7 @@ Ces dispositions s'appliquent, sous réserve de celles prévues au 3° du I de
 l'article 35, aux plus-values réalisées lors de la cession d'un terrain divisé
 en lots destinés à être construits.
 
-II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties
+II.-Les dispositions du I ne s'appliquent pas aux immeubles, aux parties
 d'immeubles ou aux droits relatifs à ces biens :
 
 1° Qui constituent la résidence principale du cédant au jour de la cession ;
@@ -53,7 +53,7 @@ dans les cas de vente de lots remembrés ;
 000 euros s'apprécie en tenant compte de la valeur en pleine propriété de
 l'immeuble ou de la partie d'immeuble ;
 
-7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer
+7° Qui sont cédés avant le 31 décembre 2009 à un organisme d'habitations à loyer
 modéré, à une société d'économie mixte gérant des logements sociaux, à
 l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n°
 2001-1275 du 28 décembre 2001), aux sociétés civiles immobilières dont cette
@@ -62,17 +62,31 @@ l'article L. 351-2 du code de la construction et de l'habitation ou à un
 organisme mentionné à l'article L. 365-1 du code de la construction et de
 l'habitation.
 
-8° Qui sont cédés avant le 31 décembre 2007 à une collectivité territoriale en
-vue de leur cession à l'un des organismes mentionnés au 7° ; en cas de non
-respect de cette condition dans un délai d'un an à compter de l'acquisition des
-biens, la collectivité territoriale reverse à l'Etat le montant dû au titre du
-I.
+8° Qui sont cédés avant le 31 décembre 2009 à une collectivité territoriale, à
+un établissement public de coopération intercommunale compétent ou à un
+établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code
+de l'urbanisme en vue de leur cession à l'un des organismes mentionnés au 7° ;
+en cas de non respect de cette condition dans un délai d'un an à compter de
+l'acquisition des biens, la collectivité territoriale, l'établissement public de
+coopération intercommunale compétent ou l'établissement public foncier reverse à
+l'Etat le montant dû au titre du I.
 
-III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par
-les titulaires de pensions de vieillesse ou de la carte d'invalidité
-correspondant au classement dans la deuxième ou la troisième des catégories
-prévues à l'article L. 341-4 du code de la sécurité sociale qui, au titre de
+III.-Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les
+titulaires de pensions de vieillesse ou de la carte d'invalidité correspondant
+au classement dans la deuxième ou la troisième des catégories prévues à
+l'article L. 341-4 du code de la sécurité sociale qui, au titre de
 l'avant-dernière année précédant celle de la cession, ne sont pas passibles de
 l'impôt de solidarité sur la fortune et dont le revenu fiscal de référence
 n'excède pas la limite prévue au I de l'article 1417, appréciés au titre de
 cette année.
+
+IV.-Le I ne s'applique pas aux partages qui portent sur des biens meubles ou
+immeubles dépendant d'une succession ou d'une communauté conjugale et qui
+interviennent uniquement entre les membres originaires de l'indivision, leur
+conjoint, des ascendants, des descendants ou des ayants droit à titre universel
+de l'un ou de plusieurs d'entre eux. Il en est de même des partages portant sur
+des biens indivis issus d'une donation-partage et des partages portant sur des
+biens indivis acquis par des partenaires ayant conclu un pacte civil de
+solidarité ou par des époux, avant ou pendant le pacte ou le mariage. Ces
+partages ne sont pas considérés comme translatifs de propriété dans la mesure
+des soultes ou plus-values.

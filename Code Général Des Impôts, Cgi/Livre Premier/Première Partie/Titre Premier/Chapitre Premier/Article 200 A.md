@@ -3,12 +3,12 @@ Article 200 A
 1. (Abrogé).
 
 2. Les gains nets obtenus dans les conditions prévues à l'article 150-0 A sont
-imposés au taux forfaitaire de 16 %.
+imposés au taux forfaitaire de 18 % (1).
 
 3. et 4. (Abrogés).
 
 5. Le gain net réalisé sur un plan d'épargne en actions dans les conditions
-définies au 2 du II de l'article 150-0 A est imposé au taux de 22,5 p. 100 si le
+définies au 2 du II de l'article 150-0 A est imposé au taux de 22, 5 % si le
 retrait ou le rachat intervient avant l'expiration de la deuxième année.
 
 6. Sauf option du bénéficiaire pour l'imposition à l'impôt sur le revenu suivant
@@ -25,9 +25,9 @@ quaterdecies, 150-0 A et 163 bis C.
 Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est
 réputé égal à la valeur de l'action à la date de la levée de l'option.
 
-Ces taux sont réduits respectivement à 16 % et 30 % lorsque les titres acquis
-revêtent la forme nominative et demeurent indisponibles sans être donnés en
-location, suivant des modalités fixées par décret, pendant un délai au moins
+Ces taux sont réduits respectivement à 18 % (1) et 30 % lorsque les titres
+acquis revêtent la forme nominative et demeurent indisponibles sans être donnés
+en location, suivant des modalités fixées par décret, pendant un délai au moins
 égal à deux ans à compter de la date d'achèvement de la période mentionnée au I
 de l'article 163 bis C.
 
@@ -36,7 +36,7 @@ fusion, de scission, de division ou de regroupement réalisée conformément à 
 réglementation en vigueur ou l'apport à une société créée dans les conditions
 prévues à l'article 220 nonies, ne fait pas perdre le bénéfice des taux réduits
 prévus au troisième alinéa. Les conditions mentionnées au même alinéa continuent
-à être applicables aux actions reçues en échange (1).
+à être applicables aux actions reçues en échange (2).
 
 Si les actions sont cédées pour un prix inférieur à leur valeur réelle à la date
 de la levée d'option, la moins-value est déductible du montant brut de
@@ -52,7 +52,7 @@ La plus-value qui est égale à la différence entre le prix de cession et la
 valeur des actions à leur date d'acquisition est imposée dans les conditions
 prévues à l'article 150-0 A. Si les actions sont cédées pour un prix inférieur à
 leur valeur à la date d'acquisition, la moins-value est déduite du montant de
-l'avantage mentionné au premier alinéa (1).
+l'avantage mentionné au premier alinéa (2).
 
 7. Le taux prévu au 2 est réduit de 30 % dans les départements de la Guadeloupe,
 de la Martinique et de la Réunion et de 40 % dans le département de la Guyane

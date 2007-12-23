@@ -2,8 +2,8 @@ Article L2334-18-2
 ----
 La dotation revenant à chaque commune éligible est égale au produit de sa
 population par la valeur de l'indice qui lui est attribué. Ce produit est
-pondéré par l'effort fiscal dans la limite de 1,3 et par un coefficient variant
-uniformément de 2 à 0,5 dans l'ordre croissant du rang de classement des
+pondéré par l'effort fiscal dans la limite de 1, 3 et par un coefficient variant
+uniformément de 2 à 0, 5 dans l'ordre croissant du rang de classement des
 communes éligibles.
 
 Pour la détermination de la dotation revenant aux communes éligibles,
@@ -16,6 +16,8 @@ zones franches urbaines et la population totale de la commune.
 L'accroissement de la dotation de chaque commune ne peut excéder 4 millions
 d'euros par an.
 
-Pour les années 2005 à 2009, les communes éligibles au titre de l'article L.
+Pour les années 2005 à 2007, les communes éligibles au titre de l'article L.
 2334-16 perçoivent une dotation calculée en application du présent article au
-moins égale à la dotation perçue l'année précédente, augmentée de 5 %.
+moins égale à la dotation perçue l'année précédente, augmentée de 5 %. Pour les
+années 2008 et 2009, ce dernier taux est égal à la prévision d'évolution des
+prix à la consommation hors tabac.

@@ -27,3 +27,8 @@ réduction d'impôt sur le revenu prévue à l'article 200.
 
 IV. - A défaut d'autre abattement, à l'exception de celui mentionné au III, un
 abattement de 1 500 euros est opéré sur chaque part successorale.
+
+V. - Le montant de l'abattement mentionné au IV est actualisé, le 1er janvier de
+chaque année, dans la même proportion que la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu et arrondi à l'euro le plus proche
+(3).

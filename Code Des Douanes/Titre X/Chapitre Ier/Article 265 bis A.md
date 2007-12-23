@@ -11,20 +11,20 @@ premières agricoles et des énergies fossiles et de la productivité des filiè
 agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité
 des biocarburants par rapport aux carburants fossiles sans toutefois aboutir à
 une surcompensation de l'écart de prix de revient entre ces produits. A compter
-du 1er janvier 2006, cette réduction est fixée à :
+du 1er janvier 2008, cette réduction est fixée à :
 
-a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les
+a) 22 euros par hectolitre pour les esters méthyliques d'huile végétale et les
 esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique ;
 
-b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool
+b) 27 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool
 éthylique incorporés aux supercarburants dont la composante alcool est d'origine
 agricole ;
 
-c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé
+c) 27 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé
 aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55
 ;
 
-d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par
+d) 22 euros par hectolitre pour le biogazole de synthèse et 27 euros par
 hectolitre pour les esters éthyliques d'huile végétale, incorporés au gazole ou
 au fioul domestique.
 
@@ -40,7 +40,7 @@ budget après avis du ministre chargé de l'agriculture et du ministre chargé d
 l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel
 des Communautés européennes.
 
-2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par
+2 bis. Pour l'année 2005, des agréments pour 130 000 tonnes supplémentaires par
 rapport aux agréments accordés en 2004 seront lancés par appel d'offres
 communautaire.
 

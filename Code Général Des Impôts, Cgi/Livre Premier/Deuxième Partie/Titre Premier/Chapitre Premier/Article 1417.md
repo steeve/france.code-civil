@@ -1,6 +1,6 @@
 Article 1417
 ----
-I. - Les dispositions des articles 1391 et 1391 B, du 3 du II et du III de
+I.-Les dispositions des articles 1391 et 1391 B, du 3 du II et du III de
 l'article 1411, des 1° bis, 2° et 3° du I de l'article 1414 sont applicables aux
 contribuables dont le montant des revenus de l'année précédant celle au titre de
 laquelle l'imposition est établie n'excède pas la somme de 9 437 euros, pour la
@@ -10,25 +10,25 @@ auxdits revenus. Pour la Martinique, la Guadeloupe et la Réunion, les montants
 des revenus sont fixés à 11 167 euros, pour la première part, majorés de 2 667
 euros pour la première demi-part et 2 520 euros pour chaque demi-part
 supplémentaire à compter de la deuxième. Pour la Guyane, ces montants sont fixés
-respectivement à 11 676 euros, 3 215 euros et 2 520 euros.
+respectivement à 11 676 euros,3 215 euros et 2 520 euros.
 
 I bis (abrogé à compter des impositions établies au titre de 2000).
 
-II. - Les dispositions de l'article 1414 A sont applicables aux contribuables
-dont le montant des revenus de l'année précédant celle au titre de laquelle
+II.-Les dispositions de l'article 1414 A sont applicables aux contribuables dont
+le montant des revenus de l'année précédant celle au titre de laquelle
 l'imposition est établie n'excède pas la somme de 22 192 euros, pour la première
 part de quotient familial, majorée de 5 186 euros pour la première demi-part et
 4 080 euros à compter de la deuxième demi-part supplémentaire, retenues pour le
 calcul de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la
 Guadeloupe et la Réunion, les montants des revenus sont fixés à 26 821 euros,
-pour la première part, majorés de 5 690 euros pour la première demi-part, 5 425
+pour la première part, majorés de 5 690 euros pour la première demi-part,5 425
 euros pour la deuxième demi-part et 4 080 euros pour chaque demi-part
 supplémentaire à compter de la troisième. Pour la Guyane, ces montants sont
 fixés à 29 392 euros pour la première part, majorés de 5 690 euros pour chacune
-des deux premières demi-parts, 4 845 euros pour la troisième demi-part et 4 080
+des deux premières demi-parts,4 845 euros pour la troisième demi-part et 4 080
 euros pour chaque demi-part supplémentaire à compter de la quatrième.
 
-III. - Les montants de revenus prévus aux I et II sont indexés, chaque année,
+III.-Les montants de revenus prévus aux I et II sont indexés, chaque année,
 comme la limite supérieure de la première tranche du barème de l'impôt sur le
 revenu.
 
@@ -50,20 +50,20 @@ a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour s
 fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et
 du montant de l'abattement mentionné à l'article 150-0 D bis ;
 
-b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
-sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, ainsi que du 9 de
+b) du montant des bénéfices exonérés en application des articles 44 sexies,44
+sexies A,44 octies,44 octies A,44 decies et 44 undecies, ainsi que du 9 de
 l'article 93 ;
 
-c) du montant des revenus soumis aux prélèvements libératoires prévus à
-l'article 125 A, de ceux visés aux articles 81 quater, 81 A et 81 B, de ceux
-mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais
-d'emploi et pour lesquels l'option prévue au III du même article n'a pas été
-exercée, de ceux perçus par les fonctionnaires des organisations
+c) du montant des revenus soumis aux prélèvements libératoires prévus aux
+articles 117 quater et 125 A, de ceux visés aux articles 81 quater,81 A et 81 B,
+de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de
+frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas
+été exercée, de ceux perçus par les fonctionnaires des organisations
 internationales, de ceux exonérés par application d'une convention
 internationale relative aux doubles impositions ainsi que de ceux exonérés en
 application des articles 163 quinquies B à 163 quinquies C bis ;
 
-d. Du montant des plus-values exonérées en application des 1, 1 bis et 7 du III
+d. Du montant des plus-values exonérées en application des 1,1 bis et 7 du III
 de l'article 150-0 A.
 
 2°) Abrogé (à compter des impositions établies au titre de 2000.)

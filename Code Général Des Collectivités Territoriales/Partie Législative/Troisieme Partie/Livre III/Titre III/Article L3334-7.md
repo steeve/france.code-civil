@@ -29,4 +29,7 @@ fonctionnement.
 La dotation revenant aux départements qui cessent de remplir les conditions pour
 bénéficier de la dotation de fonctionnement minimale est égale, la première
 année, aux deux tiers de la dotation perçue l'année précédente, et la deuxième
-année, au tiers de cette même dotation.
+année, au tiers de cette même dotation. Cette disposition ne s'applique pas aux
+départements qui cessent de remplir, à compter de 2008, les conditions
+démographiques prévues au premier alinéa et qui bénéficient la même année d'une
+attribution au titre de la dotation de péréquation urbaine.

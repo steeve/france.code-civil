@@ -1,6 +1,6 @@
 Article 199 decies H
 ----
-1. A compter de l'imposition des revenus de 2001, il est institué une réduction
+1.A compter de l'imposition des revenus de 2001, il est institué une réduction
 d'impôt sur le revenu pour les contribuables domiciliés en France au sens de
 l'article 4 B qui, jusqu'au 31 décembre 2010, réalisent des investissements
 forestiers.
@@ -11,13 +11,13 @@ a) Au prix d'acquisition de terrains en nature de bois et forêts ou de terrains
 nus à boiser lorsque cette acquisition, qui ne doit pas excéder 25 hectares,
 permet soit :
 
-1° de constituer une unité de gestion d'au moins 10 hectares d'un seul tenant
-ou, dans les massifs de montagne définis à l'article 5 de la loi n° 85-30 du 9
+1° de constituer une unité de gestion d'au moins 5 hectares d'un seul tenant ou,
+dans les massifs de montagne définis à l'article 5 de la loi n° 85-30 du 9
 janvier 1985 relative au développement et à la protection de la montagne, une
-unité de gestion d'au moins 10 hectares situés sur le territoire d'une même
+unité de gestion d'au moins 5 hectares situés sur le territoire d'une même
 commune ou de communes limitrophes susceptible d'une gestion coordonnée ;
 
-2° d'agrandir une unité de gestion pour porter sa superficie à plus de 10
+2° d'agrandir une unité de gestion pour porter sa superficie à plus de 5
 hectares ;
 
 3° de résorber une enclave.
@@ -69,7 +69,7 @@ contribuable est membre, lorsque la propriété du groupement forestier sur
 laquelle sont réalisés les travaux constitue une unité de gestion d'au moins 10
 hectares d'un seul tenant, gérée en application d'un plan simple de gestion ou
 d'un règlement type de gestion agréé ou approuvé par le centre régional de la
-propriété forestière. L'associé doit prendre l'engagement de conserver les parts
+propriété forestière.L'associé doit prendre l'engagement de conserver les parts
 du groupement jusqu'au 31 décembre de la huitième année suivant celle des
 travaux et celui-ci, l'engagement d'appliquer pendant quinze ans un plan simple
 de gestion ou un règlement type de gestion agréé ou approuvé par le centre

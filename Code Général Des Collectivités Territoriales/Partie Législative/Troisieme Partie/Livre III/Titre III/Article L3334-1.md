@@ -15,3 +15,10 @@ fonctionnement des départements, le montant de la dotation globale de
 fonctionnement de 2006 calculé dans les conditions définies ci-dessus est
 augmenté du montant des majorations prévues aux sixième à neuvième alinéas de
 l'article L. 3334-7-1.
+
+A compter de 2008, le montant de la dotation globale de fonctionnement est
+minoré de 137 149 476 euros.
+
+A compter de 2008, le montant de la dotation forfaitaire est minoré de 59 427
+797 euros et le montant de la dotation de fonctionnement minimale prévue à
+l'article L. 3334-7 est majoré à due concurrence.

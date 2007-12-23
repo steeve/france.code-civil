@@ -26,6 +26,9 @@ consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4
 du I de l'article 266 sexies ;
 
+c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4
+du I de l'article 266 sexies.
+
 5. La première livraison après fabrication nationale, la livraison sur le marché
 intérieur après achat, importation ou fabrication dans un autre Etat membre de
 la Communauté européenne ou la mise à la consommation des préparations pour

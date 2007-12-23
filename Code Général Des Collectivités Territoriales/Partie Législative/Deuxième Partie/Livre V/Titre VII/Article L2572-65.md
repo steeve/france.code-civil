@@ -1,6 +1,6 @@
 Article L2572-65
 ----
-Il est institué pendant les années 2003 à 2007 une dotation spéciale de
+Il est institué pendant les années 2003 à 2008 une dotation spéciale de
 construction et d'équipement des établissements scolaires au profit des communes
 de Mayotte.
 

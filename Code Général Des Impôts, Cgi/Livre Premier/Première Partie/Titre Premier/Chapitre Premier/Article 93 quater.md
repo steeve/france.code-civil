@@ -12,21 +12,37 @@ I bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier
 2002 dans les résultats des concédants et concessionnaires).
 
 I ter. L'imposition de la plus-value constatée lors de l'apport, par un
-inventeur personne physique, d'un brevet, d'une invention brevetable, ou d'un
-procédé de fabrication industriel qui remplit les conditions mentionnées aux a,
-b et c du 1 de l'article 39 terdecies, à une société chargée de l'exploiter
+inventeur personne physique, d'un brevet, d'une invention brevetable ou d'un
+procédé de fabrication industriel qui satisfait aux conditions mentionnées aux
+a, b et c du 1 de l'article 39 terdecies, à une société chargée de l'exploiter
 peut, sur demande expresse du contribuable, faire l'objet d'un report jusqu'à la
-cinquième année suivant celle au cours de laquelle l'apport a été effectué ou
-jusqu'à la date de la cession ou du rachat des droits sociaux reçus en
-rémunération de l'apport, si cette cession ou ce rachat intervient avant
-l'expiration de ce délai de report.
+cession, au rachat, à l'annulation ou à la transmission à titre gratuit des
+droits sociaux reçus en rémunération de l'apport ou, si elle intervient
+antérieurement, jusqu'à la cession par la société bénéficiaire de l'apport du
+brevet, de l'invention brevetable ou du procédé de fabrication industriel. La
+plus-value en report d'imposition est réduite d'un abattement d'un tiers pour
+chaque année de détention échue des droits reçus en rémunération de l'apport
+au-delà de la cinquième.
+
+Le report d'imposition prévu au premier alinéa est maintenu en cas d'échange de
+droits sociaux mentionnés au même alinéa résultant d'une fusion ou d'une
+scission jusqu'à la cession, au rachat, à l'annulation ou à la transmission à
+titre gratuit des droits sociaux reçus lors de l'échange.
+
+En cas de transmission à titre gratuit à une personne physique des droits
+sociaux reçus en rémunération de l'apport ou reçus lors de l'échange mentionné
+au deuxième alinéa, le report d'imposition est maintenu si le bénéficiaire de la
+transmission prend l'engagement d'acquitter l'impôt sur la plus-value lors de la
+cession, du rachat, de l'annulation ou de la transmission à titre gratuit des
+droits sociaux.
 
 L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au
 premier alinéa.
 
 Les dispositions du sixième alinéa du II de l'article 151 octies sont
 applicables aux plus-values dont l'imposition est reportée en application du
-premier alinéa.
+premier alinéa ou dont le report est maintenu en application des deuxième ou
+troisième alinéas.
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à

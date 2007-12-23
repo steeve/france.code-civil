@@ -46,8 +46,8 @@ transformation.
 Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux
 produisant de l'énergie ou traitant des combustibles, l'assiette du prélèvement
 est limitée de manière que la commune conserve au moins 80 % du montant des
-bases de taxe professionnelle imposables à son profit en 1979. A compter de
-1991, ce montant est divisé par 0,960.
+bases de taxe professionnelle imposables à son profit en 1979.A compter de 1991,
+ce montant est divisé par 0,960.
 
 Les dispositions du présent I ne s'appliquent pas aux agglomérations nouvelles.
 
@@ -134,6 +134,14 @@ du régime fiscal de l'article 1609 nonies C.
 Ce prélèvement est égal au montant des bases excédentaires de l'établissement
 pondérées par le taux de taxe professionnelle perçue par le groupement.
 
+Toutefois, il n'y a pas lieu à prélèvement lorsque celui-ci résulte du transfert
+entre deux communes situées sur le périmètre d'un même établissement public de
+coopération intercommunale soumis de plein droit, ou après option, au régime
+fiscal prévu à l'article 1609 nonies C, d'un établissement dont les bases
+d'imposition divisées par le nombre d'habitants n'excédaient pas, avant le
+transfert, deux fois la moyenne des bases de taxe professionnelle par habitant
+constatée au niveau national.
+
 b. A compter de la date de publication de la loi n° 99-586 du 12 juillet 1999
 précitée, les établissements publics de coopération intercommunale, soumis de
 plein droit ou après option au régime fiscal prévu au 1° du I de l'article 1609
@@ -157,7 +165,7 @@ son option pour le régime précité d'un écrêtement au profit du fonds
 départemental de péréquation de la taxe professionnelle au titre du I.
 
 Les prélèvements prévus au b sont versés aux fonds départementaux de péréquation
-de la taxe professionnelle. A compter de 2004, ces prélèvements sont égaux aux
+de la taxe professionnelle.A compter de 2004, ces prélèvements sont égaux aux
 montants perçus par les fonds au titre de l'année précédente. Lorsque le produit
 de taxe professionnelle correspondant à l'établissement exceptionnel diminue par
 rapport à celui de l'année précédente, le montant du prélèvement est réduit dans
@@ -182,7 +190,7 @@ conseils généraux des départements concernés.
 En cas de cessation d'activité de l'établissement exceptionnel ayant donné lieu
 à écrêtement, le prélèvement est supprimé.
 
-c. A compter du 1er janvier 2002, les dispositions du b sont également
+c.A compter du 1er janvier 2002, les dispositions du b sont également
 applicables aux établissements publics de coopération intercommunale mentionnés
 au second alinéa du I quater et faisant application, à compter de cette date,
 des dispositions du I de l'article 1609 nonies C.
@@ -239,8 +247,9 @@ II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou
 par une commission interdépartementale réunie à l'initiative de l'un des
 conseils si les communes concernées sont situées dans deux ou plusieurs
-départements. Chaque conseil général désigne sept membres pour siéger à cette
-commission.
+départements, que ces départements soient ou non limitrophes du département où
+est implanté l'établissement dont les bases sont écrêtées. Chaque conseil
+général désigne sept membres pour siéger à cette commission.
 
 La liste des communes concernées est arrêtée par le conseil général du
 département où est implanté l'établissement dont les bases sont écrêtées ou par
@@ -277,6 +286,24 @@ lorsqu'elles ou leurs établissements publics de coopération intercommunale
 subissent de ce fait un préjudice ou une charge quelconque et en particulier
 lorsqu'une partie des salariés de cet établissement y réside, le nombre de
 ceux-ci étant un élément déterminant de la répartition ;
+
+Il est fait obligation aux établissements visés au présent article de
+communiquer la liste non nominative de leurs salariés par commune de résidence
+sur la base des effectifs au 1er janvier de l'année d'écrêtement.
+
+La communication de cette liste doit impérativement intervenir dans le délai de
+deux mois consécutivement à la demande effectuée par le conseil général du
+département d'implantation de l'établissement et, le cas échéant, par des
+départements limitrophes de celui-ci.
+
+A défaut de communication dans le délai susmentionné, le département
+d'implantation saisit le représentant de l'Etat qui est en charge de
+l'application de pénalités fixées à 10 % du produit de l'écrêtement de
+l'établissement concerné.
+
+Dès leur recouvrement, ces pénalités viennent alimenter le produit de
+l'écrêtement issu de l'établissement et sont réparties selon les mêmes
+modalités.
 
 b. Entre les communes d'implantation des barrages réservoirs et barrages
 retenues conçus et construits en vue de régulariser le débit des fleuves auprès
@@ -316,7 +343,7 @@ intercommunale soumis, de plein droit ou après option, aux dispositions fiscale
 de l'article 1609 nonies C, le conseil général ou, le cas échéant, la commission
 interdépartementale prélève, par priorité, au profit de l'établissement public
 de coopération intercommunale dont les bases ont été écrêtées ou qui a subi un
-prélèvement au titre du troisième alinéa du b du 2 du I ter, 20 % au moins et 40
+prélèvement au titre du troisième alinéa du b du 2 du I ter,20 % au moins et 40
 % au plus du montant de l'écrêtement ou du prélèvement, majoré le cas échéant du
 montant de la compensation prévue au IV de l'article 6 de la loi de finances
 pour 1987 (n° 86-1317 du 30 décembre 1986), ainsi que du montant perçu en 2003

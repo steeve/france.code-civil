@@ -16,13 +16,33 @@ bénéfice d'une des aides personnelles au logement visées au 4° de l'article 
 l'aide due, soit de l'avantage en nature procuré par un hébergement au titre
 duquel aucune de ces aides n'est due.
 
-L'allocation de parent isolé est attribuée sous réserve des traités et accords
+L'allocation de parent isolé est attribuée, sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant
-des conditions de durée de résidence en France qui seront fixées par décret. Les
-ressortissants des Etats membres de la Communauté européenne et des autres Etats
-parties à l'accord sur l'Espace économique européen, entrés en France pour y
-chercher un emploi et qui s'y maintiennent à ce titre, ne bénéficient pas de
-l'allocation.
+des conditions de durée de résidence en France qui sont fixées par décret.
+
+Elle bénéficie aux ressortissants des Etats membres de la Communauté européenne
+et des autres Etats parties à l'accord sur l'Espace économique européen qui en
+font la demande et qui résident en France depuis plus de trois mois, dans les
+conditions prévues aux articles L. 121-1 et L. 121-2 du code de l'entrée et du
+séjour des étrangers et du droit d'asile. Cette condition de séjour de trois
+mois n'est toutefois pas opposable :
+
+-aux personnes qui exercent une activité professionnelle déclarée conformément à
+la législation en vigueur ;
+
+-aux personnes qui ont exercé une telle activité en France et soit sont en
+incapacité temporaire de travailler pour raisons médicales, soit suivent une
+formation professionnelle au sens des articles L. 900-2 et L. 900-3 du code du
+travail, soit sont inscrites sur la liste visée à l'article L. 311-5 du même
+code ;
+
+-aux ascendants, descendants et conjoints des personnes mentionnées aux deux
+alinéas précédents.
+
+Les ressortissants des Etats membres de la Communauté européenne et des autres
+Etats parties à l'accord sur l'Espace économique européen, entrés en France pour
+y chercher un emploi et qui s'y maintiennent à ce titre, ne bénéficient pas de
+l'allocation de parent isolé.
 
 L'Etat verse au Fonds national des prestations familiales, géré par la Caisse
 nationale des allocations familiales, une subvention correspondant aux sommes

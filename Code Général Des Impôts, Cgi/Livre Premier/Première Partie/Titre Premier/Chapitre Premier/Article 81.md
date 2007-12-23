@@ -38,10 +38,10 @@ contrat de travail à salaire différé prévu par l'article L321-13 du code rur
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
 combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
-b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la
-loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en
-faveur respectivement des personnes désignées au premier alinéa de l'article 2
-de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
+b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi
+de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur
+respectivement des personnes désignées au premier alinéa de l'article 2 de la
+loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
 formations supplétives et assimilés ou victimes de la captivité en Algérie et de
 leurs conjoints ou ex-conjoints survivants non remariés ;
 
@@ -112,7 +112,7 @@ l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 1
 du code du service national, au personnel accomplissant le service national
 actif dans le service de la coopération ou dans le service de l'aide technique ;
 
-b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
+b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
 l'accomplissement du volontariat civil en application de l'article L. 122-12 du
 code du service national ;
 
@@ -180,12 +180,12 @@ du 27 septembre 1967 et les textes pris pour son application ;
 des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4
 et L. 411-5 du code du tourisme ;
 
-19° ter a. L'avantage résultant de la prise en charge obligatoire par
-l'employeur du prix des titres d'abonnement souscrits par les salariés pour les
-déplacements effectués au moyen de transports publics de voyageurs entre leur
-résidence habituelle et leur lieu de travail, conformément à l'article 1er de la
-loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au
-financement des transports publics urbains et des chèques-transport ;
+19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur
+du prix des titres d'abonnement souscrits par les salariés pour les déplacements
+effectués au moyen de transports publics de voyageurs entre leur résidence
+habituelle et leur lieu de travail, conformément à l'article 1er de la loi n°
+82-684 du 4 août 1982 relative à la participation des employeurs au financement
+des transports publics urbains et des chèques-transport ;
 
 b. La part contributive de l'employeur dans le chèque-transport prévu à
 l'article 3 de la loi n° 82-684 du 4 août 1982 précitée, dans la limite de 50 %
@@ -255,6 +255,13 @@ professionnalisation des armées ;
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
 dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de
 la période couverte par l'accord mentionné au 2° du même article ;
+
+31° bis L'avantage résultant pour le salarié de la remise gratuite par son
+employeur de matériels informatiques et de logiciels nécessaires à leur
+utilisation entièrement amortis et pouvant permettre l'accès à des services de
+communications électroniques et de communication au public en ligne, dans la
+limite d'un prix de revient global des matériels et logiciels reçus dans l'année
+de 2 000 ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de
 financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;

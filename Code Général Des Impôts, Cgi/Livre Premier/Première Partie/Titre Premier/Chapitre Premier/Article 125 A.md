@@ -19,7 +19,7 @@ Celui-ci est effectué par le débiteur ou par la personne qui assure le paiemen
 des revenus.
 
 Les revenus de source étrangère mentionnés au premier alinéa sont retenus pour
-leur montant brut. L'impôt retenu à la source est imputé sur le prélèvement dans
+leur montant brut.L'impôt retenu à la source est imputé sur le prélèvement dans
 la limite du crédit d'impôt auquel il ouvre droit tel que ce crédit est prévu
 par les conventions internationales.
 
@@ -54,7 +54,7 @@ titres de créances mentionnés au 1° bis du III bis du présent article.
 
 III bis. Le taux du prélèvement est fixé :
 
-1° à 16 % pour les produits d'obligations négociables et de titres
+1° à 18 % pour les produits d'obligations négociables et de titres
 participatifs.
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements
@@ -66,7 +66,7 @@ la durée est inférieure à quatre ans ;
 Ce taux est également applicable aux intérêts des plans d'épargne-logement ne
 bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157.
 
-1° bis à 16 % pour les produits des titres de créances négociables sur un marché
+1° bis à 18 % pour les produits des titres de créances négociables sur un marché
 réglementé en application d'une disposition législative particulière et non
 susceptibles d'être cotés.
 
@@ -96,7 +96,7 @@ courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
 
 6° à 45 % pour les produits des bons et titres émis à compter du 1er janvier
 1983, à 35 p. 100 pour les produits des bons et titres émis à compter du 1er
-janvier 1990 et à 16 p. 100 pour les produits de ceux émis à compter du 1er
+janvier 1990 et à 18 p. 100 pour les produits de ceux émis à compter du 1er
 janvier 1995, lorsque le bénéficiaire des intérêts autorise l'établissement
 payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
 à l'administration fiscale,
@@ -105,17 +105,17 @@ et à 60 % lorsque cette condition n'est pas remplie ;
 
 7° à 45 % pour les produits des placements, autres que les bons et titres courus
 à partir du 1er janvier 1983, à 35 p. 100 pour les produits des placements
-courus à partir du 1er janvier 1990 et à 16 p. 100 pour les produits des
+courus à partir du 1er janvier 1990 et à 18 p. 100 pour les produits des
 placements courus à partir du 1er janvier 1995 ;
 
-8° à 16 p. 100 pour les produits des parts émises par les fonds communs de
+8° à 18 p. 100 pour les produits des parts émises par les fonds communs de
 créances. Le boni de liquidation peut être soumis à ce prélèvement au taux de 35
 p. 100.
 
-Le taux de 35 p. 100 est remplacé par celui de 16 p. 100 lorsque le boni est
+Le taux de 35 p. 100 est remplacé par celui de 18 p. 100 lorsque le boni est
 réparti à compter du 1er janvier 1995.
 
-9° à 16 p. 100 pour les produits des bons et titres énumérés au 2° émis à
+9° à 18 p. 100 pour les produits des bons et titres énumérés au 2° émis à
 compter du 1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est
 différent, ont autorisé, lors de la souscription, l'établissement auprès duquel
 les bons ou titres ont été souscrits à communiquer leur identité et leur
@@ -124,9 +124,14 @@ n'ait pas été cédé,
 
 et à 60 % lorsque l'une de ces conditions n'est pas remplie.
 
-Un décret fixe les conditions d'application du présent 9°.
+Un décret fixe les conditions d'application du présent 9° ;
 
-IV. L'option pour le prélèvement prévue au I est subordonnée :
+10° A 5 % pour les revenus des produits d'épargne donnés au profit d'un
+organisme mentionné au 1 de l'article 200 dans le cadre d'un mécanisme dit
+solidaire de versement automatique à l'organisme bénéficiaire par le
+gestionnaire du fonds d'épargne.
+
+IV.L'option pour le prélèvement prévue au I est subordonnée :
 
 a. En ce qui concerne les produits d'obligations, à la condition que l'emprunt
 ait été émis conformément à la réglementation en vigueur dans l'Etat d'émission

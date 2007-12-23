@@ -23,8 +23,8 @@ personne publique ou privée, le produit des droits d'entrée et de
 visites-conférences dans les monuments nationaux, les recettes perçues à
 l'occasion des expositions et des manifestations artistiques et culturelles, le
 produit des droits de prises de vues et de tournages, les redevances pour
-service rendu, le produit des taxes affectées par l'Etat, les dons et legs et
-toute autre recette provenant de l'exercice de ses activités.
+service rendu, les dons et legs et toute autre recette provenant de l'exercice
+de ses activités.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

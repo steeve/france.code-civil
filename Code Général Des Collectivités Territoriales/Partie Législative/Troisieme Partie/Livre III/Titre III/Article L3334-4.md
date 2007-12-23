@@ -22,3 +22,14 @@ départements mentionnés à l'article L. 3334-7.
 
 Les départements d'outre-mer bénéficient d'une quote-part de la dotation dans
 les conditions définies à l'article L. 3443-1.
+
+Lorsqu'un département remplit pour la première année les conditions
+démographiques prévues au premier alinéa de l'article L. 3334-6-1 pour être
+considéré comme urbain, le montant total de la dotation de péréquation urbaine
+est majoré du montant qu'il a perçu l'année précédente au titre de la dotation
+de fonctionnement minimale, le montant total de celle-ci étant diminué à due
+concurrence.A l'inverse, lorsqu'un département ne remplit plus pour la première
+année les conditions prévues au premier alinéa de l'article L. 3334-6-1, le
+montant total de la dotation de péréquation urbaine est minoré du montant qu'il
+a perçu l'année précédente à ce titre, la dotation de fonctionnement minimale
+étant majorée à due concurrence.

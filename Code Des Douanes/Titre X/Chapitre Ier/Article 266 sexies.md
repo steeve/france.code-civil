@@ -32,6 +32,12 @@ b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles
 visées au a produisant des huiles usagées dont le rejet dans le milieu naturel
 est interdit ;
 
+c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres
+que celles visées aux a et b, correspondantes aux catégories suivantes
+(Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses
+utilisées en systèmes ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à
+chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a).
+
 5. Toute personne qui livre pour la première fois après fabrication nationale ou
 qui livre sur le marché intérieur après achat, importation ou fabrication dans
 un autre Etat membre de la Communauté européenne ou qui met à la consommation
@@ -113,7 +119,14 @@ nationale consiste en une expédition directe à destination d'un Etat membre de
 la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au
-répertoire des métiers.
+répertoire des métiers ;
+
+6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable
+respectant les critères définis pour le label écologique communautaire des
+lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du
+26 avril 2005 établissant les critères écologiques et les exigences associées en
+matière d'évaluation et de vérification pour l'attribution du label écologique
+communautaire aux lubrifiants.
 
 III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la
 quantité annuelle totale de déchets reçus par installation, les réceptions de

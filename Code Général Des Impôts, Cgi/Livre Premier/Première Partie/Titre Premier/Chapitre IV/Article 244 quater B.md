@@ -1,63 +1,27 @@
 Article 244 quater B
 ----
-I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après
-leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
-A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies qui exposent des
-dépenses de recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
+I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
+leur bénéfice réel ou exonérées en application des articles 44 sexies,44 sexies
+A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent
+bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles
+exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la
+fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et
+de 5 % pour la fraction des dépenses de recherche supérieure à ce montant.
 
-a. D'une part égale à 10 % des dépenses de recherche exposées au cours de
-l'année, dite part en volume ;
+Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre
+respectivement de la première et de la deuxième année qui suivent l'expiration
+d'une période de cinq années consécutives au titre desquelles l'entreprise n'a
+pas bénéficié du crédit d'impôt et à condition qu'il n'existe aucun lien de
+dépendance au sens du 12 de l'article 39 entre cette entreprise et une autre
+entreprise ayant bénéficié du crédit d'impôt au cours de la même période de cinq
+années.
 
-b. Et d'une part égale à 40 % de la différence entre les dépenses de recherche
-exposées au cours de l'année et la moyenne des dépenses de même nature,
-revalorisées de la hausse des prix à la consommation hors tabac, exposées au
-cours des deux années précédentes, dite part en accroissement.
-
-Lorsque cette dernière est négative, elle est imputée sur les parts en
-accroissement calculées au titre des dépenses engagées au cours des cinq années
-suivantes. Le montant imputé est plafonné à la somme des parts positives de même
-nature antérieurement calculées.
-
-Le crédit d'impôt négatif qui trouvait son origine en 2003 ou au cours d'une
-année antérieure s'impute sur les parts en accroissement relatives aux dépenses
-engagées à compter du 1er janvier 2004 dans les mêmes conditions.
-
-En cas de fusion ou opération assimilée, la part en accroissement négative du
-crédit d'impôt de la société apporteuse non encore imputée est transférée à la
-société bénéficiaire de l'apport.
-
-A l'exception du crédit d'impôt imputable par la société mère dans les
-conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque
-entreprise, y compris les sociétés de personnes, à 16 000 000 euros. Il
-s'apprécie en prenant en compte la fraction de la part en accroissement et de la
-part en volume du crédit d'impôt correspondant aux parts des associés de
-sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des
-membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239
-quater C, le cas échéant majoré de la part en accroissement et de la part en
-volume calculées au titre des dépenses de recherche que ces associés ou membres
-ont exposées.
-
-Lorsque la somme de la part en volume et de la part en accroissement du crédit
-d'impôt des sociétés et groupements visés à la dernière phrase de l'alinéa
-précédent excède le plafond mentionné à ce même alinéa, le montant respectif de
-ces parts pris en compte pour le calcul du crédit d'impôt dont bénéficient leurs
-associés ou leurs membres est égal au montant du plafond multiplié par le
-rapport entre le montant respectif de chacune de ces parts et leur somme avant
-application du plafond. Lorsque la part en accroissement est négative, la part
-en volume prise en compte est limitée au plafond précité et la part en
-accroissement prise en compte est la part en accroissement multipliée par le
-rapport entre le plafond et le montant de la part en volume.
-
-Les dispositions du présent article s'appliquent sur option annuelle de
-l'entreprise. Par exception, l'option est exercée pour cinq ans lorsqu'elle est
-formulée par des sociétés de personnes mentionnées aux articles 8 et 238 bis L
-et par des groupements mentionnés aux articles 239 quater, 239 quater B et 239
-quater C.
-
-Lorsque l'option, après avoir été exercée, n'est plus exercée au titre d'une ou
-de plusieurs années, le crédit d'impôt de l'année au titre de laquelle l'option
-est exercée à nouveau est calculé dans les mêmes conditions que si l'option
-avait été renouvelée continûment.
+Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou
+groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C ne
+sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve
+des dispositions prévues au septième alinéa du I de l'article 199 ter B, être
+utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
+ces groupements.
 
 La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses
 prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée
@@ -77,9 +41,10 @@ b) Les dépenses de personnel afférentes aux chercheurs et techniciens de
 recherche directement et exclusivement affectés à ces opérations. Lorsque ces
 dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme
 équivalent, elles sont prises en compte pour le double de leur montant pendant
-les douze premiers mois suivant leur premier recrutement à condition que le
-contrat de travail de ces personnes soit à durée indéterminée et que l'effectif
-salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ;
+les vingt-quatre premiers mois suivant leur premier recrutement à condition que
+le contrat de travail de ces personnes soit à durée indéterminée et que
+l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
+précédente ;
 
 c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ;
 ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel
@@ -91,8 +56,8 @@ Ce pourcentage est fixé à :
 compter du 1er janvier 2000).
 
 3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires
-d'un doctorat ou d'un diplôme équivalent pendant les douze premiers mois suivant
-leur premier recrutement à la condition que le contrat de travail de ces
+d'un doctorat ou d'un diplôme équivalent pendant les vingt-quatre premiers mois
+suivant leur premier recrutement à la condition que le contrat de travail de ces
 personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
 soit pas inférieur à celui de l'année précédente.
 
@@ -124,10 +89,20 @@ bis, à la condition qu'il n'existe pas de lien de dépendance au sens des
 deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui
 bénéficie du crédit d'impôt et ces organismes ;
 
+Le plafond de 10 millions d'euros mentionné au premier alinéa du présent d ter
+est majoré de 2 millions d'euros à raison des dépenses correspondant aux
+opérations confiées aux organismes mentionnés au d ;
+
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention
 végétale ;
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale,
+ainsi que, dans la limite de 60 000 EUR par an, les primes et cotisations ou la
+part des primes et cotisations afférentes à des contrats d'assurance de
+protection juridique prévoyant la prise en charge des dépenses exposées, à
+l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de
+litiges portant sur un brevet ou un certificat d'obtention végétale dont
+l'entreprise est titulaire ;
 
 f) Les dotations aux amortissements des brevets et des certificats d'obtention
 végétale acquis en vue de réaliser des opérations de recherche et de
@@ -193,14 +168,12 @@ du crédit d'impôt prévu à l'article 220 septies.
 
 III. Les subventions publiques reçues par les entreprises à raison des
 opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de
-ce crédit. Il en est de même des sommes reçues par les organismes ou experts
-désignés au d et au d bis du II, pour le calcul de leur propre crédit d'impôt.
-
-En outre, en cas de transfert de personnels, d'immobilisations ou de contrats
-mentionnés au d et d bis du II, entre entreprises ayant des liens de dépendance
-directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations
-assimilées, il est fait abstraction, pour le calcul de la part en accroissement,
-de la variation des dépenses provenant exclusivement du transfert.
+ce crédit, qu'elles soient définitivement acquises par elles ou remboursables.
+Il en est de même des sommes reçues par les organismes ou experts désignés au d
+et au d bis du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces
+subventions sont remboursables, elles sont ajoutées aux bases de calcul du
+crédit d'impôt de l'année au cours de laquelle elles sont remboursées à
+l'organisme qui les a versées.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 

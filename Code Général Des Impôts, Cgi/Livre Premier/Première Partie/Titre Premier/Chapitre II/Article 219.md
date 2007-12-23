@@ -14,8 +14,13 @@ quindecies et à l'article 209 quater.
 Pour les exercices ouverts à compter du 1er janvier 2005, le taux d'imposition
 visé au premier alinéa est fixé à 15 %.
 
+Pour les exercices ouverts à compter du 31 décembre 2007, le montant net des
+plus-values à long terme afférentes aux titres des sociétés à prépondérance
+immobilière définies au a sexies-0 bis cotées est imposé au taux prévu au IV.
+
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
-les plus-values à long terme réalisées au cours des dix exercices suivants.
+les plus-values à long terme imposables aux taux visés au présent a et réalisées
+au cours des dix exercices suivants.
 
 a bis. Les moins-values à long terme existant à l'ouverture du premier des
 exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
@@ -144,6 +149,13 @@ les bénéfices imposables. Cette imputation n'est possible que dans la limite d
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
 et moins-values à long terme en application du premier alinéa ;
 
+Par dérogation au premier alinéa, le régime des plus ou moins-values à long
+terme s'applique à la plus ou moins-value résultant de la cession d'un brevet,
+d'une invention brevetable ou d'un procédé de fabrication industriel qui
+satisfait aux conditions prévues aux a, b et c du 1 de l'article 39 terdecies,
+sous réserve qu'il n'existe pas de liens de dépendance entre l'entreprise
+cédante et l'entreprise cessionnaire au sens du 12 de l'article 39.
+
 a quinquies. Pour les exercices ouverts à compter du 1er janvier 2006, le
 montant net des plus-values à long terme afférentes à des titres de
 participation fait l'objet d'une imposition séparée au taux de 8 %. Ce taux est
@@ -160,7 +172,7 @@ est l'initiatrice et les titres ouvrant droit au régime des sociétés mères s
 ces actions ou titres sont inscrits en comptabilité au compte titres de
 participation ou à une subdivision spéciale d'un autre compte du bilan
 correspondant à leur qualification comptable, à l'exception des titres des
-sociétés à prépondérance immobilière.
+sociétés à prépondérance immobilière définis au troisième alinéa du a.
 
 La fraction des moins-values à long terme existant à l'ouverture du premier des
 exercices ouverts à compter du 1er janvier 2006 afférente à des éléments exclus
@@ -200,6 +212,33 @@ imposables au taux visé au a, s'imputer à raison des 15/33,33 de leur montant
 sur les bénéfices imposables, dans la limite des gains nets retirés de la
 cession de titres de même nature.
 
+a sexies-0 bis) Le régime des plus et moins-values à long terme cesse de
+s'appliquer à la plus ou moins-value provenant des cessions de titres de
+sociétés à prépondérance immobilière non cotées réalisées à compter du 26
+septembre 2007. Sont considérées comme des sociétés à prépondérance immobilière
+les sociétés dont l'actif est, à la date de la cession de ces titres ou a été à
+la clôture du dernier exercice précédant cette cession, constitué pour plus de
+50 % de sa valeur réelle par des immeubles, des droits portant sur des
+immeubles, des droits afférents à un contrat de crédit-bail conclu dans les
+conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier ou
+par des titres d'autres sociétés à prépondérance immobilière. Pour l'application
+de ces dispositions, ne sont pas pris en considération les immeubles ou les
+droits mentionnés à la phrase précédente lorsque ces biens ou droits sont
+affectés par l'entreprise à sa propre exploitation industrielle, commerciale ou
+agricole ou à l'exercice d'une profession non commerciale.
+
+Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
+et moins-values à long terme en application du premier alinéa cessent d'être
+soumises à ce même régime.
+
+Les moins-values à long terme afférentes aux titres exclus du régime des plus et
+moins-values à long terme en application du premier alinéa, restant à reporter à
+l'ouverture du premier exercice clos à compter du 26 septembre 2007 ou réalisées
+au cours du même exercice, peuvent, après compensation avec les plus-values à
+long terme et produits imposables au taux visé au a, s'imputer à raison des 15 /
+33, 33èmes de leur montant sur les bénéfices imposables, dans la limite des
+gains nets retirés de la cession de titres de même nature.
+
 a sexies. 1. Pour les exercices ouverts à compter du ler janvier 2006, les
 sommes réparties par un fonds commun de placement à risques et les distributions
 de sociétés de capital-risque soumises au régime fiscal des plus-values à long
@@ -207,7 +246,7 @@ terme en application du 2° du 5 de l'article 38 ou du 5 de l'article 39
 terdecies sont soumises à l'impôt au taux de 8 % pour la fraction des sommes ou
 distributions afférentes aux cessions d'actions ou de parts de sociétés, à
 l'exception des titres des sociétés à prépondérance immobilière mentionnées au a
-quinquies, détenues depuis deux ans au moins et si le fonds ou la société a
+sexies-0 bis, détenues depuis deux ans au moins et si le fonds ou la société a
 détenu au moins 5 % du capital de la société émettrice pendant deux ans au
 moins. Le taux de 8 % est fixé à 0 % pour les exercices ouverts à compter du 1er
 janvier 2007.

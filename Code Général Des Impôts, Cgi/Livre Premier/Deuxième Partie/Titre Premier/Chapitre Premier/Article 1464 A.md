@@ -40,8 +40,8 @@ cinématographiques ;
 
 4° Dans la limite de 100 %, les établissements de spectacles cinématographiques
 qui, quel que soit le nombre de leurs salles, réalisent en moyenne hebdomadaire
-moins de 5 000 entrées et bénéficient d'un classement "art et essai" au titre de
-l'année de référence.
+moins de 7 500 entrées et bénéficient d'un classement " art et essai " au titre
+de l'année de référence.
 
 Les exonérations prévues aux 3° et 4° ne s'appliquent pas aux établissements
 spécialisés dans la projection de films visés au 3° de l'article 279 bis.

@@ -3,7 +3,7 @@ Article 125 C
 I. Les personnes physiques qui mettent à la disposition de la société dont elles
 sont associées ou actionnaires des sommes portées sur un compte bloqué
 individuel peuvent, pour l'imposition des intérêts versés au titre de ces
-sommes, opter pour le prélèvement libératoire au taux de 16 % prévu à l'article
+sommes, opter pour le prélèvement libératoire au taux de 18 % prévu à l'article
 125 A à condition :
 
 a. Qu'elles soient incorporées au capital dans un délai maximum de cinq ans à
@@ -20,9 +20,9 @@ c. Que les intérêts servis à raison de ce dépôt soient calculés en retenan
 taux qui n'excède pas celui prévu au 3° du 1 l'article 39.
 
 d. Que la société ne procède pas à une réduction de capital non motivée par des
-pertes ou à un prélèvement sur le compte "primes d'émission" pendant une période
-commençant un an avant le dépôt des sommes et s'achevant un an après leur
-incorporation au capital.
+pertes ou à un prélèvement sur le compte " primes d'émission " pendant une
+période commençant un an avant le dépôt des sommes et s'achevant un an après
+leur incorporation au capital.
 
 II. Le non-respect des obligations fixées au I et à l'article 54 sexies
 entraîne, nonobstant toutes dispositions contraires, l'exigibilité immédiate des

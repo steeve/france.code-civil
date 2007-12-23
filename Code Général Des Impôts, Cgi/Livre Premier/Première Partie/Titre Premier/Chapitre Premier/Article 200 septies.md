@@ -10,6 +10,9 @@ l'article 157. Pour l'application de ces dispositions, les revenus perçus dans
 un plan d'épargne en actions sont déclarés dans les conditions du 1 de l'article
 170.
 
+Ce crédit d'impôt n'est pas applicable aux revenus sur lesquels a été opéré le
+prélèvement prévu à l'article 117 quater.
+
 Ce crédit est retenu dans les limites annuelles de 115 Euros pour les
 contribuables célibataires, divorcés ou veufs et 230 Euros pour les
 contribuables mariés soumis à une imposition commune.
@@ -17,5 +20,5 @@ contribuables mariés soumis à une imposition commune.
 2. Le crédit d'impôt est imputé sur l'impôt sur le revenu dû a u titre de
 l'année au cours de laquelle les revenus sont perçus après imputation des
 réductions d'impôt mentionnées aux articles 199 quater B à 200, des autres
-crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède
+crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède
 l'impôt dû, l'excédent est restitué.

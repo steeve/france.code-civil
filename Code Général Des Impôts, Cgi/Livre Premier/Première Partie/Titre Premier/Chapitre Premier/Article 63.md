@@ -18,4 +18,10 @@ la propriété intellectuelle).
 Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui
 proviennent des activités de préparation et d'entraînement des équidés
 domestiques, en vue de leur exploitation dans les activités autres que celles du
-spectacle (1).
+spectacle.
+
+Sont considérés comme bénéfices de l'exploitation agricole les revenus provenant
+de la vente de biomasse sèche ou humide, majoritairement issue de produits ou
+sous-produits de l'exploitation. Il en est de même des revenus provenant de la
+production d'énergie à partir de produits ou sous-produits majoritairement issus
+de l'exploitation agricole.

@@ -15,6 +15,30 @@ si elles sont titulaires d'un récépissé de demande de renouvellement de titre
 séjour. Un décret fixe la liste des titres ou documents attestant la régularité
 de leur situation.
 
+L'allocation mentionnée au premier alinéa bénéficie aux ressortissants des Etats
+membres de la Communauté européenne et des autres Etats parties à l'accord sur
+l'Espace économique européen qui en font la demande et qui résident en France
+depuis plus de trois mois, dans les conditions prévues aux articles L. 121-1 et
+L. 121-2 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+Cette condition de séjour de trois mois n'est toutefois pas opposable :
+
+-aux personnes qui exercent une activité professionnelle déclarée conformément à
+la législation en vigueur ;
+
+-aux personnes qui ont exercé une telle activité en France et soit sont en
+incapacité permanente de travailler pour raisons médicales, soit suivent une
+formation professionnelle au sens des articles L. 900-2 et L. 900-3 du code du
+travail, soit sont inscrites sur la liste visée à l'article L. 311-5 du même
+code ;
+
+-aux ascendants, descendants et conjoints des personnes mentionnées aux deux
+alinéas précédents.
+
+Les ressortissants des Etats membres de la Communauté européenne et des autres
+Etats parties à l'accord sur l'Espace économique européen entrés en France pour
+y chercher un emploi et qui s'y maintiennent à ce titre ne peuvent bénéficier de
+l'allocation aux adultes handicapés.
+
 Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne
 peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension
 de retraite ou d'une législation particulière, à un avantage de vieillesse ou

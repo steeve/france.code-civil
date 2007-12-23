@@ -39,15 +39,15 @@ Un décret fixe les modalités d'application de ces dispositions.
 1° ter Pour les emprunts contractés à compter du 1er janvier 1993, la fraction,
 courue au cours de l'exercice, de la rémunération égale à la différence entre
 les sommes ou valeurs à verser, autres que les intérêts, et celles reçues à
-l'émission, lorsque cette rémunération excède 10 p. 100 des sommes initialement
-mises à la disposition de l'emprunteur.
+l'émission, lorsque cette rémunération excède 10 % des sommes initialement mises
+à la disposition de l'emprunteur.
 
 Cette fraction courue est déterminée de manière actuarielle, selon la méthode
 des intérêts composés.
 
 Pour les emprunts dont le montant à rembourser est indexé, ces dispositions
 s'appliquent à la fraction de la rémunération qui est certaine dans son principe
-et son montant dès l'origine, si cette fraction excède 10 p. 100 des sommes
+et son montant dès l'origine, si cette fraction excède 10 % des sommes
 initialement mises à la disposition de l'emprunteur. Elles ne sont pas
 applicables aux emprunts convertibles et à ceux dont le remboursement est à la
 seule initiative de l'emprunteur.
@@ -76,7 +76,7 @@ l'article 39 B.
 
 Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des
 déductions prévues à l'article 271 sur la comptabilisation et l'amortissement
-des biens;
+des biens ;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
@@ -132,9 +132,9 @@ bénéfice net est réduit dans les mêmes proportions. Corrélativement, le mon
 du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est
 accordé ultérieurement.
 
-4° bis - Le prélèvement opéré au titre de l'article 4 modifié de la loi n°
-51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet
-d'un ordre de versement émis au cours de l'exercice ;
+4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675
+du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre
+de versement émis au cours de l'exercice ;
 
 4° ter (Abrogé) ;
 
@@ -290,7 +290,10 @@ minorées du montant des provisions non admises en déduction au titre des
 exercices précédents en application de la même phrase et non encore rapportées
 au résultat à la clôture de l'exercice. Le montant des dotations ainsi non admis
 en déduction est affecté à chaque titre de participation provisionné à
-proportion des dotations de l'exercice comptabilisées sur ce titre.
+proportion des dotations de l'exercice comptabilisées sur ce titre. Le présent
+alinéa s'applique aux seuls titres de sociétés à prépondérance immobilière
+définies au a sexies-0 bis du I de l'article 219 pour la détermination des
+résultats des exercices ouverts à compter du 1er janvier 2007.
 
 Les dotations aux provisions non admises en déduction au titre d'un exercice et
 affectées à un titre de participation en application de l'alinéa précédent
@@ -414,14 +417,13 @@ l'intérêt direct de l'exploitation ;
 8° Les abandons de créances à caractère commercial consentis ou supportés dans
 le cadre d'un plan de sauvegarde ou de redressement.
 
-2. Les transactions, amendes, confiscations, pénalités de toute nature mises à
-la charge des contrevenants aux dispositions légales régissant la liberté des
-prix et de la concurrence, le ravitaillement, la répartition des divers
-produits, l'assiette et le recouvrement des impôts, contributions et taxes, le
-versement libératoire et la pénalité de retard afférente prévus au IV de
-l'article 14 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les
-orientations de la politique énergétique, ne sont pas admis en déduction des
+2. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des
+contrevenants à des obligations légales ne sont pas admises en déduction des
 bénéfices soumis à l'impôt.
+
+Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi
+n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la
+politique énergétique.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
 convention sur la lutte contre la corruption d'agents publics étrangers dans les
@@ -618,11 +620,11 @@ résultat net et le taux normal prévu au deuxième alinéa du I de l'article 21
 
 Des liens de dépendance sont réputés exister entre deux entreprises :
 
-a - lorsque l'une détient directement ou par personne interposée la majorité du
+a-lorsque l'une détient directement ou par personne interposée la majorité du
 capital social de l'autre ou y exerce en fait le pouvoir de décision ;
 
-b - lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au
-a, sous le contrôle d'une même tierce entreprise.
+b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a,
+sous le contrôle d'une même tierce entreprise.
 
 Les modalités d'application du présent 12 sont fixées par décret en Conseil
 d'Etat.

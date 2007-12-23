@@ -13,13 +13,13 @@ de la sécurité sociale sont dégrevées d'office de la taxe.
 
 Cette taxe est composée :
 
-a. D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés
+a.D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés
 par la chambre de métiers et de l'artisanat, la chambre régionale de métiers et
 de l'artisanat et l'Assemblée permanente des chambres de métiers et de
-l'artisanat dans la limite d'un montant maximum fixé respectivement à 100 euros,
-9 euros et 14 euros pour les chambres de métiers et de l'artisanat de
+l'artisanat dans la limite d'un montant maximum fixé respectivement à 101
+euros,9 euros et 15 euros pour les chambres de métiers et de l'artisanat de
 Guadeloupe, de Martinique, de Guyane et de La Réunion, le montant maximum du
-droit fixe est fixé à 109 euros ;
+droit fixe est fixé à 110 euros ;
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté
 par les chambres de métiers et de l'artisanat ; celui-ci ne peut excéder 50 % du
@@ -31,7 +31,7 @@ produit du droit additionnel jusqu'à 85 % du produit du droit fixe, afin de
 mettre en oeuvre des actions ou de réaliser des investissements, dans des
 conditions définies par décret en Conseil d'Etat.
 
-c. D'un droit additionnel par ressortissant, affecté par les chambres régionales
+c.D'un droit additionnel par ressortissant, affecté par les chambres régionales
 de métiers et de l'artisanat ou, dans les départements et collectivités
 d'outre-mer, par les chambres de métiers et de l'artisanat, au financement
 d'actions de formation, au sens des articles L. 900-2 et L. 920-1 du code du

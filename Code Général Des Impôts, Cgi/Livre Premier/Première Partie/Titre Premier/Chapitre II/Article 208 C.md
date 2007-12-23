@@ -1,11 +1,11 @@
 Article 208 C
 ----
-I. - Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
+I.-Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
 par actions cotées sur un marché réglementé français, dont le capital social
 n'est pas inférieur à 15 millions d'euros, qui ont pour objet principal
 l'acquisition ou la construction d'immeubles en vue de la location, ou la
 détention directe ou indirecte de participations dans des personnes visées à
-l'article 8 et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique.
+l'article 8 et aux 1,2 et 3 de l'article 206 dont l'objet social est identique.
 
 Le capital ou les droits de vote des sociétés visées au premier alinéa ne
 doivent pas être détenus, directement ou indirectement, à hauteur de 60 % ou
@@ -32,7 +32,7 @@ chacune, directement ou indirectement, moins de 2 % du capital et des droits de
 vote. Cette condition s'apprécie au premier jour du premier exercice
 d'application du présent régime.
 
-II. - Les sociétés d'investissements immobiliers cotées visées au I et leurs
+II.-Les sociétés d'investissements immobiliers cotées visées au I et leurs
 filiales détenues, individuellement ou conjointement par plusieurs sociétés
 d'investissements immobiliers cotées, à 95 % au moins, directement ou
 indirectement, de manière continue au cours de l'exercice, soumises à l'impôt
@@ -73,7 +73,13 @@ opté pour le présent régime. Toutefois, lorsque les sociétés versante et
 bénéficiaire sont deux sociétés visées au premier alinéa du I, les produits ne
 sont exonérés que si la société bénéficiaire de la distribution détient des
 titres représentant au moins 5 % du capital et des droits de vote de la société
-distributrice pendant une durée minimale de deux ans.
+distributrice pendant une durée minimale de deux ans. La première phrase
+s'applique également aux produits des participations distribués par les sociétés
+définies au 2° du h du 6 de l'article 145 ou par les sociétés visées au 3°
+nonies de l'article 208, et perçus par une société visée au premier alinéa du I,
+à la condition que celle-ci détienne des titres représentant au moins 5 % du
+capital et des droits de vote de la société distributrice pendant une durée
+minimale de deux ans.
 
 Pour l'application des présentes dispositions, les opérations visées au premier
 alinéa et réalisées par des organismes mentionnés à l'article 8 sont réputées
@@ -85,7 +91,7 @@ détenus en pleine propriété, ainsi que de ceux exploités en tant que titulai
 d'un usufruit ou en tant que preneur d'un bail à construction ou d'un bail
 emphytéotique.
 
-II bis. - Les plus-values de cession d'immeubles, de droits réels et de droits
+II bis.-Les plus-values de cession d'immeubles, de droits réels et de droits
 afférents à un contrat de crédit-bail portant sur un immeuble, mentionnés au II,
 entre une société d'investissements immobiliers cotée et ses filiales visées au
 II ou entre ces filiales ne sont pas soumises à l'impôt sur les sociétés.
@@ -97,14 +103,14 @@ du 3 et au 5 de l'article 210 A. Les réintégrations, prescrites au d du 3 de
 l'article 210 A, constituent des éléments du résultat soumis aux obligations de
 distribution mentionnées au deuxième alinéa du II de l'article 208 C.
 
-II ter. - Lorsque des produits sont distribués ou réputés distribués par une
+II ter.-Lorsque des produits sont distribués ou réputés distribués par une
 société d'investissements immobiliers cotée visée au I à un associé autre qu'une
 personne physique détenant, directement ou indirectement, au moins 10 % du
 capital de cette société et que les produits perçus par cet associé ne sont pas
 soumis à l'impôt sur les sociétés ou à un impôt équivalent, la société
 distributrice doit acquitter un prélèvement égal à 20 % du montant des sommes,
 avant imputation éventuelle du prélèvement, distribuées à cet associé et
-prélevées sur des produits exonérés en application du II. L'assiette du
+prélevées sur des produits exonérés en application du II.L'assiette du
 prélèvement est diminuée des sommes distribuées provenant des produits reçus
 ayant déjà supporté ce prélèvement.
 
@@ -130,15 +136,15 @@ garanties et sanctions. Il n'est ni imputable, ni restituable. Il n'est pas
 admis en charge déductible pour la détermination du résultat de la société
 distributrice.
 
-III. - L'option doit être notifiée au plus tard avant la fin du quatrième mois
-de l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise
-au présent régime, à l'exception de l'exercice clos en 2003 pour lequel l'option
+III.-L'option doit être notifiée au plus tard avant la fin du quatrième mois de
+l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise au
+présent régime, à l'exception de l'exercice clos en 2003 pour lequel l'option
 doit être notifiée avant le 30 septembre 2003.
 
 Cette option est irrévocable.
 
-III bis. - Les sociétés soumises à l'impôt sur les sociétés mentionnées au c du
-I de l'article L. 214-92 du code monétaire et financier et qui ont un objet
+III bis.-Les sociétés soumises à l'impôt sur les sociétés mentionnées au c du I
+de l'article L. 214-92 du code monétaire et financier et qui ont un objet
 identique à celui des sociétés d'investissements immobiliers cotées visées au I
 peuvent opter dans les conditions du III pour le régime d'imposition prévu au II
 lorsqu'elles sont détenues à 95 % au moins, directement ou indirectement et de
@@ -146,7 +152,7 @@ manière continue au cours de l'exercice, par une société de placement à
 prépondérance immobilière à capital variable mentionnée au 3° nonies de
 l'article 208.
 
-IV. - En cas de sortie du présent régime de la société d'investissements
+IV.-En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées
 au taux visé au IV de l'article 219 font l'objet d'une imposition au taux prévu
 au I dudit article au titre de l'exercice de sortie sous déduction de l'impôt
@@ -171,5 +177,5 @@ pas fait application des conséquences liées à la sortie du régime de la soci
 acquise, dans la mesure où celle-ci demeure filiale jusqu'à expiration de la
 période de dix ans mentionnée au premier alinéa.
 
-V. - Un décret fixe les conditions de l'option et les obligations déclaratives
-des sociétés mentionnées aux II et III bis soumises au présent régime.
+V.-Un décret fixe les conditions de l'option et les obligations déclaratives des
+sociétés mentionnées aux II et III bis soumises au présent régime.

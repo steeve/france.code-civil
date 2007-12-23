@@ -10,12 +10,9 @@ Pour concourir à ce financement, les employeurs sont assujettis à :
 1° Une cotisation assise sur les salaires plafonnés et recouvrée selon les
 règles applicables en matière de sécurité sociale ;
 
-2° Une contribution calculée par application d'un taux de 0,40 % sur la totalité
-des salaires et recouvrée suivant les règles applicables en matière de sécurité
-sociale.
-
-Le taux de la contribution mentionnée au 2° est fixé à 0,20 % pour l'Etat, les
-collectivités territoriales et leurs établissements publics administratifs.
+2° Une contribution calculée par application d'un taux de 0, 40 % sur la
+totalité des salaires et recouvrée suivant les règles applicables en matière de
+sécurité sociale.
 
 Les employeurs occupant moins de vingt salariés et les employeurs relevant du
 régime agricole au regard des lois sur la sécurité sociale ne sont pas soumis à

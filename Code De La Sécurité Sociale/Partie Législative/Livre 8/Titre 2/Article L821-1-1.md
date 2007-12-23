@@ -7,16 +7,16 @@ ressources. Le montant de cette garantie est fixé par décret.
 Le complément de ressources est versé aux bénéficiaires de l'allocation aux
 adultes handicapés au titre de l'article L. 821-1 :
 
-- dont la capacité de travail, appréciée par la commission mentionnée à
-l'article L. 146-9 du code de l'action sociale et des familles, est, compte tenu
-de leur handicap, inférieure à un pourcentage fixé par décret ;
+-dont la capacité de travail, appréciée par la commission mentionnée à l'article
+L. 146-9 du code de l'action sociale et des familles, est, compte tenu de leur
+handicap, inférieure à un pourcentage fixé par décret ;
 
-- qui n'ont pas perçu de revenu d'activité à caractère professionnel propre
+-qui n'ont pas perçu de revenu d'activité à caractère professionnel propre
 depuis une durée fixée par décret ;
 
-- qui disposent d'un logement indépendant ;
+-qui disposent d'un logement indépendant ;
 
-- qui perçoivent l'allocation aux adultes handicapés à taux plein ou en
+-qui perçoivent l'allocation aux adultes handicapés à taux plein ou en
 complément d'un avantage de vieillesse ou d'invalidité ou d'une rente d'accident
 du travail.
 
@@ -29,7 +29,7 @@ article.
 
 Le versement du complément de ressources pour les personnes handicapées prend
 fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les
-conditions prévues au cinquième alinéa de l'article L. 821-1. Il prend fin pour
+conditions prévues au dixième alinéa de l'article L. 821-1. Il prend fin pour
 les bénéficiaires de l'allocation supplémentaire du fonds spécial d'invalidité
 mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre le droit à
 pension de vieillesse.

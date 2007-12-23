@@ -36,6 +36,12 @@ minimum de perception ne peut être supérieur au droit de consommation résulta
 de l'application du taux fixé par le conseil général au prix de vente au détail
 en France continentale des cigarettes de la classe de prix la plus demandée.
 
+Les conseils généraux des départements d'outre-mer peuvent également établir un
+minimum de perception fixé pour 1 000 grammes pour les tabacs fine coupe
+destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les
+deux tiers du minimum de perception fixé par le conseil général pour 1 000
+unités de cigarettes.
+
 2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de
 la fabrication par les usines locales.
 

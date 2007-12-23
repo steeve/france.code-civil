@@ -6,8 +6,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à
 l'article 119 bis du code général des impôts ;
 
-2° Au prélèvement sur les produits de placement à revenu fixe prévu à l'article
-125 A ;
+2° Aux prélèvements prévus aux articles 117 quater et 125 A ;
 
 3° (abrogé).
 
