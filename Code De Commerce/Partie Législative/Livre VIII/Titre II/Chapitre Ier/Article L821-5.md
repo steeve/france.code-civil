@@ -20,7 +20,9 @@ conduites auprès de personnes ou d'entités admises à la négociation sur un
 marché réglementé ;
 
 500 euros pour les rapports de certification signés dans le cadre de missions
-conduites auprès de personnes ou d'entités faisant appel public à l'épargne ;
+conduites auprès de personnes ou d'entités dont les titres financiers sont
+offerts au public sur un système multilatéral de négociation autre qu'un marché
+réglementé ;
 
 20 euros pour les autres rapports de certification.
 
