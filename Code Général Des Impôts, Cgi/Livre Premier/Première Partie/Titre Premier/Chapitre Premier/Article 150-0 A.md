@@ -2,18 +2,19 @@ Article 150-0 A
 ----
 I.-1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
-des articles 150 UB et 150 UC, les gains nets retirés des cessions à titre
+des articles 150 UB et 150 UC , les gains nets retirés des cessions à titre
 onéreux, effectuées directement ou par personne interposée, de valeurs
 mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et
-aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou
+aux 6° et 7° de l'article 120 , de droits portant sur ces valeurs, droits ou
 titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont
 soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par
-foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007. Pour
-l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
-d'euros la plus proche, est actualisé chaque année dans la même proportion que
-la limite supérieure de la première tranche du barème de l'impôt sur le revenu
-de l'année précédant celle de la cession et sur la base du seuil retenu au titre
-de cette année.
+foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007 et 25
+000 euros pour l'imposition des revenus de l'année 2008. Pour l'imposition des
+revenus des années ultérieures, ce seuil, arrondi à la dizaine d'euros la plus
+proche, est actualisé chaque année dans la même proportion que la limite
+supérieure de la première tranche du barème de l'impôt sur le revenu de l'année
+précédant celle de la cession et sur la base du seuil retenu au titre de cette
+année.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
@@ -97,11 +98,11 @@ de placement définis au 2 du III ou de la dissolution de tels fonds ;
 prépondérance immobilière à capital variable mentionnées au 3° nonies de
 l'article 208 ;
 
-4 ter. Par dérogation aux dispositions de l'article 239 nonies, aux titres cédés
-dans le cadre de leur gestion par les fonds de placement immobilier régis par
-les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une
-personne physique agissant directement ou par personne interposée possède plus
-de 10 % des parts du fonds.
+4 ter. Par dérogation aux dispositions de l'article 239 nonies , aux titres
+cédés dans le cadre de leur gestion par les fonds de placement immobilier régis
+par les articles L. 214-89 et suivants du code monétaire et financier,
+lorsqu'une personne physique agissant directement ou par personne interposée
+possède plus de 10 % des parts du fonds.
 
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont
 la durée à l'émission est supérieure à cinq ans.
@@ -174,3 +175,14 @@ cédés.
 Cette option peut également être exercée lorsque la cession intervient dans les
 cinq ans qui suivent la fin du régime mentionné au premier alinéa, toutes autres
 conditions étant remplies.
+
+IV.-Le I ne s'applique pas aux partages qui portent sur des valeurs mobilières,
+des droits sociaux et des titres assimilés, dépendant d'une succession ou d'une
+communauté conjugale et qui interviennent uniquement entre les membres
+originaires de l'indivision, leur conjoint, des ascendants, des descendants ou
+des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en
+est de même des partages portant sur des biens indivis issus d'une
+donation-partage et des partages portant sur des biens indivis acquis par des
+partenaires ayant conclu un pacte civil de solidarité ou par des époux, avant ou
+pendant le pacte ou le mariage. Ces partages ne sont pas considérés comme
+translatifs de propriété dans la mesure des soultes ou plus-values.
