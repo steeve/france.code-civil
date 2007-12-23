@@ -13,8 +13,8 @@ commerce, notamment des articles L. 231-1 à L. 231-8, et celles du décret n°
 
 2. Dénomination.
 
-La dénomination de la société est : ... Société anonyme coopérative de
-production d'habitations à loyer modéré, société à capital variable.
+La dénomination de la société est :... Société anonyme coopérative de production
+d'habitations à loyer modéré, société à capital variable.
 
 3. Objet social.
 
@@ -34,10 +34,7 @@ mentionnées au précédent alinéa, en vue de leur vente à des personnes physi
 à titre de résidence principale, et de gérer, notamment en qualité de syndic,
 des immeubles à usage d'habitation ou à usage professionnel et d'habitation
 respectant les prix de vente maxima fixés en application du III de l'article R.
-443-34 du code précité. Toute opération réalisée en application du présent
-alinéa doit faire l'objet d'une garantie de financement et d'une garantie
-d'acquisition des locaux non vendus dans les conditions fixées aux articles R.
-422-9-2 à R. 422-9-5 du code de la construction et de l'habitation ;
+443-34 du code précité ;
 
 3° En vue de leur location-accession dans les conditions fixées par la loi n°
 84-595 du 12 juillet 1984 modifiée définissant la location-accession à la
@@ -54,132 +51,158 @@ l'habitation ;
 des personnes en difficulté et les donner en location à des organismes agréés
 par le préfet de département du lieu de situation de ces hôtels ;
 
-6° En vue de leur location, de construire, acquérir, améliorer, aménager,
+6° De construire ou d'acquérir, d'aménager, d'entretenir, de gérer ou de donner
+en gestion à des personnes physiques ou morales des résidences hôtelières à
+vocation sociale prévues à l'article L. 631-11 du code de la construction et de
+l'habitation ;
+
+7° D'assurer la gérance des sociétés civiles immobilières d'accession
+progressive à la propriété régies par les articles L. 443-6-2 et suivants ;
+
+8° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
+du code de la construction et de l'habitation et aux sociétés d'économie mixte
+ou de les acquérir auprès d'eux, par contrat de vente d'immeuble à construire
+prévu aux articles L. 261-1 et suivants du même code ;
+
+9° En vue de leur location, de construire, acquérir, améliorer, aménager,
 assainir, réparer et gérer, dans les conditions prévues par les livres III et IV
 du code de la construction et de l'habitation, des habitations collectives ou
 individuelles avec leurs jardins, dépendances ou annexes et, éventuellement,
 lorsque ces habitations forment un ensemble, des locaux à usage commun ou des
 installations nécessaires à la vie économique et sociale de cet ensemble ;
 
-7° De gérer les immeubles à usage principal d'habitation appartenant à d'autres
+10° De gérer les immeubles à usage principal d'habitation appartenant à d'autres
 organismes d'habitations à loyer modéré ;
 
-8° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à
-une collectivité territoriale ou à un groupement de collectivités territoriales,
-à une société d'économie mixte de construction et de gestion de logements
-sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
-à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
-2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 %
-au moins par cette association ;
+11° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat,
+à une collectivité territoriale ou à un groupement de collectivités
+territoriales, à une société d'économie mixte de construction et de gestion de
+logements sociaux, à des organismes à but non lucratif, à l'association agréée
+mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28
+décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues
+à 99 % au moins par cette association ;
 
-9° D'être syndic de copropriété d'immeubles bâtis, construits ou acquis par un
-autre organisme d'habitations à loyer modéré, une collectivité locale, une
-société d'économie mixte, un organisme sans but lucratif, une société civile
-coopérative de construction placée sous son égide ou sous celle d'un autre
-organisme d'habitations à loyer modéré, et d'exécuter des fonctions
-d'administrateur de biens pour les mêmes immeubles ;
+12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
+construits ou acquis soit par elle, soit par un autre organisme d'habitations à
+loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
+organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
+de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
+parts sont détenues à au moins 99 % par cette association ;
 
-10° De réaliser des lotissements ;
+13° De réaliser des lotissements ;
 
-11° De réaliser, pour son compte en vertu d'une convention passée avec une
+14° De réaliser, pour son compte en vertu d'une convention passée avec une
 collectivité territoriale ou un établissement public de coopération
 intercommunale compétent en matière d'aménagement, les actions ou opérations
 d'aménagement définies par le code de l'urbanisme ;
 
-12° De réaliser les actions ou opérations d'aménagement définies par le code de
-l'urbanisme pour le compte de tiers lorsqu'elle y a été autorisée dans les
-conditions prévues à l'article R. 422-9 du code de la construction et de
-l'habitation. Dans ce cas, les dispositions des articles L. 443-14 et L. 451-5
-de ce code ne sont pas applicables aux cessions d'immeubles rendues nécessaires
-par la réalisation de ces actions ou opérations ;
+15° De réaliser les actions ou opérations d'aménagement définies par le code de
+l'urbanisme pour le compte de tiers. Dans ce cas, les dispositions des articles
+L. 443-14 et L. 451-5 du code de la construction et de l'habitation ne sont pas
+applicables aux cessions d'immeubles rendues nécessaires par la réalisation de
+ces actions ou opérations ;
 
-13° De réaliser des prestations de services pour le compte d'associations ou
+16° De réaliser des prestations de services pour le compte d'associations ou
 d'organismes oeuvrant dans le domaine du logement ou de personnes physiques ;
 
-14° Avec l'accord du maire de la commune d'implantation et celui du préfet
+17° Avec l'accord du maire de la commune d'implantation et celui du préfet
 donnés dans les conditions fixées à l'article R. 442-23 du code de la
 construction et de l'habitation, de gérer, en qualité d'administrateur de biens,
 des logements situés dans des copropriétés connaissant des difficultés
 importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-15° D'acquérir des lots dans des copropriétés mentionnées au 14° ci-dessus qui
+18° D'acquérir des lots dans des copropriétés mentionnées au 17° ci-dessus qui
 font l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du
-code de la construction et de l'habitation. La revente de ces lots n'est pas
-soumise aux dispositions du chapitre III du titre IV du livre IV de ce code mais
-requiert l'avis préalable du service des domaines. La location des lots en
-attente de leur revente est, par dérogation aux dispositions du titre IV du
-livre IV du même code, soumise aux règles mentionnées à l'article 40 de la loi
-n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
-modification de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du
-loyer ne peut excéder les plafonds de loyers fixés en application du troisième
-alinéa du g du 1° du I de l'article 31 du code général des impôts. En outre, les
+code de la construction et de l'habitation ou d'une opération programmée
+d'amélioration de l'habitat prévue à l'article L. 303-1 de ce code et dédiée aux
+copropriétés dégradées. La revente de ces lots n'est pas soumise aux
+dispositions du chapitre III du titre IV du livre IV de ce code mais requiert
+l'avis préalable du service des domaines. La location des lots en attente de
+leur revente est, par dérogation aux dispositions du titre IV du livre IV du
+même code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du
+6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification
+de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du loyer ne
+peut excéder les plafonds de loyers fixés en application du troisième alinéa du
+g du 1° du I de l'article 31 du code général des impôts. En outre, les
 dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont
 applicables aux contrats de location qui prennent fin au plus tard à la revente
 des lots, lorsque le congé émane du bailleur ;
 
-16° De réaliser des prestations de services pour le compte de syndicats de
+19° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde en
 application de l'article L. 615-1 du code de la construction et de l'habitation
 ;
 
-17° Avec l'accord du maire de la commune d'implantation, d'être syndic de
+20° Avec l'accord du maire de la commune d'implantation, d'être syndic de
 copropriétés situées dans le périmètre d'une opération programmée d'amélioration
 de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
 l'habitation et qui satisfont aux caractéristiques de décence mentionnées à
 l'article L. 442-11 ;
 
-18° De réaliser des prestations de services pour le compte de syndicats de
+21° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles situés dans le périmètre d'une opération programmée
 d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la
 construction et de l'habitation ;
 
-19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
+22° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
 d'administrateurs de biens et dans les conditions fixées par l'article L. 442-11
 du code de la construction et de l'habitation, des logements situés dans le
 périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à
 l'article L. 303-1 du même code ;
 
-20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
+23° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
 d'administrateurs de biens et dans les conditions fixées par l'article L. 442-11
 du code de la construction et de l'habitation, des logements appartenant à des
 personnes privées et vacants depuis plus d'un an ;
 
-22° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré
+24° De réaliser des travaux, d'acquérir, de construire et de gérer des immeubles
+à usage d'habitation au profit des fonctionnaires de la police et de la
+gendarmerie nationales, des services départementaux d'incendie et de secours ou
+des services pénitentiaires, ainsi que les locaux accessoires à ces immeubles et
+les locaux nécessaires au fonctionnement des gendarmeries ;
+
+25° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré
 des prestations de services pour des missions entrant dans l'objet social et la
 compétence territoriale desdits organismes et de la société ;
 
-23° De réaliser des missions d'accompagnement social destinées aux populations
+26° De réaliser des missions d'accompagnement social destinées aux populations
 logées dans le patrimoine dont elle assure la gestion ou pour les populations
 logées dans le patrimoine d'autres organismes d'habitations à loyer modéré ;
 
-24° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code
+27° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code
 de la construction et de l'habitation ;
 
-25° De prendre à bail des logements vacants pour les donner en sous-location à
+28° De prendre à bail des logements vacants pour les donner en sous-location à
 des personnes physiques dans les conditions fixées par les articles L. 444-1 et
 suivants du code de la construction et de l'habitation ;
 
-26° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et
+29° D'acquérir et d'aménager des terrains destinés à être cédés aux associés et
 de contracter des emprunts pour l'acquisition et l'aménagement de terrains
 qu'elle pourra ultérieurement céder à ces personnes ;
 
-27° De réaliser en vue de leur vente, dans les conditions prévues aux articles
+30° De réaliser en vue de leur vente, dans les conditions prévues aux articles
 L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à
 l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
 (n° 2001-1275 du 28 décembre 2001), ou des sociétés civiles immobilières dont
 les parts sont détenues à 99 % au moins par cette association, des immeubles à
 usage principal d'habitation destinés à la location ;
 
-28° De réaliser des prestations de services pour le compte de l'association
+31° De réaliser des prestations de services pour le compte de l'association
 agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée, ou
 des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins
 par cette association ;
 
-29° De réaliser toutes opérations pour lesquelles les sociétés anonymes
+32° De réaliser en vue de leur vente, dans les conditions prévues à l'article L.
+261-3 du code de la construction et de l'habitation, pour le compte de personnes
+publiques ou privées, des immeubles à usage principal d'habitation dont elle
+peut provisoirement détenir l'usufruit selon les modalités définies aux articles
+L. 253-1 à L. 253-5 du même code ;
+
+33° De réaliser toutes opérations pour lesquelles les sociétés anonymes
 coopératives de production d'habitations à loyer modéré sont ou seront
 habilitées par les textes législatifs s'y rapportant.
 
-4. Compétence territoriale - Siège social.
+4. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce sur le territoire de la région où est situé
 son siège social. Elle peut également intervenir sur le territoire des
@@ -190,13 +213,13 @@ Par décision prise dans les conditions prévues par le code de la construction 
 de l'habitation, le ministre chargé du logement peut étendre la compétence
 territoriale de la société.
 
-Le siège social de la société est fixé à : ....
+Le siège social de la société est fixé à :....
 
 5. Capital social.
 
 Le capital est variable, et entièrement libéré lors de la souscription de parts.
 
-Le capital statutaire est fixé à la somme de ... euros.
+Le capital statutaire est fixé à la somme de... euros.
 
 Il ne peut être inférieur à celui exigé par la loi du 10 septembre 1947 précitée
 (art. 27 et 27 bis), ni supérieur au plafond d'émission fixé par l'assemblée
@@ -208,35 +231,35 @@ application de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947
 précitée, selon le cas, au moins 65 ou au moins 51 p. 100 des droits de vote aux
 assemblées générales de la société, ne peuvent être que les suivantes :
 
-- les personnes physiques ayant recours aux services de la société ;
+-les personnes physiques ayant recours aux services de la société ;
 
-- les accédants à la propriété qui acquièrent leur logement auprès d'une société
+-les accédants à la propriété qui acquièrent leur logement auprès d'une société
 constituée en application du titre Ier du livre II du code de la construction et
 de l'habitation ;
 
-- les sociétés civiles coopératives de construction ;
+-les sociétés civiles coopératives de construction ;
 
-- les employés de la société.
+-les employés de la société.
 
-La société admet comme associés dans la limite de ... p. 100 du capital
-effectif, d'autres personnes morales et physiques qui entendent contribuer à la
+La société admet comme associés dans la limite de... % du capital effectif,
+d'autres personnes morales et physiques qui entendent contribuer à la
 réalisation des objectifs de la coopérative.
 
-Ces associés ne peuvent en aucun cas détenir ensemble plus de 35 p. 100 ou 49 p.
-100 selon le cas du total des droits de vote. Ces associés disposent ensemble
-d'un nombre de voix proportionnel au capital qu'ils détiennent. Ils répartissent
-ces voix entre eux au prorata de la part de chacun dans ce capital détenu.
+Ces associés ne peuvent en aucun cas détenir ensemble plus de 35 % ou 49 % selon
+le cas du total des droits de vote. Ces associés disposent ensemble d'un nombre
+de voix proportionnel au capital qu'ils détiennent. Ils répartissent ces voix
+entre eux au prorata de la part de chacun dans ce capital détenu.
 
 Lorsqu'au nombre de ces associés figurent des sociétés coopératives ou des
-organismes d'habitations à loyer modéré, la limite ci-dessus est portée à 49 p.
-100 sans que les droits de vote de ceux de ces associés qui ne sont ni des
-sociétés coopératives ni des organismes d'habitations à loyer modéré puissent
-excéder la limite de 35 p. 100.
+organismes d'habitations à loyer modéré, la limite ci-dessus est portée à 49 %
+sans que les droits de vote de ceux de ces associés qui ne sont ni des sociétés
+coopératives ni des organismes d'habitations à loyer modéré puissent excéder la
+limite de 35 %.
 
 Lorsque la part de capital que détiennent les associés définis au quatrième
-alinéa de la présente clause dépasse, selon le cas, 35 p. 100 ou 49 p. 100 du
-total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à
-due proportion.
+alinéa de la présente clause dépasse, selon le cas,35 p. 100 ou 49 % du total
+des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due
+proportion.
 
 Les réductions de capital effectuées dans les cas prévus au dernier alinéa de
 l'article L. 423-5 du code de la construction et de l'habitation ne peuvent être
@@ -244,12 +267,12 @@ réalisées que dans le respect des conditions fixées par cet article.
 
 La société ne peut procéder à l'amortissement de son capital.
 
-6. Retraits - Exclusions.
+6. Retraits-Exclusions.
 
 Le capital peut être réduit par suite de reprises d'apports consécutives au
 départ ou à l'exclusion d'associés. Le retrait ou l'exclusion d'associés ne peut
 avoir pour effet de réduire le capital effectif ni à un montant inférieur au
-minimum légal, ni en dessous de ... % du capital le plus élevé de la société
+minimum légal, ni en dessous de... % du capital le plus élevé de la société
 depuis sa constitution. Il ne peut en outre avoir pour effet de réduire le
 nombre des associés à moins de sept.
 
@@ -380,7 +403,7 @@ bénéfices ou les primes d'émission ne peuvent être incorporées au capital.
 Après acquittement des charges de toute nature, y compris tous amortissements et
 provisions, ainsi que le prélèvement au profit du fonds de réserve légale ou
 d'autres réserves, dont la constitution est imposée par la réglementation
-spécifique aux sociétés coopératives d'H.L.M., et la répartition éventuelle de
+spécifique aux sociétés coopératives d'H. L. M., et la répartition éventuelle de
 dividendes dans les conditions définies à la clause 14 des présents statuts, le
 surplus éventuel forme une réserve spéciale destinée à assurer le développement
 de l'activité de la société et à parer aux éventualités.

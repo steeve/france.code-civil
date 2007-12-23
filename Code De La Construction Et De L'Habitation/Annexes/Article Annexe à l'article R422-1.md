@@ -11,7 +11,7 @@ décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales.
 
 2. Dénomination.
 
-La dénomination de la société est : ... Société anonyme d'habitations à loyer
+La dénomination de la société est :... Société anonyme d'habitations à loyer
 modéré.
 
 3. Objet social.
@@ -89,60 +89,78 @@ urbaine et sociale des villes et des quartiers ;
 des prestations de services pour des missions entrant dans l'objet social et la
 compétence territoriale desdits organismes et de la société ;
 
-12° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire
+12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
+construits ou acquis soit par elle, soit par un autre organisme d'habitations à
+loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
+organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
+de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
+parts sont détenues à au moins 99 % par cette association ;
+
+13° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
+du code de la construction et de l'habitation et aux sociétés d'économie mixte
+ou de les acquérir auprès d'eux, par contrat de vente d'immeuble à construire
+prévu aux articles L. 261-1 et suivants du même code ;
+
+14° De construire ou d'acquérir, d'aménager, d'entretenir, de gérer ou de donner
+en gestion à des personnes physiques ou morales des résidences hôtelières à
+vocation sociale prévues à l'article L. 631-11 du code de la construction et de
+l'habitation ;
+
+15° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire
 de personnes en difficulté et les donner en location à des organismes agréés par
 le préfet du département du lieu de situation de ces hôtels ;
 
-13° D'intervenir comme prestataire de services de sociétés d'économie mixte pour
+16° D'intervenir comme prestataire de services de sociétés d'économie mixte pour
 la réalisation d'opérations d'aménagement, après y avoir été spécialement agréée
 dans les conditions de l'article R. 422-4 du code de la construction et de
-l'habitation (1) ;
+l'habitation ;
 
-14° Avec l'accord du maire de la commune d'implantation et celui du préfet
+17° Avec l'accord du maire de la commune d'implantation et celui du préfet
 donnés dans les conditions fixées à l'article R. 442-23 du code de la
 construction et de l'habitation, de gérer, en qualité d'administrateur de biens,
 des logements situés dans des copropriétés connaissant des difficultés
 importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-15° Dans des copropriétés mentionnées au 13 ci-dessus qui font l'objet d'un plan
+18° Dans les copropriétés mentionnées au 1° ci-dessus qui font l'objet d'un plan
 de sauvegarde en application de l'article L. 615-1 du code de la construction et
-de l'habitation, acquérir des lots en vue de leur revente, y effectuer tous
-travaux et les louer provisoirement. Les dispositions du 7° de l'article R.
-421-4 du même code sont applicables aux conditions de revente et de location de
-ces lots ;
+de l'habitation ou d'une opération programmée d'amélioration de l'habitat prévue
+à l'article L. 303-1 du même code et dédiée aux copropriétés dégradées,
+d'acquérir des lots en vue de leur revente, d'y effectuer tous travaux et de les
+louer provisoirement. Les dispositions du 7° de l'article R. 421-4 du même code
+sont applicables aux conditions de revente et de location de ces lots ;
 
-16° De réaliser des prestations de services pour le compte de syndicats de
+19° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde en
 application de l'article L. 615-1 du code de la construction et de l'habitation
 ;
 
-17° Avec l'accord du maire de la commune d'implantation, d'être syndic de
+20° Avec l'accord du maire de la commune d'implantation, d'être syndic de
 copropriétés situées dans le périmètre d'une opération programmée d'amélioration
 de l'habitat mentionnée à l'article L. 303-1 du code de la construction et de
 l'habitation et qui satisfont aux caractéristiques de décence mentionnées à
 l'article L. 442-11 ;
 
-18° De réaliser des prestations de services pour le compte de syndicats de
+21° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles situés dans le périmètre d'une opération programmée
 d'amélioration de l'habitat mentionnée à l'article L. 303-1 du code de la
 construction et de l'habitation ;
 
-19° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
+22° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
 d'administrateurs de biens et dans les conditions fixées par l'article L. 442-11
 du code de la construction et de l'habitation, des logements situés dans le
 périmètre d'une opération programmée d'amélioration de l'habitat mentionnée à
 l'article L. 303-1 du même code ;
 
-20° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
+23° Avec l'accord du maire de la commune d'implantation, de gérer, en qualité
 d'administrateurs de biens et dans les conditions fixées par l'article L. 442-11
 du code de la construction et de l'habitation, des logements appartenant à des
 personnes privées et vacants depuis plus d'un an ;
 
-21° De réaliser des hébergements de loisirs à vocation sociale dans les
+24° De réaliser des hébergements de loisirs à vocation sociale dans les
 conditions prévues aux articles L. 421-1, R. 421-4 (6°) et R. 421-4-1 du code de
 la construction et de l'habitation ;
 
-22° De se voir confier par convention la réalisation d'une opération de
+25° De se voir confier par convention la réalisation d'une opération de
 restructuration urbaine qui peut comprendre toutes opérations ou actions ou tous
 aménagements ou équipements de nature à favoriser une politique de développement
 social urbain telle que définie à l'article 1er de la loi n° 96-987 du 14
@@ -152,42 +170,58 @@ faveur des habitants des grands ensembles ou des quartiers d'habitat dégradé
 mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire ;
 
-23° De prendre à bail des logements vacants pour les donner en sous-location à
+26° De prendre à bail des logements vacants pour les donner en sous-location à
 des personnes physiques dans les conditions fixées par les articles L. 444-1 et
 suivants du code de la construction et de l'habitation ;
 
-24° De réaliser en vue de leur vente, dans les conditions prévues aux articles
+27° De réaliser en vue de leur vente, dans les conditions prévues aux articles
 L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à
 l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les
 parts sont détenues à 99 % au moins par cette association, des immeubles à usage
 principal d'habitation destinés à la location ;
 
-25° De participer, en application de l'article L. 424-2 du code de la
+28° De participer, en application de l'article L. 424-2 du code de la
 construction et de l'habitation, à des actions de développement à caractère
 social d'intérêt direct pour les habitants des quartiers d'habitat social, dans
 le cadre des contrats de ville conclus en application de l'article 27 de la loi
 n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement
 durable du territoire ;
 
-26° De réaliser des opérations de conception, réalisation, entretien ou
+29° De réaliser des opérations de conception, réalisation, entretien ou
 maintenance d'équipements hospitaliers ou médico-sociaux pour les besoins d'un
 établissement public de santé dans les conditions fixées par l'article L. 6148-7
 du code de la santé publique ;
 
-27° De réaliser des prestations de services pour le compte de l'association
+30° De réaliser en vue de leur vente, dans les conditions prévues à l'article L.
+261-3 du code de la construction et de l'habitation, pour le compte de personnes
+publiques ou privées, des immeubles à usage principal d'habitation dont elle
+peut provisoirement détenir l'usufruit selon les modalités définies aux articles
+L. 253-1 à L. 253-5 du même code ;
+
+31° D'assurer la gérance des sociétés civiles immobilières d'accession
+progressive à la propriété régies par les articles L. 443-6-2 et suivants du
+code de la construction et de l'habitation ;
+
+32° De réaliser des travaux, d'acquérir, de construire et de gérer des immeubles
+à usage d'habitation au profit des fonctionnaires de la police et de la
+gendarmerie nationales, des services départementaux d'incendie et de secours ou
+des services pénitentiaires, ainsi que les locaux accessoires à ces immeubles et
+les locaux nécessaires au fonctionnement des gendarmeries ;
+
+33° De réaliser des prestations de services pour le compte de l'association
 agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275
 du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont
 détenues à 99 % au moins par cette association ;
 
-28° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code
+34° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code
 de la construction et de l'habitation ;
 
-29° De réaliser toutes opérations pour lesquelles les sociétés anonymes
+35° De réaliser toutes opérations pour lesquelles les sociétés anonymes
 d'habitations à loyer modéré sont ou seront habilitées par les textes
 législatifs s'y rapportant.
 
-4. Compétence territoriale - Siège social.
+4. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce sur le territoire de la région où est situé
 son siège social. Elle peut également intervenir sur le territoire des
@@ -198,14 +232,14 @@ Par décision prise dans les conditions prévues par le code de la construction 
 de l'habitation, le ministre chargé du logement peut étendre la compétence
 territoriale de la société.
 
-Le siège social de la société est fixé à : ...
+Le siège social de la société est fixé à :...
 
 Il pourra être transféré à l'intérieur de la région ou des régions où s'exerce
 la compétence de la société.
 
 5. Composition et modification du capital social.
 
-Le capital social de la société est composé de ... actions nominatives de ...
+Le capital social de la société est composé de... actions nominatives de...
 euros chacune, entièrement libérées.
 
 Toute augmentation du capital social de la société nécessite l'accord du préfet
@@ -269,7 +303,7 @@ demande.
 En cas de refus d'agrément, (le conseil d'administration) (le directoire) (1)
 est tenu, dans un délai de trois mois à compter de son refus, de faire acquérir
 les actions soit par un actionnaire, soit par une ou plusieurs personnes qu'il
-aura lui-même désignée(s) ou agréée(s). Dans ce cas, le prix ne peut être
+aura lui-même désignée (s) ou agréée (s). Dans ce cas, le prix ne peut être
 inférieur à celui de la cession non autorisée. Si, à l'expiration du délai
 susmentionné, l'achat n'est pas réalisé, l'agrément est considéré comme donné,
 sauf prolongation de ce délai par décision de justice à la demande de la société
@@ -281,7 +315,7 @@ peut demander leur rachat, à un prix qu'il propose et qui est au plus égal à
 celui résultant de l'application de l'article L. 423-4 du même code, par
 l'actionnaire de référence ou l'un des actionnaires qui le constituent.
 Celui-ci, à défaut de faire acquérir les actions soit par un autre actionnaire
-soit par une ou plusieurs personnes qu'il aura désignée(s), est tenu d'acquérir
+soit par une ou plusieurs personnes qu'il aura désignée (s), est tenu d'acquérir
 lui-même les actions, dans le délai de trois mois à compter de la réception de
 la demande.
 
@@ -332,7 +366,7 @@ du conseil d'administration ou par tout administrateur.
 
 Dans les assemblées générales de la société, le nombre total des voix dont
 disposent les actionnaires est égal à dix fois le nombre des actions de la
-société, soit ... voix (1).
+société, soit... voix (1).
 
 Un actionnaire dispose dans les assemblées générales d'un nombre de voix
 déterminé conformément à l'article R. 422-1-1 du code de la construction et de
@@ -344,10 +378,10 @@ comprenant au moins une commune de plus de 15000 habitants, communautés
 urbaines, communautés d'agglomération, syndicats d'agglomération nouvelle,
 départements et régions sur le territoire desquels la société possède des
 logements et logements-foyers et qui n'ont pas la qualité d'actionnaire de
-référence, est fixé à ... (2).
+référence, est fixé à... (2).
 
 Sous la même réserve, le nombre de voix attribuées à la catégorie des
-représentants des locataires est fixé à ... (2).
+représentants des locataires est fixé à... (2).
 
 Le droit de participer à une assemblée générale est subordonné à l'inscription
 de l'actionnaire dans les comptes de titres nominatifs tenus par la société au
@@ -395,9 +429,9 @@ société après chaque modification.
 
 15. Commission d'attribution.
 
-La (ou les) commission(s) d'attribution des logements prévue(s) en application
+La (ou les) commission (s) d'attribution des logements prévue (s) en application
 de l'article L. 441-2 du code de la construction et de l'habitation est (sont)
-constituée(s) et fonctionne(nt) conformément aux articles R. 422-2 et R. 441-9
+constituée (s) et fonctionne (nt) conformément aux articles R. 422-2 et R. 441-9
 du même code.
 
 16. Représentation des locataires.
