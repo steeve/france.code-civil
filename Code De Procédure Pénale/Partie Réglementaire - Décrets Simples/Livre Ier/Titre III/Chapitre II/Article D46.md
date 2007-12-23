@@ -1,24 +1,30 @@
 Article D46
 ----
-Les propositions de notation et les notations prévues aux articles D. 45 et D.
-45-1 sont établies sur un imprimé conforme au modèle fixé par le ministre de la
-justice.
+Les propositions de notation et les notations prévues à l'article D. 45 sont
+établies sur un imprimé conforme au modèle fixé par le ministre de la justice.
 
-Elles doivent comporter une note chiffrée de 0 à 5 et une appréciation sur
-chacun des éléments suivants :
+Elles doivent comporter une appréciation générale circonstanciée, ainsi qu'une
+note chiffrée de 0 à 10 et une appréciation sur chacun des éléments suivants
+lorsqu'ils ont été observés :
 
-1. Qualité de procédure et rédaction des rapports et des procès-verbaux ;
+1. Relations professionnelles avec l'autorité judiciaire ;
 
-2. Valeur des informations données au parquet ;
+2. Qualité de la coordination de l'activité de police judiciaire du service ou
+de l'unité ;
 
-3. Habileté professionnelle ;
+3. Qualité des procédures et de la rédaction des rapports et des procès-verbaux
+;
 
-4. Degré de confiance accordé ;
+4. Qualité des constatations et des investigations techniques ;
 
-5. Note générale.
+5. Valeur des informations données au parquet ;
 
-Elles doivent également comporter une appréciation générale circonstanciée.
+6. Engagement professionnel ;
 
-Si l'activité de l'officier de police judiciaire est demeurée inconnue de
-l'autorité judiciaire, l'imprimé visé au premier alinéa porte pour seule mention
-les mots : "activité judiciaire non observée".
+7. Capacité à conduire les investigations ;
+
+8. Degré de confiance accordé.
+
+Lorsque l'un de ces éléments n'a pas été observé, la mention : activité
+judiciaire non observée » est substituée à la notation chiffrée et à
+l'appréciation correspondantes.
