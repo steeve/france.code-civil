@@ -22,8 +22,8 @@ géographique protégée ou une spécialité traditionnelle garantie en les sach
 inexactes ;
 
 5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire
-qu'un produit bénéficie d'une appellation d'origine protégée, une indication
-géographique protégée ou une spécialité traditionnelle garantie ;
+qu'un produit bénéficie d'une appellation d'origine protégée, d'une indication
+géographique protégée ou d'une spécialité traditionnelle garantie ;
 
 6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une
 spécialité traditionnelle garantie, d'une appellation d'origine protégée ou

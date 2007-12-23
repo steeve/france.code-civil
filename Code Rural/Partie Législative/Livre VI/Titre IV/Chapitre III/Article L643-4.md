@@ -8,11 +8,12 @@ construction, d'exploitation du sol ou du sous-sol, d'implantation d'activités
 production, à la qualité ou à l'image du produit d'appellation.
 
 Préalablement à toute décision, cette autorité administrative doit recueillir
-l'avis du ministre de l'agriculture, pris après consultation de l'Institut
-national de l'origine et de la qualité.
+l'avis du ministre chargé de l'agriculture, pris après consultation de
+l'Institut national de l'origine et de la qualité.
 
-Le ministre de l'agriculture dispose, pour donner son avis, d'un délai de trois
-mois à compter de la date à laquelle il est saisi par l'autorité administrative.
+Le ministre chargé de l'agriculture dispose, pour donner son avis, d'un délai de
+trois mois à compter de la date à laquelle il est saisi par l'autorité
+administrative.
 
 Lorsqu'elle décide de ne pas suivre l'avis du ministre, l'autorité
 administrative en précise les motifs dans sa décision.
