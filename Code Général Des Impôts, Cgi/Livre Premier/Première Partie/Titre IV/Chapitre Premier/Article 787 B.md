@@ -10,6 +10,11 @@ engagement collectif de conservation d'une durée minimale de deux ans en cours
 au jour de la transmission, qui a été pris par le défunt ou le donateur, pour
 lui et ses ayants cause à titre gratuit, avec d'autres associés ;
 
+Lorsque les parts ou actions transmises par décès n'ont pas fait l'objet d'un
+engagement collectif de conservation, un ou des héritiers ou légataires peuvent
+entre eux ou avec d'autres associés conclure dans les six mois qui suivent la
+transmission l'engagement prévu au premier alinéa ;
+
 b. L'engagement collectif de conservation doit porter sur au moins 20 % des
 droits financiers et des droits de vote attachés aux titres émis par la société
 s'ils sont admis à la négociation sur un marché réglementé ou, à défaut, sur au
@@ -27,12 +32,13 @@ de conservation est soumis aux dispositions de l'article L. 233-11 du code de
 commerce.
 
 L'engagement collectif de conservation est réputé acquis lorsque les parts ou
-actions détenues depuis deux ans au moins par une même personne physique et son
-conjoint dépassent les seuils prévus au premier alinéa, sous réserve que cette
-personne ou son conjoint exerce depuis plus de deux ans au moins dans la société
-concernée son activité professionnelle principale ou l'une des fonctions
-énumérées au 1° de l'article 885 O bis lorsque la société est soumise à l'impôt
-sur les sociétés.
+actions détenues depuis deux ans au moins par une une personne physique seule ou
+avec son conjoint ou le partenaire avec lequel elle est liée par un pacte civil
+de solidarité atteignent les seuils prévus au premier alinéa, sous réserve que
+cette personne ou son conjoint ou son partenaire lié par un pacte civil de
+solidaritéexerce depuis plus de deux ans au moins dans la société concernée son
+activité professionnelle principale ou l'une des fonctions énumérées au 1° de
+l'article 885 O bis lorsque la société est soumise à l'impôt sur les sociétés.
 
 Pour le calcul des pourcentages prévus au premier alinéa, il est tenu compte des
 titres détenus par une société possédant directement une participation dans la
@@ -62,15 +68,16 @@ pendant toute la durée de l'engagement collectif.
 c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la
 déclaration de succession ou l'acte de donation, pour lui et ses ayants cause à
 titre gratuit, de conserver les parts ou les actions transmises pendant une
-durée de six ans à compter de la date d'expiration du délai visé au a.
+durée de quatre ans à compter de la date d'expiration du délai visé au a.
 
 d. L'un des associés mentionnés au a ou l'un des héritiers, donataires ou
 légataires mentionnés au c exerce effectivement dans la société dont les parts
-ou actions font l'objet de l'engagement collectif de conservation, pendant les
-cinq années qui suivent la date de la transmission, son activité professionnelle
-principale si celle-ci est une société de personnes visée aux articles 8 et 8
-ter, ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque
-celle-ci est soumise à l'impôt sur les sociétés, de plein droit ou sur option ;
+ou actions font l'objet de l'engagement collectif de conservation, pendant la
+durée de l'engagement prévu au a et pendant les trois années qui suivent la date
+de la transmission, son activité professionnelle principale si celle-ci est une
+société de personnes visée aux articles 8 et 8 ter, ou l'une des fonctions
+énumérées au 1° de l'article 885 O bis lorsque celle-ci est soumise à l'impôt
+sur les sociétés, de plein droit ou sur option ;
 
 e. La déclaration de succession ou l'acte de donation doit être appuyée d'une
 attestation de la société dont les parts ou actions font l'objet de l'engagement
@@ -85,9 +92,11 @@ les conditions prévues aux a et b sont remplies au 31 décembre de chaque anné
 f. En cas de non-respect de la condition prévue au c par suite de l'apport de
 titres d'une société ayant une activité industrielle, commerciale, artisanale,
 agricole ou libérale à une société dont l'objet unique est la gestion de son
-propre patrimoine constitué exclusivement d'une participation dans la société
-dont les parts ou actions ont été transmises, l'exonération partielle n'est pas
-remise en cause si les conditions suivantes sont réunies :
+propre patrimoine constitué exclusivement de participations dans une ou
+plusieurs sociétés du même groupe que la société dont les parts ou actions ont
+été transmises et ayant une activité similaire, connexe ou complémentaire,
+l'exonération partielle n'est pas remise en cause si les conditions suivantes
+sont réunies :
 
 1° La société bénéficiaire de l'apport est détenue en totalité par les personnes
 physiques bénéficiaires de l'exonération. Le donateur peut toutefois détenir une
