@@ -4,7 +4,7 @@ La retraite prévue à l'article qui précède est attribuée à partir de l'âg
 soixante ans à tout titulaire de la carte du combattant bénéficiaire du livre IX
 du Code de la sécurité sociale.
 
-Son montant est déterminé par l'application de l'indice de pension 37 tel qu'il
+Son montant est déterminé par l'application de l'indice de pension 39 tel qu'il
 est défini à l'article L. 8 bis.
 
 Les anciens combattants ne remplissant pas les conditions prévues au premier
@@ -19,11 +19,11 @@ de l'article R. 224 du présent code.
 
 Les titulaires de la carte du combattant au titre des dispositions du paragraphe
 A de l'article R. 224 du code, âgés de 65 ans, bénéficient de la retraite au
-taux déterminé par application de l'indice de pension 37.
+taux déterminé par application de l'indice de pension 39.
 
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux
 alinéas précédents, bénéficient de la retraite au taux déterminé par application
-de l'indice de pension 37.
+de l'indice de pension 39.
 
 Les bénéficiaires d'une pension d'invalidité au titre du présent code,
 indemnisant une ou plusieurs infirmités imputables à des services accomplis au
