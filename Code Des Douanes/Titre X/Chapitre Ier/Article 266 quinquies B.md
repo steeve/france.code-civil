@@ -36,9 +36,12 @@ dans la nomenclature statistique des activités économiques dans la Communauté
 européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du
 Conseil, du 9 octobre 1990, sous la rubrique " DI 26 " ;
 
-2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de
-consommation mentionnée au 1 lorsqu'ils sont consommés dans les conditions
-prévues au III de l'article 265 C ;
+2° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de
+consommation lorsqu'ils sont consommés dans l'enceinte des établissements de
+production de produits pétroliers ou assimilés mentionnés au tableau B du 1 de
+l'article 265 du présent code, lorsque cette consommation est effectuée pour la
+production de ces produits énergétiques ou pour la production de tout ou partie
+de l'énergie nécessaire à leur fabrication ;
 
 3° Les modalités d'application des 1° et 2° ainsi que les modalités du contrôle
 de la destination des produits et de leur affectation aux usages qui y sont
