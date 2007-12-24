@@ -15,7 +15,7 @@ Toutefois, le document d'accompagnement n'est pas exigé lorsque les produits
 sont expédiés vers un pays de l'AELE ou vers un autre Etat membre de la
 Communauté européenne via des pays de l'AELE, sous le régime de transit
 communautaire interne ou via un ou plusieurs pays tiers qui ne sont pas des pays
-de l'AELE, sous le couvert d'un carnet T. I. R. ou d'un carnet A. T. A..
+de l'AELE, sous le couvert d'un carnet T.I.R. ou d'un carnet A.T.A..
 
 Il en est de même lorsque les produits se trouvent sous le régime du transit
 communautaire externe.
@@ -49,3 +49,7 @@ les alcools dénaturés totalement mentionnés au a du I de l'article 302 D bis.
 Pour les bières, l'exigence de ce document d'accompagnement est limitée aux
 échanges à destination ou en provenance d'un autre Etat membre de la Communauté
 européenne (1).
+
+III. Les documents d'accompagnement prévus aux I et II peuvent être établis au
+moyen du service de suivi informatique des mouvements de marchandises soumises à
+accises, sur autorisation du directeur régional des douanes et droits indirects.
