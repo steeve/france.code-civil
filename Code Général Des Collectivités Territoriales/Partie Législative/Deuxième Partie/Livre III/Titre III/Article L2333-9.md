@@ -1,13 +1,9 @@
 Article L2333-9
 ----
-Ne peuvent être taxés l'affichage dans les lieux couverts régi s par des
-règlements spéciaux, l'affichage effectué par la société nationale des chemins
-de fer français, la régie autonome des transports parisiens, les transports
-régionaux ou locaux pour leurs besoins et services, l'affichage dans les locaux
-ou voitures de la société nationale des chemins de fer français, de la régie
-autonome des transports parisiens, des transports régionaux ou locaux.
+Une délibération du conseil municipal, prise avant le 1er juillet de l'année
+précédant celle de l'imposition, fixe les tarifs de la taxe sur les emplacements
+publicitaires ou de la taxe sur les affiches publicitaires.
 
-Les affiches, réclames et enseignes exonérées du droit de timbre perçu au profit
-de l'Etat antérieurement au 1er janvier 1949 sont dispensées de la taxe sur la
-publicité instituée par l'article L. 2333-6. La liste en est établie par arrêté
-interministériel.
+Lorsque, dans les délais prévus par la loi, le conseil municipal a créé l'une
+des deux taxes mais n'a pas délibéré sur les tarifs, les tarifs maximaux prévus
+par les articles L. 2333-10 ou L. 2333-11 sont applicables de plein droit.

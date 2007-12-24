@@ -1,9 +1,9 @@
 Article L2333-13
 ----
-Les affiches, réclames ou enseignes peintes ou sur papier, pour lesquelles la
-taxe n'a pas été acquittée ou l'a été insuffisamment, peuvent être lacérées ou
-détruites sur l'ordre de l'autorité municipale et aux frais des contrevenants.
+Les communes peuvent, par délibération du conseil municipal, pour les enseignes,
+et pour les préenseignes visées au troisième alinéa de l'article L. 581-19 du
+code de l'environnement, fixer des tarifs inférieurs à ceux des autres types de
+supports.
 
-En ce qui concerne la publicité lumineuse, les sources d'éclairage peuvent être
-coupées dès la constatation de l'infraction dans les conditions fixées à
-l'alinéa précédent.
+Elles peuvent en outre, dans les mêmes conditions, instituer une tarification
+variable selon les rues.
