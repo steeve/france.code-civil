@@ -12,7 +12,7 @@ précédent, les infractions ci-après quand elles se rapportent à des marchand
 de la catégorie de celles qui sont passibles de droits ou taxes :
 
 a) les déficits dans le nombre des colis déclarés, manifestés ou transportés
-sous acquit-à-caution ou document en tenant lieu :
+sous acquit-à-caution ou document en tenant lieu ;
 
 b) les déficits sur la quantité des marchandises placées sous un régime
 suspensif, en magasins et aires de dédouanement ou en magasins et aires
@@ -29,11 +29,12 @@ acquits-à-caution et soumissions ;
 
 f) les excédents sur le poids, le nombre ou la mesure déclarés ;
 
-g) toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment
+g) toute manœuvre ayant pour but ou pour résultat de faire bénéficier indûment
 son auteur ou un tiers d'une exonération, d'un dégrèvement ou d'une taxe réduite
-prévus en ce qui concerne les produits pétroliers ;
+prévus en ce qui concerne les produits énergétiques mentionnés aux articles 265,
+266 quinquies ou 266 quinquies B ;
 
-h) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment
+h) Toute manœuvre ayant pour but ou pour résultat de faire bénéficier indûment
 son auteur ou un tiers d'une exonération, d'un dégrèvement, d'une déduction,
 d'un remboursement ou d'une taxe réduite prévus en ce qui concerne l'octroi de
 mer et l'octroi de mer régional ;

@@ -3,9 +3,10 @@ Article 381 bis
 L'administration peut requérir des Etats membres de la Communauté européenne et
 est tenue de leur prêter assistance en matière de recouvrement et d'échange de
 renseignements, relatifs aux créances de droits, taxes et perceptions de toute
-nature à l'importation et à l'exportation, aux droits d'accises sur les huiles
-minérales, ainsi qu'aux intérêts, pénalités, amendes administratives et frais
-relatifs à ces créances, à l'exclusion de toute sanction à caractère pénal.
+nature à l'importation et à l'exportation, aux droits d'accises sur les produits
+énergétiques mentionnés aux articles 265, 266 quinquies et 266 quinquies B,
+ainsi qu'aux intérêts, pénalités, amendes administratives et frais relatifs à
+ces créances, à l'exclusion de toute sanction à caractère pénal.
 
 Le recouvrement des créances visées par le présent article est confié aux
 comptables des douanes, à la demande d'un Etat membre de la Communauté

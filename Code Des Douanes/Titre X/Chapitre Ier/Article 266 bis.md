@@ -11,3 +11,8 @@ les cuves des stations-services.
 
 Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé
 lorsque leur montant est inférieur à 300 euros.
+
+Ce dispositif ne s'applique pas aux réductions ou augmentations de la réfaction
+du taux de la taxe intérieure de consommation votées par les conseils régionaux
+ou l'Assemblée de Corse conformément aux dispositions du troisième alinéa du 2
+de l'article 265.

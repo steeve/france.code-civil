@@ -54,7 +54,7 @@ relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois.
 Les expéditions vers un autre Etat membre de la Communauté européenne et les
 exportations vers un pays tiers sont exonérées du paiement du droit spécifique
 lorsqu'elles sont réalisées directement et sans intermédiaire par les personnes
-mentionnées au premier alinéa ou par leurs sociétés de distribution.
+mentionnées au premier alinéa ou par une société de distribution (1).
 
 III. Les modalités d'application des dispositions qui précèdent seront, en tant
 que de besoin, fixées par décret.

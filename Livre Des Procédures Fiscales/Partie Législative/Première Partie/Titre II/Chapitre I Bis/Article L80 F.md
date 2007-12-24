@@ -3,12 +3,12 @@ Article L80 F
 Pour rechercher les manquements aux règles de facturation auxquelles sont soumis
 les assujettis à la taxe sur la valeur ajoutée en application du code général
 des impôts ainsi qu'aux dispositions adoptées par les Etats membres pour
-l'application de l'article 22-3 de la sixième directive (CEE) n° 77-388 du 17
-mai 1977, les agents des impôts ayant au moins le grade de contrôleur peuvent se
-faire présenter les factures, la comptabilité matière ainsi que les livres, les
-registres et les documents professionnels pouvant se rapporter à des opérations
-ayant donné ou devant donner lieu à facturation et procéder à la constatation
-matérielle des éléments physiques de l'exploitation.
+l'application des articles 217 à 248 de la directive 2006 / 112 / CE du Conseil,
+du 28 novembre 2006, les agents des impôts ayant au moins le grade de contrôleur
+peuvent se faire présenter les factures, la comptabilité matière ainsi que les
+livres, les registres et les documents professionnels pouvant se rapporter à des
+opérations ayant donné ou devant donner lieu à facturation et procéder à la
+constatation matérielle des éléments physiques de l'exploitation.
 
 A cette fin, ils peuvent avoir accès de 8 heures à 20 heures et durant les
 heures d'activité professionnelle de l'assujetti aux locaux à usage

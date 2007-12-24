@@ -29,9 +29,8 @@ acquisitions de biens, autres que des moyens de transport neufs, les alcools,
 les boissons alcooliques, les huiles minérales et les tabacs manufacturés, ayant
 donné lieu à une livraison de biens située dans un autre Etat membre de la
 Communauté européenne, en application des dispositions de la législation de cet
-Etat prise pour la mise en oeuvre de l'article 8 et du B de l'article 28 ter de
-la directive CEE n° 77-388 du 17 mai 1977 du Conseil des communautés
-européennes.
+Etat prise pour la mise en oeuvre des articles 31 à 39 de la directive 2006 /
+112 / CE du Conseil du 28 novembre 2006.
 
 2° bis Les acquisitions intracommunautaires de biens d'occasion d'oeuvres d'art,
 d'objets de collection ou d'antiquité effectuées à titre onéreux par un
@@ -39,9 +38,8 @@ assujetti agissant en tant que tel ou par une personne morale non assujettie ne
 sont pas soumises à la taxe sur la valeur ajoutée lorsque le vendeur ou
 l'assujetti est un assujetti revendeur qui a appliqué dans l'Etat membre de
 départ de l'expédition ou du transport du bien les dispositions de la
-législation de cet Etat prises pour la mise en oeuvre des B ou C de l'article 26
-bis de la directive n° 77/388/CEE du Conseil des Communautés européennes du 17
-mai 1977.
+législation de cet Etat prises pour la mise en oeuvre des articles 312 à 325 ou
+333 à 341 de la directive 2006 / 112 / CE du Conseil du 28 novembre 2006.
 
 3° Est considérée comme acquisition intracommunautaire l'obtention du pouvoir de
 disposer comme un propriétaire d'un bien meuble corporel expédié ou transporté

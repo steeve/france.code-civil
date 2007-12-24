@@ -1,13 +1,11 @@
 Article 289 C
 ----
 1. Les échanges de biens entre Etats membres de la Communauté européenne font
-l'objet de la déclaration périodique, prévue à l'article 13 du règlement (CEE)
-n° 3330-91 du 7 novembre 1991 relatif aux statistiques des échanges de biens
-entre Etats membres.
+l'objet de la déclaration périodique, prévue à l'article 5 du règlement (CE) n°
+638 / 2004 du Parlement européen et du Conseil, du 31 mars 2004.
 
-2. L'état récapitulatif des clients mentionné à l'article 289 B et la
-déclaration statistique périodique prévue au 1 font l'objet d'une déclaration
-unique.
+2.L'état récapitulatif des clients mentionné à l'article 289 B et la déclaration
+statistique périodique prévue au 1 font l'objet d'une déclaration unique.
 
 Un décret détermine le contenu et les modalités de cette déclaration.
 

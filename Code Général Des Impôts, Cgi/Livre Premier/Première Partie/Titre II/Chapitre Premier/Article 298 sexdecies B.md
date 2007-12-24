@@ -18,5 +18,5 @@ du 2.
 4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur
 la facture qu'ils délivrent la mention :
 
-"application de l'article 26 ter C de la directive 77/388/CEE modifiée". A
-défaut, l'option est réputée ne pas avoir été exercée.
+" Application des articles 348 à 351 de la directive 2006 / 112 / CE du Conseil,
+du 28 novembre 2006 ". A défaut, l'option est réputée ne pas avoir été exercée.

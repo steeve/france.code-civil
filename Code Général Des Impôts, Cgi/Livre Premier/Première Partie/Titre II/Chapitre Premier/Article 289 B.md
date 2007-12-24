@@ -16,9 +16,8 @@ ajoutée dans l'Etat membre où les biens lui ont été livrés.
 
 3° Pour chaque acquéreur, le montant total des livraisons de biens effectuées
 par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la
-taxe est devenue exigible dans l'autre Etat membre conformément à l'article 28
-quinquies 2 de la directive (CEE) n° 77-388 modifiée du 17 mai 1977 du Conseil
-des communautés européennes.
+taxe est devenue exigible dans l'autre Etat membre conformément au 1 de
+l'article 69 de la directive 2006 / 112 / CE du Conseil, du 28 novembre 2006.
 
 4° Pour les livraisons de biens exonérées en vertu du 2° du I de l'article 262
 ter, le numéro par lequel l'assujetti est identifié à la taxe sur la valeur

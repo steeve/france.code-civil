@@ -18,10 +18,8 @@ l'article 170 le montant des recettes annuelles et des plus ou moins-values
 réalisées ou subies au cours de cette même année.
 
 3. Sous réserve des dispositions du 6, les dispositions prévues aux 1 et 2
-demeurent applicables pour l'établissement de l'imposition due au titre de la
-première année au cours de laquelle la limite définie au 1 est dépassée. En ce
-cas, le montant des recettes excédant cette limite ne fait l'objet d'aucun
-abattement.
+demeurent applicables pour l'établissement de l'imposition due au titre des deux
+premières années au cours desquelles la limite définie au 1 est dépassée (1).
 
 Les dispositions du premier alinéa ne sont pas applicables en cas de changement
 d'activité.

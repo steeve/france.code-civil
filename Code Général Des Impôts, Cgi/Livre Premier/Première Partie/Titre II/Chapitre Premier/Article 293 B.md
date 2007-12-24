@@ -36,6 +36,11 @@ valeur ajoutée pour les prestations de services et les livraisons de biens
 effectuées à compter du premier jour du mois au cours duquel ces chiffres sont
 dépassés.
 
+4. Les dispositions du I continuent de s'appliquer aux assujettis dont le
+chiffre d'affaires de l'année précédente a excédé les seuils mentionnés au I et
+dont le chiffre d'affaires de l'année en cours n'excède pas les seuils
+mentionnés au présent II (1).
+
 III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 37
 400 euros :
 

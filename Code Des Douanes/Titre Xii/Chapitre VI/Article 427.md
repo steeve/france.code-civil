@@ -19,6 +19,7 @@ formalités douanières, d'automobiles, de motocyclettes ou d'aéronefs ;
 
 5° le détournement de marchandises prohibées de leur destination privilégiée ;
 
-6° le détournement de produits pétroliers d'une destination privilégiée au point
-de vue fiscal et notamment l'utilisation de carburants agricoles à des usages
-autres que ceux qui sont fixés par la loi.
+6° le détournement de produits énergétiques mentionnés aux articles 265, 266
+quinquies ou 266 quinquies B d'une destination privilégiée au point de vue
+fiscal et notamment l'utilisation de carburants agricoles à des usages autres
+que ceux qui sont fixés par la loi.

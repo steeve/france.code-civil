@@ -26,16 +26,14 @@ a. Le numéro d'identification à la taxe sur la valeur ajoutée de l'acquéreur
 b. Le numéro d'identification à la taxe sur la valeur ajoutée en France du
 destinataire de la livraison ;
 
-c. La mention : " Application de l'article 28 quater, titre E, paragraphe 3, de
-la directive (CEE) n° 77-388 du 17 mai 1977 modifiée ".
+c. La mention : " Application de l'article 141 de la directive 2006 / 112 / CE
+du Conseil, du 28 novembre 2006 ".
 
 II. Pour l'application du II de l'article 258 C, sont considérées comme soumises
 à la taxe sur la valeur ajoutée dans l'Etat membre de destination des biens, les
-acquisitions qui y sont réalisées dans les conditions de l'article 28 quater,
-titre E, paragraphe 3, de la directive (CEE) n° 77-388 du Conseil des
-communautés européennes du 17 mai 1977, en matière d'harmonisation des
-législations des Etats membres relatives aux taxes sur le chiffre d'affaires,
-modifiée, et sous réserve que l'acquéreur :
+acquisitions qui y sont réalisées dans les conditions de l'article 141 de la
+directive 2006 / 112 / CE du Conseil, du 28 novembre 2006, et sous réserve que
+l'acquéreur :
 
 1° se soit assuré qu'a été délivrée la facture mentionnée à l'article 289 au
 destinataire de la livraison consécutive dans l'Etat membre où les biens ont été
@@ -47,8 +45,8 @@ b. Le numéro d'identification à la taxe sur la valeur ajoutée du destinataire
 la livraison consécutive dans l'Etat membre où les biens ont été expédiés ou
 transportés ;
 
-c. La mention : "Application de l'article 28 quater, titre E, paragraphe 3, de
-la directive (CEE) n° 77-388 du 17 mai 1977 modifiée".
+c. La mention : " Application de l'article 141 de la directive 2006 / 112 / CE
+du Conseil, du 28 novembre 2006 ".
 
 2° Dépose l'état récapitulatif mentionné à l'article 289 B dans lequel doivent
 figurer distinctement :

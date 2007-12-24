@@ -18,10 +18,11 @@ d) dans les locaux des entreprises de transport par route (registres de prise en
 charge, carnets d'enregistrement des colis, carnets de livraison, feuilles de
 route, lettres de voitures, bordereaux d'expédition, etc.) ;
 
-e) dans les locaux des agences, y compris celles dites de "transports rapides",
-qui se chargent de la réception, du groupage, de l'expédition par tous modes de
-locomotion (fer, route, eau, air) et de la livraison de tous colis (bordereaux
-détaillés d'expéditions collectives, récépissés, carnets de livraison, etc.) ;
+e) dans les locaux des agences, y compris celles dites de " transports rapides
+", qui se chargent de la réception, du groupage, de l'expédition par tous modes
+de locomotion (fer, route, eau, air) et de la livraison de tous colis
+(bordereaux détaillés d'expéditions collectives, récépissés, carnets de
+livraison, etc.) ;
 
 f) chez les commissionnaires ou transitaires ;
 
@@ -83,12 +84,4 @@ autorisés à mettre en oeuvre les dispositions du présent article pour le
 contrôle des opérations douanières ou agricoles réalisées dans les autres Etats
 membres.
 
-8° Sous réserve de réciprocité, l'administration des douanes et droits indirects
-peut communiquer aux autorités compétentes des Etats membres de la Communauté
-européenne des renseignements et documents pour l'établissement des droits
-indirects grevant les huiles minérales.
-
-Elle peut faire état, à titre de preuve, des renseignements et documents fournis
-par les autorités compétentes des Etats membres de la Communauté européenne.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
+8° (Abrogé)

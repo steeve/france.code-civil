@@ -47,18 +47,15 @@ transporté en France à destination de cet assujetti ;
 
 c) A faire l'objet d'une installation ou d'un montage.
 
-d. A faire l'objet de livraisons à bord des moyens de transport, effectuées par
-l'assujetti, dans les conditions mentionnées au c du 1 de l'article 8 de la
-directive 77/388/CEE du Conseil du 17 mai 1977.
+d) A faire l'objet de livraisons à bord des moyens de transport, effectuées par
+l'assujetti, dans les conditions mentionnées à l'article 37 de la directive 2006
+/ 112 / CE du Conseil du 28 novembre 2006.
 
 Pour l'application du présent III, n'est pas assimilé à une livraison de biens,
 le transfert, au sens des dispositions du premier alinéa, de gaz naturel ou
 d'électricité vers un autre Etat membre pour les besoins d'une livraison dont le
-lieu y est situé, conformément aux dispositions des d et e du 1 de l'article 8
-de la directive 77/388/CEE du Conseil, du 17 mai 1977, en matière
-d'harmonisation des législations des Etats membres relatives aux taxes sur le
-chiffre d'affaires - Système commun de taxe sur la valeur ajoutée : assiette
-uniforme.
+lieu y est situé, conformément aux dispositions des articles 38 et 39 de la
+directive 2006 / 112 / CE du Conseil du 28 novembre 2006.
 
 IV. 1° Les opérations autres que celles qui sont définies au II, notamment la
 cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne
@@ -92,7 +89,7 @@ Le chiffre d'affaires afférent aux opérations, autres que celles de garde et d
 gestion, mentionnées ci-dessus est constitué par le montant des profits et
 autres rémunérations.
 
-V. L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
+V.L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
 s'entremet dans une livraison de bien ou une prestation de services, est réputé
 avoir personnellement acquis et livré le bien, ou reçu et fourni les services
 considérés.

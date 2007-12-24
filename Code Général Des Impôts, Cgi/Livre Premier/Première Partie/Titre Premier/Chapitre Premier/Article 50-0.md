@@ -28,10 +28,9 @@ phrase précédente, les abattements mentionnés au troisième alinéa sont rép
 tenir compte des amortissements pratiqués selon le mode linéaire.
 
 Sous réserve des dispositions du b du 2, ce régime demeure applicable pour
-l'établissement de l'imposition due au titre de la première année au cours de
-laquelle les chiffres d'affaires limites mentionnés aux premier et deuxième
-alinéas sont dépassés. En ce cas, le montant de chiffre d'affaires excédant ces
-limites ne fait l'objet d'aucun abattement.
+l'établissement de l'imposition due au titre des deux premières années au cours
+desquelles les chiffres d'affaires mentionnés aux premier et deuxième alinéas
+sont dépassés (1).
 
 Les dispositions du cinquième alinéa ne sont pas applicables en cas de
 changement d'activité.

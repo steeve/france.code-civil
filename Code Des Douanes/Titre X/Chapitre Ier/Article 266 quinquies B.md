@@ -1,8 +1,8 @@
 Article 266 quinquies B
 ----
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et
-2704 et destinés à être utilisés comme combustible sont soumis à une taxe
-intérieure de consommation.
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704
+et destinés à être utilisés comme combustible sont soumis à une taxe intérieure
+de consommation.
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la
 livraison de ces produits par un fournisseur à un utilisateur final. Le fait
@@ -33,15 +33,12 @@ usage ;
 
 c) Dans un procédé de fabrication de produits minéraux non métalliques classé
 dans la nomenclature statistique des activités économiques dans la Communauté
-européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037/90 du
-Conseil, du 9 octobre 1990, sous la rubrique "DI 26" ;
+européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du
+Conseil, du 9 octobre 1990, sous la rubrique " DI 26 " ;
 
-2° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de
-consommation lorsqu'ils sont consommés dans l'enceinte des établissements de
-production de produits pétroliers ou assimilés mentionnés au tableau B du 1 de
-l'article 265 du présent code, lorsque cette consommation est effectuée pour la
-production de ces produits énergétiques ou pour la production de tout ou partie
-de l'énergie nécessaire à leur fabrication ;
+2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de
+consommation mentionnée au 1 lorsqu'ils sont consommés dans les conditions
+prévues au III de l'article 265 C ;
 
 3° Les modalités d'application des 1° et 2° ainsi que les modalités du contrôle
 de la destination des produits et de leur affectation aux usages qui y sont
@@ -55,7 +52,14 @@ des installations mentionnées à l'article 266 quinquies A ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 
-3° Pour la consommation des particuliers, y compris sous forme collective.
+3° Pour la consommation des particuliers, y compris sous forme collective ;
+
+4° Par les entreprises de valorisation de la biomasse, sous réserve qu'elles
+soient soumises au régime des quotas d'émission de gaz à effet de serre prévu
+aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles
+appliquent des accords volontaires de réduction de gaz à effet de serre
+permettant d'atteindre des objectifs environnementaux équivalents ou d'accroître
+leur rendement énergétique.
 
 6. La taxe intérieure de consommation est assise sur la quantité de produit
 effectivement livré, exprimée en mégawattheures, après arrondissement au
@@ -85,6 +89,4 @@ tenues, sans préjudice des pénalités applicables, au paiement de la taxe lors
 ces produits n'ont pas été affectés à la destination ou à l'utilisation ayant
 justifié l'absence de taxation ou l'exonération.
 
-9. Le produit de la taxe intérieure de consommation applicable aux houilles, aux
-lignites et aux cokes est affecté à l'Agence de l'environnement et de la
-maîtrise de l'énergie.
+9. Abrogé (à compter du 1er janvier 2008).
