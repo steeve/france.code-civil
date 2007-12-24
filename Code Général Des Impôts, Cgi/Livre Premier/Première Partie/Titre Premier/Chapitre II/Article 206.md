@@ -111,6 +111,10 @@ associations de services aux personnes, agréées en application de l'article
 L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
 prévues au 5.
 
+5 ter. Pour les sociétés coopératives d'intérêt collectif, la part des excédents
+mis en réserves impartageables est déductible de l'assiette de l'impôt sur les
+sociétés (1).
+
 6. 1° L'organe central du crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier
 et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont

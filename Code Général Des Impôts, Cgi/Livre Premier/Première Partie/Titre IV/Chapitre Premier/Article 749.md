@@ -8,3 +8,6 @@ ces fonds entre les porteurs.
 Lorsque le porteur des parts d'un fonds de placement immobilier se trouve dans
 l'un des cas mentionnés aux a et b de l'article 730 quinquies, un droit
 d'enregistrement au taux fixé au 2° du I de l'article 726 est applicable.
+Toutefois, ce droit d'enregistrement ne s'applique pas lorsque le porteur qui
+demande le rachat de ses parts est lui-même un organisme de placement collectif
+immobilier.

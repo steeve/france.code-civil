@@ -53,6 +53,6 @@ L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la pé
 au titre duquel ou de laquelle elle a été exercée les conditions fixées à
 l'article 44 sexies-0 A sont remplies.
 
-IV. - L'exonération prévue au I s'applique dans les limites prévues par le
-règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis.
+IV. - Le bénéfice de l'exonération prévue au I est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.

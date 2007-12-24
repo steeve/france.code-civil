@@ -39,11 +39,11 @@ l'article 39 entre cette entreprise et ces dernières sociétés ou ces fonds. P
 les sociétés membres d'un groupe, la condition tenant à la composition du
 capital doit être remplie par la société mère du groupe.
 
-Le présent article s'applique dans les limites prévues par le règlement (CE) n°
-70/2001 de la Commission, du 12 janvier 2001, concernant l'application des
-articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et
-moyennes entreprises, modifié par le règlement (CE) n° 364/2004, du 25 février
-2004, pour les immeubles mentionnés au premier alinéa, et dans les conditions et
-limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier
-2001, concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis pour les travaux mentionnés au deuxième alinéa.
+Pour les immeubles mentionnés au premier alinéa, le bénéfice de l'amortissement
+exceptionnel est subordonné au respect du règlement (CE) n° 70 / 2001 de la
+Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du
+traité CE aux aides d'Etat en faveur des petites et moyennes entreprises. Pour
+les travaux mentionnés au deuxième alinéa, le bénéfice de l'amortissement
+exceptionnel est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
+traité aux aides de minimis.

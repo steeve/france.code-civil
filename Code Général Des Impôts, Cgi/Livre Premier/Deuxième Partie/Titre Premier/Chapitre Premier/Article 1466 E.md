@@ -12,12 +12,14 @@ développement validé à compter du 1er janvier 2005.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 établissement public de coopération intercommunale doté d'une fiscalité propre à
-raison de l'activité bénéficiant de l'exonération. Elle s'applique dans les
-limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier
-2001, concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis. L'exonération cesse définitivement de s'appliquer à compter de la
-deuxième année qui suit la période de référence mentionnée au premier alinéa
-pendant laquelle le redevable ne remplit plus les conditions requises.
+raison de l'activité bénéficiant de l'exonération. L'exonération cesse
+définitivement de s'appliquer à compter de la deuxième année qui suit la période
+de référence mentionnée au premier alinéa pendant laquelle le redevable ne
+remplit plus les conditions requises.
+
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
+/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.
 
 En cas de changement d'exploitant au cours d'une période d'exonération, celle-ci
 est maintenue pour la période restant à courir dès lors que le nouvel exploitant
@@ -35,8 +37,8 @@ l'article 1477, les éléments entrant dans le champ d'application de
 l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
-des exonérations prévues aux articles 1464 B, 1464 D, 1465, 1465 A, 1465 B, 1466
-A, 1466 B, 1466 C, 1466 D et de celle du présent article, le contribuable doit
+des exonérations prévues aux articles 1464 B,1464 D,1465,1465 A,1465 B,1466
+A,1466 B,1466 C,1466 D et de celle du présent article, le contribuable doit
 préciser le régime sous lequel il entend se placer. Ce choix, qui est
 irrévocable et vaut pour l'ensemble des collectivités, doit être exercé dans le
 délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la

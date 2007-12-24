@@ -32,7 +32,7 @@ de conservation est soumis aux dispositions de l'article L. 233-11 du code de
 commerce.
 
 L'engagement collectif de conservation est réputé acquis lorsque les parts ou
-actions détenues depuis deux ans au moins par une une personne physique seule ou
+actions détenues depuis deux ans au moins par une personne physique seule ou
 avec son conjoint ou le partenaire avec lequel elle est liée par un pacte civil
 de solidarité atteignent les seuils prévus au premier alinéa, sous réserve que
 cette personne ou son conjoint ou son partenaire lié par un pacte civil de
@@ -132,7 +132,13 @@ conservés par le signataire de l'engagement jusqu'à son terme.
 
 De même, cette exonération n'est pas remise en cause lorsque la condition prévue
 aux b ou c n'est pas respectée par suite d'une annulation des titres pour cause
-de pertes ou de liquidation judiciaire.
+de pertes ou de liquidation judiciaire ;
+
+i) En cas de non-respect de la condition prévue au c par suite d'une donation,
+l'exonération partielle accordée au titre de la mutation à titre gratuit n'est
+pas remise en cause, à condition que le ou les donataires soient le ou les
+descendants du donateur et que le ou les donataires poursuivent l'engagement
+prévu au c jusqu'à son terme.
 
 Les dispositions du présent article s'appliquent en cas de donation avec réserve
 d'usufruit à la condition que les droits de vote de l'usufruitier soient

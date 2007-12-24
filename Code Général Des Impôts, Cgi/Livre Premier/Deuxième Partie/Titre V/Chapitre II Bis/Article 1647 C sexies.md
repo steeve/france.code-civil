@@ -52,9 +52,7 @@ l'établissement. Pour les redevables non tenus à ces déclarations, les
 indications sont portées sur papier libre dans les mêmes délais.
 
 IV. - Le crédit d'impôt s'applique après les dégrèvements prévus aux articles
-1647 C à 1647 C quinquies et dans les limites prévues par le règlement (CE) n°
-69/2001 de la Commission du 12 janvier 2001 concernant l'application des
-articles 87 et 88 du traité CE aux aides de minimis.
+1647 C à 1647 C quinquies (1).
 
 N'ouvrent pas droit au crédit d'impôt les emplois situés dans les établissements
 où est exercée à titre principal une activité relevant de l'un des secteurs
@@ -71,3 +69,7 @@ V. - Si, pendant une période d'application du crédit d'impôt, ou dans les cin
 années suivant la fin de celle-ci, le redevable transfère hors de l'Espace
 économique européen les emplois ayant ouvert droit au crédit d'impôt, il est
 tenu de reverser les sommes dont il a bénéficié à ce titre.
+
+VI. - Le bénéfice du crédit d'impôt est subordonné au respect du règlement (CE)
+n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis (1).

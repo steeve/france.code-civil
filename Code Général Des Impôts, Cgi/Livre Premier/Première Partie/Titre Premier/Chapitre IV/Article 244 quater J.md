@@ -1,6 +1,6 @@
 Article 244 quater J
 ----
-I. - Les établissements de crédit mentionnés à l'article L. 511-1 du code
+I.-Les établissements de crédit mentionnés à l'article L. 511-1 du code
 monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
 revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de la
 Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace
@@ -52,10 +52,10 @@ référence, au sens du 1° du IV de l'article 1417, des personnes mentionnées 
 huitième alinéa au titre de :
 
 1° L'avant-dernière année précédant celle de l'offre de l'avance lorsque cette
-dernière intervient entre le 1er janvier et le 31 mars ;
+dernière intervient entre le 1er janvier et le 31 mai ;
 
 2° L'année précédant celle de l'offre de l'avance lorsque cette dernière
-intervient entre le 1er avril et le 31 décembre.
+intervient entre le 1er juin et le 31 décembre.
 
 En cas de modification de la composition du foyer fiscal du bénéficiaire de
 l'avance remboursable sans intérêt au cours de l'année retenue pour la
@@ -64,7 +64,7 @@ corrigés en tenant compte de la variation des revenus résultant de cette
 modification, le cas échéant de manière forfaitaire. Les modalités de calcul de
 ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 51 900
+Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
@@ -87,8 +87,8 @@ aux logements locatifs sociaux visés au I de l'article R. 331-1 du même code.
 Un décret en Conseil d'Etat définit les caractéristiques financières et les
 conditions d'attribution de l'avance remboursable sans intérêt.
 
-II. - Le montant du crédit d'impôt est égal à la somme actualisée des écarts
-entre les mensualités dues au titre de l'avance remboursable sans intérêt et les
+II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre
+les mensualités dues au titre de l'avance remboursable sans intérêt et les
 mensualités d'un prêt consenti à des conditions normales de taux à la date
 d'émission de l'offre de l'avance remboursable sans intérêt.
 
@@ -109,27 +109,27 @@ des prêts à taux zéro y afférents et versés à des personnes physiques par 
 société scindée ou apporteuse soient transférés à la société bénéficiaire des
 apports.
 
-III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une
+III.-Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une
 convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à
 une convention type approuvée par arrêté conjoint du ministre chargé de
 l'économie et du ministre chargé du logement.
 
-IV. - Une convention conclue entre l'établissement de crédit mentionné au I et
+IV.-Une convention conclue entre l'établissement de crédit mentionné au I et
 l'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la
 propriété mentionné à l'article L. 312-1 du code de la construction et de
 l'habitation définit les modalités de déclaration par l'établissement de crédit
 des avances remboursables, le contrôle de l'éligibilité des avances
 remboursables et le suivi des crédits d'impôt.
 
-V. - L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à
-la propriété mentionné au IV est tenu de fournir à l'administration fiscale dans
+V.-L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la
+propriété mentionné au IV est tenu de fournir à l'administration fiscale dans
 les quatre mois de la clôture de l'exercice de chaque établissement de crédit
 les informations relatives aux avances remboursables sans intérêt versées par
 chaque établissement de crédit, le montant total des crédits d'impôt
 correspondants obtenus ainsi que leur suivi.
 
-VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L,
-ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C
+VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L,
+ou groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C
 ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être
 utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
 ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les

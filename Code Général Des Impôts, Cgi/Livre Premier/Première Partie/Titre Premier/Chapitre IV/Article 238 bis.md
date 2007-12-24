@@ -30,18 +30,20 @@ procédure permettant de l'accorder ;
 c) Des établissements d'enseignement supérieur ou d'enseignement artistique
 publics ou privés, d'intérêt général, à but non lucratif ;
 
-d) Des sociétés ou organismes publics ou privés agréés à cet effet par le
+d) Des sociétés ou organismes publics ou privés, agréés à cet effet par le
 ministre chargé du budget en vertu de l'article 4 de l'ordonnance n° 58-882 du
 25 septembre 1958 relative à la fiscalité en matière de recherche scientifique
 et technique ;
 
-e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont
-pour activité principale la présentation au public d'oeuvres dramatiques,
-lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou
-l'organisation d'expositions d'art contemporain, à la condition que les
-versements soient affectés à cette activité. Cette disposition ne s'applique pas
-aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
-à la violence ;
+e) D'organismes publics ou privés, y compris de sociétés de capitaux dont les
+actionnaires sont l'Etat ou un ou plusieurs établissements publics nationaux,
+seuls ou conjointement avec une ou plusieurs collectivités territoriales, dont
+la gestion est désintéressée et qui ont pour activité principale la présentation
+au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques,
+cinématographiques et de cirque ou l'organisation d'expositions d'art
+contemporain, à la condition que les versements soient affectés à cette
+activité. Cette disposition ne s'applique pas aux organismes qui présentent des
+oeuvres à caractère pornographique ou incitant à la violence ;
 
 e bis) De projets de thèse proposés au mécénat de doctorat par les écoles
 doctorales dans des conditions fixées par décret ;

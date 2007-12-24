@@ -2,8 +2,9 @@ Article 790 G
 ----
 I. - Les dons de sommes d'argent consentis en pleine propriété au profit d'un
 enfant, d'un petit-enfant, d'un arrière-petit-enfant ou, à défaut d'une telle
-descendance, d'un neveu ou d'une nièce sont exonérés de droits de mutation à
-titre gratuit dans la limite de 30 000 euros.
+descendance, d'un neveu ou d'une nièce ou par représentation, d'un petit-neveu
+ou d'une petite-nièce sont exonérés de droits de mutation à titre gratuit dans
+la limite de 30 000 euros.
 
 Cette exonération est subordonnée au respect des conditions suivantes :
 

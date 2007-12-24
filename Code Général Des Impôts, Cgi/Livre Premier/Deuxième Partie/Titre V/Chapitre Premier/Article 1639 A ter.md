@@ -1,9 +1,9 @@
 Article 1639 A ter
 ----
-I. - Les délibérations prises en matière de taxe professionnelle par un
-groupement de communes antérieurement à la date de la décision le plaçant sous
-le régime fiscal de l'article 1609 nonies C demeurent applicables tant qu'elles
-ne sont pas rapportées ou modifiées.
+I.-Les délibérations prises en matière de taxe professionnelle par un groupement
+de communes antérieurement à la date de la décision le plaçant sous le régime
+fiscal de l'article 1609 nonies C demeurent applicables tant qu'elles ne sont
+pas rapportées ou modifiées.
 
 Les délibérations prises en matière de taxe professionnelle par les communes
 membres d'un établissement public de coopération intercommunale soumis aux
@@ -28,7 +28,7 @@ deviennent membres d'un établissement public de coopération intercommunale
 soumis aux dispositions de l'article 1609 nonies C ne résultant pas d'une
 substitution ou d'une transformation de groupement préexistant.
 
-II. - Les dispositions du I ci-dessus sont applicables sur le territoire de la
+II.-Les dispositions du I ci-dessus sont applicables sur le territoire de la
 zone d'activités économiques des établissements publics de coopération
 intercommunale faisant application des dispositions du II de l'article 1609
 quinquies C. Elles sont également applicables aux installations de production
@@ -58,7 +58,7 @@ intercommunale faisant application de la deuxième phrase du premier alinéa du 
 de l'article 1609 quinquies C opte pour le régime prévu à l'article 1609 nonies
 C ou devient soumis à ce régime.
 
-III. - Les exonérations applicables antérieurement à la création d'un
+III.-Les exonérations applicables antérieurement à la création d'un
 établissement public de coopération intercommunale soumis aux dispositions
 fiscales prévues à l'article 1609 nonies C en exécution des délibérations des
 conseils des communes membres ou du groupement préexistant sont maintenues, pour
@@ -89,7 +89,7 @@ dans les mêmes conditions lorsque l'établissement public de coopération
 intercommunale fait application de la deuxième phrase du premier alinéa du II de
 l'article 1609 quinquies C.
 
-IV. - 1. Sous réserve des dispositions de l'article 1466, l'établissement public
+IV.-1. Sous réserve des dispositions de l'article 1466, l'établissement public
 de coopération intercommunale issu de la fusion, réalisée dans les conditions
 prévues par l'article L. 5211-41-3 du code général des collectivités
 territoriales ou, lorsque le périmètre du nouvel établissement public de
@@ -100,13 +100,13 @@ conseils municipaux des communes membres ou l'organe délibérant du ou des
 l'année suivante en matière de taxe professionnelle sur l'ensemble du
 territoire.
 
-2. A défaut de délibérations prises dans les conditions prévues au 1, les
+2.A défaut de délibérations prises dans les conditions prévues au 1, les
 délibérations adoptées antérieurement par chaque établissement public de
 coopération intercommunale préexistant :
 
 a. Sont maintenues pour leur durée et leur quotité lorsqu'elles sont prises en
-application des articles 1464 B, 1464 D, 1464 E, 1464 F, 1464 G, 1465, 1465 A,
-1465 B, des I, I ter, I quater et I quinquies de l'article 1466 A et des
+application des articles 1464 B, 1464 D, 1464 E, 1464 F, 1464 G, 1464 I, 1465,
+1465 A, 1465 B, des I, I ter, I quater et I quinquies de l'article 1466 A et des
 articles 1466 B, 1466 B bis et 1466 C, et que les dispositions prévues par ces
 articles sont en cours d'application ou sont applicables pour la première fois
 l'année suivant celle de la fusion. Lorsque le nouvel établissement public de

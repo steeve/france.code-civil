@@ -44,6 +44,6 @@ complémentaires non retenues en application du présent alinéa est déduit de 
 plus-value nette à long terme d'ensemble ou ajouté à la moins-value nette à long
 terme d'ensemble si les sociétés citées aux deux premières phrases de cet alinéa
 sont membres du groupe ou, s'agissant des provisions mentionnées à la première
-phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e
-ou f du 6 de l'article 223 L au titre de l'exercice au cours duquel les
+phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e,
+f ou g du 6 de l'article 223 L au titre de l'exercice au cours duquel les
 provisions sont rapportées.

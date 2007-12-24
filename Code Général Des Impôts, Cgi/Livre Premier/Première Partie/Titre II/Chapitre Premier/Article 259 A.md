@@ -21,8 +21,7 @@ b. Le preneur a en France le siège de son activité ou un établissement stable
 pour lequel le service est rendu, ou y a son domicile ou sa résidence habituelle
 ;
 
-c. Le bien est utilisé en France ou dans un autre Etat membre de la Communauté
-(2) ;
+c. Le bien est utilisé en France ou dans un autre Etat membre de la Communauté ;
 
 2° Les prestations de services se rattachant à un immeuble situé en France, y
 compris les prestations tendant à préparer ou à coordonner l'exécution de
@@ -92,9 +91,8 @@ Communauté européenne et que le preneur a fourni au prestataire son numéro
 d'identification à la taxe sur la valeur ajoutée en France ;
 
 6° Les prestations des intermédiaires qui agissent au nom et pour le compte
-d'autrui et interviennent dans des opérations portant sur des biens meubles
-corporels, autres que celles qui sont désignées au 3° et au 5° du présent
-article et à l'article 259 B :
+d'autrui et interviennent dans des opérations autres que celles qui sont
+désignées au 3° et au 5° du présent article et à l'article 259 B :
 
 a) Lorsque le lieu de ces opérations est situé en France, sauf si le preneur a
 fourni au prestataire son numéro d'identification à la taxe sur la valeur

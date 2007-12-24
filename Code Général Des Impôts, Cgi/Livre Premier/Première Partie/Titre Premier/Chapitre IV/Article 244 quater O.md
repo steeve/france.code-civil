@@ -5,10 +5,10 @@ ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 4
 octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit
 d'impôt égal à 10 % de la somme :
 
-1° Des salaires et charges sociales afférents aux salariés directement et
-exclusivement chargés de la conception de nouveaux produits dans un des secteurs
-ou métiers mentionnés au III et aux ingénieurs et techniciens de production
-chargés de la réalisation de prototypes ou d'échantillons non vendus ;
+1° Des salaires et charges sociales afférents aux salariés directement chargés
+de la conception de nouveaux produits dans un des secteurs ou métiers mentionnés
+au III et aux ingénieurs et techniciens de production chargés de la réalisation
+de prototypes ou d'échantillons non vendus ;
 
 2° Des dotations aux amortissements des immobilisations créées ou acquises à
 l'état neuf qui sont directement affectées à la conception des nouveaux produits
@@ -57,15 +57,17 @@ ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce créd
 VI. - Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du
 crédit d'impôt mentionné au I et dans celle d'un autre crédit d'impôt.
 
-VII. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le
-règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis. Ce
-plafond s'apprécie en prenant en compte la fraction du crédit d'impôt
-correspondant aux parts des associés de sociétés de personnes mentionnées aux
-articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux
-articles 239 quater, 239 quater B et 239 quater C. Lorsque ces sociétés ou
-groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt
-peut être utilisé par les associés proportionnellement à leurs droits dans ces
-sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt
-sur les sociétés ou de personnes physiques participant à l'exploitation au sens
-du 1° bis du I de l'article 156.
+VII. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.
+
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements
+mentionnés aux articles 8,238 bis L,239 quater,239 quater A,239 quater B et 239
+quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également
+respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou
+les membres de ces groupements proportionnellement à leurs droits dans ces
+sociétés ou groupements s'ils satisfont aux conditions d'application de ce même
+règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les
+sociétés ou de personnes physiques participant à l'exploitation au sens du 1°
+bis du I de l'article 156.

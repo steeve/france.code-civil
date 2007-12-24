@@ -13,7 +13,7 @@ l'approvisionnement de leurs sites que par des entreprises exerçant une activit
 industrielle et éligibles au sens du premier alinéa du I de l'article 22 de la
 loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
 développement du service public de l'électricité à la condition que, au titre de
-l'avant-dernier exercice clos à la date de la demande d'agrément, le rapport
+l'antépénultième exercice clos à la date de la demande d'agrément, le rapport
 existant entre la quantité consommée d'électricité et la valeur ajoutée produite
 définie au II de l'article 1647 B sexies soit supérieur à deux kilowattheures et
 demi par euro.
@@ -23,7 +23,7 @@ application du IV de l'article 22 de la loi n° 2000-108 précitée.
 
 Les droits à consommation acquis par un associé sont exercés, sur la durée du
 contrat, sous forme d'une puissance constante et sont limités à la consommation
-de ses sites qui vérifient individuellement, au titre de l'avant-dernier
+de ses sites qui vérifient individuellement, au titre de l'antépénultième
 exercice clos à la date de la demande d'agrément, les conditions cumulatives
 suivantes :
 
@@ -53,4 +53,4 @@ du service public de l'électricité.
 
 Les actions souscrites doivent revêtir la forme nominative. Une même personne ne
 peut détenir, directement ou indirectement, plus de 25 % du capital de la
-société. Le montant du capital agréé est limité à 600 000 Euros.
+société. Le montant du capital agréé est limité à 600 000 euros.

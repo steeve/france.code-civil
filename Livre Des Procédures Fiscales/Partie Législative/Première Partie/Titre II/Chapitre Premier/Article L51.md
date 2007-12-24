@@ -7,8 +7,10 @@ au regard des mêmes impôts ou taxes et pour la même période. Toutefois, il e
 fait exception à cette règle lorsque la vérification a été limitée à des
 opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en
 matière de taxes sur le chiffre d'affaires et L. 187 en cas d'agissements
-frauduleux, ainsi que dans les cas de vérification de la comptabilité des
-sociétés mères qui ont opté pour le régime prévu à l'article 223 A du code
-général des impôts et dans les cas prévus à l'article L. 188 A après
-l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
+frauduleux ainsi que dans les cas où l'administration a dressé un procès-verbal
+de flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, au
+titre d'une période postérieure, ainsi que dans les cas de vérification de la
+comptabilité des sociétés mères qui ont opté pour le régime prévu à l'article
+223 A du code général des impôts et dans les cas prévus à l'article L. 188 A
+après l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
 territoire.

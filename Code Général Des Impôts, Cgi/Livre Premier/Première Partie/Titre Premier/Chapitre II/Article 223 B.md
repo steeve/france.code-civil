@@ -8,18 +8,21 @@ En ce qui concerne la détermination des résultats des exercices ouverts avant 
 1er janvier 1993, ou clos à compter du 31 décembre 1998, le résultat d'ensemble
 est diminué de la quote-part de frais et charges comprise dans ses résultats par
 une société du groupe à raison de sa participation dans une autre société du
-groupe à l'exception de la quote-part relative aux dividendes versés au cours du
-premier exercice d'appartenance au groupe de la société distributrice.
+groupe à l'exception de la quote-part relative aux produits des participations
+versés au cours du premier exercice d'appartenance au groupe de la société
+distributrice.
 
 Pour la détermination du résultat des exercices ouverts à compter du 1er janvier
-1995, les dividendes reçus par une société du groupe à raison de sa
-participation dans une autre société du groupe sont retranchés du résultat
+1995, les produits des participations reçus par une société du groupe à raison
+de sa participation dans une autre société du groupe sont retranchés du résultat
 d'ensemble s'ils n'ouvrent pas droit à l'application du régime mentionné au 1 de
 l'article 145.
 
 Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des
-créances qu'elle détient sur d'autres sociétés du groupe ou des risques qu'elle
+créances qu'elle détient sur d'autres sociétés du groupe, des titres détenus
+dans d'autres sociétés du groupe et exclus du régime des plus-values ou
+moins-values à long terme conformément à l'article 219 ou des risques qu'elle
 encourt du fait de telles sociétés. En cas de cession d'un élément d'actif entre
 sociétés du groupe, les dotations aux provisions pour dépréciation de cet
 élément d'actif effectuées postérieurement à la cession sont rapportées au
@@ -35,10 +38,10 @@ en application du seizième alinéa du 5° du 1 de l'article 39, est retranchée
 résultat d'ensemble. Celui-ci est également minoré du montant des provisions
 rapportées en application du seizième alinéa du 5° du 1 de l'article 39 qui
 correspondent aux dotations complémentaires non retenues en application du
-premier alinéa si les sociétés citées aux deux premières phrases de cet alinéa
+présent alinéa si les sociétés citées aux deux premières phrases de cet alinéa
 membres du groupe ou, s'agissant des provisions mentionnées à la première
-phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e
-ou f du 6 de l'article 223 L au titre de l'exercice au cours duquel ces
+phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e,
+f ou g du 6 de l'article 223 L au titre de l'exercice au cours duquel ces
 provisions sont rapportées ;
 
 Le montant des jetons de présence et tantièmes distribués par les sociétés

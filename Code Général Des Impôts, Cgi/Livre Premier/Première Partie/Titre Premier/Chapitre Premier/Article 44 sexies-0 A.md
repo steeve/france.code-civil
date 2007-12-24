@@ -5,25 +5,25 @@ de recherche et de développement lorsque, à la clôture de l'exercice, elle
 remplit simultanément les conditions suivantes :
 
 1° elle est une petite ou moyenne entreprise, c'est-à-dire employant moins de
-250 personnes, et qui a soit réalisé un chiffre d'affaires inférieur à 40
+250 personnes, et qui a soit réalisé un chiffre d'affaires inférieur à 50
 millions d'euros au cours de l'exercice, ramené ou porté le cas échéant à douze
-mois, soit un total du bilan inférieur à 27 millions d'euros. L'effectif de
+mois, soit un total du bilan inférieur à 43 millions d'euros. L'effectif de
 l'entreprise est apprécié par référence au nombre moyen de salariés employés au
 cours de cet exercice ;
 
 2° elle est créée depuis moins de huit ans ;
 
 3° a. elle a réalisé des dépenses de recherche, définies aux a à g du II de
-l'article 244 quater B, représentant au moins 15 % des charges totales engagées
-par l'entreprise au titre de cet exercice, à l'exclusion des charges engagées
-auprès d'autres jeunes entreprises innovantes réalisant des projets de recherche
-et de développement ou auprès d'entreprises bénéficiant du régime prévu à
-l'article 44 undecies ;
+l'article 244 quater B, représentant au moins 15 % des charges fiscalement
+déductibles au titre de cet exercice, à l'exclusion des charges engagées auprès
+d'autres jeunes entreprises innovantes réalisant des projets de recherche et de
+développement ou auprès d'entreprises bénéficiant du régime prévu à l'article 44
+undecies ;
 
 b. Ou elle est dirigée ou détenue directement à hauteur de 10 % au moins, seuls
 ou conjointement, par des étudiants, des personnes titulaires depuis moins de
 cinq ans d'un diplôme conférant le grade de master ou d'un doctorat, ou des
-personnes affectées à des activités d'enseignement et de recherche, et elle a
+personnes affectées à des activités d'enseignement ou de recherche, et elle a
 pour activité principale la valorisation de travaux de recherche auxquels ces
 dirigeants ou ces associés ont participé, au cours de leur scolarité ou dans
 l'exercice de leurs fonctions, au sein d'un établissement d'enseignement

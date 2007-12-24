@@ -1,13 +1,12 @@
 Article 1465 A
 ----
-I. - Sauf délibération contraire de la collectivité territoriale ou du
-groupement de collectivités territoriales, dans les zones de revitalisation
-rurale dont le périmètre est défini par décret, les entreprises qui procèdent
-aux opérations mentionnées au premier alinéa de l'article 1465 dans les
-conditions et sous réserve, le cas échéant, de l'agrément prévu à cet article
-sont exonérées de taxe professionnelle. Cette exonération ne peut avoir pour
-effet de reporter de plus de cinq ans l'application du régime d'imposition de
-droit commun.
+I.-Sauf délibération contraire de la collectivité territoriale ou du groupement
+de collectivités territoriales, dans les zones de revitalisation rurale dont le
+périmètre est défini par décret, les entreprises qui procèdent aux opérations
+mentionnées au premier alinéa de l'article 1465 dans les conditions et sous
+réserve, le cas échéant, de l'agrément prévu à cet article sont exonérées de
+taxe professionnelle. Cette exonération ne peut avoir pour effet de reporter de
+plus de cinq ans l'application du régime d'imposition de droit commun.
 
 Cette exonération s'applique également aux créations d'activités dans les zones
 de revitalisation rurale réalisées par des artisans qui effectuent
@@ -23,7 +22,7 @@ exerçant le même type d'activité, dès lors qu'au cours de la période de
 référence prise en compte pour la première année d'imposition, l'activité est
 exercée dans l'établissement avec moins de cinq salariés.
 
-II. - Les zones de revitalisation rurale comprennent les communes membres d'un
+II.-Les zones de revitalisation rurale comprennent les communes membres d'un
 établissement public de coopération intercommunale à fiscalité propre, incluses
 dans un arrondissement ou un canton caractérisé par une très faible densité de
 population ou par une faible densité de population et satisfaisant à l'un des
@@ -62,6 +61,22 @@ l'article 1465 sont applicables aux exonérations prévues au premier alinéa du
 Toutefois, pour l'application du dixième alinéa de l'article 1465, l'imposition
 est établie au profit de l'Etat.
 
-III. - Un décret en Conseil d'Etat précise les conditions d'application du II et
+III.-Un décret en Conseil d'Etat précise les conditions d'application du II et
 en particulier les critères et seuils visant à déterminer le périmètre des zones
 de revitalisation rurale.
+
+IV.-Le bénéfice des exonérations accordées à compter du 1er janvier 2007 est
+subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides
+de minimis. Toutefois, sur option des entreprises qui procèdent entre le 1er
+janvier 2007 et le 31 décembre 2013 aux opérations mentionnées au I dans les
+zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
+au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006
+concernant l'application des articles 87 et 88 du traité aux aides nationales à
+l'investissement à finalité régionale.
+
+Cette option, exercée distinctement pour chacun des établissements concernés,
+est irrévocable pour la durée de l'exonération. Elle doit être exercée, selon le
+cas, dans le délai prévu pour le dépôt de la déclaration annuelle afférente à la
+première année au titre de laquelle l'exonération prend effet ou de la
+déclaration provisoire de taxe professionnelle visée à l'article 1477.

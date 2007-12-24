@@ -31,6 +31,15 @@ enquêtes diligentées par le représentant de l'Etat dans le département est
 supérieure à deux mois, l'arrêté est publié au plus tard deux mois après la
 réception du dossier par le ministre chargé de la sécurité civile.
 
+Aucune demande communale de reconnaissance de l'état de catastrophe naturelle ne
+peut donner lieu à une décision favorable de reconnaissance de l'état de
+catastrophe naturelle par arrêté interministériel lorsqu'elle intervient
+dix-huit mois après le début de l'événement naturel qui y donne naissance. Ce
+délai s'applique aux événements naturels ayant débuté après le 1er janvier 2007.
+Pour les événements naturels survenus avant le 1er janvier 2007, les demandes
+communales de reconnaissance de l'état de catastrophe naturelle doivent être
+déposées à la préfecture dont dépend la commune avant le 30 juin 2008.
+
 Les cavités souterraines considérées peuvent être naturelles ou d'origine
 humaine. Dans ce dernier cas, sont exclus de l'application du présent chapitre
 les dommages résultant de l'exploitation passée ou en cours d'une mine.

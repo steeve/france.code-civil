@@ -4,6 +4,9 @@ L'administration adresse au contribuable une proposition de rectification qui
 doit être motivée de manière à lui permettre de formuler ses observations ou de
 faire connaître son acceptation.
 
+Sur demande du contribuable reçue par l'administration avant l'expiration du
+délai mentionné à l'article L. 11, ce délai est prorogé de trente jours.
+
 En cas d'application des dispositions de l'article L. 47 A, l'administration
 précise au contribuable la nature des traitements effectués.
 
@@ -21,7 +24,7 @@ est remplie par l'indication :
 4° Et des prix de cession, chiffres d'affaires ou bénéfices, si ces informations
 sont soumises à une obligation de publicité ou, dans le cas contraire, des
 moyennes de ces données chiffrées concernant les entreprises pour lesquelles
-sont fournis les éléments mentionnés aux 1°, 2° et 3°.
+sont fournis les éléments mentionnés aux 1°,2° et 3°.
 
 Lorsque l'administration rejette les observations du contribuable sa réponse
 doit également être motivée.

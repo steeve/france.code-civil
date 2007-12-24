@@ -12,3 +12,8 @@ fait connaître d'un centre de formalités des entreprises ou du greffe du
 tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du
 contribuable ou de tiers ou, pour les fiducies, si les actes prévus à l'article
 635 du code général des impôts n'ont pas été enregistrés.
+
+Il n'y a pas lieu non plus de procéder à cette mise en demeure lorsque
+l'administration a dressé un procès-verbal de flagrance fiscale dans les
+conditions prévues à l'article L. 16-0 BA, au titre de l'année ou de l'exercice
+au cours duquel le procès-verbal est établi.

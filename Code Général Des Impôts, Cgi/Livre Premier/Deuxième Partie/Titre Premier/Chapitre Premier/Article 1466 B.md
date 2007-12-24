@@ -146,3 +146,9 @@ VII. - Pour bénéficier de l'exonération prévue au présent article, les pers
 et organismes concernés déclarent, chaque année, dans les conditions prévues par
 l'article 1477, les éléments entrant dans le champ d'application de
 l'exonération.
+
+VIII. (Abrogé)
+
+IX. - Le bénéfice de l'exonération est subordonné au respect du règlement (CE)
+n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.

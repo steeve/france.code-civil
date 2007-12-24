@@ -119,8 +119,11 @@ article.
 8. (Transféré sous le paragraphe 6 d ci-dessus).
 
 9. Une participation détenue en application des articles L. 512-10, L. 512-47,
-L. 512-55 et L. 512-94 du code monétaire et financier qui remplit les conditions
-ouvrant droit au régime fiscal des sociétés mères autres que celle relative au
-taux de participation au capital de la société émettrice peut ouvrir droit à ce
-régime lorsque son prix de revient, apprécié collectivement ou individuellement
-pour les entités visées ci-dessus, est au moins égal à 22 800 000 euros.
+L. 512-55 et L. 512-94 du code monétaire et financier ou de l'article 3 de la
+loi n° 2006-1615 du 18 décembre 2006 ratifiant l'ordonnance n° 2006-1048 du 25
+août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour
+l'accession à la propriété qui remplit les conditions ouvrant droit au régime
+fiscal des sociétés mères autres que celle relative au taux de participation au
+capital de la société émettrice peut ouvrir droit à ce régime lorsque son prix
+de revient, apprécié collectivement ou individuellement pour les entités visées
+ci-dessus, est au moins égal à 22 800 000 euros.

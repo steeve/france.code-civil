@@ -1,6 +1,6 @@
 Article 302 D
 ----
-I. - 1. L'impôt est exigible :
+I. - 1.L'impôt est exigible :
 
 1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
@@ -16,13 +16,13 @@ l'importation, sous un régime suspensif des droits d'accises mentionné au a.
 
 Est considérée comme une importation :
 
-- l'entrée en France d'un produit originaire ou en provenance d'un Etat ou d'un
+-l'entrée en France d'un produit originaire ou en provenance d'un Etat ou d'un
 territoire n'appartenant pas à la Communauté européenne et qui n'a pas été mis
 en libre pratique ou d'un produit en provenance d'un territoire d'un autre Etat
 membre exclu du territoire de la Communauté européenne tel que défini au II de
 l'article 302 C ;
 
-- pour un bien placé lors de son entrée sur le territoire sous l'un des régimes
+-pour un bien placé lors de son entrée sur le territoire sous l'un des régimes
 suivants prévus par les règlements communautaires en vigueur : magasins et aires
 de dépôt temporaire, zone franche, entrepôt franc, entrepôt d'importation,
 perfectionnement actif, admission temporaire en exonération totale des droits,
@@ -63,9 +63,9 @@ documents relatifs à ces produits ;
 c. La nature de ces produits ;
 
 d. Les quantités de ces produits, notamment lorsque celles-ci sont supérieures
-aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12/CEE
-du Conseil, du 25 février 1992, relative au régime général, à la détention, à la
-circulation et aux contrôles des produits soumis à accises.
+aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92 / 12 /
+CEE du Conseil, du 25 février 1992, relative au régime général, à la détention,
+à la circulation et aux contrôles des produits soumis à accises.
 
 Toutefois, les cigarettes en provenance de la Bulgarie, de l'Estonie, de la
 Hongrie, de la Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la
@@ -80,9 +80,9 @@ Les dispositions du septième alinéa s'appliquent pour chaque pays de provenanc
 et chaque type de produit mentionnés dans le tableau ci-dessous, jusqu'à la fin
 de la période dérogatoire accordée à ces Etats membres en vue de différer
 l'application des niveaux minimum de taxation, tels qu'ils résultent des
-directives n° 92/79/CEE du Conseil, du 19 octobre 1992, concernant le
-rapprochement des taxes frappant les cigarettes et n° 92/80/CEE du Conseil, du
-19 octobre 1992, concernant le rapprochement des taxes frappant les tabacs
+directives n° 92 / 79 / CEE du Conseil, du 19 octobre 1992, concernant le
+rapprochement des taxes frappant les cigarettes et n° 92 / 80 / CEE du Conseil,
+du 19 octobre 1992, concernant le rapprochement des taxes frappant les tabacs
 manufacturés autres que les cigarettes :
 
 ETAT MEMBRE de provenance : Estonie
@@ -160,7 +160,7 @@ CATEGORIE de produits : Cigarettes
 DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
 provenance : 31 décembre 2009
 
-2. L'impôt est dû :
+2.L'impôt est dû :
 
 1° Dans les cas visés aux a, a bis et b du 1° du 1, par la personne qui met à la
 consommation ;
@@ -172,7 +172,7 @@ constatés ;
 
 4° Dans les cas mentionnés au 4° du 1, par la personne qui détient ces produits.
 
-3. L'impôt est acquitté par toute personne qui a bénéficié d'une exonération ou
+3.L'impôt est acquitté par toute personne qui a bénéficié d'une exonération ou
 d'une franchise des droits d'accises mentionnée à l'article 302 E ou aux 1° et
 2° de l'article 302 F bis ou à l'article 317, lorsque les conditions
 d'application auxquelles est subordonnée l'obtention de cette exonération ou de
@@ -180,9 +180,9 @@ cette franchise ne sont pas remplies, ainsi que par toute personne qui a été
 autorisée à recevoir des alcools et boissons alcooliques en franchise, en
 exemption ou en exonération des droits d'accises, conformément aux dispositions
 de l'article 302 D bis, du 3° de l'article 302 F bis, de l'article 406, des
-articles 440 bis, 441, 442 et 508, lorsque les conditions d'application
-auxquelles est subordonné l'octroi de cette franchise, exemption ou exonération
-ne sont pas remplies.
+articles 440 bis,441,442 et 508, lorsque les conditions d'application auxquelles
+est subordonné l'octroi de cette franchise, exemption ou exonération ne sont pas
+remplies.
 
 II. L'impôt est également exigible, pour les produits déjà mis à la consommation
 dans un autre Etat de la Communauté européenne :
@@ -201,7 +201,7 @@ produits ;
 
 c) (abrogé)
 
-III. - 1. L'impôt est liquidé mensuellement, au plus tard le dixième jour de
+III. - 1.L'impôt est liquidé mensuellement, au plus tard le dixième jour de
 chaque mois, sur la base d'une déclaration des quantités de produits mis à la
 consommation au cours du mois précédent transmise à l'administration.
 
@@ -213,3 +213,14 @@ l'article 302 G dans les limites et conditions fixées par décret.
 
 3. Un arrêté du ministre chargé du budget fixe le modèle et le contenu de la
 déclaration mentionnée au 1.
+
+4. Pour les entrepositaires agréés mentionnés au 2 dispensés de caution
+garantissant le paiement de l'impôt dû, redevables des droits respectivement
+mentionnés au 2° du I de l'article 403, aux articles 402 bis,438 et 1613 bis, du
+droit spécifique sur les bières prévu à l'article 520 A et de la cotisation
+prévue à l'article L. 245-7 du code de la sécurité sociale, l'impôt est acquitté
+auprès de l'administration en une échéance annuelle unique. Cette échéance est
+fixée pour les entrepositaires agréés produisant des produits vitivinicoles
+régis par le règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999, portant
+organisation commune du marché vitivinicole, au plus tard le 10 septembre, et,
+pour les autres entrepositaires agréés, au plus tard le 10 janvier.

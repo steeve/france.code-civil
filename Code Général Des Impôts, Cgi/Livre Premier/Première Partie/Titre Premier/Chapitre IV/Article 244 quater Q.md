@@ -107,18 +107,18 @@ ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce créd
 III. - Quelle que soit la date de clôture des exercices et quelle que soit leur
 durée, le crédit d'impôt mentionné au I est calculé par année civile.
 
-IV. - Le crédit d'impôt mentionné au I s'applique dans les limites et conditions
-prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001,
-concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis.
+IV. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.
 
-Ces limites s'apprécient en prenant en compte la fraction du crédit d'impôt
-correspondant aux parts des associés de sociétés de personnes mentionnées aux
-articles 8 et 238 bis L. Lorsque ces sociétés ne sont pas soumises à l'impôt sur
-les sociétés, le crédit d'impôt peut être utilisé par les associés
-proportionnellement à leurs droits dans ces sociétés, à condition qu'il s'agisse
-de redevables de l'impôt sur les sociétés ou de personnes physiques participant
-à l'exploitation au sens du 1° bis du I de l'article 156.
+Pour l'application du précédent alinéa, les sociétés de personnes mentionnées
+aux articles 8 et 238 bis L qui ne sont pas soumises à l'impôt sur les sociétés
+doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du
+15 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés
+de ces sociétés proportionnellement à leurs droits dans ces sociétés s'ils
+satisfont aux conditions d'application de ce même règlement et sous réserve
+qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes
+physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 V. - Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la
 délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31

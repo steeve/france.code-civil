@@ -23,9 +23,13 @@ Il est statué sur le caractère de bienfaisance de la disposition par le décre
 rendu en conseil d'Etat ou l'arrêté préfectoral qui en autorise, le cas échéant,
 l'acceptation ;
 
-5° Les dons et legs faits aux associations d'enseignement supérieur reconnues
-d'utilité publique et aux sociétés d'éducation populaire gratuite reconnues
-d'utilité publique et subventionnées par l'Etat ;
+5° Les dons et legs faits aux fondations universitaires, aux fondations
+partenariales et établissements d'enseignement supérieur reconnus d'utilité
+publique, aux sociétés d'éducation populaire gratuite reconnues d'utilité
+publique et subventionnées par l'Etat, aux associations d'enseignement supérieur
+reconnues d'utilité publique et aux établissements reconnus d'utilité publique
+ayant pour objet de soutenir des oeuvres d'enseignement scolaire et
+universitaire régulièrement déclarées ;
 
 6° Les dons et legs de sommes d'argent ou d'immeubles faits aux établissements
 pourvus de la personnalité civile autres que ceux visés au I de l'article 794

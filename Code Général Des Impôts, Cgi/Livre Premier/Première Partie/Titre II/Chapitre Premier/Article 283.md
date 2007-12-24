@@ -35,6 +35,11 @@ est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la 
 sur la valeur ajoutée en France lorsque son fournisseur est établi hors de
 France.
 
+2 sexies. Pour les livraisons et les prestations de façon portant sur des
+déchets neufs d'industrie et des matières de récupération, la taxe est acquittée
+par le destinataire ou le preneur qui dispose d'un numéro d'identification à la
+taxe sur la valeur ajoutée en France.
+
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture
 est redevable de la taxe du seul fait de sa facturation.
 

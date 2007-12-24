@@ -6,8 +6,10 @@ augmentations de capital de sociétés, en numéraire ou en nature par apport de
 biens nécessaires à l'exercice de l'activité, à l'exception des actifs
 immobiliers et des valeurs mobilières, ainsi qu'au titre de souscriptions dans
 les mêmes conditions de titres participatifs dans des sociétés coopératives
-ouvrières de production définies par la loi n° 78-763 du 19 juillet 1978. Cet
-avantage fiscal ne peut être supérieur à 50 000 euros.
+ouvrières de production définies par la loi n° 78-763 du 19 juillet 1978 ou dans
+d'autres sociétés coopératives régies par la loi n° 47-1775 du 10 septembre 1947
+portant statut de la coopération. Cet avantage fiscal ne peut être supérieur à
+50 000 euros.
 
 La société bénéficiaire des versements mentionnée au premier alinéa doit
 satisfaire aux conditions suivantes :
@@ -37,7 +39,21 @@ français ou étranger ;
 
 e) Etre soumise à l'impôt sur les bénéfices dans les conditions de droit commun
 ou y être soumise dans les mêmes conditions si l'activité était exercée en
-France.
+France ;
+
+f) Etre en phase d'amorçage, de démarrage ou d'expansion au sens des lignes
+directrices concernant les aides d'Etat visant à promouvoir les investissements
+en capital-investissement dans les petites et moyennes entreprises (2006 / C 194
+/ 02) ;
+
+g) Ne pas être qualifiable d'entreprise en difficulté au sens des lignes
+directrices communautaires concernant les aides d'Etat au sauvetage et à la
+restructuration d'entreprises en difficulté ou relever des secteurs de la
+construction navale, de l'industrie houillère ou de la sidérurgie ;
+
+h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder le
+plafond fixé par décret. Ce plafond ne peut excéder 1,5 million d'euros par
+période de douze mois.
 
 2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées
 par des personnes physiques en indivision. Chaque membre de l'indivision peut
@@ -49,7 +65,7 @@ capital de sociétés vérifiant les conditions prévues au 1.
 numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
-celle tenant à son activité ;
+celles prévues aux b, f et h ;
 
 b) La société a pour objet exclusif de détenir des participations dans des
 sociétés exerçant une des activités mentionnées au b du 1.
@@ -64,27 +80,27 @@ sociétés vérifiant l'ensemble des conditions prévues au 1, entre la date lim
 de dépôt de la déclaration devant être souscrite par le redevable l'année
 précédant celle de l'imposition et la date limite de dépôt de la déclaration
 devant être souscrite par le redevable l'année d'imposition. Ces versements sont
-ceux effectués avec les capitaux reçus au cours de cette période lors de la
-constitution du capital initial ou au titre de l'augmentation de capital auquel
-le redevable a souscrit ;
+ceux effectués avec les capitaux reçus au cours de cette période ou de la
+période d'imposition antérieure lors de la constitution du capital initial ou au
+titre de l'augmentation de capital auquel le redevable a souscrit ;
 
 -au dénominateur, le montant des capitaux reçus par la société mentionnée au
 premier alinéa du présent 3 au titre de la constitution du capital initial ou de
-l'augmentation de capital auquel le redevable a souscrit au cours de la période
-mentionnée au numérateur.
+l'augmentation de capital auquel le redevable a souscrit au cours de l'une des
+périodes mentionnée au numérateur.
 
 II.-1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la
 conservation par le redevable des titres reçus en contrepartie de sa
 souscription au capital de la société jusqu'au 31 décembre de la cinquième année
 suivant celle de la souscription.
 
-En cas de remboursement des apports aux souscripteurs pendant la période de
-conservation visée au premier alinéa, le bénéfice de l'avantage fiscal prévu au
-I est remis en cause.
-
 La condition relative à la conservation des titres reçus en contrepartie de la
 souscription au capital s'applique également à la société mentionnée au premier
 alinéa du 3 du I et à l'indivision mentionnée au 2 du I.
+
+En cas de remboursement des apports aux souscripteurs pendant l'une des périodes
+de conservation visée au premier alinéa, le bénéfice de l'avantage fiscal prévu
+au I est remis en cause.
 
 2. En cas de non-respect de la condition de conservation prévue au premier
 alinéa du 1 du présent II par suite d'une fusion ou d'une scission au sens de
@@ -95,6 +111,17 @@ fiscal n'est pas non plus remis en cause lorsque la condition de conservation
 prévue au premier alinéa du 1 du présent II n'est pas respectée par suite d'une
 annulation des titres pour cause de pertes ou de liquidation judiciaire.
 
+En cas de non-respect de la condition de conservation prévue au premier alinéa
+du 1 du présent II en cas de cession stipulée obligatoire par un pacte
+d'associés ou d'actionnaires, l'avantage fiscal mentionné au I accordé au titre
+de l'année en cours et de celles précédant ces opérations n'est pas non plus
+remis en cause si le prix de vente des titres cédés est intégralement réinvesti
+par un actionnaire minoritaire, dans un délai maximum de six mois à compter de
+la cession, en souscription de titres de sociétés satisfaisant aux conditions
+mentionnées au 1 du I, sous réserve que les titres ainsi souscrits soient
+conservés jusqu'au même terme. Cette souscription ne peut donner lieu au
+bénéfice de l'avantage fiscal prévu au 1 du I.
+
 III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 du montant des versements effectués au titre de souscriptions en numéraire aux
 parts de fonds d'investissement de proximité définis par l'article L. 214-41-1
@@ -102,8 +129,18 @@ du code monétaire et financier dont la valeur des parts est constituée au moin
 à hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital ou
 de titres reçus en contrepartie d'obligations converties de sociétés exerçant
 leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant
-les conditions prévues au 1 du I, lorsque les conditions suivantes sont
-satisfaites :
+les conditions prévues au 1 du I. Le redevable peut également imputer sur
+l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au
+titre de souscriptions en numéraire aux parts de fonds communs de placement dans
+l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier et
+aux parts de fonds communs de placement à risques mentionnés à l'article L.
+214-36 du même code dont l'actif est constitué au moins à hauteur de 40 % de
+titres reçus en contrepartie de souscriptions au capital de sociétés exerçant
+leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
+les conditions prévues au 1 du I.
+
+L'avantage prévu au précédent alinéa ne s'applique que lorsque les conditions
+suivantes sont satisfaites :
 
 a) Les personnes physiques prennent l'engagement de conserver les parts de fonds
 jusqu'au 31 décembre de la cinquième année suivant celle de la souscription ;
@@ -125,7 +162,7 @@ pourcentage initialement fixé de l'actif du fonds investi en titres reçus en
 contrepartie de souscriptions au capital de sociétés vérifiant les conditions
 prévues au 1 du I.
 
-2.L'avantage fiscal prévu au 1 du présent III ne peut être supérieur à 10 000
+2.L'avantage fiscal prévu au 1 du présent III ne peut être supérieur à 20 000
 euros par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et
 de ceux prévus aux 1,2 et 3 du I au titre de la même année, sous réserve que le
 montant imputé sur l'impôt de solidarité sur la fortune résultant de ces
@@ -158,8 +195,10 @@ Par dérogation à l'alinéa précédent, la fraction des versements pour laquel
 redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne
 peut donner lieu à l'application de l'article 885-0 V bis A.
 
-VI.-Le bénéfice de ces dispositions est subordonné au respect de celles du
-règlement (CE) n° 1998 / 2006 de la Commission, du 15 décembre 2006, concernant
+VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas
+cumulativement satisfaites par les sociétés bénéficiaires des versements
+mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux

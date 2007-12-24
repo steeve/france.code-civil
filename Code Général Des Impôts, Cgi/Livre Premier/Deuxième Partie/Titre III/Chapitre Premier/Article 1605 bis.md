@@ -10,7 +10,9 @@ imposés à la taxe d'habitation ;
 
 2° Bénéficient d'un dégrèvement de la redevance audiovisuelle, les personnes
 exonérées ou dégrevées de la taxe d'habitation en application des 2° et 3° du II
-de l'article 1408, des I, III et IV de l'article 1414 et de l'article 1649 ;
+de l'article 1408, des I, III et IV de l'article 1414, de l'article 1414 B
+lorsqu'elles remplissent les conditions prévues au I de l'article 1414 et de
+l'article 1649 ;
 
 3° Les personnes exonérées de la redevance audiovisuelle au 31 décembre 2004 en
 application des A et B du IV de l'article 37 de la loi de finances pour 2004 (n°
@@ -33,6 +35,11 @@ remplie ;
 c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
 titre de l'année précédant celle au cours de laquelle la redevance audiovisuelle
 est due ;
+
+Pour l'année 2008, les redevables âgés de plus de soixante-cinq ans au 1er
+janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un dégrèvement
+de 50 % de la redevance audiovisuelle lorsqu'ils remplissent les conditions
+prévues aux a, b et c ;
 
 4° a. Les personnes qui ne détiennent aucun appareil récepteur de télévision ou
 dispositif assimilé permettant la réception de la télévision doivent le

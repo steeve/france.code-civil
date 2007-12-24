@@ -14,4 +14,4 @@ communes peuvent être transférés en pleine propriété au département, à ti
 gratuit et sous réserve de l'accord des parties. Lorsque le département effectue
 sur ces biens des travaux de construction, de reconstruction ou d'extension, ce
 transfert est de droit, à sa demande, et ne donne lieu au versement d'aucun
-droit, taxe ou honoraires.
+droit, taxe, salaire ou honoraires.

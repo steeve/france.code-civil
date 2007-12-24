@@ -13,7 +13,7 @@ de conservation et de vente de produits agricoles, à l'exception des
 rétrocessions que ces coopératives consentent à leurs sociétaires non redevables
 pour les besoins de leur consommation familiale ;
 
-4°, 4° bis, 4° ter et 5° (Abrogés) ;
+4°,4° bis,4° ter et 5° (Abrogés) ;
 
 6° Sous réserve du 7° :
 
@@ -134,6 +134,17 @@ d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction
 de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou
 le gestionnaire des locaux et le représentant de l'Etat dans le département.
 
+dans des conditions fixées par décret, de logements neufs, destinés à être
+affectés à l'habitation principale de personnes physiques qui acquièrent le
+terrain de manière différée, si ces personnes accèdent pour la première fois à
+la propriété au sens du I de l'article 244 quater J, si elles bénéficient d'une
+aide à l'accession sociale à la propriété attribuée par une ou plusieurs
+collectivités territoriales ou un groupement de collectivités territoriales du
+lieu d'implantation du logement et si la somme des revenus fiscaux de référence,
+au sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
+logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de
+contrats de location-accession mentionnés au dixième alinéa du présent c.
+
 2. Les dispositions qui précèdent ne sont pas applicables :
 
 aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés
@@ -155,8 +166,8 @@ pris en compte pour l'application du 2.
 3. abrogé
 
 7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
-portent sur des logements sociaux à usage locatif mentionnés aux 2°, 3°, 4° et
-5° de l'article L. 351-2 du code de la construction et de l'habitation, les
+portent sur des logements sociaux à usage locatif mentionnés aux 2°,3°,4° et 5°
+de l'article L. 351-2 du code de la construction et de l'habitation, les
 livraisons à soi-même :
 
 a. De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la

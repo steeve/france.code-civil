@@ -6,10 +6,13 @@ destinée au financement de leurs interventions foncières.
 
 Le produit de cette taxe est arrêté avant le 31 décembre de chaque année, pour
 l'année suivante, par le conseil d'administration de l'établissement public dans
-la limite d'un plafond fixé à 20 Euros par habitant résidant sur le territoire
+la limite d'un plafond fixé à 20 euros par habitant résidant sur le territoire
 relevant de sa compétence. Le nombre des habitants à prendre en compte est celui
 qui résulte du dernier recensement publié. La décision du conseil
 d'administration est notifiée au ministre chargé de l'économie et des finances.
+Pour la première année au titre de laquelle l'établissement public foncier
+perçoit la taxe, le montant de celle-ci est arrêté et notifié avant le 31 mars
+de la même année.
 
 Ce montant est réparti, dans les conditions définies au II de l'article 1636 B
 octies, entre les personnes assujetties aux taxes foncières sur les propriétés

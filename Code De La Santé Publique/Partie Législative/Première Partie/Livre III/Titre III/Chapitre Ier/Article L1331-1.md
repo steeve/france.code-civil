@@ -15,7 +15,7 @@ Il peut être décidé par la commune qu'entre la mise en service du réseau pub
 de collecte et le raccordement de l'immeuble ou l'expiration du délai accordé
 pour le raccordement, elle perçoit auprès des propriétaires des immeubles
 raccordables une somme équivalente à la redevance instituée en application de
-l'article L. 2224-11-2 du code général des collectivités territoriales.
+l'article L. 2224-12-2 du code général des collectivités territoriales.
 
 La commune peut fixer des prescriptions techniques pour la réalisation des
 raccordements des immeubles au réseau public de collecte des eaux usées et des

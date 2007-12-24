@@ -41,16 +41,17 @@ de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à
 accorder en application de la réglementation en vigueur, de l'évolution
 prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 
-1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 Euros à 40 Euros
+1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 euros à 68 euros
 ;
 
-2e groupe : aérodrome de Paris - Charles-de-Gaulle : de 10 à 22 ;
+2e groupe : aérodromes de Paris - Charles-de-Gaulle et de Nantes-Atlantique : de
+10 euros à 22 euros ;
 
-3e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry,
-Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur : de 4 Euros à 8 Euros.
+3e groupe : aérodromes de Bordeaux-Mérignac, Lyon-Saint-Exupéry,
+Marseille-Provence, Nice-Côte d'Azur : de 4 euros à 8 euros.
 
 4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5
-Euros à 3 Euros.
+euros à 3 euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de
 l'environnement, fixe le tarif de la taxe applicable pour chaque aérodrome.
@@ -61,7 +62,8 @@ sommes dues pour le premier mois du trimestre est inférieur à 1 000 Euros, les
 l'administration de l'aviation civile.
 
 La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe
-due, est adressée aux comptables du budget annexe de l'aviation civile.
+due, est adressée aux comptables du budget annexe "contrôle et exploitation
+aériens".
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au
 dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle

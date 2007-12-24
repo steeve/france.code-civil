@@ -92,6 +92,6 @@ la promotion d'oeuvres audiovisuelles.
 VII. - Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est
 plafonnée à 80 % du budget de distribution de l'oeuvre.
 
-VIII. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le
-règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis.
+VIII. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
+du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.

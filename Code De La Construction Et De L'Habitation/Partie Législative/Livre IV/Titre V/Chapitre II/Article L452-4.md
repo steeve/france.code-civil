@@ -2,7 +2,9 @@ Article L452-4
 ----
 Au titre de leur activité locative sociale, les organismes d'habitations à loyer
 modéré et les sociétés d'économie mixte versent, au premier trimestre de chaque
-année, une cotisation à la Caisse de garantie du logement locatif social.
+année, une cotisation à la Caisse de garantie du logement locatif social. Elle
+est due pour l'année entière par le redevable qui exerce l'activité assujettie à
+cette cotisation le 1er janvier.
 
 La cotisation des organismes d'habitations à loyer modéré a pour assiette les
 loyers ou redevances appelés au cours du dernier exercice à raison des logements

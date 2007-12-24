@@ -25,3 +25,13 @@ de la vente de biomasse sèche ou humide, majoritairement issue de produits ou
 sous-produits de l'exploitation. Il en est de même des revenus provenant de la
 production d'énergie à partir de produits ou sous-produits majoritairement issus
 de l'exploitation agricole.
+
+Sont considérés comme bénéfices de l'exploitation agricole les revenus qui
+proviennent de la mise à disposition de droits à paiement unique, créés en
+application du règlement (CE) n° 1782 / 2003 du Conseil du 29 septembre 2003,
+établissant des règles communes pour les régimes de soutien direct dans le cadre
+de la politique agricole commune et établissant certains régimes de soutien en
+faveur des agriculteurs et modifiant les règlements (CEE) n° 2019 / 93, (CE) n°
+1452 / 2001, (CE) n° 1453 / 2001, (CE) n° 1454 / 2001, (CE) n° 1868 / 94, (CE)
+n° 1251 / 1999, (CE) n° 1254 / 1999, (CE) n° 1673 / 2000, (CEE) n° 2358 / 71 et
+(CE) n° 2529 / 2001.

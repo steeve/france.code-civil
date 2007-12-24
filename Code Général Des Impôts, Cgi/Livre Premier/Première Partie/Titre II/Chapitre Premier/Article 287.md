@@ -91,5 +91,8 @@ livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est
 désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies
 de ce dernier article ;
 
+b bis) Le montant hors taxes des opérations mentionnées au 2 sexies de l'article
+283 réalisées ou acquises par l'assujetti ;
+
 c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article
 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

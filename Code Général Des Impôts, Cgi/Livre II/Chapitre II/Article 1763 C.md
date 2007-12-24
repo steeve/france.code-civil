@@ -28,11 +28,12 @@ proportion s'apprécie au premier jour de l'exercice au cours duquel le quota
 d'investissement n'a pas été respecté.
 
 Lorsque l'administration établit qu'un fonds commun d'investissement de
-proximité n'a pas respecté son quota d'investissement susceptible de faire
-bénéficier ses porteurs de l'avantage fiscal prévu à l'article 885-0 V bis, la
-société de gestion du fonds est redevable d'une amende égale à 20 % du montant
-des investissements qui permettraient d'atteindre le pourcentage initialement
-fixé de son actif en titres de sociétés éligibles. Le montant de cette amende
-est toutefois limité à la moitié du montant des sommes qui lui sont dues par le
-fonds au titre des frais de gestion pour l'exercice au titre duquel le
-manquement est constaté.
+proximité ou un fonds commun de placement dans l'innovation ou un fonds commun
+de placement à risques n'a pas respecté son quota d'investissement susceptible
+de faire bénéficier ses porteurs de l'avantage fiscal prévu à l'article 885-0 V
+bis, la société de gestion du fonds est redevable d'une amende égale à 20 % du
+montant des investissements qui permettraient d'atteindre le pourcentage
+initialement fixé de son actif en titres de sociétés éligibles. Le montant de
+cette amende est toutefois limité à la moitié du montant des sommes qui lui sont
+dues par le fonds au titre des frais de gestion pour l'exercice au titre duquel
+le manquement est constaté.

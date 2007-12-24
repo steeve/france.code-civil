@@ -1,17 +1,17 @@
 Article 235 ter ZC
 ----
-I. - Les redevables de l'impôt sur les sociétés sont assujettis à une
-contribution sociale égale à une fraction de cet impôt calculé sur leurs
-résultats imposables aux taux mentionnés aux I et IV (1) de l'article 219 et
-diminué d'un abattement qui ne peut excéder 763 000 euros par période de douze
-mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur
-à douze mois, l'abattement est ajusté à due proportion.
+I.-Les redevables de l'impôt sur les sociétés sont assujettis à une contribution
+sociale égale à une fraction de cet impôt calculé sur leurs résultats imposables
+aux taux mentionnés aux I et IV de l'article 219 et diminué d'un abattement qui
+ne peut excéder 763 000 € par période de douze mois. Lorsqu'un exercice ou une
+période d'imposition est inférieur ou supérieur à douze mois, l'abattement est
+ajusté à due proportion.
 
 La fraction mentionnée au premier alinéa est égale à 3,3 % pour les exercices
 clos à compter du 1er janvier 2000.
 
 Sont exonérés les redevables ayant réalisé un chiffre d'affaires de moins de 7
-630 000 euros. Le chiffre d'affaires à prendre en compte s'entend du chiffre
+630 000 €. Le chiffre d'affaires à prendre en compte s'entend du chiffre
 d'affaires réalisé par le redevable au cours de l'exercice ou période
 d'imposition, ramené à douze mois le cas échéant et, pour la société mère d'un
 groupe mentionné à l'article 223 A, de la somme des chiffres d'affaires de
@@ -26,25 +26,27 @@ prises en compte à la condition qu'il n'existe pas de lien de dépendance au se
 du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
 fonds.
 
-II. - Pour les entreprises placées sous le régime prévu à l'article 223 A, la
+II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la
 contribution est due par la société mère. Elle est assise sur l'impôt sur les
 sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble
 définis aux articles 223 B et 223 D.
 
-III. - Pour les entreprises placées sous le régime prévu à l'article 209
+III.-Pour les entreprises placées sous le régime prévu à l'article 209
 quinquies, la contribution est calculée d'après le montant de l'impôt sur les
 sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en
 l'absence d'application de ce régime. Elle n'est ni imputable ni remboursable.
 
-III bis - Les sociétés ayant opté pour le régime prévu au II de l'article 208 C
-ne sont pas assujetties à la présente contribution sur les plus-values imposées
-en application du IV de l'article 219.
+III bis-Les sociétés ayant opté pour le régime prévu au II de l'article 208 C
+ainsi que les sociétés de placement à prépondérance immobilière à capital
+variable mentionnées au 3° nonies de l'article 208 ne sont pas assujetties à la
+présente contribution sur les plus-values imposées en application du IV de
+l'article 219.
 
-IV. - Les crédits d'impôt de toute nature ainsi que la créance visée à l'article
+IV.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article
 220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223
 septies ne sont pas imputables sur la contribution.
 
-V. - Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les
+V.-Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les
 mêmes garanties et sanctions.
 
-VI. - Les modalités d'application du présent article sont fixées par décret.
+VI.-Les modalités d'application du présent article sont fixées par décret.

@@ -26,7 +26,3 @@ sociétés prévue à l'article 44 undecies et au plus tard le 1er janvier de la
 cinquième année suivant celle au cours de laquelle l'entreprise a bénéficié de
 l'exonération d'imposition forfaitaire annuelle prévue aux 1 et 2 pour la
 première fois.
-
-II. - L'exonération prévue au I s'applique dans les limites prévues par le
-règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis.

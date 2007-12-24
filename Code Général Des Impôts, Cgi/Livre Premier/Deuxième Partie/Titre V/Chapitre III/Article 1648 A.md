@@ -46,8 +46,8 @@ transformation.
 Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux
 produisant de l'énergie ou traitant des combustibles, l'assiette du prélèvement
 est limitée de manière que la commune conserve au moins 80 % du montant des
-bases de taxe professionnelle imposables à son profit en 1979.A compter de 1991,
-ce montant est divisé par 0,960.
+bases de taxe professionnelle imposables à son profit en 1979. A compter de
+1991, ce montant est divisé par 0,960.
 
 Les dispositions du présent I ne s'appliquent pas aux agglomérations nouvelles.
 
@@ -142,6 +142,20 @@ d'imposition divisées par le nombre d'habitants n'excédaient pas, avant le
 transfert, deux fois la moyenne des bases de taxe professionnelle par habitant
 constatée au niveau national.
 
+A compter du 1er janvier 2008, l'alinéa précédent est applicable aux transferts
+d'établissements intervenus en 2006 et 2007. Lorsque ces transferts ont ouvert
+droit, au titre de l'année 2007, à la compensation prévue par le 1° du I de
+l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003),
+le versement de cette compensation est interrompu définitivement à compter du
+1er janvier 2008 .
+
+En cas de transfert, à compter du 1er janvier 2008, d'un établissement entre
+deux communes situées sur le périmètre d'un même établissement public de
+coopération intercommunale soumis de plein droit, ou après option, au régime
+fiscal prévu à l'article 1609 nonies C, la population de la commune retenue pour
+le calcul des bases excédentaires prévues au premier alinéa est celle qui était
+retenue l'année du transfert.
+
 b. A compter de la date de publication de la loi n° 99-586 du 12 juillet 1999
 précitée, les établissements publics de coopération intercommunale, soumis de
 plein droit ou après option au régime fiscal prévu au 1° du I de l'article 1609
@@ -171,10 +185,16 @@ de taxe professionnelle correspondant à l'établissement exceptionnel diminue p
 rapport à celui de l'année précédente, le montant du prélèvement est réduit dans
 la même proportion. Cette réduction est toutefois supprimée l'année suivante si
 le produit de taxe professionnelle correspondant à l'établissement exceptionnel
-redevient supérieur à celui de l'avant-dernière année. Les montants de ces
-prélèvements sont actualisés chaque année compte tenu du taux d'évolution de la
-dotation globale de fonctionnement lorsque ce taux n'est pas supérieur au taux
-d'accroissement des bases de l'établissement qui faisaient antérieurement
+redevient supérieur à celui de l'avant-dernière année. Toutefois, lorsque la
+diminution du produit fiscal a pour effet de permettre à l'établissement public
+de coopération intercommunale de bénéficier de la compensation prévue par
+l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003),
+celui-ci peut décider, pour chaque année au titre de laquelle une attribution de
+compensation des pertes de produit lui est versée, de minorer cette réduction du
+prélèvement dans la limite de l'attribution de compensation perçue. Les montants
+de ces prélèvements sont actualisés chaque année compte tenu du taux d'évolution
+de la dotation globale de fonctionnement lorsque ce taux n'est pas supérieur au
+taux d'accroissement des bases de l'établissement qui faisaient antérieurement
 l'objet d'un écrêtement avant la transformation de l'établissement public de
 coopération intercommunale en communauté urbaine ou en communauté
 d'agglomération. Les montants de ces prélèvements peuvent être augmentés dans la
@@ -190,7 +210,7 @@ conseils généraux des départements concernés.
 En cas de cessation d'activité de l'établissement exceptionnel ayant donné lieu
 à écrêtement, le prélèvement est supprimé.
 
-c.A compter du 1er janvier 2002, les dispositions du b sont également
+c. A compter du 1er janvier 2002, les dispositions du b sont également
 applicables aux établissements publics de coopération intercommunale mentionnés
 au second alinéa du I quater et faisant application, à compter de cette date,
 des dispositions du I de l'article 1609 nonies C.
@@ -446,7 +466,7 @@ respectivement à 25 % et 30 % ;
 b. Les ressources du fonds ou, le cas échéant, le solde, lorsqu'il est fait
 application du a, sont répartis conformément aux dispositions du II.
 
-Toutefois, 40 % de la dotation à répartir par le fonds départemental de
+Toutefois,40 % de la dotation à répartir par le fonds départemental de
 péréquation de la taxe professionnelle entre les communes définies au 2° du II
 sont affectés aux fonds de compensation des nuisances aéroportuaires définis au
 I de l'article 1648 AC.

@@ -1,12 +1,14 @@
 Article 1635 bis O
 ----
 I.-Il est institué une taxe additionnelle à la taxe sur les certificats
-d'immatriculation des véhicules prévue à l'article 1599 quindecies (1).
+d'immatriculation des véhicules prévue à l'article 1599 quindecies.
 
-La taxe est due sur tout certificat d'immatriculation d'une voiture particulière
-au sens du 1 du C de l'annexe II de la directive 70 / 156 / CEE du Conseil, du 6
-février 1970, concernant le rapprochement des législations des Etats membres
-relatives à la réception des véhicules à moteur et de leurs remorques.
+La taxe est due sur les certificats d'immatriculation, autres que ceux donnant
+lieu au paiement de la taxe prévue à l'article 1011 bis, des voitures
+particulières au sens du 1 du C de l'annexe II de la directive 70 / 156 / CEE du
+Conseil, du 6 février 1970, concernant le rapprochement des législations des
+Etats membres relatives à la réception des véhicules à moteur et de leurs
+remorques.
 
 La délivrance des certificats prévus aux articles 1599 septdecies et 1599
 octodecies ne donne pas lieu au paiement de cette taxe.

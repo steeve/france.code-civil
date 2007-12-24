@@ -33,14 +33,18 @@ contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvie
 de l'année au titre de laquelle l'exonération prend effet. L'option est
 irrévocable et vaut pour l'ensemble des collectivités.
 
-Lorsque l'immeuble est situé dans une zone d'aide à finalité régionale,
-l'exonération s'applique dans les conditions et limites prévues par le règlement
-(CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant l'application
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
+/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des
+entreprises propriétaires d'un immeuble dans une zone d'aide à finalité
+régionale, le bénéfice de l'exonération est subordonné au respect du règlement
+(CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application
 des articles 87 et 88 du traité CE aux aides nationales à l'investissement à
-finalité régionale. Dans le cas contraire, elle s'applique dans les conditions
-et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12
-janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux
-aides de minimis.
+finalité régionale.
+
+L'option mentionnée au septième alinéa est irrévocable pour la durée de
+l'exonération. Elle doit être exercée avant le 1er janvier de la première année
+au titre de laquelle l'exonération prend effet.
 
 Les obligations déclaratives des personnes et organismes concernés par les
 exonérations prévues au présent article sont fixées par décret.

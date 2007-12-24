@@ -18,8 +18,8 @@ N'ouvrent pas droit au bénéfice de cette provision les activités exercées da
 l'un des secteurs suivants : le transport, la production ou la transformation de
 produits agricoles, la pêche et l'aquaculture.
 
-La dotation annuelle à cette provision ne peut excéder 5 000 Euros. Le montant
-total de la provision à la clôture d'un exercice ne peut excéder 15 000 Euros.
+La dotation annuelle à cette provision ne peut excéder 5 000 €. Le montant total
+de la provision à la clôture d'un exercice ne peut excéder 15 000 €.
 
 Cette provision doit être utilisée, au plus tard à la clôture du cinquième
 exercice suivant la première dotation annuelle, pour l'acquisition
@@ -30,6 +30,6 @@ d'acquisition de l'immobilisation amortissable et les quatre exercices suivants.
 Le montant non utilisé à la clôture du cinquième exercice suivant la première
 dotation annuelle est rapporté au résultat de cet exercice.
 
-Le présent article s'applique dans les limites et les conditions prévues par le
-règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Le bénéfice de la provision est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.

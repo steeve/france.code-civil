@@ -119,8 +119,7 @@ réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter
 la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la
 Corse.
 
-V. - Les petites et moyennes entreprises relevant d'un régime réel d'imposition
-peuvent bénéficier du crédit d'impôt prévu au 1° du I dans les conditions et
-limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24
-octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux
-aides nationales à l'investissement à finalité régionale.
+V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides nationales à
+l'investissement à finalité régionale.

@@ -1,6 +1,6 @@
 Article 244 quater H
 ----
-I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
+I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44
 octies A, et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles
 exposent des dépenses de prospection commerciale afin d'exporter des services,
@@ -10,7 +10,7 @@ Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires
 inférieur à 50 millions d'euros au cours de chaque période d'imposition ou
 exercice clos pendant la période mentionnée au IV, soit un total de bilan
-inférieur à 43 millions d'euros. L'effectif de l'entreprise est apprécié par
+inférieur à 43 millions d'euros.L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cette période. Le
 capital des sociétés doit être entièrement libéré et être détenu de manière
 continue, pour 75 % au moins, par des personnes physiques ou par une société
@@ -35,7 +35,7 @@ société des professions libérales soumises à un statut législatif ou
 réglementaire ou dont le titre est protégé et aux sociétés de participations
 financières de professions libérales.
 
-II. - Les dépenses ouvrant droit au crédit d'impôt sont, à condition qu'elles
+II.-Les dépenses ouvrant droit au crédit d'impôt sont, à condition qu'elles
 soient déductibles du résultat imposable :
 
 a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection
@@ -51,7 +51,10 @@ l'entreprise en vue d'exporter ;
 
 e) Les indemnités mensuelles et les prestations mentionnées à l'article L.
 122-12 du code du service national lorsque l'entreprise a recours à un
-volontaire international en entreprise comme indiqué au III.
+volontaire international en entreprise comme indiqué au III ;
+
+f) Les dépenses liées aux activités de conseil fournies par les opérateurs
+spécialisés du commerce international.
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice
 clos au cours desquels des dépenses éligibles ont été exposées, est égal à 50 %
@@ -59,32 +62,31 @@ de ces dépenses. Les subventions publiques reçues par les entreprises à raiso
 des dépenses ouvrant droit au crédit d'impôt sont déduites des bases de calcul
 de ce crédit.
 
-III. - L'obtention du crédit d'impôt est subordonnée au recrutement d'une
-personne affectée au développement des exportations ou au recours à un
-volontaire international en entreprise affecté à la même mission dans les
-conditions prévues par les articles L. 122-1 et suivants du code du service
-national.
+III.-L'obtention du crédit d'impôt est subordonnée au recrutement d'une personne
+affectée au développement des exportations ou au recours à un volontaire
+international en entreprise affecté à la même mission dans les conditions
+prévues par les articles L. 122-1 et suivants du code du service national.
 
-IV. - Les dépenses éligibles sont les dépenses exposées pendant les vingt-quatre
+IV.-Les dépenses éligibles sont les dépenses exposées pendant les vingt-quatre
 mois qui suivent le recrutement de la personne mentionnée au III ou la signature
 de la convention prévue à l'article L. 122-7 du code du service national.
 
-V. - Le crédit d'impôt est plafonné pour chaque entreprise, y compris les
-sociétés de personnes, à 40 000 euros pour la période de vingt-quatre mois
-mentionnée au IV. Ce montant est porté à 80 000 euros pour les associations
-régies par la loi du 1er juillet 1901 relative au contrat d'association, les
-associations régies par la loi locale maintenue en vigueur dans les départements
-de la Moselle, du Bas-Rhin et du Haut-Rhin lorsqu'elles sont soumises à l'impôt
-sur les sociétés en vertu des dispositions du 1 de l'article 206, et les
-groupements mentionnés à l'article 239 quater répondant aux conditions
-mentionnées au I et ayant pour membres des petites et moyennes entreprises
-définies au même I lorsqu'ils exposent des dépenses de prospection commerciale
-pour le compte de leurs membres afin d'exporter des services, des biens et des
-marchandises. Ces plafonds s'apprécient en prenant en compte la fraction du
-crédit d'impôt correspondant aux parts des associés de sociétés de personnes
-mentionnées aux articles 8, 238 bis L, aux parts des associés de sociétés de
-professions libérales mentionnées au I et aux droits des membres de groupements
-mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
+V.-Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés
+de personnes, à 40 000 euros pour la période de vingt-quatre mois mentionnée au
+IV. Ce montant est porté à 80 000 euros pour les associations régies par la loi
+du 1er juillet 1901 relative au contrat d'association, les associations régies
+par la loi locale maintenue en vigueur dans les départements de la Moselle, du
+Bas-Rhin et du Haut-Rhin lorsqu'elles sont soumises à l'impôt sur les sociétés
+en vertu des dispositions du 1 de l'article 206, et les groupements mentionnés à
+l'article 239 quater répondant aux conditions mentionnées au I et ayant pour
+membres des petites et moyennes entreprises définies au même I lorsqu'ils
+exposent des dépenses de prospection commerciale pour le compte de leurs membres
+afin d'exporter des services, des biens et des marchandises. Ces plafonds
+s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant
+aux parts des associés de sociétés de personnes mentionnées aux articles 8,238
+bis L, aux parts des associés de sociétés de professions libérales mentionnées
+au I et aux droits des membres de groupements mentionnés aux articles 239
+quater,239 quater B et 239 quater C.
 
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les
 sociétés, le crédit d'impôt peut être utilisé par les associés

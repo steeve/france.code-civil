@@ -67,17 +67,17 @@ d'exonération prévue au présent article, ou dans les cinq années suivant la 
 de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la taxe professionnelle.
 
-Ces dispositions s'appliquent dans les conditions et limites prévues par le
-règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant
-l'application des articles 87 et 88 du traité CE aux aides nationales à
-l'investissement à finalité régionale.
+Pour les opérations réalisées à compter du 1er janvier 2007, le bénéfice de
+l'exonération est subordonné au respect du règlement (CE) n° 1628 / 2006 de la
+Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du
+traité aux aides nationales à l'investissement à finalité régionale.
 
-Lorsque l'entreprise ne remplit pas les conditions mentionnées au deuxième
-alinéa de l'article 1465 B et que l'opération est réalisée dans une zone d'aide
-à finalité régionale limitée aux petites et moyennes entreprises, l'exonération
-s'applique dans les conditions et limites prévues par le règlement (CE) n°
-69/2001 de la Commission, du 12 janvier 2001, concernant l'application des
-articles 87 et 88 du traité CE aux aides de minimis.
+Lorsque l'entreprise ne satisfait pas aux conditions mentionnées au deuxième
+alinéa de l'article 1465 B et que l'opération est réalisée à compter du 1er
+janvier 2007 dans une zone d'aide à finalité régionale limitée aux petites et
+moyennes entreprises, le bénéfice de l'exonération est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

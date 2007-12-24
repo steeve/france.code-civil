@@ -1,6 +1,6 @@
 Article 1466 A
 ----
-I. - A compter du 1er janvier 2005, les collectivités territoriales sur le
+I.-A compter du 1er janvier 2005, les collectivités territoriales sur le
 territoire desquelles sont situés un ou plusieurs quartiers classés en zones
 urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4
 février 1995 d'orientation pour l'aménagement et le développement du territoire
@@ -18,7 +18,7 @@ s'applique aux entreprises qui ont employé moins de 250 salariés au cours de l
 période de référence retenue pour le calcul de la base d'imposition et dont soit
 le chiffre d'affaires annuel réalisé au cours de la même période n'excède pas 50
 millions d'euros, soit le total de bilan, au terme de la même période, n'excède
-pas 43 millions d'euros. L'effectif à retenir est apprécié par référence au
+pas 43 millions d'euros.L'effectif à retenir est apprécié par référence au
 nombre moyen de salariés au cours de la période. Le chiffre d'affaires à prendre
 en compte est éventuellement corrigé pour correspondre à une année pleine et,
 pour une société mère d'un groupe mentionné à l'article 223 A, s'entend de la
@@ -104,9 +104,9 @@ de la période d'exonération et au titre des trois années suivant l'expiration
 celle-ci. Le montant de cet abattement est égal, la première année, à 60 % de la
 base exonérée de la dernière année d'application du dispositif prévu au
 quatrième alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année
-suivante. L'application de cet abattement ne peut conduire à réduire la base
+suivante.L'application de cet abattement ne peut conduire à réduire la base
 d'imposition de l'année considérée de plus de 60 % de son montant la première
-année, 40 % la deuxième année et 20 % la troisième.
+année,40 % la deuxième année et 20 % la troisième.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
@@ -131,10 +131,11 @@ pendant la période de référence retenue pour la dernière année d'applicatio
 dispositif prévu au quatrième alinéa du I ter, le montant de l'abattement est
 égal, les cinq premières années, à 60 % de la base exonérée la dernière année
 d'application du dispositif prévu au quatrième alinéa du I ter. Il est ramené à
-40 % les sixième et septième années et à 20 % les huitième et neuvième années.
-L'application de cet abattement ne peut conduire à réduire la base d'imposition
-de l'année considérée de plus de 60 % de son montant les cinq premières années,
-40 % les sixième et septième années et 20 % les huitième et neuvième années.
+40 % les sixième et septième années et à 20 % les huitième et neuvième
+années.L'application de cet abattement ne peut conduire à réduire la base
+d'imposition de l'année considérée de plus de 60 % de son montant les cinq
+premières années,40 % les sixième et septième années et 20 % les huitième et
+neuvième années.
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
 d'une création entre cette date et la date de publication de la loi n° 2006-396
@@ -182,8 +183,8 @@ du transfert :
 a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
-de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter ,
-I quater, I quinquies ou I sexies du présent article.
+de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter, I
+quater, I quinquies ou I sexies du présent article.
 
 I quinquies. Sauf délibération contraire de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale doté d'une fiscalité
@@ -220,13 +221,13 @@ des sociétés de capital-risque, des fonds communs de placement à risques des
 sociétés de développement régional, des sociétés financières d'innovation et des
 sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
 à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de
-l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds.
-N'ouvrent pas droit au bénéfice de l'exonération les activités exercées à titre
-principal dans l'établissement dans l'un des secteurs suivants, définis selon la
-nomenclature d'activités française de l'Institut national de la statistique et
-des études économiques : construction automobile, construction navale,
-fabrication de fibres artificielles ou synthétiques, sidérurgie, transports
-routiers de marchandises.
+l'article 39 entre la société en cause et ces dernières sociétés ou ces
+fonds.N'ouvrent pas droit au bénéfice de l'exonération les activités exercées à
+titre principal dans l'établissement dans l'un des secteurs suivants, définis
+selon la nomenclature d'activités française de l'Institut national de la
+statistique et des études économiques : construction automobile, construction
+navale, fabrication de fibres artificielles ou synthétiques, sidérurgie,
+transports routiers de marchandises.
 
 Pour les établissements existants au 1er janvier 2004 mentionnés au premier
 alinéa, la base exonérée comprend, le cas échéant, dans la limite prévue à cet
@@ -239,10 +240,10 @@ ou, en cas de création d'établissement, à compter de l'année qui suit la
 création ou, en cas d'extension d'établissement, à compter de la deuxième année
 qui suit celle-ci, sur la totalité de la part revenant à chaque collectivité
 territoriale ou établissement public de coopération intercommunale doté d'une
-fiscalité propre. Les exonérations prenant effet en 2004 s'appliquent dans les
-limites prévues par le règlement (CE) n° 69/2001 de la Commission du 12 janvier
-2001 concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis.
+fiscalité propre.Le bénéfice des exonérations prenant effet en 2004 est
+subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides
+de minimis.
 
 En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
 est maintenue pour la période restant à courir et dans les conditions prévues
@@ -252,14 +253,14 @@ Les dispositions du septième alinéa du I ter et des trois dernières phrases d
 premier alinéa du I quater, ainsi que de ses neuvième, dixième et onzième
 alinéas s'appliquent au présent I quinquies.
 
-I quinquies A. - Sauf délibération contraire de la collectivité territoriale ou
-de l'établissement public de coopération intercommunale doté d'une fiscalité
-propre prise dans les conditions prévues au I de l'article 1639 A bis, les
-entreprises sont exonérées de taxe professionnelle pour les créations et
-extensions d'établissements qu'elles réalisent entre le 1er janvier 2007 et le
-31 décembre 2011 dans les bassins d'emploi à redynamiser définis au 3 bis de
-l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire.
+I quinquies A.-Sauf délibération contraire de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale doté d'une fiscalité propre
+prise dans les conditions prévues au I de l'article 1639 A bis, les entreprises
+sont exonérées de taxe professionnelle pour les créations et extensions
+d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre
+2011 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire.
 
 Les exonérations prévues au premier alinéa portent pendant cinq ans à compter de
 l'année qui suit la création ou, en cas d'extension d'établissement, à compter
@@ -278,24 +279,29 @@ qui, au titre d'une ou plusieurs des cinq années précédant le transfert :
 a) A donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) Ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
-de l'exonération prévue, selon le cas, aux articles 1465, 1465 A et 1465 B ou
-aux I bis, I ter, I quater, I quinquies ou I sexies du présent article ou au
-présent I quinquies A.
+de l'exonération prévue, selon le cas, aux articles 1465,1465 A et 1465 B ou aux
+I bis, I ter, I quater, I quinquies ou I sexies du présent article ou au présent
+I quinquies A.
 
 Pour l'application des dispositions ci-dessus, les délibérations des
 collectivités territoriales et de leurs groupements dotés d'une fiscalité propre
 ne peuvent porter que sur l'ensemble des établissements créés ou étendus.
 
-Lorsque l'établissement est situé dans une zone d'aide à finalité régionale,
-l'exonération s'applique dans les conditions et limites prévues par le règlement
-(CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant l'application
-des articles 87 et 88 du traité CE aux aides nationales à l'investissement à
-finalité régionale. Dans le cas contraire, elle s'applique dans les conditions
-et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12
-janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux
-aides de minimis.
+Le bénéfice des exonérations est subordonné au respect du règlement (CE) n° 1998
+/ 2006 de la Commission du 15 décembre 2006 précité. Toutefois, sur option des
+entreprises qui procèdent aux opérations mentionnées au premier alinéa dans les
+zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
+au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006
+concernant l'application des articles 87 et 88 du traité CE aux aides nationales
+à l'investissement à finalité régionale.
 
-I sexies. - Sauf délibération contraire de la collectivité territoriale ou de
+L'option mentionnée au huitième alinéa est irrévocable pour la durée de
+l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
+dépôt de la déclaration annuelle afférente à la première année au titre de
+laquelle l'exonération prend effet ou de la déclaration provisoire de taxe
+professionnelle visée à l'article 1477.
+
+I sexies.-Sauf délibération contraire de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale doté d'une fiscalité
 propre, les établissements qui font l'objet d'une création ou d'une extension
 entre le 1er janvier 2006 et le 31 décembre 2011 dans les zones franches
@@ -328,8 +334,8 @@ société en cause et ces dernières sociétés ou ces fonds.
 Pour l'application du 1° et du 2°, le chiffre d'affaires doit être ramené ou
 porté le cas échéant à douze mois. Les seuils s'appliquent, pour les
 établissements existants, à la date de délimitation de la zone et, pour les
-créations et extensions postérieures, à la date de l'implantation dans la zone.
-L'effectif de l'entreprise est apprécié par référence au nombre moyen de
+créations et extensions postérieures, à la date de l'implantation dans la
+zone.L'effectif de l'entreprise est apprécié par référence au nombre moyen de
 salariés employés au cours de cet exercice. Pour la société mère d'un groupe
 mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la
 somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
@@ -348,11 +354,10 @@ sur la totalité de la part revenant à chaque collectivité territoriale ou
 et s'applique dans les conditions prévues au septième alinéa du I ter, aux trois
 dernières phrases du premier alinéa et aux neuvième, dixième et onzième alinéas
 du I quater, à la dernière phrase du troisième alinéa et au sixième alinéa du I
-quinquies. Les exonérations prenant effet en 2006 dans les zones mentionnées au
-deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
-précitée s'appliquent dans les conditions et limites prévues par le règlement
-(CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application
-des articles 87 et 88 du traité CE aux aides de minimis.
+quinquies. Le bénéfice des exonérations prenant effet en 2006 dans les zones
+mentionnées au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du
+4 février 1995 précitée est subordonné au respect du règlement (CE) n° 1998 /
+2006 de la Commission du 15 décembre 2006 précité.
 
 II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater, I
 quinquies, I quinquies A et I sexies les contribuables déclarent, chaque année,
@@ -360,10 +365,10 @@ dans les conditions prévues à l'article 1477, les éléments entrant dans le c
 d'application de l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
-des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1465, 1465 A ou
+des exonérations prévues aux articles 1464 A,1464 B,1464 D,1464 I,1465,1465 A ou
 1465 B et de celles prévues aux I, I bis, I ter, I quater, I quinquies, I
 quinquies A ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
-régimes. L'option qui est irrévocable vaut pour l'ensemble des collectivités et
+régimes.L'option qui est irrévocable vaut pour l'ensemble des collectivités et
 doit être exercée, selon le cas, dans le délai prévu pour le dépôt de la
 déclaration annuelle afférente à la première année au titre de laquelle
 l'exonération prend effet ou de la déclaration provisoire de taxe
@@ -380,7 +385,7 @@ la consommation hors tabac constatée par l'Institut national de la statistique
 et des études économiques pour l'année de référence définie à l'article 1467 A ;
 
 c) Le montant des bases exonérées ne peut excéder chaque année, pour un même
-établissement, le montant prévu aux I, I quater ou I quinquies A , sauf dans les
+établissement, le montant prévu aux I, I quater ou I quinquies A, sauf dans les
 cas visés au troisième alinéa du I ter ;
 
 d) pour l'appréciation de la condition d'exonération fixée aux I, I bis et I ter

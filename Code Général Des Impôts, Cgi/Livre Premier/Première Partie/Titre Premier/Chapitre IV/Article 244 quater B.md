@@ -23,10 +23,6 @@ des dispositions prévues au septième alinéa du I de l'article 199 ter B, êtr
 utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
 ces groupements.
 
-La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses
-prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée
-pour chaque entreprise à 100 000 euros par période de trois ans consécutifs.
-
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à
@@ -47,7 +43,7 @@ l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
 précédente ;
 
 c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ;
-ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel
+ces dépenses sont fixées forfaitairement à 75 % des dépenses de personnel
 mentionnées à la première phrase du b ;
 
 Ce pourcentage est fixé à :
@@ -97,8 +93,8 @@ e) Les frais de prise et de maintenance de brevets et de certificats d'obtention
 végétale ;
 
 e bis) Les frais de défense de brevets et de certificats d'obtention végétale,
-ainsi que, dans la limite de 60 000 EUR par an, les primes et cotisations ou la
-part des primes et cotisations afférentes à des contrats d'assurance de
+ainsi que, dans la limite de 60 000 euros par an, les primes et cotisations ou
+la part des primes et cotisations afférentes à des contrats d'assurance de
 protection juridique prévoyant la prise en charge des dépenses exposées, à
 l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de
 litiges portant sur un brevet ou un certificat d'obtention végétale dont
@@ -165,6 +161,23 @@ l'évasion fiscale.
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul
 du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié
 du crédit d'impôt prévu à l'article 220 septies.
+
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte
+des dépenses prévues aux h et i du II est subordonné au respect du règlement
+(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis (1).
+
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements
+mentionnés aux articles 8,238 bis L,239 quater,239 quater B et 239 quater C qui
+ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La
+fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée
+par les associés de ces sociétés ou les membres de ces groupements
+proportionnellement à leurs droits dans ces sociétés ou groupements s'ils
+satisfont aux conditions d'application de ce même règlement et sous réserve
+qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes
+physiques participant à l'exploitation au sens du 1° bis du I de l'article 156
+(1).
 
 III. Les subventions publiques reçues par les entreprises à raison des
 opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de

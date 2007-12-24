@@ -96,20 +96,10 @@ placée dans une situation de dépendance.
 
 IV. Pour les entreprises créées à compter du 1er janvier 2000, le bénéfice
 exonéré ne peut en aucun cas excéder 225 000 euros par période de trente-six
-mois.
+mois. Ces dispositions s'appliquent aux exercices clos jusqu'au 31 décembre
+2006.
 
-En outre, pour les entreprises créées à compter du 1er janvier 2007 qui
-remplissent les conditions mentionnées aux IV ou V de l'article 44 septies,
-l'exonération s'applique dans les conditions et limites prévues par le règlement
-(CE) n° 70/2001 de la Commission, du 12 janvier 2001, concernant l'application
-des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et
-moyennes entreprises, modifié par le règlement (CE) n° 364/2004 du 25 février
-2004. Pour les entreprises créées dans les zones d'aide à finalité régionale à
-compter du 1er janvier 2007, l'exonération s'applique dans les conditions et
-limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24
-octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux
-aides nationales à l'investissement à finalité régionale. Pour les autres
-entreprises créées à compter du 1er janvier 2007, elle s'applique dans les
-conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission,
-du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE
-aux aides de minimis.
+Pour les exercices clos à compter du 1er janvier 2007, le bénéfice de
+l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
+traité aux aides de minimis.

@@ -1,7 +1,6 @@
 Article 291
 ----
-I 1. Les importations de biens sont soumises à la taxe sur la valeur ajoutée
-[*TVA*].
+I 1. Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
 
 2. Est considérée comme importation d'un bien :
 
@@ -41,7 +40,7 @@ c. (abrogé).
 
 d. (abrogé).
 
-e. Déchets neufs d'industrie et matières de récupération ;
+e. (abrogé).
 
 4° L'or, sous toutes ses formes, importé par les instituts d'émission ;
 

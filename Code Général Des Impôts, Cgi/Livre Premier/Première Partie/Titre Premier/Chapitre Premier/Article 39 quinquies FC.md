@@ -7,4 +7,4 @@ de l'environnement peuvent bénéficier de l'amortissement exceptionnel prévu a
 articles 39 quinquies E et 39 quinquies F.
 
 II. Les dispositions du présent article s'appliquent aux investissements
-réalisés avant le 1er janvier 2008.
+réalisés avant le 1er janvier 2009.

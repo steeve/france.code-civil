@@ -14,3 +14,7 @@ minimale de cinq ans à compter de cette date.
 Lorsque l'engagement prévu au deuxième alinéa n'est pas respecté, l'acquéreur
 est tenu d'acquitter, à première réquisition, le complément d'imposition dont il
 avait été dispensé.
+
+Le bénéfice de la réduction est subordonné au respect du règlement (CE) n° 1998
+/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.
