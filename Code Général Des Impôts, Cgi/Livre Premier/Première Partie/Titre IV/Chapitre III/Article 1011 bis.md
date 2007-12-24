@@ -148,7 +148,7 @@ Taux ≤ 140
 
 750
 
-1 100
+1 300
 
 191 ≤ taux ≤ 195
 
@@ -160,7 +160,7 @@ Taux ≤ 140
 
 1600
 
-1 600
+2 300
 
 196 ≤ taux ≤ 200
 
@@ -172,7 +172,7 @@ Taux ≤ 140
 
 1 600
 
-1 600
+2 300
 
 201 ≤ taux ≤ 230
 
@@ -184,7 +184,7 @@ Taux ≤ 140
 
 1 600
 
-1 600
+2 300
 
 231 ≤ taux ≤ 235
 
@@ -196,7 +196,7 @@ Taux ≤ 140
 
 1 600
 
-2 600
+3 600
 
 236 ≤ taux ≤ 240
 
@@ -208,7 +208,7 @@ Taux ≤ 140
 
 1 600
 
-2 600
+3 600
 
 241 ≤ taux ≤ 245
 
@@ -220,7 +220,7 @@ Taux ≤ 140
 
 2 600
 
-2 600
+3 600
 
 246 ≤ taux ≤ 250
 
@@ -232,7 +232,7 @@ Taux ≤ 140
 
 2 600
 
-2 600
+3 600
 
 250 &lt; taux
 
@@ -244,7 +244,7 @@ Taux ≤ 140
 
 2 600
 
-2 600
+3 600
 
 Pour la détermination des tarifs mentionnés au tableau ci-dessus, le taux
 d'émission de dioxyde de carbone des véhicules est diminué de 20 grammes par
@@ -285,15 +285,15 @@ Puissance fiscale ≤ 7
 
 10 ≤ puissance totale ≤ 11
 
-1 100
+1 300
 
 12 ≤ puissance fiscale ≤ 16
 
-1 600
+2 300
 
 16 &lt; puissance fiscale
 
-2 600
+3 600
 
 Pour les véhicules introduits en France après avoir été immatriculés dans un
 autre pays, la taxe est réduite d'un dixième par année entamée depuis cette
