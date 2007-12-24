@@ -4,10 +4,10 @@ I. Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'une réduction d'impôt sur le revenu à raison des investissements
 productifs neufs qu'ils réalisent dans les départements d'outre-mer, à
 Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
-française, dans les îles Wallis-et-Futuna et les Terres australes et
-antarctiques françaises, dans le cadre d'une entreprise exerçant une activité
-agricole ou une activité industrielle, commerciale ou artisanale relevant de
-l'article 34.
+française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et
+les Terres australes et antarctiques françaises, dans le cadre d'une entreprise
+exerçant une activité agricole ou une activité industrielle, commerciale ou
+artisanale relevant de l'article 34.
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements
 réalisés dans les secteurs d'activité suivants :
@@ -44,9 +44,9 @@ k) Les activités associatives ;
 
 l) Les activités postales.
 
-La réduction d'imp&lt;CB&gt;t prévue au premier alinéa s'applique également aux
-travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et
-de village de vacances classés et aux logiciels qui sont nécessaires à
+La réduction d'impôt prévue au premier alinéa s'applique également aux travaux
+de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de
+village de vacances classés et aux logiciels qui sont nécessaires à
 l'utilisation des investissements éligibles, lorsque ces travaux et logiciels
 constituent des éléments de l'actif immobilisé.
 
@@ -111,18 +111,18 @@ Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les
 biens ayant ouvert droit à réduction d'impôt sont transmis dans le cadre des
 opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la
 transmission s'engage à conserver ces biens et à maintenir leur affectation
-initiale pendant la fraction du délai de conservation restant à courir.
-L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans
-un acte sous seing privé ayant date certaine, établi à cette occasion. En cas de
-non-respect de cet engagement, le bénéficiaire de la transmission doit, au titre
-de l'exercice au cours duquel cet événement est intervenu, ajouter à son
-résultat une somme égale au triple du montant de la réduction d'impôt à laquelle
-les biens transmis ont ouvert droit.
+initiale pendant la fraction du délai de conservation restant à
+courir.L'engagement est pris dans l'acte constatant la transmission ou, à
+défaut, dans un acte sous seing privé ayant date certaine, établi à cette
+occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
+transmission doit, au titre de l'exercice au cours duquel cet événement est
+intervenu, ajouter à son résultat une somme égale au triple du montant de la
+réduction d'impôt à laquelle les biens transmis ont ouvert droit.
 
 Lorsque l'investissement est réalisé par une société ou un groupement visés au
 dix-neuvième alinéa, les associés ou membres doivent, en outre, conserver les
 parts ou actions de cette société ou de ce groupement pendant un délai de cinq
-ans à compter de la réalisation de l'investissement. A défaut, la réduction
+ans à compter de la réalisation de l'investissement.A défaut, la réduction
 d'impôt qu'ils ont pratiquée fait l'objet d'une reprise au titre de l'année de
 la cession. Le revenu global de cette même année est alors majoré des déficits
 indûment imputés en application du I bis. Les montants de cette reprise et de
@@ -145,8 +145,8 @@ l'année au cours de laquelle cet événement se réalise. Le revenu global de c
 même année est alors majoré des déficits indûment imputés en application du I
 bis du présent article.
 
-I bis. - 1. En cas de location, dans les conditions mentionnées au dernier
-alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
+I bis.-1. En cas de location, dans les conditions mentionnées au dernier alinéa
+du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
 classés ayant fait l'objet de travaux de rénovation ou de réhabilitation ouvrant
 droit au bénéfice des dispositions du dix-huitième alinéa du I, les dispositions
 du II de l'article 39 C et, pour la partie de déficit provenant des travaux
@@ -193,7 +193,7 @@ et de village de vacances classés ou des entreprises en difficultés ou qui son
 nécessaires à l'exploitation d'une concession de service public local à
 caractère industriel et commercial.
 
-III. - Le régime issu du présent article est applicable aux investissements
+III.-Le régime issu du présent article est applicable aux investissements
 réalisés entre la date de promulgation de la loi n° 2003-660 du 21 juillet 2003
 précitée et le 31 décembre 2017, à l'exception :
 

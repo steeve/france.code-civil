@@ -3,10 +3,10 @@ Article 199 undecies A
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables
 domiciliés en France au sens de l'article 4 B qui investissent dans les
 départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
-Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et
-les Terres australes et antarctiques françaises, entre la date de promulgation
-de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer et le 31
-décembre 2017.
+Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy,
+dans les îles Wallis et Futuna et les Terres australes et antarctiques
+françaises, entre la date de promulgation de la loi n° 2003-660 du 21 juillet
+2003 de programme pour l'outre-mer et le 31 décembre 2017.
 
 2. La réduction d'impôt s'applique :
 
@@ -162,7 +162,7 @@ décret.
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer
 et la collectivité départementale de Mayotte mentionnés aux a, b, c, d et e du
-2, les taux de 25 %, 40 % et 50 % visés aux deuxième et troisième alinéas sont
+2, les taux de 25 %,40 % et 50 % visés aux deuxième et troisième alinéas sont
 majorés de dix points lorsque le logement est situé dans une zone urbaine
 sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire.
