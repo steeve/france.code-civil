@@ -36,7 +36,11 @@ supérieure à six mois.
 5° Elle ne l'est pas non plus pour la vérification de comptabilité de l'année ou
 de l'exercice au cours duquel l'administration a dressé un procès-verbal de
 flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, ainsi que
-pour la vérification des années antérieures.
+pour la vérification des années antérieures ;
+
+6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une
+information ouverte par l'autorité judiciaire dans le cas mentionné à l'article
+L. 188 B est en cours.
 
 III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois
 mois de la durée de la vérification sur place est prorogée de la durée comprise
