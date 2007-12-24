@@ -20,4 +20,5 @@ l'article 119 bis du code général des impôts ;
 7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de
 l'impôt sur les sociétés.
 
-8° au supplément d'imposition visé au II de l'article 1647 E.
+8° A la cotisation minimale de taxe professionnelle prévue au II de l'article
+1647 E.

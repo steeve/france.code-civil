@@ -12,9 +12,7 @@ cette majoration puisse être appliquée avant le 15 septembre pour les impôts
 établis au titre de l'année en cours ;
 
 b. Aux acomptes qui n'ont pas été versés le 15 du mois suivant celui au cours
-duquel ils sont devenus exigibles, ou le 15 décembre de l'année d'imposition
-pour l'acompte mentionné à l'article 1679 septies, ainsi qu'au solde du
-supplément d'imposition prévu au troisième alinéa de ce même article ;
+duquel ils sont devenus exigibles ;
 
 Les dispositions du a ne s'appliquent pas aux sommes déjà majorées en
 application du b.

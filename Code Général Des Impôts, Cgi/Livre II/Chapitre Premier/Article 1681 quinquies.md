@@ -10,7 +10,7 @@ acquittée dans les conditions prévues au 3 de l'article 1672, ainsi qu'aux
 prélèvements dus dans les conditions du III de l'article 117 quater et de
 l'article 125 D.
 
-2. (Périmé)
+2. (Périmé).
 
 3. Les paiements afférents à l'impôt mentionné à l'article 1668 sont effectués
 par virement directement opéré sur le compte du Trésor ouvert dans les écritures
@@ -21,3 +21,8 @@ de l'exercice précédent par l'entreprise est supérieur à 760 000 euros.
 sont effectués par virement directement opéré sur le compte du Trésor ouvert
 dans les écritures de la Banque de France lorsque leur montant excède 50 000
 euros.
+
+5. Les paiements relatifs à la cotisation minimale de taxe professionnelle
+mentionnée à l'article 1647 E sont effectués par virement directement opéré sur
+le compte du Trésor ouvert dans les écritures de la Banque de France lorsque
+leur montant excède 50 000 euros.
