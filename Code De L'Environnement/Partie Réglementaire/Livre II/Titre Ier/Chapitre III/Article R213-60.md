@@ -1,10 +1,11 @@
 Article R213-60
 ----
-I. - L'office exerce les missions qui lui sont dévolues par l'article L. 213-13,
+I.-L'office exerce les missions qui lui sont dévolues par l'article L. 213-13,
 dans le respect des dispositions des articles L. 210-1 et L. 211-1 et des
-dispositions du schéma directeur d'aménagement et de gestion des eaux.
+dispositions du schéma directeur d'aménagement et de gestion des eaux ainsi que
+par l'article L. 3232-1-1 du code général des collectivités territoriales.
 
-II. - A cet effet :
+II.-A cet effet :
 
 1° Il est informé par les services publics de l'Etat des études et recherches
 relatives aux ressources en eau, à leur qualité ou à leur quantité. Il invite
