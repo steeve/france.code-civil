@@ -13,6 +13,18 @@ b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
 c) Le montant de la taxe sur les salaires ;
 
+d) Pour les employeurs assujettis à la taxe d'apprentissage et à la contribution
+au développement de l'apprentissage conformément, respectivement, aux articles
+224 et 1599 quinquies A du code général des impôts, le montant des rémunérations
+défini aux articles 225 et 225 A du code général des impôts ;
+
+e) Pour les employeurs assujettis à la participation au développement de la
+formation professionnelle continue conformément à l'article L. 952-1 du code du
+travail , le montant des rémunérations défini au premier alinéa de l'article L.
+952-1 précité ainsi que, le cas échéant, le montant des rémunérations versées
+aux titulaires d'un contrat à durée déterminée défini au premier alinéa de
+l'article L. 931-20 du même code ;
+
 2° Concernant chaque salarié rétribué l'année précédente :
 
 a) Son identification : nom de famille, le cas échéant nom de l'époux, prénoms,
@@ -48,13 +60,13 @@ directe par l'employeur ;
 
 le montant des sommes versées au titre des chèques vacances ;
 
-- le montant des cotisations ou primes versées par le salarié et l'employeur
-qui, en application du 2° de l'article 83 du code général des impôts ou, au
-titre de la retraite supplémentaire, du 2°-0 bis et, au titre de la retraite, du
-2°-0 ter du même article, sont, selon le cas, déductibles pour la détermination
-de la rémunération imposable ou ne sont pas ajoutées à cette rémunération ;
+-le montant des cotisations ou primes versées par le salarié et l'employeur qui,
+en application du 2° de l'article 83 du code général des impôts ou, au titre de
+la retraite supplémentaire, du 2°-0 bis et, au titre de la retraite, du 2°-0 ter
+du même article, sont, selon le cas, déductibles pour la détermination de la
+rémunération imposable ou ne sont pas ajoutées à cette rémunération ;
 
-- le montant des sommes versées par l'employeur à un plan d'épargne pour la
+-le montant des sommes versées par l'employeur à un plan d'épargne pour la
 retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées
 en application du 18° de l'article 81 du code général des impôts ;
 
