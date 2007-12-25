@@ -1,7 +1,7 @@
 Article R212-12
 ----
 En ce qui concerne les mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 1, 2, 15, 16 a et h, 17 et 18 mentionnées à l'article R.
+relevant des branches 1,2,15,16 a et h,17 et 18 mentionnées à l'article R.
 211-2, l'exigence minimale de marge de solvabilité est déterminée soit par
 rapport au montant annuel des cotisations, soit par rapport à la charge moyenne
 des sinistres pour les trois derniers exercices. Cette exigence minimale de
@@ -72,3 +72,15 @@ techniques pour sinistres à payer à la fin du dernier exercice et le montant d
 provisions techniques à payer au début du dernier exercice. Dans ces calculs,
 les provisions techniques sont calculées déduction faite de la réassurance, le
 ratio ne pouvant jamais être supérieur à un.
+
+Les montants correspondant aux seuils des cotisations et des sinistres
+mentionnés aux quatrièmes alinéas des a et b sont révisés annuellement en
+fonction de l'évolution de l'indice européen des prix à la consommation publié
+par Eurostat pour l'ensemble des Etats membres.
+
+Chaque année, l'autorité de contrôle communique les nouveaux montants en euros
+calculés en fonction de l'évolution de cet indice et arrondis au multiple de 100
+000 euros supérieur.
+
+Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %,
+ces montants ne sont pas révisés.

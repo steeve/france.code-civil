@@ -22,8 +22,8 @@ cours du dernier exercice, d'autre part le total des impôts et taxes afférents
 aux cotisations précitées.
 
 Le montant ainsi obtenu est réparti en deux tranches, respectivement inférieure
-et supérieure à 50 millions d'euros. A 18 p. 100 de la première tranche sont
-ajoutés 16 p. 100 de la seconde.
+et supérieure à 50 millions d'euros. A 18 % de la première tranche sont ajoutés
+16 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent
@@ -31,7 +31,7 @@ par le rapport existant, pour les trois derniers exercices, entre le montant des
 sinistres demeurant à charge de l'institution de prévoyance ou de l'union
 d'institutions de prévoyance après cession en réassurance et le montant des
 sinistres bruts de réassurance, sans que ce rapport puisse être inférieur à 50
-p. 100.
+%.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des
 sinistres) :
@@ -51,15 +51,15 @@ inventorié, tant pour les opérations directes que pour les acceptations en
 réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 35 millions d'euros. A 26 p. 100 de la première
-tranche sont ajoutés 23 p. 100 de la seconde.
+inférieure et supérieure à 35 millions d'euros. A 26 % de la première tranche
+sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent,
 par le rapport existant, pour les trois derniers exercices, entre le montant des
 sinistres demeurant à charge de l'institution après cession en réassurance et le
 montant des sinistres brut de réassurance, sans que ce rapport puisse être
-inférieur à 50 p. 100.
+inférieur à 50 %.
 
 Si les calculs des a et b donnent un résultat inférieur à l'exigence de marge de
 l'exercice précédent, l'exigence de marge de solvabilité est au moins égale à
@@ -67,4 +67,13 @@ celle de l'exercice précédent multipliée par le rapport entre les provisions
 techniques pour sinistres à payer à la fin du dernier exercice et le montant des
 provisions techniques à payer au début du dernier exercice. Dans ces calculs,
 les provisions techniques sont calculées déduction faite de la réassurance, le
-ratio ne pouvant jamais être supérieur à un.
+ratio ne pouvant jamais être supérieur à un. Les montants correspondant aux
+seuils des cotisations et des sinistres mentionnés aux quatrièmes alinéas des a
+et b sont révisés annuellement en fonction de l'évolution de l'indice européen
+des prix à la consommation publié par Eurostat pour l'ensemble des Etats
+membres. Chaque année, l'autorité de contrôle communique les nouveaux montants
+en euros calculés en fonction de l'évolution de cet indice et arrondis au
+multiple de 100 000 euros supérieur.
+
+Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %,
+ces montants ne sont pas révisés.
