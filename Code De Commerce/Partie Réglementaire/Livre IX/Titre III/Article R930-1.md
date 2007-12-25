@@ -11,7 +11,7 @@ institutions et services de l'Etat et les personnes morales de droit public
 administratif dont le siège est situé en Nouvelle-Calédonie, ainsi que leurs
 établissements ;
 
-2° Le livre II, à l'exception de l'article R. 252-1 ;
+2° Le livre II, à l'exception des articles R. 229-1 à R. 229-26 et R. 252-1 ;
 
 3° Le livre III, à l'exception des articles R. 310-1 à R. 310-19, R. 321-1 à R.
 321-73 ;

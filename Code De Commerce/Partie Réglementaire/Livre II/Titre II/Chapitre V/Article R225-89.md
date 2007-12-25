@@ -8,11 +8,12 @@ L. 225-115 et R. 225-83. Toutefois, il n'a le droit de prendre connaissance, aux
 mêmes lieux, du rapport des commissaires aux comptes, que pendant le même délai
 de quinze jours.
 
-Il a également le droit, à compter de la convocation de l'assemblée spéciale et
-au moins pendant le délai de quinze jours qui précède la date de la réunion, de
-prendre connaissance, aux mêmes lieux, du texte des résolutions présentées, du
-rapport du conseil d'administration ou du directoire, ainsi que, le cas échéant,
-du rapport des commissaires aux comptes.
+Il a également le droit, à compter de la convocation de l'assemblée générale
+extraordinaire ou de l'assemblée spéciale et au moins pendant le délai de quinze
+jours qui précède la date de la réunion, de prendre connaissance, aux mêmes
+lieux, du texte des résolutions présentées, du rapport du conseil
+d'administration ou du directoire, ainsi que, le cas échéant, du rapport des
+commissaires aux comptes.
 
 Il peut aussi, à compter de la convocation de l'assemblée générale prévue à
 l'article L. 225-101, prendre connaissance dans les conditions prévues à

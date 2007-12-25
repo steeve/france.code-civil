@@ -10,7 +10,7 @@ dispositions suivantes du code sont applicables dans les îles Wallis et Futuna 
 services de l'Etat et les personnes morales de droit public administratif dont
 le siège est situé à Wallis et Futuna, ainsi que leurs établissements ;
 
-2° Le livre II, à l'exception de l'article R. 252-1 ;
+2° Le livre II, à l'exception des articles R. 229-1 à R. 229-26 et R. 252-1 ;
 
 3° Le livre III, à l'exception des articles R. 321-1 à R. 321-73 ;
 

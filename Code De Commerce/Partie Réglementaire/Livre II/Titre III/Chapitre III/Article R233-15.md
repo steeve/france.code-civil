@@ -7,7 +7,10 @@ sont réunies les conditions suivantes :
 
 1° Les comptes consolidés de l'ensemble plus grand d'entreprises, dans lequel
 ces sociétés sont incluses, sont établis en conformité avec les articles L.
-233-16 à L. 233-28 ;
+233-16 à L. 233-28 ou, pour les entreprises relevant de la législation nationale
+d'un autre Etat membre de la Communauté européenne, avec les dispositions prises
+par cet Etat pour l'application de la directive n° 83-349 du 13 juin 1983 du
+Conseil des communautés européennes ;
 
 2° Ils sont, selon la législation applicable à la société qui les établit,
 certifiés par les professionnels indépendants chargés du contrôle des comptes et

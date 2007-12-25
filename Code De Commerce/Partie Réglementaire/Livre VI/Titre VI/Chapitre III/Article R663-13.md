@@ -1,10 +1,11 @@
 Article R663-13
 ----
-Par dérogation aux dispositions du présent chapitre, l'entière rémunération de
-l'administrateur judiciaire est arrêtée en considération des frais engagés et
-des diligences accomplies par lui et sans qu'il puisse être fait référence au
-tarif prévu par le présent chapitre lorsque le total de la rémunération calculée
-en application de ce tarif excède 100 000 euros hors taxes.
+Par dérogation aux dispositions de la présente sous-section, l'entière
+rémunération de l'administrateur judiciaire est arrêtée en considération des
+frais engagés et des diligences accomplies par lui et sans qu'il puisse être
+fait référence au tarif prévu par la présente sous-section lorsque le total de
+la rémunération calculée en application de ce tarif excède 100 000 euros hors
+taxes.
 
 Dans le cas prévu au premier alinéa, la rémunération de l'administrateur, qui ne
 peut être inférieure à 100 000 euros hors taxes, est arrêtée par le magistrat de

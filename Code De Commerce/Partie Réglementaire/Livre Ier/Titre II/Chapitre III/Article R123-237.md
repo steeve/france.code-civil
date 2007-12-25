@@ -5,7 +5,7 @@ et documents publicitaires ainsi que sur toutes correspondances et tous
 récépissés concernant son activité et signés par elle ou en son nom :
 
 1° Le numéro unique d'identification de l'entreprise délivré conformément à
-l'article R. 123-235 ;
+l'article D. 123-235 ;
 
 2° La mention RCS suivie du nom de la ville où se trouve le greffe où elle est
 immatriculée ;
@@ -28,7 +28,7 @@ son numéro unique d'identification.
 
 Toute personne immatriculée indique en outre sur son site internet la mention
 RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée,
-ainsi que des renseignements mentionnés aux 1°, 3° et 5°.
+ainsi que des renseignements mentionnés aux 1°,3° et 5°.
 
 Toute contravention aux dispositions des alinéas précédents est punie de
 l'amende prévue pour les contraventions de la 4e classe.

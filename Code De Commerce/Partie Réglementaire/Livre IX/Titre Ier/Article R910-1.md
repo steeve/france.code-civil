@@ -5,7 +5,7 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les dispositions suivantes :
 1° Les articles R. 121-3, R. 121-4, R. 123-209 à R. 123-219, D. 145-12 à D.
 145-19, D. 146-1 et D. 146-2 ;
 
-2° L'article R. 252-1 ;
+2° Les articles R. 229-1 à R. 229-26 et R. 252-1 ;
 
 3° Les articles R. 470-2 à R. 470-7 ;
 
