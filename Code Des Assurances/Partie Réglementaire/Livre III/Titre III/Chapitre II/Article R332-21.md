@@ -33,5 +33,4 @@ III. Les actifs visés aux articles R. 332-19 et R. 332-20 inscrits dans une
 devise autre que l'euro en application des dispositions de l'article R. 341-7
 sont évalués dans cette même devise pour l'application de l'article R. 332-20-1.
 
-IV. La provision pour pertes de change est calculée après compensation de
-l'ensemble des différences de conversion actif et passif.
+IV. abrogé.

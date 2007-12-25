@@ -1,7 +1,7 @@
 Article R931-10-43
 ----
-I. - Les cessions de titres en portefeuille sont réputées porter par priorité
-sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
+I.-Les cessions de titres en portefeuille sont réputées porter par priorité sur
+les titres de même nature acquis ou souscrits à la date la plus ancienne.
 Lorsque des titres de même nature ont été acquis de manière successive en
 fonction d'un même ordre d'achat ou au cours d'un même exercice, la
 détermination du prix unitaire d'achat de chacun de ces titres peut s'effectuer
@@ -16,7 +16,7 @@ décembre 1998. Dans ce cas, le prix de revient unitaire des titres de même
 nature détenus à cette date est égal au prix unitaire moyen pondéré de
 l'ensemble de ces titres calculé à cette même date.
 
-II. - Lorsque des placements détenus par l'institution ou l'union et évalués
+II.-Lorsque des placements détenus par l'institution ou l'union et évalués
 conformément à l'article R. 931-10-40 ou à l'article R. 931-10-41 changent de
 destination et sont affectés en représentation d'engagements à capital variable
 tels que définis au premier alinéa de l'article R. 931-10-27, ils sont inscrits
@@ -29,10 +29,9 @@ affectés en représentation d'engagements à capital variable, telle qu'elle
 résulte de l'application des règles d'évaluation prévues par l'article R.
 931-10-27, est constatée en compte de résultat.
 
-III. - Les actifs visés aux articles R. 931-10-40 et R. 931-10-41 inscrits dans
+III.-Les actifs visés aux articles R. 931-10-40 et R. 931-10-41 inscrits dans
 une devise autre que l'euro en application des dispositions de l'article R.
 931-11-7 sont évalués dans cette même devise pour l'application de l'article R.
 931-10-42.
 
-IV. - La provision pour pertes de change est calculée après compensation de
-l'ensemble des différences de conversion actif et passif.
+IV.-abrogé.
