@@ -1,24 +1,12 @@
 Article R611-25
 ----
-Les aubergistes, hôteliers, logeurs ou loueurs de maisons garnies, les
-gestionnaires de droit ou de fait de terrains de camping aménagés ou de terrains
-aménagés destinés au stationnement des caravanes sont tenus de faire remplir et
-signer par l'étranger, dès son arrivée, une fiche individuelle de police. Elle
-doit mentionner notamment :
+Est autorisée la création, sur le fondement de l'article L. 611-3, d'un
+traitement automatisé de données à caractère personnel dénommé ELOI, relevant du
+ministère chargé de l'immigration.
 
-1° Le nom et les prénoms ;
+Ce traitement a pour finalités :
 
-2° La date et le lieu de naissance ;
+a) De permettre le suivi et la mise en oeuvre des mesures d'éloignement prévues
+au livre V par la gestion des différentes étapes de la procédure ;
 
-3° La nationalité ;
-
-4° Le domicile habituel de l'étranger.
-
-Les enfants âgés de moins de 15 ans peuvent figurer sur la fiche de l'un des
-parents.
-
-Les fiches ainsi établies doivent être remises chaque jour aux autorités de
-police.
-
-Les personnes physiques ou morales louant des locaux nus ne sont pas astreintes
-aux obligations prévues aux alinéas ci-dessus.
+b) D'établir des statistiques relatives à ces mesures et à leur exécution.
