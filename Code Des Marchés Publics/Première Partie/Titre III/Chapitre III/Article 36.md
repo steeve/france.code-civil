@@ -18,7 +18,7 @@ montage juridique ou financier d'un projet.
 
 Les conditions de recours à la procédure de dialogue compétitif mentionnées
 ci-dessus ne sont pas exigées pour les marchés de travaux dont le montant est
-compris entre 210 000 Euros HT et 5 270 000 Euros HT.
+compris entre 206 000 Euros HT et 5 150 000 Euros HT.
 
 Pour la réalisation des ouvrages pour lesquels la loi du 12 juillet 1985
 susmentionnée s'applique, le pouvoir adjudicateur peut recourir à la procédure

@@ -3,7 +3,7 @@ Article 35
 Les pouvoirs adjudicateurs peuvent passer des marchés négociés dans les cas
 définis ci-dessous.
 
-I. - Peuvent être négociés après publicité préalable et mise en concurrence :
+I.-Peuvent être négociés après publicité préalable et mise en concurrence :
 
 1° Les marchés et les accords-cadres pour lesquels, après appel d'offres ou
 dialogue compétitif, il n'a été proposé que des offres irrégulières ou
@@ -40,10 +40,9 @@ services dont la nature ou les aléas qui peuvent affecter leur réalisation ne
 permettent pas une fixation préalable et globale des prix ;
 
 5° Les marchés et les accords-cadres de travaux dont le montant est compris
-entre 210 000 Euros HT et 5 270 000 Euros HT.
+entre 206 000 Euros HT et 5 150 000 Euros HT.
 
-II. - Peuvent être négociés sans publicité préalable et sans mise en concurrence
-:
+II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 
 1° Les marchés et les accords-cadres conclus pour faire face à une urgence
 impérieuse résultant de circonstances imprévisibles pour le pouvoir adjudicateur
