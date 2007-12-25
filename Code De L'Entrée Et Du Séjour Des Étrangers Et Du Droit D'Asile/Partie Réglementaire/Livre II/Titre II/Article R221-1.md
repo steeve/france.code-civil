@@ -8,4 +8,6 @@ La décision écrite et motivée prononçant le maintien en zone d'attente d'un
 police nationale ou des douanes, chargé du contrôle aux frontières, ou d'un
 fonctionnaire désigné par lui, titulaire au moins du grade de brigadier dans le
 premier cas et d'agent de constatation principal de deuxième classe dans le
-second.
+second ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie
+nationale ou un militaire désigné par lui, titulaire au moins du grade de
+gendarme.
