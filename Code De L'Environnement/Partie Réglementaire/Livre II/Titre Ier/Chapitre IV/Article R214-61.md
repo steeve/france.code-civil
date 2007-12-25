@@ -1,9 +1,14 @@
 Article R214-61
 ----
-Lorsqu'un maître d'ouvrage souhaite réaliser des aménagements hydrauliques ayant
-pour objet ou pour conséquence la régulation du débit d'un cours d'eau non
-domanial ou l'augmentation de son débit en période d'étiage et souhaite
-l'affectation à certains usages de tout ou partie du débit artificiel en
-application des dispositions de l'article L. 214-9, il adresse à cet effet une
-demande accompagnée d'un dossier au préfet du département ou de chacun des
-départements où les ouvrages doivent être réalisés.
+La personne qui, appartenant à l'une des catégories énumérées par le II de
+l'article L. 214-9, entend solliciter l'affectation de tout ou partie du débit
+artificiel délivré dans un cours d'eau par un aménagement hydraulique procède,
+préalablement au dépôt de sa demande et en concertation avec le gestionnaire de
+cet aménagement ainsi que, le cas échéant, le ou les gestionnaires des
+aménagements laissant passer ce débit artificiel, à une étude.
+
+Cette étude a pour objet de préciser les caractéristiques du projet, de
+déterminer les conditions de sa réalisation, notamment les travaux et
+installations à effectuer, et de définir les aspects techniques, juridiques et
+financiers de la convention destinée à régir ses relations avec le ou les
+gestionnaires.
