@@ -23,8 +23,8 @@ utiles dans un but de pharmacovigilance.
 
 Les entreprises et organismes exploitant des médicaments ou produits mentionnés
 à l'article R. 5121-150 doivent, sur demande motivée du directeur général de
-l'agence, fournir toute information mentionnée au second alinéa de l'article R.
-5121-151 ou effectuer toutes enquêtes et tous travaux concernant les risques
-d'effets indésirables que ces médicaments ou produits sont susceptibles de
-présenter. Les informations, enquêtes ou travaux ainsi demandés doivent être
-nécessaires à l'exercice de la pharmacovigilance.
+l'agence, fournir toute information mentionnée au 2° et au dernier alinéa de
+l'article R. 5121-151 ou effectuer toutes enquêtes et tous travaux concernant
+les risques d'effets indésirables que ces médicaments ou produits sont
+susceptibles de présenter. Les informations, enquêtes ou travaux ainsi demandés
+doivent être nécessaires à l'exercice de la pharmacovigilance.

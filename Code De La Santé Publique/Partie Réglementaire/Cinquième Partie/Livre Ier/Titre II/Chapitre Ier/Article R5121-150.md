@@ -2,8 +2,7 @@ Article R5121-150
 ----
 La pharmacovigilance a pour objet la surveillance du risque d'effet indésirable
 résultant de l'utilisation des médicaments et produits à usage humain mentionnés
-aux articles L. 5111-2 et L. 5121-1, des produits mentionnés à l'article L.
-5136-1 et des contraceptifs mentionnés à l'article L. 5134-1.
+à l'article L. 5121-1.
 
 Les sous-sections 1 à 4 de la présente section définissent des règles générales
 relatives à la pharmacovigilance exercée sur l'ensemble des médicaments et

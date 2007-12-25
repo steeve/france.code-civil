@@ -1,6 +1,13 @@
 Article R5121-174
 ----
 L'entreprise ou l'organisme exploitant un médicament ou produit mentionné à
+l'article R. 5121-150 ne peut communiquer au grand public, sur ce médicament ou
+produit, des informations portant sur la pharmacovigilance sans les transmettre,
+au préalable ou, en cas d'urgence, simultanément, au directeur général de
+l'Agence française de sécurité sanitaire des produits de santé. Ces informations
+sont présentées de manière objective et non trompeuse.
+
+L'entreprise ou l'organisme exploitant un médicament ou produit mentionné à
 l'article R. 5121-150 qui informe, en application de l'article L. 5124-6, le
 directeur général de l'Agence française de sécurité sanitaire des produits de
 santé qu'il a engagé une action pour suspendre la commercialisation d'un

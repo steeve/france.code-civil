@@ -16,7 +16,7 @@ sur le territoire duquel cet effet est survenu ;
 sanitaire des aliments tout effet indésirable grave et inattendu présumé sur
 l'animal et tout effet indésirable présumé sur l'être humain, survenus sur le
 territoire d'un Etat non membre de la Communauté européenne dont il a eu
-connaissance, et d'en informer l'Agence européenne pour l'évaluation des
-médicaments et les autorités compétentes des autres Etats membres de la
-Communauté européenne dans lesquels le médicament vétérinaire est autorisé au
-plus tard dans les quinze jours suivant la réception de l'information.
+connaissance, et d'en informer l' Agence européenne des médicaments et les
+autorités compétentes des autres Etats membres de la Communauté européenne dans
+lesquels le médicament vétérinaire est autorisé au plus tard dans les quinze
+jours suivant la réception de l'information.

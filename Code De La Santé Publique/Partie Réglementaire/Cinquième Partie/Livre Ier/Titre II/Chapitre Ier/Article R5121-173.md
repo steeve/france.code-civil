@@ -13,14 +13,24 @@ bénéfices :
 
 1° Immédiatement, sur demande ;
 
-2° Semestriellement, durant les deux ans suivant la délivrance de l'autorisation
-de mise sur le marché du médicament ou produit ou la modification de celle-ci
-lorsqu'elle est consécutive à un changement de composants, à de nouvelles
-indications thérapeutiques ou à de nouveaux modes d'administration ;
+2° Semestriellement :
+
+a) Pendant la période comprise entre la délivrance de l'autorisation de mise sur
+le marché et la mise sur le marché effective du médicament ou du produit dans au
+moins un Etat membre de la Communauté européenne ou un Etat partie à l'accord
+sur l'Espace économique européen.
+
+b) Pendant les deux premières années suivant la première mise sur le marché dans
+au moins un Etat membre de la Communauté européenne ou un Etat partie à l'accord
+sur l'Espace économique européen.
+
+c) Pendant les deux premières années suivant la modification de l'autorisation
+de mise sur le marché lorsque celle-ci est consécutive à un changement de
+composants, à de nouvelles indications thérapeutiques ou à de nouveaux modes
+d'administration ;
 
 3° Annuellement, pendant les deux années suivantes ;
 
-4° Avec la première demande de renouvellement de l'autorisation ;
+4° Tous les trois ans pour les années suivantes ;
 
-5° A intervalle de cinq ans, en même temps que la demande de renouvellement de
-l'autorisation.
+5° (abrogé).

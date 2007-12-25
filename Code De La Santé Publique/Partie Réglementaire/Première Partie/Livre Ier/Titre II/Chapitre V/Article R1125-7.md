@@ -18,11 +18,11 @@ thérapie cellulaire xénogénique mentionnées au 13° de l'article L. 5121-1 ;
 4° Les médicaments dont le principe actif contient des composants d'origine
 biologique humaine ou animale ou dans la fabrication desquels entrent de tels
 composants et les médicaments mentionnés au 1 de l'annexe du règlement (CE) n°
-726/2004 du 31 mars 2004 établissant des procédures communautaires pour
+726 / 2004 du 31 mars 2004 établissant des procédures communautaires pour
 l'autorisation et la surveillance en ce qui concerne les médicaments à usage
-humain et à usage vétérinaire et instituant une agence européenne pour
-l'évaluation des médicaments et qui n'ont pas d'autorisation de mise sur le
-marché au sens de l'article L. 5121-8 ;
+humain et à usage vétérinaire et instituant une Agence européenne des
+médicaments et qui n'ont pas d'autorisation de mise sur le marché au sens de
+l'article L. 5121-8 ;
 
 5° Les dispositifs médicaux incorporant des produits d'origine humaine ou
 animale ou dans la fabrication desquels interviennent des produits d'origine

@@ -2,8 +2,10 @@ Article R5121-178
 ----
 Toute entreprise ou tout organisme exploitant un médicament ou produit mentionné
 à l'article R. 5121-150 dispose en permanence des services d'une personne,
-médecin ou pharmacien, responsable de la pharmacovigilance, et justifiant d'une
-expérience en matière de pharmacovigilance. L'identité et la qualité de cette
+médecin ou pharmacien, responsable de la pharmacovigilance résidant dans un Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen, et justifiant d'une expérience en matière de
+pharmacovigilance.L'identité et la qualité ainsi que les coordonnées de cette
 personne sont communiquées à l'Agence française de sécurité sanitaire des
 produits de santé dès sa nomination.
 
