@@ -11,5 +11,6 @@ stockages souterrains ;
 
 3° A l'article 8 du même décret ;
 
-4° A l'article 3 du décret n° 63-1228 du 11 décembre 1963 modifié relatif aux
-installations nucléaires.
+4° Aux articles 10,37 et 43 du décret n° 2007-1557 du 2 novembre 2007 relatif
+aux installations nucléaires de base et au contrôle, en matière de sûreté
+nucléaire, du transport de substances radioactives.
