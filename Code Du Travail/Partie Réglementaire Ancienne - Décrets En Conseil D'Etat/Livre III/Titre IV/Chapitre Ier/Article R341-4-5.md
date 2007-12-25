@@ -18,7 +18,7 @@ groupe, lorsque l'introduction s'effectue entre entreprises du même groupe ou
 établissements d'une même entreprise.
 
 L'étranger justifie annuellement au préfet qui a délivré la carte de séjour
-temporaire, par une déclaration conforme à un modèle fixé par arrêté du ministre
-chargé du travail et établie par son employeur, que les conditions d'emploi et
-de rémunération déclarées au moment de la demande de ladite carte sont toujours
-satisfaites.
+temporaire, par une déclaration conforme à un modèle fixé par arrêté conjoint du
+ministre chargé de l'immigration et du ministre chargé du travail et établie par
+son employeur, que les conditions d'emploi et de rémunération déclarées au
+moment de la demande de ladite carte sont toujours satisfaites.

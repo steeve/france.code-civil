@@ -10,10 +10,10 @@ section du travail et la section sociale.
 La section du travail traite des questions mentionnées aux a, c, d, e et f de
 l'article L. 341-9. Elle comprend cinq représentants des organisations
 professionnelles d'employeurs et cinq représentants des organisations syndicales
-des travailleurs, nommés pour trois ans par arrêté du ministre chargé de
-l'emploi sur proposition des organisations syndicales nationales les plus
-représentatives des employeurs et des travailleurs. Leur mandat est renouvelable
-une fois.
+des travailleurs, nommés pour trois ans par arrêté des ministres chargés de
+l'immigration et de l'emploi sur proposition des organisations syndicales
+nationales les plus représentatives des employeurs et des travailleurs. Leur
+mandat est renouvelable une fois.
 
 La section sociale traite des questions relatives au b de l'article L. 341-9 et
 à l'action sociale spécialisée mentionnée au huitième alinéa du même article.

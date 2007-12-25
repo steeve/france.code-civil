@@ -1,7 +1,7 @@
 Article R341-17
 ----
 Les services de l'agence sont placés sous l'autorité d'un directeur général
-nommé par décret sur proposition du ministre chargé de l'intégration.
+nommé par décret sur proposition du ministre chargé de l'immigration.
 
 Le directeur général représente l'agence en justice et dans tous les actes de la
 vie civile.

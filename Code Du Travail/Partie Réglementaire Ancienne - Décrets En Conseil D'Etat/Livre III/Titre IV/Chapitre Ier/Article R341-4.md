@@ -11,4 +11,4 @@ saisonniers à l'Agence nationale de l'accueil des étrangers et des migrations.
 Les recours hiérarchiques dirigés contre les décisions mentionnées au présent
 article, ainsi que les recours hiérarchiques dirigés contre les décisions
 mentionnées au troisième alinéa de l'article R. 341-4-2 et à l'article R. 341-5
-sont formés auprès du ministre chargé du travail.
+sont formés auprès du ministre chargé de l'immigration.

@@ -4,7 +4,8 @@ La demande d'autorisation de travail relevant des 5°, 6°, 7°, 8°, 9°, 12° 
 de l'article R. 341-2 est faite par l'employeur. Elle peut également être
 présentée par une personne habilitée à cet effet par un mandat écrit de
 l'employeur. La liste des documents à présenter à l'appui de cette demande est
-fixée par arrêté du ministre chargé du travail.
+fixée par arrêté conjoint du ministre chargé de l'immigration et du ministre
+chargé du travail.
 
 Lorsque l'autorisation de travail est constituée par l'un des documents
 mentionnés aux 1°, 4°, 10° de l'article R. 341-2, la demande en est faite dans

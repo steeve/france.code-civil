@@ -44,5 +44,5 @@ emploi figurant sur l'une des listes mentionnant soit les métiers, soit les
 métiers et les zones géographiques caractérisés par des difficultés de
 recrutement respectivement établies en application de l'article L. 121-2 et du
 1° de l'article L. 313-10 du code de l'entrée et du séjour des étrangers et du
-droit d'asile, par arrêté conjoint du ministre de l'intérieur et du ministre
-chargé du travail.
+droit d'asile, par arrêté conjoint du ministre chargé de l'emploi et du ministre
+chargé de l'immigration

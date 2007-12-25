@@ -3,9 +3,10 @@ Article R341-5
 Le renouvellement d'une autorisation de travail mentionnée au premier alinéa de
 l'article R. 341-3 est sollicité dans le courant des deux mois précédant son
 expiration. La demande de renouvellement est accompagnée de documents dont la
-liste est fixée par arrêté du ministre chargé du travail. L'autorisation de
-travail est renouvelée dans la limite de la durée du contrat de travail restant
-à courir ou de la mission restant à accomplir en France.
+liste est fixée par arrêté conjoint du ministre chargé de l'immigration et du
+ministre chargé du travail. L'autorisation de travail est renouvelée dans la
+limite de la durée du contrat de travail restant à courir ou de la mission
+restant à accomplir en France.
 
 Par dérogation à l'alinéa précédent, la validité d'une autorisation de travail
 qui prend la forme d'une carte de séjour portant la mention "salarié" est

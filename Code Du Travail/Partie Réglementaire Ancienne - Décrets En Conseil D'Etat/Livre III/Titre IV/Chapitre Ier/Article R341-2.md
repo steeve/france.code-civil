@@ -52,4 +52,4 @@ renouvelables, qui peut être délivrée à l'étranger appelé à exercer chez 
 employeur déterminé une activité présentant par sa nature ou les circonstances
 de son exercice un caractère temporaire, ne relevant pas des autres
 autorisations de travail précitées. Le modèle de cette autorisation de travail
-est fixé par arrêté du ministre chargé du travail.
+est fixé par arrêté du ministre chargé de l'immigration.

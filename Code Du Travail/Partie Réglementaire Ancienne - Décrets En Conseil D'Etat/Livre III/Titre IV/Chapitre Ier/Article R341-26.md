@@ -1,7 +1,7 @@
 Article R341-26
 ----
 L'agent comptable de l'agence est nommé par arrêté conjoint des ministres
-chargés de l'emploi, de l'intégration et du budget.
+chargés de l'immigration, de l'emploi et du budget.
 
 Des comptables secondaires peuvent être désignés par le directeur général avec
 l'agrément du ministre chargé du budget et de l'agent comptable de l'agence.

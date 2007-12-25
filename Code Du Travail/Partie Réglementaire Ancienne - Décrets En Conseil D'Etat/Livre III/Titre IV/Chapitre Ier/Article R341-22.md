@@ -7,10 +7,11 @@ a) Des taxes et redevances qu'elle est autorisée à percevoir ;
 b) Des redevances représentatives de frais ou des contributions forfaitaires qui
 sont versées par les employeurs qui embauchent des travailleurs étrangers. Le
 taux de ces redevances ou contributions est fixé, pour le commerce et
-l'industrie, par arrêté conjoint du ministre chargé de l'emploi et du ministre
-chargé de l'économie et des finances, pour l'agriculture, par arrêté conjoint du
-ministre chargé de l'emploi, du ministre chargé de l'économie et des finances et
-du ministre chargé de l'agriculture ;
+l'industrie, par arrêté conjoint du ministre chargé de l'emploi, du ministre
+chargé de l'immigration et du ministre chargé de l'économie et des finances,
+pour l'agriculture, par arrêté conjoint du ministre chargé de l'emploi, du
+ministre chargé de l'emploi, du ministre chargé de l'immigration, du ministre
+chargé de l'économie et des finances et du ministre chargé de l'agriculture ;
 
 c) De la contribution spéciale prévue à l'article L. 341-7 ;
 
