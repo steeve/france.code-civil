@@ -3,7 +3,7 @@ Article D542-5-2
 Le montant de l'allocation de logement, définie au I de l'article D. 542-5, est
 calculé selon la formule :
 
-AL = L + C - Pp,
+AL = L + C-Pp,
 
 dans laquelle AL représente le montant mensuel de l'allocation de logement ;
 
@@ -23,7 +23,7 @@ Pp = Po + Tp x Rp.
 
 Po représente la participation minimale et est égale à la plus élevée des deux
 valeurs suivantes : 8,5 % de la dépense éligible définie au I de l'article D.
-542-5 du même code ou 30 euros ;
+542-5 du même code ou 31 euros ;
 
 Tp représente le taux de participation personnelle ;
 
