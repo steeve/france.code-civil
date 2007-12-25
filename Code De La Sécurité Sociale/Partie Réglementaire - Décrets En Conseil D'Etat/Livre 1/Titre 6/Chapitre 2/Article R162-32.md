@@ -22,10 +22,10 @@ du code de l'action sociale et des familles et qui bénéficie d'une autorisatio
 accordée conformément au quatrième alinéa de l'article L. 313-3 du même code.
 
 2° Les soins dispensés dans les services et les unités d'accueil et de
-traitement des urgences, à l'exception des soins dispensés en hospitalisation
-dans les zones de surveillance de très courte durée, représentatifs de la mise à
-disposition de l'ensemble des moyens nécessaires à l'accueil et au traitement du
-patient à l'exception de ceux faisant l'objet d'une prise en charge distincte en
+traitement des urgences, à l'exception des soins dispensés au sein d'une unité
+d'hospitalisation de courte durée, représentatifs de la mise à disposition de
+l'ensemble des moyens nécessaires à l'accueil et au traitement du patient à
+l'exception de ceux faisant l'objet d'une prise en charge distincte en
 application des dispositions de l'article R. 162-32-1.
 
 La prise en charge des frais occasionnés par ces prestations est assurée par des
@@ -56,3 +56,12 @@ forfaits.
 Ces forfaits sont facturés dès lors que certains actes nécessitant l'utilisation
 de matériel de petite chirurgie ou d'immobilisation sont effectués lors des
 soins non programmés.
+
+5° Les soins non suivis d'une hospitalisation dispensés dans les établissements
+de santé, représentatifs de la mise à disposition de l'ensemble des moyens
+nécessaires à la réalisation d'actes requérant l'utilisation d'un secteur
+opératoire ou l'observation du patient dans un environnement hospitalier.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits facturés pour chaque passage à l'exception des cas où le passage est
+réalisé dans les conditions du 2° du présent article.
