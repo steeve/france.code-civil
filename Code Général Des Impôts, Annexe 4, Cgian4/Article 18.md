@@ -1,48 +1,92 @@
 Article 18
 ----
-Pour l'année 2006, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 2008, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
 
-Taux applicable : 0 p. 100
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
+TAUX APPLICABLES
 
-Moins de 13 170 euros / Année
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
 
-Moins de 3 293 euros / Trimestre
 
-Moins de 1 098 euros / Mois
+Année
 
-Moins de 253 euros / Semaine
+(en euros)
 
-Moins de 42 euros / Jour ou fraction de jour
 
-Taux applicable : 12 p. 100
+Trimestre
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
+(en euros)
 
-De 13 170 à 38 214 euros / Année
 
-De 3 293 à 9 554 euros / Trimestre
+Mois
 
-De 1 098 à 3 185 euros / Mois
+(en euros)
 
-De 253 à 735 euros / Semaine
 
-De 42 à 122 euros / Jour ou fraction de jour
+Semaine
 
-Taux applicable : 20 p. 100
+(en euros)
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 38 214 euros / Année
+Jour ou fraction
 
-Au-delà de 9 554 euros / Trimestre
+de jour
 
-Au-delà de 3 185 euros / Mois
+(en euros)
 
-Au-delà de 735 euros / Semaine
+0 %
 
-Au-delà de 122 euros / Jour ou fraction de jour.
+-moins de
+
+13 583
+
+3 396
+
+1 132
+
+261
+
+44
+
+12 %
+
+-de
+
+13 583
+
+3 396
+
+1 132
+
+261
+
+44
+
+-à
+
+39 409
+
+9 852
+
+3 284
+
+758
+
+126
+
+20 %
+
+-au-delà de
+
+39 409
+
+9 852
+
+3 284
+
+758
+
+126
