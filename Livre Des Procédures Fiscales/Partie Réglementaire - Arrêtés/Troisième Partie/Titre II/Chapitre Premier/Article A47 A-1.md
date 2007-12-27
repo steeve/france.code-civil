@@ -1,8 +1,9 @@
 Article A47 A-1
 ----
-I. - Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent
-des fichiers à plat, à organisation séquentielle et structure zonée remplissant
-les critères suivants :
+I. - Les copies mentionnées au I de l'article L. 47 A du livre des procédures
+fiscales et aux b et c du II de ce même article présentent des fichiers à plat,
+à organisation séquentielle et structure zonée remplissant les critères suivants
+:
 
 1° Les enregistrements sont séparés par le caractère de contrôle Retour chariot
 et/ou Fin de ligne ;
