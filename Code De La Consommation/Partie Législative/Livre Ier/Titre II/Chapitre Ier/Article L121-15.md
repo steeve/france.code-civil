@@ -22,7 +22,7 @@ L. 740-2 du code de commerce et qui n'a pas fait l'objet de cette déclaration.
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu
 des alinéas précédents est puni d'une amende de 37 500 euros. Le maximum de
-l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la
+l'amende peut être porté à 50 % du montant des dépenses consacrées à la
 publicité illégale.
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des
