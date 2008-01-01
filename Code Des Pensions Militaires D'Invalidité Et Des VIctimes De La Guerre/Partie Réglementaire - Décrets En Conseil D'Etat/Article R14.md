@@ -1,28 +1,16 @@
 Article R14
 ----
-La composition de la commission de réforme mentionnée à l'article L. 6 est fixée
-comme suit :
+Lorsque l'instruction médicale est achevée, le médecin-chef du centre de réforme
+adresse le dossier, accompagné de son avis sur le droit à pension d'invalidité
+du demandeur, au chef du service dont il dépend.
 
-1° Un médecin-chef des services ou un médecin en chef, président de la
-commission, nommé par le ministre de la défense ;
+Celui-ci soumet le dossier pour avis à la commission consultative médicale dans
+les cas où cet avis est obligatoire ou lorsqu'il l'estime lui-même utile ou à la
+demande du service des pensions relevant du ministre chargé du budget. Il
+procède ensuite au constat provisoire des droits à pension et en notifie le
+résultat à l'intéressé.
 
-2° Un commissaire de l'armée de terre ou un commissaire de la marine ou un
-commissaire de l'air ;
-
-3° Un officier supérieur ou, à défaut, un capitaine ou un officier de grade
-correspondant, en service dans une unité ;
-
-4° Un médecin des armées, en service dans une unité.
-
-Les membres autres que le président sont désignés par le commandant de
-circonscription militaire de défense, le commandant d'arrondissement maritime ou
-le commandant de région aérienne sur le territoire desquels est situé le centre
-de réforme, dans les conditions fixées par instruction ministérielle.
-
-Les membres de la commission, y compris le président, sont choisis parmi les
-officiers de carrière en position d'activité. Toutefois, à défaut de commissaire
-d'active, un officier de réserve rattaché au corps des commissaires de l'armée
-de terre, de la marine ou de l'air pourra être désigné.
-
-En cas d'absence ou d'empêchement, les membres de la commission peuvent être
-remplacés par un suppléant désigné suivant les mêmes règles.
+La notification du constat provisoire est effectuée par lettre recommandée avec
+demande d'avis de réception. Elle mentionne la faculté qu'a le demandeur de
+saisir la commission de réforme mentionnée à l'article L. 6 et d'être entendu
+par elle, ainsi que les voies et délais de cette saisine.

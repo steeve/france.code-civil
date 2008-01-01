@@ -1,13 +1,16 @@
 Article R17
 ----
-La commission de réforme ne délibère valablement que si tous ses membres sont
-présents.
+La commission de réforme ne délibère valablement que si son président ou son
+suppléant et un autre membre sont présents.
 
-Elle entend, le cas échéant, les observations que peut avoir à présenter
-l'intéressé ou son médecin traitant. Elle ordonne, si besoin est, toute nouvelle
-mesure d'instruction ou toute nouvelle visite. Elle formule des propositions sur
-l'imputabilité au service, le degré d'invalidité et le caractère permanent ou
-non des affections et, le cas échéant, sur l'admission au bénéfice des avantages
-accessoires à la pension.
+Elle entend les observations que peut avoir à présenter le demandeur ou son
+médecin traitant.
 
-En cas de partage de voix, celle du président est prépondérante.
+Elle ordonne, si besoin est, toute nouvelle mesure d'instruction ou toute
+nouvelle visite.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Mention est faite du désaccord que pourrait exprimer tout membre de la
+commission avec la majorité. Ces observations sont signées par l'officier qui
+exprime ce désaccord.

@@ -1,21 +1,12 @@
 Article R15
 ----
-Lorsque l'instruction médicale est achevée, le médecin-chef du centre de réforme
-adresse le dossier, accompagné de son avis sur le droit à pension d'invalidité
-du demandeur, au directeur régional des services déconcentrés du ministère des
-anciens combattants et victimes de guerre dont il dépend.
+Dans un délai maximum de quinze jours après la notification du constat
+provisoire des droits à pension, l'intéressé peut demander l'examen de son
+dossier par la commission de réforme. Il est alors convoqué quinze jours au
+moins à l'avance par lettre simple.S'il ne se rend pas à cette convocation, il
+est convoqué à nouveau avec le même délai par lettre recommandée. S'il ne défère
+pas à cette seconde convocation, sans motif valable, la commission statue sur
+pièces.
 
-Le directeur régional soumet le dossier pour avis à la commission consultative
-médicale dans le cas où cet avis est obligatoire ou lorsqu'il l'estime lui-même
-utile. Il procède ensuite au constat provisoire des droits à pension et en
-notifie le résultat à l'intéressé.
-
-Dans le délai d'un mois suivant cette notification, l'intéressé peut demander
-que son dossier soit examiné par la commission de réforme mentionnée à l'article
-L. 6 ; il peut également demander à se présenter devant elle, accompagné, s'il
-le souhaite, de son médecin traitant.
-
-La notification du constat provisoire est effectuée par lettre recommandée avec
-demande d'avis de réception. Elle mentionne la faculté qu'a l'intéressé de
-saisir la commission de réforme et d'être entendu par elle, ainsi que les voies
-et délais de cette saisine.
+La date de convocation des militaires en mission opérationnelle tient compte de
+leur retour effectif dans leur unité de rattachement.

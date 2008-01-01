@@ -1,9 +1,7 @@
 Article R18
 ----
-Pour chaque dossier, la délibération de la commission est consignée sur un
-procès-verbal qui indique le nom et la qualité des participants, les références
-du dossier et les propositions de la commission.
+La commission de réforme émet un avis sur l'imputabilité au service, le degré
+d'invalidité, le caractère permanent des affections et sur l'admission au
+bénéfice des avantages accessoires à la pension.
 
-Mention est faite du désaccord que pourrait exprimer tout membre de la
-commission avec la majorité. Ces observations sont signées par l'officier qui
-exprime ce désaccord.
+L'avis de la commission est communiqué au demandeur.
