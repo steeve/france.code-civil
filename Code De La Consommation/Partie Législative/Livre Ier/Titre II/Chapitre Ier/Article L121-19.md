@@ -24,3 +24,8 @@ indéterminée ou supérieure à un an.
 II. - Les dispositions du présent article ne sont pas applicables aux services
 fournis en une seule fois au moyen d'une technique de communication à distance
 et facturés par l'opérateur de cette technique à l'exception du 3°.
+
+III. - Les moyens de communication permettant au consommateur de suivre
+l'exécution de sa commande, d'exercer son droit de rétractation ou de faire
+jouer la garantie ne supportent que des coûts de communication, à l'exclusion de
+tout coût complémentaire spécifique.

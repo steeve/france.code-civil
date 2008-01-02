@@ -4,17 +4,17 @@ Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3
 ainsi que de celles prévues pour l'application de l'article L. 214-1, l'offre de
 contrat doit comporter les informations suivantes :
 
-1° Le nom du vendeur du produit ou du prestataire de service, son numéro de
-téléphone, son adresse ou, s'il s'agit d'une personne morale, son siège social
-et, si elle est différente, l'adresse de l'établissement responsable de l'offre
-;
+1° Le nom du vendeur du produit ou du prestataire de service, des coordonnées
+téléphoniques permettant d'entrer effectivement en contact avec lui , son
+adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est
+différente, l'adresse de l'établissement responsable de l'offre ;
 
 2° Le cas échéant, les frais de livraison ;
 
 3° Les modalités de paiement, de livraison ou d'exécution ;
 
-4° L'existence d'un droit de rétractation, sauf dans les cas où les dispositions
-de la présente section excluent l'exercice de ce droit ;
+4° L'existence d'un droit de rétractation et ses limites éventuelles ou, dans le
+cas où ce droit ne s'applique pas, l'absence d'un droit de rétractation ;
 
 5° La durée de la validité de l'offre et du prix de celle-ci ;
 

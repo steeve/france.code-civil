@@ -1,8 +1,12 @@
 Article L121-20-3
 ----
-Sauf si les parties en sont convenues autrement, le fournisseur doit exécuter la
-commande dans le délai de trente jours à compter du jour suivant celui où le
-consommateur a transmis sa commande au fournisseur du produit ou de service.
+Le fournisseur doit indiquer, avant la conclusion du contrat, la date limite à
+laquelle il s'engage à livrer le bien ou à exécuter la prestation de services.A
+défaut, le fournisseur est réputé devoir délivrer le bien ou exécuter la
+prestation de services dès la conclusion du contrat. En cas de non-respect de
+cette date limite, le consommateur peut obtenir la résolution de la vente dans
+les conditions prévues aux deuxième et troisième alinéas de l'article L. 114-1.
+Il est alors remboursé dans les conditions de l'article L. 121-20-1.
 
 En cas de défaut d'exécution du contrat par un fournisseur résultant de
 l'indisponibilité du bien ou du service commandé, le consommateur doit être
