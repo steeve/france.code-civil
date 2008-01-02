@@ -13,9 +13,6 @@ par l'article L. 162-17-3 du présent code, sauf opposition conjointe des
 ministres concernés, qui arrêtent dans ce cas le tarif forfaitaire de
 responsabilité dans un délai de quinze jours après la décision du comité.
 
-Lorsque le tarif forfaitaire s'applique, le plafond mentionné à l'article L.
-138-9 est fixé à 2,5 % du prix des médicaments.
-
 Les dispositions du cinquième alinéa du présent article ne s'appliquent pas aux
 médicaments remboursés sur la base d'un tarif forfaitaire.
 

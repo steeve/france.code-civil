@@ -33,7 +33,9 @@ entreprises de transport et de travail aériens ;
 
 14. Espaces de présentation et d'exposition permanente dont l'activité est
 exclusive de toute vente au public, réservés aux producteurs, revendeurs ou
-prestataires de services.
+prestataires de services ;
+
+15° Etablissements de commerce de détail d'ameublement.
 
 Un décret en Conseil d'Etat énumère les autres catégories d'établissements qui
 peuvent bénéficier du droit de donner le repos hebdomadaire par roulement.

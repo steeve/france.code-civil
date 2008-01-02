@@ -1,11 +1,15 @@
 Article L138-9
 ----
 Les remises, ristournes et avantages commerciaux et financiers assimilés de
-toute nature consentis par tous les fournisseurs des officines en spécialités
-pharmaceutiques remboursables ne peuvent excéder par mois et par ligne de
-produits et pour chaque officine 2,5 % du prix de ces spécialités. Ce plafond
-est porté à 10,74 % du prix fabricant hors taxes pour les spécialités génériques
-définies au premier alinéa de l'article L. 601-6 du code de la santé publique.
+toute nature, y compris les rémunérations de services prévues à l'article L.
+441-7 du code de commerce, consentis par tout fournisseur des officines en
+spécialités pharmaceutiques remboursables ne peuvent excéder par année civile et
+par ligne de produits, pour chaque officine,2,5 % du prix fabricant hors taxes
+de ces spécialités. Ce plafond est porté à 17 % pour les spécialités génériques
+définies au 5° de l'article L. 5121-1 du code de la santé publique. Pour les
+spécialités non génériques soumises à un tarif forfaitaire de responsabilité, le
+plafond est égal à 17 % du prix fabricant hors taxes correspondant à ce tarif
+forfaitaire de responsabilité.
 
 Les infractions aux dispositions prévues au présent article sont passibles des
 sanctions pénales applicables aux infractions mentionnées à l'article L. 162-38.

@@ -21,4 +21,5 @@ soumettent légalement certains contrats à des règles particulières en ce qui
 concerne l'information du consommateur.
 
 Les trois alinéas précédents ne sont pas applicables aux exploitants des
-services d'eau potable et d'assainissement.
+services d'eau potable et d'assainissement. Ils sont applicables aux
+consommateurs et aux non-professionnels.

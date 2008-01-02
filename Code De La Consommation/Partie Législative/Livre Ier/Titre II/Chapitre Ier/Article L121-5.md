@@ -1,9 +1,7 @@
 Article L121-5
 ----
-L'annonceur pour le compte duquel la publicité est diffusée est responsable, à
-titre principal, de l'infraction commise. Si le contrevenant est une personne
-morale, la responsabilité incombe à ses dirigeants. La complicité est punissable
-dans les conditions de droit commun.
+La personne pour le compte de laquelle la pratique commerciale trompeuse est
+mise en oeuvre est responsable, à titre principal, de l'infraction commise.
 
-Le délit est constitué dès lors que la publicité est faite, reçue ou perçue en
-France.
+Le délit est constitué dès lors que la pratique commerciale est mise en oeuvre
+ou qu'elle produit ses effets en France.

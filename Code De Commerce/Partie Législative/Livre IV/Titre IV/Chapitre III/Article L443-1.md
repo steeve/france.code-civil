@@ -19,7 +19,10 @@ général des impôts ;
 
 4° A défaut d'accords interprofessionnels conclus en application du livre VI du
 code rural et rendus obligatoires par voie réglementaire à tous les opérateurs
-sur l'ensemble du territoire métropolitain pour ce qui concerne les délais de
+sur l'ensemble du territoire métropolitain ou de décisions interprofessionnelles
+prises en application de la loi du 12 avril 1941 portant création d'un comité
+interprofessionnel du vin de Champagne pour ce qui concerne les délais de
 paiement, à soixante-quinze jours après le jour de livraison pour les achats de
-boissons alcooliques passibles des droits de circulation prévus à l'article 438
-du même code.
+raisins et de moûts destinés à l'élaboration de vins ainsi que de boissons
+alcooliques passibles des droits de circulation prévus à l'article 438 du même
+code.

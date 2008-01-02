@@ -9,6 +9,10 @@ aux utilisateurs situés dans d'autres Etats membres de la Communauté européen
 d'accéder aux numéros non géographiques accessibles sur l'ensemble du territoire
 national.
 
+L'autorité identifie, au sein du plan national de numérotation téléphonique, la
+liste des numéros ou blocs de numéros pouvant être surtaxés. Les numéros ou
+blocs de numéros qui ne figurent pas sur cette liste ne sont pas surtaxés.
+
 L'autorité attribue, dans des conditions objectives, transparentes et non
 discriminatoires, aux opérateurs qui le demandent, des préfixes et des numéros
 ou blocs de numéros.

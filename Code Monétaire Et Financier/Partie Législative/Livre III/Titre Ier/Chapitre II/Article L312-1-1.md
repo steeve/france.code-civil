@@ -41,6 +41,16 @@ II. - Sauf si la convention de compte en dispose autrement, toutes les
 opérations en crédit et en débit d'un compte de dépôt doivent être portées à la
 connaissance du client à intervalle régulier n'excédant pas un mois.
 
+Dans les mêmes conditions, au cours du mois de janvier de chaque année, est
+porté à la connaissance des personnes physiques et des associations un document
+distinct récapitulant le total des sommes perçues par l'établissement de crédit
+au cours de l'année civile précédente au titre de produits ou services dont ces
+personnes bénéficient dans le cadre de la gestion de leur compte de dépôt, y
+compris les intérêts perçus au titre d'une position débitrice de celui-ci. Ce
+récapitulatif distingue, pour chaque catégorie de produits ou services liés à la
+gestion du compte de dépôt, le sous-total des frais perçus et le nombre de
+produits ou services correspondant.
+
 III. - Le montant des frais bancaires consécutifs à un incident de paiement
 autre que le rejet d'un chèque est plafonné dans des conditions fixées par
 décret en fonction de la nature et du montant de l'incident, sans excéder en

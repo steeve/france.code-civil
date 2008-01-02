@@ -11,5 +11,5 @@ Les pénalités prévues au premier alinéa de l'article L. 121-6 sont égalemen
 applicables en cas de refus de communication des éléments de justification ou
 des publicités diffusées, demandés dans les conditions prévues au premier alinéa
 de l'article L. 121-2, de même qu'en cas d'inobservation des décisions ordonnant
-la cessation de la publicité ou de non-exécution dans le délai imparti des
-annonces rectificatives.
+la cessation de la pratique commerciale ou de non-exécution dans le délai
+imparti des annonces rectificatives.

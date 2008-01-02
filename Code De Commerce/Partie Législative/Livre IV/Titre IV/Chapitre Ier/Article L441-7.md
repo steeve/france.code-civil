@@ -1,56 +1,35 @@
 Article L441-7
 ----
-I - Le contrat de coopération commerciale est une convention par laquelle un
-distributeur ou un prestataire de services s'oblige envers un fournisseur à lui
-rendre, à l'occasion de la revente de ses produits ou services aux
-consommateurs, des services propres à favoriser leur commercialisation qui ne
-relèvent pas des obligations d'achat et de vente.
+I. - Une convention écrite conclue entre le fournisseur et le distributeur ou le
+prestataire de services fixe :
 
-Le contrat de coopération commerciale indiquant le contenu des services et les
-modalités de leur rémunération est établi, avant leur fourniture, soit dans un
-document unique, soit dans un ensemble formé par un contrat cadre annuel et des
-contrats d'application.
+1° Les conditions de l'opération de vente des produits ou des prestations de
+services telles qu'elles résultent de la négociation commerciale dans le respect
+de l'article L. 441-6 ;
 
-Chacune des parties détient un exemplaire du contrat de coopération commerciale.
+2° Les conditions dans lesquelles le distributeur ou le prestataire de services
+s'oblige à rendre au fournisseur, à l'occasion de la revente de ses produits ou
+services aux consommateurs, tout service propre à favoriser leur
+commercialisation ne relevant pas des obligations d'achat et de vente ;
 
-Le contrat unique ou le contrat cadre annuel est établi avant le 15 février. Si
-la relation commerciale est établie en cours d'année, ces contrats sont établis
-dans les deux mois qui suivent la passation de la première commande.
+3° Les conditions dans lesquelles le distributeur ou le prestataire de services
+s'oblige à rendre au fournisseur des services distincts de ceux visés aux
+alinéas précédents.
 
-Le contrat unique ou les contrats d'application précisent la date à laquelle les
-services sont rendus, leur durée, leur rémunération et les produits auxquels ils
-se rapportent.
+Cette convention, établie soit dans un document unique, soit dans un ensemble
+formé par un contrat-cadre annuel et des contrats d'application, précise
+l'objet, la date prévue et les modalités d'exécution de chaque obligation, ainsi
+que sa rémunération et, s'agissant des services visés au 2°, les produits ou
+services auxquels ils se rapportent.
 
-Dans tous les cas, la rémunération du service rendu est exprimée en pourcentage
-du prix unitaire net du produit auquel il se rapporte.
+La convention unique ou le contrat-cadre annuel est conclu avant le 1er mars. Si
+la relation commerciale est établie en cours d'année, cette convention ou ce
+contrat est signé dans les deux mois qui suivent la passation de la première
+commande.
 
-Les conditions dans lesquelles un distributeur ou un prestataire de services se
-fait rémunérer par ses fournisseurs en contrepartie de services distincts de
-ceux figurant dans le contrat de coopération commerciale, notamment dans le
-cadre d'accords internationaux, font l'objet d'un contrat écrit en double
-exemplaire détenu par chacune des parties qui précise la nature de ces services.
+Les présentes dispositions ne sont pas applicables aux produits mentionnés au
+premier alinéa de l'article L. 441-2-1.
 
-II. - Est puni d'une amende de 75 000 euros:
-
-1° Le fait de ne pas pouvoir justifier avoir conclu, dans les délais prévus au
-I, un contrat de coopération commerciale précisant le contenu des services
-rendus et leur rémunération ;
-
-2° Le fait de ne pas pouvoir justifier avoir conclu avant la fourniture des
-services les contrats d'application précisant la date des prestations
-correspondantes, leur durée, leur rémunération et les produits auxquels elles se
-rapportent ;
-
-3° Le fait de ne pas pouvoir justifier avoir conclu le contrat prévu à la fin du
-dernier alinéa du I ;
-
-4° Le fait, pour un distributeur ou un prestataire de services, de ne pas faire
-connaître à ses fournisseurs, avant le 31 janvier, le montant total des
-rémunérations se rapportant à l'ensemble des services rendus l'année précédente,
-exprimé en pourcentage du chiffre d'affaires pour chacun des produits auxquels
-ils se rapportent.
-
-III. - Les personnes morales peuvent être déclarées responsables pénalement des
-infractions prévues au II dans les conditions prévues par l'article 121-2 du
-code pénal. La peine encourue est celle prévue par l'article 131-38 du même
-code.
+II. - Est puni d'une amende de 75 000 euros le fait de ne pas pouvoir justifier
+avoir conclu dans les délais prévus une convention satisfaisant aux exigences du
+I.

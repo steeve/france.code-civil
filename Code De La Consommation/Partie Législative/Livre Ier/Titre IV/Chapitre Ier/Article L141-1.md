@@ -5,19 +5,21 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 les infractions ou manquements prévus aux dispositions suivantes du présent code
 :
 
-1° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ;
+1° Le chapitre préliminaire du titre II du livre Ier ;
 
-2° Les sections 3 et 4 du chapitre II du titre II du livre Ier ;
+2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ;
 
-3° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ;
+3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ;
 
-4° La section 7 du chapitre II du titre Ier du livre III ;
+4° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ;
 
-5° Les sections 1,3 et 6 du chapitre III du titre Ier du livre III ;
+5° La section 7 du chapitre II du titre Ier du livre III ;
 
-6° La section 7 du chapitre IV du titre Ier du livre III ;
+6° Les sections 1,3 et 6 du chapitre III du titre Ier du livre III ;
 
-7° Le chapitre II du titre II du livre III.
+7° La section 7 du chapitre IV du titre Ier du livre III ;
+
+8° Le chapitre II du titre II du livre III.
 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à
 l'exception des pouvoirs d'enquête de l'article L. 450-4 du code de commerce,

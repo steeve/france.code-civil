@@ -1,17 +1,20 @@
 Article L35-2
 ----
-Peut être chargé de fournir l'une des composantes du service universel
-mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout opérateur en acceptant la
-fourniture sur l'ensemble du territoire national et capable de l'assurer.
+En vue de garantir la fourniture du service universel sur l'ensemble du
+territoire national dans le respect des principes rappelés par l'article L. 35
+et des dispositions de l'article L. 35-1, le ministre chargé des communications
+électroniques peut désigner, pour chacune des composantes du service universel
+mentionnées aux 1° et 3° de l'article L. 35-1 ou les éléments de celle décrite
+au 2° du même article, un ou plusieurs opérateurs chargés de fournir cette
+composante ou cet élément.
 
-Le ministre chargé des communications électroniques désigne les opérateurs
-chargés de fournir les composantes du service universel à l'issue d'appels à
-candidatures portant sur les conditions techniques et tarifaires ainsi que, le
-cas échéant, le coût net de fourniture de ces prestations.
+La désignation intervient à l'issue d'appels à candidatures portant sur les
+conditions techniques et financières ainsi que, le cas échéant, le coût net de
+fourniture de ces prestations.
 
 Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé
-des communications électroniques désigne un opérateur capable d'assurer le
-service en cause sur l'ensemble du territoire national.
+des communications électroniques désigne un ou plusieurs opérateurs en vue
+d'assurer la prestation en cause sur l'ensemble du territoire national.
 
 Le cahier des charges du ou des opérateurs en charge du service universel des
 communications électroniques est soumis pour avis à la Commission supérieure du

@@ -24,10 +24,12 @@ obtenues par d'autres clients ;
 
 b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire ou
 de sa puissance d'achat ou de vente en le soumettant à des conditions
-commerciales ou obligations injustifiées. Le fait de lier l'exposition à la
-vente de plus d'un produit à l'octroi d'un avantage quelconque constitue un abus
-de puissance de vente ou d'achat dès lors qu'il conduit à entraver l'accès des
-produits similaires aux points de vente ;
+commerciales ou obligations injustifiées, notamment en lui imposant des
+pénalités disproportionnées au regard de l'inexécution d'engagements
+contractuels. Le fait de lier l'exposition à la vente de plus d'un produit à
+l'octroi d'un avantage quelconque constitue un abus de puissance de vente ou
+d'achat dès lors qu'il conduit à entraver l'accès des produits similaires aux
+points de vente ;
 
 3° D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la
 passation de commandes, sans l'assortir d'un engagement écrit sur un volume
@@ -73,7 +75,12 @@ montant de la facture établie par le fournisseur les pénalités ou rabais
 correspondant au non-respect d'une date de livraison ou à la non-conformité des
 marchandises, lorsque la dette n'est pas certaine, liquide et exigible, sans
 même que le fournisseur n'ait été en mesure de contrôler la réalité du grief
-correspondant.
+correspondant ;
+
+9° De ne pas communiquer ses conditions générales de vente, dans les conditions
+prévues à l'article L. 441-6, à tout acheteur de produits ou tout demandeur de
+prestations de services qui en fait la demande pour l'exercice d'une activité
+professionnelle.
 
 II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un
 commerçant, un industriel ou une personne immatriculée au répertoire des

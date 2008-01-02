@@ -40,7 +40,11 @@ des produits agricoles et alimentaires ;
 
 10° La participation aux actions internationales de développement ;
 
-11° La contractualisation entre les membres des professions représentées dans
-l'organisation interprofessionnelle, notamment par la contribution à
-l'élaboration de contrats types comportant au minimum les clauses types
-énumérées à l'avant-dernier alinéa de l'article L. 441-2-1 du code de commerce.
+11° Le développement des rapports contractuels entre les membres des professions
+représentées dans l'organisation interprofessionnelle, notamment par l'insertion
+dans les contrats types de clauses types relatives aux engagements, aux
+modalités de détermination des prix, aux calendriers de livraison, aux durées de
+contrat, au principe de prix plancher, aux modalités de révision des conditions
+de vente en situation de fortes variations des cours des matières premières
+agricoles, ainsi qu'à des mesures de régulation des volumes dans le but
+d'adapter l'offre à la demande.
