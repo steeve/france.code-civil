@@ -22,6 +22,6 @@ organisme, une collectivité ou une entreprise publique pouvant accueillir, au
 titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de
 l'Ecole nationale d'administration ;
 
-4° Par mobilité au sens du décret n° 2004-708 du 16 juillet 2004 relatif à la
+4° Par mobilité au sens du décret n° 2008-15 du 4 janvier 2008 relatif à la
 mobilité et au détachement des fonctionnaires des corps recrutés par la voie de
 l'Ecole nationale d'administration.
