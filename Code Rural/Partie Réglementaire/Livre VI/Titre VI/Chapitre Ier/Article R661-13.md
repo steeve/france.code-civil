@@ -23,6 +23,11 @@ la qualité de ces semences ou plants ;
 occasionnée aux autres cultures ;
 
 7° L'avis émis à l'initiative du pétitionnaire par la section compétente du
-groupement national interprofessionnel des semences, graines et plants, qui doit
-répondre dans un délai de deux mois à compter de la réception par ce groupement
-de la demande d'avis, accompagnée des pièces ou indications prévues ci-dessus.
+Groupement national interprofessionnel des semences, graines et plants, ou, pour
+les plants fruitiers, par le conseil de direction spécialisé mentionné à
+l'article R. 621-47, et, pour les plants de vigne, par le conseil de direction
+spécialisé mentionné à l'article R. 621-49 ; cet avis est rendu dans un délai de
+deux mois à compter de la réception de la demande accompagnée des pièces ou
+indications prévues ci-dessus par l'organisme compétent.
+
+Au terme de ce délai, l'avis est réputé rendu.
