@@ -1,14 +1,19 @@
 Article D762-68
 ----
-Pour l'année 2006, le montant de la cotisation prévue au premier alinéa de
+Pour l'année 2007, le montant de la cotisation prévue au premier alinéa de
 l'article L. 762-33 est fixé comme suit :
 
-Lorsque la superficie réelle pondérée de l'exploitation est au plus égale à 80
-hectares, la cotisation est égale à 143,50 Euros.
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre 2
+hectares pondérés et 28 hectares pondérés, la cotisation est égale à 32,92 euros
+jusqu'à 20 hectares pondérés et à 62,04 euros entre 20,01 et 28 hectares ;
 
-Lorsque la superficie réelle pondérée de l'exploitation est comprise entre 80,01
-et 120 hectares, la cotisation est égale à 143,50 majorés de 3,01 par hectare
-au-delà de 80 hectares.
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre
+28,01 hectares pondérés et 80 hectares pondérés, la cotisation est égale à
+146,08 euros ;
 
-Lorsque la superficie réelle pondérée de l'exploitation est supérieure à 120
-hectares, la cotisation est égale à 264,01 .
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre
+80,01 et 120 hectares, la cotisation est égale à 146,08 euros, majorés de 3,06
+euros par hectare au-delà de 80 hectares ;
+
+-lorsque la superficie réelle pondérée de l'exploitation est supérieure à 120
+hectares, la cotisation est égale à 268,48 euros.

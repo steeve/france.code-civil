@@ -1,23 +1,25 @@
 Article D762-40
 ----
-Pour l'année 2006, la cotisation due au titre des personnes mentionnées aux 1°,
-2° et 5° de l'article L. 722-10 pour la couverture des prestations des
+Pour l'année 2007, la cotisation due au titre des personnes mentionnées aux
+1°,2° et 5° de l'article L. 722-10 pour la couverture des prestations des
 assurances maladie, invalidité et maternité des personnes non salariées des
 professions agricoles est calculée suivant les modalités fixées ci-dessous :
 
-- lorsque la superficie réelle pondérée de l'exploitation est au plus égale à 40
-hectares, la cotisation est égale à 1 489,26 Euros ;
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre 2
+hectares pondérés et 40 hectares, la cotisation est égale à 256,86 euros jusqu'à
+20 hectares pondérés, majorés de 62,96 euros par hectare au-delà de 20 hectares
+;
 
-- lorsque la superficie réelle pondérée de l'exploitation est comprise entre
-40,01 et 120 hectares, la cotisation est égale à 1 489,26 Euros majorés de 48,66
-Euros par hectare au-delà de 40 hectares ;
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre
+40,01 et 120 hectares, la cotisation est égale à 1 516,07 euros, majorés de
+49,54 euros par hectare au-delà de 40 hectares ;
 
-- lorsque la superficie réelle pondérée de l'exploitation est comprise entre
-120,01 et 800 hectares, la cotisation est égale à 5 382,49 Euros majorés de
-23,01 Euros par hectare au-delà de 120 hectares ;
+-lorsque la superficie réelle pondérée de l'exploitation est comprise entre
+120,01 et 800 hectares, la cotisation est égale à 5 479,37 euros, majorés de
+23,42 euros par hectare au-delà de 120 hectares ;
 
-- lorsque la superficie réelle pondérée de l'exploitation est supérieure à 800
-hectares, la cotisation est égale à 21 028,27 Euros majorés de 0,332 Euros par
+-lorsque la superficie réelle pondérée de l'exploitation est supérieure à 800
+hectares, la cotisation est égale à 21 406,78 euros, majorés de 0,34 euros par
 hectare au-delà de 800 hectares.
 
 La cotisation dont sont redevables les chefs d'exploitation pour un aide
