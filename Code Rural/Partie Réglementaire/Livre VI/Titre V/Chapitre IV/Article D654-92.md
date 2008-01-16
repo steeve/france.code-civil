@@ -4,10 +4,9 @@ Sont habilités à contrôler le respect des obligations mentionnées à la pré
 section, à constater les manquements décrits à l'article L. 654-32 et à
 effectuer les contrôles de transport du lait mentionnés à l'article L. 654-34,
 les agents habilités en application de l'article 108 de la loi n° 81-1160 du 30
-avril 1981 portant loi de finances pour 1982, les agents des offices créés en
-application de l'article L. 621-1 désignés par le ministre chargé de
-l'agriculture et assermentés à cet effet et les agents des services déconcentrés
-du ministère chargé de l'agriculture désignés par le préfet et assermentés à cet
+avril 1981 portant loi de finances pour 1982, les agents habilités en
+application de l'article R. 622-50 et les agents des services déconcentrés du
+ministère chargé de l'agriculture désignés par le préfet et assermentés à cet
 effet.
 
 Les constats sont établis par des procès-verbaux dont un double est remis aux
