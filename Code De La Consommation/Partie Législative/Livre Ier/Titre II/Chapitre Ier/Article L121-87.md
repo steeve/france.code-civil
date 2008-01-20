@@ -16,9 +16,9 @@ fournisseur ;
 4° Les prix de ces produits et services à la date d'effet du contrat ainsi que,
 le cas échéant, les conditions d'évolution de ces prix ;
 
-5° La mention du caractère réglementé ou non des prix proposés et de
-l'irréversibilité de la renonciation aux tarifs réglementés de vente pour un
-site donné pour la personne l'exerçant ;
+5° La mention du caractère réglementé ou non des prix proposés et de la
+possibilité pour une personne ayant renoncé aux tarifs réglementés de vente pour
+un site donné de revenir ou non sur ce choix ;
 
 6° La durée du contrat et ses conditions de renouvellement ;
 
@@ -50,8 +50,8 @@ gestionnaire du réseau de distribution ;
 
 15° Les modes de règlement amiable des litiges ;
 
-16° Les conditions d'accès à la tarification spéciale "produit de première
-nécessité" pour l'électricité et au tarif spécial de solidarité pour le gaz
+16° Les conditions d'accès à la tarification spéciale " produit de première
+nécessité " pour l'électricité et au tarif spécial de solidarité pour le gaz
 naturel.
 
 Ces informations sont confirmées au consommateur par tout moyen préalablement à
