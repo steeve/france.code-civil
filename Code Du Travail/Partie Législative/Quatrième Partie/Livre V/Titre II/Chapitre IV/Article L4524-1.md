@@ -6,8 +6,10 @@ comité interentreprises de santé et de sécurité au travail est institué par
 l'autorité administrative.
 
 Il assure la concertation entre les comités d'hygiène, de sécurité et des
-conditions de travail des établissements mentionnés à l'article L. 4521-1 situés
-dans ce périmètre.
+conditions de travail des établissements comprenant au moins une installation
+figurant sur la liste prévue au IV de l'article L. 515-8 du code de
+l'environnement ou soumise aux dispositions des articles 3-1 et 104 à 108 du
+code minier situés dans ce périmètre.
 
 Il contribue à la prévention des risques professionnels susceptibles de résulter
 des interférences entre les activités et les installations des différents

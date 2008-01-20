@@ -1,5 +1,5 @@
 Article L3142-29
 ----
-A l'issue du congé de solidarité internationale, le salarié remet à l'employeur
-une attestation constatant l'accomplissement de la mission, délivrée par
-l'association ou l'organisation concernée.
+Le salarié qui suspend son activité par un congé de soutien familial a droit à
+un entretien avec l'employeur, avant et après son congé, relatif à son
+orientation professionnelle.

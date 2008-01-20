@@ -13,3 +13,7 @@ la retraite collectif.
 Dans une entreprise où il n'existe ni conseil d'administration, ni directoire,
 l'employeur peut décider le versement d'un supplément d'intéressement, dans les
 conditions prévues au présent article.
+
+L'application au supplément d'intéressement des dispositions du premier alinéa
+de l'article L. 3312-4 ne donne pas lieu à application de l'article L. 131-7 du
+code de la sécurité sociale.

@@ -6,4 +6,4 @@ personne rendus aux personnes physiques bénéficie :
 1° Du taux réduit de taxe sur la valeur ajoutée prévu au i de l'article 279 du
 code général des impôts ;
 
-2° De la réduction d'impôt prévue à l'article 199 sexdecies du même code.
+2° De l'aide prévue à l'article 199 sexdecies du même code.

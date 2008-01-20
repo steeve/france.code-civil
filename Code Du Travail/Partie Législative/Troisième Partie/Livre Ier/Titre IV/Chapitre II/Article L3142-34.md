@@ -1,6 +1,13 @@
 Article L3142-34
 ----
-La durée du congé de formation de cadres et d'animateurs pour la jeunesse est
-assimilée à une période de travail effectif pour la détermination de la durée
-des congés payés ainsi que pour l'ensemble des autres droits résultant pour
-l'intéressé de son contrat de travail.
+Le congé de solidarité internationale peut être refusé par l'employeur s'il
+estime qu'il aura des conséquences préjudiciables à la production et à la marche
+de l'entreprise.
+
+Ce refus est motivé. Il est notifié au salarié dans un délai de quinze jours
+après réception de la demande. Il peut être contesté directement devant le
+bureau de jugement du conseil de prud'hommes, dans des conditions fixées par
+voie réglementaire.
+
+A défaut de réponse de l'employeur dans un délai de quinze jours, son accord est
+réputé acquis.

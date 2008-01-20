@@ -8,4 +8,5 @@ de son adoption. Cette attestation est délivrée par l'autorité administrative
 par l'organisme autorisé pour l'adoption qui procède au placement.
 
 Ces dispositions ne s'appliquent pas lorsque le licenciement est prononcé pour
-une faute grave non liée à l'adoption.
+une faute grave non liée à l'adoption ou par impossibilité de maintenir le
+contrat de travail pour un motif étranger à l'adoption.

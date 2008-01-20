@@ -1,5 +1,7 @@
 Article L3142-28
 ----
-A l'issue du congé de solidarité internationale, ou à l'occasion de son
-interruption pour cas de force majeure, le salarié retrouve son précédent emploi
-ou un emploi similaire assorti d'une rémunération au moins équivalente.
+La durée du congé de soutien familial est prise en compte pour la détermination
+des avantages liés à l'ancienneté.
+
+Le salarié conserve le bénéfice de tous les avantages qu'il avait acquis avant
+le début du congé.

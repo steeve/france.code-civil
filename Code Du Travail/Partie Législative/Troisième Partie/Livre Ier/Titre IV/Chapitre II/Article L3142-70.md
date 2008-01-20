@@ -1,4 +1,6 @@
 Article L3142-70
 ----
-La durée maximale du congé ou de la période de travail à temps partiel prévu à
-l'article L. 3142-68 est d'un an. Elle peut être prolongée d'au plus un an.
+Lorsque son accord préalable est requis, le refus de l'employeur d'accorder à un
+salarié l'autorisation de participer à une activité dans la réserve
+opérationnelle intervient dans des conditions déterminées par voie
+réglementaire.

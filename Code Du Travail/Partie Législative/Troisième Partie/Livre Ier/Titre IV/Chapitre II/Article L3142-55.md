@@ -1,5 +1,10 @@
 Article L3142-55
 ----
-Tout salarié ayant souscrit un engagement à servir dans la réserve
-opérationnelle bénéficie d'une autorisation d'absence de cinq jours par année
-civile au titre de ses activités dans la réserve.
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente
+sous-section, notamment :
+
+1° Les conditions d'indemnisation du salarié par l'Etat ;
+
+2° Les règles selon lesquelles est déterminé, par établissement, le nombre
+maximum de salariés susceptibles de bénéficier des dispositions du congé de
+représentation au cours d'une année.

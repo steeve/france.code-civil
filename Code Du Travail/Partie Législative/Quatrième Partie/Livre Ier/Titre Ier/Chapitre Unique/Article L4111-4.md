@@ -6,5 +6,5 @@ Ne sont pas soumises aux dispositions de la présente partie :
 
 2° Les entreprises de transport dont le personnel est régi par un statut.
 
-Toutefois, ces dispositions peuvent être rendues applicables en tout ou partie
-par décret aux entreprises mentionnées au 2°.
+Toutefois, ces dispositions peuvent leur être rendues applicables en tout ou
+partie par décret.

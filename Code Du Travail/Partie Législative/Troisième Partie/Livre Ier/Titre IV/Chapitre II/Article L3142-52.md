@@ -1,16 +1,11 @@
 Article L3142-52
 ----
-Les dispositions de l'article L. 3142-51 ne sont pas applicables lorsque le
-mandat a été renouvelé, sauf si la durée de la suspension prévue à l'article L.
-3142-50 a été, pour quelque cause que ce soit, inférieure à cinq ans.
+Le salarié bénéficiant du congé de représentation qui subit, à cette occasion,
+une diminution de rémunération reçoit de l'Etat ou de la collectivité
+territoriale une indemnité compensant, en totalité ou partiellement, le cas
+échéant, sous forme forfaitaire, la diminution de rémunération.
 
-Ces dispositions ne s'appliquent pas non plus lorsque le salarié membre de
-l'Assemblée nationale ou du Sénat est élu dans l'autre de ces deux assemblées.
-
-A l'expiration du ou des mandats renouvelés, le salarié peut cependant
-solliciter sa réembauche dans des conditions déterminées par voie réglementaire.
-
-Le salarié bénéficie alors pendant un an d'une priorité de réembauche dans les
-emplois auxquels sa qualification lui permet de prétendre. En cas de réemploi,
-l'employeur lui accorde le bénéfice de tous les avantages qu'il avait acquis au
-moment de son départ.
+L'employeur peut décider de maintenir celle-ci en totalité ou partie, au-delà de
+l'indemnité compensatrice. En ce cas, les sommes versées peuvent faire l'objet
+d'une déduction fiscale, dans les conditions fixées à l'article 238 bis du code
+général des impôts.

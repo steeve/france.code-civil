@@ -1,4 +1,5 @@
 Article L3142-39
 ----
-Le congé mutualiste de formation s'exerce dans les conditions et limites prévues
-à l'article L. 3142-36.
+A l'issue du congé de solidarité internationale, le salarié remet à l'employeur
+une attestation constatant l'accomplissement de la mission, délivrée par
+l'association ou l'organisation concernée.

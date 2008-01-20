@@ -1,6 +1,6 @@
 Article L7221-2
 ----
-Sont applicables au salarié défini à l'article L. 7221-1 les dispositions
+Sont seules applicables au salarié défini à l'article L. 7221-1 les dispositions
 relatives :
 
 1° Au harcèlement moral, prévues aux articles L. 1152-1 et suivants, au

@@ -1,4 +1,4 @@
-Article L2211-1
+Article L1
 ----
 Tout projet de réforme envisagé par le Gouvernement qui porte sur les relations
 individuelles et collectives du travail, l'emploi et la formation
@@ -19,5 +19,5 @@ nécessaire pour conduire la négociation.
 Le présent article n'est pas applicable en cas d'urgence. Lorsque le
 Gouvernement décide de mettre en oeuvre un projet de réforme en l'absence de
 procédure de concertation, il fait connaître cette décision aux organisations
-mentionnées ci-dessus en la motivant dans un document qu'il transmet à ces
-organisations avant de prendre toute mesure nécessitée par l'urgence.
+mentionnées au premier alinéa en la motivant dans un document qu'il transmet à
+ces organisations avant de prendre toute mesure nécessitée par l'urgence.

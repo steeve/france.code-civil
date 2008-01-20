@@ -8,7 +8,7 @@ période de détachement.
 Le détachement est réalisé :
 
 1° Soit pour le compte de l'employeur et sous sa direction, dans le cadre d'un
-contrat conclu entre celui-ci et le destinataire de la prescription établi ou
+contrat conclu entre celui-ci et le destinataire de la prestation établi ou
 exerçant en France ;
 
 2° Soit entre établissements d'une même entreprise ou entre entreprises d'un

@@ -8,5 +8,5 @@ professionnel et social des travailleurs handicapés et les conditions de
 nomination de ses membres ;
 
 2° Les modalités du contrôle de la répartition et de l'utilisation des
-contributions versées au fonds pour l'insertion des personnes handicapées dans
-la fonction publique.
+contributions versées au fonds de développement pour l'insertion professionnelle
+des handicapés.

@@ -1,10 +1,7 @@
 Article L3142-45
 ----
-Un décret en Conseil d'Etat détermine les modalités d'application de la présente
-sous-section, notamment :
+La durée du congé de formation de cadres et d'animateurs pour la jeunesse ne
+peut être imputée sur la durée du congé payé annuel.
 
-1° Les conditions d'indemnisation du salarié par l'Etat ;
-
-2° Les règles selon lesquelles est déterminé, par établissement, le nombre
-maximum de salariés susceptibles de bénéficier des dispositions du congé de
-représentation au cours d'une année.
+Le congé ne peut se cumuler avec le congé de formation économique et syndicale
+qu'à concurrence de douze jours ouvrables pour une même année.

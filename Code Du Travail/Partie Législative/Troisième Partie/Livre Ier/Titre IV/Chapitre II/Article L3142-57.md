@@ -1,6 +1,6 @@
 Article L3142-57
 ----
-Les périodes d'activité dans la réserve opérationnelle sont considérées comme
-des périodes de travail effectif pour les avantages légaux et conventionnels en
-matière d'ancienneté, d'avancement, de congés payés et de droits aux prestations
-sociales.
+Le salarié bénéficie à sa convenance des dispositions de l'article L. 3142-56, à
+condition que chaque absence soit au moins d'une demi-journée entière. Il
+avertit son employeur vingt-quatre heures au moins avant le début de chaque
+absence.

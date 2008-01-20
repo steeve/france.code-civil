@@ -19,5 +19,7 @@ pendant une durée déterminée ;
 délivrée en application de l'article L. 316-1 du code de l'entrée et du séjour
 des étrangers et du droit d'asile, pendant une durée déterminée ;
 
-5° Certaines catégories de personnes en attente de réinsertion, pendant une
+5° Les apatrides, pendant une durée déterminée ;
+
+6° Certaines catégories de personnes en attente de réinsertion, pendant une
 durée déterminée.

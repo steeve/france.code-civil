@@ -1,6 +1,6 @@
 Article L3142-60
 ----
-Lorsque son accord préalable est requis, le refus de l'employeur d'accorder à un
-salarié l'autorisation de participer à une activité dans la réserve
-opérationnelle intervient dans des conditions déterminées par voie
-réglementaire.
+Le contrat de travail d'un salarié membre de l'Assemblée nationale ou du Sénat
+est, sur sa demande, suspendu jusqu'à l'expiration de son mandat, s'il justifie
+d'une ancienneté minimale d'une année chez l'employeur à la date de son entrée
+en fonction.

@@ -12,3 +12,6 @@ destinées soit à faciliter l'accès des services aux salariés, soit à financ
 et deuxième alinéas de l'article L. 2324-1 du code de la santé publique ou par
 des assistants maternels agréés en application de l'article L. 421-1 du code de
 l'action sociale et des familles.
+
+Les dispositions du présent article ne donnent pas lieu à application de
+l'article L. 131-7 du code de la sécurité sociale.

@@ -5,6 +5,6 @@ la fin du deuxième mois suivant l'expiration de leur période d'utilisation son
 définitivement périmés.
 
 Sous réserve de prélèvements autorisés par le décret prévu à l'article L.
-3262-6, la contre-valeur des titres périmés est versée au budget du comité
-d'entreprise, consacré aux activités sociales et culturelles, des entreprises
-auprès desquelles les salariés se sont procuré leurs titres.
+3262-7, la contre-valeur des titres périmés est versée au budget des activités
+sociales et culturelles des entreprises auprès desquelles les salariés se sont
+procuré leurs titres.

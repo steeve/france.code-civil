@@ -1,6 +1,6 @@
 Article L6331-21
 ----
-Les actions de formation financées par l'entreprise en application du 1° de
+Les actions de formation financées par l'entreprise en application du 3° de
 l'article L. 6331-19 sont organisées soit par l'entreprise elle-même, soit en
 application de conventions annuelles ou pluriannuelles de formation conclues par
 elle conformément aux dispositions des articles L. 6353-1 et L. 6353-2.

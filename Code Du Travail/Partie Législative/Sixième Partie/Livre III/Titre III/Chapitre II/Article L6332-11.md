@@ -7,8 +7,8 @@ d'accompagnement dont ils peuvent bénéficier avant l'échéance de trois ans
 suivant leur installation par :
 
 1° Les fonds d'assurance-formation des travailleurs non salariés non agricoles
-immatriculés au répertoire des métiers ou, dans les départements du Bas-Rhin, du
-Haut-Rhin et de la Moselle au registre des entreprises, ou au registre du
+immatriculés au répertoire des métiers ou, dans les départements de la Moselle,
+du Bas-Rhin et du Haut-Rhin au registre des entreprises, ou au registre du
 commerce et des sociétés ;
 
 2° Le fonds interprofessionnel de formation des professions libérales

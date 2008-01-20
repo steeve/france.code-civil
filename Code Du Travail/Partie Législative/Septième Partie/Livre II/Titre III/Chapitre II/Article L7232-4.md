@@ -14,7 +14,8 @@ sociale au titre de leur action sociale ;
 
 d) Les organismes publics ou privés gestionnaires d'un établissement ou d'un
 service autorisé au titre du I de l'article L. 312-1 du code de l'action sociale
-et des familles ;
+et des familles et les groupements de coopération mentionnés au 3° de l'article
+L. 312-7 du même code ;
 
 2° Pour leurs activités qui concourent directement à coordonner et délivrer les
 services à la personne, les unions et fédérations d'associations ;

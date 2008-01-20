@@ -12,8 +12,8 @@ d'assurance chômage ;
 ou réduit en application du premier alinéa de l'article L. 5426-2 ;
 
 3° Les conditions dans lesquelles les organismes gestionnaires du régime
-d'assurance chômage peuvent supprimer le versement du revenu de remplacement ou,
-à titre conservatoire, suspendre son versement ou en réduire le montant ;
+d'assurance chômage peuvent, à titre conservatoire, suspendre le versement du
+revenu de remplacement ou en réduire le montant ;
 
 4° Les conditions dans lesquelles l'autorité administrative prononce la pénalité
 prévue à l'article L. 5426-5.

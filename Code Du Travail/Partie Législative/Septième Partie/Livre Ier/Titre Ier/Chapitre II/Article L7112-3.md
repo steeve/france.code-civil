@@ -1,4 +1,6 @@
 Article L7112-3
 ----
 Si l'employeur est à l'initiative de la rupture, le salarié a droit à une
-indemnité déterminée dans des conditions fixées par voie réglementaire.
+indemnité qui ne peut être inférieure à la somme représentant un mois, par année
+ou fraction d'année de collaboration, des derniers appointements. Le maximum des
+mensualités est fixé à quinze.

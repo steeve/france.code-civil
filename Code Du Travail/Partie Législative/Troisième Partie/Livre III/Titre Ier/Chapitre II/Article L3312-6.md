@@ -17,3 +17,7 @@ s'entend sur les personnels entrant dans le champ d'application du projet.
 L'accord définit un champ d'application et une période de calcul spécifiques,
 qui peuvent différer de ceux prévus aux articles L. 3311-1 et L. 3312-5 sans
 pouvoir excéder trois ans.
+
+L'application à l'intéressement de projet des dispositions du premier alinéa de
+l'article L. 3312-4 ne donne pas lieu à application de l'article L. 131-7 du
+code de la sécurité sociale.

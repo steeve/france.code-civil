@@ -15,3 +15,7 @@ mentionnés à l'avant-dernier alinéa du même article.
 Dans une entreprise où il n'existe ni conseil d'administration, ni directoire,
 l'employeur peut décider le versement d'un supplément de réserve spéciale de
 participation, dans les conditions prévues au présent article.
+
+L'application au supplément de réserve spéciale de participation des
+dispositions du second alinéa de l'article L. 3325-1 ne donne pas lieu à
+application de l'article L. 131-7 du code de la sécurité sociale.

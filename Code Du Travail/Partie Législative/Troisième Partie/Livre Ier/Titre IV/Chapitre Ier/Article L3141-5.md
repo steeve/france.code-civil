@@ -5,8 +5,7 @@ durée du congé :
 
 1° Les périodes de congé payé ;
 
-2° Les périodes de congé maternité, paternité, adoption et éducation des enfants
-;
+2° Les périodes de congé maternité, paternité et d'adoption ;
 
 3° Les repos compensateurs obligatoires prévus par l'article L. 3121-26 du
 présent code et l'article L. 713-9 du code rural ;

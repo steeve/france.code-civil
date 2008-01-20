@@ -12,5 +12,7 @@ En cas d'adoption d'un enfant de moins de trois ans, le congé parental et la
 période d'activité à temps partiel prennent fin à l'expiration d'un délai de
 trois ans à compter de l'arrivée au foyer de l'enfant.
 
-Le congé parental et la période d'activité à temps partiel ne peuvent excéder
+Lorsque l'enfant adopté ou confié en vue de son adoption est âgé de plus de
+trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire,
+le congé parental et la période d'activité à temps partiel ne peuvent excéder
 une année à compter de l'arrivée au foyer.

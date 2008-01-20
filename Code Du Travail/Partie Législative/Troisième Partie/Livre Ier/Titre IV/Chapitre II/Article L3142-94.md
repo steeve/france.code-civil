@@ -1,4 +1,7 @@
 Article L3142-94
 ----
-Les indemnités compensatrices prévues au présent sous-paragraphe sont calculées
-conformément aux dispositions des articles L. 3141-22 à L. 3141-25.
+L'employeur peut différer le départ en congé sabbatique dans la limite de six
+mois à compter d'une date déterminée par voie réglementaire.
+
+Cette durée est portée à neuf mois dans les entreprises de moins de deux cents
+salariés.

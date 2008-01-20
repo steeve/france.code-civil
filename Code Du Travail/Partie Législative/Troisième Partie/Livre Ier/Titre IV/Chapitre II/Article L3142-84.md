@@ -1,7 +1,7 @@
 Article L3142-84
 ----
-L'employeur peut différer le départ en congé sabbatique dans la limite de six
-mois à compter d'une date déterminée par voie réglementaire.
+A l'issue du congé, le salarié retrouve son précédent emploi ou un emploi
+similaire assorti d'une rémunération au moins équivalente.
 
-Cette durée est portée à neuf mois dans les entreprises de moins de deux cents
-salariés.
+Le salarié ne peut invoquer aucun droit à être réemployé avant l'expiration du
+congé.

@@ -21,25 +21,25 @@ capacité de travail ou de gain ;
 d'invalidité au titre du code des pensions militaires d'invalidité et des
 victimes de la guerre ;
 
-5° Les veuves de guerre non remariées titulaires d'une pension au titre du code
-des pensions militaires d'invalidité et des victimes de la guerre, dont le
+5° Les conjoints survivants non remariés titulaires d'une pension au titre du
+code des pensions militaires d'invalidité et des victimes de la guerre, dont le
 conjoint militaire ou assimilé est décédé des suites d'une blessure ou d'une
 maladie imputable à un service de guerre ou alors qu'il était en possession d'un
 droit à pension militaire d'invalidité d'un taux au moins égal à 85 % ;
 
-6° Les orphelins de guerre âgés de moins de vingt et un ans et les mères veuves
-non remariées ou les mères célibataires, dont respectivement le père ou
-l'enfant, militaire ou assimilé, est décédé des suites d'une blessure ou d'une
-maladie imputable à un service de guerre ou alors qu'il était en possession d'un
-droit à pension d'invalidité d'un taux au moins égal à 85 % ;
+6° Les orphelins de guerre âgés de moins de vingt et un ans et les conjoints
+survivants non remariés ou les parents célibataires, dont respectivement la
+mère, le père ou l'enfant, militaire ou assimilé, est décédé des suites d'une
+blessure ou d'une maladie imputable à un service de guerre ou alors qu'il était
+en possession d'un droit à pension d'invalidité d'un taux au moins égal à 85 % ;
 
-7° Les veuves de guerre remariées ayant au moins un enfant à charge issu du
-mariage avec le militaire ou assimilé décédé, lorsque ces veuves ont obtenu ou
-auraient été en droit d'obtenir, avant leur remariage, une pension dans les
-conditions prévues au 5° ci-dessus ;
+7° Les conjoints survivants remariés ayant au moins un enfant à charge issu du
+mariage avec le militaire ou assimilé décédé, lorsque ces conjoints ont obtenu
+ou auraient été en droit d'obtenir, avant leur remariage, une pension dans les
+conditions prévues au 5° ;
 
-8° Les femmes d'invalides internés pour aliénation mentale imputable à un
-service de guerre, si elles bénéficient de l'article L. 124 du code des pensions
+8° Les conjoints d'invalides internés pour aliénation mentale imputable à un
+service de guerre, s'ils bénéficient de l'article L. 124 du code des pensions
 militaires d'invalidité et des victimes de la guerre ;
 
 9° Les titulaires d'une allocation ou d'une rente d'invalidité attribuée dans

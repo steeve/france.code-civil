@@ -1,15 +1,12 @@
 Article L3262-6
 ----
-Un décret en Conseil d'Etat détermine les modalités d'application du présent
-titre, notamment :
+Lorsque l'employeur contribue à l'acquisition des titres par le salarié
+bénéficiaire et que cette contribution est comprise entre un minimum et un
+maximum fixés par l'autorité administrative, le complément de rémunération qui
+en résulte pour le salarié est exonéré, dans la limite de 0, 46 euros par titre,
+du versement forfaitaire sur les salaires et de l'impôt sur le revenu.
 
-1° Les mentions qui figurent sur les titres-restaurant et les conditions
-d'apposition de ces mentions ;
-
-2° Les conditions d'utilisation et de remboursement de ces titres ;
-
-3° Les règles de fonctionnement des comptes bancaires ou postaux spécialement
-affectés à l'émission et à l'utilisation des titres-restaurant ;
-
-4° Les conditions du contrôle de la gestion des fonds mentionnées à l'article L.
-3262-2.
+Cette exonération est subordonnée à la condition que l'employeur, en ce qui
+concerne le versement forfaitaire sur les salaires, et le salarié, en ce qui
+concerne l'impôt sur le revenu, se conforment aux obligations mises à leur
+charge par le présent chapitre.

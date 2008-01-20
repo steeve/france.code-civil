@@ -9,3 +9,6 @@ qui doivent être réunis, informés et consultés.
 
 La validité du plan de sauvegarde de l'emploi est appréciée au regard des moyens
 dont dispose l'entreprise ou l'unité économique et sociale ou le groupe.
+
+Le premier alinéa n'est pas applicable aux entreprises en redressement ou
+liquidation judiciaires.

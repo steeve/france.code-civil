@@ -1,7 +1,6 @@
 Article L3142-79
 ----
-Dans les entreprises de deux cents salariés et plus, l'employeur peut différer
-la signature du ou des avenants aux contrats de travail, si le pourcentage de
-salariés de l'entreprise passant simultanément à temps partiel au titre du
-présent paragraphe dépasse 2 % de l'effectif de l'entreprise, jusqu'à la date à
-laquelle cette condition de taux est remplie.
+Les dispositions de l'article L. 3142-78 s'appliquent également au salarié qui
+exerce des responsabilités de direction au sein d'une entreprise répondant, au
+moment où il sollicite son congé, aux critères de jeune entreprise innovante
+définie par l'article 44 sexies-0 A du code général des impôts.

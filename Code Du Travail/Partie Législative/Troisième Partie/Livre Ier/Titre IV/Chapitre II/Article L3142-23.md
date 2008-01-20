@@ -1,4 +1,5 @@
 Article L3142-23
 ----
-La durée du congé de solidarité internationale et la durée cumulée de plusieurs
-de ces congés pris de façon continue ne peuvent excéder six mois.
+Pour bénéficier du congé de soutien familial, la personne aidée doit résider en
+France de façon stable et régulière et ne doit pas faire l'objet d'un placement
+en établissement ou chez un tiers autre que le salarié.

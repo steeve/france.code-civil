@@ -12,4 +12,4 @@ professionnelle tout au long de la vie ;
 
 3° D'émettre un avis sur les projets de lois, d'ordonnances et de dispositions
 réglementaires en matière de formation professionnelle tout au long de la vie,
-dans les conditions prévues à l'article L. 2211-2.
+dans les conditions prévues à l'article L. 2.

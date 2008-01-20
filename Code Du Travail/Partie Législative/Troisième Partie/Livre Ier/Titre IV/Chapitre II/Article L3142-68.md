@@ -1,8 +1,9 @@
 Article L3142-68
 ----
-Le salarié qui crée ou reprend une entreprise a droit, dans les conditions
-fixées à la présente sous-section :
+L'employeur ne peut rompre le contrat de travail d'un salarié en raison des
+absences résultant d'une activité exercée au titre d'un engagement à servir dans
+la réserve opérationnelle ou faisant suite à un appel ou un rappel des personnes
+soumises à l'obligation de disponibilité.
 
-1° Soit à un congé pendant lequel le contrat de travail est suspendu ;
-
-2° Soit à une période de travail à temps partiel.
+A l'issue d'une période exécutée au titre du premier alinéa, le salarié retrouve
+son précédent emploi.

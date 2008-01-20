@@ -1,4 +1,6 @@
 Article L3142-67
 ----
-Toute stipulation contraire aux dispositions du présent paragraphe est nulle de
-plein droit.
+Les périodes d'activité dans la réserve opérationnelle sont considérées comme
+des périodes de travail effectif pour les avantages légaux et conventionnels en
+matière d'ancienneté, d'avancement, de congés payés et de droits aux prestations
+sociales.

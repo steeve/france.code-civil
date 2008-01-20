@@ -1,6 +1,5 @@
 Article L3142-50
 ----
-Le contrat de travail d'un salarié membre de l'Assemblée nationale ou du Sénat
-est, sur sa demande, suspendu jusqu'à l'expiration de son mandat, s'il justifie
-d'une ancienneté minimale d'une année chez l'employeur à la date de son entrée
-en fonction.
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente
+sous-section, notamment les conditions dans lesquelles est établie la liste des
+stages ou organismes ouvrant droit au congé mutualiste de formation.

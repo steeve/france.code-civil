@@ -7,7 +7,7 @@ Ne sont pas pris en compte dans le calcul des effectifs de l'entreprise :
 2° Les titulaires d'un contrat initiative-emploi, pendant la durée de la
 convention prévue à l'article L. 5134-66 ;
 
-3° Les titulaires des contrats insertion-revenu minimum d'activité pendant la
+3° Les titulaires d'un contrat insertion-revenu minimum d'activité, pendant la
 durée de la convention prévue à l'article L. 5134-75 ;
 
 4° Les titulaires d'un contrat d'accompagnement dans l'emploi ;

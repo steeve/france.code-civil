@@ -1,9 +1,9 @@
 Article L3142-58
 ----
-L'employeur ne peut rompre le contrat de travail d'un salarié en raison des
-absences résultant d'une activité exercée au titre d'un engagement à servir dans
-la réserve opérationnelle ou faisant suite à un appel ou un rappel des personnes
-soumises à l'obligation de disponibilité.
+Sur demande du salarié, la durée des absences est imputée sur celle du congé
+payé annuel dans la limite des droits qu'il a acquis à ce titre à la date du
+premier tour de scrutin.
 
-A l'issue d'une période exécutée au titre du premier alinéa, le salarié retrouve
-son précédent emploi.
+Lorsqu'elles ne sont pas imputées sur le congé payé annuel, les absences ne sont
+pas rémunérées. Elles donnent alors lieu à récupération en accord avec
+l'employeur.

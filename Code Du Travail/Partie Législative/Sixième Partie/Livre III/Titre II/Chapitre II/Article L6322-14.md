@@ -5,9 +5,7 @@ professionnel lorsque la profession n'entre pas dans le champ d'application d'un
 accord interprofessionnel étendu, détermine :
 
 1° Les règles de prise en charge des dépenses afférentes au congé individuel de
-formation par les organismes collecteurs paritaires agréés au titre de la
-participation des employeurs occupant dix salariés et plus au developpement de
-la formation professionnelle continue ;
+formation par les organismes collecteurs paritaires agréés à ce titre ;
 
 2° Le montant de la rémunération due aux salariés pendant la durée du congé
 individuel de formation ainsi que les modalités de versement de cette

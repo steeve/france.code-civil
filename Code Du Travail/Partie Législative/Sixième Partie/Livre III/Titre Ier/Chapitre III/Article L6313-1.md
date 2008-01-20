@@ -31,4 +31,7 @@ expérience ;
 
 12° Les actions d'accompagnement, d'information et de conseil dispensées aux
 créateurs ou repreneurs d'entreprises artisanales, commerciales ou libérales,
-exerçant ou non une activité.
+exerçant ou non une activité ;
+
+13° Les actions de lutte contre l'illettrisme et l'apprentissage de la langue
+française.

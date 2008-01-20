@@ -7,7 +7,7 @@ la demande de l'inspecteur du travail dans des conditions prévues à l'article 
 situation dangereuse résultant d'une exposition à une substance chimique
 cancérigène, mutagène ou toxique pour la reproduction, à un niveau supérieur à
 une valeur limite de concentration déterminée par un décret pris en application
-de l'article L. 4411-2, il met en demeure l'employeur de remédier à cette
+de l'article L. 4111-6, il met en demeure l'employeur de remédier à cette
 situation.
 
 La mise en demeure est établie selon des modalités prévues par voie

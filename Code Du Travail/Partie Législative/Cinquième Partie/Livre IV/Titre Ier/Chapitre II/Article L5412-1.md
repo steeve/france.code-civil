@@ -26,12 +26,11 @@ c) Refusent de se soumettre à une visite médicale auprès des services médica
 de main-d'oeuvre destinée à vérifier leur aptitude au travail ou à certains
 types d'emploi ;
 
+d) Refusent une proposition de contrat d'apprentissage ou de contrat de
+professionnalisation ;
+
+e) Refusent une action d'insertion ou une offre de contrat aidé prévues aux
+chapitres II et IV du titre III du livre Ier de la présente partie ;
+
 4° Soit qui ont fait de fausses déclarations pour être ou demeurer inscrites sur
-cette liste ;
-
-5° Soit qui ne renouvellent pas leur demande d'emploi ;
-
-6° Soit pour lesquelles l'employeur ou l'organisme compétent informe l'Agence
-nationale pour l'emploi d'une reprise d'emploi ou d'activité, d'une entrée en
-formation ou de tout changement affectant leur situation au regard des
-conditions d'inscription.
+cette liste.

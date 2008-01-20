@@ -1,10 +1,9 @@
 Article L3142-43
 ----
-La durée du congé de représentation ne peut dépasser neuf jours ouvrables par
-an. Elle peut être fractionnée en demi-journées.
-
-Elle est assimilée à une période de travail effectif pour la détermination de la
-durée des congés payés ainsi que pour l'ensemble des autres droits résultant
-pour l'intéressé de son contrat.
-
-Elle ne peut être imputée sur la durée du congé payé annuel.
+Tout salarié âgé de moins de vingt-cinq ans souhaitant participer aux activités
+des organisations de jeunesse et d'éducation populaire, des fédérations et des
+associations sportives agréées par l'autorité administrative, destinées à
+favoriser la préparation et la formation ou le perfectionnement de cadres et
+animateurs, a droit, sur sa demande, à un congé non rémunéré de six jours
+ouvrables par an pouvant être pris en une ou deux fois à la demande du
+bénéficiaire.

@@ -1,7 +1,7 @@
 Article L7112-2
 ----
-Dans les entreprises de presse, en cas de rupture par l'une ou l'autre des
-parties du contrat de travail à durée indéterminée d'un journaliste
+Dans les entreprises de journaux et périodiques, en cas de rupture par l'une ou
+l'autre des parties du contrat de travail à durée indéterminée d'un journaliste
 professionnel, la durée du préavis, sous réserve du 3° de l'article L. 7112-5,
 est fixée à :
 

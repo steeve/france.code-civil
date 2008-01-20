@@ -7,4 +7,4 @@ la gestion prévu à l'article 59 de la loi n° 73-1193 du 27 décembre 1973
 d'orientation du commerce et de l'artisanat sont éligibles au financement du
 fonds d'assurance-formation, à condition que ce bénéficiaire soit immatriculé au
 registre du commerce et des sociétés dans un délai déterminé par décret et
-courant à compter de la fin du stage
+courant à compter de la fin du stage.

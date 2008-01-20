@@ -1,5 +1,4 @@
 Article L3142-49
 ----
-La durée des absences est assimilée à une période de travail effectif pour la
-détermination des droits à congés payés ainsi que des droits liés à l'ancienneté
-résultant des dispositions légales et des stipulations conventionnelles.
+Le congé mutualiste de formation s'exerce dans les conditions et limites prévues
+à l'article L. 3142-46.

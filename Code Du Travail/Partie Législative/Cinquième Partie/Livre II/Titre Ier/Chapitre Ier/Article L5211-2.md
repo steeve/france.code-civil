@@ -9,8 +9,8 @@ définies et mises en oeuvre par :
 
 2° Le service public de l'emploi ;
 
-3° L'association de gestion du fonds de développement pour l'insertion
-professionnelle des handicapés ;
+3° L'association de gestion du fonds pour l'insertion professionnelle des
+handicapés ;
 
 4° Le fonds pour l'insertion des personnes handicapées dans la fonction publique
 ;

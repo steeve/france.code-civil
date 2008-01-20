@@ -1,5 +1,7 @@
 Article L3142-37
 ----
-Les administrateurs d'une mutuelle au sens de l'article L. 114-16 du code de la
-mutualité bénéficient d'un congé non rémunéré de formation d'une durée maximale
-de neuf jours ouvrables par an.
+La durée du congé de solidarité internationale est assimilée à une période de
+travail effectif pour la détermination des avantages légaux et conventionnels
+liés à l'ancienneté.
+
+Elle ne peut être, sauf d'un commun accord, imputée sur celle du congé annuel.

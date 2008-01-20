@@ -5,6 +5,3 @@ du code de l'action sociale et des familles bénéficie du congé d'adoption
 lorsqu'il adopte ou accueille un enfant en vue de son adoption par décision de
 l'autorité étrangère compétente, à condition que l'enfant ait été autorisé, à ce
 titre, à entrer sur le territoire national.
-
-Le salarié avertit l'employeur du motif de son absence et de la date à laquelle
-il entend mettre fin à la suspension de son contrat de travail.

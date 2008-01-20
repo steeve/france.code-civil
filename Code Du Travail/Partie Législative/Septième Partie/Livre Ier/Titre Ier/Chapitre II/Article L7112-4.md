@@ -1,7 +1,7 @@
 Article L7112-4
 ----
-Lorsque l'ancienneté excède une durée déterminée par voie réglementaire, une
-commission arbitrale est saisie pour déterminer l'indemnité due.
+Lorsque l'ancienneté excède quinze années, une commission arbitrale est saisie
+pour déterminer l'indemnité due.
 
 Cette commission est composée paritairement d'arbitres désignés par les
 organisations professionnelles d'employeurs et de salariés. Elle est présidée
@@ -18,4 +18,5 @@ partie la plus diligente par le président du tribunal de grande instance.
 En cas de faute grave ou de fautes répétées, l'indemnité peut être réduite dans
 une proportion qui est arbitrée par la commission ou même supprimée.
 
-La décision de la commission arbitrale ne peut être frappée d'appel.
+La décision de la commission arbitrale est obligatoire et ne peut être frappée
+d'appel.

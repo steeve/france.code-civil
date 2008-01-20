@@ -1,6 +1,10 @@
 Article L3142-54
 ----
-Les dispositions de la présente sous-section sont applicables aux fonctionnaires
-et aux agents non titulaires de l'Etat, des collectivités territoriales et de
-leurs établissements publics ainsi qu'aux personnels des entreprises publiques,
-sauf s'ils bénéficient de dispositions plus favorables.
+L'autorisation d'absence ne peut être refusée par l'employeur que dans le cas où
+il estime, après avis du comité d'entreprise, ou, à défaut, des délégués du
+personnel, que cette absence aurait des conséquences préjudiciables à la
+production et à la bonne marche de l'entreprise.
+
+Le refus est motivé à peine de nullité. Il peut être contesté directement devant
+le bureau de jugement du conseil de prud'hommes qui statue dans des conditions
+déterminées par voie réglementaire.

@@ -21,7 +21,9 @@ principal ou de celle d'un sous-traitant, une commande exceptionnelle à
 l'exportation dont l'importance nécessite la mise en oeuvre de moyens
 quantitativement ou qualitativement exorbitants de ceux que l'entreprise utilise
 ordinairement. Dans ce cas, la durée initiale du contrat ne peut être inférieure
-à six mois.
+à six mois et l'employeur doit procéder, préalablement aux recrutements
+envisagés, à la consultation du comité d'entreprise ou, à défaut, des délégués
+du personnel, s'il en existe.
 
 Ces dispositions ne sont pas applicables au contrat de travail à durée
 déterminée conclu en application de l'article L. 1242-3.

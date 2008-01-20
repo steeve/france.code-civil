@@ -12,4 +12,6 @@ l'action sociale et des familles ;
 2° Soit d'acquitter tout ou partie du montant des prestations de services
 fournies par les organismes agréés au titre de l'article L. 7231-1, ou les
 organismes ou personnes mentionnés aux deux premiers alinéas de l'article L.
-2324-1 du code de la santé publique.
+2324-1 du code de la santé publique, ou les personnes organisant un accueil des
+enfants scolarisés en école maternelle ou élémentaire limité aux heures qui
+précèdent ou suivent la classe.

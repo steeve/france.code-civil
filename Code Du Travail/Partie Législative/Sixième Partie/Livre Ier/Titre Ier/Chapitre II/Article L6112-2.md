@@ -7,4 +7,5 @@ l'égalité des chances entre les femmes et les hommes en matière de formation.
 
 Ces mesures sont destinées notamment à corriger les déséquilibres constatés au
 détriment des femmes dans la répartition des femmes et des hommes dans les
-actions de formation.
+actions de formation et à favoriser l'accès à la formation des femmes souhaitant
+reprendre une activité professionnelle interrompue pour des motifs familiaux.

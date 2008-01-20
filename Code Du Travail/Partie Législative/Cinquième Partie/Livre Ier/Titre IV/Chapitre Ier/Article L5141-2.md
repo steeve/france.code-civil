@@ -6,5 +6,4 @@ sur la liste des demandeurs d'emploi peuvent bénéficier d'une aide financière
 l'Etat.
 
 La décision d'attribution de cette aide emporte décision d'attribution des
-droits mentionnés aux articles L. 161-1 et L. 161-1-1 du code de la sécurité
-sociale.
+droits mentionnés à l'article L. 161-1-1 du code de la sécurité sociale.

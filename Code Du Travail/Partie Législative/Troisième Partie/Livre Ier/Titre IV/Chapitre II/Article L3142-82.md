@@ -1,8 +1,9 @@
 Article L3142-82
 ----
-Le droit au congé sabbatique est ouvert au salarié justifiant, à la date de
-départ en congé, d'une ancienneté dans l'entreprise d'au moins trente-six mois,
-consécutifs ou non, ainsi que de six années d'activité professionnelle, et
-n'ayant pas bénéficié au cours des six années précédentes dans l'entreprise,
-d'un congé sabbatique, d'un congé pour création d'entreprise ou d'un congé
-individuel de formation d'une durée d'au moins six mois.
+Le salarié informe son employeur de la date à laquelle il souhaite partir en
+congé, ou de la date de début et de l'amplitude de la réduction souhaitée de son
+temps de travail, ainsi que de la durée envisagée de ce congé, ou de cette
+réduction dans des conditions déterminées par voie réglementaire.
+
+Toute demande de prolongation d'un congé ou d'une période de travail à temps
+partiel fait l'objet d'une information à l'employeur dans les mêmes conditions.

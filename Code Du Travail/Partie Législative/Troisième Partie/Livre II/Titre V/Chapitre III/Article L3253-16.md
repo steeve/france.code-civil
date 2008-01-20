@@ -1,7 +1,7 @@
 Article L3253-16
 ----
-Les organismes gestionnaires du régime d'assurance chômage sont subrogés dans
-les droits des salariés pour lesquels ils ont réalisé des avances :
+Les institutions de garantie mentionnées à l'article L. 3253-14 sont subrogées
+dans les droits des salariés pour lesquels elles ont réalisé des avances :
 
 1° Pour l'ensemble des créances, lors d'une procédure de sauvegarde ;
 
@@ -11,4 +11,4 @@ les droits des salariés pour lesquels ils ont réalisé des avances :
 autres sommes avancées dans le cadre de ces procédures leur sont remboursées
 dans les conditions prévues par les dispositions du livre VI du code de commerce
 pour le règlement des créances nées antérieurement au jugement d'ouverture de la
-procédure. Ils bénéficient alors des privilèges attachés à celle-ci.
+procédure. Elles bénéficient alors des privilèges attachés à celle-ci.

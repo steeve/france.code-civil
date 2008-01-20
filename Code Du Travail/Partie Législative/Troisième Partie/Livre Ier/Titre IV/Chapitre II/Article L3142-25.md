@@ -1,8 +1,14 @@
 Article L3142-25
 ----
-En cas d'urgence, le salarié peut solliciter un congé de solidarité
-internationale d'une durée maximale de six semaines, sous préavis de
-quarante-huit heures.
+Le salarié peut mettre fin de façon anticipée au congé de soutien familial ou y
+renoncer dans les cas suivants :
 
-L'employeur fait connaître sa réponse dans un délai de vingt-quatre heures. Il
-n'est pas tenu de motiver son refus et son silence ne vaut pas accord.
+1° Décès de la personne aidée ;
+
+2° Admission dans un établissement de la personne aidée ;
+
+3° Diminution importante des ressources du salarié ;
+
+4° Recours à un service d'aide à domicile pour assister la personne aidée ;
+
+5° Congé de soutien familial pris par un autre membre de la famille.

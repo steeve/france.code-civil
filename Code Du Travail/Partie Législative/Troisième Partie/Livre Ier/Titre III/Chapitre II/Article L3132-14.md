@@ -7,5 +7,7 @@ continue pour des raisons économiques et d'attribuer le repos hebdomadaire par
 roulement.
 
 A défaut de convention ou d'accord collectif de travail étendu ou de convention
-ou d'accord d'entreprise, une dérogation peut être accordée par l'inspecteur du
-travail dans des conditions déterminées par décret en Conseil d'Etat.
+ou d'accord d'entreprise, une dérogation peut être accordée par l' inspecteur du
+travail après consultation des délégués syndicaux et avis du comité d'entreprise
+ou des délégués du personnel, s'ils existent, dans des conditions déterminées
+par décret en Conseil d'Etat.

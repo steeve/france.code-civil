@@ -1,8 +1,8 @@
 Article L3142-96
 ----
-L'employeur communique semestriellement au comité d'entreprise ou, à défaut, aux
-délégués du personnel, la liste des demandes de congé ou de période de travail à
-temps partiel pour création d'entreprise, l'exercice de responsabilités de
-direction au sein d'une entreprise répondant aux critères de jeune entreprise
-innovante et de congé sabbatique avec l'indication de la suite qui leur a été
-donnée.
+Sans préjudice des dispositions prévues à la présente sous-section, le départ en
+congé peut être différé par l'employeur, en fonction du pourcentage de salariés
+simultanément absents au titre du congé pour la création d'entreprise, pour
+l'exercice de responsabilités de direction au sein d'une entreprise répondant
+aux critères de jeune entreprise innovante et au titre du congé sabbatique ou en
+fonction du pourcentage de jours d'absence prévu au titre de ces congés.

@@ -9,4 +9,6 @@ critères suivants :
 
 3° Les cotisations ;
 
-4° L'expérience et l'ancienneté du syndicat.
+4° L'expérience et l'ancienneté du syndicat ;
+
+5° L'attitude patriotique pendant l'Occupation.

@@ -1,6 +1,5 @@
 Article L3142-47
 ----
-Le salarié bénéficie à sa convenance des dispositions de l'article L. 3142-46, à
-condition que chaque absence soit au moins d'une demi-journée entière. Il
-avertit son employeur vingt-quatre heures au moins avant le début de chaque
-absence.
+Les administrateurs d'une mutuelle au sens de l'article L. 114-16 du code de la
+mutualité bénéficient d'un congé non rémunéré de formation d'une durée maximale
+de neuf jours ouvrables par an.

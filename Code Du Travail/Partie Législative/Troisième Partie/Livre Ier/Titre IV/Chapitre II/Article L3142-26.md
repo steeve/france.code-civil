@@ -1,6 +1,8 @@
 Article L3142-26
 ----
-L'employeur communique semestriellement au comité d'entreprise ou, à défaut, aux
-délégués du personnel la liste des demandes de congé de solidarité
-internationale avec l'indication de la suite qui leur a été donnée, ainsi que
-les motifs de refus de demande de congé.
+Le salarié en congé de soutien familial ne peut exercer aucune activité
+professionnelle.
+
+Toutefois, il peut être employé par la personne aidée dans les conditions
+prévues au troisième alinéa de l'article L. 232-7 ou au deuxième alinéa de
+l'article L. 245-12 du code de l'action sociale et des familles.

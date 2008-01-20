@@ -1,16 +1,20 @@
 Article L3142-46
 ----
-L'employeur laisse au salarié, candidat à l'Assemblée nationale ou au Sénat, le
-temps nécessaire pour participer à la campagne électorale dans la limite de
-vingt jours ouvrables.
+Un décret en Conseil d'Etat détermine, pour l'application de la présente
+sous-section :
 
-Le même droit est accordé, sur sa demande, dans la limite de dix jours ouvrables
-au salarié candidat :
+1° Les conditions dans lesquelles l'employeur peut différer le congé, en raison
+des nécessités propres de son entreprise ou de son exploitation ;
 
-1° Au Parlement européen ;
+2° Les règles selon lesquelles est déterminé, par établissement, le nombre
+maximum de salariés susceptibles de bénéficier du congé de formation de cadres
+et d'animateurs pour la jeunesse au cours d'une année ;
 
-2° Au conseil municipal dans une commune d'au moins 3 500 habitants ;
+3° Les conditions dans lesquelles les salariés âgés de plus de vingt-cinq ans
+peuvent être exceptionnellement admis à bénéficier du congé ;
 
-3° Au conseil général ou au conseil régional ;
+4° Les conditions dans lesquelles le congé est attribué aux agents des services
+publics et des entreprises publiques ;
 
-4° A l'Assemblée de Corse.
+5° Les conditions dans lesquelles le congé est attribué au salarié bénéficiant
+d'un régime de congé plus avantageux que celui qui résulte du chapitre Ier.

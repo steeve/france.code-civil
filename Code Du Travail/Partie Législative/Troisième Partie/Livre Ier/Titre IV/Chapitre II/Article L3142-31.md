@@ -1,9 +1,11 @@
 Article L3142-31
 ----
-Le salarié résidant ou habituellement employé dans une zone touchée par une
-catastrophe naturelle peut bénéficier d'un congé maximum de vingt jours non
-rémunérés, pris en une ou plusieurs fois, à sa demande, pour participer aux
-activités d'organismes apportant une aide aux victimes de catastrophes
-naturelles.
+Un décret détermine les conditions d'application de la présente sous-section,
+notamment :
 
-En cas d'urgence, ce congé peut être pris sous préavis de vingt-quatre heures.
+1° Les critères d'appréciation de la particulière gravité du handicap ou de la
+perte d'autonomie de la personne aidée ;
+
+2° Les conditions dans lesquelles le salarié informe l'employeur de sa volonté
+de bénéficier d'un congé de soutien familial ou de son intention d'y mettre fin
+de façon anticipée.

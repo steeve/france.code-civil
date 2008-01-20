@@ -1,7 +1,8 @@
 Article L3142-35
 ----
-La durée du congé de formation de cadres et d'animateurs pour la jeunesse ne
-peut être imputée sur la durée du congé payé annuel.
+En cas d'urgence, le salarié peut solliciter un congé de solidarité
+internationale d'une durée maximale de six semaines, sous préavis de
+quarante-huit heures.
 
-Le congé ne peut se cumuler avec le congé de formation économique et syndicale
-qu'à concurrence de douze jours ouvrables pour une même année.
+L'employeur fait connaître sa réponse dans un délai de vingt-quatre heures. Il
+n'est pas tenu de motiver son refus et son silence ne vaut pas accord.
