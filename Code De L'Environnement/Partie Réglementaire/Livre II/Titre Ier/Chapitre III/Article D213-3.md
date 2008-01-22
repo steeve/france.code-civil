@@ -22,7 +22,8 @@ l'aquaculture en eau de mer ;
 
 8° Un représentant des associations de tourisme ;
 
-9° Un représentant des entreprises d'assainissement et de distribution d'eau ;
+9° Deux représentants des entreprises d'assainissement et de distribution d'eau
+;
 
 10° Un représentant des distributeurs d'eau en régie ;
 
