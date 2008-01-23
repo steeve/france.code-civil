@@ -14,7 +14,8 @@ réserve, dans ces hypothèses, que son autorisation de mise sur le marché, son
 autorisation temporaire d'utilisation ou son autorisation d'importation le
 prévoit, dans un établissement de transfusion sanguine autorisé à dispenser des
 médicaments aux malades qui y sont traités, en application des dispositions de
-l'article L. 1223-1, ou dans un centre spécialisé de soins aux toxicomanes ;
+l'article L. 1223-1, ou dans un centre de soins, d'accompagnement et de
+prévention en addictologie ;
 
 2° A un médecin répondant aux mêmes conditions, dans le cadre strict de
 l'activité qu'il exerce dans une installation de chirurgie esthétique dûment

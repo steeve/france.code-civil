@@ -6,11 +6,12 @@ relevant de la présente section un numéro d'ordre différent et mentionnent :
 1° Le nom et l'adresse du prescripteur ou de l'auteur de la commande et, selon
 le cas :
 
-a) Le nom et l'adresse du malade ;
+a) Le nom et l'adresse du malade, sous réserve des dispositions de l'article L.
+3414-1 ;
 
 b) Le nom et l'adresse du détenteur du ou des animaux ;
 
-c) La mention : "Usage professionnel" ;
+c) La mention : " Usage professionnel " ;
 
 2° La date de délivrance ;
 

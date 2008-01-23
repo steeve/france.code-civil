@@ -10,9 +10,10 @@ produits mentionnés à l'article R. 5132-98 ;
 2° De recueillir les éléments nécessaires à l'évaluation du risque de
 pharmacodépendance et d'abus de ces substances, plantes, médicaments et autres
 produits auprès des professionnels de santé ou des autres professionnels
-concernés, des centres spécialisés de soins aux toxicomanes et des
-établissements de santé, notamment auprès des centres antipoison, des centres
-régionaux de pharmacovigilance et des structures des urgences ;
+concernés, des centres de soins, d'accompagnement et de prévention en
+addictologie et des établissements de santé, notamment auprès des centres
+antipoison, des centres régionaux de pharmacovigilance et des structures des
+urgences ;
 
 3° De contribuer au développement de l'information sur le risque de
 pharmacodépendance et d'abus de ces substances, plantes, médicaments ou autres

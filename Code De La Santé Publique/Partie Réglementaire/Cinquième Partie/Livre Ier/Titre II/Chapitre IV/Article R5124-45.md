@@ -2,8 +2,8 @@ Article R5124-45
 ----
 Outre leurs activités de distribution aux officines, aux pharmacies mutualistes
 ou de sociétés de secours minières et aux pharmacies à usage intérieur, les
-entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 6°, 9°, 12°
-et 14° de l'article R. 5124-2 fournissent :
+entreprises ou organismes autorisés au titre des 1°,2°,3°,4°,5°,6°,9°,12° et 14°
+de l'article R. 5124-2 fournissent :
 
 1° Aux établissements de transfusion sanguine mentionnés à l'article L. 1223-1
 bénéficiant de l'autorisation mentionnée à cet article, les médicaments dérivés
@@ -39,10 +39,10 @@ ambulatoire de la lèpre, sur commande écrite du pharmacien ou du médecin
 responsable dans l'établissement ou l'organisme de la détention et de la
 dispensation de ces produits ;
 
-6° Aux centres spécialisés de soins aux toxicomanes, les médicaments
-correspondant strictement aux missions de ces centres, sur commande écrite du
-pharmacien ou du médecin responsable dans le centre de la détention et de la
-dispensation de ces médicaments ;
+6° Aux centres de soins, d'accompagnement et de prévention en addictologie, les
+médicaments correspondant strictement aux missions de ces centres, sur commande
+écrite du pharmacien ou du médecin responsable dans le centre de la détention et
+de la dispensation de ces médicaments ;
 
 7° Aux personnes morales mentionnées à l'article L. 4211-5, des gaz à usage
 médical, sur commande écrite du pharmacien qui assure la responsabilité de leur

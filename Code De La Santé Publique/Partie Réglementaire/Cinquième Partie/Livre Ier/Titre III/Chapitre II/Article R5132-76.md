@@ -19,12 +19,13 @@ des services de pharmacie et toxicologie des écoles nationales vétérinaires ;
 
 5° L'autorisation du préfet délivrée en application de l'article L. 4211-3 ;
 
-6° La convention passée entre un pharmacien et un centre spécialisé de soins aux
-toxicomanes mentionnée au deuxième alinéa de l'article D. 3411-10 ou
-l'autorisation préfectorale accordée au médecin de centre spécialisé de soins
-aux toxicomanes prévue au troisième alinéa de l'article D. 3411-10 ;
+6° L'autorisation préfectorale accordée au médecin d'un centre de soins,
+d'accompagnement et de prévention en addictologie mentionnée au deuxième alinéa
+de l'article D. 3411-9 ou l'inscription à l'ordre des pharmaciens pour les
+pharmaciens attachés à ces établissements ;
 
 7° Pour les établissements mentionnés à l'article L. 5126-6 autres que les
-centres spécialisés de soins aux toxicomanes, l'inscription au conseil de
-l'ordre des médecins pour les médecins attachés à ces établissements ainsi que
-la convention passée entre le pharmacien et ces établissements.
+centres de soins, d'accompagnement et de prévention en addictologie,
+l'inscription au conseil de l'ordre des médecins pour les médecins attachés à
+ces établissements ainsi que la convention passée entre le pharmacien et ces
+établissements.
