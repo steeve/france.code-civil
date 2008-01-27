@@ -8,8 +8,8 @@ concurrence d'un forfait égal à :
 1° 12 % du montant mensuel du revenu minimum d'insertion fixé pour un
 allocataire lorsque le foyer est composé d'une personne ;
 
-2° 14 % du montant mensuel du revenu minimum d'insertion fixé pour deux
+2° 16 % du montant mensuel du revenu minimum d'insertion fixé pour deux
 personnes lorsque le foyer est composé de deux personnes ;
 
-3° 14 % du montant mensuel du revenu minimum d'insertion fixé pour trois
+3° 16,5 % du montant mensuel du revenu minimum d'insertion fixé pour trois
 personnes lorsque le foyer est composé d'au moins trois personnes.

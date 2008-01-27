@@ -4,11 +4,6 @@ Les ressources prises en compte sont celles qui ont été effectivement perçues
 cours de la période des douze mois civils précédant la demande, sous réserve des
 dispositions des articles R. 861-11, R. 861-14 et R. 861-15.
 
-En cas de diminution au cours de cette période du nombre de personnes composant
-le foyer tel que défini à l'article R. 861-2, il n'est pas tenu compte des
-ressources perçues par les personnes qui, durant la période, ont cessé d'entrer
-dans les catégories visées audit article.
-
 Les rémunérations d'activité perçues par toute personne mentionnée à l'article
 R. 861-2 pendant la période de référence sont affectées d'un abattement de 30 %
 :
