@@ -4,9 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 16,35 euros par mètre carré en zone A, 10,68 euros en
-zone B et 7,73 euros en zone C. Les plafonds sont relevés chaque année, au 1er
+a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 16,81 euros par mètre carré en zone A,10,98 euros en
+zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er
 janvier, dans la même proportion que la variation de l'indice de référence des
 loyers publié par l'Institut national de la statistique et des études
 économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau
@@ -27,99 +27,84 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2007, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2008, les plafonds annuels de ressources sont les
 suivants :
 
-COMPOSITION du foyer locataire :
+
+LIEU DE LOCATION
+
+COMPOSITION DU FOYER LOCATAIRE
 
 
-Personne seule
+ZONE A
 
-LIEU DE LA LOCATION
-
-Zone A : 33 233 euros
-
-Zone B : 25 685 euros
-
-Zone C : 22 475 euros
-
-COMPOSITION du foyer locataire :
+(en euros)
 
 
-Couple
+ZONE B
 
-LIEU DE LA LOCATION
-
-Zone A : 49 668 euros
-
-Zone B : 34 298 euros
-
-Zone C : 30 209 euros
-
-COMPOSITION du foyer locataire :
+(en euros)
 
 
-Personne seule ou couple ayant une personne à charge
+ZONE C
 
-LIEU DE LA LOCATION
+(en euros)
 
-Zone A : 59 704 euros
+Personne seule.
 
-Zone B : 41 246 euros
+42 396
 
-Zone C : 36 165 euros
+32 767
 
-COMPOSITION du foyer locataire :
+28 672
 
+Couple.
 
-Personne seule ou couple ayant deux personnes à charge
+63 362
 
-LIEU DE LA LOCATION
+43 755
 
-Zone A : 71 516 euros
+38 538
 
-Zone B : 49 792 euros
+Personne seule ou couple ayant une personne à charge.
 
-Zone C : 43 768 euros
+76 165
 
-COMPOSITION du foyer locataire :
+52 618
 
+46 136
 
-Personne seule ou couple ayant trois personnes à charge
+Personne seule ou couple ayant deux personnes à charge.
 
-LIEU DE LA LOCATION
+91 234
 
-Zone A : 84 661 euros
+63 520
 
-Zone B : 58 573 euros
+55 835
 
-Zone C : 51 370 euros
+Personne seule ou couple ayant trois personnes à charge.
 
-COMPOSITION du foyer locataire :
+108 003
 
+74 722
 
-Personne seule ou couple ayant quatre personnes à charge
+65 533
 
-LIEU DE LA LOCATION
+Personne seule ou couple ayant quatre personnes à charge.
 
-Zone A : 95 267 euros
+121 533
 
-Zone B : 66 009 euros
+84 208
 
-Zone C : 57 946 euros
+73 922
 
-COMPOSITION du foyer locataire :
+Majoration par personne à charge à partir de la cinquième.
 
++ 13 545
 
-Majoration par personne à charge à partir de la cinquième
++ 9 392
 
-LIEU DE LA LOCATION
-
-Zone A : + 10 617 euros
-
-Zone B : + 7 362 euros
-
-Zone C : + 6 580 euros
++ 8 395
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de
 l'évolution annuelle du salaire minimum de croissance. Cette variation est

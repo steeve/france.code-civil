@@ -3,7 +3,7 @@ Article 2 terdecies C
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts,
 les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a. Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non
+a. Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non
 comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro
 supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B.
 
@@ -17,162 +17,100 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle
 de la signature du contrat de location.
 
-Pour les baux conclus en 2007, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2008, les plafonds annuels de ressources sont les
 suivants :
 
-COMPOSITION DU FOYER LOCATAIRE :
+
+LIEU DE LOCATION
+
+COMPOSITION DU FOYER LOCATAIRE
+
+ZONE A (en euros)
+
+
+ZONE B1
+
+(en euros)
+
+
+ZONE B2
+
+(en euros)
+
+
+ZONE C
+
+(en euros)
 
 Personne seule.
 
-LIEU DE LOCATION :
+42 396
 
-Zone A :
+31 491
 
-33 233 euros
+28 867
 
-Zone B1 :
-
-24 685 euros
-
-Zone B2 :
-
-22 628 euros
-
-Zone C :
-
-22 475 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
+28 672
 
 Couple.
 
-LIEU DE LOCATION :
+63 362
 
-Zone A :
+46 245
 
-49 668 euros
+42 392
 
-Zone B1 :
-
-36 250 euros
-
-Zone B2 :
-
-33 230 euros
-
-Zone C :
-
-30 209 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
+38 538
 
 Personne seule ou couple ayant une personne à charge.
 
-LIEU DE LOCATION :
+76 165
 
-Zone A :
+55 363
 
-59 704 euros
+50 750
 
-Zone B1 :
-
-43 398 euros
-
-Zone B2 :
-
-39 782 euros
-
-Zone C :
-
-36 165 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
+46 136
 
 Personne seule ou couple ayant deux personnes à charge.
 
-LIEU DE LOCATION :
+91 234
 
-Zone A :
+67 002
 
-71 516 euros
+61 419
 
-Zone B1 :
-
-52 521 euros
-
-Zone B2 :
-
-48 145 euros
-
-Zone C :
-
-43 768 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
+55 835
 
 Personne seule ou couple ayant trois personnes à charge.
 
-LIEU DE LOCATION :
+108 003
 
-Zone A :
+78 640
 
-84 661 euros
+72 087
 
-Zone B1 :
-
-61 644 euros
-
-Zone B2 :
-
-56 507 euros
-
-Zone C :
-
-51 370 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
+65 533
 
 Personne seule ou couple ayant quatre personnes à charge.
 
-LIEU DE LOCATION :
+121 533
 
-Zone A :
+88 706
 
-95 267 euros
+81 314
 
-Zone B1 :
+73 922
 
-69 535 euros
+Majoration par personne à charge à partir de la cinquième.
 
-Zone B2 :
+13 545
 
-63 740 euros
+10 075
 
-Zone C :
+9 235
 
-57 946 euros
-
-COMPOSITION DU FOYER LOCATAIRE :
-
-Majoration par personne à charge supplémentaire à partir de la cinquième :
-
-LIEU DE LOCATION :
-
-Zone A :
-
-+ 10 617 euros
-
-Zone B1 :
-
-+ 7 897 euros
-
-Zone B2 :
-
-+ 7 239 euros
-
-Zone C :
-
-+ 6 580 euros
+8 395
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de ressources prévus à l'article 2 duodecies.
