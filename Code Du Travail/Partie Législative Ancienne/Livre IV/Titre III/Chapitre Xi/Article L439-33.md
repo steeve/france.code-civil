@@ -5,7 +5,7 @@ ses membres qui doit représenter également la majorité absolue des salariés 
 sociétés participantes, des filiales et établissements concernés.
 
 Par dérogation au premier alinéa, la décision de ne pas entamer les négociations
-ou de clore des négociations déjà entamées et de se fonder sur la réglementation
+ou de clore des négociations déjà entamées et d'appliquer sur la réglementation
 relative à l'information et à la consultation dans les Etats membres où la
 société européenne emploie des salariés est prise à la majorité des deux tiers
 des membres du groupe spécial de négociation d'au moins deux Etats membres et à

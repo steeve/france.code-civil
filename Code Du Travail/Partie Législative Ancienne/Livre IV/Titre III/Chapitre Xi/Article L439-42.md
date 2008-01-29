@@ -41,10 +41,11 @@ d'administration ou, le cas échéant, du conseil de surveillance, le comité de
 société européenne détermine les conditions dans lesquelles s'exerce cette forme
 de participation.
 
-Dans le cas où la forme de participation choisie consiste en l'élection, la
-procédure se déroule conformément aux dispositions des articles L. 225-28 à L.
-225-34 et L. 225-80 du code de commerce, exception faite de l'exigence de
-territorialité visée au premier alinéa de l'article L. 225-28.
+Dans le cas où la forme de participation choisie consiste en l'élection de
+membres du conseil d'administration ou, le cas échéant, du conseil de
+surveillance, la procédure se déroule conformément aux dispositions des articles
+L. 225-28 à L. 225-34 et L. 225-80 du code de commerce, exception faite de
+l'exigence de territorialité visée au premier alinéa de l'article L. 225-28.
 
 Dès lors que le nombre de sièges au sein de l'organe de gestion concerné a été
 déterminé dans les conditions prévues ci-dessus, le comité de la société

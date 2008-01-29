@@ -13,6 +13,13 @@ d'expression de son art, qu'il est propriétaire de tout ou partie du matériel
 utilisé ou qu'il emploie lui-même une ou plusieurs personnes pour le seconder,
 dès lors qu'il participe personnellement au spectacle.
 
+Cette présomption de salariat ne s'applique pas aux artistes reconnus comme
+prestataires de services établis dans un Etat membre de la Communauté européenne
+ou dans un autre Etat partie à l'accord sur l'Espace économique européen où ils
+fournissent habituellement des services analogues et qui viennent exercer leur
+activité en France, par la voie de la prestation de services, à titre temporaire
+et indépendant.
+
 Sont considérés comme artistes du spectacle, notamment l'artiste lyrique,
 l'artiste dramatique, l'artiste chorégraphique, l'artiste de variétés, le
 musicien, le chansonnier, l'artiste de complément, le chef d'orchestre,
