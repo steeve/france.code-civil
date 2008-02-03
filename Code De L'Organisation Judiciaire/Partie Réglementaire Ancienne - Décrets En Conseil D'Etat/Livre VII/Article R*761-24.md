@@ -36,7 +36,7 @@ vice-présidents et des juges dont le tribunal est composé ;
 
 8° Emet un avis sur l'affectation des magistrats dans les formations de jugement
 spécialisées en matière économique et financière, ou en matière militaire et de
-sûreté de l'Etat, conformément aux articles 704, 697 et 702 du Code de procédure
+sûreté de l'Etat, conformément aux articles 704,697 et 702 du Code de procédure
 pénale ;
 
 9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur
@@ -47,8 +47,12 @@ mentionnées au titre XI du Code de procédure pénale (troisième partie : Déc
 10° Emet un avis sur le projet d'ordonnance préparé par le président désignant
 un juge du tribunal d'instance pour exercer les fonctions du juge de proximité
 en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se
-révèle insuffisant;
+révèle insuffisant ;
 
 11° Emet un avis sur le projet d'ordonnance préparé par le président désignant
 un magistrat pour exercer les fonctions de juge des libertés et de la détention
-conformément à l'article 137-1 du code de procédure pénale.
+conformément à l'article 137-1 du code de procédure pénale ;
+
+12° Emet un avis, en cas de pluralité de magistrats chargés des fonctions de
+juges des enfants, sur la désignation par le président de celui qui exercera les
+attributions mentionnées à l'article R. 522-2-1.
