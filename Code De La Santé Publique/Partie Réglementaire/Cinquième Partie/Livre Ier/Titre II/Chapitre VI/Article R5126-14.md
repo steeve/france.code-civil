@@ -10,7 +10,7 @@ hospitalière dont les principes sont fixés par arrêté du ministre chargé de
 santé.
 
 Les conditions dans lesquelles les médicaments, produits ou objets mentionnés
-aux articles L. 5121-1, L. 5126-5 et L. 5137-1, autres que ceux concernés par
+aux articles L. 5121-1, L. 5126-5 et L. 5137-2, autres que ceux concernés par
 l'arrêté prévu à l'article R. 5132-42, sont détenus, prescrits et dispensés sont
 fixées par arrêté du ministre chargé de la santé. Cet arrêté fixe en outre les
 conditions de détention et de dispensation des médicaments, produits, objets,

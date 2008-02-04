@@ -3,7 +3,7 @@ Article R5126-9
 Sous réserve de disposer des moyens en locaux, personnel, équipements et
 systèmes d'information nécessaires, les pharmacies à usage intérieur peuvent
 être autorisées à exercer les activités prévues aux articles L. 5126-5 et L.
-5137-1, notamment :
+5137-2, notamment :
 
 1° La réalisation des préparations hospitalières à partir de matières premières
 ou de spécialités pharmaceutiques ;
@@ -13,7 +13,7 @@ biomédicales mentionnées à l'article L. 5126-11, y compris la préparation de
 médicaments expérimentaux mentionnée à l'article L. 5126-5 ;
 
 3° La délivrance des aliments diététiques destinés à des fins médicales
-spéciales mentionnés à l'article L. 5137-1 ;
+spéciales mentionnés à l'article L. 5137-2 ;
 
 4° La stérilisation des dispositifs médicaux dans les conditions prévues par le
 décret mentionné à l'article L. 6111-1 ;

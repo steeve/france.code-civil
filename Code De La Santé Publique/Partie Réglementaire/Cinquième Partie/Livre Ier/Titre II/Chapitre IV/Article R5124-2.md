@@ -11,7 +11,7 @@ La fabrication comprend les opérations concernant l'achat des matières premiè
 et des articles de conditionnement, les opérations de production, de contrôle de
 la qualité, de libération des lots, ainsi que les opérations de stockage
 correspondantes, telles qu'elles sont définies par les bonnes pratiques prévues
-aux articles L. 5121-5 et L. 5136-3 applicables à cette activité.
+à l'article L. 5121-5 applicables à cette activité.
 
 Pour les objets de pansement et articles présentés comme conformes à la
 pharmacopée mentionnés au 2° de l'article L. 4211-1 et les produits officinaux
@@ -49,8 +49,7 @@ l'importateur, sous la responsabilité du promoteur mentionné à l'article L.
 
 3° Exploitant, l'entreprise ou l'organisme se livrant à l'exploitation de
 médicaments autres que des médicaments expérimentaux, de générateurs, trousses
-et précurseurs mentionnés au 3° de l'article L. 4211-1 ou de produits mentionnés
-à l'article L. 5136-1.
+et précurseurs mentionnés au 3° de l'article L. 4211-1.
 
 L'exploitation comprend les opérations de vente en gros ou de cession à titre
 gratuit, de publicité, d'information, de pharmacovigilance, de suivi des lots
@@ -59,18 +58,16 @@ stockage correspondantes.
 
 L'exploitation est assurée soit par le titulaire de l'autorisation de mise sur
 le marché mentionnée à l'article L. 5121-8, de l'autorisation temporaire
-d'utilisation mentionnée au a de l'article L. 5121-12, de l'autorisation
-mentionnée à l'article L. 5136-1 ou de l'enregistrement mentionné à l'article L.
-5121-13, soit, pour le compte de ce titulaire, par une autre entreprise ou un
-autre organisme, soit par l'un et l'autre, chacun assurant dans ce cas une ou
-plusieurs catégories d'opérations constitutives de l'exploitation du médicament
-ou produit ;
+d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'enregistrement
+mentionné à l'article L. 5121-13, soit, pour le compte de ce titulaire, par une
+autre entreprise ou un autre organisme, soit par l'un et l'autre, chacun
+assurant dans ce cas une ou plusieurs catégories d'opérations constitutives de
+l'exploitation du médicament ou produit ;
 
 4° Dépositaire, l'entreprise se livrant, d'ordre et pour le compte :
 
 - d'un ou plusieurs exploitants de médicaments, de générateurs, trousses ou
-précurseurs mentionnés au 3° de l'article L. 4211-1 ou de produits mentionnés à
-l'article L. 5136-1 ;
+précurseurs mentionnés au 3° de l'article L. 4211-1 ;
 
 - ou d'un ou plusieurs fabricants ou importateurs d'objets de pansement ou
 articles présentés comme conformes à la Pharmacopée mentionnés au 2° de

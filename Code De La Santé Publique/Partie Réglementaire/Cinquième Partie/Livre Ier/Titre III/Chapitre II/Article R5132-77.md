@@ -26,3 +26,7 @@ stupéfiants à des fins de recherche en santé publique.
 Elle ne peut être accordée et elle est retirée d'office à une personne condamnée
 pour infraction aux dispositions de la présente section ou pour usage illicite
 de stupéfiants.
+
+Lorsque la substance ou la préparation est une matière première à usage
+pharmaceutique, l'autorisation ne peut être accordée que si la déclaration
+prévue à l'article L. 5138-1 a été effectuée.

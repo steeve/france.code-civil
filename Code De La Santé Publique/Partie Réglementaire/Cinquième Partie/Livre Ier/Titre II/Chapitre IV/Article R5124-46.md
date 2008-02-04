@@ -1,8 +1,8 @@
 Article R5124-46
 ----
 Les établissements pharmaceutiques fonctionnent conformément aux bonnes
-pratiques mentionnées aux articles L. 5121-5 et L. 5136-3 qui leur sont
-applicables. Ils possèdent notamment :
+pratiques mentionnées à l'article L. 5121-5 qui leur sont applicables. Ils
+possèdent notamment :
 
 1° Des locaux aménagés, agencés et entretenus en fonction des opérations
 pharmaceutiques qui y sont effectuées ;

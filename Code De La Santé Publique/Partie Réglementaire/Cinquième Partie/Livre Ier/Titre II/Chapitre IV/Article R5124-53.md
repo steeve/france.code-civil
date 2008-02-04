@@ -2,10 +2,10 @@ Article R5124-53
 ----
 Le fabricant et l'importateur, soit de médicaments mentionnés au 1° de l'article
 L. 4211-1, soit de générateurs, trousses ou précurseurs mentionnés au 3° dudit
-article, soit de produits mentionnés à l'article L. 5136-1 met en oeuvre un
-système de contrôle de la qualité. Ce système de contrôle de la qualité est géré
-par une personne possédant les qualifications requises et hiérarchiquement
-indépendante des autres responsables de départements de l'établissement.
+article met en oeuvre un système de contrôle de la qualité. Ce système de
+contrôle de la qualité est géré par une personne possédant les qualifications
+requises et hiérarchiquement indépendante des autres responsables de
+départements de l'établissement.
 
 Cette personne dispose au sein de l'établissement ou peut accéder dans le cadre
 d'un contrat de sous-traitance dans les conditions fixées au 2° de l'article R.

@@ -7,8 +7,7 @@ et L. 5141-2 ;
 
 2° Aux produits cosmétiques définis à l'article L. 5131-1 ;
 
-3° Aux insecticides et acaricides destinés à être appliqués sur l'homme
-mentionnés à l'article L. 5136-1 ;
+3° Abrogé
 
 4° Aux produits antiparasitaires à usage agricole définis à l'article L. 253-1
 du code rural ;

@@ -23,5 +23,4 @@ dossier de cette autorisation de mise sur le marché.
 L'établissement s'assure que ces médicaments ou produits ont été fabriqués par
 des fabricants dûment autorisés au titre de la législation ou de la
 réglementation de l'Etat concerné et ont été soumis à des normes de bonnes
-pratiques au moins équivalentes à celles que prévoient les articles L. 5121-5 et
-L. 5136-3.
+pratiques au moins équivalentes à celles que prévoit l'article L. 5121-5.
