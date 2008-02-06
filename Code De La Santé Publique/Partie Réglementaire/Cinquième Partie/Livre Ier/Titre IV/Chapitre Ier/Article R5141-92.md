@@ -4,8 +4,8 @@ Pour l'application de la présente section, on entend par :
 
 1° Effet indésirable : une réaction nocive et non voulue, se produisant aux
 posologies normalement utilisées chez l'animal pour la prophylaxie, le
-diagnostic ou le traitement d'une maladie ou la modification d'une fonction
-physiologique ;
+diagnostic ou le traitement d'une maladie ou pour la restauration, la correction
+ou la modification d'une fonction physiologique ;
 
 2° Effet indésirable sur l'être humain : une réaction nocive et non voulue, se
 produisant chez un être humain à la suite d'une exposition à un médicament
@@ -16,10 +16,9 @@ susceptible de mettre la vie en danger, qui provoque des symptômes permanents o
 prolongés, qui se traduit par une anomalie ou une malformation congénitale ou
 provoque un handicap ou une incapacité importants chez l'animal traité ;
 
-4° Effet indésirable inattendu : un effet indésirable qui n'est pas mentionné
-dans le résumé des caractéristiques du produit défini à l'article R. 5141-15 ou
-dont la gravité ne correspond pas aux mentions de ce résumé des caractéristiques
-du produit ;
+4° Effet indésirable inattendu : un effet indésirable dont la nature, la gravité
+ou l'effet ne concordent pas avec les mentions du résumé des caractéristiques du
+produit défini à l'article R. 5141-15 ;
 
 5° Rapports périodiques actualisés relatifs à la sécurité : les rapports
 périodiques contenant les informations enregistrées conformément à l'article R.
@@ -33,4 +32,4 @@ un risque relatif à un médicament vétérinaire autorisé ;
 7° Utilisation en dehors des mentions du résumé des caractéristiques du produit
 défini à l'article R. 5141-15 : l'usage d'un médicament vétérinaire d'une
 manière qui n'est pas conforme au résumé des caractéristiques du produit,
-notamment le mauvais usage ou l'abus grave.
+notamment le mauvais usage ou l'abus grave du médicament.

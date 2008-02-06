@@ -2,8 +2,9 @@ Article R5141-108
 ----
 Une entreprise assurant l'exploitation de médicaments vétérinaires dispose, en
 permanence, des services d'une personne, pharmacien ou vétérinaire, chargée de
-la pharmacovigilance vétérinaire. Le nom de cette personne est communiqué au
-directeur général de l'Agence française de sécurité sanitaire des aliments.
+la pharmacovigilance vétérinaire résidant dans la Communauté européenne. Le nom
+de cette personne, sa qualité et ses coordonnées sont communiqués au directeur
+général de l'Agence française de sécurité sanitaire des aliments.
 
 Cette personne est chargée de :
 

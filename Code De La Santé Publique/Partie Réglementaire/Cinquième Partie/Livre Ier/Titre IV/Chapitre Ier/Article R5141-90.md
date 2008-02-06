@@ -2,7 +2,9 @@ Article R5141-90
 ----
 La pharmacovigilance vétérinaire comporte :
 
-1° Le signalement des effets indésirables des médicaments vétérinaires ;
+1° Le signalement des effets indésirables des médicaments vétérinaires et des
+médicaments à usage humain administrés dans les conditions prévues au a du 3° de
+l'article L. 5143-4 ;
 
 2° Le recueil des informations disponibles sur l'efficacité insuffisante d'un
 médicament vétérinaire par rapport à l'efficacité prévue, sur son utilisation en
