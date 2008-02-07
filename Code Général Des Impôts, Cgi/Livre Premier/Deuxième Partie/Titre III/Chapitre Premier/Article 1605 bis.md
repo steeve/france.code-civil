@@ -36,9 +36,9 @@ c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
 titre de l'année précédant celle au cours de laquelle la redevance audiovisuelle
 est due ;
 
-Pour l'année 2008, les redevables âgés de plus de soixante-cinq ans au 1er
-janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un dégrèvement
-de 50 % de la redevance audiovisuelle lorsqu'ils remplissent les conditions
+Pour les années 2008 et 2009, les redevables âgés de plus de soixante-cinq ans
+au 1er janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un
+dégrèvement de la redevance audiovisuelle lorsqu'ils remplissent les conditions
 prévues aux a, b et c ;
 
 4° a. Les personnes qui ne détiennent aucun appareil récepteur de télévision ou

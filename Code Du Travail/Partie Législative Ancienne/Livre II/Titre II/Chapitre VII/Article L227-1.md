@@ -11,7 +11,7 @@ contrepartie des périodes de congé ou de repos non prises.
 Peuvent y être affectés, dans les conditions et limites définies par la
 convention ou l'accord collectif, les éléments suivants :
 
-- à l'initiative du salarié, tout ou partie du congé annuel prévu à l'article L.
+-à l'initiative du salarié, tout ou partie du congé annuel prévu à l'article L.
 223-1 excédant la durée de vingt-quatre jours ouvrables, les heures de repos
 acquises au titre du repos compensateur prévu au premier alinéa du II de
 l'article L. 212-5 et à l'article L. 212-5-1 ainsi que les jours de repos et de
@@ -20,7 +20,7 @@ congés accordés au titre de l'article L. 212-9 et du III de l'article L.
 individuelle de forfait conclue en application du I ou du II de l'article L.
 212-15-3 ;
 
-- à l'initiative de l'employeur, les heures effectuées au-delà de la durée
+-à l'initiative de l'employeur, les heures effectuées au-delà de la durée
 collective du travail, lorsque les caractéristiques des variations de l'activité
 le justifient.
 
@@ -80,15 +80,18 @@ prévoyant les conditions de transfert des droits d'un employeur à un autre, le
 salarié perçoit en cas de rupture du contrat de travail une indemnité
 correspondant à la conversion monétaire de l'ensemble des droits qu'il a acquis.
 
-Cette indemnité est également versée lorsque les droits acquis atteignent,
-convertis en unités monétaires, un montant déterminé par décret, sauf lorsque la
-convention ou l'accord collectif de travail a établi pour les comptes excédant
-ce montant un dispositif d'assurance ou de garantie répondant à des
-prescriptions fixées par décret. Le montant précité ne peut excéder le plus
-élevé de ceux fixés en application de l'article L. 143-11-8.
-
 Les droits acquis dans le cadre du compte épargne-temps sont garantis dans les
 conditions de l'article L. 143-11-1.
+
+Pour les droits acquis convertis en unités monétaires qui excèdent le plus élevé
+des montants fixés par décret en application de l'article L. 143-11-8, la
+convention ou l'accord collectif établit un dispositif d'assurance ou de
+garantie répondant à des prescriptions fixées par décret.A défaut d'accord dans
+un délai d'un an à compter de la promulgation de la loi n° 2008-111 du 8 février
+2008 pour le pouvoir d'achat, un dispositif légal de garantie est mis en place.
+Dans l'attente de la conclusion de la convention ou de l'accord collectif,
+lorsque les droits acquis convertis en unités monétaires excèdent le plafond
+précité, l'indemnité prévue au treizième alinéa est versée au salarié.
 
 Les dispositions du présent article sont applicables aux salariés définis aux
 deuxième à quatrième, septième et huitième alinéas de l'article L. 722-20 du
