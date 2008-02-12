@@ -1,6 +1,6 @@
 Article L322-4-12
 ----
-I. - Le contrat d'avenir est un contrat de travail de droit privé à durée
+I.-Le contrat d'avenir est un contrat de travail de droit privé à durée
 déterminée passé en application de l'article L. 122-2 avec l'un des employeurs
 mentionnés à l'article L. 322-4-11. Il est conclu pour une durée de deux ans. Il
 peut être renouvelé dans la limite de douze mois. Pour les bénéficiaires âgés de
@@ -44,7 +44,7 @@ Le bénéficiaire du contrat d'avenir, sous réserve de clauses contractuelles o
 conventionnelles plus favorables, perçoit une rémunération égale au produit du
 salaire minimum de croissance par le nombre d'heures de travail effectuées.
 
-II. - L'employeur bénéficie d'une aide qui lui est versée par le débiteur de
+II.-L'employeur bénéficie d'une aide qui lui est versée par le débiteur de
 l'allocation perçue par le bénéficiaire du contrat. Le montant de cette aide est
 égal à celui de l'allocation de revenu minimum d'insertion garanti à une
 personne isolée en application de l'article L. 262-2 du code de l'action sociale
@@ -56,8 +56,8 @@ par décret.
 
 Le débiteur de l'allocation peut confier le service de l'aide à l'employeur
 mentionnée au premier alinéa à l'un des organismes mentionnés à l'article L.
-262-30 du code de l'action sociale et des familles ou à l'un des organismes
-visés au premier alinéa de l'article L. 351-21 du présent code.
+262-30 du code de l'action sociale et des familles ou à l'institution mentionnée
+à l'article L. 311-7 du présent code.
 
 L'employeur perçoit également de l'Etat, dans des conditions déterminées par
 décret, une prime de cohésion sociale dégressive avec la durée du contrat dont
@@ -71,16 +71,16 @@ moment de la conclusion du contrat.
 Les dispositions des deuxième et troisième alinéas du II de l'article L. 322-4-7
 sont applicables au contrat d'avenir.
 
-III. - L'Etat apporte une aide forfaitaire à l'employeur en cas d'embauche du
+III.-L'Etat apporte une aide forfaitaire à l'employeur en cas d'embauche du
 bénéficiaire sous contrat à durée indéterminée dans des conditions précisées par
 la convention prévue à l'article L. 322-4-11.
 
-IV. - Par dérogation aux dispositions du deuxième alinéa de l'article L.
-122-3-8, le contrat d'avenir, conclu pour une durée déterminée, peut être rompu
-avant son terme, à l'initiative du salarié, lorsque celui-ci justifie d'une
-embauche pour une durée indéterminée ou pour une durée déterminée au moins égale
-à six mois, ou du suivi d'une formation conduisant à une qualification
-mentionnée aux quatre premiers alinéas de l'article L. 900-3.
+IV.-Par dérogation aux dispositions du deuxième alinéa de l'article L. 122-3-8,
+le contrat d'avenir, conclu pour une durée déterminée, peut être rompu avant son
+terme, à l'initiative du salarié, lorsque celui-ci justifie d'une embauche pour
+une durée indéterminée ou pour une durée déterminée au moins égale à six mois,
+ou du suivi d'une formation conduisant à une qualification mentionnée aux quatre
+premiers alinéas de l'article L. 900-3.
 
 A la demande du salarié, le contrat d'avenir peut être suspendu afin de lui
 permettre d'effectuer une période d'essai afférente à une offre d'emploi visant

@@ -2,7 +2,7 @@ Article L114-12-1
 ----
 Il est créé un répertoire national commun aux organismes chargés de la gestion
 d'un régime obligatoire de sécurité sociale, aux caisses assurant le service des
-congés payés, ainsi qu'aux organismes mentionnés à l'article L. 351-21 du code
+congés payés, ainsi qu'à l'institution mentionnée à l'article L. 311-7 du code
 du travail, relatif aux bénéficiaires des prestations et avantages de toute
 nature qu'ils servent.
 

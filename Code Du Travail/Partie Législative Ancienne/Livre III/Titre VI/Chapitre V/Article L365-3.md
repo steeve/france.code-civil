@@ -13,12 +13,12 @@ recours devant le tribunal administratif.
 Le montant de la pénalité ne peut excéder 3 000 Euros. Elle est recouvrée par
 l'Etat comme une créance étrangère à l'impôt et au domaine, puis son produit est
 versé à la personne morale ou au fonds à la charge duquel ont été les versements
-indus, en conséquence soit aux organismes visés au premier alinéa de l'article
-L. 351-21, soit aux employeurs visés au septième alinéa de l'article L. 351-12
-qui n'ont pas adhéré au régime de l'article L. 351-4, soit au Fonds de
-solidarité institué par l'article 1er de la loi n° 82-939 du 4 novembre 1982
-relative à la contribution exceptionnelle de solidarité en faveur des
-travailleurs privés d'emploi, soit à l'Etat.
+indus, en conséquence soit à l'institution mentionnée à l'article L. 311-7, soit
+aux employeurs visés au septième alinéa de l'article L. 351-12 qui n'ont pas
+adhéré au régime de l'article L. 351-4, soit au Fonds de solidarité institué par
+l'article 1er de la loi n° 82-939 du 4 novembre 1982 relative à la contribution
+exceptionnelle de solidarité en faveur des travailleurs privés d'emploi, soit à
+l'Etat.
 
 Aucune pénalité ne peut être prononcée à raison de faits remontant à plus de
 deux ans, ni lorsque la personne concernée a, pour les mêmes faits, déjà été

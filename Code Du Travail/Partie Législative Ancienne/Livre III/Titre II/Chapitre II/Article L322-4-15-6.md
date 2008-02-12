@@ -1,6 +1,6 @@
 Article L322-4-15-6
 ----
-I. - Le bénéficiaire du contrat insertion-revenu minimum d'activité perçoit un
+I.-Le bénéficiaire du contrat insertion-revenu minimum d'activité perçoit un
 revenu minimum d'activité dont le montant est au moins égal au produit du
 salaire minimum de croissance par le nombre d'heures de travail effectuées.
 
@@ -19,7 +19,7 @@ l'Etat. Les modalités de calcul et de prise en charge sont fixées par décret.
 Les collectivités débitrices de l'aide à l'employeur mentionnée à l'alinéa
 précédent peuvent confier par convention le service de ces aides à l'organisme
 de leur choix, notamment à l'un des organismes mentionnés à l'article L. 262-30
-du code de l'action sociale et des familles ou à l'un des organismes visés au
-premier alinéa de l'article L. 351-21 du présent code.
+du code de l'action sociale et des familles ou à l'institution mentionnée à
+l'article L. 311-7 du présent code.
 
-II., III. - Paragraphes abrogés
+II., III.-Paragraphes abrogés

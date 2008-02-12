@@ -10,14 +10,14 @@ l'Etat et la région assurent le financement de la rémunération des stagiaires
 
 1° Mentionnés à l'article L. 961-5 lorsqu'ils ne relèvent pas des conventions
 conclues en application des dispositions du deuxième alinéa de l'article L.
-961-l ;
+961-1 ;
 
 2° Reconnus travailleurs handicapés en application de l'article L. 323-10.
 
 Un décret en Conseil d'Etat détermine les conditions et les modalités de calcul
 et de versement de ces rémunérations. Leur gestion peut être confiée par voie de
-convention à un établissement public de l'Etat à caractère administratif, aux
-institutions mentionnées à l'article L. 351-21 ou à l'Association nationale pour
+convention à un établissement public de l'Etat à caractère administratif, à
+l'institution mentionnée à l'article L. 311-7 ou à l'Association nationale pour
 la formation professionnelle des adultes.
 
 Le même décret détermine les mesures d'adaptation nécessaires à l'application

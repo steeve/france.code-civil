@@ -2,12 +2,12 @@ Article L321-13
 ----
 Toute rupture du contrat de travail d'un salarié d'un âge déterminé par décret
 ouvrant droit au versement de l'allocation d'assurance prévue à l'article L.
-351-3 entraîne l'obligation pour l'employeur de verser aux organismes visés à
-l'article L. 351-21 une cotisation dont le montant est fixé par décret dans la
-limite de douze mois de salaire brut calculé sur la moyenne mensuelle des
-salaires versés au cours des douze derniers mois travaillés. Ce montant peut
-varier selon l'âge auquel intervient la rupture et la taille de l'entreprise
-concernée. Cette cotisation n'est pas due dans les cas suivants :
+351-3 entraîne l'obligation pour l'employeur de verser à l'institution
+mentionnée à l'article L.311-7 une cotisation dont le montant est fixé par
+décret dans la limite de douze mois de salaire brut calculé sur la moyenne
+mensuelle des salaires versés au cours des douze derniers mois travaillés. Ce
+montant peut varier selon l'âge auquel intervient la rupture et la taille de
+l'entreprise concernée. Cette cotisation n'est pas due dans les cas suivants :
 
 1° Licenciement pour faute grave ou lourde ;
 

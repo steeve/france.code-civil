@@ -1,6 +1,6 @@
 Article L321-4-2
 ----
-I. - Dans les entreprises non soumises aux dispositions de l'article L. 321-4-3,
+I.-Dans les entreprises non soumises aux dispositions de l'article L. 321-4-3,
 l'employeur est tenu de proposer à chaque salarié dont il envisage de prononcer
 le licenciement pour motif économique le bénéfice d'une convention de
 reclassement personnalisé lui permettant de bénéficier, après la rupture de son
@@ -42,28 +42,30 @@ d'accompagnement et de formation, les modalités selon lesquelles elles sont
 financées, notamment au titre du droit individuel à la formation, et mises en
 oeuvre par l'un des organismes mentionnés aux articles L. 311-1 et L. 311-10,
 les obligations du bénéficiaire de la convention ainsi que le montant de
-l'allocation servie au bénéficiaire, par les organismes mentionnés à l'article
-L. 351-21. L'employeur contribue au financement de l'allocation par un versement
-à ces organismes équivalent au minimum à deux mois de salaire de l'intéressé,
-sous réserve que la durée légale du délai-congé prévu à l'article L. 122-6 soit
-au moins égale à deux mois.
+l'allocation servie au bénéficiaire, par l'institution mentionnée à l'article L.
+311-7 pour le compte de l'organisme mentionné à l'article L. 351-21. L'employeur
+contribue au financement de l'allocation par un versement à l'institution
+mentionnée à l'article L. 311-7 équivalent au minimum à deux mois de salaire de
+l'intéressé, sous réserve que la durée légale du délai-congé prévu à l'article
+L. 122-6 soit au moins égale à deux mois.
 
-L'accord définit également les conditions dans lesquelles les mêmes organismes
-et les employeurs participent au financement des actions prévues à l'alinéa
-précédent. Il peut prévoir les conditions d'ancienneté exigées du salarié pour
-bénéficier des dispositions du présent article.
+L'accord définit également les conditions dans lesquelles l'organisme
+gestionnaire du régime d'assurance chômage et les employeurs participent au
+financement des actions prévues à l'alinéa précédent. Il peut prévoir les
+conditions d'ancienneté exigées du salarié pour bénéficier des dispositions du
+présent article.
 
 A défaut d'accord ou d'agrément de cet accord, les mesures d'application du
 présent I et leurs modalités de financement sont fixées par décret en Conseil
 d'Etat.
 
-Dans le cadre d'un accord passé avec les organismes mentionnés à l'article L.
+Dans le cadre d'un accord passé avec l'organisme mentionné à l'article L.
 351-21, l'Etat contribue au financement, notamment au titre du droit individuel
 à la formation, des dépenses relatives aux actions engagées dans le cadre de la
 convention de reclassement personnalisé.
 
-II. - Tout employeur non soumis aux dispositions de l'article L. 321-4-3 qui
+II.-Tout employeur non soumis aux dispositions de l'article L. 321-4-3 qui
 procède au licenciement pour motif économique d'un salarié sans lui proposer le
-bénéfice d'une convention de reclassement personnalisé doit verser aux
-organismes mentionnés à l'article L. 351-21 une contribution égale à deux mois
+bénéfice d'une convention de reclassement personnalisé doit verser à
+l'institution mentionnée à l'article L. 311-7 une contribution égale à deux mois
 de salaire brut moyen des douze derniers mois travaillés.

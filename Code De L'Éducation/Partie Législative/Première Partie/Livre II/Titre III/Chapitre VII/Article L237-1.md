@@ -4,15 +4,15 @@ Les institutions de la formation professionnelle sont organisées conformément
 aux dispositions des articles L. 910-1 et L. 910-2 du code du travail, ci-après
 reproduites :
 
-"Art. L. 910-1. - Il est créé un Conseil national de la formation
-professionnelle tout au long de la vie : ce conseil est chargé de favoriser, au
-plan national, la concertation entre les acteurs pour la conception des
-politiques de formation professionnelle et le suivi de leur mise en oeuvre, en
-liaison avec les comités de coordination régionaux de l'emploi et de la
-formation professionnelle. Il est chargé d'évaluer les politiques régionales
-d'apprentissage et de formation professionnelle tout au long de la vie. Il donne
-son avis sur la législation et la réglementation applicables en matière de
-formation professionnelle tout au long de la vie et d'apprentissage.
+" Art.L. 910-1.-Il est créé un Conseil national de la formation professionnelle
+tout au long de la vie : ce conseil est chargé de favoriser, au plan national,
+la concertation entre les acteurs pour la conception des politiques de formation
+professionnelle et le suivi de leur mise en oeuvre, en liaison avec les comités
+de coordination régionaux de l'emploi et de la formation professionnelle. Il est
+chargé d'évaluer les politiques régionales d'apprentissage et de formation
+professionnelle tout au long de la vie. Il donne son avis sur la législation et
+la réglementation applicables en matière de formation professionnelle tout au
+long de la vie et d'apprentissage.
 
 Il établit tous les ans un rapport sur l'utilisation des ressources financières
 soit collectées, soit affectées à la formation professionnelle tout au long de
@@ -45,12 +45,12 @@ fonctions de diagnostic, d'étude, de suivi et d'évaluation de ces politiques.
 
 Il est composé de représentants :
 
-- de l'Etat dans la région ;
+-de l'Etat dans la région ;
 
-- des assemblées régionales ;
+-des assemblées régionales ;
 
-- des organisations syndicales de salariés et d'employeurs ainsi que des
-chambres régionales d'agriculture, de commerce et d'industrie et de métiers.
+-des organisations syndicales de salariés et d'employeurs ainsi que des chambres
+régionales d'agriculture, de commerce et d'industrie et de métiers.
 
 Il se dote des commissions nécessaires à son fonctionnement, notamment en
 matière d'information, d'orientation, de validation des acquis de l'expérience,
@@ -81,9 +81,9 @@ la formation professionnelle.
 
 Dans des conditions définies par décret, les comités de coordination régionaux
 de l'emploi et de la formation professionnelle sont consultés sur les programmes
-et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour
-l'emploi et par l'Association nationale pour la formation professionnelle des
-adultes.
+et les moyens mis en oeuvre dans chaque région par l'institution mentionnée à
+l'article L. 311-7 du code du travail et par l'Association nationale pour la
+formation professionnelle des adultes.
 
 Chaque comité régional est informé notamment des contrats de progrès
 quinquennaux conclus entre l'Etat et ces deux organismes et est consulté sur les
@@ -94,10 +94,11 @@ d'investissement et les moyens d'intervention dont disposeront les services
 régionaux des mêmes organismes. En Corse, la collectivité territoriale de Corse
 est substituée à la région. Le comité de coordination régional de l'emploi et de
 la formation professionnelle est consulté sur les projets d'investissement et
-les moyens d'intervention dont disposent les services régionaux de l'Agence
-nationale pour l'emploi et de l'Association nationale pour la formation
-professionnelle des adultes, y compris pour cette dernière sur les programmes
-prévus à l'article L. 4424-34 du code général des collectivités territoriales.
+les moyens d'intervention dont disposent les services régionaux de l'institution
+mentionnée à l'article L. 311-7 du code du travail et de l'Association nationale
+pour la formation professionnelle des adultes, y compris pour cette dernière sur
+les programmes prévus à l'article L. 4424-34 du code général des collectivités
+territoriales.
 
 Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa
 précédent précisent les conditions dans lesquelles l'Association nationale pour
@@ -106,6 +107,6 @@ interventions des associations régionales pour la formation professionnelle des
 adultes.
 
 Les modalités d'organisation et de fonctionnement des comités mentionnés aux
-alinéas précédents sont déterminées par décret."
+alinéas précédents sont déterminées par décret. "
 
-"Art. L. 910-2. - (article abrogé).
+" Art.L. 910-2.-(article abrogé).

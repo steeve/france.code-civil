@@ -21,7 +21,7 @@ après information écrite sur la source de l'erreur et expiration du délai de
 recours. Les différends auxquels donnent lieu l'attribution et le versement de
 la prime relèvent de la juridiction administrative de droit commun. La créance
 peut être réduite ou remise en cas de précarité de la situation du débiteur,
-sauf en cas de manoeuvre frauduleuse ou de fausse déclaration. L'action du
+sauf en cas de manoeuvre frauduleuse ou de fausse déclaration.L'action du
 bénéficiaire pour le paiement de la prime ou l'action intentée par un organisme
 payeur en recouvrement de la prime indûment payée se prescrit par deux ans, sauf
 en cas de manoeuvre frauduleuse ou de fausse déclaration.
@@ -29,10 +29,10 @@ en cas de manoeuvre frauduleuse ou de fausse déclaration.
 Les organismes chargés de son versement vérifient les déclarations des
 bénéficiaires. Pour l'exercice de leur contrôle, ces organismes peuvent demander
 toutes les informations nécessaires, notamment aux administrations publiques,
-aux organismes de sécurité sociale et aux institutions gestionnaires du régime
-d'assurance chômage qui sont tenus de les leur communiquer. Les informations
-demandées aux bénéficiaires et aux organismes ci-dessus mentionnés doivent être
-limitées aux données strictement nécessaires à l'attribution de la prime.
+aux organismes de sécurité sociale et à l'institution mentionnée à l'article L.
+311-7 qui sont tenus de les leur communiquer. Les informations demandées aux
+bénéficiaires et aux organismes ci-dessus mentionnés doivent être limitées aux
+données strictement nécessaires à l'attribution de la prime.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article, notamment la durée de travail minimale et le nombre de mois consécutifs

@@ -31,8 +31,7 @@ L'allocation équivalent retraite est à la charge du fonds de solidarité cré�
 l'article 1er de la loi n° 82-939 du 4 novembre 1982 relative à la contribution
 exceptionnelle de solidarité en faveur des travailleurs privés d'emploi. Son
 service est assuré dans les conditions prévues par une convention conclue entre
-l'Etat et les organismes gestionnaires des allocations de solidarité mentionnés
-à l'article L. 351-21.
+l'Etat et l'institution mentionnée à l'article L. 311-7.
 
 Un décret en Conseil d'Etat fixe les plafonds de ressources mentionnés au
 troisième alinéa et les conditions de ressources mentionnées au premier alinéa
@@ -47,8 +46,8 @@ conditions et limites que les salaires.
 Les dispositions du présent article seront applicables à l'entrée en vigueur du
 décret en Conseil d'Etat mentionné au sixième alinéa du présent article.
 
-Pour l'application du présent article, les organismes gestionnaires visés à
-l'article L. 351-21 reçoivent des organismes visés à l'article L. 262-30 du code
+Pour l'application du présent article, l'institution mentionnée à l'article L.
+311-7 du présent code reçoit des organismes visés à l'article L. 262-30 du code
 de l'action sociale et des familles les informations nominatives nécessaires et
 mettent en oeuvre des traitements automatisés de ces informations, dans les
 conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à

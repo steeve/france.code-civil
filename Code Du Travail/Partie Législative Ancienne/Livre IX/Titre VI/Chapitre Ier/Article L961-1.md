@@ -4,8 +4,9 @@ L'Etat, les régions, les employeurs et les organismes paritaires agréés en
 application de l'article L. 951-3 concourent au financement de la rémunération
 des stagiaires de la formation professionnelle.
 
-les institutions mentionnées à l'article L. 351-21 y concourent également,
-notamment dans les conditions prévues à l'article L. 321-4-2.
+L'institution mentionnée à l'article L. 311-7 y concourt également, le cas
+échéant pour le compte de l'organisme mentionné à l'article L. 351-21, notamment
+dans les conditions prévues à l'article L. 321-4-2.
 
 Sous certaines conditions définies par le décret en Conseil d'Etat, le stagiaire
 peut bénéficier d'un prêt accordé par l'Etat ou par les organismes agréés

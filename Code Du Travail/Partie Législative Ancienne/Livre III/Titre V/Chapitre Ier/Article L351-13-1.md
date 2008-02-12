@@ -15,8 +15,8 @@ chômage au titre de la solidarité nationale.
 Ces allocations sont à la charge du Fonds de solidarité créé par la loi n°
 82-939 du 4 novembre 1982 relative à la contribution exceptionnelle de
 solidarité en faveur des travailleurs privés d'emploi. Leur service est assuré
-par les organismes mentionnés à l'article L. 351-21 du présent code et dans les
-conditions prévues par une convention conclue entre ces derniers et l'Etat.
+par l'institution mentionnée à l'article L. 311-7 et dans les conditions prévues
+par une convention conclue entre cette dernière et l'Etat.
 
 L'attribution et le maintien du versement de ces allocations sont subordonnés à
 la condition de recherche d'emploi prévue à l'article L. 351-1. Les articles L.

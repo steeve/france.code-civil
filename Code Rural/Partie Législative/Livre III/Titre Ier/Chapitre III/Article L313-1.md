@@ -50,9 +50,8 @@ territoriales la gestion de leurs aides financières aux stagiaires de la
 formation professionnelle, elles confient cette gestion, en application de
 l'article L. 961-2 du code du travail, au Centre national pour l'aménagement des
 structures des exploitations agricoles, ou pour ce qui concerne leurs propres
-allocataires ou stagiaires, aux institutions mentionnées à l'article L. 351-21
-de ce code ou à l'Association nationale pour la formation professionnelle des
-adultes.
+allocataires ou stagiaires, à l'organisme mentionné à l'article L. 351-21 de ce
+code ou à l'Association nationale pour la formation professionnelle des adultes.
 
 IV. - Dans ses domaines de compétence, l'établissement peut également apporter à
 des collectivités publiques françaises, européennes ou étrangères son assistance

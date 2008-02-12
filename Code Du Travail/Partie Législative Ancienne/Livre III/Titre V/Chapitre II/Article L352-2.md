@@ -12,8 +12,8 @@ l'emploi, à la compensation des offres et des demandes d'emploi au contrôle de
 travailleurs privés d'emploi, et à l'organisation du placement de l'orientation
 ou du reclassement des travailleurs sans emploi.
 
-L'agrément est accordé après avis du comité supérieur de l'emploi prévu à
-l'article L. 322-2.
+L'agrément est accordé après avis du Conseil national de l'emploi mentionné à
+l'article L. 311-1-1.
 
 Il a pour effet de rendre obligatoires les dispositions de l'accord pour tous
 les employeurs et travailleurs compris dans le champ d'application professionnel

@@ -3,10 +3,9 @@ Article L311-10-1
 Les maisons de l'emploi peuvent prendre la forme de groupements d'intérêt
 public.
 
-Ces groupements associent obligatoirement l'Etat, l'Agence nationale pour
-l'emploi, les organismes mentionnés à l'article L. 351-21 et au moins une
-collectivité territoriale ou un établissement public de coopération
-intercommunale.
+Ces groupements associent obligatoirement l'Etat, l'institution mentionnée à
+l'article L. 311-7 et au moins une collectivité territoriale ou un établissement
+public de coopération intercommunale.
 
 Le groupement est administré par un conseil d'administration composé de
 représentants de ses membres constitutifs. Ce conseil élit son président en son

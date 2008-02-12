@@ -1,8 +1,8 @@
 Article L322-4
 ----
 Dans les régions ou à l'égard des professions astreintes ou menacées d'un grave
-déséquilibre de l'emploi, le ministre chargé du travail, après avis du comité
-supérieur de l'emploi engage des actions de reclassement, de placement et de
+déséquilibre de l'emploi, le ministre chargé du travail, après avis du Conseil
+national de l'emploi engage des actions de reclassement, de placement et de
 reconversion professionnelle. Il en assure ou coordonne l'exécution.
 
 Dans les cas prévus au présent article, peuvent être attribuées par voie de
@@ -31,7 +31,7 @@ licenciements économiques. Le montant des ressources nettes garanties des
 salariés adhérents à ces conventions ne pourra dépasser 90 p. 100 de leur
 rémunération nette antérieure.
 
-En outre, le ministre chargé du travail peut, après avis du comité supérieur de
+En outre, le ministre chargé du travail peut, après avis du Conseil national de
 l'emploi, accorder des aides individuelles au reclassement en faveur de
 certaines catégories de travailleurs sans emploi reprenant un emploi à temps
 partiel.

@@ -20,7 +20,7 @@ ministre chargé du travail et dans des conditions fixées par voie réglementai
 Le montant de l'aide est majoré lorsque la formation est organisée au bénéfice
 de salariés âgés de quarante-cinq ans et plus.
 
-L'agrément prévu à l'alinéa précédent est accordé après avis du comité supérieur
+L'agrément prévu à l'alinéa précédent est accordé après avis du Conseil national
 de l'emploi. Il est donné pour la durée de validité de l'accord et peut être
 retiré si les conditions posées pour son attribution cessent d'être remplies.
 
