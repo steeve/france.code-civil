@@ -45,8 +45,8 @@ ci-dessus.
 
 Par dérogation aux dispositions des trois alinéas précédents, l'avance des
 contributions de l'employeur au financement de la convention de reclassement
-personnalisé mentionnée à l'article L. 321-4-2 est versée directement à
-l'institution mentionnée à l'article L. 311-7.
+personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux
+organismes chargés du recouvrement mentionnés à l'article L. 351-21.
 
 Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux
 salariés et organismes créanciers, à l'exclusion des créanciers subrogés, et en

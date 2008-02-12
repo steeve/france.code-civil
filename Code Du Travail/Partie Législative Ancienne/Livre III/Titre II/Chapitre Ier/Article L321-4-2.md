@@ -44,10 +44,10 @@ oeuvre par l'un des organismes mentionnés aux articles L. 311-1 et L. 311-10,
 les obligations du bénéficiaire de la convention ainsi que le montant de
 l'allocation servie au bénéficiaire, par l'institution mentionnée à l'article L.
 311-7 pour le compte de l'organisme mentionné à l'article L. 351-21. L'employeur
-contribue au financement de l'allocation par un versement à l'institution
-mentionnée à l'article L. 311-7 équivalent au minimum à deux mois de salaire de
-l'intéressé, sous réserve que la durée légale du délai-congé prévu à l'article
-L. 122-6 soit au moins égale à deux mois.
+contribue au financement de l'allocation par un versement aux organismes chargés
+du recouvrement mentionnés à l'article L. 351-21 équivalent au minimum à deux
+mois de salaire de l'intéressé, sous réserve que la durée légale du délai-congé
+prévu à l'article L. 122-6 soit au moins égale à deux mois.
 
 L'accord définit également les conditions dans lesquelles l'organisme
 gestionnaire du régime d'assurance chômage et les employeurs participent au
@@ -66,6 +66,7 @@ convention de reclassement personnalisé.
 
 II.-Tout employeur non soumis aux dispositions de l'article L. 321-4-3 qui
 procède au licenciement pour motif économique d'un salarié sans lui proposer le
-bénéfice d'une convention de reclassement personnalisé doit verser à
-l'institution mentionnée à l'article L. 311-7 une contribution égale à deux mois
-de salaire brut moyen des douze derniers mois travaillés.
+bénéfice d'une convention de reclassement personnalisé doit verser aux
+organismes chargés du recouvrement mentionnés à l'article L. 351-21 une
+contribution égale à deux mois de salaire brut moyen des douze derniers mois
+travaillés.

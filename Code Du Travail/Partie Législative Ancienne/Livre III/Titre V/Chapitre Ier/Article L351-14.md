@@ -24,4 +24,6 @@ La contribution spécifique mentionnée au deuxième alinéa est applicable à
 compter du 1er septembre 2002.
 
 La contribution spécifique est recouvrée et contrôlée selon les règles
-applicables aux contributions mentionnées à l'article L. 351-3-1.
+applicables aux contributions mentionnées à l'article L. 351-3-1. Les différends
+relatifs au recouvrement de cette contribution suivent les règles de compétence
+prévues à l'article L. 351-5-1.
