@@ -71,8 +71,8 @@ confère notamment le bénéfice de l'hypothèque judiciaire.
 243-5 du code de la sécurité sociale.
 
 Les litiges résultant de l'application des dispositions du I du présent article
-aux employeurs mentionnés à l'article L. 351-12 relèvent de la compétence des
-tribunaux judiciaires.
+aux employeurs mentionnés à l'article L. 351-12 suivent les règles de compétence
+prévues à l'article L. 351-5-1.
 
 V. - Sans préjudice des missions et pouvoirs des agents des administrations et
 des organismes parties aux conventions prévues au III et de ceux des

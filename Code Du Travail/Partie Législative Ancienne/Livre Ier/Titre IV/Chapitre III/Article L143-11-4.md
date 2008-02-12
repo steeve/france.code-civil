@@ -6,8 +6,12 @@ les plus représentatives et agréée par le ministre chargé du travail.
 
 Cette association passe une convention de gestion avec l'organisme gestionnaire
 du régime d'assurance mentionné à la section I du chapitre Ier du titre V du
-livre III de la première partie du code du travail.
+livre III de la première partie du code du travail et avec l'Agence centrale des
+organismes de sécurité sociale pour le recouvrement des cotisations mentionnées
+à l'article L. 143-11-6.
 
 En cas de dissolution de cette association, le ministre chargé du travail confie
-aux institutions prévues à l'alinéa précédent la gestion du régime d'assurance
-institué à l'article L. 143-11-1.
+à l'organisme prévu à l'article L. 351-21 la gestion du régime d'assurance
+institué à l'article L. 143-11-1, à l'exception du recouvrement des cotisations
+mentionnées à l'article L. 143-11-6 confié aux organismes mentionnés à l'article
+L. 351-5-1.
