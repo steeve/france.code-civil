@@ -1,5 +1,5 @@
 Article L5423-17
 ----
-L'Etat peut, par convention, confier le versement de l'allocation forfaitaire
-aux organismes gestionnaires du régime d'assurance chômage ou à tout organisme
-de droit privé.
+L'Etat peut, par convention, confier le versement de l'allocation forfaitaire à
+l'institution mentionnée à l'article L. 5312-1 ou à tout organisme de droit
+privé.

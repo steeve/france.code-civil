@@ -12,6 +12,6 @@ celle-ci ;
 2° De souscrire, dans les conditions mentionnées à l'article L. 133-5 du code de
 la sécurité sociale, les déclarations obligatoires relatives aux cotisations et
 contributions sociales qui doivent être adressées aux organismes gérant les
-régimes mentionnés au code de la sécurité sociale, aux organismes gestionnaires
-du régime d'assurance chômage et, le cas échéant, aux caisses de congés payés
-mentionnées à l'article L. 3141-30.
+régimes mentionnés au code de la sécurité sociale, à l'institution mentionnée à
+l'article L. 5312-1 et, le cas échéant, aux caisses de congés payés mentionnées
+à l'article L. 3141-30.

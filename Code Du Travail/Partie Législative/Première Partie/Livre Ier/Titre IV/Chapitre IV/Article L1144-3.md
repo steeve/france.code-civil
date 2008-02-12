@@ -17,6 +17,7 @@ conseil des prud'hommes lui alloue :
 l'article L. 1234-9 ou par la convention ou l'accord collectif applicable ou le
 contrat de travail.
 
-L'article L. 1235-4, relatif au remboursement aux organismes gestionnaires du
-régime d'assurance chômage des indemnités de chômage payées au salarié en cas de
-licenciement fautif est également applicable.
+L'article L. 1235-4, relatif au remboursement à l'institution mentionnée à
+l'article L. 5312-1, pour le compte de l'organisme mentionné à l'article L.
+5427-1, des indemnités de chômage payées au salarié en cas de licenciement
+fautif est également applicable.

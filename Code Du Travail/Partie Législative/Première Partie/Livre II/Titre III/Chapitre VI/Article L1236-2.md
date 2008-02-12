@@ -4,9 +4,8 @@ Dans le cas prévu au 3° de l'article L. 1236-1, l'employeur verse également u
 contribution égale à 2 % de la rémunération brute due au salarié depuis le début
 du contrat.
 
-Cette contribution est recouvrée par les organismes gestionnaires du régime
-d'assurance chômage conformément aux dispositions des articles L. 5422-15 à L.
-5422-19.
+Cette contribution est recouvrée par l'institution mentionnée à l'article L.
+5312-1 conformément aux articles L. 5422-15 à L. 5422-19.
 
 Elle est destinée à financer les actions d'accompagnement renforcé du salarié
 par le service public de l'emploi en vue de son retour à l'emploi. Elle n'est

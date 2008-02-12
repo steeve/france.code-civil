@@ -4,8 +4,8 @@ L'employeur peut s'acquitter partiellement de l'obligation d'emploi en
 accueillant :
 
 1° Soit des personnes handicapées bénéficiaires d'une rémunération attribuée par
-les institutions gestionnaires de l'assurance chômage au titre du deuxième
-alinéa de l'article L. 6341-1 ;
+l'institution mentionnée à l'article L. 5312-1 au titre du deuxième alinéa de
+l'article L. 6341-1 ;
 
 2° Soit des personnes handicapées effectuant un stage agréé au titre de la
 formation professionnelle dans les conditions prévues à l'article L. 6341-4.

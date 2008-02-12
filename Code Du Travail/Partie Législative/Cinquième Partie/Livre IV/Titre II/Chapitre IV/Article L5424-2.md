@@ -1,9 +1,9 @@
 Article L5424-2
 ----
 Les employeurs mentionnés à l'article L. 5424-1 assurent la charge et la gestion
-de l'allocation d'assurance. Ils peuvent, par convention conclue avec les
-organismes gestionnaires du régime d'assurance chômage, leur confier cette
-gestion.
+de l'allocation d'assurance. Ceux-ci peuvent, par convention conclue avec
+l'institution mentionnée à l'article L. 5312-1, pour le compte de l'organisme
+mentionné à l'article L. 5427-1, lui confier cette gestion.
 
 Toutefois, peuvent adhérer au régime d'assurance :
 

@@ -14,8 +14,7 @@ prise en charge sont déterminées par décret.
 
 Le débiteur de l'allocation peut confier le service de l'aide à l'employeur, à
 l'un des organismes mentionnés à l'article L. 262-30 du code de l'action sociale
-et des familles ou à l'un des organismes gestionnaires du régime d'assurance
-chômage.
+et des familles ou à l'institution mentionnée à l'article L. 5312-1.
 
 L'employeur perçoit également de l'Etat, dans des conditions déterminées par
 décret, une prime de cohésion sociale dégressive avec la durée du contrat dont

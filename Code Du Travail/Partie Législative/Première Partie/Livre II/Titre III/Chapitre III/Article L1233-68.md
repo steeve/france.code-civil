@@ -19,11 +19,13 @@ de l'emploi ;
 
 4° Les obligations du bénéficiaire de la convention ;
 
-5° Le montant de l'allocation servie au bénéficiaire par les organismes
-gestionnaires du régime d'assurance chômage.
+5° Le montant de l'allocation servie au bénéficiaire par l'institution
+mentionnée à l'article L. 5312-1 pour le compte de l'organisme mentionné à
+l'article L. 5427-1.
 
-L'accord définit également les conditions dans lesquelles ces organismes et les
-employeurs participent au financement des actions prévues au 3°.
+L'accord définit également les conditions dans lesquelles l'organisme
+gestionnaire du régime d'assurance chômage et les employeurs participent au
+financement des actions prévues au 3°.
 
 Il peut prévoir les conditions d'ancienneté exigées du salarié pour bénéficier
 de la convention de reclassement personnalisé.

@@ -16,9 +16,8 @@ solidarité spécifique prévue à l'article L. 5423-1 ;
 en charge au titre d'un revenu de remplacement.
 
 Ces allocations sont à la charge du fonds de solidarité mentionné à l'article L.
-5423-24. Leur gestion est assuré par les organismes gestionnaires du régime
-d'assurance chômage dans les conditions prévues par une convention conclue avec
-l'Etat.
+5423-24. Leur gestion est assuré par l'institution mentionnée à l'article L.
+5312-1 dans les conditions prévues par une convention conclue avec l'Etat.
 
 Ces allocations sont cessibles et saisissables dans les mêmes conditions et
 limites que les salaires.

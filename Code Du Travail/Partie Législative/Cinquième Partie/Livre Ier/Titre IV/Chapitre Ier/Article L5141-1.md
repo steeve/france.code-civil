@@ -9,8 +9,8 @@ profession non salariée :
 
 1° Les demandeurs d'emploi indemnisés ;
 
-2° Les demandeurs d'emploi non indemnisés inscrits à l'Agence nationale pour
-l'emploi six mois au cours des dix-huit derniers mois ;
+2° Les demandeurs d'emploi non indemnisés inscrits à l'institution mentionnée à
+l'article L. 5312-1 six mois au cours des dix-huit derniers mois ;
 
 3° Les bénéficiaires de l'allocation de revenu minimum d'insertion, de
 l'allocation de solidarité spécifique ou de l'allocation de parent isolé ;

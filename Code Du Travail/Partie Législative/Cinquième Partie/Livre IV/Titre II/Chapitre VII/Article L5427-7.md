@@ -1,8 +1,8 @@
 Article L5427-7
 ----
-En l'absence de la convention prévue au deuxième alinéa de l'article L. 5427-1,
+En l'absence de la convention prévue au premier alinéa de l'article L. 5427-1,
 un établissement public national à caractère administratif exerce les
-compétences définies au deuxième alinéa de cet article.
+compétences définies au premier alinéa de cet article.
 
 Les missions nécessaires à l'exercice de ces compétences peuvent être confiées,
 en tout ou partie, à un ou des organismes ayant conclu avec l'établissement

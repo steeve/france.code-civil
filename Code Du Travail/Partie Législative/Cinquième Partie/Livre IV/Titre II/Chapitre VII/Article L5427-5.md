@@ -1,7 +1,7 @@
 Article L5427-5
 ----
-Pour procéder aux vérifications mentionnées à l'article L. 5427-3, la caisse de
-congés des professions de la production cinématographique et audiovisuelle et
-des spectacles ainsi que les institutions des régimes complémentaires de
-retraite de ces professions ont accès aux informations détenues par les
-organismes gestionnaires du régime d'assurance.
+La caisse de congés payés des professions de la production cinématographique et
+audiovisuelle et des spectacles, les institutions des régimes complémentaires de
+retraite de ces professions et les organismes de sécurité sociale se
+communiquent les informations nécessaires à la vérification des droits des
+salariés et des demandeurs d'emploi, et des obligations des employeurs.

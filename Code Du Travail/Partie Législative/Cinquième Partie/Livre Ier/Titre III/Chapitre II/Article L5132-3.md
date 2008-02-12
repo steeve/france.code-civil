@@ -1,7 +1,7 @@
 Article L5132-3
 ----
-Seules les embauches de personnes agréées par l'Agence nationale pour l'emploi
-ouvrent droit :
+Seules les embauches de personnes agréées par l'institution mentionnée à
+l'article L. 5312-1 ouvrent droit :
 
 1° Aux aides relatives aux contrats d'accompagnement dans l'emploi pour les
 ateliers et chantiers d'insertion ;
