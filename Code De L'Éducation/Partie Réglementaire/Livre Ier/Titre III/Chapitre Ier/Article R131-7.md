@@ -15,7 +15,8 @@ pédagogique ou éducative pour l'élève.
 Lorsque l'inspecteur d'académie constate une situation de nature à justifier la
 mise en place d'un contrat de responsabilité parentale, il saisit le président
 du conseil général dans les conditions prévues à l'article R. 222-4-2 du code de
-l'action sociale et des familles. Il en informe préalablement les parents ou le
+l'action sociale et des familles et en informe le maire de la commune de
+résidence de l'enfant. Il en informe préalablement les parents ou le
 représentant légal du mineur.
 
 S'il constate la poursuite de l'absentéisme de l'enfant, en dépit de
