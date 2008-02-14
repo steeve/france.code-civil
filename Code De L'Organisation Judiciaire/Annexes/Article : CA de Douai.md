@@ -52,8 +52,6 @@ Dunkerque-Ouest, Grande-Synthe, Gravelines, Hondschoote et Wormhout.
 
 Hazebrouck
 
-Hazebrouck
-
 Cantons de Bailleul-Nord-Est, Bailleul-Sud-Ouest, Cassel, Hazebrouck-Nord,
 Hazebrouck-Sud, Merville et Steenvoorde.
 
@@ -121,7 +119,7 @@ Boulogne-sur-Mer
 
 Montreuil
 
-Cantons de Berck, Campagne-lès-Hesdin, Etaples, Fruges, Hesdin, Hucqueliers et
+Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et
 Montreuil.
 
 

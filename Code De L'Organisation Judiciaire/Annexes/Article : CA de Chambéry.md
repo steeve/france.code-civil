@@ -40,7 +40,7 @@ Saint-Julien-en-Genevois et Seyssel.
 
 Thonon-les-Bains
 
-Cantons d'Abondance, Boëge, Douvaine, Evian-les-Bains, Le Biot,
+Cantons d'Abondance, Boëge, Douvaine, Évian-les-Bains, Le Biot,
 Thonon-les-Bains-Est et Thonon-les-Bains-Ouest.
 
 

@@ -55,7 +55,9 @@ Veynes.
 
 Isère
 
-Bourgoin-Jallieu
+Vienne (*)
+
+(*) Siège provisoire dans l'attente de la future localisation du TGI
 
 
 Bourgoin-Jallieu
@@ -63,6 +65,13 @@ Bourgoin-Jallieu
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin,
 Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et
 Virieu.
+
+
+Vienne
+
+Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
+L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, Vienne-Nord
+et Vienne-Sud.
 
 
 Grenoble
@@ -77,12 +86,3 @@ Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève,
 Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont,
 Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins,
 Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron.
-
-
-Vienne
-
-Vienne
-
-Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
-L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, Vienne-Nord
-et Vienne-Sud.

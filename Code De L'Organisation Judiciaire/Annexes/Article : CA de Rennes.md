@@ -12,15 +12,7 @@ Cour d'appel de Rennes
 Côtes-d'Armor
 
 
-Dinan
-
-Dinan
-
-Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon-les-Lacs,
-Matignon, Plancoët, Plélan-le-Petit et Ploubalay.
-
-
-Guingamp
+Saint-Brieuc
 
 Guingamp
 
@@ -31,9 +23,7 @@ Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.
 
 Saint-Brieuc
 
-Saint-Brieuc
-
-Cantons de Châtelaudren, Collinée, Corlay, Étables-sur-Mer, Gouarec, La Chèze,
+Cantons de Châtelaudren, Coltinée, Corlay, Étables-sur-Mer, Gouarec, La Chèze,
 Lamballe, Langueux, Lanvollon, Loudéac, Merdrignac, Moncontour, Mûr-de-Bretagne,
 Paimpol, Pléneuf-Val-André, Plérin, Ploeuc-sur-Lié, Ploufragan, Plouguenast,
 Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest, Saint-Brieuc-Sud et
@@ -53,8 +43,6 @@ Brest-Recouvrance, Brest-Saint-Marc, Brest-Saint-Pierre, Daoulas, Guipavas,
 Landerneau, Lannilis, Lesneven, Ouessant, Plabennec, Ploudalmézeau, Ploudiry et
 Saint-Renan.
 
-
-Morlaix
 
 Morlaix
 
@@ -102,6 +90,14 @@ Saint-Malo
 Cantons de Cancale, Châteauneuf-d'Ille-et-Vilaine, Combourg, Dinard,
 Dol-de-Bretagne, Pleine-Fougères, Saint-Malo-Nord, Saint-Malo-Sud et Tinténiac.
 
+Côtes d'Armor
+
+
+Dinan
+
+Cantons de Broons, Caulnes, Dinars-Est, Dinars-Ouest, Évran, Jugon-les-Lacs,
+Matignon, Plancoët, Plélan-le-Petit et Ploubalay.
+
 
 Loire-Atlantique
 
@@ -115,8 +111,8 @@ Clisson, Derval, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le Pellerin, Legé,
 Ligné, Machecoul, Moisdon-la-Rivière, Nantes 1er Canton, Nantes 2e Canton,
 Nantes 3e Canton, Nantes 4e Canton, Nantes 5e Canton, Nantes 6e Canton, Nantes
 7e Canton, Nantes 8e Canton, Nantes 9e Canton, Nantes 10e Canton, Nantes 11e
-Canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé, Saint-
-Étienne-de-Montluc, Saint-Herblain-Est, Saint-Herblain-Ouest-Indre,
+Canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé,
+Saint-Étienne-de-Montiuc, Saint-Herblain-Est, Saint-Herblain-Ouest-lndre,
 Saint-Julien-de-Vouvantes, Saint-Mars-la-Jaille, Saint-Philbert-de-Grand-Lieu,
 Vallet, Varades, Vertou et Vertou-Vignoble.
 
@@ -149,6 +145,6 @@ Vannes
 Vannes
 
 Cantons d'Allaire, Elven, Grand-Champ, Guer, Josselin, La Gacilly, La
-Roche-Bernard, La Trinité-Porhoët, Malestroit, Mauron, Muzillac, Ploërmel,
+Roche-Bernard, La Trinité-Porhoët, Malestroit, Mauron, Muzillac, Ploénnel,
 Questembert, Rochefort-en-Terre, Rohan, Saint-Jean-Brévelay, Sarzeau,
 Vannes-Centre, Vannes-Est et Vannes-Ouest.

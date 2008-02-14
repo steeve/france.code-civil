@@ -12,18 +12,16 @@ Cour d'appel de Rouen
 
 Eure
 
-Bernay
+Evreux
 
 
 Bernay
 
 Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay-Ouest, Beuzeville,
-Bourgtheroulde-Infreville, Brionne, Broglie, Cormeilles, Montfort-sur-Risle,
+Bourgtheroulde-Infreville, Brionne, Broglie, Corneilles, Montfort-sur-Risle,
 Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre et
 Thiberville.
 
-
-Evreux
 
 Evreux
 
@@ -36,7 +34,7 @@ Vernon-Nord et Vernon-Sud.
 
 Les Andelys
 
-Cantons d'Éros, Étrépagny, Fleury-sur-Andelle, Gisors, Les Andelys et
+Cantons d'Ecos, Etrépagny, Fleury-sur-Andelle, Gisors, Les Andelys et
 Lyons-la-Forêt.
 
 
@@ -71,7 +69,7 @@ Rouen
 Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec-en-Caux,
 Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville, Duclair, Elbeuf,
 Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme,
-Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen
+Mont-Saint-Aignan, Notre- Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen
 1er Canton, Rouen 2e Canton, Rouen 3e Canton, Rouen 4e Canton, Rouen 5e Canton,
 Rouen 6e Canton, Rouen 7e Canton, Saint-Étienne-du-Rouvray,
 Saint-Valery-en-Caux, Sotteville-lès-Rouen-Est, Sotteville-lès-Rouen-Ouest,

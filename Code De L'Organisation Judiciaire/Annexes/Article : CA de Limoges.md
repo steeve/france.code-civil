@@ -25,8 +25,6 @@ Larche, Lubersac, Malemort-sur-Corrèze, Meyssac et Vigeois.
 
 Tulle
 
-Tulle
-
 Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La
 Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac,
 Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord,
@@ -64,5 +62,5 @@ Limoges-Panazol, Limoges-Puy-las-Rodas, Limoges-Vigenal, Magnac-Laval,
 Mézières-sur-Issoire, Nantiat, Nexon, Nieul, Oradour-sur-Vayres,
 Pierre-Buffière, Rochechouart, Saint-Germain-les-Belles,
 Saint-Léonard-de-Noblat, Saint-Junien-Est, Saint-Junien-Ouest,
-Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Sulpice-les-Feuilles et
+Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint- Sulpice-les-Feuilles et
 Saint-Yrieix-la-Perche.

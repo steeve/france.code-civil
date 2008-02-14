@@ -135,7 +135,7 @@ Rambouillet
 
 Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de
 Jouars-Ponchartrain et Saint-Rémy-l'Honoré), Rambouillet et
-Saint-Arnoult-en-Yvelines.
+Saint-Amoult-en-Yvelines.
 
 
 Saint-Germain-en-Laye

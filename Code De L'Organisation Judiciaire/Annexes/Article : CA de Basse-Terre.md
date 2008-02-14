@@ -17,7 +17,7 @@ Basse-Terre
 
 Basse-Terre
 
-Cantons de Basse-Terre ter Canton, Basse-Terre 2e Canton, Bouillante,
+Cantons de Basse-Terre 1er Canton, Basse-Terre 2e Canton, Bouillante,
 Capesterre-Belle-Eau 1er Canton, Capesterre-Belle-Eau 2e Canton, Gourbeyre,
 Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire,
 Saint-Claude, Sainte-Rose 1er Canton, Sainte-Rose 2e Canton (uniquement la

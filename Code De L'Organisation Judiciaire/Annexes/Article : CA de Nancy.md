@@ -31,7 +31,7 @@ Gerbéviller, Lunéville-Nord et Lunéville-Sud.
 
 Nancy
 
-Cantons de Colombey-les-Belles, Dieulouard, Domèvre-en-Haye, Haroué,
+Cantons de Colombey-Ies-Belles, Dieulouard, Domèvre-en-Haye, Haroué,
 Jarville-la-Malgrange, Laxou, Malzéville, Nancy-Est, Nancy-Nord, Nancy-Ouest,
 Nancy-Sud, Neuves-Maisons, Nomeny, Pompey, Pont-à-Mousson, Saint-Max,
 Saint-Nicolas-de-Port, Seichamps, Thiaucourt-Regniéville, Tomblaine, Toul-Nord,
@@ -72,8 +72,6 @@ Châtenois, Coussey, Darney, Dompaire, Épinal-Est, Épinal-Ouest, Lamarche, Le
 Thillot, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Plombières-les-Bains,
 Rambervillers, Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny.
 
-
-Saint-Dié-des-Vosges
 
 Saint-Dié-des-Vosges
 

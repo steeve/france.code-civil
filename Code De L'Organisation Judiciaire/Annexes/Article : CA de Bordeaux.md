@@ -20,7 +20,7 @@ Angoulême
 Cantons d'Aigre, Angoulême-Est, Angoulême-Nord, Angoulême-Ouest,
 Blanzac-Porcheresse, Chabanais, Champagne-Mouton, Confolens-Nord, Confolens-Sud,
 Gond-Pontouvre, Hiersac, La Couronne, La Rochefoucauld, Mansle, Montbron,
-Monternboeuf, Rouillac, Ruelle-sur-Touvre, Ruffec, Saint-Amant-de-Boixe,
+Montemboeuf, Rouillac, Ruelle-sur-Touvre, Ruffec, Saint-Amant-de-Boixe,
 Saint-Claud, Soyaux, Villebois-Lavalette et Villefagnan.
 
 

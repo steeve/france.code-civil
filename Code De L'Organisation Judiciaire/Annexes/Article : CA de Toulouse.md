@@ -30,17 +30,15 @@ Saint-Girons et Saint-Lizier.
 
 Haute-Garonne
 
-Saint-Gaudens
+Toulouse
 
 
 Saint-Gaudens
 
 Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse,
-Cazères, Le Fousseret, L'lsle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens,
+Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens,
 Saint-Martory et Salies-du-Salat.
 
-
-Toulouse
 
 Muret
 

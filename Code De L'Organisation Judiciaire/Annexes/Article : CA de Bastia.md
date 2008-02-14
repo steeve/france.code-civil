@@ -19,7 +19,7 @@ Ajaccio
 
 Cantons d'Ajaccio 1er Canton, Ajaccio 2e Canton, Ajaccio 3e Canton, Ajaccio 4e
 Canton, Ajaccio 5e Canton, Ajaccio 6e Canton, Ajaccio 7e Canton, Bastelica,
-Bonifacio, Celavo- Mezzana, Cruzini-Cinarca, Figari, Les Deux-Sevi, Les
+Bonifacio, Celavo-Mezzana, Cruzini-Cinarca, Figari, Les Deux-Sevi, Les
 Deux-Sorru, Levie, Olmeto, Petreto-Bicchisano, Porto-Vecchio, Santa-Maria-Siché,
 Sartène, Tallano-Scopamène et Zicavo.
 

@@ -37,7 +37,7 @@ Longjumeau
 A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon,
 Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Longjumeau, Massy-Est,
 Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge,
-Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de
+Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes
 Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
 
 
@@ -94,7 +94,7 @@ Canton de Paris 10e canton.
 
 Paris 11e arrondissement
 
-Canton de Paris 11e canton.
+Canton de Paris 11 e canton.
 
 Paris 12e arrondissement
 
@@ -156,7 +156,7 @@ Noisiel, Thorigny-sur-Marne, Torcy et Vaires-sur-Marne.
 Meaux
 
 A l'exception de l'emprise de l'aérodrome de Roissy-Charles-de-Gaulle, cantons
-de Coulommiers, Crécy-Ia-Chapelle, Dammartin-en-Goële, La Ferté Gaucher, La
+de Coulommiers, Crécy-la-Chapelle, Dammartin-en-Goële, La Ferté Gaucher, La
 Ferté-sous-Jouarre, Lizy-sur-Ourcq, Meaux-Nord, Meaux-Sud, Rebais et
 Rozay-en-Brie.
 
@@ -215,14 +215,14 @@ Cantons de Bagnolet, Les Lilas, Pantin-Est et Pantin-Ouest.
 
 Saint-Denis
 
-Cantons de Pierrefitte-sur-Seine, Saint-Denis-Nord-Est, Saint-Denis-Nord-Ouest
+Cantons de Pierrefitte-sur-Seine, Saint-Denis-Nord-Est, Saint- Denis-Nord-Ouest
 et Saint-Denis-Sud (uniquement la fraction de la commune de Saint-Denis).
 
 
 Saint-Ouen
 
 Cantons d'Épinay-sur-Seine, Saint-Denis-Sud (uniquement la fraction de la
-commune de Saint-Ouen et la commune de L'lle-Saint-Denis) et Saint-Ouen.
+commune de Saint-Ouen et la commune de L'Ile-Saint-Denis) et Saint-Ouen.
 
 
 Val-de-Marne
@@ -233,7 +233,7 @@ Créteil
 Boissy-Saint-Léger
 
 A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons de
-Boissy-Saint-Léger, Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie,
+Boissy-Saint-Léger, Chennevières-sur-Marne, Onnesson-sur-Marne, Sucy-en-Brie,
 Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges et
 Villiers-sur-Marne.
 

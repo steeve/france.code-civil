@@ -75,7 +75,7 @@ Senlis.
 
 Somme
 
-Abbeville
+Amiens
 
 
 Abbeville
@@ -84,8 +84,6 @@ Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault,
 Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Moyenneville,
 Nouvion, Rue et Saint-Valery-sur-Somme.
 
-
-Amiens
 
 Amiens
 
@@ -99,7 +97,5 @@ Villers-Bocage.
 
 Péronne
 
-Péronne
-
-Cantons d'Albert, Bray-sur-Somme, Chaumes, Combles, Ham, Nesle, Péronne et
+Cantons d'Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et
 Roisel.

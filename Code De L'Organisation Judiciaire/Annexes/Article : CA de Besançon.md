@@ -19,7 +19,7 @@ Besançon
 
 Cantons d'Amancey, Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est,
 Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud,
-Boussières, Clerval, L'lsle-sur-le-Doubs, Marchaux, Ornans, Quingey, Rougemont
+Boussières, Clerval, L'Isle-sur-le-Doubs, Marchaux, Ornans, Quingey, Rougemont
 et Roulans.
 
 
@@ -45,13 +45,11 @@ Vesoul
 
 Vesoul
 
-Cantons d'Amante, Autrey-lès-Gray, Champlitte, Combeaufontaine,
+Cantons d'Amance, Autrey-lès-Gray, Champlitte, Combeaufontaine,
 Dampierre-sur-Salon, Fresne-Saint-Mamès, Gray, Gy, Jussey, Marnay, Montbozon,
 Noroy-le-Bourg, Pesmes, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin,
 Vesoul-Est, Vesoul-Ouest et Vitrey-sur-Mance.
 
-
-Lure
 
 Lure
 
@@ -62,7 +60,7 @@ Saint-Sauveur, Saulx, Vauvillers et Villersexel.
 
 Jura
 
-Dole
+Lons-le-Saunier
 
 
 Dole
@@ -72,8 +70,6 @@ Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey,
 Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et
 Villers-Farlay.
 
-
-Lons-le-Saunier
 
 Lons-le-Saunier
 

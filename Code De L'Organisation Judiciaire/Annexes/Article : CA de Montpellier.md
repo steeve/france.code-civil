@@ -34,7 +34,7 @@ Narbonne-Est, Narbonne-Ouest, Narbonne-Sud, Sigean et Tuchan.
 
 Aveyron
 
-Millau
+Rodez
 
 
 Millau
@@ -44,8 +44,6 @@ Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,
 Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et
 Vézins-de-Lévézou.
 
-
-Rodez
 
 Rodez
 

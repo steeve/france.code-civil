@@ -25,8 +25,6 @@ Rochelle 9e Canton, Marans et Saint-Martin-de-Ré.
 
 Rochefort
 
-Rochefort
-
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes,
 Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant,
 Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
@@ -49,7 +47,7 @@ Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne.
 
 Deux-Sèvres
 
-Bressuire
+Niort
 
 
 Bressuire
@@ -58,8 +56,6 @@ Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon,
 Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé,
 Saint-Varent, Secondigny, Thénezay, Thouars 1er Canton et Thouars 2e Canton.
 
-
-Niort
 
 Niort
 
@@ -94,7 +90,7 @@ Les Sables-d'Olonne
 
 Cantons de Beauvoir-sur-Mer, Challans, La Mothe-Achard, Les Sables-d'Olonne,
 L'Île-d'Yeu, Moutiers-les-Mauxfaits, Noirmoutier-en-l'Île, Palluau,
-Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts et Talmont-Saint-Hilaire.
+Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts et Talrnont-Saint-Hilaire.
 
 
 Vienne
@@ -112,7 +108,7 @@ Vouneuil-sur-Vienne.
 Poitiers
 
 Cantons d'Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay, La
-Trimouille, La Villedieu-du-Clain, Les Trois-Moutiers, L'lsle-Jourdain, Loudun,
+Trimouille, La Villedieu-du-Clain, Les Trois-Moutiers, L'Isle-Jourdain, Loudun,
 Lusignan, Lussac-les-Châteaux, Mirebeau, Moncontour, Montmorillon,
 Monts-sur-Guesnes, Neuville-de-Poitou, Poitiers 1er Canton, Poitiers 2e Canton,
 Poitiers 3e Canton, Poitiers 4e Canton, Poitiers 5e Canton, Poitiers 6e Canton,

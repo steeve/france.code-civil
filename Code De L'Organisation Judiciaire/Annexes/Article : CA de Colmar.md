@@ -18,7 +18,7 @@ Strasbourg
 Haguenau
 
 Cantons de Bischwiller, Brumath, Haguenau, Hochfelden, Lauterbourg,
-Niederbronn-Ies-Bains, Seltz, Soultz-sous-Forêts, Truchtersheim, Wissembourg et
+Niederbronn-les-Bains, Seltz, Soultz-sous-Forêts, Truchtersheim, Wissembourg et
 Woerth.
 
 
@@ -59,7 +59,7 @@ Colmar
 
 Sélestat
 
-Cantons de Barr, Marckolsheim, Sainte-Marie-aux-Mines, Sélestat, Villé et
+Cantons de Barr, Marckolsheim, Sainte-Marie-aux-Mines, Sélestat, Ville et
 Ribeauvillé.
 
 

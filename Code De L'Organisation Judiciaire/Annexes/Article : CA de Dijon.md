@@ -29,7 +29,7 @@ Semur-en-Auxois, Venarey-les-Laumes et Vitteaux.
 
 Dijon
 
-Cantons d'Auxonne, Chenôve, Dijon 1er Canton, Dijon 2e Canton, Dijon 3e Canton,
+Cantons d'Auxonne, Chenôve, Dijon 1er Canton, Dijon 2 e Canton, Dijon 3e Canton,
 Dijon 4e Canton, Dijon 5e Canton, Dijon 6e Canton, Dijon 7e Canton, Dijon 8e
 Canton, Fontaine-Française, Fontaine-lès-Dijon, Genlis, Gevrey-Chambertin,
 Grancey-le-Château-Neuvelle, Is-sur-Tille, Mirebeau-sur-Bèze,

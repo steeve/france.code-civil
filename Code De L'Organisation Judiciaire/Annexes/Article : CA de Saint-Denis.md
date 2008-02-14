@@ -27,7 +27,7 @@ Saint-Denis
 Cantons de Saint-Denis 1er Canton, Saint-Denis 2e Canton, Saint-Denis 3e Canton,
 Saint-Denis 4e Canton, Saint-Denis 5e Canton, Saint-Denis 6e Canton, Saint-Denis
 7e Canton, Saint-Denis 8e Canton, Saint-Denis 9e Canton, Sainte-Marie et
-Sainte-Suzanne ; Îles Éparses (îles Bassas-da-India, Europa, Glorieuses,
+Sainte-Suzanne ; Îles Eparses (îles Bassas-da-India, Europa, Glorieuses,
 Juan-de-Nova et Tromelin) et territoire des Terres australes et antarctiques
 françaises (îles Amsterdam et Saint-Paul, archipels Crozet et Kerguelen, et
 Terre-Adélie).
@@ -49,4 +49,4 @@ Canton, Le Tampon 4e Canton, Les Avirons, Les Trois-Bassins, L'Étang-Salé,
 Petite-Île, Saint-Joseph 1er Canton, Saint-Joseph 2e Canton, Saint-Leu 1er
 Canton, Saint-Leu 2e Canton, Saint-Louis 1er Canton, Saint-Louis 2e Canton,
 Saint-Louis 3e Canton, Saint-Philippe, Saint-Pierre 1er Canton, Saint-Pierre 2e
-Canton, Saint-Pierre 3e Canton et Saint- Pierre 4e Canton.
+Canton, Saint-Pierre 3e Canton et Saint-Pierre 4e Canton.

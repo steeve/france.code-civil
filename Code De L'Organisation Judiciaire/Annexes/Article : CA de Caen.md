@@ -20,7 +20,7 @@ Caen
 Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen
 1er Canton, Caen 2e Canton, Caen 3e Canton, Caen 4e Canton, Caen 7e Canton, Caen
 8e Canton, Caen 9e Canton, Caen 10e Canton, Caen-Hérouville Caen 6e Canton,
-Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord,
+Caumont- l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord,
 Falaise-Sud, Hérouville-Saint-Clair Caen 5e Canton, Isigny-sur-Mer,
 Morteaux-Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn,
 Thury-Harcourt et Villers-Bocage.
@@ -43,7 +43,7 @@ Pont-l'Évêque, Saint-Pierre-sur-Dives et Trouville-sur-Mer.
 
 Manche
 
-Avranches
+Coutances
 
 
 Avranches
@@ -52,6 +52,15 @@ Cantons d'Avranches, Barenton, Brécey, Ducey, Granville, Isigny-le-Buat,
 Juvigny-le-Tertre, La Haye-Pesnel, Le Teilleul, Mortain, Pontorson,
 Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartilly, Sourdeval et
 Villedieu-les-Poêles.
+
+
+Coutances
+
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La
+Haye-du-Puits, Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers,
+Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest,
+Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et
+Torigni-sur-Vire.
 
 
 Cherbourg-Octeville
@@ -63,17 +72,6 @@ Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est,
 Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux,
 Montebourg, Quettehou, Sainte-Mère-Église, Saint-Pierre-Église,
 Saint-Sauveur-le-Vicomte, Tourlaville et Valognes.
-
-
-Coutances
-
-Coutances
-
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La
-Haye-du-Puits, Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers,
-Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest,
-Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et
-Torigni-sur-Vire.
 
 
 Orne
@@ -99,5 +97,5 @@ Ferté-Frênel, Le Merlerault, Mortrée, Putanges-Pont-Écrepin, Trun et Vimouti
 
 Flers
 
-Cantons d'Athis-de-l'Orne, Domfront, Fiers-Nord, Flers-Sud,
+Cantons d'Athis-de-l'Orne, Domfront, Flers-Nord, Flers-Sud,
 Juvigny-sous-Andaine, La Ferté-Macé, Messei, Passais et Tinchebray.

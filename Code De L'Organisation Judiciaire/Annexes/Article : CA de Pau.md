@@ -44,7 +44,7 @@ Mont-de-Marsan
 Mont-de-Marsan
 
 Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour,
-Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau, Labrit, Mimizan,
+Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau, abrit, Mimizan,
 Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos,
 Roquefort, Sabres, Saint-Sever, Sore et Villeneuve-de-Marsan.
 
@@ -57,9 +57,9 @@ Bayonne
 Bayonne
 
 Cantons d'Anglet-Nord, Anglet-Sud, Bayonne-Est, Bayonne-Nord, Bayonne-Ouest,
-Biarritz-Est, Biarritz-Ouest, Bidache, Espelette, Hasparren, Hendaye, Iholdy, La
-Bastide-Clairence, Saint-Étienne-de-Baïgorry, Saint-Jean-de-Luz,
-Saint-Jean-Pied-de-Port, Saint-Palais, Saint-Pierre-d'lrube et Ustaritz.
+Biarritz-Est, Biarritz-Ouest, Bidache, Espelette, Hasparren, Hendaye, lholdy, La
+Bastide-Clairence, Saint- Étienne-de-Baïgorry, Saint-Jean-de-Luz,
+Saint-Jean-Pied-de-Port, Saint-Palais, Saint-Pierre-d'Irube et Ustaritz.
 
 
 Pau
@@ -72,7 +72,7 @@ Oloron-Sainte-Marie-Est, Oloron-Sainte-Marie-Ouest et Tardets-Sorholus.
 
 Pau
 
-Cantons d'Arthez-de-Béarn, Arzacq-Arraziguet, Billère, Garlin, Jurançon, Lagor,
+Cantons d'Arthez-de-Béarn, Arzacq-Arraziguet, Billère, Carlin, Jurançon, Lagor,
 Lembeye, Lescar, Montaner, Morlaàs, Navarrenx, Nay-Est, Nay-Ouest, Orthez,
 Pau-Centre, Pau-Est, Pau-Nord, Pau-Ouest, Pau-Sud, Pontacq, Salies-de-Béarn,
 Sauveterre-de-Béarn et Thèze.

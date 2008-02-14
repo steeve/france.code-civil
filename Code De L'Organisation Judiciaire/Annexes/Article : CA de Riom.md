@@ -17,9 +17,15 @@ Cusset
 
 Vichy
 
-Cantons de Chantelle, Cusset-Nord, Cusset-Sud, Ebreuil, Escurolles, Gannat,
+Cantons de Chantelle, Cusset-Nord, Cusset-Sud, Ébreuil, Escurolles, Gannat,
 Jaligny-sur-Besbre, Lapalisse, Le Donjon, Le Mayet-de-Montagne,
 Saint-Pourçain-sur-Sioule, Varennes-sur-Allier, Vichy-Nord et Vichy-Sud.
+
+
+Moulins
+
+Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet,
+Lurcy-Lévis, Moulins-Ouest, Moulins-Sud, Neuilly-le-Réal, Souvigny et Yzeure.
 
 
 Montluçon
@@ -28,15 +34,7 @@ Montluçon
 
 Cantons de Cérilly, Commentry, Domérat-Montluçon-Nord-Ouest, Hérisson, Huriel,
 Marcillat-en-Combraille, Montluçon-Est 4e Canton, Montluçon-Nord-Est 1er Canton,
-Montluçon-Ouest 2e Canton, Montluçon-Sud 3e Canton et Montrnarault.
-
-
-Moulins
-
-Moulins
-
-Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet,
-Lurcy-Lévis, Moulins-Ouest, Moulins-Sud, Neuilly-le-Réal, Souvigny et Yzeure.
+Montluçon-Ouest 2e Canton, Montluçon-Sud 3e Canton et Montmarault.
 
 
 Cantal
@@ -89,19 +87,18 @@ Clermont-Ferrand-Ouest, Clermont-Ferrand-Sud, Clermont-Ferrand-Sud-Est,
 Clermont-Ferrand-Sud-Ouest, Cournon-d'Auvergne, Gerzat, Herment, Issoire,
 Jumeaux, La Tour-d'Auvergne, Montferrand, Pont-du-Château, Rochefort-Montagne,
 Royat, Saint-Amant-Tallende, Saint-Dier-d'Auvergne, Saint-Germain-Lembron,
-Sauxillanges, Tauves, Vertaizon, Veyre-Monton et Vie-le-Comte.
+Sauxillanges, Tauves, Vertaizon, Veyre-Monton et Vic-le-Comte.
 
 
 Thiers
 
 Cantons d'Ambert, Arlanc, Châteldon, Courpière, Cunlhat, Lezoux, Maringues,
-Olliergues, Saint-Amant-Roche-Savine, Saint-Anthème, Saint-Gernain-l'Herm,
+Olliergues, Saint-Amant-Roche-Savine, Saint-Anthème, Saint-Germain-l'Herm,
 Saint-Rémy-sur-Durolle, Thiers et Viverols.
 
 
 Riom
 
-Riom
-
 Cantons d'Aigueperse, Combronde, Ennezat, Manzat, Menat, Montaigut, Pionsat,
-Pontaumur, Pontgibaud, Randan, Riom-Est, Riom-Ouest et Saint-Gervais-d'Auvergne.
+Pontaulnur, Pontgibaud, Randan, Riom-Est, Riom-Ouest et
+Saint-Gervais-d'Auvergne.
