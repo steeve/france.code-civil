@@ -86,6 +86,8 @@ Cannes
 
 Ressort du tribunal d'instance de Cannes
 
+Cour d'appel d'Agen
+
 
 Bouches-du-Rhône
 
@@ -171,22 +173,17 @@ Beauvais
 
 Ressort du tribunal de grande instance de Beauvais
 
-Compiègne
+Compiègne Senlis
 
-
-Senlis
 
 Compiègne
-
 
 Ressort des tribunaux de grande instance de Compiègne et de Senlis
 
+
 Somme
 
-
-Amiens
-
-Abbeville
+Amiens Abbeville
 
 
 Péronne
@@ -200,10 +197,8 @@ Cour d'appel d'Angers
 
 Maine-et-Loire
 
-Angers
+Angers Saumur
 
-
-Saumur
 
 Angers
 
@@ -266,43 +261,32 @@ Ressort du tribunal de grande instance de Besançon
 
 Jura
 
-Lons-le-Saunier
+Lons-le-Saunier Dole
 
-
-Dole
 
 Lons-le-Saunier
-
 
 Ressort des tribunaux de grande instance de Lons-le-Saunier et de Dole
 
+
 Haute-Saône
 
-
-Vesoul
-
-Lure
+Vesoul Lure
 
 
 Vesoul
 
 Ressort des tribunaux de grande instance de Vesoul et de Lure
 
-
-Territoire de Belfort
-
-et
+Territoire de Belfort et
 
 
 Doubs
 
-Belfort
+Belfort Montbéliard
 
-
-Montbéliard
 
 Belfort
-
 
 Ressort des tribunaux de grande instance de Belfort et de Montbéliard
 
@@ -343,15 +327,16 @@ Bordeaux
 
 Bordeaux
 
-Ressort du tribunal de grande instance de Bordeaux, à l'exception du ressort du
-tribunal d'instance de Blaye
+Ressort du tribunal de grande instance de Bordeaux, à l'exception des cantons de
+Blaye, Bourg, Saint-Ciers-sur-Gironde et Saint-Savin
 
 
 Libourne
 
 Libourne
 
-Ressort des tribunaux d'instance de Libourne et de Blaye
+Ressort du tribunal d'instance de Libourne et cantons de Blaye, Bourg,
+Saint-Ciers-sur-Gironde et Saint-Savin
 
 Cour d'appel de Bourges
 
@@ -407,10 +392,7 @@ Ressort du tribunal de grande instance de Lisieux
 
 Manche
 
-
-Avranches
-
-Coutances
+Avranches Coutances
 
 
 Coutances
@@ -427,10 +409,7 @@ Ressort du tribunal de grande instance de Cherbourg-Octeville
 
 Orne
 
-
-Alençon
-
-Argentan
+Alençon Argentan
 
 
 Alençon
@@ -442,10 +421,8 @@ Cour d'appel de Chambéry
 
 Savoie
 
-Chambéry
+Chambéry Albertville
 
-
-Albertville
 
 Chambéry
 
@@ -454,10 +431,8 @@ Ressort des tribunaux de grande instance de Chambéry et d'Albertville
 
 Haute-Savoie
 
-Annecy
+Annecy Bonneville
 
-
-Bonneville
 
 Annecy
 
@@ -553,8 +528,8 @@ Douai
 
 Ressort des tribunaux de grande instance de Douai et de Cambrai
 
-
 Dunkerque Hazebrouck
+
 
 Dunkerque
 
@@ -572,10 +547,7 @@ Roubaix-Tourcoing
 
 Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy
 
-
-Valenciennes
-
-Avesnes-sur-Helpe
+Valenciennes Avesnes-sur-Helpe
 
 
 Valenciennes
@@ -592,10 +564,7 @@ Arras
 
 Ressort des tribunaux de grande instance d'Arras et de Béthune
 
-
-Boulogne-sur-Mer
-
-Saint-Omer
+Boulogne-sur-Mer Saint-Omer
 
 
 Boulogne-sur-Mer
@@ -634,10 +603,7 @@ Grenoble
 
 Ressort du tribunal de grande instance de Grenoble
 
-
-Vienne
-
-Bourgoin-Jallieu
+Vienne Bourgoin-Jallieu
 
 
 Vienne
@@ -649,33 +615,30 @@ Cour d'appel de Limoges
 
 Corrèze
 
+Brive-la-Gaillarde Tulle
+
+
 Brive-la-Gaillarde
 
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle
 
-Tulle
-
-Brive-la-Gaillarde
-
-
-Ressort des tribunaux de grande instance de Brive­la-Gaillarde et de Tulle
 
 Creuse
 
-
 Guéret
 
-Guéret
 
+Guéret
 
 Ressort du tribunal de grande instance de Guéret
 
+
 Haute-Vienne
 
-
 Limoges
 
-Limoges
 
+Limoges
 
 Ressort du tribunal de grande instance de Limoges
 
@@ -684,50 +647,45 @@ Cour d'appel de Lyon
 
 Ain
 
-Bourg-en-Bresse
+Bourg-en-Bresse Belley
 
-
-Belley
 
 Bourg-en-Bresse
-
 
 Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley
 
+
 Loire
 
-
 Roanne
 
-Roanne
 
+Roanne
 
 Ressort du tribunal de grande instance de Roanne
 
-Saint-Etienne
+Saint-Etienne Montbrison
 
-
-Montbrison
 
 Saint-Etienne
-
 
 Ressort des tribunaux de grande instance de Saint-Etienne et de Montbrison
 
+
 Rhône
 
-
 Lyon
 
-Lyon
 
+Lyon
 
 Ressort du tribunal de grande instance de Lyon
 
-Villefranche-sur-Saône
-
 
 Villefranche-sur-Saône
+
+Villefranche-sur-Saône
+
 
 Ressort du tribunal de grande instance de Villefranche-sur-Saône
 
@@ -776,38 +734,38 @@ Ressort du tribunal de grande instance de Narbonne
 
 Aveyron
 
-
 Rodez Millau
+
 
 Rodez
 
-
 Ressort des tribunaux de grande instance de Rodez et de Millau
+
 
 Hérault
 
-
 Béziers
 
-Béziers
 
+Béziers
 
 Ressort du tribunal de grande instance de Béziers
 
-Montpellier
-
 
 Montpellier
+
+Montpellier
+
 
 Ressort du tribunal de grande instance de Montpellier
 
-
 Pyrénées-Orientales
 
-Perpignan
-
 
 Perpignan
+
+Perpignan
+
 
 Ressort du tribunal de grande instance de Perpignan
 
@@ -833,10 +791,7 @@ Ressort du tribunal de grande instance de Nancy
 
 Meuse
 
-
-Bar-le-Duc
-
-Verdun
+Bar-le-Duc Verdun
 
 
 Bar-le-Duc
@@ -846,10 +801,8 @@ Ressort des tribunaux de grande instance de Bar-le-Duc et de Verdun
 
 Vosges
 
-Epinal
+Epinal Saint-Dié-des-Vosges
 
-
-Saint-Dié-des-Vosges
 
 Epinal
 
@@ -870,10 +823,8 @@ Ressort du tribunal de grande instance de Privas
 
 Gard
 
-Nîmes
+Nîmes Alès
 
-
-Alès
 
 Nîmes
 
@@ -892,10 +843,8 @@ Ressort du tribunal de grande instance de Mende
 
 Vaucluse
 
-Avignon
+Avignon Carpentras
 
-
-Carpentras
 
 Avignon
 
@@ -926,10 +875,8 @@ Ressort du tribunal de grande instance de Blois
 
 Loiret
 
-Orléans
+Orléans Montargis
 
-
-Montargis
 
 Orléans
 
@@ -960,48 +907,45 @@ Ressort du tribunal de grande instance d'Evry
 
 Seine-et-Marne
 
-Melun
+Melun Fontainebleau
 
-
-Fontainebleau
 
 Melun
-
 
 Ressort des tribunaux de grande instance de Melun et de Fontainebleau
 
-Meaux
-
 
 Meaux
+
+Meaux
+
 
 Ressort du tribunal de grande instance de Meaux
 
-
 Seine-Saint-Denis
 
-Bobigny
-
 
 Bobigny
+
+Bobigny
+
 
 Ressort du tribunal de grande instance de Bobigny
 
-
 Val-de-Marne
 
-Créteil
-
 
 Créteil
+
+Créteil
+
 
 Ressort du tribunal de grande instance de Créteil
 
-
 Yonne
 
-Auxerre
 
+Auxerre
 
 Auxerre
 
@@ -1067,23 +1011,20 @@ Cour d'appel de Poitiers
 
 Charente-Maritime
 
-La Rochelle
+La Rochelle Rochefort
 
-
-Rochefort
 
 La Rochelle
-
 
 Ressort des tribunaux de grande instance de La Rochelle et de Rochefort
 
-Saintes
-
 
 Saintes
+
+Saintes
+
 
 Ressort du tribunal de grande instance de Saintes
-
 
 Deux-Sèvres
 
@@ -1097,9 +1038,7 @@ Ressort des tribunaux de grande instance de Niort et de Bressuire
 
 Vendée
 
-La Roche-sur-Yon
-
-Les Sables-d'Olonne
+La Roche-sur-Yon Les Sables-d'Olonne
 
 
 La Roche-sur-Yon
@@ -1147,24 +1086,22 @@ Châlons-en-Champagne
 
 Châlons-en-Champagne
 
-Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François
+Ressort du tribunal d'instance de Châlons-en-Champagne
 
 
 Reims
 
 Reims
 
-Ressort du tribunal de grande instance de Reims et du tribunal d'instance
-d'Epernay
+Ressort du tribunal de grande instance de Reims et cantons d' Anglure, Avize,
+Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise,
+Montmirail, Montmort-Lucy et Sézanne
 
 Cour d'appel de Rennes
 
 Côtes-d'Armor
 
-
-Saint-Brieuc
-
-Guingamp
+Saint-Brieuc Guingamp
 
 
 Saint-Brieuc
@@ -1174,24 +1111,22 @@ Ressort des tribunaux de grande instance de Saint-Brieuc et de Guingamp
 
 Finistère
 
-Brest
+Brest Morlaix
 
-
-Morlaix
 
 Brest
-
 
 Ressort des tribunaux de grande instance de Brest et de Morlaix
 
-Quimper
-
 
 Quimper
+
+Quimper
+
 
 Ressort du tribunal de grande instance de Quimper
 
-Ille-et-Vilaine et Côtes-d'Armor
+Ille-et-Vilaine
 
 
 Rennes
@@ -1201,48 +1136,47 @@ Rennes
 
 Ressort du tribunal de grande instance de Rennes
 
+et Côtes-d'Armor
+
+Saint-Malo Dinan
+
+
 Saint-Malo
-
-
-Dinan
-
-Saint-Malo
-
 
 Ressort des tribunaux de grande instance de Saint-Malo et de Dinan
 
+
 Loire-Atlantique
 
-
 Nantes
 
-Nantes
 
+Nantes
 
 Ressort du tribunal de grande instance de Nantes
 
-Saint-Nazaire
-
 
 Saint-Nazaire
+
+Saint-Nazaire
+
 
 Ressort du tribunal de grande instance de Saint-Nazaire
 
-
 Morbihan
 
-Lorient
-
 
 Lorient
+
+Lorient
+
 
 Ressort du tribunal de grande instance de Lorient
 
-
 Vannes
 
-Vannes
 
+Vannes
 
 Ressort du tribunal de grande instance de Vannes
 
@@ -1251,28 +1185,25 @@ Cour d'appel de Riom
 
 Allier
 
-Cusset
+Cusset Moulins
 
-
-Moulins
 
 Cusset
-
 
 Ressort des tribunaux de grande instance de Cusset et de Moulins
 
-Montluçon
-
 
 Montluçon
+
+Montluçon
+
 
 Ressort du tribunal de grande instance de Montluçon
 
-
 Cantal
 
-Aurillac
 
+Aurillac
 
 Aurillac
 
@@ -1291,13 +1222,10 @@ Ressort du tribunal de grande instance du Puy-en-Velay
 
 Puy-de-Dôme
 
-Clermont-Ferrand
+Clermont-Ferrand Riom
 
-
-Riom
 
 Clermont-Ferrand
-
 
 Ressort des tribunaux de grande instance de Clermont-Ferrand et de Riom
 
@@ -1360,20 +1288,18 @@ Ressort du tribunal de grande instance de Foix
 
 Haute-Garonne
 
-Toulouse
+Toulouse Saint-Gaudens
 
-
-Saint-Gaudens
 
 Toulouse
-
 
 Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
 
+
 Tarn
 
-
 Albi
+
 
 Albi
 
