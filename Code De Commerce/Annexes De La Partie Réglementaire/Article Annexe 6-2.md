@@ -1,8 +1,8 @@
 Article Annexe 6-2
 ----
-JURIDICTIONS COMPÉTENTES PAR DÉPARTEMENT EN MÉTROPOLE POUR CONNAÎTRE, EN
-APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX PERSONNES QUI
-NE SONT NI COMMERÇANTS NI ARTISANS
+Juridictions compétentes par département en métropole pour connaître, en
+application de l'article L. 610-1, des procédures applicables aux personnes qui
+ne sont ni commerçants ni artisans
 
 
 DÉPARTEMENT
@@ -12,897 +12,995 @@ JURIDICTION
 
 RESSORT
 
-Ain.
+Ain
 
-TGI de Belley.
 
-Ressort du TGI.
+TGI de Bourg-en-Bresse
 
-TGI de Bourg-en-Bresse.
+Le département
 
-Ressort du TGI.
 
-Aisne.
+Aisne
 
-TGI de Laon.
+TGI de Laon
 
-Ressort du TGI.
 
-TGI de Saint Quentin.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Saint-Quentin
 
-TGI de Soissons.
 
-Ressort du TGI.
+Ressort du TGI
 
-Allier.
+TGI de Soissons
 
-TGI de Cusset.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Montluçon.
+Allier
 
-Ressort du TGI.
 
-TGI de Moulins.
+TGI de Cusset
 
-Ressort du TGI.
+Ressort du TGI
 
-Alpes-de-Haute-Provence.
 
-TGI de Digne.
+TGI de Montluçon
 
-Le département.
+Ressort du TGI
+
+
+Alpes-de-Haute-Provence
+
+TGI de Digne-les-Bains
+
+
+Le département
 
 Alpes (Hautes-)
 
-TGI de Gap.
 
-Le département.
+TGI de Gap
 
-Alpes-Maritimes.
+Le département
 
-TGI de Grasse.
 
-Ressort du TGI.
+Alpes-Maritimes
 
-TGI de Nice.
+TGI de Grasse
 
-Ressort du TGI.
 
-Ardèche.
+Ressort du TGI
 
-TGI de Privas.
+TGI de Nice
 
-Le département.
 
-Ardennes.
+Ressort du TGI
 
-TGI de Charleville-Mézières.
+Ardèche
 
-Le département.
 
-Ariège.
+TGI de Privas
 
-TGI de Foix.
+Le département
 
-Le département.
 
-Aube.
+Ardennes
 
-TGI de Troyes.
+TGI de Charleville-Mézières
 
-Le département.
 
-Aude.
+Le département
 
-TGI de Carcassonne.
+Ariège
 
-Ressort du TGI.
 
-TGI de Narbonne.
+TGI de Foix
 
-Ressort du TGI.
+Le département
 
-Aveyron.
 
-TGI de Milliau.
+Aube
 
-Ressort du TGI.
+TGI de Troyes
 
-TGI de Rodez.
 
-Ressort du TGI.
+Le département
 
-Bouches-du-Rhône.
+Aude
 
-TGI d'Aix-en-Provence.
 
-Ressort du TGI.
+TGI de Carcassonne
 
-TGI de Marseille.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI de Tarascon.
+TGI de Narbonne
 
-Ressort du TGI.
+Ressort du TGI
 
-Calvados.
 
-TGI de Caen.
+Aveyron
 
-Ressort du TGI.
+TGI de Rodez
 
-TGI de Lisieux.
 
-Ressort du TGI.
+Le département
 
-Cantal.
+Bouches-du-Rhône
 
-TGI d'Aurillac.
+TGI d'Aix-en-Provence
 
-Le département.
 
-Charente.
+Ressort du TGI
 
-TGI d'Angoulème.
+TGI de Marseille
 
-Le département.
 
-Charente-Maritime.
+Ressort du TGI
 
-TGI de La Rochelle.
+TGI de Tarascon
 
-Ressort du TGI.
 
-TGI de Rochefort.
+Ressort du TGI
 
-Ressort du TGI.
+Calvados
 
-TGI de Saintes.
 
-Ressort du TGI.
+TGI de Caen
 
-Cher.
+Ressort du TGI
 
-TGI de Bourges.
 
-Le département.
+TGI de Lisieux
 
-Corrèze.
+Ressort du TGI
 
-TGI de Brive.
 
-Ressort du TGI.
+Cantal
 
-TGI de Tulle.
+TGI d'Aurillac
 
-Ressort du TGI.
 
-Corse-du-Sud.
+Le département
 
-TGI d'Ajaccio.
+Charente
 
-Le département.
+TGI d'Angoulême
 
-Corse (Haute).
 
-TGI de Bastia.
+Le département
 
-Le département.
+Charente-Maritime
 
-Côte-d'Or.
 
-TGI de Dijon.
+TGI de la Rochelle
 
-Le département.
+Ressort du TGI
 
-Côtes-d'Armor.
 
-TGI de Dinan.
+TGI de Saintes
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Guingamp.
 
-Ressort du TGI.
+Cher
 
-TGI de Saint-Brieuc.
+TGI de Bourges
 
-Ressort du TGI.
 
-Creuse.
+Le département
 
-TGI de Guéret.
+Corrèze
 
-Le département.
 
-Dordogne.
+TGI de Brive-la-Gaillarde
 
-TGI de Bergerac.
+Le département
 
-Ressort du TGI.
 
-TGI de Périgueux.
+Corse-du-Sud
 
-Ressort du TGI.
+TGI d'Ajaccio
 
-Doubs.
 
-TGI de Besançon.
+Le département
 
-Ressort du TGI.
+Corse (Haute-)
 
-TGI de Montbéliard.
 
-Ressort du TGI.
+TGI de Bastia
 
-Drôme.
+Le département
 
-TGI de Valence.
+Côte-d'Or
 
-Le département.
 
-Essonne.
+TGI de Dijon
 
-TGI d'Evry.
+Le département
 
-Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly.
+Côtes-d'Armor
 
-Eure.
 
-TGI de Bernay.
+TGI de Saint-Brieuc
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI d'Evreux.
 
-Ressort du TGI.
+Creuse
 
-Eure-et-Loir.
+TGI de Guéret
 
-TGI de Chartres.
 
-Le département.
+Le département
 
-Finistère.
+Dordogne
 
-TGI de Brest.
 
-Ressort du TGI.
+TGI de Bergerac
 
-TGI de Morlaix.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI de Quimper.
+TGI de Périgueux
 
-Ressort du TGI.
+Ressort du TGI
 
-Gard.
 
-TGI d'Alès.
+Doubs
 
-Ressort du TGI.
+TGI de Besançon
 
-TGI de Nîmes.
 
-Ressort du TGI.
+Ressort du TGI
 
-Garonne (Haute-).
+TGI de Montbéliard
 
-TGI de Saint-Gaudens.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Toulouse.
+Drôme
 
-Ressort du TGI.
 
-Gers.
+TGI de Valence
 
-TGI d'Auch.
+Le département
 
-Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour.
 
-Gironde.
+Essonne
 
-TGI de Bordeaux.
+TGI d'Evry
 
-Ressort du TGI.
+Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly
 
-TGI de Libourne.
 
-Ressort du TGI.
+Eure
 
-Hérault.
+TGI d'Evreux
 
-TGI de Béziers.
 
-Ressort du TGI.
+Le département
 
-TGI de Montpellier.
+Eure-et-Loir
 
-Ressort du TGI.
 
-Ille-et-Vilaine.
+TGI de Chartres
 
-TGI de Rennes.
+Le département
 
-Ressort du TGI.
 
-TGI de Saint-Malo.
+Finistère
 
-Ressort du TGI.
+TGI de Brest
 
-Indre.
 
-TGI de Châteauroux.
+Ressort du TGI
 
-Le département.
+TGI de Quimper
 
-Indre-et-Loire.
 
-TGI de Tours.
+Ressort du TGI
 
-Le département.
+Gard
 
-Isère.
+TGI d'Alès
 
-TGI de Bourgoin-Jallieu.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Grenoble.
+TGI de Nîmes
 
-Ressort du TGI.
 
-TGI de Vienne.
+Ressort du TGI
 
-Ressort du TGI.
+Garonne (Haute-)
 
-Jura.
 
-TGI de Dole.
+TGI de Toulouse
 
-Ressort du TGI.
+Le département
 
-TGI de Lons-le-Saunier.
 
-Ressort du TGI.
+Gers
 
-Landes.
+TGI d'Auch
 
-TGI de Dax.
+Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour
 
-Ressort du TGI.
 
-TGI de Mont-de-Marsan.
+Gironde
 
-Ressort du TGI et l'emprise de l'aérodrome de l'Aire-sur-l'Adour.
+TGI de Bordeaux
 
-Loir-et-Cher.
 
-TGI de Blois.
+Ressort du TGI
 
-Le département.
+TGI de Libourne
 
-Loire.
 
-TGI de Montbrison.
+Ressort du TGI
 
-Ressort du TGI.
+Hérault
 
-TGI de Rouanne.
 
-Ressort du TGI.
+TGI de Béziers
 
-TGI de Saint-Etienne.
+Ressort du TGI
 
-Ressort du TGI.
 
-Loire (Haute-).
+TGI de Montpellier
 
-TGI du Puy-en-Velay.
+Ressort du TGI
 
-Le département.
 
-Loire-Atlantique.
+Ille-et-Vilaine
 
-TGI de Nantes.
+TGI de Rennes
 
-Ressort du TGI.
 
-TGI de Saint-Nazaire.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Saint-Malo
 
-Loiret.
 
-TGI de Montargis.
+Ressort du TGI
 
-Ressort du TGI.
+Indre
 
-TGI d'Orléans.
 
-Ressort du TGI.
+TGI de Châteauroux
 
-Lot.
+Le département
 
-TGI de Cahors.
 
-Le département.
+Indre-et-Loire
 
-Lot-et-Garonne.
+TGI de Tours
 
-TGI d'Agen.
 
-Ressort du TGI.
+Le département
 
-TGI de Marmande.
+Isère
 
-Ressort du TGI.
 
-Lozère.
+TGI de Grenoble
 
-TGI de Mende.
+Ressort du TGI
 
-Le département.
 
-Maine-et-Loire.
+TGI de Vienne
 
-TGI d'Angers.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI de Saumur.
+Jura
 
-Ressort du TGI.
+TGI de Lons-le-Saunier
 
-Manche.
 
-TGI d'Avranches.
+Le département
 
-Ressort du TGI.
+Landes
 
-TGI de Cherbourg.
 
-Ressort du TGI.
+TGI de Dax
 
-TGI de Coutances.
+Ressort du TGI
 
-Ressort du TGI.
 
-Marne.
+TGI de Mont-de-Marsan
 
-TGI de Châlons-en-Champagne.
+Ressort du TGI, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour
 
-Ressort du TGI.
 
-TGI de Reims.
+Loir-et-Cher
 
-Ressort du TGI.
+TGI de Blois
 
-Marne (Haute-).
 
-TGI de Chaumont.
+Le département
 
-Le département.
+Loire
 
-Mayenne.
 
-TGI de Laval.
+TGI de Roanne
 
-Le département.
+Ressort du TGI
 
-Meurthe-et-Moselle.
 
-TGI de Briey.
+TGI de Saint-Etienne
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Nancy.
+Loire (Haute-)
 
-Ressort du TGI.
 
-Meuse.
+TGI du Puy-en-Velay
 
-TGI de Bar-le-Duc.
+Le département
 
-Ressort du TGI.
 
-TGI de Verdun.
+Loire-Atlantique
 
-Ressort du TGI.
+TGI de Nantes
 
-Morbihan.
 
-TGI de Lorient.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Saint-Nazaire
 
-TGI de Vannes.
 
-Ressort du TGI.
+Ressort du TGI
 
-Moselle.
+Loiret
 
-TGI de Metz.
 
-Ressort du TGI.
+TGI de Montargis
 
-TGI de Sarreguemines.
+Ressort du TGI
 
-Ressort du TGI.
+TGI d'Orléans
 
-TGI de Thionville.
 
-Ressort du TGI.
+Ressort du TGI
 
-Nièvre.
+Lot
 
-TGI de Nevers.
 
-Le département.
+TGI de Cahors
 
-Nord.
+Le département
 
-TGI d'Avesnes.
 
-Ressort du TGI.
+Lot-et-Garonne
 
-TGI de Cambrai.
+TGI d'Agen
 
-Ressort du TGI.
 
-TGI de Douai.
+Le département
 
-Ressort du TGI.
+Lozère
 
-TGI de Dunkerque.
 
-Ressort du TGI.
+TGI de Mende
 
-TGI d'Hazebrouck.
+Le département
 
-Ressort du TGI.
 
-TGI de Lille.
+Maine-et-Loire
 
-Ressort du TGI.
+TGI d'Angers
 
-TGI de Valenciennes.
 
-Ressort du TGI.
+Le département
 
-Oise.
+Manche
 
-TGI de Beauvais.
 
-Ressort du TGI.
+TGI de Cherbourg-Octeville
 
-TGI de Compiègne.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI de Senlis.
+TGI de Coutances
 
-Ressort du TGI.
+Ressort du TGI
 
-Orne.
 
-TGI d'Alençon.
+Marne
 
-Ressort du TGI.
+TGI de Châlons-en-Champagne
 
-TGI d'Argentan.
 
-Ressort du TGI.
+Ressort du TGI
 
-Paris.
+TGI de Reims
 
-TGI de Paris.
 
-Le département.
+Ressort du TGI
 
-Pas-de-Calais.
+Marne (Haute-)
 
-TGI d'Arras.
 
-Ressort du TGI.
+TGI de Chaumont
 
-TGI de Béthune.
+Le département
 
-Ressort du TGI.
 
-TGI de Boulogne-sur-Mer.
+Mayenne
 
-Ressort du TGI.
+TGI de Laval
 
-TGI de Saint-Omer.
 
-Ressort du TGI.
+Le département
 
-Puy-de-Dôme.
+Meurthe-et-Moselle
 
-TGI de Clermont-Ferrand.
 
-Ressort du TGI.
+TGI de Briey
 
-TGI de Riom.
+Ressort du TGI
 
-Ressort du TGI.
 
-Pyrénées-Atlantiques.
+TGI de Nancy
 
-TGI de Bayonne.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI de Pau.
+Meuse
 
-Ressort du TGI.
+TGI de Bar-le-Duc
 
-Hautes-Pyrénées.
 
-TGI de Tarbes.
+Ressort du TGI
 
-Le département.
+TGI de Verdun
 
-Pyrénées-Orientales.
 
-TGI de Perpignan.
+Ressort du TGI
 
-Le département.
+Morbihan
 
-Rhin (Bas-).
 
-TGI de Saverne.
+TGI de Lorient
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Strasbourg.
 
-Ressort du TGI.
+TGI de Vannes
 
-Rhin (Haut-).
+Ressort du TGI
 
-TGI de Colmar.
 
-Ressort du TGI.
+Moselle
 
-TGI de Mulhouse.
+TGI de Metz
 
-Ressort du TGI.
 
-Rhône.
+Ressort du TGI
 
-TGI de Lyon.
+TGI de Sarreguemines
 
-Ressort du TGI.
 
-TGI de Villefranche-sur-Saône.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Thionville
 
-Saône (Haute-).
 
-TGI de Lure.
+Ressort du TGI
 
-Ressort du TGI.
+Nièvre
 
-TGI de Vesoul.
 
-Ressort du TGI.
+TGI de Nevers
 
-Saône-et-Loire.
+Le département
 
-TGI de Châlons-sur-Saône.
 
-Ressort du TGI.
+Nord
 
-TGI de Mâcon.
+TGI d'Avesnes-sur-Helpe
 
-Ressort du TGI.
 
-Sarthe.
+Ressort du TGI
 
-TGI du Mans.
+TGI de Cambrai
 
-Le département.
 
-Savoie.
+Ressort du TGI
 
-TGI d'Albertville.
+TGI de Douai
 
-Ressort du TGI.
 
-TGI de Chambéry.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Dunkerque
 
-Savoie (Haute-).
 
-TGI d'Annecy.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Lille
 
-TGI de Bonneville.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Thonon-les-bains.
+TGI de Valenciennes
 
-Ressort du TGI.
 
-Hauts-de-Seine.
+Ressort du TGI
 
-TGI Nanterre.
+Oise
 
-Le département.
 
-Seine-Maritime.
+TGI de Beauvais
 
-TGI de Dieppe.
+Ressort du TGI
 
-Ressort du TGI.
 
-TGI du Havre.
+TGI de Compiègne
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Rouen.
 
-Ressort du TGI.
+TGI de Senlis
 
-Seine-et-Marne.
+Ressort du TGI
 
-TGI de Fontainebleau.
 
-Ressort du TGI.
+Orne
 
-TGI de Maux.
+TGI d'Alençon
 
-Ressort du TGI, à l'exception de l'emprise de l'aérodrome de
-Roissy-Charles-de-Gaulle.
 
-TGI de Melun.
+Ressort du TGI
 
-Ressort du TGI.
+TGI d'Argentan
 
-Seine-Saint-Denis.
 
-TGI de Bobigny.
+Ressort du TGI
 
-Le département et l'emprise des aérodromes de Paris-Le Bourget et de
-Roissy-Charles-de-Gaulle.
+Paris
 
-Sèvres (Deux-).
 
-TGI de Bressuire.
+TGI de Paris
 
-Ressort du TGI.
+Le département
 
-TGI Niort.
 
-Ressort du TGI.
+Pas-de-Calais
 
-Somme.
+TGI d'Arras
 
-TGI d'Abbeville.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI d'Amiens.
+TGI de Béthune
 
-Ressort du TGI.
 
-TGI de Péronne.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Boulogne-sur-Mer
 
-Tarn.
 
-TGI d'Albi.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Saint-Omer
 
-TGI de Castres.
 
-Ressort du TGI.
+Ressort du TGI
 
-Tarn-et-Garonne.
+Puy-de-Dôme
 
-TGI de Montauban.
 
-Le département.
+TGI de Clermont-Ferrand
 
-Territoire de Belfort.
+Le département
 
-TGI de Belfort.
 
-Le département.
+Pyrénées-Atlantiques
 
-Val-de-Marne.
+TGI de Bayonne
 
-TGI de Créteil.
 
-Le département et l'emprise de l'aérodrome de Paris-Orly.
+Ressort du TGI
 
-Val-d'Oise.
+TGI de Pau
 
-TGI de Pontoise.
+
+Ressort du TGI
+
+Pyrénées (Hautes-)
+
+
+TGI de Tarbes
+
+Le département
+
+
+Pyrénées-Orientales
+
+TGI de Perpignan
+
+
+Le département
+
+Rhin (Bas-)
+
+
+TGI de Saverne
+
+Ressort du TGI
+
+
+TGI de Strasbourg
+
+Ressort du TGI
+
+Rhin (Haut-)
+
+
+TGI de Colmar
+
+Ressort du TGI
+
+
+TGI de Mulhouse
+
+Ressort du TGI
+
+
+Rhône
+
+TGI de Lyon
+
+
+Ressort du TGI
+
+TGI de Villefranche-sur-Saône
+
+
+Ressort du TGI
+
+Saône (Haute-)
+
+
+TGI de Vesoul
+
+Le département
+
+
+Saône-et-Loire
+
+TGI de Chalon-sur-Saône
+
+
+Ressort du TGI
+
+TGI de Mâcon
+
+
+Ressort du TGI
+
+Sarthe
+
+
+TGI du Mans
+
+Le département
+
+
+Savoie
+
+TGI d'Albertville
+
+
+Ressort du TGI
+
+TGI de Chambéry
+
+
+Ressort du TGI
+
+Savoie (Haute-)
+
+TGI d'Annecy
+
+
+Ressort du TGI
+
+TGI de Bonneville
+
+
+Ressort du TGI
+
+TGI de Thonon-les-Bains
+
+
+Ressort du TGI
+
+Seine (Hauts-de-)
+
+
+TGI Nanterre
+
+Le département
+
+
+Seine-Maritime
+
+TGI de Dieppe
+
+
+Ressort du TGI
+
+TGI du Havre
+
+
+Ressort du TGI
+
+TGI de Rouen
+
+
+Ressort du TGI
+
+Seine-et-Marne
+
+
+TGI de Fontainebleau
+
+Ressort du TGI
+
+
+TGI de Meaux
+
+Ressort du TGI, à l'exception de l'emprise de l'aérodrome de Roissy
+-Charles-de-Gaulle
+
+
+TGI de Melun
+
+Ressort du TGI
+
+
+Seine-Saint-Denis
+
+TGI de Bobigny
+
+Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy
+-Charles-de-Gaulle
+
+Sèvres (Deux-)
+
+
+TGI Niort
+
+Le département
+
+
+Somme
+
+TGI d'Amiens
+
+
+Le département
+
+Tarn
+
+TGI d'Albi
+
+
+Ressort du TGI
+
+TGI de Castres
+
+
+Ressort du TGI
+
+Tarn-et-Garonne
+
+
+TGI de Montauban
+
+Le département
+
+
+Territoire de Belfort
+
+TGI de Belfort
+
+
+Le département
+
+Val-de-Marne
+
+
+TGI de Créteil
+
+Le département et l'emprise de l'aérodrome de Paris-Orly
+
+Val-d'Oise
+
+
+TGI de Pontoise
 
 Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et
-de Roissy-Charles-de-Gaulle.
+de Roissy -Charles-de-Gaulle
 
-Var.
 
-TGI de Draguignan.
+Var
 
-Ressort du TGI.
+TGI de Draguignan
 
-TGI de Toulon.
 
-Ressort du TGI.
+Ressort du TGI
 
-Vaucluse.
+TGI de Toulon
 
-TGI d'Avignon.
 
-Ressort du TGI.
+Ressort du TGI
 
-TGI de Carpentras.
+Vaucluse
 
-Ressort du TGI.
+TGI d'Avignon
 
-Vendée.
 
-TGI de La Roche-sur-Yon.
+Ressort du TGI
 
-Ressort du TGI.
+TGI de Carpentras
 
-TGI des Sables-d'Olonnes.
 
-Ressort du TGI.
+Ressort du TGI
 
-Vienne.
+Vendée
 
-TGI de Poitiers.
 
-Le département.
+TGI de La Roche-sur-Yon
 
-Vienne (Haute-).
+Ressort du TGI
 
-TGI de Limoges.
+TGI des Sables-d'Olonne
 
-Le département.
 
-Vosges.
+Ressort du TGI
 
-TGI d'Epinal.
+Vienne
 
-Ressort du TGI.
 
-TGI de Saint-Dié.
+TGI de Poitiers
 
-Ressort du TGI.
+Le département
 
-Yonne.
+Vienne (Haute-)
 
-TGI d'Auxerre.
 
-Ressort du TGI.
+TGI de Limoges
 
-TGI de Sens.
+Le département
 
-Ressort du TGI.
 
-Yvelines.
+Vosges
 
-TGI de Versailles.
+TGI d'Epinal
 
-Le département.
+
+Le département
+
+Yonne
+
+TGI d'Auxerre
+
+
+Ressort du TGI
+
+TGI de Sens
+
+
+Ressort du TGI
+
+Yvelines
+
+
+TGI de Versailles
+
+Le département

@@ -679,28 +679,35 @@ Ressort du tribunal de grande instance de Bourg-en-Bresse
 
 Loire
 
-Saint-Etienne
+Roanne
+
+
+Roanne
+
+Ressort du tribunal de grande instance de Roanne
 
 
 Saint-Etienne
+
+Saint-Etienne
+
 
 Ressort du tribunal de grande instance de Saint-Etienne
 
-
 Rhône
 
-Lyon
-
 
 Lyon
+
+Lyon
+
 
 Ressort du tribunal de grande instance de Lyon
 
-
 Villefranche-sur-Saône
 
-Villefranche-sur-Saône
 
+Villefranche-sur-Saône
 
 Ressort du tribunal de grande instance de Villefranche-sur-Saône
 
@@ -1116,9 +1123,7 @@ Châlons-en-Champagne
 
 Châlons-en-Champagne
 
-Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des
-cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton,
-Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
+Ressort du tribunal d'instance de Châlons-en-Champagne
 
 
 Reims
@@ -1161,45 +1166,52 @@ Ressort du tribunal de grande instance de Quimper
 Ille-et-Vilaine et Côtes-d'Armor
 
 
-Saint-Malo
+Rennes
+
+Rennes
+
+
+Ressort du tribunal de grande instance de Rennes
 
 Saint-Malo
 
+
+Saint-Malo
 
 Ressort du tribunal de grande instance de Saint-Malo
 
+
 Loire-Atlantique
 
-
 Nantes
 
-Nantes
 
+Nantes
 
 Ressort du tribunal de grande instance de Nantes
 
-Saint-Nazaire
-
 
 Saint-Nazaire
+
+Saint-Nazaire
+
 
 Ressort du tribunal de grande instance de Saint-Nazaire
 
-
 Morbihan
 
-Lorient
-
 
 Lorient
+
+Lorient
+
 
 Ressort du tribunal de grande instance de Lorient
 
-
 Vannes
 
-Vannes
 
+Vannes
 
 Ressort du tribunal de grande instance de Vannes
 
