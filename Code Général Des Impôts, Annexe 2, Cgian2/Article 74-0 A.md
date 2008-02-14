@@ -7,7 +7,8 @@ précédentes dans les cas suivants :
 a) Licenciement du contribuable ou de l'un des époux soumis à une imposition
 commune ; bénéficient de cette disposition les personnes qui se trouvent privées
 d'activité professionnelle pour des raisons indépendantes de leur volonté et
-sont inscrites comme demandeurs d'emploi à l'Agence nationale pour l'emploi ;
+sont inscrites comme demandeurs d'emploi à l'institution mentionnée à l'article
+L. 311-7 du code du travail ;
 
 b) Départ à la retraite ou en préretraite du contribuable ou de l'un des époux
 soumis à une imposition commune, sous réserve que l'intéressé ne poursuive ou ne

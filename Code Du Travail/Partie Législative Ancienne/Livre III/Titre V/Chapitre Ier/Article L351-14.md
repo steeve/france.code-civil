@@ -22,3 +22,6 @@ chômage des intermittents du spectacle.
 
 La contribution spécifique mentionnée au deuxième alinéa est applicable à
 compter du 1er septembre 2002.
+
+La contribution spécifique est recouvrée et contrôlée selon les règles
+applicables aux contributions mentionnées à l'article L. 351-3-1.

@@ -7,10 +7,10 @@ cessé d'exercer son activité professionnelle perçoit, sur sa demande, une
 allocation différentielle de fin de mandat s'il se trouve dans l'une des
 situations suivantes :
 
-- être inscrit à l'Agence nationale pour l'emploi conformément aux dispositions
-de l'article L. 311-2 du code du travail ;
+-être inscrit à l'institution mentionnée à l'article L. 311-7 du code du travail
+(1) conformément aux dispositions de l'article L. 311-2 du code du travail (1) ;
 
-- avoir repris une activité professionnelle lui procurant des revenus inférieurs
+-avoir repris une activité professionnelle lui procurant des revenus inférieurs
 aux indemnités de fonction qu'il percevait au titre de sa dernière fonction
 élective.
 

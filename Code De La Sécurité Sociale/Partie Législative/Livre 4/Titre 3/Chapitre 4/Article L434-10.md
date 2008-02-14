@@ -5,9 +5,9 @@ Les enfants légitimes, les enfants naturels dont la filiation est légalement
 Cette limite d'âge peut être relevée pour les enfants qui sont placés en
 apprentissage, qui poursuivent leurs études, qui sont à la recherche d'une
 première activité professionnelle et inscrits comme demandeurs d'emploi à
-l'agence nationale pour l'emploi, ou qui, par suite d'infirmités ou de maladies
-chroniques, sont dans l'impossibilité permanente de se livrer à un travail
-salarié.
+l'institution mentionnée à l'article L. 311-7 du code du travail, ou qui, par
+suite d'infirmités ou de maladies chroniques, sont dans l'impossibilité
+permanente de se livrer à un travail salarié.
 
 La rente est égale à une fraction du salaire annuel de la victime plus
 importante lorsque les enfants sont orphelins de père et de mère au moment du
