@@ -4,7 +4,7 @@ Les gardes champêtres peuvent constater par procès-verbal, en application des
 dispositions de l'article L. 2213-18 du présent code, lorsqu'elles sont commises
 sur le territoire pour lequel ils sont assermentés et qu'elles ne nécessitent
 pas de leur part d'actes d'enquête, les contraventions prévues par le code pénal
-et énumérées par l'article R. 15-33-61 du code de procédure pénale.
+et énumérées par l'article R. 15-33-29-3 du code de procédure pénale.
 
 Ils peuvent également constater par procès-verbal, conformément aux dispositions
 du premier alinéa de l'article L. 2213-18 du présent code, les contraventions

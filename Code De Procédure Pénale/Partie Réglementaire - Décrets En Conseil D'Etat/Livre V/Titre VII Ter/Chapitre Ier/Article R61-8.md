@@ -17,7 +17,7 @@ ressort de la cour d'appel où siège la commission, ou de son représentant ;
 5° D'un expert psychologue titulaire d'un diplôme d'études supérieures
 spécialisées ou d'un mastère de psychologie ;
 
-6° D'un représentant d'une association nationale d'aide aux victimes ;
+6° D'un représentant d'une association d'aide aux victimes ;
 
 7° D'un avocat, membre du conseil de l'ordre.
 

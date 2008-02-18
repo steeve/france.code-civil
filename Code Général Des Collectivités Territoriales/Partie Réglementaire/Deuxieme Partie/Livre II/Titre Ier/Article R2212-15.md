@@ -5,7 +5,7 @@ procédure pénale peuvent constater par procès-verbal, en application des
 dispositions de l'article L. 2212-5 du présent code, lorsqu'elles sont commises
 sur le territoire communal et qu'elles ne nécessitent pas de leur part d'actes
 d'enquête, les contraventions prévues par le code pénal et énumérées par
-l'article R. 15-33-61 du code de procédure pénale.
+l'article R. 15-33-29-3 du code de procédure pénale.
 
 Ils peuvent également constater par procès-verbal, dans les conditions prévues
 par le deuxième alinéa de l'article L. 2212-5 du présent code, les
