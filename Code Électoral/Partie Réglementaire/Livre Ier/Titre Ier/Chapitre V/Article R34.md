@@ -15,6 +15,12 @@ précédant le premier tour de scrutin et, en cas de ballottage, le jeudi
 précédant le second tour, les bulletins de vote de chaque candidat ou de chaque
 liste en nombre au moins égal à celui des électeurs inscrits.
 
+Toutefois, quand le scrutin a lieu le samedi en Guadeloupe, Martinique et
+Guyane, les documents cités aux troisième et quatrième alinéas doivent être
+respectivement adressés à chaque électeur et à chaque mairie de la
+circonscription au plus tard le mardi précédant le premier tour de scrutin et,
+en cas de ballottage, le mercredi précédant le second tour.
+
 Si un candidat ou une liste de candidats remet à la commission de propagande
 moins de circulaires ou de bulletins de vote que les quantités prévues
 ci-dessus, il propose la répartition de ses circulaires et bulletins de vote

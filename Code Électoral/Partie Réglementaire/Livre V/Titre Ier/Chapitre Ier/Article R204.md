@@ -1,9 +1,9 @@
 Article R204
 ----
 Les dispositions du titre Ier du livre Ier du présent code (partie
-réglementaire), à l'exclusion des mots : "sur papier blanc" figurant à l'article
-R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n°
-2007-1670 du 26 novembre 2007 :
+réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à
+l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du
+décret n° 2008-170 du 22 février 2008 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et,
 à l'exception des articles R. 20 à R. 22, R. 43 et R. 60, à l'élection du député
