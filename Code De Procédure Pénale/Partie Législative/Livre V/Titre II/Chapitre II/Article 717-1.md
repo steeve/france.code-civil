@@ -20,3 +20,15 @@ santé publique sont applicables au médecin traitant du condamné détenu, qui
 délivre à ce dernier des attestations de suivi du traitement afin de lui
 permettre d'en justifier auprès du juge de l'application des peines pour
 l'obtention des réductions de peine prévues par l'article 721-1.
+
+Deux ans avant la date prévue pour la libération d'un condamné susceptible de
+relever des dispositions de l'article 706-53-13, celui-ci est convoqué par le
+juge de l'application des peines auprès duquel il justifie des suites données au
+suivi médical et psychologique adapté qui a pu lui être proposé en application
+des deuxième et troisième alinéas du présent article. Au vu de ce bilan, le juge
+de l'application des peines lui propose, le cas échéant, de suivre un traitement
+dans un établissement pénitentiaire spécialisé.
+
+Les agents et collaborateurs du service public pénitentiaire transmettent aux
+personnels de santé chargés de dispenser des soins aux détenus les informations
+utiles à la mise en œuvre des mesures de protection des personnes.

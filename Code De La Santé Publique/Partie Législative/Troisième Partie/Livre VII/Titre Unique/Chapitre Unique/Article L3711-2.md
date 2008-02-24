@@ -10,6 +10,11 @@ expertises ordonnées par le juge de l'application des peines en cours
 d'exécution, éventuellement, de la peine privative de liberté ou de suivi
 socio-judiciaire.
 
+Sans que leur soient opposables les dispositions de l'article 226-13 du code
+pénal, les praticiens chargés de dispenser des soins en milieu pénitentiaire
+communiquent les informations médicales qu'ils détiennent sur le condamné au
+médecin coordonnateur afin qu'il les transmette au médecin traitant.
+
 Le médecin traitant délivre des attestations de suivi du traitement à
 intervalles réguliers, afin de permettre au condamné de justifier auprès du juge
 de l'application des peines de l'accomplissement de son injonction de soins.

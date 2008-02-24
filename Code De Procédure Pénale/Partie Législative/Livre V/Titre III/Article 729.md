@@ -30,4 +30,9 @@ suivi socio-judiciaire est encouru, une libération conditionnelle ne peut lui
 qui lui est proposé par le juge de l'application des peines en application des
 articles 717-1 et 763-7. Elle ne peut non plus être accordée au condamné qui ne
 s'engage pas à suivre, après sa libération, le traitement qui lui est proposé en
-application de l'article 731-1.
+application de l'article 731-1. La personne condamnée à la réclusion criminelle
+à perpétuité ne peut bénéficier d'une libération conditionnelle qu'après avis
+[Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2008-562 DC du 21 février 2008] de la commission
+pluridisciplinaire des mesures de sûreté dans les conditions prévues par le
+deuxième alinéa de l'article 706-53-14.

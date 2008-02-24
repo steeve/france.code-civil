@@ -14,8 +14,9 @@ Si la personne est placée en détention provisoire, le curateur ou le tuteur
 bénéficie de plein droit d'un permis de visite.
 
 Le procureur de la République ou le juge d'instruction avise le curateur ou le
-tuteur des décisions de non-lieu, de relaxe, d'acquittement ou de condamnation
-dont la personne fait l'objet.
+tuteur des décisions de non-lieu, de relaxe, d'acquittement, d'irresponsabilité
+pénale pour cause de trouble mental, ou de condamnation dont la personne fait
+l'objet.
 
 Le curateur ou le tuteur est avisé de la date d'audience. Lorsqu'il est présent
 à l'audience, il est entendu par la juridiction en qualité de témoin.

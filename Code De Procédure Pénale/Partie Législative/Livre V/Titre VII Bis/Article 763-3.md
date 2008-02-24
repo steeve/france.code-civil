@@ -30,3 +30,9 @@ mis en oeuvre sans son consentement mais que, à défaut ou s'il manque à ses
 obligations, l'emprisonnement prononcé en application du troisième alinéa de
 l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositions
 des deux premiers alinéas du présent article sont applicables.
+
+Si la personne a été condamnée à une peine de réclusion criminelle d'une durée
+égale ou supérieure à quinze ans pour l'un des crimes mentionnés à l'article
+706-53-13, le juge de l'application des peines peut également prononcer une
+obligation d'assignation à domicile prévue par le 4° de l'article 723-30. Les
+dispositions des deux premiers alinéas du présent article sont applicables.

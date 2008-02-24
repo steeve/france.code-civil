@@ -17,8 +17,7 @@ articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février
 3° D'une composition pénale prévue par l'article 41-2 du présent code dont
 l'exécution a été constatée par le procureur de la République ;
 
-4° D'une décision de non-lieu, de relaxe ou d'acquittement fondée sur les
-dispositions du premier alinéa de l'article 122-1 du code pénal ;
+4° D'une décision d'irresponsabilité pénale pour cause de trouble mental ;
 
 5° D'une mise en examen assortie d'un placement sous contrôle judiciaire,
 lorsque le juge d'instruction a ordonné l'inscription de la décision dans le

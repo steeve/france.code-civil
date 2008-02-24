@@ -19,9 +19,9 @@ pour les contraventions des quatre premières classes dès lors qu'est prise, à
 titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou
 d'incapacité ;
 
-3° Les décisions prononcées par application des articles 8, 15, 15-1, 16, 16 bis
-et 28 de l'ordonnance n° 45-174 du 2 février 1945, modifiée, relative à
-l'enfance délinquante ;
+3° Les décisions prononcées par application des articles 8,15,15-1,16,16 bis et
+28 de l'ordonnance n° 45-174 du 2 février 1945, modifiée, relative à l'enfance
+délinquante ;
 
 4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une
 autorité administrative lorsqu'elles entraînent ou édictent des incapacités ;
@@ -41,4 +41,6 @@ d'un avis aux autorités françaises ou ont été exécutées en France à la su
 transfèrement des personnes condamnées ;
 
 9° Les compositions pénales, dont l'exécution a été constatée par le procureur
-de la République.
+de la République ;
+
+10° Les décisions d'irresponsabilité pénale pour cause de trouble mental.

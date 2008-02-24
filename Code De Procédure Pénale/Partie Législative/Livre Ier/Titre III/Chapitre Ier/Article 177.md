@@ -6,10 +6,10 @@ charges suffisantes contre la personne mise en examen, il déclare, par une
 ordonnance, qu'il n'y a lieu à suivre.
 
 Lorsque l'ordonnance de non-lieu est motivée par l'existence de l'une des causes
-d'irresponsabilité pénale prévue par le premier alinéa de l'article 122-1, les
-articles 122-2, 122-3, 122-4, 122-5 et 122-7 du code pénal ou par le décès de la
-personne mise en examen, elle précise s'il existe des charges suffisantes
-établissant que l'intéressé a commis les faits qui lui sont reprochés.
+d'irresponsabilité pénale prévue par les articles 122-2,122-3,122-4,122-5 et
+122-7 du code pénal ou par le décès de la personne mise en examen, elle précise
+s'il existe des charges suffisantes établissant que l'intéressé a commis les
+faits qui lui sont reprochés.
 
 Les personnes mises en examen qui sont provisoirement détenues sont mises en
 liberté. L'ordonnance met fin au contrôle judiciaire.

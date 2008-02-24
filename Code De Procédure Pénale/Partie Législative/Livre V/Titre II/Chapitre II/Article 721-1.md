@@ -17,7 +17,12 @@ la commission de l'application des peines, ne peut excéder, si le condamné est
 en état de récidive légale, deux mois par année d'incarcération ou quatre jours
 par mois lorsque la durée d'incarcération resant à subir est inférieure à une
 année. Si le condamné n'est pas en état de récidive légale, ces limites sont
-respectivement portées à trois mois et à sept jours.
+respectivement portées à trois mois et à sept jours. Lorsque la personne a été
+condamnée pour les crimes ou délits, commis sur un mineur, de meurtre ou
+assassinat, torture ou actes de barbarie, viol, agression sexuelle ou atteinte
+sexuelle, la réduction ne peut excéder deux mois par an ou quatre jours par mois
+ou, si elle est en état de récidive légale, un mois par an ou deux jours par
+mois, dès lors qu'elle refuse les soins qui lui ont été proposés.
 
 Elle est prononcée en une seule fois si l'incarcération est inférieure à une
 année et par fraction annuelle dans le cas contraire.

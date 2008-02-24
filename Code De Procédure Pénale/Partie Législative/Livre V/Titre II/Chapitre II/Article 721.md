@@ -21,8 +21,14 @@ aux dispositions du premier alinéa.
 En cas de mauvaise conduite du condamné en détention, le juge de l'application
 des peines peut être saisi par le chef d'établissement ou sur réquisitions du
 procureur de la République aux fins de retrait, à hauteur de trois mois maximum
-par an et de sept jours par mois, de cette réduction de peine. Sa décision est
-prise dans les conditions prévues à l'article 712-5.
+par an et de sept jours par mois, de cette réduction de peine. Il peut également
+ordonner le retrait lorsque la personne a été condamnée pour les crimes ou
+délits, commis sur un mineur, de meurtre ou assassinat, torture ou actes de
+barbarie, viol, agression sexuelle ou atteinte sexuelle et qu'elle refuse
+pendant son incarcération de suivre le traitement qui lui est proposé par le
+juge de l'application des peines, sur avis médical, en application des articles
+717-1 ou 763-7. Sa décision est prise dans les conditions prévues à l'article
+712-5.
 
 Lorsque le condamné est en état de récidive légale, le retrait prévu par le
 troisième alinéa du présent article est alors de deux mois maximum par an et de

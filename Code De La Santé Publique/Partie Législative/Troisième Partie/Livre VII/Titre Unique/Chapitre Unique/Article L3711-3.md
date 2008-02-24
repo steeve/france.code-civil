@@ -14,9 +14,6 @@ des peines ou l'agent de probation.
 Le médecin traitant peut également proposer au juge de l'application des peines
 d'ordonner une expertise médicale.
 
-Lorsqu'il a été agréé à cette fin, le médecin traitant est habilité à prescrire
-au condamné, avec le consentement écrit et renouvelé, au moins une fois par an,
-de ce dernier, un traitement utilisant des médicaments dont la liste est fixée
-par arrêté du ministre de la santé et qui entraînent une diminution de la
-libido, même si l'autorisation de mise sur le marché les concernant n'a pas été
-délivrée pour cette indication.
+Le médecin traitant est habilité à prescrire au condamné, avec le consentement
+écrit et renouvelé, au moins une fois par an, de ce dernier, un traitement
+utilisant des médicaments qui entraînent une diminution de la libido.
