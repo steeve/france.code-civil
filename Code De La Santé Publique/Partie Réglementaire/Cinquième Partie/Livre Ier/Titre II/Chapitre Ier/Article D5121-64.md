@@ -62,24 +62,20 @@ d) Une spécialité pharmaceutique ou à un autre médicament à base de plantes
 f) Une spécialité pharmaceutique ou à un autre médicament mentionnés à l'article
 L. 5121-8 consistant en allergène, par famille de produits ;
 
-g) Des produits mentionnés à l'article L. 5136-1 ;
+g) abrogé
 
-5° Paragraphe abrogé
+5° abrogé
 
 6° 1 011 euros pour toute demande tendant à obtenir une modification d'une
 autorisation de mise sur le marché dans les conditions prévues aux articles R.
 5121-37, R. 5121-41 et R. 5121-41-3 à R. 5121-41-5 ou en application du
-règlement (CE) n° 1084/2003 du 3 juin 2003, à l'exception du cas où la
+règlement (CE) n° 1084 / 2003 du 3 juin 2003, à l'exception du cas où la
 modification est relative à un ou des usages thérapeutiques différents.
 
 Toutefois, il n'est pas perçu de droit lorsque la modification demandée doit
 être apportée pour répondre aux spécifications nouvelles de la pharmacopée ;
 
-7° 674 euros pour toute demande de renouvellement quinquennal relative à :
-
-a) Une autorisation de mise sur le marché d'une spécialité pharmaceutique ou
-autre médicament mentionnés à l'article L. 5121-8 effectuée conformément à
-l'article R. 5121-45 ;
-
-b) Une autorisation pour les produits mentionnés à l'article L. 5136-1 effectuée
-conformément à l'article R. 5136-10.
+7° 674 euros pour toute demande de renouvellement quinquennal relative à une
+autorisation de mise sur le marché d'une spécialité pharmaceutique ou autre
+médicament mentionnés à l'article L. 5121-8 effectuée conformément à l'article
+R. 5121-45.
