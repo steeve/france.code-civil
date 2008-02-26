@@ -1,7 +1,8 @@
 Article L5522-5
 ----
-Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, le contrat
-d'accès à l'emploi a pour objet de favoriser l'insertion professionnelle :
+Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à
+Saint-Pierre-et-Miquelon, le contrat d'accès à l'emploi a pour objet de
+favoriser l'insertion professionnelle :
 
 1° Des bénéficiaires du revenu minimum d'insertion ;
 

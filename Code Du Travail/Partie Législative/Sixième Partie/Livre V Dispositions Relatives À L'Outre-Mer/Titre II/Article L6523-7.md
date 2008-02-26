@@ -1,7 +1,8 @@
 Article L6523-7
 ----
 Un décret en Conseil d'Etat apporte les adaptations nécessaires à l'application
-dans les départements d'outre-mer des dispositions des articles :
+dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin des
+dispositions des articles :
 
 1° L. 6312-1 et L. 6312-2 relatifs à l'accès à la formation professionnelle
 continue ;

@@ -6,7 +6,7 @@ congé d'adoption internationale et extra-métropolitaine non rémunéré lorsqu
 vue de l'adoption d'un enfant, il se rend à l'étranger ou dans un département
 d'outre-mer, une collectivité d'outre-mer ou en Nouvelle-Calédonie, depuis un
 département métropolitain, un autre département d'outre-mer ou depuis
-Saint-Pierre-et-Miquelon.
+Saint-Barthélemy, Saint-Martin ou Saint-Pierre-et-Miquelon.
 
 Le droit au congé est ouvert pour une durée maximale de six semaines par
 agrément.

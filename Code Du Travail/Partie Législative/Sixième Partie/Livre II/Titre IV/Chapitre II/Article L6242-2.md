@@ -6,8 +6,9 @@ d'apprentissage, auprès des entreprises ayant leur siège social ou un
 recevoir :
 
 1° Les chambres consulaires régionales ou, à défaut, les groupements
-interconsulaires ou, dans les départements d'outre-mer, une seule chambre
-consulaire, par décision de l'autorité administrative ;
+interconsulaires ou, dans les départements d'outre-mer, à Saint-Barthélemy et à
+Saint-Martin, une seule chambre consulaire, par décision de l'autorité
+administrative ;
 
 2° Les syndicats, groupements professionnels ou associations, à vocation
 régionale, agréés par décision de l'autorité administrative.

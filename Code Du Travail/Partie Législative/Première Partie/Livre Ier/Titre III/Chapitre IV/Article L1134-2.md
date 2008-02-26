@@ -1,9 +1,10 @@
 Article L1134-2
 ----
 Les organisations syndicales représentatives au niveau national, au niveau
-départemental dans les départements d'outre-mer, ou dans l'entreprise peuvent
-exercer en justice toutes les actions résultant de l'application des
-dispositions du chapitre II.
+départemental ou de la collectivité dans les départements d'outre-mer, à
+Saint-Barthélemy et à Saint-Martin, ou dans l'entreprise peuvent exercer en
+justice toutes les actions résultant de l'application des dispositions du
+chapitre II.
 
 Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un
 stage ou une période de formation en entreprise, ou d'un salarié, dans les

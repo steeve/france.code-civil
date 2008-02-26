@@ -1,9 +1,9 @@
 Article L6523-3
 ----
-Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, pour assurer
-dans l'entreprise la formation pratique d'un salarié en contrat de
-professionnalisation, l'employeur peut, pour une durée limitée, bénéficier du
-concours de personnes qui le parrainent.
+Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à
+Saint-Pierre-et-Miquelon, pour assurer dans l'entreprise la formation pratique
+d'un salarié en contrat de professionnalisation, l'employeur peut, pour une
+durée limitée, bénéficier du concours de personnes qui le parrainent.
 
 Ces personnes sont choisies parmi les salariés concernés par une mesure de
 retraite anticipée au sens de l'article L. 5123-2, les travailleurs

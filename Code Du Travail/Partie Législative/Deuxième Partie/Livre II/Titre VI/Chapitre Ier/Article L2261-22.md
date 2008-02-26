@@ -1,6 +1,6 @@
 Article L2261-22
 ----
-I. - Pour pouvoir être étendue, la convention de branche conclue au niveau
+I.-Pour pouvoir être étendue, la convention de branche conclue au niveau
 national contient des clauses portant sur la détermination des règles de
 négociation et de conclusion, prévues aux articles :
 
@@ -13,7 +13,7 @@ et de dénonciation ;
 3° L. 2232-3 et L. 2232-9, relatifs aux garanties accordées aux salariés
 participant à la négociation.
 
-II. - Elle contient en outre des clauses portant sur :
+II.-Elle contient en outre des clauses portant sur :
 
 1° L'exercice du droit syndical et la liberté d'opinion des salariés, le
 déroulement de carrière des salariés exerçant des responsabilités syndicales et
@@ -69,9 +69,9 @@ f) Les conditions de rémunération des salariés, auteurs d'une invention dévo
 611-7 du code de la propriété intellectuelle ;
 
 g) Les garanties des salariés résidant dans un département métropolitain et
-appelés à travailler dans un département d'outre-mer ou à
-Saint-Pierre-et-Miquelon, Mayotte, Wallis-et-Futuna et dans les Terres australes
-et antarctiques françaises ;
+appelés à travailler dans un département d'outre-mer, à Saint-Barthélemy, à
+Saint-Martin ou à Saint-Pierre-et-Miquelon, Mayotte, Wallis-et-Futuna et dans
+les Terres australes et antarctiques françaises ;
 
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront
 réglés les conflits collectifs de travail susceptibles de survenir entre les
