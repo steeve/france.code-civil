@@ -1,7 +1,7 @@
 Article A214-1
 ----
-Les déclarations ou demandes formulées en application des articles L. 212-2, L.
-212-3, L. 213-1, R. 212-6, R. 212-14 et R. 213-2 dans leur rédaction antérieure
-à la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en
-oeuvre de principes d'aménagement doivent être, à compter du 1er juin 1987,
-établies conformément au modèle annexé à l'article A. 213-1.
+La déclaration préalable prévue par les articles L. 214-1 et R. 214-4 doit être
+établie conformément au formulaire enregistré par la direction générale de la
+modernisation de l'Etat sous le numéro CERFA 13644*01 et disponible sur le site
+internet du ministère de l'écologie, du développement et de l'aménagement
+durables : http://www.developpement-durable.gouv.fr.
