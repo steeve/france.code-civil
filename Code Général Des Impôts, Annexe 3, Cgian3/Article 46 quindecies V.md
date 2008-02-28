@@ -5,7 +5,7 @@ bis HW du code général des impôts, lorsqu'un investissement supplémentaire
 afférent à un site répondant aux conditions fixées à l'article 238 bis HW
 précité a été décidé au plus tard à l'expiration du délai visé au deuxième
 alinéa du 1 de l'article 223 du même code, pour la déclaration de
-l'avant-dernier exercice clos à la date de la demande d'agrément visé au
+l'antépénultième exercice clos à la date de la demande d'agrément visé au
 deuxième alinéa de l'article 238 bis HW précité, la consommation supplémentaire
 liée à cet investissement est prise en compte dans la consommation du site
 concerné.
