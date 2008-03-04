@@ -41,7 +41,12 @@ les questions de droit dont elles sont saisies par le premier président.
 Les chambres réunies statuant en formation restreinte jugent les affaires dont
 elles sont saisies par le premier président sur proposition d'une chambre ou sur
 réquisitoire du procureur général. Elles statuent sur les affaires renvoyées
-devant la cour après cassation.
+devant la Cour après cassation.
+
+Elles formulent l'avis de la Cour des comptes sur les projets de remise
+gracieuse soumis par le ministre chargé du budget sur les demandes présentées
+par les comptables publics et assimilés, les comptables de fait et les
+régisseurs constitués en débet.
 
 Le premier président peut renvoyer des affaires relevant de la formation
 restreinte à la formation plénière qui les juge.
