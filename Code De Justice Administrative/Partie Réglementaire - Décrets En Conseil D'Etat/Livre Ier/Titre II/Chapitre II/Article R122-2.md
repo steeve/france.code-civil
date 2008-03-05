@@ -8,9 +8,5 @@ La section du contentieux comprend :
 chargé des fonctions de président et deux conseillers d'Etat en service
 ordinaire chargés des fonctions d'assesseurs ;
 
-3° Des conseillers d'Etat en service ordinaire appartenant en même temps à une
-section administrative et appelés à siéger dans les conditions prévues aux
-articles R. 122-15 (alinéa 1) et R. 122-18 (4°) ;
-
-4° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des
+3° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des
 auditeurs chargés des fonctions de rapporteur ou de commissaire du gouvernement.
