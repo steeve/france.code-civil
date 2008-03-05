@@ -15,4 +15,5 @@ assorti de recommandations, concernant l'exercice des droits des étrangers
 placés dans le centre, le local de rétention administrative ou dans la zone
 d'attente visités, ainsi que le respect des normes relatives à l'hygiène, à la
 salubrité, à la sécurité, à l'équipement et à l'aménagement de ces lieux. Le
-rapport est adressé au ministre de l'intérieur.
+rapport est adressé au ministre de l'intérieur et au ministre chargé de
+l'immigration.

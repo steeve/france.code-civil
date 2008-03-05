@@ -12,5 +12,5 @@ justifier, à toute réquisition des agents de l'autorité, qu'il a satisfait à
 cette obligation, par la production de ce récépissé.
 
 Les modalités d'application du présent article, et notamment les mentions de la
-déclaration et son lieu de souscription, sont fixées par arrêté du ministre de
-l'intérieur.
+déclaration et son lieu de souscription, sont fixées par arrêté conjoint du
+ministre de l'intérieur et du ministre chargé de l'immigration.

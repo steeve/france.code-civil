@@ -13,10 +13,10 @@ constatation principal de 2e classe ;
 3° Ou par le commandant de l'unité de gendarmerie territorialement compétente ou
 un militaire désigné par lui, titulaire au moins du grade de gendarme.
 
-Ce procès-verbal est transmis au ministre de l'intérieur. Il comporte le nom de
-l'entreprise de transport, les références du vol ou du voyage concerné et
-l'identité des passagers au titre desquels la responsabilité de l'entreprise de
-transport est susceptible d'être engagée, en précisant, pour chacun d'eux, le
+Ce procès-verbal est transmis au ministre chargé de l'immigration. Il comporte
+le nom de l'entreprise de transport, les références du vol ou du voyage concerné
+et l'identité des passagers au titre desquels la responsabilité de l'entreprise
+de transport est susceptible d'être engagée, en précisant, pour chacun d'eux, le
 motif du refus d'admission. Il comporte également, le cas échéant, les
 observations de l'entreprise de transport. Copie du procès-verbal est remise à
 son représentant, qui en accuse réception.

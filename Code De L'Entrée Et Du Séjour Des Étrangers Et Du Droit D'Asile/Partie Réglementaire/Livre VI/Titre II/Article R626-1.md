@@ -8,7 +8,7 @@ l'obligation de détention d'un titre de séjour et qui en est dépourvu. Elle e
 due pour chaque employé étranger en situation de séjour irrégulier.
 
 Le montant de cette contribution est fixé chaque année par arrêté conjoint du
-ministre de l'intérieur et du ministre chargé du budget, en fonction du coût
-moyen des opérations d'éloignement constaté l'année précédente dans la zone
+ministre chargé de l'immigration et du ministre chargé du budget, en fonction du
+coût moyen des opérations d'éloignement constaté l'année précédente dans la zone
 géographique à laquelle appartient le pays d'origine du salarié, dans la limite
 prescrite à l'alinéa 2 de l'article L. 626-1 susmentionné.

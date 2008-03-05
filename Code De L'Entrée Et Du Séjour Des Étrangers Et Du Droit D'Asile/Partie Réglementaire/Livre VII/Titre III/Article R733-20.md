@@ -10,4 +10,4 @@ directeur de l'Agence nationale de l'accueil des étrangers et des migrations.
 La commission communique au préfet compétent et, à Paris, au préfet de police,
 lorsque ceux-ci en font la demande, copie de l'avis de réception.
 
-Les décisions de rejet sont transmises au ministre de l'intérieur.
+Les décisions de rejet sont transmises au ministre chargé de l'immigration .

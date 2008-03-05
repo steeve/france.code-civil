@@ -5,4 +5,4 @@ L. 531-2, la décision de remettre aux autorités compétentes d'un Etat membre 
 l'Union européenne un demandeur d'asile qui se présente à la frontière et dont
 l'examen de la demande relève de la responsabilité de cet Etat, en application
 des dispositions des conventions internationales conclues à cet effet avec les
-Etats membres de l'Union européenne, est le ministre de l'intérieur.
+Etats membres de l'Union européenne, est le ministre chargé de l'immigration.

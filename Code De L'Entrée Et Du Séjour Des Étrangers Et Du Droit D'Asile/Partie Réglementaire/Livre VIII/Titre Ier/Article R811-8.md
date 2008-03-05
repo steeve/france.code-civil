@@ -7,6 +7,6 @@ mentionnée à l'article L. 811-2, la France le réadmet sur son territoire au
 titre de la protection temporaire, sauf si un accord bilatéral prévoit des
 dispositions contraires.
 
-La demande de reprise en charge est adressée au ministre de l'intérieur par
-écrit et est accompagnée de tout document justifiant que l'intéressé bénéficie
-de la protection temporaire en France.
+La demande de reprise en charge est adressée au ministre chargé de l'immigration
+par écrit et est accompagnée de tout document justifiant que l'intéressé
+bénéficie de la protection temporaire en France.

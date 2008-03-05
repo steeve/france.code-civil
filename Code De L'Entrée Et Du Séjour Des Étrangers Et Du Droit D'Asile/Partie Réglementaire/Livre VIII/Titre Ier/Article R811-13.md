@@ -10,8 +10,8 @@ ou à partir duquel doit s'opérer le transfert.
 Les informations relatives à un bénéficiaire de la protection temporaire qui
 sont nécessaires pour instruire une demande de transfert en application de
 l'article R. 811-7 ou une demande de réadmission en application de l'article R.
-811-8 sont demandées par le ministre de l'intérieur à l'Etat membre de l'Union
-européenne sur le territoire duquel se trouve l'intéressé.
+811-8 sont demandées par le ministre chargé de l'immigration à l'Etat membre de
+l'Union européenne sur le territoire duquel se trouve l'intéressé.
 
 Ces informations comprennent au moins l'un des documents ou l'une des données
 suivants :

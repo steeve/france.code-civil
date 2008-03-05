@@ -15,11 +15,12 @@ et l'adresse de la personne physique ou morale assurant son hébergement.
 Si l'organisme mentionné à l'alinéa précédent est agréé, l'étranger peut être
 dispensé de présenter l'attestation d'accueil au vu de la seule invitation
 mentionnée à cet alinéa. L'agrément est délivré, s'agissant des organismes à
-caractère humanitaire, par un arrêté du ministre de l'intérieur, du ministre
-chargé des affaires sociales, du ministre des affaires étrangères et du ministre
-chargé de la santé et, s'agissant des organismes à caractère culturel, par un
-arrêté du ministre de l'intérieur, du ministre des affaires étrangères et du
-ministre chargé de la culture. L'organisme agréé, s'il n'assure pas lui-même
-l'hébergement de l'étranger, est tenu de communiquer au préfet du département
-dans lequel l'étranger sera hébergé ou, à Paris, au préfet de police, le nom et
-l'adresse de la personne physique ou morale assurant son hébergement.
+caractère humanitaire, par un arrêté du ministre chargé de l'immigration, du
+ministre de l'intérieur, du ministre chargé des affaires sociales, du ministre
+des affaires étrangères et du ministre chargé de la santé et, s'agissant des
+organismes à caractère culturel, par un arrêté du ministre chargé de
+l'immigration, du ministre de l'intérieur, du ministre des affaires étrangères
+et du ministre chargé de la culture. L'organisme agréé, s'il n'assure pas
+lui-même l'hébergement de l'étranger, est tenu de communiquer au préfet du
+département dans lequel l'étranger sera hébergé ou, à Paris, au préfet de police
+le nom et l'adresse de la personne physique ou morale assurant son hébergement.

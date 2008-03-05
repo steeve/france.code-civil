@@ -14,6 +14,6 @@ tout document établissant que les ressources qu'il en tire atteignent un niveau
 équivalent au salaire minimum de croissance correspondant à un emploi à temps
 plein.
 
-Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la
-liste des pièces justificatives que l'étranger doit produire à l'appui de sa
-demande.
+Un arrêté du ministre chargé de l'immigration et du ministre chargé des finances
+fixe la liste des pièces justificatives que l'étranger doit produire à l'appui
+de sa demande.

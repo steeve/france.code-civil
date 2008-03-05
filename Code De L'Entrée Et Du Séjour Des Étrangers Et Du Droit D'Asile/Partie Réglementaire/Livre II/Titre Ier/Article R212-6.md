@@ -10,4 +10,4 @@ d'un séjour d'une durée inférieure ou égale à trois mois ;
 supérieure ou égale à un an, qui a été délivré par un Etat partie à la
 convention signée à Schengen le 19 juin 1990 ; toutefois, la déclaration doit
 être souscrite par les résidents d'Etats tiers qui sont désignés par arrêté du
-ministre de l'intérieur et de la sécurité publique.
+ministre chargé de l'immigration.

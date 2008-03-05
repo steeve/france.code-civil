@@ -1,8 +1,8 @@
 Article R211-11
 ----
 L'attestation d'accueil prévue à l'article L. 211-3 pour les séjours à caractère
-familial ou privé est conforme à un modèle défini par arrêté du ministre de
-l'intérieur. Elle indique :
+familial ou privé est conforme à un modèle défini par arrêté du ministre chargé
+de l'immigration. Elle indique :
 
 1° L'identité du signataire et, s'il agit comme représentant d'une personne
 morale, sa qualité ;

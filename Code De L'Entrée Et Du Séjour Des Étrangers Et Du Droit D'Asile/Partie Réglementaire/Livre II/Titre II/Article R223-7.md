@@ -1,6 +1,6 @@
 Article R223-7
 ----
 Une réunion est organisée annuellement sur le fonctionnement des zones
-d'attente, à l'initiative du ministre de l'intérieur, avec le délégué du
+d'attente, à l'initiative du ministre chargé de l'asile, avec le délégué du
 Haut-Commissariat des Nations unies pour les réfugiés, ses représentants agréés
 et les services de l'Etat concernés.

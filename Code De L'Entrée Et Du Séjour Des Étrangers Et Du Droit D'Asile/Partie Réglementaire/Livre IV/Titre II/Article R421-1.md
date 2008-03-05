@@ -1,8 +1,7 @@
 Article R421-1
 ----
 La demande de regroupement familial est formulée sur un imprimé dont le modèle
-est établi par arrêté conjoint du ministre chargé de l'intégration et du
-ministre de l'intérieur.
+est établi par arrêté du ministre chargé de l'immigration.
 
 Elle comporte l'engagement du demandeur :
 

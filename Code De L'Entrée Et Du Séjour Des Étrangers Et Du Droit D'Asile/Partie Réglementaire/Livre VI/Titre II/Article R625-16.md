@@ -7,5 +7,5 @@ correspondant à la différence entre le second montant et le premier.
 
 Le même comptable procède à la restitution de tout ou partie de la somme
 consignée dans un délai d'un mois à compter de la date de réception par ses
-services du titre exécutoire ou de l'ordre de restitution du ministre de
-l'intérieur.
+services du titre exécutoire ou de l'ordre de restitution du ministre chargé de
+l'immigration.
