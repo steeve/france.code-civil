@@ -9,7 +9,7 @@ La commission comprend, en outre :
 
 2° Un représentant du ministre des affaires étrangères ;
 
-3° Un représentant du ministre chargé de la population et des migrations ;
+3° Un représentant du ministre chargé de l'immigration ;
 
 4° Un représentant du ministre de l'intérieur.
 

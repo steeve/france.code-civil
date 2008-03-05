@@ -1,12 +1,13 @@
 Article D611-3
 ----
-I. - Pourront seuls être destinataires des informations contenues dans ces
+I.-Pourront seuls être destinataires des informations contenues dans ces
 différents fichiers :
 
 1° S'agissant du fichier national des dossiers des ressortissants étrangers en
-France et de chacun des fichiers départementaux, les services de la direction
-des libertés publiques et des affaires juridiques compétents pour l'application
-de la réglementation relative aux étrangers ;
+France et de chacun des fichiers départementaux, les services de
+l'administration centrale du ministère chargé de l'immigration et ceux de
+l'administration centrale du ministère de l'intérieur, compétents pour
+l'application de la réglementation relative aux étrangers ;
 
 2° S'agissant du fichier national des dossiers des ressortissants étrangers en
 France et du seul fichier départemental des dossiers des ressortissants
@@ -26,16 +27,16 @@ services de l'Office français de protection des réfugiés et apatrides ;
 services compétents des préfectures et sous-préfectures, à la seule fin
 d'instruire les demandes de délivrance ou d'échange des permis de conduire.
 
-II. - Peuvent en outre accéder aux données mentionnées à l'article D. 611-2,
-dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23
-janvier 2006 relative à la lutte contre le terrorisme et portant dispositions
-diverses relatives à la sécurité et aux contrôles transfrontaliers :
+II.-Peuvent en outre accéder aux données mentionnées à l'article D. 611-2, dans
+les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier
+2006 relative à la lutte contre le terrorisme et portant dispositions diverses
+relatives à la sécurité et aux contrôles transfrontaliers :
 
-- les agents des services de la direction générale de la police nationale et de
+-les agents des services de la direction générale de la police nationale et de
 la direction générale de la gendarmerie nationale chargés des missions de
 prévention et de répression des actes de terrorisme ;
 
-- les agents des services de renseignement du ministère de la défense chargés
-des missions de prévention des actes de terrorisme.
+-les agents des services de renseignement du ministère de la défense chargés des
+missions de prévention des actes de terrorisme.
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2008.

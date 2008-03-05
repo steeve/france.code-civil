@@ -1,8 +1,8 @@
 Article D611-1
 ----
 Un système informatisé de gestion des dossiers des ressortissants étrangers en
-France est mis en oeuvre par le ministère de l'intérieur. Les finalités de ce
-système, définies de manière limitative, sont les suivantes :
+France est mis en oeuvre par le ministère chargé de l'immigration. Les finalités
+de ce système, définies de manière limitative, sont les suivantes :
 
 1° Améliorer les procédures relatives au règlement de la situation
 administrative d'un ressortissant étranger en France ;
@@ -16,4 +16,4 @@ examiner la situation de l'étranger au regard du séjour en France d'effectuer
 les vérifications nécessaires ;
 
 4° Permettre l'établissement de statistiques selon des modalités fixées par
-l'arrêté du ministre de l'intérieur.
+arrêté du ministre chargé de l'immigration.
