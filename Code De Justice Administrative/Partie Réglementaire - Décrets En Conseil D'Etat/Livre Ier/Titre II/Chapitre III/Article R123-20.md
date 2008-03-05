@@ -35,7 +35,10 @@ d'outre-mer ou à la Nouvelle-Calédonie ;
 e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en
 droit interne d'une directive communautaire ;
 
-f) Projets de loi ou d'ordonnance procédant à la codification de la législation.
+f) Projets de loi ou d'ordonnance procédant à la codification de la législation
+;
+
+g) Projets de loi ou d'ordonnance ne soulevant pas de difficulté.
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à
 l'assemblée générale plénière.

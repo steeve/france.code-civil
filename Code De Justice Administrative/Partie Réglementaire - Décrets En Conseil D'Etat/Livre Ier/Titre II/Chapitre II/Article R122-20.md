@@ -13,12 +13,13 @@ jugée ou, si l'instruction a été faite dans les conditions prévues au premie
 alinéa de l'article R. 611-20, le président de la sous-section à laquelle
 l'affaire a été initialement attribuée ;
 
-5° Le rapporteur.
+5° Les quatre présidents de sous-section les plus anciens dans leurs fonctions
+en dehors du précédent ;
+
+6° Le rapporteur.
 
 La présidence de l'assemblée du contentieux appartient au vice-président du
 Conseil d'Etat.
 
 L'assemblée ne peut valablement siéger que si neuf de ses membres ou leurs
 suppléants sont présents.
-
-En cas de partage égal, la voix du président est prépondérante.

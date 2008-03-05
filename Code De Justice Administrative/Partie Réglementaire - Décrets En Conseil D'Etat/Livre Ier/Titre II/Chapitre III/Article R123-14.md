@@ -7,17 +7,19 @@ L'assemblée générale ordinaire comprend avec voix délibérative :
 2° L'un des présidents adjoints de la section du contentieux suppléé, le cas
 échéant, par un autre président adjoint ;
 
-3° Douze conseillers d'Etat désignés chaque année par le vice-président du
-Conseil d'Etat sur proposition du président de la section du contentieux parmi
-les conseillers affectés à cette section ;
+3° Les présidents adjoints des sections administratives ;
 
-4° Trois conseillers d'Etat dont deux au moins en service ordinaire par section
-administrative, désignés chaque année par le vice-président du Conseil d'Etat
-sur proposition du président de la section administrative intéressée.
+4° Dix conseillers d'Etat désignés chaque année par le vice-président du Conseil
+d'Etat sur proposition du président de la section du contentieux parmi les
+conseillers affectés à cette section ;
 
-Un suppléant est désigné pour chacun des conseillers d'Etat prévus aux 3° et 4°
-ci-dessus. Le tiers desdits conseillers et des suppléants est renouvelé chaque
-année.
+5° Un conseiller d'Etat par section administrative, désigné chaque année par le
+vice-président du Conseil d'Etat sur proposition du président de la section
+administrative intéressée.
+
+Deux suppléants sont désignés, pour chacun des conseillers d'Etat prévus aux 3°,
+4° et 5°, parmi les conseillers d'Etat et les maîtres des requêtes. Ceux-ci ont
+alors voix délibérative.
 
 Les autres membres du Conseil d'Etat ont accès à l'assemblée générale ordinaire
 avec voix consultative ; ils ont voix délibérative dans les affaires dont ils

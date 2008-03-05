@@ -11,5 +11,6 @@ du contentieux. En cas d'absence ou d'empêchement du président, la sous-sectio
 est présidée par l'assesseur le plus ancien.
 
 Lorsqu'elle siège en formation d'instruction, une sous-section peut délibérer en
-nombre pair. Les conseillers d'Etat ont voix délibérative. En cas de partage, on
-appelle le plus ancien rapporteur dans l'ordre du tableau présent à la séance.
+nombre pair. Le président, les assesseurs et les rapporteurs ont voix
+délibérative dans toutes les affaires. En cas de partage égal, la voix du
+président est prépondérante.

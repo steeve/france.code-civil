@@ -10,4 +10,6 @@ Les sections administratives du Conseil d'Etat sont :
 
 - la section sociale ;
 
+- la section de l'administration ;
+
 - la section du rapport et des études.
