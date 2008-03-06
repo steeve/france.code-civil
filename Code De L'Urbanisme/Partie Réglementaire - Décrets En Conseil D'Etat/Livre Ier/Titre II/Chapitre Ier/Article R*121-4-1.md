@@ -26,7 +26,19 @@ Euroméditerranée ;
 f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de
 l'Etablissement public d'aménagement de Seine-Arche à Nanterre ;
 
-g) A l'aménagement et au développement des aérodromes de Paris -
-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget, à l'intérieur des
+g) A l'aménagement et au développement des aérodromes de
+Paris-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget, à l'intérieur des
 périmètres délimités, pour l'application de l'article L. 251-3 du code de
-l'aviation civile, par le cahier des charges d'Aéroports de Paris.
+l'aviation civile, par le cahier des charges d'Aéroports de Paris ;
+
+h) A l'aménagement de Saint-Etienne, dans le périmètre défini par décret en
+Conseil d'Etat ;
+
+i) A l'aménagement du secteur du Mantois-Seine aval, dans les périmètres définis
+par décret en Conseil d'Etat ;
+
+j) A l'aménagement du secteur d'Orly-Rungis-Seine amont, dans les périmètres
+définis par décret en Conseil d'Etat ;
+
+k) Aux opérations d'aménagement de la Plaine du Var, dans le périmètre défini
+par décret en Conseil d'Etat (1).
