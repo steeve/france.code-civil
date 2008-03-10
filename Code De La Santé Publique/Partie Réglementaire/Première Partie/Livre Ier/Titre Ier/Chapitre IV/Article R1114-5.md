@@ -10,8 +10,8 @@ a) Le directeur général de la santé ou son représentant ;
 b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
 représentant ;
 
-c) Le délégué interministériel à l'innovation sociale et à l'économie sociale ou
-son représentant ;
+c) Le directeur de la vie associative, de l'emploi et de la formation ou son
+représentant ;
 
 d) Le président de la mission interministérielle de vigilance et de lutte contre
 les dérives sectaires ou son représentant ;
