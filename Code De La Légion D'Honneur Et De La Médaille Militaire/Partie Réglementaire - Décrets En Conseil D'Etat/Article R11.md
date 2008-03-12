@@ -2,10 +2,10 @@ Article R11
 ----
 Le conseil de l'ordre de la Légion d'honneur comprend :
 
-Le grand chancelier, président ;
+- le grand chancelier, président ;
 
-Quatorze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+- quinze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
 
-Un membre titulaire du grade d'officier ;
+- un membre choisi parmi les officiers ;
 
-Un membre titulaire du grade de chevalier.
+- un membre choisi parmi les chevaliers.
