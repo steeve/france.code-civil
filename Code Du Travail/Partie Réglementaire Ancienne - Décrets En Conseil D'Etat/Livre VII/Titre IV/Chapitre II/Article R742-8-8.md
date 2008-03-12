@@ -1,23 +1,18 @@
 Article R742-8-8
 ----
 Les représentants du personnel à la section des gens de mer bénéficient, au
-titre du temps nécessaire à l'exercice de leurs fonctions, d'au moins [*crédit
-d'heures*] :
+titre du temps nécessaire à l'exercice de leurs fonctions, d'au moins :
 
-- 12 heures par semestre dans les établissements occupant jusqu'à 99 salariés
-[*condition d'effectif*] ;
+-12 heures par semestre dans les établissements occupant jusqu'à 99 salariés ;
 
-- 30 heures par semestre dans les établissements occupant de 100 à 299 salariés
+-30 heures par semestre dans les établissements occupant de 100 à 299 salariés ;
+
+-60 heures par semestre dans les établissements occupant de 300 à 499 salariés ;
+
+-90 heures par semestre dans les établissements occupant de 500 à 1499 salariés
 ;
 
-- 60 heures par semestre dans les établissements occupant de 300 à 499 salariés
-;
-
-- 90 heures par semestre dans les établissements occupant de 500 à 1499 salariés
-;
-
-- 120 heures par semestre dans les établissements occupant plus de 1500
-salariés.
+-120 heures par semestre dans les établissements occupant plus de 1500 salariés.
 
 Ce temps peut être dépassé en cas de circonstances exceptionnelles.
 

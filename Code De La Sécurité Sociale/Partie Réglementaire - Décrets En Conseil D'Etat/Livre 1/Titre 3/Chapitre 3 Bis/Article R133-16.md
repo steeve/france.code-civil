@@ -1,12 +1,25 @@
 Article R133-16
 ----
-Le recours au titre emploi-entreprise occasionnel vaut, à l'égard des salariés
-employés au moyen de ce titre, respect des obligations qui incombent à
-l'employeur en matière de déclarations auprès des administrations ou organismes
-intéressés mentionnées aux articles R. 243-10, R. 243-13, R. 243-14 et R. 312-4
-du présent code, aux articles R. 351-2 à R. 351-4 du code du travail et à
-l'article 87 du code général des impôts, ainsi qu'en matière de déclarations
-prévues pour l'application des dispositions des articles R. 241-1 et R. 241-48
-du code du travail et de déclarations prescrites par les institutions
-mentionnées au livre IX du présent code et, le cas échéant, par les organismes
-mentionnés à l'article L. 223-16 du code du travail.
+A défaut d'accord prévu au dernier alinéa de l'article L. 133-5-3, les modalités
+de transmission des déclarations des employeurs qui recourent au titre
+emploi-entreprise occasionnel et de répartition de leurs versements de
+cotisations et contributions sont régies par les dispositions du présent
+article.
+
+Les opérations de transmission des informations et de répartition des versements
+mentionnées au premier alinéa ne donnent pas lieu à perception de frais de
+gestion.
+
+Les cotisations et contributions versées par les employeurs mentionnés au
+premier alinéa aux organismes de recouvrement habilités, au bénéfice des autres
+régimes dont relèvent ces employeurs, sont centralisées mensuellement sur un
+compte ouvert dans les écritures de l'Agence centrale des organismes de sécurité
+sociale au profit des organismes nationaux pour le compte desquels ces
+cotisations et contributions sont recouvrées.
+
+Dans les quinze premiers jours de chaque mois, l'Agence centrale des organismes
+de sécurité sociale met à disposition des organismes nationaux mentionnés à
+l'alinéa précédent une provision égale à 95 % du montant des cotisations et
+contributions recouvrées pour leur compte au cours du mois précédent. Le
+versement de régularisation intervient dans les deux mois suivant la mise à
+disposition de la provision.

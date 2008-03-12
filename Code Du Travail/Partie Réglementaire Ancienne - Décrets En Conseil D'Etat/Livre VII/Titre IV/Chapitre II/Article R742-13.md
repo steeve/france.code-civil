@@ -14,4 +14,4 @@ Quand le ministre ou le directeur saisit spontanément la commission, il adresse
 
 Les requêtes et communications susvisées doivent être inscrites à leur date sur
 un registre tenu au ministère de la marine marchande ou dans chaque direction
-des affaires maritimes [*formalités*].
+des affaires maritimes.

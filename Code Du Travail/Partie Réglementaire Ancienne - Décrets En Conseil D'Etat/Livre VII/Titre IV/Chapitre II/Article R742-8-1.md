@@ -7,7 +7,7 @@ salariés.
 Dans celles de ces entreprises qui comportent des comités d'établissement en
 application des dispositions du présent code, des comités d'hygiène, de sécurité
 et des conditions de travail sont constitués dans les établissements qui
-regroupent au moins cinquante salariés [*CHSCT, conditions d'effectif*].
+regroupent au moins cinquante salariés.
 
 Lorsqu'une entreprise ou un établissement réunit du personnel sédentaire et des
 gens de mer, le comité de cette entreprise ou de cet établissement comporte deux

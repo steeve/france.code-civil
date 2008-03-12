@@ -2,7 +2,7 @@ Article R742-8-7
 ----
 Les articles L. 236-2 et L. 236-2-1 (2e alinéa) du code du travail sont
 applicables à la section des gens de mer compte tenu des règles particulières
-ci-après énoncées [*attributions*] :
+ci-après énoncées :
 
 1° En cas d'accident ayant entraîné ou ayant pu entraîner des conséquences
 graves, l'enquête éventuellement décidée peut comporter des déplacements à

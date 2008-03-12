@@ -1,7 +1,7 @@
 Article R742-5
 ----
 Une commission nationale de la négociation collective de la marine marchande
-siège auprès du ministre chargé de la marine marchande [*tutelle*].
+siège auprès du ministre chargé de la marine marchande.
 
 Cette commission donne au ministre un avis motivé sur l'extension des
 conventions collectives prévue à l'article R. 742-2.

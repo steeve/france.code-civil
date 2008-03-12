@@ -4,8 +4,7 @@ Le personnel des hôtels, cafés, restaurants reçoit un salaire calculé sur la
 base de quarante-trois heures payées au taux du salaire minimum de croissance,
 le salaire ainsi établi correspondant à une durée hebdomadaire de présence de
 quarante-trois heures pour les cuisiniers, cinquante-deux heures pour les
-veilleurs de nuit et quarante-cinq heures pour les autres personnels [*montant,
-durée*].
+veilleurs de nuit et quarante-cinq heures pour les autres personnels.
 
 L'application de ces dispositions aux salariés autres que les cuisiniers,
 employés sur la base d'un horaire hebdomadaire compris entre trente-neuf heures

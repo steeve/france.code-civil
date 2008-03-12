@@ -1,8 +1,28 @@
 Article R133-10
 ----
-L'employeur qui remplit les conditions fixées au 2° de l'article L. 133-5-3
-adhère au titre emploi-entreprise occasionnel au moyen d'un formulaire,
-homologué par arrêté du ministre chargé de la sécurité sociale, qu'il se procure
-auprès de l'union de recouvrement des cotisations de sécurité sociale et
-d'allocations familiales dont il relève ou auprès du centre national compétent
-pour le secteur professionnel auquel il appartient.
+Le titre emploi-entreprise occasionnel comprend un volet social, qui comporte
+notamment les mentions suivantes :
+
+1° Mentions relatives au salarié :
+
+a) Les nom et prénom ;
+
+b) Le numéro d'inscription au répertoire des personnes physiques ou, à défaut,
+la date de naissance ;
+
+2° Mentions relatives à l'activité exercée et à la rémunération :
+
+a) La période d'emploi ;
+
+b) Le nombre de jours ou d'heures rémunérés ;
+
+c) Les éléments constituant la rémunération ;
+
+d) La base forfaitaire retenue, le cas échéant ;
+
+e) Le cas échéant, le total des jours d'absence ainsi que le détail, par nature,
+de ces absences ;
+
+f) Le montant des frais professionnels ;
+
+3° Date de paiement de la rémunération et signature de l'employeur.

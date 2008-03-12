@@ -6,4 +6,4 @@ la marine marchande et après avis motivé de la commission nationale de la
 négociation collective de la marine marchande mentionnée à l'article R. 742-5
 être rendues obligatoires pour tous les armateurs et tous les personnels
 navigants compris dans le champ d'application de la convention ou de l'accord
-collectif [*arrêté d'extension*].
+collectif.

@@ -11,10 +11,9 @@ Un représentant du ministre chargé du travail ;
 
 Un représentant du ministre chargé des affaires économiques ;
 
-Neuf [*nombre*] représentants des armateurs, désignés respectivement pour la
-navigation de commerce et pour la pêche maritime, par les organisations
-syndicales nationales les plus représentatives dans chacun de ces deux genres de
-navigation ;
+Neuf représentants des armateurs, désignés respectivement pour la navigation de
+commerce et pour la pêche maritime, par les organisations syndicales nationales
+les plus représentatives dans chacun de ces deux genres de navigation ;
 
 Neuf représentants des personnels navigants désignés, respectivement pour la
 navigation de commerce et pour la pêche maritime, par les organisations
