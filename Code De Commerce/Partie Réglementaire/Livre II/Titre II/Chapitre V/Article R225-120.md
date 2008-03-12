@@ -54,13 +54,11 @@ Les indications prévues au présent article sont portées à la connaissance de
 actionnaires par lettre recommandée avec demande d'avis de réception quatorze
 jours au moins avant la date prévue de clôture de la souscription.
 
-Si la société fait appel public à l'épargne ou si toutes ses actions ne revêtent
-pas la forme nominative, l'avis contenant ces indications est inséré, dans le
-même délai, dans une notice publiée au Bulletin des annonces légales
-obligatoires. Toutefois, si la société fait appel public à l'épargne,
-l'information sur le prix définitif de l'émission peut être portée à la
-connaissance des actionnaires par un communiqué diffusé par la société selon les
-modalités prévues par le règlement général de l'Autorité des marchés financiers,
-au plus tard la veille de l'ouverture de la souscription. Dans ce cas, l'avis
-publié au Bulletin des annonces légales obligatoires indique les conditions de
-fixation du prix et de diffusion du communiqué.
+Si toutes les actions de la société ne revêtent pas la forme nominative, l'avis
+contenant ces indications est inséré, dans le même délai, dans une notice
+publiée au Bulletin des annonces légales obligatoires.
+
+Toutefois, si cette société fait appel public à l'épargne, elle rend publiques
+ces indications au moins quatorze jours avant la clôture de la souscription
+selon les modalités prévues par l'article L. 412-1 du code monétaire et
+financier et est dispensée des formalités prévues aux alinéas précédents.

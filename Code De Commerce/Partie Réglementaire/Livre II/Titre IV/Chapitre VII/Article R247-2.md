@@ -8,14 +8,13 @@ valeurs mobilières offertes au public :
 1° Sans que soit insérée au Bulletin des annonces légales obligatoires,
 préalablement à toute mesure de publicité, une notice établie conformément à
 l'article R. 225-3 concernant l'émission d'actions lors de la constitution de la
-société, au troisième alinéa de l'article R. 225-120 concernant les
-augmentations de capital ou aux articles R. 228-51, R. 228-57 et R. 228-58
-concernant l'émission d'obligations ou de titres participatifs ;
+société ou, au troisième alinéa de l'article R. 225-120 concernant les
+augmentations de capital ;
 
-2° Sans que les prospectus et documents reproduisent les énonciations de la
-notice prévue au 1° ci-dessus et contiennent la mention de l'insertion de cette
-notice au Bulletin des annonces légales obligatoires avec référence au numéro
-dans lequel elle a été publiée ;
+2° Sans que les documents reproduisent les énonciations de la notice prévue au
+1° ci-dessus et contiennent la mention de l'insertion de cette notice au
+Bulletin des annonces légales obligatoires avec référence au numéro dans lequel
+elle a été publiée ;
 
 3° Sans que les annonces dans les journaux reproduisent les mêmes énonciations,
 ou tout au moins un extrait de ces énonciations avec référence à cette notice,
