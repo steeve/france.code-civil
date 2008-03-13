@@ -2,7 +2,7 @@ Article D336-3
 ----
 Le baccalauréat technologique comprend les séries suivantes :
 
-1° Série SMS : sciences médico-sociales ;
+1° Série ST2S : sciences et technologies de la santé et du social ;
 
 2° Série STI : sciences et technologies industrielles ;
 

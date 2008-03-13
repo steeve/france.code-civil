@@ -1,6 +1,6 @@
 Article D314-103
 ----
-Le conseil du Centre de liaison de l'enseignement et des moyens d'information se
+Le conseil du Centre de liaison de l'enseignement et des médias d'information se
 réunit deux fois par an en séance plénière.
 
 Sur proposition du président, le conseil peut désigner une commission permanente

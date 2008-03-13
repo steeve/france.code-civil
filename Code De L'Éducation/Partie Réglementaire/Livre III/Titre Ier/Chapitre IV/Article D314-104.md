@@ -1,6 +1,6 @@
 Article D314-104
 ----
-Le directeur du Centre de liaison de l'enseignement et des moyens d'information
+Le directeur du Centre de liaison de l'enseignement et des médias d'information
 prépare les travaux et délibérations du conseil d'orientation et de
 perfectionnement.
 

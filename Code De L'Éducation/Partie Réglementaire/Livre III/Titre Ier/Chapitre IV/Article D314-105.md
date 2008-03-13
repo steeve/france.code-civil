@@ -1,6 +1,6 @@
 Article D314-105
 ----
-Le directeur du Centre de liaison de l'enseignement et des moyens d'information
+Le directeur du Centre de liaison de l'enseignement et des médias d'information
 est nommé par arrêté du ministre chargé de l'éducation, après avis du directeur
 général du Centre national de documentation pédagogique.
 

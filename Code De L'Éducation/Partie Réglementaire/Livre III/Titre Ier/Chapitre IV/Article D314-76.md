@@ -43,10 +43,10 @@ pédagogique ;
 Par dérogation aux dispositions du 2°, les paragraphes 4 et 5 de la présente
 sous-section définissent l'organisation et le fonctionnement du Centre de
 ressources et d'information sur les multimédias pour l'enseignement supérieur et
-du Centre de liaison de l'enseignement et des moyens d'information, qui
+du Centre de liaison de l'enseignement et des médias d'information, qui
 constituent des services de l'établissement.
 
 Dans les limites qu'il détermine, le conseil d'administration peut déléguer au
-directeur général les pouvoirs prévus aux 6°, 7° et 13°. Celui-ci lui rend
+directeur général les pouvoirs prévus aux 6°,7° et 13°. Celui-ci lui rend
 compte, lors de sa plus prochaine séance, des décisions qu'il a prises en vertu
 de cette délégation.
