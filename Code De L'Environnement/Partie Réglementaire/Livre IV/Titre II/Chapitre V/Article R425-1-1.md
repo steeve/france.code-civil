@@ -1,17 +1,21 @@
 Article R425-1-1
 ----
-Le plan de chasse aux cerfs, daims, mouflons, chamois, isards et chevreuils est
-de droit.
+Le plan de chasse est obligatoire pour les cerfs, daims, mouflons, chamois,
+isards et chevreuils.
 
-Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et
-qu'il porte sur un département, le plan de chasse est institué par le préfet sur
-proposition du directeur départemental de l'agriculture et de la forêt après
-avis de la commission départementale de la chasse et de la faune sauvage et du
-président de la fédération départementale des chasseurs. Le préfet peut
-instituer un plan de chasse dans les mêmes conditions pour une partie seulement
-du département à la condition que celle-ci constitue une unité de gestion de
-l'espèce.
+Après avis de la commission départementale de la chasse et de la faune sauvage,
+le préfet peut décider que le plan de chasse est, sur tout ou partie du
+département, obligatoire pour une espèce de gibier autre que celles mentionnées
+au premier alinéa. S'agissant des sangliers, l'instauration d'un plan de chasse
+est en outre soumise à l'avis de la fédération départementale ou
+interdépartementale des chasseurs.
 
-Lorsqu'il concerne le gibier d'eau ou qu'il porte sur plusieurs départements, le
-plan de chasse est institué par le ministre chargé de la chasse après avis du
-Conseil national de la chasse et de la faune sauvage.
+Le plan de chasse est annuel. Pour le grand gibier, il peut être fixé, après
+avis de la commission départementale de la chasse et de la faune sauvage, pour
+une période de trois ans. Dans ce dernier cas, il peut faire l'objet d'une
+révision annuelle.
+
+Lorsqu'un territoire cynégétique s'étend sur plusieurs départements et constitue
+une unité cohérente pour la gestion cynégétique, les décisions mentionnées aux
+deuxième et troisième alinéas font l'objet sur ce territoire de décisions
+conjointes des préfets intéressés.

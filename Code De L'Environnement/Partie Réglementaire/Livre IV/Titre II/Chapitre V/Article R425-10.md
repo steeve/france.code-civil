@@ -18,6 +18,12 @@ Les dispositifs de marquage sont délivrés par la fédération départementale 
 chasseurs au bénéficiaire du plan de chasse en nombre égal à celui du nombre
 maximum d'animaux à tirer qui lui a été accordé.
 
+La délivrance des dispositifs de marquage est subordonnée au versement à la
+fédération départementale ou interdépartementale des chasseurs par le
+bénéficiaire du plan de chasse, de la contribution mentionnée au troisième
+alinéa de l'article L. 426-5 et, le cas échéant, des participations prévues au
+quatrième alinéa du même article.
+
 Dans le cas prévu au deuxième alinéa, des dispositifs de prémarquage peuvent
 être délivrés au bénéficiaire du plan de chasse, à sa demande et sur décision du
 préfet, en nombre supérieur à celui des têtes de gibier accordé.
