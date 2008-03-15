@@ -1,9 +1,15 @@
 Article L221
 ----
-En cas de vacance par décès, option, démission, par une des causes énumérées aux
-articles L. 205, L. 209 et L. 210 et à l'alinéa 1 de l'article 19 de la loi du
-10 août 1871 ou par toute autre cause, les électeurs doivent être réunis dans le
-délai de trois mois.
+Le conseiller général dont le siège devient vacant pour cause de décès, de
+démission intervenue en application des articles L. 46-1, L. 46-2 ou LO 151-1 du
+présent code, de présomption d'absence au sens de l'article 112 du code civil ou
+d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé
+jusqu'au renouvellement de la série dont il est issu par la personne élue en
+même temps que lui à cet effet.
+
+En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut
+plus être appliqué, il est procédé à une élection partielle dans le délai de
+trois mois.
 
 Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les
 trois mois de la vacance, l'élection partielle se fait à la même époque.
