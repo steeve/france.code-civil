@@ -21,11 +21,10 @@ préfectoraux concernant la circulation, l'arrêt et le stationnement des
 véhicules dans les cours de gares ;
 
 c) L'article 3, alinéa 1, du décret n° 86-1130 du 17 octobre 1986 modifié
-relatif à l'application des dispositions du règlement CEE n° 38-20/85 du Conseil
-du 20 décembre 1985 relatif à l'harmonisation de certaines dispositions en
-matière sociale dans le domaine du transport par route et du règlement CEE n°
-38-21/85 du Conseil du 20 décembre 1985 concernant l'appareil de contrôle dans
-le domaine du transport par route ;
+relatif aux obligations et aux sanctions applicables dans le champ de la
+réglementation sociale communautaire concernant les transports routiers et de
+l'accord européen relatif au travail des équipages des véhicules effectuant des
+transports internationaux par route (AETR) du 1er juillet 1970 ;
 
 d) L'article 22-2 du décret n° 90-200 du 5 mars 1990 modifié relatif à
 l'exercice de la profession de commissionnaire de transport ;
@@ -112,7 +111,7 @@ f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identificati
 des chiens, des chats et autres carnivores domestiques et à la tenue des locaux
 où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
-pour l'application des articles 276, 276-2 et 276-3 du code rural ;
+pour l'application des articles 276,276-2 et 276-3 du code rural ;
 
 g) Les articles R. 215-6 et R. 215-7 du code rural ;
 
