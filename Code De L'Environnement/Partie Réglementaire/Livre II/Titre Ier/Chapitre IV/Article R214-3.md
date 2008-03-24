@@ -14,8 +14,9 @@ de mines dans les départements d'outre-mer ;
 4° Le décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres
 de stockage souterrain ;
 
-5° Le décret n° 95-540 du 4 mai 1995 relatif aux rejets d'effluents liquides et
-gazeux et aux prélèvements d'eau des installations nucléaires de base ;
+5° Le décret n° 2007-1557 du 2 novembre 2007 relatif aux installations
+nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport
+de substances radioactives ;
 
 6° Le décret n° 2006-649 du 2 juin 2006 relatif aux travaux miniers, aux travaux
 de stockage souterrain et à la police des mines et des stockages souterrains.

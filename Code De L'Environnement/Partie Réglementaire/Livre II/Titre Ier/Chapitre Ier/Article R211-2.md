@@ -10,9 +10,9 @@ décret n° 80-331 du 7 mai 1980 portant règlement général des industries
 extractives ;
 
 3° Aux rejets d'effluents liquides et aux prélèvements d'eau des installations
-nucléaires de base régis par le décret n° 95-540 du 4 mai 1995 relatif aux
-rejets d'effluents liquides et gazeux et aux prélèvements d'eau des
-installations nucléaires de base ;
+nucléaires de base régis par le décret n° 2007-1557 du 2 novembre 2007 relatif
+aux installations nucléaires de base et au contrôle, en matière de sûreté
+nucléaire, du transport de substances radioactives ;
 
 4° Aux titres miniers et aux titres de stockage souterrain régis par le décret
 n° 2006-648 du 2 juin 2006 ;
