@@ -4,7 +4,7 @@ Le propriétaire d'un ascenseur installé avant le 27 août 2000 qui ne répond 
 aux objectifs de sécurité mentionnés à l'article R. 125-1-1 met en place les
 dispositifs de sécurité suivants :
 
-I. - Avant le 3 juillet 2008 :
+I.-Avant le 31 décembre 2010.
 
 1. Des serrures munies de dispositifs de contrôle de la fermeture et du
 verrouillage des portes palières ;
@@ -37,7 +37,7 @@ technique de la gaine et de la cuvette ainsi que des portes de secours, avec une
 commande automatique de l'arrêt de l'ascenseur lors de l'ouverture de ces portes
 et portillons par les personnels d'intervention.
 
-II. - Avant le 3 juillet 2013 :
+II.-Avant le 3 juillet 2013 :
 
 1. Dans les ascenseurs installés avant le 1er janvier 1983, un système de
 contrôle de l'arrêt et du maintien à niveau de la cabine de nature à assurer, à
@@ -65,7 +65,7 @@ ou courroies ;
 7. Un éclairage fixe du local de machines ou de poulies assurant un éclairement
 suffisant des zones de travail et de circulation.
 
-III. - Avant le 3 juillet 2018 :
+III.-Avant le 3 juillet 2018 :
 
 1. Dans les ascenseurs installés après le 31 décembre 1982, un système de
 contrôle de l'arrêt et du maintien à niveau de la cabine pour assurer, à tous
