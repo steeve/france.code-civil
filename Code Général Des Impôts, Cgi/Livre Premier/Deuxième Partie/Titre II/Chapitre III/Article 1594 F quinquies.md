@@ -65,19 +65,18 @@ l'engagement d'exploiter est pris par le descendant. L'aliénation ou la locatio
 du bien acquis consentie à titre onéreux par l'acquéreur au descendant installé
 n'entraîne pas la déchéance du bénéfice du taux réduit.
 
-E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de
-développement prioritaire délimités par le décret n° 94-1139 du 26 décembre 1994
-modifié et dans les zones de revitalisation rurale définies au II de l'article
-1465 A, qui sont effectuées par les agriculteurs bénéficiaires des aides à
-l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du
-code rural, que les intéressés soient exploitants individuels ou associés d'une
-société civile à objet agricole, pour la fraction du prix ou de la valeur
-n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous
-réserve qu'elles interviennent au cours des quatre années suivant l'octroi des
-aides, que l'acte précise la valeur des terres acquises depuis cette date par
-l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat
-délivré sans frais par le directeur départemental de l'agriculture et de la
-forêt précisant la date de l'octroi des aides.
+E. I. Les acquisitions d'immeubles ruraux situés dans les zones de
+revitalisation rurale définies au II de l'article 1465 A, qui sont effectuées
+par les agriculteurs bénéficiaires des aides à l'installation des jeunes
+agriculteurs prévue aux articles D. 343-9 et D. 343-13 du code rural, que les
+intéressés soient exploitants individuels ou associés d'une société civile à
+objet agricole, pour la fraction du prix ou de la valeur n'excédant pas 99 000
+euros, quel que soit le nombre des acquisitions, sous réserve qu'elles
+interviennent au cours des quatre années suivant l'octroi des aides, que l'acte
+précise la valeur des terres acquises depuis cette date par l'acquéreur ayant
+bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par
+le directeur départemental de l'agriculture et de la forêt précisant la date de
+l'octroi des aides.
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous
 réserve que l'acquéreur prenne, dans l'acte d'acquisition, l'engagement, pour
@@ -89,15 +88,15 @@ bénéficiaire des aides à l'installation.
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une
 valeur globale n'excédant pas 99 000 euros.
 
-F. Les ventes résultant de l'application des articles L128-4 à L128-7 du code
-rural relatifs à la mise en valeur agricole des terres incultes, des terres
+F. Les ventes résultant de l'application des articles L. 128-4 à L. 128-7 du
+code rural relatifs à la mise en valeur agricole des terres incultes, des terres
 laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe,
 de la Martinique, de la Réunion et de la Guyane.
 
 G. Dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de
 la Guyane, les opérations immobilières effectuées, en vue de l'accession à la
 propriété rurale, par les sociétés d'aménagement foncier et d'établissement
-rural mentionnées au troisième alinéa de l'article L128-7 du code rural, ainsi
+rural mentionnées au troisième alinéa de l'article L. 128-7 du code rural, ainsi
 que par les sociétés d'intérêt collectif agricole, ayant fait l'objet d'un
 agrément avant la publication de la loi n° 69-1168 du 26 décembre 1969.
 
@@ -123,7 +122,7 @@ K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans
 le périmètre de lotissements qui sont agréés dans des conditions fixées par
 décret.
 
-L. - Les acquisitions en vue de leur revente de lots de copropriétés faisant
+L.-Les acquisitions en vue de leur revente de lots de copropriétés faisant
 l'objet d'un plan de sauvegarde, en application de l'article L. 615-1 du code de
 la construction et de l'habitation, par des sociétés anonymes et des sociétés
 anonymes coopératives de production d'habitations à loyers modérés ainsi que par

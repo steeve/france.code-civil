@@ -45,7 +45,7 @@ fait l'objet d'une procédure de conciliation, de sauvegarde ou de redressement
 judiciaire ou lorsque sa situation financière rend imminente sa cessation
 d'activité.
 
-L'agrément mentionné au sixième alinéa est accordé si l'octroi de l'exonération
+L'agrément mentionné au septième alinéa est accordé si l'octroi de l'exonération
 dont bénéficierait l'entreprise n'altère pas les échanges dans une mesure
 contraire à l'intérêt commun.
 
@@ -54,7 +54,7 @@ résultant des transferts d'immobilisations à l'intérieur de la Corse.
 
 III.-La diminution des bases de taxe professionnelle résultant du I n'est pas
 prise en compte pour l'application des dispositions de l'article 1647 bis. Les
-dispositions du I s'appliquent après celles prévues aux articles 1464 A,1464 E
+dispositions du I s'appliquent après celles prévues aux articles 1464 A, 1464 E
 et 1464 F.
 
 IV.-Pour bénéficier des dispositions du présent article, les entreprises
@@ -65,8 +65,8 @@ V.-La délibération prévue au I doit viser l'ensemble des établissements cré
 étendus.
 
 VI.-Lorsqu'un établissement remplit à la fois les conditions requises pour
-bénéficier de l'une des exonérations mentionnées aux articles 1464 B,1465,1465
-A,1465 B et 1466 A et celles du présent article, le contribuable doit préciser
+bénéficier de l'une des exonérations mentionnées aux articles 1464 B, 1465, 1465
+A, 1465 B et 1466 A et celles du présent article, le contribuable doit préciser
 le régime sous lequel il entend se placer. Ce choix, qui est irrévocable, doit
 être exercé, selon le cas, dans le délai prévu pour le dépôt de la déclaration
 annuelle ou de la déclaration provisoire de taxe professionnelle visée à

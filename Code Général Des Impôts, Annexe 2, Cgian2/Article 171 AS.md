@@ -11,8 +11,5 @@ taxes et du bénéfice retirés de ces prestations.
 III. - Les sociétés de capital-risque joignent à leur déclaration de résultats
 un état, établi selon un modèle fourni par l'administration, des bénéfices et
 réserves distribuables réalisés ou constituées à compter de l'ouverture du
-premier exercice au titre duquel elles ont opté pour le régime fiscal du
-deuxième alinéa du 3° septies de l'article 208 du code général des impôts. Pour
-les sociétés de capital-risque qui étaient précédemment soumises au régime
-fiscal du premier alinéa du 3° septies de cet article, l'état inclut les
-réserves distribuables constituées sous ce dernier régime.
+premier exercice au titre duquel elles ont opté pour le régime fiscal du 3°
+septies de l'article 208 du code général des impôts.

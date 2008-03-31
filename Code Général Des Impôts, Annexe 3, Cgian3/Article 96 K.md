@@ -5,8 +5,8 @@ produite auprès de l'administration des douanes sur support papier ou par voie
 informatique, au plus tard le dixième jour ouvrable qui suit :
 
 a) Pour les livraisons, le mois au cours duquel la taxe est devenue exigible
-dans l'autre Etat membre conformément à l'article 28 quinquies-2 de la directive
-(CEE) n° 77/388 modifiée du 17 mai 1977 du Conseil des Communautés européennes ;
+dans l'autre Etat membre conformément au 1 de l'article 69 de la directive 2006
+/ 112 / CE du Conseil du 28 novembre 2006 ;
 
 b) Pour les acquisitions intracommunautaires de biens, le mois au cours duquel
 la taxe est devenue exigible ;
@@ -15,9 +15,9 @@ c) Pour les autres opérations, le mois au cours duquel a eu lieu le mouvement d
 marchandises.
 
 Lorsque la déclaration est produite sur support papier, elle est obligatoirement
-établie sur les formulaires CERFA intitulés "déclaration d'échanges de biens
-entre Etats membres de la Communauté européenne" ou "déclaration simplifiée
-d'échanges de biens entre Etats membres de la Communauté européenne". Des
+établie sur les formulaires CERFA intitulés " déclaration d'échanges de biens
+entre Etats membres de la Communauté européenne " ou " déclaration simplifiée
+d'échanges de biens entre Etats membres de la Communauté européenne ". Des
 dérogations peuvent être accordées aux entreprises remplissant les conditions
 déterminées par arrêtés.
 

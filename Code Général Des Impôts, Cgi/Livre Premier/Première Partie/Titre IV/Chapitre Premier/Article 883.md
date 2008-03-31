@@ -8,7 +8,7 @@ d'apport en société, des droits de mutation par décès et des droits de mutat
 à titre onéreux dus sur les acquisitions effectuées par les Français rapatriés
 d'outre-mer à l'aide des prêts de reclassement et sur celles effectuées par des
 migrants agricoles à l'aide de prêts consentis dans le cadre des dispositions de
-l'article 686 du code rural (1);
+l'article R. 341-5 du code rural ;
 
 2° A la vente des biens mis sous séquestre ou en liquidation en conséquence
 d'une mesure de sûreté générale.
@@ -27,5 +27,3 @@ b. A l'article L. 211-11 du code de l'action sociale et des familles, concernant
 les associations familiales et les unions d'associations familiales ;
 
 c. à h. (Dispositions périmées).
-
-(1) Voir annexe III, art. 396.

@@ -64,15 +64,15 @@ L. 481-1-1 du même code et les sociétés anonymes de coordination entre les
 organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du
 même code pour :
 
-a. - les opérations réalisées au titre du service d'intérêt général défini aux
-neuvième, dixième et onzième alinéas de l'article L. 411-2 du même code ainsi
+a.-les opérations réalisées au titre du service d'intérêt général défini aux
+septième, huitième et neuvième alinéas de l'article L. 411-2 du même code ainsi
 que les services accessoires à ces opérations ;
 
-b. - les produits engendrés par les locaux annexes et accessoires des ensembles
+b.-les produits engendrés par les locaux annexes et accessoires des ensembles
 d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que
 ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
-c. - les produits financiers issus du placement de la trésorerie de ces
+c.-les produits financiers issus du placement de la trésorerie de ces
 organismes.
 
 La fraction du bénéfice provenant d'activités autres que celles visées aux
@@ -113,8 +113,8 @@ la construction et de l'habitation, et dont les dirigeants de droit ou de fait
 ne sont pas rémunérés, pour :
 
 a. les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même
-code lorsqu'elles relèvent du service d'intérêt général défini aux neuvième et
-onzième alinéas de l'article L. 411-2 du même code ainsi que les services
+code lorsqu'elles relèvent du service d'intérêt général défini aux septième et
+neuvième alinéas de l'article L. 411-2 du même code ainsi que les services
 accessoires à ces opérations ;
 
 b. les produits engendrés par les locaux annexes et accessoires des ensembles
@@ -150,21 +150,21 @@ anonymes de coordination d'organismes d'habitations à loyer modéré régies pa
 l'article L. 423-1-1 du même code, pour les résultats provenant des opérations
 réalisées dans le cadre des procédures suivantes :
 
-a.- zone d'aménagement concerté ;
+a.-zone d'aménagement concerté ;
 
-b.- lotissements ;
+b.-lotissements ;
 
-c.- zone de restauration immobilière ;
+c.-zone de restauration immobilière ;
 
-d.- zone de résorption de l'habitat insalubre.
+d.-zone de résorption de l'habitat insalubre.
 
-e.- opérations de rénovation urbaine.
+e.-opérations de rénovation urbaine.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif,
 au lotissement et à la vente de terrains leur appartenant. Cette exonération est
 également applicable sous les mêmes conditions aux sociétés d'économie mixte
 dont les statuts sont conformes aux clauses types annexées au décret n° 69-295
-du 24 mars 1969, ainsi qu'aux groupements dits de "Castors" dont les membres
+du 24 mars 1969, ainsi qu'aux groupements dits de " Castors " dont les membres
 effectuent des apports de travail ;
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
@@ -178,8 +178,8 @@ d'enseignement supérieur ou d'un réseau thématique de recherche avancée ;
 11° Les fondations reconnues d'utilité publique du secteur de la recherche,
 parmi lesquelles les fondations de coopération scientifique.
 
-Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et
-11° s'appliquent aux revenus tirés des activités conduites dans le cadre des
+Les exonérations dont bénéficient les personnes morales visées aux 9°,10° et 11°
+s'appliquent aux revenus tirés des activités conduites dans le cadre des
 missions du service public de l'enseignement supérieur et de la recherche
 définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la
 recherche.
@@ -215,7 +215,7 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 à la réalisation des objectifs de celle-ci.
 
 2. Sont exonérés de l'impôt sur les sociétés les résultats définis aux 1° et 2°
-dans les conditions prévues aux 3°, 4°, 5° et 6° :
+dans les conditions prévues aux 3°,4°,5° et 6° :
 
 1° Les résultats, y compris la quote-part des produits financiers, afférents aux
 opérations portant sur la gestion des contrats d'assurance maladie relatifs à
@@ -251,11 +251,11 @@ modalités de détermination de ces résultats.
 
 Cette exonération bénéficie aux organismes mentionnés au deuxième alinéa du 1°
 lorsque les bénéficiaires des contrats d'assurance maladie mentionnés au premier
-alinéa du présent 2° représentent au moins 120 000 personnes ou une proportion
-minimale, fixée par décret en Conseil d'Etat, de l'ensemble des bénéficiaires
-des contrats d'assurance maladie relatifs à des opérations collectives à
-adhésion obligatoire souscrits auprès de l'organisme. Cette proportion est
-comprise entre 90 % et 95 % ;
+alinéa représentent au moins 120 000 personnes ou une proportion minimale, fixée
+par décret en Conseil d'Etat, de l'ensemble des bénéficiaires des contrats
+d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire
+souscrits auprès de l'organisme. Cette proportion est comprise entre 90 % et 95
+% ;
 
 3° Les exonérations prévues aux 1° et 2° bénéficient aux seuls organismes
 mentionnés au deuxième alinéa du 1°, qui satisfont à la condition mentionnée au
@@ -293,10 +293,10 @@ comprise entre 28 % et 35 % ;
 du 3° s'apprécient au niveau des groupes établissant des comptes combinés en
 application des articles L. 931-34 du code de la sécurité sociale, L. 322-1-2 du
 code des assurances et L. 212-7 du code de la mutualité, ainsi qu'au niveau des
-groupes de sociétés relevant du régime prévu à l'article 223 A du présent code.
-En cas d'appréciation des conditions précitées au niveau des groupes établissant
-des comptes combinés, ne sont prises en compte que les opérations réalisées par
-les entreprises exploitées en France au sens du I de l'article 209 ;
+groupes de sociétés relevant du régime prévu à l'article 223 A. En cas
+d'appréciation des conditions précitées au niveau des groupes établissant des
+comptes combinés, ne sont prises en compte que les opérations réalisées par les
+entreprises exploitées en France au sens du I de l'article 209 ;
 
 5° Les exonérations prévues aux 1° et 2° ne s'appliquent pas aux contrats
 mentionnés auxdits 1° et 2° en complément desquels, au sein d'un groupe de

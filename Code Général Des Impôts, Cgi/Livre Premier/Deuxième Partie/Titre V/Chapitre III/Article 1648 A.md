@@ -142,12 +142,12 @@ d'imposition divisées par le nombre d'habitants n'excédaient pas, avant le
 transfert, deux fois la moyenne des bases de taxe professionnelle par habitant
 constatée au niveau national.
 
-A compter du 1er janvier 2008, l'alinéa précédent est applicable aux transferts
+A compter du 1er janvier 2008, le quatrième alinéa est applicable aux transferts
 d'établissements intervenus en 2006 et 2007. Lorsque ces transferts ont ouvert
 droit, au titre de l'année 2007, à la compensation prévue par le 1° du I de
 l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003),
 le versement de cette compensation est interrompu définitivement à compter du
-1er janvier 2008 .
+1er janvier 2008.
 
 En cas de transfert, à compter du 1er janvier 2008, d'un établissement entre
 deux communes situées sur le périmètre d'un même établissement public de
@@ -179,7 +179,7 @@ son option pour le régime précité d'un écrêtement au profit du fonds
 départemental de péréquation de la taxe professionnelle au titre du I.
 
 Les prélèvements prévus au b sont versés aux fonds départementaux de péréquation
-de la taxe professionnelle.A compter de 2004, ces prélèvements sont égaux aux
+de la taxe professionnelle. A compter de 2004, ces prélèvements sont égaux aux
 montants perçus par les fonds au titre de l'année précédente. Lorsque le produit
 de taxe professionnelle correspondant à l'établissement exceptionnel diminue par
 rapport à celui de l'année précédente, le montant du prélèvement est réduit dans

@@ -8,7 +8,7 @@ b) Notification au saisi en cas de saisie-vente hors de son domicile et en son
 absence ;
 
 c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus
-par les articles 656, 659, 660, 684 et 691 du nouveau code de procédure civile ;
+par les articles 656, 659, 660, 684 et 691 du code de procédure civile ;
 
 d) Remise des actes sous enveloppe ;
 

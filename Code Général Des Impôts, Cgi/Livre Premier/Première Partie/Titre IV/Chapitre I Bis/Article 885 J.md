@@ -12,7 +12,8 @@ l'assiette de l'impôt. L'exonération bénéficie au souscripteur et à son
 conjoint.
 
 Jusqu'au 31 décembre 2008, la condition de durée d'au moins quinze ans n'est pas
-requise pour les contrats et plans créés par les articles 108, 109 et le
-cinquième alinéa de l'article 111 de la loi n° 2003-775 du 21 août 2003 portant
-réforme des retraites lorsque le souscripteur y adhère moins de quinze années
-avant l'âge donnant droit à la liquidation d'une retraite à taux plein.
+requise pour les contrats et plans prévus aux articles L. 3334-1 à L. 3334-16 du
+code du travail, L. 144-2 du code des assurances et au b du 1 du I de l'article
+163 quatervicies du présent code, lorsque le souscripteur y adhère moins de
+quinze années avant l'âge donnant droit à la liquidation d'une retraite à taux
+plein.

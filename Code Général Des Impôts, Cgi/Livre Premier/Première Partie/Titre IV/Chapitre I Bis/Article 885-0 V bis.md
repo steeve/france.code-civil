@@ -55,13 +55,13 @@ h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder
 plafond fixé par décret. Ce plafond ne peut excéder 1,5 million d'euros par
 période de douze mois.
 
-2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées
-par des personnes physiques en indivision. Chaque membre de l'indivision peut
-bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa
-souscription représentative de titres reçus en contrepartie de souscriptions au
-capital de sociétés vérifiant les conditions prévues au 1.
+2. L'avantage fiscal prévu au 1 s'applique également aux souscriptions
+effectuées par des personnes physiques en indivision. Chaque membre de
+l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction
+de la part de sa souscription représentative de titres reçus en contrepartie de
+souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
 
-3.L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
+3. L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
 numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
@@ -75,17 +75,17 @@ est pris en compte pour l'assiette de l'avantage fiscal dans la limite de la
 fraction déterminée en retenant :
 
 -au numérateur, le montant des versements effectués, par la société mentionnée
-au premier alinéa du présent 3 au titre de la souscription au capital dans des
-sociétés vérifiant l'ensemble des conditions prévues au 1, entre la date limite
-de dépôt de la déclaration devant être souscrite par le redevable l'année
-précédant celle de l'imposition et la date limite de dépôt de la déclaration
-devant être souscrite par le redevable l'année d'imposition. Ces versements sont
-ceux effectués avec les capitaux reçus au cours de cette période ou de la
-période d'imposition antérieure lors de la constitution du capital initial ou au
-titre de l'augmentation de capital auquel le redevable a souscrit ;
+au premier alinéa au titre de la souscription au capital dans des sociétés
+vérifiant l'ensemble des conditions prévues au 1, entre la date limite de dépôt
+de la déclaration devant être souscrite par le redevable l'année précédant celle
+de l'imposition et la date limite de dépôt de la déclaration devant être
+souscrite par le redevable l'année d'imposition. Ces versements sont ceux
+effectués avec les capitaux reçus au cours de cette période ou de la période
+d'imposition antérieure lors de la constitution du capital initial ou au titre
+de l'augmentation de capital auquel le redevable a souscrit ;
 
 -au dénominateur, le montant des capitaux reçus par la société mentionnée au
-premier alinéa du présent 3 au titre de la constitution du capital initial ou de
+premier alinéa au titre de la constitution du capital initial ou de
 l'augmentation de capital auquel le redevable a souscrit au cours de l'une des
 périodes mentionnée au numérateur.
 
@@ -103,24 +103,24 @@ de conservation visée au premier alinéa, le bénéfice de l'avantage fiscal pr
 au I est remis en cause.
 
 2. En cas de non-respect de la condition de conservation prévue au premier
-alinéa du 1 du présent II par suite d'une fusion ou d'une scission au sens de
-l'article 817 A, l'avantage fiscal mentionné au I accordé au titre de l'année en
-cours et de celles précédant ces opérations n'est pas remis en cause si les
-titres reçus en contrepartie sont conservés jusqu'au même terme. Cet avantage
-fiscal n'est pas non plus remis en cause lorsque la condition de conservation
-prévue au premier alinéa du 1 du présent II n'est pas respectée par suite d'une
-annulation des titres pour cause de pertes ou de liquidation judiciaire.
+alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A,
+l'avantage fiscal mentionné au I accordé au titre de l'année en cours et de
+celles précédant ces opérations n'est pas remis en cause si les titres reçus en
+contrepartie sont conservés jusqu'au même terme. Cet avantage fiscal n'est pas
+non plus remis en cause lorsque la condition de conservation prévue au premier
+alinéa du 1 n'est pas respectée par suite d'une annulation des titres pour cause
+de pertes ou de liquidation judiciaire.
 
 En cas de non-respect de la condition de conservation prévue au premier alinéa
-du 1 du présent II en cas de cession stipulée obligatoire par un pacte
-d'associés ou d'actionnaires, l'avantage fiscal mentionné au I accordé au titre
-de l'année en cours et de celles précédant ces opérations n'est pas non plus
-remis en cause si le prix de vente des titres cédés est intégralement réinvesti
-par un actionnaire minoritaire, dans un délai maximum de six mois à compter de
-la cession, en souscription de titres de sociétés satisfaisant aux conditions
-mentionnées au 1 du I, sous réserve que les titres ainsi souscrits soient
-conservés jusqu'au même terme. Cette souscription ne peut donner lieu au
-bénéfice de l'avantage fiscal prévu au 1 du I.
+du 1 du II en cas de cession stipulée obligatoire par un pacte d'associés ou
+d'actionnaires, l'avantage fiscal mentionné au I accordé au titre de l'année en
+cours et de celles précédant ces opérations n'est pas non plus remis en cause si
+le prix de vente des titres cédés est intégralement réinvesti par un actionnaire
+minoritaire, dans un délai maximum de six mois à compter de la cession, en
+souscription de titres de sociétés satisfaisant aux conditions mentionnées au 1
+du I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même
+terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal
+prévu au 1 du I.
 
 III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 du montant des versements effectués au titre de souscriptions en numéraire aux
@@ -139,7 +139,7 @@ titres reçus en contrepartie de souscriptions au capital de sociétés exerçan
 leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
 les conditions prévues au 1 du I.
 
-L'avantage prévu au précédent alinéa ne s'applique que lorsque les conditions
+L'avantage prévu au premier alinéa ne s'applique que lorsque les conditions
 suivantes sont satisfaites :
 
 a) Les personnes physiques prennent l'engagement de conserver les parts de fonds
@@ -162,20 +162,19 @@ pourcentage initialement fixé de l'actif du fonds investi en titres reçus en
 contrepartie de souscriptions au capital de sociétés vérifiant les conditions
 prévues au 1 du I.
 
-2.L'avantage fiscal prévu au 1 du présent III ne peut être supérieur à 20 000
-euros par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et
-de ceux prévus aux 1,2 et 3 du I au titre de la même année, sous réserve que le
-montant imputé sur l'impôt de solidarité sur la fortune résultant de ces
-avantages n'excède pas 50 000 euros.
+2. L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le
+redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus
+aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé
+sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas
+50 000 euros.
 
-3.L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
+3. L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
 cours de laquelle le fonds ou le redevable cesse de respecter les conditions
-prévues au 1 du présent III.
+prévues au 1.
 
-4. Sont exclues du bénéfice de l'avantage fiscal prévu au 1 du présent III les
-parts de fonds donnant lieu à des droits différents sur l'actif net ou sur les
-produits du fonds ou de la société, attribuées en fonction de la qualité de la
-personne.
+4. Sont exclues du bénéfice de l'avantage fiscal prévu au 1 les parts de fonds
+donnant lieu à des droits différents sur l'actif net ou sur les produits du
+fonds ou de la société, attribuées en fonction de la qualité de la personne.
 
 IV.-Les versements ouvrant droit à l'avantage fiscal mentionné au I ou au III
 sont ceux effectués entre la date limite de dépôt de la déclaration de l'année

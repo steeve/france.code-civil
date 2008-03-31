@@ -5,7 +5,7 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 
 1° (Abrogé à compter du 1er janvier 1993) ;
 
-1° bis - Les sociétés d'investissement qui sont constituées et fonctionnent dans
+1° bis-Les sociétés d'investissement qui sont constituées et fonctionnent dans
 les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre
 1945, pour la partie des bénéfices provenant des produits nets de leur
 portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou
@@ -14,11 +14,11 @@ bénéficier des dispositions du présent alinéa trois ans après leur créatio
 leurs actions ne sont pas admises aux négociations sur un marché réglementé
 avant ce délai ;
 
-1° bis A - Les sociétés d'investissement à capital variable régies par les
+1° bis A-Les sociétés d'investissement à capital variable régies par les
 articles L. 214-2 et suivants du code monétaire et financier pour les bénéfices
 réalisés dans le cadre de leur objet légal ;
 
-1° ter - Les sociétés de développement régional constituées et fonctionnant
+1° ter-Les sociétés de développement régional constituées et fonctionnant
 conformément aux dispositions du décret n° 55-876 du 30 juin 1955 et des textes
 qui l'ont complété et modifié pour la partie des bénéfices provenant des
 produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la
@@ -34,11 +34,11 @@ portefeuille ;
 
 3° et 3° bis (Abrogés) ;
 
-3° ter - Les sociétés immobilières de gestion visées à l'article 1er du décret
-n° 63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient
-de la location de leurs immeubles ;
+3° ter-Les sociétés immobilières de gestion visées à l'article 1er du décret n°
+63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient de
+la location de leurs immeubles ;
 
-3° quater - Les sociétés qui, à la date du 1er janvier 1991 étaient autorisées à
+3° quater-Les sociétés qui, à la date du 1er janvier 1991 étaient autorisées à
 porter la dénomination de société immobilière pour le commerce et l'industrie
 visée à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967 relative aux
 opérations de crédit-bail et aux sociétés immobilières pour le commerce et
@@ -62,15 +62,15 @@ la location simple de leurs immeubles, par contrat conclu avant le 1er janvier
 industrielle ou commerciale, est retenu pour le calcul de l'impôt sur les
 sociétés à concurrence de :
 
-20 p. 100 de son montant pour l'exercice clos en 1991 ;
+20 % de son montant pour l'exercice clos en 1991 ;
 
-40 p. 100 pour l'exercice clos en 1992 ;
+40 % pour l'exercice clos en 1992 ;
 
-60 p. 100 pour l'exercice clos en 1993 ;
+60 % pour l'exercice clos en 1993 ;
 
-80 p. 100 pour l'exercice clos en 1994 ;
+80 % pour l'exercice clos en 1994 ;
 
-100 p. 100 pour les exercices clos en 1995 et ultérieurement.
+100 % pour les exercices clos en 1995 et ultérieurement.
 
 Les bénéfices qui proviennent des opérations totalement ou partiellement
 exonérées en application des premier à huitième alinéas sont obligatoirement
@@ -86,13 +86,13 @@ sociétés en proportion des bénéfices et réserves exonérés par rapport au 
 total des bénéfices, des réserves et du capital. Toutefois, elles sont exonérées
 lorsqu'elles proviennent de fonds d'emprunt ;
 
-3° quinquies - Les sociétés agréées pour le financement des télécommunications
-qui ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la
-loi n° 69-1160 du 24 décembre 1969 pour la partie des bénéfices provenant des
-contrats de crédit-bail conclus avec l'exploitant public avant le 1er janvier
-1993 et pour les plus-values qu'elles réalisent à l'occasion des ces opérations
-ainsi que pour la partie des bénéfices et des plus-values qu'elles réalisent en
-tant que société immobilière pour le commerce et l'industrie.
+3° quinquies-Les sociétés agréées pour le financement des télécommunications qui
+ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
+69-1160 du 24 décembre 1969 pour la partie des bénéfices provenant des contrats
+de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993 et
+pour les plus-values qu'elles réalisent à l'occasion des ces opérations ainsi
+que pour la partie des bénéfices et des plus-values qu'elles réalisent en tant
+que société immobilière pour le commerce et l'industrie.
 
 Les sociétés agréées pour le financement des télécommunications qui n'ont pas
 pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
@@ -107,13 +107,13 @@ mentionnée au deuxième alinéa par la société apporteuse sont exonérés d'i
 sur les sociétés jusqu'au 31 décembre 1993. Ils sont retenus pour le calcul de
 cet impôt à concurrence de :
 
-25 p. 100 de leur montant en 1994 ;
+25 % de leur montant en 1994 ;
 
-50 p. 100 de leur montant en 1995 ;
+50 % de leur montant en 1995 ;
 
-75 p. 100 de leur montant en 1996 ;
+75 % de leur montant en 1996 ;
 
-100 p. 100 de leur montant en 1997 et ultérieurement.
+100 % de leur montant en 1997 et ultérieurement.
 
 L'exonération totale ou partielle est subordonnée à la condition que les
 dividendes non soumis à l'impôt sur les sociétés provenant de la société
@@ -122,22 +122,18 @@ apporteuse avant la fin de l'exercice qui suit celui de leur encaissement ;
 
 3° sexies (abrogé pour les exercices ouverts à compter du 1er janvier 2000) ;
 
-3° septies - Les sociétés de capital-risque qui fonctionnent dans les conditions
-prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée, sur les
-produits et plus-values nets provenant de leur portefeuille ;
-
-Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à
-l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée, sur les
-produits et plus-values nets provenant de leur portefeuille autres que ceux
+3° septies-Les sociétés de capital-risque qui fonctionnent dans les conditions
+prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée, sur
+les produits et plus-values nets provenant de leur portefeuille autres que ceux
 afférents aux titres rémunérant l'apport de leurs activités qui ne relèvent pas
 de leur objet social ainsi que, pour les sociétés de capital-risque mentionnées
 à la deuxième phrase du 1° de l'article 1er-1 précité, sur les prestations de
 services accessoires qu'elles réalisent ;
 
-3° octies - Les fonds communs de créances pour les bénéfices réalisés dans le
+3° octies-Les fonds communs de créances pour les bénéfices réalisés dans le
 cadre de leur objet légal ;
 
-3° nonies - Les sociétés de placement à prépondérance immobilière à capital
+3° nonies-Les sociétés de placement à prépondérance immobilière à capital
 variable régies par les articles L. 214-89 et suivants du code monétaire et
 financier ;
 

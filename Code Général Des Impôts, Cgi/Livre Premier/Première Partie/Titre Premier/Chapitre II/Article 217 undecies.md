@@ -143,7 +143,7 @@ investissements productifs nécessaires à l'exploitation d'une concession de
 service public local à caractère industriel et commercial, et dont l'activité
 s'exerce exclusivement dans un secteur éligible, quelles que soient la nature
 des biens qui constituent l'emploi de la souscription et leur affectation
-définitive, dans les départements ou territoires d'outre-mer.
+définitive, dans les départements ou collectivités d'outre-mer.
 
 II bis. La déduction prévue au premier alinéa du II s'applique aux souscriptions
 aux augmentations de capital de sociétés soumises à l'impôt sur les sociétés
@@ -157,9 +157,9 @@ d'agrément octroyée en application du présent II bis. Il est accordé si les
 conditions suivantes sont satisfaites :
 
 a) le montant de l'augmentation du capital de la société en difficulté doit
-permettre aux souscripteurs de détenir globalement plus de 50 p. 100 de ses
-droits de vote et de ses droits à dividendes ; la souscription ne doit pas être
-réalisée, directement ou indirectement, par des personnes qui ont été associées,
+permettre aux souscripteurs de détenir globalement plus de 50 % de ses droits de
+vote et de ses droits à dividendes ; la souscription ne doit pas être réalisée,
+directement ou indirectement, par des personnes qui ont été associées,
 directement ou indirectement, de la société en difficulté au cours de l'une des
 cinq années précédant l'acquisition ;
 
@@ -193,7 +193,7 @@ exercice est supérieur à 300 000 euros, lorsqu'ils sont réalisés par une soc
 ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce
 même I.
 
-III. - 1. Pour ouvrir droit à déduction, les investissements mentionnés au I
+III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I
 réalisés dans les secteurs des transports, de la navigation de plaisance, de
 l'agriculture, de la pêche maritime et de l'aquaculture, de l'industrie
 charbonnière et de la sidérurgie, de la construction navale, des fibres
@@ -315,7 +315,7 @@ conservation cesse d'être respecté, l'avantage et la majoration correspondante
 mentionnés au deuxième alinéa qui, à défaut d'engagement, auraient dû être
 rapportés au résultat imposable de l'entreprise apporteuse.
 
-V. - Les dispositions du présent article sont applicables aux investissements
+V.-Les dispositions du présent article sont applicables aux investissements
 réalisés ou aux souscriptions versées à compter de la date de promulgation de la
 loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer, à l'exception
 des investissements et des souscriptions pour l'agrément desquels une demande

@@ -6,18 +6,18 @@ prévus au troisième alinéa du 1 de l'article 39 ter du code général des imp
 
 a) Soit à tous travaux ou immobilisations nécessaires aux recherches
 d'hydrocarbures entreprises dans la France métropolitaine, dans les départements
-et les territoires français d'outre-mer, dans les Etats de la Communauté, ainsi
-qu'en Algérie, au Maroc, en Tunisie, au Togo et au Cameroun, à l'exclusion des
-travaux ou immobilisations portant sur un gisement reconnu ayant donné lieu à
+et les collectivités d'outre-mer, dans les Etats de la Communauté, ainsi qu'en
+Algérie, au Maroc, en Tunisie, au Togo et au Cameroun, à l'exclusion des travaux
+ou immobilisations portant sur un gisement reconnu ayant donné lieu à
 attribution d'un titre d'exploitation, sauf s'ils sont destinés à améliorer la
 rémunération des hydrocarbures dans ce gisement.
 
 b) Soit à l'acquisition de participations dans les sociétés et organismes
 désignés par arrêté du ministre de l'économie et des finances et du ministre de
-l'industrie (1) ayant pour objet d'effectuer la recherche et l'exploitation de
-gisements d'hydrocarbures dans les mêmes territoires et pays.
+l'industrie (2) ayant pour objet d'effectuer la recherche et l'exploitation de
+gisements d'hydrocarbures dans les mêmes collectivités et pays.
 
-Ne pourront être considérées comme "participations" utilisées au titre de la
+Ne pourront être considérées comme " participations " utilisées au titre de la
 provision pour reconstitution des gisements que :
 
 a) Les actions, parts sociales ou parts d'intérêts souscrites aux augmentations

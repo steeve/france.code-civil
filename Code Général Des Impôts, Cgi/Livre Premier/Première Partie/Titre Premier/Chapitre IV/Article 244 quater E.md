@@ -1,11 +1,10 @@
 Article 244 quater E
 ----
-I. - 1° Les petites et moyennes entreprises relevant d'un régime réel
-d'imposition peuvent bénéficier d'un crédit d'impôt au titre des
-investissements, autres que de remplacement, financés sans aide publique pour 25
-% au moins de leur montant, réalisés jusqu'au 31 décembre 2011 et exploités en
-Corse pour les besoins d'une activité industrielle, commerciale, artisanale,
-libérale ou agricole autre que :
+I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition
+peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que
+de remplacement, financés sans aide publique pour 25 % au moins de leur montant,
+réalisés jusqu'au 31 décembre 2011 et exploités en Corse pour les besoins d'une
+activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas
 exclusivement sur des biens situés en Corse, ainsi que l'exploitation de jeux de
@@ -13,7 +12,7 @@ hasard et d'argent ;
 
 b. l'agriculture ainsi que la transformation ou la commercialisation de produits
 agricoles, sauf lorsque le contribuable peut bénéficier des aides à
-l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai
+l'investissement au titre du règlement (CE) n° 1257 / 1999 du Conseil, du 17 mai
 1999, concernant le soutien au développement rural par le Fonds européen
 d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant certains
 règlements, la production ou la transformation de houille et lignite, la
@@ -34,13 +33,13 @@ répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %,
 les participations des sociétés de capital-risque, des fonds communs de
 placement à risques, des sociétés de développement régional et des sociétés
 financières d'innovation ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 1
-bis de l'article 39 terdecies entre la société en cause et ces dernières
-sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de
-l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte
-s'entendent respectivement de la somme des chiffres d'affaires et de la somme
-des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
-à la composition du capital doit être remplie par la société mère du groupe.
+n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du
+12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
+fonds. Pour les sociétés membres d'un groupe au sens de l'article 223 A, le
+chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement
+de la somme des chiffres d'affaires et de la somme des effectifs de chacune des
+sociétés membres de ce groupe. La condition tenant à la composition du capital
+doit être remplie par la société mère du groupe.
 
 2° (abrogé).
 
@@ -75,11 +74,11 @@ aux investissements prévus dans le cadre du plan de restructuration présenté 
 l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt
 commun.
 
-II. - Les dispositions du présent article s'appliquent sur option de
-l'entreprise à compter du premier jour de l'exercice ou de l'année au titre
-duquel elle est exercée. Cette option emporte renonciation au bénéfice des
-régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 208 sexies et
-208 quater A. Elle est irrévocable.
+II.-Les dispositions du présent article s'appliquent sur option de l'entreprise
+à compter du premier jour de l'exercice ou de l'année au titre duquel elle est
+exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux
+articles 44 sexies,44 sexies A,44 septies,208 sexies et 208 quater A. Elle est
+irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime
 d'imposition de l'article 8 ou par les groupements mentionnés aux articles 239
@@ -89,7 +88,7 @@ condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
 personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-III. - Si, dans le délai de cinq ans de son acquisition ou de sa création ou
+III.-Si, dans le délai de cinq ans de son acquisition ou de sa création ou
 pendant sa durée normale d'utilisation si elle est inférieure, un bien ayant
 ouvert droit au crédit d'impôt prévu au I est cédé ou cesse d'être affecté à
 l'activité pour laquelle il a été acquis ou créé, ou si l'acquéreur cesse son
@@ -98,7 +97,7 @@ l'exercice ou de l'année où interviennent les événements précités.
 
 Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables
 lorsque le bien est transmis dans le cadre d'opérations placées sous les régimes
-prévus aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
+prévus aux articles 41,151 octies,210 A ou 210 B si le bénéficiaire de la
 transmission s'engage à exploiter les biens en Corse dans le cadre d'une
 activité répondant aux conditions mentionnées au I pendant la fraction du délai
 de conservation restant à courir. L'engagement est pris dans l'acte constatant
@@ -114,12 +113,12 @@ l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet
 d'une reprise au titre de l'exercice ou de l'année de la cession, du rachat ou
 de l'annulation de ces parts ou actions.
 
-IV. - Les dispositions du présent article s'appliquent aux investissements
+IV.-Les dispositions du présent article s'appliquent aux investissements
 réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de
 la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la
 Corse.
 
-V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
 règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides nationales à
 l'investissement à finalité régionale.

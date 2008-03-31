@@ -11,7 +11,7 @@ des sociétés d'expertise comptable.
 Les organisations professionnelles mentionnées au premier alinéa comprennent les
 organismes professionnels dont l'existence est prévue par la législation
 relative aux professions ci-dessus désignées, les syndicats professionnels et
-leurs unions institués conformément aux dispositions des articles L 410 et
+leurs unions institués conformément aux dispositions des articles L. 2111-1 et
 suivants du code du travail, et les associations professionnelles de personnes
 exerçant la même profession ainsi que leurs unions.
 

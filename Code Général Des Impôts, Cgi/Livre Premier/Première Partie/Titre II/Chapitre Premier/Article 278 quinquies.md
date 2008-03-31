@@ -1,13 +1,12 @@
 Article 278 quinquies
 ----
-I. - La taxe sur la valeur ajoutée est perçue au taux de 5,50 % en ce qui
-concerne les opérations d'achat, d'importation, d'acquisition
-intracommunautaire, de vente, de livraison, de commission, de courtage ou de
-façon portant sur :
+I.-La taxe sur la valeur ajoutée est perçue au taux de 5,50 % en ce qui concerne
+les opérations d'achat, d'importation, d'acquisition intracommunautaire, de
+vente, de livraison, de commission, de courtage ou de façon portant sur :
 
-a. Les appareillages pour handicapés visés aux chapitres Ier et III à VII du
-titre II et au titre IV de la liste des produits et des prestations
-remboursables prévue à l'article L. 165-1 du code de la sécurité sociale ;
+a. Les appareillages pour handicapés visés aux chapitres 1er et 3 à 7 du titre
+II et au titre IV de la liste des produits et des prestations remboursables
+prévue à l'article L. 165-1 du code de la sécurité sociale ;
 
 b. Les appareillages pour handicapés mentionnés au titre III de la liste
 précitée, ou pris en charge au titre des prestations d'hospitalisation définies
@@ -20,9 +19,9 @@ dont la liste est fixée par arrêté du ministre chargé du budget et qui sont
 conçus exclusivement pour les personnes handicapées en vue de la compensation
 d'incapacités graves.
 
-II. - La taxe sur la valeur ajoutée est perçue au taux de 5,5 % en ce qui
-concerne les opérations d'importation, d'acquisition intracommunautaire ou de
-livraison portant sur :
+II.-La taxe sur la valeur ajoutée est perçue au taux de 5,5 % en ce qui concerne
+les opérations d'importation, d'acquisition intracommunautaire ou de livraison
+portant sur :
 
 a. Les autopiqueurs, les appareils pour lecture automatique chiffrée de la
 glycémie, les seringues pour insuline, les stylos injecteurs d'insuline et les

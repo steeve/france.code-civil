@@ -3,29 +3,29 @@ Article 1417
 I.-Les dispositions des articles 1391 et 1391 B, du 3 du II et du III de
 l'article 1411, des 1° bis, 2° et 3° du I de l'article 1414 sont applicables aux
 contribuables dont le montant des revenus de l'année précédant celle au titre de
-laquelle l'imposition est établie n'excède pas la somme de 9 437 euros, pour la
-première part de quotient familial, majorée de 2 520 euros pour chaque demi-part
+laquelle l'imposition est établie n'excède pas la somme de 9 560 euros, pour la
+première part de quotient familial, majorée de 2 553 euros pour chaque demi-part
 supplémentaire, retenues pour le calcul de l'impôt sur le revenu afférent
 auxdits revenus. Pour la Martinique, la Guadeloupe et la Réunion, les montants
-des revenus sont fixés à 11 167 euros, pour la première part, majorés de 2 667
-euros pour la première demi-part et 2 520 euros pour chaque demi-part
+des revenus sont fixés à 11 312 euros, pour la première part, majorés de 2 702
+euros pour la première demi-part et 2 553 euros pour chaque demi-part
 supplémentaire à compter de la deuxième. Pour la Guyane, ces montants sont fixés
-respectivement à 11 676 euros,3 215 euros et 2 520 euros.
+respectivement à 11 828 euros,3 257 euros et 2 553 euros.
 
 I bis (abrogé à compter des impositions établies au titre de 2000).
 
 II.-Les dispositions de l'article 1414 A sont applicables aux contribuables dont
 le montant des revenus de l'année précédant celle au titre de laquelle
-l'imposition est établie n'excède pas la somme de 22 192 euros, pour la première
-part de quotient familial, majorée de 5 186 euros pour la première demi-part et
-4 080 euros à compter de la deuxième demi-part supplémentaire, retenues pour le
+l'imposition est établie n'excède pas la somme de 22 481 euros, pour la première
+part de quotient familial, majorée de 5 253 euros pour la première demi-part et
+4 133 euros à compter de la deuxième demi-part supplémentaire, retenues pour le
 calcul de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la
-Guadeloupe et la Réunion, les montants des revenus sont fixés à 26 821 euros,
-pour la première part, majorés de 5 690 euros pour la première demi-part,5 425
-euros pour la deuxième demi-part et 4 080 euros pour chaque demi-part
+Guadeloupe et la Réunion, les montants des revenus sont fixés à 27 170 euros,
+pour la première part, majorés de 5 764 euros pour la première demi-part,5 496
+euros pour la deuxième demi-part et 4 133 euros pour chaque demi-part
 supplémentaire à compter de la troisième. Pour la Guyane, ces montants sont
-fixés à 29 392 euros pour la première part, majorés de 5 690 euros pour chacune
-des deux premières demi-parts,4 845 euros pour la troisième demi-part et 4 080
+fixés à 29 774 euros pour la première part, majorés de 5 764 euros pour chacune
+des deux premières demi-parts,4 908 euros pour la troisième demi-part et 4 133
 euros pour chaque demi-part supplémentaire à compter de la quatrième.
 
 III.-Les montants de revenus prévus aux I et II sont indexés, chaque année,
@@ -50,8 +50,8 @@ a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour s
 fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et
 du montant de l'abattement mentionné à l'article 150-0 D bis ;
 
-b) du montant des bénéfices exonérés en application des articles 44 sexies,44
-sexies A,44 octies,44 octies A,44 decies et 44 undecies, ainsi que du 9 de
+b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
+sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, ainsi que du 9 de
 l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus aux

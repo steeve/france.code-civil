@@ -4,7 +4,7 @@ Article 168
 ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
 forfaitaire déterminée en appliquant à certains éléments de ce train de vie le
 barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2,
-lorsque cette somme est supérieure ou égale à 40 000 euros ; cette limite est
+lorsque cette somme est supérieure ou égale à 42 699 euros ; cette limite est
 relevée chaque année dans la même proportion que la limite supérieure de la
 première tranche du barème de l'impôt sur le revenu :
 
@@ -20,9 +20,9 @@ valeur locative cadastrale.
 
 3. Employés de maison, précepteurs, préceptrices, gouvernantes :
 
-- pour la première personne âgée de moins de 60 ans / 4 600 euros
+-pour la première personne âgée de moins de 60 ans / 4 600 euros
 
-- pour chacune des autres personnes / 5 700 euros
+-pour chacune des autres personnes / 5 700 euros
 
 La base ainsi déterminée est réduite de moitié en ce qui concerne les personnes
 employées principalement pour l'exercice d'une profession.
@@ -52,15 +52,15 @@ abattement de 50 % après trois ans d'usage.
 6. Yachts ou bateaux de plaisance à voiles avec ou sans moteur auxiliaire
 jaugeant au moins 3 tonneaux de jauge internationale :
 
-- pour les trois premiers tonneaux / 1 140 euros
+-pour les trois premiers tonneaux / 1 140 euros
 
-- pour chaque tonneau supplémentaire :
+-pour chaque tonneau supplémentaire :
 
-- de 4 à 10 tonneaux / 340 euros
+-de 4 à 10 tonneaux / 340 euros
 
-- de 10 à 25 tonneaux / 460 euros
+-de 10 à 25 tonneaux / 460 euros
 
-- au-dessus de 25 tonneaux / 910 euros
+-au-dessus de 25 tonneaux / 910 euros
 
 Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays
 ou territoire qui n'a pas conclu avec la France de convention d'assistance
@@ -68,19 +68,19 @@ administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 Le nombre de tonneaux à prendre en considération est égal au nombre de tonneaux
 correspondant à la jauge brute sous déduction, le cas échéant, d'un abattement
-pour vétusté égal à 25 %, 50 % ou 75 % suivant que la construction du yacht ou
-du bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans
-ou plus de vingt-cinq ans. Le tonnage ainsi obtenu est arrondi, s'il y a lieu, à
+pour vétusté égal à 25 %,50 % ou 75 % suivant que la construction du yacht ou du
+bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans ou
+plus de vingt-cinq ans. Le tonnage ainsi obtenu est arrondi, s'il y a lieu, à
 l'unité immédiatement inférieure.
 
 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au
 moins 20 CV :
 
-- pour les vingt premiers chevaux / 910 euros
+-pour les vingt premiers chevaux / 910 euros
 
-- par cheval-vapeur supplémentaire / 69 euros
+-par cheval-vapeur supplémentaire / 69 euros
 
-Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui
+Toutefois, la puissance n'est comptée que pour 75 %,50 % ou 25 %, en ce qui
 concerne les bateaux construits respectivement depuis plus de cinq ans, quinze
 ans et vingt-cinq ans.
 
@@ -94,9 +94,9 @@ administrative en vue de lutter contre la fraude et l'évasion fiscales.
 9. Chevaux de course âgés au moins de deux ans au sens de la réglementation
 concernant les courses :
 
-- par cheval de pur sang / 4 600 euros
+-par cheval de pur sang / 4 600 euros
 
-- par cheval autre que de pur sang et par trotteur / 2 700 euros
+-par cheval autre que de pur sang et par trotteur / 2 700 euros
 
 10. Chevaux de selle : par cheval âgé au moins de deux ans à compter du second
 cheval / 1 370 euros

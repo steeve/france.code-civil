@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 100 000 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 101 300 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
 
@@ -90,7 +90,7 @@ semblables durant la même année ou les six années suivantes ;
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
 l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou
-ayant reçu le label délivré par la "Fondation du patrimoine" en application de
+ayant reçu le label délivré par la " Fondation du patrimoine " en application de
 l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
 favorable du service départemental de l'architecture et du patrimoine ni aux
 nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils payent
@@ -105,9 +105,9 @@ que les intérêts d'emprunt, ayant reçu un avis favorable du service de l'Etat
 compétent en matière d'environnement et effectuées sur des espaces naturels
 mentionnés aux articles L. 331-2, L. 332-2, L. 341-2, L. 411-1, L. 411-2 ou L.
 414-1 du code de l'environnement ou des espaces mentionnés à l'article L. 146-6
-du code de l'urbanisme, qui bénéficient du label délivré par la "Fondation du
-patrimoine" en application de l'article L. 143-2 du code du patrimoine. Ce label
-prévoit les conditions de l'accès au public des espaces concernés, sauf
+du code de l'urbanisme, qui bénéficient du label délivré par la " Fondation du
+patrimoine " en application de l'article L. 143-2 du code du patrimoine. Ce
+label prévoit les conditions de l'accès au public des espaces concernés, sauf
 exception justifiée par la fragilité du milieu naturel.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
@@ -147,7 +147,7 @@ L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure �
 700 euros et la fraction du déficit non imputable résultant des intérêts
 d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
-La limite mentionnée au cinquième alinéa est portée à 15 300 euros pour les
+La limite mentionnée au sixième alinéa est portée à 15 300 euros pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
 pratiquée la déduction prévue au f du 1° du I de l'article 31.
 
@@ -167,10 +167,10 @@ undecies A et imputer un déficit foncier sur le revenu global.
 
 4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
-octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
-l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
-les profits de même nature réalisés au cours de la même année ou des six années
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter,150
+octies,150 nonies et 150 decies, lorsque l'option prévue au 8° du I de l'article
+35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
+profits de même nature réalisés au cours de la même année ou des six années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
@@ -211,22 +211,22 @@ aux immeubles classés monuments historiques ou inscrits à l'inventaire
 supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
 raison de leur caractère historique ou artistique particulier et qui auront été
 agréés à cet effet par le ministre chargé du budget, ou en raison du label
-délivré par la "Fondation du patrimoine" en application de l'article L. 143-2 du
-code du patrimoine si ce label a été accordé sur avis favorable du service
+délivré par la " Fondation du patrimoine " en application de l'article L. 143-2
+du code du patrimoine si ce label a été accordé sur avis favorable du service
 départemental de l'architecture et du patrimoine ;
 
 1° quater (sans objet).
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211, 367 et 767 du code civil à l'exception de celles
+par les articles 205 à 211,367 et 767 du code civil à l'exception de celles
 versées aux ascendants quand il est fait application des dispositions prévues
 aux 1 et 2 de l'article 199 sexdecies ; versements de sommes d'argent mentionnés
 à l'article 275 du code civil lorsqu'ils sont effectués sur une période
 supérieure à douze mois à compter de la date à laquelle le jugement de divorce,
 que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose
-jugée et les rentes versées en application des articles 276, 278 ou 279-1 du
-même code en cas de séparation de corps ou de divorce, ou en cas d'instance en
+jugée et les rentes versées en application des articles 276,278 ou 279-1 du même
+code en cas de séparation de corps ou de divorce, ou en cas d'instance en
 séparation de corps ou en divorce et lorsque le conjoint fait l'objet d'une
 imposition séparée, les pensions alimentaires versées en vertu d'une décision de
 justice et en cas de révision amiable de ces pensions, le montant effectivement
@@ -256,10 +256,11 @@ calcul de l'impôt ;
 2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire
 résultant des articles 205 à 211 du code civil à des personnes agées de plus de
 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède
-pas le plafond de ressources fixé pour l'octroi de l'allocation supplémentaire
-mentionnée à l'article L815-2 ou à l'article L815-3 du code de la sécurité
-sociale. La déduction opérée par le contribuable ne peut excéder, par
-bénéficiaire, la somme de 3 162 euros.
+pas le plafond de ressources mentionné à l'article L. 815-9 du code de la
+sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées
+mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire
+d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée
+par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 203 euros.
 
 Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque
 année dans la même proportion que la limite supérieure de la première tranche du
@@ -283,7 +284,7 @@ d. (sans objet).
 
 8° (Abrogé) ;
 
-9° ....
+9°....
 
 9° bis et 9° ter (Abrogés) ;
 
@@ -300,7 +301,6 @@ les maladies professionnelles des non salariés des professions agricoles ;
 12° (sans objet).
 
 13° Les cotisations versées par les chefs d'exploitation ou d'entreprise
-agricole au titre des contrats d'assurance de groupe mentionnés au I de
-l'article 55 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche
-maritime et les cultures marines, dans les limites prévues par l'article 154
-bis-0 A.
+agricole au titre des contrats d'assurance de groupe mentionnés au 2° de
+l'article L. 144-1 du code des assurances, dans les limites prévues par
+l'article 154 bis-0 A.

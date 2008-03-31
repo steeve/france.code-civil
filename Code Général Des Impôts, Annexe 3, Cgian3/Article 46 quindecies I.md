@@ -9,5 +9,4 @@ détention est calculé en multipliant entre eux les taux de participation
 successifs ;
 
 b) Par les personnes physiques ou morales ayant avec cette personne un lien de
-dépendance au sens du 1 bis de l'article 39 terdecies du code général des
-impôts.
+dépendance au sens du 12 de l'article 39 du code général des impôts.

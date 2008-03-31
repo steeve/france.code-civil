@@ -1,6 +1,6 @@
 Article 223 VG
 ----
-I. - Par exception aux dispositions de l'article 223 VE, lorsque le contrat de
+I.-Par exception aux dispositions de l'article 223 VE, lorsque le contrat de
 fiducie prend fin, les profits ou les pertes ainsi que les plus ou moins-values
 résultant du transfert des biens ou droits du patrimoine fiduciaire au
 constituant ne sont pas compris dans le résultat imposable de l'exercice de
@@ -47,28 +47,27 @@ patrimoine fiduciaire est compris dans le résultat imposable de ce dernier au
 titre de l'exercice au cours duquel intervient le retour des biens au
 constituant.
 
-II. - Pour l'application du I, les engagements mentionnés au 2° du I sont pris
+II.-Pour l'application du I, les engagements mentionnés au 2° du I sont pris
 dans l'acte constatant le transfert des biens ou droits du patrimoine fiduciaire
 au constituant ou, à défaut, dans un acte sous seing privé ayant date certaine,
 établi à cette occasion.
 
-III. - Les droits afférents à un contrat de crédit-bail conclu dans les
-conditions prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et
-financier sont assimilés à des éléments de l'actif immobilisé, amortissables ou
-non amortissables dans les conditions prévues à l'article 39 duodecies A du
-présent code.
+III.-Les droits afférents à un contrat de crédit-bail conclu dans les conditions
+prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier sont
+assimilés à des éléments de l'actif immobilisé, amortissables ou non
+amortissables dans les conditions prévues à l'article 39 duodecies A.
 
-Pour l'application du c du 2° du I du présent article, en cas de cession
-ultérieure des droits mentionnés au premier alinéa du présent III qui sont
-assimilés à des éléments non amortissables ou de cession du terrain, la
-plus-value est calculée d'après la valeur que ces droits avaient, du point de
-vue fiscal, dans les écritures du patrimoine fiduciaire.
+Pour l'application du c du 2° du I, en cas de cession ultérieure des droits
+mentionnés au premier alinéa qui sont assimilés à des éléments non amortissables
+ou de cession du terrain, la plus-value est calculée d'après la valeur que ces
+droits avaient, du point de vue fiscal, dans les écritures du patrimoine
+fiduciaire.
 
 Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail
 portant sur des éléments incorporels amortissables d'un fonds de commerce ou
 assimilé.
 
-IV. - Pour l'application du présent article, les titres du portefeuille dont le
+IV.-Pour l'application du présent article, les titres du portefeuille dont le
 résultat de cession est exclu du régime des plus ou moins-values à long terme
 conformément à l'article 219 sont assimilés à des éléments non amortissables de
 l'actif immobilisé.

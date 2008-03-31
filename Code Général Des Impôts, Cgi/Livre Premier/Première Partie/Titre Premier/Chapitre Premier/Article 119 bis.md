@@ -24,11 +24,10 @@ Toutefois, la retenue à la source ne s'applique pas aux sommes visées au premi
 alinéa du a de l'article 111.
 
 La retenue à la source ne s'applique pas aux distributions des sociétés de
-capital-risque qui fonctionnent dans les conditions prévues aux articles 1er et
-1er-1 de la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
+capital-risque qui fonctionnent dans les conditions prévues à l'article 1er-1 de
+la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
 
-a) la distribution entre dans les prévisions du 4 ou 5 de l'article 39 terdecies
-;
+a) la distribution entre dans les prévisions du 5 de l'article 39 terdecies ;
 
 b) le bénéficiaire effectif est une personne morale qui a son siège de direction
 effective dans un Etat ayant conclu avec la France une convention fiscale

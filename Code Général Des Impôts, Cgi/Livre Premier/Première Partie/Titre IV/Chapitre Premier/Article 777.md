@@ -8,21 +8,44 @@ TABLEAU I
 
 Tarif des droits applicables en ligne directe
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 7 600 euros : 5 %.
+FRACTION DE PART NETTE TAXABLE
 
-Comprise entre 7 600 et 11 400 euros : 10 %.
+TARIF APPLICABLE (en pourcentage)
 
-Comprise entre 11 400 euros et 15 000 euros : 15 %.
+N'excédant pas 7 699 euros
 
-Comprise entre 15 000 euros et 520 000 euros : 20 %.
+5
 
-Comprise entre 520 000 euros et 850 000 euros : 30 %.
 
-Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
+Comprise entre 7 699 euros et 11 548 euros
 
-Au-delà de 1 700 000 euros : 40 %.
+10
+
+
+Comprise entre 11 548 euros et 15 195 euros
+
+15
+
+
+Comprise entre 15 195 euros et 526 760 euros
+
+20
+
+
+Comprise entre 526 760 euros et 861 050 euros
+
+30
+
+
+Comprise entre 861 050 euros et 1 722 100 euros
+
+35
+
+
+Au-delà de 1 722 100 euros
+
+40
 
 
 TABLEAU II
@@ -30,42 +53,72 @@ TABLEAU II
 Tarif des droits applicables entre époux et entre partenaires liés par un pacte
 civil de solidarité
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 7 600 euros : 5 %.
+FRACTION DE PART NETTE TAXABLE
 
-Comprise entre 7 600 et 15 000 euros: 10 %.
+TARIF APPLICABLE (en pourcentage)
 
-Comprise entre 15 000 euros et 30 000 euros : 15 %.
+N'excédant pas 7 699 euros
 
-Comprise entre 30 000 euros et 520 000 euros : 20 %.
+5
 
-Comprise entre 520 000 euros et 850 000 euros : 30 %.
 
-Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
+Comprise entre 7 699 euros et 15 195 euros
 
-Au-delà de 1 700 000 euros : 40 %.
+10
 
-Les trois derniers tarifs sont applicables aux mutations à titre gratuit entre
-vifs consenties par actes passés à compter du 14 septembre 1983 et aux
-successions ouvertes à compter du 1er janvier 1984.
+
+Comprise entre 15 195 euros et 30 390 euros
+
+15
+
+
+Comprise entre 30 390 euros et 526 760 euros
+
+20
+
+
+Comprise entre 526 760 euros et 861 050 euros
+
+30
+
+
+Comprise entre 861 050 euros et 1 722 100 euros
+
+35
+
+
+Au-delà de 1 722 100 euros
+
+40
 
 
 TABLEAU III
 
-Tarif des droits applicables en ligne collatérale et entre non-parents.
+Tarif des droits applicables en ligne collatérale et entre non parents
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
-Entre frères et soeurs :
+FRACTION DE PART NETTE TAXABLE
 
-N'excédant pas 23 000 euros : 35 %.
+TARIF APPLICABLE (en pourcentage)
 
-Supérieure à 23 000 euros : 45 %.
+Entre frères et sœurs : N'excédant pas 23 299 euros
 
-Entre parents jusqu'au quatrième degré inclusivement : 55 %.
+35
 
-Entre parents au-delà du quatrième degré et entre personnes non parentes : 60 %.
+
+Supérieure à 23 299 euros
+
+45
+
+Entre parents jusqu'au 4e degré inclusivement
+
+55
+
+
+Entre parents au-delà du 4e degré et entre personnes non parentes
+
+60
 
 Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795,
 les dons et legs faits aux établissements publics ou d'utilité publique sont

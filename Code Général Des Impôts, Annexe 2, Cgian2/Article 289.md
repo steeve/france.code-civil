@@ -98,27 +98,25 @@ impôts ;
 
 21° Résiliation du contrat de gérance qui lie les débitants de tabacs ordinaires
 ou temporaires avec l'administration des douanes et droits indirects, prévue au
-deuxième alinéa du 1 de l'article 244 sexies de l'annexe III ;
+deuxième alinéa du 1 de l'article 1er du décret n° 2007-906 du 15 mai 2007 ;
 
 22° Rejet de la soumission d'un signataire du cahier des charges dans le cadre
 de la procédure d'adjudication de l'attribution de la gérance d'un débit de
-tabac, prévu par le deuxième alinéa du 3 du III de l'article 244 undecies de
-l'annexe III au code général des impôts ;
+tabac, prévu par le deuxième alinéa du 3 du II de l'article 16 du décret précité
+;
 
 23° Rejet de la candidature d'une personne qui a été retenue pour participer à
 la procédure d'adjudication en vue de l'attribution de la gérance d'un débit de
 tabac ordinaire en raison de l'absence de fourniture de l'un ou de plusieurs
-renseignements ou documents énumérés au 1 du IV de l'article 244 undecies de
-l'annexe III au code général des impôts, prévu par le 2 du IV de cet article ;
+renseignements ou documents énumérés au 1 du III de l'article 16 du décret
+précité, prévu par le 2 du III du même article ;
 
 24° Autorisation d'approvisionnement en tabac donnée à un candidat à la gérance
-d'un débit de tabac ordinaire, prévue par l'article 244 quaterdecies de l'annexe
-III au code général des impôts ;
+d'un débit de tabac ordinaire, prévue par l'article 6 du décret précité ;
 
 25° Retrait de la faculté de revente des tabacs manufacturés, en cas de
-non-respect par le revendeur des dispositions prévues aux articles 244
-septdecies à 244 novodecies, prévu par l'article 244 vicies de l'annexe III au
-code général des impôts ;
+non-respect par le revendeur des dispositions prévues aux articles 23 à 25 du
+décret précité, prévu par l'article 26 du même décret ;
 
 26° Autorisation des entrepositaires agréés de rattacher un ou plusieurs chais
 ou locaux au site d'exploitation lorsqu'ils sont situés en dehors des limites
@@ -177,26 +175,25 @@ l'annexe IV au code général des impôts ;
 vignettes, prévue par le II de l'article 54 A de l'annexe IV au code général des
 impôts ;
 
-39° Création des débits de tabac ordinaires et temporaires, prévue par l'article
-57 de l'annexe IV au code général des impôts ;
+39° implantation des débits de tabac ordinaires permanents et saisonniers
+respectivement prévue aux articles 10 et 17 du décret n° 2007-906 du 15 mai 2007
+;
 
-40° Autorisation de transfert d'un débit de tabac ordinaire, prévue à l'article
-57 J de l'annexe IV au code général des impôts ;
+40° Autorisation de transfert d'un débit de tabac ordinaire saisonnier prévue à
+l'article 19 du décret précité ;
 
 41° Notification de la fermeture provisoire ou définitive d'un débit de tabac
-ordinaire, prévue à l'article 57 N de l'annexe IV au code général des impôts ;
+ordinaire respectivement prévue aux articles 7 et 8 du décret précité ;
 
 42° Réouverture d'un débit de tabac ordinaire fermé provisoirement à la suite de
-la demande de toute personne intéressée par la reprise de sa gérance, prévue par
-le IV de l'article 57 N de l'annexe IV au code général des impôts ;
+la demande de toute personne intéressée par la reprise de sa gérance prévue au
+douzième alinéa de l'article 7 du décret précité ;
 
 43° Autorisation de transformer un débit de tabac ordinaire saisonnier en débit
-de tabac ordinaire permanent, prévue au II de l'article 57 O de l'annexe IV au
-code général des impôts ;
+de tabac ordinaire permanent prévue au II de l'article 18 du décret précité ;
 
 44° Autorisation de transformer un débit de tabac ordinaire permanent en débit
-de tabac ordinaire saisonnier, prévue au III de l'article 57 O de l'annexe IV au
-code général des impôts ;
+de tabac ordinaire saisonnier prévue au III de l'article 18 du décret précité ;
 
 45° Autorisation délivrée aux établissements de spectacles de faire usage de
 distributeurs automatiques pour la délivrance de billets, prévue par l'article

@@ -111,21 +111,21 @@ VI. - Les I à IV et le V sont applicables aux aérodromes appartenant à l'Etat
 Polynésie française et en Nouvelle-Calédonie, sous réserve des dispositions
 particulières suivantes :
 
-- le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
+1° - le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
 
-- sur un même aérodrome, des tarifs différents peuvent être fixés pour les vols
-intérieurs en fonction de leur destination ;
+2° - sur un même aérodrome, des tarifs différents peuvent être fixés pour les
+vols intérieurs en fonction de leur destination ;
 
-- la limite inférieure des tarifs est fixée à 0,50 euro par passager effectuant
-un vol intérieur à la Polynésie française.
+3° - la limite inférieure des tarifs est fixée à 0,50 euro par passager
+effectuant un vol intérieur à la Polynésie française.
 
 VII. - Le IV bis est applicable aux aérodromes appartenant à l'Etat en Polynésie
 française, en Nouvelle-Calédonie, à Saint-Barthélemy et à Saint-Martin, sous
 réserve des dispositions particulières suivantes :
 
-- le produit de la majoration est reversé directement aux exploitants de ces
+1° - le produit de la majoration est reversé directement aux exploitants de ces
 aérodromes ;
 
-- sur un même aérodrome en Polynésie française et en Nouvelle-Calédonie, des
+2° - Sur un même aérodrome en Polynésie française et en Nouvelle-Calédonie, des
 tarifs différents peuvent être fixés pour les vols intérieurs en fonction de
 leur destination.

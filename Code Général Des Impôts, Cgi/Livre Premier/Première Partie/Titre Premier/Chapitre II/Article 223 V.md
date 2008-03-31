@@ -1,6 +1,6 @@
 Article 223 V
 ----
-I. - Les profits ou les pertes ainsi que les plus ou moins-values résultant du
+I.-Les profits ou les pertes ainsi que les plus ou moins-values résultant du
 transfert dans un patrimoine fiduciaire de biens et droits inscrits à l'actif du
 bilan du constituant de la fiducie ne sont pas compris dans le résultat
 imposable de l'exercice de transfert si les conditions suivantes sont réunies :
@@ -55,22 +55,21 @@ avaient, du point de vue fiscal, dans les écritures du constituant est compris
 dans le résultat imposable de ce dernier au titre de l'exercice au cours duquel
 intervient le transfert dans le patrimoine fiduciaire.
 
-II. - Les droits afférents à un contrat de crédit-bail conclu dans les
-conditions prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et
-financier sont assimilés à des éléments de l'actif immobilisé, amortissables ou
-non amortissables dans les conditions prévues à l'article 39 duodecies A.
+II.-Les droits afférents à un contrat de crédit-bail conclu dans les conditions
+prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier sont
+assimilés à des éléments de l'actif immobilisé, amortissables ou non
+amortissables dans les conditions prévues à l'article 39 duodecies A.
 
-Pour l'application du c du 3° du I du présent article, en cas de cession
-ultérieure des droits mentionnés au premier alinéa du présent II qui sont
-assimilés à des éléments non amortissables ou de cession du terrain, la
-plus-value est calculée d'après la valeur que ces droits avaient, du point de
-vue fiscal, dans les écritures du constituant.
+Pour l'application du c du 3° du I, en cas de cession ultérieure des droits
+mentionnés au premier alinéa qui sont assimilés à des éléments non amortissables
+ou de cession du terrain, la plus-value est calculée d'après la valeur que ces
+droits avaient, du point de vue fiscal, dans les écritures du constituant.
 
 Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail
 portant sur des éléments incorporels amortissables d'un fonds de commerce ou
 assimilé.
 
-III. - Pour l'application du présent article, les titres du portefeuille dont le
+III.-Pour l'application du présent article, les titres du portefeuille dont le
 résultat de cession est exclu du régime des plus ou moins-values à long terme
 conformément à l'article 219 sont assimilés à des éléments non amortissables de
 l'actif immobilisé.

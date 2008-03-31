@@ -29,7 +29,8 @@ impôts.
 
 4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre
 civil, par un redevable à un même poste comptable ou service assimilé et
-susceptibles d'être inscrites demeurent impayées.
+susceptibles d'être inscrites demeurent impayées et dépassent un seuil fixé par
+décret en fonction du chiffre d'affaires ou du montant des recettes.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu
 des obligations et formalités mises par le présent article à la charge de

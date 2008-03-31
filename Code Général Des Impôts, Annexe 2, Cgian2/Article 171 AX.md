@@ -1,6 +1,6 @@
 Article 171 AX
 ----
-I. - Les personnes morales mentionnées au premier alinéa de l'article 242 sexies
+I.-Les personnes morales mentionnées au premier alinéa de l'article 242 sexies
 du code général des impôts déposent, dans les mêmes délais que leur déclaration
 de résultats ou de bénéfices, au titre de l'exercice au cours duquel
 l'investissement est livré, ou achevé lorsqu'il s'agit d'un immeuble, une
@@ -14,7 +14,7 @@ code activité et numéro SIREN ;
 adresse, numéro SIREN) et la répartition de leurs droits dans les résultats ;
 
 3° Pour chaque investissement financé avec le recours à l'un des dispositifs
-prévus aux articles 199 undecies A, 199 undecies B et 217 undecies du code
+prévus aux articles 199 undecies A,199 undecies B et 217 undecies du code
 général des impôts :
 
 a) La nature de l'investissement et le secteur d'investissement, conformément à
@@ -56,9 +56,9 @@ maintenus pendant les cinq premières années d'exploitation de l'investissement
 k) Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation
 préalable de l'administration.
 
-II. - Lorsque l'investissement consiste en la réalisation de logements et ouvre
-droit aux dispositions prévues par les articles 199 undecies A ou 217 undecies,
-la déclaration précise également :
+II.-Lorsque l'investissement consiste en la réalisation de logements et ouvre
+droit aux dispositions prévues par les articles 199 undecies A ou 217 undecies
+du code général des impôts, la déclaration précise également :
 
 1° Si l'investissement consiste en l'acquisition ou la construction de logements
 ;

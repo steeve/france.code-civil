@@ -13,11 +13,11 @@ moyenne des habitations de la commune pour chacune des deux premières personnes
 Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
 
 2. L'abattement facultatif à la base, que le conseil municipal peut instituer,
-est égal à 5, 10 ou 15 % de la valeur locative moyenne des habitations de la
+est égal à 5,10 ou 15 % de la valeur locative moyenne des habitations de la
 commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil
-municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux
+municipal peut accorder un abattement à la base de 5,10 ou 15 % aux
 contribuables dont le montant des revenus de l'année précédente n'excède pas la
 limite prévue à l'article 1417 et dont l'habitation principale a une valeur
 locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté
@@ -28,8 +28,8 @@ peuvent, par une délibération prise dans les conditions prévues à l'article 
 A bis, instituer un abattement de 10 % de la valeur locative moyenne des
 habitations de la commune aux contribuables qui sont :
 
-1° Titulaires de l'allocation supplémentaire mentionnée à l'article L. 815-3 du
-code de la sécurité sociale ;
+1° Titulaires de l'allocation supplémentaire d'invalidité mentionnée à l'article
+L. 815-24 du code de la sécurité sociale ;
 
 2° Titulaires de l'allocation aux adultes handicapés mentionnée aux articles L.
 821-1 et suivants du code de la sécurité sociale ;
@@ -89,7 +89,7 @@ En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
 
-II ter. - 1. Les taux de 10 % et 15 % visés au 1 du II et leurs majorations de 5
+II ter.-1. Les taux de 10 % et 15 % visés au 1 du II et leurs majorations de 5
 ou 10 points votées par les conseils municipaux, généraux et les organes
 délibérants des établissements publics de coopération intercommunale à fiscalité
 propre, la majoration de 10 points visée au 3 du II ainsi que le montant de

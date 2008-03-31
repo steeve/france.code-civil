@@ -6,6 +6,6 @@ suivant celle au cours ou à l'issue de laquelle les assujettis ayant exercé
 cette option ont bénéficié d'un des remboursements mentionnés aux articles 242-0
 A à 242-0 D.
 
-Lorsque l'assujetti par voie d'option ouverte à l'article 193, deuxième alinéa,
-a bénéficié d'un remboursement, la reconduction prend effet à l'expiration de la
-période définie au deuxiéme alinéa de l'article 194.
+Lorsque l'assujetti par voie d'option ouverte au premier alinéa de l'article
+193, deuxième alinéa, a bénéficié d'un remboursement, la reconduction prend
+effet à l'expiration de la période définie au deuxiéme alinéa de l'article 194.

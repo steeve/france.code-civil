@@ -67,8 +67,8 @@ moitié du patrimoine des enfants mineurs du demandeur et de son conjoint ou de
 son partenaire de pacte civil de solidarité est ajoutée à la moitié du
 patrimoine commun ;
 
-d) Pour les intérêts de retard et les pénalités mentionnées aux articles 1727,
-1728, 1729, 1732 et 1758 A consécutifs à la rectification d'un bénéfice ou
+d) Pour les intérêts de retard et les pénalités mentionnées aux articles
+1727,1728,1729,1732 et 1758 A consécutifs à la rectification d'un bénéfice ou
 revenu propre au conjoint ou au partenaire de pacte civil de solidarité du
 demandeur, la décharge de l'obligation de paiement est prononcée en totalité.
 Elle est prononcée, dans les autres situations, dans les proportions définies
@@ -77,7 +77,7 @@ et au c pour l'impôt de solidarité sur la fortune.
 
 3. Le bénéfice de la décharge de l'obligation de paiement est subordonné au
 respect des obligations déclaratives du demandeur prévues par les articles 170
-et 855 W à compter de la date de la fin de la période d'imposition commune.
+et 885 W à compter de la date de la fin de la période d'imposition commune.
 
 La décharge de l'obligation de paiement ne peut pas être accordée lorsque le
 demandeur et son conjoint ou son partenaire lié par un pacte civil de solidarité
@@ -96,4 +96,4 @@ Pour l'application de ces dispositions, la situation de gêne et d'indigence
 s'apprécie au regard de la seule situation de la personne divorcée ou séparée à
 la date de demande de remise.
 
-IV.L'application des II et III ne peut donner lieu à restitution.
+IV. L'application des II et III ne peut donner lieu à restitution.

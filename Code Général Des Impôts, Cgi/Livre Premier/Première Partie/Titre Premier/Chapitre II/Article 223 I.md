@@ -45,14 +45,13 @@ déficit qui n'a pu être reportée au titre d'un exercice dans les conditions
 prévues à l'article 223 S peut, dans la mesure où ce déficit correspond à celui
 de la société mère absorbée ou à celui des sociétés membres du groupe ayant
 cessé et qui font partie du nouveau groupe, s'imputer sur les résultats,
-déterminés selon les modalités prévues au 4 du présent article et par dérogation
-au a du 1 du présent article, des sociétés mentionnées ci-dessus.
+déterminés selon les modalités prévues au 4 et par dérogation au a du 1, des
+sociétés mentionnées ci-dessus.
 
 La fraction du déficit transférée en application du 7 peut, dans la mesure où
 cette fraction correspond au déficit des sociétés apportées qui font partie du
 nouveau groupe, s'imputer sur les résultats, déterminés selon les modalités
-prévues au 4 du présent article et par dérogation au a du 1 du présent article,
-des sociétés mentionnées ci-dessus.
+prévues au 4 et par dérogation au a du 1, des sociétés mentionnées ci-dessus.
 
 6. Dans les situations visées aux c ou e du 6 de l'article 223 L, les déficits
 de la société absorbée ou scindée, déterminés dans les conditions prévues à

@@ -33,23 +33,12 @@ régime fiscal des plus-values à long terme.
 
 3. (Abrogé)
 
-4. Les distributions par les sociétés de capital-risque qui fonctionnent dans
-les conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985
-modifiée sont soumises, lorsque l'actionnaire est une entreprise, au régime
-fiscal des plus-values à long terme réalisées lors de la cession d'actions si la
-distribution est prélevée sur des plus-values :
-
-provenant de titres, cotés ou non cotés, détenus depuis au moins deux ans et de
-la nature de ceux qui sont visés dans la première phrase du premier alinéa du I
-du même article 1er ;
-
-et réalisées au cours de l'exercice au titre duquel la distribution est
-effectuée ou des trois exercices précédents.
+4. (Périmé)
 
 5. Les distributions par les sociétés de capital-risque qui fonctionnent dans
-les conditions de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
-précitée sont soumises, lorsque l'actionnaire est une entreprise, au régime
-fiscal des plus-values à long terme si la distribution est prélevée sur :
+les conditions de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 sont
+soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des
+plus-values à long terme si la distribution est prélevée sur :
 
 1° Des plus-values nettes réalisées au cours des exercices clos à compter du 31
 décembre 2001 provenant de la cession de titres détenus depuis au moins deux ans

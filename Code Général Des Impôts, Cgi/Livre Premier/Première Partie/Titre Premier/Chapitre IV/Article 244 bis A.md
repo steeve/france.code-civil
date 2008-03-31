@@ -2,13 +2,13 @@ Article 244 bis A
 ----
 I.-1. Sous réserve des conventions internationales, les plus-values, telles que
 définies aux e bis et e ter du I de l'article 164 B, réalisées par les personnes
-et organismes mentionnés au 2 du présent I lors de la cession des biens ou
-droits mentionnés au 3 sont soumises à un prélèvement selon le taux fixé au
-deuxième alinéa du I de l'article 219.
+et organismes mentionnés au 2 du I lors de la cession des biens ou droits
+mentionnés au 3 sont soumises à un prélèvement selon le taux fixé au deuxième
+alinéa du I de l'article 219.
 
 Cette disposition n'est pas applicable aux cessions d'immeubles réalisées par
-des personnes physiques ou morales ou des organismes mentionnés à l'alinéa
-précédent, qui exploitent en France une entreprise industrielle, commerciale ou
+des personnes physiques ou morales ou des organismes mentionnés au premier
+alinéa, qui exploitent en France une entreprise industrielle, commerciale ou
 agricole ou y exercent une profession non commerciale à laquelle ces immeubles
 sont affectés. Les immeubles doivent être inscrits, selon le cas, au bilan ou au
 tableau des immobilisations établis pour la détermination du résultat imposable
@@ -74,9 +74,9 @@ ou autres droits sont cédés ;
 g) De parts ou d'actions de sociétés cotées sur un marché français ou étranger,
 autres que celles mentionnées aux c et f, dont l'actif est, à la clôture des
 trois exercices qui précèdent la cession, principalement constitué directement
-ou indirectement de biens et droits mentionnés au présent 3, lorsque le cédant
-détient directement ou indirectement au moins 10 % du capital de la société dont
-les parts ou actions sont cédées. Si la société dont les parts ou actions sont
+ou indirectement de biens et droits mentionnés au 3, lorsque le cédant détient
+directement ou indirectement au moins 10 % du capital de la société dont les
+parts ou actions sont cédées. Si la société dont les parts ou actions sont
 cédées n'a pas encore clos son troisième exercice, la composition de l'actif est
 appréciée à la clôture du ou des seuls exercices clos ou, à défaut, à la date de
 la cession ;
@@ -85,10 +85,10 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux
 mentionnés aux b à f, quelle qu'en soit la forme, non cotés sur un marché
 français ou étranger, dont l'actif est, à la clôture des trois exercices qui
 précèdent la cession, principalement constitué directement ou indirectement de
-biens ou droits mentionnés au présent 3. Si l'organisme dont les parts, actions
-ou droits sont cédés n'a pas encore clos son troisième exercice, la composition
-de l'actif est appréciée à la clôture du ou des seuls exercices clos ou, à
-défaut, à la date de la cession.
+biens ou droits mentionnés au 3. Si l'organisme dont les parts, actions ou
+droits sont cédés n'a pas encore clos son troisième exercice, la composition de
+l'actif est appréciée à la clôture du ou des seuls exercices clos ou, à défaut,
+à la date de la cession.
 
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables
 assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les
@@ -150,4 +150,4 @@ raison des sommes qui ont supporté celui-ci.
 
 Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû par
 le contribuable à raison de cette plus-value au titre de l'année de sa
-réalisation.S'il excède l'impôt dû, l'excédent est restitué.
+réalisation. S'il excède l'impôt dû, l'excédent est restitué.

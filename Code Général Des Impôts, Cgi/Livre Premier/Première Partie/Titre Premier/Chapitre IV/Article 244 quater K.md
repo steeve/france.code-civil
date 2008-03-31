@@ -1,10 +1,9 @@
 Article 244 quater K
 ----
-I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
-exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44
-octies A, 44 decies et 44 undecies qui exposent des dépenses d'équipement en
-nouvelles technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces
-dépenses.
+I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
+exonérées en application des articles 44 sexies,44 sexies A,44 octies,44 octies
+A,44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles
+technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont réalisé soit un chiffre d'affaires
@@ -26,9 +25,9 @@ chiffres d'affaires et de la somme des effectifs de chacune des sociétés membr
 de ce groupe. La condition tenant à la composition du capital doit être remplie
 par la société mère du groupe.
 
-II. - Les dépenses d'équipement en nouvelles technologies ouvrant droit au
-crédit d'impôt sont, à condition qu'elles soient exposées dans l'intérêt direct
-de l'exploitation :
+II.-Les dépenses d'équipement en nouvelles technologies ouvrant droit au crédit
+d'impôt sont, à condition qu'elles soient exposées dans l'intérêt direct de
+l'exploitation :
 
 1° Les dépenses d'acquisition à l'état neuf d'immobilisations incorporelles et
 corporelles relatives à la mise en place d'un réseau intranet ou extranet, à
@@ -44,18 +43,18 @@ incorporelles nécessaires à la protection des réseaux mentionnés au 1° ;
 4° Les dépenses d'aide à la mise en place et à la protection des réseaux
 mentionnés au 1°.
 
-III. - Les subventions publiques reçues par les entreprises à raison de dépenses
+III.-Les subventions publiques reçues par les entreprises à raison de dépenses
 ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 
-IV. - Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du
+IV.-Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du
 crédit d'impôt mentionné au I et dans celle d'un autre crédit d'impôt.
 
-V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
 règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
-Pour l'application du précédent alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8,238 bis L,238 ter,239 ter,239 quater,239 quater A,239
+Pour l'application du premier alinéa, les sociétés de personnes et groupements
+mentionnés aux articles 8, 238 bis L,238 ter,239 ter,239 quater,239 quater A,239
 quater B,239 quater C,239 quater D et 239 quinquies qui ne sont pas soumis à
 l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 /
 2006 de la Commission du 15 décembre 2006 précité. Le crédit d'impôt peut être
@@ -65,4 +64,4 @@ satisfont aux conditions d'application de ce même règlement et sous réserve
 qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes
 physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-VI. - Un décret fixe les conditions d'application du présent article.
+VI.-Un décret fixe les conditions d'application du présent article.

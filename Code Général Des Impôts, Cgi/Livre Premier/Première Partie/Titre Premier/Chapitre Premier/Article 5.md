@@ -6,11 +6,11 @@ Sont affranchis de l'impôt sur le revenu :
 
 2° Les personnes physiques qui bénéficient principalement de traitements,
 salaires, pensions et rentes viagères et dont le revenu global n'est pas
-supérieur au montant du minimum garanti prévu à l'article L. 141-8 du code du
+supérieur au montant du minimum garanti prévu à l'article L. 3231-12 du code du
 travail ;
 
 2° bis Les contribuables dont le revenu net de frais professionnels, n'excède
-pas, par foyer fiscal, 7 290 euros, ou 8 660 euros s'ils sont âgés de plus de
+pas, par foyer fiscal, 8 030 euros, ou 8 780 euros s'ils sont âgés de plus de
 soixante-cinq ans ; ces limites sont identiques, quelle que soit la nature des
 revenus perçus ;
 

@@ -1,22 +1,22 @@
 Article 1414 A
 ----
-I. - Les contribuables autres que ceux mentionnés à l'article 1414, dont le
+I.-Les contribuables autres que ceux mentionnés à l'article 1414, dont le
 montant des revenus de l'année précédente n'excède pas la limite prévue au II de
 l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à leur
-habitation principale pour la fraction de leur cotisation qui excède 3,44 % (1)
-de leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
+habitation principale pour la fraction de leur cotisation qui excède 3,44 % de
+leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-a. 4 814 euros pour la première part de quotient familial, majoré de 1 391 euros
-pour les quatre premières demi-parts et de 2 461 euros pour chaque demi-part
+a. 4 877 euros pour la première part de quotient familial, majoré de 1 409 euros
+pour les quatre premières demi-parts et de 2 493 euros pour chaque demi-part
 supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-b. 5 777 euros pour la première part de quotient familial, majoré de 1 391 euros
-pour les deux premières demi-parts et de 2 461 euros pour chaque demi-part
+b. 5 852 euros pour la première part de quotient familial, majoré de 1 409 euros
+pour les deux premières demi-parts et de 2 493 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans les départements de la
 Martinique, de la Guadeloupe et de la Réunion ;
 
-c. 6 418 euros pour la première part de quotient familial, majoré de 1 070 euros
-pour les deux premières demi-parts et de 2 566 euros pour chaque demi-part
+c. 6 501 euros pour la première part de quotient familial, majoré de 1 084 euros
+pour les deux premières demi-parts et de 2 598 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans le département de la Guyane.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
@@ -25,7 +25,7 @@ supérieure de la première tranche du barème de l'impôt sur le revenu.
 Les majorations d'abattements mentionnées aux a, b et c sont divisées par deux
 pour les quarts de part.
 
-II. - 1. Pour l'application du I :
+II.-1. Pour l'application du I :
 
 a. Le revenu s'entend du revenu du foyer fiscal du contribuable au nom duquel la
 taxe est établie ;
@@ -74,7 +74,7 @@ prévues au II et au 1 du présent III est réduit d'un montant égal à la
 différence positive entre, d'une part, le montant du dégrèvement ainsi déterminé
 et, d'autre part, le montant de celui calculé dans les mêmes conditions en
 tenant compte de la cotisation déterminée en faisant application des taux
-d'abattement prévus aux 1, 2 et 3 du II de l'article 1411 et en vigueur en 2003.
+d'abattement prévus aux 1,2 et 3 du II de l'article 1411 et en vigueur en 2003.
 
 Cette disposition est également applicable lorsque les abattements sont fixés en
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les

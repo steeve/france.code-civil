@@ -1,11 +1,11 @@
 Article 163 quatervicies
 ----
-I. - 1. - Sont déductibles du revenu net global, dans les conditions et limites
+I.-1.-Sont déductibles du revenu net global, dans les conditions et limites
 mentionnées au 2, les cotisations ou les primes versées par chaque membre du
 foyer fiscal :
 
 a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code
-des assurances portant réforme des retraites ;
+des assurances ;
 
 b) à titre individuel et facultatif aux contrats souscrits dans le cadre de
 régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et
@@ -14,8 +14,8 @@ sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un
 groupement d'employeurs et non par un groupement d'épargne retraite populaire
 défini à l'article L. 144-2 du code des assurances, et sous réserve, d'une part,
 que ces contrats respectent les règles applicables au plan d'épargne retraite
-populaire défini par le même article, à l'exception des V et XII du même
-article, et à condition, d'autre part :
+populaire défini par le même article, à l'exception du XII du même article, et à
+condition, d'autre part :
 
 1° que le contrat prévoie les modalités de financement des missions du comité de
 surveillance ;
@@ -28,8 +28,8 @@ d'employeurs ;
 
 3° que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu
 d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populaire
-défini à l'article L. 144-2 du code des assurances ou vers un autre contrat
-respectant les règles fixées au b ;
+défini à l'article L. 144-2 précité ou vers un autre contrat respectant les
+règles fixées au b ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de
 prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite
@@ -40,11 +40,11 @@ et des établissements publics soit auprès d'organismes relevant du code de la
 mutualité, soit auprès d'entreprises régies par le code des assurances, ou
 institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n°
 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les
-directives 92/49/CEE et 92/96/CEE du Conseil, des 18 juin et 10 novembre 1992,
-pour leurs opérations collectives visées à l'article L. 222-1 du code de la
-mutualité.
+directives 92 / 49 / CEE et 92 / 96 / CEE du Conseil, des 18 juin et 10 novembre
+1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de
+la mutualité.
 
-2. - a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour
+2.-a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour
 chaque membre du foyer fiscal dans une limite annuelle égale à la différence
 constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas
 été fiscalement domiciliées en France au cours des trois années civiles
@@ -64,8 +64,8 @@ de l'article 154 bis-0 A et du 13° du II de l'article 156 compte non tenu de
 leur fraction correspondant à 15 % de la quote-part du bénéfice comprise entre
 une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la
 sécurité sociale, ainsi que des sommes versées par l'entreprise au plan
-d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du
-travail et exonérées en application du 18° de l'article 81.
+d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16
+du code du travail et exonérées en application du 18° de l'article 81.
 
 Les membres d'un couple marié ou les partenaires liés par un pacte civil de
 solidarité défini à l'article 515-1 du code civil, soumis à imposition commune,
@@ -103,15 +103,15 @@ de laquelle elles s'y domicilient bénéficient au titre de cette dernière ann�
 d'un plafond complémentaire de déduction égal au triple du montant de la
 différence définie au a.
 
-II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I
+II.-Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I
 s'entendent :
 
-1. - Des traitements et salaires définis à l'article 79 et des rémunérations
+1.-Des traitements et salaires définis à l'article 79 et des rémunérations
 allouées aux gérants et associés des sociétés mentionnées à l'article 62, pour
 leur montant déterminé respectivement en application des articles 83 à 84 A et
 du dernier alinéa de l'article 62 ;
 
-2. - Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des
+2.-Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des
 bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de
 l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92,
 pour leur montant imposable.

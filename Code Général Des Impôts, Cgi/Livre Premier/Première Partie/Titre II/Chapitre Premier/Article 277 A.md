@@ -79,9 +79,9 @@ l'autorisation du régime est solidairement tenue au paiement de la taxe.
 3. La taxe due est, selon le cas :
 
 1° Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement
-sous le régime, la taxe afférente à l'opération mentionnée aux 1°, 2°, 3° ou 4°
-du I, et, le cas échéant, la taxe afférente aux prestations de services
-mentionnées aux 5° et 6° du I ;
+sous le régime, la taxe afférente à l'opération mentionnée aux 1°,2°,3° ou 4° du
+I, et, le cas échéant, la taxe afférente aux prestations de services mentionnées
+aux 5° et 6° du I ;
 
 2° Lorsque le bien a fait l'objet d'une ou plusieurs livraisons mentionnées aux
 6° et 7° du I pendant son placement sous le régime, la taxe afférente à la
@@ -113,4 +113,4 @@ registres.
 2° Etre en possession du double des factures et des différentes pièces
 justificatives relatives aux opérations mentionnées au I.
 
-IV. Un décret fixe les modalités d'application du présent article.
+IV. (Disjoint).

@@ -13,7 +13,7 @@ tribunal correctionnel saisis, en tout état de la procédure, sur réquisition 
 procureur de la République. Elle peut l'être également, hors le cas de la
 saisine du juge d'instruction ou du tribunal correctionnel, par le président du
 tribunal statuant en référé dans les conditions prévues aux articles 485 et 486
-du nouveau code de procédure civile. Dans tous les cas, la décision ordonnant le
+du code de procédure civile. Dans tous les cas, la décision ordonnant le
 séquestre est, de plein droit, exécutoire par provision et sur minute, avant
 enregistrement.
 

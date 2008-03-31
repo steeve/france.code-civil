@@ -1,16 +1,14 @@
 Article 1582
 ----
 Les communes sur le territoire desquelles sont situées des sources d'eaux
-minérales peuvent percevoir une surtaxe dans la limite de 0,58 euro par
-hectolitre, portée à 0,70 euro par hectolitre pour celles qui ont perçu, au
+minérales peuvent percevoir une surtaxe dans la limite de 0, 58 euro par
+hectolitre, portée à 0, 70 euro par hectolitre pour celles qui ont perçu, au
 titre des volumes mis à la consommation en 2002, une recette inférieure à celle
 qu'elles auraient perçue pour ces mêmes volumes en application du mode de calcul
 de la surtaxe en vigueur avant le 1er janvier 2002.
 
 Lorsque le produit de cette surtaxe excède le montant des ressources ordinaires
-de la commune pour l'exercice précédent, ou, jusqu'au 31 décembre 2005, lorsque
-ce produit excède de plus de 10 % celui perçu au titre de l'année précédente, le
-surplus est attribué au département.
+de la commune pour l'exercice précédent, le surplus est attribué au département.
 
 Toutefois, lorsque les communes qui perçoivent cette surtaxe exécutent, après
 avis favorable du préfet des travaux d'assainissement entrant dans la catégorie

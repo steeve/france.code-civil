@@ -13,7 +13,7 @@ additionnel obligatoire institué par l'article 76 de la loi n° 2003-775 du 21
 août 2003 portant réforme des retraites ;
 
 1° 0 bis Les cotisations versées conformément aux dispositions du règlement CEE
-n° 1408/71 du Conseil du 14 juin 1971 relatif à l'application des régimes de
+n° 1408 / 71 du Conseil du 14 juin 1971 relatif à l'application des régimes de
 sécurité sociale aux travailleurs salariés et aux membres de leur famille qui se
 déplacent à l'intérieur de la Communauté ou conformément aux stipulations d'une
 convention ou d'un accord international relatif à l'application des régimes de
@@ -29,7 +29,7 @@ complémentaire auxquels le salarié est affilié à titre obligatoire, à condi
 lorsque ces cotisations ou primes financent des garanties portant sur le
 remboursement ou l'indemnisation de frais occasionnés par une maladie, une
 maternité ou un accident, que ces garanties respectent les conditions
-mentionnées à l'article L. 871-1 du même code.
+mentionnées à l'article L. 871-1 du code de la sécurité sociale.
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
 dans la limite, y compris les versements de l'employeur, d'un montant égal à la
@@ -54,9 +54,9 @@ du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale. En
 d'excédent, celui-ci est ajouté à la rémunération ;
 
 La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes
-versées par l'entreprise au plan d'épargne pour la retraite collectif défini à
-l'article L. 443-1-2 du code du travail et exonérées en application du 18° de
-l'article 81 ;
+versées par l'entreprise au plan d'épargne pour la retraite collectif défini aux
+articles L. 3334-1 à L. 3334-16 du code du travail et exonérées en application
+du 18° de l'article 81 ;
 
 2°-0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus
 de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à
@@ -69,22 +69,21 @@ avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 cotisations versées aux régimes de prévoyance complémentaire et, dans les
 limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
 aux régimes de retraite complémentaire répondant aux conditions fixées à
-l'article 3 de la directive 98/49/CE du Conseil du 29 juin 1998 relative à la
-sauvegarde des droits à pension complémentaire des travailleurs salariés et non
-salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par
-les conventions ou accords internationaux de sécurité sociale, auxquels les
+l'article 3 de la directive 98 / 49 / CE du Conseil du 29 juin 1998 relative à
+la sauvegarde des droits à pension complémentaire des travailleurs salariés et
+non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues
+par les conventions ou accords internationaux de sécurité sociale, auxquels les
 personnes désignées au I de l'article 81 B étaient affiliées ès qualités dans un
 autre Etat avant leur prise de fonctions en France. Les cotisations sont
 déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur
 prise de fonctions ;
 
 2° bis Les contributions versées par les salariés en application des
-dispositions de l'article L. 351-3 du code du travail et destinées à financer le
-régime d'assurance des travailleurs privés d'emploi ;
+dispositions de l'article L. 5422-9 du code du travail et destinées à financer
+le régime d'assurance des travailleurs privés d'emploi ;
 
 2° ter La contribution exceptionnelle de solidarité en faveur des travailleurs
-privés d'emploi, instituée par l'article 2, modifié, de la loi n° 82-939 du 4
-novembre 1982 ;
+privés d'emploi, prévue à l'article L. 5423-26 du code du travail ;
 
 2° quater Les intérêts des emprunts contractés, à compter du 1er janvier 1984,
 pour souscrire au capital d'une société nouvelle exerçant une activité
@@ -149,14 +148,14 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 328 euros
-pour l'imposition des rémunérations perçues en 2006 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 501 euros
+pour l'imposition des rémunérations perçues en 2007 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 396 euros ou à 869 euros pour les personnes inscrites en tant que
+inférieur à 401 euros ou à 880 euros pour les personnes inscrites en tant que
 demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut
 des traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de
@@ -173,7 +172,7 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales. Le
 montant des frais réels à prendre en compte au titre de l'acquisition des
 immeubles, des véhicules et autres biens dont la durée d'utilisation est
 supérieure à un an s'entend de la dépréciation que ces biens ont subie au cours
-de l'année d'imposition .
+de l'année d'imposition.
 
 Sont assimilées à des frais professionnels réels les dépenses exposées en vue de
 l'obtention d'un diplôme ou d'une qualification professionnelle dans la

@@ -18,19 +18,18 @@ hors de la Communauté ;
 b) Revêtir l'une des formes énumérées sur une liste établie par arrêté du
 ministre chargé de l'économie conformément à l'annexe à la directive du Conseil
 des communautés européennes n° 90-435 du 23 juillet 1990 modifiée par la
-directive 2003/123/CE du Conseil, du 22 décembre 2003 ;
+directive 2003 / 123 / CE du Conseil, du 22 décembre 2003 ;
 
-c) Détenir directement, de façon ininterrompue depuis deux ans ou plus, 25 p.
-100 au moins du capital de la personne morale qui distribue les dividendes, ou
-prendre l'engagement de conserver cette participation de façon ininterrompue
-pendant un délai de deux ans au moins et désigner, comme en matière de taxes sur
-le chiffre d'affaires, un représentant qui est responsable du paiement de la
-retenue à la source visée au 1 en cas de non-respect de cet engagement ;
+c) Détenir directement, de façon ininterrompue depuis deux ans ou plus, 25 % au
+moins du capital de la personne morale qui distribue les dividendes, ou prendre
+l'engagement de conserver cette participation de façon ininterrompue pendant un
+délai de deux ans au moins et désigner, comme en matière de taxes sur le chiffre
+d'affaires, un représentant qui est responsable du paiement de la retenue à la
+source visée au 1 en cas de non-respect de cet engagement ;
 
-Le taux de participation prévu à l'alinéa précédent est ramené à 20 % pour les
-dividendes distribués entre le 1er janvier 2005 et le 31 décembre 2006, à 15 %
-pour les dividendes distribués entre le 1er janvier 2007 et le 31 décembre 2008
-et à 10 % pour les dividendes distribués à compter du 1er janvier 2009 ;
+Le taux de participation prévu au premier alinéa est ramené à 15 % pour les
+dividendes distribués entre le 1er janvier 2007 et le 31 décembre 2008 et à 10 %
+pour les dividendes distribués à compter du 1er janvier 2009 ;
 
 d) Etre passible, dans l'Etat membre où elle a son siège de direction effective,
 de l'impôt sur les sociétés de cet Etat, sans possibilité d'option et sans en

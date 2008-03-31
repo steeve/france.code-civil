@@ -23,9 +23,8 @@ compris dans les bases de l'impôt sur le revenu au titre des bénéfices
 industriels et commerciaux ;
 
 b) Les cessions de droits au titre d'un contrat de fiducie représentatifs de
-biens visés au premier alinéa et dont les résultats doivent être compris dans
-les bases de l'impôt sur le revenu au titre des bénéfices industriels et
-commerciaux ;
+biens visés au a et dont les résultats doivent être compris dans les bases de
+l'impôt sur le revenu au titre des bénéfices industriels et commerciaux ;
 
 7° Les opérations concourant à la production ou à la livraison d'immeubles.
 
@@ -143,7 +142,7 @@ collectivités territoriales ou un groupement de collectivités territoriales du
 lieu d'implantation du logement et si la somme des revenus fiscaux de référence,
 au sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
 logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de
-contrats de location-accession mentionnés au dixième alinéa du présent c.
+contrats de location-accession mentionnés au dixième alinéa.
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
@@ -160,7 +159,7 @@ onéreux à une personne n'intervenant pas en qualité de marchand de biens.
 
 2 bis. Le transfert de propriété à titre onéreux d'un immeuble bâti d'une
 commune à une communauté de communes, en application du premier alinéa de
-l'article L. 5214-18 du code général des collectivités territoriales, n'est pas
+l'article L. 5211-17 du code général des collectivités territoriales, n'est pas
 pris en compte pour l'application du 2.
 
 3. abrogé
@@ -231,7 +230,7 @@ d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction
 de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou
 le gestionnaire des locaux et le représentant de l'Etat dans le département. Ces
 dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit de
-taxe sur la valeur ajoutée prévu par l'article 279-0 bis du présent code.
+taxe sur la valeur ajoutée prévu par l'article 279-0 bis.
 
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens
 ou à des prestations de services effectuées à titre onéreux.

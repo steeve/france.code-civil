@@ -2,17 +2,17 @@ Article 1648 AA
 ----
 I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont
 créés ou qui font l'objet d'une extension en exécution d'autorisations délivrées
-à compter du 1er janvier 1991 en application des dispositions des 1°, 2° et 3°
-du I de l'article L. 720-5 du code de commerce est soumise à une répartition
+à compter du 1er janvier 1991 en application des dispositions des 1°,2° et 3° du
+I de l'article L. 752-1 du code de commerce est soumise à une répartition
 intercommunale dans les conditions définies aux II, III et IV du présent
 article. Cette répartition ne s'applique qu'aux établissements dont
 l'autorisation précitée et, s'il y a lieu, le permis de construire sont devenus
 définitifs.
 
 Pour les créations et extensions de magasins de commerce de détail qui font
-l'objet d'une autorisation délivrée en application des dispositions des 1°, 2°
-et 3° du I de l'article L. 720-5 précité, la répartition prévue au premier
-alinéa s'applique :
+l'objet d'une autorisation délivrée en application des dispositions des 1°,2° et
+3° du I de l'article L. 752-1 précité, la répartition prévue au premier alinéa
+s'applique :
 
 1° Aux créations de magasins d'une surface de vente supérieure à 1 000 mètres
 carrés ;
@@ -80,7 +80,7 @@ raison inverse du potentiel fiscal par kilomètre carré.
 IV. La répartition prévue au 1° du III est faite en proportion des populations
 des communes intéressées, sans que le versement puisse excéder, pour chacune des
 communes autres que la commune ou les communes du lieu d'implantation de
-l'ensemble commercial, 50 p. 100 des sommes à répartir.
+l'ensemble commercial,50 p. 100 des sommes à répartir.
 
 Lorsque les communes concernées sont membres d'un groupement à fiscalité propre,
 la population communale est affectée d'un coefficient multiplicateur égal à
@@ -107,15 +107,15 @@ rural en fonction d'un programme qu'elle établit.
 Cette commission est coprésidée par le représentant de l'Etat dans le
 département et par le président du conseil général ; elle comprend en outre :
 
-- trois maires désignés par l'association départementale des maires ;
+-trois maires désignés par l'association départementale des maires ;
 
-- quatre représentants du conseil général désignés en son sein par celui-ci ;
+-quatre représentants du conseil général désignés en son sein par celui-ci ;
 
-- trois représentants de la chambre de commerce et d'industrie ;
+-trois représentants de la chambre de commerce et d'industrie ;
 
-- un représentant de la chambre des métiers et de l'artisanat ;
+-un représentant de la chambre des métiers et de l'artisanat ;
 
-- deux personnalités qualifiées désignées par les co-présidents.
+-deux personnalités qualifiées désignées par les co-présidents.
 
 La répartition prévue au premier alinéa du V doit avoir pour objectif le
 maintien d'une présence commerciale harmonieuse en zone rurale.

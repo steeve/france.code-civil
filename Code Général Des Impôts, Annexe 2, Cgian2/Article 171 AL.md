@@ -7,5 +7,4 @@ services accessoires et au bénéfice afférent à ces prestations, le dépassem
 s'apprécie par référence à la moyenne de cette limite constatée l'année du
 dépassement et l'année précédente. Cette disposition n'est pas applicable
 lorsque le dépassement est constaté à la clôture du premier exercice d'option
-pour le régime prévu au deuxième alinéa du 3° septies de l'article 208 du code
-général des impôts.
+pour le régime prévu au 3° septies de l'article 208 du code général des impôts.

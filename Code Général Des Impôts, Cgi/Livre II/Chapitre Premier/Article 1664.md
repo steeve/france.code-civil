@@ -1,7 +1,7 @@
 Article 1664
 ----
 1. En ce qui concerne les contribuables qui auront été compris dans les rôles de
-l'année précédente pour une somme au moins égale à 323 euros, l'impôt sur le
+l'année précédente pour une somme au moins égale à 327 euros, l'impôt sur le
 revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en
 l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article
 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année
@@ -19,7 +19,7 @@ paiement mensuel, au versement d'un acompte provisionnel égal à 60 % de cette
 cotisation et payable au plus tard le 15 mai de la même année.
 
 Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme
-de 323 euros.
+de 327 euros.
 
 La somme prévue aux premier et quatrième alinéas est relevée chaque année dans
 la même proportion que la limite supérieure de la première tranche du barème de

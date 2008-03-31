@@ -1,6 +1,6 @@
 Article 41-00 A bis
 ----
-I. - Pour l'application de la taxe exceptionnelle prévue au 2 du V de l'article
+I.-Pour l'application de la taxe exceptionnelle prévue au 2 du V de l'article
 151 septies A du code général des impôts, le tarif annexé au premier alinéa de
 l'article 719 du code précité s'applique sur le montant brut des indemnités
 compensatrices dues en cas de cessation de mandat par les compagnies
@@ -11,10 +11,10 @@ des assurances.
 Lorsque l'indemnité compensatrice est versée sous forme de rente, le tarif
 mentionné au premier alinéa s'applique sur le capital représentatif de la rente.
 
-II. - Les crédits d'impôts et les prélèvements ou retenues non libératoires de
+II.-Les crédits d'impôts et les prélèvements ou retenues non libératoires de
 l'impôt sur le revenu s'imputent sur la taxe exceptionnelle.
 
-III. - En vue de l'établissement de la taxe exceptionnelle, les agents généraux
+III.-En vue de l'établissement de la taxe exceptionnelle, les agents généraux
 d'assurance indemnisés doivent au titre de l'année au cours de laquelle
 l'indemnité est acquise :
 
@@ -33,15 +33,15 @@ d'assurances indemnisés et la date de cessation desdits mandats ;
 b. Le document mentionné au IV ou un engagement de le produire auprès du service
 des impôts dont dépend l'agent indemnisé lorsque ce document n'a pas pu être
 établi par la compagnie d'assurances au moment du dépôt de la déclaration prévue
-à l'article 97 ou à l'article 170 ;
+à l'article 97 ou à l'article 170 du code général des impôts ;
 
 c. Le document attestant de la date d'entrée en jouissance des droits qu'a
 acquis l'agent indemnisé dans le régime de retraite de base auprès duquel il est
 affilié ou un engagement de le produire auprès du service des impôts dont il
 dépend lorsque ce document n'a pas pu être établi au moment du dépôt de la
-déclaration prévue à l'article 97 ou à l'article 170.
+déclaration prévue à l'article 97 ou à l'article 170 du code général des impôts.
 
-IV. - Les compagnies d'assurances redevables de l'indemnité compensatrice
+IV.-Les compagnies d'assurances redevables de l'indemnité compensatrice
 établissent, sur papier libre, un document comportant les informations suivantes
 :
 

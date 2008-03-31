@@ -85,9 +85,9 @@ bis, à la condition qu'il n'existe pas de lien de dépendance au sens des
 deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui
 bénéficie du crédit d'impôt et ces organismes ;
 
-Le plafond de 10 millions d'euros mentionné au premier alinéa du présent d ter
-est majoré de 2 millions d'euros à raison des dépenses correspondant aux
-opérations confiées aux organismes mentionnés au d ;
+Le plafond de 10 millions d'euros mentionné au premier alinéa est majoré de 2
+millions d'euros à raison des dépenses correspondant aux opérations confiées aux
+organismes mentionnés au d ;
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention
 végétale ;
@@ -165,7 +165,7 @@ du crédit d'impôt prévu à l'article 220 septies.
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte
 des dépenses prévues aux h et i du II est subordonné au respect du règlement
 (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis (1).
+l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements
 mentionnés aux articles 8,238 bis L,239 quater,239 quater B et 239 quater C qui

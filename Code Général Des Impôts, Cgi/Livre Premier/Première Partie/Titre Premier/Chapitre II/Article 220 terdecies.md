@@ -16,10 +16,10 @@ utilisateurs une série d'interactions s'appuyant sur une trame scénarisée ou 
 situations simulées et se traduisant sous forme d'images animées, sonorisées ou
 non.
 
-III.- A.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent
+III.- 1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent
 répondre aux conditions suivantes :
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 € ;
+1° Avoir un coût de développement supérieur ou égal à 150 000 euros ;
 
 2° Etre destinés à une commercialisation effective auprès du public ;
 
@@ -40,12 +40,12 @@ dépenses artistiques.
 Le respect des conditions de création prévues aux 3° et 4° est vérifié au moyen
 d'un barème de points dont le contenu est fixé par décret.
 
-B.- N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant
+2.- N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant
 des séquences à caractère pornographique ou de très grande violence,
 susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des
 utilisateurs.
 
-IV.- A.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
+IV.- 1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
 titre de chaque année est égal à 20 % du montant total des dépenses suivantes,
 correspondant à des opérations effectuées en France, dans un autre Etat membre
 de la Communauté européenne, ou dans un autre Etat partie à l'accord sur
@@ -80,7 +80,7 @@ conditions prévues au III confiées à d'autres entreprises ou organismes. Ces
 dépenses entrent dans la base de calcul du crédit d'impôt dans la limite d'un
 million d'euros par exercice.
 
-B.- Les dépenses mentionnées au A ouvrent droit au bénéfice du crédit d'impôt à
+2.- Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à
 compter de la date de réception par le directeur général du Centre national de
 la cinématographie d'une demande d'agrément provisoire. Cet agrément est délivré
 après sélection par un comité d'experts chargé de vérifier que le jeu vidéo

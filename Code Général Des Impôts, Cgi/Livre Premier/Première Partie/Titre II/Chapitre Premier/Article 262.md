@@ -56,7 +56,7 @@ les engins et filets pour la pêche maritime ;
 4° Les opérations de livraison, de transformation, de réparation, d'entretien,
 d'affrètement et de location portant sur les aéronefs utilisés par des
 compagnies de navigation aérienne dont les services à destination ou en
-provenance de l'étranger ou des territoires et départements d'outre-mer, à
+provenance de l'étranger ou des collectivités et départements d'outre-mer, à
 l'exclusion de la France métropolitaine, représentent au moins 80 % des services
 qu'elles exploitent ;
 
@@ -72,7 +72,7 @@ sont définis à la sous-position 89-01 du tarif douanier commun ;
 ou des aéronefs désignés aux 2° et 4° et de leur cargaison ;
 
 8° Les transports aériens ou maritimes de voyageurs en provenance ou à
-destination de l'étranger ou des territoires et départements d'outre-mer ;
+destination de l'étranger ou des collectivités et départements d'outre-mer ;
 
 9° Les transports ferroviaires de voyageurs en provenance et à destination de
 l'étranger, ainsi que les transports de voyageurs effectués par les trains

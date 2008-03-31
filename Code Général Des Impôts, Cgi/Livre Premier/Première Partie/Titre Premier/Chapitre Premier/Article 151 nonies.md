@@ -80,8 +80,8 @@ ou d'annulation de ces parts. Ce report est maintenu dans les conditions prévue
 au paragraphe III.
 
 IV bis.-Le I de l'article 151 octies B est applicable à l'apport de
-l'intégralité des droits ou parts mentionnés au I du présent article dans les
-conditions suivantes :
+l'intégralité des droits ou parts mentionnés au I dans les conditions suivantes
+:
 
 1° L'actif de la société ou du groupement dont les droits ou parts sont apportés
 n'est pas principalement constitué de biens immobiliers bâtis ou non bâtis qui

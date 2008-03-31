@@ -1,6 +1,6 @@
 Article 38
 ----
-1. Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies,
+1. Sous réserve des dispositions des articles 33 ter,40 à 43 bis et 151 sexies,
 le bénéfice imposable est le bénéfice net, déterminé d'après les résultats
 d'ensemble des opérations de toute nature effectuées par les entreprises, y
 compris notamment les cessions d'éléments quelconques de l'actif, soit en cours,
@@ -74,9 +74,9 @@ Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée 
 même date, les écarts de conversion afférents aux devises, créances, dettes et
 titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en
 unités monétaires des Etats participant à la monnaie unique, sont déterminés en
-fonction des taux de conversion définis à l'article 1er du règlement n°
-97/1103/CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives
-à l'introduction de l'euro.
+fonction des taux de conversion définis à l'article 1er du règlement n° 97 /
+1103 / CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives à
+l'introduction de l'euro.
 
 Les dispositions du premier alinéa ne sont pas applicables, sur option
 irrévocable, aux prêts libellés en monnaie étrangère consentis, à compter du 1er
@@ -296,12 +296,12 @@ autre société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
 
-a - d'un apport en numéraire ;
+a-d'un apport en numéraire ;
 
-b - d'un apport de créances ou de titres exclus du régime des plus-values à long
+b-d'un apport de créances ou de titres exclus du régime des plus-values à long
 terme en application du I de l'article 219 ;
 
-c - de l'absorption d'une société dont l'actif est composé principalement de
+c-de l'absorption d'une société dont l'actif est composé principalement de
 numéraire ou de droits cités au b ou de l'apport d'actions ou de parts d'une
 telle société.
 
@@ -403,10 +403,9 @@ constatés par la société d'assurance.
 
 11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments
 d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de
-l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de
-l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
-retraites est assimilé à une cession. Il en est de même en cas de retrait
-d'actifs de l'une de ces comptabilités.
+l'article L. 143-7, de l'article L. 441-8, ou du VII de l'article L. 144-2 du
+code des assurances est assimilé à une cession. Il en est de même en cas de
+retrait d'actifs de l'une de ces comptabilités.
 
 Toutefois, le profit ou la perte constaté à l'occasion du transfert d'éléments
 d'actif dans la comptabilité auxiliaire d'affectation soumis aux règles de

@@ -14,7 +14,7 @@ avantages en nature et remboursements de frais.
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
 dispositions du 9, l'indemnité de congé payé calculée dans les conditions
-prévues aux articles L. 223-11 à L. 223-13 du code du travail, y compris les
+prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, y compris les
 charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de
@@ -27,8 +27,8 @@ l'expiration du délai de dépôt de la déclaration des résultats du premier
 exercice clos à compter du 31 décembre 1987.
 
 Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé
-calculée dans les conditions prévues aux articles L. 223-11 à L. 223-13 du code
-du travail revêt du point de vue fiscal le caractère d'un salaire de
+calculée dans les conditions prévues aux articles L. 3141-22 à L. 3141-25 du
+code du travail revêt du point de vue fiscal le caractère d'un salaire de
 substitution qui constitue une charge normale de l'exercice au cours duquel le
 salarié prend le congé correspondant. Pour la détermination des résultats
 imposables des exercices clos du 1er janvier 1986 au 30 décembre 1987, il en est
@@ -399,8 +399,8 @@ de l'exercice en application de l'alinéa précédent vient minorer le montant
 total des provisions pour dépréciation des immeubles de placement rapporté au
 résultat des exercices ultérieurs.
 
-6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
-du 23 septembre 1967 et la taxe d'aide au commerce et à l'artisanat issue de
+6° La contribution sociale de solidarité mentionnée à l'article L. 651-1 du code
+de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de
 l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des
 mesures en faveur de certaines catégories de commerçants et artisans âgés. Le
 fait générateur de cette contribution ou de cette taxe est constitué par
@@ -540,7 +540,7 @@ obligations déclaratives.
 
 9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
-L. 223-11 à L. 223-13 du code du travail, n'est pas déductible. Cette période
+L. 3141-22 à L. 3141-25 du code du travail, n'est pas déductible. Cette période
 neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente
 aux droits acquis et non utilisés à l'ouverture du premier exercice clos à
 compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la
@@ -604,8 +604,8 @@ mêmes biens ou de la fourniture de ces prestations de services pour un prix
 inférieur à leur coût de revient ;
 
 2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
-d'un accord conclu, selon les modalités prévues aux articles L. 442-10 et L.
-442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
+d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
+3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
 exercée dans le document formalisant l'accord. L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de

@@ -16,20 +16,20 @@ l'éducation qui organisent des formations conduisant à la délivrance au nom d
 l'Etat d'un diplôme sanctionnant cinq années d'études après le baccalauréat, qui
 paient ces rémunérations lorsqu'ils ne sont pas assujettis à la taxe sur la
 valeur ajoutée ou ne l'ont pas été sur 90 % au moins de leur chiffre d'affaires
-au titre de l'année civile précédant celle du paiement desdites
-rémunérations.L'assiette de la taxe due par ces personnes ou organismes est
-constituée par une partie des rémunérations versées, déterminée en appliquant à
-l'ensemble de ces rémunérations le rapport existant, au titre de cette même
-année, entre le chiffre d'affaires qui n'a pas été passible de la taxe sur la
-valeur ajoutée et le chiffre d'affaires total. Le chiffre d'affaires qui n'a pas
-été assujetti à la taxe sur la valeur ajoutée en totalité ou sur 90 p. 100 au
-moins de son montant, ainsi que le chiffre d'affaires total mentionné au
-dénominateur du rapport s'entendent du total des recettes et autres produits, y
-compris ceux correspondant à des opérations qui n'entrent pas dans le champ
-d'application de la taxe sur la valeur ajoutée. Le chiffre d'affaires qui n'a
-pas été passible de la taxe sur la valeur ajoutée mentionné au numérateur du
-rapport s'entend du total des recettes et autres produits qui n'ont pas ouvert
-droit à déduction de la taxe sur la valeur ajoutée.
+au titre de l'année civile précédant celle du paiement desdites rémunérations.
+L'assiette de la taxe due par ces personnes ou organismes est constituée par une
+partie des rémunérations versées, déterminée en appliquant à l'ensemble de ces
+rémunérations le rapport existant, au titre de cette même année, entre le
+chiffre d'affaires qui n'a pas été passible de la taxe sur la valeur ajoutée et
+le chiffre d'affaires total. Le chiffre d'affaires qui n'a pas été assujetti à
+la taxe sur la valeur ajoutée en totalité ou sur 90 p. 100 au moins de son
+montant, ainsi que le chiffre d'affaires total mentionné au dénominateur du
+rapport s'entendent du total des recettes et autres produits, y compris ceux
+correspondant à des opérations qui n'entrent pas dans le champ d'application de
+la taxe sur la valeur ajoutée. Le chiffre d'affaires qui n'a pas été passible de
+la taxe sur la valeur ajoutée mentionné au numérateur du rapport s'entend du
+total des recettes et autres produits qui n'ont pas ouvert droit à déduction de
+la taxe sur la valeur ajoutée.
 
 Les rémunérations versées par les employeurs dont le chiffre d'affaires réalisé
 au cours de l'année civile précédant le versement de ces rémunérations n'excède
@@ -52,8 +52,8 @@ conditions de la concurrence.
 2. (Abrogé).
 
 2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 à 8,50
-% pour la fraction comprise entre 7 156 euros et 14 295 euros et à 13,60 % pour
-la fraction excédant 14 295 euros de rémunérations individuelles annuelles. Ces
+% pour la fraction comprise entre 7 250 euros et 14 481 euros et à 13,60 % pour
+la fraction excédant 14 481 euros de rémunérations individuelles annuelles. Ces
 limites sont relevées chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu de l'année
 précédente. Les montants obtenus sont arrondis, s'il y a lieu, à l'euro

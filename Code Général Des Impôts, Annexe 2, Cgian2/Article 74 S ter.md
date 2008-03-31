@@ -21,7 +21,8 @@ dans un autre Etat membre de la Communauté européenne, auprès d'une personne
 autre que celle mentionnée au b ;
 
 e. lorsque l'acquisition visée au d porte sur des biens mentionnés au 1° du I de
-l'article 150 VI et qu'elle a été effectuée en France, ou dans un autre Etat
-membre de la Communauté européenne auprès d'une personne physique domiciliée en
-France, un document prouvant que cette acquisition a donné lieu au paiement de
-la taxe ou que le cédant a exercé l'option prévue à l'article 150 VL.
+l'article 150 VI du code précité et qu'elle a été effectuée en France, ou dans
+un autre Etat membre de la Communauté européenne auprès d'une personne physique
+domiciliée en France, un document prouvant que cette acquisition a donné lieu au
+paiement de la taxe ou que le cédant a exercé l'option prévue à l'article 150 VL
+du code précité.

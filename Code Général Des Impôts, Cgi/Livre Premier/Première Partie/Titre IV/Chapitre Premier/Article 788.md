@@ -1,16 +1,16 @@
 Article 788
 ----
-I. - (Abrogé)
+I.-(Abrogé)
 
-II. - (Abrogé)
+II.-(Abrogé)
 
-III. - Pour la perception des droits de mutation par décès, il est effectué un
+III.-Pour la perception des droits de mutation par décès, il est effectué un
 abattement sur la part nette de tout héritier, donataire ou légataire
 correspondant à la valeur des biens reçus du défunt, évalués au jour du décès et
 remis par celui-ci à une fondation reconnue d'utilité publique répondant aux
 conditions fixées au b du 1 de l'article 200 ou aux sommes versées par celui-ci
 à une association reconnue d'utilité publique répondant aux conditions fixées au
-b du 1 de l'article 200, à l'Etat, à ses établissements publics (1) ou à un
+b du 1 de l'article 200, à l'Etat, à ses établissements publics ou à un
 organisme mentionné à l'article 794 en remploi des sommes, droits ou valeurs
 reçus du défunt. Cet abattement s'applique à la double condition :
 
@@ -18,17 +18,16 @@ reçus du défunt. Cet abattement s'applique à la double condition :
 dans les six mois suivant le décès ;
 
 2° Que soient jointes à la déclaration de succession des pièces justificatives
-répondant à un modèle fixé par un arrêté du ministre chargé du budget (2)
-attestant du montant et de la date de la libéralité ainsi que de l'identité des
+répondant à un modèle fixé par un arrêté du ministre chargé du budget attestant
+du montant et de la date de la libéralité ainsi que de l'identité des
 bénéficiaires.
 
 L'application de cet abattement n'est pas cumulable avec le bénéfice de la
 réduction d'impôt sur le revenu prévue à l'article 200.
 
-IV. - A défaut d'autre abattement, à l'exception de celui mentionné au III, un
-abattement de 1 500 euros est opéré sur chaque part successorale.
+IV.-A défaut d'autre abattement, à l'exception de celui mentionné au III, un
+abattement de 1 520 euros est opéré sur chaque part successorale.
 
-V. - Le montant de l'abattement mentionné au IV est actualisé, le 1er janvier de
+V.-Le montant de l'abattement mentionné au IV est actualisé, le 1er janvier de
 chaque année, dans la même proportion que la limite supérieure de la première
-tranche du barème de l'impôt sur le revenu et arrondi à l'euro le plus proche
-(3).
+tranche du barème de l'impôt sur le revenu et arrondi à l'euro le plus proche.

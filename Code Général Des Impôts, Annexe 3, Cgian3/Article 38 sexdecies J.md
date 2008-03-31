@@ -1,12 +1,12 @@
 Article 38 sexdecies J
 ----
-I. - Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un
+I.-Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un
 compte ouvert auprès d'un établissement de crédit conformément aux dispositions
 du I de l'article 72 D bis du code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation :
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-42 du code
+a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code
 rural ;
 
 b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3
@@ -66,7 +66,7 @@ l'année précédente ;
 qui a entraîné une indemnisation par une police d'assurance de dommages aux
 biens ou pour perte d'exploitation souscrite par l'exploitant.
 
-II. - Peut également autoriser l'emploi des sommes déposées sur un compte ouvert
+II.-Peut également autoriser l'emploi des sommes déposées sur un compte ouvert
 auprès d'un établissement de crédit conformément aux dispositions de l'article
 72 D bis du code général des impôts tout autre aléa d'origine naturelle,
 climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux

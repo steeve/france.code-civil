@@ -10,8 +10,7 @@ acquittée dans les conditions prévues au 3 de l'article 1672, ainsi qu'aux
 prélèvements dus dans les conditions du III de l'article 117 quater et de
 l'article 125 D.
 
-2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret
-et au plus tard le 31 décembre 1992.
+2. (Périmé)
 
 3. Les paiements afférents à l'impôt mentionné à l'article 1668 sont effectués
 par virement directement opéré sur le compte du Trésor ouvert dans les écritures

@@ -3,8 +3,8 @@ Article 1651 K
 Pour la détermination de la valeur vénale retenue pour l'assiette de la taxe sur
 la valeur ajoutée, dans le cas prévu au 4° du I de l'article L. 59 A du livre
 des procédures fiscales, la commission comprend, par dérogation à l'article 1651
-H du présent code, outre le président, trois agents de l'administration, un
-notaire et trois représentants des contribuables.
+H, outre le président, trois agents de l'administration, un notaire et trois
+représentants des contribuables.
 
 Les représentants des contribuables sont désignés respectivement par les
 fédérations nationales des syndicats d'exploitants agricoles, les organisations

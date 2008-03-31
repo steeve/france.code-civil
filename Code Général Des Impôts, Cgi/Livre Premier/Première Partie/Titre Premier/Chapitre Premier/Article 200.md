@@ -54,8 +54,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 479 euros à compter de
-l'imposition des revenus de l'année 2006. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 488 euros à compter de
+l'imposition des revenus de l'année 2007. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
@@ -120,7 +120,7 @@ leur mandataire.
 5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la
 condition que soient jointes à la déclaration des revenus des pièces
 justificatives, répondant à un modèle fixé par un arrêté attestant le total du
-montant et la date des versements ainsi que l'identité des bénéficiaires.A
+montant et la date des versements ainsi que l'identité des bénéficiaires. A
 défaut, la réduction d'impôt est refusée sans proposition de rectification
 préalable.
 

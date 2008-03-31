@@ -24,14 +24,14 @@ au cours des dix exercices suivants.
 
 a bis. Les moins-values à long terme existant à l'ouverture du premier des
 exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
-plus-values à long terme imposées au taux de 19 %.L'excédent des moins-values à
+plus-values à long terme imposées au taux de 19 %. L'excédent des moins-values à
 long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
 raison des 19 / 33, 33e de son montant.
 
 Les moins-values à long terme existant à l'ouverture du premier des exercices
 ouverts à compter du 1er janvier 2005 sont imputées sur les plus-values à long
-terme imposées au taux de 15 %.L'excédent des moins-values à long terme subies
+terme imposées au taux de 15 %. L'excédent des moins-values à long terme subies
 au cours d'un exercice ouvert à compter du 1er janvier 2005 et afférentes à des
 éléments autres que les titres de participations définis au troisième alinéa du
 a quinquies peut être déduit des bénéfices de l'exercice de liquidation d'une
@@ -43,9 +43,9 @@ cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des par
 ou actions de sociétés revêtant le caractère de titres de participation et des
 parts de fonds commun de placement à risques ou de société de capital risque qui
 remplissent les conditions prévues au II ou au III bis de l'article 163
-quinquies B ou aux articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11
-juillet 1985 portant diverses dispositions d'ordre économique et financier et
-qui sont détenues par l'entreprise depuis au moins cinq ans.
+quinquies B à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant
+diverses dispositions d'ordre économique et financier et qui sont détenues par
+l'entreprise depuis au moins cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
@@ -100,7 +100,7 @@ Les titres inscrits au compte de titres de participation ou à l'une des
 subdivisions spéciales mentionnées au troisième alinéa qui cessent de remplir
 les conditions mentionnées à ce même alinéa doivent être transférés hors de ce
 compte ou de cette subdivision à la date à laquelle ces conditions ne sont plus
-remplies.A défaut d'un tel transfert, les titres maintenus à ce compte ou à
+remplies. A défaut d'un tel transfert, les titres maintenus à ce compte ou à
 cette subdivision sont réputés transférés pour l'application des cinquième,
 sixième et dixième alinéas ; les dispositions prévues au douzième alinéa en cas
 d'omission s'appliquent.
@@ -313,7 +313,7 @@ hauteur de la fraction de leurs résultats comptables qu'elles incorporent à le
 capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
 doit représenter, pour chacun des trois exercices et dans la limite du résultat
 fiscal, le quart au plus du résultat comptable sans excéder la somme de 30 000
-euros.L'option ne peut plus être exercée pour l'imposition des résultats des
+euros. L'option ne peut plus être exercée pour l'imposition des résultats des
 exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
 de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le
 dispositif ne s'applique pas aux résultats des exercices restants, sauf, sur
@@ -384,7 +384,7 @@ découlent sont fixées par décret.
 
 II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt
 au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération
-sous condition de remploi prévue audit article.L'application de la présente
+sous condition de remploi prévue audit article. L'application de la présente
 disposition est toutefois subordonnée à la double condition que :
 
 a. Les opérations génératrices des plus-values présentent un caractère
@@ -403,7 +403,7 @@ Toutefois, en ce qui concerne ces profits :
 
 a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 
-b.L'application de ce taux réduit est subordonnée à la condition que les
+b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 

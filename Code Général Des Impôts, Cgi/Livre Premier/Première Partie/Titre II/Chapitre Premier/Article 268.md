@@ -9,11 +9,11 @@ valeur vénale du bien si elle est supérieure au prix majoré des charges ;
 
 b. D'autre part, selon le cas :
 
-- soit les sommes que le cédant a versées, à quelque titre que ce soit, pour
+-soit les sommes que le cédant a versées, à quelque titre que ce soit, pour
 l'acquisition du bien ;
 
-- soit la valeur nominale des actions ou parts reçues en contrepartie des
-apports en nature qu'il a effectués.
+-soit la valeur nominale des actions ou parts reçues en contrepartie des apports
+en nature qu'il a effectués.
 
 Lorsque l'opération est réalisée par un fiduciaire, les sommes mentionnées aux
-deux précédents alinéas s'apprécient, le cas échéant, chez le constituant.
+deuxième et troisième alinéas s'apprécient, le cas échéant, chez le constituant.

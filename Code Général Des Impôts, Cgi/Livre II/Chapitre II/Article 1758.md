@@ -1,8 +1,8 @@
 Article 1758
 ----
-En cas d'application des dispositions prévues au troisième alinéa des articles
-1649 A et 1649 quater A, le montant des droits est assorti d'une majoration de
-40 %.
+En cas d'application des dispositions prévues au troisième alinéa de l'article
+1649 A et au deuxième alinéa de l'article 1649 quater A, le montant des droits
+est assorti d'une majoration de 40 %.
 
 Dans les cas où la méconnaissance des obligations énoncées à l'article 1649
 quater A est punie de la sanction prévue au I de l'article L. 152-4 du code

@@ -2,7 +2,7 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte
+articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte
 uniquement des bénéfices réalisés dans les entreprises exploitées en France
 ainsi que de ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
@@ -41,7 +41,7 @@ b. L'activité à l'origine des déficits ou des intérêts dont le transfert es
 demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant
 un délai minimum de trois ans.
 
-II bis. - En cas de reprise d'un passif excédant la valeur réelle de l'actif qui
+II bis.-En cas de reprise d'un passif excédant la valeur réelle de l'actif qui
 est transféré à l'occasion d'une opération mentionnée au 3° du I de l'article
 210-0 A, la charge correspondant à cet excédent ne peut être déduite.
 
@@ -56,9 +56,9 @@ présent article, des résultats de l'exercice au titre duquel ce régime cesse 
 s'appliquer et des exercices suivants, soit imputés sur la somme mentionnée au
 deuxième alinéa du V de l'article 209-0 B.
 
-IV. - 1. Pour la détermination du résultat imposable des sociétés d'assurance
+IV.-1. Pour la détermination du résultat imposable des sociétés d'assurance
 mutuelles, le droit d'adhésion versé par un sociétaire au cours de l'exercice de
-son adhésion et inscrit en comptabilité au compte "fonds d'établissement" est
+son adhésion et inscrit en comptabilité au compte " fonds d'établissement " est
 considéré comme un apport à hauteur d'un montant égal au rapport entre le
 montant minimal de la marge de solvabilité exigée par la réglementation et le
 nombre de sociétaires, constaté à la clôture de l'exercice précédent. Lorsque la
@@ -66,12 +66,12 @@ marge de solvabilité effectivement constituée est inférieure au montant minim
 réglementaire, le premier terme de ce rapport est majoré du montant de cette
 insuffisance.
 
-2. Les sommes prélevées sur le compte "fonds d'établissement" sont rapportées au
-résultat imposable de l'exercice en cours à la date de ce prélèvement, dans la
-limite de celles ayant bénéficié des dispositions du 1.
+2. Les sommes prélevées sur le compte " fonds d'établissement " sont rapportées
+au résultat imposable de l'exercice en cours à la date de ce prélèvement, dans
+la limite de celles ayant bénéficié des dispositions du 1.
 
 3. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le
-compte "fonds d'établissement" ; les pertes ainsi annulées cessent d'être
+compte " fonds d'établissement " ; les pertes ainsi annulées cessent d'être
 reportables.
 
 V. Pour la détermination du résultat imposable des entreprises bénéficiant ou
@@ -89,12 +89,12 @@ ce même article à des sociétés n'ayant pas opté pour le régime prévu à l
 209-0 B précité et liées directement ou indirectement au sens du 12 de l'article
 39.
 
-VI. - Le vingtième alinéa du 5° du 1 de l'article 39 s'applique distinctement
-aux titres de sociétés à prépondérance immobilière définis au troisième alinéa
-du a du I de l'article 219 et aux autres titres de sociétés à prépondérance
+VI.-Le vingtième alinéa du 5° du 1 de l'article 39 s'applique distinctement aux
+titres de sociétés à prépondérance immobilière définis au troisième alinéa du a
+du I de l'article 219 et aux autres titres de sociétés à prépondérance
 immobilière.
 
-VII. - Les frais liés à l'acquisition de titres de participation définis au
+VII.-Les frais liés à l'acquisition de titres de participation définis au
 dix-huitième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre
 de leur exercice d'engagement mais sont incorporés au prix de revient de ces
 titres. Pour l'application des dispositions de la phrase précédente, les frais
@@ -103,4 +103,8 @@ frais d'actes liés à l'acquisition.
 
 La fraction du prix de revient des titres mentionnés au premier alinéa
 correspondant à ces frais d'acquisition peut être amortie sur cinq ans à compter
-de la date d'acquisition des titres (1).
+de la date d'acquisition des titres.
+
+VIII.-Pour les sociétés coopératives d'intérêt collectif, la part des excédents
+mis en réserves impartageables est déductible de l'assiette de l'impôt sur les
+sociétés.

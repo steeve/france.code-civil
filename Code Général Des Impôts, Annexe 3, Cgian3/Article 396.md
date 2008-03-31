@@ -18,8 +18,8 @@ de suppression d'offices ;
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide
 des prêts de reclassement prévus à l'article 30 du décret n° 62-261 modifié du
 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de
-prêts consentis dans le cadre des dispositions de l'article 686 du code rural au
-profit d'agriculteurs dont la qualité de migrant a été reconnue par le ministre
-de l'agriculture ;
+prêts consentis dans le cadre des dispositions de l'article R. 341-5 du code
+rural au profit d'agriculteurs dont la qualité de migrant a été reconnue par le
+ministre de l'agriculture ;
 
 6° (Abrogé)

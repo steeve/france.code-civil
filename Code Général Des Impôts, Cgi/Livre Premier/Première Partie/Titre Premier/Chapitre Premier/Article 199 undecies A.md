@@ -12,68 +12,64 @@ françaises, entre la date de promulgation de la loi n° 2003-660 du 21 juillet
 
 a) Au prix de revient de l'acquisition ou de la construction régulièrement
 autorisée par un permis de construire d'un immeuble neuf situé dans les
-départements, territoires ou collectivités visés au 1, que le propriétaire prend
-l'engagement d'affecter dès l'achèvement ou l'acquisition si elle est
-postérieure à son habitation principale pendant une durée de cinq ans ;
+départements ou collectivités visés au 1, que le propriétaire prend l'engagement
+d'affecter dès l'achèvement ou l'acquisition si elle est postérieure à son
+habitation principale pendant une durée de cinq ans ;
 
 b) Au prix de revient de l'acquisition ou de la construction régulièrement
 autorisée par un permis de construire d'un immeuble neuf situé dans les
-départements, territoires ou collectivités visés au 1, que le propriétaire prend
-l'engagement de louer nu dans les six mois de l'achèvement ou de l'acquisition
-si elle est postérieure pendant cinq ans au moins à des personnes, autres que
-son conjoint ou un membre de son foyer fiscal, qui en font leur habitation
-principale ;
+départements ou collectivités visés au 1, que le propriétaire prend l'engagement
+de louer nu dans les six mois de l'achèvement ou de l'acquisition si elle est
+postérieure pendant cinq ans au moins à des personnes, autres que son conjoint
+ou un membre de son foyer fiscal, qui en font leur habitation principale ;
 
 c) Au prix de souscription de parts ou actions de sociétés dont l'objet réel est
-exclusivement de construire des logements neufs situés dans les départements,
-territoires ou collectivités visés au 1 et qu'elles donnent en location nue
-pendant cinq ans au moins à compter de leur achèvement à des personnes, autres
-que les associés de la société, leur conjoint ou les membres de leur foyer
-fiscal, qui en font leur habitation principale. Ces sociétés doivent s'engager à
-achever les fondations des immeubles dans les deux ans qui suivent la clôture de
-chaque souscription annuelle. Les souscripteurs doivent s'engager à conserver
-les parts ou actions pendant cinq ans au moins à compter de la date d'achèvement
-des immeubles ;
+exclusivement de construire des logements neufs situés dans les départements ou
+collectivités visés au 1 et qu'elles donnent en location nue pendant cinq ans au
+moins à compter de leur achèvement à des personnes, autres que les associés de
+la société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur
+habitation principale. Ces sociétés doivent s'engager à achever les fondations
+des immeubles dans les deux ans qui suivent la clôture de chaque souscription
+annuelle. Les souscripteurs doivent s'engager à conserver les parts ou actions
+pendant cinq ans au moins à compter de la date d'achèvement des immeubles ;
 
 d) Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300
 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées
 à faire publiquement appel à l'épargne, lorsque la société s'engage à affecter
 intégralement le produit de la souscription annuelle, dans les six mois qui
 suivent la clôture de celle-ci, à l'acquisition de logements neufs situés dans
-les départements, territoires ou collectivités visés au 1 et affectés pour 90 %
-au moins de leur superficie à usage d'habitation. Ces sociétés doivent s'engager
-à louer les logements nus pendant cinq ans au moins à compter de leur achèvement
-ou de leur acquisition si elle est postérieure à des locataires, autres que les
-associés de la société, leur conjoint ou les membres de leur foyer fiscal, qui
-en font leur habitation principale. Les souscripteurs doivent s'engager à
-conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ;
+les départements ou collectivités visés au 1 et affectés pour 90 % au moins de
+leur superficie à usage d'habitation. Ces sociétés doivent s'engager à louer les
+logements nus pendant cinq ans au moins à compter de leur achèvement ou de leur
+acquisition si elle est postérieure à des locataires, autres que les associés de
+la société, leur conjoint ou les membres de leur foyer fiscal, qui en font leur
+habitation principale. Les souscripteurs doivent s'engager à conserver les parts
+pendant cinq ans au moins à compter de ces mêmes dates ;
 
 e) Au montant des travaux de réhabilitation réalisés par une entreprise, à
 l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers
 en application de l'article 31, et portant sur des logements achevés depuis plus
-de quarante ans, situés dans les départements, collectivités ou territoires
-visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq ans,
-soit d'affecter dès l'achèvement des travaux à son habitation principale, soit
-de louer nu dans les six mois qui suivent l'achèvement des travaux à des
-personnes qui en font leur habitation principale et autres que son conjoint ou
-un membre de son foyer fiscal. Un décret détermine les conditions d'application
-de ces dispositions, et notamment la nature des travaux de réhabilitation
-éligibles ;
+de quarante ans, situés dans les départements ou collectivités visés au 1, que
+le propriétaire prend l'engagement, pour une durée de cinq ans, soit d'affecter
+dès l'achèvement des travaux à son habitation principale, soit de louer nu dans
+les six mois qui suivent l'achèvement des travaux à des personnes qui en font
+leur habitation principale et autres que son conjoint ou un membre de son foyer
+fiscal. Un décret détermine les conditions d'application de ces dispositions, et
+notamment la nature des travaux de réhabilitation éligibles ;
 
 f) Aux souscriptions en numéraire au capital des sociétés de développement
-régional des départements, territoires ou collectivités visés au 1 ou de
-sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun
-effectuant dans les douze mois de la clôture de la souscription des
-investissements productifs neufs dans ces départements, territoires ou
-collectivités et dont l'activité réelle se situe dans les secteurs éligibles
-pour l'application des dispositions du I de l'article 199 undecies B. Lorsque la
-société affecte tout ou partie de la souscription à la construction d'immeubles
-destinés à l'exercice d'une activité située dans l'un de ces secteurs, elle doit
-s'engager à en achever les fondations dans les deux ans qui suivent la clôture
-de la souscription. La société doit s'engager à maintenir l'affectation des
-biens à l'activité dans les secteurs visés ci-dessus pendant les cinq ans qui
-suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est
-inférieure ;
+régional des départements ou collectivités visés au 1 ou de sociétés soumises à
+l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les
+douze mois de la clôture de la souscription des investissements productifs neufs
+dans ces départements ou collectivités et dont l'activité réelle se situe dans
+les secteurs éligibles pour l'application des dispositions du I de l'article 199
+undecies B. Lorsque la société affecte tout ou partie de la souscription à la
+construction d'immeubles destinés à l'exercice d'une activité située dans l'un
+de ces secteurs, elle doit s'engager à en achever les fondations dans les deux
+ans qui suivent la clôture de la souscription. La société doit s'engager à
+maintenir l'affectation des biens à l'activité dans les secteurs visés ci-dessus
+pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale
+d'utilisation si elle est inférieure ;
 
 g) Aux souscriptions en numéraire, agréées par le ministre chargé du budget, au
 capital de sociétés qui ont pour objet le financement par souscriptions en
@@ -116,7 +112,7 @@ motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la
 période définie au 1 sont prises en compte, pour les investissements mentionnés
-aux a, b, c, d, et e du 2, dans la limite de 1 959 euros hors taxes par mètre
+aux a, b, c, d, et e du 2, dans la limite de 2 058 euros hors taxes par mètre
 carré de surface habitable. Cette limite est relevée chaque année, au 1er
 janvier, dans la même proportion que la variation de la moyenne sur quatre
 trimestres de l'indice national mesurant le coût de la construction publiée par

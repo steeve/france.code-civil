@@ -1,5 +1,6 @@
 Article 371 AO
 ----
-La déclaration présentée ou transmise au centre compétent vaut déclaration
-auprès de l'organisme destinataire, dès lors qu'elle est régulière et complète
-vis-à-vis de ce dernier. Elle interrompt les délais à l'égard de cet organisme.
+Conformément à l'article R. 123-17 du code de commerce, la déclaration présentée
+ou transmise au centre de formalités des entreprises compétent, dans les
+conditions précisées à cet article, vaut déclaration auprès de l'organisme
+destinataire.

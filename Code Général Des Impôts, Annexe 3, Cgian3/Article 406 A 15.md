@@ -5,7 +5,7 @@ tribunal correctionnel, saisis, en tout état de la procédure sur réquisitions
 procureur de la République ou à la demande de l'intéressé. Elle peut l'être
 également hors le cas de saisine du juge d'instruction ou du tribunal
 correctionnel par le président du tribunal statuant en référé dans les
-conditions prévues aux articles 485 et 486 du nouveau code de procédure civile.
+conditions prévues aux articles 485 et 486 du code de procédure civile.
 
 Les réquisitions du parquet sont prises à la demande du directeur départemental
 de l'administration qui a provoqué la mise sous séquestre dans le cas où aucune
