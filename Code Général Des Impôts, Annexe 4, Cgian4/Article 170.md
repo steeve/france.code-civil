@@ -39,7 +39,7 @@ voies navigables de France ;
 
 l'Office national interprofessionnel des grandes cultures ;
 
-les offices publics d'habitations à loyer modéré ;
+les offices publics de l'habitat ;
 
 les régies municipales, intercommunales et départementales exploitant des
 services à caractère industriel ou commercial.

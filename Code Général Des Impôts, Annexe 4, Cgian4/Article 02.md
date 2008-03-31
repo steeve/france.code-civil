@@ -7,7 +7,7 @@ l'énergie et les équipements de production d'énergies renouvelables mentionn�
 sur la liste donnée au 2 doivent pouvoir être séparés des appareils auxquels ils
 ont été adjoints sans être rendus définitivement inutilisables.
 
-II. - La liste des matériels est fixée ainsi qu'il suit :
+II.-La liste des matériels est fixée ainsi qu'il suit :
 
 1. Matériels de récupération de force ou de chaleur produite par l'emploi
 d'hydrocarbures liquides ou gazeux, de combustibles minéraux solides ou
@@ -16,10 +16,10 @@ d'électricité :
 1° a. matériel permettant directement la récupération d'énergie et le transport
 de l'énergie récupérée :
 
-- chaudière à vapeur, à eau chaude, à fluide thermique, à haut rendement (soit
+-chaudière à vapeur, à eau chaude, à fluide thermique, à haut rendement (soit
 supérieur à 90 % PCS) ;
 
-- chaudière de récupération sur effluents thermiques ou gaz pauvre de procédé ;
+-chaudière de récupération sur effluents thermiques ou gaz pauvre de procédé ;
 
 b. échangeurs thermiques récupérateurs sur fluides liquides, gazeux ou de
 refroidissement : échangeurs tubulaires, échangeurs à plaques, à caloducs, par
@@ -59,7 +59,7 @@ industriels ou ménagers ou par récupération sur un procédé de fabrication
 excédentaire en énergie ;
 
 2° Matériel de cogénération permettant la production simultanée, dans un seul
-processus, d'énergie thermique et électrique et/ou mécanique :
+processus, d'énergie thermique et électrique et / ou mécanique :
 
 a. turbine de détente de vapeur en contre-pression ;
 
@@ -70,7 +70,7 @@ c. turbine de détente de haute pression utilisée en place de vanne de laminage
 ou de détente ;
 
 d. turbine à gaz et moteur thermique avec équipements de récupération de
-l'énergie sur les gaz d'échappement et/ou les fluides de refroidissement ;
+l'énergie sur les gaz d'échappement et / ou les fluides de refroidissement ;
 
 3° Matériel permettant la transformation en énergie électrique ou en énergie
 mécanique de l'énergie cinétique des turbines mentionnées ci-dessus ;
@@ -92,9 +92,7 @@ haute fréquence, par rayonnement ultraviolet, micro-ondes ;
 
 d. matériel de mesure ou enregistreurs permettant un meilleur contrôle du
 rendement énergétique des installations, à l'exception des appareils de contrôle
-prévus par les articles 7 et 8 du décret n° 98-817 du 11 septembre 1998 relatif
-aux rendements minimaux et à l'équipement des chaudières de puissance comprise
-entre 400 kW et 50 MW ;
+prévus par les articles R. 224-26 et R. 224-27 du code de l'environnement ;
 
 e. matériel de séparation performant en substitution d'un système de séparation
 par voies thermiques : membranes polymères, membranes minérales, membranes
@@ -181,7 +179,7 @@ d'électricité afin de réduire les tensions sur les réseaux électriques ;
 et le conditionnement des bâtiments :
 
 a. systèmes de climatisation réversible dont le coefficient de performance, à +
-7 °C, est supérieur ou égal à 3 ;
+7° C, est supérieur ou égal à 3 ;
 
 b. chaudière à condensation ;
 
@@ -192,22 +190,22 @@ d. matériel de chauffage permettant de favoriser les concentrations énergétiq
 dans des espaces limités en remplacement d'un chauffage classique : générateurs
 d'air chaud, aérothermes directs, générateurs de ventilation tempérée ;
 
-e. système de pompes à chaleur géothermale ou air/eau dont le coefficient de
+e. système de pompes à chaleur géothermale ou air / eau dont le coefficient de
 performance machine en mode chauffage est supérieur ou égal à 3 ;
 
 f. système d'optimisation énergétique en fonction des programmes de production
-et/ou des données climatiques ;
+et / ou des données climatiques ;
 
 g. matériaux d'isolation thermique des parois opaques :
 
-- plancher bas sur sous-sol, sur vide sanitaire ou sur passage ouvert,
+-plancher bas sur sous-sol, sur vide sanitaire ou sur passage ouvert,
 toiture-terrasse, mur en façade ou en pignon, possédant une résistance
-supérieure ou égale à 2,4 mètres carrés kelvin par watt (m2 K/W) ;
+supérieure ou égale à 2,4 mètres carrés kelvin par watt (m2 K / W) ;
 
-- toiture sur comble possédant une résistance thermique supérieure ou égale à
-4,5 m2 K/W ;
+-toiture sur comble possédant une résistance thermique supérieure ou égale à 4,5
+m2 K / W ;
 
 h. système de ventilation mécanique contrôlée dont l'efficacité de la
 récupération d'énergie de l'échangeur est supérieure à 65 % sur l'air humide et
-dont la puissance par ventilateur est inférieure à 0,30 W/m3/h, soit 0,70 W/m3/h
-pour la centrale double flux.
+dont la puissance par ventilateur est inférieure à 0,30 W / m3 / h, soit 0,70 W
+/ m3 / h pour la centrale double flux.

@@ -13,11 +13,4 @@ opérations soumises à la taxe sur la valeur ajoutée à titre occasionnel doiv
 être déposées auprès du service dans le ressort duquel se trouve le lieu où sont
 accomplies les opérations.
 
-c. Lorsqu'elles sont redevables de la taxe sur la valeur ajoutée en raison des
-achats qu'elles effectuent les personnes non habituellement assujetties par
-ailleurs à ladite taxe doivent souscrire ces déclarations auprès du service du
-lieu de destination des produits achetés.
-
-Toutefois, pour les achats de boissons soumis au droit de circulation ou de
-consommation la taxe sur la valeur ajoutée est acquittée au lieu et au moment où
-est levé le titre de mouvement comportant paiement du droit.
+c. Alinéas périmés.
