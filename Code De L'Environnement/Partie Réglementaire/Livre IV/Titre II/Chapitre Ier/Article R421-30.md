@@ -1,7 +1,7 @@
 Article R421-30
 ----
 I. La commission départementale de la chasse et de la faune sauvage est présidée
-par le préfet. Elle comprend :
+par le préfet et à Paris, par le préfet de police. Elle comprend :
 
 1° Des représentants de l'Etat et de ses établissements publics, dont le
 directeur départemental de l'agriculture et de la forêt, le directeur régional

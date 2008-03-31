@@ -1,8 +1,7 @@
 Article R341-17
 ----
 La commission départementale de la nature, des paysages et des sites est
-présidée par le préfet, et à Paris par le préfet de police, et composée de
-membres répartis en quatre collèges :
+présidée par le préfet et composée de membres répartis en quatre collèges :
 
 1° Un collège de représentants des services de l'Etat, membres de droit ; il
 comprend notamment le directeur régional de l'environnement ;

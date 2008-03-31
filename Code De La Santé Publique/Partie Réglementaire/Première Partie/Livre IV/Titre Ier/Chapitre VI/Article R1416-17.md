@@ -13,7 +13,7 @@ Il comprend :
 3° Neuf personnes réparties à parts égales entre des représentants
 d'associations agréées de consommateurs, de pêche et de protection de
 l'environnement, des membres de professions ayant leur activité dans les
-domaines de compétence de la commission et des experts dans ces mêmes domaines ;
+domaines de compétence du conseil et des experts dans ces mêmes domaines ;
 
 4° Quatre personnalités qualifiées, dont au moins un médecin.
 
