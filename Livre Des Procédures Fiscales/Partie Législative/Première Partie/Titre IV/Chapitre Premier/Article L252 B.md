@@ -1,6 +1,6 @@
 Article L252 B
 ----
-Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le
+I. Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le
 comptable peut procéder, par dérogation au chapitre IV de la loi n° 91-650 du 9
 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies
 conservatoires à hauteur d'un montant qui ne peut excéder :
@@ -40,3 +40,26 @@ hors taxes réalisés au titre de la période en cours pour laquelle aucune
 obligation déclarative n'est échue, jusqu'à la date du procès-verbal de
 flagrance fiscale, et sous déduction d'un montant de taxe déductible dans les
 conditions prévues aux articles 271 à 273 septies C du même code.
+
+II. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un
+délai de huit jours à compter de la signification de saisies conservatoires
+mentionnées au I, ordonne qu'il soit mis fin à l'exécution de ces saisies en cas
+d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de
+l'instruction, un doute sérieux sur la régularité de cette procédure.
+
+Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué
+dans ce délai, le juge des référés est dessaisi au profit du tribunal
+administratif qui se prononce en urgence.
+
+La décision du juge du référé est susceptible d'appel devant le tribunal
+administratif dans le délai de huit jours. Le tribunal se prononce en urgence.
+
+La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit
+mis fin à l'exécution des saisies entraîne la mainlevée immédiate de ces
+saisies.
+
+III. Le paiement des impositions dues au titre de l'exercice ou de la période
+comprenant celle couverte par le procès-verbal prévu à l'article L. 16-0 BA
+entraîne la mainlevée des saisies conservatoires prévues au I, sauf si
+l'administration réunit des éléments permettant d'établir que les déclarations
+du contribuable au vu desquelles ce paiement est intervenu ne sont pas sincères.

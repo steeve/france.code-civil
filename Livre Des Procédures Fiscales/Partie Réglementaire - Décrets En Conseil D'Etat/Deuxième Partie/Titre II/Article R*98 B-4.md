@@ -9,5 +9,5 @@ prendre sans délai les mesures de sécurité pouvant aller jusqu'à la destruct
 des supports d'information qui ont été constitués à partir du numéro
 d'inscription au répertoire national d'identification des personnes physiques.
 
-Elle peut également, indépendamment de la mesure de destruction prévue à
-l'alinéa précédent, faire application des articles R* 288-1 à R* 288-3.
+Elle peut également, indépendamment de la mesure de destruction prévue au
+premier alinéa, faire application des articles R* 288-1 à R* 288-3.

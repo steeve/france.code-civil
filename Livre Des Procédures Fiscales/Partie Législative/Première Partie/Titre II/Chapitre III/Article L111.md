@@ -22,21 +22,7 @@ fixées par décret, par l'indication du nombre de parts retenu pour l'applicati
 du quotient familial, du revenu imposable et du montant de l'impôt mis à la
 charge de chaque redevable.
 
-I bis. Une liste des personnes assujetties à la taxe départementale sur le
-revenu est dressée par commune pour les impositions établies dans son ressort.
-
-Cette liste est complétée par l'indication des personnes physiques pour
-lesquelles il n'est pas établi d'imposition à la taxe départementale dans la
-commune mais qui y possèdent une résidence.
-
-La liste est tenue par la direction des services fiscaux à la disposition des
-redevables de la taxe départementale qui relèvent de sa compétence territoriale.
-L'administration peut en prescrire l'affichage.
-
-La liste concernant la taxe départementale sur le revenu est complétée, dans des
-conditions fixées par décret, par l'indication du revenu imposable, du montant
-de l'abattement pour charges de famille, du montant de l'abattement à la base et
-du montant de la cotisation mise effectivement à la charge de chaque redevable.
+I bis. (Disjoint).
 
 I ter. L'administration recueille, chaque année, les observations et avis que la
 commission communale des impôts directs prévue à l'article 1650 du code général

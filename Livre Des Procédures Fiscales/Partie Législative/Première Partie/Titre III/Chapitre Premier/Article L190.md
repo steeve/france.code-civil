@@ -35,7 +35,7 @@ Pour l'application du quatrième alinéa, sont considérés comme des décisions
 juridictionnelles ou des avis rendus au contentieux les décisions du Conseil
 d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de
 justice administrative, les arrêts de la Cour de cassation ainsi que les avis
-rendus en application de l'article L. 151-1 du code de l'organisation
-judiciaire, les arrêts du Tribunal des conflits et les arrêts de la Cour de
-justice des Communautés européennes se prononçant sur un recours en annulation,
-sur une action en manquement ou sur une question préjudicielle.
+rendus en application de l'article L. 441-1 du code de l'organisation judiciaire
+(2), les arrêts du Tribunal des conflits et les arrêts de la Cour de justice des
+Communautés européennes se prononçant sur un recours en annulation, sur une
+action en manquement ou sur une question préjudicielle.
