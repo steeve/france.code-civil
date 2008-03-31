@@ -1,6 +1,6 @@
 Article 237 ter A
 ----
-I. Conformément au premier alinéa de l'article L. 441-5 du code du travail et
+I. Conformément au premier alinéa de l'article L. 3315-1 du code du travail et
 sous réserve des dispositions prévues au troisième alinéa du même article, le
 montant des participations versées par les entreprises en application d'un
 contrat d'intéressement est déductible des bases retenues pour l'assiette de

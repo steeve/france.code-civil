@@ -17,7 +17,7 @@ du Haut-Rhin et de la Moselle ;
 
 2° Les organismes sans but lucratif à caractère cultuel ;
 
-3° Les syndicats professionnels et leurs unions visés au chapitre Ier du titre
-Ier du livre IV du code du travail ;
+3° Les syndicats professionnels et leurs unions mentionnés au titre III du livre
+Ier de la deuxième partie du code du travail ;
 
 4° Les comités d'entreprise.

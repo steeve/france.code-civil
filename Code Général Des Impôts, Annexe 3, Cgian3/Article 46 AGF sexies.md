@@ -8,7 +8,7 @@ l'exploitant. Une copie de cet engagement est délivrée à l'acquéreur d'un
 logement dans la résidence.
 
 Les salariés saisonniers s'entendent des salariés qui occupent un emploi au sens
-du 3° de l'article L. 122-1-1 du code du travail et qui sont liés par un contrat
+du 3° de l'article L. 1242-2 du code du travail et qui sont liés par un contrat
 de travail avec au moins une entreprise, une association ou un organisme établis
 sur la commune du lieu d'implantation de la résidence ou bien sur une commune
 limitrophe ou membre du groupement de communes.

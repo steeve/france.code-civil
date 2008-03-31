@@ -1,8 +1,8 @@
 Article 82
 ----
 I. Le crédit d'impôt attaché aux revenus du portefeuille collectif ou des titres
-détenus individuellement qui sont acquis en application des articles L443-1 à
-L443-9 du code du travail et dans les conditions fixées à ces articles donne
+détenus individuellement qui sont acquis en application des articles L. 3331-1 à
+L. 3335-1 du code du travail et dans les conditions fixées à ces articles donne
 lieu à la délivrance d'un certificat distinct conformément aux dispositions de
 l'article 77.
 

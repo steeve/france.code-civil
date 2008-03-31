@@ -6,6 +6,6 @@ voisines sont dispensées d'acquitter l'imposition forfaitaire annuelle prévue 
 l'article 223 septies.
 
 Cette exonération s'applique également groupements d'employeurs et fonctionnant
-dans les conditions prévues aux articles L. 127-1 à L. 127-9 du code du travail
-et aux aux centres de gestion agréés mentionnés aux articles 1649 quater C et
-1649 quater F.
+dans les conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du
+travail et aux aux centres de gestion agréés mentionnés aux articles 1649 quater
+C et 1649 quater F.

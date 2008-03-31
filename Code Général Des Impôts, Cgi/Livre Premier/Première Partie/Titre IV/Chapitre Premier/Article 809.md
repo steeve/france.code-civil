@@ -9,9 +9,9 @@ taxe de publicité foncière sur le montant des apports déduction faite du pass
 ;
 
 2° Les apports immobiliers qui sont faits aux associations constituées
-conformément à la loi du 1er juillet 1901 et au titre Ier du Livre IV, du code
-du travail (syndicats professionnels) sont soumis aux mêmes droits ou taxes que
-les apports aux sociétés civiles ou commerciales ;
+conformément à la loi du 1er juillet 1901 et au livre Ier de la deuxième partie
+du code du travail (syndicats professionnels) sont soumis aux mêmes droits ou
+taxes que les apports aux sociétés civiles ou commerciales ;
 
 3° Les apports faits à une personne morale passible de l'impôt sur les sociétés
 par une personne non soumise à cet impôt sont assimilés à des mutations à titre
@@ -27,8 +27,8 @@ prise en charge du passif, dont sont grevés les biens de la nature de ceux
 de mutation au tarif prévu par le premier alinéa du III de l'article 810.
 Lorsque l'apporteur s'engage à conserver pendant trois ans les titres remis en
 contrepartie de l'apport, le droit de mutation est remplacé par un droit fixe de
-375 Euros porté à 500 Euros lorsque la société a un capital social d'au moins
-225 000 Euros. En cas de non respect de l'engagement de conservation des titres,
+375 euros porté à 500 Euros lorsque la société a un capital social d'au moins
+225 000 euros. En cas de non respect de l'engagement de conservation des titres,
 les dispositions prévues au III de l'article 810 sont applicables.
 
 Si la société cesse de remplir les conditions qui lui ont permis de bénéficier

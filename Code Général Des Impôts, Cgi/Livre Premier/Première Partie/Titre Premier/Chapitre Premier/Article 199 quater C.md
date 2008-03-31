@@ -1,7 +1,7 @@
 Article 199 quater C
 ----
 Les cotisations versées aux organisations syndicales représentatives de salariés
-et de fonctionnaires au sens de l'article L. 133-2 du code du travail ouvrent
+et de fonctionnaires au sens de l'article L. 2121-1 du code du travail ouvrent
 droit à une réduction d'impôt sur le revenu.
 
 La réduction d'impôt est égale à 66 % des cotisations versées prises dans la

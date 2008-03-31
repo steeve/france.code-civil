@@ -1,6 +1,6 @@
 Article 154 bis
 ----
-I. - Pour la détermination des bénéfices industriels et commerciaux et des
+I.-Pour la détermination des bénéfices industriels et commerciaux et des
 bénéfices des professions non commerciales, sont admises en déduction du
 bénéfice imposable les cotisations à des régimes obligatoires, de base ou
 complémentaires, d'allocations familiales, d'assurance vieillesse, y compris les
@@ -22,10 +22,10 @@ le remboursement ou l'indemnisation de frais occasionnés par une maladie, une
 maternité ou un accident, que ces garanties respectent les conditions
 mentionnées à l'article L. 871-1 du même code.
 
-II. - Les cotisations versées aux régimes obligatoires complémentaires
-d'assurance vieillesse mentionnés au premier alinéa du I, pour la part de ces
-cotisations excédant la cotisation minimale obligatoire, et les cotisations ou
-primes mentionnées au deuxième alinéa du I sont déductibles :
+II.-Les cotisations versées aux régimes obligatoires complémentaires d'assurance
+vieillesse mentionnés au premier alinéa du I, pour la part de ces cotisations
+excédant la cotisation minimale obligatoire, et les cotisations ou primes
+mentionnées au deuxième alinéa du I sont déductibles :
 
 1° Pour l'assurance vieillesse, dans une limite égale au plus élevé des deux
 montants suivants :
@@ -39,8 +39,8 @@ b) Ou 10 % du montant annuel du plafond mentionné à l'article L. 241-3 du code
 de la sécurité sociale.
 
 Cette limite est réduite, le cas échéant, des sommes versées par l'entreprise au
-plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code
-du travail et exonérées en application du 18° de l'article 81 ;
+plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L.
+3334-16 du code du travail et exonérées en application du 18° de l'article 81 ;
 
 2° Pour la prévoyance, dans la limite d'un montant égal à la somme de 7 % du
 montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité
@@ -59,12 +59,12 @@ de la sécurité sociale.
 
 Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9
 de l'article 93 sont retenus pour l'appréciation du montant du bénéfice
-imposable mentionné aux 1°, 2° et 3°. Il n'est pas tenu compte des plus-values
-et moins-values professionnelles à long terme.
+imposable mentionné aux 1°,2° et 3°. Il n'est pas tenu compte des plus-values et
+moins-values professionnelles à long terme.
 
 3° Il est complété par un III ainsi rédigé :
 
-III. - Toutefois, par dérogation aux I et II et pour la détermination des
+III.-Toutefois, par dérogation aux I et II et pour la détermination des
 résultats des exercices clos ou des périodes d'imposition arrêtées jusqu'au 31
 décembre 2008, les dispositions du présent article dans sa rédaction en vigueur
 jusqu'à l'imposition des revenus de 2003 continuent de s'appliquer, si elles

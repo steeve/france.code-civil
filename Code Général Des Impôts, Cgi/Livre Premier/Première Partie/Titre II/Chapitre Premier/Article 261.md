@@ -65,7 +65,7 @@ privés titulaires de l'autorisation mentionnée à l'article L. 6122-1 du code 
 la santé publique ;
 
 1° ter les soins dispensés par les établissements privés d'hébergement pour
-personnes âgées mentionnés au 6° de l'article L. 312-1 du code de l'action
+personnes âgées mentionnés au 6° du I de l'article L. 312-1 du code de l'action
 sociale et des familles, pris en charge par un forfait annuel global de soins en
 application de l'article L. 174-7 du code de la sécurité sociale ;
 
@@ -331,11 +331,11 @@ obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à
 déduction ;
 
 1° bis les opérations effectuées par les associations intermédiaires
-conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la
+conventionnées, mentionnées à l'article L. 5132-7 du code du travail, dont la
 gestion est désintéressée dans les conditions prévues au 1° ;
 
 1° ter les opérations effectuées par les associations agréées en application de
-l'article L129-1 du code du travail, dans les conditions prévues au 1° ;
+l'article L. 7232-1 du code du travail, dans les conditions prévues au 1° ;
 
 2° (Abrogé) ;
 

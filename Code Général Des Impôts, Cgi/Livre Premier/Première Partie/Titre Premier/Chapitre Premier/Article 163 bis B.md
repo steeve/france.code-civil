@@ -1,9 +1,9 @@
 Article 163 bis B
 ----
 I. Les sommes versées par l'entreprise en application de plans d'épargne
-constitués conformément aux dispositions du chapitre III du titre IV du livre IV
-du code du travail, sont exonérées de l'impôt sur le revenu établi au nom du
-salarié.
+constitués conformément aux dispositions du titre III du livre III de la
+troisième partie du code du travail, sont exonérées de l'impôt sur le revenu
+établi au nom du salarié.
 
 II. Les revenus des titres détenus dans l'un des plans d'épargne mentionnés au I
 sont également exonérés d'impôt sur le revenu s'ils sont réemployés dans ce plan

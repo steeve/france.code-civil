@@ -19,11 +19,11 @@ au développement de l'apprentissage conformément, respectivement, aux articles
 défini aux articles 225 et 225 A du code général des impôts ;
 
 e) Pour les employeurs assujettis à la participation au développement de la
-formation professionnelle continue conformément à l'article L. 952-1 du code du
-travail, le montant des rémunérations défini au premier alinéa de l'article L.
-952-1 précité ainsi que, le cas échéant, le montant des rémunérations versées
-aux titulaires d'un contrat à durée déterminée défini au premier alinéa de
-l'article L. 931-20 du même code ;
+formation professionnelle continue conformément à l'article L. 6331-2 du code du
+travail, le montant des rémunérations défini au deuxième alinéa de l'article L.
+6331-2 précité ainsi que, le cas échéant, le montant des rémunérations versées
+aux titulaires d'un contrat à durée déterminée défini au deuxième alinéa de
+l'article L. 6322-37 du même code ;
 
 2° Concernant chaque salarié rétribué l'année précédente :
 
@@ -71,8 +71,8 @@ du même article, sont, selon le cas, déductibles pour la détermination de la
 rémunération imposable ou ne sont pas ajoutées à cette rémunération ;
 
 -le montant des sommes versées par l'employeur à un plan d'épargne pour la
-retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées
-en application du 18° de l'article 81 du code général des impôts ;
+retraite collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail
+et exonérées en application du 18° de l'article 81 du code général des impôts ;
 
 e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre
 droit, le cas échéant, ainsi que l'option choisie par l'entreprise pour

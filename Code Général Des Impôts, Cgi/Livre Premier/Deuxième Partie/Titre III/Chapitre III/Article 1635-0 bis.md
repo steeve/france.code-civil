@@ -10,7 +10,7 @@ de séjour.
 Le montant de cette taxe est fixé par décret dans des limites comprises entre
 200 euros et 340 euros. Ces limites sont respectivement portées à 55 euros et 70
 euros pour les étrangers auxquels est délivrée une carte de séjour temporaire
-portant la mention "étudiant".
+portant la mention " étudiant ".
 
 Cette taxe est acquittée soit au moyen de timbres mobiles d'un modèle spécial à
 l'Agence nationale de l'accueil des étrangers et des migrations, soit par la
@@ -21,4 +21,5 @@ Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre
 de séjour au titre des 1°, 9°, 10° et 11° de l'article L. 313-11 du code de
 l'entrée et du séjour des étrangers et du droit d'asile, à l'article L. 313-13
 et aux 3°, 4°, 5°, 6°, 7°, 8° et 9° de l'article L. 314-11 du même code, non
-plus qu'aux étrangers relevant de l'article L. 341-2 du code du travail.
+plus qu'aux étrangers relevant des articles L. 5221-2 et L. 5221-3 du code du
+travail.

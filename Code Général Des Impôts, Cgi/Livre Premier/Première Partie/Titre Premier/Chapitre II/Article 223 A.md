@@ -36,25 +36,44 @@ morales s'apprécient de manière continue au cours de l'exercice. Les autres
 dispositions du premier alinéa s'appliquent à la société mère du groupe formé
 dans les conditions prévues au présent alinéa.
 
+Par exception à la première phrase du premier alinéa, lorsqu'une personne morale
+soumise à l'impôt sur les sociétés dans les conditions de droit commun est un
+organe central mentionné à l'article L. 511-30 du code monétaire et financier ou
+une caisse départementale ou interdépartementale mentionnée à l'article L.
+512-55 du même code titulaire d'un agrément collectif délivré par le Comité des
+établissements de crédit et des entreprises d'investissement pour elle-même et
+pour les caisses locales qui la détiennent, elle peut se constituer seule
+redevable de l'impôt sur les sociétés dû sur l'ensemble des résultats du groupe
+formé par elle-même, les banques, caisses et sociétés mentionnées aux articles
+L. 512-11, L. 512-20, L. 512-55, L. 512-60, L. 512-69 et L. 512-86 du même code
+soumises à l'impôt sur les sociétés dans les conditions de droit commun qui lui
+sont affiliées au sens de l'article L. 511-31 du même code ou bénéficiant d'un
+même agrément collectif délivré par le Comité des établissements de crédit et
+des entreprises d'investissement, et les sociétés dont elle et les banques,
+caisses et sociétés précitées détiennent 95 % au moins du capital, directement
+ou indirectement par l'intermédiaire de sociétés du groupe. Les autres
+dispositions du premier alinéa s'appliquent à la société mère du groupe formé
+dans les conditions prévues au présent alinéa.
+
 Pour le calcul du taux de détention du capital, il est fait abstraction, dans la
 limite de 10 % du capital de la société, des titres émis dans les conditions
 prévues aux articles L. 225-177 à L. 225-184, L. 225-197-1 à L. 225-197-5 du
-code de commerce et L. 443-5 du code du travail ainsi que des titres attribués,
-après rachat, dans les mêmes conditions, par une société à ses salariés non
-mandataires. Ce mode particulier de calcul ne s'applique plus à compter de
-l'exercice au cours duquel le détenteur des titres émis ou attribués dans les
-conditions qui précèdent cède ses titres ou cesse toute fonction dans la
-société. Toutefois, si la cession des titres ou la cessation de fonction a pour
-effet de réduire, au cours d'un exercice, à moins de 95 % la participation dans
-le capital d'une société filiale, ce capital est néanmoins réputé avoir été
-détenu selon les modalités fixées au premier ou au deuxième alinéa si le
-pourcentage de 95 % est à nouveau atteint à l'expiration du délai prévu au
-deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
-résultat de l'exercice. Si la cessation de fonction intervient au cours de la
-période de conservation prévue à la troisième phrase du deuxième alinéa du I de
-l'article L. 225-197-1 du code de commerce, il continue à être fait abstraction
-des actions dont la conservation est requise dans les conditions qui précèdent,
-jusqu'à l'expiration de la période précitée.
+code de commerce et aux articles L. 3332-18 à L. 3332-24 du code du travail
+ainsi que des titres attribués, après rachat, dans les mêmes conditions, par une
+société à ses salariés non mandataires. Ce mode particulier de calcul ne
+s'applique plus à compter de l'exercice au cours duquel le détenteur des titres
+émis ou attribués dans les conditions qui précèdent cède ses titres ou cesse
+toute fonction dans la société. Toutefois, si la cession des titres ou la
+cessation de fonction a pour effet de réduire, au cours d'un exercice, à moins
+de 95 % la participation dans le capital d'une société filiale, ce capital est
+néanmoins réputé avoir été détenu selon les modalités fixées au premier, au
+deuxième ou au troisième alinéa si le pourcentage de 95 % est à nouveau atteint
+à l'expiration du délai prévu au deuxième alinéa du 1 de l'article 223 pour le
+dépôt de la déclaration de résultat de l'exercice. Si la cessation de fonction
+intervient au cours de la période de conservation prévue à la troisième phrase
+du deuxième alinéa du I de l'article L. 225-197-1 du code de commerce, il
+continue à être fait abstraction des actions dont la conservation est requise
+dans les conditions qui précèdent, jusqu'à l'expiration de la période précitée.
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs
 résultats qui peuvent être vérifiés dans les conditions prévues par les articles
@@ -67,9 +86,13 @@ Seules peuvent être membres du groupe les sociétés qui ont donné leur accord
 dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de
 droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 Toutefois, lorsque la société mère opte pour l'application du régime défini au
-deuxième alinéa, toutes les personnes morales dénuées de capital définies au
-même alinéa sont obligatoirement membres du groupe et ne peuvent simultanément
-être mères d'un groupe formé dans les conditions prévues au premier alinéa.
+deuxième ou au troisième alinéa, toutes les personnes morales dénuées de capital
+définies au deuxième alinéa et toutes les banques, caisses et sociétés
+mentionnées aux articles L. 512-11, L. 512-20, L. 512-55, L. 512-60, L. 512-69
+et L. 512-86 du code monétaire et financier ou bénéficiant du même agrément
+collectif, à l'exception des filiales dont le capital est détenu à 95 % au moins
+sont obligatoirement membres du groupe et ne peuvent simultanément être mères
+d'un groupe formé dans les conditions prévues au premier alinéa.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
 les exercices ont en principe, une durée de douze mois. Par exception, la durée
@@ -79,17 +102,17 @@ s'appliquer qu'une seule fois au cours d'une période couverte par une même
 option. La modification de la date de clôture de l'exercice doit être notifiée
 au plus tard à l'expiration du délai prévu au deuxième alinéa du 1 de l'article
 223 pour le dépôt de la déclaration de résultat de l'exercice précédant le
-premier exercice concerné. Les options mentionnées aux premier et deuxième
-alinéas sont notifiées au plus tard à l'expiration du délai prévu au deuxième
-alinéa du 1 de l'article 223 pour le dépôt de la déclaration de résultat de
-l'exercice précédant celui au titre duquel le régime défini au présent article
-s'applique. Elles sont valables pour une période de cinq exercices. Elles sont
-renouvelées par tacite reconduction, sauf dénonciation au plus tard à
-l'expiration du délai prévu au 1 de l'article 223 pour le dépôt de la
-déclaration de résultat du dernier exercice de chaque période.
+premier exercice concerné. Les options mentionnées aux premier, deuxième ou
+troisième alinéas sont notifiées au plus tard à l'expiration du délai prévu au
+deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
+résultat de l'exercice précédant celui au titre duquel le régime défini au
+présent article s'applique. Elles sont valables pour une période de cinq
+exercices. Elles sont renouvelées par tacite reconduction, sauf dénonciation au
+plus tard à l'expiration du délai prévu au 1 de l'article 223 pour le dépôt de
+la déclaration de résultat du dernier exercice de chaque période.
 
 Pour chacun des exercices arrêtés au cours de la période de validité de
-l'option, la société mère notifie, au plus tard à la date mentionnée au sixième
+l'option, la société mère notifie, au plus tard à la date mentionnée au septième
 alinéa, la liste des sociétés membres du groupe ainsi que l'identité des
 sociétés qui cessent d'être membres de ce groupe. A défaut, le résultat
 d'ensemble est déterminé à partir du résultat des sociétés mentionnées sur la

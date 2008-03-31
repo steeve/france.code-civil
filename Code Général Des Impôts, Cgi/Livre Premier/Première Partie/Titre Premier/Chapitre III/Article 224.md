@@ -3,7 +3,7 @@ Article 224
 1. Il est établi une taxe, dite taxe d'apprentissage, dont le produit, net des
 dépenses admises en exonération en application des articles 226 bis, 227 et 227
 bis, est versé au Fonds national de développement et de modernisation de
-l'apprentissage mentionné à l'article L. 118-2-3 du code du travail.
+l'apprentissage mentionné à l'article L. 6241-3 du code du travail.
 
 2. Cette taxe est due :
 
@@ -32,7 +32,7 @@ aux articles 34 et 35.
 
 1° Les entreprises occupant un ou plusieurs apprentis avec lesquels un contrat
 régulier d'apprentissage a été passé dans les conditions prévues aux articles L.
-117-1 à L. 117-18 du code du travail, lorsque la base annuelle d'imposition
+6221-1 à L. 6225-8 du code du travail, lorsque la base annuelle d'imposition
 déterminée conformément aux dispositions des articles 225 et 225 A n'excède pas
 six fois le salaire minimum de croissance annuel ;
 
@@ -41,8 +41,9 @@ d'enseignement ;
 
 3° Les groupements d'employeurs composés d'agriculteurs ou de sociétés civiles
 agricoles bénéficiant de l'exonération, constitués selon les modalités prévues
-au chapitre VII du titre II du livre Ier du code du travail et, à proportion des
-rémunérations versées dans le cadre de la mise à disposition de personnel aux
-adhérents non assujettis ou bénéficiant d'une exonération, les autres
-groupements d'employeurs constitués selon les modalités prévues au chapitre VII
-du titre II du livre Ier du code du travail (1).
+au chapitre III du titre V du livre II de la première partie du code du travail
+et, à proportion des rémunérations versées dans le cadre de la mise à
+disposition de personnel aux adhérents non assujettis ou bénéficiant d'une
+exonération, les autres groupements d'employeurs constitués selon les modalités
+prévues au chapitre III du titre V du livre II de la première partie du code du
+travail.

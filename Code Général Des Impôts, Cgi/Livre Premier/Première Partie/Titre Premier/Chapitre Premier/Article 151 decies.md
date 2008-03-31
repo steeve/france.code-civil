@@ -5,5 +5,5 @@ aux associés de société de personnes n'ayant pas opté pour leur assujettisse
 à l'impôt sur les sociétés et aux conjoints collaborateurs et associés qui sont
 affectées à la réalisation d'un plan d'épargne d'entreprise sont exclues de
 l'assiette des bénéfices non commerciaux et de l'assiette des bénéfices
-industriels et commerciaux dans les conditions et limite prévues par le deuxième
-alinéa de l'article L. 441-6 du code du travail.
+industriels et commerciaux dans les conditions et limite prévues par l'article
+L. 3315-3 du code du travail.

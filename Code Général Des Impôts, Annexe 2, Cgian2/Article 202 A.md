@@ -13,16 +13,16 @@ d'un des agréments mentionnés au II, auprès de l'autorité qui a procédé à
 agrément.
 
 II. Seules les personnes qui ont souscrit la déclaration mentionnée à l'article
-L. 920-4 du code du travail ou qui bénéficient d'un des agréments mentionnés aux
-articles L. 951-1, L. 952-1, L. 961-9, L. 961-12 et L. 961-13 du même code
-peuvent obtenir l'attestation.
+L. 6351-1 du code du travail ou qui bénéficient d'un des agréments mentionnés
+aux articles L. 6332-1, L. 6332-7 et L. 6332-19 du même code peuvent obtenir
+l'attestation.
 
 En outre, l'attestation ne peut être délivrée qu'à la condition que l'activité
 du demandeur entre dans le cadre de la formation professionnelle continue telle
-que définie conjointement par les articles L. 900-1 et L. 900-2 du code du
+que définie conjointement par les articles L. 6311-1 et L. 6313-1 du code du
 travail ou relève des missions légalement dévolues aux organismes paritaires
 agréés. Le demandeur doit être à jour de ses obligations résultant de l'article
-L. 920-5 du code du travail.
+L. 6352-11 du code du travail.
 
 III. La direction régionale du travail, de l'emploi et de la formation
 professionnelle ou la direction du travail, de l'emploi et de la formation

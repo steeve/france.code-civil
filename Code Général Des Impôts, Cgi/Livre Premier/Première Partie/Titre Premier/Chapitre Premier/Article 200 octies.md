@@ -1,6 +1,6 @@
 Article 200 octies
 ----
-I. - Les contribuables fiscalement domiciliés en France peuvent bénéficier d'une
+I.-Les contribuables fiscalement domiciliés en France peuvent bénéficier d'une
 réduction d'impôt au titre de l'aide qu'ils apportent à des personnes inscrites
 comme demandeurs d'emploi ou titulaires du revenu minimum d'insertion, de
 l'allocation de parent isolé ou de l'allocation aux adultes handicapés, qui
@@ -16,18 +16,18 @@ peut apporter son aide à plus de deux personnes simultanément.
 
 Une convention d'une durée d'un an renouvelable est conclue entre le
 contribuable, le créateur de l'entreprise et une maison de l'emploi mentionnée à
-l'article L. 311-10 du code du travail dont relève ce dernier. La maison de
+l'article L. 5313-1 du code du travail dont relève ce dernier. La maison de
 l'emploi informe les parties sur leurs obligations respectives et en contrôle le
 respect. Elle délivre au contribuable un document attestant la bonne exécution
 de la convention lorsque celle-ci prend fin.
 
-II. - La réduction d'impôt, d'un montant forfaitaire de 1 000 Euros, est
-accordée au titre de l'année au cours de laquelle la convention prend fin. Cette
+II.-La réduction d'impôt, d'un montant forfaitaire de 1 000 euros, est accordée
+au titre de l'année au cours de laquelle la convention prend fin. Cette
 réduction d'impôt est majorée dans des conditions définies par décret lorsque
 l'aide est apportée à une personne handicapée au sens de l'article L. 114 du
 code de l'action sociale et des familles.
 
-III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
+III.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article, notamment :
 
 1° Le cahier des charges auquel doit se conformer la convention tripartite ;

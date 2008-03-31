@@ -1,10 +1,7 @@
 Article 235 ter C
 ----
-Cet article reproduit les dispositions de l'article L. 950-1 du code du travail
-:
-
-"Tout employeur, à l'exception de l'Etat, des collectivités locale et de leurs
-établissements publics à caractère administratif, doit concourir au
-développement de la formation professionnelle continue en participant, chaque
-année, au financement des actions mentionnées à l'article L. 900-2 et à
-l'article L. 900-3."
+Conformément aux dispositions de l'article L. 6331-1 du code du travail, tout
+employeur, à l'exception de l'Etat, des collectivités locales et de leurs
+établissements publics à caractère administratif, concourt au développement de
+la formation professionnelle continue dans les conditions définies par ce même
+article.

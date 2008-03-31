@@ -44,7 +44,7 @@ d'assainissement.
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
 d'assainissement ;
 
-b bis - Les spectacles suivants :
+b bis-Les spectacles suivants :
 
 théâtres ;
 
@@ -147,7 +147,7 @@ organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de
 l'environnement ;
 
 i. les prestations de services fournies par des entreprises agréées en
-application de l'article L. 129-1 du code du travail.
+application des articles L. 7232-1 à L. 7232-4 du code du travail.
 
 j) Les rémunérations versées par les collectivités territoriales et leurs
 groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens

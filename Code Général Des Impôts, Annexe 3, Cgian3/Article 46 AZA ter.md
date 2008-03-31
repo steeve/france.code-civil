@@ -7,5 +7,5 @@ cotisations sociales obligatoires.
 
 Le taux horaire minimum garanti permettant d'apprécier le plafond du crédit
 d'impôt prévu au II de l'article 200 undecies précité est celui en vigueur, en
-application des articles L. 141-3 à L. 141-8 du code du travail, au 31 décembre
-de l'année au titre de laquelle le crédit d'impôt est calculé.
+application des articles L. 3231-4 à L. 3231-12 du code du travail, au 31
+décembre de l'année au titre de laquelle le crédit d'impôt est calculé.

@@ -1,22 +1,21 @@
 Article 206
 ----
-1. Sous réserve des dispositions des articles 8 ter, 239 bis AA et 1655 ter,
-sont passibles de l'impôt sur les sociétés, quel que soit leur objet, les
-sociétés anonymes, les sociétés en commandite par actions, les sociétés à
-responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de
-personnes dans les conditions prévues au IV de l'article 3 du décret n° 55-594
-du 20 mai 1955 modifié, les sociétés coopératives et leurs unions ainsi que,
-sous réserve des dispositions des 6° et 6° bis du 1 de l'article 207, les
-établissements publics, les organismes de l'Etat jouissant de l'autonomie
-financière, les organismes des départements et des communes et toutes autres
-personnes morales se livrant à une exploitation ou à des opérations de caractère
-lucratif.
+1. Sous réserve des dispositions des articles 8 ter,239 bis AA et 1655 ter, sont
+passibles de l'impôt sur les sociétés, quel que soit leur objet, les sociétés
+anonymes, les sociétés en commandite par actions, les sociétés à responsabilité
+limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans
+les conditions prévues au IV de l'article 3 du décret n° 55-594 du 20 mai 1955
+modifié, les sociétés coopératives et leurs unions ainsi que, sous réserve des
+dispositions des 6° et 6° bis du 1 de l'article 207, les établissements publics,
+les organismes de l'Etat jouissant de l'autonomie financière, les organismes des
+départements et des communes et toutes autres personnes morales se livrant à une
+exploitation ou à des opérations de caractère lucratif.
 
 1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1
 les associations régies par la loi du 1er juillet 1901, les associations régies
 par la loi locale maintenue en vigueur dans les départements de la Moselle, du
-Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 411-1 et
-suivants du code du travail, les fondations reconnues d'utilité publique, les
+Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 2131-1 à L.
+2135-2 du code du travail, les fondations reconnues d'utilité publique, les
 fondations d'entreprise et les congrégations, dont la gestion est désintéressée,
 lorsque leurs activités non lucratives restent significativement prépondérantes
 et le montant de leurs recettes d'exploitation encaissées au cours de l'année
@@ -105,15 +104,13 @@ e. des dividendes des sociétés d'investissements immobiliers cotées visées �
 l'article 208 C et prélevés sur les bénéfices exonérés en application du premier
 alinéa du II de cet article.
 
-5 bis. Les associations intermédiaires conventionnées, visées à l'article L.
-322-4-16-3 du code du travail, dont la gestion est désintéressée et les
-associations de services aux personnes, agréées en application de l'article
-L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
+5 bis. Les associations intermédiaires conventionnées, mentionnées à l'article
+L. 5132-7 du code du travail, dont la gestion est désintéressée et les
+associations de services aux personnes, agréées en application de l'article L.
+7232-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
 prévues au 5.
 
-5 ter. Pour les sociétés coopératives d'intérêt collectif, la part des excédents
-mis en réserves impartageables est déductible de l'assiette de l'impôt sur les
-sociétés (1).
+5 ter. (Transféré au VIII de l'article 209)
 
 6. 1° L'organe central du crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier
