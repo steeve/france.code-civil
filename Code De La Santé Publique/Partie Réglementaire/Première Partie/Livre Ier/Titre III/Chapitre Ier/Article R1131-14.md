@@ -1,16 +1,17 @@
 Article R1131-14
 ----
-Le compte rendu d'analyse de biologie médicale commenté et signé par un
-praticien responsable agréé conformément à l'article R. 1131-6 doit être adressé
-exclusivement au praticien prescripteur des examens génétiques.
+Sans préjudice des conditions définies aux 1° et 2° de l'article L. 6122-2,
+l'octroi ou le renouvellement de l'autorisation, mentionnée à l'article R.
+1131-13, de pratiquer les analyses mentionnées aux 1° et 2° de l'article R.
+1131-2 est subordonné au respect des règles fixées par le présent paragraphe.
+Ces règles constituent les conditions d'implantation et les conditions
+techniques de fonctionnement prévues au 3° de l'article L. 6122-2.
 
-Le médecin prescripteur ne doit communiquer les résultats de l'examen des
-caractéristiques génétiques qu'à la personne concernée, ou à celle titulaire de
-l'autorité parentale s'il s'agit d'un mineur sous réserve des dispositions de
-l'article L. 1111-5, et à son représentant légal s'il s'agit d'un majeur sous
-tutelle. La communication des résultats doit se faire, dans le cadre d'une
-consultation médicale individuelle, sous une forme claire et appropriée.
+L'autorisation est délivrée par la commission exécutive de l'agence régionale de
+l'hospitalisation. Elle peut être limitée à certaines des catégories d'analyses
+mentionnées au précédent alinéa.
 
-La personne concernée peut refuser que les résultats de l'examen lui soient
-communiqués : dans ce cas, sous réserve de l'article L. 1111-2, le refus est
-consigné par écrit dans le dossier du malade.
+L'autorisation précise le site d'exercice. Lorsque l'autorisation est délivrée à
+un laboratoire d'analyses de biologie médicale mentionné à l'article L. 6211-2,
+elle précise le lieu où sont implantés les locaux réservés à ces activités dans
+le respect des dispositions de l'article R. 6211-11.

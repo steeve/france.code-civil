@@ -42,4 +42,7 @@ biologiques d'assistance médicale à la procréation, activités de recueil,
 traitement, conservation de gamètes et cession de gamètes issus de don,
 activités de diagnostic prénatal ;
 
-18° Traitement du cancer.
+18° Traitement du cancer ;
+
+19° Examen des caractéristiques génétiques d'une personne ou identification
+d'une personne par empreintes génétiques à des fins médicales.

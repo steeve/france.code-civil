@@ -1,11 +1,14 @@
 Article R1131-20
 ----
-Toutes les personnes qui participent, même à titre occasionnel, aux travaux de
-la commission sont tenues au secret professionnel.
+Le consentement écrit et les doubles de la prescription de l'examen des
+caractéristiques génétiques et des comptes rendus d'analyses de biologie
+médicale commentés et signés sont conservés par le médecin prescripteur dans le
+dossier médical de la personne concernée, dans le respect du secret
+professionnel.
 
-Tout membre de la commission qui a un intérêt personnel direct ou indirect dans
-une affaire soumise à l'examen de la commission en fait la déclaration écrite au
-directeur général de la santé qui en informe le président. Ce membre ne peut
-être désigné comme rapporteur et ne peut participer ni aux débats ni au vote sur
-cette affaire. En cas de non-respect de cette règle, le ministre chargé de la
-santé procède au remplacement de ce membre.
+Les comptes rendus d'analyses de biologie médicale et leur commentaire
+explicatif sont conservés par les laboratoires d'analyses de biologie médicale
+mentionnés à l'article R. 1131-13 pendant une durée de trente ans.
+
+Dans tous les cas, l'archivage de ces résultats est effectué dans les conditions
+de sécurité et de confidentialité.

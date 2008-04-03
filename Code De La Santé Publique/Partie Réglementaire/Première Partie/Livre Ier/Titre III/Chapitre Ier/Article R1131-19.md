@@ -1,12 +1,16 @@
 Article R1131-19
 ----
-La commission ne peut se prononcer que si la moitié au moins de ses membres sont
-présents.
+Le compte rendu des analyses mentionnées aux 1° et 2° de l'article R. 1131-2 est
+commenté et signé par le praticien agréé conformément à l'article R. 1131-6 et
+celui des analyses de biologie médicale mentionnées au 3° de l'article R. 1131-2
+par le praticien responsable de ces analyses.
 
-Quand le quorum n'est pas atteint à une réunion, le même ordre du jour est
-reporté à une réunion ultérieure tenue dans un délai d'un mois ; les
-délibérations prises alors sont valables quel que soit le nombre des membres
-présents.
+Le médecin prescripteur communique les résultats de l'examen des
+caractéristiques génétiques à la personne concernée ou, le cas échéant, aux
+personnes mentionnées au deuxième alinéa de l'article L. 1131-1, dans le cadre
+d'une consultation médicale individuelle.
 
-La commission se prononce à la majorité des voix des membres présents ; en cas
-de partage égal des voix, celle du président est prépondérante.
+La personne concernée peut refuser que les résultats de l'examen lui soient
+communiqués. Dans ce cas, et sous réserve des dispositions du quatrième alinéa
+de l'article L. 1111-2, le refus est consigné par écrit dans le dossier de la
+personne.

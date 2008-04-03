@@ -1,11 +1,18 @@
 Article R1131-1
 ----
-L'examen des caractéristiques génétiques d'une personne à des fins médicales, au
-sens du présent titre, a pour effet :
+L'examen des caractéristiques génétiques d'une personne ou son identification
+par empreintes génétiques à des fins médicales consiste à analyser ses
+caractéristiques génétiques héritées ou acquises à un stade précoce du
+développement prénatal.
 
-- soit de confirmer ou d'infirmer le diagnostic de maladie génétique chez une
-personne qui en présente les symptômes ;
+Cette analyse a pour objet :
 
-- soit de rechercher, chez une personne asymptomatique, les caractéristiques
-d'un ou plusieurs gènes susceptibles d'entraîner à terme le développement d'une
-maladie chez la personne elle-même ou sa descendance.
+1° Soit de poser, de confirmer ou d'infirmer le diagnostic d'une maladie à
+caractère génétique chez une personne ;
+
+2° Soit de rechercher les caractéristiques d'un ou plusieurs gènes susceptibles
+d'être à l'origine du développement d'une maladie chez une personne ou les
+membres de sa famille potentiellement concernés ;
+
+3° Soit d'adapter la prise en charge médicale d'une personne selon ses
+caractéristiques génétiques

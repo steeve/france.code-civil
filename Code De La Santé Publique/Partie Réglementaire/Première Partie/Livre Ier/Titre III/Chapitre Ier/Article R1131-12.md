@@ -1,11 +1,8 @@
 Article R1131-12
 ----
-Les laboratoires d'analyses de biologie médicale mentionnés à l'article R.
-1131-11 doivent disposer des équipements nécessaires à la réalisation des
-examens définis à l'article R. 1131-2. La liste de ces équipements est fixée par
-arrêté du ministre chargé de la santé pris après avis de la Commission
-consultative nationale en matière d'examens des caractéristiques génétiques à
-des fins médicales.
+L'Agence de la biomédecine publie au Bulletin officiel du ministère de la santé
+les décisions relatives à l'agrément des praticiens, au renouvellement, à la
+suspension et au retrait de cet agrément.
 
-Ces locaux et équipements peuvent être communs avec ceux utilisés en application
-de l'article R. 2131-6 pour le diagnostic prénatal.
+Elle tient à jour la liste des praticiens agréés et la met à la disposition du
+public.

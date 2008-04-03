@@ -1,22 +1,22 @@
 Article R1131-13
 ----
-L'autorisation peut être retirée à tout moment par le préfet de région après
-avis motivé de la Commission consultative nationale en matière d'examens des
-caractéristiques génétiques à des fins médicales en cas :
+Les analyses mentionnées aux 1° et 2° de l'article R. 1131-2 ne peuvent être
+pratiquées que dans les laboratoires de biologie médicale des établissements
+publics de santé, les laboratoires des centres de lutte contre le cancer, les
+laboratoires d'analyses de biologie médicale mentionnés à l'article L. 6211-2 et
+les laboratoires d'analyses de biologie médicale de l'Etablissement français du
+sang autorisés dans les conditions définies aux articles R. 1131-14 et suivants.
 
-1° De non-respect des conditions prévues par le présent chapitre ;
+Ces analyses peuvent également être effectuées dans un laboratoire d'un autre
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen déclaré ou autorisé dans les conditions définies aux
+articles R. 6211-48 à R. 6211-64. Les dispositions de la présente sous-section
+ne sont pas applicables à ces laboratoires.
 
-2° De non-respect des dispositions législatives et réglementaires, notamment
-celles relatives aux obligations découlant du guide de bonne exécution des
-analyses de biologie médicale prévu par l'article 9-1 du décret n° 76-1004 du 4
-novembre 1976 fixant les conditions d'autorisation des laboratoires d'analyses
-de biologie médicale ;
+Les laboratoires mentionnés au premier alinéa doivent disposer des équipements
+nécessaires à la réalisation des analyses définies aux 1° et 2° de l'article R.
+1131-2. La liste de ces équipements est fixée par arrêté du ministre chargé de
+la santé après avis de l'Agence de la biomédecine.
 
-3° De refus de participer au contrôle national de qualité des analyses de
-biologie médicale, prévu par le décret n° 94-1049 du 2 décembre 1994 relatif au
-contrôle de qualité des analyses de biologie médicale en application de
-l'article L. 6213-3.
-
-En cas d'urgence, l'autorisation peut être suspendue par le préfet pour une
-durée de trois mois. En ce cas, l'avis de la commission intervient dans un délai
-de deux mois.
+Les locaux et les équipements peuvent être communs avec ceux qui sont utilisés
+en application de l'article R. 2131-6 pour le diagnostic prénatal.

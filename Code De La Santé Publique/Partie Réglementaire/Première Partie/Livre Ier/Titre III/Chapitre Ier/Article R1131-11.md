@@ -1,12 +1,21 @@
 Article R1131-11
 ----
-Les examens mentionnés à l'article R. 1131-2 ne peuvent être pratiqués que dans
-les laboratoires d'analyses de biologie médicale des établissements publics de
-santé, des centres de lutte contre le cancer et de l'Etablissement français du
-sang et les laboratoires d'analyses de biologie médicale mentionnés à l'article
-L. 6211-2, et après autorisation accordée pour une durée de cinq ans
-renouvelables, par arrêté du préfet de région pris après avis de la Commission
-consultative nationale en matière d'examens des caractéristiques génétiques à
-des fins médicales.
+Le retrait de l'agrément du praticien mentionné à l'article R. 1131-6 est
+encouru en cas de violation des prescriptions prévues au présent chapitre ou en
+cas de violation des termes de l'agrément.
 
-L'autorisation précise le site d'exercice.
+La décision motivée de retrait est prise par le directeur général de l'Agence de
+la biomédecine. Le praticien est informé par lettre recommandée avec demande
+d'avis de réception du directeur général de l'ouverture d'une procédure de
+retrait. Il est invité à présenter préalablement à cette décision ses
+observations orales ou écrites et peut se faire assister d'un défenseur de son
+choix.
+
+En cas d'urgence, l'agrément peut, à titre conservatoire, être suspendu pour une
+durée maximale de trois mois par le directeur général de l'Agence de la
+biomédecine.
+
+Le directeur général de l'Agence de la biomédecine informe de la décision de
+retrait ou de suspension le praticien, l'agence régionale de l'hospitalisation
+compétente, ainsi que l'établissement ou organisme titulaire de l'autorisation
+mentionnée à l'article R. 1131-13 au sein duquel exerce le praticien.

@@ -1,6 +1,8 @@
 Article R1131-6
 ----
-Les analyses définies à l'article R. 1131-2 ne peuvent être réalisées que par
-des praticiens agréés à cet effet dans les conditions fixées à l'article R.
-1131-7 et exerçant dans des établissements ou organismes autorisés dans les
-conditions fixées aux articles R. 1131-11 et suivants.
+Les analyses définies aux 1° et 2° de l'article R. 1131-2 sont réalisées sous la
+responsabilité d'un praticien agréé à cet effet dans les conditions fixées à
+l'article R. 1131-9 et exerçant dans un des établissements ou organismes
+mentionnés à l'article R. 1131-13.
+
+Le praticien agréé est seul habilité à signer les comptes rendus d'analyse.
