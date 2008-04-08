@@ -17,8 +17,9 @@ forme de vacations forfaitaires. Le nombre maximal de ces vacations ainsi que
 leur montant sont déterminés par une délibération du conseil d'administration.
 Leurs modalités d'attribution sont fixées par décision du directeur général de
 l'agence après délibération du conseil d'administration. Le directeur général de
-l'agence fixe également le nombre des vacations effectuées par les membres des
-instances ou des groupes d'experts mentionnés au présent article.
+l'agence fixe également le nombre des vacations effectuées par les membres de
+ces instances, par les membres des groupes d'experts ou par les experts
+extérieurs mentionnés au présent article.
 
 En outre, les membres du conseil d'orientation et les membres du comité médical
 et scientifique ainsi que des groupes d'experts ont droit au remboursement des

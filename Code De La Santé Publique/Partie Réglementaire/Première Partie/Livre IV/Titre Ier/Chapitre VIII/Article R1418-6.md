@@ -69,8 +69,9 @@ des listes d'au moins trois noms présentées par ces organisations ;
 modalités définies par le règlement intérieur de l'agence.
 
 Le président et les membres du conseil d'administration, à l'exclusion des
-membres de droit, sont nommés pour une durée de trois ans, renouvelable une fois
-sur proposition du ministre chargé de la santé.
+membres de droit et des représentants du personnel de l'agence, sont nommés pour
+une durée de trois ans, renouvelable une fois sur proposition du ministre chargé
+de la santé.
 
 Pour chacun des membres mentionnés du m au p du 1° et aux 2° et 3° du présent
 article, un suppléant est nommé dans les mêmes conditions que le titulaire.

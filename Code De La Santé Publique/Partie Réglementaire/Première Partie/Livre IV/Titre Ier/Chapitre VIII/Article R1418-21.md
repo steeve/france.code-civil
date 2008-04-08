@@ -7,4 +7,5 @@ d'orientation et, d'autre part, par des groupes d'experts nommés par le
 directeur général qui détermine l'étendue et la durée de leur mission.
 
 Les modalités de fonctionnement de ce comité et de ces groupes sont déterminées
-par le règlement intérieur de l'agence après avis du conseil d'orientation.
+selon les mêmes modalités que le règlement intérieur de l'agence et après avis
+du conseil d'orientation.

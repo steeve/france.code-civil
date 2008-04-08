@@ -38,10 +38,11 @@ qu'il détermine ;
 groupements d'intérêt économique ou à tous autres organismes, quelle que soit
 leur nature juridique ;
 
-13° Les projets de mise en oeuvre de traitements de données à caractère
-personnel avant qu'ils fassent l'objet des procédures prévues au chapitre IV de
-la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés ;
+13° Les projets de mise en œuvre de traitements de données à caractère personnel
+avant qu'ils fassent l'objet des procédures prévues aux chapitres IV et IX de la
+loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés, à l'exception des traitements mentionnés au I et au premier alinéa du
+II de l'article 24 de cette loi ;
 
 14° Le rapport annuel sur l'activité de l'agence mentionné à l'article L. 1418-1
 ;
@@ -55,4 +56,5 @@ article. Celui-ci lui rend compte chaque année des décisions prises.
 
 Le directeur général informe chaque année le conseil d'administration des
 contrats, marchés publics ou conventions conclus l'année précédente dans les
-conditions prévues à l'article 138 du code des marchés publics.
+conditions prévues à l'article 138 du code des marchés publics, ainsi que des
+nouveaux traitements de données à caractère personnel mis en œuvre par l'agence.
