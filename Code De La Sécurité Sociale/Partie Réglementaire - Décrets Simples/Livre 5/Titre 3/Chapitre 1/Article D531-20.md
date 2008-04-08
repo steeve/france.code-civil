@@ -10,5 +10,5 @@ du code du travail, est égal à la moitié du plafond prévu au deuxième alin�
 l'article D. 531-17 ;
 
 2° Les taux mentionnés à l'article D. 531-18 pour le calcul de la prise en
-charge partielle de la rémunération sont fixés respectivement à 50,34 %, 35,96 %
+charge partielle de la rémunération sont fixés respectivement à 57,02 %, 35,96 %
 et 21,57 %.
