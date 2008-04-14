@@ -33,13 +33,18 @@ orientations ministérielles précitées ;
 4° bis Les conditions et les modalités de mise en oeuvre des études
 pharmaco-épidémiologiques, postérieurement à l'obtention de l'autorisation de
 mise sur le marché visée à l'article L. 5121-8 du code de la santé publique ou
-dans le règlement (CEE) n° 2309/93 du Conseil, du 22 juillet 1993, établissant
+dans le règlement (CEE) n° 2309 / 93 du Conseil, du 22 juillet 1993, établissant
 des procédures communautaires pour l'autorisation et la surveillance des
 médicaments à usage humain et à usage vétérinaire et instituant une agence
-européenne pour l'évaluation des médicaments ;
+européenne pour l'évaluation des médicaments, ainsi que les sanctions encourues
+en cas de non-réalisation ou de retard dans la réalisation de ces études qui
+pourront aboutir, après que l'entreprise a été mise en mesure de présenter ses
+observations, à une baisse de prix du médicament concerné, fixée exclusivement
+sur la base des conséquences entraînées pour l'assurance maladie par la
+non-réalisation des études ;
 
 5° Les dispositions conventionnelles applicables en cas de non-respect des
-engagements mentionnés aux 3°, 4° et 4° bis.
+engagements mentionnés aux 3°,4° et 4° bis.
 
 L'accord-cadre visé ci-dessus peut prévoir également les modalités d'information
 des entreprises titulaires d'une autorisation de mise sur le marché d'un

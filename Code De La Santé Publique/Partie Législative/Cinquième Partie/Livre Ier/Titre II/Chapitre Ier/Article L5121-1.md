@@ -2,14 +2,9 @@ Article L5121-1
 ----
 On entend par :
 
-1° Préparation magistrale, tout médicament préparé extemporanément au vu de la
-prescription destinée à un malade déterminé soit dans la pharmacie
-dispensatrice, soit, dans des conditions définies par décret, dans une pharmacie
-à laquelle celle-ci confie l'exécution de la préparation par un contrat écrit et
-qui est soumise pour l'exercice de cette activité de sous-traitance à une
-autorisation préalable délivrée par le représentant de l'État dans le
-département après avis du directeur régional des affaires sanitaires et sociales
-;
+1° Préparation magistrale, tout médicament préparé selon une prescription
+médicale destinée à un malade déterminé, soit extemporanément en pharmacie, soit
+dans les conditions prévues à l'article L. 5125-1 ;
 
 2° Préparation hospitalière, tout médicament, à l'exception des produits de
 thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
