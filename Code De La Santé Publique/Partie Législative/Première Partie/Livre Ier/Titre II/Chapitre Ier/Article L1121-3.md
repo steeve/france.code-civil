@@ -3,12 +3,12 @@ Article L1121-3
 Les recherches biomédicales ne peuvent être effectuées que si elles sont
 réalisées dans les conditions suivantes :
 
-- sous la direction et sous la surveillance d'un médecin justifiant d'une
+-sous la direction et sous la surveillance d'un médecin justifiant d'une
 expérience appropriée ;
 
-- dans des conditions matérielles et techniques adaptées à l'essai et
-compatibles avec les impératifs de rigueur scientifique et de sécurité des
-personnes qui se prêtent à ces recherches.
+-dans des conditions matérielles et techniques adaptées à l'essai et compatibles
+avec les impératifs de rigueur scientifique et de sécurité des personnes qui se
+prêtent à ces recherches.
 
 Dans les sciences du comportement humain, une personne qualifiée, conjointement
 avec l'investigateur, peut exercer la direction de la recherche.
@@ -27,10 +27,8 @@ surveillance d'une personne qualifiée.
 Les recherches biomédicales portant sur des médicaments sont réalisées dans le
 respect des règles de bonnes pratiques cliniques fixées par décision de l'Agence
 française de sécurité sanitaire des produits de santé. Pour les autres
-recherches, des recommandations de bonnes pratiques sont fixées par arrêté du
-ministre chargé de la santé et par décision de l'Agence française de sécurité
-sanitaire des produits de santé pour les produits mentionnés à l'article L.
-5311-1.
+recherches, des recommandations de bonnes pratiques sont fixées par décision de
+l'Agence française de sécurité sanitaire des produits de santé.
 
 Les personnes chargées du contrôle de qualité d'une recherche biomédicale et
 dûment mandatées à cet effet par le promoteur ont accès, sous réserve de

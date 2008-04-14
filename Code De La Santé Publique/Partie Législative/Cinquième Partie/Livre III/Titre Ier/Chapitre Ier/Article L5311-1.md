@@ -12,11 +12,11 @@ l'exportation, à la distribution en gros, au conditionnement, à la conservatio
 ou à l'utilisation des produits à finalité sanitaire destinés à l'homme et des
 produits à finalité cosmétique, et notamment :
 
-1° Les médicaments, y compris les préparations magistrales, hospitalières et
-officinales, les substances stupéfiantes, psychotropes ou autres substances
-vénéneuses utilisées en médecine, les insecticides, acaricides et
-antiparasitaires à usage humain, les huiles essentielles et plantes médicinales,
-les matières premières à usage pharmaceutique ;
+1° Les médicaments, y compris les insecticides, acaricides et antiparasitaires à
+usage humain, les préparations magistrales, hospitalières et officinales, les
+substances stupéfiantes, psychotropes ou autres substances vénéneuses utilisées
+en médecine, les huiles essentielles et plantes médicinales, les matières
+premières à usage pharmaceutique ;
 
 2° Les produits contraceptifs et contragestifs ;
 
@@ -52,6 +52,10 @@ véhicules dans les cas prévus à l'article L. 3114-1 ;
 16° Les micro-organismes et toxines mentionnés à l'article L. 5139-1 ;
 
 17° Les produits de tatouage.
+
+L'agence participe à l'application des lois et règlements relatifs aux
+recherches biomédicales et prend, dans les cas prévus par des dispositions
+particulières, des décisions relatives aux recherches biomédicales.
 
 L'agence procède à l'évaluation des bénéfices et des risques liés à
 l'utilisation de ces produits et objets à tout moment opportun et notamment
