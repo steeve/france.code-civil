@@ -34,6 +34,13 @@ quatre semaines après la date de celui-ci.
 Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième
 semaine suivant l'accouchement, la salariée peut reporter à la date de la fin de
 l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
+Lorsque l'accouchement intervient plus de six semaines avant la date prévue et
+exige l'hospitalisation postnatale de l'enfant, la période de suspension du
+contrat de travail prévue aux alinéas précédents est prolongée du nombre de
+jours courant entre la date effective de la naissance et la date prévue, afin de
+permettre à la salariée de participer, chaque fois que possible, aux soins
+dispensés à son enfant et de bénéficier d'actions d'éducation à la santé
+préparant le retour à domicile.
 
 Tout salarié à qui un service départemental d'aide sociale à l'enfance ou un
 organisme autorisé pour l'adoption confie un enfant en vue de son adoption a le

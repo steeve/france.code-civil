@@ -7,7 +7,7 @@ effective et l'organisation du temps de travail, notamment la mise en place du
 travail à temps partiel à la demande des salariés. Cette négociation est
 l'occasion d'un examen par les parties de l'évolution de l'emploi dans
 l'entreprise, et notamment du nombre de salariés dont les gains et rémunérations
-sont, en application de l'article L. 241-6-1 du code de la sécurité sociale,
+sont, en application de l'article L. 241-6-1 (1) du code de la sécurité sociale,
 exonérés totalement ou partiellement des cotisations d'allocations familiales,
 du nombre des contrats de travail à durée déterminée, des missions de travail
 temporaire, du nombre des journées de travail effectuées par les intéressés
@@ -68,3 +68,26 @@ premier alinéa du présent article.
 Dans les entreprises visées au 3° de l'article L. 722-1 du code rural, la
 négociation prévue aux deux alinéas précédents porte sur l'accès aux garanties
 collectives mentionnées à l'article L. 911-2 du code de la sécurité sociale.
+
+Dans les entreprises mentionnées au premier alinéa, l'employeur est également
+tenu d'engager, chaque année, une négociation sur les mesures relatives à
+l'insertion professionnelle et au maintien dans l'emploi des travailleurs
+handicapés. La négociation porte notamment sur les conditions d'accès à
+l'emploi, à la formation et à la promotion professionnelles, les conditions de
+travail et d'emploi ainsi que les actions de sensibilisation au handicap de
+l'ensemble du personnel de l'entreprise.
+
+La négociation sur l'insertion professionnelle et le maintien dans l'emploi des
+travailleurs handicapés se déroule sur la base d'un rapport établi par
+l'employeur présentant la situation par rapport à l'obligation d'emploi des
+travailleurs handicapés prévue par la section 1 du chapitre III du titre II du
+livre III.
+
+A défaut d'une initiative de l'employeur depuis plus de douze mois suivant la
+précédente négociation, la négociation s'engage obligatoirement à la demande
+d'une organisation syndicale représentative dans le délai fixé à l'article L.
+132-28 ; la demande de négociation formulée par l'organisation syndicale est
+transmise dans les huit jours par l'employeur aux autres organisations
+représentatives. Lorsqu'un accord collectif comportant de telles mesures est
+signé dans l'entreprise, la périodicité de la négociation est portée à trois
+ans.

@@ -31,10 +31,11 @@ rémunérations dans les entreprises publiques ;
 principe à travail égal salaire égal, du principe de l'égalité professionnelle
 entre les hommes et les femmes et du principe d'égalité de traitement entre les
 salariés sans considération d'appartenance à une ethnie, une nation ou une race,
-de constater les inégalités éventuellement persistantes et d'en analyser les
-causes ; la commission nationale a qualité pour faire au ministre chargé du
-travail toute proposition pour promouvoir dans les faits et dans les textes ces
-principes d'égalité ;
+ainsi que des mesures prises en faveur du droit au travail des personnes
+handicapées, de constater les inégalités éventuellement persistantes et d'en
+analyser les causes ; la commission nationale a qualité pour faire au ministre
+chargé du travail toute proposition pour promouvoir dans les faits et dans les
+textes ces principes d'égalité ;
 
 9° De suivre annuellement l'évolution du taux d'activité des personnes de plus
 de cinquante ans afin de faire au ministre chargé du travail toute proposition

@@ -10,11 +10,12 @@ pour l'ensemble des rémunérations versées, d'un plafond de rémunération fix
 décret ;
 
 b) Des personnes ayant à charge un enfant ouvrant droit au complément de
-l'allocation d'éducation spéciale mentionné à l'article L. 541-1 ;
+l'allocation d'éducation de l'enfant handicapé mentionné à l'article L. 541-1 ;
 
 c) Des personnes titulaires :
 
-- soit de l'allocation compensatrice pour tierce personne ;
+- soit de l'élément de la prestation de compensation mentionnée au 1° de
+l'article L. 245-3 du code de l'action sociale et des familles ;
 
 - soit d'une majoration pour tierce personne servie au titre de l'assurance
 invalidité, de la législation des accidents du travail ou d'un régime spécial de

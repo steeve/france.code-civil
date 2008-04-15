@@ -62,6 +62,9 @@ préjudice corporel ayant entraîné pour la victime une incapacité permanente
 totale l'obligeant à avoir recours à l'assistance d'une tierce personne pour
 effectuer les actes ordinaires de la vie ;
 
+9° ter La prestation de compensation servie en vertu des dispositions de
+l'article L. 245-1 du code de l'action sociale et des familles ;
+
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er
 de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942
@@ -229,7 +232,7 @@ français du commerce, de pêche ou de plaisance.
 l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de
 l'amiante en application de l'article 53 de la loi de financement de la sécurité
 sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice
-(1) ;
+;
 
 34° abrogé
 
@@ -239,4 +242,4 @@ travail.
 36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er
 janvier de l'année d'imposition en rémunération d'une activité exercée pendant
 leurs congés scolaires ou universitaires, dans la limite de deux fois le montant
-mensuel du salaire minimum de croissance (2).
+mensuel du salaire minimum de croissance.

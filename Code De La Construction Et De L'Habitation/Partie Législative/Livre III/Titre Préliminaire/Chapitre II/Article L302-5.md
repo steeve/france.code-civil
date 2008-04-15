@@ -46,7 +46,10 @@ définies au 5° de l'article L. 351-2 ainsi que les places des centres
 d'hébergement et de réinsertion sociale visées à l'article 185 du code de la
 famille et de l'aide sociale. Les lits des logements-foyers et les places des
 centres d'hébergement et de réinsertion sociale sont pris en compte dans des
-conditions fixées par décret.
+conditions fixées par décret. Dans les foyers d'hébergement et les foyers de vie
+destinés aux personnes handicapées mentales, les chambres occupées par ces
+personnes sont comptabilisées comme autant de logements locatifs sociaux dès
+lors qu'elles disposent d'un élément de vie indépendante défini par décret.
 
 Les résidences principales retenues pour l'application du présent article sont
 celles qui figurent au rôle établi pour la perception de la taxe d'habitation.

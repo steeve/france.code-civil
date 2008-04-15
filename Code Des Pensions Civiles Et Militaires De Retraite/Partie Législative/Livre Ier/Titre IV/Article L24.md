@@ -31,7 +31,17 @@ III dudit article ;
 4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une
 maladie incurable le plaçant dans l'impossibilité d'exercer une quelconque
 profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
-fonctionnaire ait accompli au moins quinze ans de services.
+fonctionnaire ait accompli au moins quinze ans de services ;
+
+5° La condition d'âge de soixante ans figurant au l° est abaissée dans des
+conditions fixées par décret pour les fonctionnaires handicapés qui totalisent,
+alors qu'ils étaient atteints d'une incapacité permanente d'au moins 80 %, une
+durée d'assurance au moins égale à une limite fixée par décret, tout ou partie
+de cette durée ayant donné lieu à versement de retenues pour pensions.
+
+Les fonctionnaires visés à l'alinéa précédent bénéficient d'une pension calculée
+sur la base du nombre de trimestres nécessaires pour obtenir le pourcentage
+maximum mentionné au deuxième alinéa du I de l'article L. 13.
 
 II. - La liquidation de la pension militaire intervient :
 

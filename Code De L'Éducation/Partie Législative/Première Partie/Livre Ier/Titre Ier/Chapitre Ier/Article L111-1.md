@@ -15,7 +15,8 @@ matière économique et sociale.
 Elle a pour but de renforcer l'encadrement des élèves dans les écoles et
 établissements d'enseignement situés dans des zones d'environnement social
 défavorisé et des zones d'habitat dispersé, et de permettre de façon générale
-aux élèves en difficulté de bénéficier d'actions de soutien individualisé.
+aux élèves en difficulté, quelle qu'en soit l'origine, en particulier de santé,
+de bénéficier d'actions de soutien individualisé.
 
 L'acquisition d'une culture générale et d'une qualification reconnue est assurée
 à tous les jeunes, quelle que soit leur origine sociale, culturelle ou
