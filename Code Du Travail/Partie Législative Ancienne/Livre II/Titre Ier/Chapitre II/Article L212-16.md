@@ -3,9 +3,8 @@ Article L212-16
 Une journée de solidarité est instituée en vue d'assurer le financement des
 actions en faveur de l'autonomie des personnes âgées ou handicapées. Elle prend
 la forme d'une journée supplémentaire de travail non rémunéré pour les salariés
-et de la contribution prévue au 1° de l'article 11 de la loi n° 2004-626 du 30
-juin 2004 relative à la solidarité pour l'autonomie des personnes âgées et des
-personnes handicapées pour les employeurs.
+et de la contribution prévue au 1° de l'article L. 14-10-4 du code de l'action
+sociale et des familles pour les employeurs.
 
 Une convention, un accord de branche ou une convention ou un accord d'entreprise
 détermine la date de la journée de solidarité. Cet accord peut prévoir soit le
