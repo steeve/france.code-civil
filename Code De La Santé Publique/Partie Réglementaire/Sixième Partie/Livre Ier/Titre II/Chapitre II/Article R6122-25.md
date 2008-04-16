@@ -12,9 +12,9 @@ l'hospitalisation, énumérées ci-après :
 
 4° Psychiatrie ;
 
-5° Soins de suite ;
+5° Soins de suite et de réadaptation ;
 
-6° Rééducation et réadaptation fonctionnelles ;
+6° (Abrogé) ;
 
 7° Soins de longue durée ;
 

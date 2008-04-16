@@ -12,7 +12,7 @@ Le paiement des actes ne peut excéder en moyenne :
 
 -quatre actes par semaine, au-delà de cette durée ;
 
-2° En soins de suite :
+2° En soins de suite et de réadaptation :
 
 -trois actes par semaine ;
 

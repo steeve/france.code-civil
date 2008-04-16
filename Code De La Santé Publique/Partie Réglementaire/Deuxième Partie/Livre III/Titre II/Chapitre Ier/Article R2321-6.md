@@ -1,10 +1,13 @@
 Article R2321-6
 ----
-La délivrance de l'autorisation d'ouverture d'une maison d'enfants à caractère
-sanitaire est subordonnée :
+Ne peuvent être agréés comme directeur de maisons d'enfant à caractère sanitaire
+que les postulants réunissant les conditions ci-après :
 
-1° A l'agrément des locaux et des installations qui intervient dans les
-conditions prévues à l'article R. 2321-8 ;
+1° Posséder une formation générale du niveau minimum du brevet des collèges ;
 
-2° A l'agrément du directeur, délivré dans les conditions prévues à l'article R.
-2321-16.
+2° Avoir effectué deux années d'études médicales, para-médicales, sociales, de
+formation pédagogique ou d'économat ;
+
+3° Avoir pendant deux ans au moins exercé des fonctions dans un établissement
+d'enfants, ou des activités comparables définies par arrêté du ministre chargé
+de la santé.

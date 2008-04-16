@@ -4,7 +4,7 @@ La commission médicale d'établissement comprend, outre les membres mentionnés
 l'article R. 6144-8, cinq présidents de comités consultatifs médicaux, élus par
 l'ensemble des présidents de ces comités, dont un président de comité
 consultatif médical d'un hôpital ou d'un groupe hospitalier de soins de suite et
-de soins de longue durée.
+de réadaptation et de soins de longue durée.
 
 Le président de la commission médicale d'établissement est élu dans les
 conditions définies au deuxième alinéa de l'article R. 6144-19. Son

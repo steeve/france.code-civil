@@ -1,21 +1,16 @@
 Article R2321-4
 ----
-Toute personne physique ou morale, publique ou privée, qui se propose d'ouvrir
-une maison d'enfants à caractère sanitaire doit préalablement en demander
-l'autorisation au préfet du siège de l'établissement.
+L'agrément du directeur est prononcé par le préfet, préalablement à toute prise
+de fonctions.
 
-Lorsque l'établissement doit être exploité par un particulier, la demande est
-formulée par celui-ci avec justification de sa qualité de propriétaire ou
-locataire.
+Cet agrément ne peut intervenir que s'il ressort du dossier constitué et
+instruit suivant les dispositions des articles R. 2321-19 et R. 2321-20 qui
+suivent, ainsi que des enquêtes de moralité concernant le postulant et les
+personnes de son entourage appelées à résider dans l'établissement, que :
 
-La demande doit être accompagnée :
+1° Le postulant offre les garanties de moralité, de santé et de capacité
+professionnelle nécessaires pour assurer la garde et l'éducation d'enfants,
+ainsi que le bon fonctionnement d'un établissement ;
 
-1° Lorsqu'elle émane d'une collectivité privée : de la liste des membres du
-conseil d'administration et des statuts s'il s'agit d'une association ou d'une
-société commerciale ;
-
-2° Lorsqu'elle est formulée par un particulier : de l'indication des nom,
-prénoms, nationalité, profession et domicile du demandeur.
-
-Le préfet délivre récépissé de la demande et confie l'instruction du dossier au
-directeur départemental des affaires sanitaires et sociales.
+2° Les personnes de son entourage offrent toutes garanties de moralité et que
+leur état de santé n'est pas susceptible de faire courir un risque aux enfants.

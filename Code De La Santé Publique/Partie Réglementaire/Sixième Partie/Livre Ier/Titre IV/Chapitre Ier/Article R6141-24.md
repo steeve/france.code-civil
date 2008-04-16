@@ -2,8 +2,8 @@ Article R6141-24
 ----
 Les médecins libéraux qualifiés en médecine générale peuvent être autorisés, sur
 leur demande, à dispenser à l'hôpital local au titre de leur activité libérale
-des soins de courte durée en médecine et éventuellement des soins de suite ou de
-longue durée à condition qu'ils s'engagent à :
+des soins de courte durée en médecine et éventuellement des soins de suite et de
+réadaptation ou de longue durée à condition qu'ils s'engagent à :
 
 1° Respecter le projet d'établissement et le règlement intérieur ;
 

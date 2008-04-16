@@ -7,4 +7,4 @@ formule d'exeat sur la fiche individuelle du malade.
 
 Toutes dispositions sont prises, le cas échéant, et sur proposition médicale, en
 vue du transfert immédiat de l'hospitalisé dans un établissement dispensant des
-soins de suite ou de réadaptation ou des soins de longue durée adapté à son cas.
+soins de suite et de réadaptation ou des soins de longue durée adapté à son cas.

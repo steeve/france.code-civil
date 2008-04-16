@@ -1,6 +1,6 @@
 Article R6146-71
 ----
-Pour les activités de psychiatrie et de soins de suite ou de réadaptation,
+Pour les activités de psychiatrie et de soins de suite et de réadaptation,
 conformément au deuxième alinéa de l'article L. 6146-10, les honoraires dus aux
 médecins et sages-femmes sont perçus par l'intermédiaire du centre hospitalier
 qui est informé de leur montant soit par la mention portée sur la feuille de

@@ -1,6 +1,6 @@
 Article R6146-72
 ----
-Pour les activités de psychiatrie et de soins de suite ou réadaptation, les
+Pour les activités de psychiatrie et de soins de suite et de réadaptation, les
 tarifs de prestations applicables dans les structures d'hospitalisation régies
 par la présente section sont déterminés d'après les prix de revient
 prévisionnels calculés dans les conditions prévues aux articles R. 6145-21 et R.

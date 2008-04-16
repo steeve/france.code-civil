@@ -9,4 +9,5 @@ association avec un titulaire de l'autorisation :
 a) En appliquant des traitements de chimiothérapie prescrits par un titulaire de
 l'autorisation ou en réalisant le suivi de tels traitements ;
 
-b) En dispensant à ces patients des soins de suite ou des soins palliatifs.
+b) En dispensant à ces patients des soins de suite et de réadaptation ou des
+soins palliatifs.
