@@ -19,7 +19,8 @@ L. 523-1 et L. 523-7, alinéas 3 à 5 ;
 modalités visées à l'article L. 523-2-1 ;
 
 3° Dans tous les cas, le remboursement est opéré sans préjudice des intérêts dus
-sur ces parts et des ristournes qui peuvent revenir à l'intéressé ;
+sur ces parts, des dividendes dus aux porteurs de ces parts et des ristournes
+qui peuvent revenir à l'intéressé ;
 
 4° Le remboursement des parts annulées souscrites ou acquises dans le cadre de
 l'engagement prévu au a de l'article L. 521-3, doit être compensé par la

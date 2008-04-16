@@ -23,3 +23,8 @@ qu'il estime utiles à l'accomplissement de sa mission.
 
 Une fois par trimestre, au moins, le directoire présente un rapport au conseil
 de surveillance.
+
+Les copies ou extraits des procès-verbaux des délibérations du directoire ou des
+procès-verbaux des assemblées générales sont valablement certifiés par le
+président ou le vice-président du conseil de surveillance ou par un membre du
+directoire.

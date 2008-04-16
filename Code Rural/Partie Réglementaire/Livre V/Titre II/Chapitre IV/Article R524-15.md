@@ -27,9 +27,9 @@ représentés.
 Les moyens de visioconférence ou de télécommunication mentionnés à l'article L.
 524-1-1, transmettant la voix et l'image ou tout le moins la voix des
 participants, satisfont à des caractéristiques techniques garantissant une
-participation effective à la réunion du conseil, dont les délibérations sont
-retransmises de façon continue et simultanée. Les statuts peuvent prévoir la
-possibilité de voter par des moyens électroniques de télécommunication dans les
-conditions prévues à l'article R. 225-61 du code de commerce. Les règles posées
-ci-dessus s'appliquent à toutes les assemblées générales, qu'elles soient ou non
-précédées d'assemblées de section.
+participation effective à la réunion de l'assemblée générale, dont les
+délibérations sont retransmises de façon continue et simultanée. Les statuts
+peuvent prévoir la possibilité de voter par des moyens électroniques de
+télécommunication dans les conditions prévues à l'article R. 225-61 du code de
+commerce. Les règles posées ci-dessus s'appliquent à toutes les assemblées
+générales, qu'elles soient ou non précédées d'assemblées de section.

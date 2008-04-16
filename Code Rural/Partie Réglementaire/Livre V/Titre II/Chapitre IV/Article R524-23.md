@@ -2,8 +2,8 @@ Article R524-23
 ----
 Les conditions de constitution, de fonctionnement et d'administration des unions
 de coopératives sont les mêmes que celles prévues par les articles R. 521-6 à R.
-521-15, R. 522-1 à R. 522-4 et R. 522-6 à R. 522-8, R. 523-1 à R. 523-10 et R.
-524-1 à R. 524-22-1 pour les sociétés coopératives agricoles.
+521-15, R. 522-1 à R. 522-4 et R. 522-6 à R. 522-8, R. 523-1 à R. 523-9 et R.
+524-1 à R. 524-21 pour les sociétés coopératives agricoles.
 
 Les coopératives agricoles, ou leurs unions, associés coopérateurs, d'une union
 sont représentées à l'assemblée générale de cette dernière par une personne

@@ -6,8 +6,8 @@ l'assemblée générale du haut conseil.
 
 Sont grands électeurs et éligibles les personnes physiques répondant aux
 conditions fixées aux articles R. 524-1, R. 524-9, R. 524-28, R. 524-29, R.
-524-36, R. 524-37 et R. 524-40 dont la coopérative ou l'union qu'ils
-représentent est à jour de sa cotisation annuelle au Haut Conseil de la
+524-36 et R. 524-37 dont la société coopérative agricole ou l'union qu'ils
+représentent est à jour de sa cotisation annuelle au haut conseil de la
 coopération agricole.
 
 Les grands électeurs sont désignés par les fédérations régionales, les unions et
