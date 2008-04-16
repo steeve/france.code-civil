@@ -1,11 +1,10 @@
 Article D6124-478
 ----
 Dans les maisons de santé chirurgicale, les maisons de santé médicale, les
-maisons de repos et de convalescence, les maisons de réadaptation fonctionnelle,
-les chambres des personnes hospitalisées ne doivent pas contenir plus de six
-lits. Ceux-ci sont accessibles de trois côtés et l'écart entre deux lits n'est
-pas inférieur à un mètre. A la portée de chaque lit, un moyen d'appel permet à
-la personne hospitalisée d'alerter le personnel de service.
+chambres des personnes hospitalisées ne doivent pas contenir plus de six lits.
+Ceux-ci sont accessibles de trois côtés et l'écart entre deux lits n'est pas
+inférieur à un mètre. A la portée de chaque lit, un moyen d'appel permet à la
+personne hospitalisée d'alerter le personnel de service.
 
 Les dimensions des pièces sont telles qu'il y ait au minimum :
 

@@ -6,9 +6,10 @@ famille.
 
 Une piscine est un établissement ou une partie d'établissement qui comporte un
 ou plusieurs bassins artificiels utilisés pour les activités de bain ou de
-natation. Les piscines thermales et les piscines des centres de réadaptation
-fonctionnelle, d'usage exclusivement médical, ne sont pas soumises aux
-dispositions de la présente section.
+natation. Les piscines thermales et les piscines des établissements de santé
+autorisés à dispenser des soins de suite et de réadaptation, d'usage
+exclusivement médical, ne sont pas soumises aux dispositions de la présente
+section.
 
 Une baignade aménagée comprend, d'une part, une ou plusieurs zones d'eau douce
 ou d'eau de mer dans lesquelles les activités de bain ou de natation sont

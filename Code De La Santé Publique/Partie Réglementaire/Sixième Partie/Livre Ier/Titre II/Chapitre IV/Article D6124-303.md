@@ -14,10 +14,10 @@ dans la structure, la présence minimale permanente :
 
 1° D'un médecin qualifié ;
 
-2° D'un infirmier ou d'une infirmière ou, pour la réadaptation fonctionnelle,
-d'un masseur-kinésithérapeute, quelle que soit la capacité autorisée de la
-structure, et à tout le moins d'un infirmier ou d'une infirmière ou, le cas
-échéant, d'un masseur-kinésithérapeute pour cinq patients présents ;
+2° D'un infirmier ou d'une infirmière ou, pour les soins de suite et de
+réadaptation, d'un masseur-kinésithérapeute, quelle que soit la capacité
+autorisée de la structure, et à tout le moins d'un infirmier ou d'une infirmière
+ou, le cas échéant, d'un masseur-kinésithérapeute pour cinq patients présents ;
 
 3° En sus des personnels mentionnés aux 1° et 2°, d'un médecin anesthésiste
 réanimateur si la structure pratique l'anesthésie ou la chirurgie ambulatoire et
