@@ -7,14 +7,11 @@ Si le déposant est une personne morale, la demande de réduction doit, à peine
 d'irrecevabilité, être présentée par écrit au directeur général de l'Institut
 national de la propriété industrielle dans le délai d'un mois à compter du dépôt
 de la demande de brevet. En outre, le déposant doit, dans le même délai,
-produire une déclaration attestant qu'il appartient à la catégorie des petites
-ou moyennes entreprises ou à celle des organismes à but non lucratif dans le
-domaine de l'enseignement ou de la recherche.
-
-Pour l'application de l'alinéa précédent, une petite ou moyenne entreprise
-s'entend d'une entreprise dont le nombre de salariés est inférieur à 250, le
-chiffre d'affaires inférieur à 50 millions d'euros et dont 25 % au plus du
-capital est détenu par une autre entité ne remplissant pas les mêmes conditions.
+produire une déclaration attestant qu'il appartient à la catégorie des
+organismes à but non lucratif dans le domaine de l'enseignement ou de la
+recherche ou à celles des entreprises dont le nombre de salariés est inférieur à
+1 000 et dont 25 % au plus du capital est détenu par une autre entité ne
+remplissant pas la même condition.
 
 Une fois obtenu, le bénéfice de la réduction est définitivement acquis et
 s'applique à l'ensemble des redevances de procédures et de maintien en vigueur à
