@@ -1,8 +1,8 @@
 Article D1271-5
 ----
 Le contenu du volet social de la déclaration du chèque emploi-service universel
-est fixé par l'article D. 133-18 du code de la sécurité sociale ci-après
-reproduit : Art. D. 133-18.-Le volet social du chèque emploi-service universel
+est fixé par l'article D. 133-19 du code de la sécurité sociale ci-après
+reproduit : Art. D. 133-19.-Le volet social du chèque emploi-service universel
 prévu à l'article L. 133-8 comporte les mentions suivantes : 1° Mentions
 relatives à l'employeur : a) Nom, prénom et adresse ; b) Références bancaires ;
 2° Mentions relatives au salarié : a) Nom, nom d'époux et prénom ; b) Numéro
