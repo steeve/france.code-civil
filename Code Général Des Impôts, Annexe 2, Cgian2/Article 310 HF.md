@@ -8,8 +8,9 @@ dans les bases d'imposition de l'exploitant s'entendent de ceux dont la
 création, la gestion et la cession sont réglementées par les articles L. 522-1 à
 L. 522-40 du code de commerce ;
 
-2° Le prix de revient des immobilisations est celui qui doit être retenu pour le
-calcul des amortissements ;
+2° Le prix de revient des immobilisations est celui qui correspond à leur valeur
+d'origine, évaluée selon les règles applicables en matière de bénéfices
+industriels et commerciaux ;
 
 3° La valeur locative des biens faisant l'objet d'un contrat de crédit-bail
 mobilier est déterminée d'après leur prix de revient stipulé dans l'acte ;
