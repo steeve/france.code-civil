@@ -1,7 +1,7 @@
 Article R1614-26
 ----
-Des conventions passées entre l'Etat et la commune ou le département peuvent
-prévoir :
+Des conventions passées entre l'Etat et la collectivité territoriale ou le
+groupement de collectivités territoriales peuvent prévoir :
 
 1° La transmission de supports informatiques conformes aux spécifications des
 systèmes d'information nationaux en remplacement des documents normalisés ;
