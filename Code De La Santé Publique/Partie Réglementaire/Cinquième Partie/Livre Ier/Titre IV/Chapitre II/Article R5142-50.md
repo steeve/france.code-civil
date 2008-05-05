@@ -7,7 +7,7 @@ sortie, au moins les informations suivantes :
 
 1° La date de la transaction ;
 
-2° La dénomination du médicament vétérinaire ;
+2° Le nom du médicament vétérinaire ;
 
 3° Le numéro du lot de fabrication et la date de péremption ;
 
@@ -18,6 +18,10 @@ sortie, au moins les informations suivantes :
 Ces informations peuvent être enregistrées par tout système approprié permettant
 une édition immédiate à la demande des autorités de contrôle et n'autorisant
 aucune modification des données après validation de leur enregistrement.
+
+L'établissement pharmaceutique mentionné au premier alinéa, au moins une fois
+par an, compare la liste des médicaments entrés et sortis avec les médicaments
+en stock, toute divergence devant être consignée dans un rapport.
 
 Les informations conservées ou enregistrées sont tenues pendant cinq ans à la
 disposition de l'inspection compétente et de l'Agence française de sécurité

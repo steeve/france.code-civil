@@ -4,5 +4,5 @@ Le directeur général de l'Agence française de sécurité sanitaire des alimen
 peut requérir du demandeur toute information complémentaire nécessaire à
 l'instruction de la demande.
 
-Les délais prévus aux articles R. 5142-8 à R. 5142-10 sont en ce cas prorogés de
-trente jours.
+Les délais prévus aux articles R. 5142-8 à R. 5142-10 sont, en ce cas, suspendus
+jusqu'à ce que les données complémentaires requises aient été fournies.

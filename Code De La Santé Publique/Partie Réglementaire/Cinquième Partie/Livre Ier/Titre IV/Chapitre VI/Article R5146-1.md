@@ -10,3 +10,10 @@ contrôle mentionnés à l'article L. 5146-1.
 Il peut également, à cette même fin, faire intervenir directement ceux des
 agents mentionnés à l'article L. 5146-1 qui exercent leurs fonctions au sein de
 l'agence.
+
+Sous réserve des accords éventuels conclus entre la Communauté européenne et un
+pays tiers, le directeur général de l'Agence française de sécurité sanitaire des
+aliments peut demander à un fabricant de médicaments vétérinaires établi dans un
+pays tiers de se soumettre à une inspection diligentée par les inspecteurs de
+l'Agence française de sécurité sanitaire des aliments si le médicament
+vétérinaire qu'il fabrique est destiné à être importé en France.

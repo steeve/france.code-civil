@@ -1,19 +1,19 @@
 Article R5141-112
 ----
-I. - Lors de la délivrance des médicaments vétérinaires prescrits conformément
-aux dispositions de l'article R. 5141-111, le pharmacien ou le vétérinaire
-transcrit aussitôt à la suite, à l'encre, sans blanc ni surcharge, cette
-délivrance sur un registre ou l'enregistre par tout système approprié ne
-permettant aucune modification des données qu'il contient après validation de
-leur enregistrement. Les systèmes d'enregistrement permettent une édition
-immédiate à la demande de toute autorité de contrôle des mentions prévues au
-présent article, chaque page éditée devant comporter le nom et l'adresse de
-l'officine ou du domicile professionnel d'exercice vétérinaire. Les données
-qu'ils contiennent doivent figurer sur un support garantissant leur pérennité et
-leur intégrité. Elles doivent en outre être dupliquées sur deux supports
-distincts, le premier servant à la consultation habituelle, le second étant
-gardé en réserve. Les données archivées doivent pouvoir être accessibles,
-consultées et exploitées pendant la durée de leur conservation.
+I.-Lors de la délivrance des médicaments vétérinaires prescrits conformément aux
+dispositions de l'article R. 5141-111, le pharmacien ou le vétérinaire transcrit
+aussitôt à la suite, à l'encre, sans blanc ni surcharge, cette délivrance sur un
+registre ou l'enregistre par tout système approprié ne permettant aucune
+modification des données qu'il contient après validation de leur enregistrement.
+Les systèmes d'enregistrement permettent une édition immédiate à la demande de
+toute autorité de contrôle des mentions prévues au présent article, chaque page
+éditée devant comporter le nom et l'adresse de l'officine ou du domicile
+professionnel d'exercice vétérinaire. Les données qu'ils contiennent doivent
+figurer sur un support garantissant leur pérennité et leur intégrité. Elles
+doivent en outre être dupliquées sur deux supports distincts, le premier servant
+à la consultation habituelle, le second étant gardé en réserve. Les données
+archivées doivent pouvoir être accessibles, consultées et exploitées pendant la
+durée de leur conservation.
 
 Les transcriptions ou les enregistrements comportent pour chaque médicament les
 mentions suivantes :
@@ -21,9 +21,9 @@ mentions suivantes :
 1° Un numéro d'ordre ;
 
 2° Les nom, prénom ou raison sociale et adresse du détenteur des animaux, ou la
-mention "usage professionnel" ;
+mention " usage professionnel " ;
 
-3° La dénomination ou la formule du médicament ;
+3° Le nom ou la formule du médicament ;
 
 4° La quantité délivrée ;
 
@@ -33,7 +33,7 @@ mention "usage professionnel" ;
 
 7° Le numéro de lot de fabrication des médicaments ;
 
-8° La mention : "médicaments remis par..." avec indication de l'intermédiaire
+8° La mention : " médicaments remis par... " avec indication de l'intermédiaire
 qui remet les médicaments dans les conditions du II du présent article,
 lorsqu'il s'agit de médicaments autres que des aliments médicamenteux.
 
@@ -42,6 +42,10 @@ mentions si les ordonnances qu'il rédige sur des feuillets provenant de carnets
 à souche ou qu'il destine à une édition informatique sont numérotées. Il est
 tenu de conserver les duplicatas de ces ordonnances dans les mêmes conditions
 que le registre ou l'enregistrement susmentionné.
+
+Le pharmacien ou le vétérinaire, au moins une fois par an, compare la liste des
+médicaments entrés et sortis avec celle des médicaments en stock, toute
+divergence devant être consignée dans un rapport.
 
 Les registres ou les enregistrements informatisés sont conservés pendant une
 durée de dix ans et sont tenus à la disposition des autorités de contrôle
@@ -53,13 +57,13 @@ demande.
 Le pharmacien ou le vétérinaire reporte immédiatement sur l'ordonnance remise au
 détenteur des animaux, la date de délivrance, le numéro d'ordre sous lequel la
 délivrance a été transcrite ou enregistrée, ainsi que la quantité délivrée et,
-le cas échéant, la mention "médicaments remis par..." avec indication de
+le cas échéant, la mention " médicaments remis par... " avec indication de
 l'intermédiaire qui remet ces médicaments dans les conditions du II du présent
 article, s'il s'agit de médicaments autres que des aliments médicamenteux, et
 accompagne ces mentions de ses nom et adresse. Le vétérinaire, lorsqu'il
 effectue la délivrance, indique, sur le duplicata de l'ordonnance qu'il
 conserve, la date de délivrance, la quantité délivrée, le numéro de lot des
-médicaments et, le cas échéant, la mention "médicaments remis par..." avec
+médicaments et, le cas échéant, la mention " médicaments remis par... " avec
 indication de l'intermédiaire qui remet ces médicaments dans les conditions du
 II du présent article, s'il s'agit de médicaments autres que des aliments
 médicamenteux.
@@ -67,7 +71,7 @@ médicamenteux.
 Les indications mentionnées à l'alinéa précédent sont reportées sur l'ordonnance
 en cas de renouvellement.
 
-II. - Les médicaments vétérinaires sont délivrés au détail par une personne
+II.-Les médicaments vétérinaires sont délivrés au détail par une personne
 mentionnée à l'article L. 5143-2, dans le respect de l'article L. 5143-9 ou dans
 les conditions prévues à l'article L. 5143-8, à l'officine pour les pharmaciens,
 au domicile professionnel d'exercice ou au lieu de détention des animaux pour

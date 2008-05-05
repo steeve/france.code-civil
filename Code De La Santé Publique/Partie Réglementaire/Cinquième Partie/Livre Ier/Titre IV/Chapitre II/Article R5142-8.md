@@ -14,3 +14,8 @@ jours à compter de la date de réception de la demande complète.
 Pour les autres établissements, le silence gardé par le directeur général vaut
 autorisation tacite à l'expiration d'un délai de quatre-vingt-dix jours à
 compter de la date de réception de la demande complète.
+
+Pour les établissements autorisés à exercer les activités définies au 1° et au
+2° de l'article R. 5142-1, le directeur général de l'Agence française de
+sécurité sanitaire des aliments transmet une copie de l'autorisation à l'Agence
+européenne des médicaments.

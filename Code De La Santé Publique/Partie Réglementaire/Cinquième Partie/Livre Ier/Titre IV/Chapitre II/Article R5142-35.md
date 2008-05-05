@@ -7,9 +7,9 @@ exerce :
 
 1° Il organise et surveille l'ensemble des opérations pharmaceutiques de
 l'entreprise, et notamment la fabrication, la publicité, l'information, la
-pharmacovigilance, le suivi et le retrait des lots, la distribution,
-l'importation et l'exportation des médicaments vétérinaires ainsi que les
-opérations de stockage correspondantes ;
+pharmacovigilance, la libération, le suivi et le retrait des lots, la
+distribution, l'importation et l'exportation des médicaments vétérinaires ainsi
+que les opérations de stockage correspondantes ;
 
 2° Il veille à ce que les conditions de transport garantissent la bonne
 conservation, l'intégrité et la sécurité de ces médicaments vétérinaires ;

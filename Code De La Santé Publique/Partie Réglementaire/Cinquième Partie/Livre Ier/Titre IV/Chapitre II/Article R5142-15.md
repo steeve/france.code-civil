@@ -14,3 +14,7 @@ général de l'Agence française de sécurité sanitaire des aliments.
 La décision ne peut faire l'objet d'un recours contentieux qu'après l'exercice
 d'un recours gracieux auprès du directeur général de l'Agence française de
 sécurité sanitaire des aliments.
+
+Lorsque la décision concerne un établissement dont la copie de l'autorisation
+d'ouverture a été transmise à l'Agence européenne des médicaments, elle est
+notifiée à cette agence.
