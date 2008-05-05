@@ -5,7 +5,7 @@ la littérature publiée et reconnue dans la tradition de la médecine
 homéopathique pratiquée en France, des experts justifient, sur la base de la
 documentation fournie :
 
-1° Le caractère homéopathique des souches utilisées et leur utilisation
+1° L'usage homéopathique des souches utilisées et leur utilisation
 traditionnelle dans l'indication revendiquée ;
 
 2° L'innocuité du médicament homéopathique, notamment au regard du degré de

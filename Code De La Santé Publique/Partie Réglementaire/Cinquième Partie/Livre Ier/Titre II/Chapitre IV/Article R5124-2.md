@@ -34,7 +34,7 @@ l'Espace économique européen ;
 b) Ou d'autres Etats membres de la Communauté européenne ou parties à l'accord
 sur l'Espace économique européen lorsque les médicaments, produits ou objets ont
 été fabriqués par un établissement non autorisé au titre l'article 40 de la
-directive 2001/83 du 6 novembre 2001 instituant un code communautaire relatif
+directive 2001 / 83 du 6 novembre 2001 instituant un code communautaire relatif
 aux médicaments à usage humain.
 
 Pour les objets de pansement et articles présentés comme conformes à la
@@ -58,18 +58,18 @@ stockage correspondantes.
 
 L'exploitation est assurée soit par le titulaire de l'autorisation de mise sur
 le marché mentionnée à l'article L. 5121-8, de l'autorisation temporaire
-d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'enregistrement
-mentionné à l'article L. 5121-13, soit, pour le compte de ce titulaire, par une
-autre entreprise ou un autre organisme, soit par l'un et l'autre, chacun
-assurant dans ce cas une ou plusieurs catégories d'opérations constitutives de
-l'exploitation du médicament ou produit ;
+d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'un des
+enregistrements mentionnés aux articles L. 5121-13 et L. 5121-14-1, soit, pour
+le compte de ce titulaire, par une autre entreprise ou un autre organisme, soit
+par l'un et l'autre, chacun assurant dans ce cas une ou plusieurs catégories
+d'opérations constitutives de l'exploitation du médicament ou produit ;
 
 4° Dépositaire, l'entreprise se livrant, d'ordre et pour le compte :
 
-- d'un ou plusieurs exploitants de médicaments, de générateurs, trousses ou
+-d'un ou plusieurs exploitants de médicaments, de générateurs, trousses ou
 précurseurs mentionnés au 3° de l'article L. 4211-1 ;
 
-- ou d'un ou plusieurs fabricants ou importateurs d'objets de pansement ou
+-ou d'un ou plusieurs fabricants ou importateurs d'objets de pansement ou
 articles présentés comme conformes à la Pharmacopée mentionnés au 2° de
 l'article L. 4211-1 ou de produits officinaux divisés mentionnés au 4° de
 l'article L. 5121-1, au stockage de ces médicaments, produits, objets ou

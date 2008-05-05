@@ -12,7 +12,8 @@ de l'autorisation temporaire d'utilisation ;
 3° Pour les médicaments homéopathiques mentionnés à l'article L. 5121-13, après
 l'enregistrement prévu par cet article ;
 
-4° Abrogé
+4° Pour les médicaments traditionnels à base de plantes, mentionnés à l'article
+L. 5121-14-1, après l'enregistrement prévu par cet article ;
 
 5° Pour les autres produits mentionnés à l'article L. 5121-1 après leur
 délivrance ;

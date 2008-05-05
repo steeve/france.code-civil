@@ -6,9 +6,11 @@ suivantes :
 
 1° Médicament homéopathique en caractères très apparents ;
 
-2° La dénomination commune usuelle de la ou des souches homéopathiques en se
-référant à la pharmacopée européenne ou, à défaut, française, lorsqu'elle y
-figure, suivie du degré de dilution ;
+2° La dénomination commune de la ou des souches homéopathiques en se référant à
+la pharmacopée européenne ou, à défaut, française, lorsqu'elle y figure, suivie
+du degré de dilution. Si le médicament homéopathique est composé de plusieurs
+souches, la dénomination commune des souches mentionnée dans l'étiquetage peut
+être complétée par un nom de fantaisie ;
 
 3° Les nom et adresse de l'exploitant du médicament et, si celui-ci ne fabrique
 pas le médicament, du fabricant ;
@@ -27,8 +29,8 @@ pas le médicament, du fabricant ;
 
 10° Le numéro du lot de fabrication ;
 
-11° Le numéro d'enregistrement, suivi de la mention : "Enregistrement sans
-indications thérapeutiques" ;
+11° Le numéro d'enregistrement, suivi de la mention : " Enregistrement sans
+indications thérapeutiques " ;
 
 12° Un avertissement conseillant à l'utilisateur de consulter un médecin si les
 symptômes persistent ;

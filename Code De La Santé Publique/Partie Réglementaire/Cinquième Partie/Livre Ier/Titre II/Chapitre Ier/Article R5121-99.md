@@ -1,37 +1,29 @@
 Article R5121-99
 ----
-Le dossier est en outre accompagné :
+L'enregistrement est valable pour une durée de cinq ans. Il est renouvelable, le
+cas échéant, sans limitation de durée, sauf si le directeur général de l'agence
+décide à l'occasion de ce renouvellement de procéder à un renouvellement
+supplémentaire pour des raisons justifiées ayant trait à la pharmacovigilance et
+sur la base d'une réévaluation de la qualité, de la sécurité ou de l'usage
+homéopathique du médicament pour les médicaments homéopathiques ou du rapport
+entre le bénéfice et les risques liés au médicament tel que défini au premier
+alinéa de l'article L. 5121-9 pour les médicaments traditionnels à base de
+plantes. Dans ce cas, le renouvellement supplémentaire intervient cinq ans après
+cette décision.
 
-1° Des données relatives à la composition quantitative et qualitative du ou des
-médicaments ;
+La demande de renouvellement est adressée au directeur général de l'agence au
+plus tard six mois avant la date d'expiration de l'enregistrement. Elle est
+accompagnée d'un dossier actualisé comportant des informations administratives
+et des données relatives à la qualité, à la sécurité et à l'usage homéopathique
+du médicament pour les médicaments homéopathiques ou à la qualité, à la sécurité
+et à l'efficacité du médicament pour les médicaments traditionnels à base de
+plantes, y compris toutes les modifications enregistrées depuis qu'il a été
+procédé à l'enregistrement initial ou au renouvellement antérieur. Le contenu du
+dossier de renouvellement est fixé par arrêté du ministre chargé de la santé
+pris sur proposition du directeur général de l'agence.
 
-2° D'un document décrivant l'obtention et le contrôle de la ou des souches en se
-référant aux monographies de la pharmacopée européenne ou, à défaut, de l'une
-des pharmacopées utilisées de façon officielle dans les Etats membres de la
-Communauté européenne ou parties à l'accord sur l'Espace économique européen, et
-mentionnant la dénomination scientifique de ces souches ;
-
-3° D'un document justifiant le caractère homéopathique de chaque souche et
-définissant le degré de dilution à partir duquel l'innocuité est garantie ;
-
-4° Pour chaque forme pharmaceutique, d'un document relatif à la fabrication et
-au contrôle du médicament, décrivant les méthodes de déconcentration utilisées
-et se référant aux monographies de la pharmacopée européenne ou, à défaut, de
-l'une des pharmacopées utilisées de façon officielle dans les Etats membres de
-la Communauté européenne ou parties à l'accord sur l'Espace économique européen
-;
-
-5° Des données concernant la stabilité du ou des médicaments ;
-
-6° S'il y a lieu, des données concernant les précautions particulières de
-conservation ;
-
-7° D'une copie de la ou des autorisations d'ouverture de l'établissement
-fabriquant ou important le produit ;
-
-8° D'une copie des enregistrements ou des autorisations éventuellement obtenues
-pour le ou les mêmes médicaments dans un autre Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen ;
-
-9° Du projet de conditionnement extérieur et de conditionnement primaire du ou
-des médicaments et, s'il y a lieu, du projet de notice.
+L'enregistrement n'est pas renouvelé si l'évaluation de la qualité, de la
+sécurité ou de l'usage homéopathique du médicament pour les médicaments
+homéopathiques ou le rapport entre le bénéfice et les risques liés au médicament
+pour les médicaments traditionnels à base de plantes, effectués par le directeur
+général de l'agence, n'est plus favorable.

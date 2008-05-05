@@ -8,12 +8,12 @@ répondre et qu'il a été procédé aux contrôles nécessaires.
 
 Les fabricants de médicaments ou produits faisant l'objet d'une autorisation de
 mise sur le marché mentionnée à l'article L. 5121-8, d'une autorisation
-temporaire d'utilisation mentionnée au a de l'article L. 5121-12 ou d'un
-enregistrement mentionné à l'article L. 5121-13 veillent à ce que les opérations
-de fabrication soient conduites dans le respect des données du dossier de cette
-autorisation ou de cet enregistrement acceptées par l'Agence française de
-sécurité sanitaire des produits de santé. Ils sont tenus de réévaluer et, si
-nécessaire, de modifier leurs méthodes de fabrication et de contrôle en fonction
-des progrès scientifiques et techniques. Le cas échéant, le fabricant avise le
-titulaire de l'autorisation ou de l'enregistrement et, s'il est distinct,
-l'exploitant du médicament ou du produit de ces modifications.
+temporaire d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'un des
+enregistrements mentionnés aux articles L. 5121-13 et L. 5121-14-1 veillent à ce
+que les opérations de fabrication soient conduites dans le respect des données
+du dossier de cette autorisation ou de cet enregistrement acceptées par l'Agence
+française de sécurité sanitaire des produits de santé. Ils sont tenus de
+réévaluer et, si nécessaire, de modifier leurs méthodes de fabrication et de
+contrôle en fonction des progrès scientifiques et techniques. Le cas échéant, le
+fabricant avise le titulaire de l'autorisation ou de l'enregistrement et, s'il
+est distinct, l'exploitant du médicament ou du produit de ces modifications.

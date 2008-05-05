@@ -29,4 +29,18 @@ conditionnement primaire ;
 des précautions d'emploi pour certaines catégories particulières de patients ;
 
 9° Notice, le document d'information accompagnant le médicament et destiné à
-l'utilisateur.
+l'utilisateur ;
+
+10° Substance végétale, l'ensemble des plantes, parties de plantes, algues,
+champignons, lichens, principalement entiers, fragmentés ou coupés, utilisés en
+l'état, desséchés ou frais, ainsi que certains exsudats n'ayant pas subi de
+traitements spécifiques ; les substances végétales sont précisément définies par
+la partie de la plante utilisée et la dénomination botanique selon le système à
+deux mots - genre, espèce, variété et auteur ;
+
+11° Préparation à base de plantes, les préparations obtenues par traitement de
+substances végétales, tel que l'extraction, la distillation, l'expression, le
+fractionnement, la purification, la concentration ou la fermentation ; elles
+comprennent les substances végétales concassées ou pulvérisées, les teintures,
+les extraits, les huiles essentielles, les jus obtenus par pression et les
+exsudats traités.
