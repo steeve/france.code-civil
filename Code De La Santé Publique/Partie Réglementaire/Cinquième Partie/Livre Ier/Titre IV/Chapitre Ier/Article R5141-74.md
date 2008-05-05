@@ -4,9 +4,9 @@ Les ampoules et autres petits conditionnements primaires sur lesquels il est
 impossible de mentionner l'ensemble des indications prévues à l'article R.
 5141-73 peuvent ne comporter que les mentions suivantes :
 
-1° La dénomination du médicament ;
+1° Le nom du médicament ;
 
-2° La quantité des principes actifs ;
+2° La composition quantitative en substances actives ;
 
 3° La voie d'administration ;
 
@@ -14,7 +14,7 @@ impossible de mentionner l'ensemble des indications prévues à l'article R.
 
 5° La date de péremption ;
 
-6° La mention "usage vétérinaire".
+6° La mention " usage vétérinaire ".
 
 Dans ce cas, le conditionnement extérieur comporte l'ensemble des mentions
 prévues à l'article R. 5141-73.

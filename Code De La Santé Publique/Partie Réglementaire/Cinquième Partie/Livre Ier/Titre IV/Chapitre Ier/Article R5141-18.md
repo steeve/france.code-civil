@@ -1,26 +1,44 @@
 Article R5141-18
 ----
-La documentation relative aux essais analytiques des médicaments vétérinaires
-comprend :
+Par dérogation au premier alinéa de l'article R. 5141-16, pour les médicaments
+vétérinaires mentionnés au présent article, le dossier joint à la demande
+d'autorisation de mise sur le marché est constitué dans les conditions suivantes
+:
 
-1° La composition qualitative et quantitative du médicament ;
+1° Lorsque le demandeur démontre, par référence à une documentation
+bibliographique appropriée, que la demande porte sur un médicament vétérinaire
+dont la ou les substances actives sont d'un usage vétérinaire bien établi depuis
+au moins dix ans en France ou dans la Communauté européenne, le dossier fourni à
+l'appui de la demande comporte, outre les données pharmaceutiques, la
+documentation bibliographique appropriée.
 
-2° La description de tous les constituants et du conditionnement primaire ;
+Celle-ci peut faire référence, notamment pour ce qui concerne les essais
+d'innocuité, au rapport d'évaluation publié par l'Agence européenne des
+médicaments lors d'une demande de fixation de limites maximales de résidus selon
+les dispositions du règlement (CEE) n° 2377 / 90 du 26 juin 1990.
 
-3° La description du mode et des conditions de fabrication du médicament ainsi
-que la formule de fabrication ;
+Lorsque le demandeur a recours à une documentation bibliographique appropriée
+pour un médicament destiné à une espèce productrice de denrées alimentaires et
+qu'il accompagne cette documentation, en vue d'obtenir une extension de
+l'autorisation de mise sur le marché à une autre espèce animale productrice de
+denrées alimentaires, de nouvelles études de résidus conformément au règlement
+(CEE) n° 2377 / 90 précité ainsi que de nouveaux essais cliniques, un autre
+demandeur ne peut se prévaloir de ces études ou essais dans le cadre d'une
+demande d'autorisation de mise sur le marché pendant une période de trois ans
+après la délivrance de l'autorisation de mise sur le marché pour laquelle ils
+ont été réalisés.
 
-4° La description des techniques de contrôle des matières premières, des
-produits intermédiaires de la fabrication et du produit fini, la description des
-techniques de contrôle en cours de fabrication, l'indication des résultats
-obtenus par application de ces techniques ainsi que les indications utiles sur
-le conditionnement primaire ;
+2° Lorsque la demande porte sur un médicament vétérinaire nouveau renfermant des
+substances actives entrant dans la composition de médicaments vétérinaires
+autorisés, mais qui n'ont pas encore été associés dans un but thérapeutique, le
+dossier fourni à l'appui de la demande comporte, outre les données
+pharmaceutiques, les résultats des essais non cliniques et cliniques relatifs à
+l'association de ces substances sans qu'il soit nécessaire de fournir la
+documentation non clinique et clinique relative à chaque substance active
+individuelle.
 
-5° L'indication de la quantité minimale de chaque constituant du médicament et
-du nombre minimal d'unités de vente qu'il sera nécessaire de prélever pour
-procéder utilement à des contrôles postérieurs à la délivrance de l'autorisation
-de mise sur le marché prescrits par le directeur général de l'Agence française
-de sécurité sanitaire des aliments ;
-
-6° La description des essais de stabilité ayant permis de déterminer la durée
-proposée de conservation.
+3° Pour les demandes d'autorisation déposées en application du a, du b et du c
+de l'article R. 5141-37-3, le dossier fourni à l'appui de la demande comporte,
+outre les données pharmaceutiques, les résultats des essais non cliniques et
+cliniques appropriés déterminés en fonction des caractéristiques du médicament
+considéré.

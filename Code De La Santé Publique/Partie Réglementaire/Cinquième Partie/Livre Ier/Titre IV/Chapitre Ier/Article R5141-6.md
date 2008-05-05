@@ -7,11 +7,11 @@ les renseignements suivants :
 
 2° Pour le médicament soumis à l'essai :
 
-a) Sa dénomination ou son nom de code ;
+a) Son nom ou son nom de code ;
 
 b) Sa forme pharmaceutique ;
 
-c) Sa composition qualitative et quantitative en principes actifs exprimée par
+c) Sa composition qualitative et quantitative en substances actives exprimée par
 unité de prise ou, selon la forme pharmaceutique, pour un volume ou un poids
 déterminé, en utilisant les dénominations communes ; pour les médicaments
 immunologiques, la composition est exprimée en unité d'activité biologique ou en
@@ -23,11 +23,11 @@ e) Sa date de péremption ;
 
 3° Pour le médicament de référence :
 
-a) Sa dénomination ;
+a) Son nom ;
 
 b) Sa forme pharmaceutique ;
 
-c) Sa composition qualitative et quantitative en principes actifs ;
+c) Sa composition qualitative et quantitative en substances actives ;
 
 d) Son ou ses numéros de lots ;
 
@@ -49,7 +49,7 @@ chimique, technologique, pharmaceutique, biologique, pharmacologique,
 toxicologique et clinique, dénommés prérequis, accompagnée des références des
 principaux travaux exploités pour cette synthèse ;
 
-6° Le protocole de l'essai clinique ;
+6° Le protocole de l'essai clinique ou d'efficacité ;
 
 7° Les références des autorisations de mise sur le marché éventuellement
 obtenues dans un autre Etat membre de la Communauté européenne ou un pays tiers

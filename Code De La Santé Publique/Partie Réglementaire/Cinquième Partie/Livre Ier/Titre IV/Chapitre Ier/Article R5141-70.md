@@ -7,8 +7,8 @@ au demandeur. Elles sont motivées et mentionnent les voies et délais de recour
 applicables. La décision de suspension ne peut être prise pour une période
 supérieure à un an.
 
-Les décisions de refus ou de suppression ne peuvent intervenir qu'après que le
-titulaire de l'enregistrement a été invité à présenter ses observations.
+Les décisions de suspension ou de suppression ne peuvent intervenir qu'après que
+le titulaire de l'enregistrement a été invité à présenter ses observations.
 
 Lorsque l'enregistrement est suspendu ou supprimé, le titulaire en informe les
 détenteurs de stock sans délai. Ceux-ci prennent les dispositions utiles pour

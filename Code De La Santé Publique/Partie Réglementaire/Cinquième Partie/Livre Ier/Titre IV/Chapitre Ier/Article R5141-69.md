@@ -1,18 +1,24 @@
 Article R5141-69
 ----
-Le changement du titulaire de l'enregistrement est soumis pour approbation au
-directeur général de l'agence. La demande comporte, outre les mentions prévues
-aux 1° et 2° de l'article R. 5141-63 :
+Le changement du titulaire de l'enregistrement est subordonné à une autorisation
+du directeur général de l'Agence française de sécurité sanitaire des aliments.
+La demande comporte :
 
 1° Une copie de l'enregistrement ;
 
-2° L'accord du titulaire de l'enregistrement sur ce transfert ;
+2° L'identification du futur titulaire ;
 
-3° La désignation des lieux de fabrication, de contrôle et de conditionnement ;
+3° Un document établissant que le dossier complet et à jour du médicament
+homéopathique concerné, ou une copie, est transféré au futur titulaire ;
 
-4° L'engagement du futur titulaire de se soumettre à l'ensemble des conditions
-ayant conduit à l'enregistrement.
+4° L'engagement du futur pharmacien ou vétérinaire responsable de se soumettre à
+l'ensemble des conditions auxquelles a été subordonné l'enregistrement et,
+notamment, de respecter les méthodes de fabrication et de contrôle ;
 
-Le silence gardé par le directeur général de l'agence vaut approbation du
-changement de titulaire à l'expiration d'un délai de deux mois à compter de la
-date de présentation de la demande.
+5° La description du dispositif de pharmacovigilance que le futur titulaire
+envisage de mettre en place.
+
+Le directeur général de l'Agence française de sécurité sanitaire des aliments se
+prononce dans un délai de soixante jours à compter de la date de réception de la
+demande complète. Le silence du directeur général vaut autorisation à
+l'expiration de ce délai.

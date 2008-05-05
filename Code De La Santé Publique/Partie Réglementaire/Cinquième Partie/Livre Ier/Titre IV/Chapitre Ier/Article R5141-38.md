@@ -1,29 +1,31 @@
 Article R5141-38
 ----
-L'autorisation de mise sur le marché est refusée par le directeur général de
-l'Agence française de sécurité sanitaire des aliments lorsqu'il apparaît :
+1° On entend par " mesure de restriction urgente " la modification provisoire
+des termes de l'autorisation de mise sur le marché par le titulaire de
+l'autorisation de mise sur le marché visant à restreindre les indications ou la
+posologie du médicament, ou à ajouter une contre-indication, un effet
+indésirable, une mise en garde ou une précaution d'emploi.
 
-1° Que le médicament vétérinaire est nocif dans les conditions d'emploi
-indiquées dans le dossier de demande, ou que l'effet thérapeutique annoncé fait
-défaut sur l'animal de destination, ou qu'il n'a pas la composition qualitative
-ou quantitative déclarée ;
+Lorsque le titulaire de l'autorisation de mise sur le marché s'apprête à prendre
+une mesure de restriction urgente pour des raisons de sécurité ou en cas de
+risque pour la santé publique, il informe immédiatement le directeur général de
+l'Agence française de sécurité sanitaire des aliments de la mesure de
+restriction urgente qu'il entend prendre ainsi que de l'information adaptée
+qu'il va diffuser. En l'absence d'objection de la part du directeur général dans
+un délai de vingt-quatre heures, ces mesures de restriction urgente et
+d'information peuvent être mises en œuvre.
 
-2° Ou, pour les médicaments destinés à être administrés à des animaux dont la
-chair ou les produits sont destinés à la consommation humaine, que le temps
-d'attente indiqué dans le dossier est insuffisant pour que les denrées
-alimentaires provenant de l'animal traité ne contiennent pas de résidus pouvant
-présenter des dangers pour la santé du consommateur ou est insuffisamment
-justifié, ou que la ou les substances capables d'action pharmacologique
-présentes dans le médicament ne figurent pas à l'annexe I, II ou III du
-règlement (CEE) n° 90/2377 du Conseil du 26 juin 1990 établissant une procédure
-communautaire pour la fixation des limites maximales de résidus de médicaments
-vétérinaires dans les aliments d'origine animale ;
+La demande correspondante de modification définitive des termes de
+l'autorisation de mise sur le marché est transmise au plus tard dans un délai de
+quinze jours suivant l'introduction de la mesure de restriction urgente au
+directeur général de l'Agence française de sécurité sanitaire des aliments,
+conformément aux dispositions de l'article R. 5141-35.
 
-3° Ou que le médicament vétérinaire est présenté pour une utilisation interdite
-en vertu d'autres dispositions communautaires ; en l'absence de telles
-dispositions communautaires, l'autorisation de mise sur le marché peut être
-refusée si cette mesure est nécessaire pour assurer la protection de la santé
-humaine ou de la santé animale.
-
-Elle est également refusée lorsque la demande et le dossier qui l'accompagne ne
-sont pas conformes au contenu fixé par les articles R. 5141-14 à R. 5141-16.
+2° Pour des raisons de sécurité ou en cas de risque pour la santé publique, le
+directeur général de l'Agence française de sécurité sanitaire des aliments peut
+imposer au titulaire de l'autorisation de mise sur le marché de mettre en œuvre
+immédiatement des mesures de restriction urgente. Le titulaire de l'autorisation
+de mise sur le marché doit alors présenter au plus tard dans un délai de quinze
+jours, en vue de l'application de la procédure prévue à l'article R. 5141-35,
+une demande de modification correspondant aux restrictions qui lui ont été
+imposées.

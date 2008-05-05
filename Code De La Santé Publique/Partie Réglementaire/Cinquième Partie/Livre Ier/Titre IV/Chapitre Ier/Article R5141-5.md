@@ -7,13 +7,12 @@ renseignements suivants :
 
 2° L'identification du médicament soumis à l'essai :
 
-a) Sa dénomination ou son nom de code ;
+a) Son nom ou son nom de code ;
 
 b) Sa forme pharmaceutique ;
 
-c) Sa composition qualitative et quantitative en utilisant les dénominations
-communes internationales ou, à défaut, les dénominations de la pharmacopée
-européenne ou française ; pour les médicaments immunologiques, la composition
+c) Sa composition qualitative et quantitative en substances actives en utilisant
+les dénominations communes ; pour les médicaments immunologiques, la composition
 est exprimée en unités d'activité biologique ou en unité de masse pour les
 constituants protéiques ;
 

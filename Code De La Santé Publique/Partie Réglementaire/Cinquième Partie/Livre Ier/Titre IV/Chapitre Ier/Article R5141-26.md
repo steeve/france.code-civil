@@ -9,9 +9,11 @@ sanitaire des aliments.
 L'autorisation indique, le cas échéant, si le médicament relève des dispositions
 de l'article L. 5143-5.
 
+Elle indique, le cas échéant, que le médicament ne peut être délivré qu'aux
+vétérinaires habilités à les administrer selon les dispositions de l'article L.
+234-2 du code rural.
+
 L'autorisation peut être assortie de l'obligation de mentionner sur le
 conditionnement primaire ou sur le conditionnement extérieur ainsi que sur la
 notice des mentions essentielles pour la sécurité ou pour la protection de la
-santé, notamment des précautions particulières d'emploi. Elle peut aussi être
-assortie de l'obligation d'introduire une substance de marquage dans le
-médicament.
+santé, notamment des précautions particulières d'emploi.
