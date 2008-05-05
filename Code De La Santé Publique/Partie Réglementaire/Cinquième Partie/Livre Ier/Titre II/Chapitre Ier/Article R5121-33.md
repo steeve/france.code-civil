@@ -1,7 +1,8 @@
 Article R5121-33
 ----
 Les experts mentionnés à l'article L. 5121-20 disposent des qualifications et de
-l'expérience suivantes :
+l'expérience suivantes, énoncées dans un résumé du curriculum vitae joint au
+dossier de demande d'autorisation de mise sur le marché :
 
 1° Pour l'expert pharmaceutique : une qualification en pharmacie attestée par un
 diplôme d'Etat ou d'université de pharmacien, ou, pour les médicaments issus de

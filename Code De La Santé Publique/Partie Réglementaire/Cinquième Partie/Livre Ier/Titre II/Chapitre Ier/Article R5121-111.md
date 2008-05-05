@@ -8,8 +8,8 @@ responsable de l'importation ;
 2° Le pays de provenance et, s'il est distinct, le pays d'origine du médicament
 ;
 
-3° Sa dénomination, sa composition, sa forme pharmaceutique, son dosage et sa
-voie d'administration ;
+3° Son nom, sa composition, sa forme pharmaceutique, son dosage et sa voie
+d'administration ;
 
 4° Les quantités importées ;
 

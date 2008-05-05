@@ -14,9 +14,7 @@ radionucléide ;
 
 2° L'identification du lot et la date de péremption ;
 
-3° Le nom et l'adresse de l'entreprise exploitant le médicament ou le produit
-et, lorsque celle-ci ne fabrique pas le médicament ou le produit, le nom et
-l'adresse du fabricant ;
+3° Le nom et l'adresse du fabricant ;
 
 4° Le symbole international de la radioactivité ;
 

@@ -4,7 +4,7 @@ Sauf lorsque des motifs de santé publique y font obstacle, l'autorisation
 d'importation parallèle est accordée si les conditions suivantes sont remplies :
 
 1° La spécialité pharmaceutique est obtenue auprès d'une entreprise autorisée au
-sens de l'article 77 de la directive 2001/83/CE du Parlement européen et du
+sens de l'article 77 de la directive 2001 / 83 / CE du Parlement européen et du
 Conseil du 6 novembre 2001 instituant un code communautaire relatif aux
 médicaments à usage humain ;
 
@@ -21,5 +21,5 @@ France.
 
 En outre, pour des motifs de santé publique, le directeur général de l'Agence
 française de sécurité sanitaire des produits de santé peut subordonner
-l'autorisation d'importation parallèle à une modification de la dénomination
-initialement proposée.
+l'autorisation d'importation parallèle à une modification du nom initialement
+proposé.

@@ -8,7 +8,7 @@ d'importation.
 
 Cette déclaration est accompagnée d'un dossier comprenant :
 
-1° La dénomination du médicament ;
+1° Le nom, le dosage et la forme pharmaceutique du médicament ;
 
 2° Ses indications thérapeutiques ;
 

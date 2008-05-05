@@ -1,7 +1,6 @@
 Article R5121-27
 ----
-Les comptes rendus des experts pharmacologues et toxicologues indiquent les
-méthodes utilisées et comportent une évaluation de la toxicité et de l'activité
-pharmacologique du médicament sur l'animal afin de permettre à l'expert
-clinicien d'entreprendre des expertises sur l'homme avec toutes les garanties
-nécessaires.
+Les dossiers fournis à l'appui de la demande d'autorisation des médicaments
+mentionnés aux articles R. 5121-25 et R. 5121-26 sont considérés comme
+comportant l'ensemble des données nécessaires et suffisantes pour l'évaluation
+de ces médicaments au sens de l'article L. 5121-1.

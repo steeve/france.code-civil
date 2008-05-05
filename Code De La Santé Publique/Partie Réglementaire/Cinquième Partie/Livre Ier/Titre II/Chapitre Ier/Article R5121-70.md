@@ -8,8 +8,8 @@ responsable mentionné à l'article L. 5126-6.
 
 Elle comporte les éléments suivants :
 
-1° La dénomination du médicament ou, le cas échéant, son nom de code, et sa
-forme pharmaceutique et son dosage ;
+1° Le nom du médicament ou, le cas échéant, son nom de code, et sa forme
+pharmaceutique et son dosage ;
 
 2° La justification de la prescription ;
 

@@ -14,8 +14,8 @@ a) Le nom et les coordonnées du prescripteur ;
 
 b) Les initiales du patient auquel est destinée la prescription ;
 
-c) La dénomination du médicament ou, le cas échéant, son nom de code, et sa
-forme pharmaceutique et son dosage ;
+c) Le nom du médicament ou, le cas échéant, son nom de code, et sa forme
+pharmaceutique et son dosage ;
 
 d) Le cas échéant, le classement du médicament dans les catégories énumérées au
 deuxième alinéa de l'article R. 5121-36 ;

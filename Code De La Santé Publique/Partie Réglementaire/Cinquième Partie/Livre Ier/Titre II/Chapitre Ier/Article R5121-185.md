@@ -4,7 +4,7 @@ L'établissement pharmaceutique assurant la fabrication, l'exploitation,
 l'importation, l'exportation ou la distribution en gros de médicaments dérivés
 du sang enregistre, lorsqu'il se dessaisit de ces médicaments :
 
-1° La dénomination du médicament concerné ;
+1° Le nom, le dosage et la forme pharmaceutique du médicament concerné ;
 
 2° Le numéro du lot et le nombre d'unités délivrées ;
 

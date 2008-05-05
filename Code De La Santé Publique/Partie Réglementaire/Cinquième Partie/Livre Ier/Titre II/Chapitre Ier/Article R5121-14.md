@@ -26,7 +26,7 @@ a) Sa dénomination spéciale ou scientifique ;
 
 b) Sa forme pharmaceutique ;
 
-c) Sa composition qualitative et quantitative en principes actifs ;
+c) Sa composition qualitative et quantitative en substances actives ;
 
 d) Son ou ses numéros de lot ;
 

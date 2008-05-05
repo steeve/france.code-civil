@@ -4,18 +4,19 @@ La demande d'autorisation de mise sur le marché est adressée au directeur
 général de l'Agence française de sécurité sanitaire des produits de santé. Elle
 mentionne :
 
-1° Le nom et l'adresse du responsable de la mise sur le marché et, lorsque
-celui-ci ne fabrique pas la spécialité pharmaceutique, le nom et l'adresse du
-fabricant ;
+1° Le nom et l'adresse du futur titulaire de l'autorisation de mise sur le
+marché et, le cas échéant, ceux de l'entreprise exploitant la spécialité
+pharmaceutique, ainsi que ceux du fabricant lorsque ni le futur titulaire de
+l'autorisation ni l'entreprise exploitant la spécialité n'assure la fabrication
+;
 
-2° La dénomination du médicament, qui est conforme aux dispositions des articles
-R. 5121-2 à R. 5121-4 ;
+2° Le nom du médicament ;
 
-3° La composition intégrale du médicament soit par unité de prise, soit par
-unité de poids ou de volume, énoncée en termes usuels pour le produit concerné à
-l'exclusion des formules chimiques brutes, avec recours à la dénomination
-commune internationale des composants, chaque fois que celle-ci a été
-recommandée par l'Organisation mondiale de la santé.
+3° La composition intégrale du médicament, soit par unité de prise, soit par
+unité de poids ou de volume, comportant la mention de la dénomination commune de
+ses composants.
 
-La demande est accompagnée du résumé des caractéristiques du produit défini aux
-articles R. 5121-23 et R. 5121-24.
+La demande est accompagnée du projet de résumé des caractéristiques du produit
+dont la présentation et le contenu sont fixés conformément à l'article 11 de la
+directive 2001 / 83 / CE du 6 novembre 2001 par arrêté du ministre chargé de la
+santé, pris sur proposition du directeur général de l'agence.

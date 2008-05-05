@@ -3,7 +3,7 @@ Article R5121-1
 Pour l'application du présent livre, on entend par :
 
 1° Biodisponibilité, la vitesse et l'intensité de l'absorption dans l'organisme,
-à partir d'une forme pharmaceutique, du principe actif ou de sa fraction
+à partir d'une forme pharmaceutique, de la substance active ou de sa fraction
 thérapeutique destiné à devenir disponible au niveau des sites d'action ;
 
 2° Bioéquivalence, l'équivalence des biodisponibilités ;
@@ -18,7 +18,7 @@ conditionnement primaire ;
 l'Organisation mondiale de la santé, à défaut la dénomination de la Pharmacopée
 européenne ou française ou, à défaut, la dénomination commune usuelle ;
 
-6° Dosage du médicament, la teneur en principe actif, exprimée en quantité par
+6° Dosage du médicament, la teneur en substance active, exprimée en quantité par
 unité de prise ou par unité de volume ou de poids en fonction de la présentation
 ;
 

@@ -7,7 +7,7 @@ l'importation d'une spécialité pharmaceutique :
 l'accord sur l'Espace économique européen, dans lequel elle a obtenu une
 autorisation de mise sur le marché ;
 
-2° Dont la composition quantitative et qualitative en principes actifs et en
+2° Dont la composition quantitative et qualitative en substances actives et en
 excipients, la forme pharmaceutique et les effets thérapeutiques sont identiques
 à ceux d'une spécialité pharmaceutique ayant obtenu une autorisation de mise sur
 le marché délivrée par l'Agence française de sécurité sanitaire des produits de

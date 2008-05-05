@@ -25,7 +25,7 @@ desdites méthodes ;
 6° La formule de préparation avec, notamment, toutes indications utiles sur le
 récipient ;
 
-7° La compétence des nouveaux modèles destinés à la vente ;
+7° La contenance des nouveaux modèles destinés à la vente ;
 
 8° Le projet de nouvel étiquetage et, si elle est prévue, de la notice ;
 

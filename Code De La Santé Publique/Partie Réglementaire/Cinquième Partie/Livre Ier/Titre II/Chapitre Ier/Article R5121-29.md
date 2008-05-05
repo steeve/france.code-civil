@@ -1,46 +1,29 @@
 Article R5121-29
 ----
-Par dérogation aux dispositions des articles R. 5121-21 et R. 5121-25 :
+Pour l'application des dispositions du 1° de l'article R. 5121-28, le directeur
+général de l'Agence française de sécurité sanitaire des produits de santé peut,
+après avis de la commission d'autorisation de mise sur le marché, exonérer le
+demandeur d'une autorisation de mise sur le marché pour une spécialité générique
+de fournir les études de biodisponibilité prévues à l'article L. 5121-1 dans les
+hypothèses suivantes :
 
-1° Paragraphe abrogé
+1° Son dossier est une simple duplication du dossier d'autorisation de mise sur
+le marché de la spécialité de référence, et l'établissement pharmaceutique de
+fabrication, les procédés de fabrication et l'origine de la substance active
+sont les mêmes que ceux de la spécialité de référence ;
 
-2° Le demandeur n'est pas tenu de fournir les résultats des essais
-pharmacologiques et toxicologiques ni les résultats des essais cliniques s'il
-peut démontrer :
-
-a) Soit que la spécialité pharmaceutique est essentiellement similaire à une
-spécialité autorisée et que la personne responsable de la mise sur le marché de
-la spécialité originale a consenti qu'il soit fait recours en vue de l'examen de
-la présente demande à la documentation pharmacologique, toxicologique ou
-clinique figurant au dossier de la spécialité originale ;
-
-b) Soit, par référence détaillée à la littérature scientifique publiée, que le
-ou les composants de la spécialité pharmaceutique sont d'un usage médical bien
-établi et présentent une efficacité reconnue, ainsi qu'un niveau acceptable de
-sécurité ;
-
-c) Soit que la spécialité pharmaceutique est essentiellement similaire à une
-spécialité autorisée depuis au moins dix ans en France ou dans un autre pays
-membre de la Communauté européenne selon les dispositions communautaires en
-vigueur et commercialisée en France.
-
-Cependant, dans le cas où la spécialité pharmaceutique est destinée à un usage
-thérapeutique différent ou doit être administrée par des voies différentes ou
-sous un dosage différent, par rapport aux autres médicaments commercialisés, les
-résultats des essais pharmacologiques, toxicologiques et cliniques appropriés
-doivent être fournis ;
-
-3° En ce qui concerne une spécialité nouvelle renfermant des composants connus,
-mais qui n'ont pas encore été associés dans un but thérapeutique, les résultats
-des essais pharmacologiques, toxicologiques et cliniques relatifs à
-l'association doivent être fournis sans qu'il soit nécessaire de fournir la
-documentation relative à chaque composant individuel ;
-
-4° Pour un médicament homéopathique soumis à autorisation de mise sur le marché,
-compte tenu de la spécificité de ce médicament, le demandeur est dispensé de
-produire tout ou partie des résultats des essais pharmacologiques,
-toxicologiques et cliniques lorsqu'il peut démontrer par référence détaillée à
-la littérature publiée et reconnue dans la tradition de la médecine
-homéopathique pratiquée en France que l'usage homéopathique du médicament ou des
-souches homéopathiques le composant est bien établi et présente toutes garanties
-d'innocuité.
+2° Sa biodisponibilité, compte tenu de sa forme pharmaceutique et de son mode
+d'administration, n'est pas susceptible de différer de celle de la spécialité de
+référence, ou bien sa substance active, au regard notamment de sa toxicité ou
+d'exigences spécifiques de concentrations plasmatiques, n'est pas susceptible
+d'entraîner des différences significatives en termes d'efficacité thérapeutique
+ou d'effets indésirables ; dans ces deux cas, la composition qualitative et
+quantitative des composants, les contrôles des matières premières, le mode de
+préparation de la forme pharmaceutique, les contrôles du produit fini et, en
+particulier pour les formes orales solides, les essais comparatifs de
+dissolution in vitro, figurant dans la documentation chimique, pharmaceutique et
+biologique du dossier de demande d'autorisation de mise sur le marché, doivent
+mettre en évidence que la substance active de la spécialité considérée sera
+délivrée dans l'organisme, à partir de la forme pharmaceutique concernée, de la
+même manière qu'elle l'est à partir de la forme pharmaceutique de la spécialité
+de référence.

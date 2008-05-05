@@ -5,22 +5,13 @@ produit. Elle comporte, dans l'ordre, les indications suivantes :
 
 1° Pour l'identification du médicament ou du produit :
 
-a) La dénomination du médicament ou du produit suivie de la dénomination commune
-lorsqu'il ne contient qu'un seul principe actif et que sa dénomination est un
-nom de fantaisie ;
+a) Le nom du médicament ou du produit, le dosage, la forme pharmaceutique, le
+cas échéant la mention du destinataire (" nourrissons ", " enfants " ou "
+adultes ") ainsi que la dénomination commune lorsqu'il ne contient qu'une seule
+substance active et que son nom est un nom de fantaisie ;
 
-b) La composition qualitative complète en principes actifs et excipients ainsi
-que la composition quantitative en principes actifs, en utilisant les
-dénominations communes pour chaque présentation du médicament ou du produit ;
-
-c) La forme pharmaceutique et le contenu en poids, en volume ou en unités de
-prise pour chaque présentation du médicament ou du produit ;
-
-d) La classe pharmaco-thérapeutique ou le type d'activité ;
-
-e) Le nom et l'adresse de l'entreprise exploitant le médicament ou le produit
-et, lorsque celle-ci ne fabrique pas le médicament ou le produit, le nom et
-l'adresse du fabricant ;
+b) La catégorie pharmacothérapeutique ou le type d'activité dans des termes
+aisément compréhensibles pour le patient ;
 
 2° Les indications thérapeutiques ;
 
@@ -59,6 +50,9 @@ omise ;
 
 g) La mention, si nécessaire, d'un risque de syndrome de sevrage ;
 
+h) La recommandation de consulter un médecin ou un pharmacien pour toute
+précision ou conseil relatif à l'utilisation du produit ;
+
 5° Une description des effets indésirables pouvant être observés lors de l'usage
 normal du médicament ou du produit et, le cas échéant, la conduite à tenir,
 ainsi qu'une invitation expresse pour le patient à communiquer à son médecin ou
@@ -74,7 +68,23 @@ b) S'il y a lieu, les précautions particulières de conservation ;
 
 c) S'il y a lieu, une mise en garde en cas de signes visibles de détérioration ;
 
-7° La date à laquelle la notice a été révisée pour la dernière fois.
+d) La composition qualitative complète en substances actives et excipients ainsi
+que la composition quantitative en substances actives, en utilisant les
+dénominations communes pour chaque présentation du médicament ou du produit ;
+
+e) La forme pharmaceutique et le contenu en poids, en volume, ou en unités de
+prises, pour chaque présentation du médicament ;
+
+f) Le nom et l'adresse du titulaire de l'autorisation de mise sur le marché et,
+le cas échéant, de l'entreprise exploitant le médicament ou le produit ;
+
+g) Le nom et l'adresse du fabricant ;
+
+7° Lorsque le médicament est autorisé conformément aux articles R. 5121-51 et
+suivants sous des noms différents dans les Etats concernés, une liste des noms
+autorisés dans chacun de ces Etats ;
+
+8° La date à laquelle la notice a été révisée pour la dernière fois.
 
 Pour les préparations radiopharmaceutiques, la notice doit, en outre, mentionner
 les précautions à prendre par l'utilisateur et le patient durant la préparation
@@ -84,10 +94,5 @@ du conditionnement et de ses contenus non utilisés.
 La notice peut comporter, outre le signe distinctif de l'entreprise, des signes
 ou des pictogrammes explicitant certaines des informations ci-dessus ainsi que
 d'autres informations compatibles avec le résumé des caractéristiques du
-produit. Ces éléments doivent être utiles pour l'éducation sanitaire et ne
-présenter aucun caractère promotionnel.
-
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut autoriser que ne figurent pas sur la notice les indications
-thérapeutiques dont la mention est susceptible d'entraîner des inconvénients
-graves pour certains patients.
+produit. Ces éléments doivent être utiles pour es patients et ne présenter aucun
+caractère promotionnel.

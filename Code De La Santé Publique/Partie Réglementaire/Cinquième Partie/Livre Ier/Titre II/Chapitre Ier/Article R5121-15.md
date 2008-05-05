@@ -9,7 +9,7 @@ médicament expérimental ;
 
 3° Pour le médicament expérimenté ou utilisé comme référence, sa dénomination
 spéciale ou scientifique ou son nom de code, sa composition qualitative et
-quantitative en principes actifs et en constituants de l'excipient dont la
+quantitative en substances actives et en constituants de l'excipient dont la
 connaissance est nécessaire à une bonne administration du médicament, en
 utilisant les dénominations communes internationales lorsqu'elles existent ou, à
 défaut, les dénominations de la pharmacopée européenne ou française ;
