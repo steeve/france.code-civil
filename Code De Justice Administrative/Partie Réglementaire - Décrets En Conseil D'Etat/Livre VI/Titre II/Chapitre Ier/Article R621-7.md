@@ -7,7 +7,7 @@ l'avance, par lettre recommandée.
 Les observations faites par les parties, dans le cours des opérations, sont
 consignées dans le rapport.
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de
 Mata-Utu et de Nouvelle-Calédonie, le président du tribunal fixe par ordonnance
 les délais dans lesquels les parties doivent être averties ainsi que les moyens
 par lesquels cet avis est porté à leur connaissance.

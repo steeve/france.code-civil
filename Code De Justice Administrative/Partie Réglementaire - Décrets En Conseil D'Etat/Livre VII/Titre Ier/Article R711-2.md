@@ -12,5 +12,5 @@ cas d'urgence, ce délai peut être réduit à deux jours par une décision expr
 du président de la formation de jugement qui est mentionnée sur l'avis
 d'audience.
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de
 Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours est porté à dix jours.

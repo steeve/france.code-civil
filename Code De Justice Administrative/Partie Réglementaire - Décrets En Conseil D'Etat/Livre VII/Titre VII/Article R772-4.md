@@ -7,7 +7,7 @@ ressortit à la juridiction administrative sont, sous réserve des articles 100 
 30 décembre 1912 modifié, présentées et instruites par le tribunal administratif
 dans les formes prévues dans le présent code.
 
-Devant le tribunal administratif de Mamoudzou, les requêtes en matière d'impôts
+Devant le tribunal administratif de Mayotte, les requêtes en matière d'impôts
 directs et de taxe sur le chiffre d'affaires ou assimilées dont l'assiette ou le
 recouvrement est confié à la direction des services fiscaux sont présentées,
 instruites et jugées dans les formes prévues dans le livre des procédures
