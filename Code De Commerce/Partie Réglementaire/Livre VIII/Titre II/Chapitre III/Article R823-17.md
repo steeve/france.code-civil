@@ -31,8 +31,7 @@ code de l'urbanisme ;
 des entreprises de commerce régis par les articles L. 411-2 et suivants du code
 de la construction et de l'habitation ;
 
-10° Organismes de mutualité sociale agricole mentionnés aux articles L. 723-1 et
-suivants du code rural ;
+10° Organismes mentionnés à l'article L. 114-8 du code de la sécurité sociale ;
 
 11° Institutions et organismes régis par le livre IX du code de la sécurité
 sociale ;

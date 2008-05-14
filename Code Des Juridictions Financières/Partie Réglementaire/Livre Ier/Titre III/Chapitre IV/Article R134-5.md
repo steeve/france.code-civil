@@ -6,12 +6,10 @@ représentant du ministre chargé du budget, un représentant du ministre charg�
 la sécurité sociale et un représentant du ministre chargé de la protection
 sociale agricole.
 
-Il anime et coordonne les contrôles effectués par les comités d'examen des
-comptes mentionnés à l'article L. 134-2, auxquels il apporte le soutien
-technique et juridique approprié.
+Il anime et coordonne les contrôles portant sur les organismes mentionnés aux
+articles L. 134-1 et R. 134-2. Il arrête les orientations et les méthodes de ces
+contrôles et définit les indicateurs ayant pour objet de détecter les organismes
+dont les performances de gestion paraissent insuffisantes. Il approuve le
+programme annuel des contrôles de chaque administration et en suit l'exécution.
 
-Il arrête les orientations annuelles, ou pluriannuelles, des contrôles exercés
-par les comités d'examen des comptes et en suit l'exécution.
-
-Ses modalités d'organisation et de fonctionnement sont mentionnées aux articles
-D. 134-6 et D. 134-7.
+Ses modalités d'organisation et de fonctionnement sont fixées par décret.
