@@ -1,14 +1,17 @@
 Article R414-13
 ----
-I. - Le contrat Natura 2000 est conclu pour une durée minimale de cinq ans par
-le préfet et le titulaire de droits réels ou personnels portant sur des
-parcelles incluses dans le site. Lorsque le contrat porte en tout ou partie sur
-des terrains relevant du ministère de la défense, il est contresigné par le
-commandant de la région terre.
+I.-Le contrat Natura 2000 est conclu pour une durée de cinq ans entre le préfet
+et, selon le cas, soit le titulaire de droits réels ou personnels portant sur
+des parcelles incluses dans le site, soit le professionnel ou l'utilisateur des
+espaces marins situés dans le site. Le préfet signataire du contrat est, selon
+la nature des engagements, le préfet de département, le préfet de région ou le
+préfet maritime. Lorsque le contrat porte en tout ou partie sur des terrains
+relevant du ministère de la défense, il est contresigné par le commandant de la
+région terre.
 
 Le préfet est chargé de l'exécution des clauses financières du contrat.
 
-II. - Dans le respect des cahiers des charges figurant dans le document
+II.-Dans le respect des cahiers des charges figurant dans le document
 d'objectifs mentionné à l'article R. 414-9, le contrat Natura 2000 comprend
 notamment :
 

@@ -8,4 +8,5 @@ contrats Natura 2000.
 
 Le CNASEA rend compte de cette activité au ministre chargé de l'environnement et
 au ministre chargé de l'agriculture dans les conditions prévues à l'article R.
-313-14 du code rural.
+313-14 du code rural, ainsi qu'au ministre chargé des pêches maritimes et de
+l'aquaculture.

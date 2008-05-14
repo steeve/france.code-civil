@@ -24,10 +24,15 @@ niveau national, des priorités mentionnées au second alinéa de l'article R.
 ;
 
 4° Un ou plusieurs cahiers des charges types applicables aux contrats Natura
-2000 prévus aux articles R. 414-13 et suivants précisant, pour chaque mesure
-contractuelle, l'objectif poursuivi, le périmètre d'application ainsi que les
-habitats et espèces intéressés, la nature, le mode de calcul et le montant de la
-contrepartie financière ;
+2000 prévus aux articles R. 414-13 et suivants, qui indiquent pour chaque action
+contractuelle l'objectif poursuivi, le périmètre d'application ainsi que les
+habitats et espèces intéressés et son coût prévisionnel.
+
+Un arrêté du ministre chargé de l'environnement fixe la liste des actions
+contractuelles éligibles à une contrepartie financière de l'Etat. Le cas
+échéant, un arrêté du préfet de région précise cette liste compte tenu,
+notamment, des spécificités locales, des objectifs de conservation prioritaires
+et d'une allocation optimale des moyens.
 
 5° La liste des engagements faisant l'objet de la charte Natura 2000 du site,
 telle que définie à l'article R. 414-12 ;
