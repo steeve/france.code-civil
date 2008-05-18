@@ -6,4 +6,4 @@ dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72.
 
 Toute opération financière à terme ne respectant plus les conditions fixées à
 ces articles doit être dénouée dans un délai de trois mois, et fait l'objet
-d'une analyse détaillée dans le rapport prévu à l'article R. 211-28.
+d'une analyse détaillée dans le rapport prévu à l'article L. 212-3.
