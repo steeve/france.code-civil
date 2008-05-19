@@ -46,7 +46,15 @@ les veaux ;
 
 - 100 % des paiements pour les semences mentionnées aux points 3 et 4 de
 l'annexe du règlement (CEE) n° 2358/71 du Conseil du 26 octobre 1971 portant
-organisation commune des marchés dans le secteur des semences.
+organisation commune des marchés dans le secteur des semences ;
+
+- 50 % des montants pour les tomates destinées à la transformation ;
+
+- 2 % des montants pour les prunes d'ente destinées à la transformation ;
+
+- 2 % des montants pour les pêches destinées à la transformation ;
+
+- 2 % des montants pour les poires destinées à la transformation.
 
 IV. - Les montants des paiements des primes à l'abattage pour les veaux et au
 maintien de troupeaux de vaches allaitantes sont exclus de la composante des

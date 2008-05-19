@@ -9,3 +9,8 @@ lesquelles une parcelle boisée est considérée comme agricole pour l'applicati
 du I de l'article 8 du règlement (CE) n° 796/2004 de la Commission du 21 avril
 2004 susvisé. Cet arrêté peut autoriser le préfet à fixer des conditions
 dérogatoires plus favorables.
+
+Pour l'application du 2 de l'article 2 du règlement (CE) n° 1973 / 2004 de la
+Commission du 29 octobre 2004 susmentionné, un arrêté du ministre chargé de
+l'agriculture fixe les normes locales de cultures qui conditionnent l'octroi des
+paiements transitoires mentionnés au t de l'article 1er du même règlement.

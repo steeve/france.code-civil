@@ -12,4 +12,6 @@ récoltée en biogaz relevant de la catégorie mentionnée au b du 1 de l'articl
 146 de ce règlement.
 
 Un arrêté du ministre chargé de l'agriculture fixe les conditions et les
-modalités d'application du présent article.
+modalités d'application du présent article et détermine les matières premières
+agricoles autres que celles mentionnées au a du 1 de l'article 146 du règlement
+(CE) n° 1973 / 2004 susmentionné dont l'utilisation est autorisée.

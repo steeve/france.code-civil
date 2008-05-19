@@ -8,12 +8,13 @@ est constaté par arrêté conjoint des ministres chargés de l'agriculture et d
 budget. Cet arrêté fixe le taux de ce dépassement.
 
 II. - Aux fins de réduction du montant des aides en cas de dépassement des
-plafonds budgétaires pour l'application des articles 64, 66, 67, 68, 70 et 71,
-paragraphe 2, du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003
-susmentionné, le non-dépassement ou le dépassement de ces plafonds budgétaires
-est constaté par arrêté conjoint des ministres chargés de l'agriculture et du
-budget pour chacun des paiements directs mentionnés à ces articles. Cet arrêté
-fixe pour chacun de ces paiements le taux de ce dépassement.
+plafonds budgétaires pour l'application des articles 64, 66, 67, 68, 68 bis, 68
+ter, 70 et 71, paragraphe 2, du règlement (CE) n° 1782/2003 du Conseil du 29
+septembre 2003 susmentionné, le non-dépassement ou le dépassement de ces
+plafonds budgétaires est constaté par arrêté conjoint des ministres chargés de
+l'agriculture et du budget pour chacun des paiements directs mentionnés à ces
+articles. Cet arrêté fixe pour chacun de ces paiements le taux de ce
+dépassement.
 
 III. - En cas de dépassement du plafond national fixé à l'annexe II du règlement
 (CE) n° 1782/2003 du 29 septembre 2003 susmentionné, le pourcentage de réduction
