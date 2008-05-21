@@ -9,8 +9,8 @@ suivants :
 L'organisme signale, grâce à ce formulaire, les cas où les embryons ont été
 conçus avec le recours aux gamètes d'un tiers. Ce signalement permet de vérifier
 que ceux-ci ont été conçus avec les gamètes de l'un au moins des membres du
-couple, conformément aux principes fondamentaux prévus par les articles 16 à
-16-8 du code civil et dans le respect des dispositions relatives à la mise en
+couple, conformément aux principes fondamentaux prévus par les articles 16 à 16-
+8 du code civil et dans le respect des dispositions relatives à la mise en
 oeuvre et à l'accès à l'assistance médicale à la procréation fixées au premier
 alinéa de l'article L. 2141-1 et à l'article L. 2141-2 ;
 
@@ -26,8 +26,7 @@ national ;
 déclarent avoir été informés que, dans le cas où la fécondation des embryons a
 nécessité le recours aux gamètes d'un tiers, leur projet parental ne pourra se
 poursuivre en France qu'une fois accomplie la formalité de déclaration conjointe
-prévue aux articles 311-20 du code civil et 1157-2 du nouveau code de procédure
-civile.
+prévue aux articles 311-20 du code civil et 1157-2 du code de procédure civile ;
 
 5° Le cas échéant, l'autorisation de déplacement hors du territoire des
 embryons, établie par les autorités compétentes du pays où ils ont été conçus.

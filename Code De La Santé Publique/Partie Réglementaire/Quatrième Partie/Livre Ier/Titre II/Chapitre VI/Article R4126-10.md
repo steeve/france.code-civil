@@ -1,6 +1,6 @@
 Article R4126-10
 ----
-Le délai de six mois prévu à l'article L. 4124-1 court à compter de la date de
+Le délai de six mois prévu à l'article L. 4124- 1 court à compter de la date de
 réception par la chambre disciplinaire de première instance du dossier complet
 de la plainte.
 
@@ -14,4 +14,4 @@ le président de la chambre disciplinaire nationale peut attribuer l'affaire à
 une chambre qu'il désigne.
 
 Les délais prévus au présent article sont décomptés conformément aux
-dispositions des articles 640 à 644 du nouveau code de procédure civile.
+dispositions des articles 640 à 644 du code de procédure civile.

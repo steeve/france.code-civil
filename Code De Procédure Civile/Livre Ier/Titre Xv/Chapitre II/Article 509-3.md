@@ -9,3 +9,10 @@ chambre.
 
 Lorsque ce règlement l'exige, l'élection de domicile est faite dans le ressort
 de la cour d'appel où siège la chambre des notaires.
+
+Par dérogation à l'article 509-1, les requêtes aux fins de certification des
+actes authentiques notariés en vue de leur exécution à l'étranger en application
+du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril
+2004 portant création d'un titre exécutoire européen pour les créances
+incontestées sont présentées au notaire ou à la personne morale titulaire de
+l'office notarial conservant la minute de l'acte reçu.

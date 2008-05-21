@@ -13,4 +13,4 @@ sociale.
 
 Pour les requérants domiciliés en dehors de la France métropolitaine ou qui en
 sont temporairement éloignés, ces délais sont augmentés dans les conditions
-prévues à l'article 643 du nouveau code de procédure civile.
+prévues à l'article 643 du code de procédure civile.

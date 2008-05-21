@@ -10,7 +10,7 @@ Le ministère public peut faire connaître son avis.
 
 Le premier président ou son délégué statue au fond dans les quarante-huit heures
 de sa saisine. Le délai ainsi prévu est calculé et prorogé conformément aux
-articles 640 et 642 du nouveau code de procédure civile.
+articles 640 et 642 du code de procédure civile.
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée à l'étranger
 et à son conseil, s'il en a un, ainsi qu'à l'autorité qui a prononcé la

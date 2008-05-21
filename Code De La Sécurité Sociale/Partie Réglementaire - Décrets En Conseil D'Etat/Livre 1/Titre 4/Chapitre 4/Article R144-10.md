@@ -15,12 +15,11 @@ n'en mette la totalité ou une fraction à la charge d'une autre partie.
 
 En outre, dans le cas de recours jugé dilatoire ou abusif, le demandeur qui
 succombe, soit en première instance, soit en appel, est condamné au paiement
-d'une amende au taux prévu à l'article 559 du nouveau code de procédure civile
-et, le cas échéant, au règlement des frais de la procédure, et notamment des
-frais résultant des enquêtes, consultations et expertises ordonnées en
-application des articles R. 142-22, R. 142-24, R. 143-13 et R. 143-27. Les frais
-provoqués par la faute d'une partie peuvent être dans tous les cas mis à sa
-charge.
+d'une amende au taux prévu à l'article 559 du code de procédure civile et, le
+cas échéant, au règlement des frais de la procédure, et notamment des frais
+résultant des enquêtes, consultations et expertises ordonnées en application des
+articles R. 142-22, R. 142-24, R. 143-13 et R. 143-27. Les frais provoqués par
+la faute d'une partie peuvent être dans tous les cas mis à sa charge.
 
 Toutefois, à l'occasion des litiges qui portent sur le recouvrement de
 cotisations ou de majorations de retard et lorsque la procédure est jugée

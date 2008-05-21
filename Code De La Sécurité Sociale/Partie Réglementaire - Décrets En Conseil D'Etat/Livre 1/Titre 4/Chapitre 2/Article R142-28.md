@@ -30,10 +30,9 @@ L'appel est formé par une déclaration que la partie ou tout mandataire fait ou
 adresse par pli recommandé au greffe de la cour. La déclaration est accompagnée
 de la copie de la décision.
 
-Outre les mentions prescrites par l'article 58 du nouveau code de procédure
-civile, la déclaration désigne le jugement dont il est fait appel et mentionne,
-le cas échéant, le nom et l'adresse du représentant de l'appelant devant la
-cour.
+Outre les mentions prescrites par l'article 58 du code de procédure civile, la
+déclaration désigne le jugement dont il est fait appel et mentionne, le cas
+échéant, le nom et l'adresse du représentant de l'appelant devant la cour.
 
 L'appel est porté devant la chambre sociale de la cour d'appel. Il est formé,
 instruit et jugé suivant la procédure sans représentation obligatoire.

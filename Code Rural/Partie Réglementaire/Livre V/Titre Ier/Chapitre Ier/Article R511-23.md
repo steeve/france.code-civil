@@ -13,7 +13,7 @@ secrétaire-greffier.
 
 Toutefois, si la demande soumise au tribunal d'instance pose une question
 préjudicielle, le tribunal renvoie les parties à se pourvoir devant le tribunal
-compétent, conformément aux dispositions du nouveau code de procédure civile.
+compétent, conformément aux dispositions du code de procédure civile.
 
 Le juge du tribunal d'instance, directement saisi, a compétence pour statuer
 jusqu'à la date de clôture du scrutin sur les réclamations des personnes qui

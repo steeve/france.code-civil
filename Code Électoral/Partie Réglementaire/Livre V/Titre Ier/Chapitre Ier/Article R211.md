@@ -9,6 +9,6 @@ cas, la requête est marquée d'un timbre indiquant la date de son arrivée et e
 est transmise par le représentant de l'Etat au greffe ou au secrétariat de la
 juridiction compétente. Il en est délivré récépissé à la partie qui le demande.
 
-Le délai de distance prévu à l'article 643 du nouveau code de procédure civile
-n'est pas applicable lorsque le Conseil d'Etat est compétent en premier et
-dernier ressort.
+Le délai de distance prévu à l'article 643 du code de procédure civile n'est pas
+applicable lorsque le Conseil d'Etat est compétent en premier et dernier
+ressort.

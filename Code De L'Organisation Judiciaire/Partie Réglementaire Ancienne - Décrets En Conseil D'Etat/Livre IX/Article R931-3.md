@@ -15,6 +15,6 @@ applicables localement ;
 correctionnels ou la chambre de l'instruction assure avec la chambre civile le
 service des audiences solennelles ;
 
-3° Pour l'application de l'article R. 212-7, la référence au nouveau code de
-procédure civile est remplacée par une référence aux dispositions de procédure
-civile applicables localement.
+3° Pour l'application de l'article R. 212-7, la référence au code de procédure
+civile est remplacée par une référence aux dispositions de procédure civile
+applicables localement.

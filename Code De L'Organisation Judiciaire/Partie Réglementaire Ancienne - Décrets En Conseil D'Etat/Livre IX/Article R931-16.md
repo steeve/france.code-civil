@@ -10,5 +10,5 @@ est remplacée par une référence aux avocats ou personnes agréées pour exerc
 les attributions dévolues aux conseils des parties ;
 
 2° Pour l'application de l'article R. 731-1, la référence aux articles 342 à 366
-du nouveau code de procédure civile est remplacée par une référence aux
-dispositions de procédure civile applicables localement.
+du code de procédure civile est remplacée par une référence aux dispositions de
+procédure civile applicables localement.

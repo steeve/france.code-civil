@@ -17,8 +17,8 @@ secrétariat-greffe dans les trois jours par lettre recommandée avec demande
 d'avis de réception.
 
 Le délai du pourvoi en cassation est de dix jours. Le pourvoi est formé,
-instruit et jugé dans les conditions fixées par les articles 999 à 1008 du
-nouveau code de procédure civile.
+instruit et jugé dans les conditions fixées par les articles 999 à 1008 du code
+de procédure civile.
 
 Les dispositions des alinéas 1, 3, 4 et 5 du présent article sont applicables
 aux demandes soumises au tribunal de première instance en application de

@@ -6,6 +6,10 @@ Les parties peuvent se faire assister ou représenter par :
 
 - leur conjoint ;
 
+- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007
+relative à la simplification du droit, leur concubin ou la personne avec
+laquelle elles ont conclu un pacte civil de solidarité ;
+
 - leurs parents ou alliés en ligne directe ;
 
 - leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;

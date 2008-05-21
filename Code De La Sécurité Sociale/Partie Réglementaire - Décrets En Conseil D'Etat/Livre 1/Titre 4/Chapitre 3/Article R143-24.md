@@ -4,10 +4,9 @@ Cet appel est formé par une déclaration que la partie ou tout mandataire fait 
 adresse par pli recommandé avec demande d'avis de réception au secrétariat du
 tribunal du contentieux de l'incapacité qui a rendu le jugement.
 
-Outre les mentions prescrites par l'article 58 du nouveau code de procédure
-civile, la déclaration désigne le jugement dont il est fait appel et mentionne,
-le cas échéant, le nom et l'adresse du représentant de l'appelant devant la
-cour.
+Outre les mentions prescrites par l'article 58 du code de procédure civile, la
+déclaration désigne le jugement dont il est fait appel et mentionne, le cas
+échéant, le nom et l'adresse du représentant de l'appelant devant la cour.
 
 Le secrétaire du tribunal du contentieux de l'incapacité enregistre l'appel à sa
 date ; il délivre, ou adresse par lettre simple, récépissé de la déclaration.
