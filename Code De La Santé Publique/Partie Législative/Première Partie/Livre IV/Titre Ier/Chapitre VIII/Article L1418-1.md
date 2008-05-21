@@ -53,7 +53,7 @@ quatrième alinéa de l'article L. 1131-1 ;
 
 10° De délivrer les autorisations prévues :
 
-a) Aux articles L. 1244-8 et L. 2141-9 ;
+a) Aux articles L. 2141-9 et L. 2141-11-1 ;
 
 b) Aux articles L. 2131-4-1, L. 2151-5 à L. 2151-7 et au dernier alinéa des
 articles L. 2131-1 et L. 2131-4 ;

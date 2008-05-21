@@ -1,10 +1,9 @@
 Article L2162-3
 ----
-Comme il est dit à l' article 511- 17 du code pénal ci- après reproduit :
+Comme il est dit à l'article 511-22 du code pénal ci-après reproduit :
 
-" Le fait de procéder à la conception in vitro d' embryons humains à des fins
-industrielles ou commerciales est puni de sept ans d' emprisonnement et de
-100000 euros d' amende.
-
-Est puni des mêmes peines le fait d' utiliser des embryons humains à des fins
-industrielles ou commerciales. "
+" Le fait de mettre en oeuvre des activités d'assistance médicale à la
+procréation sans avoir recueilli l'autorisation prévue par le quatrième alinéa
+de l'article L. 2142-1 du code de la santé publique ou sans se conformer aux
+prescriptions de cette dernière est puni de deux ans d'emprisonnement et de 30
+000 euros d'amende. "

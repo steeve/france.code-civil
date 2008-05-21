@@ -7,7 +7,7 @@ cellules, à la conservation et à la préparation des tissus ou des préparatio
 de thérapie cellulaire, ainsi qu'à la greffe de ces tissus ou à l'administration
 de ces préparations, entraîne la suspension ou le retrait des autorisations
 prévues aux articles L. 1233-1, L. 1234-2, L. 1242-1, L. 1243-2, L. 1243-4, L.
-1243-5, L. 1243-6 et L. 1244-5.
+1243-5, et L. 1243-6.
 
 Le retrait ne peut intervenir qu'après un délai d'un mois suivant une mise en
 demeure adressée par l'autorité administrative à l'établissement ou l'organisme
