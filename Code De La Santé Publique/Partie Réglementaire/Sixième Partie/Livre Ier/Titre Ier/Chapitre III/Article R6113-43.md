@@ -32,9 +32,13 @@ libertés ;
 
 9° Le rapport annuel sur l'activité de l'agence présenté par le directeur ;
 
-10° Les redevances pour services rendus ;
+10° La liste des bases de données et autres produits informatiques que l'agence
+diffuse à titre onéreux et les tarifs de diffusion, approuvés dans les
+conditions définies à l'article R. 6113-44 ;
 
-11° Les conditions de la gestion administrative et financière des personnels
+11° Les redevances pour services rendus ;
+
+12° Les conditions de la gestion administrative et financière des personnels
 contractuels.
 
 Le conseil d'administration peut déléguer au directeur les décisions mentionnées

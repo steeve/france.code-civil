@@ -8,4 +8,8 @@ Elle peut également employer des agents contractuels de droit public, qui sont
 soumis aux dispositions du décret n° 86-83 du 17 janvier 1986 relatif aux
 dispositions générales applicables aux agents non titulaires de l'Etat pris pour
 l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant
-dispositions statutaires relatives à la fonction publique de l'Etat.
+dispositions statutaires relatives à la fonction publique de l'Etat et aux
+dispositions du décret n° 2003-224 du 7 mars 2003 fixant les règles applicables
+aux personnels contractuels de droit public recrutés par certains établissements
+publics intervenant dans le domaine de la santé publique ou de la sécurité
+sanitaire.
