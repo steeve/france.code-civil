@@ -1,8 +1,8 @@
 Article L3414-1
 ----
 L'établissement public d'insertion de la défense est un établissement public de
-l'Etat placé sous la tutelle du ministre de la défense et du ministre chargé de
-l'emploi.
+l'Etat placé sous la tutelle du ministre de la défense, du ministre chargé de l'
+emploi et du ministre chargé de la ville.
 
 Il a pour objet l'insertion sociale et professionnelle des jeunes sans diplômes
 ou sans titres professionnels ou en voie de marginalisation sociale.

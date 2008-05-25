@@ -1,13 +1,13 @@
 Article L4138-13
 ----
 Le congé de longue maladie est attribué, après épuisement des droits de congé de
-maladie fixés à l'article L. 4138-3, dans les cas autres que ceux énoncés à
-l'article L. 4138-11, lorsque l'affection constatée met l'intéressé dans
+maladie fixés à l'article L.4138-3, dans les cas autres que ceux prévus à
+l'article L.4138-12, lorsque l'affection constatée met l'intéressé dans
 l'impossibilité d'exercer ses fonctions et qu'elle présente un caractère
 invalidant et de gravité confirmée.
 
 Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions
-ou à la suite de l'une des causes exceptionnelles prévues à l'article L. 27 du
+ou à la suite de l'une des causes exceptionnelles prévues à l'article L.27 du
 code des pensions civiles et militaires de retraite, ce congé est d'une durée
 maximale de trois ans. Le militaire conserve, dans les conditions définies par
 décret en Conseil d'Etat, sa rémunération.

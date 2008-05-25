@@ -2,11 +2,12 @@ Article 96-1
 ----
 En cas de guerre ou d'opérations militaires conduites en dehors du territoire
 national, pour causes graves et sur autorisation, d'une part, du garde des
-sceaux, ministre de la justice, et, d'autre part, du ministre de la défense, il
-peut être procédé à la célébration du mariage des militaires sans que le futur
-époux comparaisse en personne et même si le futur époux est décédé, à la
-condition que le consentement au mariage ait été constaté dans les formes
-ci-après :
+sceaux, ministre de la justice, et d'autre part, du ministre de la défense, il
+peut être procédé à la célébration du mariage des militaires, des marins de
+l'Etat, des personnes employées à la suite des armées ou embarquées à bord des
+bâtiments de l'Etat sans que le futur époux comparaisse en personne et même si
+le futur époux est décédé, à la condition que le consentement au mariage ait été
+constaté dans les formes ci-après :
 
 1° Sur le territoire national, le consentement au mariage du futur époux est
 constaté par un acte dressé par l'officier de l'état civil du lieu où la

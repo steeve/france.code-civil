@@ -9,8 +9,11 @@ l'Etat, de la Communauté européenne, des collectivités territoriales, des
 
 2° Les dons et legs ;
 
-3° Le produit de la taxe d'apprentissage et les ressources provenant de
-l'application de la législation sur la formation professionnelle continue ;
+3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre
+du 4° du II de l'article 1er de la loi n° 71-578 du 16 juillet 1971 sur la
+participation des employeurs au financement des premières formations
+technologiques et professionnelles et les ressources provenant de l'application
+de la législation sur la formation professionnelle continue ;
 
 4° Les produits des activités de l'établissement ;
 

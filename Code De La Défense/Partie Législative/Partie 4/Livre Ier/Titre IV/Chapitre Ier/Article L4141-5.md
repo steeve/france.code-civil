@@ -11,9 +11,5 @@ dans les cadres ;
 dénomination correspondante, pour une durée déterminée en fonction des emplois à
 pourvoir, sans toutefois pouvoir servir au-delà de l'âge maximal de maintien en
 première section. Dans ce cas, la limite d'âge retenue pour l'application des
-dispositions du 1° du I de l'article L. 14 du code des pensions civiles et
+dispositions du 1° du I de l'article L.14 du code des pensions civiles et
 militaires de retraite correspond au terme de cette durée déterminée.
-
-Les officiers du service de santé des armées du grade de chef des services
-peuvent être maintenus en première section dans les mêmes conditions que celles
-prévues par le présent article.

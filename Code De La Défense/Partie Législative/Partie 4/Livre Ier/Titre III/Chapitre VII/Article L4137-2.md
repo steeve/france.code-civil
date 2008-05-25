@@ -22,13 +22,13 @@ f) Le blâme du ministre ;
 a) L'exclusion temporaire de fonctions pour une durée maximale de cinq jours
 privative de toute rémunération ;
 
-b) L'abaissement temporaire ou définitif d'échelon ;
+b) L'abaissement temporaire d'échelon ;
 
 c) La radiation du tableau d'avancement ;
 
 3° Les sanctions du troisième groupe sont :
 
-a) Le retrait d'emploi, défini par les dispositions de l'article L. 4138-15 ;
+a) Le retrait d'emploi, défini par les dispositions de l'article L.4138-15 ;
 
 b) La radiation des cadres ou la résiliation du contrat.
 
