@@ -1,31 +1,26 @@
 Article L393
 ----
-Bénéficient, jusqu'au 27 avril 1989, d'un droit de préférence pour l'obtention
-des emplois réservés de l'Etat, des établissements publics, des départements,
-des communes, de la ville de Paris, des territoires d'outre-mer :
+Le recrutement par la voie des emplois réservés constitue une obligation
+nationale à laquelle concourent l'Etat, les collectivités locales, les
+établissements publics qui leur sont rattachés et les établissements mentionnés
+à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière.
 
-Les officiers et hommes de troupe des armées de terre, de mer et de l'air,
-invalides de guerre, c'est-à-dire pensionnés définitifs ou temporaires par suite
-de blessures reçues ou de maladies contractées ou aggravées par le fait ou à
-l'occasion du service au cours des guerres 1914-1918 et 1939-1945 ou au cours
-des expéditions postérieures déclarées campagnes de guerre par l'autorité
-compétente ;
+Les catégories de personnes mentionnées à la section 1 peuvent être recrutées de
+manière dérogatoire, sans concours, sur des emplois réservés à cet effet dans
+les corps et cadres d'emplois des fonctions publiques de l'Etat, territoriale et
+hospitalière, sous réserve qu'elles remplissent les conditions fixées aux
+articles 5 et 5 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires.
 
-Les membres de la Résistance, bénéficiaires du titre II du livre II du présent
-code.
+Les bénéficiaires des dispositions des articles L. 394 à L. 396 qui auraient été
+exclus depuis moins de cinq ans de la fonction publique pour un motif
+disciplinaire ne peuvent pas prétendre aux emplois réservés.
 
-Toutefois, pour les militaires visés au titre des expéditions déclarées
-campagnes de guerre, un délai de dix ans court à partir du jour de leur
-admission à pension.
+Priorité est donnée au recrutement des personnes mentionnées aux articles L. 394
+à L. 396 sur les emplois réservés offerts au titre d'une année. Les emplois non
+pourvus à ce titre sont offerts aux autres bénéficiaires.
 
-Les demandes des intéressés sont recevables pendant toute la durée du délai
-prévu à l'alinéa 1er du présent article.
-
-On postule les emplois réservés sans condition d'âge, ni de durée de service.
-
-Les officiers et hommes de troupe peuvent être classés et nommés même s'ils ne
-possèdent pas leur titre définitif de pension.
-
-A défaut de militaires remplissant les conditions indiquées ci-dessus, les
-emplois sont attribués aux militaires des armées de terre, de mer et de l'air
-engagés et rengagés, commissionnés ou appartenant au cadre de maistrance.
+Les emplois non pourvus au titre du quatrième alinéa sont remis à la disposition
+des administrations et des collectivités publiques dans les conditions fixées à
+l'article L. 406.

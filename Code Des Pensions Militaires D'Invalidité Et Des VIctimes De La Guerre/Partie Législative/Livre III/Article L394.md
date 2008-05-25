@@ -1,30 +1,29 @@
 Article L394
 ----
-Peuvent, sans conditions d'âge, obtenir les emplois réservés de l'Etat, des
-établissements publics, des départements, des communes et des territoires
-d'outre-mer :
+Les emplois réservés sont accessibles, sans conditions d' âge, de délai, ni de
+durée de service :
 
-Les veuves de guerre non remariées ;
+1° Aux invalides de guerre titulaires d' une pension militaire d' invalidité en
+raison de blessures reçues ou de maladies contractées ou aggravées dans le cadre
+du service au cours des guerres ou des expéditions déclarées campagnes de guerre
+par l' autorité compétente ;
 
-Les veuves de guerre remariées ayant un ou plusieurs enfants mineurs ou infirmes
-à leur charge, issus de leur mariage avec un militaire mort pour la France ;
+2° Aux victimes civiles de la guerre ;
 
-Les veuves remariées et redevenues veuves ou divorcées à leur profit ;
+3° Aux sapeurs pompiers volontaires victimes d' un accident ou atteints d' une
+maladie contractée en service ou à l' occasion du service ;
 
-Les conjoints de militaires, policiers, douaniers, décédés en service et les
-conjoints de personnes qui, soumises à un statut législatif ou réglementaire et
-appelées à participer, à titre habituel ou occasionnel, à des missions
-d'assistance à personne en danger, sont décédées au cours d'une telle mission ;
+4° Aux victimes d' un acte de terrorisme ;
 
-Les mères non mariées ayant un ou plusieurs enfants mineurs à leur charge,
-enfants reconnus d'un militaire mort pour la France ;
+5° Aux personnes qui, soumises à un statut législatif ou réglementaire, dans le
+cadre de leurs fonctions professionnelles au service de la collectivité ou de
+leurs fonctions électives au sens du code électoral, ont subi une atteinte à
+leur intégrité physique, ont contracté ou ont vu s' aggraver une maladie en
+service ou à l' occasion du service et se trouvent de ce fait dans l' incapacité
+permanente de poursuivre leur activité professionnelle ;
 
-Les femmes d'aliénés internés depuis plus de quatre ans dont la pension donne
-lieu à l'application de l'article L. 124 ;
-
-Les femmes de disparus bénéficiaires de la pension provisoire prévue à l'article
-L. 66.
-
-En ce qui concerne les bénéficiaires des emplois réservés visés au cinquième
-alinéa du présent article, un délai de dix ans court à dater de l'avis officiel
-de décès.
+6° Aux personnes qui, exposant leur vie, à titre habituel ou non, ont contribué
+à une mission d' assistance à personne en danger et ont subi une atteinte à leur
+intégrité physique ou ont contracté ou ont vu s' aggraver une maladie lors de
+cette mission, se trouvent de ce fait dans l' incapacité permanente de
+poursuivre leur activité professionnelle.
