@@ -14,4 +14,4 @@ L. 5213-10 qui peuvent compenser en tout ou partie les dépenses supportées à 
 titre par l'employeur.
 
 Le refus de prendre des mesures au sens du premier alinéa peut être constitutif
-d'une discrimination au sens de l'article L. 1133-2.
+d'une discrimination au sens de l'article L. 1133-3.

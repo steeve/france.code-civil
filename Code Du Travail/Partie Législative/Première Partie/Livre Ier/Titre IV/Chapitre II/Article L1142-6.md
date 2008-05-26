@@ -1,6 +1,5 @@
 Article L1142-6
 ----
-Le texte des articles L. 1142-1 à L. 1144-3 est affiché dans les lieux de
-travail ainsi que dans les locaux ou à l'entrée des locaux de travail.
-
-Il en est de même pour les textes pris pour l'application de ces articles.
+Le texte des articles 225-1 à 225-4 du code pénal est affiché dans les lieux de
+travail ainsi que dans les locaux ou à la porte des locaux où se fait
+l'embauche.
