@@ -115,7 +115,7 @@ représentation d'engagements techniques
 184 Liaisons de succursales.
 
 185 Opérations légalement cantonnées dans une comptabilité auxiliaire
-d'affectation
+d'affectation ;
 
 1851 Changement d'affectation d'actifs de placement sous condition résolutoire ;
 
@@ -902,7 +902,6 @@ sinistres à payer.
 compte (moins-values non réalisées).
 
 667 Variation de valeur des actifs représentatifs des contrats PERP diversifiées
-»
 
 668 Amortissements financiers :
 
@@ -1043,7 +1042,6 @@ Classe 7. - Produits
 (plus-values non réalisées).
 
 767 Variation de valeur des actifs représentatifs des contrats PERP diversifiées
-»
 
 768 Produits des différences sur les prix de remboursement à percevoir.
 
@@ -1071,7 +1069,7 @@ Classe 7. - Produits
 
 7939 Produits des placements transférés au compte non technique.
 
-7971 Prélèvement sur la comptabilité auxiliaire d'affectation » au profit du
+7971 Prélèvement sur la comptabilité auxiliaire d'affectation au profit du
 patrimoine général ;
 
 79711 Acquisition ;
@@ -1085,7 +1083,7 @@ patrimoine général ;
 79715 Autres produits/charges techniques.
 
 7973 Autres transferts de produits/charges au titre de chaque comptabilité
-auxiliaire d'affectation d'opérations d'assurance légalement cantonnées ».
+auxiliaire d'affectation d'opérations d'assurance légalement cantonnées.
 
 Classe 8. - Comptes spéciaux
 
