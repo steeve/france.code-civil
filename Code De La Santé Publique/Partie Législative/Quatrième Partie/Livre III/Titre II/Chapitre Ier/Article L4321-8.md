@@ -1,7 +1,9 @@
 Article L4321-8
 ----
-Seules les personnes munies du diplôme d'Etat de masseur-kinésithérapeute
-institué par l'article L. 4321-3 peuvent porter les titres de
+Le masseur-kinésithérapeute peut faire usage de son titre de formation dans la
+langue de l'Etat qui le lui a délivré. Il est tenu de faire figurer le lieu et
+l'établissement où il a été obtenu.
+
+Le masseur-kinésithérapeute exerce son activité sous le titre professionnel de
 masseur-kinésithérapeute, de gymnaste médical ou de masseur, accompagné ou non
-d'un qualificatif. Les qualificatifs et leurs conditions d'attribution sont
-fixés par arrêté du ministre chargé de la santé.
+d'un qualificatif.

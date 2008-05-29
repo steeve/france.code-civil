@@ -1,7 +1,7 @@
 Article L4141-3
 ----
-Les diplômes, certificats et titres exigés en application du 1° de l'article L.
-4111-1 sont pour l'exercice de la profession de chirurgien-dentiste :
+Les titres de formation exigés en application du 1° de l'article L. 4111-1 sont
+pour l'exercice de la profession de chirurgien-dentiste :
 
 1° Soit le diplôme français d'Etat de docteur en chirurgie dentaire ;
 
@@ -10,28 +10,52 @@ Les diplômes, certificats et titres exigés en application du 1° de l'article 
 3° Soit si l'intéressé est ressortissant d'un Etat membre de la Communauté
 européenne ou partie à l'accord sur l'Espace économique européen :
 
-a) Un diplôme, certificat ou autre titre de praticien de l'art dentaire délivré
-par l'un de ces Etats conformément aux obligations communautaires ou à celles
-résultant de l'accord sur l'Espace économique européen et figurant sur une liste
+a) Un titre de formation de praticien de l'art dentaire délivré par l'un de ces
+Etats conformément aux obligations communautaires et figurant sur une liste
 établie par arrêté des ministres chargés de l'enseignement supérieur et de la
 santé ;
 
-b) Tout diplôme, certificat ou autre titre de praticien de l'art dentaire
-délivré par un Etat, membre ou partie, sanctionnant une formation de praticien
-de l'art dentaire acquise dans cet Etat antérieurement aux dates fixées par
-l'arrêté mentionné au a et non conforme aux obligations communautaires, s'il est
-accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme,
-certificat ou titre s'est consacré de façon effective et licite aux activités de
-praticien de l'art dentaire pendant au moins trois années consécutives au cours
-des cinq années précédant la délivrance de l'attestation et, dans des conditions
-prévues par décret en Conseil d'Etat, tout autre diplôme, certificat ou autre
-titre de médecin délivré en Italie à des personnes ayant commencé leur formation
-universitaire de médecin entre le 28 janvier 1980 et le 31 décembre 1984 dont la
-valeur est certifiée par une attestation délivrée par les autorités italiennes.
-
-c) Un diplôme, certificat ou autre titre de praticien de l'art dentaire délivré
-par un Etat membre, conformément aux obligations communautaires, ne figurant pas
+b) Un titre de formation de praticien de l'art dentaire délivré par un Etat,
+membre ou partie, conformément aux obligations communautaires, ne figurant pas
 sur la liste mentionnée au a, s'il est accompagné d'une attestation de cet Etat
 certifiant qu'il sanctionne une formation conforme à ces obligations et qu'il
 est assimilé, par lui, aux diplômes, certificats et titres figurant sur cette
-liste.
+liste ;
+
+c) Un titre de formation de praticien de l'art dentaire délivré par un Etat,
+membre ou partie, sanctionnant une formation de praticien de l'art dentaire
+acquise dans cet Etat antérieurement aux dates figurant sur la liste mentionnée
+au a et non conforme aux obligations communautaires, s'il est accompagné d'une
+attestation de l'un de ces Etats certifiant que le titulaire de titre de
+formation s'est consacré de façon effective et licite aux activités de praticien
+de l'art dentaire pendant au moins trois années consécutives au cours des cinq
+années précédant la délivrance de l'attestation ;
+
+d) Un titre de formation de praticien de l'art dentaire délivré par l'Union
+soviétique ou la Yougoslavie et sanctionnant une formation de praticien de l'art
+dentaire non conforme aux obligations communautaires, s'il est accompagné d'une
+attestation certifiant qu'il a la même valeur juridique que les titres de
+formation délivrés par l'Estonie, la Lettonie, la Lituanie ou la Slovénie et
+d'une attestation certifiant que son titulaire s'est consacré, dans cet Etat, de
+façon effective et licite, aux activités de praticien de l'art dentaire pendant
+au moins trois années consécutives au cours des cinq années précédant la
+délivrance de l'attestation ;
+
+e) Un titre de formation de praticien de l'art dentaire délivré par un Etat,
+membre ou partie, sanctionnant une formation de praticien de l'art dentaire
+acquise dans cet Etat antérieurement aux dates figurant sur la liste mentionnée
+au a et non conforme aux obligations communautaires mais permettant d'exercer
+légalement la profession de praticien de l'art dentaire dans l'Etat qui l'a
+délivré, si le praticien de l'art dentaire justifie avoir effectué en France au
+cours des cinq années précédentes trois années consécutives à temps plein de
+fonctions hospitalières en qualité d'attaché associé, de praticien attaché
+associé, d'assistant associé ou de fonctions universitaires en qualité de chef
+de clinique associé des universités ou d'assistant associé des universités, à
+condition d'avoir été chargé de fonctions hospitalières dans le même temps ;
+
+f) Un titre de formation de médecin délivré en Italie, en Espagne, en Autriche,
+en République tchèque, en Slovaquie et en Roumanie durant des périodes fixées
+par arrêté des ministres chargés de l'enseignement supérieur et de la santé,
+s'il est accompagné d'une attestation des autorités compétentes de cet Etat
+certifiant qu'il ouvre droit dans cet Etat à l'exercice de la profession de
+praticien de l'art dentaire.

@@ -7,7 +7,11 @@ transport de fonds.
 
 Seuls les dresseurs détenant un certificat de capacité peuvent exercer
 l'activité de dressage des chiens au mordant et acquérir des objets et des
-matériels destinés à ce dressage. Il en est de même pour les responsables des
+matériels destinés à ce dressage. Les prestations de services effectuées en
+France, à titre temporaire et occasionnel par les professionnels ressortissants
+d'un Etat membre de la Communauté européenne, ou d'un autre Etat partie à
+l'Espace économique européen, établis sur le territoire d'un de ces Etats sont
+régies par l'article L. 204-1. Il en est de même pour les responsables des
 activités de sélection canine mentionnées à l'alinéa précédent. Le certificat de
 capacité est délivré par l'autorité administrative aux candidats justifiant
 d'une aptitude professionnelle.

@@ -1,19 +1,15 @@
 Article L4221-4
 ----
-Le titulaire d'un diplôme, certificat ou titre de pharmacien délivré par l'un
-des Etats autres que la France membres de la Communauté européenne ou parties à
-l'accord sur l'Espace économique européen, et répondant à l'ensemble des
-exigences minimales de formation prévues à l'article 2 de la directive
-85/432/CEE du 16 septembre 1985 visant à la coordination des dispositions
-législatives, réglementaires et administratives concernant certaines activités
-du domaine de la pharmacie peut exercer la pharmacie en France :
+Ouvre droit à l'exercice de la profession de pharmacien aux ressortissants d'un
+Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen :
 
-1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément
-aux obligations communautaires ou à celles résultant de l'accord sur l'Espace
-économique européen par arrêté des ministres chargés de l'enseignement supérieur
-et de la santé ;
+1° Un titre de formation de pharmacien délivré par l'un de ces Etats
+conformément aux obligations communautaires et figurant sur une liste établie
+par arrêté des ministres chargés de l'enseignement supérieur et de la santé ;
 
-2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat,
-autre que la France, membre ou partie, qui l'a délivré, certifiant qu'il
-sanctionne une formation répondant aux exigences énoncées ci-dessus et qu'il est
-assimilé dans cet Etat aux diplômes de la liste précitée.
+2° Un titre de formation de pharmacien délivré par l'un de ces Etats
+conformément aux obligations communautaires, ne figurant pas sur la liste
+mentionnée au 1°, s'il est accompagné d'une attestation de cet Etat certifiant
+qu'il sanctionne une formation conforme à ces obligations et qu'il est assimilé,
+par lui, aux titres de formation figurant sur cette liste.

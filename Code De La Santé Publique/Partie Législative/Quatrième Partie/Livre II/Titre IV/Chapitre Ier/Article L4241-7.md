@@ -1,5 +1,36 @@
 Article L4241-7
 ----
-Est également qualifiée de préparateur en pharmacie toute personne ayant obtenu
-une autorisation d'exercice délivrée par le ministre chargé de la santé après
-avis de la commission mentionnée à l'article L. 4241-6.
+L'autorité compétente peut, après avis d'une commission composée notamment de
+professionnels, autoriser individuellement à exercer la profession de
+préparateur en pharmacie, les ressortissants d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+qui ont suivi avec succès un cycle d'études secondaires et qui, sans posséder le
+diplôme prévu à l'article L. 4241-4, sont titulaires :
+
+1° D'un titre de formation délivré par l'autorité compétente d'un Etat, membre
+ou partie, qui réglemente l'accès à cette profession ou son exercice, et
+permettant d'exercer légalement ces fonctions dans cet Etat ;
+
+2° Ou d'un titre de formation délivré par l'autorité compétente d'un Etat,
+membre ou partie, qui ne réglemente pas l'accès à cette profession ou son
+exercice. Les intéressés fournissent un certificat de l'autorité compétente de
+cet Etat attestant de leur préparation à cette profession et justifient de son
+exercice à temps plein pendant deux ans au cours des dix dernières années dans
+cet Etat ou de leur exercice à temps partiel pendant une durée correspondante au
+cours de la même période ;
+
+3° Ou d'un titre de formation délivré par un Etat tiers et reconnu dans un Etat,
+membre ou partie, autre que la France, permettant d'y exercer légalement la
+profession et dans lequel l'intéressé a acquis une expérience professionnelle
+pertinente, dont il atteste par tout moyen.
+
+Dans ces cas, lorsque l'examen des qualifications professionnelles attestées par
+ce titre et fondées sur l'expérience professionnelle pertinente fait apparaître
+des différences substantielles au regard des qualifications requises pour
+l'accès à la profession et son exercice en France, l'autorité compétente exige
+que l'intéressé se soumette à une mesure de compensation qui consiste, au choix
+du demandeur, en une épreuve d'aptitude ou en un stage d'adaptation.
+
+La délivrance de l'autorisation d'exercice permet au bénéficiaire d'exercer la
+profession dans les mêmes conditions que les personnes titulaires du diplôme
+mentionné à l'article L. 4241-4.

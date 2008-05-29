@@ -35,22 +35,27 @@ connaissances et à l'autorisation d'exercice.
 I bis. - Le ministre chargé de la santé peut également, après avis de la
 commission mentionnée au I, autoriser individuellement à exercer des
 ressortissants d'un Etat autre que ceux membres de la Communauté européenne ou
-parties à l'accord sur l'Espace économique européen et titulaires d'un diplôme,
-certificat ou autre titre obtenu dans l'un de ces Etats, conformément aux
-obligations communautaires. Le nombre maximum de candidats susceptibles d'être
+parties à l'accord sur l'Espace économique européen, titulaires d'un titre de
+formation obtenu dans l'un de ces Etats et dont l'expérience professionnelle est
+attestée par tout moyen. Le nombre maximum de candidats susceptibles d'être
 autorisés à exercer pour chaque profession et, en ce qui concerne la profession
 de médecin, pour chaque discipline ou spécialité, est fixé par arrêté du
 ministre chargé de la santé.
 
 Nul ne peut être candidat plus de deux fois à l'autorisation d'exercice.
 
-II. - Le ministre chargé de la santé peut également, selon des modalités prévues
-par décret en Conseil d'Etat, autoriser individuellement à exercer la profession
-de médecin, de chirurgien-dentiste ou de sage-femme les ressortissants d'un Etat
-membre de la Communauté européenne titulaires d'un diplôme, certificat ou autre
-titre délivré par un Etat tiers, mais qui a été reconnu dans un Etat membre
-autre que la France et permet d'y exercer légalement la profession, après avoir
-examiné les connaissances et qualifications attestées par ce diplôme et par
-l'ensemble de la formation et de l'expérience professionnelle acquises dans un
-Etat membre au regard de celles exigées par les règles en vigueur pour l'accès
-et l'exercice de cette profession.
+II. - L'autorité compétente peut également, après avis d'une commission,
+composée notamment de professionnels, autoriser individuellement à exercer la
+profession de médecin, de chirurgien-dentiste ou de sage-femme les
+ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen, titulaires d'un titre de
+formation délivré par un Etat tiers, et reconnu dans un Etat, membre ou partie,
+autre que la France, permettant d'y exercer légalement la profession et dans
+lequel l'intéressé a acquis une expérience professionnelle pertinente dont il
+atteste par tout moyen. Dans le cas où l'examen des qualifications
+professionnelles attestées par ce titre et fondées sur l'expérience
+professionnelle pertinente fait apparaître des différences substantielles au
+regard des qualifications requises pour l'accès à la profession et son exercice
+en France, l'autorité compétente exige que l'intéressé se soumette à une mesure
+de compensation qui consiste, au choix du demandeur, en une épreuve d'aptitude
+ou en un stage d'adaptation.

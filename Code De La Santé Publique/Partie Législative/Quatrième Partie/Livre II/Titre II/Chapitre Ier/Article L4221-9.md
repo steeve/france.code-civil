@@ -1,8 +1,8 @@
 Article L4221-9
 ----
-Le ministre chargé de la santé, après avis du conseil supérieur de la pharmacie,
-peut autoriser un pharmacien d'une nationalité autre que celles qui sont
-mentionnées au 2° de l'article L. 4221-1 et titulaire du diplôme français d'Etat
-de docteur en pharmacie ou de pharmacien ou d'un diplôme satisfaisant aux
-articles L. 4221-4, L. 4221-5 ou L. 4221-7 à exercer la profession de
-pharmacien.
+L'autorité compétente peut, après avis du Conseil supérieur de la pharmacie,
+autoriser individuellement à exercer la profession de pharmacien des
+ressortissants d'un Etat autre que les Etats membres de la Communauté européenne
+ou les Etats parties à l'accord sur l'Espace économique européen, titulaires
+d'un titre de formation obtenu dans l'un de ces Etats et dont l'expérience
+professionnelle est attestée par tout moyen.

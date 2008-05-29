@@ -27,8 +27,4 @@ Un infirmier ou une infirmière ne peut être inscrit que sur une seule liste
 départementale. Cette inscription ne limite pas géographiquement les
 possibilités d'exercice.
 
-L'infirmier ou l'infirmière qui est inscrit ou enregistré dans un Etat étranger
-pour l'exercice de sa profession ne peut être inscrit sur une liste
-départementale.
-
 Les modalités d'application du présent article sont fixées par décret.

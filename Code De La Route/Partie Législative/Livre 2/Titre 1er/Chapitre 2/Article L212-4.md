@@ -1,12 +1,14 @@
 Article L212-4
 ----
-I. - Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur
+I.-Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur
 d'une catégorie donnée et la sécurité routière sans être titulaire de
 l'autorisation prévue à l'article L. 212-1 ou en violation d'une mesure de
 suspension provisoire de celle-ci est puni d'un an d'emprisonnement et de 15 000
-euros d'amende.
+euros d'amende. Est puni de la même peine l'exercice temporaire et occasionnel
+de l'enseignement de la conduite et de la sécurité routière sans respecter les
+conditions fixées au II de l'article L. 212-1.
 
-II. - Les personnes physiques coupables de l'infraction prévue à l'alinéa
+II.-Les personnes physiques coupables de l'infraction prévue à l'alinéa
 précédent encourent également les peines complémentaires suivantes :
 
 1° L'interdiction d'exercer l'activité professionnelle dans l'exercice ou à

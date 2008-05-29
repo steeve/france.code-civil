@@ -12,8 +12,6 @@ réparation et la représentation de véhicules à moteur et des pièces accesso
 
 4° L'accomplissement d'actes de nature à porter atteinte à son indépendance.
 
-II. - Toute publicité commerciale est interdite.
-
-III. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
+II. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article et notamment les règles professionnelles que doivent respecter les
 experts en automobile.

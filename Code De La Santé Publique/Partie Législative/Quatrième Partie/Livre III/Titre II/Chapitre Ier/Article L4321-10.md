@@ -4,7 +4,7 @@ Les masseurs-kinésithérapeutes sont tenus de faire enregistrer sans frais leur
 diplômes, certificats, titres ou autorisations auprès du service de l'Etat
 compétent ou de l'organisme désigné à cette fin. En cas de changement de
 situation professionnelle ou de résidence, ils en informent ce service ou cet
-organisme. L'obligation d'information relative au changement de résidence est
+organisme.L'obligation d'information relative au changement de résidence est
 maintenue pendant une période de trois ans à compter de la cessation de leur
 activité.
 
@@ -20,7 +20,10 @@ conformément au premier alinéa ;
 
 2° S'il est inscrit sur le tableau tenu par l'ordre.
 
-Les dispositions des articles L. 4311-16 à L. 4311-18, L. 4311-26 et L. 4311-27
-sont applicables aux masseurs-kinésithérapeutes.
+Les décisions mentionnées aux articles L. 4311-16 et L. 4311-18 sont prises par
+le conseil départemental de l'ordre des masseurs-kinésithérapeutes dans les
+conditions et selon les modalités précisées à ces articles. Les dispositions des
+articles L. 4311-26 et L. 4311-27 sont applicables aux
+masseurs-kinésithérapeutes.
 
 Les modalités d'application du présent article sont fixées par décret.

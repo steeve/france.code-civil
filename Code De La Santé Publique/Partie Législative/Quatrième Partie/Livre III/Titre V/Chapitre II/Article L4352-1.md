@@ -17,4 +17,10 @@ l'exception de ceux qui relèvent du service de santé des armées, que si ses
 diplômes, certificats, titres ou autorisation ont été enregistrés conformément
 au premier alinéa.
 
+Le manipulateur d'électroradiologie médicale, lors de la délivrance de
+l'autorisation ministérielle d'exercice, et le prestataire de services, lors de
+sa déclaration, doivent posséder les connaissances linguistiques nécessaires à
+l'exercice de la profession et celles relatives aux systèmes de poids et mesures
+utilisés en France.
+
 Les modalités d'application du présent article sont fixées par décret.

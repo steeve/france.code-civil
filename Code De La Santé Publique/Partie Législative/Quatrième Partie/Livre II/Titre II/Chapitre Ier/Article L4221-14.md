@@ -1,7 +1,5 @@
 Article L4221-14
 ----
-Tout pharmacien non titulaire du diplôme français d'Etat de docteur en pharmacie
-ou de pharmacien est tenu, dans tous les cas où il fait état de son titre ou de
-sa qualité de pharmacien, de faire figurer le lieu et l'établissement
-universitaire où il a obtenu le titre ou le certificat lui permettant d'exercer
-la profession de pharmacien.
+Le pharmacien peut faire usage de son titre de formation dans la langue de
+l'Etat qui le lui a délivré. Il est tenu de faire figurer le lieu et
+l'établissement où il l'a obtenu.

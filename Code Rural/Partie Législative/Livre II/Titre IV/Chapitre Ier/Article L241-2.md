@@ -17,9 +17,9 @@ décembre 1980 ou à une date antérieure à celle prévue par l'arrêté, ou
 sanctionnant une formation commencée avant ces dates, lorsque ce diplôme,
 certificat ou titre est accompagné d'un certificat délivré par l'autorité
 compétente de l'Etat concerné. Ce certificat atteste que ce diplôme, certificat
-ou titre est conforme à l'article 1er de la directive 78/1027/CEE du Conseil du
-18 décembre 1978, visant à la coordination des dispositions législatives,
-réglementaires et administratives concernant les activités du vétérinaire ;
+ou titre est conforme à la directive 2005 / 36 / CE du Parlement européen et du
+Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications
+professionnelles ;
 
 3° Soit d'un diplôme, certificat ou titre de vétérinaire délivré par un Etat
 membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace
@@ -45,11 +45,27 @@ délivrance de cette attestation ;
 5° Soit d'un diplôme, certificat ou titre de vétérinaire délivré par un Etat
 membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace
 économique européen ne répondant pas aux dénominations figurant sur cette liste
-à condition que ce diplôme, certificat ou titre soit accompagné d'un certifiant
+à condition que ce diplôme, certificat ou titre soit accompagné d'un certificat
 délivré par l'autorité compétente de l'Etat concerné. Ce certificat atteste que
 ce diplôme, certificat ou titre est assimilé à ceux dont les dénominations
 figurent sur cette liste et sanctionne une formation conforme aux dispositions
-de la directive 78/1027/CEE du Conseil du 18 décembre 1978.
+de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7
+septembre 2005 ;
+
+6° Soit d'un diplôme, certificat ou titre de vétérinaire n'ayant pas été délivré
+par un Etat membre de la Communauté européenne ou par un autre Etat partie à
+l'accord sur l'Espace économique européen, dès lors qu'il a été reconnu par un
+Etat membre de la Communauté européenne ou par un autre Etat partie à l'accord
+sur l'Espace économique européen et que son titulaire a acquis une expérience
+professionnelle de trois années au moins dans cet Etat, et attesté par celui-ci
+;
+
+7° Soit les titres de formation de vétérinaire délivrés par l'Estonie ou dont la
+formation a commencé dans cet Etat avant le 1er mai 2004 s'ils sont accompagnés
+d'une attestation déclarant que ces personnes ont effectivement et licitement
+exercé en Estonie les activités en cause pendant au moins cinq années
+consécutives au cours des sept années précédant la date de délivrance de
+l'attestation.
 
 Les diplômes, certificats et autres titres de vétérinaire délivrés par l'Italie
 sanctionnant des formations commencées avant le 1er janvier 1985 doivent être
