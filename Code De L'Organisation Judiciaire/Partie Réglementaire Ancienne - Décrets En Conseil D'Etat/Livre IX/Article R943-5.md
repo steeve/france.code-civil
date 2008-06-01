@@ -1,4 +1,0 @@
-Article R943-5
-----
-L'installation des magistrats du tribunal de première instance a lieu en
-audience solennelle.

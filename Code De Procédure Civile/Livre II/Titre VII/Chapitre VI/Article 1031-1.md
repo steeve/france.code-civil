@@ -11,3 +11,6 @@ décision non susceptible de recours, solliciter l'avis de la Cour de cassation
 en formulant la question de droit qu'il lui soumet. Il surseoit à statuer
 jusqu'à la réception de l'avis ou jusqu'à l'expiration du délai mentionné à
 l'article 1031-3.
+
+La saisine pour avis ne fait pas obstacle à ce que le juge ordonne des mesures
+d'urgence ou conservatoires nécessaires.

@@ -1,5 +1,0 @@
-Article R952-5
-----
-Le tribunal de première instance statue à charge d'appel lorsque le montant de
-la demande excède le taux de la compétence en dernier ressort des tribunaux
-d'instance prévu à l'article R. 321-2.

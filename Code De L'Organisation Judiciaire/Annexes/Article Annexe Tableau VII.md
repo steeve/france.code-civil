@@ -1,2 +1,0 @@
-Article Annexe Tableau VII
-----
