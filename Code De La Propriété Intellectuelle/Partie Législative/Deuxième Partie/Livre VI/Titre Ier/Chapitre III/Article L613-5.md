@@ -13,4 +13,7 @@ médicaments ainsi préparés ;
 
 d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise
 sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur
-réalisation et à l'obtention de l'autorisation.
+réalisation et à l'obtention de l'autorisation ;
+
+e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique
+introduits sur le territoire français.

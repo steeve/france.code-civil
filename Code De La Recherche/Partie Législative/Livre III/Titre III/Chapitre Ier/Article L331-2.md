@@ -24,4 +24,14 @@ France ;
 
 e) D'assurer soit directement, soit par des souscriptions ou l'octroi de
 subventions la publication de travaux scientifiques concernant les problèmes de
-l'espace.
+l'espace ;
+
+f) D'assister l'Etat dans la définition de la réglementation technique relative
+aux opérations spatiales ;
+
+g) D'exercer, par délégation du ministre chargé de l'espace, le contrôle de la
+conformité des systèmes et des procédures mis en œuvre par les opérateurs
+spatiaux avec la réglementation technique mentionnée au f ;
+
+h) De tenir, pour le compte de l'Etat, le registre d'immatriculation des objets
+spatiaux.
