@@ -19,6 +19,12 @@ survivant doit être joint à la déclaration des revenus souscrite par ce derni
 au titre de l'année du décès de son conjoint pour la période postérieure à cet
 événement.
 
+L'engagement de conservation des titres prévu au quatrième alinéa du m du 1° du
+I de l'article 31 du code général des impôts est constaté lors du dépôt de la
+déclaration des revenus de l'année au cours de laquelle la location au locataire
+ouvre droit pour la première fois à la déduction calculée en fonction du revenu
+brut.
+
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction
 calculée en fonction du revenu brut ou de la déduction au titre de
 l'amortissement sont inscrites, dans les trente jours suivant la date limite de
