@@ -1,170 +1,68 @@
 Article A43-4
 ----
-I. - Conformément aux dispositions de l'article R. 213-2, les réquisitions
-adressées dans les conditions prévues au présent code ayant pour objet les
-interceptions de communications de téléphonie donnent lieu à remboursement aux
-opérateurs de communications électroniques, sur facture et justificatifs, en
-appliquant à ces demandes, pour chacune des prestations demandées, le montant
-hors taxes des tarifs fixés dans le tableau annexé au présent arrêté (1).
+Conformément aux dispositions de l'article R. 121, les indemnités dues, en
+application des articles R. 121-1 et R. 121-2, aux personnes physiques
+enquêteurs de personnalité, contrôleurs judiciaires, délégués du procureur de la
+République ou médiateurs du procureur de la République, sont fixées par le
+tableau ci-après :
 
-II. - Conformément aux dispositions de l'article R. 213-1, les réquisitions
-adressées dans les conditions prévues au présent code ayant pour objet la
-production et la fourniture des données mentionnées à l'article R. 10-13 du code
-des postes et des communications électroniques donnent lieu à remboursement aux
-opérateurs de communications électroniques, sur facture et justificatifs, en
-appliquant à ces réquisitions, pour chacune des prestations demandées, le
-montant hors taxe des tarifs fixés dans les tableaux annexés au présent article.
-III. - Pour les prestations ne figurant pas dans les tableaux annexés, le
-montant du remboursement prévu aux I et II est déterminé sur devis.
+IP. ¹
 
+39
 
-CATÉGORIES DE DONNÉES
+IP. ²
 
-PRESTATIONS REQUISES
+74
 
-TARIFS (en euros)
+IP. ³
 
-Informations permettant d'identifier l'utilisateur.
+52
 
-Identification en nombre d'abonnés, à partir de leur numéro d'appel ou du numéro
-de leur carte SIM (avec ou sans coordonnées bancaires), demande copiable sous
-format électronique. Prix par numéro d'appel avec un minimum de perception de 20
-numéros.
+IP. 4
 
-0,65
+111
 
-Identification d'un abonné à partir de son numéro d'appel ou du numéro de sa
-carte SIM (avec ou sans coordonnées bancaires), demande reçue sous forme papier,
-par fax ou sous forme électronique non copiable.
+IP. 5
 
-6,50
+153
 
-Historique d'attribution d'un numéro d'appel, d'un numéro de carte SIM ou d'un
-identifiant d'abonné (numéro IMSI).
+IP. 6
 
-6,50
+8
 
-Identification d'abonnés à partir du patronyme ou de la raison sociale.
+IP. 7
 
-13,00
+16
 
-Identification des numéros d'appel et des abonnés associés à partir des moyens
-de paiement utilisés. Le coût de l'identification de l'abonné est inclus dans le
-tarif.
+IP. 8
 
-17,50
+16
 
-Identification d'un abonné et de ses moyens de paiement à partir d'un numéro
-d'appel ou de carte SIM. Le coût de l'identification de l'abonné est inclus dans
-le tarif.
+IP. 9
 
-17,50
+39
 
-Recherche de numéros d'appel ou identification d'un abonné à partir d'un numéro
-IMEI. Le coût de l'identification de l'abonné est inclus dans le tarif.
+IP. ¹0
 
-13,00
+16
 
-Recherche d'identifiants de téléphone mobile et identification d'abonné à partir
-d'un numéro d'appel ou d'un numéro de carte SIM. Le coût de l'identification de
-l'abonné est inclus dans le tarif.
+IP. 11
 
-13,00
+8
 
-Copie du contrat d'abonnement (fournie sous un mois).
+IP. 12
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+16
 
-Copie des documents annexés au contrat d'abonnement (fournie sous un mois).
+IP. 13
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+8
 
-Copie de factures (fournie sous un mois).
+IP. 14
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+10
 
-Données relatives aux équipements terminaux de communications utilisés.
-
-Fourniture du code de déblocage (code PUK) d'une carte SIM bloquée suite à trois
-tentatives infructueuses de mise en service.
-
-6,50
-
-Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque
-communication.
-
-Détail des trafics d'un abonné sur une période indivisible d'un mois.
-L'identification de l'abonné est en sus.
-
-17,50
-
-Détails des trafics à partir d'un numéro d'appel étranger ou vers un numéro
-d'appel étranger en itinérance sur le réseau de l'opérateur, sur une période
-indivisible d'un mois. L'identification des abonnés est en sus.
-
-17,50
-
-Détail géolocalisé des trafics d'un abonné sur une période indivisible d'un mois
-accompagné de l'adresse du relais téléphonique (cellule) par lequel les
-communications ont débuté, sur une période d'un mois. Le coût inclut
-l'identification de la totalité des cellules, l'identification des abonnés est
-en sus.
-
-35,00
-
-Détails géolocalisé des trafics en relation avec un abonné d'un opérateur
-étranger sur une période indivisible d'un mois accompagné de l'adresse du relais
-téléphonique (cellule) par lequel les communications ont débuté, sur une période
-d'un mois. Le coût inclut l'identification de la totalité des cellules,
-l'identification des abonnés est en sus.
-
-35,00
-
-Détail des trafics vers un abonné étranger sur une période indivisible d'un
-mois, l'identification de l'abonné est en sus.
-
-17,50
-
-Détail des trafics écoulés dans un relais téléphonique (cellule) sur une période
-de 4 heures au cours des douze derniers mois. L'identification des abonnés est
-en sus.
-
-17,50
-
-Détail des trafics écoulés dans un relais téléphonique (cellule) avec
-identification des abonnés sur une période de 4 heures au cours des douze
-derniers mois.
-
-17,50 + 0,65 par abonné identifié
-
-Données relatives aux services complémentaires demandés ou utilisés par les
-fournisseurs.
-
-Identification d'un prestataire de services à partir d'un numéro court.
-
-6,50
-
-Recherche de l'adresse d'un relais téléphonique (cellule) à partir de son numéro
-d'identification.
-
-6,50
-
-Carte de couverture optimale d'une cellule.
-
-17,50
-
-Carte de couverture secondaire d'une cellule.
-
-17,50
-
-Recherche de cellule à partir d'un lieu géographique (couverture optimale
-théorique).
-
-17,50
-
-Données permettant d'identifier le ou les destinataires de la communication.
-
-Recherche d'un point de vente à partir d'un numéro d'appel, d'un numéro de carte
-SIM, d'un identifiant d'abonné (IMSI) ou d'un identifiant de téléphone (IMEI).
-
-17,50
+L'indemnité IP. 14 prévue en cas de carence n'est applicable que lorsque qu'elle
+est inférieure à l'indemnité correspondant à l'accomplissement de la mission :
+elle n'est due qu'à la condition qu'au moins deux convocations aient été
+adressées à la personne faisant l'objet de la mesure.
