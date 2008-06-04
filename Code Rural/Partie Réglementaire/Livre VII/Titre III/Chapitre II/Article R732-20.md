@@ -1,4 +1,6 @@
 Article R732-20
 ----
-La durée maximale du remplacement, prévue à la dernière phrase de l'article L.
-732-12, est prolongée de deux semaines en cas d'adoptions multiples.
+En cas d'adoption, les assurées remplissant les conditions prévues à l'article
+R. 732-17 bénéficient d'une allocation de remplacement pendant une période
+maximale de dix semaines, de dix-huit semaines ou de vingt-deux semaines, dans
+les conditions fixées à l'article L. 331-7 du code de la sécurité sociale.

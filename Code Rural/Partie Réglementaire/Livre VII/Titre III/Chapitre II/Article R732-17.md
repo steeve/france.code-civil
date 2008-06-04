@@ -23,19 +23,8 @@ période d'affiliation au régime antérieur est prise en compte pour
 l'appréciation de la durée d'affiliation prévue à l'alinéa précédent, sous
 réserve qu'il n'y ait pas eu d'interruption entre les deux affiliations ;
 
-3° Dans le cas d'accouchement, cesser tout travail sur l'exploitation ou dans
-l'entreprise agricole pendant deux semaines au moins dans une période commençant
-six semaines avant la date présumée de l'accouchement et se terminant dix
-semaines après celui-ci ; cette limite est portée à douze semaines en cas de
-naissances multiples ou d'accouchement par césarienne ; elle est portée à
-quatorze semaines en cas de naissances multiples intervenant par césarienne.
-Lorsque l'accouchement survient avant la date prévue, la période pendant
-laquelle le remplacement peut intervenir est prolongée du nombre de jours
-correspondant quand l'accouchement intervient plus de six semaines avant la date
-initialement prévue et exige l'hospitalisation postnatale de l'enfant, la durée
-d'attribution de l'allocation est augmentée du nombre de jours courant de la
-date effective de l'accouchement au début de la période, mentionnée ci-dessus,
-commençant six semaines avant la date présumée de l'accouchement ;
+3° Dans le cas de maternité, cesser tout travail sur l'exploitation ou dans
+l'entreprise agricole pendant la période définie à l'article R. 732-19 ;
 
 4° Etre effectivement remplacées dans les travaux qu'elles effectuent sur
 l'exploitation ou dans l'entreprise par l'intermédiaire d'un groupement
