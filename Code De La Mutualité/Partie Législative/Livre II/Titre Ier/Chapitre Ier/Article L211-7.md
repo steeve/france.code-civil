@@ -18,15 +18,16 @@ Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrémen
 Avant l'octroi d'un agrément à une mutuelle ou union régie par le livre II du
 présent code qui est :
 
-a) Soit un organisme subordonné à un organisme assureur agréé dans un autre Etat
-membre ou partie à l'accord sur l'Espace économique européen ;
+a) Soit un organisme subordonné à un organisme assureur ou de réassurance agréé
+dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen
+;
 
 b) Soit un organisme subordonné à l'organisme de référence d'un organisme
-assureur agréé dans un autre Etat membre ou partie à l'accord sur l'Espace
-économique européen ;
+assureur ou de réassurance agréé dans un autre Etat membre ou partie à l'accord
+sur l'Espace économique européen ;
 
 c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle
-également un organisme assureur agréé dans un autre Etat membre ou partie à
-l'accord sur l'Espace économique européen, les autorités compétentes de l'autre
-Etat partie à l'accord sur l'Espace économique européen concerné sont
-consultées.
+également un organisme assureur ou de réassurance agréé dans un autre Etat
+membre ou partie à l'accord sur l'Espace économique européen, les autorités
+compétentes de l'autre Etat partie à l'accord sur l'Espace économique européen
+concerné sont consultées.

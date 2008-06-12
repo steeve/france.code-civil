@@ -1,10 +1,11 @@
 Article L322-4
 ----
 Les prises, extensions ou cessions de participations directes ou indirectes dans
-les entreprises mentionnées au 1° de l'article L. 310-2 peuvent être soumises à
-un régime de déclaration ou d'autorisation préalable, dans des conditions
-définies par décret en Conseil d'Etat. Ce régime vise à préserver les intérêts
-des assurés et à s'assurer que l'entreprise dispose d'une gestion saine et
+les entreprises mentionnées au 1° de l'article L. 310-2 et au 1° du III de
+l'article L. 310-1-1 peuvent être soumises à un régime de déclaration ou
+d'autorisation préalable, dans des conditions définies par décret en Conseil
+d'Etat. Ce régime vise à préserver les intérêts des assurés ou des entreprises
+réassurées et à s'assurer que l'entreprise dispose d'une gestion saine et
 prudente. Ces dispositions s'appliquent également aux prises, extensions ou
 cessions de participations dans des sociétés de groupe d'assurance dont le siège
 social est situé en France ainsi que dans des compagnies financières holdings
@@ -38,5 +39,5 @@ d'assurances peut, s'il l'estime nécessaire à sa complète information, rendre
 décision sur le fondement du présent article après la décision rendue par le
 ministre chargé de l'économie en application des articles L. 430-1 et suivants
 du code de commerce ou celle rendue par la Commission européenne en application
-du règlement (CEE) n° 4064/89 du Conseil, du 21 décembre 1989, relatif au
+du règlement (CEE) n° 4064 / 89 du Conseil, du 21 décembre 1989, relatif au
 contrôle des opérations de concentration entre entreprises.

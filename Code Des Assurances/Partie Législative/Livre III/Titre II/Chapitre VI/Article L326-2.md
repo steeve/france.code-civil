@@ -1,11 +1,13 @@
 Article L326-2
 ----
-La décision du Comité des entreprises d'assurance ou de la l'Autortié de
-contrôle des assurances et des mutuelles prononçant le retrait total de
-l'agrément administratif emporte de plein droit, à dater de sa publication, si
-elle concerne une entreprise française, la dissolution de la personne morale ou,
-si elle concerne une entreprise étrangère, la liquidation de l'actif et du
-passif du bilan spécial de ses opérations en France.
+La décision du Comité des entreprises d'assurance ou de l'Autorité de contrôle
+des assurances et des mutuelles prononçant, dans les conditions mentionnées à
+l'article L. 325-1 ou à l'article L. 310-18, le retrait total de l'agrément
+administratif d'une entreprise d'assurance emporte de plein droit, à dater de sa
+publication, si elle concerne une entreprise ayant son siège social en France,
+la dissolution de l'entreprise ou, si elle concerne une entreprise n'ayant pas
+son siège social en France, la liquidation de l'actif et du passif du bilan
+spécial de ses opérations en France.
 
 Dans les deux cas, la liquidation judiciaire est ouverte à la requête de
 l'Autorité de contrôle des assurances et des mutuelles. Elle est régie par le

@@ -2,11 +2,11 @@ Article L322-4-1
 ----
 Le Comité des entreprises d'assurance informe la Commission européenne et les
 autorités compétentes mentionnées au 11° de l'article L. 334-2 de toute prise de
-participation susceptible de conférer le contrôle d'une entreprise mentionnée à
-l'article L. 310-1 et visée au 1° de l'article L. 310-2 à une entreprise dont le
-siège social est situé dans un Etat non partie à l'accord sur l'Espace
-économique européen. Le contrôle s'entend au sens des articles L. 233-3 et L.
-233-16 du code de commerce.
+participation susceptible de conférer le contrôle d'une entreprise mentionnée au
+1° de l'article L. 310-2 ou au 1° du III de l'article L. 310-1-1 à une
+entreprise dont le siège social est situé dans un Etat non partie à l'accord sur
+l'Espace économique européen. Le contrôle s'entend au sens des articles L. 233-3
+et L. 233-16 du code de commerce.
 
 Sur demande de l'autorité compétente des communautés européennes, dans les
 circonstances mentionnées au deuxième alinéa de l'article L. 321-2, le Comité

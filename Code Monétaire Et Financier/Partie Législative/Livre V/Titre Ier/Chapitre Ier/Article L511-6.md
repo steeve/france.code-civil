@@ -8,7 +8,7 @@ aux dispositions du livre II du code de la mutualité pour les opérations visé
 au e du 1° de l'article L. 111-1 dudit code, ni les entreprises
 d'investissement, ni les organismes collecteurs de la participation des
 employeurs à l'effort de construction pour les opérations prévues par le code de
-la construction et de l'habitation, ni les fonds communs de créances, ni les
+la construction et de l'habitation, ni les organismes de titrisation, ni les
 organismes de placement collectif en valeurs mobilières ni les organismes de
 placement collectif immobilier.
 

@@ -1,11 +1,12 @@
 Article L951-10
 ----
-Lorsqu'une institution, une union ou un groupement a enfreint une disposition
-législative ou réglementaire dans le domaine relevant du contrôle de l'Autorité,
-ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution
-des engagements qu'elle a contractés envers les membres participants, ayants
-droit ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou à celle de
-ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en
+Lorsqu'une institution, une union ou un groupement exerçant une activité
+d'assurance ou de réassurance a enfreint une disposition législative ou
+réglementaire dans le domaine relevant du contrôle de l'Autorité, ou a des
+pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
+engagements qu'elle a contractés envers les membres participants, ayants droit
+ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou à celle de ses
+dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en
 fonction de la gravité du manquement :
 
 1° L'avertissement ;
@@ -20,7 +21,7 @@ dans l'exercice de l'activité ;
 4° bis La démission d'office d'un ou plusieurs dirigeants de l'institution de
 prévoyance ou de l'union ;
 
-5° Le retrait total ou partiel d'agrément ou d'autorisation ;
+5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie de portefeuille de bulletins
 d'adhésion à des règlements, de contrats ou d'opérations.

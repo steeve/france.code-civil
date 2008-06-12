@@ -3,7 +3,7 @@ Article L532-9
 Les sociétés de gestion de portefeuille sont des entreprises d'investissement
 qui fournissent, à titre principal, le service d'investissement mentionné au 4
 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement
-collectifs mentionnés aux 1 et 5 du I de l'article L. 214-1.
+collectifs mentionnés aux 1, 2 et 5 du I de l'article L. 214-1.
 
 Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés
 financiers.
@@ -11,7 +11,7 @@ financiers.
 Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité
 vérifie si celle-ci :
 
-1. A son siège social et sa direction effective en France ;
+1.A son siège social et sa direction effective en France ;
 
 2. Dispose d'un capital initial suffisant ainsi que des moyens financiers
 adaptés et suffisants ;

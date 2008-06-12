@@ -1,11 +1,11 @@
 Article L310-14
 ----
-L'Autorité peut demander aux entreprises visées aux articles L. 310-1 et L.
-310-1-1, aux sociétés de groupe d'assurance, aux sociétés de groupe mixte
-d'assurance définies à l'article L. 322-1-2 et aux compagnies financières
-holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées
-au quatrième alinéa de l'article L. 310-12 toutes informations nécessaires à
-l'exercice de sa mission.
+L'Autorité peut demander aux entreprises visées à l'article L. 310-1 et au 1° du
+III de l'article L. 310-1-1, aux sociétés de groupe d'assurance, aux sociétés de
+groupe mixte d'assurance définies à l'article L. 322-1-2 et aux compagnies
+financières holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes
+mentionnées au quatrième alinéa de l'article L. 310-12 toutes informations
+nécessaires à l'exercice de sa mission.
 
 Elle peut leur demander la communication des rapports des commissaires aux
 comptes et, d'une manière générale, de tous documents comptables dont elle peut,
@@ -20,11 +20,12 @@ réglementaires. Dans ce cas, elle statue dans les conditions prévues à l'arti
 L. 310-18.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises
-visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de groupe d'assurance
-sont régulièrement effectuées. Elle peut ordonner aux entreprises concernées de
-procéder à des publications rectificatives dans le cas où des inexactitudes ou
-des omissions auraient été relevées. Elle peut porter à la connaissance du
-public toutes informations qu'elle estime nécessaires.
+visées à l'article L. 310-1 et au 1° du III de l'article L. 310-1-1 et les
+sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut ordonner
+aux entreprises concernées de procéder à des publications rectificatives dans le
+cas où des inexactitudes ou des omissions auraient été relevées. Elle peut
+porter à la connaissance du public toutes informations qu'elle estime
+nécessaires.
 
 L'Autorité de contrôle des assurances peut demander aux entreprises soumises à
 une surveillance complémentaire en application de l'article L. 334-3 les données

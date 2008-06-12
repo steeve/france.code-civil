@@ -1,9 +1,9 @@
 Article L211-8
 ----
-Pour accorder l'agrément, l'autorité administrative s'assure que les éléments du
-programme d'activité établi selon les principes définis par arrêté du ministre
-chargé de la mutualité sont adaptés à la nature des activités que l'organisme se
-propose d'exercer.
+Pour accorder l'agrément prévu à l'article L. 211-7 ou L. 211-7-2, l'autorité
+administrative s'assure que les éléments du programme d'activité établi selon
+les principes définis par arrêté du ministre chargé de la mutualité sont adaptés
+à la nature des activités que l'organisme se propose d'exercer.
 
 Elle s'assure également que les moyens administratifs, notamment d'encadrement,
 et les moyens techniques et financiers dont la mise en oeuvre est proposée sont

@@ -21,7 +21,7 @@ Il établit un rapport qui rend compte de son activité. Ce rapport est adressé
 Président de la République, au Premier ministre et au Parlement.
 
 Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles
-et des unions prévu aux articles L. 211-7 et L. 211-8.
+et des unions prévu aux articles L. 211-7, L. 211-7-2 et L. 211-8.
 
 Il gère pour le compte de l'Etat le fonds national de solidarité et d'action
 mutualistes.

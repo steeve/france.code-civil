@@ -1,11 +1,12 @@
 Article L510-11
 ----
-Lorsqu'une mutuelle, une union ou une fédération a enfreint une disposition
-législative ou réglementaire dans le domaine relevant du contrôle de l'Autorité
-ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution
-des engagements qu'elle a contractés envers les membres participants, ayants
-droit ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou celle de
-ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en
+Lorsqu'une mutuelle, une union exerçant des activités d'assurance ou de
+réassurance ou une fédération a enfreint une disposition législative ou
+réglementaire dans le domaine relevant du contrôle de l'Autorité ou a des
+pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
+engagements qu'elle a contractés envers les membres participants, ayants droit
+ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou celle de ses
+dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en
 fonction de la gravité du manquement :
 
 1° L'avertissement ;

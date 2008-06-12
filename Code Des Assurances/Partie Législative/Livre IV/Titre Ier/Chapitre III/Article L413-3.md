@@ -12,17 +12,16 @@ Conseil d'Etat ;
 2° Un membre de la Cour de cassation, nommé sur proposition du premier président
 de la Cour de cassation ;
 
-3° Deux représentants des entreprises d'assurance ;
+3° Deux représentants des entreprises d'assurance mentionnées à l'article L.
+310-1 ;
 
-4° Un représentant des entreprises mentionnées à l'article L. 310-1-1 ;
+4° Un représentant des entreprises de réassurance mentionnées au 1° du III de
+l'article L. 310-1-1 ;
 
 5° Un représentant du personnel des entreprises d'assurance ;
 
 6° Deux personnalités choisies en raison de leur compétence en matière
 d'assurance.
-
-La personne mentionnée au 4° dispose d'une voix délibérative pour les seules
-décisions intéressant les entreprises mentionnées à l'article L. 310-1-1.
 
 Un représentant du ministre chargé de l'agriculture participe aux travaux du
 comité avec voix délibérative lorsqu'est examiné le cas d'un établissement ou

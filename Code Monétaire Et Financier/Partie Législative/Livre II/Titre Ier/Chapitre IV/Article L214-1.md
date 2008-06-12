@@ -1,10 +1,10 @@
 Article L214-1
 ----
-I. - Les organismes de placements collectifs sont :
+I.-Les organismes de placements collectifs sont :
 
 1. Les organismes de placement collectif en valeurs mobilières ;
 
-2. Les fonds communs de créance ;
+2. Les organismes de titrisation ;
 
 3. Les sociétés civiles de placement immobilier.
 
@@ -12,4 +12,7 @@ I. - Les organismes de placements collectifs sont :
 
 5. Les organismes de placement collectif immobilier.
 
-II. - Paragraphe transfèré à l'article L543-1.
+II.-Tout organisme de placement collectif doit, préalablement à sa
+commercialisation sur le territoire de la République française, faire l'objet
+d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret
+définit les conditions de délivrance de cette autorisation.

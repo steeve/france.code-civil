@@ -7,4 +7,4 @@ indirectement, à une quotité du capital de la personne morale émettrice ou à
 droit de créance général sur son patrimoine.
 
 Sont également des valeurs mobilières les parts de fonds communs de placement,
-les parts de fonds de placement immobilier et de fonds communs de créance.
+les parts de fonds de placement immobilier et de fonds communs de titrisation .

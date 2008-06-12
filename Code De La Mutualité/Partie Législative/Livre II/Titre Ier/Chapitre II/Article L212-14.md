@@ -19,3 +19,9 @@ ses dirigeants, son organisation, sa situation financière et les moyens mis en
 oeuvre sont communiqués à l'Autorité qui peut, dans les conditions mentionnées à
 l'article L. 510-7, réaliser tous contrôles sur pièces et sur place du
 délégataire, jusqu'à liquidation intégrale des engagements.
+
+En cas de liquidation d'une mutuelle ou union de réassurance agréée dans les
+conditions prévues à l'article L. 211-7-2, les engagements résultant des
+contrats souscrits par l'intermédiaire d'une succursale ou en libre prestation
+de services sont exécutés de la même façon que les engagements résultant des
+autres contrats de réassurance de cet organisme.

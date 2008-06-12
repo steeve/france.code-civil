@@ -5,16 +5,16 @@ les établissements de crédit pour mobiliser des créances à long terme destin
 au financement d'un bien immobilier situé en France ou dans les autres Etats de
 l'Espace économique européen et garanties :
 
-- par une hypothèque de premier rang ou une sûreté immobilière conférant une
+-par une hypothèque de premier rang ou une sûreté immobilière conférant une
 garantie au moins équivalente ;
 
-- ou par un cautionnement consenti par un établissement de crédit ou une
+-ou par un cautionnement consenti par un établissement de crédit ou une
 entreprise d'assurance n'entrant pas dans le périmètre de consolidation défini à
 l'article L. 233-16 du code de commerce dont relève l'établissement de crédit
 émetteur du billet à ordre.
 
 Sont assimilées aux créances mentionnées ci-dessus les parts ou titres de
-créances émis par des fonds communs de créances, dès lors que l'actif de ces
+créances émis par des organismes de titrisation, dès lors que l'actif de ces
 fonds est composé, à hauteur de 90 % au moins, de créances de même nature, à
 l'exclusion des parts spécifiques ou titres de créances supportant le risque de
 défaillance des débiteurs des créances.

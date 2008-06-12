@@ -18,4 +18,4 @@ Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique
 européen ;
 
 Elle consulte l'autorité chargée de la surveillance des établissements de crédit
-ou des entreprises d'investissement.
+ou des entreprises d'investissement de l'Etat concerné.

@@ -12,13 +12,19 @@ constitue avec l'organisme contrôlé un groupe au sens de l'article L. 212-7.
 Cette extension du contrôle ne peut avoir d'autre objet que la vérification de
 la situation financière réelle de la mutuelle ou de l'union contrôlée, le
 respect par cette mutuelle ou cette union des engagements qu'elle a contractés
-auprès des membres participants et bénéficiaires ou la capacité des personnes
-morales qui lui sont apparentées à participer à d'éventuelles mesures de
-redressement ou de sauvegarde de cette mutuelle ou union.
+auprès des membres participants et bénéficiaires et des organismes réassurés ou
+la capacité des personnes morales qui lui sont apparentées à participer à
+d'éventuelles mesures de redressement ou de sauvegarde de cette mutuelle ou
+union.
+
+Les contrôles sur place peuvent également, dans le cadre de conventions
+internationales, être étendus aux succursales ou filiales de mutuelles ou
+d'unions pratiquant l'assurance ou la réassurance.
 
 L'Autorité de contrôle peut procéder à la vérification sur place des
 informations nécessaires à la surveillance complémentaire instituée à l'article
-L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés.
+L. 212-7-2 auprès de la mutuelle ou l'union d'assurance ou de réassurance et de
+ses organismes apparentés.
 
 Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L.
 212-7-2, l'Autorité souhaite vérifier des informations utiles à l'exercice de sa
@@ -29,7 +35,7 @@ soit procédé à cette vérification. Lorsque les autorités d'un Etat membre d
 Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen souhaitent, dans des cas déterminés, vérifier des
 informations utiles à l'exercice de leur surveillance concernant une mutuelle ou
-union apparentée à une entreprise d'assurance soumise à leur surveillance
-complémentaire, l'Autorité de contrôle doit répondre à leur demande soit en
-procédant elle-même à cette vérification, soit en permettant à des personnes
-désignées par ces autorités d'y procéder.
+union apparentée à une entreprise d'assurance ou de réassurance soumise à leur
+surveillance complémentaire, l'Autorité de contrôle doit répondre à leur demande
+soit en procédant elle-même à cette vérification, soit en permettant à des
+personnes désignées par ces autorités d'y procéder.
