@@ -1,7 +1,6 @@
 Article R4614-34
 ----
-Les dépenses correspondant à la rémunération des organismes de formation sont
-prises en charge par l'employeur à hauteur d'un montant qui ne peut excéder, par
-jour et par stagiaire, une fois et demie le montant de l'aide financière
-accordée par l'Etat pour la formation des conseillers prud'hommes en application
-des articles L. 1442-1 et L. 1442-2.
+Les dépenses afférentes à la rémunération des organismes de formation sont
+prises en charge par l'employeur, à concurrence d'un montant qui ne peut
+dépasser, par jour et par stagiaire, l'équivalent de trente-six fois le montant
+horaire du salaire minimum de croissance.
