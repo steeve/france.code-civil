@@ -5,9 +5,10 @@ exonération partielle des cotisations techniques et complémentaires d'assuranc
 maladie, invalidité et maternité, de prestations familiales et d'assurance
 vieillesse agricole dont ils sont redevables pour eux-mêmes.
 
-Cette exonération partielle est applicable pendant les cinq années civiles qui
-suivent celle au cours de laquelle ils bénéficient des prestations d'assurance
-maladie du régime des non-salariés agricoles.
+Cette exonération partielle est applicable aux jeunes chefs d'exploitation ou
+d'entreprise agricole exerçant leur activité agricole à titre exclusif ou
+principal qui bénéficient des prestations d'assurance maladie du régime des
+non-salariés agricoles.
 
 Pour bénéficier de cette exonération partielle, les jeunes chefs d'exploitation
 ou d'entreprise agricole doivent être âgés de dix-huit ans au moins et de
