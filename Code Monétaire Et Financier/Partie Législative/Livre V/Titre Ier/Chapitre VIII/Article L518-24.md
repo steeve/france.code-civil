@@ -6,7 +6,7 @@ ans sans que le compte auquel ces sommes ont été portées ait donné lieu à u
 opération de versement ou de remboursement, ou sans qu'il ait été signifié à la
 caisse des dépôts, soit la réquisition de paiement dont les modalités sont
 fixées par l'article 15 de l'ordonnance du 3 juillet 1816, soit l'un des actes
-mentionnés par l'article 2244 du code civil.
+mentionnés par les articles 2241 et 2244 du code civil.
 
 Six mois au plus tard avant l'échéance de ce délai, la Caisse des dépôts et
 consignations avise, par lettre recommandée, les ayants droit connus de la

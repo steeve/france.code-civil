@@ -1,4 +1,6 @@
 Article 2251
 ----
-La prescription court contre toutes personnes, à moins qu'elles ne soient dans
-quelque exception établie par une loi.
+La renonciation à la prescription est expresse ou tacite.
+
+La renonciation tacite résulte de circonstances établissant sans équivoque la
+volonté de ne pas se prévaloir de la prescription.

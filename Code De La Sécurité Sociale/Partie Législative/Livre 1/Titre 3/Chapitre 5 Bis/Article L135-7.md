@@ -29,8 +29,8 @@ et reçues en consignation par la Caisse des dépôts et consignations ou résul
 de la liquidation des parts de fond commun de placement par les organismes
 gestionnaires, des titres émis par des SICAV, des actions émises par les
 sociétés créées par les salariés en vue de la reprise de leur entreprise ou des
-actions ou coupures d'actions de l'entreprise, au terme de la prescription fixée
-par l'article 2262 du code civil ;
+actions ou coupures d'actions de l'entreprise, n'ayant fait l'objet de la part
+des ayants droit d'aucune opération ou réclamation depuis trente années. ;
 
 8° Le produit de la contribution instituée à l'article L. 137-5 ;
 

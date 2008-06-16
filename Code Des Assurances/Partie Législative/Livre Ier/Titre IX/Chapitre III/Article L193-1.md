@@ -10,3 +10,5 @@ cas échéant, avec les adaptations prévues dans le présent titre ;
 présent code applicables à Mayotte à des dispositions qui n'y sont pas
 applicables sont remplacées par les références aux dispositions ayant le même
 objet applicables localement.
+
+L'article L. 114-3 est applicable à Mayotte.

@@ -1,4 +1,4 @@
 Article 2223
 ----
-Les juges ne peuvent pas suppléer d'office le moyen résultant de la
-prescription.
+Les dispositions du présent titre ne font pas obstacle à l'application des
+règles spéciales prévues par d'autres lois.

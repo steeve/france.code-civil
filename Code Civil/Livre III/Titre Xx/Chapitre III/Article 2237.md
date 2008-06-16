@@ -1,4 +1,4 @@
 Article 2237
 ----
-Les héritiers de ceux qui tenaient la chose à quelqu'un des titres désignés par
-l'article précédent ne peuvent non plus prescrire.
+Elle ne court pas ou est suspendue contre l'héritier acceptant à concurrence de
+l'actif net, à l'égard des créances qu'il a contre la succession.

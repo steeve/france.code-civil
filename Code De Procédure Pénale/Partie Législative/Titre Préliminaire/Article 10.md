@@ -1,8 +1,8 @@
 Article 10
 ----
-L'action civile se prescrit selon les règles du code civil. Toutefois, cette
-action ne peut plus être engagée devant la juridiction répressive après
-l'expiration du délai de prescription de l'action publique.
+Lorsque l'action civile est exercée devant une juridiction répressive, elle se
+prescrit selon les règles de l'action publique. Lorsqu'elle est exercée devant
+une juridiction civile, elle se prescrit selon les règles du code civil.
 
 Lorsqu'il a été statué sur l'action publique, les mesures d'instruction
 ordonnées par le juge pénal sur les seuls intérêts civils obéissent aux règles

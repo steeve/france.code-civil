@@ -6,5 +6,5 @@ du salaire et des indemnités ou accessoires de salaire qui lui sont dus en
 application de la loi, du règlement, d'une convention ou d'un accord collectif
 de travail ou d'un contrat.
 
-Cette acceptation ne peut valoir non plus compte arrêté et réglé au sens des
-articles 2274 du code civil et 1269 du nouveau code de procédure civile.
+Cette acceptation ne peut valoir non plus compte arrêté et réglé au sens de
+l'article 1269 du code de procédure civile.

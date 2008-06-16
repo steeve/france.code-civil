@@ -1,7 +1,7 @@
 Article L110-4
 ----
 I.-Les obligations nées à l'occasion de leur commerce entre commerçants ou entre
-commerçants et non-commerçants se prescrivent par dix ans si elles ne sont pas
+commerçants et non-commerçants se prescrivent par cinq ans si elles ne sont pas
 soumises à des prescriptions spéciales plus courtes.
 
 II.-Sont prescrites toutes actions en paiement :
@@ -15,5 +15,4 @@ livraison ;
 3° Pour ouvrages faits, un an après la réception des ouvrages.
 
 III.-Les actions en paiement des salaires des officiers, matelots et autres
-membres de l'équipage se prescrivent par cinq ans conformément à l'article 2277
-du code civil.
+membres de l'équipage se prescrivent par cinq ans .

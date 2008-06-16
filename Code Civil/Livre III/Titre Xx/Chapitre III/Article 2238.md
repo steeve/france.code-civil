@@ -1,6 +1,11 @@
 Article 2238
 ----
-Néanmoins, les personnes énoncées dans les articles 2236 et 2237 peuvent
-prescrire, si le titre de leur possession se trouve interverti, soit par une
-cause venant d'un tiers, soit par la contradiction qu'elles ont opposée au droit
-du propriétaire.
+La prescription est suspendue à compter du jour où, après la survenance d'un
+litige, les parties conviennent de recourir à la médiation ou à la conciliation
+ou, à défaut d'accord écrit, à compter du jour de la première réunion de
+médiation ou de conciliation.
+
+Le délai de prescription recommence à courir, pour une durée qui ne peut être
+inférieure à six mois, à compter de la date à laquelle soit l'une des parties ou
+les deux, soit le médiateur ou le conciliateur déclarent que la médiation ou la
+conciliation est terminée.

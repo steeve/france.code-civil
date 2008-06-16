@@ -15,7 +15,7 @@ l'autorisation qui est publiée au fichier immobilier ou inscrite au livre
 foncier.
 
 L'usage des locaux définis à l'article L. 631-7 n'est en aucun cas affecté par
-la prescription trentenaire prévue par l'article 2262 du code civil.
+la prescription trentenaire prévue par l'article 2227 du code civil.
 
 Dans chaque département où l'article L. 631-7 est applicable, le préfet prend un
 arrêté fixant les conditions dans lesquelles sont délivrées les autorisations et

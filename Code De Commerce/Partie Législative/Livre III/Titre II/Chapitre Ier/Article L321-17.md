@@ -12,4 +12,4 @@ interdites et réputées non écrites.
 
 Les actions en responsabilité civile engagées à l'occasion des prisées et des
 ventes volontaires et judiciaires de meuble aux enchères publiques se
-prescrivent par dix ans à compter de l'adjudication ou de la prisée.
+prescrivent par cinq ans à compter de l'adjudication ou de la prisée.
