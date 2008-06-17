@@ -20,7 +20,7 @@ collectif.
 
 2. Dénomination.
 
-La dénomination de la société est : ... société anonyme coopérative d'intérêt
+La dénomination de la société est :... société anonyme coopérative d'intérêt
 collectif d'habitations à loyer modéré, société à capital variable.
 
 5. Capital social.
@@ -28,28 +28,27 @@ collectif d'habitations à loyer modéré, société à capital variable.
 Le capital est variable et entièrement libéré lors de la souscription de parts
 sociales.
 
-Le capital statutaire est fixé à la somme de ... euros. Il ne peut être
-inférieur à celui exigé par la loi du 10 septembre 1947 précitée (article 27 et
-27 bis), ni supérieur au plafond d'émission fixé par l'assemblée générale
-extraordinaire.
+Le capital statutaire est fixé à la somme de... euros. Il ne peut être inférieur
+à celui exigé par la loi du 10 septembre 1947 précitée (article 27 et 27 bis),
+ni supérieur au plafond d'émission fixé par l'assemblée générale extraordinaire.
 
 Les associés sont répartis entre, au moins, les trois catégories d'associés
 suivantes :
 
-- les salariés de la coopérative regroupant les salariés de la société et les
+-les salariés de la coopérative regroupant les salariés de la société et les
 fonds communs de placement de valeurs mobilières qui leur sont réservés ;
 
-- les personnes bénéficiant habituellement à titre gratuit ou onéreux des
+-les personnes bénéficiant habituellement à titre gratuit ou onéreux des
 activités de la coopérative, regroupant notamment les personnes physiques ayant
 recours aux services de la société dans le cadre des activités qu'elle exerce en
-application de la clause type 3 "Objet social", les sociétés civiles de
+application de la clause type 3 " Objet social ", les sociétés civiles de
 construction, les sociétés de construction constituées en application du titre
 Ier du livre II du code de la construction et de l'habitation, ainsi que, sur
 leur demande, les accédants à la propriété qui acquièrent leur logement auprès
 d'une société de construction constituée, en application des dispositions
 précitées, sous l'égide de la société ;
 
-- les collectivités publiques et leurs groupements.
+-les collectivités publiques et leurs groupements.
 
 Les réductions de capital effectuées dans les cas prévus au dernier alinéa de
 l'article L. 423-5 du code de la construction et de l'habitation doivent être
@@ -57,7 +56,7 @@ réalisées dans le respect des conditions fixées par cet article.
 
 La société ne peut procéder à l'amortissement de son capital.
 
-6. Retraits - Exclusions.
+6. Retraits-Exclusions.
 
 Le capital peut être réduit par suite de reprises d'apports consécutives au
 départ ou à l'exclusion d'associés. Le retrait ou l'exclusion d'associés ne peut
@@ -87,7 +86,7 @@ de leur retrait ou de leur exclusion.
 9. Situation des administrateurs et membres du conseil de surveillance.
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance
-est exercé à titre gratuit dans les conditions prévues à l'article R. 421-56 du
+est exercé à titre gratuit dans les conditions prévues à l'article R. 421-10 du
 code de la construction et de l'habitation. Toutefois, tout associé salarié de
 la société peut être nommé en qualité de membre du conseil d'administration ou
 du conseil de surveillance sans perdre le bénéfice de son contrat de travail.
@@ -105,16 +104,16 @@ loi du 10 septembre 1947 précitée.
 Le nombre de voix attribuées à chaque collège est fixé dans les conditions
 suivantes :
 
-- collège des salariés : ... (1) ;
+-collège des salariés :... (1) ;
 
-- collège des personnes bénéficiant habituellement à titre gratuit ou onéreux
-des activités de la coopérative : ... (1) ;
+-collège des personnes bénéficiant habituellement à titre gratuit ou onéreux des
+activités de la coopérative :... (1) ;
 
-- collège des collectivités publiques et leurs groupements :
+-collège des collectivités publiques et leurs groupements :
 
 ... (1) ;
 
-- collège ... : ... (1).
+-collège... :... (1).
 
 Le collège des salariés ne peut détenir plus de 15 % des droits de vote.
 

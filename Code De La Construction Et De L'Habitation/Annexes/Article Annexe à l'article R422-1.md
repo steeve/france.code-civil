@@ -121,13 +121,14 @@ construction et de l'habitation, de gérer, en qualité d'administrateur de bien
 des logements situés dans des copropriétés connaissant des difficultés
 importantes de fonctionnement ou être syndic de ces copropriétés ;
 
-18° Dans les copropriétés mentionnées au 1° ci-dessus qui font l'objet d'un plan
-de sauvegarde en application de l'article L. 615-1 du code de la construction et
-de l'habitation ou d'une opération programmée d'amélioration de l'habitat prévue
-à l'article L. 303-1 du même code et dédiée aux copropriétés dégradées,
-d'acquérir des lots en vue de leur revente, d'y effectuer tous travaux et de les
-louer provisoirement. Les dispositions du 7° de l'article R. 421-4 du même code
-sont applicables aux conditions de revente et de location de ces lots ;
+18° Dans les copropriétés mentionnées au 17° ci-dessus qui font l'objet d'un
+plan de sauvegarde en application de l'article L. 615-1 du code de la
+construction et de l'habitation ou d'une opération programmée d'amélioration de
+l'habitat prévue à l'article L. 303-1 du même code et dédiée aux copropriétés
+dégradées, d'acquérir des lots en vue de leur revente, d'y effectuer tous
+travaux et de les louer provisoirement. Les dispositions du 3° de l'article R.
+421-2 du même code sont applicables aux conditions de revente et de location de
+ces lots ;
 
 19° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde en
@@ -157,8 +158,8 @@ du code de la construction et de l'habitation, des logements appartenant à des
 personnes privées et vacants depuis plus d'un an ;
 
 24° De réaliser des hébergements de loisirs à vocation sociale dans les
-conditions prévues aux articles L. 421-1, R. 421-4 (6°) et R. 421-4-1 du code de
-la construction et de l'habitation ;
+conditions prévues aux articles L. 421-3 (6°) et R. 421-2 (2°) du code de la
+construction et de l'habitation ;
 
 25° De se voir confier par convention la réalisation d'une opération de
 restructuration urbaine qui peut comprendre toutes opérations ou actions ou tous
@@ -274,7 +275,7 @@ une commune de plus de 15 000 habitants, communauté urbaine, communauté
 d'agglomération, syndicat d'agglomération nouvelle, département ou région sur le
 territoire duquel ou de laquelle la société possède des logements ou des
 logements-foyers, lorsqu'il ou elle n'est pas actionnaire de la société, est en
-droit d'acquérir une action de l'actionnaire de référence. L'acquisition se fait
+droit d'acquérir une action de l'actionnaire de référence.L'acquisition se fait
 au prix symbolique de dix centimes d'euro.
 
 La cession est consentie par l'actionnaire de référence ou l'un quelconque des
@@ -357,7 +358,7 @@ même article sont membres du conseil de surveillance.
 8. Situation des administrateurs et membres du conseil de surveillance.
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance
-est exercé à titre gratuit dans les conditions prévues à l'article R. 421-56 du
+est exercé à titre gratuit dans les conditions prévues à l'article R. 421-10 du
 code de la construction et de l'habitation. Il en est de même des fonctions de
 direction générale ou de direction générale déléguée exercées par le président
 du conseil d'administration ou par tout administrateur.
@@ -404,7 +405,7 @@ modéré que si elle en détient au moins 5 % du capital et après y avoir été
 autorisée par le ministre chargé de l'économie et le ministre chargé du
 logement. Ces avances sont rémunérées sans que le taux appliqué puisse excéder
 le taux d'intérêt servi au détenteur d'un premier livret de caisse d'épargne,
-majoré de 1,5 point.
+majoré de 1, 5 point.
 
 12. Résultat de l'exercice.
 
@@ -412,7 +413,7 @@ Lorsque la société a réalisé un bénéfice distribuable au sens de l'article
 232-11 du code de commerce, il ne peut être distribué un dividende supérieur à
 un pourcentage de la valeur nominale des actions égal ou inférieur au taux
 d'intérêt servi au détenteur d'un premier livret d'une caisse d'épargne au 31
-décembre de l'année précédente, majoré de 1,5 point.
+décembre de l'année précédente, majoré de 1, 5 point.
 
 13. Attribution de l'actif.
 

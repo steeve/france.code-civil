@@ -1,18 +1,18 @@
 Article R*421-21
 ----
-Sur proposition du conseil d'administration, la rémunération du directeur
-général est fixée :
+Le préfet peut se faire représenter pour l'exercice des fonctions de commissaire
+du Gouvernement.
 
-- soit conjointement par le ministre chargé de la construction et de
-l'habitation et le ministre chargé des finances si elle dépasse un montant
-déterminé par ces deux ministres ;
+Il assiste, avec voix consultative, aux séances du conseil d'administration. Il
+reçoit dans les mêmes conditions que les membres du conseil d'administration les
+convocations, ordres du jour et tous autres documents qui doivent leur être
+adressés avant chaque séance. Il reçoit également copie des procès-verbaux
+desdites séances ainsi que des décisions prises par délégation du conseil
+d'administration.
 
-- soit par le préfet du département du siège de l'office public d'aménagement et
-de construction, après avis du trésorier-payeur général, dans le cas contraire.
+Pour l'exécution de sa mission, le commissaire du Gouvernement a tous pouvoirs
+d'investigation sur pièces et sur place.
 
-Lorsque le directeur général n'est pas un fonctionnaire ou un agent de
-collectivité locale détaché, il est obligatoirement assujetti à la législation
-relative à la sécurité sociale, aux prestations familiales et aux accidents du
-travail ainsi qu'au régime de retraite complémentaire applicable en vertu des
-dispositions de la loi n° 72-1223 du 29 décembre 1972 portant généralisation de
-la retraite complémentaire au profit des salariés et anciens salariés.
+Il peut demander au conseil d'administration de délibérer sur toute question
+qu'il juge utile de lui soumettre et, le cas échéant, demander sa réunion. Il y
+est alors fait droit dans le mois qui suit la demande.

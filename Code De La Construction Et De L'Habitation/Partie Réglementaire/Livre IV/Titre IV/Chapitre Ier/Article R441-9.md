@@ -1,7 +1,7 @@
 Article R441-9
 ----
 La création, la composition et le fonctionnement de la commission d'attribution
-prévue à l'article L. 441-2 et mentionnée aux articles R. 421-23, R. 421-63, R.
+prévue à l'article L. 441-2 et mentionnée aux articles R. 421-15, R. 421-63, R.
 422-2, R. 422-9-1, R. 423-91 et R. 481-1 obéissent aux règles suivantes :
 
 I.-Lorsque l'office ou la société dispose de plus de 2 000 logements locatifs
@@ -59,7 +59,7 @@ réunion de la commission.
 
 III.-Dans le cas d'une commission unique, les six membres mentionnés au 1° du II
 sont désignés, parmi ses membres, par le conseil d'administration ou le conseil
-de surveillance de la société ou de l'organisme concerné. L'un des membres a la
+de surveillance de la société ou de l'organisme concerné.L'un des membres a la
 qualité de représentant des locataires.
 
 En cas de pluralité de commissions, le conseil d'administration ou le conseil de

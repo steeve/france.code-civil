@@ -23,7 +23,7 @@ représentant ;
 loyer modéré ou son représentant ;
 
 9° Le président de la Fédération nationale des sociétés anonymes et fondations
-d'habitations à loyer modéré ou son représentant ;
+de l'habitat ou son représentant ;
 
 10° Le président de la Fédération nationale des sociétés coopératives
 d'habitations à loyer modéré ou son représentant ;

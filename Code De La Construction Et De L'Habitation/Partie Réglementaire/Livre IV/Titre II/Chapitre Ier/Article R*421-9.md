@@ -1,15 +1,12 @@
 Article R*421-9
 ----
-Les membres du conseil d'administration, à l'exception de ceux représentant les
-locataires, font l'objet d'une nouvelle désignation après chaque renouvellement
-partiel de l'organe délibérant de la collectivité ou de l'établissement public
-de rattachement de l'office. En cas de suspension ou de dissolution de cet
-organe, leur mandat est prolongé jusqu'à la désignation de leur successeur par
-les autorités habilitées à procéder à cette désignation.
+Ne peuvent être désignées au conseil d'administration les personnes qui se
+trouvent dans un cas d'incapacité ou d'indignité prévu par les lois électorales,
+à l'exception des incapacités relatives à la nationalité, ou qui tomberaient
+sous le coup des dispositions de l'article L. 423-12.
 
-Les membres sortants du conseil peuvent être désignés à nouveau.
+Hormis à titre de représentant du comité d'entreprise, les membres du personnel
+de l'office ne peuvent être désignés au conseil d'administration.
 
-Si un membre vient à cesser ses fonctions au conseil d'administration avant
-l'expiration de la durée normale de son mandat, il est procédé immédiatement à
-son remplacement. Les fonctions du nouveau membre expirent à la date où auraient
-normalement cessé celles du membre qu'il a remplacé.
+Sont déclarés démissionnaires d'office les membres du conseil d'administration
+qui se trouvent dans une des situations visées aux alinéas précédents.

@@ -31,20 +31,20 @@ Elle peut, d'une façon générale, effectuer toutes opérations utiles à la
 réalisation de son objet social, ou pour lesquelles elle est ou sera habilitée
 par les textes législatifs ou réglementaires s'y rapportant.
 
-4. Compétence territoriale - Siège social.
+4. Compétence territoriale-Siège social.
 
 L'activité de la société est limitée aux opérations ayant trait aux immeubles
-situés sur le territoire de : ....
+situés sur le territoire de :....
 
-Le siège social de la société est fixé à : ....
+Le siège social de la société est fixé à :....
 
 5. Capital social.
 
 Le capital social est variable.
 
-Le capital initial à souscrire est fixé à la somme de ... euros.
+Le capital initial à souscrire est fixé à la somme de... euros.
 
-Il est divisé en ... actions de chacune ... euros.
+Il est divisé en... actions de chacune... euros.
 
 Les associés qui n'utilisent pas les services de la société ne peuvent détenir
 plus de 35 p. 100 du total des droits de vote. Ces associés disposent ensemble
@@ -99,10 +99,10 @@ La société est administrée par un conseil d'administration.
 
 Les membres du conseil d'administration, même ceux qui exercent les fonctions de
 directeur général de la société, exercent leurs fonctions à titre gratuit dans
-les conditions prévues à l'article R. 421-56 du code de la construction et de
+les conditions prévues à l'article R. 421-10 du code de la construction et de
 l'habitation.
 
-8. Retraits et exclusions - Résiliation du contrat de location-attribution.
+8. Retraits et exclusions-Résiliation du contrat de location-attribution.
 
 L'actionnaire titulaire d'un contrat de location-attribution ne peut se retirer
 qu'après agrément du conseil d'administration.
@@ -129,7 +129,7 @@ prévues à cet alinéa.
 
 L'année sociale de la société débute le 1er janvier et finit le 31 décembre.
 
-11. Unions coopératives - Assemblées primaires.
+11. Unions coopératives-Assemblées primaires.
 
 Les actionnaires membres d'une union coopérative constituée conformément à
 l'article R. 422-22 du code de la construction et de l'habitation sont
@@ -179,8 +179,9 @@ de se faire représenter à l'assemblée primaire.
 
 L'actionnaire empêché peut donner mandat de le représenter à l'assemblée
 primaire. Le mandataire doit être un autre actionnaire de l'unité coopérative ou
-le conjoint du mandant. Le conjoint du mandant ne peut représenter que celui-ci.
-L'actionnaire mandaté ne peut disposer que de dix voix, la sienne comprise.
+le conjoint du mandant. Le conjoint du mandant ne peut représenter que
+celui-ci.L'actionnaire mandaté ne peut disposer que de dix voix, la sienne
+comprise.
 
 Les mandats sont annexés au procès-verbal de l'assemblée primaire.
 
@@ -214,7 +215,7 @@ Lorsque la société a réalisé un bénéfice distribuable au sens de l'article
 un pourcentage de capital social égal ou inférieur au taux défini à l'article 14
 de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être
 supérieur au taux d'intérêt servi au détenteur d'un premier livret de caisse
-d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point.
 
 14. Réserves.
 

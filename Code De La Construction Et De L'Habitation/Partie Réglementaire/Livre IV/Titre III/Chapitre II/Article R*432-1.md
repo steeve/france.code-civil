@@ -53,16 +53,16 @@ antérieur ;
 6° Une copie du dernier budget primitif et du dernier budget supplémentaire
 approuvé ;
 
-7° Un copie de la convention passée entre la commune et l'office public ou la
-société d'habitations à loyer modéré chargé de la gestion des immeubles,
-accompagnée d'une note donnant, avec communication des plans et devis, les
-renseignements nécessaires sur les opérations projetées, les conditions de
-location, ainsi que l'équilibre financier des ressources et des charges
-probables après exécution du programme ;
+7° Un copie de la convention passée entre la commune et l'office public de
+l'habitat ou la société d'habitations à loyer modéré chargé de la gestion des
+immeubles, accompagnée d'une note donnant, avec communication des plans et
+devis, les renseignements nécessaires sur les opérations projetées, les
+conditions de location, ainsi que l'équilibre financier des ressources et des
+charges probables après exécution du programme ;
 
 8° Dans le cas où elle a obtenu la garantie du département, la commune doit
 produire la délibération par laquelle le conseil général a autorisé le préfet à
 intervenir au contrat, déterminé le montant de l'engagement pris et créé les
 ressources spécialement affectées à l'exécution de cet engagement et mises en
-recouvrement de plein droit en cas de besoin. A cette délibération sont joints,
+recouvrement de plein droit en cas de besoin.A cette délibération sont joints,
 le cas échéant, les actes autorisant la création de ressources.
