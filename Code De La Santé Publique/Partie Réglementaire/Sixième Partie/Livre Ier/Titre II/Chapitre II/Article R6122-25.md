@@ -37,9 +37,7 @@ endovasculaire, en cardiologie ;
 
 16° Traitement de l'insuffisance rénale chronique par épuration extrarénale ;
 
-17° Activités cliniques d'assistance médicale à la procréation, activités
-biologiques d'assistance médicale à la procréation, activités de recueil,
-traitement, conservation de gamètes et cession de gamètes issus de don,
+17° Activités cliniques et biologiques d'assistance médicale à la procréation et
 activités de diagnostic prénatal ;
 
 18° Traitement du cancer ;

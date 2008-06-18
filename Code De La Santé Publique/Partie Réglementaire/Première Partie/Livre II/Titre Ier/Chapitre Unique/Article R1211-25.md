@@ -15,14 +15,20 @@ b) Infection par les virus des hépatites B et C ;
 
 c) Syphilis ;
 
+d) Infection par chlamydiae ;
+
 2° De faire rechercher chez le donneur de gamètes la présence des marqueurs
 biologiques d'infection et, lorsque cela est techniquement possible,
 d'infectivité, par le cytomégalovirus ;
 
-3° S'il s'agit de sperme, d'en faire pratiquer l'examen microbiologique.
+3° S'il s'agit de sperme, d'en faire pratiquer l'examen microbiologique ;
 
-Les donneurs de gamètes dont les résultats de l'une ou plusieurs des analyses
-mentionnées au 1° ci-dessus sont positifs ne peuvent être retenus.
+4° De faire effectuer des examens supplémentaires en fonction des antécédents du
+donneur notamment s'il a été exposé à des risques dans une zone d'endémie.
+
+Les donneurs de gamètes dont les résultats d'analyses font présumer un risque de
+transmission d'infections ne peuvent être retenus. Le cas échéant, le praticien
+mentionné au premier alinéa peut demander une consultation spécialisée.
 
 De même, le praticien ne peut retenir les donneurs de gamètes à risque potentiel
 de transmission de la maladie de Creutzfeldt-Jakob ou d'autres encéphalopathies

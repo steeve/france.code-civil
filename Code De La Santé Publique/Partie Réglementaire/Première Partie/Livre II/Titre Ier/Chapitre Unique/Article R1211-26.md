@@ -21,4 +21,4 @@ jour du début du traitement de la stimulation ovarienne préalable au don.
 
 Dans le cas où l'un ou plusieurs des résultats des recherches mentionnées au
 présent article sont positifs, les spermatozoïdes ou les ovocytes ne peuvent
-être cédés ou, le cas échéant, l'embryon ne peut être transféré.
+être mis à disposition ou, le cas échéant, l'embryon ne peut être transféré.

@@ -14,7 +14,7 @@ Cette équipe établit pour chaque couple un dossier médical commun.
 Le ou les titulaires des autorisations établissent en commun le règlement
 intérieur du centre, après avis de l'équipe médicale clinico-biologique. Ils
 approuvent le rapport annuel d'activité commun, élaboré dans les conditions
-fixées à l'article R. 2142-19 et le transmettent à l'agence régionale de
+fixées à l'article R. 2142-37 et le transmettent à l'agence régionale de
 l'hospitalisation et à l'Agence de la biomédecine.
 
 Lorsque le titulaire de l'autorisation de pratiquer les activités biologiques

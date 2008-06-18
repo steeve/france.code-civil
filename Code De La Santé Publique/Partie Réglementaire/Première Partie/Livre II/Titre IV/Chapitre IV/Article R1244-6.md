@@ -1,8 +1,8 @@
 Article R1244-6
 ----
-La disposition des locaux ainsi que les modalités d'accueil des donneurs et des
-couples receveurs sont de nature à assurer l'anonymat du don et la
-confidentialité des activités.
-
-Une pièce est aménagée pour les entretiens préalables au don ou à la cession de
-gamètes.
+En vue de se conformer aux prescriptions de l'article L. 1244-4 et pour
+permettre l'accès aux informations médicales dans les conditions prévues à la
+deuxième phrase de l'article L. 1244-6, l'établissement ou l'organisme conserve
+toute information relative à l'évolution des grossesses induites par un don de
+gamètes, y compris leur éventuelle interruption, la date de naissance et l'état
+de santé des nouveau-nés et des enfants.

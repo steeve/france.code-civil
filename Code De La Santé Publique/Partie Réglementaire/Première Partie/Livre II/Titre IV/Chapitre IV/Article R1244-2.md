@@ -1,18 +1,22 @@
 Article R1244-2
 ----
-L'autorisation est délivrée en application de l'article L. 1244-5 par la
-commission exécutive de l'agence régionale de l'hospitalisation, dans les
-conditions prévues aux articles R. 6122-23 à R. 6122-44. Avant de prendre l'avis
-du comité régional de l'organisation sanitaire, l'agence régionale de
-l'hospitalisation recueille, en vertu du 12° de l'article L. 1418-1, l'avis de
-l'Agence de la biomédecine, sur la demande d'autorisation et le cas échéant sur
-la demande de renouvellement.
+Le consentement du donneur et, s'il fait partie d'un couple celui de l'autre
+membre du couple prévus à l'article L. 1244-2 ainsi que le recueil ou le
+prélèvement des gamètes sont précédés d'entretiens entre le donneur et les
+membres de l'équipe médicale pluridisciplinaire ayant pour but notamment :
 
-Le directeur général de l'Agence de la biomédecine transmet son avis au
-directeur de l'agence régionale de l'hospitalisation dans un délai de deux mois
-à compter de la date de réception de ce dossier.
+1° De vérifier que le donneur remplit les conditions prévues à l'article L.
+1244-2 ;
 
-Les pièces du dossier justificatif prévu à l'article R. 6122-32 sont complétées
-ou remplacées par les pièces d'un dossier particulier dont la composition est
-fixée par arrêté du ministre chargé de la santé, après avis du directeur général
-de l'Agence de la biomédecine.
+2° De l'informer des dispositions législatives et réglementaires relatives au
+don de gamètes et de leurs conséquences au regard de la filiation ;
+
+3° De lui préciser la nature des examens à effectuer avant le don ;
+
+4° De lui indiquer qu'il devra consentir à la conservation dans le dossier
+mentionné à l'article R. 1244-5 d'informations à caractère personnel relatives à
+sa santé.
+
+La donneuse d'ovocytes est en outre informée des conditions de la stimulation
+ovarienne et du prélèvement ovocytaire, ainsi que des risques et des contraintes
+liés à ces techniques.

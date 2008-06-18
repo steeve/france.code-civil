@@ -1,7 +1,8 @@
 Article R2142-34
 ----
-Le registre d'embryons que doit tenir tout établissement de santé ou tout
-laboratoire autorisé à conserver des embryons doit mentionner :
+Le registre d'embryons que doit tenir tout établissement de santé, tout
+organisme ou tout laboratoire autorisé à conserver des embryons doit mentionner
+:
 
 1° L'identité du couple qui est à l'origine de l'embryon et, le cas échéant, le
 code d'identification du donneur de gamètes ;
@@ -17,4 +18,4 @@ affectée à cet effet ;
 
 6° Les informations relatives au devenir de chaque embryon, notamment les dates
 et résultats de la consultation annuelle des membres du couple sur le maintien
-de leur projet parental et sa date de décongélation.
+de leur projet parental et la date de décongélation de chaque embryon.

@@ -1,10 +1,10 @@
 Article R2142-33
 ----
 Les registres des gamètes ou des tissus germinaux que doit tenir tout
-établissement de santé ou tout laboratoire autorisé à conserver ces gamètes ou
-tissus doivent mentionner :
+établissement de santé, tout organisme ou tout laboratoire autorisé à conserver
+ces gamètes ou tissus doivent mentionner :
 
-1° L'identité de la personne sur laquelle les gamètes ont été recueillis
+1° L'identité de la personne dont les gamètes ont été recueillis ou prélevés
 lorsqu'il s'agit d'une assistance médicale à la procréation sans le recours à un
 tiers donneur ou l'identité de la personne dont des gamètes ou des tissus
 germinaux sont conservés en application de l'article L. 2141-11 ;

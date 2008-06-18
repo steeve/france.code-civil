@@ -1,9 +1,9 @@
 Article R2142-28
 ----
-L'établissement de santé ou le laboratoire autorisé au titre des activités
-mentionnées au a du 2° de l'article R. 2142-1 conserve, dans le respect de la
-confidentialité, pour chaque couple qui a recours à une insémination
-artificielle, les informations suivantes :
+L'établissement de santé, l'organisme ou le laboratoire autorisé au titre des
+activités mentionnées au a du 2° de l'article R. 2142-1 conserve, dans le
+respect de la confidentialité, pour chaque couple qui a recours à une
+insémination artificielle, les informations suivantes :
 
 1° L'indication médicale de la mise en oeuvre et du choix de la technique
 d'assistance médicale à la procréation ;
