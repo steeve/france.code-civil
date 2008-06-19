@@ -1,3 +1,4 @@
 Article 2261
 ----
-Elle est acquise lorsque le dernier jour du terme est accompli.
+Pour pouvoir prescrire, il faut une possession continue et non interrompue,
+paisible, publique, non équivoque, et à titre de propriétaire.

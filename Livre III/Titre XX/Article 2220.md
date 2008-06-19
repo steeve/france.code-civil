@@ -1,4 +1,4 @@
 Article 2220
 ----
-On ne peut, d'avance, renoncer à la prescription : on peut renoncer à la
-prescription acquise.
+Les délais de forclusion ne sont pas, sauf dispositions contraires prévues par
+la loi, régis par le présent titre.

@@ -1,3 +1,4 @@
 Article 2242
 ----
-La prescription peut être interrompue ou naturellement ou civilement.
+L'interruption résultant de la demande en justice produit ses effets jusqu'à
+l'extinction de l'instance.

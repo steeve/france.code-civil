@@ -1,4 +1,4 @@
 Article 2246
 ----
-La citation en justice, donnée même devant un juge incompétent, interrompt la
-prescription.
+L'interpellation faite au débiteur principal ou sa reconnaissance interrompt le
+délai de prescription contre la caution.

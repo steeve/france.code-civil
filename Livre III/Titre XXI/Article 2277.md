@@ -1,18 +1,10 @@
 Article 2277
 ----
-Se prescrivent par cinq ans les actions en paiement :
+Si le possesseur actuel de la chose volée ou perdue l'a achetée dans une foire
+ou dans un marché, ou dans une vente publique, ou d'un marchand vendant des
+choses pareilles, le propriétaire originaire ne peut se la faire rendre qu'en
+remboursant au possesseur le prix qu'elle lui a coûté.
 
-Des salaires ;
-
-Des arrérages des rentes perpétuelles et viagères et de ceux des pensions
-alimentaires ;
-
-Des loyers, des fermages et des charges locatives ;
-
-Des intérêts des sommes prêtées,
-
-et généralement de tout ce qui est payable par année ou à des termes périodiques
-plus courts.
-
-Se prescrivent également par cinq ans les actions en répétition des loyers, des
-fermages et des charges locatives.
+Le bailleur qui revendique, en vertu de l'article 2332, les meubles déplacés
+sans son consentement et qui ont été achetés dans les mêmes conditions doit
+également rembourser à l'acheteur le prix qu'ils lui ont coûté.

@@ -1,5 +1,7 @@
 Article 2278
 ----
-Les prescriptions dont il s'agit dans les articles de la présente section
-courent contre les mineurs et les majeurs en tutelle ; sauf leur recours contre
-leurs tuteurs.
+La possession est protégée, sans avoir égard au fond du droit, contre le trouble
+qui l'affecte ou la menace.
+
+La protection possessoire est pareillement accordée au détenteur contre tout
+autre que celui de qui il tient ses droits.

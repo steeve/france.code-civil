@@ -1,5 +1,5 @@
 Article 2224
 ----
-La prescription peut être opposée en tout état de cause, même devant la cour
-d'appel, à moins que la partie qui n'aurait pas opposé le moyen de la
-prescription ne doive, par les circonstances, être présumée y avoir renoncé.
+Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du
+jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui
+permettant de l'exercer.

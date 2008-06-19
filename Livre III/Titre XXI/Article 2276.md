@@ -1,9 +1,8 @@
 Article 2276
 ----
-Les juges ainsi que les personnes qui ont représenté ou assisté les parties sont
-déchargés des pièces cinq ans après le jugement ou la cessation de leur
-concours.
+En fait de meubles, la possession vaut titre.
 
-Les huissiers de justice, après deux ans depuis l'exécution de la commission ou
-la signification des actes dont ils étaient chargés, en sont pareillement
-déchargés.
+Néanmoins, celui qui a perdu ou auquel il a été volé une chose peut la
+revendiquer pendant trois ans à compter du jour de la perte ou du vol, contre
+celui dans les mains duquel il la trouve ; sauf à celui-ci son recours contre
+celui duquel il la tient.

@@ -1,7 +1,5 @@
 Article 2271
 ----
-L'action des maîtres et instituteurs des sciences et arts, pour les leçons
-qu'ils donnent au mois :
-
-Celle des hôteliers et traiteurs à raison du logement et de la nourriture qu'ils
-fournissent, se prescrivent par six mois.
+La prescription acquisitive est interrompue lorsque le possesseur d'un bien est
+privé pendant plus d'un an de la jouissance de ce bien soit par le propriétaire,
+soit même par un tiers.

@@ -1,5 +1,6 @@
 Article 2225
 ----
-Les créanciers, ou toute autre personne ayant intérêt à ce que la prescription
-soit acquise, peuvent l'opposer, encore que le débiteur ou le propriétaire y
-renonce.
+L'action en responsabilité dirigée contre les personnes ayant représenté ou
+assisté les parties en justice, y compris à raison de la perte ou de la
+destruction des pièces qui leur ont été confiées, se prescrit par cinq ans à
+compter de la fin de leur mission.

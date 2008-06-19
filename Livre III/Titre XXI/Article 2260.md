@@ -1,3 +1,3 @@
 Article 2260
 ----
-La prescription se compte par jours, et non par heures.
+On ne peut prescrire les biens ou les droits qui ne sont point dans le commerce.

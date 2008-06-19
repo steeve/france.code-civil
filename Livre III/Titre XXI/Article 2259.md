@@ -1,4 +1,5 @@
 Article 2259
 ----
-La prescription court pendant les délais mentionnés aux articles 771, 772 et
-790.
+Sont applicables à la prescription acquisitive les articles 2221 et 2222, et les
+chapitres III et IV du titre XX du présent livre sous réserve des dispositions
+du présent chapitre.

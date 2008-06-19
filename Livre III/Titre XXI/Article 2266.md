@@ -1,6 +1,7 @@
 Article 2266
 ----
-Si le véritable propriétaire a eu son domicile en différents temps, dans le
-ressort et hors du ressort, il faut, pour compléter la prescription, ajouter à
-ce qui manque aux dix ans de présence, un nombre d'années d'absence double de
-celui qui manque, pour compléter les dix ans de présence.
+Ceux qui possèdent pour autrui ne prescrivent jamais par quelque laps de temps
+que ce soit.
+
+Ainsi, le locataire, le dépositaire, l'usufruitier et tous autres qui détiennent
+précairement le bien ou le droit du propriétaire ne peuvent le prescrire.

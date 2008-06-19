@@ -1,4 +1,4 @@
 Article 2264
 ----
-Les règles de la prescription sur d'autres objets que ceux mentionnés dans le
-présent titre sont expliquées dans les titres qui leur sont propres.
+Le possesseur actuel qui prouve avoir possédé anciennement est présumé avoir
+possédé dans le temps intermédiaire, sauf la preuve contraire.

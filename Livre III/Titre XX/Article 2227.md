@@ -1,4 +1,6 @@
 Article 2227
 ----
-L'Etat, les établissements publics et les communes sont soumis aux mêmes
-prescriptions que les particuliers, et peuvent également les opposer.
+Le droit de propriété est imprescriptible. Sous cette réserve, les actions
+réelles immobilières se prescrivent par trente ans à compter du jour où le
+titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de
+l'exercer.

@@ -1,4 +1,4 @@
 Article 2221
 ----
-La renonciation à la prescription est expresse ou tacite ; la renonciation
-tacite résulte d'un fait qui suppose l'abandon du droit acquis.
+La prescription extinctive est soumise à la loi régissant le droit qu'elle
+affecte.
