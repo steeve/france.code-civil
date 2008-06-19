@@ -2,8 +2,8 @@ Article L211-27
 ----
 Le maire peut, par arrêté, à son initiative ou à la demande d'une association de
 protection des animaux, faire procéder à la capture de chats non identifiés,
-sans propriétaire ou sans gardien, vivant en groupe dans des lieux publics de la
-commune, afin de faire procéder à leur stérilisation et à leur identification
+sans propriétaire ou sans détenteur, vivant en groupe dans des lieux publics de
+la commune, afin de faire procéder à leur stérilisation et à leur identification
 conformément à l'article L. 212-10, préalablement à leur relâcher dans ces mêmes
 lieux. Cette identification doit être réalisée au nom de la commune ou de ladite
 association.

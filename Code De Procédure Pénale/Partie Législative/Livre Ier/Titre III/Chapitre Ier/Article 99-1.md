@@ -36,3 +36,11 @@ Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la
 charge du propriétaire, sauf décision contraire du magistrat désigné au deuxième
 alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond.
 Cette exonération peut également être accordée en cas de non-lieu ou de relaxe.
+
+Lorsque, au cours de la procédure judiciaire, la conservation de l'animal saisi
+ou retiré n'est plus nécessaire à la manifestation de la vérité et que l'animal
+est susceptible de présenter un danger grave et immédiat pour les personnes ou
+les animaux domestiques, le procureur de la République ou le juge d'instruction
+lorsqu'il est saisi ordonne la remise de l'animal à l'autorité administrative
+afin que celle-ci mette en œuvre les mesures prévues au II de l'article L.
+211-11 du code rural.

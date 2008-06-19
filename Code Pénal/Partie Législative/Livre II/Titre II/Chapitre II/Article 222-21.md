@@ -1,8 +1,8 @@
 Article 222-21
 ----
 Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux articles
-222-19 et 222-20.
+conditions prévues par l'article 121-2, des infractions prévues par la présente
+section.
 
 Les peines encourues par les personnes morales sont :
 

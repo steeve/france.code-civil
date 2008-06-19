@@ -33,7 +33,10 @@ protection des bois et forêts ;
 l'habitation ;
 
 8° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à
-l'exception des délits de presse.
+l'exception des délits de presse ;
+
+9° Les délits prévus par le code rural en matière de garde et de circulation des
+animaux.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le
 premier alinéa de l'article 398 lorsque le prévenu est en état de détention
