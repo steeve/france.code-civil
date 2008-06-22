@@ -31,21 +31,21 @@ la suivante :
 1° Pour les emplois relevant de la loi n° 84-53 du 26 janvier 1984 portant
 dispositions statutaires relatives à la fonction publique territoriale :
 
-- directeur général des services des départements et des régions et directeur
-général adjoint des services des régions ;
+-directeur général des services des départements et des régions et directeur
+général adjoint des services des départements et des régions ;
 
-- directeur général des services des communes de plus de 150 000 habitants ;
+-directeur général des services des communes de plus de 150 000 habitants ;
 
-- directeur général des établissements publics de coopération intercommunale à
+-directeur général des établissements publics de coopération intercommunale à
 fiscalité propre concernant une population de plus de 150 000 habitants ;
 
-- directeur des établissements publics locaux assimilés à l'un des emplois de
+-directeur des établissements publics locaux assimilés à l'un des emplois de
 directeurs des collectivités territoriales précités.
 
 2° Pour les emplois relevant de la loi n° 86-33 du 9 janvier 1986 portant
 dispositions statutaires relatives à la fonction publique hospitalière :
 
-- directeur général de centre hospitalier régional ;
+-directeur général de centre hospitalier régional ;
 
-- secrétaire général et directeur général adjoint des hospices civils de Lyon et
+-secrétaire général et directeur général adjoint des hospices civils de Lyon et
 de l'assistance publique de Marseille.
