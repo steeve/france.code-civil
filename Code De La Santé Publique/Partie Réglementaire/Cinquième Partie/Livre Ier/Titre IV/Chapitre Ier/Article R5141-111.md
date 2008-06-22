@@ -2,8 +2,9 @@ Article R5141-111
 ----
 I. - Sans préjudice des dispositions applicables aux médicaments classés comme
 stupéfiants, toute prescription de médicaments mentionnés à l'article L. 5143-5,
-ainsi qu'au II de l'article L. 234-2 du code rural, est rédigée, après un
-diagnostic vétérinaire, sur une ordonnance qui indique lisiblement :
+ainsi qu'au II de l'article L. 234-2 du code rural et de la pêche maritime, est
+rédigée, après un diagnostic vétérinaire, sur une ordonnance qui indique
+lisiblement :
 
 1° Les nom, prénom et adresse du vétérinaire, son numéro national d'inscription
 au tableau de l'ordre lorsqu'il est tenu de s'y inscrire et sa signature ;
@@ -36,7 +37,7 @@ consommation humaine, le temps d'attente, même s'il est égal à zéro.
 II. - 1° Le renouvellement de la délivrance est interdit pour les médicaments
 vétérinaires contenant des substances mentionnées soit aux c, f ou g de
 l'article L. 5144-1 du présent code, soit au II de l'article L. 234-2 du code
-rural.
+rural et de la pêche maritime.
 
 2° La délivrance peut être renouvelée pour les médicaments vétérinaires
 contenant des substances vénéneuses, si celles-ci figurent sur la liste prévue à
@@ -54,21 +55,11 @@ traitement et la délivrance des médicaments vétérinaires relevant de la list
 des substances vénéneuses peut être renouvelée lorsque le prescripteur ne l'a
 pas expressément interdit.
 
-3° La délivrance peut être renouvelée pour les médicaments vétérinaires
-contenant des matières ou substances mentionnées aux a ou b de l'article L.
-5144-1 qui ne relèvent pas de la réglementation des substances vénéneuses et qui
-figurent sur la liste prévue à l'article L. 5143-6.
-
-4° La délivrance peut être renouvelée pour les médicaments vétérinaires
-contenant des produits mentionnés au e de l'article L. 5144-1 qui ne relèvent
-pas de la réglementation des substances vénéneuses.
-
-III. - La prescription est valable pour une durée maximale d'un an.
-
-IV. - Pour les médicaments vétérinaires prescrits à des animaux dont la chair ou
-les produits sont destinés à la consommation humaine, l'ordonnance est conservée
-par le détenteur des animaux pendant la durée fixée par l'arrêté prévu au
-dernier alinéa du II de l'article L. 234-1 du code rural.
+III. - La prescription est valable pour une durée maximale d'un an. IV. - Pour
+les médicaments vétérinaires prescrits à des animaux dont la chair ou les
+produits sont destinés à la consommation humaine, l'ordonnance est conservée par
+le détenteur des animaux pendant la durée fixée par l'arrêté prévu au dernier
+alinéa du II de l'article L. 234-1 du code rural et de la pêche maritime.
 
 En cas de cession des animaux par des détenteurs successifs pendant le temps
 d'attente du médicament, l'ordonnance est transmise au nouvel acquéreur. En cas
