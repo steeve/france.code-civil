@@ -8,4 +8,5 @@ consécutives notamment à des difficultés économiques ou à des mutations
 technologiques.
 
 Les dispositions du présent chapitre sont applicables à toute rupture du contrat
-de travail résultant de l'une des causes énoncées au premier alinéa.
+de travail à l'exclusion de la rupture conventionnelle visée aux articles L.
+1237-11 et suivants, résultant de l'une des causes énoncées au premier alinéa.

@@ -64,7 +64,7 @@ prestations complémentaires de prévoyance, à condition, lorsque ces
 contributions financent des garanties portant sur le remboursement ou
 l'indemnisation de frais occasionnés par une maladie, une maternité ou un
 accident, que ces garanties ne couvrent pas la participation mentionnée au II de
-l'article L. 322-2 ou la franchise annuelle prévue au III du même article (2).
+l'article L. 322-2 ou la franchise annuelle prévue au III du même article.
 
 Toutefois, les dispositions des trois alinéas précédents ne sont pas applicables
 lorsque lesdites contributions se substituent à d'autres éléments de
@@ -88,8 +88,10 @@ louée ou y exerce une activité.
 Sont aussi prises en compte les indemnités versées à l'occasion de la rupture du
 contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation
 forcée des fonctions des mandataires sociaux, dirigeants et personnes visées à
-l'article 80 ter du code général des impôts, ainsi que les indemnités de départ
-volontaire versées aux salariés dans le cadre d'un accord collectif de gestion
+l'article 80 ter du code général des impôts, ainsi que les indemnités versées à
+l'occasion de la rupture conventionnelle du contrat de travail, au sens de
+l'article L. 1237-13 du code du travail, et les indemnités de départ volontaire
+versées aux salariés dans le cadre d'un accord collectif de gestion
 prévisionnelle des emplois et des compétences, à hauteur de la fraction de ces
 indemnités qui est assujettie à l'impôt sur le revenu en application de
 l'article 80 duodecies du même code.
@@ -111,4 +113,4 @@ siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dan
 laquelle l'attributaire exerce son activité.
 
 Les dispositions des deux alinéas précédents ne donnent pas lieu à application
-de l'article L. 131-7. (1)
+de l'article L. 131-7.
