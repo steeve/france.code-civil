@@ -1,12 +1,12 @@
 Article L535-5
 ----
-I. - Indépendamment des poursuites pénales qui peuvent être exercées et des
-mesures prévues à l'article L. 535-2, lorsque les prescriptions imposées lors de
-l'autorisation ne sont pas respectées, l'autorité compétente met en demeure le
-titulaire de l'autorisation de satisfaire à ces prescriptions dans un délai
-déterminé.
+I.-Indépendamment des poursuites pénales qui peuvent être exercées et des
+mesures prévues aux articles L. 533-3-1 et L. 533-8, lorsque les prescriptions
+imposées lors de l'autorisation ne sont pas respectées, l'autorité compétente
+met en demeure le titulaire de l'autorisation de satisfaire à ces prescriptions
+dans un délai déterminé.
 
-II. - Si, à l'expiration du délai fixé pour l'exécution, le titulaire de
+II.-Si, à l'expiration du délai fixé pour l'exécution, le titulaire de
 l'autorisation n'a pas obtempéré à cette injonction, l'autorité compétente peut
 :
 
@@ -22,6 +22,6 @@ l'exécution des mesures prescrites ;
 3° Suspendre l'autorisation jusqu'à exécution des conditions imposées et, le cas
 échéant, prendre les dispositions provisoires nécessaires.
 
-III. - Les sommes consignées en application des dispositions du 1° du II peuvent
+III.-Les sommes consignées en application des dispositions du 1° du II peuvent
 être utilisées pour régler les dépenses entraînées par l'exécution d'office des
 mesures prévues aux 2° et 3° du II du présent article.

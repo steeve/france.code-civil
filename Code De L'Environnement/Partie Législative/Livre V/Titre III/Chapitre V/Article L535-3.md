@@ -1,45 +1,25 @@
 Article L535-3
 ----
-I. - Le demandeur d'une autorisation de dissémination ou de mise sur le marché
-peut indiquer à l'administration les informations fournies à l'appui de sa
-demande dont la divulgation pourrait porter préjudice à ses intérêts ou qui
-touchent à des secrets protégés par la loi. Les informations reconnues
-confidentielles par l'autorité administrative ne peuvent être communiquées à des
-tiers.
+I.-L'autorité administrative ne communique à des tiers aucune information
+reconnue confidentielle en application du II, ni aucune information
+confidentielle qui lui a été transmise dans le cadre d'un échange d'informations
+avec la Commission européenne ou tout autre Etat membre au titre de la
+réglementation communautaire ; elle protège les droits de propriété
+intellectuelle afférents aux données reçues.
 
-II. - Ne peuvent être considérées comme confidentielles :
+II.-Le demandeur de l'autorisation prévue aux articles L. 533-3 et L. 533-5 peut
+indiquer à l'autorité administrative les informations contenues dans sa demande
+dont la divulgation pourrait nuire à sa position concurrentielle et dont il
+justifie qu'elles soient reconnues confidentielles par celle-ci.
 
-1° Les informations fournies à l'appui d'une demande d'autorisation de
-dissémination et portant sur :
+[Dispositions déclarées non conformes à la Constitution, à compter du 1er
+janvier 2009 par la décision du Conseil constitutionnel n° 2008-564 DC du 19
+juin 2008] La liste des informations qui ne peuvent en aucun cas rester
+confidentielles est fixée par décret en Conseil d'Etat (1).
 
-a) Le nom et l'adresse du demandeur ;
+III.-Si le demandeur de l'autorisation retire sa demande, l'autorité
+administrative doit respecter le caractère confidentiel des informations
+fournies.
 
-b) La description synthétique du ou des organismes génétiquement modifiés ;
-
-c) Le but de la dissémination et le lieu où elle sera pratiquée ;
-
-d) Les méthodes et plans de suivi des opérations et d'intervention en cas
-d'urgence ;
-
-e) L'évaluation des effets et des risques pour l'homme et l'environnement.
-
-2° Les informations fournies à l'appui d'une demande d'autorisation de mise sur
-le marché et portant sur :
-
-a) Le nom et l'adresse du demandeur ;
-
-b) La nature du produit et la description synthétique du ou des organismes
-génétiquement modifiés entrant dans sa composition ;
-
-c) Les conditions et précautions d'emploi ;
-
-d) L'évaluation des effets et des risques pour l'homme et pour l'environnement.
-
-III. - L'autorité administrative est habilitée à communiquer à la Commission
-européenne toutes les informations nécessaires, y compris les informations
-reconnues confidentielles, en application du I du présent article ; dans ce
-dernier cas, cette communication est expressément assortie de la mention du
-caractère confidentiel de ces informations.
-
-IV. - Les dispositions du présent article ne sont pas applicables aux activités
+IV.-Les dispositions du présent article ne sont pas applicables aux activités
 couvertes par le secret de la défense nationale.

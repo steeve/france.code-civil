@@ -29,3 +29,9 @@ d'enseignement supérieur.
 
 Des documents élaborés par les structures privées sur l'utilisation des aides
 publiques à la recherche lui sont communiqués.
+
+A ce titre, l'agence veille à ce que les procédures d'évaluation mises en œuvre
+prennent en compte les activités d'expertise conduites par ces personnels dans
+le cadre de commissions à caractère consultatif placées auprès d'une autorité de
+l'Etat, quelles que soient leurs dénominations, ou dans le cadre des activités
+d'une autorité administrative indépendante.

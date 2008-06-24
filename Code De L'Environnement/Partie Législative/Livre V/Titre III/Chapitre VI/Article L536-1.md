@@ -5,8 +5,8 @@ dispositions du code de procédure pénale, les fonctionnaires des corps
 techniques de l'Etat, les officiers titulaires d'un brevet technique ou les
 agents habilités à cet effet et assermentés dans des conditions fixées par
 décret en Conseil d'Etat peuvent rechercher et constater par procès-verbal les
-infractions aux dispositions des articles L. 125-3, L. 532-3, L. 532-4, L.
-532-5, L. 532-6, L. 533-2 et L. 533-3 et des textes pris pour leur application.
+infractions aux dispositions des articles L. 532-3, L. 532-4, L. 532-5, L. 532-6
+et L. 533-3 et des textes pris pour leur application.
 
 Pour accomplir leur mission, les agents mentionnés au présent article ont accès
 aux installations et lieux où sont réalisées les opérations visées, à

@@ -1,4 +1,6 @@
 Article L531-5
 ----
-Des décrets précisent la composition, les attributions et les règles de
-fonctionnement des commissions prévues aux articles L. 531-3 et L. 531-4.
+Un décret en Conseil d'Etat précise les conditions d'application des articles L.
+531-3 et L. 531-4, notamment la composition, les attributions ainsi que les
+règles de fonctionnement, de saisine et de déontologie du Haut Conseil des
+biotechnologies.

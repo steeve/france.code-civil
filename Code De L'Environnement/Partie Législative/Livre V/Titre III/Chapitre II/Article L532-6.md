@@ -1,13 +1,12 @@
 Article L532-6
 ----
-Toute demande d'agrément ou d'utilisation à des fins de recherche,
-d'enseignement ou de développement d'organismes génétiquement modifiés est
-assortie d'une taxe représentative des frais d'instruction et perçue au profit
-du budget général de l'Etat. Cette taxe est exigible lors du dépôt du dossier.
+Toute demande d'agrément pour une utilisation confinée d'organismes
+génétiquement modifiés est assortie du versement d'une taxe à la charge de
+l'exploitant de l'installation.
 
-Elle est fixée à 1 525 euros par dossier. Son montant est réduit à 305 euros
-lorsque la demande d'agrément concerne une utilisation confinée autre que la
-première.
+Le montant de cette taxe est fixé par arrêté des ministres compétents en
+fonction de la nature de la demande et de la destination, lucrative ou non, de
+l'utilisation, dans la limite de 2 000 euros.
 
 Le recouvrement et le contentieux de la taxe instituée au présent article sont
 suivis par les comptables du Trésor selon les modalités fixées aux articles 81 à

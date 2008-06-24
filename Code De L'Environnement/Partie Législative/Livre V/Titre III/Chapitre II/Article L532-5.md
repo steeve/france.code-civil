@@ -1,14 +1,19 @@
 Article L532-5
 ----
-Dans tous les cas où une nouvelle évaluation des dangers ou des inconvénients
-pour la santé publique ou l'environnement d'une utilisation agréée d'organismes
-génétiquement modifiés le justifie, l'autorité administrative peut, aux frais du
-titulaire de l'agrément, et après avis de la commission de génie génétique :
+Lorsque l'autorité administrative dispose d'éléments d'information qui
+pourraient remettre en cause l'évaluation des risques pour l'environnement et la
+santé publique liés à l'utilisation confinée, elle peut :
 
-1° Imposer la modification des prescriptions techniques ;
+1° Soumettre à agrément l'utilisation déclarée ;
 
-2° Suspendre l'agrément pendant le délai nécessaire à la mise en oeuvre des
-mesures propres à faire disparaître ces dangers ou inconvénients ;
+2° Modifier les prescriptions initiales ou imposer des prescriptions nouvelles ;
 
-3° Retirer l'agrément si ces dangers ou inconvénients sont tels qu'aucune mesure
-ne puisse les faire disparaître.
+3° Suspendre l'agrément ou les effets de la déclaration pendant le délai
+nécessaire à la mise en œuvre des mesures propres à faire disparaître ces
+risques ;
+
+4° Retirer l'agrément ou mettre fin aux effets de la déclaration si ces risques
+sont tels qu'aucune mesure ne puisse les faire disparaître.
+
+Ces décisions sont prises, sauf urgence, après avis du Haut Conseil des
+biotechnologies.
