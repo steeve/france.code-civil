@@ -3,7 +3,7 @@ Article R532-1
 Pour l'ouverture du droit à la prime, à l'allocation ou au complément prévu aux
 articles L. 531-2 et L. 531-3, et au III de l'article L. 531-5, la condition de
 ressources est appréciée pour chaque période de douze mois débutant le 1er
-juillet, en fonction des revenus de l'année civile précédente tels que définis
+janvier, en fonction des revenus de l'année civile de référence tels que définis
 aux articles R. 532-3 à R. 532-8.
 
 Toutefois, en cas de modification de la situation de famille en cours de période

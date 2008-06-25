@@ -1,5 +1,9 @@
 Article R831-6
 ----
+Les ressources retenues sont celles perçues pendant l'année civile de
+référence.L'année civile de référence est l'avant-dernière année précédant la
+période de paiement.
+
 Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et des alinéas
 suivants du présent article, les ressources prises en considération s'entendent
 du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
@@ -9,8 +13,8 @@ revenus perçus hors de France ou versés par une organisation internationale et
 après :
 
 a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
-l'article 156 du code général des impôts, et majorées dans les conditions
-prévues au 7 de l'article 158 du code général des impôts ;
+l'article 156 du code général des impôts et majorées dans les conditions prévues
+au 7 de l'article 158 du code général des impôts ;
 
 b) L'abattement mentionné à l'article 157 bis du code général des impôts pour
 les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur
@@ -18,16 +22,11 @@ les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur
 
 Sont également prises en considération :
 
-1° Après application de la déduction correspondant à celle visée au deuxième
-alinéa du 3° de l'article 83 du code général des impôts, l'indemnité journalière
-mentionnée au 2° de l'article L. 431-1 ;
+1° Après application de la déduction correspondant au deuxième alinéa de
+l'article 83 du code général des impôts, l'indemnité journalière mentionnée au
+2° de l'article L. 431-1 ;
 
-2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
-sur le revenu en application du 2° ter de l'article 81 du code général des
-impôts à l'exception de celles correspondant aux retraites ou pensions liquidées
-avant le 1er janvier 2004 et dont sont titulaires les personnes bénéficiant, au
-30 juin 2005, de l'allocation dont l'octroi est soumis aux dispositions du
-présent article.
+2° Les rémunérations mentionnées à l'article 81 quater de ce même code.
 
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
 d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
@@ -36,9 +35,9 @@ personnes définies à l'article R. 831-5. Il en est de même pour la prime de
 retour à l'emploi.
 
 En application des dispositions de l'article L. 832-1, sont exclus également du
-décompte des ressources les ressources les arrérages des rentes viagères
-constituées en faveur d'une personne handicapée et mentionnée à l'article 199
-septies du code général des impôts.
+décompte des ressources les arrérages des rentes viagères constituées en faveur
+d'une personne handicapée et mentionnée à l'article 199 septies du code général
+des impôts.
 
 Il est fait abstraction des déductions opérées en vertu de l'article 156-I du
 code général des impôts au titre des reports des déficits constatés au cours
@@ -54,15 +53,11 @@ consommation des ménages pour l'année civile de référence figurant dans le
 rapport économique et financier annexé au projet de loi de finances.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
-demandeur ou, le cas échéant, son conjoint poursuit des études, et que les
-ressources du ménage au titre de l'année de référence appréciées au sens des
+demandeur poursuit des études ainsi que, le cas échéant, son conjoint, et que
+les ressources du ménage au titre de l'année de référence appréciées au sens des
 alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
 ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
 demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
 assujettie à l'impôt sur le revenu.
-
-Lorsque les deux membres d'un couple poursuivent des études, le montant
-déterminé en application de l'alinéa précédent subit une majoration fixée par le
-même arrêté.

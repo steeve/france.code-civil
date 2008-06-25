@@ -1,21 +1,19 @@
 Article R831-11
 ----
-I. - Le modèle de la demande d'allocation de logement et de son renouvellement,
-assortie de pièces justificatives tenant compte de la situation du demandeur ou
-allocataire, est déterminé par arrêté du ministre chargé de la sécurité sociale
-et du ministre chargé du logement.
+I.-Le modèle de la demande d'''allocation de logement assortie " de pièces
+justificatives tenant compte de la situation du demandeur ou allocataire, est
+déterminé par arrêté du ministre chargé de la sécurité sociale et du ministre
+chargé du logement.
 
-II. - (Paragraphe supprimé)
-
-III. - En cas de non-présentation avant le 1er juillet d'un état des personnes
+II.-En cas de non-présentation avant le 1er janvier d'un état des personnes
 vivant habituellement au foyer ainsi que d'une déclaration sur l'honneur
-indiquant le total des ressources perçues au cours de l'année précédente par
-l'intéressé et par toutes personnes vivant ou ayant vécu à son foyer dans les
-conditions déterminées aux articles R. 831-4 à R. 831-7, le paiement des
-allocations de logement peut être suspendu.
+indiquant le total des ressources perçues au cours de l'année civile de
+référence par l'intéressé et par toutes personnes vivant ou ayant vécu à son
+foyer dans les conditions déterminées aux articles R. 831-4 à R. 831-7, le
+paiement des allocations de logement peut être suspendu.
 
 En cas de non-présentation des justifications relatives au paiement du loyer ou
-des mensualités d'accession à la propriété avant le 1er juin, ou lorsque
+des mensualités d'accession à la propriété avant le 1er décembre, ou lorsque
 l'organisme payeur constate la constitution d'un impayé au sens de l'article R.
 831-21, cet organisme notifie simultanément :
 
@@ -39,7 +37,7 @@ versement de l'allocation de logement entre les mains du bailleur ou du prêteur
 si celui-ci en a fait la demande. Dans ce cas, il est fait application des
 dispositions des articles R. 831-21-1 à R. 831-21-3 et R. 831-25.
 
-IV. - A défaut de demande de versement entre ses mains émanant du bailleur ou du
+III.-A défaut de demande de versement entre ses mains émanant du bailleur ou du
 prêteur, l'organisme payeur suspend le versement de l'allocation de logement et,
 compte tenu de la situation du bénéficiaire, décide :
 

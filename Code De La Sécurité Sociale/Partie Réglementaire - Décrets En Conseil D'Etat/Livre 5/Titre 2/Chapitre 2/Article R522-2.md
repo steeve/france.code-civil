@@ -11,12 +11,12 @@ par enfant à charge à partir du troisième.
 Il est également majoré lorsque les deux membres du couple exercent une activité
 professionnelle productrice de revenus et que chacun de ces revenus a été au
 moins égal, pendant l'année de référence, à douze fois la base mensuelle de
-calcul des allocations familiales en vigueur au 1er juillet de ladite année. Le
+calcul des allocations familiales en vigueur au 1er janvier de ladite année. Le
 plafond de ressources de la personne assumant seule la charge des enfants est
 majoré d'un montant identique.
 
 Le montant du plafond de ressources et celui de la majoration prévus aux premier
-et troisième alinéas sont fixés par décret et revalorisés au 1er juillet de
+et troisième alinéas sont fixés par décret et revalorisés au 1er janvier de
 chaque année, conformément à l'évolution en moyenne annuelle des prix à la
-consommation hors tabac de l'année civile précédente, par arrêté du ministre
+consommation hors tabac de l'année civile de référence, par arrêté du ministre
 chargé de la sécurité sociale.

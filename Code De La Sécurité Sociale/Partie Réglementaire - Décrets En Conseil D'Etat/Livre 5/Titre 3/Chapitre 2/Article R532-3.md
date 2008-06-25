@@ -1,5 +1,9 @@
 Article R532-3
 ----
+Les ressources retenues sont celles perçues pendant l'année civile de
+référence.L'année civile de référence est l'avant-dernière année précédant la
+période de paiement.
+
 Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et des alinéas
 suivants du présent article, les ressources prises en considération s'entendent
 du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
@@ -22,12 +26,8 @@ Sont également prises en considération :
 alinéa du 3° de l'article 83 du code général des impôts, l'indemnité journalière
 mentionnée au 2° de l'article L. 431-1 ;
 
-2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
-sur le revenu en application du 2° ter de l'article 81 du code général des
-impôts à l'exception de celles correspondant aux retraites ou pensions liquidées
-avant le 1er janvier 2004 et dont sont titulaires les personnes bénéficiant, au
-30 juin 2005, de l'allocation dont l'octroi est soumis aux dispositions du
-présent article.
+2° Les rémunérations mentionnées à l'article 81 quater du code général des
+impôts ;
 
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
 d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des

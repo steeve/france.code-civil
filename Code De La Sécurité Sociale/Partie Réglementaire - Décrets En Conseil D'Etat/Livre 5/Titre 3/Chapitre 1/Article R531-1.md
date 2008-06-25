@@ -10,15 +10,15 @@ par enfant à partir du troisième enfant à charge.
 
 Il est également majoré lorsque les deux membres du couple exercent une activité
 professionnelle productrice de revenus et que chacun de ces revenus a été au
-moins égal, pendant l'année de référence, à douze fois la base mensuelle de
-calcul des allocations familiales en vigueur au 1er juillet de ladite année. Le
-plafond de ressources de la personne assumant seule la charge des enfants est
+moins égal, pendant l'année civile de référence, à douze fois la base mensuelle
+de calcul des allocations familiales en vigueur au 1er janvier de ladite année.
+Le plafond de ressources de la personne assumant seule la charge des enfants est
 majoré d'un montant identique.
 
 Le plafond de ressources et la majoration prévus aux premier et troisième
-alinéas sont revalorisés au 1er juillet de chaque année, conformément à
+alinéas sont revalorisés au 1er janvier de chaque année conformément à
 l'évolution en moyenne annuelle des prix à la consommation hors tabac de l'année
-civile précédente, par arrêté du ministre chargé de la sécurité sociale.
+civile de référence, par arrêté du ministre chargé de la sécurité sociale.
 
 Pour l'ouverture des droits à la prime à la naissance ou à l'adoption, la
 situation de la famille est appréciée le premier jour du mois civil suivant le

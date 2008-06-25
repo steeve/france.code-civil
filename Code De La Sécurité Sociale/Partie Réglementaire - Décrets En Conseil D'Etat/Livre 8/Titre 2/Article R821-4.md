@@ -3,8 +3,17 @@ Article R821-4
 Sous réserve des dispositions des alinéas suivants, le revenu dont il est tenu
 compte pour l'application de la condition de ressources prévue à l'article L.
 821-3 est évalué selon les modalités fixées aux articles R. 532-3 à R. 532-7
-après application d'un coefficient de 0,8 au revenu déterminé par les règles de
-l'article R. 532-3.
+après application d'un coefficient de 0, 8 aux revenus déterminés par les règles
+de l'article R. 532-3 relevant des catégories de revenus suivantes :
+
+1° Les revenus d'activités commerciales, artisanales, libérales ou agricoles ;
+
+2° Les traitements et salaires, les pensions, les rentes viagères à titre
+gratuit et les rémunérations des gérants et associés de sociétés visées à
+l'article 62 du code général des impôts ;
+
+3° Les bénéfices agricoles soumis à l'évaluation forfaitaire prévue aux articles
+64 et suivants du code général des impôts.
 
 N'entrent pas en compte pour l'attribution de cette allocation les rentes
 viagères mentionnées aux 1° et 2° du I de l'article 199 septies du code général
