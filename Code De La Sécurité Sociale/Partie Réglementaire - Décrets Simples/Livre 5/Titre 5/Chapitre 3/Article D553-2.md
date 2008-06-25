@@ -1,6 +1,6 @@
 Article D553-2
 ----
-Lors du renouvellement au 1er juillet des droits aux prestations, à chaque
+Lors du renouvellement au 1er janvier des droits aux prestations, à chaque
 modification de situation familiale ou professionnelle ayant une incidence sur
 les ressources mentionnées au a du I de l'article D. 553-1 et à chaque
 modification des droits aux prestations ou de leur montant, il est procédé à un

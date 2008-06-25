@@ -1,8 +1,8 @@
 Article D542-20
 ----
 L'allocation de logement est versée, pendant une période de douze mois débutant
-au 1er juillet de chaque année. Elle est calculée sur la base du loyer
-effectivement payé pour le mois de janvier de l'année considérée.
+au 1er janvier de chaque année. Elle est calculée sur la base du loyer
+effectivement payé pour le mois de juillet de l'année précédente.
 
 En cas de changement dans la composition de la famille ou lorsque celle-ci
 s'installe dans un nouveau logement au cours de la période de paiement, il doit

@@ -2,9 +2,9 @@ Article D821-2
 ----
 Les personnes qui satisfont aux autres conditions d'attribution peuvent
 prétendre à l'allocation aux adultes handicapés si l'ensemble des autres
-ressources perçues par elles durant l'année civile précédant celle au cours de
-laquelle le droit est ouvert ou maintenu n'atteint pas douze fois le montant de
-l'allocation aux adultes handicapés mentionné à l'article D. 821-3.
+ressources perçues par elles durant l'année civile de référence n'atteint pas
+douze fois le montant de l'allocation aux adultes handicapés mentionné à
+l'article D. 821-3.
 
 Lorsque le demandeur est marié et non séparé ou qu'il est lié par un pacte civil
 de solidarité ou vit en concubinage, le plafond mentionné au premier alinéa est
@@ -20,7 +20,7 @@ handicapés mentionné à l'article D. 821-3.
 
 Pour l'application de la condition de ressources prévue au présent article, le
 droit à l'allocation est examiné pour chaque période de douze mois commençant le
-1er juillet.
+1er janvier.
 
 Toutefois, en cas de modification de la situation familiale en cours de période
 de paiement, le droit à l'allocation est examiné dans les conditions précisées à

@@ -1,23 +1,21 @@
 Article D542-17
 ----
-I. - Le modèle de la demande d'allocation de logement et de son renouvellement,
-assortie de pièces justificatives tenant compte de la situation du demandeur ou
-allocataire, est déterminé par arrêté du ministre chargé de la sécurité sociale
-et du ministre chargé du logement.
+I.-Le modèle de la demande d'allocation logement assortie de pièces
+justificatives tenant compte de la situation du demandeur ou allocataire, est
+déterminé par arrêté du ministre chargé de la sécurité sociale et du ministre
+chargé du logement.
 
-II. - (Paragraphe supprimé)
-
-III. - En cas de non-présentation avant le 1er juillet d'un état des personnes
+II.-En cas de non-présentation avant le 1er janvier d'un état des personnes
 vivant habituellement au foyer, y compris les enfants à charge qui viennent y
 habiter périodiquement ou qui sont momentanément absents pour des raisons tenant
 à leur état de santé ou à leur éducation ainsi que d'une déclaration sur
-l'honneur indiquant le total des ressources perçues au cours de l'année
-précédente par l'intéressé et par toutes les personnes vivant habituellement au
-foyer dans les conditions déterminées aux articles D. 542-9 à D. 542-11, le
+l'honneur indiquant le total des ressources perçues au cours de l'année civile
+de référence par l'intéressé et par toutes les personnes vivant habituellement
+au foyer dans les conditions déterminées aux articles D. 542-9 à D. 542-11, le
 paiement des allocations de logement peut être suspendu.
 
 En cas de non-présentation des justifications relatives au paiement du loyer ou
-des mensualités d'accession à la propriété avant le 1er juin, ou lorsque
+des mensualités d'accession à la propriété avant le 1er décembre, ou lorsque
 l'organisme payeur constate la constitution d'un impayé au sens de l'article D.
 542-19, cet organisme notifie simultanément :
 
@@ -41,7 +39,7 @@ versement de l'allocation de logement entre les mains du bailleur ou du prêteur
 si celui-ci en a fait la demande. Dans ce cas, il est fait application des
 dispositions des articles D. 542-22-1 à D. 542-22-3 et D. 542-29.
 
-IV. - A défaut de demande de versement entre ses mains émanant du bailleur ou du
+III.-A défaut de demande de versement entre ses mains émanant du bailleur ou du
 prêteur, l'organisme payeur suspend le versement de l'allocation de logement et,
 compte tenu de la situation du bénéficiaire, décide :
 

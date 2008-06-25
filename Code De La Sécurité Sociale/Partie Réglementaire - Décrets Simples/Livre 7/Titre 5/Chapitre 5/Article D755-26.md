@@ -1,11 +1,10 @@
 Article D755-26
 ----
-L'allocation de logement est calculée pour une période de douze mois débutant au
-1er juillet de chaque année sur la base, en cas de location, du loyer principal
-effectivement payé pour le mois de janvier précédent et arrondi au franc
-immédiatement inférieur ou, en cas d'accession à la propriété, sur la base de la
-mensualité acquittée au titre des charges mentionnées à l'article D. 755-27 et
-arrondie au franc immédiatement inférieur.
+L'allocation de logement est versée pour une période de douze mois débutant au
+1er janvier de chaque année. Elle est calculée sur la base, en cas de location,
+du loyer principal effectivement payé pour le mois de juillet de l'année
+précédente, ou, en cas d'accession à la propriété, sur la base de la mensualité
+acquittée au titre des charges mentionnées à l'article D. 755-27.
 
 Lorsque le droit à l'allocation de logement n'est pas ouvert pour toute la durée
 de la période de douze mois précitée, l'allocation de logement est calculée et

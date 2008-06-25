@@ -1,7 +1,7 @@
 Article D542-28
 ----
 L'allocation de logement est versée mensuellement pendant une période de douze
-mois débutant au 1er juillet de chaque année. Elle est calculée sur la base de
+mois débutant au 1er janvier de chaque année. Elle est calculée sur la base de
 la mensualité acquittée au titre des charges mentionnées à l'article D. 542-25.
 
 Le bénéficiaire doit, à la demande de l'organisme payeur, justifier des sommes

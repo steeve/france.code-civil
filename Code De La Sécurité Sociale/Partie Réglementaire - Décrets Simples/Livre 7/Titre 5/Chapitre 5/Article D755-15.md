@@ -14,11 +14,11 @@ personnes qui sont :
 1°) soit ascendants de l'allocataire ou de son conjoint âgés de moins de
 soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
 
-2°) soit "grands infirmes" au sens de l'article L. 241-3 du code de l'action
+2°) soit " grands infirmes " au sens de l'article L. 241-3 du code de l'action
 sociale et des familles et sont ascendants, descendants ou collatéraux au
 deuxième ou au troisième degré de l'allocataire ou de son conjoint ;
 
 3°) soit enfants de l'allocataire ou de son conjoint.
 
 L'exercice prévu au présent article est une période de douze mois consécutifs
-commençant le 1er juillet de chaque année.
+commençant le 1er janvier de chaque année.

@@ -1,5 +1,9 @@
 Article D542-10
 ----
+Les ressources retenues sont celles perçues pendant l'année civile de
+référence.L'année civile de référence est l'avant-dernière année précédant la
+période de paiement.
+
 Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et D. 542-11 et
 des alinéas suivants du présent article, les ressources prises en considération
 s'entendent du total des revenus nets catégoriels retenus pour l'établissement
@@ -22,12 +26,7 @@ Sont également prises en considération :
 deuxième alinéa du 3° de l'article 83 du code général des impôts, l'indemnité
 journalière mentionnée au 2° de l'article L. 431-1 du présent code ;
 
-2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
-sur le revenu en application du 2° ter de l'article 81 du code général des
-impôts à l'exception de celles correspondant aux retraites ou pensions liquidées
-avant le 1er janvier 2004 et dont sont titulaires les personnes bénéficiant, au
-30 juin 2005, de l'allocation dont l'octroi est soumis aux dispositions du
-présent article.
+2° Les rémunérations mentionnées à l'article 81 quater de ce même code ;
 
 Est toutefois exclue du décompte des ressources l'allocation mentionnée à
 l'article L. 262-3 du code de l'action sociale et des familles et servie soit à
@@ -69,21 +68,19 @@ ou personnes au sens de l'article L. 542-1 ;
 enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
-demandeur ou, le cas échéant, son conjoint poursuit des études, et que les
-ressources du ménage au titre de l'année de référence appréciées au sens des
+demandeur poursuit des études, ainsi que, le cas échéant, son conjoint, et que
+les ressources du ménage au titre de l'année de référence appréciées au sens des
 alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
 ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
 demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
-assujettie à l'impôt sur le revenu. Lorsque les deux membres d'un couple
-poursuivent des études, le montant mentionné à la première phrase subit une
-majoration fixée par le même arrêté.
+assujettie à l'impôt sur le revenu.
 
 En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
 au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
 déterminées en application des alinéas précédents et des articles R. 532-8 et D.
-542-11 sont inférieures à un montant égal à 16,25 fois la mensualité de charges
+542-11 sont inférieures à un montant égal à 16, 25 fois la mensualité de charges
 de prêt déclarées par l'allocataire, les ressources du bénéficiaire et de son
 conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer
 les dispositions des articles R. 532-4 à R. 532-7.
@@ -91,7 +88,7 @@ les dispositions des articles R. 532-4 à R. 532-7.
 A compter du 1er octobre 1994, pour les contrats de prêts signés postérieurement
 au 30 septembre 1994, si les ressources du bénéficiaire et de son conjoint
 appréciées au sens des alinéas 1 à 9 du présent article et des articles R. 532-8
-et D. 542-11 sont inférieures à un montant égal à 16,25 fois la mensualité de
+et D. 542-11 sont inférieures à un montant égal à 16, 25 fois la mensualité de
 charges de prêt déclarées par l'allocataire lorsque l'allocation est accordée en
 application du 1°, 3° ou 4° de l'article D. 542-24, celles-ci sont réputées
 égales à ce montant, sauf lorsque, postérieurement à la date de signature du
@@ -111,7 +108,7 @@ Le montant forfaitaire visé à l'alinéa précédent est fixé par arrêté con
 des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
 logement.
 
-Les dispositions des dix-septième, dix-huitième et dix-neuvième alinéas ne
+Les dispositions des dix-huitième, dix-neuvième et vingtième alinéas ne
 s'appliquent pas lorsque postérieurement à la date de signature du prêt et
 pendant la période d'accession en cours le bénéficiaire ou son conjoint se
 trouve dans l'obligation de cesser son activité professionnelle et est admis au

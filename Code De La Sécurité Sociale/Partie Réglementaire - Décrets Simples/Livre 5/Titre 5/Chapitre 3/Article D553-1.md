@@ -3,12 +3,12 @@ Article D553-1
 Pour la mise en oeuvre du deuxième alinéa de l'article L. 553-2, les retenues
 mensuelles sont effectuées comme suit :
 
-I. - Il est tenu compte :
+I.-Il est tenu compte :
 
 a) De l'ensemble des catégories de ressources prises en compte à l'article R.
 532-3, perçues par l'allocataire et son conjoint ou concubin durant l'année
-civile de référence précédant la période du 1er juillet au 30 juin suivant au
-cours de laquelle est effectué le recouvrement de l'indu.
+civile de référence retenue pour la période de paiement au cours de laquelle est
+effectué le recouvrement de l'indu.
 
 Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la
 déduction des créances alimentaires mentionnées au a de l'article R. 532-3.
@@ -28,10 +28,8 @@ garde de la prestation d'accueil du jeune enfant ; sont également exclus les
 versements d'allocation aux adultes handicapés et de son complément ainsi que
 ceux du revenu minimum d'insertion, lorsqu'ils sont liés aux périodes de congé
 ou de suspension de prise en charge mentionnées respectivement aux articles R.
-821-8, R. 821-13, R. 821-14 et à l'article 29 du décret n° 88-1111 du 12
-décembre 1988 modifié relatif à la détermination du revenu minimum d'insertion
-et à l'allocation de revenu minimum d'insertion et modifiant le code de la
-sécurité sociale.
+821-8, R. 821-13, R. 821-14 et à l'article R. 262-45 du code de l'action sociale
+et des familles.
 
 Les prestations mentionnées au b ci-dessus sont constituées des prestations dues
 au titre de la première mensualité sur laquelle porte la récupération ;
@@ -49,7 +47,7 @@ prestations familiales en informe l'allocataire. Le recouvrement est poursuivi
 sur ces bases, à défaut de réception de la justification du montant des charges
 de logement telles que définies à l'alinéa précédent.
 
-II. - Le revenu mensuel (R) pris en considération pour le calcul des retenues
+II.-Le revenu mensuel (R) pris en considération pour le calcul des retenues
 mensuelles à effectuer correspond au montant des revenus mentionnés au a du I,
 majoré des prestations mentionnées au b, diminué des charges de logement
 mentionnées au c du même I.
@@ -64,14 +62,14 @@ N
 
 dans laquelle N représente la composition de la famille appréciée comme suit :
 
-- personne seule : 1,5 part ;
+-personne seule : 1, 5 part ;
 
-- ménage : 2 parts ;
+-ménage : 2 parts ;
 
-- par enfant à charge : 0,5 part.
+-par enfant à charge : 0, 5 part.
 
-III. - Le montant mensuel du prélèvement effectué sur les prestations à échoir
-est calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
+III.-Le montant mensuel du prélèvement effectué sur les prestations à échoir est
+calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
 suivantes :
 
 25 % sur la tranche de revenus comprise entre 231 euros et 345 euros ;
@@ -94,7 +92,7 @@ de la déclaration du montant de ces revenus.
 
 Les tranches de revenus sur lesquelles sont effectuées les retenues et la
 retenue forfaitaire ainsi que le revenu estimé mentionné à l'article précédent
-sont revalorisés au 1er juillet de chaque année conformément à l'évolution en
+sont revalorisés au 1er janvier de chaque année conformément à l'évolution en
 moyenne annuelle des prix à la consommation hors tabac de l'année civile
 précédente, par arrêté conjoint des ministres chargés de la sécurité sociale, du
-budget et de l'agriculture. Ces montants sont arrondis au franc le plus proche.
+budget et de l'agriculture.
