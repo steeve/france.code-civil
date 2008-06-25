@@ -1,6 +1,6 @@
 Article R351-28-2
 ----
-Lors du renouvellement au 1er juillet des droits à l'aide personnalisée au
+Lors du renouvellement au 1er janvier des droits à l'aide personnalisée au
 logement, à chaque modification de situation familiale ou professionnelle ayant
 une incidence sur les ressources visées au I (a) de l'article R. 351-28-1 et à
 chaque modification des droits à l'aide personnalisée au logement ou de son

@@ -5,11 +5,11 @@ En application du cinquième alinéa de l'article L. 351-11, les retenues sur le
 payeur en récupération d'un indu d'aide personnalisée au logement sont
 déterminées conformément aux dispositions suivantes :
 
-I. - Il est tenu compte :
+I.-Il est tenu compte :
 
 a) De l'ensemble des catégories de ressources prises en compte au II de
 l'article R. 351-5, perçues par le bénéficiaire et son conjoint durant l'année
-civile de référence précédant la période de paiement, prévue à l'article R.
+civile de référence retenue pour la période de paiement prévue à l'article R.
 351-4, au cours de laquelle est effectué le recouvrement de l'indu.
 
 Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la
@@ -45,10 +45,8 @@ agréée et sa majoration ; sont également exclus les versements d'allocation a
 adultes handicapés et de son complément ainsi que ceux du revenu minimum
 d'insertion, lorsqu'ils sont liés aux périodes de congé ou de suspension de
 prise en charge mentionnées respectivement aux articles R. 821-8, R. 821-13, R.
-821-14 du code de la sécurité sociale et à l'article 29 du décret n° 88-1111 du
-12 décembre 1988 modifié relatif à la détermination du revenu minimum
-d'insertion et à l'allocation de revenu minimum d'insertion et modifiant le code
-de la sécurité sociale.
+821-14 du code de la sécurité sociale et à l'article R. 262-45 du code de
+l'action sociale et des familles.
 
 Les prestations mentionnées à l'alinéa précédent sont constituées des
 prestations dues au titre de la première mensualité sur laquelle porte la
@@ -59,26 +57,26 @@ principale et composées soit du montant du loyer principal, soit du montant de
 la mensualité de remboursement d'emprunt, attestées par la pièce justificative
 fournie pour l'attribution de l'aide.
 
-II. - Le revenu mensuel (R) pris en considération pour le calcul des retenues
+II.-Le revenu mensuel (R) pris en considération pour le calcul des retenues
 mensuelles à effectuer correspond au montant des revenus visés au I (a) majoré
 des prestations visées au I (b), diminué des charges de logement visées au I (c)
 ci-dessus.
 
-Ce revenu est pondéré selon la formule : R , dans laquelle N
+Ce revenu est pondéré selon la formule : R, dans laquelle N
 
 
 N
 
 représente la composition de la famille appréciée comme suit :
 
-- personne seule : 1,5 part ;
+-personne seule : 1, 5 part ;
 
-- ménage : 2 parts ;
+-ménage : 2 parts ;
 
-- par enfant à charge : 0,5 part.
+-par enfant à charge : 0, 5 part.
 
-III. - Le montant mensuel du prélèvement effectué sur les prestations à échoir
-est calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
+III.-Le montant mensuel du prélèvement effectué sur les prestations à échoir est
+calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
 suivantes :
 
 25 % sur la tranche de revenus comprise entre 1 333 F et 2 000 F ;
@@ -93,7 +91,7 @@ Il est opéré une retenue forfaitaire de 200 F sur la tranche de revenu
 inférieure à 1 333 F.
 
 Les tranches de revenus sur lesquelles sont effectuées les retenues ou la
-retenue forfaitaire sont revalorisées au 1er juillet de chaque année
+retenue forfaitaire sont revalorisées au 1er janvier de chaque année
 conformément à l'évolution en moyenne annuelle des prix à la consommation hors
-tabac de l'année civile précédente, par arrêté conjoint des ministres chargés de
-la sécurité sociale, du budget et de l'agriculture.
+tabac de l'année civile de référence, par arrêté conjoint des ministres chargés
+de la sécurité sociale, du budget et de l'agriculture.
