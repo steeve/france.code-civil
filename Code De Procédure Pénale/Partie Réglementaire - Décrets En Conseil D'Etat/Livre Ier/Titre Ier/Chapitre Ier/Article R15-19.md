@@ -27,18 +27,23 @@ compagnies républicaines de sécurité pour les voies de circulation auxquelles
 elles sont affectées et les unités motocyclistes régionales pour les infractions
 visées à l'article L. 130-1 du code de la route ;
 
-4° La direction des renseignements généraux de la préfecture de police ;
+4° Au titre de la direction centrale de la sécurité publique :
 
-5° L'inspection générale des services de la préfecture de police, dans les
-départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
-Seine-Saint-Denis ;
-
-6° La direction de la logistique de la préfecture de police dans les
-départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
-Seine-Saint-Denis ;
-
-7° Les circonscriptions de sécurité publique dont la compétence couvre un
+a) Les circonscriptions de sécurité publique dont la compétence couvre un
 département ainsi qu'une partie d'un ou plusieurs départements limitrophes ;
 
-8° Les services interdépartementaux de sécurisation des réseaux de transports en
+b) Les services interdépartementaux de sécurisation des réseaux de transport en
 commun de voyageurs.
+
+5° Au titre de la préfecture de police :
+
+a) Le service chargé de la lutte contre l'immigration irrégulière et le travail
+illégal des étrangers, dans les départements de Paris, des Hauts-de-Seine, du
+Val-de-Marne et de la Seine-Saint-Denis ;
+
+b) L'inspection générale des services, dans les départements de Paris, des
+Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
+
+c) La direction opérationnelle des services techniques et logistiques, dans les
+départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
+Seine-Saint-Denis.
