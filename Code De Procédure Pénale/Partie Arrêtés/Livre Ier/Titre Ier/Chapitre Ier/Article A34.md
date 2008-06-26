@@ -13,10 +13,7 @@ national :
 
 -la sous-direction de la police judiciaire de la gendarmerie nationale ;
 
--la direction de la surveillance du territoire ;
-
--la sous-direction chargée des courses et jeux de la direction centrale des
-renseignements généraux ;
+-la direction centrale du renseignement intérieur ;
 
 -l'inspection générale de la police nationale ;
 
