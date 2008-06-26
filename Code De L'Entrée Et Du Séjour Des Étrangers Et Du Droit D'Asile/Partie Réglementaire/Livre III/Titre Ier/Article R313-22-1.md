@@ -10,12 +10,19 @@ les pièces suivantes :
 membre de famille, sur le territoire de l'Etat membre de l'Union européenne qui
 a accordé le statut de résident de longue durée-CE à son conjoint ou parent ;
 
-2° La justification qu'il dispose de ressources propres, stables et régulières,
-suffisant à son entretien indépendamment des prestations familiales et des
-allocations mentionnées au III de l'article L. 313-1-1 ou qu'il bénéficie de la
-prise en charge effective de ses besoins par son conjoint ou parent ; les
-ressources mensuelles du demandeur doivent atteindre un montant au moins égal au
-salaire minimum de croissance apprécié à la date du dépôt de la demande ;
+2° De la justification que son entretien sera assuré par des ressources stables
+et régulières, indépendamment des prestations familiales et des allocations
+mentionnées au III de l'article L. 313-11-1 ; les ressources stables du
+demandeur et de son conjoint ou parent contribuant à la prise en charge
+effective de ses besoins sont appréciées par référence au montant du salaire
+minimum de croissance et sont considérées comme suffisantes lorsqu'elles
+atteignent :
+
+-ce montant pour une famille de deux ou trois personnes ;
+
+-ce montant majoré d'un dixième pour une famille de quatre ou cinq personnes ;
+
+-ce montant majoré d'un cinquième pour une famille de six personnes ou plus ;
 
 3° La justification qu'il dispose d'un logement approprié, qui peut notamment
 être apportée par tout document attestant sa qualité de propriétaire ou de

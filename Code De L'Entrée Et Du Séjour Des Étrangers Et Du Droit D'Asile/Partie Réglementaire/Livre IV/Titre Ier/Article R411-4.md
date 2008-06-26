@@ -1,8 +1,15 @@
 Article R411-4
 ----
-Pour l'application du 1° de l'article L. 411-5, le niveau des ressources du
-demandeur est apprécié par référence à la moyenne du salaire minimum de
-croissance sur une durée de douze mois. Les ressources du conjoint sont prises
-en compte dans les mêmes conditions pour l'appréciation des ressources qui
-alimenteront de manière stable le budget de la famille. Lorsque le niveau de
-cette référence est atteint, les ressources sont considérées comme suffisantes.
+Pour l'application du 1° de l'article L. 411-5, les ressources du demandeur et
+de son conjoint qui alimenteront de façon stable le budget de la famille sont
+appréciées sur une période de douze mois par référence à la moyenne mensuelle du
+salaire minimum de croissance au cours de cette période. Ces ressources sont
+considérées comme suffisantes lorsqu'elles atteignent un montant équivalent à :
+
+- cette moyenne pour une famille de deux ou trois personnes ;
+
+- cette moyenne majorée d'un dixième pour une famille de quatre ou cinq
+personnes ;
+
+- cette moyenne majorée d'un cinquième pour une famille de six personnes ou
+plus.
