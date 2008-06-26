@@ -20,3 +20,7 @@ qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie frança
 et de Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
+
+Pour l'application du présent code aux collectivités d'outre-mer et à Mayotte,
+toute référence au code des douanes est remplacée par la référence aux codes des
+douanes applicables à ces collectivités et à Mayotte, ayant le même objet.

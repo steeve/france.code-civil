@@ -21,8 +21,8 @@ ainsi que des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R.
 ;
 
 6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38,
-R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les
-conseils en propriété industrielle ;
+R. 613-25-1 à R. 613-25-4, R. 613-46, R. 613-56 et R. 613-58 seulement en tant
+qu'ils concernent les conseils en propriété industrielle ;
 
 7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13,
 R. 712-14, R. 712-21, R. 712-24, R. 714-4 et R. 714-6 seulement en tant qu'ils
