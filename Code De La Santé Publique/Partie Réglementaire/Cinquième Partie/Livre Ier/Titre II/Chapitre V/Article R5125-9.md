@@ -21,6 +21,10 @@ Le mobilier pharmaceutique est disposé de telle sorte que le public n'ait
 directement accès ni aux médicaments, ni aux autres produits dont la vente est
 réservée aux officines.
 
+Toutefois, les médicaments de médication officinale mentionnés à l'article R.
+5121-202 peuvent être présentés au public en accès direct dans les conditions
+prévues à l'article R. 4235-55.
+
 Lorsque des livraisons sont envisagées en dehors des heures d'ouverture,
 l'officine est équipée d'un dispositif permettant l'isolement des médicaments et
 autres produits livrés.
