@@ -1,5 +1,8 @@
 Article Annexe II-4 (art. A212-49)
 ----
+RÉFÉRENTIEL DE CERTIFICATION
+
+
 UC 1 EC
 
 De concevoir un projet d'action
@@ -334,7 +337,7 @@ D'anticiper les risques potentiels pour le pratiquant
 
 OI 423 EC
 
-de maîtriser le comportement et les gestes à réaliser en cas d'incident ou
+De maîtriser le comportement et les gestes à réaliser en cas d'incident ou
 d'accident
 
 
@@ -361,4 +364,9 @@ D'assurer la sécurité passive des équipements
 
 OI 434 EC
 
-De prévenir les comportements à risque.
+De prévenir les comportements à risque
+
+
+OI 435 EC
+
+D'agir en cas de maltraitance des mineurs
