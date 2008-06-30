@@ -1,15 +1,23 @@
 Article R*423-23
 ----
-Les instructions prévues à l'article R. 423-30 fixent notamment les conditions
-dans lesquelles le conseil d'administration détermine les dotations annuelles
-aux provisions pour risques et pour dépréciation ainsi que les dotations
-annuelles aux amortissements des charges à répartir sur plusieurs exercices.
+L'office public de l'habitat est redevable d'une contribution au fonctionnement
+du service comptable public, dont le tarif est fixé par arrêté conjoint du
+ministre chargé du budget et du ministre chargé du logement.
 
-Les sommes dues en loyers, charges et accessoires par les locataires ayant
-quitté leur logement et par ceux dont la dette a une origine antérieure à un an
-sont provisionnées en totalité. Lorsque l'origine de la dette est comprise entre
-trois mois et un an, les sommes dues sont provisionnées selon les taux et dans
-les conditions fixés par les instructions prévues à l'article R. 423-30. Le
-calcul de ces provisions s'effectue sur la base des créances échues et non
-recouvrées au 31 décembre [*date*], exception faite du quittancement de
-décembre.
+Toutefois, une convention conclue entre l'office et le trésorier-payeur général
+du lieu du siège de l'office peut prévoir une exonération totale ou partielle de
+cette contribution lorsque l'office met gratuitement à la disposition du
+comptable de l'office des personnels qu'il rémunère et qui sont placés sous
+l'autorité directe du comptable.
+
+Le comptable public peut réaliser, pour le compte de l'office, des prestations
+n'ayant pas le caractère obligatoire qui résulte de sa fonction de comptable
+direct du Trésor. Le conseil d'administration peut alors décider de lui allouer
+une rémunération spécifique, selon des modalités déterminées par un arrêté
+interministériel du ministre chargé du budget et du ministre chargé du logement.
+
+Les personnels du réseau du Trésor public participant à la gestion des offices
+publics de l'habitat perçoivent une indemnité de gestion, à la charge de l'Etat,
+déterminée à partir des contributions des offices dont ils assurent la gestion
+comptable. Les catégories de personnels concernés et le montant qui leur est
+attribuable à ce titre sont fixés par arrêté du ministre chargé du budget.

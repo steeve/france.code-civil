@@ -1,26 +1,19 @@
 Article R*423-2
 ----
-Le budget d'un office public d'aménagement et de construction comprend
-l'ensemble des prévisions de dépenses et de recettes de l'exercice.
+Le conseil d'administration d'un office public de l'habitat qui veut changer de
+régime budgétaire et comptable prend à cet effet, douze mois au moins avant la
+date prévue d'entrée en vigueur du nouveau régime, une délibération portant
+déclaration d'intention afin de pouvoir mettre en œuvre les mesures
+préparatoires.
 
-Il est présenté en conformité avec la nomenclature comptable fixée par les
-instructions prévues à l'article R. 423-30.
+Cette délibération est transmise au préfet et au trésorier-payeur général. Dans
+les six mois à compter de cette transmission, le trésorier-payeur général
+notifie son avis au président du conseil d'administration et le communique au
+préfet.
 
-Il est divisé en :
-
-- une section d'investissement ;
-
-- une section de fonctionnement ;
-
-Il est accompagné de budgets annexes correspondant à chacune des opérations
-réalisées pour le compte de tiers.
-
-Au budget de l'office et aux budgets annexes sont jointes toutes justifications
-nécessaires, telles que les bilans, plans de financement et de trésorerie mis à
-jour des opérations en cours ou nouvelles, et les prévisions d'engagement pour
-l'exercice à venir.
-
-Les opérations d'investissement doivent comporter des programmes prévisionnels
-d'investissement accompagnés de plans de financement. Les plans de financement
-précisent l'origine et le montant des moyens financiers prévus pour chaque
-opération.
+La délibération du conseil d'administration arrêtant le choix de l'office en
+application de l'article L. 421-17 est adoptée au plus tard le 31 juillet avant
+l'entrée en vigueur du nouveau régime budgétaire et comptable fixée au 1er
+janvier de l'année suivante. Si la délibération est adoptée après le 31 juillet,
+la date d'entrée en vigueur du nouveau régime budgétaire et comptable est
+reportée au 1er janvier de la deuxième année suivant celle de la délibération.

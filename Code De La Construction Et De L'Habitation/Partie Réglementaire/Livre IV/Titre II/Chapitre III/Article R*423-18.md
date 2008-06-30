@@ -1,4 +1,4 @@
-Article R*423-26
+Article R*423-18
 ----
 Lorsque l'arrêté des comptes fait apparaître dans l'exécution du budget un
 déficit égal ou supérieur à 10 % des produits inscrits au compte de résultat, la
