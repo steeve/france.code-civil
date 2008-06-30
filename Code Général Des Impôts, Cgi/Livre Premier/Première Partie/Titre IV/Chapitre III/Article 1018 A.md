@@ -10,10 +10,17 @@ Ce droit est de :
 correctionnelle ;
 
 2° 22 euros pour les autres décisions des tribunaux de police et des
-juridictions de proximité (1) et celles des juridictions qui ne statuent pas sur
-le fond ;
+juridictions de proximité et celles des juridictions qui ne statuent pas sur le
+fond ;
 
-3° 90 euros pour les décisions des tribunaux correctionnels ;
+3° 90 euros pour les décisions des tribunaux correctionnels ; Toutefois, ce
+droit est porté à 180 euros si le condamné n'a pas comparu personnellement, dès
+lors que la citation a été délivrée à personne ou qu'il est établi que le
+prévenu a eu connaissance de la citation, sauf s'il est jugé en son absence dans
+les conditions prévues par les premier et deuxième alinéas de l'article 411 du
+code de procédure pénale. Cette majoration ne s'applique pas si le condamné
+s'acquitte volontairement du montant du droit fixe de procédure dans un délai
+d'un mois à compter de la date où il a eu connaissance de la décision ;
 
 4° 120 euros pour les décisions des cours d'appel statuant en matière
 correctionnelle et de police ;

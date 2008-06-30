@@ -17,5 +17,10 @@ En cas de refus motivé du fonds de garantie, ou de désaccord de la victime sur
 l'offre qui lui est faite, l'instruction de l'affaire par le président de la
 commission ou le magistrat assesseur se poursuit.
 
+Lorsque le préjudice n'est pas en état d'être liquidé et que le fonds de
+garantie ne conteste pas le droit à indemnisation, il peut, en tout état de la
+procédure, verser une provision à la victime. Le fonds de garantie tient le
+président de la commission d'indemnisation immédiatement informé.
+
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

@@ -10,8 +10,10 @@ Elle indique le tribunal saisi, le lieu, l'heure et la date de l'audience, et
 précise la qualité de prévenu, de civilement responsable, ou de témoin de la
 personne citée.
 
-Si elle est délivrée à la requête de la partie civile, elle mentionne les nom,
-prénoms, profession et domicile réel ou élu de celle-ci.
+Si elle est délivrée à la requête de la partie civile, elle mentionne, s'il
+s'agit d'une personne physique, ses nom, prénoms, profession et domicile réel ou
+élu et, s'il s'agit d'une personne morale, sa forme, sa dénomination, son siège
+social et l'organe qui la représente légalement.
 
 La citation délivrée à un témoin doit en outre mentionner que la
 non-comparution, le refus de témoigner et le faux témoignage sont punis par la

@@ -13,4 +13,6 @@ métropolitaine, ou si, cité devant un tribunal d'un département de la France
 métropolitaine, elle réside dans un département ou territoire d'outre-mer, à
 Saint-Pierre-et-Miquelon ou Mayotte.
 
-Si la partie citée réside à l'étranger, ce délai est augmenté de deux mois.
+Si la partie citée réside à l'étranger, ce délai est augmenté d'un mois si elle
+demeure dans un Etat membre de l'Union européenne et de deux mois dans les
+autres cas.

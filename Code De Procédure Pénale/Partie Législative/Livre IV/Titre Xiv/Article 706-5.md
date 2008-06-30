@@ -11,3 +11,8 @@ juridiction en application de l'article 706-15. Toutefois, la commission relève
 le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir
 ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son
 préjudice ou pour tout autre motif légitime.
+
+Lorsqu'une décision d'une juridiction répressive a alloué des dommages et
+intérêts à la victime et que la demande est jugée irrecevable, le délai prévu au
+deuxième alinéa de l'article 706-15-2 ne court qu'à compter de la notification
+de la décision de la commission.
