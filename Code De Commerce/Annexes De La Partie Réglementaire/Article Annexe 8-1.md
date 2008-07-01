@@ -1,5 +1,8 @@
 Article Annexe 8-1
 ----
+CODE DE DÉONTOLOGIE DE LA PROFESSION DE COMMISSAIRE AUX COMPTES
+
+
 Article 1er
 
 Le commissaire aux comptes exerce une mission d'intérêt général dans les
@@ -19,10 +22,7 @@ Article 2
 Le commissaire aux comptes doit se conformer aux lois et règlements ainsi qu'aux
 dispositions du présent code.
 
-
-TITRE Ier
-
-PRINCIPES FONDAMENTAUX DE COMPORTEMENT
+TITRE Ier : PRINCIPES FONDAMENTAUX DE COMPORTEMENT
 
 
 Article 3
@@ -120,15 +120,9 @@ mission légale.
 Il ne communique les informations qu'il détient qu'aux personnes légalement
 qualifiées pour en connaître.
 
+TITRE II : INTERDICTIONS SITUATIONS À RISQUE ET MESURES DE SAUVEGARDE
 
-TITRE II
-
-INTERDICTIONS SITUATIONS À RISQUE ET MESURES DE SAUVEGARDE
-
-
-Section 1
-
-Interdictions
+Section 1 : Interdictions
 
 
 Article 10
@@ -185,10 +179,7 @@ opérations sur le capital ou de recherche de financement ;
 dirigeants devant toute juridiction, ou à toute mission d'expertise dans un
 contentieux dans lequel ces personnes seraient impliquées.
 
-
-Section 2
-
-Situations à risque et mesures de sauvegarde
+Section 2 : Situations à risque et mesures de sauvegarde
 
 
 Article 11
@@ -228,10 +219,8 @@ les comptes exerce une activité dans un secteur soumis à une réglementation
 particulière telle que l'appel public à l'épargne, la banque ou l'assurance, il
 informe de sa démission les instances publiques compétentes pour cette activité.
 
-
-TITRE III
-
-ACCEPTATION, CONDUITE ET MAINTIEN DE LA MISSION DU COMMISSAIRE AUX COMPTES
+TITRE III : ACCEPTATION, CONDUITE ET MAINTIEN DE LA MISSION DU COMMISSAIRE AUX
+COMPTES
 
 
 Article 13
@@ -248,7 +237,8 @@ a) Sur la structure de la personne ou entité dont les comptes seront certifiés
 son actionnariat et son domaine d'activité ;
 
 b) Sur son mode de direction et sur la politique de ses dirigeants en matière de
-contrôle interne et d'information financière.
+contrôle interne en lien avec le processus de consolidation des comptes et
+d'information financière.
 
 
 Article 14
@@ -276,9 +266,7 @@ premier alinéa et, au plus tard, jusqu'au 1 er mai 2007.
 
 Article 15
 
-Organisation interne
-
-de la structure d'exercice professionnel
+Organisation interne de la structure d'exercice professionnel
 
 Les modalités d'organisation et de fonctionnement des structures d'exercice du
 commissariat aux comptes, qu'elles soient en nom propre ou sous forme de
@@ -291,35 +279,34 @@ En particulier, chaque structure doit satisfaire aux exigences suivantes :
 a) Disposer des moyens permettant au commissaire aux comptes d'assumer ses
 responsabilités en matière :
 
-- d'adéquation à l'ampleur de la mission à accomplir des ressources humaines et
+-d'adéquation à l'ampleur de la mission à accomplir des ressources humaines et
 des techniques mises en oeuvre ;
 
-- de contrôle du respect des règles applicables à la profession et
-d'appréciation régulière des risques ;
+-de contrôle du respect des règles applicables à la profession et d'appréciation
+régulière des risques ;
 
-- d'évaluation périodique en son sein des connaissances et de formation
-continue.
+-d'évaluation périodique en son sein des connaissances et de formation continue.
 
 b) Mettre en oeuvre des procédures :
 
-- assurant une évaluation périodique des conditions d'exercice de chaque mission
+-assurant une évaluation périodique des conditions d'exercice de chaque mission
 de contrôle, en vue de vérifier que celle-ci peut être poursuivie dans le
 respect des exigences déontologiques, notamment en matière d'indépendance
 vis-à-vis de la personne ou de l'entité contrôlée ;
 
-- permettant de décider rapidement des mesures de sauvegarde si celles-ci
+-permettant de décider rapidement des mesures de sauvegarde si celles-ci
 s'avèrent nécessaires.
 
 c) Le cas échéant, garantir :
 
-- la rotation des signataires, lorsque la loi le prévoit ;
+-la rotation des signataires, lorsque la loi le prévoit ;
 
-- la mise en place d'une revue indépendante des opinions émises ;
+-la mise en place d'une revue indépendante des opinions émises ;
 
-- le renforcement des moyens affectés au contrôle lorsque la difficulté
-technique de la mission ou les exigences déontologiques le commandent ;
+-le renforcement des moyens affectés au contrôle lorsque la difficulté technique
+de la mission ou les exigences déontologiques le commandent ;
 
-- la mise en place d'un dispositif de contrôle de qualité interne.
+-la mise en place d'un dispositif de contrôle de qualité interne.
 
 d) Constituer une documentation appropriée sur la manière dont elle satisfait
 aux exigences ci-dessus.
@@ -437,10 +424,7 @@ La même obligation s'impose au commissaire aux comptes suppléant appelé à
 succéder de plein droit au commissaire aux comptes titulaire qui démissionne ou
 est empêché, avant la date normale d'expiration de son mandat.
 
-
-TITRE IV
-
-EXERCICE EN RÉSEAU
+TITRE IV : EXERCICE EN RÉSEAU
 
 
 Article 22
@@ -474,8 +458,10 @@ chacun de ses membres et faisant mention de compétences pluridisciplinaires ;
 
 g) L'élaboration ou le développement d'outils techniques communs.
 
-Ne constituent pas un réseau les associations techniques ayant pour unique objet
-le partage des connaissances ou l'échange des expériences.
+Toutefois, ne constituent pas de tels indices l'élaboration ou le développement
+d'outils techniques communs lorsqu'ils s'inscrivent dans le cadre d'une
+association technique ayant pour unique objet l'élaboration ou le développement
+de ces outils, le partage de connaissances ou l'échange d'expériences.
 
 En cas de doute sur son appartenance à un réseau, le commissaire aux comptes
 saisit pour avis le Haut Conseil du commissariat aux comptes.
@@ -525,9 +511,12 @@ substitution aux dirigeants de la personne ou de l'entité ;
 fonctions dites sensibles au sens de l'article 27 ;
 
 4° La tenue de la comptabilité, la préparation et l'établissement des comptes,
-l'élaboration d'une information ou d'une communication financières ;
+l'élaboration d'une information financière ou, lorsqu'elle est de nature à avoir
+une incidence sur ou est en lien avec la situation de la personne ou de l'entité
+dont les comptes sont certifiés, d'une communication financière ;
 
-5° La mise en place des mesures de contrôle interne ;
+5° La mise en place des mesures de contrôle interne en lien avec le processus de
+consolidation des comptes ;
 
 6° La réalisation, en dehors de la mission légale, d'évaluations d'éléments
 destinés à faire partie des comptes ou de l'information financière ;
@@ -566,17 +555,18 @@ Organisation spécifique du commissaire aux comptes membre d'un réseau
 pluridisciplinaire
 
 Lorsqu'un commissaire aux comptes appartient à un réseau dont les membres
-assurent des missions autres que le commissariat aux comptes, il doit pouvoir
-justifier que l'organisation du réseau lui permet d'être informé de la nature et
-du prix des prestations fournies ou susceptibles d'être fournies par l'ensemble
-des membres du réseau à toute personne ou entité dont il certifie les comptes,
-ainsi qu'aux personnes ou entités qui la contrôlent ou qui sont contrôlées par
-elle, au sens des I et II de l'article L. 233-3.
+assurent des missions autres que le commissariat aux comptes, il doit mettre en
+place une organisation lui permettant d'être informé de la nature et du prix des
+prestations fournies ou susceptibles d'être fournies par l'ensemble des membres
+du réseau à toute personne ou entité dont il certifie les comptes, ainsi qu'aux
+personnes ou entités qui la contrôlent ou qui sont contrôlées par elle, au sens
+des I et II de l'article L. 233-3.
 
+Il doit pouvoir justifier qu'il a procédé à l'analyse de la situation et des
+risques qui lui sont attachés et qu'il a pris toutes mesures de sauvegarde
+appropriées conformément aux articles 11 et 12.
 
-TITRE V
-
-LIENS PERSONNELS, FINANCIERS ET PROFESSIONNELS
+TITRE V : LIENS PERSONNELS, FINANCIERS ET PROFESSIONNELS
 
 
 Article 26
@@ -588,7 +578,7 @@ d'un pouvoir décisionnel en ce qui concerne la gestion, la rémunération, la
 promotion ou la supervision des membres de l'équipe chargée de cette mission.
 
 Pour l'application de ces mêmes dispositions, est réputé exercer des fonctions
-dites "sensibles" au sein de la personne dont les comptes sont certifiés :
+dites " sensibles " au sein de la personne dont les comptes sont certifiés :
 
 a) Toute personne ayant la qualité de mandataire social ;
 
@@ -603,7 +593,7 @@ Article 27
 
 Liens personnels
 
-I. - Liens familiaux :
+I.-Liens familiaux :
 
 Est incompatible avec l'exercice de la mission de commissaire aux comptes tout
 lien familial entre, d'une part, une personne occupant une fonction sensible au
@@ -630,21 +620,21 @@ entre l'une de ces personnes et les ascendants ou descendants de son conjoint,
 de la personne avec laquelle elle est liée par un pacte civil de solidarité et
 de son concubin.
 
-II. - Autres liens personnels :
+II.-Autres liens personnels :
 
 Un commissaire aux comptes ne peut accepter ou conserver une mission de contrôle
 légal de la part de la personne ou de l'entité qui l'a désigné, dès lors que
 lui-même ou l'un des membres de la direction de la société de commissaires aux
 comptes entretient avec cette personne ou entité ou avec une personne occupant
 une fonction sensible au sein de celle-ci des liens personnels étroits,
-susceptibles de nuire à son indépendance.
+affectant son indépendance.
 
 
 Article 28
 
 Liens financiers
 
-I. - Les liens financiers s'entendent comme :
+I.-Les liens financiers s'entendent comme :
 
 a) La détention, directe ou indirecte, d'actions ou de tous autres titres
 donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux
@@ -700,7 +690,7 @@ en raison d'événements extérieurs, notamment lors d'un changement de commissa
 aux comptes ou à la suite d'une fusion d'entreprises, il doit y être mis fin
 sans délai.
 
-II. - Les incompatibilités énoncées au I s'appliquent au commissaire aux comptes
+II.-Les incompatibilités énoncées au I s'appliquent au commissaire aux comptes
 lorsque son conjoint, la personne qui lui est liée par un pacte civil de
 solidarité, son concubin ou toute personne fiscalement à sa charge a des liens
 financiers avec la personne ou entité dont il certifie les comptes.
@@ -710,12 +700,12 @@ Article 29
 
 Liens professionnels
 
-I. - Révèle un lien professionnel toute situation qui établit entre le
-commissaire aux comptes et la personne ou entité dont il certifie les comptes un
-intérêt commercial ou financier commun en dehors des opérations courantes
-conclues aux conditions habituelles de marché.
+I.-Révèle un lien professionnel toute situation qui établit entre le commissaire
+aux comptes et la personne ou entité dont il certifie les comptes un intérêt
+commercial ou financier commun en dehors des opérations courantes conclues aux
+conditions habituelles de marché.
 
-II. - Liens professionnels concomitants :
+II.-Liens professionnels concomitants :
 
 Est incompatible avec l'exercice de la mission de commissaire aux comptes tout
 lien professionnel entre, d'une part, la personne ou entité dont les comptes
@@ -733,7 +723,7 @@ e) Tout associé de cette société ayant une influence sur l'opinion émise par
 commissaire aux comptes à l'égard de la personne ou entité dont les comptes sont
 certifiés.
 
-III. - Liens professionnels antérieurs :
+III.-Liens professionnels antérieurs :
 
 Sous réserve des cas prévus par la loi, un commissaire aux comptes ne peut
 accepter une mission légale lorsque lui-même, ou la société de commissaires aux
@@ -755,10 +745,7 @@ La survenance en cours de mission de l'une des situations mentionnées aux
 articles 23, 24, 27, 28 et 29 conduit le commissaire aux comptes à en tirer sans
 délai les conséquences.
 
-
-TITRE VI
-
-HONORAIRES
+TITRE VI : HONORAIRES
 
 
 Article 31
@@ -849,18 +836,18 @@ Article 35
 
 Publicité des honoraires
 
-I. - Le commissaire aux comptes informe la personne ou entité dont il est chargé
+I.-Le commissaire aux comptes informe la personne ou entité dont il est chargé
 de certifier les comptes du montant de l'ensemble des honoraires :
 
-- qu'il a perçu au titre de sa mission de contrôle légal ;
+-qu'il a perçu au titre de sa mission de contrôle légal ;
 
-- que le réseau, auquel il appartient, s'il n'a pas pour activité exclusive le
+-que le réseau, auquel il appartient, s'il n'a pas pour activité exclusive le
 contrôle légal des comptes, a reçu au titre des prestations qui ne sont pas
 directement liées à la mission du commissaire aux comptes, fournies à une
 personne contrôlée ou qui contrôle, au sens des I et II de l'article L. 233-3,
 la personne ou entité dont les comptes sont certifiés.
 
-II. - Lorsque la mission du commissaire aux comptes porte sur le contrôle de
+II.-Lorsque la mission du commissaire aux comptes porte sur le contrôle de
 comptes consolidés, les informations communiquées doivent porter sur les
 honoraires perçus par le réseau au titre des prestations qui ne sont pas
 directement liées à la mission de commissaire aux comptes et qui ont été
@@ -874,10 +861,7 @@ prestations fournies tant par lui-même que par le réseau auquel il appartient,
 une personne ou entité contrôlée ou qui contrôle, au sens des I et II de
 l'article L. 233-3, la personne ou entité dont les comptes sont certifiés.
 
-
-TITRE VII
-
-PUBLICITÉ
+TITRE VII : PUBLICITÉ
 
 
 Article 36
@@ -911,9 +895,9 @@ l'image de la profession.
 
 Les autres formes de communication sont autorisées sous réserve :
 
-- que l'expression en soit décente et empreinte de retenue ;
+-que l'expression en soit décente et empreinte de retenue ;
 
-- que leur contenu ne comporte aucune inexactitude ni ne soit susceptible
+-que leur contenu ne comporte aucune inexactitude ni ne soit susceptible
 d'induire le public en erreur ;
 
-- qu'elles soient exemptes de tout élément comparatif.
+-qu'elles soient exemptes de tout élément comparatif.
