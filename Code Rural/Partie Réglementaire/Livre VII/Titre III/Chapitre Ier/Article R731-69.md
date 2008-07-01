@@ -1,14 +1,14 @@
 Article R731-69
 ----
-La première mensualité de cotisations, payable dans les conditions prévues aux
-articles R. 731-63 à R. 731-65, qui, pour un motif imputable au cotisant, n'est
-pas recouvrée à l'échéance fixée est majorée de 5 %.
+Les majorations prévues à l'article L. 731-22, aux premier et deuxième alinéas
+de l'article R. 731-68 et aux articles D. 731-21 et D. 731-41 font l'objet d'une
+remise automatique lorsque les conditions suivantes sont réunies :
 
-La majoration consécutive à un deuxième défaut de paiement intervenu en cours
-d'année est égale à 10 % de la somme qui devait être prélevée au titre de la
-mensualité en cause.
+1° Aucune infraction n'a été constatée au cours des 24 mois précédents ;
 
-Les majorations prévues aux deux alinéas précédents s'imputent éventuellement
-sur le montant des majorations appliquées au cours de l'année, en exécution de
-l'article R. 731-68, à l'encontre des assurés placés dans la situation prévue au
-deuxième alinéa de l'article R. 731-66.
+2° Leur montant est inférieur au plafond de la sécurité sociale applicable aux
+rémunérations ou gains versés par mois, fixé pour l'année civile en cours ;
+
+3° Dans le mois suivant la date limite d'exigibilité des cotisations, le
+cotisant a réglé les cotisations dues ou a fourni les documents prévus aux
+articles D. 731-18 et D. 731-38.

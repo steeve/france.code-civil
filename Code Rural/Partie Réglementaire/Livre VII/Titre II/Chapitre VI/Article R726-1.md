@@ -47,4 +47,6 @@ proposition du conseil central d'administration de la mutualité sociale
 agricole, le montant maximum autorisé des prises en charge visées au premier
 alinéa du 4° du présent article. Au sein de chaque département, les crédits sont
 répartis au prorata des cotisations mises en recouvrement par chaque organisme
-assureur.
+assureur. Pour l'application du présent alinéa, les départements qui composent
+la région Ile-de-France, d'une part, et ceux qui composent la région Corse,
+d'autre part, sont considérés respectivement comme un seul département.

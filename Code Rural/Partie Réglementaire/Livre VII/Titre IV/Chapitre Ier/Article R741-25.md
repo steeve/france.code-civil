@@ -1,27 +1,29 @@
 Article R741-25
 ----
-Par dérogation aux dispositions des articles R. 741-22 à R. 741-24, les
-pénalités et majorations de retard cessent d'être exigibles en cas de première
-infraction et de somme inférieure à un montant fixé par arrêté du ministre
-chargé de l'agriculture lorsque l'employeur a réglé la totalité des cotisations
-et fourni les documents prévus aux articles R. 741-2, R. 741-5 et R. 741-15 dans
-le délai d'un mois suivant la date d'exigibilité des cotisations.
+Les pénalités et majorations de retard prévues à l'article R. 741-22 et à
+l'article R. 741-23 font l'objet d'une remise automatique lorsque les conditions
+suivantes sont réunies :
 
-Dans les autres cas, sur demande écrite des intéressés, le conseil
-d'administration de la caisse de mutualité sociale agricole peut accorder, en
-cas de bonne foi dûment prouvée, une remise totale ou partielle des pénalités et
-des majorations de retard résultant des articles R. 741-22 et R. 741-23.
+1° Aucune infraction n'a été constatée au cours des vingt-quatre mois précédents
+;
 
-La demande n'est recevable qu'après paiement de la totalité des cotisations
-ayant donné lieu aux majorations de retard. Elle doit être présentée, sous peine
-de forclusion, dans le délai fixé par arrêté des ministres chargés de
-l'agriculture et du budget.
+2° Leur montant est inférieur au plafond de la sécurité sociale applicable aux
+rémunérations ou gains versés par mois, fixé pour l'année civile en cours ;
 
-Le conseil d'administration peut déléguer tout ou partie de ses pouvoirs de
-décision à la commission de recours amiable prévue à l'article R. 142-1 du code
-de la sécurité sociale.
+3° L'employeur a réglé la totalité des cotisations et fourni les documents
+prévus aux articles R. 741-2, R. 741-5 et R. 741-15 dans le délai d'un mois
+suivant la date limite d'exigibilité des cotisations.
 
-Les décisions doivent être motivées. En cas de remise totale ou partielle, elles
-doivent, lorsqu'elles portent sur une somme excédant un seuil fixé par arrêté du
-ministre chargé de l'agriculture et du ministre chargé du budget, être
-approuvées par le préfet.
+II.-Les dispositions du I ne s'appliquent pas lorsque les majorations et
+pénalités portent sur :
+
+1° Des cotisations afférentes à des rémunérations, versées ou dues à des
+salariés, réintégrées dans l'assiette des cotisations à la suite du constat de
+l'infraction relative au travail dissimulé mentionnée à l'article L. 8221-5 du
+code du travail ;
+
+2° Des cotisations afférentes à des rémunérations, versées ou dues à des
+salariés, réintégrées dans l'assiette des cotisations à la suite du contrôle
+mentionné aux articles L. 724-7 et L. 724-11 au cours duquel l'absence de bonne
+foi a été constatée après mise en œuvre de la procédure prévue à l'article D.
+724-9.
