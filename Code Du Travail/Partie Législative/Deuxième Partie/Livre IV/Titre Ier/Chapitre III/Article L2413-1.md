@@ -22,6 +22,12 @@ européen ;
 6° Membre du groupe spécial de négociation et représentant au comité de la
 société européenne ;
 
+6° bis Membre du groupe spécial de négociation et représentant au comité de la
+société coopérative européenne ;
+
+6° ter Membre du groupe spécial de négociation et représentant au comité de la
+société issue de la fusion transfrontalière ;
+
 7° Représentant ou ancien représentant du personnel au comité d'hygiène et de
 sécurité des conditions de travail ;
 

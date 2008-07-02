@@ -16,15 +16,15 @@ République. Le juge indique dans sa décision que le jugement est transmis par 
 greffe.
 
 En cas de constat de déplacement de l'administration centrale en France d'une
-société européenne immatriculée dans un autre Etat membre, contrevenant à
-l'article 7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001,
-précité, le procureur de la République du tribunal de grande instance dans le
-ressort duquel l'administration centrale est installée doit informer sans délai
-l'Etat membre du siège statutaire.
+société européenne immatriculée dans un autre Etat membre de la Communauté
+européenne, contrevenant à l'article 7 du règlement (CE) n° 2157 / 2001 du
+Conseil, du 8 octobre 2001, précité, le procureur de la République du tribunal
+de grande instance dans le ressort duquel l'administration centrale est
+installée doit informer sans délai l'Etat membre du siège statutaire.
 
 En cas de constat de déplacement de l'administration centrale dans un autre Etat
-membre d'une société européenne immatriculée en France, contrevenant à l'article
-7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001, précité, les
-autorités de cet Etat membre doivent informer sans délai le procureur de la
-République du tribunal de grande instance dans le ressort duquel la société est
-immatriculée.
+membre de la Communauté européenne d'une société européenne immatriculée en
+France, contrevenant à l'article 7 du règlement (CE) n° 2157 / 2001 du Conseil,
+du 8 octobre 2001, précité, les autorités de cet Etat membre doivent informer
+sans délai le procureur de la République du tribunal de grande instance dans le
+ressort duquel la société est immatriculée.

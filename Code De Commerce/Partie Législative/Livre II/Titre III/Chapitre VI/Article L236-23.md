@@ -1,8 +1,9 @@
 Article L236-23
 ----
-Les dispositions des articles L. 236-10, L. 236-11, L. 236-14, L. 236-20 et L.
-236-21 sont applicables aux fusions ou aux scissions des sociétés à
-responsabilité limitée au profit de sociétés de même forme.
+Les dispositions des articles L. 236-10, L. 236-11, L. 236-13, L. 236-14, L.
+236-15, L. 236-18, L. 236-19, L. 236-20 et L. 236-21 sont applicables aux
+fusions ou aux scissions des sociétés à responsabilité limitée au profit de
+sociétés de même forme.
 
 Lorsque la fusion est réalisée par apports à une société à responsabilité
 limitée nouvelle, celle-ci peut être constituée sans autres apports que ceux des

@@ -9,6 +9,12 @@ européen ;
 2° Membre du groupe spécial de négociation et représentant au comité de la
 société européenne ;
 
+2° bis Membre du groupe spécial de négociation et représentant au comité de la
+société coopérative européenne ;
+
+2° ter Membre du groupe spécial de négociation et représentant au comité de la
+société issue de la fusion transfrontalière ;
+
 3° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de
 travail en agriculture prévue à l'article L. 717-7 du code rural ;
 

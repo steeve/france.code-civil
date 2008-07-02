@@ -1,7 +1,7 @@
 Article L2363-8
 ----
 Lorsqu'aucun accord n'a été conclu et que le groupe spécial de négociation n'a
-pas pris la décision prévue au deuxième alinéa de l'article L. 2362-10, la
+pas pris la décision prévue au deuxième alinéa de l'article L. 2362-7, la
 participation des salariés dans la société coopérative européenne est régie par
 les dispositions suivantes :
 

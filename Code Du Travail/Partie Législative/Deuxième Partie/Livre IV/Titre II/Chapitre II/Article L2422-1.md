@@ -25,8 +25,14 @@ l'organisation des élections au comité d'entreprise ;
 d'entreprise européen ou d'une instance de consultation, et membre du comité
 d'entreprise européen ;
 
-5° Membre du groupe spécial de négociation, pour la mise en place d'un comité de
-la société européenne et membre du comité de la société européenne ;
+5° Membre du groupe spécial de négociation et représentant au comité de la
+société européenne ;
+
+5° bis Membre du groupe spécial de négociation et représentant au comité de la
+société coopérative européenne ;
+
+5° ter Membre du groupe spécial de négociation et représentant au comité de la
+société issue de la fusion transfrontalière ;
 
 6° Salarié siégeant ou ayant siégé en qualité de représentant du personnel au
 comité d'hygiène, de sécurité et des conditions de travail ;

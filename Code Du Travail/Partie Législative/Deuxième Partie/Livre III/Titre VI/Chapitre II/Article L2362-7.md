@@ -3,7 +3,7 @@ Article L2362-7
 Le groupe spécial de négociation prend ses décisions à la majorité absolue de
 ses membres, laquelle doit représenter également la majorité absolue des
 salariés des personnes participantes ainsi que des filiales ou établissements
-concernés.
+concernés. Chaque membre dispose d'une voix.
 
 Par dérogation au premier alinéa, la décision de ne pas engager les négociations
 ou de clore des négociations déjà engagées et d'appliquer la réglementation

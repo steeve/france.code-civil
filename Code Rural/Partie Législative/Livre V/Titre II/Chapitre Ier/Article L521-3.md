@@ -27,9 +27,9 @@ l'exercice de ce droit, lorsqu'un groupement agricole d'exploitation en commun
 adhère à une société coopérative, tous les membres du groupement considérés
 comme chefs d'exploitation agricole sont réputés associés coopérateurs, sans que
 les chefs d'exploitation membres d'un même groupement puissent, en cette
-qualité, détenir plus de 49 p. 100 des voix.
+qualité, détenir plus de 49 % des voix.
 
 Toutefois, en ce qui concerne les b, e et f ci-dessus, les coopérateurs peuvent,
 soit à la fondation, soit en cours de vie sociale, exercer, dans les conditions
 et limites prévues, les choix qui leur sont couverts par les articles L. 522-5,
-L. 523-1, L. 523-7, L. 524-4 et L. 526-2.
+L. 523-1, L. 523-7 et L. 524-4.

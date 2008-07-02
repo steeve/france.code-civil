@@ -10,8 +10,9 @@ fixées par décret en Conseil d'Etat.
 
 Un ou plusieurs commissaires à la transformation désignés par décision de
 justice établissent sous leur responsabilité un rapport destiné aux actionnaires
-de la société se transformant attestant que les capitaux propres sont au moins
-équivalents au capital social. Ils sont soumis aux incompatibilités prévues à
+de la société se transformant attestant que la société dispose d'actifs nets au
+moins équivalents au capital augmenté des réserves que la loi ou les statuts ne
+permettent pas de distribuer. Ils sont soumis aux incompatibilités prévues à
 l'article L. 822-11.
 
 La transformation en société européenne est décidée selon les dispositions
