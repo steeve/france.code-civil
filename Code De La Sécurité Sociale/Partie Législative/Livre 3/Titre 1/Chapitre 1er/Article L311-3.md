@@ -105,8 +105,9 @@ registre du commerce ou au registre spécial des agents commerciaux ;
 
 21°) Les personnes qui exercent à titre occasionnel pour le compte de l'Etat,
 d'une collectivité territoriale ou d'un de leurs établissements publics
-administratifs, ou d'un organisme privé chargé de la gestion d'un service public
-à caractère administratif, une activité dont la rémunération est fixée par des
+administratifs, d'une autorité publique indépendante dotée de la personnalité
+morale ou d'un organisme privé chargé de la gestion d'un service public à
+caractère administratif, une activité dont la rémunération est fixée par des
 dispositions législatives ou réglementaires ou par décision de justice. Un
 décret précise les types d'activités et de rémunérations en cause.
 

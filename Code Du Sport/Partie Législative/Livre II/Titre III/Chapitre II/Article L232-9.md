@@ -1,20 +1,23 @@
 Article L232-9
 ----
-Il est interdit, au cours des compétitions et manifestations sportives
-organisées ou autorisées par des fédérations sportives ou par une commission
-spécialisée instituée en application de l'article L. 131-19, ou en vue d'y
-participer :
+Il est interdit à tout sportif participant à une compétition ou manifestation
+sportive organisée ou autorisée conformément au titre III du livre Ier du
+présent code, ou se préparant à y participer :
 
-1° D'utiliser des substances et procédés de nature à modifier artificiellement
-les capacités ou à masquer l'emploi de substances ou procédés ayant cette
-propriété ;
+1° De détenir, sans raison médicale dûment justifiée, une ou des substances ou
+procédés interdits par la liste mentionnée au dernier alinéa du présent article,
+pour lesquels l'appendice 1 à la convention internationale contre le dopage dans
+le sport, adoptée à Paris le 19 octobre 2005, ne prévoit la possibilité de
+sanctions réduites qu'en cas de circonstances exceptionnelles ;
 
-2° De recourir à ceux de ces substances ou procédés dont l'utilisation est
-soumise à des conditions restrictives lorsque ces conditions ne sont pas
-remplies.
+2° D'utiliser une ou des substances et procédés interdits par la liste
+mentionnée au dernier alinéa du présent article.
+
+L'interdiction prévue au 2° ne s'applique pas aux substances et procédés pour
+lesquels le sportif dispose d'une autorisation pour usage à des fins
+thérapeutiques conformément aux modalités prévues par l'article L. 232-2.
 
 La liste des substances et procédés mentionnés au présent article est celle qui
-est élaborée en application de la convention contre le dopage signée à
-Strasbourg le 16 novembre 1989 ou de tout accord ultérieur qui aurait le même
-objet et qui s'y substituerait. La liste est publiée au Journal officiel de la
-République française.
+est élaborée en application de la convention internationale contre le dopage
+dans le sport précitée ou de tout autre accord ultérieur qui aurait le même
+objet et qui s'y substituerait. Elle est publiée au Journal officiel.

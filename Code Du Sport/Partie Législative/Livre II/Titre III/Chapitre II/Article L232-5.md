@@ -2,8 +2,7 @@ Article L232-5
 ----
 I.-L'Agence française de lutte contre le dopage, autorité publique indépendante
 dotée de la personnalité morale, définit et met en oeuvre les actions de lutte
-contre le dopage.A cette fin, elle coopère avec l'organisme international chargé
-de la lutte contre le dopage reconnu par le Comité international olympique et
+contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage et
 avec les fédérations sportives internationales.
 
 A cet effet :
@@ -13,15 +12,11 @@ A cet effet :
 2° Elle diligente les contrôles dans les conditions prévues aux articles L.
 232-12 à L. 232-15 :
 
-a) Pendant les compétitions organisées par les fédérations sportives
-délégataires à l'issue desquelles sont délivrés des titres nationaux, régionaux
-et départementaux ;
+a) Pendant les compétitions et manifestations sportives visées à l'article L.
+232-9, à l'exception des compétitions internationales visées à l'article L.
+131-15 ;
 
-b) Pendant les manifestations autorisées par les mêmes fédérations lorsque la
-fédération sportive délégataire décide que seuls ses règlements sont applicables
-au déroulement des épreuves ;
-
-c) Pendant les entraînements préparant aux compétitions ou manifestations
+b) Pendant les entraînements préparant aux compétitions ou manifestations
 sportives ;
 
 3° Elle peut, en coordination et avec l'accord de l'organisme international
@@ -39,7 +34,10 @@ tiers ;
 6° Elle exerce un pouvoir disciplinaire dans les conditions prévues aux articles
 L. 232-22 et L. 232-23 ;
 
-7° Elle délivre les autorisations prévues par l'article L. 232-2 ;
+7° Elle délivre les autorisations prévues par l'article L. 232-2 ; elle peut
+reconnaître la validité des autorisations d'usage à des fins thérapeutiques
+délivrées conformément à l'annexe II de la convention internationale contre le
+dopage dans le sport, adoptée à Paris le 19 octobre 2005 ;
 
 8° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte
 contre le dopage ;

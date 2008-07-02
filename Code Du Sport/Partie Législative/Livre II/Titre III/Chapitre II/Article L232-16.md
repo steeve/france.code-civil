@@ -1,8 +1,7 @@
 Article L232-16
 ----
 L'Agence française de lutte contre le dopage peut, en coordination et avec
-l'accord de l'organisme international chargé de la lutte contre le dopage
-reconnu par le Comité international olympique ou d'une fédération sportive
+l'accord de l'Agence mondiale antidopage ou d'une fédération sportive
 internationale, diligenter des contrôles à l'occasion des compétitions ou des
 manifestations sportives organisées ou autorisées par une fédération sportive
 autres que celles mentionnées au 2° du I de l'article L. 232-5. Dans ce cas, les

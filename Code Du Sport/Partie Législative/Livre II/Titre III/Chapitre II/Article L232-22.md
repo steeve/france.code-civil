@@ -22,4 +22,5 @@ l'article L. 232-5 ;
 fédération aux activités de l'intéressé relevant des autres fédérations, de sa
 propre initiative ou à la demande de la fédération ayant prononcé la sanction.
 
-La saisine de l'agence est suspensive.
+La saisine de l'agence n'est pas suspensive, sauf décision contraire de
+celle-ci.

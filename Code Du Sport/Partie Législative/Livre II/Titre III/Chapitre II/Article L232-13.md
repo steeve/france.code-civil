@@ -15,6 +15,9 @@ des lieux mentionnés au a, dans tout autre lieu choisi avec l'accord du sportif
 permettant d'assurer le respect de son intimité ou, à sa demande, à son domicile
 ;
 
+c) Dans le cadre de la garde à vue d'un sportif soupçonné d'avoir commis les
+délits prévus aux articles L. 232-9 et L. 232-10 ;
+
 2° Dans les cas prévus au 1°, le sportif licencié est convoqué par la personne
 chargée de procéder au prélèvement. Lorsque le sportif ne s'entraîne pas dans un
 lieu fixe, la convocation peut être adressée par tout moyen permettant de

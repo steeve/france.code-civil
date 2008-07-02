@@ -17,6 +17,8 @@ Seuls des médecins peuvent recueillir les informations à caractère médical.
 
 Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche
 d'infractions, le procureur de la République en est préalablement informé et
-peut s'y opposer. Les procès-verbaux établis à la suite de ces opérations de
-police judiciaire lui sont remis dans les cinq jours suivant leur établissement.
-Une copie des procès-verbaux est également remise à l'intéressé.
+peut s'y opposer. Le procureur de la République est informé sans délai, par tout
+moyen, dès qu'une infraction est constatée. Les procès-verbaux établis à la
+suite de ces opérations de police judiciaire lui sont remis, sous peine de
+nullité, dans les cinq jours suivant la clôture des opérations. Une copie des
+procès-verbaux est également remise dans le même délai à l'intéressé.

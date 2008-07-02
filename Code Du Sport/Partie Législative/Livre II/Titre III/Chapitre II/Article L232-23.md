@@ -27,3 +27,11 @@ L'expertise est réalisée par un expert choisi par le sportif intéressé sur u
 liste établie par l'agence. Les résultats de l'expertise sont communiqués à
 l'agence et à l'intéressé, qui peut présenter des observations. Les frais de
 l'expertise sont à la charge de l'agence.
+
+Lorsque, à la suite d'un contrôle effectué au cours d'une compétition ou
+manifestation sportive organisée ou autorisée par une fédération, un sportif non
+licencié en France a fait l'objet d'une sanction administrative prévue au
+présent article, la fédération annule, à la demande de l'Agence française de
+lutte contre le dopage, les résultats individuels du sportif sanctionné avec
+toutes les conséquences en résultant, y compris le retrait de médailles, points
+et prix.
