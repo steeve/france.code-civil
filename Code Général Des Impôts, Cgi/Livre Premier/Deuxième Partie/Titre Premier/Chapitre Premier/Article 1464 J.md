@@ -14,8 +14,9 @@ dans le ressort d'un port exonéré de taxe professionnelle en application du 2�
 de l'article 1449.
 
 La liste des ports concernés ainsi que les caractéristiques des outillages,
-équipements et installations spécifiques visés au premier alinéa sont fixées par
-arrêté du ministre chargé du budget et du ministre chargé des ports maritimes.
+équipements et installations spécifiques visés au premier alinéa du présent
+article sont fixées par arrêté du ministre chargé du budget et du ministre
+chargé des ports maritimes.
 
 Les entreprises qui entendent bénéficier de ces dispositions déclarent chaque
 année au service des impôts les éléments entrant dans le champ d'application de
