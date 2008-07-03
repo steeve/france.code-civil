@@ -1,0 +1,31 @@
+Article 1647
+----
+I Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
+le montant :
+
+- de la taxe locale d'équipement visée à l'article 1585 A;
+
+- des taxes parafiscales mentionnées à l'article 1635 ter-I;
+
+- des droits, taxes, redevances et autres impositions visés à l'article 1635
+ter-II.
+
+Le taux de ce prélèvement est fixé, dans la limite de 5 % du montant des
+recouvrements, par arrêté du ministre de l'économie et des finances et du
+ministre intéressé (1).
+
+II Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
+le produit de la cotisation incluse dans la taxe sur la valeur ajoutée en vertu
+de l'article 1614. Le taux de ce prélèvement et les modalités de remboursement
+sont fixés par le ministre de l'économie et des finances.
+
+III Pour frais de recouvrement, l'Etat effectue un prélèvement sur les
+cotisations perçues au profit des organismes de sécurité sociale soumis au
+contrôle de la cour des comptes, dans les conditions déterminées par les
+articles 712 et 713 du code de la sécurité sociale. Le taux de ce prélèvement et
+les modalités de remboursement sont fixés par arrêté du ministre de l'économie
+et des finances.
+
+IV (Disjoint Disposition non fiscale).
+
+1) Voir Annexe IV, art. 161 A à 164.

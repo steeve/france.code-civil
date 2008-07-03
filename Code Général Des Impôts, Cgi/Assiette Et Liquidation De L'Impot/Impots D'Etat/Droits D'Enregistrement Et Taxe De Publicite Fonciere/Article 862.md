@@ -8,8 +8,8 @@ délivrer en brevet, extrait, copie ou expédition, avant que l'une ou l'autre
 formalité ait été exécutée, alors même que le délai pour y procéder ne serait
 pas encore expiré.
 
-Sont exceptés les actes de cette nature qui se signifient à partie ou par
-affiches et proclamations.
+Sont exceptés les exploits et autres actes de cette nature qui se signifient à
+partie ou par affiches et proclamations.
 
 Les notaires peuvent, toutefois, faire des actes en vertu ou en conséquence
 d'actes dont le délai d'enregistrement ou d'exécution de la formalité fusionnée

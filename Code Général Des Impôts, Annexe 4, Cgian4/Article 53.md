@@ -1,6 +1,6 @@
 Article 53
 ----
-Le droit de fabrication au tarif visé à l'article 406 A-4° du code général des
+Le droit de fabrication au tarif visé à l'article 406 A-4o du code général des
 impôts est applicable aux alcools utilisés dans la préparation des produits
 appartenant aux catégories ci-après désignées :
 
@@ -16,7 +16,7 @@ médicaments;
 c. Alcoolats extraits alcooliques parfumés teintures produits analogues livrés à
 des industriels en vue de la préparation de limonades gazeuses sodas ou sirops à
 la condition que la richesse alcoolique des boissons fabriquées ne soit pas
-supérieure à 1 % vol. et que lesdits industriels n'exercent pas le commerce en
+supérieure à un degré et que lesdits industriels n'exercent pas le commerce en
 détail de boissons alcooliques;
 
 d. Alcoolats extraits alcooliques parfumés non consommables en l'état livrés à

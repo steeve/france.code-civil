@@ -1,11 +1,11 @@
 Article 252
 ----
-I. Les actes du ministère des huissiers de justice sont dispensés de la
-présentation matérielle à la formalité de l'enregistrement lorsqu'ils donnent
-ouverture au droit fixe prévu à l'article 843, premier alinéa du code général
-des impôts.
+I. Les exploits et autres actes du ministère des huissiers de justice sont
+dispensés de la présentation matérielle à la formalité de l'enregistrement
+lorsqu'ils donnent ouverture au droit fixe prévu à l'article 843, premier alinéa
+du code général des impôts.
 
-II.Les droits éventuellement exigibles sur les actes visés au I sont payés sur
+II. Les droits éventuellement exigibles sur les actes visés au I sont payés sur
 états dans les conditions fixées à l'article 384 quinquies.
 
 III. Les dispositions des I et II ne sont pas applicables :

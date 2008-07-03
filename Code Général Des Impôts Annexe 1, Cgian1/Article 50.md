@@ -22,10 +22,10 @@ En regard de ces inscriptions, l'exploitant indique, au fur et à mesure de ses
 opérations :
 
 1° Les jours et heures de la mise en distillation desdites matières et les
-quantités versées dans l'alambic ;
+quantités versées dans l'alambic;
 
-2° Le résultat de chaque chauffe ou repasse (volume et titre alcoométrique
-volumique des produits obtenus en cas d'emploi d'alambics à marche continue).
+2° Le résultat de chaque chauffe ou repasse (volume et degré alcoolique des
+produits obtenus en cas d'emploi d'alambics à marche continue).
 
 L'exploitant est tenu de déposer au bureau de déclarations de la direction
 générale des impôts le lendemain au plus tard du jour où les travaux ont pris

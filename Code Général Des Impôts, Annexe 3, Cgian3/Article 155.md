@@ -11,9 +11,9 @@ que, s'il y a lieu, pour l'alcool acquis du service des alcools, avec indication
 des vaisseaux renfermant les spiritueux à utiliser.
 
 Dès la fin de l'opération, la déclaration est complétée par l'indication de
-l'heure à laquelle celle-ci a été terminée, de la nature et du titre
-alcoométrique volumique du produit obtenu et d'une mention permettant
-d'identifier les vaisseaux dans lesquels ce produit a été logé.
+l'heure à laquelle celle-ci a été terminée, de la nature et du degré du produit
+obtenu et d'une mention permettant d'identifier les vaisseaux dans lesquels ce
+produit a été logé.
 
 Il ne doit être fait aucun prélèvement sur ces vaisseaux pendant le délai d'une
 heure après l'achèvement de la fabrication.

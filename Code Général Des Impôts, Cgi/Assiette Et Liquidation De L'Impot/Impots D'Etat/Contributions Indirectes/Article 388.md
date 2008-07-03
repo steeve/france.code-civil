@@ -9,7 +9,7 @@ les rhums et tafias originaires des départements et territoires français
 d'outre-mer et des pays de la zone franc ayant passé avec la France des accords
 à cet effet, qui présentent les caractères spécifiques définis par les décrets
 rendus en exécution de la loi du 1er août 1905 sur les fraudes et falsifications
-en matière de produits ou de services et ne titrent pas plus de 80 % vol.
+en matière de produits ou de services et ne titrent pas plus de 80 degrés.
 
 Des arrêtés déterminent les modalités d'application de cette disposition et
 celles de la répartition des rhums et tafias entre les départements et
@@ -20,6 +20,6 @@ Les arriérés de contingent autorisés par le décret du 21 septembre 1942 et n
 encore réalisés sont bloqués et peuvent faire l'objet de mesures de déblocage et
 d'échelonnement dans les conditions fixées par le décret du 16 juin 1949.
 
-(1) Annexe II, art. 270.
+1) Annexe II, art. 270.
 
-(2) Annexe IV, art. 52 bis.
+2) Annexe IV, art. 52 bis.

@@ -3,10 +3,9 @@ Article 171
 Chaque opération de dénaturation doit être précédée d'une déclaration
 mentionnant :
 
-1° L'espèce, la quantité et le titre alcoométrique volumique des alcools à
-dénaturer ;
+1° L'espèce, la quantité et le degré des alcools à dénaturer;
 
-2° L'espèce et la quantité des substances dénaturantes à employer ;
+2° L'espèce et la quantité des substances dénaturantes à employer;
 
 3° La nature des produits à fabriquer.
 

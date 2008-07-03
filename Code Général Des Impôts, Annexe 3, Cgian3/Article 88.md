@@ -28,7 +28,7 @@ inhumations et transports funéraires;
 
 Enseignement général, agricole, ménager, professionnel ou artistique;
 
-Location de livres ;
+Location de livres, locations et cessions de droits portant sur les films;
 
 Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs
 aménagés autres que les parcs zoologiques passibles du taux réduit (1);

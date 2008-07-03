@@ -1,12 +1,13 @@
 Article 443
 ----
-La commission départementale appelée à donner son avis sur les demandes en
-décharge ou en atténuation de responsabilité est composée ainsi qu'il suit :
+La commission départementale appelée à donner son avis sur les demandes dans les
+cas prévus par les articles 432 et 434 est composée ainsi qu'il suit
+[*composition*]:
 
 Le préfet ou son représentant président;
 
 Le trésorier-payeur général ou le receveur général des finances trésorier-payeur
-général de la région d'Ile-de-France ou son représentant;
+général de la région parisienne ou son représentant;
 
 Le directeur des services fiscaux ou son représentant;
 

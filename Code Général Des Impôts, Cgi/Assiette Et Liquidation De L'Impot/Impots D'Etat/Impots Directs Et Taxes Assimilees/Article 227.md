@@ -11,7 +11,7 @@ déterminée par le décret prévu à l'article L 119-4 du code du travail (1).
 
 Ces exonérations sont accordées par décision des comités départementaux de la
 formation professionnelle, de la promotion sociale et de l'emploi [*autorité
-compétente*] prévus par l'article L. 910-1 du code du travail et, en appel,
+compétente*] institués par la loi n° 71-575 du 16 juillet 1971 et, en appel,
 d'une commission spéciale dont la composition, l'organisation et le
 fonctionnement sont déterminés par décret (2).
 

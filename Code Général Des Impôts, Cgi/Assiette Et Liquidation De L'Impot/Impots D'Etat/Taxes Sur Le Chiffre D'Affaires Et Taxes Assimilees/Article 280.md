@@ -1,8 +1,8 @@
 Article 280
 ----
-1 La taxe sur la valeur ajoutée est perçue au taux intermédiaire de 18,60 % en
-ce qui concerne les opérations d'achat, d'importation, de vente, de livraison,
-de commission, de courtage ou de façon portant sur :
+1 La taxe sur la valeur ajoutée est perçue au taux intermédiaire de 17,6 % en ce
+qui concerne les opérations d'achat, d'importation, de vente, de livraison, de
+commission, de courtage ou de façon portant sur :
 
 1° Les produits suivants :
 
@@ -34,23 +34,20 @@ douanes;
 - glace hydrique;
 
 2° Les produits suivants, utilisés pour l'alimentation humaine et non passibles
-du taux super réduit :
+du taux réduit :
 
 - boissons;
 
 - produits de confiserie;
 
 - chocolats et tous produits composés contenant du chocolat ou du cacao à
-l'exception du chocolat, du chocolat de ménage, du chocolat de ménage au lait,
-des fèves de cacao et du beurre de cacao (1) ;
+l'exception des chocolats à croquer et à cuire en tablettes, fèves de cacao et
+beurre de cacao;
 
 - extraits liquides, sirops, liqueurs et autres boissons à base de cafés, thés,
 chicorées, succédanés et mélanges de ces produits;
 
 - margarines et graisses végétales.
-
-3° Les aliments préparés destinés à la nourriture des animaux autres que ceux
-mentionnés à l'article 279-c-13°.
 
 2 Le taux intermédiaire est également applicable :
 
@@ -58,12 +55,14 @@ a (Abrogé);
 
 b Aux prestations de services de caractère social, culturel ou qui répondent, en
 raison de leur nature et de leur prix, à des besoins courants et dont la liste
-est fixée par décret (2), ainsi qu'à celles faites par les redevables inscrits
-au répertoire des métiers ou au registre de la chambre nationale de la
-batellerie artisanale, à l'exception des opérations dont les caractéristiques ne
-justifient pas l'immatriculation audit répertoire des personnes qui y procèdent;
+est fixée par décret (1), ainsi qu'à celles faites par les redevables inscrits
+au répertoire des métiers, à l'exception des opérations dont les
+caractéristiques ne justifient pas l'immatriculation audit répertoire des
+personnes qui y procèdent;
 
-c (Abrogé);
+c Aux achats de perles, de pierres précieuses et d'objets d'occasion dans la
+fabrication desquels sont entrées des perles ou des pierres précieuses, lorsque
+ces achats font l'objet d'un payement par chèque;
 
 d Aux ventes à consommer sur place, autres que celles visées à l'article 279-a
 bis;
@@ -75,8 +74,7 @@ f Aux travaux immobiliers concourant :
 
 - à la construction, à la livraison, à la réparation ou à la réfection des voies
 et bâtiments de l'Etat et des collectivités locales, ainsi que de leurs
-établissements publics autres que ceux à caractère industriel ou commercial
-assujettis à la taxe sur la valeur ajoutée (3) ;
+établissements publics (2);
 
 - à la construction et à la livraison des immeubles destinés à être affectés à
 l'habitation pour les trois quarts au moins de leur superficie;
@@ -89,7 +87,7 @@ sont affectées à l'habitation;
 immeubles affectés à l'exercice public du culte et des locaux annexes
 nécessaires à cette activité;
 
-g Aux mutations, apports en société et livraisons visés à l'article 257-7° (4).
+g Aux mutations, apports en société et livraisons visés à l'article 257-7° (3).
 
 Toutefois, le taux normal est applicable aux opérations suivantes lorsqu'elles
 ne concernent pas les voies et bâtiments des collectivités publiques ou les
@@ -103,12 +101,11 @@ l'habitation pour les trois quarts au moins de leur superficie totale;
 droits sociaux donnant vocation à l'attribution des mêmes locaux;
 
 h A l'ensemble des opérations, autres que les reventes en l'état, réalisées par
-les redevables inscrits au répertoire des métiers ou au registre de la chambre
-nationale de la batellerie artisanale , lorsque ces redevables sont susceptibles
-de bénéficier du régime prévu à l'article 282-3 ou sont placés par option sous
-le régime simplifié d'imposition;
+les redevables inscrits au répertoire des métiers, lorsque ces redevables sont
+susceptibles de bénéficier du régime prévu à l'article 282-3 ou sont placés par
+option sous le régime simplifié d'imposition;
 
-i (Devenu sans objet).
+i Aux redevances visées à l'article 257-18°;
 
 j Aux ventes de voitures automobiles d'occasion conçues pour le transport des
 personnes ou à usages mixtes et comportant, outre le siège du conducteur, huit
@@ -121,7 +118,7 @@ courtage afférentes aux voitures définies ci-dessus;
 k (Transféré au 3);
 
 l Aux spectacles, jeux et divertissements qui ne sont pas soumis à l'impôt prévu
-à l'article 1559 et qui ne sont pas passibles du x taux réduit.
+à l'article 1559 et qui ne sont pas passibles du taux réduit (4).
 
 3 En ce qui concerne les biens et équipements visés à l'article 1er-I de la loi
 n° 69-1160 du 24 décembre 1969, les sociétés agréées pour le financement des
@@ -134,12 +131,15 @@ Les locations et les ventes desdits biens et équipements à l'administration de
 postes et télécommunications sont soumises à la taxe sur la valeur ajoutée au
 taux intermédiaire.
 
-(1) Voir art. 278 bis, renvoi 2.
+1) Annexe III, art. 88.
 
-(2) Annexe III, art. 88 (3) A compter du 1er janvier 1970, les travaux
-immobiliers concourant à la construction, à la livraison, à la réparation ou à
-la réfection des voies et bâtiments publics à caractère industriel ou commercial
-assujettis à la taxe sur la valeur ajoutée (loi n° 67-1172 du 22 décembre 1967,
-art. 10, J.O. du 29).
+2) A compter du 1er janvier 1970, les travaux immobiliers concourant à la
+construction, à la livraison, à la réparation ou à la réfection des voies et
+bâtiments des établissements publics à caractère industriel ou commercial
+assujettis à la taxe sur la valeur ajoutée sont soumis au taux normal de la taxe
+sur la valeur ajoutée (loi n° 67-1172 du 22 décembre 1967, art. 10, J.O. du 29).
 
-(4) Voir annexe II, art. 259.
+3) Voir Annexe II, art. 259.
+
+4) Pour les séances cinématographiques ou de télévision, à compter du 1er
+janvier 1970 (décret n° 69-1228 du 30 décembre 1969, J.O. du 31).

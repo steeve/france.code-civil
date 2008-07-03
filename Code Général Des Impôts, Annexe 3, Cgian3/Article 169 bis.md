@@ -13,8 +13,8 @@ de plantations, intervenues dans le vignoble depuis la précédente déclaration
 récolte;
 
 3° Pour les vins autres que ceux pour lesquels une appellation d'origine
-contrôlée est revendiquée, les titres alcoométriques volumiques ainsi que les
-quantités de vin obtenues correspondant à ces richesses alcooliques;
+contrôlée est revendiquée, les degrés alcooliques ainsi que les quantités de vin
+obtenues correspondant à ces richesses alcooliques;
 
 4° Les quantités pour lesquelles le bénéfice des dispositions de l'article 26 A
 du décret n° 64-902 du 31 août 1964 modifié est revendiqué.

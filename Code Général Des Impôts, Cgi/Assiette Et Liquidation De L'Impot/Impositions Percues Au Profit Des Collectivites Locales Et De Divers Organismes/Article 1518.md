@@ -1,0 +1,48 @@
+Article 1518
+----
+I Dans l'intervalle de deux révisions générales, les valeurs locatives définies
+aux articles 1496-I et II, 1497 et 1498, ainsi que celles des propriétés non
+bâties et des terrains et sols à usage industriel ou commercial, sont
+actualisées tous les deux ans [*périodicité*] au moyen de coefficients
+correspondant à l'évolution de ces valeurs, entre la date de référence de la
+dernière révision générale (1) et celle retenue pour l'actualisation. Toutefois,
+en ce qui concerne les propriétés non bâties, il sera, jusqu'à la première
+révision sexennale, tenu compte de l'évolution des valeurs locatives depuis le
+1er janvier 1961 [*date*].
+
+II Les coefficients visés au I sont fixés, pour les propriétés non bâties, par
+région agricole ou forestière départementale et par groupe ou sous-groupe de
+natures de culture ou de propriété et, pour les propriétés bâties, par secteur
+géographique et par nature ou catégorie de biens.
+
+Ils sont arrêtés par le directeur des services fiscaux, après avis d'une
+commission consultative départementale des évaluations foncières dont la
+composition, dans laquelle entrent notamment des représentants des collectivités
+locales et de leurs groupements (communautés urbaines ou districts) ainsi que
+des contribuables, est déterminée par un arrêté du ministre de l'économie et des
+finances (2). Les coefficients sont notifiés aux maires des communes intéressées
+et aux présidents des communautés urbaines et des districts. Après application
+de la procédure d'affichage dans les conditions prévues à l'article 1510 ils
+peuvent, dans les trente jours [*délai*], faire l'objet d'un recours
+administratif de la part du maire ou des représentants des contribuables
+siégeant à la commission consultative. Ce recours est porté devant la commission
+[*départementale des impôts directs et des taxes sur le chiffre d'affaires*]
+instituée par l'article 1651, laquelle prend une décision définitive.
+
+III L'incorporation dans les rôles d'impôts directs locaux des résultats de la
+première actualisation des valeurs locatives foncières est fixée au 1er janvier
+1980. La date de référence est fixée au 1er janvier 1978.
+
+Pour cette première actualisation :
+
+- les valeurs locatives des sols, terrains et bâtiments industriels évaluées à
+partir du prix de revient conformément aux articles 1499, 1499 A et 1501 sont
+majorées d'un tiers;
+
+- la valeur locative de l'ensemble des locaux à usage d'habitation ou
+professionnel peut être actualisée au moyen d'un coefficient unique par
+département.
+
+1) Actuellement, 1er janvier 1970.
+
+2) Annexe IV, art. 121 quinquies DC à 121 quinquies DF.

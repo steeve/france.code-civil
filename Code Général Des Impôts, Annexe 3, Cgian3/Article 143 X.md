@@ -9,9 +9,8 @@ Ils doivent solliciter l'agrément prévu à l'article 391 du code général des
 impôts.
 
 Les autres distillateurs agricoles sont habilités à livrer aux usines agréées
-leur production d'alcool de cidre ou de poiré, sans limitation de titre
-alcoométrique volumique pour les alcools fournis ni restriction pour le matériel
-utilisé.
+leur production d'alcool de cidre ou de poiré, sans limitation de degré pour les
+alcools fournis ni restriction pour le matériel utilisé.
 
 Les conditions de réception et de transformation par les usines agréées sont
 fixées par le service des alcools.

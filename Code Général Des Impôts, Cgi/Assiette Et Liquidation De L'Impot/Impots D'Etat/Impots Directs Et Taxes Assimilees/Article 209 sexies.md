@@ -11,10 +11,7 @@ remplie.
 
 Le bénéfice de ce régime est réservé aux filiales constituées à l'occasion d'une
 concentration d'entreprises ou de la restructuration interne d'un groupe
-d'entreprises. Il est subordonné à l'engagement pris par la filiale de ne pas
-distribuer de jetons de présence [*conditions*].
+d'entreprises. Il est subordonné à l'engagement pris par la filiale de ne
+distribuer ni jetons de présence ni tantièmes [*conditions*].
 
-(1) Voir Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.
-
-(2) [*Toutefois les agréments délivrés en application de cet article demeurent
-valables jusqu'à leur terme.*]
+1) Voir Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.

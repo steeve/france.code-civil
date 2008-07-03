@@ -7,9 +7,9 @@ d'utilité publique, et dont la liste est fixée par un décret en Conseil d'Eta
 (1);
 
 2° Les constructions édifiées dans les zones d'aménagement concerté au sens de
-l'article L. 311-1, premier alinéa, du code de l'urbanisme (2) lorsque le coût
-des équipements, dont la liste est fixée par un décret en Conseil d'Etat (3), a
-été mis à la charge des constructeurs.
+l'article 16 du code de l'urbanisme et de l'habitation (2) lorsque le coût des
+équipements, dont la liste est fixée par un décret en Conseil d'Etat (3), a été
+mis à la charge des constructeurs.
 
 I bis Lorsque le lotisseur supporte la charge d'une participation forfaitaire
 représentative de la taxe locale d'équipement, les constructions réalisées dans

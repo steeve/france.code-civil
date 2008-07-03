@@ -54,11 +54,9 @@ FACTURE-CONGE ADRESSE : (Recto) n° A , le Doit : M. (profession) (adresse)
 
 :---------------------------------------------------------------:
 
-: Vin : Cidre, poiré : Spiritueux : Titre : Alcool pur :
+: Vin : Cidre, poiré, : Spiritueux : Degré : Alcool pur :
 
-: : hydromel : : alcoométrique : :
-
-: : : : volumique : :
+: : hydromel : : : :
 
 :---------------------------------------------------------------:
 

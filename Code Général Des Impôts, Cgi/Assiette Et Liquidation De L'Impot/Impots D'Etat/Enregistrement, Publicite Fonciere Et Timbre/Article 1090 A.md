@@ -1,9 +1,6 @@
 Article 1090 A
 ----
-I Sauf lorsqu'elles portent mutation de propriété, d'usufruit ou de jouissance,
-les décisions rendues dans les instances où l'une au moins des parties bénéficie
-de l'aide judiciaire sont exonérées des droits de timbre et d'enregistrement
-(1).
+I (Abrogé)
 
 II Sont liquidés en débet les droits et pénalités d'enregistrement et de timbre
 exigibles sur (1) :

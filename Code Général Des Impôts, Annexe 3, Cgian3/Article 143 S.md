@@ -12,9 +12,9 @@ alimentaires.
 
 L'alcool de cidre ou de poiré réservé à l'Etat, tant industriel qu'agricole,
 doit être obtenu par la distillation exclusive de cidres ou de poirés ayant subi
-une fermentation naturelle pendant douze jours au moins, titrant au minimum 4 %
-vol., et répondant en outre aux autres caractéristiques reprises à la définition
-du cidre ou du poiré.
+une fermentation naturelle pendant douze jours au moins, titrant au minimum 4
+degrés Gay-Lussac, et répondant en outre aux autres caractéristiques reprises à
+la définition du cidre ou du poiré.
 
 La production de ces catégories d'alcool ne peut être réalisée qu'à partir de
 fruits à cidre ou à poiré récoltés dans les régions où s'approvisionnaient, au

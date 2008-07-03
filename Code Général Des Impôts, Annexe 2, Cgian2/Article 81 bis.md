@@ -2,10 +2,8 @@ Article 81 bis
 ----
 I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs
 mobilières attribuées aux salariés ou acquises pour leur compte en application
-des articles L. 442-1 à L. 442-17 du code du travail relatifs à la participation
-des salariés aux fruits de l'expansion des entreprises donnent lieu à la
-délivrance d'un certificat distinct, conformément aux dispositions de l'article
-77.
+de l'ordonnance n° 67-693 du 17 août 1967 donnent lieu à la délivrance d'un
+certificat distinct, conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de
 l'article 163 bis AA, deuxième alinéa, du code général des impôts, le certificat
