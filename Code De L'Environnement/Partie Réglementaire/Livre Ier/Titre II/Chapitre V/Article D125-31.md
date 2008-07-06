@@ -11,7 +11,10 @@ En particulier :
 Le comité est associé à l'élaboration du plan de prévention des risques
 technologiques et émet un avis sur le projet de plan, en application de
 l'article L. 515-22. Cet avis est débattu en séance et approuvé à la majorité
-des membres présents ou représentés ;
+des membres présents ou représentés. Sur décision du président ou à la demande
+d'une majorité des membres d'un collège, il peut être procédé à un vote par
+collège. Dans ce cas, le résultat des votes au sein de chaque collège est joint
+à l'avis du comité ;
 
 Il est informé par l'exploitant des éléments contenus dans le bilan décrit à
 l'article D. 125-34 ;
@@ -19,10 +22,8 @@ l'article D. 125-34 ;
 Il est informé le plus en amont possible par l'exploitant des projets de
 modification ou d'extension des installations visées à l'article D. 125-34 ;
 
-Il est destinataire des rapports d'analyse critique réalisée en application du
-6° de l'article 3 du décret n° 77-1133 du 21 septembre 1977 modifié pris pour
-l'application de la loi n° 76-663 du 19 juillet 1976 relative aux installations
-classées pour la protection de l'environnement et relatif à l'analyse critique
+Il est destinataire des rapports d'analyse critique réalisée en application de
+l'article R. 512-6 du code de l'environnement et relatif à l'analyse critique
 d'éléments du dossier d'autorisation ;
 
 Il est destinataire des plans d'urgence et est informé des exercices relatifs à
