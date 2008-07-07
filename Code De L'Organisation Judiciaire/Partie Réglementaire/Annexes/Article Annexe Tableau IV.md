@@ -9,7 +9,7 @@ D. 532-2, D. 552-1, D. 552-17, D. 562-1 et D. 562-26)
 
 SIÈGE du tribunal de grande instance
 
-SIÈGE du tribunal d'instance et de la juridiction de proximité
+Siège du tribunal d'instance et de la juridiction de proximité
 
 
 RESSORT
@@ -2326,19 +2326,22 @@ Aveyron
 
 [Millau (3)]
 
-[Millau
+
+Millau
 
 Cantons de Campagnac, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Beauzély,
 Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou (1).]
 
-[Millau
+
+Millau
 
 Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est,
 Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,
 Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et
 Vézins-de-Lévézou (2).]
 
-[Saint-Affrique
+
+Saint-Affrique
 
 Cantons de Belmont-sur-Rance, Camarès, Cornus, Saint-Affrique,
 Saint-Rome-de-Tarn et Saint-Sernin-sur-Rance (1).]
@@ -2346,7 +2349,7 @@ Saint-Rome-de-Tarn et Saint-Sernin-sur-Rance (1).]
 
 Rodez
 
-[Espalion
+Espalion
 
 Cantons d'Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur-de-Barrez,
 Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence et
@@ -2864,17 +2867,19 @@ Mennecy, Milly-la-Forêt, Ris-Orangis et Saint-Germain-lès-Corbeil.
 
 Juvisy-sur-Orge
 
-Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge,
-Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres.
+Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge
+(uniquement la commune de Juvisy-sur-Orge), Montgeron, Morsang-sur-Orge,
+Vigneux-sur-Seine, Viry-Châtillon et Yerres.
 
 
 Longjumeau
 
 A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon,
-Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Longjumeau, Massy-Est,
-Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge,
-Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de
-Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
+Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Juvisy-sur-Orge (uniquement la
+fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest,
+Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et
+Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et
+de Saulx-les-Chartreux).
 
 
 Palaiseau
