@@ -20,14 +20,14 @@ mentionné au a de l'article 46 quater-0 ZK ;
 ou moins-values nettes à long terme d'ensemble et les crédits d'impôt
 susceptibles d'être utilisés par la société mère.
 
-6. Dans les situations visées aux c, d et e du 6 de l'article 223 L du code
-général des impôts, des états faisant apparaître :
+6. Dans les situations visées aux c, d, e, f ou g du 6 de l'article 223 L du
+code général des impôts, des états faisant apparaître :
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés
-membres du groupe ayant cessé et qui font partie du nouveau groupe, mentionnée
-au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui
-provient de chacune des sociétés pour lesquelles le bénéfice de cette imputation
-a été demandé ;
+membres du groupe ayant cessé ou des sociétés apportées et qui font partie du
+nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la
+quote-part de ce déficit qui provient de chacune des sociétés pour lesquelles le
+bénéfice de cette imputation a été demandé ;
 
 b) L'imputation de ce déficit sur le bénéfice de la société qui en est titulaire
 et sur les bénéfices des sociétés mentionnées ci-dessus ;

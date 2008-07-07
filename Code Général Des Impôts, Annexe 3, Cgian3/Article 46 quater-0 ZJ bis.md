@@ -2,16 +2,16 @@ Article 46 quater-0 ZJ bis
 ----
 1. Pour l'application des dispositions du 5 de l'article 223 I du code général
 des impôts, la fraction du déficit correspondant à celui des sociétés membres du
-groupe ayant cessé et faisant partie du nouveau groupe et pour lesquelles le
-bénéfice de ces dispositions est demandé est calculée par application au déficit
-restant à reporter après les réintégrations mentionnées aux c, d ou e du 6 de
-l'article 223 L du code général des impôts, du rapport existant, pour chaque
-exercice, entre la somme des déficits pris en compte pour la détermination du
-résultat d'ensemble au titre de ces sociétés et la somme des déficits de même
-nature pris en compte pour l'ensemble des sociétés du groupe. Cette fraction ne
-peut excéder le montant dont le transfert a été admis, le cas échéant, dans le
-cadre d'une décision d'agrément prise en application du II de l'article 209 du
-même code.
+groupe ayant cessé ou des sociétés apportées et faisant partie du nouveau groupe
+et pour lesquelles le bénéfice de ces dispositions est demandé est calculée par
+application au déficit restant à reporter après, le cas échéant, les
+réintégrations mentionnées aux c, d, e ou f du 6 de l'article 223 L du code
+général des impôts, du rapport existant, pour chaque exercice, entre la somme
+des déficits pris en compte pour la détermination du résultat d'ensemble au
+titre de ces sociétés et la somme des déficits de même nature pris en compte
+pour l'ensemble des sociétés du groupe. Cette fraction ne peut excéder le
+montant dont le transfert a été admis, le cas échéant, dans le cadre d'une
+décision d'agrément prise en application du II de l'article 209 du même code.
 
 Lorsque la cessation du groupe résulte d'une scission, le déficit d'ensemble
 est, préalablement au calcul effectué au premier alinéa, réparti entre les
@@ -25,7 +25,7 @@ chaque exercice, selon les modalités précisées au premier alinéa.
 
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de
 l'article 223 I du code général des impôts est demandé est jointe à l'option et
-figure de manière distincte sur le document prévu aux c, d ou e du 6 de
+figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de
 l'article 223 L concernant l'identité des sociétés membres du nouveau groupe.
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des
