@@ -1,9 +1,8 @@
 Article D229-3
 ----
 Le président du conseil d'orientation est nommé par arrêté du Premier ministre,
-sur proposition du ministre chargé de l'environnement. Le président de la
-mission interministérielle de l'effet de serre assure la vice-présidence du
-conseil.
+sur proposition du ministre chargé de l'environnement. Le directeur général de
+l'énergie et du climat assure la vice-présidence du conseil.
 
 Le conseil d'orientation se réunit au moins deux fois par an. Il peut constituer
 des groupes de travail. Le président convoque les réunions du conseil

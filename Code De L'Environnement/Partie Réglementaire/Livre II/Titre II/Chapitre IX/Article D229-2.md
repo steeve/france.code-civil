@@ -7,8 +7,8 @@ Premier ministre et du Parlement. Le conseil est composé, outre du président d
 l'observatoire, de vingt-six membres nommés par arrêté du Premier ministre, dont
 :
 
-1° Le président de la mission interministérielle de l'effet de serre et le
-président du Conseil national de l'air, membres de droit ;
+1° Le directeur général de l'énergie et du climat et le président du Conseil
+national de l'air, membres de droit ;
 
 2° Un représentant des ministres chargés, respectivement, de l'environnement, de
 l'outre-mer, de l'intérieur, de l'équipement, de la recherche, de l'agriculture,
