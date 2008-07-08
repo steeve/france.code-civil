@@ -53,7 +53,7 @@ Franche-Comté ;
 
 23° Le directeur général de la gendarmerie nationale ;
 
-24° Le directeur de la défense et de la sécurité civiles ;
+24° Le directeur de la sécurité civile ;
 
 25° Le délégué interministériel à l'aménagement et à la compétitivité des
 territoires ;

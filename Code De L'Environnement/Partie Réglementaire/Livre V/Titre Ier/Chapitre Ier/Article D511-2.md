@@ -1,6 +1,6 @@
 Article D511-2
 ----
-I. - Le Conseil supérieur des installations classées est composé comme suit :
+I.-Le Conseil supérieur des installations classées est composé comme suit :
 
 1° Membres de droit :
 
@@ -10,8 +10,8 @@ chargé de l'environnement ou son représentant ;
 b) Le directeur général de la santé au ministère chargé de la santé ou son
 représentant ;
 
-c) Le directeur de la défense et de la sécurité civiles au ministère de
-l'intérieur ou son représentant ;
+c) Le directeur de la sécurité civile au ministère de l'intérieur ou son
+représentant ;
 
 d) Le directeur général des entreprises au ministère chargé de l'industrie ou
 son représentant ;
@@ -47,6 +47,6 @@ e) Trois membres d'associations ayant pour objet la défense de l'environnement 
 f) Trois maires nommés par le ministre chargé des installations classées sur
 proposition de l'Association des maires de France.
 
-II. - Le Conseil supérieur des installations classées ne doit pas compter de
+II.-Le Conseil supérieur des installations classées ne doit pas compter de
 membres nommés ayant dépassé, au moment de leur nomination ou du renouvellement
 de leur mandat, l'âge de soixante-cinq ans.

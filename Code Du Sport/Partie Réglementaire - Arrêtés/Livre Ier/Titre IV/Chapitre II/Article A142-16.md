@@ -1,9 +1,9 @@
 Article A142-16
 ----
 La commission de l'information et de la sécurité du Conseil supérieur des sports
-de montagne est composée des personnes suivantes : 1° Le directeur de la défense
-et de la sécurité civiles, président ; 2° Un représentant du ministre chargé de
-la défense, qualifié quant aux activités conduites en montagne désigné par le
+de montagne est composée des personnes suivantes : 1° Le directeur de la
+sécurité civile, président ; 2° Un représentant du ministre chargé de la
+défense, qualifié quant aux activités conduites en montagne désigné par le
 ministre chargé de la défense ; 3° Un représentant du ministre chargé des
 transports, désigné par le ministre chargé des transports ; 4° Un représentant
 du ministre chargé de la santé, désigné par le ministre de la santé ; 5° Le
@@ -55,8 +55,7 @@ canyon ; 52° Le président du Syndicat national des professionnels de la
 spéléologie et du canyon ; 53° Le président du Syndicat national des
 téléphériques de France ; 54° Le président de l'union nationale des centres
 sportifs de plein air ; 55° Un représentant des associations locales de secours
-en montagne, désigné par le directeur de la défense et de la sécurité civiles ;
-56° Le président de la fédération française des sociétés d'assurances ; 57° Le
-président du groupement des entreprises des mutuelles d'assurances. Les membres
-mentionnés aux 1°, 5° à 13°, 19° à 28°, 30° à 54°, 56° et 57° peuvent se faire
-représenter.
+en montagne, désigné par le directeur de la sécurité civile ; 56° Le président
+de la fédération française des sociétés d'assurances ; 57° Le président du
+groupement des entreprises des mutuelles d'assurances. Les membres mentionnés
+aux 1°, 5° à 13°, 19° à 28°, 30° à 54°, 56° et 57° peuvent se faire représenter.
