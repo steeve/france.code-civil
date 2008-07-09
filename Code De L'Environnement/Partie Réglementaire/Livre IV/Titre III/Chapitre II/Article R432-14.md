@@ -10,7 +10,7 @@ l'exploitant ;
 
 3° Ne fournir des lots de poissons susceptibles de provoquer des déséquilibres
 biologiques et dont la liste est fixée par l'article R. 432-5 qu'au détenteur de
-l'autorisation mentionnée à l'article L. 432-11 ;
+l'autorisation mentionnée à l'article L. 436-9 ;
 
 4° Déclarer sans délai au préfet toute mortalité anormale constatée dans son
 établissement ;

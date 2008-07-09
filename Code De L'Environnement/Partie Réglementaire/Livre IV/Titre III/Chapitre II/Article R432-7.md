@@ -8,5 +8,5 @@ l'opération.
 
 Lorsqu'elle porte sur le transport à travers plusieurs départements de poissons
 vivants appartenant à des espèces susceptibles de provoquer des déséquilibres
-biologiques, l'autorisation prévue à l'article L. 432-11 est délivrée par le
+biologiques, l'autorisation prévue à l'article L. 436-9 est délivrée par le
 préfet du département de destination des poissons.

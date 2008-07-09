@@ -1,14 +1,18 @@
 Article R434-31
 ----
-La fédération départementale est gérée par un conseil d'administration ainsi
-composé :
+L'assemblée générale de la fédération départementale est composée de délégués
+des associations adhérentes ainsi que des membres du conseil d'administration de
+la fédération qui ne sont pas délégués.
 
-1° Le président de l'association départementale agréée de pêcheurs amateurs aux
-engins et aux filets sur les eaux du domaine public ou son représentant qu'il
-désigne parmi les membres actifs de l'association, un deuxième représentant de
-l'association, élu par celle-ci, si elle comprend plus de 500 membres ;
+Le président de chaque association adhérente est délégué de droit.
 
-2° Quinze représentants des associations agréées de pêche et de pisciculture
-élus par des délégués de ces associations jouissant de leurs droits électoraux
-réunis en assemblée générale et désignés selon les conditions fixées à l'article
-R. 434-32.
+Les autres délégués sont élus par les associations agréées de pêche et de
+protection du milieu aquatique, réunie chacune en assemblée générale, parmi les
+membres actifs à raison d'un délégué pour les associations comptant 250 à 1 000
+membres actifs et d'un délégué supplémentaire par millier de membres pour les
+associations comptant plus de 1 000 membres actifs, dans la limite d'un nombre
+total de délégués par association de douze.
+
+L'élection des délégués à l'assemblée générale de la fédération départementale
+est organisée pendant le trimestre précédant l'année à laquelle expirent les
+baux de pêche consentis par l'Etat sur le domaine public.

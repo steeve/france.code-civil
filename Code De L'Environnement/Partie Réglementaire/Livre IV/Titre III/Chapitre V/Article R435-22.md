@@ -9,7 +9,7 @@ recevables en application de l'article R. 435-19, il est mis en adjudication
 restreinte entre les candidats qui ont présenté ces demandes, sous réserve des
 dispositions de l'article R. 435-21.
 
-Si une association agréée de pêche et de pisciculture candidate à l'adjudication
-restreinte du droit de pêche aux lignes est déjà locataire du lot, ce lot lui
-est, sur sa demande, attribué par préférence, moyennant un prix correspondant à
-l'offre la plus élevée.
+Si une association agréée de pêche et de protection du milieu aquatique
+candidate à l'adjudication restreinte du droit de pêche aux lignes est déjà
+locataire du lot, ce lot lui est, sur sa demande, attribué par préférence,
+moyennant un prix correspondant à l'offre la plus élevée.

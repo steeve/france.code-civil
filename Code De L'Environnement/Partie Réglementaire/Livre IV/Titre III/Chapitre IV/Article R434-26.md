@@ -10,7 +10,7 @@ arrêté ministériel.
 
 L'agrément de ces associations est délivré par le préfet. Son retrait est
 prononcé par la même autorité après avis de la fédération départementale des
-associations agréées de pêche et de pisciculture.
+associations agréées de pêche et de protection du milieu aquatique.
 
 L'agrément est accordé en fonction des droits de pêche détenus par
 l'association, du nombre de ses adhérents et de son aptitude à exercer les

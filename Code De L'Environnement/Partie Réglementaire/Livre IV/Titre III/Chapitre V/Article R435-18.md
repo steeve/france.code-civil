@@ -1,10 +1,10 @@
 Article R435-18
 ----
-Toute association agréée de pêche et de pisciculture qui désire obtenir la
-location d'un lot est tenue de présenter une demande, établie selon le modèle
-fixé par un arrêté conjoint du ministre chargé de la pêche en eau douce et du
-ministre chargé du domaine, accompagnée des pièces justificatives prévues par
-ledit arrêté.
+Toute association agréée de pêche et de protection du milieu aquatique qui
+désire obtenir la location d'un lot est tenue de présenter une demande, établie
+selon le modèle fixé par un arrêté conjoint du ministre chargé de la pêche en
+eau douce et du ministre chargé du domaine, accompagnée des pièces
+justificatives prévues par ledit arrêté.
 
 Si elle est déjà locataire d'un lot, l'association doit justifier, à l'appui de
 sa demande, des améliorations apportées par elle à ce lot, notamment des mesures
