@@ -2,8 +2,8 @@ Article L613-31-9
 ----
 L'administrateur ou liquidateur désigné par l'autorité compétente d'un autre
 Etat membre est habilité à exercer en France métropolitaine et dans les
-départements d'outre-mer tous les pouvoirs qu'il est habilité à exercer sur le
-territoire de cet Etat.
+départements d'outre-mer ainsi qu'à Saint-Barthélemy et à Saint-Martin tous les
+pouvoirs qu'il est habilité à exercer sur le territoire de cet Etat.
 
 Dans l'exercice de ces pouvoirs, l'administrateur ou le liquidateur respecte la
 loi française, en particulier pour ce qui concerne les modalités de réalisation

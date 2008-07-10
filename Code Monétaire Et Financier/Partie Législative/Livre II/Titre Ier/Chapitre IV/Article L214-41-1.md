@@ -18,7 +18,8 @@ a) Exercer leurs activités principalement dans des établissements situés dans
 zone géographique choisie par le fonds et limitée à une région ou deux ou trois
 régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y
 avoir établi leur siège social. Le fonds peut également choisir une zone
-géographique constituée d'un ou de plusieurs départements d'outre mer ;
+géographique constituée d'un ou de plusieurs départements d'outre mer ainsi que
+de Saint-Barthélemy et de Saint-Martin ;
 
 b) Répondre à la définition des petites et moyennes entreprises figurant à
 l'annexe I au règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,

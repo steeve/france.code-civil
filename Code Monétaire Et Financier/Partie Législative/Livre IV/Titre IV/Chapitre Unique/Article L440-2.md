@@ -16,8 +16,8 @@ membres ou associés soient des établissements ou entreprises mentionnés aux 1
 2 ci-dessus ;
 
 4. Les personnes morales ayant leur siège social en France métropolitaine ou
-dans les départements d'outre-mer et dont l'objet principal ou unique est la
-compensation d'instruments financiers ;
+dans les départements d'outre-mer ou à Saint-Barthélemy ou à Saint-Martin et
+dont l'objet principal ou unique est la compensation d'instruments financiers ;
 
 5. Dans des conditions fixées par le règlement général de l'Autorité des marchés
 financiers, les établissements de crédit, et les entreprises d'investissement,
@@ -25,7 +25,8 @@ qui ont leur siège social dans un Etat qui n'est ni membre de la Communauté
 européenne ni partie à l'accord sur l'Espace économique européen, ainsi que les
 personnes morales ayant pour objet principal ou unique l'activité de
 compensation d'instruments financiers qui ne sont pas établis sur le territoire
-de la France métropolitaine ou des départements d'outre-mer.
+de la France métropolitaine ou des départements d'outre-mer ou à
+Saint-Barthélemy ou à Saint-Martin.
 
 Les organismes mentionnés aux 1 à 4 sont soumis, pour leur activité de
 compensation d'instruments financiers, aux obligations législatives et
@@ -34,10 +35,11 @@ code pour les prestataires de services d'investissement. Les personnes morales
 mentionnées aux 3 et 4 sont soumises aux règles d'agrément fixées par le présent
 code pour les entreprises d'investissement. Les personnes morales mentionnées
 aux 1 et 2 qui ont leur siège social en France métropolitaine ou dans les
-départements d'outre-mer et qui souhaitent compenser les transactions d'autres
-membres d'un marché réglementé ou d'un système multilatéral de négociation font
-l'objet d'une habilitation délivrée dans le cadre de leur agrément
-d'établissement de crédit ou d'entreprise d'investissement.
+départements d'outre-mer ou à Saint-Barthélémy ou à Saint-martin et qui
+souhaitent compenser les transactions d'autres membres d'un marché réglementé ou
+d'un système multilatéral de négociation font l'objet d'une habilitation
+délivrée dans le cadre de leur agrément d'établissement de crédit ou
+d'entreprise d'investissement.
 
 Les organismes mentionnés au 5° doivent être soumis dans leur Etat d'origine à
 des règles d'exercice de l'activité de compensation et de contrôle équivalentes

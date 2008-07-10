@@ -8,4 +8,5 @@ d'assurance, ainsi que les modalités de l'exercice par le fonds de garantie du
 droit de subrogation prévu à l'article L. 421-13.
 
 Un décret en Conseil d'Etat fixe les conditions d'adaptation de la présente
-section dans les départements d'outre-mer.
+section dans les départements d'outre-mer ainsi qu'à Saint-Barthélemy et à
+Saint-Martin.

@@ -4,7 +4,8 @@ En application de l'article 106, paragraphe I, du traité instituant la
 Communauté européenne, accordant à la Banque centrale européenne le monopole
 d'autorisation d'émission de billets de banque dans la Communauté, la Banque de
 France est seule habilitée, sur le territoire de la France métropolitaine et des
-départements d'outre-mer, à émettre les billets ayant cours légal.
+départements d'outre-mer ainsi que sur le territoire de Saint-Barthélemy et de
+Saint-Martin, à émettre les billets ayant cours légal.
 
 Elle exerce cette compétence à Mayotte, à Saint-Pierre-et-Miquelon.
 

@@ -7,6 +7,7 @@ tiers ou de la négociation pour compte propre peuvent devenir membres d'un
 marché réglementé mentionné à l'article L. 421-1 :
 
 a) Soit directement, en établissant une succursale sur le territoire de la
-France métropolitaine ou des départements d'outre mer ;
+France métropolitaine ou des départements d'outre mer ou à Saint-Barthélemy ou à
+Saint-Martin ;
 
 b) Soit en devenant membres à distance de ce marché.

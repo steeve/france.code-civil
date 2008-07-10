@@ -9,9 +9,9 @@ l'Espace économique européen.
 
 Lorsque l'Autorité des marchés financiers reçoit des comptes rendus de
 transactions d'une succursale en France métropolitaine ou dans les départements
-d'outre-mer de prestataires de services d'investissement ayant leur siège dans
-un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen, elle les communique à l'autorité
-compétente de l'Etat d'origine de la succursale. Toutefois, elle est dispensée
-de cette communication si cette dernière autorité indique qu'elle ne souhaite
-pas les recevoir.
+d'outre-mer ou à Saint-Barthélemy ou à Saint-Martin de prestataires de services
+d'investissement ayant leur siège dans un autre Etat membre de la Communauté
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen, elle les communique à l'autorité compétente de l'Etat d'origine de la
+succursale. Toutefois, elle est dispensée de cette communication si cette
+dernière autorité indique qu'elle ne souhaite pas les recevoir.
