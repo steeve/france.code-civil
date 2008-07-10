@@ -6,167 +6,160 @@ suivant :
 
 Procédure pénale
 
-L'action publique et l'action civile.
+L'action publique et l'action civile : notions générales.
 
-Les autorités investies par la loi de fonctions de police judiciaire.
+Les autorités investies par la loi de missions de police judiciaire :
 
-Les cadres juridiques et les actes de la mission de police judiciaire.
+- la police judiciaire ;
+
+- le ministère public ;
+
+- le magistrat instructeur.
+
+Les enquêtes, les contrôles d'identité :
+
+- les cadres juridiques ;
+
+- les contrôles, les vérifications et les relevés d'identité.
+
+L'instruction :
+
+- du premier et du second degré ;
+
+- le contrôle judiciaire et la détention provisoire ;
+
+- la commission rogatoire.
+
+Les procédures particulières :
+
+- l'entraide judiciaire internationale ;
+
+- la procédure applicable à la criminalité et à la délinquance organisées.
+
+La procédure pénale applicable aux mineurs.
 
 Le contrôle de la mission de police judiciaire.
 
-L'instruction préparatoire.
-
 Les mandats de justice.
 
-La détention provisoire et le contrôle judiciaire.
+Les juridictions de jugement.
 
-La nullité des actes de procédure.
+L'exécution des décisions de justice :
 
-La procédure applicable aux mineurs.
+- la contrainte judiciaire ;
 
-Les juridictions judiciaires pénales.
-
-L'exécution des décisions de justice pénale.
+- les juridictions de l'application des peines.
 
 
 Droit pénal général
 
-A. - Généralités sur la législation pénale.
+La loi pénale :
 
-B. - L'infraction pénale :
+- les principes généraux ;
 
-- les principes généraux de la responsabilité pénale ;
+- l'application de la loi pénale dans le temps et dans l'espace.
 
-- la classification des infractions et l'organisation judiciaire en matière
-pénale ;
+L'infraction pénale :
+
+- la classification des infractions ;
 
 - les éléments constitutifs de l'infraction ;
 
-- la tentative ;
+- les circonstances aggravantes.
 
-- la complicité ;
+La responsabilité pénale :
+
+- les dispositions générales : la tentative, la coaction et la complicité ;
 
 - la responsabilité pénale des personnes morales ;
 
-- les faits justificatifs légaux.
+- les causes d'irresponsabilité ou d'atténuation de la responsabilité.
 
-C. - La sanction.
+Les peines :
 
-Notions générales (classification des sanctions et des mesures de sûreté,
-modalités de mise en oeuvre des sanctions, période de sûreté, cause
-d'atténuation, d'exemption, d'aggravation, de suspension, d'extinction de la
-peine).
+- la classification légale ;
+
+- le concours d'infractions ;
+
+- la récidive ;
+
+- la réitération d'infractions.
 
 
 Droit pénal spécial
 
-A. - Infractions contre les personnes :
+Les crimes et délits contre les personnes :
 
-- les atteintes volontaires à la vie/meurtres assassinat, empoisonnement ;
+- les atteintes à la vie de la personne ;
 
-- les atteintes involontaires à la vie/homicide involontaire ;
+- les atteintes à l'intégrité physique ou psychique de la personne ;
 
-- les atteintes volontaires à l'intégrité de la personne/torture et actes de
-barbarie, violences, menaces ;
+- la mise en danger de la personne ;
 
-- les atteintes involontaires à l'intégrité de la personne ;
+- les atteintes aux libertés de la personne ;
 
-- les agressions sexuelles/viol, autres agressions sexuelles, harcèlement sexuel
-;
+- les atteintes à la dignité de la personne ;
 
-- l'usage et le trafic de stupéfiants ;
+- les atteintes à la personnalité ;
 
-- la mise en danger de la personne/risques causés à autrui, délaissement de la
-personne hors d'état de se protéger, entraves aux mesures d'assistance, omission
-de porter secours, expérimentation sur la personne, interruption illégale de la
-grossesse, provocation au suicide ;
+- les atteintes aux mineurs et à la famille.
 
-- les atteintes à la liberté de la personne/enlèvement et séquestration ;
-
-- les atteintes à la dignité de la personne/proxénétisme, conditions de travail
-et d'hébergement contraires à la dignité de la personne, le respect dû aux morts
-;
-
-- les atteintes aux mineurs et à la famille/délaissement du mineur, abandon de
-famille, atteintes à l'exercice de l'autorité parentale, atteintes à la
-filiation, les délits de mise en péril des mineurs.
-
-B. - Infractions contre les biens :
+Les crimes et délits contre les biens :
 
 - le vol ;
 
-- l'escroquerie ;
+- l'extorsion ;
 
-- l'abus frauduleux de l'état d'ignorance ;
+- l'escroquerie et les infractions voisines ;
 
 - les détournements ;
 
-- les abus de biens sociaux ;
+- le recel et les infractions assimilées ou voisines ;
 
-- la filouterie ;
-
-- l'extorsion ;
-
-- le chantage ;
-
-- le recel ;
-
-- l'immunité familiale ;
-
-- les menaces ;
-
-- les destructions, dégradations, détériorations ;
+- les destructions, dégradations et détériorations ;
 
 - les atteintes aux systèmes de traitement automatisé de données.
 
-C. - Infractions contre la nation, l'Etat et la paix publique :
+Les crimes et délits contre la nation, l'Etat et la paix publique :
 
-- l'association de malfaiteurs ;
+- les atteintes à l'administration publique commises par des personnes exerçant
+une fonction publique ;
 
-- les faux ;
+- les atteintes à l'administration publique commises par des particuliers ;
 
-- les crimes et délits commis par ou contre un fonctionnaire.
+- les atteintes à l'action de la justice ;
 
-D. - Les infractions à la police de la circulation routière.
+- les atteintes à la confiance publique ;
 
-E. - Les problèmes internationaux et européens de la législation pénale :
+- la participation à une association de malfaiteurs.
 
-- libertés publiques ;
+La falsification de moyens de paiement.
 
-- introductions générales aux libertés publiques ;
+Les infractions au régime des matériels de guerre, des armes et des munitions.
 
-- les libertés individuelles et la vie privée ;
+Les infractions délictuelles à la circulation routière.
 
-- la sûreté ou liberté individuelle ;
+
+Libertés publiques
+
+Introduction générale aux libertés publiques.
+
+Les libertés individuelles et la vie privée :
+
+- la sûreté ;
 
 - la liberté d'aller et venir ;
 
 - le respect de la vie privée, du domicile et des correspondances ;
 
-- le respect de la personne et les lois antidiscriminatoires ;
+- le respect de la personne et les lois anti-discriminatoires ;
 
-- les libertés d'expression collectives ;
+- la CNIL.
 
-- la liberté d'association ;
-
-- la liberté de réunion ;
+Les libertés d'expression collectives :
 
 - le régime des manifestations ;
 
 - le régime des attroupements ;
 
-- la liberté de la presse ;
-
-- les libertés à contenu économique et social ;
-
-- la liberté syndicale ;
-
-- le droit de grève ;
-
-- les libertés contemporaines ;
-
-- la motivation des décisions administratives ;
-
-- l'accès aux documents administratifs ;
-
-- l'informatique et les libertés.
+- la liberté de la presse.
