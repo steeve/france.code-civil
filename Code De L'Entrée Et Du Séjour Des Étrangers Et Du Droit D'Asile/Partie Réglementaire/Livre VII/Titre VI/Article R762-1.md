@@ -3,9 +3,9 @@ Article R762-1
 Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des
 dispositions suivantes :
 
-1° Le président de la Commission des recours des réfugiés peut prendre les
-mesures nécessaires à la constitution et au fonctionnement de sections de la
-commission siégeant dans les îles Wallis et Futuna ;
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures
+nécessaires à la constitution et au fonctionnement de sections de la cour
+siégeant dans les îles Wallis et Futuna ;
 
 1° bis A l'article R. 723-1 :
 
@@ -53,15 +53,15 @@ de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : "
 à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait
 la demande " ;
 
-7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre
-chargé de l'asile, qui doivent produire leurs observations" sont remplacés par
-les mots : "à l'administrateur supérieur des îles Wallis et Futuna, qui doit
-produire ses observations", au premier alinéa de l'article R. 733-23, les mots :
-du ministre de l'intérieur et du ministre chargé de l'asile sont remplacés par
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre
+chargé de l'asile, qui doivent produire leurs observations " sont remplacés par
+les mots : " à l'administrateur supérieur des îles Wallis et Futuna, qui doit
+produire ses observations ", au premier alinéa de l'article R. 733-23, les mots
+: du ministre de l'intérieur et du ministre chargé de l'asile sont remplacés par
 les mots : de l'administrateur supérieur des îles Wallis et Futuna et au
 troisième alinéa du même article, les mots : au ministre de l'intérieur et au
-ministre chargé de l'asile sont remplacés par les mots : "à l'administrateur
-supérieur des îles Wallis et Futuna" ;
+ministre chargé de l'asile sont remplacés par les mots : " à l'administrateur
+supérieur des îles Wallis et Futuna " ;
 
 8° A l'article R. 741-2 :
 

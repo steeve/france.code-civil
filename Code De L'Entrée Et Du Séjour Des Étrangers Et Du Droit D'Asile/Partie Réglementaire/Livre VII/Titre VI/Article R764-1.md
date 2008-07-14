@@ -3,9 +3,9 @@ Article R764-1
 Le présent livre est applicable en Nouvelle-Calédonie sous réserve des
 dispositions suivantes :
 
-1° Le président de la Commission des recours des réfugiés peut prendre les
-mesures nécessaires à la constitution et au fonctionnement de sections de la
-commission siégeant en Nouvelle-Calédonie ;
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures
+nécessaires à la constitution et au fonctionnement de sections de la cour
+siégeant en Nouvelle-Calédonie ;
 
 1° bis A l'article R. 723-1 :
 

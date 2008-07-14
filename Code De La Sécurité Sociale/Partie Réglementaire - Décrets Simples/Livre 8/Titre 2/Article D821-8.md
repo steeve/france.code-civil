@@ -5,5 +5,5 @@ Les titres ou documents prévus à l'article L. 821-1 sont ceux mentionnés aux 
 récépissé de demande de titre de séjour valant autorisation de séjour d'une
 durée de validité de trois mois renouvelable délivré dans le cadre de l'octroi
 de la protection subsidiaire, accompagné de la décision de l'Office français de
-protection des réfugiés et apatrides ou de la Commission des recours des
-réfugiés accordant cette protection.
+protection des réfugiés et apatrides ou de la Cour nationale du droit d'asile
+accordant cette protection.

@@ -9,8 +9,8 @@ Lorsque, à la suite d'une décision de rejet devenue définitive, la personne
 intéressée entend soumettre à l'office des éléments nouveaux, sa demande de
 réexamen doit être précédée d'une nouvelle demande d'admission au séjour et être
 présentée selon la procédure prévue à l'article R. 723-1. Le délai prévu au
-premier alinéa de cet article est alors limité à huit jours. Dans un délai de 96
-heures suivant l'enregistrement de la demande, le directeur général de l'office
-décide, au vu des éléments produits, s'il y a lieu de procéder à un nouvel
-examen de la situation de l'intéressé. Le silence gardé par le directeur général
-au terme de ce délai vaut rejet de la demande.
+premier alinéa de cet article est alors limité à huit jours.
+
+La décision du directeur général de l'office sur la demande de réexamen est
+communiquée par lettre recommandée avec demande d'avis de réception et dans les
+conditions prévues au deuxième alinéa de l'article R. 213-3.

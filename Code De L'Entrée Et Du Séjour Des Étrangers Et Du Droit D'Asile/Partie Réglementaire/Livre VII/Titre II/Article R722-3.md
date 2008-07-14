@@ -17,6 +17,6 @@ d'administration.
 
 Les délibérations sur les matières énumérées aux 3°, 4°, 5° et 6° de l'article
 R. 722-2 deviennent exécutoires de plein droit quinze jours après leur réception
-par le ministre des affaires étrangères et le ministre chargé du budget, sauf
+par le ministre chargé de l'asile et le ministre chargé du budget, sauf
 opposition ou demande de surseoir à exécution adressée au directeur général de
 l'office.

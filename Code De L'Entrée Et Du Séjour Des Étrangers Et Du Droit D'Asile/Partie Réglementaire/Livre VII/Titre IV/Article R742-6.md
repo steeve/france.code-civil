@@ -1,8 +1,8 @@
 Article R742-6
 ----
 L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par
-l'Office français de protection des réfugiés et apatrides ou la Commission des
-recours des réfugiés est admis à souscrire une demande de délivrance de carte de
+l'Office français de protection des réfugiés et apatrides ou la Cour nationale
+du droit d'asile est admis à souscrire une demande de délivrance de carte de
 séjour temporaire dans les conditions prévues à l'article R. 313-1.
 
 Dans un délai de huit jours à compter de sa demande, il est mis en possession

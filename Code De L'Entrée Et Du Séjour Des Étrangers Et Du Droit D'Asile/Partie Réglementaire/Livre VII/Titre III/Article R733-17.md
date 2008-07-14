@@ -1,8 +1,8 @@
 Article R733-17
 ----
-Les audiences de la commission sont publiques.
+Les audiences de la cour sont publiques.
 
-Les parties peuvent présenter leurs observations à la commission.
+Les parties peuvent présenter leurs observations à la cour.
 
 Le président de la formation de jugement veille à l'ordre de l'audience. Lorsque
 les circonstances l'exigent, il peut ordonner que l'audience se tienne à huis

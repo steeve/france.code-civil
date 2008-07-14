@@ -9,4 +9,4 @@ Les dépenses de l'office comprennent :
 2° Les frais de fonctionnement et d'équipement ;
 
 3° De façon générale, toutes dépenses nécessaires à l'activité de l'office et de
-la Commission des recours des réfugiés.
+la Cour nationale du droit d'asile.
