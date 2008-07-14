@@ -1,8 +1,5 @@
 Article L213-7
 ----
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont
-délivrés les expéditions et extraits authentiques de documents d'archives.
-
-Un décret fixe le tarif des droits d'expédition ou d'extrait authentique des
-pièces conservées dans les services d'archives de l'Etat, des départements et
-des communes.
+Les dispositions des articles L. 213-1 à L. 213-3, L. 213-5, L. 213-6 et L.
+213-8 sont affichées de façon apparente dans les locaux ouverts au public des
+services publics d'archives.

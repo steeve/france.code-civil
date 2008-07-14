@@ -1,12 +1,13 @@
 Article L212-3
 ----
-A l'expiration de leur période d'utilisation courante par les services,
-établissements et organismes qui les ont produits ou reçus, les documents
-mentionnés à l'article L. 211-4 et autres que ceux mentionnés à l'article L.
-212-4 font l'objet d'un tri pour séparer les documents à conserver et les
-documents dépourvus d'intérêt administratif et historique, destinés à
-l'élimination.
+Lorsque les archives publiques comportent des données à caractère personnel
+collectées dans le cadre de traitements régis par la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, ces données font
+l'objet, à l'expiration de la durée prévue au 5° de l'article 6 de ladite loi,
+d'une sélection pour déterminer les données destinées à être conservées et
+celles, dépourvues d'utilité administrative ou d'intérêt scientifique,
+statistique ou historique, destinées à être éliminées.
 
-La liste des documents destinés à l'élimination ainsi que les conditions de leur
-élimination sont fixées en accord entre l'autorité qui les a produits ou reçus
-et l'administration des archives.
+Les catégories de données destinées à l'élimination ainsi que les conditions de
+cette élimination sont fixées par accord entre l'autorité qui a produit ou reçu
+ces données et l'administration des archives.

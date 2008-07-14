@@ -30,6 +30,6 @@ destiné à l'entrepôt de fonds, valeurs, marchandises ou matériels, en péné
 dans les lieux par ruse, effraction ou escalade.
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à
-l'encontre d'un lieu de culte, d'un établissement scolaire, éducatif ou de
-loisirs ou d'un véhicule transportant des enfants, les peines encourues sont
-également portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
+l'encontre d'un établissement scolaire, éducatif ou de loisirs ou d'un véhicule
+transportant des enfants, les peines encourues sont également portées à cinq ans
+d'emprisonnement et à 75 000 euros d'amende.

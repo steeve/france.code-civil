@@ -5,14 +5,14 @@ janvier 2002 relative aux musées de France, à une réduction d'impôt sur le
 revenu ou d'impôt sur les sociétés, égale à 40 % de leur montant, les sommes
 consacrées par les entreprises à l'achat de biens culturels faisant l'objet à la
 date d'acquisition d'un refus de certificat en application des articles L. 111-4
-et L. 121-1 du code du patrimoine , dans les conditions suivantes :
+et L. 121-1 du code du patrimoine, dans les conditions suivantes :
 
 a. le bien ne doit pas avoir fait l'objet d'une offre d'achat de l'Etat dans les
 conditions fixées par l'article L. 121-1 précité ;
 
 b. l'entreprise s'engage à consentir au classement du bien comme monument
-historique en application de l'article 16 de la loi du 31 décembre 1913 sur les
-monuments historiques ;
+historique en application de l'article L. 622-4 du code du patrimoine ou comme
+archives historiques en application de l'article L. 212-15 du même code ;
 
 c. le bien ne doit pas être cédé avant l'expiration d'un délai de dix ans à
 compter de l'acquisition ;

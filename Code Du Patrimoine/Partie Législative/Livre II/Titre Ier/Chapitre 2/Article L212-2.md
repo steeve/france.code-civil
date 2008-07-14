@@ -1,10 +1,11 @@
 Article L212-2
 ----
-Les conditions de la conservation des archives publiques sont déterminées par
-décret en Conseil d'Etat.
+A l'expiration de leur période d'utilisation courante, les archives publiques
+autres que celles mentionnées à l'article L. 212-3 font l'objet d'une sélection
+pour séparer les documents à conserver des documents dépourvus d'utilité
+administrative ou d'intérêt historique ou scientifique, destinés à
+l'élimination.
 
-Ce décret détermine les cas où l'administration des archives laisse le soin de
-la conservation des documents d'archives produits ou reçus par certaines
-administrations ou certains organismes aux services compétents de ces
-administrations ou organismes. Il fixe les conditions de la coopération entre
-l'administration des archives et ces administrations ou organismes.
+La liste des documents ou catégories de documents destinés à l'élimination ainsi
+que les conditions de leur élimination sont fixées par accord entre l'autorité
+qui les a produits ou reçus et l'administration des archives.
