@@ -21,7 +21,7 @@ annulées au cours du dernier exercice, d'autre part, le total des impôts et
 taxes afférents aux primes ou cotisations précitées.
 
 Le montant obtenu est réparti en deux tranches, respectivement inférieure et
-supérieure à 53 100 000 euros (1). A 18 % de la première tranche sont ajoutés 16
+supérieure à 53 100 000 euros (1).A 18 % de la première tranche sont ajoutés 16
 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
@@ -49,7 +49,7 @@ constituées au commencement du deuxième exercice précédant le dernier exerci
 tant pour les affaires directes que pour les acceptations en réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 37 200 000 euros (1). A 26 % de la première tranche
+inférieure et supérieure à 37 200 000 euros (1).A 26 % de la première tranche
 sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en
@@ -77,3 +77,15 @@ montant des provisions techniques pour sinistres à payer au début du dernier
 exercice. Dans ces calculs, les provisions techniques sont calculées déduction
 faite de la réassurance, ce rapport ne pouvant cependant pas être supérieur à
 un.
+
+Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle,
+et avec l'accord de celle-ci, les montants récupérables au titre des risques
+transférés à un véhicule de titrisation mentionné à l'article L. 310-1-2 peuvent
+être assimilés à des cessions en réassurance pour le calcul du rapport mentionné
+au dernier alinéa du a et au dernier alinéa du b.
+
+L'Autorité de contrôle tient compte du transfert de risque effectif pour
+apprécier l'ampleur de la réduction d'exigence de marge de solvabilité autorisée
+au titre de chaque opération réalisée avec un véhicule de titrisation. Elle
+tient également compte de la capacité de ce véhicule à respecter à tout moment
+ses engagements.

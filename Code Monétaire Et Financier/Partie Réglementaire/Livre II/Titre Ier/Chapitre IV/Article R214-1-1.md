@@ -20,7 +20,7 @@ autres que les effets de commerce et les instruments financiers mentionnés au f
 c) Les parts ou actions d'organismes de placement collectif en valeurs
 mobilières ;
 
-d) Les parts et titres de créance émis par des fonds communs de créances ;
+d) Les parts et titres de créance émis par des fonds communs de titrisation ;
 
 e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ;
 

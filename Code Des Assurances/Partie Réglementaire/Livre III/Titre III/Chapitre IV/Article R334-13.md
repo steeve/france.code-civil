@@ -17,15 +17,15 @@ exercice, entre le montant des provisions mathématiques après cessions en
 réassurance et le montant des provisions mathématiques brut de réassurance, sans
 que ce rapport puisse être inférieur à 85 %.
 
-Le second résultat est obtenu en multipliant un nombre représentant 0,3 % des
+Le second résultat est obtenu en multipliant un nombre représentant 0, 3 % des
 capitaux sous risque par le rapport existant, pour le dernier exercice, entre le
 montant des capitaux sous risque après cession et rétrocession en réassurance et
 le montant des capitaux sous risque brut de réassurance sans que ce rapport
 puisse être inférieur à 50 %.
 
 Pour les assurances temporaires en cas de décès d'une durée maximale de trois
-années, le facteur multiplicateur des capitaux sous risque est égal à 0,1 %. Il
-est fixé à 0,15 % desdits capitaux pour les assurances temporaires en cas de
+années, le facteur multiplicateur des capitaux sous risque est égal à 0, 1 %. Il
+est fixé à 0, 15 % desdits capitaux pour les assurances temporaires en cas de
 décès dont la durée est supérieure à trois années mais n'excède pas cinq années.
 
 Le capital sous risque est égal au risque décès, déduction faite de la provision
@@ -63,7 +63,7 @@ supérieure à cinq années ;
 3. Lorsque l'entreprise assume un risque de mortalité, le montant de l'exigence
 minimale de marge est obtenu en ajoutant à l'un ou l'autre des résultats
 déterminés par application des dispositions des deux alinéas précédents un
-nombre représentant 0,3 % des capitaux sous risque, multiplié par le rapport
+nombre représentant 0, 3 % des capitaux sous risque, multiplié par le rapport
 existant, pour le dernier exercice, entre le montant des capitaux sous risque
 après cessions et rétrocessions en réassurance et le montant des capitaux sous
 risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 % ;
@@ -75,3 +75,15 @@ un montant de 4 % de la plus élevée des valeurs suivantes :
 après cessions en réassurance ;
 
 2. 85 % de cette même provision calculée avant cessions en réassurance.
+
+Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle,
+et avec l'accord de celle-ci, les montants récupérables au titre des risques
+transférés à un véhicule de titrisation mentionnés à l'article L. 310-1-2
+peuvent être assimilés à des cessions en réassurance pour le calcul du rapport
+mentionné aux deuxième et troisième alinéas du a et au 3 du e.
+
+L'Autorité de contrôle tient compte du transfert de risque effectif pour
+apprécier l'ampleur de la réduction d'exigence de marge de solvabilité autorisée
+au titre de chaque opération réalisée avec un véhicule de titrisation. Elle
+tient également compte de la capacité de ce véhicule à respecter à tout moment
+ses engagements.

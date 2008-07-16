@@ -16,14 +16,16 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
 membre de l'O.C.D.E. ;
 
-2° Obligations, parts de fonds communs de créance et titres participatifs
-négociés sur un marché reconnu , autres que celles ou ceux visés au 1° ;
+2° Obligations, titres participatifs et parts ou actions émises par des
+véhicules de titrisation et titres participatifs négociés sur un marché reconnu
+, autres que celles ou ceux visés au 1° ;
 
 2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
 marchés interbancaire, monétaire ou obligataire, et émis par des personnes
 morales autres que les Etats membres de l'OCDE ayant leur siège social sur le
-territoire de ces Etats et dont des titres sont négociés sur un marché reconnu ;
+territoire de ces Etats ou des fonds communs de titrisation, dont des titres
+sont négociés sur un marché reconnu ;
 
 2° ter Bons à moyen terme négociables répondant aux conditions mentionnées à
 l'article R. 332-14-1, et émis par des personnes morales autres que les Etats

@@ -1,13 +1,12 @@
 Article R214-95
 ----
-Les liquidités mentionnées au 2° de l'article R. 214-93 éligibles à l'actif du
-fonds commun de créances sont :
+Les liquidités mentionnées au 2° de l'article R. 214-93 éligibles à l'actif de
+l'organisme de titrisation sont :
 
-1° Des dépôts effectués auprès d'un établissement mentionné au 1° de l'article
-R. 214-97, à l'exclusion des entreprises d'investissement, qui peuvent être
-remboursés ou retirés à tout moment à la demande du fonds pour une mise à
-disposition des sommes sous vingt-quatre heures maximum sous réserve des heures
-limites de placement en devises ;
+1° Des dépôts effectués auprès d'un établissement de crédit dont le siège est
+établi dans un Etat partie à l'accord sur l'Espace économique européen ou membre
+de l'Organisation de coopération et de développement économique qui peuvent être
+remboursés ou retirés à tout moment à la demande de l'organisme ;
 
 2° Des bons du Trésor ;
 
@@ -22,12 +21,8 @@ donnant accès directement ou indirectement au capital d'une société ;
 mobilières investies principalement en titres de créances mentionnés aux 2°, 3°
 et 4° ;
 
-6° Des parts de fonds communs de créances ou d'entités similaires de droit
-étranger, à l'exception de ses propres parts.
+6° Des parts ou actions d'organismes de titrisation ou d'entités similaires de
+droit étranger, à l'exception de ses propres parts.
 
-Ces liquidités sont détenues par le fonds dans la limite des besoins liés à la
-réalisation de sa stratégie de gestion. Elles peuvent notamment correspondre au
-placement des sommes en instance d'affectation au fonds, mentionné au quatrième
-alinéa de l'article L. 214-43.
-
-Le règlement du fonds précise les règles d'emploi de ces liquidités.
+Le règlement ou les statuts de l'organisme précisent les règles d'emploi de ces
+liquidités.

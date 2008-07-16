@@ -1,13 +1,10 @@
 Article R214-99
 ----
-I. - Le fonds commun de créances peut émettre des titres de créances négociables
-et des obligations ou des titres de créances émis par le fondement d'un droit
-étranger.
+L'organisme de titrisation peut conclure des contrats constituant des
+instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1 dans
+les conditions prévues par ses statuts ou son règlement.
 
-II. - Le produit des titres de créances émis par le fonds est affecté à la
-constitution de l'actif du fonds, au remboursement ou à la rémunération de parts
-ou de titres de créances déjà émis par le fonds ou au remboursement ou à la
-rémunération d'emprunts déjà effectués par le fonds.
-
-III. - Le règlement du fonds précise les caractéristiques et les modalités
-d'émission des titres de créances.
+La perte nette maximale de l'organisme résultant de l'ensemble des contrats
+constituant des instruments financiers à terme conclus, évaluée à tout moment en
+prenant en compte les couvertures dont il bénéficie, ne peut être supérieure à
+la valeur de son actif.
