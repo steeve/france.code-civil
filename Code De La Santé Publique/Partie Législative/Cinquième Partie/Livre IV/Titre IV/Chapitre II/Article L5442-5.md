@@ -8,6 +8,3 @@ prononcer la fermeture provisoire de l'établissement.
 Les personnes physiques coupables d'une infraction prévue au présent chapitre
 encourent la peine complémentaire de la fermeture temporaire ou définitive de
 l'établissement.
-
-La récidive des infractions prévues aux articles du présent chapitre est punie
-de six mois d'emprisonnement et de 9000 euros d'amende.

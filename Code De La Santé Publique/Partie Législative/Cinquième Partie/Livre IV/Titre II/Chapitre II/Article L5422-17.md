@@ -7,6 +7,3 @@ peut prononcer la fermeture provisoire de l'établissement.
 Les personnes physiques coupables d'une infraction prévue aux articles L.
 5422-15 ou L. 5422-16 encourent la peine complémentaire de la fermeture
 temporaire ou définitive de l'établissement.
-
-La récidive des infractions mentionnés aux articles L. 5422-15 ou L. 5422-16 est
-punie de trois mois d'emprisonnement et de 7500 euros d'amende.

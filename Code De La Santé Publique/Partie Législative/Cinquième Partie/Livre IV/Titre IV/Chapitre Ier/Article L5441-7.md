@@ -1,11 +1,6 @@
 Article L5441-7
 ----
-Est puni de 3750 euros d'amende le fait :
-
-1° De ne pas respecter pour les fabricants, importateurs et détenteurs de
-médicaments vétérinaires, l'obligation qui peut leur être faite pour lutter
-contre une épizootie de déclarer la totalité de leurs productions, de leurs
-importations ou de leurs stocks ;
-
-2° D'accorder une exclusivité de vente de médicaments vétérinaires à une ou
-plusieurs catégories de revendeurs.
+Le fait pour le fabricant, importateur et détenteur de médicaments vétérinaires
+de ne pas déclarer sur demande expresse de l'administration, en cas de lutte
+contre une épizootie, leur production, leur importation ou leur stock est puni
+de 30 000 euros d'amende.

@@ -2,7 +2,7 @@ Article L5423-6
 ----
 Le fait de méconnaître les règles de la publicité en faveur des entreprises et
 établissements pharmaceutiques fixées par décret en Conseil d'Etat selon les
-dispositions de l'article L. 5124-18 est puni de 37500 euros d'amende.
+dispositions de l'article L. 5124-18 est puni de 30 000 euros d'amende.
 
 Sont passibles des mêmes peines, quel que soit le mode de publicité utilisé, les
 personnes qui tirent profit d'une publicité irrégulière et les agents de

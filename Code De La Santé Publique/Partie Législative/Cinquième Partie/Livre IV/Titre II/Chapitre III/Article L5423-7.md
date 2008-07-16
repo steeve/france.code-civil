@@ -8,7 +8,3 @@ provisoire de l'établissement.
 Les personnes physiques coupables d'une infraction prévue aux articles du
 présent chapitre, à l'exception de l'article L. 5423-6, encourent la peine
 complémentaire de fermeture temporaire ou définitive de l'établissement.
-
-Dans tous les cas mentionnés aux articles du présent chapitre, à l'exception de
-l'article L. 5423-6, la récidive est punie de trois mois d'emprisonnement et de
-7500 euros d'amende.

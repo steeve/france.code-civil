@@ -8,6 +8,3 @@ prononcer la fermeture provisoire de l'établissement.
 Les personnes physiques coupables d'une infraction prévue au présent chapitre
 encourent la peine complémentaire de la fermeture temporaire ou définitive de
 l'établissement.
-
-La récidive des infractions prévues aux articles L. 5441-2, L. 5441-4, L. 5441-8
-et L. 5441-9 est punie de six mois d'emprisonnement et de 9000 euros d'amende.

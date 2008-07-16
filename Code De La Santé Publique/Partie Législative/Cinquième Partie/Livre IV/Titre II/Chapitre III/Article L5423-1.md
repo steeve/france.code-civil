@@ -1,6 +1,6 @@
 Article L5423-1
 ----
-Est puni de 3750 euros d'amende le fait :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait :
 
 1° D'être propriétaire ou de diriger une entreprise comportant au moins un
 établissement pharmaceutique sans être pharmacien ou sans avoir désigné un

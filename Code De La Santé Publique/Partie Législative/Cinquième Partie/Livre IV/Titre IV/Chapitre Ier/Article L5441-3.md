@@ -1,6 +1,11 @@
 Article L5441-3
 ----
-L'acquisition, la détention ou la délivrance par le représentant légal d'un
-groupement défini au premier alinéa de l'article L. 5143-6 de médicaments sans
-le contrôle d'un vétérinaire ou d'un pharmacien participant effectivement à la
-direction technique du groupement est punie de 3750 euros d'amende.
+Le fait pour un promoteur, soit dans le délai de deux mois précédant l'essai
+clinique, soit lorsqu'une modification substantielle de l'essai intervient, de
+ne pas transmettre à l'agence les informations réglementairement prescrites et
+relatives à l'expérimentation des médicaments est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende.
+
+Est puni des mêmes peines le fait pour un promoteur de ne pas respecter la
+décision de l'agence de s'opposer à la mise en œuvre ou à la modification de cet
+essai.

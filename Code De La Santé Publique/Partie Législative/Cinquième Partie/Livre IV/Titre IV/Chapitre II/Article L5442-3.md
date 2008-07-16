@@ -1,6 +1,6 @@
 Article L5442-3
 ----
-Est puni de 30 000 F le fait :
+Est puni de deux ans d'emprisonnement et de 30 000 euros le fait :
 
 1° De solliciter auprès du public des commandes de médicaments vétérinaires et
 de satisfaire de telles commandes ;
