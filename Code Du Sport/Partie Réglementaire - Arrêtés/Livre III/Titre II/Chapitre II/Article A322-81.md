@@ -7,5 +7,6 @@ favorables, l'espace médian et l'espace lointain peuvent être étendus dans la
 limite de 5 mètres. La plongée subaquatique autonome à l'air est limitée à 60
 mètres. Un dépassement accidentel de cette profondeur de 60 mètres est autorisé
 dans la limite de 5 mètres. En cas de réimmersion, tout plongeur en difficulté
-est accompagné d'un plongeur chargé de l'assister. L'annexe III-14 fixe les
-conditions d'évolution des plongeurs en fonction de leur niveau.
+est accompagné d'un plongeur chargé de l'assister. Les annexes III-16 a et
+III-16 b fixent les conditions d'évolution des plongeurs en fonction de leur
+niveau.

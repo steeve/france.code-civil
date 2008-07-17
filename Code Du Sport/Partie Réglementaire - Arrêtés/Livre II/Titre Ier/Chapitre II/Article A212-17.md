@@ -4,7 +4,7 @@ Lorsque la formation est organisée dans une spécialité pour une certification
 unités capitalisables, le dossier de candidature est déposé un mois avant
 l'entrée en formation auprès du directeur régional de la jeunesse, des sports et
 de la vie associative qui a habilité l'organisme de formation pour cette
-spécialité conformément aux articles A. 212-18 et A. 212-19. Le dossier comprend
+spécialité conformément aux articles A. 212-20 à A. 212-26. Le dossier comprend
 les pièces suivantes : 1° Une fiche d'inscription normalisée avec photographie ;
 2° Les copies de l'attestation de recensement et du certificat individuel de
 participation à l'appel de préparation à la défense pour les Français de moins

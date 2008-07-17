@@ -1,6 +1,6 @@
 Article A331-22
 ----
-Les disciplines mentionnées au deuxième alinéa de l'article R. 311-19 du code du
+Les disciplines mentionnées au deuxième alinéa de l'article R. 331-19 du code du
 sport sont regroupées dans quatre catégories correspondant aux annexes III-22 à
 III-25 : ― les manifestations de véhicules terrestres à moteur dans lesquelles
 la vitesse est l'un des éléments essentiels du classement, et qui ne sont pas

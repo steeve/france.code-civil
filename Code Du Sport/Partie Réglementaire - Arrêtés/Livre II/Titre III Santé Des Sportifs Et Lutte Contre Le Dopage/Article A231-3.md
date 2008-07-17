@@ -24,9 +24,9 @@ football américain ; ― plongeon de haut vol ; ― rugby à XV (uniquement pou
 postes de première ligne à partir de 16 ans) ; ― rugby à XIII (uniquement pour
 les postes de première ligne). Une information des sportifs est à prévoir lors
 de l'examen médical quant au risque de développer ou d'aggraver (si préexistant)
-: ― un canal cervical étroit lors de la pratique des disciplines citées au
-précédent alinéa ; ― des pathologies du rachis lombaire, notamment une lyse
-isthmique avec ou sans spondylolisthésis lors de la pratique de certaines
-disciplines. Les examens ci-dessus doivent être réalisés dans les six mois qui
-précèdent la première inscription sur la liste des sportifs de haut niveau ou
-sur la liste des sportifs Espoirs.
+: ― un canal cervical étroit lors de la pratique des disciplines citées au 7° ;
+― des pathologies du rachis lombaire, notamment une lyse isthmique avec ou sans
+spondylolisthésis lors de la pratique de certaines disciplines. Les examens
+ci-dessus doivent être réalisés dans les six mois qui précèdent la première
+inscription sur la liste des sportifs de haut niveau ou sur la liste des
+sportifs Espoirs.

@@ -20,7 +20,7 @@ national olympique et sportif français. 6° Un représentant de l'Association d
 maires de France désigné par cette association. 7° Un directeur de service
 municipal des sports. 8° Huit personnalités qualifiées désignées par le ministre
 de l'intérieur et la ministre de la jeunesse et des sports, choisies parmi les
-sportifs, les arbitres et juges sportifs, les présidents de clubs sportifs et
-les membres du milieu universitaire compétents dans le domaine du sport. Les
-membres mentionnés aux 1° et 2° peuvent se faire représenter sauf celui
-mentionné au d) du 2°.
+sportifs, les arbitres et juges sportifs, les présidents d'associations ou
+sociétés sportives et les membres du milieu universitaire compétents dans le
+domaine du sport. Les membres mentionnés aux 1° et 2° peuvent se faire
+représenter sauf celui mentionné au d) du 2°.

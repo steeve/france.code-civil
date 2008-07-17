@@ -1,10 +1,10 @@
-Article Annexe III-16 b
+Article Annexe III-16 a (art. A322-77)
 ----
-CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION
+CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT
 
 ESPACES D'ÉVOLUTION
 
-NIVEAUX de pratique des plongeurs
+NIVEAUX DE PRATIQUE des plongeurs
 
 COMPÉTENCE MINIMUM de l'encadrant de palanquée
 
@@ -15,67 +15,71 @@ Espace proche :
 0-6 mètres
 
 
+Baptême
+
+E1
+
+1
+
+
 Débutant
 
-P4
+E1
 
 4 + 1 P4 éventuellement
 
-Espace médian :
+Espace médian (*) :
 
 6-20 mètres
 
 
 Débutant en fin de formation
 
-P4
+E2
 
 4 + 1 P4 éventuellement
 
 
 Niveau P1
 
-P4
+E2
 
 4 + 1 P4 éventuellement
-
-
-Niveau P1
-
-En surface : E3 + P4 quand autonomie dans la zone des 10 mètres
-
-5 équipes
 
 
 Niveau P2
 
-Autonomie
+E2
 
-3
+4 + 1 P4 éventuellement
 
 Espace lointain (*) :
 
 20-40 mètres
 
 
+Niveau P1 en fin de formation
+
+E3
+
+2 + 1 P4 éventuellement
+
+
 Niveau P2
 
-P4
+E3
 
-4
+2 + 1 P4 éventuellement
 
-Au-delà de 40 mètres et dans la limite de 60 mètres (*)
+
+Au-delà de 40 mètres et dans la limite de 60 mètres
 
 Niveaux P3, P4 et P5
 
 
-Autonomie
+E4
 
-3
-
-E1, E2, E3 et E4 = niveaux d'encadrement.
-
-P1, P2, P3, P4 et P5 = niveaux de pratique.
+3 + 1 E4 éventuellement
 
 (*) Dans des conditions favorables, les espaces médian et lointain peuvent être
 étendus dans la limite de 5 mètres. La plongée est limitée à 60 mètres avec
