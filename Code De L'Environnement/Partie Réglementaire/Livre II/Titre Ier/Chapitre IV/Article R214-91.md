@@ -7,10 +7,9 @@ préfets des départements concernés. Dans ce dernier cas, le préfet du
 département où la plus grande partie de l'opération doit être réalisée coordonne
 l'enquête.
 
-Lorsque, pour l'application des dispositions des articles R. 435-34 à R. 435-39
-il y a lieu de procéder à une déclaration d'utilité publique, le dossier de
-l'enquête comporte un état des propriétés incluses dans l'emprise de l'opération
-indiquant, par propriétaire riverain, le montant des travaux et le taux des
-subventions prévues, le rappel de ses droits et obligations ainsi que les
-contreparties relatives à l'exercice du droit de pêche fixées par l'article L.
-435-5.
+Lorsque l'opération porte sur l'entretien d'un cours d'eau non domanial ou d'une
+section de celui-ci, le dossier de l'enquête publique rappelle les obligations
+des propriétaires riverains titulaires du droit de pêche fixées par les articles
+L. 432-1 et L. 433-3, reproduit les dispositions des articles L. 435-5 et R.
+435-34 à R. 435-39 et précise la part prise par les fonds publics dans le
+financement.
