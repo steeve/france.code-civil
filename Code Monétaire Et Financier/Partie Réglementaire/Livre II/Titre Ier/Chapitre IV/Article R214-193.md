@@ -4,7 +4,7 @@ Un organisme de placement collectif immobilier peut conclure des contrats
 constituant des instruments financiers à terme mentionnés à l'article L. 214-94
 répondant aux caractéristiques des dérivés de crédit définis par les conventions
 mentionnées à l'article L. 431-7, dans les conditions fixées aux articles R.
-214-190 et R. 214-192.
+214-190 et D. 214-192.
 
 Ces instruments financiers à terme permettent de transférer le risque de crédit
 lié à un instrument mentionné à l'article R. 214-1-1, indépendamment des autres

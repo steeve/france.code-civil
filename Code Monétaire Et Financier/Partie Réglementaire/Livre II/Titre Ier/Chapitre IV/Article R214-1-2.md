@@ -1,6 +1,6 @@
 Article R214-1-2
 ----
-I. - Les instruments financiers mentionnés aux a, b et d du 2° de l'article R.
+I.-Les instruments financiers mentionnés aux a, b et d du 2° de l'article R.
 214-1-1 satisfont aux conditions suivantes :
 
 1° La perte à laquelle leur détention expose l'organisme de placement collectif
@@ -35,15 +35,16 @@ Les instruments financiers mentionnés aux a, b, ou d du 2° de l'article R.
 actifs ou de caractéristiques de ceux-ci, que ces actifs relèvent ou non de
 l'article R. 214-1-1.
 
-II. - Sont assimilées à des instruments financiers mentionnés au a du 2° de
+II.-Sont assimilées à des instruments financiers mentionnés au a du 2° de
 l'article R. 214-1-1 les actions de sociétés relevant du titre II de
 l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
 d'investissement, ainsi que les parts ou actions de fonds d'investissement
-relevant d'un droit étranger et ne satisfaisant pas aux conditions prévues au
-deuxième alinéa de l'article L. 214-15 ou au premier alinéa de l'article L.
-214-20, dès lors que sont respectés les conditions mentionnées au I mais
-également, pour les fonds d'investissement relevant d'un droit étranger, les
-critères suivants :
+relevant d'un droit étranger et ne satisfaisant pas à l'obligation de rachat des
+parts ou actions à la demande des porteurs ou actionnaires, énoncée,
+respectivement, par le deuxième alinéa de l'article L. 214-15 ou le premier
+alinéa de l'article L. 214-20, dès lors que sont respectés les conditions
+mentionnées au I mais également, pour les fonds d'investissement relevant d'un
+droit étranger, les critères suivants :
 
 1° Ils sont soumis à des règles régissant le fonctionnement des organes
 délibérants de l'organisme, dans des conditions précisées par arrêté du ministre
@@ -58,7 +59,7 @@ de l'organisme, ladite entité est soumise à une réglementation nationale visa
 gérés par une entité soumise à une réglementation nationale visant à garantir la
 protection des investisseurs.
 
-III. - Les instruments financiers mentionnés au f du 2° de l'article R. 214-1-1
+III.-Les instruments financiers mentionnés au f du 2° de l'article R. 214-1-1
 sont des titres de créance qui satisfont aux trois conditions suivantes :
 
 1° Ils respectent au moins l'un des critères suivants :

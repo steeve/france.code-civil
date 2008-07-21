@@ -2,7 +2,7 @@ Article R532-15
 ----
 Avant d'assortir de conditions particulières une autorisation, de délivrer une
 autorisation de prise de participation ou de prise de contrôle, ou d'octroyer un
-agrément à une entreprise d'investissement qui est :
+agrément à une société de gestion de portefeuille qui est :
 
 1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit
 ou d'une entreprise d'investissement agréés dans un Etat membre ou partie à

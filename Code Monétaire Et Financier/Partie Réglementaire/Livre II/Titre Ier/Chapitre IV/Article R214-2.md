@@ -1,7 +1,7 @@
 Article R214-2
 ----
-I. - Les instruments financiers mentionnés aux a, b, d et f du 2° de l'article
-R. 214-1-1 éligibles à l'actif d'un organisme de placement collectif en valeurs
+I.-Les instruments financiers mentionnés aux a, b, d et f du 2° de l'article R.
+214-1-1 éligibles à l'actif d'un organisme de placement collectif en valeurs
 mobilières sont :
 
 1° Soit admis à la négociation sur un marché réglementé au sens de l'article L.
@@ -30,10 +30,11 @@ instruments financiers émis dès lors que leur admission à la négociation a �
 demandée. Toutefois, cette assimilation cesse de produire effet un an après
 l'émission, si, à cette date, l'admission à la négociation n'a pas été obtenue.
 
-II. - Sont assimilés à des actifs admis à la négociation sur un marché relevant
-du I les instruments mentionnés au f du 2° de l'article R. 214-1-1 dès lors
-qu'outre les conditions prévues au III de l'article R. 214-1-2 ils satisfont à
-celles qui suivent :
+II.-Sont assimilés à des actifs admis à la négociation sur un marché relevant du
+I les instruments mentionnés au f du 2° de l'article R. 214-1-1 respectant les
+conditions prévues au III de l'article R. 214-1-2 et les titres de créance
+négociables, dès lors que ces instruments ou titres respectent en outre les
+conditions suivantes :
 
 1° Préalablement à l'émission, l'émetteur rédige une documentation financière et
 il en assure la mise à jour régulière, notamment chaque fois qu'un fait nouveau
@@ -86,19 +87,18 @@ dont le siège est situé dans un Etat membre de la Communauté européenne ;
 d) Un émetteur garanti par un organisme mentionné au a ou par un établissement
 mentionné au c ;
 
-e) Une autre entité appartenant à une catégorie figurant sur une liste établie
-par l'Autorité des marchés financiers, soumise à des règles de protection des
-investisseurs équivalentes à celles prévues aux quatre alinéas précédents, et
-ayant le statut soit d'une société dont le capital augmenté des réserves s'élève
-au moins à 10 millions d'euros et présentant ses comptes annuels conformément à
-la directive 78/660/CEE du Conseil du 25 juillet 1978 concernant les comptes
-annuels de certaines formes de sociétés, transposée par les articles L. 123-12 à
-L. 123-24 du code de commerce, soit d'une entité se consacrant au financement
-d'un groupe au sens de la directive 83/349/CEE du Conseil du 13 juin 1983
-concernant les comptes consolidés, comportant au moins une société dont les
-titres sont admis aux négociations sur un marché réglementé au sens du I, soit
-d'une entité de titrisation bénéficiant d'une ligne de financement bancaire
-octroyée par un établissement mentionné au présent c.
+e) Une autre entité soumise à des règles de protection des investisseurs
+équivalentes à celles prévues aux quatre alinéas précédents, et ayant le statut
+soit d'une société dont le capital augmenté des réserves s'élève au moins à 10
+millions d'euros et présentant ses comptes annuels conformément à la directive
+78 / 660 / CEE du Conseil du 25 juillet 1978 concernant les comptes annuels de
+certaines formes de sociétés, transposée par les articles L. 123-12 à L. 123-24
+du code de commerce, soit d'une entité se consacrant au financement d'un groupe
+au sens de la directive 83 / 349 / CEE du Conseil du 13 juin 1983 concernant les
+comptes consolidés, comportant au moins une société dont les titres sont admis
+aux négociations sur un marché réglementé au sens du I, soit d'une entité de
+titrisation bénéficiant d'une ligne de financement bancaire octroyée par un
+établissement mentionné au présent c.
 
 Les instruments émis par la Banque centrale européenne ou la Banque centrale
 d'un Etat membre de la Communauté européenne ne sont pas soumis aux conditions

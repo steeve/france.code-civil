@@ -36,10 +36,27 @@ françaises et qu'un instrument d'échange d'informations et d'assistance mutuel
 a été mis en place dans le domaine de la gestion d'actifs pour le compte de
 tiers ;
 
-b) Parts ou actions de fonds d'investissement de droit étranger répondant aux
-critères mentionnés au 5° de l'article R. 214-5 et dont la composition est
-diversifiée selon des modalités équivalentes à celles prévues à l'article R.
-214-6.
+b) Parts ou actions d'organismes de placement collectifs en valeurs mobilières
+autres que ceux mentionnés au a et au 1° et parts ou actions de fonds
+d'investissement de droit étranger, respectant les conditions suivantes :
+
+i) Ils sont soumis à une surveillance équivalente à celle applicable aux
+organismes de placement collectif en valeurs mobilières bénéficiant d'une
+procédure de reconnaissance mutuelle des agréments au sens de la directive 85 /
+611 / CEE du Conseil du 20 décembre 1985 portant coordination des dispositions
+législatives, réglementaires et administratives concernant certains organismes
+de placement collectif en valeurs mobilières ;
+
+ii) La coopération entre l'Autorité des marchés financiers et l'autorité de
+surveillance de cet organisme ou de ce fonds est suffisamment garantie ;
+
+iii) Ils respectent des règles équivalentes à celles prévues au deuxième alinéa
+de l'article L. 214-6, au septième alinéa de l'article L. 214-4, au deuxième
+alinéa de l'article R. 214-13 et à l'article R. 214-16 ;
+
+iv) Leur activité fait l'objet de rapports semestriels et annuels permettant une
+évaluation de l'actif et du passif, des bénéfices et des opérations sur la
+période considérée.
 
 III.-Par dérogation à la limite de 5 % fixée au sixième alinéa de l'article L.
 214-4, un organisme de placement collectif en valeurs mobilières régi par le

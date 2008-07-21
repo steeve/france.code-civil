@@ -9,7 +9,7 @@ l'organisme.
 
 II. - L'exposition d'un organisme de placement collectif immobilier au risque de
 contrepartie sur un même cocontractant résultant des contrats d'instruments
-financiers à terme mentionnés aux articles R. 214-192 et R. 214-193 et des
+financiers à terme mentionnés aux articles D. 214-192 et R. 214-193 et des
 opérations d'acquisitions et de cession temporaires de titres mentionnés à
 l'article R. 214-195 ne doit pas excéder 10 % de son actif net.
 
