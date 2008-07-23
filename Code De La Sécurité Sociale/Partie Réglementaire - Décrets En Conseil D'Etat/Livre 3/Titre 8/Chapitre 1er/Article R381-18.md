@@ -17,3 +17,8 @@ atteignent vingt ans entre le 1er octobre et le 30 septembre de l'année
 suivante, peuvent solliciter leur immatriculation au moment de leur inscription
 dans l'établissement. Dans ce cas, le droit aux prestations est ouvert à compter
 de leur vingtième anniversaire.
+
+Lorsque la cotisation est payée en trois versements, suivant les modalités
+prévues au second alinéa de l'article R. 381-15 et au second alinéa de l'article
+R. 381-17, la date de paiement entraînant l'affiliation est celle du premier
+versement.
