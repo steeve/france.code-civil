@@ -1,18 +1,20 @@
 Article R435-34
 ----
-I. - Tout propriétaire riverain des eaux mentionnées à l'article L. 435-4 qui
-demande une subvention directe à une collectivité locale ou à un organisme
-public pour réaliser des travaux mentionnés à l'article L. 435-5 adresse une
-copie de sa demande au préfet.
+I.-Lorsque l'entretien de tout ou partie d'un cours d'eau non domanial est
+financé majoritairement par des fonds publics, la personne qui en est
+responsable en informe le préfet au plus tard deux mois avant le début des
+opérations.
 
-II. - La demande comporte :
+Les informations communiquées au préfet sont les nom et prénom du représentant
+de cette personne, la nature des opérations d'entretien, leur montant, la part
+des fonds publics dans leur financement, leur durée, la date prévue de leur
+réalisation et, le cas échéant, leur échelonnement ; un plan du cours d'eau ou
+de la section de cours d'eau objet des travaux y est joint.
 
-1° Le nom, ou la raison sociale, et l'adresse du propriétaire. Si la propriété
-est grevée d'usufruit, les noms et adresses du nu-propriétaire et de
-l'usufruitier ;
+Le préfet peut mettre en demeure la personne à laquelle incombe l'obligation de
+fournir ces informations dans un délai qu'il fixe.
 
-2° Les limites cadastrales de la propriété ;
-
-3° La nature, le montant et la durée des travaux envisagés ;
-
-4° Le montant de la subvention sollicitée.
+II.-Toutefois, lorsque les opérations d'entretien sont réalisées dans le cadre
+d'une opération déclarée d'intérêt général ou urgente sur le fondement de
+l'article L. 211-7, le dépôt du dossier d'enquête prévu par l'article R. 214-91
+dispense de la communication des informations posée par le I.
