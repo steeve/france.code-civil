@@ -1,14 +1,18 @@
 Article L774-2
 ----
 L'université de Nouvelle-Calédonie est administrée par un conseil
-d'administration, assisté d'un conseil scientifique.
+d'administration, assisté d'un conseil scientifique. La deuxième phrase du
+premier alinéa de l'article L. 719-1 n'est pas applicable aux représentants des
+enseignants-chercheurs et personnels assimilés.
 
 Le conseil d'administration exerce les compétences dévolues aux conseils
 institués par les articles L. 712-3 et L. 712-6. Il comprend au plus trente
 membres répartis dans les conditions fixées à l'article L. 712-3. Le
-haut-commissaire et le vice-recteur de Nouvelle-Calédonie assistent aux séances
-du conseil d'administration. Le représentant du ministre chargé de l'outre-mer
-peut y assister en tant que de besoin.
+vice-président étudiant prévu à l'article L. 712-6 est élu par le conseil
+d'administration en son sein. Le haut-commissaire et le vice-recteur de
+Nouvelle-Calédonie assistent aux séances du conseil d'administration. Le
+représentant du ministre chargé de l'outre-mer peut y assister en tant que de
+besoin.
 
 Le conseil scientifique, qui exerce les compétences prévues à l'article L.
 712-5, comprend de vingt à trente membres ainsi répartis :
@@ -17,7 +21,8 @@ Le conseil scientifique, qui exerce les compétences prévues à l'article L.
 attribué pour la moitié au moins aux professeurs et aux personnels qui sont
 habilités à diriger des recherches ;
 
-2° De 10 à 20 % de représentants des étudiants de troisième cycle ;
+2° De 10 à 20 % de représentants des doctorants inscrits en formation initiale
+ou continue ;
 
 3° De 20 à 30 % de personnalités extérieures.
 
