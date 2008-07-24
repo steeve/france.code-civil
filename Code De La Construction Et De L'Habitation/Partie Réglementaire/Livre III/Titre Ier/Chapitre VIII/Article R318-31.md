@@ -29,65 +29,65 @@ suivant :
 
 NOMBRE de personnes destinées à occuper le logement
 
-PARIS et communes limitrophes(en euros)
+PARIS et communes limitrophes (en euros)
 
-RESTE de l'Ile-de-France(en euros)
+RESTE de l'Ile-de-France (en euros)
 
-AUTRES régions(en euros)
+AUTRES régions (en euros)
 
 1 personne
 
-23 079
+23 553
 
-23 079
+23 553
 
-20 065
+20 477
 
 2 personnes
 
-34 491
+35 200
 
-34 491
+35 200
 
-26 794
+27 345
 
 3 personnes
 
-45 215
+46 144
 
-41 461
+42 314
 
-32 223
+32 885
 
 4 personnes
 
-53 984
+55 093
 
-49 663
+50 683
 
-38 899
+39 698
 
 5 personnes
 
-64 228
+65 548
 
-58 791
+60 000
 
-45 760
+46 701
 
 6 personnes
 
-72 274
+73 759
 
-66 158
+67 517
 
-51 570
+52 630
 
 
 Par personne supplémentaire
 
-8 053
+8 218
 
-7 371
+7 523
 
-5 753
+5 871
