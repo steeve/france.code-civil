@@ -9,9 +9,10 @@ personne publique et l'indication de la part que ce coût représente par rappor
 à la capacité de financement annuelle de la personne publique. Cette part est
 mesurée dans des conditions définies par décret.
 
-La personne publique informe les candidats non retenus du rejet de leur offre.
-Un délai d'au moins dix jours est respecté entre la date de notification de
-cette information et la date de signature du contrat.
+Dès qu'elle a choisi l'attributaire du contrat, la personne publique informe les
+candidats non retenus du rejet de leur offre. Un délai d'au moins dix jours est
+respecté entre la date de notification de cette information et la date de
+signature du contrat.
 
 Quand elle renonce à poursuivre la passation du contrat, la personne publique en
 informe les candidats.
@@ -27,3 +28,10 @@ Dans un délai de trente jours à compter de cette notification, la personne
 publique envoie pour publication un avis d'attribution au Journal officiel de
 l'Union européenne. Cet avis d'attribution est établi conformément au modèle
 établi par arrêté du ministre chargé de l'économie.
+
+Une fois signés, les contrats de partenariat et leurs annexes sont communiqués à
+l'autorité administrative dans des conditions fixées par décret. Les
+informations et documents communiqués ne sont utilisés qu'à des fins de
+recensement et d'analyse économique. Les mentions figurant dans ces contrats qui
+sont couvertes par le secret, notamment en matière industrielle et commerciale,
+ne peuvent être divulguées.

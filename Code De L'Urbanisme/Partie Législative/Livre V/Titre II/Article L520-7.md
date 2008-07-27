@@ -4,12 +4,12 @@ Sont exclus du champ d'application du présent titre :
 
 Les bureaux qui font partie d'un local principal d'habitation ;
 
-Les locaux affectés au service public et appartenant à l'Etat, aux collectivités
-territoriales, aux établissements publics ne présentant pas un caractère
-industriel ou commercial ainsi que ceux qui sont utilisés par des organismes de
-sécurité sociale ou d'allocations familiales et qui appartiennent à ces
-organismes ou à des sociétés civiles constituées exclusivement entre ces
-organismes ;
+Les locaux affectés au service public et appartenant ou destinés à appartenir à
+l'Etat, aux collectivités territoriales ou aux établissements publics ne
+présentant pas un caractère industriel et commercial ainsi que ceux utilisés par
+des organismes de sécurité sociale ou d'allocations familiales et appartenant ou
+destinés à appartenir à ces organismes ou à des sociétés civiles constituées
+exclusivement entre ces organismes ;
 
 Les garages ;
 

@@ -1,9 +1,9 @@
 Article L243-9
 ----
 Les contrats d'assurance souscrits par les personnes assujetties à l'obligation
-d'assurance de responsabilité en vertu du présent titre peuvent, pour des
-travaux de construction destinés à un usage autre que l'habitation, comporter
-des plafonds de garantie.
+d'assurance de responsabilité ou de dommages en vertu du présent titre peuvent,
+pour des travaux de construction destinés à un usage autre que l'habitation,
+comporter des plafonds de garantie.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les montants de
 garantie peuvent être plafonnés, en fonction notamment du montant des ouvrages,

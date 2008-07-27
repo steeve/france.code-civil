@@ -45,7 +45,10 @@ l'article L. 300-5 du code de l'urbanisme ;
 
 9° D'une annexe retraçant l'ensemble des engagements financiers de la
 collectivité territoriale ou de l'établissement public résultant des contrats de
-partenariat prévus à l'article L. 1414-1.
+partenariat prévus à l'article L. 1414-1 ;
+
+10° D'une annexe retraçant la dette liée à la part investissements des contrats
+de partenariat.
 
 Lorsqu'une décision modificative ou le budget supplémentaire a pour effet de
 modifier le contenu de l'une des annexes, celle-ci doit être à nouveau produite

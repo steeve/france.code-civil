@@ -1,17 +1,17 @@
 Article L1414-7
 ----
-Sur la base du programme fonctionnel qu'elle a établi, la personne publique
-engage un dialogue avec chacun des candidats, dont l'objet est de définir les
-moyens techniques et le montage juridique et financier les mieux à même de
-répondre à ses besoins.
+Sur la base du programme fonctionnel qu'elle a établi afin de déterminer ses
+besoins et ses objectifs, la personne publique engage un dialogue avec chacun
+des candidats, dont l'objet est de définir les moyens techniques et le montage
+juridique et financier les mieux à même de répondre à ses besoins.
 
 La personne publique peut discuter avec les candidats de tous les aspects du
 contrat.
 
-Chaque candidat est entendu dans des conditions de stricte égalité. La personne
-publique ne peut donner à certains candidats des informations susceptibles de
-les avantager par rapport à d'autres. Elle ne peut révéler aux autres candidats
-des solutions proposées ou des informations confidentielles communiquées par un
+Chaque candidat est entendu dans des conditions d'égalité. La personne publique
+ne peut donner à certains candidats des informations susceptibles de les
+avantager par rapport à d'autres. Elle ne peut révéler aux autres candidats des
+solutions proposées ou des informations confidentielles communiquées par un
 candidat dans le cadre de la discussion sans l'accord de celui-ci.
 
 La personne publique poursuit les discussions avec les candidats jusqu'à ce
@@ -38,11 +38,16 @@ réelle.
 
 Ces offres comprennent tous les éléments nécessaires à l'exécution du contrat.
 
-La personne publique peut demander des clarifications, des précisions ou des
-compléments concernant les offres déposées par les candidats ainsi que la
-confirmation de certains des engagements, notamment financiers, qui y figurent.
-Cependant, ces demandes ne peuvent avoir pour effet de modifier les éléments
-fondamentaux de l'offre ou des caractéristiques essentielles du contrat.
+La personne publique peut demander des clarifications, des précisions, des
+compléments ou des perfectionnements concernant les offres déposées par les
+candidats ainsi que la confirmation de certains des engagements, notamment
+financiers, qui y figurent. Cependant, ces demandes ne peuvent avoir pour effet
+de modifier les éléments fondamentaux de l'offre ou des caractéristiques
+essentielles du contrat dont la variation est susceptible de fausser la
+concurrence ou d'avoir un effet discriminatoire.
 
-Il peut être prévu qu'une prime sera allouée à tous les candidats ou à ceux dont
-les offres ont été les mieux classées.
+Il peut être prévu dans l'avis d'appel public à la concurrence ou le règlement
+de la consultation qu'une prime sera allouée à tous les candidats ou à ceux dont
+les offres ont été les mieux classées. Lorsque les demandes de la personne
+publique impliquent un investissement significatif pour les candidats ayant
+participé au dialogue compétitif, une prime doit leur être versée.

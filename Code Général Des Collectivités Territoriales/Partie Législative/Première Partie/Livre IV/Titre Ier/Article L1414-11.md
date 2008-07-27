@@ -6,7 +6,11 @@ contrat de partenariat, elle conduit la procédure de passation dans les
 conditions prévues par les articles L. 1414-2 à L. 1414-10.
 
 Dès lors qu'il ne se trouve dans aucun des cas d'exclusion mentionnés à
-l'article L. 1414-4 et que ses capacités techniques, professionnelles et
-financières sont suffisantes, l'auteur du projet est admis à participer au
+l'article L. 1414-4 et qu'il dispose des capacités techniques, professionnelles
+et financières appropriées, l'auteur du projet est admis à participer au
 dialogue prévu à l'article L. 1414-7 ou à la procédure prévue à l'article L.
 1414-8.
+
+La communication à la personne publique d'une idée innovante, qui serait suivie
+du lancement d'une procédure de contrat de partenariat, peut donner lieu au
+versement d'une prime forfaitaire.

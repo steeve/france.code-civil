@@ -11,7 +11,8 @@ janvier 1955 ;
 
 2° Les transmissions de jouissance de fonds de commerce ou de clientèles ou de
 biens immeubles ainsi que les quittances ou cessions d'une somme équivalente à
-trois années de loyers ou fermages non échus ;
+trois années de loyers ou fermages non échus, à l'exception des quittances ou
+cessions liées aux actes prévus à l'article 1048 ter ;
 
 3° Les actes constatant un apport en société, les actes de formation de
 groupements d'intérêt économique constitués conformément aux articles L251-1 à

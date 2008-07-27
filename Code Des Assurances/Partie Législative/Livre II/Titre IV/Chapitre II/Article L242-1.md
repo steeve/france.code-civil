@@ -11,10 +11,13 @@ fabricants et importateurs ou le contrôleur technique sur le fondement de
 l'article 1792 du code civil.
 
 Toutefois, l'obligation prévue au premier alinéa ci-dessus ne s'applique ni aux
-personnes morales de droit public ni aux personnes morales exerçant une activité
-dont l'importance dépasse les seuils mentionnés au dernier alinéa de l'article
-L. 111-6, lorsque ces personnes font réaliser pour leur compte des travaux de
-construction pour un usage autre que l'habitation.
+personnes morales de droit public, ni aux personnes morales assurant la maîtrise
+d'ouvrage dans le cadre d'un contrat de partenariat conclu en application de
+l'article 1er de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
+partenariat, ni aux personnes morales exerçant une activité dont l'importance
+dépasse les seuils mentionnés au dernier alinéa de l'article L. 111-6, lorsque
+ces personnes font réaliser pour leur compte des travaux de construction pour un
+usage autre que l'habitation.
 
 L'assureur a un délai maximal de soixante jours, courant à compter de la
 réception de la déclaration du sinistre, pour notifier à l'assuré sa décision
@@ -31,7 +34,7 @@ de quinze jours.
 Lorsque l'assureur ne respecte pas l'un des délais prévus aux deux alinéas
 ci-dessus ou propose une offre d'indemnité manifestement insuffisante, l'assuré
 peut, après l'avoir notifié à l'assureur, engager les dépenses nécessaires à la
-réparation des dommages. L'indemnité versée par l'assureur est alors majorée de
+réparation des dommages.L'indemnité versée par l'assureur est alors majorée de
 plein droit d'un intérêt égal au double du taux de l'intérêt légal.
 
 Dans les cas de difficultés exceptionnelles dues à la nature ou à l'importance

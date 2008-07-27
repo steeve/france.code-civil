@@ -1,22 +1,36 @@
 Article L1414-2
 ----
-Les contrats de partenariat ne peuvent être conclus que pour la réalisation de
-projets pour lesquels une évaluation, à laquelle la personne publique procède
-avant le lancement de la procédure de passation :
+I.-Les contrats de partenariat donnent lieu à une évaluation préalable précisant
+les motifs de caractère économique, financier, juridique et administratif qui
+conduisent la personne publique à engager la procédure de passation d'un tel
+contrat. Cette évaluation comporte une analyse comparative de différentes
+options, notamment en termes de coût global hors taxes, de partage des risques
+et de performance, ainsi qu'au regard des préoccupations de développement
+durable. Lorsqu'il s'agit de faire face à une situation imprévisible, cette
+évaluation peut être succincte. Cette évaluation est menée selon une
+méthodologie définie par le ministre chargé de l'économie.
 
-a) Montre ou bien que, compte tenu de la complexité du projet, la personne
-publique n'est pas objectivement en mesure de définir seule et à l'avance les
-moyens techniques pouvant répondre à ses besoins ou d'établir le montage
-financier ou juridique du projet, ou bien que le projet présente un caractère
-d'urgence ;
+Elle est présentée à l'assemblée délibérante de la collectivité territoriale ou
+à l'organe délibérant de l'établissement public, qui se prononce sur le principe
+du recours à un contrat de partenariat.
 
-b) Expose avec précision les motifs de caractère économique, financier,
-juridique et administratif, qui l'ont conduite, après une analyse comparative,
-notamment en termes de coût global, de performance et de partage des risques, de
-différentes options, à retenir le projet envisagé et à décider de lancer une
-procédure de passation d'un contrat de partenariat. En cas d'urgence, cet exposé
-peut être succinct.
+II.-Les contrats de partenariat ne peuvent être conclus que si, au regard de
+l'évaluation, il s'avère :
 
-L'évaluation mentionnée ci-dessus est présentée à l'assemblée délibérante de la
-collectivité territoriale ou à l'organe délibérant de l'établissement public,
-qui se prononce sur le principe du recours à un contrat de partenariat.
+1° Que, compte tenu de la complexité du projet, la personne publique n'est pas
+objectivement en mesure de définir seule et à l'avance les moyens techniques
+répondant à ses besoins ou d'établir le montage financier ou juridique du projet
+;
+
+2° Ou bien que le projet présente un caractère d'urgence, lorsqu'il s'agit de
+rattraper un retard préjudiciable à l'intérêt général affectant la réalisation
+d'équipements collectifs ou l'exercice d'une mission de service public, ou de
+faire face à une situation imprévisible ;
+
+3° Ou bien encore que, compte tenu soit des caractéristiques du projet, soit des
+exigences du service public dont la personne publique est chargée, soit des
+insuffisances et difficultés observées dans la réalisation de projets
+comparables, le recours à un tel contrat présente un bilan entre les avantages
+et les inconvénients plus favorable que ceux d'autres contrats de la commande
+publique. Le critère du paiement différé ne saurait à lui seul constituer un
+avantage.

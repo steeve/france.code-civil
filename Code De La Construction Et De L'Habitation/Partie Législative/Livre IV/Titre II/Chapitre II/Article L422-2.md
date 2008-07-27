@@ -24,7 +24,7 @@ opération programmée d'amélioration de l'habitat visée à l'article L. 303-1
 
 Elles ont également pour objet :
 
-- de réaliser pour leur compte ou pour le compte d'un tiers, avec l'accord de la
+-de réaliser pour leur compte ou pour le compte d'un tiers, avec l'accord de la
 ou des collectivités ou communautés intéressées, toutes les interventions
 foncières, les actions ou opérations d'aménagement prévues par le code de
 l'urbanisme et le code de la construction et de l'habitation, sans que les
@@ -40,7 +40,7 @@ habitants des quartiers classés en zones urbaines sensibles, définies au 3 de
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire ;
 
-- de réaliser ou acquérir et améliorer, en complément de leur activité locative,
+-de réaliser ou acquérir et améliorer, en complément de leur activité locative,
 en vue de leur vente à des personnes physiques à titre de résidences
 principales, des logements destinés à des personnes de ressources modestes et
 respectant des prix de vente maxima fixés par l'autorité administrative, soit
@@ -50,59 +50,59 @@ dans le cadre d'une action ou d'une opération d'aménagement ou de la mise en
 oeuvre des objectifs de renouvellement urbain et de mixité sociale prévus dans
 les contrats de ville ;
 
-- d'assister à titre de prestataire de services, dans des conditions définies
-par leurs statuts, des personnes physiques et des sociétés de construction
+-d'assister à titre de prestataire de services, dans des conditions définies par
+leurs statuts, des personnes physiques et des sociétés de construction
 constituées en application du titre Ier du livre II pour la réalisation et la
 gestion d'immeubles, à usage d'habitation ou à usage professionnel et
 d'habitation ou destinés à cet usage, en accession à la propriété ;
 
-- de souscrire ou acquérir des parts de sociétés civiles immobilières ayant pour
+-de souscrire ou acquérir des parts de sociétés civiles immobilières ayant pour
 objet la réalisation d'immeubles d'habitation ou à usage professionnel et
 d'habitation destinés à des accédants dont les ressources n'excèdent pas des
 plafonds fixés par l'autorité administrative, d'être syndic de copropriétés
 d'immeubles ainsi réalisés et d'exercer les fonctions d'administrateur de biens
 pour les mêmes immeubles ;
 
-- de construire, acquérir, réaliser des travaux, gérer des immeubles à usage
+-de construire, acquérir, réaliser des travaux, gérer des immeubles à usage
 d'habitation ou à usage professionnel et d'habitation en vue de leur
 location-accession ;
 
-- de réaliser, dans des conditions définies par leurs statuts, pour le compte
+-de réaliser, dans des conditions définies par leurs statuts, pour le compte
 d'associations ou d'organismes agréés dans le domaine du logement social, des
 prestations de services pour des opérations ou des actions de nature à favoriser
 l'insertion sociale des personnes et la mixité urbaine et sociale des villes et
 des quartiers ;
 
-- de réaliser pour le compte d'autres organismes d'habitations à loyer modéré
-des prestations de services pour des missions rentrant dans l'objet social et la
+-de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des
+prestations de services pour des missions rentrant dans l'objet social et la
 compétence territoriale desdits organismes et des organismes prestataires ;
 
-- d'acquérir et donner en location à des organismes agréés par arrêté du
+-d'acquérir et donner en location à des organismes agréés par arrêté du
 représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
 à l'hébergement temporaire de personnes en difficulté ;
 
-- d'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
+-d'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
 construits ou acquis soit par elles, soit par un autre organisme d'habitations à
 loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
 organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
 de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
 parts sont détenues à au moins 99 % par cette association ;
 
-- de vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
-et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
+-de vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2 et
+aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
 vente d'immeuble à construire prévu aux articles L. 261-1 et suivants ;
 
-- de construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à
+-de construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à
 des personnes physiques ou morales des résidences hôtelières à vocation sociale
 prévues à l'article L. 631-11.
 
 Elles peuvent, en outre :
 
-- intervenir, dans les conditions fixées par leur statut, comme prestataires de
+-intervenir, dans les conditions fixées par leur statut, comme prestataires de
 services des sociétés d'économie mixte pour la réalisation d'opérations
 d'aménagement, lorsqu'elles ont été agréées à cet effet ;
 
-- avec l'accord du maire de la commune d'implantation et du représentant de
+-avec l'accord du maire de la commune d'implantation et du représentant de
 l'Etat dans le département, gérer, en qualité d'administrateurs de biens, des
 logements situés dans des copropriétés connaissant des difficultés importantes
 de fonctionnement ou être syndics de ces copropriétés. Dans ces mêmes
@@ -113,14 +113,17 @@ selon les modalités précisées par décret en Conseil d'Etat qui peuvent déro
 aux règles applicables aux habitations à loyer modéré, acquérir des lots en vue
 de leur revente, y effectuer tous travaux et les louer provisoirement ;
 
-- réaliser des hébergements de loisirs à vocation sociale dans les conditions
+-réaliser des hébergements de loisirs à vocation sociale dans les conditions
 prévues à l'article L. 421-1 ;
 
-- réaliser des opérations de conception, réalisation, entretien ou maintenance
+-réaliser des opérations de conception, réalisation, entretien ou maintenance
 d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement
-public de santé ;
+public de santé. Elles peuvent à cet effet conclure des contrats de partenariat
+dans les conditions prévues par l'ordonnance n° 2004-559 du 17 juin 2004 sur les
+contrats de partenariat et des baux emphytéotiques conformément aux articles L.
+6148-2 à L. 6148-5-3 du code de la santé publique ;
 
-- réaliser des travaux, acquérir, construire et gérer des immeubles à usage
+-réaliser des travaux, acquérir, construire et gérer des immeubles à usage
 d'habitation au profit des fonctionnaires de la police et de la gendarmerie
 nationales, des services départementaux d'incendie et de secours ou des services
 pénitentiaires, ainsi que les locaux accessoires à ces immeubles et les locaux
