@@ -18,7 +18,7 @@ asine et de leurs croisements, gibiers ruminants d'élevage : 58 euros / t.
 
 5° Volailles, lapins, gibiers d'élevage non ruminants et ratites :
 
-7, 2 euros / t.
+6, 25 euros / t.
 
 2. Le poids de viande avec os des animaux abattus est déterminé dans les
 conditions prévues à l'article 111 quater LA de l'annexe III.
