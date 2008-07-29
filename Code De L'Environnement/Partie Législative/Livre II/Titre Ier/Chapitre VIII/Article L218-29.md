@@ -14,7 +14,7 @@ instance peut être étendue au ressort d'une ou plusieurs cours d'appel.
 
 Les dispositions du premier alinéa s'appliquent également lorsque les
 infractions mentionnées dans cet alinéa, à l'exception de celle visée à
-l'article L. 218-22 du code de l'environnement, sont commises dans la zone
+l'article L. 218-19 du code de l'environnement, sont commises dans la zone
 économique exclusive ou dans la zone de protection écologique.
 
 Toutefois, dans les affaires qui sont ou apparaissent d'une grande complexité,
@@ -22,6 +22,9 @@ le procureur de la République près le tribunal de grande instance mentionné a
 premier alinéa peut requérir le juge d'instruction, dans les conditions et selon
 les modalités prévues par les articles 706-110 et 706-111 de se dessaisir au
 profit du tribunal de grande instance de Paris.
+
+Le tribunal de grande instance de Paris peut également connaître des infractions
+qui sont ou apparaissent d'une grande complexité dès le stade de l'enquête.
 
 Cette compétence s'étend aux infractions connexes.
 
