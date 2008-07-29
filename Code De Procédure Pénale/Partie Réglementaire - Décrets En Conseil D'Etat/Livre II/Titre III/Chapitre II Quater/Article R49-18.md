@@ -22,3 +22,7 @@ En cas de décision de relaxe et s'il n'est pas fait application de l'article L.
 121-3 du code de la route, la juridiction ordonne le remboursement de la
 consignation au prévenu si celui-ci en fait la demande au comptable du Trésor
 public.
+
+Dans les cas prévus par les troisième et cinquième alinéas, un formulaire
+spécifique est alors adressé à la personne pour lui permettre d'être remboursée
+de sa consignation.

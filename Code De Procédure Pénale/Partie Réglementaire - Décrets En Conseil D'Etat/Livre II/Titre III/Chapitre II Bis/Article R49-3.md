@@ -5,8 +5,8 @@ prévues par l'article R. 49-2, le paiement est effectué soit par l'apposition
 sur la carte de paiement, dûment remplie, d'un timbre émis à cet effet par le
 ministre du budget, qui en établit le modèle et les modalités de délivrance,
 soit par l'envoi au comptable direct du Trésor d'un chèque joint à la carte de
-paiement, soit par l'utilisation de moyens de paiement à distance, selon des
-modalités fixées par arrêté du garde des sceaux, ministre de la justice, du
+paiement, soit par télépaiement automatisé ou par timbre dématérialisé, selon
+des modalités fixées par arrêté du garde des sceaux, ministre de la justice, du
 ministère chargé du budget, du ministre chargé de l'intérieur et du ministre de
 la défense.
 

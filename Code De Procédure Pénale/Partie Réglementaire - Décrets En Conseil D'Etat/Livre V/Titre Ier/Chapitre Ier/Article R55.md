@@ -21,12 +21,14 @@ préalable de culpabilité ;
 par l'article 707-2, indépendamment de la date d'exigibilité résultant de
 l'application des dispositions de l'article 131-25 du code pénal, qu'il s'agisse
 d'une décision contradictoire, d'une décision contradictoire à signifier ou
-d'une décision par défaut.
+d'une décision par défaut ;
+
+5° Aux amendes forfaitaires majorées.
 
 Elles ne sont pas applicables :
 
 1° Aux amendes de composition prévues par le 1° de l'article 41-2 ;
 
-2° Aux amendes forfaitaires prévues par les articles 529 et suivants ;
+2° Aux amendes forfaitaires minorées ou aux amendes forfaitaires non majorées ;
 
 3° Aux amendes douanières ou aux amendes fiscales.
