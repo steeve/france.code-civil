@@ -1,9 +1,11 @@
 Article R411-4
 ----
-Le périmètre des zones 30 est délimité par le maire, après consultation du
-président du conseil général pour les routes départementales. Sur les routes à
-grande circulation, le périmètre de ces zones est délimité par le préfet après
-consultation du maire et du président du conseil général s'il s'agit d'une route
-départementale ou président du conseil exécutif de Corse, s'il s'agit d'une
-route prévue à l'article L. 4424-30 du code général des collectivités
-territoriales.
+Le périmètre des zones 30 et leur aménagement sont fixés par arrêté pris par
+l'autorité détentrice du pouvoir de police de la circulation après consultation
+des autorités gestionnaires de la voirie concernée et, s'il s'agit d'une section
+de route à grande circulation, après avis conforme du préfet.
+
+Les règles de circulation définies à l'article R. 110-2 sont rendues applicables
+par arrêté de l'autorité détentrice du pouvoir de police constatant
+l'aménagement cohérent des zones et la mise en place de la signalisation
+correspondante.

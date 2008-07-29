@@ -10,3 +10,6 @@ de causer une gêne importante aux autres piétons.
 
 Les infirmes qui se déplacent dans une chaise roulante peuvent dans tous les cas
 circuler sur la chaussée.
+
+Dans une zone de rencontre, les piétons peuvent circuler sur la chaussée mais ne
+doivent pas gêner la circulation des véhicules en y stationnant.

@@ -4,4 +4,8 @@ Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par
 médecin, un biologiste, ou un étudiant en médecine autorisé à exercer à titre de
 remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé
 publique, requis à cet effet par un officier ou agent de police judiciaire qui
-leur fournit les matériels nécessaires au dépistage.
+leur fournit les matériels nécessaires au dépistage lorsqu'il s'agit d'un
+recueil urinaire.
+
+Ces épreuves sont effectuées par un officier ou agent de police judiciaire
+lorsqu'il s'agit d'un recueil salivaire.

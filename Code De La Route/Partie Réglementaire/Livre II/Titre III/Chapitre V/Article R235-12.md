@@ -18,3 +18,6 @@ pénale.
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage
 prévus par l'article R. 235-3 sont fixés par arrêté conjoint du ministre de la
 justice et du ministre chargé du budget.
+
+Les dispositions du présent article ne sont pas applicables aux recueils
+salivaires.

@@ -42,6 +42,6 @@ par une autorité étrangère et communiquées aux autorités françaises confor
 aux accords internationaux en vigueur ;
 
 10° Des décisions portant reconstitution partielle du nombre de points du permis
-de conduire en application du deuxième alinéa de l'article L. 223-6 ;
+de conduire en application du troisième alinéa de l'article L. 223-6 ;
 
 11° Des décisions rapportant les mesures précédentes.
