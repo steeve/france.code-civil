@@ -1,25 +1,21 @@
 Article R122
 ----
-Les traductions par écrit sont payées 11, 13 euros la page de texte français.
+Les traductions par écrit sont payées à la page de texte en français. Cette page
+compte 250 mots.
 
-Lorsque les interprètes traducteurs sont appelés devant le procureur de la
-République, les officiers de police judiciaire ou leurs auxiliaires, devant les
-juges d'instruction ou devant les juridictions répressives pour faire les
-traductions orales, il leur est alloué :
+Les traductions par oral sont payées à l'heure de présence dès que l'interprète
+est mis à disposition du procureur de la République, des officiers de police
+judiciaire ou de leurs auxiliaires, des juges d'instruction ou des juridictions
+répressives. Toute heure commencée est due dans sa totalité.
 
-1° Pour la première heure de présence, qui est toujours due en entier :
+Le tarif de la première heure de traduction est majoré.
 
-A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et
-du Val-de-Marne : 14,79 euros ;
+Le tarif de l'heure des traductions par oral fait l'objet de majorations quand
+ces dernières sont effectuées durant la nuit, le samedi et le dimanche et les
+jours fériés.
 
-Dans les autres départements : 13,26 euros ;
-
-2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 7,32
-ou 6,71 euros suivant la distinction ci-dessus.
-
-Les sommes fixées par le présent article sont majorées de 25 % lorsque la
-traduction porte sur une langue autre que l'anglais, l'allemand, l'espagnol ou
-l'italien.
+Un arrêté conjoint du ministre de la justice et du ministre chargé du budget
+fixe le tarif des traductions par oral et par écrit et de leurs majorations.
 
 Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour
 prévues aux articles R. 110 et R. 111.
