@@ -11,8 +11,8 @@ l'alinéa ci-dessus, le paiement est effectué soit par l'apposition d'un
 timbre-amende sur la carte de paiement dûment remplie et renvoyée au service
 verbalisateur dans les délais prévus par l'article 529-8, soit par l'envoi dans
 ces mêmes délais au comptable du Trésor d'un chèque joint à la carte de
-paiement, soit par l'utilisation de moyens de paiement à distance, selon des
-modalités fixées par arrêté du garde des sceaux, ministre de la justice, du
+paiement, soit par télépaiement automatisé ou par timbre dématérialisé, selon
+des modalités fixées par arrêté du garde des sceaux, ministre de la justice, du
 ministre chargé du budget, du ministre chargé de l'intérieur et du ministre de
 la défense.
 
