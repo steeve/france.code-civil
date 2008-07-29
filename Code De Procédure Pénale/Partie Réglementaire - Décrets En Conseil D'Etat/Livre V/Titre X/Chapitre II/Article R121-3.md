@@ -13,7 +13,9 @@ sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 2
 
 3° Pour une enquête sur la personnalité d'une personne mise en examen ainsi que
 sur sa situation matérielle, familiale ou sociale, menée en application du
-sixième alinéa de l'article 81 : IA. 3 ;
+sixième alinéa de l'article 81 ou pour l'enquête sur la personnalité de la
+victime ainsi que sur la nature et l'importance des préjudices subis par elle,
+menée en application de l'article 81-1 : IA. 3 ;
 
 4° Pour une mission de mise en oeuvre d'une des obligations du contrôle
 judiciaire énumérées au 6° ou au 17° de l'article 138 :
