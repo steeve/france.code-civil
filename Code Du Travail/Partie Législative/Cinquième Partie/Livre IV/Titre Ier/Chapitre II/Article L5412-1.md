@@ -1,36 +1,32 @@
 Article L5412-1
 ----
-Sont radiées de la liste des demandeurs d'emploi, dans des conditions
-déterminées par un décret en Conseil d'Etat pris après avis des organisations
-syndicales de salariés et des organisations d'employeurs, les personnes :
+Est radiée de la liste des demandeurs d'emploi, dans des conditions déterminées
+par un décret en Conseil d'Etat, la personne qui :
 
-1° Soit qui ne peuvent justifier de l'accomplissement d'actes positifs et
-répétés en vue de retrouver un emploi, de créer ou de reprendre une entreprise ;
+1° Soit ne peut justifier de l'accomplissement d'actes positifs et répétés en
+vue de retrouver un emploi, de créer ou de reprendre une entreprise ;
 
-2° Soit qui, sans motif légitime, refusent un emploi, quelle que soit la durée
-du contrat de travail offert, compatible avec leur spécialité ou leur formation,
-leurs possibilités de mobilité géographique compte tenu de leur situation
-personnelle et familiale et des aides à la mobilité qui leur sont proposées, et
-rétribué à un taux de salaire normalement pratiqué dans la profession et la
-région ;
+2° Soit, sans motif légitime, refuse à deux reprises une offre raisonnable
+d'emploi mentionnée à l'article L. 5411-6-2 ;
 
-3° Soit qui, sans motif légitime :
+3° Soit, sans motif légitime :
 
-a) Refusent de suivre une action de formation ou d'aide à la recherche d'emploi
-proposée par l'un des organismes mentionnés à l'article L. 5311-2 ;
+a) Refuse d'élaborer ou d'actualiser le projet personnalisé d'accès à l'emploi
+prévu à l'article L. 5411-6-1 ;
 
-b) Refusent de répondre à toute convocation des services et organismes
-mentionnés à l'article L. 5311-2 ou mandatés par ces services et organismes ;
+b) Refuse de suivre une action de formation ou d'aide à la recherche d'emploi
+proposée par l'un des services ou organismes mentionnés à l'article L. 5311-2 et
+s'inscrivant dans le cadre du projet personnalisé d'accès à l'emploi ;
 
-c) Refusent de se soumettre à une visite médicale auprès des services médicaux
-de main-d'oeuvre destinée à vérifier leur aptitude au travail ou à certains
-types d'emploi ;
+c) Refuse de répondre à toute convocation des services et organismes mentionnés
+à l'article L. 5311-2 ou mandatés par ces services et organismes ;
 
-d) Refusent une proposition de contrat d'apprentissage ou de contrat de
+d) Refuse de se soumettre à une visite médicale auprès des services médicaux de
+main-d'œuvre destinée à vérifier son aptitude au travail ou à certains types
+d'emploi ;
+
+e) Refuse une proposition de contrat d'apprentissage ou de contrat de
 professionnalisation ;
 
-e) Refusent une action d'insertion ou une offre de contrat aidé prévues aux
-chapitres II et IV du titre III du livre Ier de la présente partie ;
-
-4° Soit qui ont fait de fausses déclarations pour être ou demeurer inscrites sur
-cette liste.
+f) Refuse une action d'insertion ou une offre de contrat aidé prévues aux
+chapitres II et IV du titre III du livre Ier de la présente partie.
