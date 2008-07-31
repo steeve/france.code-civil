@@ -1,18 +1,18 @@
 Article L229-15
 ----
-I. - Les quotas d'émission de gaz à effet de serre délivrés aux exploitants
+I.-Les quotas d'émission de gaz à effet de serre délivrés aux exploitants
 d'installations autorisées à émettre ces gaz sont des biens meubles
 exclusivement matérialisés par une inscription au compte de leur détenteur dans
 le registre national mentionné à l'article L. 229-16. Ils sont négociables,
 transmissibles par virement de compte à compte et confèrent des droits
 identiques à leurs détenteurs. Ils peuvent être cédés dès leur délivrance sous
-réserve des dispositions du II de l'article L. 229-12 et de l'article L. 229-18.
+réserve des dispositions de l'article L. 229-18.
 
 Le transfert de propriété des quotas résulte de leur inscription, par le teneur
 du registre national, au compte du bénéficiaire à la date et dans les conditions
 définies par décret.
 
-II. - Les quotas d'émission peuvent être acquis, détenus et cédés par tout
+II.-Les quotas d'émission peuvent être acquis, détenus et cédés par tout
 exploitant d'une installation au titre de laquelle a été délivrée par un Etat
 membre de la Communauté européenne une autorisation d'émettre des gaz à effet de
 serre, par toute personne physique ressortissante d'un Etat membre de la
@@ -26,17 +26,8 @@ unies sur les changements climatiques et que ce pays ait ratifié ce protocole,
 les quotas peuvent être acquis, détenus et cédés par les personnes physiques
 ressortissantes de ce pays tiers et les personnes morales y ayant leur siège.
 
-III. - Les mêmes effets juridiques s'attachent sur le territoire national aux
+III.-Les mêmes effets juridiques s'attachent sur le territoire national aux
 quotas d'émission délivrés par les autorités françaises et à ceux délivrés par
 l'autorité compétente de tout Etat membre de la Communauté européenne ou de tout
 autre Etat partie à un accord de reconnaissance mutuelle conclu avec cette
 dernière.
-
-IV. - Lorsque l'Etat ne dispose plus, dans la réserve constituée en application
-du V de l'article L. 229-8, de quotas à allouer aux exploitants, ces derniers
-sont libérés des obligations fixées par la présente section, notamment
-l'obligation de restituer des quotas prévue à l'article L. 229-7. Il ne leur est
-pas alloué de quotas au titre du plan en cours. L'autorité compétente fixe à ces
-exploitants des prescriptions en application des dispositions du livre V du
-présent code dans les conditions prévues aux deuxième et troisième alinéas du I
-de l'article L. 229-12.

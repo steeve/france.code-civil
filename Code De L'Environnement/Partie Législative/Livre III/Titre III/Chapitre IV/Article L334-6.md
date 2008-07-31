@@ -1,6 +1,6 @@
 Article L334-6
 ----
-I. - Sans préjudice des compétences des officiers et agents de police judiciaire
+I.-Sans préjudice des compétences des officiers et agents de police judiciaire
 et des autres agents spécialement habilités, peuvent être recherchées et
 constatées dans le parc naturel marin par les agents de l'établissement public
 chargé des parcs naturels marins, commissionnés à cet effet par l'autorité
@@ -9,8 +9,8 @@ administrative et assermentés :
 1° Les infractions à la police des eaux et rades définies à l'article 63 du code
 disciplinaire et pénal de la marine marchande ;
 
-2° Les infractions à la police des rejets définies aux articles L. 218-10 à L.
-218-19, L. 218-22 et L. 218-73 du présent code ;
+2° Les infractions à la police des rejets définies aux articles L. 218-11 à L.
+218-19 et L. 218-73 du présent code ;
 
 3° Les infractions à la police de la signalisation maritime définies aux
 articles L. 341-1 et L. 341-2 du code des ports maritimes et aux dispositions
@@ -38,6 +38,6 @@ véhicules terrestres à moteur dans les espaces naturels ;
 9° Les infractions mentionnées à l'article L. 415-1 relatif à la protection de
 la faune et de la flore.
 
-II. - Les procès-verbaux dressés par ces agents font foi jusqu'à preuve
-contraire. Ils sont adressés aux autorités administratives ou judiciaires selon
-les procédures prévues pour les infractions constatées.
+II.-Les procès-verbaux dressés par ces agents font foi jusqu'à preuve contraire.
+Ils sont adressés aux autorités administratives ou judiciaires selon les
+procédures prévues pour les infractions constatées.

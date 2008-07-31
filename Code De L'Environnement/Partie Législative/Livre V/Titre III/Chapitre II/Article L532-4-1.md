@@ -11,7 +11,18 @@ intellectuelle.
 L'autorité administrative décide des informations qui sont tenues
 confidentielles et en informe l'exploitant.
 
-[Dispositions déclarées non conformes à la Constitution, à compter du 1er
-janvier 2009 par la décision du Conseil constitutionnel n° 2008-564 DC du 19
-juin 2008] La liste des informations qui ne peuvent en aucun cas rester
-confidentielles est fixée par décret en Conseil d'Etat (1).
+Ne peuvent être considérées comme confidentielles les informations suivantes
+transmises à l'appui de la demande d'agrément et portant sur :
+
+a) Les caractéristiques générales du ou des organismes génétiquement modifiés ;
+
+b) Le nom et l'adresse de l'exploitant ;
+
+c) Le lieu de l'utilisation confinée ;
+
+d) La classe de l'utilisation confinée ;
+
+e) Les mesures de confinement ;
+
+f) L'évaluation des effets prévisibles, notamment des effets nocifs pour la
+santé humaine et l'environnement.

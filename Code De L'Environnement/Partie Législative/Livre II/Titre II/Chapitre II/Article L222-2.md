@@ -18,8 +18,8 @@ proposition du président du conseil exécutif et après avis du représentant d
 l'Etat.
 
 Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est
-révisé, le cas échéant, si les objectifs de qualité de l'air n'ont pas été
-atteints.
+révisé, le cas échéant si les normes de qualité de l'air mentionnées à l'article
+L. 222-1 n'ont pas été respectées.
 
 Le plan est alors modifié en fonction des éléments objectifs du bilan
 quinquennal et de l'actualisation des données scientifiques et sanitaires.

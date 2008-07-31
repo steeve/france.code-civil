@@ -12,10 +12,20 @@ indiquer à l'autorité administrative les informations contenues dans sa demand
 dont la divulgation pourrait nuire à sa position concurrentielle et dont il
 justifie qu'elles soient reconnues confidentielles par celle-ci.
 
-[Dispositions déclarées non conformes à la Constitution, à compter du 1er
-janvier 2009 par la décision du Conseil constitutionnel n° 2008-564 DC du 19
-juin 2008] La liste des informations qui ne peuvent en aucun cas rester
-confidentielles est fixée par décret en Conseil d'Etat (1).
+Ne peuvent être considérées comme confidentielles les informations suivantes
+transmises à l'appui de la demande d'autorisation et portant sur :
+
+a) La description générale du ou des organismes génétiquement modifiés ;
+
+b) Le nom et l'adresse du demandeur ;
+
+c) Le but de la dissémination et le lieu où elle sera pratiquée ainsi que les
+utilisations prévues ;
+
+d) Les méthodes et les plans de surveillance du ou des organismes génétiquement
+modifiés et d'intervention en cas d'urgence ;
+
+e) L'évaluation des risques pour l'environnement et la santé publique.
 
 III.-Si le demandeur de l'autorisation retire sa demande, l'autorité
 administrative doit respecter le caractère confidentiel des informations

@@ -1,8 +1,10 @@
 Article L218-18
 ----
-Est puni des peines prévues à l'article L. 218-11 le fait, pour tout capitaine
-ou responsable à bord d'un navire français soumis aux dispositions de la
-convention mentionnée à l'article L. 218-10, de se rendre coupable d'infractions
-aux dispositions des règles 3, 4 et 5 de l'annexe V, relatives aux interdictions
-de rejets, au sens du 3 de l'article 2 de la convention, d'ordures, telles que
-définies au 1 de la règle 1 de ladite annexe.
+Les peines prévues à la présente sous-section sont applicables soit au
+propriétaire, soit à l'exploitant ou à leur représentant légal ou dirigeant de
+fait s'il s'agit d'une personne morale, soit à toute autre personne que le
+capitaine ou responsable à bord exerçant, en droit ou en fait, un pouvoir de
+contrôle ou de direction dans la gestion ou la marche du navire ou de la
+plate-forme, lorsque ce propriétaire, cet exploitant ou cette personne a été à
+l'origine d'un rejet effectué en infraction aux articles L. 218-11 à L. 218-17
+et L. 218-19 ou n'a pas pris les mesures nécessaires pour l'éviter.

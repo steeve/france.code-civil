@@ -1,6 +1,7 @@
 Article L414-5
 ----
-I. - Lorsqu'un programme ou projet de travaux, d'ouvrage ou d'aménagement
+I.-Lorsqu'un programme ou projet d'activités, de travaux, d'aménagements,
+d'ouvrages ou d'installations ou lorsqu'une manifestation ou une intervention
 entrant dans les prévisions de l'article L. 414-4 est réalisé sans évaluation
 préalable, sans l'accord requis ou en méconnaissance de l'accord délivré,
 l'autorité de l'Etat compétente met l'intéressé en demeure d'arrêter
@@ -10,7 +11,7 @@ dans son état antérieur.
 Sauf en cas d'urgence, l'intéressé est mis à même de présenter ses observations
 préalablement à la mise en demeure.
 
-II. - Si à l'expiration du délai qui lui a été imparti pour la remise en état du
+II.-Si à l'expiration du délai qui lui a été imparti pour la remise en état du
 site l'intéressé n'a pas obtempéré, l'autorité administrative peut :
 
 1° Ordonner à l'intéressé de consigner entre les mains d'un comptable public une
@@ -23,6 +24,6 @@ de même rang que celui prévu à l'article 1920 du code général des impôts ;
 2° Faire procéder d'office, aux frais de l'intéressé, à la remise en état du
 site.
 
-III. - Les sommes consignées en application du 1° du II peuvent être utilisées
+III.-Les sommes consignées en application du 1° du II peuvent être utilisées
 pour régler les dépenses entraînées par l'exécution d'office des mesures prévues
 au 2° du II.

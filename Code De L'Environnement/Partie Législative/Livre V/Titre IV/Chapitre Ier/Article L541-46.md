@@ -1,7 +1,7 @@
 Article L541-46
 ----
-I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait
-de :
+I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de
+:
 
 1° Refuser de fournir à l'administration les informations visées à l'article L.
 541-9 ou fournir des informations inexactes ;
@@ -43,23 +43,28 @@ déchets visés au premier alinéa de l'article L. 541-40 sans satisfaire aux
 prescriptions prises en vertu de cet article ou de ses textes d'application ;
 
 12° Méconnaître les obligations d'information prévues à l'article L. 325-3 du
-code des ports maritimes.
+code des ports maritimes ;
 
-II. - En cas de condamnation prononcée pour les infractions visées aux 4°, 6° et
+13° Ne pas respecter les prescriptions édictées en application de l'article 7 du
+règlement (CE) n° 850 / 2004 du Parlement européen et du Conseil, du 29 avril
+2004, concernant les polluants organiques persistants et modifiant la directive
+79 / 117 / CEE.
+
+II.-En cas de condamnation prononcée pour les infractions visées aux 4°, 6° et
 8° du I, le tribunal peut ordonner, sous astreinte, la remise en état des lieux
 endommagés par les déchets qui n'ont pas été traités dans les conditions
 conformes à la loi.
 
-III. - En cas de condamnation prononcée pour les infractions visées aux 7° et 8°
+III.-En cas de condamnation prononcée pour les infractions visées aux 7° et 8°
 du I, le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive
 de l'installation et interdire à son exploitant d'exercer l'activité
 d'éliminateur ou de récupérateur.
 
-IV. - En cas de condamnation prononcée pour les infractions visées aux 6°, 7°,
-8° et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus,
+IV.-En cas de condamnation prononcée pour les infractions visées aux 6°, 7°, 8°
+et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus,
 ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq
 ans.
 
-V. - Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou
-partielle de la décision prononcée dans les conditions prévues par l'article
-131-35 du code pénal.
+V.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle
+de la décision prononcée dans les conditions prévues par l'article 131-35 du
+code pénal.
