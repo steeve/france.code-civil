@@ -20,8 +20,9 @@ lorsque l'activité nouvelle du magasin est à prédominance alimentaire ;
 4° La création d'un ensemble commercial tel que défini à l'article L. 752-3 et
 dont la surface de vente totale est supérieure à 1 000 mètres carrés ;
 
-5° L'extension d'un ensemble commercial visé au 4°, réalisée en une ou plusieurs
-fois, de plus de 1 000 mètres carrés ;
+5° L'extension de la surface de vente d'un ensemble commercial ayant déjà
+atteint le seuil des 1 000 mètres carrés ou devant le dépasser par la
+réalisation du projet ;
 
 6° La réouverture au public, sur le même emplacement, d'un magasin de commerce
 de détail d'une surface de vente supérieure à 1 000 mètres carrés dont les

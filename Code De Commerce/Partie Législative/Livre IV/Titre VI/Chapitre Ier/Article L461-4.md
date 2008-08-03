@@ -11,7 +11,8 @@ Les rapporteurs généraux adjoints, les rapporteurs permanents ou non permanent
 et les enquêteurs des services d'instruction sont nommés par le rapporteur
 général, par décision publiée au Journal officiel.
 
-Un conseiller auditeur possédant la qualité de magistrat est nommé par arrêté du
+Un conseiller auditeur possédant la qualité de magistrat ou offrant des
+garanties d'indépendance et d'expertise équivalentes est nommé par arrêté du
 ministre chargé de l'économie après avis du collège. Il recueille, le cas
 échéant, les observations des parties mises en cause et saisissantes sur le
 déroulement des procédures les concernant dès l'envoi de la notification des

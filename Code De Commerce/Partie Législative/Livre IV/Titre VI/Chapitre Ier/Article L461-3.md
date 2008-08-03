@@ -12,7 +12,8 @@ En cas de partage égal des voix, la voix du président de la formation est
 prépondérante.
 
 Le président, ou un vice-président désigné par lui, peut adopter seul les
-décisions prévues aux articles L. 462-8 et L. 464-2 à L. 464-6 quand elles
-visent des faits dont l'Autorité de la concurrence a été saisie par le ministre
-en application du quatrième alinéa de l'article L. 464-9. Il peut faire de même
-s'agissant des décisions prévues à l'article L. 430-5.
+décisions prévues à l'article L. 462-8, ainsi que celles prévues aux articles L.
+464-2 à L. 464-6 quand elles visent des faits dont l'Autorité de la concurrence
+a été saisie par le ministre en application du quatrième alinéa de l'article L.
+464-9. Il peut faire de même s'agissant des décisions prévues à l'article L.
+430-5.
