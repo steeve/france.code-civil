@@ -136,7 +136,7 @@ consentis à titre définitif et sans contrepartie, soit par chèque, soit par
 virement, prélèvement automatique ou carte bancaire, et dont il est justifié à
 l'appui du compte de campagne présenté par un candidat ou une liste. Il en va de
 même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988
-modifiée relative à la transparence financière de la vie politique ainsi que des
+relative à la transparence financière de la vie politique ainsi que des
 cotisations versées aux partis et groupements politiques par l'intermédiaire de
 leur mandataire.
 
