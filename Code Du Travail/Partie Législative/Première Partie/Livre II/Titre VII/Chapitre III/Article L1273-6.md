@@ -1,4 +1,4 @@
 Article L1273-6
 ----
-Les modalités d'application du présent chapitre sont déterminées par décret en
-Conseil d'Etat.
+L'employeur ayant recours au " Titre Emploi-Service Entreprise " peut donner
+mandat à un tiers en vue d'accomplir les formalités correspondantes.

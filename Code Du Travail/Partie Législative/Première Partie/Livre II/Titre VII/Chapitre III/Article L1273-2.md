@@ -1,13 +1,13 @@
 Article L1273-2
 ----
-Le titre emploi-entreprise ne peut être utilisé qu'en France métropolitaine et
-par les seules entreprises, autres que celles relevant du régime des salariés
-agricoles :
+Le " Titre Emploi-Service Entreprise " ne peut être utilisé qu'en France
+métropolitaine et par les entreprises :
 
-1° Soit dont l'effectif n'excède pas un seuil fixé par décret, qui ne peut être
-supérieur à dix salariés ;
+1° Dont l'effectif n'excède pas neuf salariés, quelle que soit la durée annuelle
+d'emploi de ces salariés ;
 
-2° Soit, quel que soit leur effectif, qui emploient des salariés dont l'activité
-dans la même entreprise n'excède pas cent jours, consécutifs ou non, par année
-civile. Dans ce cas, le titre emploi-entreprise ne peut être utilisé qu'à
-l'égard de ces seuls salariés.
+2° Ou qui, quel que soit leur effectif, emploient des salariés dont l'activité
+dans la même entreprise n'excède pas la limite de cent jours, consécutifs ou
+non, ou de 700 heures de travail par année civile. Lorsque l'effectif de
+l'entreprise dépasse neuf salariés, le service " Titre Emploi-Service Entreprise
+" ne peut être utilisé qu'à l'égard de ces seuls salariés.

@@ -1,26 +1,33 @@
 Article L133-5-1
 ----
-Toute entreprise répondant aux conditions fixées aux articles L. 133-5-2 et L.
-133-5-3 peut adhérer à un service d'aide à l'accomplissement de ses obligations
-déclaratives en matière sociale proposé par des organismes agréés ou habilités
-par l'Etat. Ce service, dénommé "service emploi-entreprise", comprend soit
-l'accès à une procédure informatisée de déclaration, dénommée "déclaration
-unifiée de cotisations sociales individualisée", soit la fourniture d'un "titre
-emploi-entreprise".
+Toute association employant moins de dix salariés, qui ne peut ou ne souhaite
+recourir au service prévu à l'article L. 133-5, bénéficie d'un service d'aide à
+l'accomplissement de ses obligations déclaratives en matière sociale, dénommé
+"service emploi associations". Ce service est organisé par les unions de
+recouvrement des cotisations de sécurité sociale et d'allocations familiales,
+les caisses générales de sécurité sociale et les caisses de mutualité sociale
+agricole dans leurs champs respectifs de compétence ou par un tiers après
+signature d'une convention avec l'un de ces organismes. Les relations entre
+l'association employeur et le tiers sont régies par une convention qui peut
+prévoir une participation financière de l'association au fonctionnement du
+service, dans une limite fixée par décision de l'autorité administrative.
 
-Le recours à la "déclaration unifiée de cotisations sociales individualisée" ou
-au "titre emploi-entreprise" permet notamment à l'entreprise :
+Ce service permet à l'association :
 
-1° D'obtenir du "service emploi-entreprise" le calcul des rémunérations dues aux
-salariés en application du présent code et des conventions collectives ainsi que
-de l'ensemble des cotisations et contributions d'origine légale et des
-cotisations ou contributions conventionnelles rendues obligatoires par la loi ;
+1° De recevoir les documents ou modèles de documents nécessaires au respect des
+obligations qui lui incombent en application des articles L. 121-1, L. 122-3-1,
+L. 122-16, L. 143-3, L. 212-4-3 et L. 320 du code du travail ;
 
-2° D'effectuer, dans les conditions mentionnées à l'article L. 133-5, les
-déclarations obligatoires relatives aux cotisations et contributions sociales
-qui doivent être adressées aux organismes gérant les régimes mentionnés au code
-de la sécurité sociale et aux articles L. 223-16 et L. 351-21 du code du
-travail.
+2° D'obtenir le calcul des rémunérations dues aux salariés en application du
+présent code et des conventions collectives ainsi que de l'ensemble des
+cotisations et contributions d'origine légale et des cotisations et
+contributions conventionnelles rendues obligatoires par la loi ;
 
-Le "service emploi-entreprise" ne peut être utilisé par les entreprises relevant
-des dispositions de l'article L. 620-9 du code du travail.
+3° D'effectuer les déclarations obligatoires relatives aux cotisations et
+contributions sociales qui doivent être adressées aux organismes gérant les
+régimes mentionnés au présent code, au code rural et à l'article L. 351-21 du
+code du travail.
+
+Les cotisations et contributions sociales des associations ayant recours au
+"service emploi associations" sont réglées par virement ou par tout autre mode
+de paiement dématérialisé proposé par l'organisme de recouvrement.

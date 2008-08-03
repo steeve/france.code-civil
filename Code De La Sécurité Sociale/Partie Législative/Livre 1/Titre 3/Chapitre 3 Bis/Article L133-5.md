@@ -2,7 +2,7 @@ Article L133-5
 ----
 Les déclarations sociales que les entreprises et autres cotisants sont tenus
 d'adresser aux organismes gérant des régimes de protection sociale relevant du
-présent code et du code rural ou visés aux articles L. 223-16 et L. 351-21 du
+présent code et du code rural ou visés aux articles L. 3141-30 et L. 5427-1 du
 code du travail peuvent être faites par voie électronique soit directement
 auprès de chacun de ces organismes, soit auprès d'un organisme désigné par eux à
 cet effet et agréé ou, à défaut, désigné par l'Etat.
