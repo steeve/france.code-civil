@@ -12,7 +12,8 @@ L'exploitant d'une résidence hôtelière à vocation sociale est agréé par le
 représentant de l'Etat dans le département dans lequel la résidence est
 implantée. Cet exploitant s'engage à réserver au moins 30 % des logements de la
 résidence à des personnes mentionnées au II de l'article L. 301-1 du présent
-code, ces personnes étant désignées soit par le représentant de l'Etat dans le
+code qui ne nécessitent aucun accompagnement social ou médico-social sur site,
+ces personnes étant désignées soit par le représentant de l'Etat dans le
 département, soit par des collectivités territoriales, associations, organismes
 et personnes morales dont la liste est arrêtée par ce dernier.
 
