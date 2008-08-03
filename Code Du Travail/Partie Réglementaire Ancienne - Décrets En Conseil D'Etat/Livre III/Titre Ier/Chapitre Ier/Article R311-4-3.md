@@ -3,8 +3,8 @@ Article R311-4-3
 Le conseil d'administration est réuni au moins quatre fois par an, sur
 convocation de son président.
 
-L'ordre du jour de chaque réunion est arrêté par le président, après avis du
-directeur général de l'Agence nationale pour l'emploi.
+L'ordre du jour de chaque réunion est arrêté par le président, sur proposition
+du directeur général de l'Agence nationale pour l'emploi.
 
 Le président est tenu de convoquer le conseil si le ministre chargé de l'emploi,
 le directeur général de l'Agence nationale pour l'emploi ou la majorité des

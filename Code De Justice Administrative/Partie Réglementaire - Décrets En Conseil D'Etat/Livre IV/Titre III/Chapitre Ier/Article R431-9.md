@@ -1,9 +1,10 @@
 Article R431-9
 ----
-Sous réserve des dispositions de l'article R. 431-10 et des dispositions
-spéciales attribuant compétence à une autre autorité, les recours, les mémoires
-en défense et les mémoires en intervention présentés au nom de l'Etat sont
-signés par le ministre intéressé.
+Sous réserve des dispositions de l'article R. 431-10 du présent code, des
+dispositions des articles R. 5312-33 et R. 5312-34 du code du travail et des
+dispositions spéciales attribuant compétence à une autre autorité, les recours,
+les mémoires en défense et les mémoires en intervention présentés au nom de
+l'Etat sont signés par le ministre intéressé.
 
 Les ministres peuvent déléguer leur signature dans les conditions prévues par la
 réglementation en vigueur.

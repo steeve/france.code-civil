@@ -1,13 +1,27 @@
 Article R4113-107
 ----
-Lorsque le médecin, le chirurgien-dentiste ou la sage-femme suspendu en
-application de l'article L. 4113-14 a la qualité d'agent de droit public,
-l'autorité investie du pouvoir hiérarchique lui maintient, lorsqu'il est
-fonctionnaire, son traitement ainsi que l'indemnité de résidence, le supplément
-familial de traitement et les prestations familiales obligatoires et, lorsqu'il
-n'est pas fonctionnaire, ses émoluments mensuels.
+I. - Le conseil de l'ordre dispose, pour rendre son avis, d'un délai de deux
+mois pour les projets de conventions mentionnées au deuxième alinéa de l'article
+L. 4113-6 et d'un délai d'un mois pour les projets de conventions mentionnées au
+troisième alinéa de cet article. Ce délai court à compter de la date de l'accusé
+de réception du projet.
 
-Lorsque le médecin, le chirurgien-dentiste ou la sage-femme suspendu en
-application de l'article L. 4113-14 a la qualité de salarié soumis au code du
-travail, l'employeur lui maintient son salaire pendant la période de mise à pied
-conservatoire.
+Si l'entreprise sollicite l'examen du projet en urgence, le conseil de l'ordre,
+s'il estime la demande justifiée, se prononce dans un délai maximum de trois
+semaines à compter de la réception du projet.
+
+La notification par l'entreprise de modifications apportées aux listes des
+professionnels mentionnés aux 1° et 2° de l'article R. 4113-105 est sans
+incidence sur la computation des délais ci-dessus mentionnés.
+
+II. - Une convention conclue entre un ou plusieurs conseils nationaux des ordres
+intéressés et une ou plusieurs organisations représentatives des entreprises
+concernées peut, par dérogation aux dispositions du I du présent article, fixer
+des modalités simplifiées de déclaration pour les opérations les plus fréquentes
+répondant aux caractéristiques que cette convention précise. En ce cas, pour
+l'ensemble des dossiers et opérations répondant à ces caractéristiques,
+l'entreprise transmet une seule demande d'avis au conseil de l'ordre compétent.
+
+III. - Si le conseil de l'ordre émet un avis défavorable, son avis motivé est
+adressé à l'entreprise par tout moyen permettant d'en accuser réception.
+L'entreprise en informe dans les mêmes conditions les professionnels intéressés.

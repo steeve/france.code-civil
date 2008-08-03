@@ -1,7 +1,7 @@
 Article R311-3-5
 ----
-Le délégué départemental de l'Agence nationale pour l'emploi radie de la liste
-des demandeurs d'emploi les personnes qui :
+Le directeur délégué de l'Agence nationale pour l'emploi radie de la liste des
+demandeurs d'emploi les personnes qui :
 
 1° a) Ne peuvent justifier de l'accomplissement d'actes positifs et répétés de
 recherche d'emploi, au sens de l'article R. 311-3-4 ;

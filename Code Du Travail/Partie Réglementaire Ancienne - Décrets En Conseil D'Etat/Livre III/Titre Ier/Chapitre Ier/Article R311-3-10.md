@@ -9,8 +9,8 @@ situation au regard des conditions d'inscription ou de classement dans une
 catégorie cessent d'être inscrits sur la liste des demandeurs d'emploi ou sont
 transférés dans la catégorie correspondant à leur nouvelle situation.
 
-La décision motivée par laquelle le chef d'agence locale pour l'emploi constate
-la cessation d'inscription sur la liste des demandeurs d'emploi ou le changement
-de catégorie est notifiée à l'intéressé. Les personnes qui entendent la
-contester doivent former un recours préalable dans les conditions prévues à
+La décision motivée par laquelle le directeur d'agence locale pour l'emploi
+constate la cessation d'inscription sur la liste des demandeurs d'emploi ou le
+changement de catégorie est notifiée à l'intéressé. Les personnes qui entendent
+la contester doivent former un recours préalable dans les conditions prévues à
 l'article R. 311-3-9 ci-dessus.

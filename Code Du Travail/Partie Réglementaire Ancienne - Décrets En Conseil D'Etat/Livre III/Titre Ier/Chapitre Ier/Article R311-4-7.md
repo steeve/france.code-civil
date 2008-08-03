@@ -4,13 +4,13 @@ Le comité régional de l'Agence nationale pour l'emploi est réuni au moins qua
 fois par an sur convocation de son président.
 
 L'ordre du jour de chaque réunion est arrêté par le président, sur proposition
-du délégué régional de l'Agence nationale pour l'emploi.
+du directeur régional de l'Agence nationale pour l'emploi.
 
 Le président est tenu de convoquer le comité si le préfet de la région, le
-délégué régional ou la majorité des membres le demande sur un ordre du jour
+directeur régional ou la majorité des membres le demande sur un ordre du jour
 déterminé.
 
-A sa demande, le préfet de la région est entendu par le comité régional.
+A sa demande, le préfet de la région assiste aux séances du comité.
 
 Le comité régional ne peut valablement délibérer que si le nombre des membres
 présents est au moins égal à la moitié du nombre des membres en exercice. Si ce
@@ -20,7 +20,7 @@ présents.
 
 Le comité régional se prononce à la majorité des voix des membres présents.
 
-Le secrétariat du comité est assuré à la diligence du délégué régional.
+Le secrétariat du comité est assuré à la diligence du directeur régional.
 
 Les délibérations, signées par le président et le vice-président, sont
 transmises dans un délai de quinze jours au directeur général de l'Agence

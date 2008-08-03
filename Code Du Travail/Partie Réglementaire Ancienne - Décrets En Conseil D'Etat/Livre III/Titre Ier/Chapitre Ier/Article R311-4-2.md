@@ -1,7 +1,6 @@
 Article R311-4-2
 ----
-Le conseil d'administration de l'Agence nationale pour l'emploi comprend *ANPE,
-composition* :
+Le conseil d'administration de l'Agence nationale pour l'emploi comprend :
 
 1° Un président ;
 
@@ -11,17 +10,20 @@ ministre chargé de l'industrie, le ministre chargé des collectivités locales 
 
 3° Cinq membres représentant les employeurs ;
 
-4° Cinq membres représentant les salariés.
+4° Cinq membres représentant les salariés ;
+
+5° Trois représentants des collectivités territoriales désignés respectivement
+par l'Association des maires de France, l'Assemblée des départements de France
+et l'Association des régions de France.
 
 Le président est nommé par décret pris sur le rapport du ministre chargé de
-l'emploi. Les autres membres du conseil sont nommés par arrêté du ministre
-chargé de l'emploi.
+l'emploi. La limite d'âge qui lui est applicable est fixée à soixante-dix ans.
+Les autres membres du conseil sont nommés par arrêté du ministre chargé de
+l'emploi.
 
 Les représentants des employeurs et les représentants des salariés sont désignés
-par les organisations [*syndicales*] d'employeurs et de salariés les plus
-représentatives au plan national, le cas échéant, selon les modalités fixées par
-la convention prévue à l'article L. 311-8 passée entre l'Agence nationale pour
-l'emploi et les organismes mentionnés à l'article L. 351-21.
+par les organisations d'employeurs et de salariés les plus représentatives au
+plan national et interprofessionnel.
 
 Les représentants des administrations sont nommés sur proposition du ministre
 dont ils dépendent.
