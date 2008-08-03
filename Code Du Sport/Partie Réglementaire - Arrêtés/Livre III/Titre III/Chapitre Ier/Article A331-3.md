@@ -12,13 +12,15 @@ visée, avec avis favorable, par le chef de service de la jeunesse et des sports
 du département où est établi le siège de l'association requérante ; 2° Le
 règlement de l'épreuve ; 3° Un exemplaire signé de la police d'assurance ou, à
 défaut de celui-ci, l'engagement de souscrire un contrat conforme au modèle type
-prévu à l'annexe III-18. Dans cette hypothèse, l'exemplaire signé de la police
-devra être présenté par l'organisateur à l'autorité ayant délivré l'autorisation
-six jours francs au moins avant la date de l'épreuve ; 4° L'engagement de
-l'organisateur de prendre à sa charge les frais du service d'ordre exceptionnel
-mis en place à l'occasion du déroulement de l'épreuve et d'assurer la
-répartition des dommages, dégradations, modifications de toute nature de la voie
-publique ou de ses dépendances imputables aux concurrents, aux organisateurs ou
-à leurs préposés ; 5° Les documents (notes, cartes et plans) concernant
-l'itinéraire et l'horaire de l'épreuve établis conformément aux dispositions
-fixées pour chaque catégorie d'épreuve.
+prévu à l'annexe III-21-1.
+
+Dans cette hypothèse, l'exemplaire signé de la police devra être présenté par
+l'organisateur à l'autorité ayant délivré l'autorisation six jours francs au
+moins avant la date de l'épreuve ; 4° L'engagement de l'organisateur de prendre
+à sa charge les frais du service d'ordre exceptionnel mis en place à l'occasion
+du déroulement de l'épreuve et d'assurer la répartition des dommages,
+dégradations, modifications de toute nature de la voie publique ou de ses
+dépendances imputables aux concurrents, aux organisateurs ou à leurs préposés ;
+5° Les documents (notes, cartes et plans) concernant l'itinéraire et l'horaire
+de l'épreuve établis conformément aux dispositions fixées pour chaque catégorie
+d'épreuve.
