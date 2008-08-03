@@ -4,5 +4,7 @@ Le maire de la commune d'implantation membre de la commission départementale
 dont la décision fait l'objet du recours est entendu à sa demande par la
 commission nationale.
 
-Un commissaire du Gouvernement nommé par le ministre chargé du commerce assiste
-aux séances de la commission. Il rapporte les dossiers.
+Un commissaire du Gouvernement nommé par le ministre chargé du commerce ou par
+le ministre chargé de la culture lorsque la commission se prononce en matière
+d'aménagement cinématographique assiste aux séances de la commission. Il
+rapporte les dossiers.

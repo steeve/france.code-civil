@@ -11,11 +11,9 @@ zone naturelle.
 Dans les communes mentionnées au premier alinéa et à l'intérieur des zones à
 urbaniser ouvertes à l'urbanisation après l'entrée en vigueur de la loi n°
 2003-590 du 2 juillet 2003 urbanisme et habitat, il ne peut être délivré
-d'autorisation d'exploitation commerciale en application des l° à 6° et du 8° du
-I de l'article L. 720-5 du code de commerce ou d'autorisation de création des
-salles de spectacles cinématographiques en application du I de l'article 36-1 de
-la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de
-l'artisanat.
+d'autorisation d'exploitation commerciale en application de l'article L. 752-1
+du code de commerce ou l'autorisation prévue à l'article 30-2 du code de
+l'industrie cinématographique.
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec
 l'accord du préfet donné après avis de la commission départementale compétente

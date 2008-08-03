@@ -39,6 +39,9 @@ l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la
 création de dessertes en transports collectifs et à l'utilisation préalable de
 terrains situés en zone urbanisée et desservis par les équipements.
 
+Ils peuvent comprendre un document d'aménagement commercial défini dans les
+conditions prévues au II de l'article L. 752-1 du code de commerce.
+
 Lorsqu'ils comprennent une ou des communes littorales, ils peuvent comporter un
 chapitre individualisé valant schéma de mise en valeur de la mer tel que défini
 par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition
@@ -80,6 +83,5 @@ sauvegarde et de mise en valeur, les cartes communales, la délimitation des
 périmètres d'intervention prévus à l'article L. 143-1, les opérations foncières
 et les opérations d'aménagement définies par décret en Conseil d'Etat doivent
 être compatibles avec les schémas de cohérence territoriale et les schémas de
-secteur. Il en est de même pour les autorisations prévues par l'article L. 720-5
-du code de commerce et l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973
-d'orientation du commerce et de l'artisanat.
+secteur. Il en est de même pour les autorisations prévues par l'article L. 752-1
+du code de commerce et l'article 30-2 du code de l'industrie cinématographique.

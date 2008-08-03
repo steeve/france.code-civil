@@ -20,6 +20,10 @@ le renouvellement urbain et assurer le développement de la commune. Elles
 peuvent prendre la forme de schémas d'aménagement et préciser les principales
 caractéristiques des voies et espaces publics.
 
+Dans les cas visés au cinquième alinéa du II de l'article L. 752-1 du code de
+commerce, les plans locaux d'urbanisme peuvent comporter le document
+d'aménagement commercial défini à cet article.
+
 Les plans locaux d'urbanisme couvrent l'intégralité du territoire de la commune
 en cas d'élaboration par la commune ou, en cas d'élaboration par un
 établissement public de coopération intercommunale compétent, l'intégralité du
