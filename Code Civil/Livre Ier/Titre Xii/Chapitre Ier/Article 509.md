@@ -16,4 +16,7 @@ personne protégée ;
 ;
 
 4° Acheter les biens de la personne protégée ainsi que les prendre à bail ou à
-ferme, sous réserve des dispositions de l'article 508.
+ferme, sous réserve des dispositions de l'article 508 ;
+
+5° Transférer dans un patrimoine fiduciaire les biens ou droits d'un majeur
+protégé.
