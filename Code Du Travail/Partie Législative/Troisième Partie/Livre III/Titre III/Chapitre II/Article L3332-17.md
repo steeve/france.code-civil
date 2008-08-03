@@ -1,5 +1,10 @@
 Article L3332-17
 ----
+Le règlement du plan d'épargne d'entreprise prévoit qu'une partie des sommes
+recueillies peut être affectée à l'acquisition de parts de fonds investis, dans
+les limites prévues à l'article L. 214-39 du code monétaire et financier, dans
+les entreprises solidaires au sens de l'article L. 3332-17-1 du présent code.
+
 Le règlement du plan d'épargne d'entreprise ouvre à ses participants au moins
 une possibilité d'acquérir soit des titres émis par des sociétés
 d'investissement à capital variable mentionnés au 1° de l'article L. 3332-15,

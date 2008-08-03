@@ -13,8 +13,13 @@ désignant la France, telles qu'elles ont été déposées, qui ont une date de 
 antérieure à celle mentionnée au second alinéa du présent article et qui n'ont
 été publiées qu'à cette date ou qu'à une date postérieure.
 
-Les dispositions des alinéas précédents n'excluent pas la brevetabilité, pour la
-mise en oeuvre d'une des méthodes visées à l'article L. 611-16, d'une substance
-ou composition exposée dans l'état de la technique, à condition que son
-utilisation pour toute méthode visée audit article ne soit pas contenue dans
-l'état de la technique.
+Les deuxième et troisième alinéas n'excluent pas la brevetabilité d'une
+substance ou composition comprise dans l'état de la technique pour la mise en
+œuvre des méthodes visées à l'article L. 611-16, à condition que son utilisation
+pour l'une quelconque de ces méthodes ne soit pas comprise dans l'état de la
+technique.
+
+Les deuxième et troisième alinéas n'excluent pas non plus la brevetabilité d'une
+substance ou composition visée au quatrième alinéa pour toute utilisation
+spécifique dans toute méthode visée à l'article L. 611-16, à condition que cette
+utilisation ne soit pas comprise dans l'état de la technique.

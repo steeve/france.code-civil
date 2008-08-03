@@ -73,10 +73,10 @@ l'article 3 de la directive 98 / 49 / CE du Conseil du 29 juin 1998 relative à
 la sauvegarde des droits à pension complémentaire des travailleurs salariés et
 non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues
 par les conventions ou accords internationaux de sécurité sociale, auxquels les
-personnes désignées au I de l'article 81 B étaient affiliées ès qualités dans un
-autre Etat avant leur prise de fonctions en France. Les cotisations sont
-déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur
-prise de fonctions ;
+personnes désignées au I de l'article 81 B ou au 1 du I de l'article 81 C
+étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions
+en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième
+année suivant celle de leur prise de fonctions ;
 
 2° bis Les contributions versées par les salariés en application des
 dispositions de l'article L. 5422-9 du code du travail et destinées à financer
@@ -98,7 +98,7 @@ La société nouvelle doit être soumise à l'impôt sur les sociétés dans les
 conditions de droit commun, exercer une activité mentionnée aux articles 34 et
 92 et répondre aux conditions suivantes :
 
-a. A la clôture de l'exercice, le prix de revient des biens d'équipement
+a.A la clôture de l'exercice, le prix de revient des biens d'équipement
 amortissables selon le mode dégressif en application des dispositions du 1 de
 l'article 39 A doit représenter au moins les deux tiers du prix de revient total
 des immobilisations corporelles amortissables ; les entreprises qui ne

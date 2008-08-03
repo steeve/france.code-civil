@@ -99,9 +99,9 @@ du commerce ou au registre des métiers ;
 des barreaux français visée à l'article L. 723-1 à l'exception des risques
 invalidité-décès ;
 
-20°) Les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
-janvier 1993 portant diverses mesures d'ordre social, non immatriculés au
-registre du commerce ou au registre spécial des agents commerciaux ;
+20°) Les vendeurs à domicile visés à l'article L. 135-1 du code de commerce, non
+immatriculés au registre du commerce ou au registre spécial des agents
+commerciaux ;
 
 21°) Les personnes qui exercent à titre occasionnel pour le compte de l'Etat,
 d'une collectivité territoriale ou d'un de leurs établissements publics

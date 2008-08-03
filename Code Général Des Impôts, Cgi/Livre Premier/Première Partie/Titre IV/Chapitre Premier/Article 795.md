@@ -55,9 +55,13 @@ autres groupements régulièrement constitués, en tant qu'ils sont affectés, p
 la volonté expresse du donateur ou du testateur, à l'érection de monuments aux
 morts de la guerre ou à la gloire de nos armes et des armées alliées.
 
-12° Conformément à l'article L322-8 du code de l'environnement, les dons et legs
-d'immeubles situés dans les zones définies à l'article L322-1 du code précité,
-faits au profit du Conservatoire de l'espace littoral et des rivages lacustres.
+12° Conformément à l'article L. 322-8 du code de l'environnement, les dons et
+legs d'immeubles situés dans les zones définies à l'article L. 322-1 du code
+précité, faits au profit du Conservatoire de l'espace littoral et des rivages
+lacustres.
 
 13° Les dons et legs d'immeubles situés dans les coeurs des parcs nationaux,
 faits au profit de l'établissement public du parc national concerné.
+
+14° Les dons et legs consentis aux fonds de dotation répondant aux conditions
+fixées au g du 1 de l'article 200 du présent code.

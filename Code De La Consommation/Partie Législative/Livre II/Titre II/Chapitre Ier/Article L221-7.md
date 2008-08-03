@@ -19,4 +19,6 @@ ministres.
 
 Lorsqu'un produit ou service n'a pas été soumis au contrôle prescrit en
 application du présent article, il est réputé ne pas répondre aux exigences de
-l'article L. 221-1, sauf si la preuve contraire en est rapportée.
+l'article L. 221-1 et le ministre peut faire procéder d'office, en lieu et place
+des professionnels mentionnés au premier alinéa et à leurs frais, à la
+réalisation de ce contrôle.

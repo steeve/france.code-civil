@@ -28,16 +28,16 @@ logements acquis ou souscrits par elles ;
 caractère exceptionnel consentis pour des motifs d'ordre social à leurs salariés
 ;
 
-4. Aux fonds communs de placement à risque qui, dans les conditions prévues à
-l'article L. 214-36, consentent des avances en compte courant aux sociétés dans
-lesquelles ils détiennent une participation ;
+4. Abrogé ;
 
-5. Aux associations sans but lucratif faisant des prêts pour la création et le
-développement d'entreprises par des chômeurs ou titulaires des minima sociaux
-sur ressources propres et sur emprunts contractés auprès d'établissements de
-crédit ou des institutions ou services mentionnés à l'article L. 518-1,
-habilitées et contrôlées dans des conditions définies par décret en Conseil
-d'Etat ;
+5. Aux associations sans but lucratif et aux fondations reconnues d'utilité
+publique accordant sur ressources propres et sur emprunts contractés auprès
+d'établissements de crédit, ou d'institutions ou services mentionnés à l'article
+L. 518-1, des prêts pour la création et le développement d'entreprises dont
+l'effectif salarié n'excède pas un nombre fixé par décret ou pour la réalisation
+de projets d'insertion par des personnes physiques. Ces organismes sont
+habilités et contrôlés dans des conditions définies par décret en Conseil d'Etat
+;
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en
 vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à

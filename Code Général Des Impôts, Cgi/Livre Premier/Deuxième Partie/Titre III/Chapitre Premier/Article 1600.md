@@ -33,7 +33,7 @@ crédit mutuel ;
 9° Les caisses d'épargne et de prévoyance ;
 
 10° Les sociétés coopératives agricoles et unions de coopératives agricoles et
-les sociétés d'intérêt collectif agricole.
+les sociétés d'intérêt collectif agricole ;
 
 11° Les artisans pêcheurs et les sociétés de pêche artisanale visés aux 1° et 1°
 bis de l'article 1455.
@@ -42,7 +42,11 @@ La base d'imposition est réduite de moitié pour les artisans régulièrement
 inscrits au répertoire des métiers et qui restent portés sur la liste électorale
 de la chambre de commerce et d'industrie de leur circonscription.
 
-II. - Les chambres de commerce et d'industrie autres que les chambres régionales
+12° Les personnes physiques ayant une activité commerciale dispensée
+d'immatriculation au registre du commerce et des sociétés en application de
+l'article L. 123-1-1 du code de commerce.
+
+II.-Les chambres de commerce et d'industrie autres que les chambres régionales
 de commerce et d'industrie votent chaque année le taux de la taxe mentionnée au
 I. Ce taux ne peut excéder celui de l'année précédente.
 
@@ -69,7 +73,7 @@ taux dans les conditions prévues au présent alinéa, elle est administrée sel
 les dispositions de l'article L. 712-8 du code de commerce.
 
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie, le
-rôle comprend les redevables visés au I de tout le département. S'il y a dans le
+rôle comprend les redevables visés au I de tout le département.S'il y a dans le
 département plusieurs chambres de commerce et d'industrie, le rôle de chacune
 d'elles comprend les redevables de la taxe qui sont imposés dans sa
 circonscription.
@@ -77,9 +81,9 @@ circonscription.
 Un décret détermine les conditions d'application de la taxe prévue au présent
 article.
 
-III. - Abrogé.
+III.-Abrogé.
 
-IV. - 1. Une chambre de commerce et d'industrie créée par dissolution de deux ou
+IV.-1. Une chambre de commerce et d'industrie créée par dissolution de deux ou
 plusieurs chambres de commerce et d'industrie vote le taux de la taxe mentionnée
 au I à compter de l'année suivant celle de sa création.
 
@@ -142,7 +146,7 @@ Pour l'application du premier alinéa, le taux appliqué en 2004 est celui qui
 résulte des dispositions du 2 du IV dans sa rédaction en vigueur avant la
 publication de la loi de finances rectificative pour 2004 précitée.
 
-V. - En cas de création postérieurement au 1er octobre d'une chambre de commerce
+V.-En cas de création postérieurement au 1er octobre d'une chambre de commerce
 et d'industrie par dissolution de deux ou plusieurs chambres de commerce et
 d'industrie, les délibérations prises en application de l'article 1602 A par les
 chambres dissoutes sont applicables aux opérations réalisées l'année de la
@@ -151,4 +155,4 @@ création de la nouvelle chambre de commerce et d'industrie.
 Les exonérations applicables antérieurement à la création d'une nouvelle chambre
 de commerce et d'industrie sont maintenues pour la durée restant à courir.
 
-VI. - Abrogé.
+VI.-Abrogé.

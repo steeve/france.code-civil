@@ -1,25 +1,30 @@
 Article 206
 ----
-1. Sous réserve des dispositions des articles 8 ter,239 bis AA et 1655 ter, sont
-passibles de l'impôt sur les sociétés, quel que soit leur objet, les sociétés
-anonymes, les sociétés en commandite par actions, les sociétés à responsabilité
-limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans
-les conditions prévues au IV de l'article 3 du décret n° 55-594 du 20 mai 1955
-modifié, les sociétés coopératives et leurs unions ainsi que, sous réserve des
-dispositions des 6° et 6° bis du 1 de l'article 207, les établissements publics,
-les organismes de l'Etat jouissant de l'autonomie financière, les organismes des
-départements et des communes et toutes autres personnes morales se livrant à une
-exploitation ou à des opérations de caractère lucratif.
+1. Sous réserve des dispositions des articles 8 ter, 239 bis AA, 239 bis AB et
+1655 ter, sont passibles de l'impôt sur les sociétés, quel que soit leur objet,
+les sociétés anonymes, les sociétés en commandite par actions, les sociétés à
+responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de
+personnes dans les conditions prévues au IV de l'article 3 du décret n° 55-594
+du 20 mai 1955 modifié, les sociétés coopératives et leurs unions ainsi que,
+sous réserve des dispositions des 6° et 6° bis du 1 de l'article 207, les
+établissements publics, les organismes de l'Etat jouissant de l'autonomie
+financière, les organismes des départements et des communes et toutes autres
+personnes morales se livrant à une exploitation ou à des opérations de caractère
+lucratif.
 
 1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1
 les associations régies par la loi du 1er juillet 1901, les associations régies
 par la loi locale maintenue en vigueur dans les départements de la Moselle, du
 Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 2131-1 à L.
 2135-2 du code du travail, les fondations reconnues d'utilité publique, les
-fondations d'entreprise et les congrégations, dont la gestion est désintéressée,
-lorsque leurs activités non lucratives restent significativement prépondérantes
-et le montant de leurs recettes d'exploitation encaissées au cours de l'année
-civile au titre de leurs activités lucratives n'excède pas 60 000 euros.
+fondations d'entreprise , les fonds de dotation et les congrégations, dont la
+gestion est désintéressée, lorsque leurs activités non lucratives restent
+significativement prépondérantes et le montant de leurs recettes d'exploitation
+encaissées au cours de l'année civile au titre de leurs activités lucratives
+n'excède pas 60 000 euros. Sont réputées lucratives les activités de gestion et
+de capitalisation, par les fonds de dotation, de dons, droits et legs dont les
+fruits sont versés à des organismes autres que ceux mentionnés au présent alinéa
+ou à des organismes publics pour l'exercice d'activités lucratives.
 
 Les organismes mentionnés au premier alinéa deviennent passibles de l'impôt sur
 les sociétés prévu au 1 à compter du 1er janvier de l'année au cours de laquelle
@@ -35,13 +40,13 @@ formes visées au 1, si elles se livrent à une exploitation ou à des opératio
 visées aux articles 34 et 35.
 
 Toutefois, les sociétés civiles dont l'activité principale entre dans le champ
-d'application de l'article 63 peuvent bénéficier des dispositions de l'article
-75 lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant du
-forfait prévu aux articles 64 à 65 B ne sont pas passibles de l'impôt visé au 1
-lorsque les activités accessoires visées aux articles 34 et 35 qu'elles peuvent
-réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices résultant
-de ces activités sont alors déterminés et imposés d'après les règles qui leur
-sont propres.
+d'application de l'article 63 peuvent bénéficier des dispositions des articles
+75 et 75 A lorsqu'elles sont soumises à un régime réel d'imposition. Celles
+relevant du forfait prévu aux articles 64 à 65 B ne sont pas passibles de
+l'impôt visé au 1 lorsque les activités accessoires visées aux articles 34 et 35
+qu'elles peuvent réaliser n'excèdent pas les seuils fixés aux articles 75 et 75
+A : les bénéfices résultant de ces activités sont alors déterminés et imposés
+d'après les règles qui leur sont propres (1).
 
 3. Sont soumis à l'impôt sur les sociétés s'ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
@@ -81,8 +86,10 @@ n'ont pas été indiqués à l'administration.
 5. Sous réserve des exonérations prévues aux articles 1382 et 1394, les
 établissements publics, autres que les établissements scientifiques,
 d'enseignement et d'assistance, ainsi que les associations et collectivités non
-soumis à l'impôt sur les sociétés en vertu d'une autre disposition sont
-assujettis audit impôt en raison :
+soumis à l'impôt sur les sociétés en vertu d'une autre disposition, à
+l'exception, d'une part, des fondations reconnues d'utilité publique et, d'autre
+part, des fonds de dotation dont les statuts ne prévoient pas la possibilité de
+consommer leur dotation en capital, sont assujettis audit impôt en raison :
 
 a. De la location des immeubles bâtis et non bâtis dont ils sont propriétaires,
 et de ceux auxquels ils ont vocation en qualité de membres de sociétés

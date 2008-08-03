@@ -21,6 +21,6 @@ principe du renouvellement du bail précédent.
 
 L'acte extrajudiciaire notifiant le refus de renouvellement doit, à peine de
 nullité, indiquer que le locataire qui entend, soit contester le refus de
-renouvellement, soit demander le paiement d'une indemnité d'éviction, doit, à
-peine de forclusion, saisir le tribunal avant l'expiration d'un délai de deux
-ans à compter de la date à laquelle est signifié le refus de renouvellement.
+renouvellement, soit demander le paiement d'une indemnité d'éviction, doit
+saisir le tribunal avant l'expiration d'un délai de deux ans à compter de la
+date à laquelle est signifié le refus de renouvellement.

@@ -54,6 +54,10 @@ gestionnaire du réseau de distribution ;
 nécessité " pour l'électricité et au tarif spécial de solidarité pour le gaz
 naturel.
 
-Ces informations sont confirmées au consommateur par tout moyen préalablement à
-la conclusion du contrat. A sa demande, elles lui sont également communiquées
-par voie électronique ou postale.
+Ces informations sont mises à la disposition du consommateur par écrit ou sur
+support durable préalablement à la conclusion du contrat. Le consommateur n'est
+engagé que par sa signature.
+
+Toutefois, il peut être dérogé aux obligations visées à l'alinéa précédent
+lorsqu'un consommateur qui emménage dans un site a expressément demandé à
+bénéficier immédiatement de la fourniture d'énergie.

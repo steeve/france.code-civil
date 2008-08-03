@@ -6,4 +6,5 @@ se font au taux conventionnel défini au contrat principal et donnent lieu à
 l'établissement d'un nouvel état des versements périodiques et des intérêts
 accumulés sur ces sommes pour la durée prévisionnelle du prêt restant à courir.
 La part du capital et celle des intérêts doivent apparaître de manière
-distincte.
+distincte. Les modifications visant à accélérer les versements peuvent
+intervenir conformément aux stipulations contractuelles.

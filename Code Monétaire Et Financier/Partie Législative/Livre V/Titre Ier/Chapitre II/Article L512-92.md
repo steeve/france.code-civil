@@ -4,11 +4,11 @@ Les sociétés locales d'épargne sont des sociétés coopératives, soumises au
 dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
 coopération sous réserve des dispositions de la présente section.
 
-Elles contribuent à l'élaboration, dans le cadre des missions d'intérêt général
-qui leur sont confiées, des orientations générales de la caisse d'épargne et de
-prévoyance à laquelle elles sont affiliées. Elles ont également pour objet, dans
-le cadre de ces orientations générales, de favoriser la détention la plus large
-du capital de cette caisse d'épargne et de prévoyance en animant le sociétariat.
+Elles contribuent à l'élaboration des orientations générales de la caisse
+d'épargne et de prévoyance à laquelle elles sont affiliées. Elles ont également
+pour objet, dans le cadre de ces orientations générales, de favoriser la
+détention la plus large du capital de cette caisse d'épargne et de prévoyance en
+animant le sociétariat.
 
 Pour faciliter cette détention, les sociétés locales d'épargne sont habilitées à
 proposer aux sociétaires définis à l'article L. 512-93 une première part sociale

@@ -1,6 +1,6 @@
 Article L136-6
 ----
-I. - Les personnes physiques fiscalement domiciliées en France au sens de
+I.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont assujetties à une contribution sur
 les revenus du patrimoine assise sur le montant net retenu pour l'établissement
 de l'impôt sur le revenu, à l'exception de ceux ayant déjà supporté la
@@ -30,9 +30,9 @@ Pour la détermination de l'assiette de la contribution, il n'est pas fait
 application des abattements mentionnés au I de l'article 125-0 A, à l'article
 150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
 ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
-vue de l'acquisition et de la conservation du revenu .
+vue de l'acquisition et de la conservation du revenu.
 
-II. - Sont également assujettis à la contribution, dans les conditions et selon
+II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
 a) Les sommes soumises à l'impôt sur le revenu en application des articles 168,
@@ -47,14 +47,15 @@ b) Tous autres revenus dont l'imposition est attribuée à la France par une
 convention internationale relative aux doubles impositions et qui n'ont pas
 supporté la contribution prévue à l'article L. 136-1.
 
-II. bis. - Les personnes physiques fiscalement domiciliées en France au sens de
+II. bis.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont également assujetties à la
 contribution mentionnée au I à raison des plus-values exonérées d'impôt sur le
 revenu en application du 7 du III de l'article 150-0 A dudit code. Il en est de
 même pour les plus-values à long terme exonérées en application de l'article 151
-septies A du code général des impôts.
+septies A du code général des impôts ainsi que pour les revenus exonérés en
+application du II de l'article 81 C du même code.
 
-III. - La contribution portant sur les revenus mentionnés aux I et II ci-dessus
+III.-La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
 sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de
 cette contribution résultant de la mise en recouvrement du rôle primitif est

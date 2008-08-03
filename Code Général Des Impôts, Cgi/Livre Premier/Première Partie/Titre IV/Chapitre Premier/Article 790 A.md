@@ -1,11 +1,12 @@
 Article 790 A
 ----
-I. - Sont exonérées de droits de mutation à titre gratuit, sur option des
-donataires, les donations en pleine propriété de fonds artisanaux, de fonds de
-commerce, ou de clientèles d'une entreprise individuelle, de fonds agricoles ou
-de parts ou actions d'une société, à concurrence de la fraction de la valeur des
-titres représentative du fonds ou de la clientèle, si les conditions suivantes
-sont réunies :
+I.-Pour la liquidation des droits de mutation à titre gratuit, en cas de
+donation en pleine propriété de fonds artisanaux, de fonds de commerce, de fonds
+agricoles ou de clientèles d'une entreprise individuelle ou de parts ou actions
+d'une société, il est appliqué, sur option du donataire, un abattement de 300
+000 € sur la valeur du fonds ou de la clientèle ou sur la fraction de la valeur
+des titres représentative du fonds ou de la clientèle, si les conditions
+suivantes sont réunies :
 
 a) L'entreprise ou la société exerce une activité industrielle, commerciale,
 artisanale, agricole ou libérale ;
@@ -16,9 +17,7 @@ temps plein ou d'un contrat d'apprentissage en cours au jour de la transmission,
 conclu avec l'entreprise dont le fonds de commerce ou la clientèle est transmis
 ou avec la société dont les parts ou actions sont transmises ;
 
-c) La valeur du fonds ou de la clientèle objet de la donation ou appartenant à
-la société dont les parts ou actions sont transmises est inférieure à 300 000
-Euros ;
+c) Abrogé ;
 
 d) Lorsqu'ils ont été acquis à titre onéreux, le fonds ou la clientèle
 mentionnés ci-dessus doivent avoir été détenus depuis plus de deux ans par le
@@ -37,10 +36,13 @@ prévue au titre IV du livre VI du code de commerce dans les cinq années qui
 suivent la date de la transmission, il n'est pas procédé à la déchéance du
 régime de faveur prévu au premier alinéa.
 
-II. - Lorsque les donataires ont exercé l'option prévue au I, le bénéfice de ses
+II.-Lorsque les donataires ont exercé l'option prévue au I, le bénéfice de ses
 dispositions est exclusif de l'application de l'article 787 B sur la fraction de
 la valeur des parts représentative des biens autre que le fonds artisanal, le
 fonds de commerce, le fonds agricole ou la clientèle, et de l'article 787 C à
 raison de la donation à la même personne des biens autres que le fonds
 artisanal, le fonds de commerce, le fonds agricole ou la clientèle, affectés à
 l'exploitation de l'entreprise.
+
+III.-Le I ne peut s'appliquer qu'une seule fois entre un même donateur et un
+même donataire.

@@ -23,7 +23,10 @@ supporté la contribution instituée par l'article 14 de l'ordonnance n° 96-50 
 24 janvier 1996 ;
 
 4. Les plus-values exonérées d'impôt sur le revenu en application du 7 du III de
-l'article 150-0 A.
+l'article 150-0 A ;
+
+4 bis. Les revenus, produits et gains exonérés d'impôt sur le revenu en
+application du II de l'article 81 C ;
 
 5. Les plus-values à long terme exonérées d'impôt en application de l'article
 151 septies A.

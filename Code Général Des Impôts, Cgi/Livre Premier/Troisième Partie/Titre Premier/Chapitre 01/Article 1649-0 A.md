@@ -90,7 +90,10 @@ b) Des produits soumis à un prélèvement libératoire ;
 c) Des revenus exonérés d'impôt sur le revenu réalisés au cours de la même année
 en France ou hors de France, à l'exception des plus-values mentionnées aux II et
 III de l'article 150 U et des prestations mentionnées aux 2°, 2° bis, 9°, 9° ter
-et 33° bis de l'article 81.
+et 33° bis de l'article 81. Lorsqu'un contribuable précédemment domicilié à
+l'étranger transfère son domicile en France, les revenus réalisés hors de France
+et exonérés d'impôt sur le revenu ne sont pris en compte pour la détermination
+du droit à restitution que du jour de ce transfert.
 
 5. Le revenu mentionné au 4 est diminué :
 
@@ -101,7 +104,10 @@ b) Du montant des pensions alimentaires déduit en application du 2° du II de
 l'article 156 ;
 
 c) Des cotisations ou primes déduites en application de l'article 163
-quatervicies.
+quatervicies ;
+
+d) Des impositions équivalentes à celles mentionnées aux a, e et f du 2 lorsque
+celles-ci ont été payées à l'étranger.
 
 6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à
 L. 315-6 du code de la construction et de l'habitation, des plans d'épargne

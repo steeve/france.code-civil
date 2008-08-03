@@ -1,6 +1,6 @@
 Article L443-1
 ----
-A peine d'une amende de 75000 euros, le délai de paiement, par tout producteur,
+A peine d'une amende de 75 000 euros, le délai de paiement, par tout producteur,
 revendeur ou prestataire de services, ne peut être supérieur :
 
 1° A trente jours après la fin de la décade de livraison pour les achats de
@@ -22,7 +22,7 @@ code rural et rendus obligatoires par voie réglementaire à tous les opérateur
 sur l'ensemble du territoire métropolitain ou de décisions interprofessionnelles
 prises en application de la loi du 12 avril 1941 portant création d'un comité
 interprofessionnel du vin de Champagne pour ce qui concerne les délais de
-paiement, à soixante-quinze jours après le jour de livraison pour les achats de
-raisins et de moûts destinés à l'élaboration de vins ainsi que de boissons
-alcooliques passibles des droits de circulation prévus à l'article 438 du même
-code.
+paiement, à quarante-cinq jours fin de mois ou soixante jours à compter de la
+date d'émission de la facture pour les achats de raisins et de moûts destinés à
+l'élaboration de vins ainsi que de boissons alcooliques passibles des droits de
+circulation prévus à l'article 438 du même code.

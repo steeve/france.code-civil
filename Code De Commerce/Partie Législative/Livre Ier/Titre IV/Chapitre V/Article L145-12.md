@@ -9,7 +9,7 @@ applicables au cours du bail renouvelé.
 Le nouveau bail prend effet à compter de l'expiration du bail précédent, ou, le
 cas échéant, de sa reconduction, cette dernière date étant soit celle pour
 laquelle le congé a été donné, soit, si une demande de renouvellement a été
-faite, le terme d'usage qui suit cette demande.
+faite, le premier jour du trimestre civil qui suit cette demande.
 
 Toutefois, lorsque le bailleur a notifié, soit par un congé, soit par un refus
 de renouvellement, son intention de ne pas renouveler le bail, et si, par la

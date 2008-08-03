@@ -1,18 +1,18 @@
 Article 50-0
 ----
 1. Les entreprises dont le chiffre d'affaires annuel, ajusté s'il y a lieu au
-prorata du temps d'exploitation au cours de l'année civile, n'excède pas 76 300
-euros hors taxes s'il s'agit d'entreprises dont le commerce principal est de
+prorata du temps d'exploitation au cours de l'année civile, n'excède pas 80 000
+euros (1) hors taxes s'il s'agit d'entreprises dont le commerce principal est de
 vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place, ou de fournir le logement, ou 27 000 euros hors taxes s'il
-s'agit d'autres entreprises, sont soumises au régime défini au présent article
-pour l'imposition de leurs bénéfices.
+consommer sur place, ou de fournir le logement, ou 32 000 euros (1) hors taxes
+s'il s'agit d'autres entreprises, sont soumises au régime défini au présent
+article pour l'imposition de leurs bénéfices.
 
 Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
 premier alinéa, le régime défini au présent article n'est applicable que si son
-chiffre d'affaires hors taxes global annuel n'excède pas 76 300 euros et si le
-chiffre d'affaires hors taxes annuel afférent aux activités de la 2e catégorie
-ne dépasse pas 27 000 euros.
+chiffre d'affaires hors taxes global annuel n'excède pas 80 000 euros (1) et si
+le chiffre d'affaires hors taxes annuel afférent aux activités de la 2e
+catégorie ne dépasse pas 32 000 euros (1).
 
 Le résultat imposable, avant prise en compte des plus ou moins-values provenant
 de la cession des biens affectés à l'exploitation, est égal au montant du
@@ -30,10 +30,15 @@ tenir compte des amortissements pratiqués selon le mode linéaire.
 Sous réserve des dispositions du b du 2, ce régime demeure applicable pour
 l'établissement de l'imposition due au titre des deux premières années au cours
 desquelles les chiffres d'affaires mentionnés aux premier et deuxième alinéas
-sont dépassés (1).
+sont dépassés .
 
 Les dispositions du cinquième alinéa ne sont pas applicables en cas de
 changement d'activité.
+
+Les seuils mentionnés aux deux premiers alinéas sont actualisés chaque année
+dans la même proportion que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus proche
+(2).
 
 2. Sont exclus de ce régime :
 
@@ -42,7 +47,7 @@ chiffres d'affaires excède les limites mentionnées au premier alinéa du 1,
 appréciées, s'il y a lieu, dans les conditions prévues au deuxième alinéa de ce
 même 1 ;
 
-b. Les contribuables qui ne bénéficient pas des dispositions des I et II de
+b. Les contribuables qui ne bénéficient pas des dispositions du I (1) de
 l'article 293 B. Cette exclusion prend effet à compter du 1er janvier de l'année
 de leur assujettissement à la taxe sur la valeur ajoutée ;
 
@@ -87,7 +92,10 @@ suivant la période pour laquelle l'option a été exercée ou reconduite
 tacitement.
 
 5. Les entreprises qui n'ont pas exercé l'option visée au 4 doivent tenir et
-présenter, sur demande de l'administration, un registre récapitulé par année,
-présentant le détail de leurs achats et un livre-journal servi au jour le jour
-et présentant le détail de leurs recettes professionnelles, appuyés des factures
-et de toutes autres pièces justificatives.
+présenter, sur demande de l'administration, un livre-journal servi au jour le
+jour et présentant le détail de leurs recettes professionnelles, appuyé des
+factures et de toutes autres pièces justificatives. Elles doivent également,
+lorsque leur commerce principal est de vendre des marchandises, objets,
+fournitures et denrées à emporter ou à consommer sur place, ou de fournir le
+logement, tenir et présenter, sur demande de l'administration, un registre
+récapitulé par année, présentant le détail de leurs achats.

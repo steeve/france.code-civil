@@ -17,10 +17,10 @@ notification, soit, à défaut d'identification, par affichage en mairie et par
 publication, qu'ils ont l'obligation de réaliser les travaux de mise en valeur
 ou de présenter l'une des garanties de bonne gestion mentionnées à l'article L.
 101 du code forestier dans un délai maximum de douze mois après l'expiration du
-délai initial. A défaut, les terrains pourront être expropriés au profit de la
+délai initial.A défaut, les terrains pourront être expropriés au profit de la
 commune pour relever du régime forestier ou pour être apportés, par la commune,
 à un groupement forestier ou à une association syndicale de gestion forestière
-dans les conditions respectivement fixées à l'article L. 241-6 et au dernier
+dans les conditions respectivement fixées à l'article L. 241-6 et au septième
 alinéa de l'article L. 247-1 du code forestier. Les formes de l'expropriation,
 les règles d'évaluation de l'indemnité ainsi que les conditions et délais de
 paiement sont fixés conformément aux dispositions du code de l'expropriation

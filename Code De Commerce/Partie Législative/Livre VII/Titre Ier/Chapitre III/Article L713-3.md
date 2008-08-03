@@ -1,6 +1,6 @@
 Article L713-3
 ----
-I. - Les représentants mentionnés aux articles L. 713-1 et L. 713-2 doivent
+I.-Les représentants mentionnés aux articles L. 713-1 et L. 713-2 doivent
 exercer dans l'entreprise soit des fonctions de président-directeur général, de
 président ou de membre du conseil d'administration, de directeur général, de
 président ou de membre du directoire, de président du conseil de surveillance,
@@ -10,11 +10,10 @@ et pour les représenter à titre de mandataire, des fonctions impliquant des
 responsabilités de direction commerciale, technique ou administrative de
 l'entreprise ou de l'établissement.
 
-II. - Les électeurs à titre personnel mentionnés au 1° du II de l'article L.
-713-1 et les représentants des personnes physiques ou morales mentionnées au 2°
-du II du même article doivent être ressortissants d'un Etat membre de la
-Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
-européen.
+II.-Les électeurs à titre personnel mentionnés au 1° du II de l'article L. 713-1
+et les représentants des personnes physiques ou morales mentionnées au 2° du II
+du même article doivent être ressortissants d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
 
 Ils doivent, en outre, pour prendre part au vote :
 
@@ -32,8 +31,12 @@ et à la liquidation judiciaires des entreprises ou à la loi n° 67-563 du 13
 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
 personnelle et les banqueroutes ;
 
-4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité
-commerciale en application du chapitre VIII du titre II du livre Ier ;
+4° Ne pas être frappé d'une peine d'interdiction, suivant les modalités prévues
+par l'article 131-27 du code pénal, d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le
+compte d'autrui, une entreprise commerciale ou industrielle ou une société
+commerciale ;
 
 5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées
 en vertu de législations en vigueur dans les Etats membres de la Communauté

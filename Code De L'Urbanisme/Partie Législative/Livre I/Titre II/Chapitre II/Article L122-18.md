@@ -97,26 +97,6 @@ arrêté préfectoral, après avis de l'établissement public de coopération
 intercommunale ou du syndicat mixte chargé de l'élaboration du schéma directeur,
 s'il existe.
 
-Lorsque l'établissement public mentionné à l'article L. 122-4 a été constitué,
-avant l'entrée en vigueur de la loi n° 2003-590 du 2 juillet 2003 urbanisme et
-habitat, sous la forme d'un syndicat mixte comprenant d'autres personnes
-publiques que les communes et les établissements publics de coopération
-intercommunale compétents compris dans le périmètre du schéma de cohérence
-territoriale, ce syndicat reste compétent jusqu'à l'approbation du schéma de
-cohérence territoriale ou, lorsqu'il s'agit d'un schéma directeur, jusqu'à
-l'approbation de la révision de ce schéma mentionnée au deuxième alinéa. Les
-personnes publiques autres que les communes et les établissements publics de
-coopération intercommunale compétents compris dans le périmètre du schéma se
-retirent du syndicat mixte dans le délai de six mois à compter de l'approbation
-du schéma ou de sa révision. A l'issue de ce délai, le retrait est prononcé
-d'office par arrêté préfectoral. Le présent alinéa ne s'applique toutefois pas
-dans le cas prévu à l'article L. 122-4-1, ni lorsque le syndicat mixte exerce
-d'autres compétences que celles d'élaboration, de suivi et de révision du schéma
-de cohérence territoriale. Dans ce dernier cas, le syndicat mixte peut être
-maintenu à condition toutefois que seuls les communes et les établissements
-publics de coopération intercommunale qui adhèrent au syndicat mixte pour la
-compétence relative à ce schéma prennent part aux délibérations le concernant.
-
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée ou un schéma directeur approuvé dans le
 délai d'un an à compter de l'entrée en vigueur de ladite loi en application du

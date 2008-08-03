@@ -1,12 +1,13 @@
 Article L719-12
 ----
 Les établissements publics à caractère scientifique, culturel et professionnel
-peuvent créer en leur sein une ou plusieurs fondations universitaires, non
-dotées de la personnalité morale, résultant de l'affectation irrévocable à
-l'établissement intéressé de biens, droits ou ressources apportés par un ou
-plusieurs fondateurs pour la réalisation d'une ou plusieurs oeuvres ou activités
-d'intérêt général et à but non lucratif conformes aux missions du service public
-de l'enseignement supérieur visées à l'article L. 123-3.
+et les établissements publics de coopération scientifique peuvent créer en leur
+sein une ou plusieurs fondations universitaires, non dotées de la personnalité
+morale, résultant de l'affectation irrévocable à l'établissement intéressé de
+biens, droits ou ressources apportés par un ou plusieurs fondateurs pour la
+réalisation d'une ou plusieurs oeuvres ou activités d'intérêt général et à but
+non lucratif conformes aux missions du service public de l'enseignement
+supérieur visées à l'article L. 123-3.
 
 Ces fondations disposent de l'autonomie financière.
 

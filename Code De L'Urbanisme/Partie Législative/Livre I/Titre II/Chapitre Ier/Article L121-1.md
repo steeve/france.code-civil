@@ -15,8 +15,9 @@ réhabilitation suffisantes pour la satisfaction, sans discrimination, des
 besoins présents et futurs en matière d'habitat, d'activités économiques,
 notamment commerciales, d'activités sportives ou culturelles et d'intérêt
 général ainsi que d'équipements publics, en tenant compte en particulier de
-l'équilibre entre emploi et habitat ainsi que des moyens de transport et de la
-gestion des eaux ;
+l'équilibre entre emploi et habitat, de la diversité commerciale et de la
+préservation des commerces de détail et de proximité ainsi que des moyens de
+transport et de la gestion des eaux ;
 
 3° Une utilisation économe et équilibrée des espaces naturels, urbains,
 périurbains et ruraux, la maîtrise des besoins de déplacement et de la

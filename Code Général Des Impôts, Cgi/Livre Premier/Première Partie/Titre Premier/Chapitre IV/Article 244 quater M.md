@@ -10,8 +10,12 @@ code du travail.
 II.-Le crédit d'impôt est plafonné à la prise en compte de quarante heures de
 formation par année civile.
 
+II bis. - Pour le calcul du crédit d'impôt des groupements agricoles
+d'exploitation en commun, le plafond horaire mentionné au II est multiplié par
+le nombre d'associés chefs d'exploitation .
+
 III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
-articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
+articles 8, 238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
 articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne
 sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés
 proportionnellement à leurs droits dans ces sociétés ou ces groupements, à

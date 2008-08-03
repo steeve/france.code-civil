@@ -59,8 +59,8 @@ a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de
 l'article L. 621-9, l'avertissement, le blâme, l'interdiction à titre temporaire
 ou définitif de l'exercice de tout ou partie des services fournis ; la
 commission des sanctions peut prononcer soit à la place, soit en sus de ces
-sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 1,5
-million d'euros ou au décuple du montant des profits éventuellement réalisés ;
+sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 10
+millions d'euros ou au décuple du montant des profits éventuellement réalisés ;
 les sommes sont versées au fonds de garantie auquel est affiliée la personne
 sanctionnée ou, à défaut, au Trésor public ;
 
@@ -70,22 +70,27 @@ l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou
 définitif de la carte professionnelle, l'interdiction à titre temporaire ou
 définitif de l'exercice de tout ou partie des activités ; la commission des
 sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
-sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros
-ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
-mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits
-éventuellement réalisés dans les autres cas ; les sommes sont versées au fonds
-de garantie auquel est affiliée la personne morale sous l'autorité ou pour le
-compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
+sanction pécuniaire dont le montant ne peut être supérieur à 1, 5 million
+d'euros ou au décuple du montant des profits éventuellement réalisés en cas de
+pratiques mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des
+profits éventuellement réalisés dans les autres cas ; les sommes sont versées au
+fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour
+le compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
 
 c) Pour les personnes autres que l'une des personnes mentionnées au II de
 l'article L. 621-9, auteurs des faits mentionnés aux c et d du II, une sanction
-pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au
+pécuniaire dont le montant ne peut être supérieur à 10 millions d'euros ou au
 décuple du montant des profits éventuellement réalisés ; les sommes sont versées
 au Trésor public.
 
 Le montant de la sanction doit être fixé en fonction de la gravité des
 manquements commis et en relation avec les avantages ou les profits
 éventuellement tirés de ces manquements.
+
+Le fonds de garantie mentionné aux a et b peut, dans des conditions fixées par
+son règlement intérieur et dans la limite de 300 000 euros par an, affecter à
+des actions éducatives dans le domaine financier une partie du produit des
+sanctions pécuniaires prononcées par la commission des sanctions qu'il perçoit.
 
 III bis.-Dans les conditions fixées par décret en Conseil d'Etat, la récusation
 d'un membre de la commission des sanctions est prononcée à la demande de la

@@ -36,7 +36,10 @@ vendre des marchandises, objets, fournitures et denrées à emporter ou à
 consommer sur place, ou de fournir le logement, ou 54 000 euros hors taxes s'il
 s'agit d'autres entreprises.
 
-Ces montants sont calculés dans les conditions prévues au 1 de l'article 50-0.
+Ces seuils sont calculés dans les conditions prévues au 1 de l'article 50-0. Ils
+sont actualisés chaque année dans la même proportion que la limite supérieure de
+la première tranche du barème de l'impôt sur le revenu et arrondis au millier
+d'euros le plus proche.
 
 Ces entreprises sont dispensées de présenter leur bilan lors des vérifications
 de comptabilité.

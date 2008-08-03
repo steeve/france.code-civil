@@ -7,5 +7,5 @@ partie à l'accord sur l'Espace économique européen ou dans un Etat où sont
 applicables les accords prévus par l'article L. 632-16 sont tenues, nonobstant
 toutes dispositions contraires, de transmettre à des entreprises du même groupe
 les informations nécessaires à l'organisation de la lutte contre le blanchiment
-de capitaux et contre le financement du terrorisme. Les dispositions du
-quatrième alinéa de l'article L. 511-34 sont applicables à ces informations.
+de capitaux et contre le financement du terrorisme. Les dispositions du sixième
+alinéa de l'article L. 511-34 sont applicables à ces informations.

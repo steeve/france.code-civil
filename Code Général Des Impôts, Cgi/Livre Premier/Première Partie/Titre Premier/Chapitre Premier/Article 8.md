@@ -18,8 +18,8 @@ l'une des formes de sociétés visées à l'article 206 1 et qui, sous réserve 
 exceptions prévues à l'article 239 ter, ne se livrent pas à une exploitation ou
 à des opérations visées aux articles 34 et 35 ;
 
-2° Des membres des sociétés en participation - y compris les syndicats
-financiers - qui sont indéfiniment responsables et dont les noms et adresses ont
+2° Des membres des sociétés en participation-y compris les syndicats
+financiers-qui sont indéfiniment responsables et dont les noms et adresses ont
 été indiqués à l'administration ;
 
 3° Des membres des sociétés à responsabilité limitée qui ont opté pour le régime
@@ -31,4 +31,8 @@ bis AA.
 associé est une personne physique ;
 
 5° De l'associé unique ou des associés d'une exploitation agricole à
-responsabilité limitée.
+responsabilité limitée ;
+
+6° Des membres des sociétés anonymes, des sociétés par actions simplifiées et
+des sociétés à responsabilité limitée qui ont opté pour le régime fiscal des
+sociétés de personnes dans les conditions prévues par l'article 239 bis AB.

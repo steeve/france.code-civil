@@ -52,16 +52,16 @@ restructuration d'entreprises en difficulté ou relever des secteurs de la
 construction navale, de l'industrie houillère ou de la sidérurgie ;
 
 h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder le
-plafond fixé par décret. Ce plafond ne peut excéder 1,5 million d'euros par
+plafond fixé par décret. Ce plafond ne peut excéder 1, 5 million d'euros par
 période de douze mois.
 
-2. L'avantage fiscal prévu au 1 s'applique également aux souscriptions
-effectuées par des personnes physiques en indivision. Chaque membre de
-l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction
-de la part de sa souscription représentative de titres reçus en contrepartie de
-souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
+2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées
+par des personnes physiques en indivision. Chaque membre de l'indivision peut
+bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa
+souscription représentative de titres reçus en contrepartie de souscriptions au
+capital de sociétés vérifiant les conditions prévues au 1.
 
-3. L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
+3.L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
 numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
@@ -133,11 +133,11 @@ les conditions prévues au 1 du I. Le redevable peut également imputer sur
 l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au
 titre de souscriptions en numéraire aux parts de fonds communs de placement dans
 l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier et
-aux parts de fonds communs de placement à risques mentionnés à l'article L.
-214-36 du même code dont l'actif est constitué au moins à hauteur de 40 % de
-titres reçus en contrepartie de souscriptions au capital de sociétés exerçant
-leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
-les conditions prévues au 1 du I.
+aux parts de fonds communs de placement à risques mentionnés aux articles L.
+214-36 et L. 214-37 du même code dont l'actif est constitué au moins à hauteur
+de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés
+exerçant leur activité ou juridiquement constituées depuis moins de cinq ans,
+vérifiant les conditions prévues au 1 du I.
 
 L'avantage prévu au premier alinéa ne s'applique que lorsque les conditions
 suivantes sont satisfaites :
@@ -162,13 +162,13 @@ pourcentage initialement fixé de l'actif du fonds investi en titres reçus en
 contrepartie de souscriptions au capital de sociétés vérifiant les conditions
 prévues au 1 du I.
 
-2. L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le
+2.L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le
 redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus
-aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé
+aux 1, 2 et 3 du I au titre de la même année, sous réserve que le montant imputé
 sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas
 50 000 euros.
 
-3. L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
+3.L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
 cours de laquelle le fonds ou le redevable cesse de respecter les conditions
 prévues au 1.
 

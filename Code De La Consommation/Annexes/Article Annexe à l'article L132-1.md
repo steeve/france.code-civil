@@ -76,7 +76,11 @@ exclusivement une juridiction d'arbitrage non couverte par des dispositions
 légales ou à passer exclusivement par un mode alternatif de règlement des
 litiges, en limitant indûment les moyens de preuves à la disposition du
 consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du
-droit applicable, devrait revenir normalement à une autre partie au contrat.
+droit applicable, devrait revenir normalement à une autre partie au contrat ;
+
+r) De permettre à une banque ou un établissement financier de ne pas rendre
+effective immédiatement la dénonciation d'un compte joint par l'un des
+cotitulaires du compte.
 
 2. Portée des points g, j et l :
 

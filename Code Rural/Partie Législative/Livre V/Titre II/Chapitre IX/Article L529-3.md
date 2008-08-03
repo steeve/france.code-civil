@@ -10,8 +10,8 @@ réalisée par une entreprise qui n'est pas contrôlée au sens des dispositions
 l'article L. 233-3 du code de commerce, par la coopérative agricole ou l'union
 qu'il dirige ;
 
-2° Qui a fait l'objet d'une des condamnations visées au chapitre VIII du titre
-II du livre Ier du code de commerce.
+2° Qui s'est vu interdire l'exercice de la fonction d'administrateur, de gérant
+ou de directeur.
 
 Les dispositions qui précédent sont applicables aux membres des directoires des
 sociétés coopératives agricoles ou de leurs unions.

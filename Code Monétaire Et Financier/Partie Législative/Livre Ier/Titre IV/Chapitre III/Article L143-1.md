@@ -7,10 +7,9 @@ européen de banques centrales et les perspectives de celle-ci.
 
 Dans le respect des dispositions de l'article 108 du traité instituant la
 Communauté européenne et des règles de confidentialité de la Banque centrale
-européenne, le gouverneur de la Banque de France ou le comité monétaire du
-conseil général sont entendus par les commissions des finances des deux
-assemblées, à l'initiative de celles-ci, et peuvent demander à être entendus par
-elles.
+européenne, le gouverneur de la Banque de France est entendu par les commissions
+des finances des deux assemblées, à l'initiative de celles-ci, et peut demander
+à être entendu par elles.
 
 Les comptes de la Banque de France, ainsi que le rapport des commissaires aux
 comptes, sont transmis aux commissions des finances de l'Assemblée nationale et

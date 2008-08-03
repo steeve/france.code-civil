@@ -31,4 +31,4 @@ a. (Périmé).
 b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
 
 c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu
-par l'article 239 bis AA.
+par l'article 239 bis AA ou celui prévu par l'article 239 bis AB.

@@ -2,8 +2,8 @@ Article 102 ter
 ----
 1. Le bénéfice imposable des contribuables qui perçoivent des revenus non
 commerciaux d'un montant annuel, ajusté s'il y a lieu au prorata du temps
-d'activité au cours de l'année civile, n'excédant pas 27 000 euros hors taxes
-est égal au montant brut des recettes annuelles diminué d'une réfaction
+d'activité au cours de l'année civile, n'excédant pas 32 000 euros (1) hors
+taxes est égal au montant brut des recettes annuelles diminué d'une réfaction
 forfaitaire de 34 % avec un minimum de 305 euros.
 
 Les plus ou moins-values provenant de la cession des biens affectés à
@@ -13,13 +13,17 @@ des dispositions de l'article 151 septies. Pour l'application de la phrase
 précédente, la réfaction mentionnée au premier alinéa est réputée tenir compte
 des amortissements pratiqués selon le mode linéaire.
 
+Le seuil mentionné au premier alinéa est actualisé chaque année dans la même
+proportion que la limite supérieure de la première tranche du barème de l'impôt
+sur le revenu et arrondi à la centaine d'euros la plus proche (2).
+
 2. Les contribuables visés au 1 portent directement sur la déclaration prévue à
 l'article 170 le montant des recettes annuelles et des plus ou moins-values
 réalisées ou subies au cours de cette même année.
 
 3. Sous réserve des dispositions du 6, les dispositions prévues aux 1 et 2
 demeurent applicables pour l'établissement de l'imposition due au titre des deux
-premières années au cours desquelles la limite définie au 1 est dépassée (1).
+premières années au cours desquelles la limite définie au 1 est dépassée.
 
 Les dispositions du premier alinéa ne sont pas applicables en cas de changement
 d'activité.
@@ -51,6 +55,6 @@ a. Les contribuables qui exercent plusieurs activités dont le total des revenus
 abstraction faite des recettes des offices publics ou ministériels, excède la
 limite mentionnée au 1 ;
 
-b. Les contribuables qui ne bénéficient pas des dispositions des I et II de
+b. Les contribuables qui ne bénéficient pas des dispositions du I (1) de
 l'article 293 B. Cette exclusion prend effet à compter du 1er janvier de l'année
 de leur assujettissement à la taxe sur la valeur ajoutée.

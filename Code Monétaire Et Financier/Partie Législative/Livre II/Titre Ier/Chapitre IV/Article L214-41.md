@@ -1,6 +1,6 @@
 Article L214-41
 ----
-I. - Les fonds communs de placement dans l'innovation sont des fonds communs de
+I.-Les fonds communs de placement dans l'innovation sont des fonds communs de
 placement à risques dont l'actif est constitué, pour 60 % au moins, de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte
 courant, dont au moins 6 % dans des entreprises dont le capital est compris
@@ -17,10 +17,15 @@ directement ou indirectement, par une ou plusieurs personnes morales ayant des
 liens de dépendance avec une autre personne morale au sens du III et qui
 remplissent l'une des conditions suivantes ;
 
-a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées
-de recherche visées aux a à f du II de l'article 244 quater B du code général
-des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus
-élevé réalisé au cours de ces trois exercices ;
+a) Avoir réalisé, au cours de l'exercice précédent, des dépenses de recherche,
+définies aux a à g du II de l'article 244 quater B du code général des impôts,
+représentant au moins 15 % des charges fiscalement déductibles au titre de cet
+exercice ou, pour les entreprises industrielles, au moins 10 % de ces mêmes
+charges. Pour l'application du présent alinéa, ont un caractère industriel les
+entreprises exerçant une activité qui concourt directement à la fabrication de
+produits ou à la transformation de matières premières ou de produits semi-finis
+en produits fabriqués et pour lesquelles le rôle des installations techniques,
+matériels et outillage mis en œuvre est prépondérant ;
 
 b) Ou justifier de la création de produits, procédés ou techniques dont le
 caractère innovant et les perspectives de développement économique sont
@@ -33,17 +38,17 @@ mêmes conditions aux fonds communs de placement dans l'innovation sous réserve
 du respect du I bis du présent article et du quota d'investissement de 60 % qui
 leur est propre.
 
-I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au
-I les titres mentionnés au 3 de l'article L. 214-36 dans la limite, pour les
+I bis.-Sont également éligibles au quota d'investissement de 60 % mentionné au I
+les titres mentionnés au 3 de l'article L. 214-36 dans la limite, pour les
 titres qui sont admis aux négociations sur un marché réglementé, de 20 % de
 l'actif du fonds, sous réserve que la société émettrice réponde aux conditions
 prévues au I, à l'exception de celle tenant à la non-cotation.
 
-I ter. - Abrogé.
+I ter.-Abrogé.
 
-I quater. - Abrogé.
+I quater.-Abrogé.
 
-I quinquies. - 1. Sous réserve du respect de la limite de 20 % prévue au I bis,
+I quinquies.-1. Sous réserve du respect de la limite de 20 % prévue au I bis,
 sont également éligibles au quota d'investissement mentionné au I les titres de
 capital mentionnés aux 1 et 3 de l'article L. 214-36 émis par les sociétés qui
 remplissent les conditions suivantes :
@@ -79,7 +84,7 @@ relative à l'effectif prévue au premier alinéa du I pour la société mention
 au 1 et d'appréciation de la condition d'exclusivité de la détention des
 participations prévue au c de ce même 1.
 
-II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par
+II.-Les conditions relatives au nombre de salariés et à la reconnaissance, par
 un organisme chargé de soutenir l'innovation ou à raison de leurs dépenses
 cumulées de recherche, du caractère innovant de sociétés dont les titres
 figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient
@@ -90,11 +95,11 @@ quinquies de titres de filiales mentionnées au d de ce même I quinquies
 remettant en cause le seuil de détention de 75 %, les titres de cette société
 mère cessent d'être pris en compte dans le quota d'investissement de 60 %.
 
-III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre
-deux sociétés, ces liens sont réputés exister :
+III.-Pour l'appréciation, pour le I, des liens de dépendance existant entre deux
+sociétés, ces liens sont réputés exister :
 
-- lorsque l'une détient directement ou par personne interposée la majorité du
+-lorsque l'une détient directement ou par personne interposée la majorité du
 capital social de l'autre ou y exerce de fait le pouvoir de décision ;
 
-- ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions
-définies à l'alinéa précédent sous le contrôle d'une même tierce société.
+-ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions définies
+à l'alinéa précédent sous le contrôle d'une même tierce société.

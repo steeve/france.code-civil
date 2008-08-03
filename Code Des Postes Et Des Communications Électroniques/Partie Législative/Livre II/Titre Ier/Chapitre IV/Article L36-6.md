@@ -12,7 +12,8 @@ catégories de réseaux et de services, en application de l'article L. 33-1 ;
 2° Les prescriptions applicables aux conditions techniques et financières
 d'interconnexion et d'accès, conformément à l'article L. 34-8 et aux conditions
 techniques et financières de l'itinérance locale, conformément à l'article L.
-34-8-1 ;
+34-8-1 et aux conditions techniques et financières de l'accès, conformément à
+l'article L. 34-8-3 ;
 
 3° Les conditions d'utilisation des fréquences et bandes de fréquences
 mentionnées à l'article L. 42 ;

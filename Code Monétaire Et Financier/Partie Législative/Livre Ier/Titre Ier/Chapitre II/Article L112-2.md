@@ -8,7 +8,10 @@ de la convention ou avec l'activité de l'une des parties. Est réputée en
 relation directe avec l'objet d'une convention relative à un immeuble bâti toute
 clause prévoyant une indexation sur la variation de l'indice national du coût de
 la construction publié par l'Institut national des statistiques et des études
-économiques.
+économiques ou, pour des activités commerciales définies par décret, sur la
+variation de l'indice trimestriel des loyers commerciaux publié dans des
+conditions fixées par ce même décret par l'Institut national de la statistique
+et des études économiques.
 
 Les dispositions du précédent alinéa ne s'appliquent pas aux dispositions
 statutaires ou conventionnelles concernant des dettes d'aliments.

@@ -24,3 +24,10 @@ l'article L. 613-8.
 
 Un arrêté du ministre chargé de l'économie définit les conditions d'application
 du présent article.
+
+Au sein des établissements de crédit, les conditions d'information des organes
+de direction, d'administration et de surveillance concernant l'efficacité des
+systèmes de contrôle interne, d'audit interne et de gestion des risques et le
+suivi des incidents révélés notamment par ces systèmes sont fixées par arrêté du
+ministre chargé de l'économie. Cet arrêté prévoit les conditions dans lesquelles
+ces informations sont transmises à la Commission bancaire.

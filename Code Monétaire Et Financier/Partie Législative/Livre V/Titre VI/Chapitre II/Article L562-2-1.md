@@ -19,7 +19,9 @@ concernant :
 
 6° La constitution, la gestion ou la direction de fiducies régies par les
 articles 2011 à 2031 du code civil ou par un droit étranger ou de toute autre
-structure similaire.
+structure similaire ;
+
+7° La constitution ou la gestion de fonds de dotation.
 
 Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des
 activités relatives aux transactions visées ci-dessus et les experts-comptables

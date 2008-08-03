@@ -1,21 +1,21 @@
 Article 208 D
 ----
-I. - 1. Sont exonérées d'impôt sur les sociétés jusqu'au terme du dixième
-exercice suivant celui de leur création les sociétés par actions simplifiées à
-associé unique, dites "sociétés unipersonnelles d'investissement à risque",
-détenues par une personne physique, qui ont dès leur création pour objet social
-exclusif la souscription en numéraire au capital initial ou aux augmentations de
-capital de sociétés ayant leur siège dans un Etat de la Communauté européenne,
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
-conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion
-fiscale, dont les titres ne sont pas admis aux négociations sur un marché
-d'instruments financiers français ou étranger, dont le fonctionnement est assuré
-par une entreprise de marché ou un prestataire de services d'investissement ou
-tout autre organisme similaire étranger, qui exercent une activité mentionnée à
-l'article 34 et qui sont soumises à l'impôt sur les sociétés dans les conditions
-de droit commun au taux normal ou y seraient soumises dans les mêmes conditions
-si l'activité était exercée en France.
+I.-1. Sont exonérées d'impôt sur les sociétés jusqu'au terme du dixième exercice
+suivant celui de leur création les sociétés par actions simplifiées à associé
+unique, dites " sociétés unipersonnelles d'investissement à risque ", détenues
+par une personne physique, qui ont dès leur création pour objet social exclusif
+la souscription en numéraire au capital initial ou aux augmentations de capital
+de sociétés ayant leur siège dans un Etat de la Communauté européenne, ou dans
+un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention fiscale qui contient une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale, dont les
+titres ne sont pas admis aux négociations sur un marché d'instruments financiers
+français ou étranger, dont le fonctionnement est assuré par une entreprise de
+marché ou un prestataire de services d'investissement ou tout autre organisme
+similaire étranger, qui exercent une activité mentionnée à l'article 34 et qui
+sont soumises à l'impôt sur les sociétés dans les conditions de droit commun au
+taux normal ou y seraient soumises dans les mêmes conditions si l'activité était
+exercée en France.
 
 Les sociétés unipersonnelles d'investissement à risque doivent détenir au plus
 30 % des droits financiers et des droits de vote des sociétés dans lesquelles
@@ -36,8 +36,8 @@ prononçant sa liquidation judiciaire ;
 c. Elles sont détenues majoritairement par des personnes physiques ou par des
 personnes morales détenues majoritairement par des personnes physiques.
 
-3. L'associé d'une société unipersonnelle d'investissement à risque, son
-conjoint et leurs ascendants et descendants détiennent ensemble, directement ou
+3.L'associé d'une société unipersonnelle d'investissement à risque, son conjoint
+et leurs ascendants et descendants détiennent ensemble, directement ou
 indirectement, au plus 30 % des droits financiers et des droits de vote des
 sociétés dont les titres figurent à l'actif de la société et n'ont pas atteint
 ce niveau de détention depuis leur création. Ils n'exercent dans ces sociétés
@@ -49,8 +49,8 @@ actif brut comptable, des avances en compte courant aux sociétés dans lesquell
 elles ont investi. Elles peuvent également détenir d'autres éléments d'actifs
 dans la limite de 5 % de leur actif brut comptable.
 
-II. - Le non-respect de l'une des conditions mentionnées au I entraîne la perte
-de l'exonération prévue au même I, pour l'exercice en cours et les exercices
+II.-Le non-respect de l'une des conditions mentionnées au I entraîne la perte de
+l'exonération prévue au même I, pour l'exercice en cours et les exercices
 suivants.
 
 Toutefois, l'exonération d'impôt sur les sociétés est maintenue jusqu'au terme
@@ -59,3 +59,6 @@ d'investissement à risque, lorsque les actions de la société sont transmises 
 titre gratuit à la suite du décès de l'associé unique initial et que les
 conditions prévues au I, autres que celles relatives à l'unicité de l'associé,
 sont respectées.
+
+III.-L'exonération prévue au I ne bénéficie qu'aux sociétés créées avant le 1er
+juillet 2008.

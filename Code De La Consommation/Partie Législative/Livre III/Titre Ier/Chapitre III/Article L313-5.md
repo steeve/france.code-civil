@@ -16,7 +16,17 @@ décision dans les conditions prévues à l'article 131-35 du code pénal ;
 2° La fermeture, provisoire ou définitive, de l'entreprise dont l'une des
 personnes chargées de l'administration ou de la direction est condamnée en
 application de l'alinéa premier du présent article, assortie éventuellement de
-la nomination d'un administrateur ou d'un liquidateur.
+la nomination d'un administrateur ou d'un liquidateur ;
+
+3° L'interdiction, suivant les modalités prévues par l'article 131-27 du code
+pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise, soit d'exercer une profession commerciale
+ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le
+compte d'autrui, une entreprise commerciale ou industrielle ou une société
+commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement.
 
 En cas de fermeture, le tribunal fixe la durée pendant laquelle le délinquant ou
 l'entreprise doit continuer à payer à son personnel les salaires, indemnités et

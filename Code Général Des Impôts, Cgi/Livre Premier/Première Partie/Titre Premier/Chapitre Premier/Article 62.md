@@ -9,7 +9,7 @@ sont déficitaires, lorsqu'ils sont alloués :
 Aux gérants majoritaires des sociétés à responsabilité limitée n'ayant pas opté
 pour le régime fiscal des sociétés de personnes dans les conditions prévues à
 l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues
-à l'article 239 bis AA ;
+à l'article 239 bis AA ou à l'article 239 bis AB ;
 
 Aux gérants des sociétés en commandite par actions ;
 

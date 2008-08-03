@@ -24,4 +24,7 @@ techniques et les motifs de la solution adoptée. Lorsque la contestation est
 relative à l'espèce, la position tarifaire des marchandises litigieuses doit
 être, en outre, précisée.
 
-5. Les conclusions de la commission sont notifiées aux parties.
+5. Les conclusions de la commission sont notifiées aux parties. La commission
+peut les rendre publiques, sous forme d'extraits, sous réserve de l'accord des
+deux parties et sans divulguer leur identité ni aucune information à caractère
+commercial ou industriel.

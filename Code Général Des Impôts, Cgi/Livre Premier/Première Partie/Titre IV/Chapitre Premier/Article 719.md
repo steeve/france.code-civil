@@ -3,22 +3,28 @@ Article 719
 Les mutations de propriété à titre onéreux de fonds de commerce ou de clientèles
 sont soumises à un droit d'enregistrement dont les taux sont fixés à :
 
-Fraction de la valeur taxable :
 
-N'excédant pas 23 000 euros
+FRACTION DE LA VALEUR TAXABLE
 
-Tarif applicable : 0 %
+Tarif applicable
 
-Fraction de la valeur taxable :
+(en pourcentage)
 
+N'excédant pas 23 000 €
 
-Comprise entre 23 000 et 107 000 euros
+0
 
-Tarif applicable : 4 %
+Supérieure à 23 000 € et n'excédant pas 107 000 €
 
-Fraction de la valeur taxable :
+2
 
-Supérieure à 107 000 euros : 2,60 %.
+Supérieure à 107 000 € et n'excédant pas 200 000 €
+
+0, 60
+
+Supérieure à 200 000 €
+
+2, 60
 
 Le droit est perçu sur le prix de la vente de l'achalandage, de la cession du
 droit au bail et des objets mobiliers ou autres servant à l'exploitation du

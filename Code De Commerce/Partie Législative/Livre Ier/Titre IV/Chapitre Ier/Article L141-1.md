@@ -10,9 +10,9 @@ et le matériel ;
 
 2° L'état des privilèges et nantissements grevant le fonds ;
 
-3° Le chiffre d'affaires qu'il a réalisé au cours de chacune des trois dernières
-années d'exploitation, ou depuis son acquisition s'il ne l'a pas exploité depuis
-plus de trois ans ;
+3° Le chiffre d'affaires qu'il a réalisé durant les trois exercices comptables
+précédant celui de la vente, ce nombre étant réduit à la durée de la possession
+du fonds si elle a été inférieure à trois ans ;
 
 4° Les bénéfices commerciaux réalisés pendant le même temps ;
 

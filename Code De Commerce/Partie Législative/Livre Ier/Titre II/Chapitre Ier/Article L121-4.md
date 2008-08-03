@@ -24,8 +24,10 @@ organismes mentionnés au IV.
 III. - Les droits et obligations professionnels et sociaux du conjoint résultent
 du statut pour lequel il a opté.
 
-IV. - Le chef d'entreprise mentionne le statut choisi par le conjoint auprès des
-organismes habilités à enregistrer l'immatriculation de l'entreprise.
+IV. - Le chef d'entreprise déclare le statut choisi par son conjoint auprès des
+organismes habilités à enregistrer l'immatriculation de l'entreprise. Seul le
+conjoint collaborateur fait l'objet d'une mention dans les registres de
+publicité légale à caractère professionnel.
 
 V. - La définition du conjoint collaborateur, les modalités selon lesquelles le
 choix de son statut est mentionné auprès des organismes visés au IV et les

@@ -16,5 +16,23 @@ ci-dessus. Il s'assure également que le souscripteur ou l'acquéreur a
 effectivement déclaré avoir été informé que ce fonds était régi par les
 dispositions de la présente sous-section.
 
+L'actif du fonds peut également comprendre :
+
+a) Dans la limite de 15 % du a du 2 de l'article L. 214-36, des avances en
+compte courant consenties, pour la durée de l'investissement réalisé, à des
+sociétés dans lesquelles le fonds détient une participation. Ces avances sont
+prises en compte pour le calcul du quota prévu au 1 de l'article L. 214-36
+lorsqu'elles sont consenties à des sociétés remplissant les conditions pour être
+retenues dans ce quota ;
+
+b) Des droits représentatifs d'un placement financier émis sur le fondement du
+droit français ou étranger dans une entité qui a pour objet principal d'investir
+directement ou indirectement dans des sociétés dont les titres de capital ne
+sont pas admis aux négociations sur un marché d'instruments financiers mentionné
+au 1 de l'article L. 214-36. Ces droits ne sont retenus dans le quota
+d'investissement de 50 % du fonds prévu au même 1 qu'à concurrence du
+pourcentage d'investissement direct ou indirect de l'actif de l'entité concernée
+dans les sociétés éligibles à ce même quota.
+
 Un décret en Conseil d'Etat fixe pour ces fonds des règles spécifiques relatives
 aux conditions et limites de la détention des actifs.

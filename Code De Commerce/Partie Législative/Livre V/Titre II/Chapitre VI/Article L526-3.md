@@ -16,7 +16,11 @@ La déclaration de remploi des fonds est soumise aux conditions de validité et
 d'opposabilité prévues aux articles L. 526-1 et L. 526-2.
 
 La déclaration peut, à tout moment, faire l'objet d'une renonciation soumise aux
-mêmes conditions de validité et d'opposabilité.
+mêmes conditions de validité et d'opposabilité. La renonciation peut porter sur
+tout ou partie des biens ; elle peut être faite au bénéfice d'un ou plusieurs
+créanciers mentionnés à l'article L. 526-1 désignés par l'acte authentique de
+renonciation. Lorsque le bénéficiaire de cette renonciation cède sa créance, le
+cessionnaire peut se prévaloir de celle-ci.
 
 Les effets de la déclaration subsistent après la dissolution du régime
 matrimonial lorsque le déclarant est attributaire du bien. Le décès du déclarant

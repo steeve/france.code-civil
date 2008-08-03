@@ -119,6 +119,11 @@ l'article 163 quinquies C bis du même code, lors de leur versement, ainsi que
 les gains nets mentionnés aux 1 et 1 bis du III de l'article 150-0 A du même
 code ;
 
+8° bis Les revenus, produits et gains non pris en compte pour le calcul du
+prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A du
+code général des impôts, en application du II de l'article 81 C du même code,
+lors de leur perception ;
+
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,

@@ -1,6 +1,6 @@
 Article L36-8
 ----
-I. - En cas de refus d'accès ou d'interconnexion, d'échec des négociations
+I.-En cas de refus d'accès ou d'interconnexion, d'échec des négociations
 commerciales ou de désaccord sur la conclusion ou l'exécution d'une convention
 d'interconnexion ou d'accès à un réseau de communications électroniques,
 l'Autorité de régulation des communications électroniques et des postes peut
@@ -31,11 +31,13 @@ limitées à ce qui est nécessaire pour faire face à l'urgence.
 L'autorité rend publiques ses décisions, sous réserve des secrets protégés par
 la loi. Elle les notifie aux parties.
 
-II. - En cas d'échec des négociations commerciales, l'Autorité de régulation des
+II.-En cas d'échec des négociations commerciales, l'Autorité de régulation des
 communications électroniques et des postes peut également être saisie des
 différends relatifs à la mise en oeuvre des obligations des opérateurs prévues
-par le présent titre, ainsi que celles du chapitre III du titre II, notamment
-ceux portant sur :
+par le présent titre, et le chapitre III du titre II, ainsi qu'à la mise en
+œuvre des dispositions de l'article 134 de la loi n° 2004-669 du 9 juillet 2004
+relative aux communications électroniques et aux services de communication
+audiovisuelle, notamment ceux portant sur :
 
 1° Les possibilités et les conditions d'une utilisation partagée entre
 opérateurs, prévue à l'article L. 47, d'installations existantes situées sur le
@@ -46,12 +48,11 @@ sur une propriété privée ;
 d'abonnés prévue à l'article L. 34 ;
 
 2° bis La conclusion ou l'exécution de la convention d'itinérance locale prévue
-à l'article L. 34-8-1 ;
+à l'article L. 34-8-1 ou de la convention d'accès prévue à l'article L. 34-8-3 ;
 
-3° Les conditions de la mise en conformité, prévue par le dernier alinéa de
-l'article L. 34-4, des conventions comportant des clauses excluant ou
-restreignant la fourniture de services de communications électroniques sur les
-réseaux mentionnés au premier alinéa dudit article ;
+3° Les conditions techniques et financières de la mise en œuvre de l'utilisation
+partagée des infrastructures publiques de génie civil prévue à l'article 134 de
+la loi n° 2004-669 du 9 juillet 2004 précitée ;
 
 4° Les conditions techniques et tarifaires d'exercice d'une activité d'opérateur
 de communications électroniques ou d'établissement, de mise à disposition ou de
@@ -63,7 +64,7 @@ prévues au I. En outre, elle procède à une consultation publique de toutes le
 parties intéressées avant toute décision imposant l'utilisation partagée entre
 opérateurs des installations mentionnées au 1°.
 
-III. - Les décisions prises par l'Autorité de régulation des communications
+III.-Les décisions prises par l'Autorité de régulation des communications
 électroniques et des postes en application des I et II peuvent faire l'objet
 d'un recours en annulation ou en réformation dans le délai d'un mois à compter
 de leur notification.
@@ -78,7 +79,7 @@ communications électroniques et des postes peuvent, au maximum dix jours après
 leur notification, faire l'objet d'un recours en annulation ou en réformation.
 Ce recours est jugé dans le délai d'un mois.
 
-IV. - Les recours contre les décisions et mesures conservatoires prises par
+IV.-Les recours contre les décisions et mesures conservatoires prises par
 l'Autorité de régulation des communications électroniques et des postes en
 application du présent article sont de la compétence de la cour d'appel de
 Paris.
@@ -86,9 +87,9 @@ Paris.
 Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'appel
 est exercé dans le délai d'un mois suivant la notification de cet arrêt.
 
-V. - Lorsqu'une des parties est établie dans un autre Etat membre de la
-Communauté européenne et que le différend est également porté devant les
-autorités compétentes d'autres Etats membres, l'Autorité de régulation des
-communications électroniques et des postes coordonne son action avec celle de
-ces autorités. Les règles de procédure définies aux I et II sont applicables, à
-l'exception de celles qui sont relatives aux délais.
+V.-Lorsqu'une des parties est établie dans un autre Etat membre de la Communauté
+européenne et que le différend est également porté devant les autorités
+compétentes d'autres Etats membres, l'Autorité de régulation des communications
+électroniques et des postes coordonne son action avec celle de ces autorités.
+Les règles de procédure définies aux I et II sont applicables, à l'exception de
+celles qui sont relatives aux délais.

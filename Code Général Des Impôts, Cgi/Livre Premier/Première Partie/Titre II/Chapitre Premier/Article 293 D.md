@@ -1,6 +1,6 @@
 Article 293 D
 ----
-I. Les chiffres d'affaires mentionnés aux I, II et IV de l'article 293 B sont
+I. Les chiffres d'affaires mentionnés aux I et IV de l'article 293 B sont
 constitués par le montant hors taxe sur la valeur ajoutée des livraisons de
 biens et des prestations de services effectuées au cours de la période de
 référence, à l'exception des opérations exonérées et des cessions de biens

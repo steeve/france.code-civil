@@ -9,7 +9,16 @@ autorisations sont assorties sera puni d'une peine d'emprisonnement de cinq ans,
 de la confiscation du corps du délit, de la confiscation des moyens de transport
 utilisés pour la fraude et d'une amende égale au minimum au montant et au
 maximum au double de la somme sur laquelle a porté l'infraction ou la tentative
-d'infraction.
+d'infraction. En outre, les personnes physiques encourent à titre de peines
+complémentaires l'interdiction, suivant les modalités prévues par l'article
+131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession
+commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler
+à un titre quelconque, directement ou indirectement, pour leur propre compte ou
+pour le compte d'autrui, une entreprise commerciale ou industrielle ou une
+société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement.
 
 1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou
 de tenter de contrevenir aux mesures de restriction des relations économiques et

@@ -2,12 +2,16 @@ Article 96
 ----
 I Les contribuables qui réalisent ou perçoivent des bénéfices ou revenus visés à
 l'article 92 sont obligatoirement soumis au régime de la déclaration contrôlée
-lorsque le montant annuel de leurs recettes excède 27 000 euros.
+lorsque le montant annuel de leurs recettes excède 32 000 euros (1).
 
 Peuvent également se placer sous ce régime, les contribuables, dont les recettes
-annuelles ne sont pas supérieures à 27 000 euros, lorsqu'ils sont en mesure de
-déclarer exactement le montant de leur bénéfice net et de fournir à l'appui de
-cette déclaration toutes les justifications nécessaires.
+annuelles ne sont pas supérieures à 32 000 euros (1), lorsqu'ils sont en mesure
+de déclarer exactement le montant de leur bénéfice net et de fournir à l'appui
+de cette déclaration toutes les justifications nécessaires.
+
+Le seuil mentionné aux deux premiers alinéas est actualisé chaque année dans la
+même proportion que la limite supérieure de la première tranche du barème de
+l'impôt sur le revenu et arrondi à la centaine d'euros la plus proche (2).
 
 II Pour l'appréciation de la limite visée au I, il est fait abstraction des
 opérations portant sur les éléments d'actif affectés à l'exercice de la

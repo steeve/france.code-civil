@@ -2,28 +2,29 @@ Article 64
 ----
 1. Pour la recherche et la constatation des délits douaniers, visés aux articles
 414 à 429 et 459 du présent code, les agents des douanes habilités à cet effet
-par le directeur général des douanes et droits indirects peuvent procéder à des
-visites en tous lieux, même privés, où les marchandises et documents se
-rapportant à ces délits sont susceptibles d'être détenus et procéder à leur
-saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police
-judiciaire.
+par le ministre chargé des douanes peuvent procéder à des visites en tous lieux,
+même privés, où les marchandises et documents se rapportant à ces délits sont
+susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le
+support. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une
 ordonnance du juge des libertés et de la détention du tribunal de grande
 instance du lieu de la direction des douanes dont dépend le service chargé de la
 procédure.
 
-L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles
-prévues par le code de procédure pénale ; ce pourvoi n'est pas suspensif. Les
-délais de pourvoi courent à compter de la notification ou de la signification de
-l'ordonnance.
-
 L'ordonnance comporte :
 
-- l'adresse des lieux à visiter ;
+-l'adresse des lieux à visiter ;
 
-- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
+-le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
 l'autorisation de procéder aux opérations de visite.
+
+-la mention de la faculté pour l'occupant des lieux ou son représentant, ainsi
+que l'auteur présumé des infractions mentionnées au 1, de faire appel à un
+conseil de son choix.
+
+L'exercice de cette faculté n'entraîne pas la suspension des opérations de
+visite et de saisie.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit
 qu'il retient et qui laissent présumer, en l'espèce, l'existence des agissements
@@ -54,19 +55,39 @@ Le juge peut se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
 
+L'ordonnance est exécutoire au seul vu de la minute.
+
 L'ordonnance est notifiée verbalement et sur place au moment de la visite à
 l'occupant des lieux ou à son représentant qui en reçoit copie intégrale contre
 récépissé ou émargement au procès-verbal prévu au b du 2. En l'absence de
 l'occupant des lieux ou de son représentant, l'ordonnance est notifiée après la
 visite par lettre recommandée avec avis de réception. La notification est
-réputée faite à la date de réception figurant sur l'avis.
+réputée faite à la date de réception figurant sur l'avis. Une copie est
+également adressée par lettre recommandée avec demande d'avis de réception à
+l'auteur présumé des délits douaniers mentionnés au 1, nonobstant les
+dispositions de l'article 59 bis.
 
-A défaut de réception, il est procédé à la signification de l'ordonnance dans
-les conditions prévues par les articles 550 et suivants du code de procédure
-pénale.
+A défaut de réception, il est procédé à la signification de l'ordonnance par
+acte d'huissier de justice.
 
-Les délais et modalités de la voie de recours sont mentionnés sur les actes de
-notification et de signification.
+Le délai et la voie de recours sont mentionnés dans l'ordonnance.
+
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la
+cour d'appel. Les parties ne sont pas tenues de constituer avoué.
+
+Suivant les règles prévues par le code de procédure civile, cet appel doit être
+exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à
+compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un
+délai de quinze jours. Ce délai court à compter soit de la remise, soit de la
+réception, soit de la signification de l'ordonnance. Cet appel n'est pas
+suspensif.
+
+Le greffe du tribunal de grande instance transmet sans délai le dossier de
+l'affaire au greffe de la cour d'appel où les parties peuvent le consulter.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un
+pourvoi en cassation, selon les règles prévues par le code de procédure civile.
+Le délai de pourvoi en cassation est de quinze jours.
 
 b) La visite ne peut être commencée avant six heures ni après vingt et une
 heures. Elle est effectuée en présence de l'occupant des lieux ou de son
@@ -89,15 +110,33 @@ par les personnes mentionnées au premier alinéa du présent b ; en cas de refu
 de signer, mention en est faite au procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces et documents
-saisis sont placés sous scellés. L'occupant des lieux ou son représentant est
+saisis sont placés sous scellés.L'occupant des lieux ou son représentant est
 avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
 l'officier de police judiciaire ; l'inventaire est alors établi.
 
 Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux
-ou à son représentant.
+ou à son représentant. Une copie est également adressée par lettre recommandée
+avec demande d'avis de réception à l'auteur présumé des délits douaniers
+mentionnés au 1, nonobstant les dispositions de l'article 59 bis.
 
 Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a
 délivré l'ordonnance dans les trois jours de son établissement.
+
+Le premier président de la cour d'appel connaît des recours contre le
+déroulement des opérations de visite ou de saisie autorisées en application du
+a. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations
+mentionnent le délai et la voie de recours. Les parties ne sont pas tenues de
+constituer avoué.
+
+Suivant les règles prévues par le code de procédure civile, ce recours doit être
+exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à
+compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un
+délai de quinze jours. Ce délai court à compter de la remise ou de la réception
+soit du procès-verbal, soit de l'inventaire. Ce recours n'est pas suspensif.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un
+pourvoi en cassation selon les règles prévues par le code de procédure civile.
+Le délai du pourvoi en cassation est de quinze jours.
 
 3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de
 police judiciaire :
@@ -109,5 +148,5 @@ b) pour la recherche des marchandises qui, poursuivies à vue sans interruption
 dans les conditions prévues par l'article 332 ci-après, sont introduites dans
 une maison ou autre bâtiment même sis en dehors du rayon.
 
-4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
+4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
 faire ouvrir en présence d'un officier de police judiciaire.

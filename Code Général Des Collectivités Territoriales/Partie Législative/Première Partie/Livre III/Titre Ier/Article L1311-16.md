@@ -5,5 +5,5 @@ régime forestier, en application du livre Ier du code forestier, à des ventes 
 coupes ou produits de coupes groupant en un même lot des bois appartenant à
 plusieurs collectivités, la créance de la collectivité concernant la vente des
 produits de son domaine porte sur la part du produit net encaissé devant lui
-être distribuée par l'Office national des forêts, à proportion de la quotité
-mise en vente par cette collectivité.
+être distribuée par l'Office national des forêts, selon les modalités prévues
+par les deuxième et troisième alinéas de l'article L. 144-1-1 du code forestier.

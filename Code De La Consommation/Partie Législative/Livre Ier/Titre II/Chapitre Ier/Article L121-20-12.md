@@ -1,7 +1,7 @@
 Article L121-20-12
 ----
-I. - Le consommateur dispose d'un délai de quatorze jours calendaires révolus
-pour exercer son droit de rétractation, sans avoir à justifier de motif ni à
+I.-Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour
+exercer son droit de rétractation, sans avoir à justifier de motif ni à
 supporter de pénalités.
 
 Le délai pendant lequel peut s'exercer le droit de rétractation commence à
@@ -13,7 +13,7 @@ courir :
 contractuelles et les informations, conformément à l'article L. 121-20-11, si
 cette dernière date est postérieure à celle mentionnée au 1°.
 
-II. - Le droit de rétractation ne s'applique pas :
+II.-Le droit de rétractation ne s'applique pas :
 
 1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du
 code monétaire et financier ainsi qu'aux services de réception-transmission et
@@ -24,12 +24,14 @@ même code ;
 expresse du consommateur avant que ce dernier n'exerce son droit de rétractation
 ;
 
-3° Aux contrats de crédit immobilier définis à l'article L. 312-2.
+3° Aux contrats de crédit immobilier définis à l'article L. 312-2 ;
 
-III. - Le présent article ne s'applique pas aux contrats mentionnés à l'article
-L. 121-60.
+4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1.
 
-IV. - Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus
+III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L.
+121-60.
+
+IV.-Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus
 selon une technique de communication à distance, et par dérogation aux
 dispositions de l'article L. 311-24, le délai de rétractation de quatorze jours
 ne peut pas être réduit.

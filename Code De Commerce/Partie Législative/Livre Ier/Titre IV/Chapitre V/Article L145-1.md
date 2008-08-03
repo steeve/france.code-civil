@@ -22,3 +22,14 @@ II. - Si le fonds est exploité sous forme de location-gérance en application d
 chapitre IV du présent titre, le propriétaire du fonds bénéficie néanmoins des
 présentes dispositions sans avoir à justifier de l'immatriculation au registre
 du commerce et des sociétés ou au répertoire des métiers.
+
+III. - Si le bail est consenti à plusieurs preneurs ou indivisaires,
+l'exploitant du fonds de commerce ou du fonds artisanal bénéficie des
+dispositions du présent chapitre, même en l'absence d'immatriculation au
+registre du commerce et des sociétés ou au répertoire des métiers de ses
+copreneurs ou coindivisaires non exploitants du fonds.
+
+En cas de décès du titulaire du bail, ces mêmes dispositions s'appliquent à ses
+héritiers ou ayants droit qui, bien que n'exploitant pas de fonds de commerce ou
+de fonds artisanal, demandent le maintien de l'immatriculation de leur ayant
+cause pour les besoins de sa succession.

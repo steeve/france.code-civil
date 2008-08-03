@@ -7,9 +7,11 @@ revendeurs, de membres, éventuellement honoraires, des juridictions
 administratives et judiciaires, de représentants des secteurs de la production
 et de la transformation agricole et halieutique, ainsi qu'industrielle et
 artisanale, des transformateurs, des grossistes, des distributeurs et de
-l'administration, ainsi que de personnalités qualifiées. Elle est présidée par
-un magistrat de l'ordre administratif ou judiciaire. Elle comprend un nombre
-égal de représentants des producteurs et des revendeurs.
+l'administration, ainsi que de personnalités qualifiées. Le président de la
+commission est désigné parmi ses membres par décret. Lorsque celui-ci n'est pas
+membre d'une juridiction, un vice-président appartenant à une juridiction
+administrative ou judiciaire est également désigné dans les mêmes conditions.
+Elle comprend un nombre égal de représentants des producteurs et des revendeurs.
 
 Les membres de la commission sont tenus au secret professionnel pour les faits,
 actes et renseignements dont ils ont pu avoir connaissance en raison de leurs

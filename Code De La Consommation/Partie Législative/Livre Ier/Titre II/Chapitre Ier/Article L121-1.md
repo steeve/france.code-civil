@@ -1,6 +1,6 @@
 Article L121-1
 ----
-I. - Une pratique commerciale est trompeuse si elle est commise dans l'une des
+I.-Une pratique commerciale est trompeuse si elle est commise dans l'une des
 circonstances suivantes :
 
 1° Lorsqu'elle crée une confusion avec un autre bien ou service, une marque, un
@@ -35,15 +35,17 @@ g) Le traitement des réclamations et les droits du consommateur ;
 3° Lorsque la personne pour le compte de laquelle elle est mise en oeuvre n'est
 pas clairement identifiable.
 
-II. - Une pratique commerciale est également trompeuse si, compte tenu des
-limites propres au moyen de communication utilisé, elle omet, dissimule ou
-fournit de façon inintelligible, ambiguë ou à contretemps une information
-substantielle ou lorsqu'elle n'indique pas sa véritable intention commerciale
-dès lors que celle-ci ne ressort pas déjà du contexte.
+II.-Une pratique commerciale est également trompeuse si, compte tenu des limites
+propres au moyen de communication utilisé et des circonstances qui l'entourent,
+elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à
+contretemps une information substantielle ou lorsqu'elle n'indique pas sa
+véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du
+contexte.
 
-Dans toute communication commerciale destinée au consommateur mentionnant le
-prix et les caractéristiques du bien ou du service proposé, sont considérées
-comme substantielles les informations suivantes :
+Dans toute communication commerciale constituant une invitation à l'achat et
+destinée au consommateur mentionnant le prix et les caractéristiques du bien ou
+du service proposé, sont considérées comme substantielles les informations
+suivantes :
 
 1° Les caractéristiques principales du bien ou du service ;
 
@@ -58,4 +60,4 @@ habituellement pratiquées dans le domaine d'activité professionnelle concerné
 
 5° L'existence d'un droit de rétractation, si ce dernier est prévu par la loi.
 
-III. - Le I est applicable aux pratiques qui visent les professionnels.
+III.-Le I est applicable aux pratiques qui visent les professionnels.

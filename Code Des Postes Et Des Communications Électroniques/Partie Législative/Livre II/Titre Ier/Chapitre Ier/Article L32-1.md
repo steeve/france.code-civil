@@ -1,6 +1,6 @@
 Article L32-1
 ----
-I. - Dans les conditions prévues par les dispositions du présent code :
+I.-Dans les conditions prévues par les dispositions du présent code :
 
 1° Les activités de communications électroniques s'exercent librement, dans le
 respect des déclarations prévues au chapitre II, et sous réserve, le cas
@@ -18,7 +18,7 @@ communications électroniques. Elle est exercée au nom de l'Etat par le ministr
 chargé des communications électroniques et par l'Autorité de régulation des
 communications électroniques et des postes.
 
-II. - Dans le cadre de leurs attributions respectives, le ministre chargé des
+II.-Dans le cadre de leurs attributions respectives, le ministre chargé des
 communications électroniques et l'Autorité de régulation des communications
 électroniques et des postes prennent, dans des conditions objectives et
 transparentes, des mesures raisonnables et proportionnées aux objectifs
@@ -48,8 +48,9 @@ transmis, ainsi que de la protection des données à caractère personnel ;
 communications électroniques de l'ordre public et des obligations de défense et
 de sécurité publique ;
 
-7° A la prise en compte de l'intérêt des territoires et des utilisateurs,
-notamment handicapés, dans l'accès aux services et aux équipements ;
+7° A la prise en compte de l'intérêt de l'ensemble des territoires et des
+utilisateurs, notamment handicapés, dans l'accès aux services et aux équipements
+;
 
 8° Au développement de l'utilisation partagée entre opérateurs des installations
 mentionnées aux articles L. 47 et L. 48 ;
@@ -74,13 +75,13 @@ technologique, des mesures qu'ils prennent ;
 14° A l'intégrité et la sécurité des réseaux de communications électroniques
 ouverts au public.
 
-III. - Lorsque, dans le cadre des dispositions du présent code, le ministre
-chargé des communications électroniques et l'Autorité de régulation des
-communications électroniques et des postes envisagent d'adopter des mesures
-ayant une incidence importante sur un marché, ils rendent publiques les mesures
-envisagées dans un délai raisonnable avant leur adoption et recueillent les
-observations qui sont faites à leur sujet. Le résultat de ces consultations est
-rendu public, sous réserve des secrets protégés par la loi.
+III.-Lorsque, dans le cadre des dispositions du présent code, le ministre chargé
+des communications électroniques et l'Autorité de régulation des communications
+électroniques et des postes envisagent d'adopter des mesures ayant une incidence
+importante sur un marché, ils rendent publiques les mesures envisagées dans un
+délai raisonnable avant leur adoption et recueillent les observations qui sont
+faites à leur sujet. Le résultat de ces consultations est rendu public, sous
+réserve des secrets protégés par la loi.
 
 L'autorité met en place un service permettant de prendre connaissance des
 consultations prévues par l'alinéa précédent.

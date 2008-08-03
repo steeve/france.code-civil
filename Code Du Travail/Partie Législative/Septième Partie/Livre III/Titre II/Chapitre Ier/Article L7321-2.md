@@ -10,7 +10,9 @@ d'autres objets ou de leur rendre des services de toute nature ;
 2° Dont la profession consiste essentiellement :
 
 a) Soit à vendre des marchandises de toute nature qui leur sont fournies
-exclusivement ou presque exclusivement par une seule entreprise ;
+exclusivement ou presque exclusivement par une seule entreprise, lorsque ces
+personnes exercent leur profession dans un local fourni ou agréé par cette
+entreprise et aux conditions ou prix imposés par cette entreprise ;
 
 b) Soit à recueillir les commandes ou à recevoir des marchandises à traiter,
 manutentionner ou transporter, pour le compte d'une seule entreprise, lorsque

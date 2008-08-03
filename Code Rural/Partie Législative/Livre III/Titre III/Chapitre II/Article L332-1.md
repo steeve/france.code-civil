@@ -1,15 +1,14 @@
 Article L332-1
 ----
-En cas de retrait de production des terres arables dans les conditions prévues
-par le titre 01 du règlement CEE du Conseil des communautés européennes n°
-797-85 du 12 mars 1985 modifié, les droits et obligations résultant de
-l'application du livre VII du code rural sont appréciés, pendant la durée du
-retrait, comme si ces terres restaient affectées aux productions agricoles
-pratiquées l'année précédant ce retrait.
-
-Le preneur qui procède à un retrait de production de terres arables et qui
-assure l'entretien minimum prévu par le règlement du 12 mars 1985 précité est
-réputé en assurer l'exploitation prévue par le livre IV du présent code.
-
-Les dispositions du présent article s'appliquent à compter de la date d'effet de
-chaque retrait.
+Les agriculteurs qui perçoivent une aide au titre du régime de paiement unique
+au sens des articles 3 et 36 du règlement (CE) n° 1782 / 2003 du Conseil, du 29
+septembre 2003, établissant des règles communes pour les régimes de soutien
+direct dans le cadre de la politique agricole commune et établissant certains
+régimes de soutien en faveur des agriculteurs sont soumis pendant la durée de
+versement de cette aide aux droits et obligations résultant de l'application du
+livre VII du présent code. Ces droits et obligations sont appréciés lorsque les
+terres sont entretenues dans les conditions visées à l'article 5 du règlement
+(CE) n° 1782 / 2003 du Conseil, du 29 septembre 2003, précité, comme si ces
+terres restaient affectées aux dernières productions agricoles
+pratiquées.L'agriculteur est réputé assurer l'exploitation de ces terres dans
+les conditions prévues par le livre IV du présent code.

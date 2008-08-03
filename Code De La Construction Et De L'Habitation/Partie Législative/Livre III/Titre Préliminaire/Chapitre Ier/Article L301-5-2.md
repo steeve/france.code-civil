@@ -55,7 +55,7 @@ versement des crédits par l'agence au département.
 La convention fixe, en accord avec la Caisse des dépôts et consignations,
 l'enveloppe de prêts que cet établissement peut affecter aux opérations définies
 dans la convention à partir des fonds d'épargne dont il assure la gestion en
-application de l'article L. 518-1 du code monétaire et financier.
+application de l'article L. 518-2 du code monétaire et financier.
 
 Dans les limites fixées par décret en Conseil d'Etat, la convention peut adapter
 les conditions d'octroi des aides de l'Etat, selon les secteurs géographiques et

@@ -10,9 +10,9 @@ morale nouvelle, d'apport en société, de fusion, de transfert du siège ou d'u
 conditions prévues aux 1 et 3 de l'article 201.
 
 Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque
-les sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239 et
-239 bis AA cessent totalement ou partiellement d'être soumis à l'impôt sur les
-sociétés au taux prévu au deuxième alinéa du I de l'article 219.
+les sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239, 239
+bis AA et 239 bis AB cessent totalement ou partiellement d'être soumis à l'impôt
+sur les sociétés au taux prévu au deuxième alinéa du I de l'article 219.
 
 Toutefois, le transfert de siège dans un autre Etat membre de la Communauté
 européenne, qu'il s'accompagne ou non de la perte de la personnalité juridique

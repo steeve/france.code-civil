@@ -92,6 +92,10 @@ unipersonnelles d'investissement à risque dans les conditions prévues à
 l'article 163 quinquies C bis, lors de leur versement, ainsi que les gains nets
 mentionnés aux 1 et 1 bis du III de l'article 150-0 A ;
 
+8 bis. Les revenus, produits et gains non pris en compte pour le calcul du
+prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A, en
+application du II de l'article 81 C, lors de leur perception ;
+
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157, lors de l'expiration du

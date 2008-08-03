@@ -19,6 +19,10 @@ euros s'il s'agit d'entreprises dont le commerce principal est de vendre des
 marchandises, objets, fournitures et denrées à emporter ou à consommer sur place
 ou de fournir le logement, et 260 000 euros s'il s'agit d'autres entreprises.
 
+II bis. - Les seuils mentionnés aux I et II sont actualisés chaque année dans la
+même proportion que la limite supérieure de la première tranche du barème de
+l'impôt sur le revenu et arrondis au millier d'euros le plus proche (1).
+
 III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un
 exercice peut intervenir dans les trois mois qui suivent la clôture de cet
 exercice. Un décret en Conseil d'Etat fixe les modalités d'application pratique

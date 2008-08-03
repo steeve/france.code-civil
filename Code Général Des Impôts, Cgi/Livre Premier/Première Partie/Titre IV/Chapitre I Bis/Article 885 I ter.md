@@ -48,11 +48,12 @@ cinq ans vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis.
 
 4.L'exonération s'applique dans les mêmes conditions aux parts de fonds communs
 de placement dans l'innovation définis par l'article L. 214-41 du code monétaire
-et financier et de fonds communs de placement à risques définis par l'article L.
-214-36 du même code dont l'actif est constitué au moins à hauteur de 40 % de
-titres reçus en contrepartie de souscriptions au capital de sociétés exerçant
-leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant
-les conditions prévues au 1 du I de l'article 885-0 V bis du présent code.
+et financier et de fonds communs de placement à risques définis par les articles
+L. 214-36 et L. 214-37 du même code dont l'actif est constitué au moins à
+hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de
+sociétés exerçant leur activité ou juridiquement constituées depuis moins de
+cinq ans, vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis du
+présent code.
 
 L'exonération est limitée à la fraction de la valeur des parts de ces fonds
 représentative de titres reçus en contrepartie de souscriptions au capital de

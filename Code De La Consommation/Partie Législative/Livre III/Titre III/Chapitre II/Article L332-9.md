@@ -11,6 +11,9 @@ leur valeur vénale, le juge prononce la clôture pour insuffisance d'actif.
 
 La clôture entraîne l'effacement de toutes les dettes non professionnelles du
 débiteur, à l'exception de celles dont le prix a été payé au lieu et place du
-débiteur par la caution ou le coobligé.
+débiteur par la caution ou le coobligé. La clôture entraîne aussi l'effacement
+de la dette résultant de l'engagement que le débiteur a donné de cautionner ou
+d'acquitter solidairement la dette d'un entrepreneur individuel ou d'une
+société.
 
 Le juge peut ordonner des mesures de suivi social du débiteur.

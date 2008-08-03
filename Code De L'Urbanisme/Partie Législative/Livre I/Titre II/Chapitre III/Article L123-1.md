@@ -3,8 +3,8 @@ Article L123-1
 Les plans locaux d'urbanisme exposent le diagnostic établi au regard des
 prévisions économiques et démographiques et précisent les besoins répertoriés en
 matière de développement économique, d'agriculture, d'aménagement de l'espace,
-d'environnement, d'équilibre social de l'habitat, de transports, d'équipements
-et de services.
+d'environnement, d'équilibre social de l'habitat, de commerce, de transports,
+d'équipements et de services.
 
 Ils comportent un projet d'aménagement et de développement durable qui définit
 les orientations générales d'aménagement et d'urbanisme retenues pour l'ensemble
@@ -96,6 +96,11 @@ mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique
 ou écologique et définir, le cas échéant, les prescriptions de nature à assurer
 leur protection ;
 
+7° bis.-Identifier et délimiter les quartiers, îlots, voies dans lesquels doit
+être préservée ou développée la diversité commerciale, notamment à travers les
+commerces de détail et de proximité, et définir, le cas échéant, les
+prescriptions de nature à assurer cet objectif ;
+
 8° Fixer les emplacements réservés aux voies et ouvrages publics, aux
 installations d'intérêt général ainsi qu'aux espaces verts ;
 
@@ -119,10 +124,10 @@ la zone considérée ;
 13° Fixer un ou des coefficients d'occupation des sols qui déterminent la
 densité de construction admise :
 
-- dans les zones urbaines et à urbaniser ;
+-dans les zones urbaines et à urbaniser ;
 
-- dans les zones à protéger en raison de la qualité de leurs paysages et de
-leurs écosystèmes pour permettre, dans les conditions précisées par l'article L.
+-dans les zones à protéger en raison de la qualité de leurs paysages et de leurs
+écosystèmes pour permettre, dans les conditions précisées par l'article L.
 123-4, des transferts de constructibilité en vue de favoriser un regroupement
 des constructions ;
 

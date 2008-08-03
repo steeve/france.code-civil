@@ -2,10 +2,11 @@ Article L330-1
 ----
 La situation de surendettement des personnes physiques est caractérisée par
 l'impossibilité manifeste pour le débiteur de bonne foi de faire face à
-l'ensemble de ses dettes non professionnelles exigibles et à échoir ainsi qu'à
-l'engagement qu'il a donné de cautionner ou d'acquitter solidairement la dette
-d'un entrepreneur individuel ou d'une société dès lors qu'il n'a pas été, en
-droit ou en fait, dirigeant de celle-ci.
+l'ensemble de ses dettes non professionnelles exigibles et à
+échoir.L'impossibilité manifeste pour une personne physique de bonne foi de
+faire face à l'engagement qu'elle a donné de cautionner ou d'acquitter
+solidairement la dette d'un entrepreneur individuel ou d'une société caractérise
+également une situation de surendettement.
 
 Lorsque les ressources ou l'actif réalisable du débiteur le permettent, des
 mesures de traitement peuvent être prescrites devant la commission de

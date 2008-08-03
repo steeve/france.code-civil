@@ -9,10 +9,12 @@ banques centrales.
 Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément
 des ministres compétents par le gouverneur de la Banque de France.
 
-Le conseil général délibère également de l'emploi des fonds propres et établit
-les budgets prévisionnels et rectificatifs de dépenses, arrête le bilan et les
-comptes de la banque, ainsi que le projet d'affectation du bénéfice et de
-fixation du dividende revenant à l'Etat.
+Le conseil général délibère également de l'emploi des fonds propres et établit ,
+en veillant à doter la banque des moyens nécessaires à l'exercice des missions
+qui lui sont dévolues à raison de sa participation au système européen de
+banques centrales, les budgets prévisionnels et rectificatifs de dépenses,
+arrête le bilan et les comptes de la banque, ainsi que le projet d'affectation
+du bénéfice et de fixation du dividende revenant à l'Etat.
 
 Le conseil général désigne deux commissaires aux comptes chargés de vérifier les
 comptes de la Banque de France. Ils sont convoqués à la réunion du conseil

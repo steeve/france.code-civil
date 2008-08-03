@@ -1,9 +1,15 @@
 Article L518-8
 ----
-Tous les trois mois, les commissaires surveillants entendent le compte qui leur
-est rendu de la situation de la Caisse des dépôts et consignations. Ce compte
-est rendu public.
+La commission de surveillance dispose en son sein de comités spécialisés
+consultatifs, en particulier le comité d'examen des comptes et des risques, le
+comité des fonds d'épargne et le comité des investissements.
 
-Ils vérifient, toutes les fois qu'ils le jugent utile, et au moins une fois par
-mois, l'état des caisses, la bonne tenue des écritures, et tous les détails
-administratifs.
+Elle en fixe les attributions et les règles de fonctionnement dans son règlement
+intérieur.
+
+Le comité des investissements a pour mission de surveiller la mise en œuvre de
+la politique d'investissement de la Caisse des dépôts et consignations. Il est
+saisi préalablement des opérations qui conduisent la Caisse des dépôts et
+consignations à acquérir ou à céder les titres de capital ou donnant accès au
+capital d'une société au-delà des seuils définis dans le règlement intérieur de
+la commission de surveillance.

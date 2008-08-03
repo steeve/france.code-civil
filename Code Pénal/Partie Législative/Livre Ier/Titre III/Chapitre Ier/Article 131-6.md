@@ -57,4 +57,10 @@ complices de l'infraction ;
 
 14° L'interdiction, pour une durée de trois ans au plus, d'entrer en relation
 avec certaines personnes spécialement désignées par la juridiction, notamment la
-victime de l'infraction.
+victime de l'infraction ;
+
+15° L'interdiction, pour une durée de cinq ans au plus, d'exercer une profession
+commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler
+à un titre quelconque, directement ou indirectement, pour son propre compte ou
+pour le compte d'autrui, une entreprise commerciale ou industrielle ou une
+société commerciale.

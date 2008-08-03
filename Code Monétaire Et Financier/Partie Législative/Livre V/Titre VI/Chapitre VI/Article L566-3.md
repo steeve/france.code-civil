@@ -11,12 +11,24 @@ Pour l'application du présent titre :
 entreprises mentionnées au 5 de l'article L. 562-1. Elle peut prononcer les
 sanctions prévues à l'article L. 613-21.
 
-2° L'inspection générale des finances exerce le contrôle sur la caisse des
-dépôts et consignations et La Poste. Le résultat des investigations de
-l'inspection générale des finances est porté à la connaissance, selon le cas, de
-la commission de surveillance de la caisse des dépôts et consignations ou de la
-commission supérieure prévue à l'article L. 125 du code des postes et des
-communications électroniques.
+2° La Caisse des dépôts et consignations est soumise, dans les conditions
+prévues à l'article L. 613-20 et au I de l'article L. 613-23, aux articles L.
+613-6 à L. 613-11 et L. 613-15 ainsi qu'aux 1° et 2° du I de l'article L.
+613-21. Pour la mise en œuvre du présent titre, la Commission bancaire peut
+adresser à la Caisse des dépôts et consignations des recommandations ou des
+injonctions de prendre les mesures appropriées pour améliorer ses procédures ou
+son organisation. En outre, la Caisse des dépôts et consignations peut voir
+prononcer à son encontre, soit à la place, soit en sus des sanctions prévues aux
+1° et 2° du I de l'article L. 613-21, une sanction pécuniaire d'un montant
+maximal égal au décuple du capital minimum auquel sont astreintes les banques.
+Les sommes correspondantes sont versées au Trésor public au bénéfice du budget
+de l'Etat. Lorsqu'elle statue sur les recommandations, les injonctions et les
+sanctions applicables à la Caisse des dépôts et consignations, la Commission
+bancaire recueille l'avis préalable de la commission de surveillance.
+
+Pour la mise en œuvre du présent article, les articles L. 571-4, L. 613-20-1 et
+L. 613-20-2 sont applicables au groupe de la Caisse des dépôts et consignations
+et à ses dirigeants ;
 
 3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de
 sanction sur les organismes de placement collectif en valeurs mobilières

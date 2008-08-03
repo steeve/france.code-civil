@@ -1,10 +1,10 @@
 Article 613 nonies
 ----
 Pour les appareils automatiques exploités par des personnes non soumises au
-régime des activités ambulantes, prévu par les articles 1er et 2 de la loi n°
-69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au
-régime applicable aux personnes circulant en France sans domicile ni résidence
-fixe, ayant pour activité exclusive la tenue d'établissements destinés au
+régime des activités ambulantes, prévu par l'article 2 de la loi n° 69-3 du 3
+janvier 1969 relative à l'exercice des activités ambulantes et au régime
+applicable aux personnes circulant en France sans domicile ni résidence fixe,
+ayant pour activité exclusive la tenue d'établissements destinés au
 divertissement du public :
 
 1° La déclaration prévue à l'article 613 octies doit être appuyée d'un extrait

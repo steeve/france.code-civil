@@ -22,7 +22,12 @@ même code ;
 
 6° Des entreprises adaptées mentionnées à l'article L. 5213-13 du même code ;
 
-7° De l'Agence nationale de la recherche.
+7° De l'Agence nationale de la recherche ;
+
+8° Des fondations universitaires et des fondations partenariales mentionnées
+respectivement aux articles L. 719-12 et L. 719-13 du code de l'éducation
+lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200 du
+présent code.
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux
 effectués entre la date limite de dépôt de la déclaration de l'année précédant

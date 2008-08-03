@@ -11,7 +11,9 @@ dans un contrat écrit portant sur la vente de ces produits par le fournisseur.
 
 Ce contrat comprend notamment des clauses relatives aux engagements sur les
 volumes, aux modalités de détermination du prix en fonction des volumes et des
-qualités des produits et des services concernés et à la fixation d'un prix.
+qualités des produits et des services concernés et à la fixation d'un prix. Il
+indique les avantages tarifaires consentis par le fournisseur au distributeur au
+regard des engagements de ce dernier.
 
 Lorsqu'un contrat type relatif aux activités mentionnées au premier alinéa est
 inclus dans un accord interprofessionnel adopté par l'organisation

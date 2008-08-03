@@ -16,7 +16,9 @@ Les administrations financières, les organismes de sécurité sociale, les
 institutions gérant le régime d'assurance chômage prévu par les articles L.
 351-3 et suivants du code du travail et les institutions régies par le livre IX
 du code de la sécurité sociale peuvent consentir des remises de dettes dans les
-conditions fixées à l'article L. 626-6 du présent code.
+conditions fixées à l'article L. 626-6 du présent code. Des cessions de rang de
+privilège ou d'hypothèque ou l'abandon de ces sûretés peuvent être consenties
+dans les mêmes conditions.
 
 Le conciliateur rend compte au président du tribunal de l'état d'avancement de
 sa mission et formule toutes observations utiles sur les diligences du débiteur.

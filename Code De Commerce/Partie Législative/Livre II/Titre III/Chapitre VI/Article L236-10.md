@@ -33,6 +33,7 @@ courir le délai exigé pour la remise de ce rapport préalablement à l'assembl
 générale appelée à se prononcer sur le projet de fusion.
 
 III.-Lorsque l'opération de fusion comporte des apports en nature ou des
-avantages particuliers, un commissaire aux apports est désigné dans les
-conditions prévues à l'article L. 225-8 aux fins d'établir le rapport prévu à
-l'article L. 225-147.
+avantages particuliers, le commissaire à la fusion ou, s'il n'en a pas été
+désigné en application du II, un commissaire aux apports désigné dans les
+conditions prévues à l'article L. 225-8 établit le rapport prévu à l'article L.
+225-147.

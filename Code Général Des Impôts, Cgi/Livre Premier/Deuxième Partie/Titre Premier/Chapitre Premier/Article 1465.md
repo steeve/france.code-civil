@@ -16,10 +16,10 @@ régionale.
 
 Lorsqu'il s'agit d'extensions ou de créations d'établissements industriels ou de
 recherche scientifique et technique répondant à des conditions fixées par décret
-en tenant compte notamment du volume des investissements et du nombre des
-emplois créés, l'exonération est acquise sans autre formalité. Dans les autres
-cas, elle est soumise à agrément dans les conditions prévues à l'article 1649
-nonies.
+en tenant compte notamment soit du volume des investissements et du nombre des
+emplois créés, soit du seul volume des investissements, l'exonération est
+acquise sans autre formalité. Dans les autres cas, elle est soumise à agrément
+dans les conditions prévues à l'article 1649 nonies.
 
 Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est
 accordé par une procédure décentralisée.
@@ -27,10 +27,11 @@ accordé par une procédure décentralisée.
 Quand l'agrément n'est pas nécessaire, l'exonération porte sur l'augmentation
 nette des bases d'imposition résultant des immobilisations nouvelles appréciée
 par rapport à la dernière année précédant l'opération ou par rapport à la
-moyenne des trois dernières années si celle-ci est supérieure. Toutefois, le
-prix de revient des immobilisations exonérées ne peut excéder 1 524 490 euros
-par emploi créé. Par délibération, les collectivités locales peuvent fixer ce
-montant à un niveau moins élevé.
+moyenne des trois dernières années si celle-ci est supérieure.
+
+Par délibération, les collectivités territoriales peuvent fixer un prix de
+revient maximum des immobilisations exonérées, par emploi créé ou par
+investissement.
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à
 condition de l'avoir indiqué au service des impôts au plus tard lors du dépôt de

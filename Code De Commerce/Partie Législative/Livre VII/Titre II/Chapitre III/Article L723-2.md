@@ -16,8 +16,12 @@ redressement et à la liquidation judiciaires des entreprises ou à la loi n°
 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens,
 la faillite personnelle et les banqueroutes ;
 
-4° De ne pas être frappées d'une mesure d'incapacité d'exercer une activité
-commerciale en application du chapitre VIII du titre II du livre Ier.
+4° Ne pas être frappé d'une peine d'interdiction, suivant les modalités prévues
+par l'article 131-27 du code pénal, d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le
+compte d'autrui, une entreprise commerciale ou industrielle ou une société
+commerciale.
 
 Les délégués consulaires sont désignés dans les conditions prévues aux articles
 L. 713-6 à L. 713-18.

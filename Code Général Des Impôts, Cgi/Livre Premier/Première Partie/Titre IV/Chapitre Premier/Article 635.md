@@ -50,7 +50,7 @@ bénéficiaires ou cession de parts sociales dans les sociétés dont le capital
 n'est pas divisé en actions ;
 
 7° bis Les actes portant cession de participations dans des personnes morales à
-prépondérance immobilière au sens du quatrième alinéa du 2° du I de l'article
+prépondérance immobilière au sens du troisième alinéa du 2° du I de l'article
 726 ;
 
 8° 9° (Abrogés) ;

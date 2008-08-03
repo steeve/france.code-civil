@@ -6,14 +6,14 @@ Est puni d'une amende de 15 000 euros :
 mentionnée à l'article L. 310-1 ou en méconnaissance des conditions prévues à
 cet article ;
 
-2° Le fait de procéder à une vente au déballage sans l'autorisation prévue par
-l'article L. 310-2 ou en méconnaissance de cette autorisation ;
+2° Le fait de procéder à une vente au déballage sans la déclaration prévue par
+l'article L. 310-2 ou en méconnaissance de cette déclaration ;
 
 3° Le fait de réaliser des soldes en dehors des périodes prévues au I de
 l'article L. 310-3 ou portant sur des marchandises détenues depuis moins d'un
 mois à la date de début de la période de soldes considérée ;
 
-4° Le fait d'utiliser le mot : solde(s) ou ses dérivés dans les cas où cette
+4° Le fait d'utiliser le mot : solde (s) ou ses dérivés dans les cas où cette
 utilisation ne se rapporte pas à une opération de soldes définie au I de
 l'article L. 310-3 ;
 
