@@ -1,4 +1,4 @@
 Article R751-15
 ----
-Le secrétariat de l'observatoire est assuré par le secrétaire de la commission
-départementale d'équipement commercial.
+Les dispositions de la présente section ne s'appliquent pas aux départements de
+la région Ile-de-France.

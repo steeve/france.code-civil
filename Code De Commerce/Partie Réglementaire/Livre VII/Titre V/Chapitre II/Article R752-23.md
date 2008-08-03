@@ -1,12 +1,6 @@
 Article R752-23
 ----
-Dans le délai d'un mois à compter de la date d'enregistrement d'une demande
-d'autorisation, les membres de la commission départementale d'équipement
-commercial reçoivent, par lette recommandée avec demande d'avis de réception,
-communication de cette demande accompagnée :
-
-1° De l'arrêté préfectoral fixant la composition de la commission ;
-
-2° De la lettre d'enregistrement de la demande prévue à l'article R. 752-18 ;
-
-3° Du formulaire prévu à l'article R. 751-7.
+Un exemplaire du procès-verbal de la réunion de la commission est adressé par
+courrier simple dans le délai d'un mois à chaque membre de la commission ainsi
+qu'aux services de l'Etat, auteurs du rapport d'instruction du projet et, pour
+les projets d'aménagement cinématographique, au médiateur du cinéma.

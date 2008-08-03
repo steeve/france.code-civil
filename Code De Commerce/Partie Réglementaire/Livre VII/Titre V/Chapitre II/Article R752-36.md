@@ -1,21 +1,11 @@
 Article R752-36
 ----
-Lorsqu'il est exercé par des membres de la commission, le recours est adressé,
-par lettre recommandée avec demande d'avis de réception, au président de la
-Commission nationale d'équipement commercial. Sous peine d'irrecevabilité,
-chaque page du recours porte la signature de ses auteurs.
+Trois jours au moins avant la réunion, les membres titulaires de la commission
+départementale d'aménagement commercial reçoivent, par lettre recommandée avec
+demande d'avis de réception, communication de l'ordre du jour, accompagné des
+rapports d'instruction élaborés par les services visés au deuxième alinéa de
+l'article R. 752-16.
 
-En cas de décision expresse, le recours n'est ouvert qu'aux membres ayant siégé
-à la commission.
-
-En cas de décision tacite, le recours n'est ouvert qu'aux membres titulaires.
-
-Les auteurs du recours font élection de domicile en un seul lieu ; à défaut, les
-notifications, convocations ou autres actes sont valablement adressés au
-domicile du premier signataire.
-
-Lorsqu'il est exercé par le demandeur, il est adressé, par lettre recommandée
-avec demande d'avis de réception, au président de la Commission nationale
-d'équipement commercial.
-
-Le préfet est informé dans les mêmes formes du dépôt du recours.
+En ce qui concerne les élus locaux appelés à siéger à la commission
+départementale d'aménagement commercial, la communication de ces documents à ces
+derniers vaut transmission à leurs représentants.
