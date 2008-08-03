@@ -13,3 +13,8 @@ part au vote sur la création de cette catégorie et les actions qu'ils détienn
 ne sont pas prises en compte pour le calcul du quorum et de la majorité, à moins
 que l'ensemble des actions ne fassent l'objet d'une conversion en actions de
 préférence.
+
+Par dérogation au premier alinéa, lorsque l'émission porte sur des actions de
+préférence relevant d'une catégorie déjà créée, l'évaluation des avantages
+particuliers qui en résultent est faite dans le rapport spécial mentionné à
+l'article L. 228-12.

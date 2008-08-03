@@ -8,33 +8,33 @@ d'activité professionnelle de chacun de ses membres, lorsque les conditions
 suivantes sont réunies :
 
 A.-Le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417
-ne doit pas excéder 16 251 euros pour la première part de quotient familial des
-personnes célibataires, veuves ou divorcées et 32 498 euros pour les deux
-premières parts de quotient familial des personnes soumises à imposition
-commune. Ces limites sont majorées de 4 490 euros pour chacune des demi-parts
-suivantes et de la moitié de cette somme pour chacun des quarts de part
-suivants.
+ne doit pas excéder 16 251 € pour la première part de quotient familial des
+personnes célibataires, veuves ou divorcées et 32 498 € pour les deux premières
+parts de quotient familial des personnes soumises à imposition commune. Ces
+limites sont majorées de 4 490 € pour chacune des demi-parts suivantes et de la
+moitié de cette somme pour chacun des quarts de part suivants.
 
 Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient
-l'un des événements mentionnés aux 4,5 et 6 de l'article 6, le montant des
+l'un des événements mentionnés aux 4, 5 et 6 de l'article 6, le montant des
 revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des
 déclarations souscrites est converti en base annuelle.
 
 B.-1° Le montant des revenus déclarés par chacun des membres du foyer fiscal
-bénéficiaire de la prime, à raison de l'exercice d'une ou plusieurs activités
-professionnelles, ne doit être ni inférieur à 3 743 euros ni supérieur à 17 451
-euros.
+bénéficiaire de la prime majoré du montant des revenus soumis aux versements
+libératoires prévus par l'article 151-0, à raison de l'exercice d'une ou
+plusieurs activités professionnelles, ne doit être ni inférieur à 3 743 € ni
+supérieur à 17 451 €.
 
-La limite de 17 451 euros est portée à 26 572 euros pour les personnes soumises
-à imposition commune lorsqu'un des membres du couple n'exerce aucune activité
+La limite de 17 451 € est portée à 26 572 € pour les personnes soumises à
+imposition commune lorsqu'un des membres du couple n'exerce aucune activité
 professionnelle ou dispose de revenus d'activité professionnelle d'un montant
-inférieur à 3 743 euros ;
+inférieur à 3 743 € ;
 
 2° Lorsque l'activité professionnelle n'est exercée qu'à temps partiel ou sur
 une fraction seulement de l'année civile, ou dans les situations citées au
-deuxième alinéa du A, l'appréciation des limites de 17 451 euros et de 26 572
-euros s'effectue par la conversion en équivalent temps plein du montant des
-revenus définis au 1°.
+deuxième alinéa du A, l'appréciation des limites de 17 451 € et de 26 572 €
+s'effectue par la conversion en équivalent temps plein du montant des revenus
+définis au 1°.
 
 Pour les salariés, la conversion résulte de la multiplication de ces revenus par
 le rapport entre 1 820 heures et le nombre d'heures effectivement rémunérées au
@@ -82,6 +82,11 @@ de l'article 93 sont retenus pour l'appréciation du montant des revenus défini
 aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures
 ainsi que des plus-values et moins-values professionnelles à long terme.
 
+Pour l'appréciation du montant des revenus définis aux c et e, les revenus
+soumis aux versements libératoires prévus par l'article 151-0 sont retenus pour
+leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0
+ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter.
+
 C.-Les membres du foyer fiscal ne doivent pas être passibles de l'impôt de
 solidarité sur la fortune visé à l'article 885 A au titre de l'année de
 réalisation des revenus d'activité professionnelle visés au premier alinéa.
@@ -92,12 +97,12 @@ règle fixée au III, selon les modalités suivantes :
 
 A. 1° Pour chaque personne dont les revenus professionnels évalués conformément
 au 1° du B du I, et convertis, en tant que de besoin, en équivalent temps plein
-sont inférieurs à 12 475 euros, la prime est égale à 7,7 % du montant de ces
+sont inférieurs à 12 475 €, la prime est égale à 7, 7 % du montant de ces
 revenus.
 
-Lorsque ces revenus sont supérieurs à 12 475 euros et inférieurs à 17 451 euros,
-la prime est égale à 19,3 % de la différence entre 17 451 euros et le montant de
-ces revenus ;
+Lorsque ces revenus sont supérieurs à 12 475 € et inférieurs à 17 451 €, la
+prime est égale à 19, 3 % de la différence entre 17 451 € et le montant de ces
+revenus ;
 
 2° Pour les personnes dont les revenus ont fait l'objet d'une conversion en
 équivalent temps plein, le montant de la prime est divisé par les coefficients
@@ -108,52 +113,52 @@ ainsi obtenu est majoré de 85 %.
 
 Lorsque ces coefficients sont inférieurs à 2 et supérieurs à 1, le montant
 résultant des dispositions du premier alinéa est multiplié par un coefficient
-égal à 0,15. La prime est égale au produit ainsi obtenu, majoré de 85 % du
+égal à 0, 15. La prime est égale au produit ainsi obtenu, majoré de 85 % du
 montant de la prime calculé dans les conditions prévues au 1° ;
 
 3° Pour les couples dont l'un des membres n'exerce aucune activité
 professionnelle ou dispose de revenus d'activité professionnelle d'un montant
-inférieur à 3 743 euros :
+inférieur à 3 743 € :
 
 a) Lorsque les revenus professionnels de l'autre membre du couple, évalués
-conformément au 1°, sont inférieurs ou égaux à 17 451 euros, la prime calculée
-conformément aux 1° et 2° est majorée de 83 euros ;
+conformément au 1°, sont inférieurs ou égaux à 17 451 €, la prime calculée
+conformément aux 1° et 2° est majorée de 83 € ;
 
-b) Lorsque ces revenus sont supérieurs à 17 451 euros et inférieurs ou égaux à
-24 950 euros, le montant de la prime est fixé forfaitairement à 83 euros ;
+b) Lorsque ces revenus sont supérieurs à 17 451 € et inférieurs ou égaux à 24
+950 €, le montant de la prime est fixé forfaitairement à 83 € ;
 
-c) Lorsque ces revenus sont supérieurs à 24 950 euros et inférieurs à 26 572
-euros, la prime est égale à 5,1 % de la différence entre 26 572 euros et le
-montant de ces revenus.
+c) Lorsque ces revenus sont supérieurs à 24 950 € et inférieurs à 26 572 €, la
+prime est égale à 5, 1 % de la différence entre 26 572 € et le montant de ces
+revenus.
 
 B.-Le montant total de la prime déterminé pour le foyer fiscal conformément aux
-1°,2° et a du 3° du A est majoré de 36 euros par personne à charge au sens des
+1°, 2° et a du 3° du A est majoré de 36 € par personne à charge au sens des
 articles 196 à 196 B, n'exerçant aucune activité professionnelle ou disposant de
-revenus d'activité professionnelle d'un montant inférieur à 3 743 euros.
-Toutefois, la majoration est divisée par deux pour les enfants réputés à charge
-égale de l'un et l'autre de leurs parents.
+revenus d'activité professionnelle d'un montant inférieur à 3 743 €. Toutefois,
+la majoration est divisée par deux pour les enfants réputés à charge égale de
+l'un et l'autre de leurs parents.
 
-Pour les personnes définies au II de l'article 194, la majoration de 36 euros
-est portée à 72 euros pour le premier enfant à charge qui remplit les conditions
+Pour les personnes définies au II de l'article 194, la majoration de 36 € est
+portée à 72 € pour le premier enfant à charge qui remplit les conditions
 énoncées au premier alinéa. Lorsque les contribuables entretiennent uniquement
 des enfants dont la charge est réputée également partagée entre l'un et l'autre
-des parents, la majoration de 72 euros est divisée par deux et appliquée à
-chacun des deux premiers enfants.
+des parents, la majoration de 72 € est divisée par deux et appliquée à chacun
+des deux premiers enfants.
 
 C.-Pour les personnes placées dans les situations mentionnées aux b et c du 3°
 du A et au deuxième alinéa du B, dont le montant total des revenus d'activité
-professionnelle est compris entre 17 451 euros et 26 572 euros, la majoration
-pour charge de famille est fixée forfaitairement aux montants mentionnés au B,
-quel que soit le nombre d'enfants à charge.
+professionnelle est compris entre 17 451 € et 26 572 €, la majoration pour
+charge de famille est fixée forfaitairement aux montants mentionnés au B, quel
+que soit le nombre d'enfants à charge.
 
 III.-Pour l'application du B du I et du II, les revenus des activités
 professionnelles mentionnées aux c, d et e du 3° du B du I sont majorés, ou
-diminués en cas de déficits, de 11,11 %.
+diminués en cas de déficits, de 11, 11 %.
 
 IV.-Le montant total de la prime accordée au foyer fiscal s'impute en priorité
 sur le montant de l'impôt sur le revenu dû au titre de l'année d'imposition des
 revenus d'activité déclarés. La prime n'est pas due lorsque son montant avant
-imputation est inférieur à 30 euros.
+imputation est inférieur à 30 €.
 
 L'imputation s'effectue après prise en compte des réductions d'impôt mentionnées
 aux articles 199 quater B à 200 bis et 200 octies, des autres crédits d'impôt et

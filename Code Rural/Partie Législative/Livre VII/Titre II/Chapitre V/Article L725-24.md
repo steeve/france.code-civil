@@ -9,14 +9,16 @@ au regard de la législation relative :
 pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi prévu par
 les articles L. 741-5 et L. 741-16 ;
 
-2° Aux exonérations de cotisations limitées à une zone géographique et dont la
-liste est fixée par voie réglementaire ;
+2° Aux exonérations de cotisations de sécurité sociale ;
 
-3° Aux contributions des employeurs mentionnées aux cinquième et sixième alinéas
-de l'article L. 741-10 et L. 137-11 du code de la sécurité sociale ;
+3° Aux contributions des employeurs mentionnées au chapitre VII du titre III du
+livre Ier du code de la sécurité sociale ;
 
 4° Aux mesures réglementaires spécifiques relatives aux avantages en nature et
-aux frais professionnels prises en application de l'article L. 741-10.
+aux frais professionnels prises en application de l'article L. 741-10 du présent
+code ;
+
+5° Aux exemptions d'assiette mentionnées au même article L. 741-10.
 
 Les caisses de mutualité sociale agricole doivent également se prononcer de
 manière explicite sur toute demande d'un cotisant ou futur cotisant relative à

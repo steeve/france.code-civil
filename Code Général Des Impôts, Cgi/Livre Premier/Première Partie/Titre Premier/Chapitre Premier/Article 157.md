@@ -49,9 +49,9 @@ limite de 10 % du montant de ces placements ;
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la
 délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 
-7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à
-l'exception des intérêts des livrets supplémentaires ouverts dans les conditions
-prévues par décret ;
+7° Les intérêts des sommes inscrites sur les livrets A, ainsi que ceux des
+sommes inscrites sur les comptes spéciaux sur livret du Crédit mutuel ouverts
+avant le 1er janvier 2009 ;
 
 7° bis (Disposition périmée) ;
 
@@ -97,8 +97,8 @@ Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
 9° quater Le produit des dépôts effectués sur un livret de développement durable
-ouvert et fonctionnant dans les conditions et limites prévues aux articles L.
-221-27 et L. 221-28 du code monétaire et financier ;
+ouvert et fonctionnant dans les conditions et limites prévues à l'article L.
+221-27 du code monétaire et financier ;
 
 9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la

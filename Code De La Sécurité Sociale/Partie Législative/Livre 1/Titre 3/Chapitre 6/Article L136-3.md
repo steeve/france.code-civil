@@ -41,6 +41,6 @@ commerciaux et de bénéfices industriels et commerciaux visés à l'alinéa
 précédent est calculée à titre provisionnel sur les revenus professionnels, tels
 que définis et déterminés au présent article, majorés de 25 %.
 
-Par dérogation aux troisième et quatrième alinéas, le dernier alinéa de
-l'article L. 131-6 est applicable lorsque les employeurs ou les travailleurs
-indépendants ont exercé l'option prévue par cet alinéa.
+Par dérogation aux troisième et quatrième alinéas, l'article L. 133-6-8 est
+applicable lorsque les employeurs ou les travailleurs indépendants ont exercé
+l'option prévue par cet article.

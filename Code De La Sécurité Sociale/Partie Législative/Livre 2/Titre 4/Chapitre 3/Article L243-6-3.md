@@ -5,14 +5,15 @@ de manière explicite sur toute demande d'un cotisant ou futur cotisant,
 présentée en sa qualité d'employeur, ayant pour objet de connaître l'application
 à sa situation de la législation relative :
 
-1° Aux exonérations de cotisations limitées à une zone géographique et dont la
-liste est fixée par voie réglementaire ;
+1° Aux exonérations de cotisations de sécurité sociale ;
 
-2° Aux contributions des employeurs mentionnées aux cinquième et sixième alinéas
-de l'article L. 242-1 et à l'article L. 137-11 ;
+2° Aux contributions des employeurs mentionnées au chapitre VII du titre III du
+livre Ier ;
 
 3° Aux mesures réglementaires spécifiques relatives aux avantages en nature et
-aux frais professionnels prises en application de l'article L. 242-1.
+aux frais professionnels prises en application de l'article L. 242-1 ;
+
+4° Aux exemptions d'assiette mentionnées à l'article L. 242-1.
 
 La demande du cotisant ne peut être formulée lorsqu'un contrôle prévu à
 l'article L. 243-7 a été engagé.

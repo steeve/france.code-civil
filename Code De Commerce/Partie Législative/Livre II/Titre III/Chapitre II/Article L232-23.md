@@ -15,5 +15,10 @@ les comptes consolidés et le rapport du conseil de surveillance ;
 2° La proposition d'affectation du résultat soumise à l'assemblée et la
 résolution d'affectation votée.
 
+Lorsque l'associé unique, personne physique, d'une société par actions
+simplifiée assume personnellement la présidence de la société, il est fait
+exception à l'obligation de déposer le rapport de gestion qui doit toutefois
+être tenu à la disposition de toute personne qui en fait la demande.
+
 II. - En cas de refus d'approbation des comptes annuels, une copie de la
 délibération de l'assemblée est déposée dans le même délai.

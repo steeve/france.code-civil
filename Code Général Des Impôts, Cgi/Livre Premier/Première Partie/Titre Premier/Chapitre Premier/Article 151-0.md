@@ -36,8 +36,7 @@ provenant de la cession de biens affectés à l'exploitation, qui demeurent
 imposables dans les conditions visées au quatrième alinéa du 1 de l'article 50-0
 et au deuxième alinéa du 1 de l'article 102 ter.
 
-IV.-L'option prévue au premier alinéa du I est adressée à l'organisme mentionné
-au deuxième alinéa de l'article L. 133-6-8 du code de la sécurité sociale au
+IV.-L'option prévue au premier alinéa du I est adressée à l'administration au
 plus tard le 31 décembre de l'année précédant celle au titre de laquelle elle
 est exercée et, en cas de création d'activité, au plus tard le dernier jour du
 troisième mois qui suit celui de la création.L'option s'applique tant qu'elle

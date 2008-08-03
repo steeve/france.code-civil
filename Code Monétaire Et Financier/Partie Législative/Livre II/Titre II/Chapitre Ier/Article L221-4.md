@@ -1,6 +1,11 @@
 Article L221-4
 ----
-Les mineurs sont admis à se faire ouvrir des livrets sans l'intervention de leur
-représentant légal. Ils peuvent retirer sans cette intervention, mais seulement
-après l'âge de seize ans révolus, les sommes figurant sur les livrets ainsi
-ouverts, sauf opposition de la part de leur représentant légal.
+Un décret en Conseil d'Etat précise les modalités d'ouverture, de fonctionnement
+et de clôture du livret A.
+
+Les versements effectués sur un livret A ne peuvent porter le montant inscrit
+sur le livret au-delà d'un plafond fixé par le décret prévu au premier alinéa.
+
+Le même décret précise les montants minimaux des opérations individuelles de
+retrait et de dépôt pour les établissements qui proposent le livret A et pour
+l'établissement de crédit mentionné à l'article L. 518-25-1.

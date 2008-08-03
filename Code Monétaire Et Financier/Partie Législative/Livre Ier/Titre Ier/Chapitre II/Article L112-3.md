@@ -7,13 +7,11 @@ indexés sur le niveau général des prix :
 1° Les titres de créance et les instruments financiers à terme mentionnés aux 2
 et 4 du I de l'article L. 211-1 ;
 
-2° Les premiers livrets de la Caisse nationale d'épargne et des caisses
-d'épargne et de prévoyance, ainsi que les comptes spéciaux sur livret du crédit
-mutuel définis à l'article L. 221-1 ;
+2° Les livrets A définis à l'article L. 221-1 ;
 
 3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ;
 
-4° Les comptes pour le développement industriel définis à l'article L. 221-27 ;
+4° Les livrets de développement durable définis à l'article L. 221-27 ;
 
 5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la
 construction et de l'habitation ;

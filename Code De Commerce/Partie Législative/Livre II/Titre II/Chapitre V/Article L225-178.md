@@ -17,9 +17,11 @@ d'administration ou le directoire, selon le cas, constate, s'il y a lieu, le
 nombre et le montant des actions émises pendant la durée de l'exercice à la
 suite des levées d'options et apporte les modifications nécessaires aux clauses
 des statuts relatives au montant du capital social et au nombre des actions qui
-le représentent. Le président peut, sur délégation du conseil d'administration
-ou du directoire, procéder à ces opérations dans le mois qui suit la clôture de
-l'exercice. Le conseil d'administration ou le directoire, ou le président en cas
-de délégation, peuvent également, à toute époque, procéder à cette constatation
-pour l'exercice en cours et apporter aux statuts les modifications
-correspondantes.
+le représentent. Le conseil d'administration peut déléguer au directeur général
+ou, en accord avec ce dernier, à un ou plusieurs directeurs généraux délégués
+les pouvoirs pour procéder, dans le mois qui suit la clôture de l'exercice, aux
+opérations mentionnées à la phrase précédente. Le directoire peut, aux mêmes
+fins, déléguer les mêmes pouvoirs à son président ou, en accord avec ce dernier,
+à un ou plusieurs de ses membres. Le conseil d'administration ou le directoire,
+ou les personnes qui ont reçu délégation, peuvent également, à toute époque,
+procéder à ces opérations pour l'exercice en cours.

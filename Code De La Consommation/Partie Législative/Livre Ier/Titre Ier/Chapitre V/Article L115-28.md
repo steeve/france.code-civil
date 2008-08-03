@@ -1,26 +1,24 @@
 Article L115-28
 ----
 Peuvent seuls procéder à la certification de produits ou de services les
-organismes qui ont déposé auprès de l'autorité administrative une déclaration
-relative à leur activité et contenant notamment toutes informations nécessaires
-en ce qui concerne les mesures destinées à garantir leur impartialité et leur
-compétence.
+organismes qui bénéficient d'une accréditation délivrée par l'instance nationale
+d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre
+de l'Union européenne, membre de la coopération européenne pour l'accréditation
+et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant la
+certification considérée.
 
-Les organismes qui bénéficient d'une accréditation par une instance reconnue à
-cet effet par les pouvoirs publics sont dispensés de fournir ces dernières
-informations.
+Un organisme non encore accrédité pour la certification considérée peut, dans
+des conditions définies par décret, effectuer des certifications, sous réserve
+d'avoir déposé une demande d'accréditation.
 
 Toute référence à la certification dans la publicité, l'étiquetage ou la
 présentation de tout produit ou service, ainsi que sur les documents commerciaux
-qui s'y rapportent, doit être accompagnée d'informations claires sur la nature
-et l'étendue des caractéristiques certifiées.
+qui s'y rapportent doit être accompagnée d'informations claires permettant au
+consommateur ou à l'utilisateur d'avoir facilement accès aux caractéristiques
+certifiées. La consultation des référentiels de certification s'effectue soit
+gratuitement auprès de l'organisme certificateur, soit par la délivrance
+d'exemplaires aux frais du demandeur.
 
-L'existence des référentiels fait l'objet d'une mention au Journal officiel de
-la République française. Leur consultation s'effectue soit gratuitement sur
-place auprès de l'organisme certificateur, soit par la délivrance de copies aux
-frais du demandeur.
-
-Les organismes certificateurs déposent comme marques collectives de
-certification, conformément à la législation sur les marques de fabrique, de
-commerce et de service, le signe distinctif qui, le cas échéant, accompagne ou
-matérialise la certification.
+Le signe distinctif qui, le cas échéant, accompagne ou matérialise la
+certification est déposé comme marque collective de certification, conformément
+à la législation sur les marques de fabrique, de commerce et de service.

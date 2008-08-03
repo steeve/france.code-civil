@@ -2,8 +2,8 @@ Article L115-29
 ----
 Les dispositions des articles L. 115-27 et L. 115-28 ne sont pas applicables :
 
-1° A la certification des denrées alimentaires et des produits agricoles non
-alimentaires et non transformés mentionnés à l'article L. 115-21 ;
+1° A la certification des produits agricoles, forestiers, alimentaires ou de la
+mer ;
 
 2° Aux autorisations de mise sur le marché des médicaments à usage humain ou
 vétérinaire faisant l'objet des dispositions du livre V du code de la santé

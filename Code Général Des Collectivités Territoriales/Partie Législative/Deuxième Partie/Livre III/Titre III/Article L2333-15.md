@@ -1,17 +1,17 @@
 Article L2333-15
 ----
-La taxe sur les emplacements publicitaires est due par l'exploitant de
-l'emplacement au 1er janvier de l'année d'imposition ou, à défaut, par le
-propriétaire à cette même date. La taxe sur les affiches publicitaires est due,
-le premier jour du mois suivant l'apposition de l'affiche, par ceux dans
-l'intérêt desquels l'affiche a été apposée ou, à défaut, par l'afficheur ou
-l'entrepreneur d'affichage ou, à défaut, par l'imprimeur pour les affiches
-sorties de ses presses.
+Toute infraction aux articles L. 2333-6 à L. 2333-13 et L. 2333-16 ainsi qu'aux
+dispositions réglementaires prises pour leur application est punie d'une amende
+contraventionnelle dont le taux est fixé par décret en Conseil d'Etat.
 
-Lorsque, dans une commune où la taxe sur les emplacements publicitaires est
-applicable, l'emplacement publicitaire est créé après le 1er janvier, la taxe
-est due à la date de création de l'emplacement par l'exploitant de celui-ci ou,
-à défaut par le propriétaire, pour la fraction correspondante de l'année
-d'imposition. Lorsque l'emplacement est supprimé en cours d'année sur décision
-administrative, la taxe n'est pas due pour les mois restant à courir à compter
-de la suppression de l'emplacement.
+Lorsque la contravention a entraîné le défaut de paiement, dans le délai légal,
+de tout ou partie de la taxe, le tribunal de police condamne en outre le
+contrevenant au paiement du quintuple des droits dont la commune ou
+l'établissement public de coopération intercommunale a été privé.
+
+Le recouvrement des amendes peut être poursuivi selon les modalités prévues par
+l'article L. 2333-14.
+
+Les collectivités territoriales sont admises à recourir aux agents de la force
+publique pour assurer le contrôle de la taxe et pour constater les
+contraventions.

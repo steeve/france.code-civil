@@ -1,18 +1,18 @@
 Article L2333-10
 ----
-Les tarifs maximaux de la taxe sur les emplacements publicitaires sont, en 2009,
-les suivants (par mètre carré et par an) :
+La commune ou l'établissement public de coopération intercommunale peut, par une
+délibération prise avant le 1er juillet de l'année précédant celle de
+l'imposition :
 
-1° 100 euros pour les supports non numériques ni éclairés ni lumineux ;
+-fixer tout ou partie des tarifs prévus par l'article L. 2333-9 à des niveaux
+inférieurs aux tarifs maximaux ;
 
-2° 150 euros pour les supports non numériques éclairés ou lumineux ;
+-dans le cas des communes de moins de 50 000 habitants appartenant à un
+établissement public de coopération intercommunale de 50 000 habitants et plus,
+fixer le tarif prévu par le 1° du B de l'article L. 2333-9 à un niveau inférieur
+ou égal à 20 € par mètre carré ;
 
-3° 200 euros pour les supports numériques ne permettant pas l'affichage d'images
-en couleurs ;
-
-4° 300 euros pour les supports numériques permettant l'affichage d'images en
-couleurs ;
-
-5° Dans le cas des enseignes et préenseignes, le tarif applicable au type de
-support concerné, sous réserve des dispositions du 5° de l'article L. 2333-7, du
-deuxième alinéa de l'article L. 2333-12 et de l'article L. 2333-13.
+-dans le cas des communes de 50 000 habitants et plus appartenant à un
+établissement public de coopération intercommunale de 200 000 habitants et plus,
+fixer le tarif prévu par le 1° du B de l'article L. 2333-9 à un niveau inférieur
+ou égal à 30 € par mètre carré.

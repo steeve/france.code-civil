@@ -2,11 +2,12 @@ Article L221-27
 ----
 Le livret de développement durable est ouvert par les personnes physiques ayant
 leur domicile fiscal en France dans les établissements et organismes autorisés à
-recevoir des dépôts. Les sommes déposées sur ce livret servent au financement
-des petites et moyennes entreprises et des travaux d'économies d'énergie dans
-les bâtiments anciens.
+recevoir des dépôts. Les sommes déposées sur ce livret sont employées
+conformément à l'article L. 221-5.
 
-Le plafond des versements sur ce livret est fixé par voie réglementaire.
+Les versements effectués sur un livret de développement durable ne peuvent
+porter le montant inscrit sur le livret au-delà d'un plafond fixé par voie
+réglementaire.
 
 Il ne peut être ouvert qu'un livret par contribuable ou un livret pour chacun
 des époux ou partenaires liés par un pacte civil de solidarité, soumis à une

@@ -5,15 +5,15 @@ consommateurs, sont abusives les clauses qui ont pour objet ou pour effet de
 créer, au détriment du non-professionnel ou du consommateur, un déséquilibre
 significatif entre les droits et obligations des parties au contrat.
 
-Des décrets en Conseil d'Etat, pris après avis de la commission instituée à
-l'article L. 132-2, peuvent déterminer des types de clauses qui doivent être
-regardées comme abusives au sens du premier alinéa.
+Un décret en Conseil d'Etat, pris après avis de la commission instituée à
+l'article L. 132-2, détermine une liste de clauses présumées abusives ; en cas
+de litige concernant un contrat comportant une telle clause, le professionnel
+doit apporter la preuve du caractère non abusif de la clause litigieuse.
 
-Une annexe au présent code comprend une liste indicative et non exhaustive de
-clauses qui peuvent être regardées comme abusives si elles satisfont aux
-conditions posées au premier alinéa. En cas de litige concernant un contrat
-comportant une telle clause, le demandeur n'est pas dispensé d'apporter la
-preuve du caractère abusif de cette clause.
+Un décret pris dans les mêmes conditions détermine des types de clauses qui, eu
+égard à la gravité des atteintes qu'elles portent à l'équilibre du contrat,
+doivent être regardées, de manière irréfragable, comme abusives au sens du
+premier alinéa.
 
 Ces dispositions sont applicables quels que soient la forme ou le support du
 contrat. Il en est ainsi notamment des bons de commande, factures, bons de

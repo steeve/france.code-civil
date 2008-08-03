@@ -12,7 +12,7 @@ adressée à l'intéressé dans les deux mois suivant la demande.
 Lorsque l'organisme d'habitations à loyer modéré met en vente un logement
 vacant, il doit l'offrir en priorité à l'ensemble des locataires de logements de
 l'organisme dans le département par voie d'une publicité dont les modalités sont
-fixées par décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le
+fixées par décret en Conseil d'Etat.A défaut d'acquéreur prioritaire, le
 logement peut être offert à toute autre personne physique ou à une collectivité
 locale ou un groupement de collectivités locales ou un organisme sans but
 lucratif qui s'engage à mettre ce logement pendant au moins quinze ans à la
@@ -50,9 +50,11 @@ Dans les quartiers situés dans les zones urbaines sensibles définies à l'arti
 développement du territoire ou dans les territoires définis à l'article 6 de la
 loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville
 et la rénovation urbaine, les organismes d'habitations à loyer modéré peuvent,
-après avis de la commune d'implantation, louer à titre temporaire des locaux
-d'habitation situés en rez-de-chaussée, en vue d'y exercer des activités
-économiques. Passé le délai d'un mois, cet avis est réputé favorable.
+après avis de la commune d'implantation, louer des locaux d'habitation situés en
+rez-de-chaussée, en vue d'y exercer des activités économiques. Passé le délai
+d'un mois, cet avis est réputé favorable. Le bail d'habitation de ces locaux
+n'est pas soumis au chapitre V du titre IV du livre Ier du code de commerce et
+ne peut être un élément constitutif du fonds de commerce.
 
-Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne
-s'appliquent pas.
+Dans ce cas, les dispositions prévues aux articles L. 311-3, L. 631-7, L.
+631-7-4 et L. 631-7-5 ne s'appliquent pas.

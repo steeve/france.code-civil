@@ -1,17 +1,23 @@
 Article L2333-7
 ----
-Ces deux taxes frappent :
+Cette taxe frappe les dispositifs fixes suivants, visibles de toute voie ouverte
+à la circulation publique, au sens du chapitre I er du titre VIII du livre V du
+code de l'environnement :
 
-1° Les supports non numériques ni éclairés ni lumineux ;
+-les dispositifs publicitaires ;
 
-2° Les supports non numériques éclairés ou lumineux ;
+-les enseignes ;
 
-3° Les supports numériques ne permettant pas l'affichage d'images en couleurs ;
+-les préenseignes, y compris celles visées par les deuxième et troisième alinéas
+de l'article L. 581-19 du code de l'environnement.
 
-4° Les supports numériques permettant l'affichage d'images en couleurs ;
+Elle est assise sur la superficie exploitée, hors encadrement, du dispositif.
 
-5° Sauf délibération contraire du conseil municipal, portant sur une ou
-plusieurs de ces catégories, les enseignes et préenseignes, les emplacements
-dépendant des concessions municipales d'affichage, les Abribus et autres
-éléments de mobilier urbain et les emplacements utilisés pour recevoir des
-plans, des informations ou des annonces.
+Sont exonérés :
+
+-les dispositifs exclusivement dédiés à l'affichage de publicités à visée non
+commerciale ou concernant des spectacles ;
+
+-sauf délibération contraire de l'organe délibérant de la commune ou de
+l'établissement public de coopération intercommunale, les enseignes, si la somme
+de leurs superficies est égale au plus à 7 mètres carrés.

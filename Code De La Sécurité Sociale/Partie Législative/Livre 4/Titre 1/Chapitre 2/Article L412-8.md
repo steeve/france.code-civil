@@ -46,16 +46,13 @@ définie par le livre IX du code du travail ;
 
 3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
 rééducation professionnelle dans les conditions prévues par le présent code, les
-victimes menant des actions de formation professionnelle ou d'autres actions
-d'évaluation, d'accompagnement, d'information et de conseil dans les conditions
-prévues au quatrième alinéa de l'article L. 433-1, les assurés sociaux
-bénéficiaires de l'article L. 324-1 ou titulaires d'une pension d'invalidité en
-vertu du chapitre 1er du titre IV du livre III et les personnes autres que
-celles appartenant aux catégories ci-dessus et qui, en vertu d'un texte
-législatif ou réglementaire, effectuent un stage de rééducation professionnelle
-dans les écoles administrées par l'office national des anciens combattants et
-victimes de la guerre, pour les accidents survenus par le fait ou à l'occasion
-de la réadaptation ou de la rééducation ;
+assurés sociaux bénéficiaires de l'article L. 324-1 ou titulaires d'une pension
+d'invalidité en vertu du chapitre 1er du titre IV du livre III et les personnes
+autres que celles appartenant aux catégories ci-dessus et qui, en vertu d'un
+texte législatif ou réglementaire, effectuent un stage de rééducation
+professionnelle dans les écoles administrées par l'office national des anciens
+combattants et victimes de la guerre, pour les accidents survenus par le fait ou
+à l'occasion de la réadaptation ou de la rééducation ;
 
 4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
@@ -110,11 +107,11 @@ national ;
 appui à la création ou à la reprise d'une activité économique au titre de
 l'article L. 127-1 du code de commerce ;
 
-15°) Les tuteurs non rémunérés mentionnés à l'article L. 129-1 du code de
-commerce ;
+14°) bis Les personnes mentionnées au 2 de l'article 200 octies du code général
+des impôts ;
 
-15°) (2) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du
-code du service national.
+15°) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code du
+service national.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
 aux personnes mentionnées aux a, b et f du 2°.

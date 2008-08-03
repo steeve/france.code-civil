@@ -13,9 +13,14 @@ prévues par les statuts, exercées collectivement par les associés.
 Dans les sociétés ne comprenant qu'un seul associé, le rapport de gestion, les
 comptes annuels et le cas échéant les comptes consolidés sont arrêtés par le
 président. L'associé unique approuve les comptes, après rapport du commissaire
-aux comptes, dans le délai de six mois à compter de la clôture de l'exercice.
-L'associé unique ne peut déléguer ses pouvoirs. Ses décisions sont répertoriées
-dans un registre.
+aux comptes s'il en existe un, dans le délai de six mois à compter de la clôture
+de l'exercice.L'associé unique ne peut déléguer ses pouvoirs. Ses décisions sont
+répertoriées dans un registre. Lorsque l'associé unique, personne physique,
+assume personnellement la présidence de la société, le dépôt, dans le même
+délai, au registre du commerce et des sociétés de l'inventaire et des comptes
+annuels dûment signés vaut approbation des comptes sans que l'associé unique ait
+à porter au registre prévu à la phrase précédente le récépissé délivré par le
+greffe du tribunal de commerce.
 
 Les décisions prises en violation des dispositions du présent article peuvent
 être annulées à la demande de tout intéressé.

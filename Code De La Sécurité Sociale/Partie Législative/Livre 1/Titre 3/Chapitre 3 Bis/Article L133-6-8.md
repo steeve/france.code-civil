@@ -1,6 +1,6 @@
 Article L133-6-8
 ----
-Par dérogation aux cinquième et dernier alinéas de l'article L. 131-6, les
+Par dérogation aux quatrième et sixième alinéas de l'article L. 131-6, les
 travailleurs indépendants bénéficiant des régimes définis aux articles 50-0 et
 102 ter du code général des impôts peuvent opter, sur simple demande, pour que
 l'ensemble des cotisations et contributions de sécurité sociale dont ils sont

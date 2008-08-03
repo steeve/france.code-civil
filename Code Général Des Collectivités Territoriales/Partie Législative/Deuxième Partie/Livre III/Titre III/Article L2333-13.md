@@ -1,9 +1,10 @@
 Article L2333-13
 ----
-Les communes peuvent, par délibération du conseil municipal, pour les enseignes,
-et pour les préenseignes visées au troisième alinéa de l'article L. 581-19 du
-code de l'environnement, fixer des tarifs inférieurs à ceux des autres types de
-supports.
+La taxe est acquittée par l'exploitant du dispositif ou, à défaut, par le
+propriétaire ou, à défaut, par celui dans l'intérêt duquel le dispositif a été
+réalisé.
 
-Elles peuvent en outre, dans les mêmes conditions, instituer une tarification
-variable selon les rues.
+Lorsque le dispositif est créé après le 1er janvier, la taxe est due à compter
+du premier jour du mois suivant celui de la création du dispositif. Lorsque le
+dispositif est supprimé en cours d'année, la taxe n'est pas due pour les mois
+restant à courir à compter de la suppression du dispositif.
