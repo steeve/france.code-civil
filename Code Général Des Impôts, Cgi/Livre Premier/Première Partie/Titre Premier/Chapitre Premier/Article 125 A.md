@@ -31,7 +31,7 @@ l'imposition de droit commun.
 
 II bis. (Abrogé)
 
-III. - Le prélèvement est obligatoirement applicable aux revenus et produits
+III.-Le prélèvement est obligatoirement applicable aux revenus et produits
 mentionnés aux I et II, dont le débiteur est établi ou domicilié en France et
 qui sont payés hors de France, dans un Etat ou territoire non coopératif au sens
 de l'article 238-0 A, sauf si le débiteur démontre que les opérations auxquelles
@@ -51,7 +51,9 @@ d'épargne populaire dont la durée est égale ou supérieure à 4 ans ; il est 
 la durée est inférieure à quatre ans ;
 
 Ce taux est également applicable aux intérêts des plans d'épargne-logement ne
-bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157.
+bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157 et aux
+intérêts des comptes épargne d'assurance pour la forêt ne bénéficiant pas de
+l'exonération mentionnée au 23° du même article.
 
 1° bis à 18 % pour les produits des titres de créances négociables sur un marché
 réglementé en application d'une disposition législative particulière et non
