@@ -79,6 +79,19 @@ vue de subventionner la réalisation de travaux de conservation, de restauration
 ou d'accessibilité de monuments historiques classés ou inscrits ouvrent droit à
 la réduction d'impôt dans les mêmes conditions.
 
+g) De fonds de dotation :
+
+1° Répondant aux caractéristiques mentionnées au a ;
+
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des
+dons et versements mentionnés au premier alinéa du présent 1 à des organismes
+mentionnés aux a à e bis ou à la Fondation du patrimoine dans les conditions
+mentionnées aux deux premiers alinéas du f, ou à une fondation ou association
+reconnue d'utilité publique agréée par le ministre chargé du budget dans les
+conditions mentionnées au quatrième alinéa du même f. Ces organismes délivrent
+aux fonds de dotation une attestation justifiant le montant et l'affectation des
+versements effectués à leur profit.
+
 Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés
 à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte
 d'oeuvres ou d'organismes mentionnés au a.

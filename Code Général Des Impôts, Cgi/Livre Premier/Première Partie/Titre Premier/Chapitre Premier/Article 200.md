@@ -36,11 +36,24 @@ lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou
 l'organisation d'expositions d'art contemporain, à la condition que les
 versements soient affectés à cette activité. Cette disposition ne s'applique pas
 aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
-à la violence.
+à la violence ;
+
+g) De fonds de dotation :
+
+1° Répondant aux caractéristiques mentionnées au b ;
+
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des
+dons et versements mentionnés au premier alinéa du présent 1 à des organismes
+mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions
+mentionnées aux deux premiers alinéas du 2 bis, ou à une fondation ou
+association reconnue d'utilité publique agréée par le ministre chargé du budget
+dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes
+délivrent aux fonds de dotation une attestation justifiant le montant et
+l'affectation des versements effectués à leur profit. »
 
 Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre
 d'une activité bénévole et en vue strictement de la réalisation de l'objet
-social d'un organisme mentionné aux deuxième à septième alinéas, lorsque ces
+social d'un organisme mentionné aux deuxième à huitième alinéas, lorsque ces
 frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et
 que le contribuable a renoncé expressément à leur remboursement.
 
