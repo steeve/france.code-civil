@@ -7,6 +7,8 @@ Peut se prévaloir d'un droit de rétention sur la chose :
 2° Celui dont la créance impayée résulte du contrat qui l'oblige à la livrer ;
 
 3° Celui dont la créance impayée est née à l'occasion de la détention de la
-chose.
+chose ;
+
+4° Celui qui bénéficie d'un gage sans dépossession.
 
 Le droit de rétention se perd par le dessaisissement volontaire.
