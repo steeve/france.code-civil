@@ -12,7 +12,7 @@ d'accès aux fonctions de notaire et au 6° de l'article 1er du décret du 14 ao
 1975 relatif aux conditions d'accès à la profession d'huissier de justice.
 
 La dispense accordée en application de l'alinéa précédent ne peut aboutir à
-réduire la durée du stage à moins d'un an.
+réduire la durée du stage à moins de six mois.
 
 La commission peut en outre proposer au garde des sceaux, ministre de la justice
 d'imposer au greffier demandeur de suivre, pendant la durée de son stage, une
