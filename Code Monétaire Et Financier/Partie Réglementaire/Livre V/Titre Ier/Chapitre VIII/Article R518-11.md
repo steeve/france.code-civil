@@ -1,5 +1,5 @@
 Article R518-11
 ----
-En cas d'absence ou de maladie du directeur général, le secrétaire général le
-remplace dans l'exercice de ses fonctions. Il est, dans ce cas, soumis aux mêmes
-règles et à la même responsabilité que le directeur général.
+En cas d'absence ou d'empêchement du directeur général ou de vacance de
+l'emploi, son intérim est assuré par le directeur désigné à cet effet par arrêté
+du directeur général publié au Journal officiel de la République française.
