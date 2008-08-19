@@ -12,14 +12,13 @@ de cabines installées sur le domaine public dans la commune est supérieur au
 nombre de cabines tel que résultant des obligations de service universel, aucune
 compensation n'est due.
 
-L'opérateur de service universel fournit à l'Autorité de régulation des
+Chaque opérateur de service universel fournit à l'Autorité de régulation des
 communications électroniques et des postes les éléments permettant de réaliser
 l'évaluation décrite à l'alinéa précédent.
 
 Les recettes prises en compte dans ce calcul comprennent en particulier une
-affectation aux cabines des recettes suivantes :
-
-vente de cartes téléphoniques prépayées, publicité sur les cabines publiques et
-les cartes téléphoniques prépayées ainsi que les recettes générées par les
-autres cartes utilisables dans les cabines téléphoniques. Cette affectation est
-faite au prorata du trafic des cabines.
+affectation aux cabines des recettes suivantes : vente de cartes téléphoniques
+prépayées, publicité sur les cabines publiques et les cartes téléphoniques
+prépayées ainsi que les recettes générées par les autres cartes utilisables dans
+les cabines téléphoniques. Cette affectation est faite au prorata du trafic des
+cabines.

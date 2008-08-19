@@ -7,17 +7,16 @@ L'annuaire universel sous forme électronique prévu par les mêmes dispositions
 permet l'accès immédiat du public, à un tarif abordable, aux informations qu'il
 contient et qui sont régulièrement mises à jour.
 
-L'opérateur chargé, en application de l'article L. 35-2, de fournir la
-composante du service universel mentionnée au 2° de l'article L. 35-1 met
-gratuitement à la disposition de tout abonné au service téléphonique au public
-un exemplaire des volumes départementaux de l'annuaire universel du département
-dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit d'un abonnement à
-la téléphonie mobile, du département où se situe l'adresse de facturation, y
-compris lorsque l'intéressé a fait usage des droits prévus à l'article R. 10.
-Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
-dispose de plusieurs abonnements correspondant à une même adresse, il est mis à
-disposition un seul exemplaire gratuit. Cet opérateur propose à la vente
-l'annuaire universel à un tarif abordable.
+Tout opérateur chargé, en application de l'article L. 35-2, de fournir
+l'annuaire universel sous forme imprimée met gratuitement à la disposition de
+tout abonné au service téléphonique au public un exemplaire des volumes
+départementaux de l'annuaire universel du département dans lequel l'abonnement a
+été souscrit ou, lorsqu'il s'agit d'un abonnement à la téléphonie mobile, du
+département où se situe l'adresse de facturation, y compris lorsque l'intéressé
+a fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont
+le même domicile ou lorsque la même personne dispose de plusieurs abonnements
+correspondant à une même adresse, il est mis à disposition un seul exemplaire
+gratuit. Cet opérateur propose à la vente l'annuaire universel à un tarif
+abordable.
 
-Le service universel de renseignements assuré par cet opérateur est accessible à
-un tarif abordable.
+Le service universel de renseignements est accessible à un tarif abordable.

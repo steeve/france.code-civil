@@ -1,14 +1,15 @@
 Article R20-30-3
 ----
-L'opérateur chargé, en application de l'article L. 35-2, de fournir la
+Tout opérateur chargé, en application de l'article L. 35-2, de fournir la
 composante du service universel mentionnée au 3° de l'article L. 35-1 met à
 disposition du public sur le domaine public des installations, dénommées
 publiphones, permettant d'accéder sans restriction au service téléphonique au
 public.
 
 Cet opérateur met à disposition du public au moins un publiphone dans chaque
-commune. Dans les communes dont la population dépasse 1 000 habitants, cet
-opérateur implante au moins un second publiphone.
+commune de la zone géographique dans laquelle il est désigné. Dans les communes
+dont la population dépasse 1 000 habitants, cet opérateur implante au moins un
+second publiphone.
 
 Cet opérateur assure à partir de ces publiphones l'acheminement des
 communications en provenance et à destination de la métropole, des départements

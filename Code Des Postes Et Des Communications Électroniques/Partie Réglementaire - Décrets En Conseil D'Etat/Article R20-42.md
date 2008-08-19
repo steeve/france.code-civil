@@ -14,7 +14,7 @@ en cours. Ce montant doit ensuite faire l'objet d'une approbation du comité
 mentionné au premier alinéa au plus tard le 15 janvier de l'année considérée.
 
 Le compte est alimenté par virements effectués par les opérateurs débiteurs aux
-échéances fixées par l'article R. 20-39. L'opérateur débiteur prend toutes
+échéances fixées par l'article R. 20-39.L'opérateur débiteur prend toutes
 dispositions pour que les fonds parviennent à bonne date à la Caisse des dépôts
 et consignations. Les reversements au profit des opérateurs créditeurs sont
 effectués dans les dix jours suivant la date d'échéance.
@@ -24,7 +24,8 @@ opérateurs créditeurs est égal aux sommes effectivement recouvrées par le fo
 géré par la Caisse des dépôts et consignations, minorées d'une somme
 correspondant à la moitié des frais prévisionnels de gestion visés au 2e alinéa
 du présent article. Les sommes non réglées au jour de l'échéance portent intérêt
-de droit au taux de l'Euribor 12 mois du jour de l'échéance.
+de droit au taux de l'Euribor 12 mois du jour de l'échéance majoré de quatre
+points.
 
 Dans le cas où l'ensemble des sommes dues ne sont pas recouvrées, le montant
 reversé à chacun des opérateurs créditeurs est fixé au prorata du montant qu'il
