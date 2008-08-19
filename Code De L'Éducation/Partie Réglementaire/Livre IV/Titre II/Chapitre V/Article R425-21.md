@@ -13,3 +13,9 @@ les armées ou les formations rattachées. Toutefois, en cas de cessation de ce
 service avant trois ans pour toute autre cause que l'inaptitude physique, les
 sommes dues sont proportionnelles à la durée du service restant à accomplir pour
 parfaire les trois années.
+
+3° L'intéressé, ayant suivi une scolarité dans une classe préparatoire aux
+études supérieures n'est pas admis, par décision du commandant du lycée de la
+défense prise sur proposition du conseil de classe et justifiée par
+l'insuffisance de ses résultats, à poursuivre sa scolarité dans une classe
+préparatoire aux grandes écoles d'un lycée de la défense.
