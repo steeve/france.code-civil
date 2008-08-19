@@ -8,7 +8,9 @@ d'établissement et du conseil exécutif ainsi que, le cas échéant, de la
 commission statutaire nationale, soit nommés dans un emploi de praticien à titre
 permanent, soit admis à prolonger leur période probatoire pour une nouvelle
 durée d'un an, soit licenciés pour inaptitude à l'exercice des fonctions en
-cause, par arrêté du ministre chargé de la santé.
+cause, par arrêté du directeur général du Centre national de gestion des
+praticiens hospitaliers et des personnels de direction de la fonction publique
+hospitalière.
 
 La commission statutaire nationale est saisie lorsque l'avis de la commission
 médicale d'établissement et l'avis du conseil exécutif transmis par le directeur
