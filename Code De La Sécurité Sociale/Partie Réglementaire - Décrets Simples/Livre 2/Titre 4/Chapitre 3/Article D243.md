@@ -5,8 +5,8 @@ Pour l'application des dispositions du deuxième alinéa du I de l'article R.
 désigne pour chaque entreprise une union de recouvrement, dénommée
 "URSSAF-Interlocuteur unique", parmi la liste suivante : les unions pour le
 recouvrement des cotisations de sécurité sociale et d'allocations familiales du
-Bas-Rhin, des Bouches-du-Rhône, de la Gironde, de la Haute-Garonne, de Lille, de
-la Loire-Atlantique , de Paris-région parisienne et du Rhône.
+Bas-Rhin, des Bouches-du-Rhône, de la Gironde, de la Haute-Garonne, de la
+Loire-Atlantique , du Nord, de Paris-région parisienne et du Rhône.
 
 La phase de consultation prévue au deuxième alinéa du I de l'article R. 243-6
 s'achève dans les conditions suivantes :
