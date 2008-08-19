@@ -1,8 +1,11 @@
 Article L3121-48
 ----
-Les dispositions de l'article L. 3131-1, relatives au repos quotidien, et des
-articles L. 3132-1, L. 3132-2 et L. 3164-2, relatives au repos hebdomadaire,
-sont applicables aux salariés concernés par une convention de forfait en jours.
+Les salariés ayant conclu une convention de forfait en jours ne sont pas soumis
+aux dispositions relatives :
 
-La convention ou l'accord instituant une telle convention de forfait détermine
-les modalités concrètes d'application de ces dispositions.
+1° A la durée légale hebdomadaire prévue à l'article L. 3121-10 ;
+
+2° A la durée quotidienne maximale de travail prévue à l'article L. 3121-34 ;
+
+3° Aux durées hebdomadaires maximales de travail prévues au premier alinéa de
+l'article L. 3121-35 et aux premier et deuxième alinéas de l'article L. 3121-36.

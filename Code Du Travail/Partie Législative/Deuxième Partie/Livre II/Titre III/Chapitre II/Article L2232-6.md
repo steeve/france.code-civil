@@ -1,33 +1,17 @@
 Article L2232-6
 ----
-I. - Lorsqu'une convention de branche ou un accord professionnel étendu le
-prévoit, la validité des conventions ou accords conclus dans le même champ
-d'application professionnel est subordonnée à leur signature par une ou des
-organisations syndicales représentant une majorité de salariés de la branche.
+La validité d'une convention de branche ou d'un accord professionnel est
+subordonnée à sa signature par une ou plusieurs organisations syndicales de
+salariés représentatives ayant recueilli, aux élections prises en compte pour la
+mesure de l'audience prévue au 3° de l'article L. 2122-5 ou, le cas échéant,
+dans le cadre de la mesure de l'audience prévue à l'article L. 2122-6, au moins
+30 % des suffrages exprimés en faveur d'organisations reconnues représentatives
+à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition
+d'une ou plusieurs organisations syndicales de salariés représentatives ayant
+recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à
+ces mêmes élections ou, le cas échéant, dans le cadre de la même mesure
+d'audience, quel que soit le nombre de votants.
 
-La convention ou l'accord définit la règle selon laquelle cette majorité est
-appréciée en retenant les résultats :
-
-1° Soit d'une consultation des salariés concernés, organisée périodiquement en
-vue de mesurer la représentativité des organisations syndicales de salariés de
-la branche ;
-
-2° Soit des dernières élections aux comités d'entreprise, ou à défaut des
-délégués du personnel.
-
-II. - Lorsque la majorité prévue au I est appréciée en retenant les résultats
-d'une consultation des salariés concernés, celle-ci doit respecter les principes
-généraux du droit électoral.
-
-Participent à cette consultation, les salariés satisfaisant aux conditions pour
-être électeur fixées par l'article L. 2324-14.
-
-Les modalités et la périodicité de cette consultation sont fixées par la
-convention de branche ou l'accord professionnel étendu mentionné au I.
-
-Les contestations relatives à cette consultation relèvent du juge judiciaire.
-
-III. - Lorsque la majorité prévue au I est appréciée en retenant les résultats
-des dernières élections aux comités d'entreprise, ou à défaut des délégués du
-personnel, la convention de branche ou l'accord professionnel étendu fixe le
-mode de décompte des résultats de ces élections.
+L'opposition est exprimée dans un délai de quinze jours à compter de la date de
+notification de cet accord ou de cette convention, dans les conditions prévues à
+l'article L. 2231-8.

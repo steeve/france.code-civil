@@ -3,7 +3,7 @@ Article L2327-7
 Dans chaque entreprise le nombre d'établissements distincts et la répartition
 des sièges entre les différents établissements et les différentes catégories
 font l'objet d'un accord entre l'employeur et les organisations syndicales
-représentatives dans l'entreprise.
+intéressées, conclu selon les conditions de l'article L. 2324-4-1.
 
 Lorsque cet accord ne peut être obtenu, l'autorité administrative dans le
 ressort duquel se trouve le siège de l'entreprise décide de ce nombre et de

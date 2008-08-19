@@ -7,8 +7,8 @@ L'accord peut prévoir :
 
 1° Soit le travail d'un jour férié précédemment chômé autre que le 1er mai ;
 
-2° Soit le travail d'un jour de réduction du temps de travail tel que prévu aux
-articles L. 3122-6 et L. 3122-19 ;
+2° Soit le travail d'un jour de repos accordé au titre de l'accord collectif
+conclu en application de l'article L. 3122-2 ;
 
 3° Soit toute autre modalité permettant le travail de sept heures précédemment
 non travaillées en application de dispositions conventionnelles ou des modalités

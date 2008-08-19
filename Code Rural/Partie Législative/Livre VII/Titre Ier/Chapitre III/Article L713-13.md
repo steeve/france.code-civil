@@ -26,7 +26,9 @@ Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leu
 sur ces dérogations. Cet avis est transmis à l'inspecteur du travail.
 
 Toutefois, pour les exploitations, entreprises, établissements et employeurs
-mentionnés à l'article L. 713-10, la limite de quarante-quatre heures est
+mentionnés aux 1° à 4° de l'article L. 722-1, aux 2° et 3° de l'article L.
+722-20 et au 6° de ce même article pour les seules entreprises qui ont une
+activité de production agricole, la limite de quarante-quatre heures est
 calculée sur une période de douze mois consécutifs ; les mêmes exploitations,
 entreprises, établissements et employeurs peuvent être autorisés à dépasser le
 plafond de soixante heures mentionné au troisième alinéa du présent article à la

@@ -5,4 +5,4 @@ heures ou de la durée proportionnelle à la durée contractuelle pour les salar
 à temps partiel, ne s'imputent ni sur le contingent annuel d'heures
 supplémentaires ni sur le nombre d'heures complémentaires prévu au contrat de
 travail du salarié travaillant à temps partiel. Elles ne donnent pas lieu à
-repos compensateur obligatoire.
+contrepartie obligatoire en repos.

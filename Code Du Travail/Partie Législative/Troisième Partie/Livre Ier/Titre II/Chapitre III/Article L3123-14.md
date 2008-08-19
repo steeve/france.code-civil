@@ -7,9 +7,8 @@ Il mentionne :
 1° La qualification du salarié, les éléments de la rémunération, la durée
 hebdomadaire ou mensuelle prévue et, sauf pour les salariés des associations et
 entreprises d'aide à domicile et les salariés relevant d'un accord collectif de
-travail conclu en application des articles L. 3123-25 et suivants, la
-répartition de la durée du travail entre les jours de la semaine ou les semaines
-du mois ;
+travail conclu en application de l'article L. 3122-2, la répartition de la durée
+du travail entre les jours de la semaine ou les semaines du mois ;
 
 2° Les cas dans lesquels une modification éventuelle de cette répartition peut
 intervenir ainsi que la nature de cette modification ;

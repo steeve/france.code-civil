@@ -21,11 +21,11 @@ l'article L. 3141-22 ;
 demande du salarié après accord de l'employeur ;
 
 4° Les conséquences de ces reports sur le respect des seuils annuels fixés aux
-articles L. 3121-45, L. 3122-9, L. 3122-19, L. 3123-1 et L. 3123-25. Ce report
-ne doit pas avoir pour effet de majorer ces seuils dans une proportion plus
-importante que celle correspondant à la durée ainsi reportée.
+articles L. 3121-44, L. 3122-2 et L. 3123-1. Ce report ne doit pas avoir pour
+effet de majorer ces seuils dans une proportion plus importante que celle
+correspondant à la durée ainsi reportée.
 
 Ces dispositions s'appliquent sans préjudice des reports également prévus par
-l'article L. 3142-90, relatif au congé pour création d'entreprise et au congé
+l'article L. 3142-100, relatif au congé pour création d'entreprise et au congé
 sabbatique et les articles L. 3151-1 et suivants, relatifs au compte
 épargne-temps.

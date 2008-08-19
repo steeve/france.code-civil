@@ -2,7 +2,8 @@ Article L2314-11
 ----
 La répartition du personnel dans les collèges électoraux et la répartition des
 sièges entre les différentes catégories de personnel font l'objet d'un accord
-entre l'employeur et les organisations syndicales représentatives intéressées.
+entre l'employeur et les organisations syndicales, conclu selon les conditions
+de l'article L. 2314-3-1.
 
 Lorsque cet accord ne peut être obtenu, l'autorité administrative procède à
 cette répartition entre les collèges électoraux conformément aux dispositions de

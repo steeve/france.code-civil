@@ -7,10 +7,11 @@ durée du congé :
 
 2° Les périodes de congé maternité, paternité et d'adoption ;
 
-3° Les repos compensateurs obligatoires prévus par l'article L. 3121-26 du
+3° Les contreparties obligatoires en repos prévues par l'article L. 3121-11 du
 présent code et l'article L. 713-9 du code rural ;
 
-4° Les jours de repos acquis au titre de la réduction du temps de travail ;
+4° Les jours de repos accordés au titre de l'accord collectif conclu en
+application de l'article L. 3122-2 ;
 
 5° Les périodes, dans la limite d'une durée ininterrompue d'un an, pendant
 lesquelles l'exécution du contrat de travail est suspendue pour cause d'accident

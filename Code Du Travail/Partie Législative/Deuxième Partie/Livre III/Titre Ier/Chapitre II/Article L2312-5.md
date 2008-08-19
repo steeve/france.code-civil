@@ -9,7 +9,8 @@ aux entreprises du site le justifient.
 
 Les conditions de ces élections sont définies par accord entre l'autorité
 gestionnaire du site ou le représentant des employeurs concernés et les
-organisations syndicales de salariés.
+organisations syndicales de salariés, conclu selon les conditions de l'article
+L. 2314-3-1.
 
 A défaut d'accord, l'autorité administrative fixe le nombre et la composition
 des collèges électoraux ainsi que le nombre des sièges et leur répartition entre

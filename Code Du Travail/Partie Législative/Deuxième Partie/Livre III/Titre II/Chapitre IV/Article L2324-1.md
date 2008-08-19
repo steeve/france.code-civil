@@ -9,5 +9,5 @@ suppléants. Les suppléants assistent aux séances du comité avec voix
 consultative.
 
 Le nombre de membres peut être augmenté par convention ou accord entre
-l'employeur et les organisations syndicales reconnues représentatives dans
-l'entreprise.
+l'employeur et les organisations syndicales intéressées, conclu selon les
+conditions de l'article L. 2324-4-1.

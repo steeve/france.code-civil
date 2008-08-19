@@ -1,10 +1,12 @@
 Article L3121-42
 ----
-Pour les cadres mentionnés à l'article L. 3121-38, lorsque la convention ou
-l'accord collectif de travail prévoit la conclusion de conventions de forfait en
-heures sur l'année, l'accord collectif fixe la durée annuelle de travail à
-partir de laquelle le forfait est établi.
+Peuvent conclure une convention de forfait en heures sur l'année, dans la limite
+de la durée annuelle de travail applicable aux conventions individuelles de
+forfait fixée par l'accord collectif :
 
-Ces dispositions s'appliquent sans préjudice du respect des dispositions
-relatives aux documents permettant de comptabiliser les heures de travail
-accomplies par chaque salarié prévues au titre VII.
+1° Les cadres dont la nature des fonctions ne les conduit pas à suivre l'horaire
+collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils
+sont intégrés ;
+
+2° Les salariés qui disposent d'une réelle autonomie dans l'organisation de leur
+emploi du temps.

@@ -9,4 +9,5 @@ continue, destinées aux adultes et aux jeunes déjà engagés dans la vie activ
 qui s'y engagent.
 
 En outre, toute personne engagée dans la vie active est en droit de faire
-valider les acquis de son expérience, notamment professionnelle.
+valider les acquis de son expérience, notamment professionnelle ou liée à
+l'exercice de responsabilités syndicales.

@@ -1,7 +1,7 @@
 Article L3152-2
 ----
-La convention ou l'accord collectif de travail mettant en place le compte
-épargne-temps peut prévoir que les droits peuvent être abondés par l'employeur
-ou par le salarié, notamment par l'affectation, à l'initiative du salarié, des
-augmentations ou des compléments du salaire de base ou par des versements dans
-les conditions prévues par l'article L. 3343-1.
+La convention ou l'accord collectif détermine dans quelles conditions et limites
+le compte épargne-temps peut être alimenté en temps ou en argent à l'initiative
+du salarié ou, pour les heures accomplies au-delà de la durée collective, à
+l'initiative de l'employeur. Le congé annuel ne peut être affecté au compte
+épargne-temps que pour sa durée excédant vingt-quatre jours ouvrables.

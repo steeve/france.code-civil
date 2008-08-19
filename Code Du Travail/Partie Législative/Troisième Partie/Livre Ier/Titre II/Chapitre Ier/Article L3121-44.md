@@ -1,14 +1,4 @@
 Article L3121-44
 ----
-Une convention ou un accord collectif de branche, de groupe, d'entreprise ou
-d'établissement peut ouvrir la faculté au salarié qui le souhaite, en accord
-avec l'employeur, d'accomplir des heures au-delà de la durée annuelle de travail
-prévue par la convention de forfait.
-
-Cette convention ou cet accord prévoit, notamment :
-
-1° Les conditions dans lesquelles ces heures sont accomplies ;
-
-2° La majoration de salaire à laquelle elles donnent lieu ;
-
-3° Les conditions dans lesquelles le salarié fait connaître son choix.
+Le nombre de jours travaillés dans l'année fixé par l'accord collectif prévu à
+l'article L. 3121-39 ne peut excéder deux cent dix-huit jours.

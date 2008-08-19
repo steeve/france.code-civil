@@ -5,8 +5,8 @@ solidarité, s'il s'acquitte d'une nouvelle journée de solidarité en raison d'
 changement d'employeur, les heures travaillées ce jour donnent lieu à
 rémunération supplémentaire et s'imputent sur le contingent annuel d'heures
 supplémentaires ou sur le nombre d'heures complémentaires prévu au contrat de
-travail du salarié travaillant à temps partiel. Ces heures donnent lieu à repos
-compensateur obligatoire.
+travail du salarié travaillant à temps partiel. Ces heures donnent lieu à
+contrepartie obligatoire en repos.
 
 Toutefois, le salarié peut aussi refuser d'exécuter cette journée supplémentaire
 de travail sans que ce refus constitue une faute ou un motif de licenciement.

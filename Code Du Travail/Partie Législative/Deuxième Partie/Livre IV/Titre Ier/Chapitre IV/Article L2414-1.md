@@ -41,7 +41,7 @@ travail en agriculture prévue à l'article L. 717-7 du code rural ;
 10° Représentant des salariés dans une chambre d'agriculture mentionné à
 l'article L. 515-1 du code rural ;
 
-11° Salarié mandaté dans les conditions prévues à l'article L. 2232-25, dès que
+11° Salarié mandaté dans les conditions prévues à l'article L. 2232-24, dès que
 l'employeur a connaissance de l'imminence de sa désignation, ou ancien salarié
 mandaté, durant les douze mois suivant la date à laquelle son mandat a pris fin.
 Lorsque aucun accord n'a été conclu à l'issue de la négociation au titre de
