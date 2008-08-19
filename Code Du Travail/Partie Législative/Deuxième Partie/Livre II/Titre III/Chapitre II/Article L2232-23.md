@@ -1,16 +1,11 @@
 Article L2232-23
 ----
-La convention de branche ou l'accord professionnel étendu mentionné à l'article
-L. 2232-21 peut prévoir qu'en l'absence de délégués syndicaux dans l'entreprise
-ou l'établissement, ou de délégué du personnel faisant fonction de délégué
-syndical dans les entreprises de moins de cinquante salariés, les représentants
-élus du personnel au comité d'entreprise, ou, à défaut, les délégués du
-personnel, peuvent négocier et conclure des accords collectifs de travail.
-
-Les accords d'entreprise ou d'établissement ainsi négociés n'acquièrent la
-qualité d'accords collectifs de travail au sens du présent livre qu'après leur
-approbation par une commission paritaire nationale de branche, dont les
-modalités de fonctionnement sont prévues par la convention de branche ou
-l'accord professionnel étendu.
-
-Faute d'approbation, l'accord est réputé non écrit.
+Le temps passé aux négociations prévues à l'article L. 2232-21 n'est pas
+imputable sur les heures de délégation prévues aux articles L. 2315-1 et L.
+2325-6. Chaque élu titulaire appelé à participer à une négociation en
+application de l'article L. 2232-21 dispose du temps nécessaire à l'exercice de
+ses fonctions dans les limites d'une durée qui, sauf circonstances
+exceptionnelles, ne peut excéder dix heures par mois. Les heures de délégation
+sont de plein droit considérées comme temps de travail et payées à l'échéance
+normale.L'employeur qui entend contester l'utilisation faite des heures de
+délégation saisit le juge judiciaire.
