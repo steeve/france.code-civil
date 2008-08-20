@@ -10,14 +10,12 @@ général des impôts ;
 dégradé mentionnés dans le décret pris pour l'application du I de l'article 1466
 A du même code ;
 
-3° Aux logements financés à compter du 5 janvier 1977 au moyen de prêts locatifs
-aidés par l'Etat accordés par le Crédit foncier de France prévus à la
-sous-section 3 de la section I du chapitre unique du titre III du livre III et,
-dans les départements d'outre-mer, aux immeubles à loyer moyen ;
+3° Aux logements financés au moyen de prêts conventionnés des banques et
+établissements financiers appartenant aux bailleurs autres que les organismes
+d'habitation à loyer modéré et, dans les départements d'outre-mer, aux immeubles
+à loyer moyen ;
 
-4° Aux logements financés au moyen de prêts conventionnés des banques et
-établissements financiers prévus à la section III du chapitre unique du titre
-III du livre III ;
+4° Abrogé ;
 
 5° Aux logements ayant bénéficié d'une subvention de l'Agence nationale de
 l'habitat.
