@@ -1,8 +1,9 @@
 Article D312-11
 ----
 Le préfet communique la liste des restaurants de tourisme à la commission
-départementale d'action touristique le 1er janvier et le 1er juillet de chaque
-année.
+départementale de l'action touristique le 1er janvier et le 1er juillet de
+chaque année et la publie au Recueil des actes administratifs de l'Etat dans le
+département.
 
 A l'issue de la période de trois ans, le classement est renouvelable sur
 présentation d'une nouvelle demande de l'exploitant selon la procédure fixée aux
