@@ -19,17 +19,18 @@ ci-dessus et à un régime spécial de retraite prévoyant une majoration de dur
 d'assurance en faveur des mères de famille, cette majoration est accordée en
 priorité par le régime spécial si celui-ci est susceptible d'accorder en vertu
 de ses propres règles une pension aux intéressées. Toutefois, pour les assurées
-relevant de l'article 86 du décret n° 90-1215 du 20 décembre 1990 modifié
-relatif au régime de retraite et de prévoyance des clercs et employés de
-notaires et qui ont été affiliées soit à un seul des régimes mentionnés au
-premier alinéa, soit à plusieurs de ces régimes, la majoration n'est pas
-accordée par le régime spécial dès lors que l'intéressée justifie dans l'autre
-régime ou l'un des autres régimes concernés d'une durée d'affiliation supérieure
-à celle du régime spécial. Dans le cas où les personnes relevant de l'article
-visé ci-dessus justifient dans plusieurs des régimes mentionnés au premier
-alinéa d'une durée d'affiliation supérieure à celle du régime spécial, la
-majoration est accordée par le régime qui est prioritaire en application des
-règles édictées aux premier et deuxième alinéas.
+comptant moins de quinze années de versement de cotisations ou de périodes
+assimilées au titre du décret n° 90-1215 du 20 décembre 1990 modifié relatif au
+régime de retraite et de prévoyance des clercs et employés de notaires et qui
+ont été affiliées soit à un seul des régimes mentionnés au premier alinéa, soit
+à plusieurs de ces régimes, la majoration n'est pas accordée par le régime
+spécial dès lors que l'intéressée justifie dans l'autre régime ou l'un des
+autres régimes concernés d'une durée d'affiliation supérieure à celle du régime
+spécial. Dans le cas où les personnes relevant de l'article visé ci-dessus
+justifient dans plusieurs des régimes mentionnés au premier alinéa d'une durée
+d'affiliation supérieure à celle du régime spécial, la majoration est accordée
+par le régime qui est prioritaire en application des règles édictées aux premier
+et deuxième alinéas.
 
 Si les droits à pension statutaire ont été liquidés avant la naissance d'un ou
 plusieurs enfants, il est fait application des règles de priorité prévues aux
