@@ -12,7 +12,7 @@ Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble
 et Lyon ;
 
 Marseille : ressort des tribunaux administratifs de Bastia, Marseille,
-Montpellier, Nice et Nîmes ;
+Montpellier, Nice, Nîmes et Toulon ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne,
 Nancy et Strasbourg ;
