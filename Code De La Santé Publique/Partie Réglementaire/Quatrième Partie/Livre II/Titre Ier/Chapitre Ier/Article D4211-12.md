@@ -1,8 +1,11 @@
 Article D4211-12
 ----
-Les plantes mentionnées à l'article D. 4211-11 ne peuvent être vendues mélangées
-entre elles ou à d'autres espèces.
+Lorsque l'emploi de plantes médicinales inscrites à la Pharmacopée a été
+autorisé dans les compléments alimentaires en application du décret n° 2006-352
+du 20 mars 2006 relatif aux compléments alimentaires, ces compléments
+alimentaires peuvent être vendus par des personnes autres que des pharmaciens.
 
-L'interdiction mentionnée à l'alinéa précédent n'est toutefois pas applicable
-aux plantes suivantes : tilleul, verveine, camomille, menthe, oranger,
-cynorrhodon, hibiscus.
+Toutefois, l'alinéa précédent ne s'applique pas aux compléments alimentaires
+contenant des plantes ou parties de plantes médicinales qui figurent sur la
+liste publiée au chapitre IV. 7.B. de la Pharmacopée française, dans les
+conditions prévues à l'article R. 5112-2 du code de la santé publique.
