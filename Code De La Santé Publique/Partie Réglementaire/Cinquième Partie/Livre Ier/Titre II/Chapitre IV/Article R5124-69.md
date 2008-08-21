@@ -7,6 +7,10 @@ disponibles en France et bénéficiant de l'autorisation de mise sur le marché
 prévue à l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation
 prévue à l'article L. 5121-12.
 
+Le contenu du rapport annuel mentionné au dernier alinéa de l'article L. 5126-2
+est fixé par décision du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé.
+
 Ces établissements peuvent être autorisés dans les conditions prévues à
 l'article L. 5124-3 à réaliser des préparations hospitalières et des
 reconstitutions de spécialités pharmaceutiques pour le compte des établissements

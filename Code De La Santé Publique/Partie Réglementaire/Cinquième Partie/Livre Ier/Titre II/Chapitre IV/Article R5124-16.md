@@ -1,7 +1,7 @@
 Article R5124-16
 ----
 Le pharmacien responsable et le ou les pharmaciens délégués des entreprises ou
-organismes mentionnés aux 1°, 2° et 3° de l'article R. 5124-2 justifient d'une
+organismes mentionnés aux 1° et 2° de l'article R. 5124-2 justifient d'une
 expérience pratique d'au moins deux ans, dans un ou plusieurs établissements
 autorisés à fabriquer ou à importer des médicaments ou produits dans un Etat
 membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
@@ -12,15 +12,17 @@ acquise au cours de stages d'internat au-delà de sa première année dans ces
 Pour exercer ses fonctions dans une entreprise, un organisme ou un établissement
 assurant la fabrication ou l'importation de médicaments, le pharmacien
 responsable ou le pharmacien délégué justifie que cette expérience pratique
-comporte des activités d'analyse qualitative des médicaments autres que des
-médicaments expérimentaux, d'analyse quantitative des principes actifs ainsi que
-d'essais et vérifications nécessaires pour assurer la qualité des médicaments.
+comporte des activités d'analyse qualitative des médicaments, d'analyse
+quantitative des principes actifs ainsi que d'essais et vérifications
+nécessaires pour assurer la qualité des médicaments.
 
-Le type d'établissement où l'expérience pratique s'est déroulée et la nature des
-activités requises sont précisées en fonction de l'activité de l'établissement,
-de la nature des médicaments ou produits concernés, après avis du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé, par
-arrêté du ministre chargé de la santé.
+Dans les entreprises et leurs établissements mentionnés au 3° de l'article R.
+5124-2, le pharmacien responsable et les pharmaciens délégués justifient soit de
+l'expérience pratique prévue au premier alinéa, soit d'une expérience pratique
+d'au moins deux ans dans un établissement pharmaceutique assurant l'exploitation
+de médicaments à usage humain, à condition que cette expérience ait consisté au
+moins en des activités de suivi des lots associés avec des activités de
+pharmacovigilance.
 
 Pour la désignation du pharmacien responsable et des pharmaciens délégués des
 établissements pharmaceutiques de la pharmacie centrale des armées ou des

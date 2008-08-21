@@ -7,9 +7,11 @@ sortie, au moins les informations suivantes :
 
 1° La date de la transaction ;
 
-2° La dénomination du médicament ou autre produit pharmaceutique ;
+2° le nom du médicament ou autre produit pharmaceutique ;
 
-3° La quantité reçue ou fournie ;
+3° Le numéro et la date de péremption des différents lots avec les quantités
+fournies et reçues par lot, conformément aux bonnes pratiques mentionnées à
+l'article L. 5121-5 ;
 
 4° Les nom et adresse du fournisseur et du destinataire.
 

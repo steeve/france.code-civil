@@ -12,5 +12,4 @@ activités.
 
 Ils adressent chaque année au directeur général de l'Agence française de
 sécurité sanitaire des produits de santé un état de leur établissement dont la
-forme et le contenu sont fixés, sur proposition du directeur général de
-l'agence, par arrêté du ministre chargé de la santé.
+forme et le contenu sont fixés, sur décision du directeur général de l'agence.

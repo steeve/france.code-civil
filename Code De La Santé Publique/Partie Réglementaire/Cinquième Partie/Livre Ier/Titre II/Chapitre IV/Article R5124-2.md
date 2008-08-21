@@ -127,8 +127,16 @@ plusieurs établissements pharmaceutiques se livrant, dans le cadre du décret n
 armées, à la distribution en gros et en l'état des médicaments, produits ou
 objets mentionnés à l'article L. 5124-8 ;
 
-14° Distributeur en gros de produits nécessaires à la protection de la
-population face aux menaces sanitaires graves, l'Etablissement de préparation et
-de réponse aux urgences sanitaires se livrant à l'achat et au stockage de
-produits mentionnés à l'article L. 4211-1, en vue de leur distribution aux
-structures énumérées à l'article R. 5124-45.
+14° Etablissement pharmaceutique pour la protection de la population face aux
+menaces sanitaires graves, l'établissement pharmaceutique ouvert par
+l'établissement public mentionné à l'article L. 3135-1, se livrant à des
+opérations d'achat, de fabrication, d'importation, d'exportation de produits
+nécessaires à la protection de la population face aux menaces sanitaires graves,
+en vue de leur distribution.
+
+Cet établissement pharmaceutique se livre, le cas échéant, à des opérations
+d'exploitation comprenant l'information, la pharmacovigilance, le suivi des lots
+et, s'il y a lieu, leur retrait ainsi que les opérations de stockage
+correspondantes. La réalisation de tout ou partie de ces opérations peut être
+confiée à un tiers dans le cadre d'un contrat écrit qui fixe leurs obligations
+respectives.

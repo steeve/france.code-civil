@@ -12,14 +12,13 @@ des opérations constitutives de la fabrication telle que définie à l'article 
 5124-2 auprès d'autres fabricants ou importateurs de ces médicaments ou produits
 dans le cadre d'un contrat écrit qui fixe, conformément aux bonnes pratiques
 prévues à l'article L. 5121-5 applicables à ces opérations, leurs obligations
-respectives ; ces opérations de sous-traitance et leurs justifications figurent
-dans l'état annuel mentionné à l'article R. 5124-46 ;
+respectives ;
 
 2° Les fabricants et les importateurs de médicaments mentionnés au 1° de
 l'article L. 4211-1, de générateurs, trousses ou précurseurs mentionnés au 3° du
 même article, peuvent, à condition de justifier de ce recours auprès de l'Agence
-française de sécurité sanitaire des produits de santé, confier certaines des
-opérations de contrôle de qualité mentionnées à l'article R. 5124-53 à un
+française de sécurité sanitaire des produits de santé, sous-traiter certaines
+des opérations de contrôle de qualité mentionnées à l'article R. 5124-53 à un
 laboratoire dans le cadre d'un contrat écrit qui fixe, conformément aux bonnes
 pratiques prévues à l'article L. 5121-5 applicables à ces opérations, leurs
 obligations respectives ; dans ce cas, le fabricant ou l'importateur en informe
@@ -35,3 +34,13 @@ marché ou d'enregistrement, à l'exception de son identification, dans un contr
 écrit qui fixe, conformément aux bonnes pratiques prévues à l'article L. 5121-5,
 leurs obligations respectives et précise les conditions de transport et de
 stockage intermédiaires de ces matières premières.
+
+4° Les exploitants de médicaments autres que ceux destinés à être expérimentés
+sur l'homme, de générateurs, trousses et précurseurs mentionnés au 3° de
+l'article L. 4211-1 peuvent sous-traiter à un tiers tout ou partie des
+opérations constitutives de la pharmacovigilance dans le cadre d'un contrat
+écrit qui fixe, conformément aux bonnes pratiques prévues à l'article R.
+5121-179, leurs obligations respectives.
+
+Les opérations de sous-traitance mentionnées aux 1° à 4° et leurs justifications
+sont récapitulées dans l'état annuel mentionné à l'article R. 5124-46.

@@ -6,12 +6,13 @@ ce que les entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°,
 6°, 9°, 12° et 14° de l'article R. 5124-2 vendent directement aux praticiens
 habilités à les utiliser et en vue de l'emploi exclusif par ces praticiens pour
 leur usage professionnel, sur commande écrite du praticien effectuée dans les
-conditions prévues au troisième alinéa de l'article R. 5132-3 :
+conditions prévues à l'article R. 5132-4 :
 
 1° Les articles de pansement et de suture chirurgicale ;
 
 2° Les médicaments mentionnés à l'article L. 5121-8 utilisés en diagnostic
-médical, en anesthésie, en allergologie ou d'usage antalgique ou dentaire ;
+médical, en anesthésie, en allergologie ou d'usage antalgique ou dentaire, en
+oxygénothérapie ;
 
 3° Les médicaments mentionnés à l'article R. 5121-96 ;
 
