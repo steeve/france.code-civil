@@ -1,6 +1,6 @@
 Article R4127-318
 ----
-I. - Pour l'exercice des compétences qui lui sont dévolues par l'article L.
+I.-Pour l'exercice des compétences qui lui sont dévolues par l'article L.
 4151-1, la sage-femme est autorisée à pratiquer notamment :
 
 1° L'échographie dans le cadre de la surveillance de la grossesse ;
@@ -34,9 +34,16 @@ médecin anesthésiste-réanimateur peut être faite par la sage-femme ;
 12° La surveillance des dispositifs intra-utérins ;
 
 13° La rééducation périnéo-sphinctérienne en cas de troubles consécutifs à un
-accouchement.
+accouchement ;
 
-II. - La sage-femme est autorisée, au cours du travail, à effectuer la demande
+14° Des actes d'acupuncture, sous réserve que la sage-femme possède un diplôme
+d'acupuncture délivré par une université de médecine et figurant sur une liste
+arrêtée par les ministres chargés de la santé et de l'enseignement supérieur, ou
+un titre de formation équivalent l'autorisant à pratiquer ces actes dans un Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen.
+
+II.-La sage-femme est autorisée, au cours du travail, à effectuer la demande
 d'anesthésie loco-régionale auprès du médecin anesthésiste-réanimateur. Elle en
 informe le médecin gynécologue-obstétricien.
 
