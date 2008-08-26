@@ -15,8 +15,11 @@ distance qui sépare son domicile de son école de formation.
 Les ressources à prendre en compte pour l'appréciation des plafonds de
 ressources mentionnés sont les revenus imposables à l'impôt sur le revenu des
 personnes physiques indiqués sur le dernier avis d'imposition disponible de
-l'étudiant ou de sa famille s'il lui est rattaché fiscalement.
+l'étudiant s'il est indépendant financièrement, c'est-à-dire lorsqu'il dispose
+d'une déclaration fiscale distincte de celle de ses parents et satisfait à des
+conditions d'indépendance de logement et de revenu définies à l'annexe 41-2 du
+présent code, ou de sa famille s'il lui est rattaché fiscalement.
 
 Les taux minimaux des échelons un à cinq, les plafonds de ressources minimaux
 ainsi que la liste des points de charge minimaux de l'étudiant sont définis dans
-l'annexe 41-2. Ils font l'objet d'un réexamen annuel.
+l'annexe 41-2.
