@@ -3,7 +3,7 @@ Article 43
 1° Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou
 d'officier et ceux chargés des fonctions de contrôles différés et a posteriori
 peuvent exiger la communication des papiers et documents de toute nature
-relatifs aux opérations intéressant leur service :
+relatifs aux opérations intéressant leur service quel qu'en soit le support :
 
 a) Dans les locaux des compagnies de navigation maritime et chez les armateurs,
 consignataires et courtiers maritimes (manifeste de fret, connaissements,
@@ -40,9 +40,10 @@ i) Et, en général, chez toutes les personnes physiques ou morales directement 
 indirectement intéressées à des opérations régulières ou irrégulières relevant
 de la compétence du service des douanes.
 
-2° Les agents ayant qualité pour exercer le droit de communication prévu par le
-1 ci-dessus peuvent se faire assister par des fonctionnaires d'un grade moins
-élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
+2° Les agents des douanes de catégorie C peuvent exercer le droit de
+communication prévu au 1° lorsqu'ils agissent sur ordre écrit d'un agent des
+douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux
+personnes envers lesquelles le droit de communication est mis en œuvre.
 
 3° Les divers documents visés ci-dessus doivent être conservés par les
 intéressés pendant un délai de trois ans, à compter de la date d'envoi des
@@ -60,4 +61,5 @@ métropole, des départements et régions d'outre-mer, des collectivités
 d'outre-mer, de Nouvelle-Calédonie et, sous réserve de réciprocité, aux
 autorités qualifiées des pays étrangers tous renseignements, certificats,
 procès-verbaux et autres documents susceptibles d'établir la violation des lois
-et règlements applicables à l'entrée ou à la sortie de leur territoire.
+et règlements applicables à l'entrée ou à la sortie de leur territoire quel
+qu'en soit le support.

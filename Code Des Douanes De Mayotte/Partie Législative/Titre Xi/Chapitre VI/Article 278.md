@@ -1,6 +1,6 @@
 Article 278
 ----
-1. Est passible d'une amende de 2000 à 20000 F toute infraction aux dispositions
+1. Est passible d'une amende de 300 à 3 000 € toute infraction aux dispositions
 des lois et règlements que l'administration des douanes est chargée d'appliquer
 lorsque cette irrégularité n'est pas plus sévèrement réprimée par le présent
 code.

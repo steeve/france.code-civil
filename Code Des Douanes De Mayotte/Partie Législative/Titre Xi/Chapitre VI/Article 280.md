@@ -1,7 +1,7 @@
 Article 280
 ----
 Sont passibles de la confiscation des marchandises litigieuses et d'une amende
-de 1000 à 10000 F :
+de 150 à 1 500 € :
 
 1° Tout fait de contrebande ainsi que tout fait d'importation ou d'exportation
 sans déclaration lorsque l'infraction porte sur des marchandises de la catégorie

@@ -17,8 +17,8 @@ ministre du budget ou son représentant en fait la demande, le tribunal doit,
 pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une
 somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement de un an à cinq ans et d'une amende de 3000 à
-1800000 F toute personne qui aura incité par écrit, propagande ou publicité à
+3. Sera punie d'un emprisonnement de un an à cinq ans et d'une amende de 450 à
+225 000 € toute personne qui aura incité par écrit, propagande ou publicité à
 commettre une ou des infractions visées au 1 ci-dessus, que cette incitation ait
 été ou non suivie d'effet.
 
