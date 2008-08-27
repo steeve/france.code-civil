@@ -21,9 +21,6 @@ l'organe délibérant de la collectivité territoriale propriétaire.
 Les cessions amiables sont autorisées par l'organe délibérant de la collectivité
 propriétaire.
 
-Le prix des cessions consenties en application du présent article est fixé dans
-les conditions mentionnées aux articles L. 5322-7, L. 5322-9 et L. 5342-13.
-
 Dans le cas prévu au premier alinéa du présent article, le prix est, à défaut
 d'accord amiable, fixé comme en matière d'expropriation pour cause d'utilité
 publique, à moins qu'il n'en soit disposé autrement par les dispositions

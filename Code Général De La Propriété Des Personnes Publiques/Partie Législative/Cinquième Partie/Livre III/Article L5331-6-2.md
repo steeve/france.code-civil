@@ -2,10 +2,9 @@ Article L5331-6-2
 ----
 Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans
 une zone classée, en application de l'article L. 5331-6-1, en espaces urbains et
-d'urbanisation future peuvent être déclassés, après avis de la commission
-d'aménagement foncier prévue à l'article L. 5322-5, aux fins de cession à titre
-gratuit aux collectivités territoriales ou à leurs groupements ainsi qu'aux
-organismes ayant pour objet la réalisation d'opérations d'habitat social.
+d'urbanisation future peuvent être déclassés aux fins de cession à titre gratuit
+aux collectivités territoriales ou à leurs groupements ainsi qu'aux organismes
+ayant pour objet la réalisation d'opérations d'habitat social.
 
 Cette cession doit avoir pour but la réalisation par les collectivités
 concernées de constructions ou d'opérations d'aménagement visées à l'article L.

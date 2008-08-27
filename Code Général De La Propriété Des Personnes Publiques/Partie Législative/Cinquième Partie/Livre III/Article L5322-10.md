@@ -1,7 +1,7 @@
 Article L5322-10
 ----
 Lorsque l'opération immobilière entre dans le champ d'application des articles
-L. 5322-1 à L. 5322-9, il est fait défense aux comptables publics d'effectuer
+L. 5322-1 à L. 5322-4, il est fait défense aux comptables publics d'effectuer
 les règlements correspondants si la personne qui poursuit cette opération ne
 justifie pas :
 
@@ -11,5 +11,4 @@ la décision de passer outre mentionnés au deuxième alinéa de l'article L. 53
 ;
 
 2° Pour les autres opérations, de l'avis sur les conditions financières et, le
-cas échéant, de la décision de passer outre mentionnée au dernier alinéa de
-l'article L. 5322-9.
+cas échéant, de la décision de passer outre mentionnée à l'article L. 5322-3.

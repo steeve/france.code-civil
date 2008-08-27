@@ -8,7 +8,7 @@ dispositions suivantes du présent code :
 livre IV, sous réserve de l'article L. 6161-36 et du chapitre IV du titre Ier du
 livre VI ;
 
-2° Troisième partie : titres III et IV du livre II ;
+2° Troisième partie : article L. 3213-2, titres III et IV du livre II ;
 
 3° Quatrième partie : titre V du livre II.
 

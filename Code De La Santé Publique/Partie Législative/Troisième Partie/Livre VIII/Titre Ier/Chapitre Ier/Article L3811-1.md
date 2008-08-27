@@ -6,7 +6,7 @@ applicables à Mayotte, sous réserve des adaptations des articles L. 3811-2 à 
 
 1° Le chapitre Ier à l'exception de l'article L. 3111-11 ;
 
-2° Le chapitre II, à l'exception de l'article L. 3112-5 ;
+2° Le chapitre II ;
 
 2° Les chapitres III et IV, à l'exception des alinéas 2 et 3 de l'article L.
 3114-1 ;

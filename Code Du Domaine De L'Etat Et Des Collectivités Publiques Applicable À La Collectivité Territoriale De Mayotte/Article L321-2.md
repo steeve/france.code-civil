@@ -4,14 +4,14 @@ Toutefois, les immeubles ou droits immobiliers sont cédés à l'amiable lorsque
 des lois et règlements spéciaux prévoient ce mode d'aliénation pour des
 catégories d'immeubles déterminées.
 
-Les cessions peuvent également ^etre faites à l'amiable :
+Les cessions peuvent également être faites à l'amiable :
 
 1° Lorsque l'adjudication publique a été infructueuse ;
 
 2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de
-service public ou à la réalisation d'une opération d'intér^et général ;
+service public ou à la réalisation d'une opération d'intérêt général ;
 
-3° Lorsque l'immeuble ne peut, en raison de sa spécificité, ^etre cédé qu'à un
+3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un
 acquéreur déterminé ;
 
 4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de
@@ -20,9 +20,6 @@ collectivité territoriale et les communes.
 
 Les cessions amiables sont autorisées par l'autorité compétente de la
 collectivité propriétaire.
-
-Le prix des cessions consenties en application du présent article est fixé dans
-les conditions prévues aux articles L. 221-16 à L. 221-18.
 
 Dans le cas prévu au premier alinéa du présent article, le prix est, à défaut
 d'accord amiable, fixé comme en matière d'expropriation pour cause d'utilité

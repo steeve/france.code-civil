@@ -2,11 +2,10 @@ Article L5331-6-4
 ----
 Les terrains situés dans la zone définie à l'article L. 5331-5 et inclus dans
 une zone classée, en application de l'article L. 5331-6-1, en espaces urbains et
-d'urbanisation future peuvent être déclassés, après avis de la commission
-d'aménagement foncier prévue à l'article L. 5322-5, aux fins de cession à titre
-onéreux aux personnes physiques ayant édifié ou fait édifier avant le 1er
-janvier 2007 des constructions affectées à l'exploitation d'établissements à
-usage professionnel, ou à leurs ayants droit.
+d'urbanisation future peuvent être déclassés aux fins de cession à titre onéreux
+aux personnes physiques ayant édifié ou fait édifier avant le 1er janvier 2007
+des constructions affectées à l'exploitation d'établissements à usage
+professionnel, ou à leurs ayants droit.
 
 A la date de leur demande de cession, ces personnes physiques doivent :
 
