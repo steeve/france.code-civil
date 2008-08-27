@@ -39,6 +39,10 @@ quatre semaines après la date de celui-ci.
 Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième
 semaine suivant l'accouchement, la salariée peut reporter à la date de la fin de
 l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
+Lorsque l'accouchement intervient plus de six semaines avant la date prévue et
+exige l'hospitalisation postnatale de l'enfant, le congé de maternité est
+prolongé du nombre de jours courant de la date effective de la naissance au
+début des périodes du congé de maternité mentionnées aux alinéas précédents.
 
 La femme devra avertir l'employeur du motif de son absence et de la date à
 laquelle elle entend remettre en vigueur son contrat de travail.

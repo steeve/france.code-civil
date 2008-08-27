@@ -9,18 +9,20 @@ L. 6121-2, L. 6121-3, L. 6121-4, L. 6122-2, L. 6122-8, L. 6122-9, L. 6122-10, L.
 le schéma d'organisation sanitaire " sont ajoutés les mots : " applicable à
 Mayotte " ;
 
-2° Au troisième alinéa de l'article L. 6121-1, les mots : " et le secteur
-médico-social et social " sont supprimés ;
+2° (supprimé) ;
 
 3° Au cinquième alinéa de l'article L. 6121-2, les mots : " schéma régional
-d'organisation sanitaire " sont remplacés par les mots : " schéma d'organisation
-sanitaire applicable à Mayotte " ;
+d'organisation sanitaire " sont remplacés par les mots :
+
+" schéma d'organisation sanitaire applicable à Mayotte " ;
 
 4° Au premier alinéa de l'article L. 6121-3, les mots : " schéma régional
-d'organisation sanitaire " sont remplacés par les mots : " schéma d'organisation
-sanitaire applicable à Mayotte " et les mots : " avis du comité régional de
-l'organisation sanitaire " sont remplacés par les mots : " avis du comité de
-l'organisation sanitaire de Mayotte " ;
+d'organisation sanitaire " sont remplacés par les mots :
+
+" schéma d'organisation sanitaire applicable à Mayotte " et les mots :
+
+" avis du comité régional de l'organisation sanitaire " sont remplacés par les
+mots : " avis du comité de l'organisation sanitaire de Mayotte " ;
 
 5° Après le premier alinéa de l'article L. 6121-3, il est inséré un alinéa ainsi
 rédigé :
@@ -45,8 +47,9 @@ Mayotte, sont déterminés par voie réglementaire.
 
 8° Aux articles L. 6122-2, L. 6122-8, L. 6122-9, L. 6122-10, L. 6122-12, L.
 6122-13, L. 6122-15, les mots : " avis du comité régional de l'organisation
-sanitaire " sont remplacés par les mots : " avis du comité de l'organisation
-sanitaire de Mayotte " ;
+sanitaire " sont remplacés par les mots :
+
+" avis du comité de l'organisation sanitaire de Mayotte " ;
 
 9° Au dernier alinéa de l'article L. 6122-8 après les mots : " le schéma
 d'organisation sanitaire " sont ajoutés les mots : " applicable à Mayotte " ;
@@ -57,8 +60,9 @@ Mayotte " et au deuxième alinéa après les mots : " schéma national ou
 interrégional " sont ajoutés les mots : " applicable à Mayotte " ;
 
 11° A l'article L. 6122-10-1, les mots : " schéma régional ou interrégional
-d'organisation sanitaire " sont remplacés par les mots : " schéma d'organisation
-sanitaire applicable à Mayotte " ;
+d'organisation sanitaire " sont remplacés par les mots :
+
+" schéma d'organisation sanitaire applicable à Mayotte " ;
 
 12° A l'article L. 6122-11, les mots : " le tribunal de commerce " sont
 remplacés par les mots : " le tribunal de première instance statuant en matière

@@ -1,6 +1,6 @@
 Article L133-2-1
 ----
-I. - La convention de branche conclue au niveau de la collectivité de Mayotte
+I.-La convention de branche conclue au niveau de la collectivité de Mayotte
 contient obligatoirement, pour pouvoir être étendue, outre les clauses prévues
 aux articles L. 132-5 et L. 132-7, des dispositions concernant :
 
@@ -56,8 +56,8 @@ leur appartenance à une ethnie, une nation ou une race, notamment en matière
 d'accès à l'emploi, de formation, de promotion professionnelle et de conditions
 de travail ;
 
-11° Les conditions propres à concrétiser le droit au travail de toutes personnes
-handicapées en état d'exercer une profession ;
+11° Les conditions propres à concrétiser le droit au travail des personnes
+handicapées ;
 
 12° En tant que de besoin dans la branche :
 
@@ -86,7 +86,7 @@ employeurs et les salariés liés par la convention ;
 demandes relatives aux thèmes de négociation émanant d'une ou des organisations
 syndicales de salariés représentatives.
 
-II. - La convention de branche susceptible d'extension peut également contenir,
+II.-La convention de branche susceptible d'extension peut également contenir,
 sans que cette énumération soit limitative, des dispositions concernant :
 
 1° Les conditions particulières de travail :

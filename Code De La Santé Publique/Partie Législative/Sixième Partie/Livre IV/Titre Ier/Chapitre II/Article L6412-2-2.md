@@ -21,7 +21,12 @@ lourds résultant de décisions tacites.
 Il reçoit une information au moins une fois par an sur les contrats d'objectifs
 et de moyens signés entre les titulaires d'autorisation d'activités de soins et
 d'équipements lourds et l'agence régionale de l'hospitalisation pour la mise en
-oeuvre du schéma d'organisation sanitaire. L'avis du comité concernant
+oeuvre du schéma d'organisation sanitaire.L'avis du comité concernant
 l'organisation des soins peut être recueilli par le tribunal de première
 instance statuant en matière commerciale lors de procédures relatives à la
 cession d'autorisations d'établissements de santé privés.
+
+Le comité de l'organisation sociale et médico-sociale et le comité de
+l'organisation sanitaire de Mayotte peuvent délibérer en formation conjointe
+lorsqu'un dossier le rend nécessaire et selon des modalités fixées par voie
+réglementaire.
