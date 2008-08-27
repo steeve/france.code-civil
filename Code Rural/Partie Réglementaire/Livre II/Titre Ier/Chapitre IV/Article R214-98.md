@@ -8,4 +8,4 @@ dispositions de l'article R. 214-17.
 Les chiens, les chats et les primates qui se trouvent dans ces établissements
 doivent être identifiés par un marquage individuel et permanent. Lorsque les
 animaux sont sevrés, ce marquage doit être conforme aux modalités prévues pour
-l'application de l'article L. 214-5.
+l'application de l'article L. 212-10.

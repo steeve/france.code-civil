@@ -1,10 +1,7 @@
 Article R214-21
 ----
-Lorsque le site inclut tout ou partie d'un terrain militaire, le projet de
-désignation mentionné à l'article R. 214-18 est établi conjointement par le ou
-les préfets et par le commandant de la région terre.
-
-Le ministre chargé de l'environnement et le ministre chargé de la défense
-décident conjointement de proposer le site à la Commission européenne dans les
-conditions prévues à l'article R. 214-19 et de désigner le site comme site
-Natura 2000.
+Les interventions chirurgicales sur des animaux de compagnie à des fins non
+curatives, autres que la coupe de la queue, sont interdites. Toutefois, une
+intervention chirurgicale peut être réalisée sur un animal de compagnie par un
+vétérinaire mentionné à l'article L. 241-1 soit dans l'intérêt propre de
+l'animal, soit pour empêcher sa reproduction.

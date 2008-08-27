@@ -4,7 +4,7 @@ Dans les départements d'outre-mer, le maire peut, par arrêté, faire procéder
 la capture des chiens non identifiés, vivant en état de divagation sous la
 responsabilité d'un groupe d'habitants de la commune, sans propriétaire ou sans
 gardien particulier, afin de procéder à leur identification conformément à
-l'article L. 214-5, et à leur stérilisation, préalablement à leur relâcher.
+l'article L. 212-10, et à leur stérilisation, préalablement à leur relâcher.
 
 L'identification des animaux est réalisée au nom de la commune.
 

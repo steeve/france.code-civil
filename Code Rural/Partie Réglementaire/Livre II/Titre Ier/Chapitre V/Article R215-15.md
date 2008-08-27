@@ -20,4 +20,9 @@ par une personne autre que les personnes habilitées visées à l'article D. 212
 prévues au 1° de l'article D. 212-68 ;
 
 6° De vendre ou donner un animal mentionné à l'article D. 212-63 sans respecter
-les formalités prévues au 2° de l'article D. 212-68.
+les formalités prévues au 2° de l'article D. 212-68 ;
+
+7° Est puni de l'amende prévue pour les contraventions de la 4e classe le fait
+de détenir un chien né après le 6 janvier 1999 non identifié par un procédé
+agréé par le ministre en méconnaissance de l'article L. 212-10 et des
+dispositions prises pour son application.

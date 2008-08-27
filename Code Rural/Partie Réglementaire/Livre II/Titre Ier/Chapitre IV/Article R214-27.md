@@ -18,3 +18,6 @@ retrait de celui-ci.
 En cas de manquement entraînant une grave souffrance pour les animaux, le préfet
 peut prononcer immédiatement la suspension du certificat pour une durée qui ne
 peut excéder un mois.
+
+Le préfet qui retire ou suspend le certificat de capacité en informe le préfet
+qui l'a délivré.

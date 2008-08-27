@@ -1,27 +1,16 @@
 Article R214-28
 ----
-Sans préjudice des dispositions en vigueur relatives à la police des
-installations classées pour la protection de l'environnement, les responsables
-des locaux où se pratiquent de façon habituelle l'élevage en vue de la vente, la
-commercialisation, le toilettage, le transit ou la garde de chiens ou de chats
-sont tenus d'adresser, avant le début de leurs activités, une déclaration au
-préfet du département dans lequel sont situés les locaux.
+Les déclarations mentionnées au IV de l'article L. 214-6 et au dernier alinéa de
+l'article L. 214-7 sont déposées auprès du préfet du département où sont situés
+les lieux, locaux ou installations utilisés en vue de l'exercice de l'activité
+au moins trente jours avant le début de celle-ci.
 
-Cette déclaration mentionne les indications suivantes :
+La déclaration donne lieu à la délivrance d'un récépissé de déclaration qui doit
+être présenté sur demande des services de contrôle dans les lieux où s'exerce
+l'activité concernée. Un arrêté du ministre chargé de l'agriculture fixe le
+modèle de la déclaration et du récépissé.
 
-1° a) Pour les personnes physiques, l'identité et le domicile du déclarant ;
-
-b) Pour les personnes morales ;
-
-- si elles sont de droit privé, la dénomination et le siège, l'identité du
-représentant ;
-
-- si elles sont de droit public, les modalités d'exploitation de l'établissement
-et l'identité du responsable ;
-
-2° L'adresse des locaux et la nature des activités qui y sont exercées.
-
-Un arrêté du ministre chargé de l'agriculture fixe les règles à suivre pour
-présenter la déclaration et pour constituer le dossier, lequel comporte une
-description des locaux, ainsi que celles des mesures prises pour respecter les
-obligations précisées à l'article R. 214-31.
+Lorsqu'un établissement où s'exercent une ou plusieurs des activités mentionnées
+au IV de l'article L. 214-6 relève des dispositions des articles L. 512-1 et L.
+512-8 du code de l'environnement, la demande d'autorisation ou la déclaration
+prévue par ces articles vaut déclaration au titre de l'article L. 214-6.
