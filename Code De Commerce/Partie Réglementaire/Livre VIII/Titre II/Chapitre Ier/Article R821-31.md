@@ -1,11 +1,16 @@
 Article R821-31
 ----
-La Compagnie nationale est destinataire des déclarations d'activité des
-compagnies régionales et les transmet au Haut Conseil.
+La compagnie nationale communique chaque année au haut conseil, avant le 31
+octobre, les déclarations d'activité qui lui sont transmises par les compagnies
+régionales en application de l'article R. 823-10. En cas de non-respect de cette
+obligation, le haut conseil peut, après mise en demeure infructueuse de la
+compagnie nationale, demander aux commissaires aux comptes et sociétés de
+commissaires aux comptes de lui adresser directement leurs déclarations
+d'activité selon les formes et modalités qu'il détermine.
 
-Aux fins mentionnées à l'article R. 821-1, elle transmet au secrétaire général
-du Haut Conseil, à sa demande, les documents retraçant les opérations des
-contrôles diligentés en application du b de l'article L. 821-7.
+Aux fins mentionnées à l'article R. 821-1, la compagnie nationale transmet au
+secrétaire général du Haut Conseil, à sa demande, les documents retraçant les
+opérations des contrôles diligentés en application du b de l'article L. 821-7.
 
 Elle adresse chaque année au Haut Conseil un rapport sur les contrôles réalisés
 en application des articles L. 821-7 et L. 821-9. Ce rapport comprend deux

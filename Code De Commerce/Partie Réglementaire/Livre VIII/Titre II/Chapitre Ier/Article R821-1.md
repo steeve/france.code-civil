@@ -25,5 +25,5 @@ Il peut saisir à toutes fins le procureur général compétent. Il peut saisir 
 Compagnie nationale des commissaires aux comptes de toute demande d'information
 complémentaire.
 
-Dans l'exercice de ses missions le secrétaire général est assisté de services
-placés sous son autorité et peut faire appel à tout sachant ou expert.
+Hors le cas de la représentation en justice, qui appartient au président du haut
+conseil, il représente le haut conseil dans tous les actes de la vie civile.
