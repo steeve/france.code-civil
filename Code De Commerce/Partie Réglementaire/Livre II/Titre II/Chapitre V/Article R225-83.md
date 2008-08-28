@@ -46,9 +46,7 @@ articles L. 225-40 et L. 225-88 et aux articles L. 232-3, L. 234-1 et R. 823-7 ;
 
 d) Les observations du conseil de surveillance, s'il y a lieu ;
 
-e) Les sociétés mentionnées aux articles R. 232-9 à R. 232-14 adressent
-également aux actionnaires l'inventaire des valeurs mobilières détenues en
-portefeuille à la clôture de l'exercice ;
+e) (Abrogé) ;
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article L. 225-101,
 le rapport des commissaires mentionnés audit article ;
