@@ -4,11 +4,13 @@ Les médicaments auxquels s'applique l'article L. 5121-8 du code de la santé
 publique, ceux bénéficiant d'une autorisation d'importation parallèle, ainsi que
 ceux visés au premier alinéa de l'article 17 de la loi n° 92-1477 du 31 décembre
 1992, ne peuvent être remboursés ou pris en charge par les organismes de
-sécurité sociale, sur prescription médicale, ni être achetés ou fournis ou
-utilisés par eux que s'ils figurent sur une liste des médicaments remboursables
-établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé
-de la sécurité sociale. L'arrêté mentionne les seules indications thérapeutiques
-ouvrant droit à la prise en charge ou au remboursement des médicaments.
+sécurité sociale, sur prescription médicale, à l'exception des vaccins
+mentionnés à l'article R. 4311-5-1 du code de la santé publique, ni être achetés
+ou fournis ou utilisés par eux que s'ils figurent sur une liste des médicaments
+remboursables établie par arrêté conjoint du ministre chargé de la santé et du
+ministre chargé de la sécurité sociale. L'arrêté mentionne les seules
+indications thérapeutiques ouvrant droit à la prise en charge ou au
+remboursement des médicaments.
 
 Lorsqu'a été notifiée, dans les conditions prévues au premier alinéa de
 l'article R. 5143-8 du code de la santé publique, la décision du directeur
