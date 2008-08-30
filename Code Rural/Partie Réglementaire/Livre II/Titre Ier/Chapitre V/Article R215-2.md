@@ -1,6 +1,6 @@
 Article R215-2
 ----
-I. - Est puni des peines prévues pour les contraventions de la 2e classe :
+I.-Est puni des peines prévues pour les contraventions de la 2e classe :
 
 1° Le fait de détenir un chien de la 1re catégorie telle que définie à l'article
 L. 211-12 dans des transports en commun, des lieux publics, à l'exception de la
@@ -14,7 +14,7 @@ catégorie, telles que définies à l'article L. 211-12, de laisser son chien no
 muselé ou non tenu en laisse par une personne majeure, sur la voie publique,
 dans les lieux publics, locaux ouverts au public ou transports en commun.
 
-II. - Est puni des peines prévues pour les contraventions de la 3e classe :
+II.-Est puni des peines prévues pour les contraventions de la 3e classe :
 
 1° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
 catégorie telles que définies à l'article L. 211-12, de ne pas être couvert par
@@ -36,9 +36,9 @@ en cours de validité, mentionnées au II de l'article L. 211-14 ;
 4° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
 catégorie telles que définies à l'article L. 211-12, de ne pas avoir fait
 procéder à l'identification de cet animal selon les modalités prévues à
-l'article L. 214-5.
+l'article L. 212-10.
 
-III. - Est puni des peines prévues pour les contraventions de la 4e classe le
+III.-Est puni des peines prévues pour les contraventions de la 4e classe le
 fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e catégorie
 telles que définies à l'article L. 211-12, de ne pas avoir procédé à la
 déclaration en mairie prévue à l'article L. 211-14.
