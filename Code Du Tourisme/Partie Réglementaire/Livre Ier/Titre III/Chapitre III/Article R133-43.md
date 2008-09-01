@@ -1,6 +1,6 @@
 Article R133-43
 ----
-Toute demande de classement d'une station de tourisme présentée par les
-collectivités locales intéressées conformément à l'article L. 133-17 ou par les
-associations de tourisme conformément à l'article L. 133-21 est adressée au
-préfet, qui en donne récépissé.
+Des agents de l'Etat peuvent vérifier sur place le respect, par les communes et
+leurs groupements, des conditions exigées pour la dénomination de commune
+touristique ou le classement en station de tourisme, selon des modalités
+précisées par décret.

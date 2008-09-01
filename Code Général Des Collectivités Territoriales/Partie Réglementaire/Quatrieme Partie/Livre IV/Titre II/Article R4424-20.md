@@ -1,15 +1,10 @@
 Article R4424-20
 ----
-Le président du conseil exécutif établit, soit d'office, soit à la demande des
-conseils municipaux, ou des organes délibérants des établissements publics de
-coopération intercommunale compétents en matière de tourisme, du préfet du
-département ou des associations de tourisme en Corse, la liste des communes,
-fractions de communes ou groupes de communes qu'il estime devoir être classés
-comme stations hydrominérales, climatiques, uvales, balnéaires, de sport d'hiver
-et d'alpinisme ou de tourisme.
-
-Il engage immédiatement la procédure de classement dans les conditions fixées
-aux articles R. 4424-21 à R. 4424-23.
-
-Dans tous les cas où il est saisi d'une demande de classement, le président du
-conseil exécutif en délivre récépissé.
+L'Assemblée de Corse détermine les conditions dans lesquelles les communes
+mentionnées à la section 2 du chapitre III du titre III du livre Ier du code du
+tourisme ou leurs groupements sont dénommés communes touristiques, par arrêté du
+président du conseil exécutif de Corse, pour une durée de cinq ans et après
+consultation du conseil des sites et de la commission départementale compétente
+en matière d'environnement, de risques sanitaires et technologiques. Elle
+détermine les conditions dans lesquelles ces communes, leurs fractions ou leurs
+groupements sont érigés en stations classées de tourisme.

@@ -1,12 +1,21 @@
 Article R133-42
 ----
-Dans le cas où les communes érigées en stations hydrominérales ou climatiques
-refusent ou négligent d'exécuter les travaux d'assainissement qui ont été
-reconnus indispensables par le ministre chargé de la santé, il est procédé
-conformément aux alinéas 2 et suivants de l'article L. 1331-17 du code de la
-santé publique.
+Un arrêté conjoint des ministres chargés du tourisme, de l'intérieur, des
+collectivités territoriales, de l'environnement, de l'aménagement du territoire,
+de l'urbanisme, des transports, de l'outre-mer, de l'agriculture, de la santé,
+des sports, et de la culture précise :
 
-La mise en demeure prévue au troisième alinéa dudit article est adressée aux
-communes intéressées conjointement par le ministre chargé de la santé et le
-ministre de l'intérieur ; le décret prévu à cet alinéa est contresigné par les
-deux ministres.
+-les conditions d'application des articles R. 133-37 à R. 133-41, et notamment
+les modalités de classement en station de tourisme au regard des critères
+énoncés à l'article R. 133-37 ;
+
+-la liste des pièces nécessaires à la constitution du dossier de demande de
+dénomination de commune touristique ;
+
+-la liste des pièces nécessaires à la constitution du dossier de demande de
+classement en station de tourisme ;
+
+-le modèle national de dossier de demande de dénomination de commune touristique
+;
+
+-le modèle national de dossier de demande de classement en station de tourisme.

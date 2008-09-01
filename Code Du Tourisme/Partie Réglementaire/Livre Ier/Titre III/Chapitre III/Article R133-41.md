@@ -1,14 +1,19 @@
 Article R133-41
 ----
-Lorsque, dans une commune classée comme station hydrominérale ou climatique, à
-la demande ou après avis favorable du conseil municipal, des travaux
-d'assainissement ont été jugés indispensables par le ministre chargé de la
-santé, si le conseil municipal, après une mise en demeure, refuse ou néglige
-d'effectuer ces travaux dans le délai imparti par le ministre, il peut, sans
-préjudice de l'application des dispositions de l'article R. 133-42, être procédé
-à la radiation de la commune de la liste des stations hydrominérales et
-climatiques.
+Tout établissement public de coopération intercommunale doté d'un office classé
+de tourisme auquel a été transférée la compétence d'instituer la taxe de séjour
+en application de l'article L. 5211-21 du code général des collectivités
+territoriales peut demander le classement en station de tourisme, pour une,
+plusieurs ou l'ensemble de ses communes membres, dans le but de réaliser des
+actions en faveur du tourisme, en leurs lieu et place.
 
-La radiation est prononcée par un décret en Conseil d'Etat pris dans les
-conditions prévues par les articles L. 133-17, L. 133-18, R. 133-38 et R.
-133-39.
+La délibération de l'organe délibérant de l'établissement public de coopération
+intercommunale délimite le territoire faisant l'objet de la demande de
+classement.
+
+Un plan lui est annexé.
+
+Pour l'application des dispositions de la présente sous-section, l'organe
+délibérant de l'établissement public de coopération intercommunale est substitué
+au conseil municipal et le président de l'établissement public de coopération
+intercommunale est substitué au maire.

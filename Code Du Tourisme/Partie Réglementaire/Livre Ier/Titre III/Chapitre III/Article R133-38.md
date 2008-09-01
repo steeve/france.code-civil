@@ -1,6 +1,8 @@
 Article R133-38
 ----
-Le décret en Conseil d'Etat, prévu à l'article L. 133-17, est pris, lorsqu'il
-concerne les stations hydrominérales et climatiques, sur le rapport du ministre
-chargé de la santé après avis du ministre chargé de l'économie et des finances,
-du ministre de l'intérieur et du ministre chargé du tourisme.
+La délibération sollicitant le classement en station de tourisme, accompagnée du
+dossier de demande, est adressée par le maire au préfet par voie électronique
+ou, à défaut, par voie postale.
+
+La délibération délimite le territoire faisant l'objet de la demande de
+classement. Un plan lui est annexé.

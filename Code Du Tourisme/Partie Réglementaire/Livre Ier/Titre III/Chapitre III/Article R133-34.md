@@ -1,6 +1,7 @@
 Article R133-34
 ----
-Le préfet établit, soit d'office, soit à la demande des conseils municipaux, la
-liste des communes, fractions de communes ou groupes de communes qu'il estime
-devoir être classés comme stations hydrominérales ou climatiques, et fait
-procéder immédiatement à une enquête sur ce projet de classement.
+La délibération sollicitant la dénomination de commune touristique, accompagnée
+du dossier de demande, est adressée par le maire au préfet par voie électronique
+ou, à défaut, par voie postale. Lorsque le dossier est incomplet, le préfet en
+avise le demandeur dans le délai de deux mois en lui précisant les pièces
+manquantes.
