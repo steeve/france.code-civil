@@ -4,7 +4,8 @@ L'autorisation d'importation ou, pour les particuliers, la copie de
 l'autorisation d'importation par une autre voie que le transport personnel,
 mentionnées à l'article R. 5121-109, ou une copie de l'autorisation temporaire
 d'utilisation mentionnée au b de l'article L. 5121-12 accordée pour un
-médicament importé est présentée lors du contrôle par les agents des douanes.
+médicament importé ou une copie de l'autorisation mentionnée au 12° ou au 13° de
+l'article L. 5121-1 est présentée lors du contrôle par les agents des douanes.
 
 Pour les médicaments importés nécessaires à la réalisation d'une recherche
 biomédicale, un document établi par l'Agence française de sécurité sanitaire des

@@ -6,8 +6,9 @@ d'avis de réception ou déposée contre récépissé.
 
 Le dossier comporte :
 
-1° La copie de la déclaration prévue à l'article L. 1243-2 ou de l'autorisation
-prévue à l'article L. 1243-3 ;
+1° La copie de l'accusé de réception par le ministre chargé de la recherche de
+la déclaration prévue à l'article L. 1243-3 ou la copie de l'autorisation prévue
+à l'article L. 1243-4 ;
 
 2° La désignation précise des produits concernés ;
 

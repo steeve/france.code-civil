@@ -1,13 +1,14 @@
 Article R1245-5
 ----
-Tout établissement ou organisme qui importe ou qui exporte à des fins
-thérapeutiques, incluant les recherches biomédicales au sens de l'article L.
-1121-1, les éléments ou les produits du corps humain, quel que soit leur niveau
-de transformation, définis à l'article R. 1245-1, hormis ceux destinés à un
-usage autologue, s'assure que ceux-ci ont été prélevés ou collectés dans le
-respect de normes de protection au moins aussi exigeantes que les règles de
-sécurité sanitaire mentionnées à l'article L. 1211-6. Il doit pouvoir justifier
-qu'il s'en est assuré.
+Les autorisations et les renouvellements d'autorisation, prononcés pour une
+durée de cinq ans, précisent le type de l'activité autorisée et la nature des
+produits importés ou exportés.
 
-L'élément ou le produit du corps humain importé ou exporté doit en outre être
-accompagné du document mentionné à l'article R. 1211-19.
+Les autorisations ainsi délivrées peuvent être modifiées, suspendues ou retirées
+en tout ou partie par le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé dans les conditions prévues à l'article L.
+1245-1.
+
+Une copie des décisions d'autorisation, de suspension ou de retrait est
+transmise au ministre chargé de la santé, au ministre chargé des douanes et à
+l'Agence de la biomédecine.

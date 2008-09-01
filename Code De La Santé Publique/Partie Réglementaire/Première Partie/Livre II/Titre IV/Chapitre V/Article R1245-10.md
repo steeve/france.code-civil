@@ -1,13 +1,6 @@
 Article R1245-10
 ----
-Toute modification des éléments figurant dans le dossier de demande
-d'autorisation d'importation et d'exportation initial, concernant la nature ou
-l'origine des produits ou leurs procédés de préparation, de conservation, de
-transformation ou de transport, doit faire l'objet d'une autorisation délivrée
-par le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé. La demande de modification est déposée et instruite dans les
-mêmes conditions que la demande initiale, sans effet sur la durée de celle-ci.
-
-Toute modification des autres éléments figurant dans le dossier d'autorisation
-initial est déclarée au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+Les dispositions de l'article R. 1245-9 ne sont pas applicables aux produits
+communautaires autorisés conformément à la directive 2004 / 23 / CE déjà
+mentionnée et respectant les dispositions du premier alinéa de l'article L.
+1211-4.

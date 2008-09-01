@@ -3,7 +3,8 @@ Article R5121-108
 Tout médicament qui n'est pas pourvu de l'autorisation de mise sur le marché
 mentionnée à l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation
 mentionnée au b de l'article L. 5121-12 accordée pour des médicaments importés
-ou de l'enregistrement mentionné à l'article L. 5121-13 ou qui n'est pas un
+ou de l'enregistrement mentionné à l'article L. 5121-13 ou de l'autorisation
+mentionnée au 12° ou au 13° de l'article L. 5121-1 ou qui n'est pas un
 médicament nécessaire à la réalisation d'une recherche biomédicale qui a fait
 l'objet d'une autorisation au sens de l'article L. 1123-8 fait l'objet, avant
 son importation dans le territoire douanier, d'une autorisation d'importation

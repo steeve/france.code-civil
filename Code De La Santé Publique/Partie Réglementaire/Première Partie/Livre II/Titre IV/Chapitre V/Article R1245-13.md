@@ -1,25 +1,23 @@
 Article R1245-13
 ----
-Les fabricants de réactifs, de produits thérapeutiques annexes et de produits
-pharmaceutiques, mentionnés à l'article L. 1245-4, peuvent importer des tissus
-et leurs dérivés et des cellules d'origine humaine, quel que soit leur niveau de
-transformation, définis à l'article R. 1245-1 lorsque ces produits sont
-respectivement destinés à la fabrication :
+La demande d'autorisation prévue au dernier alinéa de l'article L. 1245-5 est
+adressée au directeur général de l'Agence française de sécurité sanitaire des
+produits de santé par un établissement ou un organisme déjà autorisé au titre de
+l'article L. 1243-2, accompagnée d'une lettre du demandeur justifiant la
+nécessité d'importer ou d'exporter en urgence les éléments ou produits définis à
+l'article R. 1245-1 et destinés à un patient.
 
-1° De réactifs répondant aux exigences auxquelles ils sont soumis pour leur mise
-sur le marché ;
+Elle est accompagnée d'un dossier technique dont le contenu est fixé par arrêté
+du ministre chargé de la santé sur proposition du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé.
 
-2° De produits thérapeutiques annexes ayant fait l'objet de l'autorisation
-mentionnée à l'article L. 1263-2 ;
+La décision d'autorisation comporte notamment les nom et adresse de
+l'établissement fournisseur, de l'établissement ou de l'organisme qui importe ou
+qui exporte, les initiales du patient, la nature du produit ou de l'élément qui
+fait l'objet de l'autorisation, son code d'identification, le nombre d'unités de
+l'élément ou du produit transporté et sa durée de validité.
 
-3° De spécialités pharmaceutiques ou de médicaments fabriqués industriellement
-ayant fait l'objet d'une des autorisations de mise sur le marché mentionnées à
-l'article L. 5121-8.
+Elle est valable pour une seule opération.
 
-Les fabricants concernés déclarent leur activité d'importation préalablement à
-sa réalisation au directeur général de l'Agence française de sécurité sanitaire
-des produits de santé.
-
-Le modèle de cette déclaration est fixé par un arrêté du ministre chargé de la
-santé sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+Les dispositions de l'article R. 1245-8 sont applicables à l'importation et à
+l'exportation dans des situations d'urgence.

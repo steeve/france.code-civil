@@ -16,7 +16,7 @@ Figurent en outre sur ce document :
 1° Les informations dont le recueil est prescrit par l'article R. 1211-13 ;
 
 2° Les informations contenues sur l'étiquette apposée sur le conditionnement
-extérieur et le conditionnement primaire, au sens de l'article R. 5000, de
+extérieur et le conditionnement primaire, au sens de l'article R. 5121-1, de
 l'élément ou produit du corps humain ;
 
 3° Les informations permettant d'assurer la traçabilité des éléments et produits
