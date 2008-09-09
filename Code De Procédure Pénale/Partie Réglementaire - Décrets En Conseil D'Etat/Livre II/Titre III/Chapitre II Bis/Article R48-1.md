@@ -31,27 +31,25 @@ l'exercice de la profession de commissionnaire de transport ;
 
 e) L'article 12 et l'article 13, alinéas 1 et 2, du décret n° 97-608 du 31 mai
 1997 modifié relatif à la formation professionnelle initiale et continue des
-conducteurs salariés du transport routier public de marchandises ;
+conducteurs salariés du transport routier public de marchandises (1) ;
 
 f) L'article 11 et l'article 12, alinéas 1 et 2, du décret n° 98-1039 du 18
 novembre 1998 relatif à la formation professionnelle initiale et continue des
-conducteurs non salariés du transport routier public de marchandises ;
+conducteurs non salariés du transport routier public de marchandises (1) ;
 
 g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux
 transports routiers de marchandises ;
 
-h) L'article 16 et les premier et deuxième alinéas de l'article 17 du décret n°
-2002-747 du 2 mai 2002 relatif à la formation professionnelle initiale et
-continue des conducteurs salariés du transport routier public interurbain de
-voyageurs et des conducteurs salariés et non salariés du transport routier
-public de marchandises ;
+h) Les articles 22 et 23 du décret n° 2007-1340 du 11 septembre 2007 relatif à
+la qualification initiale et à la formation continue des conducteurs de certains
+véhicules affectés aux transports routiers de marchandises ou de voyageurs ;
 
 i) L'article 25 et les premier et deuxième alinéas de l'article 26 du décret n°
 2004-1186 du 8 novembre 2004 relatif à la formation professionnelle initiale et
 continue des conducteurs salariés du transport routier privé de marchandises,
 des conducteurs salariés et non salariés du transport routier public de
 marchandises et des conducteurs salariés du transport routier public interurbain
-de voyageurs.
+de voyageurs (1).
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
@@ -128,5 +126,5 @@ articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2 ;
 Contraventions en matière de vente de boissons alcoolisées réprimées par
 l'article R. 3353-5-1 du code la santé publique.
 
-6° bis Contraventions réprimées par les 1° et 3° de l'article R. 254-20 du code
-rural.
+6° bis (2) Contraventions réprimées par les 1° et 3° de l'article R. 254-20 du
+code rural.
