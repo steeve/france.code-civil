@@ -13,9 +13,9 @@ activités de soins et prises en charge suivantes :
 
 5° L'accueil et le traitement des urgences ;
 
-6° Les transplantations d'organes et greffes de moelle osseuse ;
+6° Les greffes d'organes et les greffes de cellules hématopoïétiques ;
 
-7° Les traitements des grands brûlés ;
+7° Le traitement des grands brûlés ;
 
 8° La chirurgie cardiaque ;
 
@@ -25,12 +25,12 @@ activités de soins et prises en charge suivantes :
 
 11° Les activités de diagnostic prénatal ;
 
-12° Les activités de recueil, le traitement, la conservation de gamètes et la
-cession de gamètes issus de don ;
+12° Les activités cliniques d'assistance médicale à la procréation ;
 
-13° Les activités cliniques d'assistance médicale à la procréation ;
+13° Les activités biologiques d'assistance médicale à la procréation ;
 
-14° Les activités biologiques d'assistance médicale à la procréation.
+14° L'examen des caractéristiques génétiques d'une personne ou identification
+d'une personne par empreintes génétiques à des fins médicales.
 
 Elles ne s'appliquent pas non plus aux activités de soins exercées dans le cadre
 de l'hospitalisation à domicile.
