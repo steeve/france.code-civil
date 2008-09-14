@@ -6,8 +6,8 @@ de fonds d'Etat obligations françaises et autres valeurs assimilées doivent
 établir les documents prévus au I de l'article 17 A.
 
 L'indication sur ces documents du prélèvement visé à l'article 125 A du code
-général des impôts est alors substituée à celle de la retenue à la source de 25
-% prévue au 2 de l'article 119 bis dudit code.
+général des impôts est alors substituée à celle de la retenue à la source prévue
+au 2 de l'article 119 bis dudit code.
 
 2. Les documents visés au 1, qui constatent le paiement de revenus ayant
 supporté le prélèvement à des personnes domiciliées ou ayant leur siège social
