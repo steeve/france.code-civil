@@ -32,3 +32,11 @@ pratique comportant l'exercice des activités mentionnées ci-dessus au sein de 
 pharmacie centrale ou des établissements de ravitaillement sanitaire pendant la
 période précédant l'octroi des autorisations d'ouverture desdits établissements
 pharmaceutiques est prise en compte.
+
+Le pharmacien responsable des établissements pharmaceutiques exerçant les
+activités de fabrication et de distribution de produits cellulaires à finalité
+thérapeutique qui sont des spécialités pharmaceutiques ou d'autres médicaments
+fabriqués industriellement ou selon une méthode dans laquelle intervient un
+processus industriel doit justifier de titres et travaux spécifiques dans ces
+domaines d'activités ou être assisté d'une personne justifiant de cette
+compétence.

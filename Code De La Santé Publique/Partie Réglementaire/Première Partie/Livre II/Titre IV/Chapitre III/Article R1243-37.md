@@ -1,36 +1,32 @@
 Article R1243-37
 ----
-La demande d'autorisation d'ouverture d'un établissement pharmaceutique devant
-exercer les activités mentionnées à l'article R. 1243-20 est accompagnée d'un
-dossier technique justificatif dont le contenu est fixé par arrêté du ministre
-chargé de la santé, pris sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé et qui comprend notamment
-:
+En cas de méconnaissance des prescriptions législatives et réglementaires
+mentionnées à l'article L. 1245-1, et notamment en cas de non-respect des règles
+de bonnes pratiques prévues à l'article L. 1245-6, l'autorisation prévue à
+l'article R. 1243-35 peut être suspendue ou retirée en tout ou partie par le
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
 
-1° La liste des procédures utilisées pour réaliser les différentes activités
-exercées par l'établissement demandeur et, si certaines opérations
-complémentaires de préparation, de transformation, de conservation, de contrôle
-et de validation des produits sont sous-traitées à d'autres organismes, la liste
-et les coordonnées de ces sous-traitants, les conventions passées entre ces
-organismes et la personne morale sollicitant l'autorisation ainsi que la liste
-des procédures utilisées par l'organisme sous-traitant ;
+Sauf en cas d'urgence tenant à la sécurité des personnes, celui-ci recueille au
+préalable l'avis motivé du directeur général de l'Agence de la biomédecine.
+Avant toute décision de retrait, le directeur général de l'Agence française de
+sécurité sanitaire des produits de santé adresse, sous pli recommandé avec
+demande d'avis de réception, un mois avant le retrait une mise en demeure à la
+personne morale bénéficiaire de l'autorisation mentionnée à l'article R. 1243-35
+dans laquelle il précise les griefs et lui demande de se mettre en conformité
+avec les règles en vigueur. La personne morale bénéficiaire de l'autorisation
+transmet sans délai cette mise en demeure à la personne responsable mentionnée à
+l'article R. 1243-12.
 
-2° Le cas échéant, l'existence d'activités de conservation, de transformation,
-de distribution ou de cession de cellules à des fins scientifiques réalisées
-dans les mêmes locaux que les activités à des fins thérapeutiques par
-l'établissement ou l'organisme demandeur ou sous la responsabilité d'une autre
-entité juridique ; dans ce cas, le dossier comprend les informations utiles
-relatives à la séparation des activités garantissant la sécurité des produits
-destinés à un usage thérapeutique.
+A compter de la date de réception de cette mise en demeure, la personne morale
+bénéficiaire de l'autorisation dispose d'un délai de quinze jours pour présenter
+ses observations au directeur général de l'Agence française de sécurité
+sanitaire des produits de santé. Elle transmet une copie de ces observations à
+la personne responsable.
 
-L'arrêté mentionné au premier alinéa du présent article détermine également les
-modalités de présentation et d'instruction des demandes d'ouverture ou de
-modification des autorisations initiales.
+En cas de danger pour la santé publique ou pour l'environnement, l'autorisation
+peut être immédiatement suspendue pour une durée ne pouvant excéder un an.
 
-Lorsque le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé estime qu'il a besoin d'informations complémentaires ou que
-l'un des éléments du dossier est incomplet, il invite le demandeur à la
-compléter.
-
-Dès que le dossier est complet, il délivre au demandeur un accusé de réception
-mentionnant sa date d'enregistrement.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé transmet au directeur de l'Agence de la biomédecine les décisions de
+suspension ou de retrait qu'il a prises.

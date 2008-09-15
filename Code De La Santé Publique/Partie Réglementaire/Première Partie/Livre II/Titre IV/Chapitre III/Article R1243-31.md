@@ -1,6 +1,13 @@
 Article R1243-31
 ----
-Les établissements ou organismes demandeurs doivent disposer de matériels et
-d'équipements, y compris de systèmes d'alarme, conformes aux règles de bonnes
-pratiques, permettant de garantir la qualité, la sécurité sanitaire et la
-traçabilité des cellules.
+Les établissements ou les organismes bénéficiaires de l'autorisation mentionnée
+à l'article R. 1243-6 peuvent céder les tissus, leurs dérivés, les cellules ou
+les préparations de thérapie cellulaire à des fabricants de dispositifs médicaux
+de diagnostic in vitro ou de produits thérapeutiques annexes, lorsque ces
+produits sont destinés à la fabrication :
+
+-de dispositifs de diagnostic in vitro répondant aux exigences auxquelles ils
+sont soumis pour leur mise sur le marché ;
+
+-de produits thérapeutiques annexes ayant fait l'objet de l'autorisation
+mentionnée à l'article L. 1261-2.

@@ -1,28 +1,18 @@
 Article R1243-24
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision au demandeur dans un délai de six mois à compter de la
-réception du dossier complet.
+Un établissement ou un organisme autorisé peut céder à un autre établissement ou
+organisme autorisé des tissus, leurs dérivés ou des cellules ou des préparations
+de thérapie cellulaire en vue de leur préparation, de leur conservation et de
+leur distribution par ce second établissement ou organisme selon les modalités
+prévues à l'article R. 1243-26.
 
-S'il estime que des informations complémentaires sont nécessaires pour lui
-permettre de se prononcer sur la demande, il peut interrompre l'examen de
-celle-ci jusqu'à réception des informations manquantes dans la limite d'un délai
-de six mois. Il doit dans ce cas notifier au demandeur les motifs de cette
-interruption et lui préciser le délai au terme duquel ces informations doivent
-lui être adressées. Ce délai n'est pas pris en compte dans le calcul des délais
-impartis au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé pour se prononcer sur la demande.
+Lorsqu'ils sont cédés en vue d'être distribués, les tissus, leurs dérivés ou les
+préparations de thérapie cellulaire sont conformes aux règles de qualité et de
+sécurité sanitaire prises en application de l'article L. 1211-6 ainsi qu'à
+celles prévues par les règles de bonnes pratiques et aux exigences mentionnées
+dans l'autorisation prévue à l'article L. 1243-5.
 
-L'absence de décision à l'expiration du délai prévu vaut rejet de la demande. Le
-refus d'autorisation est motivé.
-
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé informe le préfet de région et le directeur général de l'Etablissement
-français des greffes des autorisations accordées ainsi que le directeur de
-l'agence régionale de l'hospitalisation lorsque l'autorisation est accordée à un
-établissement de santé.
-
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé tient à jour la liste des établissements autorisés. Cette liste est
-transmise chaque année au directeur général de l'Etablissement français des
-greffes.
+Lorsque les tissus, leurs dérivés ou les cellules ou les préparations de
+thérapie cellulaire sont cédés en vue d'être préparés par l'établissement ou
+l'organisme à qui ils sont cédés, ils doivent être conformes aux règles de
+qualité et de sécurité sanitaire prises en application de l'article L. 1211-6.

@@ -1,10 +1,9 @@
 Article R1243-23
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé transmet pour avis un exemplaire du dossier au directeur général de
-l'Etablissement français des greffes.
-
-Le directeur général de l'Etablissement français des greffes transmet son avis
-au directeur général de l'Agence française de sécurité sanitaire des produits de
-santé dans un délai de trois mois à compter de la date de transmission du
-dossier. L'absence de réponse dans ce délai vaut avis favorable.
+Les établissements ou les organismes autorisés établissent et tiennent à jour la
+liste complète des conventions qu'ils concluent avec les tiers dont
+l'intervention a une influence sur la qualité et la sécurité des tissus ou de
+leurs dérivés ou des préparations de thérapie cellulaire. Ils tiennent ces
+conventions à la disposition de l'Agence française de sécurité sanitaire des
+produits de santé et des personnes chargées d'effectuer les inspections
+conformément aux dispositions de l'article R. 1243-28.

@@ -1,25 +1,18 @@
 Article R1243-28
 ----
-Les établissements ou organismes demandeurs doivent disposer de personnels dont
-la compétence et la qualification sont conformes aux règles de bonnes pratiques,
-notamment :
+L'Agence française de sécurité sanitaire des produits de santé diligente des
+inspections sur site ou sur dossier des établissements ou organismes réalisant
+les activités mentionnées à l'article R. 1243-1 à un rythme au moins biennal en
+vue de s'assurer de la conformité des activités à la réglementation en vigueur,
+notamment aux règles de bonnes pratiques. Le directeur général de l'Agence
+française de sécurité sanitaire des produits de santé peut requérir à cet effet
+de l'établissement ou de l'organisme toutes informations nécessaires. Ces
+inspections donnent lieu aux suites prévues par l'article R. 5313-3.
 
-1° D'une personne responsable de l'ensemble des activités mentionnées à
-l'article R. 1243-20. Cette personne est obligatoirement soit un médecin ou un
-pharmacien, soit une personne autorisée à exercer l'une de ces professions et
-justifiant de titres, de travaux et de compétences dans les domaines d'activités
-définis par la présente section ;
-
-2° D'une personne qui assure la mise en oeuvre des règles économiques,
-financières et comptables applicables aux activités des établissements ou
-organismes demandeurs et qui, à ce titre, est chargée du suivi budgétaire et de
-la mise en place de la comptabilité analytique relative aux activités exercées ;
-
-3° De personnels d'encadrement compétents dans les domaines d'activité définis
-par la présente section ;
-
-4° De personnels paramédicaux, techniques et administratifs.
-
-Les personnels mentionnés aux 3° et 4° ci-dessus doivent être en nombre
-suffisant pour garantir la qualité et la sécurité des activités mentionnées à
-l'article R. 1243-20.
+Afin d'actualiser périodiquement les données portant notamment sur les
+personnels et les équipements, les établissements ou les organismes réalisant
+les activités mentionnées à l'article R. 1243-1 répondent aux questionnaires qui
+leur sont adressés par l'Agence française de sécurité sanitaire des produits de
+santé. La forme et le contenu de ces questionnaires sont fixés par décision du
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé après avis du directeur général de l'Agence de la biomédecine.

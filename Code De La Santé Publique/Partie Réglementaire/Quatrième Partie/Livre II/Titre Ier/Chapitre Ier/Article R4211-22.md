@@ -1,6 +1,6 @@
-Article R1243-32
+Article R4211-22
 ----
-Pour l'application des dispositions des sous-sections 1 à 4, les hôpitaux des
+Pour l'application des dispositions de la sous-section 1, les hôpitaux des
 armées et le centre de transfusion sanguine des armées sont regardés
 respectivement comme des établissements de santé et comme un établissement de
 transfusion sanguine.

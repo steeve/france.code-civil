@@ -1,10 +1,14 @@
 Article R1243-3
 ----
-Les établissements publics de santé ou organismes autorisés en application du
-présent chapitre à conserver, transformer, distribuer et céder, à des fins
-thérapeutiques, des tissus ou leurs dérivés, quel qu'en soit le niveau de
-transformation, destinés à être incorporés dans des dispositifs médicaux,
-peuvent être autorisés par l'Agence française de sécurité sanitaire des produits
-de santé, sur demande motivée de leur part lors du dépôt de leur demande
-d'autorisation à déroger aux dispositions des articles R. 1243-9, R. 1243-11, R.
-1243-13 à R. 1243-15, compte tenu de la complexité des opérations à effectuer.
+Les établissements ou organismes qui conservent et distribuent des tissus ou
+leurs dérivés ou des préparations de thérapie cellulaire qui leur ont été cédés
+par un établissement ou un organisme autorisé à préparer, conserver, distribuer
+ou céder ces produits doivent être autorisés à effectuer ces activités de
+conservation et de distribution dans les conditions prévues par la présente
+section, à l'exception des articles R. 1243-19 et R. 1243-24 qui ne leur sont
+pas applicables.
+
+Ces établissements ou organismes conservent et distribuent les tissus ou leurs
+dérivés ou les préparations de thérapie cellulaire dans les conditions de
+l'autorisation délivrée en application de l'article L. 1243-5 aux établissements
+ou organismes qui leur ont cédé ces produits.

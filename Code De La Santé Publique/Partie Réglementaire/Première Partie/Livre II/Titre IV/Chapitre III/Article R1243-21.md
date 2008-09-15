@@ -1,6 +1,5 @@
 Article R1243-21
 ----
-L'autorisation ou le renouvellement d'autorisation accordé par le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé
-précise la nature des cellules ainsi que le type d'activité autorisée dans
-l'établissement ou l'organisme concerné.
+Une comptabilité analytique portant sur les données économiques, financières et
+comptables relatives aux activités mentionnées à l'article R. 1243-1 est mise en
+place au sein de l'établissement ou de l'organisme autorisé.

@@ -1,13 +1,10 @@
 Article R1243-14
 ----
-Le bénéficiaire de l'autorisation doit disposer d'un comité médico-technique,
-chargé notamment d'assurer l'orientation scientifique et technique, de suivre
-l'activité et les résultats, de proposer et faciliter la mise en place de
-travaux de recherche dans le domaine de la préparation, de la conservation et du
-contrôle de la qualité des tissus ou de leurs dérivés mentionnés au présent
-chapitre.
-
-Lorsque l'activité est exercée par un établissement de santé ou un établissement
-de transfusion sanguine, ces missions sont remplies soit par l'instance médicale
-consultative de l'établissement, soit par une instance spécifique mise en place
-par celle-ci, en son sein, et qui peut faire appel à des concours extérieurs.
+L'établissement ou l'organisme autorisé adresse au directeur général de l'Agence
+française de sécurité sanitaire des produits de santé copie de tout acte portant
+nomination de la personne responsable mentionnée à l'article R. 1243-12 et des
+personnes responsables intérimaires. Lorsque la personne responsable ou la
+personne intérimaire est remplacée temporairement ou définitivement, il
+communique immédiatement au directeur général de l'Agence française de sécurité
+sanitaire des produits de santé le nom et la date de prise de fonction de la
+personne responsable intérimaire qu'il a désignée.

@@ -1,14 +1,8 @@
 Article R1243-41
 ----
-Tout projet de modification de l'un des éléments de l'autorisation doit faire
-l'objet d'une nouvelle demande d'autorisation déposée et instruite dans les
-mêmes conditions que la demande initiale.
+Douze suppléants sont désignés dans les mêmes conditions que les membres
+titulaires mentionnés au 2° de l'article R. 1243-40. Ils remplacent ces derniers
+en cas d'absence ou d'empêchement.
 
-Lorsque le projet de la modification ne porte que sur l'un des éléments figurant
-dans le dossier de demande d'autorisation initial, il est réputé autorisé si le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé ne s'est pas prononcé dans un délai de deux mois à compter de la date de
-réception de la demande.
-
-En cas de refus de la modification, l'autorisation initiale demeure si ce refus
-n'est pas de nature à remettre en cause cette autorisation.
+Ils leur succèdent, s'il se produit une vacance en cours de mandat, pour la
+durée du mandat restant à courir.

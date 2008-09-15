@@ -1,24 +1,30 @@
 Article R1243-40
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision au demandeur dans un délai de trois mois à compter de
-la date de réception du dossier complet.
+La commission comprend :
 
-S'il estime que des informations complémentaires sont nécessaires pour lui
-permettre de se prononcer sur la demande, il peut interrompre l'examen de
-celle-ci jusqu'à réception des informations manquantes dans la limite d'un délai
-de six mois. Il doit dans ce cas notifier au demandeur les motifs de cette
-interruption et lui préciser le délai au terme duquel ces informations doivent
-lui être adressées. Ce délai n'est pas pris en compte dans le calcul des délais
-impartis au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé pour se prononcer sur la demande.
+1° Cinq membres de droit :
 
-L'absence de décision à l'expiration du délai prévu vaut rejet de la demande. Le
-refus d'autorisation est motivé.
+a) Le directeur général de la santé ou son représentant ;
 
-L'autorisation ne prend effet qu'à compter de la date à laquelle l'établissement
-ou l'organisme qui prépare les cellules est autorisé à effectuer les activités
-mentionnées à l'article R. 1243-20.
+b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
+représentant ;
 
-L'autorisation ou le renouvellement d'autorisation est prononcé pour une durée
-de cinq ans.
+c) Le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé ou son représentant ;
+
+d) Le directeur général de l'Agence de la biomédecine ou son représentant ;
+
+e) Le président de la Commission nationale de biovigilance ou son représentant.
+
+2° Douze membres nommés par le ministre chargé de la santé pour une durée de
+trois ans renouvelable :
+
+a) Onze personnalités scientifiques choisies en raison de leurs compétences dans
+le domaine de la thérapie génique ou cellulaire dont une sur proposition du
+ministre de la défense et une sur proposition du président de l'Etablissement
+français du sang ;
+
+b) Une personne représentant les associations d'usagers du système de santé
+ayant fait l'objet d'un agrément au niveau national en application de l'article
+L. 1114-1. Celle-ci participe aux délibérations de la commission avec voix
+consultative.
