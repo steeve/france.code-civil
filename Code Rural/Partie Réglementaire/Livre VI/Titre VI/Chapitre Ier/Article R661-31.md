@@ -9,7 +9,7 @@ interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 Ce bulletin doit être présenté à toute réquisition par le transporteur ou le
 détenteur des produits mentionnés. Il tient lieu, pour les viticulteurs
 procédant à des plantations de vigne, de l'attestation prévue à l'article R.
-664-16.
+665-16.
 
 Les entreprises de production et de distribution sont tenues de présenter à
 toute réquisition des agents habilités au contrôle, les souches des carnets
