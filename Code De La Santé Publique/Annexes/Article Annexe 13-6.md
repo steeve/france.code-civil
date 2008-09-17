@@ -1,7 +1,5 @@
 Article Annexe 13-6
 ----
-I. - Installations sanitaires dans les piscines
-
 A. - Installations sanitaires réservées aux baigneurs et assimilés
 
 1. Douches
@@ -70,8 +68,3 @@ B. - Installations sanitaires réservées au public
 
 Pour chaque fraction de 100 personnes, un lavabo, un cabinet d'aisance et un
 urinoir au moins doivent être installés.
-
-II. - Installations sanitaires dans les baignades aménagées
-
-Des cabinets d'aisance dont l'emplacement est signalé doivent être installés à
-proximité ; ils sont au moins au nombre de deux.

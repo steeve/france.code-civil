@@ -1,16 +1,27 @@
 Article D1332-17
 ----
-Des prélèvements d'échantillons sont effectués à la diligence de la direction
-départementale des affaires sanitaires et sociales sur l'eau des baignades
-mentionnées au présent chapitre, selon une fréquence et dans des conditions
-telles que définies au II de l'annexe 13-5.
+La commune établit la liste des eaux de baignade recensées pour la saison
+balnéaire suivante, sur la base de la synthèse des observations exprimées par le
+public, des réponses des déclarants de baignade aménagée et des eaux de baignade
+dont la commune est responsable. Cette liste inclut les eaux de baignade de la
+saison balnéaire précédente. Toutefois, les eaux de baignade dont les
+caractéristiques ont été modifiées et pour lesquelles la définition d'une eau de
+baignade prévue à l'article L. 1332-2 ne s'applique plus peuvent être exclues de
+cette liste, sous réserve qu'une justification soit apportée.
 
-Les prélèvements sont analysés par un laboratoire agréé par le ministère de la
-santé. Les méthodes d'analyse employées par les laboratoires doivent être soit
-les méthodes de référence fixées par un arrêté du ministre chargé de la santé,
-dont il peut saisir pour avis l'Agence française de sécurité sanitaire de
-l'environnement et du travail, soit des méthodes conduisant à des résultats
-équivalents.
+Les informations à fournir par la commune pour chaque eau de baignade sont les
+suivantes :
 
-Le silence gardé pendant plus de six mois sur la demande d'agrément d'un
-laboratoire vaut décision de rejet.
+1° Nom du site ;
+
+2° Nom de la commune et numéro INSEE ;
+
+3° Nom de la personne physique ou morale responsable de l'eau de baignade ;
+
+4° Coordonnées géographiques de l'eau de baignade ;
+
+5° Baignade aménagée ou non aménagée ;
+
+6° Type d'eau : eau douce, eau salée ;
+
+7° Durée et dates prévisibles de la saison balnéaire.
