@@ -10,7 +10,6 @@ c) Trois représentants sur proposition du ministre chargé du budget ;
 
 d) Un représentant sur proposition du ministre chargé du tourisme ;
 
-e) Un représentant sur proposition du ministre chargé des départements et
-territoires d'outre-mer ;
+e) Un représentant sur proposition du ministre chargé de l'outre-mer ;
 
 f) Un représentant sur proposition du ministre chargé de la ville.
