@@ -3,7 +3,7 @@ Article R112-10
 La convention générale fixe notamment :
 
 1° Les modalités générales du financement des investissements et les rapports
-financiers entre l'Etat et le concessionnaire ;
+financiers entre l'autorité concédante et le concessionnaire ;
 
 2° Les justifications comptables que celui-ci est tenu de fournir, la date de
 leur présentation ainsi que la ou les autorités auxquelles elles seront

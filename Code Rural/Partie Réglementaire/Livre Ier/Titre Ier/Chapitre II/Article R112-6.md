@@ -1,8 +1,11 @@
 Article R112-6
 ----
 Les travaux nécessaires à la mise en valeur d'une région déterminée, prévus à
-l'article L. 112-8, font l'objet de programmes établis à la diligence du
-ministre chargé du plan ou d'un des ministres intéressés, après avis d'une
-commission spéciale dans laquelle sont représentés les divers départements
-ministériels intéressés soit par les travaux à exécuter, soit en tant que
-tuteurs des établissements en cause.
+l'article L. 112-8, font l'objet de programmes établis à la diligence du préfet
+de région du lieu du siège de l'organisme en cause ou, lorsque la région
+bénéficie du transfert de compétence mentionné à l'article L. 112-8, à la
+diligence du conseil régional.
+
+L'Etat ou, lorsqu'elle bénéficie du transfert de compétence susmentionné, la
+région définit les orientations relatives à l'aménagement, l'entretien, la
+gestion et, le cas échéant, l'extension des ouvrages concernés.
