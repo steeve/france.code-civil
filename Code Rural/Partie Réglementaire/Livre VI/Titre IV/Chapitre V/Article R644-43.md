@@ -1,4 +1,4 @@
-Article R644-1
+Article R644-43
 ----
 Les conditions auxquelles est subordonnée l'attribution du label prévu par
 l'article L. 644-12 pour les vins délimités de qualité supérieure sont fixées

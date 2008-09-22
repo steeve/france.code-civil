@@ -1,7 +1,7 @@
-Article R644-5
+Article R644-47
 ----
-Les vins bénéficiant d'une appellation d'origine assortie de la dénomination
-"Vin délimité de qualité supérieure" ne peuvent être commercialisés avant le 1er
+Les vins bénéficiant d'une appellation d'origine assortie de la dénomination "
+Vin délimité de qualité supérieure ” ne peuvent être commercialisés avant le 1er
 décembre suivant la récolte.
 
 A partir de cette date, ils sont commercialisés librement, sous réserve que les
@@ -25,7 +25,7 @@ avant les vendanges.
 
 Si le rendement des vignes dépasse le volume susceptible d'être labellisé
 déterminé en tenant compte de la totalité de la vendange récoltée pour
-l'appellation d'origine "Vin délimité de qualité supérieure" considérée, les
+l'appellation d'origine " Vin délimité de qualité supérieure ” considérée, les
 labels ne peuvent être délivrés, à concurrence des quantités définies ci-dessus,
 qu'à la condition que le viticulteur ait souscrit l'engagement de livrer à la
 transformation en alcool les vins produits en dépassement du volume maximum
@@ -37,8 +37,8 @@ l'élimination des vins produits en dépassement du volume maximum susceptible
 d'être labellisé devant être effective au plus tard le 15 décembre de l'année
 suivant celle de la récolte.
 
-En aucun cas les quantités d'alcool produites en application des dispositions du
-présent article ne peuvent être considérées comme produites au titre des
-obligations ou des possibilités de distillation fixées par le règlement
-vitivinicole communautaire en application du règlement (CE) n° 1493/99 du
-Conseil du 17 mai 1999 portant organisation commune du marché viti-vinicole.
+Les quantités d'alcool produites en application des dispositions du présent
+article ne peuvent être considérées comme produites au titre des obligations ou
+des possibilités de distillation fixées par le règlement vitivinicole
+communautaire en application du règlement (CE) n° 1493 / 99 du Conseil du 17 mai
+1999 portant organisation commune du marché vitivinicole.

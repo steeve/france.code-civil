@@ -1,18 +1,18 @@
-Article R644-2
+Article R644-44
 ----
-La délivrance des labels prévus à l'article R. 644-1 est subordonnée :
+La délivrance des labels prévus à l'article R. 644-43 est subordonnée :
 
 1° A la présentation d'une déclaration d'encépagement souscrite dans les mêmes
 conditions que celles prévues pour les vins à appellation d'origine contrôlée ;
 
 2° A l'analyse préalable d'un échantillon du vin pour lequel est réclamé le
-bénéfice de la dénomination "Vin délimité de qualité supérieure". Cette analyse
-est effectuée par un des laboratoires agréés par le service de la répression des
-fraudes ;
+bénéfice de la dénomination " Vin délimité de qualité supérieure ”. Cette
+analyse est effectuée par un des laboratoires agréés par le service de la
+répression des fraudes ;
 
 3° A l'examen d'un échantillon du vin par la commission syndicale de
 dégustation, conformément aux dispositions du règlement intérieur prévu à
-l'article R. 644-3.
+l'article R. 644-45.
 
 Les demandes d'agrément en vue de l'obtention du label doivent être présentées
 avant le 31 mai de l'année suivant la récolte.

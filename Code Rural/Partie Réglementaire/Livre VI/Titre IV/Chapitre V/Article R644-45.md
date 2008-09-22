@@ -1,4 +1,4 @@
-Article R644-3
+Article R644-45
 ----
 La délivrance des labels des vins délimités de qualité supérieure est confiée,
 sous le contrôle de l'Institut national de l'origine et de la qualité, au
