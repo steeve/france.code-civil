@@ -1,6 +1,7 @@
 Article R5412-1
 ----
-Le directeur général (2) de l'institution mentionnée à l'article L. 5312-1 du
-code du travail (1) ou la personne qu'il désigne en son sein (2) radie les
-personnes de la liste des demandeurs d'emploi dans les cas prévus aux articles
-L. 5412-1 et L. 5412-2.
+Le directeur délégué de l' institution mentionnée à l'article L. 5312-1 du code
+du travail radie les personnes de la liste des demandeurs d'emploi dans les cas
+prévus à l'article L. 5412-1. Dans le cas prévu au 2° de ce même article, les
+conditions de radiation sont appréciées au regard du projet personnalisé d'accès
+à l'emploi.
