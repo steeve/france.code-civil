@@ -12,8 +12,9 @@ sécurité sociale et par les institutions régies par le livre IX du code de la
 sécurité sociale et par les institutions régies par le livre VII du code rural ;
 
 3° Aux majorations de retard, frais de poursuite et pénalités attachées aux
-contributions et cotisations recouvrées par les institutions gérant le régime
-d'assurance chômage prévu aux articles L. 351-3 et suivants du code du travail ;
+contributions et cotisations recouvrées par l'institution mentionnée à l'
+article L. 5312-1 (1) du code du travail pour le compte de l'organisme
+gestionnaire du régime d'assurance chômage ;
 
 4° Aux cotisations et contributions sociales patronales d'origine légale ou
 conventionnelle qu'un employeur est tenu de verser au titre de l'emploi de

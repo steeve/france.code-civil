@@ -1,4 +1,10 @@
 Article R5312-14
 ----
-Les représentants de l'Etat au conseil d'administration sont nommés sur
-proposition du ministre dont ils dépendent.
+Le conseil d'administration se dote d'un règlement intérieur relatif à son
+fonctionnement.
+
+Ce règlement intérieur détermine notamment la composition et les attributions du
+comité d'audit prévu à l'article L. 5312-5, auquel assiste le représentant du
+contrôle économique et financier, et du comité d'évaluation prévu à l'article L.
+5312-5 ainsi que les conditions dans lesquelles ceux-ci peuvent avoir recours à
+des compétences extérieures.

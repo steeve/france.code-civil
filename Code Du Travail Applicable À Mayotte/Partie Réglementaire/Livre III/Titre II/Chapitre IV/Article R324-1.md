@@ -1,6 +1,6 @@
 Article R324-1
 ----
-I. - La demande tendant au bénéfice de l'aide à un projet initiative-jeune est
+I.-La demande tendant au bénéfice de l'aide à un projet initiative-jeune est
 adressée au représentant de l'Etat à Mayotte préalablement à la réalisation de
 ce projet professionnel.
 
@@ -16,26 +16,27 @@ Pour l'élaboration de son projet en vue de réaliser une formation en mobilité
 le demandeur bénéficie du concours, le cas échéant, d'un organisme agréé dans
 les conditions prévues par le X du présent article.
 
-II. - L'instruction du dossier est assurée :
+II.-L'instruction du dossier est assurée :
 
 a) Pour la création d'entreprises, dans les mêmes conditions que pour les aides
 prévues à l'article L. 325-1 et peut être examinée conjointement à celles-ci ;
 
 b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour
-l'insertion et la promotion des travailleurs d'outre-mer ou par celui de
-l'Agence nationale pour l'emploi ou par le responsable de l'organisme agréé à
-cet effet selon les modalités prévues au X du présent article.
+l'insertion et la promotion des travailleurs d'outre-mer ou par celui de l'
+institution mentionnée à l'article L. 5312-1 du code du travail ou par le
+responsable de l'organisme agréé à cet effet selon les modalités prévues au X du
+présent article.
 
-III. - Pour l'application des dispositions du a de l'article L. 324-9, est
+III.-Pour l'application des dispositions du a de l'article L. 324-9, est
 considéré comme remplissant la condition de direction effective de l'entreprise
 créée ou reprise le demandeur qui, sous sa propre responsabilité, assure la
 direction de l'entreprise et la représente dans ses rapports avec les tiers.
 
-IV. - Le délai dont dispose le représentant de l'Etat pour statuer sur la
-demande d'aide à la formation en mobilité est d'un mois. Le silence gardé par le
+IV.-Le délai dont dispose le représentant de l'Etat pour statuer sur la demande
+d'aide à la formation en mobilité est d'un mois. Le silence gardé par le
 représentant de l'Etat pendant plus d'un mois vaut décision de rejet.
 
-V. - L'aide à la formation en mobilité comprend une allocation mensuelle dans la
+V.-L'aide à la formation en mobilité comprend une allocation mensuelle dans la
 limite d'un montant maximum fixé par décret. Elle comporte également une prise
 en charge des frais liés à la formation, notamment des frais d'installation,
 dans la limite d'un montant fixé par ce même décret.
@@ -47,7 +48,7 @@ de l'inscription sur la liste des demandeurs d'emploi, jusqu'au terme d'une
 période de deux mois à l'issue de la formation s'il est attesté d'une recherche
 effective d'emploi.
 
-VI. - La gestion des crédits et le versement de l'aide en capital ainsi que des
+VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des
 mensualités pour la formation en mobilité sont confiés au Centre national pour
 l'aménagement des structures des exploitations agricoles, sous réserve des
 dispositions prévues au dernier alinéa du présent paragraphe. Lorsque la
@@ -64,7 +65,7 @@ Les modalités de la gestion par les organismes gestionnaires visés au présent
 article sont précisées par une convention qu'ils passent avec le ministre chargé
 de l'outre-mer.
 
-VII. - Le bénéfice du versement de l'aide à un projet initiative-jeune est
+VII.-Le bénéfice du versement de l'aide à un projet initiative-jeune est
 suspendu par décision du représentant de l'Etat à Mayotte lorsque le projet
 professionnel n'est plus conforme au projet initial ainsi que dans les cas
 suivants :
@@ -84,7 +85,7 @@ laquelle l'aide est suspendue ou en cas de fausse déclaration du bénéficiaire
 l'aide. Dans le cas de déclarations frauduleuses, le bénéficiaire rembourse à
 l'organisme gestionnaire l'aide versée.
 
-VIII. - Ne peuvent être cumulés avec l'aide à la création d'entreprise : le
+VIII.-Ne peuvent être cumulés avec l'aide à la création d'entreprise : le
 contrat d'apprentissage prévu à l'article L. 111-1, le contrat emploi-solidarité
 prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L.
 322-7, le contrat de retour à l'emploi prévu à l'article L. 323-1, le contrat
@@ -93,21 +94,20 @@ d'emplois prévue à l'article L. 325-2, le contrat de qualification prévu à
 l'article L. 711-5 ou le contrat emploi-développement prévu à l'article L.
 325-6.
 
-IX. - La formation en mobilité est dispensée sous la forme d'un contrat
+IX.-La formation en mobilité est dispensée sous la forme d'un contrat
 d'apprentissage prévu à l'article L. 111-1, d'un stage intéressant l'une des
 actions de formation prévue à l'article L. 711-2, d'un contrat en alternance, ou
 prend la forme d'un stage en entreprise accompli en France ou à l'étranger.
 
-Ne peuvent être cumulés avec l'aide à la formation en mobilité :
+Ne peuvent être cumulés avec l'aide à la formation en mobilité : le contrat
+emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu
+à l'article L. 322-7, le contrat de retour à l'emploi prévu à l'article L.
+323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à
+la création d'emplois prévue à l'article L. 325-2, ou le contrat
+emploi-développement prévu à l'article L. 325-6.
 
-le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi
-consolidé prévu à l'article L. 322-7, le contrat de retour à l'emploi prévu à
-l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L.
-324-1, la prime à la création d'emplois prévue à l'article L. 325-2, ou le
-contrat emploi-développement prévu à l'article L. 325-6.
-
-X. - Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public
-ou privé, ayant la capacité de proposer ou de faire accéder à une formation
+X.-Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou
+privé, ayant la capacité de proposer ou de faire accéder à une formation
 professionnelle, en France ou à l'étranger, ainsi que d'assurer un
 accompagnement du stagiaire.
 

@@ -24,7 +24,8 @@ l'enseignement technique ;
 
 9° Le directeur régional du travail et de l'emploi ;
 
-10° Le chef du centre régional de l'Agence nationale pour l'emploi ;
+10° Le chef du centre régional de l' institution mentionnée à l'article L.
+5312-1 du code du travail ;
 
 11° Le directeur régional de la jeunesse et des sports ;
 

@@ -1,7 +1,8 @@
 Article R5312-15
 ----
-Le délégué à l'emploi, commissaire du Gouvernement, le directeur général de
-l'Agence nationale pour l'emploi, le membre du corps du contrôle général
-économique et financier et l'agent comptable participent aux séances du conseil
-d'administration avec voix consultative. En cas d'empêchement, le commissaire du
-Gouvernement peut se faire représenter par un mandataire.
+L'ordre du jour de chaque réunion est arrêté par le président, après
+consultation des vice-présidents, et sur proposition du directeur général.
+
+La convocation est de droit si elle est demandée par le ministre chargé de
+l'emploi, le directeur général ou la majorité des membres, sur un ordre du jour
+déterminé.

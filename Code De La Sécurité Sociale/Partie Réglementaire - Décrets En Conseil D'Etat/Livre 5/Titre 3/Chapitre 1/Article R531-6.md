@@ -10,8 +10,8 @@ familles qui :
 2° Sont titulaires d'un contrat d'insertion mentionné à l'article L. 262-37 du
 code de l'action sociale et des familles ;
 
-3° Sont inscrites comme demandeur d'emploi auprès de l'Agence nationale pour
-l'emploi ;
+3° Sont inscrites comme demandeur d'emploi auprès de l' institution mentionnée à
+l'article L. 5312-1 du code du travail ;
 
 4° Suivent une formation professionnelle prévue au livre IX du code du travail.
 

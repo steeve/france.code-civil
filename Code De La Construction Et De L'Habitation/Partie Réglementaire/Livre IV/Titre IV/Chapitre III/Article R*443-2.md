@@ -35,7 +35,7 @@ logement avec l'accédant ;
 kilomètres entre le nouveau lieu de travail et le logement ;
 
 -chômage de l'accédant d'une durée supérieure à un an attestée par l'inscription
-à l'Agence nationale pour l'emploi ;
+à l' institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 -invalidité reconnue de l'accédant soit par la décision de la commission des
 droits et de l'autonomie des personnes handicapées, soit par délivrance par
@@ -50,7 +50,7 @@ L'organisme, ou toute personne morale avec laquelle l'organisme a conclu une
 convention à cet effet, est tenu de racheter le logement à un prix qui ne peut
 être inférieur à 80 % du prix de la vente initiale, ou, en cas de
 location-accession, du prix arrêté lors de la levée de l'option. Toutefois, ce
-prix de rachat peut être diminué de 1,5 % au plus par année écoulée entre la
+prix de rachat peut être diminué de 1, 5 % au plus par année écoulée entre la
 sixième et la quinzième année suivant celle au cours de laquelle la vente
 initiale ou, en cas de location-accession, le transfert de propriété a eu lieu.
 
@@ -88,9 +88,9 @@ possibilités, dans un délai de trois mois à compter de la demande de mise en 
 de ladite garantie.
 
 Le bénéficiaire de la garantie dispose d'un délai d'un mois à compter de la
-remise de la dernière offre pour exprimer son accord. A l'expiration de ce
-délai, la garantie cesse de s'appliquer s'il n'a pas accepté l'une des trois
-offres qui lui ont été proposées.
+remise de la dernière offre pour exprimer son accord.A l'expiration de ce délai,
+la garantie cesse de s'appliquer s'il n'a pas accepté l'une des trois offres qui
+lui ont été proposées.
 
 V.-Les contrats de vente de logements prévoyant les garanties mentionnées au
 présent article reproduisent les dispositions du III et du IV.

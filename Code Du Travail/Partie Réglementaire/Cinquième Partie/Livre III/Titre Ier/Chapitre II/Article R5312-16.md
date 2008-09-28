@@ -1,6 +1,11 @@
 Article R5312-16
 ----
-Les membres du conseil d'administration sont désignés pour trois ans. Ce mandat
-est renouvelable. Il peut, toutefois, être mis fin à tout moment au mandat des
-représentants de l'Etat. Chaque membre, à l'exception du président, peut se
-faire représenter par un suppléant nommément désigné.
+Le conseil d'administration ne peut valablement délibérer que si au moins dix de
+ses membres sont présents. Si ce nombre n'est pas atteint, le conseil est
+convoqué à nouveau dans un délai de quinze jours. Il peut alors délibérer
+valablement quel que soit le nombre des membres présents.
+
+Les décisions sont prises à la majorité des membres présents, à l'exception de
+celles relatives aux matières mentionnées aux 11° et 13° de l'article R. 5312-6
+qui le sont à la majorité des deux tiers des membres présents. En cas de partage
+égal de voix, celle du président est prépondérante.

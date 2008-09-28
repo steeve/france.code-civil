@@ -1,4 +1,5 @@
 Article R5134-40
 ----
 La convention individuelle mentionnée à l'article L. 5134-39 est conclue, pour
-le compte de l'Etat, par l'Agence nationale pour l'emploi.
+le compte de l'Etat, par l' institution mentionnée à l'article L. 5312-1 du code
+du travail .

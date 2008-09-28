@@ -32,5 +32,5 @@ de main-d'œuvre ; 22° D'un spécialiste des problèmes d'insertion professionn
 des travailleurs handicapés désigné par le ministre chargé de l'emploi ; 23°
 D'un représentant de l'association chargée de la gestion du fonds de
 développement pour l'insertion des personnes handicapées ; 24° D'un représentant
-de l'Agence nationale pour l'emploi ; 25° D'un représentant de l'Association
-pour la formation professionnelle des adultes.
+de l' institution mentionnée à l'article L. 5312-1 du code du travail ; 25° D'un
+représentant de l'Association pour la formation professionnelle des adultes.

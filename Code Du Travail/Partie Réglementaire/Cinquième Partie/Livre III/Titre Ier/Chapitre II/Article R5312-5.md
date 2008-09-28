@@ -1,5 +1,5 @@
 Article R5312-5
 ----
-L'Agence nationale pour l'emploi est administrée par un conseil d'administration
-et dirigée par un directeur général nommé par décret pris sur rapport du
-ministre chargé de l'emploi.
+L'institution mentionnée à l'article L. 5312-1 représente l'Etat devant les
+juridictions administratives compétentes en cas de litiges relatifs à des
+décisions prises ou à des conventions conclues pour le compte de l'Etat.

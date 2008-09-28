@@ -5,7 +5,7 @@ Lorsque, au cours de la période retenue pour l'application de l'article L.
 employeurs affiliés au régime d'assurance a été plus longue que l'ensemble des
 périodes d'emploi accomplies pour le compte d'un ou plusieurs employeurs
 relevant de l'article L. 5424-1, la charge de l'indemnisation incombe à
-l'organisme gestionnaire du régime d'assurance. Dans le cas contraire, cette
-charge incombe à l'employeur relevant de l'article L. 5424-1, ou à celui des
-employeurs relevant de cet article qui a employé l'intéressé durant la période
-la plus longue.
+l'institution mentionnée à l'article L. 5312-1 pour le compte de l'organisme
+mentionné à l'article L. 5427-1. Dans le cas contraire, cette charge incombe à
+l'employeur relevant de l'article L. 5424-1, ou à celui des employeurs relevant
+de cet article qui a employé l'intéressé durant la période la plus longue.

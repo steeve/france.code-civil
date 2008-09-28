@@ -34,7 +34,8 @@ répression des fraudes au ministère chargé de l'économie ;
 j) Le directeur de la jeunesse et de la vie associative au ministère chargé de
 la jeunesse ;
 
-k) Le directeur général de l'Agence nationale pour l'emploi ;
+k) Le directeur général de l' institution mentionnée à l'article L. 5312-1 du
+code du travail ;
 
 l) Le directeur général de l'industrie, des technologies de l'information et des
 postes au ministère chargé de l'industrie ;

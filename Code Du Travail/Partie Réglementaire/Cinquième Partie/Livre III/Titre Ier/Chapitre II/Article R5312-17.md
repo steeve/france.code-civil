@@ -1,4 +1,7 @@
 Article R5312-17
 ----
-Le conseil d'administration élit, chaque année, un vice-président, choisit
-alternativement parmi les représentants des employeurs et des salariés.
+Le secrétariat du conseil d'administration est assuré à la diligence du
+directeur général. Un exemplaire du procès-verbal de chaque réunion du conseil
+d'administration, signé par le président, est transmis aux membres du conseil
+d'administration ainsi qu'au représentant du contrôle général économique et
+financier.

@@ -7,8 +7,10 @@ montant global du reliquat des droits ouverts au titre de la précédente
 admission et le montant global des droits ouverts au titre de la nouvelle
 admission. Lorsque le montant le plus élevé est celui du reliquat des droits de
 la précédente admission, l'allocation est à la charge de l'employeur ou de
-l'institution d'assurance chômage qui a décidé la précédente admission. Lorsque
-le montant le plus élevé correspond aux droits ouverts au titre de la nouvelle
+l'institution mentionnée à l'article L. 5312-1 pour le compte de l'organisme
+mentionné à l'article L. 5427-1 qui a décidé la précédente admission. Lorsque le
+montant le plus élevé correspond aux droits ouverts au titre de la nouvelle
 admission, l'allocation est à la charge de l'employeur ou de l'institution
-d'assurance chômage qui décide la nouvelle admission, après application des
+mentionnée à l'article L. 5312-1 pour le compte de l'organisme mentionné à
+l'article L. 5427-1 qui décide la nouvelle admission, après application des
 dispositions des articles R. 5424-2 à R. 5424-5.

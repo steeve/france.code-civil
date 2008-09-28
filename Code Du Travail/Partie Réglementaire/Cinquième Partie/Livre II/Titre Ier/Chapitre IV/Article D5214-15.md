@@ -19,6 +19,7 @@ salariés et de la Caisse nationale d'assurance maladie et maternité des
 travailleurs non-salariés ; 12° Le représentant de la Mutualité sociale agricole
 ; 13° Le représentant de l'association chargée de la gestion du fonds de
 développement pour l'insertion professionnelle des personnes handicapées ; 14°
-Le représentant de l'Agence nationale pour l'emploi ; 15° Le représentant de
-l'Association pour la formation professionnelle des adultes ; 16° Le spécialiste
-des problèmes d'insertion professionnelle des travailleurs handicapés.
+Le représentant de l' institution mentionnée à l'article L. 5312-1 du code du
+travail ; 15° Le représentant de l'Association pour la formation professionnelle
+des adultes ; 16° Le spécialiste des problèmes d'insertion professionnelle des
+travailleurs handicapés.

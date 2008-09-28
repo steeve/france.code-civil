@@ -6,7 +6,7 @@ services de santé au travail, et R. 4624-10 à R. 4624-14, relatifs à l'examen
 d'embauche ; 2° Déclaration auprès de l'ensemble des administrations ou
 organismes intéressés au titre des articles R. 5422-5 à R. 5422-8, relatifs à
 l'obligation d'assurance contre le risque de privation d'emploi et à
-l'obligation pour l'employeur d'adresser à l'organisme gestionnaire de
-l'assurance chômage des déclarations ; 3° Déclaration auprès des administrations
-ou organismes intéressés au titre de l'article L. 3141-30, relatif aux caisses
-de congés payés.
+l'obligation pour l'employeur d'adresser à l'institution mentionnée à l'article
+L. 5312-1 des déclarations (1); 3° Déclaration auprès des administrations ou
+organismes intéressés au titre de l'article L. 3141-30, relatif aux caisses de
+congés payés.
