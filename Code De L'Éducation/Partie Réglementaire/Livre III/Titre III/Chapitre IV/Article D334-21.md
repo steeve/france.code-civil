@@ -50,4 +50,6 @@ second degré peut être désigné.
 
 Au sein des jurys conduisant à la délivrance du baccalauréat option
 internationale ou à la délivrance de baccalauréats binationaux, le recteur peut
-désigner des personnels d'inspection ou d'enseignement étrangers.
+désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent
+constituer plus de la moitié des membres du jury, ni exercer la fonction de
+président ou président adjoint.
