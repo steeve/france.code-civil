@@ -23,5 +23,8 @@ permission de sortir.
 Dans tous les cas, il lui est remis contre récépissé ou adressé en annexe du
 courrier prévu au deuxième alinéa un document récapitulant ses obligations et
 précisant les conditions selon lesquelles il doit y être satisfait conformément
-aux dispositions des articles R. 53-8-13 à R. 53-8-15. Le modèle de ce document
-est fixé par le ministre de la justice.
+aux dispositions des articles R. 53-8-13 à R. 53-8-15. Ce document informe la
+personne inscrite dans le fichier que les administrations de l'Etat mentionnées
+à l'article R. 53-8-24 peuvent directement interroger le fichier en application
+du premier alinéa du 3° de l'article 706-53-7. Le modèle de ce document est fixé
+par le ministre de la justice.

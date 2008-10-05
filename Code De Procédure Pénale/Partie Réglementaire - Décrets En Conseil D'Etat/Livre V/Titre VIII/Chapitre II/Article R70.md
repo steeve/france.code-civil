@@ -10,9 +10,9 @@ casier judiciaire national automatisé, quand le titulaire aurait atteint l'âge
 de cent ans ;
 
 2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par
-l'amnistie, la réhabilitation ou lorsque sont expirés le délai de quarante ans
-prévu par le deuxième alinéa de l'article 769 ou les délais prévus par les 1°,
-3°, 4° et 5° de cet article ;
+l'amnistie ou lorsque sont expirés le délai de quarante ans prévu par le
+deuxième alinéa de l'article 769 ou les délais prévus par les 1°, 4° et 5° de
+cet article ;
 
 3° Lorsque l'intéressé a obtenu une décision de rectification du casier
 judiciaire, le retrait se fait, selon le cas, à la diligence du procureur
@@ -41,4 +41,8 @@ condamnation ou à la nouvelle composition pénale ;
 
 7° Lorsque le tribunal pour enfants a décidé la suppression de la fiche en
 application de l'article 770, le retrait se fait à la diligence du ministère
-public près le tribunal pour enfants qui a rendu cette décision.
+public près le tribunal pour enfants qui a rendu cette décision ;
+
+8° Lorsque la juridiction a expressément ordonné, en application des
+dispositions de l'article 798 ou de l'article 798-1, la suppression du casier
+judiciaire d'une condamnation ayant fait l'objet d'une réhabilitation.
