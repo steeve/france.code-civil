@@ -1,8 +1,6 @@
 Article D654-2
 ----
-Les exploitants de tueries dans lesquelles sont préparées moins de 50 volailles
-par jour ouvrable ne sont pas assujettis aux mesures prévues par la présente
-sous-section, sous réserve que ces volailles proviennent de l'élevage de
-l'exploitant et que ce dernier en assure la vente directe aux seuls
-consommateurs. Les arrêtés prévus à l'article R. 654-6 pourront déterminer les
-mesures élémentaires d'hygiène auxquelles ces tueries devront satisfaire.
+Les tueries de volailles et de lagomorphes mentionnées à l'article L. 654-3 sont
+des établissements d'abattage non agréés. Ces établissements sont autorisés à
+fonctionner sous réserve de respecter les dispositions des articles D. 654-3 à
+D. 654-5.
