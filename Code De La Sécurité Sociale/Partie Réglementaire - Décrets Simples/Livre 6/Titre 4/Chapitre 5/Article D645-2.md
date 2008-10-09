@@ -11,12 +11,4 @@ omnipraticien fixé dans les conditions prévues aux articles L. 162-5 et L.
 
 2°) Paragraphe abrogé ;
 
-3°) pour les sages-femmes, à 229 euros ;
-
-4°) pour les auxiliaires médicaux à quarante fois la valeur de l'index A. M. V.
-La valeur dudit index est égale au tarif, en vigueur au 1er janvier 1975, de la
-lettre-clé AMI prévue par l'annexe n° 1 de la convention nationale des
-infirmiers approuvée par arrêté interministériel. Pour les exercices 1976 et
-suivants, la valeur de l'index A. M. V. variera comme la moyenne pondérée des
-lettres-clés utilisées par les auxiliaires médicaux conventionnés, dans les
-conditions fixées par arrêté du ministre chargé de la sécurité sociale.
+3°) pour les sages-femmes, à 229 euros.
