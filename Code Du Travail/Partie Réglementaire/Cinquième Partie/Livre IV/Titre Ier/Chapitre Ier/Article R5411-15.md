@@ -1,7 +1,8 @@
 Article R5411-15
 ----
-Le projet personnalisé d'accès à l'emploi définit les caractéristiques des
-emplois recherchés et tient compte : 1° De la situation du demandeur d'emploi,
-notamment de sa formation, de sa qualification, de sa situation personnelle et
-familiale ; 2° De la situation locale du marché du travail et des possibilités
-de mobilité géographique et professionnelle de l'intéressé.
+Pour l'application de l'article L. 5411-6-3, le salaire antérieurement perçu est
+défini selon les règles de détermination du salaire de référence servant au
+calcul de l'allocation d'assurance fixées par l'accord relatif à l'assurance
+chômage prévu à l'article L. 5422-20, agréé par le ministre chargé de l'emploi.
+
+Le salaire antérieurement perçu est apprécié sur une base horaire.
