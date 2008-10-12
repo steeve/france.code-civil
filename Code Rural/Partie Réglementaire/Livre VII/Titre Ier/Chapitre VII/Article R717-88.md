@@ -1,5 +1,7 @@
 Article R717-88
 ----
-Lorsque les travaux sont effectués dans des locaux fermés et dans une atmosphère
-dangereuse pour la santé des travailleurs, le temps de présence doit être aussi
-limité que possible.
+Les travailleurs ne doivent être admis dans les locaux ayant fait l'objet d'un
+traitement antiparasitaire qu'après ventilation suffisante et observation, s'il
+y a lieu, de délais évitant les effets toxiques rémanents. En cas de nécessité
+d'intervention anticipée, les moyens de protection individuelle appropriés
+doivent être fournis.

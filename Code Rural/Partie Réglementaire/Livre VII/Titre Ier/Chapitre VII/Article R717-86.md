@@ -1,7 +1,5 @@
 Article R717-86
 ----
-Lorsque les dispositions des articles R. 4222-1 et suivants du code du travail
-relatifs au nettoyage, à l'aération, l'assainissement et l'ambiance thermique
-des lieux de travail ne peuvent recevoir application en raison de la nature des
-opérations agricoles pratiquées, des mesures d'effet équivalent doivent être
-prises pour la protection de la santé des travailleurs.
+Les dispositions de la présente section, prises en application de l'article L.
+4111-6 du code du travail, prévoient certaines dispositions particulières à
+l'utilisation des lieux de travail dans les établissements agricoles.

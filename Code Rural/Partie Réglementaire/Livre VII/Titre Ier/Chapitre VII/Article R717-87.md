@@ -1,7 +1,7 @@
 Article R717-87
 ----
-Les travailleurs ne doivent être admis dans les locaux ayant fait l'objet d'un
-traitement antiparasitaire qu'après ventilation suffisante et observation, s'il
-y a lieu, de délais évitant les effets toxiques rémanents. En cas de nécessité
-d'intervention anticipée, les moyens de protection individuelle appropriés
-doivent être fournis.
+Lorsque les dispositions des articles R. 4222-1 et suivants du code du travail
+relatifs au nettoyage, à l'aération, l'assainissement et l'ambiance thermique
+des lieux de travail ne peuvent recevoir application en raison de la nature des
+opérations agricoles pratiquées, des mesures d'effet équivalent doivent être
+prises pour la protection de la santé des travailleurs.
