@@ -1,7 +1,7 @@
 Article R5426-15
 ----
 Le préfet peut prononcer pour des faits présentant un caractère délibéré et
-selon les modalités fixées par l'article L. 5426-5 et suivants, la pénalité
+selon les modalités fixées par l'article L. 5426-9 et suivants, la pénalité
 prévue à cet article, après avis de la commission mentionnée à l'article R.
 5426-5. Lorsqu'il envisage de prononcer cette pénalité, il informe préalablement
 par écrit la personne concernée des faits qui lui sont reprochés et de la
