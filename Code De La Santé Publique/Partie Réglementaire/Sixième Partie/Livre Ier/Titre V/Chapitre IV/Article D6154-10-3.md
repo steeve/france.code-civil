@@ -2,11 +2,11 @@ Article D6154-10-3
 ----
 Le taux de la redevance mentionnée à l'article L. 6154-3 est ainsi fixé :
 
-1° Consultations : 25 % pour les centres hospitaliers universitaires, 15 % pour
+1° Consultations : 16 % pour les centres hospitaliers universitaires, 15 % pour
 les centres hospitaliers ;
 
 2° Actes autres que les actes d'imagerie, de radiothérapie, de médecine
-nucléaire, de biologie : 40 % pour les centres hospitaliers universitaires, 20 %
+nucléaire, de biologie : 25 % pour les centres hospitaliers universitaires, 16 %
 pour les centres hospitaliers ;
 
 3° Actes d'imagerie, de radiothérapie, de médecine nucléaire, de biologie : 60 %
