@@ -57,7 +57,7 @@ c) Une spécialité pharmaceutique ou à un autre médicament mentionnés à l'a
 L. 5121-8, relative à une nouvelle forme galénique sans modification ni de la
 voie d'administration ni de l'usage thérapeutique ;
 
-d) Une spécialité pharmaceutique ou à un autre médicament à base de plantes ;
+d) alinéa abrogé ;
 
 f) Une spécialité pharmaceutique ou à un autre médicament mentionnés à l'article
 L. 5121-8 consistant en allergène, par famille de produits ;
