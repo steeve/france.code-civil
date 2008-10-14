@@ -10,4 +10,4 @@ emploi des établissements collecteurs à condition que ces derniers prennent en
 charge un pourcentage équivalent du montant total des rémunérations à servir aux
 déposants et qu'ils s'engagent à ne pas se référer dans leurs opérations de
 crédit au montant de la rémunération servie au compte sur livret d'épargne
-populaire. Cette fraction ne peut excéder 15 % de l'encours des dépôts.
+populaire. Cette fraction ne peut excéder 30 % de l'encours des dépôts.
