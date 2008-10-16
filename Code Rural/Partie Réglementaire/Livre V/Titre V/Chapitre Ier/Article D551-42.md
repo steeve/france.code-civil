@@ -1,14 +1,18 @@
 Article D551-42
 ----
-Pour atteindre les objectifs établis à l'article 11 du règlement (CE) n° 2200/96
-du 28 octobre 1996 susmentionné et assurer ses fonctions essentielles, notamment
-celles mentionnées aux articles D. 551-37 à D. 551-41, l'organisation de
-producteurs doit disposer du personnel, de l'infrastructure et de l'équipement
-nécessaires à l'accomplissement de ses missions.
+L'organisation de producteurs contrôle les produits de ses membres pour
+déterminer leurs caractéristiques en vue de leur commercialisation. Pour ce
+faire, elle dispose de grilles d'agréage et d'un cahier des charges pour chaque
+produit.
 
-Elle dispose notamment d'un personnel correspondant au minimum à l'équivalent
-d'un salarié à temps plein et de moyens techniques, en propriété ou en location,
-en fonction des caractéristiques des productions qu'elles commercialisent. Cette
-disposition ne s'applique pas aux organisations de producteurs pour lesquelles
-le seuil de valeur minimale de production commercialisée est fixé en application
-de l'article D. 551-35 à moins d'un million d'euros.
+Par dérogation au paragraphe précédent, lorsque la fonction d'agréage est
+réalisée par le producteur, l'organisation de producteurs, qui en reste
+responsable, s'assure de sa maîtrise notamment en mettant en place un dispositif
+contrôlé par elle comprenant la formation et l'information des producteurs,
+ainsi que la mise en place d'un contrôle physique de second niveau, s'appuyant
+sur un échantillon représentatif de l'ensemble des opérations d'agréage, réalisé
+par un agent de l'organisation de producteurs ou par un organisme extérieur.
+
+L'organisation de producteurs contrôle, par échantillonnage le cas échéant,
+l'agréage réalisé par ses acheteurs ou prestataires. Ce contrôle peut être opéré
+par un producteur membre de l'organisation.

@@ -1,10 +1,13 @@
 Article D551-34
 ----
 Pour être reconnue, une organisation de producteurs de fruits et légumes ou une
-association de producteurs doit répondre aux dispositions prévues par les
-règlements (CE) n° 2200/96 du Conseil du 28 octobre 1996 portant organisation
-commune des marchés dans le secteur des fruits et légumes et n° 1432/2003 de la
-Commission du 11 août 2003 portant modalités d'application du règlement (CE) n°
-2200/96 du Conseil en ce qui concerne la reconnaissance des organisations de
-producteurs et la préreconnaissance des groupements de producteurs et à celles
-de la présente section et de la section 1.
+association d'organisations de producteurs doit satisfaire aux conditions
+prévues par le règlement (CE n° 1234 / 2007 du Conseil du 22 octobre 2007
+portant organisation commune des marchés dans le secteur agricole et
+dispositions spécifiques en ce qui concerne certains produits de ce secteur et
+le règlement (CE) n° 1580 / 2007 de la Commission du 21 décembre 2007 portant
+modalités d'application des règlements (CE) n° 2200 / 96, (CE) n° 2001 / 96 et
+(CE) n° 1182 / 2007 du Conseil dans le secteur des fruits et légumes, en ce qui
+concerne la reconnaissance des organisations de producteurs, des associations
+d'organisations de producteurs et à celles de la présente section et de la
+section 1.

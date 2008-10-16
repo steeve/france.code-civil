@@ -1,15 +1,30 @@
 Article D551-54
 ----
-Les agents des services de l'Etat chargés de l'agriculture sont chargés de
-contrôler le respect des critères fixés au I et au II de l'article D. 551-48.
+Les statuts des associations d'organisations de producteurs comportent des
+dispositions :
 
-S'il est constaté, lors d'un contrôle sur place, que le plan de reconnaissance
-n'est pas réalisé dans les conditions ayant fait l'objet de l'agrément et que
-l'anomalie risque de compromettre la réalisation du plan, le groupement de
-producteurs doit présenter une demande de modification du plan de reconnaissance
-dans un délai de deux mois à compter de la notification des constats réalisés
-selon les modalités définies conformément à l'article D. 551-46.
+a) Etablissant que le groupement est constitué à l'initiative d'organisations de
+producteurs qui y adhèrent volontairement ;
 
-Un nouveau contrôle est réalisé l'année suivante afin de s'assurer de la mise en
-oeuvre par le groupement de producteurs des modifications visées à l'alinéa
-précédent.
+b) Prévoyant que les organisations de producteurs adhérentes détiennent à tout
+moment au moins 75 % des voix ;
+
+c) Prévoyant que les organisations de producteurs adhérentes s'engagent à
+déléguer à l'association d'organisations de producteurs les activités
+mentionnées dans l'objet de ses statuts ;
+
+d) Prévoyant l'obligation pour ses membres d'observer les règles édictées par
+l'organisme et de se soumettre à son contrôle technique ;
+
+e) Fixant les sanctions applicables en cas d'inobservation des règles édictées
+par l'organisme ou en cas d'opposition au contrôle technique ;
+
+f) Désignant les organes du groupement chargés d'édicter les règles prévues à
+l'article L. 551-1 et les règles de quorum et de majorité, conformément aux
+dispositions applicables au secteur concerné lorsque celles-ci existent ;
+
+g) Limitant le nombre de mandats dont peut disposer un membre lors des
+délibérations de l'organe compétent ;
+
+h) Arrêtant si et dans quelles conditions les membres qui ne sont pas des
+organisations de producteurs reconnues peuvent être admis.

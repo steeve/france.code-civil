@@ -1,8 +1,18 @@
 Article D551-51
 ----
-I.-Une seule demande de modification des plans de reconnaissance peut être
-sollicitée par période de douze mois dans des conditions et selon des modalités
-définies par arrêté du ministre chargé de l'agriculture.
+La zone de reconnaissance des associations d'organisations de producteurs est
+constituée du ou des départements sur lesquels leurs organisations de
+producteurs membres opèrent.
 
-II.-Cette demande est examinée selon la procédure décrite aux articles D. 551-49
-et D. 551-50.
+Toutefois, peuvent être reconnus en qualité d'association d'organisations de
+producteurs opérant au niveau national les groupements qui représentent au moins
+55 % de la valeur de la production commercialisée par l'ensemble des
+organisations de producteurs reconnues en France pour le produit, le groupe de
+produits ou la catégorie de produits au titre duquel la reconnaissance est
+demandée. Les associations d'organisations de producteurs peuvent avoir pour
+membres d'autres personnes que des organisations de producteurs reconnues, à
+l'exclusion des syndicats ou des autres associations d'organisations de
+producteurs. Toutefois, les associations d'organisations de producteurs opérant
+au niveau national peuvent admettre des membres syndicats.L'ensemble des membres
+qui ne sont pas reconnus en tant qu'organisations de producteurs ne peut
+disposer de plus de 25 % des voix.

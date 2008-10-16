@@ -1,24 +1,38 @@
 Article D551-43
 ----
-En application du 2 de l'article 6 du règlement (CE) n° 1432/2003 du 11 août
-2003 susmentionné, une organisation de producteurs peut confier à des tiers
-l'exécution des tâches définies aux articles D. 551-37 à D. 551-41, à
-l'exception de la connaissance de la production.
+L'organisation de producteurs assure une gestion commerciale adaptée à son
+statut juridique.
 
-Les modalités de cette délégation sont définies par convention écrite conclue
-entre l'organisation de producteurs et chaque prestataire auquel est confiée
-l'exécution de ces tâches. Celle-ci prévoit au minimum le contenu des missions
-confiées, les objectifs à atteindre, la rémunération des prestataires, les
-modalités de paiement, les délais d'exécution, les clauses et les moyens de
-contrôle et d'évaluation ainsi que les conditions de résolution des litiges.
-Lorsque les tâches confiées sont l'agréage, le stockage, le tri et le
-conditionnement, la convention garantit à l'organisation de producteurs l'accès
-aux installations techniques.
+En cas de transfert de propriété des produits entre le producteur et
+l'organisation de producteurs, celle-ci procède à la commercialisation de la
+production de ses membres qui lui est cédée à cette fin.
 
-Dans tous les cas, cette convention est soumise au vote de l'assemblée générale
-de l'organisation.
+En l'absence de transfert de propriété des produits entre le producteur et
+l'organisation de producteurs, celle-ci agit en tant que mandataire pour la
+commercialisation des produits de ses adhérents, en application d'un mandat
+écrit et non cessible qui lui est donné par chaque producteur, portant sur la
+totalité de sa production, sans préjudice des dispositions du 2 de l'article 125
+bis du règlement (CE) n° 1234 / 2007 du 22 octobre 2007 susmentionné.
 
-Les tâches externalisées dans les conditions prévues ci-dessus peuvent également
-être assurées par un ou plusieurs adhérents de l'organisation de producteurs.
-Dans ce cas, celle-ci vérifie que chacun de ses adhérents bénéficie des mêmes
-conditions d'accès aux diverses prestations offertes.
+Dans ce dernier cas, les statuts de l'organisation de producteurs prévoient
+l'obligation pour le producteur de donner mandat à l'organisation de producteurs
+pour toute la durée de son adhésion. En outre, les conditions de résiliation du
+mandat doivent comporter un préavis d'une durée égale à celle prévue pour la
+démission du producteur de l'organisation de producteurs.
+
+Les dispositions des deux précédents alinéas ne peuvent pas conduire à un accord
+collectif sur les prix des produits concernés.
+
+Les producteurs associés peuvent, conformément au a du 2 de l'article 125 bis du
+règlement (CE) n° 1234 / 2007 du 22 octobre 2007 susmentionné et si
+l'organisation de producteurs l'autorise, vendre au consommateur pour ses
+besoins personnels leur production ou leurs produits directement sur le lieu ou
+en dehors de leur exploitation, dans la mesure où la quantité vendue ne
+représente pas plus de 25 % de leur valeur de production commercialisée et 50 %
+de la valeur de la production commercialisée en production biologique.
+
+Le volume marginal mentionné au b du 2 de l'article 125 bis du règlement (CE) n°
+1234 / 2007 du 22 octobre 2007 susmentionné est défini comme le volume de
+produits vendus correspondant à une valeur de production commercialisée
+inférieure à 5 % de la valeur de production commercialisée de l'organisation de
+producteurs.
