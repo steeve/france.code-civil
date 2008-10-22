@@ -73,12 +73,14 @@ Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 Centre de détention de Mauzac (Dordogne).
 
 Quartier centre de détention de Chauconin-Neufmontiers du centre pénitentiaire
-de Meaux - Chauconin-Neufmontiers (Seine-et-Marne).
+de Meaux-Chauconin-Neufmontiers (Seine-et-Marne).
 
-Quartier centre de détention de Meaux du centre pénitentiaire de Meaux -
-Chauconin-Neufmontiers (Seine-et-Marne).
+Quartier centre de détention de Meaux du centre pénitentiaire de
+Meaux-Chauconin-Neufmontiers (Seine-et-Marne).
 
 Centre de détention de Melun (Seine-et-Marne).
+
+Quartier centre de détention du centre pénitentiaire de Mont-de-Marsan (Landes).
 
 Centre de détention de Montmédy (Meuse).
 
@@ -99,7 +101,12 @@ Quartier centre de détention du centre pénitentiaire du Port (Réunion).
 Quartier centre de détention du centre pénitentiaire de Remire-Montjoly
 (Guyane).
 
-Quartier centre de détention du centre pénitentiaire de Rennes (femmes)
+Centre de détention de Roanne (hommes, femmes) (Loire).
+
+Quartier centre de détention du centre pénitentiaire de Saint-Denis (femmes)
+(Réunion).
+
+43Quartier centre de détention du centre pénitentiaire de Rennes (femmes)
 (Ille-et-Vilaine).
 
 Centre de détention de Riom (Puy-de-Dôme).

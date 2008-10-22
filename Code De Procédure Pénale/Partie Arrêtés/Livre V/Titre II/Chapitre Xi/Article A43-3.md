@@ -91,6 +91,9 @@ Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ;
 
 Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 
+Quartier des mineurs du quartier maison d'arrêt du centre pénitentiaire de
+Saint-Denis (Réunion) ;
+
 Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ;
 
 Quartier des mineurs de la maison d'arrêt de Strasbourg (Bas-Rhin) ;

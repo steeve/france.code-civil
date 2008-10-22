@@ -613,6 +613,8 @@ Antenne de Mont-de-Marsan.
 
 Circonscription judiciaire de Mont-de-Marsan.
 
+Centre pénitentiaire de Mont-de-Marsan (quartier de semi-liberté inclus).
+
 Maison d'arrêt de Mont-de-Marsan.
 
 Antenne de Dax.
@@ -646,6 +648,8 @@ Circonscription judiciaire de Montbrison.
 Antenne de Roanne.
 
 Circonscription judiciaire de Roanne.
+
+Centre de détention de Roanne.
 
 Service pénitentiaire d'insertion et de probation de la Haute-Loire.
 
@@ -941,7 +945,7 @@ Circonscription judiciaire de Compiègne.
 
 Maison d'arrêt de Compiègne.
 
-(Arr. 1er oct. 2004, art. 2) Antenne de Liancourt.
+(Arr. 1 er oct. 2004, art. 2) Antenne de Liancourt.
 
 Centre pénitentiaire de Liancourt (quartier centre de détention de Verderonne
 inclus).
@@ -1102,7 +1106,11 @@ Circonscription judiciaire de Lyon.
 
 Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus).
 
-Maison d'arrêt de Lyon-Montluc.
+(jusqu'au 15 mai 2009).
+
+Maison d'arrêt de Lyon-Montluc (jusqu'au 15 février 2009).
+
+Maison d'arrêt de Lyon-Corbas (à partir du 27 avril 2009).
 
 Centre de semi-liberté de Lyon.
 
@@ -1326,13 +1334,13 @@ Antenne de Toulon.
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Toulon-La Farlède (quartier
 de semi-liberté de Toulon-Saint-Roch inclus).
 
-(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan.
+(Arr. 1 er oct. 2004, art. 2) Antenne de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Draguignan.
 
-(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
+(Arr. 1 er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
 
 Service pénitentiaire d'insertion et de probation de Vaucluse.
 
@@ -1533,6 +1541,8 @@ Antenne de Saint-Denis.
 
 Circonscription judiciaire de Saint-Denis.
 
+Centre pénitentiaire de Saint-Denis.
+
 Maison d'arrêt de Saint-Denis.
 
 Antenne de Saint-Pierre.
@@ -1545,14 +1555,14 @@ Antenne du Port.
 
 Centre pénitentiaire du Port.
 
-(Arr. 13 déc. 2005, art. 1er ) Service pénitentiaire d'insertion et de probation
-de Mayotte.
+(Arr. 13 déc. 2005, art. 1 er ) Service pénitentiaire d'insertion et de
+probation de Mayotte.
 
-(Arr. 13 déc. 2005, art. 1er ) Mamoudzou.
+(Arr. 13 déc. 2005, art. 1 er ) Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er ) Néant.
+(Arr. 13 déc. 2005, art. 1 er ) Néant.
 
-(Arr. 13 déc. 2005, art. 1er ) Circonscription judiciaire du tribunal de
+(Arr. 13 déc. 2005, art. 1 er ) Circonscription judiciaire du tribunal de
 première instance de Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er ) Maison d'arrêt de Majicavo.
+(Arr. 13 déc. 2005, art. 1 er ) Maison d'arrêt de Majicavo.
