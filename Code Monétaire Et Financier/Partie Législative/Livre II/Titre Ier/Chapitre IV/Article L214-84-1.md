@@ -2,7 +2,7 @@ Article L214-84-1
 ----
 Dans les conditions fixées par décret en Conseil d'Etat, une société civile de
 placement immobilier peut transmettre son patrimoine par voie de scission à des
-organismes de placement collectif immobilier de forme différente.
+organismes de placement collectif immobilier quelle qu'en soit la forme.
 
 Préalablement à la scission, les sociétés civiles de placement immobilier sont,
 par dérogation à l'article L. 214-50, autorisées le cas échéant à faire apport

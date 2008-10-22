@@ -20,6 +20,6 @@ prévues par le règlement général de l'Autorité des marchés financiers.
 Lorsque l'une des sociétés civiles de placement immobilier gérées par une
 société de gestion s'est transformée en un organisme de placement collectif
 immobilier dont la gestion sera assurée par cette société dès lors qu'elle
-remplit les conditions prévues à l'article L. 214-119, les autres sociétés
-civiles de placement immobilier peuvent continuer à être gérées par cette
-société.
+remplit les conditions prévues à l'article L. 214-119 ou lorsque cette société
+crée un tel organisme, les autres sociétés civiles de placement immobilier
+peuvent continuer à être gérées par cette société.

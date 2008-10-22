@@ -1,12 +1,13 @@
 Article L432-12
 ----
 La pension est l'opération par laquelle une personne morale, un fonds commun de
-placement ou un organisme de titrisation cède en pleine propriété à une autre
-personne morale, à un fonds commun de placement ou à un organisme de
-titrisation, moyennant un prix convenu, des valeurs, titres ou effets définis
-ci-après et par laquelle le cédant et le cessionnaire s'engagent respectivement
-et irrévocablement, le premier à reprendre les valeurs, titres ou effets, le
-second à les rétrocéder pour un prix et à une date convenus.
+placement, un fonds de placement immobilier ou un organisme de titrisation cède
+en pleine propriété à une autre personne morale, à un fonds commun de placement
+, un fonds de placement immobilier ou à un organisme de titrisation, moyennant
+un prix convenu, des valeurs, titres ou effets définis ci-après et par laquelle
+le cédant et le cessionnaire s'engagent respectivement et irrévocablement, le
+premier à reprendre les valeurs, titres ou effets, le second à les rétrocéder
+pour un prix et à une date convenus.
 
 Les valeurs, titres ou effets mentionnés ci-dessus sont :
 

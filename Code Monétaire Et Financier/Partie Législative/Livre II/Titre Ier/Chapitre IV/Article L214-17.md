@@ -1,14 +1,14 @@
 Article L214-17
 ----
-Par dérogation aux dispositions des titres II et III du livre II du code de
-commerce :
+Par dérogation aux dispositions des titres II et III du livre II et du titre II
+du livre VIII du code de commerce :
 
 1. Les actions sont intégralement libérées dès leur émission ;
 
 2. Tout apport en nature est apprécié sous sa responsabilité par le commissaire
 aux comptes ;
 
-3. L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ;
+3.L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ;
 il en est de même, sur deuxième convocation, de l'assemblée générale
 extraordinaire ;
 
@@ -26,7 +26,8 @@ du code de commerce ;
 
 5. Le commissaire aux comptes est désigné pour six exercices par le conseil
 d'administration ou le directoire, après accord de l'Autorité des marchés
-financiers.
+financiers. La désignation d'un commissaire aux comptes suppléant n'est pas
+requise.
 
 Le commissaire aux comptes est délié du secret professionnel à l'égard de
 l'Autorité des marchés financiers.
@@ -58,7 +59,7 @@ sont couvertes par la règle du secret professionnel ;
 d'un mois après la tenue de l'assemblée générale ayant approuvé les comptes de
 l'exercice ;
 
-7. L'assemblée générale extraordinaire qui décide une transformation, fusion ou
+7.L'assemblée générale extraordinaire qui décide une transformation, fusion ou
 scission, donne pouvoir au conseil d'administration ou au directoire d'évaluer
 les actifs et de déterminer la parité de l'échange à une date qu'elle fixe ; ces
 opérations s'effectuent sous le contrôle du commissaire aux comptes sans qu'il
@@ -75,7 +76,7 @@ par le commissaire aux comptes.
 
 Les statuts ne peuvent prévoir d'avantages particuliers ;
 
-10. L'assemblée générale annuelle est réunie dans les quatre mois de la clôture
+10.L'assemblée générale annuelle est réunie dans les quatre mois de la clôture
 de l'exercice ;
 
 11. Le siège social et l'administration centrale de la société d'investissement

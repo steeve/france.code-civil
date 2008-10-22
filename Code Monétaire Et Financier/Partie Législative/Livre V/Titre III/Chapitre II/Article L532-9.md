@@ -32,8 +32,9 @@ gestion saine et prudente de la société concernée ;
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend
 exercer, qui précise les conditions dans lesquelles elle envisage de fournir les
-services d'investissement concernés et indique le type d'opérations envisagées
-et la structure de son organisation ;
+services d'investissement concernés ou d'exercer la gestion des organismes
+mentionnés au premier alinéa et indique le type d'opérations envisagées et la
+structure de son organisation ;
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie
 des dépôts conformément aux articles L. 322-5 et L. 322-10.

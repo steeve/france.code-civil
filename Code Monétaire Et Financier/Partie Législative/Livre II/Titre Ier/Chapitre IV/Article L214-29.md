@@ -34,3 +34,5 @@ L'Autorité des marchés financiers peut également transmettre aux commissaires
 aux comptes du fonds des informations nécessaires à l'accomplissement de leur
 mission. Les informations transmises sont couvertes par la règle du secret
 professionnel.
+
+La désignation d'un commissaire aux comptes suppléant n'est pas requise.
