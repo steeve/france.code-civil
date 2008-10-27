@@ -4,7 +4,10 @@ Le bénéfice de l'exonération temporaire de taxe professionnelle prévue par
 l'article 1465 du code général des impôts est subordonné aux conditions
 suivantes lorsqu'un agrément n'est pas nécessaire :
 
-I. En cas de création ou décentralisation d'un établissement industriel :
+I. Réalisation d'un investissement minimal de 1 000 000 €. A défaut, les
+conditions prévues aux II, III, IV et V sont applicables.
+
+II. En cas de création ou décentralisation d'un établissement industriel :
 
 a. Dans les départements d'outre-mer et de la Corse et, pour les opérations
 réalisées jusqu'au 31 décembre 1994 dans certains secteurs définis par arrêté,
@@ -32,7 +35,7 @@ moins 30 emplois ;
 2° Dans les autres communes : réalisation d'un investissement minimal de 46 000
 euros et création d'au moins 10 emplois.
 
-II. En cas d'extension d'un établissement industriel :
+III. En cas d'extension d'un établissement industriel :
 
 a. Dans les départements d'outre-mer et de la Corse et, pour les opérations
 réalisées jusqu'au 31 décembre 1994 dans certains secteurs définis par arrêté,
@@ -99,13 +102,13 @@ moins 10 % du nombre des emplois ;
 
 Soit création d'au moins 120 emplois.
 
-III. En cas de création ou de décentralisation d'un établissement de recherche
+IV. En cas de création ou de décentralisation d'un établissement de recherche
 scientifique ou technique :
 
 Réalisation d'un investissement minimal de 15 000 euros et création d'au moins
 10 emplois.
 
-IV. En cas d'extension d'un établissement de recherche scientifique ou technique
+V. En cas d'extension d'un établissement de recherche scientifique ou technique
 :
 
 Réalisation d'un investissement minimal de 15 000 euros, et :
