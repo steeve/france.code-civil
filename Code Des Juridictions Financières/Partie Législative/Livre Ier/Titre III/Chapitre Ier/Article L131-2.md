@@ -4,13 +4,9 @@ La Cour des comptes juge les comptes que lui rendent les personnes qu'elle a
 déclarées comptables de fait. Elle n'a pas juridiction sur les ordonnateurs,
 sauf sur ceux qu'elle a déclarés comptables de fait.
 
-Les dispositions définitives des arrêts portant sur des gestions de fait sont
-délibérées après l'audition, à leur demande, des personnes déclarées comptables
-de fait. Les arrêts statuant sur les appels formés contre les dispositions
-définitives des jugements des chambres régionales des comptes portant sur des
-gestions de fait sont délibérés après l'audition, à leur demande, des requérants
-et des autres parties intéressées.
+Les personnes que la Cour des comptes a déclarées comptables de fait sont tenues
+de lui produire leurs comptes dans le délai qu'elle impartit.
 
 L'action en déclaration de gestion de fait est prescrite pour les actes
 constitutifs de gestion de fait commis plus de dix ans avant la date à laquelle
-la Cour des comptes en est saisie ou s'en saisit d'office.
+la Cour des comptes en est saisie.

@@ -6,5 +6,5 @@ communes, de leurs établissements publics et des organismes visés à l'article
 droits et pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier
 du présent code.
 
-L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le président de
-la chambre territoriale des comptes..
+L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de
+la chambre territoriale des comptes.

@@ -9,7 +9,7 @@ commissaires aux comptes au moins.
 
 Une norme d'exercice professionnel homologuée par voie réglementaire précise les
 diligences devant être accomplies par les commissaires aux comptes. Les
-dispositions de l'article L. 140-2 du code des juridictions financières sont
+dispositions de l'article L. 141-3 du code des juridictions financières sont
 applicables à ces derniers.
 
 Les commissaires aux comptes sont également tenus de communiquer leur rapport

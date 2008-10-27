@@ -1,7 +1,7 @@
 Article L243-4
 ----
-La chambre régionale des comptes statue dans les formes prévues aux articles L.
-241-13 et L. 241-14 sur toute demande en rectification d'observations
-définitives sur la gestion qui peut lui être présentée par les dirigeants des
-personnes morales contrôlées ou toute autre personne nominativement ou
-explicitement mise en cause.
+Lorsque les vérifications visées à l'article L. 211-8 sont assurées sur demande
+du représentant de l'Etat ou de l'autorité territoriale, les observations que la
+chambre régionale des comptes présente sont communiquées à l'autorité
+territoriale concernée, aux représentants des établissements, sociétés,
+groupements et organismes concernés ainsi qu'au représentant de l'Etat.
