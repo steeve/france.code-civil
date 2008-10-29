@@ -43,3 +43,8 @@ secondaire français à l'étranger dans lequel il a effectué sa scolarité pen
 au moins trois ans, dès lors que cet établissement figure sur la liste
 mentionnée à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux
 établissements scolaires français à l'étranger.
+
+Est également dispensé de la signature d'un contrat d'accueil et d'intégration
+l'étranger qui a suivi des études supérieures en France d'une durée au moins
+égale à une année, sur présentation de documents attestant de la réalité de ces
+études.
