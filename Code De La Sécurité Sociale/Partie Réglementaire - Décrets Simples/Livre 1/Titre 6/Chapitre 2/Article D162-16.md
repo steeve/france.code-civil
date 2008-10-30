@@ -1,15 +1,17 @@
 Article D162-16
 ----
 Un observatoire régional constitué auprès de l'agence régionale de
-l'hospitalisation regroupe notamment des représentants des commissions du
-médicament et des dispositifs médicaux stériles des établissements de santé de
-la région ayant conclu un contrat de bon usage. Il assure un suivi et une
-analyse des pratiques de prescription observées au niveau régional. Il organise,
-notamment sur la base de ces travaux, des échanges réguliers sur les pratiques
-relatives à l'usage des médicaments et des produits et prestations, notamment
-ceux figurant sur la liste visée à l'article L. 162-22-7 et également,
-s'agissant des produits et prestations, ceux visés à la dernière phrase du
-premier alinéa ainsi qu'au quatrième alinéa de l'article L. 165-1.
+l'hospitalisation regroupe notamment des représentants de la commission ou de la
+sous-commission mentionnées aux deux derniers alinéas de l'article L. 5126-5 du
+code de la santé publique des établissements de santé de la région ayant conclu
+un contrat de bon usage, dont un établissement autorisé à pratiquer une activité
+d'hospitalisation à domicile. Il assure un suivi et une analyse des pratiques de
+prescription observées au niveau régional. Il organise, notamment sur la base de
+ces travaux, des échanges réguliers sur les pratiques relatives à l'usage des
+médicaments et des produits et prestations, notamment ceux figurant sur la liste
+visée à l'article L. 162-22-7 et également, s'agissant des produits et
+prestations, ceux visés à la dernière phrase du premier alinéa ainsi qu'au
+quatrième alinéa de l'article L. 165-1.
 
 La dotation régionale prévue à l'article L. 162-22-13 peut contribuer au
 financement de cet observatoire.
