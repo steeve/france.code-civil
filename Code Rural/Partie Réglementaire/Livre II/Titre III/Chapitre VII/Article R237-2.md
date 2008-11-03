@@ -78,17 +78,11 @@ articles R. 231-25 et R. 231-26 ;
 pour un transport ou un frêt interdit, contrairement aux articles R. 231-25 et
 R. 231-26 ;
 
-19° D'importer ou de réimporter les denrées mentionnées à l'article R. 236-12
-sans l'inspection sanitaire et qualitative ou sans les documents
-d'accompagnement mentionnés à cet article ;
+19° (Abrogé) ;
 
-20° Pour un centre d'abattage ou un établissement mentionné à l'article R.
-231-20 qui n'a pas reçu l'agrément prévu par l'article R. 236-18, d'exporter des
-denrées animales ou d'origine animale ;
+20° (Abrogé) ;
 
-21° Pour un centre d'abattage ou un établissement mentionné à l'article R.
-231-20, d'exporter des denrées animales ou d'origine animale non estampillées ou
-sans le document adéquat, contrairement à l'article R. 236-18 ;
+21° (Abrogé ;
 
 22° D'employer du personnel manipulant des denrées animales ou d'origine animale
 au mépris des règles d'hygiène mentionnées à l'article R. 231-27 ou sans

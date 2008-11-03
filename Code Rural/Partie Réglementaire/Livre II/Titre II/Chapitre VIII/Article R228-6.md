@@ -19,4 +19,11 @@ d'un plan d'urgence prévu à l'article L. 223-3 du code rural, les mesures
 relatives à la circulation des personnes et des véhicules ;
 
 5° De ne pas respecter, en cas de péripneumonie contagieuse bovine, les mesures
-prises en application des articles L. 223-24 et L. 223-25.
+prises en application des articles L. 223-24 et L. 223-25 ;
+
+6° De ne pas respecter, pour tout propriétaire ou toute personne ayant, à
+quelque titre que ce soit, la charge des soins ou la garde d'animaux
+d'aquaculture au sens du b du 1 de l'article 3 de la directive 2006 / 88 / CE du
+24 octobre 2006 l'obligation de déclaration de toute hausse de mortalité
+constatée dans les conditions prévues à l'article R. 223-4-1. La récidive est
+punie conformément au premier alinéa de l'article 132-11 du code pénal.
