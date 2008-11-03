@@ -16,4 +16,15 @@ La décision du juge de l'application des peines est alors prise selon les
 modalités prévues par l'article 712-6.
 
 Cette décision précise la durée du placement sous surveillance électronique
-mobile dans les limites fixées par l'article 131-36-12 du code pénal.
+mobile dans les limites fixées par l'article 131-36-12 du code pénal. Les
+limites relatives à la durée du placement ne sont toutefois pas applicables
+lorsqu'il s'agit d'une personne condamnée à une réclusion criminelle d'une durée
+égale ou supérieure à quinze ans pour l'une des infractions visées à l'article
+706-53-13.
+
+En cas d'inobservation par le condamné des obligations auxquelles il est
+astreint ou pour tenir compte de son évolution, le juge de l'application des
+peines peut également ordonner le placement sous surveillance électronique
+mobile en cours d'exécution du suivi socio-judiciaire, dès lors que son
+comportement et sa dangerosité le justifient sans qu'il soit besoin que la
+personne soit préalablement détenue.

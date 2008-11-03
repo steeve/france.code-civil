@@ -1,9 +1,5 @@
 Article R61-1
 ----
-Lorsque le juge de l'application des peines procède au débat contradictoire
-prévu à l'article 763-5, il est dressé un procès-verbal d'audience, qui est
-signé par le juge de l'application des peines et par son greffier.
-
 Si le juge de l'application des peines ordonne la mise à exécution de
 l'emprisonnement prévu par le troisième alinéa de l'article 131-36-1 du code
 pénal, sa décision précise la durée de l'emprisonnement qui doit être subi. Une

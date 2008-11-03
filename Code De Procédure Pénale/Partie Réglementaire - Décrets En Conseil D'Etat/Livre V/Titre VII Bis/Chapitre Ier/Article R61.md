@@ -10,14 +10,16 @@ du suivi socio-judiciaire ainsi que la durée maximum de l'emprisonnement encour
 en application de l'article 131-36-1 du code pénal en cas d'inobservation de ces
 obligations.
 
-Lorsque, conformément aux dispositions de l'article 763-8, les dispositions du
-présent article sont mises en oeuvre par le juge des enfants à l'égard d'un
-mineur, ce magistrat convoque également les titulaires de l'exercice de
-l'autorité parentale.
+Lorsque les dispositions du présent article sont mises en oeuvre par le juge des
+enfants à l'égard d'un mineur, ce magistrat convoque également les titulaires de
+l'exercice de l'autorité parentale.
 
-Si le condamné fait l'objet d'une injonction de soins, le juge lui indique le
-médecin coordonnateur qu'il a désigné. Il l'avise qu'il devra rencontrer ce
-médecin dans un délai qu'il fixe et qui ne peut être supérieur à un mois.
+Lorsque le condamné fait l'objet d'une injonction de soins en application des
+dispositions du premier alinéa de l'article 131-36-4 du code pénal ou en
+application des dispositions du troisième alinéa de l'article 763-3 du présent
+code, le juge lui indique le médecin coordonnateur qu'il a désigné. Il l'avise
+qu'il devra rencontrer ce médecin dans un délai qu'il fixe et qui ne peut être
+supérieur à un mois.
 
 Le juge de l'application des peines informe le condamné dans les mêmes formes en
 cas de modification de ses obligations.

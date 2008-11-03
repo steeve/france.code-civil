@@ -8,3 +8,6 @@ procédure pénale.
 Par dérogation à l'article L. 6112-2, le transfert d'un malade dans un autre
 établissement ne peut être décidé que dans les conditions fixées par le code de
 procédure pénale.
+
+Ces établissements accueillent également les personnes faisant l'objet d'une
+rétention de sûreté dans un centre socio-médico-judiciaire de sûreté.
