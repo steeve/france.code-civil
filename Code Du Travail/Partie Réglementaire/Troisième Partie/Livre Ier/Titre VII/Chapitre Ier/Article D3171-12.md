@@ -10,5 +10,5 @@ de l'article L. 3121-24 ; 3° Le nombre d'heures de repos compensateur
 effectivement prises au cours du mois ; 4° Le nombre de jours de repos
 effectivement pris au cours du mois, dès lors qu'un dispositif de réduction du
 temps de travail par attribution de journées ou de demi-journées de repos dans
-les conditions fixées par l'article L. 3122-6 s'applique dans l'entreprise ou
-l'établissement.
+les conditions fixées par les articles L. 3122-2 et D. 3122-7-1 s'applique dans
+l'entreprise ou l'établissement.
