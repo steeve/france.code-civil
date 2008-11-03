@@ -2,17 +2,17 @@ Article R61-14
 ----
 Les catégories d'informations enregistrées dans le traitement sont :
 
-1° L'identité du condamné placé sous surveillance électronique mobile : nom de
-famille, nom d'usage, prénoms, alias, date et lieu de naissance, sexe,
+1° L'identité de la personne placée sous surveillance électronique mobile : nom
+de famille, nom d'usage, prénoms, alias, date et lieu de naissance, sexe,
 nationalité ;
 
 2° La photographie du visage de face, la taille, le poids, la couleur des
-cheveux, la couleur des yeux, la description des tatouages ou cicatrices du
-condamné ;
+cheveux, la couleur des yeux, la description des tatouages ou cicatrices de la
+personne ;
 
-3° L'adresse de résidence du condamné ;
+3° L'adresse de résidence de la personne ;
 
-4° La situation professionnelle du condamné : profession, adresse
+4° La situation professionnelle de la personne : profession, adresse
 professionnelle ;
 
 5° La décision de condamnation : désignation de la juridiction, nature et
@@ -33,7 +33,7 @@ nature et contenu de la décision ;
 et des zones d'inclusion, ainsi que les horaires d'assignation ;
 
 11° Le relevé à intervalles réguliers des positions du dispositif prévu à
-l'article 763-12 porté par le condamné ;
+l'article 763-12 porté par la personne ;
 
 12° La liste des alarmes déclenchées, enregistrées par date, heure, minute et
 position, ainsi que la gestion de ces alarmes par le centre de surveillance.

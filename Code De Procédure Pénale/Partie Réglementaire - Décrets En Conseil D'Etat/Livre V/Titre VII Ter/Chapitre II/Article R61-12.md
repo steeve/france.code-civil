@@ -11,16 +11,17 @@ justice.
 Il a pour finalité d'assurer le contrôle à distance, par un centre de
 surveillance, de la localisation ainsi que le suivi des personnes majeures
 condamnées placées sous surveillance électronique mobile dans le cadre d'une
-mesure de suivi socio-judiciaire, de surveillance judiciaire ou de libération
-conditionnelle.
+mesure de suivi socio-judiciaire, de surveillance judiciaire, de surveillance de
+sûreté ou de libération conditionnelle ainsi que dans le cadre d'une permission
+de sortie accordée au cours d'une rétention de sûreté.
 
 A cet effet, ce traitement permet :
 
 1° D'alerter l'administration pénitentiaire de ce qu'une personne placée sous
 surveillance électronique mobile se trouve dans un lieu dont la fréquentation
-lui est interdite dénommé "zone d'exclusion" ou à proximité d'un tel lieu, dans
-une zone dénommée "zone tampon" ou ne se trouve plus dans un lieu qui lui a été
-assigné, dénommé "zone d'inclusion" ;
+lui est interdite dénommé " zone d'exclusion " ou à proximité d'un tel lieu,
+dans une zone dénommée " zone tampon " ou ne se trouve plus dans un lieu qui lui
+a été assigné, dénommé " zone d'inclusion " ;
 
 2° De connaître la localisation d'une personne lorsque l'alerte prévue au 1° est
 intervenue, aux fins de permettre le cas échéant sa recherche et son
