@@ -15,3 +15,10 @@ négociations sur un marché réglementé, plus du quart du capital social.
 
 Toute émission ayant pour effet de porter la proportion au-delà de cette limite
 peut être annulée.
+
+Par dérogation aux articles L. 225-132 et L. 228-91, les actions de préférence
+sans droit de vote à l'émission auxquelles est attaché un droit limité de
+participation aux dividendes, aux réserves ou au partage du patrimoine en cas de
+liquidation sont privées de droit préférentiel de souscription pour toute
+augmentation de capital en numéraire, sous réserve de stipulations contraires
+des statuts.
