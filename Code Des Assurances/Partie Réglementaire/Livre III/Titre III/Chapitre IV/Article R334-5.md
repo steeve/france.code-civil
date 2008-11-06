@@ -21,7 +21,7 @@ annulées au cours du dernier exercice, d'autre part, le total des impôts et
 taxes afférents aux primes ou cotisations précitées.
 
 Le montant obtenu est réparti en deux tranches, respectivement inférieure et
-supérieure à 53 100 000 euros (1).A 18 % de la première tranche sont ajoutés 16
+supérieure à 57 500 000 euros (1). A 18 % de la première tranche sont ajoutés 16
 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
@@ -30,6 +30,9 @@ par le rapport existant, pour les trois derniers exercices entre le montant des
 sinistres demeurant à la charge de l'entreprise après cession en réassurance et
 le montant des sinistres brut de réassurance, sans que ce rapport puisse être
 inférieur à 50 %.
+
+Sous réserve de l'accord de l'Autorité de contrôle, des méthodes statistiques
+peuvent être utilisées pour l'affectation des primes ou cotisations.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des
 sinistres).
@@ -49,8 +52,8 @@ constituées au commencement du deuxième exercice précédant le dernier exerci
 tant pour les affaires directes que pour les acceptations en réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 37 200 000 euros (1).A 26 % de la première tranche
-sont ajoutés 23 % de la seconde.
+inférieure et supérieure à 40 300 000 euros. A 26 % de la première tranche sont
+ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent,
@@ -77,6 +80,10 @@ montant des provisions techniques pour sinistres à payer au début du dernier
 exercice. Dans ces calculs, les provisions techniques sont calculées déduction
 faite de la réassurance, ce rapport ne pouvant cependant pas être supérieur à
 un.
+
+En outre, pour la prise en compte de la réassurance financière limitée dans le
+ratio de réassurance mentionné au dernier alinéa du a et au dernier alinéa du b,
+l'Autorité de contrôle se fonde sur le transfert de risque effectif.
 
 Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle,
 et avec l'accord de celle-ci, les montants récupérables au titre des risques

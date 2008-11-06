@@ -1,19 +1,20 @@
 Article R322-11-1
 ----
-I. - Toute opération de prise, d'extension ou de cession de participation,
-directe ou indirecte, dans les entreprises mentionnées au 1° de l'article L.
-310-2 du présent code ayant pour effet de permettre à une personne ou à
-plusieurs personnes agissant ensemble, soit d'acquérir ou de perdre le pouvoir
-de contrôle effectif sur la gestion d'une entreprise, soit de passer au-dessus
-ou au-dessous des seuils de la moitié, du tiers, du cinquième ou du dixième des
-droits de vote, doit faire l'objet d'une déclaration de cette ou ces personnes
-auprès du comité des entreprises d'assurance préalablement à sa réalisation.
+I.-Toute opération de prise, d'extension ou de cession de participation, directe
+ou indirecte, dans les entreprises mentionnées au 1° de l'article L. 310-2 ou au
+1° du III de l'article L. 310-1-1 du présent code ayant pour effet de permettre
+à une personne ou à plusieurs personnes agissant ensemble, soit d'acquérir ou de
+perdre le pouvoir de contrôle effectif sur la gestion d'une entreprise, soit de
+passer au-dessus ou au-dessous des seuils de la moitié, du tiers, du cinquième
+ou du dixième des droits de vote, doit faire l'objet d'une déclaration de cette
+ou ces personnes auprès du comité des entreprises d'assurance préalablement à sa
+réalisation.
 
 Cette déclaration est accompagnée d'un dossier dont la composition est fixée par
 arrêté du ministre chargé de l'économie. Dès réception du dossier complet, le
 comité dispose d'un délai de trois mois pour s'opposer à l'opération, par
 décision motivée à la ou les personnes intéressées par lettre recommandée avec
-accusé de réception. L'opération peut être réalisée dès réception d'une
+accusé de réception.L'opération peut être réalisée dès réception d'une
 autorisation du comité dans le délai défini au présent alinéa ou, en cas de
 silence du comité, à l'expiration de ce même délai.
 
@@ -39,7 +40,7 @@ paragraphe lorsqu'elles concernent une opération de prise ou d'extension de
 participation et le moins élevé lorsqu'elles concernent une opération de cession
 de participation.
 
-II. - Les dispositions du paragraphe I s'appliquent également aux opérations de
+II.-Les dispositions du paragraphe I s'appliquent également aux opérations de
 prise, d'extension ou de cession de participation, directes ou indirectes, dans
 des sociétés de groupe d'assurance définies à l'article L. 322-1-2 et dont le
 siège social est situé en France ou dans des compagnies financières holding
@@ -48,15 +49,15 @@ France et appartenant à un conglomérat financier dont la surveillance est
 coordonnée par l'Autorité de contrôle des assurances et des mutuelles dans les
 conditions prévues à l'article L. 334-9.
 
-III. - Avant toute décision prévue au I, le Comité des entreprises d'assurance
+III.-Avant toute décision prévue au I, le Comité des entreprises d'assurance
 consulte les autorités compétentes mentionnées aux articles L. 321-1 et L.
 321-1-2 lorsque les deux conditions suivantes sont remplies :
 
-1° L'acquéreur est une entreprise d'assurance agréée dans un autre Etat membre,
-un établissement de crédit agréé ou une entreprise d'investissement agréée dans
-un Etat membre ou l'entreprise mère d'une telle entité ou un établissement
-contrôlé par une personne, physique ou morale, qui contrôle également une telle
-entité ;
+1° L'acquéreur est une entreprise d'assurance ou de réassurance agréée dans un
+autre Etat membre, un établissement de crédit agréé ou une entreprise
+d'investissement agréée dans un Etat membre ou l'entreprise mère d'une telle
+entité ou un établissement contrôlé par une personne, physique ou morale, qui
+contrôle également une telle entité ;
 
 2° En conséquence de l'opération déclarée au Comité des entreprises
 d'assurances, l'entreprise dans laquelle l'acquéreur envisage de détenir une
@@ -64,5 +65,5 @@ participation deviendra la filiale de l'acquéreur ou sera contrôlée par lui.
 
 Lorsque, dans ces conditions, le Comité des entreprises d'assurance consulte
 l'autorité compétente, au sens du 11° de l'article L. 334-2, celle-ci dispose
-d'un délai d'un mois pour formuler ses observations. A sa demande, ce délai peut
+d'un délai d'un mois pour formuler ses observations.A sa demande, ce délai peut
 être prorogé d'un mois.

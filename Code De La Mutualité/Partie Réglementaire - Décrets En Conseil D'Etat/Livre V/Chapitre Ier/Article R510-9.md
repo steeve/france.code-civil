@@ -1,7 +1,8 @@
 Article R510-9
 ----
 Lorsqu'elle est amenée à restreindre ou interdire la libre disposition de tout
-ou partie des actifs d'une mutuelle ou d'une union, l'Autorité de contrôle peut
+ou partie des actifs d'une mutuelle ou d'une union agréée sur le fondement de
+l'article L. 211-7 ou de l'article L. 211-7-2, l'Autorité de contrôle peut
 prescrire par lettre recommandée à toute société ou collectivité émettrice ou
 dépositaire de refuser l'exécution de toute opération portant sur des comptes ou
 des titres appartenant à la mutuelle ou à l'union intéressée, ainsi que le

@@ -8,12 +8,16 @@ la comptabilité, enregistrement des opérations, conservation des pièces
 comptables et présentation des comptes annuels ;
 
 2° De méconnaître les obligations ou interdictions résultant des articles R.
-212-21, R. 212-27 et R. 212-49 et R. 510-9 (dernier alinéa) ;
+211-1, R. 212-21, R. 212-27 et R. 212-49 et R. 510-9 (dernier alinéa) ;
 
 3° De ne pas produire un programme de rétablissement, un plan de sauvegarde ou
 de redressement ou un plan de financement à court terme prescrit conformément
-aux dispositions des articles R. 510-3, R. 510-4 et R. 510-5, ou de ne pas
-exécuter dans les conditions et délais prévus le plan qui a été approuvé ;
+aux dispositions des articles R. 510-3, R. 510-3-4, R. 510-4 et R. 510-5, ou de
+ne pas exécuter dans les conditions et délais prévus le plan qui a été approuvé
+;
+
+En cas de récidive, la peine d'amende prévue pour la récidive des contraventions
+de la cinquième classe est applicable.
 
 Pour l'application des pénalités édictées au présent chapitre, sont considérés
 comme dirigeants de mutuelles ou d'unions : les membres du conseil

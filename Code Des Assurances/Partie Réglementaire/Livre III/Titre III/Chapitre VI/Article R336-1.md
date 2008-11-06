@@ -1,11 +1,12 @@
 Article R336-1
 ----
-Toute entreprise mentionnée à l'article L. 310-1 est tenue de mettre en place un
-dispositif permanent de contrôle interne.
+Toute entreprise mentionnée à l'article L. 310-1 ou au 1° du III de l'article L.
+310-1-1 est tenue de mettre en place un dispositif permanent de contrôle
+interne.
 
 Le conseil d'administration ou le conseil de surveillance approuve, au moins
 annuellement, un rapport sur le contrôle interne, qui est transmis à l'Autorité
-de contrôle des assurances et des mutuelles.
+de contrôle.
 
 1° La première partie de ce rapport détaille les conditions de préparation et
 d'organisation des travaux du conseil d'administration ou du conseil de
@@ -14,9 +15,9 @@ d'administration aux pouvoirs du directeur général dans l'exercice de ses
 fonctions.
 
 Toutefois, les entreprises faisant appel public à l'épargne ne sont pas tenues
-de fournir ces éléments lorsqu'elles transmettent à l'Autorité de contrôle des
-assurances et des mutuelles le rapport mentionné, selon les cas, à l'article L.
-225-37 ou à l'article L. 225-68 du code de commerce.
+de fournir ces éléments lorsqu'elles transmettent à l'Autorité de contrôle le
+rapport mentionné, selon les cas, à l'article L. 225-37 ou à l'article L. 225-68
+du code de commerce.
 
 2° La seconde partie de ce rapport détaille :
 
@@ -30,7 +31,7 @@ interne ;
 b) Les procédures permettant de vérifier que les activités de l'entreprise sont
 menées selon les politiques et stratégies établies par les organes dirigeants et
 les procédures permettant de vérifier la conformité des opérations d'assurance
-aux dispositions législatives et réglementaires ;
+ou de réassurance aux dispositions législatives et réglementaires ;
 
 c) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle
 des placements, en particulier en ce qui concerne l'évaluation de la qualité des
@@ -63,16 +64,17 @@ et comptable.
 Les organismes chargés d'établir et de publier les comptes consolidés ou
 combinés d'un groupe d'assurance au sens du 6° de l'article L. 334-2 ou d'un
 conglomérat financier au sens de l'article L. 334-5 soumis à la surveillance
-complémentaire de l'Autorité de contrôle des assurances et des mutuelles
-fournissent en outre un rapport décrivant également le dispositif de contrôle
-interne du groupe d'assurance ou du conglomérat financier.
+complémentaire de l'Autorité de contrôle fournissent en outre un rapport
+décrivant également le dispositif de contrôle interne du groupe d'assurance ou
+du conglomérat financier.
 
 Ce rapport contient notamment une description des éléments mentionnés à
 l'article R. 334-40, à l'article R. 334-45 et aux III et IV de l'article R.
 334-52.
 
 Les dispositions du présent article sont applicables aux entreprises mentionnées
-au 1° de l'article L. 310-2 ainsi qu'aux succursales des entreprises étrangères
+au 1° de l'article L. 310-2 aux entreprises mentionnées au 1° du III de
+l'article L. 310-1-1 ainsi qu'aux succursales des entreprises étrangères
 mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces dernières, le
 mandataire général représentant la société est substitué au conseil
 d'administration ou de surveillance.

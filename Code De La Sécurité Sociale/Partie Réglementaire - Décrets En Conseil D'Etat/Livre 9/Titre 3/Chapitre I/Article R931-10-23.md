@@ -1,9 +1,10 @@
 Article R931-10-23
 ----
-Rapportée au montant défini à l'article R. 931-10-22, la valeur admise en
-représentation des actifs mentionnés ci-après admis en représentation des
-engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas
-par l'Autorité de contrôle instituée à l'article L. 951-1 :
+Rapportée au montant défini à l'article R. 931-10-22, la valeur au bilan d'une
+institution ou union exerçant une activité d'assurance admise en représentation
+des actifs mentionnés ci-après admis en représentation des engagements
+réglementés ne peut excéder, sauf dérogation accordée au cas par cas par
+l'Autorité de contrôle instituée à l'article L. 951-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus ou garantis par
 un même organisme, à l'exception des valeurs émises ou garanties, ou des prêts
@@ -24,14 +25,15 @@ doivent être en mesure de démontrer qu'elles respecteraient le présent articl
 si elles détenaient elles-mêmes directement au prorata de leur participation les
 valeurs détenues par ces organismes ;
 
-2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même
-société immobilière ou foncière ;
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 12° à 12° ter
+et 12° quinquies de l'article R. 931-10-21 ;
 
-3° 1 % pour les valeurs mentionnées du 8° au 10° de l'article R. 931-10-21 et
-les prêts mentionnés au troisième alinéa du 1° de l'article R. 931-10-34,
-respectivement émises ou obtenus par une même société ou un même organisme.
+3° 1 % pour les valeurs mentionnées du 8° au 10° et 12° quater de l'article R.
+931-10-21 et les prêts mentionnés au troisième alinéa du 1° de l'article R.
+931-10-34, respectivement émises ou obtenus par une même société ou un même
+organisme.
 
 Pour l'application des dispositions du 6° de l'article R. 931-10-21, une
 institution de prévoyance ou une union d'institutions de prévoyance ne peut
-affecter à la représentation de ses engagements réglementés plus de 50 p. 100
-des actions émises par une même société.
+affecter à la représentation de ses engagements réglementés plus de 50 % des
+actions émises par une même société.

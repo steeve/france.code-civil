@@ -25,7 +25,8 @@ contrôle interne ;
 b) Les procédures permettant de vérifier que les activités de l'institution ou
 de l'union sont conduites selon les politiques et stratégies établies par les
 organes dirigeants et les procédures permettant de vérifier la conformité des
-opérations d'assurance aux dispositions législatives et réglementaires ;
+opérations d'assurance ou de réassurance aux dispositions législatives et
+réglementaires ;
 
 c) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle
 des placements, en particulier en ce qui concerne l'évaluation de la qualité des

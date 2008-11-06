@@ -2,10 +2,11 @@ Article R212-31
 ----
 En application des dispositions de l'article R. 212-28 et sous réserve des
 dérogations prévues à ce même article, à l'article R. 212-29 ainsi qu'aux
-articles R. 212-35 à R. 212-42, les engagements réglementés mentionnés à
-l'article R. 212-21 sont représentés par les actifs suivants :
+articles R. 212-35 à R. 212-42, les mutuelles et unions d'assurance représentent
+leurs engagements réglementés mentionnés à l'article R. 212-21 par les actifs
+suivants :
 
-A. - Valeurs mobilières et titres assimilés :
+A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
 de l'Organisation de coopération et de développement économique (OCDE) ainsi que
@@ -16,8 +17,9 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
 membre de l'OCDE ;
 
-2° Obligations, parts de fonds communs de créance et titres participatifs
-négociés sur un marché reconnu, autres que celles ou ceux visés au 1° ;
+2° Obligations, titres participatifs et parts ou actions émises par des
+véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
+ceux visés au 1° ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -85,7 +87,7 @@ pays doivent avoir défini les conditions de fonctionnement du marché, d'accès
 ce marché et d'admission aux négociations, et imposé le respect d'obligations de
 déclaration et de transparence.
 
-B. - Actifs immobiliers :
+B.-Actifs immobiliers :
 
 13° Droits réels immobiliers afférents à des immeubles situés sur le territoire
 de l'un des Etats membres de l'OCDE ;
@@ -93,9 +95,27 @@ de l'un des Etats membres de l'OCDE ;
 14° Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
 territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par
-l'article R. 212-48.
+l'article R. 212-48 ;
 
-C. - Prêts et dépôts :
+14° bis Parts ou actions d'organismes de placement collectif immobilier relevant
+de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, autres que ceux mentionnés aux 14 ter à 14 quinquies ;
+
+14° ter Parts ou actions d'organismes de placement collectif immobilier relevant
+du paragraphe 2 de la sous-section 4 de la section 5 du chapitre IV du titre Ier
+du livre II du code monétaire et financier ;
+
+14° quater Parts ou actions d'organismes de placement collectif immobilier
+relevant du paragraphe 3 de la sous-section 4 de la section 5 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
+
+14° quinquies Parts ou actions d'organismes de placement collectif immobilier
+mentionnés au sous-paragraphe 7 du paragraphe 1 de la sous-section 1 de la
+section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
+même code.
+
+C.-Prêts et dépôts :
 
 15° Prêts obtenus ou garantis par les Etats membres de l'OCDE, par les
 collectivités publiques territoriales et les établissements publics des Etats
@@ -112,7 +132,7 @@ de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R
 
 18° Dépôts, dans les conditions fixées par l'article R. 212-49.
 
-D. - Dispositions communes :
+D.-Dispositions communes :
 
 Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits
 placements.
@@ -126,8 +146,8 @@ de la part restant à amortir et, pour les primes ou soultes versées au titre
 d'opérations de gré à gré, du montant des garanties reçues dans les conditions
 de l'article R. 212-81.
 
-Les actifs représentatifs des provisions techniques sont évalués en net des
-dettes contractées pour l'acquisition de ces mêmes actifs.
+Les actifs représentatifs des provisions techniques sont évalués nets des dettes
+contractées pour l'acquisition de ces mêmes actifs.
 
 Les actifs donnés en garantie d'un engagement particulier ne sont pas
 admissibles en représentation des autres engagements. Par exception, les actifs

@@ -52,25 +52,19 @@ annuel pris en compte pour le calcul de la dotation annuelle de la provision
 pour les risques liés aux attentats et au terrorisme prévue à l'article 39
 quinquies G du code général des impôts et pour la détermination de la limite du
 montant global de cette provision prévue à cet article, les primes pour attentat
-et terrorisme pour chacun des deux exercices 2001 et 2002 ne pourront excéder
-3,75 % des primes émises au titre des dommages aux biens correspondant aux
+et terrorisme pour chacun des deux exercices 2001 et 2002 ne pourront excéder 3,
+75 % des primes émises au titre des dommages aux biens correspondant aux
 branches 8 et 9 de l'article R. 321-1 et agrégées dans les conditions définies à
 l'article A. 341-1 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique
 éventuelle apparaissant à la fin de l'exercice, et calculée dans les conditions
-fixées à l'article R. 331-33 ;L&gt; c) Provision destinée à faire face aux
-fluctuations de sinistralité afférentes aux opérations d'assurance de groupe
-contre les risques de dommages corporels ;
+fixées à l'article R. 331-33 ;
 
-7° Provision mathématique des réassurances : provision à constituer par les
-entreprises mentionnées aux 2° et 3° de l'article L. 310-1 qui acceptent en
-réassurance des risques cédés par des entreprises d'assurance sur la vie ou
-d'assurance nuptialité-natalité et égale à la différence entre les valeurs
-actuelles des engagements respectivement pris l'un envers l'autre par le
-réassureur et le cédant ;
+c) Provision destinée à faire face aux fluctuations de sinistralité afférentes
+aux opérations d'assurance de groupe contre les risques de dommages corporels ;
 
-8° Provision pour risque d'exigibilité : provision destinée à faire face aux
+7° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
 l'article R. 332-20. La provision à constituer est calculée dans les conditions
 définies au I de l'article R. 331-5-1.

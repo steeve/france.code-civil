@@ -1,7 +1,7 @@
 Article R212-12
 ----
 En ce qui concerne les mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 1,2,15,16 a et h,17 et 18 mentionnées à l'article R.
+relevant des branches 1, 2, 15, 16 a et h, 17 et 18 mentionnées à l'article R.
 211-2, l'exigence minimale de marge de solvabilité est déterminée soit par
 rapport au montant annuel des cotisations, soit par rapport à la charge moyenne
 des sinistres pour les trois derniers exercices. Cette exigence minimale de
@@ -22,8 +22,8 @@ cours du dernier exercice, d'autre part, le total des impôts et taxes afférent
 aux cotisations précitées.
 
 Le montant obtenu est réparti en deux tranches, respectivement inférieure et
-supérieure à 50 millions d'euros A 18 % de la première tranche sont ajoutés 16 %
-de la seconde.
+supérieure à 57 500 000 euros (1) A 18 % de la première tranche sont ajoutés 16
+% de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent
@@ -31,6 +31,10 @@ par le rapport existant, pour les trois derniers exercices, entre le montant des
 sinistres demeurant à charge de l'entreprise après cession en réassurance et le
 montant des sinistres brut de réassurance, sans que ce rapport puisse être
 inférieur à 50 %.
+
+Sous réserve de l'accord de l'Autorité de contrôle des assurances et des
+mutuelles, l'affectation des cotisations peut être effectuée par des méthodes
+statistiques.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour
 les trois derniers exercices) :
@@ -49,7 +53,7 @@ constituées au commencement du deuxième exercice précédant le dernier exerci
 tant pour les opérations directes que pour les acceptations en réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 35 millions d'euros A 26 % de la première tranche
+inférieure et supérieure à 40 3000 000 euros (1) A 26 % de la première tranche
 sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en
@@ -84,3 +88,20 @@ calculés en fonction de l'évolution de cet indice et arrondis au multiple de 1
 
 Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %,
 ces montants ne sont pas révisés.
+
+En outre, pour la prise en compte de la réassurance financière limitée dans le
+ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle se
+fonde sur le transfert de risque effectif.
+
+Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle,
+et avec l'accord de celle-ci, les montants récupérables au titre des risques
+transférés à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code
+des assurances peuvent être assimilés à des cessions en réassurance pour le
+calcul du rapport mentionné au dernier alinéa du a et au dernier alinéa du b du
+présent article.
+
+L'Autorité de contrôle tient compte du transfert de risque effectif pour
+apprécier l'ampleur de la réduction d'exigence de marge de solvabilité autorisée
+au titre de chaque opération réalisée avec un véhicule de titrisation. Elle
+tient également compte de la capacité de ce véhicule à respecter à tout moment
+ses engagements.

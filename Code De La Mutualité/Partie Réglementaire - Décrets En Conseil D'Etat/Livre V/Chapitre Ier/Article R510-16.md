@@ -1,6 +1,6 @@
 Article R510-16
 ----
-I. - Toute mutuelle ou union dont les activités sont régies par le livre II
+I.-Toute mutuelle ou union dont les activités sont régies par le livre II
 projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation
 de services, conformément aux dispositions du troisième alinéa de l'article L.
 510-3, notifie son projet à l'Autorité de contrôle, accompagné des documents
@@ -20,7 +20,7 @@ Le délai de communication des informations aux autorités de l'Etat membre cour
 est de trois mois pour l'établissement d'une succursale et de un mois pour un
 exercice en libre prestation de services.
 
-II. - Tout projet de modification de la nature ou des conditions d'exercice des
+II.-Tout projet de modification de la nature ou des conditions d'exercice des
 activités en liberté d'établissement ou en libre prestation de services
 autorisées conformément aux dispositions du troisième alinéa de l'article L.
 510-3 est notifié à l'Autorité de contrôle. Lorsque la mutuelle ou l'union opère
@@ -36,8 +36,17 @@ arrêté du ministre chargé de la mutualité et avise la mutuelle ou l'union
 concernée de cette communication. La modification envisagée peut intervenir dès
 réception de cet avis par la mutuelle ou l'union.
 
-III. - Lorsque l'Autorité de contrôle refuse de communiquer aux autorités
+III.-Lorsque l'Autorité de contrôle refuse de communiquer aux autorités
 compétentes de l'Etat membre concerné les informations visées au deuxième alinéa
 du I et du II du présent article, elle en avise la mutuelle ou l'union concernée
 et lui fait connaître, dans les délais mentionnés au troisième alinéa du I et au
 deuxième alinéa du II, les raisons de ce refus.
+
+IV.-Lorsque l'Autorité de contrôle a exigé un programme de rétablissement dans
+les conditions mentionnées au II de l'article R. 510-3, elle s'abstient de
+communiquer aux autorités compétentes les informations mentionnées au deuxième
+alinéa du I et II du présent article tant qu'elle considère que les droits des
+assurés sont menacés au sens du II de l'article R. 510-3.
+
+V.-Les dispositions du I et du II du présent article ne s'appliquent pas aux
+mutuelles et unions visées au III de l'article L. 111-1-1.

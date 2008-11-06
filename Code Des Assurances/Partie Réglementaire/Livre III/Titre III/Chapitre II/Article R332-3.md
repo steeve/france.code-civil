@@ -3,10 +3,11 @@ Article R332-3
 Rapportée à la base de dispersion constituée par la différence entre le montant
 total des engagements réglementés mentionnés à l'article R. 331-1, toutes
 monnaies confondues, et le montant total des actifs mentionnés aux articles R.
-332-3-4 à R. 332-10, toutes monnaies confondues, la valeur au bilan de chacune
-des catégories d'actif énumérées ci-après admis en représentation des
+332-3-4 à R. 332-10, toutes monnaies confondues, la valeur au bilan d'une
+entreprise d'assurance mentionnée au 1°, au 3° ou au 4° de l'article L. 310-2 de
+chacune des catégories d'actif énumérées ci-après admis en représentation des
 engagements réglementés ne peut excéder, sauf dérogation accordée cas par cas
-par l'Autorité de contrôle des assurances et des mutuelles :
+par l'Autorité de contrôle et des mutuelles :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 4° au 8° et 9° quinquies de
 l'article R. 332-2 et des prêts mentionnés au troisième alinéa du 1° de

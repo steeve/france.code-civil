@@ -1,6 +1,6 @@
 Article R931-10-6
 ----
-I. - La marge de solvabilité mentionnée à l'article R. 931-10-1 relative aux
+I.-La marge de solvabilité mentionnée à l'article R. 931-10-1 relative aux
 institutions de prévoyance ou unions d'institutions de prévoyance agréées pour
 pratiquer les branches 20 à 22 et 24 à 26 mentionnées à l'article R. 931-2-1 est
 constituée, après déduction des pertes, de la part des frais d'acquisition non
@@ -42,21 +42,22 @@ la sauvegarde de cette entité, l'Autorité de contrôle des assurances et des
 mutuelles peut autoriser l'institution de prévoyance ou l'union à ne pas
 effectuer les déductions prévues aux deux alinéas précédents.
 
-II. - La marge de solvabilité peut également être constituée par les fonds
+II.-La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
 subordonnés.
 
 Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de
 remboursement, fixées par arrêté du ministre chargé de la sécurité sociale. La
-prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant
-le plus faible de l'exigence de marge de solvabilité ou de la marge de
-solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui proviennent
-de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
-de cette marge. Tout remboursement effectué irrégulièrement peut, conformément
-aux dispositions de l'article L. 951-10, donner lieu à application de sanctions
-par l'Autorité de contrôle instituée par l'article L. 951-1.
+prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de
+l'exigence de marge de solvabilité ou de la marge de solvabilité, le montant le
+plus faible étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui
+proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
+concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
+peut, conformément aux dispositions de l'article L. 951-10, donner lieu à
+application de sanctions par l'Autorité de contrôle instituée par l'article L.
+951-1.
 
-III. - Sur demande et justification de l'institution ou de l'union et avec
+III.-Sur demande et justification de l'institution ou de l'union et avec
 l'accord de l'Autorité de contrôle instituée par l'article L. 951-1, la marge de
 solvabilité peut également être constituée par :
 
@@ -70,9 +71,9 @@ d'éléments de passif autres que les provisions mathématiques, dans la mesure 
 de telles plus-values n'ont pas un caractère exceptionnel ;
 
 3. Jusqu'au 31 décembre 2009, un montant représentant 50 % des excédents futurs
-de l'institution ou de l'union, mais n'excédant pas 25 % du montant le plus
-faible de la marge de solvabilité disponible ou de l'exigence de marge de
-solvabilité. Le montant des excédents futurs est obtenu en multipliant
+de l'institution ou de l'union, mais n'excédant pas 25 % de l'exigence de marge
+de solvabilité ou de la marge de solvabilité disponible, le montant le plus
+faible étant retenu. Le montant des excédents futurs est obtenu en multipliant
 l'excédent estimé de l'institution ou de l'union par le facteur qui représente
 la durée résiduelle moyenne des bulletins d'adhésion aux règlements ou contrats.
 
@@ -93,3 +94,43 @@ de garantie institué par l'article L. 931-35, la marge de solvabilité peut
 également être constituée par la réserve pour fonds de garantie prévue à
 l'article R. 931-12-11, à hauteur de la part de cotisation versée par
 l'institution ou l'union et non utilisée par le fonds.
+
+V.-Lorsque l'institution de prévoyance ou l'union n'est pas soumise à une
+surveillance complémentaire en application de l'article L. 933-3 ou de l'article
+L. 933-4-1, la marge de solvabilité est diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 933-2 que l'institution ou
+l'union détient dans des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers ;
+
+b) Les créances et autres instruments financiers que l'institution ou l'union
+détient sur des établissements de crédit, des entreprises d'investissement ou
+des établissements financiers dans lesquels elle détient une participation, et
+qui sont considérés comme des fonds propres pour le calcul des exigences de
+fonds propres applicables aux entreprises et établissements mentionnés
+ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise
+d'investissement ou un établissement financier est détenue temporairement par
+une institution ou union susmentionnées en vue de faciliter l'assainissement et
+la sauvegarde de cette entité, l'Autorité de contrôle des assurances et des
+mutuelles peut autoriser l'institution de prévoyance ou l'union à ne pas
+effectuer les déductions prévues aux deux alinéas précédents.
+
+En outre, l'institution ou l'union n'est pas tenue d'effectuer les déductions
+mentionnées au a et au b lorsqu'elle est soumise à une surveillance
+complémentaire en application de l'article L. 933-3 ou de l'article L. 934-4-1
+et qu'elle présente une solvabilité ajustée positive calculée selon les
+modalités précisées à l'article R. 933-8 et R. 933-9. La méthode définie à
+l'article R. 933-8 n'est applicable que si l'Autorité de contrôle estime que la
+gestion intégrée et le contrôle interne des entités entrant dans le périmètre de
+consolidation sont satisfaisants.
+
+VI.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au
+3 du I est susceptible d'être faussée par l'existence d'un contrat de
+réassurance financière limitée souscrit par l'institution de prévoyance ou
+l'union, l'Autorité de contrôle peut limiter la prise en compte de ce report, en
+vue d'y intégrer les charges futures attendues au titre de ce contrat. Le cas
+échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de
+réassurance financière limitée, en fonction du report cumulé effectivement
+constaté.

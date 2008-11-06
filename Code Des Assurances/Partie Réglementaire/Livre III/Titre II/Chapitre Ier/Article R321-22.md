@@ -1,10 +1,10 @@
 Article R321-22
 ----
 Une entreprise dont tous les agréments ont cessé de plein droit d'être valables
-ou ont fait l'objet d'arrêtés constatant leur caducité soumet à l'approbation de
-l'Autorité de contrôle des assurances et des mutuelles, dans un délai d'un mois
-à partir de la date où son dernier agrément a cessé de plein droit d'être
-valable ou a fait l'objet d'un arrêté constatant sa caducité, un programme de
+ou ont fait l'objet de décisions constatant leur caducité soumet à l'approbation
+de l'Autorité de contrôle des assurances et des mutuelles, dans un délai d'un
+mois à partir de la date où son dernier agrément a cessé de plein droit d'être
+valable ou a fait l'objet d'une décision constatant sa caducité, un programme de
 liquidation précisant notamment les délais prévisibles et les conditions
 financières de la liquidation, ainsi que les moyens en personnel et en matériels
 mis en oeuvre pour la gestion des engagements résiduels. Lorsque la gestion des

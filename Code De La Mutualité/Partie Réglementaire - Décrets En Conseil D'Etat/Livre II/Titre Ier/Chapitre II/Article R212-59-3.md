@@ -1,0 +1,35 @@
+Article R212-59-3
+----
+I. ― Lorsqu'elle estime que la politique d'investissement d'une mutuelle ou
+union de réassurance ne répond plus aux conditions mentionnées à l'article R.
+212-45-2, ou si la maîtrise par l'organisme de ses risques financiers est
+insuffisante, l'Autorité de contrôle peut exiger que la mutuelle ou union
+représente ses engagements réglementés afférents aux opérations réalisées dans
+les Etats membres de l'OCDE par des actifs dans les conditions suivantes :
+
+1° Rapportée au montant total des engagements mentionnés à l'article R.
+212-27-2, toutes monnaies confondues, la valeur des actifs libellés dans des
+devises autres que celles dans lesquelles sont établis les engagements
+réglementés est limitée à 30 % ;
+
+2° Rapportée à ce même montant, la somme des valeurs des actifs visés aux 9 à 11
+de l'article R. 212-31 et des prêts mentionnés au troisième alinéa du 1° de
+l'article R. 212-45, avec celle des actifs non listés aux articles R. 212-31 et
+R. 212-45 est limitée à 30 % ;
+
+3° Rapportée à ce même montant, la valeur au bilan des actifs émis, prêtés ou
+garantis par un même organisme ou un même groupe ne peut excéder respectivement
+5 % et 10 %, sauf dérogation accordée au cas par cas par l'Autorité de contrôle
+des assurances et des mutuelles.
+
+Toutefois, le ratio de 5 % susmentionné peut atteindre 10 %, à condition que la
+valeur totale des titres émis et des prêts obtenus ou garantis par les
+organismes ou groupes dont les émissions, prêts ou garanties de prêt sont admis
+au-delà de 5 % n'excède pas 40 % de la base de dispersion définie au présent
+article.
+
+II. ― Lorsque la mutuelle ou union de réassurance doit représenter ses
+engagements réglementés dans les conditions prévues au I du présent article, les
+provisions techniques relatives aux affaires cédées à un organisme d'assurance
+ou de réassurance peuvent également être représentées sans condition par une
+créance sur cet organisme.

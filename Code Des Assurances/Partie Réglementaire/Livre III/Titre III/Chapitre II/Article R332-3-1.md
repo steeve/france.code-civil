@@ -1,12 +1,14 @@
 Article R332-3-1
 ----
 Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au
-bilan des actifs mentionnés ci-après admis en représentation des engagements
+bilan d'une entreprise d'assurance mentionnée au 1°, au 3° ou au 4° de l'article
+L. 310-2 des actifs mentionnés ci-après admis en représentation des engagements
 réglementés ne peut excéder, sauf dérogation accordée cas par cas par l'Autorité
-de contrôle des assurances et des mutuelles :
+de contrôle :
 
-1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même
-organisme et des dépôts placés auprès de cet organisme, à l'exception :
+1° 5 % pour l'ensemble des valeurs émises, créances, prêts obtenus ou garantis
+par un même organisme et des dépôts placés auprès de cet organisme, à
+l'exception :
 
 a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de
 l'O.C.D.E. ainsi que des titres émis par la caisse d'amortissement de la dette
@@ -18,10 +20,10 @@ fonds communs de placement visées au 3° de l'article R. 332-2, dont le
 portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
 Le ratio de 5 % mentionné au deuxième alinéa peut atteindre 10 %, à condition
-que la valeur totale des titres émis et des prêts obtenus ou garantis par
-l'ensemble des organismes dont les émissions, prêts ou garanties de prêt sont
-admis au-delà du ratio de 5 % n'excède pas 40 % de la base de dispersion définie
-à l'article R. 332-3.
+que la valeur totale des titres émis, des créances et des prêts obtenus ou
+garantis par l'ensemble des organismes dont les émissions, prêts ou garanties de
+prêt sont admis au-delà du ratio de 5 % n'excède pas 40 % de la base de
+dispersion définie à l'article R. 332-3.
 
 2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 9° bis à 9°
 quater et 9° sexies de l'article R. 332-2 ;

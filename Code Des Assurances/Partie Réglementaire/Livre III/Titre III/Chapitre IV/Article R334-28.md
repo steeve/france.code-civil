@@ -1,16 +1,17 @@
 Article R334-28
 ----
-Les entreprises françaises agréées à la date du 27 décembre 1984 pour pratiquer
-uniquement les opérations relevant de la branche mentionnée au 18 de l'article
-R. 321-1 et dont, à la même date, la marge de solvabilité n'atteint pas le
-montant minimal réglementaire, disposent d'un délai expirant le 27 décembre 1989
-pour justifier dudit montant.
+Le fonds de garantie des entreprises mentionnées au 1° du III de l'article L.
+310-1-1 est égal au tiers de l'exigence de marge de solvabilité mentionnée à
+l'article R. 334-27. Il ne peut être inférieur à 3 200 000 euros (1). Toutefois,
+cette limite est fixée à 1 100 000 euros (1) s'agissant du fonds de garantie des
+entreprises de réassurance n'appartenant pas à un groupe d'assurance au sens du
+6° de l'article L. 334-2, détenues par un établissement de crédit, une
+entreprise d'investissement, une compagnie financière holding mixte ou par une
+entreprise non financière et qui ont pour objet exclusif la réassurance des
+risques d'une ou plusieurs entreprises, autres que des entreprises d'assurance,
+du groupe au sens du 7° de l'article L. 334-2 auquel elles appartiennent.
 
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier,
-avec l'accord de la commission de contrôle des assurances, d'un délai
-supplémentaire expirant le 27 décembre 1991.
-
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à
-l'approbation de la commission de contrôle des assurances soit le plan de
-redressement prévu à l'article R. 323-2, soit le plan de financement à court
-terme prévu à l'article R. 323-4.
+Le fonds de garantie est composé des éléments mentionnés au I de cet article,
+après déduction des éléments mentionnés au II du même article. Les éléments
+mentionnés au 5 du I de l'article R. 334-26 ne sont admis qu'avec l'accord de
+l'Autorité de contrôle.

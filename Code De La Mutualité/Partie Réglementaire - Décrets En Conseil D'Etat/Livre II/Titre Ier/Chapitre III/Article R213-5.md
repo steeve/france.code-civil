@@ -14,31 +14,31 @@ dans les mêmes conditions que celles permettant de déterminer la marge de
 solvabilité d'une mutuelle ou union participante agréée en France et pratiquant
 les mêmes opérations.
 
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul
-de la solvabilité ajustée une mutuelle ou une union s'il s'agit :
+L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une
+mutuelle ou une union d'assurance ou de réassurance :
 
-1. D'une mutuelle ou d'une union apparentée à un autre organisme assureur et si
-cette mutuelle ou union est déjà prise en compte dans le calcul effectué pour
-cet autre organisme assureur ;
+a) Si cette mutuelle ou cette union est prise en compte pour le calcul de la
+marge de solvabilité ajustée d'un autre organisme d'assurance ou de réassurance
+ayant son siège en France, une mutuelle ou union régie par le livre II du code
+de la mutualité, ou une institution de prévoyance ou union régie par le titre
+III du livre IX du code de la sécurité sociale auquel elle est apparentée ;
 
-2. D'une institution ou d'une union dont l'organisme de référence est une
-société de groupe d'assurance, compagnie financière holding mixte dont le
-coordonnateur est l'Autorité de contrôle des assurances et des mutuelles,
-entreprise d'assurance ou de réassurance dont le siège social est situé hors
-d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
-économique européen et est à la fois commune avec un ou plusieurs organismes
-assureurs agréés en France et déjà pris en compte dans le calcul effectué pour
-l'une de ces autres entreprises d'assurance ;
+b) Si cette mutuelle ou cette union a pour organisme de référence une entreprise
+d'assurance ou de réassurance ou une société de groupe d'assurance ou une
+compagnie financière holding mixte dont le coordonnateur est l'autorité de
+contrôle des assurances et des mutuelles ayant son siège dans un Etat non partie
+à l'accord sur l'Espace économique européen qui est également l'organisme de
+référence d'un ou plusieurs autres organismes d'assurance ou de réassurance et
+qu'elle est prise en compte dans le calcul de la marge de solvabilité de l'un de
+ces autres organismes d'assurance ou de réassurance ;
 
-3. D'une institution ou d'une union dont l'organisme de référence est une
-société de groupe d'assurance, compagnie financière holding mixte dont le
-coordonnateur est l'Autorité de contrôle des assurances et des mutuelles,
-entreprise d'assurance ou de réassurance dont le siège social est situé dans un
-Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
-économique européen dès lors que l'Autorité de contrôle mentionnée à l'article
-L. 510-1 a conclu un accord avec une autorité compétente d'un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen pour
-attribuer à cette autorité l'exercice de la surveillance complémentaire.
+c) Si cette mutuelle ou cette union a pour organisme de référence une entreprise
+d'assurance ou de réassurance ou une société de groupe d'assurance ou une
+compagnie financière holding mixte dont le coordonnateur est l'Autorité de
+contrôle, et dont le siège social est situé dans un Etat membre ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen, lorsque l'Autorité de
+contrôle a conclu un accord avec l'autorité compétente de cet Etat pour lui
+attribuer l'exercice de la surveillance complémentaire.
 
 Si l'Autorité de contrôle mentionnée à l'article L. 510-1 estime, à partir de ce
 calcul de solvabilité ajustée, que la solvabilité de la mutuelle ou l'union

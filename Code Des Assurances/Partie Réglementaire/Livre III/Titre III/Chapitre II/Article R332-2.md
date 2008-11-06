@@ -2,33 +2,34 @@ Article R332-2
 ----
 En application des dispositions de l'article R. 332-1 et sous réserve des
 dérogations prévues à ce même article, à l'article R. 332-1-1 ainsi qu'aux
-articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à
-l'article R. 331-1 sont représentés par les actifs suivants :
+articles R. 332-3-3 à R. 332-10, les entreprises d'assurance mentionnées à
+l'article L. 310-1 représentent leurs engagements réglementés mentionnés à
+l'article R. 331-1 par les actifs suivants :
 
-A. - Valeurs mobilières et titres assimilés :
+A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
-de l'Organisation de coopération et de développement économique (O.C.D.E.) ainsi
-que les titres émis par la caisse d'amortissement de la dette sociale instituée
-par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations
-émises ou garanties par un organisme international à caractère public dont un ou
+de l'Organisation de coopération et de développement économique (OCDE) ainsi que
+les titres émis par la caisse d'amortissement de la dette sociale instituée par
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
+ou garanties par un organisme international à caractère public dont un ou
 plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
-membre de l'O.C.D.E. ;
+membre de l'OCDE ;
 
 2° Obligations, titres participatifs et parts ou actions émises par des
-véhicules de titrisation et titres participatifs négociés sur un marché reconnu
-, autres que celles ou ceux visés au 1° ;
+véhicules de titrisation et titres participatifs négociés sur un marché reconnu,
+autres que celles ou ceux visés au 1° ;
 
 2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
-marchés interbancaire, monétaire ou obligataire, et émis par des personnes
+marchés interbancaire, monétaire ou obligataire et émis par des personnes
 morales autres que les Etats membres de l'OCDE ayant leur siège social sur le
 territoire de ces Etats ou des fonds communs de titrisation, dont des titres
 sont négociés sur un marché reconnu ;
 
 2° ter Bons à moyen terme négociables répondant aux conditions mentionnées à
-l'article R. 332-14-1, et émis par des personnes morales autres que les Etats
+l'article R. 332-14-1 et émis par des personnes morales autres que les Etats
 membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
 des titres sont négociés sur un marché reconnu ;
 
@@ -41,7 +42,7 @@ conditions fixées par l'article R. 332-14 ;
 que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
 
 5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant
-leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
+leur siège social sur le territoire de l'un des Etats membres de l'OCDE ;
 
 5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation
 autres que celles visées au 5° ;
@@ -51,8 +52,8 @@ titres participatifs et titres subordonnés émis par les sociétés d'assurance
 mutuelles, les mutuelles, unions et fédérations régies par le code de la
 mutualité et les institutions de prévoyance régies par le titre III du livre IX
 du code de la sécurité sociale ayant leur siège social sur le territoire de l'un
-des Etats membres de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis,
-2° ter 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
+des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 2° bis, 2°
+ter, 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 
 7° Parts des fonds communs de placement à risques de l'article L. 214-36 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
@@ -67,34 +68,37 @@ actions ou parts d'organismes de placement collectif en valeurs mobilières
 relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
 antérieure au 2 août 2003 ;
 
-7° ter Parts ou actions d'organismes de placement collectif en levier mentionnés
-au R. 214-29 ou d'organismes de placement collectifs en valeurs mobilières à
-règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ;
+7° ter Parts ou actions d'organismes de placement collectif en valeurs
+mobilières à règle d'investissement allégées sans effet de levier mentionnés à
+l'article R. 214-29 du code monétaire et financier ou d'organismes de placement
+collectifs en valeurs mobilières à règles d'investissement allégées à effet de
+levier mentionnés à l'article R. 214-32 du même code ;
 
-7° quater Parts ou actions d'organismes de placement collectif en valeur
-mobilières de fonds alternatifs mentionnés au R. 214-36 ;
+7° quater Parts ou actions d'organismes de placement collectif en valeurs
+mobilières de fonds alternatifs mentionnés à l'article R. 214-36 du code
+monétaire et financier ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 3° et 7° à 7° quater,
-dans les conditions fixées par l'article R. 332-14.
+dans les conditions fixées par l'article R. 332-14 ;
 
 Les marchés reconnus mentionnés aux 2°, 2° bis, 2° ter et 4° du présent article
 sont les marchés réglementés des Etats parties à l'accord sur l'Espace
 économique européen ou les marchés de pays tiers membres de l'OCDE en
 fonctionnement régulier. Les autorités compétentes de ces pays doivent avoir
 défini les conditions de fonctionnement du marché, d'accès à ce marché et
-d'admission aux négociations, et imposé le respect d'obligations de déclaration
+d'admission aux négociations et imposé le respect d'obligations de déclaration
 et de transparence.
 
-B. - Actifs immobiliers :
+B.-Actifs immobiliers :
 
 9° Droits réels immobiliers afférents à des immeubles situés sur le territoire
-de l'un des Etats membres de l'O.C.D.E. ;
+de l'un des Etats membres de l'OCDE ;
 
 9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées
-par l'article R. 332-15 ;
+territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par
+l'article R. 332-15 ;
 
 9° ter Parts ou actions d'organismes de placement collectif immobilier relevant
 de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
@@ -114,24 +118,24 @@ section 5 du chapitre IV du titre Ier du livre II du code monétaire et
 financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
 même code.
 
-C. - Prêts et dépôts :
+C.-Prêts et dépôts :
 
-10° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les
+10° Prêts obtenus ou garantis par les Etats membres de l'OCDE, par les
 collectivités publiques territoriales et les établissements publics des Etats
-membres de l'O.C.D.E. ;
+membres de l'OCDE ;
 
 11° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile
-ou leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E.,
-dans les conditions fixées par l'article R. 332-12 ;
+ou leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans
+les conditions fixées par l'article R. 332-12 ;
 
 12° Autres prêts ou créances représentatives de prêts consentis aux personnes
 physiques ou morales ayant leur domicile ou leur siège social sur le territoire
-de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par
-l'article R. 332-13 ;
+de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
+332-13 ;
 
-13° Dépôts, dans les conditions fixées par l'article R. 332-16.
+13° Dépôts, dans les conditions fixées par l'article R. 332-16 ;
 
-D. - Dispositions communes :
+D.-Dispositions communes :
 
 Les intérêts courus des placements énumérés au présent article sont assimilés
 auxdits placements.
@@ -145,8 +149,8 @@ de la part restant à amortir et, pour les primes ou soultes versées au titre
 d'opérations de gré à gré, du montant des garanties reçues dans les conditions
 de l'article R. 332-56.
 
-Les actifs représentatifs des provisions techniques sont évalués en net des
-dettes contractées pour l'acquisition de ces mêmes actifs.
+Les actifs représentatifs des provisions techniques sont évalués nets des dettes
+contractées pour l'acquisition de ces mêmes actifs.
 
 Les actifs donnés en garantie d'un engagement particulier ne sont pas
 admissibles en représentation des autres engagements. Par exception, les actifs

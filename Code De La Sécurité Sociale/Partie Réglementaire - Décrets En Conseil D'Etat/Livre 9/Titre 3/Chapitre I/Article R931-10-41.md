@@ -1,9 +1,8 @@
 Article R931-10-41
 ----
 A l'exception des valeurs inscrites comme il est dit à l'article R. 931-10-40,
-les actifs mentionnés à l'article R. 931-10-22 et les autres placements
-financiers et immobiliers sont inscrits au bilan sur la base du prix d'achat ou
-de revient, dans les conditions ci-après :
+les placements sont inscrits au bilan sur la base du prix d'achat ou de revient,
+dans les conditions ci-après :
 
 a) Les valeurs mobilières et les parts de fonds communs de placement sont
 retenues pour leur prix d'achat. Lorsqu'un instrument financier à terme est

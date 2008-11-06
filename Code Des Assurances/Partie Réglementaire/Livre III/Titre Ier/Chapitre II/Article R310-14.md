@@ -1,8 +1,9 @@
 Article R310-14
 ----
 Les commissaires-contrôleurs mentionnés à l'article R. 310-13 sont spécialement
-accrédités auprès des entreprises d'assurance ou de capitalisation mentionnées
-aux 1°, 3° et 4° de l'article L. 310-2 du présent code.
+accrédités auprès des entreprises d'assurance, de capitalisation ou de
+réassurance mentionnées aux 1°, 3° et 4° de l'article L. 310-2 et au 1° du III
+de l'article L. 310-1-1
 
 Les commissaires-contrôleurs vérifient tous les livres, registres, contrats,
 bordereaux, procès-verbaux, pièces comptables ou documents quelconques relatifs

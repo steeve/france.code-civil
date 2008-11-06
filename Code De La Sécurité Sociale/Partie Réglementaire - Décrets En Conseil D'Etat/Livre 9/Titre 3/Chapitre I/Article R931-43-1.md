@@ -7,6 +7,5 @@ complémentaire de l'Autorité de contrôle des assurances et des mutuelles
 fournissent en outre un rapport décrivant également le dispositif de contrôle
 interne de l'ensemble ou du conglomérat financier.
 
-Ce rapport contient notamment une description des éléments mentionnés à
-l'article R. 933-1, à l'article R. 933-6 et aux III et IV de l'article R.
-933-11.
+Les dispositions du présent article sont applicables aux institutions de
+prévoyance et aux unions mentionnées à l'article L. 931-4-1.

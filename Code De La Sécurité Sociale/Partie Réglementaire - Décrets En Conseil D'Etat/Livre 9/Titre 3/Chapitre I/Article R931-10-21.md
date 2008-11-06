@@ -2,10 +2,11 @@ Article R931-10-21
 ----
 En application des dispositions de l'article R. 931-10-19, et sous réserve des
 dérogations à cet article prévues par l'article R. 931-10-20 et par les articles
-R. 931-10-25 à R. 931-10-31, les engagements réglementés mentionnés à l'article
-R. 931-10-12 sont représentés par les actifs suivants :
+R. 931-10-25 à R. 931-10-31, les institutions et unions exerçant une activité
+d'assurance représentent les engagements réglementés mentionnés à l'article R.
+931-10-12 par les actifs suivants :
 
-A. - Valeurs mobilières et titres assimilés :
+A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
 de l'Organisation de coopération et de développement économique (O.C.D.E.) ainsi
@@ -16,8 +17,9 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
 membre de l'O.C.D.E. ;
 
-2° Obligations, parts de fonds communs de créances et titres participatifs
-négociés sur un marché reconnu, autres que celles ou ceux mentionnés au 1° ;
+2° Obligations, titres participatifs et parts ou actions émises par des
+véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
+ceux mentionnés au 1° ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -85,7 +87,7 @@ doivent avoir défini les conditions de fonctionnement du marché, d'accès à c
 marché et d'admission aux négociations, et imposé le respect d'obligations de
 déclaration et de transparence.
 
-B. - Actifs immobiliers :
+B.-Actifs immobiliers :
 
 11° Droits réels immobiliers afférents à des immeubles situés sur le territoire
 de l'un des Etats membres de l'O.C.D.E. ;
@@ -95,7 +97,25 @@ sociétés civiles à objet strictement foncier, ayant leur siège social sur le
 territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées
 par l'article R. 931-10-36 ;
 
-C. - Prêts et dépôts :
+12° bis Parts ou actions d'organismes de placement collectif immobilier relevant
+de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, autres que ceux mentionnés aux 12° ter à 12° quinquies ;
+
+12° ter Parts ou actions d'organismes de placement collectif immobilier relevant
+du paragraphe 2 de la sous-section 4 de la section 5 du chapitre IV du titre Ier
+du livre II du code monétaire et financier ;
+
+12° quater Parts ou actions d'organismes de placement collectif immobilier
+relevant du paragraphe 3 de la sous-section 4 de la section 5 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
+
+12° quinquies Parts ou actions d'organismes de placement collectif immobilier
+mentionnés au sous-paragraphe 7 du paragraphe 1 de la sous-section 1 de la
+section 5 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
+même code.
+
+C.-Prêts et dépôts :
 
 13° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les
 collectivités publiques territoriales et les établissements publics des Etats
@@ -112,7 +132,7 @@ l'article R. 931-10-34 ;
 
 16° Dépôts, dans les conditions fixées par l'article R. 931-10-37.
 
-D. - Dispositions communes :
+D.-Dispositions communes :
 
 Les intérêts courus des placements énumérés au présent article sont assimilés
 auxdits placements.

@@ -39,17 +39,12 @@ la différence des valeurs actuelles des engagements respectivement pris par la
 mutuelle et l'union et par les membres participants ou les souscripteurs de
 contrats collectifs ;
 
-7° Provision mathématique des réassurances : provision à constituer par les
-mutuelles ou unions qui acceptent des risques en réassurance et égale à la
-différence entre les valeurs actuelles des engagements respectivement pris l'un
-envers l'autre par le réassureur et le cédant ;
-
-8° Provision pour risque d'exigibilité : provision destinée à faire face aux
+7° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
 l'article R. 212-53. La provision à constituer est calculée dans les conditions
 définies au I de l'article R. 212-24 ;
 
-9° Provision pour égalisation : provision destinée à faire face aux fluctuations
+8° Provision pour égalisation : provision destinée à faire face aux fluctuations
 de sinistralité afférentes aux opérations collectives couvrant les risques de
 dommages corporels.
 

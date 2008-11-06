@@ -76,6 +76,10 @@ après cessions en réassurance ;
 
 2. 85 % de cette même provision calculée avant cessions en réassurance.
 
+En outre, pour la prise en compte de la réassurance financière limitée dans le
+ratio de réassurance mentionné aux deuxième et troisième alinéas du a et au 3 du
+e, l'Autorité de contrôle se fonde sur le transfert de risque effectif.
+
 Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle,
 et avec l'accord de celle-ci, les montants récupérables au titre des risques
 transférés à un véhicule de titrisation mentionnés à l'article L. 310-1-2

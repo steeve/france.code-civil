@@ -1,9 +1,10 @@
 Article R212-33
 ----
-Rapportée au montant défini à l'article R. 212-32, la valeur admise en
-représentation des actifs mentionnés ci-après admis en représentation des
-engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas
-par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
+Rapportée au montant défini à l'article R. 212-32, la valeur au bilan d'une
+mutuelle ou union d'assurance admise en représentation des actifs mentionnés
+ci-après admis en représentation des engagements réglementés ne peut excéder,
+sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à
+l'article L. 510-1 :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même
 organisme et des dépôts placés auprès de cet organisme, à l'exception des
@@ -23,13 +24,13 @@ fonds communs de placement doivent être en mesure de démontrer qu'elles
 respecteraient le présent article si elles détenaient elles-mêmes directement,
 au prorata de leur participation, les valeurs détenues par ces organismes ;
 
-2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société
-immobilière ou foncière ;
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° ter
+et 14° quinquies de l'article R. 212-31 ;
 
-3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis et 10° ter de l'article
-R. 212-31 et les prêts mentionnés au troisième alinéa du I de l'article R.
-212-45, respectivement émises ou obtenus par une même société ou un même
-organisme.
+3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis, 10° ter et 14° quater
+de l'article R. 212-31 et les prêts mentionnés au troisième alinéa du I de
+l'article R. 212-45, respectivement émises ou obtenus par une même société ou un
+même organisme.
 
 Pour l'application des dispositions du 7° de l'article R. 212-31, une mutuelle
 ou union ne peut affecter à la représentation de ses engagements réglementés

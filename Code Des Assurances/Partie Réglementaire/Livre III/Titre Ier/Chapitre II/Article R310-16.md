@@ -1,10 +1,10 @@
 Article R310-16
 ----
-I. - En application des dispositions de l'article L. 310-19-1 du présent code,
-de l'article L. 951-6-1 du code de la sécurité sociale et de l'article L. 510-6
-du code de la mutualité, tout organisme soumis au contrôle de l'Autorité de
-contrôle des assurances et des mutuelles doit faire connaître à cette Autorité
-le nom du ou des commissaires aux comptes qu'il se propose de désigner.
+I.-En application des dispositions de l'article L. 310-19-1 du présent code, de
+l'article L. 951-6-1 du code de la sécurité sociale et de l'article L. 510-6 du
+code de la mutualité, tout organisme soumis au contrôle de l'Autorité de
+contrôle doit faire connaître à cette Autorité le nom du ou des commissaires aux
+comptes qu'il se propose de désigner.
 
 Lorsqu'il informe l'Autorité de contrôle de son intention de désigner comme
 commissaires aux comptes une société de commissaires aux comptes constituée et
@@ -51,11 +51,11 @@ l'exercice de ses fonctions compte tenu de la personne responsable de la mission
 ou de la nature et des caractéristiques de l'activité de l'entreprise
 d'assurance concernée.
 
-II. - Lorsque l'Autorité de contrôle envisage de procéder, en application de
+II.-Lorsque l'Autorité de contrôle envisage de procéder, en application de
 l'article L. 310-19-1 du présent code, à la désignation d'un commissaire aux
 comptes supplémentaire dans une entreprise d'assurance, elle en informe le
 représentant légal et les commissaires aux comptes en fonctions par lettre
-recommandée avec demande d'avis de réception. L'Autorité de contrôle met le
+recommandée avec demande d'avis de réception.L'Autorité de contrôle met le
 représentant légal de l'entreprise et les commissaires aux comptes en fonctions
 en demeure de présenter leurs observations écrites, dans un délai qui ne peut
 être inférieur à un mois, avant de désigner un commissaire aux comptes

@@ -14,3 +14,6 @@ trois derniers alinéas de l'article R. 212-17.
 
 Le fonds est constitué par les éléments mentionnés aux 1, 3, 4 et 7 de l'article
 R. 212-15.
+
+Le fonds est constitué par les éléments mentionnés au 1, 2 et 3 du I, au 1 du II
+et au 1 du III de l'article R. 212-15.

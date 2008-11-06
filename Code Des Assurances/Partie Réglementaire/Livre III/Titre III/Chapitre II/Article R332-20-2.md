@@ -9,8 +9,8 @@ cotation ;
 
 b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué
 par au moins deux organismes n'appartenant pas à un même groupe au sens de
-l'article R. 332-13. Un des organismes peut être l'entreprise d'assurance
-elle-même, sauf opposition de l'Autorité de contrôle des assurances et des
-mutuelles. Les organismes habilités à cette évaluation sont les établissements
-de crédit, les entreprises d'investissement ou, sur accord de l'Autorité de
-contrôle des assurances et des mutuelles, des organismes spécialisés.
+l'article R. 332-13. Un des organismes peut être l'entreprise elle-même, sauf
+opposition de l'Autorité de contrôle des assurances et des mutuelles. Les
+organismes habilités à cette évaluation sont les établissements de crédit, les
+entreprises d'investissement ou, sur accord de l'Autorité de contrôle, des
+organismes spécialisés.
