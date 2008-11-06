@@ -24,7 +24,7 @@ provenance d'autres zones, l'évolution constatée de toutes ces émissions ;
 
 5° Une analyse des phénomènes de diffusion et de transformation de la pollution
 comprenant, le cas échéant, des précisions concernant les facteurs responsables
-des dépassements des valeurs limites ;
+des dépassements des valeurs limites ou des valeurs cibles ;
 
 6° Des informations concernant les mesures ou projets visant à réduire la
 pollution atmosphérique élaborés antérieurement à l'adoption du plan de

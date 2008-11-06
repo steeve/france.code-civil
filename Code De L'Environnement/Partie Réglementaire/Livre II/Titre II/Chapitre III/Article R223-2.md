@@ -1,7 +1,7 @@
 Article R223-2
 ----
-Dans chaque agglomération ou zone surveillée, un arrêté du préfet définit,
-conformément au plan de protection de l'atmosphère s'il existe, des mesures
+Dans chaque agglomération ou zone surveillée, un arrêté du préfet, compatible
+avec le plan de protection de l'atmosphère, s'il existe, définit des mesures
 d'urgence susceptibles d'être prises en application de l'article L. 223-1. Ces
 mesures sont adaptées à la nature et à l'ampleur de l'épisode de pollution et
 peuvent être progressives.
@@ -18,7 +18,9 @@ l'arrêté est pris par les préfets concernés. En Ile-de-France, l'arrêté es
 par l'ensemble des préfets de département, par le préfet de police et par le
 préfet de région.
 
-Il est publié au Recueil des actes administratifs de la préfecture et fait
-l'objet d'une insertion dans deux quotidiens, dont un au moins régional ou
-local, diffusés dans le département. En outre, il est notifié aux exploitants
-des sources fixes concernées ainsi qu'aux maires des communes intéressées.
+Il est publié au Recueil des actes administratifs de la préfecture ou des
+préfectures intéressées. Un avis de publication est inséré, par les soins du ou
+des préfets compétents, dans deux journaux quotidiens, dont un au moins régional
+ou local, diffusés dans le ou les départements concernés. En outre, il est
+notifié aux exploitants des sources fixes concernées ainsi qu'aux maires des
+communes intéressées.

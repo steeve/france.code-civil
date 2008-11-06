@@ -1,17 +1,40 @@
 Article R221-1
 ----
-Les objectifs de qualité de l'air, les seuils d'alerte et les valeurs limites
-définis à l'article L. 221-1 sont fixés au tableau annexé au présent article.
+Les normes de qualité de l'air mentionnées à l'article L. 221-1 sont fixées au
+tableau annexé au présent article.
 
-Le tableau fixe également les seuils de recommandation et d'information
-mentionnés à l'article R. 221-8, au-delà desquels la concentration en polluants
-a des effets limités et transitoires sur la santé de catégories de la population
-particulièrement sensibles en cas d'exposition de courte durée.
+Au sens du présent titre, on entend par :
+
+1° " Objectif de qualité " un niveau de concentration de substances polluantes
+dans l'atmosphère à atteindre à long terme, sauf lorsque cela n'est pas
+réalisable par des mesures proportionnées, afin d'assurer une protection
+efficace de la santé humaine et de l'environnement dans son ensemble ;
+
+2° " Valeur cible " un niveau de concentration de substances polluantes dans
+l'atmosphère fixé dans le but d'éviter, de prévenir ou de réduire les effets
+nocifs sur la santé humaine ou sur l'environnement dans son ensemble, à
+atteindre, dans la mesure du possible, dans un délai donné ;
+
+3° " Valeur limite " un niveau de concentration de substances polluantes dans
+l'atmosphère fixé sur la base des connaissances scientifiques à ne pas dépasser
+dans le but d'éviter, de prévenir ou de réduire les effets nocifs de ces
+substances sur la santé humaine ou sur l'environnement dans son ensemble ;
+
+4° " Seuil d'information et de recommandation " un niveau de concentration de
+substances polluantes dans l'atmosphère au-delà duquel une exposition de courte
+durée présente un risque pour la santé humaine des groupes particulièrement
+sensibles de la population rendant nécessaires des informations immédiates et
+adéquates ;
+
+5° " Seuil d'alerte " un niveau de concentration de substances polluantes dans
+l'atmosphère au-delà duquel une exposition de courte durée présente un risque
+pour la santé de l'ensemble de la population ou de dégradation de
+l'environnement justifiant l'intervention de mesures d'urgence.
 
 Tableau de l'article R. 221-1
 
 Polluants, objectifs de qualité, seuils d'alerte, seuils de recommandation et
-d'information et valeurs limites
+d'information, valeurs limites et valeurs cibles
 
 1. Polluant visé : dioxyde d'azote :
 
@@ -299,6 +322,40 @@ différences entre les concentrations horaires supérieures à 80 micro g/m3 (so
 40 ppb) et 80 micro g/m3 en utilisant uniquement les valeurs sur une heure
 mesurées quotidiennement entre 8 heures et 20 heures, durant une période donnée.
 
+Valeurs cibles :
+
+Protection de la santé humaine : 120 µg / m ³ pour le maximum journalier de la
+moyenne sur 8 heures (a) à ne pas dépasser plus de 25 jours par année civile en
+moyenne calculée sur 3 ans (b). Cette valeur cible est applicable à compter de
+2010 (c).
+
+Protection de la végétation : 18 000 µg / m ³. h en AOT40, calculées à partir
+des valeurs sur 1 heure de mai à juillet en moyenne calculée sur 5 ans (b).
+Cette valeur cible est applicable à compter de 2010 (c).
+
+a) Le maximum journalier de la moyenne sur 8 heures est sélectionné après examen
+des moyennes glissantes sur 8 heures, calculées à partir des données horaires et
+actualisées toutes les heures. Chaque moyenne sur 8 heures ainsi calculée est
+attribuée au jour où elle s'achève, autrement dit, la première période
+considérée pour le calcul sur un jour donné sera la période comprise entre 17
+heures la veille et 1 heure le jour même ; la dernière période considérée pour
+un jour donné sera la période comprise entre 16 heures et minuit le même jour.
+
+b) Si les moyennes sur 3 ou 5 ans ne peuvent pas être déterminées sur la base
+d'une série complète et continue de données annuelles, les données annuelles
+minimales requises pour juger de la conformité avec les valeurs cibles seront
+les suivantes :
+
+- pour la protection de la santé humaine : des données valides relevées pendant
+1 an ;
+
+- pour la protection de la végétation : des données valides relevées pendant 3
+ans.
+
+c) La conformité avec les valeurs cibles sera évaluée à partir de cette date :
+2010 sera la première année dont les données seront utilisées pour calculer la
+conformité sur les 3 ou 5 années suivantes, selon le cas.
+
 Seuil de recommandation et d'information : 180 micro g/m3 en moyenne horaire.
 
 Seuils d'alerte pour la mise en oeuvre progressive de mesures d'urgence :
@@ -383,3 +440,30 @@ la teneur totale de ces éléments et composés dans la fraction "PM10". Cette
 fraction est constituée de particules qui passent dans un orifice d'entrée
 calibré tel que défini dans la norme NF EN 12341 avec un rendement de séparation
 de 50 % pour un diamètre aérodynamique de 10 microns m.
+
+Valeurs cibles à compter du 31 décembre 2012 :
+
+
+POLLUANT CONSIDÉRÉ
+
+ARSENIC
+
+
+CADMIUM
+
+NICKEL
+
+BENZO (A) PYRÈNE
+
+Valeur cible (1).
+
+6 ng / m ³
+
+5 ng / m ³
+
+20 ng / m ³
+
+1 ng / m ³
+
+(1) Moyenne, calculée sur une année civile, du contenu total de la fraction
+PM10. Le volume d'échantillonnage se réfère aux conditions ambiantes.

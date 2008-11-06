@@ -4,8 +4,9 @@ Le plan régional pour la qualité de l'air, prévu à l'article L. 222-1, compr
 :
 
 1° Une évaluation de la qualité de l'air dans la région considérée, au regard
-notamment des objectifs de qualité de l'air prévus aux articles L. 221-1 à L.
-221-5, et de son évolution prévisible ;
+notamment des objectifs de qualité de l'air mentionnés à l'article L. 222-1 et
+fixés par le tableau annexé à l'article R. 221-1, et de son évolution prévisible
+;
 
 2° Une évaluation des effets de la qualité de l'air sur la santé, sur les
 conditions de vie, sur les milieux naturels et agricoles et sur le patrimoine ;
