@@ -376,10 +376,10 @@ Postes 3 f, 3 g et 3 i du bilan (passif).
 1995, article 3-III (2°).
 
 Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques
-ou sous-rubriques intitulées charges de provisions » sont affectées du signe-en
+ou sous-rubriques intitulées charges de provisions sont affectées du signe-en
 cas de diminution des provisions ; la sous-rubrique variation des primes non
-acquises (cf. note 65) » est affectée du signe-en cas de diminution des primes
-non acquises et risques en cours.
+acquises (cf. note 65) est affectée du signe-en cas de diminution des primes non
+acquises et risques en cours.
 
 La répartition par catégorie des charges figurant au poste I-7 ou II-8 du compte
 de résultat s'effectue en rapportant à chaque catégorie les frais qui lui sont
@@ -396,7 +396,7 @@ leur sont affectés.
 
 Lorsque les opérations d'une catégorie sont exclusivement relatives à des
 garanties accessoires au sens des articles R. 321-3 et R. 321-5 du code des
-assurances, la mention garanties accessoires » est portée dans l'intitulé de la
+assurances, la mention garanties accessoires est portée dans l'intitulé de la
 colonne relative à la catégorie concernée.
 
 Pour les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
@@ -432,11 +432,11 @@ comprend les commissions de toute nature allouées aux courtiers, agents génér
 et mandataires de l'entreprise, et notamment les commissions d'acquisition, de
 renouvellement, d'encaissement, de gestion et de service après vente.
 
-Pour les entreprises visées à l'article L. 310-1-1, le montant des commissions
-afférent aux acceptations comptabilisé pendant l'exercice. Le montant de
-commissions relatif aux opérations relevant de la catégorie 19 définie à
-l'article A. 344-2, d'une part, et le montant de commissions relatif aux
-opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre
+Pour les entreprises visées au 1° du III de l'article L. 310-1-1, le montant des
+commissions afférent aux acceptations comptabilisé pendant l'exercice. Le
+montant de commissions relatif aux opérations relevant de la catégorie 19
+définie à l'article A. 344-2, d'une part, et le montant de commissions relatif
+aux opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre
 part, peuvent être respectivement portés en note au bas du compte technique de
 l'assurance non-vie et du compte technique de l'assurance-vie du compte de
 résultat.
@@ -480,25 +480,26 @@ Charges des provisions d'assurance-vie (poste II-6 a du compte technique)
 X 1
 
 Intérêts techniques (comptes 6302 et 6342) et (Arrêté du 28 juillet 1995, art.
-3-II-2°) participations aux bénéfices » incorporées directement (comptes 6305 et
+3-II-2°) participations aux bénéfices incorporées directement (comptes 6305 et
 6345)
 
 X 2, X 3
 
 Utilisation de la provision pour (Arrêté du 28 juillet 1995, art. 3-II-3°)
-participation aux bénéfices » (comptes 63095 et 63945)
+participation aux bénéfices (comptes 63095 et 63945)
 
 
 X 4
 
-(Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change » (+ OU)
+(Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change (+ OU)
 
 
 X 5
 
 (Arrêté du 15 décembre 2005, annexe 3-36.) Transferts de provisions
 
-X 6 »
+
+X 6
 
 Ecart entre les provisions d'assurance-vie à l'ouverture et les provisions
 d'assurance-vie à la clôture (poste 3 b du passif du bilan)
@@ -529,8 +530,8 @@ A.-Participation aux résultats totale (postes I-6 et II-7 du compte de résulta
 
 A 1 : Participation attribuée à des contrats (y compris intérêts techniques)
 
-A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de
-la provision pour participation aux bénéfices
+A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise de la
+provision pour participation aux bénéfices
 
 B.-Participation aux résultats des contrats relevant des catégories visées à
 l'article A. 132-2 :
@@ -543,7 +544,7 @@ B 3 : Montant effectif de la participation aux résultats (3) :
 
 -B 3 a Participation attribuée à des contrats (y compris intérêts techniques)
 
--B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de
+-B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise de
 la provision pour participation aux bénéfices
 
 (1) L'exercice n est l'exercice sous revue.
@@ -557,7 +558,7 @@ techniques) correspondant aux contrats des catégories visées à l'article A.
 331-3 (*).
 
 (*) Aux termes de l'arrêté du 28 juillet 1995, article 3-II (3°), les mots :
-article A. 132-2 », sont remplacés par les mots : article A. 331-3 ».
+article A. 132-2, sont remplacés par les mots : article A. 331-3.
 
 3. Autres informations
 

@@ -11,8 +11,8 @@ réglementaires qui leur sont applicables (notamment la loi n° 66-537 du 24
 juillet 1966 et les dispositions spécifiques aux entreprises dont les actions
 sont admises à la cote des bourses de valeurs), la production de ces
 informations par les entreprises n'est requise que pour autant qu'elles ont une
-importance significative.L'annexe comporte notamment les éléments prévus
-ci-après.A chaque fois que ceci est utile à la compréhension, et notamment
+importance significative. L'annexe comporte notamment les éléments prévus
+ci-après. A chaque fois que ceci est utile à la compréhension, et notamment
 lorsque l'annexe donne le détail d'un poste du bilan ou du compte de résultat,
 les chiffres correspondants relatifs à l'exercice précédent sont indiqués de
 manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
@@ -201,11 +201,11 @@ R. 332-20) (autres que ceux visés au i ci-dessous) ;
 
 g) Un tableau pour les autres placements inscrits au bilan en classe 2 (arrêté
 du 15 décembre 2005, annexe 3-16) et pour les instruments financiers à terme non
-rattachés à des placements (autres que ceux visés au i ci-dessous) » ;
+rattachés à des placements (autres que ceux visés au i ci-dessous) ;
 
 h) Un tableau pour les actifs inscrits au bilan affectables à la représentation
 des engagements réglementés, autres que ceux inscrits en classe 2 (arrêté du 15
-décembre 2005, annexe 3-17) (autres que ceux visés au i ci-dessous) » ;
+décembre 2005, annexe 3-17) (autres que ceux visés au i ci-dessous) ;
 
 i) Un tableau pour les placements inscrits au bilan en classe 2 et relatifs à
 des opérations légalement cantonnées enregistrées dans une comptabilité
@@ -227,8 +227,8 @@ appartenant à des institutions de prévoyance, à raison d'un tableau par
 portefeuille géré (pour ces valeurs, les colonnes C et D ne sont pas servies ;
 la colonne E est servie par la valeur d'entrée).
 
-A 2.-Pour les entreprises soumises au contrôle de l'Etat en vertu de l'article
-L. 310-1-1 :
+A 2.-Pour les entreprises soumises au contrôle de l'Etat en vertu du 1° du III
+de l'article L. 310-1-1 :
 
 a) Un tableau pour les placements inscrits au bilan en classe 2 conformément à
 l'article R. 332-19 (autres que ceux visés aux c, d et e ci-dessous) ;
@@ -266,22 +266,25 @@ plusieurs natures de placements, les instruments financiers à terme de la
 stratégie seront soit rattachés aux placements de même nature, soit mentionnés
 dans le tableau g de l'état détaillé pour les entreprises soumises au contrôle
 de l'Etat en vertu de l'article L. 310-1 ou dans le tableau f de l'état détaillé
-pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L.
-310-1-1. Ce tableau contient en outre les instruments financiers à terme qui ne
-sont pas liés à des placements détenus (anticipations de placements notamment).
+pour les entreprises soumises au contrôle de l'Etat en vertu du 1° du III de
+l'article L. 310-1-1. Ce tableau contient en outre les instruments financiers à
+terme qui ne sont pas liés à des placements détenus (anticipations de placements
+notamment).
 
 Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise.A la
 fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments
 à déduire (part non libérée des titres, intérêts courus non échus), la
 totalisation des valeurs en devises et la contre-valeur en euros des
 totalisations au cours de change retenu pour l'établissement des comptes annuels
-(colonnes C, D, E, F, G).A la fin de chaque rubrique, figure une ligne de
+(colonnes C, D, E, F, G). A la fin de chaque rubrique, figure une ligne de
 totalisation des valeurs ou contre-valeurs en euros (colonnes C, D, E, F, G).
 Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux
 comporte une ligne de totalisation générale des valeurs ou contre-valeurs en
-euros (C, D, E, F, G). Les entreprises agréées pour les opérations mentionnées
-au 1° de l'article L. 310-1 indiquent à la suite des tableaux la quote-part (%)
-définie à l'article R. 344-1.
+euros (C, D, E, F, G).
+
+Les entreprises agréées pour les opérations mentionnées au 1° de l'article L.
+310-1 indiquent à la suite des tableaux la quote-part (%) définie à l'article R.
+344-1.
 
 Les tableaux sont présentés selon le modèle ci-après.
 
@@ -289,7 +292,7 @@ Les tableaux sont présentés selon le modèle ci-après.
 NOMBRE
 
 et désignation des valeurs ou des actifs avec, le cas échéant, mention de la
-devise autre que l'euro » (*) dans laquelle » (*) elles sont libellées
+devise autre que l'euro (*) dans laquelle (*) elles sont libellées
 
 
 AFFECTATION
@@ -543,7 +546,7 @@ c) Dont :
 -placements et instruments financiers à terme hors OCDE.
 
 II.-Actifs affectables à la représentation des provisions techniques (autres que
-les placements, les instruments financiers à terme » et la part des réassureurs
+les placements, les instruments financiers à terme et la part des réassureurs
 dans les provisions techniques).
 
 III.-Valeurs appartenant à des institutions de prévoyance (à raison d'une ligne
@@ -683,12 +686,12 @@ provisions pour sinistres inscrites au bilan de clôture au titre de ces mêmes
 sinistres. Le caractère significatif de cette différence est apprécié
 globalement.
 
-Les entreprises visées à l'article L. 310-1-1 précisent, dès lors que cette
-différence est significative, la différence entre, d'une part, le montant des
-provisions techniques inscrites au bilan d'ouverture relatives aux sinistres
-rattachés aux exercices antérieurs et, d'autre part, le montant total des
-prestations payées au cours de l'exercice au titre de sinistres rattachés aux
-exercices antérieurs ajouté aux provisions techniques inscrites au bilan de
+Les entreprises visées au 1° du III de l'article L. 310-1-1 précisent, dès lors
+que cette différence est significative, la différence entre, d'une part, le
+montant des provisions techniques inscrites au bilan d'ouverture relatives aux
+sinistres rattachés aux exercices antérieurs et, d'autre part, le montant total
+des prestations payées au cours de l'exercice au titre de sinistres rattachés
+aux exercices antérieurs ajouté aux provisions techniques inscrites au bilan de
 clôture au titre de ces mêmes sinistres. Le caractère significatif de cette
 différence est apprécié globalement.
 

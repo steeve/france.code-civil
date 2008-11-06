@@ -4,18 +4,20 @@ Article Annexe A344-10 ETAT C9
 
 Dispersion des réassureurs et simulations d'événements
 
-Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 établissent, selon
-le modèle fixé ci-après, un état décrivant, à la date de clôture du dernier
-exercice inventorié, la dispersion de leurs cessionnaires et rétrocessionnaires
-et retraçant le niveau de protection conféré par leurs protections en
-réassurances si survenaient des événements défavorables.
+Les entreprises établissent, selon le modèle fixé ci-après, un état décrivant, à
+la date de clôture du dernier exercice inventorié, la dispersion de leurs
+cessionnaires et rétrocessionnaires et retraçant le niveau de protection conféré
+par leurs protections en réassurances si survenaient des événements
+défavorables.
 
 
-Tableau A
+Tableau A1
 
-Répartition par réassureur des provisions techniques cédées
+Répartition des provisions techniques cédées par réassureur ayant son siège
+social dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'EEE
 
-DISPERSION DES CESSIONS (1)
+DISPERSION des cessions (1)
 
 NOM (2)
 
@@ -62,8 +64,9 @@ Autres réassureurs
 
 Total
 
+.
 
-DISPERSION DES CESSIONS
+DISPERSION des cessions
 
 SOLDE des comptes courants (4)
 
@@ -143,14 +146,319 @@ incorporels), ou zéro si le résultat est négatif.
 créances est à mesurer par la durée qui sépare la date d'exigibilité de la
 créance de la date de clôture du dernier exercice inventorié.
 
+Tableau A 2.
+
+Répartition des provisions techniques cédées par réassureur ayant son siège
+social dans un Etat non partie à l'accord sur l'EEE
+
+DISPERSION des cessions (1)
+
+NOM (2)
+
+(A)
+
+
+PROVISIONS TECHNIQUES CÉDÉES OU RÉTROCÉDÉES
+
+Montant notifié au réassureur
+
+(B)
+
+Montant non notifié au réassureur (3)
+
+(C)
+
+
+Réassureur 1
+
+Réassureur 2
+
+
+Réassureur 3
+
+Réassureur 4
+
+
+Réassureur 5
+
+Réassureur 6
+
+
+Réassureur 7
+
+Réassureur 8
+
+
+Réassureur 9
+
+Réassureur 10
+
+
+Autres réassureurs
+
+Total
+
+.
+
+DISPERSION des cessions
+
+
+SOLDE
+
+des comptes courants (4) (D)
+
+
+DÉPÔTS ESPÈCES
+
+(E)
+
+
+MONTANT
+
+des autres garanties
+
+apportées (5)
+
+(F)
+
+
+PROVISIONS
+
+techniques cédées
+
+non garanties /
+
+Capitaux propres nets d'incorporels (6)
+
+(G)
+
+
+MONTANT
+
+des créances
+
+de plus d'un an (7)
+
+(H)
+
+
+Réassureur 1
+
+Réassureur 2
+
+
+Réassureur 3
+
+Réassureur 4
+
+
+Réassureur 5
+
+Réassureur 6
+
+
+Réassureur 7
+
+Réassureur 8
+
+
+Réassureur 9
+
+Réassureur 10
+
+
+Autres réassureurs
+
+Total
+
+(1) Les réassureurs de l'entreprise sont à classer par ordre d'importance des
+provisions techniques cédées ou rétrocédées (y compris la part non notifiée de
+ces provisions). Le réassureur n° 1 correspond au réassureur le plus important.
+Les montants demandés dans ce tableau sont ceux à la date de clôture du dernier
+exercice inventorié et retracés dans le bilan.
+
+(2) Il s'agit de la dénomination usuelle du réassureur.
+
+(3) Il s'agit des montants de provisions techniques à charge des réassureurs
+figurant au bilan mais qui n'ont pas été communiqués à ces derniers.
+
+(4) Il s'agit du montant des soldes des comptes courants à la date de clôture du
+dernier exercice inventorié (signe-s'ils sont en faveur du réassureur).
+
+(5) Il s'agit du montant des garanties apportées conformément à l'article R.
+332-17 (nantissement et garantie à première demande).
+
+(6) Ce ratio doit être exprimé sous forme de pourcentage et précisé avec deux
+chiffres après la virgule (par exemple : 33, 18 %). Le calcul à effectuer est le
+suivant : (G) = (B + C + D-E-F) / (capitaux propres après affectation-actifs
+incorporels), ou zéro si le résultat est négatif.
+
+(7) Il s'agit des créances au titre des comptes courants.L'ancienneté de ces
+créances est à mesurer par la durée qui sépare la date d'exigibilité de la
+créance de la date de clôture du dernier exercice inventorié.
+
+Tableau A 3.
+
+
+Répartition des provisions techniques cédées à des véhicules de titrisation
+
+DISPERSION des cessions (1)
+
+NOM (2)
+
+(A)
+
+
+PROVISIONS TECHNIQUES CÉDÉES OU RÉTROCÉDÉES
+
+Montant notifié
+
+(B)
+
+Montant non notifié (3)
+
+(C)
+
+
+Véhicule 1
+
+Véhicule 2
+
+
+Véhicule 3
+
+Véhicule 4
+
+
+Véhicule 5
+
+Véhicule 6
+
+
+Véhicule 7
+
+Véhicule 8
+
+
+Véhicule 9
+
+Véhicule 10
+
+
+Autres véhicules
+
+Total
+
+.
+
+DISPERSION des cessions
+
+
+SOLDE
+
+des comptes courants (4) (D)
+
+
+DÉPÔTS ESPÈCES
+
+(E)
+
+
+MONTANT
+
+des autres garanties
+
+apportées (5)
+
+(F)
+
+
+PROVISIONS
+
+techniques cédées
+
+non garanties /
+
+Capitaux propres nets d'incorporels (6)
+
+(G)
+
+
+MONTANT
+
+des créances
+
+de plus d'un an (7)
+
+(H)
+
+
+Véhicule 1
+
+Véhicule 2
+
+
+Véhicule 3
+
+Véhicule 4
+
+
+Véhicule 5
+
+Véhicule 6
+
+
+Véhicule 7
+
+Véhicule 8
+
+
+Véhicule 9
+
+Véhicule 10
+
+
+Autres véhicules
+
+Total
+
+(1) Les véhicules de titrisation sont à classer par ordre d'importance des
+provisions techniques cédées ou rétrocédées (y compris la part non notifiée de
+ces provisions). Le véhicule n° 1 correspond au véhicule de titrisation le plus
+important. Les montants demandés dans ce tableau sont ceux à la date de clôture
+du dernier exercice inventorié et retracés dans le bilan.
+
+(2) Il s'agit de la dénomination usuelle du véhicule de titrisation.
+
+(3) Il s'agit des montants de provisions techniques à charge des réassureurs
+figurant au bilan mais qui n'ont pas été communiqués à ces derniers.
+
+(4) Il s'agit du montant des soldes des comptes courants à la date de clôture du
+dernier exercice inventorié (signe-s'ils sont en faveur du véhicule de
+titrisation).
+
+(5) Il s'agit du montant des garanties apportées conformément à l'article R.
+332-17 (nantissement et garantie à première demande).
+
+(6) Ce ratio doit être exprimé sous forme de pourcentage et précisé avec deux
+chiffres après la virgule (par exemple : 33, 18 %). Le calcul à effectuer est le
+suivant : (G) = (B + C + D-E-F) / (capitaux propres après affectation-actifs
+incorporels), ou zéro si le résultat est négatif.
+
+(7) Il s'agit des créances au titre des comptes courants.L'ancienneté de ces
+créances est à mesurer par la durée qui sépare la date d'exigibilité de la
+créance de la date de clôture du dernier exercice inventorié.
+
 
 Tableau B
 
 Simulations d'événements
 
 Les entreprises agréées pour les opérations visées au 1° de l'article L. 310-1
-doivent renseigner les lignes numérotées 1, 7, 8 et 9 du tableau suivant. Les
-autres entreprises doivent renseigner les lignes numérotées 1 à 6.
+ou au 2 de l'article R. 321-5-1 doivent renseigner les lignes numérotées 1, 7, 8
+et 9 du tableau suivant. Les entreprises agréées pour les opérations visées aux
+2° et 3° de l'article L. 310-1 ou au 1 de l'article R. 321-5-1 doivent
+renseigner les lignes numérotées 1 à 6.
 
 SIMULATION SUR L'ENSEMBLE des risques souscrits
 
@@ -209,10 +517,10 @@ réassurance est la plus élevée.
 civile et utilisé par l'entreprise pour établir et analyser son programme de
 réassurance.
 
-(7) Il s'agit d'un scénario défavorable de type accidents technologiques »
-utilisé par l'entreprise pour établir et analyser son programme de réassurance.
+(7) Il s'agit d'un scénario défavorable de type accidents technologiques utilisé
+par l'entreprise pour établir et analyser son programme de réassurance.
 
-(8) Il s'agit d'un scénario défavorable de type épidémie » utilisé par
+(8) Il s'agit d'un scénario défavorable de type épidémie utilisé par
 l'entreprise pour établir et analyser son programme de réassurance.
 
 (9) Il s'agit d'un scénario défini par la combinaison d'hypothèses financières

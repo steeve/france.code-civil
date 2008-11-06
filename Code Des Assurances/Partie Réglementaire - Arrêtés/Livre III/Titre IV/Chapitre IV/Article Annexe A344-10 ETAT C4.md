@@ -14,13 +14,13 @@ Les entreprises agréées pour les opérations visées au 1° de l'article L. 31
 établissent un état C 4 Vie-Capitalisation-Mixte et les autres entreprises
 visées au 1°, 3° ou 4° de l'article L. 310-2 un état C 4 Non-Vie.
 
-Les entreprises visées à l'article L. 310-1-1 qui pratiquent uniquement des
-opérations relevant de la catégorie 19 de l'article A. 344-2 établissent un état
-C 4 Vie-Capitalisation ; si elles pratiquent uniquement des opérations relevant
-de la catégorie 39 de l'article A. 344-2, elles établissent un état C 4 Non-Vie
-; si elles pratiquent simultanément des opérations relevant des catégories 19 et
-39 de l'article A. 344-2, elles établissent un état C 4 Vie-Capitalisation et un
-état C 4 Non-Vie.
+Les entreprises visées au 1° de l'article L. 310-1-1 qui pratiquent uniquement
+des opérations relevant de la catégorie 19 de l'article A. 344-2 établissent un
+état C 4 Vie-Capitalisation ; si elles pratiquent uniquement des opérations
+relevant de la catégorie 39 de l'article A. 344-2, elles établissent un état C 4
+Non-Vie ; si elles pratiquent simultanément des opérations relevant des
+catégories 19 et 39 de l'article A. 344-2, elles établissent un état C 4
+Vie-Capitalisation et un état C 4 Non-Vie.
 
 A.-État C 4 Vie-Capitalisation-Mixte
 

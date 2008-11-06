@@ -1,8 +1,8 @@
 Article A344-2
 ----
 Les opérations effectuées par les entreprises soumises au contrôle de l'Etat en
-vertu de l'article L. 310-1 ou de l'article L. 310-1-1 sont réparties entre les
-catégories d'opérations suivantes :
+vertu de l'article L. 310-1 ou du 1° du III de l'article L. 310-1-1 sont
+réparties entre les catégories d'opérations suivantes :
 
 1 Contrats de capitalisation à prime unique (ou versements libres) ;
 
@@ -85,12 +85,12 @@ de leurs affaires brutes de cessions et de leurs affaires cédées : primes,
 sinistres, commissions, provisions techniques. Ces mêmes éléments doivent être
 ventilés, dans la comptabilité, pour chaque catégorie :
 
-- par état de situation du risque ou de l'engagement ;
+-par état de situation du risque ou de l'engagement ;
 
-- entre les affaires du siège et les affaires de chacune des succursales
-établies à l'étranger.
+-entre les affaires du siège et les affaires de chacune des succursales établies
+à l'étranger.
 
-Toutefois, les entreprises soumises au contrôle de l'Etat en vertu de l'article
-L. 310-1-1 peuvent ne pas procéder à la ventilation des primes, sinistres,
-commissions et provisions techniques par état de situation du risque ou de
-l'engagement.
+Toutefois, les entreprises soumises au contrôle de l'Etat en vertu du 1° du III
+de l'article L. 310-1-1 peuvent ne pas procéder à la ventilation des primes,
+sinistres, commissions et provisions techniques par état de situation du risque
+ou de l'engagement.

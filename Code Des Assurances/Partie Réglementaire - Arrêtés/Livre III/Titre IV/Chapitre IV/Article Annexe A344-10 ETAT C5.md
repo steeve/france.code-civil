@@ -5,9 +5,8 @@ Article Annexe A344-10 ETAT C5
 
 Représentation des engagements privilégiés
 
-Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, selon
-le modèle fixé ci-après, un état retraçant la représentation de leurs
-engagements privilégiés.
+Les entreprises visées établissent, selon le modèle fixé ci-après, un état
+retraçant la représentation de leurs engagements privilégiés.
 
 
 PROVISIONS TECHNIQUES
@@ -427,7 +426,8 @@ XXX
 
 -
 
-Créances sur les réassureurs mentionnées à l'article R. 332-7
+Créances sur les réassureurs ayant leur siège social dans un Etat non partie à
+l'accord sur l'EEE mentionnées à l'article R. 332-7
 
 -
 
@@ -670,7 +670,26 @@ Intérêts courus des placements mentionnés à l'article R. 332-2
 
 -
 
-Créances garantie sur les réassureurs mentionnées à l'article R. 332-3-3
+
+Créances admises sur les réassureurs et véhicules de titrisation
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+Autres actifs représentatifs des engagements réglementés des entreprises de
+réassurance
 
 -
 
@@ -707,7 +726,7 @@ Total des placements et actifs assimilés
 correspondants ne figurent au présent état que s'ils appartiennent à
 l'entreprise.
 
-(2) Le détail de la rubrique divers » est annexé au présent état.
+(2) Le détail de la rubrique divers est annexé au présent état.
 
 (3) Sont notamment incluses parmi ces placements les valeurs remises par les
 organismes réassurés avec caution solidaire ou substitution.

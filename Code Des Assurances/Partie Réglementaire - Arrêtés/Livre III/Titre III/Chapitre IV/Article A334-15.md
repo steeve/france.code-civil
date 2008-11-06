@@ -1,7 +1,7 @@
 Article A334-15
 ----
-I. - Les exigences de solvabilité relatives aux différents secteurs financiers
-du conglomérat financier sont la somme :
+I.-Les exigences de solvabilité relatives aux différents secteurs financiers du
+conglomérat financier sont la somme :
 
 a) Des exigences applicables aux entités réglementées dont le siège social est
 situé en France, telles que prévues par le chapitre IV du titre II du livre III
@@ -13,21 +13,21 @@ financiers ;
 
 b) Des exigences équivalentes à celles mentionnées au a, pour les entités
 réglementées dont le siège social est situé hors de France et pour les
-organismes d'assurances, les entreprises d'investissement et les établissements
-de crédit ayant leur siège dans un Etat qui n'est pas partie à l'accord sur
-l'Espace économique européen, et
+organismes d'assurance ou de réassurance, les entreprises d'investissement et
+les établissements de crédit ayant leur siège dans un Etat qui n'est pas partie
+à l'accord sur l'Espace économique européen, et
 
 c) Des exigences de solvabilité notionnelles calculées pour les entités non
 réglementées selon les règles applicables aux entités réglementées du secteur
 financier auquel elles appartiennent.
 
-II. - Pour l'application de l'article R. 334-49, les fonds propres du
-conglomérat financier sont constitués des éléments suivants :
+II.-Pour l'application de l'article R. 334-49, les fonds propres du conglomérat
+financier sont constitués des éléments suivants :
 
-a) Les éléments mentionnés aux articles R. 334-3, R. 334-11, R. 334-17 et R.
-334-42, hormis ceux figurant à l'alinéa suivant, calculés conformément aux
-règles précisées par ces dispositions et sur la base des comptes consolidés ou
-combinés du conglomérat financier, et
+a) Les éléments mentionnés aux articles R. 334-3, R. 334-11, R. 334-17, R.
+334-26 et R. 334-42, hormis ceux figurant à l'alinéa suivant, calculés
+conformément aux règles précisées par ces dispositions et sur la base des
+comptes consolidés ou combinés du conglomérat financier, et
 
 b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres
 prudentiels des entités relevant du secteur bancaire et des services
@@ -38,8 +38,8 @@ conglomérat financier, l'autorité de contrôle, en tant que coordonnateur, tie
 compte de la disponibilité et la transférabilité effectives des fonds entre les
 différentes entités du conglomérat financier.
 
-III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 334-50,
-les fonds propres et les exigences de solvabilité d'une entité sont déterminés à
+III.-Pour l'application des méthodes 2 et 3 définies à l'article R. 334-50, les
+fonds propres et les exigences de solvabilité d'une entité sont déterminés à
 partir de ses comptes annuels conformément aux dispositions de l'arrêté prévu à
 l'article R. 334-49.
 

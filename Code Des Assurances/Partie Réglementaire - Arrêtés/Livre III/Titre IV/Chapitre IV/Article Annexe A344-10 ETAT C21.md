@@ -6,9 +6,9 @@ Article Annexe A344-10 ETAT C21
 Etat détaillé des provisions techniques
 
 Les entreprises agréées pour des opérations visées au 1° de l'article L. 310-1
-et les entreprises visées à l'article L. 310-1-1 pratiquant des opérations
-relevant de la catégorie 19 de l'article A. 344-2 établissent, selon le modèle
-fixé ci-après, un état détaillé de leurs provisions techniques.
+et les entreprises visées au 1° du III de l'article L. 310-1-1 pratiquant des
+opérations relevant de la catégorie 19 de l'article A. 344-2 établissent, selon
+le modèle fixé ci-après, un état détaillé de leurs provisions techniques.
 
 L'état est constitué de deux ensembles de lignes.
 

@@ -55,6 +55,9 @@ conduisent à rattacher les sinistres par exercice de souscription.
 Le cas échéant, les états incluent la part des organismes dispensés d'agrément
 dans les cotisations ou les prestations.
 
-Les entreprises soumises au contrôle de l'Etat en application de l'article L.
-310-1-1 n'établissent que les états C 1, C 2, C 3, C 4, C 10, C 11, C 12, C 13
-et C 21.
+Les entreprises soumises au contrôle de l'Etat en application du 1° du III de
+l'article L. 310-1-1 n'établissent pas les états C 7, C 8, C 20, C 30 et C 31.
+
+Pour l'établissement des états réglementaires, les cessions à des véhicules de
+titrisation sont assimilées à des cessions en réassurance, dans les conditions
+prévues aux articles R. 332-3-3, R. 334-5, R. 334-13 et R. 334-27.

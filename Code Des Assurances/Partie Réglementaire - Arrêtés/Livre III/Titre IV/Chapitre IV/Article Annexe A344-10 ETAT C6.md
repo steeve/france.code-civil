@@ -5,15 +5,18 @@ Article Annexe A344-10 ETAT C6
 
 Marge de solvabilité
 
-Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, selon
-le modèle fixé ci-après, un état rapprochant la marge de solvabilité constituée
-de l'exigence minimale de marge de solvabilité.
+Les entreprises établissent, selon le modèle fixé ci-après, un état rapprochant
+la marge de solvabilité constituée de l'exigence minimale de marge de
+solvabilité.
 
 Les entreprises pratiquant les opérations visées au 2° ou au 3° de l'article L.
 310-1 effectuent un calcul d'exigence minimale de marge de solvabilité selon les
 règles non-vie. Les entreprises pratiquant les opérations visées au 1° de
 l'article L. 310-1 effectuent un calcul d'exigence minimale de marge de
-solvabilité selon les règles vie.
+solvabilité selon les règles vie. Les entreprises mentionnées au 1° du III de
+l'article L. 310-1-1 effectuent un calcul d'exigence minimale de marge de
+solvabilité selon les règles non-vie, sauf exigence de l'Autorité de contrôle en
+vertu du III de l'article R. 334-27.
 
 L'exigence minimale de marge de solvabilité est égale à la somme de la fraction
 calculée selon les règles non-vie et de la fraction calculée selon les règles

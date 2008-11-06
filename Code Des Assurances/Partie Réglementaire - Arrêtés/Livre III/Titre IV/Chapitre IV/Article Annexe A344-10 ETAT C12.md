@@ -6,11 +6,11 @@ ETAT C 12
 Sinistres et résultats par année de souscription
 
 Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L.
-310-1 et les entreprises visées à l'article L. 310-1-1 pratiquant des opérations
-relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle
-fixé ci-après, un état de leurs primes, sinistres et résultats, par année de
-souscription des contrats, pour chacune des catégories, sous-catégories ou
-regroupements de catégories de contrats suivants :
+310-1 et les entreprises visées au 1° du III de l'article L. 310-1-1 pratiquant
+des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent,
+selon le modèle fixé ci-après, un état de leurs primes, sinistres et résultats,
+par année de souscription des contrats, pour chacune des catégories,
+sous-catégories ou regroupements de catégories de contrats suivants :
 
 a) Affaires directes souscrites en France :
 

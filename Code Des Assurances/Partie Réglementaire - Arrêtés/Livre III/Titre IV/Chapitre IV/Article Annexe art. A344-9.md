@@ -34,5 +34,5 @@ converties en euros, pour chacune des monnaies de l'Union européenne y compris
 l'écu, pour le franc suisse, pour le dollar US, pour le dollar canadien, pour le
 yen et pour le total des autres monnaies.
 
-Les entreprises visées à l'article L. 310-1-1 ne fournissent pas les
-informations visées au point 2. 2 du II du modèle d'annexe.
+Les entreprises visées au 1° du III de l'article L. 310-1-1 ne fournissent pas
+les informations visées au point 2. 2 du II du modèle d'annexe.

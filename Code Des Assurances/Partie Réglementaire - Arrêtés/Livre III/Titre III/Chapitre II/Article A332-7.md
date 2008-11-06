@@ -1,12 +1,13 @@
 Article A332-7
 ----
-I. - Les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 sont en
-mesure d'estimer à toute époque l'incidence, d'une part sur les engagements
-envers les assurés, d'autre part sur la valeur de réalisation de leurs actifs
-mentionnés aux 1° à 13° de l'article R. 332-2 et à l'article R. 332-5 ainsi que
-de leurs instruments financiers à terme, de toute hypothèse d'évolution des taux
-d'intérêt et des marchés de valeurs mobilières, de biens immobiliers et de
-change.
+I. - Les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 ou au 1°
+du III de l'article L. 310-1-1 sont en mesure d'estimer à toute époque
+l'incidence, d'une part sur les engagements envers les assurés et les
+entreprises réassurées, d'autre part sur la valeur de réalisation de leurs
+actifs mentionnés aux 1° à 13° de l'article R. 332-2 et à l'article R. 332-5
+ainsi que de leurs instruments financiers à terme, de toute hypothèse
+d'évolution des taux d'intérêt et des marchés de valeurs mobilières, de biens
+immobiliers et de change.
 
 Ces hypothèses permettent de simuler les effets d'une augmentation immédiate et
 pérenne du taux des emprunts d'Etat à dix ans et de l'évolution correspondante
@@ -16,8 +17,8 @@ que d'une diminution immédiate et pérenne de la valeur de réalisation des
 actions, parts ou droits émis par des sociétés commerciales ainsi que des droits
 réels immobiliers.
 
-Ces hypothèses figurent dans le modèle d'état T 3 annexé à l'article A. 344-13.
-L'Autorité de contrôle peut néanmoins demander aux entreprises d'autres
+Ces hypothèses figurent dans le modèle d'état T 3 annexé à l'article A.
+344-13.L'Autorité de contrôle peut néanmoins demander aux entreprises d'autres
 simulations sur le fondement d'autres valeurs.
 
 II. - Simulations sur l'actif
@@ -62,8 +63,8 @@ de même nature non négociés sur un tel marché.
 
 III. - Simulations sur les provisions mathématique vie et non-vie
 
-Les provisions techniques mentionnées aux 1° et 2° de l'article R. 331-3 et au
-1° de l'article R. 331-6 sont évaluées comme suit :
+Les provisions techniques mentionnées aux 1° et 2° des articles R. 331-3 et R.
+331-36, et au 1° de l'article R. 331-6 sont évaluées comme suit :
 
 - la provision pour participation aux bénéfices est évaluée à sa dernière valeur
 comptable connue ;

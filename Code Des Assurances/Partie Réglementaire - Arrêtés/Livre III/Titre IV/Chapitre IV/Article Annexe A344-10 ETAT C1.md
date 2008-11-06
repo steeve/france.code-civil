@@ -11,13 +11,13 @@ visées au 2° de l'article L. 310-1, elles établissent en outre un état C 1
 Dommages corporels. Les autres entreprises visées au 1°, 3° ou 4° de l'article
 L. 310-2 établissent un état C 1 Non-Vie.
 
-Les entreprises visées à l'article L. 310-1-1 qui pratiquent uniquement des
-opérations relevant de la catégorie 19 de l'article A. 344-2 établissent un état
-C 1 Vie-Capitalisation ; si elles pratiquent uniquement des opérations relevant
-de la catégorie 39 de l'article A. 344-2, elles établissent un état C 1 Non-Vie
-; si elles pratiquent simultanément des opérations relevant des catégories 19 et
-39 de l'article A. 344-2, elles établissent un état C 1 Vie-Capitalisation et un
-état C 1 Non-Vie.
+Les entreprises visées au 1° du III de l'article L. 310-1-1 qui pratiquent
+uniquement des opérations relevant de la catégorie 19 de l'article A. 344-2
+établissent un état C 1 Vie-Capitalisation ; si elles pratiquent uniquement des
+opérations relevant de la catégorie 39 de l'article A. 344-2, elles établissent
+un état C 1 Non-Vie ; si elles pratiquent simultanément des opérations relevant
+des catégories 19 et 39 de l'article A. 344-2, elles établissent un état C 1
+Vie-Capitalisation et un état C 1 Non-Vie.
 
 L'état C 1 répartit d'abord les résultats techniques par pays d'établissement.
 Les affaires souscrites en France sont ensuite détaillées selon leur modalité
@@ -163,7 +163,6 @@ d'assurance-vie (comptes 62004 pb et 63095) ;
 25-L 26) ;
 
 (Arrêté du 10 juin 2005, point b-ii de l'annexe.) (L 28) Virement de provisions
-»
 
 (L 30) Participations aux bénéfices (comptes 6303, 6304, 6305 et 6306) ;
 
@@ -209,7 +208,7 @@ du compte 6390 correspondant aux comptes 6303, 6304, 6305 et 6306) ;
 54-L 55-L 56) ;
 
 (Arrêté du 10 juin 2005, point b-ii de l'annexe.) (L 60) Résultat technique
-(lignes L 5-L 18-L 27-L 28-L 30-L 40-L 41 + L 42 + L 45-L 57) ».
+(lignes L 5-L 18-L 27-L 28-L 30-L 40-L 41 + L 42 + L 45-L 57).
 
 L'état C 1 Vie-Capitalisation est complété par quatre lignes hors compte :
 

@@ -1,10 +1,13 @@
 Article A321-1
 ----
-I. - Toute demande d'agrément administratif présentée par une entreprise
-française doit être produite en double exemplaire et comporter :
+I.-Toute demande d'agrément administratif présentée par une entreprise française
+doit être produite en double exemplaire et comporter :
 
-a) La liste, établie en conformité de l'article R. 321-1, des branches ou
-sous-branches que l'entreprise se propose de pratiquer ;
+a) Pour un agrément prévu à l'article L. 321-1, la liste, établie en conformité
+avec l'article R. 321-1, des branches ou sous-branches que l'entreprise
+d'assurance se propose de pratiquer et pour un agrément prévu à l'article L.
+321-1-1, la liste, établie en conformité avec l'article R. 321-5-1, des
+activités que l'entreprise de réassurance se propose de pratiquer ;
 
 b) Le cas échéant, l'indication des pays étrangers où l'entreprise se propose
 d'opérer ;
@@ -32,9 +35,9 @@ se propose de garantir ;
 
 2. Les entreprises mentionnées au 1° de l'article L. 310-1 doivent produire une
 note technique exposant le mode d'établissement des tarifs et les bases de
-calcul des diverses catégories de primes ou cotisations. S'il s'agit
-d'opérations de la branche 26 de l'article R. 321-1, l'entreprise doit produire
-une note technique exposant le mode d'établissement des tarifs, les modalités de
+calcul des diverses catégories de primes ou cotisations.S'il s'agit d'opérations
+de la branche 26 de l'article R. 321-1, l'entreprise doit produire une note
+technique exposant le mode d'établissement des tarifs, les modalités de
 détermination des primes ou cotisations annuelles ainsi que les indications
 relatives à la fixation du nombre d'unités de rente correspondant auxdites
 primes ou cotisations.
@@ -69,21 +72,20 @@ frais généraux, rendement des placements).
 
 7. Pour les mêmes exercices :
 
-- les prévisions relatives aux moyens financiers destinés à la couverture des
+-les prévisions relatives aux moyens financiers destinés à la couverture des
 engagements ;
 
-- les prévisions relatives à la marge de solvabilité que l'entreprise doit
-posséder en application des dispositions des sections II ou III du chapitre IV
-du titre III du présent livre ;
+-les prévisions relatives à la marge de solvabilité que l'entreprise doit
+posséder en application des dispositions du chapitre IV du titre III du présent
+livre ;
 
-- les prévisions de trésorerie.
+-les prévisions de trésorerie.
 
 8. La justification des éléments constituant le montant minimal du fonds de
 garantie que l'entreprise doit posséder, selon le cas, conformément aux
-dispositions des sections II ou III du chapitre IV du titre III du présent livre
-;
+dispositions du chapitre IV du titre III du présent livre ;
 
-9.1. Dans le cas d'une société anonyme, la liste des actionnaires détenant 5 %
+9. 1. Dans le cas d'une société anonyme, la liste des actionnaires détenant 5 %
 ou plus du capital ou des droits de vote ainsi que la part du capital social et
 des droits de vote détenue par chacun d'eux. Est considéré comme actionnaire
 unique pour l'application des présentes dispositions, tout groupe d'actionnaires
@@ -96,17 +98,17 @@ d'actionnaires, et l'indication de la part détenue par chacun dans le capital e
 les droits de vote sont complétées par l'indication de la nature du ou des liens
 existant entre elles.
 
-Lorsque l'un des actionnaires de l'entreprise d'assurance figurant sur la liste
-prévue ci-dessus est lui-même contrôlé par un actionnaire unique, l'identité du
-ou des actionnaires liés entre eux détenant le contrôle est indiquée.
+Lorsque l'un des actionnaires de l'entreprise figurant sur la liste prévue
+ci-dessus est lui-même contrôlé par un actionnaire unique, l'identité du ou des
+actionnaires liés entre eux détenant le contrôle est indiquée.
 
-Lorsque l'un des actionnaires de l'entreprise d'assurance figurant sur la liste
-prévue ci-dessus détient à lui seul le contrôle de l'entreprise d'assurance et
-qu'il est lui-même une société dont l'activité principale consiste à prendre des
+Lorsque l'un des actionnaires de l'entreprise figurant sur la liste prévue
+ci-dessus détient à lui seul le contrôle de l'entreprise d'assurance et qu'il
+est lui-même une société dont l'activité principale consiste à prendre des
 participations dans les entreprises soumises au contrôle de l'Etat en
-application de l'article L. 310-1, la liste de ses actionnaires est également
-fournie, dans les mêmes conditions que la liste des actionnaires de l'entreprise
-d'assurance.
+application de l'article L. 310-1 ou du 1° du III de l'article L. 310-1-1, la
+liste de ses actionnaires est également fournie, dans les mêmes conditions que
+la liste des actionnaires de l'entreprise d'assurance.
 
 Pour chacun des actionnaires mentionnés en application des présentes
 dispositions détenant 10 % ou plus du capital ou des droits de vote, est fourni
@@ -117,7 +119,7 @@ ou des droits de vote, le dossier est composé des informations mentionnées à
 l'article A. 322-1-II 1 (a et b) ou des informations mentionnées au paragraphe
 II-2 (a, b, c, d, e) du même article.
 
-9.2. Dans le cas d'une société d'assurance mutuelle, une note détaillant les
+9. 2. Dans le cas d'une société d'assurance mutuelle, une note détaillant les
 modalités de constitution du fonds d'établissement et des éléments constitutifs
 de la marge de solvabilité ainsi que l'identité des apporteurs de fonds.
 
@@ -127,9 +129,9 @@ domiciliés les comptes de l'entreprise.
 11. Le cas échéant, l'organigramme financier du groupe, au sens du 7° de
 l'article L. 334-2, auquel l'entreprise appartient.
 
-II. - En cas de demande d'extension d'agrément, le dossier à communiquer
-comporte les éléments mentionnés aux a, b, f et g du I du présent article. Il
-comporte en outre, pour les trois derniers exercices clos, les comptes annuels
-mentionnés à l'article A. 344-9, les états C 5 et C 6 mentionnés à l'article A.
-344-10 et, le cas échéant, l'état G 2 mentionné à l'annexe I de l'article A.
-344-14 ainsi que l'état G 20 mentionné à l'annexe de l'article A. 344-14-1.
+II.-En cas de demande d'extension d'agrément, le dossier à communiquer comporte
+les éléments mentionnés aux a, b, f et g du I du présent article. Il comporte en
+outre, pour les trois derniers exercices clos, les comptes annuels mentionnés à
+l'article A. 344-9, les états C 5 et C 6 mentionnés à l'article A. 344-10 et, le
+cas échéant, l'état G 2 mentionné à l'annexe I de l'article A. 344-14 ainsi que
+l'état G 20 mentionné à l'annexe de l'article A. 344-14-1.
