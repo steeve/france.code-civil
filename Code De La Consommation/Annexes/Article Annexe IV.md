@@ -1,35 +1,83 @@
 Article Annexe IV
 ----
-Céréales contenant du gluten (à savoir blé, seigle, orge, avoine, épeautre,
-kamut ou leurs souches hybridées) et produits à base de ces céréales.
+Liste des ingrédients devant figurer sur l'étiquetage des denrées alimentaires
 
-Crustacés et produits à base de crustacés.
+1. Céréales contenant du gluten (à savoir blé, seigle, orge, avoine, épeautre,
+kamut ou leurs souches hybridées) et produits à base de ces céréales, à
+l'exception :
 
-OEufs et produits à base d'oeufs.
+a) Des sirops de glucose à base de blé, y compris le dextrose (1) ;
 
-Poissons et produits à base de poissons.
+b) Des maltodextrines à base de blé (1) ;
 
-Arachides et produits à base d'arachides.
+c) Des sirops de glucose à base d'orge ;
 
-Soja et produits à base de soja.
+d) Des céréales utilisées pour la fabrication de distillats ou d'alcool
+éthylique d'origine agricole pour les boissons spiritueuses et d'autres boissons
+alcooliques.
 
-Lait et produits à base de lait (y compris le lactose).
+2. Crustacés et produits à base de crustacés.
 
-Fruits à coque, à savoir amandes (Amygdalus communis L.), noisettes (Corylus
-avellana), noix (Juglans regia), noix de cajou (Anacardium occidentale), noix de
-pécan (Carya illinoiesis "Wangenh" K. Koch), noix du Brésil (Bertholletia
-excelsa), pistaches (Pistacia vera), noix de Macadamia et noix du Queensland
-(Macadamia ternifolia) et produits à base de ces fruits.
+3. Œufs et produits à base d'œufs.
 
-Céleri et produits à base de céleri.
+4. Poissons et produits à base de poissons, à l'exception :
 
-Moutarde et produits à base de moutarde.
+a) De la gélatine de poisson utilisée comme support pour les préparations de
+vitamines ou de caroténoïdes ;
 
-Graines de sésame et produits à base de graines de sésame.
+b) De la gélatine de poisson ou de l'ichtyocolle utilisée comme agent de
+clarification dans la bière et le vin.
 
-Anhydride sulfureux et sulfites en concentrations supérieures à 10 mg/kg ou 10
-mg/litre exprimées en SO2.
+5. Arachides et produits à base d'arachides.
 
-Lupin et produits à base de lupin.
+6. Soja et produits à base de soja, à l'exception :
 
-Mollusques et produits à base de mollusques.
+a) De l'huile et de la graisse de soja entièrement raffinées (1) ;
+
+b) Des tocophérols mixtes naturels (E 306), du D-alpha-tocophérol naturel, de
+l'acétate de D-alpha-tocophéryl naturel et du succinate de D-alpha-tocophéryl
+naturel dérivés du soja ;
+
+c) Des phytostérols et des esters de phytostérol dérivés d'huiles végétales de
+soja ;
+
+d) De l'ester de stanol végétal produit à partir de stérols dérivés d'huiles
+végétales de soja.
+
+7. Lait et produits à base de lait (y compris le lactose), à l'exception :
+
+a) Du lactosérum utilisé pour la fabrication de distillats ou d'alcool éthylique
+d'origine agricole pour les boissons spiritueuses et d'autres boissons
+alcooliques ;
+
+b) Du lactitol.
+
+8. Fruits à coque, à savoir amandes (Amygdalus communis L.), noisettes
+(Corylusavellana), noix (Juglans regia), noix de cajou (Anacardium occidentale),
+noix de pécan [Carya illinoiesis (Wangenh.) K. Koch], noix du Brésil
+(Bertholletia excelsa), pistaches (Pistacia vera), noix de Macadamia et noix du
+Queensland (Macadamia ternifolia), et produits à base de ces fruits, à
+l'exception :
+
+a) Des fruits à coque utilisés pour la fabrication de distillats ou d'alcool
+éthylique d'origine agricole pour les boissons spiritueuses et d'autres boissons
+alcooliques.
+
+9. Céleri et produits à base de céleri.
+
+10. Moutarde et produits à base de moutarde.
+
+11. Graines de sésame et produits à base de graines de sésame.
+
+12. Anhydride sulfureux et sulfites en concentrations de plus de 10 mg / kg ou
+10 mg / litre exprimées en SO2.
+
+13. Lupin et produits à base de lupin.
+
+14. Mollusques et produits à base de mollusques.
+
+Les exceptions mentionnées aux a et b du 1 et au a du 6 s'appliquent également
+aux produits dérivés, dans la mesure où la transformation qu'ils ont subie n'est
+pas susceptible d'élever le niveau d'allergénicité évalué par l'Autorité
+européenne de sécurité des aliments (European Food Safety Authority) pour le
+produit de base dont ils sont dérivés.
