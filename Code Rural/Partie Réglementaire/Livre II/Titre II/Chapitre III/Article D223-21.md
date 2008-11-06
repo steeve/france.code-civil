@@ -6,7 +6,7 @@ services vétérinaires) et à application des mesures de police sanitaire est l
 suivante :
 
 
-DÉNOMINATION
+DÉNOMINATION FRANÇAISE
 
 AGENT
 
@@ -23,7 +23,8 @@ Anémie infectieuse du saumon.
 
 Virus de l'anémie infectieuse du saumon (Orthomyxoviridae, Isavirus).
 
-Saumon atlantique d'élevage (Salmo salar).
+Saumon atlantique (Salmo salar), truite arc-en-ciel (O. mykiss), truite fario
+(S. trutta).
 
 Botulisme.
 
@@ -39,7 +40,7 @@ Toutes espèces de mammifères.
 
 Clavelée.
 
-Virus de la clavelée (Poxviridae, Capripoxvirus).
+Virus de la Clavelée (Poxviridae, Capripoxvirus).
 
 Ovins.
 
@@ -63,23 +64,23 @@ Equidés.
 
 Encéphalite japonaise.
 
-Virus de l'enchéphalite japonaise (Flaviviridae, Flavivirus).
+Virus de l'encéphalite japonaise (Flaviviridae, Flavivirus).
 
 Equidés.
 
 Encéphalite West-Nile.
 
-Virus West-Nile (Flaviriridae, Flavivirus).
+Virus West-Nile (Flaviviridae, Flavivirus).
 
 Equidés.
 
-Encéphalomyélite virale de type Venezuela.
+Encéphalite virale de type Venezuela.
 
 Virus de l'encéphalomyélite virale du Venezuela (Togaviridae, Alphavirus).
 
 Equidés.
 
-Encéphalomyélites virales de type Est et Ouest.
+Encéphalites virales de type Est et Ouest.
 
 Virus de l'encéphalomyélite virale de l'Est et de l'Ouest (Togaviridae,
 Alphavirus).
@@ -96,11 +97,11 @@ Encéphalopathies spongiformes subaiguës transmissibles.
 
 Prions ou agents des encéphalopathies spongiformes subaiguës transmissibles.
 
-Ovins et caprins.
+Ovins, caprins.
 
 Fièvre aphteuse.
 
-Virus de la fièvre aphteuse (Picornaviridae, Apthovirus).
+Virus de la fièvre aphteuse (Picornaviridae, Aphtovirus).
 
 Toutes espèces animales sensibles.
 
@@ -118,9 +119,9 @@ Toutes espèces de mammifères.
 
 Fièvre de la vallée du Rift.
 
-Virus de la fièvre de la vallée du Rift (Buynyaviridae, Phlebovirus).
+Virus de la fièvre de la vallée du Rift (Bunyaviridae, Phlebovirus).
 
-Bovins, ovins et caprins.
+Bovins, ovins, caprins.
 
 Fièvres hémorragiques à filovirus.
 
@@ -128,9 +129,15 @@ Virus de Marburg et virus d'Ebola (Filoviridae, Marburgvirus et Ebolavirus).
 
 Primates non humains.
 
-Herpèsvirose simienne de type B.
+Herpèsvirose de la carpe.
 
-Herpèsvirus B (Herpesviridae, Simplexvirus).
+Virus de l'herpèsvirose de la carpe (Herpesviridae, Herpesvirus).
+
+Carpes (Cyprinus carpio).
+
+Herpèsvirose simiène de type B.
+
+Herpès virus B (Herpesviridae, Simplexvirus).
 
 Primates non humains.
 
@@ -140,13 +147,46 @@ Hypoderma bovis ou Hypoderma lineatum.
 
 Bovins.
 
+Infection à Bonamia exitiosa.
+
+Bonamia exitiosa.
+
+Huîtres plates (australienne et du Chili).
+
+Infection à Bonamia ostreae.
+
+Bonamia ostreae.
+
+Huîtres plates (européenne, australienne, du Chili, du Pacifique, asiatique et
+d'Argentine).
+
+Infection à Marteilia refringens.
+
+Marteilia refringens.
+
+Huîtres plates (australienne, du Chili, européenne, d'Argentine) et moule
+(commune et méditerranéenne).
+
+Infection à Perkinsus marinus.
+
+Perkinsus marinus.
+
+Huîtres japonaises et de l'Atlantique.
+
+Infection à Microcytos mackini.
+
+Microcytos mackini.
+
+Huîtres plates (européenne et du Pacifique), huîtres japonaises et de
+l'Atlantique.
+
 Infestation due à Aethina tumida.
 
 Aethina tumida.
 
 Abeilles.
 
-Infestations à Tropilaelaps.
+Infestation due à Tropilaelaps.
 
 Tropilaelaps clareae.
 
@@ -154,7 +194,7 @@ Abeilles.
 
 Influenza aviaire.
 
-Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A).
+Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A.).
 
 Toutes espèces d'oiseaux.
 
@@ -172,15 +212,22 @@ Abeilles.
 
 Maladie d'Aujeszky.
 
-Herpèsvirus du porc 1 (Herpesviridae, Varicellovirus).
+Herpèsvirus du porc (Herpesviridae, Varicellovirus).
 
 Toutes espèces de mammifères.
 
+Maladie de la tête jaune.
+
+Virus de la maladie de la tête jaune (Roniviridae, Okavirus).
+
+Crevettes : brune, rose, Kuruma, tigrée brune, ligubam du Nord, bleue, à pattes
+blanches du Pacifique.
+
 Maladie de Nairobi.
 
-Virus de la maladie de Nairobi, (Bunyaviridae, Nairovirus).
+Virus de la maladie de Nairobi (Bunyaviridae, Nairovirus).
 
-Ovins et caprins.
+Ovins, caprins.
 
 Maladie de Newcastle.
 
@@ -190,14 +237,19 @@ Toutes espèces d'oiseaux.
 
 Maladie de Teschen.
 
-Virus de la maladie de Teschen (Picornaviridae, Enterovirus).
+Virus de la maladie de Teschen (Picornaviridae, Teschovirus).
 
 Suidés.
 
+Maladie des points blancs.
+
+Virus de la maladie des points blancs (Nimaviridae, Whispovirus).
+
+Crustacés décapodes.
+
 Maladie hémorragique épizootique des cervidés.
 
-Virus de la maladie hémorragique épizootique des cervidés (Reoviridae,
-Orbivirus).
+Virus de la maladie épizootique des cervidés (Reoviridae, Orbivirus).
 
 Cervidés.
 
@@ -205,7 +257,7 @@ Maladie vésiculeuse du porc.
 
 Virus de la maladie vésiculeuse du porc (Picornaviridae, Enterovirus).
 
-Suidès.
+Suidés.
 
 Morve.
 
@@ -218,12 +270,19 @@ Nécrose hématopoïétique infectieuse.
 Virus de la nécrose hématopoïétique infectieuse (Rhabdoviridae,
 Novirhabdovirus).
 
-Salmonidés et brochet.
+Saumons : atlantique (S. salar), keta (O. keta), argenté (O. kisutch), japonais
+(O. masou), sockeye (O. nerka), chinook (O. tshawytscha), truite biwamasou (O.
+rhodurus) et truite arc-en-ciel (O. mykiss).
 
+Nécrose hématopoïétique épizootique.
 
-Nosémose des abeilles
+Virus de la nécrose hématopoïétique épizootique (Iridoviridae, Ranavirus).
 
-Nosema apis.
+Truites arc-en-ciel et perche commune.
+
+Nosémose des abeilles.
+
+Nosema spp.
 
 Abeilles.
 
@@ -251,7 +310,7 @@ Virus de la peste équine (Reoviridae, Orbivirus).
 
 Equidés.
 
-Poste porcine africaine.
+Peste porcine africaine.
 
 Virus de la peste porcine africaine (Asfarviridae, Asfivirus).
 
@@ -259,7 +318,7 @@ Suidés.
 
 Peste porcine classique.
 
-Virus de la peste porcine classique (Flaviriridae, Pestivirus).
+Virus de la peste porcine classique (Flaviviridae, Pestivirus).
 
 Suidés.
 
@@ -269,11 +328,11 @@ Mycoplasma capricolum sp. capripneumoniae.
 
 Ovins et caprins.
 
-Pullorose.
+Pullorose-typhose.
 
 Salmonella Gallinarum Pullorum.
 
-Toutes espèces d'oiseaux d'élevage.
+Toutes espèces d'oiseaux sauvages.
 
 Rage.
 
@@ -281,20 +340,32 @@ Virus de la rage (Rhabdoviridae, Lyssavirus).
 
 Toutes espèces de mammifères.
 
-Salmonelloses aviaires.
+Salmonellose aviaire.
 
-Salmonella Enteritidis , Salmonella Typhimurium, Salmonella Hadar, Salmonella
+Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella
 Virchow et Salmonella Infantis.
 
-Troupeaux de futurs reproducteurs et reproducteurs des espèces Gallus gallus et
-Meleagris gallopavo.
+Troupeaux de futurs reproducteurs et reproducteurs des espèces Gallus gallus.
 
-Salmonelloses aviaires.
+Salmonellose aviaire.
+
+Salmonella Enteritidis, Salmonella Typhimurium.
+
+Troupeaux de futurs reproducteurs et reproducteurs des espèces Meleagris
+gallopavo.
+
+Salmonellose aviaire.
 
 Salmonella Enteritidis et Salmonella Typhimurium.
 
-Troupeaux de poulettes futures pondeuses et de pondeuses d'oeufs de consommation
+Troupeaux de poulettes futures pondeuses et de pondeuses d'œufs de consommation
 de l'espèce Gallus gallus.
+
+Salmonellose aviaire.
+
+Salmonella identifiées dans les muscles.
+
+Troupeaux de poulets de chair de l'espèce Gallus gallus.
 
 Septicémie hémorragique.
 
@@ -302,26 +373,39 @@ Pasteurella multocida B et E.
 
 Bovins.
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Septicémie hémorragique virale.
+Septicémie hémorragique virale.
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Virus de la septicémie
-hémorragique virale (Rhabdoviridae, Novirhabdovirus).
+Virus de la septicémie hémorragique virale (Rhabdoviridae, Novirhabdovirus).
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Salmonidés, brochet, turbot et
-black-bass.
+Saumons du Pacifique, truites arc-en-ciel et fario, brochets, corrégones, ombres
+communs, turbots, morues de l'Atlantique et du Pacifique, harengs, aiglefins et
+sprats.
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Stomatite vésiculeuse.
+Stomatite vésiculeuse.
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Virus de la stomatite
-vésiculeuse (Rhabdoviridae, Vesiculovirus).
+Virus de la stomatite vésiculeuse (Rhabdoviridae, Vesiculovirus).
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 1) Bovins, équidés et suidés.
+Bovins, équidés et suidés.
 
 Surra.
 
 Trypanosoma evansi.
 
-Equidés, camelidés.
+Equidés, camélidés.
+
+Syndrome de Taura.
+
+Virus du syndrome de Taura (Dicistroviridae).
+
+Crevettes ligubam du Nord, crevettes bleues et crevettes à pattes blanches du
+Pacifique.
+
+Syndrome ulcéreux épizootique.
+
+Aphanomyces invadans.
+
+Poissons exotiques des genres : Catla, Channa, Labeo, Mastacembelus, Mugil,
+Puntius et Trichogaster.
 
 Théilériose.
 
@@ -329,16 +413,7 @@ Theileria annulata.
 
 Bovins.
 
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 2) Trichinellose.
-
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 2)
-
-Trichinella spp.
-
-(D. n o 2006-1318, 27 oct. 2006, art. 1 er , 2) Toute espèce animale sensible.
-
-
-Trypanosomose
+Trypanosome.
 
 Trypanosoma vivax.
 

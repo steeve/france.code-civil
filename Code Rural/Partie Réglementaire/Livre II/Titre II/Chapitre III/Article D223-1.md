@@ -11,11 +11,13 @@ AGENT
 
 ESPÈCES
 
-CONDITION COMPLÉMENTAIRE de déclaration de la maladie
+CONDITION COMPLÉMENTAIRE
+
+de déclaration de la maladie
 
 Anaplasmose bovine.
 
-Anaplasma marginale, anaplasma centrale.
+Anaplasma marginale, Anaplasma centrale.
 
 Bovins.
 
@@ -41,7 +43,7 @@ Toutes espèces d'oiseaux.
 
 Encéphalite japonaise.
 
-Virus de l'encéphalite japonaise (Flaviridae, Flavivirus).
+Virus de l'encéphalite japonaise (Flaviviridae, Flavivirus).
 
 Suidés, toutes espèces d'oiseaux.
 
@@ -57,7 +59,7 @@ Prions ou agents des encéphalopathies spongiformes subaiguës transmissibles.
 
 Autres espèces que bovins, ovins et caprins.
 
-Epidymite contagieuse ovine.
+Epididymite contagieuse ovine.
 
 Brucella ovis.
 
@@ -80,8 +82,12 @@ Salmonellose aviaire.
 Salmonella enterica (tous les sérotypes).
 
 Troupeaux de futurs reproducteurs et reproducteurs des espèces Gallus gallus et
-Meleagris gallopavo, troupeaux de poulettes futures pondeuses et pondeuses
-d'oeufs de consommation de l'espèce Gallus gallus.
+Meleagris gallopavo.
+
+Troupeaux de poulettes futures pondeuses et pondeuses d'œufs de consommation de
+l'espèce Gallus gallus.
+
+Troupeaux de poulets de chair (espèce Gallus gallus).
 
 Salmonellose porcine.
 
