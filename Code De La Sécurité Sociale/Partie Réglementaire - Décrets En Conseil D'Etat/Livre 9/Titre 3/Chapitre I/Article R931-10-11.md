@@ -7,5 +7,5 @@ R. 931-2-1, est égal au tiers de l'exigence minimale de marge de solvabilité
 définie à l'article R. 931-10-10, sans pouvoir être inférieur au seuil défini à
 l'article R. 931-10-8.
 
-Le fonds est constitué par les éléments mentionnés aux 1, 3, 4, 5 et 7 de
-l'article R. 931-10-6.
+Le fonds est constitué par les éléments mentionnés aux 1, 2, 3, 4 du I et au II
+de l'article R. 931-10-6.
