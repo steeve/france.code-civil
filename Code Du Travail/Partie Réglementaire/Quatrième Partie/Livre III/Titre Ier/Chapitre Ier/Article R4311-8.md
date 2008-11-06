@@ -1,9 +1,7 @@
 Article R4311-8
 ----
-Sont des cabines de projection par pulvérisation, cabines et enceintes de
-séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et
-cabines mixtes, au sens du 7° de l'article R. 4311-4, les espaces délimités par
-des parois horizontales et verticales distinctes des cloisons ou murs du local
-d'implantation constituant un volume d'où les projections, les vapeurs et les
-aérosols de peinture ou de vernis ne peuvent sortir que par des dispositifs
-spécifiques de ventilation.
+Les équipements de protection individuelle, auxquels s'appliquent les
+obligations de conception et de fabrication prévues à l'article L. 4311-1 , sont
+des dispositifs ou moyens destinés à être portés ou tenus par une personne en
+vue de la protéger contre un ou plusieurs risques susceptibles de menacer sa
+santé ou sa sécurité.

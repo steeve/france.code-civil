@@ -1,5 +1,7 @@
 Article R4722-18
 ----
-L'employeur justifie qu'il a saisi l'organisme accrédité dans les quinze jours
-suivant la date de mise en demeure. Il transmet à l'inspection du travail les
-résultats dans les dix jours qui suivent leur réception.
+L'inspecteur ou le contrôleur du travail peut demander à l'employeur de faire
+procéder à un mesurage de l'exposition aux vibrations mécaniques par un
+organisme accrédité, en vue de s'assurer du respect des obligations relatives à
+la prévention des risques d'exposition aux vibrations mécaniques prévues au
+titre IV du livre IV.

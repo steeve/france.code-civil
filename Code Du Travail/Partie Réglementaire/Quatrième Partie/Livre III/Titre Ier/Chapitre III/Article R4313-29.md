@@ -1,14 +1,20 @@
 Article R4313-29
 ----
-Pour chaque modèle d'équipement de protection individuelle fabriqué, un
-organisme habilité choisi par le fabricant prélève un échantillonnage adéquat de
-l'équipement de protection individuelle à des intervalles aléatoires, au moins
-une fois par an. Sous sa responsabilité, il l'examine et réalise sur cet
-échantillonnage les essais appropriés définis par les normes mentionnées au 6°
-de l'article L. 4311-7 ou nécessaires pour s'assurer de la conformité des
-échantillons d'équipement de protection individuelle avec les règles techniques
-qui leur sont applicables. L'organisme habilité, s'il n'est pas celui qui a
-délivré l'attestation d'examen CE de type, prend contact avec ce dernier en cas
-de difficulté pour apprécier la conformité des équipements de protection
-individuelle prélevés dans l'échantillonnage. L'organisme habilité adresse au
-fabricant un rapport d'expertise dans un délai de deux mois suivant celle-ci.
+Lorsqu'il s'agit d'une machine, l'organisme notifié procède aux examens et
+essais lui permettant de s'assurer que :
+
+1° Le dossier technique comporte tous les éléments nécessaires ;
+
+2° La machine a été fabriquée conformément aux indications contenues dans le
+dossier technique ;
+
+3° La machine peut être utilisée en sécurité dans les conditions prévues
+d'utilisation ;
+
+4° S'il s'agit d'un composant de sécurité mentionné au 3° de l'article R.
+4311-4, que ce composant est apte à remplir les fonctions de sécurité prévues ;
+
+5° Si le dossier technique fait référence à des normes mentionnées à l'article
+L. 4311-7, ces normes ont été correctement utilisées ;
+
+6° La machine est conforme aux règles techniques qui lui sont applicables.

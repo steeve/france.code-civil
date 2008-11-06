@@ -1,6 +1,5 @@
 Article R4722-11
 ----
-L'inspecteur du travail fixe dans sa demande le délai dans lequel les résultats
-des analyses doivent lui être adressés par l'employeur. Le prélèvement des
-échantillons de produits à analyser et leur expédition à l'organisme agréé
-choisi sont réalisés sous le contrôle de l'inspecteur du travail.
+L'employeur transmet les résultats des analyses à l'inspecteur du travail, qui
+en transmet copie au médecin inspecteur du travail et à l'organisme désigné en
+application de l'article R. 4411-61 .

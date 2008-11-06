@@ -1,6 +1,7 @@
 Article R4313-5
 ----
-La procédure dite « examen CE de type » est la procédure par laquelle un
-organisme habilité constate et atteste qu'un modèle de machine, de composant de
-sécurité ou d'équipement de protection individuelle est conforme aux règles
-techniques le concernant.
+Le marquage CE est apposé par le fabricant, l'importateur ou tout autre
+responsable de la mise sur le marché qui atteste qu'une machine ou un équipement
+de protection individuelle est conforme aux règles techniques pertinentes de
+l'annexe figurant à la fin de ce titre qui le concerne et a satisfait aux
+procédures d'évaluation de la conformité applicables.

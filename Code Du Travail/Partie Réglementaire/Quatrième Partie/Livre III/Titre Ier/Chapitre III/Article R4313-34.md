@@ -1,7 +1,7 @@
 Article R4313-34
 ----
-Pour être approuvé, le système d'assurance qualité CE de la production proposé
-par le fabricant garantit que chaque exemplaire d'équipement de protection
-individuelle soumis à cette procédure est conforme au modèle ayant fait l'objet
-de l'attestation d'examen CE de type et aux règles techniques qui lui sont
-applicables.
+Lorsque l'organisme n'a pas fait connaître sa décision dans le délai prévu à
+l'article précédent, le demandeur peut, au plus tard dans les deux mois qui
+suivent l'expiration de ce délai, saisir le ministre chargé du travail d'une
+réclamation. Celui-ci peut, autoriser le demandeur à s'adresser à un autre
+organisme notifié.

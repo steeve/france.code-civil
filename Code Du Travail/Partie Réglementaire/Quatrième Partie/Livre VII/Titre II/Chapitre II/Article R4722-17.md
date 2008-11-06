@@ -1,7 +1,5 @@
 Article R4722-17
 ----
-L'inspecteur ou le contrôleur du travail peut demander à l'employeur de faire
-procéder à un mesurage de l'exposition au bruit par un organisme accrédité dans
-ce domaine, en vue de s'assurer du respect des obligations relatives à la
-prévention des risques d'exposition au bruit prévues par le titre III du livre
-IV.
+L'employeur justifie qu'il a saisi l'organisme accrédité dans les quinze jours
+suivant la date de mise en demeure. Il transmet à l'inspection du travail les
+résultats dans les dix jours qui suivent leur réception.

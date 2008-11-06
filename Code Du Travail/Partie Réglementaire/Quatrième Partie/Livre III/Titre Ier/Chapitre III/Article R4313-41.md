@@ -1,6 +1,5 @@
 Article R4313-41
 ----
-Le fabricant autorise l'organisme habilité à accéder aux lieux d'inspection,
-d'essais et de stockage des équipements de protection individuelle et fournit
-toute information nécessaire, notamment : 1° La documentation sur le système
-d'assurance qualité ; 2° La documentation technique ; 3° Les manuels de qualité.
+Si l'organisme notifié, après avoir procédé aux examens nécessaires, estime que
+l'attestation reste valable compte tenu de l'état de la technique, il la
+renouvelle pour une durée de cinq ans.

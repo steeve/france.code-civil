@@ -1,6 +1,13 @@
 Article R4313-65
 ----
-La délivrance de la déclaration CE de conformité et l'apposition du marquage CE
-réalisées dans un Etat membre de la Communauté européenne produisent les mêmes
-effets que les formalités correspondantes réalisées dans les conditions prévues
-par la présente sous-section.
+La documentation sur le système d'assurance qualité comprend notamment une
+description :
+
+1° Des objectifs de qualité, de l'organigramme et de la répartition des
+compétences chez le fabricant dans les domaines relatifs à la qualité des
+équipements de protection individuelle ;
+
+2° Des examens, inspections et essais à réaliser par le fabricant ;
+
+3° Des moyens destinés à vérifier le fonctionnement efficace du système
+d'assurance qualité.

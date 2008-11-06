@@ -1,7 +1,10 @@
 Article R4313-57
 ----
-La procédure de délivrance d'un certificat de conformité, prévue par l'article
-R. 4313-66 est applicable : 1° Aux équipements de travail mentionnés aux 1° et
-3° à 5° de l'article R. 4311-4 ; 2° Aux composants de sécurité mentionnés à
-l'article R. 4311-9 ; 3° Aux équipements de protection individuelle mentionnés à
-l'article R. 4312-24.
+Le " système de garantie de qualité CE " est la procédure par laquelle un
+organisme notifié atteste que le fabricant a pris toutes mesures nécessaires
+pour que le procédé de fabrication, y compris l'inspection finale et les essais
+des équipements de protection individuelle, assure l'homogénéité de sa
+production et la conformité de chaque exemplaire d'équipement de protection
+individuelle soumis à cette procédure avec le modèle ayant fait l'objet de
+l'attestation d'examen CE de type et avec les règles techniques qui lui sont
+applicables.

@@ -1,5 +1,5 @@
 Article R4313-46
 ----
-Les possibilités de réclamation prévues par l'article R. 4313-16 sont
-applicables aux décisions de l'organisme habilité prévues par le présent
-paragraphe.
+Lorsqu'il évalue le système de qualité, l'organisme notifié considère que les
+éléments du système qualité qui sont conformes à la norme harmonisée pertinente
+satisfont aux prescriptions correspondantes de l'article R. 4313-45.

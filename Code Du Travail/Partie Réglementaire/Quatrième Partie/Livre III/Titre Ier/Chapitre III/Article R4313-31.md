@@ -1,9 +1,9 @@
 Article R4313-31
 ----
-Les mesures mentionnées à l'article R. 4313-30 peuvent être constituées par une
-augmentation de la périodicité des prélèvements d'échantillonnage, une demande
-de modification des procédés de fabrication y compris d'inspection finale, une
-demande de rappel ou de mise au rebut des lots défectueux. La charge financière
-résultant de la mise en œuvre de ces mesures est supportée par le fabricant. Si
-ces mesures n'apparaissent pas suffisantes ou ne sont pas respectées, la
-procédure de sauvegarde prévue au chapitre IV peut être mise en œuvre.
+Lorsque l'organisme notifié décide que le modèle de machine ou d'équipement de
+protection individuelle examiné est conforme aux règles techniques le
+concernant, il établit une attestation d'examen CE de type.
+
+L'attestation reproduit les conclusions de l'examen, indique les conditions dont
+elle est éventuellement assortie et comprend les descriptions et dessins
+nécessaires pour identifier le modèle faisant l'objet de l'attestation.

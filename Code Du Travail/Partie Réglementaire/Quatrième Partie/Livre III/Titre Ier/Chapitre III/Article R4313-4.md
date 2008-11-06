@@ -1,5 +1,5 @@
 Article R4313-4
 ----
-Le fabricant ou l'importateur soumis à la procédure d'autocertification CE
-présente, sur demande, la documentation technique prévue par l'article R.
-4313-63.
+Lorsque, compte tenu des caractéristiques de l'équipement de protection
+individuelle, l'apposition du marquage CE sur les exemplaires n'est pas
+possible, celui-ci figure sur l'emballage.

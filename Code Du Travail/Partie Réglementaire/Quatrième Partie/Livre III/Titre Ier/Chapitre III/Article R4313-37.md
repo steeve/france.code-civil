@@ -1,9 +1,13 @@
 Article R4313-37
 ----
-L'organisme habilité choisi par le fabricant pour évaluer le système d'assurance
-qualité réalise les vérifications nécessaires pour déterminer si ce système est
-de nature à assurer la conformité de la production avec les règles techniques
-applicables. Cette conformité est présumée lorsque le système d'assurance
-qualité du fabricant met en œuvre les normes adéquates dont la liste est
-déterminée par arrêté conjoint des ministres chargés du travail, de l'industrie
-et de l'agriculture.
+Préalablement à l'exposition, la mise en vente, la vente, l'importation, la
+location, la mise à disposition ou la cession à quelque titre que ce soit d'un
+exemplaire neuf de machine ou d'équipement de protection individuelle ayant fait
+l'objet d'une attestation d'examen CE de type, le responsable de l'opération
+s'assure de la conformité de l'exemplaire en cause avec le modèle pour lequel a
+été délivrée l'attestation.
+
+La déclaration CE de conformité prévue par l'article R. 4313-1 ne peut être
+établie et délivrée et le marquage CE de conformité prévu par l'article R.
+4313-3 ne peut être apposé que si l'exemplaire concerné est conforme au modèle
+pour lequel l'attestation d'examen CE de type a été délivrée.

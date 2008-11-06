@@ -1,7 +1,8 @@
 Article R4311-12
 ----
-Les équipements de protection individuelle, auxquels s'appliquent les
-obligations de conception et de fabrication prévues à l'article L. 4311-1, sont
-des dispositifs ou moyens destinés à être portés ou tenus par une personne en
-vue de la protéger contre un ou plusieurs risques susceptibles de menacer sa
-santé ou sa sécurité.
+Les machines ainsi que les équipements de protection individuelle respectivement
+soumis aux règles techniques pertinentes des annexes I et II du présent titre,
+lorsqu'ils sont conçus et construits conformément aux normes reprises dans la
+collection des normes nationales et dont les références ont été publiées au
+Journal officiel de l'Union européenne, sont réputés satisfaire aux règles des
+annexes, traitées par ces normes.

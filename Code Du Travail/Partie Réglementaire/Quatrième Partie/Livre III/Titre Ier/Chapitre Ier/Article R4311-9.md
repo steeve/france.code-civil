@@ -1,11 +1,12 @@
 Article R4311-9
 ----
-Les protecteurs et dispositifs de protection d'équipement de travail, dénommés
-composants de sécurité, auxquels s'appliquent les obligations de conception et
-de fabrication définies à l'article L. 4311-1, sont ceux qui sont mis isolément
-sur le marché en vue de leur installation sur une machine maintenue en service
-ou sur une machine d'occasion. Les composants de sécurité sont les composants
-destinés à assurer, par leur utilisation, une fonction de sécurité et dont la
-défaillance ou le mauvais fonctionnement mettrait en cause la santé ou la
-sécurité des personnes exposées ou mettrait en péril une fonction de sécurité de
-la machine.
+Sont considérés comme des équipements de protection individuelle, au sens de
+l'article R. 4311-8 : 1° Un ensemble constitué par plusieurs dispositifs ou
+moyens, associés de façon solidaire en vue de protéger une personne contre un ou
+plusieurs risques susceptibles d'être encourus simultanément ; 2° Un dispositif
+ou moyen protecteur solidaire, de façon dissociable ou non dissociable, d'un
+équipement individuel non protecteur, tel que vêtement de travail, porté ou tenu
+par une personne en vue de déployer une activité ; 3° Tout composant
+interchangeable d'un équipement de protection individuelle, indispensable à son
+bon fonctionnement et utilisé exclusivement pour cet équipement de protection
+individuelle.

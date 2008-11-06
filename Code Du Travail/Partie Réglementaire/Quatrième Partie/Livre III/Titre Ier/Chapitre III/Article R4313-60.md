@@ -1,6 +1,9 @@
 Article R4313-60
 ----
-La déclaration CE de conformité est remise au preneur lors de la vente, de la
-location, de la cession ou de la mise à disposition à quelque titre que ce soit
-d'un équipement de travail mentionné aux 1°,3° ou 4° de l'article R. 4311-4 ou
-d'un composant de sécurité, par le responsable de l'une de ces opérations.
+Les mesures mentionnées à l'article R. 4313-59 peuvent être constituées par une
+augmentation de la périodicité des prélèvements d'échantillonnage, une demande
+de modification des procédés de fabrication y compris d'inspection finale, une
+demande de rappel ou de mise au rebut des lots défectueux. La charge financière
+résultant de la mise en œuvre de ces mesures est supportée par le fabricant. Si
+ces mesures n'apparaissent pas suffisantes ou ne sont pas respectées, la
+procédure de sauvegarde prévue au chapitre IV peut être mise en œuvre.

@@ -1,5 +1,7 @@
 Article R4722-16
 ----
-L'employeur justifie qu'il a saisi le laboratoire accrédité pendant le délai
-d'exécution qui lui a été fixé. Il transmet les résultats à l'inspection du
-travail dès leur réception.
+L'inspecteur ou le contrôleur du travail peut demander à l'employeur de faire
+procéder à un mesurage de l'exposition au bruit par un organisme accrédité dans
+ce domaine, en vue de s'assurer du respect des obligations relatives à la
+prévention des risques d'exposition au bruit prévues par le titre III du livre
+IV.

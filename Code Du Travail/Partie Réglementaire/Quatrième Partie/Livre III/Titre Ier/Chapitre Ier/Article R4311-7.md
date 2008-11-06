@@ -1,7 +1,12 @@
 Article R4311-7
 ----
-Sont des accessoires de levage, au sens du 3° de l'article R. 4311-4, les
-équipements non incorporés à une machine, à un tracteur ou à un autre matériel
-et placés entre la machine, le tracteur ou tout autre matériel et la charge, ou
-sur la charge, pour permettre la préhension de la charge, tels que élingue,
-palonnier, pince autoserrante, aimant, ventouse, cé de levage.
+Les équipements de travail auxquels s'appliquent des obligations de conception
+et de construction autres que celles prévues pour la mise sur le marché des
+machines sont les suivants :
+
+1° Tracteurs agricoles ou forestiers, ainsi que leurs entités techniques,
+systèmes et composants, à l'exclusion de ceux qui sont spécialement conçus pour
+les forces armées, la protection civile, les services de lutte contre l'incendie
+ou les services responsables du maintien de l'ordre ;
+
+2° Electrificateurs de clôture.

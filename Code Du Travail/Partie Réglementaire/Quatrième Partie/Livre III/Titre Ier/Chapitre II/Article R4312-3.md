@@ -1,5 +1,6 @@
 Article R4312-3
 ----
-Les dispositions du présent paragraphe sont applicables aux cabines de
-projection par pulvérisation, cabines et enceintes de séchage de peintures
-liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes.
+Les accessoires de levage, les câbles, chaînes et sangles de levage d'occasion,
+quelle que soit leur date de mise en service à l'état neuf, sont soumis aux
+règles techniques de conception et de construction prévues à l'annexe I de
+l'article R. 4312-1.

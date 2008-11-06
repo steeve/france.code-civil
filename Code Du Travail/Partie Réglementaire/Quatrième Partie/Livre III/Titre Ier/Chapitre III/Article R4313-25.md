@@ -1,5 +1,10 @@
 Article R4313-25
 ----
-Lorsque l'organisme habilité a son siège en France, la documentation technique
-et la correspondance afférente sont rédigées en français ou dans une langue de
-la Communauté européenne acceptée par l'organisme habilité.
+La demande d'examen CE de type comporte :
+
+1° Les nom et adresse du fabricant ou de l'importateur ;
+
+2° Le lieu de fabrication de la machine ou de l'équipement de protection
+individuelle ;
+
+3° Le dossier technique prévu par l'article R. 4313-6.

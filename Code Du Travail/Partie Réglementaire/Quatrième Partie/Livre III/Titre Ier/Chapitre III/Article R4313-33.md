@@ -1,7 +1,6 @@
 Article R4313-33
 ----
-Le « système d'assurance qualité CE de la production avec surveillance » est la
-procédure par laquelle un fabricant : 1° Fait approuver un système d'assurance
-qualité par un organisme habilité de son choix ; 2° Confie à cet organisme le
-soin de contrôler, par surveillance, qu'il remplit correctement les obligations
-résultant du système d'assurance qualité approuvé.
+L'organisme notifié informe le demandeur, par lettre recommandée avec accusé de
+réception, de la date à laquelle le dossier technique est complet. Il lui fait
+connaître sa décision sur la demande d'examen CE de type, par lettre recommandée
+avec avis de réception, dans un délai de trois mois, à compter de cette date.

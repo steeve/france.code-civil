@@ -1,5 +1,8 @@
 Article R4313-43
 ----
-Lorsque le rapport de l'organisme habilité conclut à une application défectueuse
-du système d'assurance qualité approuvé, l'organisme prend les mesures qui
-s'imposent en fonction des défauts constatés.
+La procédure d'assurance qualité complète est celle par laquelle un organisme
+notifié évalue, approuve le système de qualité d'un fabricant de machines et en
+contrôle l'application.
+
+A cette fin, l'organisme notifié s'assure que toutes les mesures ont été prises
+concernant la conception, la fabrication, l'inspection finale et le stockage.

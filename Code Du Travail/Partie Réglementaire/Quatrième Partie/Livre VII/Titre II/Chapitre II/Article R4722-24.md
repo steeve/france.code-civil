@@ -1,4 +1,5 @@
 Article R4722-24
 ----
-L'employeur transmet à l'inspection du travail les résultats dans les quatre
-jours qui suivent leur réception.
+Les résultats et les dates des vérifications, ainsi que les noms, qualités et
+adresses des personnes qui les ont accomplies, sont consignés sur le registre de
+sécurité prévu à l'article R. 4534-18.

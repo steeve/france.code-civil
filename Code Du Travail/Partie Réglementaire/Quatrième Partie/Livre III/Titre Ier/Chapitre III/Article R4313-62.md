@@ -1,6 +1,10 @@
 Article R4313-62
 ----
-Le marquage CE est apposé par le fabricant, l'importateur ou le responsable de
-la mise sur le marché, qui atteste que l'équipement de travail ou l'équipement
-de protection individuelle est conforme aux règles techniques et satisfait aux
-procédures de certification qui lui sont applicables.
+Le système d'assurance qualité CE de la production avec surveillance est la
+procédure par laquelle un fabricant :
+
+1° Fait approuver un système d'assurance qualité par un organisme notifié de son
+choix ;
+
+2° Confie à cet organisme le soin de contrôler, par surveillance, qu'il remplit
+correctement les obligations résultant du système d'assurance qualité approuvé.

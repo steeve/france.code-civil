@@ -1,8 +1,17 @@
 Article R4313-38
 ----
-L'organisme habilité pour évaluer le système d'assurance qualité procède à cette
-fin à toutes les évaluations objectives nécessaires des éléments du système
-d'assurance qualité. Il s'assure notamment que le système garantit la conformité
-de chaque exemplaire d'équipement de protection individuelle avec le modèle
-ayant fait l'objet d'une attestation d'examen CE de type. L'organisme notifie sa
-décision au fabricant.
+Toute modification d'une machine ou d'un équipement de protection individuelle,
+ayant fait l'objet d'une attestation d'examen CE de type, réalisée par le
+fabricant ou l'importateur, est portée à la connaissance de l'organisme ayant
+délivré l'attestation.
+
+L'organisme prend connaissance de ces modifications et s'assure que celles-ci
+n'exigent pas un nouvel examen de conformité. Dans ce cas, il fait savoir au
+fabricant ou à l'importateur que l'attestation d'examen CE de type reste valable
+pour le modèle ainsi modifié.
+
+Dans le cas contraire, l'organisme fait savoir au fabricant ou à l'importateur
+que l'attestation d'examen CE de type cesse d'être valable. Si le fabricant ou
+l'importateur entend maintenir ces modifications, il dépose une nouvelle demande
+d'examen CE de type dans les conditions et selon les modalités prévues par la
+présente sous-section.

@@ -1,5 +1,5 @@
 Article R4722-13
 ----
-L'employeur justifie qu'il a saisi l'organisme accrédité pendant le délai qui
-lui a été fixé et transmet à l'inspecteur ou au contrôleur du travail les
-résultats dès leur réception.
+L'employeur justifie qu'il a saisi l'organisme agréé dans les quinze jours
+suivant la date de demande de vérification. Il transmet à l'inspection du
+travail les résultats dans les dix jours qui suivent leur réception.

@@ -1,5 +1,8 @@
 Article R4313-85
 ----
-Les ministres mentionnés à l'article R. 4313-82 peuvent, dans les conditions
-définies à ce même article, demander au fabricant communication des rapports de
-l'organisme habilité prévus par les articles R. 4313-29 et R. 4313-42.
+L'habilitation est accordée à un organisme en fonction de son indépendance, de
+ses compétences, de son intégrité ainsi que de la disposition des moyens pour
+remplir sa mission et faire face aux responsabilités qui en découlent.
+
+Un arrêté ministériel précise les conditions nécessaires pour qu'un organisme
+remplisse ces critères et, notamment, le rôle imparti à l'accréditation.

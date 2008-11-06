@@ -1,11 +1,14 @@
 Article R4313-58
 ----
-Les règles techniques applicables aux équipements de travail et moyens de
-protection d'occasion peuvent être, selon leur date de mise sur le marché : 1°
-Les mêmes règles que celles applicables aux équipements de travail ou moyens de
-protection neufs ; 2° Des règles adaptées prescrivant les modifications qu'il
-est techniquement possible d'apporter aux équipements de travail ou moyens de
-protection concernés ; 3° Les règles applicables lors de leur première mise sur
-le marché aux équipements de travail ou moyens de protection concernés,
-conformément à l'obligation de maintien en état de conformité à laquelle ils
-sont soumis.
+Pour chaque modèle d'équipement de protection individuelle fabriqué, un
+organisme notifié choisi par le fabricant prélève un échantillonnage adéquat de
+l'équipement de protection individuelle à des intervalles aléatoires, au moins
+une fois par an. Sous sa responsabilité, il l'examine et réalise sur cet
+échantillonnage les essais appropriés définis par les normes mentionnées au 6°
+de l'article L. 4311-7 ou nécessaires pour s'assurer de la conformité des
+échantillons d'équipement de protection individuelle avec les règles techniques
+qui leur sont applicables.L'organisme notifié, s'il n'est pas celui qui a
+délivré l'attestation d'examen CE de type, prend contact avec ce dernier en cas
+de difficulté pour apprécier la conformité des équipements de protection
+individuelle prélevés dans l'échantillonnage.L'organisme notifié adresse au
+fabricant un rapport d'expertise dans un délai de deux mois suivant celle-ci.

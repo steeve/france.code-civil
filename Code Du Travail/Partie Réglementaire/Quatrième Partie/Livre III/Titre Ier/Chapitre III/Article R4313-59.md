@@ -1,9 +1,10 @@
 Article R4313-59
 ----
-Le fabricant, l'importateur ou le responsable de la mise sur le marché d'un
-exemplaire neuf ou considéré comme neuf d'un équipement de travail ou moyen de
-protection suivant, établit et signe une déclaration CE de conformité par
-laquelle il atteste que cet équipement de travail ou moyen de protection est
-conforme aux règles techniques et satisfait aux règles de procédure qui lui sont
-applicables : 1° Equipement de travail mentionné aux 1°,3° ou 4° de l'article R.
-4311-4 ; 2° Composant de sécurité ; 3° Equipement de protection individuelle.
+Lorsque le rapport prévu par l'article R. 4313-58 conclut à une absence
+d'homogénéité de la production ou à l'absence de conformité des échantillons
+d'équipement de protection individuelle examinés avec le modèle décrit dans
+l'attestation d'examen CE de type et les règles techniques applicables,
+l'organisme notifié prend les mesures qui s'imposent en fonction des défauts
+constatés et en informe le ministre chargé du travail. Le délai dans lequel le
+rapport d'expertise est adressé au fabricant est réduit au temps strictement
+nécessaire pour la rédaction et la transmission de ce rapport.

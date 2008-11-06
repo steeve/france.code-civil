@@ -1,5 +1,8 @@
 Article R4313-26
 ----
-Les possibilités de réclamation prévues par l'article R. 4313-16 sont
-applicables aux décisions des organismes habilités prévues par la présente
-sous-section.
+Lorsqu'il s'agit d'une machine, la demande d'examen CE de type est accompagnée
+d'un exemplaire du modèle ou de l'indication du lieu où le modèle peut être
+examiné.
+
+Lorsqu'il s'agit d'un équipement de protection individuelle, la demande est
+accompagnée du nombre d'exemplaires du modèle nécessaire à l'examen.
