@@ -1,12 +1,12 @@
 Article R211-5
 ----
 Toute mutuelle ou union qui obtient l'agrément administratif pour un risque
-relevant d'une des branches ou sous-branches mentionnées aux 1, 2, 15, 16, 17 et
-18 de l'article R. 211-2 peut également garantir des risques relevant d'une
-autre de ces branches ou sous-branches sans que l'agrément administratif soit
-exigé pour ces risques, lorsque ceux-ci sont liés au risque principal,
-concernent l'objet qui est couvert par le risque principal, et sont garantis par
-le bulletin d'adhésion au règlement ou par le contrat collectif qui couvre le
+relevant d'une des branches ou sous-branches mentionnées aux 1,2,15,16,17 et 18
+de l'article R. 211-2 peut également garantir des risques relevant d'une autre
+de ces branches ou sous-branches sans que l'agrément administratif soit exigé
+pour ces risques, lorsque ceux-ci sont liés au risque principal, concernent
+l'objet qui est couvert par le risque principal, et sont garantis par le
+bulletin d'adhésion au règlement ou par le contrat collectif qui couvre le
 risque principal.
 
 Toutefois les risques relevant de la branche 15 ne peuvent être considérés comme

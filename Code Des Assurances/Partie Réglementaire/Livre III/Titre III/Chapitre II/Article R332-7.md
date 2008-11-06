@@ -1,7 +1,7 @@
 Article R332-7
 ----
 Pour la représentation des provisions techniques correspondant aux branches
-mentionnées aux 4 à 7, 11 et 12 de l'article R. 321-1 :
+mentionnées aux 4 à 7,11 et 12 de l'article R. 321-1 :
 
 1° (Abrogé)
 
