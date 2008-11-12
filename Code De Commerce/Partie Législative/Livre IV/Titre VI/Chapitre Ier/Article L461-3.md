@@ -1,24 +1,18 @@
 Article L461-3
 ----
-Le conseil peut siéger soit en formation plénière, soit en sections, soit en
-commission permanente. La commission permanente est composée du président et des
-trois vice-présidents.
+L'Autorité de la concurrence peut siéger soit en formation plénière, soit en
+sections, soit en commission permanente. La commission permanente est composée
+du président et des quatre vice-présidents.
+
+Les formations de l'autorité délibèrent à la majorité des membres présents. Le
+règlement intérieur de l'autorité détermine les critères de quorum applicables à
+chacune de ces formations.
 
 En cas de partage égal des voix, la voix du président de la formation est
 prépondérante.
 
-Le rapporteur général, le ou les rapporteurs généraux adjoints et les
-rapporteurs permanents sont nommés sur proposition du président par arrêté du
-ministre chargé de l'économie. Les autres rapporteurs sont désignés par le
-président.
-
-Le rapporteur général peut déléguer à un ou des rapporteurs généraux adjoints
-tout ou partie des attributions qu'il détient au titre du livre IV du présent
-code.
-
-Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont
-inscrits au budget du ministère chargé de l'économie. Les dispositions de la loi
-du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne
-sont pas applicables à leur gestion.
-
-Le président est ordonnateur des recettes et des dépenses du conseil.
+Le président, ou un vice-président désigné par lui, peut adopter seul les
+décisions prévues aux articles L. 462-8 et L. 464-2 à L. 464-6 quand elles
+visent des faits dont l'Autorité de la concurrence a été saisie par le ministre
+en application du quatrième alinéa de l'article L. 464-9. Il peut faire de même
+s'agissant des décisions prévues à l'article L. 430-5.
