@@ -15,9 +15,9 @@ compétentes des autres Etats membres de la Communauté européenne.
 
 Les projets de mesures pris en application du deuxième alinéa de l'article L.
 37-1 font l'objet d'une consultation publique dans les conditions prévues aux
-articles L. 32-1 et D. 304. Ils sont soumis pour avis au Conseil de la
-concurrence et, lorsqu'ils concernent des marchés pertinents sur lesquels il a
-été saisi en application de l'article D. 301, au Conseil supérieur de
+articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la
+concurrence et, lorsqu'ils concernent des marchés pertinents sur lesquels elle a
+été saisie en application de l'article D. 301, au Conseil supérieur de
 l'audiovisuel, qui se prononcent dans un délai de 6 semaines. Ils font l'objet
 d'une consultation de la Commission européenne et des autorités compétentes des
 autres Etats membres de la Communauté européenne dans les conditions prévues aux

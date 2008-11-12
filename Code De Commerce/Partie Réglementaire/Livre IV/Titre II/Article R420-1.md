@@ -22,5 +22,5 @@ Si les entreprises estiment que certains des documents inclus dans ce dossier
 présentent un caractère confidentiel, elles peuvent porter sur ce document la
 mention : " secret des affaires ". Dans ce cas, le ministre chargé de l'économie
 leur demande de lui indiquer les informations dont elles souhaitent qu'il ne
-soit pas fait mention dans le décret et dans l'avis du Conseil de la
+soit pas fait mention dans le décret et dans l'avis de l'Autorité de la
 concurrence.

@@ -12,7 +12,7 @@ sont considérés comme pertinents.
 
 Les projets de mesures pris en application du premier alinéa de l'article L.
 37-1 font l'objet d'une consultation publique dans les conditions prévues aux
-articles L. 32-1 et D. 304. Ils sont soumis pour avis au Conseil de la
+articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la
 concurrence et, lorsqu'ils incluent la diffusion de la radio et de la télévision
 dans le périmètre d'un marché pertinent, au Conseil supérieur de l'audiovisuel,
 qui se prononcent dans un délai de six semaines. Elles font l'objet d'une

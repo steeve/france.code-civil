@@ -11,7 +11,7 @@ La notification indique, s'il y a lieu, le caractère confidentiel des
 informations transmises, et comporte tous les documents nécessaires à la
 justification et la motivation et facilitant l'examen des décisions dont
 l'adoption est envisagée, notamment le résultat de la consultation organisée au
-titre du III de l'article L. 32-1 et, le cas échéant, l'avis du Conseil de la
+titre du III de l'article L. 32-1 et, le cas échéant, l'avis de l'Autorité de la
 concurrence. Si la Commission européenne indique que la notification est
 incomplète, le délai mentionné au premier alinéa commence à courir à compter de
 la réception des compléments requis. La notification peut être retirée à tout

@@ -7,8 +7,8 @@ et services relevant antérieurement au 1er janvier 1987 de l'ordonnance n°
 Toutefois, dans les secteurs ou les zones où la concurrence par les prix est
 limitée en raison soit de situations de monopole ou de difficultés durables
 d'approvisionnement, soit de dispositions législatives ou réglementaires, un
-décret en Conseil d'Etat peut réglementer les prix après consultation du Conseil
-de la concurrence.
+décret en Conseil d'Etat peut réglementer les prix après consultation de
+l'Autorité de la concurrence.
 
 Les dispositions des deux premiers alinéas ne font pas obstacle à ce que le
 Gouvernement arrête, par décret en Conseil d'Etat, contre des hausses ou des

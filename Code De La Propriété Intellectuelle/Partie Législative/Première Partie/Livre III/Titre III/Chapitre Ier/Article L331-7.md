@@ -51,8 +51,8 @@ Les décisions de l'autorité sont rendues publiques dans le respect des secrets
 protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un
 recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
-Le président de l'Autorité de régulation des mesures techniques saisit le
-Conseil de la concurrence des abus de position dominante et des pratiques
+Le président de l'Autorité de régulation des mesures techniques saisit
+l'Autorité de la concurrence des abus de position dominante et des pratiques
 entravant le libre exercice de la concurrence dont il pourrait avoir
 connaissance dans le secteur des mesures techniques. Cette saisine peut être
 introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues

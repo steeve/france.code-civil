@@ -82,7 +82,7 @@ d'individualiser sur le plan comptable l'activité déclarée.
 
 En outre, lorsqu'ils disposent dans un secteur d'activité autre que les
 communications électroniques d'un monopole ou d'une position dominante appréciée
-après avis du Conseil de la concurrence, et que les infrastructures utilisées
+après avis de l'Autorité de la concurrence, et que les infrastructures utilisées
 peuvent être séparées physiquement, ils sont tenus, dans l'intérêt d'un bon
 exercice de la concurrence, d'individualiser cette activité sur le plan
 juridique.

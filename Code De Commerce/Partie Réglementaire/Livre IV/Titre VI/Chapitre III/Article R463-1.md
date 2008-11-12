@@ -1,6 +1,6 @@
 Article R463-1
 ----
-La saisine du Conseil de la concurrence fait l'objet d'une lettre recommandée
+La saisine de l'Autorité de la concurrence fait l'objet d'une lettre recommandée
 avec demande d'avis de réception ou d'un dépôt au bureau de la procédure, en
 quatre exemplaires. Elle peut être accompagnée de pièces annexes.
 
@@ -11,8 +11,8 @@ concurrence sur lesquelles la partie saisissante fonde sa demande ;
 
 -les nom, prénoms, dénomination ou forme sociale, profession ou activité, et
 adresse du domicile ou du siège social du demandeur, ainsi que, le cas échéant,
-ses statuts et le mandat donné à son représentant. Le Conseil de la concurrence
-est informé sans délai de tout changement d'adresse par lettre recommandée avec
+ses statuts et le mandat donné à son représentant. L'Autorité de la concurrence
+est informée sans délai de tout changement d'adresse par lettre recommandée avec
 demande d'avis de réception.
 
 Si la saisine n'est pas accompagnée de ces éléments, une demande de

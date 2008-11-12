@@ -1,6 +1,6 @@
 Article L463-3
 ----
-Le président du Conseil de la concurrence ou un vice-président délégué par lui
-peut, après la notification des griefs aux parties intéressées, décider que
-l'affaire sera jugée par le conseil sans établissement préalable d'un rapport.
-Cette décision est notifiée aux parties.
+Le rapporteur général de l'Autorité de la concurrence peut, lors de la
+notification des griefs aux parties intéressées, décider que l'affaire sera
+examinée par l'Autorité sans établissement préalable d'un rapport. Cette
+décision est notifiée aux parties.

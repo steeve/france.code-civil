@@ -2,14 +2,14 @@ Article L37-1
 ----
 L'Autorité de régulation des communications électroniques et des postes
 détermine, au regard notamment des obstacles au développement d'une concurrence
-effective, et après avis du Conseil de la concurrence, les marchés du secteur
+effective, et après avis de l'Autorité de la concurrence, les marchés du secteur
 des communications électroniques pertinents, en vue de l'application des
 articles L. 38, L. 38-1 et L. 38-2.
 
 Après avoir analysé l'état et l'évolution prévisible de la concurrence sur ces
-marchés, l'autorité établit, après avis du Conseil de la concurrence, la liste
-des opérateurs réputés exercer une influence significative sur chacun de ces
-marchés, au sens des dispositions de l'alinéa suivant.
+marchés, l'autorité établit, après avis de l'Autorité de la concurrence, la
+liste des opérateurs réputés exercer une influence significative sur chacun de
+ces marchés, au sens des dispositions de l'alinéa suivant.
 
 Est réputé exercer une influence significative sur un marché du secteur des
 communications électroniques tout opérateur qui, pris individuellement ou

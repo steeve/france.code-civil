@@ -1,6 +1,6 @@
 Article R464-8
 ----
-Les décisions du Conseil de la concurrence sont notifiées :
+Les décisions de l'Autorité de la concurrence sont notifiées :
 
 1° Pour les décisions mentionnées à l'article L. 464-1, à l'auteur de la demande
 de mesures conservatoires, aux personnes contre lesquelles la demande est

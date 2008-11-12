@@ -1,6 +1,6 @@
 Article L420-4
 ----
-I. - Ne sont pas soumises aux dispositions des articles L. 420-1 et L. 420-2 les
+I.-Ne sont pas soumises aux dispositions des articles L. 420-1 et L. 420-2 les
 pratiques :
 
 1° Qui résultent de l'application d'un texte législatif ou d'un texte
@@ -17,7 +17,7 @@ production ainsi que la politique commerciale, y compris en convenant d'un prix
 de cession commun ne doivent imposer des restrictions à la concurrence, que dans
 la mesure où elles sont indispensables pour atteindre cet objectif de progrès.
 
-II. - Certaines catégories d'accords ou certains accords, notamment lorsqu'ils
-ont pour objet d'améliorer la gestion des entreprises moyennes ou petites,
-peuvent être reconnus comme satisfaisant à ces conditions par décret pris après
-avis conforme du Conseil de la concurrence.
+II.-Certaines catégories d'accords ou certains accords, notamment lorsqu'ils ont
+pour objet d'améliorer la gestion des entreprises moyennes ou petites, peuvent
+être reconnus comme satisfaisant à ces conditions par décret pris après avis
+conforme de l'Autorité de la concurrence.

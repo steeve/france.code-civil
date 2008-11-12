@@ -30,6 +30,6 @@ renvoyer l'affaire en tout ou partie à l'instruction. Cette décision n'est pas
 susceptible de recours.
 
 II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir
-pour avis le Conseil de la concurrence selon les modalités fixées au dernier
+pour avis l'Autorité de la concurrence selon les modalités fixées au dernier
 alinéa de l'article L. 331-7 et décider de surseoir à statuer, dans l'attente de
 cet avis, sur la demande dont elle a été saisie.

@@ -1,16 +1,17 @@
 Article L463-7
 ----
-Les séances du Conseil de la concurrence ne sont pas publiques. Seules les
+Les séances de l'Autorité de la concurrence ne sont pas publiques. Seules les
 parties et le commissaire du Gouvernement peuvent y assister. Les parties
-peuvent demander à être entendues par le conseil et se faire représenter ou
+peuvent demander à être entendues par l'Autorité et se faire représenter ou
 assister.
 
-Le Conseil de la concurrence peut entendre toute personne dont l'audition lui
+L'Autorité de la concurrence peut entendre toute personne dont l'audition lui
 paraît susceptible de contribuer à son information.
 
-Le rapporteur général, le ou les rapporteurs généraux adjoints et le commissaire
-du Gouvernement peuvent présenter des observations.
+Le rapporteur général, ou le rapporteur général adjoint désigné par lui et le
+commissaire du Gouvernement peuvent présenter des observations.
 
-Le rapporteur général, le ou les rapporteurs généraux adjoints et le rapporteur
-assistent au délibéré, sans voix délibérative, sauf lorsque le conseil statue
-sur des pratiques dont il a été saisi en application de l'article L. 462-5.
+Le rapporteur général, ou le rapporteur général adjoint désigné par lui et le
+rapporteur assistent au délibéré, sans voix délibérative, sauf lorsque
+l'Autorité statue sur des pratiques dont elle a été saisie en application de
+l'article L. 462-5.

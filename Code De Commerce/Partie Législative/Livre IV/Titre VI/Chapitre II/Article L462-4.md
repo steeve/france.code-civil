@@ -1,5 +1,7 @@
 Article L462-4
 ----
-Le conseil peut être consulté par le ministre chargé de l'économie sur tout
-projet de concentration ou toute concentration de nature à porter atteinte à la
-concurrence dans les conditions prévues au titre III ci-dessus.
+L'Autorité de la concurrence peut prendre l'initiative de donner un avis sur
+toute question concernant la concurrence. Cet avis est rendu public. Elle peut
+également recommander au ministre chargé de l'économie ou au ministre chargé du
+secteur concerné de mettre en œuvre les mesures nécessaires à l'amélioration du
+fonctionnement concurrentiel des marchés.

@@ -20,5 +20,5 @@ délivrée à toutes les parties en cause devant l'Autorité de la concurrence a
 qu'au ministre chargé de l'économie.
 
 Une copie de l'assignation est immédiatement notifiée à la diligence de
-l'huissier de justice au Conseil de la concurrence par lettre recommandée avec
+l'huissier de justice à l'Autorité de la concurrence par lettre recommandée avec
 demande d'avis de réception.

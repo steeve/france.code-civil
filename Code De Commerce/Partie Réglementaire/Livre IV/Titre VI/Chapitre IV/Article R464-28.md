@@ -5,7 +5,7 @@ notifiées par lettre recommandée avec demande d'avis de réception par le gref
 de la cour aux parties à l'instance et au ministre de l'économie lorsqu'il n'est
 pas partie à l'instance.
 
-Elles sont portées à la connaissance du Conseil de la concurrence par lettre
+Elles sont portées à la connaissance de l'Autorité de la concurrence par lettre
 simple à l'initiative du greffe.
 
 Le ministre chargé de l'économie veille à l'exécution des décisions et les fait

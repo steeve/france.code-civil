@@ -11,8 +11,8 @@ locale. Elle est communiquée à l'Autorité de régulation des communications
 
 Pour garantir l'égalité des conditions de concurrence ou l'interopérabilité des
 services, l'Autorité de régulation des communications électroniques et des
-postes peut, après avis du Conseil de la concurrence, demander la modification
-des accords d'itinérance locale déjà conclus.
+postes peut, après avis de l'Autorité de la concurrence, demander la
+modification des accords d'itinérance locale déjà conclus.
 
 Les différends relatifs à la conclusion ou à l'exécution de la convention
 d'itinérance locale sont soumis à l'Autorité de régulation des communications
