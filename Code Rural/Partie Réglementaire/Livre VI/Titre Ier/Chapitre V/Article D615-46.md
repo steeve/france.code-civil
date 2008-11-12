@@ -9,11 +9,12 @@ susmentionné.L'utilisation de fertilisants minéraux ou organiques ainsi que de
 pesticides chimiques sur les surfaces consacrées au couvert environnemental est
 interdite.
 
-Toutefois, les agriculteurs qui déclarent, pour les paiements à la surface pour
-les grandes cultures, une superficie n'excédant pas celle qui, sur la base du
-rendement fixé pour leur région en application de l'article D. 615-13, serait
-nécessaire pour produire 92 tonnes de céréales ne sont pas soumis à l'obligation
-figurant à l'alinéa précédent.
+Toutefois, ne sont pas soumis à l'obligation mentionnée à l'alinéa précédent les
+agriculteurs qui déclarent, pour les paiements à la surface pour les grandes
+cultures et pour l'aide pour mise en jachère, une superficie en grandes cultures
+n'excédant pas celle qui, sur la base du rendement fixé pour leur région en
+application de l'article D. 615-13, serait nécessaire pour produire 92 tonnes de
+céréales.
 
 Lorsqu'un cours d'eau traverse ou borde la surface agricole de l'exploitation,
 le couvert environnemental mentionné au premier alinéa est implanté en priorité
@@ -24,13 +25,11 @@ II.-Par dérogation au I, pour les agriculteurs utilisant conformément à
 l'article 55 (b) ainsi qu'au 1 du 3 de l'article 107 du règlement du 29
 septembre 2003 susmentionné une partie de leurs terres gelées pour la production
 de cultures industrielles, l'obligation posée au I est réputée satisfaite après
-application du troisième alinéa de ce paragraphe, dès lors que la superficie en
-gel volontaire définie conformément à l'article 68 du règlement (CE) n° 1973 /
-2004 modifié de la Commission du 29 octobre 2004 ainsi que celle admissible au
-bénéfice de l'aide pour mise en jachère figurant à l'article 54 du règlement du
-29 septembre 2003 susmentionné non utilisée pour la production de cultures
-industrielles est consacrée au couvert environnemental ou qu'une superficie
-équivalente y est consacrée.
+application du troisième alinéa de ce paragraphe, dès lors que la superficie
+admissible au bénéfice de l'aide pour mise en jachère figurant à l'article 54 du
+règlement du 29 septembre 2003 susmentionné non utilisée pour la production de
+cultures industrielles est consacrée au couvert environnemental ou qu'une
+superficie équivalente y est consacrée.
 
 Les dispositions qui précèdent ne peuvent avoir pour effet d'imposer à
 l'agriculteur de consacrer au couvert environnemental plus de 3 % de la surface

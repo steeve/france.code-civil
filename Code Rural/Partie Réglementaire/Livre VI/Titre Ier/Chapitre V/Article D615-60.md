@@ -9,5 +9,5 @@ notamment des sols, lors de l'utilisation des boues d'épuration en agriculture,
 une valeur exprimée en pourcentage qui constitue le taux mentionné au 1° du II
 de l'article D. 615-58.
 
-Le second alinéa du 2° du II de l'article D. 615-58 n'est pas applicable à ces
-cas de non-conformité.
+Le 3 du II de l'article D. 615-58 n'est pas applicable à ces cas de
+non-conformité.

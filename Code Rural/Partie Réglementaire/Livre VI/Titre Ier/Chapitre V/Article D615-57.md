@@ -28,7 +28,7 @@ santé des animaux et des végétaux " sont classés en sous-domaines relatifs :
 -à l'identification et à l'enregistrement, respectivement, des bovins, des
 porcins, ainsi que des ovins et caprins ;
 
--à l'utilisation des produits phytosanitaires ;
+-à l'utilisation des produits phytopharmaceutiques ;
 
 -aux bonnes pratiques assurant la sécurité sanitaire des productions primaires
 végétales ;
@@ -44,9 +44,9 @@ transmissibles ;
 -à la lutte contre les maladies animales autres que les encéphalopathies
 spongiformes transmissibles.
 
-Les cas de non-conformité aux exigences relevant du domaine " protection et
-bien-être animal " sont classés en sous-domaines, qui peuvent eux-mêmes être
-subdivisés en plusieurs points de contrôle. Les sous-domaines sont relatifs :
+Les cas de non-conformité aux exigences relevant du domaine "protection animale"
+sont classés en sous-domaines, qui peuvent eux-mêmes être subdivisés en
+plusieurs points de contrôle. Les sous-domaines sont relatifs :
 
 -aux règles communes à tous les élevages ;
 
@@ -56,6 +56,6 @@ subdivisés en plusieurs points de contrôle. Les sous-domaines sont relatifs :
 
 III.-L'arrêté mentionné au I affecte aux cas de non-conformité une valeur en
 point qui prend en compte leur gravité, leur étendue et leur persistance. En ce
-qui concerne le domaine " protection et bien-être animal " une valeur en point
-distincte est affectée à chaque point de contrôle d'un même sous-domaine, en
-fonction du nombre d'éléments de non-conformité constatés.
+qui concerne le domaine "protection animale" une valeur en point distincte est
+affectée à chaque point de contrôle d'un même sous-domaine, en fonction du
+nombre d'éléments de non-conformité constatés.
