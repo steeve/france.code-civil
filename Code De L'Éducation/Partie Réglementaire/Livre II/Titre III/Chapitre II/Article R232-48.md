@@ -8,4 +8,5 @@ d'administration de l'établissement public d'enseignement supérieur dont l'avi
 avait été sollicité.
 
 Les décisions portant relèvement d'exclusions, déchéances et incapacités sont
-publiées au Bulletin officiel du ministère de l'éducation nationale.
+publiées au Bulletin officiel du ministère de l'éducation nationale sous forme
+anonyme.
