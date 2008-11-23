@@ -1,8 +1,12 @@
 Article R752-20
 ----
-Dans les mêmes délais et sous la même forme que ceux prévus à l'article R.
-752-19, le préfet transmet la demande d'autorisation concernant les
-établissements hôteliers à la commission départementale de l'action touristique
-mentionnée à l'article D. 122-32 du code du tourisme. Cette instance dispose
-d'un délai de six semaines à compter de sa saisine pour communiquer son avis à
-la commission.
+La commission entend le demandeur à sa requête.
+
+Elle peut entendre toute personne dont l'avis présente un intérêt pour la
+commission.
+
+Toute autre personne souhaitant être entendue par la commission peut en faire la
+demande. Cette demande, formulée par écrit et notifiée au secrétariat de la
+commission au moins cinq jours avant la réunion de celle-ci, doit comporter les
+éléments justifiant, d'une part, de l'intérêt de la personne concernée à être
+entendue et, d'autre part, des motifs qui justifient son audition.

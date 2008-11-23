@@ -1,11 +1,11 @@
 Article R752-18
 ----
-Dès réception de la demande, si le dossier est complet, le préfet fait connaître
-au demandeur son numéro d'enregistrement et la date avant laquelle, compte tenu
-des délais impartis à la commission pour statuer, la décision doit lui être
-notifiée. Le délai d'instruction court à compter du jour de la décharge ou de
-l'avis de réception prévu à l'article précédent.
+Cinq jours au moins avant la réunion, les membres titulaires de la commission
+départementale d'aménagement commercial reçoivent, par lettre recommandée avec
+demande d'avis de réception, communication de l'ordre du jour, accompagné des
+rapports d'instruction élaborés par les services visés aux deuxième et quatrième
+alinéas de l'article R. 752-16.
 
-La lettre du préfet avise en outre le demandeur que, si aucune décision ne lui a
-été adressée avant la date visée à l'alinéa précédent, l'autorisation est
-réputée accordée.
+La communication de ces documents aux élus locaux appelés à siéger à la
+commission départementale d'aménagement commercial vaut transmission à leurs
+représentants.

@@ -1,10 +1,9 @@
 Article R752-10
 ----
-Pour les projets de magasins de commerce de détail, la demande précise :
-
-1° En cas de création, la surface de vente et le secteur d'activité, tel que
-défini à l'article R. 752-5, de chacun des magasins de plus de 300 mètres
-carrés, ainsi que, le cas échéant, la surface de vente globale du projet ;
-
-2° En cas d'extension, la surface de vente actuellement exploitée et la surface
-projetée de chacun des magasins.
+En cas d'extension, la demande est accompagnée, le cas échéant, d'une
+attestation du Régime social des indépendants reprenant les éléments contenus
+dans la plus récente déclaration annuelle établie au titre de l'article 4 de la
+loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines
+catégories de commerçants et artisans âgés et, si l'établissement est redevable
+de la taxe sur les surfaces commerciales, indiquant s'il est à jour de ses
+paiements.

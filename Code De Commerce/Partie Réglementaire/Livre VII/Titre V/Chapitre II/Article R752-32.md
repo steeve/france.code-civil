@@ -1,8 +1,11 @@
 Article R752-32
 ----
-Lorsque la décision accorde l'autorisation demandée, le préfet fait publier, aux
-frais du bénéficiaire, un extrait de cette décision dans deux journaux régionaux
-ou locaux diffusés dans le département. Il en est de même de l'attestation
-préfectorale en cas d'autorisation tacite. En outre, une copie en est adressée à
-la Caisse nationale de l'organisation autonome d'assurance vieillesse des
-professions industrielles et commerciales.
+La demande de l'avis prévu à l'article L. 752-4 est présentée par l'autorité
+compétente pour délivrer le permis de construire ou par le président de
+l'établissement public de coopération intercommunale visé à l'article L. 122-4
+du code de l'urbanisme. Cette demande est motivée et est accompagnée de la
+délibération mentionnée au troisième alinéa de l'article L. 752-4.
+
+La demande d'avis est soit adressée au préfet sous pli recommandé avec demande
+d'avis de réception, soit déposée contre décharge au secrétariat de la
+commission.

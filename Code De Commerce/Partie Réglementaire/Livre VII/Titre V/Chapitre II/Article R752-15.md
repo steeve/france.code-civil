@@ -1,6 +1,7 @@
 Article R752-15
 ----
-La demande de changement de secteur d'activité d'un commerce de détail prévue au
-8° du I de l'article L. 752-1 est accompagnée de tout document justifiant du
-droit du demandeur à exploiter son établissement dans le nouveau secteur
-d'activité.
+Dans le cas où le demandeur n'a pas reçu, dans les quinze jours suivant la
+réception de sa demande par le secrétariat de la commission départementale
+d'aménagement commercial, la lettre prévue à l'article R. 752-13 ou R. 752-14,
+le délai d'instruction court à compter du jour de la décharge ou de l'avis de
+réception prévu à l'article R. 752-12.

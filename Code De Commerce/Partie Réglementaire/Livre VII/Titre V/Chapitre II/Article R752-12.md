@@ -1,5 +1,6 @@
 Article R752-12
 ----
-Pour les demandes soumises à enquête publique en vertu du deuxième alinéa de
-l'article L. 752-5, la demande est accompagnée des pièces complémentaires
-prévues à l'article R. 752-16.
+La demande d'autorisation est soit adressée au préfet sous pli recommandé avec
+demande d'avis de réception, soit déposée contre décharge au secrétariat de la
+commission, soit adressée par voie électronique. Dans ce dernier cas, l'accusé
+de réception électronique est adressé sans délai.

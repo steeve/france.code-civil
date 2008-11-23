@@ -1,7 +1,7 @@
 Article R751-17
 ----
-L'observatoire d'équipement commercial d'Ile-de-France est constitué par arrêté
-du préfet de région, qui le préside.
+L'observatoire d'aménagement commercial d'Ile-de-France est présidé par le
+préfet de région.
 
 Il est composé, selon des modalités fixées par arrêté du ministre chargé du
 commerce, des catégories de personnes mentionnées à l'article R. 751-13.

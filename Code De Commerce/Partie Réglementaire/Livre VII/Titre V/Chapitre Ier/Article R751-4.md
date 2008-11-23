@@ -1,14 +1,17 @@
 Article R751-4
 ----
-Le représentant des associations de consommateurs, ainsi qu'un suppléant, sont
-désignés par les associations de consommateurs du département agréées, au titre
-de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de
-département, soit par leur affiliation à une association nationale elle-même
-agréée.
+Lorsque la zone de chalandise ou la zone d'influence cinématographique du
+projet, telle qu'elle figure au dossier du demandeur, dépasse les limites du
+département, le représentant de l'Etat dans le département d'implantation
+détermine, pour chacun des autres départements concernés, le nombre d'élus et de
+personnalités qualifiées appelés à compléter la composition de la commission.
 
-Le représentant des associations de consommateurs exerce un mandat de trois ans
-; le membre titulaire ne peut effectuer deux mandats consécutifs, que ce soit en
-qualité de titulaire ou de suppléant. S'il perd la qualité en vertu de laquelle
-il a été désigné ou en cas de démission ou de décès, le représentant des
-consommateurs est immédiatement remplacé pour la durée du mandat restant à
-courir.
+Le nombre d'élus ne peut être supérieur à cinq pour chacun des autres
+départements concernés. Ces membres sont des élus de communes appartenant à la
+zone de chalandise ou à la zone d'influence cinématographique.
+
+Le nombre de personnalités qualifiées ne peut excéder trois pour chaque autre
+département concerné.
+
+Sur proposition du préfet de chacun des autres départements concernés, le préfet
+du département d'implantation désigne les membres visés au premier alinéa.

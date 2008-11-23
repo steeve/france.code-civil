@@ -1,8 +1,9 @@
 Article R751-13
 ----
-L'observatoire départemental d'équipement commercial est présidé par le préfet.
+L'observatoire départemental d'aménagement commercial est présidé par le préfet
+ou son représentant.
 
-Il est composé, selon des conditions fixées par arrêté du ministre chargé du
+Il est composé, suivant des modalités fixées par arrêté du ministre chargé du
 commerce :
 
 1° D'élus locaux ;

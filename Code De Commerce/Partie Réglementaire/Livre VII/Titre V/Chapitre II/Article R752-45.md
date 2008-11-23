@@ -1,5 +1,5 @@
 Article R752-45
 ----
-S'il y a récidive, la peine d'amende prévue par le 5e de l'article 131-13 du
-code pénal pour la récidive des contraventions de la cinquième classe est
-applicable.
+Lorsqu'il est exercé par le préfet ou par le médiateur du cinéma, le recours
+devant la Commission nationale d'aménagement commercial prévu à l'article L.
+752-17 est fait en la forme administrative ordinaire.

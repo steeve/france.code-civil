@@ -1,15 +1,14 @@
 Article R752-29
 ----
-Un exemplaire du procès-verbal de la réunion de la commission est adressé par
-lettre recommandée avec demande d'avis de réception à chaque membre de la
-commission, ainsi qu'au directeur départemental de la concurrence, de la
-consommation et de la répression des fraudes, au directeur départemental de
-l'équipement, au directeur départemental du travail, de l'emploi et de la
-formation professionnelle et, si la réunion a comporté l'examen de demandes
-présentées au titre du 7° du I de l'article L. 752-1, au délégué régional au
-tourisme.
+La procédure de consultation prévue par l'article L. 752-4 est applicable pour
+les demandes de permis de construire portant sur des projets qui ne sont pas
+soumis à une autorisation d'exploitation commerciale et à condition :
 
-Les destinataires du procès-verbal disposent d'un délai de quinze jours pour
-formuler auprès du président leurs observations qui sont portées à la
-connaissance des membres de la commission. Sans observation de leur part dans le
-délai imparti, le procès-verbal est considéré comme adopté.
+-s'il s'agit de la création d'un magasin ou d'un ensemble commercial, que la
+surface de vente de ce magasin ou de cet ensemble commercial soit supérieure à
+300 mètres carrés et inférieure ou égale à 1 000 mètres carrés ;
+
+-s'il s'agit de l'extension d'un magasin ou d'un ensemble commercial, que la
+surface de vente du magasin ou de l'ensemble commercial après réalisation de
+l'extension soit supérieure à 300 mètres carrés et inférieure ou égale à 1 000
+mètres carrés.

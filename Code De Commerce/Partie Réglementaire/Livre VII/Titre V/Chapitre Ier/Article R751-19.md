@@ -1,7 +1,10 @@
 Article R751-19
 ----
-Le schéma de développement commercial est un document qui rassemble des
-informations disponibles sur l'activité commerciale et son environnement
-économique. Il comporte une analyse prospective qui indique les orientations en
-matière de développement commercial et les secteurs d'activité commerciale à
-privilégier.
+La commune ou, s'il existe, l'établissement public chargé du schéma de cohérence
+territoriale ou, à défaut, l'établissement public de coopération intercommunale
+peut élaborer pour son territoire et en fonction des caractéristiques de
+celui-ci un schéma de développement commercial couvrant l'ensemble de l'activité
+commerciale.
+
+Le département peut, le cas échéant, également élaborer un schéma de
+développement commercial.
