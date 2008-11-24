@@ -1,4 +1,5 @@
 Article D4641-18
 ----
-Les membres du Conseil supérieur peuvent, dans toutes les formations du conseil,
-se faire assister d'un expert de leur choix.
+La commission générale peut, de sa propre initiative ou sur proposition d'une
+commission spécialisée, adopter un règlement intérieur précisant les modalités
+pratiques de travail des différentes formations du conseil.

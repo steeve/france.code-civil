@@ -1,13 +1,40 @@
 Article D4641-20
 ----
-La commission permanente prépare les travaux du Conseil supérieur. Elle est
-périodiquement informée de ceux des commissions spécialisées. Elle est consultée
-sur les projets de règlement mentionnés au 1° de l'article R. 4641-2, sauf si le
-ministre chargé du travail estime devoir saisir le Conseil supérieur ou, s'il
-s'agit de projets d'arrêté, une commission spécialisée. En cas d'urgence, la
-commission permanente est consultée sur les projets de loi ainsi que sur toute
-autre question entrant dans la compétence du Conseil supérieur en application de
-l'article R. 4641-2. La commission permanente peut renvoyer une question
-relevant de ses attributions au Conseil supérieur. Elle peut décider soit de se
-saisir d'une question relevant d'une commission spécialisée, soit de renvoyer
-cette question au Conseil supérieur.
+Les commissions spécialisées, à l'exception de la commission spécialisée chargée
+des questions relatives aux activités agricoles, comprennent :
+
+1° Cinq représentants des salariés, ainsi désignés :
+
+a) Un par la Confédération générale du travail (CGT) ;
+
+b) Un par la Confédération française démocratique du travail (CFDT) ;
+
+c) Un par la Confédération générale du travail-Force ouvrière (CGT-FO) ;
+
+d) Un par la Confédération française des travailleurs chrétiens (CFTC) ;
+
+e) Un par la Confédération française de l'encadrement-Confédération générale des
+cadres (CFE-CGC) ;
+
+2° Cinq représentants des employeurs, ainsi désignés :
+
+a) Un par le Mouvement des entreprises de France (MEDEF) ;
+
+b) Un par la Confédération générale des petites et moyennes entreprises (CGPME)
+;
+
+c) Un par l'Union professionnelle artisanale (UPA) ;
+
+d) Un conjointement par la Fédération nationale des syndicats d'exploitants
+agricoles (FNSEA) et la Confédération nationale de la mutualité, de la
+coopération et du crédit agricoles (CNMCCA) ;
+
+e) Un pour l'Union nationale des professions libérales (UNAPL) ;
+
+3° Cinq représentants des départements ministériels ;
+
+4° Cinq représentants des organismes nationaux d'expertise et de prévention ;
+
+5° Quatre personnes qualifiées désignées, à raison de leurs compétences
+personnelles au regard des attributions de la commission dont une, au plus,
+représentant une personne morale.
