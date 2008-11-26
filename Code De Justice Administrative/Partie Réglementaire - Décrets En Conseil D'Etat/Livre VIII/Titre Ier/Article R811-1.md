@@ -20,3 +20,6 @@ décisions statuant sur les recours en matière de taxe foncière lorsqu'elles
 statuent également sur des conclusions relatives à la taxe professionnelle, à la
 demande du même contribuable, et que les deux impositions reposent, en tout ou
 partie, sur la valeur des mêmes biens appréciée la même année.
+
+Le tribunal administratif statue en premier et dernier ressort sur les requêtes
+mentionnées à l'article R. 778-1.
