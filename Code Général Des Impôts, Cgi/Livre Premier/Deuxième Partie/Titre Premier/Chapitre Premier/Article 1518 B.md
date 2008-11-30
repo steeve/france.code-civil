@@ -48,6 +48,7 @@ liquidation judiciaire, jusqu'à la deuxième année suivant celle du jugement
 ordonnant la cession ou autorisant la cession d'actifs en cours de période
 d'observation.
 
-Les dispositions du présent article s'appliquent distinctement aux trois
-catégories d'immobilisations suivantes : terrains, constructions, équipements et
-biens mobiliers.
+Sans préjudice des dispositions du 3° quater de l'article 1469, les dispositions
+du présent article s'appliquent distinctement aux trois catégories
+d'immobilisations suivantes : terrains, constructions, équipements et biens
+mobiliers.

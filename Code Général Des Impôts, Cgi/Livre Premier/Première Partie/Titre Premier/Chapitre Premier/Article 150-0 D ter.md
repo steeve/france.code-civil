@@ -18,14 +18,22 @@ manière continue pendant les cinq années précédant la cession et dans les
 conditions prévues au 1° de l'article 885 O bis, l'une des fonctions mentionnées
 à ce même 1° ;
 
+Toutefois, cette condition n'est pas exigée lorsque l'exercice d'une profession
+libérale revêt la forme d'une société anonyme ou d'une société à responsabilité
+limitée et que les parts ou actions de ces sociétés constituent des biens
+professionnels pour leur détenteur qui y a exercé sa profession principale de
+manière continue pendant les cinq années précédant la cession ;
+
 b) Avoir détenu directement ou par personne interposée ou par l'intermédiaire de
 son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs,
 de manière continue pendant les cinq années précédant la cession, au moins 25 %
 des droits de vote ou des droits dans les bénéfices sociaux de la société dont
 les titres ou droits sont cédés ;
 
-c) Dans l'année suivant la cession, cesser toute fonction dans la société dont
-les titres ou droits sont cédés et faire valoir ses droits à la retraite ;
+c) Cesser toute fonction dans la société dont les titres ou droits sont cédés et
+faire valoir ses droits à la retraite, soit dans l'année suivant la cession,
+soit dans l'année précédant celle-ci si ces événements sont postérieurs au 31
+décembre 2005 ;
 
 3° La société dont les titres ou droits sont cédés répond aux conditions
 suivantes :
@@ -72,14 +80,13 @@ huitième année, à partir du 1er janvier de l'année au cours de laquelle le
 cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis
 et 5° ter de l'article 157 ;
 
-4° En cas de cession de titres ou droits de sociétés ayant opté pour leur
-assujettissement à l'impôt sur les sociétés ou à un impôt équivalent, à partir
-du 1er janvier de l'année au cours de laquelle la dernière option a été exercée
-;
+4° En cas de cession à titre onéreux de titres ou droits reçus en rémunération
+d'un apport réalisé sous le régime prévu au I ter de l'article 93 quater, au a
+du I de l'article 151 octies ou aux I et II de l'article 151 octies A, à partir
+du 1er janvier de l'année au cours de laquelle l'apporteur a commencé son
+activité commerciale, industrielle, artisanale, libérale ou agricole ;
 
-5° En cas de cession de titres ou droits de sociétés ayant renoncé à l'option
-prévue au 3° de l'article 8, à partir du 1er janvier de l'année de cette
-renonciation.
+5° Abrogé
 
 III. - En cas de cessions antérieures de titres ou droits de la société
 concernée pour lesquelles le gain net a été déterminé en retenant un prix

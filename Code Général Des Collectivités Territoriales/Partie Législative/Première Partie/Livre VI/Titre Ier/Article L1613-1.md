@@ -75,5 +75,10 @@ fonctionnement, le montant de la dotation globale de fonctionnement pour 2006
 calculé dans les conditions définies ci-dessus est minoré d'un montant total de
 10,5 millions d'euros.
 
+A compter de 2008, pour le calcul du montant de la dotation globale de
+fonctionnement, le montant de la dotation globale de fonctionnement pour 2007
+calculé dans les conditions définies ci-dessus est majoré d'un montant de 3
+millions d'euros.
+
 2° L'indice prévisionnel défini au premier alinéa du présent article est
 appliqué au montant ainsi obtenu.

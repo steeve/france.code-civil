@@ -8,6 +8,5 @@ réservée à l'usage personnel d'une famille, ainsi que les réseaux particulie
 alimentés par une distribution publique qui peuvent présenter un risque pour la
 santé publique sont soumis à déclaration auprès du préfet.
 
-Un arrêté des ministres chargés de la construction et de la santé, pris après
-avis du Conseil supérieur d'hygiène publique de France, fixe les catégories de
-réseaux particuliers pour lesquels la déclaration est obligatoire.
+Un arrêté des ministres chargés de la construction et de la santé fixe les
+catégories de réseaux particuliers pour lesquels la déclaration est obligatoire.

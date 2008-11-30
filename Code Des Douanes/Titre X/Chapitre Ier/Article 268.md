@@ -47,3 +47,13 @@ jugées conformément aux dispositions du code des douanes.
 cigarettes, cigares et cigarillos, tabac à fumer, tabac à mâcher et tabac à
 priser, est affecté au budget de ces départements. Il en est de même à la
 Guadeloupe et à la Martinique à compter du 1er janvier 2001.
+
+Les conseils généraux des départements d'outre-mer peuvent fixer, par
+délibération, un prix de détail des cigarettes exprimé aux 1 000 unités et un
+prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé
+aux 1 000 grammes, en deçà duquel ces différents produits du tabac ne peuvent
+être vendus dans leur circonscription administrative en raison de leur prix de
+nature promotionnelle au sens de l'article L. 3511-3 du code de la santé
+publique. Pour chacun de ces produits, ce prix est supérieur à 66 % et au plus
+égal à 110 % du prix de vente au détail déterminé pour la France continentale en
+application du premier alinéa du même article L. 3511-3.

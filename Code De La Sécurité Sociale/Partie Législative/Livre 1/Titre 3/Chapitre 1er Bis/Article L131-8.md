@@ -38,7 +38,10 @@ complémentaire, mentionnée à l'article L. 137-1 du présent code ;
 produits pharmaceutiques, dans des conditions fixées par décret ;
 
 9° La taxe sur la valeur ajoutée brute collectée par les fournisseurs de tabacs,
-dans des conditions fixées par décret.
+dans des conditions fixées par décret ;
+
+10° Une fraction égale à 3,39 % du droit de consommation sur les tabacs
+mentionné à l'article 575 du code général des impôts.
 
 III. - 1. Bénéficient de l'affectation des impôts et taxes définis au II les
 caisses et régimes de sécurité sociale suivants :

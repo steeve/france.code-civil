@@ -24,21 +24,32 @@ long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
 raison des 19/33,33e de son montant.
 
+Les moins-values à long terme existant à l'ouverture du premier des exercices
+ouverts à compter du 1er janvier 2005 sont imputées sur les plus-values à long
+terme imposées au taux de 15 %. L'excédent des moins-values à long terme subies
+au cours d'un exercice ouvert à compter du 1er janvier 2005 et afférentes à des
+éléments autres que les titres de participations définis au troisième alinéa du
+a quinquies peut être déduit des bénéfices de l'exercice de liquidation d'une
+entreprise à raison des 15/33,33 de son montant ;
+
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
 cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts
 ou actions de sociétés revêtant le caractère de titres de participation et des
 parts de fonds commun de placement à risques ou de société de capital risque qui
-remplissent les conditions prévues au II de l'article 163 quinquies B ou aux
-articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant
-diverses dispositions d'ordre économique et financier et qui sont détenues par
-l'entreprise depuis au moins cinq ans.
+remplissent les conditions prévues au II ou au III bis (2) de l'article 163
+quinquies B ou aux articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11
+juillet 1985 portant diverses dispositions d'ordre économique et financier et
+qui sont détenues par l'entreprise depuis au moins cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
 titres de sociétés dont l'actif est constitué principalement par des titres
 exclus de ce régime ou dont l'activité consiste de manière prépondérante en la
-gestion des mêmes valeurs pour leur propre compte.
+gestion des mêmes valeurs pour leur propre compte. Il ne s'applique pas non plus
+aux titres émis par les organismes de placement collectif immobilier ou par les
+organismes de droit étranger ayant un objet équivalent mentionnés au e du I de
+l'article L. 214-92 du code monétaire et financier.
 
 Pour l'application des premier et deuxième alinéas, constituent des titres de
 participation les parts ou actions de sociétés revêtant ce caractère sur le plan
@@ -170,16 +181,36 @@ participation définis au troisième alinéa constaté au titre des exercices
 ouverts à compter du 1er janvier 2006 ne sont plus imputables ou reportables à
 partir des exercices ouverts à compter du 1er janvier 2007.
 
+a sexies-0) Pour les exercices clos à compter du 31 décembre 2006, le régime des
+plus et moins-values à long terme cesse de s'appliquer à la plus ou moins-value
+provenant de la cession des titres, autres que ceux mentionnés au troisième
+alinéa du a quinquies, dont le prix de revient est au moins égal à 22 800 000
+euros et qui satisfont aux conditions ouvrant droit au régime des sociétés mères
+autres que la détention de 5 % au moins du capital de la société émettrice.
+
+Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
+ou moins-values à long terme en application du premier alinéa cessent d'être
+soumises à ce même régime.
+
+Les moins-values à long terme afférentes à ces titres exclus du régime des plus
+et moins-values à long terme en application du premier alinéa, et restant à
+reporter à l'ouverture du premier exercice clos à compter du 31 décembre 2006,
+peuvent, après compensation avec les plus-values à long terme et produits
+imposables au taux visé au a, s'imputer à raison des 15/33,33 de leur montant
+sur les bénéfices imposables, dans la limite des gains nets retirés de la
+cession de titres de même nature.
+
 a sexies. 1. Pour les exercices ouverts à compter du ler janvier 2006, les
 sommes réparties par un fonds commun de placement à risques et les distributions
 de sociétés de capital-risque soumises au régime fiscal des plus-values à long
-terme en application du deuxième alinéa du 5 de l'article 38 ou du 5 de
-l'article 39 terdecies sont soumises à l'impôt au taux de 8 % pour la fraction
-des sommes ou distributions afférentes aux cessions d'actions ou de parts de
-sociétés détenues directement depuis deux ans au moins et si le fonds ou la
-société a détenu directement au moins 5 % du capital de la société émettrice
-pendant deux ans au moins. Le taux de 8 % est fixé à 0 % pour les exercices
-ouverts à compter du 1er janvier 2007.
+terme en application du 2° du 5 de l'article 38 ou du 5 de l'article 39
+terdecies sont soumises à l'impôt au taux de 8 % pour la fraction des sommes ou
+distributions afférentes aux cessions d'actions ou de parts de sociétés, à
+l'exception des titres des sociétés à prépondérance immobilière mentionnées au a
+quinquies (1), détenues depuis deux ans au moins et si le fonds ou la société a
+détenu au moins 5 % du capital de la société émettrice pendant deux ans au
+moins. Le taux de 8 % est fixé à 0 % pour les exercices ouverts à compter du 1er
+janvier 2007.
 
 Pour l'appréciation du seuil de 5 % prévu au premier alinéa, sont également pris
 en compte les titres détenus par d'autres fonds communs de placement à risques
@@ -341,6 +372,5 @@ IV. - Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
 imposables en application du 2 de l'article 221, du deuxième alinéa de l'article
 223 F et de l'article 208 C ter, relatives aux immeubles, droits afférents à un
 contrat de crédit-bail et parts des organismes mentionnés au dernier alinéa du
-II de l'article 208 C inscrits à l'actif des sociétés d'investissements
-immobiliers cotées et de leurs filiales qui ont opté pour le régime prévu à cet
-article.
+II de l'article 208 C inscrits à l'actif des sociétés qui ont opté pour le
+régime prévu au II de ce même article.

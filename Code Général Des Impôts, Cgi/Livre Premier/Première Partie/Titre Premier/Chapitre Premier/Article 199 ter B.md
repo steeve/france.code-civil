@@ -38,15 +38,23 @@ La fraction du crédit d'impôt recherche correspondant aux parts des personnes
 physiques autres que celles mentionnées au I de l'article 151 nonies n'est ni
 imputable ni restituable.
 
-Par exception aux dispositions du premier alinéa, les entreprises ayant fait
-l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation
-judiciaires peuvent demander le remboursement de leur créance non utilisée à
-compter de la date du jugement qui a ouvert ces procédures. Ce remboursement est
-effectué sous déduction d'un intérêt appliqué à la créance restant à imputer.
-Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois
-suivant la demande de l'entreprise, est calculé à compter du premier jour du
-mois suivant la demande de l'entreprise jusqu'au terme des trois années suivant
-celle au titre de laquelle la créance est constatée.
+Par exception aux dispositions de la troisième phrase du premier alinéa, les
+entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un redressement
+ou d'une liquidation judiciaires peuvent demander le remboursement de leur
+créance non utilisée à compter de la date du jugement qui a ouvert ces
+procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à
+la créance restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt
+légal applicable le mois suivant la demande de l'entreprise, est calculé à
+compter du premier jour du mois suivant la demande de l'entreprise jusqu'au
+terme des trois années suivant celle au titre de laquelle la créance est
+constatée.
+
+Par exception aux dispositions de la troisième phrase du premier alinéa, la
+créance constatée par les petites et moyennes entreprises mentionnées à
+l'article 220 decies au titre des années au cours desquelles elles bénéficient
+de la réduction d'impôt prévue au même article ou celle constatée par les jeunes
+entreprises innovantes mentionnées à l'article 44 sexies-0 A est immédiatement
+remboursable (1).
 
 II. (Abrogé).
 

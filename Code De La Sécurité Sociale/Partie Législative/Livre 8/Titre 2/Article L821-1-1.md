@@ -20,9 +20,19 @@ depuis une durée fixée par décret ;
 complément d'un avantage de vieillesse ou d'invalidité ou d'une rente d'accident
 du travail.
 
+Le complément de ressources est également versé aux bénéficiaires de
+l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article
+L. 815-24 dont l'incapacité permanente est au moins égale au pourcentage fixé
+par le décret mentionné au premier alinéa de l'article L. 821-1 et qui satisfont
+aux conditions prévues aux troisième, quatrième et cinquième alinéas du présent
+article.
+
 Le versement du complément de ressources pour les personnes handicapées prend
 fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les
-conditions prévues au cinquième alinéa de l'article L. 821-1.
+conditions prévues au cinquième alinéa de l'article L. 821-1. Il prend fin pour
+les bénéficiaires de l'allocation supplémentaire du fonds spécial d'invalidité
+mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre le droit à
+pension de vieillesse.
 
 Toute reprise d'activité professionnelle entraîne la fin du versement du
 complément de ressources.

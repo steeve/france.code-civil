@@ -20,7 +20,11 @@ majoré le cas échéant de la dotation de fonctionnement minimale perçue en 20
 
 A compter de 2006, les départements éligibles ne peuvent percevoir une dotation
 de fonctionnement minimale inférieure à celle perçue l'année précédente ou
-supérieure à 130 % du montant perçu cette même année.
+supérieure à 130 % du montant perçu cette même année. Par dérogation, en 2007,
+les départements éligibles ne peuvent percevoir une dotation de fonctionnement
+minimale inférieure au montant perçu l'année précédente indexé selon le taux de
+progression de l'ensemble des ressources de la dotation globale de
+fonctionnement.
 
 La dotation revenant aux départements qui cessent de remplir les conditions pour
 bénéficier de la dotation de fonctionnement minimale est égale, la première

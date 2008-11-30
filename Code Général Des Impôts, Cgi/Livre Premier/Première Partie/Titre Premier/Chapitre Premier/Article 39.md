@@ -268,12 +268,9 @@ la phrase précédente, constituent des titres de participation les parts ou
 actions de sociétés revêtant ce caractère sur le plan comptable. Il en va de
 même des actions acquises en exécution d'une offre publique d'achat ou d'échange
 par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au
-régime des sociétés mères ou, lorsque leur prix de revient est au moins égal à
-22 800 000 Euros, qui satisfont aux conditions ouvrant droit à ce régime autres
-que la détention de 5 % au moins du capital de la société émettrice, si ces
-actions ou titres sont inscrits en comptabilité au compte de titres de
-participation ou à une subdivision spéciale d'un autre compte du bilan
-correspondant à leur qualification comptable.
+régime des sociétés mères, si ces actions ou titres sont inscrits en
+comptabilité au compte de titres de participation ou à une subdivision spéciale
+d'un autre compte du bilan correspondant à leur qualification comptable.
 
 Les provisions pour dépréciation, en ce qui concerne les titres et actions
 susvisés, précédemment comptabilisées seront rapportées aux résultats des

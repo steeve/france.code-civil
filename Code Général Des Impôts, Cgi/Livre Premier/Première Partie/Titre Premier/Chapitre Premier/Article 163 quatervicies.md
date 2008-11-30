@@ -46,7 +46,10 @@ mutualité.
 
 2. - a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour
 chaque membre du foyer fiscal dans une limite annuelle égale à la différence
-constatée au titre de l'année précédente entre :
+constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas
+été fiscalement domiciliées en France au cours des trois années civiles
+précédant celle au cours de laquelle elles s'y domicilient, au titre de cette
+dernière année, entre :
 
 1° une fraction égale à 10 % de ses revenus d'activité professionnelle tels que
 définis au II, retenus dans la limite de huit fois le montant annuel du plafond
@@ -63,6 +66,12 @@ une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la
 sécurité sociale, ainsi que des sommes versées par l'entreprise au plan
 d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du
 travail et exonérées en application du 18° de l'article 81.
+
+Les membres d'un couple marié ou les partenaires liés par un pacte civil de
+solidarité défini à l'article 515-1 du code civil, soumis à imposition commune,
+peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite
+annuelle égale au total des montants déductibles pour chaque membre du couple ou
+chaque partenaire du pacte (1).
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année
 entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou
@@ -86,6 +95,13 @@ incluse.
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la
 qualité de fonctionnaire ou d'agent public, en activité, affiliées après le 31
 décembre 2004.
+
+d) Les personnes qui, pour des raisons qui ne sont pas liées à la mise en oeuvre
+de procédures judiciaires, fiscales ou douanières, n'ont pas été fiscalement
+domiciliées en France au cours des trois années civiles précédant celle au cours
+de laquelle elles s'y domicilient bénéficient au titre de cette dernière année
+d'un plafond complémentaire de déduction égal au triple du montant de la
+différence définie au a.
 
 II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I
 s'entendent :

@@ -32,7 +32,6 @@ produite, prévu à l'article R. 1321-52, du cuivre et du nickel ;
 7° Les éléments descriptifs du système de production et de distribution de
 l'eau.
 
-Un arrêté du ministre chargé de la santé, pris après avis du Conseil supérieur
-d'hygiène publique de France, précise la nature des informations qui doivent
-figurer au dossier de la demande d'autorisation et notamment le nombre et le
-type des analyses à réaliser.
+Un arrêté du ministre chargé de la santé précise la nature des informations qui
+doivent figurer au dossier de la demande d'autorisation et notamment le nombre
+et le type des analyses à réaliser.

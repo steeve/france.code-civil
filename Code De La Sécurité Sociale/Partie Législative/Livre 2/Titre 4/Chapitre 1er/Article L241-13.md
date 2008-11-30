@@ -41,6 +41,11 @@ article s'appliquent sous réserve de celles de l'article 10 de la loi n° 2003-
 du 17 janvier 2003 relative aux salaires, au temps de travail et au
 développement de l'emploi.
 
+Pour les gains et rémunérations versés à compter du 1er juillet 2007 par les
+employeurs de un à dix-neuf salariés au sens des articles L. 620-10 et L. 620-11
+du code du travail, le coefficient maximal est de 0,281. Ce coefficient est
+atteint et devient nul dans les conditions mentionnées à l'alinéa précédent.
+
 IV. - Dans les professions dans lesquelles le paiement des congés des salariés
 et des charges sur les indemnités de congés est mutualisé entre les employeurs
 affiliés aux caisses de compensation prévues à l'article L. 223-16 du code du

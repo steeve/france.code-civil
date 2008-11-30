@@ -28,11 +28,17 @@ ressources de la dotation globale de fonctionnement, d'une part, et sa dotation
 de base pour 2005, d'autre part.
 
 A compter de 2006, le montant de la dotation de base par habitant de chaque
-département et, le cas échéant, sa garantie, évoluent chaque année selon un taux
-de progression fixé par le comité des finances locales entre 35 % et 70 % du
-taux de croissance de l'ensemble des ressources de la dotation globale de
-fonctionnement.
+département et, le cas échéant, sa garantie évoluent chaque année selon des taux
+de progression fixés par le Comité des finances locales. Ces taux sont compris,
+pour la dotation de base et sa garantie, respectivement entre 35 % et 70 % et
+entre 0 % et 50 % du taux de croissance de l'ensemble des ressources de la
+dotation globale de fonctionnement.
 
-A compter de 2005, la dotation forfaitaire du département de Paris est égale à
+En 2005, la dotation forfaitaire du département de Paris est égale à la dotation
+forfaitaire qu'il a perçue l'année précédente indexée selon le taux de
+progression fixé en application du quatrième alinéa.
+
+A compter de 2006, la dotation forfaitaire du département de Paris est égale à
 la dotation forfaitaire qu'il a perçue l'année précédente indexée selon le taux
-de progression fixé en application des deux alinéas précédents.
+de progression correspondant à la moyenne pondérée des deux taux fixés par le
+comité des finances locales en application du cinquième alinéa.

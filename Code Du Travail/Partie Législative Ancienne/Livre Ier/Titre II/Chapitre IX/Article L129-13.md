@@ -1,11 +1,13 @@
 Article L129-13
 ----
 L'aide financière du comité d'entreprise et l'aide financière de l'entreprise
-versées en faveur des salariés de celle-ci n'ont pas le caractère de
-rémunération au sens des articles L. 242-1 du code de la sécurité sociale et L.
-741-10 du code rural et pour l'application de la législation du travail, lorsque
-ces aides sont destinées soit à faciliter l'accès des services aux salariés,
-soit à financer :
+versées en faveur des salariés de celle-ci ainsi que l'aide financière de la
+personne morale de droit public destinée à financer les chèques emploi-service
+universels au bénéfice de ses agents et salariés et des ayants droit n'ont pas
+le caractère de rémunération au sens des articles L. 242-1 du code de la
+sécurité sociale et L. 741-10 du code rural et pour l'application de la
+législation du travail, lorsque ces aides sont destinées soit à faciliter
+l'accès des services aux salariés, soit à financer :
 
 1° Des activités entrant dans le champ des services mentionnés à l'article L.
 129-1 du présent code ;

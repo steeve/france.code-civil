@@ -14,9 +14,10 @@ règles applicables en matière de sécurité sociale ;
 des salaires et recouvrée suivant les règles applicables en matière de sécurité
 sociale.
 
-Les employeurs occupant moins de vingt salariés, l'Etat, les collectivités
-territoriales, leurs établissements publics administratifs et les employeurs
-relevant du régime agricole au regard des lois sur la sécurité sociale ne sont
-pas soumis à la contribution mentionnée au 2°. Le cinquième alinéa de l'article
-L. 620-10 du code du travail s'applique au calcul de l'effectif mentionné au
-présent article.
+Le taux de la contribution mentionnée au 2° est fixé à 0,20 % pour l'Etat, les
+collectivités territoriales et leurs établissements publics administratifs.
+
+Les employeurs occupant moins de vingt salariés et les employeurs relevant du
+régime agricole au regard des lois sur la sécurité sociale ne sont pas soumis à
+la contribution mentionnée au 2°. Le cinquième alinéa de l'article L. 620-10 du
+code du travail s'applique au calcul de l'effectif mentionné au présent article.

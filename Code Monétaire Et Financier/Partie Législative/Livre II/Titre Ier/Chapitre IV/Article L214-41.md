@@ -34,9 +34,10 @@ du respect du I bis du présent article et du quota d'investissement de 60 % qui
 leur est propre.
 
 I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au
-I, dans la limite de 20 % de l'actif du fonds, les titres mentionnés au 3 de
-l'article L. 214-36, sous réserve que la société émettrice réponde aux
-conditions mentionnées au I, à l'exception de celle tenant à la non-cotation.
+I les titres mentionnés au 3 de l'article L. 214-36 dans la limite, pour les
+titres qui sont admis aux négociations sur un marché réglementé, de 20 % de
+l'actif du fonds, sous réserve que la société émettrice réponde aux conditions
+prévues au I, à l'exception de celle tenant à la non-cotation.
 
 I ter. - Abrogé.
 

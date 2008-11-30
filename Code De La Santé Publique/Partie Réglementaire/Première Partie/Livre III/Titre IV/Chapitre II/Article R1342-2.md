@@ -12,11 +12,11 @@ concentration de celles-ci ;
 
 2° Du type de préparation.
 
-Des arrêtés des ministres mentionnés au premier alinéa du présent article, pris
-après avis du Conseil supérieur d'hygiène publique de France, fixent,
-conformément à ces règles, les modalités du classement des préparations dans les
-catégories mentionnées à l'article R. 1342-1 et les phrases types devant figurer
-sur l'emballage. Si l'intérêt de la santé publique l'exige, le ministre chargé
-de la santé peut, avant l'intervention d'un arrêté interministériel, classer une
-substance ou une préparation dans les catégories mentionnées ci-dessus. Cet
-arrêté est pris pour une durée de trois mois renouvelable une fois.
+Des arrêtés des ministres mentionnés au premier alinéa du présent article
+fixent, conformément à ces règles, les modalités du classement des préparations
+dans les catégories mentionnées à l'article R. 1342-1 et les phrases types
+devant figurer sur l'emballage. Si l'intérêt de la santé publique l'exige, le
+ministre chargé de la santé peut, avant l'intervention d'un arrêté
+interministériel, classer une substance ou une préparation dans les catégories
+mentionnées ci-dessus. Cet arrêté est pris pour une durée de trois mois
+renouvelable une fois.

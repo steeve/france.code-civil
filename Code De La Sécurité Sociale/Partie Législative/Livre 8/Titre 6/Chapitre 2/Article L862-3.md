@@ -12,7 +12,7 @@ prévues par l'article L. 174-2 ;
 
 d) Le produit de la cotisation mentionnée à l'article L. 245-7 ;
 
-e) Une fraction de 1,88 % du droit de consommation prévu à l'article 575 du code
+e) Une fraction de 4,34 % du droit de consommation prévu à l'article 575 du code
 général des impôts.
 
 Le solde annuel des dépenses et des recettes du fonds doit être nul.

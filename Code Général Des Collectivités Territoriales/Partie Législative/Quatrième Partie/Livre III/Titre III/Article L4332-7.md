@@ -17,6 +17,6 @@ entre 75 % et 95 % du taux de progression de l'ensemble des ressources de la
 dotation globale de fonctionnement.
 
 A compter de 2005, la dotation forfaitaire de chaque région évolue chaque année
-selon un taux de progression fixé par le comité des finances locales entre 75 %
-et 95 % du taux de progression de l'ensemble des ressources de la dotation
+selon un taux de progression fixé par le comité des finances locales entre 60 %
+et 90 % du taux de progression de l'ensemble des ressources de la dotation
 globale de fonctionnement.

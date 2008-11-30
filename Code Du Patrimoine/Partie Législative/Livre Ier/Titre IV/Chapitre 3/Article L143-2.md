@@ -15,7 +15,8 @@ restauration et de la valorisation du patrimoine et des sites.
 Elle apporte son concours à des personnes publiques ou privées, notamment par
 subvention, pour l'acquisition, l'entretien, la gestion et la présentation au
 public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection
-prévues par le présent code.
+prévues par le présent code, ainsi que pour la conservation de biens dans les
+conditions prévues à l'article L. 143-2-1.
 
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque
 cette acquisition est nécessaire aux actions de sauvegarde qu'elle met en place.
