@@ -1,7 +1,8 @@
 Article R76-1
 ----
 Sous réserve des dispositions de l'article R. 76, la gestion, l'entretien et le
-gardiennage d'un immeuble domanial à destination de logement, affecté à un
+gardiennage d'un immeuble domanial à destination de logement, qui fait l'objet
+d'une convention d'utilisation mentionnée à l'article R. 128-12 avec un
 département ministériel, peuvent être confiés à un organisme d'habitations à
 loyer modéré ou à une société d'économie mixte.
 
