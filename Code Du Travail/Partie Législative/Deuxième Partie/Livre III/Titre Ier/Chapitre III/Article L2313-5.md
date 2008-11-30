@@ -6,11 +6,11 @@ contrats suivants :
 
 1° Contrats d'accompagnement dans l'emploi ;
 
-2° Contrats d'avenir ;
+2° (Abrogé) ;
 
 3° Contrats initiative emploi ;
 
-4° Contrats insertion-revenu minimum d'activité.
+4° (Abrogé) .
 
 En l'absence de comité d'entreprise, l'employeur informe les délégués du
 personnel, une fois par an, des éléments qui l'ont conduit à faire appel, au

@@ -1,7 +1,7 @@
 Article L5134-66
 ----
-L'Etat conclut des conventions ouvrant droit au bénéfice du contrat
-initiative-emploi avec :
+Les conventions ouvrant droit au bénéfice du contrat initiative-emploi peuvent
+être conclues avec :
 
 1° Les employeurs mentionnés à l'article L. 5422-13 et aux 3° et 4° de l'article
 L. 5424-1 ;

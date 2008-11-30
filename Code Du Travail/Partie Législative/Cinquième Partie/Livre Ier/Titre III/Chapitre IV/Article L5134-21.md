@@ -1,7 +1,7 @@
 Article L5134-21
 ----
-L'Etat peut conclure des conventions ouvrant droit au bénéfice de contrats
-d'accompagnement dans l'emploi, avec :
+Les conventions ouvrant droit au bénéfice du contrat d'accompagnement dans
+l'emploi peuvent être conclues avec :
 
 1° Les collectivités territoriales ;
 

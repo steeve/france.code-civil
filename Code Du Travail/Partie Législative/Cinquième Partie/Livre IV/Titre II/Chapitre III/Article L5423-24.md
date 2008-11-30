@@ -4,11 +4,10 @@ Le fonds de solidarité gère les moyens de financement :
 
 1° De la prime de retour à l'emploi prévue à l'article L. 5133-1 ;
 
-2° Des aides mentionnées à l'article L. 5134-51 pour le contrat d'avenir et à
-l'article L. 5134-95 pour le contrat insertion-revenu minimum d'activité en tant
-qu'elles concernent les employeurs qui ont conclu un contrat d'avenir ou un
-contrat insertion-revenu minimum d'activité avec une personne en sa qualité de
-bénéficiaire de l'allocation de solidarité spécifique ;
+2° Des aides mentionnées aux articles L. 5134-30 et L. 5134-72 en tant qu'elles
+concernent les employeurs qui ont conclu un contrat unique d'insertion avec une
+personne qui était, avant son embauche, bénéficiaire de l'allocation de
+solidarité spécifique ;
 
 3° De l'allocation de solidarité spécifique prévue à l'article L. 5423-1 ;
 

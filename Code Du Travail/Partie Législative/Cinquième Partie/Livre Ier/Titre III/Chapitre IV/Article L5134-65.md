@@ -2,15 +2,7 @@ Article L5134-65
 ----
 Le contrat initiative-emploi a pour objet de faciliter l'insertion
 professionnelle des personnes sans emploi rencontrant des difficultés sociales
-et professionnelles d'accès à l'emploi.
-
-Il donne lieu :
-
-1° A la conclusion d'une convention entre l'Etat et l'employeur dans les
-conditions prévues à la sous-section 2 ;
-
-2° A la conclusion d'un contrat de travail entre l'employeur et le bénéficiaire
-de la convention dans les conditions prévues à la sous-section 3 ;
-
-3° A l'attribution d'une aide financière dans les conditions prévues à la
-sous-section 4.
+et professionnelles d'accès à l'emploi. À cette fin, il comporte des actions
+d'accompagnement professionnel. Les actions de formation nécessaires à la
+réalisation du projet professionnel de la personne peuvent être mentionnées dans
+la convention ; elles sont menées dans le cadre défini à l'article L. 6312-1.

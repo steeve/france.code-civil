@@ -19,8 +19,7 @@ nature temporaire de cet emploi ;
 4° Lorsque le contrat est conclu pour assurer le remplacement de l'une des
 personnes mentionnées aux 4° et 5° de l'article L. 1251-6 ;
 
-5° Lorsque le contrat de mission est conclu au titre du contrat
-d'insertion-revenu minimum d'activité prévu à l'article L. 5134-82 ;
+5° (Abrogé) ;
 
 6° Lorsque le salarié est à l'initiative d'une rupture anticipée du contrat ;
 
