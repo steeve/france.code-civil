@@ -22,5 +22,4 @@ l'âge est supérieur aux limites fixées pour le bénéfice des allocations
 familiales est cumulable avec les majorations de retraites ou de pensions
 susmentionnées allouées du chef de ces enfants.
 
-Le présent article n'est applicable ni à l'allocation de soutien familial, ni à
-l'allocation de parent isolé.
+Le présent article n'est pas applicable à l'allocation de soutien familial.

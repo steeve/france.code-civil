@@ -10,9 +10,10 @@ imposés à la taxe d'habitation ;
 
 2° Bénéficient d'un dégrèvement de la redevance audiovisuelle, les personnes
 exonérées ou dégrevées de la taxe d'habitation en application des 2° et 3° du II
-de l'article 1408, des I, III et IV de l'article 1414, de l'article 1414 B
+de l'article 1408, des I et IV de l'article 1414, de l'article 1414 B
 lorsqu'elles remplissent les conditions prévues au I de l'article 1414 et de
-l'article 1649 ;
+l'article 1649, ainsi que les personnes dont le montant des revenus mentionnés
+au II de l'article 1414 A est nul ;
 
 3° Les personnes exonérées de la redevance audiovisuelle au 31 décembre 2004 en
 application des A et B du IV de l'article 37 de la loi de finances pour 2004 (n°
@@ -27,19 +28,38 @@ des redevables visés au A du même IV, lorsque :
 
 a. La condition de non-imposition à l'impôt sur le revenu est satisfaite pour
 les revenus perçus au titre de l'année précédant celle au cours de laquelle la
-redevance audiovisuelle est due ;
+redevance ou la contribution est due ;
 
 b. La condition d'occupation de l'habitation prévue par l'article 1390 est
 remplie ;
 
 c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
 titre de l'année précédant celle au cours de laquelle la redevance audiovisuelle
-est due ;
+est due est due ;
 
 Pour les années 2008 et 2009, les redevables âgés de plus de soixante-cinq ans
 au 1er janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un
 dégrèvement de la redevance audiovisuelle lorsqu'ils remplissent les conditions
 prévues aux a, b et c ;
+
+3° bis Les contribuables bénéficiaires en 2009 du revenu minimum d'insertion,
+lorsqu'ils occupent leur habitation principale dans les conditions prévues à
+l'article 1390, bénéficient d'un dégrèvement de la redevance audiovisuelle au
+titre de l'année 2009.
+
+Le bénéfice de ce dégrèvement est maintenu à partir de 2010 et jusqu'en 2011
+lorsque :
+
+a) D'une part, le montant des revenus mentionnés au II de l'article 1414 A,
+perçus au titre de l'année précédant celle au cours de laquelle la contribution
+est due, n'excède pas celui de l'abattement mentionné au I du même article ;
+
+b) D'autre part, le redevable est bénéficiaire de la prestation mentionnée à
+l'article L. 262-1 du code de l'action sociale et des familles.
+
+Le bénéfice de ce dégrèvement est définitivement perdu à compter de l'année au
+cours de laquelle l'une au moins des conditions prévues aux a et b n'est plus
+remplie ;
 
 4° a. Les personnes qui ne détiennent aucun appareil récepteur de télévision ou
 dispositif assimilé permettant la réception de la télévision doivent le
@@ -76,7 +96,7 @@ dans un local meublé affecté à l'habitation, occupé à titre d'habitation au
 que principale et imposé à la taxe d'habitation au nom de plusieurs personnes
 qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas
 d'appareil dans leur habitation principale, ces personnes doivent désigner celle
-d'entre elles qui sera redevable de la redevance audiovisuelle.A défaut, la
+d'entre elles qui sera redevable de la redevance audiovisuelle. A défaut, la
 redevance audiovisuelle est due par les personnes dont le nom est porté sur
 l'avis d'imposition de taxe d'habitation afférent à ce local ;
 
@@ -86,11 +106,11 @@ fois et pour une période de douze mois. Cette période est décomptée à parti
 la date anniversaire du premier jour de la période au titre de laquelle elle
 était due en 2004 ;
 
-b. La redevance audiovisuelle n'est pas due lorsque, à la date du début de la
-période de douze mois mentionnée au a, le redevable est décédé, n'est plus
-imposable à la taxe d'habitation pour un local meublé affecté à l'habitation par
-suite d'un déménagement à l'étranger ou ne détient plus un appareil récepteur de
-télévision ou un dispositif assimilé.
+b. La contribution à l'audiovisuel public n'est pas due lorsque, à la date du
+début de la période de douze mois mentionnée au a, le redevable est décédé,
+n'est plus imposable à la taxe d'habitation pour un local meublé affecté à
+l'habitation par suite d'un déménagement à l'étranger ou ne détient plus un
+appareil récepteur de télévision ou un dispositif assimilé.
 
 Une seule redevance audiovisuelle est due lorsque des redevables personnellement
 imposés à la taxe d'habitation pour leur habitation principale occupent, à la

@@ -47,16 +47,10 @@ Les obligations déclaratives à la charge des personnes ou organismes entrant
 dans le champ d'application des premier à troisième alinéas sont fixées par
 décret.
 
-III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office de
-la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
-cette habitation dans les conditions prévues à l'article 1390.
-
-Les dispositions du premier alinéa sont maintenues au titre de l'année suivant
-celle au cours de laquelle le redevable cesse d'être bénéficiaire du revenu
-minimum d'insertion.
+III. (Abrogé).
 
 IV. Les contribuables visés au 2° du I sont également dégrevés de la taxe
 d'habitation afférente à leur habitation principale lorsqu'ils occupent cette
 habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
-demandeurs d'emploi et ne disposent pas de ressources supérieures au revenu
-minimum d'insertion.
+demandeurs d'emploi et ne disposent pas de ressources supérieures au montant de
+l'abattement fixé au I de l'article 1414 A.

@@ -1,10 +1,15 @@
 Article L5212-14
 ----
-Pour le calcul du nombre des bénéficiaires de l'obligation d'emploi, par
-dérogation aux dispositions de l'article L. 1111-2, chaque personne compte pour
-une unité s'il a été présent six mois au moins au cours des douze derniers mois,
-quelle que soit la nature du contrat de travail ou sa durée.
+Pour le calcul du nombre de bénéficiaires de l'obligation d'emploi, chaque
+personne est prise en compte à due proportion de son temps de présence dans
+l'entreprise au cours de l'année civile, quelle que soit la nature ou la durée
+de son contrat de travail, dans la limite d'une unité et dans les conditions
+suivantes :
 
-Les salariés temporaires et les salariés mis à disposition par une entreprise
-extérieure sont pris en compte a due proportion de leur temps de présence dans
-l'entreprise au cours des douze mois précédents.
+- les salariés dont la durée de travail est supérieure ou égale à la moitié de
+la durée légale ou conventionnelle sont décomptés dans la limite d'une unité
+comme s'ils avaient été employés à temps complet ;
+
+- les salariés dont la durée de travail est inférieure à la moitié de la durée
+légale ou conventionnelle sont décomptés dans des conditions fixées par décret
+sans que leur prise en compte puisse dépasser une demi-unité.

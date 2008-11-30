@@ -16,7 +16,6 @@ Les prestations familiales comprennent :
 
 7°) l'allocation de rentrée scolaire ;
 
-8°) l'allocation de parent isolé et la prime forfaitaire instituée par l'article
-L. 524-5 ;
+8°) (Abrogé) ;
 
 9°) l'allocation journalière de présence parentale.

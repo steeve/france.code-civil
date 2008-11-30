@@ -4,8 +4,9 @@ Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-derniè
 phrase des articles L. 331-7 et L. 331-7-1 et de la dernière phrase de l'article
 L. 332-9, sont applicables en Nouvelle-Calédonie, sous les réserves suivantes :
 
-a) A l'article L. 331-2, la référence au revenu minimum d'insertion est
-remplacée par la référence à un montant fixé par le représentant de l'Etat ;
+a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à
+l'article L. 262-2 du code de l'action sociale et des familles est remplacée par
+la référence à un montant fixé par le représentant de l'Etat ;
 
 b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les
 dispositions suivantes :
@@ -25,8 +26,8 @@ procéder, à sa demande, à des enquêtes sociales ;
 c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L.
 331-4 et L. 332-2 sont fixés par les autorités locales compétentes ;
 
-d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : "figurant sur
-une liste établie dans des conditions fixées par décret en Conseil d'Etat" sont
+d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : " figurant sur
+une liste établie dans des conditions fixées par décret en Conseil d'Etat " sont
 supprimés.
 
 Pour l'application de ces dispositions :
@@ -35,6 +36,6 @@ a) Les références aux dispositions législatives du code du travail et du code
 procédure civile sont remplacées par les références aux dispositions applicables
 localement ayant le même objet ;
 
-b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par
-les mots : "président du tribunal de première instance ou les juges délégués par
-lui".
+b) Les mots : " juge de l'exécution " sont remplacés partout où ils figurent par
+les mots : " président du tribunal de première instance ou les juges délégués
+par lui ".

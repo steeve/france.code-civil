@@ -11,8 +11,9 @@ autorisée que pour les personnes ayant fait l'objet de l'agrément de
 l'institution mentionnée à l'article L. 5312-1 mentionné à l'article L. 5132-3 ;
 
 2° La durée totale des mises à disposition d'un même salarié ne peut excéder une
-durée déterminée par décret en Conseil d'Etat, par périodes de douze mois à
-compter de la date de la première mise à disposition.
+durée déterminée par décret, pour une durée de vingt-quatre mois à compter de la
+première mise à disposition. Dans l'attente du décret susmentionné, cette durée
+est fixée à 480 heures.
 
 Ces dispositions ne sont pas applicables en cas de mise à disposition auprès de
 personnes physiques pour des activités ne ressortissant pas à leurs exercices

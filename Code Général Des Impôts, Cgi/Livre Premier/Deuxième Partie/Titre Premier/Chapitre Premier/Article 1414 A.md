@@ -80,3 +80,10 @@ Cette disposition est également applicable lorsque les abattements sont fixés 
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les
 abattements afférents à l'année 2003 sont majorés dans les conditions prévues au
 deuxième alinéa du IV dudit article.
+
+3. Lorsque la cotisation de taxe d'habitation du contribuable résulte
+exclusivement de l'application des dispositions prévues aux 1 et 2, le
+dégrèvement prévu au I est, après application de ces dispositions, majoré d'un
+montant égal à la fraction de cette cotisation excédant le rapport entre le
+montant des revenus déterminé conformément au II et celui de l'abattement
+mentionné au I.

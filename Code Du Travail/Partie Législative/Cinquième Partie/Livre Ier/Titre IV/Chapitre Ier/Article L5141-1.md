@@ -12,8 +12,8 @@ profession non salariée :
 2° Les demandeurs d'emploi non indemnisés inscrits à l'institution mentionnée à
 l'article L. 5312-1 six mois au cours des dix-huit derniers mois ;
 
-3° Les bénéficiaires de l'allocation de revenu minimum d'insertion, de
-l'allocation de solidarité spécifique ou de l'allocation de parent isolé ;
+3° Les bénéficiaires de l'allocation de solidarité spécifique ou du revenu de
+solidarité active ;
 
 4° Les personnes remplissant les conditions pour bénéficier du contrat
 emploi-jeune ;

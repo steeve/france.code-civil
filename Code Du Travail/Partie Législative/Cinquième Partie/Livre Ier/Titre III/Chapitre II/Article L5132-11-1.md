@@ -1,8 +1,8 @@
-Article L5132-5
+Article L5132-11-1
 ----
-Les entreprises d'insertion concluent avec des personnes sans emploi rencontrant
-des difficultés sociales et professionnelles particulières des contrats à durée
-déterminée en application de l'article L. 1242-3.
+Les associations intermédiaires peuvent conclure avec des personnes sans emploi
+rencontrant des difficultés sociales et professionnelles particulières des
+contrats à durée déterminée en application de l'article L. 1242-3.
 
 Ces contrats peuvent, aux fins de développer l'expérience et les compétences du
 salarié, prévoir, par avenant, une période d'immersion auprès d'un autre

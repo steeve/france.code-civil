@@ -3,8 +3,8 @@ Article L334-9
 Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière
 phrase des articles L. 331-7 et L. 331-7-1, sont applicables aux îles Wallis et
 Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au revenu
-minimum d'insertion par la référence à un montant fixé par l'administrateur
-supérieur.
+minimum garanti mentionné à l'article L. 262-2 du code de l'action sociale et
+des familles par la référence à un montant fixé par l'administrateur supérieur.
 
 Pour l'application de ces dispositions :
 

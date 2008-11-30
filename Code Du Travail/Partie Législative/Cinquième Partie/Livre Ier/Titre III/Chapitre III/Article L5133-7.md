@@ -1,7 +1,7 @@
 Article L5133-7
 ----
-Un décret en Conseil d'Etat détermine les conditions d'application du présent
-chapitre, notamment :
+Un décret en Conseil d'Etat détermine les conditions d'application de la
+présente section, notamment :
 
 1° La durée de travail minimale et le nombre de mois consécutifs d'activité
 auxquels est subordonné le versement de la prime de retour à l'emploi, son

@@ -65,9 +65,8 @@ effectuer les actes ordinaires de la vie ;
 9° ter La prestation de compensation servie en vertu des dispositions de
 l'article L. 245-1 du code de l'action sociale et des familles ;
 
-9° quater Les primes forfaitaires instituées respectivement par les articles L.
-262-11 du code de l'action sociale et des familles, L. 524-5 du code de la
-sécurité sociale et L. 5425-3 du code du travail ;
+9° quater La prime forfaitaire instituée par l'article L. 5425-3 du code du
+travail ;
 
 9° quinquies La prime de retour à l'emploi instituée par l'article L. 5133-1 du
 code du travail ;
@@ -170,8 +169,8 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5, 19 € par titre, le complément de rémunération résultant
-de la contribution de l'employeur à l'acquisition par le salarié des
+19° Dans la limite de 5, 19 euros par titre, le complément de rémunération
+résultant de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette
 contribution est comprise entre un minimum et un maximum fixés par arrêté du
@@ -257,7 +256,7 @@ les corps de sapeurs-pompiers ;
 versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre
 2008 de finances pour 2009 ;
 
-30° bis.L'indemnité de départ volontaire versée en application du I de l'article
+30° bis L'indemnité de départ volontaire versée en application du I de l'article
 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
@@ -300,7 +299,7 @@ d'imposition, à l'exception des agents publics percevant une rémunération dan
 le cadre de leur formation, en rémunération d'activités exercées pendant leurs
 études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou
 universitaires, dans la limite de trois fois le montant mensuel du salaire
-minimum de croissance ;
+minimum de croissance (1) ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du
 travail.

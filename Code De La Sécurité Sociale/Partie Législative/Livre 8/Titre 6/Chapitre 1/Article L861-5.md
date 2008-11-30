@@ -11,6 +11,11 @@ par décision du représentant de l'Etat dans le département ainsi que les
 établissements de santé apportent leur concours aux intéressés dans leur demande
 de protection complémentaire et sont habilités, avec l'accord du demandeur, à
 transmettre la demande et les documents correspondants à l'organisme compétent.
+Cette transmission est effectuée sans délai. Il en est de même des organismes
+chargés du service du revenu de solidarité active pour les demandeurs et
+bénéficiaires de ce revenu et dont les ressources sont inférieures au montant
+forfaitaire visé au 2° de l'article L. 262-2 du code de l'action sociale et des
+familles.
 
 La décision est prise par l'autorité administrative qui peut déléguer ce pouvoir
 au directeur de la caisse. Cette décision doit être notifiée au demandeur dans

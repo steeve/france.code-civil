@@ -38,18 +38,19 @@ organismes habilités à percevoir ces taxes ;
 
 e) Les contributions et prélèvements, prévus aux articles L. 136-6 et L. 245-14
 du code de la sécurité sociale et à l'article 15 de l'ordonnance n° 96-50 du 24
-janvier 1996 relative au remboursement de la dette sociale, ainsi que la
-contribution additionnelle à ces prélèvements, prévue au 2° de l'article L.
-14-10-4 du code de l'action sociale et des familles, sur les revenus du
-patrimoine compris dans les revenus mentionnés au 4 ;
+janvier 1996 relative au remboursement de la dette sociale, ainsi que les
+contributions additionnelles à ces prélèvements, prévues au 2° de l'article L.
+14-10-4 et au III de l'article L. 262-24 du code de l'action sociale et des
+familles, sur les revenus du patrimoine compris dans les revenus mentionnés au 4
+;
 
 f) Les contributions et prélèvements, prévus aux articles L. 136-1 à L. 136-5,
 L. 136-7 et L. 245-15 du code de la sécurité sociale et aux articles 14 et 16 de
-l'ordonnance n° 96-50 du 24 janvier 1996 précitée, ainsi que la contribution
-additionnelle à ces prélèvements, prévue au 2° de l'article L. 14-10-4 du code
-de l'action sociale et des familles, sur les revenus d'activité et de
-remplacement et les produits de placement compris dans les revenus mentionnés au
-4.
+l'ordonnance n° 96-50 du 24 janvier 1996 précitée, ainsi que les contributions
+additionnelles à ces prélèvements, prévues au 2° de l'article L. 14-10-4 et au
+III de l'article L. 262-24 du code de l'action sociale et des familles, sur les
+revenus d'activité et de remplacement et les produits de placement compris dans
+les revenus mentionnés au 4.
 
 3. Les impositions mentionnées au 2 sont diminuées des restitutions de l'impôt
 sur le revenu perçues ou des dégrèvements obtenus au cours de l'année suivant
@@ -166,10 +167,10 @@ provisionnels qui ont déjà donné lieu à une imputation.
 Ces déclarations sont contrôlées selon les mêmes règles, garanties et sanctions
 que celles prévues en matière d'impôt sur le revenu, même lorsque les revenus
 pris en compte pour la détermination du plafonnement sont issus d'une période
-prescrite.L'article 1783 sexies est applicable.
+prescrite. L'article 1783 sexies est applicable.
 
 Lorsque le contribuable pratique une ou plusieurs imputations en application du
 présent 9, il conserve la possibilité de déposer une demande de restitution,
 dans les conditions mentionnées au 8, pour la part non imputée de la créance
-mentionnée au premier alinéa.A compter de cette demande, il ne peut plus imputer
-cette créance dans les conditions prévues au présent 9.
+mentionnée au premier alinéa. A compter de cette demande, il ne peut plus
+imputer cette créance dans les conditions prévues au présent 9.

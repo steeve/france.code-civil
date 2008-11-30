@@ -21,8 +21,5 @@ personnes salariées et non-salariées des régimes agricoles ;
 
 4°) une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant
-correspondant à l'application d'une taxe de 1,1 % à l'assiette des contributions
-;
-
-5°) la subvention de l'Etat correspondant aux sommes versées au titre de
-l'allocation de parent isolé prévue aux articles L. 524-1 et L. 755-18.
+correspondant à l'application d'une taxe de 1, 1 % à l'assiette des
+contributions.
