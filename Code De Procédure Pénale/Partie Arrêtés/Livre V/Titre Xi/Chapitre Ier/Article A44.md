@@ -892,8 +892,7 @@ Circonscription judiciaire de Nevers.
 
 Maison d'arrêt de Nevers.
 
-(Arr. 11 sept. 2007, art. 2) Service pénitentiaire d'insertion et de probation
-du Nord.
+Service pénitentiaire d'insertion et de probation du Nord.
 
 Lille.
 
@@ -902,8 +901,8 @@ Antenne de Lille-Loos-Sequedin.
 Circonscription judiciaire de Lille.
 
 Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de
-Sequedin, quartier maison d'arrêt de Loos et quartier centre de détention de
-Loos). Centre de semi-liberté d'Haubourdin.
+Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos,
+quartier de semi-liberté d'Haubourdin).
 
 Antenne d'Avesnes-sur-Helpe-Maubeuge.
 
@@ -935,22 +934,17 @@ Beauvais.
 
 Antenne de Beauvais.
 
-Circonscription judiciaire de Beauvais.
-
-Maison d'arrêt de Beauvais.
+Sans changement.
 
 Antenne de Compiègne.
 
-Circonscription judiciaire de Compiègne.
+Sans changement.
 
-Maison d'arrêt de Compiègne.
+Antenne de Liancourt.
 
-(Arr. 1 er oct. 2004, art. 2) Antenne de Liancourt.
+Sans changement.
 
-Centre pénitentiaire de Liancourt (quartier centre de détention de Verderonne
-inclus).
-
-Antenne de Senlis.
+Antenne de Creil.
 
 Circonscription judiciaire de Senlis.
 

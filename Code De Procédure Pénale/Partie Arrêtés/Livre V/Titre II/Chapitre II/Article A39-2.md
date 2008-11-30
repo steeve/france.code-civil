@@ -13,8 +13,6 @@ Centre de semi-liberté de Gagny (Seine-Saint-Denis).
 
 Centre de semi-liberté de Grenoble (hommes, femmes) (Isère).
 
-Centre de semi-liberté d'Haubourdin (hommes, femmes) (Nord).
-
 Centre de semi-liberté de Lyon (hommes, femmes) (Rhône).
 
 Centre de semi-liberté de Maxeville (hommes, femmes) (Meurthe-et-Moselle).
