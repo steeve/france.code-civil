@@ -67,3 +67,63 @@ assurer le financement communautaire des programmes de travail élaborés par de
 organisations d'opérateurs agréés, tels que définis à l'article 8 du règlement
 (CE) n° 865/2004 du Conseil du 29 avril 2004 portant organisation commune des
 marchés dans le secteur de l'huile d'olive et des olives de tabac.
+
+VI. - Pour l'application de l'article 37 et du M de l'annexe VII du règlement
+(CE) n° 1782/2003 du Conseil du 29 septembre 2003 susmentionné, les montants
+pour les tomates destinées à la transformation mentionnés au III sont répartis
+entre les agriculteurs ayant perçu, pendant au moins une année au cours de la
+période 2001 à 2006, l'aide mentionnée à l'article 2 du règlement (CE) n°
+2201/96 du Conseil du 28 octobre 1996 portant organisation commune des marchés
+dans le secteur des produits transformés à base de fruits et légumes.
+
+La composante des paiements relatifs aux tomates destinées à la transformation à
+inclure dans le montant de référence, mentionné au M de l'annexe VII du
+règlement du 29 septembre 2003 susmentionné, correspond à la moyenne des
+quantités de tomates livrées à la transformation, au cours de chaque campagne de
+la période 2001 à 2006, multipliée par un coefficient exprimé en euros par
+tonne. Les quantités de tomates livrées à la transformation ainsi que le
+coefficient applicable sont déterminés par arrêté du ministre chargé de
+l'agriculture.
+
+Des droits à paiement unique sont attribués, à compter du 15 mai 2008, aux
+agriculteurs satisfaisant aux conditions mentionnées au premier alinéa, selon
+les modalités prévues à l'article 48 octies du règlement (CE) n° 795/2004 de la
+Commission du 21 avril 2004 modifié portant modalités d'application du régime de
+paiement unique prévu par le règlement (CE) n° 1782/2003.
+
+La surface relative à la tomate prise en compte pour le calcul de la valeur des
+droits à paiement unique correspond à la moyenne, au cours de la période 2001 à
+2006, des surfaces implantées en tomates destinées à la transformation,
+déterminées selon des modalités fixées par arrêté du ministre chargé de
+l'agriculture.
+
+Lorsque, pour une année donnée de la période 2001 à 2006, aucune donnée relative
+à la surface implantée en tomates destinées à la transformation n'est
+disponible, la surface à prendre en compte pour le calcul de la valeur des
+droits à paiement unique est déterminée par l'arrêté mentionné à l'alinéa
+précédent.
+
+VII. - Pour l'application de l'article 37 et du M de l'annexe VII du règlement
+(CE) n° 1782/2003 du 29 septembre 2003 susmentionné, la part mentionnée au III
+de la composante du plafond national incluse dans le régime de paiement unique,
+calculée compte tenu des aides à la transformation de prunes d'ente, pêches et
+poires destinées à la transformation, est utilisée au bénéfice des agriculteurs
+qui exploitaient, au cours de l'année 2007, un verger d'au moins 0,5 hectare et
+qui étaient titulaires soit d'un engagement à livrer à la transformation, soit
+d'un contrat de transformation des cerises bigarreaux préalablement établi avec
+un transformateur dans le cadre des accords interprofessionnels de l'association
+nationale interprofessionnelle du bigarreau d'industrie en vigueur au cours de
+cette même période.
+
+La composante des paiements relatifs aux cerises bigarreaux destinées à la
+transformation à inclure dans le montant de référence, mentionnée au M de
+l'annexe VII du règlement du 29 septembre 2003 susmentionné, correspond à la
+surface implantée, au cours de l'année 2007, en cerises bigarreaux destinées à
+la transformation, multipliée par un coefficient exprimé en euros par hectare.
+La surface à prendre en compte ainsi que le coefficient applicable sont définis
+par arrêté du ministre chargé de l'agriculture.
+
+Des droits à paiement unique sont attribués, à compter du 15 mai 2008, aux
+agriculteurs satisfaisant aux conditions mentionnées au premier alinéa, selon
+les modalités mentionnées à l'article 48 octies du règlement (CE) n° 795/2004 du
+21 avril 2004 susmentionné.
