@@ -19,4 +19,6 @@ Les fonctions cumulées accomplies à un ou plusieurs titres sur une même péri
 sont prises en compte au maximum pour un temps plein.
 
 Les décisions de classement prévues au présent article sont prononcées par
-arrêté du ministre chargé de la santé.
+arrêté du directeur général du Centre national de gestion des praticiens
+hospitaliers et des personnels de direction de la fonction publique
+hospitalière.

@@ -1,11 +1,12 @@
 Article R6152-246
 ----
-La mise en disponibilité ou son renouvellement sont prononcés par le ministre
-chargé de la santé. La décision initiale et son premier renouvellement
-interviennent, sauf dans les cas prévus aux articles R. 6152-229 à R. 6152-232,
-R. 6152-236-1, R. 6152-243, R. 6152-273 et R. 6152-274, après avis de la
-commission médicale d'établissement et du conseil exécutif de l'établissement
-dans lequel exerce l'intéressé.
+La mise en disponibilité ou son renouvellement sont prononcés par le directeur
+général du Centre national de gestion des praticiens hospitaliers et des
+personnels de direction de la fonction publique hospitalière. La décision
+initiale et son premier renouvellement interviennent, sauf dans les cas prévus
+aux articles R. 6152-229 à R. 6152-232, R. 6152-236-1, R. 6152-243, R. 6152-273
+et R. 6152-274, après avis de la commission médicale d'établissement et du
+conseil exécutif de l'établissement dans lequel exerce l'intéressé.
 
 La demande de mise en disponibilité doit être présentée par le praticien au
 moins deux mois à l'avance.

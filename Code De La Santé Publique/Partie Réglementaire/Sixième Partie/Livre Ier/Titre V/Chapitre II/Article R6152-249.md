@@ -17,11 +17,14 @@ totale ou partielle des émoluments ;
 
 6° La révocation.
 
-L'avertissement et le blâme sont prononcés par le ministre chargé de la santé,
-après avis du conseil d'administration et de la commission médicale de
-l'établissement où exerce le praticien ou d'une commission restreinte désignée
-par cette dernière à cet effet, et après communication de son dossier à
-l'intéressé. Ces décisions sont motivées.
+L'avertissement et le blâme sont prononcés par le directeur général du Centre
+national de gestion des praticiens hospitaliers et des personnels de direction
+de la fonction publique hospitalière, après avis du conseil d'administration et
+de la commission médicale de l'établissement où exerce le praticien ou d'une
+commission restreinte désignée par cette dernière à cet effet, et après
+communication de son dossier à l'intéressé. Ces décisions sont motivées.
 
-Les autres sanctions sont prononcées par décision motivée du ministre chargé de
-la santé, après avis d'un conseil de discipline national.
+Les autres sanctions sont prononcées par décision motivée du directeur général
+du Centre national de gestion des praticiens hospitaliers et des personnels de
+direction de la fonction publique hospitalière, après avis d'un conseil de
+discipline national.

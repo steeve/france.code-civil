@@ -10,13 +10,14 @@ les missions d'un établissement de santé ou à gérer une pharmacie à usage
 intérieur ou d'un groupement d'intérêt public entrant dans l'un des cas prévus
 aux articles L. 6115-2 et L. 6134-1.
 
-La mise à disposition est prononcée par arrêté du ministre chargé de la santé,
-après signature d'une convention passée entre l'établissement public de santé
-d'affectation et l'administration de l'Etat, l'établissement public de l'Etat,
-le syndicat interhospitalier, le groupement de coopération sanitaire ou le
-groupement d'intérêt public d'accueil après avis de la commission médicale
-d'établissement et du conseil d'administration de l'établissement d'affectation
-de l'intéressé.
+La mise à disposition est prononcée par arrêté du directeur général du Centre
+national de gestion des praticiens hospitaliers et des personnels de direction
+de la fonction publique hospitalière, après signature d'une convention passée
+entre l'établissement public de santé d'affectation et l'administration de
+l'Etat, l'établissement public de l'Etat, le syndicat interhospitalier, le
+groupement de coopération sanitaire ou le groupement d'intérêt public d'accueil
+après avis de la commission médicale d'établissement et du conseil
+d'administration de l'établissement d'affectation de l'intéressé.
 
 Cette convention précise notamment la durée de la mise à disposition ainsi que
 les conditions d'emploi et de retour dans l'établissement public de santé
