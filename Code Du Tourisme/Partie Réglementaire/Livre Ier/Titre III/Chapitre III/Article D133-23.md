@@ -6,8 +6,6 @@ représentant, comprend :
 - quatre représentants de la Fédération nationale des offices de tourisme et
 syndicats d'initiative, désignés par cette fédération ;
 
-- un inspecteur général du tourisme ;
-
 - le directeur d'ODIT France (observation, développement et ingénierie
 touristiques) ou son représentant ;
 
