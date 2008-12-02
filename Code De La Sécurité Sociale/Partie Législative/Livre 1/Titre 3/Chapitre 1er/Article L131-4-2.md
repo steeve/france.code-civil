@@ -13,6 +13,13 @@ rémunération horaire inférieure ou égale au salaire minimum de croissance ma
 de 50 % et devienne nulle pour une rémunération horaire égale ou supérieure au
 salaire minimum de croissance majoré de 140 %.
 
+Lorsque l'employeur n'a pas rempli au cours d'une année civile l'obligation
+définie au 1° de l'article L. 2242-8 du code du travail dans les conditions
+prévues aux articles L. 2242-1 à L. 2242-4 du même code, le montant de
+l'exonération est diminué de 10 % au titre des rémunérations versées cette même
+année. Il est diminué de 100 % lorsque l'employeur ne remplit pas cette
+obligation pour la troisième année consécutive.
+
 II.-Ouvrent droit à l'exonération prévue au I, lorsqu'elles n'ont pas pour effet
 de porter l'effectif total de l'entreprise à plus de cinquante salariés, les
 embauches réalisées par les entreprises et les groupements d'employeurs exerçant

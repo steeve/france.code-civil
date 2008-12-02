@@ -59,6 +59,13 @@ exclusivement mis à la disposition, au cours d'un même mois, des membres de ce
 groupements qui ont un effectif de dix-neuf salariés au plus au sens de
 l'article L. 620-10 du code du travail.
 
+Lorsque l'employeur n'a pas rempli au cours d'une année civile l'obligation
+définie au 1° de l'article L. 2242-8 du code du travail dans les conditions
+prévues aux articles L. 2242-1 à L. 2242-4 du même code, le montant de la
+réduction est diminué de 10 % au titre des rémunérations versées cette même
+année. Il est diminué de 100 % lorsque l'employeur ne remplit pas cette
+obligation pour la troisième année consécutive.
+
 IV.-Dans les professions dans lesquelles le paiement des congés des salariés et
 des charges sur les indemnités de congés est mutualisé entre les employeurs
 affiliés aux caisses de compensation prévues à l'article L. 223-16 du code du
