@@ -25,14 +25,14 @@ des revenus mentionnés au précédent alinéa. Les revenus sont majorés des
 déductions, abattements et exonérations mentionnés aux articles 44 sexies, 44
 sexies A, 44 undecies, 73 B et 151 septies A du même code, des cotisations
 personnelles de sécurité sociale de l'exploitant, de son conjoint et des membres
-de sa famille, ainsi que des sommes mentionnées aux articles L. 441-4 et L.
-443-8 du code du travail et versées au bénéfice des intéressés, à l'exception de
-celles prises en compte dans le revenu défini à l'article L. 731-14 du code
-rural. La dotation d'installation en capital accordée aux jeunes agriculteurs
-ainsi que le montant de la différence entre l'indemnité versée en compensation
-de l'abattage total ou partiel de troupeaux en application des articles L. 221-2
-ou L. 234-4 du code rural et la valeur en stock ou en compte d'achats des
-animaux abattus sont exclus de ces revenus.
+de sa famille, ainsi que des sommes mentionnées aux articles L. 3312-4, L.
+3324-5 et L. 3332-27 du code du travail et versées au bénéfice des intéressés, à
+l'exception de celles prises en compte dans le revenu défini à l'article L.
+731-14 du code rural. La dotation d'installation en capital accordée aux jeunes
+agriculteurs ainsi que le montant de la différence entre l'indemnité versée en
+compensation de l'abattage total ou partiel de troupeaux en application des
+articles L. 221-2 ou L. 234-4 du code rural et la valeur en stock ou en compte
+d'achats des animaux abattus sont exclus de ces revenus.
 
 Lorsque les personnes mentionnées à l'article L. 722-4 du code rural estiment
 que les revenus professionnels pris en compte pour le calcul de la contribution

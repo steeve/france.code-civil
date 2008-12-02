@@ -1,7 +1,7 @@
 Article L3312-3
 ----
-Dans les entreprises dont l'effectif habituel est compris entre un et cent
-salariés, peuvent bénéficier des dispositions du présent titre :
+Dans les entreprises dont l'effectif habituel est compris entre un et deux cent
+cinquante salariés, peuvent bénéficier des dispositions du présent titre :
 
 1° Les chefs de ces entreprises ;
 

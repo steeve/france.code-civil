@@ -31,12 +31,12 @@ de la dernière loi de financement de la sécurité sociale.
 II.-Sont inclus dans l'assiette de la contribution :
 
 1° Les sommes allouées au salarié au titre de l'intéressement prévu à l'article
-L. 441-4 du code du travail ;
+L. 3312-4 du code du travail ;
 
 2° Les sommes réparties au titre de la réserve spéciale de participation
-conformément aux dispositions de l'article L. 442-4 du code du travail, ainsi
-que les sommes versées par l'entreprise en application de l'article L. 443-8 du
-même code ; la contribution est précomptée par l'entreprise ou l'organisme de
+conformément aux dispositions de l'article L. 3324-5 du code du travail, ainsi
+que les sommes versées par l'entreprise en application de l'article L. 3332-27
+du même code ; la contribution est précomptée par l'entreprise ou l'organisme de
 gestion respectivement lors de la répartition de la réserve spéciale, ou lors du
 versement au plan d'épargne d'entreprise ;
 
@@ -122,9 +122,9 @@ l'article L. 814-5. Ces conditions de ressources sont celles qui sont
 applicables pour l'attribution de l'allocation supplémentaire du fonds national
 de solidarité ;
 
-3° Les revenus visés aux 2°,2° bis,3°,4°,7°,9°,9° bis,9° quater,9°
-quinquies,10°,12°,13°,14°,14° bis,14° ter,15°,17°,19° et b du 19° ter de
-l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
+3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 9° quater, 9°
+quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, 17°, 19° et b du 19° ter
+de l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
 961-1, deuxième alinéa, et L. 961-5 du code du travail ;
 
 4° Les pensions alimentaires répondant aux conditions fixées par les articles

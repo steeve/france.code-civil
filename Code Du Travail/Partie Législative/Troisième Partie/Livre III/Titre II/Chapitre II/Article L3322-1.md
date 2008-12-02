@@ -8,3 +8,5 @@ fonction du bénéfice net de l'entreprise, constituant la réserve spéciale de
 participation.
 
 Elle est obligatoire dans les entreprises mentionnées au présent chapitre.
+
+Elle concourt à la mise en œuvre de la gestion participative dans l'entreprise.

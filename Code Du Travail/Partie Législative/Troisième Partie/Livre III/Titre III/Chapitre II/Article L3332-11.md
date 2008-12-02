@@ -4,9 +4,9 @@ Les sommes versées annuellement par une ou plusieurs entreprises pour un salari
 ou une personne mentionnée à l'article L. 3332-2 ne peuvent excéder un plafond
 fixé par voie réglementaire pour les versements à un plan d'épargne
 d'entreprise, sans pouvoir excéder le triple de la contribution du bénéficiaire.
-L'affectation au plan d'épargne de la part individuelle du salarié ou de la
-personne mentionnée à l'article L. 3332-2 dans la réserve spéciale de
-participation ne peut tenir lieu de cette contribution.
+Cette contribution peut être constituée des sommes provenant de l'intéressement,
+de la participation aux résultats de l'entreprise et des versements volontaires
+des bénéficiaires.
 
 L'entreprise peut majorer ces sommes à concurrence du montant consacré par le
 salarié ou la personne mentionnée à l'article L. 3332-2 à l'acquisition

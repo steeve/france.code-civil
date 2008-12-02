@@ -19,7 +19,8 @@ connaissances ;
 7° Les actions de formation continue relative à la radioprotection des personnes
 prévues à l'article L. 1333-11 du code de la santé publique ;
 
-8° Les actions de formation relatives à l'économie de l'entreprise ;
+8° Les actions de formation relatives à l'économie et à la gestion de
+l'entreprise ;
 
 9° Les actions de formation relatives à l'intéressement, à la participation et
 aux dispositifs d'épargne salariale et d'actionnariat salarié ;

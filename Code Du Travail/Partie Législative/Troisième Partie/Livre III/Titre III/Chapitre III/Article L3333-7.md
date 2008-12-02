@@ -7,4 +7,6 @@ Toutefois, le règlement d'un plan institué entre plusieurs employeurs pris
 individuellement et ouvert à l'adhésion d'autres entreprises peut prévoir qu'un
 avenant relatif aux 2°, 3° et 5° du règlement de ce plan peut être valablement
 conclu s'il est ratifié par une majorité des entreprises parties prenantes au
-plan.
+plan. Ce règlement peut également prévoir des modalités de conclusion identiques
+des avenants rendus nécessaires par des dispositions législatives ou
+réglementaires postérieures à l'institution du plan.

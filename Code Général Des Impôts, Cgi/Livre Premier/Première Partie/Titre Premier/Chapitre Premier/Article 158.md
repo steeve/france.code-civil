@@ -27,7 +27,7 @@ ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou
 territoire ayant conclu avec la France une convention fiscale en vue d'éviter
 les doubles impositions en matière d'impôt sur les revenus et résultant d'une
 décision régulière des organes compétents, sont réduits, pour le calcul de
-l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu. A
+l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu.A
 compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège
 dans un Etat de la Communauté européenne, cette disposition est réservée aux
 revenus distribués par des sociétés établies dans un Etat ou territoire ayant
@@ -81,7 +81,7 @@ la directive 85 / 611 / CE du Conseil du 20 décembre 1985 portant coordination
 des dispositions législatives, réglementaires et administratives concernant
 certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° bis,1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 
@@ -102,7 +102,7 @@ acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
-articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations
+articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations
 mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet
 article ; les bénéfices de l'exploitation agricole sont déterminées conformément
 aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
@@ -147,6 +147,11 @@ articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L.
 5423-8 du code du travail, aux participations en espèces et, à compter du 1er
 janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs
 mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
+
+Sous réserve de l'exonération prévue à l'article 163 bis AA, les dispositions du
+a sont également applicables aux sommes revenant aux salariés au titre de la
+participation aux résultats de l'entreprise en application du titre II du livre
+III de la troisième partie du code du travail.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
@@ -207,8 +212,8 @@ cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
 quatervicies.
 
 7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de
-l'impôt selon les modalités prévues à l'article 197, est multiplié par 1,25. Ces
-dispositions s'appliquent :
+l'impôt selon les modalités prévues à l'article 197, est multiplié par 1, 25.
+Ces dispositions s'appliquent :
 
 1° Aux titulaires de revenus passibles de l'impôt sur le revenu, dans la
 catégorie des bénéfices industriels et commerciaux ou des bénéfices non

@@ -14,6 +14,15 @@ Lorsqu'un accord est conclu au sein d'un groupe de sociétés, l'équivalence de
 avantages consentis aux salariés s'apprécie globalement au niveau du groupe et
 non entreprise par entreprise.
 
+Dans les entreprises dont l'effectif habituel est compris entre un et deux cent
+cinquante salariés, la part de la réserve spéciale de participation excédant le
+montant qui aurait résulté d'un calcul effectué en application de l'article L.
+3324-1 peut être répartie entre les salariés et les chefs de ces entreprises,
+les présidents, directeurs généraux, gérants ou membres du directoire s'il
+s'agit de personnes morales, le conjoint du chef d'entreprise s'il a le statut
+de conjoint collaborateur ou de conjoint associé mentionné à l'article L. 121-4
+du code de commerce.
+
 L'accord n'ouvre droit au régime social et fiscal prévu au chapitre V que si la
 réserve spéciale de participation n'excède pas la moitié du bénéfice net
 comptable, ou, au choix des parties, l'un des trois plafonds suivants :
