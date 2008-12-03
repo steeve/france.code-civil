@@ -2,7 +2,7 @@ Article D324
 ----
 Les sommes constituant le pécule de libération sont inscrites à un compte
 spécial ; lorsqu'elles dépassent une somme fixée par arrêté du garde des sceaux,
-ministre de la justice, elles sont versées à un livret de caisse d'épargne.
+ministre de la justice, elles sont versées à un livret A.
 
 Une instruction de service détermine les modalités d'application de ces
 dispositions.
