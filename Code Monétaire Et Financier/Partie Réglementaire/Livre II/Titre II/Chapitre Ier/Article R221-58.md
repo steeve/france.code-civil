@@ -1,9 +1,9 @@
 Article R221-58
 ----
 Les dépôts collectés au titre du régime d'épargne populaire sont centralisés et
-versés à un fonds géré par la Caisse des dépôts et consignations dans des
-conditions fixées par une convention passée entre le ministre chargé de
-l'économie et le directeur général de cet établissement.
+versés au fonds d'épargne prévu à l'article L. 221-7 dans des conditions fixées
+par une convention passée entre le ministre chargé de l'économie et le directeur
+général de cet établissement.
 
 Une fraction de l'encours de ces dépôts peut toutefois être laissée au libre
 emploi des établissements collecteurs à condition que ces derniers prennent en
