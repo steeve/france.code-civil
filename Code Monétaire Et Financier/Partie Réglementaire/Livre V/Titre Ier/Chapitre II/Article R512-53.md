@@ -1,8 +1,9 @@
 Article R512-53
 ----
 Dans le cas où il n'y a qu'un seul siège à pourvoir, le représentant des
-collectivités territoriales est élu au scrutin uninominal majoritaire à deux
-tours. Toute déclaration de candidature doit comporter la désignation d'un
+collectivités territoriales et des établissements publics de coopération
+intercommunale à fiscalité propre est élu au scrutin uninominal majoritaire à
+deux tours. Toute déclaration de candidature doit comporter la désignation d'un
 suppléant, répondant aux mêmes conditions d'éligibilité que le candidat. Elle
 doit être signée par le candidat et le suppléant. Nul ne peut être suppléant de
 plusieurs candidats.
