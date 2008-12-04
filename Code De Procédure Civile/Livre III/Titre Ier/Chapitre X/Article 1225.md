@@ -1,7 +1,11 @@
 Article 1225
 ----
-Les recours formés contre les décisions du juge des tutelles ou les
-délibérations du conseil de famille sont inscrits sur un répertoire tenu au
-greffe du tribunal d'instance. Y sont mentionnés le nom de l'auteur du recours,
-celui de son avocat, la date à laquelle le recours a été formé ainsi que celle
-de la transmission du dossier au tribunal de grande instance.
+Un mois au moins avant la date fixée pour l'audience de jugement de la requête
+aux fins d'ouverture d'une mesure de protection d'un majeur, le dossier est
+transmis au procureur de la République.
+
+Au plus tard quinze jours avant cette date, le procureur de la République le
+renvoie au greffe avec, selon le cas, son avis ou ses conclusions sur
+l'opportunité et les modalités de la protection.
+
+Ces délais peuvent être réduits par le juge en cas d'urgence.

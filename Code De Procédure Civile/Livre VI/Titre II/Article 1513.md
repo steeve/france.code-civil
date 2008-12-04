@@ -24,4 +24,6 @@ tribunal de première instance" ;
 
 8° "journal local" par : "Journal officiel des îles Wallis et Futuna" ;
 
-9° "Caisse des dépôts et consignations" par : "Trésor public".
+9° "Caisse des dépôts et consignations" par : "Trésor public" ;
+
+10° " président du conseil général " ou " maire " par : " chef du territoire " .

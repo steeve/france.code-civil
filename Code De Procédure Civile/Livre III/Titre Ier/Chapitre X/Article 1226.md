@@ -1,5 +1,11 @@
 Article 1226
 ----
-Si le recours formé contre une décision du juge des tutelles ou une délibération
-du conseil de famille est rejeté, celui qui l'a formé, autre néanmoins que le
-juge, peut être condamné aux dépens et même à des dommages-intérêts.
+A l'audience, le juge entend le requérant à l'ouverture de la mesure de
+protection, le majeur à protéger, sauf application par le juge des dispositions
+du second alinéa de l'article 432 du code civil et, le cas échéant, le ministère
+public.
+
+Les avocats des parties, lorsqu'elles en ont constitué un, sont entendus en
+leurs observations.
+
+L'affaire est instruite et jugée en chambre du conseil.

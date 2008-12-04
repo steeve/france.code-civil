@@ -1,6 +1,5 @@
 Article 1227
 ----
-Le recours est instruit et jugé par priorité en chambre du conseil.
-
-Le tribunal peut demander au juge des tutelles les renseignements qu'il estime
-utiles.
+La requête aux fins d'ouverture d'une mesure de protection d'un majeur est
+caduque si le juge des tutelles ne s'est pas prononcé sur celle-ci dans l'année
+où il en a été saisi.

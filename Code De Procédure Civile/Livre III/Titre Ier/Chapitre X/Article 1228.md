@@ -1,4 +1,5 @@
 Article 1228
 ----
-Le tribunal peut, même d'office, substituer une décision nouvelle à celle du
-juge des tutelles ou à la délibération du conseil de famille.
+Lorsqu'il statue en application de l'article 442 du code civil, le juge procède
+conformément aux dispositions des articles 1220 à 1221, 1225 et 1226 du présent
+code.

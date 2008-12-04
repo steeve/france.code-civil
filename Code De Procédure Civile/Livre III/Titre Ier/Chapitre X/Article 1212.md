@@ -1,4 +1,4 @@
 Article 1212
 ----
-Hors les cas où il se saisit d'office, le juge est saisi par simple requête ou
-par déclaration écrite ou verbale au greffe de la juridiction.
+Le juge des tutelles et le procureur de la République ont la faculté de faire
+examiner par un médecin les majeurs relevant de l'article 416 du code civil.

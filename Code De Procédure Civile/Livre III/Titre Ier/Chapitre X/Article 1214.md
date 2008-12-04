@@ -1,9 +1,6 @@
 Article 1214
 ----
-La décision du juge est notifiée, à la diligence de celui-ci, dans les trois
-jours, au requérant, au tuteur, à l'administrateur légal et à tous ceux dont
-elle modifie les droits ou les charges s'ils ne sont pas présents.
-
-En outre, dans le cas de l'article 389-5 du code civil, elle est notifiée au
-conjoint qui n'a pas consenti à l'acte et, dans le cas de l'article 468 du même
-code, au subrogé-tuteur.
+Dans toute instance relative à l'ouverture, la modification ou la mainlevée
+d'une mesure de protection, le majeur à protéger ou protégé peut faire le choix
+d'un avocat ou demander à la juridiction saisie que le bâtonnier lui en désigne
+un d'office. La désignation doit intervenir dans les huit jours de la demande.

@@ -3,7 +3,8 @@ Article 425
 Le ministère public doit avoir communication :
 
 1° Des affaires relatives à la filiation, à l'organisation de la tutelle des
-mineurs, à l'ouverture ou à la modification de la tutelle des majeurs ;
+mineurs, à l'ouverture ou à la modification des mesures judiciaires de
+protection juridique des majeurs ;
 
 2° Des procédures de sauvegarde, de redressement judiciaire et de liquidation
 judiciaire, des causes relatives à la responsabilité pécuniaire des dirigeants

@@ -1,7 +1,5 @@
 Article 1221
 ----
-La délibération du conseil de famille est exécutoire par elle-même.
-
-Toutefois, si le juge n'a pas assorti la délibération de l'exécution provisoire,
-son exécution est suspendue pendant le délai du recours prévu à l'article 1222
-et par le recours lui-même exercé dans ce délai.
+Le juge peut, soit d'office, soit à la requête des parties ou du ministère
+public, ordonner toute mesure d'instruction. Il peut notamment faire procéder à
+une enquête sociale ou à des constatations par toute personne de son choix.
