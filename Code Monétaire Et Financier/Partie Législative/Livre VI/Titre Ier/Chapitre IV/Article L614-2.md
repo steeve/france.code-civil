@@ -10,7 +10,9 @@ des marchés financiers ou entrant dans les compétences de celle-ci.
 
 Les projets de décret ou d'arrêté, autres que les mesures individuelles,
 intervenant dans les mêmes domaines ne peuvent être adoptés qu'après l'avis du
-Comité consultatif de la législation et de la réglementation financières. Il ne
+Comité consultatif de la législation et de la réglementation financières. Il est
+également saisi pour avis par le ministre chargé de l'économie des demandes
+d'homologation des codes de conduite mentionnés à l'article L. 611-3-1. Il ne
 peut être passé outre à un avis défavorable du comité sur ces projets qu'après
 que le ministre chargé de l'économie a demandé une deuxième délibération de ce
 comité.

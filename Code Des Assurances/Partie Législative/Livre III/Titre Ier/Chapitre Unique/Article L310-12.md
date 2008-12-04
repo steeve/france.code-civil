@@ -9,7 +9,10 @@ le titre III du livre IX du code de la sécurité sociale, les institutions de
 retraite supplémentaire régies par le titre IV du livre IX du même code et les
 organismes régis par l'article L. 727-2 du code rural, des dispositions
 législatives et réglementaires qui leur sont applicables, ainsi que des
-engagements contractuels qui les lient aux assurés ou adhérents.
+engagements contractuels qui les lient aux assurés ou adhérents. Elle veille
+également à ce que les entreprises soumises à son contrôle mettent en œuvre les
+moyens adaptés pour se conformer aux codes de conduite homologués mentionnés à
+l'article L. 310-9.
 
 L'Autorité s'assure que les entreprises mentionnées aux 1°, 3° et 4° de
 l'article L. 310-2 ainsi que les mutuelles et les institutions mentionnées au
