@@ -6,9 +6,7 @@ compétente, mentionnée par l'article R. 533-1 du code de l'environnement, est 
 ministre chargé de l'agriculture.
 
 L'autorisation est délivrée après avis de l'Agence française de sécurité
-sanitaire des aliments et de la commission d'étude de la dissémination des
-produits issus du génie biomoléculaire.
+sanitaire des aliments et du Haut Conseil des biotechnologies.
 
-L'agence est consultée sur la demande d'autorisation parallèlement à la
-commission d'étude de la dissémination des produits issus du génie
-biomoléculaire et rend son avis dans les mêmes conditions.
+L'agence est consultée sur la demande d'autorisation parallèlement au Haut
+Conseil des biotechnologies et rend son avis dans les mêmes conditions.

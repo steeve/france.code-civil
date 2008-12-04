@@ -13,12 +13,12 @@ la régularisation du dossier n'est pas prise en compte dans le calcul des déla
 prévus à l'article R. 533-11.
 
 Dès que le dossier est complet, l'autorité administrative compétente transmet
-sans délai, pour avis, le dossier technique mentionné à l'article R. 533-3 à la
-commission d'étude de la dissémination des produits issus du génie
-biomoléculaire. Cette commission évalue les risques pour la santé publique et
-pour l'environnement. Elle transmet son avis à l'autorité administrative
-compétente et au ministre chargé de l'environnement dans un délai de soixante
-jours à compter de la date d'enregistrement de la demande.
+sans délai, pour avis, le dossier technique mentionné à l'article R. 533-3 au
+Haut Conseil des biotechnologies. Ce haut conseil évalue les risques pour
+l'environnement et la santé publique, notamment en examinant le dossier
+technique mentionné à l'article R. 533-3. Elle transmet son avis à l'autorité
+administrative compétente et au ministre chargé de l'environnement dans un délai
+de soixante jours à compter de la date d'enregistrement de la demande.
 
 L'autorité administrative compétente peut, à tout moment, par une demande
 motivée, inviter le demandeur à lui communiquer des informations

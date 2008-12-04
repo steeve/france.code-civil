@@ -8,9 +8,7 @@ chargé de l'agriculture.
 L'autorisation de dissémination volontaire dans l'environnement prévue par
 l'article L. 533-3 du code de l'environnement est délivrée par le ministre
 chargé de l'agriculture après avis de l'Agence française de sécurité sanitaire
-des aliments et de la commission d'étude de la dissémination des produits issus
-du génie biomoléculaire.
+des aliments et du Haut Conseil des biotechnologies.
 
-L'agence est consultée sur la demande d'autorisation parallèlement à la
-commission d'étude de la dissémination des produits issus du génie
-biomoléculaire et rend son avis dans les même conditions.
+L'agence est consultée sur la demande d'autorisation parallèlement au Haut
+Conseil des biotechnologies et rend son avis dans les même conditions.

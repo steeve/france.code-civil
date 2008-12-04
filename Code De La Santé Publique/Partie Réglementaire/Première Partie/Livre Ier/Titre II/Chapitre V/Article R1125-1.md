@@ -1,8 +1,8 @@
 Article R1125-1
 ----
 Le dossier de demande d'autorisation prévu à l'article R. 1123-30 comporte
-également le classement de l'organisme génétiquement modifié par la commission
-de génie génétique et l'agrément du ministre chargé de la recherche mentionné à
+également le classement de l'organisme génétiquement modifié par le Haut Conseil
+des biotechnologies et l'agrément du ministre chargé de la recherche mentionné à
 l'article L. 532-3 du code de l'environnement.
 
 La demande d'autorisation est adressée à l'autorité compétente définie à

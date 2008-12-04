@@ -17,16 +17,14 @@ le compléter ou à régulariser celui-ci.
 
 Dès que le dossier est complet, elle transmet la demande au ministre chargé de
 l'agriculture pour transmission à la Commission des Communautés européennes et,
-pour avis, à la commission d'étude de la dissémination des produits issus du
-génie biomoléculaire.
+pour avis, au Haut Conseil des biotechnologies.
 
-Elle procède à l'instruction de la demande parallèlement à la commission d'étude
-de la dissémination des produits issus du génie biomoléculaire.
+Elle procède à l'instruction de la demande parallèlement au Haut Conseil des
+biotechnologies.
 
-Au vu des avis de l'Agence française de sécurité sanitaire des aliments et de la
-Commission d'étude de la dissémination des produits issus du génie
-biomoléculaire, le ministre chargé de l'agriculture établit le rapport
-d'évaluation mentionné à l'article R. 533-30 du code de l'environnement.
+Au vu des avis de l'Agence française de sécurité sanitaire des aliments et du
+Haut Conseil des biotechnologies, le ministre chargé de l'agriculture établit le
+rapport d'évaluation mentionné à l'article R. 533-30 du code de l'environnement.
 
 L'Agence française de sécurité sanitaire des aliments et le ministre chargé de
 l'agriculture peuvent inviter le demandeur à leur communiquer les informations

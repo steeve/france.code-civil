@@ -1,6 +1,6 @@
 Article R532-21
 ----
-I. - Le dossier de demande d'agrément est établi par l'exploitant du laboratoire
+I.-Le dossier de demande d'agrément est établi par l'exploitant du laboratoire
 dans lequel l'utilisation doit être mise en oeuvre, conformément aux
 dispositions de l'article R. 532-2.
 
@@ -16,11 +16,11 @@ l'article R. 532-11, dans le respect du décret du 17 juillet 1998 précité.
 Les procédures de consultation en vue de recueillir les avis sont menées en
 conformité avec les dispositions du décret du 17 juillet 1998 précité.
 
-II. - Le dossier de demande d'agrément est transmis par le ministre de la
-défense au président de la commission de génie génétique.
+II.-Le dossier de demande d'agrément est transmis par le ministre de la défense
+au président du Haut Conseil des biotechnologies.
 
-La commission de génie génétique se prononce, à compter de la date de réception
-du dossier complet :
+Le Haut Conseil des biotechnologies se prononce, à compter de la date de
+réception du dossier complet :
 
 1° Dans un délai maximum de soixante jours, lorsque la demande porte sur une
 autorisation dans un laboratoire où aucune utilisation d'organismes
@@ -30,15 +30,15 @@ génétiquement modifiés n'a encore été agréée ;
 autorisation dans un laboratoire où une utilisation d'organismes génétiquement
 modifiés a déjà été agréée.
 
-Dès réception de l'avis de la commission, le ministre de la défense consulte les
+Dès réception de l'avis du haut conseil , le ministre de la défense consulte les
 ministres chargés de l'environnement et de la recherche.
 
-III. - Les avis du ministre chargé de l'environnement et du ministre chargé de
-la recherche sont réputés favorables en l'absence de réponse dans un délai de
+III.-Les avis du ministre chargé de l'environnement et du ministre chargé de la
+recherche sont réputés favorables en l'absence de réponse dans un délai de
 quatorze jours dans le cas mentionné au 1° du II et dans un délai de huit jours
 dans le cas mentionné au 2° du II.
 
-IV. - Le ministre de la défense notifie sa décision dans un délai de
+IV.-Le ministre de la défense notifie sa décision dans un délai de
 quatre-vingt-dix jours dans le cas mentionné au 1° du II et dans un délai de
 quarante-cinq jours dans le cas mentionné au 2° du II, à compter de la date de
 réception du dossier mentionnée au troisième alinéa du I.
