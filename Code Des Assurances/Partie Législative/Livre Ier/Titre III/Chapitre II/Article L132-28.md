@@ -1,26 +1,24 @@
 Article L132-28
 ----
-Sont considérées comme assurances populaires, les assurances sur la vie à primes
-périodiques, sans examen médical obligatoire, dont le montant ne dépasse pas,
-sur la même tête, le plafond fixé par décret, et dans lesquelles en l'absence
-d'examen médical, le capital stipulé n'est intégralement payable en cas de décès
-que si le décès survient après un délai spécifié au contrat.
+I.-L'intermédiaire mentionné à l'article L. 511-1 établit des conventions avec
+les entreprises d'assurance ou de capitalisation proposant les contrats
+d'assurance individuels comportant des valeurs de rachat, les contrats de
+capitalisation, les contrats mentionnés à l'article L. 132-5-3 et à l'article L.
+441-1 et en raison desquels il exerce son activité d'intermédiation.
 
-Les dispositions du premier alinéa de l'article L.113-3 et celles des deuxième
-et sixième alinéas de l'article L. 132-20 ne sont pas applicables. Lorsqu'une
-prime ou fraction de prime n'est pas payée dans les dix jours de son échéance,
-le défaut de paiement, à l'assureur ou au mandataire désigné par lui, de la
-prime ou fraction de prime échue ainsi que des primes éventuellement venues à
-échéance, entraîne, à l'expiration d'un délai de quarante jours :
+Ces conventions prévoient notamment :
 
-- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la
-valeur de rachat ;
+1° Les conditions dans lesquelles l'intermédiaire mentionné à l'article L. 511-1
+est tenu de soumettre à l'entreprise d'assurance ou de capitalisation les
+documents à caractère publicitaire préalablement à leur diffusion afin de
+vérifier leur conformité au contrat d'assurance ou de capitalisation et, le cas
+échéant, à la notice ou note ;
 
-- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans
-la limite de la valeur de rachat du contrat, selon des modalités déterminées par
-un règlement général mentionné dans la police et établi par l'assureur, après
-avis de l'autorité administrative ;
+2° Les conditions dans lesquelles sont mises à disposition de l'intermédiaire
+par l'entreprise d'assurance ou de capitalisation les informations nécessaires à
+l'appréciation de l'ensemble des caractéristiques du contrat.
 
-- soit la réduction du contrat dans le cas où le contractant renonce
-expressément à l'avance ci-dessus, avant l'expiration du délai de quarante jours
-précité.
+II.-Un décret en Conseil d'Etat précise les modalités d'application du I,
+notamment les cas et conditions dans lesquels l'obligation d'établir des
+conventions n'est pas justifiée compte tenu de la nature des contrats ou de leur
+mode de distribution.
