@@ -1,7 +1,7 @@
 Article D251-15
 ----
 La production et la circulation de végétaux, produits végétaux et autres objets
-figurant sur la liste mentionnée au V, A, de l'article D. 251-1 fait l'objet de
+figurant sur la liste mentionnée au V, A, de l'article D. 251-2 fait l'objet de
 contrôles effectués par les agents chargés de la protection des végétaux.
 
 Ces contrôles portent sur les végétaux, produits végétaux et autres objets

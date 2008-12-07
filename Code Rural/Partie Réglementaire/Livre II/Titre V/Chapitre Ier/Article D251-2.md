@@ -1,20 +1,74 @@
 Article D251-2
 ----
-Le registre officiel du contrôle phytosanitaire mentionné au II de l'article L.
-251-12 est tenu dans chaque région par la direction régionale de l'agriculture
-et de la forêt (service régional de la protection des végétaux) et par la
-direction de l'agriculture et de la forêt (service de la protection des
-végétaux) dans les départements d'outre-mer.
+En application des articles L. 251-3, L. 251-5 et L. 251-12, le ministre chargé
+de l'agriculture et le ministre chargé des douanes fixent par arrêté :
 
-La demande d'inscription sur ce registre est adressée par chaque établissement à
-la direction régionale de l'agriculture et de la forêt ou à la direction de
-l'agriculture et de la forêt dont il dépend.
+I.-La liste des organismes nuisibles dont l'introduction et la dissémination
+sont interdites :
 
-Elle doit être accompagnée d'une déclaration sur l'activité du demandeur, la
-nature, la quantité, l'origine et la destination des végétaux, produits végétaux
-et autres objets ; cette déclaration est renouvelée tous les ans.
+A.-Soit dans tous les Etats membres de la Communauté, qu'il s'agisse :
 
-En ce qui concerne la pomme de terre de consommation et les fruits d'agrumes,
-l'immatriculation d'un magasin collectif ou centre d'expédition situé dans la
-zone de production est admise en substitution de l'immatriculation individuelle
-des producteurs.
+1.D'organismes nuisibles inexistants dans la Communauté européenne et importants
+pour toute la Communauté européenne ;
+
+2. Ou d'organismes nuisibles présents dans la Communauté européenne et
+importants pour toute la Communauté européenne ;
+
+B.-Soit dans certaines zones protégées.
+
+II.-La liste des organismes nuisibles dont l'introduction et la dissémination
+sont interdites si ces organismes se présentent sur certains végétaux, produits
+végétaux et autres objets mentionnés sur cette même liste. Cette liste précise :
+
+A.-La liste des organismes nuisibles dont l'introduction et la dissémination
+sont interdites dans tous les Etats membres de la Communauté européenne, qu'il
+s'agisse :
+
+1.D'organismes nuisibles inexistants dans la Communauté européenne et importants
+pour toute la Communauté européenne.
+
+2. Ou d'organismes nuisibles présents dans la Communauté européenne et
+importants pour toute la Communauté européenne.
+
+B.-La liste des organismes nuisibles dont l'introduction et la dissémination
+sont interdites dans certaines zones protégées.
+
+III.-La liste des végétaux, produits végétaux et autres objets dont
+l'introduction est interdite s'ils sont originaires des pays mentionnés sur
+cette même liste. Cette liste précise :
+
+A.-La liste des végétaux, produits végétaux et autres objets dont l'introduction
+est interdite dans tous les Etats membres.
+
+B.-La liste des végétaux, produits végétaux ou autres objets dont l'introduction
+est interdite dans certaines zones protégées.
+
+IV.-La liste des végétaux, produits végétaux et autres objets dont
+l'introduction et la circulation sont soumises à des exigences particulières.
+Cette liste comprend :
+
+A.-La liste des exigences particulières applicables sur l'ensemble du territoire
+national :
+
+1. Aux végétaux, produits végétaux et autres objets originaires de pays non
+membres de la Communauté européenne ;
+
+2. Aux végétaux, produits végétaux et autres objets originaires de la Communauté
+européenne.
+
+B.-La liste des exigences particulières applicables dans certaines zones
+protégées.
+
+V.-La liste des végétaux, produits végétaux et autres objets devant être soumis
+à une inspection phytosanitaire :
+
+A.-Sur le lieu de production pour les végétaux, produits végétaux et autres
+objets originaires de la Communauté européenne, avant de circuler dans la
+Communauté européenne.
+
+B.-Dans le pays d'origine ou le pays d'expédition pour les végétaux, produits
+végétaux et autres objets originaires de pays tiers, avant de pouvoir entrer
+dans la Communauté européenne.
+
+VI.-La liste des zones de la Communauté européenne reconnues " zones protégées "
+au regard d'un organisme nuisible.
