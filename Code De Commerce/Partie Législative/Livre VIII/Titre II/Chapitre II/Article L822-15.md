@@ -14,3 +14,7 @@ comptes de la personne morale consolidante et les commissaires aux comptes des
 personnes consolidées sont, les uns à l'égard des autres, libérés du secret
 professionnel. Ces dispositions s'appliquent également lorsqu'une personne
 établit des comptes combinés.
+
+Les commissaires aux comptes procédant à une revue indépendante ou contribuant
+au dispositif de contrôle de qualité interne sont astreints au secret
+professionnel.

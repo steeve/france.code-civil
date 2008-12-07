@@ -1,9 +1,6 @@
 Article L931-14
 ----
-Le ministre chargé de la sécurité sociale peut exiger la communication des
-documents à caractère contractuel ou publicitaire ayant pour objet les
-opérations que réalisent les institutions.
-
-S'il apparaît qu'un document est contraire aux dispositions législatives ou
-réglementaires, le ministre peut en exiger la modification ou en décider le
-retrait.
+Par dérogation aux dispositions de l'article L. 823-19 du code de commerce, le
+comité spécialisé mentionné à cet article peut comprendre deux membres au plus
+qui ne font pas partie du conseil d'administration mais qui sont désignés par
+lui à raison de leurs compétences.

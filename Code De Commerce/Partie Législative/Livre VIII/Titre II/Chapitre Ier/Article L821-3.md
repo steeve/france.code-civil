@@ -2,9 +2,9 @@ Article L821-3
 ----
 Le Haut Conseil du commissariat aux comptes comprend :
 
-1° Trois magistrats, dont un membre de la Cour de cassation, président, un
-second magistrat de l'ordre judiciaire, président suppléant, et un magistrat de
-la Cour des comptes ;
+1° Trois magistrats, dont un membre ou ancien membre de la Cour de cassation,
+président, un second magistrat de l'ordre judiciaire et un magistrat de la Cour
+des comptes ;
 
 2° Le président de l'Autorité des marchés financiers ou son représentant, un
 représentant du ministre chargé de l'économie et un professeur des universités
@@ -19,6 +19,9 @@ morales de droit privé ayant une activité économique ou des associations ;
 4° Trois commissaires aux comptes, dont deux ayant une expérience du contrôle
 des comptes des personnes faisant appel public à l'épargne ou à la générosité
 publique.
+
+Le président exerce ses fonctions à plein temps. En cas d'empêchement, il est
+suppléé par le second magistrat de l'ordre judiciaire.
 
 Les décisions sont prises à la majorité des voix. En cas de partage égal des
 voix, la voix du président est prépondérante.

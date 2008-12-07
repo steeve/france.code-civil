@@ -4,18 +4,30 @@ Les fonctions de commissaire aux comptes sont exercées par des personnes
 physiques ou des sociétés constituées entre elles sous quelque forme que ce
 soit.
 
-Les trois quarts du capital des sociétés de commissaires aux comptes sont
-détenus par des commissaires aux comptes. Lorsqu'une société de commissaires aux
-comptes a une participation dans le capital d'une autre société de commissaires
-aux comptes, les actionnaires ou associés non commissaires aux comptes ne
-peuvent détenir plus de 25 % de l'ensemble du capital des deux sociétés. Les
-fonctions de gérant, de président du conseil d'administration ou du directoire,
-de président du conseil de surveillance et de directeur général sont assurées
-par des commissaires aux comptes. Les trois quarts au moins des membres des
-organes de gestion, d'administration, de direction ou de surveillance et les
-trois quarts au moins des actionnaires ou associés doivent être des commissaires
-aux comptes. Les représentants permanents des sociétés de commissaires aux
-comptes associés ou actionnaires doivent être des commissaires aux comptes.
+Les trois quarts des droits de vote des sociétés de commissaires aux comptes
+sont détenus par des commissaires aux comptes ou des sociétés de commissaires
+aux comptes inscrits sur la liste prévue à l'article L. 822-1 ou des
+professionnels régulièrement agréés dans un autre Etat membre de la Communauté
+européenne pour l'exercice du contrôle légal des comptes. Lorsqu'une société de
+commissaires aux comptes a une participation dans le capital d'une autre société
+de commissaires aux comptes, les actionnaires ou associés non commissaires aux
+comptes ne peuvent détenir plus d'un quart de l'ensemble des droits de vote des
+deux sociétés.
+
+Les fonctions de gérant, de président du conseil d'administration ou du
+directoire, de président du conseil de surveillance et de directeur général sont
+assurées par des commissaires aux comptes inscrits sur la liste prévue à
+l'article L. 822-1 ou régulièrement agréés dans un autre Etat membre de la
+Communauté européenne pour l'exercice du contrôle légal des comptes. Les trois
+quarts au moins des membres des organes de gestion, d'administration, de
+direction ou de surveillance doivent être des commissaires aux comptes inscrits
+sur la liste prévue à l'article L. 822-1 ou régulièrement agréés dans un autre
+Etat membre de la Communauté européenne pour l'exercice du contrôle légal des
+comptes. Les représentants permanents des sociétés de commissaires aux comptes
+associés ou actionnaires doivent être des commissaires aux comptes inscrits sur
+la liste prévue à l'article L. 822-1 ou régulièrement agréés dans un autre Etat
+membre de la Communauté européenne pour l'exercice du contrôle légal des
+comptes.
 
 Dans les sociétés de commissaires aux comptes inscrites, les fonctions de
 commissaire aux comptes sont exercées, au nom de la société, par des

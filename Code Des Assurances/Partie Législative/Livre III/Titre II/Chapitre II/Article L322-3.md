@@ -1,6 +1,7 @@
 Article L322-3
 ----
-Les dispositions de la section I du chapitre II du titre II du livre III, dans
-la rédaction du présent code antérieure à la loi n° 91-716 du 26 juillet 1991
-portant diverses dispositions d'ordre économique et financier, sont applicables
-dans les territoires d'outre-mer.
+Outre les personnes et entités contrôlées au sens de l'article L. 233-16 du code
+de commerce, sont exemptées des obligations mentionnées à l'article L. 823-19 du
+même code les personnes et entités liées à une entreprise mère au sens du 1° de
+l'article L. 334-2 lorsque l'entreprise mère est elle-même soumise à ces
+obligations.

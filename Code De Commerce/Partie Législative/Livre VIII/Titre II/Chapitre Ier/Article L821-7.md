@@ -8,4 +8,7 @@ b) A des contrôles périodiques organisés selon des modalités définies par l
 Haut Conseil ;
 
 c) A des contrôles occasionnels décidés par la compagnie nationale ou les
-compagnies régionales.
+compagnies régionales, ou effectués à la demande du Haut Conseil.
+
+Les personnes participant aux contrôles et inspections mentionnés au présent
+article sont soumises au secret professionnel.
