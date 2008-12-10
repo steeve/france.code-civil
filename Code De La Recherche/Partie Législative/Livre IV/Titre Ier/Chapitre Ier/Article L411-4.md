@@ -15,7 +15,7 @@ l'entreprise ou hors de l'entreprise, notamment dans les laboratoires publics.
 
 Afin d'encourager l'emploi des docteurs scientifiques dans une activité couverte
 par une convention de branche ou un accord professionnel ou interprofessionnel
-au sens de l'article L. 132-1 du code du travail, une commission formée de
+au sens de l'article L. 2221-2 du code du travail, une commission formée de
 délégués des parties signataires à la convention ou à l'accord peut être
 convoquée par un arrêté conjoint du ministre chargé de la recherche, du ministre
 chargé de l'industrie et du ministre chargé du travail, en vue de permettre la

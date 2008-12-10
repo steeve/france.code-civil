@@ -16,3 +16,8 @@ Ces statuts doivent permettre aux chercheurs, tout en poursuivant leurs travaux
 au sein des établissements publics de recherche, de collaborer, pour une période
 déterminée, renouvelable, avec des laboratoires publics ou privés, afin d'y
 développer des applications spécifiques.
+
+Les personnels de recherche des organismes de recherche qui exercent leur
+activité dans les établissements publics à caractère scientifique, culturel et
+professionnel participent à la vie démocratique de ces établissements dans les
+conditions fixées par les articles L. 952-24 et L. 953-7 du code de l'éducation.
