@@ -1,5 +1,12 @@
 Article R4411-43
 ----
-L'organisme auquel sont fournies les informations est agréé et peut voir son
-agrément retiré par arrêté conjoint des ministres chargés du travail et de
-l'agriculture dans les conditions prévues à l'article R. 4411-13.
+L'organisme auquel sont fournies les informations est agréé par arrêté du
+ministre chargé du travail.
+
+L'arrêté d'agrément fixe les modalités techniques de la mission de cet
+organisme.
+
+L'agrément peut être retiré dans les mêmes formes, après que l'organisme agréé a
+été appelé à présenter ses observations, lorsque celui-ci ne se conforme pas aux
+prescriptions réglementaires en vigueur ou qu'il n'est plus en mesure d'assurer
+sa mission.

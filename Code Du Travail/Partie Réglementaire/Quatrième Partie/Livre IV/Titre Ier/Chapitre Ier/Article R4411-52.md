@@ -1,6 +1,6 @@
 Article R4411-52
 ----
-Une fois par an, les responsables de la mise sur le marché adressent, s'il y a
-lieu, à l'organisme agréé une liste actualisée des substances et préparations
-présentes sur le marché, ainsi que les fiches de données de sécurité ou les
-informations correspondantes.
+Tout changement de nom commercial et toute modification de la composition d'une
+préparation doivent être déclarés à l'organisme agréé. Cette actualisation doit
+être accompagnée de la fiche de données de sécurité et des informations
+mentionnées à l'article R. 4411-50.
