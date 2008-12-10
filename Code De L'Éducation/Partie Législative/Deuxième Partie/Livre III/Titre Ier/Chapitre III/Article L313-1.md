@@ -2,7 +2,7 @@ Article L313-1
 ----
 Le droit au conseil en orientation et à l'information sur les enseignements, sur
 l'obtention d'une qualification professionnelle sanctionnée dans les conditions
-définies à l'article L. 115-1 du code du travail, sur les professions ainsi que
+définies à l'article L. 6211-1 du code du travail, sur les professions ainsi que
 sur les débouchés et les perspectives professionnels fait partie du droit à
 l'éducation.
 

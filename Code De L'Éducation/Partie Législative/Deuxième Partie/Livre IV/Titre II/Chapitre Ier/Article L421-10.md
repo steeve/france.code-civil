@@ -6,9 +6,9 @@ de formation de ces établissements et écoles et pour mettre en commun, dans le
 respect de leurs compétences, leurs ressources humaines et matérielles.
 
 Les personnes recrutées par les établissements publics locaux d'enseignement
-dans le cadre d'un des contrats prévus à la section 1 du chapitre II du titre II
-du livre III du code du travail peuvent exercer leurs fonctions dans
-l'établissement qui les a recrutées, dans un ou plusieurs autres établissements
-ainsi que, compte tenu des besoins, dans une ou plusieurs écoles. Dans ce
-dernier cas, les directeurs d'école peuvent participer à la procédure de
+dans le cadre d'un des contrats prévus aux titres Ier à III du livre Ier de la
+cinquième partie législative du code du travail peuvent exercer leurs fonctions
+dans l'établissement qui les a recrutées, dans un ou plusieurs autres
+établissements ainsi que, compte tenu des besoins, dans une ou plusieurs écoles.
+Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de
 recrutement.

@@ -6,7 +6,7 @@ ayant passé avec l'Etat l'un des contrats prévus aux articles L. 442-5 et L.
 boursiers nationaux, une bourse nationale de collège est attribuée aux familles
 dont les ressources ne dépassent pas un plafond variable selon le nombre
 d'enfants à charge et revalorisé comme le salaire minimum de croissance prévu
-par l'article L. 141-4 du code du travail.
+par aux articles L. 3231-6 et L. 3231-7 du code du travail.
 
 Le montant de la bourse, qui varie en fonction des ressources de la famille, est
 fixé en pourcentage de la base mensuelle de calcul des prestations familiales

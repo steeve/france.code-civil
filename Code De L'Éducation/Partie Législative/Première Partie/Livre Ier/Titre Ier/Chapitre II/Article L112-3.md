@@ -1,7 +1,9 @@
 Article L112-3
 ----
-L'éducation spéciale associe des actions pédagogiques, psychologiques, sociales,
-médicales et paramédicales ; elle est assurée soit dans des établissements
-ordinaires, soit dans des établissements ou par des services spécialisés.
-L'éducation spéciale peut être entreprise avant et poursuivie après l'âge de la
-scolarité obligatoire.
+Dans l'éducation et le parcours scolaire des jeunes sourds, la liberté de choix
+entre une communication bilingue, langue des signes et langue française, et une
+communication en langue française est de droit. Un décret en Conseil d'Etat
+fixe, d'une part, les conditions d'exercice de ce choix pour les jeunes sourds
+et leurs familles, d'autre part, les dispositions à prendre par les
+établissements et services où est assurée l'éducation des jeunes sourds pour
+garantir l'application de ce choix.

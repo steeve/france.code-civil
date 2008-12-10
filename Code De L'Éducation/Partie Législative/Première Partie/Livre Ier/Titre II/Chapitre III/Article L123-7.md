@@ -14,6 +14,6 @@ Dans le cadre défini par les pouvoirs publics, les établissements qui
 participent à ce service public passent des accords avec des institutions
 étrangères ou internationales, notamment avec les institutions d'enseignement
 supérieur des différents Etats et nouent des liens particuliers avec celles des
-Etats membres des Communautés européennes et avec les établissements étrangers
-qui assurent leurs enseignements partiellement ou entièrement en langue
-française.
+Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen et avec les établissements étrangers qui
+assurent leurs enseignements partiellement ou entièrement en langue française.

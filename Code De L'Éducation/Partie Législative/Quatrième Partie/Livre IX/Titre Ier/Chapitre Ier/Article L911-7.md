@@ -9,7 +9,7 @@ qui ont exercé des fonctions éducatives dans les écoles ou établissements
 d'enseignement.
 
 La rémunération de ces activités est assurée par l'Etat ; elle peut être cumulée
-intégralement avec le revenu de remplacement prévu à l'article L. 351-2 du code
+intégralement avec le revenu de remplacement prévu à l'article L. 5421-2 du code
 du travail.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent

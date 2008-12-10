@@ -19,17 +19,17 @@ conscience des maîtres.
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels
 enseignants mentionnés à l'alinéa précédent sont, pour l'application des
-articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en
-compte dans le calcul des effectifs de l'établissement, tel que prévu à
-l'article L. 620-10 du même code. Ils sont électeurs et éligibles pour les
-élections des délégués du personnel et les élections au comité d'hygiène, de
-sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient
-de ces institutions dans les conditions prévues par le code du travail. Les
-rémunérations versées par l'Etat à ces personnels sont prises en compte pour le
-calcul de la masse salariale brute, tel que prévu à l'article L. 434-8 du même
-code, et la détermination du rapport entre la contribution aux institutions
-sociales et le montant global des salaires, mentionné à l'article L. 432-9 du
-même code.
+articles L. 2141-11, L. 2312-8, L. 2322-6, L. 4611-1 à L. 4611-4 et L. 4611-6 du
+code du travail, pris en compte dans le calcul des effectifs de l'établissement,
+tel que prévu à l'article L. 1111-2 du même code. Ils sont électeurs et
+éligibles pour les élections des délégués du personnel et les élections au
+comité d'hygiène, de sécurité et des conditions de travail et au comité
+d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues
+par le code du travail. Les rémunérations versées par l'Etat à ces personnels
+sont prises en compte pour le calcul de la masse salariale brute, tel que prévu
+aux articles L. 2325-12 et L. 2325-43 du même code, et la détermination du
+rapport entre la contribution aux institutions sociales et le montant global des
+salaires, mentionné à l'article L. 2323-86 du même code.
 
 Les dépenses de fonctionnement des classes sous contrat sont prises en charge
 dans les mêmes conditions que celles des classes correspondantes de

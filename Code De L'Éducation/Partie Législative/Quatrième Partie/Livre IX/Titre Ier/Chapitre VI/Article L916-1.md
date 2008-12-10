@@ -10,10 +10,10 @@ handicapés, y compris en dehors du temps scolaire.
 Les assistants d'éducation qui remplissent des missions d'aide à l'accueil et à
 l'intégration scolaires des élèves handicapés bénéficient d'une formation
 spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en
-collaboration avec les associations d'aide aux familles d'enfants handicapés. A
+collaboration avec les associations d'aide aux familles d'enfants handicapés.A
 l'issue de leur contrat, les assistants d'éducation peuvent demander à faire
 valider l'expérience acquise dans les conditions définies par les articles L.
-900-1 et L. 934-1 du code du travail.
+2323-33, L. 6111-1, L. 6311-1, L. 6411-1 et L. 6422-1 du code du travail.
 
 Les assistants d'éducation peuvent exercer leurs fonctions dans l'établissement
 qui les a recrutés, dans un ou plusieurs autres établissements ainsi que, compte
