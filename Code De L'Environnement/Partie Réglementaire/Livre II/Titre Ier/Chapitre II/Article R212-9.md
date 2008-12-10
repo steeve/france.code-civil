@@ -1,7 +1,7 @@
 Article R212-9
 ----
-Afin d'assurer la protection des eaux et la lutte contre la pollution en
-application de l'article L. 211-1, les orientations du schéma directeur
+Afin d'assurer la protection des eaux de surface et la lutte contre la pollution
+en application de l'article L. 211-1, les orientations du schéma directeur
 d'aménagement et de gestion des eaux prennent en compte les dispositions des
 arrêtés du ministre chargé de l'environnement fixant les modalités et délais de
 réduction progressive et d'élimination des déversements, écoulements, rejets

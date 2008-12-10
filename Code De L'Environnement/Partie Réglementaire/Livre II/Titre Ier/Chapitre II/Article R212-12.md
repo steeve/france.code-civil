@@ -15,4 +15,4 @@ concentrations en polluants dues aux activités humaines ne dépassent pas les
 normes définies par arrêté du ministre chargé de l'environnement et n'empêchent
 pas d'atteindre les objectifs fixés pour les eaux de surface alimentées par
 cette masse d'eau souterraine et lorsqu'il n'est constaté aucune intrusion d'eau
-salée due aux activités humaines.
+salée ou autre due aux activités humaines.
