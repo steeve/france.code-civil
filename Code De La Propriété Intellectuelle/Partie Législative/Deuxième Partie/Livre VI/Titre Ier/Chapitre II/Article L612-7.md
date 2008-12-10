@@ -1,8 +1,9 @@
 Article L612-7
 ----
 1. Le demandeur d'un brevet qui veut se prévaloir de la priorité d'un dépôt
-antérieur est tenu de produire une déclaration de priorité et une copie de la
-demande antérieure dans les conditions et délais fixés par voie réglementaire.
+antérieur est tenu de produire une déclaration de priorité et de justifier de
+l'existence de la demande antérieure dans les conditions et délais fixés par
+voie réglementaire.
 
 2. Des priorités multiples peuvent être revendiquées pour une demande de brevet,
 même si elles proviennent d'Etats différents. Le cas échéant, des priorités

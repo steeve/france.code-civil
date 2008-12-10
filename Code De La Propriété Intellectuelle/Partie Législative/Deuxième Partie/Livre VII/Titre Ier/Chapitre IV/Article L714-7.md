@@ -1,8 +1,7 @@
 Article L714-7
 ----
-Toute transmission ou modification des droits attachés à une marque enregistrée
-doit, pour être opposable aux tiers, être inscrite au registre national des
-marques.
+Toute transmission ou modification des droits attachés à une marque doit, pour
+être opposable aux tiers, être inscrite au registre national des marques.
 
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis
 des droits après la date de cet acte mais qui avaient connaissance de celui-ci

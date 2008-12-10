@@ -1,9 +1,9 @@
 Article L811-4
 ----
-I. - Pour leur application en Polynésie française, dans les îles
-Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en
-Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L.
-717-7 du présent code sont ainsi rédigés :
+I. - Pour leur application dans les îles Wallis-et-Futuna, dans les Terres
+australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les
+articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi
+rédigés :
 
 "Art. L. 717-1. :
 

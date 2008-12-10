@@ -13,10 +13,4 @@ conditions fixées par voie réglementaire.
 
 La décision est publiée et notifiée au breveté.
 
-2. Le breveté peut, dans les trois mois suivant la notification de la décision,
-présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une
-excuse légitime du non-paiement de l'annuité.
-
-La restauration est accordée par le directeur de l'Institut national de la
-propriété industrielle sous réserve que la ou les redevances annuelles soient
-acquittées dans le délai prescrit par voie réglementaire.
+2. Abrogé.

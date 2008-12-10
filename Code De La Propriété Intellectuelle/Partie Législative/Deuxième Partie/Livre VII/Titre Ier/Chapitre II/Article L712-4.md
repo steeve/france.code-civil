@@ -16,8 +16,8 @@ Toutefois, ce délai peut être suspendu :
 
 a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ;
 
-b) En cas d'engagement d'une action en nullité, en déchéance ou en revendication
-de propriété ;
+b) En cas de demande en nullité, en déchéance ou en revendication de propriété,
+de la marque sur laquelle est fondée l'opposition ;
 
-c) Sur demande conjointe des parties, sans que la suspension puisse dans ce cas
-excéder six mois.
+c) Sur demande conjointe des parties, pendant une durée de trois mois
+renouvelable une fois.
