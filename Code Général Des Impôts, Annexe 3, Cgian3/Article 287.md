@@ -51,15 +51,8 @@ mentionnés au d du 4° de l'article 28 modifié du décret n° 55-22 du 4 janvi
 14° pour les actes et attestations rectificatives publiés en application du 3 de
 l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955 ;
 
-15° pour la publication :
-
-a) des titres d'occupation du domaine public de l'Etat ou d'un de ses
-établissements publics constitutifs d'un droit réel délivrés en application des
-articles L. 2122-5 à L. 2122-18 du code de la propriété des personnes publiques
-ainsi que des cessions, transmissions ou retraits de ces titres ;
-
-b) des contrats de crédit-bail conclus en application des dispositions de
-l'article L. 34-7 du code précité ;
+15° Pour la publication des actes constatant les opérations mentionnées à
+l'article 1048 ter du code général des impôts ;
 
 16° pour la publication de chaque déclaration établie pour l'application des
 articles L. 526-1 à L. 526-3 du code de commerce ;
