@@ -1,7 +1,8 @@
 Article R4214-16
 ----
-Les escaliers et les trottoirs roulants comportent des dispositifs d'arrêt
-d'urgence identifiables et accessibles sans ambiguïté. Les prescriptions
-techniques relatives à l'installation de ces équipements sont fixées par un
-arrêté conjoint des ministres chargés du travail, de l'agriculture et de la
-construction.
+Lors de leur installation, le maître d'ouvrage s'assure que les escaliers
+mécaniques et les trottoirs roulants, les ascenseurs, les monte-charges, les
+installations de parcage de véhicules et les élévateurs de personnes dont la
+vitesse n'excède pas 0, 15 mètre par seconde sont installés de manière à
+permettre les interventions et travaux énumérés à l'article R. 4543-1 dans des
+conditions sûres, ergonomiques et préservant la santé des intervenants.
