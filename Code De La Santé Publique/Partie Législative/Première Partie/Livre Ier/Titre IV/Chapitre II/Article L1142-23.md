@@ -16,6 +16,8 @@ une vaccination obligatoire en application de l'article L. 3111-9 ;
 contamination par le virus d'immunodéficience humaine en application de
 l'article L. 3122-1 ;
 
+3° bis Le versement d'indemnités en application de l'article L. 1221-14 ;
+
 4° Le versement des indemnités prévues à l'article L. 3131-4 aux victimes de
 dommages imputables directement à une activité de prévention, de diagnostic ou
 de soins réalisée en application de mesures prises conformément aux articles L.
@@ -46,4 +48,8 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
 
-6° Une dotation versée par le fonds mentionné à l'article L. 3131-5.
+6° Une dotation versée par le fonds mentionné à l'article L. 3131-5 ;
+
+7° Une dotation versée par l'Etablissement français du sang couvrant l'ensemble
+des dépenses exposées en application de l'article L. 1221-14. Un décret fixe les
+modalités de versement de cette dotation.
