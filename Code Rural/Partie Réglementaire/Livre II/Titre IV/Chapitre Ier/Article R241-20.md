@@ -18,7 +18,9 @@ accompagnée de :
 1° Une copie du diplôme, certificat ou titre de vétérinaire de l'intéressé,
 accompagnée s'il y a lieu de l'attestation prévue à l'article L. 241-2, ainsi
 que, le cas échéant, une traduction de ces documents établie par un traducteur
-assermenté ;
+assermenté ou habilité à intervenir auprès des autorités judiciaires ou
+administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à
+l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
 2° Une attestation délivrée depuis moins de trois mois par l'autorité compétente
 de l'Etat d'origine ou de provenance certifiant que les conditions de moralité

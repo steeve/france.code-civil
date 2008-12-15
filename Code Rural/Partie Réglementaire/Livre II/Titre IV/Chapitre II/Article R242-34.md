@@ -11,8 +11,10 @@ par la République française ;
 2° Les titres, diplômes, récompenses et autres qualifications professionnelles
 dont la liste est établie par le Conseil supérieur de l'ordre.
 
-Seuls peuvent se prévaloir, dans l'exercice de leur profession, du titre de
-vétérinaire spécialiste les titulaires du diplôme d'études spécialisées
-vétérinaires ou d'un titre étranger reconnu équivalent, ainsi que les
-vétérinaires autorisés par le ministre chargé de l'agriculture dans les
-conditions prévues à l'article R. 812-39 à se prévaloir de ce titre.
+Peuvent seuls se prévaloir, dans l'exercice de leur profession, du titre de
+vétérinaire spécialiste les vétérinaires titulaires du diplôme d'études
+spécialisées vétérinaires, les vétérinaires titulaires d'un titre reconnu
+équivalent par le Conseil national de la spécialisation vétérinaire dans les
+conditions prévues par l'article R. 812-55, ainsi que les vétérinaires autorisés
+à se prévaloir de ce titre par le ministre chargé de l'agriculture dans les
+conditions prévues à l'article R. 812-56.

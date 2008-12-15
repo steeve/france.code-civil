@@ -38,6 +38,14 @@ Les écoles ne peuvent mettre en place les enseignements complémentaires donnan
 lieu à délivrance de diplômes d'école qu'après avis du conseil des directeurs
 prévu à l'article R. 814-15.
 
-Seuls les titulaires d'un diplôme d'études spécialisées vétérinaires ou d'un
-titre étranger reconnu équivalent peuvent se prévaloir du titre de vétérinaire
-spécialiste.
+Peuvent se prévaloir du titre de vétérinaire spécialiste :
+
+-les vétérinaires titulaires d'un diplôme d'études spécialisées vétérinaires ;
+
+-les vétérinaires titulaires d'un titre reconnu équivalent par le Conseil
+national de la spécialisation vétérinaire dans des conditions prévues par
+arrêté, dans une spécialité figurant sur la liste arrêtée par le ministre chargé
+de l'agriculture.
+
+Le Conseil supérieur de l'ordre des vétérinaires tient à jour une liste des
+vétérinaires spécialistes inscrits au tableau de l'ordre.

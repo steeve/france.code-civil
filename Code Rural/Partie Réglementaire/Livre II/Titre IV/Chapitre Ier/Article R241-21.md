@@ -16,4 +16,7 @@ de douze mois par l'autorité compétente de l'Etat où il est établi certifian
 qu'il y exerce légalement les activités de vétérinaire, une copie de son
 diplôme, certificat ou titre de vétérinaire accompagnée s'il y a lieu de
 l'attestation prévue à l'article L. 241-2, ainsi que, le cas échéant, une
-traduction de ces documents établie par un traducteur assermenté.
+traduction de ces documents établie par un traducteur assermenté ou habilité à
+intervenir auprès des autorités judiciaires ou administratives d'un autre Etat
+membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace
+économique européen ou de la Confédération suisse.

@@ -69,4 +69,7 @@ médicamenteux, la copie de la convention liant le vétérinaire à l'entreprise
 
 Tous les documents produits à l'appui de la demande d'inscription doivent être
 accompagnés, s'ils ne sont pas rédigés en français, d'une traduction certifiée
-par un traducteur assermenté.
+par un traducteur assermenté ou habilité à intervenir auprès des autorités
+judiciaires ou administratives d'un autre Etat membre de l'Union européenne,
+d'un Etat partie à l'accord sur l'Espace économique européen ou de la
+Confédération suisse.
