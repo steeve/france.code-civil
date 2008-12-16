@@ -40,7 +40,7 @@ services dont la nature ou les aléas qui peuvent affecter leur réalisation ne
 permettent pas une fixation préalable et globale des prix ;
 
 5° Les marchés et les accords-cadres de travaux dont le montant est compris
-entre 206 000 Euros HT et 5 150 000 Euros HT.
+entre 206 000 euros HT et 5 150 000 euros HT.
 
 II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 
@@ -59,9 +59,10 @@ des articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L.
 marchés sont limités aux prestations strictement nécessaires pour faire face à
 la situation d'urgence.
 
-Par dérogation à l'article 13, lorsque l'urgence impérieuse est incompatible
-avec la préparation des documents constitutifs du marché, la passation du marché
-est confirmée par un échange de lettres ;
+Par dérogation aux dispositions du chapitre V du titre II de la première partie
+du présent code, lorsque l'urgence impérieuse est incompatible avec la
+préparation des documents constitutifs du marché, la passation du marché est
+confirmée par un échange de lettres ;
 
 2° Les marchés et les accords-cadres de fournitures concernant des produits
 fabriqués uniquement à des fins de recherche, d'essai, d'expérimentation,

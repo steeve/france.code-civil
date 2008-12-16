@@ -34,6 +34,10 @@ habilitations nécessaires pour représenter ces opérateurs économiques au sta
 de la passation du marché. Un même opérateur économique ne peut pas être
 mandataire de plus d'un groupement pour un même marché.
 
+L'acte d'engagement est signé soit par l'ensemble des entreprises groupées, soit
+par le mandataire s'il justifie des habilitations nécessaires pour représenter
+ces entreprises.
+
 V. - La composition du groupement ne peut être modifiée entre la date de remise
 des candidatures et la date de signature du marché. Toutefois, si le groupement
 apporte la preuve qu'un de ses membres est mis en liquidation judiciaire ou

@@ -1,6 +1,6 @@
 Article 11
 ----
-Les marchés et accords-cadres d'un montant égal ou supérieur à 4 000 Euros HT
+Les marchés et accords-cadres d'un montant égal ou supérieur à 4 000 euros HT
 sont passés sous forme écrite.
 
 Pour les marchés passés selon les procédures formalisées, l'acte d'engagement
@@ -11,3 +11,7 @@ un marché public dans laquelle le candidat présente son offre ou sa propositio
 dans le respect des clauses du cahier des charges qui déterminent les conditions
 dans lesquelles le marché est exécuté. Cet acte d'engagement est ensuite signé
 par le pouvoir adjudicateur.
+
+Lorsque les offres sont transmises par voie électronique, la signature de l'acte
+d'engagement est présentée selon les modalités prévues par un arrêté du ministre
+chargé de l'économie.

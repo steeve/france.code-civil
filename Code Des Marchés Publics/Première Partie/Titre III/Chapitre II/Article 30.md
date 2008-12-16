@@ -7,14 +7,14 @@ par l'article 28.
 
 II.-Toutefois :
 
-1° Les dispositions des III et IV de l'article 40 ne sont pas applicables ;
+1° Les dispositions du III de l'article 40 ne sont pas applicables ;
 
 2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à
-206 000 Euros HT, elles sont définies conformément aux dispositions de l'article
+206 000 euros HT, elles sont définies conformément aux dispositions de l'article
 6 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à
 l'article 85 ;
 
-3° Les marchés d'un montant égal ou supérieur à 206 000 Euros HT sont attribués
+3° Les marchés d'un montant égal ou supérieur à 206 000 euros HT sont attribués
 par la commission d'appel d'offres pour les collectivités territoriales et après
 avis de la commission d'appel d'offres pour l'Etat, les établissements publics
 de santé et les établissements publics sociaux ou médico-sociaux ;

@@ -40,10 +40,11 @@ compatibles avec les délais exigés par les procédures d'appel d'offres ou de
 marchés négociés avec mise en concurrence préalable et, notamment, les marchés
 conclus pour faire face à des situations d'urgence impérieuse liées à une
 catastrophe technologique ou naturelle. Ces marchés sont limités aux prestations
-strictement nécessaires pour faire face à la situation d'urgence Par dérogation
-à l'article 13, lorsque l'urgence impérieuse est incompatible avec la
-préparation des documents constitutifs du marché, la passation du marché est
-confirmée par un échange de lettres ;
+strictement nécessaires pour faire face à la situation d'urgence. Par dérogation
+aux dispositions du chapitre V du titre II de la première partie du présent
+code, lorsque l'urgence impérieuse est incompatible avec la préparation des
+documents constitutifs du marché, la passation du marché est confirmée par un
+échange de lettres ;
 
 5° Pour les marchés complémentaires de fournitures qui sont exécutés par le
 fournisseur initial et qui sont destinées soit au renouvellement partiel de

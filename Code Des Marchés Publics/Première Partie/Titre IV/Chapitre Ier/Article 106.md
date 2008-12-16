@@ -6,6 +6,10 @@ est délivrée en unique exemplaire en vue de permettre au titulaire de céder o
 de nantir des créances résultant du marché, soit un certificat de cessibilité
 conforme à un modèle défini par arrêté du ministre chargé de l'économie.
 
+La dématérialisation du certificat de cessibilité, établi selon un modèle
+électronique, s'effectue suivant les modalités prévues par un arrêté du ministre
+chargé de l'économie.
+
 L'exemplaire unique ou le certificat de cessibilité est remis par l'organisme
 bénéficiaire de la cession ou du nantissement au comptable assignataire en tant
 que pièce justificative pour le paiement.

@@ -2,9 +2,9 @@ Article 46
 ----
 I. - Le candidat auquel il est envisagé d'attribuer le marché produit en outre :
 
-1° Les pièces prévues aux articles R. 324-4 ou R. 324-7 du code du travail ; ces
-pièces sont à produire tous les six mois jusqu'à la fin de l'exécution du marché
-;
+1° Les pièces prévues aux articles D. 8222-5 ou D. 8222-7 et D. 8222-8 du code
+du travail ; ces pièces sont à produire tous les six mois jusqu'à la fin de
+l'exécution du marché ;
 
 2° Les attestations et certificats délivrés par les administrations et
 organismes compétents prouvant qu'il a satisfait à ses obligations fiscales et
@@ -31,7 +31,7 @@ marché ne lui soit attribué. Si nécessaire, cette procédure peut être repro
 tant qu'il subsiste des offres qui n'ont pas été écartées au motif qu'elles sont
 inappropriées, irrégulières ou inacceptables.
 
-IV. - Si les documents fournis par un candidat en application du présent article
-ne sont pas rédigés en langue française, le pouvoir adjudicateur peut exiger que
-ces documents soient accompagnés d'une traduction en français certifiée conforme
-à l'original par un traducteur assermenté.
+IV. - Le pouvoir adjudicateur peut exiger que les candidats joignent une
+traduction en français, certifiée conforme à l'original par un traducteur
+assermenté, aux documents rédigés dans une autre langue qu'ils remettent en
+application du présent article.

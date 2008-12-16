@@ -1,9 +1,10 @@
 Article 76
 ----
 I. - Les accords-cadres définis à l'article 1er sont passés selon les procédures
-et dans les conditions prévues par le présent code. Ils peuvent prévoir un
-minimum et un maximum en valeur ou en quantité ou être conclus sans minimum ni
-maximum.
+et dans les conditions prévues par le présent code. Dans ces accords-cadres le
+pouvoir adjudicateur a la faculté de prévoir un minimum et un maximum en valeur
+ou en quantité, ou un minimum, ou un maximum, ou encore être conclus sans
+minimum ni maximum.
 
 II. - Les marchés passés sur le fondement d'un accord-cadre sont des documents
 écrits qui précisent les caractéristiques et les modalités d'exécution des

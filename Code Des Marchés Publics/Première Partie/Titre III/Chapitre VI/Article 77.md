@@ -4,8 +4,9 @@ I. - Un marché à bons de commande est un marché conclu avec un ou plusieurs
 opérateurs économiques et exécuté au fur et à mesure de l'émission de bons de
 commande.
 
-Il peut prévoir un minimum et un maximum en valeur ou en quantité ou être conclu
-sans minimum ni maximum.
+Dans ce marché le pouvoir adjudicateur a la faculté de prévoir un minimum et un
+maximum en valeur ou en quantité, ou un minimum, ou un maximum, ou encore être
+conclus sans minimum ni maximum.
 
 L'émission des bons de commande s'effectue sans négociation ni remise en
 concurrence préalable des titulaires, selon des modalités expressément prévues
