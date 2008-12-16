@@ -62,8 +62,7 @@ assurances.
 XIII.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 sur le produit des taxes mentionnées aux articles 1609 vicies et 1618 septies
 dont le montant est fixé par arrêté du ministre chargé du budget et du ministre
-chargé de l'agriculture dans la limite de 0,5 % de ce produit, conformément à
-l'article L. 731-8 du code rural.
+chargé de l'agriculture dans la limite de 0,5 % de ce produit.
 
 XIV.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 2 % sur le montant de la taxe mentionnée à l'article 1011 bis.

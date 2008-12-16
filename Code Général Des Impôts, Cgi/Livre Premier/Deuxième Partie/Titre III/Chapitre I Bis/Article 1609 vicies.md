@@ -1,10 +1,9 @@
 Article 1609 vicies
 ----
-I. Il est institué au profit du Fonds de financement des prestations sociales
-des non-salariés agricoles mentionné à l'article L. 731-1 du code rural, en
-France continentale et en Corse, une taxe spéciale sur les huiles végétales,
-fluides ou concrètes, effectivement destinées, en l'état ou après incorporation
-dans tous produits alimentaires, à l'alimentation humaine.
+I. Il est institué, en France continentale et en Corse, une taxe spéciale sur
+les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état
+ou après incorporation dans tous produits alimentaires, à l'alimentation
+humaine.
 
 Cette taxe est due :
 

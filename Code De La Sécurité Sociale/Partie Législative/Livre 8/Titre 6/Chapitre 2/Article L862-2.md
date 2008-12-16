@@ -9,7 +9,6 @@ mois du trimestre civil au titre duquel le versement est effectué, de la prise
 en charge des dépenses mentionnées à l'article L. 861-3 au titre des
 dispositions du a de l'article L. 861-4 ;
 
-b) Par le versement aux organismes mentionnés au b de l'article L. 861-4 des
-montants définis à l'article L. 862-6 ;
+b) Par les montants des déductions mentionnées au III de l'article L. 862-4 ;
 
 c) Par les frais de gestion administrative du fonds.

@@ -35,7 +35,8 @@ national de dépenses d'assurance maladie. Ce montant prend en compte les
 évolutions de toute nature à la suite desquelles des établissements, des
 services ou des activités sanitaires ou médico-sociaux se trouvent placés pour
 tout ou partie sous un régime juridique ou de financement différent de celui
-sous lequel ils étaient placés auparavant.
+sous lequel ils étaient placés auparavant. Il peut être corrigé en fin d'année
+pour prendre en compte ces évolutions réalisées en cours d'année.
 
 Le montant de cet objectif est constitué en dotations régionales. Certaines des
 dépenses incluses dans l'objectif mentionné au premier alinéa peuvent ne pas

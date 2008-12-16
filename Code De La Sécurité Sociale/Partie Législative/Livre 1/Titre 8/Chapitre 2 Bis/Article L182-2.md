@@ -24,11 +24,3 @@ relatifs à l'assurance maladie ;
 
 6° De rendre un avis sur le montant de la base forfaitaire annuelle mentionnée à
 l'article L. 162-17-2-1.
-
-L'Union nationale des caisses d'assurance maladie peut, en accord avec les
-organisations syndicales représentatives concernées et dans des conditions
-précisées par décret, associer l'Union nationale des organismes d'assurance
-maladie complémentaire à la négociation et à la signature de tout accord,
-contrat ou convention prévus aux articles L. 162-1-13, L. 162-12-17, L.
-162-12-18, L. 162-12-20, L. 162-14-1, L. 162-14-2, L. 162-16-1, L. 162-32-1, L.
-162-39, L. 165-6 et à leurs annexes ou avenants.

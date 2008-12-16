@@ -50,16 +50,28 @@ données par le demandeur de l'autorisation de mise sur le marché ;
 b) Groupe générique, le regroupement d'une spécialité de référence et des
 spécialités qui en sont génériques. Toutefois, une spécialité remplissant les
 conditions pour être une spécialité de référence, qui présente la même
-composition qualitative et quantitative en principes actifs et la même forme
-pharmaceutique qu'une spécialité de référence d'un groupe générique déjà
-existant, et dont la bioéquivalence avec cette spécialité est démontrée par des
-études de biodisponibilité appropriées, peut aussi figurer dans ce groupe
-générique, à condition que ces deux spécialités soient considérées comme
-relevant d'une même autorisation de mise sur le marché globale, définie par voie
-réglementaire. En l'absence de spécialité de référence, un groupe générique peut
-être constitué de spécialités ayant la même composition qualitative et
-quantitative en principes actifs, la même forme pharmaceutique et dont les
-caractéristiques en termes de sécurité et d'efficacité sont équivalentes ;
+composition qualitative en substance active, la même composition quantitative en
+substance active ou, à défaut, une fraction thérapeutique active identique dans
+les limites prévues à l'annexe I de la directive 2001/83/CE du Parlement
+européen et du Conseil du 6 novembre 2001 instituant un code communautaire
+relatif aux médicaments à usage humain, et la même forme pharmaceutique qu'une
+spécialité de référence d'un groupe générique déjà existant, et dont la
+bioéquivalence avec cette spécialité est démontrée par des études de
+biodisponibilité appropriées, peut aussi figurer dans ce groupe générique, à
+condition que ces deux spécialités soient considérées comme relevant d'une même
+autorisation de mise sur le marché globale, définie par voie réglementaire et
+qu'elles ne présentent pas de propriétés sensiblement différentes au regard de
+la sécurité ou de l'efficacité. En l'absence de spécialité de référence, un
+groupe générique peut être constitué de spécialités ayant la même composition
+qualitative et quantitative en principes actifs, la même forme pharmaceutique et
+dont les caractéristiques en termes de sécurité et d'efficacité sont
+équivalentes. Pour l'application du présent b, sont inscrites au répertoire des
+groupes génériques les spécialités qui se présentent sous une forme
+pharmaceutique orale à libération modifiée différente de celle de la spécialité
+de référence, à condition que ces spécialités et la spécialité de référence
+appartiennent à la même catégorie de forme pharmaceutique à libération modifiée
+et qu'elles ne présentent pas de propriétés sensiblement différentes au regard
+de la sécurité ou de l'efficacité ;
 
 6° Médicament immunologique, tout médicament consistant en :
 

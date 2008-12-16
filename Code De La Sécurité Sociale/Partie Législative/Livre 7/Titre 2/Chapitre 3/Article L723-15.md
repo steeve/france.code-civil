@@ -1,10 +1,10 @@
 Article L723-15
 ----
 Le régime complémentaire obligatoire est financé exclusivement par les
-cotisations des assurés assises sur le revenu professionnel tel que défini au
-deuxième alinéa de l'article L. 131-6 ou sur les rémunérations brutes pour
-celles acquittées pour le compte des avocats visés au 19° de l'article L. 311-3,
-dans la limite d'un plafond.
+cotisations des assurés assises sur le revenu professionnel tel que défini aux
+deuxième et troisième alinéas de l'article L. 131-6 ou sur les rémunérations
+brutes pour celles acquittées pour le compte des avocats visés au 19° de
+l'article L. 311-3, dans la limite d'un plafond.
 
 Les cotisations d'assurance vieillesse complémentaire du conjoint collaborateur
 de l'avocat non salarié ont pour assiette, sur demande, un pourcentage du revenu

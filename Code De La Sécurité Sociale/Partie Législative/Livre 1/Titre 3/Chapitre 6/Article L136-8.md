@@ -34,7 +34,7 @@ un taux de 1,1 % et, par dérogation, de 1,08 % pour les revenus visés à
 l'article L. 136-2 soumis à la contribution au taux de 7,5 % ;
 
 2° Au fonds institué par l'article L. 135-1 pour la part correspondant à un taux
-de 1,05 % et, par dérogation, de 1,03 % pour les revenus visés à l'article L.
+de 0,85 % et, par dérogation, de 0,83 % pour les revenus visés à l'article L.
 136-2 soumis à la contribution au taux de 7,5 % ;
 
 3° A la Caisse nationale de solidarité pour l'autonomie visée à l'article 8 de
@@ -60,6 +60,10 @@ f) De 3,8 % pour les revenus mentionnés au III ;
 
 g) De 5,29 % pour les revenus mentionnés à l'article L. 136-2 soumis à la
 contribution au taux de 7,5 %.
+
+5° A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n°
+96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la
+part correspondant au taux de 0, 2 %.
 
 Le produit des contributions mentionnées au III de l'article L. 136-7-1 est
 réparti dans les mêmes proportions que les contributions visées aux I et II du

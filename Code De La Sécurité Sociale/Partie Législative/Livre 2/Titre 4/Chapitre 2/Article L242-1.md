@@ -94,7 +94,12 @@ l'article L. 1237-13 du code du travail, et les indemnités de départ volontair
 versées aux salariés dans le cadre d'un accord collectif de gestion
 prévisionnelle des emplois et des compétences, à hauteur de la fraction de ces
 indemnités qui est assujettie à l'impôt sur le revenu en application de
-l'article 80 duodecies du même code.
+l'article 80 duodecies du même code. Toutefois, les indemnités d'un montant
+supérieur à trente fois le plafond annuel défini par l'article L. 241-3 du
+présent code sont intégralement assimilées à des rémunérations pour le calcul
+des cotisations visées au premier alinéa du présent article. Pour l'application
+du présent alinéa, il est fait masse des indemnités liées à la rupture du
+contrat de travail et de celles liées à la cessation forcée des fonctions.
 
 Les attributions gratuites d'actions effectuées conformément aux dispositions
 des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de

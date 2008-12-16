@@ -13,3 +13,9 @@ maladie. Ces propositions tiennent compte des objectifs de santé publique.
 Les propositions de l'Union nationale des caisses d'assurance maladie sont
 soumises, préalablement à leur transmission, à l'avis du conseil mentionné à
 l'article L. 182-2-2.
+
+Ces propositions sont accompagnées d'un bilan détaillé de la mise en œuvre et de
+l'impact financier des propositions de l'année précédente qui ont été retenues
+dans le cadre de la mise en œuvre de la loi de financement de la sécurité
+sociale, ainsi que des négociations avec les professionnels de santé conduites
+en vertu de l'article L. 182-2.

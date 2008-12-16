@@ -1,8 +1,9 @@
 Article L353-1
 ----
 En cas de décès de l'assuré, son conjoint survivant a droit à une pension de
-réversion si ses ressources personnelles ou celles du ménage n'excèdent pas des
-plafonds fixés par décret.
+réversion à partir d'un âge et dans des conditions déterminés par décret si ses
+ressources personnelles ou celles du ménage n'excèdent pas des plafonds fixés
+par décret.
 
 La pension de réversion est égale à un pourcentage fixé par décret de la pension
 principale ou rente dont bénéficiait ou eût bénéficié l'assuré, sans pouvoir

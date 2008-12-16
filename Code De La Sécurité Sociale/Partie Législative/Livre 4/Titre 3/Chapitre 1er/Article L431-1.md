@@ -3,14 +3,14 @@ Article L431-1
 Les prestations accordées aux bénéficiaires du présent livre comprennent :
 
 1°) la couverture des frais médicaux, chirurgicaux, pharmaceutiques et
-accessoires, la fourniture, la réparation et le renouvellement des appareils de
-prothèse et d'orthopédie nécessités par l'infirmité résultant de l'accident, la
-réparation ou le remplacement de ceux que l'accident a rendu inutilisables, les
-frais de transport de la victime à sa résidence habituelle ou à l'établissement
-hospitalier et, d'une façon générale, la prise en charge des frais nécessités
-par le traitement, la réadaptation fonctionnelle, la rééducation professionnelle
-et le reclassement de la victime. Ces prestations sont accordées qu'il y ait ou
-non interruption de travail ;
+accessoires, des frais liés à l'accident afférents aux produits et prestations
+inscrits sur la liste prévue à l'article L. 165-1 et aux prothèses dentaires
+inscrites sur la liste prévue à l'article L. 162-1-7, des frais de transport de
+la victime à sa résidence habituelle ou à l'établissement hospitalier et, d'une
+façon générale, la prise en charge des frais nécessités par le traitement, la
+réadaptation fonctionnelle, la rééducation professionnelle et le reclassement de
+la victime. Ces prestations sont accordées qu'il y ait ou non interruption de
+travail ;
 
 2°) l'indemnité journalière due à la victime pendant la période d'incapacité
 temporaire qui l'oblige à interrompre son travail ; lorsque la victime est

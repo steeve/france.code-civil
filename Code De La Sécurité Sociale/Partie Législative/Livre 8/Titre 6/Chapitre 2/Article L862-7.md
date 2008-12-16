@@ -22,4 +22,20 @@ de l'article L. 861-4 ;
 
 d) Les organismes de sécurité sociale communiquent au fonds le nombre de
 personnes prises en charge et le montant des prestations servies au titre du a
-de l'article L. 861-4.
+de l'article L. 861-4 ;
+
+e) L'Autorité de contrôle des assurances et des mutuelles et le fonds mentionné
+à l'article L. 862-1 transmettent chaque année, avant le 1er juin, aux ministres
+chargés de la santé et de la sécurité sociale et au Parlement les données
+nécessaires à l'établissement des comptes des organismes visés au I de l'article
+L. 862-4.
+
+Sur cette base, le Gouvernement établit un rapport faisant apparaître notamment
+l'évolution du montant des primes ou cotisations mentionnées à ce même I, du
+montant des prestations afférentes à la protection complémentaire en matière de
+frais de soins de santé versées par ces organismes, du prix et du contenu des
+contrats ayant ouvert droit au crédit d'impôt mentionné à l'article L. 863-1, du
+montant des impôts, taxes et contributions qu'ils acquittent et de leur rapport
+de solvabilité.
+
+Ce rapport est remis avant le 15 septembre au Parlement. Il est rendu public.

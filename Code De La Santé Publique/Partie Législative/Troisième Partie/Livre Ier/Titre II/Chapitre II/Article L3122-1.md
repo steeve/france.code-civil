@@ -11,10 +11,9 @@ présente procédure.
 
 La réparation intégrale des préjudices définis au premier alinéa est assurée par
 l'Office national d'indemnisation des accidents médicaux, des affections
-iatrogènes et des infections nosocomiales mentionné à l'article L. 1142-22. Une
-commission d'indemnisation présidée par le président du conseil d'administration
-de l'office et un conseil composé notamment de représentants des associations
-concernées sont placés auprès du directeur de l'office.
+iatrogènes et des infections nosocomiales mentionné à l'article L. 1142-22. Un
+conseil d'orientation, composé notamment de représentants des associations
+concernées, est placé auprès du conseil d'administration de l'office.
 
 Les personnes qui ont à connaître des documents et informations fournis à
 l'office sont tenues au secret professionnel, dans les conditions et sous les

@@ -17,15 +17,16 @@ la santé publique, à l'exception des spécialités génériques définies à l
 L. 5121-1 du même code, hormis celles qui sont remboursées sur la base d'un
 tarif fixé en application de l'article L. 162-16 du présent code et à
 l'exception des médicaments orphelins désignés comme tels en application des
-dispositions du règlement (CE) n° 141/2000 du Parlement européen et du Conseil,
-du 16 décembre 1999, concernant les médicaments orphelins, dans la limite de
-l'indication ou des indications au titre de laquelle ou desquelles la
+dispositions du règlement (CE) n° 141 / 2000 du Parlement européen et du
+Conseil, du 16 décembre 1999, concernant les médicaments orphelins, dans la
+limite de l'indication ou des indications au titre de laquelle ou desquelles la
 désignation comme médicament orphelin a été accordée par la Commission
 européenne et sous réserve que le chiffre d'affaires remboursable ne soit pas
 supérieur à 20 millions d'euros. Le chiffre d'affaires concerné s'entend
 déduction faite des remises accordées par les entreprises.
 
-Le taux de la contribution est fixé à 0,6 %. La contribution est exclue des
+Le taux de la contribution due au titre du chiffre d'affaires réalisé au cours
+des années 2009, 2010 et 2011 est fixé à 1 %. La contribution est exclue des
 charges déductibles pour l'assiette de l'impôt sur le revenu ou de l'impôt sur
 les sociétés.
 

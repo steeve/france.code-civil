@@ -5,10 +5,11 @@ leurs ayants droit en cas de maladie, de maternité, d'invalidité, de vieilless
 et de décès, les prestations prévues par le code de la sécurité sociale. A cet
 effet, sont applicables au régime des assurances sociales agricoles :
 
-1° Les dispositions suivantes du livre III du code de la sécurité sociale :
-articles L. 311-5, L. 311-9, L. 311-10, chapitres III, IV et V du titre Ier,
-titre II à l'exception de l'article L. 321-3 et du chapitre V, titres III et IV,
-titre V à l'exception du chapitre VII, titre VI, titre VII, article L. 383-1 ;
+1° L'article L. 173-7 du code de la sécurité sociale, les dispositions suivantes
+du livre III du code de la sécurité sociale : articles L. 311-5, L. 311-9, L.
+311-10, chapitres III, IV et V du titre Ier, titre II à l'exception de l'article
+L. 321-3 et du chapitre V, titres III et IV, titre V à l'exception du chapitre
+VII, titre VI, titre VII, article L. 383-1 ;
 
 2° Le titre VIII du livre IV du code de la sécurité sociale à l'exclusion des
 articles L. 482-1 à L. 482-4.

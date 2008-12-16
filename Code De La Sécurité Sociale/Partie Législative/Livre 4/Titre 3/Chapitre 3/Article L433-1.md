@@ -20,5 +20,21 @@ travailleurs de la même catégorie professionnelle ou, s'il est plus élevé, l
 salaire sur lequel a été calculée l'indemnité journalière. En cas de
 dépassement, l'indemnité est réduite en conséquence.
 
+L'indemnité journalière peut également être maintenue, après avis du
+médecin-conseil, lorsque la victime demande à accéder durant son arrêt de
+travail, avec l'accord du médecin traitant, aux actions de formation
+professionnelle continue prévues à l'article L. 6313-1 du code du travail ou à
+d'autres actions d'évaluation, d'accompagnement, d'information et de conseil
+auxquelles la caisse primaire est partie prenante. La caisse informe l'employeur
+et le médecin du travail de sa décision de maintenir l'indemnité.
+
+L'indemnité journalière peut être rétablie pendant le délai mentionné à
+l'article L. 1226-11 du code du travail lorsque la victime ne peut percevoir
+aucune rémunération liée à son activité salariée. Le versement de l'indemnité
+cesse dès que l'employeur procède au reclassement dans l'entreprise du salarié
+inapte ou le licencie. Lorsque le salarié bénéficie d'une rente, celle-ci
+s'impute sur l'indemnité journalière. Un décret détermine les conditions
+d'application du présent alinéa.
+
 Le droit à l'indemnité journalière est ouvert dans les conditions définies à
 l'article L. 323-6.

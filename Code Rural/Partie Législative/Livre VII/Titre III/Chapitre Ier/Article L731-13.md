@@ -19,6 +19,10 @@ et de quarante ans au plus à la date de leur affiliation au régime de protecti
 sociale des personnes non salariées agricoles ; un décret détermine les
 dérogations qui peuvent être apportées à ces limites d'âge.
 
+Pour l'année 2009, cette exonération est applicable une année supplémentaire aux
+chefs d'exploitation ou d'entreprise agricole pour lesquels la cinquième année
+civile d'exonération s'est terminée le 31 décembre 2008.
+
 Les taux d'exonération, le plafond des exonérations et le montant minimal de
 cotisations dont les jeunes chefs d'exploitation ou d'entreprise agricole sont
 redevables sont déterminés par décret.

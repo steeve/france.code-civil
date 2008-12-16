@@ -5,8 +5,8 @@ l'article 125 A du code général des impôts, ainsi que les produits de même
 nature retenus pour l'établissement de l'impôt sur le revenu lorsque la personne
 qui en assure le paiement est établie en France, sont assujettis à une
 contribution à l'exception de ceux ayant déjà supporté la contribution au titre
-des 3° et 4° du II et sauf s'ils sont versés aux personnes visées au III du même
-article.
+de l'article L. 136-3 ou des 3° et 4° du II du présent article et sauf s'ils
+sont versés aux personnes visées au III de l'article 125 A précité.
 
 Sont également assujettis à cette contribution :
 
@@ -15,8 +15,9 @@ France au sens de l'article 4 B du code général des impôts, les revenus sur
 lesquels est opéré le prélèvement prévu à l'article 117 quater du même code,
 ainsi que les revenus de même nature dont le paiement est assuré par une
 personne établie en France et retenus pour l'établissement de l'impôt sur le
-revenu. Le présent 1° ne s'applique pas aux revenus perçus dans un plan
-d'épargne en actions défini au 5° du II du présent article ;
+revenu, à l'exception de ceux ayant déjà supporté la contribution au titre de
+l'article L. 136-3 du présent code. Le présent 1° ne s'applique pas aux revenus
+perçus dans un plan d'épargne en actions défini au 5° du II du présent article ;
 
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts.

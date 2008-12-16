@@ -11,10 +11,16 @@ d'hospitalisation non prises en charge par l'assurance maladie ne peuvent être
 facturées aux patients. La proposition du directeur de l'organisme local
 d'assurance maladie est motivée par le constat d'une proportion élevée de
 prestations d'hospitalisation avec hébergement qui auraient pu donner lieu à des
-prises en charge sans hébergement. La procédure contradictoire est mise en
-oeuvre dans les mêmes conditions que celles prévues pour les pénalités
-applicables pour non-respect des objectifs quantifiés mentionnées à l'article L.
-6114-2 du code de la santé publique.
+prises en charge sans hébergement, d'une proportion élevée de prestations
+d'hospitalisation facturées non conformes aux référentiels établis par la Haute
+Autorité de santé ou d'un nombre de prestations d'hospitalisation facturées
+significativement supérieur aux moyennes régionales ou nationales établies à
+partir des données mentionnées à l'article L. 6113-7 du code de la santé
+publique ou des données de facturation transmises à l'assurance maladie, pour
+une activité comparable. La procédure contradictoire est mise en oeuvre dans les
+mêmes conditions que celles prévues pour les pénalités applicables pour
+non-respect des objectifs quantifiés mentionnées à l'article L. 6114-2 du code
+de la santé publique.
 
 Toutefois, en cas d'urgence attestée par l'établissement, l'accord préalable du
 service du contrôle médical n'est pas requis pour la prise en charge des

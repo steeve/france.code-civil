@@ -16,17 +16,13 @@ II.-Les impôts et taxes mentionnés au I sont :
 impôts, nette des frais d'assiette et de recouvrement déterminés dans les
 conditions prévues au III de l'article 1647 du même code ;
 
-2° Le droit sur les bières et les boissons non alcoolisées, mentionné à
-l'article 520 A du même code ;
+2° abrogé ;
 
-3° Le droit de circulation sur les vins, cidres, poirés et hydromels, mentionné
-à l'article 438 du même code ;
+3° abrogé ;
 
-4° Le droit de consommation sur les produits intermédiaires, mentionné à
-l'article 402 bis du même code ;
+4° abrogé ;
 
-5° Les droits de consommation sur les alcools, mentionnés au I de l'article 403
-du même code ;
+5° abrogé ;
 
 6° La taxe sur les contributions patronales au financement de la prévoyance
 complémentaire, mentionnée à l'article L. 137-1 du présent code ;
@@ -40,7 +36,7 @@ produits pharmaceutiques, dans des conditions fixées par décret ;
 9° La taxe sur la valeur ajoutée brute collectée par les fournisseurs de tabacs,
 dans des conditions fixées par décret ;
 
-10° Une fraction égale à 10,26 % du droit de consommation sur les tabacs
+10° Une fraction égale à 37, 95 % du droit de consommation sur les tabacs
 mentionné à l'article 575 du code général des impôts ;
 
 11° Le droit de licence sur la rémunération des débitants de tabacs mentionné à
@@ -69,19 +65,13 @@ chemins de fer français et de la Régie autonome des transports parisiens.
 Les régimes et caisses de sécurité sociale concernés par les mesures
 d'allégement général de cotisations sociales mentionnées au I bénéficient d'une
 quote-part des recettes mentionnées au II au prorata de la part relative de
-chacun d'entre eux dans la perte de recettes en 2006 liée aux mesures
-d'allégement général de cotisations sociales mentionnées au I.
-
-Cette quote-part est fixée à titre provisoire par un arrêté conjoint des
-ministres chargés du budget et de la sécurité sociale, pris avant le 1er janvier
-2006 sur la base des dernières données disponibles. Cette quote-part sera
-définitivement arrêtée dans les mêmes conditions avant 1er juillet 2007 sur la
-base des données effectives de l'année 2006.
+chacun d'entre eux dans la perte de recettes liée aux mesures d'allégement
+général de cotisations sociales mentionnées au I.
 
 2.L'Agence centrale des organismes de sécurité sociale est chargée de
 centraliser le produit des taxes et des impôts mentionnés au II et d'effectuer
 sa répartition entre les caisses et régimes de sécurité sociale mentionnés au
-présent III conformément à l'arrêté mentionné au 1.
+présent III conformément au dernier alinéa du au 1.
 
 3. Un arrêté des ministres chargés du budget, de la sécurité sociale et de
 l'agriculture adapte les règles comptables prises en application de l'article L.
@@ -90,8 +80,8 @@ II.
 
 IV. Abrogé
 
-V.-Le Gouvernement remettra au Parlement en 2008 et 2009 un rapport retraçant,
-au titre de l'année précédente, d'une part, les recettes des impôts et taxes
+V.-Le Gouvernement remet chaque année au Parlement un rapport retraçant, au
+titre de l'année précédente, d'une part, les recettes des impôts et taxes
 affectés aux caisses et régimes mentionnés au III en application du présent
 article et, d'autre part, le montant constaté de la perte de recettes liée aux
 mesures d'allégements de cotisations sociales mentionnées au I. En cas d'écart

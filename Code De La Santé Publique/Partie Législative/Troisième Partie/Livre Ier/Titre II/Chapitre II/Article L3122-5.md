@@ -18,6 +18,4 @@ débiteurs du chef du même préjudice.
 
 L'offre d'indemnisation adressée à la victime en application du premier alinéa
 est présentée par le directeur de l'Office national d'indemnisation des
-accidents médicaux, des affections iatrogènes et des infections nosocomiales,
-sur avis conforme de la commission d'indemnisation mentionnée à l'article L.
-3122-1.
+accidents médicaux, des affections iatrogènes et des infections nosocomiales.

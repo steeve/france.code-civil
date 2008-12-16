@@ -11,8 +11,9 @@ L'office diligente une expertise et procède à toute investigation sans que
 puisse lui être opposé le secret professionnel.
 
 L'offre d'indemnisation adressée à la victime ou, en cas de décès, à ses ayants
-droit est présentée par le directeur de l'office, sur avis conforme d'une
-commission d'indemnisation.
+droit est présentée par le directeur de l'office. Un conseil d'orientation,
+composé notamment de représentants des associations concernées, est placé auprès
+du conseil d'administration de l'office.
 
 L'offre indique l'évaluation retenue pour chaque chef de préjudice, nonobstant
 l'absence de consolidation ainsi que le montant des indemnités qui reviennent à

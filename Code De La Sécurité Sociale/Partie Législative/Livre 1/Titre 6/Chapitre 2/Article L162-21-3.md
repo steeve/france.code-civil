@@ -21,8 +21,7 @@ santé publics et privés.
 Il remet au Gouvernement et au Parlement un rapport semestriel sur l'évolution
 des dépenses d'assurance maladie relatives aux frais d'hospitalisation. Le
 Gouvernement consulte l'observatoire préalablement à la mise en oeuvre de la
-procédure prévue au second alinéa du II des articles L. 162-22-3 et L.
-162-22-10.
+procédure prévue au II bis des articles L. 162-22-3 et L. 162-22-10.
 
 L'observatoire est composé :
 

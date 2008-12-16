@@ -17,5 +17,5 @@ code de la sécurité sociale sur la base du salaire minimum prévu à l'article
 Le titulaire de l'allocation prévue au premier alinéa, dont l'infirmité
 résultant de l'accident ou de la maladie nécessite un appareil de prothèse ou
 d'orthopédie a droit à la fourniture, à la réparation et au renouvellement de
-cet appareil, selon les modalités techniques prévues en application de l'article
-L. 432-5 du code de la sécurité sociale.
+cet appareil dans les conditions prévues à l'article L. 432-3 du code de la
+sécurité sociale.

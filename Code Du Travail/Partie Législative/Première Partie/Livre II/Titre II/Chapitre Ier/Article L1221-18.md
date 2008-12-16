@@ -8,8 +8,9 @@ anticipée d'activité au cours de l'année civile précédente, leur âge et le
 montant de l'avantage qui leur est alloué. Cette déclaration indique également
 le nombre de mises à la retraite d'office à l'initiative de l'employeur
 intervenant dans les conditions des articles L. 1237-5 à L. 1237-10 et le nombre
-de salariés âgés de soixante ans et plus licenciés au cours de l'année civile
-précédant la déclaration.
+de salariés âgés de cinquante-cinq ans et plus licenciés ou ayant bénéficié de
+la rupture conventionnelle mentionnée à l'article L. 1237-11 au cours de l'année
+civile précédant la déclaration.
 
 Le défaut de production, dans les délais prescrits, de cette déclaration
 entraîne une pénalité dont le montant est égal à six cents fois le taux horaire
@@ -23,5 +24,8 @@ sécurité sociale et du ministre chargé de l'emploi.
 
 L'obligation de déclaration mentionnée au premier alinéa ne s'applique qu'aux
 employeurs dont au moins un salarié ou assimilé est parti en préretraite ou a
-été placé en cessation anticipée d'activité au cours de l'année civile
-précédente.
+été placé en cessation anticipée d'activité ou a été mis en retraite à
+l'initiative de l'employeur au cours de l'année civile précédente ainsi qu'aux
+employeurs dont au moins un salarié âgé de cinquante-cinq ans ou plus a été
+licencié ou a bénéficié de la rupture conventionnelle mentionnée à l'article L.
+1237-11 au cours de l'année civile précédente.

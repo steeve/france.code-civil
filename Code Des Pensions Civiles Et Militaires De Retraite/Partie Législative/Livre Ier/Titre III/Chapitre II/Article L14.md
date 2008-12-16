@@ -77,13 +77,12 @@ l'âge de soixante ans, un coefficient de majoration s'applique au montant de la
 pension liquidée en application des articles L. 13 et L. 15.
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de
-liquidation de la pension, au nombre de trimestres de services effectués après
+liquidation de la pension, au nombre de trimestres d'assurance effectués après
 le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
 trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article
 L. 13.
 
-Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des
-conditions définies par décret.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
-Le coefficient de majoration est de 0,75 % par trimestre supplémentaire, dans la
+Le coefficient de majoration est de 1,25 % par trimestre supplémentaire, dans la
 limite de vingt trimestres.

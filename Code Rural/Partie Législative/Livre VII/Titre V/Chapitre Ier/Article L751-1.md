@@ -39,7 +39,13 @@ actions favorisant leur reconversion ;
 disposition législative ou réglementaire auprès d'une autorité de l'Etat, pour
 les accidents survenus par le fait ou à l'occasion de leurs missions, dans la
 mesure où ils ne bénéficient pas à un autre titre des dispositions du présent
-article.
+article ;
+
+8° Les élèves et étudiants des établissements autres que ceux mentionnés au 1°
+effectuant, auprès d'un employeur relevant du régime agricole, un stage dans les
+conditions définies à l'article 9 de la loi n° 2006-396 du 31 mars 2006 pour
+l'égalité des chances, pour les accidents survenus par le fait ou à l'occasion
+de stages effectués dans le cadre de leur scolarité ou de leurs études.
 
 III. - En ce qui concerne les personnes mentionnées au II, des décrets
 déterminent à qui incombent les obligations de l'employeur et fixent les bases

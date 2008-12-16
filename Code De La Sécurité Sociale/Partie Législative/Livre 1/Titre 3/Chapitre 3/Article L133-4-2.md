@@ -4,18 +4,18 @@ Le bénéfice de toute mesure de réduction et d'exonération, totale ou partiel
 de cotisations de sécurité sociale ou de contributions dues aux organismes de
 sécurité sociale, appliquée par un employeur ou un travailleur indépendant sans
 qu'il soit tenu d'en faire une demande préalable, est subordonné au respect par
-l'employeur ou le travailleur indépendant des dispositions de l'article L. 324-9
-du code du travail.
+l'employeur ou le travailleur indépendant des dispositions des articles L.
+8221-1 et L. 8221-2 du code du travail.
 
-Lorsque l'infraction définie aux quatrième et cinquième alinéas de l'article L.
-324-10 du même code est constatée par procès-verbal dans les conditions
-déterminées à l'article L. 324-12 du même code, l'organisme de recouvrement
-procède, dans la limite de la prescription applicable en matière de travail
-dissimulé, à l'annulation des réductions ou exonérations des cotisations ou
-contributions mentionnées au premier alinéa du présent article et pratiquées au
-cours d'un mois civil, lorsque les rémunérations versées ou dues à un ou des
-salariés dissimulés au cours de ce mois sont au moins égales à la rémunération
-mensuelle minimale définie à l'article L. 141-11 du même code.
+Lorsque l'infraction définie aux articles L. 8221-3 et L. 8221-5 du même code
+est constatée par procès-verbal dans les conditions déterminées aux articles L.
+8271-7 à L. 8271-12 du même code, l'organisme de recouvrement procède, dans la
+limite de la prescription applicable en matière de travail dissimulé, à
+l'annulation des réductions ou exonérations des cotisations ou contributions
+mentionnées au premier alinéa du présent article et pratiquées au cours d'un
+mois civil, lorsque les rémunérations versées ou dues à un ou des salariés
+dissimulés au cours de ce mois sont au moins égales à la rémunération mensuelle
+minimale définie à l'article L. 3232-3 du même code.
 
 Lorsque les rémunérations dissimulées au cours du mois sont inférieures à la
 rémunération mensuelle minimale mentionnée au deuxième alinéa, l'annulation est

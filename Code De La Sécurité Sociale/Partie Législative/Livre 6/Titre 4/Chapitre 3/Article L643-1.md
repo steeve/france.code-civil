@@ -4,9 +4,8 @@ Le montant de la pension servie par le régime d'assurance vieillesse de base de
 professions libérales est obtenu par le produit du nombre total de points porté
 au compte de l'intéressé par la valeur de service du point.
 
-La valeur de service du point est fixée par décret, après avis de la Caisse
-nationale d'assurance vieillesse des professions libérales, en fonction de
-l'équilibre des produits et des charges du régime.
+La valeur de service du point est revalorisée dans les conditions prévues à
+l'article L. 161-23-1.
 
 Les femmes ayant accouché au cours d'une année civile d'affiliation au régime
 d'assurance vieillesse des professions libérales bénéficient de points

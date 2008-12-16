@@ -21,6 +21,6 @@ familial défini par le 2° de l'article L. 722-10 ont également droit à la
 pension de retraite proportionnelle dans les conditions prévues aux 2° des
 articles L. 732-24 et L. 762-29.
 
-A compter du premier jour du mois suivant la publication du décret prévu à
-l'article L. 321-5, la qualité de conjoint participant aux travaux au sens de la
-deuxième phrase du deuxième alinéa du présent article ne peut plus être acquise.
+A compter du 1er janvier 2009, le conjoint participant aux travaux, au sens de
+la deuxième phrase du deuxième alinéa du présent article, opte pour une des
+qualités prévues à l'article L. 321-5.

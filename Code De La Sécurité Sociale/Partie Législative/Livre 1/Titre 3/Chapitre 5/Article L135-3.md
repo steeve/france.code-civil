@@ -6,8 +6,8 @@ modernisation sociale sont constituées par :
 
 1° Une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant
-correspondant à l'application d'un taux de 1,05 % à l'assiette de ces
-contributions ;
+correspondant à l'application des taux fixés au 2° du IV de l'article L. 136-8
+aux assiettes de ces contributions ;
 
 2° (Paragraphe supprimé)
 

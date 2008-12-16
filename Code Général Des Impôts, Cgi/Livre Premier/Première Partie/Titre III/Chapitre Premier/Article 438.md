@@ -28,3 +28,10 @@ mousseuses.
 
 3° 1,20 euro pour les cidres, les poirés, les hydromels et les jus de raisin
 légèrement fermentés dénommés "pétillants de raisin".
+
+Le tarif du droit de circulation est relevé au 1er janvier de chaque année dans
+une proportion égale au taux de croissance de l'indice des prix à la
+consommation hors tabac de l'avant-dernière année. Il est exprimé avec deux
+chiffres significatifs après la virgule, le second chiffre étant augmenté d'une
+unité si le chiffre suivant est égal ou supérieur à cinq . Il est publié au
+Journal officiel par arrêté du ministre chargé du budget.

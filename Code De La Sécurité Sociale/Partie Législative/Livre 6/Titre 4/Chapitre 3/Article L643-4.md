@@ -19,3 +19,6 @@ c) Anciens déportés et internés titulaires de la carte de déporté ou intern
 la Résistance ou de la carte de déporté ou interné politique ;
 
 d) Personnes mentionnées au 5° de l'article L. 351-8.
+
+3° Des travailleurs handicapés admis à demander la liquidation de leur pension
+de retraite dans les conditions prévues au III de l'article L. 643-3.

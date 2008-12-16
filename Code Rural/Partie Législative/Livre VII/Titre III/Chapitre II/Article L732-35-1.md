@@ -11,7 +11,10 @@ d'activité accomplies en tant qu'aide familial à compter de l'âge de quatorze
 ans peuvent être prises en compte par le régime d'assurance vieillesse des
 personnes non salariées des professions agricoles.
 
-Un décret détermine les conditions d'application du présent article et,
-notamment, le mode de calcul des cotisations et les modalités selon lesquelles
-les demandes de versement de cotisations correspondant à ces périodes doivent
-être présentées.
+Un décret détermine les conditions d'application du présent article et notamment
+les modalités selon lesquelles les demandes de versement de cotisations
+correspondant à ces périodes doivent être présentées. Il précise également le
+mode de calcul des cotisations selon qu'elles sont prises en compte pour
+l'ouverture du droit et le calcul des pensions de vieillesse au titre des seuls
+régimes des salariés et non-salariés des professions agricoles ou au titre de
+l'ensemble des régimes de base légalement obligatoires.

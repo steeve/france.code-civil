@@ -11,6 +11,12 @@ les conditions fixées au présent article.L'inscription sur la liste peut
 elle-même être subordonnée au respect d'indications thérapeutiques ou
 diagnostiques, à l'état du patient ainsi qu'à des conditions particulières de
 prescription, d'utilisation ou de réalisation de l'acte ou de la prestation.
+Lorsqu'il s'agit d'actes réalisés en série, ces conditions de prescription
+peuvent préciser le nombre d'actes au-delà duquel un accord préalable du service
+du contrôle médical est nécessaire en application de l'article L. 315-2 pour
+poursuivre à titre exceptionnel la prise en charge, sur le fondement d'un
+référentiel élaboré par la Haute Autorité de santé ou validé par celle-ci sur
+proposition de l'Union nationale des caisses d'assurance maladie.
 
 La hiérarchisation des prestations et des actes est établie dans le respect des
 règles déterminées par des commissions créées pour chacune des professions dont
@@ -36,10 +42,3 @@ de santé publique par arrêté pris après avis de la Haute Autorité de santé
 ce cas, il fixe la hiérarchisation de l'acte ou de la prestation dans le respect
 des règles mentionnées ci-dessus. Les tarifs de ces actes et prestations sont
 publiés au Journal officiel de la République française.
-
-Après avis de la Haute Autorité de santé, un acte en phase de recherche clinique
-ou d'évaluation du service qu'il rend peut être inscrit, pour une période
-déterminée, sur la liste visée au premier alinéa.L'inscription et la prise en
-charge sont soumises au respect d'une procédure et de conditions particulières
-définies par convention entre l'Union nationale des caisses d'assurance maladie
-et la Haute Autorité de santé.

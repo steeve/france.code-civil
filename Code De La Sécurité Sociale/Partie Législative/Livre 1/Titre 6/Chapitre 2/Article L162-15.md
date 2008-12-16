@@ -45,7 +45,7 @@ mise en oeuvre. Lorsque pour ces autres professions, moins de trois
 organisations syndicales ont été reconnues représentatives, l'opposition peut
 être formée par une seule organisation représentative si celle-ci réunit au
 moins le double des effectifs de professionnels libéraux représentés par
-l'organisation syndicale signataire. L'opposition prévue au présent alinéa
+l'organisation syndicale signataire.L'opposition prévue au présent alinéa
 s'exerce dans le mois qui suit la signature de l'accord et avant la transmission
 de ce dernier aux ministres.
 
@@ -76,4 +76,7 @@ aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L.
 et un jours à compter de la réception du texte. Il est transmis à l'Union
 nationale des caisses d'assurance maladie, qui en assure la transmission aux
 ministres chargés de la santé et de la sécurité sociale simultanément à celle de
-la convention, l'avenant, l'accord-cadre ou l'accord interprofessionnel.
+la convention, l'avenant, l'accord-cadre ou l'accord interprofessionnel. Le
+présent alinéa ne s'applique pas lorsque l'Union nationale des organismes
+d'assurance maladie complémentaire participe aux négociations dans les
+conditions prévues à l'article L. 162-14-3.

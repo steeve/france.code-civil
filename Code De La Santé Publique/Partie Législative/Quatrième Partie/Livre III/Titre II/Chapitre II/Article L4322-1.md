@@ -11,3 +11,7 @@ confectionner et appliquer les semelles destinées à soulager les affections
 
 Sur ordonnance et sous contrôle médical, les pédicures-podologues peuvent
 traiter les cas pathologiques de leur domaine de compétence.
+
+Les pédicures-podologues peuvent adapter, dans le cadre d'un renouvellement, les
+prescriptions médicales initiales d'orthèses plantaires datant de moins de trois
+ans, dans des conditions fixées par décret et sauf opposition du médecin.

@@ -11,7 +11,3 @@ médical et l'action sanitaire et sociale.
 Un décret fixe les conditions dans lesquelles sont déterminées les cotisations
 affectées aux dépenses complémentaires au titre des différentes branches du
 régime des non-salariés mentionnées à l'alinéa ci-dessus.
-
-L'évaluation du produit des cotisations affectées aux dépenses complémentaires
-et leur emploi sont mentionnés à titre indicatif dans le budget annexe des
-prestations sociales agricoles.

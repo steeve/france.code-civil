@@ -23,7 +23,13 @@ contrat de travail, au sens de l'article L. 1237-13 du code du travail, et les
 indemnités de départ volontaire versées aux salariés dans le cadre d'un accord
 collectif de gestion prévisionnelle des emplois et des compétences, à hauteur de
 la fraction de ces indemnités qui est assujettie à l'impôt sur le revenu en
-application de l'article 80 duodecies du même code.
+application de l'article 80 duodecies du même code. Toutefois, les indemnités
+d'un montant supérieur à trente fois le plafond annuel mentionné au a du II de
+l'article L. 741-9 du présent code sont intégralement assimilées à des
+rémunérations pour le calcul des cotisations visées au premier alinéa. Pour
+l'application du présent alinéa, il est fait masse des indemnités liées à la
+rupture du contrat de travail et de celles liées à la cessation forcée des
+fonctions.
 
 Ne sont pas comprises dans la rémunération entrant dans l'assiette des
 cotisations, les prestations d'assurances sociales agricoles versées par
@@ -62,8 +68,9 @@ l'application de ces limites ;
 prestations complémentaires de prévoyance, à condition, lorsque ces
 contributions financent des garanties portant sur le remboursement ou
 l'indemnisation de frais occasionnés par une maladie, une maternité ou un
-accident, que ces garanties ne couvrent pas la participation mentionnée au II de
-l'article L. 322-2 du code de la sécurité sociale.
+accident, que ces garanties ne couvrent pas la participation forfaitaire ou la
+franchise annuelle respectivement mentionnées aux II et III de l'article L.
+322-2 du code de la sécurité sociale.
 
 Toutefois, les dispositions des trois alinéas précédents ne sont pas applicables
 lorsque lesdites contributions se substituent à d'autres éléments de
@@ -87,10 +94,9 @@ l'exploitant sur la rémunération du stagiaire.
 
 Les attributions gratuites d'actions effectuées conformément aux dispositions
 des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de
-l'assiette des cotisations mentionnées au premier alinéa si sont respectées les
-conditions d'attribution fixées par le conseil d'administration ou, le cas
-échéant, le directoire en application des dispositions du sixième alinéa de
-l'article L. 225-197-1 du même code et si l'employeur notifie à son organisme de
+l'assiette des cotisations mentionnées au premier alinéa si elles sont
+conservées dans les conditions mentionnées au I de l'article 80 quaterdecies du
+code général des impôts et si l'employeur notifie à son organisme de
 recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
 actions gratuites ont été attribuées définitivement au cours de l'année civile
 précédente, ainsi que le nombre et la valeur des actions attribuées à chacun

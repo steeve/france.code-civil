@@ -4,10 +4,9 @@ Le service d'une pension de vieillesse prenant effet postérieurement au 31 mars
 1983, liquidée au titre du régime général de sécurité sociale, du régime des
 salariés agricoles ou d'un régime spécial de retraite au sens de l'article L.
 711-1 et dont l'entrée en jouissance intervient à compter d'un âge fixé par
-décret en Conseil d'Etat, ou ultérieurement, est subordonné à la rupture
-définitive de tout lien professionnel avec l'employeur ou, pour les assurés
-exerçant une activité non salariée relevant du ou desdits régimes, à la
-cessation définitive de cette activité.
+décret en Conseil d'Etat, ou ultérieurement, est subordonné à la rupture de tout
+lien professionnel avec l'employeur ou, pour les assurés exerçant une activité
+non salariée relevant du ou desdits régimes, à la cessation de cette activité.
 
 Les dispositions du premier alinéa ne font pas obstacle à la reprise d'une
 activité procurant des revenus qui, ajoutés aux pensions servies par les régimes
@@ -23,6 +22,20 @@ pensions servies par les régimes mentionnés au premier alinéa ainsi que par l
 régimes complémentaires légalement obligatoires régis par le livre IX, sont
 supérieurs au plafond mentionné à l'alinéa précédent, il en informe la ou les
 caisses compétentes et le service de ces pensions est suspendu.
+
+Par dérogation aux deux précédents alinéas, et sous réserve que l'assuré ait
+liquidé ses pensions de vieillesse personnelles auprès de la totalité des
+régimes légaux ou rendus légalement obligatoires, de base et complémentaires,
+français et étrangers, ainsi que des régimes des organisations internationales
+dont il a relevé, une pension de vieillesse peut être entièrement cumulée avec
+une activité professionnelle :
+
+a) A partir de l'âge prévu au 1° de l'article L. 351-8 ;
+
+b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1, lorsque
+l'assuré justifie d'une durée d'assurance et de périodes reconnues équivalentes
+mentionnée au deuxième alinéa du même article au moins égale à la limite
+mentionnée au même alinéa.
 
 Les dispositions du premier alinéa ne font pas obstacle à l'exercice des
 activités suivantes :

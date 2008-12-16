@@ -1,7 +1,12 @@
 Article L3261-4
 ----
-En dehors de la zone de compétence de l'autorité organisatrice des transports
-dans la région d'Ile-de-France, l'employeur peut prendre en charge tout ou
-partie du prix des titres d'abonnement souscrits par ses salariés pour leurs
-déplacements au moyen de transports publics de personnes entre leur résidence et
-leur lieu de travail.
+La prise en charge des frais de carburant mentionnée à l'article L. 3261-3 est
+mise en œuvre :
+
+1° Pour les entreprises entrant dans le champ d'application de l'article L.
+2242-1, par accord entre l'employeur et les représentants d'organisations
+syndicales représentatives dans l'entreprise ;
+
+2° Pour les autres entreprises, par décision unilatérale de l'employeur après
+consultation du comité d'entreprise ou, à défaut, des délégués du personnel s'il
+en existe.

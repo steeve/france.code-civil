@@ -27,9 +27,14 @@ la prestation jusqu'à la production des pièces demandées.
 
 Pour le service des prestations sous condition de ressources, l'appréciation des
 ressources prend en compte les prestations et ressources d'origine française,
-étrangère ou versées par une organisation internationale. Un décret en Conseil
-d'Etat prévoit les conditions dans lesquelles la vérification de l'exactitude
-des déclarations relatives aux revenus de source étrangère peut être confiée à
-un ou plusieurs organismes du régime général de sécurité sociale agissant pour
-le compte de l'ensemble des régimes. Les dispositions de l'article L. 114-11
-sont applicables à cette vérification.
+étrangère ou versées par une organisation internationale. Afin de permettre
+l'appréciation de ressources d'origine étrangère, le demandeur doit produire
+tout renseignement ou pièce justificative utile à l'identification de sa
+situation fiscale et sociale dans le pays dans lequel il a résidé à l'étranger
+au cours des douze mois précédant sa demande ou dans lequel il continue à
+percevoir des ressources. Un décret en Conseil d'Etat prévoit les conditions
+dans lesquelles la vérification de l'exactitude des déclarations relatives aux
+revenus de source étrangère peut être confiée à un ou plusieurs organismes du
+régime général de sécurité sociale agissant pour le compte de l'ensemble des
+régimes. Les dispositions de l'article L. 114-11 sont applicables à cette
+vérification.

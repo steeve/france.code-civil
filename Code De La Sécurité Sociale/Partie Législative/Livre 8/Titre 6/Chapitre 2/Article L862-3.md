@@ -2,17 +2,16 @@ Article L862-3
 ----
 Les recettes du fonds sont constituées par :
 
-a) Un versement des organismes mentionnés à l'article L. 862-4 établi dans les
-conditions fixées par ce même article ;
+a) Le produit de la contribution mentionnée au I de l'article L. 862-4 ;
 
 b) Une dotation budgétaire de l'Etat destinée à équilibrer le fonds ;
 
-c) Une dotation globale de l'assurance maladie versée dans les conditions
-prévues par l'article L. 174-2 ;
+c) (Abrogé)
 
-d) Le produit de la cotisation mentionnée à l'article L. 245-7 ;
+d) (Abrogé)
 
-e) Une fraction de 4,34 % du droit de consommation prévu à l'article 575 du code
-général des impôts.
+e) (Abrogé)
 
-Le solde annuel des dépenses et des recettes du fonds doit être nul.
+Tout ou partie du report à nouveau positif du fonds est affecté à la Caisse
+nationale de l'assurance maladie des travailleurs salariés dans des conditions
+fixées par arrêté des ministres chargés de la sécurité sociale et du budget.

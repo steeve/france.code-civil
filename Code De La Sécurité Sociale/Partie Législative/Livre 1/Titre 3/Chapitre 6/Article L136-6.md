@@ -4,7 +4,7 @@ I.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont assujetties à une contribution sur
 les revenus du patrimoine assise sur le montant net retenu pour l'établissement
 de l'impôt sur le revenu, à l'exception de ceux ayant déjà supporté la
-contribution au titre de l'article L. 136-7 :
+contribution au titre des articles L. 136-3 et L. 136-7 :
 
 a) Des revenus fonciers ;
 

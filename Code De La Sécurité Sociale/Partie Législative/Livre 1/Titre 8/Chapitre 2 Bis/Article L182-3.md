@@ -30,3 +30,16 @@ actions communes menées en matière de gestion du risque.
 
 L'Union nationale des organismes d'assurance maladie complémentaire peut être
 constituée sous la forme d'une association régie par la loi du 1er juillet 1901.
+
+La décision de signer un accord, une convention ou un avenant mentionnés à
+l'article L. 162-14-3 est prise par le conseil de l'Union nationale des
+organismes d'assurance maladie complémentaire. Elle est prise à la majorité de
+60 % au moins des voix exprimées en ce qui concerne les accords mentionnés au
+deuxième alinéa de l'article L. 162-14-3.
+
+L'Union nationale des organismes d'assurance maladie complémentaire transmet,
+avant le 15 juin de chaque année, au Parlement et au ministre chargé de la
+sécurité sociale, un bilan détaillé des négociations auxquelles elle a décidé de
+participer en application de l'article L. 162-14-3, ainsi que de la mise en
+œuvre des accords, conventions ou avenants qu'elle a signés à l'issue de ces
+négociations.

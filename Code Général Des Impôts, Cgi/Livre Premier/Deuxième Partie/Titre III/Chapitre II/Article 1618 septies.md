@@ -1,11 +1,9 @@
 Article 1618 septies
 ----
-Il est institué au profit du Fonds de financement des prestations sociales des
-non-salariés agricoles mentionné à l'article L. 731-1 du code rural une taxe
-portant sur les quantités de farines, semoules et gruaux de blé tendre livrées
-ou mises en oeuvre en vue de la consommation humaine, ainsi que sur les mêmes
-produits introduits en provenance d'autres Etats membres de la Communauté
-européenne ou importés de pays tiers.
+Il est institué une taxe portant sur les quantités de farines, semoules et
+gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation
+humaine, ainsi que sur les mêmes produits introduits en provenance d'autres
+Etats membres de la Communauté européenne ou importés de pays tiers.
 
 Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats
 membres de la Communauté européenne, exportés ou destinés à être exportés vers

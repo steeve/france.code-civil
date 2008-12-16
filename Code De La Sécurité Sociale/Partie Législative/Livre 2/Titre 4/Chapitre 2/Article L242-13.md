@@ -1,6 +1,6 @@
 Article L242-13
 ----
-I. - Le régime local d'assurance maladie complémentaire obligatoire des
+I.-Le régime local d'assurance maladie complémentaire obligatoire des
 départements du Haut-Rhin, du Bas-Rhin et de la Moselle est financé par :
 
 1° Une cotisation à la charge des assurés mentionnés aux 1° à 3° du II de
@@ -23,11 +23,11 @@ cotisation est précomptée par les organismes débiteurs français au bénéfic
 régime local lors de chaque versement de ces avantages ou allocations et versée
 directement à ce régime.
 
-II. - Le conseil d'administration de l'instance de gestion du régime local
+II.-Le conseil d'administration de l'instance de gestion du régime local
 détermine les exonérations accordées en cas d'insuffisance de ressources, selon
 les principes fixés par l'article L. 136-2 et par le premier alinéa de l'article
 L. 380-2.
 
 Il fixe les taux de cotisation permettant de garantir le respect de l'équilibre
-financier du régime dans la limite d'une fourchette fixée par décret. L'article
-L. 131-7-1 n'est pas applicable à ces cotisations.
+financier du régime dans la limite d'une fourchette fixée par décret.L'article
+L. 131-9 n'est pas applicable à ces cotisations.

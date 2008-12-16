@@ -81,15 +81,25 @@ professionnel ou interprofessionnel ou à défaut par la loi, ou, en l'absence d
 montant légal ou conventionnel pour ce motif, pour la fraction qui excède
 l'indemnité légale ou conventionnelle de licenciement. En tout état de cause,
 cette fraction ne peut être inférieure au montant assujetti à l'impôt sur le
-revenu en application de l'article 80 duodecies du code général des impôts. Sont
-également assujetties toutes sommes versées à l'occasion de la modification du
-contrat de travail ;
+revenu en application de l'article 80 duodecies du code général des impôts.
+Toutefois, les indemnités d'un montant supérieur à trente fois le plafond annuel
+défini par l'article L. 241-3 du présent code sont assujetties dès le premier
+euro ; pour l'application des présentes dispositions, il est fait masse des
+indemnités liées à la rupture du contrat de travail et de celles versées en cas
+de cessation forcée des fonctions des personnes visées au 5° bis du présent II.
+Sont également assujetties toutes sommes versées à l'occasion de la modification
+du contrat de travail ;
 
 5° bis Les indemnités versées à l'occasion de la cessation de leurs fonctions
 aux mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du
 code général des impôts, ou, en cas de cessation forcée de ces fonctions, la
 fraction de ces indemnités qui excède les montants définis au deuxième alinéa du
-1 de l'article 80 duodecies du même code ;
+1 de l'article 80 duodecies du même code ; Toutefois, en cas de cessation forcée
+des fonctions, les indemnités d'un montant supérieur à trente fois le plafond
+annuel défini par l'article L. 241-3 du présent code sont assujetties dès le
+premier euro ; pour l'application des présentes dispositions, il est fait masse
+des indemnités liées à la cessation forcée des fonctions et de celles visées à
+la première phrase du 5° ;
 
 6° L'allocation visée à l'article 15 de la loi n° 94-629 du 25 juillet 1994
 relative à la famille ;

@@ -20,9 +20,9 @@ vigueur et aux stipulations conventionnelles prises en vertu des articles L.
 123-1 et L. 123-2 et agréées par l'autorité compétente de l'Etat ;
 
 5°) De verser au Fonds de solidarité vieillesse créé à l'article L. 135-1 un
-montant égal à 60 % des dépenses prises en charge par ce fonds au titre des
-majorations de pensions mentionnées au a du 3° et au 6° de l'article L. 135-2 ;
-ce versement fait l'objet d'acomptes ;
+montant égal aux dépenses prises en charge par ce fonds au titre des majorations
+de pensions mentionnées au a du 3° et au 6° de l'article L. 135-2 ; ce versement
+fait l'objet d'acomptes ;
 
 6°) D'assurer le remboursement des indemnités ou allocations versées dans les
 conditions fixées par les articles L. 331-8, L. 615-19-2 et L. 722-8-3 du

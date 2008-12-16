@@ -5,7 +5,7 @@ I. Il est perçu un droit spécifique :
 a) Sur les bières, dont le taux, par hectolitre, est fixé à :
 
 1,30 euro par degré alcoométrique pour les bières dont le titre alcoométrique
-n'excède pas 2,8 p. 100 vol. ;
+n'excède pas 2,8 % vol. ;
 
 2,60 euros par degré alcoométrique pour les autres bières ;
 
@@ -31,15 +31,22 @@ dont la production annuelle est supérieure à 10 000 hectolitres et inférieure
 dont la production annuelle est supérieure à 50 000 hectolitres et inférieure ou
 égale à 200 000 hectolitres.
 
+Le tarif du droit spécifique est relevé au 1er janvier de chaque année dans une
+proportion égale au taux de croissance de l'indice des prix à la consommation
+hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres
+significatifs après la virgule, le second chiffre étant augmenté d'une unité si
+le chiffre suivant est égal ou supérieur à cinq . Il est publié au Journal
+officiel par arrêté du ministre chargé du budget.
+
 b) Sur les boissons non alcoolisées énumérées ci-après dont le tarif, par
 hectolitre, est fixé à :
 
 0,54 euro pour les eaux minérales naturelles ou artificielles, eaux de source et
 autres eaux potables, eaux de laboratoire filtrées, stérilisées ou pasteurisées,
-ainsi que pour les boissons gazéifiées ou non, ne renfermant pas plus de 1,2 p.
-100 vol. d'alcool, livrées à titre onéreux ou gratuit en fûts, bouteilles ou
-boîtes, à l'exception des sirops et des jus de fruits et de légumes et des
-nectars de fruits.
+ainsi que pour les boissons gazéifiées ou non, ne renfermant pas plus de 1,2 %
+vol. d'alcool, livrées à titre onéreux ou gratuit en fûts, bouteilles ou boîtes,
+à l'exception des sirops et des jus de fruits et de légumes et des nectars de
+fruits.
 
 II. Pour les eaux et boissons mentionnées au b du I, le droit est dû par les
 fabricants, les exploitants de sources, les importateurs et les personnes qui
@@ -54,7 +61,7 @@ relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois.
 Les expéditions vers un autre Etat membre de la Communauté européenne et les
 exportations vers un pays tiers sont exonérées du paiement du droit spécifique
 lorsqu'elles sont réalisées directement et sans intermédiaire par les personnes
-mentionnées au premier alinéa ou par une société de distribution (1).
+mentionnées au premier alinéa ou par une société de distribution.
 
 III. Les modalités d'application des dispositions qui précèdent seront, en tant
 que de besoin, fixées par décret.

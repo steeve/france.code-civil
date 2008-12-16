@@ -1,8 +1,9 @@
 Article L732-41
 ----
 En cas de décès d'un chef d'exploitation ou d'entreprise agricole, son conjoint
-survivant a droit à une pension de réversion si ses ressources personnelles ou
-celles du ménage n'excèdent pas des plafonds fixés par décret.
+survivant a droit à une pension de réversion à partir d'un âge et dans des
+conditions déterminés par décret si ses ressources personnelles ou celles du
+ménage n'excèdent pas des plafonds fixés par décret.
 
 Cette pension de réversion est d'un montant égal à un pourcentage fixé par
 décret de la pension de retraite forfaitaire et de la pension de retraite
