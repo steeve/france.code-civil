@@ -15,19 +15,18 @@ régionales ;
 conditions prévues au 1° de l'article L. 162-22-1.
 
 II. - La Caisse nationale de l'assurance maladie des travailleurs salariés
-communique à l'Etat, aux agences régionales de l'hospitalisation ainsi qu'aux
-organisations nationales les plus représentatives des établissements de santé,
-pour l'ensemble des régimes obligatoires d'assurance maladie, des états
-provisoires et des états définitifs du montant total des charges mentionnées au
-I de l'article L. 162-22-2 et sa répartition par région, par établissement et
-par nature d'activité.
+communique à l'Etat, aux agences régionales de l'hospitalisation, pour
+l'ensemble des régimes obligatoires d'assurance maladie, des états provisoires
+et des états définitifs du montant total des charges mentionnées au I de
+l'article L. 162-22-2 et sa répartition par région, par établissement et par
+nature d'activité.
 
 Lorsqu'il apparaît que l'état définitif des charges au titre des soins dispensés
-l'année antérieure ou le montant des charges constatées pour le premier
-trimestre n'est pas compatible avec l'objectif de l'année en cours, l'Etat peut
-modifier les tarifs des prestations mentionnées au l° de l'article L. 162-22-1
-de manière à garantir son respect dans les conditions prévues au I du présent
-article.
+l'année antérieure ou le montant des charges constatées au fur et à mesure de
+l'année en cours n'est pas compatible avec l'objectif de l'année en cours,
+l'Etat peut modifier les tarifs des prestations mentionnées au l° de l'article
+L. 162-22-1 de manière à garantir son respect dans les conditions prévues au I
+du présent article.
 
 III. - Le décret prévu au II de l'article L. 162-22-2 détermine les modalités du
 suivi statistique des charges supportées par les régimes obligatoires

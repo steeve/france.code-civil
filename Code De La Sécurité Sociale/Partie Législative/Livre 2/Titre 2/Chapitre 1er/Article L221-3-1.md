@@ -33,8 +33,9 @@ et d'en contrôler la bonne application ;
 des caisses du régime général ; il peut notamment définir les circonscriptions
 d'intervention des organismes locaux, prendre les décisions prévues aux articles
 L. 224-11, L. 224-12, L. 224-13 et L. 281-2, et confier à certains organismes, à
-l'échelon interrégional, régional ou départemental, la charge d'assumer
-certaines missions communes ;
+l'échelon national, interrégional, régional ou départemental, la charge
+d'assumer certaines missions, notamment celles mentionnées au II de l'article L.
+216-2-1 ;
 
 4° D'assurer pour les systèmes d'information les responsabilités prévues à
 l'article L. 161-28.

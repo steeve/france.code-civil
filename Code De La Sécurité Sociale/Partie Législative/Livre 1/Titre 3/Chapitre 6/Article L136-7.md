@@ -1,11 +1,14 @@
 Article L136-7
 ----
 I. - Les produits de placements sur lesquels est opéré le prélèvement prévu à
-l'article 125 A du code général des impôts sont assujettis à une contribution à
-l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du
-II et sauf s'ils sont versés aux personnes visées au III du même article.
+l'article 125 A du code général des impôts, ainsi que les produits de même
+nature retenus pour l'établissement de l'impôt sur le revenu lorsque la personne
+qui en assure le paiement est établie en France, sont assujettis à une
+contribution à l'exception de ceux ayant déjà supporté la contribution au titre
+des 3° et 4° du II et sauf s'ils sont versés aux personnes visées au III du même
+article.
 
-Les plus-values mentionnées aux articles 150 U à 150 UB du code général des
+Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts sont également assujetties à cette contribution.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au
@@ -110,33 +113,38 @@ en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
 lors de l'expiration du contrat.
 
-III. - Les dispositions du II ne sont pas applicables aux revenus visés au 3°
-dudit II s'agissant des seuls contrats en unités de compte ni aux revenus
-mentionnés aux 5° à 9°, lorsque ces revenus entrent dans le champ d'application
-de l'article L. 136-6.
+III. - Paragraphe abrogé
 
 IV. - 1. La contribution sociale généralisée due par les établissements payeurs
-au titre des mois de décembre et janvier sur les revenus de placement visés aux
-1° et 3° pour les contrats autres que les contrats en unités de compte et 4° du
-II du présent article fait l'objet d'un versement déterminé d'après les revenus
-des mêmes placements soumis l'année précédente à la contribution sociale
-généralisée au cours des mois de décembre et janvier et retenus à hauteur de 90
-p. 100 de leur montant.
+au titre des mois de décembre et janvier sur les revenus de placement mentionnés
+au présent article fait l'objet d'un versement déterminé sur la base du montant
+des revenus de placement soumis l'année précédente à la contribution sociale
+généralisée au titre des mois de décembre et janvier.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
 le taux de la contribution fixé à l'article L. 136-8. Son paiement doit
-intervenir le 25 septembre pour sept neuvièmes de son montant et le 25 novembre
-au plus tard pour les deux neuvièmes restant. Il est reversé dans un délai de
-dix jours francs après ces dates par l'Etat aux organismes affectataires.
+intervenir le 25 septembre pour 80 % de son montant et le 25 novembre au plus
+tard pour les 20 % restants. Il est reversé dans un délai de dix jours francs
+après ces dates par l'Etat aux organismes affectataires.
 
-2. Lors du dépôt en janvier et février des déclarations, l'établissement payeur
+2. Lorsque l'établissement payeur estime que le versement dû en application du 1
+est supérieur à la contribution dont il sera redevable au titre des mois de
+décembre et janvier, il peut réduire ce versement à concurrence de l'excédent
+estimé.
+
+3. Lors du dépôt en janvier et février des déclarations, l'établissement payeur
 procède à la liquidation de la contribution. Lorsque le versement effectué en
-application du 1 est supérieur à la contribution réellement due, le surplus est
-imputé sur la contribution sociale généralisée due à raison des autres produits
-de placement et, le cas échéant, sur les autres prélèvements ; l'excédent
-éventuel est restitué.
+application des 1 et 2 est supérieur à la contribution réellement due, le
+surplus est imputé sur la contribution sociale généralisée due à raison des
+autres produits de placement et, le cas échéant, sur les autres prélèvements ;
+l'excédent éventuel est restitué.
 
-3. Les modalités d'application du présent article sont fixées par décret.
+4. Lorsque la contribution sociale généralisée réellement due au titre des mois
+de décembre et janvier est supérieure au versement réduit par l'établissement
+payeur en application du 2, la majoration prévue au 1 de l'article 1731 du code
+général des impôts s'applique à cette différence. L'assiette de cette majoration
+est toutefois limitée à la différence entre le montant du versement calculé dans
+les conditions du 1 et celui réduit dans les conditions du 2.
 
 V. - La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,

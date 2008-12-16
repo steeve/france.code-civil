@@ -40,4 +40,21 @@ Elles peuvent également, sous leur responsabilité, créer des échelons locaux
 confier aux délégués cantonaux élus directement des trois collèges qu'elles
 désignent toutes missions, qu'ils effectuent à titre gratuit.
 
+Les caisses dont la circonscription comporte plusieurs départements peuvent
+constituer des comités départementaux selon des modalités fixées par leur
+conseil d'administration. Les conseils d'administration peuvent leur confier des
+missions, notamment pour animer le réseau des élus locaux de la mutualité
+sociale agricole. Ces comités départementaux peuvent être consultés sur les
+demandes individuelles relatives aux cotisations sociales et les aides
+individuelles relatives à l'action sanitaire et sociale ainsi que sur toutes
+questions concernant la gestion des régimes agricoles de protection sociale dans
+le département. Leurs membres peuvent assurer la représentation de la caisse sur
+mandat du conseil d'administration. Le comité départemental est composé
+d'administrateurs de la caisse, élus du département concerné, d'un membre
+désigné par l'union départementale des associations familiales et de délégués
+cantonaux du même département. Le nombre de membres du comité départemental ne
+peut excéder le nombre de membres du conseil d'administration d'une caisse
+départementale. Les dispositions des articles L. 723-36, L. 723-37 et L. 723-42
+sont applicables aux membres de ces comités.
+
 Elles contribuent au développement sanitaire et social des territoires ruraux.

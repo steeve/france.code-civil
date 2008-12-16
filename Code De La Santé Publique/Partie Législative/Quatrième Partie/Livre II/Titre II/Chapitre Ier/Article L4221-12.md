@@ -1,20 +1,27 @@
 Article L4221-12
 ----
-A compter du 1er janvier 2002, le ministre chargé de la santé peut, après avis
-du conseil supérieur de la pharmacie, autoriser individuellement à exercer la
-pharmacie les personnes françaises ou étrangères titulaires d'un diplôme, titre
-ou certificat de valeur scientifique attestée par le ministre chargé de
-l'enseignement supérieur. Ces personnes doivent avoir été classées en rang utile
-à des épreuves de vérification des connaissances et avoir exercé pendant trois
-ans des fonctions hospitalières. Des dispositions réglementaires fixent les
-conditions d'organisation des épreuves de sélection et les modalités d'exercice
-des fonctions hospitalières.
+Le ministre chargé de la santé peut, après avis du Conseil supérieur de la
+pharmacie, autoriser individuellement à exercer la pharmacie les personnes
+titulaires d'un diplôme, certificat ou autre titre permettant l'exercice de la
+profession de pharmacien dans le pays d'obtention de ce diplôme, certificat ou
+titre.
 
-Toutefois, les personnes ayant la qualité de réfugié ou d'apatride, les
-bénéficiaires de l'asile territorial et les personnes françaises titulaires d'un
-diplôme étranger ayant regagné le territoire national à la demande des autorités
-françaises n'ont pas à justifier de l'exercice des fonctions hospitalières
-mentionnées à l'alinéa précédent.
+Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification de
+leur maîtrise de la langue française et des connaissances, qui peuvent être
+organisées par spécialité. Des dispositions réglementaires fixent les conditions
+d'organisation de ces épreuves. Le nombre maximum de candidats susceptibles
+d'être reçus à ces épreuves est fixé par arrêté du ministre chargé de la santé.
 
-Dans les cas mentionnés au présent article, nul ne peut être candidat plus de
-deux fois à l'autorisation d'exercice.
+Le nombre maximum mentionné à l'alinéa précédent n'est pas opposable aux
+réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la
+protection subsidiaire et aux Français ayant regagné le territoire national à la
+demande des autorités françaises.
+
+Les lauréats doivent en outre justifier de trois ans de fonctions accomplies
+dans un service agréé pour la formation des internes. Toutefois, les fonctions
+exercées avant la réussite à ces épreuves peuvent être prises en compte après
+avis du conseil mentionné au premier alinéa, dans des conditions fixées par voie
+réglementaire.
+
+Nul ne peut être candidat plus de deux fois aux épreuves de vérification des
+connaissances et à l'autorisation d'exercice.

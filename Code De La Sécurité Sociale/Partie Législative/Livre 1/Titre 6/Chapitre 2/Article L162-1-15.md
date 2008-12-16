@@ -6,10 +6,13 @@ commission prévue à l'article L. 162-1-14, à laquelle participent des
 professionnels de santé, de subordonner à l'accord préalable du service du
 contrôle médical, pour une durée ne pouvant excéder six mois, la couverture des
 frais de transport ou le versement des indemnités journalières mentionnés aux 2°
-et 5° de l'article L. 321-1, en cas de constatation par ce service :
+et 5° de l'article L. 321-1 et aux 1° et 2° de l'article L. 431-1 du présent
+code ainsi qu'aux 1° et 2° de l'article L. 752-3 du code rural, en cas de
+constatation par ce service :
 
 1° Du non-respect par le médecin des conditions prévues au 2° ou au 5° de
-l'article L. 321-1 ;
+l'article L. 321-1 et au 1° ou au 2° de l'article L. 431-1 du présent code ainsi
+qu'aux 1° et 2° de l'article L. 752-3 du code rural ;
 
 2° Ou d'un nombre ou d'une durée d'arrêts de travail prescrits par le médecin et
 donnant lieu au versement d'indemnités journalières significativement supérieurs

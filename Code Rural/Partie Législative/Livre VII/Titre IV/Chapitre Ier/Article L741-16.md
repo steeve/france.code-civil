@@ -9,13 +9,14 @@ forestiers ainsi que les groupements d'employeurs composés de personnes
 physiques ou de sociétés civiles agricoles exerçant ces mêmes activités versent
 des cotisations d'assurances sociales calculées en application de taux réduits.
 
-II. - Les groupements d'employeurs composés pour partie de personnes physiques
-ou de sociétés civiles agricoles exerçant une ou plusieurs des activités visées
-aux 1° et 4° de l'article L. 722-1, et dont le chiffre d'affaires annuel est
-réalisé majoritairement avec ces adhérents, bénéficient, pour ces derniers, des
-taux réduits de cotisations prévus au I du présent article au titre des
-rémunérations et gains des salariés embauchés entre le 1er janvier 2006 et le 31
-décembre 2007 et pendant deux ans à compter de l'embauche.
+II. - Les groupements d'employeurs composés pour partie des employeurs
+mentionnés au I du présent article exerçant une ou plusieurs des activités
+visées à ce même I bénéficient pour lesdits employeurs des taux réduits de
+cotisations, sous réserve que le chiffre d'affaires annuel de ces groupements
+soit réalisé majoritairement avec des adhérents dont les salariés sont affiliés
+au régime agricole. Donnent lieu à cet allègement les rémunérations et gains des
+salariés embauchés entre le 1er janvier 2006 et le 31 décembre 2007, et ce
+pendant deux ans à compter de l'embauche.
 
 Pour chaque salarié, le montant des rémunérations et gains donnant lieu à
 l'allégement est limité au produit du salaire minimum de croissance en vigueur

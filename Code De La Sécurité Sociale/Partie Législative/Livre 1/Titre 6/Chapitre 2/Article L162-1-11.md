@@ -16,7 +16,7 @@ Les caisses peuvent également mettre en oeuvre des services de conseils
 administratifs ou d'orientation. Ces services doivent permettre aux assurés de
 disposer des informations nécessaires pour accéder à la prévention et aux soins
 dans les meilleures conditions. Ils peuvent en particulier fournir tous éléments
-d'information sur les services assurés par les établissements de santé et sur le
+d'information sur les services assurés par les établissements de santé et sur la
 situation des professionnels de santé au regard des dispositions
 conventionnelles ou réglementaires les régissant ainsi que sur leur adhésion aux
 contrats prévus aux articles L. 162-12-18, L. 162-12-20 et L. 183-1-1, et leur
@@ -25,6 +25,11 @@ démarche d'évaluation de la qualité professionnelle prévue à l'article L.
 4133-1-1 du code de la santé publique. Ils fournissent également tous éléments
 d'information sur les tarifs d'honoraires habituellement demandés et toutes
 informations utiles à la bonne orientation du patient dans le système de soins.
+
+Les caisses nationales d'assurance maladie peuvent mettre en place des
+programmes d'accompagnement des patients atteints de maladies chroniques visant
+à leur apporter des conseils en termes d'orientation dans le système de soins et
+d'éducation à la santé.
 
 Les différents régimes d'assurance maladie assurent cette mission en coordonnant
 leurs actions et veillent à mettre en commun par voie, le cas échéant, de

@@ -13,7 +13,7 @@ transmis simultanément à l'union et aux ministres chargés de la santé et de 
 sécurité sociale.
 
 L'accord-cadre, les accords conventionnels interprofessionnels, les conventions,
-annexes et avenants sont approuvés par les ministres chargés de la santé, et de
+annexes et avenants sont approuvés par les ministres chargés de la santé et de
 la sécurité sociale. Ils sont réputés approuvés si les ministres n'ont pas fait
 connaître aux signataires, dans le délai de vingt et un jours à compter de la
 réception du texte, qu'ils s'opposent à leur approbation du fait de leur
@@ -34,19 +34,20 @@ références de l'approbation dans l'intérêt de la santé publique. Il est fai
 mention de ces exclusions lors de la publication.
 
 L'opposition formée à l'encontre de l'un des accords mentionnés au premier
-alinéa par au moins deux organisations syndicales représentant pour les
-médecins, d'après les résultats des élections aux unions régionales des médecins
-exerçant à titre libéral mentionnées aux articles L. 4134-1 à L. 4134-7 du code
-de la santé publique, la majorité absolue des suffrages exprimés et, pour les
-autres professions, au moins le double des effectifs de professionnels libéraux
-représentés par les organisations syndicales signataires, au vu de l'enquête de
-représentativité prévue à l'article L. 162-33, fait obstacle à sa mise en
-oeuvre. Lorsque pour ces autres professions, moins de trois organisations
-syndicales ont été reconnues représentatives, l'opposition peut être formée par
-une seule organisation si celle-ci représente au moins le double des effectifs
-de professionnels libéraux représentés par l'organisation syndicale signataire.
-L'opposition prévue au présent alinéa s'exerce dans le mois qui suit la
-signature de l'accord et avant la transmission de ce dernier aux ministres.
+alinéa par au moins deux organisations syndicales représentatives réunissant
+pour les médecins, d'après les résultats des élections aux unions régionales des
+médecins exerçant à titre libéral mentionnées aux articles L. 4134-1 à L. 4134-7
+du code de la santé publique, la majorité absolue des suffrages exprimés et,
+pour les autres professions, au moins le double des effectifs de professionnels
+libéraux représentés par les organisations syndicales signataires, au vu de
+l'enquête de représentativité prévue à l'article L. 162-33, fait obstacle à sa
+mise en oeuvre. Lorsque pour ces autres professions, moins de trois
+organisations syndicales ont été reconnues représentatives, l'opposition peut
+être formée par une seule organisation représentative si celle-ci réunit au
+moins le double des effectifs de professionnels libéraux représentés par
+l'organisation syndicale signataire. L'opposition prévue au présent alinéa
+s'exerce dans le mois qui suit la signature de l'accord et avant la transmission
+de ce dernier aux ministres.
 
 L'accord-cadre, les accords conventionnels interprofessionnels, les conventions
 et leurs avenants approuvés sont publiés au Journal officiel de la République

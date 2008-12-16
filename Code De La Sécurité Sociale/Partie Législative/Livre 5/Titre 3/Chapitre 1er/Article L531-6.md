@@ -15,3 +15,10 @@ L'aide n'est versée que si l'enfant est gardé un minimum d'heures au cours du
 mois, dans des conditions définies par décret.
 
 L'aide est versée par l'organisme débiteur de prestations familiales.
+
+Par dérogation au premier alinéa du présent article, le complément de libre
+choix du mode de garde de la prestation d'accueil du jeune enfant peut être
+versé au ménage ou à la personne qui recourt, pour assurer la garde d'un enfant,
+à un établissement d'accueil de jeunes enfants mentionné à l'article L. 2324-1
+du code de la santé publique, dont la capacité d'accueil maximale ne dépasse pas
+un seuil fixé par décret.

@@ -22,7 +22,8 @@ le traitement, la réadaptation fonctionnelle et la rééducation professionnell
 agricole pendant la période d'incapacité temporaire de travail ;
 
 3° Une rente en cas d'incapacité permanente de l'assuré et, en cas de mort du
-chef d'exploitation ou d'entreprise agricole, une rente à ses ayants droit ;
+chef d'exploitation ou d'entreprise agricole ou d'un assuré mentionné au II de
+l'article L. 752-1, une rente à ses ayants droit ;
 
 4° La couverture des frais funéraires de la victime.
 

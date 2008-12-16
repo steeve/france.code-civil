@@ -9,6 +9,8 @@ l'évolution prévisible des prix de l'année civile en cours, le cas échéant
 corrigée de la différence entre le taux d'évolution retenu pour fixer le plafond
 de l'année précédente et le taux d'évolution des prix de cette même année. Ce
 plafond varie selon la composition du foyer et le nombre de personnes à charge.
+Le montant du plafond applicable au foyer considéré est arrondi à l'euro le plus
+proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
 Un décret en Conseil d'Etat précise les conditions d'âge, de domicile et de
 ressources dans lesquelles une personne est considérée comme étant à charge.

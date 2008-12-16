@@ -6,11 +6,12 @@ lois de financement de la sécurité sociale :
 
 1° De négocier et signer l'accord-cadre, les conventions, leurs avenants et
 annexes et les accords et contrats régissant les relations avec les professions
-de santé mentionnées à l'article L. 162-14-1 et les centres de santé mentionnés
-à l'article L. 162-32-1 ;
+de santé mentionnées à l'article L. 162-14-1, les centres de santé mentionnés à
+l'article L. 162-32-1 et les établissements thermaux mentionnés à l'article L.
+162-39 ;
 
-2° De prendre les décisions en matière d'actes et prestations prévus à l'article
-L. 162-1-7 ;
+2° De prendre les décisions en matière d'actes et prestations prévus aux
+articles L. 162-1-7 et L. 162-1-7-2 ;
 
 3° De fixer la participation prévue en application de l'article L. 322-2 ;
 
@@ -19,7 +20,10 @@ maladie avec l'Union nationale des organismes d'assurance maladie complémentair
 ;
 
 5° De rendre un avis motivé et public sur les projets de loi et de décret
-relatifs à l'assurance maladie.
+relatifs à l'assurance maladie ;
+
+6° De rendre un avis sur le montant de la base forfaitaire annuelle mentionnée à
+l'article L. 162-17-2-1.
 
 L'Union nationale des caisses d'assurance maladie peut, en accord avec les
 organisations syndicales représentatives concernées et dans des conditions
@@ -27,4 +31,4 @@ précisées par décret, associer l'Union nationale des organismes d'assurance
 maladie complémentaire à la négociation et à la signature de tout accord,
 contrat ou convention prévus aux articles L. 162-1-13, L. 162-12-17, L.
 162-12-18, L. 162-12-20, L. 162-14-1, L. 162-14-2, L. 162-16-1, L. 162-32-1, L.
-165-6 et à leurs annexes ou avenants.
+162-39, L. 165-6 et à leurs annexes ou avenants.

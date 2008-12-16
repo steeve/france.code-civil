@@ -45,3 +45,8 @@ budget.
 
 Pour son recouvrement, ce versement est assimilé à une cotisation de sécurité
 sociale.
+
+Les médicaments dispensés par un pharmacien en application de l'article L.
+5125-23-1 du code de la santé publique sont pris en charge par les organismes
+d'assurance maladie dans la limite d'une seule boîte par ligne d'ordonnance
+au-delà de la durée de traitement initialement prescrite.

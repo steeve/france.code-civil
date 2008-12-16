@@ -12,22 +12,18 @@ les conditions fixées par l'article L. 380-1.
 II. - Toutefois, les travailleurs frontaliers occupés en Suisse et exemptés
 d'affiliation obligatoire au régime suisse d'assurance maladie peuvent demander
 à ce que les dispositions du I ne leur soient pas appliquées, ainsi qu'à leurs
-ayants droit, pendant une période transitoire se terminant au plus tard sept ans
-après la date d'entrée en vigueur de l'accord du 21 juin 1999 précité, à
-condition d'être en mesure de produire un contrat d'assurance maladie les
-couvrant, ainsi que leurs ayants droit, pour l'ensemble des soins reçus sur le
-territoire français.
-
-Ces dispositions ne sont pas applicables aux travailleurs frontaliers, ainsi
-qu'à leurs ayants droit, affiliés au régime général à la date d'entrée en
-vigueur de l'accord du 21 juin 1999 précité, au titre des dispositions du I de
-l'article 19 de la loi n° 99-641 du 27 juillet 1999 portant création d'une
-couverture maladie universelle.
-
-Les travailleurs ayant formulé une telle demande peuvent ultérieurement y
-renoncer à tout moment, pour eux-mêmes et pour leurs ayants droit
-indistinctement, et sont, à partir de la date de cette renonciation, affiliés au
-régime général en application des dispositions du I.
+ayants droit, jusqu'à la fin des dispositions transitoires relatives à la libre
+circulation des personnes entre la Suisse et l'Union européenne, soit douze ans
+à partir de l'entrée en vigueur de l'accord du 21 juin 1999 précité, à condition
+d'être en mesure de produire un contrat d'assurance maladie les couvrant, ainsi
+que leurs ayants droit, pour l'ensemble des soins reçus sur le territoire
+français. Ces dispositions ne sont pas applicables aux travailleurs frontaliers,
+ainsi qu'à leurs ayants droit, affiliés au régime général à la date d'entrée en
+vigueur de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité
+sociale pour 2007. Les travailleurs ayant formulé une telle demande peuvent
+ultérieurement y renoncer à tout moment, pour eux-mêmes et pour leurs ayants
+droit indistinctement, et sont, à partir de la date de cette renonciation,
+affiliés au régime général en application des dispositions du I.
 
 III. - Les dispositions du I et du II sont également applicables aux titulaires
 de pensions ou de rentes suisses, ainsi qu'à leurs ayants droit, résidant en

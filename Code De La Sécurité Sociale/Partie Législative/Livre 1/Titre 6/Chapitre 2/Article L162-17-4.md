@@ -19,7 +19,8 @@ médicaments, à l'exception de ceux inscrits sur la liste prévue à l'article 
 mise sur le marché et, le cas échéant, l'évolution de ces prix, notamment en
 fonction des volumes de vente ;
 
-2° Le cas échéant, les remises prévues en application de l'article L. 162-18 ;
+2° Le cas échéant, les remises prévues en application des articles L. 162-18 et
+L. 162-16-5-1 ;
 
 3° Dans le respect de la charte mentionnée à l'article L. 162-17-8, les
 engagements de l'entreprise visant à la maîtrise de sa politique de promotion
@@ -29,8 +30,16 @@ de vente précités ;
 4° Les modalités de participation de l'entreprise à la mise en oeuvre des
 orientations ministérielles précitées ;
 
+4° bis Les conditions et les modalités de mise en oeuvre des études
+pharmaco-épidémiologiques, postérieurement à l'obtention de l'autorisation de
+mise sur le marché visée à l'article L. 5121-8 du code de la santé publique ou
+dans le règlement (CEE) n° 2309/93 du Conseil, du 22 juillet 1993, établissant
+des procédures communautaires pour l'autorisation et la surveillance des
+médicaments à usage humain et à usage vétérinaire et instituant une agence
+européenne pour l'évaluation des médicaments ;
+
 5° Les dispositions conventionnelles applicables en cas de non-respect des
-engagements mentionnés au 3° et au 4°.
+engagements mentionnés aux 3°, 4° et 4° bis.
 
 Lorsque les orientations reçues par le comité ne sont pas compatibles avec les
 conventions précédemment conclues, lorsque l'évolution des dépenses de

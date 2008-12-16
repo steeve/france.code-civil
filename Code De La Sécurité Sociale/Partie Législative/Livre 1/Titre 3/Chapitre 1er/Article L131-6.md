@@ -7,19 +7,18 @@ assises sur le revenu professionnel non salarié ou, le cas échéant, sur des
 revenus forfaitaires.
 
 Le revenu professionnel pris en compte est celui retenu pour le calcul de
-l'impôt sur le revenu avant déductions, abattements et exonérations mentionnés
-aux articles 44 quater, 44 sexies, 44 septies et 44 octies, au deuxième alinéa
-du I de l'article 154 bis du code général des impôts, à l'exception des
-cotisations versées aux régimes facultatifs institués dans les conditions fixées
-par l'article L. 635-1 du présent code par les assurés ayant adhéré auxdits
-régimes avant la date d'effet de l'article 24 de la loi n° 94-126 du 11 février
-1994 relative à l'initiative et à l'entreprise individuelle, au 4 bis et aux
-quatrième, cinquième et sixième alinéas du a du 5 de l'article 158 et aux
-articles 238 bis HA et 238 bis HC du code général des impôts. Il n'est pas tenu
-compte des reports déficitaires, des amortissements réputés différés au sens du
-2° du 1 de l'article 39 du code général des impôts et des plus-values et
-moins-values à long terme ainsi que des provisions mentionnées aux articles 39
-octies E et 39 octies F du code général des impôts.
+l'impôt sur le revenu avant les déductions et exonérations mentionnées aux
+articles 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 undecies et 151
+septies A et au deuxième alinéa du I de l'article 154 bis du code général des
+impôts, à l'exception des cotisations versées aux régimes facultatifs par les
+assurés ayant adhéré à ces régimes avant la date d'effet de l'article 24 de la
+loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise
+individuelle. Il n'est pas tenu compte des reports déficitaires, des
+amortissements réputés différés au sens du 2° du 1 de l'article 39 du code
+général des impôts, des plus-values et moins-values professionnelles à long
+terme, des provisions mentionnées aux articles 39 octies E et 39 octies F du
+même code et du coefficient multiplicateur mentionné au 7 de l'article 158 du
+même code.
 
 Sont également pris en compte, dans les conditions prévues au deuxième alinéa,
 les revenus tirés de la location de tout ou partie d'un fonds de commerce, d'un

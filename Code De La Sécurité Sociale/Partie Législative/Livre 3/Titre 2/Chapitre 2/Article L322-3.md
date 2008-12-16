@@ -23,26 +23,26 @@ Autorité mentionnée à l'article L. 161-37 ;
 affection non inscrite sur la liste mentionnée ci-dessus, et comportant un
 traitement prolongé et une thérapeutique particulièrement coûteuse ;
 
-5°) lorsque l'assuré est titulaire de l'allocation supplémentaire mentionnée à
-l'article L. 815-2 ou à l'article L. 815-3 du code de la sécurité sociale au
-titre d'un avantage vieillesse ;
+5°) lorsque l'assuré est titulaire de l'allocation de solidarité aux personnes
+âgées au titre d'un avantage vieillesse ;
 
 6°) lorsque le bénéficiaire est un enfant ou adolescent handicapé pour les frais
 couverts au titre du 2° de l'article L. 321-1 ;
 
 7°) lorsque l'assuré est hébergé dans un établissement mentionné à l'article 3
-de la loi n° 75-535 du 30 juin 1975 ou lorsqu'il bénéficie de soins dispensés
-par un centre mentionné à l'article L. 355-1-1 du code de la santé publique ;
+de la loi n° 75-535 du 30 juin 1975 (1) ou lorsqu'il bénéficie de soins
+dispensés par un centre mentionné à l'article L. 355-1-1 du code de la santé
+publique ;
 
 8°) lorsque l'assuré est hébergé dans une unité ou un centre de long séjour
-mentionné à l'article L. 174-5 ou à l'article 52.1 de la loi n° 70-1318 du 31
-décembre 1970 ;
+mentionné à l'article L. 174-5 ou à l'article 52-1 de la loi n° 70-1318 du 31
+décembre 1970 (2) ;
 
 9°) lorsque l'assuré bénéficie de soins paramédicaux dispensés dans le cadre
 d'une action médico-sociale de maintien à domicile par les institutions
-mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 ;
+mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 (1) ;
 
-10°) Abrogé.
+10°) Abrogé ;
 
 11°) Pour l'hospitalisation des nouveau-nés lorsqu'elle se produit pendant une
 période fixée par décret en Conseil d'Etat, ainsi que pour tous les soins qui
@@ -62,12 +62,17 @@ L. 341-16 et L. 371-1 en ce qui concerne les frais engagés pour eux-mêmes ;
 d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27
 du code pénal ;
 
-16°) Pour les frais d'examens de dépistage et les frais liés aux consultations
-de prévention destinées aux mineurs effectués dans le cadre des programmes
-mentionnés au 6° de l'article L. 321-1 ;
+16°) Dans le cadre des programmes mentionnés au 6° de l'article L. 321-1, pour
+les frais d'examens de dépistage et les frais liés aux consultations de
+prévention destinées aux mineurs et à une unique consultation de prévention pour
+les personnes de plus de soixante-dix ans ;
 
 17°) Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné
-au 9° de l'article L. 321-1.
+au 9° de l'article L. 321-1 ;
+
+18°) Pour les donneurs mentionnés à l'article L. 1211-2 du code de la santé
+publique, en ce qui concerne l'ensemble des frais engagés au titre du
+prélèvement d'éléments du corps humain et de la collecte de ces produits.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les
 critères médicaux utilisés pour la définition de l'affection et ouvrant droit à

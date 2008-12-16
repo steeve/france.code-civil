@@ -93,6 +93,20 @@ d'allégement général de cotisations sociales mentionnées au I donnera lieu, 
 besoin, à un ajustement de la liste des impôts et taxes affectés en application
 du présent article.
 
+A compter de l'exercice 2007, en cas d'écart positif entre le produit des impôts
+et taxes mentionnées au II et le montant de la perte de recettes liée aux
+allégements généraux mentionnés au I, le montant correspondant à cet écart est
+affecté à la sécurité sociale, dans les conditions fixées par la loi de
+financement de la sécurité sociale. En 2007, il est affecté à la Caisse
+nationale d'assurance maladie des travailleurs salariés et fixé par arrêté des
+ministres chargés du budget et de la sécurité sociale.
+
+A compter de l'exercice 2007, en cas d'écart négatif entre le produit des impôts
+et taxes mentionnées au II et le montant de la perte de recettes liée aux
+allégements généraux mentionnés au I, le montant correspondant à cet écart fait
+l'objet d'une régularisation par la plus prochaine loi de finances suivant la
+connaissance du montant définitif de la perte.
+
 V. - Le Gouvernement remettra au Parlement en 2008 et 2009 un rapport retraçant,
 au titre de l'année précédente, d'une part, les recettes des impôts et taxes
 affectés aux caisses et régimes mentionnés au III en application du présent

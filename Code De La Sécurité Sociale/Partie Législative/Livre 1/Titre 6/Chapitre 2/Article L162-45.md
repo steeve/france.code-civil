@@ -1,7 +1,7 @@
 Article L162-45
 ----
-Pour organiser la coordination et la continuité des soins, la décision
-mentionnée à l'article L. 162-44 peut prévoir la prise en charge par l'assurance
+Le comité national de gestion du fonds mentionné à l'article L. 221-1-1 et les
+missions régionales de santé peuvent prévoir la prise en charge par l'assurance
 maladie sous la forme d'un règlement forfaitaire de tout ou partie des dépenses
 du réseau. Les financements forfaitaires correspondants peuvent être versés aux
 professionnels de santé concernés ou, le cas échéant, directement à la structure

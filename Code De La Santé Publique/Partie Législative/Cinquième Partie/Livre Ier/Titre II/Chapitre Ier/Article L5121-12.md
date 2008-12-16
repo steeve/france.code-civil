@@ -31,10 +31,7 @@ caractéristiques de la population bénéficiant du médicament ainsi autorisé.
 Le demandeur de l'autorisation pour les médicaments mentionnés au a adresse
 systématiquement à l'agence, après l'octroi de cette autorisation, toute
 information concernant notamment les conditions réelles d'utilisation et les
-caractéristiques de la population bénéficiant du médicament ainsi autorisé ; il
-adresse également périodiquement au ministre chargé de la santé des informations
-sur le coût pour l'assurance maladie du médicament bénéficiant de l'autorisation
-octroyée.
+caractéristiques de la population bénéficiant du médicament ainsi autorisé.
 
 Pour les médicaments mentionnés au b, l'autorisation peut être subordonnée par
 l'Agence française de sécurité sanitaire des produits de santé à la mise en

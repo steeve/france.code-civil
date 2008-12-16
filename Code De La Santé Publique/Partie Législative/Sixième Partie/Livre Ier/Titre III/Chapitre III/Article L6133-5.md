@@ -1,6 +1,6 @@
 Article L6133-5
 ----
-Pendant une durée maximale de trois ans à compter du 1er janvier 2004, le
+Pendant une durée maximale de cinq ans à compter du 1er janvier 2004, le
 directeur de l'agence régionale de l'hospitalisation peut autoriser des
 groupements de coopération sanitaire à conduire une expérimentation portant sur
 les modalités de rémunération des professionnels médicaux des établissements

@@ -21,7 +21,7 @@ aux établissements ne peut être facturée aux patients.
 
 Un accord conclu à cet effet entre le Comité économique des produits de santé et
 une ou plusieurs organisations syndicales représentatives des entreprises
-concernées ou, à défaut, un décret en Conseil d'Etat précise la procédure et les
+concernées ou, à défaut, un décret en Conseil d'Etat précise la procédure, les
 conditions dans lesquelles sont effectuées les déclarations des laboratoires
 exploitants, les critères de l'opposition du comité, les conditions dans
 lesquelles les prix de vente déclarés peuvent être révisés et les engagements

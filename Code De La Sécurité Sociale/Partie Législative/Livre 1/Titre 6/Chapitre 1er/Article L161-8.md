@@ -14,3 +14,6 @@ périodes, l'intéressé vient à remplir en qualité d'assuré ou d'ayant droit
 conditions pour bénéficier d'un autre régime obligatoire d'assurance maladie et
 maternité, le droit aux prestations du régime auquel il était rattaché
 antérieurement est supprimé.
+
+Les dispositions du présent article ne sont pas applicables aux personnes qui ne
+résident pas en France au sens du présent code.

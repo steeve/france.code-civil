@@ -23,12 +23,17 @@ susceptibles d'être retenus et les modalités de financement ;
 4° Les mesures tendant à favoriser le développement de la dispense d'avance des
 frais ;
 
-5° La participation des pharmaciens au développement des médicaments génériques.
+5° La participation des pharmaciens au développement des médicaments génériques
+;
+
+6° Les modes de rémunération par l'assurance maladie de la participation des
+pharmaciens au dispositif de permanence pharmaceutique en application des
+dispositions prévues à l'article L. 5125-22 du code de la santé publique.
 
 Le Conseil national de l'ordre des pharmaciens est, avant l'approbation,
 consulté sur les dispositions conventionnelles relatives à la déontologie.
 
-La convention et ses avenants, lors leur conclusion ou lors d'une tacite
+La convention et ses avenants, lors de leur conclusion ou lors d'une tacite
 reconduction, n'entrent en vigueur qu'après approbation par arrêté des ministres
 chargés de la sécurité sociale, de la santé, de l'agriculture, de l'économie et
 du budget.

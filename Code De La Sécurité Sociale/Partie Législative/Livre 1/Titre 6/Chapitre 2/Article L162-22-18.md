@@ -22,5 +22,9 @@ communes, sur la base des recettes annuelles d'assurance maladie afférentes à
 cette activité, cette prestation ou ces séjours, dans la limite de 5 % des
 recettes annuelles d'assurance maladie de l'établissement.
 
+Les établissements qui font obstacle à la préparation et à la réalisation du
+contrôle sont passibles d'une sanction dont le montant ne peut excéder la limite
+fixée au troisième alinéa.
+
 Les modalités d'application du présent article sont définies par décret en
 Conseil d'Etat.

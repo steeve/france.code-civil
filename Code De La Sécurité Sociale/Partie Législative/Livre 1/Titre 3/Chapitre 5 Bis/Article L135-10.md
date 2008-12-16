@@ -7,16 +7,25 @@ dépôts et consignations et de ses filiales.
 
 La gestion financière du fonds est confiée, par voie de mandats périodiquement
 renouvelés et dans le cadre des procédures prévues par le code des marchés
-publics, à des entreprises d'investissement qui exercent à titre principal le
-service visé au 4 de l'article L. 321-1 du code monétaire et financier.
+publics, à des prestataires de services d'investissement qui exercent le service
+visé au 4 de l'article L. 321-1 du code monétaire et financier.
 
-Par dérogation à l'alinéa précédent, dans des cas exceptionnels, à titre
-temporaire et pour préserver la sécurité des actifs détenus par le fonds, leur
-gestion financière peut être assurée par ce dernier sans recourir aux
-entreprises d'investissement visées audit alinéa. Les conditions d'application
-de cette dérogation sont fixées par arrêté conjoint des ministres chargés de
-l'économie et de la sécurité sociale.
+Par dérogation à l'alinéa précédent, la gestion financière des actifs du fonds
+peut être assurée par ce dernier, sans recourir à des prestataires visés audit
+alinéa :
 
-Les instruments financiers que le Fonds de réserve pour les retraites est
-autorisé à détenir ou à utiliser sont ceux énumérés au I de l'article L. 211-1
-du code monétaire et financier.
+- soit dans des cas exceptionnels, à titre temporaire et pour préserver la
+sécurité des actifs détenus par le fonds ;
+
+- soit quand le fonds décide d'investir dans des parts ou actions d'organismes
+de placement collectif et des parts, actions ou droits représentatifs d'un
+placement financier émis par ou dans des organismes de droit étranger ayant un
+objet équivalent, quelle que soit leur forme.
+
+Les conditions d'application de cette dérogation sont fixées par arrêté conjoint
+des ministres chargés de 1'économie et de la sécurité sociale.
+
+Les actifs que le Fonds de réserve pour les retraites est autorisé à détenir ou
+à utiliser sont les instruments financiers énumérés au I de l'article L. 211-1
+du code monétaire et financier et les droits représentatifs d'un placement
+financier.

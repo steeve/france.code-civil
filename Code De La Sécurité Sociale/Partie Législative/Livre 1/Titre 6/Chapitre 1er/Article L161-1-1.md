@@ -1,7 +1,7 @@
 Article L161-1-1
 ----
 Par dérogation aux dispositions en vigueur, l'exercice de leur nouvelle activité
-par les personnes mentionnées aux 1° à 7° de l'article L. 351-24 du code du
+par les personnes mentionnées aux 1° à 9° de l'article L. 351-24 du code du
 travail qui bénéficient de l'aide à la création ou reprise d'entreprise
 instituée par ledit article ouvre droit, pour une période et dans la limite d'un
 plafond de revenus ou de rémunérations fixés par décret, à l'exonération des
@@ -25,3 +25,8 @@ période d'exonération, si ces personnes relèvent d'un régime de non-salarié
 
 L'exonération doit être demandée par l'employeur dans le cas mentionné au 1° et
 par le non-salarié dans le cas mentionné au 2°.
+
+L'exonération dont bénéficient les personnes mentionnées aux 8° et 9° de
+l'article L. 351-24 du code du travail ainsi que la prolongation de la durée
+d'exonération prévue au premier alinéa du présent article ne donnent pas lieu à
+application de l'article L. 131-7 du code de la sécurité sociale.

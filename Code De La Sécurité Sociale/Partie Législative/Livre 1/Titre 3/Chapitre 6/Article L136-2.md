@@ -77,10 +77,13 @@ régimes de retraite visés au I de l'article L. 137-11 du présent code ;
 5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
 sommes versées à l'occasion de la rupture du contrat de travail pour la fraction
 qui excède le montant prévu par la convention collective de branche, l'accord
-professionnel ou interprofessionnel ou à défaut par la loi, ou, en tout état de
-cause, est assujettie à l'impôt sur le revenu en application de l'article 80
-duodecies du code général des impôts, ainsi que toutes sommes versées à
-l'occasion de la modification du contrat de travail ;
+professionnel ou interprofessionnel ou à défaut par la loi, ou, en l'absence de
+montant légal ou conventionnel pour ce motif, pour la fraction qui excède
+l'indemnité légale ou conventionnelle de licenciement. En tout état de cause,
+cette fraction ne peut être inférieure au montant assujetti à l'impôt sur le
+revenu en application de l'article 80 duodecies du code général des impôts. Sont
+également assujetties toutes sommes versées à l'occasion de la modification du
+contrat de travail ;
 
 5° bis Les indemnités versées à l'occasion de la cessation de leurs fonctions
 aux mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du

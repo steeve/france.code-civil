@@ -19,5 +19,13 @@ droits, notamment à pension de vieillesse et à la justification de la
 liquidation et du versement des prestations dont sont chargés respectivement ces
 organismes.
 
+Ces échanges de renseignements peuvent prendre la forme de transmissions de
+données par voie électronique. Les traitements automatisés de données qui se
+limitent à l'organisation de ces échanges, notamment en vue de garantir
+l'authenticité et la fiabilité des données échangées, sont soumis aux
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés, dès lors que les données échangées sont celles
+nécessaires aux fins énoncées aux 1°, 2° et 3° du présent article.
+
 Un acte réglementaire fixe les conditions de la communication des données
 autorisée par le présent article.

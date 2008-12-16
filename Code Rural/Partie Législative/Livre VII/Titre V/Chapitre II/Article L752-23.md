@@ -25,11 +25,11 @@ premier alinéa par priorité sur ceux de l'organisme assureur en ce qui concern
 son action en remboursement.
 
 La victime ou ses ayants droit doivent appeler l'organisme assureur en
-déclaration de jugement commun ; à défaut, la nullité du jugement sur le fond
-peut être demandée pendant deux ans à compter de la date à partir de laquelle
-ledit jugement est devenu définitif, soit à la requête du ministère public, soit
-à la demande de l'organisme assureur ou du tiers responsable lorsque ces
-derniers y ont intérêt.
+déclaration de jugement commun ou réciproquement ; à défaut, la nullité du
+jugement sur le fond peut être demandée pendant deux ans à compter de la date à
+partir de laquelle ledit jugement est devenu définitif, soit à la requête du
+ministère public, soit à la demande de l'organisme assureur ou du tiers
+responsable lorsque ces derniers y ont intérêt.
 
 Ne sont pas regardés comme des tiers pour l'application du présent article, sauf
 dans le cas où le dommage résulte d'une faute intentionnelle commise par eux, le

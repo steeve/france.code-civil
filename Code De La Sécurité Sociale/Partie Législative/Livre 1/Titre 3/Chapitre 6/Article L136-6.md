@@ -4,8 +4,7 @@ I. - Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont assujetties à une contribution sur
 les revenus du patrimoine assise sur le montant net retenu pour l'établissement
 de l'impôt sur le revenu, à l'exception de ceux ayant déjà supporté la
-contribution au titre des 3° et 4° du II de l'article L. 136-7 autres que les
-contrats en unités de compte :
+contribution au titre de l'article L. 136-7 :
 
 a) Des revenus fonciers ;
 
@@ -33,14 +32,19 @@ contribution sur les revenus d'activité et de remplacement définie aux article
 L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A, aux 2° et 5°
-du 3 ainsi qu'au 4 bis de l'article 158 du code général des impôts.
+application des abattements mentionnés au I de l'article 125-0 A et, à l'article
+150-0 D bis, aux 2° et 5° du 3 de l'article 158 du code général des impôts.
 
 II. - Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
-a) Les sommes soumises à l'impôt sur le revenu en application de l'article L. 69
+a) Les sommes soumises à l'impôt sur le revenu en application des articles 168,
+1649 A et 1649 quater A du code général des impôts, ainsi que de l'article L. 69
 du livre des procédures fiscales ;
+
+a bis) Les sommes soumises à l'impôt sur le revenu en application du 1° de
+l'article L. 66 du livre des procédures fiscales et qui ne sont pas assujetties
+à la contribution en vertu d'une autre disposition ;
 
 b) Tous autres revenus dont l'imposition est attribuée à la France par une
 convention internationale relative aux doubles impositions et qui n'ont pas
@@ -49,7 +53,9 @@ supporté la contribution prévue à l'article L. 136-1.
 II. bis. - Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont également assujetties à la
 contribution mentionnée au I à raison des plus-values exonérées d'impôt sur le
-revenu en application du 7 du III de l'article 150-0 A dudit code.
+revenu en application du 7 du III de l'article 150-0 A dudit code. Il en est de
+même pour les plus-values à long terme exonérées en application de l'article 151
+septies A du code général des impôts.
 
 III. - La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes

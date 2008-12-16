@@ -6,8 +6,11 @@ professionnelle :
 - au chef d'exploitation ou d'entreprise agricole lorsque le taux d'incapacité
 permanente est égal ou supérieur à un taux fixé par décret ;
 
-- aux autres personnes mentionnées à l'article L. 752-1 en cas d'incapacité
-permanente totale.
+- aux autres personnes mentionnées au I de l'article L. 752-1 en cas
+d'incapacité permanente totale ;
+
+- aux assurés mentionnés au II de l'article L. 752-1 lorsque le taux
+d'incapacité permanente est égal ou supérieur à un taux fixé par décret.
 
 Le taux d'incapacité permanente est déterminé par l'organisme assureur d'après
 la nature de l'infirmité, l'état général, l'âge, les facultés physiques et
@@ -21,9 +24,11 @@ agricole.
 
 La rente due à la victime atteinte d'une incapacité permanente partielle ou
 totale est égale au gain forfaitaire annuel mentionné à l'article L. 752-5 du
-présent code, multiplié par le taux d'incapacité qui peut être réduit ou
-augmenté en fonction de la gravité de celle-ci. La rente est revalorisée selon
-les coefficients prévus à l'article L. 434-17 du code de la sécurité sociale.
+présent code ou, en ce qui concerne les assurés mentionnés au II de l'article L.
+752-1, à un pourcentage de ce gain fixé par arrêté, multiplié par le taux
+d'incapacité qui peut être réduit ou augmenté en fonction de la gravité de
+celle-ci. La rente est revalorisée selon les coefficients prévus à l'article L.
+434-17 du code de la sécurité sociale.
 
 Dans le cas où l'incapacité permanente est totale et oblige la victime à avoir
 recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires
@@ -33,8 +38,8 @@ code de la sécurité sociale.
 
 En cas d'accidents successifs, le taux ou la somme des taux d'incapacité
 permanente antérieurement reconnue constitue le point de départ de la réduction
-ou de l'augmentation prévue au cinquième alinéa du présent article pour le
-calcul de la rente afférente au dernier accident.
+ou de l'augmentation prévue au sixième alinéa du présent article pour le calcul
+de la rente afférente au dernier accident.
 
 Les rentes servies en vertu de l'assurance prévue au présent chapitre sont
 viagères, incessibles et insaisissables.

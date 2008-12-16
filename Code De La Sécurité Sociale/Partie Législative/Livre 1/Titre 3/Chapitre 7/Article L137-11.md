@@ -1,7 +1,7 @@
 Article L137-11
 ----
-I. - Dans le cadre des régimes de retraite à prestations défini es gérés soit
-par l'un des organismes visés au a du 2° du présent I, soit par une entreprise,
+I. - Dans le cadre des régimes de retraite à prestations définies gérés soit par
+l'un des organismes visés au a du 2° du présent I, soit par une entreprise,
 conditionnant la constitution de droits à prestations à l'achèvement de la
 carrière du bénéficiaire dans l'entreprise et dont le financement par
 l'employeur n'est pas individualisable par salarié, il est institué, au profit
@@ -42,6 +42,7 @@ présente contribution.
 
 IV. - Les contributions des employeurs destinées au financement des régimes de
 retraite visés au I ne sont soumises ni aux cotisations et taxes dont l'assiette
-est définie à l'article L. 242-1, ni aux contributions instituées à l'article L.
+est définie à l'article L. 242-1, ou pour les salariés du secteur agricole à
+l'article L. 741-10 du code rural ni aux contributions instituées à l'article L.
 136-1 et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au
 remboursement de la dette sociale.

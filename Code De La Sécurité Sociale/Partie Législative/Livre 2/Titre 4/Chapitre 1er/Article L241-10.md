@@ -85,16 +85,15 @@ de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de
 l'article R. 711-1 du présent code pour la fraction de ces rémunérations
 remplissant les conditions définies au premier alinéa du présent paragraphe.
 
-III bis. - Les rémunérations des salariés qui, employés par des associations ou
-des entreprises de services à la personne agréées dans les conditions fixées à
-l'article L. 129-1 du code du travail, assurent une activité mentionnée à cet
-article, sont exonérées des cotisations patronales d'assurances sociales,
-d'accidents du travail et d'allocations familiales, dans la limite, lorsqu'elles
-ne sont pas éligibles à une autre exonération mentionnée au présent article,
-d'un plafond déterminé par décret. Le bénéfice de cette exonération n'est pas
-cumulable avec celui d'une autre exonération totale ou partielle de cotisations
-patronales ou l'application de taux ou d'assiettes spécifiques ou de montants
-forfaitaires de cotisations.
+III bis. - Les rémunérations des salariés qui, employés par des personnes
+agréées dans les conditions fixées à l'article L. 129-1 du code du travail,
+assurent une activité mentionnée à cet article, sont exonérées des cotisations
+patronales d'assurances sociales, d'accidents du travail et d'allocations
+familiales, dans la limite, lorsqu'elles ne sont pas éligibles à une autre
+exonération mentionnée au présent article, d'un plafond déterminé par décret. Le
+bénéfice de cette exonération n'est pas cumulable avec celui d'une autre
+exonération totale ou partielle de cotisations patronales ou l'application de
+taux ou d'assiettes spécifiques ou de montants forfaitaires de cotisations.
 
 IV. - Par dérogation aux dispositions de l'article L. 131-7 du présent code,
 l'exonération prévue au III n'est pas compensée par le budget de l'Etat.

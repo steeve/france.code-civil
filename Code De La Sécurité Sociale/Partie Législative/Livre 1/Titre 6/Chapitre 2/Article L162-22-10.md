@@ -16,34 +16,31 @@ implantés dans certaines zones afin de tenir compte d'éventuels facteurs
 spécifiques, qui modifient de manière manifeste, permanente et substantielle le
 prix de revient de certaines prestations dans la zone considérée.
 
-Ces éléments prennent effet, à l'exception de ceux pris en application du II, à
-compter du 1er mars de l'année en cours.
+Les éléments mentionnés aux 1° et 3° prennent effet le 1er mars de l'année en
+cours et ceux mentionnés au 2° le 1er janvier de la même année, à l'exception de
+ceux fixés en application du II.
 
 II. - La Caisse nationale de l'assurance maladie des travailleurs salariés
-communique à l'Etat, aux agences régionales de l'hospitalisation ainsi qu'aux
-organisations nationales les plus représentatives des établissements de santé
-pour l'ensemble des régimes obligatoires d'assurance maladie, des états
-provisoires et des états définitifs du montant total des charges mentionnées au
-I de l'article L. 162-22-9 en distinguant, d'une part, le montant annuel des
-charges afférentes à la fourniture des spécialités pharmaceutiques et des
-produits et prestations mentionnés à l'article L. 162-22-7 et, d'autre part, le
-montant annuel des autres charges et la répartition de ce montant total par
-région, par établissement et, le cas échéant, par nature d'activité en
-identifiant les dépenses relatives aux activités d'alternative à la dialyse en
-centre et d'hospitalisation à domicile.
+communique à l'Etat, aux agences régionales de l'hospitalisation pour l'ensemble
+des régimes obligatoires d'assurance maladie, des états provisoires et des états
+définitifs du montant total des charges mentionnées au I de l'article L.
+162-22-9 en distinguant, d'une part, le montant annuel des charges afférentes à
+la fourniture des spécialités pharmaceutiques et des produits et prestations
+mentionnés à l'article L. 162-22-7 et, d'autre part, le montant annuel des
+autres charges et la répartition de ce montant total par région, par
+établissement et, le cas échéant, par nature d'activité en identifiant les
+dépenses relatives aux activités d'alternative à la dialyse en centre et
+d'hospitalisation à domicile.
 
 Lorsqu'il apparaît que l'état définitif des charges au titre des soins dispensés
-l'année antérieure ou le montant des charges constatées pour le premier
-trimestre n'est pas compatible avec l'objectif de l'année en cours, et après
-analyse des différents facteurs d'évolution des charges par activités médicales,
-notamment les facteurs relatifs aux pratiques médicales et aux besoins de santé
-de la population, l'Etat modifie, après consultation des organisations
-nationales les plus représentatives des établissements de santé publics et
-privés, les tarifs des prestations mentionnées au 1° de l'article L. 162-22-6 de
-manière à garantir son respect dans les conditions prévues au I du présent
-article.
+l'année antérieure ou le montant des charges constatées au fur et à mesure de
+l'année en cours n'est pas compatible avec l'objectif de l'année en cours,
+l'Etat modifie les tarifs des prestations mentionnées au 1° de l'article L.
+162-22-6 de manière à garantir son respect dans les conditions prévues au I du
+présent article. Cette modification est différenciée, le cas échéant, par
+catégories d'établissements et par tarifs de prestations.
 
-III. - Le décret prévu au Il de l'article L. 162-22-9 détermine les modalités du
+III. - Le décret prévu au II de l'article L. 162-22-9 détermine les modalités du
 suivi statistique des charges supportées par les régimes obligatoires
 d'assurance maladie.
 
