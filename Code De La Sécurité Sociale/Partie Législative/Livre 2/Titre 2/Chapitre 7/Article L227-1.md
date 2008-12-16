@@ -48,7 +48,8 @@ objectifs fixés.
 II. - Pour la branche maladie, la convention d'objectifs et de gestion mentionne
 notamment les orientations pluriannuelles de l'action du Gouvernement dans les
 domaines de la santé publique, de la démographie médicale, du médicament et de
-la lutte contre l'exclusion en matière d'accès aux soins.
+la lutte contre l'exclusion en matière d'accès aux soins. La convention comporte
+également un plan de contrôle des prestations servies.
 
 Un avenant annuel à la convention d'objectifs et de gestion de la branche
 maladie du régime général détermine, en fonction de l'objectif national de

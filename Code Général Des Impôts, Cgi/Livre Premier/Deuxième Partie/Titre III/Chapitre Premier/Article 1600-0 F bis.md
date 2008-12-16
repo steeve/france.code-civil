@@ -3,9 +3,8 @@ Article 1600-0 F bis
 I. Ainsi qu'il est dit à l'article L. 245-14 du code de la sécurité sociale, les
 personnes physiques fiscalement domiciliées en France au sens de l'article 4 B
 sont assujetties à un prélèvement sur les revenus et les sommes visés à
-l'article 1600-0 C. Ce prélèvement est assis, contrôlé, recouvré et exigible
-dans les mêmes conditions que celles qui s'appliquent à la contribution visée à
-l'article 1600-0 C.
+l'article 1600-0 C. Les dispositions du III de l'article 1600-0 C sont
+applicables à ce prélèvement.
 
 II. Ainsi qu'il est dit à l'article L. 245-15 du code de la sécurité sociale,
 les produits de placement assujettis à la contribution prévue aux I et II de

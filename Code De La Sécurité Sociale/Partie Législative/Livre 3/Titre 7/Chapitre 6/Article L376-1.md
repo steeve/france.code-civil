@@ -20,6 +20,22 @@ physiques ou morales par elle endurées et au préjudice esthétique et d'agrém
 De même, en cas d'accident suivi de mort, la part d'indemnité correspondant au
 préjudice moral des ayants droit leur demeure acquise.
 
+Hors le cas où la caisse est appelée en déclaration de jugement commun
+conformément aux dispositions ci-après, la demande de la caisse vis-à-vis du
+tiers responsable s'exerce en priorité à titre amiable. Une convention signée
+par la Caisse nationale de l'assurance maladie des travailleurs salariés, la
+Caisse nationale d'assurance maladie et maternité des travailleurs non salariés
+et la Caisse centrale de la mutualité sociale agricole avec les organisations
+représentatives des assureurs peut définir les modalités de mise en oeuvre de
+cette procédure.
+
+La personne victime, les établissements de santé, le tiers responsable et son
+assureur sont tenus d'informer la caisse de la survenue des lésions causées par
+un tiers dans des conditions fixées par décret. La méconnaissance de
+l'obligation d'information des caisses par l'assureur du tiers responsable donne
+lieu à la majoration de 50 % de l'indemnité forfaitaire mentionnée ci-après dans
+les conditions déterminées par le même décret.
+
 L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure,
 la qualité d'assuré social de la victime de l'accident ainsi que les caisses de
 sécurité sociale auxquelles celle-ci est ou était affiliée pour les divers

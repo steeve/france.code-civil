@@ -19,23 +19,23 @@ de l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article
 afférentes à des véhicules mis à disposition, des frais de repas et des frais
 d'hébergement des personnes mentionnées au 1° ;
 
-3° Des frais de publication et des achats d'espaces publicitaires, à l'exception
-de la presse médicale bénéficiant d'un numéro de commission paritaire ou d'un
-agrément défini dans les conditions fixées par décret, dès lors qu'une
-spécialité pharmaceutique inscrite sur la liste mentionnée au premier alinéa de
-l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article L.
-5123-2 du code de la santé publique y est mentionnée.
+3° Des frais de publication et des achats d'espaces publicitaires, sauf dans la
+presse médicale bénéficiant d'un numéro de commission paritaire ou d'un agrément
+défini dans les conditions fixées par décret, dès lors qu'une spécialité
+pharmaceutique inscrite sur la liste mentionnée au premier alinéa de l'article
+L. 162-17 du présent code ou sur la liste mentionnée à l'article L. 5123-2 du
+code de la santé publique y est mentionnée.
 
 II. - Il est procédé sur l'assiette définie au I :
 
-1° A un abattement forfaitaire égal à 500 000 Euros et à un abattement de 3 %
-des dépenses mentionnées au 1° du I ;
+1° A un abattement forfaitaire égal à 1,5 million d'euros et à un abattement de
+3 % des dépenses mentionnées au 1° du I ;
 
 2° A un abattement d'un montant égal à 30 % du chiffre d'affaires hors taxes
 réalisé en France métropolitaine et dans les départements d'outre-mer au titre
 des spécialités génériques définies à l'article L. 5121-1 du code de la santé
-publique et des spécialités remboursées sur la base d'un tarif arrêté en
-application de l'article L. 162-16 du présent code, bénéficiant d'une
+publique à l'exception de celles qui sont remboursées sur la base d'un tarif
+arrêté en application de l'article L. 162-16 du présent code, bénéficiant d'une
 autorisation de mise sur le marché et inscrites sur la liste mentionnée au
 premier alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée
 à l'article L. 5123-2 du code de la santé publique ;
@@ -74,9 +74,9 @@ d'affaires hors taxes
 
 !----------------------!----------!
 
-! R &lt; 10 % ! 13 !
+! R &lt; 6,5 % ! 16 !
 
-! 10 % &lt; ou = R &lt; 12 % ! 19 !
+!6,5 % &lt; ou = R &lt; 12 % ! 21 !
 
 ! 12 % &lt; ou = R &lt; 14 % ! 27 !
 

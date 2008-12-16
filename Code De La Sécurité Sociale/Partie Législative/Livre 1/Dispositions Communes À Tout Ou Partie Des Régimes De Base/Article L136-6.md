@@ -53,7 +53,9 @@ supporté la contribution prévue à l'article L. 136-1.
 
 III. - La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
-sûretés, privilèges et sanctions que l'impôt sur le revenu.
+sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de
+cette contribution résultant de la mise en recouvrement du rôle primitif est
+versé le 25 novembre au plus tard aux organismes affectataires.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.

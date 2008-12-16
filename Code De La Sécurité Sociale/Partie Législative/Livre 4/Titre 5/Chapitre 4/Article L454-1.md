@@ -22,6 +22,22 @@ souffrances physiques ou morales par elle endurées et au préjudice esthétique
 d'agrément. De même, en cas d'accident suivi de mort, la part d'indemnité
 correspondant au préjudice moral des ayants droit leur demeure acquise.
 
+Hors le cas où la caisse est appelée en déclaration de jugement commun
+conformément aux dispositions ci-après, la demande de la caisse vis-à-vis du
+tiers responsable s'exerce en priorité à titre amiable. Une convention signée
+par la Caisse nationale de l'assurance maladie des travailleurs salariés, la
+Caisse nationale d'assurance maladie et maternité des travailleurs non salariés
+et la Caisse centrale de la mutualité sociale agricole avec les organisations
+représentatives des assureurs peut définir les modalités de mise en oeuvre de
+cette procédure.
+
+La personne victime, les établissements de santé, le tiers responsable et son
+assureur sont tenus d'informer la caisse de la survenue des lésions causées par
+un tiers dans des conditions fixées par décret. La méconnaissance de
+l'obligation d'information des caisses par l'assureur du tiers responsable donne
+lieu à la majoration de 50 % de l'indemnité forfaitaire mentionnée ci-après dans
+les conditions déterminées par le même décret.
+
 Si la responsabilité du tiers est partagée avec l'employeur, la caisse ne peut
 poursuivre un remboursement que dans la mesure où les indemnités dues par elle
 en vertu du présent livre dépassent celles qui auraient été mises à la charge de
@@ -32,7 +48,7 @@ la réparation de même nature due à la victime ou à ses ayants droit par
 application des dispositions du présent article, les rentes supplémentaires
 peuvent être allouées sous forme de capital. Celles qui ne seraient pas allouées
 en capital doivent, dans les deux mois de la décision définitive ou de l'accord
-des parties , être constituées par le débiteur à la caisse nationale de
+des parties, être constituées par le débiteur à la caisse nationale de
 prévoyance suivant le tarif résultant du présent code.
 
 En contrepartie des frais qu'elle engage pour obtenir le remboursement mentionné
@@ -46,10 +62,10 @@ euros.
 
 Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
 les garanties et sanctions prévues au chapitre 3 du titre III et aux chapitres
-2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du
+2, 3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du
 livre II applicables au recouvrement des cotisations de sécurité sociale.
 
 Lorsque l'assuré victime de l'accident est affilié au régime agricole,
 l'indemnité est recouvrée selon les règles et sous les garanties et sanctions
-prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'à l'article
+prévues aux chapitres 2, 3 et 4 du titre IV du livre Ier ainsi qu'à l'article
 1143-2 du code rural.

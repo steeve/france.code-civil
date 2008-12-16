@@ -23,17 +23,8 @@ d'invalidité et des victimes de la guerre ;
 
 d) Des personnes se trouvant, dans des conditions définies par décret, dans
 l'obligation de recourir à l'assistance d'une tierce personne pour accomplir les
-actes ordinaires de la vie et titulaires :
-
-- soit d'un avantage de vieillesse servi en application du présent code ou du
-code rural ;
-
-- soit d'une pension d'invalidité servie par un régime spécial de sécurité
-sociale, sous réserve d'avoir dépassé un âge déterminé par décret ;
-
-- soit d'une pension allouée aux militaires invalides au titre de l'article L. 2
-du code des pensions militaires d'invalidité et des victimes de la guerre, sous
-réserve d'avoir dépassé un âge déterminé par décret ;
+actes ordinaires de la vie, sous réserve d'avoir dépassé un âge fixé par décret
+;
 
 e) Des personnes remplissant la condition de perte d'autonomie prévue à
 l'article L. 232-2 du code de l'action sociale et des familles, dans des
@@ -44,7 +35,8 @@ du recouvrement des cotisations dans les conditions fixées par arrêté
 ministériel.
 
 Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domicile
-avec l'allocation de garde d'enfant à domicile prévue à l'article L. 533-1.
+avec le complément de libre choix du mode de garde de la prestation d'accueil du
+jeune enfant versé au titre de la garde à domicile.
 
 II. - Les personnes qui ont passé un contrat conforme aux dispositions du
 cinquième alinéa de l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative
@@ -65,10 +57,11 @@ habilités au titre de l'aide sociale ou ayant passé convention avec un organis
 de sécurité sociale sont exonérées totalement des cotisations patronales
 d'assurances sociales, d'accidents du travail et d'allocations familiales pour
 la fraction versée en contrepartie de l'exécution des tâches effectuées chez les
-personnes visées aux b, c, d et e du I ou bénéficiaires de prestations d'aide
-ménagère aux personnes âgées ou handicapées au titre de l'aide sociale légale ou
-dans le cadre d'une convention conclue entre ces associations ou organismes et
-un organisme de sécurité sociale.
+personnes visées au I ou bénéficiaires de prestations d'aide ménagère aux
+personnes âgées ou handicapées au titre de l'aide sociale légale ou dans le
+cadre d'une convention conclue entre ces associations ou organismes et un
+organisme de sécurité sociale, dans la limite, pour les personnes visées au a du
+I, du plafond prévu par ce a.
 
 Un décret détermine les modalités d'application de l'exonération prévue par
 l'alinéa ci-dessus et notamment :

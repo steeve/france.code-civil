@@ -7,5 +7,4 @@ directeur régional des affaires sanitaires et sociales invitant l'employeur ou
 le travailleur indépendant à régulariser sa situation dans le mois. Si la
 poursuite n'a pas lieu à la requête du ministère public, ledit avertissement est
 remplacé par une mise en demeure adressée par lettre recommandée à l'employeur
-ou au travailleur indépendant. Copie de cette mise en demeure doit être envoyée
-au directeur régional par la partie intéressée.
+ou au travailleur indépendant.

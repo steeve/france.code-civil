@@ -1,11 +1,7 @@
 Article L245-3
 ----
-Lorsque la comptabilité de l'entreprise ne permet pas d'établir le montant de
-l'assiette servant de base à la contribution, le montant de la contribution est
-fixé par l'autorité compétente de l'Etat, forfaitairement et, le cas échéant, à
-titre provisionnel.
-
-Lorsque l'entreprise n'a pas produit la déclaration dans les délais prescrits,
-le montant de la contribution peut être fixé à titre provisionnel par l'autorité
-compétente de l'Etat, en fonction des versements effectués au titre des
-exercices antérieurs ou, à défaut, par tous autres moyens.
+La contribution est recouvrée et contrôlée en application des dispositions
+prévues au 3° de l'article L. 225-1-1 et des articles L. 138-20 à L. 138-23. Les
+modalités particulières de recouvrement de la contribution, notamment les
+majorations, les pénalités, les taxations provisionnelles ou forfaitaires, sont
+précisées par décret en Conseil d'Etat.

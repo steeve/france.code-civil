@@ -5,16 +5,30 @@ L'Agence centrale des organismes de sécurité sociale est également chargée :
 1° D'exercer un pouvoir de direction et de contrôle sur les unions de
 recouvrement en matière de gestion de trésorerie ;
 
-2° De proposer et de promouvoir les orientations en matière de recouvrement et
-de contrôle des cotisations et contributions, dans le cadre de plans triennaux,
-ainsi que de coordonner et de vérifier leur mise en oeuvre par les organismes
-locaux ;
+2° De définir ses orientations en matière de contrôle et de recouvrement des
+cotisations et des contributions de sécurité sociale ainsi que de coordonner et
+de vérifier leur mise en oeuvre par les organismes locaux ;
 
 3° Dans les cas prévus par la loi, de recouvrer directement des cotisations et
 des contributions ; ce recouvrement s'effectue sous les garanties et sanctions
 applicables aux cotisations du régime général en vertu des chapitres II, III, IV
 et V du titre IV du livre Ier et des chapitres III et IV du titre IV du présent
 livre ;
+
+3° bis D'assurer l'application homogène des lois et des règlements relatifs aux
+cotisations et aux contributions de sécurité sociale recouvrées par les
+organismes de recouvrement visés aux articles L. 213-1 et L. 752-4 ;
+
+3° ter D'autoriser lesdits organismes à porter les litiges devant la Cour de
+cassation ;
+
+3° quater D'harmoniser les positions prises par les organismes de recouvrement
+en application des dispositions de l'article L. 243-6-1 ;
+
+3° quinquies D'initier et de coordonner des actions concertées de contrôle et de
+recouvrement menées par les organismes de recouvrement. L'Agence centrale des
+organismes de sécurité sociale peut requérir la participation des organismes de
+recouvrement à ces actions ;
 
 4° De recevoir, sauf disposition contraire, le produit des cotisations et
 contributions recouvrées par des tiers. Un décret en Conseil d'Etat fixe les

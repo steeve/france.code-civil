@@ -1,17 +1,29 @@
 Article L531-1
 ----
-Une allocation pour jeune enfant est attribuée au ménage ou à la personne dont
-les ressources ne dépassent pas un plafond :
+Ouvrent droit à la prestation d'accueil du jeune enfant l'enfant à naître et
+l'enfant né dont l'âge est inférieur à un âge limite.
 
-1° Pour chaque enfant né ou à naître lorsque sont remplies des conditions
-relatives à la durée de la grossesse de la mère ou à l'âge de l'enfant ;
+Cette prestation comprend :
 
-2° A l'issue de la période de versement d'une prestation attribuée dans les
-conditions prévues à l'alinéa précédent au ménage ou à la personne qui élève un
-ou plusieurs enfants d'un âge déterminé.
+1° Une prime à la naissance ou à l'adoption, versée dans les conditions définies
+à l'article L. 531-2 ;
 
-L'allocation mentionnée à l'alinéa précédent ne peut se cumuler avec une
-allocation de même nature que, pour les enfants issus de naissances multiples
-simultanées, dans la limite du nombre d'allocations pour jeune enfant dues pour
-ces enfants. Elle peut se cumuler avec toute allocation pour jeune enfant servie
-au titre du 1° pour chaque enfant de rang suivant.
+2° Une allocation de base, versée dans les conditions définies à l'article L.
+531-3, visant à compenser le coût lié à l'entretien de l'enfant ;
+
+3° Un complément de libre choix d'activité versé, dans les conditions définies à
+l'article L. 531-4, à celui des parents qui choisit de ne plus exercer
+d'activité professionnelle ou de travailler à temps partiel pour s'occuper d'un
+enfant ;
+
+4° Un complément de libre choix du mode de garde, versé, dans les conditions
+définies aux articles L. 531-5 à L. 531-9, pour compenser le coût de la garde
+d'un enfant.
+
+La personne ou le ménage qui ne répond pas à la condition de ressources pour
+percevoir la prime à la naissance ou à l'adoption mentionnée au 1° et
+l'allocation de base mentionnée au 2° peut toutefois percevoir les compléments
+prévus aux 3° et 4°.
+
+Le bénéfice du complément mentionné au 3° peut être cumulé avec celui mentionné
+au 4°.

@@ -10,7 +10,8 @@ L'allocation journalière n'est pas cumulable avec :
 
 3° L'allocation de présence parentale prévue à l'article L. 544-1 ;
 
-4° L'allocation parentale d'éducation à taux plein prévue à l'article L. 532-1 ;
+4° Le complément de libre choix d'activité à taux plein de la prestation
+d'accueil du jeune enfant prévu à l'article L. 531-4 ;
 
-5° L'allocation parentale d'éducation à taux partiel à l'ouverture du droit de
-celle-ci.
+5° Le complément de libre choix d'activité à taux partiel de la prestation
+d'accueil du jeune enfant à l'ouverture du droit de celui-ci.

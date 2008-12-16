@@ -4,7 +4,7 @@ Dès lors qu'elles dépassent 12 000 euros, les sommes privilégiées en applica
 du premier alinéa de l'article L. 243-4 dues par un commerçant ou une personne
 morale de droit privé même non commerçante doivent être inscrites à un registre
 public tenu au greffe du tribunal de commerce ou du tribunal de grande instance
-dans le délai de trois mois suivant leur date limite de paiement ou, le cas
+dans le délai de six mois suivant leur date limite de paiement ou, le cas
 échéant, la date de notification de l'avertissement ou de la mise en demeure
 prévus à l'article L. 244-2, lorsque la créance est constatée lors d'un contrôle
 organisé en application des dispositions de l'article L. 243-7.
@@ -14,8 +14,8 @@ tenu légalement au paiement de ces sommes, le privilège dont l'inscription n'a
 pas été régulièrement requise à l'encontre du redevable ne peut plus être exercé
 pour les créances qui étaient soumises à titre obligatoire à cette inscription.
 
-L'inscription conserve le privilège pendant deux années et trois mois à compter
-du jour où elle est effectuée. Elle ne peut être renouvelée.
+L'inscription conserve le privilège pendant deux années et six mois à compter du
+jour où elle est effectuée . Elle ne peut être renouvelée.
 
 Une inscription peut faire l'objet à tout moment d'une radiation totale ou
 partielle à la diligence des organismes de sécurité sociale ou du redevable sur

@@ -66,3 +66,7 @@ programmes mentionnés au 6° de l'article L. 321-1 ;
 
 17° Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné au
 9° de l'article L. 321-1.
+
+La liste mentionnée au 3° du présent article comporte également en annexe les
+critères médicaux utilisés pour la définition de l'affection et ouvrant droit à
+la limitation ou à la suppression de la participation de l'assuré.
