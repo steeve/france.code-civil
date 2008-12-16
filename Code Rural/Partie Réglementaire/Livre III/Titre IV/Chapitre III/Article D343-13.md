@@ -30,4 +30,6 @@ que se propose de détenir l'emprunteur et le nombre de parts constituant le
 capital du groupement ;
 
 2° Au financement de l'acquisition de terres lorsqu'elles améliorent la
-viabilité de l'exploitation.
+viabilité de l'exploitation et dans la limite de 10 % du coût total de
+l'installation hors foncier tel que prévu dans le plan de développement de
+l'exploitation à sa date de validation par le préfet.

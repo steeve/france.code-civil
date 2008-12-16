@@ -3,13 +3,13 @@ Article D343-4-1
 Le préfet peut accorder les aides à l'installation aux jeunes agriculteurs nés à
 compter du 1er janvier 1971 et titulaires d'un diplôme, titre, certificat d'un
 niveau équivalent au brevet d'études professionnelles agricoles ou au brevet
-professionnel agricole et qui :
+professionnel agricole ou titulaire d'un diplôme de niveau IV non agricole et
+qui :
 
-- justifient qu'ils sont dans l'obligation de s'installer sans pouvoir
-satisfaire à la condition de capacité professionnelle prévue à l'article D.
-343-4 ;
+-justifient qu'ils sont dans l'obligation de s'installer sans pouvoir satisfaire
+à la condition de capacité professionnelle prévue à l'article D. 343-4 ;
 
-- s'engagent à suivre une formation complémentaire en vue d'acquérir un diplôme
+-s'engagent à suivre une formation complémentaire en vue d'acquérir un diplôme
 ou un titre mentionné à l'article D. 343-4 dans un délai qui ne peut excéder
 trois ans.
 
@@ -21,5 +21,5 @@ pas à ces conditions dans le délai de trois ans. La moitié des prêts à moye
 terme spéciaux qui peuvent être accordés conformément à l'article D. 343-15 est,
 également, réservée. Lorsque le candidat justifie remplir les conditions de
 capacité professionnelle prévues à l'article D. 343-4, le préfet peut autoriser
-la réalisation de nouveaux prêts dans la limite du plafond de réalisation et du
-montant maximum prévus à l'article D. 343-15.
+la réalisation de nouveaux prêts dans la limite des plafonds de réalisation et
+de montant d'aide prévus à l'article D. 343-15.
