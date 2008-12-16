@@ -1,31 +1,28 @@
 Article L144-2
 ----
-A l'exclusion des rémunérations des présidents des juridictions et de celles de
-leurs secrétaires ainsi que de celles du secrétaire général et des secrétaires
-généraux adjoints de la Cour nationale de l'incapacité et de la tarification de
-l'assurance des accidents du travail, les dépenses de toute nature résultant de
-l'application des chapitres II et III du présent titre sont :
+L'assesseur d'un tribunal des affaires de sécurité sociale ou d'un tribunal du
+contentieux de l'incapacité, titulaire ou suppléant, qui, sans motif légitime et
+après mise en demeure, s'abstient d'assister à une audience peut être déclaré
+démissionnaire. Le président du tribunal constate le refus de service par
+procès-verbal, l'assesseur préalablement entendu ou dûment appelé. Au vu du
+procès-verbal, la cour d'appel dans le ressort de laquelle le tribunal a son
+siège statue en audience solennelle, après avoir appelé l'intéressé.
 
-1°) ou bien réglées directement par la caisse nationale compétente du régime
-général ou par la Caisse centrale de la mutualité sociale agricole ;
+Les sanctions qui peuvent lui être infligées en cas de faute disciplinaire sont
+le blâme, la suspension pour une durée qui ne peut excéder six mois, la
+déchéance. Le blâme et la suspension sont prononcés par arrêté du garde des
+sceaux, ministre de la justice. La déchéance est prononcée par décret.
 
-2°) ou bien avancées par la caisse primaire d'assurance maladie ou la caisse
-départementale ou pluri-départementale de mutualité sociale agricole du siège de
-la juridiction et remboursées par la caisse nationale compétente du régime
-général ou par la Caisse centrale de la mutualité sociale agricole ;
+L'assesseur est appelé par le président du tribunal auquel il appartient pour
+s'expliquer sur les faits qui lui sont reprochés.
 
-3° Ou bien remboursées par la caisse nationale compétente du régime général au
-budget de l'Etat.
+L'assesseur qui, postérieurement à sa désignation, perd la capacité d'être juré
+ou est condamné pour une infraction pénale mentionnée au premier alinéa de
+l'article L. 144-1 est déchu de plein droit.
 
-Les modalités suivant lesquelles les dépenses précitées sont avancées, réglées
-et remboursées par les organismes mentionnés aux 1°, 2° et 3° sont fixées par
-arrêtés interministériels.
-
-Des arrêtés interministériels déterminent les conditions dans lesquelles les
-dépenses acquittées par la caisse nationale compétente, en application du
-présent article, sont réparties entre les organismes du régime général de
-sécurité sociale, du régime de la mutualité sociale agricole, des régimes
-spéciaux, les caisses nationales d'allocations de vieillesse des non-salariés
-mentionnées au livre VI du présent code, le fonds spécial d'invalidité mentionné
-par l'article L. 815-3-1 et le fonds de solidarité vieillesse institué par
-l'article L. 135-1.
+Sur proposition du premier président de la cour d'appel dans le ressort de
+laquelle le tribunal a son siège, le garde des sceaux, ministre de la justice,
+saisi d'une plainte ou informé de faits de nature à entraîner des poursuites
+pénales contre un assesseur, peut suspendre l'intéressé pour une durée qui ne
+peut excéder six mois. Il est fait application de la procédure prévue au
+quatrième alinéa.
