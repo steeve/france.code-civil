@@ -46,13 +46,16 @@ définie par le livre IX du code du travail ;
 
 3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
 rééducation professionnelle dans les conditions prévues par le présent code, les
-assurés sociaux bénéficiaires de l'article L. 324-1 ou titulaires d'une pension
-d'invalidité en vertu du chapitre 1er du titre IV du livre III et les personnes
-autres que celles appartenant aux catégories ci-dessus et qui, en vertu d'un
-texte législatif ou réglementaire, effectuent un stage de rééducation
-professionnelle dans les écoles administrées par l'office national des anciens
-combattants et victimes de la guerre, pour les accidents survenus par le fait ou
-à l'occasion de la réadaptation ou de la rééducation ;
+victimes menant des actions de formation professionnelle ou d'autres actions
+d'évaluation, d'accompagnement, d'information et de conseil dans les conditions
+prévues au quatrième alinéa de l'article L. 433-1, les assurés sociaux
+bénéficiaires de l'article L. 324-1 ou titulaires d'une pension d'invalidité en
+vertu du chapitre 1er du titre IV du livre III et les personnes autres que
+celles appartenant aux catégories ci-dessus et qui, en vertu d'un texte
+législatif ou réglementaire, effectuent un stage de rééducation professionnelle
+dans les écoles administrées par l'office national des anciens combattants et
+victimes de la guerre, pour les accidents survenus par le fait ou à l'occasion
+de la réadaptation ou de la rééducation ;
 
 4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
@@ -91,7 +94,8 @@ favorisant leur insertion, dans des conditions déterminées par décret ;
 11°) Les demandeurs d'emploi, pour les accidents survenus par le fait ou à
 l'occasion de leur participation à des actions d'aide à la création d'entreprise
 ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi
-dispensées ou prescrites par l'Agence nationale pour l'emploi ;
+dispensées ou prescrites par l'institution mentionnée à l'article L. 311-7 du
+code du travail ;
 
 12°) Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
 code du travail, pour siéger dans une instance instituée par une disposition
@@ -109,15 +113,15 @@ l'article L. 127-1 du code de commerce ;
 15°) Les tuteurs non rémunérés mentionnés à l'article L. 129-1 du code de
 commerce ;
 
-15°)(2) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code
-du service national.
+15°) (2) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du
+code du service national.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
 aux personnes mentionnées aux a, b et f du 2°.
 
 Un décret précise, en tant que de besoin, les catégories d'élèves, d'étudiants
 et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
-1° ci-dessus.
+2° ci-dessus.
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
 et non assujetties aux assurances sociales en vertu du livre III ainsi que les
