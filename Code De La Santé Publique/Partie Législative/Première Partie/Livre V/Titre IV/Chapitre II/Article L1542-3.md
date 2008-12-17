@@ -1,6 +1,12 @@
 Article L1542-3
 ----
-Les articles L. 1221-1, L. 1221-3 à L. 1221-7 et l'article L. 1222-9 du titre II
-du livre II de la présente partie sont applicables, sous réserve des adaptations
-des articles L. 1542-4 à L. 1542-6, en Nouvelle-Calédonie et en Polynésie
-française.
+Pour leur application en Nouvelle-Calédonie et en Polynésie française :
+
+1° A l'article L. 1221-3, les mots : " dans des conditions fixées par décret "
+ne sont pas applicables ;
+
+2° A l'article L. 1221-4, le dernier alinéa n'est pas applicable.
+
+3° A l'article L. 1221-11, les mots : " substances mentionnées à l'article L.
+1221-2 " sont remplacés par les mots : " du sang humain ou de ses composants en
+vue d'un usage thérapeutique ".

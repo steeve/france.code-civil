@@ -1,18 +1,25 @@
 Article L2422-2
 ----
-Pour leur application dans le territoire des îles Wallis-et-Futuna :
+Pour l'application à Wallis-et-Futuna :
 
-1° Le 3° de l'article L. 2222-2 est ainsi rédigé :
+1° De l'article L. 2212-2, le deuxième alinéa est remplacé par les dispositions
+suivantes :
 
-"3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un
-établissement d'hospitalisation privé satisfaisant aux conditions prévues par la
-réglementation applicable localement." ;
+Elle ne peut avoir lieu qu'à l'agence de santé de Wallis-et-Futuna ou dans un
+établissement de santé public ou privé ayant conclu une convention avec
+celle-ci.
 
-2° Aux articles L. 2223-1 et L. 2223-2, les mots : "par les articles L. 2212-3 à
-L. 2212-8" sont remplacés par les mots : "par les dispositions législatives ou
-réglementaires applicables localement" ;
+2° De l'article L. 2212-4, au premier alinéa, les mots : " dans un établissement
+d'information, de consultation ou de conseil familial, un centre de
+planification ou d'éducation familial, un service social ou un autre organisme
+agréé. " sont remplacés par les mots : " exerçant à l'agence de santé ou dans un
+organisme qu'elle agrée à cet effet. "
 
-3° A l'article L. 2223-2, les mots : "mentionnés à l'article L. 2212-2" sont
-remplacés par les mots : "de santé, publics ou privés, autorisés à pratiquer des
-interruptions volontaires de grossesse par la réglementation applicable
-localement".
+3° De l'article L. 2212-10, les mots : " au médecin inspecteur régional de santé
+publique " sont remplacés par les mots : " à l'administrateur supérieur du
+territoire. "
+
+4° De l'article L. 2214-2, au premier alinéa, les mots : " notamment par la
+création généralisée, dans les centres de planification maternelle et infantile,
+de centres de planification ou d'éducation familiale et " ne sont pas
+applicables.

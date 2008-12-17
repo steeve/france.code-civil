@@ -1,18 +1,15 @@
 Article L1543-5
 ----
-Comme il est dit à l'article 713-6 du code pénal :
+Sont punis des peines prévues à l'article L. 1543-3 :
 
-" L'article 226-28 est rédigé comme suit :
+1° Le fait de falsifier des substances médicamenteuses destinées à être vendues
+;
 
-Art. 226-28. - Le fait de rechercher l'identification par ses empreintes
-génétiques d'une personne, lorsqu'il ne s'agit pas d'un militaire décédé à
-l'occasion d'une opération conduite par les forces armées ou les formations
-rattachées, à des fins qui ne seraient ni médicales ni scientifiques ou en
-dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 1500 euros d'amende.
+2° Le fait d'exposer, mettre en vente ou vendre des substances médicamenteuses
+falsifiées ;
 
-Est puni des mêmes peines le fait de divulguer des informations relatives à
-l'identification d'une personne par ses empreintes génétiques ou de procéder à
-l'identification d'une personne par ses empreintes génétiques sans avoir fait
-l'objet d'un agrément délivré dans des conditions fixées par décret en Conseil
-d'Etat. "
+Si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme, les
+peines sont portées au double.
+
+Ces peines sont applicables même au cas où la falsification nuisible est connue
+de l'acheteur ou du consommateur.

@@ -1,19 +1,14 @@
 Article L1521-3
 ----
-Les dispositions du chapitre préliminaire du titre Ier du livre Ier de la
-présente partie, à l'exception de celles de l'article L. 1110-7, sont
-applicables à Wallis et Futuna sous réserve des adaptations suivantes :
+Le chapitre III du titre Ier du livre Ier de la présente partie est applicable à
+Wallis-et-Futuna, à l'exception des articles L. 1113-7 à L. 1113-10, et sous
+réserve des adaptations suivantes :
 
-A l'article L. 1110-4, la dernière phrase du quatrième alinéa n'est pas
-applicable et ledit article est complété par les deux alinéas suivants :
+1° A l'article L. 1113-1, les mots : " ainsi que les établissements sociaux ou
+médico-sociaux hébergeant des personnes âgées ou des adultes handicapés, " ainsi
+que le troisième alinéa ne sont pas applicables ;
 
-Les praticiens-conseils du service de contrôle médical et les personnes placées
-sous leur autorité n'ont accès, dans le respect du secret médical, aux données
-de santé à caractère personnel que si elles sont strictement nécessaires à
-l'exercice de leur mission.
-
-Les membres de l'inspection générale des affaires sociales titulaires d'un
-diplôme, certificat ou autre titre permettant l'exercice dans la collectivité,
-de la profession de médecin n'ont accès, dans le respect du secret médical, aux
-données de santé à caractère personnel que si elles sont strictement nécessaires
-à l'exercice de leur mission lors de leur visite sur les lieux.
+2° A l'article L. 1113-2, les mots : " à l'équivalent de deux fois le montant du
+plafond des rémunérations et gains versés mensuellement retenu pour le calcul
+des cotisations de sécurité sociale du régime général " sont remplacés par les
+mots : " à une somme forfaitaire fixée par décret ".

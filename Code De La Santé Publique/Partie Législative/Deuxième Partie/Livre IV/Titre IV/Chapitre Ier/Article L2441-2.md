@@ -1,18 +1,14 @@
 Article L2441-2
 ----
-Pour leur application en Nouvelle-Calédonie et en Polynésie française :
+Pour son application en Nouvelle-Calédonie et en Polynésie française, l'article
+L. 2131-1 est remplacé par les dispositions suivantes :
 
-1° Le 3° de l'article L. 2222-2 est ainsi rédigé :
+Art.L. 2131-1. - Le diagnostic prénatal s'entend des pratiques médicales ayant
+pour but de détecter in utero chez l'embryon ou le fœtus une affection d'une
+particulière gravité. Il doit être précédé d'une consultation médicale adaptée à
+l'affection recherchée.
 
-"3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un
-établissement d'hospitalisation privé satisfaisant aux conditions prévues par la
-réglementation applicable localement." ;
-
-2° Aux articles L. 2223-1 et L. 2223-2, les mots : "par les articles L. 2212-3 à
-L. 2212-8" sont remplacés par les mots : "par les dispositions législatives ou
-réglementaires applicables localement" ;
-
-3° A l'article L. 2223-2, les mots : "mentionnés à l'article L. 2212-2" sont
-remplacés par les mots : "de santé, publics ou privés, autorisés à pratiquer des
-interruptions volontaires de grossesse par la réglementation applicable
-localement".
+Pour être autorisés à réaliser des analyses de cytogénétique et de biologie en
+vue d'établir un diagnostic prénatal, les établissements de santé et les
+laboratoires d'analyses de biologie médicale doivent exercer leur activité
+conformément aux principes énoncés au présent chapitre.

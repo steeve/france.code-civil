@@ -1,9 +1,6 @@
 Article L1541-1
 ----
-L'article L. 1131-4, à l'exception de son dernier alinéa, est applicable en
-Nouvelle-Calédonie et en Polynésie française. Pour son application en
-Nouvelle-Calédonie et en Polynésie française, les mots : " du titre II du
-présent livre et " sont supprimés.
-
-Les conditions d'application du présent article sont déterminées par décret en
-Conseil d'Etat.
+Sous réserve des adaptations prévues au présent chapitre, le chapitre
+préliminaire du titre Ier du livre Ier de la présente partie, à l'exception des
+articles L. 1110-1-1, L. 1110-6, L. 1110-7 et L. 1110-11, est applicable en
+Nouvelle-Calédonie et en Polynésie française.

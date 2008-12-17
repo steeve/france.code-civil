@@ -1,10 +1,9 @@
 Article L1543-2
 ----
-Comme il est dit à l'article 713-1 du code pénal ci-après reproduit :
+Pour son application en Nouvelle-Calédonie et en Polynésie française, l'article
+L. 1271-1 est remplacé par les dispositions suivantes :
 
-" Le premier alinéa de l'article 223-8 est rédigé comme suit :
-
-Le fait de pratiquer ou de faire pratiquer sur une personne une recherche
-biomédicale sans avoir recueilli le consentement libre, éclairé et exprès de
-l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de
-trois ans d'emprisonnement et de 45000 euros d'amende. "
+Art.L. 1271-1.-Le fait de procéder aux activités liées à la transfusion
+sanguine, sans être titulaire des autorisations prévues à l'article L. 1221-12
+ou en violation des prescriptions fixées par autorisations, est puni de deux ans
+d'emprisonnement et de 75 000 € d'amende.

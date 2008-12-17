@@ -1,4 +1,8 @@
 Article L5523-1
 ----
-Les articles L. 5424-5 à L. 5424-7, L. 5424-9, L. 5424-10 et L. 5424-13 sont
-applicables dans le territoire des îles Wallis et Futuna.
+Les dispositions du livre III de la présente partie relatives à l'Agence
+française de sécurité sanitaire des produits de santé sont applicables, dans les
+limites des dispositions du présent code rendues applicables à Wallis-et-Futuna.
+
+Dans les autres cas, l'agence peut passer des conventions avec les autorités
+compétentes de Wallis-et-Futuna.

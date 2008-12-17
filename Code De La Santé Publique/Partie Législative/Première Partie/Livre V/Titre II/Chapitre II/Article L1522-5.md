@@ -1,6 +1,9 @@
 Article L1522-5
 ----
-Dans le territoire des îles Wallis et Futuna, le représentant de l'Etat peut,
-par arrêté, suspendre ou interdire la transformation, l'importation,
-l'exportation, la distribution, la cession ou l'utilisation d'un élément ou
-produit du corps humain. Il peut également en restreindre les utilisations.
+L'Etablissement français du sang institué au chapitre II du titre II du livre II
+de la présente partie peut passer des conventions avec les autorités compétentes
+de Wallis-et-Futuna, notamment pour préciser selon quelles modalités l'assurance
+contractée par l'Etablissement français du sang, du fait des risques encourus
+par les donneurs en raison des opérations de prélèvement, couvre la
+responsabilité, du fait de ces mêmes risques, de l'agence de santé se livrant
+aux opérations mentionnées à l'article L. 1522-4.

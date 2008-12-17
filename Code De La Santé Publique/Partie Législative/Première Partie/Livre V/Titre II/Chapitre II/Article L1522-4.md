@@ -1,11 +1,10 @@
 Article L1522-4
 ----
-Pour son application dans le territoire des îles Wallis et Futuna, l'article L.
-1222-9 est ainsi rédigé :
+Seule l'agence de santé de Wallis-et-Futuna peut être autorisée à se livrer à
+des opérations de collecte du sang ou de ses composants de qualification
+biologique du don, de préparation, de distribution et de délivrance des produits
+sanguins labiles dans les conditions prévues au chapitre Ier du titre II du
+livre II de la présente partie.
 
-" Art. L. 1222-9. - Jusqu'à la création d'établissements de transfusion
-sanguine, une convention précise selon quelles modalités l'assurance contractée
-par l'Etablissement français du sang du fait des risques encourus par les
-donneurs à raison des opérations de prélèvement couvre la responsabilité, du
-fait de ces mêmes risques, de l'agence de santé de Wallis et Futuna se livrant à
-des opérations de transfusion sanguine. "
+L'autorisation est accordée par l'Agence française de sécurité sanitaire des
+produits de santé.

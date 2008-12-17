@@ -1,10 +1,14 @@
 Article L1542-13
 ----
-Pour son application en Nouvelle-Calédonie, l'article L. 1243-1 est ainsi rédigé
-:
+Les titres V et VI du livre II de la présente partie sont applicables en
+Nouvelle-Calédonie et en Polynésie française, à l'exception de l'article L.
+1261-2 et sous réserve des adaptations suivantes :
 
-" Art. L. 1243-1. - Peuvent assurer la transformation, la conservation et la
-cession des tissus et des cellules qui ne sont pas destinées à des thérapies
-génique ou cellulaire, les établissements publics de santé et les organismes à
-but non lucratif autorisés à cet effet par l'autorité administrative pour une
-durée déterminée. "
+a) L'article L. 1251-1 est complété par la phrase suivante : " Une convention
+passée entre l'Agence de la biomédecine et les autorités compétentes de la
+Nouvelle-Calédonie et de la Polynésie française détermine les modalités
+d'inscription des patients et d'attribution des greffons, compte tenu notamment
+des exigences particulières de leur transport et de leur conservation. " ;
+
+b) A l'article L. 1261-1, les mots : " mentionnés à l'article L. 5211-1 " sont
+supprimés.

@@ -1,17 +1,7 @@
 Article L1525-3
 ----
-Comme il est dit à l'article 713-4 du code pénal ci-après reproduit :
+Pour son application à Wallis-et-Futuna, le deuxième alinéa de l'article L.
+1271-5 est remplacé par les dispositions suivantes :
 
-" L'article 226-25 est rédigé comme suit :
-
-Art. 226-25.-Le fait de procéder à l'étude des caractéristiques génétiques d'une
-personne à des fins médicales sans avoir préalablement recueilli son
-consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros
-d'amende.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables :
-
-1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
-
-2° Ou lorsqu'à titre exceptionnel, dans l'intérêt de la personne et le respect
-de sa confiance, le consentement de celle-ci n'est pas recueilli. "
+Est puni des mêmes peines le fait de contrevenir ou de tenter de contrevenir aux
+stipulations de la convention prévue à l'article L. 1522-5.

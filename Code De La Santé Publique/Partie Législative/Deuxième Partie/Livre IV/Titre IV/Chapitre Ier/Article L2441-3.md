@@ -1,24 +1,15 @@
 Article L2441-3
 ----
-Comme il est dit à l'article 716-9 du code pénal, ci-après reproduit :
+Pour l'application en Nouvelle-Calédonie et en Polynésie française de l'article
+L. 2131-4 :
 
-" L'article 511-16 est ainsi rédigé :
+1° Au deuxième alinéa, les mots : " Un médecin exerçant son activité dans un
+centre de diagnostic prénatal pluridisciplinaire tel que défini par l'article L.
+2131-1 doit attester que " sont remplacés par les mots : " Lorsqu'il est attesté
+que " ;
 
-" Art. 511-16.-Le fait d'obtenir des embryons humains sans autorisation
-préalable de l'autorité judiciaire est puni de sept ans d'emprisonnement et de
-100000 euros d'amende.L'autorité judiciaire ne peut délivrer une telle
-autorisation qu'à titre exceptionnel, au vu du consentement écrit du couple à
-l'origine de la conception ou, si l'un des membres du couple est décédé, du
-membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup
-des dispositions de l'article 511-24 et que le couple receveur offre des
-garanties d'accueil satisfaisantes à l'enfant à naître.
+2° Au sixième alinéa, les mots : " par l'Agence de la biomédecine instituée à
+l'article L. 1418-1 " sont remplacés par les mots : " par l'autorité compétente
+en Nouvelle-Calédonie ou en Polynésie française " ;
 
-Est également puni d'une peine de sept ans d'emprisonnement et de 100000 euros
-d'amende le fait d'obtenir un embryon humain :
-
--si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé
-n'est pas respecté ;
-
--ou si le couple accueillant l'embryon ne se trouve pas dans une situation où
-l'assistance médicale à la procréation sans recours à un tiers donneur ne peut
-aboutir. "
+3° La dernière phrase du dernier alinéa est supprimée.

@@ -1,13 +1,6 @@
 Article L1543-1
 ----
-Conformément à l'article 711-1 du code pénal, les dispositions suivantes du
-livre Ier de la présente partie sont applicables en Nouvelle-Calédonie et en
-Polynésie française, sous réserve des adaptations des articles L. 1543-2 à L.
-1543-16 :
-
-1° Les dispositions des articles L. 1126-1 et L. 1126-2 du chapitre VI du titre
-II ;
-
-2° Les dispositions du chapitre II du titre III ;
-
-3° Les dispositions des articles L. 1115-1 et L. 1115-2.
+Le chapitre Ier du titre VII du livre II de la présente partie est applicable en
+Nouvelle-Calédonie et en Polynésie française, à l'exception de l'article L.
+1271-1-1, du deuxième alinéa de l'article L. 1271-5, des articles L. 1271-7 et
+L. 1271-8 et sous réserve des adaptations prévues au présent chapitre.

@@ -1,10 +1,15 @@
 Article L1525-6
 ----
-A l'exception des articles L. 1271-1, L. 1271-7 et L. 1271-8, les dispositions
-du chapitre Ier du titre VII du livre II de la présente partie sont applicables
-dans le territoire des îles Wallis et Futuna.
+Sont punis des peines prévues à l'article L. 1525-4 :
 
-Les personnes coupables des délits prévus par les dispositions prévues à
-l'alinéa précédent encourent également la peine complémentaire d'interdiction
-d'exercer l'activité professionnelle ou sociale dans l'exercice de laquelle ou à
-l'occasion de laquelle l'infraction a été commise.
+1° Le fait de falsifier des substances médicamenteuses destinées à être vendues
+;
+
+2° Le fait d'exposer, mettre en vente ou vendre des substances médicamenteuses
+falsifiées.
+
+Si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme, les
+peines sont portées au double.
+
+Ces peines sont applicables même au cas où la falsification nuisible est connue
+de l'acheteur ou du consommateur.

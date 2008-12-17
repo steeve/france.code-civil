@@ -1,18 +1,37 @@
 Article L1542-10
 ----
-Le titre IV du livre II de la présente partie est applicable en
-Nouvelle-Calédonie, à l'exception du deuxième alinéa de l'article L. 1242-1, des
-articles L. 1243-2 et L. 1243-3, du deuxième alinéa de l'article L. 1243-5, des
-articles L. 1243-6 et 1243-7, du chapitre IV, des deux derniers alinéas de
-l'article L. 1245-1, des articles L. 1245-3 et L. 1245-4, et sous réserve des
-dispositions des articles L. 1542-11 à L. 1542-15 et des adaptations suivantes :
+Pour leur application en Nouvelle-Calédonie et en Polynésie française :
 
-a) A l'article L. 1242-1, après les mots : " par l'autorité administrative "
-sont ajoutés les mots : " pour une durée déterminée " ;
+1° A l'article L. 1243-3 :
 
-b) A l'article L. 1242-3, les mots : " par décret en Conseil d'Etat " sont
-remplacés par les mots : " par délibération du congrès " ;
+a) Les mots : " directeur de l'agence régionale de l'hospitalisation
+territorialement compétent " sont remplacés par les mots : " représentant de
+l'Etat en Nouvelle-Calédonie ou en Polynésie française " ;
 
-c) A l'article L. 1245-1, les mots : " Journal officiel de la République
-française " sont remplacés par les mots : " Journal officiel de
-Nouvelle-Calédonie ".
+b) Au sixième alinéa, après les mots : " ministre chargé de la recherche " sont
+ajoutés les mots : " et, le cas échéant, le représentant de l'Etat en
+Nouvelle-Calédonie ou en Polynésie française " ;
+
+c) Il est ajouté un alinéa ainsi rédigé :
+
+Le représentant de l'Etat informe l'autorité compétente en matière de santé de
+la Nouvelle-Calédonie et de la Polynésie française des décisions prises en
+application des alinéas précédents.
+
+2° A l'article L. 1243-4 :
+
+a) Les mots : " directeur de l'agence régionale de l'hospitalisation
+territorialement compétent " sont remplacés par les mots : " représentant de
+l'Etat en Nouvelle-Calédonie ou en Polynésie française " ;
+
+b) Il est ajouté un alinéa ainsi rédigé :
+
+Le représentant de l'Etat informe l'autorité compétente en matière de santé de
+la Nouvelle-Calédonie et de la Polynésie française de l'autorisation délivrée.
+
+3° L'article L. 1243-6 est remplacé par les dispositions suivantes :
+
+Art.L. 1243-6.-Pour être autorisés à pratiquer des greffes de tissus et à
+administrer des préparations de thérapie cellulaire, les établissements de santé
+doivent fonctionner en conformité avec les principes énoncés aux articles L.
+1241-1 à L. 1241-7.

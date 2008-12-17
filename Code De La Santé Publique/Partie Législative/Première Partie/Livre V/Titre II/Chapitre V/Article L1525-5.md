@@ -1,18 +1,19 @@
 Article L1525-5
 ----
-Comme il est dit à l'article 713-6 du code pénal :
+Les peines prévues à l'article L. 1525-4 sont portées au double :
 
-" L'article 226-28 est rédigé comme suit :
+1° Si les délits prévus audit article ont eu pour conséquence de rendre
+l'utilisation de la marchandise dangereuse pour la santé de l'homme ;
 
-Art. 226-28. - Le fait de rechercher l'identification par ses empreintes
-génétiques d'une personne, lorsqu'il ne s'agit pas d'un militaire décédé à
-l'occasion d'une opération conduite par les forces armées ou les formations
-rattachées, à des fins qui ne seraient ni médicales ni scientifiques ou en
-dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 1500 euros d'amende.
+2° Si le délit ou la tentative de délit prévus à l'article L. 1525-5 ont été
+commis :
 
-Est puni des mêmes peines le fait de divulguer des informations relatives à
-l'identification d'une personne par ses empreintes génétiques ou de procéder à
-l'identification d'une personne par ses empreintes génétiques sans avoir fait
-l'objet d'un agrément délivré dans des conditions fixées par décret en Conseil
-d'Etat. "
+a) Soit à l'aide de poids, mesures et autres instruments faux ou inexacts ;
+
+b) Soit à l'aide de manœuvres ou procédés tendant à fausser les opérations de
+l'analyse ou du dosage, du pesage ou du mesurage, ou tendant à modifier
+frauduleusement la composition, le poids ou le volume des marchandises, même
+avant ces opérations ;
+
+c) Soit enfin à l'aide d'indications frauduleuses tendant à faire croire à une
+opération antérieure et exacte.

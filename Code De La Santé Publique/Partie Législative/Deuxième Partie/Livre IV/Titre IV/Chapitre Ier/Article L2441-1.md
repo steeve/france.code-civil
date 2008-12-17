@@ -1,7 +1,5 @@
 Article L2441-1
 ----
-Sous réserve des adaptations prévues aux articles L. 2441-2 à L. 2441-9, les
-dispositions du titre V du livre Ier, à l'exception des articles L. 2152-11 et
-L. 2153-1, le chapitre II du titre II du livre II de la présente partie, à
-l'exception de l'article L. 2222-3 sont applicables en Nouvelle-Calédonie et en
-Polynésie française.
+Les articles L. 2131-1, L. 2131-4 et L. 2131-4-1 du chapitre Ier du titre III du
+livre Ier de la présente partie sont applicables en Nouvelle-Calédonie et en
+Polynésie française, sous réserve des adaptations prévues au présent chapitre.

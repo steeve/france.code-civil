@@ -1,5 +1,5 @@
 Article L5522-2
 ----
-Au deuxième alinéa de l'article L. 5211-3, les mots : " ou par les organes
-désignés par l'Agence française de sécurité sanitaire des produits de santé " ne
-s'appliquent pas dans le territoire des îles Wallis et Futuna.
+Pour l'application à Wallis-et-Futuna de l'article L. 5232-3, les mots : " au
+sens de l'article L. 114 du code de l'action sociale et des familles " ne sont
+pas applicables.

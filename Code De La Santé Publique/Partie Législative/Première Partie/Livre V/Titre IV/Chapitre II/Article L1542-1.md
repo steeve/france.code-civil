@@ -1,21 +1,22 @@
 Article L1542-1
 ----
-Les dispositions du titre Ier du livre II de la présente partie sont applicables
-en Nouvelle-Calédonie et en Polynésie française.
+Le titre Ier du livre II de la présente partie est applicable en
+Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
+suivantes :
 
-1° Pour leur application en Nouvelle-Calédonie et en Polynésie française :
+1° Le deuxième alinéa de l'article L. 1211-3 n'est pas applicable ;
 
-a) Au deuxième alinéa de l'article L. 1211-3, les mots : " du ministre chargé de
-la santé " sont remplacés par les mots :
+2° L'article L. 1211-4 est remplacé par les dispositions suivantes :
 
-" de l'autorité exécutive de la Polynésie française " ou par les mots : " de
-l'autorité exécutive de la Nouvelle-Calédonie " ;
+Art.L. 1211-4.-Aucun paiement, quelle qu'en soit la forme, ne peut être alloué à
+celui qui se prête au prélèvement d'éléments de son corps ou à la collecte de
+ses produits.
 
-b) A l'article L. 1211-9, pour les 1°, 2° et 3° de cet article, les mots : "
-décret en Conseil d'Etat " sont remplacés par les mots : " délibération de
-l'assemblée de la Polynésie française " dans ce territoire et par les mots : "
-délibération du congrès " en Nouvelle-Calédonie ;
+Seul peut intervenir, le cas échéant, le remboursement des frais engagés.
 
-2° A l'article L. 1211-8, les mots : " L. 1211-2 à L. 1211-6 " sont remplacés
-par les mots : " L. 1211-2 à L. 1211-6 et L. 1525-16 ", pour leur application en
-Nouvelle-Calédonie et en Polynésie française.
+3° L'article L. 1211-7 n'est pas applicable ;
+
+4° L'article L. 1211-9 est remplacé par les dispositions suivantes :
+
+" Art. L. 1211-9.-La liste des produits du corps humain mentionnés à l'article
+L. 1211-8 est déterminée par décret en Conseil d'Etat. "

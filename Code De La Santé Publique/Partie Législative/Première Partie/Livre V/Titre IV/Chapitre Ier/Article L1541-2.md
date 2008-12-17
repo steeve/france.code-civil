@@ -1,20 +1,29 @@
 Article L1541-2
 ----
-I. - Les dispositions suivantes du chapitre préliminaire du titre Ier du livre
-Ier de la présente partie sont applicables en Nouvelle-Calédonie et en Polynésie
-française :
+I.-Pour leur application en Nouvelle-Calédonie et en Polynésie française :
 
-- la première phrase de l'article L. 1110-1 ;
+a) La deuxième phrase de l'article L. 1110-1 n'est pas applicable ;
 
-- les articles L. 1110-2 et L. 1110-3 ;
+b) La dernière phrase du quatrième alinéa de l'article L. 1110-4 n'est pas
+applicable ;
 
-- l'article L. 1110-4, à l'exception de la dernière phrase de l'alinéa 4 ;
+c) L'article L. 1110-4 est complété par deux alinéas ainsi rédigés :
 
-- les premier, troisième et quatrième alinéas de l'article L. 1110-5, à
-l'exception des mots : "ni des dispositions du titre II du livre Ier de la
-présente partie du présent code".
+Les personnes chargées d'exercer des missions de contrôle relevant des
+organismes sociaux en Nouvelle-Calédonie et en Polynésie française n'ont accès,
+dans le respect du secret médical, aux données de santé à caractère personnel
+que si elles sont strictement nécessaires à l'exercice de leur mission.
 
-II. - Pour son application dans ces deux collectivités, l'article L. 1110-4 est
+Les membres de l'inspection générale des affaires sociales titulaires d'un
+diplôme, certificat ou autre titre permettant l'exercice de la profession de
+médecin, n'ont accès, dans le respect du secret médical, aux données de santé à
+caractère personnel que si elles sont strictement nécessaires à l'exercice de
+leur mission.
+
+d) A l'article L. 1110-10, les mots : " par une équipe interdisciplinaire " ne
+sont pas applicables.
+
+II.-Pour son application dans ces deux collectivités, l'article L. 1110-4 est
 complété par les deux alinéas suivants :
 
 Les praticiens-conseils du service de contrôle médical et les personnes placées

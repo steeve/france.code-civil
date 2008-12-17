@@ -1,17 +1,19 @@
 Article L1543-4
 ----
-Comme il est dit à l'article 713-5 du code pénal ci-après reproduit :
+Les peines prévues à l'article L. 1543-3 sont portées au double :
 
-" L'article 226-27 est rédigé comme suit :
+1° Si les délits prévus audit article ont eu pour conséquence de rendre
+l'utilisation des produits dangereux pour la santé de l'homme ;
 
-Art. 226-27.-Le fait de rechercher l'identification d'une personne par ses
-empreintes génétiques à des fins médicales sans recueillir préalablement son
-consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros
-d'amende.
+2° Si le délit ou la tentative de délit prévus à l'article L. 1543-4 ont été
+commis :
 
-Les dispositions de l'alinéa précédent ne sont pas applicables :
+a) Soit à l'aide de poids, mesures et autres instruments faux ou inexacts ;
 
-1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+b) Soit à l'aide de manœuvres ou procédés tendant à fausser les opérations de
+l'analyse ou du dosage, du pesage ou du mesurage, ou tendant à modifier
+frauduleusement la composition, le poids ou le volume des produits, même avant
+ces opérations ;
 
-2° Ou lorsqu'à titre exceptionnel, dans l'intérêt de la personne et le respect
-de sa confiance, le consentement de celle-ci n'est pas recueilli. "
+c) Soit enfin à l'aide d'indications frauduleuses tendant à faire croire à une
+opération antérieure et exacte.

@@ -1,4 +1,4 @@
 Article L1526-1
 ----
-Les dispositions des articles L. 1141-1 à L. 1141-3 du livre Ier de la présente
-partie sont applicables dans le territoire des îles Wallis et Futuna.
+Les dispositions du chapitre Ier du titre IV du livre Ier de la présente partie
+sont applicables à Wallis-et-Futuna.

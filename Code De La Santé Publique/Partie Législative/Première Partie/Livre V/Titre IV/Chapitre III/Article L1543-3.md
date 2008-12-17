@@ -1,17 +1,29 @@
 Article L1543-3
 ----
-Comme il est dit à l'article 713-4 du code pénal ci-après reproduit :
+Est puni d'un emprisonnement de deux ans et d'une amende de 37 500 € le fait par
+une personne, qu'elle soit ou non partie au contrat, de tromper le contractant,
+par quelque moyen ou procédé que ce soit, même par l'intermédiaire d'un tiers :
 
-" L'article 226-25 est rédigé comme suit :
+1° Soit sur la nature, l'espèce, l'origine, les qualités substantielles, la
+composition ou la teneur en principes utiles du sang humain, de ses composants,
+ainsi que des produits labiles qui en sont dérivés ;
 
-Art. 226-25.-Le fait de procéder à l'étude des caractéristiques génétiques d'une
-personne à des fins médicales sans avoir préalablement recueilli son
-consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros
-d'amende.
+2° Soit sur la quantité du produit livré, soit sur son identité, notamment par
+la livraison d'un produit autre que celui qui a fait l'objet du contrat ;
 
-Les dispositions de l'alinéa précédent ne sont pas applicables :
+3° Soit sur l'aptitude à l'emploi, les risques inhérents à l'utilisation du
+produit, les contrôles effectués, les modes d'emploi ou les précautions à
+prendre.
 
-1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+La tentative des infractions prévues au présent article est punie des mêmes
+peines.
 
-2° Ou lorsqu'à titre exceptionnel, dans l'intérêt de la personne et le respect
-de sa confiance, le consentement de celle-ci n'est pas recueilli. "
+II.-Est puni des mêmes peines prévues aux mêmes articles le fait :
+
+1° De distribuer ou de délivrer à des fins thérapeutiques un produit sanguin
+labile ne figurant pas sur la liste prévue à l'article L. 1221-8, à moins qu'il
+ne soit destiné à des recherches biomédicales ;
+
+2° D'utiliser un produit sanguin labile en violation d'une disposition ou d'une
+décision édictée par l'Agence française de sécurité sanitaire des produits de
+santé en application de l'article L. 1221-10-1.

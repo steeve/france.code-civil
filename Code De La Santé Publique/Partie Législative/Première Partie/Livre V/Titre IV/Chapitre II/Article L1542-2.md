@@ -1,14 +1,6 @@
 Article L1542-2
 ----
-En Polynésie française, le représentant de l'Etat peut, par arrêté, suspendre ou
-interdire l'importation ou l'exportation d'un élément ou produit du corps
-humain.
-
-L'autorité exécutive de la Nouvelle-Calédonie peut suspendre ou interdire
-l'importation ou l'exportation d'un élément ou produit du corps humain.
-
-La transformation, la distribution ou la cession d'un élément ou produit du
-corps humain peuvent être suspendues ou interdites dans les conditions prévues
-par la réglementation en vigueur en Nouvelle-Calédonie et en Polynésie
-française. Aux mêmes conditions, leurs utilisations peuvent être suspendues,
-interdites ou restreintes.
+Le chapitre Ier du titre II du livre II de la présente partie est applicable en
+Nouvelle-Calédonie et en Polynésie française, à l'exception des articles L.
+1221-2, L. 1221-8-2 à L. 1221-10-2 et L. 1221-13, et sous réserve des
+adaptations prévues au présent chapitre.
