@@ -7,8 +7,8 @@ refus au mandataire judiciaire qui en informe immédiatement le représentant de
 salariés et le salarié concerné.
 
 Ce dernier peut saisir du litige le conseil de prud'hommes. Le mandataire
-judiciaire, le chef d'entreprise ou l'administrateur lorsqu'il a pour mission
-d'assurer l'administration sont mis en cause.
+judiciaire, le débiteur et l'administrateur lorsqu'il a une mission d'assistance
+sont mis en cause.
 
 Le salarié peut demander au représentant des salariés de l'assister ou de le
 représenter devant la juridiction prud'homale.

@@ -16,6 +16,4 @@ si les conditions suivantes sont réunies :
 2° Les termes de l'accord sont de nature à assurer la pérennité de l'activité de
 l'entreprise ;
 
-3° L'accord ne porte pas atteinte aux intérêts des créanciers non signataires,
-sans préjudice de l'application qui peut être faite des articles 1244-1 à 1244-3
-du code civil.
+3° L'accord ne porte pas atteinte aux intérêts des créanciers non signataires.

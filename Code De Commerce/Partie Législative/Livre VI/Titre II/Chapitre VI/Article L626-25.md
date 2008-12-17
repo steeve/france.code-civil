@@ -3,7 +3,8 @@ Article L626-25
 Le tribunal nomme, pour la durée fixée à l'article L. 626-12, l'administrateur
 ou le mandataire judiciaire en qualité de commissaire chargé de veiller à
 l'exécution du plan. Le tribunal peut, en cas de nécessité, nommer plusieurs
-commissaires.
+commissaires. Les dispositions de l'article L. 621-4-1 sont applicables au
+commissaire à l'exécution du plan.
 
 Les actions introduites avant le jugement qui arrête le plan et auxquelles
 l'administrateur ou le mandataire judiciaire est partie sont poursuivies par le
@@ -27,4 +28,6 @@ versées, un intérêt dont le taux est égal au taux de l'intérêt légal majo
 cinq points.
 
 Le commissaire à l'exécution du plan peut être remplacé par le tribunal, soit
-d'office, soit à la demande du ministère public.
+d'office, soit à la demande du ministère public. Lorsque le remplacement est
+demandé par le commissaire à l'exécution du plan, le président du tribunal
+statue par ordonnance.

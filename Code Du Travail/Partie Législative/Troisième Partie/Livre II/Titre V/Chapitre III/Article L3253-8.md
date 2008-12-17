@@ -17,7 +17,8 @@ redressement ou de cession ;
 c) Dans les quinze jours suivant le jugement de liquidation ;
 
 d) Pendant le maintien provisoire de l'activité autorisé par le jugement de
-liquidation judiciaire ;
+liquidation judiciaire et dans les quinze jours suivant la fin de ce maintien de
+l'activité ;
 
 3° Les créances résultant de la rupture du contrat de travail des salariés
 auxquels a été proposée la convention de reclassement personnalisé, sous réserve
@@ -37,7 +38,8 @@ c) Au cours du mois suivant le jugement de liquidation pour les représentants
 des salariés prévus par les articles L. 621-4 et L. 631-9 du code de commerce ;
 
 d) Pendant le maintien provisoire de l'activité autorisé par le jugement de
-liquidation.
+liquidation et au cours des quinze jours suivant la fin de ce maintien de
+l'activité.
 
 La garantie des sommes et créances mentionnées aux 1°, 2° et 4° inclut les
 cotisations et contributions sociales et salariales d'origine légale, ou

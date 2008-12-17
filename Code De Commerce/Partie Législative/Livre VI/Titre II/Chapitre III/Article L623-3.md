@@ -14,12 +14,10 @@ L'administrateur consulte et le mandataire judiciaire et entend toute personne
 susceptible de l'informer sur la situation et les perspectives de redressement
 de l'entreprise, les modalités de règlement du passif et conditions sociales de
 la poursuite de l'activité. Il en informe le débiteur et recueille ses
-observations et propositions.
+observations.
 
 Il informe de l'avancement de ses travaux le mandataire judiciaire ainsi que le
-comité d'entreprise ou, à défaut, les délégués du personnel. Il les consulte,
-ainsi que le débiteur, sur les mesures qu'il envisage de proposer au vu des
-informations et offres reçues.
+comité d'entreprise ou, à défaut, les délégués du personnel.
 
 Lorsque le débiteur exerce une profession libérale soumise à un statut
 législatif ou réglementaire ou dont le titre est protégé, l'administrateur

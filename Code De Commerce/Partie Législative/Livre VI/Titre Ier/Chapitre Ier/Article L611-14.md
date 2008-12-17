@@ -6,5 +6,6 @@ conditions de rémunération du mandataire ad hoc, du conciliateur et, le cas
 diligences nécessaires à l'accomplissement de sa mission. Sa rémunération est
 arrêtée par ordonnance du président du tribunal à l'issue de la mission.
 
-Les recours contre ces décisions sont portés devant le premier président de la
-cour d'appel dans un délai fixé par décret en Conseil d'Etat.
+Les recours contre la décision arrêtant la rémunération sont portés devant le
+premier président de la cour d'appel dans un délai fixé par décret en Conseil
+d'Etat.

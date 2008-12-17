@@ -1,10 +1,9 @@
 Article L622-6
 ----
-Dès l'ouverture de la procédure, il est dressé un inventaire et réalisé une
-prisée du patrimoine du débiteur ainsi que des garanties qui le grèvent. Cet
-inventaire, remis à l'administrateur et au mandataire judiciaire, est complété
-par le débiteur par la mention des biens qu'il détient susceptibles d'être
-revendiqués par un tiers.
+Dès l'ouverture de la procédure, il est dressé un inventaire du patrimoine du
+débiteur ainsi que des garanties qui le grèvent. Cet inventaire, remis à
+l'administrateur et au mandataire judiciaire, est complété par le débiteur par
+la mention des biens qu'il détient susceptibles d'être revendiqués par un tiers.
 
 Le débiteur remet à l'administrateur et au mandataire judiciaire la liste de ses
 créanciers, du montant de ses dettes et des principaux contrats en cours. Il les

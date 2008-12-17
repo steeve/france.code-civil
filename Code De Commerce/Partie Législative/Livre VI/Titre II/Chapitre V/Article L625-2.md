@@ -8,5 +8,4 @@ salariés peut s'adresser à l'administrateur et, le cas échéant, saisir le
 juge-commissaire. Il est tenu à l'obligation de discrétion mentionnée à
 l'article L. 432-7 du code du travail. Le temps passé à l'exercice de sa mission
 tel qu'il est fixé par le juge-commissaire est considéré de plein droit comme
-temps de travail et payé par l'employeur, l'administrateur ou le liquidateur,
-selon le cas, à l'échéance normale.
+temps de travail et payé à l'échéance normale.

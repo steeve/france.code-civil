@@ -2,8 +2,8 @@ Article L654-1
 ----
 Les dispositions de la présente section sont applicables :
 
-1° A tout commerçant, agriculteur, à toute personne immatriculée au répertoire
-des métiers et à toute personne physique exerçant une activité professionnelle
+1° A toute personne exerçant une activité commerciale ou artisanale, à tout
+agriculteur et à toute personne physique exerçant une activité professionnelle
 indépendante, y compris une profession libérale soumise à un statut législatif
 ou réglementaire ou dont le titre est protégé ;
 

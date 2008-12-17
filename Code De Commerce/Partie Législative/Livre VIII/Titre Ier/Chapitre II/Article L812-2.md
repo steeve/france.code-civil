@@ -1,14 +1,15 @@
 Article L812-2
 ----
-I. - Nul ne peut être désigné en justice pour exercer les fonctions de
-mandataire judiciaire s'il n'est inscrit sur la liste établie à cet effet par
-une commission nationale.
+I.-Nul ne peut être désigné en justice pour exercer les fonctions de mandataire
+judiciaire s'il n'est inscrit sur la liste établie à cet effet par une
+commission nationale.
 
-II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision
-spécialement motivée et après avis du procureur de la République, désigner comme
-mandataire judiciaire une personne physique justifiant d'une expérience ou d'une
-qualification particulière au regard de la nature de l'affaire et remplissant
-les conditions définies aux 1° à 4° de l'article L. 812-3.
+II.-Toutefois, le tribunal peut, après avis du procureur de la République,
+désigner comme mandataire judiciaire une personne physique justifiant d'une
+expérience ou d'une qualification particulière au regard de la nature de
+l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L.
+812-3. Il motive spécialement sa décision au regard de cette expérience ou de
+cette qualification particulière.
 
 Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq
 années précédentes, avoir perçu à quelque titre que ce soit, directement ou
@@ -34,6 +35,6 @@ conforment aux obligations énumérées à l'alinéa précédent et qu'elles ne 
 pas l'objet d'une interdiction d'exercice en application de l'avant-dernier
 alinéa de l'article L. 814-10.
 
-III. - Lorsque le tribunal nomme une personne morale, il désigne en son sein une
+III.-Lorsque le tribunal nomme une personne morale, il désigne en son sein une
 ou plusieurs personnes physiques pour la représenter dans l'accomplissement du
 mandat qui lui est confié.

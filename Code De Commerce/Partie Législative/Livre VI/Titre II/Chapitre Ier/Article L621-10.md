@@ -5,8 +5,8 @@ en font la demande. Lorsqu'il désigne plusieurs contrôleurs, il veille à ce
 qu'au moins l'un d'entre eux soit choisi parmi les créanciers titulaires de
 sûretés et qu'un autre soit choisi parmi les créanciers chirographaires.
 
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef
-d'entreprise ou des dirigeants de la personne morale, ni aucune personne
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du débiteur
+personne physique ou des dirigeants de la personne morale, ni aucune personne
 détenant directement ou indirectement tout ou partie du capital de la personne
 morale débitrice ou dont le capital est détenu en tout ou partie par cette même
 personne, ne peut être nommé contrôleur ou représentant d'une personne morale

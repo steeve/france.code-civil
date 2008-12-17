@@ -1,8 +1,8 @@
 Article L642-12
 ----
-Lorsque la cession porte sur des biens grevés d'un privilège spécial, d'un
-nantissement ou d'une hypothèque, une quote-part du prix est affectée par le
-tribunal à chacun de ces biens pour la répartition du prix et l'exercice du
+Lorsque la cession porte sur des biens grevés d'un privilège spécial, d'un gage,
+d'un nantissement ou d'une hypothèque, une quote-part du prix est affectée par
+le tribunal à chacun de ces biens pour la répartition du prix et l'exercice du
 droit de préférence.
 
 Le paiement du prix de cession fait obstacle à l'exercice à l'encontre du
@@ -21,3 +21,6 @@ transfert de la propriété ou, en cas de location-gérance, de la jouissance du
 bien sur lequel porte la garantie. Il peut être dérogé aux dispositions du
 présent alinéa par accord entre le cessionnaire et les créanciers titulaires des
 sûretés.
+
+Les dispositions du présent article n'affectent pas le droit de rétention acquis
+par un créancier sur des biens compris dans la cession.

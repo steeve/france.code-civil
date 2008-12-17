@@ -12,4 +12,7 @@ sur les délais et remises qui lui sont proposés. En cas de consultation par
 réception de la lettre du mandataire judiciaire, vaut acceptation. Ces
 dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du
 code du travail pour les sommes mentionnées au quatrième alinéa de l'article L.
-622-24, même si leurs créances ne sont pas encore déclarées.
+622-24, même si leurs créances ne sont pas encore déclarées. Elles le sont
+également aux créanciers mentionnés au premier alinéa de l'article L. 626-6
+lorsque la proposition qui leur est soumise porte exclusivement sur des délais
+de paiement.

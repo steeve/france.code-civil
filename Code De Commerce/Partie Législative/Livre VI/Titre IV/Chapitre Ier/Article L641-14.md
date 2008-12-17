@@ -15,6 +15,4 @@ Pour l'application de l'article L. 625-3 du présent code, les institutions
 mentionnées à l'article L. 143-11-4 du code du travail sont mises en cause par
 le liquidateur ou, à défaut, par les salariés requérants, dans les dix jours du
 jugement d'ouverture de la procédure de liquidation judiciaire ou du jugement la
-prononçant. De même, les instances en cours devant la juridiction prud'homale à
-la date du jugement d'ouverture sont poursuivies en présence de
-l'administrateur, lorsqu'il en a été désigné, ou celui-ci dûment appelé.
+prononçant.

@@ -3,11 +3,10 @@ Article L653-1
 I. - Lorsqu'une procédure de redressement judiciaire ou de liquidation
 judiciaire est ouverte, les dispositions du présent chapitre sont applicables :
 
-1° Aux personnes physiques exerçant la profession de commerçant, d'agriculteur
-ou immatriculées au répertoire des métiers et à toute autre personne physique
-exerçant une activité professionnelle indépendante y compris une profession
-libérale soumise à un statut législatif ou réglementaire ou dont le titre est
-protégé ;
+1° Aux personnes physiques exerçant une activité commerciale ou artisanale, aux
+agriculteurs et à toute autre personne physique exerçant une activité
+professionnelle indépendante y compris une profession libérale soumise à un
+statut législatif ou réglementaire ou dont le titre est protégé ;
 
 2° Aux personnes physiques, dirigeants de droit ou de fait de personnes morales
 ;

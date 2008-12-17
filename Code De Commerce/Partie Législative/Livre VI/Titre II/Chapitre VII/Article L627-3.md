@@ -1,11 +1,12 @@
 Article L627-3
 ----
 Pendant la période d'observation, le débiteur établit un projet de plan avec
-l'assistance éventuelle d'un expert nommé par le tribunal.
+l'assistance éventuelle d'un expert nommé par le tribunal. Il n'est pas dressé
+de bilan économique, social et environnemental.
 
 Le débiteur communique au mandataire judiciaire et au juge-commissaire les
 propositions de règlement du passif prévues à l'article L. 626-5 et procède aux
-informations et consultations prévues aux articles L. 623-3 et L. 626-8.
+informations, consultations et communications prévues à l'article L. 626-8.
 
 Pour l'application de l'article L. 626-3, l'assemblée générale extraordinaire ou
 l'assemblée des associés ainsi que, lorsque leur approbation est nécessaire, les

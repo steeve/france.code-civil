@@ -8,4 +8,4 @@ d'un chèque émis avant le jugement d'ouverture de la procédure.
 
 Si les créanciers recouvrent leur droit de poursuite individuelle, la mesure
 d'interdiction reprend effet, à compter de la délivrance du titre exécutoire
-visé au dernier alinéa de l'article L. 643-11.
+mentionné au V de l'article L. 643-11.

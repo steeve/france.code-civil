@@ -13,10 +13,10 @@ dans le délai d'un an à compter de :
 personne morale, le délai court à compter de la radiation consécutive à la
 publication de la clôture des opérations de liquidation ;
 
-2° La cessation de l'activité, s'il s'agit d'une personne immatriculée au
-répertoire des métiers, d'un agriculteur ou d'une personne physique exerçant une
-activité professionnelle indépendante, y compris une profession libérale soumise
-à un statut législatif ou réglementaire ou dont le titre est protégé ;
+2° La cessation de l'activité, s'il s'agit d'une personne exerçant une activité
+artisanale, d'un agriculteur ou d'une personne physique exerçant une activité
+professionnelle indépendante, y compris une profession libérale soumise à un
+statut législatif ou réglementaire ou dont le titre est protégé ;
 
 3° La publication de l'achèvement de la liquidation, s'il s'agit d'une personne
 morale non soumise à l'immatriculation.

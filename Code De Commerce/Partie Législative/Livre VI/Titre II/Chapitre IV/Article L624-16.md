@@ -1,8 +1,9 @@
 Article L624-16
 ----
-Peuvent être revendiquées, à condition qu'elles se retrouvent en nature, les
-marchandises consignées au débiteur, soit à titre de dépôt, soit pour être
-vendues pour le compte du propriétaire.
+Peuvent être revendiqués, à condition qu'ils se retrouvent en nature, les biens
+meubles remis à titre précaire au débiteur ou ceux transférés dans un patrimoine
+fiduciaire dont le débiteur conserve l'usage ou la jouissance en qualité de
+constituant.
 
 Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de
 l'ouverture de la procédure, les biens vendus avec une clause de réserve de

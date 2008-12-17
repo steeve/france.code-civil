@@ -7,11 +7,12 @@ déchéances, les interdictions et l'incapacité d'exercer une fonction publique
 élective cessent de plein droit au terme fixé, sans qu'il y ait lieu au prononcé
 d'un jugement.
 
-Le jugement de clôture pour extinction du passif, y compris après exécution de
-l'obligation aux dettes sociales prononcée à son encontre, rétablit le chef
-d'entreprise ou les dirigeants de la personne morale dans tous leurs droits. Il
-les dispense ou relève de toutes les déchéances, interdictions et incapacité
-d'exercer une fonction publique élective.
+Le jugement de clôture pour extinction du passif, y compris après exécution
+d'une condamnation prononcée à son encontre en application de l'article L.
+651-2, rétablit le débiteur personne physique ou les dirigeants de la personne
+morale dans tous leurs droits. Il les dispense ou relève de toutes les
+déchéances, interdictions et incapacité d'exercer une fonction publique
+élective.
 
 L'intéressé peut demander au tribunal de le relever, en tout ou partie, des
 déchéances et interdictions et de l'incapacité d'exercer une fonction publique

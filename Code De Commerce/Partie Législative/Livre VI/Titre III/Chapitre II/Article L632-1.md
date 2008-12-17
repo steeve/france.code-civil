@@ -28,11 +28,16 @@ constitués sur les biens du débiteur pour dettes antérieurement contractées 
 7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne
 soit antérieur à la date de cessation de paiement ;
 
-8° Toute autorisation, levée et revente d'options définies aux articles L.
-225-177 et suivants du présent code ;
+8° Toute autorisation et levée d'options définies aux articles L. 225-177 et
+suivants du présent code ;
 
-9° Tout transfert de biens ou de droits dans un patrimoine fiduciaire en
-application des articles 2011 et suivants du code civil.
+9° Tout transfert de biens ou de droits dans un patrimoine fiduciaire, à moins
+que ce transfert ne soit intervenu à titre de garantie d'une dette
+concomitamment contractée ;
+
+10° Tout avenant à un contrat de fiducie affectant des droits ou biens déjà
+transférés dans un patrimoine fiduciaire à la garantie de dettes contractées
+antérieurement à cet avenant.
 
 II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1°
 du I faits dans les six mois précédant la date de cessation des paiements.

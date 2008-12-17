@@ -9,7 +9,7 @@ maintien de l'emploi.
 
 Le conciliateur peut, dans ce but, obtenir du débiteur tout renseignement utile.
 Le président du tribunal communique au conciliateur les renseignements dont il
-dispose et, le cas échéant, les résultats de l'expertise mentionnée au deuxième
+dispose et, le cas échéant, les résultats de l'expertise mentionnée au cinquième
 alinéa de l'article L. 611-6.
 
 Les administrations financières, les organismes de sécurité sociale, les
@@ -23,10 +23,10 @@ dans les mêmes conditions.
 Le conciliateur rend compte au président du tribunal de l'état d'avancement de
 sa mission et formule toutes observations utiles sur les diligences du débiteur.
 
-Si, au cours de la procédure, le débiteur est poursuivi par un créancier, le
-juge qui a ouvert cette procédure peut, à la demande du débiteur et après avoir
-été éclairé par le conciliateur, faire application des articles 1244-1 à 1244-3
-du code civil.
+Si, au cours de la procédure, le débiteur est mis en demeure ou poursuivi par un
+créancier, le juge qui a ouvert cette procédure peut, à la demande du débiteur
+et après avoir été éclairé par le conciliateur, faire application des articles
+1244-1 à 1244-3 du code civil.
 
 En cas d'impossibilité de parvenir à un accord, le conciliateur présente sans
 délai un rapport au président du tribunal. Celui-ci met fin à sa mission et à la

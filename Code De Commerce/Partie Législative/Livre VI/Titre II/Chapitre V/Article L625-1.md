@@ -14,5 +14,5 @@ mois à compter de l'accomplissement de la mesure de publicité mentionnée à
 l'alinéa précédent. Il peut demander au représentant des salariés de l'assister
 ou de le représenter devant la juridiction prud'homale.
 
-Le débiteur ou l'administrateur lorsqu'il a pour mission d'assurer
-l'administration est mis en cause.
+Le débiteur et l'administrateur lorsqu'il a une mission d'assistance sont mis en
+cause.

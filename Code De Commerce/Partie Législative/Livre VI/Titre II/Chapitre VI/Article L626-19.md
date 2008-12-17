@@ -5,4 +5,4 @@ des délais uniformes plus brefs mais assorti d'une réduction proportionnelle d
 montant de la créance.
 
 La réduction de créance n'est définitivement acquise qu'après versement, au
-terme fixé, de la dernière échéance prévue par le plan.
+terme fixé, de la dernière échéance prévue par le plan pour son paiement.

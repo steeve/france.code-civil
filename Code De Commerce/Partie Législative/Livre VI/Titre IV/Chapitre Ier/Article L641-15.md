@@ -9,9 +9,9 @@ Toutefois, une convocation devant une juridiction, une notification de décision
 ou tout autre courrier ayant un caractère personnel doit être immédiatement
 remis ou restitué au débiteur.
 
-Le juge-commissaire peut autoriser l'accès du liquidateur au courrier
-électronique reçu par le débiteur dans des conditions déterminées par décret en
-Conseil d'Etat.
+Le juge-commissaire peut autoriser l'accès du liquidateur et de
+l'administrateur, lorsqu'il en a été désigné, au courrier électronique reçu par
+le débiteur dans des conditions déterminées par décret en Conseil d'Etat.
 
 Lorsque le débiteur exerce une activité pour laquelle il est soumis au secret
 professionnel, les dispositions du présent article ne sont pas applicables.

@@ -6,7 +6,7 @@ inclusivement de ces dirigeants ou du débiteur personne physique, ni les
 personnes ayant ou ayant eu la qualité de contrôleur au cours de la procédure ne
 sont admis, directement ou par personne interposée, à présenter une offre. De
 même, il est fait interdiction à ces personnes d'acquérir, dans les cinq années
-suivant la cession, tout ou partie des biens dépendant de la liquidation,
+suivant la cession, tout ou partie des biens compris dans cette cession,
 directement ou indirectement, ainsi que d'acquérir des parts ou titres de
 capital de toute société ayant dans son patrimoine, directement ou
 indirectement, tout ou partie de ces biens, ainsi que des valeurs mobilières

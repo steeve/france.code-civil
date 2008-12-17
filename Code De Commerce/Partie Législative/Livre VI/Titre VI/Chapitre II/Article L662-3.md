@@ -9,6 +9,7 @@ lieu ou se poursuivront en chambre du conseil s'il survient des désordres de
 nature à troubler la sérénité de la justice.
 
 Par dérogation aux dispositions du premier alinéa, les débats relatifs aux
-mesures prises en application des chapitres Ier, II et III du titre V ont lieu
-en audience publique. Le président du tribunal peut décider qu'ils ont lieu en
-chambre du conseil si le débiteur le demande avant leur ouverture.
+mesures prises en application des chapitres Ier et III du titre V ont lieu en
+audience publique. Le président du tribunal peut décider qu'ils ont lieu en
+chambre du conseil si l'une des personnes mises en cause le demande avant leur
+ouverture.

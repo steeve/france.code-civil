@@ -8,6 +8,13 @@ volontaire du débiteur lors de l'établissement de la liste prévue au deuxièm
 alinéa de l'article L. 622-6. Ils ne peuvent alors concourir que pour les
 distributions postérieures à leur demande.
 
+Les créances non déclarées régulièrement dans ces délais sont inopposables au
+débiteur pendant l'exécution du plan et après cette exécution lorsque les
+engagements énoncés dans le plan ou décidés par le tribunal ont été tenus.
+Pendant l'exécution du plan, ell es sont également inopposables aux personnes
+physiques coobligées ou ayant consenti une sûreté personnelle ou ayant affecté
+ou cédé un bien en garantie.
+
 L'action en relevé de forclusion ne peut être exercée que dans le délai de six
 mois. Ce délai court à compter de la publication du jugement d'ouverture ou,
 pour les institutions mentionnées à l'article L. 143-11-4 du code du travail, de

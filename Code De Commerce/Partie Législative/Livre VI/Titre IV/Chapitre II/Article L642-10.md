@@ -1,10 +1,15 @@
 Article L642-10
 ----
-Le tribunal peut assortir le plan de cession d'une clause rendant inaliénable,
-pour une durée qu'il fixe, tout ou partie des biens cédés.
+Le tribunal peut prévoir dans le jugement arrêtant le plan de cession que tout
+ou partie des biens cédés ne pourront être aliénés, pour une durée qu'il fixe,
+sans son autorisation.
 
-La publicité de cette clause est assurée dans des conditions fixées par un
-décret en Conseil d'Etat.
+La publicité de l'inaliénabilité temporaire est assurée dans des conditions
+fixées par un décret en Conseil d'Etat.
+
+Lorsque le tribunal est saisi d'une demande d'autorisation d'aliéner un bien
+rendu inaliénable en application du premier alinéa, il statue, à peine de
+nullité, après avoir recueilli l'avis du ministère public.
 
 Tout acte passé en violation des dispositions du premier alinéa est annulé à la
 demande de tout intéressé ou du ministère public, présentée dans le délai de

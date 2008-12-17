@@ -15,6 +15,9 @@ fixé par décret en Conseil d'Etat.
 
 Le jugement qui arrête le plan en rend les dispositions applicables à tous.
 
+Les droits de préemption institués par le code rural ou le code de l'urbanisme
+ne peuvent s'exercer sur un bien compris dans ce plan.
+
 Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être
 arrêté par le tribunal qu'après que le comité d'entreprise ou, à défaut, les
 délégués du personnel ont été consultés dans les conditions prévues à l'article
@@ -25,3 +28,8 @@ le jugement. Dans ce délai, ces licenciements interviennent sur simple
 notification du liquidateur, ou de l'administrateur lorsqu'il en a été désigné,
 sous réserve des droits de préavis prévus par la loi, les conventions ou les
 accords collectifs du travail.
+
+Lorsque le licenciement concerne un salarié bénéficiant d'une protection
+particulière en matière de licenciement, ce délai d'un mois après le jugement
+est celui dans lequel l'intention de rompre le contrat de travail doit être
+manifestée.

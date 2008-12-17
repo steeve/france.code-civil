@@ -8,12 +8,12 @@ un rapport sur les conventions passées directement ou par personne interposée
 entre la personne morale et l'un de ses administrateurs ou l'une des personnes
 assurant un rôle de mandataire social.
 
-Il est de même des conventions passées entre cette personne morale et une
-société dont un associé indéfiniment responsable, un gérant, un administrateur,
-le directeur général, un directeur général délégué, un membre du directoire ou
-du conseil de surveillance, un actionnaire disposant d'une fraction des droits
-de vote supérieure à 10 % est simultanément administrateur ou assure un rôle de
-mandataire social de ladite personne morale.
+Il est de même des conventions passées entre cette personne morale et une autre
+personne morale dont un associé indéfiniment responsable, un gérant, un
+administrateur, le directeur général, un directeur général délégué, un membre du
+directoire ou du conseil de surveillance, un actionnaire disposant d'une
+fraction des droits de vote supérieure à 10 % est simultanément administrateur
+ou assure un rôle de mandataire social de ladite personne morale.
 
 L'organe délibérant statue sur ce rapport.
 

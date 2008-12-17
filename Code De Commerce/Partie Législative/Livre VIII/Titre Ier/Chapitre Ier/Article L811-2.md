@@ -7,11 +7,12 @@ peuvent être confiées aux membres des professions judiciaires et juridiques en
 matière civile, s'il n'est inscrit sur la liste établie par une commission
 nationale instituée à cet effet.
 
-Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement
-motivée et après avis du procureur de la République, désigner comme
-administrateur judiciaire une personne physique justifiant d'une expérience ou
-d'une qualification particulière au regard de la nature de l'affaire et
-remplissant les conditions définies aux 1° à 4° de l'article L. 811-5.
+Toutefois, le tribunal peut, après avis du procureur de la République, désigner
+comme administrateur judiciaire une personne physique justifiant d'une
+expérience ou d'une qualification particulière au regard de la nature de
+l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L.
+811-5. Il motive spécialement sa décision au regard de cette expérience ou de
+cette qualification particulière.
 
 Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq
 années précédentes, avoir perçu à quelque titre que ce soit, directement ou

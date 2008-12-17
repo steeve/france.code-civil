@@ -28,5 +28,5 @@ l'exploitation, il informe de ses démarches le président du tribunal et lui en
 communique les résultats.
 
 Les dispositions du présent article ne sont pas applicables lorsqu'une procédure
-de conciliation ou de sauvegarde a été engagée par les dirigeants en application
+de conciliation ou de sauvegarde a été engagée par le débiteur en application
 des articles L. 611-6 et L. 620-1.

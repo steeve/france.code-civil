@@ -20,8 +20,6 @@ applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le
 tribunal tient compte des dispositions des 1° à 4° et 6° à 9° de l'article L.
 331-3 du code rural.
 
-Lorsque le débiteur, personne physique, exerce une profession libérale soumise à
-un statut législatif ou réglementaire ou dont le titre est protégé, la cession
-ne peut porter que sur des éléments corporels. Toutefois, lorsqu'il s'agit d'un
-officier public ou ministériel, le liquidateur peut exercer le droit du débiteur
-de présenter son successeur au garde des sceaux, ministre de la justice.
+Lorsque le débiteur est un officier public ou ministériel, le liquidateur peut
+exercer le droit du débiteur de présenter son successeur au garde des sceaux,
+ministre de la justice.
