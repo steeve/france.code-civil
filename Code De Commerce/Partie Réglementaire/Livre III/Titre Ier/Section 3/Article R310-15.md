@@ -1,14 +1,18 @@
 Article R310-15
 ----
-Pour fixer les périodes au cours desquelles ont lieu des soldes, l'autorité
-administrative compétente en vertu du deuxième alinéa de l'article L. 310-3 est
-le préfet du département où les ventes sont réalisées.
+La déclaration préalable mentionnée au troisième alinéa de l'article L. 310-3
+est faite par établissement.
 
-L'arrêté préfectoral fixant ou modifiant les deux périodes de soldes par année
-civile prévues au I de l'article L. 310-3 est pris après consultation des
-organisations professionnelles concernées représentées dans le département, des
-chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat
-du département, ainsi que des associations de consommateurs du département
-agréées, au titre de l'article L. 411-1 du code de la consommation, soit par
-arrêté du préfet de département, soit par leur affiliation à une association
-nationale elle-même agréée. Ces consultations sont renouvelées chaque année.
+Elle est adressée par le commerçant au préfet du département, par lettre
+recommandée avec demande d'avis de réception, un mois au moins avant la date
+prévue pour le début de la vente ; ce délai commence à courir à compter de la
+date de son envoi.
+
+La transmission de cette déclaration peut être effectuée par voie électronique.
+Dans ce cas, la déclaration donne lieu à la délivrance d'un avis de réception
+électronique. Le préfet veille à ce que cette transmission soit assurée de
+manière sécurisée, conformément à l'article 1316-1 du code civil.
+
+Un arrêté du ministre chargé du commerce fixe la liste des informations
+contenues dans la déclaration et les modalités de la déclaration par voie
+électronique.
