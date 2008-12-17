@@ -1,7 +1,10 @@
 Article D251-1
 ----
-Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce toutes les
-attributions des inspecteurs d'académie des départements métropolitains.
+Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce les
+attributions dévolues aux inspecteurs d'académie, directeurs des services
+départementaux de l'éducation nationale.
 
-En outre, lui sont déléguées les compétences conférées en métropole aux recteurs
-en ce qui concerne les matières définies au présent chapitre.
+Les fonctions de chef du service de l'éducation de Saint-Pierre-et-Miquelon sont
+assurées par un fonctionnaire titulaire de catégorie A nommé par arrêté conjoint
+du ministre chargé de l'éducation nationale et du ministre chargé de
+l'outre-mer.
