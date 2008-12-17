@@ -3,7 +3,7 @@ Article R322-1-1
 En application du cinquième alinéa de l'article L. 162-5-3, la participation de
 l'assuré ou de l'ayant droit peut être majorée, pour les actes et consultations
 réalisés par des médecins, par l'Union nationale des caisses d'assurance
-maladie, de 17,5 % à 22,5 % du tarif servant de base au calcul des prestations
+maladie, de 37,5 % à 42,5 % du tarif servant de base au calcul des prestations
 en nature de l'assurance maladie.
 
 Les assurés et leurs ayants droit dont la participation est réduite ou supprimée
