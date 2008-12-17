@@ -18,9 +18,9 @@ La date de prélèvement peut être modifiée une fois par année civile, et la
 demande prend effet au plus tard le deuxième mois suivant celui de sa réception.
 
 II.-Les cotisations et contributions sociales provisionnelles ainsi que les
-cotisations définitives prévues aux articles L. 635-1 et L. 635-5 sont prélevées
-du mois de janvier au mois d'octobre. Chaque prélèvement est égal à un dixième
-des cotisations définitives dues l'année précédente et calculées sur le revenu
+cotisations définitives prévues à l'article L. 635-5 sont prélevées du mois de
+janvier au mois d'octobre. Chaque prélèvement est égal à un dixième des
+cotisations définitives dues l'année précédente et calculées sur le revenu
 professionnel de l'avant-dernière année.
 
 Le complément de cotisations et contributions sociales résultant de la
@@ -34,7 +34,13 @@ seuil de recouvrement fixé en application du premier alinéa de l'article L.
 Lorsque la régularisation fait apparaître un trop-versé, celui-ci est remboursé
 à l'intéressé au plus tard le 30 novembre.
 
-III.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
+III.-Par exception aux dispositions du II du présent article, les cotisations et
+contributions sociales dues, à titre définitif, par les travailleurs
+indépendants exerçant leur activité dans les départements mentionnés à l'article
+L. 751-1 ou dans les collectivités de Saint-Barthélemy ou de Saint-Martin sont
+prélevées en douze fractions égales.
+
+IV.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
 somme est recouvrée avec le prélèvement mensuel suivant.
 
 Il est appliqué aux cotisations et contributions sociales qui ne sont pas

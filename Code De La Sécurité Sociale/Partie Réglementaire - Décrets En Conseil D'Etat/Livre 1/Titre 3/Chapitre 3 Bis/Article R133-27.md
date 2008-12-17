@@ -5,9 +5,8 @@ indépendant peut demander à acquitter les cotisations et contributions sociale
 provisionnelles ou les cotisations définitives mentionnées au premier alinéa de
 l'article L. 756-5, pour les départements mentionnés à l'article L. 751-1 et
 pour les collectivités de Saint-Barthélemy et de Saint-Martin, ainsi que les
-cotisations définitives prévues aux articles L. 635-1 et L. 635-5 par versements
-trimestriels d'un montant égal, exigibles le 5 février, le 5 mai, le 5 août et
-le 5 novembre.
+cotisations définitives prévues à l'article L. 635-5 par versements trimestriels
+d'un montant égal, exigibles le 5 février, le 5 mai, le 5 août et le 5 novembre.
 
 L'option pour le paiement trimestriel est exercée avant le 1er novembre pour
 prendre effet le 1er janvier de l'année suivante. Toutefois, en cas de début
@@ -27,12 +26,12 @@ mois suivant celui au cours duquel les éléments mentionnés au deuxième alin�
 I de l'article R. 133-26 sont réceptionnés.
 
 Les cotisations et contributions sociales provisionnelles ainsi que les
-cotisations définitives prévues aux articles L. 635-1 et L. 635-5 restant dues
-pour l'année en cours sont prélevées en autant de mensualités, d'un montant
-égal, qu'il reste de mois civils entre la date d'effet du renoncement et le 1er
-novembre de l'année considérée. Le cas échéant, le solde de cotisations
-provisionnelles et le complément résultant de la régularisation des cotisations
-et contributions sociales de l'année précédente sont prélevés :
+cotisations définitives prévues à l'article L. 635-5 restant dues pour l'année
+en cours sont prélevées en autant de mensualités, d'un montant égal, qu'il reste
+de mois civils entre la date d'effet du renoncement et le 1er novembre de
+l'année considérée. Le cas échéant, le solde de cotisations provisionnelles et
+le complément résultant de la régularisation des cotisations et contributions
+sociales de l'année précédente sont prélevés :
 
 1° Dans les conditions prévues au II de l'article R. 133-26 si la demande de
 renoncement est reçue avant le 31 août ;
