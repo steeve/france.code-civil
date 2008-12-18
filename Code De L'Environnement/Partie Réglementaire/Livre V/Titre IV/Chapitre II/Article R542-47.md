@@ -1,5 +1,5 @@
 Article R542-47
 ----
-Le détenteur informe sans délai le ministre chargé de l'énergie de tout incident
-ne permettant pas le transfert des déchets radioactifs dans les conditions
-prévues.
+Lorsque le ministre chargé de l'énergie reçoit la copie de l'accusé de réception
+du transfert que lui a transmise l'autorité compétente de l'Etat de destination,
+il en adresse une copie au détenteur d'origine.

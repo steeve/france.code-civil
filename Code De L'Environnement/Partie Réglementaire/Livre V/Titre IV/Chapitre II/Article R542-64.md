@@ -1,11 +1,16 @@
 Article R542-64
 ----
-Lorsqu'une source scellée est réexportée par son utilisateur au fournisseur de
-ladite source dans un autre pays, ou lorsqu'une source scellée est renvoyée en
-France par son utilisateur au fournisseur de ladite source, son transfert, régi
-par le décret mentionné à l'article L. 1333-17 du code de la santé publique, ne
-relève pas du champ d'application de la présente section.
+Lorsque le ministre chargé de l'énergie a donné son consentement à l'exportation
+de déchets radioactifs ou de combustible nucléaire usé ou à un transfert
+impliquant un transit sur le territoire national de déchets radioactifs ou de
+combustible nucléaire usé, il est réputé avoir donné son consentement au retour
+de ces matières :
 
-Toutefois, cette exemption ne s'applique pas aux sources scellées contenant des
-matières fissiles, en quantités supérieures à celles mentionnées à l'article R.
-1333-8 du code de la défense.
+a) Lorsque le consentement initial concernait le transfert de matières aux fins
+du traitement, pour autant que le retour concerne des déchets radioactifs ou
+d'autres produits équivalents aux matières initiales après traitement, et que
+l'opération respecte toutes les dispositions applicables ;
+
+b) Dans le cas prévu à l'article R. 542-65, si le retour est effectué dans les
+mêmes conditions et avec les mêmes spécifications, après accomplissement des
+formalités exigées.

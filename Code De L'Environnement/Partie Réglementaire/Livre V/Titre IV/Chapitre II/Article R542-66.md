@@ -1,4 +1,6 @@
 Article R542-66
 ----
-Pour l'application aux déchets radioactifs des dispositions de l'article L.
-541-41, l'autorité compétente est le ministre chargé de l'énergie.
+Les dispositions des articles L. 541-41 et L. 541-42 s'appliquent aux transferts
+de déchets radioactifs ou de combustible nucléaire usé effectués en
+méconnaissance des règles prévues par la présente section, l'autorité compétente
+étant le ministre chargé de l'énergie.

@@ -1,17 +1,12 @@
 Article R542-35
 ----
-On entend par :
+Pour l'application de la présente section, est regardée comme le détenteur de
+déchets radioactifs ou de combustible nucléaire usé la personne qui, avant
+d'effectuer le transfert de ces matières, en est responsable en vertu du droit
+national applicable à ces matières et qui décide leur transfert à un
+destinataire.
 
-1° " Déchets radioactifs " : toute matière pour laquelle aucune utilisation
-n'est prévue par son expéditeur ou son destinataire, contenant des substances
-radioactives dont l'activité totale et l'activité massique dépassent les valeurs
-indiquées au tableau A de l'annexe 13-8 du chapitre III du titre III du livre
-III de la première partie du code de la santé publique ;
-
-2° " Source scellée " : une source de rayonnement définie à l'annexe 13-7 du
-chapitre III du titre III du livre III de la première partie du code de la santé
-publique, définition ci-après reproduite :
-
-" Source radioactive scellée " : une source dont la structure ou le
-conditionnement empêche, en utilisation normale, toute dispersion radioactive
-dans le milieu ambiant.
+Lorsque le détenteur n'est pas ressortissant d'un Etat membre de la Communauté
+européenne, il est tenu de désigner une personne responsable de la conduite des
+opérations qui, agissant au nom et pour le compte du détenteur, le représente
+sur le territoire de la Communauté européenne.
