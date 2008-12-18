@@ -1,7 +1,7 @@
 Article R641-1
 ----
 La Caisse nationale d'assurance vieillesse des professions libérales comprend
-onze sections professionnelles :
+dix sections professionnelles :
 
 1° La section professionnelle des notaires ;
 
@@ -15,11 +15,11 @@ commerce, les arbitres près le tribunal de commerce ;
 
 3° La section professionnelle des médecins ;
 
-4° La section professionnelle des chirurgiens-dentistes ;
+4° La section professionnelle des chirurgiens-dentistes et des sages-femmes ;
 
 5° La section professionnelle des pharmaciens ;
 
-6° La section professionnelle des sages-femmes ;
+6° (Supprimé) ;
 
 7° La section professionnelle des auxiliaires médicaux ;
 
