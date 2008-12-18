@@ -11,8 +11,7 @@ b) Brucellose ;
 
 c) Charbon ;
 
-c) 1. Chikungunya, dans les départements figurant sur une liste fixée par arrêté
-du ministre chargé de la santé ;
+c) 1. Chikungunya ;
 
 d) Choléra ;
 
@@ -62,4 +61,4 @@ x) Typhus exanthématique ;
 
 2° Autre maladie :
 
-- saturnisme chez les enfants mineurs.
+-saturnisme chez les enfants mineurs.
