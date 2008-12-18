@@ -33,9 +33,9 @@ du conseil des communes et régions d'Europe ou son représentant.
 
 3° Les représentants de l'Etat sont :
 
-a) Trois représentants du ministre des affaires étrangères ;
+a) Deux représentants du ministre des affaires étrangères ;
 
-b) Trois représentants du ministre de l'intérieur ;
+b) Deux représentants du ministre de l'intérieur ;
 
 c) Un représentant du ministre chargé de la coopération ;
 
@@ -51,4 +51,8 @@ h) Un représentant du ministre chargé de l'outre-mer ;
 
 i) Un représentant du ministre chargé de la recherche ;
 
-j) Un représentant du ministre chargé de l'agriculture.
+j) Un représentant du ministre chargé de l'agriculture ;
+
+k) Un représentant du ministre chargé du développement durable ;
+
+l) Un représentant du ministre chargé de l'immigration.
