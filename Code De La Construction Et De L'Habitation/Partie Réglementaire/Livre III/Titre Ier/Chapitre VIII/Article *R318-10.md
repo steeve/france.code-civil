@@ -11,14 +11,17 @@ déterminé en fonction du nombre de personnes destinées à occuper le logement
 la localisation du logement selon le zonage mentionné à l'article R. 318-4 et du
 caractère neuf ou ancien du logement. Le montant maximum susmentionné est fixé
 par décret en fonction de la composition du ménage, de la localisation du
-logement et du caractère neuf ou ancien du logement.
+logement et du caractère neuf ou ancien du logement. Ce taux est porté à 30 %
+pour les logements neufs.
 
-Ce taux est porté à 30 % dans les zones urbaines sensibles et dans les zones
-franches urbaines mentionnées à l'article 42 de la loi n° 95-115 du 4 février
-1995 d'orientation pour l'aménagement et le développement du territoire ;
+Dans les zones urbaines sensibles et dans les zones franches urbaines
+mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
+pour l'aménagement et le développement du territoire, ces taux sont portés à 40
+% pour les logements neufs et à 30 % pour les autres logements.
 
 b) 50 % du montant du ou des autres prêts, d'une durée supérieure à deux ans,
-concourant au financement de l'opération ;
+concourant au financement de l'opération. Ce taux est porté à 100 % pour les
+logements neufs ;
 
 2° Lorsque l'emprunteur est éligible à la majoration mentionnée au seizième
 alinéa du I de l'article 244 quater J du code général des impôts, le montant de
