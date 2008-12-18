@@ -9,11 +9,4 @@ sécurité sociale, du garde des sceaux, ministre de la justice, et du ministre
 chargé du budget.
 
 La cotisation est assise sur le volume total des salaires bruts des détenus
-occupés par l'établissement pénitentiaire calculé au dernier jour du trimestre
-civil.
-
-Elle fait l'objet d'un versement unique par le chef de cet établissement, à
-l'union pour le recouvrement des cotisations de sécurité sociale et
-d'allocations familiales dans la circonscription de laquelle se trouve
-l'établissement, dans les quinze premiers jours de chaque trimestre pour le
-trimestre écoulé.
+occupés par l'établissement pénitentiaire.
