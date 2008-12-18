@@ -1,8 +1,6 @@
 Article D239-18
 ----
-Des experts peuvent être invités à siéger dans les comités de travail de la
-commission.
-
-La commission peut demander, notamment aux régions, aux départements et autres
-collectivités territoriales d'outre-mer et aux organismes publics de
-radiodiffusion et télévision, de désigner des correspondants.
+Les membres de la commission sont nommés pour une durée de quatre ans. Le mandat
+des personnalités désignées en raison de leurs compétences en matière
+d'éducation, de science, de culture et de communication sur proposition de la
+commission prend fin en même temps que celui des autres membres.

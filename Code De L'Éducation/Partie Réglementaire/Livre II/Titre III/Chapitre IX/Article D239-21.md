@@ -1,4 +1,5 @@
 Article D239-21
 ----
-Les comités spécialisés ou régionaux font rapport à la commission nationale ou,
-dans l'intervalle de ses sessions, au comité permanent.
+Le secrétariat de la commission est assuré par l'Association pour l'éducation,
+la science et la culture, dont les statuts ont été légalement déposés le 16 mai
+1947 et révisés le 23 avril 2001.

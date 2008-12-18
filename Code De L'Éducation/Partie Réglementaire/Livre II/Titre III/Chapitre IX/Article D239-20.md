@@ -1,17 +1,11 @@
 Article D239-20
 ----
-La commission peut former des comités spécialisés et des comités régionaux.
+Le secrétaire général de la commission est nommé, après consultation du
+président de la commission, par arrêté du Premier ministre pour une durée de
+trois ans renouvelable une fois.
 
-Font partie des comités spécialisés :
+Le secrétaire général est chargé notamment des questions administratives et
+financières et dirige les travaux du secrétariat prévu à l'article 8.
 
-1° Les membres de la commission nationale ;
-
-2° Les experts désignés par la commission nationale.
-
-Font partie des comités régionaux :
-
-1° Les membres de la commission nationale ;
-
-2° Les experts ;
-
-3° Les correspondants qui résident dans la région considérée.
+Il participe à ce titre aux travaux et aux réunions de la commission sans voix
+délibérative.

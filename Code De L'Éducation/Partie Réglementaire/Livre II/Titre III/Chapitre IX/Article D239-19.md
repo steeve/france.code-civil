@@ -1,8 +1,4 @@
 Article D239-19
 ----
-La Commission nationale pour l'éducation, la science et la culture se réunit en
-séance plénière au moins une fois par an sur convocation de son président.
-
-Dans l'intervalle de ces séances, un comité permanent, dont la commission fixe
-elle-même la composition et les attributions, se réunit au moins une fois par
-trimestre pour statuer sur les questions inscrites à son ordre du jour.
+Le président de la commission est nommé, sur proposition de la commission, par
+arrêté du Premier ministre, pour une durée de quatre ans.
