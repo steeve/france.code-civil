@@ -7,7 +7,9 @@ législatifs et réglementaires et celle des délibérations exécutoires du con
 d'administration.
 
 Il représente l'établissement en justice et dans tous les actes de la vie civile
-et peut former pourvoi devant toutes les juridictions.
+et peut former pourvoi devant toutes les juridictions. Il conclut les
+transactions et en rend compte au conseil d'administration à sa plus prochaine
+séance.
 
 Il est ordonnateur des dépenses et des recettes de l'établissement dans les
 conditions prévues par les décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587

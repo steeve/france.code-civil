@@ -29,7 +29,7 @@ représentant ;
 7° Deux membres désignés par le ministre chargé du budget.
 
 Les représentants de l'Etat autres que les membres de droit sont désignés pour
-trois ans *durée du mandat*. Leur mandat est renouvelable.
+trois ans. Leur mandat est renouvelable.
 
 Les représentants des affiliés à la caisse sont :
 
@@ -55,7 +55,10 @@ médicaux ;
 
 2° Un représentant du Conseil supérieur de la fonction militaire désigné, pour
 la durée de son mandat, par le ministre de la défense sur proposition du Conseil
-supérieur de la fonction militaire.
+supérieur de la fonction militaire ;
+
+3° Un représentant du personnel de la caisse élu dans des conditions fixées par
+arrêté conjoint des ministres chargés de la défense et de la sécurité sociale.
 
 Leurs mandats sont renouvelables.
 
