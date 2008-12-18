@@ -1,6 +1,6 @@
 Article 11
 ----
-Les marchés et accords-cadres d'un montant égal ou supérieur à 4 000 euros HT
+Les marchés et accords-cadres d'un montant égal ou supérieur à 20 000 euros HT
 sont passés sous forme écrite.
 
 Pour les marchés passés selon les procédures formalisées, l'acte d'engagement

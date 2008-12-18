@@ -2,12 +2,12 @@ Article 150
 ----
 I.-En dehors des exceptions prévues au quatrième alinéa de l'article 146 ainsi
 qu'au II de l'article 144, tout marché ou accord-cadre d'un montant égal ou
-supérieur à 4 000 euros HT est précédé d'une publicité dans les conditions
+supérieur à 20 000 euros HT est précédé d'une publicité dans les conditions
 définies ci-après.
 
 II.-Pour les achats de fournitures, de services et de travaux d'un montant
-compris entre 4 000 euros HT et 90 000 euros HT, ainsi que pour les achats de
-services relevant du I de l'article 148 d'un montant égal ou supérieur à 4 000
+compris entre 20 000 euros HT et 90 000 euros HT, ainsi que pour les achats de
+services relevant du I de l'article 148 d'un montant égal ou supérieur à 20 000
 Euros HT, l'entité adjudicatrice choisit librement les modalités de publicité
 adaptées en fonction des caractéristiques du marché, notamment le montant et la
 nature des travaux, des fournitures ou des services en cause.

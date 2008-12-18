@@ -24,5 +24,5 @@ procédures formalisées par les articles 45, 46 et 48.
 
 Le pouvoir adjudicateur peut décider que le marché sera passé sans publicité ni
 mise en concurrence préalables si les circonstances le justifient, ou si son
-montant estimé est inférieur à 4 000 Euros HT, ou dans les situations décrites
+montant estimé est inférieur à 20 000 Euros HT, ou dans les situations décrites
 au II de l'article 35.

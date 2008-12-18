@@ -1,7 +1,7 @@
 Article 81
 ----
 Sauf dans le cas de l'échange de lettres prévu au 1° du II de l'article 35, les
-marchés et accords-cadres d'un montant supérieur à 4 000 Euros HT sont notifiés
+marchés et accords-cadres d'un montant supérieur à 20 000 Euros HT sont notifiés
 avant tout commencement d'exécution.
 
 Pour les marchés et accords-cadres passés selon une procédure formalisée, la

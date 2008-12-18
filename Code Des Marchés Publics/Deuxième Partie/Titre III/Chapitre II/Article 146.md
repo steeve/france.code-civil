@@ -20,5 +20,5 @@ les procédures formalisées par les articles 45, 46 et 48.
 
 L'entité adjudicatrice peut également décider que le marché sera passé sans
 publicité, voire sans mise en concurrence préalable, si les circonstances le
-justifient, ou si son montant estimé est inférieur à 4 000 Euros HT, ou dans les
-situations décrites au II de l'article 144.
+justifient, ou si son montant estimé est inférieur à 20 000 Euros HT, ou dans
+les situations décrites au II de l'article 144.
