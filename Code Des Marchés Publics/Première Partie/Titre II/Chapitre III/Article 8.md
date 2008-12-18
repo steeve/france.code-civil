@@ -36,62 +36,63 @@ Chaque membre du groupement s'engage, dans la convention, à signer avec le
 cocontractant retenu un marché à hauteur de ses besoins propres, tels qu'il les
 a préalablement déterminés.
 
-III.-Sont membres de la commission d'appel d'offres du groupement :
+III. - Une commission d'appel d'offres du groupement est instaurée dès lors
+qu'une collectivité territoriale ou un établissement public local autres qu'un
+établissement public de santé ou un établissement public social ou médico-social
+participe au groupement.
 
-1° En ce qui concerne les personnes mentionnées au 1° du I, un représentant de
-chaque membre du groupement ;
+Sont membres de cette commission d'appel d'offres :
 
-2° En ce qui concerne les personnes mentionnées au 2° du I, à l'exception des
-établissements publics de santé et des établissements publics sociaux ou
-médico-sociaux, un représentant de la commission d'appel d'offres de chaque
-membre du groupement, élu parmi ses membres ayant voix délibérative ;
+1° Un représentant élu parmi les membres ayant voix délibérative de la
+commission d'appel d'offres de chaque membre du groupement qui dispose d'une
+commission d'appel d'offres ;
 
-3° En ce qui concerne les personnes mentionnées au 3° et au 4° du I et les
-établissements publics de santé et les établissements publics sociaux ou
-médico-sociaux, un représentant de chaque membre du groupement désigné selon les
-règles qui lui sont propres.
+2° Un représentant pour chacun des autres membres du groupement désigné selon
+les modalités qui leur sont propres.
 
 La commission d'appel d'offres est présidée par le représentant du
 coordonnateur. Pour chaque membre titulaire peut être prévu un suppléant.
 
-IV.-Le président de la commission peut désigner des personnalités compétentes
-dans la matière qui fait l'objet de la consultation. Celles-ci sont convoquées
-et peuvent participer, avec voix consultative, aux réunions de la commission
-d'appel d'offres.
+IV.-Lorsqu'il est instauré une commission d'appel d'offres, son président peut
+désigner des personnalités compétentes dans la matière qui fait l'objet de la
+consultation. Celles-ci sont convoquées et peuvent participer, avec voix
+consultative, aux réunions de la commission d'appel d'offres.
 
 La commission d'appel d'offres peut également être assistée par des agents des
 membres du groupement, compétents dans la matière qui fait l'objet de la
 consultation ou en matière de marchés publics.
 
-Pour les marchés et accords-cadres des groupements mentionnés aux 2°, 3° et 4°
-du I, le comptable du coordonnateur du groupement, si celui-ci est un comptable
-public et un représentant du directeur général de la concurrence, de la
-consommation et de la répression des fraudes, peuvent participer, avec voix
-consultative, aux réunions de la commission d'appel d'offres, lorsqu'ils y sont
-invités. Leurs observations sont consignées au procès-verbal.
+Pour les marchés et accords-cadres des groupements mentionnés aux 2°, 3° et, le
+cas échéant, 4° du I, le comptable du coordonnateur du groupement, si celui-ci
+est un comptable public et un représentant du directeur général de la
+concurrence, de la consommation et de la répression des fraudes, peuvent
+participer, avec voix consultative, aux réunions de la commission d'appel
+d'offres, lorsqu'ils y sont invités. Leurs observations sont consignées au
+procès-verbal.
 
-V.-Pour les marchés et accords-cadres des groupements mentionnés au 1° du I, le
-coordonnateur choisit le cocontractant après avis de la commission d'appel
-d'offres, dans les conditions fixées par le présent code pour les marchés de
-l'Etat.
+V. - Pour les groupements dans lesquels les collectivités territoriales ou les
+établissements publics locaux autres qu'un établissement public de santé ou un
+établissement public social ou médico-social sont majoritaires, le titulaire est
+choisi par la commission d'appel d'offres en application des règles prévues par
+le présent code pour les collectivités territoriales.
 
-Pour les marchés et accords-cadres des groupements mentionnés au 2° du I, la
-commission d'appel d'offres choisit le cocontractant dans les conditions fixées
-par le présent code pour les marchés des collectivités territoriales. Toutefois,
-pour les marchés et accords-cadres des groupements des établissements publics de
-santé et des établissements publics sociaux et médico-sociaux, le coordonnateur
-choisit le cocontractant après avis de la commission d'appel d'offres.
+Pour les groupements dans lesquels les collectivités territoriales ou les
+établissements publics locaux autres qu'un établissement public de santé ou un
+établissement public social ou médico-social ne sont pas majoritaires, le
+titulaire est choisi après avis de la commission d'appel d'offres, selon les
+modalités définies par la convention constitutive du groupement.
 
-Pour les marchés et accords-cadres des groupements mentionnés aux 3° et 4° du I
-et dont la majorité des membres sont des collectivités territoriales, la
-commission d'appel d'offres choisit le cocontractant dans les conditions fixées
-par le présent code pour les marchés des collectivités territoriales. Dans le
-cas contraire, c'est le coordonnateur qui choisit le cocontractant après avis de
-la commission d'appel d'offres, dans les conditions fixées par le présent code
-pour les marchés de l'Etat.
+Pour les groupements constitués entre des personnes ne disposant pas de
+commission d'appel d'offres, le titulaire est choisi selon les modalités
+définies par la convention constitutive du groupement.
 
-VI.-Chaque membre du groupement, pour ce qui le concerne, signe le marché et
-s'assure de sa bonne exécution.
+Les marchés passés par un groupement au sein duquel les collectivités
+territoriales ou les établissements publics locaux sont majoritaires obéissent
+aux règles prévues par le présent code pour les collectivités territoriales.
+
+Dans les autres cas, les marchés obéissent aux règles prévues par le présent
+code pour les marchés de l'Etat.VI.-Chaque membre du groupement, pour ce qui le
+concerne, signe le marché et s'assure de sa bonne exécution.
 
 VII.-La convention constitutive du groupement peut aussi avoir prévu que le
 coordonnateur sera chargé :

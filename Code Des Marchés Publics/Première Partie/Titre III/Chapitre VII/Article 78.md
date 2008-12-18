@@ -67,13 +67,12 @@ système à présenter une offre définitive pour chaque marché spécifique à 
 dans le cadre du système. A cette fin, il fixe un délai suffisant pour la
 présentation des offres.
 
-3° L'offre économiquement la plus avantageuse est choisie, par la commission
-d'appel d'offres pour les collectivités territoriales ou après avis de la
-commission d'appel d'offres pour l'Etat, les établissements publics de santé et
-les établissements publics sociaux ou médico-sociaux, sur la base des critères
-d'attribution énoncés dans l'avis d'appel public à la concurrence publié lors de
-la mise en place du système d'acquisition dynamique. Ces critères peuvent, le
-cas échéant, être précisés dans l'invitation mentionnée au 2°.
+3° L'offre économiquement la plus avantageuse est choisie, sur la base des
+critères d'attribution énoncés dans l'avis d'appel public à la concurrence
+publié lors de la mise en place du système d'acquisition dynamique. Ce choix est
+effectué par la commission d'appel d'offres pour les collectivités
+territoriales. Ces critères peuvent, le cas échéant, être précisés dans
+l'invitation mentionnée au 2°.
 
 Si le candidat dont l'offre a été retenue ne peut produire les attestations et
 certificats mentionnés aux I et II de l'article 46, son offre est rejetée et il

@@ -1,11 +1,6 @@
 Article R6147-35
 ----
-I. - Le conseil d'administration peut désigner son ou ses représentants
-titulaires et suppléants aux commissions d'appel d'offres prévues au dernier
-alinéa du I de l'article 22 du code des marchés publics, soit en son sein ou
-soit parmi les membres des commissions de surveillance mentionnés au 2° du I de
-l'article R. 6147-25, soit parmi les personnalités qualifiées proposées par le
-directeur général.
+I. - (abrogé).
 
 II. - Il est institué une commission consultative des marchés dont la
 composition, le seuil de compétence et les règles de fonctionnement sont fixées

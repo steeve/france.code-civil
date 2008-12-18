@@ -31,7 +31,7 @@ chargé de la défense ;
 pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive des
 résultats et qu'il finance entièrement ;
 
-5° 206 000 Euros HT pour les travaux.
+5° 5 150 000 € HT pour les travaux.
 
 III.-Les pouvoirs adjudicateurs peuvent aussi mettre en oeuvre une procédure
 adaptée :
@@ -40,11 +40,8 @@ adaptée :
 
 2° Pour certains lots, dans les conditions prévues par le III de l'article 27.
 
-IV.-Pour les marchés et accords-cadres de travaux d'un montant estimé compris
-entre 206 000 Euros HT et 5 150 000 Euros HT, le pouvoir adjudicateur peut
-librement choisir entre toutes les procédures formalisées énumérées au I.
-Lorsque le montant estimé des marchés et accords-cadres de travaux est égal ou
-supérieur à 5 150 000 Euros HT, le pouvoir adjudicateur ne peut recourir aux
+IV.- Lorsque le montant estimé des marchés et accords-cadres de travaux est égal
+ou supérieur à 5 150 000 Euros HT, le pouvoir adjudicateur ne peut recourir aux
 différentes procédures formalisées, autres que l'appel d'offres, que dans les
 conditions prévues par les articles 35 à 38.
 

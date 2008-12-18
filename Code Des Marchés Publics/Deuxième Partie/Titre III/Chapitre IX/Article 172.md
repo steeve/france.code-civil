@@ -25,11 +25,6 @@ officiel de l'Union européenne conformément aux modèles fixés par le règlem
 arrêté du ministre chargé de l'économie lorsqu'il est établi pour la publication
 au Bulletin officiel des annonces des marchés publics.
 
-Pour les marchés de travaux compris entre 412 000 Euros HT et 5 150 000 Euros
-HT, les avis sont publiés au Bulletin officiel des annonces des marchés publics
-ou dans un journal habilité à recevoir des annonces légales conformément au
-modèle fixé par arrêté du ministre chargé de l'économie.
-
 IV.-Pour les marchés relevant de l'article 148 d'un montant égal ou supérieur à
 412 000 Euros HT, l'entité adjudicatrice adresse un avis d'attribution à
 l'Office des publications officielles de l'Union européenne et au Bulletin

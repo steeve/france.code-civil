@@ -24,10 +24,10 @@ liste des candidats admis à négocier, dont le nombre ne peut être inférieur 
 trois sauf si le nombre de candidats n'est pas suffisant. L'entité adjudicatrice
 engage les négociations. Au terme de ces négociations, le marché est attribué.
 
-2° Lorsque l'entité adjudicatrice choisit la procédure d'appel d'offre, la
-commission d'appel d'offres est composée en jury tel que défini au I de
-l'article 24. Dans ce cas, les membres de la commission désignés en application
-des d et e du I de l'article 24 ont voix consultative.
+2° Lorsque l'entité adjudicatrice choisit la procédure d'appel d'offres, il est
+composé un jury dans les conditions définies au I de l'article 24. Dans ce cas,
+les membres de ce jury désignés en application des d et e du I de l'article 24
+ont voix consultative.
 
 3° Lorsque l'entité adjudicatrice choisit la procédure du concours, elle
 respecte la procédure du concours restreint, telle qu'elle est prévue aux

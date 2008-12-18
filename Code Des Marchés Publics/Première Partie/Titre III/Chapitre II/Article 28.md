@@ -7,6 +7,10 @@ le pouvoir adjudicateur en fonction de la nature et des caractéristiques du
 besoin à satisfaire, du nombre ou de la localisation des opérateurs économiques
 susceptibles d'y répondre ainsi que des circonstances de l'achat.
 
+Le pouvoir adjudicateur peut négocier avec les candidats ayant présenté une
+offre. Cette négociation peut porter sur tous les éléments de l'offre, notamment
+sur le prix.
+
 Pour la détermination de ces modalités, le pouvoir adjudicateur peut s'inspirer
 des procédures formalisées prévues par le présent code, sans pour autant que les
 marchés en cause ne soient alors soumis aux règles formelles applicables à ces

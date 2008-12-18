@@ -29,18 +29,16 @@ sont réunies :
 
 a) L'avis de préinformation prévu à l'article 39 a été publié ;
 
-b) Cet avis a été envoyé à la publication cinquante deux jours au moins et douze
+b) Cet avis a été envoyé à la publication cinquante-deux jours au moins et douze
 mois au plus avant la date d'envoi de l'avis d'appel public à la concurrence ;
 
 c) Il contient les mêmes renseignements que ceux qui figurent dans l'avis
 d'appel public à la concurrence, pour autant que ces renseignements soient
 disponibles au moment de l'envoi de l'avis de préinformation.
 
-3° Pour les marchés de travaux dont le montant est inférieur à 5 150 000 Euros
-HT, le délai minimal mentionné au 1° peut également être ramené à vingt-deux
-jours.
+3° (Alinéa abrogé).
 
-4° Les délais de réception des offres mentionnés aux 1°,2° et 3° peuvent être
+4° Les délais de réception des offres mentionnés aux 1° et 2° peuvent être
 réduits de cinq jours lorsque le pouvoir adjudicateur offre, par moyen
 électronique et à compter de la publication de l'avis d'appel public à la
 concurrence, l'accès libre, direct et complet aux documents de la consultation

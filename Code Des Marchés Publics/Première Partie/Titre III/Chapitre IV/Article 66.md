@@ -70,11 +70,9 @@ dans les documents de la consultation.
 
 VI. - Au terme des négociations, après classement des offres conformément au III
 de l'article 53, l'offre économiquement la plus avantageuse est choisie par la
-commission d'appel d'offres pour les collectivités territoriales ou après avis
-de la commission d'appel d'offres pour l'Etat, les établissements publics de
-santé et les établissements publics sociaux ou médico-sociaux, en application du
-ou des critères annoncés dans l'avis d'appel public à la concurrence ou dans le
-règlement de la consultation.
+commission d'appel d'offres pour les collectivités territoriales en application
+du ou des critères annoncés dans l'avis d'appel public à la concurrence ou dans
+le règlement de la consultation.
 
 En cas d'urgence impérieuse prévue au 1° du II de l'article 35, il est procédé
 conformément aux dispositions du dernier alinéa de l'article 25.

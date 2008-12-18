@@ -37,10 +37,7 @@ finalité commerciale immédiate ;
 
 4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de
 services dont la nature ou les aléas qui peuvent affecter leur réalisation ne
-permettent pas une fixation préalable et globale des prix ;
-
-5° Les marchés et les accords-cadres de travaux dont le montant est compris
-entre 206 000 euros HT et 5 150 000 euros HT.
+permettent pas une fixation préalable et globale des prix.
 
 II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 

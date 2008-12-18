@@ -9,7 +9,5 @@ l'heure limites qui ont été annoncées dans la lettre de consultation.
 
 Les offres inappropriées au sens du 3° du II de l'article 35 ainsi que les
 offres irrégulières ou inacceptables au sens du 1° du I de l'article 35 sont
-éliminées par la commission d'appel d'offres pour les collectivités
-territoriales ou après avis de la commission d'appel d'offres pour l'Etat, les
-établissements publics de santé et les établissements publics sociaux ou
-médico-sociaux.
+éliminées. Cette élimination est effectuée par la commission d'appel d'offres
+pour les collectivités territoriales.

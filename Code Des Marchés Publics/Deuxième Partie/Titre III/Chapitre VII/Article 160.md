@@ -21,21 +21,18 @@ c) Il contient les mêmes renseignements que ceux qui figurent dans l'avis
 d'appel public à la concurrence, pour autant que ces renseignements soient
 disponibles au moment de l'envoi de l'avis périodique indicatif.
 
-3° Pour les marchés de travaux dont le montant est inférieur à 5 150 000 Euros
-HT, le délai minimal mentionné au 1° peut également être ramené à vingt-deux
-jours.
+3° (alinéa abrogé) ;
 
-4° En cas d'urgence ne résultant pas du fait de l'entité adjudicatrice, le délai
-réduit mentionné au 3° peut être ramené à quinze jours.
+4° (alinéa abrogé) ;
 
-5° Les délais mentionnés aux 1°,2° et 3° peuvent être réduits de sept jours
-lorsque l'avis d'appel public à la concurrence est envoyé par voie électronique.
+5° Les délais mentionnés aux 1° et 2° peuvent être réduits de sept jours lorsque
+l'avis d'appel public à la concurrence est envoyé par voie électronique.
 
-6° Les délais mentionnés aux 1°,3° et 4° peuvent être réduits de cinq jours
-lorsque l'entité adjudicatrice offre, par voie électronique et à compter de la
-publication de l'avis d'appel public à la concurrence, un accès libre, direct et
-complet aux documents de la consultation en indiquant dans le texte de l'avis
-l'adresse internet à laquelle ces documents peuvent être consultés.
+6° le délai mentionné au 1° peut être réduit de cinq jours lorsque l'entité
+adjudicatrice offre, par voie électronique et à compter de la publication de
+l'avis d'appel public à la concurrence, un accès libre, direct et complet aux
+documents de la consultation en indiquant dans le texte de l'avis l'adresse
+internet à laquelle ces documents peuvent être consultés.
 
 7° Les délais mentionnés aux 5° et 6° peuvent être cumulés sauf si l'entité
 adjudicatrice a réduit le délai minimal à vingt-deux jours suite à la

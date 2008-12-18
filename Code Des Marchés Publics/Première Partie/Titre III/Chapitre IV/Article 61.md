@@ -11,11 +11,9 @@ constate que des pièces dont la production était réclamée sont absentes ou
 incomplètes, peut demander aux candidats de compléter leur dossier conformément
 aux dispositions du I de l'article 52.
 
-II. - Au vu des seuls renseignements relatifs aux candidatures, la liste des
-candidats autorisés à présenter une offre en application des dispositions de
-l'article 52 est établie par la commission d'appel d'offres pour les
-collectivités territoriales ou après avis de la commission d'appel d'offres pour
-l'Etat, les établissements publics de santé et les établissements publics
-sociaux ou médico-sociaux.
+II. - La liste des candidats autorisés à présenter une offre en application des
+dispositions de l'article 52 est établie au vu des seuls renseignements relatifs
+aux candidatures. Elle est établie par la commission d'appel d'offres pour les
+collectivités territoriales.
 
 Les candidats non retenus en sont informés conformément au I de l'article 80.

@@ -11,23 +11,16 @@ constate que des pièces dont la production était réclamée sont absentes ou
 incomplètes, peut demander aux candidats de compléter leur dossier conformément
 aux dispositions du I de l'article 52.
 
-II. - Avant l'ouverture des enveloppes contenant les offres et au vu des seuls
-renseignements relatifs aux candidatures, les candidatures qui ne peuvent être
-admises en application des dispositions de l'article 52 sont éliminées par la
-commission d'appel d'offres pour les collectivités territoriales ou après avis
-de la commission d'appel d'offres pour l'Etat, les établissements publics de
-santé et les établissements publics sociaux ou médico-sociaux. Les candidats non
-retenus en sont informés conformément au I de l'article 80.
+II. - Au vu des seuls renseignements relatifs aux candidatures, les candidatures
+qui ne peuvent être admises en application des dispositions de l'article 52 sont
+éliminées. Cette élimination est effectuée par la commission d'appel d'offres
+pour les collectivités territoriales. Les candidats non retenus en sont informés
+conformément au I de l'article 80.
 
 Les enveloppes contenant les offres des candidats éliminés leur sont rendues
 sans avoir été ouvertes.
 
-III. - La commission d'appel d'offres ouvre les enveloppes contenant les offres
-et en enregistre le contenu.
-
-Les offres inappropriées au sens du 3° du II de l'article 35 ainsi que les
-offres irrégulières ou inacceptables au sens du 1° du I de l'article 35 sont
-éliminées par la commission d'appel d'offres pour les collectivités
-territoriales ou après avis de la commission d'appel d'offres pour l'Etat, les
-établissements publics de santé et les établissements publics sociaux ou
-médico-sociaux.
+III. - Les offres inappropriées au sens du 3° du II de l'article 35 ainsi que
+les offres irrégulières ou inacceptables au sens du 1° du I de l'article 35 sont
+éliminées. Cette élimination est effectuée par la commission d'appel d'offres
+pour les collectivités territoriales.

@@ -1,10 +1,11 @@
 Article 22
 ----
-I. - Pour les collectivités territoriales et les établissements publics locaux,
-sont constituées une ou plusieurs commissions d'appel d'offres à caractère
-permanent. Une commission spécifique peut aussi être constituée pour la
-passation d'un marché déterminé. Ces commissions d'appel d'offres sont composées
-des membres suivants :
+I. - Pour les collectivités territoriales et les établissements publics locaux à
+l'exception des établissements publics de santé et les établissements publics
+sociaux ou médico-sociaux, sont constituées une ou plusieurs commissions d'appel
+d'offres à caractère permanent. Une commission spécifique peut aussi être
+constituée pour la passation d'un marché déterminé. Ces commissions d'appel
+d'offres sont composées des membres suivants :
 
 1° Lorsqu'il s'agit d'une région, le président du conseil régional ou son
 représentant, président, et cinq membres du conseil élus en son sein à la
@@ -40,12 +41,6 @@ délibérante de l'établissement ou du syndicat ;
 de l'établissement ou son représentant, président, et de deux à quatre membres
 de l'organe délibérant, désignés par celui-ci.
 
-Lorsqu'il s'agit d'établissements publics de santé ou d'établissements publics
-sociaux ou médico-sociaux, le nombre, la composition et les modalités
-d'organisation et de fonctionnement de la commission d'appel d'offres ou des
-commissions d'appel d'offres sont arrêtées par le directeur de l'établissement
-après avis du conseil d'administration.
-
 Outre le directeur ou son représentant, président, chaque commission comporte
 obligatoirement au moins un membre désigné par le conseil d'administration en
 son sein ou parmi des personnalités qualifiées proposées par le directeur.
@@ -55,10 +50,7 @@ II. - Dans tous les cas énumérés ci-dessus, il est procédé, selon les même
 modalités, à la désignation ou à l'élection de suppléants en nombre égal à celui
 des membres titulaires. Cette règle ne s'applique pas aux établissements publics
 de coopération intercommunale et aux syndicats mixtes dont l'organe délibérant
-comporte moins de cinq membres. Lorsqu'il s'agit d'un établissement public de
-santé ou d'un établissement public social ou médico-social, le remplacement du
-titulaire peut s'effectuer soit par un suppléant déterminé, soit par un
-suppléant choisi parmi l'ensemble des représentants suppléants.
+comporte moins de cinq membres.
 
 III. - Pour les collectivités mentionnées aux 1°, 2°, 3°, 4° et 5° du I,
 l'élection des membres titulaires et des suppléants a lieu sur la même liste,

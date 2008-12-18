@@ -18,12 +18,10 @@ est connue, la part du marché ou de l'accord-cadre que le titulaire a
 l'intention de sous-traiter à des tiers ;
 
 6° En ce qui concerne les procédures négociées, le motif du recours à ces
-procédures sauf dans le cas des marchés de travaux dont le montant est compris
-entre 206 000 Euros HT et 5 150 000 Euros HT ;
+procédures ;
 
 7° En ce qui concerne le dialogue compétitif, le motif du recours à cette
-procédure sauf dans le cas des marchés de travaux dont le montant est compris
-entre 206 000 Euros HT et 5 150 000 Euros HT ;
+procédure ;
 
 8° Le cas échéant, les raisons pour lesquelles le pouvoir adjudicateur a renoncé
 à passer un marché, un accord-cadre ou à mettre en place un système
@@ -31,7 +29,7 @@ d'acquisition dynamique ;
 
 9° L'indication que des fournitures proviennent d'un pays membre de l'Union
 européenne ou d'un autre pays signataire de l'accord sur les marchés publics
-conclus dans le cadre de l'Organisation mondiale du commerce ;
+conclus dans le cadre de l'Organisation mondiale du commerce.
 
 En cas de procédure dématérialisée, le pouvoir adjudicateur fournit, en outre,
 toutes les informations sur le déroulement des procédures d'attribution

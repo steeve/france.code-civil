@@ -5,8 +5,7 @@ prévues à l'article 40.
 
 II.-1° Le délai de réception des offres ne peut être inférieur à cinquante-deux
 jours à compter de la date d'envoi de l'avis d'appel public à la concurrence. Ce
-délai minimal ne peut être réduit pour des motifs d'urgence sauf dans le cas
-mentionné au 3° ci-dessous.
+délai minimal ne peut être réduit pour des motifs d'urgence.
 
 2° Ce délai minimal peut être ramené à vingt-deux jours lorsque trois conditions
 sont réunies :
@@ -20,19 +19,16 @@ c) Il contient les mêmes renseignements que ceux qui figurent dans l'avis
 d'appel public à la concurrence, pour autant que ces renseignements soient
 disponibles au moment de l'envoi de l'avis de préinformation.
 
-3° Pour les marchés de travaux dont le montant est inférieur à 5 150 000 Euros
-HT, le délai minimal mentionné au 1° peut également être ramené à vingt-deux
-jours. En cas d'urgence ne résultant pas du fait du pouvoir adjudicateur, ce
-délai peut être ramené à quinze jours.
+3° (alinéa abrogé) ;
 
-4° Les délais mentionnés aux 1°,2° et 3° peuvent être réduits de sept jours
-lorsque l'avis d'appel public à la concurrence est envoyé par voie électronique.
+4° Les délais mentionnés aux 1° et 2° peuvent être réduits de sept jours lorsque
+l'avis d'appel public à la concurrence est envoyé par voie électronique.
 
-5° Les délais mentionnés aux 1° et 3° peuvent être réduits de cinq jours lorsque
-le pouvoir adjudicateur offre, par voie électronique et à compter de la
-publication de l'avis d'appel public à la concurrence, un accès libre, direct et
-complet aux documents de la consultation en indiquant dans le texte de l'avis
-l'adresse internet à laquelle ces documents peuvent être consultés.
+5° Le délai mentionné au 1° peut être réduit de cinq jours lorsque le pouvoir
+adjudicateur offre, par voie électronique et à compter de la publication de
+l'avis d'appel public à la concurrence, un accès libre, direct et complet aux
+documents de la consultation en indiquant dans le texte de l'avis l'adresse
+internet à laquelle ces documents peuvent être consultés.
 
 6° Les réductions de délais mentionnées aux 4° et 5° peuvent être cumulées sauf
 si le pouvoir adjudicateur a réduit le délai minimal à vingt-deux jours du fait
@@ -59,5 +55,5 @@ Les candidats sont informés du nouveau délai ainsi fixé.
 
 V.-Les dossiers des candidats sont transmis par tout moyen permettant de
 déterminer de façon certaine la date et l'heure de leur réception et d'en
-garantir la confidentialité. Elles comportent une enveloppe contenant les
-documents relatifs à la candidature et une enveloppe contenant l'offre.
+garantir la confidentialité. Ils comportent une enveloppe comprenant les
+documents relatifs à la candidature et à l'offre.

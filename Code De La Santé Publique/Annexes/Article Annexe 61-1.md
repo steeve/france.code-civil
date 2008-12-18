@@ -44,10 +44,7 @@ constituent un groupement d'intérêt public, dont ils sont membres fondateurs,
 régi par les dispositions du chapitre V du titre Ier du livre Ier de la partie
 VI du code de la santé publique et par la présente convention.
 
-
-TITRE Ier
-
-CONSTITUTION DE L'AGENCE
+TITRE Ier : CONSTITUTION DE L'AGENCE
 
 
 Article 1er
@@ -159,10 +156,7 @@ Le retrait d'un membre de l'agence donne lieu à un avenant à la présente
 convention, aux fins notamment de modifier la composition de la commission
 exécutive conformément à l'article L. 6115-7 du code de la santé publique.
 
-
-TITRE II
-
-ADMINISTRATION DE L'AGENCE
+TITRE II : ADMINISTRATION DE L'AGENCE
 
 
 Article 11
@@ -299,11 +293,7 @@ au nom de l'agence ;
 8° Les décisions relatives à la mise en oeuvre de traitements automatisés
 d'informations nominatives mentionnées à l'article 19 du décret n° 78-774 du 17
 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi n°
-78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
-;
-
-9° La composition de la commission d'appels d'offres prévue par l'article 21 du
-code des marchés publics.
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 La commission exécutive entend le rapport du directeur régional des affaires
 sanitaires et sociales sur les travaux du conseil régional institué à l'article
@@ -363,10 +353,7 @@ obligations définies à la présente convention. La mention du personnel placé
 sous l'autorité du directeur n'est valable que s'il est fait application de
 l'article 17 de la présente convention.
 
-
-TITRE III
-
-FONCTIONNEMENT DE L'AGENCE
+TITRE III : FONCTIONNEMENT DE L'AGENCE
 
 
 Article 15
@@ -684,10 +671,7 @@ L'agence est soumise aux dispositions du code des marchés publics relatives à
 l'Etat et à ses établissements publics, autres que ceux ayant un caractère
 industriel et commercial.
 
-
-TITRE IV
-
-DISPOSITIONS DIVERSES
+TITRE IV : DISPOSITIONS DIVERSES
 
 
 Article 29

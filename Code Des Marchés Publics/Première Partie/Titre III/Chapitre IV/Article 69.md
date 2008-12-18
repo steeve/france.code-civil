@@ -1,13 +1,11 @@
 Article 69
 ----
-Pour les pouvoirs adjudicateurs mentionnés au deuxième alinéa de l'article 37,
-les marchés de conception-réalisation sont des marchés de travaux passés selon
-la procédure de l'appel d'offres restreint, dont la commission d'appel d'offres
-est composée en jury tel que défini ci-dessous, et sous réserve des dispositions
-qui suivent :
+I. - Les marchés de conception-réalisation définis à l'article 37 sont passés
+selon la procédure d'appel d'offres restreint en application des dispositions
+particulières qui suivent :
 
-Un jury est composé des membres de la commission d'appel d'offres auxquels
-s'ajoutent des maîtres d'oeuvre désignés par le pouvoir adjudicateur. Ces
+Un jury est composé dans les conditions fixées par le I de l'article 24. Il est
+complété par des maîtres d'œuvre désignés par le pouvoir adjudicateur. Ces
 maîtres d'oeuvre sont indépendants des candidats et du pouvoir adjudicateur et
 sont compétents au regard de l'ouvrage à concevoir et de la nature des
 prestations à fournir pour sa conception. Ils représentent au moins un tiers du
@@ -45,3 +43,22 @@ candidat est égal au prix estimé des études de conception à effectuer telles
 définies par le règlement de la consultation, affecté d'un abattement au plus
 égal à 20 %. La rémunération de l'attributaire du marché tient compte de la
 prime qu'il a reçue.
+
+II. - Dans le cas des opérations limitées à la réhabilitation de bâtiments, et
+si les conditions définies aux articles 36 et 37 sont réunies, les marchés de
+conception-réalisation peuvent également être passés selon la procédure du
+dialogue compétitif. Ils suivent alors les dispositions prévues à l'article 67.
+
+III. - Lorsque le marché de conception-réalisation est d'un montant inférieur au
+seuil fixé au II de l'article 26, et si les conditions définies à l'article 37
+sont réunies, il peut être passé selon une procédure adaptée régie par l'article
+28.
+
+IV. - Dans les cas prévus aux II et III ci-dessus, si les documents de la
+consultation ont prévu la remise de prestations, ils mentionnent également le
+montant des primes et les modalités de réduction ou de suppression des primes
+des candidats dont l'offre ne répondait pas aux documents de la consultation. Le
+montant de la prime attribuée à chaque candidat est égal au prix estimé des
+études de conception à effectuer telles que définies par le règlement de la
+consultation, affecté d'un abattement au plus égal à 20 %. La rémunération de
+l'attributaire du marché tient compte de la prime qu'il a reçue.

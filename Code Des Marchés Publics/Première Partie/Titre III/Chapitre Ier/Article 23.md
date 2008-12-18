@@ -10,12 +10,7 @@ le concours de tels services ou lorsque le marché porte sur des travaux
 subventionnés par l'Etat ;
 
 2° Des personnalités désignées par le président de la commission en raison de
-leur compétence dans la matière qui fait l'objet de la consultation ;
-
-3° Dans le cas des établissements publics de santé et des établissements publics
-sociaux et médico-sociaux, un représentant du directeur départemental des
-affaires sanitaires et sociales. Ses observations sont consignées au
-procès-verbal.
+leur compétence dans la matière qui fait l'objet de la consultation.
 
 II. - Lorsqu'ils y sont invités par le président de la commission d'appel
 d'offres, le comptable public et un représentant du directeur général de la

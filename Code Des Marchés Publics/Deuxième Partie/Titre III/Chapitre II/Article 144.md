@@ -101,7 +101,9 @@ tous invités à négocier.
 III.-Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les
 conditions prévues par l'article 146 :
 
-a) Lorsque le montant estimé du besoin est inférieur à 412 000 Euros HT ;
+a) Lorsque le montant estimé du besoin est inférieur à 412 000 Euros HT pour les
+fournitures et les services, ou lorsque le montant estimé du besoin est
+inférieur à 5 150 000 € HT pour les travaux ;
 
 b) Pour certains lots, dans les conditions prévues au III de l'article 27 ;
 
