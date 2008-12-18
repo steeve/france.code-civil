@@ -13,8 +13,7 @@ l'article L. 351-14-1 ;
 3° La référence au 1° de l'article L. 723-10-3 est substituée à la référence au
 1° de l'article L. 351-14-1 ;
 
-4° A l'article D. 351-3, la référence à l'âge de soixante-cinq ans est
-substituée à la référence à l'âge de soixante ans ;
+4° Abrogé ;
 
 5° Au dernier alinéa de l'article D. 351-4, la référence à la Caisse nationale
 des barreaux français est substituée à la référence à la caisse visée à cet

@@ -13,8 +13,7 @@ L. 351-14-1 ;
 3° La référence au 1° de l'article L. 643-2 est substituée à la référence au 1°
 de l'article L. 351-14-1 ;
 
-4° A l'article D. 351-3, la référence à l'âge de soixante-cinq ans est
-substituée à la référence à l'âge de soixante ans ;
+4° Abrogé ;
 
 5° A l'avant-dernier alinéa de l'article D. 351-4, la référence à
 l'immatriculation de l'intéressé à la section professionnelle mentionnée à
