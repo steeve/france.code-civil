@@ -59,8 +59,8 @@ b) Dispositifs locaux de prévention de la délinquance ;
 
 a) Assainissement et eau ;
 
-b) Création, extension et translation des cimetières et sites cinéraires hors de
-l'emprise des cimetières ainsi que création et extension des crématoriums ;
+b) Création, extension et translation des cimetières, ainsi que création et
+extension des crématoriums et des sites cinéraires ;
 
 c) Abattoirs, abattoirs marchés et marchés d'intérêt national ;
 
@@ -82,7 +82,7 @@ Lorsque l'exercice des compétences mentionnées au présent paragraphe est
 subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est
 déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il
 est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
-prononçant le transfert de compétence.A défaut, la communauté urbaine exerce
+prononçant le transfert de compétence. A défaut, la communauté urbaine exerce
 l'intégralité de la compétence transférée.
 
 II.-La communauté urbaine peut transférer certaines de ses compétences à un

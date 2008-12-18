@@ -13,7 +13,9 @@ s'assure :
 2223-24 ;
 
 2° De conditions minimales de capacité professionnelle du dirigeant et des
-agents, fixées par décret ;
+agents. Dans le cas d'une régie non dotée de la personnalité morale et de
+l'autonomie financière, seuls les personnels de la régie doivent justifier de
+cette capacité professionnelle ;
 
 3° De la conformité des installations techniques à des prescriptions fixées par
 décret ;

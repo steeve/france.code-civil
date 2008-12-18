@@ -14,4 +14,4 @@ peuvent s'y trouver encore ;
 
 4° Les conditions dans lesquelles les articles L. 2223-14 à L. 2223-17 sont
 applicables aux concessions des espaces pour le dépôt ou l'inhumation des urnes
-ou la dispersion des cendres dans le cimetière.
+dans le cimetière.
