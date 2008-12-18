@@ -1,11 +1,9 @@
 Article R141-10
 ----
-L'ordre du jour des audiences publiques est fixé par le président de la
-formation après consultation du ministère public.
+Le contrôle du compte est notifié au comptable et à l'ordonnateur en fonctions.
 
-Toute partie est avertie par une notification faite par lettre recommandée du
-jour où l'affaire sera appelée à l'audience.
+Toutefois, s'agissant des comptes des comptables supérieurs de l'Etat, le
+contrôle est notifié au comptable en fonctions et au ministre chargé du budget.
 
-Cette notification est faite sept jours au moins avant l'audience.
-
-L'ordre du jour de l'audience est affiché à l'entrée de la Cour.
+La notification précise le ou les exercices contrôlés et le nom du ou des
+magistrats rapporteurs.

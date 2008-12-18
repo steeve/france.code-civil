@@ -1,17 +1,17 @@
 Article R241-31
 ----
 La demande en rectification du rapport d'observations définitives prévue à
-l'article L. 243-4 peut être adressée au greffe de la chambre dès que la
+l'article L. 245-4 peut être adressée au greffe de la chambre dès que la
 communication de ce rapport à l'assemblée ou à l'organe délibérant permet à
 toute personne nominativement ou explicitement mise en cause d'avoir
 connaissance des observations définitives de la chambre et des réponses qui y
-ont été éventuellement apportées conformément à l'article L. 241-11.
+ont été éventuellement apportées conformément à l'article L. 243-5.
 
 Dans le délai d'un an suivant la communication du rapport d'observations
 définitives à l'assemblée délibérante de la collectivité ou de l'établissement
 qui a fait l'objet d'un examen de la gestion, une demande en rectification
 d'erreur ou d'omission dudit rapport peut être adressée au greffe de la chambre
-par les personnes mentionnées à l'article L. 243-4 du présent code.
+par les personnes mentionnées à l'article L. 245-4 du présent code.
 
 La demande en rectification est transmise par lettre recommandée avec avis de
 réception. Elle doit comporter l'exposé des faits et les motifs invoqués et être
@@ -27,5 +27,5 @@ date à laquelle il peut solliciter son audition par la chambre.
 
 La chambre régionale des comptes se prononce sur la demande en rectification par
 une décision qui est notifiée par lettre du président au demandeur ainsi qu'à
-l'ordonnateur ou au dirigeant de l'organisme concerné. A compter de cette
+l'ordonnateur ou au dirigeant de l'organisme concerné.A compter de cette
 réception, cette décision est annexée au rapport d'observations définitives.

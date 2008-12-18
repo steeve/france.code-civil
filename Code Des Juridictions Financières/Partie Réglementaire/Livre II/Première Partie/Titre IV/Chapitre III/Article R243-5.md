@@ -1,7 +1,10 @@
 Article R243-5
 ----
 L'appel doit être formé dans le délai de deux mois à compter de la notification
-du jugement.
+du jugement ou de l'ordonnance.
+
+Pour les personnes domiciliées à l'étranger, le délai d'appel est augmenté de
+deux mois.
 
 Lorsque l'appel est formé par un contribuable, dans les conditions rappelées à
 l'article R. 243-2, la durée de l'instance devant la juridiction administrative

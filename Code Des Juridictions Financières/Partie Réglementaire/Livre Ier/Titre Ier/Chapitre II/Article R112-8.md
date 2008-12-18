@@ -1,35 +1,46 @@
 Article R112-8
 ----
-Le procureur général exerce le ministère public par voie de réquisitions ou de
-conclusions.
+I.-Le procureur général exerce le ministère public par voie de réquisitions, de
+conclusions ou d'avis. Il met en mouvement et exerce l'action publique. Il
+veille à l'application de la loi.
 
-Il requiert l'installation des magistrats dans leurs fonctions en audience
+II.-Il requiert l'installation des magistrats dans leurs fonctions en audience
 solennelle.
 
-Il veille à la production des comptes dans les délais réglementaires et, en cas
-de retard, requiert l'application de l'amende prévue par la loi.
+III.-Il veille à la production des comptes dans les délais réglementaires et, en
+cas de retard, requiert l'application de l'amende prévue par la loi.
 
 Il défère à la Cour des comptes les opérations qu'il présume constitutives de
-gestion de fait, à son initiative ou à la demande du ministre chargé des
-finances, des ministres intéressés, des représentants de l'Etat dans les régions
-ou les départements, des procureurs de la République, des trésoriers-payeurs
-généraux et des autres comptables principaux, ou au vu des constatations faites
-lors de la vérification des comptes, sans préjudice du droit de la Cour de s'en
-saisir d'office dans ce dernier cas. Il requiert en cas de besoin l'application
-de l'amende pour immixtion dans les fonctions de comptable public.
+gestion de fait, à son initiative ou à la demande du ministre chargé du budget,
+des ministres intéressés, des représentants de l'Etat dans les régions, la
+collectivité territoriale de Corse, les départements ou les collectivités
+d'outre-mer, des procureurs de la République, des trésoriers-payeurs généraux et
+des autres comptables principaux, ou au vu des constatations faites lors d'un
+contrôle de la Cour des comptes ou des autres informations dont il dispose. Il
+requiert en cas de besoin l'application de l'amende pour immixtion dans les
+fonctions de comptable public.
 
-Il adresse à la Cour des comptes les appels formés contre les jugements des
-chambres régionales et territoriales des comptes, sur transmission du ministère
-public près lesdites chambres.
+Il adresse à la Cour les appels formés contre les jugements et ordonnances
+rendus par les chambres régionales et territoriales des comptes, sur
+transmission du greffe de ces chambres.
 
-Il présente ses conclusions écrites sur les rapports qui lui sont communiqués
-avec pièces à l'appui. Lui sont obligatoirement communiqués les rapports
-concernant les quitus, les débets, les amendes, les décisions sur la compétence,
-les comptabilités de fait, les pourvois et les révisions ainsi que les appels
-des jugements rendus par les chambres régionales et territoriales des comptes.
-Les autres rapports lui sont communiqués soit sur sa demande, soit sur décision
-des présidents de chambre, de formations interchambres ou de formations communes
-aux juridictions.
+Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin
+d'arrêt ou d'ordonnance et de décision sur la compétence.
 
-Il peut assister aux séances des chambres et des sections et y présenter des
-observations orales. Il ne prend pas part au délibéré.
+Il présente ses conclusions écrites sur ces rapports.
+
+S'il n'a pas conclu à la décharge du comptable, il saisit la formation de
+jugement pour la mise en jeu de la responsabilité personnelle et pécuniaire du
+comptable par des réquisitions écrites et motivées en droit.
+
+Il participe aux audiences publiques ou s'y fait représenter. Il y présente ses
+conclusions.
+
+IV.-En matière non juridictionnelle, les rapports, avec pièces à l'appui, lui
+sont communiqués soit à sa demande, soit sur décision du président de la
+chambre, de la formation interchambres ou de la formation commune aux
+juridictions. Il présente ses conclusions écrites sur ces rapports.
+
+Il peut assister ou se faire représenter aux séances des formations prévues aux
+articles R. 112-15 à R. 112-21-1 et y présenter des observations orales. Il ne
+prend pas part au délibéré.

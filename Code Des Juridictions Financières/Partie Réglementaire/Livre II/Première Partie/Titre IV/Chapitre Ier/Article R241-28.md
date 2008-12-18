@@ -1,6 +1,6 @@
 Article R241-28
 ----
-Les personnes citées à l'article L. 241-14 peuvent demander par lettre adressée
+Les personnes citées à l'article L. 243-6 peuvent demander par lettre adressée
 au président de la chambre régionale des comptes à être entendues par la chambre
 pour présenter toutes observations avant décision définitive.
 

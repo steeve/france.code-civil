@@ -14,5 +14,5 @@ spéciaux du Trésor.
 
 Sont vérifiées dans les locaux des services gestionnaires ou centralisateurs les
 pièces justifiant les catégories de dépenses ou de recettes publiques fixées par
-arrêté du ministre chargé des finances pris sur proposition du premier président
-et du procureur général.
+arrêté du ministre chargé du budget pris sur proposition du premier président et
+du procureur général.

@@ -10,7 +10,8 @@ peuvent être affectés aux chambres.
 
 En formation délibérante, chaque chambre est composée du président de la
 chambre, des conseillers maîtres et le cas échéant des conseillers maîtres en
-service extraordinaire. Le rapporteur a voix délibérative.
+service extraordinaire. Sauf dans le cas de procédure juridictionnelle, le
+rapporteur a voix délibérative.
 
 Un arrêté du premier président, pris sur proposition du président de la chambre
 et après avis du procureur général, peut créer au sein de chaque chambre une ou

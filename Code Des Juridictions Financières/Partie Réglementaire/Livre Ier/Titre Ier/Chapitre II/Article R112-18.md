@@ -32,8 +32,13 @@ que si cinq au moins de leurs membres sont présents.
 En cas de partage des voix, celle du président est prépondérante.
 
 Le premier président désigne le rapporteur parmi les magistrats de la Cour des
-comptes et le contre-rapporteur parmi les membres des chambres réunies. Il
-désigne le greffier des chambres réunies.
+comptes. Il désigne le greffier des chambres réunies.
+
+Dans les cas de procédure non juridictionnelle, il désigne le contre-rapporteur
+parmi les membres des chambres réunies.
+
+Dans les cas de procédure juridictionnelle, il désigne le réviseur, lorsque
+l'instruction est terminée, parmi les membres des chambres réunies.
 
 II. - Les chambres réunies statuant en formation plénière formulent un avis sur
 les questions de droit dont elles sont saisies par le premier président.

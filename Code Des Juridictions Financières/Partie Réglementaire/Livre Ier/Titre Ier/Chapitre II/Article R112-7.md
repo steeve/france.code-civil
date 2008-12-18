@@ -6,10 +6,10 @@ services administratifs. Le premier président peut, sauf dans les matières
 définies à l'article R. 112-3 ci-dessus, leur déléguer par arrêté sa signature.
 
 Le secrétaire général ou, en cas d'absence ou d'empêchement, un des secrétaires
-généraux adjoints certifie les expéditions des arrêts et en assure la
-notification. Il délivre et certifie extraits et copies des actes intéressant le
-fonctionnement de la juridiction. Il peut déléguer à cet effet sa signature au
-chef de service responsable du greffe central.
+généraux adjoints certifie les expéditions des arrêts et des ordonnances et en
+assure la notification. Il délivre et certifie extraits et copies des actes
+intéressant le fonctionnement de la juridiction. Il peut déléguer à cet effet sa
+signature au chef de service responsable du greffe central.
 
 Le secrétaire général, ou, en cas d'absence ou d'empêchement, un des secrétaires
 généraux adjoints, assiste à la conférence des présidents.

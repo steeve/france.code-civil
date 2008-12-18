@@ -1,4 +1,3 @@
 Article R241-27
 ----
-La procédure devant les chambres régionales des comptes est écrite et
-contradictoire.
+La procédure devant les chambres régionales des comptes est contradictoire.
