@@ -1,13 +1,10 @@
 Article R122-1
 ----
-Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions
-prévues au présent chapitre, lors de la vente, sous quelque forme que ce soit,
-d'une oeuvre d'art originale graphique ou plastique autre que la première
-cession opérée par l'auteur ou par ses ayants droit, dès lors que le vendeur,
-l'acheteur ou un intermédiaire interviennent dans cette cession dans le cadre de
-leur activité professionnelle et que l'une au moins des conditions suivantes est
-remplie :
-
-1° La vente est effectuée sur le territoire français ;
-
-2° La vente y est assujettie à la taxe sur la valeur ajoutée.
+Pour l'application des dispositions du d du 3° de l'article L. 122-5, le
+catalogue d'une vente d'oeuvres d'art graphiques ou plastiques s'entend des
+exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères
+publiques, décrivant, en vue d'informer les acheteurs potentiels, les oeuvres
+qui seront dispersées au cours de la vente, ainsi que les conditions de
+celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute
+personne qui en fait la demande à l'officier public ou ministériel procédant à
+la vente.

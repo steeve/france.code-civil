@@ -1,23 +1,9 @@
 Article R122-5
 ----
-Le taux du droit de suite est égal à 4 % du prix de vente tel que défini à
-l'article R. 122-4 lorsque celui-ci est inférieur ou égal à 50 000 euros.
+Le prix de vente de chaque oeuvre pris en considération pour la perception du
+droit de suite est, hors taxes, le prix d'adjudication en cas de vente aux
+enchères publiques et, pour les autres ventes, le prix de cession perçu par le
+vendeur.
 
-Lorsque le prix de vente est supérieur à 50 000 euros, le droit de suite est
-fixé comme suit :
-
-4 % pour la première tranche de 50 000 euros du prix de vente tel que défini à
-l'article R. 122-4 ;
-
-3 % pour la tranche du prix de vente comprise entre 50 000,01 et 200 000 euros ;
-
-1 % pour la tranche du prix de vente comprise entre 200 000,01 et 350 000 euros
-;
-
-0,5 % pour la tranche du prix de vente comprise entre 350 000,01 et 500 000
-euros ;
-
-0,25 % pour la tranche du prix de vente dépassant 500 000 euros.
-
-Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéder
-12 500 euros.
+Le droit de suite n'est pas exigible si le prix de vente de l'oeuvre, tel que
+défini à l'alinéa précédent, est inférieur à 750 euros.

@@ -1,10 +1,15 @@
 Article R122-12
 ----
-Pour l'application des dispositions du d du 3° de l'article L. 122-5, le
-catalogue d'une vente d'oeuvres d'art graphiques ou plastiques s'entend des
-exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères
-publiques, décrivant, en vue d'informer les acheteurs potentiels, les oeuvres
-qui seront dispersées au cours de la vente, ainsi que les conditions de
-celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute
-personne qui en fait la demande à l'officier public ou ministériel procédant à
-la vente.
+Est puni de l'amende prévue pour les contraventions de la troisième classe le
+fait, pour un professionnel responsable du paiement du droit de suite en
+application de l'article R. 122-8 :
+
+1° De ne pas verser le droit de suite au bénéficiaire qui en fait la demande
+conformément au I de l'article R. 122-9 ;
+
+2° De ne pas aviser l'une des sociétés de perception et de répartition des
+droits conformément aux dispositions du premier alinéa du II de l'article R.
+122-9 ;
+
+3° De ne pas communiquer au bénéficiaire du droit de suite les informations
+prévues au I de l'article R. 122-10.
