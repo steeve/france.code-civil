@@ -15,7 +15,7 @@ Les pièces justificatives afférentes aux comptes arrêtés par les
 trésoriers-payeurs généraux peuvent être communiquées par ces comptables aux
 personnes ou juridictions visées au premier alinéa du présent article ; les
 conditions de cette communication sont précisées par instruction du ministre
-chargé des finances.
+chargé du budget.
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du
 demandeur.

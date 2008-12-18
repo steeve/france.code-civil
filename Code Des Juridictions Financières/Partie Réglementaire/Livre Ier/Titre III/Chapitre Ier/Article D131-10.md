@@ -1,8 +1,8 @@
 Article D131-10
 ----
-Une expédition de l'arrêt qui contient les dispositions relatives à chacune des
-administrations financières est adressée par le secrétaire général de la Cour
-des comptes aux directeurs des services fiscaux et aux directeurs régionaux des
+L'arrêt ou l'ordonnance qui contient les dispositions relatives à chacune des
+administrations financières est notifié par le secrétaire général de la Cour des
+comptes aux directeurs des services fiscaux et aux directeurs régionaux des
 douanes qui, dans les quinze jours de sa réception, en assurent la notification
 aux receveurs intéressés, chacun en ce qui le concerne, par lettre recommandée
 avec demande d'avis de réception.
