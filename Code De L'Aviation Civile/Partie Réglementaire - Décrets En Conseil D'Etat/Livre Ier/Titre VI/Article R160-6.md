@@ -4,7 +4,7 @@ Le collège spécialisé, dont les membres sont nommés par arrêté du ministre
 chargé de l'aviation civile, comporte quatre formations, respectivement
 intitulées " Aéronefs ", " Transport aérien " " Maintenance des aéronefs " et "
 Passagers ", constituées afin de statuer sur des manquements aux dispositions
-des livres Ier ou III. Ces formations comprennent six membres titulaires et un
+des livres Ier à III. Ces formations comprennent six membres titulaires et un
 nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile
 fixe pour chacune de ces formations la liste des manquements dont, réunie avec
 le collège permanent, elle peut connaître.

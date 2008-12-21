@@ -19,16 +19,21 @@ autorisé, conformément aux articles L. 330-2 et L. 330-3 ;
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation
 des tarifs prises en application de l'article L. 330-8 ;
 
-5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005
-du 14 décembre 2005 reprises aux articles R. 322-3 à R. 322-6, applicables au
-contrat de transport aérien en matière d'information sur l'identité du
+5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111 /
+2005 du 14 décembre 2005 reprises aux articles R. 322-3 à R. 322-6, applicables
+au contrat de transport aérien en matière d'information sur l'identité du
 transporteur aérien ;
 
 6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les
-dispositions du règlement (CE) n° 261/2004 du Parlement européen et du Conseil
+dispositions du règlement (CE) n° 261 / 2004 du Parlement européen et du Conseil
 du 11 février 2004 établissant des règles communes en matière d'indemnisation et
 d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de
 retard important d'un vol ;
 
 7. Soit ne respecte pas les obligations de fourniture des renseignements
-statistiques sur son trafic prévues à l'article R. 330-3.
+statistiques sur son trafic prévues à l'article R. 330-3 ;
+
+8. Soit ne respecte pas les obligations fixées par le règlement (CE) n° 1107 /
+2006 du Parlement européen et du Conseil du 5 juillet 2006 concernant les droits
+des personnes handicapées et des personnes à mobilité réduite lorsqu'elles font
+des voyages aériens.
