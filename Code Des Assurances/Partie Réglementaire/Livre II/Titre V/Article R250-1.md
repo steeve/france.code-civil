@@ -36,11 +36,11 @@ publics routiers de voyageurs ou de marchandises et trois par le collège des
 consommateurs du Conseil national de la consommation ;
 
 3° Lorsqu'il statue en matière d'assurance des engins de remontée mécanique et
-d'assurance des travaux du bâtiment en vertu des articles L. 220-5 et L. 243-4,
-six représentants des entreprises d'assurances opérant sur le territoire de la
-République française, nommés sur proposition des organismes professionnels, et
-six représentants des assujettis à l'obligation d'assurance, dont un
-représentant des exploitants mentionnés à l'article L. 220-1, nommé sur
+d'assurance des travaux de construction en vertu des articles L. 220-5 et L.
+243-4, six représentants des entreprises d'assurances opérant sur le territoire
+de la République française, nommés sur proposition des organismes
+professionnels, et six représentants des assujettis à l'obligation d'assurance,
+dont un représentant des exploitants mentionnés à l'article L. 220-1, nommé sur
 proposition des organismes professionnels, et cinq représentants des personnes
 soumises aux obligations prévues par les articles L. 241-1 à L. 242-1, à savoir
 notamment les architectes, les entrepreneurs, les fabricants de matériaux

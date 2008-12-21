@@ -6,7 +6,7 @@ garantie des dommages résultant de catastrophes naturelles prévue aux articles
 L. 125-1 et L. 125-2, ainsi que le refus d'assurer une personne assujettie à
 l'obligation d'assurance des véhicules à moteur en vertu de l'article L. 211-1,
 ou à l'obligation d'assurance des engins de remontée mécanique en vertu de
-l'article L. 220-1, ou à l'obligation d'assurance des travaux du bâtiment en
+l'article L. 220-1, ou à l'obligation d'assurance des travaux de construction en
 vertu des articles L. 241-1 à L. 242-1, ou à l'obligation d'assurance de
 responsabilité médicale en vertu de l'article L. 251-1, que si l'assurance a été
 sollicitée par lettre recommandée avec demande d'avis de réception au siège de
