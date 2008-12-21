@@ -16,9 +16,13 @@ vieillesse. Le directeur présente au conseil un tableau évaluatif pour l'anné
 venir des recettes et dépenses afférentes aux risques gérés par la caisse. Les
 dépenses de gestion administrative sont réparties entre ces risques suivant des
 modalités fixées par arrêté des ministres chargés de la sécurité sociale et du
-budget. Le conseil d'administration délibère également sur les comptes annuels
-de la caisse et sur le rapport annuel du directeur relatif au fonctionnement
-administratif et financier de la caisse et des correspondants locaux.
+budget.
+
+Les comptes annuels du régime sont établis par l'agent comptable et arrêtés par
+le directeur. Ils sont ensuite présentés par le directeur et l'agent comptable
+au conseil d'administration qui, au vu de l'opinion émise par l'instance chargée
+de la certification, les approuve sauf vote contraire à la majorité des deux
+tiers des membres.
 
 Le conseil d'administration émet un avis sur les questions dont il est saisi par
 le ministre chargé de la sécurité sociale, le ministre de l'intérieur et le

@@ -13,7 +13,7 @@ séance.
 
 Il est ordonnateur des dépenses et des recettes de l'établissement dans les
 conditions prévues par les décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587
-du 29 décembre 1962.
+du 29 décembre 1962. Il arrête les comptes annuels du régime.
 
 Le directeur a sous son autorité le personnel de la caisse. Il a délégation
 permanente pour signer les arrêtés de concession de pension concernant les

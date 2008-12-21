@@ -13,3 +13,6 @@ obligatoirement intervenir dans les vingt jours qui suivent la séance. En cas
 d'urgence, le ministre de la défense peut, après entente avec le ministre chargé
 de la sécurité sociale et le ministre chargé du budget, viser une délibération
 pour exécution immédiate.
+
+Au vu de l'opinion émise par l'instance chargée de la certification, il approuve
+les comptes sauf vote contraire à la majorité des deux tiers des membres.
