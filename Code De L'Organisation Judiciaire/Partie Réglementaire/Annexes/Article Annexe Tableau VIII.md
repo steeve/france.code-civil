@@ -39,7 +39,7 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 Cour d'appel d'Aix-en-Provence
 
 
-Alpes-de-Haute-Provence
+Alpes -de-Haute-Provence
 
 Digne-les-Bains
 
@@ -390,6 +390,13 @@ Ressort des tribunaux de grande instance de Grenoble et Vienne. (4)]
 Cour d'appel de Limoges
 
 
+Creuse
+
+[Guéret
+
+Ressort du tribunal de grande instance de Guéret.
+
+
 Corrèze
 
 [Tulle
@@ -399,13 +406,6 @@ Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)]
 [Brive-la-Gaillarde
 
 Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)]
-
-
-Creuse
-
-Guéret
-
-Ressort du tribunal de grande instance de Guéret.
 
 
 Haute-Vienne
@@ -421,11 +421,11 @@ Ain
 
 [Bourg-en-Bresse
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)]
+Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (9)]
 
 [Bourg-en-Bresse
 
-Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)]
+Ressort du tribunal de grande instance de Bourg-en-Bresse. (10)]
 
 
 Loire
@@ -469,11 +469,11 @@ Aveyron
 
 [Rodez
 
-Ressort des tribunaux de grande instance de Millau et Rodez. (3)]
+Ressort des tribunaux de grande instance de Millau et Rodez. (9)]
 
 [Rodez
 
-Ressort du tribunal de grande instance de Rodez. (4)]
+Ressort du tribunal de grande instance de Rodez. (10)]
 
 
 Hérault
@@ -508,11 +508,12 @@ Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
 
 Vosges
 
-[Epinal
+Epinal
 
 Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)]
 
-[Epinal
+
+Epinal
 
 Ressort du tribunal de grande instance d'Epinal. (4)]
 
@@ -572,18 +573,18 @@ Tours
 Ressort du tribunal de grande instance de Tours.
 
 
-Loiret
-
-Orléans
-
-Ressort des tribunaux de grande instance de Montargis et Orléans.
-
-
 Loir-et-Cher
 
 Blois
 
 Ressort du tribunal de grande instance de Blois.
+
+
+Loiret
+
+Orléans
+
+Ressort des tribunaux de grande instance de Montargis et Orléans.
 
 Cour d'appel de Papeete
 
@@ -641,18 +642,18 @@ Ressort des tribunaux de grande instance d'Auxerre et Sens.
 Cour d'appel de Pau
 
 
-Hautes-Pyrénées
-
-Tarbes
-
-Ressort du tribunal de grande instance de Tarbes.
-
-
 Landes
 
 Mont-de-Marsan
 
 Ressort des tribunaux de grande instance de Dax et Mont-de-Marsan.
+
+
+Hautes-Pyrénées
+
+Tarbes
+
+Ressort du tribunal de grande instance de Tarbes.
 
 
 Pyrénées-Atlantiques
@@ -921,3 +922,7 @@ Saint-Pierre-et-Miquelon
 Saint-Pierre
 
 Ressort du tribunal de première instance de Saint-Pierre.
+
+(9) Applicable jusqu'au 30 septembre 2009
+
+(10) Applicable à compter du 1er octobre 2009

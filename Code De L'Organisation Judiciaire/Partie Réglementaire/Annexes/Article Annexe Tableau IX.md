@@ -54,11 +54,12 @@ Alpes-de-Haute-Provence
 [Digne-les-Bains
 
 Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et
-Forcalquier. (3)]
+Forcalquier. (7)]
 
 [Digne-les-Bains
 
-Ressort des tribunaux d'instance de Digne-les-Bains et Manosque. (4)]
+Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Manosque.
+(8)]
 
 
 Alpes-Maritimes
@@ -294,11 +295,6 @@ Cour d'appel de Bordeaux
 
 
 Charente
-
-[Angoulême
-
-Ressort des tribunaux d'instance d'Angoulême, Barbezieux Saint-Hilaire, Cognac,
-Confolens et Ruffec. (1)]
 
 [Angoulême
 
@@ -708,11 +704,11 @@ Creuse
 
 [Guéret
 
-Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (3)]
+Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (1)]
 
 [Guéret
 
-Ressort du tribunal d'instance de Guéret. (4)]
+Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)]
 
 
 Haute-Vienne
@@ -900,11 +896,12 @@ Vosges
 [Epinal
 
 Ressort des tribunaux d'instance d'Epinal, Mirecourt, Neufchâteau, Remiremont et
-Saint-Dié-des-Vosges. (3)]
+Saint-Dié-des-Vosges. (1)]
 
 [Epinal
 
-Ressort des tribunaux d'instance d'Epinal et Saint-Dié-des-Vosges. (4)]
+Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et
+Saint-Dié-des-Vosges. (2 et 3)]
 
 Cour d'appel de Nîmes
 
@@ -1033,11 +1030,11 @@ Ressort du tribunal d'instance de Montargis. (4)]
 
 [Orléans
 
-Ressort des tribunaux d'instance d'Orléans et Pithiviers. (3)]
+Ressort des tribunaux d'instance d'Orléans et Pithiviers. (1)]
 
 [Orléans
 
-Ressort du tribunal d'instance d'Orléans. (4)]
+Ressort du tribunal d'instance d'Orléans. (2)]
 
 
 Loir-et-Cher
@@ -1330,11 +1327,11 @@ Ressort du tribunal d'instance de Dax.
 
 [Mont-de-Marsan
 
-Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (3)]
+Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]
 
 [Mont-de-Marsan
 
-Ressort du tribunal d'instance de Mont-de-Marsan. (4)]
+Ressort du tribunal d'instance de Mont-de-Marsan. (8)]
 
 
 Pyrénées-Atlantiques
@@ -1720,11 +1717,11 @@ Tarn-et-Garonne
 
 [Montauban
 
-Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (3)]
+Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (1)]
 
 [Montauban
 
-Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (4)]
+Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)]
 
 Cour d'appel de Versailles
 
@@ -1861,7 +1858,7 @@ Mamoudzou
 
 Ressort du tribunal de Première instance de Mamoudzou.
 
-(1) applicable jusqu'au 31 décembre 2008.
+(1) Applicable jusqu'au 31 décembre 2008.
 
 (2) applicable à compter du 1er janvier 2009.
 
@@ -1872,3 +1869,7 @@ Ressort du tribunal de Première instance de Mamoudzou.
 (5) applicable jusqu'au 31 décembre 2010
 
 (6) applicable à compter du 1er janvier 2011.
+
+(7) applicable jusqu'au 31 janvier 2009
+
+(8) applicable à compter du 1er février 2009

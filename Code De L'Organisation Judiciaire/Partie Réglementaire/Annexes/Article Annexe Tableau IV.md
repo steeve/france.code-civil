@@ -154,13 +154,13 @@ Volonne. (4)]
 
 Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est,
 Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole.
-(3)]
+(7)]
 
 [Manosque
 
 Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est,
 Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole.
-(4)]
+(8)]
 
 
 Alpes-Maritimes
@@ -892,16 +892,6 @@ Gond-Pontouvre, Hiersac, La Couronne, La Rochefoucauld, Mansle, Montbron,
 Montemboeuf, Rouillac, Ruelle-sur-Touvre, Ruffec, Saint-Amant-de-Boixe,
 Saint-Claud, Soyaux, Villebois-Lavalette et Villefagnan. (4)]
 
-[Barbezieux-Saint-Hilaire
-
-Cantons d'Aubeterre-sur-Dronne, Baignes-Sainte-Radegonde,
-Barbezieux-Saint-Hilaire, Brossac, Chalais et Montrnoreau-Saint-Cybard. (1)]
-
-[Cognac
-
-Cantons de Châteauneuf-sur-Charente, Cognac-Nord, Cognac-Sud, Jarnac et
-Segonzac. (1)]
-
 [Cognac
 
 Cantons d'Aubeterre-sur-Dronne, Baignes-Sainte-Radegonde,
@@ -1607,7 +1597,7 @@ Saint-Léger-sous-Beuvray. (3)]
 
 [Chalon-sur-Saône
 
-Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord,
+Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord,
 Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain,
 Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
 
@@ -1846,7 +1836,7 @@ Cayenne
 
 Cayenne
 
-Cantons d'Approuague-Kaw, Cayenne 1,r canton Nord-Ouest, Cayenne 2e canton
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton
 Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e
 canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,
 Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
@@ -2074,12 +2064,6 @@ Creuse
 
 Guéret
 
-[Aubusson
-
-Cantons d'Aubusson, Auzances, Bellegarde-en-Marche, Chambon sur-Voueize,
-Chénérailles, Crocq, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, La Courtine
-et Saint-Sulpice-les-Champs. (3)]
-
 [Bourganeuf
 
 Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière.
@@ -2087,18 +2071,12 @@ Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière.
 
 [Guéret
 
-Cantons d'Ahun, Bonnat, Boussac, Châtelus-Malvaleix, Dun-le-Palestel,
-Guéret-Nord, Guéret-Sud-Est, Guéret-Sud-Ouest, Jarnages, La Souterraine, Le
-Grand-Bourg et Saint-Vaury. (3)]
-
-[Guéret
-
 Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye,
 Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix
 Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin,
 Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La
-Courtine, La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassivière,
-Saint-Sulpice-les Champs et Saint-Vaury. (4)]
+Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et
+Saint-Vaury. (2 et 3)]
 
 
 Haute-Vienne
@@ -2148,7 +2126,7 @@ Cour d'appel de Lyon
 
 Ain
 
-[Belley (5)]
+[Belley (9)]
 
 
 Belley
@@ -2166,7 +2144,7 @@ Bourg-en-Bresse-Sud, Ceyzériat, Coligny, Montrevel en-Bresse, Péronnas,
 Pont-d'Ain, Pont-de-Vaux, Pont-de-Veyle, Saint-Trivier-de-Courtes,
 Treffort-Cuisiat et Viriat.
 
-[Belley (6)]
+[Belley (10)]
 
 Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes,
 Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Seyssel et Virieu-le-Grand.
@@ -2382,7 +2360,7 @@ Narbonne-Est, Narbonne-Ouest, Narbonne-Sud, Sigean et Tuchan.
 
 Aveyron
 
-[Millau (5)]
+[Millau (9)]
 
 [Millau
 
@@ -2410,7 +2388,7 @@ Cantons d'Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur de-Barrez,
 Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte Geneviève-sur-Argence et
 Saint-Geniez-d'Olt. (3)]
 
-[Millau (6)]
+[Millau (10)]
 
 Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est,
 Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,
@@ -2611,24 +2589,14 @@ Epinal
 
 [Epinal
 
-Cantons de Bains-les-Bains, Bruyères, Châtel-sur-Moselle, Épinal-Est,
-Épinal-Ouest, Rambervillers et Xertigny. (3)]
-
-[Epinal
-
-Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Charmes, Châtel-sur-Moselle,
-Châtenois, Coussey, Darney, Dompaire, Épinal-Est, Épinal-Ouest, Lamarche, Le
-Thillot, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Plombières-les-Bains,
-Rambervillers, Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny. (4)]
+Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle,
+Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau,
+Rambervillers et Xertigny. (2 et 3)]
 
 [Mirecourt
 
 Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel.
 (3)]
-
-[Neufchâteau
-
-Cantons de Bulgnéville, Châtenois, Coussey, Larnarche et Neufchâteau. (3)]
 
 [Remiremont
 
@@ -2857,26 +2825,13 @@ Orléans
 
 [Orléans
 
-Cantons d'Artenay, Beaugency, Châteauneuf-sur-Loire, Chécy, Cléry Saint-André,
-Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-Saint-Aubin, Meung-sur-Loire,
-Neuville-aux-Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne, Orléans-Carmes,
-Orléans-La Source, Orléans Saint-Marc-Argonne, Orléans-Saint-Marceau, Patay,
-Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (3)]
-
-[Orléans
-
 Cantons d'Artenay, Beaugency, Beaune-la-Rolande, Châteauneuf-sur-Loire, Chécy,
 Cléry-Saint-André, Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-Saint-Aubin,
 Malesherbes, Meung-sur-Loire, Neuville-aux Bois, Olivet, Orléans-Bannier,
 Orléans-Bourgogne, Orléans-Carmes, Orléans-La Source,
 Orléans-Saint-Marc-Argonne, Orléans-Saint-Marceau, Outarville, Patay,
 Pithiviers, Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et
-Saint-Jean-le-Blanc. (4)]
-
-[Pithiviers
-
-Cantons de Beaune-la-Rolande, Malesherbes, Outarville, Pithiviers et Puiseaux.
-(3)]
+Saint-Jean-le-Blanc. (2)]
 
 
 Loir-et-Cher
@@ -2908,7 +2863,7 @@ Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher.
 [Vendôme
 
 Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré,
-Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
+Savigny-sur-Braye, Selommes, Vendôme 1`t canton et Vendôme 2e canton. (3)]
 
 Cour d'appel de Paris
 
@@ -3338,21 +3293,21 @@ Mont-de-Marsan
 
 [Mont-de-Marsan
 
-Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont de-Marsan-Nord,
+Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont-de-Marsan-Nord,
 Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Sore
-et Villeneuve-de-Marsan. (3)]
+et Villeneuve-de-Marsan. (7)]
 
 [Mont-de-Marsan
 
 Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour,
 Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau, Labrit, Mimizan,
 Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos,
-Roquefort, Sabres, Saint-Sever, Sore et Villeneuve-de-Marsan. (4)]
+Roquefort, Sabres, Saint-Sever, Sore et Villeneuve-de-Marsan. (8)]
 
 [Saint-Sever
 
 Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune,
-Hagetmau, Saint-Sever. (3)]
+Hagetmau, Saint-Sever. (7)]
 
 
 Pyrénées-Atlantiques
@@ -4470,29 +4425,18 @@ Montauban
 
 [Castelsarrasin
 
-Cantons de Beaumont-de-Lomagne, Castelsarrasin 1er canton, Castelsarrasin 2e
-canton, Grisolles, Lavit, Montech, Saint-Nicolas-de-la-Grave et
-Verdun-sur-Garonne. (3)]
-
-[Castelsarrasin
-
 Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er
 canton, Castelsarrasin 2e canton, Grisolles, Lauzerte, Lavit, Moissac 1er
 canton, Moissac 2e canton, Montaigu-de-Quercy, Montech,
-Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (4)]
-
-[Moissac
-
-Cantons d'Auvillar, Bourg-de-Visa, Lauzerte, Moissac 1er canton, Moissac 2e
-canton, Montaigu-de-Quercy et Valence. (3)]
+Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]
 
 
 Montauban
 
-Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban
-1er canton, Montauban 2e canton, Montauban 3e canton, Montauban 4e canton,
-Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse,
-Saint-Antonin-Noble Val et Villebrumier.
+Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
+Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban
+4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
+Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)
 
 Cour d'appel de Versailles
 
@@ -4773,8 +4717,6 @@ Saint-Pierre
 
 Collectivité territoriale de Saint-Pierre-et-Miquelon
 
-(1) applicable jusqu'au 31 décembre 2008.
-
 (2) applicable à compter du 1er janvier 2009.
 
 (3) applicable jusqu'au 31 décembre 2009.
@@ -4784,3 +4726,11 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (5) applicable jusqu'au 31 décembre 2010.
 
 (6) applicable à compter du 1er janvier 2011.
+
+(7) applicable jusqu'au 31 janvier 2009.
+
+(8) applicable à compter du 1er février 2009.
+
+(9) applicable jusqu'au 30 septembre 2009.
+
+(10) applicable à compter du 1er octobre 2009.

@@ -1,8 +1,6 @@
 Article Annexe Tableau XIV
 ----
-Siège et ressort des tribunaux pour enfants
-
-(annexe de l'article D. 251-1)
+Siège et ressort des tribunaux pour enfants (annexe de l'article D. 251-1)
 
 
 SIÈGE
