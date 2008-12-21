@@ -1,7 +1,7 @@
 Article L3211-6
 ----
 Le médecin qui constate que la personne à laquelle il donne ses soins a besoin,
-pour l'une des causes prévues à l'article 490 du code civil, d'être protégée
+pour l'une des causes prévues à l'article 425 du code civil, d'être protégée
 dans les actes de la vie civile peut en faire la déclaration au procureur de la
 République du lieu de traitement. Cette déclaration a pour effet de placer le
 malade sous sauvegarde de justice si elle est accompagnée de l'avis conforme

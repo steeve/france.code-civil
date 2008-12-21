@@ -4,17 +4,17 @@ Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléant
 raison de deux suppléants pour un titulaire sont nommés par arrêté du préfet
 pour une période de trois ans renouvelable.
 
-La commission est présidée par le directeur de l'aviation civile ou le directeur
-du service de l'aviation civile ou son représentant. Elle comprend en outre :
+La commission est présidée par le directeur de la sécurité de l'aviation civile
+ou son représentant. Elle comprend en outre :
 
-- huit membres pour les aérodromes dont la moyenne du trafic commercial des
-trois dernières années dépasse cinq millions de passagers ;
+-huit membres pour les aérodromes dont la moyenne du trafic commercial des trois
+dernières années dépasse cinq millions de passagers ;
 
-- six membres pour les aérodromes dont la moyenne du trafic commercial des trois
+-six membres pour les aérodromes dont la moyenne du trafic commercial des trois
 dernières années dépasse 200 000 passagers mais est inférieure à cinq millions
 de passagers ;
 
-- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des
+-et quatre membres pour les aérodromes dont la moyenne du trafic commercial des
 trois dernières années est inférieure à 200 000 passagers,
 
 répartis à parts égales entre :
@@ -27,12 +27,12 @@ d'affectataire secondaire ;
 
 2° D'autre part, des représentants :
 
-- de l'exploitant de l'aérodrome ;
+-de l'exploitant de l'aérodrome ;
 
-- des personnes autorisées à occuper ou à utiliser la zone réservée de
+-des personnes autorisées à occuper ou à utiliser la zone réservée de
 l'aérodrome ;
 
-- des personnels navigants et des autres catégories de personnel employées sur
+-des personnels navigants et des autres catégories de personnel employées sur
 l'aérodrome.
 
 Dans tous les cas, cette commission comprend au moins un représentant de

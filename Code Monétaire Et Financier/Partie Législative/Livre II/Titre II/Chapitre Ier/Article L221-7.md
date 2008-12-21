@@ -18,10 +18,3 @@ IV.-Les emplois du fonds d'épargne sont fixés par le ministre chargé de
 l'économie. La commission de surveillance de la Caisse des dépôts et
 consignations présente au Parlement le tableau des ressources et emplois du
 fonds d'épargne mentionné au présent article pour l'année expirée.
-
-V.-La garantie de l'Etat dont bénéficient les sommes déposées par les épargnants
-sur les livrets dont les dépôts sont centralisés en tout ou partie dans le fonds
-d'épargne ainsi que celle dont bénéficient les créances détenues sur le fonds
-d'épargne par les établissements distribuant ces livrets sont régies par
-l'article 120 de la loi n° 2008-1443 du 30 décembre 2008 de finances
-rectificative pour 2008.

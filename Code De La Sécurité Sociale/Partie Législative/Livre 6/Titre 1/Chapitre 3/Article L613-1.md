@@ -34,4 +34,7 @@ artisanale ou commerciale ;
 
 5°) l'associé unique des entreprises unipersonnelles à responsabilité limitée
 sauf si l'activité qu'il exerce est de nature agricole au sens de l'article 1144
-du code rural.
+du code rural ;
+
+6° Les personnes bénéficiaires de l'agrément prévu à l'article L. 472-1 du code
+de l'action sociale et des familles.

@@ -13,7 +13,7 @@ l'énergie, sont autorisées à déduire des cotisations de taxe dues par elles 
 titre de leurs installations situées dans la zone surveillée par le réseau de
 mesure de ces organismes les contributions ou dons de toute nature qu'elles ont
 versés à ceux-ci dans les douze mois précédant la date limite de dépôt de la
-déclaration. Cette déduction s'exerce dans la limite de 152500 euros ou à
+déclaration. Cette déduction s'exerce dans la limite de 171000 euros ou à
 concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de
