@@ -1,7 +1,7 @@
 Article R5122-9
 ----
 En cas de fermeture temporaire de l'établissement prévu au 4° de l'article R.
-5122-8, lorsque la suspension d'activité se prolonge au-delà de quatre semaines,
+5122-8, lorsque la suspension d'activité se prolonge au-delà de six semaines,
 les salariés sont considérés comme étant à la recherche d'un emploi, alors même
 qu'ils n'ont pas fait l'objet d'une mesure de licenciement, pour l'ouverture des
 droits aux allocations prévues en faveur des salariés dont le contrat de travail
