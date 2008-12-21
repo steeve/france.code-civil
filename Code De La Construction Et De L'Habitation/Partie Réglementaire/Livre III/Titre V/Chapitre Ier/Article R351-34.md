@@ -11,8 +11,6 @@ suit :
 
 - deux représentants du ministre chargé de la sécurité sociale ;
 
-- un représentant du ministre chargé de l'action sociale ;
-
 - un représentant du ministre chargé de l'agriculture ;
 
 - le directeur général de la Caisse des dépôts et consignations ou son
