@@ -8,8 +8,25 @@ des opérations de l'institution ou de l'union, par le montant moyen des
 provisions mathématiques constituées, une comparaison est effectuée entre les
 deux montants suivants :
 
-1° Les provisions mathématiques recalculées avec le taux de rendement réel des
-actifs de l'institution ou de l'union diminué d'un cinquième ;
+1° Les provisions mathématiques recalculées en actualisant les paiements futurs
+suivant l'une des trois méthodes suivantes :
+
+a) Un taux unique égal à 60 % du taux moyen semestriel des emprunts d'Etat ;
+
+b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenne
+pondérée, par le montant au bilan de chacune des catégories d'actifs auxquels
+ils se rapportent, des taux suivants :
+
+-pour les obligations non arrivées à terme à la date d'échéance considérée, le
+taux moyen semestriel des emprunts d'Etat ;
+
+-pour les autres actifs, coupons et amortissements d'obligation, 75 % du taux
+moyen semestriel des emprunts d'Etat si la date d'échéance considérée est
+inférieure à cinq ans, 60 % du taux moyen semestriel des emprunts d'Etat sinon ;
+
+c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle, un
+taux égal au taux de rendement futur prudemment estimé des actifs affectés à la
+représentation des engagements réglementés.
 
 2° Les provisions mathématiques à l'inventaire.
 
