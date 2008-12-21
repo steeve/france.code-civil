@@ -1,11 +1,25 @@
 Article R331-5-1
 ----
-I. - La provision pour risque d'exigibilité est constituée lorsque les
+I. ― La provision pour risque d'exigibilité est constituée lorsque les
 placements mentionnés à l'article R. 332-20 se trouvent en situation de
 moins-value latente nette globale. Une moins-value latente nette globale des
 placements mentionnés à l'article R. 332-20 est constatée lorsque la valeur
 nette comptable de ces placements est supérieure à la valeur globale de ces
-mêmes placements évalués selon les règles prévues à l'article R. 332-20-1.
+mêmes placements évalués de la manière suivante :
+
+a) Pour les valeurs mobilières cotées et les titres cotés mentionnés au a de
+l'article R. 332-20-1, la valeur retenue est le cours moyen calculé sur les
+trente derniers jours précédant le jour de l'inventaire ou, à défaut, le dernier
+cours coté avant cette date ;
+
+b) Pour les actions de sociétés d'investissement à capital variable et les parts
+de fonds communs de placement mentionnés au c de l'article R. 332-20-1, la
+valeur retenue est la moyenne des prix de rachat publiés au cours des trente
+derniers jours précédant le jour de l'inventaire ou, à défaut, le dernier prix
+de rachat publié avant cette date ;
+
+c) Pour les autres actifs, leur valeur est évaluée selon les règles prévues à
+l'article R. 332-20-1.
 
 1° Lorsque l'entreprise, avant dotation à la provision pour risque
 d'exigibilité, satisfait à la représentation de ses engagements réglementés et à
@@ -21,15 +35,15 @@ placements mentionnés à l'article R. 332-20.
 au titre de l'exercice est égale à la moins-value latente nette globale
 constatée sur les placements mentionnés à l'article R. 332-20.
 
-Pour les calculs mentionnés aux alinéas précédents, les valeurs déterminées
-selon l'article R. 332-20-1 prennent en compte les moins-values latentes des
-opérations sur instruments financiers à terme prévues aux articles R. 332-45 à
-R. 332-47 ayant comme sous-jacent les actifs mentionnés à l'article R. 332-20.
-Ces moins-values latentes sont prises en compte à hauteur de la partie excédant
-la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne
-sont prises en compte que si elles sont garanties dans les conditions prévues à
-l'article R. 332-56.
+Pour les calculs mentionnés aux alinéas précédents, les valeurs mentionnées aux
+a, b et c prennent en compte les moins-values latentes des opérations sur
+instruments financiers à terme prévues aux articles R. 332-45 à R. 332-47 ayant
+comme sous-jacent les actifs mentionnés à l'article R. 332-20. Ces moins-values
+latentes sont prises en compte à hauteur de la partie excédant la valeur des
+titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en
+compte que si elles sont garanties dans les conditions prévues à l'article R.
+332-56.
 
-II. - La provision pour frais d'acquisition reportés doit être constituée pour
-un montant égal au montant des frais d'acquisition reportés en application des
+II.-La provision pour frais d'acquisition reportés doit être constituée pour un
+montant égal au montant des frais d'acquisition reportés en application des
 dispositions de l'article R. 332-35.
