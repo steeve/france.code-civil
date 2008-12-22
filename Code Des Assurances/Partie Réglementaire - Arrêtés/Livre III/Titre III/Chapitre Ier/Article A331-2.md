@@ -7,8 +7,32 @@ bénéfices dans les conditions définies à l'article A. 132-2 des contrats de
 l'entreprise par le montant moyen des provisions mathématiques constituées, une
 comparaison entre les deux montants suivants doit être effectuée :
 
-1° Les provisions mathématiques recalculées avec le taux de rendement réel des
-actifs de l'entreprise diminué d'un cinquième ;
+1° Les provisions mathématiques recalculées en actualisant les paiements futurs
+à un taux déterminé suivant l'une des trois méthodes suivantes :
+
+a) Un taux unique égal à 60 % du taux moyen des emprunts de l'Etat français
+calculé sur base semestrielle ;
+
+b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenne
+pondérée, par le montant au bilan de chacune des catégories d'actifs auxquels
+ils se rapportent, des taux suivants :
+
+-pour obligations et titres assimilés mentionnés aux 1°, 2°, 2° bis et 2° ter de
+l'article R. 332-2 qui ne sont pas arrivés à terme à la date d'échéance de
+paiement considérée, le taux moyen des emprunts de l'Etat français calculé sur
+base semestrielle ;
+
+-pour les autres actifs, le réemploi des coupons et des obligations et titres
+assimilés échus :
+
+75 % du taux moyen des emprunts de l'Etat français calculé sur base semestrielle
+si la date d'échéance de paiement considérée est inférieure à 5 ans ;
+
+60 % de ce même taux moyen sinon ;
+
+c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle, un
+taux égal au taux de rendement futur prudemment estimé des actifs affectés à la
+représentation des engagements réglementés.
 
 2° Les provisions mathématiques à l'inventaire.
 
