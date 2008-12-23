@@ -1,4 +1,4 @@
-Article A212-18
+Article A212-51-1
 ----
 Lorsque la certification est réalisée par validation des acquis de l'expérience,
 le dossier de candidature est composé comme suit :
