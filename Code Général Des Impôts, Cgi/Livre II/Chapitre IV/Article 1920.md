@@ -25,6 +25,3 @@ et dès l'exigibilité desdits versements.
 4. Le privilège institué par le 1 peut être exercé pour le recouvrement des
 acomptes qui doivent être versés en l'acquit de l'impôt sur les sociétés dans
 les conditions prévues par l'article 1668.
-
-5. Le privilège peut être exercé pour le recouvrement de l'imposition
-forfaitaire annuelle des sociétés instituée par l'article 223 septies.

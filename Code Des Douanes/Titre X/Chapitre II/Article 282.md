@@ -14,9 +14,8 @@ réel est doublé en cas d'existence d'un autre manquement au cours des trente
 derniers jours.
 
 Le montant de la taxation forfaitaire ou au réel prévue au troisième alinéa est
-communiqué au redevable selon les modalités fixées par arrêté conjoint des
-ministres chargés des transports et du budget. Elle est exigible dès sa
-communication au redevable.
+communiqué au redevable selon les modalités fixées par décret en Conseil d'Etat.
+Elle est exigible dès sa communication au redevable.
 
 Lorsque l'irrégularité est constatée par des agents de la police nationale, de
 la gendarmerie nationale ou du contrôle des transports terrestres, ces derniers

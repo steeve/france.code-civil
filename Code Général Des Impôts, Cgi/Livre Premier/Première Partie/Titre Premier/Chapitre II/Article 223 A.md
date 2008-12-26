@@ -9,18 +9,17 @@ sociétés du groupe, ou de sociétés ou d'établissements stables, ci-après
 désignés par les termes : sociétés intermédiaires, détenus à 95 % au moins par
 la société mère, de manière continue au cours de l'exercice, directement ou
 indirectement par l'intermédiaire de sociétés du groupe ou de sociétés
-intermédiaires. Dans ce cas, elle est également redevable de l'imposition
-forfaitaire annuelle due par les sociétés du groupe. Le capital de la société
-mère ne doit pas être détenu à 95 % au moins, directement ou indirectement, par
-une autre personne morale soumise à l'impôt sur les sociétés dans les conditions
-de droit commun ou selon les modalités prévues à l'article 214. Toutefois, le
-capital de la société mère peut être détenu indirectement à 95 % ou plus par une
-autre personne morale soumise à l'impôt sur les sociétés dans les conditions de
-droit commun ou selon les modalités prévues à l'article 214, par l'intermédiaire
-d'une ou plusieurs personnes morales non soumises à cet impôt dans ces mêmes
-conditions ou par l'intermédiaire d'une ou plusieurs personnes morales qui y
-sont soumises dans ces mêmes conditions mais dont le capital n'est pas détenu,
-directement ou indirectement, par cette autre personne morale à 95 % au moins.
+intermédiaires. Le capital de la société mère ne doit pas être détenu à 95 % au
+moins, directement ou indirectement, par une autre personne morale soumise à
+l'impôt sur les sociétés dans les conditions de droit commun ou selon les
+modalités prévues à l'article 214. Toutefois, le capital de la société mère peut
+être détenu indirectement à 95 % ou plus par une autre personne morale soumise à
+l'impôt sur les sociétés dans les conditions de droit commun ou selon les
+modalités prévues à l'article 214, par l'intermédiaire d'une ou plusieurs
+personnes morales non soumises à cet impôt dans ces mêmes conditions ou par
+l'intermédiaire d'une ou plusieurs personnes morales qui y sont soumises dans
+ces mêmes conditions mais dont le capital n'est pas détenu, directement ou
+indirectement, par cette autre personne morale à 95 % au moins.
 
 Par exception à la première phrase du premier alinéa, lorsqu'une personne morale
 soumise à l'impôt sur les sociétés dans les conditions de droit commun établit
@@ -155,7 +154,7 @@ si ces sociétés continuent à remplir les conditions prévues à la présente
 section.
 
 Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
-sociétés, de l'imposition forfaitaire annuelle et, le cas échéant, des intérêts
-de retard, majorations et amendes fiscales correspondantes, dont la société mère
-est redevable, à hauteur de l'impôt et des pénalités qui seraient dus par la
-société si celle-ci n'était pas membre du groupe.
+sociétés et, le cas échéant, des intérêts de retard, majorations et amendes
+fiscales correspondantes, dont la société mère est redevable, à hauteur de
+l'impôt et des pénalités qui seraient dus par la société si celle-ci n'était pas
+membre du groupe.

@@ -8,8 +8,6 @@ un revenu distribué au sens des articles 109 à 111. Cet avantage est exonéré
 d'impôt entre les mains du bénéficiaire, sauf si celui-ci est une personne
 morale passible de l'impôt sur les sociétés ou une entreprise imposable à
 l'impôt sur le revenu selon les règles des bénéfices industriels et commerciaux.
-Si aucune opération productive de recettes n'est réalisée avec des tiers,
-l'article 223 septies ne s'applique pas.
 
 Ces dispositions ne sont pas applicables aux personnes morales qui réalisent
 avec des tiers des opérations productives de recettes, à moins qu'il ne s'agisse

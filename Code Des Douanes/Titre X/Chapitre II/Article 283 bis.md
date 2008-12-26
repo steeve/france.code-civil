@@ -14,4 +14,4 @@ transiger avec les personnes poursuivies dans les conditions prévues à l'artic
 
 Ces agents peuvent immobiliser le véhicule en infraction dans les conditions
 fixées au chapitre V du titre II du livre III du code de la route afin d'assurer
-la perception de l'amende mentionnée à l'article 283 du présent code.
+la perception de l'amende mentionnée à l'article 413 du présent code.
