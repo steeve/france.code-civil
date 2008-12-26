@@ -11,6 +11,9 @@ ou l'autre de ses parents ou à l'égard de l'un et de l'autre ;
 se trouvent hors d'état de faire face à leurs obligations d'entretien ou au
 versement d'une pension alimentaire mise à leur charge par décision de justice.
 
-L'allocation de soutien familial est ouverte de plein droit aux bénéficiaires de
-l'allocation de parent isolé qui assument la charge effective et permanente d'un
-ou plusieurs enfants remplissant l'une des conditions précédemment mentionnées.
+L'allocation de soutien familial est ouverte de plein droit aux bénéficiaires du
+revenu de solidarité active visés à l'article L. 262-9 du code de l'action
+sociale et des familles, dont les ressources n'excèdent pas le montant
+forfaitaire majoré mentionné au même article, qui assument la charge effective
+et permanente d'un ou plusieurs enfants remplissant l'une des conditions
+précédemment mentionnées.
