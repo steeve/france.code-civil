@@ -258,9 +258,7 @@ versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décem
 30° bis L'indemnité de départ volontaire versée en application du I de l'article
 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
-31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
-dans la limite globale de 1 525 € par salarié, appréciée sur l'ensemble de la
-période couverte par l'accord mentionné au 2° du même article ;
+31° (Périmé)
 
 31° bis L'avantage résultant pour le salarié de la remise gratuite par son
 employeur de matériels informatiques et de logiciels nécessaires à leur
