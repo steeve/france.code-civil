@@ -67,34 +67,34 @@ le plan.
 
 6. Lorsque les intéressés demandent la délivrance des droits constitués à leur
 profit au titre de la participation aux résultats de l'entreprise en application
-du titre II du livre III de la troisième partie du code du travail, le revenu
-constitué par la différence entre le montant de ces droits et le montant des
-sommes résultant de la répartition de la réserve spéciale de participation dans
-les conditions prévues aux articles L. 3324-5 à L. 3324-8 du même code ;
+du chapitre II du titre IV du livre IV du code du travail, le revenu constitué
+par la différence entre le montant de ces droits et le montant des sommes
+résultant de la répartition de la réserve spéciale de participation dans les
+conditions prévues à l'article L. 442-4 du même code ;
 
 7. Lorsque les intéressés demandent la délivrance des sommes ou valeurs
-provenant d'un plan d'épargne entreprise au sens du chapitre II du titre III du
-livre III de la troisième partie du code du travail, le revenu constitué par la
-différence entre le montant de ces sommes ou valeurs et le montant des sommes
-versées dans le plan augmentées, le cas échéant, des sommes attribuées au titre
-de la réserve spéciale de la participation des salariés aux résultats de
-l'entreprise et des sommes versées dans le ou les précédents plans, à
-concurrence du montant des sommes transférées dans les conditions prévues aux
-articles L. 3335-1 et L. 3335-2 du code du travail, l'opération de transfert ne
-constituant pas une délivrance des sommes concernées ;
+provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du
+livre IV du code du travail, le revenu constitué par la différence entre le
+montant de ces sommes ou valeurs et le montant des sommes versées dans le plan
+augmentées, le cas échéant, des sommes attribuées au titre de la réserve
+spéciale de la participation des salariés aux résultats de l'entreprise et des
+sommes versées dans le ou les précédents plans, à concurrence du montant des
+sommes transférées dans les conditions prévues aux articles L. 442-5 et L. 443-2
+du code du travail, l'opération de transfert ne constituant pas une délivrance
+des sommes concernées ;
 
-8. Les répartitions de sommes ou valeurs effectué es par un fonds commun de
+8. Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II ou aux I et III bis
 de l'article 163 quinquies B, les distributions effectuées par les sociétés de
-capital-risque dans les conditions prévues aux deuxième à sixième alinéas du II
-de l'article 163 quinquies C et celles effectuées par les sociétés
-unipersonnelles d'investissement à risque dans les conditions prévues à
-l'article 163 quinquies C bis, lors de leur versement, ainsi que les gains nets
-mentionnés aux 1 et 1 bis du III de l'article 150-0 A ;
+capital-risque dans les conditions prévues au 2 du II de l'article 163 quinquies
+C et celles effectuées par les sociétés unipersonnelles d'investissement à
+risque dans les conditions prévues à l'article 163 quinquies C bis, lors de leur
+versement, ainsi que les gains nets mentionnés aux 1 et 1 bis du III de
+l'article 150-0 A ;
 
 8 bis. Les revenus, produits et gains non pris en compte pour le calcul du
 prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A, en
-application du II de l'article 155 B, lors de leur perception ;
+application du II de l'article 81 C, lors de leur perception ;
 
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du

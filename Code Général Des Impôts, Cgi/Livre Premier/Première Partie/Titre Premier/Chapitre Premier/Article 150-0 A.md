@@ -8,8 +8,8 @@ d'une fiducie, de valeurs mobilières, de droits sociaux, de titres mentionnés 
 1° de l'article 118 et aux 6° et 7° de l'article 120, de droits portant sur ces
 valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits
 ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces
-cessions excède, par foyer fiscal, 25 000 euros pour l'imposition des revenus de
-l'année 2008 et 25 730 euros pour l'imposition des revenus de l'année 2009. Pour
+cessions excède, par foyer fiscal, 25 000 € pour l'imposition des revenus de
+l'année 2008 et 25 730 € pour l'imposition des revenus de l'année 2009. Pour
 l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
 d'euros la plus proche, est actualisé chaque année dans la même proportion que
 la limite supérieure de la première tranche du barème de l'impôt sur le revenu
@@ -45,8 +45,8 @@ ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours 
 cinq dernières années, la plus-value réalisée lors de la cession de ces droits,
 pendant la durée de la société, à l'une des personnes mentionnées au présent
 alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
-un tiers dans un délai de cinq ans. A défaut, la plus-value est imposée au nom
-du premier cédant au titre de l'année de la revente des droits au tiers.
+un tiers dans un délai de cinq ans.A défaut, la plus-value est imposée au nom du
+premier cédant au titre de l'année de la revente des droits au tiers.
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
 l'option pour l'imputation des pertes a été exercée dans les conditions du
@@ -229,7 +229,66 @@ dans les conditions du 9 de l'article L. 214 36 du code monétaire et financier,
 apports, ou le prix d'acquisition des parts s'il est différent du montant des
 apports. Pour l'appréciation de la limite mentionnée au 1 du I, le montant des
 sommes ou valeurs ainsi distribuées est ajouté au montant des cessions réalisées
-au cours de la même année.
+au cours de la même année (1).
+
+8. Aux gains nets réalisés, directement, par personne interposée ou par
+l'intermédiaire d'une fiducie, par les salariés ou par les dirigeants soumis au
+régime fiscal des salariés, des sociétés de capital-risque, des sociétés de
+gestion de fonds communs de placement à risques ou de sociétés de
+capital-risque, ou des sociétés qui réalisent des prestations de services liées
+à la gestion des fonds communs de placement à risques ou des sociétés de
+capital-risque, lors de la cession ou du rachat de parts de fonds communs de
+placement à risques ou d'actions de sociétés de capital-risque donnant lieu à
+des droits différents sur l'actif net ou les produits du fonds ou de la société
+et attribuées en fonction de la qualité de la personne, sous réserve du respect
+des conditions suivantes :
+
+1° Les parts ou actions cédées ont été souscrites ou acquises moyennant un prix
+correspondant à la valeur des parts ou actions ;
+
+2° L'ensemble des parts d'un même fonds commun de placement à risques ou des
+actions d'une même société de capital-risque donnant lieu à des droits
+différents sur l'actif net ou les produits du fonds ou de la société et
+attribuées en fonction de la qualité de la personne satisfont aux conditions
+suivantes :
+
+a) Elles constituent une seule et même catégorie de parts ou actions ;
+
+b) Elles représentent au moins 1 % du montant total des souscriptions dans le
+fonds ou la société ou, à titre dérogatoire, un pourcentage inférieur fixé par
+décret, après avis de l'Autorité des marchés financiers ;
+
+c) Les sommes ou valeurs auxquelles donnent droit ces parts ou actions sont
+versées au moins cinq ans après la date de la constitution du fonds ou de
+l'émission de ces actions et, pour les parts de fonds communs de placement à
+risques, après le remboursement des apports des autres porteurs de parts ;
+
+3° Le cédant perçoit une rémunération normale au titre du contrat de travail ou
+du mandat social qui lui a permis de souscrire ou d'acquérir ces parts ou
+actions.
+
+Ces dispositions s'appliquent également dans les mêmes conditions :
+
+1° Aux distributions mentionnées au 7 perçues par les personnes visées au
+premier alinéa du présent 8 et afférentes à des parts de fonds communs de
+placement à risques donnant lieu à des droits différents sur l'actif net ou les
+produits du fonds et attribuées en fonction de la qualité de la personne ;
+
+2° Aux gains nets mentionnés au premier alinéa du présent 8 réalisés par les
+salariés ou dirigeants soumis au régime fiscal des salariés d'une entité,
+constituée dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen ayant conclu avec la France
+une convention fiscale qui contient une clause d'assistance administrative en
+vue de lutter contre la fraude ou l'évasion fiscale et dont l'objet principal
+est d'investir dans des sociétés dont les titres ne sont pas admis aux
+négociations sur un marché d'instruments financiers français ou étranger, ou
+d'une société qui réalise des prestations de services liées à la gestion de
+cette entité, lorsque les titres cédés ou rachetés sont des droits
+représentatifs d'un placement financier dans cette entité donnant lieu à des
+droits différents sur l'actif net ou les produits de l'entité et sont attribués
+en fonction de la qualité de la personne, ainsi qu'aux distributions,
+représentatives des plus-values réalisées par l'entité, perçues par ces mêmes
+salariés ou dirigeants en rémunération de ces droits.
 
 III.-Les dispositions du I ne s'appliquent pas :
 

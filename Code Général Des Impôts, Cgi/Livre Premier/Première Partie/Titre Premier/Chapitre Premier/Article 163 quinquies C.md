@@ -2,16 +2,44 @@ Article 163 quinquies C
 ----
 I. (Sans objet)
 
-II.-Les distributions par les sociétés de capital-risque qui remplissent les
+II.-1) Les distributions par les sociétés de capital-risque qui remplissent les
 conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 précitée, prélevées sur des plus-values nettes de cessions de titres réalisées
 par la société au cours des exercices clos à compter du 31 décembre 2001 sont
 soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition
 prévu au 2 de l'article 200 A.
 
-Toutefois, les distributions prélevées sur les bénéfices réalisés dans le cadre
-de leur objet social défini à l'article 1er-1 de la loi n° 85-695 du 11 juillet
-1985 précitée sont exonérées lorsque les conditions suivantes sont remplies :
+Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu
+à des droits différents sur l'actif net ou les produits de la société et
+attribuées en fonction de la qualité de la personne et sont versées aux salariés
+ou dirigeants mentionnés au premier alinéa du 8 du II de l'article 150-0 A, ce
+taux s'applique sous réserve du respect des conditions suivantes :
+
+1° Ces actions ont été souscrites ou acquises, moyennant un prix correspondant à
+la valeur des actions, par le salarié ou le dirigeant bénéficiaire de la
+distribution ;
+
+2° L'ensemble des actions d'une même société de capital-risque donnant lieu à
+des droits différents sur l'actif net ou les produits de la société et
+attribuées en fonction de la qualité de la personne satisfont aux conditions
+suivantes :
+
+a) Elles constituent une seule et même catégorie d'actions ;
+
+b) Elles représentent au moins 1 % du montant total des souscriptions dans la
+société ou, à titre dérogatoire, un pourcentage inférieur fixé par décret, après
+avis de l'Autorité des marchés financiers ;
+
+c) Les distributions auxquelles donnent droit ces actions sont versées au moins
+cinq ans après la date d'émission de ces actions ;
+
+3° Le salarié ou dirigeant bénéficiaire de la distribution perçoit une
+rémunération normale au titre du contrat de travail ou du mandat social qui lui
+a permis de souscrire ou d'acquérir ces actions.
+
+2) Les distributions prélevées sur les bénéfices réalisés dans le cadre de leur
+objet social défini à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
+précitée sont exonérées lorsque les conditions suivantes sont remplies :
 
 1° L'actionnaire a son domicile fiscal en France ou dans un pays ou territoire
 ayant conclu avec la France une convention d'assistance administrative en vue de

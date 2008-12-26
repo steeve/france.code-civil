@@ -1,6 +1,6 @@
 Article L136-7
 ----
-I.-Les produits de placements sur lesquels est opéré le prélèvement prévu à
+I. - Les produits de placements sur lesquels est opéré le prélèvement prévu à
 l'article 125 A du code général des impôts, ainsi que les produits de même
 nature retenus pour l'établissement de l'impôt sur le revenu lorsque la personne
 qui en assure le paiement est établie en France, sont assujettis à une
@@ -22,7 +22,7 @@ perçus dans un plan d'épargne en actions défini au 5° du II du présent arti
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts.
 
-II.-Sont également assujettis à la contribution selon les modalités prévues au
+II. - Sont également assujettis à la contribution selon les modalités prévues au
 premier alinéa du I, pour la part acquise à compter du 1er janvier 1997 et, le
 cas échéant, constatée à compter de cette même date en ce qui concerne les
 placements visés du 3° au 9° ;
@@ -113,12 +113,11 @@ des sommes concernées ;
 placement à risques dans les conditions prévues aux I et II ou aux I et III bis
 de l'article 163 quinquies B du code général des impôts, les distributions
 effectuées par les sociétés de capital-risque dans les conditions prévues aux
-deuxième à cinquième alinéas du I et aux deuxième à sixième alinéas du II de
-l'article 163 quinquies C du même code et celles effectuées par les sociétés
-unipersonnelles d'investissement à risque dans les conditions prévues à
-l'article 163 quinquies C bis du même code, lors de leur versement, ainsi que
-les gains nets mentionnés aux 1 et 1 bis du III de l'article 150-0 A du même
-code ;
+deuxième à cinquième alinéas du I et au 2 du II de l'article 163 quinquies C du
+même code et celles effectuées par les sociétés unipersonnelles d'investissement
+à risque dans les conditions prévues à l'article 163 quinquies C bis du même
+code, lors de leur versement, ainsi que les gains nets mentionnés aux 1 et 1 bis
+du III de l'article 150-0 A du même code ;
 
 8° bis Les revenus, produits et gains non pris en compte pour le calcul du
 prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A du
@@ -130,11 +129,11 @@ en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
 lors de l'expiration du contrat.
 
-III.-Paragraphe abrogé
+III. - Paragraphe abrogé
 
-IV.-1. La contribution sociale généralisée due par les établissements payeurs au
-titre des mois de décembre et janvier sur les revenus de placement mentionnés au
-présent article, à l'exception de celle due sur les revenus et plus-values
+IV. - 1. La contribution sociale généralisée due par les établissements payeurs
+au titre des mois de décembre et janvier sur les revenus de placement mentionnés
+au présent article, à l'exception de celle due sur les revenus et plus-values
 mentionnés aux 1° et 2° du I, fait l'objet d'un versement déterminé sur la base
 du montant des revenus de placement soumis l'année précédente à la contribution
 sociale généralisée au titre des mois de décembre et janvier.
@@ -164,7 +163,7 @@ général des impôts s'applique à cette différence.L'assiette de cette majora
 est toutefois limitée à la différence entre le montant du versement calculé dans
 les conditions du 1 et celui réduit dans les conditions du 2.
 
-V.-La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
+V. - La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code
 général des impôts.
@@ -173,6 +172,6 @@ La contribution visée au 1° du I est assise, contrôlée et recouvrée selon l
 mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le
 prélèvement mentionné à l'article 117 quater du code général des impôts.
 
-VI.-La contribution portant sur les plus-values mentionnées au 2° du I est
+VI. - La contribution portant sur les plus-values mentionnées au 2° du I est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que l'impôt sur le revenu.
