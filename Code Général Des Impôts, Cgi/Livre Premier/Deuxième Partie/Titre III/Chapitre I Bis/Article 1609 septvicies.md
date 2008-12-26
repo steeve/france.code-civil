@@ -11,8 +11,9 @@ II.-La taxe est assise sur le poids de viande avec os des animaux abattus.
 III.-Le fait générateur de la taxe est constitué par l'opération d'abattage.
 
 IV.-Un arrêté conjoint du ministre chargé du budget et du ministre chargé de
-l'agriculture fixe les tarifs d'imposition par tonne de viande avec os et par
-espèce animale dans la limite de 150 Euros.
+l'agriculture fixe les taux d'imposition par tonne de viande avec os et par
+espèce animale dans la limite de 150 euros. Ce montant peut être modulé selon
+que l'abattoir est situé en métropole ou outre-mer.
 
 V.-La taxe est déclarée et liquidée, selon le cas, sur les déclarations
 mentionnées aux articles 287, 298 bis ou 1693 bis, ou sur une déclaration dont
@@ -33,8 +34,10 @@ fixée par décret dans la limite de 3 % de ce produit, qui est destinée à
 financer la gestion des opérations imputées sur le fonds.
 
 Ce fonds a pour objet de contribuer au financement des dépenses du service
-public de l'équarrissage ainsi qu'au financement des mesures concourant au
-stockage, au transport et à l'élimination des farines d'origine animale.
+public de l'équarrissage et d'aides à la collecte et au traitement des
+sous-produits animaux des exploitations agricoles ainsi qu'au financement des
+mesures concourant au stockage, au transport et à l'élimination des farines
+d'origine animale.
 
 VII.-Un décret en Conseil d'Etat précise les conditions d'application du présent
 article et notamment les obligations déclaratives des redevables.

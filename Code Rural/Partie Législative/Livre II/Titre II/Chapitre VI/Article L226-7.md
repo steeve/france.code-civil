@@ -9,6 +9,11 @@ personnes morales, ayant entre elles un lien de capital, exercent l'une une
 mission d'équarrissage et l'autre une activité de commerce et de transport
 d'animaux, de viandes ou de produits carnés destinés à la consommation humaine.
 
+Elles ne font pas obstacle à ce que des organisations professionnelles ou autres
+personnes morales, ayant une activité de commerce et de transport d'animaux, de
+viandes ou de produits carnés destinés à la consommation humaine, créent une
+association ou une autre personne morale qui exerce une mission d'équarrissage.
+
 Dans tous les cas, les activités d'équarrissage, d'une part, et de commerce et
 de transport d'animaux, de viandes ou de produits carnés destinés à la
 consommation humaine, d'autre part, doivent être menées sur des sites
