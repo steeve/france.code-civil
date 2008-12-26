@@ -36,4 +36,6 @@ signature est postérieure à la date de révision du barème ;
 
 - le montant forfaitaire des charges ;
 
-- les équivalences de loyer et de charges locatives.
+- les équivalences de loyer et de charges locatives ;
+
+― le terme constant de la participation personnelle du ménage.

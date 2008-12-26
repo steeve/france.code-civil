@@ -16,14 +16,16 @@ janvier. Sont indexés sur l'évolution de l'indice de référence des loyers d�
 rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre
 1986 les paramètres suivants :
 
--les plafonds de loyers ;
+- les plafonds de loyers ;
 
--les plafonds des charges de remboursement de contrats de prêts dont la
+- les plafonds des charges de remboursement de contrats de prêts dont la
 signature est postérieure à la date de révision du barème ;
 
--le montant forfaitaire des charges ;
+- le montant forfaitaire des charges ;
 
--les équivalences de loyer et de charges locatives.
+- les équivalences de loyer et de charges locatives ;
+
+― le terme constant de la participation personnelle du ménage.
 
 Le loyer principal effectivement payé n'est pris en considération que dans la
 limite du prix licite et de plafonds mensuels fixés par arrêté interministériel.

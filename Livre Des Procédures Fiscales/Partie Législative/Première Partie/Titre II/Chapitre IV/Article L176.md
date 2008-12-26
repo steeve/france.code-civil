@@ -18,14 +18,12 @@ délibérés auront été établis sur les périodes d'imposition non prescrites
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
 titre de laquelle la taxe est devenue exigible conformément aux dispositions du
-2 de l'article 269 du code général des impôts lorsque l'administration a dressé
-un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
-16-0 BA du présent livre au titre d'une année postérieure ou lorsque le
-contribuable exerce une activité occulte. L'activité occulte est réputée exercée
-lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
-qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un
-centre de formalités des entreprises ou au greffe du tribunal de commerce, soit
-s'est livré à une activité illicite (2).
+2 de l'article 269 du code général des impôts, lorsque le contribuable n'a pas
+déposé dans le délai légal les déclarations qu'il était tenu de souscrire et n'a
+pas fait connaître son activité à un centre de formalités des entreprises ou au
+greffe du tribunal de commerce, ou lorsque l'administration a dressé un
+procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
+16-0 BA, au titre d'une année postérieure.
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du
 début de la première période sur laquelle s'exerce le droit de reprise en

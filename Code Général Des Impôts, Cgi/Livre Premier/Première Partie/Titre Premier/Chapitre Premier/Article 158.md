@@ -94,8 +94,8 @@ L'application de ces dispositions est conditionnée à la ventilation par les
 organismes ou sociétés en cause de leurs distributions ou répartitions en
 fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 euros pour les contribuables
-célibataires, divorcés ou veufs et de 3 050 euros pour les contribuables mariés
+5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables
+célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés
 soumis à une imposition commune sur le montant net des revenus déterminé dans
 les conditions du 2° et après déduction des dépenses effectuées en vue de leur
 acquisition ou conservation.
@@ -130,15 +130,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 592 euros. Ce plafond s'applique au montant total des pensions et
+excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 367 euros, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 367 euros est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
@@ -218,11 +218,18 @@ Ces dispositions s'appliquent :
 1° Aux titulaires de revenus passibles de l'impôt sur le revenu, dans la
 catégorie des bénéfices industriels et commerciaux ou des bénéfices non
 commerciaux ou des bénéfices agricoles, réalisés par des contribuables soumis à
-un régime réel d'imposition qui ne sont pas adhérents d'un centre de gestion ou
-association agréé défini aux articles 1649 quater C à 1649 quater H, à
-l'exclusion des membres d'un groupement ou d'une société mentionnés aux articles
-8 à 8 quinquies et des conjoints exploitants agricoles de fonds séparés ou
-associés d'une même société ou groupement adhérant à l'un de ces organismes ;
+un régime réel d'imposition :
+
+a) Qui ne sont pas adhérents d'un centre de gestion ou association agréés
+définis aux articles 1649 quater C à 1649 quater H, à l'exclusion des membres
+d'un groupement ou d'une société mentionnés aux articles 8 à 8 quinquies et des
+conjoints exploitants agricoles de fonds séparés ou associés d'une même société
+ou groupement adhérant à l'un de ces organismes ;
+
+b) Ou qui ne font pas appel aux services d'un expert-comptable, d'une société
+membre de l'ordre ou d'une association de gestion et de comptabilité, autorisé à
+ce titre par l'administration fiscale et ayant conclu avec cette dernière une
+convention en application des articles 1649 quater L et 1649 quater M ;
 
 2° Aux revenus distribués mentionnés aux c à e de l'article 111, aux bénéfices
 ou revenus mentionnés à l'article 123 bis et aux revenus distribués mentionnés à
