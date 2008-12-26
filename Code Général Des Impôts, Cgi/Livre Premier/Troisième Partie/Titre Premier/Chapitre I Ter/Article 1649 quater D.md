@@ -55,9 +55,6 @@ experts-comptables stagiaires autorisés exercent, sous leur responsabilité, un
 mission de surveillance sur chaque dossier et délivrent le visa mentionné au I,
 dans des conditions fixées par arrêté du ministre chargé du budget. Ils peuvent
 refuser d'accomplir cette formalité si leurs observations n'ont pas été suivies
-d'effet avant la clôture des comptes de l'exercice. Dans ce cas,
-l'administration fiscale apprécie, au vu des observations présentées par le
-contribuable, s'il y a lieu ou non d'accorder l'abattement prévu à l'article 158
-4 bis. La rémunération de cette mission de surveillance peut être versée
-directement par le centre ; elle ne peut excéder une limite déterminée par
-arrêté du ministre chargé du budget.
+d'effet avant la clôture des comptes de l'exercice. La rémunération de cette
+mission de surveillance peut être versée directement par le centre ; elle ne
+peut excéder une limite déterminée par arrêté du ministre chargé du budget.
