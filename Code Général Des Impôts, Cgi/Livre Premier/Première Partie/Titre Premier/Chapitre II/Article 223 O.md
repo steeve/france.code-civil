@@ -12,7 +12,9 @@ b. Des crédits d'impôt pour dépenses de recherche dégagés par chaque socié
 groupe en application de l'article 244 quater B ; l'article 199 ter B s'applique
 à la somme de ces crédits d'impôt ;
 
-c. périmé
+c. Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater C ; l'article 199 ter C s'applique à la somme de ces
+crédits d'impôt ;
 
 d. Des crédits d'impôt pour investissement dégagés par chaque société du groupe
 en application de l'article 244 quater E ; les dispositions de l'article 199 ter
