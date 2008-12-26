@@ -15,6 +15,11 @@ deux tiers pour les assujettis n'exerçant leur activité professionnelle qu'à
 temps partiel ou pendant moins de neuf mois dans l'année et d'un tiers pour les
 autres assujettis.
 
+Toutefois, lorsqu'une commission intercommunale des impôts directs a été
+constituée, elle donne son avis sur le logement de référence retenu pour
+l'établissement des impositions au profit de l'établissement public de
+coopération intercommunale.
+
 II. Dans chaque commune, la cotisation de la taxe d'habitation de référence
 résultant de l'application du I est convertie en bases d'imposition par
 application du taux de taxe professionnelle en vigueur dans la commune l'année

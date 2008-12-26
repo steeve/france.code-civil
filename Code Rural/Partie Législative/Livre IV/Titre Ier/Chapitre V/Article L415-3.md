@@ -11,7 +11,7 @@ Les dépenses afférentes aux voies communales et aux chemins ruraux sont
 supportées par le preneur. A cet effet, il est mis à sa charge, au profit du
 bailleur, une fraction du montant global de la taxe foncière sur les propriétés
 bâties et de la taxe foncière sur les propriétés non bâties portant sur les
-biens pris à bail. A défaut d'accord amiable entre les parties, cette fraction
+biens pris à bail.A défaut d'accord amiable entre les parties, cette fraction
 est fixée à un cinquième.
 
 Le montant de l'exonération de la taxe foncière sur les propriétés non bâties
@@ -22,10 +22,18 @@ rétrocédé aux preneurs des terres considérées. A cet effet :
 1° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en
 application du troisième alinéa est supérieur ou égal à 20 %, le preneur
 rembourse au bailleur une fraction de la taxe foncière sur les propriétés non
-bâties égale à la différence de ces deux pourcentages multipliée par 1,25 ;
+bâties égale à la différence de ces deux pourcentages multipliée par 1, 25 ;
 
 2° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en
 application du troisième alinéa est inférieur à 20 %, le bailleur déduit du
 montant du fermage dû par le preneur une somme déterminée en appliquant au
 montant de la taxe foncière sur les propriétés non bâties un taux égal à la
-différence entre ces deux pourcentages multipliée par 1,25.
+différence entre ces deux pourcentages multipliée par 1, 25.
+
+Le montant de l'exonération de la taxe foncière sur les propriétés non bâties
+prévu à l'article 1395 G du code général des impôts doit, lorsque les propriétés
+concernées sont données à bail, être intégralement rétrocédé aux preneurs des
+propriétés considérées. A cet effet, le bailleur impute cet avantage sur le
+montant de la taxe qu'il met à la charge du preneur en application du troisième
+alinéa. Lorsque ce montant est inférieur à l'avantage, le bailleur déduit du
+montant du fermage dû par le preneur le montant qui n'a pu être imputé.

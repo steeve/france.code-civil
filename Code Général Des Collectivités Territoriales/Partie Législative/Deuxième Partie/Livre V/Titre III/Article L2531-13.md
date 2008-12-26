@@ -57,7 +57,7 @@ alinéa de l'article L. 2332-2.
 La population à prendre en compte pour l'application du présent paragraphe est
 arrêtée dans les conditions prévues à l'article L. 2334-2.
 
-II.-1° Sont soumises à un deuxième prélèvement les communes de la région
+II. - 1° Sont soumises à un deuxième prélèvement les communes de la région
 d'Ile-de-France dont les bases totales d'imposition à la taxe professionnelle
 divisées par le nombre d'habitants excèdent 3 fois la moyenne des bases de taxe
 professionnelle par habitant constatée au niveau national.
@@ -88,6 +88,27 @@ habitant constatée au niveau national. Ce prélèvement est égal au produit du
 taux de taxe professionnelle de zone en vigueur dans l'établissement public de
 coopération intercommunale par 75 % des bases dépassant le seuil précité.
 
+Sont également soumis à ce prélèvement les établissements publics de coopération
+intercommunale de la région d'Ile-de-France faisant application de l'article
+1609 nonies C du code général des impôts, dont les bases totales d'imposition à
+la taxe professionnelle divisées par le nombre d'habitants excèdent 2,5 fois la
+moyenne des bases de taxe professionnelle par habitant constatée au niveau
+national. Ce prélèvement est égal au produit du taux de taxe professionnelle
+calculé dans les conditions prévues au III du présent article par 75 % des bases
+dépassant le seuil précité.
+
+Pour les établissements publics de coopération intercommunale dont le revenu
+moyen par habitant est inférieur à 90 % du revenu moyen par habitant des
+communes de la région d'Ile-de-France, le prélèvement ainsi calculé ne peut
+excéder la somme des prélèvements des communes membres prévus au I.
+
+Pour les établissements publics de coopération intercommunale dont les bases
+totales d'imposition à la taxe professionnelle divisées par le nombre
+d'habitants sont inférieures à 2,5 fois la moyenne des bases de taxe
+professionnelle par habitant de la région d'Ile-de-France, le montant du
+prélèvement ne peut excéder 1,1 fois la somme des prélèvements des communes
+membres prévus au I.
+
 3° Lorsque la commune ou l'établissement public de coopération intercommunale
 concernés font également l'objet d'un prélèvement au titre du I de l'article
 1648 A du code général des impôts, le prélèvement visé aux 1° et 2° est minoré
@@ -99,10 +120,11 @@ des dépenses réelles de fonctionnement de la commune ou de l'établissement
 public de coopération intercommunale constatées dans le compte administratif
 afférent au pénultième exercice.
 
-Le prélèvement fait l'objet d'un plafonnement, à 20 % la première année, à 40 %
-la deuxième année, à 60 % la troisième année et à 80 % la quatrième année
-d'application de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et
-à la simplification de la coopération intercommunale.
+Le prélèvement opéré en application du 2° est plafonné au tiers de la
+contribution calculée en 2009 et aux deux tiers de celle calculée en 2010 pour
+les établissements publics de coopération intercommunale faisant application des
+dispositions de l'article 1609 nonies C du code général des impôts et
+contribuant pour la première année au fonds en 2009.
 
 III.-Pour l'application du II :
 
@@ -112,11 +134,32 @@ recensement général de population de 1999 fait apparaître une variation de la
 population d'une commune, cette variation est prise en compte dans les
 conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2 ;
 
+― sont considérées comme membres d'un établissement public de coopération
+intercommunale les communes y ayant adhéré au plus tard le 31 décembre de
+l'année précédant celle au titre de laquelle a lieu la répartition du fonds ;
+
 -les bases totales d'imposition retenues sont les bases nettes de taxe
 professionnelle après exonérations, mais avant écrêtement au profit du fonds
 départemental de péréquation de la taxe professionnelle ;
 
--le revenu à prendre en compte est le dernier revenu imposable connu.
+― la première année de perception de la taxe professionnelle en application de
+l'article 1609 nonies C du code général des impôts par un établissement public
+de coopération intercommunale, les bases totales d'imposition à prendre en
+compte correspondent à la somme de celles des communes membres au titre de
+l'année précédant la répartition du fonds ;
+
+― pour les établissements publics de coopération intercommunale faisant
+application du même article 1609 nonies C, le taux de taxe professionnelle
+retenu correspond au rapport entre le produit perçu au titre de l'année
+précédant la répartition du fonds, et les bases de taxe professionnelle pour la
+même année. La première année d'application de cet article par un établissement
+public de coopération intercommunale, ce taux est obtenu à partir des produits
+et des bases de taxe professionnelle des communes membres l'année précédant la
+répartition du fonds ;
+
+-le revenu à prendre en compte est le dernier revenu imposable connu. Pour les
+établissements publics de coopération intercommunale, il correspond à la somme
+des derniers revenus imposables connus des communes membres.
 
 IV.-Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

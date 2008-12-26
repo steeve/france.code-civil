@@ -7,8 +7,12 @@ des événements climatiques ou géologiques graves.
 
 Ce fonds est doté de 20 millions d'euros par an, prélevés sur la dotation
 instituée au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986). Ce montant évolue chaque année, à compter de 2009, comme la
+décembre 1986). Ce montant évolue chaque année, à compter de 2010, comme la
 dotation globale de fonctionnement.
+
+Par dérogation à l'alinéa précédent, ce fonds bénéficie, au titre de 2009, d'un
+prélèvement de 10 millions d'euros sur la dotation instituée au IV de l'article
+6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 Il précise notamment la nature des biens pris en compte, les règles relatives à

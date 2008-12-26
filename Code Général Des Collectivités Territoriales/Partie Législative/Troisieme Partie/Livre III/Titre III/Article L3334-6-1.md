@@ -7,7 +7,7 @@ d'urbanisation de référence est le dernier publié à l'occasion du recensemen
 la population.
 
 Les départements urbains dont le potentiel financier par habitant est inférieur
-ou égal au double du potentiel financier moyen par habitant des départements
+ou égal à 1,5 fois le potentiel financier moyen par habitant des départements
 urbains bénéficient d'une dotation de péréquation urbaine.
 
 Il est calculé pour chaque département éligible un indice synthétique de
@@ -51,14 +51,6 @@ départements qui cessent de remplir les conditions démographiques prévues au
 premier alinéa et qui bénéficient la même année d'une attribution au titre de la
 dotation de fonctionnement minimale.
 
-Les départements urbains dont le potentiel financier par habitant est supérieur
-à 150 % de la moyenne du potentiel financier par habitant de l'ensemble des
-départements urbains ne peuvent voir leur dotation par habitant progresser de
-plus de 5 % d'une année sur l'autre. Pour l'application de cette disposition en
-2005, sont pris en compte les montants perçus en 2004 au titre de la dotation de
-péréquation prévue à l'article L. 3334-4 dans sa rédaction antérieure à la loi
-de finances pour 2005 précitée.
-
 A compter de 2005, les départements urbains éligibles ne peuvent percevoir, au
 titre de la dotation de péréquation urbaine, une attribution par habitant
 supérieure à 120 % de la dotation perçue l'année précédente. Pour l'application
@@ -66,9 +58,9 @@ de cette disposition en 2005, sont pris en compte les montants perçus en 2004 a
 titre de la dotation de péréquation prévue à l'article L. 3334-4 dans sa
 rédaction antérieure à la loi de finances pour 2005 précitée.
 
-Les disponibilités dégagées par la mise en oeuvre des deux précédents alinéas
-sont réparties à l'ensemble des départements hors ceux subissant un écrêtement
-en application de ces alinéas.
+Les disponibilités dégagées par la mise en oeuvre du précédent alinéa sont
+réparties à l'ensemble des départements hors ceux subissant un écrêtement en
+application de cet alinéa.
 
 Pour 2005, lorsque l'attribution revenant à un département diminue par rapport à
 celle perçue en 2004 au titre de la dotation de péréquation prévue à l'article

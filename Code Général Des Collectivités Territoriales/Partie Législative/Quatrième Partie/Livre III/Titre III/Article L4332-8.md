@@ -25,4 +25,5 @@ Lorsqu'une région cesse de remplir les conditions requises pour bénéficier de
 dotation de péréquation, cette région perçoit, à titre de garantie non
 renouvelable, une attribution égale à la moitié de celle qu'elle a perçue
 l'année précédente. Les sommes nécessaires à cette garantie sont prélevées sur
-les crédits affectés à la dotation de péréquation.
+les crédits affectés à la dotation de péréquation, après prélèvement de la
+quote-part consacrée aux régions d'outre-mer.

@@ -1,34 +1,34 @@
 Article 266 quindecies
 ----
 I. - Les personnes qui mettent à la consommation en France des essences reprises
-aux indices 11 et 11 bis du tableau B du 1 de l'article 265, du gazole repris à
-l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même tableau sont
-redevables d'un prélèvement supplémentaire de la taxe générale sur les activités
-polluantes.
+aux indices 11 et 11 bis et 11 ter du tableau B du 1 de l'article 265, du gazole
+repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même
+tableau sont redevables d'un prélèvement supplémentaire de la taxe générale sur
+les activités polluantes.
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de
 l'article 298 du code général des impôts, pour chaque carburant concerné.
 
-III. - Son taux est fixé à 1,75 % en 2006. Il est majoré de 1,75 point en 2007,
-de 2,25 points en 2008, de 0,50 point en 2009 et de 0,75 point en 2010.
+III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en
+2007, de 2, 25 points en 2008, de 0, 50 point en 2009 et de 0, 75 point en 2010.
 
 Lors de la mise à la consommation des carburants mentionnés au I, les redevables
 émettent des certificats représentatifs des quantités, exprimées en pouvoir
-calorifique inférieur, de produits mentionnés au 1 de l'article 265 bis A que
-ces carburants incorporent. Les modalités d'émission et de cession éventuelle
-des certificats sont précisées par décret.
+calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265
+bis A que ces carburants incorporent. Les modalités d'émission et de cession
+éventuelle des certificats sont précisées par décret.
 
 Le taux du prélèvement est diminué :
 
 1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de
-produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites dans les
-certificats produits à l'administration et les quantités, exprimées en pouvoir
-calorifique inférieur, de ces carburants, soumises au prélèvement ;
+produits mentionnés aux 3 et 4 du tableau du 1 de l'article 265 bis A inscrites
+dans les certificats produits à l'administration et les quantités, exprimées en
+pouvoir calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a
-et d du 1 de l'article précité inscrites dans les certificats produits à
-l'administration et les quantités, exprimées en pouvoir calorifique inférieur,
-de ce carburant, soumises au prélèvement.
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux 1,
+2, 5 et 6 du tableau du 1 de l'article précité inscrites dans les certificats
+produits à l'administration et les quantités, exprimées en pouvoir calorifique
+inférieur, de ce carburant, soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est
 exigible lors de la mise à la consommation des produits mentionnés au I à usage

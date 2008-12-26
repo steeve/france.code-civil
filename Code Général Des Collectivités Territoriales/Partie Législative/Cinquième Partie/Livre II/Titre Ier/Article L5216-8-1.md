@@ -13,7 +13,12 @@ de la section 1 du chapitre unique du titre III du livre III du code de la
 construction et de l'habitation, les pertes de recettes pour les communautés
 d'agglomération résultant de l'exonération de taxe foncière sur les propriétés
 bâties pendant quinze ou vingt ans prévue par les articles 1384 A, 1384 C et
-1384 D du code général des impôts sont compensées intégralement par un
-prélèvement sur les recettes de l'Etat. Dans ce cas, la compensation versée à
-chaque communauté d'agglomération est égale, chaque année, au montant de la
-perte de recettes.
+1384 D du code général des impôts sont compensées par un prélèvement sur les
+recettes de l'Etat. Dans ce cas, la compensation versée à chaque communauté
+d'agglomération est égale, chaque année, au montant de la perte de recettes
+multiplié à compter de 2009 par un taux de minoration. Au titre de 2009, ce taux
+de minoration correspond à l'écart entre le montant total versé en 2008 au titre
+de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi
+n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de
+ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même
+article.

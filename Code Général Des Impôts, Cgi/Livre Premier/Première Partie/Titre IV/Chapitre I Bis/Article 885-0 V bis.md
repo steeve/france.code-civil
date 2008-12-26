@@ -68,15 +68,7 @@ a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception
 celles prévues aux b, f et h ;
 
 b) La société a pour objet exclusif de détenir des participations dans des
-sociétés exerçant une des activités mentionnées au b du 1 ;
-
-c) La société ne compte pas plus de cinquante associés ou actionnaires ;
-
-d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
-
-e) La société n'accorde aucune garantie en capital à ses associés ou
-actionnaires en contrepartie de leurs souscriptions ni aucun mécanisme
-automatique de sortie au terme de cinq ans.
+sociétés exerçant une des activités mentionnées au b du 1.
 
 Le montant des versements effectués au titre de la souscription par le redevable
 est pris en compte pour l'assiette de l'avantage fiscal dans la limite de la
@@ -205,8 +197,12 @@ peut donner lieu à l'application de l'article 885-0 V bis A.
 VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas
 cumulativement satisfaites par les sociétés bénéficiaires des versements
 mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 ou du
-règlement (CE) n° 1535/2007 de la Commission du 20 décembre 2007, concernant
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 ou du &lt;a
+TypeBalise="RENVOI" Identifiant_Texte="1535/2007" Type="citation" name="501"
+Emetteur="CE" Nature_Texte="Reglement" id="501" _status="open" /&gt;règlement
+(CE) n° 1535/2007&lt;a TypeBalise="RENVOI" Identifiant_Texte="1535/2007"
+Type="citation" name="501" Emetteur="CE" Nature_Texte="Reglement" id="501"
+_status="close" /&gt; de la Commission du 20 décembre 2007, concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux

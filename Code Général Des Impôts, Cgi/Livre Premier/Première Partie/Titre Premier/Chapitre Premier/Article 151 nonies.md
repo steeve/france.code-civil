@@ -33,6 +33,11 @@ Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la da
 de la transmission à titre gratuit visée au premier alinéa, la plus-value en
 report est définitivement exonérée.
 
+En cas de partage avec soulte, le report d'imposition est maintenu si le ou les
+attributaires des droits sociaux visés ci-dessus prennent l'engagement
+d'acquitter l'impôt sur la plus-value en report à la date où l'un des événements
+cités au premier alinéa se réalise.
+
 2. Le régime défini au 1 s'applique sur option exercée par le ou les
 bénéficiaires lors de l'acceptation de la transmission par ces derniers.
 

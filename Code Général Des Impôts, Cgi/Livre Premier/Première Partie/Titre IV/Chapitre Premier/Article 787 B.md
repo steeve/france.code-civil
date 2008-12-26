@@ -89,14 +89,15 @@ de conservation visé au a, la société doit en outre adresser, dans les trois
 mois qui suivent le 31 décembre de chaque année, une attestation certifiant que
 les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
 
-f. En cas de non-respect de la condition prévue au c par suite de l'apport de
-titres d'une société ayant une activité industrielle, commerciale, artisanale,
-agricole ou libérale à une société dont l'objet unique est la gestion de son
-propre patrimoine constitué exclusivement de participations dans une ou
-plusieurs sociétés du même groupe que la société dont les parts ou actions ont
-été transmises et ayant une activité similaire, connexe ou complémentaire,
-l'exonération partielle n'est pas remise en cause si les conditions suivantes
-sont réunies :
+f. En cas de non-respect de la condition prévue au c par suite d'un apport
+partiellement rémunéré par la prise en charge d'une soulte consécutive à un
+partage ou d'un apport pur et simple de titres d'une société ayant une activité
+industrielle, commerciale, artisanale, agricole ou libérale à une société dont
+l'objet unique est la gestion de son propre patrimoine constitué exclusivement
+de participations dans une ou plusieurs sociétés du même groupe que la société
+dont les parts ou actions ont été transmises et ayant une activité, soit
+similaire, soit connexe et complémentaire, l'exonération partielle n'est pas
+remise en cause si les conditions suivantes sont réunies :
 
 1° La société bénéficiaire de l'apport est détenue en totalité par les personnes
 physiques bénéficiaires de l'exonération. Le donateur peut toutefois détenir une

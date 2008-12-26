@@ -4,9 +4,11 @@ Article 50-0
 prorata du temps d'exploitation au cours de l'année civile, n'excède pas 80 000
 euros (1) hors taxes s'il s'agit d'entreprises dont le commerce principal est de
 vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place, ou de fournir le logement, ou 32 000 euros (1) hors taxes
-s'il s'agit d'autres entreprises, sont soumises au régime défini au présent
-article pour l'imposition de leurs bénéfices.
+consommer sur place, ou de fournir le logement, à l'exclusion de la location
+directe ou indirecte de locaux d'habitation meublés ou destinés à être loués
+meublés, autres que ceux mentionnés aux 1° à 3° du III de l'article 1407, ou 32
+000 euros (1) hors taxes s'il s'agit d'autres entreprises, sont soumises au
+régime défini au présent article pour l'imposition de leurs bénéfices.
 
 Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
 premier alinéa, le régime défini au présent article n'est applicable que si son
@@ -30,7 +32,7 @@ tenir compte des amortissements pratiqués selon le mode linéaire.
 Sous réserve des dispositions du b du 2, ce régime demeure applicable pour
 l'établissement de l'imposition due au titre des deux premières années au cours
 desquelles les chiffres d'affaires mentionnés aux premier et deuxième alinéas
-sont dépassés .
+sont dépassés.
 
 Les dispositions du cinquième alinéa ne sont pas applicables en cas de
 changement d'activité.

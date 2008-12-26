@@ -2,8 +2,8 @@ Article 199 decies H
 ----
 1.A compter de l'imposition des revenus de 2001, il est institué une réduction
 d'impôt sur le revenu pour les contribuables domiciliés en France au sens de
-l'article 4 B qui, jusqu'au 31 décembre 2010, réalisent des investissements
-forestiers.
+l'article 4 B qui, jusqu'au 31 décembre 2013, réalisent les opérations
+forestières mentionnées au 2.
 
 2. La réduction d'impôt s'applique :
 
@@ -36,6 +36,14 @@ l'engagement de les reboiser dans un délai de trois ans et par la suite de les
 conserver pendant quinze ans et d'appliquer, pendant la même durée, un plan
 simple de gestion agréé ;
 
+Toutefois, lorsque les terrains boisés possédés et acquis par le contribuable ne
+remplissent pas les conditions minimales de surface fixées par l'article L. 6 du
+code forestier pour faire agréer et appliquer à ceux-ci un plan simple de
+gestion, le propriétaire doit leur appliquer un autre document de gestion
+durable prévu par l'article L. 4 du même code dans les mêmes conditions que
+celles prévues ci-dessus pour le cas où un plan simple de gestion peut être
+appliqué.
+
 b) Aux souscriptions ou acquisitions en numéraire de parts d'intérêt de
 groupements forestiers qui ont pris l'engagement d'appliquer pendant quinze ans
 un plan simple de gestion agréé par le centre régional de la propriété
@@ -56,30 +64,70 @@ engagements mentionnés au b.
 
 d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle
 constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et
-qu'elle est gérée en application d'un plan simple de gestion ou d'un règlement
-type de gestion agréé ou approuvé par le centre régional de la propriété
-forestière. Le contribuable doit prendre l'engagement de conserver cette
-propriété jusqu'au 31 décembre de la quinzième année suivant celle des travaux
-et d'appliquer, pendant la même durée, un plan simple de gestion ou un règlement
-type de gestion agréé ou approuvé par le centre régional de la propriété
-forestière ;
+qu'elle présente l'une des garanties de gestion durable prévues à l'article L. 8
+du code forestier, sous réserve des deux conditions suivantes :
 
-e) Aux dépenses de travaux forestiers payées par un groupement forestier dont le
-contribuable est membre, lorsque la propriété du groupement forestier sur
-laquelle sont réalisés les travaux constitue une unité de gestion d'au moins 10
-hectares d'un seul tenant, gérée en application d'un plan simple de gestion ou
-d'un règlement type de gestion agréé ou approuvé par le centre régional de la
-propriété forestière.L'associé doit prendre l'engagement de conserver les parts
-du groupement jusqu'au 31 décembre de la huitième année suivant celle des
-travaux et celui-ci, l'engagement d'appliquer pendant quinze ans un plan simple
-de gestion ou un règlement type de gestion agréé ou approuvé par le centre
-régional de la propriété forestière et de conserver, pendant la même durée, les
-parcelles qui ont fait l'objet des travaux ouvrant droit à réduction d'impôt.
+― le contribuable doit prendre l'engagement de conserver cette propriété
+jusqu'au 31 décembre de la huitième année suivant celle des travaux et
+d'appliquer, pendant la même durée, l'une des garanties de gestion durable
+prévues à l'article L. 8 du même code ;
+
+― les travaux de plantation doivent être effectués avec des graines et des
+plants forestiers conformes aux prescriptions des arrêtés régionaux relatifs aux
+aides de l'Etat à l'investissement forestier pris conformément au titre V du
+livre V de la partie réglementaire du même code ;
+
+e) Aux dépenses de travaux forestiers payées par un groupement forestier ou une
+société d'épargne forestière dont le contribuable est membre, lorsque la
+propriété du groupement ou de la société sur laquelle sont réalisés les travaux
+constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et
+qu'elle présente l'une des garanties de gestion durable prévues à l'article L. 8
+du même code, sous réserve des trois conditions suivantes :
+
+― l'associé doit prendre l'engagement de conserver les parts du groupement ou de
+la société jusqu'au 31 décembre de la quatrième année suivant celle des travaux
+;
+
+― le groupement ou la société doit prendre l'engagement de conserver les
+parcelles qui ont fait l'objet de travaux ouvrant droit à réduction d'impôt
+jusqu'au 31 décembre de la huitième année suivant celle des travaux et
+d'appliquer, pendant la même durée, l'une des garanties de gestion durable
+prévues à l'article L. 8 du même code ;
+
+― les travaux de plantation doivent être effectués avec des graines et des
+plants forestiers conformes aux prescriptions des arrêtés régionaux relatifs aux
+aides de l'Etat à l'investissement forestier pris conformément au titre V du
+livre V de la partie réglementaire du même code ;
+
+f) A la rémunération versée par le contribuable, par un groupement forestier ou
+une société d'épargne forestière dont le contribuable est membre, pour la
+réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface
+inférieure à 25 hectares avec un expert forestier au sens de l'article L. 171-1
+du code rural, avec une coopérative forestière ou une organisation de
+producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national
+des forêts en application de l'article L. 224-6 du code forestier, sous réserve
+des trois conditions suivantes :
+
+― le contrat de gestion doit prévoir la réalisation de programmes de travaux et
+de coupes sur des terrains en nature de bois et forêts dans le respect de l'une
+des garanties de gestion durable prévues à l'article L. 8 du même code ;
+
+― ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec un
+expert forestier, soit en exécution d'un contrat d'apport conclu avec une
+coopérative ou une organisation de producteurs, soit dans les conditions
+prescrites à l'article L. 224-6 du même code ;
+
+― ces coupes doivent être commercialisées à destination d'unités de
+transformation du bois ou de leurs filiales d'approvisionnement par voie de
+contrats d'approvisionnement annuels reconductibles ou pluriannuels.
+
+Les conditions et les modalités d'application de ces dispositions sont fixées
+par décret.
 
 3. La réduction d'impôt est calculée sur la base :
 
 a) Du prix d'acquisition défini au a du 2. Lorsque l'acquisition de terrains
-permet de constituer une unité de gestion d'au moins 10 hectares situés dans un
+permet de constituer une unité de gestion d'au moins 5 hectares situés dans un
 massif de montagne défini à l'article 5 de la loi n° 85-30 du 9 janvier 1985
 précitée, elle est calculée en ajoutant à cette base le prix des acquisitions de
 terrains en nature de bois et forêts ou de terrains nus à boiser réalisées les
@@ -94,34 +142,52 @@ au c du 2 ;
 d) Des dépenses payées mentionnées au d du 2 ;
 
 e) De la fraction des dépenses payées mentionnées au e du 2, correspondant aux
-droits que le contribuable détient dans le groupement.
+droits que le contribuable détient dans le groupement ou la société ;
 
-3 bis. Le montant total de la base de la réduction d'impôt mentionnée au 3 ne
-peut excéder 5 700 euros pour une personne célibataire, veuve ou divorcée et 11
-400 euros pour un couple marié ou les partenaires liés par un pacte civil de
-solidarité, soumis à une imposition commune.
+f) Des dépenses de rémunération mentionnées au f du 2 et payées par le
+contribuable ou de la fraction de ces dépenses payées par le groupement ou la
+société correspondant aux droits que le contribuable détient dans ces derniers.
 
-Les dépenses mentionnées au d du 2 sont retenues dans la limite de 1 250 euros
-pour une personne célibataire, veuve ou divorcée et 2 500 euros pour un couple
-marié ou les partenaires liés par un pacte civil de solidarité, soumis à une
-imposition commune. Lorsque la propriété fait l'objet d'un sinistre forestier,
-pour lequel les dispositions mentionnées au premier alinéa de l'article 1398
-s'appliquent, ces limites ne sont pas applicables aux dépenses payées jusqu'au
-31 décembre de l'année qui suit celle au cours de laquelle le sinistre est
-intervenu.
+3 bis. Le prix d'acquisition ou de souscription mentionné aux a et b du 3 et la
+fraction du prix d'acquisition ou de souscription mentionnée au c du 3 sont
+globalement retenus dans la limite de 5 700 € pour une personne célibataire,
+veuve ou divorcée et de 11 400 € pour un couple marié ou les partenaires liés
+par un pacte civil de solidarité, soumis à une imposition commune.
 
-Les dépenses mentionnées au e du 2 sont retenues pour la fraction de la limite
-mentionnée au deuxième alinéa correspondant aux droits que le contribuable
-détient dans le groupement ou, lorsque cette limite n'est pas applicable, pour
-la fraction de la limite mentionnée au premier alinéa correspondant aux droits
-que le contribuable détient dans le groupement.
+Les dépenses et la fraction des dépenses mentionnées aux d et e du 3 sont
+globalement retenues dans la limite de 6 250 € pour une personne célibataire,
+veuve ou divorcée et de 12 500 € pour un couple marié ou les partenaires liés
+par un pacte civil de solidarité, soumis à une imposition commune. Lorsque ces
+dépenses dépassent cette limite, la fraction excédentaire est retenue :
+
+a) Au titre des quatre années suivant celle du paiement des travaux et dans la
+même limite ;
+
+b) Au titre des huit années suivant celle du paiement des travaux en cas de
+sinistre forestier pour lequel les dispositions mentionnées au premier alinéa de
+l'article 1398 s'appliquent et dans la même limite.
+
+Les dépenses et la fraction des dépenses mentionnées au f du 3 sont globalement
+retenues dans la limite de 2 000 € pour une personne célibataire, veuve ou
+divorcée et de 4 000 € pour un couple marié ou les partenaires liés par un pacte
+civil de solidarité, soumis à une imposition commune, sous réserve que soient
+produites avec la déclaration prévue à l'article 170 la facture du contrat de
+gestion et l'attestation délivrée par l'opérateur certifiant que la cession et
+la commercialisation des coupes sont réalisées dans les conditions du f du 2.
 
 3 ter. Le taux de la réduction d'impôt est de 25 %.
 
-4. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de
-l'année d'acquisition des terrains mentionnés au a du 2, de l'année
-d'acquisition ou de souscription des parts mentionnées aux b et c du 2 et de
-l'année du paiement des dépenses mentionnées aux d et e du 2.
+4. La réduction d'impôt s'applique pour le calcul de l'impôt dû :
+
+a) Au titre de l'année d'acquisition des terrains mentionnés au a du 2 et de
+l'année d'acquisition ou de souscription des parts mentionnées aux b et c du 2 ;
+
+b) Au titre de l'année du paiement des dépenses mentionnées aux d et e du 2 et,
+le cas échéant, des quatre années suivantes ou des huit années suivantes en cas
+de sinistre forestier, conformément au 3 bis ;
+
+c) Au titre de l'année du paiement des dépenses de rémunération mentionnées au f
+du 2.
 
 5. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le
 contribuable, le groupement ou la société d'épargne forestière cesse de

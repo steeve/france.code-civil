@@ -32,10 +32,9 @@ droit ou en fait à une personne qui n'est pas un membre du foyer fiscal par
 l'effet d'un mandat, d'un contrat de travail ou de toute autre convention. Les
 déficits non déductibles pour ces motifs peuvent cependant être imputés sur les
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions,
-durant la même année ou les six années suivantes. Ces modalités d'imputation
-sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du VII de l'article 151 septies, louant directement ou
-indirectement des locaux d'habitation meublés ou destinés à être meublés.
+durant la même année ou les six années suivantes. Ces modalités d'imputation ne
+sont pas applicables aux déficits provenant de l'activité de location directe ou
+indirecte de locaux d'habitation meublés ou destinés à être loués meublés.
 
 Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure
 de liquidation judiciaire prévue par le titre IV du livre VI du code de commerce
@@ -48,8 +47,7 @@ foyer fiscal.
 
 Les dispositions du premier alinéa s'appliquent pour la détermination du revenu
 imposable au titre des années 1996 et suivantes aux déficits réalisés par les
-membres des copropriétés mentionnées à l'article 8 quinquies ainsi que par les
-personnes mentionnées à la dernière phrase du premier alinéa. Dans les autres
+membres des copropriétés mentionnées à l'article 8 quinquies. Dans les autres
 cas, elles sont applicables au déficit ou à la fraction du déficit provenant
 d'activités créées, reprises, étendues ou adjointes à compter du 1er janvier
 1996. Cette fraction est déterminée au moyen d'une comptabilité séparée
@@ -79,6 +77,23 @@ détenus directement ou indirectement par une personne physique ;
 b. de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er
 janvier 1996 et ayant donné lieu avant cette date à une commande accompagnée du
 versement d'acomptes au moins égaux à 50 % de leur prix ;
+
+1° ter Des déficits du foyer fiscal provenant de l'activité de location directe
+ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés
+lorsque l'activité n'est pas exercée à titre professionnel au sens du VII de
+l'article 151 septies. Ces déficits s'imputent exclusivement sur les revenus
+provenant d'une telle activité au cours de celles des dix années suivantes
+pendant lesquelles l'activité n'est pas exercée à titre professionnel au sens
+des mêmes dispositions.
+
+Toutefois, lorsque l'activité est exercée, dès le commencement de la location, à
+titre professionnel au sens des mêmes dispositions, la part des déficits qui n'a
+pu être imputée en application du premier alinéa et qui provient des charges
+engagées en vue de la location directe ou indirecte d'un local d'habitation
+avant le commencement de cette location, tel que déterminé conformément au
+sixième alinéa du VII de l'article 151 septies, peut être imputée par tiers sur
+le revenu global des trois premières années de location du local, tant que
+l'activité reste exercée à titre professionnel.
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -142,10 +157,10 @@ l'application de la dispense de l'intérêt de retard mentionnée au 4° du II d
 l'article 1727.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
-aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
-L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure à 10
-700 euros et la fraction du déficit non imputable résultant des intérêts
-d'emprunt sont déduites dans les conditions prévues au premier alinéa.
+aux déficits fonciers résultant de dépenses autres que les intérêts
+d'emprunt.L'imputation est limitée à 10 700 euros. La fraction du déficit
+supérieure à 10 700 euros et la fraction du déficit non imputable résultant des
+intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
 La limite mentionnée au sixième alinéa est portée à 15 300 euros pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
@@ -167,10 +182,10 @@ undecies A et imputer un déficit foncier sur le revenu global.
 
 4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter,150
-octies,150 nonies et 150 decies, lorsque l'option prévue au 8° du I de l'article
-35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
-profits de même nature réalisés au cours de la même année ou des six années
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
+octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
+l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
+les profits de même nature réalisés au cours de la même année ou des six années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
@@ -186,7 +201,7 @@ marchandises réalisées à l'étranger.
 
 8° Des déficits constatés dans la catégorie des revenus des capitaux mobiliers ;
 ces déficits peuvent cependant être imputés sur les revenus de même nature des
-six années suivantes.
+six années suivantes ;
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
@@ -219,14 +234,14 @@ départemental de l'architecture et du patrimoine ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211,367 et 767 du code civil à l'exception de celles
+par les articles 205 à 211, 367 et 767 du code civil à l'exception de celles
 versées aux ascendants quand il est fait application des dispositions prévues
 aux 1 et 2 de l'article 199 sexdecies ; versements de sommes d'argent mentionnés
 à l'article 275 du code civil lorsqu'ils sont effectués sur une période
 supérieure à douze mois à compter de la date à laquelle le jugement de divorce,
 que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose
-jugée et les rentes versées en application des articles 276,278 ou 279-1 du même
-code en cas de séparation de corps ou de divorce, ou en cas d'instance en
+jugée et les rentes versées en application des articles 276, 278 ou 279-1 du
+même code en cas de séparation de corps ou de divorce, ou en cas d'instance en
 séparation de corps ou en divorce et lorsque le conjoint fait l'objet d'une
 imposition séparée, les pensions alimentaires versées en vertu d'une décision de
 justice et en cas de révision amiable de ces pensions, le montant effectivement
@@ -247,7 +262,7 @@ au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
-rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
+rattachement.L'année où l'enfant atteint sa majorité, le contribuable ne peut à
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
 calcul de l'impôt ;
 

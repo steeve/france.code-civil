@@ -34,7 +34,9 @@ des services transférés donnera lieu à révision, au titre de la dotation de
 régional, des nouvelles règles comptables mises en oeuvre par la Société
 nationale des chemins de fer français. Cette révision s'effectue sur la base des
 services de l'année 2000 et sera constatée sous la forme définie à l'alinéa
-précédent.
+précédent. La part de la compensation correspondant à la contribution pour
+l'exploitation des services transférés est calculée hors taxe sur la valeur
+ajoutée.
 
 Toute disposition législative ou réglementaire ayant une incidence financière
 sur les charges transférées en application de l'article 21-1 de la loi n°

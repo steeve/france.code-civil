@@ -11,7 +11,7 @@ premier alinéa du II de l'article 208 C, à une société mentionnée au III bi
 même article ou à une société agréée par l'Autorité des marchés financiers et
 ayant pour objet principal l'acquisition ou la construction d'immeubles en vue
 de la location, ou la détention directe ou indirecte de participations dans des
-personnes morales visées à l'article 8 et aux 1,2 et 3 de l'article 206 dont
+personnes morales visées à l'article 8 et aux 1, 2 et 3 de l'article 206 dont
 l'objet social est identique sont soumises à l'impôt sur les sociétés au taux
 visé au IV de l'article 219.
 
@@ -21,10 +21,21 @@ l'immeuble, les titres ou les droits mentionnés au I. Lorsque la société
 cessionnaire est une filiale mentionnée au premier alinéa du II de l'article 208
 C ou une société mentionnée au III bis du même article, elle doit être placée
 sous le régime prévu au II de cet article pendant une durée minimale de cinq ans
-à compter de l'exercice d'acquisition.
+à compter de l'exercice d'acquisition. Pour l'application de ces dispositions,
+cette filiale est réputée être restée placée sous le régime prévu au II de
+l'article 208 C dès lors que la ou les sociétés d'investissements immobiliers
+cotées qui la détiennent directement ou indirectement ne sont pas sorties du
+régime au sens du IV du même article.
 
 Le non-respect de ces conditions par la société cessionnaire entraîne
 l'application de l'amende prévue à l'article 1764.
+
+Toutefois, l'obligation de conservation mentionnée au premier alinéa est
+respectée en cas de démolition totale ou partielle d'un immeuble acquis sous le
+bénéfice des dispositions du I lorsque la démolition est effectuée en vue de la
+reconstruction totale ou partielle, réhabilitation ou rénovation de l'immeuble,
+et sous réserve que la reconstruction, réhabilitation ou rénovation soit achevée
+dans les cinq années qui suivent l'acquisition.
 
 III.-Les plus-values nettes dégagées lors de la cession de biens immobiliers
 bâtis ou non bâtis ou de titres de sociétés à prépondérance immobilière au sens
@@ -53,6 +64,6 @@ Le non-respect de cet engagement par la société cédante entraîne l'applicati
 de l'amende prévue à l'article 1764.
 
 V.-Un décret fixe les conditions d'application du présent article. Le I
-s'applique aux cessions réalisées jusqu'au 31 décembre 2008, le III aux cessions
+s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III aux cessions
 réalisées jusqu'au 31 décembre 2009 et le IV aux cessions réalisées jusqu'au 31
 décembre 2010.

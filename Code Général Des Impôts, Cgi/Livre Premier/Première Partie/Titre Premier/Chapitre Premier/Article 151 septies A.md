@@ -47,6 +47,13 @@ plus-values en report d'imposition sur le fondement du I ter de l'article 93
 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A
 et du I de l'article 151 octies B.
 
+I ter-Sont également éligibles au présent dispositif, dans les conditions du I
+et pour la seule plus-value imposable au nom de l'associé, les cessions
+d'activité réalisées par les sociétés visées au 2° du I à condition qu'il soit
+procédé à la dissolution de la société de manière concomitante à la cession et
+que ledit associé fasse valoir ses droits à la retraite dans les douze mois
+suivant ou précédant la cession.
+
 II.-L'exonération prévue au I est remise en cause si le cédant relève de la
 situation mentionnée au 4° du I à un moment quelconque au cours des trois années
 qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au

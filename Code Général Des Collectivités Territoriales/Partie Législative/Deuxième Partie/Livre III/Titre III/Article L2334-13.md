@@ -13,20 +13,42 @@ Après prélèvement de la dotation d'intercommunalité prévue aux articles L.
 5211-28 et L. 5842-8, de la dotation de compensation prévue à l'article L.
 5211-28-1, et de la quote-part destinée aux communes d'outre-mer, le solde de la
 dotation d'aménagement est réparti entre la dotation nationale de péréquation,
-la dotation de solidarité urbaine et de cohésion sociale et la dotation de
-solidarité rurale.
+la dotation de solidarité urbaine et de cohésion sociale, la dotation de
+solidarité rurale et la dotation nationale de péréquation.
+
+La quote-part destinée aux communes d'outre-mer est calculée en appliquant au
+montant de la dotation d'aménagement le rapport, majoré de 33 %, existant,
+d'après le dernier recensement de population, entre la population des communes
+des départements d'outre-mer, de la Nouvelle-Calédonie, de la Polynésie
+française, de la collectivité territoriale de Saint-Pierre-et-Miquelon, des
+circonscriptions territoriales de Wallis-et-Futuna et de la collectivité
+départementale de Mayotte et celle des communes de métropole et des départements
+d'outre-mer, de la Nouvelle-Calédonie, de la Polynésie française, de la
+collectivité territoriale de Saint-Pierre-et-Miquelon, des circonscriptions
+territoriales de Wallis-et-Futuna et de la collectivité départementale de
+Mayotte. Elle se ventile en deux sous-enveloppes : une quote-part correspondant
+à l'application du ratio démographique mentionné dans le présent alinéa à la
+dotation de solidarité urbaine et de cohésion sociale et à la dotation de
+solidarité rurale, et une quote-part correspondant à l'application de ce ratio
+démographique à la dotation nationale de péréquation. Elle est répartie dans les
+conditions fixées par décret en Conseil d'Etat.
 
 La quote-part destinée aux communes d'outre-mer évolue de façon telle que le
 total des attributions leur revenant au titre de la dotation globale de
 fonctionnement progresse au moins comme l'ensemble des ressources affectées à
 cette dotation. En 2008, le taux de progression de cette quote-part ne tient pas
 compte de l'impact de la transformation des communes de Saint-Martin et
-Saint-Barthélemy en collectivités d'outre-mer.
+Saint-Barthélemy en collectivités d'outre-mer. En 2009, cette garantie de
+progression est calculée de telle sorte que le total des attributions revenant
+aux communes d'outre-mer au titre de la dotation globale de fonctionnement, hors
+les montants correspondant au complément de garantie prévu au 4° de l'article L.
+2334-7, progresse au moins comme l'ensemble des ressources affectées à cette
+dotation.
 
 En 1995 Le montant des crédits respectivement attribués à la dotation de
 solidarité urbaine et de cohésion sociale et à la dotation de solidarité rurale
 est fixé par le comité des finances locales de telle sorte qu'aucune de ces deux
-dotations n'excède 55 p. 100 et ne soit inférieure à 45 % du solde mentionné au
+dotations n'excède 55 % et ne soit inférieure à 45 % du solde mentionné au
 quatrième alinéa.
 
 Pour l'année 1996, le montant des crédits mis en répartition au titre de la
@@ -39,7 +61,7 @@ cohésion sociale et la dotation de solidarité rurale de manière à ce que cha
 en reçoive 45 % au moins et 55 % au plus.
 
 En 2002, le montant des crédits affectés à la dotation de solidarité rurale en
-application des dispositions précédentes est majoré de 1, 5 million d'euros. En
+application des dispositions précédentes est majoré de 1,5 million d'euros. En
 2003, le montant de cette majoration n'est pas pris en compte pour la
 répartition, entre la dotation de solidarité urbaine et de cohésion sociale et
 la dotation de solidarité rurale, de l'augmentation du solde de la dotation
@@ -52,8 +74,14 @@ dotation de solidarité rurale, ainsi qu'entre les différentes parts ou fractio
 de ces dotations, quand elles existent.
 
 La seconde fraction de la dotation de solidarité rurale prévue à l'article L.
-2334-22 est diminuée, en 2006, d'un montant de 10, 5 millions d'euros. En 2007,
+2334-22 est diminuée, en 2006, d'un montant de 10,5 millions d'euros. En 2007,
 l'augmentation du solde de la dotation d'aménagement répartie par le comité des
 finances locales en application de l'avant-dernier alinéa du présent article est
 calculée à partir du solde de la dotation d'aménagement effectivement réparti,
 compte tenu de cette minoration de 10, 5 millions d'euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité
+urbaine et de cohésion sociale est majoré de 68 574 738 euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité
+rurale est majoré de 68 574 738 euros.

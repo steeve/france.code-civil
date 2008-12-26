@@ -48,6 +48,9 @@ oeuvres à caractère pornographique ou incitant à la violence ;
 e bis) De projets de thèse proposés au mécénat de doctorat par les écoles
 doctorales dans des conditions fixées par décret ;
 
+e ter) De sociétés, dont l'Etat est l'actionnaire unique, qui ont pour activité
+la représentation de la France aux expositions universelles ;
+
 f) De la " Fondation du patrimoine " ou d'une fondation ou une association qui
 affecte irrévocablement ces versements à la " Fondation du patrimoine ", en vue
 de subventionner la réalisation des travaux prévus par les conventions conclues

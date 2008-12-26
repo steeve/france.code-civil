@@ -59,7 +59,9 @@ A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du
 taux de progression de l'ensemble des ressources de la dotation globale de
 fonctionnement. Toutefois, pour les communes dont la garantie par habitant est
 supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année
-précédente, le taux de progression de la garantie est nul.
+précédente, le taux de progression de la garantie est nul. En 2009, le
+complément de garantie dû à chaque commune correspond à son montant de 2008
+diminué de 2 %.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
 la somme des composantes de cette dotation par rapport à la somme des montants

@@ -10,9 +10,9 @@ urbaines délimitées par une carte communale, un plan local d'urbanisme ou un
 plan de sauvegarde et de mise en valeur approuvé conformément au code de
 l'urbanisme, peut, sur délibération du conseil municipal prise dans les
 conditions prévues au premier alinéa du I de l'article 1639 A bis, être majorée
-d'une valeur forfaitaire de 0,50 euro, 1 euro, 1,50 euro, 2 euros, 2,50 euros ou
-3 euros par mètre carré, pour le calcul de la part revenant aux communes et aux
-établissements publics de coopération intercommunale sans fiscalité propre.
+d'une valeur forfaitaire comprise entre 0 et 3 € par mètre carré, pour le calcul
+de la part revenant aux communes et aux établissements publics de coopération
+intercommunale sans fiscalité propre.
 
 La superficie retenue pour le calcul de la majoration est réduite de 1 000
 mètres carrés.

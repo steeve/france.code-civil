@@ -83,7 +83,7 @@ h. aux bénéfices distribués aux actionnaires :
 
 1° des sociétés d'investissements immobiliers cotées et de leurs filiales visées
 à l'article 208 C et prélevés sur les bénéfices exonérés en application du
-premier alinéa du II de cet article ;
+premier alinéa du II et non réintégrés en application du IV de cet article ;
 
 2° Des sociétés étrangères ayant une activité identique à celles mentionnées à
 l'article 208 C et qui sont exonérées, dans l'Etat où elles ont leur siège de

@@ -51,12 +51,15 @@ fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même artic
 du montant de l'abattement mentionné à l'article 150-0 D bis ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
-sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, ainsi que du 9 de
-l'article 93 ;
+sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies, ainsi que de
+l'article 93-0 A et du 9 de l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus aux
-articles 117 quater et 125 A, de ceux visés aux articles 81 quater, 81 A à 81 C,
-de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de
+articles 117 quater et 125 A de ceux soumis aux versements libératoires prévus
+par l'article 151-0 retenus pour leur montant diminué, selon le cas, de
+l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue
+au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A à 81 C, de
+ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de
 frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas
 été exercée, de ceux perçus par les fonctionnaires des organisations
 internationales, de ceux exonérés par application d'une convention

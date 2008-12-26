@@ -54,7 +54,11 @@ e) Les indemnités mensuelles et les prestations mentionnées à l'article L.
 volontaire international en entreprise comme indiqué au III ;
 
 f) Les dépenses liées aux activités de conseil fournies par les opérateurs
-spécialisés du commerce international.
+spécialisés du commerce international ;
+
+g) Les dépenses exposées par un cabinet d'avocats pour l'organisation ou la
+participation à des manifestations hors de France ayant pour objet de faire
+connaître les compétences du cabinet.
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice
 clos au cours desquels des dépenses éligibles ont été exposées, est égal à 50 %
@@ -83,10 +87,10 @@ membres des petites et moyennes entreprises définies au même I lorsqu'ils
 exposent des dépenses de prospection commerciale pour le compte de leurs membres
 afin d'exporter des services, des biens et des marchandises. Ces plafonds
 s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant
-aux parts des associés de sociétés de personnes mentionnées aux articles 8,238
+aux parts des associés de sociétés de personnes mentionnées aux articles 8, 238
 bis L, aux parts des associés de sociétés de professions libérales mentionnées
 au I et aux droits des membres de groupements mentionnés aux articles 239
-quater,239 quater B et 239 quater C.
+quater, 239 quater B et 239 quater C.
 
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les
 sociétés, le crédit d'impôt peut être utilisé par les associés

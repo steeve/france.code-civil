@@ -19,24 +19,24 @@ nonies C du code général des impôts et qui sont issues de la transformation d
 communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du
 12 juillet 1999 relative au renforcement et à la simplification de la
 coopération intercommunale ne peuvent percevoir en 2000 une dotation par
-habitant supérieure à 1, 5 fois la dotation par habitant qu'elles percevaient
+habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient
 l'année précédant leur transformation.
 
 II. Toutefois :
 
 1° A compter de 2005, les communautés de communes ne faisant pas application des
 dispositions de l'article 1609 nonies C du code général des impôts dont le
-coefficient d'intégration fiscale est supérieur à 0, 5 perçoivent une dotation
+coefficient d'intégration fiscale est supérieur à 0,5 perçoivent une dotation
 par habitant progressant au moins comme la dotation forfaitaire prévue à
 l'article L. 2334-7 du présent code.
 
 Les communautés d'agglomération et les communautés de communes faisant
 application des dispositions de l'article 1609 nonies C du code général des
-impôts dont le coefficient d'intégration fiscale est supérieur à 0, 5 en 2005
+impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 en 2005
 perçoivent une dotation par habitant progressant au moins comme la dotation
-forfaitaire prévue à l'article L. 2334-7 du présent code.A compter de 2006,
+forfaitaire prévue à l'article L. 2334-7 du présent code. A compter de 2006,
 cette garantie s'applique lorsque leur coefficient d'intégration fiscale est
-supérieur à 0, 4 ;
+supérieur à 0,4 ;
 
 2° Les établissements publics de coopération intercommunale mentionnés au
 premier alinéa du I dont la dotation par habitant perçue au titre des dotations
@@ -71,15 +71,16 @@ dotation par habitant perçue l'année précédente.
 Une communauté d'agglomération, créée ex nihilo, perçoit la deuxième année
 d'attribution de la dotation une attribution par habitant au moins égale à celle
 perçue l'année précédente, augmentée comme la dotation forfaitaire prévue à
-l'article L. 2334-7.. En outre, elle ne peut au titre des troisième, quatrième
-et cinquième années d'attribution dans la même catégorie et sous réserve de
+l'article L. 2334-7. En outre, elle ne peut au titre des troisième, quatrième et
+cinquième années d'attribution dans la même catégorie et sous réserve de
 l'application des 2° et 3° du présent II, percevoir une attribution par habitant
 inférieure, respectivement, à 95 %, 90 % et 85 % de la dotation par habitant
 perçue l'année précédente.
 
 Les syndicats ou communautés d'agglomération nouvelle perçoivent une attribution
-qui progresse chaque année comme la dotation forfaitaire prévue à l'article L.
-2334-7.
+qui progresse chaque année selon un taux fixé par le comité des finances locales
+au plus égal au taux d'évolution de la dotation forfaitaire prévue à l'article
+L. 2334-7.
 
 A compter de 2005, les communautés d'agglomération, les communautés de communes
 ne faisant pas application des dispositions de l'article 1609 nonies C du code

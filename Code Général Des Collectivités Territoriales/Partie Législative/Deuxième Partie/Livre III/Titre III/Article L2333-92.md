@@ -10,9 +10,10 @@ produits par l'exploitant. La taxe est due par l'exploitant de l'installation au
 
 Peuvent établir la taxe mentionnée au premier alinéa les communes sur le
 territoire desquelles l'installation ou l'extension d'un centre de traitement
-des déchets ménagers ou assimilés est postérieure au 1er janvier 2006, ou qui
-ont bénéficié, avant le 1er juillet 2002, d'une aide versée par l'Agence de
-l'environnement et de la maîtrise de l'énergie en faveur d'une telle
+des déchets ménagers ou assimilés est postérieure au 1er janvier 2006 ou résulte
+d'une autorisation préfectorale obtenue antérieurement au 1er juillet 2002 ainsi
+que celles qui ont bénéficié, avant le 1er juillet 2002, d'une aide versée par
+l'Agence de l'environnement et de la maîtrise de l'énergie en faveur d'une telle
 installation ou extension en application des articles 22-1 et 22-3 de la loi n°
 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la
 récupération des matériaux.
@@ -20,5 +21,5 @@ récupération des matériaux.
 En cas d'installation située sur le territoire de plusieurs communes, leurs
 conseils municipaux, par délibérations concordantes, instituent la taxe et
 déterminent les modalités de répartition de son produit. Le montant total de la
-taxe acquittée par l'exploitant est plafonné à 1, 5 euro (1) la tonne entrant
-dans l'installation.
+taxe acquittée par l'exploitant est plafonné à 1, 5 euro la tonne entrant dans
+l'installation.

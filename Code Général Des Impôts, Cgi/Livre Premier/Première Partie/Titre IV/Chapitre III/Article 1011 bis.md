@@ -5,15 +5,16 @@ d'immatriculation des véhicules prévue à l'article 1599 quindecies.
 
 La taxe est due sur le premier certificat d'immatriculation délivré en France
 pour une voiture particulière au sens du 1 du C de l'annexe II de la directive
-70/156/CEE du Conseil, du 6 février 1970, concernant le rapprochement des
+70 / 156 / CEE du Conseil, du 6 février 1970, concernant le rapprochement des
 législations des Etats membres relatives à la réception des véhicules à moteur
 et de leurs remorques.
 
 II. ― La taxe est assise :
 
 a) Pour les voitures particulières qui ont fait l'objet d'une réception
-communautaire au sens de la directive 70/156/CEE du Conseil, du 6 février 1970,
-précitée, sur le nombre de grammes de dioxyde de carbone émis par kilomètre ;
+communautaire au sens de la directive 70 / 156 / CEE du Conseil, du 6 février
+1970, précitée, sur le nombre de grammes de dioxyde de carbone émis par
+kilomètre ;
 
 b) Pour les voitures particulières autres que celles mentionnées au a, sur la
 puissance administrative.
@@ -58,7 +59,7 @@ Taux ≤ 150
 
 0
 
-151≤ taux ≤155
+151 ≤ taux ≤ 155
 
 0
 
@@ -178,6 +179,21 @@ Taux ≤ 150
 
 2 600
 
+Pour la détermination des tarifs mentionnés au tableau ci-dessus, le taux
+d'émission de dioxyde de carbone des véhicules est diminué de 20 grammes par
+kilomètre par enfant à charge au sens de l'article L. 521-1 du code de la
+sécurité sociale, à compter du troisième enfant et pour un seul véhicule de cinq
+places assises et plus par foyer.
+
+Cette réduction fait l'objet d'une demande de remboursement auprès du service
+mentionné sur l'avis d'impôt sur le revenu du redevable de la taxe mentionnée au
+I. Le remboursement est égal à la différence entre le montant de la taxe
+acquitté au moment de l'immatriculation du véhicule et le montant de la taxe
+effectivement dû après application de la réduction du taux d'émission de dioxyde
+de carbone prévue par enfant à charge. Un décret fixe les conditions dans
+lesquelles sont adressées les demandes de remboursement, et notamment les pièces
+justificatives à produire.
+
 b) Pour les voitures particulières mentionnées au b du II :
 
 PUISSANCE FISCALE (en chevaux-vapeur)
@@ -204,6 +220,15 @@ Puissance fiscale ≤ 7
 Pour les véhicules introduits en France après avoir été immatriculés dans un
 autre pays, la taxe est réduite d'un dixième par année écoulée depuis cette
 immatriculation.
+
+Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85
+mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient
+d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens
+de la directive 70 / 156 / CEE du Conseil, du 6 février 1970, concernant le
+rapprochement des législations des Etats membres relatives à la réception des
+véhicules à moteur et de leurs remorques, figurant dans le tableau mentionné au
+a du présent III. Cet abattement ne s'applique pas aux véhicules dont les
+émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre.
 
 IV. ― La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions
 que la taxe prévue à l'article 1599 quindecies.

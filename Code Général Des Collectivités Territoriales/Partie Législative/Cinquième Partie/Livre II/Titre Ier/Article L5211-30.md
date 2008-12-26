@@ -4,19 +4,31 @@ I.-Les sommes affectées à chacune des catégories d'établissements publics de
 coopération intercommunale mentionnées au I de l'article L. 5211-29 sont
 réparties entre les établissements après prélèvement des sommes nécessaires à
 l'application des dispositions de l'article L. 5211-33, à raison de 30 % pour la
-dotation de base et de 70 % pour la dotation de péréquation.
+dotation de base et de 70 % pour la dotation de péréquation. A compter du 1er
+janvier 2009, la somme affectée à la catégorie des communautés urbaines est
+répartie de telle sorte que l'attribution revenant à chacune d'entre elles soit
+égale au produit de sa population par la dotation moyenne par habitant de la
+catégorie des communautés urbaines, augmenté, le cas échéant, d'une garantie.
 
-A compter du 1er janvier 2003, les sommes affectées à la catégorie des
-communautés urbaines sont réparties de sorte que le montant de l'attribution par
-habitant de chacune d'entre elles est égal à l'attribution par habitant perçue
-l'année précédente augmentée comme la dotation forfaitaire prévue à l'article L.
-2334-7.
+En 2009, cette dotation moyenne est fixée à 60 € par habitant.
 
-Pour les communautés urbaines créées à compter du 1er janvier 2002 ou issues de
-la transformation, postérieure à cette date, d'un établissement public de
-coopération intercommunale, le montant de la dotation par habitant est égal, la
-première année d'attribution, à la dotation moyenne par habitant de la catégorie
-des communautés urbaines.
+Les communautés urbaines ayant perçu, au titre de cette même catégorie, en 2008,
+une attribution de la dotation d'intercommunalité bénéficient d'une garantie
+lorsque le montant prévu au 1° ci-dessous est supérieur au montant prévu au 2°.
+Elle est égale en 2009 à la différence entre :
+
+1° Le montant de la dotation d'intercommunalité perçue par la communauté urbaine
+en 2008, indexé selon un taux fixé par le comité des finances locales, qui ne
+peut excéder le taux d'évolution pour 2009 de la dotation forfaitaire prévue à
+l'article L. 2334-7 ;
+
+2° Le produit de sa population au 1er janvier 2009 par le montant moyen
+mentionné au troisième alinéa du présent I.
+
+A compter de 2010, le montant de l'attribution totale par habitant due à chaque
+communauté urbaine évolue chaque année selon un taux fixé par le comité des
+finances locales dans la limite du taux d'évolution de la dotation forfaitaire
+prévue à l'article L. 2334-7.
 
 Chaque établissement public de coopération intercommunale doté d'une fiscalité
 propre mentionné au premier alinéa perçoit, par prélèvement sur le montant total

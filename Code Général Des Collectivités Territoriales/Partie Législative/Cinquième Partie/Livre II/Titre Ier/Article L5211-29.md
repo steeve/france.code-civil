@@ -14,20 +14,20 @@ l'article 1609 nonies C du code général des impôts ;
 
 4° Les syndicats ou communautés d'agglomération nouvelle ;
 
-5° Les communautés d'agglomération créées avant le 1er janvier 2005.
+5° Les communautés d'agglomération créées avant le 1er janvier 2005 ;
 
 6° Pour la période de 2000 à 2002, la catégorie mentionnée au 1° est divisée en
 deux catégories distinctes :
 
--les communautés urbaines ne faisant pas application des dispositions de
+- les communautés urbaines ne faisant pas application des dispositions de
 l'article 1609 nonies C du code général des impôts ;
 
-Les communautés urbaines faisant application des dispositions de l'article 1609
-nonies C du code général des impôts.
+- les communautés urbaines faisant application des dispositions de l'article
+1609 nonies C du code général des impôts.
 
-II.L'évolution de la dotation par habitant de la catégorie des communautés
-d'agglomération ne peut être inférieure à l'évolution prévisionnelle des prix à
-la consommation hors tabac associée au projet de loi de finances.
+II. L'évolution de la dotation par habitant de la catégorie des communautés
+d'agglomération est au plus égale à l'évolution prévisionnelle des prix à la
+consommation hors tabac associée au projet de loi de finances.
 
 A compter de 2005, la dotation par habitant de la catégorie des communautés de
 communes ne faisant pas application des dispositions de l'article 1609 nonies C
@@ -46,9 +46,8 @@ remplissent les conditions visées à l'article L. 5214-23-1 est majorée d'une
 somme lui permettant d'atteindre 175 F au 1er janvier 2000. Pour les années
 suivantes, ce montant, fixé par le comité des finances locales, évolue au moins
 comme l'évolution prévisionnelle des prix à la consommation hors tabac associée
-au projet de loi de finances.A compter de 2005, ce montant évolue au moins selon
-le taux fixé par le comité des finances locales en application du précédent
-alinéa.
+au projet de loi de finances. A compter de 2005, ce montant évolue selon le taux
+fixé par le comité des finances locales en application du précédent alinéa.
 
 Les modalités de répartition de la majoration prévue au précédent alinéa sont
 précisées à l'article L. 5211-30.

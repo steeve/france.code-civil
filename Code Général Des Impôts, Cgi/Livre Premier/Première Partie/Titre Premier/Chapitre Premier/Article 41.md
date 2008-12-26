@@ -1,9 +1,9 @@
 Article 41
 ----
-I. - Les plus-values soumises au régime des articles 39 duodecies à 39
-quindecies et réalisées par une personne physique à l'occasion de la
-transmission à titre gratuit d'une entreprise individuelle peuvent bénéficier
-des dispositions suivantes :
+I.-Les plus-values soumises au régime des articles 39 duodecies à 39 quindecies
+et réalisées par une personne physique à l'occasion de la transmission à titre
+gratuit d'une entreprise individuelle peuvent bénéficier des dispositions
+suivantes :
 
 a. L'imposition des plus-values afférentes aux éléments de l'actif immobilisé
 constatées à l'occasion de cette transmission fait l'objet d'un report jusqu'à
@@ -34,20 +34,24 @@ est effectuée au nom du ou des apporteurs. En cas de cession de tout ou partie
 des titres reçus en rémunération de cet apport, il est mis fin au report au nom
 du ou des bénéficiaires ayant réalisé l'apport.
 
+d bis. En cas de partage avec soulte, le report d'imposition est maintenu si le
+ou les attributaires de l'entreprise individuelle prennent l'engagement
+d'acquitter l'impôt sur la plus-value en report à la date où l'un des événements
+cités aux a ou b se réalise.
+
 e. Pour l'application du présent article, la mise en location-gérance de tout ou
 partie de l'entreprise est assimilée à une cessation totale ou partielle.
 
-II. - Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de
-la date de la transmission visée au premier alinéa du I, les plus-values
-demeurant en report définies au premier alinéa du a du I sont définitivement
-exonérées.
+II.-Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la
+date de la transmission visée au premier alinéa du I, les plus-values demeurant
+en report définies au premier alinéa du a du I sont définitivement exonérées.
 
-III. - Les profits afférents aux stocks constatés à l'occasion de la
-transmission visée au premier alinéa du I ne sont pas imposés si le ou les
-nouveaux exploitants bénéficiaires inscrivent ces stocks à la valeur comptable
-pour laquelle ils figurent au bilan de l'ancienne entreprise.
+III.-Les profits afférents aux stocks constatés à l'occasion de la transmission
+visée au premier alinéa du I ne sont pas imposés si le ou les nouveaux
+exploitants bénéficiaires inscrivent ces stocks à la valeur comptable pour
+laquelle ils figurent au bilan de l'ancienne entreprise.
 
-IV. - a. Le régime défini au I s'applique sur option exercée par le ou les
+IV.-a. Le régime défini au I s'applique sur option exercée par le ou les
 exploitants et, si tel est le cas, par les autres bénéficiaires lors de
 l'acceptation de la transmission par ces derniers.
 
@@ -69,4 +73,4 @@ nécessaires au calcul des plus-values imposables.
 e) L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue
 au a.
 
-V. - Un décret précise les obligations déclaratives.
+V.-Un décret précise les obligations déclaratives.

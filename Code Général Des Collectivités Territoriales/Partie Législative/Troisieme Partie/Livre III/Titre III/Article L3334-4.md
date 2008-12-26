@@ -20,8 +20,17 @@ dotation de fonctionnement minimale, du total des montants de la dotation de
 péréquation et de la dotation de fonctionnement minimale perçu en 2004 par les
 départements mentionnés à l'article L. 3334-7.
 
-Les départements d'outre-mer bénéficient d'une quote-part de la dotation dans
-les conditions définies à l'article L. 3443-1.
+Les départements d'outre-mer, la collectivité départementale de Mayotte, la
+collectivité territoriale de Saint-Pierre-et-Miquelon et la collectivité de
+Saint-Martin bénéficient d'une quote-part de la dotation de péréquation,
+constituée d'une quote-part de la dotation de péréquation urbaine et d'une
+quote-part de la dotation de fonctionnement minimale.
+
+A compter de 2009, la quote-part de la dotation de péréquation urbaine versée à
+chaque département ou collectivité d'outre-mer est au moins égale à celle perçue
+l'année précédente. De même, la quote-part de la dotation de fonctionnement
+minimale destinée à chaque département ou collectivité d'outre-mer, qui en
+remplit les conditions, est au moins égale à celle perçue l'année précédente.
 
 Lorsqu'un département remplit pour la première année les conditions
 démographiques prévues au premier alinéa de l'article L. 3334-6-1 pour être

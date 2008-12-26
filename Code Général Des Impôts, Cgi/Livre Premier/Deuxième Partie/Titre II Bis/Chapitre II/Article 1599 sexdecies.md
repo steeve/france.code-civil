@@ -2,8 +2,9 @@ Article 1599 sexdecies
 ----
 I. 1 Les certificats d'immatriculation des véhicules automobiles et de tous
 autres véhicules à moteur donnent lieu au paiement d'une taxe proportionnelle
-dont le taux unitaire par cheval-vapeur, arrêté par la région, est déterminé
-chaque année par délibération du conseil régional.
+dont le taux unitaire par cheval-vapeur, arrêté par la région ou la collectivité
+territoriale de Corse, est déterminé chaque année par délibération du conseil
+régional ou de l'assemblée de Corse.
 
 2 Le taux unitaire prévu au 1 est réduit de moitié en ce qui concerne :
 

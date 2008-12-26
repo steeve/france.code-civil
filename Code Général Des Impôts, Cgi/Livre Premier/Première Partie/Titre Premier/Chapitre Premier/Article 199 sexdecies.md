@@ -30,6 +30,10 @@ compte pour le bénéfice des dispositions du présent article.
 supporté, dans la limite de 12 000 Euros, en tenant compte prioritairement de
 celles ouvrant droit au bénéfice du crédit d'impôt mentionné au 4.
 
+La limite de 12 000 € est portée à 15 000 € pour la première année d'imposition
+pour laquelle le contribuable bénéficie des dispositions du présent article au
+titre du a du 1.
+
 Cette limite est portée à 20 000 euros pour les contribuables mentionnés au 3°
 de l'article L. 341-4 du code de la sécurité sociale, ainsi que pour les
 contribuables ayant à leur charge une personne, vivant sous leur toit,
@@ -43,7 +47,10 @@ de plus de soixante-cinq ans. La majoration s'applique également aux ascendants
 visés au premier alinéa du 2 remplissant la même condition d'âge. Le montant de
 1 500 euros est divisé par deux pour les enfants réputés à charge égale de l'un
 et l'autre de leurs parents. La limite de 12 000 euros augmentée de ces
-majorations ne peut excéder 15 000 euros.
+majorations ne peut excéder 15 000 euros. Toutefois, lorsque les dispositions du
+deuxième alinéa sont applicables, la limite de 15 000 € fait l'objet des
+majorations prévues au présent alinéa et le montant total des dépenses ne peut
+excéder 18 000 €.
 
 4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des
 dépenses mentionnées au 3 au titre des services définis à l'article D. 129-35 du

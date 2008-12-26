@@ -9,8 +9,9 @@ générale de décentralisation due au département au titre de 2003, hors la
 fraction de cette dotation correspondant à des compensations fiscales et aux
 concours particuliers prévus aux articles L. 1614-8 et L. 1614-4, revalorisé en
 fonction du taux de croissance de la dotation globale de fonctionnement mise en
-répartition en 2004.A compter de 2005, cette dotation évolue chaque année comme
-la dotation globale de fonctionnement mise en répartition.
+répartition en 2004. A compter de 2005, cette dotation évolue chaque année selon
+un taux fixé par le comité des finances locales au plus égal au taux d'évolution
+de la dotation globale de fonctionnement mise en répartition.
 
 Pour 2005, la dotation de compensation calculée en application de l'alinéa
 précédent est diminuée de la somme des réfactions opérées en application de
@@ -28,8 +29,8 @@ supérieur à la dotation de compensation perçue par un département en 2004 et
 indexée selon le taux mentionné au présent article, la différence est prélevée
 sur le produit de la taxe spéciale sur les conventions d'assurance attribué en
 application du I de l'article 53 de la loi de finances pour 2005 (n° 2004-1484
-du 30 décembre 2004).A compter de 2006, ce prélèvement évolue chaque année selon
-le taux d'indexation de la dotation globale de fonctionnement mise en
+du 30 décembre 2004). A compter de 2006, ce prélèvement évolue chaque année
+selon le taux d'indexation de la dotation globale de fonctionnement mise en
 répartition ;
 
 -la dotation de compensation des départements fait l'objet d'un abondement d'un
@@ -56,9 +57,9 @@ d'un montant correspondant au produit de la moyenne de ses dépenses réelles
 d'investissement ayant été subventionnées au titre de 2002, 2003 et 2004 en
 application du deuxième alinéa de l'article L. 3334-11, dans sa rédaction
 antérieure à la loi n° 2005-1719 du 30 décembre 2005, par son taux réel de
-subvention au titre de 2004 minoré de 2 points.A compter de 2007, cette
+subvention au titre de 2004 minoré de 2 points. A compter de 2007, cette
 majoration de la dotation de compensation de chaque département est calculée en
-prenant un taux réel de subvention au titre de 2004 minoré de 1, 22 point. Ce
+prenant un taux réel de subvention au titre de 2004 minoré de 1,22 point. Ce
 montant est indexé selon les taux d'évolution de la formation brute de capital
 fixe des administrations publiques tels qu'ils sont estimés dans le rapport
 économique, social et financier joint aux projets de loi de finances pour 2005

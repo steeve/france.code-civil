@@ -2,20 +2,21 @@ Article L3334-16-2
 ----
 Il est institué un fonds de mobilisation départementale pour l'insertion sous la
 forme d'un prélèvement sur les recettes de l'Etat et dont bénéficient les
-départements. Il est doté, en 2006, 2007 et 2008 de 500 millions d'euros par an.
+départements. Il est doté, en 2006, 2007 , 2008 et 2009 de 500 millions d'euros
+par an.
 
-I.-Ce fonds est constitué de trois parts :
+I. - Ce fonds est constitué de trois parts :
 
 1° Une première part au titre de la compensation. Son montant est égal à 50 % du
-montant total du fonds en 2006 et à 40 % en 2007 et 2008 ;
+montant total du fonds en 2006 et à 40 % en 2007 , 2008 et 2009 ;
 
 2° Une deuxième part au titre de la péréquation. Son montant est égal à 30 % du
-montant total du fonds en 2006, 2007 et 2008 ;
+montant total du fonds en 2006, 2007 , 2008 et 2009 ;
 
 3° Une troisième part au titre de l'insertion. Son montant est égal à 20 % du
-montant total du fonds en 2006 et à 30 % en 2007 et 2008.
+montant total du fonds en 2006 et à 30 % en 2007 , 2008 et 2009 .
 
-II.-Les crédits de la première part sont répartis entre les départements pour
+II. - Les crédits de la première part sont répartis entre les départements pour
 lesquels un écart positif est constaté entre la dépense exposée par le
 département au titre de l'année qui précède l'année au titre de laquelle le
 versement est opéré et le droit à compensation résultant pour ce département du
@@ -23,7 +24,7 @@ transfert du revenu minimum d'insertion et du revenu minimum d'activité, au
 prorata du rapport entre l'écart positif constaté pour chaque département et la
 somme de ces écarts positifs.
 
-III.-Les crédits de la deuxième part sont répartis entre les départements dans
+III. - Les crédits de la deuxième part sont répartis entre les départements dans
 les conditions précisées par le présent III, après prélèvement des sommes
 nécessaires à la quote-part destinée aux départements d'outre-mer.
 
@@ -63,12 +64,16 @@ revenu minimum d'insertion est constaté au 31 décembre de l'année qui précè
 l'année au titre de laquelle le versement est opéré par le ministre chargé des
 affaires sociales.
 
-IV.-Les crédits de la troisième part sont répartis entre les départements
+IV. - Les crédits de la troisième part sont répartis entre les départements
 proportionnellement au rapport entre le nombre total des contrats d'avenir
 mentionnés à l'article L. 322-4-10 du code du travail, des contrats
 d'insertion-revenu minimum d'activité mentionnés à l'article L. 322-4-15 du même
-code et des primes mentionnées à l'article L. 262-11 du code de l'action sociale
-et des familles, constatés au 31 décembre de l'année qui précède l'année au
-titre de laquelle le versement est opéré par le ministre chargé des affaires
-sociales dans chaque département et le même nombre total constaté à la même date
-pour l'ensemble des départements.
+code, des primes mentionnées à l'article L. 262-11 du code de l'action sociale
+et des familles ainsi que des contrats conclus et des prestations de revenu de
+solidarité active attribuées dans le cadre des expérimentations conduites sur le
+fondement des articles 142 de la loi n° 2006-1666 du 21 décembre 2006 de
+finances pour 2007 et 18 à 23 de la loi n° 2007-1223 du 21 août 2007 en faveur
+du travail, de l'emploi et du pouvoir d'achat, constatés au 31 décembre de
+l'année qui précède l'année au titre de laquelle le versement est opéré par le
+ministre chargé des affaires sociales dans chaque département et le même nombre
+total constaté à la même date pour l'ensemble des départements.

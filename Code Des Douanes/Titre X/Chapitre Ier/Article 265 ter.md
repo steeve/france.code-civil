@@ -34,6 +34,6 @@ dans ce cadre sous l'entière responsabilité des utilisateurs. Elles sont
 soumises à la taxe intérieure de consommation au tarif applicable au gazole
 identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265. Ce
 tarif est diminué de la valeur de la réduction appliquée aux esters méthyliques
-d'huile végétale mentionnés au a du 1 de l'article 265 bis A.
+d'huile végétale mentionnés au 1 du tableau du 1 de l'article 265 bis A.
 
 Un décret détermine les conditions d'application du 2.

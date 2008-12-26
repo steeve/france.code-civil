@@ -1,7 +1,7 @@
 Article 412
 ----
 Sont passibles de la confiscation des marchandises litigieuses et d'une amende
-de 150 euros à 1500 euros :
+de 150 euros à 1 500 euros :
 
 1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation
 sans déclaration lorsque l'infraction porte sur des marchandises de la catégorie
@@ -35,7 +35,4 @@ sommaires ; toute différence dans la nature des marchandises manifestées ou
 déclarées sommairement ;
 
 9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au
-détail ou d'y effectuer des manipulations non autorisées ;
-
-10° Toute omission ou irrégularité qui a pour but ou pour résultat d'éluder ou
-de compromettre le recouvrement de la taxe visée à l'article 285 septies.
+détail ou d'y effectuer des manipulations non autorisées.

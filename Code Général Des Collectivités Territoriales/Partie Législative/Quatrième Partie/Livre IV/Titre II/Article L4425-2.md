@@ -44,4 +44,5 @@ Les charges mentionnées au premier alinéa sont compensées par le transfert
 d'impôts d'Etat et par l'attribution de ressources budgétaires.
 
 Ces ressources sont libres d'affectation et évoluent comme la dotation globale
-de fonctionnement.
+de fonctionnement.A titre dérogatoire, cette évolution ne s'applique pas en
+2009.

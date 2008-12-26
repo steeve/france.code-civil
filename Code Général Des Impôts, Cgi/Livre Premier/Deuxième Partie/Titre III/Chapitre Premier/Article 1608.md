@@ -6,7 +6,7 @@ foncières auxquelles il procède et de contribuer au financement des travaux
 d'équipement d'intérêt régional.
 
 Le montant de cette taxe est arrêté chaque année pour l'année suivante dans la
-limite de 6 860 000 euros, par le conseil d'administration de l'établissement
+limite de 13 000 000 €, par le conseil d'administration de l'établissement
 public et notifié au ministre de l'économie et des finances.
 
 Ce montant est réparti, dans les conditions définies au II de l'article 1636 B

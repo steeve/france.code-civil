@@ -140,6 +140,19 @@ Hectolitre.
 
 63,96.
 
+Supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que
+les supercarburants correspondant aux indices d'identification 11 et 11 bis, et
+contenant jusqu'à 10 % v / v d'éthanol, 22 % v / v d'éthers contenant 5 d'atomes
+de carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en m
+/ m d'oxygène. Ce super-carburant est dénommé E10.
+
+11 ter
+
+
+Hectolitre
+
+60,69
+
 ----carburéacteurs, type essence :
 
 -----sous condition d'emploi ;
@@ -516,7 +529,8 @@ Ex 3824-90-98
 
 Hectolitre.
 
-28,33.
+23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010,
+puis 17,29 à compter du 1er janvier 2011.
 
 2. Règles d'application.
 

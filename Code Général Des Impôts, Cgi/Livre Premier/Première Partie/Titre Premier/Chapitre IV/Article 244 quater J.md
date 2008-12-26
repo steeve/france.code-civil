@@ -84,6 +84,14 @@ l'habitation. Les ressources des ménages bénéficiaires de cette majoration
 doivent être inférieures ou égales aux plafonds de ressources permettant l'accès
 aux logements locatifs sociaux visés au I de l'article R. 331-1 du même code.
 
+Le montant de l'avance remboursable sans intérêt est majoré, dans des conditions
+fixées par décret en Conseil d'Etat, d'un montant maximum de 20 000 € pour les
+opérations portant sur la construction ou l'acquisition de logements neufs ou en
+l'état futur d'achèvement dont le niveau élevé de performance énergétique
+globale, déterminé dans des conditions fixées par décret et justifié par le
+bénéficiaire de l'avance, est supérieur à celui qu'impose la législation en
+vigueur (1).
+
 Un décret en Conseil d'Etat définit les caractéristiques financières et les
 conditions d'attribution de l'avance remboursable sans intérêt.
 
@@ -129,7 +137,7 @@ chaque établissement de crédit, le montant total des crédits d'impôt
 correspondants obtenus ainsi que leur suivi.
 
 VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L,
-ou groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C
+ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C
 ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être
 utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
 ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les

@@ -1,6 +1,6 @@
 Article L2572-62
 ----
-Les communes de Mayotte perçoivent de 2003 à 2008 une dotation exceptionnelle
+Les communes de Mayotte perçoivent de 2003 à 2011 une dotation exceptionnelle
 pour contribuer aux charges liées à la réforme de l'état civil.
 
 Le montant global de cette dotation est fixé à 300 000 euros par an. Il est

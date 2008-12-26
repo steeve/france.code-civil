@@ -5,7 +5,7 @@ par actions cotées sur un marché réglementé français, dont le capital socia
 n'est pas inférieur à 15 millions d'euros, qui ont pour objet principal
 l'acquisition ou la construction d'immeubles en vue de la location, ou la
 détention directe ou indirecte de participations dans des personnes visées à
-l'article 8 et aux 1,2 et 3 de l'article 206 dont l'objet social est identique.
+l'article 8 et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique.
 
 Le capital ou les droits de vote des sociétés visées au premier alinéa ne
 doivent pas être détenus, directement ou indirectement, à hauteur de 60 % ou
@@ -38,26 +38,30 @@ d'investissements immobiliers cotées, à 95 % au moins, directement ou
 indirectement, de manière continue au cours de l'exercice, soumises à l'impôt
 sur les sociétés et ayant un objet identique, peuvent opter pour l'exonération
 d'impôt sur les sociétés pour la fraction de leur bénéfice provenant de la
-location des immeubles, de la sous-location des immeubles pris en crédit-bail et
-des plus-values sur la cession à des personnes non liées au sens du 12 de
-l'article 39 d'immeubles, de droits réels énumérés au sixième alinéa, de droits
-afférents à un contrat de crédit-bail portant sur un immeuble et de
-participations dans des personnes visées à l'article 8 ou dans des filiales
-soumises au présent régime.
+location des immeubles, de la sous-location des immeubles pris en crédit-bail ou
+dont la jouissance a été conférée à titre temporaire par l'Etat, une
+collectivité territoriale ou un de leurs établissements publics et des
+plus-values sur la cession à des personnes non liées au sens du 12 de l'article
+39 d'immeubles, de droits réels énumérés au sixième alinéa, de droits afférents
+à un contrat de crédit-bail portant sur un immeuble et de participations dans
+des personnes visées à l'article 8 ou dans des filiales soumises au présent
+régime.
 
 Les bénéfices exonérés provenant des opérations de location des immeubles et de
-la sous-location des immeubles pris en crédit-bail sont obligatoirement
-distribués à hauteur de 85 % avant la fin de l'exercice qui suit celui de leur
-réalisation. Par exception, les bénéfices exonérés provenant des opérations de
-location des biens immobiliers acquis dans les conditions prévues à l'article
-151 septies C sont obligatoirement distribués à hauteur de 50 % avant la fin de
-l'exercice qui suit celui de leur réalisation, à la condition que les biens
-immobiliers ainsi acquis soient mis à la disposition de l'exploitation du cédant
-par la société cessionnaire ou par la société dont les droits ou parts ont été
-cédés pendant au moins neuf ans à compter de leur date d'acquisition et que,
-dans la situation visée au 1° du III dudit article 151 septies C, ces biens
-continuent d'être exploités par une personne répondant aux conditions visées au
-2° du I de ce même article pour la durée restant à courir.
+la sous-location des immeubles pris en crédit-bail ou dont la jouissance a été
+conférée à titre temporaire par l'Etat, une collectivité territoriale ou un de
+leurs établissements publics sont obligatoirement distribués à hauteur de 85 %
+avant la fin de l'exercice qui suit celui de leur réalisation. Par exception,
+les bénéfices exonérés provenant des opérations de location des biens
+immobiliers acquis dans les conditions prévues à l'article 151 septies C sont
+obligatoirement distribués à hauteur de 50 % avant la fin de l'exercice qui suit
+celui de leur réalisation, à la condition que les biens immobiliers ainsi acquis
+soient mis à la disposition de l'exploitation du cédant par la société
+cessionnaire ou par la société dont les droits ou parts ont été cédés pendant au
+moins neuf ans à compter de leur date d'acquisition et que, dans la situation
+visée au 1° du III dudit article 151 septies C, ces biens continuent d'être
+exploités par une personne répondant aux conditions visées au 2° du I de ce même
+article pour la durée restant à courir.
 
 Les bénéfices exonérés provenant de la cession des immeubles, de droits réels
 énumérés au sixième alinéa, des droits afférents à un contrat de crédit-bail
@@ -156,17 +160,55 @@ IV.-En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées
 au taux visé au IV de l'article 219 font l'objet d'une imposition au taux prévu
 au I dudit article au titre de l'exercice de sortie sous déduction de l'impôt
-payé au titre du IV du même article.
+payé au titre du IV du même article. Par ailleurs, la société d'investissements
+immobiliers cotée et ses filiales visées au II doivent réintégrer dans leurs
+résultats fiscaux respectifs une somme correspondant au bénéfice distribuable à
+la clôture de l'exercice de sortie du présent régime, au sens du premier alinéa
+de l'article L. 232-11 du code de commerce, et correspondant à des résultats
+exonérés en vertu du II du présent article. Le montant d'impôt sur les sociétés
+dû est majoré de l'impôt dû au titre, d'une part, du montant de l'imposition de
+la plus-value qui aurait été exigible en application du cinquième alinéa si la
+société n'était pas sortie du présent régime, d'autre part, de l'imposition au
+taux de 25 % de la somme, diminuée d'un dixième par année civile écoulée depuis
+l'entrée dans le présent régime, des plus-values latentes depuis cette date
+relatives aux immeubles, droits réels mentionnés aux premier et sixième alinéas
+du II ou afférents à un contrat de crédit-bail portant sur un immeuble et
+participations dans des personnes mentionnées à l'article 8.
 
 Si la société d'investissements immobiliers cotée ne respecte pas le plafond de
 détention de 60 % prévu au deuxième alinéa du I, elle est imposée à l'impôt sur
 les sociétés dans les conditions de droit commun au titre des exercices au cours
 desquels la condition n'est pas respectée.
 
+La plus-value imposable réalisée lors de la cession d'un immeuble est toutefois
+diminuée du montant des amortissements déduits des résultats exonérés en
+application du II. Le premier alinéa du présent IV devient applicable si ce
+plafond de détention n'est pas respecté à l'expiration de l'exercice au cours
+duquel le dépassement a été constaté ou si ce plafond n'est pas respecté plus
+d'une fois pour une cause autre que l'une de celles prévues au troisième alinéa
+du I pendant les dix années suivant l'option ou au cours des dix années
+suivantes. Dans ce cas, la société d'investissements immobiliers cotée sort du
+présent régime, au sens du premier alinéa du présent IV, au titre de l'exercice
+au cours duquel le dépassement a été constaté et le bénéfice distribuable est
+apprécié à la clôture de l'exercice au cours duquel le dépassement a été
+constaté.
+
 N'est pas constitutive d'une sortie la fusion de deux sociétés d'investissements
 immobiliers cotées dès lors que la société absorbante s'engage, dans l'acte de
 fusion, à se substituer à la société absorbée pour les obligations de
 distribution prévues du deuxième au quatrième alinéas du II.
+
+Par exception au 2 de l'article 221, les plus-values nettes imposables relatives
+aux immeubles, droits réels énumérés au dernier alinéa du II du présent article,
+droits afférents à un contrat de crédit-bail et parts des organismes mentionnés
+au cinquième alinéa du même II inscrits à l'actif des sociétés qui ont opté pour
+le régime prévu audit II et qui remplissent à nouveau la condition du plafond de
+détention de 60 % visé au deuxième alinéa du I du présent article, et de leurs
+filiales au sens du même II sont limitées aux plus-values latentes acquises
+depuis le premier jour de l'exercice au cours duquel ce plafond n'a pas été
+respecté. Les plus-values latentes autres que celles visées à la phrase
+précédente ne font pas l'objet d'une imposition immédiate à la condition
+qu'aucune modification ne soit apportée aux écritures comptables.
 
 Si au cours d'un exercice le capital d'une société d'investissements immobiliers
 cotée vient à être détenu, directement ou indirectement, à 95 % au moins par une

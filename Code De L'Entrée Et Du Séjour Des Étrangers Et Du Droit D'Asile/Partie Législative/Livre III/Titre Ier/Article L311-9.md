@@ -17,9 +17,11 @@ et les femmes et la laïcité. La formation linguistique est sanctionnée par un
 titre ou un diplôme reconnus par l'Etat. L'étranger bénéficie d'une session
 d'information sur la vie en France et d'un bilan de compétences
 professionnelles. Toutes ces formations et prestations sont dispensées
-gratuitement. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat
-d'accueil et d'intégration doit être cosigné par son représentant légal
-régulièrement admis au séjour en France.
+gratuitement et financées par l'Agence nationale de l'accueil des étrangers et
+des migrations ou par l'établissement public appelé à lui succéder. Lorsque
+l'étranger est âgé de seize à dix-huit ans, le contrat d'accueil et
+d'intégration doit être cosigné par son représentant légal régulièrement admis
+au séjour en France.
 
 Lors du premier renouvellement de la carte de séjour, l'autorité administrative
 tient compte du non-respect, manifesté par une volonté caractérisée, par

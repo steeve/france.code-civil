@@ -1,7 +1,7 @@
 Article 199 decies EA
 ----
 La réduction d'impôt mentionnée à l'article 199 decies E est accordée au titre
-de l'acquisition d'un logement achevé avant le 1er janvier 1989 et qui fait
+de l'acquisition d'un logement achevé depuis quinze ans au moins et qui fait
 l'objet de travaux de réhabilitation. Par dérogation aux premier et troisième
 alinéas de l'article précité, la réduction d'impôt s'applique aux logements
 situés dans les stations classées en application du premier alinéa de l'article
@@ -19,9 +19,10 @@ catégoriels. Il ne peut bénéficier des dispositions prévues à l'article 32.
 Son taux est de 20 %. Elle est accordée au titre de l'année d'achèvement des
 travaux de réhabilitation et imputée sur l'impôt dû au titre de cette même année
 à raison du sixième des limites de 10 000 euros ou 20 000 euros puis, le cas
-échéant, pour le solde les cinq années suivantes dans les mêmes conditions. Les
-travaux de réhabilitation doivent être achevés dans les deux années qui suivent
-l'acquisition du logement.
+échéant, pour le solde les cinq années suivantes dans les mêmes conditions.A la
+demande du contribuable, ce solde peut être imputé par sixième durant les six
+années suivantes. Les travaux de réhabilitation doivent être achevés dans les
+deux années qui suivent l'acquisition du logement.
 
 La location doit prendre effet dans le délai prévu par l'article 199 decies E.
 

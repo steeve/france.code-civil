@@ -1,12 +1,13 @@
 Article 244 quater B
 ----
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
-leur bénéfice réel ou exonérées en application des articles 44 sexies,44 sexies
-A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent
-bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles
-exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la
-fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et
-de 5 % pour la fraction des dépenses de recherche supérieure à ce montant.
+leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
+A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies
+peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche
+qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 %
+pour la fraction des dépenses de recherche inférieure ou égale à 100 millions
+d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce
+montant.
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre
 respectivement de la première et de la deuxième année qui suivent l'expiration
@@ -17,7 +18,7 @@ entreprise ayant bénéficié du crédit d'impôt au cours de la même période 
 années.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou
-groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C ne
+groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne
 sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve
 des dispositions prévues au septième alinéa du I de l'article 199 ter B, être
 utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
@@ -58,11 +59,17 @@ personnes soit à durée indéterminée et que l'effectif salarié de l'entrepri
 soit pas inférieur à celui de l'année précédente.
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature
-confiées à des organismes de recherche publics ou à des universités. Ces
-dépenses sont retenues pour le double de leur montant à la condition qu'il
-n'existe pas de liens de dépendance au sens des deuxième à quatrième alinéas du
-12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et
-l'organisme ou l'université.
+confiées à des organismes de recherche publics ou à des établissements
+d'enseignement supérieur délivrant un diplôme conférant un grade de master, des
+fondations de coopération scientifique et des établissements publics de
+coopération scientifique ou à des fondations reconnues d'utilité publique du
+secteur de la recherche agréées conformément au d bis. Ces dépenses sont
+retenues pour le double de leur montant à la condition qu'il n'existe pas de
+liens de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article
+39 entre l'entreprise qui bénéficie du crédit d'impôt et l'organisme ou
+l'établissement d'enseignement supérieur délivrant un diplôme conférant un grade
+de master, la fondation de coopération scientifique ou l'établissement public de
+coopération scientifique.
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à des organismes de recherche privés agréés par le ministre chargé de
@@ -168,8 +175,8 @@ des dépenses prévues aux h et i du II est subordonné au respect du règlement
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8,238 bis L,239 quater,239 quater B et 239 quater C qui
-ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
+mentionnés aux articles 8, 238 bis L, 239 quater, 239 quater B et 239 quater C
+qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
 règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La
 fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée
 par les associés de ces sociétés ou les membres de ces groupements

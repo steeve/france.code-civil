@@ -24,7 +24,8 @@ Sont considérés comme bénéfices de l'exploitation agricole les revenus prove
 de la vente de biomasse sèche ou humide, majoritairement issue de produits ou
 sous-produits de l'exploitation. Il en est de même des revenus provenant de la
 production d'énergie à partir de produits ou sous-produits majoritairement issus
-de l'exploitation agricole.
+de l'exploitation agricole. La prépondérance est appréciée en masse au regard de
+chaque produit commercialisé par l'exploitant.
 
 Sont considérés comme bénéfices de l'exploitation agricole les revenus qui
 proviennent de la mise à disposition de droits à paiement unique, créés en

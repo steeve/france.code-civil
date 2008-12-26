@@ -3,22 +3,22 @@ Article 199 decies F
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables
 domiciliés en France au sens de l'article 4 B qui réalisent des travaux de
 reconstruction, d'agrandissement, de réparation ou d'amélioration entre le 1er
-janvier 2005 et le 31 décembre 2010. Cette réduction d'impôt s'applique :
+janvier 2005 et le 31 décembre 2012. Cette réduction d'impôt s'applique :
 
 a) Aux dépenses afférentes à un logement, faisant partie d'une résidence de
 tourisme classée dans une zone de revitalisation rurale ou dans une zone, autre
 qu'une zone de revitalisation rurale, inscrite sur la liste pour la France des
 zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n°
-1260/1999 du Conseil, du 21 juin 1999, portant dispositions générales sur les
+1260 / 1999 du Conseil, du 21 juin 1999, portant dispositions générales sur les
 fonds structurels, à l'exclusion des communes situées dans des agglomérations de
 plus de 5 000 habitants, qui est destiné à la location dont le produit est
 imposé dans la catégorie des revenus fonciers ;
 
-b) Aux dépenses afférentes à un logement, achevé avant le 1er janvier 1989 et
+b) Aux dépenses afférentes à un logement, achevé depuis quinze ans au moins et
 situé dans une zone mentionnée au a, qui est destiné à la location en qualité de
 meublé de tourisme au sens de l'arrêté du 28 décembre 1976 ;
 
-c) Aux dépenses afférentes à un logement, achevé avant le 1er janvier 1989 et
+c) Aux dépenses afférentes à un logement, achevé depuis quinze ans au moins et
 faisant partie d'un village résidentiel de tourisme classé inclus dans le
 périmètre d'une opération de réhabilitation de l'immobilier de loisir définie à
 l'article L. 318-5 du code de l'urbanisme, qui est destiné à la location dont le

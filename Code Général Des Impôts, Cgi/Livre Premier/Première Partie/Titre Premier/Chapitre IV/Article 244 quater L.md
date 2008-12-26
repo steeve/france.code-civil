@@ -2,11 +2,11 @@ Article 244 quater L
 ----
 I.-Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune
 des années comprises entre 2005 et 2010 au cours desquelles au moins 40 % de
-leurs recettes proviennent d'activités mentionnées à l'article 63 qui ont fait
-l'objet d'une certification en agriculture biologique au sens de l'article 8 du
-règlement (CEE) n° 2092 / 91 du Conseil, du 24 juin 1991, concernant le mode de
-production biologique de produits agricoles et sa présentation sur les produits
-agricoles et les denrées alimentaires.
+leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du
+mode de production biologique conformément aux règles fixées dans le règlement
+(CE) n° 834 / 2007 du conseil, du 28 juin 2007, relatif à la production
+biologique et à l'étiquetage de produits biologiques et abrogeant le règlement
+(CEE) n° 2092 / 91.
 
 Les dispositions du premier alinéa ne s'appliquent pas aux entreprises agricoles
 titulaires, au 1er mai de l'année civile ou de l'exercice au cours duquel le
@@ -16,8 +16,8 @@ d'aide à la conversion à l'agriculture biologique, sauf si au moins 50 % de la
 surface de leur exploitation est en mode de production biologique, ces mêmes 50
 % ne bénéficiant pas d'aide à la conversion.
 
-II.-1.-Le montant du crédit d'impôt mentionné au I s'élève à 1 200 euros. Il est
-majoré, dans la limite de 800 euros, de 200 euros par hectare exploité selon le
+II.-1.-Le montant du crédit d'impôt mentionné au I s'élève à 2400 euros. Il est
+majoré, dans la limite de 1600 euros, de 400 euros par hectare exploité selon le
 mode de production biologique.
 
 2.-Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en
@@ -26,8 +26,8 @@ que le crédit d'impôt ainsi obtenu puisse excéder trois fois le crédit d'imp
 calculé dans les conditions prévues au A.
 
 III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
-articles 8 et 238 bis L ou les groupements mentionnés aux articles 238 ter,239
-quater,239 quater B,239 quater C et 239 quinquies, qui ne sont pas soumis à
+articles 8 et 238 bis L ou les groupements mentionnés aux articles 238 ter, 239
+quater, 239 quater B, 239 quater C et 239 quinquies, qui ne sont pas soumis à
 l'impôt sur les sociétés, peut être utilisé par leurs associés
 proportionnellement à leurs droits dans ces sociétés ou ces groupements, à
 condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de

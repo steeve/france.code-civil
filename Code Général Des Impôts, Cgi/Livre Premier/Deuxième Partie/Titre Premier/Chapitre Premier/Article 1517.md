@@ -40,6 +40,8 @@ les propriétés bâties sont, quelle que soit la date de leur acquisition,
 dispositions de l'article 1499, lorsqu'elles appartiennent à des entreprises qui
 ne relèvent pas du régime défini à l'article 50-0 pour l'impôt sur le revenu. La
 commission communale des impôts directs est tenue informée de ces évaluations.
+Lorsqu'une commission intercommunale des impôts directs est constituée, elle est
+tenue informée de ces évaluations en lieu et place des commissions communales.
 
 2. En ce qui concerne les propriétés non bâties, ces valeurs sont déterminées
 d'après les tarifs arrêtés pour les propriétés de même nature existant dans la

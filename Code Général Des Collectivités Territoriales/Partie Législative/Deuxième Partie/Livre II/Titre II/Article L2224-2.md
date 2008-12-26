@@ -32,7 +32,7 @@ habitants, aux services de distribution d'eau et d'assainissement ;
 
 2° Quelle que soit la population des communes et groupements de collectivités
 territoriales, aux services publics d'assainissement non collectif, lors de leur
-création et pour une durée limitée au maximum aux quatre premiers exercices.
+création et pour une durée limitée au maximum aux cinq premiers exercices.
 
 3° Quelle que soit la population des communes et groupements de collectivités
 territoriales, aux services publics d'élimination des déchets ménagers et

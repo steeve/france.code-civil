@@ -11,8 +11,7 @@ volonté de l'apprenti ou suite à une inaptitude physique et temporaire de
 celui-ci ;
 
 3° Lorsque le contrat d'apprentissage est souscrit par une personne à laquelle
-la qualité de travailleur handicapé est reconnue et dont l'âge maximal, fixé par
-décret, ne peut être supérieur à trente ans ;
+la qualité de travailleur handicapé est reconnue ;
 
 4° Lorsque le contrat d'apprentissage est souscrit par une personne qui a un
 projet de création ou de reprise d'entreprise dont la réalisation est

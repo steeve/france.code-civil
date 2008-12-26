@@ -6,11 +6,15 @@ charge, exclusive, principale ou réputée également partagée entre les parent
 est divisé par 1,5 lorsque ces contribuables :
 
 a. Vivent seuls et ont un ou plusieurs enfants majeurs ou faisant l'objet d'une
-imposition distincte ;
+imposition distincte dont ces contribuables ont supporté à titre exclusif ou
+principal la charge pendant au moins cinq années au cours desquelles ils
+vivaient seuls ;
 
 b. Vivent seuls et ont eu un ou plusieurs enfants qui sont morts, à la condition
 que l'un d'eux au moins ait atteint l'âge de seize ans ou que l'un d'eux au
-moins soit décédé par suite de faits de guerre ;
+moins soit décédé par suite de faits de guerre et que les contribuables aient
+supporté à titre exclusif ou principal la charge de l'un au moins de ces enfants
+pendant au moins cinq années au cours desquelles ils vivaient seuls ;
 
 c. Sont titulaires, soit pour une invalidité de 40 % ou au-dessus, soit à titre
 de veuve, d'une pension prévue par les dispositions du code des pensions
@@ -27,7 +31,10 @@ e. Vivent seuls et ont adopté un enfant, à la condition que, si l'adoption a e
 lieu alors que l'enfant était âgé de plus de dix ans, cet enfant ait été à la
 charge de l'adoptant comme enfant recueilli dans les conditions prévues à
 l'article 196 depuis l'âge de dix ans. Cette disposition n'est pas applicable si
-l'enfant adopté est décédé avant d'avoir atteint l'âge de seize ans ;
+l'enfant adopté est décédé avant d'avoir atteint l'âge de seize ans ou si
+l'enfant adopté n'a pas été à la charge exclusive ou principale des
+contribuables pendant au moins cinq années au cours desquelles ceux-ci vivaient
+seuls ;
 
 f. Sont âgés de plus de 75 ans et titulaires de la carte du combattant ou d'une
 pension servie en vertu des dispositions du code des pensions militaires

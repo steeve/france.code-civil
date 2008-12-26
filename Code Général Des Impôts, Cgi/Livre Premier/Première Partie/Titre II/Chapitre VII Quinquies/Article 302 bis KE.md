@@ -29,3 +29,7 @@ Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes proc�
 et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la
 valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les
 règles applicables à cette même taxe.
+
+Le produit de la taxe est affecté au Centre national de la cinématographie. Ce
+dernier peut recevoir communication de l'administration des impôts, pour chaque
+redevable, de tous renseignements relatifs au montant de la taxe.

@@ -9,17 +9,10 @@ quote-part destinée aux communes des départements d'outre-mer, de la
 Nouvelle-Calédonie, de la Polynésie française, de la collectivité territoriale
 de Saint-Pierre-et-Miquelon, des circonscriptions territoriales de
 Wallis-et-Futuna et de la collectivité départementale de Mayotte. Cette
-quote-part est calculée en appliquant au montant de la part communale le
-rapport, majoré de 33 %, existant, d'après le dernier recensement général, entre
-la population des communes des départements d'outre-mer, de la
-Nouvelle-Calédonie, de la Polynésie française, de la collectivité territoriale
-de Saint-Pierre-et-Miquelon, des circonscriptions territoriales de
-Wallis-et-Futuna et de la collectivité départementale de Mayotte et celle des
-communes de métropole et des départements d'outre-mer, de la Nouvelle-Calédonie,
-de la Polynésie française, de la collectivité territoriale de
-Saint-Pierre-et-Miquelon, des circonscriptions territoriales de Wallis-et-Futuna
-et de la collectivité départementale de Mayotte. Elle est répartie dans des
-conditions fixées par décret en Conseil d'Etat.
+quote-part est calculée en appliquant au montant de la dotation nationale de
+péréquation le ratio démographique mentionné au quatrième alinéa de l'article L.
+2334-13. Elle est répartie dans des conditions fixées par décret en Conseil
+d'Etat.
 
 III.-Bénéficient de la part principale de la dotation les communes de métropole
 qui remplissent les deux conditions suivantes :

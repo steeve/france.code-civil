@@ -32,6 +32,9 @@ III. - Jusqu'au 31 décembre 2009, sont également exclus de la contribution vis
 au I les envois de correspondances au sens de l'article L. 1 du code des postes
 et des communications électroniques, à l'exception du publipostage.
 
+Jusqu'au 31 décembre 2009, sont également exclus de la contribution visée au I
+les catalogues de vente par correspondance envoyés nominativement.
+
 A compter du 1er janvier 2010, dans des conditions fixées par décret, tout
 metteur sur le marché de papiers à usage graphique, transformés, manufacturés,
 conditionnés et destinés à être imprimés par ou pour le compte d'utilisateurs

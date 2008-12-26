@@ -29,10 +29,10 @@ de base pour 2005, d'autre part.
 
 A compter de 2006, le montant de la dotation de base par habitant de chaque
 département et, le cas échéant, sa garantie évoluent chaque année selon des taux
-de progression fixés par le Comité des finances locales. Ces taux sont compris,
-pour la dotation de base et sa garantie, respectivement entre 35 % et 70 % et
-entre 0 % et 50 % du taux de croissance de l'ensemble des ressources de la
-dotation globale de fonctionnement.
+de progression fixés par le Comité des finances locales. Ces taux sont au plus
+égaux, pour la dotation de base et sa garantie, respectivement à 70 % et 50 % du
+taux de croissance de l'ensemble des ressources de la dotation globale de
+fonctionnement.
 
 En 2005, la dotation forfaitaire du département de Paris est égale à la dotation
 forfaitaire qu'il a perçue l'année précédente indexée selon le taux de

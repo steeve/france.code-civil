@@ -157,3 +157,7 @@ k) Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants assurant les prestations de balayage des caniveaux
 et voies publiques lorsqu'elles se rattachent au service public de voirie
 communale.
+
+l) Les remboursements et les rémunérations versés par les communes ou leurs
+groupements aux exploitants assurant les prestations de déneigement des voies
+publiques lorsqu'elles se rattachent à un service public de voirie communale.

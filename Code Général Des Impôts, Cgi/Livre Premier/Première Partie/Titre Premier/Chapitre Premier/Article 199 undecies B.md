@@ -85,18 +85,16 @@ groupement.
 La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'année
 au cours de laquelle l'investissement est réalisé.
 
-Si le montant de la réduction d'impôt excède l'impôt dû par les contribuables,
-l'excédent constitue une créance sur l'Etat d'égal montant. Cette créance est
-utilisée pour le paiement de l'impôt sur le revenu dû au titre des années
-suivantes jusqu'à la cinquième année inclusivement. La fraction non utilisée est
-remboursée à l'expiration de cette période dans la limite d'un montant
-d'investissement de 1 525 000 euros.
+Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable
+ayant réalisé l'investissement, le solde peut être reporté, dans les mêmes
+conditions, sur l'impôt sur le revenu des années suivantes jusqu'à la cinquième
+inclusivement.
 
 Toutefois, sur demande du contribuable qui, dans le cadre de l'activité ayant
 ouvert droit à réduction, participe à l'exploitation au sens des dispositions du
 1° bis du I de l'article 156, la fraction non utilisée peut être remboursée à
-compter de la troisième année, dans la limite de 40 % du crédit d'impôt et d'un
-montant d'investissement de 1 525 000 euros.
+compter de la troisième année, dans la limite d'un montant de 100 000 € par an
+ou de 300 000 € par période de trois ans.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa
 durée normale d'utilisation si elle est inférieure, l'investissement ayant
@@ -119,16 +117,17 @@ transmission doit, au titre de l'exercice au cours duquel cet événement est
 intervenu, ajouter à son résultat une somme égale au triple du montant de la
 réduction d'impôt à laquelle les biens transmis ont ouvert droit.
 
-Lorsque l'investissement est réalisé par une société ou un groupement visés au
-dix-neuvième alinéa, les associés ou membres doivent, en outre, conserver les
-parts ou actions de cette société ou de ce groupement pendant un délai de cinq
-ans à compter de la réalisation de l'investissement.A défaut, la réduction
-d'impôt qu'ils ont pratiquée fait l'objet d'une reprise au titre de l'année de
-la cession. Le revenu global de cette même année est alors majoré des déficits
-indûment imputés en application du I bis. Les montants de cette reprise et de
-cette majoration sont diminués, le cas échéant, dans la proportion de leurs
-droits dans la société ou le groupement, des reprises et majorations déjà
-effectuées en application des dispositions du vingt-troisième alinéa.
+Lorsque l'investissement est réalisé par une société ou un groupement visés aux
+dix-neuvième et vingt-septième alinéas, les associés ou membres doivent, en
+outre, conserver les parts ou actions de cette société ou de ce groupement
+pendant un délai de cinq ans à compter de la réalisation de l'investissement.A
+défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet d'une reprise au
+titre de l'année de la cession. Le revenu global de cette même année est alors
+majoré des déficits indûment imputés en application du I bis. Les montants de
+cette reprise et de cette majoration sont diminués, le cas échéant, dans la
+proportion de leurs droits dans la société ou le groupement, des reprises et
+majorations déjà effectuées en application des dispositions du vingt-troisième
+alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements
 productifs mis à la disposition d'une entreprise dans le cadre d'un contrat de
@@ -144,6 +143,39 @@ respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titr
 l'année au cours de laquelle cet événement se réalise. Le revenu global de cette
 même année est alors majoré des déficits indûment imputés en application du I
 bis du présent article.
+
+La réduction d'impôt prévue au présent I s'applique aux investissements réalisés
+par une société soumise de plein droit à l'impôt sur les sociétés dont les
+actions sont détenues intégralement et directement par des contribuables,
+personnes physiques, domiciliés en France au sens de l'article 4 B. En ce cas,
+la réduction d'impôt est pratiquée par les associés dans une proportion
+correspondant à leurs droits dans la société.L'application de cette disposition
+est subordonnée au respect des conditions suivantes :
+
+1° Les investissements ont reçu un agrément préalable du ministre chargé du
+budget dans les conditions prévues au III de l'article 217 undecies ;
+
+2° Les investissements sont mis à la disposition d'une entreprise dans le cadre
+d'un contrat de location respectant les conditions mentionnées aux quatorzième à
+dix-septième alinéas du I de l'article 217 undecies et 60 % de la réduction
+d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution du
+loyer et du prix de cession du bien à l'exploitant ;
+
+3° La société réalisant l'investissement a pour objet exclusif l'acquisition
+d'investissements productifs en vue de la location au profit d'une entreprise
+située dans les départements ou collectivités d'outre-mer.
+
+Les associés personnes physiques mentionnés au vingt-septième alinéa ne peuvent
+bénéficier, pour la souscription au capital de la société mentionnée au même
+alinéa, des réductions d'impôt prévues aux articles 199 undecies A, 199
+terdecies-0 A et 885-0 V bis et la société mentionnée au vingt-septième alinéa
+ne peut bénéficier des dispositions prévues aux articles 217 bis et 217
+undecies.
+
+Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par
+les contribuables mentionnés au vingt-septième alinéa lors de la cession des
+titres des sociétés mentionnées à ce même alinéa. Le 2° du 3 de l'article 158 ne
+s'applique pas aux revenus distribués par ces sociétés.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au dernier alinéa
 du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
