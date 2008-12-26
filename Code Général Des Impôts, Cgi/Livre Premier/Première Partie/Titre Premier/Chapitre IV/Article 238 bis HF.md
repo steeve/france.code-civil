@@ -6,8 +6,8 @@ originale, en langue française, de nationalité d'un Etat de la Communauté
 européenne, et éligibles aux aides financières à la production du Centre
 national du cinéma et de l'image animée, à l'exclusion :
 
-Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances
-pour 1976 n° 75-1278 du 30 décembre 1975 ;
+Des oeuvres figurant sur la liste prévue à l'article L. 311-2 du code du cinéma
+et de l'image animée ;
 
 Des oeuvres cinématographiques ou audiovisuelles utilisables à des fins de
 publicité ;
