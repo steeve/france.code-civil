@@ -6,11 +6,11 @@ comprenant :
 
 a) Pour les navires de commerce :
 
-Une taxe sur la jauge et, le cas échéant, une taxe de stationnement ;
+Une taxe sur le navire et, le cas échéant, une taxe de stationnement ;
 
 Une taxe sur les marchandises ;
 
-Une taxe sur les passagers ;
+Une taxe sur les passagers.
 
 b) Pour les navires de pêche :
 
