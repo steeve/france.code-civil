@@ -132,11 +132,14 @@ répartition, prévue au 9 de l'article L. 214-36 du code monétaire et financie
 d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
 les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont
 affectées en priorité au remboursement des apports. L'excédent des sommes
-réparties sur le montant des apports est compris dans le résultat imposable de
+réparties sur le montant des apports ou sur le prix d'acquisition des parts s'il
+est différent du montant des apports est compris dans le résultat imposable de
 l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
 des plus-values à long terme dans la proportion existant entre le montant des
 apports effectués depuis au moins deux ans à la date de la répartition et le
-montant total des apports effectués à cette même date.
+montant total des apports effectués à cette même date. Le prix de revient des
+parts est corrélativement diminué à concurrence des sommes réparties qui n'ont
+pas été imposées en application du présent alinéa.
 
 Le premier alinéa du présent 2° s'applique également aux sommes reçues par un
 fonds commun de placement à risques, qui remplit les conditions prévues au II ou

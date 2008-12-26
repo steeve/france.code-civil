@@ -16,9 +16,9 @@ d) (Abrogé)
 
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
-négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
-des avantages définis aux 6 et 6 bis de l'article 200 A du code général des
-impôts et du gain défini à l'article 150 duodecies du même code ;
+négociables, soumis à l'impôt sur le revenu à un taux proportionnel de même que
+des avantages définis aux 6 et 6 bis de l'article 200 A du même code et du gain
+défini à l'article 150 duodecies du code général des impôts;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -49,11 +49,12 @@ supporté la contribution prévue à l'article L. 136-1.
 
 II. bis.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B du code général des impôts sont également assujetties à la
-contribution mentionnée au I à raison des plus-values exonérées d'impôt sur le
-revenu en application du 7 du III de l'article 150-0 A dudit code. Il en est de
-même pour les plus-values à long terme exonérées en application de l'article 151
-septies A du code général des impôts ainsi que pour les revenus exonérés en
-application du II de l'article 81 C du même code.
+contribution mentionnée au I à raison des gains nets exonérés en application du
+I bis de l'article 150-0 A du même code ainsi que des plus-values exonérées en
+application du 7 du II du même article. Il en est de même pour les plus-values à
+long terme exonérées en application de l'article 151 septies A du code général
+des impôts ainsi que pour les revenus exonérés en application du II de l'article
+81 C du même code.
 
 III.-La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes

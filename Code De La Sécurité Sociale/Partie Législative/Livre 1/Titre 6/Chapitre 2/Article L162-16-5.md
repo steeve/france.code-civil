@@ -1,16 +1,16 @@
 Article L162-16-5
 ----
 Le prix de cession au public des spécialités disposant d'une autorisation de
-mise sur le marché, de l'autorisation mentionnée à l'article L. 5124-17-1 du
-code de la santé publique ou de l'autorisation mentionnée à l'article L.
-5121-9-1 du même code et inscrites sur la liste prévue à l'article L. 5126-4 du
-code de la santé publique, majoré le cas échéant du montant de la taxe sur la
-valeur ajoutée, est égal au prix de vente aux établissements de santé déclaré
-par l'entreprise au Comité économique des produits de santé et publié par ce
-dernier, auquel s'ajoute une marge dont la valeur est fixée par arrêté des
-ministres chargés de la santé, de la sécurité sociale et de l'économie prenant
-en compte les frais inhérents à la gestion et à la dispensation de ces
-spécialités.
+mise sur le marché, de l'autorisation d'importation parallèle mentionnée à
+l'article L. 5121-17 du code de la santé publique ou de l'autorisation
+mentionnée à l'article L. 5121-9-1 du même code et inscrites sur la liste prévue
+à l'article L. 5126-4 du code de la santé publique, majoré le cas échéant du
+montant de la taxe sur la valeur ajoutée, est égal au prix de vente aux
+établissements de santé déclaré par l'entreprise au Comité économique des
+produits de santé et publié par ce dernier, auquel s'ajoute une marge dont la
+valeur est fixée par arrêté des ministres chargés de la santé, de la sécurité
+sociale et de l'économie prenant en compte les frais inhérents à la gestion et à
+la dispensation de ces spécialités.
 
 A défaut de déclaration ou en cas d'opposition définitive du comité, le prix de
 cession au public est fixé par décision du Comité économique des produits de

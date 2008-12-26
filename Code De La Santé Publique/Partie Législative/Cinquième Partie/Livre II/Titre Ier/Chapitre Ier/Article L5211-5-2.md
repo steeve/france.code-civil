@@ -1,14 +1,18 @@
 Article L5211-5-2
 ----
-Il est institué au profit de l'Agence française de sécurité sanitaire des
-produits de santé une taxe annuelle frappant les dispositifs médicaux tels
-qu'ils sont définis à l'article L. 5211-1, mis sur le marché français. Elle est
-exigible des fabricants, ou pour les produits importés hors de la Communauté
-européenne, de leurs mandataires.
+Les dispositifs médicaux tels qu'ils sont définis à l'article L. 5211-1, mis sur
+le marché français, sont frappés d'une taxe annuelle perçue par l'Agence
+française de sécurité sanitaire des produits de santé à son profit et à celui
+des comités mentionnés à l'article L. 1123-1. Elle est exigible des fabricants,
+ou pour les produits importés hors de la Communauté européenne, de leurs
+mandataires.
 
-Le taux de cette taxe est fixé à 0,24 % du chiffre d'affaires annuel hors taxes
+Le taux de cette taxe est fixé à 0, 25 % du chiffre d'affaires annuel hors taxes
 réalisé. La taxe n'est pas exigible lorsque les ventes n'ont pas atteint, au
-cours de l'année civile précédente, un montant hors taxes de 763 000 euros.
+cours de l'année civile précédente, un montant hors taxes de 763 000 €. Une
+fraction de cette taxe, égale à 2, 1 % du produit perçu chaque année, est
+reversée, après recouvrement, aux comités mentionnés à l'article L. 1123-1 selon
+des modalités déterminées par arrêté du ministre chargé de la santé.
 
 Une obligation de déclaration est instituée selon les mêmes conditions et les
 mêmes pénalités que celles fixées aux premier et deuxième alinéas de l'article

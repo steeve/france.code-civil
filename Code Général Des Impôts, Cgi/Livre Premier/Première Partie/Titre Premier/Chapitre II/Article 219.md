@@ -1,9 +1,9 @@
 Article 219
 ----
 I. Pour le calcul de l'impôt, le bénéfice imposable est arrondi à l'euro le plus
-proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+proche. La fraction d'euro égale à 0, 50 est comptée pour 1.
 
-Le taux normal de l'impôt est fixé à 33,1 / 3 %.
+Le taux normal de l'impôt est fixé à 33, 1 / 3 %.
 
 Toutefois :
 
@@ -24,18 +24,18 @@ au cours des dix exercices suivants.
 
 a bis. Les moins-values à long terme existant à l'ouverture du premier des
 exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
-plus-values à long terme imposées au taux de 19 %. L'excédent des moins-values à
+plus-values à long terme imposées au taux de 19 %.L'excédent des moins-values à
 long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
 raison des 19 / 33, 33e de son montant.
 
 Les moins-values à long terme existant à l'ouverture du premier des exercices
 ouverts à compter du 1er janvier 2005 sont imputées sur les plus-values à long
-terme imposées au taux de 15 %. L'excédent des moins-values à long terme subies
+terme imposées au taux de 15 %.L'excédent des moins-values à long terme subies
 au cours d'un exercice ouvert à compter du 1er janvier 2005 et afférentes à des
 éléments autres que les titres de participations définis au troisième alinéa du
 a quinquies peut être déduit des bénéfices de l'exercice de liquidation d'une
-entreprise à raison des 15 / 33,33 de son montant ;
+entreprise à raison des 15 / 33, 33 de son montant ;
 
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
@@ -100,7 +100,7 @@ Les titres inscrits au compte de titres de participation ou à l'une des
 subdivisions spéciales mentionnées au troisième alinéa qui cessent de remplir
 les conditions mentionnées à ce même alinéa doivent être transférés hors de ce
 compte ou de cette subdivision à la date à laquelle ces conditions ne sont plus
-remplies. A défaut d'un tel transfert, les titres maintenus à ce compte ou à
+remplies.A défaut d'un tel transfert, les titres maintenus à ce compte ou à
 cette subdivision sont réputés transférés pour l'application des cinquième,
 sixième et dixième alinéas ; les dispositions prévues au douzième alinéa en cas
 d'omission s'appliquent.
@@ -208,7 +208,7 @@ Les moins-values à long terme afférentes à ces titres exclus du régime des p
 et moins-values à long terme en application du premier alinéa, et restant à
 reporter à l'ouverture du premier exercice clos à compter du 31 décembre 2006,
 peuvent, après compensation avec les plus-values à long terme et produits
-imposables au taux visé au a, s'imputer à raison des 15 / 33,33 de leur montant
+imposables au taux visé au a, s'imputer à raison des 15 / 33, 33 de leur montant
 sur les bénéfices imposables, dans la limite des gains nets retirés de la
 cession de titres de même nature.
 
@@ -313,7 +313,7 @@ hauteur de la fraction de leurs résultats comptables qu'elles incorporent à le
 capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
 doit représenter, pour chacun des trois exercices et dans la limite du résultat
 fiscal, le quart au plus du résultat comptable sans excéder la somme de 30 000
-euros. L'option ne peut plus être exercée pour l'imposition des résultats des
+euros.L'option ne peut plus être exercée pour l'imposition des résultats des
 exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
 de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le
 dispositif ne s'applique pas aux résultats des exercices restants, sauf, sur
@@ -384,7 +384,7 @@ découlent sont fixées par décret.
 
 II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt
 au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération
-sous condition de remploi prévue audit article. L'application de la présente
+sous condition de remploi prévue audit article.L'application de la présente
 disposition est toutefois subordonnée à la double condition que :
 
 a. Les opérations génératrices des plus-values présentent un caractère
@@ -403,16 +403,19 @@ Toutefois, en ce qui concerne ces profits :
 
 a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 
-b. L'application de ce taux réduit est subordonnée à la condition que les
+b.L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-IV.-Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
+IV.-Le taux de l'impôt est fixé à 19 % en ce qui concerne les plus-values
 imposables en application du 2 de l'article 221, du troisième alinéa de
-l'article 223 F et de l'article 208 C ter, relatives aux immeubles, droits
-afférents à un contrat de crédit-bail et parts des organismes mentionnés au
-cinquième alinéa du II de l'article 208 C inscrits à l'actif des sociétés qui
-ont opté pour le régime prévu au II de ce même article.
+l'article 223 F, du troisième alinéa du IV de l'article 208 C, et de l'article
+208 C ter, relatives aux immeubles, droits afférents à un contrat de
+crédit-bail, droits portant sur un immeuble dont la jouissance a été conférée à
+titre temporaire par l'Etat, une collectivité territoriale ou un de leurs
+établissements publics et parts des organismes mentionnés au cinquième alinéa du
+II de l'article 208 C inscrits à l'actif des sociétés qui ont opté pour le
+régime prévu au II de ce même article.
 
 Ce taux s'applique également aux plus-values imposables en application du 2 de
 l'article 221 relatives aux actifs mentionnés aux a à e du I de l'article L.

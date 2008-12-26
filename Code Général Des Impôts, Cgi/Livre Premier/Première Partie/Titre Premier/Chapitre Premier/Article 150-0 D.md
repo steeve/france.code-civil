@@ -78,7 +78,7 @@ le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de
 la promesse unilatérale de vente compte non tenu des sommes correspondant aux
 versements effectués à titre de loyers.
 
-8 ter - Le gain net mentionné au 6 du II de l'article 150-0 A est égal à la
+8 ter-Le gain net mentionné au 6 du II de l'article 150-0 A est égal à la
 différence entre le montant du remboursement et le prix ou la valeur
 d'acquisition ou de souscription des titres rachetés, diminuée du montant du
 revenu distribué imposable à l'impôt sur le revenu au titre du rachat dans les
@@ -91,6 +91,12 @@ publication de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003)
 et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la
 valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré
 de la soulte versée lors de l'échange.
+
+9 bis.-En cas de cession à titre onéreux ou de rachat de parts de fonds communs
+de placement à risques pour lesquelles le contribuable a perçu une distribution
+mentionnée au 7 du II de l'article 150-0 A, le prix d'acquisition ou de
+souscription est diminué à concurrence du montant des sommes ou valeurs ainsi
+distribuées qui n'a pas été imposé en application du même 7.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un
 fonds commun de placement réalisée conformément à la réglementation en vigueur,
@@ -119,7 +125,7 @@ assimilés peuvent, sur option expresse du détenteur, être imputées dans les
 conditions prévues au 11, à compter de l'année au cours de laquelle intervient
 le jugement ordonnant la cession de l'entreprise en application de l'article L.
 631-22 du code de commerce, en l'absence de tout plan de continuation, ou
-prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs
+prononçant sa liquidation judiciaire.L'option porte sur l'ensemble des valeurs
 mobilières, droits sociaux ou titres assimilés détenus dans la société faisant
 l'objet de la procédure collective. En cas d'infirmation du jugement ou de
 résolution du plan de cession, la perte imputée ou reportée est reprise au titre
@@ -141,7 +147,7 @@ l'encontre d'un contribuable ayant exercé l'option prévue au deuxième alinéa
 perte ainsi imputée ou reportée est reprise au titre de l'année de la
 condamnation.
 
-13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
+13.L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
 effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre
 gratuit, de la valeur retenue pour l'assiette des droits de mutation. Lorsque
 les titres ont été reçus, à compter du 1er janvier 2000, dans le cadre d'une

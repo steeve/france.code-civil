@@ -2,7 +2,7 @@ Article L162-17
 ----
 Les médicaments spécialisés, mentionnés à l'article L. 601 du code de la santé
 publique et les médicaments bénéficiant d'une autorisation d'importation
-parallèle mentionnée à l'article L. 5124-17-1 du même code, ne peuvent être pris
+parallèle mentionnée à l'article L. 5121-17 du même code, ne peuvent être pris
 en charge ou donner lieu à remboursement par les caisses d'assurance maladie,
 lorsqu'ils sont dispensés en officine, que s'ils figurent sur une liste établie
 dans les conditions fixées par décret en Conseil d'Etat. La liste précise les

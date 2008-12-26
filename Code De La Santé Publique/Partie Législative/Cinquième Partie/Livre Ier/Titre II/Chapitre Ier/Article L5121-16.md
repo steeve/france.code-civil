@@ -2,8 +2,10 @@ Article L5121-16
 ----
 Toute demande d'autorisation de mise sur le marché mentionnée à l'article L.
 5121-8 ou toute demande de modification ou de renouvellement de cette
-autorisation doit être accompagnée du versement d'un droit progressif dont le
-montant est fixé par décret dans la limite de 25 400 euros.
+autorisation ou toute demande d'autorisation ou de renouvellement d'autorisation
+d'importation parallèle délivrée dans les conditions fixées par le décret prévu
+par le 12° de l'article L. 5124-18 doit être accompagnée du versement d'un droit
+progressif dont le montant est fixé par décret dans la limite de 25 400 euros.
 
 Son montant est versé à l'Agence française de sécurité sanitaire des produits de
 santé.
