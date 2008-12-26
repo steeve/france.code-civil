@@ -42,6 +42,11 @@ demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
 d'informations relatives à l'identification du titulaire du certificat
 d'immatriculation ;
 
+9° bis Aux services compétents des Etats membres, pour l'application de la
+directive 2011/82/ UE du Parlement européen et du Conseil du 25 octobre 2011
+facilitant l'échange transfrontalier d'informations concernant les infractions
+en matière de sécurité routière ;
+
 10° Aux services compétents en matière d'immatriculation des Etats membres de
 l'Union européenne et aux autres Etats parties à l'accord sur l'Espace
 économique européen, dans le cadre des dispositions prévoyant un échange
