@@ -6,8 +6,7 @@ grande instance une action en revendication de la propriété de la demande de
 brevet.
 
 La suspension de la procédure prend effet du jour où la justification est
-apportée et s'applique notamment au délai prévu au premier alinéa de l'article
-L. 612-15 ; toutefois, elle ne fait pas obstacle à l'application de l'article R.
+apportée ; toutefois, elle ne fait pas obstacle à l'application de l'article R.
 612-39.
 
 La procédure de délivrance du brevet est reprise dès que la décision du tribunal

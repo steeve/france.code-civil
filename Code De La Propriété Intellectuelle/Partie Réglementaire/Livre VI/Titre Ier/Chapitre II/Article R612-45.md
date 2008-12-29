@@ -2,8 +2,9 @@ Article R612-45
 ----
 La demande de brevet est rejetée si :
 
-1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-11 (2e
-alinéa), R. 612-21 et R. 612-35 (4e alinéa) ;
+1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-8
+(cinquième alinéa), R. 612-11 (sixième alinéa), R. 612-21 et R. 612-35 (sixième
+alinéa) ;
 
 2° Les redevances de dépôt et de rapport de recherche visées à l'article R.
 612-5 n'ont pas été acquittées dans le délai prescrit.

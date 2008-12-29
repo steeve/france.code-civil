@@ -2,8 +2,8 @@ Article R613-50
 ----
 Sont inscrites au Registre national des brevets :
 
-La mention de la décision de constatation de déchéance prévue au 1 de l'article
-L. 613-22 ;
+La mention de la décision de constatation de déchéance prévue à l'article L.
+613-22 ;
 
 Les requêtes introductives des recours en restauration, des recours contre les
 décisions du directeur de l'institut et des pourvois en cassation, ainsi que les

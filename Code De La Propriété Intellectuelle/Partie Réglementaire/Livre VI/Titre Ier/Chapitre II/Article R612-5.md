@@ -5,5 +5,4 @@ suivie du paiement :
 
 1° De la redevance de dépôt ;
 
-2° De la redevance de rapport de recherche, à moins que l'établissement de ce
-dernier n'ait été différé.
+2° De la redevance de rapport de recherche.
