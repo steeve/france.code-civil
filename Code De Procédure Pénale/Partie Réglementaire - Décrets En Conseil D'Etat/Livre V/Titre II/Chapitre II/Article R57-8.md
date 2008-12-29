@@ -8,7 +8,7 @@ autorisés à travailler ;
 
 2° Délivrance des autorisations de visiter ou de communiquer avec des détenus
 non nominativement désignés incarcérés dans les établissements pénitentiaires
-situés dans le ressort de sa direction régionale ;
+situés dans le ressort de sa direction interrégionale ;
 
 3° Restitution de tout ou partie de la part disponible du compte nominatif d'un
 détenu réincarcéré après une évasion ;
@@ -44,4 +44,4 @@ situé dans le ressort de la direction régionale des services pénitentiaires ;
 Pour les compétences définies par la partie réglementaire du présent code, le
 directeur interrégional des services pénitentiaires peut déléguer sa signature à
 un ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un
-emploi au siège de la direction régionale.
+emploi au siège de la direction interrégionale.
