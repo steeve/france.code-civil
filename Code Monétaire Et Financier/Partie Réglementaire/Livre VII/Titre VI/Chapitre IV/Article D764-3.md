@@ -1,3 +1,4 @@
 Article D764-3
 ----
-L'article D. 432-1 est applicable dans les îles Wallis et Futuna.
+Les articles D. 431-1 à D. 431-5 sont applicables dans les îles Wallis et
+Futuna.

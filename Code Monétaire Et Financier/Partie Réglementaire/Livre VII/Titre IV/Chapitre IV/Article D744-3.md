@@ -1,3 +1,3 @@
 Article D744-3
 ----
-L'article D. 432-1 est applicable en Nouvelle-Calédonie.
+Les articles D. 431-1 à D. 431-5 sont applicables en Nouvelle-Calédonie.
