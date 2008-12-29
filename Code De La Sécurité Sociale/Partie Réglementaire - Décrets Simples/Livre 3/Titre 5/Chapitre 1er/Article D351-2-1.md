@@ -13,16 +13,19 @@ Lorsque cette durée est inférieure à la limite prévue à l'alinéa précéde
 montant minimum est réduit au prorata du nombre de trimestres d'assurance
 effectivement accomplis rapporté à ladite limite.
 
-Ce montant minimum est majoré au titre des périodes ayant donné lieu à
-cotisations à la charge de l'assuré, de façon à atteindre 7 603,41 euros par an
-au 1er janvier 2008 lorsque le total de ces périodes est supérieur ou égal à la
-limite prévue au troisième alinéa de l'article L. 351-1 applicable à l'assuré.
-Il est éventuellement réduit dans les conditions prévues au troisième alinéa du
-présent article.
+Sous réserve de la condition prévue à la deuxième phrase du premier alinéa de
+l'article L. 351-10, ce montant minimum est majoré au titre des périodes ayant
+donné lieu à cotisations à la charge de l'assuré, de façon à atteindre 7 603,41
+euros par an au 1er janvier 2006 lorsque le total de ces périodes est supérieur
+ou égal à la limite prévue au troisième alinéa de l'article L. 351-1 applicable
+à l'assuré. Il est éventuellement réduit dans les conditions prévues au
+troisième alinéa du présent article.
 
 Les montants prévus aux alinéas précédents sont revalorisés aux mêmes dates et
 dans les mêmes conditions que celles prévues pour les pensions de vieillesse par
 l'article L. 161-23-1.
 
 Au montant minimum déterminé s'ajoutent, le cas échéant, les bonifications,
-majorations et rente mentionnées au deuxième alinéa de l'article L. 351-10.
+majorations et rentes mentionnées au deuxième et au troisième alinéa de
+l'article L. 351-10. La majoration prévue à l'article L. 351-1-2 est calculée
+sur la base du montant de pension avant qu'il ne soit porté au montant minimum.
