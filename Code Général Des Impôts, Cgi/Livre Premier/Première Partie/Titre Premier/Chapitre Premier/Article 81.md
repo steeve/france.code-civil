@@ -38,10 +38,10 @@ contrat de travail à salaire différé prévu par l'article L321-13 du code rur
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
 combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
-b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la
-loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en
-faveur respectivement des personnes désignées au premier alinéa de l'article 2
-de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
+b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi
+de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur
+respectivement des personnes désignées au premier alinéa de l'article 2 de la
+loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
 formations supplétives et assimilés ou victimes de la captivité en Algérie et de
 leurs conjoints ou ex-conjoints survivants non remariés ;
 
@@ -116,7 +116,7 @@ l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 1
 du code du service national, au personnel accomplissant le service national
 actif dans le service de la coopération ou dans le service de l'aide technique ;
 
-b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
+b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
 l'accomplissement du volontariat civil en application de l'article L. 122-12 du
 code du service national ;
 
@@ -147,9 +147,13 @@ ouvrières de production en application de l'article 40 de la loi n° 78-763 du 
 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts
 sociales destinées exclusivement à leurs salariés ;
 
-18° Les sommes versées par l'entreprise en application de plans d'épargne
+18° a) Les sommes versées par l'entreprise en application de plans d'épargne
 constitués conformément aux dispositions du titre III du livre III de la
 troisième partie du code du travail ;
+
+b) Les sommes versées par le salarié pour alimenter un plan d'épargne pour la
+retraite collectif dans les conditions du dernier alinéa de l'article L. 3153-3
+du code du travail ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
@@ -166,16 +170,15 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,04 euros par titre, le complément de rémunération
-résultant de la contribution de l'employeur à l'acquisition par le salarié des
+19° Dans la limite de 5, 04 € par titre, le complément de rémunération résultant
+de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette
 contribution est comprise entre un minimum et un maximum fixés par arrêté du
-ministre de l'économie et des finances. La limite d'exonération est relevée
-chaque année dans la même proportion que la limite supérieure de la première
-tranche du barème de l'impôt sur le revenu de l'année précédant celle de
-l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime
-d'euro le plus proche.
+ministre chargé du budget. La limite d'exonération est relevée chaque année dans
+la même proportion que la limite supérieure de la première tranche du barème de
+l'impôt sur le revenu de l'année précédant celle de l'acquisition des
+titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux
 obligations qui sont mises à sa charge par le même chapitre II ;
@@ -184,17 +187,16 @@ obligations qui sont mises à sa charge par le même chapitre II ;
 des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4
 et L. 411-5 du code du tourisme ;
 
-19° ter a. L'avantage résultant de la prise en charge obligatoire par
-l'employeur du prix des titres d'abonnement souscrits par les salariés pour les
-déplacements effectués au moyen de transports publics de voyageurs entre leur
-résidence habituelle et leur lieu de travail, conformément à l'article L. 3261-2
-du code du travail ;
+19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur
+du prix des titres d'abonnement souscrits par les salariés pour les déplacements
+effectués au moyen de transports publics de voyageurs ou de services publics de
+location de vélos entre leur résidence habituelle et leur lieu de travail,
+conformément à l'article L. 3261-2 du code du travail ;
 
-b. La part contributive de l'employeur dans le chèque-transport prévu à
-l'article L. 3261-5 du code précité, dans la limite de 50 % du prix des
-abonnements de transport collectif pour les chèques-transport mentionnés au 1°
-de l'article L. 3261-6 du code précité ou de la somme de 100 euros par an pour
-les chèques-transport mentionnés au 2° du même article ;
+b.L'avantage résultant de la prise en charge par l'employeur des frais de
+carburant ou des frais exposés pour l'alimentation de véhicules électriques
+engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du
+code du travail et dans la limite de la somme de 200 € par an ;
 
 20° Les attributions gratuites d'actions :
 
@@ -251,7 +253,12 @@ sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre I
 de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans
 les corps de sapeurs-pompiers ;
 
-30° (Périmé)
+30° Le pécule modulable d'incitation des militaires à une seconde carrière,
+versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre
+2008 de finances pour 2009 ;
+
+30° bis.L'indemnité de départ volontaire versée en application du I de l'article
+150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
 dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de
@@ -293,7 +300,7 @@ d'imposition, à l'exception des agents publics percevant une rémunération dan
 le cadre de leur formation, en rémunération d'activités exercées pendant leurs
 études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou
 universitaires, dans la limite de trois fois le montant mensuel du salaire
-minimum de croissance (1) ;
+minimum de croissance ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du
 travail.
