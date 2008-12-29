@@ -28,7 +28,7 @@ spécialement habilités par le directeur général de la sécurité extérieure
 directeur de la protection et de la sécurité de la défense ou le directeur du
 renseignement militaire.
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
 
 IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les
 agents mentionnés au I.

@@ -46,4 +46,4 @@ spécialement habilités par le directeur général de la sécurité extérieure
 directeur de la protection et de la sécurité de la défense ou le directeur du
 renseignement militaire.
 
-IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2008.
+IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2012.

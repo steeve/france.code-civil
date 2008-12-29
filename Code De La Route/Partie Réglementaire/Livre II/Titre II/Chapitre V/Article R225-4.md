@@ -28,4 +28,4 @@ prévention et de répression des actes de terrorisme ;
 des missions de prévention des actes de terrorisme.
 
 Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont
-applicables jusqu'au 31 décembre 2008.
+applicables jusqu'au 31 décembre 2012.
