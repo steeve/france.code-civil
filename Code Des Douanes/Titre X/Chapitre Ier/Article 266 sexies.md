@@ -9,8 +9,8 @@ industriels spéciaux par incinération, coincinération, stockage, traitement
 physico-chimique ou biologique non exclusivement utilisée pour les déchets que
 l'entreprise produit ou toute personne qui transfère ou fait transférer des
 déchets industriels spéciaux vers un autre Etat en application du règlement
-(CEE) n° 259 / 93 du Conseil du 1er février 1993, concernant la surveillance et
-le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+(CEE) n° 259/93 du Conseil du 1er février 1993, concernant la surveillance et le
+contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
 européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V
@@ -34,9 +34,9 @@ est interdit ;
 
 c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres
 que celles visées aux a et b, correspondantes aux catégories suivantes
-(Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses
-utilisées en systèmes ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à
-chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a).
+(Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées
+en systèmes ouverts (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2),
+huiles de démoulage/ décoffrage (6 C/ K. 4a).
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou
 qui livre sur le marché intérieur après achat, importation ou fabrication dans
@@ -70,15 +70,11 @@ figurant sur une liste établie par décret en Conseil d'Etat après avis du
 Conseil supérieur des installations classées, font courir, par leur nature ou
 leur volume, des risques particuliers à l'environnement ;
 
-9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code
-de l'environnement, qui, au titre d'une année civile, a mis à disposition, fait
-mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
-déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 2003-488 DC du 29 décembre 2003) dans les conditions
-mentionnées audit article et qui n'a pas acquitté la contribution financière ou
-en nature qui y est prévue.
-
-II.-La taxe ne s'applique pas :
+9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de
+l'environnement qui, au titre d'une année civile, a émis ou fait émettre des
+imprimés papiers dans les conditions mentionnées audit article et qui n'a pas
+acquitté la contribution financière ou en nature qui y est prévue. II.-La taxe
+ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
 affectées à la valorisation comme matière par incorporation des déchets dans un
@@ -108,13 +104,13 @@ et 6 du I du présent article lorsque la première livraison après fabrication
 nationale consiste en une expédition directe à destination d'un Etat membre de
 la Communauté européenne ou en une exportation ;
 
-5.A l'exploitation d'installations classées par les entreprises inscrites au
+5. A l'exploitation d'installations classées par les entreprises inscrites au
 répertoire des métiers ;
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable
 respectant les critères définis pour le label écologique communautaire des
-lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du
-26 avril 2005 établissant les critères écologiques et les exigences associées en
+lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26
+avril 2005 établissant les critères écologiques et les exigences associées en
 matière d'évaluation et de vérification pour l'attribution du label écologique
 communautaire aux lubrifiants.
 
