@@ -24,9 +24,7 @@ l'assurance, et notamment de procéder, en fonction des dépenses régulièremen
 effectuées par les différents organismes assureurs et des cotisations dont
 l'encaissement leur incombe, à la répartition entre les caisses de mutualité
 sociale agricole et entre tous les autres organismes assureurs des sommes mises
-à sa disposition par l'établissement de gestion du fonds de financement des
-prestations sociales des non-salariés agricoles au titre de la participation de
-l'Etat ;
+à sa disposition au titre de la participation de l'Etat ;
 
 3° D'assurer le service de toute documentation utile et le cas échéant
 d'instituer après autorisation conjointe du ministre chargé de l'agriculture et

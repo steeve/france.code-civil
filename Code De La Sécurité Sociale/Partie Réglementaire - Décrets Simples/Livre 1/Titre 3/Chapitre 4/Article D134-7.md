@@ -21,5 +21,4 @@ chargé du budget fixe la date et le montant de ces versements.
 
 En ce qui concerne le régime des exploitants agricoles, les opérations
 financières sont effectuées entre la caisse des dépôts et consignations et
-l'agence comptable de l'établissement de gestion du fonds de financement des
-prestations sociales des non-salariés agricoles.
+l'agence comptable de la Caisse centrale de la mutualité sociale agricole.
