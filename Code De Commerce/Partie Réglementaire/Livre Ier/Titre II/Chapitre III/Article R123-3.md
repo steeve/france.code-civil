@@ -10,8 +10,11 @@ b) Les sociétés commerciales.
 
 2° Les chambres de métiers et de l'artisanat créent et gèrent les centres
 compétents pour les personnes physiques et les sociétés assujetties à
-l'immatriculation au répertoire des métiers, à l'exclusion de celles mentionnées
-au 3°.
+l'immatriculation au répertoire des métiers et pour les personnes physiques
+bénéficiant de la dispense d'immatriculation prévue au V de l'article 19 de la
+loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du
+commerce et de l'artisanat, à l'exclusion des personnes mentionnées au 3° du
+présent article.
 
 3° La chambre nationale de la batellerie artisanale crée et gère le centre
 compétent pour les personnes physiques et les sociétés assujetties à
@@ -65,3 +68,16 @@ c) Les redevables de l'impôt sur le revenu au titre des bénéfices non
 commerciaux ;
 
 d) Les redevables de l'impôt sur les sociétés.
+
+Les déclarations d'activité des personnes bénéficiant de la dispense
+d'immatriculation au registre du commerce et des sociétés ou au répertoire des
+métiers, prévue à l'article L. 123-1-1 ou au V de l'article 19 de la loi n°
+96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce
+et de l'artisanat, sont recueillies par les centres de formalités des
+entreprises mentionnés, respectivement, au 1° et au 2° du présent article.
+Lorsqu'elles sont effectuées par voie électronique, ces déclarations peuvent
+également être recueillies par les centres de formalités des entreprises
+mentionnés au 5. Elles sont alors transmises pour information, dans des
+conditions fixées par arrêté du ministre chargé du commerce et de l'artisanat,
+aux centres de formalités des entreprises mentionnés aux 1° et 2° pour les
+personnes relevant de leur compétence.

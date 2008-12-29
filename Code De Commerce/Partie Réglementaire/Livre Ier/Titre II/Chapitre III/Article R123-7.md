@@ -16,5 +16,5 @@ laquelle ce dépôt doit être effectué ;
 réglementaires particuliers.
 
 Les formulaires de déclaration et la liste des pièces justificatives font
-l'objet d'une homologation par la commission pour les simplifications
-administratives.
+l'objet d'une homologation par l'autorité désignée à l'article 3 du décret n°
+98-1083 du 2 décembre 1998 relatif aux simplifications administratives.

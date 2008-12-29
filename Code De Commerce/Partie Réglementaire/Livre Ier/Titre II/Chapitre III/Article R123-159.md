@@ -30,4 +30,5 @@ cette opération ;
 e) L'indication des modifications intervenues.
 
 Le présent article est applicable à la dissolution et la nullité d'une personne
-morale.
+morale. Il n'est pas applicable aux sociétés mentionnées au second alinéa de
+l'article R. 123-155.

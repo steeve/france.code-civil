@@ -16,10 +16,13 @@ l'entreprise ainsi que la tenue, la conservation et la consultation des livres,
 registres et documents prescrits par les lois et règlements.
 
 Le domiciliataire détient, pour chaque personne domiciliée, un dossier contenant
-les pièces justificatives relatives au domicile de son représentant légal et à
-ses coordonnées téléphoniques ainsi qu'à chacun de ses lieux d'activité et du
-lieu de détention des documents comptables lorsqu'ils ne sont pas conservés chez
-le domiciliataire.
+les pièces justificatives relatives, s'agissant des personnes physiques, à leur
+domicile personnel et à leurs coordonnées téléphoniques et, s'agissant des
+personnes morales, au domicile et aux coordonnées téléphoniques de leur
+représentant légal. Ce dossier contient également les justificatifs relatifs à
+chacun des lieux d'activité des entreprises domiciliées et au lieu de
+conservation des documents comptables lorsqu'ils ne sont pas conservés chez le
+domiciliataire.
 
 Il informe le greffier du tribunal, à l'expiration du contrat ou en cas de
 résiliation anticipée de celui-ci, de la cessation de la domiciliation de
@@ -40,8 +43,9 @@ période ou qui ont mis fin à leur domiciliation ainsi que chaque année, avant
 exclusivement les locaux, soit comme siège de l'entreprise, soit, si le siège
 est situé à l'étranger, comme agence, succursale ou représentation. Elle se
 déclare tenue d'informer le domiciliataire de toute modification concernant son
-activité. Elle prend en outre l'engagement de déclarer tout changement relatif à
-sa forme juridique et à son objet, ainsi qu'au nom et au domicile personnel des
-personnes ayant le pouvoir de l'engager à titre habituel. La personne domiciliée
-donne mandat au domiciliataire qui l'accepte de recevoir en son nom toute
-notification.
+activité. Elle prend en outre l'engagement de déclarer, s'agissant d'une
+personne physique, tout changement de son domicile personnel ou, s'agissant
+d'une personne morale, tout changement relatif à sa forme juridique et à son
+objet, ainsi qu'au nom et au domicile personnel des personnes ayant le pouvoir
+de l'engager à titre habituel. La personne domiciliée donne mandat au
+domiciliataire qui l'accepte de recevoir en son nom toute notification.

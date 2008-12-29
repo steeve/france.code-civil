@@ -8,11 +8,12 @@ les rapportent ; lorsqu'il est fait application de cet article, l'obligation de
 déclaration incombe au tuteur ou au curateur ;
 
 2° La déclaration d'insaisissabilité des droits de la personne physique
-immatriculée sur l'immeuble où est fixée sa résidence principale, lorsqu'il est
-fait application des articles L. 526-1 et suivants ; le cas échéant, la
-déclaration de remploi des fonds dans les conditions prévues à l'article L.
-526-3 ou la renonciation à la déclaration d'insaisissabilité ou de remploi
-prévue au même article ;
+immatriculée sur l'immeuble où est fixée sa résidence principale ou sur tout
+bien foncier non affecté à son usage professionnel, lorsqu'il est fait
+application des articles L. 526-1 et suivants ; le cas échéant, la déclaration
+de remploi des fonds dans les conditions prévues à l'article L. 526-3 ou la
+renonciation à la déclaration d'insaisissabilité ou de remploi prévue au même
+article ;
 
 3° La désignation et la cessation de fonctions de la personne ayant le pouvoir
 d'engager à titre habituel par sa signature la personne immatriculée ;
