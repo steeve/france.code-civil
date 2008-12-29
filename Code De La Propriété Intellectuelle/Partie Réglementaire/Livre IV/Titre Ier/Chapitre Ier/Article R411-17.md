@@ -8,21 +8,23 @@ l'occasion des procédures et formalités suivantes :
 1° Pour les brevets d'invention, certificats d'utilité et certificats
 complémentaires de protection :
 
-Dépôt ;
+- dépôt ;
 
-Rapport de recherche ou rapport de recherche complémentaire ;
+- rapport de recherche ou rapport de recherche complémentaire ;
 
-Revendication supplémentaire à partir de la onzième ;
+- revendication supplémentaire à partir de la onzième ;
 
-Requête en rectification d'erreurs ;
+- requête en rectification d'erreurs ;
 
-Requête en poursuite de la procédure ;
+- requête en poursuite de la procédure ;
 
-Délivrance et impression du fascicule ;
+- requête en limitation ;
 
-Maintien en vigueur ;
+- délivrance et impression du fascicule ;
 
-Recours en restauration ;
+- maintien en vigueur ;
+
+- recours en restauration.
 
 2° Pour les brevets européens :
 
@@ -97,8 +99,9 @@ En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 -pour les brevets d'invention, certificats d'utilité et certificats
 complémentaires de protection : dépôt ;
 
--pour les marques de fabrique, de commerce ou de service : dépôt, classe de
-produit ou service, renouvellement ;
+-pour les marques de fabrique, de commerce ou de service :
+
+dépôt, classe de produit ou service, renouvellement ;
 
 -pour les dessins et modèles : dépôt, prorogation.
 
