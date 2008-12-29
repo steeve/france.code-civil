@@ -31,4 +31,7 @@ le montant de tous les ajouts et retenues réalisés sur la rémunération brute
 9° Le montant de la somme effectivement reçue par le salarié ; 10° La date de
 paiement de cette somme ; 11° Les dates de congé et le montant de l'indemnité
 correspondante, lorsqu'une période de congé annuel est comprise dans la période
-de paie considérée.
+de paie considérée ;
+
+12° Le montant de la prise en charge des frais de transport public ou des frais
+de transports personnels.
