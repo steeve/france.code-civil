@@ -1,16 +1,14 @@
 Article D243-3
 ----
-Pour l'application du premier alinéa de l'article L. 243-5, le montant du seuil
-applicable est fixé en pourcentage du plafond annuel de la sécurité sociale et
-arrondi à l'euro inférieur. Il est déterminé comme suit :
+Le montant mentionné au premier alinéa de l'article L. 243-5 est fixé à :
 
-a) 20 % pour les créances dues, à titre personnel, par les travailleurs
+a) 10 000 € pour les créances dues, à titre personnel, par les travailleurs
 indépendants ;
 
-b) 33 % pour les créances dues par les employeurs occupant moins de cinquante
+b) 15 000 € pour les créances dues par les employeurs occupant moins de 50
 salariés ;
 
-c) 50 % pour les autres créances.
+c) 20 000 € pour les autres créances.
 
-Pour la détermination du seuil applicable, les effectifs des salariés sont
-calculés au 31 décembre de chaque année.
+Pour la détermination du seuil applicable, l'effectif des salariés est calculé
+au 31 décembre de chaque année.
