@@ -17,6 +17,5 @@ recettes du groupement est inférieure ou égale à 230 000 euros.
 
 3° (abrogé)
 
-4° Les limites globales prévues au premier alinéa du I de l'article 72 D ter
-sont multipliées par le nombre d'associés sans pouvoir excéder trois fois les
-limites mentionnées.
+4° Les plafonds prévus aux articles 72 D et 72 D bis sont multipliés par le
+nombre d'associés dans la limite de trois.

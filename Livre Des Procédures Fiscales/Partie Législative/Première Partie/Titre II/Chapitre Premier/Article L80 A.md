@@ -10,4 +10,6 @@ Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que
 l'administration avait fait connaître par ses instructions ou circulaires
 publiées et qu'elle n'avait pas rapportée à la date des opérations en cause,
 elle ne peut poursuivre aucun rehaussement en soutenant une interprétation
-différente.
+différente. Sont également opposables à l'administration, dans les mêmes
+conditions, les instructions ou circulaires publiées relatives au recouvrement
+de l'impôt et aux pénalités fiscales.

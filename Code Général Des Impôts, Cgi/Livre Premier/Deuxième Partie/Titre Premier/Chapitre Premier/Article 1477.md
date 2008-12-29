@@ -1,13 +1,15 @@
 Article 1477
 ----
-I. Les contribuables doivent déclarer les bases de taxe professionnelle avant le
-1er mai de l'année précédant celle de l'imposition ou, en cas de création
+I. Les contribuables doivent déclarer les bases de taxe professionnelle l'année
+précédant celle de l'imposition jusqu'à une date fixée par décret et au plus
+tard le deuxième jour ouvré suivant le 1er mai ou, en cas de création
 d'établissement ou de changement d'exploitant ou d'activité en cours d'année,
-avant le 1er mai de l'année suivant celle de la création ou du changement.
+l'année suivant celle de la création ou du changement jusqu'à une date fixée par
+décret et au plus tard le deuxième jour ouvré suivant le 1er mai.
 
 II. a) En cas de création d'établissement ou de changement d'exploitant ou
 d'activité en cours d'année, une déclaration provisoire doit être fournie avant
-le 1er janvier de l'année suivant celle de la création ou du changement (1).
+le 1er janvier de l'année suivant celle de la création ou du changement.
 
 b) En cas de changement d'exploitant, l'ancien exploitant est tenu d'en faire la
 déclaration au service des impôts avant le 1er janvier de l'année suivant celle

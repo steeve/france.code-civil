@@ -8,9 +8,8 @@ dotation de base et de 70 % pour la dotation de péréquation. A compter du 1er
 janvier 2009, la somme affectée à la catégorie des communautés urbaines est
 répartie de telle sorte que l'attribution revenant à chacune d'entre elles soit
 égale au produit de sa population par la dotation moyenne par habitant de la
-catégorie des communautés urbaines, augmenté, le cas échéant, d'une garantie.
-
-En 2009, cette dotation moyenne est fixée à 60 € par habitant.
+catégorie des communautés urbaines, augmenté, le cas échéant, d'une garantie. En
+2009, cette dotation moyenne est fixée à 60 euros par habitant.
 
 Les communautés urbaines ayant perçu, au titre de cette même catégorie, en 2008,
 une attribution de la dotation d'intercommunalité bénéficient d'une garantie
@@ -165,8 +164,5 @@ pour atteindre 100 % en 2009.
 VI.-A compter du 1er janvier 2003, la dotation des communautés urbaines est
 répartie selon les dispositions fixées aux deuxième et troisième alinéas du I.
 
-VII.-Lorsque le recensement général de population de 1999 fait apparaître une
-variation de la population d'un établissement public de coopération
-intercommunale doté d'une fiscalité propre, cette variation est prise en compte,
-pour l'application des dispositions de la présente sous-section, dans les
-conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2.
+VII.-La population à prendre en compte pour l'application de la présente
+sous-section est celle résultant des conditions prévues à l'article L. 2334-2.

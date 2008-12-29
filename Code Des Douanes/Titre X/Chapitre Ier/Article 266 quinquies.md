@@ -104,8 +104,8 @@ importent du gaz naturel pour leurs besoins propres se font enregistrer auprès
 de l'administration des douanes et droits indirects. Ils lui communiquent tous
 les éléments d'assiette nécessaires pour l'établissement de la taxe.
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du bureau de
-douane désigné lors de l'enregistrement.
+10. La taxe est acquittée, selon une périodicité mensuelle, auprès du service
+des douanes désigné lors de l'enregistrement.
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les
 autres cas, consommées par un utilisateur final au titre d'un mois, pour

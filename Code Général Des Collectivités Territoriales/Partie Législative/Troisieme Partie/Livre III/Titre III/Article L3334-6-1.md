@@ -25,16 +25,16 @@ départements urbains ;
 3° Du rapport entre la proportion du total des bénéficiaires du revenu minimum
 d'insertion dans le département et cette même proportion constatée dans
 l'ensemble des départements urbains, calculé en prenant en compte la population
-définie au premier alinéa de l'article L. 3334-2 ;
+définie à l'article L. 3334-2 ;
 
 4° Du rapport entre le revenu moyen par habitant de l'ensemble des départements
 urbains et le revenu par habitant du département, calculé en prenant en compte
-la population définie au premier alinéa de l'article L. 3334-2. Le revenu pris
-en considération est le dernier revenu imposable connu.
+la population définie à l'article L. 3334-2. Le revenu pris en considération est
+le dernier revenu imposable connu.
 
 Les départements sont classés en fonction de la valeur décroissante de leur
 indice synthétique, selon des modalités définies par décret en Conseil d'Etat et
-tenant compte des montants visés aux 1°, 2°, 3° et 4°.L'attribution revenant à
+tenant compte des montants visés aux 1°, 2°, 3° et 4°. L'attribution revenant à
 chaque département urbain éligible est déterminée en fonction de sa population
 et de son indice synthétique.
 

@@ -18,7 +18,11 @@ utilisés pour ce double usage ;
 3° Lorsqu'ils sont utilisés dans un procédé de fabrication de produits minéraux
 non métalliques, classé dans la nomenclature statistique des activités
 économiques dans la Communauté européenne, telle qu'elle résulte du règlement
-(CEE) n° 3037 / 90 du 9 octobre 1990 du Conseil, sous la rubrique " DI 26 ".
+(CE) n° 1893 / 2006 du Parlement européen et du Conseil du 20 décembre 2006
+établissant la nomenclature statistique des activités économiques NACE Rév. 2 et
+modifiant le règlement (CEE) n° 3037 / 90 du Conseil ainsi que certains
+règlements (CE) relatifs à des domaines statistiques spécifiques, sous la
+division 23.
 
 II.-Les modalités d'application du I ainsi que les modalités du contrôle de la
 destination des produits et de leur affectation aux usages qui y sont mentionnés

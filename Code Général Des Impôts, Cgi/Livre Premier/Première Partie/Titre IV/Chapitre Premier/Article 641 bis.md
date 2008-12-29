@@ -14,4 +14,4 @@ dans les vingt-quatre mois du décès.
 
 III. - Ces dispositions sont applicables aux successions ouvertes entre la date
 de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse et le
-31 décembre 2008.
+31 décembre 2012.

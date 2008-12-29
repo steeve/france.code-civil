@@ -27,9 +27,10 @@ IV. Le montant et les éléments de calcul de la valeur ajoutée définie au I, 
 montant des cotisations de taxe professionnelle de l'entreprise déterminées
 conformément au III et la liquidation de la cotisation minimale de taxe
 professionnelle définie au II font l'objet d'une déclaration par le redevable
-auprès du comptable des impôts dont relève son principal établissement au plus
-tard le 30 avril de l'année suivant celle au titre de laquelle les cotisations
-de taxe professionnelle visées au III sont dues.
+auprès du comptable des impôts dont relève son principal établissement l'année
+suivant celle au titre de laquelle les cotisations de taxe professionnelle
+visées au III sont dues jusqu'à une date fixée par décret et au plus tard le
+deuxième jour ouvré suivant le 1er mai .
 
 V. (Transféré sous les articles 1668 A bis du CGI et L174 du Livre des
 procédures fiscales).

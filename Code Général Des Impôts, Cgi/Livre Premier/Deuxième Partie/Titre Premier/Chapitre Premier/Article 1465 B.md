@@ -1,12 +1,12 @@
 Article 1465 B
 ----
 L'article 1465 s'applique également pour les opérations réalisées à compter du
-1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à
+1er janvier 2009 et jusqu'au 31 décembre 2013 dans les zones d'aide à
 l'investissement des petites et moyennes entreprises et dans les limites prévues
-par le règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
-concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
-faveur des petites et moyennes entreprises, modifié par le règlement (CE) n°
-364/2004 du 25 février 2004.
+par l'article 15 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+déclarant certaines catégories d'aides compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par
+catégorie).
 
 Les dispositions du premier alinéa s'appliquent aux entreprises qui ont employé
 moins de 250 salariés au cours de la période de référence retenue pour le calcul

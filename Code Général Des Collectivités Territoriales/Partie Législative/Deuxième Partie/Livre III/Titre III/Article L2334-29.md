@@ -15,9 +15,3 @@ l'article L. 2334-28.
 A compter de 2003, la dotation versée au Centre national de la fonction publique
 territoriale est minorée du montant du reliquat comptable de la dotation
 spéciale pour le logement des instituteurs du pénultième exercice.
-
-La dotation d'aménagement définie à l'article L. 2334-13 est abondée, au titre
-de la même année, à hauteur de la différence entre le reliquat comptable du
-pénultième exercice et la fraction de ce reliquat majorant, le cas échéant, la
-dotation spéciale pour le logement des instituteurs en application des
-dispositions du deuxième alinéa de l'article L. 2334-26.

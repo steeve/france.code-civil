@@ -78,12 +78,16 @@ Il est constitué :
 a) Des revenus nets soumis à l'impôt sur le revenu majorés, le cas échéant, du
 montant de l'abattement mentionné à l'article 150-0 D bis. Les plus-values
 mentionnées aux articles 150 U à 150 UC sont retenues dans les conditions
-prévues aux articles 150 V à 150 VE. Par dérogation au premier alinéa du présent
-4, les revenus soumis à l'impôt sur le revenu, sur option du contribuable, selon
-une base moyenne, notamment en application des articles 75-0 B, 84 A ou 100 bis,
-ou fractionnée, notamment en application des articles 75-0 A, 163 A ou 163 bis,
-sont pris en compte, pendant la période d'application de ces dispositions, pour
-le montant ayant effectivement supporté l'impôt au titre de chaque année ;
+prévues aux articles 150 V à 150 VE. Les revenus imposés dans les conditions
+prévues à l'article 151-0 sont pris en compte pour leur montant diminué, selon
+le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction
+forfaitaire prévue au 1 de l'article 102 ter. Par dérogation au premier alinéa
+du présent 4, les revenus soumis à l'impôt sur le revenu, sur option du
+contribuable, selon une base moyenne, notamment en application des articles 75-0
+B, 84 A ou 100 bis, ou fractionnée, notamment en application des articles 75-0
+A, 163 A ou 163 bis, sont pris en compte, pendant la période d'application de
+ces dispositions, pour le montant ayant effectivement supporté l'impôt au titre
+de chaque année ;
 
 b) Des produits soumis à un prélèvement libératoire ;
 
@@ -105,6 +109,11 @@ l'article 156 ;
 
 c) Des cotisations ou primes déduites en application de l'article 163
 quatervicies ;
+
+c bis) Du montant des moins-values non imputables en application du I bis de
+l'article 150-0 A, dans la limite du montant des plus-values mentionnées au même
+article ainsi que des gains et profits de même nature pris en compte en
+application du 4.
 
 d) Des impositions équivalentes à celles mentionnées aux a, e et f du 2 lorsque
 celles-ci ont été payées à l'étranger.
@@ -130,3 +139,37 @@ même lorsque les revenus pris en compte pour la détermination du droit à
 restitution sont issus d'une période prescrite. Les réclamations sont
 présentées, instruites et jugées selon les règles de procédure applicables en
 matière d'impôt sur le revenu.
+
+9. Par dérogation aux dispositions du 8, le contribuable peut, sous sa
+responsabilité, utiliser la créance qu'il détient sur l'Etat à raison du droit à
+restitution acquis au titre d'une année, pour le paiement des impositions
+mentionnées aux b à e du 2 exigibles au cours de cette même année.
+
+Cette créance, acquise à la même date que le droit à restitution mentionné au 1,
+est égale au montant de ce droit.
+
+La possibilité d'imputer cette créance est subordonnée au dépôt d'une
+déclaration faisant état du montant total des revenus mentionnés au 4, de celui
+des impositions mentionnées au 2 et de celui de la créance mentionnée au premier
+alinéa, ainsi que de l'imposition ou de l'acompte provisionnel sur lequel la
+créance est imputée.
+
+Le dépôt de la déclaration s'effectue auprès du service chargé du recouvrement
+de l'imposition qui fait l'objet de cette imputation.
+
+Lorsque le contribuable procède à l'imputation de la créance mentionnée au
+premier alinéa sur des impositions ou acomptes provisionnels distincts, la
+déclaration doit également comporter le montant des imputations déjà pratiquées
+au cours de l'année, ainsi que les références aux impositions ou aux acomptes
+provisionnels qui ont déjà donné lieu à une imputation.
+
+Ces déclarations sont contrôlées selon les mêmes règles, garanties et sanctions
+que celles prévues en matière d'impôt sur le revenu, même lorsque les revenus
+pris en compte pour la détermination du plafonnement sont issus d'une période
+prescrite.L'article 1783 sexies est applicable.
+
+Lorsque le contribuable pratique une ou plusieurs imputations en application du
+présent 9, il conserve la possibilité de déposer une demande de restitution,
+dans les conditions mentionnées au 8, pour la part non imputée de la créance
+mentionnée au premier alinéa.A compter de cette demande, il ne peut plus imputer
+cette créance dans les conditions prévues au présent 9.

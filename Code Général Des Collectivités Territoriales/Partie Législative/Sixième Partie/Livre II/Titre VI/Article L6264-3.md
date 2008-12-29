@@ -6,15 +6,14 @@ de la collectivité de Saint-Barthélemy résultant des transferts de compétenc
 de l'Etat à son profit.
 
 Cette dotation globale de fonctionnement est déterminée dans les conditions
-prévues au premier alinéa de l'article L. 3334-1 et aux deux premiers alinéas de
-l'article L. 3334-2, sans qu'il soit fait application des articles L. 3334-7-1
-et L. 3334-7-2. La dotation forfaitaire est calculée dans les conditions prévues
-aux premier, troisième, quatrième et cinquième alinéas de l'article L. 3334-3.
-Le montant de la garantie est égal au montant cumulé de la dotation globale de
-fonctionnement versée à la commune de Saint-Barthélemy en 2007, en application
-des articles L. 2334-7, L. 2334-13, L. 2334-14-1, L. 2563-3 et L. 2563-4. La
-quote-part de la dotation de péréquation est calculée dans les conditions
-prévues aux articles L. 3334-4 et L. 3443-1.
+prévues au premier alinéa de l'article L. 3334-1 et à l'article L. 3334-2, sans
+qu'il soit fait application de l'article L. 3334-7-1. La dotation forfaitaire
+est calculée dans les conditions prévues aux premier, troisième, quatrième et
+cinquième alinéas de l'article L. 3334-3. Le montant de la garantie est égal au
+montant cumulé de la dotation globale de fonctionnement versée à la commune de
+Saint-Barthélemy en 2007, en application des articles L. 2334-7, L. 2334-13, L.
+2334-14-1, L. 2563-3 et L. 2563-4. La quote-part de la dotation de péréquation
+est calculée dans les conditions prévues aux articles L. 3334-4 et L. 3443-1.
 
 Compte tenu de l'écart positif existant entre le montant des impôts et celui des
 charges transférés par l'Etat à la collectivité de Saint-Barthélemy, le montant

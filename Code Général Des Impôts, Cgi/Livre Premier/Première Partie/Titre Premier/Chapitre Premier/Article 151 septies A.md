@@ -17,9 +17,7 @@ l'article 151 nonies ;
 
 3° Le cédant cesse toute fonction dans l'entreprise individuelle cédée ou dans
 la société ou le groupement dont les droits ou parts sont cédés et fait valoir
-ses droits à la retraite, soit dans l'année suivant la cession, soit dans
-l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre
-2005 ;
+ses droits à la retraite, dans les deux années suivant ou précédant la cession ;
 
 4° Le cédant ne doit pas détenir, directement ou indirectement, plus de 50 % des
 droits de vote ou des droits dans les bénéfices sociaux de l'entreprise
@@ -58,6 +56,10 @@ II.-L'exonération prévue au I est remise en cause si le cédant relève de la
 situation mentionnée au 4° du I à un moment quelconque au cours des trois années
 qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au
 présent article.
+
+Lorsque l'une des conditions prévues aux 2° ou 3° du I n'est pas remplie au
+terme du délai prévu à ce même 3°, l'exonération prévue au I est remise en cause
+au titre de l'année au cours de laquelle intervient le terme de ce délai.
 
 III.-Sont imposées dans les conditions de droit commun les plus-values portant
 sur :
@@ -98,9 +100,8 @@ cession, l'une des fonctions énumérées au 1° de l'article 885 O bis et dans 
 conditions prévues au même 1° dans la société dont les titres sont cédés ;
 
 b) Cesse toute fonction dans la société dont les titres sont cédés et fait
-valoir ses droits à la retraite, soit dans l'année suivant la cession, soit dans
-l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre
-2005 ;
+valoir ses droits à la retraite, dans les deux années suivant ou précédant la
+cession ;
 
 c) Remplit la condition prévue au 4° du I ;
 
@@ -124,6 +125,11 @@ L'exonération mentionnée au premier alinéa du présent IV bis est remise en c
 si le cédant relève de la situation mentionnée au 4° du I à un moment quelconque
 au cours des trois années qui suivent la réalisation de la cession de
 l'intégralité des titres.
+
+Lorsque l'une des conditions prévues au b du 1° ou au 2° n'est pas remplie au
+terme du délai prévu à ce même b, l'exonération prévue au présent IV bis est
+remise en cause au titre de l'année au cours de laquelle intervient le terme de
+ce délai.
 
 V.-1.L'indemnité compensatrice versée à un agent général d'assurances exerçant à
 titre individuel par la compagnie d'assurances qu'il représente à l'occasion de

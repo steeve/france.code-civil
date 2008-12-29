@@ -7,10 +7,10 @@ des transferts de compétences à son profit.
 
 La dotation globale de construction et d'équipement scolaire correspond au
 montant annuel moyen des crédits consacrés par le département de la Guadeloupe
-aux dépenses d'investissement du collège de Saint-Barthélemy entre 1996 et 2007
-inclus ; ce montant est indexé sur le taux de croissance de la formation brute
-de capital fixe des administrations publiques associé aux projets de loi de
-finances pour 2007 et 2008.
+et la commune de Saint-Barthélemy aux dépenses d'investissement du collège de
+Saint-Barthélemy entre 1997 et 2006 inclus ; ce montant est indexé sur le taux
+de croissance de la formation brute de capital fixe des administrations
+publiques associé aux projets de loi de finances pour 2007 et 2008.
 
 Compte tenu de l'écart positif existant entre le montant des impôts et celui des
 charges transférés par l'Etat à la collectivité de Saint-Barthélemy, le montant

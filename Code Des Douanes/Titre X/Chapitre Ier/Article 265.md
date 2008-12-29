@@ -518,7 +518,7 @@ Hectolitre.
 
 Hectolitre.
 
-30,2.
+26,27
 
 
 Ex 3824-90-98

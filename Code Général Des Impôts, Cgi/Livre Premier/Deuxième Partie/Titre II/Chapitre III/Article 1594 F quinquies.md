@@ -20,9 +20,15 @@ visées à l'article L. 130-2 du code de l'urbanisme ;
 
 D. I. Les acquisitions d'immeubles ruraux à condition :
 
-1° Qu'au jour de l'acquisition les immeubles soient exploités en vertu d'un bail
-consenti à l'acquéreur, à son conjoint, à ses ascendants ou aux ascendants de
-son conjoint et enregistré ou déclaré depuis au moins deux ans ;
+1° Qu'au jour de l'acquisition les immeubles soient exploités depuis au moins
+deux ans :
+
+― soit en vertu d'un bail consenti à l'acquéreur personne physique, à son
+conjoint, à ses ascendants ou aux ascendants de son conjoint ou à la personne
+morale acquéreur ;
+
+― soit en vertu d'une mise à disposition par le preneur au profit de la personne
+morale acquéreur ;
 
 2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre
 gratuit, de mettre personnellement en valeur lesdits biens pendant un délai

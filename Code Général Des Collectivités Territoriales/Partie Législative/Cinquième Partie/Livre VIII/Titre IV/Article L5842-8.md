@@ -1,8 +1,9 @@
 Article L5842-8
 ----
 Les communautés de communes et les communautés d'agglomération de la Polynésie
-française perçoivent une attribution au titre de la dotation d'intercommunalité
-prélevée sur la dotation d'aménagement prévue à l'article L. 2334-13.
+française perçoivent, à compter du 1er janvier suivant la date de leur création,
+une attribution au titre de la dotation d'intercommunalité prélevée sur la
+dotation d'aménagement prévue à l'article L. 2334-13.
 
 Chaque communauté de communes ou communauté d'agglomération de la Polynésie
 française perçoit une dotation d'intercommunalité égale à sa population

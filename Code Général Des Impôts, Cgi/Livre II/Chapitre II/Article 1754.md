@@ -23,9 +23,10 @@ dissolution, les amendes, majorations et intérêts dus par le défunt ou la
 société dissoute constituent une charge de la succession ou de la liquidation.
 
 V. - 1. En cas d'abus de droit ou de dissimulation d'une partie du prix stipulé
-dans un contrat, l'intérêt de retard et la majoration prévue par l'article 1729
-sont dus par toutes les parties à l'acte ou à la convention qui sont
-solidairement tenues à leur paiement.
+dans un contrat, toutes les parties à l'acte ou à la convention sont tenues
+solidairement, avec le redevable de la cotisation d'impôt ou de la restitution
+d'une créance indue, au paiement de l'intérêt de retard et de la majoration
+prévue à l'article 1729.
 
 2. Les dirigeants de droit ou de fait des personnes morales émettrices des
 documents mentionnés à l'article 1740 A, qui étaient en fonction au moment de la

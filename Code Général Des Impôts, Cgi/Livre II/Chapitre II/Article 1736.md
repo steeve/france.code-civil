@@ -53,5 +53,10 @@ III. - Entraîne l'application d'une amende égale à 5 % des sommes non déclar
 le non-respect des obligations prévues par les articles 87, 87 A, 88 et 241.
 
 IV. - Les infractions aux dispositions du deuxième alinéa de l'article 1649 A et
-de l'article 1649 A bis sont passibles d'une amende de 750 euros par compte ou
-avance non déclaré.
+de l'article 1649 A bis sont passibles d'une amende de 1 500 € par compte ou
+avance non déclaré. Toutefois, pour l'infraction aux dispositions du deuxième
+alinéa de l'article 1649 A, ce montant est porté à 10 000 € par compte non
+déclaré lorsque l'obligation déclarative concerne un Etat ou un territoire qui
+n'a pas conclu avec la France une convention d'assistance administrative en vue
+de lutter contre la fraude et l'évasion fiscales permettant l'accès aux
+renseignements bancaires.

@@ -23,7 +23,8 @@ l'option prévue au III du même article n'a pas été exercée, les revenus de 
 nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, et au 4° du
 3 de l'article 158 perçus dans un plan d'épargne en actions ainsi que le montant
 des produits de placement soumis aux prélèvements libératoires prévus aux
-articles 117 quater et 125 A, le montant de l'abattement mentionné à l'article
+articles 117 quater et 125 A, le montant des gains nets exonérés en application
+du I bis de l'article 150-0 A, le montant de l'abattement mentionné à l'article
 150-0 D bis, les revenus exonérés en application des articles 163 quinquies B à
 163 quinquies C bis et les plus-values exonérées en application des 1, 1 bis et
 7 du III de l'article 150-0 A dont l'assiette est calculée conformément aux

@@ -22,8 +22,8 @@ convention internationale relative aux doubles impositions et qui n'ont pas
 supporté la contribution instituée par l'article 14 de l'ordonnance n° 96-50 du
 24 janvier 1996 ;
 
-4. Les plus-values exonérées d'impôt sur le revenu en application du 7 du III de
-l'article 150-0 A ;
+4. Les gains nets exonérés en application du I bis de l'article 150-0 A ainsi
+que les plus-values exonérées en application du 7 du III du même article ;
 
 4 bis. Les revenus, produits et gains exonérés d'impôt sur le revenu en
 application du II de l'article 81 C ;

@@ -139,6 +139,13 @@ environnementales liées aux installations utilisant l'énergie mécanique du ve
 Cette attribution ne peut être supérieure au produit de la taxe professionnelle
 perçue sur ces installations.
 
+Le potentiel fiscal de chaque commune et groupement doté d'une fiscalité propre
+est corrigé symétriquement pour tenir compte de l'application du présent 5°.
+Cette correction est toutefois supprimée pour le groupement dans le calcul du
+potentiel fiscal pris en compte pour déterminer la dotation d'intercommunalité
+reçue lors de la première année d'adoption du régime prévu à l'article 1609
+nonies C.
+
 III. Le conseil d'une communauté de communes peut, à la majorité simple de ses
 membres, décider de percevoir la taxe professionnelle selon les dispositions de
 l'article 1609 nonies C. Cette décision doit être prise avant le 31 décembre

@@ -1,7 +1,6 @@
 Article L213-10-3
 ----
-I. - Sont assujettis à la redevance pour pollution de l'eau d'origine domestique
-:
+I.-Sont assujettis à la redevance pour pollution de l'eau d'origine domestique :
 
 1° Les personnes abonnées au service d'eau potable, à l'exception de celles
 acquittant la redevance visée au I de l'article L. 213-10-2 ;
@@ -15,21 +14,20 @@ territoriales ;
 4° Les personnes disposant d'un forage pour leur alimentation en eau, qui
 mettent en place un dispositif de comptage de l'eau prélevée.
 
-II. - L'assiette de la redevance est le volume d'eau facturé à l'abonné. Pour
-les personnes visées au 2° du I du présent article, l'assiette de la redevance
-est plafonnée à 6 000 mètres cubes. Pour les personnes visées aux 3° et 4° du
-même I, cette assiette comprend également le volume d'eau prélevé sur des
-sources autres que le réseau de distribution. Le volume d'eau utilisé pour
-l'élevage est exclu de cette assiette s'il fait l'objet d'un comptage
-spécifique.
+II.-L'assiette de la redevance est le volume d'eau facturé à l'abonné. Pour les
+personnes visées au 2° du I du présent article, l'assiette de la redevance est
+plafonnée à 6 000 mètres cubes. Pour les personnes visées aux 3° et 4° du même
+I, cette assiette comprend également le volume d'eau prélevé sur des sources
+autres que le réseau de distribution. Le volume d'eau utilisé pour l'élevage est
+exclu de cette assiette s'il fait l'objet d'un comptage spécifique.
 
 Lorsque la tarification de l'eau ne comporte pas de terme proportionnel au
 volume d'eau consommé, et en l'absence de comptage de l'eau distribuée,
 l'assiette de la redevance est calculée sur la base d'un forfait par habitant
 déterminé par décret.
 
-III. - L'agence de l'eau fixe, dans la limite de 0,5 euro par mètre cube, un
-taux par unité géographique cohérente définie en tenant compte :
+III.-L'agence de l'eau fixe, dans la limite de 0, 5 euro par mètre cube, un taux
+par unité géographique cohérente définie en tenant compte :
 
 1° De l'état des masses d'eau ;
 
@@ -42,15 +40,18 @@ l'eau au titre d'une autre police ;
 4° Des objectifs fixés par le schéma directeur d'aménagement et de gestion des
 eaux et le schéma d'aménagement et de gestion des eaux.
 
-IV. - La redevance est perçue auprès de l'exploitant du service d'eau potable
-par l'agence de l'eau. Elle est exigible à l'encaissement du prix de l'eau
-distribuée. L'exploitant facture la redevance aux personnes abonnées au service
+IV.-La redevance est perçue auprès de l'exploitant du service d'eau potable par
+l'agence de l'eau. Elle est exigible à l'encaissement du prix de l'eau
+distribuée.L'exploitant facture la redevance aux personnes abonnées au service
 d'eau potable définies au I dans des conditions administratives et financières
 fixées par décret.
 
-V. - Lorsqu'un dispositif permet d'éviter la détérioration de la qualité des
-eaux, une prime est versée au maître d'ouvrage public ou privé de ce dispositif
-ou à son mandataire. Elle est calculée en fonction de la quantité de pollution
+Le recouvrement de la redevance auprès de l'assujetti est réalisé comme en
+matière de redevances perçues par le service d'eau potable.
+
+V.-Lorsqu'un dispositif permet d'éviter la détérioration de la qualité des eaux,
+une prime est versée au maître d'ouvrage public ou privé de ce dispositif ou à
+son mandataire. Elle est calculée en fonction de la quantité de pollution
 d'origine domestique dont l'apport au milieu naturel est supprimé ou évité. La
 prime peut être modulée pour tenir compte du respect des prescriptions imposées
 au titre d'une police de l'eau.

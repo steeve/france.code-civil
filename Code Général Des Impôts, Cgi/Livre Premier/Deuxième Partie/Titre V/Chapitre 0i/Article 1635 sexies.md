@@ -27,8 +27,9 @@ consommation constatée par l'Institut national de la statistique et des études
 Cette réduction est supprimée à compter des impositions établies au titre de
 2000 ;
 
-b) La base d'imposition est déclarée avant le 1er mai de l'année précédant celle
-de l'imposition au lieu du principal établissement ;
+b) La base d'imposition est déclarée l'année précédant celle de l'imposition au
+lieu du principal établissement jusqu'à une date fixée par décret et au plus
+tard le deuxième jour ouvré suivant le 1er mai ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 %
 de leur montant, en raison des contraintes de desserte de l'ensemble du

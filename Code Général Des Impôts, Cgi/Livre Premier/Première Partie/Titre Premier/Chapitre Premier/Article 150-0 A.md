@@ -54,6 +54,112 @@ deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'anné
 au cours de laquelle elles sont reçues, quel que soit le montant des cessions
 réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
 
+I bis. ― 1. Les plus et moins-values déterminées dans les conditions de
+l'article 150-0 D et réalisées lors de la cession à titre onéreux, effectuée
+directement ou par personne interposée, de parts de sociétés ou de groupements
+exerçant une activité autre que la gestion de leur propre patrimoine mobilier ou
+immobilier et dont les résultats sont imposés dans les conditions des articles 8
+à 8 quinquies, ou de droits démembrés portant sur ces parts, sont, lorsque les
+parts ou droits cédés ont été détenus de manière continue pendant plus de huit
+ans et sous réserve du respect des conditions prévues au 1° et au c du 2° du II
+de l'article 150-0 D bis, exonérées ou non imputables pour :
+
+1° La totalité de leur montant lorsque les recettes annuelles telles que
+définies au 2 du présent article sont inférieures ou égales à :
+
+a) 250 000 € s'il s'agit d'activités de vente de marchandises, objets,
+fournitures et denrées à emporter ou à consommer sur place ou de fourniture de
+logement ou s'il s'agit d'activités agricoles ;
+
+b) 90 000 € s'il s'agit d'autres activités ;
+
+2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 €
+et inférieures à 350 000 € pour les activités mentionnées au a du 1°, et lorsque
+les recettes sont supérieures à 90 000 € et inférieures à 126 000 € pour les
+activités mentionnées au b du 1°. Pour l'application de ces dispositions, le
+montant exonéré de la plus-value ou le montant non imputable de la moins-value
+est déterminé en lui appliquant :
+
+a) Pour les activités mentionnées au a du 1°, un taux égal au rapport entre, au
+numérateur, la différence entre 350 000 € et le montant des recettes et, au
+dénominateur, le montant de 100 000 € ;
+
+b) Pour les activités mentionnées au b du 1°, un taux égal au rapport entre, au
+numérateur, la différence entre 126 000 € et le montant des recettes et, au
+dénominateur, le montant de 36 000 €.
+
+Lorsque l'activité se rattache aux deux catégories définies aux a et b du 1°, la
+plus-value est totalement exonérée ou la moins-value n'est pas imputable si le
+montant global des recettes est inférieur ou égal à 250 000 € et si le montant
+des recettes afférentes aux activités définies au b du 1° est inférieur ou égal
+à 90 000 €.
+
+Lorsque ces conditions ne sont pas remplies, si le montant global des recettes
+est inférieur à 350 000 € et si le montant des recettes afférentes aux activités
+mentionnées au b du 1° est inférieur à 126 000 €, le montant exonéré de la
+plus-value ou le montant non imputable de la moins-value est déterminé en
+appliquant le moins élevé des deux taux qui aurait été déterminé dans les
+conditions fixées au 2° si le montant global des recettes avait été réalisé dans
+les activités visées au a du 1° ou si le montant des recettes avait été réalisé
+uniquement dans des activités visées au b du 1°.
+
+2. Le montant des recettes annuelles s'entend de la moyenne des recettes,
+appréciées hors taxes, réalisées au titre des exercices clos, ramenés le cas
+échéant à douze mois, au cours des deux années civiles qui précèdent l'année de
+la cession des parts ou droits.
+
+Pour les activités dont les recettes correspondent à des sommes encaissées, le
+montant des recettes annuelles s'entend de la moyenne des recettes, appréciées
+hors taxes, au cours des deux années civiles qui précèdent l'année de la cession
+des parts ou droits.
+
+Il est tenu compte des recettes réalisées par les sociétés mentionnées aux
+articles 8 à 8 quinquies et les groupements non soumis à l'impôt sur les
+sociétés dont le contribuable est associé ou membre, à proportion de ses droits
+de vote ou de ses droits dans les bénéfices de ces sociétés ou groupements.
+
+Lorsque le contribuable exerce à titre individuel une ou plusieurs activités, il
+est également tenu compte du montant total des recettes réalisées par l'ensemble
+de ces activités.
+
+Pour l'application des troisième et quatrième alinéas, la globalisation des
+recettes est effectuée par catégorie de revenus.
+
+3. Le complément de prix prévu au 2 du I du présent article, afférent à la
+cession de parts ou droits exonérée dans les conditions du 1 du présent I bis,
+est exonéré dans les mêmes proportions que ladite cession.
+
+4. En cas de cession de parts ou droits mentionnés au 1 appartenant à une série
+de parts ou droits de même nature, acquis ou souscrits à des dates différentes,
+les parts ou droits cédés sont ceux acquis ou souscrits aux dates les plus
+anciennes.
+
+En cas de cessions antérieures, réalisées à compter du 1er janvier 2006, de
+parts ou droits de la société concernée pour lesquelles le gain net a été
+déterminé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au
+premier alinéa du 3 de l'article 150-0 D, le nombre de titres ou droits cédés
+antérieurement est réputé avoir été prélevé en priorité sur les parts ou droits
+acquis ou souscrits aux dates les plus anciennes.
+
+5. Le premier alinéa et les 1°, 2°, 4° et 6° du V de l'article 150-0 D bis sont
+applicables pour l'appréciation de la durée de détention prévue au 1.
+
+6. Le 1 n'est pas applicable lorsque le montant des recettes annuelles de la
+société ou du groupement dont les parts ou droits sont cédés, déterminées dans
+les conditions des premier et deuxième alinéas du 2, est supérieur ou égal à :
+
+a) 1 050 000 € s'il s'agit de sociétés ou groupements exerçant une activité
+visée au a du 1° du 1 ;
+
+b) 378 000 € s'il s'agit de sociétés ou groupements exerçant d'autres activités.
+
+Lorsque l'activité de la société ou du groupement dont les parts ou droits sont
+cédés se rattache aux deux catégories définies aux a et b, le 1 n'est pas
+applicable lorsque le montant des recettes annuelles de ladite société ou dudit
+groupement est supérieur ou égal à 1 050 000 € ou lorsque le montant des
+recettes afférentes aux activités de la société ou du groupement définies au b
+est supérieur ou égal à 378 000 €.
+
 II.-Les dispositions du I sont applicables :
 
 1. (Abrogé) ;
@@ -116,6 +222,16 @@ revenu au titre de ce rachat dans les conditions prévues aux articles 109, 112,
 120 et 161 est ajouté au montant des cessions réalisées au cours de la même
 année.
 
+7. Sous réserve de l'application de l'article 163 quinquies B et du 8 du présent
+II, en cas de distribution d'une fraction des actifs d'un fonds commun de
+placement à risques dans les conditions du 9 de l'article L. 214 36 du code
+monétaire et financier, à l'excédent du montant des sommes ou valeurs
+distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il
+est différent du montant des apports. Pour l'appréciation de la limite
+mentionnée au 1 du I du présent article, le montant des sommes ou valeurs ainsi
+distribuées est ajouté au montant des cessions réalisées au cours de la même
+année.
+
 III.-Les dispositions du I ne s'appliquent pas :
 
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques
@@ -128,7 +244,7 @@ l'article 163 quinquies B ;
 
 1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au II de
 l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier 2001,
-réalisées par des actionnaires remplissant les conditions fixées au II de
+réalisées par des actionnaires remplissant les conditions fixées au 2 du II de
 l'article précité, après l'expiration de la période de cinq ans mentionnée au 2°
 du même II. Cette disposition n'est pas applicable si, à la date de la cession,
 la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la

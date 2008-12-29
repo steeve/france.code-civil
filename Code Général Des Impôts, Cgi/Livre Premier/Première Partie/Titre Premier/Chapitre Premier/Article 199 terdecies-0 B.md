@@ -38,12 +38,11 @@ l'évasion fiscale, et est soumise à l'impôt sur les sociétés dans les condi
 de droit commun ou y serait soumise dans les mêmes conditions si l'activité
 était exercée en France ;
 
-e) La société reprise doit répondre à la définition des petites et moyennes
-entreprises figurant à l'annexe I au règlement (CE) n° 70 / 2001 de la
-Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88
-du traité CE aux aides d'Etat en faveur des petites et moyennes entreprises,
-modifié par le règlement (CE) n° 364 / 2004 de la Commission, du 25 février 2004
-;
+e) La société reprise doit être une petite et moyenne entreprise au sens de
+l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+déclarant certaines catégories d'aides compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par
+catégorie) ;
 
 f) La société reprise exerce une activité commerciale, industrielle, artisanale,
 libérale ou agricole, à l'exception de la gestion de son propre patrimoine

@@ -6,8 +6,8 @@ La valeur locative est déterminée comme suit :
 règles fixées pour l'établissement de cette taxe ;
 
 Toutefois, les biens exonérés de taxe foncière sur les propriétés bâties en
-vertu du 11° de l'article 1382 sont évalués et imposés dans les mêmes conditions
-que les biens et équipements mobiliers désignés aux 2° et 3° ;
+vertu du 11° et du 12° de l'article 1382 sont évalués et imposés dans les mêmes
+conditions que les biens et équipements mobiliers désignés aux 2° et 3° ;
 
 Les immobilisations destinées à la fourniture et à la distribution de l'eau sont
 exonérées de taxe professionnelle lorsqu'elles sont utilisées pour l'irrigation

@@ -20,16 +20,21 @@ trois parts :
 
 - une troisième part au titre des contrôles sanitaires.
 
-Le montant de cette redevance est fixé par arrêté conformément aux tarifs
-déterminés par l'annexe VIII bis de la directive 2000/29/CE du Conseil, du 8 mai
-2000, précitée.
+En sus de la redevance, des frais supplémentaires peuvent être perçus au titre
+de sujétions particulières inhérentes aux contrôles des végétaux ou produits
+végétaux.
 
-Elle est due par l'importateur. Elle est toutefois solidairement due par son
-représentant lorsque celui-ci agit dans le cadre d'un mandat de représentation
-indirecte, telle que définie par l'article 5 du code des douanes communautaire.
+Le montant de la redevance ainsi que celui des frais supplémentaires sont fixés
+par arrêté conformément aux tarifs déterminés par l'annexe VIII bis à la
+directive 2000/29/CE du Conseil, du 8 mai 2000, précitée.
 
-Elle est liquidée et recouvrée comme en matière de douane lors du dépôt de la
-déclaration en douane.
+La redevance et les frais supplémentaires sont dus par l'importateur. Ils sont
+toutefois solidairement dus par son représentant lorsque celui-ci agit dans le
+cadre d'un mandat de représentation indirecte, telle que définie par l'article
+11 du code des douanes communautaire.
+
+Les sommes sont liquidées et recouvrées selon les règles, garanties et
+privilèges applicables en matière de droits de douane.
 
 Les infractions au paiement de cette redevance sont recherchées, constatées et
 réprimées, les poursuites sont effectuées et les instances sont instruites et

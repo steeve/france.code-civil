@@ -19,8 +19,7 @@ habitants et plus ;
 
 4° Du rapport entre le revenu moyen par habitant des communes de 10 000
 habitants et plus et le revenu par habitant de la commune, calculé en prenant en
-compte la population définie au premier alinéa de l'article L. 2334-2 et, pour
-2000 et 2001, aux troisième et quatrième alinéas du même article.
+compte la population définie au premier alinéa de l'article L. 2334-2 .
 
 Les logements sociaux retenus pour l'application du présent article sont les
 logements locatifs appartenant aux organismes d'habitations à loyer modéré, aux

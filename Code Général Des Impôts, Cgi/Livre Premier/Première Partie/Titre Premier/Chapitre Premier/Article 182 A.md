@@ -1,8 +1,9 @@
 Article 182 A
 ----
-I. Les traitements, salaires, pensions et rentes viagères, de source française,
-servis à des personnes qui ne sont pas fiscalement domiciliées en France donnent
-lieu à l'application d'une retenue à la source.
+I. A l'exception des salaires entrant dans le champ d'application de l'article
+182 A bis, les traitements, salaires, pensions et rentes viagères, de source
+française, servis à des personnes qui ne sont pas fiscalement domiciliées en
+France donnent lieu à l'application d'une retenue à la source.
 
 II. La base de cette retenue est constituée par le montant net des sommes
 versées, déterminé conformément aux règles applicables en matière d'impôt sur le
@@ -14,11 +15,20 @@ correspondant à une durée d'un an :
 
 Fraction des sommes soumises à retenue :
 
-Inférieure à 13 170 euros : 0 %
 
-De 13 170 euros à 38 214 euros : 12 %
+En pourcentage
 
-Supérieure à 38 214 euros : 20 %.
+Inférieure à 13 170 €
+
+0 %
+
+De 13 170 € à 38 214 €
+
+12 %
+
+Supérieure à 38 214 €
+
+20 %
 
 Les limites de ces tranches sont fixées par décret en Conseil d'Etat
 proportionnellement à la durée de l'activité exercée en France ou de la période

@@ -215,6 +215,45 @@ applicables aux établissements publics de coopération intercommunale mentionn�
 au second alinéa du I quater et faisant application, à compter de cette date,
 des dispositions du I de l'article 1609 nonies C.
 
+d) 1° Pour les établissements publics de coopération intercommunale soumis de
+plein droit ou après option au régime fiscal prévu au I de l'article 1609 nonies
+C à la suite d'une fusion réalisée dans les conditions prévues à l'article L.
+5211-41-3 du code général des collectivités territoriales et prenant effet à
+compter du 1er janvier 2009, les recettes fiscales sont diminuées, chaque année
+à compter de l'année qui suit celle au cours de laquelle l'arrêté préfectoral
+portant fusion a été pris, d'un prélèvement.
+
+Ce prélèvement est égal à la somme des prélèvements et des produits des
+écrêtements opérés, l'année au cours de laquelle l'arrêté préfectoral portant
+fusion a été pris, au profit du fonds départemental de péréquation de la taxe
+professionnelle en application, d'une part, du présent I ter et du I quater en
+ce qui concerne les établissements publics de coopération intercommunale
+participant à la fusion et, d'autre part, en application du I pour les communes
+rattachées à l'établissement issu de la fusion. Le montant de ces prélèvements
+et écrêtements est ajusté pour tenir compte des retraits éventuels de communes
+réalisés avant l'opération de fusion ;
+
+2° A compter du 1er janvier 2009, pour les établissements publics de coopération
+intercommunale issus d'une fusion, réalisée conformément à l'article L.
+5211-41-3 du code général des collectivités territoriales, qui a pris effet le
+1er janvier 2008 et dont l'un au moins des établissements publics de coopération
+intercommunale participant à la fusion était soumis l'année de la fusion au
+prélèvement défini au b du présent I ter, les recettes fiscales sont diminuées,
+chaque année, d'un prélèvement.
+
+En 2009, ce prélèvement est égal à la somme des prélèvements et des produits des
+écrêtements opérés au profit du fonds départemental de péréquation de la taxe
+professionnelle tels qu'ils auraient été déterminés en 2008 en l'absence de
+fusion conformément au présent I ter et au I quater pour les établissements
+publics de coopération intercommunale participant à la fusion. Lorsque
+l'opération de fusion a ouvert droit, au titre de l'année 2008, à la
+compensation prévue au 1° du I de l'article 53 de la loi de finances pour 2004
+(n° 2003-1311 du 30 décembre 2003), le versement de cette compensation est
+définitivement supprimé.
+
+Pour les années suivantes, les modalités d'évolution du prélèvement prévu aux 1°
+ou 2° sont celles prévues aux cinquième et sixième alinéas du b.
+
 I quater. Pour les communautés de communes, lorsque les bases d'imposition d'un
 établissement rapportées au nombre d'habitants de la commune sur le territoire
 de laquelle est situé l'établissement excèdent deux fois la moyenne nationale
@@ -276,12 +315,12 @@ département où est implanté l'établissement dont les bases sont écrêtées 
 la commission interdépartementale lorsque plusieurs départements sont concernés.
 
 Sur la partie du fonds alimentée par l'écrêtement des bases communales ou le
-prélèvement prévu au b du 2 du I ter, le conseil général prélève, par priorité,
-au profit des communes ou syndicats de communes bénéficiaires de ces ressources
-et à concurrence du montant de l'écrêtement ou du prélèvement prévu au quatrième
-alinéa du b du 2 du I ter, les sommes qui leur sont nécessaires pour permettre
-le remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
-1975.
+prélèvement prévu au b et au d du 2 du I ter, le conseil général prélève, par
+priorité, au profit des communes ou syndicats de communes bénéficiaires de ces
+ressources et à concurrence du montant de l'écrêtement ou du prélèvement prévu
+au quatrième alinéa du b du 2 du I ter, les sommes qui leur sont nécessaires
+pour permettre le remboursement des annuités d'emprunts contractés par eux avant
+le 1er juillet 1975.
 
 Le conseil général ou, le cas échéant, la commission interdépartementale peut
 également prélever au profit des communes dans lesquelles le montant du
@@ -357,20 +396,21 @@ le II et le IV bis ou entre les communes d'implantation et les communes
 concernées par le III la répartition est effectuée par arrêté du ministre de
 l'intérieur.
 
-IV bis. 1° Sur la partie du fonds alimentée par le prélèvement prévu au b du 2
-du I ter ou l'écrêtement des bases des établissements publics de coopération
-intercommunale soumis, de plein droit ou après option, aux dispositions fiscales
-de l'article 1609 nonies C, le conseil général ou, le cas échéant, la commission
-interdépartementale prélève, par priorité, au profit de l'établissement public
-de coopération intercommunale dont les bases ont été écrêtées ou qui a subi un
-prélèvement au titre du troisième alinéa du b du 2 du I ter,20 % au moins et 40
-% au plus du montant de l'écrêtement ou du prélèvement, majoré le cas échéant du
-montant de la compensation prévue au IV de l'article 6 de la loi de finances
-pour 1987 (n° 86-1317 du 30 décembre 1986), ainsi que du montant perçu en 2003
-en application du D de l'article 44 de la loi de finances pour 1999 précitée et
-du 1 du III de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30
-décembre 2002) indexé chaque année comme la dotation forfaitaire prévue par
-l'article L. 2334-7 du code général des collectivités territoriales.
+IV bis. 1° Sur la partie du fonds alimentée par le prélèvement prévu au b et au
+d du 2 du I ter ou l'écrêtement des bases des établissements publics de
+coopération intercommunale soumis, de plein droit ou après option, aux
+dispositions fiscales de l'article 1609 nonies C, le conseil général ou, le cas
+échéant, la commission interdépartementale prélève, par priorité, au profit de
+l'établissement public de coopération intercommunale dont les bases ont été
+écrêtées ou qui a subi un prélèvement au titre du troisième alinéa du b du 2 du
+I ter,20 % au moins et 40 % au plus du montant de l'écrêtement ou du
+prélèvement, majoré le cas échéant du montant de la compensation prévue au IV de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986),
+ainsi que du montant perçu en 2003 en application du D de l'article 44 de la loi
+de finances pour 1999 précitée et du 1 du III de l'article 29 de la loi de
+finances pour 2003 (n° 2002-1575 du 30 décembre 2002) indexé chaque année comme
+la dotation forfaitaire prévue par l'article L. 2334-7 du code général des
+collectivités territoriales.
 
 Le conseil général ou, le cas échéant, la commission interdépartementale peut
 également prélever au profit des établissements publics de coopération
@@ -400,8 +440,8 @@ fiscal ou l'importance de leurs charges ;
 
 c) Entre les communes qui répondent aux conditions fixées au 2° du II.
 
-2° Sur la partie du fonds alimentée par le prélèvement prévu au b du 2 du I ter
-ou par l'écrêtement des bases des établissements publics de coopération
+2° Sur la partie du fonds alimentée par le prélèvement prévu au b et au d du 2
+du I ter ou par l'écrêtement des bases des établissements publics de coopération
 intercommunale à fiscalité propre, le conseil général ou, le cas échéant, la
 commission interdépartementale prélève, par priorité, au profit de
 l'établissement public de coopération intercommunale dont les bases ont été
@@ -423,12 +463,12 @@ subi un prélèvement au titre du troisième alinéa du b du 2 du I ter est fix�
 30 % au moins et 60 % au plus du montant de l'écrêtement, pour les groupements
 créés après le 31 décembre 1992.
 
-Dans le cas où l'écrêtement ou le prélèvement prévu au b du 2 du I ter concerne
-les bases d'établissements installés sur une zone d'activités économiques et
-assujetties aux dispositions du II de l'article 1609 quinquies C, ce reversement
-ne peut être inférieur aux annuités des emprunts contractés pour l'équipement de
-cette zone dans la limite des ressources prélevées par l'écrêtement ou le
-prélèvement prévu au troisième alinéa du b du 2 du I ter.
+Dans le cas où l'écrêtement ou le prélèvement prévu au b et au d du 2 du I ter
+concerne les bases d'établissements installés sur une zone d'activités
+économiques et assujetties aux dispositions du II de l'article 1609 quinquies C,
+ce reversement ne peut être inférieur aux annuités des emprunts contractés pour
+l'équipement de cette zone dans la limite des ressources prélevées par
+l'écrêtement ou le prélèvement prévu au troisième alinéa du b du 2 du I ter.
 
 Le conseil général ou, le cas échéant, la commission interdépartementale
 répartit le solde dans les conditions prévues au deuxième alinéa du 1°.

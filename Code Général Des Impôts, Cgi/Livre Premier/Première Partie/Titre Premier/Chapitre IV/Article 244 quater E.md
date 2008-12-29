@@ -118,7 +118,8 @@ réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter
 la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la
 Corse.
 
-V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
-règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides nationales à
-l'investissement à finalité régionale.
+V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de
+l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+déclarant certaines catégories d'aides compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par
+catégorie).

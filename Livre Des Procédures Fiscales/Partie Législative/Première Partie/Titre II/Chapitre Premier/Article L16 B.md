@@ -22,13 +22,19 @@ situés les lieux à visiter.
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
 d'information en possession de l'administration de nature à justifier la visite.
-
 L'ordonnance comporte :
 
-l'adresse des lieux à visiter ;
+a) L'adresse des lieux à visiter ;
 
-le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
-l'autorisation de procéder aux opérations de visite.
+b) Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
+l'autorisation de procéder aux opérations de visite ;
+
+c) L'autorisation donnée au fonctionnaire qui procède aux opérations de visite
+de recueillir sur place, dans les conditions prévues au III bis, des
+renseignements et justifications auprès de l'occupant des lieux ou de son
+représentant et, s'il est présent, du contribuable mentionné au I, ainsi que
+l'autorisation de demander à ceux-ci de justifier pendant la visite de leur
+identité et de leur adresse, dans les mêmes conditions.
 
 la mention de la faculté pour le contribuable de faire appel à un conseil de son
 choix.
@@ -109,6 +115,23 @@ droits de la défense conformément aux dispositions du troisième alinéa de
 l'article 56 du code de procédure pénale ; l'article 58 de ce code est
 applicable.
 
+III bis. ― Au cours de la visite, les agents des impôts habilités peuvent
+recueillir, sur place, des renseignements et justifications concernant les
+agissements du contribuable mentionné au I auprès de l'occupant des lieux ou de
+son représentant et, s'il est présent, de ce contribuable, après les avoir
+informés que leur consentement est nécessaire. Ces renseignements et
+justifications sont consignés dans un compte rendu annexé au procès-verbal
+mentionné au IV et qui est établi par les agents des impôts et signé par ces
+agents, les personnes dont les renseignements et justifications ont été
+recueillis ainsi que l'officier de police judiciaire présent.
+
+Les agents des impôts peuvent demander à l'occupant des lieux ou à son
+représentant et au contribuable, s'ils y consentent, de justifier de leur
+identité et de leur adresse.
+
+Mention des consentements est portée au compte rendu ainsi que, le cas échéant,
+du refus de signer.
+
 IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et
 consignant les constatations effectuées est dressé sur-le-champ par les agents
 de l'administration des impôts. Un inventaire des pièces et documents saisis lui
@@ -154,3 +177,12 @@ VI.L'administration des impôts ne peut opposer au contribuable les informations
 recueillies qu'après restitution des pièces et documents saisis ou de leur
 reproduction et mise en oeuvre des procédures de contrôle visées aux premier et
 deuxième alinéas de l'article L. 47.
+
+Toutefois, si, à l'expiration d'un délai de trente jours suivant la notification
+d'une mise en demeure adressée au contribuable, à laquelle est annexé un
+récapitulatif des diligences accomplies par l'administration pour la restitution
+des pièces et documents saisis ou de leur reproduction, ceux-ci n'ont pu être
+restitués du fait du contribuable, les informations recueillies sont opposables
+à ce dernier après mise en œuvre des procédures de contrôle mentionnées aux
+premier et deuxième alinéas de l'article L. 47 et dans les conditions prévues à
+l'article L. 76 C.

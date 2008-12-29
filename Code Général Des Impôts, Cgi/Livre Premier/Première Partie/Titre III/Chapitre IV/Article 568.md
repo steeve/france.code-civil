@@ -10,9 +10,9 @@ mentionné au quatrième alinéa, ou par l'intermédiaire de revendeurs qui sont
 tenus de s'approvisionner en tabacs manufacturés exclusivement auprès des
 débitants désignés ci-dessus.
 
-Le droit de licence mentionné au premier alinéa est de 20,44 % de la remise
+Le droit de licence mentionné au premier alinéa est de 20, 44 % de la remise
 mentionnée au 3° du I de l'article 570 pour les cigares et cigarillos et de
-22,07 % de la même remise pour les autres produits du tabac.. Le droit de
+21,73 % de la même remise pour les autres produits du tabac.. Le droit de
 licence est exigible à la livraison des tabacs manufacturés au débitant. Il est
 liquidé par les fournisseurs mentionnés au 1 de l'article 565, au plus tard le
 25 de chaque mois, sur la base d'une déclaration des quantités livrées au

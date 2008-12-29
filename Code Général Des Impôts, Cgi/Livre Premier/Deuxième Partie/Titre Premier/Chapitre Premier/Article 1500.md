@@ -1,6 +1,10 @@
 Article 1500
 ----
-Par dérogation à l'article 1499, les bâtiments et terrains industriels qui ne
-figurent pas à l'actif d'une entreprise industrielle ou commerciale astreinte
-aux obligations définies à l'article 53 A, sont évalués dans les conditions
-prévues à l'article 1498.
+Les bâtiments et terrains industriels sont évalués :
+
+― selon les règles fixées à l'article 1499 lorsqu'ils figurent à l'actif du
+bilan de leur propriétaire ou de leur exploitant, et que celui-ci est soumis aux
+obligations définies à l'article 53 A ;
+
+― selon les règles fixées à l'article 1498 lorsque ces conditions ne sont pas
+satisfaites.

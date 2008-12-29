@@ -18,9 +18,10 @@ l'exonération temporaire de taxe professionnelle prévue à l'article 1465 et d
 l'exonération de taxe professionnelle prévue au I, l'entreprise doit opter pour
 l'un ou l'autre de ces régimes. Cette option est irrévocable.
 
-III bis. - Le bénéfice de l'exonération est subordonné au respect du règlement
-(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+III bis. - Le bénéfice de l'exonération est subordonné au respect du même
+règlement communautaire que celui appliqué pour l'exonération dont l'entreprise
+bénéficie sur le fondement, selon le cas, de l'article 44 sexies ou de l'article
+44 septies.
 
 IV. Les dispositions du dixième alinéa de l'article 1465 s'appliquent au présent
 article.

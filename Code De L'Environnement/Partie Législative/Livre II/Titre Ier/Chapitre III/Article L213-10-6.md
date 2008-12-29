@@ -19,7 +19,8 @@ de financement du programme d'intervention mentionné à l'article L. 213-9-1 da
 la limite d'un plafond de 0,3 euro par mètre cube.
 
 La redevance est perçue par l'agence de l'eau auprès de l'exploitant du service
-assurant la facturation de la redevance d'assainissement. Elle est exigible à
-l'encaissement du prix. L'exploitant facture la redevance aux personnes visées
-au premier alinéa dans des conditions administratives et financières fixées par
-décret.
+assurant la facturation de la redevance d'assainissement en même temps que
+celle-ci. L'exploitant facture la redevance aux personnes visées au premier
+alinéa dans des conditions administratives et financières fixées par décret. Le
+recouvrement de la redevance auprès de l'assujetti est réalisé comme en matière
+de redevance perçue par le service d'assainissement.

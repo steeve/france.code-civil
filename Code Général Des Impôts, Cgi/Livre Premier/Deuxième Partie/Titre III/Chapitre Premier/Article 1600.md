@@ -36,15 +36,18 @@ crédit mutuel ;
 les sociétés d'intérêt collectif agricole ;
 
 11° Les artisans pêcheurs et les sociétés de pêche artisanale visés aux 1° et 1°
-bis de l'article 1455.
+bis de l'article 1455 ;
+
+12° Les personnes physiques ayant une activité commerciale dispensée
+d'immatriculation au registre du commerce et des sociétés en application de
+l'article L. 123-1-1 du code de commerce.
 
 La base d'imposition est réduite de moitié pour les artisans régulièrement
 inscrits au répertoire des métiers et qui restent portés sur la liste électorale
 de la chambre de commerce et d'industrie de leur circonscription.
 
-12° Les personnes physiques ayant une activité commerciale dispensée
-d'immatriculation au registre du commerce et des sociétés en application de
-l'article L. 123-1-1 du code de commerce.
+La base d'imposition ne comprend pas les biens ouvrant droit au dégrèvement
+prévu à l'article 1647 C quinquies A.
 
 II.-Les chambres de commerce et d'industrie autres que les chambres régionales
 de commerce et d'industrie votent chaque année le taux de la taxe mentionnée au

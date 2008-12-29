@@ -15,7 +15,7 @@ ces communes.
 Le prélèvement est réalisé dans les conditions suivantes :
 
 1° Lorsque le potentiel financier par habitant d'une commune est égal ou
-supérieur à 1, 25 fois le potentiel financier moyen par habitant des communes de
+supérieur à 1,25 fois le potentiel financier moyen par habitant des communes de
 la région d'Ile-de-France et est inférieur à deux fois ce potentiel financier,
 il est perçu un prélèvement égal à 8 % du montant du potentiel financier
 excédant le potentiel financier moyen par habitant multiplié par le nombre
@@ -39,8 +39,8 @@ sociale ou au fonds au titre de la même année sont exonérées de contribution
 fonds.
 
 En 1996, la contribution des communes dont le potentiel financier est compris
-entre 1, 4 et 1, 5 fois le potentiel financier moyen par habitant des communes
-de la région d'Ile-de-France, et qui contribuent au fonds pour la première fois,
+entre 1,4 et 1,5 fois le potentiel financier moyen par habitant des communes de
+la région d'Ile-de-France, et qui contribuent au fonds pour la première fois,
 fait l'objet d'un abattement de 50 %.
 
 Le prélèvement opéré en application du présent paragraphe ne peut excéder 5 % du
@@ -57,7 +57,7 @@ alinéa de l'article L. 2332-2.
 La population à prendre en compte pour l'application du présent paragraphe est
 arrêtée dans les conditions prévues à l'article L. 2334-2.
 
-II. - 1° Sont soumises à un deuxième prélèvement les communes de la région
+II.-1° Sont soumises à un deuxième prélèvement les communes de la région
 d'Ile-de-France dont les bases totales d'imposition à la taxe professionnelle
 divisées par le nombre d'habitants excèdent 3 fois la moyenne des bases de taxe
 professionnelle par habitant constatée au niveau national.
@@ -83,7 +83,7 @@ celui du prélèvement prévu au I.
 intercommunale de la région d'Ile-de-France ayant opté pour les dispositions du
 II de l'article l609 quinquies C du code général des impôts, dont les bases
 totales d'imposition à la taxe professionnelle divisées par le nombre
-d'habitants excèdent 3, 5 fois la moyenne des bases de taxe professionnelle par
+d'habitants excèdent 3,5 fois la moyenne des bases de taxe professionnelle par
 habitant constatée au niveau national. Ce prélèvement est égal au produit du
 taux de taxe professionnelle de zone en vigueur dans l'établissement public de
 coopération intercommunale par 75 % des bases dépassant le seuil précité.
@@ -91,7 +91,7 @@ coopération intercommunale par 75 % des bases dépassant le seuil précité.
 Sont également soumis à ce prélèvement les établissements publics de coopération
 intercommunale de la région d'Ile-de-France faisant application de l'article
 1609 nonies C du code général des impôts, dont les bases totales d'imposition à
-la taxe professionnelle divisées par le nombre d'habitants excèdent 2,5 fois la
+la taxe professionnelle divisées par le nombre d'habitants excèdent 2, 5 fois la
 moyenne des bases de taxe professionnelle par habitant constatée au niveau
 national. Ce prélèvement est égal au produit du taux de taxe professionnelle
 calculé dans les conditions prévues au III du présent article par 75 % des bases
@@ -104,9 +104,9 @@ excéder la somme des prélèvements des communes membres prévus au I.
 
 Pour les établissements publics de coopération intercommunale dont les bases
 totales d'imposition à la taxe professionnelle divisées par le nombre
-d'habitants sont inférieures à 2,5 fois la moyenne des bases de taxe
+d'habitants sont inférieures à 2, 5 fois la moyenne des bases de taxe
 professionnelle par habitant de la région d'Ile-de-France, le montant du
-prélèvement ne peut excéder 1,1 fois la somme des prélèvements des communes
+prélèvement ne peut excéder 1, 1 fois la somme des prélèvements des communes
 membres prévus au I.
 
 3° Lorsque la commune ou l'établissement public de coopération intercommunale
@@ -129,12 +129,9 @@ contribuant pour la première année au fonds en 2009.
 III.-Pour l'application du II :
 
 -la population à prendre en compte est la population totale obtenue par addition
-de la population municipale et de la population comptée à part. Lorsque le
-recensement général de population de 1999 fait apparaître une variation de la
-population d'une commune, cette variation est prise en compte dans les
-conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2 ;
+de la population municipale et de la population comptée à part ;
 
-― sont considérées comme membres d'un établissement public de coopération
+-sont considérées comme membres d'un établissement public de coopération
 intercommunale les communes y ayant adhéré au plus tard le 31 décembre de
 l'année précédant celle au titre de laquelle a lieu la répartition du fonds ;
 

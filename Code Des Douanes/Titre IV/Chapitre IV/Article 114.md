@@ -2,9 +2,7 @@ Article 114
 ----
 1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et
 à mesure des vérifications et avant liquidation et acquittement des droits et
-taxes exigibles, moyennant soumission dûment cautionnée et sous l'obligation,
-pour les redevables, de payer une remise de 1 pour 1000 du montant des droits et
-taxes qui seront liquidés.
+taxes exigibles, moyennant soumission dûment cautionnée.
 
 1 bis. Sont dispensés, pour la taxe sur la valeur ajoutée, sur leur demande, de
 fournir la caution mentionnée au 1, les personnes qui :
@@ -20,8 +18,7 @@ judiciaire.
 1 ter. Les conditions de l'octroi et de l'abrogation de la dispense mentionnée
 au premier alinéa du 1 bis sont fixées par décret en Conseil d'Etat.
 
-2. La répartition de la remise de 1 pour 1000 entre le comptable et le Trésor
-est fixée par arrêté du ministre de l'économie et des finances.
+2. (Abrogé).
 
 3. Le paiement des droits et taxes ainsi garantis dont le montant total à
 l'échéance excède 50000 euros doit être fait par virement directement opéré sur

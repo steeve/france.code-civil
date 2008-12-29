@@ -106,7 +106,10 @@ base exonérée de la dernière année d'application du dispositif prévu au
 quatrième alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année
 suivante.L'application de cet abattement ne peut conduire à réduire la base
 d'imposition de l'année considérée de plus de 60 % de son montant la première
-année,40 % la deuxième année et 20 % la troisième.
+année,40 % la deuxième année et 20 % la troisième. Le bénéfice de cet abattement
+est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du
+15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux
+aides de minimis.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
@@ -135,7 +138,9 @@ d'application du dispositif prévu au quatrième alinéa du I ter. Il est ramen�
 années.L'application de cet abattement ne peut conduire à réduire la base
 d'imposition de l'année considérée de plus de 60 % de son montant les cinq
 premières années,40 % les sixième et septième années et 20 % les huitième et
-neuvième années.
+neuvième années. Le bénéfice de cet abattement est subordonné au respect du
+règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
 d'une création entre cette date et la date de publication de la loi n° 2006-396
@@ -291,11 +296,66 @@ Le bénéfice des exonérations est subordonné au respect du règlement (CE) n�
 / 2006 de la Commission du 15 décembre 2006 précité. Toutefois, sur option des
 entreprises qui procèdent aux opérations mentionnées au premier alinéa dans les
 zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
-au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006
-concernant l'application des articles 87 et 88 du traité CE aux aides nationales
-à l'investissement à finalité régionale.
+au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
+août 2008 déclarant certaines catégories d'aides compatibles avec le marché
+commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie).
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de
+l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
+dépôt de la déclaration annuelle afférente à la première année au titre de
+laquelle l'exonération prend effet ou de la déclaration provisoire de taxe
+professionnelle visée à l'article 1477.
+
+I quinquies B. ― Les collectivités territoriales et les établissements publics
+de coopération intercommunale dotés d'une fiscalité propre peuvent, par une
+délibération prise dans les conditions prévues au I de l'article 1639 A bis,
+exonérer de taxe professionnelle les entreprises pour les créations et
+extensions d'établissements situés dans le périmètre des zones de
+restructuration de la défense mentionnées aux 1° et 2° du 3 ter de l'article 42
+de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire qui sont réalisées pendant une période de trois ans
+débutant à la date de publication de l'arrêté prévu au dernier alinéa du même 3
+ter ou, si cette seconde date est postérieure, au 1er janvier de l'année
+précédant celle au titre de laquelle le territoire est reconnu comme zone de
+restructuration de la défense par cet arrêté.
+
+L'exonération prévue au premier alinéa porte, pendant cinq ans à compter de
+l'année qui suit la création ou, en cas d'extension d'établissement, à compter
+de la deuxième année qui suit celle-ci, sur la totalité de la part revenant à
+chaque collectivité territoriale ou établissement public de coopération
+intercommunale doté d'une fiscalité propre.
+
+En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
+est maintenue pour la période restant à courir et dans les conditions prévues
+pour le prédécesseur.
+
+L'exonération ne s'applique pas aux bases d'imposition afférentes aux biens
+d'équipement mobiliers transférés par une entreprise à partir d'un établissement
+qui, au titre d'une ou plusieurs des cinq années précédant le transfert :
+
+a) A donné lieu au versement d'une prime d'aménagement du territoire ;
+
+b) Ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
+de l'exonération prévue, selon le cas, aux articles 1464 B, 1465, 1465 A, 1465 B
+ou 1466 B à 1466 E, aux I bis, I ter, I quater, I quinquies, I quinquies A ou I
+sexies du présent article ou au présent I quinquies B.
+
+Pour l'application du présent I quinquies B, les délibérations des collectivités
+territoriales et de leurs groupements dotés d'une fiscalité propre ne peuvent
+porter que sur l'ensemble des établissements créés ou étendus.
+
+Le bénéfice de l'exonération prévue au premier alinéa est subordonné au respect
+du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité.
+Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées
+au premier alinéa du présent I quinquies B dans les zones d'aide à finalité
+régionale, le bénéfice de l'exonération prévue au premier alinéa est subordonné
+au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
+août 2008 déclarant certaines catégories d'aides compatibles avec le marché
+commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie).
+
+L'option mentionnée à l'alinéa précédent est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
 dépôt de la déclaration annuelle afférente à la première année au titre de
 laquelle l'exonération prend effet ou de la déclaration provisoire de taxe
@@ -360,22 +420,22 @@ mentionnées au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115
 2006 de la Commission du 15 décembre 2006 précité.
 
 II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater, I
-quinquies, I quinquies A et I sexies les contribuables déclarent, chaque année,
-dans les conditions prévues à l'article 1477, les éléments entrant dans le champ
-d'application de l'exonération.
+quinquies, I quinquies A, I quinquies B et I sexies les contribuables déclarent,
+chaque année, dans les conditions prévues à l'article 1477, les éléments entrant
+dans le champ d'application de l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
-des exonérations prévues aux articles 1464 A,1464 B,1464 D,1464 I,1465,1465 A ou
-1465 B et de celles prévues aux I, I bis, I ter, I quater, I quinquies, I
-quinquies A ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
-régimes.L'option qui est irrévocable vaut pour l'ensemble des collectivités et
-doit être exercée, selon le cas, dans le délai prévu pour le dépôt de la
-déclaration annuelle afférente à la première année au titre de laquelle
-l'exonération prend effet ou de la déclaration provisoire de taxe
-professionnelle visée à l'article 1477.
+des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465, 1465
+A , 1465 B, 1466 C, 1466 D ou 1466 E et de celles prévues aux I, I bis, I ter, I
+quater, I quinquies, I quinquies A, I quinquies B ou I sexies le contribuable
+doit opter pour l'un ou l'autre de ces régimes.L'option qui est irrévocable vaut
+pour l'ensemble des collectivités et doit être exercée, selon le cas, dans le
+délai prévu pour le dépôt de la déclaration annuelle afférente à la première
+année au titre de laquelle l'exonération prend effet ou de la déclaration
+provisoire de taxe professionnelle visée à l'article 1477.
 
-Pour l'application des I, I bis, I ter, I quater, I quinquies, I quinquies A et
-I sexies :
+Pour l'application des I, I bis, I ter, I quater, I quinquies, I quinquies A, I
+quinquies B et I sexies :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 
@@ -385,8 +445,8 @@ la consommation hors tabac constatée par l'Institut national de la statistique
 et des études économiques pour l'année de référence définie à l'article 1467 A ;
 
 c) Le montant des bases exonérées ne peut excéder chaque année, pour un même
-établissement, le montant prévu aux I, I quater ou I quinquies A, sauf dans les
-cas visés au troisième alinéa du I ter ;
+établissement, le montant prévu aux I, I quater , I quinquies A ou I quinquies
+B, sauf dans les cas visés au troisième alinéa du I ter ;
 
 d) pour l'appréciation de la condition d'exonération fixée aux I, I bis et I ter
 concernant le nombre de salariés, la période de référence à retenir est l'année

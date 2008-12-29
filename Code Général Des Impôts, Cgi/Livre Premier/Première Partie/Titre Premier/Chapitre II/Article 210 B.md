@@ -10,6 +10,11 @@ b. De calculer ultérieurement les plus-values de cession afférentes à ces mê
 titres par référence à la valeur que les biens apportés avaient, du point de vue
 fiscal, dans ses propres écritures.
 
+La rupture de l'engagement de conservation des titres remis en contrepartie de
+l'apport entraîne la déchéance rétroactive du régime de l'article 210 A appliqué
+à l'opération d'apport partiel d'actif. La déchéance intervient et produit ses
+effets à la date de réalisation de cette opération.
+
 Les dispositions de l'article 210 A s'appliquent à la scission de société
 comportant au moins deux branches complètes d'activités lorsque chacune des
 sociétés bénéficiaires des apports reçoit une ou plusieurs de ces branches et

@@ -32,7 +32,8 @@ les fortifications et glacis qui en dépendent.
 Cette exonération n'est pas applicable aux propriétés des établissements publics
 autres que les établissements scientifiques, d'enseignement et d'assistance, ni
 à celles des organismes de l'Etat, des départements ou des communes, ayant un
-caractère industriel ou commercial ;
+caractère industriel ou commercial, ni aux forêts et terrains visés à l'article
+L. 121-2 du code forestier ;
 
 les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,
@@ -49,7 +50,7 @@ prévues par l'article 23 de la loi du 11 octobre 1940 modifiée par la loi du 1
 juillet 1941 relative à la reconstruction des immeubles d'habitation
 partiellement ou totalement détruits par suite d'actes de guerre ;
 
-6° lks terrains sis dans les communes de plus de 5.000 habitants, qui
+6° lks terrains sis dans les communes de plus de 5. 000 habitants, qui
 appartiennent aux organismes de jardins familiaux, ou dont ils ont la
 jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel
 qu'il est défini à l'article L561-1 du code rural ;

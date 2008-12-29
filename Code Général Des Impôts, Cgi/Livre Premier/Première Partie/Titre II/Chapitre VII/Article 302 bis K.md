@@ -67,12 +67,30 @@ IV. - 1. - La déclaration visée au II est contrôlée par les services de la
 direction générale de l'aviation civile. A cette fin, les agents assermentés
 peuvent examiner sur place les documents utiles.
 
-Préalablement, un avis de passage est adressé à l'entreprise afin qu'elle puisse
-se faire assister d'un conseil.
+Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle
+puisse se faire assister d'un conseil.
+
+Au cours de la vérification, l'entreprise peut régulariser les erreurs,
+inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans
+les délais, moyennant le paiement d'un intérêt de retard égal à 70 % de
+l'intérêt de retard prévu à l'article 1727.
+
+Cette procédure de régularisation spontanée est subordonnée au respect des
+conditions suivantes :
+
+1° L'entreprise en fait la demande avant toute proposition de rectification ;
+
+2° La régularisation ne concerne pas une infraction exclusive de bonne foi ;
+
+3° L'entreprise dépose une déclaration complémentaire dans les trente jours de
+sa demande et acquitte l'intégralité des suppléments de droits simples et des
+intérêts de retard au moment du dépôt de cette déclaration.
 
 Les insuffisances constatées et les sanctions y afférentes sont notifiées à
 l'entreprise qui dispose d'un délai de trente jours pour présenter ses
-observations.
+observations. Sur demande de l'entreprise reçue avant l'expiration du délai
+précité par les services de la direction générale de l'aviation civile, ce délai
+est prorogé de trente jours.
 
 Après examen des observations éventuelles, le directeur général de l'aviation
 civile émet, s'il y a lieu, un titre exécutoire comprenant les droits
@@ -98,6 +116,10 @@ droits, sous réserve d'un contrôle ultérieur dans les conditions prévues au 
 
 Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de la
 majoration prévue au 1 de l'article 1728.
+
+2 bis. Lorsque les rehaussements opérés en vertu des 1 et 2 sont passibles de
+plusieurs des majorations prévues au 1 de l'article 1728 et à l'article 1729,
+l'article 1729 A est applicable.
 
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette
 prescription est suspendue et interrompue dans les conditions de droit commun et
@@ -137,4 +159,4 @@ c) L'aéroport de destination finale est distinct de celui de provenance initial
 et ne fait pas partie du même système aéroportuaire.
 
 Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées
-mensuellement à l'Agence française de développement (1).
+mensuellement à l'Agence française de développement.

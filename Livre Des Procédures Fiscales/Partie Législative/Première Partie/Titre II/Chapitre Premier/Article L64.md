@@ -1,24 +1,20 @@
 Article L64
 ----
-Ne peuvent être opposés à l'administration des impôts les actes qui dissimulent
-la portée véritable d'un contrat ou d'une convention à l'aide de clauses :
+Afin d'en restituer le véritable caractère, l'administration est en droit
+d'écarter, comme ne lui étant pas opposables, les actes constitutifs d'un abus
+de droit, soit que ces actes ont un caractère fictif, soit que, recherchant le
+bénéfice d'une application littérale des textes ou de décisions à l'encontre des
+objectifs poursuivis par leurs auteurs, ils n'ont pu être inspirés par aucun
+autre motif que celui d'éluder ou d'atténuer les charges fiscales que
+l'intéressé, si ces actes n'avaient pas été passés ou réalisés, aurait
+normalement supportées eu égard à sa situation ou à ses activités réelles.
 
-a) Qui donnent ouverture à des droits d'enregistrement ou à une taxe de
-publicité foncière moins élevés ;
-
-b) Ou qui déguisent soit une réalisation, soit un transfert de bénéfices ou de
-revenus ;
-
-c) Ou qui permettent d'éviter, en totalité ou en partie, le paiement des taxes
-sur le chiffre d'affaires correspondant aux opérations effectuées en exécution
-d'un contrat ou d'une convention.
-
-L'administration est en droit de restituer son véritable caractère à l'opération
-litigieuse. En cas de désaccord sur les rectifications notifiées sur le
-fondement du présent article, le litige est soumis, à la demande du
-contribuable, à l'avis du comité consultatif pour la répression des abus de
-droit. L'administration peut également soumettre le litige à l'avis du comité
-dont les avis rendus feront l'objet d'un rapport annuel.
+En cas de désaccord sur les rectifications notifiées sur le fondement du présent
+article, le litige est soumis, à la demande du contribuable, à l'avis du comité
+de l'abus de droit fiscal. L'administration peut également soumettre le litige à
+l'avis du comité.
 
 Si l'administration ne s'est pas conformée à l'avis du comité, elle doit
 apporter la preuve du bien-fondé de la rectification.
+
+Les avis rendus font l'objet d'un rapport annuel qui est rendu public.

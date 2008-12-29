@@ -184,3 +184,20 @@ lieu de travail sont admis, sur justificatifs, au titre des frais professionnels
 réels. Lorsque la distance est supérieure, la déduction admise porte sur les
 quarante premiers kilomètres, sauf circonstances particulières notamment liées à
 l'emploi justifiant une prise en compte complète.
+
+Les frais, droits et intérêts d'emprunt versés pour acquérir ou souscrire des
+parts ou des actions d'une société ayant une activité industrielle, commerciale,
+artisanale, agricole ou libérale dans laquelle le salarié ou le dirigeant exerce
+son activité professionnelle principale sont admis, sur justificatifs, au titre
+des frais professionnels réels dès lors que ces dépenses sont utiles à
+l'acquisition ou à la conservation de ses revenus. Les intérêts admis en
+déduction sont ceux qui correspondent à la part de l'emprunt dont le montant est
+proportionné à la rémunération annuelle perçue ou escomptée au moment où
+l'emprunt est contracté. La rémunération prise en compte s'entend des revenus
+mentionnés à l'article 79 et imposés sur le fondement de cet article. Les
+souscriptions ou les acquisitions de titres donnant lieu aux réductions d'impôt
+prévues aux articles 199 terdecies-0 A, 199 terdecies-0 B ou 885-0 V bis, ainsi
+que les souscriptions et acquisitions de titres figurant dans un plan d'épargne
+en actions défini à l'article 163 quinquies D ou dans un plan d'épargne
+salariale prévu au titre III du livre III de la troisième partie du code du
+travail, ne peuvent donner lieu à aucune déduction d'intérêts d'emprunt.

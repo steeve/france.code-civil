@@ -2,7 +2,7 @@ Article L213-11-1
 ----
 L'agence de l'eau contrôle l'ensemble des éléments permettant de vérifier
 l'assiette des redevances, notamment les déclarations et les documents produits
-par les intéressés pour l'établissement des redevances ainsi que les
+par les contribuables pour l'établissement des redevances ainsi que les
 installations, ouvrages ou activités ayant un impact sur celles-ci et les
 appareils susceptibles de fournir des informations utiles pour leur
 détermination. Le contrôle peut être effectué sur pièces et sur place.

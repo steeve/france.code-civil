@@ -72,17 +72,6 @@ montant total de la dotation forfaitaire versée en 2004, hors les montants
 correspondant à la compensation antérieurement perçue en application du I du D
 de l'article 44 de la loi de finances pour 1999.
 
-Pour le calcul de la garantie des communes ayant connu en 2004 un recensement
-général ou un recensement complémentaire initial, il est fait référence au
-montant de la dotation de base hors gain lié à la croissance de la population
-constatée à l'issue de ce recensement.
-
-Pour le calcul de la garantie des communes ayant connu en 2004 un recensement
-complémentaire de confirmation, le montant de la dotation forfaitaire à prendre
-en compte au titre du a correspond au montant de la dotation forfaitaire due au
-titre de 2004 en retenant la population effectivement constatée à l'issue du
-recensement de confirmation.
-
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de
 la dotation supplémentaire aux communes et groupements touristiques ou thermaux
 et de la dotation particulière aux communes touristiques ainsi qu'au titre de la

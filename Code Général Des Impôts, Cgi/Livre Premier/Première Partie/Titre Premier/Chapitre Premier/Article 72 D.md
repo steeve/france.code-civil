@@ -1,8 +1,26 @@
 Article 72 D
 ----
-I. - Les exploitants agricoles soumis à un régime réel d'imposition peuvent
-pratiquer une déduction pour investissement dans les limites et conditions
-prévues à l'article 72 D ter.
+I.-Les exploitants agricoles soumis à un régime réel d'imposition peuvent
+pratiquer une déduction pour investissement dont le montant est plafonné, pour
+chaque exercice :
+
+a) A 4 000 euros dans la limite du bénéfice imposable, s'il est inférieur à 10
+000 euros ;
+
+b) A 40 % de ce bénéfice lorsqu'il est compris entre 10 000 euros et 40 000
+euros ;
+
+c) A la somme de 8 000 euros majorée de 20 % de ce bénéfice lorsqu'il est
+compris entre 40 000 euros et 60 000 euros ;
+
+d) A 20 000 euros lorsque ce bénéfice excède 60 000 euros.
+
+Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
+pour le régime fiscal des sociétés de capitaux, le plafond est multiplié par le
+nombre des associés exploitants dans la limite de trois.
+
+La déduction est pratiquée après application de l'abattement prévu à l'article
+73 B.
 
 Cette déduction doit être utilisée au cours des cinq exercices qui suivent celui
 de sa réalisation pour l'acquisition et la création d'immobilisations
@@ -27,7 +45,7 @@ d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 40 p. 10
 la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
 moyenne, il n'est pas tenu compte des reports déficitaires.
 
-II. L'apport d'une exploitation individuelle dans les conditions visées au I de
+II.L'apport d'une exploitation individuelle dans les conditions visées au I de
 l'article 151 octies à une société civile agricole par un exploitant agricole
 qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport
 n'est pas considéré pour l'application du I comme une cessation d'activité si la
@@ -38,7 +56,7 @@ suivent celui au cours duquel elle a été pratiquée.
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est
 rapportée aux résultats de l'exercice clos à l'occasion de l'apport en société.
 
-III. - La transmission à titre gratuit d'une exploitation individuelle dans les
+III.-La transmission à titre gratuit d'une exploitation individuelle dans les
 conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la
 déduction au titre d'un exercice précédant celui de la transmission n'est pas
 considérée pour l'application du I comme une cessation d'activité si le ou les

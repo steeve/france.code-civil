@@ -1,8 +1,7 @@
 Article 810
 ----
-I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 375
-euros porté à 500 euros pour les sociétés ayant un capital d'au moins 225 000
-euros.
+I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 375 €
+porté à 500 € pour les sociétés ayant un capital d'au moins 225 000 €.
 
 II. (Abrogé).
 
@@ -52,6 +51,15 @@ III bis. (Disposition périmée).
 III ter. (Dispositions devenues sans objet).
 
 IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés au
-III pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée.
+III pour les apports d'immeubles entrant dans le champ d'application de la taxe
+sur la valeur ajoutée.
 
 V. (Abrogé).
+
+VI. ― Les opérations visées aux I et II de l'article 208 septies donnent lieu à
+la perception du droit fixe d'enregistrement prévu au I.
+
+Cette disposition s'applique aux transferts de biens réalisés à compter du 1er
+janvier 2007 pour les opérations mentionnées au I de l'article précité et aux
+transferts de biens réalisés à compter du 7 janvier 2006 pour les opérations
+mentionnées au II du même article.

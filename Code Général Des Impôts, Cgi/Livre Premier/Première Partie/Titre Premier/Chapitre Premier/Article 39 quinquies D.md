@@ -40,10 +40,10 @@ les sociétés membres d'un groupe, la condition tenant à la composition du
 capital doit être remplie par la société mère du groupe.
 
 Pour les immeubles mentionnés au premier alinéa, le bénéfice de l'amortissement
-exceptionnel est subordonné au respect du règlement (CE) n° 70 / 2001 de la
-Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du
-traité CE aux aides d'Etat en faveur des petites et moyennes entreprises. Pour
-les travaux mentionnés au deuxième alinéa, le bénéfice de l'amortissement
-exceptionnel est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
-Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
-traité aux aides de minimis.
+exceptionnel est subordonné au respect de l'article 15 du règlement (CE) n° 800
+/ 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide
+compatibles avec le marché commun en application des articles 87 et 88 du traité
+(Règlement général d'exemption par catégorie). Pour les travaux mentionnés au
+deuxième alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au
+respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+concernant l'application des articles 87 et 88 du traité aux aides de minimis.

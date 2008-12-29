@@ -20,11 +20,20 @@ collectivités locales et à leurs groupements dotés d'une fiscalité propre :
 a) Les rôles généraux des impôts directs locaux comportant les impositions
 émises à leur profit et, à leur demande, les montants des rôles supplémentaires
 lorsqu'ils sont d'un montant supérieur à un seuil fixé par arrêté du ministre
-chargé du budget ;
+chargé du budget ainsi que, si la collectivité ou l'établissement public de
+coopération intercommunale doté d'une fiscalité propre en fait la demande
+complémentaire, des renseignements individuels figurant sur le rôle
+supplémentaire et nécessaires à l'appréciation des montants figurant sur ce
+rôle, à l'exclusion des informations tenant à l'origine des rectifications
+opérées ;
 
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements
 dont les contribuables de la collectivité ont bénéficié, à l'exception de ceux
 accordés en application de l'article L. 190.
+
+A leur demande, l'administration fiscale transmet aux groupements qui perçoivent
+la taxe d'enlèvement des ordures ménagères les rôles généraux de taxe foncière
+sur les propriétés bâties émis dans leur ressort.
 
 Elle transmet également, gratuitement, à leur demande, aux services de l'Etat,
 aux collectivités territoriales, aux établissements publics de coopération
@@ -40,6 +49,15 @@ Les collectivités locales, les établissements publics de coopération
 intercommunale dotés d'une fiscalité propre et l'administration fiscale peuvent
 se communiquer mutuellement les informations nécessaires au recensement des
 bases des impositions directes locales.
+
+L'administration fiscale transmet chaque année aux collectivités territoriales
+et aux établissements publics de coopération intercommunale dotés d'une
+fiscalité propre, percevant la taxe professionnelle, la liste des établissements
+implantés sur leur territoire qui appartiennent à une entreprise bénéficiaire
+des dispositions du I de l'article 1647 B sexies du code général des impôts et
+dont les bases sont retenues pour la détermination du plafond de participation
+défini au 2 du C du III de l'article 85 de la loi n° 2005-1719 du 30 décembre
+2005 de finances pour 2006.
 
 Les informations transmises aux collectivités locales et à leurs groupements
 dotés d'une fiscalité propre sont couvertes par le secret professionnel, et

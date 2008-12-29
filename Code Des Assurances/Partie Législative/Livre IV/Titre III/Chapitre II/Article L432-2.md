@@ -4,8 +4,11 @@ La garantie de l'Etat peut être accordée en totalité ou en partie :
 
 1° A la Compagnie française du commerce extérieur:
 
-a) Pour ses opérations d'assurances des risques commerciaux, politiques,
-monétaires, catastrophiques et de certains risques dits extraordinaires ;
+a) Pour ses opérations d'assurance des risques commerciaux, politiques,
+monétaires, catastrophiques et de certains risques dits extraordinaires,
+afférents à des opérations de nature à contribuer au développement du commerce
+extérieur de la France ou présentant un intérêt stratégique pour l'économie
+française à l'étranger ;
 
 a bis) Pour ses opérations d'assurance couvrant le risque de non-paiement des
 sommes dues par des entreprises à des établissements de crédit ou des
@@ -17,6 +20,17 @@ des conditions prévues par décret ;
 
 c) Pour les opérations de gestion des droits et obligations afférents aux
 opérations et garanties mentionnées aux a et b ;
+
+d) Dans des conditions fixées par décret, pour des investissements à réaliser ou
+déjà réalisés par des entreprises françaises dans des pays étrangers lorsque ces
+investissements présentent un intérêt pour le développement de l'économie
+française et ont été agréés par le pays concerné. Le même décret détermine les
+conditions et les modalités de cette garantie. Dans le cas de pays étrangers qui
+ne sont pas liés au Trésor français par un compte d'opérations, cette garantie
+peut être subordonnée à la conclusion préalable d'un accord sur la protection
+des investissements. En cas de mise en jeu de la garantie, l'Etat peut prélever
+le montant correspondant à ladite garantie sur les crédits d'aide à verser au
+pays concerné.
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n°
 48-1516 du 26 septembre 1948, fixant l'évaluation des voies et moyens du budget

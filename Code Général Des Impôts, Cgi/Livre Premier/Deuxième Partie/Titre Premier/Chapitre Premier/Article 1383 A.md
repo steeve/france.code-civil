@@ -17,6 +17,7 @@ contribuable doit opter pour l'un ou l'autre de ces deux régimes avant le 1er
 janvier de l'année au titre de laquelle l'exonération prend effet. L'option est
 irrévocable.
 
-IV. - Le bénéfice des exonérations est subordonné au respect du règlement (CE)
-n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis.
+IV. - Le bénéfice de l'exonération est subordonné au respect des dispositions du
+même règlement communautaire que celui appliqué pour l'exonération dont
+l'entreprise bénéficie sur le fondement, selon le cas, de l'article 44 sexies ou
+de l'article 44 septies.

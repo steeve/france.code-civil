@@ -137,10 +137,10 @@ l'installation telle qu'elle figure dans son titre administratif, exprimée en
 mètres.
 
 Le taux de la redevance est fixé par l'agence de l'eau dans la limite d'un
-plafond de 0,6 euro par million de mètres cubes et par mètre de chute en
-fonction de l'état des masses d'eau et des objectifs fixés par le schéma
-directeur d'aménagement et de gestion des eaux et le schéma d'aménagement et de
-gestion des eaux s'il existe.
+plafond de 1,8 € par million de mètres cubes et par mètre de chute en fonction
+de l'état des masses d'eau et des objectifs fixés par le schéma directeur
+d'aménagement et de gestion des eaux et le schéma d'aménagement et de gestion
+des eaux s'il existe.
 
 Ce taux est multiplié par 1,5 lorsque l'installation ne fonctionne pas au fil de
 l'eau.

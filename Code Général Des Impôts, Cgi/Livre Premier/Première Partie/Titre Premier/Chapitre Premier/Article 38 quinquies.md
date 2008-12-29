@@ -12,6 +12,14 @@ individualisé dans les magasins d'une entreprise qui est chargée de la stocker
 de la transformer ou de réaliser d'autres prestations sur cette production et
 peut être reprise à l'identique ou à l'équivalent par l'exploitant.
 
-La production agricole qui fait l'objet d'un entreposage demeure inscrite dans
-les stocks au bilan de l'exploitant jusqu'au transfert du contrôle et des
-avantages économiques futurs attachés à cette production.
+La production agricole entreposée qui ne fait pas l'objet d'une reprise demeure
+inscrite dans les stocks au bilan de l'exploitant pour sa valeur à la date de
+clôture de l'exercice au cours duquel l'entreposage est intervenu, majorée des
+seuls frais facturés par l'organisme entrepositaire, jusqu'à la date de
+perception des sommes représentatives de la cession des produits considérés ou
+des acomptes perçus sur ces sommes.
+
+La production agricole qui fait l'objet d'un entreposage , puis d'une reprise
+par l'exploitant demeure inscrite dans les stocks au bilan de l'exploitant
+jusqu'au transfert du contrôle et des avantages économiques futurs attachés à
+cette production.

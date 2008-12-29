@@ -9,18 +9,20 @@ Ils peuvent cependant opter pour leur imposition d'après le régime simplifié
 ci-après :
 
 1° Ils sont dispensés de l'obligation de déclaration prévue à l'article 287 et
-doivent seulement déposer avant le 5 mai de chaque année une déclaration
-indiquant les éléments de liquidation de la taxe sur la valeur ajoutée afférente
-à l'année écoulée. Si leur exercice comptable ne coïncide pas avec l'année
-civile, ils peuvent, sur option, déposer une déclaration annuelle correspondant
-à cet exercice avant le cinquième jour du cinquième mois qui suit la clôture de
-celui-ci.L'option doit être formulée avant le début du premier exercice pour
+doivent seulement déposer chaque année, jusqu'à une date fixée par décret et au
+plus tard le deuxième jour ouvré suivant le 1er mai, une déclaration indiquant
+les éléments de liquidation de la taxe sur la valeur ajoutée afférente à l'année
+écoulée. Si leur exercice comptable ne coïncide pas avec l'année civile, ils
+peuvent, sur option, déposer une déclaration annuelle correspondant à cet
+exercice avant le cinquième jour du cinquième mois qui suit la clôture de
+celui-ci. L'option doit être formulée avant le début du premier exercice pour
 lequel elle est souscrite. Les modalités d'exercice de cette option sont fixées
 par décret en Conseil d'Etat. En outre, les exploitants agricoles doivent, au
 titre de la période comprise entre le 1er janvier et le dernier jour précédant
 la date d'ouverture du premier exercice concerné par l'option, déposer une
-déclaration entre le 5 mai et le cinquième jour du cinquième mois de cet
-exercice ;
+déclaration entre une date fixée par décret et au plus tard le deuxième jour
+ouvré suivant le 1er mai, et le cinquième jour du cinquième mois de cet exercice
+;
 
 2° L'exigibilité de la taxe sur la valeur ajoutée due à raison des ventes
 effectuées par eux intervient lors de l'encaissement des acomptes ou du prix ;

@@ -12,12 +12,13 @@ l'acompte au montant de la cotisation minimale de taxe professionnelle
 effectivement due au titre de l'année d'imposition, lorsqu'elles estiment que
 cet acompte lui serait supérieur.
 
-Au plus tard le 30 avril de l'année suivant celle de l'imposition, le redevable
-doit procéder à la liquidation définitive de la cotisation minimale de taxe
-professionnelle sur la déclaration visée au IV de l'article 1647 E. Cette
-dernière est accompagnée, le cas échéant, du versement du solde correspondant.
-Si la liquidation définitive fait apparaître que l'acompte versé est supérieur à
-la cotisation effectivement due, l'excédent, déduction faite des autres impôts
+L'année suivant celle de l'imposition jusqu'à une date fixée par décret et au
+plus tard le deuxième jour ouvré suivant le 1er mai, le redevable doit procéder
+à la liquidation définitive de la cotisation minimale de taxe professionnelle
+sur la déclaration visée au IV de l'article 1647 E. Cette dernière est
+accompagnée, le cas échéant, du versement du solde correspondant. Si la
+liquidation définitive fait apparaître que l'acompte versé est supérieur à la
+cotisation effectivement due, l'excédent, déduction faite des autres impôts
 directs dus par l'entreprise, est restitué dans les trente jours de la date de
 dépôt de la déclaration.
 

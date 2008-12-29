@@ -52,7 +52,7 @@ l'établissement. Pour les redevables non tenus à ces déclarations, les
 indications sont portées sur papier libre dans les mêmes délais.
 
 IV.-Le crédit d'impôt s'applique après les dégrèvements prévus aux articles 1647
-C à 1647 C quinquies.
+C à 1647 C quinquies A.
 
 N'ouvrent pas droit au crédit d'impôt les emplois situés dans les établissements
 où est exercée à titre principal une activité relevant de l'un des secteurs

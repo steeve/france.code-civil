@@ -138,7 +138,7 @@ Sels dissous (m3 [siemens/centimètre])
 
 2 000 m3*S/cm
 
-Chaleur rejetée en mer (par mégathermie)
+Chaleur rejetée en mer , excepté en hiver (par mégathermie)
 
 8,5
 

@@ -3,13 +3,12 @@ Article 885 I ter
 I.-1. Sont exonérés les titres reçus par le redevable en contrepartie de sa
 souscription au capital initial ou aux augmentations de capital, en numéraire ou
 en nature par apport de biens nécessaires à l'exercice de l'activité, à
-l'exception des actifs immobiliers et des valeurs mobilières, d'une société
-répondant à la définition des petites et moyennes entreprises figurant à
-l'annexe I au règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001,
-concernant l'application des articles 87 et 88 du traité CE aux aides de l'Etat
-en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n°
-364 / 2004 du 25 février 2004, si les conditions suivantes sont réunies au 1er
-janvier de l'année d'imposition :
+l'exception des actifs immobiliers et des valeurs mobilières, d'une petite et
+moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la
+Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles
+avec le marché commun en application des articles 87 et 88 du traité (Règlement
+général d'exemption par catégorie), si les conditions suivantes sont réunies au
+1er janvier de l'année d'imposition :
 
 a. La société exerce exclusivement une activité industrielle, commerciale,
 artisanale, agricole ou libérale, à l'exclusion des activités de gestion de

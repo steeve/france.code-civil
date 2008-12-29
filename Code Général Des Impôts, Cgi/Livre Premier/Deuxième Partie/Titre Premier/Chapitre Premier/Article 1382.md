@@ -94,6 +94,10 @@ les bestiaux des fermes et métairies ainsi que le gardien de ces bestiaux, soit
 L'exonération est toutefois maintenue lorsque ces bâtiments ne servent plus à
 une exploitation rurale et ne sont pas affectés à un autre usage ;
 
+L'exercice d'une activité de production d'électricité d'origine photovoltaïque
+ayant pour support un bâtiment visé au premier alinéa n'est pas de nature à
+remettre en cause l'exonération ;
+
 b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à
 un usage agricole par les sociétés coopératives agricoles, par les associations
 syndicales ayant un objet exclusivement agricole, leurs unions, les associations
@@ -137,4 +141,7 @@ demeurent la propriété de l'Etat ;
 
 11° Les outillages et autres installations et moyens matériels d'exploitation
 des établissements industriels à l'exclusion de ceux visés à l'article 1381 1°
-et 2°.
+et 2° ;
+
+12° Les immobilisations destinées à la production d'électricité d'origine
+photovoltaïque.

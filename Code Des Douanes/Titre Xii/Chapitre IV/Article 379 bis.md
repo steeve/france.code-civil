@@ -11,9 +11,15 @@ recouvrement.
 3. L'inscription ne peut être requise, selon la nature de la créance, qu'à
 partir de la date à laquelle un titre exécutoire a été émis.
 
-4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre
-civil, par un redevable à un même poste comptable ou service assimilé et
-susceptibles d'être inscrites demeurent impayées.
+4. La publicité est obligatoire lorsque les sommes dues, au titre des neuf mois
+qui suivent l'émission d'un titre exécutoire, par un redevable à un même poste
+comptable ou service assimilé et susceptibles d'être inscrites demeurent
+impayées et dépassent un seuil fixé par décret.
+
+Ne sont pas soumises à la publicité les sommes visées à l'alinéa précédent
+lorsque le débiteur respecte un plan d'apurement échelonné de sa dette. Dès que
+le plan est dénoncé, le comptable public doit procéder à la publication dans un
+délai de deux mois.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu
 des obligations et formalités mises par le présent article à la charge de

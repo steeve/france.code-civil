@@ -68,10 +68,10 @@ d'exonération prévue au présent article, ou dans les cinq années suivant la 
 de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la taxe professionnelle.
 
-Pour les opérations réalisées à compter du 1er janvier 2007, le bénéfice de
-l'exonération est subordonné au respect du règlement (CE) n° 1628 / 2006 de la
-Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du
-traité aux aides nationales à l'investissement à finalité régionale.
+Le bénéfice de l'exonération est subordonné au respect de l'article 13 du
+règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+catégories d'aides compatibles avec le marché commun en application des articles
+87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 Lorsque l'entreprise ne satisfait pas aux conditions mentionnées au deuxième
 alinéa de l'article 1465 B et que l'opération est réalisée à compter du 1er

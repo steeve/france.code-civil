@@ -107,12 +107,7 @@ propriétaires de monuments classés monuments historiques, inscrits à
 l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou
 ayant reçu le label délivré par la " Fondation du patrimoine " en application de
 l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
-favorable du service départemental de l'architecture et du patrimoine ni aux
-nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils payent
-en application des dispositions de l'article 605 du code civil, lorsque le
-démembrement de propriété d'un immeuble bâti résulte de succession ou de
-donation entre vifs, effectuée sans charge ni condition et consentie entre
-parents jusqu'au quatrième degré inclusivement.
+favorable du service départemental de l'architecture et du patrimoine.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses inhérentes au maintien et à la protection du patrimoine naturel autres
@@ -279,7 +274,17 @@ par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 203 euro
 
 Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque
 année dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu.
+barème de l'impôt sur le revenu ;
+
+2° quater Sur option irrévocable du contribuable entraînant renoncement à leur
+prise en compte pour l'évaluation de ses revenus fonciers, les dépenses
+effectivement supportées par les nus-propriétaires au titre de travaux payés en
+application de l'article 605 du code civil, lorsque le démembrement de propriété
+d'un immeuble bâti résulte de succession ou de donation entre vifs, effectuée
+sans charge ni condition et consentie entre parents jusqu'au quatrième degré
+inclusivement. Ces dépenses peuvent être déduites dans la limite annuelle de 25
+000 €. La fraction des dépenses excédant cette limite peut être déduite, dans
+les mêmes conditions, au titre des dix années suivantes ;
 
 3° (Abrogé) ;
 

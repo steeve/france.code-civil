@@ -119,18 +119,14 @@ la valeur ajoutée afférents à des opérations au titre desquelles la taxe due
 peut être totalement ou partiellement déduite par le redevable lui-même, du
 montant de la taxe déductible.
 
-Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
-entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
-leur ordonnancement ;
-
-Par exception aux dispositions des deux premiers alinéas, lorsque, en
-application des dispositions du sixième alinéa de l'article 1679 quinquies, un
-redevable réduit le montant du solde de taxe professionnelle du montant du
-dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de
-la même année, le montant de la cotisation de taxe professionnelle déductible du
-bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant
-du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est
-accordé ultérieurement.
+Par exception aux dispositions du premier alinéa, lorsque, en application des
+dispositions du sixième alinéa de l'article 1679 quinquies, un redevable réduit
+le montant du solde de taxe professionnelle du montant du dégrèvement attendu du
+plafonnement de la taxe professionnelle due au titre de la même année, le
+montant de la cotisation de taxe professionnelle déductible du bénéfice net est
+réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement
+ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé
+ultérieurement.
 
 4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675
 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre
@@ -151,7 +147,7 @@ opérations en cours à la clôture d'un exercice ne sont déductibles des résu
 de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût
 de revient des travaux exécutés à la clôture du même exercice sur le prix de
 vente de ces travaux compte tenu des révisions contractuelles certaines à cette
-date.S'agissant des produits en stock à la clôture d'un exercice, les dépenses
+date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses
 non engagées à cette date en vue de leur commercialisation ultérieure ne
 peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces
 produits en application des dispositions du 3 de l'article 38, ni faire l'objet
@@ -173,7 +169,7 @@ Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
 fluctuation des cours ne peut excéder 69 % de la limite maximale de la provision
 calculée conformément aux dispositions législatives et réglementaires en
-vigueur.L'excédent éventuel de la provision antérieurement constituée, par
+vigueur. L'excédent éventuel de la provision antérieurement constituée, par
 rapport à la nouvelle limite maximale calculée à la clôture du premier exercice
 auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces
 dispositions s'appliquent pour la détermination des résultats des exercices clos
@@ -425,7 +421,7 @@ Il en est de même du versement libératoire prévu au IV de l'article 14 de la 
 n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la
 politique énergétique.
 
-2 bis.A compter de l'entrée en vigueur sur le territoire de la République de la
+2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
 convention sur la lutte contre la corruption d'agents publics étrangers dans les
 transactions commerciales internationales, les sommes versées ou les avantages
 octroyés, directement ou par des intermédiaires, au profit d'un agent public au
@@ -545,14 +541,14 @@ Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives.
 
-9.L'indemnité de congé payé correspondant aux droits acquis durant la période
+9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
 L. 3141-22 à L. 3141-25 du code du travail, n'est pas déductible. Cette période
 neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente
 aux droits acquis et non utilisés à l'ouverture du premier exercice clos à
 compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la
 période d'acquisition des droits à congé payé non utilisés à la clôture de cet
-exercice.L'indemnité correspondant à ces derniers droits est considérée comme
+exercice. L'indemnité correspondant à ces derniers droits est considérée comme
 déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
@@ -580,7 +576,7 @@ du contrat.
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement
 des différents éléments dans l'ordre suivant :
 
-a.D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de
+a. D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de
 l'immeuble ;
 
 b. Ensuite aux éléments amortissables ;
@@ -613,7 +609,7 @@ inférieur à leur coût de revient ;
 2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
 d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
 3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
-exercée dans le document formalisant l'accord.L'attribution, la mise à
+exercée dans le document formalisant l'accord. L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de
 l'accord précité.

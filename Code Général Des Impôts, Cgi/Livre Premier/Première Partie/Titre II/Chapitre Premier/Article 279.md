@@ -1,6 +1,6 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui
+La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 50 % en ce qui
 concerne :
 
 a. Les prestations relatives :
@@ -19,9 +19,9 @@ l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
 à la fourniture de logement dans les terrains de camping classés, lorsque
 l'exploitant du terrain de camping délivre une note dans les conditions fixées
-au a ter, assure l'accueil et consacre 1,5 % de son chiffre d'affaires total
+au a ter, assure l'accueil et consacre 1, 5 % de son chiffre d'affaires total
 hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un
-tiers lorsque celui-ci consacre 1,5 % de son chiffre d'affaires total en France
+tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France
 à la publicité ;
 
 a bis Les recettes provenant de la fourniture des repas dans les cantines
@@ -120,7 +120,7 @@ détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance
 maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de
 gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de
-chaleur lorsqu'elle est produite au moins à 60 % à partir de la biomasse, de la
+chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la
 géothermie, des déchets et d'énergie de récupération.
 
 La puissance maximale prise en compte correspond à la totalité des puissances

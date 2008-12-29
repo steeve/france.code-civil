@@ -81,8 +81,20 @@ terme de la période mentionnée au même alinéa.
 IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son
 activité professionnelle, l'imposition de la plus-value constatée sur les parts
 dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat
-ou d'annulation de ces parts. Ce report est maintenu dans les conditions prévues
-au paragraphe III.
+ou d'annulation de ces parts.
+
+Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou
+actions de l'associé à une personne physique si celle-ci prend l'engagement de
+déclarer en son nom cette plus-value lors de la cession, du rachat ou de
+l'annulation de ces parts ou actions.
+
+En cas de transmission à titre gratuit réalisée dans les conditions prévues à
+l'alinéa précédent, la plus-value en report détenue par le bénéficiaire de la
+transmission est définitivement exonérée lorsque, de manière continue pendant
+les cinq années suivant la transmission, ce bénéficiaire de la transmission
+exerce son activité professionnelle au sein de la société, dans les conditions
+prévues au I ou au 1° du III, et que celle-ci poursuit son activité commerciale,
+industrielle, artisanale, libérale ou agricole.
 
 IV bis.-Le I de l'article 151 octies B est applicable à l'apport de
 l'intégralité des droits ou parts mentionnés au I dans les conditions suivantes

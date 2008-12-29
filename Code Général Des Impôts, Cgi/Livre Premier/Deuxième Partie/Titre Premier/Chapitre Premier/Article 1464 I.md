@@ -2,7 +2,7 @@ Article 1464 I
 ----
 I. ― Les collectivités territoriales et leurs groupements dotés d'une fiscalité
 propre peuvent, par une délibération de portée générale prise dans les
-conditions définies à l'article 1639 bis A, exonérer de taxe professionnelle les
+conditions définies à l'article 1639 A bis, exonérer de taxe professionnelle les
 établissements réalisant une activité de vente de livres neufs au détail qui
 disposent au 1er janvier de l'année d'imposition du label de librairie
 indépendante de référence.
@@ -11,11 +11,10 @@ II. ― Pour bénéficier de l'exonération prévue au I, un établissement doit
 cours de la période de référence mentionnée à l'article 1467 A, relever d'une
 entreprise qui satisfait aux conditions suivantes :
 
-1° L'entreprise doit répondre à la définition des petites et moyennes
-entreprises figurant à l'annexe I au règlement (CE) n° 70 / 2001 de la
-Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88
-du traité CE aux aides de l'Etat en faveur des petites et moyennes entreprises,
-modifié par le règlement (CE) n° 364 / 2004 du 25 février 2004 ;
+1° L'entreprise doit être une petite et moyenne entreprise au sens de l'annexe I
+au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant
+certaines catégories d'aides compatibles avec le marché commun en application
+des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
 2° Le capital de l'entreprise est détenu de manière continue à hauteur de 50 %
 au moins :
@@ -35,12 +34,12 @@ le champ d'application de l'exonération. Cette demande doit être adressée, po
 chaque établissement exonéré, au service des impôts dont relève l'établissement.
 
 IV. ― Le label de librairie indépendante de référence est délivré par l'autorité
-administrative aux établissements mentionnés au II qui réalisent une activité
-principale de vente de livres neufs au détail, disposent de locaux ouverts à
-tout public, et proposent un service de qualité reposant notamment sur une offre
-diversifiée de titres, la présence d'un personnel affecté à la vente de livres
-en nombre suffisant et des actions régulières d'animation culturelle, dans les
-conditions précisées par décret en Conseil d'Etat.
+administrative aux établissements qui réalisent une activité principale de vente
+de livres neufs au détail, disposent de locaux ouverts à tout public, et
+proposent un service de qualité reposant notamment sur une offre diversifiée de
+titres, la présence d'un personnel affecté à la vente de livres en nombre
+suffisant et des actions régulières d'animation culturelle, dans les conditions
+précisées par décret en Conseil d'Etat.
 
 V. ― L'exonération prévue au I est subordonnée au respect du règlement (CE) n°
 1998 / 2006 de la Commission, du 15 décembre 2006, concernant l'application des

@@ -22,14 +22,16 @@ Elle est diminuée chaque année par la loi de finances initiale du montant de l
 dotation versée au titre du logement des instituteurs dont les emplois sont
 transformés en emplois de professeurs des écoles.
 
-Il est procédé, au plus tard le 31 juillet de l'année suivante, à la
-régularisation de la diminution réalisée, conformément aux dispositions du
-précédent alinéa, en fonction de l'effectif réel des personnels sortis du corps
-des instituteurs et de leurs droits au logement au regard de la dotation
-spéciale.
-
-La diminution est calculée par référence au montant unitaire de la dotation
-spéciale. "
+Le comité des finances locales procède à un nouveau calcul de cette diminution
+du montant inscrit en loi de finances initiale, au plus tard le 31 juillet de
+l'année suivant la répartition, en fonction du taux de variation entre
+l'effectif réel du corps des instituteurs recensé au 1er octobre de l'année
+précédant celle au titre de laquelle la dotation a été répartie et celui de
+l'antépénultième année.L'écart éventuel entre la dotation inscrite en loi de
+finances et le montant ainsi calculé est prioritairement financé par
+mobilisation du reliquat comptable net global constaté au terme de la
+répartition de la dotation spéciale pour le logement des instituteurs au titre
+de l'année considérée "
 
 " Art.L. 2334-27.-La dotation spéciale pour le logement des instituteurs prévue
 à l'article L. 2334-26 est divisée en deux parts :

@@ -8,7 +8,10 @@ majoration de :
 
 a. 40 % en cas de manquement délibéré ;
 
-b. 80 % en cas de manoeuvres frauduleuses ou d'abus de droit au sens de
-l'article L. 64 du livre des procédures fiscales ou de dissimulation d'une
-partie du prix stipulé dans un contrat ou en cas d'application des dispositions
-de l'article 792 bis.
+b. 80 % en cas d'abus de droit au sens de l'article L. 64 du livre des
+procédures fiscales ; elle est ramenée à 40 % lorsqu'il n'est pas établi que le
+contribuable a eu l'initiative principale du ou des actes constitutifs de l'abus
+de droit ou en a été le principal bénéficiaire ;
+
+c. 80 % en cas de manœuvres frauduleuses ou de dissimulation d'une partie du
+prix stipulé dans un contrat ou en cas d'application de l'article 792 bis.

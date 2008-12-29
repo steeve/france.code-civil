@@ -7,5 +7,4 @@ vins rendus mousseux dans le département d'origine et les départements
 limitrophes, pourvu que cette extension n'aille pas à l'encontre des
 dispositions légales ou réglementaires en vigueur.
 
-Des décrets déterminent les modalités d'application du présent article et de
-l'article 413.
+Des décrets déterminent les modalités d'application du présent article.

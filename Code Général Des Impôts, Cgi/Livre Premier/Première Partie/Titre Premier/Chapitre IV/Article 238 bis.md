@@ -118,12 +118,12 @@ imposable.
 4. Ouvrent également droit, et dans les mêmes conditions, à la réduction d'impôt
 prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à
 l'article 1649 nonies et dont l'objet exclusif est de verser des aides
-financières permettant la réalisation d'investissements tels que définis au c de
-l'article 2 du règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001,
-concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
-faveur des petites et moyennes entreprises ou de fournir des prestations
-d'accompagnement à des petites et moyennes entreprises telles qu'elles sont
-définies à l'annexe I à ce règlement.
+financières permettant la réalisation d'investissements tels que définis au 1 de
+l'article 12 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+déclarant certaines catégories d'aides compatibles avec le marché commun en
+application des articles 87 et 88 du traité (Règlement général d'exemption par
+catégorie) ou de fournir des prestations d'accompagnement à des petites et
+moyennes entreprises telles qu'elles sont définies à l'annexe I à ce règlement.
 
 L'agrément est délivré à l'organisme s'il s'engage à respecter continûment
 l'ensemble des conditions suivantes :
@@ -133,8 +133,8 @@ l'ensemble des conditions suivantes :
 2° Ses aides et prestations ne sont pas rémunérées et sont utilisées dans
 l'intérêt direct des entreprises bénéficiaires ;
 
-3° Les aides accordées entrent dans le champ d'application du règlement (CE) n°
-70 / 2001 précité ou sont spécifiquement autorisées par la Commission ;
+3° Les aides accordées entrent dans le champ d'application de l'article 15 du
+règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 précité ;
 
 4° Le montant versé chaque année à une entreprise ne devra pas excéder 20 % des
 ressources annuelles de l'organisme ;

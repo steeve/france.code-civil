@@ -16,9 +16,10 @@ espèce animale dans la limite de 150 Euros.
 
 V.-La taxe est déclarée et liquidée, selon le cas, sur les déclarations
 mentionnées aux articles 287, 298 bis ou 1693 bis, ou sur une déclaration dont
-le modèle est fixé par l'administration et qui est déposée avant le 25 avril de
-l'année suivant le fait générateur de la taxe. Elle est acquittée lors du dépôt
-de ces déclarations.
+le modèle est fixé par l'administration et qui est déposée l'année suivant le
+fait générateur de la taxe et jusqu'à une date fixée par décret et au plus tard
+le deuxième jour ouvré suivant le 1er mai. Elle est acquittée lors du dépôt de
+ces déclarations.
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous
 les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée.

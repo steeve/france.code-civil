@@ -9,5 +9,5 @@ Les chambres de métiers et de l'artisanat et l'administration peuvent se
 communiquer mutuellement les informations nécessaires au recensement des
 assujettis à la taxe pour frais de chambres de métiers et de l'artisanat.
 
-Les dispositions du huitième alinéa de l'article L. 135 B sont applicables aux
+Les dispositions du dixième alinéa de l'article L. 135 B sont applicables aux
 informations ainsi transmises.

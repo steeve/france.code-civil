@@ -14,7 +14,7 @@ fiscale, le chiffre d'affaires hors taxes ou le montant des recettes brutes
 excède les limites prévues au I de l'article 302 septies A ou au b du II de
 l'article 69, selon la nature de l'activité.
 
-II.-Lorsque les pénalités prévues au c du 1 de l'article 1728 et au b de
+II.-Lorsque les pénalités prévues au c du 1 de l'article 1728 et aux b et c de
 l'article 1729 et l'amende prévue à l'article 1737 sont encourues pour les mêmes
 faits que ceux visés au I de l'article L. 16-0 BA du livre des procédures
 fiscales constitutifs d'une flagrance fiscale et au titre de la même période,

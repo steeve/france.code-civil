@@ -31,9 +31,10 @@ périodes d'exonération ne peuvent courir simultanément.
 
 Pour les créations d'établissement et les augmentations de bases intervenues à
 compter du 1er janvier 2007, le bénéfice de l'exonération est subordonné au
-respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006
-concernant l'application des articles 87 et 88 du traité aux aides nationales à
-l'investissement à finalité régionale.
+respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
+août 2008 déclarant certaines catégories d'aides compatibles avec le marché
+commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie).
 
 En cas de changement d'exploitant, l'exonération est maintenue pour la période
 restant à courir.

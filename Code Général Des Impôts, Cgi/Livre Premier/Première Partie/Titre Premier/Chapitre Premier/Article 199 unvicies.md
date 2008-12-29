@@ -2,11 +2,11 @@ Article 199 unvicies
 ----
 1. Les contribuables domiciliés en France au sens de l'article 4 B bénéficient
 d'une réduction d'impôt au titre des souscriptions en numéraire, réalisées entre
-le 1er janvier 2006 et le 31 décembre 2008, au capital initial ou aux
+le 1er janvier 2006 et le 31 décembre 2011, au capital initial ou aux
 augmentations de capital des sociétés définies à l'article 238 bis HE.
 
 Le bénéfice de la réduction d'impôt est subordonné à l'agrément du capital de la
-société par le ministre de l'économie et des finances.
+société par le ministre chargé du budget.
 
 2. La réduction d'impôt s'applique aux sommes effectivement versées pour les
 souscriptions mentionnées au 1, retenues dans la limite de 25 % du revenu net
