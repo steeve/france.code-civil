@@ -15,13 +15,15 @@ b) 4 % par année au-delà de cent soixante-quatre trimestres ou 1 % par trimest
 dans le cas où la durée d'assurance mentionnée à l'article L. 732-25-1, au titre
 d'une année civile, est inférieure à quatre trimestres ;
 
-c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1,25 %
+c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1, 25 %
 par trimestre dans le cas où la durée d'assurance mentionnée à l'article L.
 732-25-1, au titre d'une année civile, est inférieure à quatre trimestres ;
 
 2° Pour les assurés nés avant 1949 dont la pension prend effet postérieurement
 au 31 décembre 2008 et pour les assurés nés après 1948, la majoration est égale
 à :
+
+A. Pour les trimestres accomplis avant le 1er janvier 2009 :
 
 a) 3 % par année pour la première année ou 0,75 % par trimestre dans le cas où
 la durée d'assurance mentionnée à l'article L. 732-25-1, au titre d'une année
@@ -34,6 +36,11 @@ civile, est inférieure à quatre trimestres ;
 c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1,25 %
 par trimestre dans le cas où la durée d'assurance mentionnée à l'article L.
 732-25-1, au titre d'une année civile, est inférieure à quatre trimestres ;
+
+B. Pour les trimestres accomplis à compter du 1er janvier 2009, 5 % par année
+après le soixantième anniversaire de l'assuré ou 1, 25 % par trimestre dans le
+cas où la durée d'assurance mentionnée à l'article L. 732-25-1, au titre d'une
+année civile, est inférieure à quatre trimestres.
 
 La durée d'assurance mentionnée au présent article est celle accomplie à compter
 du 1er janvier 2004, postérieurement au soixantième anniversaire de l'assuré et
