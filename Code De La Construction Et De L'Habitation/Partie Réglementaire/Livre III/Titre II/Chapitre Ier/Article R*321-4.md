@@ -1,8 +1,9 @@
 Article R*321-4
 ----
-I. - L'agence est gérée par un conseil d'administration qui comprend, outre son
-président nommé par arrêté conjoint du ministre chargé du logement et du
-ministre chargé des finances, les vingt membres suivants :
+I.-L'agence est gérée par un conseil d'administration qui comprend, outre son
+président, le cas échéant parlementaire, nommé par arrêté conjoint du ministre
+chargé du logement et du ministre chargé des finances, les vingt membres
+suivants :
 
 1° Un représentant du ministre chargé du logement ;
 
@@ -62,7 +63,7 @@ conseil d'administration peut donner au comité restreint délégation pour stat
 sur des matières mentionnées à l'article R. 321-5, à l'exception de celles
 figurant aux 1°, 2°, 3° du même article.
 
-II. - Les membres du conseil d'administration exercent leurs fonctions à titre
+II.-Les membres du conseil d'administration exercent leurs fonctions à titre
 gratuit. Ils peuvent bénéficier, pour leur participation aux séances du conseil
 et du comité restreint, du remboursement de leurs frais dans les conditions
 prévues par la réglementation applicable aux fonctionnaires de l'Etat.
