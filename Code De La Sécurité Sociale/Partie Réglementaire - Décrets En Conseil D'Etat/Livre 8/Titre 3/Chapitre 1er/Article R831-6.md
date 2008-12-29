@@ -54,10 +54,13 @@ rapport économique et financier annexé au projet de loi de finances.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
 demandeur poursuit des études ainsi que, le cas échéant, son conjoint, et que
-les ressources du ménage au titre de l'année de référence appréciées au sens des
-alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
-ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
-ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
-demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
-assujettie à l'impôt sur le revenu.
+les ressources du ménage au titre de l'année civile de référence appréciées au
+sens des alinéas précédents, sont inférieures à un montant minimal de
+ressources, les ressources du bénéficiaire ou du ménage sont réputées égales à
+ce montant. Un montant minimal de ressources inférieur à ce dernier est appliqué
+lorsque le demandeur est titulaire d'une bourse de l'enseignement supérieur qui
+n'est pas assujettie à l'impôt sur le revenu. Ces montants, fixés par arrêté
+conjoint des ministres chargés du logement, du budget, de la sécurité sociale et
+de l'agriculture, évoluent le 1er janvier de chaque année comme l'indice de
+référence des loyers défini à l'article 17 de la loi n° 89-462 du 6 juillet
+1989. Ils sont arrondis à la centaine d'euros la plus proche.
