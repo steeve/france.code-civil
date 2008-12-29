@@ -6,36 +6,20 @@ pénalité et désignés par lui en tenant compte de la répartition des sièges
 les différentes catégories représentées en son sein.
 
 Le conseil de l'organisme local nomme cinq représentants de chaque profession de
-santé, sur proposition de l'instance paritaire prévue par la convention
-nationale mentionnée à l'article L. 162-14-1 au niveau départemental, ou à
-défaut au niveau régional :
-
-- pour les médecins, de la commission paritaire locale ;
-
-- pour les chirurgiens-dentistes, de la commission paritaire départementale ;
-
-- pour les directeurs de laboratoire, de la commission conventionnelle paritaire
-régionale ;
-
-- pour les sages-femmes, de la commission paritaire régionale ;
-
-- pour les masseurs-kinésithérapeutes, de la commission socioprofessionnelle
-départementale ;
-
-- pour les infirmières, de la commission paritaire départementale ;
-
-- pour les orthophonistes, de la commission paritaire départementale ;
-
-- pour les orthoptistes, de la commission départementale régionale.
+santé, des fournisseurs et autres prestataires de service, sur proposition de
+l'instance paritaire prévue par la convention nationale mentionnée aux articles
+L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 322-5, L. 322-5-2,
+L. 162-16-1 et L. 165-6 au niveau départemental, ou à défaut au niveau régional
+:
 
 En l'absence d'instance paritaire conventionnelle, les représentants des
-professions de santé sont proposés par les organisations syndicales
-représentatives. Les sièges de représentants sont attribués aux organisations
-syndicales en fonction de leurs effectifs établis par la dernière enquête de
-représentativité mentionnée à l'article L. 162-33. A défaut de proposition dans
-le mois qui suit la demande adressée aux organisations syndicales
-représentatives par le conseil de l'organisme, le préfet arrête les noms de ces
-représentants.
+professions de santé, des fournisseurs et des autres prestataires de services
+sont proposés par les organisations syndicales représentatives. Les sièges de
+représentants sont attribués aux organisations syndicales en fonction de leurs
+effectifs établis par la dernière enquête de représentativité mentionnée à
+l'article L. 162-33.A défaut de proposition dans le mois qui suit la demande
+adressée aux organisations syndicales représentatives par le conseil de
+l'organisme, le préfet arrête les noms de ces représentants.
 
 Le conseil de l'organisme local tel que défini à l'article R. 147-1 nomme cinq
 représentants des établissements de santé après avis de l'agence régionale de
@@ -45,12 +29,20 @@ nationales représentatives des établissements publics de santé et des
 sur proposition des organisations nationales représentatives de ces
 établissements.
 
+Le conseil de l'organisme local défini à l'article R. 147-1 nomme cinq
+représentants des établissements d'hébergement pour personnes âgées dépendantes
+mentionnés à l'article L. 342-1 du code de l'action sociale et des familles,
+après avis de la direction régionale des affaires sanitaires et sociales parmi
+les représentants dans la région des organisations nationales représentatives
+desdits établissements sur proposition de ces organisations.
+
 Les membres de la commission sont nommés pour la durée du mandat du conseil.
 
 Le président de la commission est élu par ses membres. Les représentants des
-professionnels de santé et ceux des établissements de santé prennent part à
-l'élection du président de la formation de la commission à laquelle ils
-participent.
+professionnels de santé, des établissements de santé, des établissements
+d'hébergement pour personnes âgées dépendantes, des fournisseurs et des autres
+prestataires de services prennent part à l'élection du président de la formation
+de la commission à laquelle ils participent.
 
 Les membres de la commission ne peuvent siéger lorsqu'ils ont un intérêt
 personnel ou direct à l'affaire qui est examinée.
@@ -65,9 +57,11 @@ pour la durée du mandat qui reste à courir.
 
 La commission ne peut donner son avis que si sont au moins présents :
 
-- trois de ses membres, lorsqu'elle siège sans la présence de représentants des
-professionnels de santé ou des établissements de santé ;
+-trois de ses membres, lorsqu'elle siège sans la présence de représentants des
+professionnels de santé ou des établissements de santé ou des établissements
+d'hébergement pour personnes âgées dépendantes, ou des fournisseurs, ou des
+autres prestataires de services ;
 
-- six de ses membres, lorsque ces représentants y participent.
+-six de ses membres, lorsque ces représentants y participent.
 
 Les membres de la commission sont soumis au secret des délibérations.

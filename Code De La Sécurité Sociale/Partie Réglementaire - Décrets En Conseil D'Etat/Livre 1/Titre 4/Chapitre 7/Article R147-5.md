@@ -9,10 +9,10 @@ l'article R. 147-4 du présent code est constituée au sein de chaque groupement
 et est composée de cinq membres du conseil d'administration de ce groupement.
 
 Lorsqu'une pénalité est susceptible d'être prononcée à l'encontre d'un
-professionnel de santé, cinq représentants de la même profession participent à
-la commission. Ils sont nommés par le directeur du groupement parmi des
-représentants, pour chaque profession, des organisations syndicales les plus
-représentatives.
+professionnel de santé, d'un fournisseur ou autre prestataire de services, cinq
+représentants de la même profession participent à la commission. Ils sont nommés
+par le directeur du groupement parmi des représentants, pour chaque profession,
+des organisations syndicales les plus représentatives.
 
 Lorsqu'une pénalité est envisagée à l'encontre d'un établissement de santé, cinq
 représentants des établissements de santé participent à la commission. Ils sont
