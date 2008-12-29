@@ -1,6 +1,9 @@
 Article R174-33
 ----
-Le montant des dépenses du service de santé des armées prises en compte pour le
-calcul de la dotation annuelle de financement et des tarifs des prestations
-arrêtés pour l'application de l'article L. 174-3 n'est pas inclus dans les
-dotations régionales définies au troisième alinéa de l'article L. 174-1-1.
+Pour l'application de l'article L. 162-22-8, le service de santé des armées
+communique chaque année à l'agence régionale de l'hospitalisation
+d'Ile-de-France les éléments de mesure des activités mentionnées au décret prévu
+par cet article et réalisées par les hôpitaux des armées. Sur cette base,
+l'agence propose le montant annuel de chacun des forfaits, qui est arrêté par
+les ministres chargés de la santé et de la sécurité sociale dans les conditions
+prévues à l'article R. 162-42-4.

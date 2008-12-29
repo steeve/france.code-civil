@@ -1,12 +1,30 @@
 Article R174-34
 ----
-Dans le cas où le montant de la dotation annuelle de financement et les tarifs
-des prestations n'ont pas été arrêtés avant le 1er janvier de l'exercice en
-cause, jusqu'à l'intervention des arrêtés les fixant :
+Pour l'application de l'article L. 162-22-13, la dotation de financement des
+missions d'intérêt général et d'aide à la contractualisation attribuée au
+service de santé des armées n'est pas incluse dans les dotations régionales
+mentionnées au deuxième alinéa de cet article.
 
-1° La caisse chargée du versement de la dotation annuelle de financement règle
-des acomptes égaux aux dixièmes de la dotation de l'exercice antérieur ;
+L'arrêté prévu à l'article L. 6147-7 du code de la santé publique fixe la liste
+des activités d'intérêt général mentionnées au premier alinéa de l'article L.
+162-22-13 du présent code qui sont exercées par le service de santé des armées.
 
-2° Les recettes relatives à la facturation des tarifs des prestations sont
-liquidées et perçues dans les conditions en vigueur au cours de l'exercice
-précédent.
+L'agence régionale de l'hospitalisation d'Ile-de-France prépare, avec le service
+de santé des armées, un projet de protocole pluriannuel relatif aux objectifs et
+aux moyens des hôpitaux des armées. Le protocole, conclu en application des
+articles L. 6114-1 et L. 6114-2 du code de la santé publique , est signé par le
+ministre de la défense et les ministres chargés de la santé et de la sécurité
+sociale.
+
+Chaque année, l'agence évalue les missions d'intérêt général mentionnées dans ce
+protocole. Sur cette base, le montant de la dotation annuelle de financement des
+missions d'intérêt général et d'aide à la contractualisation est arrêté, dans
+les conditions prévues à l'article R. 162-42-4 du présent code et dans le
+respect de la dotation nationale mentionnée au premier alinéa de l'article L.
+162-22-13, par les ministres chargés de la santé et de la sécurité sociale après
+avis du ministre de la défense.
+
+L'agence transmet au ministre chargé de la santé les données relatives aux
+activités réalisées dans ce cadre par le service de santé des armées en vue de
+l'élaboration du bilan mentionné à l'avant-dernier alinéa de l'article L.
+162-22-13.

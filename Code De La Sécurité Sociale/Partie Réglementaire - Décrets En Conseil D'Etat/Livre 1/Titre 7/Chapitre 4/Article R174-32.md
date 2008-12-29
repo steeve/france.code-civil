@@ -1,8 +1,16 @@
 Article R174-32
 ----
-Les tarifs des prestations visés par l'article L. 174-3 sont déterminés
-annuellement par arrêté du ministre de la défense compte tenu des critères
-mentionnés à l'article R. 714-3-20 du code de la santé publique. Ils peuvent
-être majorés ou minorés en cours d'année pour prendre en compte les évolutions
-d'activité mentionnées à l'article R. 174-30. Ils sont notifiés au directeur de
-la caisse chargée du versement de la dotation annuelle de financement.
+Pour l'application du deuxième alinéa de l'article L. 162-22-7, l'agence
+régionale de l'hospitalisation d'Ile-de-France prépare, avec le service de santé
+des armées et la Caisse nationale militaire de sécurité sociale, un projet de
+protocole de bon usage des médicaments et des produits et prestations. Le
+protocole, conclu pour une durée de trois à cinq ans, est signé par le ministre
+de la défense et les ministres chargés de la santé et de la sécurité sociale.
+
+Chaque année, l'agence contrôle l'application de ce protocole dans les mêmes
+conditions que celles prévues au décret mentionné au deuxième alinéa de
+l'article L. 162-22-7 et propose aux ministres chargés de la santé et de la
+sécurité sociale le taux de remboursement qu'ils arrêtent après information
+préalable du ministre de la défense. Le taux de prise en charge applicable est
+notifié au ministre de la défense et à la Caisse nationale militaire de sécurité
+sociale conformément au troisième alinéa de l'article L. 162-22-7.
