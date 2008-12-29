@@ -5,7 +5,7 @@ commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi 
 des articles 150 UB et 150 UC , les gains nets retirés des cessions à titre
 onéreux, effectuées directement ou par personne interposée, de valeurs
 mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et
-aux 6° et 7° de l'article 120 , de droits portant sur ces valeurs, droits ou
+aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou
 titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont
 soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par
 foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007 et 25
@@ -108,7 +108,7 @@ possède plus de 10 % des parts du fonds.
 la durée à l'émission est supérieure à cinq ans.
 
 6. Indépendamment de l'application des dispositions des articles 109, 112, 120
-et 161, au gain net retiré par le bénéficiaire lors d'un rachat par une société
+et 161 , au gain net retiré par le bénéficiaire lors d'un rachat par une société
 émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D. Pour
 l'appréciation de la limite mentionnée au 1 du I, le montant du remboursement
 des titres diminué du montant du revenu distribué imposable à l'impôt sur le
@@ -132,7 +132,7 @@ réalisées par des actionnaires remplissant les conditions fixées au II de
 l'article précité, après l'expiration de la période de cinq ans mentionnée au 2°
 du même II. Cette disposition n'est pas applicable si, à la date de la cession,
 la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la
-loi n° 85-695 du 11 juillet 1985 précitée ;
+loi n° 85-695 du 11 juillet 1985 ;
 
 2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
 placement sous réserve qu'aucune personne physique agissant directement ou par
