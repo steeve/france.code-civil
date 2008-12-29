@@ -1,27 +1,27 @@
 Article 1648 AA
 ----
-I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont
-créés ou qui font l'objet d'une extension en exécution d'autorisations délivrées
-à compter du 1er janvier 1991 en application des dispositions des 1°,2° et 3° du
-I de l'article L. 752-1 du code de commerce est soumise à une répartition
-intercommunale dans les conditions définies aux II, III et IV du présent
-article. Cette répartition ne s'applique qu'aux établissements dont
-l'autorisation précitée et, s'il y a lieu, le permis de construire sont devenus
-définitifs.
+I. La taxe professionnelle afférente aux magasins de commerce de détail ou
+ensembles commerciaux qui sont créés ou qui font l'objet d'une extension en
+exécution d'autorisations délivrées à compter du 1er janvier 1991 en application
+des dispositions des 1°, 2° , 4° et 5° du I de l'article L. 752-1 du code de
+commerce est soumise à une répartition intercommunale dans les conditions
+définies aux II, III et IV du présent article. Cette répartition ne s'applique
+qu'aux établissements dont l'autorisation précitée et, s'il y a lieu, le permis
+de construire sont devenus définitifs.
 
-Pour les créations et extensions de magasins de commerce de détail qui font
-l'objet d'une autorisation délivrée en application des dispositions des 1°,2° et
-3° du I de l'article L. 752-1 précité, la répartition prévue au premier alinéa
-s'applique :
+Pour les créations et extensions de magasins de commerce de détail ou ensembles
+commerciaux qui font l'objet d'une autorisation délivrée en application des
+dispositions des 1°, 2°, 4° et 5° du I de l'article L. 752-1 précité, la
+répartition prévue au premier alinéa s'applique :
 
-1° Aux créations de magasins d'une surface de vente supérieure à 1 000 mètres
-carrés ;
+1° Aux créations de magasins ou d'ensembles commerciaux d'une surface de vente
+supérieure à 1 000 mètres carrés ;
 
 2° Aux extensions de surface de vente supérieures à 200 mètres carrés portant
-sur des magasins d'une surface de vente supérieure à 1 000 mètres carrés ou
-devant atteindre cette superficie par la réalisation du projet. Pour
-l'application de cette disposition, la surface de vente s'entend de celle
-résultant d'une construction ou de la transformation d'un immeuble.
+sur des magasins ou des ensembles commerciaux d'une surface de vente supérieure
+à 1 000 mètres carrés ou devant atteindre cette superficie par la réalisation du
+projet. Pour l'application de cette disposition, la surface de vente s'entend de
+celle résultant d'une construction ou de la transformation d'un immeuble.
 
 La répartition prévue aux premier à quatrième alinéas s'effectue entre les
 communes dont tout ou partie du territoire se trouve à une distance de 5
