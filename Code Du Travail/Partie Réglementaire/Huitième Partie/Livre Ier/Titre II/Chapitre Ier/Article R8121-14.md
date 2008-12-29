@@ -6,5 +6,5 @@ l'application du droit du travail ; 2° Contribue à la définition des principe
 de l'organisation du réseau territorial ; 3° Assure l'appui et le soutien des
 services déconcentrés dans l'exercice de leurs missions ; 4° Veille au respect
 des règles déontologiques des agents de l'inspection du travail ; 5° Coordonne
-les liaisons avec les services d'inspection du travail relevant d'autres
-départements ministériels.
+les liaisons avec les services exerçant des fonctions d'inspection du travail
+relevant d'autres départements ministériels.

@@ -5,11 +5,10 @@ effectuant des opérations de cabotage dans les conditions définies au 9e alin�
 de l'article L. 342-3 du code du travail, sous réserve des dispositions
 ci-après.
 
-I.-La déclaration prévue à l'article R. 342-6 est adressée à l'inspecteur
-général du travail des transports.
+I.-La déclaration prévue à l'article R. 342-6 est adressée au directeur général
+du travail
 
-II.-La déclaration préalable est adressée à l'inspecteur général du travail des
-transports.
+II.-La déclaration préalable est adressée au directeur général du travail
 
 En lieu et place des mentions prévues au 2° de l'article R. 342-8, l'adresse à
 mentionner est celle du donneur d'ordre de la première opération de cabotage

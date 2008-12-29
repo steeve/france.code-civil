@@ -7,9 +7,7 @@ modalités déterminées par la présente section.
 
 Pour l'application de ces règles et compte tenu des dispositions de l'article R.
 2524-2 du code du travail, le ministre chargé de l'agriculture est substitué au
-ministre chargé du travail et le directeur régional du travail de l'emploi et de
-la politique sociale agricoles au directeur régional du travail, de l'emploi et
-de la formation professionnelle.
+ministre chargé du travail.
 
 Le ministre chargé du travail et le directeur régional du travail, de l'emploi
 et de la formation professionnelle ou leurs représentants sont membres de ces

@@ -12,7 +12,6 @@ assiduité scolaire, à leur participation à des programmes d'orientation ou de
 formation professionnelle ou à leur aptitude à bénéficier de l'instruction
 reçue.
 
-Lorsque les agents de contrôle de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles constatent des manquements aux prescriptions du
-présent article, ils mettent en demeure le chef d'entreprise de s'y conformer
-dans un délai qu'ils fixent.
+Lorsque les agents de contrôle de l'inspection du travail constatent des
+manquements aux prescriptions du présent article, ils mettent en demeure le chef
+d'entreprise de s'y conformer dans un délai qu'ils fixent.

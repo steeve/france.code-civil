@@ -16,14 +16,12 @@ Les représentants du personnel d'exécution et des officiers sont désignés
 respectivement par les membres du comité d'entreprise élus au titre de chacune
 de ces catégories ; leur choix est recueilli par correspondance.
 
-Le directeur départemental ou interdépartemental des affaires maritimes peut
-autoriser pour une durée limitée des dérogations à la proportion entre les
-représentants des officiers et ceux du personnel d'exécution pour tenir compte
-des particularités de composition du personnel navigant d'une entreprise
-d'armement déterminée.
+l'inspecteur du travail peut autoriser pour une durée limitée des dérogations à
+la proportion entre les représentants des officiers et ceux du personnel
+d'exécution pour tenir compte des particularités de composition du personnel
+navigant d'une entreprise d'armement déterminée.
 
 Dans les entreprises d'armement au commerce et pour les réunions ordinaires de
 la section des gens de mer, la délégation du personnel de la section comprend au
-moins les deux tiers de ses membres, sauf dérogation accordée par le directeur
-départemental ou interdépartemental des affaires maritimes sur demande motivée
-de l'entreprise d'armement.
+moins les deux tiers de ses membres, sauf dérogation accordée par l'inspecteur
+du travail sur demande motivée de l'entreprise d'armement.

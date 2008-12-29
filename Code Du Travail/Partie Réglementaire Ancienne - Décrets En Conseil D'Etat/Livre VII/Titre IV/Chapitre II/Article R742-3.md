@@ -1,16 +1,18 @@
 Article R742-3
 ----
-Les conventions et accords collectifs sont applicables [*date, point de
-départ*], sauf stipulation contraire, à partir du jour qui suit leur dépôt en
-trois [*nombre*] exemplaires au quartier des affaires maritimes dans le ressort
-duquel ils ont été conclus.
+Les conventions et accords collectifs mentionnés à l'article R. 742-1, ainsi que
+leurs avenants et annexes, sont déposés par la partie la plus diligente dans les
+conditions fixées par l'article D. 2231-2 et suivants du code du travail. Le
+directeur départemental du travail, de l'emploi et de la formation
+professionnelle en adresse un exemplaire au directeur départemental des affaires
+maritimes du lieu de conclusion.
 
-Dans les deux jours [*délai*] qui suivent leur dépôt, deux exemplaires signés
-par les parties sont adressés, l'un au ministre chargé de la marine marchande,
-l'autre au ministre chargé du travail par le chef du quartier des affaires
-maritimes.
+Une copie des conventions et accords professionnels ou interprofessionnels
+mentionnés à l'article D. 2231-3 du code du travail est adressée par les
+services centraux du ministère chargé du travail aux services centraux du
+ministre chargé de la mer.
 
 Si la convention ou l'accord collectif est conclu en dehors de la
-circonscription d'un quartier des affaires maritimes, deux exemplaires sont
-déposés, l'un au ministère chargé de la marine marchande, l'autre au ministère
-chargé du travail [*formalités*].
+circonscription de la direction départementale ou interdépartementale des
+affaires maritimes, deux exemplaires sont déposés, l'un au ministère chargé de
+la mer, l'autre au ministère chargé du travail.

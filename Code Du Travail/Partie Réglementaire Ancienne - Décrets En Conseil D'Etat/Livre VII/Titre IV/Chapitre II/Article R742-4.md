@@ -7,5 +7,7 @@ d'armement du navire.
 
 Une copie de la convention collective applicable est annexée au rôle d'équipage
 du navire. Le texte des conventions collectives en vigueur est tenu à la
-disposition de tout intéressé dans les quartiers des affaires maritimes
-[*publicité*].
+disposition de tout intéressé dans les quartiers des affaires maritimes ainsi
+qu'à la direction départementale du travail, de l'emploi et de la formation
+professionnelle du lieu du dépôt et à la section d'inspection du travail
+compétente.

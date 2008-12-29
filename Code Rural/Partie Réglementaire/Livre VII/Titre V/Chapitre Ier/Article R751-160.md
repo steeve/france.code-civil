@@ -7,12 +7,11 @@ l'harmonisation des actions qu'elles entreprennent.
 
 Ces comités sont composés paritairement de représentants des organisations
 professionnelles d'employeurs et de salariés agricoles. L'inspecteur du travail,
-de l'emploi et de la politique sociale agricoles, le médecin inspecteur régional
-de la santé, ou leurs délégués, le médecin du travail de la caisse de mutualité
-sociale agricole du département dans lequel est situé le chef-lieu de la
-circonscription régionale et un représentant désigné par l'ensemble des caisses
-de mutualité sociale agricole de la circonscription participent, avec voix
-consultative, aux réunions des comités.
+le médecin inspecteur régional de la santé, ou leurs délégués, le médecin du
+travail de la caisse de mutualité sociale agricole du département dans lequel
+est situé le chef-lieu de la circonscription régionale et un représentant
+désigné par l'ensemble des caisses de mutualité sociale agricole de la
+circonscription participent, avec voix consultative, aux réunions des comités.
 
 Les caisses de mutualité sociale agricole doivent présenter aux comités
 techniques régionaux, avant mise en oeuvre dans leurs départements, le programme

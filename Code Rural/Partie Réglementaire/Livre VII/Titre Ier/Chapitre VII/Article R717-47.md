@@ -2,8 +2,7 @@ Article R717-47
 ----
 Les entreprises non agricoles qui ont organisé un service de santé au travail en
 application de l'article R. 241-2 du code du travail peuvent être autorisées,
-par décision conjointe du chef du service régional de l'inspection du travail,
-de l'emploi et de la politique sociale agricoles et du directeur régional du
+par décision de la politique sociale agricoles et du directeur régional du
 travail et de l'emploi, à faire exercer par ledit service la surveillance
 médicale de ceux de leurs salariés mentionnés à l'article R. 717-1.
 

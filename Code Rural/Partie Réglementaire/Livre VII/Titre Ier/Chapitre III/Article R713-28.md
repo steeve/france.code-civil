@@ -6,6 +6,6 @@ des situations exceptionnelles propres à leur entreprise, demander l'octroi
 d'une dérogation particulière.
 
 La demande, motivée et accompagnée de l'avis du comité d'entreprise ou, à
-défaut, de celui des délégués du personnel, est adressée au chef du service
-départemental de l'inspection du travail, de l'emploi et de la politique sociale
-agricoles, qui statue.
+défaut, de celui des délégués du personnel, est adressée au directeur
+départemental du travail, de l'emploi et de la formation professionnelle, qui
+statue.
