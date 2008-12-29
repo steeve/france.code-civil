@@ -41,3 +41,12 @@ exceptionnel, de ceux dont la réalisation est éventuelle.
 
 8° Les éléments constitutifs du poste " frais d'établissement " énoncé au
 premier alinéa de l'article R. 123-186.
+
+9° Le montant total des honoraires des commissaires aux comptes figurant au
+compte de résultat de l'exercice, en séparant les honoraires facturés au titre
+du contrôle légal des comptes de ceux facturés au titre des conseils et
+prestations de services entrant dans les diligences directement liées à la
+mission de contrôle légal des comptes, telles qu'elles sont définies par les
+normes d'exercice professionnel mentionnées au II de l'article L. 822-11. Ces
+informations ne sont pas fournies si la personne morale est incluse dans un
+périmètre de consolidation et si l'annexe des comptes consolidés les mentionne.

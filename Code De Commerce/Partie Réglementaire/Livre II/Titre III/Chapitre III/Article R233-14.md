@@ -79,8 +79,16 @@ au compte de résultat consolidés ;
 
 16° Le montant net des éléments du compte de résultat qui présentent un
 caractère exceptionnel pour l'ensemble consolidé s'ils n'apparaissent pas
-distinctement au compte de résultat consolidé.
+distinctement au compte de résultat consolidé ;
 
-Si certaines des indications prévues aux 5°,6°,7°,8° ou 13° ci-dessus sont
+17° Le montant total des honoraires des commissaires aux comptes figurant au
+compte de résultat consolidé de l'exercice, en séparant les honoraires facturés
+au titre du contrôle légal des comptes consolidés de ceux facturés au titre des
+conseils et prestations de services entrant dans les diligences directement
+liées à la mission de contrôle légal des comptes consolidés, telles qu'elles
+sont définies par les normes d'exercice professionnel mentionnées au II de
+l'article L. 822-11.
+
+Si certaines des indications prévues aux 5°, 6°, 7°, 8° ou 13° ci-dessus sont
 omises en raison du préjudice grave qui pourrait résulter de leur divulgation,
 il est fait mention du caractère incomplet des informations données.

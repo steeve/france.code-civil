@@ -1,20 +1,30 @@
 Article R821-1
 ----
-Le Haut Conseil dispose d'un secrétaire général, nommé par arrêté du garde des
-sceaux, ministre de la justice, et chargé, sous l'autorité du président, de la
-gestion administrative du Haut Conseil, de la préparation et du suivi des
-travaux ainsi que de toute question qui pourrait lui être confiée.
+Le secrétaire général du haut conseil et le secrétaire général adjoint sont
+nommés par le garde des sceaux, ministre de la justice.
 
-Le secrétaire général est en outre chargé de l'examen des documents retraçant
-les opérations des contrôles auxquels la Compagnie nationale des commissaires
-aux comptes et les compagnies régionales ont procédé en application du b de
-l'article L. 821-7 ainsi que de l'examen de toute question portant sur des cas
-individuels dont le Haut Conseil est saisi.
+Le secrétaire général est chargé, sous l'autorité du président, de la gestion
+administrative du haut conseil, de la préparation et du suivi de ses travaux
+ainsi que de toute question qui pourrait lui être confiée. Il assure la
+direction des contrôleurs.A cette fin, il est assisté d'un directeur placé sous
+son autorité et recruté par le haut conseil après avis conforme de son collège.
 
-Lorsque l'examen des documents ou des cas individuels mentionnés à l'alinéa
-précédent fait apparaître une question de principe justifiant un avis du Haut
-Conseil, le secrétaire général saisit celui-ci après avoir instruit le dossier
-qu'il présente sous une forme anonyme.
+Il est chargé de l'examen des documents retraçant les opérations de contrôle
+auxquelles la Compagnie nationale des commissaires aux comptes et les compagnies
+régionales ont procédé en application du b de l'article L. 821-7 et,
+lorsqu'elles ont été effectuées à la demande du haut conseil, du c du même
+article. Il peut participer à la mise en œuvre de ces contrôles et émettre des
+recommandations.
+
+Il est en outre chargé de l'examen de toute question portant sur des cas
+individuels dont le haut conseil serait saisi.
+
+Lorsque l'examen des documents ou des cas individuels mentionnés aux alinéas
+précédents fait apparaître une question de principe justifiant un avis du haut
+conseil, ou lorsque sa participation aux opérations de contrôle mentionnées au
+troisième alinéa fait apparaître une question de cette nature, le secrétaire
+général saisit le haut conseil après avoir instruit le dossier qu'il présente
+sous une forme anonyme.
 
 Chaque année, le secrétaire général présente au Haut Conseil un rapport sur les
 contrôles auxquels il a été procédé en application du b de l'article L. 821-7.
