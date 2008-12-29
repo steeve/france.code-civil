@@ -39,4 +39,4 @@ prévention et de répression des actes de terrorisme ;
 -les agents des services de renseignement du ministère de la défense chargés des
 missions de prévention des actes de terrorisme.
 
-III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
