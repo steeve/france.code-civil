@@ -10,7 +10,7 @@ demande, l'inspecteur du travail fait connaître sa décision à l'employeur ain
 que, s'il y a lieu, aux représentants du personnel.
 
 En cas d'urgence, l'employeur peut déroger sous sa propre responsabilité à la
-durée minimale du repos quotidien. S'il n'a pas encore adressé de demande de
+durée minimale du repos quotidien.S'il n'a pas encore adressé de demande de
 dérogation, il doit présenter immédiatement à l'inspecteur du travail une
 demande de régularisation accompagnée des justifications et avis mentionnés au
 premier alinéa et de toutes explications nécessaires sur les causes ayant
@@ -25,6 +25,6 @@ Dans l'un et l'autre cas, l'inspecteur du travail fait connaître sa décision
 selon les modalités prévues au troisième alinéa.
 
 Les recours hiérarchiques contre les décisions mentionnées au présent article
-doivent être formés devant le chef du service régional de l'inspection du
-travail, de l'emploi et de la politique sociale agricoles dans le délai d'un
-mois suivant la date à laquelle les intéressés en ont reçu notification.
+doivent être formés devant le directeur régional du travail, de l'emploi et de
+la formation professionnelle dans le délai d'un mois suivant la date à laquelle
+les intéressés en ont reçu notification.
