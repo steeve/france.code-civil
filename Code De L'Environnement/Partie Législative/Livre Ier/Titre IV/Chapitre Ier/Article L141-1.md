@@ -9,6 +9,9 @@ contre les pollutions et les nuisances et, d'une manière générale, oeuvrant
 principalement pour la protection de l'environnement, peuvent faire l'objet d'un
 agrément motivé de l'autorité administrative.
 
+La Fédération nationale des chasseurs et les fédérations départementales des
+chasseurs sont éligibles à l'agrément mentionné au premier alinéa.
+
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure
 d'agrément est applicable aux associations inscrites depuis trois ans au moins.
 

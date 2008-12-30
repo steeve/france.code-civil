@@ -1,6 +1,7 @@
 Article L425-2
 ----
-Le schéma départemental de gestion cynégétique comprend notamment :
+Parmi les dispositions du schéma départemental de gestion cynégétique figurent
+obligatoirement :
 
 1° Les plans de chasse et les plans de gestion ;
 

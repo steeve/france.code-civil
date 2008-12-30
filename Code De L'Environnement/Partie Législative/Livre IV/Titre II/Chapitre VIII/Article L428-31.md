@@ -7,4 +7,4 @@ désignés à l'article L. 428-9.
 En cas d'infraction aux articles L. 424-8 à L. 424-13 et aux dispositions
 réglementaires relatives au transport et à la commercialisation du gibier, le
 gibier est saisi et immédiatement livré à l'établissement de bienfaisance le
-plus voisin.
+plus voisin ou, en cas d'impossibilité, détruit.

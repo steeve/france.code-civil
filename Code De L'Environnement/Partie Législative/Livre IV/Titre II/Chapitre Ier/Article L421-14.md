@@ -25,7 +25,12 @@ de grand gibier par les fédérations départementales des chasseurs. Ce fonds e
 alimenté par des contributions obligatoires acquittées par les fédérations
 départementales des chasseurs ainsi que par le produit d'une cotisation
 nationale versé à la Fédération nationale des chasseurs par chaque chasseur de
-grand gibier ayant validé un permis de chasser national.
+grand gibier ayant validé un permis de chasser national. Elle détermine
+également la réfaction appliquée à la cotisation due par tout chasseur validant
+pour la première fois son permis de chasser lors de la saison cynégétique qui
+suit l'obtention du titre permanent dudit permis. De même, elle fixe chaque
+année le prix unique de la cotisation fédérale que chaque demandeur d'un permis
+de chasser national doit acquitter.
 
 La Fédération nationale des chasseurs élabore une charte de la chasse en France.
 Celle-ci expose les principes d'un développement durable de la chasse et sa

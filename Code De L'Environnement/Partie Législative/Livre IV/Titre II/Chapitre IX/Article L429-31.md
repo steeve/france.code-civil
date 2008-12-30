@@ -7,16 +7,20 @@ générale fixe pour cette année une ou plusieurs des contributions
 complémentaires suivantes :
 
 a) Une contribution complémentaire départementale due par les membres du fonds
-départemental, proportionnellement à la surface boisée de leur territoire de
-chasse ;
+départemental, en fonction de la surface boisée et non boisée de leur territoire
+de chasse ;
 
 b) Une contribution complémentaire déterminée par secteur cynégétique du
 département, due par les membres du fonds départemental pour le secteur dont ils
-font partie, proportionnellement à la surface totale de leur territoire de
-chasse, ou proportionnellement à sa surface boisée ;
+font partie, variable en fonction de la surface boisée et non boisée de leur
+territoire de chasse ;
 
-c) Une contribution personnelle unique due par tout chasseur, le premier jour où
-il chasse le sanglier dans le département.
+c) Une contribution personnelle modulable selon le nombre de jours de chasse tel
+que défini par le permis de chasser, due par tout chasseur, le premier jour où
+il chasse le sanglier dans le département, à l'exclusion des personnes qui se
+sont acquittées du timbre national grand gibier ;
+
+d) Une contribution due pour chaque sanglier tué dans le département.
 
 A l'inverse, au cas où les ressources d'une année, constituées par les
 versements prévus à l'article L. 429-30, excéderaient les dépenses d'un fonds

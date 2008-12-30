@@ -40,5 +40,13 @@ dispositif de marquage ou une combinaison de ces deux types de participation.
 Ces participations peuvent être modulées en fonction des espèces de gibier, du
 sexe, des catégories d'âge, des territoires de chasse ou unités de gestion.
 
+Tout adhérent chasseur ayant validé un permis de chasser national et étant
+porteur du timbre national grand gibier mentionné à l'article L. 421-14 est
+dispensé de s'acquitter de la participation personnelle instaurée par la
+fédération dans laquelle il valide son permis. De même, tout titulaire d'un
+permis national porteur d'un timbre national grand gibier est dispensé de
+s'acquitter de la contribution personnelle due en application du c de l'article
+L. 429-31.
+
 Un décret en Conseil d'Etat précise les conditions d'application des articles L.
 426-1 à L. 426-4 et du présent article.

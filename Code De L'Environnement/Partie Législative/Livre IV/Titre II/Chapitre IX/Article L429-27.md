@@ -18,3 +18,6 @@ les territoires leur appartenant, conformément à l'article L. 429-4 ;
 
 3° L'Office national des forêts pour les lots exploités en forêt domaniale par
 concessions de licences ou mis en réserve.
+
+4° Les titulaires, personnes physiques ou morales, d'une location ou d'une
+autorisation temporaire de chasser sur le domaine militaire.

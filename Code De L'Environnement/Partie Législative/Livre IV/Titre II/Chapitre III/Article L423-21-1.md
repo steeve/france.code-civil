@@ -22,6 +22,10 @@ Le montant des redevances cynégétiques est fixé pour 2007 à :
 - redevance cynégétique départementale temporaire pour trois jours : 15,30
 euros.
 
+Lorsqu'un chasseur valide pour la première fois son permis de chasser lors de la
+saison cynégétique qui suit l'obtention du titre permanent dudit permis, le
+montant de ces redevances est diminué de moitié.
+
 A partir de 2008, les montants mentionnés ci-dessus sont indexés chaque année
 sur le taux de progression de l'indice des prix à la consommation hors tabac
 prévu dans le rapport économique, social et financier annexé au projet de loi de
