@@ -1,4 +1,3 @@
 Article D734-1
 ----
-Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont
-applicables à Mayotte.
+L'article D. 424-1 n'est pas applicable à Mayotte.

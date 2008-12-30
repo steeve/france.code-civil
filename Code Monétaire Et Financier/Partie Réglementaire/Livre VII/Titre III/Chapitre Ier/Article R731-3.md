@@ -1,5 +1,6 @@
 Article R731-3
 ----
-Sous réserve de l'article R. 731-5, les articles R. 131-1, R. 131-5 à R. 131-24,
-R. 131-26 à R. 131-55, R. 132-1, R. 163-2 et R. 163-3 sont applicables à
-Mayotte.
+A Mayotte, la pénalité libératoire prévue par les articles L. 131-75 et L.
+131-76 est réglée par versement d'espèces à un comptable direct du Trésor ou
+remise à celui-ci d'un chèque émis dans les conditions prévues par l'article R.
+131-2.
