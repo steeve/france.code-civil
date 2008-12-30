@@ -13,32 +13,32 @@ services collectifs est défini dans les conditions suivantes :
 I.-1° Pour les étudiants, lorsqu'ils sont logés en résidence universitaire, le
 loyer mensuel est réputé égal à :
 
--76,23 euros lorsqu'il s'agit d'une personne isolée ;
+78, 48 € lorsqu'il s'agit d'une personne isolée ;
 
--118,71 euros lorsqu'il s'agit d'un ménage.
+122, 21 € lorsqu'il s'agit d'un ménage.
 
 Lorsqu'il s'agit d'une résidence universitaire gérée par le CROUS et que la
 chambre a fait l'objet d'une réhabilitation, le loyer mensuel payé par les
 étudiants est réputé égal à :
 
--154,14 euros lorsqu'il s'agit d'une personne isolée ;
+158, 69 € lorsqu'il s'agit d'une personne isolée ;
 
--239,58 euros lorsqu'il s'agit d'un ménage.
+246, 65 € lorsqu'il s'agit d'un ménage.
 
 2° Pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante
 ans en cas d'inaptitude au travail, ainsi que pour les personnes infirmes, le
 loyer mensuel est réputé égal à :
 
--187,04 euros lorsqu'il s'agit d'une personne isolée ;
+192, 56 € lorsqu'il s'agit d'une personne isolée ;
 
--290,63 euros lorsqu'il s'agit d'un ménage.
+299, 20 € lorsqu'il s'agit d'un ménage.
 
 3° Pour les personnes autres que celles mentionnées ci-dessus, le loyer mensuel
 est réputé égal à :
 
--154,14 euros lorsqu'il s'agit d'une personne isolée ;
+158, 69 € lorsqu'il s'agit d'une personne isolée ;
 
--239,58 euros lorsqu'il s'agit d'un ménage.
+246, 65 € lorsqu'il s'agit d'un ménage.
 
 II.-Lorsqu'il s'agit d'une résidence universitaire gérée par le CROUS et que
 l'étudiant est logé dans un studio, l'allocation de logement est calculée selon
