@@ -18,11 +18,11 @@ justifié d'au moins quarante trimestres valables pour la retraite au sens des
 articles R. 351-3, R. 351-4, R. 351-12 et R. 351-15 du code de la sécurité
 sociale, dans un ou plusieurs régimes de sécurité sociale de salariés ; 7° Il
 n'a pas réuni les conditions nécessaires à la validation d'une retraite à taux
-plein au sens des articles R. 351-27 ou de l'article R. 351-45 du code de la
-sécurité sociale ; 8° Il n'exerce aucune autre activité professionnelle ; 9° Il
-ne bénéficie ni d'un avantage vieillesse à caractère viager acquis à titre
-personnel liquidé après l'entrée dans le dispositif, ni d'une indemnisation
-versée en application des articles L. 5421-2, R. 5123-12 ou de la loi n° 96-126
-du 21 février 1996 portant création d'un fonds paritaire en faveur de l'emploi.
-Un arrêté du ministre chargé de l'emploi détermine les modalités selon
-lesquelles il est vérifié que le salarié remplit les conditions ci-dessus.
+plein au sens de l'article R. 351-27 du code de la sécurité sociale ; 8° Il
+n'exerce aucune autre activité professionnelle ; 9° Il ne bénéficie ni d'un
+avantage vieillesse à caractère viager acquis à titre personnel liquidé après
+l'entrée dans le dispositif, ni d'une indemnisation versée en application des
+articles L. 5421-2, R. 5123-12 ou de la loi n° 96-126 du 21 février 1996 portant
+création d'un fonds paritaire en faveur de l'emploi. Un arrêté du ministre
+chargé de l'emploi détermine les modalités selon lesquelles il est vérifié que
+le salarié remplit les conditions ci-dessus.
