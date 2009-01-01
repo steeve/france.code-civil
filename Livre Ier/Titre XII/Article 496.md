@@ -1,7 +1,12 @@
 Article 496
 ----
-L'époux est tuteur de son conjoint, à moins que la communauté de vie n'ait cessé
-entre eux ou que le juge n'estime qu'une autre cause interdit de lui confier la
-tutelle. Tous autres tuteurs sont datifs.
+Le tuteur représente la personne protégée dans les actes nécessaires à la
+gestion de son patrimoine.
 
-La tutelle d'un majeur peut être déférée à une personne morale.
+Il est tenu d'apporter, dans celle-ci, des soins prudents, diligents et avisés,
+dans le seul intérêt de la personne protégée.
+
+La liste des actes qui sont regardés, pour l'application du présent titre, comme
+des actes d'administration relatifs à la gestion courante du patrimoine et comme
+des actes de disposition qui engagent celui-ci de manière durable et
+substantielle est fixée par décret en Conseil d'Etat.

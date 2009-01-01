@@ -1,10 +1,13 @@
 Article 417
 ----
-Le conseil de famille peut, en considérant les aptitudes des intéressés et la
-consistance du patrimoine à administrer, décider que la tutelle sera divisée
-entre un tuteur à la personne et un tuteur aux biens, ou que la gestion de
-certains biens particuliers sera confiée à un tuteur adjoint.
+Le juge des tutelles peut prononcer des injonctions contre les personnes
+chargées de la protection et condamner à l'amende civile prévue par le code de
+procédure civile celles qui n'y ont pas déféré.
 
-Les tuteurs ainsi nommés seront indépendants, et non responsables l'un envers
-l'autre, dans leurs fonctions respectives, à moins qu'il n'en ait été autrement
-ordonné par le conseil de famille.
+Il peut les dessaisir de leur mission en cas de manquement caractérisé dans
+l'exercice de celle-ci, après les avoir entendues ou appelées.
+
+Il peut, dans les mêmes conditions, demander au procureur de la République de
+solliciter la radiation d'un mandataire judiciaire à la protection des majeurs
+de la liste prévue à l'article L. 471-2 du code de l'action sociale et des
+familles.

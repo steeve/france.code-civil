@@ -1,11 +1,8 @@
 Article 490
 ----
-Lorsque les facultés mentales sont altérées par une maladie, une infirmité ou un
-affaiblissement dû à l'âge, il est pourvu aux intérêts de la personne par l'un
-des régimes de protection prévus aux chapitres suivants.
+Par dérogation à l'article 1988, le mandat, même conçu en termes généraux,
+inclut tous les actes patrimoniaux que le tuteur a le pouvoir d'accomplir seul
+ou avec une autorisation.
 
-Les mêmes régimes de protection sont applicables à l'altération des facultés
-corporelles, si elle empêche l'expression de la volonté.
-
-L'altération des facultés mentales ou corporelles doit être médicalement
-établie.
+Toutefois, le mandataire ne peut accomplir un acte de disposition à titre
+gratuit qu'avec l'autorisation du juge des tutelles.

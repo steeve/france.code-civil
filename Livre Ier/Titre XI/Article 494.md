@@ -1,7 +1,9 @@
 Article 494
 ----
-La tutelle peut être ouverte pour un mineur émancipé comme pour un majeur.
+Pour l'application du dernier alinéa de l'article 486, le mandataire conserve
+l'inventaire des biens et ses actualisations, les cinq derniers comptes de
+gestion, les pièces justificatives ainsi que celles nécessaires à la
+continuation de celle-ci.
 
-La demande peut même être introduite et jugée, pour un mineur non émancipé, dans
-la dernière année de sa minorité ; mais la tutelle ne prendra effet que du jour
-où il sera devenu majeur.
+Il est tenu de les présenter au juge des tutelles ou au procureur de la
+République dans les conditions prévues à l'article 416.

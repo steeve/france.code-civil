@@ -1,13 +1,18 @@
 Article 500
 ----
-Le gérant de la tutelle perçoit les revenus de la personne protégée et les
-applique à l'entretien et au traitement de celle-ci, ainsi qu'à l'acquittement
-des obligations alimentaires dont elle pourrait être tenue. S'il y a un
-excédent, il le verse à un compte qu'il doit faire ouvrir chez un dépositaire
-agréé. Chaque année, il rend compte de sa gestion directement au greffier en
-chef du tribunal d'instance, sans préjudice de la faculté pour le juge de
-demander à tout moment au greffier en chef que le compte de gestion lui soit
-communiqué et que la reddition de celui-ci lui soit directement adressée.
+Sur proposition du tuteur, le conseil de famille ou, à défaut, le juge arrête le
+budget de la tutelle en déterminant, en fonction de l'importance des biens de la
+personne protégée et des opérations qu'implique leur gestion, les sommes
+annuellement nécessaires à l'entretien de celle-ci et au remboursement des frais
+d'administration de ses biens.
 
-Si d'autres actes deviennent nécessaires, il saisit le juge, qui pourra, soit
-l'autoriser à les faire, soit décider de constituer la tutelle complètement.
+Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à inclure
+dans les frais de gestion la rémunération des administrateurs particuliers dont
+il demande le concours sous sa propre responsabilité.
+
+Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à conclure
+un contrat pour la gestion des valeurs mobilières et instruments financiers de
+la personne protégée. Il choisit le tiers contractant en considération de son
+expérience professionnelle et de sa solvabilité. Le contrat peut, à tout moment
+et nonobstant toute stipulation contraire, être résilié au nom de la personne
+protégée.

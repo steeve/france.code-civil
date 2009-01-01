@@ -1,4 +1,10 @@
 Article 432
 ----
-Celui qui n'était ni parent ni allié des père et mère du mineur ne peut être
-forcé d'accepter la tutelle.
+Le juge statue, la personne entendue ou appelée. L'intéressé peut être
+accompagné par un avocat ou, sous réserve de l'accord du juge, par toute autre
+personne de son choix.
+
+Le juge peut toutefois, par décision spécialement motivée et sur avis du médecin
+mentionné à l'article 431, décider qu'il n'y a pas lieu de procéder à l'audition
+de l'intéressé si celle-ci est de nature à porter atteinte à sa santé ou s'il
+est hors d'état d'exprimer sa volonté.

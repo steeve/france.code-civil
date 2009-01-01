@@ -1,12 +1,8 @@
 Article 450
 ----
-Le tuteur prendra soin de la personne du mineur et le représentera dans tous les
-actes civils, sauf les cas dans lesquels la loi ou l'usage autorise les mineurs
-à agir eux-mêmes.
-
-Il administrera ses biens en bon père de famille et répondra des dommages et
-intérêts qui pourraient résulter d'une mauvaise gestion.
-
-Il ne peut ni acheter les biens du mineur, ni les prendre à loyer ou à ferme, à
-moins que le conseil de famille n'ait autorisé le subrogé tuteur à lui en passer
-bail, ni accepter la cession d'aucun droit ou créance contre son pupille.
+Lorsqu'aucun membre de la famille ou aucun proche ne peut assumer la curatelle
+ou la tutelle, le juge désigne un mandataire judiciaire à la protection des
+majeurs inscrit sur la liste prévue à l'article L. 471-2 du code de l'action
+sociale et des familles. Ce mandataire ne peut refuser d'accomplir les actes
+urgents que commande l'intérêt de la personne protégée, notamment les actes
+conservatoires indispensables à la préservation de son patrimoine.

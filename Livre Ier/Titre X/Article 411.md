@@ -1,6 +1,9 @@
 Article 411
 ----
-La convocation doit être faite huit jours au moins avant la réunion.
+Si la tutelle reste vacante, le juge des tutelles la défère à la collectivité
+publique compétente en matière d'aide sociale à l'enfance.
 
-Préalablement à cette réunion, le juge procède à l'audition du mineur capable de
-discernement dans les conditions prévues à l'article 388-1.
+En ce cas, la tutelle ne comporte ni conseil de famille ni subrogé tuteur.
+
+La personne désignée pour exercer cette tutelle a, sur les biens du mineur, les
+pouvoirs d'un administrateur légal sous contrôle judiciaire.

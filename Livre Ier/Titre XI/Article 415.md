@@ -1,15 +1,13 @@
 Article 415
 ----
-Le conseil de famille est présidé par le juge des tutelles, qui aura voix
-délibérative et prépondérante en cas de partage.
+Les personnes majeures reçoivent la protection de leur personne et de leurs
+biens que leur état ou leur situation rend nécessaire selon les modalités
+prévues au présent titre.
 
-Le tuteur doit assister à la séance ; il y est entendu mais ne vote pas, non
-plus que le subrogé tuteur dans le cas où il remplace le tuteur.
+Cette protection est instaurée et assurée dans le respect des libertés
+individuelles, des droits fondamentaux et de la dignité de la personne.
 
-Le mineur capable de discernement peut, si le juge ne l'estime pas contraire à
-son intérêt, assister à la séance à titre consultatif. Le mineur de seize ans
-révolus est obligatoirement convoqué quand le conseil a été réuni à sa
-réquisition.
+Elle a pour finalité l'intérêt de la personne protégée. Elle favorise, dans la
+mesure du possible, l'autonomie de celle-ci.
 
-En aucun cas, son assentiment à un acte ne décharge le tuteur et les autres
-organes de la tutelle de leurs responsabilités.
+Elle est un devoir des familles et de la collectivité publique.

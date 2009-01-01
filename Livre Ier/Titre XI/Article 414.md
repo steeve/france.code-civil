@@ -1,5 +1,4 @@
 Article 414
 ----
-Le conseil de famille ne peut délibérer que si la moitié au moins de ses membres
-sont présents ou représentés. Si ce nombre n'est pas réuni, le juge peut soit
-ajourner la séance, soit, en cas d'urgence, prendre lui-même la décision.
+La majorité est fixée à dix-huit ans accomplis ; à cet âge, chacun est capable
+d'exercer les droits dont il a la jouissance.

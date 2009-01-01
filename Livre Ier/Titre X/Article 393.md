@@ -1,4 +1,6 @@
 Article 393
 ----
-Les fonctions de juge des tutelles sont exercées par un juge appartenant au
-tribunal d'instance dans le ressort duquel le mineur a son domicile.
+Sans préjudice des dispositions de l'article 392, la tutelle prend fin à
+l'émancipation du mineur ou à sa majorité. Elle prend également fin en cas de
+jugement de mainlevée passé en force de chose jugée ou en cas de décès de
+l'intéressé.

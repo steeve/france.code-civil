@@ -1,13 +1,15 @@
 Article 504
 ----
-Le testament fait par le majeur après l'ouverture de la tutelle est nul de
-droit, à moins que le conseil de famille n'ait autorisé préalablement le majeur
-à tester avec l'assistance du tuteur. Toutefois, le majeur en tutelle peut seul
-révoquer le testament fait avant comme après l'ouverture de la tutelle.
+Le tuteur accomplit seul les actes conservatoires et, sous réserve des
+dispositions du second alinéa de l'article 473, les actes d'administration
+nécessaires à la gestion du patrimoine de la personne protégée.
 
-Le tuteur ne peut représenter le majeur pour faire son testament, même avec
-l'autorisation du conseil de famille ou du juge.
+Il agit seul en justice pour faire valoir les droits patrimoniaux de la personne
+protégée.
 
-Le testament fait antérieurement reste valable, à moins qu'il ne soit établi
-que, depuis l'ouverture de la tutelle, la cause qui avait déterminé le testateur
-à disposer a disparu.
+Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre de la
+personne protégée devenue capable, aucun droit de renouvellement et aucun droit
+à se maintenir dans les lieux à l'expiration du bail, quand bien même il
+existerait des dispositions légales contraires. Ces dispositions ne sont
+toutefois pas applicables aux baux consentis avant l'ouverture de la tutelle et
+renouvelés par le tuteur.

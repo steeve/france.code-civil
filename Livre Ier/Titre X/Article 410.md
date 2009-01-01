@@ -1,10 +1,15 @@
 Article 410
 ----
-Le conseil de famille est convoqué par le juge des tutelles. Il doit l'être si
-la convocation est requise, soit par deux de ses membres, soit par le tuteur ou
-le subrogé tuteur, soit par le mineur lui-même pourvu qu'il ait seize ans
-révolus.
+Le subrogé tuteur surveille l'exercice de la mission tutélaire et représente le
+mineur lorsque les intérêts de celui-ci sont en opposition avec ceux du tuteur.
 
-Le conseil de famille est également convoqué à la demande du mineur âgé de moins
-de seize ans et capable de discernement, sauf décision contraire spécialement
-motivée du juge.
+Le subrogé tuteur est informé et consulté avant tout acte important accompli par
+le tuteur.
+
+A peine d'engager sa responsabilité à l'égard du mineur, il surveille les actes
+passés par le tuteur en cette qualité et informe sans délai le juge des tutelles
+s'il constate des fautes dans l'exercice de la mission tutélaire.
+
+Il ne remplace pas de plein droit le tuteur en cas de cessation des fonctions de
+celui-ci ; mais il est tenu, sous la même responsabilité, de provoquer la
+nomination d'un nouveau tuteur.

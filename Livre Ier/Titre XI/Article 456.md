@@ -1,18 +1,19 @@
 Article 456
 ----
-Le tuteur accomplit seul, comme représentant du mineur, tous les actes
-d'administration.
+Le juge peut organiser la tutelle avec un conseil de famille si les nécessités
+de la protection de la personne ou la consistance de son patrimoine le
+justifient et si la composition de sa famille et de son entourage le permet.
 
-Il peut ainsi aliéner, à titre onéreux, les meubles d'usage courant et les biens
-ayant le caractère de fruits.
+Le juge désigne les membres du conseil de famille en considération des
+sentiments exprimés par la personne protégée, de ses relations habituelles, de
+l'intérêt porté à son égard et des recommandations éventuelles de ses parents et
+alliés ainsi que de son entourage.
 
-Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre du mineur
-devenu majeur ou émancipé, aucun droit de renouvellement et aucun droit à se
-maintenir dans les lieux à l'expiration du bail, nonobstant toutes dispositions
-légales contraires. Ces dispositions ne sont toutefois pas applicables aux baux
-consentis avant l'ouverture de la tutelle et renouvelés par le tuteur.
+Le conseil de famille désigne le tuteur, le subrogé tuteur et, le cas échéant,
+le tuteur ad hoc conformément aux articles 446 à 455.
 
-Les actes qui, pour la gestion des valeurs mobilières du pupille, doivent être
-regardés comme des actes d'administration entrant dans les obligations et les
-pouvoirs, soit des administrateurs légaux et tuteurs, soit des dépositaires
-agréés, sont déterminés par décret en Conseil d'Etat.
+Il est fait application des règles prescrites pour le conseil de famille des
+mineurs, à l'exclusion de celles prévues à l'article 398, au quatrième alinéa de
+l'article 399 et au premier alinéa de l'article 401. Pour l'application du
+troisième alinéa de l'article 402, le délai court, lorsque l'action est exercée
+par le majeur protégé, à compter du jour où la mesure de protection prend fin.

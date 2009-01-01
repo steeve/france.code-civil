@@ -1,12 +1,12 @@
 Article 488
 ----
-La majorité est fixée à dix-huit ans accomplis ; à cet âge, on est capable de
-tous les actes de la vie civile.
+Les actes passés et les engagements contractés par une personne faisant l'objet
+d'un mandat de protection future mis à exécution, pendant la durée du mandat,
+peuvent être rescindés pour simple lésion ou réduits en cas d'excès alors même
+qu'ils pourraient être annulés en vertu de l'article 414-1. Les tribunaux
+prennent notamment en considération l'utilité ou l'inutilité de l'opération,
+l'importance ou la consistance du patrimoine de la personne protégée et la bonne
+ou mauvaise foi de ceux avec qui elle a contracté.
 
-Est néanmoins protégé par la loi, soit à l'occasion d'un acte particulier, soit
-d'une manière continue, le majeur qu'une altération de ses facultés personnelles
-met dans l'impossibilité de pourvoir seul à ses intérêts.
-
-Peut pareillement être protégé le majeur qui, par sa prodigalité, son
-intempérance ou son oisiveté, s'expose à tomber dans le besoin ou compromet
-l'exécution de ses obligations familiales.
+L'action n'appartient qu'à la personne protégée et, après sa mort, à ses
+héritiers. Elle s'éteint par le délai de cinq ans prévu à l'article 1304.

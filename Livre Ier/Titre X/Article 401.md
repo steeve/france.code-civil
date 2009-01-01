@@ -1,5 +1,10 @@
 Article 401
 ----
-Le tuteur élu par le père ou la mère n'est pas tenu d'accepter la tutelle s'il
-n'est d'ailleurs dans la classe des personnes qu'à défaut de cette élection
-spéciale le conseil de famille eût pu en charger.
+Le conseil de famille règle les conditions générales de l'entretien et de
+l'éducation du mineur en ayant égard à la volonté que les père et mère avaient
+pu exprimer.
+
+Il apprécie les indemnités qui peuvent être allouées au tuteur.
+
+Il prend les décisions et donne au tuteur les autorisations nécessaires pour la
+gestion des biens du mineur conformément aux dispositions du titre XII.

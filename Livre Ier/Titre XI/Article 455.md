@@ -1,12 +1,11 @@
 Article 455
 ----
-Le conseil de famille détermine la somme à laquelle commencera, pour le tuteur,
-l'obligation d'employer les capitaux liquides du mineur, ainsi que l'excédent de
-ses revenus. Cet emploi devra être fait dans le délai de six mois, sauf
-prorogation par le conseil de famille. Passé ce délai, le tuteur est de plein
-droit comptable des intérêts.
+En l'absence de subrogé curateur ou de subrogé tuteur, le curateur ou le tuteur
+dont les intérêts sont, à l'occasion d'un acte ou d'une série d'actes, en
+opposition avec ceux de la personne protégée ou qui ne peut lui apporter son
+assistance ou agir pour son compte en raison des limitations de sa mission fait
+nommer par le juge ou par le conseil de famille s'il a été constitué un curateur
+ou un tuteur ad hoc.
 
-La nature des biens qui peuvent être acquis en emploi est déterminée par le
-conseil de famille, soit d'avance, soit à l'occasion de chaque opération.
-
-En aucun cas, les tiers ne seront garants de l'emploi.
+Cette nomination peut également être faite à la demande du procureur de la
+République, de tout intéressé ou d'office.

@@ -1,13 +1,13 @@
 Article 464
 ----
-Le tuteur peut, sans autorisation, introduire en justice une action relative aux
-droits patrimoniaux du mineur. Il peut de même se désister de cette instance. Le
-conseil de famille peut lui enjoindre d'introduire une action, de s'en désister
-ou de faire des offres aux fins de désistement, à peine d'engager sa
-responsabilité.
+Les obligations résultant des actes accomplis par la personne protégée moins de
+deux ans avant la publicité du jugement d'ouverture de la mesure de protection
+peuvent être réduites sur la seule preuve que son inaptitude à défendre ses
+intérêts, par suite de l'altération de ses facultés personnelles, était notoire
+ou connue du cocontractant à l'époque où les actes ont été passés.
 
-Le tuteur peut défendre seul à une action introduite contre le mineur, mais il
-ne peut y acquiescer qu'avec l'autorisation du conseil de famille.
+Ces actes peuvent, dans les mêmes conditions, être annulés s'il est justifié
+d'un préjudice subi par la personne protégée.
 
-L'autorisation du conseil de famille est toujours requise pour les actions
-relatives à des droits qui ne sont point patrimoniaux.
+Par dérogation à l'article 2252, l'action doit être introduite dans les cinq ans
+de la date du jugement d'ouverture de la mesure.

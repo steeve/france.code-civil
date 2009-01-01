@@ -1,12 +1,9 @@
 Article 443
 ----
-Sont exclus ou destitués de plein droit des différentes charges de la tutelle :
+La mesure prend fin, en l'absence de renouvellement, à l'expiration du délai
+fixé, en cas de jugement de mainlevée passé en force de chose jugée ou en cas de
+décès de l'intéressé.
 
-1° Ceux qui ont été condamnés à une peine afflictive ou infamante ou à qui
-l'exercice des charges tutélaires a été interdit par application de l'article
-131-26 du code pénal *sanctions*.
-
-Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur
-avis conforme du conseil de famille.
-
-2° Ceux qui ont été déchus de l'autorité parentale.
+Sans préjudice des articles 3 et 15, le juge peut également y mettre fin lorsque
+la personne protégée réside hors du territoire national, si cet éloignement
+empêche le suivi et le contrôle de la mesure.

@@ -1,5 +1,8 @@
 Article 460
 ----
-L'autorisation exigée par l'article 457 pour l'aliénation des biens du mineur ne
-s'applique point au cas où un jugement aurait ordonné la licitation à la demande
-d'un copropriétaire par indivis.
+Le mariage d'une personne en curatelle n'est permis qu'avec l'autorisation du
+curateur ou, à défaut, celle du juge.
+
+Le mariage d'une personne en tutelle n'est permis qu'avec l'autorisation du juge
+ou du conseil de famille s'il a été constitué et après audition des futurs
+conjoints et recueil, le cas échéant, de l'avis des parents et de l'entourage.

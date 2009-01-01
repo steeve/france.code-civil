@@ -1,6 +1,4 @@
 Article 438
 ----
-Si le tuteur nommé est présent à la délibération qui lui défère la tutelle, il
-devra sur-le-champ, et sous peine d'être déclaré non recevable dans toutes
-réclamations ultérieures, proposer ses excuses sur lesquelles le conseil de
-famille délibérera.
+Le mandataire spécial peut également se voir confier une mission de protection
+de la personne dans le respect des articles 457-1 à 463.

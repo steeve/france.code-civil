@@ -1,9 +1,16 @@
 Article 909
 ----
-Les docteurs en médecine ou en chirurgie, les officiers de santé et les
-pharmaciens qui auront traité une personne pendant la maladie dont elle meurt,
-ne pourront profiter des dispositions entre vifs ou testamentaires qu'elle
-aurait faites en leur faveur pendant le cours de cette maladie.
+Les membres des professions médicales et de la pharmacie, ainsi que les
+auxiliaires médicaux qui ont prodigué des soins à une personne pendant la
+maladie dont elle meurt ne peuvent profiter des dispositions entre vifs ou
+testamentaires qu'elle aurait faites en leur faveur pendant le cours de celle-
+ci.
+
+Les mandataires judiciaires à la protection des majeurs et les personnes morales
+au nom desquelles ils exercent leurs fonctions ne peuvent pareillement profiter
+des dispositions entre vifs ou testamentaires que les personnes dont ils
+assurent la protection auraient faites en leur faveur quelle que soit la date de
+la libéralité.
 
 Sont exceptées :
 

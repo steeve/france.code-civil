@@ -1,4 +1,6 @@
 Article 463
 ----
-Le tuteur peut accepter sans autorisation les donations et legs particuliers
-advenus au pupille, à moins qu'ils ne soient grevés de charges.
+A l'ouverture de la mesure ou, à défaut, ultérieurement, le juge ou le conseil
+de famille s'il a été constitué décide des conditions dans lesquelles le
+curateur ou le tuteur chargé d'une mission de protection de la personne rend
+compte des diligences qu'il accomplit à ce titre.

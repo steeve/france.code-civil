@@ -1,11 +1,9 @@
 Article 412
 ----
-Les membres du conseil de famille sont tenus de se rendre en personne à la
-réunion. Chacun peut, toutefois, se faire représenter par un parent ou allié des
-père et mère du mineur, si ce parent ou allié n'est pas déjà, en son propre nom,
-membre du conseil de famille. Le mari peut représenter la femme ou
-réciproquement.
+Tous les organes de la tutelle sont responsables du dommage résultant d'une
+faute quelconque qu'ils commettent dans l'exercice de leur fonction.
 
-Les membres du conseil de famille qui, sans excuse légitime, ne seront ni
-présents ni valablement représentés, encourront l'amende prévue au code de
-procédure civile.
+Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le
+fonctionnement de la tutelle par le juge des tutelles, le greffier en chef du
+tribunal d'instance ou le greffier, l'action en responsabilité est dirigée
+contre l'Etat qui dispose d'une action récursoire.

@@ -1,8 +1,12 @@
 Article 499
 ----
-Si, eu égard à la consistance des biens à gérer, le juge des tutelles constate
-l'inutilité de la constitution complète d'une tutelle, il peut se borner à
-désigner comme gérant de la tutelle, sans subrogé tuteur ni conseil de famille,
-soit un préposé appartenant au personnel administratif de l'établissement de
-traitement, soit un administrateur spécial, choisis dans les conditions fixées
-par un décret en Conseil d'Etat.
+Les tiers peuvent informer le juge des actes ou omissions du tuteur qui leur
+paraissent de nature à porter préjudice aux intérêts de la personne protégée.
+
+Ils ne sont pas garants de l'emploi des capitaux. Toutefois, si à l'occasion de
+cet emploi ils ont connaissance d'actes ou omissions qui compromettent
+manifestement l'intérêt de la personne protégée, ils en avisent le juge.
+
+La tierce opposition contre les autorisations du conseil de famille ou du juge
+ne peut être exercée que par les créanciers de la personne protégée et en cas de
+fraude à leurs droits.

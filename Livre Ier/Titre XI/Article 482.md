@@ -1,7 +1,8 @@
 Article 482
 ----
-Le mineur émancipé cesse d'être sous l'autorité de ses père et mère.
+Le mandataire exécute personnellement le mandat. Toutefois, il peut se
+substituer un tiers pour les actes de gestion du patrimoine mais seulement à
+titre spécial.
 
-Ceux-ci ne sont pas responsables de plein droit, en leur seule qualité de père
-ou de mère, du dommage qu'il pourra causer à autrui postérieurement à son
-émancipation.
+Le mandataire répond de la personne qu'il s'est substituée dans les conditions
+de l'article 1994.

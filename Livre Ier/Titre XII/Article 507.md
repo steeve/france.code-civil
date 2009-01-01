@@ -1,9 +1,13 @@
 Article 507
 ----
-La tutelle cesse avec les causes qui l'ont déterminée ; néanmoins, la mainlevée
-n'en sera prononcée qu'en observant les formalités prescrites pour parvenir à
-son ouverture, et la personne en tutelle ne pourra reprendre l'exercice de ses
-droits qu'après le jugement de mainlevée.
+Le partage à l'égard d'une personne protégée peut être fait à l'amiable sur
+autorisation du conseil de famille ou, à défaut, du juge, qui désigne, s'il y a
+lieu, un notaire pour y procéder. Il peut n'être que partiel.
 
-Les recours prévus par l'article 493, alinéa 3, ne peuvent être exercés que
-contre les jugements qui refusent de donner mainlevée de la tutelle.
+L'état liquidatif est soumis à l'approbation du conseil de famille ou, à défaut,
+du juge.
+
+Le partage peut également être fait en justice conformément aux articles 840 et
+842.
+
+Tout autre partage est considéré comme provisionnel.

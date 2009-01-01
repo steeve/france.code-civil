@@ -35,7 +35,7 @@ français, qui procèdent ou font procéder également aux formalités prévues 
 sixième alinéa.
 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations
-résultant pour eux du pacte civil de solidarité.A défaut d'accord, le juge
+résultant pour eux du pacte civil de solidarité. A défaut d'accord, le juge
 statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
 réparation du dommage éventuellement subi.
 

@@ -1,7 +1,11 @@
 Article 479
 ----
-Lorsque, dans le cas de l'article précédent, aucune diligence n'ayant été faite
-par le tuteur, un membre du conseil de famille estimera que le mineur est
-capable d'être émancipé, il pourra requérir le juge des tutelles de convoquer le
-conseil pour délibérer à ce sujet. Le mineur lui-même pourra demander cette
-convocation.
+Lorsque le mandat s'étend à la protection de la personne, les droits et
+obligations du mandataire sont définis par les articles 457-1 à 459-2. Toute
+stipulation contraire est réputée non écrite.
+
+Le mandat peut prévoir que le mandataire exercera les missions que le code de la
+santé publique et le code de l'action sociale et des familles confient au
+représentant de la personne en tutelle ou à la personne de confiance.
+
+Le mandat fixe les modalités de contrôle de son exécution.

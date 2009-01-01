@@ -1,14 +1,8 @@
 Article 473
 ----
-L'approbation du compte ne préjudicie point aux actions en responsabilité qui
-peuvent appartenir au pupille contre le tuteur et les autres organes de la
-tutelle.
+Sous réserve des cas où la loi ou l'usage autorise la personne en tutelle à agir
+elle-même, le tuteur la représente dans tous les actes de la vie civile.
 
-L'Etat est seul responsable à l'égard du pupille, sauf son recours s'il y a
-lieu, du dommage résultant d'une faute quelconque qui aurait été commise dans le
-fonctionnement de la tutelle, soit par le juge des tutelles ou son greffier,
-soit par le greffier en chef du tribunal d'instance, soit par l'administrateur
-public chargé d'une tutelle vacante en vertu de l'article 433.
-
-L'action en responsabilité exercée par le pupille contre l'Etat est portée, dans
-tous les cas, devant le tribunal de grande instance.
+Toutefois, le juge peut, dans le jugement d'ouverture ou ultérieurement,
+énumérer certains actes que la personne en tutelle aura la capacité de faire
+seule ou avec l'assistance du tuteur.

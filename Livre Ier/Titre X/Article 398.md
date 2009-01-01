@@ -1,4 +1,4 @@
 Article 398
 ----
-Cette nomination ne peut être faite que dans la forme d'un testament ou d'une
-déclaration spéciale devant notaire.
+Même en présence d'un tuteur testamentaire et sauf vacance, la tutelle est
+organisée avec un conseil de famille.

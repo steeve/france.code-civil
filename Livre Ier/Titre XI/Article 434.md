@@ -1,5 +1,5 @@
 Article 434
 ----
-Les excuses qui dispensent ou déchargent de la tutelle peuvent être étendues au
-subrogé tuteur, et même aux membres du conseil de famille, mais seulement
-suivant la gravité de la cause.
+La sauvegarde de justice peut également résulter d'une déclaration faite au
+procureur de la République dans les conditions prévues par l'article L. 3211-6
+du code de la santé publique.

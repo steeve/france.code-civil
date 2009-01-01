@@ -1,5 +1,5 @@
 Article 446
 ----
-Si un membre du conseil de famille est passible d'exclusion, de destitution ou
-de récusation, le juge des tutelles prononcera lui-même, soit d'office, soit à
-la réquisition du tuteur, du subrogé tuteur, ou du ministère public.
+Un curateur ou un tuteur est désigné pour la personne protégée dans les
+conditions prévues au présent paragraphe et sous réserve des pouvoirs conférés
+au conseil de famille s'il a été constitué.

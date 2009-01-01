@@ -1,23 +1,22 @@
 Article 459
 ----
-La vente des immeubles et des fonds de commerce appartenant à un mineur se fera
-publiquement aux enchères, en présence du subrogé tuteur, dans les conditions
-prévues aux articles 953 et suivants du code de procédure civile.
+Hors les cas prévus à l'article 458, la personne protégée prend seule les
+décisions relatives à sa personne dans la mesure où son état le permet.
 
-Le conseil de famille peut, toutefois, autoriser la vente à l'amiable soit par
-adjudication sur la mise à prix qu'il fixe, soit de gré à gré, aux prix et
-stipulations qu'il détermine. En cas d'adjudication amiable, il peut toujours
-être fait surenchère, dans les conditions prévues au code de procédure civile.
+Lorsque l'état de la personne protégée ne lui permet pas de prendre seule une
+décision personnelle éclairée, le juge ou le conseil de famille s'il a été
+constitué peut prévoir qu'elle bénéficiera, pour l'ensemble des actes relatifs à
+sa personne ou ceux d'entre eux qu'il énumère, de l'assistance de la personne
+chargée de sa protection. Au cas où cette assistance ne suffirait pas, il peut,
+le cas échéant après l'ouverture d'une mesure de tutelle, autoriser le tuteur à
+représenter l'intéressé.
 
-L'apport en société d'un immeuble ou d'un fonds de commerce a lieu à l'amiable.
-Il est autorisé par le conseil de famille sur le rapport d'un expert que désigne
-le juge des tutelles.
+La personne chargée de la protection du majeur peut prendre à l'égard de celui-
+ci les mesures de protection strictement nécessaires pour mettre fin au danger
+que, du fait de son comportement, l'intéressé ferait courir à lui-même. Elle en
+informe sans délai le juge ou le conseil de famille s'il a été constitué.
 
-Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par
-le ministère d'un prestataire de services d'investissement.
-
-Les autres valeurs mobilières sont vendues aux enchères par le ministère d'un
-prestataire de services d'investissement ou d'un notaire désigné dans la
-délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur
-le rapport d'un expert désigné par le juge des tutelles, en autoriser la vente
-de gré à gré aux prix et stipulations qu'il détermine.
+Toutefois, sauf urgence, la personne chargée de la protection du majeur ne peut,
+sans l'autorisation du juge ou du conseil de famille s'il a été constitué,
+prendre une décision ayant pour effet de porter gravement atteinte à l'intégrité
+corporelle de la personne protégée ou à l'intimité de sa vie privée.
