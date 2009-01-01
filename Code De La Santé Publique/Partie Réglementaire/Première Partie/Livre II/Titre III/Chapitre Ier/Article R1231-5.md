@@ -1,7 +1,7 @@
 Article R1231-5
 ----
 Le nombre de comités d'experts institués par l'article L. 1231-3 est fixé à
-huit. Le ressort territorial de chacun d'eux est défini par un arrêté du
+neuf. Le ressort territorial de chacun d'eux est défini par un arrêté du
 ministre chargé de la santé pris après avis du directeur général de l'Agence de
 la biomédecine.
 
