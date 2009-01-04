@@ -3,8 +3,8 @@ Article R1221-1
 Le Conseil national de la formation des élus locaux se compose de vingt-quatre
 membres.
 
-Les membres sont nommés pour trois ans par arrêté du ministre de l'intérieur,
-selon la répartition suivante :
+Les membres sont nommés par arrêté du ministre de l'intérieur, selon la
+répartition suivante :
 
 1° Douze élus locaux, à savoir :
 
@@ -34,9 +34,9 @@ a) Un membre du Conseil d'Etat ;
 
 b) Un magistrat de la Cour des comptes ;
 
-c) Quatre professeurs de l'enseignement supérieur ou directeurs de recherche du
-Centre national de la recherche scientifique ou d'organismes publics similaires
-;
+c) Quatre professeurs de l'enseignement supérieur ou maîtres de conférences ou
+directeurs de recherche du Centre national de la recherche scientifique ou
+d'organismes publics similaires ;
 
 d) Six personnalités qualifiées.
 
