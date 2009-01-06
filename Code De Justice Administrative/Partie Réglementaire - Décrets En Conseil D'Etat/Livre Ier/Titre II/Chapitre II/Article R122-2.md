@@ -9,4 +9,4 @@ chargé des fonctions de président et deux conseillers d'Etat en service
 ordinaire chargés des fonctions d'assesseurs ;
 
 3° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des
-auditeurs chargés des fonctions de rapporteur ou de commissaire du gouvernement.
+auditeurs chargés des fonctions de rapporteur ou de rapporteur public.

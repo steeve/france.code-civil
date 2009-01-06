@@ -8,4 +8,4 @@ et L. 521-2, de les modifier ou d'y mettre fin, il informe sans délai les
 parties de la date et de l'heure de l'audience publique.
 
 Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusions
-du commissaire du Gouvernement.
+du rapporteur public.

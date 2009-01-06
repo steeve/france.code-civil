@@ -15,4 +15,7 @@ Au tribunal administratif, le président de la formation de jugement peut, au
 cours de l'audience et à titre exceptionnel, demander des éclaircissements à
 toute personne présente dont l'une des parties souhaiterait l'audition.
 
-Le commissaire du gouvernement prononce ensuite ses conclusions.
+Le rapporteur public prononce ensuite ses conclusions.
+
+Les parties ou leurs mandataires peuvent présenter de brèves observations orales
+après le prononcé des conclusions du rapporteur public.

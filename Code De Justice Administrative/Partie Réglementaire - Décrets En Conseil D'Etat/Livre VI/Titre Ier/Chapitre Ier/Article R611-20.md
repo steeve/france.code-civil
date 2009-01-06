@@ -17,6 +17,5 @@ sous-section.
 Lorsqu'il décide de renvoyer à une des formations collégiales mentionnées au
 premier alinéa de l'article L. 122-1 le jugement d'une requête présentée en
 application du livre V, le président de la section du contentieux accomplit les
-actes d'instruction nécessaires et désigne le rapporteur ainsi que le
-commissaire du Gouvernement, à moins qu'il n'attribue l'affaire à une
-sous-section.
+actes d'instruction nécessaires et désigne le rapporteur ainsi que le rapporteur
+public, à moins qu'il n'attribue l'affaire à une sous-section.

@@ -5,7 +5,9 @@ demande d'avis de réception ou par la voie administrative mentionnée à l'arti
 R. 611-4, du jour où l'affaire sera appelée à l'audience.
 
 L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R.
-731-3, R. 732-1 et R. 732-2.
+731-3, R. 732-1 et R. 732-2. Il mentionne également les modalités selon
+lesquelles les parties ou leurs mandataires peuvent prendre connaissance du sens
+des conclusions du rapporteur public, en application de l'article R. 711-3 (1).
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en
 cas d'urgence, ce délai peut être réduit à deux jours par une décision expresse
