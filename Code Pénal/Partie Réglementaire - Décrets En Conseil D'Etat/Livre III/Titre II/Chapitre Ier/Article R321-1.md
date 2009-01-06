@@ -12,7 +12,10 @@ défaut, la commune de rattachement mentionnée à l'article 7 de la loi n° 69-
 La déclaration comporte les indications suivantes : nom et prénoms du déclarant
 ; date et lieu de naissance ; nationalité ; lieu d'exercice habituel de la
 profession ; statut de l'entreprise ainsi qu'un extrait d'immatriculation au
-registre du commerce et des sociétés.
+registre du commerce et des sociétés ou le récépissé de déclaration d'activité
+remis par le centre de formalités des entreprises aux personnes physiques
+bénéficiant de la dispense d'immatriculation prévue par l'article L. 123-1-1 du
+code de commerce.
 
 Il est remis un récépissé de déclaration qui doit être présenté à toute
 réquisition des services de police et de gendarmerie, des services fiscaux, des

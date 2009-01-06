@@ -1,10 +1,5 @@
 Article R310-9
 ----
-La demande d'autorisation de vente au déballage est adressée par le vendeur à
-l'autorité compétente telle qu'elle est mentionnée à l'article R. 310-8 cinq
-mois au plus et trois mois au moins avant la date prévue pour le début de la
-vente.
-
-Lorsqu'une même opération de vente au déballage concerne plusieurs vendeurs, la
-demande est, dans le même délai, adressée à l'autorité compétente par
-l'organisateur de cette opération pour la surface totale de vente envisagée.
+Les ventes au déballage autorisées aux particuliers en application du troisième
+alinéa du I de l'article L. 310-2 sont contrôlées au moyen du registre mentionné
+au deuxième alinéa de l'article 321-7 du code pénal.

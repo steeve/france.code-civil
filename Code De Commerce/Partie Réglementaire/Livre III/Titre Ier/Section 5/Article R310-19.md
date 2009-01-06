@@ -9,8 +9,9 @@ liquidation dans les conditions prévues à l'article R. 310-4 ;
 2° Le fait de ne pas mentionner dans toute publicité relative à une opération de
 liquidation les indications exigées à l'article R. 310-7 ;
 
-3° Le fait de ne pas mentionner dans toute publicité relative à une vente au
-déballage les indications exigées à l'article R. 310-14 ;
+3° Le fait de réaliser une vente au déballage en méconnaissance de la durée de
+la vente autorisée par le deuxième alinéa du I de l'article L. 310-2 et dont le
+déclarant a été informé par le maire en application de l'article R. 310-8 ;
 
 4° Le fait de ne pas mentionner dans toute publicité relative à une opération de
 soldes les indications exigées à l'article R. 310-17.
