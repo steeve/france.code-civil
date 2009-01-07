@@ -5,7 +5,7 @@ sociétés qui ne dépassent pas à la clôture de l'exercice des chiffres fixé
 décret pour deux des critères suivants : le total de leur bilan, le montant net
 de leur chiffre d'affaires ou le nombre moyen de salariés permanents employés au
 cours de l'exercice. Le présent alinéa ne s'applique pas aux sociétés dont des
-instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 du
+instruments financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 du
 code monétaire et financier sont admis à la négociation sur un marché
 réglementé.
 
@@ -15,6 +15,6 @@ sociétés qui ne dépassent pas à la clôture de l'exercice des chiffres fixé
 décret pour deux des critères suivants : le total de leur bilan, le montant net
 de leur chiffre d'affaires ou le nombre moyen de salariés permanents employés au
 cours de l'exercice. Le présent alinéa ne s'applique pas aux sociétés dont des
-instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 du
+instruments financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 du
 code monétaire et financier sont admis à la négociation sur un marché
 réglementé.

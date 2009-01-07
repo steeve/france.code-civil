@@ -39,7 +39,7 @@ contrats constituant des instruments financiers à terme.
 
 Pour la réalisation de son objet, un organisme de titrisation peut, dans les
 conditions définies par décret en Conseil d'Etat, octroyer les garanties
-mentionnées à l'article L. 431-7-3, et, dans les conditions définies par son
+mentionnées à l'article L. 211-38, et, dans les conditions définies par son
 règlement ou ses statuts, recevoir tout type de garantie ou de sûreté.
 
 L'acquisition ou la cession des créances s'effectue par la seule remise d'un

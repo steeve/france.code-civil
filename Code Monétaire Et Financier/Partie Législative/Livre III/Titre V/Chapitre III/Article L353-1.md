@@ -27,5 +27,5 @@ ou financier définie au deuxième alinéa de l'article L. 341-1, de recevoir de
 personnes démarchées des ordres ou des fonds en vue de la fourniture de services
 de réception-transmission et exécution d'ordres pour le compte de tiers
 mentionnés à l'article L. 321-1, ou d'instruments financiers mentionnés à
-l'article L. 221-1, avant l'expiration du délai de quarante-huit heures
+l'article L. 211-1, avant l'expiration du délai de quarante-huit heures
 mentionné au IV de l'article L. 341-16.

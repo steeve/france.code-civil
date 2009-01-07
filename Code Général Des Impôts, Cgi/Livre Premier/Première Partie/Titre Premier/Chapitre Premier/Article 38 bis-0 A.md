@@ -1,7 +1,7 @@
 Article 38 bis-0 A
 ----
 I 1. Les valeurs, titres ou effets mis en pension par une personne morale dans
-les conditions prévues aux articles L. 432-12 à L. 432-19 du code monétaire et
+les conditions prévues aux articles L. 211-27 à L. 211-34 du code monétaire et
 financier sont, pour l'application des dispositions du présent code, réputés ne
 pas avoir été cédés sous réserve des dispositions des articles précités.
 

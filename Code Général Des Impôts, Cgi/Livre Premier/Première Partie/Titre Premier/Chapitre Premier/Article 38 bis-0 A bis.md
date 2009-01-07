@@ -1,16 +1,17 @@
 Article 38 bis-0 A bis
 ----
-I. - Les remises en garantie de titres emportant leur transfert de propriété et
-réalisées dans les conditions prévues aux I ou III de l'article L. 431-7-3 du
+I.-Les remises en garantie de titres emportant leur transfert de propriété et
+réalisées dans les conditions prévues aux I ou III de l'article L. 211-38 du
 code monétaire et financier sont soumises au régime prévu au présent article
 lorsque les conditions suivantes sont respectées :
 
 1° Le constituant et le bénéficiaire de la garantie sont imposables sur leur
 bénéfice selon un régime réel d'imposition ;
 
-2° Les remises portent sur les valeurs, titres ou effets définis à l'article L.
-432-12 du code monétaire et financier et respectent les conditions prévues à
-l'article L. 432-13 du même code ;
+2° Les remises portent sur les titres financiers mentionnés à l'article L.
+211-27 ou les effets mentionnés à l'article L. 211-34 du code monétaire et
+financier et respectent les conditions prévues à l'article L. 211-28 du même
+code ;
 
 3° La restitution au constituant de la garantie porte sur des titres équivalents
 et de même nature que ceux remis en garantie ;
@@ -20,7 +21,7 @@ d'instruments financiers réalisées de gré à gré, de prêts ou de mises en p
 de titres prévus aux articles 38 bis et 38 bis-0 A, ou dans le cadre des
 opérations prévues à l'article L. 330-2 du code monétaire et financier.
 
-II. - 1. Les titres remis par le constituant de la garantie dans les conditions
+II.-1. Les titres remis par le constituant de la garantie dans les conditions
 prévues au I sont réputés prélevés par priorité sur les titres de même nature
 acquis ou souscrits à la date la plus récente.
 
@@ -35,10 +36,10 @@ des revenus attachés aux titres remis, le montant de la rémunération ne peut
 fraction de la rémunération qui correspond à ces produits est soumise au même
 régime fiscal que les revenus des titres remis en garantie.
 
-III. - 1. Les titres reçus par le bénéficiaire de la garantie dans les
-conditions prévues au I et la dette représentative de l'obligation de
-restitution de ces titres sont inscrits distinctement au bilan du bénéficiaire
-de cette garantie au prix du marché au jour de la remise en garantie.
+III.-1. Les titres reçus par le bénéficiaire de la garantie dans les conditions
+prévues au I et la dette représentative de l'obligation de restitution de ces
+titres sont inscrits distinctement au bilan du bénéficiaire de cette garantie au
+prix du marché au jour de la remise en garantie.
 
 A la clôture de l'exercice, les titres reçus en garantie qui figurent au bilan
 du bénéficiaire de la garantie et la dette représentative de l'obligation de
@@ -59,7 +60,7 @@ par priorité sur les titres de même nature reçus en garantie dans les conditi
 prévues au présent article à la date la plus ancienne. Les achats ultérieurs de
 titres de même nature sont affectés par priorité au remplacement de ces titres.
 
-IV. - En cas de défaillance de l'une des parties, la cession est, d'un point de
+IV.-En cas de défaillance de l'une des parties, la cession est, d'un point de
 vue fiscal, réputée réalisée à la date de la défaillance. Dans ce cas, le
 résultat de la cession des titres par le constituant qui les a remis en garantie
 est égal à la différence entre leur valeur réelle au jour de la défaillance et

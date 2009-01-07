@@ -63,7 +63,7 @@ Cet avantage n'est plus applicable à compter de l'année au cours de laquelle
 l'une des conditions prévues à l'article 220 quater A cesse d'être satisfaite.
 
 Les perceptions mentionnées au I ne sont pas applicables aux cessions de droits
-sociaux résultant d'opérations de pensions régies par les articles L. 432-12 à
-L. 432-19 du code monétaire et financier.
+sociaux résultant d'opérations de pensions régies par les articles L. 211-27 à
+L. 211-34 du code monétaire et financier.
 
 III.-Abrogé.

@@ -1,4 +1,4 @@
 Article L211-5
 ----
-Les obligations d'information concernant les détenteurs de titres sont fixées
-par l'article L. 228-2 du code de commerce.
+La procédure d'identification des propriétaires de titres de capital est fixée
+aux articles L. 228-2 à L. 228-3-4 du code de commerce.

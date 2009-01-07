@@ -8,15 +8,14 @@ commerce, reproduits ci-après :
 territoire de la République sont admises aux négociations sur un marché
 réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur
 un marché d'instruments financiers admettant aux négociations des actions
-pouvant être inscrites en compte chez un intermédiaire habilité dans les
-conditions prévues par l'article L. 211-4 du code monétaire et financier, toute
-personne physique ou morale agissant seule ou de concert qui vient à posséder un
-nombre d'actions représentant plus du vingtième, du dixième, des trois
-vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers, des
-dix-huit vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote
-informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du
-franchissement du seuil de participation, du nombre total d'actions ou de droits
-de vote qu'elle possède.
+pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L.
+211-3 du code monétaire et financier, toute personne physique ou morale agissant
+seule ou de concert qui vient à posséder un nombre d'actions représentant plus
+du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du
+tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf
+vingtièmes du capital ou des droits de vote informe la société dans un délai
+fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
+participation, du nombre total d'actions ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les
 mêmes délais lorsque la participation en capital ou en droits de vote devient
@@ -40,8 +39,8 @@ participation.
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire
 d'information portant sur la détention de fractions du capital ou des droits de
-vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 %
+vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 %
 du capital ou des droits de vote.
 
 IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas
@@ -189,12 +188,12 @@ bénéficiaire est le constituant.
 III.-Les personnes agissant de concert sont tenues solidairement aux obligations
 qui leur sont faites par les lois et règlements. "
 
-" Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées
-comme agissant de concert les personnes qui ont conclu un accord avec l'auteur
-d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet
-de l'offre. Sont également considérées comme agissant de concert les personnes
-qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de
-faire échouer cette offre. "
+" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme
+agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une
+offre publique visant à obtenir le contrôle de la société qui fait l'objet de
+l'offre. Sont également considérées comme agissant de concert les personnes qui
+ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire
+échouer cette offre.
 
 " Art.L. 233-11-Toute clause d'une convention prévoyant des conditions
 préférentielles de cession ou d'acquisition d'actions admises aux négociations
@@ -230,13 +229,6 @@ la prise de contrôle a été connue de la société pour les titres qu'elle dé
 avant cette date, soit du jour de l'opération pour les acquisitions ou
 aliénations ultérieures. "
 
-" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme
-agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une
-offre publique visant à obtenir le contrôle de la société qui fait l'objet de
-l'offre. Sont également considérées comme agissant de concert les personnes qui
-ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire
-échouer cette offre.
-
 " Art.L. 233-13-En fonction des informations reçues en application des articles
 L. 233-7 et L. 233-12, le rapport présenté aux actionnaires sur les opérations
 de l'exercice mentionne l'identité des personnes physiques ou morales détenant
@@ -253,11 +245,10 @@ prévues aux I et II de l'article L. 233-7, les actions excédant la fraction qu
 aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un
 marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen
 ou sur un marché d'instruments financiers admettant aux négociations des actions
-pouvant être inscrites en compte chez un intermédiaire habilité dans les
-conditions prévues à l'article L. 211-4 du code monétaire et financier, sont
-privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait
-jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de
-la notification.
+pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L.
+211-3 du code monétaire et financier, sont privées du droit de vote pour toute
+assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de
+deux ans suivant la date de régularisation de la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui
 n'ont pas été régulièrement déclarés ne peuvent être exercés ou délégués par

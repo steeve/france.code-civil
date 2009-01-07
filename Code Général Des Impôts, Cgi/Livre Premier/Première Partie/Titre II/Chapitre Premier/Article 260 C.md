@@ -16,9 +16,9 @@ caisses d'épargne et de prévoyance, ainsi que leurs groupements, entre eux ou
 avec la Caisse nationale des caisses d'épargne et de prévoyance ;
 
 4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
-conditions prévues aux articles L. 432-6 à L. 432-11 du code monétaire et
+conditions prévues aux articles L. 211-22 à L. 211-26 du code monétaire et
 financier, aux profits tirés des pensions réalisées dans les conditions prévues
-par les articles L. 432-12 à L. 432-19 du même code ;
+par les articles L. 211-27 à L. 211-34 du même code ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est
 établie par arrêté du ministre chargé des finances ;

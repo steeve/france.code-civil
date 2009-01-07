@@ -1,7 +1,7 @@
 Article L214-41-1
 ----
 1. Les fonds d'investissement de proximité sont des fonds communs de placement à
-risques dont l'actif est constitué, pour 60 % au moins, de valeurs mobilières,
+risques dont l'actif est constitué, pour 60 % au moins, de titres financiers,
 parts de société à responsabilité limitée et avances en compte courant, dont au
 moins 10 % dans des nouvelles entreprises exerçant leur activité ou
 juridiquement constituées depuis moins de cinq ans, telles que définies par le 1

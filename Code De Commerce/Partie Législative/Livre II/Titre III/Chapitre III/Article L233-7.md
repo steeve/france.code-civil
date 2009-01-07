@@ -4,14 +4,14 @@ I.-Lorsque les actions d'une société ayant son siège sur le territoire de la
 République sont admises aux négociations sur un marché réglementé d'un Etat
 partie à l'accord sur l'Espace économique européen ou sur un marché
 d'instruments financiers admettant aux négociations des actions pouvant être
-inscrites en compte chez un intermédiaire habilité dans les conditions prévues
-par l'article L. 211-4 du code monétaire et financier, toute personne physique
-ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions
-représentant plus du vingtième, du dixième, des trois vingtièmes, du cinquième,
-du quart, du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des
-dix-neuf vingtièmes du capital ou des droits de vote informe la société dans un
-délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
-participation, du nombre total d'actions ou de droits de vote qu'elle possède.
+inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code
+monétaire et financier, toute personne physique ou morale agissant seule ou de
+concert qui vient à posséder un nombre d'actions représentant plus du vingtième,
+du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la
+moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du
+capital ou des droits de vote informe la société dans un délai fixé par décret
+en Conseil d'Etat, à compter du franchissement du seuil de participation, du
+nombre total d'actions ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les
 mêmes délais lorsque la participation en capital ou en droits de vote devient
@@ -35,8 +35,8 @@ participation.
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire
 d'information portant sur la détention de fractions du capital ou des droits de
-vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 %
+vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 %
 du capital ou des droits de vote.
 
 IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas

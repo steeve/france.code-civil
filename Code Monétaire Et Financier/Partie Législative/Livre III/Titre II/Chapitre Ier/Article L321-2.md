@@ -2,8 +2,8 @@ Article L321-2
 ----
 Les services connexes aux services d'investissement comprennent :
 
-1. La conservation ou l'administration d'instruments financiers pour le compte
-de tiers et les services accessoires comme la tenue de comptes d'espèces
+1. La tenue de compte-conservation d'instruments financiers pour le compte de
+tiers et les services accessoires comme la tenue de comptes d'espèces
 correspondant à ces instruments financiers ou la gestion de garanties
 financières ;
 
@@ -12,8 +12,8 @@ d'effectuer une transaction qui porte sur un instrument financier et dans
 laquelle intervient l'entreprise qui octroie le crédit ou le prêt ;
 
 3. La fourniture de conseil aux entreprises en matière de structure de capital,
-de stratégie industrielle et de questions connexes ainsi que de services
-concernant les fusions et le rachat d'entreprises ;
+de stratégie industrielle et de questions connexes ainsi que la fourniture de
+conseil et de services en matière de fusions et de rachat d'entreprises ;
 
 4. La recherche en investissements et l'analyse financière ou toute autre forme
 de recommandation générale concernant les transactions sur instruments

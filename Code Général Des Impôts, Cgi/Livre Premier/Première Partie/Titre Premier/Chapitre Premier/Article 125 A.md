@@ -89,32 +89,30 @@ et à 42 % lorsque cette condition n'est pas remplie ;
 courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
 
 6° à 45 % pour les produits des bons et titres émis à compter du 1er janvier
-1983, à 35 p. 100 pour les produits des bons et titres émis à compter du 1er
-janvier 1990 et à 18 p. 100 pour les produits de ceux émis à compter du 1er
-janvier 1995, lorsque le bénéficiaire des intérêts autorise l'établissement
-payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
-à l'administration fiscale,
+1983, à 35 % pour les produits des bons et titres émis à compter du 1er janvier
+1990 et à 18 % pour les produits de ceux émis à compter du 1er janvier 1995,
+lorsque le bénéficiaire des intérêts autorise l'établissement payeur, au moment
+du paiement, à communiquer son identité et son domicile fiscal à
+l'administration fiscale,
 
 et à 60 % lorsque cette condition n'est pas remplie ;
 
 7° à 45 % pour les produits des placements, autres que les bons et titres courus
-à partir du 1er janvier 1983, à 35 p. 100 pour les produits des placements
-courus à partir du 1er janvier 1990 et à 18 p. 100 pour les produits des
-placements courus à partir du 1er janvier 1995 ;
+à partir du 1er janvier 1983, à 35 % pour les produits des placements courus à
+partir du 1er janvier 1990 et à 18 % pour les produits des placements courus à
+partir du 1er janvier 1995 ;
 
-8° à 18 p. 100 pour les produits des parts émises par les fonds communs de
-créances. Le boni de liquidation peut être soumis à ce prélèvement au taux de 35
-p. 100.
+8° à 18 % pour les produits des parts émises par les fonds communs de créances.
+Le boni de liquidation peut être soumis à ce prélèvement au taux de 35 %.
 
-Le taux de 35 p. 100 est remplacé par celui de 18 p. 100 lorsque le boni est
-réparti à compter du 1er janvier 1995.
+Le taux de 35 % est remplacé par celui de 18 % lorsque le boni est réparti à
+compter du 1er janvier 1995.
 
-9° à 18 p. 100 pour les produits des bons et titres énumérés au 2° émis à
-compter du 1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est
-différent, ont autorisé, lors de la souscription, l'établissement auprès duquel
-les bons ou titres ont été souscrits à communiquer leur identité et leur
-domicile fiscal à l'administration fiscale et à condition que le bon ou titre
-n'ait pas été cédé,
+9° à 18 % pour les produits des bons et titres énumérés au 2° émis à compter du
+1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est différent,
+ont autorisé, lors de la souscription, l'établissement auprès duquel les bons ou
+titres ont été souscrits à communiquer leur identité et leur domicile fiscal à
+l'administration fiscale et à condition que le bon ou titre n'ait pas été cédé,
 
 et à 60 % lorsque l'une de ces conditions n'est pas remplie.
 
@@ -127,13 +125,7 @@ gestionnaire du fonds d'épargne.
 
 IV.L'option pour le prélèvement prévue au I est subordonnée :
 
-a. En ce qui concerne les produits d'obligations, à la condition que l'emprunt
-ait été émis conformément à la réglementation en vigueur dans l'Etat d'émission
-et que le capital et les intérêts ne fassent pas l'objet d'une indexation. Cette
-condition n'est cependant pas exigée lorsque l'indexation est autorisée en vertu
-des dispositions des articles L. 112-1 à L. 112-4 du code monétaire et financier
-ou, s'agissant d'un emprunt émis hors de France, serait autorisée en vertu de
-dispositions analogues ;
+a. (Abrogé) ;
 
 b. En ce qui concerne les produits des bons de caisse, à la condition que les
 bons aient été émis par des établissements de crédit ;
@@ -143,7 +135,9 @@ capital et les intérêts ne fassent pas l'objet d'une indexation. Cette conditi
 n'est cependant pas exigée lorsque l'indexation est autorisée en vertu des
 dispositions des articles L. 112-1 à L. 112-4 du code monétaire et financier ou,
 lorsque le débiteur est établi hors de France, serait autorisée en vertu de
-dispositions analogues.
+dispositions analogues. Elle n'est pas non plus exigée pour les titres de
+créance mentionnés au 2 du II de l'article L. 211-1 du code monétaire et
+financier ;
 
 V. Le caractère libératoire du prélèvement ne peut être invoqué pour les
 produits qui sont pris en compte pour la détermination du bénéfice imposable

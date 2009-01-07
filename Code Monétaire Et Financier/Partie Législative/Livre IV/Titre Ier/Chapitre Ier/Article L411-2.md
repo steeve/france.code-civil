@@ -20,7 +20,7 @@ de type fermé.
 II.-Ne constitue pas une opération par appel public à l'épargne l'émission ou la
 cession d'instruments financiers lorsque :
 
-1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de
+1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de
 l'article L. 211-1 émis par une société anonyme ou une société en commandite par
 actions et que le montant total de l'offre est inférieur à un montant fixé par
 le règlement général de l'Autorité des marchés financiers ou à un montant et une
@@ -29,14 +29,14 @@ quotité du capital de l'émetteur fixés par le règlement général.
 Le montant total de l'offre est calculé sur une période de douze mois dans des
 conditions fixées par le règlement général ;
 
-2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de
+2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de
 l'article L. 211-1 émis par une société anonyme ou une société en commandite par
 actions et que les bénéficiaires de l'offre acquièrent ces instruments
 financiers pour un montant total par investisseur et par offre distincte
 supérieur à un montant fixé par le règlement général de l'Autorité des marchés
 financiers ;
 
-3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de
+3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de
 l'article L. 211-1 émis par une société anonyme ou une société en commandite par
 actions et que la valeur nominale de chacun de ces instruments financiers est
 supérieure à un montant fixé par le règlement général de l'Autorité des marchés

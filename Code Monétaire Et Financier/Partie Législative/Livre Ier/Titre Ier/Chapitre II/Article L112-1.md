@@ -1,8 +1,8 @@
 Article L112-1
 ----
 Sous réserve des dispositions du premier alinéa de l'article L. 112-2 et des
-articles L. 112-3 et L. 112-4, l'indexation automatique des prix de biens ou de
-services est interdite.
+articles L. 112-3, L. 112-3-1 et L. 112-4, l'indexation automatique des prix de
+biens ou de services est interdite.
 
 Est réputée non écrite toute clause d'un contrat à exécution successive, et
 notamment des baux et locations de toute nature, prévoyant la prise en compte

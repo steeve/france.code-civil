@@ -1,8 +1,8 @@
 Article L214-41
 ----
 I.-Les fonds communs de placement dans l'innovation sont des fonds communs de
-placement à risques dont l'actif est constitué, pour 60 % au moins, de valeurs
-mobilières, parts de société à responsabilité limitée et avances en compte
+placement à risques dont l'actif est constitué, pour 60 % au moins, de titres
+financiers , parts de société à responsabilité limitée et avances en compte
 courant, dont au moins 6 % dans des entreprises dont le capital est compris
 entre 100 000 euros et deux millions d'euros, telles que définies par le 1° et
 le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans

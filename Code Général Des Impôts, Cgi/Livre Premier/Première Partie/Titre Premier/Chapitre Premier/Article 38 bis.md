@@ -1,7 +1,7 @@
 Article 38 bis
 ----
 I. 1. Les titres prêtés par une entreprise dans les conditions prévues aux
-articles L. 432-6 à L. 432-10 du code monétaire et financier sont prélevés par
+articles L. 211-22 à L. 211-26 du code monétaire et financier sont prélevés par
 priorité sur les titres de même nature acquis ou souscrits à la date la plus
 récente.
 
@@ -18,8 +18,8 @@ attachés aux titres prêtés, le montant de la rémunération ne peut être inf
 rémunération qui correspond à ces produits est soumise au même régime fiscal que
 les revenus des titres prêtés.
 
-II. 1. Les titres empruntés dans les conditions prévues aux articles L. 432-6 à
-L. 432-10 précités et la dette représentative de l'obligation de restitution de
+II. 1. Les titres empruntés dans les conditions prévues aux articles L. 211-22 à
+L. 211-26 précités et la dette représentative de l'obligation de restitution de
 ces titres sont inscrits distinctement au bilan de l'emprunteur au prix du
 marché au jour du prêt.
 
@@ -34,7 +34,7 @@ bilan.
 
 1 bis Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la
 créance représentative des titres mentionnés au 1 doit être inscrite au bilan au
-prix que ces titres ont sur le marché à la date du nouveau prêt. A la clôture de
+prix que ces titres ont sur le marché à la date du nouveau prêt.A la clôture de
 l'exercice, cette créance doit être évaluée au prix des titres à cette date.
 Lors de leur restitution, les titres empruntés qui ont fait l'objet d'un prêt
 sont repris pour la valeur de la créance à cette date et sont ensuite évalués
@@ -48,8 +48,8 @@ des titres empruntés.
 
 II bis. (abrogé)
 
-III. - 1. A défaut de restitution des titres prêtés, leur cession est, d'un
-point de vue fiscal, réalisée à la date de la défaillance.
+III.-1.A défaut de restitution des titres prêtés, leur cession est, d'un point
+de vue fiscal, réalisée à la date de la défaillance.
 
 2. Pour l'application de l'article 39 duodecies, les titres prêtés sont censés
 avoir été détenus jusqu'à la date du prêt.

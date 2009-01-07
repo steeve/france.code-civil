@@ -1,6 +1,6 @@
 Article L214-92
 ----
-I. - Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif
+I.-Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif
 d'un organisme de placement collectif immobilier est exclusivement constitué :
 
 a) Des immeubles construits ou acquis, en vue de la location et des droits réels
@@ -62,9 +62,9 @@ e) Des parts ou actions d'organismes de placement collectif immobilier et de
 parts, actions ou droits détenus dans des organismes de droit étranger ayant un
 objet équivalent, quelle que soit leur forme ;
 
-f) Des instruments financiers mentionnés aux 1, 2, 3 et 5 du I de l'article L.
-211-1 admis aux négociations sur un marché mentionné aux articles L. 421-1, L.
-422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les
+f) Des titres financiers mentionnés au II de l'article L. 211-1 et à l'article
+L. 211-41 admis aux négociations sur un marché mentionné aux articles L. 421-1,
+L. 422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les
 conditions fixées à l'article L. 214-94 ;
 
 g) Des parts ou actions d'organismes de placement collectif en valeurs
@@ -84,7 +84,7 @@ Un décret en Conseil d'Etat définit les règles de dispersion et de plafonneme
 des risques, notamment en matière de construction, applicables à l'organisme de
 placement collectif immobilier.
 
-II. - Un organisme de placement collectif immobilier et les sociétés mentionnées
+II.-Un organisme de placement collectif immobilier et les sociétés mentionnées
 au b du I ne peuvent détenir d'actions, parts, droits financiers ou droits de
 vote dans une entité, quelle que soit sa forme, dont les associés ou membres
 répondent indéfiniment et solidairement des dettes de l'entité.

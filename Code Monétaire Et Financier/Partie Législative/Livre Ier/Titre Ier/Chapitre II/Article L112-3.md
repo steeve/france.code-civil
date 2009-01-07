@@ -4,8 +4,7 @@ Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de
 l'article L. 112-2 et selon des modalités définies par décret, peuvent être
 indexés sur le niveau général des prix :
 
-1° Les titres de créance et les instruments financiers à terme mentionnés aux 2
-et 4 du I de l'article L. 211-1 ;
+1° (Abrogé) ;
 
 2° Les livrets A définis à l'article L. 221-1 ;
 

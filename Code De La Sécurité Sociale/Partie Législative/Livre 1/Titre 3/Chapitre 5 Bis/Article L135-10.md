@@ -14,11 +14,11 @@ Par dérogation à l'alinéa précédent, la gestion financière des actifs du f
 peut être assurée par ce dernier, sans recourir à des prestataires visés audit
 alinéa :
 
-- soit dans des cas exceptionnels, à titre temporaire et pour préserver la
+-soit dans des cas exceptionnels, à titre temporaire et pour préserver la
 sécurité des actifs détenus par le fonds ;
 
-- soit quand le fonds décide d'investir dans des parts ou actions d'organismes
-de placement collectif et des parts, actions ou droits représentatifs d'un
+-soit quand le fonds décide d'investir dans des parts ou actions d'organismes de
+placement collectif et des parts, actions ou droits représentatifs d'un
 placement financier émis par ou dans des organismes de droit étranger ayant un
 objet équivalent, quelle que soit leur forme.
 
@@ -26,6 +26,6 @@ Les conditions d'application de cette dérogation sont fixées par arrêté conj
 des ministres chargés de 1'économie et de la sécurité sociale.
 
 Les actifs que le Fonds de réserve pour les retraites est autorisé à détenir ou
-à utiliser sont les instruments financiers énumérés au I de l'article L. 211-1
+à utiliser sont les instruments financiers énumérés au II de l'article L. 211-1
 du code monétaire et financier et les droits représentatifs d'un placement
 financier.

@@ -1,24 +1,16 @@
 Article L211-1
 ----
-I.-Les instruments financiers comprennent :
+I. - Les instruments financiers sont les titres financiers et les contrats
+financiers.
 
-1. Les actions et autres titres donnant ou pouvant donner accès, directement ou
-indirectement, au capital ou aux droits de vote, transmissibles par inscription
-en compte ou tradition ;
+II. - Les titres financiers sont :
 
-2. Les titres de créance qui représentent chacun un droit de créance sur la
-personne morale ou le fonds commun de titrisation qui les émet, transmissibles
-par inscription en compte ou tradition, à l'exclusion des effets de commerce et
-des bons de caisse ;
+1. Les titres de capital émis par les sociétés par actions ;
 
-3. Les parts ou actions d'organismes de placements collectifs ;
+2. Les titres de créance, à l'exclusion des effets de commerce et des bons de
+caisse ;
 
-4. Les instruments financiers à terme figurant sur une liste fixée par décret ;
+3. Les parts ou actions d'organismes de placement collectif.
 
-5. Et tous instruments financiers équivalents à ceux mentionnés aux précédents
-alinéas, ainsi que les droits représentatifs d'un placement financier dans une
-entité, émis sur le fondement de droits étrangers.
-
-II.-Les instruments financiers mentionnés aux 1 à 3 du I ne peuvent être émis
-que par l'Etat, une personne morale, un fonds commun de placement, un fonds de
-placement immobilier ou un fonds commun de créances.
+III. - Les contrats financiers, également dénommés " instruments financiers à
+terme ", sont les contrats à terme qui figurent sur une liste fixée par décret.

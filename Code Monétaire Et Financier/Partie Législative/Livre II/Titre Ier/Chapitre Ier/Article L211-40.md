@@ -1,4 +1,4 @@
-Article L431-7-2
+Article L211-40
 ----
 Les dispositions du livre VI du code de commerce, ou celles régissant toutes
 procédures judiciaires ou amiables équivalentes ouvertes sur le fondement de
