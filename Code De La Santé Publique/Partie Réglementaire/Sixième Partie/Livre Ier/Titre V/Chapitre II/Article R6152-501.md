@@ -8,9 +8,7 @@ conditions définies par la présente section :
 réserve, en ce qui concerne les hôpitaux locaux, que soient remplies les
 conditions définies aux articles R. 6141-29 à R. 6141-31 ;
 
-2° Dans les centres hospitaliers universitaires, sous réserve qu'ils exercent
-leurs fonctions dans les services ou structures de biologie déterminés au 1° de
-l'article L. 6142-17 ou dans les services ou départements de pharmacie ;
+2° Dans les centres hospitaliers universitaires ;
 
 3° Dans les établissements publics mentionnés au I de l'article L. 313-12 du
 code de l'action sociale et des familles.

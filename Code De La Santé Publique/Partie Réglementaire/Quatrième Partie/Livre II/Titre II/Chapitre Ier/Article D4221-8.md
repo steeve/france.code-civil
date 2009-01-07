@@ -12,6 +12,3 @@ d'accueil ou d'aide aux réfugiés.
 
 Le Conseil supérieur de la pharmacie peut convoquer les candidats pour une
 audition.
-
-Un arrêté du ministre chargé de la santé fixe la composition du dossier à
-fournir au Conseil supérieur de la pharmacie.

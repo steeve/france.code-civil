@@ -1,4 +1,4 @@
 Article D4111-13
 ----
-Les autorisations ministérielles d'exercice sont publiées au Journal officiel de
-la République française.
+Le secrétariat de la commission est assuré par la direction de l'hospitalisation
+et de l'organisation des soins.
