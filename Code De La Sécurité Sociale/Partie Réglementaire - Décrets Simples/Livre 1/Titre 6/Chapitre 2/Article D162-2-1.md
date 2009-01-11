@@ -15,7 +15,8 @@ de la santé et de l'économie ;
 4° Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;
 
-5° Le directeur général des entreprises ou son représentant ;
+5° Le directeur général de la compétitivité, de l'industrie et des services ou
+son représentant ;
 
 6° Deux représentants des organismes nationaux d'assurance maladie désignés par
 le directeur général de la Caisse nationale d'assurance maladie des travailleurs
@@ -31,9 +32,9 @@ l'hospitalisation et de l'organisation des soins ou son représentant et un
 représentant du ministre chargé de la recherche.
 
 En fonction de l'ordre du jour, le président peut associer le directeur général
-de l'action sociale ou son représentant, un représentant du ministre chargé du
-budget, un représentant du ministre chargé de l'agriculture, un représentant du
-ministre chargé des petites et moyennes entreprises ou un représentant du
+de la cohésion sociale ou son représentant, un représentant du ministre chargé
+du budget, un représentant du ministre chargé de l'agriculture, un représentant
+du ministre chargé des petites et moyennes entreprises ou un représentant du
 ministre chargé des anciens combattants aux travaux du comité et de ses
 sections, avec voix consultative.
 
