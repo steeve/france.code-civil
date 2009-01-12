@@ -1,4 +1,3 @@
 Article LO119
 ----
-Le nombre de députés à l'Assemblée nationale élus dans les départements est de
-570.
+Le nombre des députés est de cinq cent soixante-dix-sept.
