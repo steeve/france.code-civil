@@ -13,8 +13,9 @@ registre des métiers ou du commerce ou lorsqu'il exerce une profession libéral
 ;
 
 2°) jusqu'à un âge limite, les enfants non salariés, à la charge de l'assuré ou
-de son conjoint, qu'ils soient légitimes, naturels, reconnus ou non, adoptifs,
-pupilles de la nation dont l'assuré est tuteur, ou enfants recueillis ;
+de son conjoint, que la filiation, y compris adoptive, soit légalement établie,
+qu'ils soient pupilles de la nation dont l'assuré est tuteur, ou enfants
+recueillis ;
 
 3°) jusqu'à des âges limites et dans les conditions déterminées par décret en
 Conseil d'Etat :
