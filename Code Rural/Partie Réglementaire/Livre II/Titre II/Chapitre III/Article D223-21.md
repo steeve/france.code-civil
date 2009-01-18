@@ -1,9 +1,8 @@
 Article D223-21
 ----
-I. - La liste des maladies réputées contagieuses mentionnées à l'article L.
-223-2 qui donnent lieu à déclaration au préfet (directeur départemental des
-services vétérinaires) et à application des mesures de police sanitaire est la
-suivante :
+I.-La liste des maladies réputées contagieuses mentionnées à l'article L. 223-2
+qui donnent lieu à déclaration au préfet (directeur départemental des services
+vétérinaires) et à application des mesures de police sanitaire est la suivante :
 
 
 DÉNOMINATION FRANÇAISE
@@ -220,8 +219,10 @@ Maladie de la tête jaune.
 
 Virus de la maladie de la tête jaune (Roniviridae, Okavirus).
 
-Crevettes : brune, rose, Kuruma, tigrée brune, ligubam du Nord, bleue, à pattes
-blanches du Pacifique.
+crevette brune (Panaeus aztecus), crevette rose (Panaeus duorarum), crevette
+kuruma (Panaeus japonicus), crevette tigrée brune (Panaeus monodon), crevette
+ligubam du Nord (Panaeus setiferus), crevette bleue (Panaeus stylirostris),
+crevette à pattes blanches du Pacifique (Panaeus vannamei).
 
 Maladie de Nairobi.
 
@@ -282,7 +283,8 @@ Truites arc-en-ciel et perche commune.
 
 Nosémose des abeilles.
 
-Nosema spp.
+
+Nosema apis
 
 Abeilles.
 
@@ -345,13 +347,13 @@ Salmonellose aviaire.
 Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella
 Virchow et Salmonella Infantis.
 
-Troupeaux de futurs reproducteurs et reproducteurs des espèces Gallus gallus.
+Troupeaux de futurs reproducteurs et reproducteurs de l'espèce Gallus gallus.
 
 Salmonellose aviaire.
 
 Salmonella Enteritidis, Salmonella Typhimurium.
 
-Troupeaux de futurs reproducteurs et reproducteurs des espèces Meleagris
+Troupeaux de futurs reproducteurs et reproducteurs de l'espèce Meleagris
 gallopavo.
 
 Salmonellose aviaire.
@@ -397,8 +399,8 @@ Syndrome de Taura.
 
 Virus du syndrome de Taura (Dicistroviridae).
 
-Crevettes ligubam du Nord, crevettes bleues et crevettes à pattes blanches du
-Pacifique.
+Crevette ligubam du Nord (Panaeus setiferus), crevette bleue (Panaeus
+stylirostris), crevette à pattes blanches du Pacifique (Panaeus vannamei).
 
 Syndrome ulcéreux épizootique.
 
@@ -412,6 +414,13 @@ Théilériose.
 Theileria annulata.
 
 Bovins.
+
+
+Trichinellose
+
+Trichinella spp.
+
+Toute espèce animale sensible.
 
 Trypanosome.
 
@@ -431,7 +440,7 @@ Virus de la variole caprine (Poxviridae, Capripoxvirus).
 
 Caprins.
 
-II. - Les maladies réputées contagieuses sont mises en évidence dans des
+II.-Les maladies réputées contagieuses sont mises en évidence dans des
 conditions fixées par arrêté du ministre chargé de l'agriculture. En l'absence
 de dispositions réglementaires particulières, l'existence de la maladie est
 établie par l'isolement de l'agent pathogène à la suite d'un examen réalisé par
