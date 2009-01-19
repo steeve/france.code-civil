@@ -1,8 +1,8 @@
 Article 406 terdecies
 ----
 I.-Les impôts et taxes dus par les personnes et groupements mentionnés à
-l'article 344-0 A sont payés au comptable du service des grandes entreprises
-mentionné au premier alinéa de l'article 344-0 A.
+l'article 344-0 A sont payés au comptable du service chargé des grandes
+entreprises mentionné au premier alinéa de l'article 344-0 A.
 
 II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à
 l'imposition forfaitaire annuelle des sociétés, à la contribution sur les
@@ -15,12 +15,15 @@ aux 3° à 5° et 7° à 15° de l'article 344-0 B.
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur
 les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes
-recouvrées dans les mêmes conditions.L'option s'applique aux cotisations dues au
-titre de l'ensemble des établissements et immeubles de l'entreprise. Formulée
-par écrit avant le 30 novembre d'une année, l'option prend effet le 1er janvier
-de l'année suivante, pour une durée de cinq ans, renouvelable par tacite
-reconduction à défaut de dénonciation trente jours au moins avant l'expiration
-de la période.
+recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des
+impositions dues à ce titre. Formulée par écrit avant le 30 novembre d'une
+année, l'option prend effet le 1er janvier de l'année suivante, pour une durée
+de cinq ans, renouvelable par tacite reconduction à défaut de dénonciation,
+trente jours au moins avant l'expiration de la période, par pli recommandé avec
+demande d'avis de réception postal auprès du comptable du service chargé des
+grandes entreprises. Toutefois, en cas d'opération d'absorption, l'option prend
+fin le 31 décembre de la deuxième année qui suit celle au cours de laquelle
+l'entreprise a été absorbée.
 
 III.-Les dispositions des I et II s'appliquent aux paiements dans les mêmes
 conditions que celles prévues à l'article 344-0 C. Toutefois, les impositions
