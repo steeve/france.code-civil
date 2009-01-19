@@ -1,5 +1,6 @@
 Article 314
 ----
-La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant
-ne désigne pas le mari en qualité de père et que l'enfant n'a pas de possession
-d'état à son égard.
+Si elle a été écartée en application de l'article 313, la présomption de
+paternité se trouve rétablie de plein droit si l'enfant a la possession d'état à
+l'égard du mari et s'il n'a pas une filiation paternelle déjà établie à l'égard
+d'un tiers.
