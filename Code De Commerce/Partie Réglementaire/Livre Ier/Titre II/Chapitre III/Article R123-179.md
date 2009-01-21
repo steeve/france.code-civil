@@ -3,7 +3,7 @@ Article R123-179
 La dépréciation d'une immobilisation est, sous réserve des dispositions du
 deuxième alinéa, constatée par l'amortissement. Celui-ci consiste à répartir le
 coût du bien sur sa durée probable d'utilisation selon un plan d'amortissement.
-Un règlement du comité de la réglementation comptable peut toutefois prévoir des
+Un règlement de l'Autorité des normes comptables peut toutefois prévoir des
 modalités d'amortissement différentes pour ceux des commerçants qui ne dépassent
 pas, à la clôture de l'exercice, deux des trois critères fixés par le 2° de
 l'article R. 123-200.

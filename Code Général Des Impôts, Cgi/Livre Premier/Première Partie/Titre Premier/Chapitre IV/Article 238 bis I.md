@@ -27,8 +27,8 @@ III. La plus-value ou la moins-value de cession des immobilisations non
 amortissables est, du point de vue fiscal, calculée à partir de leur valeur non
 réévaluée.
 
-IV. Un décret en Conseil d'Etat pris après avis du conseil national de la
-comptabilité fixe les conditions d'application du présent article, notamment les
+IV. Un décret en Conseil d'Etat pris après avis de l'Autorité des normes
+comptables fixe les conditions d'application du présent article, notamment les
 techniques de réévaluation, et la nature des obligations incombant aux
 entreprises. Il adapte les dispositions des I à III au cas des professions
 libérales (1).

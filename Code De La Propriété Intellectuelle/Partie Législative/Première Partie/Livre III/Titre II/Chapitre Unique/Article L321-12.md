@@ -13,5 +13,5 @@ Le ministre chargé de la culture ou son représentant peut recueillir, sur piè
 et sur place, les renseignements mentionnés au présent article.
 
 Les règles comptables communes aux sociétés de perception et de répartition des
-droits sont établies dans les conditions fixées par le Comité de la
-réglementation comptable.
+droits sont établies dans les conditions fixées par l'Autorité des normes
+comptables.

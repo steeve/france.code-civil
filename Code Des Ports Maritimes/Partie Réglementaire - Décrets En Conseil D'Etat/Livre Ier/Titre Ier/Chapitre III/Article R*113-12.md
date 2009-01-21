@@ -10,20 +10,20 @@ autonomes.
 
 Ce plan comptable détermine notamment :
 
-- les règles applicables en matière d'évaluation et de réévaluation des
+-les règles applicables en matière d'évaluation et de réévaluation des
 immobilisations ;
 
-- la nature des immobilisations amortissables qui devront être individualisées
-au bilan ;
+-la nature des immobilisations amortissables qui devront être individualisées au
+bilan ;
 
-- les règles de calcul des amortissements et des provisions ;
+-les règles de calcul des amortissements et des provisions ;
 
-- les méthodes d'évaluation des stocks ;
+-les méthodes d'évaluation des stocks ;
 
-- les normes d'élaboration de la comptabilité analytique d'exploitation, de
+-les normes d'élaboration de la comptabilité analytique d'exploitation, de
 manière à assurer la connaissance de prix de revient établis sur les bases
 homogènes.
 
 Le plan comptable est approuvé par arrêté conjoint du ministre chargé des ports
-maritimes et du ministre de l'économie et des finances, après avis du conseil
-national de la comptabilité.
+maritimes et du ministre de l'économie et des finances, après avis de l'Autorité
+des normes comptables.

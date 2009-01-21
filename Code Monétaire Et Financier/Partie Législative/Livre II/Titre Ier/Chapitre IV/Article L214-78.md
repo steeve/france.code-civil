@@ -8,9 +8,9 @@ Ils dressent également les comptes annuels et établissent un rapport de gestio
 écrit.
 
 Ils sont tenus d'appliquer le plan comptable général adapté, suivant les
-modalités qui seront fixées par un règlement du comité de la réglementation
-comptable, aux besoins et aux moyens desdites sociétés, compte tenu de la nature
-de leur activité.
+modalités qui seront fixées par un règlement de l'Autorité des normes
+comptables, aux besoins et aux moyens desdites sociétés, compte tenu de la
+nature de leur activité.
 
 Le rapport de gestion expose la situation de la société durant l'exercice
 écoulé, son évolution prévisible, ainsi que les événements importants intervenus

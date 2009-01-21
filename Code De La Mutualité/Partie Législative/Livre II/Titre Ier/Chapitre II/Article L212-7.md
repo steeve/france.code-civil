@@ -19,7 +19,7 @@ permettant de participer à leur contrôle.
 
 II.-Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus
 établissent et publient des comptes consolidés dans les conditions définies par
-un règlement du comité de la réglementation comptable.
+un règlement de l'Autorité des normes comptables.
 
 Ces comptes sont certifiés par les commissaires aux comptes dans les conditions
 prévues au deuxième alinéa de l'article L. 823-9 du code de commerce.
@@ -29,7 +29,7 @@ l'une de ces entités établit et publie des comptes combinés. Un décret déte
 celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés
 sont constitués par agrégation de l'ensemble des comptes des entités concernées,
 établis s'il y a lieu sur une base consolidée dans des conditions définies par
-un règlement du comité de la réglementation comptable.
+un règlement de l'Autorité des normes comptables.
 
 Les comptes mentionnés au présent article sont certifiés par les commissaires
 aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 823-9

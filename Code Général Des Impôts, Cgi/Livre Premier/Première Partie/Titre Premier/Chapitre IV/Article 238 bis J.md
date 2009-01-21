@@ -55,10 +55,10 @@ IV. La réévaluation des immobilisations prévues au présent article peut êtr
 effectuée dans les écritures du premier exercice clos à dater du 31 décembre
 1976 ou des trois exercices suivants.
 
-V. Un décret en Conseil d'Etat, pris après avis du conseil national de la
-comptabilité, fixe les conditions d'application du présent article, les
-modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la
-nature des obligations incombant aux entreprises.
+V. Un décret en Conseil d'Etat, pris après avis de l'Autorité des normes
+comptables, fixe les conditions d'application du présent article, les modalités
+de réévaluation, notamment celles applicables aux immeubles bâtis, la nature des
+obligations incombant aux entreprises.
 
 Il précise les règles de détermination, d'un point de vue fiscal, des plus ou
 moins-values de cession d'immobilisations amortissables, réévaluées de telle

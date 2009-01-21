@@ -2,8 +2,8 @@ Article R341-7
 ----
 Les documents comptables relatifs aux opérations en devises doivent être tenus
 dans chacune des devises utilisées, dans les conditions fixées par arrêté du
-ministre chargé de l'économie, pris après avis du Conseil national de la
-comptabilité. Toutefois, les entreprises dont les opérations en devises ne sont
+ministre chargé de l'économie, pris après avis de l'Autorité des normes
+comptables. Toutefois, les entreprises dont les opérations en devises ne sont
 pas significatives peuvent tenir leurs documents comptables uniquement en unité
 euro.
 

@@ -3,8 +3,8 @@ Article R811-76
 Les ministres chargés du budget, de l'intérieur et de l'agriculture fixent
 conjointement :
 
-a) Le plan comptable des établissements publics locaux après avis du Conseil
-national de la comptabilité ;
+a) Le plan comptable des établissements publics locaux après avis de l'Autorité
+des normes comptables ;
 
 b) La présentation du budget et des états annexes ;
 

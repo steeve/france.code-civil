@@ -3,7 +3,7 @@ Article R931-11-7
 Les documents comptables relatifs aux opérations en devises des institutions de
 prévoyance et de leurs unions doivent être tenus dans chacune des devises
 utilisées, dans des conditions fixées par arrêté du ministre chargé de la
-sécurité sociale, pris après avis du Conseil national de la comptabilité.
+sécurité sociale, pris après avis de l'Autorité des normes comptables.
 Toutefois, les institutions et les unions dont les opérations en devises ne sont
 pas significatives peuvent tenir leurs documents comptables uniquement en euros.
 

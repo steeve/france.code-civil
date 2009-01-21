@@ -8,15 +8,14 @@ et de la Banque centrale européenne s'appliquent à l'établissement des compte
 annuels de la Banque de France pour ce qui concerne les opérations relevant des
 missions définies à l'article L. 141-1.
 
-Les prescriptions comptables générales établies par le Comité de la
-réglementation comptable en application du premier alinéa de l'article 1er de la
-loi n° 98-261 du 6 avril 1998 portant réforme de la réglementation comptable et
-adaptation du régime de la publicité foncière, ainsi que les méthodes de
-comptabilisation et d'évaluation fixées par les règlements du Comité de la
-réglementation comptable mentionnés au I de l'article 4 de la même loi,
-s'appliquent à la Banque de France pour les opérations autres que celles
-comptabilisées et évaluées selon les règles mentionnées au premier alinéa du
-présent article.
+Les prescriptions comptables générales établies par l'Autorité des normes
+comptables en application du premier alinéa de l'article 1er de la loi n° 98-261
+du 6 avril 1998 portant réforme de la réglementation comptable et adaptation du
+régime de la publicité foncière, ainsi que les méthodes de comptabilisation et
+d'évaluation fixées par les règlements de l'Autorité des normes comptables
+mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de
+France pour les opérations autres que celles comptabilisées et évaluées selon
+les règles mentionnées au premier alinéa du présent article.
 
 Le conseil général arrête, après avis du comité monétaire du conseil général, la
 présentation des états comptables publiés. Sur proposition du comité monétaire

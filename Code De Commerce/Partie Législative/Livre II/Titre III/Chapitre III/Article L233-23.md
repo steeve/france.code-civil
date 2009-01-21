@@ -2,7 +2,7 @@ Article L233-23
 ----
 Sous réserve d'en justifier dans l'annexe, la société consolidante peut faire
 usage, dans les conditions prévues à l'article L. 123-17, de règles d'évaluation
-fixées par règlement du Comité de la réglementation comptable, et destinées :
+fixées par règlement de l'Autorité des normes comptables, et destinées :
 
 1° A tenir compte des variations de prix ou des valeurs de remplacement ;
 

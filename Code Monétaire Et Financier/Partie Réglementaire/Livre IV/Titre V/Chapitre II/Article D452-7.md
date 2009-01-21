@@ -9,10 +9,10 @@ comptables définis au code de commerce et dans les textes pris pour son
 application, sous réserve des adaptations que rend nécessaires leur forme
 juridique ou la nature de leur activité. Le plan comptable applicable à ces
 associations est approuvé par arrêté du garde des sceaux, ministre de la
-justice, et des ministres chargés de l'économie et du budget, après avis du
-Conseil national de la comptabilité. Si des particularités d'activité, de
-structure ou d'opérations le justifient, des adaptations pourront être
-apportées, dans les mêmes formes, aux dispositions de ce plan comptable.
+justice, et des ministres chargés de l'économie et du budget, après avis de
+l'Autorité des normes comptables. Si des particularités d'activité, de structure
+ou d'opérations le justifient, des adaptations pourront être apportées, dans les
+mêmes formes, aux dispositions de ce plan comptable.
 
 Les comptes annuels sont soumis, en même temps que le rapport de gestion, à
 l'approbation de l'organe délibérant au plus tard dans les six mois de la

@@ -1,15 +1,15 @@
 Article R931-11-3
 ----
-Un arrêté du ministre chargé de la sécurité sociale, pris après avis du Conseil
-national de la comptabilité, détermine la structure et les principaux éléments
-de la nomenclature du plan de comptes prévu à l'article 4 du décret n° 83-1020
-du 29 novembre 1983 mentionné à l'article R. 931-11-2, ainsi que les règles
-spécifiques d'utilisation des comptes et les principes généraux d'organisation
-et de fonctionnement du système comptable. Il peut, en outre, prescrire, lorsque
-cela est nécessaire pour la justification des comptes ou l'exercice des
-compétences de l'Autorité de contrôle instituée par l'article L. 951-1, des
-modalités spécifiques d'enregistrement et de suivi extra-comptable des
-placements, des bulletins d'adhésion à un règlement ou des contrats, des
+Un arrêté du ministre chargé de la sécurité sociale, pris après avis de
+l'Autorité des normes comptables, détermine la structure et les principaux
+éléments de la nomenclature du plan de comptes prévu à l'article 4 du décret n°
+83-1020 du 29 novembre 1983 mentionné à l'article R. 931-11-2, ainsi que les
+règles spécifiques d'utilisation des comptes et les principes généraux
+d'organisation et de fonctionnement du système comptable. Il peut, en outre,
+prescrire, lorsque cela est nécessaire pour la justification des comptes ou
+l'exercice des compétences de l'Autorité de contrôle instituée par l'article L.
+951-1, des modalités spécifiques d'enregistrement et de suivi extra-comptable
+des placements, des bulletins d'adhésion à un règlement ou des contrats, des
 sinistres et des opérations de réassurance, coassurance et coréassurance des
 institutions ou de leurs unions.
 
@@ -30,5 +30,5 @@ des éléments qui composent ces montants.
 Les institutions et les unions agréées pour pratiquer simultanément les
 opérations visées au a et au b de l'article L. 931-1 tiennent une comptabilité
 distincte pour chacune de ces deux catégories d'opérations dans des conditions
-fixées par arrêté du ministre chargé de la sécurité sociale pris après avis du
-Conseil national de la comptabilité.
+fixées par arrêté du ministre chargé de la sécurité sociale pris après avis de
+l'Autorité des normes comptables.

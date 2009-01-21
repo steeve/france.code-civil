@@ -6,6 +6,6 @@ patrimoine, de la situation financière et du résultat de l'entreprise. Chacun
 des postes du bilan et du compte de résultat comporte l'indication du chiffre
 relatif au poste correspondant de l'exercice précédent.
 
-Le classement des éléments du bilan et du compte de résultat, les éléments
-composant les capitaux propres ainsi que les mentions à inclure dans l'annexe
-sont fixés par décret.
+Les éléments composant les capitaux propres sont fixés par décret. Le classement
+des éléments du bilan et du compte de résultat ainsi que les mentions à inclure
+dans l'annexe sont fixés par un règlement de l'Autorité des normes comptables.

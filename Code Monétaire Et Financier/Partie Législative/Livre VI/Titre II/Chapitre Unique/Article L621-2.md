@@ -21,7 +21,7 @@ de la Cour des comptes ;
 
 5° Un représentant de la Banque de France désigné par le gouverneur ;
 
-6° Le président du Conseil national de la comptabilité ;
+6° Le président de l'Autorité des normes comptables ;
 
 7° Trois membres désignés, à raison de leur compétence financière et juridique
 ainsi que de leur expérience en matière d'appel public à l'épargne et

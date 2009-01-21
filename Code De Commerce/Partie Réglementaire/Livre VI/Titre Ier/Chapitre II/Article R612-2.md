@@ -5,10 +5,10 @@ Ils sont établis selon les principes et méthodes comptables définis aux artic
 L. 123-12 et suivants et aux articles R. 123-172 à R. 123-208 pris pour leur
 application, sous réserve des adaptations que rend nécessaires la forme
 juridique ou la nature de l'activité de ces personnes morales. Les plans
-comptables applicables à ces personnes morales sont fixés par règlement du
-comité de la réglementation comptable. Si des particularités d'activité, de
-structure ou d'opérations le justifient, des adaptations peuvent être apportées,
-dans les mêmes formes, aux dispositions de ces plans comptables.
+comptables applicables à ces personnes morales sont fixés par règlement de
+l'Autorité des normes comptables. Si des particularités d'activité, de structure
+ou d'opérations le justifient, des adaptations peuvent être apportées, dans les
+mêmes formes, aux dispositions de ces plans comptables.
 
 Les comptes annuels sont soumis, en même temps qu'un rapport de gestion, à
 l'approbation de l'organe délibérant au plus tard dans les six mois de la

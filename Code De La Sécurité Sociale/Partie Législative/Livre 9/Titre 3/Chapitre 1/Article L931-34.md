@@ -1,8 +1,8 @@
 Article L931-34
 ----
 Les institutions de prévoyance établissent et publient des comptes consolidés
-dans des conditions définies par un règlement du comité de la réglementation
-comptable.
+dans des conditions définies par un règlement de l'Autorité des normes
+comptables.
 
 Lorsque deux ou plusieurs institutions de prévoyance, groupements paritaires de
 prévoyance, entreprises soumises au contrôle de l'Etat en application de
@@ -14,5 +14,5 @@ liens en capital, l'une d'elles établit et publie des comptes combinés. Un
 décret détermine celui des organismes mentionnés au présent alinéa sur lequel
 pèse cette obligation. Les comptes combinés sont constitués par agrégation de
 l'ensemble des comptes des organismes concernés, établis s'il y a lieu sur une
-base consolidée dans des conditions définies par un règlement du Comité de la
-réglementation comptable.
+base consolidée dans des conditions définies par un règlement de l'Autorité des
+normes comptables.

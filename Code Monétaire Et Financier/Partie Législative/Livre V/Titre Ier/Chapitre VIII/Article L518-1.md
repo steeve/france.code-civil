@@ -9,8 +9,7 @@ Ces institutions et services peuvent effectuer les opérations de banque prévue
 par les dispositions législatives et réglementaires qui les régissent.
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L.
-611-1, L. 611-3, L. 611-4 ainsi que les règlements du comité de la
-réglementation comptable peuvent, sous réserve des adaptations nécessaires et
-dans des conditions fixées par décret en Conseil d'Etat, être étendus à La
-Poste, dans les conditions définies à l'article L. 518-25, et aux comptables du
-Trésor.
+611-1, L. 611-3, L. 611-4 ainsi que les règlements de l'Autorité des normes
+comptables peuvent, sous réserve des adaptations nécessaires et dans des
+conditions fixées par décret en Conseil d'Etat, être étendus à La Poste, dans
+les conditions définies à l'article L. 518-25, et aux comptables du Trésor.

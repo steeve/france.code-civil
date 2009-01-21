@@ -1,6 +1,6 @@
 Article R341-3
 ----
-Un règlement du Comité de la réglementation comptable fixe la structure et les
+Un règlement de l'Autorité des normes comptables fixe la structure et les
 principaux éléments de la nomenclature du plan de comptes prévu à l'article 4 du
 décret n° 83-1020 du 29 novembre 1983 mentionné à l'article R. 341-2, ainsi que
 les règles spécifiques d'utilisation des comptes et les principes généraux
@@ -35,4 +35,4 @@ l'article R. 341-5, doivent être contrôlables, notamment à partir du détail 
 Les entreprises pratiquant à la fois les risques visés au 1° et au 2° de
 l'article L. 310-1 tiennent une comptabilité distincte pour chacune de ces deux
 catégories de risques dans des conditions fixées par arrêté du ministre chargé
-de l'économie, pris après avis du Conseil national de la comptabilité.
+de l'économie, pris après avis de l'Autorité des normes comptables.

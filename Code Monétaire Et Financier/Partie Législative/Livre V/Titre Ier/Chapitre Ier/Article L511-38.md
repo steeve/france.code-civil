@@ -14,11 +14,11 @@ la sincérité des informations destinées au public, et leur concordance avec
 lesdits comptes.
 
 Toutefois, lorsque le total du bilan d'un établissement de crédit ou d'une
-entreprise d'investissement est inférieur à un seuil fixé par le comité de la
-réglementation comptable après avis du Comité consultatif de la législation et
-de la réglementation financières, la certification mentionnée à l'alinéa
-précédent peut être exercée par un seul commissaire aux comptes. Lorsque cette
-condition est remplie, et que l'établissement est soumis soit aux règles de la
+entreprise d'investissement est inférieur à un seuil fixé par l'Autorité des
+normes comptables après avis du Comité consultatif de la législation et de la
+réglementation financières, la certification mentionnée à l'alinéa précédent
+peut être exercée par un seul commissaire aux comptes. Lorsque cette condition
+est remplie, et que l'établissement est soumis soit aux règles de la
 comptabilité publique, soit à un régime spécifique d'approbation de ses comptes
 présentant des garanties jugées suffisantes par la commission bancaire, celle-ci
 peut décider de lever l'obligation de certification mentionnée à l'alinéa

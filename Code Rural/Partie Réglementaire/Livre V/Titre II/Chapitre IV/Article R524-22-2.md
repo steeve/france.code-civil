@@ -14,7 +14,7 @@ l'article L. 524-6-1.
 
 Les comptes combinés sont arrêtés par le conseil d'administration ou le
 directoire de l'entité combinante qui est chargée, par la convention de
-combinaison telle que prévue par le règlement du comité de la réglementation
-comptable, d'établir les comptes combinés. Cette convention est signée par les
+combinaison telle que prévue par le règlement de l'Autorité des normes
+comptables, d'établir les comptes combinés. Cette convention est signée par les
 présidents des conseils d'administration ou des conseils de surveillance de
 toutes les parties à l'ensemble combiné de tête.

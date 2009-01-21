@@ -4,7 +4,7 @@ La comptabilité des régies est tenue dans les conditions définies par un plan
 comptable conforme au plan comptable général.
 
 Ce plan comptable est arrêté par le ministre chargé des collectivités locales et
-le ministre chargé du budget, après avis du Conseil national de la comptabilité.
+le ministre chargé du budget, après avis de l'Autorité des normes comptables.
 Des plans comptables particuliers à certaines activités peuvent être définis
 selon la même procédure.
 

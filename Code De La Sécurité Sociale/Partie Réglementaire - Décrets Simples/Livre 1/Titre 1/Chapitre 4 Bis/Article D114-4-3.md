@@ -1,6 +1,6 @@
 Article D114-4-3
 ----
-I. - Il est créé un Haut Conseil interministériel de la comptabilité des
+I.-Il est créé un Haut Conseil interministériel de la comptabilité des
 organismes de sécurité sociale, placé auprès du ministre chargé de la sécurité
 sociale et du ministre chargé du budget, chargé notamment de fixer des
 orientations et de superviser l'ensemble des travaux de la mission visée au II
@@ -17,7 +17,7 @@ Ce Haut Conseil est composé des membres suivants :
 
 2° Le secrétaire général de la commission des comptes de la sécurité sociale ;
 
-3° Le président du Conseil national de la comptabilité ou son représentant ;
+3° Le président de l'Autorité des normes comptables ou son représentant ;
 
 4° Le directeur de la sécurité sociale ou son représentant ;
 
@@ -72,7 +72,7 @@ réunir à l'initiative de son président.
 Le secrétariat du Haut Conseil est assuré par la mission comptable permanente
 visée au II ci-après.
 
-II. - Il est créé une mission comptable permanente des organismes de sécurité
+II.-Il est créé une mission comptable permanente des organismes de sécurité
 sociale rattachée pour sa gestion administrative aux services du ministre chargé
 de la sécurité sociale. Cette mission interministérielle est notamment chargée,
 en liaison avec les services concernés des ministres chargés du budget, de la
@@ -81,9 +81,9 @@ arrêtés des comptes annuels, de centraliser les comptes annuels et infra-annue
 des organismes de sécurité sociale et de s'assurer de leur qualité, de mettre
 les informations comptables à disposition des destinataires habilités à cet
 effet, de proposer toute évolution jugée nécessaire du plan comptable unique des
-organismes de sécurité sociale, de saisir le Conseil national de la comptabilité
-en tant que de besoin, de veiller à l'exacte application des principes
-comptables par les organismes de sécurité sociale.
+organismes de sécurité sociale, de saisir l'Autorité des normes comptables en
+tant que de besoin, de veiller à l'exacte application des principes comptables
+par les organismes de sécurité sociale.
 
 La mission peut faire tout commentaire et porter toute appréciation jugée
 nécessaire sur la qualité des comptes produits par les organismes de sécurité

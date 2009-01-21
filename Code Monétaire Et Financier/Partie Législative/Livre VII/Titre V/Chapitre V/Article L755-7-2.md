@@ -7,9 +7,9 @@ des postes et télécommunications.
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L.
 611-1, L. 611-3 et L. 611-4 et les règlements du Comité de la réglementation
-bancaire et financière ainsi que les règlements du Comité de la réglementation
-comptable peuvent être étendus aux services financiers de l'office des postes et
-télécommunications, sous réserve des adaptations nécessaires et dans des
+bancaire et financière ainsi que les règlements de l'Autorité des normes
+comptables peuvent être étendus aux services financiers de l'office des postes
+et télécommunications, sous réserve des adaptations nécessaires et dans des
 conditions fixées par décret en Conseil d'Etat.
 
 Les services financiers de l'office des postes et télécommunications sont soumis
