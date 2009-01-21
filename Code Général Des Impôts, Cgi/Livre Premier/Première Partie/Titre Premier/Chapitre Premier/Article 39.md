@@ -14,7 +14,7 @@ avantages en nature et remboursements de frais.
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
 dispositions du 9, l'indemnité de congé payé calculée dans les conditions
-prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, y compris les
+prévues aux articles L. 3141-22 à L. 3141-25 du code du travail , y compris les
 charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de
@@ -98,14 +98,14 @@ limitation prévue au premier alinéa.
 La limite prévue au premier alinéa n'est pas applicable aux intérêts afférents
 aux avances consenties par une société à une autre société lorsque la première
 possède, au regard de la seconde, la qualité de société-mère au sens de
-l'article 145 et que ces avances proviennent de sommes empruntées par appel
-public à l'épargne sur le marché obligataire, ou par émission de titres de
-créances mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, les
-intérêts sont déductibles dans la limite des intérêts des ressources ainsi
-collectées par la société-mère pour le compte de sa ou de ses filiales. Ces
-dispositions sont applicables aux intérêts afférents aux ressources empruntées à
-compter du 1er janvier 1986. Elles cessent de s'appliquer pour la détermination
-des résultats imposables des exercices ouverts à compter du 1er janvier 1988.
+l'article 145 et que ces avances proviennent de sommes empruntées par offre au
+public sur le marché obligataire, ou par émission de titres de créances
+mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, les intérêts
+sont déductibles dans la limite des intérêts des ressources ainsi collectées par
+la société-mère pour le compte de sa ou de ses filiales. Ces dispositions sont
+applicables aux intérêts afférents aux ressources empruntées à compter du 1er
+janvier 1986. Elles cessent de s'appliquer pour la détermination des résultats
+imposables des exercices ouverts à compter du 1er janvier 1988.
 
 Les conditions d'application de l'alinéa précédent, notamment les obligations
 déclaratives des sociétés mentionnées, sont fixées par décret ;
@@ -482,7 +482,7 @@ pour les besoins de l'exploitation et résultant de l'achat, de la location ou d
 l'entretien des demeures historiques classées, inscrites à l'inventaire
 supplémentaire des monuments historiques ou agréésou des résidences servant
 d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et
-L. 123-11-1 du code de commerce , ou des résidences faisant partie intégrante
+L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante
 d'un établissement de production et servant à l'accueil de la clientèle. (1)
 
 5. Sont également déductibles les dépenses suivantes :
@@ -533,7 +533,7 @@ du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 incorporels non amortissables ou des parts sociales ou des actions de sociétés
 commerciales non négociables sur un marché réglementé sont loués dans les
 conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et
-financier , la quote-part de loyers prise en compte pour la fixation du prix de
+financier, la quote-part de loyers prise en compte pour la fixation du prix de
 vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas
 déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire.
 Elle doit être indiquée distinctement dans le contrat de crédit-bail.

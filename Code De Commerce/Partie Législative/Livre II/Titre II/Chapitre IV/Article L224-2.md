@@ -1,8 +1,6 @@
 Article L224-2
 ----
-Le capital social doit être de 225 000 euros au moins si la société fait
-publiquement appel à l'épargne et de 37 000 euros au moins dans le cas
-contraire.
+Le capital social doit être de 37 000 € au moins.
 
 La réduction du capital social à un montant inférieur ne peut être décidée que
 sous la condition suspensive d'une augmentation de capital destinée à amener

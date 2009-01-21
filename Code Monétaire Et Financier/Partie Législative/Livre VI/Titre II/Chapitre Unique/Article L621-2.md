@@ -1,13 +1,13 @@
 Article L621-2
 ----
-I. - L'Autorité des marchés financiers comprend un collège, une commission des
+I.-L'Autorité des marchés financiers comprend un collège, une commission des
 sanctions et, le cas échéant, des commissions spécialisées et des commissions
 consultatives.
 
 Sauf disposition contraire, les attributions confiées à l'Autorité des marchés
 financiers sont exercées par le collège.
 
-II. - Le collège est composé de seize membres :
+II.-Le collège est composé de seize membres :
 
 1° Un président, nommé par décret ;
 
@@ -21,23 +21,26 @@ de la Cour des comptes ;
 
 5° Un représentant de la Banque de France désigné par le gouverneur ;
 
-6° Le président de l'Autorité des normes comptables ;
+6° Le président du Conseil national de la comptabilité ;
 
 7° Trois membres désignés, à raison de leur compétence financière et juridique
-ainsi que de leur expérience en matière d'appel public à l'épargne et
-d'investissement de l'épargne dans des instruments financiers, respectivement
+ainsi que de leur expérience en matière d'offre au public de titres financiers,
+d'admission d'instruments financiers aux négociations sur un marché réglementé
+et d'investissement de l'épargne dans des instruments financiers, respectivement
 par le Président du Sénat, le Président de l'Assemblée nationale et le président
 du Conseil économique et social ;
 
 8° Six membres désignés, à raison de leur compétence financière et juridique
-ainsi que de leur expérience en matière d'appel public à l'épargne et
-d'investissement de l'épargne dans des instruments financiers, par le ministre
-chargé de l'économie après consultation des organisations représentatives des
-sociétés industrielles et commerciales dont les titres font l'objet d'appel
-public à l'épargne, des sociétés de gestion d'organismes de placements
-collectifs et des autres investisseurs, des prestataires de services
-d'investissement, des entreprises de marché, des chambres de compensation, des
-gestionnaires de systèmes de règlement livraison et des dépositaires centraux ;
+ainsi que de leur expérience en matière d'offre au public de titres financiers,
+d'admission d'instruments financiers aux négociations sur un marché réglementé
+et d'investissement de l'épargne dans des instruments financiers, par le
+ministre chargé de l'économie après consultation des organisations
+représentatives des sociétés industrielles et commerciales dont les titres font
+l'objet d'offre au public ou d'admission aux négociations sur un marché
+réglementé, des sociétés de gestion d'organismes de placements collectifs et des
+autres investisseurs, des prestataires de services d'investissement, des
+entreprises de marché, des chambres de compensation, des gestionnaires de
+systèmes de règlement livraison et des dépositaires centraux ;
 
 9° Un représentant des salariés actionnaires désigné par le ministre chargé de
 l'économie après consultation des organisations syndicales et des associations
@@ -67,7 +70,7 @@ Selon des modalités définies par décret en Conseil d'Etat, le collège est
 renouvelé par moitié tous les trente mois. La durée du mandat est décomptée à
 partir de la date de la première réunion du collège.
 
-III. - Dans des conditions fixées par décret en Conseil d'Etat, le collège peut
+III.-Dans des conditions fixées par décret en Conseil d'Etat, le collège peut
 donner délégation à des commissions spécialisées constituées en son sein et
 présidées par le président de l'Autorité des marchés financiers pour prendre des
 décisions de portée individuelle.
@@ -75,7 +78,7 @@ décisions de portée individuelle.
 Le collège peut également constituer des commissions consultatives, dans
 lesquelles il nomme, le cas échéant, des experts pour préparer ses décisions.
 
-IV. - L'Autorité des marchés financiers comprend une commission des sanctions
+IV.-L'Autorité des marchés financiers comprend une commission des sanctions
 chargée de prononcer les sanctions mentionnées aux articles L. 621-15 et L.
 621-17.
 
@@ -87,14 +90,16 @@ Cette commission des sanctions comprend douze membres :
 la Cour de cassation ;
 
 3° Six membres désignés, à raison de leur compétence financière et juridique
-ainsi que de leur expérience en matière d'appel public à l'épargne et
-d'investissement de l'épargne dans des instruments financiers, par le ministre
-chargé de l'économie après consultation des organisations représentatives des
-sociétés industrielles et commerciales dont les titres font l'objet d'appel
-public à l'épargne, des sociétés de gestion d'organismes de placements
-collectifs et des autres investisseurs, des prestataires de services
-d'investissement, des entreprises de marché, des chambres de compensation, des
-gestionnaires de systèmes de règlement livraison et des dépositaires centraux ;
+ainsi que de leur expérience en matière d'offre au public de titres financiers,
+d'admission d'instruments financiers aux négociations sur un marché réglementé
+et d'investissement de l'épargne dans des instruments financiers, par le
+ministre chargé de l'économie après consultation des organisations
+représentatives des sociétés industrielles et commerciales dont les titres font
+l'objet d'offre au public ou d'admission aux négociations sur un marché
+réglementé, des sociétés de gestion d'organismes de placements collectifs et des
+autres investisseurs, des prestataires de services d'investissement, des
+entreprises de marché, des chambres de compensation, des gestionnaires de
+systèmes de règlement livraison et des dépositaires centraux ;
 
 4° Deux représentants des salariés des entreprises ou établissements
 prestataires de services d'investissement, des sociétés de gestion d'organismes
@@ -127,7 +132,7 @@ Selon des modalités définies par décret en Conseil d'Etat, la commission des
 sanctions est renouvelée par moitié tous les trente mois. La durée du mandat est
 décomptée à partir de la date de la première réunion de la commission.
 
-V. - Les salariés désignés comme membres de l'Autorité des marchés financiers
+V.-Les salariés désignés comme membres de l'Autorité des marchés financiers
 disposent du temps nécessaire pour assurer la préparation des réunions, et pour
 s'y rendre et y participer. Ce temps est assimilé à du travail effectif pour la
 détermination des droits aux prestations d'assurances sociales. Le salarié

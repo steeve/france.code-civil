@@ -10,9 +10,9 @@ Elle ne délibère valablement que si les actionnaires présents ou représenté
 possèdent au moins, sur première convocation, le quart et, sur deuxième
 convocation, le cinquième des actions ayant le droit de vote. A défaut, la
 deuxième assemblée peut être prorogée à une date postérieure de deux mois au
-plus à celle à laquelle elle avait été convoquée. Dans les sociétés ne faisant
-pas appel public à l'épargne, les statuts peuvent prévoir des quorums plus
-élevés.
+plus à celle à laquelle elle avait été convoquée. Dans les sociétés dont les
+actions ne sont pas admises aux négociations sur un marché réglementé, les
+statuts peuvent prévoir des quorums plus élevés.
 
 Elle statue à la majorité des deux tiers des voix dont disposent les
 actionnaires présents ou représentés.

@@ -43,8 +43,9 @@ marché réglementé ou sur un système multilatéral de négociation qui se sou
 aux dispositions législatives ou réglementaires visant à protéger les
 investisseurs contre les opérations d'initiés, les manipulations de cours et la
 diffusion de fausses informations, ou pour lequel une demande d'admission aux
-négociations sur de tels marchés a été présentée, dans les conditions
-déterminées par le règlement général de l'Autorité des marchés financiers ;
+négociations sur de tels marchés a été présentée a été présentée, dans les
+conditions déterminées par le règlement général de l'Autorité des marchés
+financiers ;
 
 d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se
 livrer à une opération d'initié ou s'est livrée à une manipulation de cours, à

@@ -23,7 +23,8 @@ ayant servi à commettre les faits incriminés ;
 ans au plus ;
 
 6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de
-faire appel public à l'épargne ;
+procéder à une offre au public de titres financiers ou de faire admettre ses
+titres financiers aux négociations sur un marché réglementé ;
 
 7° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques
 autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré

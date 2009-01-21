@@ -16,9 +16,9 @@ apporteurs et des bénéficiaires d'avantages particuliers, mentionnée au
 procès-verbal, la société n'est pas constituée ou l'augmentation de capital
 réalisée.
 
-Toute société civile constituée sans appel public à l'épargne, qui entend
-ultérieurement y faire appel doit faire procéder avant cet appel à la
-vérification de son actif et de son passif, ainsi que le cas échéant des
-avantages consentis conformément aux alinéas qui précèdent.
+Toute société civile de placement immobilier constituée sans offre au public,
+qui entend ultérieurement y recourir, doit faire procéder, avant cette
+opération, à la vérification de son actif et de son passif, ainsi que, le cas
+échéant, des avantages consentis, conformément aux alinéas qui précèdent.
 
 Aucun apport en industrie ne peut être représenté par des parts sociales.

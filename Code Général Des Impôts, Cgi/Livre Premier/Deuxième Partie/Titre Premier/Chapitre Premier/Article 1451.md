@@ -50,11 +50,18 @@ Pour l'appréciation du nombre de salariés, la période de référence à reten
 l'année mentionnée à l'article 1467 A, pour les impositions établies au titre de
 1997 et des années suivantes.
 
-II. A compter de 1992, l'exonération prévue aux 1° et 2° du I est supprimée pour
+II.A compter de 1992, l'exonération prévue aux 1° et 2° du I est supprimée pour
 :
 
 a) Les sociétés coopératives agricoles, leurs unions et les sociétés d'intérêt
-collectif agricole qui font appel public à l'épargne ;
+collectif agricole dont les parts sont admises aux négociations sur un marché
+réglementé ou offertes au public sur un système multilatéral de négociation qui
+se soumet aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations ou dont le capital est détenu à concurrence de
+20 % au moins par des associés non coopérateurs au sens du 1 quinquies de
+l'article 207 et des titulaires de certificats coopératifs d'investissement
+lorsque les statuts prévoient qu'ils peuvent être rémunérés ;
 
 b) Les sociétés d'intérêt collectif agricole dont plus de 50 p. 100 du capital
 ou des voix sont détenus directement ou par l'intermédiaire de filiales par des

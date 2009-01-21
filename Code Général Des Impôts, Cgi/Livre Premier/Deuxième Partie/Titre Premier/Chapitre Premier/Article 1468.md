@@ -1,6 +1,6 @@
 Article 1468
 ----
-I. La base de la taxe professionnelle est réduite (1) :
+I. La base de la taxe professionnelle est réduite :
 
 1° Pour les coopératives et unions de coopératives agricoles et les sociétés
 d'intêrêt collectif agricole, de moitié ;
@@ -8,7 +8,14 @@ d'intêrêt collectif agricole, de moitié ;
 A compter de 1992, cette réduction est supprimée pour :
 
 a) Les sociétés coopératives agricoles, leurs unions et les sociétés d'intérêt
-collectif agricole qui font appel public à l'épargne ;
+collectif agricole dont les parts sont admises aux négociations sur un marché
+réglementé ou offertes au public sur un système multilatéral de négociation qui
+se soumet aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations ou dont le capital est détenu à concurrence de
+20 % au moins par des associés non coopérateurs au sens du 1 quinquies de
+l'article 207 et des titulaires de certificats coopératifs d'investissement
+lorsque les statuts prévoient qu'ils peuvent être rémunérés ;
 
 b) Les sociétés d'intérêt collectif agricole dont plus de 50 % du capital ou des
 voix sont détenus directement ou par l'intermédiaire de filiales par des
@@ -33,8 +40,7 @@ et des cotisations sociales y afférentes.
 
 Pour l'appréciation des conditions relatives au nombre de salariés et au chiffre
 d'affaires, la période de référence à retenir est celle mentionnée à l'article
-1467 A, pour les impositions établies au titre de 1997 et des années suivantes
-(2).
+1467 A, pour les impositions établies au titre de 1997 et des années suivantes.
 
 3° Pour les sociétés coopératives et unions de sociétés coopératives d'artisans,
 les sociétés coopératives et unions de sociétés coopératives de

@@ -1,10 +1,11 @@
 Article L411-1
 ----
-L'appel public à l'épargne est constitué par l'une des opérations suivantes :
+L'offre au public de titres financiers est constituée par l'une des opérations
+suivantes :
 
-1. L'admission d'un instrument financier aux négociations sur un marché
-réglementé ;
+1. Une communication adressée sous quelque forme et par quelque moyen que ce
+soit à des personnes et présentant une information suffisante sur les conditions
+de l'offre et sur les titres à offrir, de manière à mettre un investisseur en
+mesure de décider d'acheter ou de souscrire ces titres financiers ;
 
-2. L'émission ou la cession d'instruments financiers dans le public en ayant
-recours soit à la publicité, soit au démarchage, soit à des établissements de
-crédit ou à des prestataires de services d'investissement.
+2. Un placement de titres financiers par des intermédiaires financiers.

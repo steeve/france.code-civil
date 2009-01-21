@@ -3,7 +3,7 @@ Article L621-18-2
 I-Sont communiqués par les personnes mentionnées aux a à c à l'Autorité des
 marchés financiers, et rendus publics par cette dernière dans le délai déterminé
 par son règlement général, les acquisitions, cessions, souscriptions ou échanges
-d'actions d'une société ainsi que les transactions opérées sur des instruments
+de actions d'une société ainsi que les transactions opérées sur des instruments
 financiers qui leur sont liés, lorsque ces opérations sont réalisées par :
 
 a) Les membres du conseil d'administration, du directoire, du conseil de

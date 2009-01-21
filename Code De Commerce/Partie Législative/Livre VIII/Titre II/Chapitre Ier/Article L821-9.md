@@ -7,7 +7,11 @@ des comptes ou par la Compagnie nationale des commissaires aux comptes ou les
 compagnies régionales.
 
 Lorsque ces contrôles sont relatifs à des commissaires aux comptes nommés auprès
-de personnes faisant appel public à l'épargne ou d'organismes de placements
+de personnes dont les titres financiers sont admis aux négociations sur un
+marché réglementé ou offerts au public sur un système multilatéral de
+négociation qui se soumet aux dispositions législatives ou réglementaires visant
+à protéger les investisseurs contre les opérations d'initiés, les manipulations
+de cours et la diffusion de fausses informations ou d'organismes de placements
 collectifs, ils sont effectués avec le concours de l'Autorité des marchés
 financiers.
 

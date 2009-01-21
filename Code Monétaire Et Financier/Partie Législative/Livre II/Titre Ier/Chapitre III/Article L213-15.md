@@ -5,9 +5,6 @@ l'application des articles L. 612-1 et L. 612-3 du code de commerce, quels que
 soient le nombre de ses salariés, le montant de son chiffre d'affaires ou de ses
 ressources ou le total de son bilan.
 
-Lorsqu'il est fait appel public à l'épargne par une association, les
-dispositions de l'article L. 612-2 du code de commerce lui sont applicables.
-
 L'émission entraîne également l'obligation pour l'association de réunir ses
 membres en assemblée générale au moins une fois par an dans les six mois de la
 clôture de l'exercice en vue notamment de l'approbation des comptes annuels qui

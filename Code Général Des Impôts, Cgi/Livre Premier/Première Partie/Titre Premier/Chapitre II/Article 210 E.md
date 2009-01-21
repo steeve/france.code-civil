@@ -5,17 +5,17 @@ réels mentionnés au sixième alinéa du II de l'article 208 C, de titres de
 sociétés à prépondérance immobilière au sens du a sexies-0 bis du I de l'article
 219 ou de droits afférents à un contrat de crédit-bail portant sur un immeuble
 par une personne morale soumise à l'impôt sur les sociétés dans les conditions
-de droit commun à une société dont les titres donnant obligatoirement accès au
-capital sont admis aux négociations sur un marché réglementé ou offerts au
-public sur un système multilatéral de négociation, à une société civile de
-placement immobilier dont les parts sociales ont été offertes au public, à une
-filiale mentionnée au premier alinéa du II de l'article 208 C, à une société
-mentionnée au III bis du même article ou à une société agréée par l'Autorité des
-marchés financiers et ayant pour objet principal l'acquisition ou la
-construction d'immeubles en vue de la location, ou la détention directe ou
-indirecte de participations dans des personnes morales visées à l'article 8 et
-aux 1, 2 et 3 de l'article 206 dont l'objet social est identique sont soumises à
-l'impôt sur les sociétés au taux visé au IV de l'article 219.
+de droit commun à une société anonyme, une société en commandite par actions,
+une société civile de placement immobilier ou une société de placement à
+prépondérance immobilière à capital variable au moyen de titres donnant
+obligatoirement accès au capital, à une filiale mentionnée au premier alinéa du
+II de l'article 208 C, à une société mentionnée au III bis du même article ou à
+une société agréée par l'Autorité des marchés financiers et ayant pour objet
+principal l'acquisition ou la construction d'immeubles en vue de la location, ou
+la détention directe ou indirecte de participations dans des personnes morales
+visées à l'article 8 et aux 1,2 et 3 de l'article 206 dont l'objet social est
+identique sont soumises à l'impôt sur les sociétés au taux visé au IV de
+l'article 219.
 
 Le premier alinéa est également applicable aux plus-values nettes dégagées lors
 de la cession d'un immeuble ou de droits réels mentionnés au dernier alinéa du

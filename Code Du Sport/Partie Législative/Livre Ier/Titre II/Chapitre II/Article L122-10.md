@@ -6,4 +6,6 @@ objet sportif est affecté à la constitution de réserves qui ne peuvent donner
 lieu à aucune distribution.
 
 Par exception aux dispositions du premier alinéa, les sociétés anonymes à objet
-sportif qui font appel public à l'épargne peuvent distribuer leurs bénéfices.
+sportif peuvent distribuer leurs bénéfices aux actionnaires si des actions de la
+société ont fait l'objet d'une offre au public ou d'une admission aux
+négociations sur un marché réglementé.

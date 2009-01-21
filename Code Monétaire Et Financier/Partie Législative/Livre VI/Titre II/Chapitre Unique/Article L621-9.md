@@ -1,15 +1,20 @@
 Article L621-9
 ----
-I. - Afin d'assurer l'exécution de sa mission, l'Autorité des marchés financiers
+I.-Afin d'assurer l'exécution de sa mission, l'Autorité des marchés financiers
 effectue des contrôles et des enquêtes.
 
-Elle veille à la régularité des opérations effectuées sur des titres faisant
-l'objet d'appel public à l'épargne. Ne sont pas soumis au contrôle de l'Autorité
-des marchés financiers les marchés d'instruments créés en représentation des
-opérations de banque qui, en application de l'article L. 214-4, ne peuvent pas
-être détenus par des organismes de placement collectif en valeurs mobilières.
+Elle veille à la régularité des opérations effectuées sur des instruments
+financiers lorsqu'ils sont offerts au public et sur des instruments financiers
+admis aux négociations sur un marché réglementé ou sur un système multilatéral
+de négociation qui se soumet aux dispositions législatives ou réglementaires
+visant à protéger les investisseurs contre les opérations d'initiés, les
+manipulations de cours et la diffusion de fausses informations. Ne sont pas
+soumis au contrôle de l'Autorité des marchés financiers les marchés
+d'instruments créés en représentation des opérations de banque qui, en
+application de l'article L. 214-4, ne peuvent pas être détenus par des
+organismes de placement collectif en valeurs mobilières.
 
-II. - L'Autorité des marchés financiers veille également au respect des
+II.-L'Autorité des marchés financiers veille également au respect des
 obligations professionnelles auxquelles sont astreintes, en vertu des
 dispositions législatives et réglementaires, les entités ou personnes suivantes
 ainsi que les personnes physiques placées sous leur autorité ou agissant pour
@@ -51,8 +56,8 @@ diffusant des analyses financières ;
 14° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs
-mentionnés aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code
-du travail ;
+mentionnés articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code du
+travail ;
 
 15° Les agents liés mentionnés à l'article L. 545-1.
 

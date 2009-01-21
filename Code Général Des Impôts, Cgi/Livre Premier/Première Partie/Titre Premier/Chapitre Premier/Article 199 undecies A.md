@@ -33,9 +33,8 @@ des immeubles dans les deux ans qui suivent la clôture de chaque souscription
 annuelle. Les souscripteurs doivent s'engager à conserver les parts ou actions
 pendant cinq ans au moins à compter de la date d'achèvement des immeubles ;
 
-d) Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300
-du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées
-à faire publiquement appel à l'épargne, lorsque la société s'engage à affecter
+d) Aux souscriptions au capital de sociétés civiles autorisées à procéder à une
+offre au public de titres financiers, lorsque la société s'engage à affecter
 intégralement le produit de la souscription annuelle, dans les six mois qui
 suivent la clôture de celle-ci, à l'acquisition de logements neufs situés dans
 les départements ou collectivités visés au 1 et affectés pour 90 % au moins de

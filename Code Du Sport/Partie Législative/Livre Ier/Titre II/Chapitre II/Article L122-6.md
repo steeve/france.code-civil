@@ -5,8 +5,8 @@ droits de vote à l'assemblée générale de la société anonyme à objet sport
 qu'elle a créée.
 
 Sauf en cas de succession, de liquidation de communauté de biens entre époux ou
-lorsque la société intéressée fait appel public à l'épargne, l'autorité
-administrative peut s'opposer à toute cession de titres conférant un droit de
-vote ou donnant accès au capital d'une société anonyme à objet sportif dont les
-conditions ou les effets seraient contraires aux dispositions de la présente
-section.
+lorsque les titres de capital de la société intéressée sont négociés sur un
+marché d'instruments financiers, l'autorité administrative peut s'opposer à
+toute cession de titres conférant un droit de vote ou donnant accès au capital
+d'une société anonyme à objet sportif dont les conditions ou les effets seraient
+contraires aux dispositions de la présente section.

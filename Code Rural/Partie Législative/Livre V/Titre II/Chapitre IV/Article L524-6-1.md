@@ -9,5 +9,5 @@ d'administration ou du directoire, des comptes consolidés ainsi qu'un rapport
 sur la gestion du groupe.
 
 Le 2° de l'article L. 233-17 du code de commerce est applicable aux coopératives
-agricoles et à leurs unions, à l'exception de celles qui font appel public à
-l'épargne.
+agricoles et à leurs unions, à l'exception de celles dont les titres financiers
+sont admis aux négociations sur un marché réglementé.

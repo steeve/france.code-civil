@@ -12,8 +12,9 @@ présents ou représentés possèdent au moins, sur première convocation, le ti
 et, sur deuxième convocation, le cinquième des actions ayant le droit de vote et
 dont il est envisagé de modifier les droits.A défaut, la deuxième assemblée peut
 être prorogée à une date postérieure de deux mois au plus à celle à laquelle
-elle avait été convoquée. Dans les sociétés ne faisant pas appel public à
-l'épargne, les statuts peuvent prévoir des quorums plus élevés.
+elle avait été convoquée. Dans les sociétés dont les actions ne sont pas admises
+aux négociations sur un marché réglementé, les statuts peuvent prévoir des
+quorums plus élevés.
 
 Elles statuent dans les conditions prévues au troisième alinéa de l'article L.
 225-96.

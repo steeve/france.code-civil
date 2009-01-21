@@ -11,10 +11,11 @@ Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes
 et un suppléant.
 
 Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui
-n'ont pas la forme commerciale et qui ne font font pas appel public à l'épargne,
-cette obligation peut être satisfaite, dans les conditions définies à l'article
-L. 527-1-1 du code rural, par le recours au service d'une fédération agréée pour
-la révision mentionnée à l'article L. 527-1 du même code.
+n'ont pas la forme commerciale et dont les titres financiers ne sont pas admis
+aux négociations sur un marché réglementé, cette obligation peut être
+satisfaite, dans les conditions définies à l'article L. 527-1-1 du code rural,
+par le recours au service d'une fédération agréée pour la révision mentionnée à
+l'article L. 527-1 du même code.
 
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des
 personnes morales mentionnées au premier alinéa du présent article qui n'auront

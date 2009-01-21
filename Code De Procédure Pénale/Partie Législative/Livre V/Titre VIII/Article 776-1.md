@@ -15,4 +15,5 @@ du commerce et des sociétés à l'occasion des demandes d'inscription audit
 registre ;
 
 4° A l'Autorité des marchés financiers en ce qui concerne les personnes morales
-faisant appel public à l'épargne.
+demandant l'admission de leurs titres financiers aux négociations sur un marché
+réglementé.

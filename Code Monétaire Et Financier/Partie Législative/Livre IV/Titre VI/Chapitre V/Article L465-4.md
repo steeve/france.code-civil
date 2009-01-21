@@ -24,7 +24,7 @@ III.-Est puni des peines mentionnées au I le fait, pour le commissaire aux
 comptes, de ne pas faire figurer dans son rapport les mentions visées au 1° du I
 du présent article. "
 
-" Art.L. 247-2.-I.-Est puni d'une amende de 18 000 euros le fait, pour les
+" Art. L. 247-2.-I.-Est puni d'une amende de 18 000 euros le fait, pour les
 présidents, les administrateurs, les membres du directoire, les gérants ou les
 directeurs généraux des personnes morales, ainsi que pour les personnes
 physiques de s'abstenir de remplir les obligations d'informations auxquelles
@@ -49,5 +49,7 @@ prévues par l'article L. 233-13.
 IV.-Est puni de la même peine le fait, pour le commissaire aux comptes,
 d'omettre dans son rapport les mentions visées au III.
 
-V.-Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont
-engagées après que l'avis de l'Autorité des marchés financiers a été demandé. "
+V.-Pour les sociétés dont les actions sont admises aux négociations sur un
+marché d'instruments financiers mentionné au II de l'article L. 233-7, les
+poursuites sont engagées après que l'avis de l'Autorité des marchés financiers a
+été demandé. "

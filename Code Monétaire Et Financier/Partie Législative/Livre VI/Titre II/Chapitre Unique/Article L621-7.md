@@ -2,21 +2,25 @@ Article L621-7
 ----
 Le règlement général de l'Autorité des marchés financiers détermine notamment :
 
-I. - Les règles de pratique professionnelle qui s'imposent aux émetteurs faisant
-appel public à l'épargne, ainsi que les règles qui doivent être respectées dans
-les opérations sur des instruments financiers placés par appel public à
-l'épargne.
+I.-Les règles de pratique professionnelle qui s'imposent aux émetteurs
+lorsqu'ils procèdent à une offre au public ou dont les instruments financiers
+sont admis aux négociations sur un marché réglementé ainsi que les règles qui
+doivent être respectées lors d'opérations sur des instruments financiers admis
+aux négociations sur un marché réglementé ou sur un système multilatéral de
+négociation qui se soumet aux dispositions législatives ou réglementaires visant
+à protéger les investisseurs contre les opérations d'initiés, les manipulations
+de cours et la diffusion de fausses informations.
 
-II. - Les règles relatives aux offres publiques d'acquisition portant sur des
-instruments financiers émis par appel public à l'épargne.
+II.-Les règles relatives aux offres publiques d'acquisition portant sur des
+titres financiers admis aux négociations sur un marché réglementé.
 
-III. - Les règles de bonne conduite et les autres obligations professionnelles
-que doivent respecter à tout moment les personnes mentionnées au II de l'article
-L. 621-9.
+III.-Les règles de bonne conduite et les autres obligations professionnelles que
+doivent respecter à tout moment les personnes mentionnées au II de l'article L.
+621-9.
 
-IV. - Concernant les prestataires de services d'investissement, les entreprises
-de marché et les membres des marchés réglementés, les chambres de compensation
-et leurs adhérents :
+IV.-Concernant les prestataires de services d'investissement, les entreprises de
+marché et les membres des marchés réglementés, les chambres de compensation et
+leurs adhérents :
 
 1° Les conditions d'exercice, par les prestataires de services d'investissement,
 des services définis à l'article L. 321-2 ;
@@ -38,8 +42,8 @@ l'Autorité des marchés financiers approuve les règles des chambres de
 compensation, sans préjudice des compétences conférées à la Banque de France par
 l'article L. 141-4.
 
-V. - Concernant les activités de gestion pour le compte de tiers et les
-placements collectifs :
+V.-Concernant les activités de gestion pour le compte de tiers et les placements
+collectifs :
 
 1° Les conditions d'agrément et d'exercice de l'activité de sociétés de gestion
 de portefeuille ;
@@ -52,14 +56,15 @@ d'organismes de placements collectifs ;
 4° Les conditions d'exercice de l'activité de dépositaire d'organismes de
 placements collectifs.
 
-VI. - Concernant la conservation et l'administration d'instruments financiers,
-les dépositaires centraux et les systèmes de règlement et de livraison
-d'instruments financiers :
+VI.-Concernant la conservation et l'administration d'instruments financiers, les
+dépositaires centraux et les systèmes de règlement et de livraison d'instruments
+financiers :
 
 1° Les conditions d'exercice des activités de conservation ou d'administration
 d'instruments financiers par les personnes morales qui effectuent des opérations
-par appel public à l'épargne et les intermédiaires habilités à ce titre dans les
-conditions fixées à l'article L. 542-1 ;
+d'offre au public de titres financiers ou d'admission d'instruments financiers
+aux négociations sur un marché réglementé et les intermédiaires habilités à ce
+titre dans les conditions fixées à l'article L. 542-1 ;
 
 2° Les conditions d'habilitation, par l'autorité des marchés financiers, des
 dépositaires centraux ainsi que les conditions dans lesquelles l'Autorité
@@ -71,7 +76,7 @@ lesquelles l'Autorité des marchés financiers approuve les règles de
 fonctionnement de ces systèmes, sans préjudice des compétences conférées à la
 Banque de France par l'article L. 141-4.
 
-VII. - Concernant les marchés réglementés d'instruments financiers, les
+VII.-Concernant les marchés réglementés d'instruments financiers, les
 entreprises de marché et les systèmes multilatéraux de négociation :
 
 1° Les principes généraux d'organisation et de fonctionnement que doivent
@@ -97,8 +102,8 @@ conformément aux dispositions du second alinéa de l'article L. 424-1 ;
 du public concernant les ordres et les transactions sur instruments financiers
 admis sur un marché réglementé.
 
-VIII. - Concernant les personnes, autres que celles mentionnées aux 1° et 7° du
-II de l'article L. 621-9, qui produisent et diffusent des analyses financières :
+VIII.-Concernant les personnes, autres que celles mentionnées aux 1° et 7° du II
+de l'article L. 621-9, qui produisent et diffusent des analyses financières :
 
 1° Les conditions d'exercice de l'activité des personnes visées à l'article L.
 544-1 ;
@@ -109,7 +114,7 @@ diffusent des analyses financières, à titre de profession habituelle, et les
 dispositions propres à assurer leur indépendance d'appréciation et la prévention
 des conflits d'intérêts.
 
-IX. - Les règles relatives aux recommandations d'investissement destinées au
+IX.-Les règles relatives aux recommandations d'investissement destinées au
 public et portant sur tout émetteur dont les instruments financiers sont admis
 aux négociations sur un marché réglementé ou sur un instrument financier qu'il
 émet, lorsqu'elles sont produites ou diffusées par toute personne dans le cadre
@@ -119,8 +124,9 @@ Un décret en Conseil d'Etat précise les cas dans lesquels une information
 financière donnée au public constitue la production ou la diffusion d'une
 recommandation d'investissement telle que mentionnée à l'alinéa précédent.
 
-X. - Les modalités d'exécution, par dépôt ou par diffusion par voie de presse
+X.-Les modalités d'exécution, par dépôt ou par diffusion par voie de presse
 écrite et par voie électronique ou par la mise à disposition gratuite
 d'imprimés, des obligations de publicité et d'information édictées par le
 présent code au titre de la transparence des marchés financiers et dans le cadre
-des opérations par appel public à l'épargne.
+des opérations d'offre au public de titres financiers ou d'admission
+d'instruments financiers aux négociations sur un marché réglementé.

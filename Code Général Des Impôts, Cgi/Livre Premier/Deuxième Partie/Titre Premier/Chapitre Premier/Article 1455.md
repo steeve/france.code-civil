@@ -18,7 +18,11 @@ aux dispositions des articles 35 à 58 de la loi n° 83-657 du 20 juillet 1983
 relative au développement de certaines activités d'économie sociale.
 
 L'exonération prévue ci-dessus n'est pas applicable aux sociétés coopératives
-maritimes qui font appel public à l'épargne ou dont le capital est détenu à
-concurrence de 20 p. 100 au moins par des associés non coopérateurs au sens du 1
-quinquies de l'article 207 et des titulaires de certificats coopératifs
-d'investissement lorsque les statuts prévoient qu'ils peuvent être rémunérés.
+maritimes dont les parts sont admises aux négociations sur un marché réglementé
+ou offertes au public sur un système multilatéral de négociation qui se soumet
+aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations ou dont le capital est détenu à concurrence de
+20 % au moins par des associés non coopérateurs au sens du 1 quinquies de
+l'article 207 et des titulaires de certificats coopératifs d'investissement
+lorsque les statuts prévoient qu'ils peuvent être rémunérés.

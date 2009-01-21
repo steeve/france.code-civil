@@ -1,7 +1,7 @@
 Article L229-11
 ----
-Les statuts d'une société européenne ne faisant pas appel public à l'épargne
-peuvent soumettre tout transfert d'actions à des restrictions à la libre
+Les statuts d'une société européenne qui n'entend pas offrir au public ses
+actions peuvent soumettre tout transfert d'actions à des restrictions à la libre
 négociabilité sans que ces restrictions ne puissent avoir pour effet de rendre
 ces actions inaliénables pour une durée excédant dix ans.
 
