@@ -1,4 +1,6 @@
 Article D354-10
 ----
-Lorsqu'il est constaté de graves irrégularités de la part de l'agriculteur,
-celui-ci est tenu de rembourser l'aide perçue majorée de 30 p. 100.
+Les aides prévues à l'article D. 354-1 du présent code peuvent être accordées
+nonobstant l'existence d'une procédure de règlement amiable ou de redressement
+prévue aux articles L. 351-1 et suivants du code rural ou d'une procédure de
+sauvegarde des entreprises prévue à l'article L. 620-2 du code de commerce.

@@ -1,14 +1,11 @@
 Article D353-4
 ----
-L'indemnité annuelle d'attente est réversible au conjoint survivant du titulaire
-à condition que le mariage soit antérieur au dépôt de la demande par le conjoint
-décédé. Le conjoint survivant ne peut bénéficier de cette indemnité de réversion
-qu'à partir de la date où il a atteint l'âge de cinquante ans. Il ne peut y
-prétendre ou en conserver le bénéfice s'il est ou devient titulaire d'un
-avantage de vieillesse à un titre quelconque ou s'il devient ou redevient
-exploitant agricole ou s'il se remarie.
-
-Lorsque le chef d'exploitation remplissant les conditions mentionnées aux
-articles D. 353-2 et D. 353-3 décède avant d'avoir déposé sa demande, le
-conjoint survivant peut se substituer au de cujus dans l'année qui suit le décès
-pour l'accomplissement de cette demande.
+Lorsque le stage de formation prévu ne bénéficie pas d'un agrément au titre de
+l'article L. 961-3 du code du travail, le revenu d'accompagnement peut être
+servi au bénéficiaire à la condition qu'un organisme collecteur paritaire agréé
+au titre de l'article L. 961-12 du code du travail ait préalablement validé la
+prise en charge de l'action de formation au titre de l'article R. 964-15 du code
+du travail ou que l'organisme collecteur habilité par l'Etat, mentionné au
+quatrième alinéa de l'article L. 953-3 du même code et autorisé par le présent
+décret à financer ces bénéficiaires, ait préalablement validé la prise en charge
+de l'action de formation en application de l'article L. 353-1 du présent code.

@@ -1,5 +1,5 @@
 Article D353-5
 ----
-Le montant de l'indemnité annuelle d'attente ainsi que les modalités de paiement
-sont fixés par arrêté conjoint du ministre de l'agriculture et du ministre
-chargé du budget.
+Les personnes percevant le revenu d'accompagnement bénéficient de la protection
+sociale des stagiaires de la formation professionnelle prévue par le chapitre II
+du titre VI du livre IX du code du travail.

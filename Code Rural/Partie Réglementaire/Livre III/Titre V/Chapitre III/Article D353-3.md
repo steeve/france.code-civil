@@ -1,16 +1,12 @@
 Article D353-3
 ----
-L'indemnité annuelle d'attente peut être accordée au chef d'exploitation qui
-remplit les conditions prévues à l'article D. 353-2 et qui est contraint de
-cesser son activité agricole à la suite d'une des procédures prévues au chapitre
-Ier du présent titre.
+Le revenu d'accompagnement est égal à 75 % du salaire minimum interprofessionnel
+de croissance horaire multiplié par 35 heures par semaine, dans la limite du
+temps et des durées prévus à l'article D. 353-6.
 
-L'indemnité peut également être accordée, après avis de la commission
-départementale d'orientation de l'agriculture , si, en raison de la situation
-économique et financière de l'exploitation, l'intéressé doit cesser son activité
-en se conformant aux conditions fixées à l'article D. 353-2.
+Il est liquidé et payé par le Centre national pour l'aménagement des structures
+des exploitations agricoles et fait l'objet d'une comptabilité séparée.
 
-Cette indemnité n'est pas accordée lorsque le chef d'exploitation peut
-bénéficier des dispositions de la section 2 du chapitre II du présent titre
-concernant la réinsertion professionnelle pour des agriculteurs appelés à cesser
-leur activité agricole.
+Il ne peut être accordé que deux revenus d'accompagnement par exploitation, dans
+la limite de trois exploitations regroupées pour les groupements agricoles
+d'exploitation en commun.

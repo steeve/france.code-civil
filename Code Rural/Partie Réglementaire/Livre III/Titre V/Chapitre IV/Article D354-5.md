@@ -1,8 +1,12 @@
 Article D354-5
 ----
-Un exploitant ne peut bénéficier qu'une seule fois de l'attribution d'une des
-aides prévues à l'article D. 354-3.
+La situation de l'exploitation fait l'objet d'un diagnostic économique et
+financier afin d'évaluer sa pérennité et de définir les moyens à mettre en œuvre
+pour assurer son redressement. Ce diagnostic est réalisé par un expert choisi
+par l'exploitant sur une liste établie par le préfet et doit comporter :
 
-Quels que soient leur régime matrimonial et leurs apports respectifs, des
-conjoints ne peuvent pas bénéficier de l'attribution de plusieurs aides
-mentionnées audit article.
+1° Les éléments permettant d'apprécier la structure financière de l'exploitation
+et les causes de ses difficultés ;
+
+2° Une analyse des conditions qui pourraient permettre le retour à la viabilité
+de l'exploitation.

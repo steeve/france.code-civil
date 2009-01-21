@@ -1,10 +1,22 @@
 Article D354-7
 ----
-Le projet de plan d'adaptation est établi par l'agriculteur et adressé au préfet
-du département dans lequel se situe le siège de l'exploitation.
+A partir du diagnostic mentionné à l'article D. 354-5, si le redressement
+apparaît possible, le préfet peut arrêter un plan de redressement, en accord
+avec les principaux créanciers de l'agriculteur, pour une période de trois à
+cinq ans.
 
-Après avis de la commission départementale d'orientation de l'agriculture, le
-préfet se prononce sur la recevabilité du plan d'adaptation ou de transmission,
-qui peut être assorti de conditions concernant notamment la formation du
-demandeur ou le suivi technique, économique et financier de la réalisation du
-plan.
+Ce plan comporte :
+
+1° Une description des circonstances à l'origine des difficultés de
+l'exploitation issue du diagnostic économique et financier ;
+
+2° Les dispositions économiques et techniques à mettre en œuvre pour améliorer
+la rentabilité et la compétitivité de l'exploitation ;
+
+3° Des engagements de l'exploitant dont la contribution doit être réelle,
+effective et représenter 25 % des coûts de restructuration ;
+
+4° Les aménagements consentis par les principaux créanciers ;
+
+5° Les aides financières de l'Etat et, le cas échéant, des collectivités
+territoriales.
