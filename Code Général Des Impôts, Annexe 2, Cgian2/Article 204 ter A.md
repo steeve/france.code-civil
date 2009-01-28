@@ -8,8 +8,15 @@ l'article 287 du code général des impôts.
 Dans ce cas, elles souscrivent leurs déclarations dans les conditions prévues au
 2 du même article.
 
-2. L'option, exercée pour deux ans, est notifiée par lettre recommandée avec
-demande d'avis de réception un mois avant la fin d'une période d'imposition
-donnant lieu au dépôt de la déclaration prévue par les dispositions du 3 de
-l'article 287 du code général des impôts. Elle prend effet le premier jour du
-mois suivant cette période.
+2.L'option est exercée pour deux ans et notifiée par lettre recommandée avec
+demande d'avis de réception.
+
+Elle prend effet le 1er janvier de l'année en cours si elle est notifiée avant
+la date mentionnée au premier alinéa de l'article 242 sexies. Dans ce cas, la
+première déclaration mentionnée au 2 de l'article 287 du code général des impôts
+est déposée le mois qui suit la notification de l'option et comporte l'ensemble
+des opérations réalisées entre le 1er janvier et la fin du mois au cours duquel
+l'option a été notifiée.
+
+Elle prend effet le 1er janvier de l'année suivante si elle est notifiée après
+la date mentionnée au premier alinéa de l'article 242 sexies.
