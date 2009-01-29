@@ -1,12 +1,12 @@
 Article L520-1
 ----
-I. - Avant la conclusion d'un premier contrat d'assurance, l'intermédiaire
+I.-Avant la conclusion d'un premier contrat d'assurance, l'intermédiaire
 mentionné à l'article L. 511-1 doit fournir au souscripteur éventuel des
 informations relatives notamment à son identité, à son immatriculation et aux
 procédures de recours et de réclamation, ainsi que, le cas échéant, à
 l'existence de liens financiers avec une ou plusieurs entreprises d'assurance.
 
-II. - Avant la conclusion de tout contrat, l'intermédiaire doit :
+II.-Avant la conclusion de tout contrat, l'intermédiaire doit :
 
 1° Donner des indications quant à la fourniture de ce contrat :
 
@@ -35,9 +35,15 @@ Ces précisions, qui reposent en particulier sur les éléments d'information
 communiqués par le souscripteur éventuel, sont adaptées à la complexité du
 contrat d'assurance proposé.
 
-III. - Le souscripteur est, le cas échéant, tenu informé des changements
-affectant l'une des informations mentionnées au I et au 1° du II lors du
-renouvellement ou de la modification du contrat.
+III. ― Avant la conclusion d'un contrat d'assurance individuel comportant des
+valeurs de rachat, d'un contrat de capitalisation, ou avant l'adhésion à un
+contrat mentionné à l'article L. 132-5-3 ou à l'article L. 441-1,
+l'intermédiaire est soumis au respect des dispositions de l'article L. 132-27-1,
+qui se substituent au 2° du II du présent article.
+
+IV.-Le souscripteur est, le cas échéant, tenu informé des changements affectant
+l'une des informations mentionnées au I et au 1° du II lors du renouvellement ou
+de la modification du contrat.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

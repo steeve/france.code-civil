@@ -1,8 +1,8 @@
 Article L441-8
 ----
-Lorsqu'une entreprise d'assurance entend pratiquer des opérations relevant de
-l'article L. 441-1, elle doit, pour ces opérations, tenir des comptabilités
-entièrement distinctes.
+Lorsqu'une entreprise d'assurance pratique des opérations relevant de l'article
+L. 441-1, elle doit, pour chaque convention, tenir une comptabilité auxiliaire
+d'affectation.
 
 L'actif correspondant à ces opérations est affecté au règlement des prestations
 liquidées ou non. Il est grevé à cet effet :
