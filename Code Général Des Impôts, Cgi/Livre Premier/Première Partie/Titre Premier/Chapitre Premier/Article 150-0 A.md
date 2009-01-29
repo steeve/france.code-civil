@@ -3,18 +3,18 @@ Article 150-0 A
 I.-1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
 des articles 150 UB et 150 UC , les gains nets retirés des cessions à titre
-onéreux, effectuées directement ou par personne interposée, de valeurs
-mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et
-aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou
-titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont
-soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par
-foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007 et 25
-000 euros pour l'imposition des revenus de l'année 2008. Pour l'imposition des
-revenus des années ultérieures, ce seuil, arrondi à la dizaine d'euros la plus
-proche, est actualisé chaque année dans la même proportion que la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu de l'année
-précédant celle de la cession et sur la base du seuil retenu au titre de cette
-année.
+onéreux, effectuées directement, par personne interposée ou par l'intermédiaire
+d'une fiducie, de valeurs mobilières, de droits sociaux, de titres mentionnés au
+1° de l'article 118 et aux 6° et 7° de l'article 120, de droits portant sur ces
+valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits
+ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces
+cessions excède, par foyer fiscal, 20 000 euros pour l'imposition des revenus de
+l'année 2007 et 25 000 euros pour l'imposition des revenus de l'année 2008. Pour
+l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
+d'euros la plus proche, est actualisé chaque année dans la même proportion que
+la limite supérieure de la première tranche du barème de l'impôt sur le revenu
+de l'année précédant celle de la cession et sur la base du seuil retenu au titre
+de cette année.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
@@ -207,8 +207,8 @@ l'article 208 ;
 4 ter. Par dérogation aux dispositions de l'article 239 nonies , aux titres
 cédés dans le cadre de leur gestion par les fonds de placement immobilier régis
 par les articles L. 214-89 et suivants du code monétaire et financier,
-lorsqu'une personne physique agissant directement ou par personne interposée
-possède plus de 10 % des parts du fonds.
+lorsqu'une personne physique agissant directement, par personne interposée ou
+par l'intermédiaire d'une fiducie possède plus de 10 % des parts du fonds.
 
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont
 la durée à l'émission est supérieure à cinq ans.
@@ -251,9 +251,9 @@ la société a cessé de remplir les conditions énumérées à l'article 1er-1 
 loi n° 85-695 du 11 juillet 1985 ;
 
 2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
-placement sous réserve qu'aucune personne physique agissant directement ou par
-personne interposée ne possède plus de 10 % des parts du fonds. Cette condition
-ne s'applique pas aux fonds mentionnés au 3.
+placement sous réserve qu'aucune personne physique agissant directement, par
+personne interposée ou par l'intermédiaire d'une fiducie ne possède plus de 10 %
+des parts du fonds. Cette condition ne s'applique pas aux fonds mentionnés au 3.
 
 3. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
 placement, constitués en application des législations sur la participation des

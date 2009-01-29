@@ -29,7 +29,10 @@ l'option prévue au 8° du I de l'article 35 n'était pas ouverte au contribuabl
 ou lorsqu'il ne l'a pas exercée ;
 
 6° Les sommes et indemnités perçues par les arbitres ou juges au titre de la
-mission arbitrale mentionnée à l'article L. 223-1 du code du sport.
+mission arbitrale mentionnée à l'article L. 223-1 du code du sport ;
+
+7° Les sommes perçues par les avocats en qualité de fiduciaire d'une opération
+de fiducie définie à l'article 2011 du code civil.
 
 3. Les bénéfices réalisés par les greffiers titulaires de leur charge sont
 imposés, suivant les règles applicables aux bénéfices des charges et offices,

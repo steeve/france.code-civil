@@ -57,4 +57,8 @@ limite mentionnée au 1 ;
 
 b. Les contribuables qui ne bénéficient pas des dispositions du I (1) de
 l'article 293 B. Cette exclusion prend effet à compter du 1er janvier de l'année
-de leur assujettissement à la taxe sur la valeur ajoutée.
+de leur assujettissement à la taxe sur la valeur ajoutée ;
+
+c. Les contribuables dont tout ou partie des biens affectés à l'exploitation
+sont compris dans un patrimoine fiduciaire en application d'une opération de
+fiducie définie à l'article 2011 du code civil.

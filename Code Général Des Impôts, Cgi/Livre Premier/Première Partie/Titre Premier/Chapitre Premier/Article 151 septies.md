@@ -129,3 +129,7 @@ date de cet achèvement.L'année où commence la location, les recettes y
 afférentes sont, le cas échéant, ramenées à douze mois pour l'appréciation des
 seuils mentionnés aux 2° et 3°. Il en est de même l'année de cessation totale de
 l'activité de location.
+
+VIII.-Les dispositions du présent article ne s'appliquent pas aux transferts de
+biens ou de droits dans un patrimoine fiduciaire effectués dans le cadre d'une
+opération de fiducie définie à l'article 2011 du code civil.

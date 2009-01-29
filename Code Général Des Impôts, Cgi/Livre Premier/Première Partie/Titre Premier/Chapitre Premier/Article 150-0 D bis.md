@@ -1,16 +1,16 @@
 Article 150-0 D bis
 ----
-I. - 1. Les gains nets mentionnés au 1 de l'article 150-0 D et déterminés dans
-les conditions du même article retirés des cessions à titre onéreux d'actions,
-de parts de sociétés ou de droits démembrés portant sur ces actions ou parts
-sont réduits d'un abattement d'un tiers pour chaque année de détention au-delà
-de la cinquième, lorsque les conditions prévues au II sont remplies.
+I.-1. Les gains nets mentionnés au 1 de l'article 150-0 D et déterminés dans les
+conditions du même article retirés des cessions à titre onéreux d'actions, de
+parts de sociétés ou de droits démembrés portant sur ces actions ou parts sont
+réduits d'un abattement d'un tiers pour chaque année de détention au-delà de la
+cinquième, lorsque les conditions prévues au II sont remplies.
 
 2. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la
 cession de titres ou droits mentionnés au 1 du présent I, est réduit de
 l'abattement prévu à ce même 1 et appliqué lors de cette cession.
 
-II. - Le bénéfice de l'abattement prévu au 1 du I est subordonné au respect des
+II.-Le bénéfice de l'abattement prévu au 1 du I est subordonné au respect des
 conditions suivantes :
 
 1° La durée et le caractère continu de la détention des titres ou droits cédés
@@ -32,7 +32,7 @@ autre Etat partie à l'accord sur l'Espace économique européen ayant conclu av
 la France une convention fiscale qui contient une clause d'assistance
 administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
-III. - Les dispositions du I ne s'appliquent pas :
+III.-Les dispositions du I ne s'appliquent pas :
 
 1° aux plus-values mentionnées aux articles 238 bis HK et 238 bis HS et aux
 pertes constatées dans les conditions prévues aux 12 et 13 de l'article 150-0 D
@@ -51,14 +51,14 @@ variable régies par les articles L. 214-89 et suivants du code monétaire et
 financier et des sociétés de même nature établies hors de France et soumises à
 un régime fiscal équivalent.
 
-IV. - En cas de cession de titres ou droits mentionnés au 1 du I appartenant à
-une série de titres ou droits de même nature, acquis ou souscrits à des dates
+IV.-En cas de cession de titres ou droits mentionnés au 1 du I appartenant à une
+série de titres ou droits de même nature, acquis ou souscrits à des dates
 différentes, les titres ou droits cédés sont ceux acquis ou souscrits aux dates
 les plus anciennes.
 
-V. - Pour l'application du 1 du I, la durée de détention est décomptée à partir
-du 1er janvier de l'année d'acquisition ou de souscription des titres ou droits,
-et :
+V.-Pour l'application du 1 du I, la durée de détention est décomptée à partir du
+1er janvier de l'année d'acquisition ou de souscription des titres ou droits, et
+:
 
 1° En cas de cession de titres ou droits effectuée par une personne interposée,
 à partir du 1er janvier 2006 ou, si elle est postérieure, à partir du 1er
@@ -89,6 +89,38 @@ industrielle, artisanale, libérale ou agricole ;
 6° Pour les titres ou droits acquis ou souscrits avant le 1er janvier 2006, à
 partir du 1er janvier 2006 ;
 
-7° En cas de cession de titres ou droits mentionnés au 1 bis de l'article 150-0
-D, à partir du 1er janvier de l'année du transfert des titres ou droits cédés du
-patrimoine fiduciaire aux ayants droit.
+7° (Supprimé)
+
+8° En cas de cession de titres ou droits effectuée par une fiducie :
+
+a) Lorsque les titres ou droits ont été acquis ou souscrits par la fiducie, à
+partir du 1er janvier de l'année d'acquisition ou de souscription de ces titres
+ou droits par la fiducie ;
+
+b) Lorsque les titres ou droits ont été transférés dans le patrimoine fiduciaire
+dans les conditions prévues à l'article 238 quater N, à partir du 1er janvier
+2006 ou à partir du 1er janvier de l'année d'acquisition ou de souscription des
+titres par le constituant, si cette date est postérieure ;
+
+9° En cas de cession de titres ou droits reçus dans les conditions prévues à
+l'article 238 quater Q :
+
+a) Lorsque le cédant est le constituant initial de la fiducie :
+
+-lorsque les titres ou droits ont été transférés par le constituant dans le
+patrimoine fiduciaire dans les conditions de l'article 238 quater N, à partir du
+1er janvier 2006 ou à partir du 1er janvier de l'année d'acquisition ou de
+souscription des titres ou droits par le constituant, si cette date est
+postérieure ;
+
+-lorsque les titres ou droits n'ont pas été transférés dans le patrimoine
+fiduciaire dans les conditions de l'article 238 quater N, à partir du 1er
+janvier de l'année d'acquisition ou de souscription des titres ou droits par la
+fiducie ;
+
+b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir du
+1er janvier de l'année d'acquisition de droits représentatifs des biens ou
+droits du patrimoine fiduciaire si les titres ou droits cédés figuraient dans le
+patrimoine fiduciaire lors de l'acquisition de ces droits, et à partir du 1er
+janvier de l'année d'acquisition ou de souscription des titres ou droits par la
+fiducie dans les autres situations.
