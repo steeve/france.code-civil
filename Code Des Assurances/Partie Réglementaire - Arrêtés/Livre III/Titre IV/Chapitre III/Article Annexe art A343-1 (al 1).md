@@ -345,6 +345,8 @@ Classe 3. - Provisions techniques
 377 Engagements envers les institutions de prévoyance ou relatifs aux fonds de
 placement gérés par l'entreprise.
 
+379 Dotations à la provision pour risque d'exigibilité restant à constater.
+
 38 Provisions des contrats en unités de compte
 
 380 Provisions mathématiques.
@@ -1016,6 +1018,9 @@ Classe 7. - Produits
 751 Récupérations.
 
 752 Utilisation ou reprises de provisions.
+
+753 Variation des dotations à la provision pour risque d'exigibilité restant à
+constater.
 
 76 Produits des placements
 

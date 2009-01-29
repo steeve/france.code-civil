@@ -53,7 +53,7 @@ unités de compte
 
 6 a Créances nées d'opérations d'assurance directe :
 
--6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »
+-6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre
 
 -6 ab Autres créances nées d'opérations d'assurance directe
 
@@ -97,7 +97,7 @@ poste 5 est suivi d'un poste 5 bis, intitulé " Part des organismes dispensés
 d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a "
 Provisions pour primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis
 f " Provisions pour participation aux bénéfices et ristournes, 5 bis g "
-Provisions pour égalisation et 5 bis i " Autres provisions techniques. »
+Provisions pour égalisation et 5 bis i " Autres provisions techniques.
 
 B.-Passif
 
@@ -384,7 +384,7 @@ Net du compte 59.
 
 8 c
 
-482, 4830, 486 » (1), 487 et 489 » (2)
+482, 4830, 486 (1), 487 et 489 (2)
 
 Soldes débiteurs.
 
@@ -438,7 +438,7 @@ COMMENTAIRE
 
 Respectivement 31, 30, 32, 33, 34, 35, 36, 370
 
-et 374 et 377, 372 et 375
+et 374 et 377, 372 et 375, 379
 
 4
 
@@ -500,7 +500,7 @@ Soldes créditeurs.
 
 8
 
-484, 4850, 486 » (1), 487 et 489 » (2)
+484, 4850, 486 (1), 487 et 489 (2)
 
 Soldes créditeurs.
 
@@ -518,8 +518,8 @@ Règles de raccordement des comptes au bilan
 (tableau des engagements reçus et donnés)
 
 Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005,
-annexe 3-10) et 7 » : raccordement aux sous-comptes (arrêté du 15 décembre 2005,
-annexe 3-10) des comptes 80 et 81 ».
+annexe 3-10) et 7 : raccordement aux sous-comptes (arrêté du 15 décembre 2005,
+annexe 3-10) des comptes 80 et 81 .
 
 Commentaires particuliers :
 
@@ -543,8 +543,8 @@ au bilan.
 2 c
 
 Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005,
-annexe 3-10) et au 7 » par lesquelles l'entreprise a pris un engagement
-d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
+annexe 3-10) et au 7 par lesquelles l'entreprise a pris un engagement d'acheter
+ou de vendre un actif, ou de verser un revenu, et notamment :
 
 -les garanties d'acquisition d'immeuble ;
 
