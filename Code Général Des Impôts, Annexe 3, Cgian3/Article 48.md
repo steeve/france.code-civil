@@ -16,8 +16,9 @@ commandités dans la société ;
 3° En ce qui concerne les sociétés en commandite simple, le montant des
 bénéfices distribués aux commanditaires au cours de l'année précédente.
 
-Les gérants des sociétés à responsabilité limitée ayant opté pour le régime
-fiscal des sociétés de personnes sont soumis aux mêmes obligations.
+Les sociétés anonymes, les sociétés par actions simplifiées et les sociétés à
+responsabilité limitée ayant opté pour le régime des sociétés de personnes sont
+soumises aux mêmes obligations.
 
 1 bis (Abrogé).
 
