@@ -1,17 +1,21 @@
 Article R372-16
 ----
-Pour les opérations dans lesquelles le coût du foncier est très important et
-constitue un obstacle à l'implantation de logements à usage locatif, le
-pourcentage prévu à l'article R. 372-15 peut être porté à 32 % dans les
-départements de la Guadeloupe, de la Martinique et de la Réunion et à 36 % pour
-le département de la Guyane.
+Lorsque la construction des logements nécessite des fondations spéciales, liées
+à la nature des sols, la charge foncière supportée par l'opération mentionnée à
+l'article R. 372-15 peut être majorée pour tenir compte d'une partie des
+surcoûts générés par ces fondations. Le coût des fondations spéciales pris en
+compte dans ce cas est limité à un pourcentage du coût de construction, défini
+par arrêté interministériel. Lorsqu'il y a application du présent alinéa, le
+plafond de dépassement visé à l'article R. 372-15 peut être majoré du montant
+pris en compte.
 
-Pour les opérations adaptées aux besoins des ménages qui rencontrent des
-difficultés d'insertion particulières et dans les mêmes conditions qu'au premier
-alinéa, le pourcentage prévu à l'article R. 372-15 peut être porté à 39 % dans
-les départements de la Guadeloupe, de la Martinique et de la Réunion et à 43 %
-pour le département de la Guyane.
+En Guyane, la majoration prévue à l'alinéa précédent du présent article peut
+être utilisée pour compenser les surcoûts de construction des logements aidés
+par l'Etat induits par les frais de transport liés aux contraintes particulières
+dues à l'éloignement et à l'isolement de certaines communes. La majoration de
+subvention qui en résulte ne peut être supérieure à un montant maximum par
+logement de l'opération.
 
-Le montant des subventions pour surcharges foncières peut être versé en une
-seule fois aux bénéficiaires visés à l'article R. 372-3, sur justificatif de
-l'acte d'acquisition.
+Un arrêté conjoint du ministre chargé de l'outre-mer, du ministre chargé de
+l'économie et du ministre chargé du logement fixe les conditions d'application
+du présent article.

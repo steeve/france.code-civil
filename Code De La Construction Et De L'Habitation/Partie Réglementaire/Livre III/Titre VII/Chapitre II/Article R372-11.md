@@ -9,5 +9,6 @@ objectifs sociaux le justifient et lorsqu'une ou plusieurs collectivités
 locales, leurs groupements, les agences d'insertion ou les caisses d'allocations
 familiales apportent une aide complémentaire à l'opération.
 
-Le montant de la majoration de subvention de l'Etat ne peut en aucun cas être
-supérieur à 6 098 euros par logement.
+Le montant de la majoration de subvention de l'Etat ne peut excéder un montant
+fixé par arrêté conjoint du ministre chargé de l'outre-mer, du ministre chargé
+de l'économie et des finances et du ministre chargé du logement.
