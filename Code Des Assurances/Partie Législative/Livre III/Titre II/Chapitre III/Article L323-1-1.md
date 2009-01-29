@@ -5,7 +5,8 @@ contrôle des assurances et des mutuelles en vertu de l'article L. 310-12, ou qu
 ses conditions de fonctionnement sont telles que les intérêts des assurés et
 bénéficiaires des contrats sont compromis ou susceptibles de l'être, l'Autorité
 de contrôle des assurances et des mutuelles prend les mesures d'urgence
-nécessaires à la sauvegarde de l'intérêt des assurés, membres et ayants droit.
+nécessaires à la sauvegarde de l'intérêt des assurés, membres et ayants droit et
+des entreprises réassurées.
 
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 

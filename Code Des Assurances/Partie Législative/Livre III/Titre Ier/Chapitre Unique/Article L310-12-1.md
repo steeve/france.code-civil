@@ -16,7 +16,7 @@ Cour de cassation ;
 de la Cour des comptes ;
 
 6° Quatre membres choisis en raison de leur compétence en matière d'assurance,
-de mutualité et de prévoyance.
+de mutualité, de prévoyance et de réassurance.
 
 Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des
 ministres chargés de l'économie, de la sécurité sociale et de la mutualité. Un

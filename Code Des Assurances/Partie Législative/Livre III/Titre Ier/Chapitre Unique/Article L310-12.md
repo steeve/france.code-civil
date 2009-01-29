@@ -2,17 +2,18 @@ Article L310-12
 ----
 L'Autorité de contrôle des assurances et des mutuelles, autorité publique
 indépendante dotée de la personnalité morale, est chargée de veiller au respect,
-par les entreprises mentionnées aux articles L. 310-1 et au II de L. 310-1-1 du
-présent code, par les mutuelles, unions et fédérations régies par le code de la
-mutualité, par les institutions de prévoyance, unions et groupements régis par
-le titre III du livre IX du code de la sécurité sociale, les institutions de
-retraite supplémentaire régies par le titre IV du livre IX du même code et les
-organismes régis par l'article L. 727-2 du code rural, des dispositions
-législatives et réglementaires qui leur sont applicables, ainsi que des
-engagements contractuels qui les lient aux assurés ou adhérents. Elle veille
-également à ce que les entreprises soumises à son contrôle mettent en œuvre les
-moyens adaptés pour se conformer aux codes de conduite homologués mentionnés à
-l'article L. 310-9.
+par les entreprises mentionnées à l'article L. 310-1, par les mutuelles, unions
+et fédérations régies par le code de la mutualité, par les institutions de
+prévoyance, unions et groupements régis par le titre III du livre IX du code de
+la sécurité sociale, les institutions de retraite supplémentaire régies par le
+titre IV du livre IX du même code et les organismes régis par l'article L. 727-2
+du code rural, des dispositions législatives et réglementaires qui leur sont
+applicables, ainsi que des engagements contractuels qui les lient aux assurés ou
+adhérents. Elle est également chargée de veiller au respect, par les entreprises
+mentionnées au 1° du III de l'article L. 310-1-1, des dispositions législatives
+et réglementaires qui leur sont applicables. Elle s'assure que les entreprises
+soumises à son contrôle mettent en œuvre les moyens adaptés pour se conformer
+aux codes de conduite homologués mentionnés à l'article L. 310-9-1.
 
 L'Autorité s'assure que les entreprises mentionnées aux 1°, 3° et 4° de
 l'article L. 310-2 ainsi que les mutuelles et les institutions mentionnées au
@@ -28,18 +29,18 @@ son contrôle et veille en outre à ce que leurs modalités de constitution et l
 fonctionnement de leurs organes délibérants et organes dirigeants soient
 conformes aux dispositions qui les régissent.
 
-L'Autorité s'assure que tout organisme soumis à son contrôle e n vertu du
-premier alinéa et projetant d'ouvrir une succursale, ou d'exercer pour la
-première fois des activités en libre prestation de services sur le territoire
-d'un autre Etat membre des Communautés européennes, ou de modifier la nature ou
-les conditions d'exercice de ces activités, dispose d'une structure
-administrative et d'une situation financière adéquates au regard de son projet.
-Si elle estime que ces conditions ne sont pas remplies, l'Autorité de contrôle
-ne communique pas à l'autorité de contrôle de cet autre Etat membre les
-documents permettant l'exercice de l'activité envisagée. Un décret en Conseil
-d'Etat fixe les conditions d'application du présent alinéa, notamment les
-modalités du contrôle préalable et les délais dans lesquels l'Autorité doit se
-prononcer.
+L'Autorité s'assure que tout organisme soumis à son contrôle en vertu du premier
+alinéa à l'exception des entreprises mentionnées au 1° du III de l'article L.
+310-1-1 et projetant d'ouvrir une succursale, ou d'exercer pour la première fois
+des activités en libre prestation de services sur le territoire d'un autre Etat
+membre des Communautés européennes, ou de modifier la nature ou les conditions
+d'exercice de ces activités, dispose d'une structure administrative et d'une
+situation financière adéquates au regard de son projet. Si elle estime que ces
+conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à
+l'autorité de contrôle de cet autre Etat membre les documents permettant
+l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les
+conditions d'application du présent alinéa, notamment les modalités du contrôle
+préalable et les délais dans lesquels l'Autorité doit se prononcer.
 
 L'autorité peut soumettre à son contrôle toute personne physique ou morale ayant
 reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de souscription

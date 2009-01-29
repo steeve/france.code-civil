@@ -13,11 +13,12 @@ en tant que de besoin, demander la certification. Elle peut demander la
 certification des retraitements opérés, selon des modalités fixées par voie
 réglementaire, pour le calcul de la marge de solvabilité ajustée des entreprises
 appliquant les normes comptables internationales adoptées par règlement de la
-Commission européenne. Elle peut demander communication des documents à
-caractère contractuel ou publicitaire. Elle peut exiger la modification ou
-décider le retrait de tout document contraire aux dispositions législatives ou
-réglementaires. Dans ce cas, elle statue dans les conditions prévues à l'article
-L. 310-18.
+Commission européenne. Pour les entreprises mentionnées au premier alinéa, elle
+peut exiger la modification ou décider le retrait de tout document contraire aux
+dispositions législatives ou réglementaires, à l'exception des documents à
+caractère contractuel ou publicitaire pour les entreprises mentionnées au 1° du
+III de l'article L. 310-1-1. Dans ce cas, elle statue dans les conditions
+prévues à l'article L. 310-18.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises
 visées à l'article L. 310-1 et au 1° du III de l'article L. 310-1-1 et les

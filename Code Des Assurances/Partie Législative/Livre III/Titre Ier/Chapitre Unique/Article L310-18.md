@@ -51,6 +51,9 @@ Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la
 notification de la décision, former un recours de pleine juridiction devant le
 Conseil d'Etat.
 
-L'autorité de contrôle peut rendre publique sa décision dans les journaux,
+L'Autorité de contrôle peut rendre publique sa décision dans les journaux,
 publications ou supports qu'elle désigne. Les frais sont supportés par la
 personne sanctionnée.
+
+La sanction disciplinaire mentionnée au 6° n'est pas applicable aux entreprises
+mentionnées au 1° du III de l'article L. 310-1-1.
