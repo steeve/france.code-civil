@@ -8,8 +8,8 @@ d'effectuer un paiement en violation des dispositions de l'article L. 622-7 ;
 
 2° Pour toute personne mentionnée à l'article L. 654-1, d'effectuer un paiement
 en violation des modalités de règlement du passif prévues au plan de sauvegarde
-ou au plan de redressement, de faire un acte de disposition sans l'autorisation
-prévue par l'article L. 626-14 ;
+ou au plan de redressement ou de faire un acte de disposition sans
+l'autorisation prévue par l'article L. 626-14 ;
 
 3° Pour toute personne, pendant la période d'observation ou celle d'exécution du
 plan de sauvegarde ou du plan de redressement, en connaissance de la situation

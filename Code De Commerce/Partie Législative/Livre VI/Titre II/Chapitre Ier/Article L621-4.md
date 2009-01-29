@@ -44,8 +44,3 @@ leur sont applicables, un commissaire-priseur judiciaire, un huissier de
 justice, un notaire ou un courtier en marchandises assermenté aux fins de
 réaliser l'inventaire prévu à l'article L. 622-6. Dans le cas contraire,
 l'article L. 622-6-1 est applicable.
-
-Lorsque l'administrateur judiciaire ou le mandataire judiciaire confient à des
-tiers des tâches qui relèvent de la mission confiée par le tribunal, ils les
-rétribuent sur la rémunération perçue en application du décret prévu à l'article
-L. 663-2.

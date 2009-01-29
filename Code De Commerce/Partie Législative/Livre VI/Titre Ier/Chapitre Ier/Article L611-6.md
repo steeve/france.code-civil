@@ -7,8 +7,8 @@ d'un conciliateur.
 
 La procédure de conciliation est ouverte par le président du tribunal, qui
 désigne un conciliateur pour une période n'excédant pas quatre mois mais qu'il
-peut, par une décision motivée, proroger d'un mois au plus tard à la demande de
-ce dernier. Si une demande d'homologation a été formée en application du II de
+peut, par une décision motivée, proroger d'un mois au plus à la demande de ce
+dernier. Si une demande d'homologation a été formée en application du II de
 l'article L. 611-8 avant l'expiration de cette période, la mission du
 conciliateur et la procédure sont prolongées jusqu'à la décision du tribunal.A
 défaut, elles prennent fin de plein droit et une nouvelle conciliation ne peut

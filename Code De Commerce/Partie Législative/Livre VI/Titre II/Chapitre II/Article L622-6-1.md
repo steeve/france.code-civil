@@ -12,7 +12,6 @@ par ce jugement, le juge-commissaire désigne pour y procéder ou les achever un
 commissaire-priseur judiciaire, un huissier de justice, un notaire ou un
 courtier en marchandises assermenté en considération de leurs attributions
 respectives telles qu'elles résultent des dispositions qui leur sont
-applicables. Le délai fixé pour achever les opérations d'inventaire peut être
-prorogé par le juge-commissaire. Il est saisi par l'administrateur, le
-mandataire judiciaire ou le ministère public. Il peut également se saisir
-d'office.
+applicables. Il est saisi par l'administrateur, le mandataire judiciaire ou le
+ministère public. Il peut également se saisir d'office. Le délai fixé pour
+achever les opérations d'inventaire peut être prorogé par le juge-commissaire.
