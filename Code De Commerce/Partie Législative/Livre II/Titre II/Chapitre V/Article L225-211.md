@@ -11,5 +11,6 @@ vendues au cours de l'exercice par application des articles L. 225-208, L.
 225-209 et L. 225-209-1, les cours moyens des achats et des ventes, le montant
 des frais de négociation, le nombre des actions inscrites au nom de la société à
 la clôture de l'exercice et leur valeur évaluée au cours d'achat, ainsi que leur
-valeur nominale, les motifs des acquisitions effectuées et la fraction du
-capital qu'elles représentent.
+valeur nominale pour chacune des finalités, le nombre des actions utilisées, les
+éventuelles réallocations dont elles ont fait l'objet et la fraction du capital
+qu'elles représentent.

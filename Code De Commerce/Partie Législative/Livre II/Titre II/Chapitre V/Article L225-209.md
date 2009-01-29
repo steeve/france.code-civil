@@ -9,26 +9,23 @@ autorisation ne peut être donnée pour une durée supérieure à dix-huit mois.
 comité d'entreprise est informé de la résolution adoptée par l'assemblée
 générale.
 
-Un rapport spécial informe chaque année l'assemblée générale de la réalisation
-des opérations d'achat d'actions qu'elle a autorisées et précise en particulier,
-pour chacune des finalités, le nombre et le prix des actions ainsi acquises, le
-volume des actions utilisées pour ces finalités, ainsi que les éventuelles
-réallocations à d'autres finalités dont elles ont fait l'objet.
+Lorsque les actions sont rachetées pour favoriser la liquidité dans les
+conditions définies par le règlement général de l'Autorité des marchés
+financiers, le nombre d'actions pris en compte pour le calcul de la limite de 10
+% prévue au premier alinéa correspond au nombre d'actions achetées, déduction
+faite du nombre d'actions revendues pendant la durée de l'autorisation.
 
 Le conseil d'administration peut déléguer au directeur général ou, en accord
 avec ce dernier, à un ou plusieurs directeurs généraux délégués, les pouvoirs
-nécessaires pour réaliser cette opération. Le directoire peut déléguer à son
-président ou avec son accord à un ou plusieurs de ses membres les pouvoirs
-nécessaires pour la réaliser. Les personnes désignées rendent compte au conseil
-d'administration ou au directoire de l'utilisation faite de ce pouvoir dans les
-conditions prévues par ces derniers.
+nécessaires pour réaliser l'opération mentionnée au premier alinéa. Le
+directoire peut déléguer à son président ou avec son accord à un ou plusieurs de
+ses membres les pouvoirs nécessaires pour la réaliser. Les personnes désignées
+rendent compte au conseil d'administration ou au directoire de l'utilisation
+faite de ce pouvoir dans les conditions prévues par ces derniers.
 
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par
 tous moyens. Ces actions peuvent être annulées dans la limite de 10 % du capital
-de la société par périodes de vingt-quatre mois. La société informe chaque mois
-l'Autorité des marchés financiers des achats, cessions, transferts et
-annulations ainsi réalisés. L'Autorité des marchés financiers porte cette
-information à la connaissance du public.
+de la société par périodes de vingt-quatre mois.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de
 l'entreprise par l'attribution de leurs propres actions, celles qui attribuent
@@ -37,7 +34,7 @@ leurs actions dans les conditions prévues aux articles L. 225-197-1 à L.
 à des salariés peuvent utiliser à cette fin tout ou partie des actions acquises
 dans les conditions prévues ci-dessus. Elles peuvent également leur proposer
 d'acquérir leurs propres actions dans les conditions prévues par les articles L.
-443-1 et suivants du code du travail.
+3332-1 et suivants du code du travail.
 
 Le nombre d'actions acquises par la société en vue de leur conservation et de
 leur remise ultérieure en paiement ou en échange dans le cadre d'une opération
@@ -54,7 +51,5 @@ décret en Conseil d'Etat.
 
 Les dispositions du présent article sont applicables aux sociétés dont les
 titres ne sont pas admis aux négociations sur un marché réglementé aux fins
-mentionnées aux articles L. 443-1 et suivants du code du travail. Dans ce cas,
-les dispositions du quatrième alinéa du présent article relatives à
-l'information de l'Autorité des marchés financiers et l'article L. 225-212 ne
-sont pas applicables.
+mentionnées aux articles L. 3332-1 et suivants du code du travail. Dans ce cas,
+les dispositions de l'article L. 225-212 ne sont pas applicables.

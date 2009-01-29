@@ -2,8 +2,9 @@ Article L225-212
 ----
 Les sociétés doivent déclarer à l'Autorité des marchés financiers les opérations
 qu'elles envisagent d'effectuer en application des dispositions des articles L.
-225-209 et L. 225-209-1. Elles rendent compte à l'Autorité des marchés
-financiers des acquisitions qu'elles ont effectuées.
+225-209 et L. 225-209-1. Elles rendent compte chaque mois à l'Autorité des
+marchés financiers des acquisitions, cessions, annulations et transferts
+qu'elles ont effectués.
 
 L'Autorité des marchés financiers peut leur demander à ce sujet toutes les
 explications ou les justifications qu'elle juge nécessaires.
