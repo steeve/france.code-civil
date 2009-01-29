@@ -17,9 +17,24 @@ L'information mentionnée à l'alinéa précédent est également donnée dans l
 mêmes délais lorsque la participation en capital ou en droits de vote devient
 inférieure aux seuils mentionnés par cet alinéa.
 
-La personne tenue à l'information prévue au premier alinéa précise le nombre de
-titres qu'elle possède donnant accès à terme au capital ainsi que les droits de
-vote qui y sont attachés.
+La personne tenue à l'information prévue au premier alinéa précise en outre dans
+sa déclaration :
+
+a) Le nombre de titres qu'elle possède donnant accès à terme aux actions à
+émettre et les droits de vote qui y seront attachés ;
+
+b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un
+accord ou d'un instrument financier mentionné à l' article L. 211-1 du code
+monétaire et financier , sans préjudice des dispositions du 4° du I de l'article
+L. 233-9 du présent code. Il en est de même pour les droits de vote que cette
+personne peut acquérir dans les mêmes conditions ;
+
+c) Les actions déjà émises sur lesquelles porte tout accord ou instrument
+financier mentionné à l' article L. 211-1 du code monétaire et financier , réglé
+exclusivement en espèces et ayant pour cette personne un effet économique
+similaire à la possession desdites actions. Il en va de même pour les droits de
+vote sur lesquels porte dans les mêmes conditions tout accord ou instrument
+financier (1).
 
 II.-La personne tenue à l'information mentionnée au I informe également
 l'Autorité des marchés financiers, dans un délai et selon des modalités fixés
@@ -27,11 +42,16 @@ par son règlement général, à compter du franchissement du seuil de
 participation, lorsque les actions de la société sont admises aux négociations
 sur un marché réglementé ou sur un marché d'instruments financiers autre qu'un
 marché réglementé, à la demande de la personne qui gère ce marché d'instruments
-financiers. Cette information est portée à la connaissance du public dans les
-conditions fixées par le règlement général de l'Autorité des marchés financiers.
+financiers. Dans ce dernier cas, l'information peut ne porter que sur une partie
+des seuils mentionnés au I, dans les conditions fixées par le règlement général
+de l'Autorité des marchés financiers. Cette information est portée à la
+connaissance du public dans les conditions fixées par le règlement général de
+l'Autorité des marchés financiers.
 
 Le règlement général précise également les modalités de calcul des seuils de
-participation.
+participation et les conditions dans lesquelles un accord ou instrument
+financier, mentionné au c du I, est considéré comme ayant un effet économique
+similaire à la possession d'actions.
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire
 d'information portant sur la détention de fractions du capital ou des droits de
@@ -50,13 +70,13 @@ terme défini par le règlement général de l'Autorité des marchés financiers
 activité de tenue de compte et de conservation ;
 
 3° Détenues par un prestataire de services d'investissement dans son
-portefeuille de négociation au sens de la directive 93 / 6 / CE du Conseil, du
-15 mars 1993, sur l'adéquation des fonds des entreprises d'investissement de
-crédit à condition que ces actions ne représentent pas une quotité du capital ou
-des droits de vote de l'émetteur de ces titres supérieure à un seuil fixé par le
-règlement général de l'Autorité des marchés financiers et que les droits de vote
-attachés à ces titres ne soient pas exercés ni autrement utilisés pour
-intervenir dans la gestion de l'émetteur ;
+portefeuille de négociation au sens de la directive 2006 / 49 / CE du Parlement
+et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises
+d'investissement et des établissements de crédit à condition que ces actions ne
+représentent pas une quotité du capital ou des droits de vote de l'émetteur de
+ces titres supérieure à un seuil fixé par le règlement général de l'Autorité des
+marchés financiers et que les droits de vote attachés à ces titres ne soient pas
+exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ;
 
 4° Remises aux membres du Système européen de banques centrales ou par ceux-ci
 dans l'exercice de leurs fonctions d'autorités monétaires, dans les conditions
@@ -83,20 +103,32 @@ détenant une fraction du capital ou des droits de vote de la société émettri
 au moins égale à la plus petite fraction du capital dont la détention doit être
 déclarée. Cette fraction ne peut toutefois être supérieure à 5 %.
 
-VII.-Lorsque les actions de la société sont admises aux négociations sur un
+VII. ― Lorsque les actions de la société sont admises aux négociations sur un
 marché réglementé, la personne tenue à l'information prévue au I est tenue de
-déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième
-du capital ou des droits de vote, les objectifs qu'elle a l'intention de
-poursuivre au cours des douze mois à venir. Cette déclaration précise si
+déclarer, à l'occasion des franchissements de seuil du dixième, des trois
+vingtièmes, du cinquième ou du quart du capital ou des droits de vote, les
+objectifs qu'elle a l'intention de poursuivre au cours des six mois à venir.
+
+Cette déclaration précise les modes de financement de l'acquisition, si
 l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de
-les poursuivre, d'acquérir ou non le contrôle de la société, de demander sa
-nomination ou celle d'une ou plusieurs personnes comme administrateur, membre du
-directoire ou du conseil de surveillance. Elle est adressée à la société dont
-les actions ont été acquises et à l'Autorité des marchés financiers dans un
-délai de dix jours de bourse. Cette information est portée à la connaissance du
+les poursuivre, d'acquérir ou non le contrôle de la société, la stratégie qu'il
+envisage vis-à-vis de l'émetteur et les opérations pour la mettre en œuvre ainsi
+que tout accord de cession temporaire ayant pour objet les actions et les droits
+de vote. Elle précise si l'acquéreur envisage de demander sa nomination ou celle
+d'une ou plusieurs personnes comme administrateur, membre du directoire ou du
+conseil de surveillance. Le règlement général de l'Autorité des marchés
+financiers précise le contenu de ces éléments en tenant compte, le cas échéant,
+du niveau de la participation et des caractéristiques de la personne qui procède
+à la déclaration.
+
+Cette déclaration est adressée à la société dont les actions ont été acquises et
+doit parvenir à l'Autorité des marchés financiers dans des délais fixés par
+décret en Conseil d'Etat. Cette information est portée à la connaissance du
 public dans les conditions fixées par le règlement général de l'Autorité des
-marchés financiers. En cas de changement d'intention, lequel ne peut être motivé
-que par des modifications importantes dans l'environnement, la situation ou
-l'actionnariat des personnes concernées, une nouvelle déclaration doit être
-établie, communiquée à la société et à l'Autorité des marchés financiers et
-portée à la connaissance du public dans les mêmes conditions.
+marchés financiers.
+
+En cas de changement d'intention dans le délai de six mois à compter du dépôt de
+cette déclaration, une nouvelle déclaration motivée doit être adressée à la
+société et à l'Autorité des marchés financiers sans délai et portée à la
+connaissance du public dans les mêmes conditions. Cette nouvelle déclaration
+fait courir à nouveau le délai de six mois mentionné au premier alinéa.

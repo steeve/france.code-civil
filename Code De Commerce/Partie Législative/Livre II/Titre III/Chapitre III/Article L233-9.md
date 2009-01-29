@@ -12,9 +12,13 @@ cette personne au sens de l'article L. 233-3 ;
 3° Les actions ou les droits de vote possédés par un tiers avec qui cette
 personne agit de concert ;
 
-4° Les actions ou les droits de vote que cette personne, ou l'une des personnes
-mentionnées aux 1° à 3° est en droit d'acquérir à sa seule initiative en vertu
-d'un accord ;
+4° Les actions déjà émises que cette personne, ou l'une des personnes
+mentionnées aux 1° à 3° est en droit d'acquérir à sa seule initiative,
+immédiatement ou à terme, en vertu d'un accord ou d'un instrument financier
+mentionné à l' article L. 211-1 du code monétaire et financier . Il en va de
+même pour les droits de vote que cette personne peut acquérir dans les mêmes
+conditions. Le règlement général de l'Autorité des marchés financiers précise
+les conditions d'application du présent alinéa ;
 
 5° Les actions dont cette personne a l'usufruit ;
 
@@ -34,11 +38,21 @@ personne tenue à l'information prévue au I de l'article L. 233-7 :
 
 1° Les actions détenues par les organismes de placement collectif en valeurs
 mobilières ou les SICAF gérés par une société de gestion de portefeuille
-contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions
-prévues par le règlement général de l'Autorité des marchés financiers ;
+contrôlée par cette personne au sens de l'article L. 233-3, dans les conditions
+fixées par le règlement général de l'Autorité des marchés financiers sauf
+exceptions prévues par ce même règlement ;
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services
 d'investissement contrôlé par cette personne au sens de l'article L. 233-3, dans
 le cadre du service de gestion de portefeuille pour compte de tiers dans les
 conditions fixées par le règlement général de l'Autorité des marchés financiers,
-sauf exceptions prévues par le même règlement général.
+sauf exceptions prévues par ce même règlement ;
+
+3° Les instruments financiers mentionnés au 4° du I détenus par un prestataire
+de services d'investissement dans son portefeuille de négociation au sens de la
+directive 2006 / 49 / CE du Parlement et du Conseil du 14 juin 2006 sur
+l'adéquation des fonds propres des entreprises d'investissement et des
+établissements de crédit à condition que ces instruments ne donnent pas accès à
+une quotité du capital ou des droits de vote de l'émetteur de ces titres
+supérieure à un seuil fixé par le règlement général de l'Autorité des marchés
+financiers.

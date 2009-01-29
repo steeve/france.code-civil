@@ -1,24 +1,15 @@
 Article L233-14
 ----
-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I
-et II de l'article L. 233-7, les actions excédant la fraction qui aurait dû être
-déclarée, lorsqu'elles sont admises aux négociations sur un marché réglementé
-d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché
-d'instruments financiers admettant aux négociations des actions pouvant être
-inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code
-monétaire et financier, sont privées du droit de vote pour toute assemblée
-d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans
-suivant la date de régularisation de la notification.
+L'actionnaire qui n'aurait pas procédé régulièrement à la déclaration prévue aux
+I et II de l'article L. 233-7 ou au VII de cet article est privé des droits de
+vote attachés aux actions excédant la fraction qui n'a pas été régulièrement
+déclarée pour toute assemblée d'actionnaires qui se tiendrait jusqu'à
+l'expiration d'un délai de deux ans suivant la date de régularisation de la
+notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui
 n'ont pas été régulièrement déclarés ne peuvent être exercés ou délégués par
 l'actionnaire défaillant.
-
-L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de
-l'article L. 233-7 est privé des droits de vote attachés aux titres excédant la
-fraction du dixième ou du cinquième mentionnée au même alinéa pour toute
-assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de
-deux ans suivant la date de régularisation de la notification.
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social
 peut, le ministère public entendu, sur demande du président de la société, d'un
@@ -26,6 +17,6 @@ actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension
 totale ou partielle, pour une durée ne pouvant excéder cinq ans, de ses droits
 de vote à l'encontre de tout actionnaire qui n'aurait pas procédé aux
 déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le
-contenu de la déclaration prévue au VII de cet article pendant la période de
-douze mois suivant sa publication dans les conditions fixées par le règlement
-général de l'Autorité des marchés financiers.
+contenu de la déclaration prévue au VII de cet article pendant la période de six
+mois suivant sa publication dans les conditions fixées par le règlement général
+de l'Autorité des marchés financiers.
