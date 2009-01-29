@@ -8,10 +8,15 @@ provision mathématique du contrat une indemnité de réduction.
 Dans la limite de la valeur de rachat du contrat, l'assureur peut consentir des
 avances au contractant.
 
-L'entreprise d'assurance ou de capitalisation doit, à la demande du contractant,
-verser à celui-ci la valeur de rachat du contrat ou à l'organisme d'assurance
-gestionnaire du plan d'accueil la valeur de transfert du plan d'épargne retraite
-populaire d'origine dans un délai qui ne peut excéder deux mois. Au-delà de ce
-délai, les sommes non versées produisent de plein droit intérêt au taux légal
-majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux
-mois, au double du taux légal.
+En cas de demande de rachat du contrat par le contractant, l'entreprise
+d'assurance ou de capitalisation lui verse la valeur de transfert du contrat
+dans un délai qui ne peut excéder deux mois.
+
+En cas de demande de transfert du contrat par l'adhérent, l'entreprise
+d'assurance verse à l'organisme d'assurance d'accueil la valeur de transfert du
+contrat dans un délai et selon des modalités fixées par décret.
+
+Au-delà des délais mentionnés aux deux alinéas précédents, les sommes non
+versées produisent de plein droit intérêt au taux légal majoré de moitié durant
+deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux
+légal.

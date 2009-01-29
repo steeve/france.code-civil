@@ -2,15 +2,17 @@ Article L932-43
 ----
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux,
 l'institution de prévoyance établit une comptabilité auxiliaire d'affectation
-unique pour l'ensemble des opérations relevant de la présente section et des
-opérations mentionnées à l'article L. 310-12-7 du code des assurances.
+pour les opérations relevant de la présente section et des opérations
+mentionnées à l'article L. 310-12-7 du code des assurances. Cette disposition
+peut s'appliquer individuellement à un contrat selon des conditions fixées par
+décret.
 
-Toutefois, les comptabilités auxiliaires d'affectation relatives à des
-opérations relevant du présent chapitre, mentionnées à l'article L. 932-24 et,
-pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code
-général des impôts, celles mentionnées au VII de l'article L. 144-2 du code des
-assurances, sont établies séparément de la comptabilité auxiliaire d'affectation
-mentionnée à l'alinéa précédent.
+Les comptabilités auxiliaires d'affectation relatives à des opérations relevant
+du présent chapitre, mentionnées à l'article L. 932-24 et, pour les contrats
+relevant du b du 1 du I de l'article 163 quatervicies du code général des
+impôts, celles mentionnées au VII de l'article L. 144-2 du code des assurances,
+sont établies séparément de la comptabilité auxiliaire d'affectation mentionnée
+à l'alinéa précédent.
 
 L'autorité de contrôle instituée à l'article L. 951-1 peut également exiger que
 l'entreprise d'assurance établisse séparément de la comptabilité mentionnée au

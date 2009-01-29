@@ -2,8 +2,7 @@ Article L144-1
 ----
 Les contrats relevant de la présente section sont régis par l'article L. 141-1
 et peuvent être souscrits par une association relevant de l'article L. 141-7
-comportant un nombre de personnes supérieur à un seuil fixé par décret en
-Conseil d'Etat et auxquels adhèrent :
+auxquels adhèrent :
 
 1° Soit exclusivement des personnes exerçant une activité professionnelle non
 salariée non agricole ou ayant exercé une telle activité et bénéficiant à ce

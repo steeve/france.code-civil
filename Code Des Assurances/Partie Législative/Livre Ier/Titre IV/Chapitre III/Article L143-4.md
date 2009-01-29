@@ -1,16 +1,17 @@
 Article L143-4
 ----
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux,
-l'entreprise d'assurance établit une comptabilité auxiliaire d'affectation
-unique pour l'ensemble des opérations relevant du présent chapitre et des
-opérations mentionnées à l'article L. 310-12-7.
+l'entreprise d'assurance établit une comptabilité auxiliaire d'affectation pour
+les opérations relevant du présent chapitre et des opérations mentionnées à
+l'article L. 310-12-7. Cette disposition peut s'appliquer individuellement à un
+contrat selon des conditions fixées par décret.
 
-Toutefois, les comptabilités auxiliaires d'affectation relatives à des
-opérations relevant du présent chapitre, mentionnées aux articles L. 441-8, L.
-142-2 et, pour les contrats relevant du b du 1 du I de l'article 163
-quatervicies du code général des impôts, celles mentionnées au VII de l'article
-L. 144-2, sont établies séparément de la comptabilité auxiliaire d'affectation
-mentionnée à l'alinéa précédent.
+Les comptabilités auxiliaires d'affectation relatives à des opérations relevant
+du présent chapitre, mentionnées aux articles L. 441-8, L. 142-2 et, pour les
+contrats relevant du b du 1 du I de l'article 163 quatervicies du code général
+des impôts, celles mentionnées au VII de l'article L. 144-2, sont établies
+séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa
+précédent.
 
 L'autorité de contrôle instituée à l'article L. 310-12 peut également exiger que
 l'entreprise d'assurance établisse séparément de la comptabilité mentionnée au

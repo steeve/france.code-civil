@@ -1,5 +1,9 @@
 Article L310-9-1
 ----
-Les dispositions de l'article L. 310-9 ne s'appliquent pas aux entreprises qui
-ne font pas l'objet des agréments prévus aux articles L. 321-1, L. 321-7 et L.
-321-9 ou qui n'ont pas obtenu l'autorisation prévue à l'article L. 321-1-1.
+Le ministre chargé de l'économie peut après avis du comité consultatif de la
+législation et de la réglementation financières et à la demande d'un ou
+plusieurs organismes professionnels représentatifs mentionnés à l'article L.
+132-9-2 homologuer par arrêté les codes de conduite que ces organismes ont
+élaborés en matière de commercialisation de contrats d'assurance individuels
+comportant des valeurs de rachat, de contrats de capitalisation et de contrats
+mentionnés à l'article L. 132-5-3 et à l'article L. 441-1.

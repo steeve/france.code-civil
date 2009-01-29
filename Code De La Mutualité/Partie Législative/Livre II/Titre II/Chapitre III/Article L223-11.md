@@ -9,9 +9,9 @@ peut exercer sa faculté de rachat et la mutuelle ou l'union ne peut lui
 consentir d'avance sans l'accord du bénéficiaire. Tant que l'acceptation n'a pas
 eu lieu, le droit de révoquer cette stipulation n'appartient qu'au stipulant et
 ne peut être exercé de son vivant ni par ses créanciers ni par ses représentants
-légaux. Lorsqu'une curatelle ou une tutelle a été ouverte à l'égard du
-stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des
-tutelles ou du conseil de famille s'il a été constitué.
+légaux. Lorsqu'une tutelle a été ouverte à l'égard du stipulant, la révocation
+ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de
+famille s'il a été constitué.
 
 Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses
 héritiers qu'après l'exigibilité de la somme assurée et au plus tôt trois mois
