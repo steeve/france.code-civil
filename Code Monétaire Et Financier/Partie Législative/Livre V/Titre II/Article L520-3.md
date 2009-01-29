@@ -1,24 +1,33 @@
 Article L520-3
 ----
-Si un changeur manuel a enfreint une disposition du présent titre ou du titre VI
-du présent livre ou des textes réglementaires pris pour son application, la
-commission bancaire peut prononcer l'une des sanctions disciplinaires suivantes
-:
+I. - Avant d'exercer leur activité, les changeurs manuels obtiennent une
+autorisation délivrée par le comité des établissements de crédit et des
+entreprises d'investissement qui vérifie si l'entreprise satisfait aux
+obligations suivantes :
 
-1. L'avertissement ;
+a) Elle est inscrite au registre du commerce et des sociétés ;
 
-2. Le blâme ;
+b) Elle justifie soit d'un capital libéré, soit d'une caution d'un établissement
+de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une
+somme fixée par un arrêté du ministre chargé de l'économie ;
 
-3. L'interdiction d'exercer la profession de changeur manuel. La Commission
-bancaire peut, en outre, interdire aux dirigeants de droit ou de fait des
-personnes morales mentionnées à l'article L. 520-1 d'exercer, directement ou
-indirectement, l'activité de change manuel définie au même article.
+c) Ses dirigeants et ses bénéficiaires effectifs justifient qu'ils possèdent
+l'honorabilité et la compétence nécessaires, dans des conditions définies par
+décret et selon des modalités fixées par un arrêté du ministre chargé de
+l'économie.
 
-En outre, la commission bancaire peut prononcer soit à la place, soit en sus de
-ces sanctions, une sanction pécuniaire au plus égale à un million d'euros.
-Lorsque le changeur manuel est une personne morale, la Commission bancaire peut
-décider que ses dirigeants de droit ou de fait seront tenus solidairement au
-paiement de la sanction pécuniaire prononcée.
+II. - Toute modification affectant le respect par un changeur manuel des
+obligations prévues au I doit faire l'objet, selon le cas, d'une autorisation
+préalable du comité des établissements de crédit et des entreprises
+d'investissement, d'une déclaration ou d'une notification, dans les conditions
+fixées par un arrêté du ministre chargé de l'économie.
 
-Les sommes correspondantes sont recouvrées par le Trésor public et versées au
-budget de l'Etat.
+III. - Le comité des établissements de crédit et des entreprises
+d'investissement peut retirer l'autorisation dont est titulaire un changeur
+manuel, soit à la demande de l'établissement, soit d'office, lorsque le changeur
+manuel n'a pas fait usage de cette autorisation dans un délai de douze mois ou
+n'exerce plus son activité depuis au moins six mois.
+
+IV. - Le comité des établissements de crédit et des entreprises d'investissement
+publie la liste des changeurs manuels selon des modalités définies par arrêté du
+ministre chargé de l'économie.

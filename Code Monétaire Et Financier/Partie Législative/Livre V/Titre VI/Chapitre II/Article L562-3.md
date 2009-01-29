@@ -1,6 +1,5 @@
 Article L562-3
 ----
-Toute information de nature à modifier l'appréciation portée par l'organisme
-financier ou la personne visée à l'article L. 562-1 lors de la déclaration
-prévue à l'article L. 562-2 doit être immédiatement portée à la connaissance du
-service institué à l'article L. 562-4.
+Les personnes mentionnées à l'article L. 561-2 qui détiennent ou reçoivent des
+fonds, instruments financiers et ressources économiques sont tenues d'appliquer
+les mesures de gel ou d'interdiction prises en vertu du présent chapitre.

@@ -1,20 +1,18 @@
 Article L562-4
 ----
-Un service, placé sous l'autorité du ministre chargé de l'économie, reçoit la
-déclaration prévue à l'article L. 562-2. Ce service est composé d'agents publics
-de l'Etat spécialement habilités par le ministre, dans les conditions fixées par
-décret en Conseil d'Etat. Ce service recueille et rassemble tous renseignements
-propres à établir l'origine des sommes ou la nature des opérations ayant fait
-l'objet d'une déclaration mentionnée à l'article L. 562-2, de l'examen
-particulier prévu à l'article L. 563-3 ou d'une information mentionnée à
-l'article L. 563-5. Dès que les informations recueillies mettent en évidence des
-faits susceptibles de relever du trafic de stupéfiants ou d'activités
-criminelles organisées ou du financement du terrorisme, il en réfère au
-procureur de la République en lui précisant, le cas échéant, que
-l'administration des douanes a été saisie en vue de procéder à des
-investigations pour la recherche et la constatation de l'infraction prévue à
-l'article 415 du code des douanes.
+Pour l'application du présent chapitre, on entend par fonds, instruments
+financiers et ressources économiques les avoirs de toute nature, corporels ou
+incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et
+les documents ou instruments légaux sous quelque forme que ce soit, y compris
+sous forme électronique ou numérique, qui prouvent un droit de propriété ou un
+intérêt ou un contrôle sur ces avoirs, incluant, notamment, les crédits
+bancaires, les chèques de voyage, les chèques bancaires, les mandats, les
+actions, les titres, les obligations, les traites et les lettres de crédit.
 
-Le procureur de la République transmet au service mentionné ci-dessus toutes les
-décisions définitives prononcées dans les affaires ayant fait l'objet d'une
-déclaration de soupçon, en application du présent titre.
+Pour l'application du présent chapitre, le gel des fonds, instruments financiers
+et ressources économiques détenus auprès des personnes mentionnées à l'article
+L. 561-2 s'entend comme toute action visant à empêcher tout mouvement, transfert
+ou utilisation de fonds, instruments financiers et ressources économiques qui
+aurait pour conséquence un changement de leur montant, de leur localisation, de
+leur propriété ou de leur nature, ou toute autre modification qui pourrait en
+permettre l'utilisation par les personnes faisant l'objet de la mesure de gel.

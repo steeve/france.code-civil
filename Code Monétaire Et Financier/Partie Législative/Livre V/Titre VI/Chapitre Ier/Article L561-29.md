@@ -1,0 +1,33 @@
+Article L561-29
+----
+I.-Sous réserve de l'application de l'article 40 du code de procédure pénale,
+les informations détenues par le service mentionné à l'article L. 561-23 ne
+peuvent être utilisées à d'autres fins que celles prévues au présent chapitre.
+
+Leur divulgation est interdite, sans qu'il soit fait obstacle cependant à
+l'application des dispositions de l'article 44 de la loi n° 78-17 du 6 janvier
+1978 mentionnée ci-dessus.
+
+II.-Toutefois, sous réserve qu'elles soient en relation avec les faits
+mentionnés au I de l'article L. 561-15, le service est autorisé à communiquer
+des informations qu'il détient à l'administration des douanes et aux services de
+police judiciaire.
+
+Il peut également transmettre aux services de renseignement spécialisés des
+informations relatives à des faits qui sont susceptibles de révéler une menace
+contre les intérêts fondamentaux de la nation en matière de sécurité publique et
+de sûreté de l'Etat.
+
+Il peut aussi transmettre à l'administration fiscale, qui peut les utiliser pour
+l'exercice de ses missions, des informations sur des faits susceptibles de
+relever de l'infraction définie à l'article 1741 du code général des impôts ou
+du blanchiment du produit de cette infraction. Dans ce dernier cas, le ministre
+chargé du budget les transmet au procureur de la République sur avis conforme de
+la commission des infractions fiscales rendu dans les conditions prévues à
+l'article L. 228 A du livre des procédures fiscales.
+
+Lorsque, après la transmission d'une note d'information au procureur de la
+République en application du dernier alinéa de l'article L. 561-23 II,
+l'infraction sous-jacente à l'infraction de blanchiment se révèle celle de
+l'article 1741 du code général des impôts, l'avis de la commission visée à
+l'article L. 228 A du livre des procédures fiscales n'a pas à être sollicité.

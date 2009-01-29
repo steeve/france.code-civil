@@ -1,23 +1,12 @@
 Article L520-2
 ----
-Pour l'application du présent titre :
+I.-Par dérogation à l'interdiction édictée à l'article L. 511-5, les changeurs
+manuels peuvent remettre des euros en espèces en contrepartie de chèques de
+voyage libellés en euros.
 
-Le ministre chargé de l'économie peut, par voie d'arrêté, soumettre les
-changeurs manuels à des règles particulières.
-
-La commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels
-dans les conditions prévues à l'article L. 520-3.
-
-Le secrétariat général de la commission bancaire exerce le contrôle, notamment
-sur place, des changeurs manuels dans les conditions prévues aux articles L.
-613-6 à L. 613-8, L. 613-10 et L. 613-11. Les agents chargés du contrôle sur
-place peuvent procéder au contrôle de caisse.
-
-Les agents des douanes ayant au moins le grade de contrôleur peuvent également
-exercer, pour le compte de la commission bancaire, le contrôle sur place des
-changeurs manuels dans les conditions prévues à l'article L. 520-4.
-
-Nonobstant toute disposition législative contraire, la commission bancaire et
-l'administration des douanes peuvent, pour l'application des dispositions du
-présent titre et du titre VI du présent livre, se communiquer les informations
-nécessaires.
+II.-Les personnes exerçant l'activité de change manuel à titre occasionnel ou
+pour des montants limités dans les conditions prévues au dernier alinéa de
+l'article L. 520-1 sont tenues d'adresser à la Commission bancaire une
+déclaration par laquelle elles certifient qu'elles respectent ces conditions.
+Les modalités et la périodicité de cette déclaration sont fixées par un arrêté
+du ministre chargé de l'économie.

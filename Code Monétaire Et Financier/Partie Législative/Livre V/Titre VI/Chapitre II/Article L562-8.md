@@ -1,26 +1,16 @@
 Article L562-8
 ----
-Pour les sommes ou les opérations ayant fait l'objet de la déclaration
-mentionnée à l'article L. 562-2, aucune poursuite fondée sur les articles 226-13
-et 226-14 du code pénal ne peut être intentée contre les dirigeants et les
-préposés de l'organisme financier ou contre les autres personnes visés à
-l'article L. 562-1 qui, de bonne foi, ont effectué cette déclaration.
+Le secret bancaire ou professionnel ne fait pas obstacle à l'échange
+d'informations entre les personnes mentionnées à l'article L. 561-2 et les
+services de l'Etat chargés de mettre en œuvre une mesure de gel ou
+d'interdiction de mouvement ou de transfert des fonds, des instruments
+financiers et des ressources économiques lorsque ces informations peuvent
+permettre de vérifier l'identité des personnes concernées directement ou
+indirectement par cette mesure. Les informations fournies ou échangées ne
+peuvent être utilisées qu'à ces fins.
 
-Aucune action en responsabilité civile ne peut être intentée ni aucune sanction
-professionnelle prononcée contre un organisme financier, ses dirigeants ou ses
-préposés ou contre une autre personne visés à l'article L. 562-1 qui ont fait de
-bonne foi la déclaration mentionnée à l'article L. 562-2. En cas de préjudice
-résultant directement d'une telle déclaration, l'Etat répond du dommage subi.
-
-Les dispositions du présent article s'appliquent même si la preuve du caractère
-délictueux des faits à l'origine de la déclaration n'est pas rapportée ou si ces
-faits ont fait l'objet d'une décision de non-lieu, de relaxe ou d'acquittement.
-
-Lorsque l'opération a été exécutée comme il est prévu à l'article L. 562-5 et
-sauf concertation frauduleuse avec le propriétaire des sommes ou l'auteur de
-l'opération, l'organisme financier est dégagé de toute responsabilité, et aucune
-poursuite pénale ne peut être engagée de ce fait contre ses dirigeants ou ses
-préposés par application des articles 222-34 à 222-41, 321-1, 321-2, 321-3 et
-324-1 du code pénal ou de l'article 415 du code des douanes. Les autres
-personnes visées à l'article L. 562-1 sont également dégagées de toutes
-responsabilités.
+Les services de l'Etat chargés de mettre en œuvre une mesure de gel ou
+d'interdiction de mouvement ou de transfert des fonds, des instruments
+financiers et ressources économiques et les autorités d'agrément et de contrôle
+des personnes mentionnées à l'article L. 561-2 sont autorisés à échanger les
+informations nécessaires à l'exercice de leurs missions respectives.

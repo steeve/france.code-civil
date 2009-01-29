@@ -1,18 +1,17 @@
 Article L563-2
 ----
-Les dispositions de l'article L. 563-1 s'appliquent aux bons et titres
-mentionnés à l'article 990 A du code général des impôts.
+Le ministre chargé des finances et le ministre de l'intérieur peuvent décider
+d'interdire, pour une durée de six mois renouvelable, tout mouvement ou
+transfert de fonds en provenance des personnes physiques ou morales qui
+organisent des activités de jeux, paris ou loteries prohibés par la loi du 21
+mai 1836 portant prohibition des loteries et la loi du 2 juin 1891 ayant pour
+objet de réglementer l'autorisation et le fonctionnement des courses de chevaux,
+ainsi que la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard.
 
-Le régime fiscal de ces bons et titres est maintenu.
+Les ministres lèvent l'interdiction mentionnée au premier alinéa sur demande des
+personnes concernées par celle-ci lorsque les mouvements ou transferts de fonds
+sont réalisés dans le cadre d'opérations non prohibées sur le territoire
+français.
 
-Les dispositions du deuxième alinéa de l'article 537 du code général des impôts
-ne font pas obstacle à l'application de l'article L. 563-1. Toutefois les
-informations mentionnées à cet article sont portées sur un registre distinct du
-registre institué par l'article 537 du code général des impôts. Dès lors que le
-client n'a pas autorisé l'organisme financier à communiquer son identité et son
-domicile fiscal à l'administration fiscale, le droit de communication prévu aux
-articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales ne
-s'applique ni au registre ainsi institué par le présent article ni aux documents
-justificatifs mentionnés au premier alinéa de l'article L. 563-1 établis à
-raison des transactions sur les bons, titres et valeurs mentionnés à l'article
-990 A et au deuxième alinéa de l'article 537 du code général des impôts.
+Les décisions des ministres arrêtées en application du présent article sont
+publiées au Journal officiel.

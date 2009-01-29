@@ -23,7 +23,14 @@ en France ;
 Communauté européenne ou parties à l'accord sur l'Espace économique européen
 afin de faciliter l'application de la directive 2005 / 36 / CE du Parlement
 européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des
-qualifications professionnelles.
+qualifications professionnelles ;
+
+5° De vérifier le respect par les sociétés de ventes volontaires de meubles aux
+enchères publiques de leurs obligations prévues par le chapitre Ier du titre VI
+du livre V du code monétaire et financier en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme en se faisant
+communiquer, dans des conditions fixées par décret pris en Conseil d'Etat, les
+documents relatifs au respect de ces obligations.
 
 La décision du Conseil des ventes volontaires de meubles aux enchères publiques
 qui refuse ou retire l'agrément d'une société ou d'un expert doit être motivée.
