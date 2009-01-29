@@ -26,6 +26,5 @@ Les conditions d'application de cette dérogation sont fixées par arrêté conj
 des ministres chargés de 1'économie et de la sécurité sociale.
 
 Les actifs que le Fonds de réserve pour les retraites est autorisé à détenir ou
-à utiliser sont les instruments financiers énumérés au II de l'article L. 211-1
-du code monétaire et financier et les droits représentatifs d'un placement
-financier.
+à utiliser sont les instruments financiers énumérés à l'article L. 211-1 du code
+monétaire et financier et les droits représentatifs d'un placement financier.

@@ -12,10 +12,9 @@ postérieurement inscrits au crédit du compte nanti, en garantie de la créance
 initiale du créancier nanti, sont soumis aux mêmes conditions que ceux y
 figurant initialement et sont considérés comme ayant été remis à la date de
 déclaration de nantissement initiale. Le créancier nanti peut obtenir, sur
-simple demande au teneur de compte, une attestation de nantissement de compte
-d'instruments financiers, comportant inventaire des titres financiers et sommes
-en toute monnaie inscrits en compte nanti à la date de délivrance de cette
-attestation.
+simple demande au teneur de compte, une attestation de nantissement de
+compte-titres, comportant inventaire des titres financiers et sommes en toute
+monnaie inscrits en compte nanti à la date de délivrance de cette attestation.
 
 II. ― Le compte nanti prend la forme d'un compte spécial ouvert au nom du
 titulaire et tenu par un intermédiaire mentionné à l'article L. 211-3, un

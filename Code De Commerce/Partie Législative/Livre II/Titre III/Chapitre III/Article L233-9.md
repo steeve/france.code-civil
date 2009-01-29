@@ -1,6 +1,6 @@
 Article L233-9
 ----
-I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne
+I.-Sont assimilés aux actions ou aux droits de vote possédés par la personne
 tenue à l'information prévue au I de l'article L. 233-7 :
 
 1° Les actions ou les droits de vote possédés par d'autres personnes pour le
@@ -29,13 +29,13 @@ l'absence d'instructions spécifiques des actionnaires ;
 8° Les droits de vote que cette personne peut exercer librement en vertu d'une
 procuration en l'absence d'instructions spécifiques des actionnaires concernés.
 
-II. - Ne sont pas assimilées aux actions ou aux droits de vote possédés par la
+II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la
 personne tenue à l'information prévue au I de l'article L. 233-7 :
 
 1° Les actions détenues par les organismes de placement collectif en valeurs
-mobilières gérés par une société de gestion de portefeuille contrôlée par cette
-personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement
-général de l'Autorité des marchés financiers ;
+mobilières ou les SICAF gérés par une société de gestion de portefeuille
+contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions
+prévues par le règlement général de l'Autorité des marchés financiers ;
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services
 d'investissement contrôlé par cette personne au sens de l'article L. 233-3, dans

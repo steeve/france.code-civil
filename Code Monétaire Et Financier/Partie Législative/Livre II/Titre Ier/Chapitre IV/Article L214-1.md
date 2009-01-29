@@ -6,11 +6,13 @@ I.-Les organismes de placements collectifs sont :
 
 2. Les organismes de titrisation ;
 
-3. Les sociétés civiles de placement immobilier.
+3. Les sociétés civiles de placement immobilier ;
 
-4. Les sociétés d'épargne forestière.
+4. Les sociétés d'épargne forestière ;
 
-5. Les organismes de placement collectif immobilier.
+5. Les organismes de placement collectif immobilier ;
+
+6. Les sociétés d'investissement à capital fixe.
 
 II.- Tout organisme de placement collectif ou fonds d'investissement constitué
 sur le fondement d'un droit étranger autre que de type fermé doit, préalablement
