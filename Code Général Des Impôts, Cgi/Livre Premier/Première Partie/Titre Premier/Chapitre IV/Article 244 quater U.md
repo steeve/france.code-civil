@@ -85,7 +85,11 @@ présent 5.
 6. Il ne peut être accordé qu'une seule avance remboursable par logement.
 
 7. Les dépenses de travaux financées par une avance remboursable ne peuvent
-ouvrir droit au crédit d'impôt de l'article 200 quater.
+ouvrir droit au crédit d'impôt de l'article 200 quater. Cette disposition ne
+s'applique pas aux bénéficiaires d'une avance émise avant le 1er janvier 2011
+lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article
+1417 n'excède pas 45 000 € l'avant-dernière année précédant celle de l'offre de
+l'avance.
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre
 les mensualités dues au titre de l'avance remboursable sans intérêt et les

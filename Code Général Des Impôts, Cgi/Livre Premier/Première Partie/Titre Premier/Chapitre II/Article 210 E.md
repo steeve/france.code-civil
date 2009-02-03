@@ -15,20 +15,31 @@ personnes morales visées à l'article 8 et aux 1, 2 et 3 de l'article 206 dont
 l'objet social est identique sont soumises à l'impôt sur les sociétés au taux
 visé au IV de l'article 219.
 
-II.-L'application de ces dispositions est subordonnée à la condition que la
-société cessionnaire prenne l'engagement de conserver pendant cinq ans
-l'immeuble, les titres ou les droits mentionnés au I. Lorsque la société
-cessionnaire est une filiale mentionnée au premier alinéa du II de l'article 208
-C ou une société mentionnée au III bis du même article, elle doit être placée
-sous le régime prévu au II de cet article pendant une durée minimale de cinq ans
-à compter de l'exercice d'acquisition. Pour l'application de ces dispositions,
-cette filiale est réputée être restée placée sous le régime prévu au II de
-l'article 208 C dès lors que la ou les sociétés d'investissements immobiliers
-cotées qui la détiennent directement ou indirectement ne sont pas sorties du
-régime au sens du IV du même article.
+Le premier alinéa est également applicable aux plus-values nettes dégagées lors
+de la cession d'un immeuble ou de droits réels mentionnés au dernier alinéa du
+II de l'article 208 C à une entreprise effectuant des opérations visées au 2 de
+l'article L. 313-7 du code monétaire et financier qui concède immédiatement la
+jouissance de l'immeuble ou du droit réel par un contrat de crédit-bail à une
+société mentionnée parmi les sociétés cessionnaires visées au premier alinéa du
+présent I, et à la condition que le contrat de crédit-bail fasse l'objet d'une
+publication si cette formalité est obligatoire en application de l'article 28 du
+décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière. Le
+présent alinéa est applicable jusqu'au 31 décembre 2009.
+
+II.-L'application des dispositions du premier alinéa du I est subordonnée à la
+condition que la société cessionnaire prenne l'engagement de conserver pendant
+cinq ans l'immeuble, les titres ou les droits mentionnés au premier alinéa du I.
+Lorsque la société cessionnaire est une filiale mentionnée au premier alinéa du
+II de l'article 208 C ou une société mentionnée au III bis du même article, elle
+doit être placée sous le régime prévu au II de cet article pendant une durée
+minimale de cinq ans à compter de l'exercice d'acquisition. Pour l'application
+de ces dispositions, cette filiale est réputée être restée placée sous le régime
+prévu au II de l'article 208 C dès lors que la ou les sociétés d'investissements
+immobiliers cotées qui la détiennent directement ou indirectement ne sont pas
+sorties du régime au sens du IV du même article.
 
 Le non-respect de ces conditions par la société cessionnaire entraîne
-l'application de l'amende prévue à l'article 1764.
+l'application de l'amende prévue au I de l'article 1764.
 
 Toutefois, l'obligation de conservation mentionnée au premier alinéa est
 respectée en cas de démolition totale ou partielle d'un immeuble acquis sous le
@@ -36,6 +47,19 @@ bénéfice des dispositions du I lorsque la démolition est effectuée en vue de
 reconstruction totale ou partielle, réhabilitation ou rénovation de l'immeuble,
 et sous réserve que la reconstruction, réhabilitation ou rénovation soit achevée
 dans les cinq années qui suivent l'acquisition.
+
+L'application du second alinéa du I est subordonnée à la condition que la
+société crédit-preneuse intervienne à l'acte de cession de l'immeuble ou du
+droit réel et prenne les engagements de conclure avec l'acquéreur un contrat de
+crédit-bail portant sur l'immeuble ou le droit réel et de conserver pendant cinq
+ans les droits afférents audit contrat de crédit-bail. Lorsque la société
+crédit-preneuse est une filiale mentionnée au premier alinéa du II de l'article
+208 C ou une société mentionnée au III bis du même article, elle doit être
+placée sous le régime prévu au II de cet article pendant une durée minimale de
+cinq ans à compter de l'exercice d'acquisition.
+
+Le non-respect de ces conditions par la société crédit-preneuse entraîne
+l'application de l'amende prévue au II de l'article 1764.
 
 III.-Les plus-values nettes dégagées lors de la cession de biens immobiliers
 bâtis ou non bâtis ou de titres de sociétés à prépondérance immobilière au sens
@@ -61,7 +85,7 @@ locatifs mentionnés au septième alinéa de l'article L. 411-2 du code de la
 construction et de l'habitation.
 
 Le non-respect de cet engagement par la société cédante entraîne l'application
-de l'amende prévue à l'article 1764.
+de l'amende prévue au I de l'article 1764.
 
 V.-Un décret fixe les conditions d'application du présent article. Le I
 s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III aux cessions
