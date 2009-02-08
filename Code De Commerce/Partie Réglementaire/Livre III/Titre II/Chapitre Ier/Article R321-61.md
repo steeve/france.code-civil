@@ -1,10 +1,10 @@
 Article R321-61
 ----
-L'information prévue à l'article L. 321-24 est accompagnée des pièces
-mentionnées aux 6° et 7° de l'article R. 321-58, assorties, le cas échéant, de
-leur traduction en français, ainsi que d'une copie de l'attestation mentionnée à
-l'article R. 321-60.
-
-Si des changements sont intervenus dans la situation de l'intéressé depuis la
-déclaration effectuée en application de l'article R. 321-57, les documents
-justifiant de ces changements sont joints à l'envoi.
+Le Conseil des ventes volontaires de meubles aux enchères publiques assure
+l'échange avec les autorités compétentes des autres Etats membres de la
+Communauté européenne ou parties à l'accord sur l'Espace économique européen des
+informations nécessaires au traitement de la plainte d'un destinataire de
+services fournis dans le cadre d'une vente volontaire de meubles aux enchères
+publiques assurée dans le cadre d'une prestation de services par un
+ressortissant de l'un de ces Etats. Il informe le destinataire de la suite
+donnée à sa plainte.

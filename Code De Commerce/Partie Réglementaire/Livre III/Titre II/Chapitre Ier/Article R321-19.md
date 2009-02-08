@@ -2,7 +2,7 @@ Article R321-19
 ----
 Les clercs justifiant d'une pratique professionnelle d'au moins sept ans dans un
 ou plusieurs offices de commissaire-priseur ou de commissaire-priseur
-judiciaire, les salariés ayant exercé pendant la même durée des responsabilités
+judiciaire, les personnes ayant exercé pendant la même durée des responsabilités
 équivalentes au sein d'une ou plusieurs sociétés de ventes volontaires de
 meubles aux enchères publiques ainsi que les personnes ayant exercé
 successivement ces responsabilités dans un office de commissaire-priseur et une

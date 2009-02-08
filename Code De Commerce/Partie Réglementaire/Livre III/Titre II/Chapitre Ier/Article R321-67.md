@@ -1,21 +1,23 @@
 Article R321-67
 ----
-Lorsque sa formation porte sur des matières substantiellement différentes de
-celles qui figurent aux programmes des diplômes et de l'examen professionnel
-mentionnés à l'article R. 321-22, ou lorsqu'une ou plusieurs des activités
-professionnelles dont l'exercice est subordonné à la possession de ces diplômes
-et à la réussite de cet examen ne sont pas réglementées dans l'Etat membre
-d'origine ou de provenance ou sont réglementées de manière substantiellement
-différente, l'intéressé subit, devant le jury prévu à l'article R. 321-23, une
-épreuve d'aptitude dont le programme et les modalités sont fixés par arrêté du
-garde des sceaux, ministre de la justice. Il peut toutefois être dispensé de
-subir l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de son
-expérience professionnelle sont de nature à rendre cette vérification inutile.
+Lorsque la formation reçue par le demandeur porte sur des matières
+substantiellement différentes de celles qui figurent aux programmes des diplômes
+mentionnés au 3° de l'article R. 321-18 et de l'examen professionnel mentionné à
+l'article R. 321-22, ou lorsque la durée de la formation dont se prévaut le
+demandeur est inférieure d'au moins un an à celle requise par les dispositions
+de l'article R. 321-18, l'intéressé subit, à son choix, une épreuve d'aptitude
+devant le jury prévu à l'article R. 321-23 ou un stage d'adaptation dont la
+durée ne peut excéder trois ans.
 
-Le conseil fixe les matières du programme mentionné à l'alinéa précédent sur
-lesquelles le candidat, compte tenu de sa formation initiale et de son
-expérience professionnelle, est interrogé.
+Le programme et les modalités d'organisation de l'épreuve d'aptitude et du stage
+d'adaptation sont fixés par arrêté du garde des sceaux, ministre de la justice.
 
-Le conseil notifie aux candidats les résultats de l'épreuve d'aptitude.
+Le conseil précise celles des matières du programme mentionné à l'alinéa
+précédent sur lesquelles le demandeur est interrogé ou la durée de son stage,
+compte tenu de sa formation et de son expérience professionnelle. Il peut
+dispenser le demandeur de ces mesures s'il estime que les connaissances que
+celui-ci a acquises au cours de son expérience professionnelle sont de nature à
+couvrir, en tout ou partie, la différence substantielle de formation constatée.
 
-Nul ne peut se présenter plus de trois fois à l'examen.
+Le conseil notifie aux candidats les résultats de l'épreuve d'aptitude ou de
+l'évaluation du stage.
