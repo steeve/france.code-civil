@@ -25,8 +25,8 @@ undecies ;
 
 c) De l'original ou d'une copie certifiée :
 
-De la carte grise annotée conformément à la réglementation applicable en matière
-d'immatriculation des véhicules terrestres à moteur ;
+Du certificat d'immatriculation annoté conformément à la réglementation
+applicable en matière d'immatriculation des véhicules terrestres à moteur ;
 
 Du certificat de radiation de l'immatriculation pour les aéronefs et les bateaux
 destinés à la navigation intérieure ;

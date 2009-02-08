@@ -1,13 +1,13 @@
 Article R322-10
 ----
-En cas de perte, de vol ou de détérioration d'une carte grise, le titulaire peut
-en obtenir un duplicata en adressant une demande au préfet qui avait délivré
-l'original.
+En cas de perte, de vol ou de détérioration d'un certificat d'immatriculation,
+le titulaire peut en obtenir un duplicata en adressant une demande au préfet du
+département de son choix.
 
 L'accomplissement des formalités prévues au présent article est subordonné à la
 justification, par le propriétaire, de son identité et, selon le cas, de son
-domicile ou de l'adresse de l'établissement d'affectation ou de mise à
-disposition, ou de celle du locataire.
+domicile, de l'adresse de son siège social ou de l'adresse de l'établissement
+d'affectation ou de mise à disposition, ou de celle du locataire.
 
 Pour tout véhicule soumis à contrôle technique, la délivrance du duplicata est
 subordonnée à la preuve que ce véhicule répond aux conditions requises pour être
