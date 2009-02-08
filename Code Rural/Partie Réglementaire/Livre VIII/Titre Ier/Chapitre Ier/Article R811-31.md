@@ -8,8 +8,7 @@ quart de ses membres. Il est obligatoirement saisi des questions qui relèvent d
 l'autonomie pédagogique.
 
 Il prépare la partie pédagogique du projet d'établissement, conformément à
-l'article 18 de la loi n° 89-486 du 10 juillet 1989 d'orientation sur
-l'éducation.
+l'article L. 421-5 du code de l'éducation .
 
 Les équipes pédagogiques ont pour mission de favoriser la concertation entre les
 enseignants, en particulier en ce qui concerne la coordination des

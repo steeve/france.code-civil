@@ -1,10 +1,10 @@
 Article R811-56
 ----
-Les fonctions d'agent comptable sont confiées à un fonctionnaire des corps
-d'administration et d'intendance des établissements relevant du ministère de
-l'agriculture ou à un fonctionnaire détaché dans ces corps, si l'importance de
-l'établissement public local justifie un agent comptable à temps plein ou pour
-les groupements comptables d'établissements publics locaux.
+Les fonctions d'agent comptable sont confiées à un fonctionnaire du corps des
+attachés d'administration du ministère de l'agriculture et de la pêche ou à un
+fonctionnaire détaché dans ces corps, si l'importance de l'établissement public
+local justifie un agent comptable à temps plein ou pour les groupements
+comptables d'établissements publics locaux.
 
 Dans le cas des groupements, l'agent comptable siège dans l'un des
 établissements publics locaux choisi par le directeur régional de l'agriculture

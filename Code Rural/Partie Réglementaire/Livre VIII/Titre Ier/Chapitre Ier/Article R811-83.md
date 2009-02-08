@@ -1,7 +1,7 @@
 Article R811-83
 ----
-L'obligation d'assiduité mentionnée à l'article 10 de la loi du 10 juillet 1989
-susmentionnée consiste, pour les élèves, à se soumettre aux horaires
+L'obligation d'assiduité mentionnée mentionnée à l'article L. 511-1 du code de
+l'éducation consiste, pour les élèves, à se soumettre aux horaires
 d'enseignement définis par l'emploi du temps de l'établissement ; elle s'impose
 pour les enseignements et les stages obligatoires, ainsi que pour les
 enseignements facultatifs dès lors que les élèves se sont inscrits à ces

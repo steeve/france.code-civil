@@ -7,13 +7,14 @@ l'établissement public local. Il arrête son règlement intérieur.
 
 Ses délibérations portent notamment sur :
 
-1° Le projet d'établissement et l'organisation des activités complémentaires
-prévues à l'article 26 de la loi n° 83-663 du 22 juillet 1983 ;
+1° Le projet d'établissement mentionné à l'article L. 811-8 du code rural et
+l'organisation des activités complémentaires prévues à l'article L. 216-1 du
+code de l'éducation ;
 
 2° Les règlements intérieurs des centres ;
 
-3° Le rapport annuel prévu au quatrième alinéa de l'article 15-3 de la loi n°
-83-663 du 22 juillet 1983 ;
+3° Le rapport annuel du directeur sur la gestion de l'établissement public local
+;
 
 4° L'évolution des structures pédagogiques des centres ;
 
@@ -41,8 +42,8 @@ peuvent être financées avant exécution ;
 
 14° Les concessions de logements ;
 
-15° L'utilisation des locaux en application de l'article 25 de la loi n° 83-663
-du 22 juillet 1983 ;
+15° L'utilisation des locaux en application de l'article L. 212-15 du code de
+l'éducation ;
 
 16° La création et la définition des emplois rémunérés sur le budget de
 l'établissement public local ainsi que les conditions d'emploi, de travail et de

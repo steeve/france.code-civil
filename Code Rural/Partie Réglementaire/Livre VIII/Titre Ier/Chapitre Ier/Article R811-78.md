@@ -24,4 +24,4 @@ d'administration, qui peut retirer l'autorisation après avis du conseil des
 délégués des élèves.
 
 Les dispositions du présent article ne sont pas applicables aux associations
-créées en application de l'article 9 de la loi n° 84-610 du 16 juillet 1984.
+créées en application de l'article L. 552-2 du code de l'éducation .

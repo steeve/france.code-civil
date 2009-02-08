@@ -6,10 +6,9 @@ ministres chargés du budget, de l'intérieur et de l'agriculture.
 
 Les ressources de l'établissement public local comprennent notamment :
 
-a) La participation de la région au titre de l'article 15-9 de la loi n° 83-663
-du 22 juillet 1983 ;
-
-b) Les produits de l'exploitation agricole et des autres activités ;
+a) La participation de la collectivité de rattachement au titre des articles L.
+421-11 et L. 421-13 du code de l'éducation ; b) Les produits de l'exploitation
+agricole et des autres activités ;
 
 c) Les produits de son patrimoine ;
 

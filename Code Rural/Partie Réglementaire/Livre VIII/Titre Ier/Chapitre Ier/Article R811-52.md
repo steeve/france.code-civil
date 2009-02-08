@@ -13,7 +13,7 @@ de réception par chacune de ces trois autorités sauf si la collectivité de
 rattachement ou le directeur régional de l'agriculture et de la forêt a fait
 connaître son désaccord motivé. Dans ce cas, ou lorsque le budget n'est pas
 adopté dans les trente jours suivant la notification de la participation de la
-région, il est fait application de la procédure prévue aux paragraphes V et VI
-de l'article 15-9 de la loi n° 83-663 du 22 juillet 1983.
+collectivité de rattachement, il est fait application de la procédure prévue aux
+e et f de l'article L. 421-11 du code de l'éducation.
 
 Le budget, dès qu'il est adopté ou réglé, est transmis à l'agent comptable.
