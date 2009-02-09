@@ -11,10 +11,13 @@ inférieure à 16 ;
 
 3° Très bien, quand le candidat a obtenu une moyenne égale ou supérieure à 16.
 
-Dans tous les baccalauréats professionnels, à l'issue d'une évaluation
-spécifique et dans les conditions fixées par un arrêté du ministre chargé de
-l'éducation, les diplômes délivrés aux candidats peuvent comporter l'indication
-" section européenne ".
+Les candidats qui ont été admis à l'issue de l'épreuve de contrôle prévue au 2°
+de l'article D. 337-69 ne peuvent obtenir une mention.
+
+Pour toutes les spécialités de baccalauréat professionnel, à l'issue de
+l'évaluation spécifique définie par un arrêté du ministre chargé de l'éducation
+et dans les conditions fixées par cet arrêté, les diplômes délivrés aux
+candidats peuvent comporter l'indication " section européenne ”.
 
 Le candidat, au moment de son inscription à l'examen, peut choisir de substituer
 l'évaluation spécifique à l'épreuve facultative de langue vivante. Dans ce cas,

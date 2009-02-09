@@ -20,6 +20,14 @@ diplôme, choisis en nombre égal parmi les employeurs et les salariés.
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou de
 plusieurs de ses membres, le jury peut néanmoins délibérer valablement.
 
+Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints
+pour participer, avec les membres des jurys, à l'évaluation ou à la correction
+de certaines épreuves, notamment de l'épreuve de contrôle prévue au 2° de
+l'article D. 337-69. Les examinateurs et correcteurs adjoints peuvent, le cas
+échéant, participer aux délibérations des jurys avec voix consultative pour
+l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées ou
+corrigées.
+
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article
 D. 337-53, le jury est nommé par le directeur régional de l'agriculture et de la
 forêt. Il est présidé par un enseignant-chercheur. Les membres de ce jury
@@ -27,8 +35,7 @@ peuvent être choisis parmi les enseignants des établissements d'enseignement
 relevant du ministre chargé de l'agriculture.
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le
-jury est nommé par le directeur régional des affaires maritimes. Il est présidé
-par un enseignant-chercheur ou un professeur en chef ou général de
-l'enseignement maritime. Les membres de ce jury peuvent être choisis parmi les
-enseignants des établissements scolaires maritimes mentionnés à l'article R.
-342-2.
+jury est nommé par le ministre chargé de la mer. Il est présidé par un
+enseignant-chercheur ou un professeur en chef ou général de l'enseignement
+maritime. Les membres de ce jury peuvent être choisis parmi les enseignants des
+établissements scolaires maritimes mentionnés à l'article R. 342-2.
