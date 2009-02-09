@@ -20,5 +20,8 @@ d'instruction effectués par les rapporteurs.
 Il peut déléguer à un ou des rapporteurs généraux adjoints tout ou partie des
 attributions qu'il détient conformément au présent titre.
 
-En cas de vacance du poste de rapporteur général, le président désigne l'un des
-rapporteurs généraux adjoints pour assurer l'intérim.
+Il peut aussi déléguer sa signature à un rapporteur général adjoint ou à un
+agent d'encadrement.
+
+En cas de vacance du poste de rapporteur général, un intérim est assuré par le
+rapporteur général adjoint le plus ancien dans la fonction.

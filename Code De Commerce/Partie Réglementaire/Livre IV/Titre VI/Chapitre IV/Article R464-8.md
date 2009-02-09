@@ -18,4 +18,9 @@ ministre chargé de l'économie ;
 4° Pour les décisions prises suivant les modalités prévues par les articles L.
 463-2, L. 463-3, L. 464-2, L. 464-3 et L. 464-5, aux personnes destinataires de
 la notification de griefs ou du rapport ainsi qu'aux entreprises ou organismes
-ayant souscrit des engagements et au ministre chargé de l'économie.
+ayant souscrit des engagements et au ministre chargé de l'économie ;
+
+5° Pour les décisions mentionnées au dernier alinéa de l'article L. 461-3 prises
+à la suite d'une saisine du ministre chargé de l'économie en application du
+quatrième alinéa de l'article L. 464-9, aux parties concernées et au ministre
+chargé de l'économie.

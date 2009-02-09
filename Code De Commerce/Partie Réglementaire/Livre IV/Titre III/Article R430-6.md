@@ -1,6 +1,6 @@
 Article R430-6
 ----
-Lorsque le ministre chargé de l'économie et, le cas échéant, le ministre chargé
-du secteur économique concerné ont pris l'une des décisions prévues aux articles
-L. 430-5, L. 430-7 ou L. 430-8, le ministre chargé de l'économie en rend public
-le sens dans les cinq jours ouvrables suivant la décision.
+Lorsqu'une décision a été prise en application des articles L. 430-5, L. 430-7,
+L. 430-7-1, L. 430-8 ou L. 430-9, l'Autorité de la concurrence ou, le cas
+échéant, le ministre chargé de l'économie en rendent public le sens dans les
+cinq jours ouvrables suivant la décision.

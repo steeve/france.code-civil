@@ -19,5 +19,5 @@ leurs observations ;
 6° Le résumé non confidentiel de l'opération fourni par les parties.
 
 Ce communiqué est rendu public dans les cinq jours ouvrables suivant la date de
-réception du dossier de notification ou la date à laquelle le ministre chargé de
-l'économie est informé de la décision de renvoi de la Commission européenne.
+réception du dossier de notification ou la date à laquelle l'Autorité de la
+concurrence est informée de la décision de renvoi de la Commission européenne.
