@@ -11,10 +11,8 @@ ou avec l'accord de la famille ou de l'élève majeur et sont autorisés par le
 chef d'établissement après consultation des conseils des classes d'origine et
 d'accueil.
 
-Pour les voies d'orientation correspondant aux enseignements technologiques et
-professionnels, les demandes d'orientation peuvent porter sur une ou plusieurs
-spécialités professionnelles. Les propositions d'orientation et les décisions
-d'orientation peuvent inclure à titre d'incitation un ou plusieurs champs
-professionnels définis par rapport aux quarante-sept groupes de la nomenclature
-des niveaux de formation, conformément à l'annexe de l'arrêté mentionné au
-premier alinéa.
+Pour la voie d'orientation correspondant aux enseignements professionnels, les
+demandes d'orientation peuvent porter sur un ou plusieurs champs et spécialités
+professionnels. De même, les propositions d'orientation et les décisions
+d'orientation peuvent inclure à titre de conseil un ou plusieurs champs et
+spécialités professionnels.

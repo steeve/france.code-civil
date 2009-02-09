@@ -10,10 +10,8 @@ d'une spécialité technique. Ces diplômes attestent que leurs titulaires sont
 aptes à exercer une activité de technicien ;
 
 3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude
-professionnelle selon des modalités d'organisation et de durée diversifiées dans
-des conditions fixées par arrêté du ministre chargé de l'éducation, du brevet
-d'études professionnelles et du baccalauréat professionnel. Ces diplômes portent
-mention d'une spécialité professionnelle.
+professionnelle, du brevet d'études professionnelles et du baccalauréat
+professionnel. Ces diplômes portent mention d'une spécialité professionnelle.
 
 Les voies générale et technologique se composent :
 
@@ -23,21 +21,24 @@ technologique et des classes de seconde à régime spécifique ;
 b) D'un cycle terminal constitué par les classes de première et terminale de la
 voie générale et les classes de première et terminale de la voie technologique.
 
-La voie professionnelle permet d'accéder à trois types de diplômes : le
-certificat d'aptitude professionnelle préparé selon des modalités d'organisation
-et de durée fixées par arrêté du ministre chargé de l'éducation, le brevet
-d'études professionnelles préparé en deux années, le baccalauréat professionnel
-préparé en deux années.
+La voie professionnelle comprend :
 
-Le cycle de deux ans conduisant au brevet d'études professionnelles constitue le
-cycle de détermination de la voie professionnelle. Il en va de même du
-certificat d'aptitude professionnelle lorsqu'il est préparé en deux années.
+a) Un cycle de deux ans conduisant à un des diplômes de niveau V dont la liste
+est fixée par arrêté du ministre chargé de l'éducation ;
 
-Le titulaire d'un diplôme obtenu à l'issue du cycle de détermination de la voie
-professionnelle a la possibilité d'accéder au cycle terminal de la voie
-technologique, selon des modalités adaptées, ou au cycle terminal de la voie
-professionnelle conformément aux dispositions fixées par le ministre chargé de
-l'éducation.
+b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat
+professionnel constitué par les classes de seconde professionnelle, de première
+professionnelle et de terminale professionnelle. La classe de seconde
+professionnelle peut être rattachée, dans les conditions définies par arrêté du
+ministre chargé de l'éducation, à un des champs professionnels définis par
+arrêté du ministre chargé de l'éducation. Au cours de ce cycle, les élèves se
+présentent aux épreuves d'un brevet d'études professionnelles ou d'un certificat
+d'aptitude professionnelle dans les conditions prévues par arrêté du ministre
+chargé de l'éducation.
 
-Le cycle de deux années conduisant au baccalauréat professionnel constitue le
-cycle terminal de la voie professionnelle.
+Des passerelles permettant une adaptation des parcours sont organisées entre les
+voies générale, technologique et professionnelle ainsi qu'entre les cycles de la
+voie professionnelle.
+
+Des dispositifs d'aide et d'accompagnement sont mis en place pour les élèves qui
+en ont besoin, sur proposition de l'équipe pédagogique de la classe.

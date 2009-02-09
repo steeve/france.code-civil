@@ -1,5 +1,5 @@
 Article D333-7
 ----
-Les lycées professionnels organisent des formations secondaires conduisant aux
-diplômes nationaux du certificat d'aptitude professionnelle, du brevet d'études
-professionnelles, du brevet de technicien ou du baccalauréat professionnel.
+Les lycées professionnels organisent des formations conduisant à des diplômes
+nationaux professionnels inscrits au répertoire national des certifications
+professionnelles.
