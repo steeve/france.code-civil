@@ -1,17 +1,26 @@
 Article D337-29
 ----
-Les candidats mineurs au 31 décembre de la session de l'examen ne peuvent
-postuler au brevet d'études professionnelles que s'ils justifient en avoir suivi
-la préparation :
+Peuvent se présenter au brevet d'études professionnelles :
 
-1° Soit par la voie scolaire, dans un lycée professionnel ou dans une école
-privée d'enseignement technique, telle que définie aux articles L. 441-10 à L.
-441-13 et L. 443-2 à L. 443-4 du code de l'éducation ;
+1° Les candidats majeurs ou mineurs :
 
-2° Soit par la voie de l'apprentissage définie au titre Ier du livre Ier du code
-du travail ;
+a) Sous statut scolaire dans un établissement public local d'enseignement ou
+dans un établissement privé sous contrat qui sont engagés dans le cycle
+conduisant à un baccalauréat professionnel correspondant à la spécialité du
+diplôme postulé ou relevant du même champ professionnel ;
 
-3° Soit par la voie de la formation professionnelle continue définie au livre IX
-du code du travail ;
+b) Qui sont engagés dans le cycle conduisant au baccalauréat professionnel dans
+le cadre de l'enseignement à distance ou dans un établissement privé hors
+contrat ;
 
-4° Soit par la voie de l'enseignement à distance.
+c) En formation en vue de préparer un baccalauréat professionnel par la voie de
+l'apprentissage définie au livre II de la sixième partie du code du travail ;
+
+d) Qui justifient avoir suivi une préparation par la voie de la formation
+professionnelle continue définie au livre III de la sixième partie du code du
+travail ;
+
+2° les candidats majeurs ne justifiant pas avoir suivi une formation.
+
+A chaque session, les candidats ne peuvent s'inscrire qu'en vue de l'obtention
+d'une seule spécialité de brevet d'études professionnelles.

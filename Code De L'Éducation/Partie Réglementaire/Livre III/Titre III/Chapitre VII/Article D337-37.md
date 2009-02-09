@@ -1,17 +1,11 @@
 Article D337-37
 ----
-Le règlement particulier de chaque brevet d'études professionnelles fixe :
+Quel que soit le mode d'évaluation, lorsqu'un candidat est déclaré absent à une
+ou plusieurs épreuves, le diplôme ne peut lui être délivré.
 
-1° La liste des matières en précisant celles qui font l'objet d'un examen
-obligatoire ou facultatif, les modalités d'examen et les coefficients
-correspondants, les notes éliminatoires ;
-
-2° Les matières pour lesquelles l'examen est commun à ce diplôme et à un autre
-brevet d'études professionnelles ou à un certificat d'aptitude professionnelle ;
-
-3° Les conditions dans lesquelles les candidats au brevet d'études
-professionnelles peuvent postuler à l'attribution simultanée de ce brevet
-d'études professionnelles et d'un certificat d'aptitude professionnelle ;
-
-4° Les dispenses d'épreuves qui peuvent être accordées aux titulaires de
-diplômes de l'enseignement technologique.
+Toutefois, en cas d'absence justifiée, la note zéro lui est attribuée pour
+chaque épreuve manquée et le diplôme peut être délivré si le candidat a obtenu
+une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble des épreuves
+du diplôme affectées de leur coefficient. Dans le cas où le diplôme n'a pas pu
+lui être délivré, le candidat se présente à des épreuves de remplacement, dans
+les conditions fixées à l'article D. 337-44.

@@ -1,4 +1,8 @@
 Article D337-26
 ----
-Les brevets d'études professionnelles sont des diplômes nationaux qui attestent
-d'une qualification professionnelle.
+Le brevet d'études professionnelles est un diplôme national qui atteste d'une
+qualification professionnelle.
+
+Il est enregistré dans le répertoire national des certifications
+professionnelles et classé au niveau V de la nomenclature interministérielle des
+niveaux de formation.

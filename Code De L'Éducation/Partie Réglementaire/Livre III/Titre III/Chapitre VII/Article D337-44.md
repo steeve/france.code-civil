@@ -1,6 +1,6 @@
 Article D337-44
 ----
-Des arrêtés du ministre chargé de l'éducation précisent les conditions de mise
-en oeuvre du contrôle en cours de formation dans les établissements
-d'enseignement publics, les établissements d'enseignement privés sous contrat et
-les centres de formation d'apprentis habilités par le recteur de l'académie.
+Sur autorisation du recteur, les épreuves de remplacement, à l'exception de
+l'épreuve d'éducation physique et sportive, sont organisées pour les candidats
+mentionnés au deuxième alinéa de l'article D. 337-37 au sein d'une académie ou
+d'un groupement d'académies.

@@ -1,9 +1,11 @@
 Article D337-38
 ----
-Lorsque le règlement particulier le prévoit, le brevet d'études professionnelles
-peut être obtenu, sauf pour les candidats ayant suivi la préparation par la voie
-scolaire ou par celle de l'apprentissage, par unités capitalisables destinées à
-contrôler le niveau des compétences acquises dans chacune des matières.
+Pour les candidats mentionnés au a du 1° de l'article D. 337-29, quatre au moins
+des épreuves prévues à l'article D. 337-33 sont évaluées par contrôle en cours
+de formation.
 
-Le règlement fixe la liste et la nature de ces unités ainsi que les modalités de
-leur acquisition.
+Les candidats mentionnés au c du 1° de l'article D. 337-29 qui suivent leur
+formation dans un centre de formation d'apprentis ou une section d'apprentissage
+habilitée à mettre en œuvre le contrôle en cours de formation peuvent se
+présenter aux épreuves du brevet d'études professionnelles selon les mêmes
+modalités que les candidats mentionnés à l'alinéa précédent.
