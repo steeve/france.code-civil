@@ -13,4 +13,6 @@ d'une décision de positionnement, prise par le recteur après avis de l'équipe
 pédagogique, cette durée peut être diminuée dans les conditions fixées par
 l'arrêté prévu à l'article D. 337-2. Pour les candidats préparant l'examen par
 la voie scolaire, la durée de cette période ne peut être inférieure à huit
-semaines.
+semaines. Pour les candidats admis dans le cycle de trois ans conduisant au
+baccalauréat professionnel, la durée de cette période ne peut être inférieure à
+huit semaines.

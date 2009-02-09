@@ -11,3 +11,9 @@ requises pour son obtention et un règlement d'examen.
 Il organise le diplôme en unités et peut prévoir que des unités constitutives du
 diplôme sont soit communes à plusieurs spécialités du certificat d'aptitude
 professionnelle, soit équivalentes à des unités d'autres spécialités.
+
+Des spécialités relevant de la formation professionnelle maritime, au sens de
+l'article R. 342-1, sont créées par arrêté du ministre chargé de l'éducation et
+du ministre chargé de la mer, après avis des commissions professionnelles
+consultatives compétentes et du comité spécialisé de la formation
+professionnelle maritime.
