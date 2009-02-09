@@ -7,5 +7,6 @@ l'apprentissage dans un centre de formation d'apprentis ou une section
 d'apprentissage non habilités, les candidats ayant suivi une préparation par la
 voie de l'enseignement à distance, quel que soit leur statut, ainsi que les
 candidats qui se présentent au titre de leur expérience professionnelle en
-application du 2° de l'article D. 337-70, présentent l'examen intégralement sous
-forme d'épreuves ponctuelles.
+application du 2° de l'article D. 337-70, passent l'ensemble des épreuves
+prévues au 1° de l'article D. 337-69 intégralement sous forme d'épreuves
+ponctuelles.

@@ -24,9 +24,17 @@ compter de leur obtention, soit donner lieu à une nouvelle évaluation. Dans ce
 dernier cas, c'est la dernière note obtenue qui est prise en compte.
 
 Le calcul de la moyenne générale s'effectue sur la base des notes conservées et
-des notes obtenues aux évaluations à nouveau présentées.
+des notes obtenues aux évaluations à nouveau présentées, les points excédant 10,
+obtenus à l'épreuve facultative, étant pris en compte dans ce calcul.
 
-Les points excédant 10, obtenus à l'épreuve facultative, sont pris en compte
-pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de
-l'attribution d'une mention telle que définie au premier alinéa de l'article D.
-337-86.
+Les candidats dont la moyenne générale, établie à l'issue de la dernière unité
+donnant droit à la délivrance du diplôme, est inférieure à 8 sont déclarés
+ajournés. Ceux qui ont obtenu une moyenne générale au moins égale à 8 et
+inférieure à 10 sur 20 et une note au moins égale à 10 sur 20 à l'épreuve
+d'évaluation de la pratique professionnelle sont autorisés à se présenter à
+l'épreuve de contrôle prévue au 2° de l'article D. 337-69.
+
+Sont déclarés admis, après délibération du jury, les candidats qui ont obtenu
+une note au moins égale à 10 sur 20 à l'issue de l'épreuve de contrôle. Cette
+note est la moyenne entre la note obtenue à cette épreuve et la note moyenne
+obtenue à l'issue de la dernière unité donnant droit à la délivrance du diplôme.
