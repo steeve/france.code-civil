@@ -1,27 +1,19 @@
 Article R463-15
 ----
-Lorsque le rapporteur considère qu'une pièce classée en annexe confidentielle
-est nécessaire à la procédure, il en informe par lettre recommandée avec demande
-d'avis de réception la personne qui en a demandé le classement. Si cette
-personne s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce
-que la pièce soit utilisée dans la procédure, elle saisit le président du
-Conseil de la concurrence. Si celui-ci ou le vice-président délégué donne suite
-à son opposition, la pièce est maintenue dans l'annexe confidentielle. Dans le
-cas contraire, il autorise l'utilisation de la pièce par le rapporteur et sa
-communication à la ou aux parties mises en cause, ainsi qu'au commissaire du
-Gouvernement.
+Lorsque le rapporteur considère qu'une ou plusieurs pièces dans leur version
+confidentielle sont nécessaires à l'exercice des droits de la défense d'une ou
+plusieurs parties ou que celles-ci doivent en prendre connaissance pour les
+besoins du débat devant l'Autorité, il en informe par lettre recommandée avec
+demande d'avis de réception la personne qui a fait la demande de protection du
+secret des affaires contenu dans ces pièces et lui fixe un délai pour présenter
+ses observations avant que le rapporteur général ne statue. La décision du
+rapporteur général est notifiée aux intéressés.
 
-Lorsqu'une partie mise en cause considère qu'une pièce classée en annexe
-confidentielle est nécessaire à l'exercice de ses droits, elle peut en demander
-la communication ou la consultation en présentant une requête motivée au
-rapporteur. Le rapporteur informe la personne qui a demandé le classement de
-cette pièce par lettre recommandée avec demande d'avis de réception. Si cette
-dernière s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce
-que la pièce soit communiquée à la partie qui en fait la demande, elle saisit le
-président du Conseil de la concurrence. Si celui-ci ou le vice-président délégué
-donne suite à son opposition, la pièce est maintenue dans l'annexe
-confidentielle. Dans le cas contraire, il autorise la communication ou la
-consultation de la pièce à la partie qui en a fait la demande ainsi que, le cas
-échéant, aux autres parties mises en cause pour lesquelles la pièce est
-nécessaire à l'exercice de leurs droits, ainsi qu'au commissaire du
-Gouvernement.
+Lorsqu'une partie mise en cause n'a pas eu accès à la version confidentielle
+d'une pièce qu'elle estime nécessaire à l'exercice de ses droits, elle peut en
+demander au rapporteur la communication ou la consultation en lui présentant une
+requête motivée dès sa prise de connaissance de la version non confidentielle et
+du résumé de cette pièce. Il est alors procédé comme à l'alinéa précédent.
+
+Le rapporteur général fixe, le cas échéant, un délai permettant un débat sur les
+informations, documents ou parties de document nouvellement communiqués.
