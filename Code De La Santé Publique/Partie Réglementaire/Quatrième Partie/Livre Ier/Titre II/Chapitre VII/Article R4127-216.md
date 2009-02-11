@@ -10,14 +10,17 @@ bancaires ;
 
 2° Sa qualité et sa spécialité ;
 
-3° Les titres et fonctions reconnus par le Conseil national de l'ordre ;
+3° Les diplômes, titres et fonctions reconnus par le Conseil national de l'ordre
+;
 
 4° Les distinctions honorifiques reconnues par la République française ;
 
 5° La mention de l'adhésion à une association agréée prévue à l'article 64 de la
 loi de finances pour 1977 n° 76-1232 du 29 décembre 1976 ;
 
-6° Sa situation vis-à-vis des organismes d'assurance maladie ;
+6° Sa situation vis-à-vis des organismes d'assurance maladie obligatoires ;
 
 7° S'il exerce en société civile professionnelle ou en société d'exercice
-libéral, les noms des chirurgiens-dentistes associés.
+libéral, les noms des chirurgiens-dentistes associés et, en ce qui concerne les
+sociétés d'exercice libéral, les mentions prévues à l'article R. 4113-2 et le
+numéro d'inscription au registre du commerce et des sociétés.

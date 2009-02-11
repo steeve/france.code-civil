@@ -13,12 +13,13 @@ local distinct et d'un matériel appropriés ;
 2° De la propriété des documents concernant tous renseignements personnels aux
 malades.
 
-Il appartient au conseil départemental de vérifier à tout moment si les
-conditions exigées au 1° sont remplies.
-
 Dans tous les cas doivent être assurées la qualité des soins, leur
 confidentialité et la sécurité des patients.
 
 L'installation des moyens techniques et l'élimination des déchets provenant de
 l'exercice de la profession doivent répondre aux règles en vigueur concernant
 l'hygiène.
+
+Il appartient au conseil départemental de contrôler si les conditions exigées
+pour l'exercice de l'activité professionnelle, par les dispositions des alinéas
+précédents, sont remplies.

@@ -8,8 +8,5 @@ de télécopie, jours et heures de consultation ;
 
 2° Sa spécialité.
 
-Les sociétés d'exercice en commun de la profession peuvent figurer dans les
-annuaires dans les mêmes conditions que ci-dessus.
-
-Toute insertion payante dans un annuaire est considérée comme une publicité et
-est donc interdite.
+Les sociétés d'exercice de la profession peuvent figurer dans les annuaires dans
+les mêmes conditions que ci-dessus.

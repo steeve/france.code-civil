@@ -1,20 +1,14 @@
 Article R4127-276
 ----
 Le chirurgien-dentiste doit exercer personnellement sa profession dans son
-cabinet principal et, s'il en possède un, dans son cabinet secondaire.
+cabinet principal et, le cas échéant, sur tous les sites d'exercice autorisés en
+application des dispositions de l'article R. 4127-270.
 
-S'il est titulaire d'un cabinet unique et s'il n'est pas lié par contrat
-d'exercice avec un ou plusieurs praticiens de l'art dentaire, il peut
-s'adjoindre un seul praticien ou étudiant.
+Le chirurgien-dentiste qui exerce à titre individuel peut s'attacher le concours
+soit d'un seul étudiant dans les conditions prévues à l'article L. 4141-4, soit
+d'un seul chirurgien-dentiste collaborateur. La collaboration peut être salariée
+ou libérale dans les conditions prévues par l'article 18 de la loi n° 2005-882
+du 2 août 2005 en faveur des petites et moyennes entreprises.
 
-S'il exerce à titre annexe, il ne peut s'adjoindre aucun praticien ou étudiant.
-
-Toutefois, si cet exercice annexe est dispensé dans un établissement public ou
-privé comportant hébergement et n'ayant pas de consultation externe, il peut
-s'adjoindre un praticien ou étudiant.
-
-Cette possibilité est également ouverte aux praticiens exerçant dans les
-établissements publics de santé.
-
-Les praticiens liés par un contrat de location d'un local aménagé pour
-l'exercice de l'art dentaire ne peuvent s'adjoindre un praticien ou étudiant.
+Les sociétés d'exercice, inscrites au tableau de l'ordre, peuvent s'attacher le
+concours d'un praticien ou d'un étudiant dans les mêmes conditions.

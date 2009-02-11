@@ -1,30 +1,43 @@
 Article R4127-270
 ----
-Le chirurgien-dentiste ne doit avoir, en principe, qu'un seul cabinet.
+Le lieu habituel d'exercice d'un chirurgien-dentiste est celui de la résidence
+professionnelle au titre de laquelle il est inscrit au tableau du conseil
+départemental, conformément à l'article L. 4112-1.
 
-Toutefois, un cabinet secondaire est autorisé :
+Un chirurgien-dentiste exerçant à titre libéral peut exercer son activité
+professionnelle sur un ou plusieurs sites distincts de sa résidence
+professionnelle habituelle :
 
-1° Si la satisfaction des besoins des patients l'exige du fait de conditions
-géographiques ou démographiques particulières ;
+-lorsqu'il existe dans le secteur géographique considéré une carence ou une
+insuffisance de l'offre de soins préjudiciable aux besoins des patients ou à la
+permanence des soins ;
 
-2° Ou si les soins dispensés supposent la disposition d'un plateau technique en
-consultation ouverte.
+-ou lorsque les investigations et les soins qu'il entreprend nécessitent un
+environnement adapté, l'utilisation d'équipements particuliers, la mise en œuvre
+de techniques spécifiques ou la coordination de différents intervenants.
 
-Dans tous les cas, l'accueil des urgences doit être assuré.
+Le chirurgien-dentiste prend toutes dispositions pour que soient assurées sur
+tous ces sites d'exercice la réponse aux urgences, la qualité, la sécurité et la
+continuité des soins.
 
-L'autorisation est donnée par le conseil départemental du lieu où est envisagée
-l'implantation du cabinet secondaire.
+La demande d'ouverture d'un lieu d'exercice distinct est adressée au conseil
+départemental dans le ressort duquel se situe l'activité envisagée par lettre
+recommandée avec demande d'avis de réception. Elle est accompagnée de toutes les
+informations utiles sur les conditions d'exercice. Si ces informations sont
+insuffisantes, le conseil départemental demande des précisions complémentaires.
 
-Si le cabinet principal se trouve dans un autre département, le conseil
-départemental de celui-ci doit donner son avis.
+Le conseil départemental au tableau duquel le chirurgien-dentiste est inscrit
+est informé de la demande lorsque celle-ci concerne un site situé dans un autre
+département.
 
-L'autorisation est donnée à titre personnel et n'est pas cessible. Elle est
-accordée pour une période de trois ans renouvelable. Toutefois, elle peut être
-retirée à tout moment par l'autorité qui l'a accordée si les conditions
-nécessaires à son obtention ne sont plus remplies.
+L'autorisation est délivrée par le conseil départemental dans un délai de trois
+mois à compter de la date de réception du dossier de demande d'autorisation
+complet ou, sur recours, par le conseil national, qui statue dans les mêmes
+conditions.
 
-Sous réserve des dispositions de l'article R. 4127-272, un chirurgien-dentiste
-ne peut avoir plus d'un cabinet secondaire. Cette disposition ne fait pas
-obstacle à l'application des dispositions propres aux sociétés d'exercice en
-commun de la profession, et notamment de celles des articles R. 4113-24 et R.
-4113-74.
+L'autorisation est personnelle et incessible. Il peut y être mis fin si la
+condition fixée au troisième alinéa n'est plus remplie.
+
+Les recours contentieux contre les décisions de refus ou d'abrogation
+d'autorisation ne sont recevables qu'à la condition d'avoir été précédés d'un
+recours administratif devant le Conseil national de l'ordre.
