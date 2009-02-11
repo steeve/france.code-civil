@@ -14,3 +14,11 @@ demandeur.
 
 Les dispositions qui précèdent s'appliquent pour l'adjonction d'un ou de
 plusieurs administrateurs ou d'un ou de plusieurs mandataires judiciaires.
+
+Lorsque l'administrateur ou le mandataire judiciaire demande son remplacement en
+application du cinquième alinéa de l'article L. 621-7, la demande est formée par
+lettre simple adressée au juge-commissaire. L'ordonnance rendue par le président
+du tribunal est communiquée au ministère public par le greffier, qui en avise,
+par lettre simple, l'administrateur ou le mandataire judiciaire qui est
+remplacé, l'administrateur ou le mandataire judiciaire désigné pour le remplacer
+ainsi que le débiteur.

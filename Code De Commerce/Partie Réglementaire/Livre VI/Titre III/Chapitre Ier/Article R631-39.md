@@ -1,12 +1,11 @@
 Article R631-39
 ----
 Sans préjudice de l'application des deux premiers alinéas de l'article R.
-642-40, l'administrateur, s'il en a été désigné, communique au greffe les
-caractéristiques essentielles de l'entreprise ou de la ou des branches
-d'activité susceptibles d'être cédées en application de l'article L. 631-22. Il
-fixe le délai dans lequel les offres peuvent lui être soumises en application de
-l'article L. 631-13. Tout intéressé peut prendre connaissance de ces
-informations au greffe.
+642-40, l'administrateur communique au greffe les caractéristiques essentielles
+de l'entreprise ou de la ou des branches d'activité susceptibles d'être cédées
+en application de l'article L. 631-22. Il fixe le délai dans lequel les offres
+peuvent lui être soumises en application de l'article L. 631-13. Tout intéressé
+peut prendre connaissance de ces informations au greffe.
 
 L'administrateur porte le délai fixé pour le dépôt des offres à la connaissance
 du mandataire judiciaire et des contrôleurs.

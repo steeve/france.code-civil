@@ -2,10 +2,9 @@ Article R611-26
 ----
 S'il n'est pas fait droit à la demande de désignation d'un conciliateur ou de
 prorogation de la mission de celui-ci, appel peut être interjeté par le débiteur
-dans un délai de dix jours à compter de la notification de la décision.
-
-L'appel est formé selon les règles applicables en matière gracieuse. Toutefois,
-le débiteur est dispensé du ministère de l'avocat ou de l'avoué.
+par une déclaration faite ou adressée par lettre recommandée avec demande d'avis
+de réception au greffe du tribunal. Toutefois, le débiteur est dispensé du
+ministère de l'avocat ou de l'avoué.
 
 Le président du tribunal peut, dans un délai de cinq jours à compter de la
 déclaration d'appel, modifier ou rétracter sa décision.

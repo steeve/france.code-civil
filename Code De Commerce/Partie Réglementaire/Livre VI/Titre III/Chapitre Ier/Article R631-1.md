@@ -53,7 +53,7 @@ d'autorisation ou la déclaration.
 
 Ces documents sont datés, signés et certifiés sincères et véritables par le
 demandeur. Ceux qui sont mentionnés aux l°, 2°, 5°, 6°, 7° et 8° sont établis à
-la date de la demande.
+la date de la demande ou dans les sept jours qui précèdent.
 
 Dans le cas où l'un ou l'autre de ces documents ne peut être fourni ou ne peut
 l'être qu'incomplètement, la demande indique les motifs qui empêchent cette

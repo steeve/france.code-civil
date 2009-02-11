@@ -14,7 +14,6 @@ avec la référence au tarif prévu par les textes ;
 au profit d'un intervenant extérieur au titre du mandat, en application des
 articles L. 811-1 et L. 812-1 ;
 
-4° La rémunération des experts et des officiers publics désignés par le tribunal
-en application du dernier alinéa de l'article L. 621-4 ainsi que des techniciens
-désignés par le juge-commissaire en application du deuxième alinéa de l'article
-L. 621-9.
+4° La rémunération des experts désignés par le tribunal et des techniciens
+désignés par le juge-commissaire, y compris les officiers publics ou
+ministériels.

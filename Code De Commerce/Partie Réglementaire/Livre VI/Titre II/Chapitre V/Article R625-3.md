@@ -8,7 +8,7 @@ ci-après. Les salariés dont les créances sont admises sont informés au momen
 paiement.
 
 Le salarié dont la créance a été omise peut être relevé de la forclusion par le
-conseil de prud'hommes dans le délai prévu au deuxième alinéa de l'article L.
+conseil de prud'hommes dans le délai prévu au troisième alinéa de l'article L.
 622-26. Le relevé de forclusion bénéficie aux institutions mentionnées à
 l'article L. 143-11-4 du code du travail.
 

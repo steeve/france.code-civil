@@ -1,6 +1,6 @@
 Article R642-8
 ----
-Lorsqu'en application du dernier alinéa de l'article L. 642-7 il y a désaccord
+Lorsqu'en application du quatrième alinéa de l'article L. 642-7 il y a désaccord
 entre les parties sur la valeur du bien objet du contrat de crédit-bail, le
 tribunal fixe cette valeur, au besoin après expertise, dans le plan de cession
 ou, à défaut, à la requête de l'une ou l'autre des parties.

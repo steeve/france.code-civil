@@ -8,7 +8,7 @@ Les cocontractants mentionnés aux articles L. 622-13 et L. 622-14 bénéficient
 d'un délai d'un mois à compter de la date de la résiliation de plein droit ou de
 la notification de la décision prononçant la résiliation pour déclarer au passif
 la créance résultant de cette résiliation. Il en est de même des créanciers
-d'indemnités et pénalités mentionnées au 3° du III de l'article L. 622-17 en cas
+d'indemnités et pénalités mentionnées au 2° du III de l'article L. 622-17 en cas
 de résiliation d'un contrat régulièrement poursuivi.
 
 L'avertissement du mandataire judiciaire reproduit les dispositions légales et

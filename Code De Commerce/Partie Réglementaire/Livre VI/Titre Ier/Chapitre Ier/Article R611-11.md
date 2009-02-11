@@ -1,10 +1,10 @@
 Article R611-11
 ----
-L'entretien prévu au premier alinéa de l'article L. 611-2 donne lieu à
-l'établissement par le président du tribunal d'un procès-verbal qui ne mentionne
-que la date et le lieu de l'entretien ainsi que l'identité des personnes
-présentes. Ce procès-verbal est signé par ces dernières et le président du
-tribunal.
+L'entretien prévu au premier alinéa de l'article L. 611-2, qui se tient hors la
+présence du greffier, donne lieu à l'établissement par le président du tribunal
+d'un procès-verbal qui ne mentionne que la date et le lieu de l'entretien ainsi
+que l'identité des personnes présentes. Ce procès-verbal est signé par ces
+dernières et le président du tribunal.
 
 Si la personne convoquée ne se rend pas à la convocation, un procès-verbal de
 carence est dressé le jour même par le greffier aux fins d'application des

@@ -7,3 +7,6 @@ légal de la personne morale ou par le débiteur personne physique et déposée 
 greffe.
 
 Cette demande expose les raisons qui la motivent.
+
+Lorsque le débiteur propose un mandataire ad hoc à la désignation du président
+du tribunal, il précise son identité et son adresse.

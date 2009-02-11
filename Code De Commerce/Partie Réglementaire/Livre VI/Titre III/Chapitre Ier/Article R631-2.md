@@ -9,4 +9,5 @@ conciliateur.
 
 La demande d'ouverture d'une procédure de redressement judiciaire est à peine
 d'irrecevabilité, qui doit être soulevée d'office, exclusive de toute autre
-demande.
+demande, à l'exception d'une demande d'ouverture d'une procédure de liquidation
+judiciaire formée à titre subsidiaire.

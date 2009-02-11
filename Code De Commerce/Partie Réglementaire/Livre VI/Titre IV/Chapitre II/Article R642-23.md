@@ -2,8 +2,8 @@ Article R642-23
 ----
 L'ordonnance est notifiée à la diligence du greffier par lettre recommandée avec
 demande d'avis de réception au débiteur et aux créanciers inscrits à domicile
-élu dont les noms sont indiqués dans l'ordonnance ainsi qu'aux créanciers
-bénéficiant du privilège général immobilier.
+élu dont les noms sont indiqués dans l'ordonnance. Les contrôleurs en sont
+avisés par le greffier.
 
 L'ordonnance produit les effets du commandement prévu à l'article 13 du décret
 n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et

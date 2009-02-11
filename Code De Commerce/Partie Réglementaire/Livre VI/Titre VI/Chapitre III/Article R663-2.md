@@ -5,5 +5,7 @@ Les ordonnances du juge-commissaire, rendues en application de l'article L.
 au Trésor public ainsi qu'au procureur de la République. Elles peuvent faire
 l'objet d'un recours dans le mois suivant leur notification, par déclaration au
 greffe faite contre récépissé ou adressée par lettre recommandée avec demande
-d'avis de réception. Le recours est porté devant la cour d'appel. L'appel est
+d'avis de réception. Le recours est porté devant la cour d'appel.L'appel est
 formé, instruit et jugé suivant la procédure sans représentation obligatoire.
+Les mandataires de justice, le débiteur, le Trésor public et le ministère public
+qui ne sont pas appelants sont intimés.

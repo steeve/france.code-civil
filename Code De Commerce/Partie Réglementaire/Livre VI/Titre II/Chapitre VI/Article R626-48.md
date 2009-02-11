@@ -7,9 +7,10 @@ conditions de l'article L. 626-9, le commissaire à l'exécution du plan étant
 entendu ou dûment appelé et présentant son rapport en lieu et place de celui de
 l'administrateur.
 
-Lorsque le tribunal décide la résolution du plan en application du deuxième
-alinéa du I de l'article L. 626-27, il prononce, dans le même jugement, la
-liquidation judiciaire du débiteur.
+Lorsque le tribunal décide la résolution du plan en application du troisième
+alinéa du I de l'article L. 626-27, il ouvre, dans le même jugement, une
+procédure, selon le cas, de redressement judiciaire ou de liquidation judiciaire
+du débiteur.
 
 Le jugement est signifié à la diligence du greffier dans les huit jours de son
 prononcé aux personnes qui ont qualité pour interjeter appel, à l'exception du

@@ -1,16 +1,18 @@
 Article R622-15
 ----
-La liste des créances mentionnées au I de l'article L. 622-17, portées à la
-connaissance du mandataire judiciaire et de l'administrateur, lorsqu'il en a été
-désigné, en application du IV du même article, est transmise par ceux-ci, dès la
-cessation de leurs fonctions, au commissaire à l'exécution du plan, ou au
-liquidateur, selon le cas, qui la complète.
+L'administrateur, lorsqu'il en a été désigné, tient le mandataire judiciaire
+informé des créances mentionnées au I de l'article L. 622-17 qui ont été portées
+à sa connaissance en application du IV du même article.
+
+La liste de ces créances est transmise par l'administrateur ou, à défaut, le
+mandataire judiciaire, dès la cessation de leurs fonctions, au commissaire à
+l'exécution du plan, ou au liquidateur, selon le cas, qui la complète.
 
 Le commissaire à l'exécution du plan ou le liquidateur dépose cette liste au
 greffe du tribunal à l'issue du délai d'un an qui suit la fin de la période
 d'observation, où tout intéressé peut en prendre connaissance. Le greffier fait
 publier au Bulletin officiel des annonces civiles et commerciales une insertion
-indiquant ce dépôt.
+indiquant ce dépôt et le délai pour présenter une contestation.
 
 Tout intéressé peut contester cette liste devant le juge-commissaire dans un
 délai d'un mois à compter de la publication.

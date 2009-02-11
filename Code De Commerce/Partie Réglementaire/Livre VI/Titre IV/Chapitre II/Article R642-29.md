@@ -6,5 +6,6 @@ ressorts de tribunaux de grande instance différents.
 
 Il décide si la vente de ces biens sera poursuivie devant le juge de l'exécution
 du tribunal de grande instance dans le ressort duquel chaque immeuble se trouve
-ou devant celui dans le ressort duquel est situé le domicile du débiteur ou le
-siège de l'entreprise.
+ou devant celui dans le ressort duquel est situé l'adresse de l'entreprise ou de
+l'activité déclarée par le débiteur personne physique ou le siège du débiteur
+personne morale.

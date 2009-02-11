@@ -1,13 +1,11 @@
 Article R661-2
 ----
-L'opposition est formée contre les décisions rendues en matière de sauvegarde,
-de redressement et de liquidation judiciaires, de faillite personnelle ou
-d'interdiction prévue à l'article L. 653-8, par déclaration au greffe dans le
-délai de dix jours à compter du prononcé de la décision.
-
-La tierce opposition est formée contre les décisions rendues en matière de
-sauvegarde, de redressement et de liquidation judiciaires selon la même modalité
-et dans le même délai.
+Sauf dispositions contraires, l'opposition et la tierce opposition sont formées
+contre les décisions rendues en matière de mandat ad hoc, de conciliation, de
+sauvegarde, de redressement et de liquidation judiciaires, de responsabilité
+pour insuffisance d'actif, de faillite personnelle ou d'interdiction prévue à
+l'article L. 653-8, par déclaration au greffe dans le délai de dix jours à
+compter du prononcé de la décision.
 
 Toutefois, pour les décisions soumises aux formalités d'insertion dans un
 journal d'annonces légales et au Bulletin officiel des annonces civiles et

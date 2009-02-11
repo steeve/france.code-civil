@@ -4,7 +4,11 @@ La demande d'ouverture de la procédure de sauvegarde est déposée par le
 représentant légal de la personne morale ou par le débiteur personne physique au
 greffe du tribunal compétent. Elle expose la nature des difficultés qu'il
 rencontre et les raisons pour lesquelles il n'est pas en mesure de les
-surmonter.
+surmonter. Elle précise s'il s'engage à établir l'inventaire dans les conditions
+prévues à l'article L. 622-6-1 ainsi que le délai nécessaire à l'établissement
+de celui-ci ou s'il demande la désignation par le tribunal d'une personne
+chargée de réaliser l'inventaire en application du sixième alinéa de l'article
+L. 621-4.
 
 A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 pièces ci-après :
@@ -12,7 +16,7 @@ pièces ci-après :
 1° Un extrait d'immatriculation aux registres et répertoires mentionnés à
 l'article R. 621-8 ou, le cas échéant, le numéro unique d'identification ;
 
-2° Une situation de trésorerie datant de moins de huit jours ;
+2° Une situation de trésorerie ;
 
 3° Un compte de résultat prévisionnel ;
 
@@ -47,11 +51,14 @@ l'ordre professionnel ou de l'autorité dont il relève ;
 
 11° Lorsque le débiteur exploite une ou des installations classées au sens du
 titre Ier du livre V du code de l'environnement, la copie de la décision
-d'autorisation ou la déclaration.
+d'autorisation ou la déclaration ;
+
+12° Lorsque le débiteur propose un administrateur à la désignation du tribunal,
+l'indication de l'identité et de l'adresse de la personne concernée.
 
 Ces documents doivent être datés, signés et certifiés sincères et véritables par
-le débiteur. Ceux qui sont mentionnés aux 1°, 3°, 5°, 6° et 7° sont établis à la
-date de la demande.
+le débiteur. Ceux qui sont mentionnés aux 1° à 7°, à l'exception du 4°, sont
+établis à la date de la demande ou dans les sept jours qui précèdent.
 
 Dans le cas où l'un ou l'autre de ces documents ne peut être fourni ou ne peut
 l'être qu'incomplètement, la demande indique les motifs qui empêchent cette

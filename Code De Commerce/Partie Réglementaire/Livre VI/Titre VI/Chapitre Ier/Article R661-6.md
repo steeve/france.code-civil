@@ -1,10 +1,10 @@
 Article R661-6
 ----
 L' appel des jugements rendus en application des articles L. 661- 1, L. 661- 6
-et des chapitres Ier, II et III du titre V du livre VI de la partie législative
-du présent code, est formé, instruit et jugé suivant les modalités de la
-procédure avec représentation obligatoire prévue par les articles 901 à 925 du
-code de procédure civile, sous réserve des dispositions qui suivent :
+et des chapitres Ier et III du titre V du livre VI de la partie législative du
+présent code, est formé, instruit et jugé suivant les modalités de la procédure
+avec représentation obligatoire prévue par les articles 901 à 925 du code de
+procédure civile, sous réserve des dispositions qui suivent :
 
 1° Les mandataires de justice qui ne sont pas appelants doivent être intimés.
 

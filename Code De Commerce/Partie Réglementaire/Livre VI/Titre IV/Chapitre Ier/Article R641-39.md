@@ -15,5 +15,5 @@ délai d'un mois à compter de la publication.
 Les créances rejetées par le juge-commissaire sont réputées avoir été déclarées
 dans les conditions prévues par l'article L. 622-24.
 
-Dans ce cas, le créancier adresse au mandataire judiciaire les informations
-prévues à l'article L. 622-25 et à l'article R. 622-23.
+Dans ce cas, le créancier adresse au liquidateur les informations prévues à
+l'article L. 622-25 et à l'article R. 622-23.

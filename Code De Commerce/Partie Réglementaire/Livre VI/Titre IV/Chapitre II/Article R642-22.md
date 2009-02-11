@@ -7,7 +7,9 @@ des immeubles par voie d'adjudication judiciaire ou amiable détermine :
 la vente ;
 
 2° Les modalités de la publicité compte tenu de la valeur, de la nature et de la
-situation des biens.
+situation des biens ;
+
+3° Les modalités de visite des biens.
 
 Lorsque la vente est poursuivie par un créancier, en application de l'article L.
 643-2, la mise à prix est déterminée en accord avec le créancier poursuivant.
