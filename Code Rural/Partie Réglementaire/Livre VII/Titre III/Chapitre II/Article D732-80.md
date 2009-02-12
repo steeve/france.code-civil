@@ -21,11 +21,8 @@ qui suit la notification par la caisse de l'admission temporaire au rachat.
 
 Si, à l'expiration des délais de quatre ans ou de six mois prévus ci-dessus, la
 totalité des cotisations considérées n'a pas été versée, le rachat est annulé et
-les versements effectués sont remboursés à l'assuré. Il en est de même lorsqu'à
-la date d'effet de la retraite le caractère durable de l'option pour le statut
-de conjoint collaborateur d'exploitation ou d'entreprise agricole ne peut pas
-être établi pour un assuré admis au rachat à titre provisoire. Lorsque
-l'admission au rachat à titre provisoire a eu pour conséquence de porter le
-nombre d'annuités de retraite proportionnelle à plus de la durée minimale
-mentionnée au 1° de l'article L. 732-24 et définie à l'article R. 732-61 les
-annuités excédentaires dues au rachat sont également remboursées à l'intéressé.
+les versements effectués sont remboursés à l'assuré. Lorsque l'admission au
+rachat à titre provisoire a eu pour conséquence de porter le nombre d'annuités
+de retraite proportionnelle à plus de la durée minimale mentionnée au 1° de
+l'article L. 732-24 et définie à l'article R. 732-61 les annuités excédentaires
+dues au rachat sont également remboursées à l'intéressé.

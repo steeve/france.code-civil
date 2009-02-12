@@ -1,48 +1,37 @@
 Article D732-111
 ----
-Les pensions de retraite proportionnelles des chefs d'exploitation ou
-d'entreprise agricole ayant pris effet antérieurement au 1er janvier 1994 sont
-révisées en tenant compte, le cas échéant, dans les conditions prévues ci-après,
-des périodes d'activité non salariée agricole qu'ils ont accomplies en qualité
-d'aide familial majeur au sens de l'article L. 732-34 dans sa rédaction
-antérieure à la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+Le montant minimum annuel prévu à l'article D. 732-110, appelé pension annuelle
+majorée de référence de l'assuré ou PMR, est déterminé selon la formule suivante
+:
 
-Bénéficient des dispositions du présent article les assurés totalisant moins de
-six cents points retenus pour le calcul de leurs droits à la pension de retraite
-proportionnelle et dont le nombre annuel moyen de points se rapportant à la
-durée totale de leur activité non salariée agricole est inférieur à seize.
+PMR = [PMR1 × (DM1 / DR)] + [PMR2 × (DM2) / DR]
 
-Pour l'application du présent article :
+où
 
-1° La durée d'activité accomplie en qualité de chef d'exploitation ou
-d'entreprise prise en considération est déterminée en divisant le nombre total
-de points de retraite inscrits au compte de l'assuré par le chiffre 16 ;
+― PMR1 est égal à 7 596 euros au 1er janvier 2009 ;
 
-2° Pour déterminer la majoration des pensions de retraite proportionnelles, le
-nombre d'années d'activité accomplies en tant qu'aide familial prises en
-considération, dans la limite de vingt années, est égal à la différence entre la
-durée totale de l'activité non salariée agricole accomplie par l'intéressé et
-plafonnée à trente-sept années et demie, d'une part, et la durée d'activité en
-tant que chef d'exploitation ou d'entreprise agricole déterminée en application
-de l'alinéa précédent, d'autre part.
+― PMR2 est égal à 6 036 euros au 1er janvier 2009 ;
 
-Lorsque les intéressés justifient d'au moins trente-sept années et demie
-d'activité non salariée agricole, dont, au terme du calcul ci-dessus, au moins
-dix-sept années et demie en tant que chef d'exploitation ou d'entreprise
-agricole, chaque année d'activité d'aide familial majeur ouvre droit à seize
-points de retraite.
+― DM1 représente la durée d'assurance de l'assuré composée des périodes définies
+aux 1° et 2°, ou au 3°, du II de l'article D. 732-110 retenues dans les
+conditions et limites prévues aux I et III de ce même article ;
 
-Pour les personnes dont la durée d'activité non salariée agricole est, au terme
-de la reconstitution de carrière prévue ci-dessus, comprise entre vingt-deux
-années et demie et trente-sept années et demie, dont au moins dix-sept années et
-demie en tant que chef d'exploitation ou d'entreprise agricole, le nombre de
-points de retraite proportionnelle attribués pour la période d'aide familial est
-calculé sur la base de seize points pour chacune des années considérées comme
-accomplies à ce titre et retenues dans la limite de vingt. Le nombre de points
-ainsi obtenu est minoré par application d'un coefficient qui est fonction de
-l'écart entre, d'une part, trente-sept années et demie et, d'autre part, le
-nombre d'années d'activité non salariée agricole accomplies par les intéressés
-et retenues dans les limites définies aux 1° et 2° ci-dessus. Pour chacune des
-années de l'écart constaté, le coefficient de minoration à appliquer est de 5,5
-% au 1er janvier 2007 pour les pensions dues au titre de l'année 2007 et de 4 %
-au 1er janvier 2008 pour les pensions dues à compter du 1er janvier 2008.
+― DM2 représente la durée d'assurance de l'assuré composée des périodes définies
+au 4° du II de l'article D. 732-110 retenues dans les conditions et limites
+prévues aux I et III de ce même article ;
+
+― DR est la durée fixée au 1° de l'article R. 732-61 dans sa rédaction
+applicable à la date d'effet de la pension de retraite de base, cette durée de
+référence ne peut être inférieure à 37, 5 années.
+
+La somme de DM1 et de DM2 ne peut être supérieure à la durée de référence DR
+définie ci-dessus. Les périodes mentionnées aux 1° et 3° du II de l'article D.
+732-110 sont retenues en priorité.
+
+Les montants minimums annuels PMR1 et PMR2 sont revalorisés aux mêmes dates et
+dans les mêmes conditions que celles prévues pour les pensions de vieillesse de
+base par l' article L. 161-23-1 du code de la sécurité sociale .
+
+La majoration prévue à l'article L. 732-25-1 est calculée sur la base du montant
+de pension avant qu'il ne soit porté au montant minimum annuel. Elle est
+calculée avant la majoration prévue à l'article D. 732-38.
