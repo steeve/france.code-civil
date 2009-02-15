@@ -1,6 +1,6 @@
 Article R171-9
 ----
-La liste des experts fonciers et agricoles et des experts forestiers est établie
+La liste des experts fonciers et agricoles ou des experts forestiers est établie
 par le comité avant le 1er janvier de chaque année. Cette liste est publiée dans
 le mois qui suit la décision du comité, par voie d'affichage au siège du conseil
 national et par tout autre moyen approprié. Elle est notifiée au ministre chargé
