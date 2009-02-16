@@ -26,7 +26,7 @@ président, l'anonymat des saisines et des documents qui lui sont soumis, y
 compris vis-à-vis de ses membres.
 
 La commission est saisie par le ministre chargé de l'économie, le ministre
-chargé du secteur économique concerné, le président du Conseil de la
+chargé du secteur économique concerné, le président de l'Autorité de la
 concurrence, toute personne morale, notamment les organisations professionnelles
 ou syndicales, les associations de consommateurs agréées, les chambres
 consulaires ou d'agriculture, ainsi que par tout producteur, fournisseur,

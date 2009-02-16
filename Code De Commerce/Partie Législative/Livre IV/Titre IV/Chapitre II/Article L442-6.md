@@ -109,7 +109,7 @@ peut constater un accord sur des conditions différentes qui soient équitables.
 
 III.-L'action est introduite devant la juridiction civile ou commerciale
 compétente par toute personne justifiant d'un intérêt, par le ministère public,
-par le ministre chargé de l'économie ou par le président du Conseil de la
+par le ministre chargé de l'économie ou par le président de l'Autorité de la
 concurrence lorsque ce dernier constate, à l'occasion des affaires qui relèvent
 de sa compétence, une pratique mentionnée au présent article.
 

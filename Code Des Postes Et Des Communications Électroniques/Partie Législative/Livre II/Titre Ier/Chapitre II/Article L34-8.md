@@ -12,7 +12,7 @@ L. 32-1, l'autorité peut imposer, de manière objective, transparente, non
 discriminatoire et proportionnée, les modalités de l'accès ou de
 l'interconnexion :
 
-a) Soit de sa propre initiative, après avis du Conseil de la concurrence,
+a) Soit de sa propre initiative, après avis de l'Autorité de la concurrence,
 consultation publique et notification à la Commission européenne et aux
 autorités compétentes des autres Etats membres de la Communauté européenne ; la
 décision est adoptée dans des conditions de procédure préalablement publiées par
