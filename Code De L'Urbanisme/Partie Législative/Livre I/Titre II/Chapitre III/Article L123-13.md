@@ -20,14 +20,26 @@ au préfet, au président du conseil régional, au président du conseil génér
 le cas échéant, au président de l'établissement public prévu à l'article L.
 122-4, ainsi qu'aux organismes mentionnés à l'article L. 121-4.
 
+Toutefois, lorsque la modification a uniquement pour objet la rectification
+d'une erreur matérielle ou porte uniquement sur des éléments mineurs dont la
+liste est fixée par décret en Conseil d'Etat, à l'exclusion de modifications sur
+la destination des sols, elle peut, à l'initiative du maire ou du président de
+l'établissement public de coopération intercommunale compétent, être effectuée
+selon une procédure simplifiée. La modification simplifiée est adoptée par le
+conseil municipal ou par l'organe délibérant de l'établissement public de
+coopération intercommunale compétent par délibération motivée, après que le
+projet de modification et l'exposé de ses motifs ont été portés à la
+connaissance du public, en vue de lui permettre de formuler des observations,
+pendant un délai d'un mois préalablement à la convocation de l'assemblée
+délibérante.
+
 Dans les autres cas que ceux visés aux a, b et c, le plan local d'urbanisme peut
 faire l'objet d'une révision selon les modalités définies aux articles L. 123-6
 à L. 123-12.
 
 Lorsque la révision a pour seul objet la réalisation d'une construction ou d'une
 opération, à caractère public ou privé, présentant un intérêt général notamment
-pour la commune ou toute autre collectivité ou lorsque la révision a pour objet
-la rectification d'une erreur matérielle, elle peut, à l'initiative du maire,
+pour la commune ou toute autre collectivité, elle peut, à l'initiative du maire,
 être effectuée selon une procédure simplifiée. La révision simplifiée donne lieu
 à un examen conjoint des personnes publiques associées mentionnées à l'article
 L. 123-9. Le dossier de l'enquête publique est complété par une notice

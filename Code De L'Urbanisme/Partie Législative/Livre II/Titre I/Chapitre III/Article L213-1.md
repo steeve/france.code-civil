@@ -65,7 +65,9 @@ g) L'aliénation par l'Etat ou ses établissements publics de terrains, bâtis o
 non bâtis, en vue de la réalisation des logements situés dans les périmètres
 mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13
 juillet 2006 portant engagement national pour le logement, tant que les décrets
-prévus au même alinéa ne sont pas caducs ;
+prévus au même alinéa ne sont pas caducs ou en vue de la réalisation des
+opérations d'intérêt national mentionnées au premier alinéa de l'article L.
+121-2;
 
 h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à
 ses établissements publics, réalisés conformément à l'article 141 de la loi n°

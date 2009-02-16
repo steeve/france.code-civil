@@ -8,8 +8,8 @@ d'un titre de formation délivré par un Etat tiers, et reconnu dans un Etat,
 membre ou partie, autre que la France, permettant d'y exercer légalement la
 profession et dans lequel l'intéressé a acquis une expérience professionnelle
 pertinente dont il atteste par tout moyen. Dans le cas où l'examen des
-qualifications professionnelles attestées par ce titre et fondées sur
-l'expérience professionnelle pertinente fait apparaître des différences
+qualifications professionnelles attestées par l'ensemble des titres de formation
+et de l'expérience professionnelle pertinente fait apparaître des différences
 substantielles au regard des qualifications requises pour l'accès à la
 profession et son exercice en France, l'autorité compétente exige que
 l'intéressé se soumette à une mesure de compensation qui consiste, au choix du

@@ -1,9 +1,16 @@
 Article L46
 ----
-Les exploitants de réseaux ouverts au public peuvent occuper le domaine public
-routier, en y implantant des ouvrages dans la mesure où cette occupation n'est
-pas incompatible avec son affectation.
+Les autorités concessionnaires ou gestionnaires du domaine public non routier,
+lorsqu'elles donnent accès à des exploitants de réseaux de communications
+électroniques, doivent le faire sous la forme de convention, dans des conditions
+transparentes et non discriminatoires et dans toute la mesure où cette
+occupation n'est pas incompatible avec son affectation ou avec les capacités
+disponibles. La convention donnant accès au domaine public non routier ne peut
+contenir de dispositions relatives aux conditions commerciales de
+l'exploitation. Elle peut donner lieu à versement de redevances dues à
+l'autorité concessionnaire ou gestionnaire du domaine public concerné dans le
+respect du principe d'égalité entre les opérateurs. Ces redevances sont
+raisonnables et proportionnées à l'usage du domaine.
 
-Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont
-effectués conformément aux règlements de voirie, et notamment aux dispositions
-de l'article L. 115-1 du code de la voirie routière.
+Un décret en Conseil d'Etat détermine le montant maximum des redevances
+assorties à l'occupation du domaine public non routier.

@@ -37,7 +37,11 @@ contrat conclu entre les parties, l'entretien des infrastructures et des
 responsabilité, moyennant paiement d'une contribution négociée avec l'opérateur.
 En cas de litige entre opérateurs, l'Autorité de régulation des communications
 électroniques et des postes peut être saisie, dans les conditions fixées à
-l'article L. 36-8.
+l'article L. 36-8. Dès lors qu'elle résulte du partage d'une installation déjà
+autorisée au titre d'une autre servitude et qu'elle n'accroît pas l'atteinte
+portée à la propriété privée, la servitude prévue à l'article L. 45-1 est
+exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une
+indemnisation dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au
 droit des propriétaires ou copropriétaires de démolir, réparer, modifier ou

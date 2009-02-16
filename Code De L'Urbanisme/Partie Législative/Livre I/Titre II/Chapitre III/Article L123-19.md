@@ -11,7 +11,7 @@ Ils peuvent faire l'objet :
 a) D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale
 du plan et sous les conditions fixées aux b et c de l'article L. 123-13 ;
 
-b) D'une révision simplifiée selon les modalités définies par le huitième alinéa
+b) D'une révision simplifiée selon les modalités définies par le neuvième alinéa
 de l'article L. 123-13, si cette révision est approuvée avant le 1er janvier
 2010 sous réserve, lorsque le plan répond aux conditions définies par le 4° de
 l'article L. 121-10, de l'application de la procédure prévue aux articles L.
@@ -55,7 +55,7 @@ d'occupation des sols en application des articles L. 123-3 et L. 123-4 dans leur
 rédaction antérieure à la loi n° 2000-1208 du 13 décembre 2000 précitée valent
 prescription de l'élaboration ou de la révision du plan local d'urbanisme en
 application des articles L. 123-6 et L. 123-13 dans leur rédaction issue de
-cette loi. L'élaboration ou la révision est soumise au régime juridique défini
+cette loi.L'élaboration ou la révision est soumise au régime juridique défini
 par le présent chapitre, à l'exception du cas prévu au septième alinéa. La
 commune ou l'organe délibérant de l'établissement public de coopération
 intercommunale délibère, en application de l'article L. 300-2, sur les modalités

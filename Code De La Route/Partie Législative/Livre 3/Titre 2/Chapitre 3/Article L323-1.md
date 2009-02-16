@@ -1,6 +1,6 @@
 Article L323-1
 ----
-I. - Lorsqu'en application du présent code, des véhicules sont astreints à un
+I.-Lorsqu'en application du présent code, des véhicules sont astreints à un
 contrôle technique, celui-ci est effectué par les services de l'Etat ou par des
 contrôleurs agréés par l'Etat.
 
@@ -20,7 +20,7 @@ contrôle et en particulier les conditions d'agrément des contrôleurs, des
 installations nécessaires au contrôle et des réseaux mentionnés au deuxième
 alinéa.
 
-II. - Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté
+II.-Par dérogation au I, tout ressortissant d'un Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'Espace économique européen, légalement
 établi, pour l'exercice de la profession de contrôleur technique de véhicules,
 dans un de ces Etats, peut exercer cette activité de façon temporaire et
@@ -31,6 +31,6 @@ réglementée dans l'Etat d'établissement, le prestataire doit avoir exercé ce
 activité dans cet Etat pendant au moins deux ans au cours des dix années qui
 précèdent la prestation.
 
-Lorsque le prestataire fournit pour la première des services en France, il en
-informe au préalable l'autorité compétente par une déclaration écrite, dans les
-conditions fixées par décret en Conseil d'Etat.
+Lorsque le prestataire fournit pour la première fois des services en France, il
+en informe au préalable l'autorité compétente par une déclaration écrite, dans
+les conditions fixées par décret en Conseil d'Etat.

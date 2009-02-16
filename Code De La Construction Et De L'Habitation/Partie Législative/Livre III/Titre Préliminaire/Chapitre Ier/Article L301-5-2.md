@@ -42,15 +42,15 @@ montant des crédits de paiement est fixé chaque année en fonction de
 l'échéancier de versement des crédits, des engagements constatés les années
 précédentes et des engagements prévisionnels de l'année considérée.
 
-Les décisions d'attribution, par le président du conseil général, des aides en
-faveur de l'habitat privé sont prises par délégation de l'Agence nationale de
-l'habitat après avis d'une commission locale d'amélioration de l'habitat, dans
-la limite des droits à engagement correspondants. Elles donnent lieu à paiement
-par l'Agence nationale de l'habitat, dans des conditions fixées par la
-convention prévue à l'article L. 321-1-1. Toutefois, lorsque le département
-demande à assurer le paiement direct des aides à leurs bénéficiaires, la
-convention précitée en prévoit les conditions et notamment les modalités de
-versement des crédits par l'agence au département.
+Les décisions d'attribution des aides en faveur de l'habitat privé sont prises
+par le président du conseil général, par délégation de l'Agence nationale de
+l'habitat, dans la limite des droits à engagement correspondants, dans le cadre
+d'un programme d'action fixé après avis d'une commission locale d'amélioration
+de l'habitat. Elles donnent lieu à paiement par l'Agence nationale de l'habitat,
+dans des conditions fixées par la convention prévue à l'article L. 321-1-1.
+Toutefois, lorsque le département demande à assurer le paiement direct des aides
+à leurs bénéficiaires, la convention précitée en prévoit les conditions et
+notamment les modalités de versement des crédits par l'agence au département.
 
 La convention fixe, en accord avec la Caisse des dépôts et consignations,
 l'enveloppe de prêts que cet établissement peut affecter aux opérations définies

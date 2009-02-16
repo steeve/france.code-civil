@@ -7,9 +7,9 @@ Etat partie à l'accord sur l'Espace économique européen, titulaires d'un titr
 de formation délivré par l'un de ces Etats, ne répondant pas aux conditions
 prévues à l'article L. 4151-5 mais permettant d'exercer légalement la profession
 de sage-femme dans cet Etat. Dans le cas où l'examen des qualifications
-professionnelles attestées par ce titre et fondées sur l'expérience
-professionnelle pertinente fait apparaître des différences substantielles au
-regard des qualifications requises pour l'accès à la profession et son exercice
-en France, l'autorité compétente exige que l'intéressé se soumette à une mesure
-de compensation qui consiste, au choix du demandeur, en une épreuve d'aptitude
-ou en un stage d'adaptation.
+professionnelles attestées par l'ensemble des titres de formation et de
+l'expérience professionnelle pertinente fait apparaître des différences
+substantielles au regard des qualifications requises pour l'accès à la
+profession et son exercice en France, l'autorité compétente exige que
+l'intéressé se soumette à une mesure de compensation qui consiste, au choix du
+demandeur, en une épreuve d'aptitude ou en un stage d'adaptation.

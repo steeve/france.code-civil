@@ -12,9 +12,10 @@ la loi n° 97-135 du 13 février 1997 précitée, à l'article 18 de la loi n°
 82-1153 du 30 décembre 1982 précitée et à l'article 176 du code du domaine
 public fluvial et de la navigation intérieure, ou les établissements publics
 figurant sur la liste prévue à l'article L. 240-1, d'immeubles en vue de
-réaliser les opérations d'intérêt national mentionnées au deuxième alinéa du I
-de l'article 1er de la loi n° 2006-872 du 13 juillet 2006 portant engagement
-national pour le logement ;
+réaliser les opérations d'intérêt national mentionnées au premier alinéa de
+l'article L. 121-2, y compris les opérations ayant ces effets en vertu du
+deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet 2006
+portant engagement national pour le logement ;
 
 -aux transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses
 établissements publics, réalisés conformément à l' article 141 de la loi n°

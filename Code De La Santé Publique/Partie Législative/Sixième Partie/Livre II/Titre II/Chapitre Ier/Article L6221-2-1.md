@@ -24,11 +24,12 @@ fonctions et dans lequel l'intéressé a acquis une expérience professionnelle
 pertinente, dont il atteste par tout moyen ;
 
 Dans ces cas, lorsque l'examen des qualifications professionnelles attestées par
-ce titre et fondées sur l'expérience professionnelle pertinente fait apparaître
-des différences substantielles au regard des qualifications requises pour
-l'accès à ces fonctions et leur exercice en France, l'autorité compétente exige
-que l'intéressé se soumette à une mesure de compensation qui consiste, au choix
-du demandeur, en une épreuve d'aptitude ou en un stage d'adaptation.
+l'ensemble des titres de formation et de l'expérience professionnelle pertinente
+fait apparaître des différences substantielles au regard des qualifications
+requises pour l'accès à ces fonctions et leur exercice en France, l'autorité
+compétente exige que l'intéressé se soumette à une mesure de compensation qui
+consiste, au choix du demandeur, en une épreuve d'aptitude ou en un stage
+d'adaptation.
 
 L'autorisation peut être limitée aux fonctions de directeur ou de directeur
 adjoint d'un laboratoire spécialisé dans l'exécution de certains actes en

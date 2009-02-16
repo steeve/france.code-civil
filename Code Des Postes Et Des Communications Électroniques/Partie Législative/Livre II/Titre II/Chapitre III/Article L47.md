@@ -1,5 +1,13 @@
 Article L47
 ----
+Les exploitants de réseaux ouverts au public peuvent occuper le domaine public
+routier, en y implantant des ouvrages dans la mesure où cette occupation n'est
+pas incompatible avec son affectation.
+
+Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont
+effectués conformément aux règlements de voirie, et notamment aux dispositions
+de l'article L. 115-1 du code de la voirie routière.
+
 L'occupation du domaine routier fait l'objet d'une permission de voirie,
 délivrée par l'autorité compétente, suivant la nature de la voie empruntée, dans
 les conditions fixées par le code de la voirie routière. La permission peut
@@ -33,7 +41,7 @@ conditions commerciales de l'exploitation. Elle donne lieu à versement de
 redevances dues à la collectivité publique concernée pour l'occupation de son
 domaine public dans le respect du principe d'égalité entre tous les opérateurs.
 
-L'autorité mentionnée au premier alinéa se prononce dans un délai de deux mois
+L'autorité mentionnée au troisième alinéa se prononce dans un délai de deux mois
 sur les demandes de permission de voirie.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent

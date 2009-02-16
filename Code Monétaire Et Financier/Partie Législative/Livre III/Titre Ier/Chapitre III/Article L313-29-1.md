@@ -1,17 +1,17 @@
 Article L313-29-1
 ----
-Le contrat de partenariat ou le contrat mentionné au premier alinéa de l'article
-L. 6148-5 du code de la santé publique peut prévoir qu'une fraction, n'excédant
-pas 80 % de la rémunération due par la personne publique au titre des coûts
-d'investissement, lesquels comprennent, notamment, les coûts d'étude et de
-conception, les coûts annexes à la construction et les frais financiers
-intercalaires, et des coûts de financement, peut être cédée en application des
-articles L. 313-23 à L. 313-29 du présent code.
+Lorsque tout ou partie de la rémunération due en vertu d'un contrat de
+partenariat ou d'un contrat mentionné au premier alinéa de l'article L. 6148-5
+du code de la santé publique au titre des coûts d'investissement, lesquels
+comprennent notamment les coûts d'étude et de conception, les coûts de
+construction et ses coûts annexes, les frais financiers intercalaires, et des
+coûts de financement, est cédé en application des articles L. 313-23 à L. 313-29
+du présent code, le contrat peut prévoir que 80 % au maximum de cette cession
+fait l'objet de l'acceptation prévue à l'article L. 313-29.
 
-Dans ce cas, la créance cédée ne peut être définitivement acquise au
-cessionnaire qu'à compter de la constatation par la personne publique
+L'acceptation est subordonnée à la constatation par la personne publique
 contractante que les investissements ont été réalisés conformément aux
-prescriptions du contrat.A compter de cette constatation, et à moins que le
+prescriptions du contrat. A compter de cette constatation, et à moins que le
 cessionnaire, en acquérant ou en recevant la créance, n'ait agi sciemment au
 détriment du débiteur public, aucune compensation ni aucune exception fondée sur
 les rapports personnels du débiteur avec le titulaire du contrat de partenariat

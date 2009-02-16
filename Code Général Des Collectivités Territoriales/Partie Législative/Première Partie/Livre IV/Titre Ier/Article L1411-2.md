@@ -6,13 +6,20 @@ demandées au délégataire. Lorsque les installations sont à la charge du
 délégataire, la convention de délégation tient compte, pour la détermination de
 sa durée, de la nature et du montant de l'investissement à réaliser et ne peut
 dans ce cas dépasser la durée normale d'amortissement des installations mises en
-oeuvre. Dans le domaine de l'eau potable, de l'assainissement, des ordures
-ménagères et autres déchets, les délégations de service public ne peuvent avoir
-une durée supérieure à vingt ans sauf examen préalable par le trésorier-payeur
-général, à l'initiative de l'autorité délégante, des justificatifs de
-dépassement de cette durée. Les conclusions de cet examen sont communiquées aux
-membres de l'assemblée délibérante compétente avant toute délibération relative
-à la délégation.
+oeuvre. Le délégataire peut également être autorisé, avec l'accord expressément
+formulé de la personne morale de droit public, à conclure des baux ou droits
+d'une durée excédant celle de la convention de délégation de service public. Les
+autorisations données par la personne morale de droit public, ainsi que les baux
+et droits réels qui en résultent, constituent des accessoires à la convention de
+délégation de service public et sont, à l'issue de la durée de la convention de
+délégation de service public, transférés à la personne morale de droit public.
+Dans le domaine de l'eau potable, de l'assainissement, des ordures ménagères et
+autres déchets, les délégations de service public ne peuvent avoir une durée
+supérieure à vingt ans sauf examen préalable par le trésorier-payeur général, à
+l'initiative de l'autorité délégante, des justificatifs de dépassement de cette
+durée. Les conclusions de cet examen sont communiquées aux membres de
+l'assemblée délibérante compétente avant toute délibération relative à la
+délégation.
 
 Une délégation de service ne peut être prolongée que :
 

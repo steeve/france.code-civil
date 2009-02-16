@@ -12,7 +12,7 @@ soumis pour avis. Cet avis est donné dans un délai de trois mois ; à défaut,
 est réputé favorable.
 
 Les maires de ces communes sont invités à participer à l'examen conjoint, prévu
-au huitième alinéa de l'article L. 123-13 en cas de révision simplifiée du plan
+au neuvième alinéa de l'article L. 123-13 en cas de révision simplifiée du plan
 local d'urbanisme, et au troisième alinéa de l'article L. 123-16 en cas de mise
 en compatibilité avec une déclaration d'utilité publique ou une déclaration de
 projet. En cas de modification, le projet leur est notifié dans les conditions
