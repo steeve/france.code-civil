@@ -142,12 +142,37 @@ leur mandataire.
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la
-condition que soient jointes à la déclaration des revenus des pièces
-justificatives, répondant à un modèle fixé par un arrêté attestant le total du
-montant et la date des versements ainsi que l'identité des bénéficiaires.A
-défaut, la réduction d'impôt est refusée sans proposition de rectification
-préalable.
+4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements
+effectués au profit d'organismes agréés dans les conditions prévues à l'article
+1649 nonies dont le siège est situé dans un Etat membre de la Communauté
+européenne ou dans un Etat partie à l'Espace économique européen ayant conclu
+avec la France une convention fiscale contenant une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale.
+L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente
+des caractéristiques similaires aux organismes dont le siège est situé en France
+répondant aux conditions fixées par le présent article.
+
+Lorsque les dons et versements ont été effectués au profit d'un organisme non
+agréé dont le siège est situé dans un Etat membre de la Communauté européenne ou
+dans un Etat partie à l'Espace économique européen ayant conclu avec la France
+une convention fiscale contenant une clause d'assistance administrative en vue
+de lutter contre la fraude ou l'évasion fiscale, la réduction d'impôt obtenue
+fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai
+de dépôt de déclaration les pièces justificatives attestant que cet organisme
+poursuit des objectifs et présente des caractéristiques similaires aux
+organismes dont le siège est situé en France répondant aux conditions fixées par
+le présent article.
+
+Un décret fixe les conditions d'application du présent 4 bis et notamment la
+durée de validité ainsi que les modalités de délivrance, de publicité et de
+retrait de l'agrément.
+
+5. Le bénéfice des dispositions du 1, du 1 ter, du 2 bis et du 4 bis est
+subordonné à la condition que soient jointes à la déclaration des revenus des
+pièces justificatives, répondant à un modèle fixé par un arrêté attestant le
+total du montant et la date des versements ainsi que l'identité des
+bénéficiaires.A défaut, la réduction d'impôt est refusée sans proposition de
+rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
 cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la

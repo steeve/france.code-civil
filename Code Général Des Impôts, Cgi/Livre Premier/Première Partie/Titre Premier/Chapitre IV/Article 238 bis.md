@@ -168,3 +168,28 @@ dispositions relatives aux statuts des organismes bénéficiaires des dons, les
 conditions de retrait de l'agrément et les informations relatives aux
 entreprises aidées que les organismes communiquent au ministre ayant délivré
 l'agrément.
+
+4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements
+effectués au profit d'organismes agréés dans les conditions prévues à l'article
+1649 nonies dont le siège est situé dans un Etat membre de la Communauté
+européenne ou dans un Etat partie à l'Espace économique européen ayant conclu
+avec la France une convention fiscale contenant une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale.
+L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente
+des caractéristiques similaires aux organismes dont le siège est situé en France
+répondant aux conditions fixées par le présent article.
+
+Lorsque les dons et versements ont été effectués au profit d'un organisme non
+agréé dont le siège est situé dans un Etat membre de la Communauté européenne ou
+dans un Etat partie à l'Espace économique européen ayant conclu avec la France
+une convention fiscale contenant une clause d'assistance administrative en vue
+de lutter contre la fraude ou l'évasion fiscale, la réduction d'impôt obtenue
+fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai
+de dépôt de déclaration les pièces justificatives attestant que cet organisme
+poursuit des objectifs et présente des caractéristiques similaires aux
+organismes dont le siège est situé en France répondant aux conditions fixées par
+le présent article.
+
+Un décret fixe les conditions d'application du présent 4 bis et notamment la
+durée de validité ainsi que les modalités de délivrance, de publicité et de
+retrait de l'agrément.
