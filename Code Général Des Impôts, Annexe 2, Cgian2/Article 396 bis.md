@@ -1,6 +1,6 @@
 Article 396 bis
 ----
-1. L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de
+1.L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de
 l'article 1929 quater du code général des impôts est faite :
 
 1° Si le redevable est une personne physique, au greffe du tribunal de commerce
@@ -23,17 +23,10 @@ grande instance statuant commercialement ou au greffe du tribunal de grande
 instance dans le ressort duquel se trouve le principal établissement du
 redevable.
 
-2. Lorsque la publicité est faite, en application du 4 de l'article 1929 quater
-du code général des impôts, l'inscription des sommes déterminées dans les
-conditions fixées au 3 dudit article doit être requise au plus tard :
-
-a. Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente
-;
-
-b. Le 31 août pour les sommes dues au 30 juin de l'année courante.
-
-L'octroi de délais de paiement ne fait pas obstacle à l'application des
-dispositions du présent article.
+2. Lorsque la publicité est faite, en application du premier alinéa du 4 de
+l'article 1929 quater du code général des impôts, l'inscription des sommes
+déterminées dans les conditions fixées au 3 dudit article doit être requise au
+plus tard dans le mois qui suit l'expiration du délai de neuf mois.
 
 3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le
 comptable public chargé du recouvrement remet ou adresse par lettre recommandée
@@ -102,7 +95,7 @@ comprise dans une inscription, le certificat vaut radiation de cette inscription
 
 8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double
 exemplaire ou adressés aux greffiers par lettre recommandée avec demande d'avis
-de réception. L'un des exemplaires est rendu ou renvoyé à titre de récépissé au
+de réception.L'un des exemplaires est rendu ou renvoyé à titre de récépissé au
 requérant, après avoir été revêtu, dès réception, d'une mention indiquant la
 date d'accomplissement de la formalité requise. Le deuxième exemplaire est
 conservé au greffe.
