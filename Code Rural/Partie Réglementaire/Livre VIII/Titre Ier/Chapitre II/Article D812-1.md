@@ -14,7 +14,8 @@ et du paysage (Agro Campus Ouest) ;
 
 4° Les écoles nationales vétérinaires d'Alfort, Lyon, Nantes et Toulouse ;
 
-5° L'Etablissement national d'enseignement supérieur agronomique de Dijon ;
+5° Institut national supérieur des sciences agronomiques, de l'alimentation et
+de l'environnement (Agrosup Dijon) ;
 
 6° L'Ecole nationale supérieure du paysage de Versailles ;
 
