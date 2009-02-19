@@ -13,7 +13,7 @@ publics :
 
 -le directeur de l'eau ;
 
--le directeur de la prévention des pollutions et des risques ;
+-le directeur général de la prévention des risques ;
 
 -le directeur de la nature et des paysages ;
 
@@ -47,7 +47,7 @@ l'énergie ;
 
 -le directeur général du Muséum national d'histoire naturelle ;
 
-- le commissaire général au développement durable, ou leur représentant ;
+-le commissaire général au développement durable, ou leur représentant ;
 
 b) Trois membres des services ou établissements territoriaux du ministère chargé
 de l'environnement, nommés, pour trois ans, par arrêté du ministre chargé de
