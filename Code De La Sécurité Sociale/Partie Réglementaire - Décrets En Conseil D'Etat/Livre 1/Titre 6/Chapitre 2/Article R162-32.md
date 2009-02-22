@@ -58,10 +58,9 @@ de matériel de petite chirurgie ou d'immobilisation sont effectués lors des
 soins non programmés.
 
 5° Les soins non suivis d'une hospitalisation dispensés dans les établissements
-de santé, représentatifs de la mise à disposition de l'ensemble des moyens
-nécessaires à la réalisation d'actes requérant l'utilisation d'un secteur
-opératoire ou l'observation du patient dans un environnement hospitalier.
-
-La prise en charge des frais occasionnés par ces prestations est assurée par des
-forfaits facturés pour chaque passage à l'exception des cas où le passage est
-réalisé dans les conditions du 2° du présent article.
+de santé, représentatifs de la mise à disposition des moyens nécessaires à
+l'utilisation d'un secteur opératoire ou l'observation du patient dans un
+environnement hospitalier. La prise en charge des frais résultant de
+l'utilisation de ces moyens est assurée par des forfaits facturés pour chaque
+passage à l'exception des cas où le passage est réalisé dans les conditions du
+2° du présent article.

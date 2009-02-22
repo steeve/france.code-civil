@@ -41,4 +41,10 @@ mentionnée à l'article L. 165-1 ;
 10° de 30 à 40 % pour les frais de soins thermaux dispensés dans un
 établissement thermal ;
 
-11° de 30 à 40 % pour tous les autres frais.
+11° de 30 à 40 % pour tous les autres frais ;
+
+12° De 15 à 25 % pour les forfaits mentionnés aux 2°, 4° et 5° de l'article R.
+162-32 ;
+
+13° De 15 à 25 % pour les consultations et les actes mentionnés au 3° de
+l'article R. 162-32-1 facturés en sus des forfaits mentionnés au 12°.

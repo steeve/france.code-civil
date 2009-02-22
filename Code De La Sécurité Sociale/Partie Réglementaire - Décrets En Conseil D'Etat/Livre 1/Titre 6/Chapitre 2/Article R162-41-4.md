@@ -5,14 +5,11 @@ dispensés en soins de suite ou de réadaptation et en psychiatrie par les
 établissements de santé privés mentionnés aux d et e de l'article L. 162-22-6,
 et sa répartition par région, établissement et nature d'activité, est communiqué
 par la Caisse nationale de l'assurance maladie des travailleurs salariés à
-l'Etat, aux agences régionales de l'hospitalisation ainsi qu'aux organisations
-nationales les plus représentatives des établissements de santé privés
-mentionnés au d de l'article L. 162-22-6, au plus tard le 31 mai pour l'état
-définitif des charges de l'année précédente et l'état des charges du premier
-trimestre de l'année en cours, et le 31 décembre pour l'état provisoire des
-charges de l'année. Chaque fois que l'Etat en fait la demande, la Caisse
-nationale de l'assurance maladie des travailleurs salariés lui communique le
-dernier état des charges connu.
+l'Etat, au plus tard le 31 mai pour l'état définitif des charges de l'année
+précédente et l'état des charges du premier trimestre de l'année en cours, et le
+31 décembre pour l'état provisoire des charges de l'année. Chaque fois que
+l'Etat en fait la demande, la Caisse nationale de l'assurance maladie des
+travailleurs salariés lui communique le dernier état des charges connu.
 
 Le montant s'apprécie à partir de la consolidation par les organismes nationaux
 dont relèvent les caisses mentionnées à l'article L. 174-18 des versements de

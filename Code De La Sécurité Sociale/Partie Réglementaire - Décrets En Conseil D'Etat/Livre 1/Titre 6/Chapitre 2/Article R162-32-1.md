@@ -5,10 +5,10 @@ l'objet d'une prise en charge distincte les frais afférents à la fourniture de
 spécialités pharmaceutiques et des produits et prestations mentionnés à
 l'article L. 162-22-7.
 
-2° Sont également exclus des forfaits, à l'exception de ceux couvrant l'activité
-d'hospitalisation à domicile ou de ceux des établissements de santé privés
-mentionnés aux d et e de l'article L. 162-22-6, à l'exception des établissements
-mentionnés à l'article 24 de l'ordonnance n° 96-346 du 24 avril 1996 :
+2° Sous réserve des dispositions du 4°, sont exclus des forfaits des
+établissements de santé privés mentionnés aux d et e de l'article L. 162-22-6, à
+l'exception des établissements mentionnés à l'article 24 de l'ordonnance n°
+96-346 du 24 avril 1996 :
 
 -les honoraires des praticiens, y compris ceux afférents aux examens de
 laboratoire, et, le cas échéant, les rémunérations des personnels qu'ils

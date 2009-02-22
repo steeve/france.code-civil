@@ -8,14 +8,16 @@ santé, les éléments tarifaires mentionnés aux 1° à 3° du I de l'article L
 162-22-10 dans le respect de l'objectif de dépenses mentionné à l'article L.
 162-22-9.
 
-Les tarifs nationaux des prestations et les montants des forfaits annuels sont
-déterminés en tenant compte notamment des éléments mentionnés aux 1° à 5° de
-l'article R. 162-41-1 et de l'impact de l'application des coefficients
-géographiques à l'activité des établissements des zones concernées.
+A cet effet, les tarifs nationaux des prestations et les montants des forfaits
+annuels sont déterminés en tenant compte notamment des prévisions d'évolution de
+l'activité des établissements pour l'année en cours, mesurée notamment à partir
+des données mentionnées aux articles L. 6113-7 et L. 6113-8 du code de la santé
+publique et de l'impact de l'application des coefficients géographiques aux
+tarifs des établissements des zones concernées.
 
-Pour le calcul des tarifs nationaux des prestations, il est également tenu
-compte du coût des prestations établi sur un échantillon représentatif
-d'établissements.
+Pour le calcul des tarifs nationaux des prestations, il peut également être tenu
+compte de la situation financière des établissements, appréciée, le cas échéant,
+par activité de soins, ou du coût relatif des prestations d'hospitalisation.
 
 Pour le calcul du coefficient géographique, il est notamment tenu compte des
 surcoûts immobiliers, salariaux et fiscaux constatés dans certaines zones

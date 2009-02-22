@@ -9,21 +9,8 @@ prise après avis des organisations nationales les plus représentatives des
 respect de l'objectif quantifié national fixé en application des dispositions de
 l'article L. 162-22-2.
 
-Le taux de l'évolution moyenne nationale des tarifs des prestations mentionné au
-1° du I de l'article L. 162-22-3 est déterminé en tenant compte notamment des
-éléments suivants :
-
-1° De l'état provisoire et de l'évolution des charges d'assurance maladie au
-titre des soins dispensés l'année précédente ;
-
-2° Des prévisions d'évolution de l'activité des établissements de santé au titre
-de l'année en cours ;
-
-3° De l'évaluation des charges des établissements et de leur situation
-financière ;
-
-4° De l'évaluation des gains de productivité réalisés et envisageables dans le
-secteur ;
-
-5° Des changements de régime juridique ou de financement de certains
-établissements, ou services ou activités des établissements concernés.
+L'évolution moyenne nationale des tarifs des prestations mentionnée au 1° du I
+de l'article L. 162-22-3 est déterminée en tenant compte notamment des
+prévisions d'évolution de l'activité des établissements de santé au titre de
+l'année en cours. Il peut également être tenu compte de la situation financière
+des établissements, appréciée, le cas échéant, par activité de soins.
