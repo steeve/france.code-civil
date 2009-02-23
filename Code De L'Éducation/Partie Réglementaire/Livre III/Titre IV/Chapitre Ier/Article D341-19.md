@@ -1,5 +1,8 @@
 Article D341-19
 ----
-Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité
-de ce cycle dans l'établissement scolaire, sous la seule réserve des
-dispositions réglementaires relatives aux procédures disciplinaires.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de
+spécialité mentionnés à l'article D. 341-16 ou de décisions à caractère
+disciplinaire, tout élève admis dans un cycle de formation devra pouvoir
+parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires.
+Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle,
+la famille ou l'élève majeur sont informés préalablement au début du cycle.

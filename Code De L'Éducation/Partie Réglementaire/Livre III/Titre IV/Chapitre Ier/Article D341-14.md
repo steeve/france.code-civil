@@ -12,10 +12,8 @@ Ils ne peuvent être suivis qu'à la demande ou avec l'accord de la famille ou d
 l'élève majeur et sont autorisés par le chef d'établissement après consultation
 des conseils des classes d'origine et d'accueil.
 
-Pour les voies d'orientation correspondant aux enseignements technologiques et
-professionnels agricoles, les demandes d'orientation peuvent porter sur une ou
-plusieurs spécialités professionnelles.
-
-Les propositions d'orientation et les décisions d'orientation peuvent inclure à
-titre d'incitation un ou plusieurs secteurs professionnels définis en annexe de
-l'arrêté mentionné au premier alinéa.
+Pour les voies d'orientation correspondant aux enseignements professionnels
+agricoles, les demandes d'orientation peuvent porter sur un ou plusieurs champs
+et spécialités professionnels. De même, les propositions d'orientation et les
+décisions d'orientation peuvent inclure à titre de conseil un ou plusieurs
+champs et spécialités professionnels.
