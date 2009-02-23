@@ -11,3 +11,6 @@ l'activité nécessitant ce prélèvement d'eau.
 Le redevable reçoit le formulaire directement de l'office de l'eau ou, à défaut,
 se le procure au siège de l'office de l'eau ou à partir d'un serveur
 électronique.
+
+Les documents justificatifs de la déclaration sont conservés pendant le délai de
+reprise fixé à l'article L. 213-18.
