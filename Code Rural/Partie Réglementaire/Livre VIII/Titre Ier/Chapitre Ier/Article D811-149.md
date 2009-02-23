@@ -1,8 +1,8 @@
 Article D811-149
 ----
-I. - Le diplôme est délivré à la suite d'un examen public, organisé sous la
-forme d'épreuves qui visent à valider les acquis du candidat par rapport à tout
-ou partie du référentiel du diplôme.
+I.-Le diplôme est délivré à la suite d'un examen public, organisé sous la forme
+d'épreuves qui visent à valider les acquis du candidat par rapport à tout ou
+partie du référentiel du diplôme.
 
 La liste, la nature et la durée des épreuves sont définies par arrêté du
 ministre de l'agriculture.
@@ -20,8 +20,8 @@ présenter, soit pour raison de santé dûment constatée, soit pour obligations
 militaires dûment certifiées, soit pour cause de force majeure laissée à
 l'appréciation du directeur régional de l'agriculture et de la forêt.
 
-II. - L'examen en vue de l'attribution du diplôme comporte deux groupes
-d'épreuves écrites, orales ou pratiques.
+II.-L'examen en vue de l'attribution du diplôme comporte deux groupes d'épreuves
+écrites, orales ou pratiques.
 
 1° Le premier groupe se compose de trois épreuves au maximum organisées en fin
 de formation ayant pour objet le contrôle de l'atteinte des objectifs terminaux
@@ -35,7 +35,7 @@ préalablement habilités à cet effet, elles prennent la forme de contrôles
 certificatifs en cours de formation assurés par les formateurs, selon les
 dispositions prévues au III ci-dessous.
 
-III. - Les contrôles certificatifs en cours de formation s'effectuent selon des
+III.-Les contrôles certificatifs en cours de formation s'effectuent selon des
 modalités fixées par arrêté du ministre de l'agriculture. Les établissements
 publics ou les établissements privés, ayant passé pour la filière considérée un
 contrat au titre des articles L. 813-8 et L. 813-9 dispensant une formation
@@ -47,7 +47,7 @@ habilitation est donnée, pour une filière, sur demande de l'établissement. Le
 conditions de délivrance et de retrait de l'habilitation sont fixées par un
 arrêté du ministre de l'agriculture.
 
-IV. - Si des anomalies dans l'organisation ou les résultats du contrôle
+IV.-Si des anomalies dans l'organisation ou les résultats du contrôle
 certificatif en cours de formation sont constatées par le jury, celui-ci peut
 décider de refuser totalement ou partiellement le bénéfice de ce contrôle aux
 candidats concernés.
@@ -63,7 +63,7 @@ l'ensemble du contrôle en cours de formation sont invalidés et les candidats
 sont soumis aux épreuves terminales du deuxième groupe prévues au II du présent
 article.
 
-V. - Outre les candidats des établissements non habilités à mettre en oeuvre le
+V.-Outre les candidats des établissements non habilités à mettre en oeuvre le
 contrôle certificatif en cours de formation et les candidats mentionnés au
 troisième alinéa du IV ci-dessus, ne peuvent bénéficier du contrôle certificatif
 en cours de formation :
@@ -85,21 +85,21 @@ certificatif en cours de formation lors de leur formation préalable ;
 5° Les candidats n'ayant pas bénéficié du contrôle certificatif en cours de
 formation pendant l'une des années d'un cycle de formation de deux ans.
 
-VI. - Outre le cas mentionné au deuxième alinéa du IV ci-dessus, les épreuves de
+VI.-Outre le cas mentionné au deuxième alinéa du IV ci-dessus, les épreuves de
 substitution modulaires ou intermodulaires sont proposées aux seuls candidats
 ajournés, non redoublants ou redoublants dans un établissement non habilité,
 ayant choisi de ne pas conserver l'acquis du contrôle certificatif en cours de
 formation portant sur un ou deux modules.
 
-VII. - Les candidats peuvent se présenter à une épreuve facultative choisie sur
+VII.-Les candidats peuvent se présenter à une épreuve facultative choisie sur
 une liste d'au moins trois des enseignements prévus au dernier alinéa du I de
 l'article D. 811-148, dont une langue vivante. Les épreuves facultatives sont
 organisées par le directeur régional de l'agriculture et de la forêt responsable
 de la session.
 
-VIII. - Les candidats qui ne peuvent subir l'épreuve pratique d'éducation
-physique et sportive pour une raison de santé en sont dispensés à condition de
-produire un certificat délivré par un médecin de la santé publique concourant à
+VIII.-Les candidats qui ne peuvent subir l'épreuve pratique d'éducation physique
+et sportive pour une raison de santé en sont dispensés à condition de produire
+un certificat délivré par un médecin de la santé publique concourant à
 l'exercice des tâches médico-scolaires.
 
 Les candidats mentionnés au II de l'article D. 811-161 peuvent être dispensés,
@@ -108,7 +108,7 @@ sur leur demande, de l'épreuve pratique d'éducation physique et sportive.
 Dans ces deux cas, les modalités d'évaluation sont fixées par l'arrêté prévu au
 I du présent article.
 
-IX. - Le jury présidé par un fonctionnaire de catégorie A, membre de
+IX.-Le jury présidé par un fonctionnaire de catégorie A, membre de
 l'enseignement agricole public, est désigné par le directeur régional de
 l'agriculture et de la forêt, organisateur de l'examen, conformément au I du
 présent article. Il peut opérer en commissions. Il est souverain dans ses
@@ -126,14 +126,7 @@ l'Etat.
 Si l'une de ces proportions n'est pas atteinte à la suite de l'absence d'un ou
 plusieurs de ses membres, le jury peut néanmoins délibérer valablement.
 
-Un jury peut être commun à plusieurs options du certificat d'aptitude
-professionnelle agricole ou du certificat d'aptitude professionnelle agricole et
-du brevet d'études professionnelles agricoles. La délivrance simultanée d'un
-certificat d'aptitude professionnelle agricole et d'un brevet d'études
-professionnelles agricoles, lorsque les arrêtés créant ces diplômes le
-permettent, est subordonnée à la constitution d'un jury commun.
-
-X. - A l'issue de l'examen, le jury délibère en prenant en compte :
+X.-A l'issue de l'examen, le jury délibère en prenant en compte :
 
 a) Les notes obtenues aux épreuves du premier groupe ;
 
@@ -164,7 +157,7 @@ de ces trois épreuves.
 Un candidat ayant fourni un dossier individuel ne peut être ajourné sans que le
 jury ait examiné celui-ci.
 
-XI. - Les candidats ajournés à l'examen du certificat d'aptitude professionnelle
+XI.-Les candidats ajournés à l'examen du certificat d'aptitude professionnelle
 agricole peuvent postuler ce diplôme, dans la même spécialité, pendant les trois
 années qui suivent celle de leur première candidature, en gardant le bénéfice
 des résultats jugés favorables et dont ils ont demandé à conserver l'acquis,
@@ -174,6 +167,6 @@ Ils peuvent se présenter aux épreuves terminales du premier et du deuxième
 groupe de leur choix. Les notes obtenues lors d'une nouvelle session se
 substituent à celles attribuées précédemment aux épreuves correspondantes.
 
-XII. - Les conditions dans lesquelles un candidat déjà titulaire du certificat
+XII.-Les conditions dans lesquelles un candidat déjà titulaire du certificat
 d'aptitude professionnelle agricole peut obtenir ce diplôme dans une option ou
 spécialité différente sont fixées par arrêté du ministre de l'agriculture.

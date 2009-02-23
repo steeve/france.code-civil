@@ -23,9 +23,3 @@ stages, d'une part, et d'une pratique encadrée, d'autre part.
 
 Elle peut également comporter des enseignements optionnels. La liste de ces
 enseignements est arrêtée par le ministre de l'agriculture.
-
-II. - La préparation au diplôme du certificat d'aptitude professionnelle
-agricole peut être associée à celle conduisant au brevet d'études
-professionnelles agricoles. Dans ce cas, un arrêté du ministre de l'agriculture
-fixe les modalités selon lesquelles certaines épreuves peuvent permettre
-l'évaluation en vue de la délivrance de l'un et l'autre diplôme.
