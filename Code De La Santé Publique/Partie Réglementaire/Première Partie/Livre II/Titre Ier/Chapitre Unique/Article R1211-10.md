@@ -8,8 +8,8 @@ prend à sa charge les frais entraînés par le constat du décès du donneur et
 l'assistance médicale du corps avant le prélèvement.
 
 De même, les frais de transport du corps d'une personne décédée vers un
-établissement de santé, en vue d'effectuer des prélèvements de tissus à des fins
-thérapeutiques, sont à la charge de cet établissement.
+établissement de santé, en vue d'effectuer des prélèvements d'organes et de
+tissus à des fins thérapeutiques, sont à la charge de cet établissement.
 
 Dans tous les cas l'établissement qui a procédé au prélèvement assure les frais
 de conservation et de restauration du corps après l'acte de prélèvement. Il

@@ -1,6 +1,6 @@
 Article R322-9
 ----
-I. - La participation de l'assuré aux tarifs servant de base au calcul des
+I.-La participation de l'assuré aux tarifs servant de base au calcul des
 prestations en nature de l'assurance maladie est supprimée, par application de
 l'article L. 322-3 :
 
@@ -16,9 +16,16 @@ participation est prise sur avis conforme du contrôle médical ; à défaut
 d'entente entre le médecin-conseil et le médecin traitant sur les prestations
 devant bénéficier de la dispense de participation, il est fait appel à un expert
 dans les conditions prises en application de l'article L. 324-1. La décision de
-la caisse fixe la durée de la période d'exonération.
+la caisse fixe la durée de la période d'exonération ;
 
-II. - La participation de l'assuré est également supprimée, dans les conditions
+3° Pour les donneurs mentionnés à l'article L. 1211-2 du code de la santé
+publique, pour les frais d'examens et de traitement prescrits en vue du
+prélèvement d'éléments ou de la collecte de produits du corps humain, y compris
+des gamètes, les frais d'hospitalisation ainsi que les frais de suivi et de
+soins dispensés au donneur en raison du prélèvement ou de la collecte dont il a
+fait l'objet.
+
+II.-La participation de l'assuré est également supprimée, dans les conditions
 définies ci-après, pour les soins consécutifs aux sévices sexuels subis par les
 mineurs victimes d'actes prévus et réprimés par les articles 222-23 à 222-32 et
 227-22 à 227-27 du code pénal, à compter de la date présumée de commission des
