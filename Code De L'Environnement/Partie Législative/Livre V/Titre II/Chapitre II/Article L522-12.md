@@ -1,10 +1,10 @@
 Article L522-12
 ----
-I. - Les dispositions prévues au I, III et IV de l'article L. 521-7 du présent
-code s'appliquent à la transmission d'informations confidentielles concernant
-des substances actives et produits biocides.
+I.-Les dispositions prévues à l'article L. 521-7 du présent code s'appliquent à
+la transmission d'informations confidentielles concernant des substances actives
+et produits biocides.
 
-II. - Les informations suivantes ne relèvent pas du secret industriel et
+II.-Les informations suivantes ne relèvent pas du secret industriel et
 commercial :
 
 a) Le nom et l'adresse du demandeur ;
@@ -46,10 +46,10 @@ répandu ou en cas de fuite ;
 
 n) Les instructions de premiers secours en cas de lésions corporelles.
 
-III. - Les substances actives qui sont des micro-organismes et les produits
+III.-Les substances actives qui sont des micro-organismes et les produits
 biocides qui les contiennent sont soumis aux mesures d'interdiction de mise sur
 le marché ou d'emploi prévues au II de l'article L. 521-6 du présent code.
 
-IV. - Des dispositions complémentaires à celles de l'article L. 521-9 du présent
+IV.-Des dispositions complémentaires à celles de l'article L. 521-9 du présent
 code relatif à la classification, l'emballage, l'étiquetage et les fiches de
 données de sécurité sont prévues par décret en Conseil d'Etat.

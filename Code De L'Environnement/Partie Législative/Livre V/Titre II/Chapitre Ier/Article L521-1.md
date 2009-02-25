@@ -1,29 +1,24 @@
 Article L521-1
 ----
-I. - Les dispositions du présent chapitre tendent à protéger l'homme et
+I. - Les dispositions du présent chapitre tendent à protéger la santé humaine et
 l'environnement contre les risques qui peuvent résulter des substances et
 préparations chimiques.
 
-II. - Elles s'appliquent aux substances chimiques, c'est-à-dire aux éléments
-chimiques et à leur composés à l'état naturel ou tels qu'obtenus par tout
-procédé de production, y compris tout additif nécessaire pour préserver la
-stabilité du produit et toute impureté dérivant du procédé, à l'exclusion de
-tout solvant qui peut être séparé sans affecter la stabilité de la substance ni
-modifier sa composition, tant en l'état qu'incorporées dans des préparations.
+II. - Sans préjudice du respect des obligations issues des règlements (CE) n°
+2037 / 2000, (CE) n° 304 / 2003, (CE) n° 850 / 2004 et (CE) n° 842 / 2006, la
+fabrication, la mise sur le marché, l'utilisation des substances, telles quelles
+ou contenues dans des préparations ou des articles, et la mise sur le marché des
+préparations, sont soumises aux dispositions du règlement (CE) n° 1907 / 2006 du
+Parlement européen et du Conseil du 18 décembre 2006 concernant
+l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi
+que les restrictions applicables à ces substances (REACH), instituant une agence
+européenne des produits chimiques, modifiant la directive 1999 / 45 / CE et
+abrogeant le règlement (CEE) n° 793 / 93 du Conseil et le règlement (CE) n° 1488
+/ 94 de la Commission ainsi que la directive 76 / 769 / CEE du Conseil et les
+directives 91 / 155 / CEE, 93 / 67 / CEE, 93 / 105 / CE et 2000 / 21 / CE de la
+Commission.
 
-III. - Les dispositions du II de l'article L. 521-6 s'appliquent également :
-
-1° Aux produits manufacturés ou équipements contenant des substances ou
-préparations dangereuses, définis par des règlements communautaires ou par des
-décrets en Conseil d'Etat ;
-
-2° Aux transports terrestres, maritimes ou aériens des substances et
-préparations dangereuses.
-
-IV. - Au sens du présent chapitre, on entend par :
-
-1° "Préparations" : les mélanges ou solutions composés de deux substances ou
-plus ;
-
-2° "Mise sur le marché" : la mise à disposition de tiers, à titre onéreux ou
-gratuit.
+III. - Si les intérêts de la défense nationale l'exigent, l'autorité
+administrative peut accorder des exemptions au règlement (CE) n° 1907 / 2006,
+dans des cas spécifiques pour certaines substances, telles quelles ou contenues
+dans une préparation ou un article.

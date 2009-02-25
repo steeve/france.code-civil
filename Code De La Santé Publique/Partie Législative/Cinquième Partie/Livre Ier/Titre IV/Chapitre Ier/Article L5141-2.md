@@ -23,8 +23,9 @@ mélange d'aliment et de prémélange médicamenteux, présenté pour être admi
 aux animaux sans transformation dans un but thérapeutique, préventif ou curatif,
 au sens de l'alinéa premier de l'article L. 5111-1 ;
 
-6° Médicament vétérinaire antiparasitaire, tout produit antiparasitaire à usage
-vétérinaire ;
+6° Médicaments vétérinaires antiparasitaires, tout produit antiparasitaire à
+usage vétérinaire, ainsi que les produits qui revendiquent une action
+antiparasitaire externe avec une action létale sur le parasite ;
 
 7° Médicament homéopathique vétérinaire, tout médicament vétérinaire obtenu à
 partir de substances appelées, souches homéopathiques, selon un procédé de
@@ -88,6 +89,6 @@ l'obtention des denrées alimentaires provenant de cet animal, afin de protéger
 la santé publique, en garantissant que de telles denrées alimentaires ne
 contiennent pas de résidus en quantités supérieures aux limites maximales de
 résidus des substances pharmacologiquement actives, telles que fixées en vertu
-du règlement du Conseil (CEE) n° 2377/90 du 26 juin 1990 modifié établissant une
-procédure communautaire pour la fixation des limites maximales de résidus de
+du règlement du Conseil (CEE) n° 2377 / 90 du 26 juin 1990 modifié établissant
+une procédure communautaire pour la fixation des limites maximales de résidus de
 médicaments vétérinaires dans les aliments d'origine animale.

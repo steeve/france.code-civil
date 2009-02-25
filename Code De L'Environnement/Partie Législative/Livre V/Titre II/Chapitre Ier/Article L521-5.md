@@ -1,17 +1,22 @@
 Article L521-5
 ----
-I. - Tout producteur ou importateur de l'une des substances soumises à
-déclaration en vertu de l'article L. 521-3 se tient informé en permanence de
-l'évolution des connaissances de l'impact sur l'homme et l'environnement lié à
-la dissémination de ces substances. Il tient l'autorité administrative informée
-:
+I. - Tout fabricant ou importateur d'une substance, telle quelle ou contenue
+dans une préparation ou un article, se tient informé de l'évolution des
+connaissances de l'impact sur la santé humaine et l'environnement lié à
+l'exposition à cette substance.
 
-1° Des modifications concernant les informations fournies dans le dossier de
-déclaration tel que défini au I de l'article L. 521-3 ;
+Les fabricants et importateurs des substances, telles quelles ou contenues dans
+des préparations ou des articles, indiquent à l'autorité administrative
+compétente les informations nouvelles sur les propriétés dangereuses de ces
+substances et de leurs usages, découlant soit de l'amélioration des
+connaissances scientifiques et techniques, soit de l'observation des effets de
+ces substances et révélant l'existence de nouveaux dangers ou risques graves
+pour la santé humaine ou pour l'environnement, si ces informations ne font pas
+l'objet d'une communication au titre du règlement (CE) n° 1907 / 2006.
 
-2° Des données nouvelles sur les effets de la substance sur l'homme et sur
-l'environnement.
-
-II. - L'autorité administrative peut exiger des producteurs et importateurs la
-fourniture des dossiers techniques nécessaires au réexamen de ces substances qui
-peuvent faire l'objet des mesures prévues à l'article L. 521-6.
+II. - Tout fabricant, importateur ou utilisateur en aval d'une substance, telle
+quelle ou contenue dans une préparation ou un article, rassemble toutes les
+informations dont il a besoin pour s'acquitter des obligations imposées par les
+règlements communautaires régissant les produits chimiques. Sur demande, ce
+fabricant, importateur ou utilisateur en aval transmet ou met à disposition
+cette information à l'autorité administrative compétente.

@@ -1,7 +1,7 @@
 Article L521-11
 ----
 Les dépenses résultant de la conservation, de l'examen, de l'exploitation et de
-l'expertise des informations fournies dans les dossiers techniques visés aux
-articles L. 521-3, L. 521-5 et L. 521-8 ainsi qu'à l'article L. 1342-1 du code
-de la santé publique peuvent être mises à la charge des producteurs et des
-importateurs.
+l'expertise des informations communiquées au titre de l'article L. 521-5 ou
+contenues dans les dossiers techniques mentionnés à l'article L. 521-8 peuvent
+être mises à la charge des fabricants, importateurs ou utilisateurs en aval des
+substances, telles quelles ou contenues dans des préparations ou des articles.

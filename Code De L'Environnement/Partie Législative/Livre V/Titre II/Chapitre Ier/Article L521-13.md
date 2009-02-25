@@ -18,3 +18,13 @@ utilisés pour le transport des substances ou préparations.
 Ces agents peuvent exiger la communication de toute pièce ou document utile, en
 prendre copie, et recueillir sur convocation ou sur place les renseignements et
 justifications propres à l'accomplissement de leur mission.
+
+Pour les opérations informatisées, ils ont accès aux logiciels et aux données ;
+ils peuvent en demander la transcription par tout traitement approprié dans des
+documents directement utilisables pour les besoins du contrôle.
+
+Ces agents sont autorisés, pour les besoins de leurs missions définies au
+premier alinéa du I de l'article L. 521-12, à se communiquer tous les
+renseignements et documents détenus ou recueillis dans l'exercice de leurs
+missions respectives concernant les substances, préparations et articles visés
+au présent titre.
