@@ -9,4 +9,10 @@ d'enseignement supérieur, le centre exerce ses missions en coopération avec le
 universités et les autres établissements d'enseignement supérieur. Le centre
 favorise le développement, notamment à l'étranger, de cet enseignement et de ces
 formations ainsi que des techniques d'enseignement et de formation à distance.
-Il participe à la coopération européenne et internationale en la matière.
+Il participe à la coopération européenne et internationale en la matière. Le
+Centre national d'enseignement à distance assure, pour le compte de l'Etat, le
+service public de l'enseignement à distance.A ce titre, il dispense un service
+d'enseignement à destination des élèves, notamment ceux qui relèvent de
+l'instruction obligatoire, ayant vocation à être accueillis dans un des
+établissements mentionnés aux articles L. 132-1 et L. 132-2 et ne pouvant être
+scolarisés totalement ou partiellement dans un de ces établissements.
