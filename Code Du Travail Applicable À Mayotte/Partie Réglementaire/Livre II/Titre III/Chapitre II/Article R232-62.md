@@ -22,7 +22,7 @@ directeur du travail, de l'emploi et de la formation professionnelle, après
 enquête de l'agent de contrôle de l'inspection du travail et après avis du
 médecin du travail, être aménagé dans les locaux affectés au travail, dès lors
 que l'activité qui y est développée ne comporte par l'emploi de substances ou de
-préparations dangereuses au sens de l'article L. 231-8.
+préparations dangereuses au sens de l'article L. 230-5.
 
 Après chaque repas, l'employeur doit veiller au nettoyage du local de
 restauration ou de l'emplacement et des équipements qui y sont installés.

@@ -1,7 +1,7 @@
 Article R232-72
 ----
 Les dispositions de la présente section s'appliquent à tous les établissements
-mentionnés à l'article L. 231-1.
+mentionnés à l'article L. 230-1.
 
 Ces dispositions sont prises sans préjudice des dispositions plus contraignantes
 prévues pour les établissements recevant du public.

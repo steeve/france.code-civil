@@ -1,8 +1,8 @@
 Article R233-79
 ----
 Les machines suivantes, neuves ou considérées comme neuves, visées au 1° de
-l'article R. 233-78, sont soumises aux dispositions des articles L. 233-6, L.
-233-7 et R. 233-69 :
+l'article R. 233-78, sont soumises aux dispositions des articles L. 230-6 et R.
+233-69 :
 
 1° Scies circulaires (monolames et multilames) pour le travail du bois et des
 matières similaires : machines à scier, à outil en position fixe en cours de

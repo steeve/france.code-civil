@@ -2,7 +2,7 @@ Article R233-59
 ----
 Le tableau ci-après détermine les prescriptions du présent chapitre qui donnent
 lieu à l'application de la procédure de mise en demeure prévue aux articles L.
-231-3 et L. 231-4, ainsi que le délai minimum d'exécution :
+230-10 et L. 230-11, ainsi que le délai minimum d'exécution :
 
 :--------------------------------------:
 

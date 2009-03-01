@@ -1,10 +1,9 @@
 Article R233-83
 ----
 Les équipements de protection individuelle auxquels s'appliquent les obligations
-définies aux articles L. 233-6, L. 233-7 et R. 233-29 sont des dispositifs ou
-moyens destinés à être portés ou tenus par une personne en vue de la protéger
-contre un ou plusieurs risques susceptibles de menacer sa sécurité ainsi que sa
-santé.
+définies aux articles L. 230-6 et R. 233-29 sont des dispositifs ou moyens
+destinés à être portés ou tenus par une personne en vue de la protéger contre un
+ou plusieurs risques susceptibles de menacer sa sécurité ainsi que sa santé.
 
 Un ensemble constitué par plusieurs dispositifs ou moyens, associés de façon
 solidaire en vue de protéger une personne contre un ou plusieurs risques

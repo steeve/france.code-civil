@@ -2,9 +2,8 @@ Article R233-87
 ----
 Les équipements de protection individuelle d'occasion définis à l'article R.
 233-64 et visés à l'article R. 233-83, quelle que soit leur date de mise en
-service à l'état neuf sont soumis aux dispositions des articles L. 233-6, L.
-233-7 et R. 233-69 et doivent être accompagnés de la notice d'instructions les
-concernant.
+service à l'état neuf sont soumis aux dispositions des articles L. 230-6 et R.
+233-69 et doivent être accompagnés de la notice d'instructions les concernant.
 
 Toutefois, les équipements de protection individuelle d'occasion suivants ne
 peuvent pas être exposés, mis en vente, vendus, importés, loués, cédés à quelque

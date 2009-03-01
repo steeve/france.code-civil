@@ -1,8 +1,8 @@
 Article R233-78
 ----
 Les équipements de travail auxquels s'appliquent les obligations définies aux
-articles L. 233-6, L. 233-7 et R. 233-69 sont ceux qui entrent dans l'une des
-catégories suivantes :
+articles L. 230-6 et R. 233-69 sont ceux qui entrent dans l'une des catégories
+suivantes :
 
 1° Machines, y compris les machines destinées à l'industrie d'extraction des
 minéraux.
@@ -37,11 +37,12 @@ placés sur les véhicules ou leurs remorques ;
 
 2° Tracteurs agricoles et forestiers à roues ;
 
-3° Accessoires de levage répondant à la définition suivante : équipements non
-incorporés à une machine, à un tracteur ou à un autre matériel et placés entre
-la machine, le tracteur ou tout autre matériel et la charge, ou sur la charge,
-pour permettre la préhension de la charge, tels qu'élingue, palonnier, pince
-auto-serrante, aimant, ventouse, clé de levage ;
+3° Accessoires de levage répondant à la définition suivante :
+
+équipements non incorporés à une machine, à un tracteur ou à un autre matériel
+et placés entre la machine, le tracteur ou tout autre matériel et la charge, ou
+sur la charge, pour permettre la préhension de la charge, tels qu'élingue,
+palonnier, pince auto-serrante, aimant, ventouse, clé de levage ;
 
 4° Composants d'accessoires de levage non incorporés à un accessoire visé au 3°
 ci-dessus, tels que crochets à oeil, manilles, anneaux, anneaux à tige ;

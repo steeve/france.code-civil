@@ -1,6 +1,6 @@
 Article R232-59
 ----
-I.-L'agent de contrôle de l'inspection du travail peut mettre en demeure
+I. - L'agent de contrôle de l'inspection du travail peut mettre en demeure
 l'employeur de faire procéder à un mesurage de l'exposition au bruit par un
 organisme agréé choisi par l'employeur sur une liste fixée par arrêté du
 ministre chargé du travail.
@@ -13,8 +13,8 @@ dans les dix jours qui suivent cette communication.
 Les modalités de l'agrément sont fixées par arrêté du ministre chargé du
 travail.
 
-II.-Les prescriptions des articles R. 232-53 à R. 232-58 donnent lieu à
-l'application de la procédure de mise en demeure prévue aux articles L. 231-3 et
-L. 231-4. Nonobstant les dispositions de l'article R. 232-100, le délai
+II. - Les prescriptions des articles R. 232-53 à R. 232-58 donnent lieu à
+l'application de la procédure de mise en demeure prévue aux articles L. 230-10
+et L. 230-11. Nonobstant les dispositions de l'article R. 232-100, le délai
 d'exécution est fixé à quinze jours pour l'article R. 232-55 et à un mois pour
 les autres articles de la présente sous-section.

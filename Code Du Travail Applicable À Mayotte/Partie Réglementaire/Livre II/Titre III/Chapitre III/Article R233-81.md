@@ -1,10 +1,10 @@
 Article R233-81
 ----
 Les protecteurs et dispositifs de protection d'équipement de travail auxquels
-s'appliquent les obligations définies aux articles L. 233-6, L. 233-7 et R.
-233-69, et qui sont dénommés " composants de sécurité " sont ceux qui sont mis
-isolément sur le marché en vue de leur installation sur une machine maintenue en
-service ou sur une machine d'occasion.
+s'appliquent les obligations définies aux articles L. 230-6 et R. 233-69, et qui
+sont dénommés " composants de sécurité " sont ceux qui sont mis isolément sur le
+marché en vue de leur installation sur une machine maintenue en service ou sur
+une machine d'occasion.
 
 On entend par composant de sécurité un composant destiné à assurer, par son
 utilisation, une fonction de sécurité et dont la défaillance ou le mauvais

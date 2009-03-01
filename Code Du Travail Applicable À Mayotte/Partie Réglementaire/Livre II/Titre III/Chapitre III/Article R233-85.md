@@ -1,9 +1,8 @@
 Article R233-85
 ----
-Sont soumis aux dispositions des articles L. 233-6, L. 233-7 et R. 233-69 les
-équipements de protection individuelle neufs ou considérés comme neufs
-mentionnés à l'article R. 233-83 qui ont pour but de protéger l'utilisateur
-contre :
+Sont soumis aux dispositions des articles L. 230-6 et R. 233-69 les équipements
+de protection individuelle neufs ou considérés comme neufs mentionnés à
+l'article R. 233-83 qui ont pour but de protéger l'utilisateur contre :
 
 1° Les agressions mécaniques dont les effets sont superficiels ;
 
@@ -11,7 +10,7 @@ contre :
 réversibles ;
 
 3° Les risques encourus lors de la manipulation des pièces chaudes n'exposant
-pas à une température supérieure à 50° C, ni à des chocs dangereux ;
+pas à une température supérieure à 50 °C, ni à des chocs dangereux ;
 
 4° Les conditions atmosphériques qui ne sont ni exceptionnelles ni extrêmes ;
 
