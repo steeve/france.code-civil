@@ -41,4 +41,7 @@ j) A l'aménagement du secteur d'Orly-Rungis-Seine amont, dans les périmètres
 définis par décret en Conseil d'Etat ;
 
 k) Aux opérations d'aménagement de la Plaine du Var, dans le périmètre défini
-par décret en Conseil d'Etat (1).
+par décret en Conseil d'Etat (1) ;
+
+l) Aux opérations d'aménagement du Plateau de Saclay, dans le périmètre défini
+par décret en Conseil d'Etat (2).
