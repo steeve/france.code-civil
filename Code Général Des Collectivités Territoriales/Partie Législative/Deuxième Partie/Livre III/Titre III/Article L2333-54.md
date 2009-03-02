@@ -5,8 +5,7 @@ le conseil municipal peut instituer un prélèvement sur le produit brut des jeu
 dans les casinos.
 
 Le taux maximum des prélèvements opérés par les communes sur le produit brut des
-jeux dans les casinos régis par la loi du 15 juin 1907 réglementant le jeu dans
-les cercles et les casinos des stations balnéaires, thermales et climatiques en
+jeux dans les casinos régis par la loi du 15 juin 1907 relative aux casinos en
 vertu des clauses des cahiers des charges de ces établissements ne doit, en
 aucun cas, dépasser 15 %.
 

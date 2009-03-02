@@ -19,9 +19,8 @@ mêmes sûretés, privilèges et sanctions que le prélèvement institué par la
 des courses de chevaux.
 
 III. - Il est institué une contribution sur le produit brut de certains jeux
-réalisé dans les casinos régis par la loi du 15 juin 1907 réglementant le jeu
-dans les cercles et les casinos des stations balnéaires, thermales et
-climatiques.
+réalisé dans les casinos régis par la loi du 15 juin 1907 relative aux casinos
+(1).
 
 Cette contribution est, d'une part, de 9,5 % sur une fraction égale à 68 % du
 produit brut des jeux automatiques des casinos et, d'autre part, de 12 %

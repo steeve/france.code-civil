@@ -44,9 +44,7 @@ k) Banqueroute ;
 l) Pratique de prêt usuraire ;
 
 m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition
-des loteries, par la loi du 15 juin 1907 réglementant les jeux dans les casinos
-des stations balnéaires, thermales et climatiques et dans les casinos installés
-à bord des navires immatriculés au registre international français et par la loi
+des loteries, par la loi du 15 juin 1907 relative aux casinos (1) et par la loi
 n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
 
 n) Infraction à la législation et à la réglementation des relations financières

@@ -1,10 +1,20 @@
 Article L133-14
 ----
-Les dispositions applicables aux communes classées stations balnéaires,
-thermales ou climatiques, sont étendues aux villes ou stations classées
-touristiques constituant la ville principale d'une agglomération de plus de 500
-000 habitants et participant pour plus de 40 %, le cas échéant avec d'autres
-collectivités territoriales, au fonctionnement d'un centre dramatique national
-ou d'une scène nationale, d'un orchestre national et d'un théâtre d'opéra
-présentant en saison une activité régulière d'au moins vingt représentations
-lyriques.
+Au regard des exigences du développement durable, le classement a pour objet :
+
+1° De reconnaître les efforts accomplis par les communes et fractions de
+communes visées à l'article L. 133-13 pour structurer une offre touristique
+d'excellence ;
+
+2° D'encourager et de valoriser la mise en oeuvre d'un projet tendant à stimuler
+la fréquentation touristique pérenne de la station au travers de la gestion des
+actions et de la mise en valeur des ressources mentionnées à l'article L. 133-13
+;
+
+3° De favoriser, en adéquation avec la fréquentation touristique de la station,
+la réalisation d'actions ou de travaux d'équipement et d'entretien relatifs
+notamment à l'amélioration des conditions d'accès, de circulation, d'accueil,
+d'hébergement, de séjour, à l'embellissement du cadre de vie, à la conservation
+des monuments et des sites, aux créations et animations culturelles et aux
+activités physiques et sportives, à l'assainissement et au traitement des
+déchets.
