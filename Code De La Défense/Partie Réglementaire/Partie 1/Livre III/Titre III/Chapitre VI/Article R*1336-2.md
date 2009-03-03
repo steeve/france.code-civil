@@ -1,26 +1,26 @@
 Article R*1336-2
 ----
-L'action du ministre chargé des transports s'exerce sur tous les transports par
-moyens civils mobiles.
+Pour l'application de l'article R. * 1336-1,
 
-Néanmoins, par dérogation aux attributions prévues à l'article R. * 1336-1 et au
-premier alinéa du présent article :
+1° L'action du ministre chargé des transports s'exerce sur :
 
-1° Les commandants en chef investis par le Premier ministre ont pouvoir de
-donner, dans la zone géographique intéressée, aux chefs des organismes de
-transport, les instructions voulues pour faire assurer les transports
-nécessaires à la conduite des opérations et à l'entretien de leurs forces.
+-les services, établissements et entreprises gérant et exploitant des
+infrastructures de transports ;
 
-2° Les mêmes pouvoirs peuvent être exercés sur décision du Premier ministre par
-les commandants supérieurs et les officiers généraux de zone de défense, dans
-les parties du territoire où se développent les opérations militaires.
+-les entreprises de transports et les entreprises gérant et exploitant des
+moyens de transports ;
 
-3° Dans les cas fixés par le Premier ministre ou lorsque celui-ci, saisi d'une
-demande du ministre de la défense, estime que les circonstances l'exigent, la
-direction de l'exploitation de tout ou partie de certains moyens de transport
-dans des zones déterminées est remise au ministre de la défense pour une période
-définie.
+2° L'action du ministre chargé de l'équipement s'exerce sur :
 
-4° Lorsque, par application de l'article L. 2223-12, le ministre de la défense a
-requis l'exploitation de certains moyens de transport, cette exploitation est
-remise au ministre chargé des transports.
+-les entreprises de travaux publics ;
+
+-les entreprises de bâtiment ;
+
+-les autres entreprises dont l'activité contribue, directement ou indirectement,
+à la réalisation des travaux publics ou des travaux de bâtiment.
+
+Les délégués de zone des ministères chargés des transports et de l'équipement se
+tiennent informés sur la disponibilité des moyens des entités nommées ci-dessus.
+Ils peuvent en disposer lorsque les circonstances l'exigent, en accord avec les
+autorités dont relèvent ces services et moyens ou sur décision du préfet de
+zone, du préfet de région ou du préfet de département.

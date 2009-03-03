@@ -1,15 +1,16 @@
 Article R*1336-15
 ----
-Les services régionaux et locaux dépendant du commissariat aux transports
-terrestres sont :
+Les régimes des priorités pour les transports et pour les travaux publics et de
+bâtiment mentionnés à l'article R. * 1336-1 entrent en vigueur dès la mise en
+garde ou la mobilisation générale ou bien, dans les autres cas prévus à
+l'article L. 1111-2, à partir d'une date fixée par décret. Ils permettent
+notamment l'arrêt d'activités en cours.
 
-1° Pour les transports par voie ferrée : les directions régionales de la Société
-nationale des chemins de fer français, auxquelles sont rattachés les autres
-services locaux de chemins de fer ;
+Après consultation du Comité national aux transports et aux travaux publics et
+de bâtiment, les ministres chargés des transports et de l'équipement établissent
+les régimes des priorités suivant les directives gouvernementales concernant
+l'ordre d'urgence des besoins à satisfaire.
 
-2° Pour les transports routiers et l'infrastructure routière : les directions
-régionales et les directions départementales de l'équipement ;
-
-3° Pour les transports de navigation intérieure et les infrastructures de voies
-navigables : les directions régionales de la navigation et les services de la
-navigation.
+Pour l'application de ces régimes, les ministres chargés des transports et de
+l'équipement définissent les orientations à suivre par les personnes et les
+entreprises qui détiennent les moyens de transport et de travaux.

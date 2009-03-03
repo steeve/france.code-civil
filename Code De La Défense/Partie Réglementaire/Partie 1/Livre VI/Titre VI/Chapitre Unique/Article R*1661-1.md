@@ -9,6 +9,6 @@ articles R. * 1661-2 et D. 1661-7 :
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1°
 à 6° de l'article R. * 1311-6, R. * 1311-7, R. * 1311-39, R. * 1321-1, R. *
-1333-36 à R. * 1337-35 ;
+1333-36 à R. * 1336-15 ;
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.

@@ -1,11 +1,13 @@
 Article R*1336-12
 ----
-Dans les cas prévus à l'article L. 1111-2, le commissaire général aux transports
-assure les missions suivantes :
+Préalablement à l'exécution de certains transports ou à la réalisation de
+certains travaux, dans les circonstances prévues par les articles L. 1111-2 et
+L. 1141-1 et par la loi n° 2004-811 du 3 août 2004 de modernisation de la
+sécurité civile, les ministres intéressés pour passer des marchés avec des
+entreprises de transport, de travaux publics ou de bâtiment doivent recueillir
+l'accord préalable des ministres chargés des transports et de l'équipement.
 
-1° La direction de l'exploitation de l'ensemble des moyens de transports ;
-
-2° La détermination et satisfaction des besoins de transport, décisions à
-prendre compte tenu des ordres d'urgence résultant des directives
-gouvernementales et des indications formulées par le comité des transports
-concernant notamment le régime des priorités de transport.
+Le personnel et le matériel faisant l'objet de ces marchés ne peuvent être
+soumis à réquisition sans autorisation écrite des ministres chargés des
+transports et de l'équipement ou du commissaire aux transports et aux travaux
+publics et de bâtiment.

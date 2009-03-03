@@ -1,15 +1,6 @@
 Article R*1336-10
 ----
-Le commissariat général aux transports dispose, en permanence :
-
-1° Des personnels civils désignés par le ministre chargé des transports ;
-
-2° Des personnels militaires nécessaires aux officiers adjoints, désignés par le
-ministre de la défense.
-
-Les effectifs de ces personnels tant civils que militaires sont, dans les cas
-prévus à l'article L. 1111-2, renforcés conformément aux plans de mobilisation
-notamment par du personnel assujetti aux obligations du service de défense.
-
-Les moyens matériels nécessaires sont fournis par le ministre chargé des
-transports.
+Dans les cas prévus à l'article L. 1111-2, le commissaire aux transports et aux
+travaux publics et de bâtiment peut assurer la direction de l'exploitation de
+l'ensemble des moyens de transport ainsi que la coordination et le contrôle de
+l'emploi des entreprises, mentionnées à l'article R. * 1336-2.

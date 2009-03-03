@@ -1,17 +1,22 @@
 Article R*1336-7
 ----
-Les commissaires et les commissaires délégués sont secondés soit par des
-officiers généraux désignés par décret sur proposition conjointe du ministre de
-la défense et du ministre chargé des transports, soit par des officiers
-supérieurs désignés par arrêté du ministre chargé des transports sur proposition
-du ministre de la défense. Ces officiers généraux ou supérieurs sont détenteurs
-d'une lettre de service signée par les deux ministres. Ils sont mis en place en
-tout temps.
+Dans chaque zone de défense, le délégué de zone mentionné à l'article R. *
+1336-2, qui est aussi le chef du service de défense de zone pour les transports
+et l'équipement, représente le commissaire aux transports et aux travaux publics
+et de bâtiment. Il assure, sous l'autorité du préfet de zone, la planification,
+la coordination et l'exécution des actions de défense et de sécurité en matière
+de transports et de travaux publics et de bâtiment.
 
-Les titulaires des directions particulières créées spécialement en vue de la
-défense sont désignés par décret sur proposition du ministre chargé des
-transports.
+Dans les cas prévus à l'article R. * 1336-1, le représentant du commissaire aux
+transports et aux travaux publics et de bâtiment est assisté de correspondants
+des établissements publics et organismes définis par arrêté des ministres
+chargés des transports et de l'équipement ainsi que de représentants des
+organisations professionnelles du transport, des travaux publics et du bâtiment.
+Sur sa proposition, un arrêté du préfet de zone précise l'organisation
+territoriale de la délégation du commissariat aux transports et aux travaux
+publics et de bâtiment.
 
-Le président de la chambre de destination des navires est nommé par arrêté du
-ministre chargé des transports sur proposition du commissaire général aux
-transports.
+A la demande du préfet de zone ou dès qu'il l'estime nécessaire, l'officier
+général de zone de défense met en place un officier de liaison auprès du
+représentant du commissaire aux transports et aux travaux publics et de
+bâtiment.

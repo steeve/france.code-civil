@@ -1,31 +1,37 @@
 Article R*1336-11
 ----
-Le commissaire général aux transports assume, en permanence, sous l'autorité du
-ministre chargé des transports, les missions suivantes :
+Le Comité national aux transports et aux travaux publics et de bâtiment est
+constitué par arrêté des ministres chargés des transports et de l'équipement,
+pris après avis des ministres intéressés. Le comité est présidé par le
+commissaire aux transports et aux travaux publics et de bâtiment ou par le
+commissaire adjoint.
 
-1° La préparation des mesures de mise en garde et de mobilisation du personnel
-et du matériel ;
+Le comité comprend :
 
-2° L'instruction du personnel appelé à participer à l'exécution des transports
-nécessaires à la défense ;
+1° Le commissaire délégué aux transports terrestres, le commissaire délégué aux
+transports maritimes et le commissaire délégué aux transports aériens ;
 
-3° L'évaluation des besoins généraux de ces transports, tant en ce qui concerne
-les matériels et l'infrastructure que les possibilités d'exploitation, compte
-tenu des demandes des départements ministériels intéressés ;
+2° Un représentant du ministre de la défense, un représentant du ministre chargé
+de l'économie, un représentant du ministre chargé de l'industrie et un
+représentant du ministre de l'intérieur ;
 
-4° La détermination des mesures à prendre pour l'entretien et l'amélioration des
-ressources, contrôle de l'application de ces mesures ;
+3° Le cas échéant, un représentant du ou des ministres concernés par les
+questions à l'ordre du jour.
 
-5° L'établissement du programme général d'emploi des ressources en moyens de
-transport ;
+Le Comité national aux transports et aux travaux publics et de bâtiment est
+consulté lors de l'élaboration et de la révision des plans ressources relatifs
+aux transports et aux travaux publics et de bâtiment ainsi que dans les cas
+prévus à l'article R. * 1336-1 pour l'établissement du régime des priorités.
 
-6° L'élaboration des plans de transport de défense, compte tenu des propositions
-des départements ministériels intéressés ;
+Il peut être sollicité sur toutes questions relatives aux transports et aux
+travaux publics et de bâtiment intéressant la défense et la sécurité et
+présenter toutes propositions notamment sur :
 
-7° La participation aux négociations internationales relatives aux transports de
-défense ;
+-les conditions propres à optimiser et coordonner l'emploi des moyens requis
+dans l'intérêt de la défense et de la sécurité ;
 
-8° L'élaboration des textes réglementaires ;
+-la prévision des modalités particulières d'exécution des transports et des
+travaux en cas de crise ;
 
-9° Le conseil et l'expertise visant à satisfaire en cas de crise les demandes en
-moyens de transport exprimées par les départements ministériels intéressés.
+-les dispositions à prendre pour satisfaire les demandes exprimées par les
+ministres utilisateurs.

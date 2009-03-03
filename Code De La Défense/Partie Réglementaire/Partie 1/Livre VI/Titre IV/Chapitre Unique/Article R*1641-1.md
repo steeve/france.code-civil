@@ -1,6 +1,6 @@
 Article R*1641-1
 ----
-Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations
 prévues à l'article D. 1641-6 :
 
 1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ;
@@ -9,6 +9,6 @@ prévues à l'article D. 1641-6 :
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1°
 à 6° de l'article R. * 1311-6, des articles R. * 1311-7, R. * 1311-39, R. *
-1321-1, R. * 1333-36 à R. * 1337-35 ;
+1321-1, R. * 1333-36 à R. * 1336-15 ;
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
