@@ -1,9 +1,13 @@
 Article R148-3
 ----
-Jusqu'au 31 décembre 2008, l'aliénation des immeubles domaniaux reconnus
-inutiles par le ministre de la défense a lieu avec publicité et mise en
-concurrence soit par adjudication publique, soit à l'amiable. La cession amiable
-est précédée d'une publicité adaptée à la nature et à l'importance de l'immeuble
+Jusqu'au 31 décembre 2014, l'aliénation des immeubles domaniaux reconnus
+inutiles par le ministre de la défense avant le 31 décembre 2008 a lieu avec
+publicité et mise en concurrence soit par adjudication publique, soit à
+l'amiable. L'aliénation des immeubles domaniaux reconnus inutiles par le
+ministre de la défense après le 31 décembre 2008 compris dans un site ayant fait
+l'objet d'une décision de restructuration prise par le ministre de la défense a
+lieu dans les mêmes conditions jusqu'au 31 décembre 2014. La cession amiable est
+précédée d'une publicité adaptée à la nature et à l'importance de l'immeuble
 dont la cession est envisagée, permettant une mise en concurrence, dans les
 conditions mentionnées aux articles R. 129-2 et R. 129-3.
 
@@ -26,5 +30,5 @@ dans un délai fixé en accord avec le ministre de la défense ;
 
 Le préfet du département de la situation de l'immeuble autorise la vente par
 adjudication publique ou consent à la cession amiable, sur proposition du
-directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix
-;
+directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le
+prix.
