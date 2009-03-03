@@ -1,7 +1,8 @@
 Article D4152-11
 ----
-L'organisation et les modalités de fonctionnement du collège interarmées de
-défense sont fixées par le chef d'état-major des armées. Celui-ci veille à
-l'harmonisation des conditions d'admission des stagiaires qui sont désignés par
-les chefs d'état-major, le délégué général pour l'armement ou le directeur
-général de la gendarmerie nationale.
+Le conseil scientifique de la division de la recherche et de la documentation
+propose les axes de recherche et les orientations générales de la politique de
+documentation de la division de la recherche et de la documentation. Il donne un
+avis pour le recrutement des chercheurs et des enseignants de l'enseignement
+militaire supérieur. Un arrêté du ministre de la défense précise la composition,
+les attributions et les modalités de fonctionnement de ce conseil.

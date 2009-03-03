@@ -1,17 +1,29 @@
 Article D4152-5
 ----
-Les diplômes et brevets de l'enseignement militaire supérieur visés à l'article
-D. 4152-2 sont attribués par le ministre de la défense sur proposition du
-délégué général pour l'armement ou du chef d'état-major ou directeur sous
-l'autorité duquel a été dispensé l'enseignement. La liste des diplômes est fixée
-par arrêté du ministre de la défense. Les brevets sont : 1° Le brevet d'études
-militaires supérieures qui sanctionne une formation supérieure dans le domaine
-du commandement et du service d'état-major ; 2° Le brevet technique, comportant
-diverses options définies par arrêté du ministre de la défense, qui sanctionne
-une formation militaire supérieure scientifique et technique ; 3° Le brevet de
-qualification militaire supérieure, délivré sur proposition d'une commission,
-dans la limite de 20 % du nombre des brevets d'études militaires supérieures et
-brevets techniques délivrés annuellement aux officiers supérieurs qui auront
-fourni dans des postes de responsabilité la preuve de leur haute qualification.
-Les conditions d'application du présent article sont fixées par arrêté du
-ministre de la défense.
+Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à
+suivre l'enseignement militaire supérieur sont désignés par le chef d'état-major
+de l'armée concernée. A la délégation générale pour l'armement, dans la
+gendarmerie nationale, le service de santé des armées, le service des essences
+des armées et la justice militaire, ils sont désignés par le délégué ou le
+directeur concerné. Ces désignations sont effectuées :
+
+1° Pour l'admission à l'enseignement du premier degré, dans les conditions
+fixées par instructions du ministre de la défense ;
+
+2° Pour l'admission à l'enseignement du deuxième degré :
+
+a) soit à la suite d'un concours ;
+
+b) soit sur proposition d'une commission dont la composition est fixée par
+arrêté du ministre de la défense.
+
+Les officiers admis à suivre l'enseignement au-dessus du deuxième degré sont
+désignés par le ministre de la défense sur proposition du chef d'état-major des
+armées.
+
+Le chef d'état-major des armées veille à l'harmonisation des conditions
+d'admission des auditeurs et des stagiaires de l'enseignement militaire
+supérieur interarmées.
+
+Des officiers étrangers peuvent être admis à suivre l'enseignement militaire
+supérieur.
