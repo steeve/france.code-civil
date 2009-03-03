@@ -13,5 +13,5 @@ mois à compter de la date de réception du plan.
 
 La décision portant approbation du plan particulier de protection est notifiée à
 l'opérateur d'importance vitale intéressé et est protégée dans les conditions
-prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des
-secrets de la défense nationale.
+prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à
+la protection du secret de la défense nationale.

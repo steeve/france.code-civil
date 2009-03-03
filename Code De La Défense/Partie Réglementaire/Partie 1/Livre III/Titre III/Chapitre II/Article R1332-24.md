@@ -12,6 +12,7 @@ compter de dates identiques à celles mentionnées au troisième alinéa de
 l'article R. 1332-19.
 
 Le plan particulier de protection et tous les documents qui s'y rattachent sont
-protégés dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998
-relatif à la protection des secrets de la défense nationale. Il comporte un
-rapport de présentation qui ne contient aucune information classifiée.
+protégés dans les conditions prévues par les articles R. 2311-1 et suivants du
+code de la défense relatifs à la protection du secret de la défense nationale.
+Il comporte un rapport de présentation qui ne contient aucune information
+classifiée.

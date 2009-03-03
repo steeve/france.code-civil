@@ -12,9 +12,8 @@ pouvant prendre la forme d'activités de terrorisme, d'espionnage, de subversion
 de sabotage ou de crime organisé ; 3° De contribuer à assurer la protection des
 personnes susceptibles d'avoir accès à des informations protégées ou à des
 zones, des matériels ou des installations sensibles. En particulier, elle met en
-œuvre la procédure d'habilitation prévue par l'article 8 du décret n° 98-608 du
-17 juillet 1998 relatif à la protection des secrets de la défense nationale ; 4°
-De participer aux études de sécurité et à l'élaboration des textes
+œuvre la procédure d'habilitation prévue par l'article R. 2311-8 du code de la
+défense ; 4° De participer aux études de sécurité et à l'élaboration des textes
 réglementaires en rapport avec le traitement de l'information, notamment en
 matière de traitement automatisé, et de contrôler l'application des mesures de
 sécurité édictées ; 5° De participer à l'application des dispositions des

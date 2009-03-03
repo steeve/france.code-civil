@@ -2,6 +2,6 @@ Article R1333-107
 ----
 Pour l'exercice de leur mission, les inspecteurs de la radioprotection désignés
 en application de l'article R. 1333-102 sollicitent leur habilitation au secret
-de la défense nationale dans les conditions prévues aux articles 7 et 8 du
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
-défense nationale.
+de la défense nationale dans les conditions prévues aux articles R. 2311-7 et R.
+2311-8 du code de la défense relatifs à la protection du secret de la défense
+nationale.

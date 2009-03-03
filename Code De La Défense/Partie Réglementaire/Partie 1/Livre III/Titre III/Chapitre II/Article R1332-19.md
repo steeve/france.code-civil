@@ -18,7 +18,7 @@ temporaires et graduées, à compter de la transmission d'un message d'alerte à
 l'opérateur d'importance vitale par l'autorité administrative dont il relève.
 
 Le plan de sécurité d'opérateur d'importance vitale, ainsi que tous les
-documents qui s'y rattachent, sont protégés dans les conditions prévues par le
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
-défense nationale. Le plan comporte un rapport de présentation qui ne contient
-aucune information classifiée.
+documents qui s'y rattachent, sont protégés dans les conditions prévues par les
+articles R. 2311-1 et suivants du code de la défense relatifs à la protection du
+secret de la défense nationale. Le plan comporte un rapport de présentation qui
+ne contient aucune information classifiée.
