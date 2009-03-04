@@ -1,15 +1,7 @@
 Article D131-12
 ----
-L'enfant doit acquérir :
-
-a) La maîtrise de la langue française, incluant l'expression orale, la lecture
-autonome de textes variés, l'écriture et l'expression écrite dans des domaines
-et des genres diversifiés, ainsi que la connaissance des outils grammaticaux et
-lexicaux indispensables à son usage correct ;
-
-b) La maîtrise des principaux éléments de mathématiques, incluant la
-connaissance de la numération et des objets géométriques, la maîtrise des
-techniques opératoires et du calcul mental, ainsi que le développement des
-capacités à déduire, abstraire, raisonner, prouver ;
-
-c) La pratique d'au moins une langue vivante étrangère.
+La progression retenue pour l'acquisition de ces connaissances et compétences
+doit être compatible avec l'âge de l'enfant et son état de santé, tout en tenant
+compte des aménagements justifiés par les choix éducatifs effectués. Elle doit
+avoir pour objet d'amener l'enfant, à l'issue de la période de l'instruction
+obligatoire, à la maîtrise de l'ensemble des exigences du socle commun.
