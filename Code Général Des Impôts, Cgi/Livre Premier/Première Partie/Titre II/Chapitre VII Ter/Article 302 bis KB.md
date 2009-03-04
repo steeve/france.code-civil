@@ -38,11 +38,7 @@ sommes acquittés par les usagers en rémunération d'un ou plusieurs services d
 télévision. Lorsqu'une offre donne également accès à d'autres catégories de
 services, la taxe est assise sur la seule part de cette offre correspondant aux
 services de télévision. Le produit des abonnements et autres sommes précités
-fait l'objet d'une déduction de 10 %. Lorsque le redevable exploite plusieurs
-réseaux de communications électroniques et a conclu à cette fin avec des
-collectivités territoriales des conventions d'exploitation distinctes, la taxe
-est assise sur le produit des abonnements et autres sommes précités, dans le
-cadre de chacune de ces conventions.
+fait l'objet d'une déduction de 10 %.
 
 III.L'exigibilité de la taxe est constituée par l'encaissement du produit de la
 redevance et par le versement des autres sommes mentionnées au 1° du II pour les

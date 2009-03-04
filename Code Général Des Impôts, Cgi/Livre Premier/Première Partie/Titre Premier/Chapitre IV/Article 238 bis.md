@@ -51,6 +51,10 @@ doctorales dans des conditions fixées par décret ;
 e ter) De sociétés, dont l'Etat est l'actionnaire unique, qui ont pour activité
 la représentation de la France aux expositions universelles ;
 
+e quater) Des sociétés nationales de programme mentionnées à l'article 44 de la
+loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et
+affectés au financement de programmes audiovisuels culturels ;
+
 f) De la " Fondation du patrimoine " ou d'une fondation ou une association qui
 affecte irrévocablement ces versements à la " Fondation du patrimoine ", en vue
 de subventionner la réalisation des travaux prévus par les conventions conclues

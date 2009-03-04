@@ -24,5 +24,4 @@ radiodiffusion sonore, sur tout ou partie du territoire, en direct ou en
 différé, du commentaire oral de cette manifestation ou de cette compétition.
 
 Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de
-l'audiovisuel fixe, en tant que de besoin, les conditions d'application du
-présent article.
+l'audiovisuel fixe les conditions d'application du présent article.
