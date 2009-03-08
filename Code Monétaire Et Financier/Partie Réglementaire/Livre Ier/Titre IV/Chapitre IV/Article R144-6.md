@@ -17,12 +17,9 @@ mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de
 France pour les opérations autres que celles comptabilisées et évaluées selon
 les règles mentionnées au premier alinéa du présent article.
 
-Le conseil général arrête, après avis du comité monétaire du conseil général, la
-présentation des états comptables publiés. Sur proposition du comité monétaire
-du conseil général, il peut limiter le détail des informations rendues
-publiques.
+Le conseil général arrête la présentation des états comptables publiés. Il peut
+limiter le détail des informations rendues publiques.
 
-Toutefois, le conseil général, après avis du comité monétaire du conseil
-général, peut, par dérogation au deuxième alinéa du présent article, rendre
-applicables à la Banque de France les règles de comptabilisation et d'évaluation
-recommandées par la Banque centrale européenne.
+Toutefois, le conseil général peut, par dérogation au deuxième alinéa du présent
+article, rendre applicables à la Banque de France les règles de comptabilisation
+et d'évaluation recommandées par la Banque centrale européenne.
