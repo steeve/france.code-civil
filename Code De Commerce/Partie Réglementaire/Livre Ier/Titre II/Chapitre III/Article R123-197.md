@@ -39,4 +39,10 @@ dirigeants ;
 
 8° Le montant des avances et des crédits alloués aux dirigeants sociaux avec
 l'indication des conditions consenties et des remboursements effectués pendant
-l'exercice.
+l'exercice ;
+
+9° La nature et l'objectif commercial des opérations non inscrites au bilan, à
+condition que les risques ou les avantages résultant de ces opérations soient
+significatifs et dans la mesure où la divulgation de ces risques ou avantages
+est nécessaire pour l'appréciation de la situation financière de la société. Un
+règlement du Comité de la réglementation comptable en fixe les modalités.

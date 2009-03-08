@@ -87,7 +87,23 @@ au titre du contrôle légal des comptes consolidés de ceux facturés au titre 
 conseils et prestations de services entrant dans les diligences directement
 liées à la mission de contrôle légal des comptes consolidés, telles qu'elles
 sont définies par les normes d'exercice professionnel mentionnées au II de
-l'article L. 822-11.
+l'article L. 822-11 ;
+
+18° La nature, l'objectif commercial et l'impact financier des opérations non
+inscrites au bilan consolidé à condition, d'une part, que les risques ou les
+avantages en résultant soient significatifs et, d'autre part, que les
+informations concernant ces risques ou avantages soient nécessaires à
+l'appréciation de la situation financière des sociétés ou entités incluses dans
+le périmètre consolidé. Un règlement du Comité de la réglementation comptable
+précise les modalités d'application du présent alinéa ;
+
+19° La liste des transactions effectuées avec des parties liées, au sens de
+l'article R. 123-199-1, par la société consolidante, une société ou une entité
+incluse dans le périmètre de consolidation. Cette liste est établie pour les
+transactions qui ne sont pas internes au groupe consolidé, qui présentent une
+importance significative et n'ont pas été conclues aux conditions normales du
+marché. Les modalités d'élaboration de cette liste sont précisées par un
+règlement du Comité de la réglementation comptable.
 
 Si certaines des indications prévues aux 5°, 6°, 7°, 8° ou 13° ci-dessus sont
 omises en raison du préjudice grave qui pourrait résulter de leur divulgation,

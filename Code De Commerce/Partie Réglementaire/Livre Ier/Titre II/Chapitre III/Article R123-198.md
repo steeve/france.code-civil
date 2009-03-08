@@ -49,4 +49,15 @@ prestations de services entrant dans les diligences directement liées à la
 mission de contrôle légal des comptes, telles qu'elles sont définies par les
 normes d'exercice professionnel mentionnées au II de l'article L. 822-11. Ces
 informations ne sont pas fournies si la personne morale est incluse dans un
-périmètre de consolidation et si l'annexe des comptes consolidés les mentionne.
+périmètre de consolidation et si l'annexe des comptes consolidés les mentionne ;
+
+10° L'impact financier des opérations mentionnées au 9° de l'article R. 123-197
+;
+
+11° La liste des transactions, au sens de l'article R. 123-199-1, effectuées par
+la société avec des parties liées lorsque ces transactions présentent une
+importance significative et n'ont pas été conclues aux conditions normales du
+marché. Cette information n'est pas requise pour les transactions effectuées par
+la société avec les filiales qu'elle détient en totalité ou entre ses filiales
+détenues en totalité. Les modalités d'élaboration de cette liste sont précisées
+par un règlement du Comité de la réglementation comptable.
