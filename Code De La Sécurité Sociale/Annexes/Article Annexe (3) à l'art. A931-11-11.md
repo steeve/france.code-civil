@@ -1006,3 +1006,28 @@ c) Le montant global des prêts éventuellement accordés pendant l'exercice
 respectivement à l'ensemble des membres du conseil d'administration, à
 l'ensemble des autres dirigeants ainsi que le montant des engagements pris pour
 le compte de ces personnes au titre d'une garantie quelconque.
+
+3. 2.
+
+Lorsque l'institution de prévoyance ou l'union d'institutions applique l'option
+prévue à l'article R. 931-15-1 du présent code qui lui permet de reporter la
+charge constituée par la dotation à la provision pour risque d'exigibilité, il
+en est fait mention dans les annexes des états financiers. Si ces informations
+sont significatives pour l'organisme concerné, ce dernier doit également
+mentionner les informations suivantes : - le montant de la moins-value latente
+globale nette mentionnée à l'article R. 931-10-15 du présent code ; - le montant
+de la provision pour risque d'exigibilité brute déjà constituée au niveau des
+autres provisions techniques (comptes 3703 et 3723 du plan comptable des
+institutions de prévoyance ou d'unions d'institutions) ; - les hypothèses
+relatives à l'évaluation de la duration des passifs définie par l'article A.
+931-10-18-1 du présent code ainsi que les informations sur les événements
+affectant cette duration, si elle était modifiée significativement par rapport à
+l'exercice antérieur ; - le montant de la charge relative à la provision pour
+risque d'exigibilité restant à constater en résultat sur les exercices futurs si
+l'option n'avait pas été retenue (compte 379 du plan comptable des institutions
+de prévoyance ou d'unions d'institutions) ; - les informations qualitatives
+expliquant l'évolution sur l'exercice du solde du compte de dotation à la
+provision pour risque d'exigibilité restant à constater ; - le résultat de
+l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé
+l'option mentionnée à l'article R. 931-10-15-1 (c'est-à-dire en neutralisant
+l'impact du compte 753 sur le résultat).
