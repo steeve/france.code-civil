@@ -10,9 +10,8 @@ l'agriculture. Elle ne peut être accordée que si les statuts et règles de
 gestion de cet organisme sont compatibles avec les dispositions législatives et
 réglementaires applicables.
 
-Les dispositions des articles R. 6332-19, R. 6332-21 ; R. 6332-22, première
-phrase, R. 6332-23 à R. 6332-33, R. 6332-38 à R. 6332-41, R. 6332-49 à R.
-6332-55 du code du travail sont applicables au fonds.
+Les dispositions des articles R. 6332-19 à R. 6332-33, R. 6332-38 à R. 6332-41,
+R. 6332-49 à R. 6332-55 du code du travail sont applicables à ce fonds.
 
 L'habilitation peut être retirée, par arrêté conjoint des ministres mentionnés
 au deuxième alinéa, lorsque les dispositions législatives et réglementaires

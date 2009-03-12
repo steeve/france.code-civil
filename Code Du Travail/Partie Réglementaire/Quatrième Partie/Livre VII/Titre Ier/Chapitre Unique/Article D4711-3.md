@@ -5,3 +5,6 @@ les observations et mises en demeure de l'inspection du travail ainsi que ceux
 concernant les vérifications et contrôles mis à la charge des employeurs au
 titre de la santé et de la sécurité au travail des cinq dernières années et, en
 tout état de cause, ceux des deux derniers contrôles ou vérifications.
+
+Il conserve, pendant la même durée, les copies des déclarations d'accidents du
+travail déclarés à la caisse primaire d'assurance maladie.
