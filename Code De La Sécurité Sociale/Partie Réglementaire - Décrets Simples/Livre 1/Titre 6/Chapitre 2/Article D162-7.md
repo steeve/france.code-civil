@@ -12,4 +12,6 @@ dispensés à des populations spécifiques dans les conditions suivantes :
 dans les établissements pénitentiaires ;
 
 3° Prise en charge des populations en difficulté par des équipes hospitalières à
-l'extérieur des établissements de santé.
+l'extérieur des établissements de santé ;
+
+4° La prise en charge spécifique des patients en situation de précarité.

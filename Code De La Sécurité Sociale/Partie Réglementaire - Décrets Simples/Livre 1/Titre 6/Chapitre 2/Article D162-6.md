@@ -33,9 +33,8 @@ c) La collecte, la conservation et la distribution des produits d'origine
 humaine, à l'exception de la part de cette activité couverte par les tarifs de
 cession ;
 
-d) L'assistance aux patients pour l'accès aux droits sociaux et les dispositifs
-ayant pour objet de favoriser le maintien des soins de proximité et l'accès à
-ceux-ci ;
+d) Les dispositifs ayant pour objet de favoriser le maintien des soins de
+proximité et l'accès à ceux-ci ;
 
 e) Le dépistage anonyme et gratuit effectué dans les conditions prévues à
 l'article L. 3121-2 du code de la santé publique ;
@@ -63,3 +62,5 @@ a) La politique hospitalière ;
 b) Le développement du dialogue social dans le secteur hospitalier ;
 
 c) La coopération internationale en matière hospitalière.
+
+4° La permanence des soins hospitalière.
