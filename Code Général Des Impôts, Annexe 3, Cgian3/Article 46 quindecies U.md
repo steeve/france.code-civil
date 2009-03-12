@@ -1,6 +1,6 @@
 Article 46 quindecies U
 ----
-Pour l'application du neuvième alinéa de l'article 238 bis HW du code général
+Pour l'application du huitième alinéa de l'article 238 bis HW du code général
 des impôts, les droits détenus indirectement dans une société agréée
 d'approvisionnement à long terme d'électricité s'entendent de ceux détenus par
 les entreprises qui ont entre elles des liens de dépendance au sens du 12 de
