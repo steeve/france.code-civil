@@ -1,5 +1,5 @@
 Article R4313-84
 ----
-La période au cours de laquelle une demande de communication de la documentation
-technique peut être présentée se poursuit pendant dix ans après la dernière date
-de fabrication.
+Pour les équipements de travail ou les moyens de protection destinés à un usage
+spécifiquement agricole ou forestier, les attributions du ministre chargé du
+travail sont exercées par le ministre chargé de l'agriculture.

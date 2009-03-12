@@ -1,8 +1,11 @@
 Article R4313-36
 ----
-La documentation sur le système d'assurance qualité comprend notamment une
-description : 1° Des objectifs de qualité, de l'organigramme et de la
-répartition des compétences chez le fabricant dans les domaines relatifs à la
-qualité des équipements de protection individuelle ; 2° Des examens, inspections
-et essais à réaliser par le fabricant ; 3° Des moyens destinés à vérifier le
-fonctionnement efficace du système d'assurance qualité.
+Si la décision d'un organisme notifié n'apparaît pas justifiée, le ministre
+chargé du travail, saisi d'une réclamation, peut réformer cette décision après
+avis du Conseil d'orientation sur les conditions de travail, après que le
+réclamant, le demandeur de l'attestation d'examen CE de type s'il est différent
+du réclamant et l'organisme notifié en cause, ont été invités à présenter leurs
+observations. Il prend sa décision dans un délai de deux mois.
+
+Le silence gardé pendant plus de deux mois sur une réclamation vaut décision de
+rejet.
