@@ -5,13 +5,12 @@ nom, prénom usuel et domicile des souscripteurs, avec l'indication des sommes
 versées par chacun d'eux, sont déposés, pour le compte de la société en
 formation et par les personnes qui ont reçus les fonds, soit à la Caisse des
 dépôts et consignations, soit chez un notaire, soit auprès d'un établissement de
-crédit ou d'un intermédiaire habilité en vue de l'administration ou de la
-conservation d'instruments financiers au sens de l'article L. 542-1 du code
+crédit ou d'un intermédiaire mentionné aux 2° à 7° de l'article L. 542-1 du code
 monétaire et financier, selon les indications portées à la notice.
 
 Ce dépôt est fait dans le délai de huit jours à compter de la réception des
 fonds, à moins que ceux-ci ne soient reçus par des établissements de crédit ou
-des intermédiaires habilités mentionnés à l'alinéa précédent.
+des intermédiaires mentionnés à l'alinéa précédent.
 
 Le dépositaire des fonds est tenu, jusqu'au retrait de ceux-ci, de communiquer
 la liste prévue au premier alinéa à tout souscripteur qui justifie de sa

@@ -10,5 +10,5 @@ de la société. Ce document est mis à la disposition du public.
 
 II.-A des fins de couverture ou pour réaliser son objectif de gestion, la
 société d'investissement peut conclure des instruments financiers à terme
-mentionnés au 4 du I de l'article L. 211-1, dans les conditions prévues aux 1°
-et 2° du I de l'article R. 214-13.
+mentionnés au III de l'article L. 211-1, dans les conditions prévues aux 1° et
+2° du I de l'article R. 214-13.

@@ -1,7 +1,9 @@
 Article R211-5
 ----
-Les valeurs mobilières à forme obligatoirement nominatives ne peuvent être
-négociées en bourse qu'après avoir été placées en compte d'administration.
+Les titres financiers à forme obligatoirement nominative ne peuvent être
+négociés sur un marché réglementé ou sur un système multilatéral de négociation
+qu'après avoir été placés en compte d'administration.
 
-Les valeurs mobilières qui ne revêtent pas la forme obligatoirement nominative
-ne peuvent être négociées en bourse que sous la forme au porteur.
+Les titres financiers qui ne revêtent pas la forme obligatoirement nominative ne
+peuvent être négociés sur un marché réglementé ou sur un système multilatéral de
+négociation que sous la forme au porteur.

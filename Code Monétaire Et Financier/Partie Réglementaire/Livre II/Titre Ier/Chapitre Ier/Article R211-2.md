@@ -1,3 +1,5 @@
 Article R211-2
 ----
-Les titres inscrits en compte se transmettent par virement de compte à compte.
+Lorsque le compte-titres est tenu par l'émetteur, les titres financiers revêtent
+la forme nominative. Lorsqu'il est tenu par un intermédiaire mentionné à
+l'article L. 211-3, les titres financiers revêtent la forme au porteur.

@@ -1,7 +1,7 @@
 Article R214-97
 ----
 Pour la réalisation de son objet, un organisme de titrisation peut octroyer les
-garanties mentionnées à l'article L. 431-7-3, dans les conditions définies à ce
+garanties mentionnées à l'article L. 211-38, dans les conditions définies à ce
 même article.
 
 Lorsque les garanties octroyées par un organisme de titrisation sont des

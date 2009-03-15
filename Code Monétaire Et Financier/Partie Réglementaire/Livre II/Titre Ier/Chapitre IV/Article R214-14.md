@@ -2,9 +2,9 @@ Article R214-14
 ----
 Un organisme de placement collectif en valeurs mobilières peut conclure des
 contrats constituant des instruments financiers à terme répondant aux
-caractéristiques des dérivés de crédit définis par les conventions mentionnées à
-l'article L. 431-7, dans les conditions fixées aux articles R. 214-12 et R.
-214-13.
+caractéristiques des dérivés de crédit définis par les conventions mentionnées
+aux articles L. 211-36 et L. 211-36-1, dans les conditions fixées aux articles
+R. 214-12 et R. 214-13.
 
 Ces instruments financiers à terme permettent de transférer le risque de crédit
 lié à leur actif sous-jacent, indépendamment des autres risques liés à cet actif

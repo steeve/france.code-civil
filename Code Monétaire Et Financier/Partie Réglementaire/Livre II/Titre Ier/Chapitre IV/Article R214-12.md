@@ -2,7 +2,7 @@ Article R214-12
 ----
 I.-Pour la réalisation de son objectif de gestion, un organisme de placement
 collectif en valeurs mobilières peut recevoir ou octroyer les garanties
-mentionnées à l'article L. 431-7-3, dans les conditions définies à ce même
+mentionnées à l'article L. 211-38, dans les conditions définies à ce même
 article ainsi que recevoir des cautions solidaires ou garanties à première
 demande.
 

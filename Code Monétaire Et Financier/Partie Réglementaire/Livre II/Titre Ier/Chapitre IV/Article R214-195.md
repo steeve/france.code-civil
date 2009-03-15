@@ -19,7 +19,8 @@ placement collectif immobilier doit respecter chacune des conditions suivantes :
 1° Ces opérations sont réalisées avec un établissement mentionné au deuxième
 alinéa de l'article R. 214-188 ;
 
-2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ;
+2° Elles sont régies par une convention-cadre mentionnée aux articles L. 211-36
+et L. 211-36-1 ;
 
 3° Elles doivent être prises en compte pour l'application des dispositions
 prévues aux articles R. 214-174 à R. 214-179, des règles d'exposition au risque

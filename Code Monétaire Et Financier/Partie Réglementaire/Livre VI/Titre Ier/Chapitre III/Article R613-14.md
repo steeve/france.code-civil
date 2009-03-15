@@ -21,7 +21,7 @@ dans le délai imparti, son avis est réputé favorable à l'ouverture de la
 procédure.
 
 L'avis de la Commission bancaire est écrit. Il précise si la personne participe
-à un système et, dans ce cas, rappelle les dispositions du troisième alinéa du I
+à un système et, dans ce cas, rappelle les dispositions du dernier alinéa du II
 de l'article L. 330-1. Il est transmis par tout moyen au greffier, qui le remet
 au président du tribunal et au procureur de la République. L'avis est versé au
 dossier.

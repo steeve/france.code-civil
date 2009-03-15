@@ -11,8 +11,8 @@ l'actionnaire.
 
 Le même droit est ouvert à tout actionnaire propriétaire de titres au porteur,
 qui justifie de cette qualité par la transmission d'une attestation
-d'inscription dans les comptes de titres au porteur tenus par l'intermédiaire
-habilité.
+d'inscription dans les comptes de titres au porteur tenus par un intermédiaire
+mentionné à l'article L. 211-3 du code monétaire et financier.
 
 Les actionnaires mentionnés au premier alinéa peuvent, par une demande unique,
 obtenir de la société l'envoi des documents et renseignements précités à

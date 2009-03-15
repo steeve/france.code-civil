@@ -1,7 +1,7 @@
 Article R214-189
 ----
 Un organisme de placement collectif immobilier peut octroyer des garanties
-mentionnées à l'article L. 431-7-3 aux conditions définies à ce même article et
+mentionnées à l'article L. 211-38 aux conditions définies à ce même article et
 aux conditions supplémentaires suivantes :
 
 1° Les garanties octroyées par l'organisme portent sur les instruments

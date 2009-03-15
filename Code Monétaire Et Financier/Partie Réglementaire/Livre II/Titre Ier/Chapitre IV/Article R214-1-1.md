@@ -22,7 +22,7 @@ mobilières ;
 
 d) Les parts et titres de créance émis par des fonds communs de titrisation ;
 
-e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ;
+e) Les instruments financiers à terme au sens du III de l'article L. 211-1 ;
 
 f) Les instruments du marché monétaire.
 

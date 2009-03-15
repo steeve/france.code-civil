@@ -7,7 +7,8 @@ apposition d'une mention sur le registre des actions nominatives de la société
 Lorsque les actions sont inscrites en compte conformément aux dispositions des
 articles R. 211-1 et suivants du code monétaire et financier, l'annulation des
 actions est constatée par un virement à un compte d'ordre ouvert au nom de la
-société, soit chez elle, soit chez un intermédiaire habilité.
+société, soit chez elle, soit chez un intermédiaire mentionné à l'article L.
+211-3 du même code.
 
 Lorsque la réduction de capital est effectuée selon les modalités prévues à
 l'article L. 225-207, les actions achetées par la société qui les a émises sont

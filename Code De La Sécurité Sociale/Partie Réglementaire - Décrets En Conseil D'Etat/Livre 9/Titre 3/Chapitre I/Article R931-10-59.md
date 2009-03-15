@@ -22,8 +22,8 @@ article ;
 
 d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment
 en cas d'insolvabilité, ne font pas obstacle à la mise en oeuvre des modalités
-de résiliation, d'évaluation et de compensation, en application notamment de
-l'article L. 431-7 du code monétaire et financier.
+de résiliation, d'évaluation et de compensation, en application notamment des
+articles L. 211-36 et L. 211-36-1 du code monétaire et financier.
 
 La liste des conventions-cadres qui remplissent ces conditions est déterminée
 par un arrêté du ministre chargé de la sécurité sociale.

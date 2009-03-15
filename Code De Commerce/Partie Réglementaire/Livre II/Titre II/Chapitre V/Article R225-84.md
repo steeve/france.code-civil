@@ -9,4 +9,5 @@ l'assemblée générale.
 
 Elles sont accompagnées d'une attestation d'inscription soit dans les comptes de
 titres nominatifs tenus par la société, soit dans les comptes de titres au
-porteur tenus par l'intermédiaire habilité.
+porteur tenus par un intermédiaire mentionné à l'article L. 211-3 du code
+monétaire et financier.
