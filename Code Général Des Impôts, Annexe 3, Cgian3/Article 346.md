@@ -1,8 +1,8 @@
 Article 346
 ----
-La commission des contributions directes instituée à Paris par la loi du 23
-frimaire an III, tient lieu dans cette ville de la commission prévue à l'article
-1650 du code général des impôts.
-
-Cette commission se compose de sept membres qui sont nommés par le préfet de
-Paris.
+Pour l'application du 2 de l'article 1650 A du code général des impôts, lorsque
+le périmètre de l'établissement public de coopération intercommunale se situe
+sur le territoire de plusieurs départements, le directeur des services fiscaux
+compétent est celui du département dans lequel l'établissement public de
+coopération intercommunale a son siège tel qu'il a été déterminé dans les
+statuts de cet établissement.
