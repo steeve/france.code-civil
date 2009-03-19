@@ -12,10 +12,10 @@ sont jointes par la société, selon le cas, à sa déclaration du résultat de
 l'année d'achèvement du logement ou de son acquisition si elle est postérieure,
 ou à sa déclaration du résultat de l'année d'achèvement des travaux.
 
-II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses
-associés un document établi en double exemplaire conformément à un modèle fixé
-par l'administration et comportant, pour l'année précédente, les renseignements
-suivants :
+II.-La société doit, au plus tard le deuxième jour ouvré suivant le premier mai
+chaque année, faire parvenir à ses associés un document établi en double
+exemplaire conformément à un modèle fixé par l'administration et comportant,
+pour l'année précédente, les renseignements suivants :
 
 1° L'identité et l'adresse de l'associé ;
 

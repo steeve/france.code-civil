@@ -2,8 +2,9 @@ Article 46 C
 ----
 I. Indépendamment des renseignements dont la production est déjà prévue par le
 code général des impôts, les sociétés visées à l'article 46 B sont tenues de
-remettre au service des impôts du lieu de leur principal établissement, avant le
-1er mars de chaque année, une déclaration indiquant, pour l'année précédente :
+remettre au service des impôts du lieu de leur principal établissement, au plus
+tard le deuxième jour ouvré suivant le premier mai de chaque année, une
+déclaration indiquant, pour l'année précédente :
 
 a. Les nom, prénoms, adresse, date et lieu de naissance pour les personnes
 physiques et les dénomination, adresse et numéro d'identification au répertoire

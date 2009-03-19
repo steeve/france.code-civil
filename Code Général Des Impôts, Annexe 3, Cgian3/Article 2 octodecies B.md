@@ -1,9 +1,10 @@
 Article 2 octodecies B
 ----
 La société civile de placement immobilier mentionnée au premier alinéa de
-l'article 31 bis doit, avant le 31 mars de chaque année, faire parvenir à ses
-associés un document établi en double exemplaire conformément à un modèle fixé
-par l'administration et comportant les éléments suivants :
+l'article 31 bis doit, au plus tard le deuxième jour ouvré suivant le premier
+mai de chaque année, faire parvenir à ses associés un document établi en double
+exemplaire conformément à un modèle fixé par l'administration et comportant les
+éléments suivants :
 
 1° L'identité et l'adresse des associés ;
 

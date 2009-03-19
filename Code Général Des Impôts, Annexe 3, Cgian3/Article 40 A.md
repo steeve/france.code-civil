@@ -2,8 +2,8 @@ Article 40 A
 ----
 I. Les contribuables soumis obligatoirement au régime de la déclaration
 contrôlée mentionné à l'article 96 du code général des impôts ou qui ont opté
-pour ce régime sont tenus de produire, au plus tard le 30 avril de chaque année,
-une déclaration indiquant :
+pour ce régime sont tenus de produire, au plus tard le deuxième jour ouvré
+suivant le premier mai de chaque année, une déclaration indiquant :
 
 a) La nature de l'activité qu'ils exercent ;
 
