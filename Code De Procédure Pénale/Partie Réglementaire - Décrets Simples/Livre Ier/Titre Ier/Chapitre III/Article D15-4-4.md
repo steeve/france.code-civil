@@ -7,11 +7,8 @@ compétence territoriale de ces pôles sont déterminés comme suit :
 
 SIÈGE
 
-COMPÉTENCE TERRITORIALE
-
-s'étendant au ressort des tribunaux de
-
-grande instance de :
+COMPÉTENCE TERRITORIALE s'étendant au ressort des tribunaux de grande instance
+de :
 
 Cour d'appel d'Agen
 
@@ -329,7 +326,7 @@ Cour d'appel de Reims
 
 Reims.
 
-Châlons-en Champagne, Charleville-Mézières, Reims.
+Châlons-en-Champagne, Charleville-Mézières, Reims.
 
 Troyes.
 
@@ -409,19 +406,13 @@ Versailles.
 
 Versailles.
 
-DÉPARTEMENTS D'OUTRE-MER
+Départements d'outre-mer
 
 
 SIÈGE
 
-.
-
-
-RESSORT
-
-s'étendant aux limites territoriales des
-
-tribunaux de grande instance de :
+RESSORT s'étendant aux limites territoriales des tribunaux de grande instance de
+:
 
 Cour d'appel de Basse-Terre
 
@@ -449,19 +440,12 @@ Saint-Pierre.
 
 Saint-Pierre.
 
-COLLECTIVITÉS D'OUTRE-MER
+Collectivités d'outre-mer
 
 
 SIÈGE
 
-.
-
-
-RESSORT
-
-s'étendant aux limites territoriales des
-
-tribunaux de grande instance de :
+RESSORT s'étendant aux limites des tribunaux de grande instance de :
 
 Cour d'appel de Nouméa
 
