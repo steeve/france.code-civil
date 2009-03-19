@@ -2,9 +2,10 @@ Article 374
 ----
 Indépendamment des renseignements dont la production est déjà prévue par le code
 général des impôts, les sociétés visées à l'article 372 sont tenues de faire
-parvenir au service des impôts du lieu de leur principal établissement, avant le
-1er mars de chaque année, une déclaration en double exemplaire indiquant la part
-revenant ou incombant à chaque associé pour l'année précédente :
+parvenir au service des impôts du lieu de leur principal établissement, au plus
+tard le deuxième jour ouvré suivant le 1er mai, une déclaration en double
+exemplaire indiquant la part revenant ou incombant à chaque associé pour l'année
+précédente :
 
 a. Dans les revenus bruts sociaux ;
 

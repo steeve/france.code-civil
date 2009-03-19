@@ -6,7 +6,8 @@ d'affaires réel au 1er janvier de l'année suivant cet exercice, doivent
 souscrire une déclaration pour la période comprise entre la date de clôture du
 dernier exercice entièrement couvert par l'option et le 31 décembre de la
 dernière année d'imposition au régime simplifié. Cette déclaration doit être
-souscrite au plus tard le 30 avril de l'année suivante.
+souscrite l'année suivante, au plus tard le deuxième jour ouvré suivant le 1er
+mai.
 
 2. Les dispositions prévues au 1. sont également applicables aux assujettis qui
 bénéficient de la franchise de taxe sur la valeur ajoutée prévue à l'article 293

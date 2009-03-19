@@ -8,10 +8,10 @@ d'achèvement du logement ou de son acquisition si elle est postérieure. Cette
 option comporte l'engagement de la société de louer les logements nus pendant
 une durée de neuf ans.
 
-La société doit, avant le 16 février de chaque année, faire parvenir à ses
-associés une attestation en double exemplaire établie conformément à un modèle
-fixé par l'administration et comportant, pour l'année précédente, les
-renseignements suivants :
+La société doit, chaque année, au plus tard le deuxième jour ouvré suivant le
+1er mai, faire parvenir à ses associés une attestation en double exemplaire
+établie conformément à un modèle fixé par l'administration et comportant, pour
+l'année précédente, les renseignements suivants :
 
 1° L'identité et l'adresse de l'associé ;
 
