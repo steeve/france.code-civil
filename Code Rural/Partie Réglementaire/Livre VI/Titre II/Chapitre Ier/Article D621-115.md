@@ -1,9 +1,10 @@
 Article D621-115
 ----
 Peuvent effectuer le contrôle de toutes les opérations concernant l'application
-de la présente section, les agents habilités de l'Office national
-interprofessionnel des céréales et de la direction générale des douanes et des
-droits indirects.
+de la présente section et des dispositions du chapitre VI du titre VI du livre
+sixième du présent code, les agents habilités de l'Office national
+interprofessionnel des grandes cultures et de la direction générale des douanes
+et des droits indirects.
 
 Les membres de l'inspection générale des finances et les fonctionnaires
 habilités du ministère de l'agriculture peuvent, comme les agents désignés
