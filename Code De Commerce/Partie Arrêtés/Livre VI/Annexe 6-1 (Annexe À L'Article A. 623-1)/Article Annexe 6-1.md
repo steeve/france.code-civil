@@ -166,7 +166,7 @@ bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.
 
 (6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.
 
-(7) Matière toxique, inflammable, explosible.
+(7) Matière toxique, inflammable, explosible ou radioactive.
 
 3. Occupation du site
 
