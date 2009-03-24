@@ -143,6 +143,14 @@ au sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
 logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de
 contrats de location-accession mentionnés au dixième alinéa.
 
+de logements neufs dans les conditions fixées par l'article 199 undecies C ou
+par l'article 217 undecies lorsque les logements sont loués en vue de leur
+sous-location dans les conditions prévues aux 1°, 2° et 3° du I de l'article 199
+undecies C, ainsi que de logements neufs dont la construction est financée à
+l'aide d'un prêt aidé ou d'une subvention de l'Etat accordé dans les conditions
+prévues par les articles R. 372-1 et R. 372-20 à R. 372-24 du code de la
+construction et de l'habitation.
+
 2. Les dispositions qui précèdent ne sont pas applicables :
 
 aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés
