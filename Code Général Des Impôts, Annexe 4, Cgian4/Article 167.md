@@ -21,7 +21,7 @@ services à caractère industriel et commercial.
 
 les manufactures nationales ;
 
-l'établissement public La Monnaie de Paris ;
+La Monnaie de Paris ;
 
 les arsenaux, poudreries et usines mécaniques de l'Etat.
 
@@ -47,7 +47,7 @@ les chambres de métiers et de l'artisanat ;
 
 les sections de l'office de répartition des produits industriels ;
 
-l' établissement national des produits de l'agriculture et de la mer
+l'établissement national des produits de l'agriculture et de la mer
 (FranceAgriMer) ;
 
 l'office national des anciens combattants et victimes de guerre.

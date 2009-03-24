@@ -121,7 +121,7 @@ national des produits de l'agriculture et de la mer (FranceAgriMer) relativement
 à l'achat, la vente, la transformation ou le transport de céréales ; il en est
 de même pour les opérations effectuées par des coopératives de céréales avec
 d'autres coopératives de céréales dans le cadre de programmes élaborés par
-l'office ou avec l'autorisation de cet établissement ;
+l'établissement ou avec son autorisation ;
 
 7° Les abris contre les bombardements aériens établis en exécution des lois et
 règlements relatifs à la défense passive et qui remplissent les conditions
