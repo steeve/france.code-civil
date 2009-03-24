@@ -5,7 +5,7 @@ La liste des personnes qui remplissent les conditions fixées par les articles L
 selon le canton de résidence des intéressés, par le conseil d'administration de
 chaque caisse de mutualité sociale agricole.
 
-Elle est établie cent trente-cinq jours au moins avant la date fixée pour le
+Elle est établie cent quarante-cinq jours au moins avant la date fixée pour le
 scrutin.
 
 Le président du conseil d'administration de la caisse communique par lettre
