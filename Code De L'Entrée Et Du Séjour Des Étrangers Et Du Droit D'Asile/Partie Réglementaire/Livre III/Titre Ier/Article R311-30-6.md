@@ -1,6 +1,6 @@
 Article R311-30-6
 ----
-L'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme
+L'Office français de l'immigration et de l'intégration ou l'organisme
 délégataire notifie à l'étranger et à l'autorité diplomatique ou consulaire le
 nombre d'heures de formation à la langue française prescrit en fonction des
 résultats de l'évaluation.

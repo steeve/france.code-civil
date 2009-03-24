@@ -21,9 +21,9 @@ préfet sont remplacés par les mots :
 2° Au troisième alinéa de l'article R. 723-2 :
 
 a) Les mots : " au préfet de département compétent et, à Paris, au préfet de
-police, ainsi qu'au directeur de l'Agence nationale de l'accueil des étrangers
-et des migrations " sont remplacés par les mots : " à l'administrateur supérieur
-des îles Wallis et Futuna " ;
+police, ainsi qu'au directeur de l' Office français de l'immigration et de
+l'intégration " sont remplacés par les mots : " à l'administrateur supérieur des
+îles Wallis et Futuna " ;
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque
 ceux-ci en font la demande " sont remplacés par les mots : " à l'administrateur
@@ -44,9 +44,9 @@ de l'administrateur supérieur des îles Wallis et Futuna " ;
 6° A l'article R. 733-20 :
 
 a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de
-police, ainsi que le directeur de l'Agence nationale de l'accueil des étrangers
-et des migrations " sont remplacés par les mots : " l'administrateur supérieur
-des îles Wallis et Futuna " ;
+police, ainsi que le directeur de l' Office français de l'immigration et de
+l'intégration " sont remplacés par les mots : " l'administrateur supérieur des
+îles Wallis et Futuna " ;
 
 b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au préfet
 de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : "

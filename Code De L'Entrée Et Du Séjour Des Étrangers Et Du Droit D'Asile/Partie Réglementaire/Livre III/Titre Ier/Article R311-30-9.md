@@ -5,7 +5,7 @@ linguistique requis, il est dispensé de formation linguistique à son arrivée 
 France. Les dispositions du troisième alinéa de l'article R. 311-24 lui sont
 toutefois applicables. Il peut alors bénéficier, à sa demande, d'un
 accompagnement à la préparation du diplôme initial de langue française organisé
-par l'Agence nationale de l'accueil des étrangers et des migrations.
+par l' Office français de l'immigration et de l'intégration .
 
 Dans le cas où l'étranger n'atteint pas le niveau linguistique requis, cette
 évaluation permet de déterminer les caractéristiques de la formation qui lui est

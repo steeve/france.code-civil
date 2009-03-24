@@ -6,9 +6,9 @@ justifiée par la production de l'un des documents suivants :
 
 1° Extrait d'acte de naissance en France ;
 
-2° Certificat de contrôle médical de l'enfant, délivré par l'Agence nationale de
-l'accueil des étrangers et des migrations à l'issue de la procédure
-d'introduction ou d'admission au séjour au titre du regroupement familial ;
+2° Certificat de contrôle médical de l'enfant, délivré par l' Office français de
+l'immigration et de l'intégration à l'issue de la procédure d'introduction ou
+d'admission au séjour au titre du regroupement familial ;
 
 3° Livret de famille délivré par l'Office français de protection des réfugiés et
 apatrides ou, à défaut, un acte de naissance établi, le cas échéant, par cet

@@ -1,11 +1,11 @@
 Article L5223-1
 ----
-L'Agence nationale de l'accueil des étrangers et des migrations est chargée, sur
+L' Office français de l'immigration et de l'intégration est chargé, sur
 l'ensemble du territoire, du service public de l'accueil des étrangers
 titulaires, pour la première fois, d'un titre les autorisant à séjourner
 durablement en France.
 
-Elle a également pour mission de participer à toutes actions administratives,
+Il a également pour mission de participer à toutes actions administratives,
 sanitaires et sociales relatives :
 
 1° A l'entrée et au séjour d'une durée inférieure ou égale à trois mois des

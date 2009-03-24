@@ -2,7 +2,7 @@ Article D311-18-1
 ----
 Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre
 de séjour, de son renouvellement ou de la délivrance d'un duplicata versent, au
-profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de
+profit de l' Office français de l'immigration et de l'intégration ou de
 l'établissement public appelé à lui succéder, les taxes mentionnées aux articles
 L. 311-13 et L. 311-14 selon les modalités suivantes :
 

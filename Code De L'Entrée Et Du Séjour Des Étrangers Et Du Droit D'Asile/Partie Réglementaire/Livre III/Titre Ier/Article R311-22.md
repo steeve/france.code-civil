@@ -8,5 +8,5 @@ l'exercice de la citoyenneté que permet notamment l'accès obligatoire et gratu
 à l'éducation. Un arrêté du ministre chargé de l'intégration fixe la durée
 maximale et minimale nécessaire à cette formation. La participation de
 l'étranger à cette formation est sanctionnée par une attestation nominative
-établie par l'Agence nationale de l'accueil des étrangers et des migrations et
-remise à l'étranger par l'organisme ayant assuré la formation.
+établie par l'Office français de l'immigration et de l'intégration et remise à
+l'étranger par l'organisme ayant assuré la formation.

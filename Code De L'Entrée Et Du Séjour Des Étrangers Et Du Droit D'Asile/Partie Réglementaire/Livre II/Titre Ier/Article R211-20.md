@@ -46,9 +46,9 @@ h) Données relatives au séjour (durée ainsi que dates d'arrivée et de dépar
 
 i) Eventuels liens de parenté avec le demandeur ;
 
-j) Avis de l'Agence nationale de l'accueil des étrangers et des migrations ou
-des services de la commune chargés des affaires sociales ou du logement, relatif
-aux conditions d'hébergement, à la demande du maire ;
+j) Avis de l' Office français de l'immigration et de l'intégration ou des
+services de la commune chargés des affaires sociales ou du logement, relatif aux
+conditions d'hébergement, à la demande du maire ;
 
 k) Suites données par l'autorité consulaire à la demande de visa formulée sur la
 base de l'attestation d'accueil validée ;

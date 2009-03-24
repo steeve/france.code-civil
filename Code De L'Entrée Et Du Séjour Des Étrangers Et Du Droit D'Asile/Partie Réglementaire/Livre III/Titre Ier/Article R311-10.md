@@ -11,5 +11,5 @@ Le titre de séjour porte la photographie de son titulaire.
 
 Le préfet peut également prescrire que la remise du titre soit faite au
 commissariat de police de la résidence du requérant ou dans l'une des
-délégations régionales ou départementales de l'Agence nationale de l'accueil des
-étrangers et des migrations.
+délégations régionales ou départementales de l'Office français de l'immigration
+et de l'intégration.

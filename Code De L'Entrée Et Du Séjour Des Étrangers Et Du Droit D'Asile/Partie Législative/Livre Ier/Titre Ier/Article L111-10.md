@@ -39,5 +39,5 @@ Ce rapport propose également des indicateurs permettant d'estimer le nombre
 d'étrangers se trouvant en situation irrégulière sur le territoire français.
 
 L'Office français de protection des réfugiés et apatrides, le Haut Conseil à
-l'intégration et l'Agence nationale de l'accueil des étrangers et des migrations
-joignent leurs observations au rapport.
+l'intégration et l'Office français de l'immigration et de l'intégration joignent
+leurs observations au rapport.

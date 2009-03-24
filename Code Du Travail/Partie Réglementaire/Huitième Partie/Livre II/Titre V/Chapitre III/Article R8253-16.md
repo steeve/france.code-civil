@@ -1,7 +1,7 @@
 Article R8253-16
 ----
-Pour inscrire le privilège de l'Agence nationale de l'accueil des étrangers et
-des migrations, l'agent comptable de l'agence remet ou adresse par lettre
+Pour inscrire le privilège de l' Office français de l'immigration et de
+l'intégration , l'agent comptable de l'agence remet ou adresse par lettre
 recommandée avec avis de réception au greffier du tribunal un bordereau en
 double exemplaire portant les indications suivantes : 1° Désignation et adresse
 de l'agence ; 2° Désignation du redevable avec : a) Si le redevable est une

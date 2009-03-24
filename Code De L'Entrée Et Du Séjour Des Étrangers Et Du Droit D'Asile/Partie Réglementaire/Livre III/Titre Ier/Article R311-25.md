@@ -7,6 +7,6 @@ l'accès aux services publics, notamment la formation et l'emploi, le logement,
 la santé, la petite enfance et ses modes de garde, l'école et l'orientation
 scolaire, ainsi que la vie associative. Un arrêté du ministre chargé de
 l'intégration fixe la durée maximale et minimale nécessaire à cette formation. A
-l'issue de la session, l'étranger reçoit de l'Agence nationale de l'accueil des
-étrangers et des migrations une attestation d'assiduité, au vu des informations
+l'issue de la session, l'étranger reçoit de l'Office français de l'immigration
+et de l'intégration une attestation d'assiduité, au vu des informations
 transmises par l'organisme qui a assuré cette session d'information.

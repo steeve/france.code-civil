@@ -19,10 +19,10 @@ de ce délai.
 
 Simultanément, le directeur général de l'office fait connaître le caractère
 positif ou négatif de sa décision au préfet de département compétent et, à
-Paris, au préfet de police, ainsi qu'au directeur de l'Agence nationale de
-l'accueil des étrangers et des migrations. Il communique au préfet intéressé et,
-à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de
-l'avis de réception.
+Paris, au préfet de police, ainsi qu'au directeur de l'Office français de
+l'immigration et de l'intégration. Il communique au préfet intéressé et, à
+Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de l'avis
+de réception.
 
 Si le demandeur est placé en rétention administrative, le directeur général de
 l'office notifie la décision par voie administrative et dans les conditions
