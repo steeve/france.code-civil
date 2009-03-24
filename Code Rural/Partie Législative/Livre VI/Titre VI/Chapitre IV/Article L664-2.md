@@ -5,16 +5,15 @@ producteurs s'opèrent :
 
 1° Soit auprès des groupements de producteurs reconnus ;
 
-2° Soit auprès des marchés physiques agréés en application de l'article L.
-621-11 ou auprès des marchés d'intérêt national.
+2° Soit auprès des marchés physiques ou auprès des marchés d'intérêt national.
 
 Dans le but de connaître les prix, les volumes et les qualités des produits
 vendus, l'achat direct à des producteurs par les négociants est progressivement
 contrôlé, produit par produit ou par groupe de produits et, éventuellement,
-région par région. Ce contrôle est effectué par l'office, directement ou sous sa
-responsabilité soit par les groupements de producteurs, soit par les marchés
-physiques agréés ou par les marchés d'intérêt national. Les modalités de ce
-contrôle sont fixées par décret.
+région par région. Ce contrôle est effectué par l'établissement mentionné à
+l'article L. 621-1, directement ou sous sa responsabilité soit par les
+groupements de producteurs, soit par les marchés physiques agréés ou par les
+marchés d'intérêt national. Les modalités de ce contrôle sont fixées par décret.
 
 Par dérogation aux dispositions du quatrième alinéa, les producteurs peuvent
 également vendre directement aux négociants détaillants et aux consommateurs

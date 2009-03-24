@@ -2,8 +2,8 @@ Article L654-33
 ----
 Le montant maximum de l'amende mentionnée à l'article L. 654-32 est calculé en
 multipliant le tonnage des quantités de référence ayant fait l'objet des
-manquements, déterminé par le directeur de l'office chargé du lait et des
-produits laitiers, par le taux du prélèvement en vigueur pour la campagne au
+manquements, déterminé par le directeur général de l'établissement mentionné à
+l'article L. 621-1, par le taux du prélèvement en vigueur pour la campagne au
 cours de laquelle les manquements ont été commis. Toutefois :
 
 1° S'il s'agit d'un avoir ou d'un remboursement de prélèvement mentionnés au c

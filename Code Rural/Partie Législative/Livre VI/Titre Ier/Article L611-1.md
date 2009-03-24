@@ -15,11 +15,11 @@ agro-industrielles et forestières.
 
 Le conseil veille notamment :
 
-a) A la cohérence des actions économiques sectorielles conduites par les offices
-d'intervention et les organisations interprofessionnelles reconnues et à
-l'équilibre entre les différents secteurs de production. Il contribue à la
-détermination des priorités et des arbitrages, en particulier en ce qui concerne
-les moyens budgétaires affectés ;
+a) A la cohérence des actions économiques sectorielles conduites par
+l'établissement mentionné à l'article L. 621-1 et les organisations
+interprofessionnelles reconnues et à l'équilibre entre les différents secteurs
+de production. Il contribue à la détermination des priorités et des arbitrages,
+en particulier en ce qui concerne les moyens budgétaires affectés ;
 
 b) A la cohérence nationale des projets départementaux définis à l'article L.
 313-1 au regard notamment de la politique d'orientation des productions et
@@ -27,8 +27,8 @@ d'organisation des marchés. Il est consulté sur les orientations données dans
 cadre de l'élaboration des contrats de plan Etat-régions ;
 
 c) A la cohérence des actions menées en matière de recherche, d'expérimentation
-et de développement agricole, financées par le compte d'affectation spéciale
-"Développement agricole et rural".
+et de développement agricole, financées par le compte d'affectation spéciale "
+Développement agricole et rural ".
 
 Indépendamment des attributions qui lui sont conférées par les dispositions
 législatives et réglementaires en vigueur, le conseil examine et peut rendre des
@@ -46,8 +46,8 @@ de protection et de promotion des signes de qualité ;
 3° L'affectation des moyens, notamment ceux ouverts par la loi de finances, en
 matière d'orientation et de valorisation de la production agricole ;
 
-4° La coordination et la cohérence des activités des offices d'intervention et
-des organisations professionnelles reconnues ;
+4° La coordination et la cohérence des activités de l'établissement mentionné à
+l'article L. 621-1 et des organisations professionnelles reconnues ;
 
 5° Les orientations en matière d'organisation économique des producteurs,
 d'organisation interprofessionnelle et de relations contractuelles unissant la

@@ -1,7 +1,7 @@
 Article L621-33
 ----
 Est puni, dans les conditions de l'article 1791 du code général des impôts, de
-750 Euros d'amende et, le cas échéant, d'une pénalité dont le montant est
+750 euros d'amende et, le cas échéant, d'une pénalité dont le montant est
 compris entre une fois et une fois et demie celui des droits fraudés ou
 compromis, sans préjudice de la confiscation des marchandises :
 
@@ -16,7 +16,7 @@ réglementaires prises pour son application.
 Toute personne qui, en infraction aux dispositions du premier alinéa de
 l'article L. 621-30, produit de la farine sans détenir un contingent ou dépasse
 la quantité d'écrasement dont elle dispose au titre de ses contingents et droits
-de mouture est punie de 750 Euros d'amende et, le cas échéant, d'une pénalité
+de mouture est punie de 750 euros d'amende et, le cas échéant, d'une pénalité
 dont le montant est compris entre une fois et une fois et demie celui du prix
 moyen des droits de mouture par quintal de blé tendre broyé irrégulièrement sans
 préjudice de la confiscation des produits saisis en contravention. Le prix moyen
@@ -26,7 +26,7 @@ délais par le rachat des droits de mouture correspondant au dépassement
 constaté.
 
 Toutes les amendes infligées en vertu de la présente section sont perçues au
-bénéfice de l'Office national interprofessionnel des grandes cultures.
+bénéfice de l'établissement mentionné à l'article L. 621-1.
 
 Les infractions mentionnées au présent article sont recherchées, constatées et
 poursuivies par les agents de la direction générale des douanes et droits

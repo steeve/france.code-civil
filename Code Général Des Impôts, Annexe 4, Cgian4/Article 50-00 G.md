@@ -1,6 +1,6 @@
 Article 50-00 G
 ----
-I. - Pour l'application du III de l'article 286 I et du IV de l'article 286 J de
+I.-Pour l'application du III de l'article 286 I et du IV de l'article 286 J de
 l'annexe II au code général des impôts, l'entrepositaire agréé établit une
 déclaration récapitulative mensuelle distincte pour chacun de ses entrepôts
 fiscaux suspensifs des droits d'accises.
@@ -9,7 +9,7 @@ A défaut d'opération de production, de transformation, d'entrée et de sortie 
 produits de l'entrepôt fiscal suspensif des droits d'accises, l'entrepositaire
 agréé adresse au service des douanes et droits indirects la déclaration
 mensuelle en y indiquant le stock théorique en début de période, le stock
-théorique en fin de période, annotée de la mention "Néant".
+théorique en fin de période, annotée de la mention " Néant ".
 
 1° La déclaration récapitulative mensuelle comporte, pour chaque compte de la
 comptabilité matières, les renseignements suivants :
@@ -31,15 +31,15 @@ f) Le mois au titre duquel la déclaration est établie ;
 g) Les date et lieu d'établissement de la déclaration et la signature du
 déclarant appuyée du cachet de son entreprise ;
 
-h) La raison sociale de la caution ou, le cas échéant, la mention "Dispense".
+h) La raison sociale de la caution ou, le cas échéant, la mention " Dispense ".
 
 2° La déclaration récapitulative mensuelle indique, le cas échéant :
 
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 
-b) Les références aux contrats d'achat soumis au visa de l'Office national
-interprofessionnel des fruits, des légumes, des vins et de l'horticulture pour
-les transactions soumises à cette procédure ;
+b) Les références aux contrats d'achat soumis au visa de l'établissement
+mentionné à l'article L. 621-1 du code rural pour les transactions soumises à
+cette procédure ;
 
 c) Les références aux certificats d'agrément ou de labellisation ;
 
@@ -58,11 +58,11 @@ a) Pour les entrepositaires agréés produisant des alcools, des produits
 intermédiaires et des produits visés à l'article 438 du code général des impôts,
 par appellation d'origine ou dénomination de produits ;
 
-b) Pour les autres entrepositaires agréés par nature de produit et/ou par tarif
-d'imposition, sous réserve des règlements ou accords interprofessionnels prévus
-notamment en application des articles L. 632-1 à L. 632-7 du code rural.
+b) Pour les autres entrepositaires agréés par nature de produit et / ou par
+tarif d'imposition, sous réserve des règlements ou accords interprofessionnels
+prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural.
 
-II. - 1° Conformément au III de l'article 302 D du code général des impôts,
+II.-1° Conformément au III de l'article 302 D du code général des impôts,
 l'entrepositaire agréé liquide l'impôt sur la déclaration récapitulative
 mensuelle prévue au I.
 
@@ -110,13 +110,13 @@ montant des droits qui s'y rattache.
 suivent le dépôt de la demande, le crédit d'impôt subsistant est alors remboursé
 au bénéficiaire, sur sa demande.
 
-III. - Pour l'application des articles 111 H quater et 111 H sexies de l'annexe
+III.-Pour l'application des articles 111 H quater et 111 H sexies de l'annexe
 III au code général des impôts, aux termes du délai d'information prévu par
 l'article 302 P du code général des impôts, l'entrepositaire agréé établit un
 relevé des documents d'accompagnement non apurés mentionnés au I de l'article
 302 M dudit code ou des opérations réalisées en suspension des droits d'accises
-conformément à l'article 443 du même code, dénommé ci-après "relevé de
-non-apurement".
+conformément à l'article 443 du même code, dénommé ci-après " relevé de
+non-apurement ".
 
 Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août
 2000 (JO du 31 août 2000).
@@ -146,4 +146,4 @@ d) Le numéro d'identification du destinataire.
 
 Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet
 d'un apurement, ce dernier annote la déclaration récapitulative mensuelle de la
-mention "Pas de défaut d'apurement".
+mention " Pas de défaut d'apurement ".

@@ -26,11 +26,11 @@ les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajouté
 Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à cette même taxe.
 
-VI.-Le produit de la taxe mentionnée au I est affecté à l'Office national
-interprofessionnel de l'élevage et de ses productions. Cet établissement crée un
-fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception
-d'une part fixée par décret dans la limite de 3 % de ce produit, qui est
-destinée à financer la gestion des opérations imputées sur le fonds.
+VI.-Le produit de la taxe mentionnée au I est affecté à l'établissement
+mentionné à l'article L. 621-1 du code rural. Cet établissement crée un fonds à
+comptabilité distincte auquel est rattaché ce produit, à l'exception d'une part
+fixée par décret dans la limite de 3 % de ce produit, qui est destinée à
+financer la gestion des opérations imputées sur le fonds.
 
 Ce fonds a pour objet de contribuer au financement des dépenses du service
 public de l'équarrissage ainsi qu'au financement des mesures concourant au

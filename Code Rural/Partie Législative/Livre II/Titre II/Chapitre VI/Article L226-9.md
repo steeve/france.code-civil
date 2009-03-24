@@ -11,5 +11,5 @@ et du budget.
 
 Cette participation constitue une créance de droit privé. Elle est recouvrée et
 encaissée pour son propre compte par l'entreprise désignée par l'Etat ou, le cas
-échéant, désignée par l'office mentionné à l'article L. 226-1, pour procéder à
-l'enlèvement de ces cadavres.
+échéant, désignée par l'établissement mentionné à l'article L. 621-1, pour
+procéder à l'enlèvement de ces cadavres.

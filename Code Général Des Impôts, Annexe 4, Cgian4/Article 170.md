@@ -37,7 +37,8 @@ l'office national des anciens combattants et victimes de guerre ;
 
 voies navigables de France ;
 
-l'Office national interprofessionnel des grandes cultures ;
+l' établissement national des produits de l'agriculture et de la mer
+(FranceAgriMer) ;
 
 les offices publics de l'habitat ;
 

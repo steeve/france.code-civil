@@ -1,6 +1,5 @@
 Article L621-9
 ----
-Les collectivités territoriales et les établissements publics régionaux, ou
-leurs groupements, passent, dans les limites de leurs compétences, des
-conventions avec les offices pour intervenir dans les secteurs couverts par
-ceux-ci.
+Les collectivités territoriales ou leurs groupements, passent, dans les limites
+de leurs compétences, des conventions avec l'établissement mentionné à l'article
+L. 621-1 pour intervenir dans les secteurs couverts par celui-ci.

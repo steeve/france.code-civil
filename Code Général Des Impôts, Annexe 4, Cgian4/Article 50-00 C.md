@@ -21,9 +21,9 @@ articles 407, 408 et 410 bis dudit code ;
 4° La date de la prise en charge des produits alcooligènes visés à l'article 338
 du même code ;
 
-5° La nature et la date de toute autre opération constituant une "entrée" ou une
-"sortie" selon le B du IX de l'article 286 J de l'annexe II au code général des
-impôts ;
+5° La nature et la date de toute autre opération constituant une " entrée " ou
+une " sortie " selon le B du IX de l'article 286 J de l'annexe II au code
+général des impôts ;
 
 6° La date de la déclaration récapitulative mensuelle mentionnée au IV de
 l'article 286 J précité ;
@@ -33,9 +33,9 @@ l'article 286 J précité ;
 
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 
-b) Les références aux contrats d'achat soumis au visa de l'Office national
-interprofessionnel des fruits, des légumes, des vins et de l'horticulture pour
-les transactions soumises à cette procédure ;
+b) Les références aux contrats d'achat soumis au visa de l'établissement
+mentionné à l'article L. 621-1 du code rural pour les transactions soumises à
+cette procédure ;
 
 c) Les références aux certificats d'agrément ou de labellisation ;
 
@@ -48,6 +48,6 @@ warrant agricole ou du porteur de l'engagement de garantie.
 
 8° La référence aux rhums traditionnels des départements d'outre-mer, soumis au
 tarif d'imposition prévu au 1° du I de l'article 403 au code général des impôts,
-sous couvert d'une rubrique intitulée "Rhums des DOM, article 403 (I, 1°)",
+sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination
 économique ou géographique.

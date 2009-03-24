@@ -1,5 +1,6 @@
 Article L681-2
 ----
-Les dispositions de l'article L. 622-2 peuvent être étendues par décret en
-Conseil d'Etat aux départements d'outre-mer après avis de leurs conseils
-généraux. Cette extension peut comporter adaptation.
+Les conditions dans lesquelles les missions prévues aux articles L. 621-2 et L.
+621-3 sont exercées dans les départements d'outre-mer, à Saint-Martin, à
+Saint-Barthélemy et à Mayotte sont fixées par décret en Conseil d'Etat ;
+l'article L. 621-11 est applicable à l'établissement chargé de les exercer.

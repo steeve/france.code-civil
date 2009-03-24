@@ -5,9 +5,9 @@ France métropolitaine est subordonnée à la détention d'un contingent de meun
 ouvrant droit à l'exploitation d'un moulin dans la limite d'une quantité
 annuelle déterminée de blé tendre. La capacité d'écrasement autorisée au titre
 de chaque contingent de meunerie peut être augmentée par acquisition ou location
-de droits de mouture détachés d'un autre contingent. L'Office national
-interprofessionnel des grandes cultures enregistre les contingents et droits de
-mouture, leurs titulaires et leur transfert.
+de droits de mouture détachés d'un autre contingent.L'établissement mentionné à
+l'article L. 621-1 enregistre les contingents et droits de mouture, leurs
+titulaires et leur transfert.
 
 Les moulins dotés d'une capacité d'écrasement inférieure à un seuil défini par
 décret sont dispensés de l'obligation de détenir un contingent sous réserve
