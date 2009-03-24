@@ -6,11 +6,11 @@ conditions d'agrément, l'agence met l'organisme contrôlé en demeure de prendr
 dans un délai déterminé, toute mesure de redressement utile.
 
 Les manquements mentionnés au premier alinéa incluent les cas où un organisme
-collecteur associé de l'Union d'économie sociale du logement ne souscrit pas sa
-quote-part au capital de l'union, ne s'acquitte pas des contributions prévues
-aux articles L. 313-20 et L. 313-25, réalise des opérations en méconnaissance du
-8° de l'article L. 313-19 ou manque, de manière grave et répétée, aux
-recommandations de l'union.
+collecteur associé de l' Union des entreprises et des salariés pour le logement
+ne souscrit pas sa quote-part au capital de l'union, ne s'acquitte pas des
+contributions prévues aux articles L. 313-20 et L. 313-25, réalise des
+opérations en méconnaissance du 8° de l'article L. 313-19 ou manque, de manière
+grave et répétée, aux recommandations de l'union.
 
 II. ― En cas de carence d'un organisme contrôlé à l'expiration du délai fixé par
 la mise en demeure, l'agence peut proposer au ministre chargé du logement :
@@ -34,7 +34,7 @@ c) De prononcer les sanctions suivantes, en fonction de la nature de l'organisme
 ― s'il s'agit d'un organisme collecteur agréé, le retrait de l'agrément ;
 
 ― s'il s'agit d'un organisme collecteur agréé mentionné au deuxième alinéa de
-l'article L. 313-18, la suspension du conseil d'administration.S'il prononce
+l'article L. 313-18, la suspension du conseil d'administration. S'il prononce
 cette suspension, le ministre chargé du logement peut charger l'agence de
 prendre les mesures conservatoires qui s'imposent ;
 
@@ -54,3 +54,7 @@ alinéa du I, la sanction est prononcée après avis de l'union.
 III. ― En cas d'urgence, le ministre chargé du logement peut, après avis de
 l'agence rendu dans un délai qui ne peut excéder huit jours, prononcer ou
 proposer les sanctions mentionnées aux deuxième à quatrième alinéas du c du II.
+
+IV. ― La décision de sanction prononcée par le ministre chargé du logement en
+application du présent article est susceptible d'un recours de pleine
+juridiction auprès du Conseil d'Etat.
