@@ -14,8 +14,8 @@ Ier du présent livre, par le titre II de la loi du 13 juillet 1928, ainsi que
 par l'article 269 du code de l'urbanisme et de l'habitation ;
 
 2° Logements définis au II de l'article R. 331-1 et construits, améliorés,
-acquis et améliorés par les maîtres d'ouvrage mentionnés au 3° de l'article R.
-331-14 ;
+acquis et améliorés par les maîtres d'ouvrage mentionnés au 3° et au 4° de
+l'article R. 331-14 ;
 
 3° Logements ayant bénéficié d'une décision favorable prise dans les conditions
 prévues aux articles R. 331-3 et R. 331-6 et faisant l'objet de prêts mentionnés
