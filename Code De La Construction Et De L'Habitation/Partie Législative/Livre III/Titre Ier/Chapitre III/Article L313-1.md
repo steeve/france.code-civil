@@ -1,6 +1,6 @@
 Article L313-1
 ----
-Les employeurs occupant au minimum vingt salariés, à l'exception de l'Etat, des
+Les employeurs occupant au moins vingt salariés, à l'exception de l'Etat, des
 collectivités territoriales et de leurs établissements publics administratifs,
 assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime
