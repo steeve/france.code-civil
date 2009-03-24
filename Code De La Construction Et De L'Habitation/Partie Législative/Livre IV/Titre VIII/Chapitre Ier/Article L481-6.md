@@ -1,13 +1,16 @@
 Article L481-6
 ----
-Les dispositions de la section 1 bis du chapitre III du titre IV du présent
-livre sont applicables aux sociétés d'économie mixte pour les logements faisant
-l'objet de conventions régies par le chapitre III du titre V du livre III.
+Les conseils d'administration des sociétés d'économie mixte gérant des logements
+sociaux comprennent des représentants de leurs locataires qui disposent d'une
+voix consultative.
 
-Par dérogation à l'article L. 443-6-3, la société d'économie mixte,
-associée-gérante, gère les immeubles et attribue en location les logements
-concernés conformément aux dispositions des conventions visées au premier
-alinéa.
+Les représentants des locataires sont élus sur des listes de candidats
+présentées par des associations œuvrant dans le domaine du logement social.
 
-Un décret en Conseil d'Etat détermine les conditions d'application du présent
-article.
+Ces associations doivent être indépendantes de tout parti politique ou
+organisation philosophique, confessionnelle, ethnique ou raciale et ne pas
+poursuivre des intérêts collectifs qui seraient en contradiction avec les
+objectifs du logement social fixés par le présent code.
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions
+d'application du présent article.

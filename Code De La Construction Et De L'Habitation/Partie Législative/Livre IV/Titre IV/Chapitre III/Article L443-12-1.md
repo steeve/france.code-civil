@@ -4,19 +4,13 @@ L'acquéreur personne physique qui souhaite revendre son logement dans les cinq
 ans qui suivent l'acquisition est tenu d'en informer l'organisme d'habitations à
 loyer modéré, qui peut se porter acquéreur en priorité.
 
-Lorsque l'acquéreur personne physique a acquis son logement à un prix inférieur
-à l'évaluation faite par le service des domaines et qu'il le vend dans les cinq
-ans suivant cette acquisition :
-
-- si le prix de revente est supérieur à l'évaluation actualisée, il est tenu de
-verser à l'organisme d'habitations à loyer modéré une somme égale à la
-différence entre le prix d'acquisition et l'évaluation faite lors de
-l'acquisition ;
-
-- si le prix de revente est supérieur au prix d'acquisition, mais inférieur à
-l'évaluation actualisée, il est tenu de verser à l'organisme d'habitations à
-loyer modéré une somme représentant la différence entre le prix d'acquisition et
-le prix de revente.
+L'acquéreur personne physique ayant acquis son logement à un prix inférieur à
+l'évaluation faite par le service des domaines et l'ayant vendu dans les cinq
+ans suivant cette acquisition est tenu de verser à l'organisme d'habitations à
+loyer modéré une somme égale à la différence entre le prix de vente et le prix
+d'acquisition. Cette somme ne peut excéder l'écart constaté entre l'évaluation
+faite par le service des domaines lors de l'acquisition et le prix
+d'acquisition.
 
 Ces prix s'entendent hors frais d'acte et accessoires à la vente.
 

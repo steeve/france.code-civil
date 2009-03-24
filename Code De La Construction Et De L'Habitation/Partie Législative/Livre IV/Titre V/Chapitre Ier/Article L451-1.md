@@ -1,8 +1,10 @@
 Article L451-1
 ----
-Les organismes d'habitations à loyer modéré et les sociétés coopératives de
-construction bénéficiant de prêts accordés dans le cadre de la législation sur
-les habitations à loyer modéré sont soumis au contrôle de l'administration.
+Les organismes d'habitations à loyer modéré, les sociétés coopératives de
+production et les organismes bénéficiant de l'agrément relatif à la maîtrise
+d'ouvrage prévu à l'article L. 365-2, bénéficiant de prêts accordés dans le
+cadre de la législation sur les habitations à loyer modéré sont soumis au
+contrôle de l'administration.
 
 Toute société, association, collectivité ou organisme, quel qu'en soit le
 statut, exerçant une activité de construction ou de gestion de logements sociaux
@@ -15,17 +17,18 @@ exerce d'autres activités, communication de tout document se rapportant à ces
 activités.
 
 Il en est de même pour les groupements d'intérêt économique constitués en
-application des articles L. 251-1 et suivants du code de commerce, qui
-comprennent au moins un organisme d'habitations à loyer modéré parmi leurs
-membres et pour les personnes privées mandataires d'organismes d'habitations à
-loyer modéré dans le cadre du contrat de promotion immobilière prévu au livre
-II, titre II, du présent code relatif à la promotion immobilière.
+application des articles L. 251-1 et suivants du code de commerce et pour les
+associations de gestion, qui comprennent au moins un organisme d'habitations à
+loyer modéré parmi leurs membres ainsi que pour les personnes privées
+mandataires d'organismes d'habitations à loyer modéré dans le cadre du contrat
+de promotion immobilière prévu au livre II, titre II, du présent code relatif à
+la promotion immobilière.
 
 L'objet du contrôle exercé par l'administration est de vérifier l'emploi
 conforme à leur objet des subventions, prêts ou avantages consentis par l'Etat
 et le respect par les organismes contrôlés des dispositions législatives et
 réglementaires qui régissent leur mission de construction et de gestion du
-logement social. L'administration peut également procéder à une évaluation
+logement social.L'administration peut également procéder à une évaluation
 d'ensemble de l'activité consacrée à cette mission, dans ses aspects
 administratifs, techniques, sociaux, comptables et financiers.
 

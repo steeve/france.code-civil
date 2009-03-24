@@ -8,7 +8,7 @@ au II de l'article L. 301-1 du code de la construction et de l'habitation sont
 exonérés de taxe foncière sur les propriétés bâties pendant une durée de quinze
 ans. La durée de l'exonération est portée à vingt-cinq ans lorsque la décision
 d'octroi d'aide de l'Etat intervient entre le 1er juillet 2005 et le 31 décembre
-2009.
+2014.
 
 L'exonération est applicable à compter de l'année qui suit celle de l'achèvement
 des travaux d'aménagement ou, à défaut de travaux d'aménagement, celle de

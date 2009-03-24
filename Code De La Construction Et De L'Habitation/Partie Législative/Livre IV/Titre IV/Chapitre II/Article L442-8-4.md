@@ -1,24 +1,29 @@
 Article L442-8-4
 ----
-Par dérogation au premier alinéa de l'article L. 442-8, les organismes
-mentionnés à l'article L. 411-2 peuvent louer des logements, aux fins de
-sous-location, à des associations déclarées ayant pour objet de loger à titre
-temporaire des personnes jeunes répondant à des conditions d'âge définies par
-décret en Conseil d'Etat et aux établissements publics définis par l'article 5
-de la loi n° 55-425 du 16 avril 1955 réorganisant les services des oeuvres
-sociales en faveur des étudiants.
+Par dérogation à l'article L. 442-8 et nonobstant les plafonds de ressources
+prévus à l'article L. 441-1, les organismes mentionnés à l'article L. 411-2
+peuvent louer des logements meublés ou non meublés à un ou plusieurs étudiants,
+aux personnes de moins de trente ans ou aux personnes titulaires d'un contrat
+d'apprentissage ou de professionnalisation. Ces locataires ne bénéficient pas du
+droit au maintien dans les lieux. Le contrat de location a une durée d'un an. Il
+peut toutefois être renouvelé dans des conditions définies par décret en Conseil
+d'Etat.
 
-Les dispositions des articles L. 442-1 à L. 442-6 sont applicables aux logements
-loués dans les conditions du présent article. Les sous-locataires sont assimilés
-à des locataires pour bénéficier de l'aide personnelle au logement prévue par
-l'article L. 510 du code de la sécurité sociale, par l'article premier de la loi
-n° 71-582 du 16 juillet 1971 relative à l'allocation de logement ou par
-l'article L. 351-1 du présent code.
+En cas de location d'un même logement à plusieurs personnes, un contrat de
+location unique est signé par l'ensemble des colocataires qui consentent à une
+clause de solidarité inscrite dans ce contrat.
 
-Les sous-locataires qui ne répondent plus aux conditions pour être logés par les
-personnes morales locataires perdent le bénéfice du droit au maintien dans les
-lieux, ces conditions devant être précisées par le contrat de sous-location.
+Tout changement de colocataire fait l'objet d'une autorisation préalable du
+bailleur et d'une information de la commission d'attribution mentionnée à
+l'article L. 441-2.
 
-Ces dispositions sont applicables à l'ensemble des logements appartenant aux
-organismes mentionnés à l'article L. 411-2, que ces logements soient ou non
-régis par l'article L. 353-14.
+Le nombre de logements pouvant être attribués dans les conditions prévues aux
+alinéas précédents est mentionné dans la convention d'utilité sociale prévue à
+l'article L. 445-1.A défaut d'une telle convention, le bailleur fixe ce nombre
+après accord du représentant de l'Etat dans le département et consultation des
+établissements publics de coopération intercommunale disposant d'un programme
+local de l'habitat adopté. Cet avis est réputé favorable s'il n'a pas été donné
+dans un délai de deux mois.
+
+Ces logements sont attribués par la commission d'attribution mentionnée à
+l'article L. 441-2.

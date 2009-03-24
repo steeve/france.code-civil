@@ -14,7 +14,8 @@ commission d'aménagement commercial compétente, dans un délai d'un mois. Sans
 préjudice de l'application de sanctions pénales, il peut, à défaut, prendre un
 arrêté ordonnant, dans le délai de quinze jours, la fermeture au public des
 surfaces de vente exploitées illicitement, jusqu'à régularisation effective. Ces
-mesures sont assorties d'une astreinte journalière de 150 euros.
+mesures sont assorties d'une astreinte journalière de 150 euros par mètres
+carrés exploités illicitement.
 
 Est puni d'une amende de 15 000 euros le fait de ne pas exécuter les mesures
 prises par le préfet et prévues au deuxième alinéa.

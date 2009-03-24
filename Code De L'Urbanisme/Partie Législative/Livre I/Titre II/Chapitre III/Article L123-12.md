@@ -20,7 +20,8 @@ c) Font apparaître des incompatibilités manifestes avec l'utilisation ou
 l'affectation des sols des communes voisines ;
 
 d) Sont de nature à compromettre la réalisation d'une directive territoriale
-d'aménagement, d'un schéma de cohérence territoriale, d'un schéma de secteur ou
-d'un schéma de mise en valeur de la mer en cours d'établissement, le plan local
-d'urbanisme est exécutoire dès publication et transmission au préfet de la
-délibération approuvant les modifications demandées.
+d'aménagement, d'un programme local de l'habitat, d'un schéma de cohérence
+territoriale, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer
+en cours d'établissement, le plan local d'urbanisme est exécutoire dès
+publication et transmission au préfet de la délibération approuvant les
+modifications demandées.

@@ -51,3 +51,11 @@ exerçant, à la demande et au nom du département, le droit de préemption pré
 par l'article L. 142-3 ou, en dehors des zones de préemption des espaces
 naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
 du code rural.
+
+Les établissements publics mentionnés au a du présent article peuvent se voir
+déléguer l'instruction et le traitement des demandes d'aides à la réhabilitation
+de l'habitat privé dans les conditions prévues à l'article L. 321-1-3 du code de
+la construction et de l'habitation, la gestion comptable et financière ainsi que
+l'instruction et le traitement des demandes d'aides dans les conditions prévues
+à l'article 10-2 de la loi n° 2003-710 du 1er août 2003 d'orientation pour la
+ville et la rénovation urbaine.

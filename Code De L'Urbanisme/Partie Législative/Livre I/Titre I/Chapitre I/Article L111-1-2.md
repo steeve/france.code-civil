@@ -4,8 +4,10 @@ En l'absence de plan local d'urbanisme ou de carte communale opposable aux
 tiers, ou de tout document d'urbanisme en tenant lieu, seules sont autorisées,
 en dehors des parties actuellement urbanisées de la commune :
 
-1° L'adaptation, le changement de destination, la réfection ou l'extension des
-constructions existantes ;
+1° L'adaptation, le changement de destination, la réfection, l'extension des
+constructions existantes ou la construction de bâtiments nouveaux à usage
+d'habitation à l'intérieur du périmètre regroupant les bâtiments d'une ancienne
+exploitation agricole, dans le respect des traditions architecturales locales ;
 
 2° Les constructions et installations nécessaires à des équipements collectifs,
 à la réalisation d'aires d'accueil ou de terrains de passage des gens du voyage,

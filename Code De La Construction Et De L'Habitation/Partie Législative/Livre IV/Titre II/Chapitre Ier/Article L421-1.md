@@ -19,11 +19,11 @@ réalisations ;
 3° De gérer les immeubles à usage principal d'habitation appartenant à des
 organismes relevant des deux premiers secteurs locatifs définis par l'article 37
 de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif ou à
-l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
-(n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les
-parts sont détenues à au moins 99 % par cette association, ainsi que les
-immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la
-propriété. Ils peuvent également gérer, en qualité de syndics de copropriété et
+l'association agréée mentionnée à l'article L. 313-34 du code de la construction
+et de l'habitation ou aux sociétés civiles immobilières dont les parts sont
+détenues à au moins 99 % par cette association, ainsi que les immeubles réalisés
+par l'ensemble de ces organismes en vue de l'accession à la propriété. Ils
+peuvent également gérer, en qualité de syndics de copropriété et
 d'administrateurs de biens, après accord du maire de la commune d'implantation
 et dans les conditions fixées par l'article L. 442-11, des logements situés dans
 le périmètre défini pour une opération programmée d'amélioration de l'habitat
@@ -58,13 +58,16 @@ propriété ;
 d'habitation ou à usage professionnel et d'habitation en vue de leur
 location-accession ;
 
-8° D'acquérir et donner en location à des organismes agréés par arrêté du préfet
-des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en
-difficulté ;
+8° D'acquérir et donner en location à des organismes bénéficiant de l'agrément
+relatif à l'intermédiation locative et la gestion locative sociale prévu à
+l'article L. 365-4 des hôtels, meublés ou non, destinés à l'hébergement
+temporaire de personnes en difficulté ;
 
 9° De construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à
 des personnes physiques ou à des personnes morales des résidences hôtelières à
-vocation sociale prévues à l'article L. 631-11 ;
+vocation sociale prévues à l'article L. 631-11 ou de prendre des parts dans des
+sociétés civiles immobilières ayant ce même objet et de pouvoir assurer leur
+gérance ;
 
 10° De souscrire ou acquérir des parts de sociétés civiles immobilières ayant
 pour objet la réalisation d'immeubles d'habitation ou à usage professionnel et

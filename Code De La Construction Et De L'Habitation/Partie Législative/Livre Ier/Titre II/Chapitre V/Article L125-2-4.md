@@ -10,7 +10,7 @@ risques liés à l'installation de l'ascenseur, à son mode d'utilisation et à 
 environnement. Il détermine les délais impartis aux propriétaires et aux
 entreprises concernées pour répondre aux exigences de sécurité et ceux impartis
 aux propriétaires pour installer ces dispositifs. Les délais mentionnés au
-présent alinéa ne peuvent excéder quinze ans à compter de la publication de la
+présent alinéa ne peuvent excéder dix-huit ans à compter de la publication de la
 loi n° 2003-590 du 2 juillet 2003. Le décret fixe également les conditions dans
 lesquelles il peut être dérogé à l'obligation d'installer des dispositifs de
 sécurité, afin de tenir compte de contraintes techniques exceptionnelles, de

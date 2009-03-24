@@ -6,10 +6,10 @@ d'un taux réduit est tenue au payement de l'impôt ou du complément d'impôt,
 lorsque les conditions auxquelles est subordonné l'octroi de cette franchise, de
 cette suspension ou de ce taux ne sont pas remplies.
 
-II. - Toute personne qui s'est livré à elle-même, a acquis ou s'est fait
-apporter des terrains à bâtir, des logements, le droit au bail à construction,
-ou des droits immobiliers démembrés de logements au taux prévu aux 2, 3, 3 bis,
-3 ter, 3 quater, 3 quinquies, 3 sexies, 3 septies, 3 octies, 5 ou 7 du I de
+II.-Toute personne qui s'est livré à elle-même, a acquis ou s'est fait apporter
+des terrains à bâtir, des logements, le droit au bail à construction, ou des
+droits immobiliers démembrés de logements au taux prévu aux 2, 3, 3 bis, 3 ter,
+3 quater, 3 quinquies, 3 sexies, 3 septies, 3 octies, 5, 6 ou 7 du I de
 l'article 278 sexies est tenue au paiement du complément d'impôt lorsque les
 conditions auxquelles est subordonné l'octroi de ce taux cessent d'être remplies
 dans les quinze ans qui suivent le fait générateur de l'opération. Ce délai est
@@ -23,9 +23,17 @@ la location-accession à la propriété immobilière, de logements mentionnés a
 dixième alinéa du c du 1 du 7° de l'article 257 ou de terrains à bâtir, ainsi
 que du droit au bail à construction dans le cadre d'une opération d'accession à
 la propriété assortie d'une acquisition différée du terrain, pour les logements
-neufs mentionnés au quinzième alinéa du c du 1 du 7° de l'article 257.
+neufs mentionnés au quinzième alinéa du c du 1 du 7° de l'article 257, ou de
+logements mentionnés au deuxième alinéa du 3 octies du I de l'article 278
+sexies.
 
-III. - Toute personne qui s'est livré à elle-même des travaux d'amélioration, de
+Pour les opérations mentionnées au 2 du I de l'article 278 sexies s'agissant des
+seules opérations visées aux dixième et quinzième alinéas du c du 1 du 7° de
+l'article 257 ainsi qu'aux 3 ter, 3 octies, 6 et 7 du I de l'article 278 sexies,
+le complément d'impôt dû est diminué d'un dixième par année de détention au-delà
+de la cinquième année.
+
+III.-Toute personne qui s'est livré à elle-même des travaux d'amélioration, de
 transformation ou d'aménagement de logements au taux prévu au 4 du I de
 l'article 278 sexies est tenue au paiement du complément d'impôt lorsque les
 conditions auxquelles est subordonné l'octroi de ce taux cessent d'être remplies

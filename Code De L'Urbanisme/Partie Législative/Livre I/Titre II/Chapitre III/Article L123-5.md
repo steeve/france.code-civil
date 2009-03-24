@@ -24,6 +24,12 @@ d'immeubles protégés au titre de la législation sur les monuments historiques
 lorsque les contraintes architecturales propres à ces immeubles sont contraires
 à ces règles.
 
+L'autorité compétente pour délivrer le permis de construire peut, dans des
+conditions définies par décret en Conseil d'Etat, accorder des dérogations à une
+ou plusieurs règles du plan local d'urbanisme ou du document d'urbanisme en
+tenant lieu pour autoriser des travaux nécessaires à l'accessibilité des
+personnes handicapées à un logement existant.
+
 L'autorité compétente recueille l'accord du préfet et du maire ou du président
 de l'établissement public de coopération intercommunale compétent en matière de
 plan local d'urbanisme, lorsqu'ils ne sont pas ceux qui délivrent le permis de

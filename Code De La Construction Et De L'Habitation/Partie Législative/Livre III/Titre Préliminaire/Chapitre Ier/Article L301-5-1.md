@@ -4,7 +4,10 @@ Les établissements publics de coopération intercommunale mentionnés à l'arti
 L. 301-3 et disposant d'un programme local de l'habitat peuvent, pour sa mise en
 oeuvre, demander à conclure une convention avec l'Etat, par laquelle celui-ci
 leur délègue la compétence pour décider de l'attribution des aides prévues au
-même article et procéder à leur notification aux bénéficiaires.
+même article et procéder à leur notification aux bénéficiaires. Le représentant
+de l'Etat dans le département, saisi d'une demande tendant à la conclusion d'une
+convention, notifie, dans un délai de trois mois, son accord ou son refus, qui
+est motivé.
 
 Cette convention est conclue pour une durée de six ans renouvelable. Elle fixe,
 d'une part, dans la limite des dotations ouvertes en loi de finances, le montant
@@ -65,3 +68,14 @@ terme de son application.
 
 La convention précise également, le cas échéant, les modalités de mise en oeuvre
 des dispositions de la section 2 du chapitre II du présent titre.
+
+La convention ne peut pas être conclue ou renouvelée avec un établissement
+public de coopération intercommunale lorsque le représentant de l'Etat estime
+que les demandes motivées de modifications mentionnées aux cinquième et sixième
+alinéas de l'article L. 302-2 n'ont pas suffisamment été prises en compte par
+l'établissement public de coopération intercommunale.
+
+La convention peut être dénoncée par le représentant de l'Etat lorsque les
+résultats du bilan triennal d'exécution du programme local de l'habitat
+mentionné au deuxième alinéa de l'article L. 302-3 sont manifestement
+insuffisants par rapport aux objectifs définis dans la convention.

@@ -13,14 +13,15 @@ compétence territoriale de ces organismes et des organismes prestataires ;
 3° Etre syndic de copropriété ou administrateur de biens d'immeubles bâtis,
 construits ou acquis soit par eux, soit par un autre organisme d'habitations à
 loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
-organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
-de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
-parts sont détenues à au moins 99 % par cette association ;
+organisme sans but lucratif, l'association mentionnée à l'article l'article L.
+313-34 du code de la construction et de l'habitation précitée ou une des
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ;
 
-4° Réaliser, dans des conditions précisées par décret, pour le compte
-d'associations ou d'organismes agréés dans le domaine du logement social, des
-prestations de services pour des opérations ou des actions de nature à favoriser
-l'insertion sociale des personnes et la mixité urbaine et sociale des villes ;
+4° Réaliser, pour le compte d'associations ou d'organismes œuvrant dans le
+domaine du logement, des prestations de services pour des opérations ou des
+actions de nature à favoriser l'insertion sociale des personnes ou la mixité
+urbaine et sociale des villes ;
 
 5° Avec l'accord du préfet et du maire de la commune d'implantation, gérer, en
 qualité d'administrateurs de biens, des logements situés dans des copropriétés

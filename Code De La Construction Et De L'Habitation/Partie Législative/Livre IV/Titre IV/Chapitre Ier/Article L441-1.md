@@ -13,8 +13,23 @@ tenu compte, pour l'attribution d'un logement, de l'activité professionnelle de
 membres du ménage lorsqu'il s'agit d'assistants maternels ou d'assistants
 familiaux agréés.
 
-Ce décret fixe des critères généraux de priorité pour l'attribution des
-logements, notamment au profit :
+Lorsque le demandeur de logement est l'un des conjoints d'un couple en instance
+de divorce, cette situation étant attestée par une ordonnance de
+non-conciliation, ou lorsque ce demandeur est dans une situation d'urgence
+attestée par une décision du juge prise en application de l'article 257 du code
+civil ou par le prononcé de mesures urgentes ordonnées par le juge des affaires
+familiales en application du troisième alinéa de l'article 220-1 du même code,
+ou lorsque ce demandeur est une personne qui était liée par un pacte civil de
+solidarité dont elle a déclaré la rupture au greffe du tribunal d'instance, les
+seules ressources à prendre en compte sont celles du requérant au titre de
+l'avant-dernière année précédant celle de la signature du nouveau contrat. Cette
+disposition est également applicable aux personnes mariées, liées par un pacte
+civil de solidarité ou vivant maritalement lorsque l'une d'elles est victime de
+violences au sein du couple attestées par le récépissé du dépôt d'une plainte
+par la victime.
+
+Le décret mentionné au premier alinéa fixe des critères généraux de priorité
+pour l'attribution des logements, notamment au profit :
 
 a) De personnes en situation de handicap ou de familles ayant à leur charge une
 personne en situation de handicap ;
@@ -27,7 +42,16 @@ c) De personnes hébergées ou logées temporairement dans un établissement ou 
 logement de transition ;
 
 d) De personnes mal logées reprenant une activité après une période de chômage
-de longue durée.
+de longue durée ;
+
+e) De personnes mariées, vivant maritalement ou liées par un pacte civil de
+solidarité justifiant de violences au sein du couple ou entre les partenaires,
+sans que la circonstance que le conjoint ou le partenaire lié par un pacte civil
+de solidarité bénéficie d'un contrat de location au titre du logement occupé par
+le couple puisse y faire obstacle. Cette situation est attestée par une décision
+du juge prise en application de l'article 257 du code civil ou par le prononcé
+de mesures urgentes ordonnées par le juge des affaires familiales en application
+du troisième alinéa de l'article 220-1 du même code.
 
 Ce décret fixe les conditions dans lesquelles le maire de la commune
 d'implantation des logements est consulté sur les principes régissant ces
@@ -57,12 +81,18 @@ Le représentant de l'Etat dans le département peut, par convention, déléguer
 maire ou, avec l'accord du maire, au président d'un établissement public de
 coopération intercommunale compétent en matière d'habitat tout ou partie des
 réservations de logements dont il bénéficie, au titre du précédent alinéa, sur
-le territoire de la commune ou de l'établissement.
+le territoire de la commune ou de l'établissement. Il peut également procéder à
+la même délégation directement au bénéfice du président d'un établissement
+public de coopération intercommunale ayant conclu un accord collectif
+intercommunal en application de l'article L. 441-1-1.
 
 Cette convention fixe les engagements du délégataire en vue de la mise en oeuvre
 du droit au logement, les modalités d'évaluation annuelle de la délégation ainsi
 que les conditions de son retrait en cas de non-respect de ses engagements par
-le délégataire.
+le délégataire. Lorsque la délégation est effectuée directement au bénéfice du
+président d'un établissement public de coopération intercommunale, la convention
+prévoit les modalités d'association des communes membres à l'utilisation des
+droits de réservation sur leur territoire.
 
 S'il constate, au terme de l'année écoulée, que les objectifs fixés par le plan
 départemental d'action pour le logement des personnes défavorisées ne sont pas
@@ -72,6 +102,7 @@ l'établissement public de coopération intercommunale pour décider directement
 la réservation des logements.
 
 Les plafonds de ressources pour l'attribution des logements locatifs sociaux
-fixés en application des dispositions du présent article sont révisés
-annuellement en fonction de l'évolution du salaire minimum de croissance visé à
-l'article L. 141-2 du code du travail.
+fixés en application du présent article sont révisés chaque année en tenant
+compte de la variation de l'indice de référence des loyers mentionné à l'article
+17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
+locatifs dans des conditions définies par décret en Conseil d'Etat.

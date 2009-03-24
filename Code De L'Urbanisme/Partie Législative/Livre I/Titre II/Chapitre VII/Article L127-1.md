@@ -1,23 +1,22 @@
 Article L127-1
 ----
-Le dépassement de la norme résultant de l'application du coefficient
-d'occupation des sols est autorisé, dans la limite de 20 % de ladite norme et
-dans le respect des autres règles du plan d'occupation des sols, sous réserve :
-
--d'une part, que la partie de la construction en dépassement ait la destination
-de logements à usage locatif bénéficiant d'un concours financier de l'Etat au
-sens du 3° de l'article L. 351-2 du code de la construction et de l'habitation
-ou, dans les départements d'outre-mer, la destination de logements locatifs
-sociaux bénéficiant pour leur construction d'un concours financier de l'Etat ;
-
--et, d'autre part, que le coût foncier imputé à ces logements locatifs sociaux
-n'excède pas un montant fixé par décret en Conseil d'Etat selon les zones
-géographiques.
+Le conseil municipal ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme peut,
+par délibération motivée, sous réserve de ne pas porter atteinte à l'économie
+générale du plan d'occupation des sols ou du projet d'aménagement et de
+développement durable du plan local d'urbanisme, délimiter des secteurs à
+l'intérieur desquels la réalisation de programmes de logements comportant des
+logements locatifs sociaux au sens de l'article L. 302-5 du code de la
+construction et de l'habitation bénéficie d'une majoration du volume
+constructible tel qu'il résulte du coefficient d'occupation des sols ou des
+règles relatives au gabarit, à la hauteur et à l'emprise au sol. La délibération
+fixe, pour chaque secteur, cette majoration, qui ne peut excéder 50 %. Pour
+chaque opération, elle ne peut être supérieure au rapport entre le nombre de
+logements locatifs sociaux et le nombre total des logements de l'opération. Le
+projet de délibération comprenant l'exposé des motifs est porté à la
+connaissance du public en vue de lui permettre de formuler des observations
+pendant un délai d'un mois préalablement à la convocation de l'assemblée
+délibérante.
 
 La partie de la construction en dépassement n'est pas assujettie au versement
 résultant du dépassement du plafond légal de densité.
-
-La mise en oeuvre du permis de construire est subordonnée à l'obtention de la
-décision d'octroi du concours financier de l'Etat et au respect des conditions
-de cette dernière. Copie de cette décision doit être notifiée, avant l'ouverture
-du chantier, à l'autorité compétente en matière de permis de construire.

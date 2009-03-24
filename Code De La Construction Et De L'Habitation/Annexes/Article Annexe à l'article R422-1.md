@@ -33,9 +33,9 @@ loyer modéré ;
 une collectivité territoriale ou à un groupement de collectivités territoriales,
 à une société d'économie mixte de construction et de gestion de logements
 sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
-à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
-2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
-moins 99 % par cette association ;
+à l'article L. 313-34 du code de la construction et de l'habitation ou aux
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ;
 
 4° De réaliser des missions d'accompagnement social destinées aux populations
 logées dans le patrimoine qu'elle gère ou, à titre de prestataire de services,
@@ -92,9 +92,10 @@ compétence territoriale desdits organismes et de la société ;
 12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
 construits ou acquis soit par elle, soit par un autre organisme d'habitations à
 loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
-organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
-de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
-parts sont détenues à au moins 99 % par cette association ;
+organisme sans but lucratif, l'association mentionnée à l'article l'article L.
+313-34 du code de la construction et de l'habitation précitée ou une des
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ;
 
 13° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
 du code de la construction et de l'habitation et aux sociétés d'économie mixte
@@ -177,10 +178,11 @@ suivants du code de la construction et de l'habitation ;
 
 27° De réaliser en vue de leur vente, dans les conditions prévues aux articles
 L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à
-l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
-(n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les
-parts sont détenues à 99 % au moins par cette association, des immeubles à usage
-principal d'habitation destinés à la location ;
+l'association agréée mentionnée à l'article l'article L. 313-34 du code de la
+construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou aux
+sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par
+cette association, des immeubles à usage principal d'habitation destinés à la
+location ;
 
 28° De participer, en application de l'article L. 424-2 du code de la
 construction et de l'habitation, à des actions de développement à caractère
@@ -211,9 +213,10 @@ des services pénitentiaires, ainsi que les locaux accessoires à ces immeubles 
 les locaux nécessaires au fonctionnement des gendarmeries ;
 
 33° De réaliser des prestations de services pour le compte de l'association
-agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275
-du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont
-détenues à 99 % au moins par cette association ;
+agréée mentionnée à l'article l'article L. 313-34 du code de la construction et
+de l'habitation (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles
+immobilières dont les parts sont détenues à 99 % au moins par cette association
+;
 
 34° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code
 de la construction et de l'habitation ;

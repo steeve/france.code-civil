@@ -7,6 +7,22 @@ ou à mettre en valeur les espaces naturels, ou pour constituer des réserves
 foncières en vue de permettre la réalisation desdites actions ou opérations
 d'aménagement.
 
+Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de
+l'article L. 302-9-1 du code de la construction et de l'habitation, le droit de
+préemption est exercé par le représentant de l'Etat dans le département lorsque
+l'aliénation porte sur un terrain, bâti ou non bâti, affecté au logement ou
+destiné à être affecté à une opération ayant fait l'objet de la convention
+prévue à l'article L. 302-9-1 précité. Le représentant de l'Etat peut déléguer
+ce droit à un établissement public foncier créé en application de l'article L.
+321-1 du présent code, à une société d'économie mixte ou à un des organismes
+d'habitations à loyer modéré prévus par l'article L. 411-2 du code de la
+construction et de l'habitation. Les biens acquis par exercice du droit de
+préemption en application du présent alinéa doivent être utilisés en vue de la
+réalisation d'opérations d'aménagement ou de construction permettant la
+réalisation des objectifs fixés dans le programme local de l'habitat ou
+déterminés en application du premier alinéa de l'article L. 302-8 du même code
+(1).
+
 Toute décision de préemption doit mentionner l'objet pour lequel ce droit est
 exercé. Toutefois, lorsque le droit de préemption est exercé à des fins de
 réserves foncières dans la cadre d'une zone d'aménagement différé, la décision

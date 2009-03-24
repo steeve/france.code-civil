@@ -12,5 +12,6 @@ Les participations ainsi détenues, le cas échéant conjointement avec d'autres
 sociétés anonymes coopératives d'intérêt collectif pour l'accession à la
 propriété, doivent être supérieures au tiers du capital de la société
 intéressée. Toutefois, cette règle ne s'applique pas aux participations dans des
-sociétés d'habitations à loyer modéré ou des sociétés d'économie mixte de
-construction et de gestion de logements sociaux.
+sociétés d'habitations à loyer modéré, des sociétés d'économie mixte de
+construction et de gestion de logements sociaux ou d'autres sociétés anonymes
+coopératives d'intérêt collectif pour l'accession à la propriété.

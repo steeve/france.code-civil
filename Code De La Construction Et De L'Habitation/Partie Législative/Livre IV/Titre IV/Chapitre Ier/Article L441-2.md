@@ -16,20 +16,17 @@ premier à septième alinéas de l'article L. 441-1 en faveur des personnes
 défavorisées et de celles qui rencontrent des difficultés de logement.
 
 Elle comprend, selon des modalités définies par décret, un représentant désigné
-par des associations préalablement agréées par le représentant de l'Etat dans le
-département, à l'exception de tout gestionnaire ou bailleur de logements
-destinés à des personnes défavorisées, et qui mènent des actions d'insertion ou
-en faveur du logement des personnes défavorisées sur le territoire où sont
-implantés les logements attribués. Ce représentant dispose d'une voix
-consultative dans le cadre des décisions d'attribution de la commission.
+par des organismes bénéficiant de l'agrément relatif à l'ingénierie sociale,
+financière et technique prévu à l'article L. 365-3. Ce représentant dispose
+d'une voix consultative dans le cadre des décisions d'attribution de la
+commission.
 
 En outre, le maire de la commune où sont implantés les logements attribués, ou
 son représentant, est membre de droit des commissions d'attribution. Il dispose
 d'une voix prépondérante en cas d'égalité des voix.
 
 Le représentant de l'Etat dans le département, ou l'un de ses représentants
-membre du corps préfectoral, assiste, sur sa demande, à toute réunion de la
-commission d'attribution.
+assiste, sur sa demande, à toute réunion de la commission d'attribution.
 
 Les maires d'arrondissement des communes de Paris, Marseille et Lyon ou leur
 représentant participent à titre consultatif aux travaux de ces commissions pour

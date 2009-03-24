@@ -28,16 +28,16 @@ de 10 % des logements locatifs sociaux mentionnés à l'article L. 302-5 détenu
 par l'organisme ;
 
 -la réalisation d'opérations d'accession à la propriété destinées à des
-personnes dont les revenus sont inférieurs aux plafonds maximum fixés par
-l'autorité administrative pour l'attribution des logements locatifs
+personnes dont les revenus sont inférieurs aux plafonds maximum, majorés de 11
+%, fixés par l'autorité administrative pour l'attribution des logements locatifs
 conventionnés dans les conditions définies à l'article L. 351-2 et dont l'accès
 est soumis à des conditions de ressources. Font toutefois partie du service
 d'intérêt général, dans la limite de 25 % des logements vendus par l'organisme,
 les opérations destinées à des personnes de revenu intermédiaire dont les
 ressources dépassent les plafonds maximum susmentionnés sans excéder les
-plafonds fixés au titre IX du livre III, lorsque l'ensemble des opérations sont
-assorties de garanties pour l'accédant dans des conditions fixées par décret en
-Conseil d'Etat ;
+plafonds fixés au titre IX du livre III, majorés de 11 %, lorsque l'ensemble des
+opérations sont assorties de garanties pour l'accédant dans des conditions
+fixées par décret en Conseil d'Etat ;
 
 -la gestion ou l'acquisition en vue de leur revente, avec l'accord du maire de
 la commune d'implantation et du représentant de l'Etat dans le département, de

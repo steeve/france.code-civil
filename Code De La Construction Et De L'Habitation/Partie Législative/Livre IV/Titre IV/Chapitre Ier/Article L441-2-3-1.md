@@ -6,10 +6,10 @@ délai fixé par décret, une offre de logement tenant compte de ses besoins et 
 ses capacités peut introduire un recours devant la juridiction administrative
 tendant à ce que soit ordonné son logement ou son relogement.
 
-Le demandeur peut être assisté par une association dont l'un des objets est
-l'insertion ou le logement des personnes défavorisées ou une association de
-défense des personnes en situation d'exclusion et agréée par le représentant de
-l'Etat dans le département.
+Le demandeur peut être assisté par les services sociaux, par un organisme
+bénéficiant de l'agrément relatif à l'ingénierie sociale, financière et
+technique prévu à l'article L. 365-3 ou par une association agréée de défense
+des personnes en situation d'exclusion.
 
 Ce recours est ouvert à compter du 1er décembre 2008 aux personnes mentionnées
 au deuxième alinéa du II de l'article L. 441-2-3 et, à compter du 1er janvier
@@ -32,6 +32,10 @@ médiation et doit être satisfaite d'urgence et que n'a pas été offert au
 demandeur un logement tenant compte de ses besoins et de ses capacités, ordonne
 le logement ou le relogement de celui-ci par l'Etat et peut assortir son
 injonction d'une astreinte.
+
+Le montant de cette astreinte est déterminé en fonction du loyer moyen du type
+de logement considéré comme adapté aux besoins du demandeur par la commission de
+médiation.
 
 Le produit de l'astreinte est versé au fonds institué en application du dernier
 alinéa de l'article L. 302-7 dans la région où est située la commission de
@@ -59,6 +63,10 @@ médiation et que n'a pas été proposée au demandeur une place dans une struct
 d'hébergement, un établissement ou logement de transition, un logement-foyer ou
 une résidence hôtelière à vocation sociale, ordonne l'accueil dans l'une de ces
 structures et peut assortir son injonction d'une astreinte.
+
+Le montant de cette astreinte est déterminé en fonction du coût moyen du type
+d'hébergement considéré comme adapté aux besoins du demandeur par la commission
+de médiation.
 
 Le produit de l'astreinte est versé au fonds institué en application du dernier
 alinéa de l'article L. 302-7 dans la région où est située la commission de

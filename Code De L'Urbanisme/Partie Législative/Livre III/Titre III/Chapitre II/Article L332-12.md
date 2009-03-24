@@ -15,8 +15,8 @@ b) La participation spécifique pour équipements publics exceptionnels dans les
 conditions prévues à l'article L. 332-8 ;
 
 c) Une participation forfaitaire représentative de la participation prévue à
-l'article L. 332-9 et des contributions énumérées aux a, b, d et e du 2° et du
-3° de l'article L. 332-6-1.
+l'article L. 332-9 ou à l'article L. 332-11-3 et des contributions énumérées aux
+a, b, d et e du 2° (1) et du 3° de l'article L. 332-6-1.
 
 Il ne peut être perçu sur les constructeurs aucune des contributions ou
 participations qui ont été mises à la charge du bénéficiaire du permis

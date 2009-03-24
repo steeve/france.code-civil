@@ -1,27 +1,23 @@
 Article L365-1
 ----
-Constituent des activités d'utilité sociale, lorsqu'elles sont réalisées par des
-organismes sans but lucratif ou des unions d'économie sociale, les activités
-soumises à agrément visées par la loi n° 90-449 du 31 mai 1990 visant à la mise
-en oeuvre du droit au logement et par la loi n° 98-657 du 29 juillet 1998
-d'orientation relative à la lutte contre les exclusions ainsi que les activités
-de protection, d'amélioration, de conservation et de transformation de
-l'habitat. Peuvent constituer également des activités d'utilité sociale les
-autres activités, exercées dans les mêmes conditions, visant à la mise en oeuvre
-des dispositions de l'article L. 301-1, sous réserve d'avoir fait l'objet d'un
-agrément dans des conditions définies par décret en Conseil d'Etat.
+Les prestations qui sont effectuées en faveur des personnes et des familles
+mentionnées au II de l'article L. 301-1, qu'elles soient locataires ou
+propriétaires occupants, par des organismes qui bénéficient à cette fin d'un
+financement, par voie de décision, de convention de subvention ou de marché, de
+collectivités publiques, d'établissements publics ou d'institutions sociales ne
+laissant à la charge du destinataire de ces prestations qu'un montant inférieur
+à 50 % de leur coût, constituent des services sociaux relatifs au logement
+social au sens du j du 2 de l'article 2 de la directive 2006 / 123 / CE du
+Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans
+le marché intérieur lorsqu'elles visent à exercer des activités :
 
-Les unions d'économie sociale mentionnées à l'alinéa précédent et dont les
-dirigeants de droit ou de fait ne sont pas rémunérés bénéficient d'exonérations
-fiscales et d'aides spécifiques de l'Etat au titre de la construction,
-l'acquisition, l'amélioration, l'attribution et la gestion de logements locatifs
-à loyers plafonnés lorsqu'elles sont destinées à des personnes dont les revenus
-sont inférieurs à des plafonds fixés par l'autorité administrative.
+1° De maîtrise d'ouvrage d'opérations d'acquisition, de construction ou de
+réhabilitation de logements ou de structures d'hébergement en tant que
+propriétaire ou preneur de bail à construction, emphytéotique ou de bail à
+réhabilitation ;
 
-Les dispositions de l'article L. 411-4 sont applicables aux logements locatifs
-sociaux appartenant aux unions d'économie sociale et faisant l'objet d'une
-convention définie à l'article L. 351-2.
+2° D'ingénierie sociale, financière et technique ;
 
-Les fédérations nationales regroupant les organismes visés au présent article
-peuvent conclure avec l'Etat ou l'Agence nationale de l'habitat des conventions
-ayant pour objet la réalisation des objectifs définis à l'article L. 301-1.
+3° D'intermédiation locative et de gestion locative sociale.
+
+Ces activités sont définies par décret en Conseil d'Etat.

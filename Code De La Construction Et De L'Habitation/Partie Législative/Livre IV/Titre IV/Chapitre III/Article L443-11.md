@@ -12,13 +12,17 @@ adressée à l'intéressé dans les deux mois suivant la demande.
 Lorsque l'organisme d'habitations à loyer modéré met en vente un logement
 vacant, il doit l'offrir en priorité à l'ensemble des locataires de logements de
 l'organisme dans le département par voie d'une publicité dont les modalités sont
-fixées par décret en Conseil d'Etat.A défaut d'acquéreur prioritaire, le
-logement peut être offert à toute autre personne physique ou à une collectivité
-locale ou un groupement de collectivités locales ou un organisme sans but
-lucratif qui s'engage à mettre ce logement pendant au moins quinze ans à la
-disposition de personnes défavorisées mentionnées à l'article 1er de la loi n°
-90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et qui est
-agréé à cet effet par l'autorité administrative.
+fixées par décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le
+logement peut être offert :
+
+-à toute autre personne physique ;
+
+-à une collectivité territoriale ou un groupement de collectivités territoriales
+qui s'engage à mettre ce logement pendant au moins quinze ans à la disposition
+de personnes défavorisées mentionnées au II de l'article L. 301-1 ;
+
+-à un organisme qui bénéficie de l'agrément relatif à la maîtrise d'ouvrage
+prévu à l'article L. 365-2.
 
 Nonobstant les dispositions du premier ou du deuxième alinéa du présent article,
 les logements peuvent être vendus à un autre organisme d'habitations à loyer

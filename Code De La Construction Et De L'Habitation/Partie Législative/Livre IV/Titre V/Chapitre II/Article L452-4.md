@@ -1,16 +1,18 @@
 Article L452-4
 ----
 Au titre de leur activité locative sociale, les organismes d'habitations à loyer
-modéré et les sociétés d'économie mixte versent, au premier trimestre de chaque
-année, une cotisation à la Caisse de garantie du logement locatif social. Elle
-est due pour l'année entière par le redevable qui exerce l'activité assujettie à
-cette cotisation le 1er janvier.
+modéré, les sociétés d'économie mixte et les organismes bénéficiant de
+l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 versent,
+au premier trimestre de chaque année, une cotisation à la Caisse de garantie du
+logement locatif social. Elle est due pour l'année entière par le redevable qui
+exerce l'activité assujettie à cette cotisation le 1er janvier.
 
-La cotisation des organismes d'habitations à loyer modéré a pour assiette les
-loyers ou redevances appelés au cours du dernier exercice à raison des logements
-à usage locatif et des logements-foyers sur lesquels ils sont titulaires d'un
-droit réel. Pour les logements-foyers, la cotisation a pour assiette l'élément
-de la redevance équivalent au loyer.
+La cotisation des organismes d'habitations à loyer modéré et des organismes
+bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L.
+365-2 a pour assiette les loyers ou redevances appelés au cours du dernier
+exercice à raison des logements à usage locatif et des logements-foyers sur
+lesquels ils sont titulaires d'un droit réel. Pour les logements-foyers, la
+cotisation a pour assiette l'élément de la redevance équivalent au loyer.
 
 La cotisation des sociétés d'économie mixte a pour assiette les loyers appelés
 au cours du dernier exercice clos pour les logements à usage locatif et les
@@ -36,7 +38,7 @@ départements d'outre-mer, construits, acquis ou améliorés avec le concours
 financier de l'Etat. Dans le cas des logements-foyers, le nombre retenu est
 celui des unités ouvrant droit à redevance.
 
-Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction
+Le taux de la cotisation, qui ne peut excéder 1, 5 %, le montant de la réduction
 par allocataire et celui de la réduction par logement ou logement-foyer situé
 dans les quartiers mentionnés au cinquième alinéa ainsi que celui de la
 réduction par logement ou logement-foyer nouvellement conventionnés ou, dans les

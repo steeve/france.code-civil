@@ -32,3 +32,11 @@ sauf accord des associations représentatives de locataires ou des locataires
 dans les conditions fixées par l'article 42 de la loi n° 86-1290 du 23 décembre
 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de
 logements sociaux et le développement de l'offre foncière.
+
+La convention d'utilité sociale peut prévoir, à titre expérimental, pour sa
+durée, un dispositif permettant de moduler les loyers en fonction des revenus
+des locataires nonobstant les plafonds de loyers fixés par les conventions
+conclues en application de l'article L. 351-2 ou résultant de la réglementation
+en vigueur. Ces loyers ne peuvent excéder une part des ressources de l'ensemble
+des personnes vivant au foyer. Le minimum et le maximum de cette part sont
+déterminés par décret en Conseil d'Etat.

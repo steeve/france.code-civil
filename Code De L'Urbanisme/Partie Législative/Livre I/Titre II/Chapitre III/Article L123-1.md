@@ -24,6 +24,12 @@ Dans les cas visés au cinquième alinéa du II de l'article L. 752-1 du code de
 commerce, les plans locaux d'urbanisme peuvent comporter le document
 d'aménagement commercial défini à cet article.
 
+Lorsqu'ils sont élaborés et approuvés par des établissements publics de
+coopération intercommunale dont ils couvrent l'intégralité du territoire, les
+plans locaux d'urbanisme intègrent les dispositions des programmes locaux de
+l'habitat définis aux articles L. 302-1 à L. 302-4 du code de la construction et
+de l'habitation et tiennent lieu de programmes locaux de l'habitat. (1)
+
 Les plans locaux d'urbanisme couvrent l'intégralité du territoire de la commune
 en cas d'élaboration par la commune ou, en cas d'élaboration par un
 établissement public de coopération intercommunale compétent, l'intégralité du
@@ -138,7 +144,16 @@ des constructions ;
 14° Recommander l'utilisation des énergies renouvelables pour
 l'approvisionnement énergétique des constructions neuves, en fonction des
 caractéristiques de ces constructions, sous réserve de la protection des sites
-et des paysages.
+et des paysages ;
+
+15° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans
+lesquels les programmes de logements doivent comporter une proportion de
+logements d'une taille minimale qu'ils fixent ;
+
+16° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans
+lesquels, en cas de réalisation d'un programme de logements, un pourcentage de
+ce programme doit être affecté à des catégories de logements qu'il définit dans
+le respect des objectifs de mixité sociale.
 
 Le rapport de présentation peut comporter un échéancier prévisionnel de
 l'ouverture à l'urbanisation des zones à urbaniser et de la réalisation des
@@ -166,4 +181,6 @@ les schémas d'aménagement et de gestion des eaux en application de l'article L
 
 Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local
 d'urbanisme, ce dernier doit, si nécessaire, être rendu compatible dans un délai
-de trois ans.
+de trois ans. Ce délai est ramené à un an pour permettre la réalisation d'un ou
+plusieurs programmes de logements prévus dans un secteur de la commune par le
+programme local de l'habitat et nécessitant une modification du plan.

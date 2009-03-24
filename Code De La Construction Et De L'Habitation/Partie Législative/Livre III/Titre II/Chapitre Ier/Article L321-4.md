@@ -22,3 +22,10 @@ conventionnels.
 
 Le contrôle du respect de la convention est assuré par l'Agence nationale de
 l'habitat.
+
+L'Agence nationale de l'habitat peut communiquer à l'administration fiscale,
+spontanément ou à sa demande, sans que puisse être opposée l'obligation au
+secret professionnel, tous les renseignements et documents recueillis dans le
+cadre de sa mission et notamment les informations relatives aux conventions
+signées en application du présent article en précisant l'identifiant unique des
+logements auxquels se rapportent ces conventions et le nom de leur propriétaire.

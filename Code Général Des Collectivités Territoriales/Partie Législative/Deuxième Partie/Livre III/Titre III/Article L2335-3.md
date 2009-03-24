@@ -16,7 +16,7 @@ l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n
 mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article.
 
 Pour les logements locatifs sociaux bénéficiant d'une décision d'octroi de
-subvention ou de prêt aidé entre le 1er décembre 2005 et le 31 décembre 2009, à
+subvention ou de prêt aidé entre le 1er décembre 2005 et le 31 décembre 2014, à
 l'exception des logements construits au moyen de prêts visés à la sous-section 3
 de la section 1 du chapitre unique du titre III du livre III du code de la
 construction et de l'habitation, les pertes de recettes pour les communes

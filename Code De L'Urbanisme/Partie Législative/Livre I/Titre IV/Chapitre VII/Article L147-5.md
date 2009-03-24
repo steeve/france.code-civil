@@ -3,19 +3,19 @@ Article L147-5
 Dans les zones définies par le plan d'exposition au bruit, l'extension de
 l'urbanisation et la création ou l'extension d'équipements publics sont
 interdites lorsqu'elles conduisent à exposer immédiatement ou à terme de
-nouvelles populations aux nuisances de bruit. A cet effet :
+nouvelles populations aux nuisances de bruit.A cet effet :
 
 1° Les constructions à usage d'habitation sont interdites dans ces zones à
 l'exception :
 
-- de celles qui sont nécessaires à l'activité aéronautique ou liées à celle-ci ;
+-de celles qui sont nécessaires à l'activité aéronautique ou liées à celle-ci ;
 
-- dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A,
-des logements de fonction nécessaires aux activités industrielles ou
-commerciales admises dans la zone et des constructions directement liées ou
-nécessaires à l'activité agricole ;
+-dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A, des
+logements de fonction nécessaires aux activités industrielles ou commerciales
+admises dans la zone et des constructions directement liées ou nécessaires à
+l'activité agricole ;
 
-- en zone C, des constructions individuelles non groupées situées dans des
+-en zone C, des constructions individuelles non groupées situées dans des
 secteurs déjà urbanisés et desservis par des équipements publics dès lors
 qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil
 d'habitants exposés aux nuisances et des opérations de reconstruction rendues
@@ -48,6 +48,12 @@ des plans d'exposition au bruit, à la demande de la commune ou de
 l'établissement public de coopération intercommunale compétent en matière de
 plan local d'urbanisme, de tels secteurs peuvent également être délimités par
 arrêté préfectoral pris après enquête publique.
+
+Pour les aérodromes dont le nombre de créneaux attribuables fait l'objet d'une
+limitation réglementaire sur l'ensemble des plages horaires d'ouverture, une
+augmentation de la capacité de logements et de la population à l'intérieur de
+ces secteurs est autorisée dans une limite définie dans l'acte de création de
+ces secteurs ou dans une décision modificative prise dans les mêmes formes.
 
 Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien
 immobilier situé dans l'une des zones de bruit définies par un plan d'exposition

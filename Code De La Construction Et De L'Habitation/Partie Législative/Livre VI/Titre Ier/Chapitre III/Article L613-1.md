@@ -2,11 +2,11 @@ Article L613-1
 ----
 Le juge des référés ou le juge de l'exécution, selon le cas, du lieu de la
 situation de l'immeuble peut, par dérogation aux dispositions des articles
-1244-1 à 1244-3 du code civil, accorder des délais renouvelables excédant une
-année aux occupants de locaux d'habitation ou à usage professionnel, dont
-l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des
-intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits
-occupants aient à justifier d'un titre à l'origine de l'occupation.
+1244-1 à 1244-3 du code civil, accorder des délais renouvelables aux occupants
+de locaux d'habitation ou à usage professionnel, dont l'expulsion aura été
+ordonnée judiciairement, chaque fois que le relogement des intéressés ne pourra
+avoir lieu dans des conditions normales, sans que lesdits occupants aient à
+justifier d'un titre à l'origine de l'occupation.
 
 Le juge qui ordonne l'expulsion peut, même d'office, accorder les mêmes délais,
 dans les mêmes conditions.

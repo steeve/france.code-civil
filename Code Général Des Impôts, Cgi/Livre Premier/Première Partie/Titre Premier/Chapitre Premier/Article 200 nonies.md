@@ -4,7 +4,7 @@ Les personnes qui louent un ou plusieurs logements dans le cadre d'une
 convention mentionnée à l'article L. 353-2 du code de la construction et de
 l'habitation bénéficient d'un crédit d'impôt sur le revenu lorsqu'elles
 concluent un contrat d'assurance contre les impayés de loyer respectant le
-cahier des charges mentionné au g de l'article L. 313-1 du même code.
+cahier des charges mentionné au g de l'article L. 313-3 du même code.
 
 Ce crédit d'impôt est égal à 50 % du montant de la prime d'assurance payée au
 cours de l'année d'imposition.

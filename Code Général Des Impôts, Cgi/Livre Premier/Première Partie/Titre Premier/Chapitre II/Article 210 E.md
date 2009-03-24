@@ -66,13 +66,13 @@ bâtis ou non bâtis ou de titres de sociétés à prépondérance immobilière 
 du a sexies-0 bis du I de l'article 219 par une personne morale soumise à
 l'impôt sur les sociétés dans les conditions de droit commun au profit d'un
 organisme d'habitations à loyer modéré, d'une société d'économie mixte gérant
-des logements sociaux, de l'association mentionnée à l'article 116 de la loi de
-finances pour 2002 (n° 2001-1275 du 28 décembre 2001), des sociétés civiles
-immobilières dont cette association détient la majorité des parts pour les
-logements visés au 4° de l'article L. 351-2 du code de la construction et de
-l'habitation ou d'un organisme mentionné à l'article L. 365-1 du code de la
-construction et de l'habitation sont soumises à l'impôt sur les sociétés au taux
-visé au IV de l'article 219.
+des logements sociaux, de l'association mentionnée à l'article L. 313-34 du code
+de la construction et de l'habitation, des sociétés civiles immobilières dont
+cette association détient la majorité des parts pour les logements visés au 4°
+de l'article L. 351-2 du code de la construction et de l'habitation ou d'un
+organisme bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à
+l'article L. 365-2 du code de la construction et de l'habitation sont soumises à
+l'impôt sur les sociétés au taux visé au IV de l'article 219.
 
 IV.-Les plus-values nettes dégagées par les organismes et sociétés mentionnés au
 4° du 1 de l'article 207 à l'occasion de cessions d'immeubles bâtis et qui

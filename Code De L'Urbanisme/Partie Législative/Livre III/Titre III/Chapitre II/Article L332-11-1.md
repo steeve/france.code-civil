@@ -41,8 +41,9 @@ ces réseaux.
 
 La participation n'est pas due pour les voies et réseaux compris dans le
 programme d'équipements publics d'une zone d'aménagement concerté créée en
-application de l'article L. 311-1 ou d'un programme d'aménagement d'ensemble
-créé en application de l'article L. 332-9.
+application de l'article L. 311-1, d'une convention de projet urbain partenarial
+conclue en application de l'article L. 332-11-3 ou d'un programme d'aménagement
+d'ensemble créé en application de l'article L. 332-9.
 
 Les opérations de construction de logements sociaux visées au II de l'article
 1585 C du code général des impôts peuvent être exemptées de la participation.

@@ -4,7 +4,8 @@ En cas d'urgence ou de menace grave et imminente, le maire, après en avoir
 informé les personnes visées au deuxième alinéa de l'article L. 129-1, selon les
 modalités prévues à cet article, demande à la juridiction administrative de
 désigner un expert chargé d'examiner l'état des équipements communs dans un
-délai de vingt-quatre heures suivant sa désignation.
+délai de vingt-quatre heures suivant sa désignation et de proposer des mesures
+de nature à mettre fin à l'imminence du danger s'il la constate.
 
 Si le rapport de l'expert constate l'urgence ou la menace grave et imminente, le
 maire ordonne les mesures provisoires permettant de garantir la sécurité des

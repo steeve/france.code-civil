@@ -1,12 +1,12 @@
 Article Annexe II à l'article R353-90
 ----
-Convention type conclue entre l'Etat et ..., nom de la personne physique ou
+Convention type conclue entre l'Etat et..., nom de la personne physique ou
 morale identifiée conformément aux dispositions, selon le cas, des articles 5 ou
 6 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité
 foncière.
 
 En application de l'article L. 351-2 (2° ou 3°) du code de la construction et de
-l'habitation pour le programme de ...
+l'habitation pour le programme de...
 
 Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le
 préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un
@@ -18,14 +18,14 @@ D'une part,
 
 et, ou
 
-..., représentée par ... (si le propriétaire est une personne morale, indiquer
-le nom de son représentant), dénommé(e) ci-après le bailleur,
+..., représentée par... (si le propriétaire est une personne morale, indiquer le
+nom de son représentant), dénommé (e) ci-après le bailleur,
 
 D'autre part,
 
 sont convenus de ce qui suit :
 
-I. - Dispositions générales.
+I.-Dispositions générales.
 
 Article 1er.
 
@@ -33,8 +33,8 @@ Objet de la convention.
 
 La présente convention a pour objet de fixer les droits et les obligations des
 parties prévues par les articles L. 353-1 à L. 353-12 et L. 353-20 du code de la
-construction et de l'habitation pour le programme de ..., décrit plus
-précisément dans le document joint à la présente convention, et
+construction et de l'habitation pour le programme de..., décrit plus précisément
+dans le document joint à la présente convention, et
 
 1° Financé dans les conditions prévues par le chapitre Ier du titre Ier du
 présent livre, par le titre II de la loi du 13 juillet 1928 ainsi que par
@@ -62,8 +62,9 @@ et mentionnés au 4e alinéa de l'article 41 ter de la loi n° 86-1290 du 23
 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
 propriété de logements sociaux et le développement de l'offre foncière (3) ;
 
-7° Logements appartenant à l'association foncière mentionnée à l'article 116 de
-la loi de finances pour 2002 ou à l'une de ses filiales (3) ;
+7° Logements appartenant à l'association foncière mentionnée à l'article
+l'article L. 313-34 du code de la construction et de l'habitation ou à l'une de
+ses filiales (3) ;
 
 8° Logements satisfaisant aux conditions fixées par l'article L. 351-2 2° (3).
 
@@ -127,10 +128,10 @@ locatifs, dans les conditions prévues par l'article 40 III, et aux dispositions
 de la présente convention.
 
 Lorsque le logement appartient à l'association foncière mentionnée à l'article
-116 de la loi de finances pour 2002 ou à l'une de ses filiales, les dispositions
-de l'article L. 353-15-1 du code de la construction et de l'habitation relatif à
-la prévention des expulsions pour les bénéficiaires de l'aide personnalisée au
-logement sont applicables.
+L. 313-34 du code de la construction et de l'habitation ou à l'une de ses
+filiales, les dispositions de l'article L. 353-15-1 du code de la construction
+et de l'habitation relatif à la prévention des expulsions pour les bénéficiaires
+de l'aide personnalisée au logement sont applicables.
 
 Article 5.
 
@@ -141,7 +142,7 @@ respectivement à compter de la date d'effet de la convention ou de ses avenants
 conformément aux articles L. 351-3-1 et R. 351-3 du code de la construction et
 de l'habitation.
 
-II. - Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de
+II.-Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de
 location des logements.
 
 Article 6.
@@ -168,7 +169,7 @@ peuplement des logements.
 Les logements faisant l'objet de la présente convention sont maintenus à usage
 locatif jusqu'à la date fixée pour l'expiration de celle-ci.
 
-1° - Conditions de location.
+1°-Conditions de location.
 
 Les logements sont loués non meublés à des personnes physiques, à titre de
 résidence principale, et occupés au moins huit mois par an. Ils ne peuvent faire
@@ -180,34 +181,34 @@ d'accessoire d'un contrat de travail ou en raison de l'exercice d'une fonction.
 
 Ils ne peuvent être loués ou occupés à quelque titre que ce soit ni par :
 
-- les ascendants ou les descendants du signataire de la convention ;
+-les ascendants ou les descendants du signataire de la convention ;
 
-- ceux de son conjoint, de son concubin ou de son partenaire lié par un pacte
+-ceux de son conjoint, de son concubin ou de son partenaire lié par un pacte
 civil de solidarité ;
 
-- son conjoint, son concubin ou son partenaire lié par un pacte civil de
+-son conjoint, son concubin ou son partenaire lié par un pacte civil de
 solidarité.
 
-2° - Ressources.
+2°-Ressources.
 
 Les logements libres de toute occupation sont attribués à des familles dont les
 revenus n'excèdent pas les plafonds de ressources prévus à l'article R. 331-12
 du code de la construction et de l'habitation pour l'attribution des logements
 sociaux.
 
-3° - Mixité sociale.
+3°-Mixité sociale.
 
 a) Lorsque l'opération a été financée dans les conditions de l'article R. 331-14
 autres que celles prévues au II de l'article R. 331-1 et bénéficie de
 subventions prévues au 2° ou au 3° de l'article R. 331-15, 30 % au moins des
-logements de l'opération, soit ... (2) logements, doivent être occupés par des
+logements de l'opération, soit... (2) logements, doivent être occupés par des
 ménages dont les ressources n'excèdent pas le plafond fixé au I du deuxième
 alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour
-l'attribution des logements sociaux. A la date de publication de la convention
-ou à la date d'achèvement des travaux, en sus des 30 % de logements ci-dessus
+l'attribution des logements sociaux.A la date de publication de la convention ou
+à la date d'achèvement des travaux, en sus des 30 % de logements ci-dessus
 mentionnés, le bailleur s'engage, compte tenu de la demande locale, que vise
 notamment à satisfaire le plan d'action départemental pour le logement des
-personnes défavorisées, à louer ... (1) autres logements à des ménages dont les
+personnes défavorisées, à louer... (1) autres logements à des ménages dont les
 ressources n'excèdent pas le plafond fixé au I du deuxième alinéa de l'article
 R. 331-12 du code de la construction et de l'habitation pour l'attribution des
 logements sociaux. Le bailleur s'engage à fournir au préfet un état à la mise en
@@ -216,7 +217,7 @@ respecté.
 
 La vérification de l'engagement d'occupation sociale mentionné au premier alinéa
 sera effectuée tous les trois ans au vu des résultats de l'enquête prévue à
-l'article L. 442-5 du code de la construction et de l'habitation. S'il est
+l'article L. 442-5 du code de la construction et de l'habitation.S'il est
 constaté que cet engagement n'est plus rempli, tous les logements attribués
 postérieurement à ce contrat fait par le préfet du lieu de situation des
 logements devront l'être à des ménages dont les ressources n'excèdent pas le
@@ -250,7 +251,7 @@ délai de deux mois formuler ses observations. Lorsque le préfet écarte ces
 observations, sa décision doit être motivée.
 
 Toutefois, lorsque l'opération ainsi financée comporte moins de 10 logements, au
-moins 30 % des logements, soit ... logements (ce nombre s'obtenant en
+moins 30 % des logements, soit... logements (ce nombre s'obtenant en
 arrondissant à l'unité la plus proche le résultat de l'application du
 pourcentage), doivent être occupés par des ménages dont les ressources
 n'excèdent pas le plafond fixé au I du deuxième alinéa de l'article R. 331-12 du
@@ -269,28 +270,29 @@ l'article R. 331-12 du code de la construction et de l'habitation pour
 l'attribution des logements sociaux.
 
 Toutefois, lorsque l'opération ainsi financée comporte moins de 10 logements, 10
-% des logements, soit ... logements (ce nombre s'obtenant en arrondissant à
+% des logements, soit... logements (ce nombre s'obtenant en arrondissant à
 l'unité la plus proche le résultat de l'application du pourcentage), peut être
 loué à des ménages dont les ressources n'excèdent pas les plafonds de ressources
 fixés au II du deuxième alinéa de l'article R. 331-12 du code de la construction
 et de l'habitation pour l'attribution des logements.
 
 c) Lorsque les logements appartiennent à l'association foncière mentionnée à
-l'article 116 de la loi de finances pour 2002 ou à l'une de ses filiales, le
-bailleur s'engage à louer, lors de la mise en service de l'immeuble :
+l'article l'article L. 313-34 du code de la construction et de l'habitation ou à
+l'une de ses filiales, le bailleur s'engage à louer, lors de la mise en service
+de l'immeuble :
 
-- ... (1) logements au moins à des ménages dont les ressources n'excèdent pas 60
+-... (1) logements au moins à des ménages dont les ressources n'excèdent pas 60
 % des plafonds fixés pour l'attribution des logements appartenant aux organismes
 d'habitation à loyer modéré ;
 
-- ... (1) logements au plus à des ménages dont les ressources excèdent les
+-... (1) logements au plus à des ménages dont les ressources excèdent les
 plafonds fixés pour l'attribution des logements appartenant aux organismes
 d'habitation à loyer modéré, dans la limite de 130 % de ces plafonds.
 
 Le bailleur s'engage à attribuer tous les logements proposés à la location
 conformément à cette répartition.
 
-4° - Cas d'une acquisition ou d'une convention sans travaux faisant suite à une
+4°-Cas d'une acquisition ou d'une convention sans travaux faisant suite à une
 nouvelle acquisition lorsque les loyers ne sont pas établis sur la base de la
 surface corrigée, résultant de l'application du décret n° 48-1766 du 22 novembre
 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
@@ -309,18 +311,18 @@ Article 8.
 
 Montants des loyers maximum et modalités de révision.
 
-8.1. Loyer au mètre carré de surface utile.
+8. 1. Loyer au mètre carré de surface utile.
 
 Le prix mensuel du loyer maximum résultant de l'application des 1° et 2° de
-l'article R. 353-16 du code de la construction et de l'habitation est à ...
-euros (1) le mètre carré de surface utile.
+l'article R. 353-16 du code de la construction et de l'habitation est à... euros
+(1) le mètre carré de surface utile.
 
-Le prix mensuel du loyer maximum est fixé à ... euros le mètre carré de surface
+Le prix mensuel du loyer maximum est fixé à... euros le mètre carré de surface
 utile pour les logements financés dans les conditions du II de l'article R.
 331-1 du code de la construction et de l'habitation.
 
-Il est fixé pour chaque logement dans le document intitulé "Composition du
-programme" annexé à la présente convention.
+Il est fixé pour chaque logement dans le document intitulé " Composition du
+programme " annexé à la présente convention.
 
 Lorsque les logements ont été financés dans les conditions de l'article R.
 311-14 autres que celles prévues au II de l'article R. 331-1 et bénéficient de
@@ -329,21 +331,21 @@ maximum par logement, pour les logements attribués dans les conditions du b de
 l'article 7 ci-dessus, peut être majoré de 33 % au plus.
 
 Lorsque les logements appartiennent à l'association foncière mentionnée à
-l'article 116 de la loi de finances pour 2002 ou à l'une de ses filiales, le
-loyer maximum est à ... euros par mètre carré de surface utile pour les
-locataires dont les ressources n'excèdent pas 60 % des plafonds fixés pour
-l'attribution des logements appartenant aux organismes d'habitation à loyer
-modéré.
+l'article l'article L. 313-34 du code de la construction et de l'habitation ou à
+l'une de ses filiales, le loyer maximum est à... euros par mètre carré de
+surface utile pour les locataires dont les ressources n'excèdent pas 60 % des
+plafonds fixés pour l'attribution des logements appartenant aux organismes
+d'habitation à loyer modéré.
 
 Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner
 lieu à la perception d'un loyer accessoire, dans les conditions définies dans le
-document intitulé "Composition du programme" annexé à la présente convention.
+document intitulé " Composition du programme " annexé à la présente convention.
 
 Ces loyers maximums sont révisés chaque année, le 1er juillet, dans les
 conditions prévues à l'article 17 d de la loi n° 89-462 du 6 juillet 1989
 modifiée.
 
-8.2. Loyer au mètre carré de surface corrigée (opérations déjà conventionnées
+8. 2. Loyer au mètre carré de surface corrigée (opérations déjà conventionnées
 avant le 1er juillet 1996).
 
 Le loyer maximum des logements pour lesquels une convention a été signée avant
@@ -352,14 +354,14 @@ résulte des dispositions de l'article R. 442-1 du décret n° 48-1766 du 22
 novembre 1948 modifié et de l'article 4 du décret n° 60-1063 du 1er octobre
 1960.
 
-Par dérogation au 8.1 ci-dessus, la signature d'une nouvelle convention ou d'un
+Par dérogation au 8. 1 ci-dessus, la signature d'une nouvelle convention ou d'un
 avenant portant sur ces logements n'entraîne pas de modification des modalités
 de fixation de leur loyer.
 
-Le prix annuel du loyer maximum est à ... euros le mètre carré de surface
+Le prix annuel du loyer maximum est à... euros le mètre carré de surface
 corrigée.
 
-Le prix annuel du loyer maximum est fixé à ... euros le mètre carré de surface
+Le prix annuel du loyer maximum est fixé à... euros le mètre carré de surface
 corrigée pour les logements financés dans les conditions du II de l'article R.
 331-1 du code de la construction et de l'habitation.
 
@@ -386,7 +388,7 @@ plafonds de ressources prévus à l'article R 331-12 du code de la construction 
 de l'habitation pour l'attribution des logements sociaux ou n'ayant pas fourni
 d'informations sur le niveau de ses ressources à compter de l'acceptation du
 bail ou de l'achèvement des travaux lorsque la convention en prévoit, par
-dérogation et à titre transitoire, est fixé à ... euros par mètre carré de
+dérogation et à titre transitoire, est fixé à... euros par mètre carré de
 surface utile par mois. Ce loyer maximum est révisé chaque année, le 1er
 juillet, dans les conditions prévues à l'article 17 d de la loi n° 89-462 du 6
 juillet 1989 modifiée. Il ne peut avoir pour effet d'autoriser, au moment de
@@ -395,10 +397,10 @@ acquitté par le locataire ou l'occupant de bonne foi, lorsque ce loyer est
 supérieur à celui fixé à l'article 8 de la présente convention.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière
-mentionnée à l'article 116 de la loi de finances pour 2002 ou à l'une de ses
-filiales, les plafonds à prendre en considération pour l'application du présent
-article sont ceux définis au premier alinéa de l'article R. 331-12 pour
-l'attribution des logements sociaux majorés de 30 %.
+mentionnée à l'article l'article L. 313-34 du code de la construction et de
+l'habitation ou à l'une de ses filiales, les plafonds à prendre en considération
+pour l'application du présent article sont ceux définis au premier alinéa de
+l'article R. 331-12 pour l'attribution des logements sociaux majorés de 30 %.
 
 Article 9.
 
@@ -447,12 +449,12 @@ fourni d'informations sur le niveau de ses ressources ne peut excéder le loyer
 maximum fixé à l'article 8 bis.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière
-mentionnée à l'article 116 de la loi de finances pour 2002 ou à l'une de ses
-filiales, les plafonds à prendre en considération pour l'application du présent
-article sont ceux définis au premier alinéa de l'article R. 331-12 pour
-l'attribution des logements sociaux majorés de 30 %.
+mentionnée à l'article l'article L. 313-34 du code de la construction et de
+l'habitation ou à l'une de ses filiales, les plafonds à prendre en considération
+pour l'application du présent article sont ceux définis au premier alinéa de
+l'article R. 331-12 pour l'attribution des logements sociaux majorés de 30 %.
 
-III. - Engagements du bailleur à l'égard des locataires.
+III.-Engagements du bailleur à l'égard des locataires.
 
 Article 10.
 
@@ -614,12 +616,12 @@ excepté celles relatives au prix du loyer, sont à nouveau applicables à la da
 d'expiration de la convention au locataire ou à l'occupant de bonne foi dans les
 lieux lors de la signature de la convention, à la double condition :
 
-- qu'il soit âgé d'au moins soixante-cinq ans ou d'au moins soixante ans en cas
+-qu'il soit âgé d'au moins soixante-cinq ans ou d'au moins soixante ans en cas
 d'inaptitude au travail ou lorsque à cet âge il bénéficie d'une retraite et que
 ses ressources annuelles n'excèdent pas le montant visé à l'article 22 bis de la
 loi n° 48-1360 du 1er septembre 1948 ;
 
-- que les dispositions de la législation de 1948 soient encore applicables au
+-que les dispositions de la législation de 1948 soient encore applicables au
 logement et au locataire ou occupant en vertu de mesures particulières prises en
 application de ladite législation.
 
@@ -702,13 +704,14 @@ logement visée à l'article 21 de la présente convention en cas de non-règlem
 de la dette.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière
-mentionnée à l'article 116 de la loi de finances pour 2002 ou à l'une de ses
-filiales, et que le locataire bénéficie de l'aide personnalisée au logement, le
-bailleur ne peut faire délivrer une assignation aux fins de constat de
-résiliation du bail avant l'expiration d'un délai de trois mois suivant la
-saisine de la commission mentionnée à l'article L. 351-14 en vue d'assurer le
-maintien du versement de l'aide personnalisée au logement, sauf si la décision
-de cette commission intervient avant l'expiration de ce délai.
+mentionnée à l'article l'article L. 313-34 du code de la construction et de
+l'habitation ou à l'une de ses filiales, et que le locataire bénéficie de l'aide
+personnalisée au logement, le bailleur ne peut faire délivrer une assignation
+aux fins de constat de résiliation du bail avant l'expiration d'un délai de
+trois mois suivant la saisine de la commission mentionnée à l'article L. 351-14
+en vue d'assurer le maintien du versement de l'aide personnalisée au logement,
+sauf si la décision de cette commission intervient avant l'expiration de ce
+délai.
 
 Article 19.
 
@@ -718,7 +721,7 @@ Le dépôt de garantie stipulé, le cas échéant, par le contrat de location po
 garantir l'exécution de ses obligations locatives par le locataire ne peut être
 supérieur à deux mois de loyer en principal.
 
-IV. - Engagements à l'égard des organismes chargés de la liquidation et du
+IV.-Engagements à l'égard des organismes chargés de la liquidation et du
 paiement de l'aide personnalisée au logement et à l'égard de la commission
 départementale des aides publiques au logement.
 
@@ -736,12 +739,12 @@ logement au plus tard le 15 mai de chaque année, conformément à l'arrêté du
 août 1986 modifié relatif à la fixation des justifications nécessaires à
 l'obtention de l'aide personnalisée au logement et à son renouvellement :
 
-- le montant du loyer applicable à chaque logement concerné par la présente
+-le montant du loyer applicable à chaque logement concerné par la présente
 convention à compter du 1er juillet de la même année pour permettre le
 renouvellement des droits à l'aide personnalisée au logement qui a lieu à cette
 date ;
 
-- un document attestant que tous les bénéficiaires sont à jour de leurs
+-un document attestant que tous les bénéficiaires sont à jour de leurs
 obligations vis-à-vis du bailleur ou le cas échéant la liste des bénéficiaires
 d'aide personnalisée au logement non à jour en certifiant que cette liste est
 exhaustive. Ce document mentionne également la date à laquelle la commission
@@ -775,7 +778,7 @@ La commission départementale des aides publiques au logement décide du maintie
 ou de la suspension de l'aide personnalisée au logement et en informe le
 bailleur et le bénéficiaire.
 
-V. - Dispositions relatives à l'application de la convention.
+V.-Dispositions relatives à l'application de la convention.
 
 Article 22.
 
@@ -790,16 +793,16 @@ Article 23.
 
 Inexécution de la convention par le bailleur.
 
-I. - En application de l'article 284 du code général des impôts, les bailleurs
-qui ont, au taux réduit de la taxe sur la valeur ajoutée, acquis un logement
-social ou imposé la livraison à soi-même d'un logement locatif social ou de
-travaux d'amélioration, de transformation ou d'aménagement portant sur un
-logement locatif social sont redevables d'un complément de taxe sur la valeur
-ajoutée égal à la différence entre le taux réduit et le taux normal lorsque les
+I.-En application de l'article 284 du code général des impôts, les bailleurs qui
+ont, au taux réduit de la taxe sur la valeur ajoutée, acquis un logement social
+ou imposé la livraison à soi-même d'un logement locatif social ou de travaux
+d'amélioration, de transformation ou d'aménagement portant sur un logement
+locatif social sont redevables d'un complément de taxe sur la valeur ajoutée
+égal à la différence entre le taux réduit et le taux normal lorsque les
 conditions de taxation de vente ou de livraison à soi-même au taux réduit ne
 sont pas ou plus remplies.
 
-II. - En application de l'article L. 353-2 du code de la construction et de
+II.-En application de l'article L. 353-2 du code de la construction et de
 l'habitation, des sanctions administratives peuvent être mises en oeuvre.
 
 Lorsque le bailleur ne respecte pas, pour un ou plusieurs logements, les règles
@@ -830,7 +833,7 @@ convention, tels que notamment non-respect du loyer maximum ou en cas de fraude,
 dissimulation ou fausse déclaration à l'égard des organismes liquidateurs de
 l'aide personnalisée au logement, le préfet peut procéder à la résiliation de la
 présente convention. Le préfet doit préalablement mettre en demeure l'organisme
-par lettre recommandée avec demande d'avis de réception. L'organisme doit, dans
+par lettre recommandée avec demande d'avis de réception.L'organisme doit, dans
 le délai de deux mois, soit satisfaire à ses obligations, soit formuler ses
 observations.
 
@@ -867,7 +870,7 @@ La présente convention pourra être révisée tous les trois ans à la demande 
 l'une ou l'autre des parties par voie d'avenant. Les frais de publication sont
 pris en charge par la partie qui sollicite la révision.
 
-Fait en 4 originaux à ..., le ...
+Fait en 4 originaux à..., le...
 
 Le bailleur La bailleur doit avoir, préalablement à sa signature, paraphé
 chacune des pages.
@@ -877,30 +880,29 @@ ou le président du conseil général.
 
 Article 27.
 
-Description du programme de ....
+Description du programme de....
 
-1° - Désignation du ou des immeubles, établie conformément à l'article 7 du
-décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité
-foncière.
+1°-Désignation du ou des immeubles, établie conformément à l'article 7 du décret
+n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
 
-2° - Composition du programme quand le loyer est fixé au mètre carré de surface
+2°-Composition du programme quand le loyer est fixé au mètre carré de surface
 utile, selon que le loyer est calculé en surface utile ou en surface corrigée,
 le II ou le III sera rempli.
 
 Les éléments ci-après sont décrits par immeuble ou programme immobilier :
 
-A. - Locaux auxquels s'applique la présente convention :
+A.-Locaux auxquels s'applique la présente convention :
 
 1. Nombre des logements locatifs par type de logements avec numéro des logements
 :
 
-1.1. Nombre de logements à attribuer à des personnes dont les ressources
+1. 1. Nombre de logements à attribuer à des personnes dont les ressources
 n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de
 l'article R. 331-12 pour l'attribution des logements sociaux (art. 7 de la
 convention) (1).
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les
-ressources excèdent les plafonds de ressources prévus au premier alinéa de
+1. 2. Nombre de logements qu'il est possible d'attribuer à des personnes dont
+les ressources excèdent les plafonds de ressources prévus au premier alinéa de
 l'article R. 331-12 pour l'attribution des logements sociaux, dans la limite de
 120 % (art. 7 de la convention).
 
@@ -908,15 +910,15 @@ l'article R. 331-12 pour l'attribution des logements sociaux, dans la limite de
 conditions du II de l'article R. 331-1 du code de la construction et de
 l'habitation.
 
-2. Surface habitable totale (art. R. 111-2).
+2. Surface habitable totale (art.R. 111-2).
 
-3. Surface totale des annexes entrant dans le calcul de la surface utile (art.
-R. 353-16 2°).
+3. Surface totale des annexes entrant dans le calcul de la surface utile (art.R.
+353-16 2°).
 
 3 bis. Liste de ces annexes, conforme à l'arrêté modifié du 9 mai 1995 du
 ministre du logement pris en application de l'article R. 353-16.
 
-4. Surface utile totale de l'opération (art. R. 353-16 2°).
+4. Surface utile totale de l'opération (art.R. 353-16 2°).
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour
 le calcul du loyer :
@@ -956,29 +958,29 @@ faculté n'est utilisable que pour autant qu'aucun locataire du patrimoine
 appartenant ou géré par le bailleur ne manifeste sa volonté de louer les annexes
 en cause.
 
-B. - Locaux auxquels ne s'applique pas la présente convention :
+B.-Locaux auxquels ne s'applique pas la présente convention :
 
 Nombre de locaux commerciaux, bureaux, autres.
 
-3° - Composition du programme quand le loyer est fixé au mètre carré de surface
+3°-Composition du programme quand le loyer est fixé au mètre carré de surface
 corrigée, selon que le loyer est calculé en surface utile ou en surface
 corrigée, le II ou le III sera rempli.
 
 Les éléments ci-après sont décrits par immeuble ou programme immobilier :
 
-A. - Locaux auxquels s'applique la présente convention :
+A.-Locaux auxquels s'applique la présente convention :
 
 1. Nombre de logements locatifs par type de logements avec numéro des logements
 :
 
-1.1. Nombre de logements réservés à des personnes dont les ressources n'excèdent
-pas 60 % des plafonds de ressources fixés en application de l'article R. 331-12
-pour l'attribution d'un logement HLM (art. 7, III a) de la convention.
+1. 1. Nombre de logements réservés à des personnes dont les ressources
+n'excèdent pas 60 % des plafonds de ressources fixés en application de l'article
+R. 331-12 pour l'attribution d'un logement HLM (art. 7, III a) de la convention.
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les
-ressources excèdent les plafonds de ressources fixés en application de l'article
-R. 331-12 pour l'attribution d'un logement HLM dans la limite de 120 % de ces
-plafonds (art. 7, III b) de la convention.
+1. 2. Nombre de logements qu'il est possible d'attribuer à des personnes dont
+les ressources excèdent les plafonds de ressources fixés en application de
+l'article R. 331-12 pour l'attribution d'un logement HLM dans la limite de 120 %
+de ces plafonds (art. 7, III b) de la convention.
 
 2. Surface habitable après travaux :
 
@@ -992,14 +994,14 @@ cas, le loyer maximum fixé par la convention ne lui est pas opposable. Cette
 faculté n'est utilisable que pour autant qu'aucun locataire du patrimoine
 appartenant ou géré ne manifeste sa volonté de louer les annexes en cause.
 
-B. - Locaux auxquels ne s'applique pas la présente convention :
+B.-Locaux auxquels ne s'applique pas la présente convention :
 
 Nombre de locaux commerciaux, bureaux, autres.
 
-4° - Origine des propriétés, établie conformément à l'article 7 du décret n°
-55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+4°-Origine des propriétés, établie conformément à l'article 7 du décret n° 55-22
+du 4 janvier 1955 modifié portant réforme de la publicité foncière.
 
-5° - Renseignements administratifs :
+5°-Renseignements administratifs :
 
 1° Logements financés dans les conditions prévues à l'article 1er (1°) de la
 présente convention :

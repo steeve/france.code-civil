@@ -1,5 +1,6 @@
 Article L442-4
 ----
-En cas de sous-occupation du logement, il peut être attribué au locataire un
-nouveau logement correspondant à ses besoins, nonobstant les plafonds de
-ressources prévus à l'article L. 441-1.
+Les organismes d'habitations à loyer modéré peuvent, par délibération de leur
+conseil d'administration ou de leur conseil de surveillance, rendre applicable
+l'article L. 442-3-3 aux logements locatifs sociaux qui ne sont pas situés dans
+les zones géographiques mentionnées au même article.

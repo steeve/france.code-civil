@@ -19,7 +19,4 @@ ouvrages publics, ainsi que les installations d'intérêt général et les espac
 verts à créer ou à modifier, en délimitant les terrains qui peuvent être
 concernés par ces équipements ;
 
-d) A délimiter des secteurs dans lesquels, en cas de réalisation d'un programme
-de logements, un pourcentage de ce programme doit être affecté à des catégories
-de logements locatifs qu'il définit dans le respect des objectifs de mixité
-sociale.
+d) Abrogé.

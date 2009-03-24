@@ -23,7 +23,9 @@ l'équipement ou l'opération projetée.
 
 Ce droit de préemption est ouvert à la commune. Le conseil municipal peut
 décider de le supprimer sur tout ou partie des zones considérées. Il peut
-ultérieurement le rétablir dans les mêmes conditions.
+ultérieurement le rétablir dans les mêmes conditions. Toutefois, dans le cas
+prévu au deuxième alinéa de l'article L. 210-1, le droit de préemption peut être
+institué ou rétabli par arrêté du représentant de l'Etat dans le département.
 
 Lorsqu'un lotissement a été autorisé ou une zone d'aménagement concerté créée,
 la commune peut exclure du champ d'application du droit de préemption urbain la

@@ -8,12 +8,12 @@ modéré et les immeubles à usage principal d'habitation appartenant à l'Etat,
 une collectivité territoriale ou à un groupement de collectivités territoriales,
 à une société d'économie mixte de construction et de gestion de logements
 sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
-à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
-2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
-moins 99 % par cette association. Elles peuvent également gérer, en qualité de
-syndics de copropriété et d'administrateurs de biens, après accord du maire de
-la commune d'implantation et dans les conditions fixées par l'article L. 442-11,
-des logements situés dans le périmètre défini pour une opération programmée
+à l'article L. 313-34 du code de la construction et de l'habitation ou aux
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association. Elles peuvent également gérer, en qualité de syndics de
+copropriété et d'administrateurs de biens, après accord du maire de la commune
+d'implantation et dans les conditions fixées par l'article L. 442-11, des
+logements situés dans le périmètre défini pour une opération programmée
 d'amélioration de l'habitat visée à l'article L. 303-1 ainsi que les logements
 appartenant à des personnes privées et vacants depuis plus d'un an.
 
@@ -68,25 +68,26 @@ d'habitation ou à usage professionnel et d'habitation en vue de leur
 location-accession ;
 
 -de réaliser, dans des conditions définies par leurs statuts, pour le compte
-d'associations ou d'organismes agréés dans le domaine du logement social, des
+d'associations ou d'organismes œuvrant dans le domaine du logement, des
 prestations de services pour des opérations ou des actions de nature à favoriser
-l'insertion sociale des personnes et la mixité urbaine et sociale des villes et
-des quartiers ;
+l'insertion sociale des personnes et la mixité urbaine et sociale des villes ;
 
 -de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des
 prestations de services pour des missions rentrant dans l'objet social et la
 compétence territoriale desdits organismes et des organismes prestataires ;
 
--d'acquérir et donner en location à des organismes agréés par arrêté du
-représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
-à l'hébergement temporaire de personnes en difficulté ;
+-d'acquérir et donner en location à des organismes bénéficiant de l'agrément
+relatif à l'intermédiation locative et la gestion locative sociale prévu à
+l'article L. 365-4 des hôtels, meublés ou non, destinés à l'hébergement
+temporaire de personnes en difficulté ;
 
 -d'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
 construits ou acquis soit par elles, soit par un autre organisme d'habitations à
 loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
-organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
-de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
-parts sont détenues à au moins 99 % par cette association ;
+organisme sans but lucratif, l'association mentionnée à l'article l'article L.
+313-34 du code de la construction et de l'habitation précitée ou une des
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ;
 
 -de vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2 et
 aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
@@ -94,7 +95,13 @@ vente d'immeuble à construire prévu aux articles L. 261-1 et suivants ;
 
 -de construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à
 des personnes physiques ou morales des résidences hôtelières à vocation sociale
-prévues à l'article L. 631-11.
+prévues à l'article L. 631-11 ou de prendre des parts dans des sociétés civiles
+immobilières ayant ce même objet et de pouvoir assurer leur gérance ;
+
+-de souscrire à ou d'acquérir des parts ou des actions dans des sociétés pouvant
+réaliser des opérations d'aménagement ou conclure une convention de projet
+urbain partenarial ; cette participation est soumise à l'accord du représentant
+de l'Etat dans le département du lieu de l'opération ou du projet.
 
 Elles peuvent, en outre :
 
@@ -135,9 +142,10 @@ articles L. 444-1 et suivants.
 
 Elles peuvent également réaliser en vue de leur vente, dans les conditions
 prévues aux articles L. 261-1 à L. 261-22, à l'association agréée mentionnée à
-l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles
-immobilières dont les parts sont détenues à au moins 99 % par cette association,
-des immeubles à usage principal d'habitation destinés à la location.
+l'article l'article L. 313-34 du code de la construction et de l'habitation
+précitée ou aux sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association, des immeubles à usage principal d'habitation
+destinés à la location.
 
 Elles peuvent aussi réaliser en vue de leur vente, dans les conditions prévues à
 l'article L. 261-3, pour le compte de personnes publiques ou privées, des
@@ -146,10 +154,19 @@ détenir l'usufruit selon les modalités définies aux articles L. 253-1 à L.
 253-5.
 
 Elles peuvent aussi réaliser des prestations de service pour le compte de
-l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
-précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au
-moins 99 % par cette association, dans des conditions fixées par décret en
-Conseil d'Etat.
+l'association agréée mentionnée à l'article l'article L. 313-34 du code de la
+construction et de l'habitation précitée, ou des sociétés civiles immobilières
+dont les parts sont détenues à au moins 99 % par cette association, dans des
+conditions fixées par décret en Conseil d'Etat.
 
 Elles peuvent aussi assurer la gérance des sociétés civiles immobilières régies
 par les articles L. 443-6-2 et suivants.
+
+Elles peuvent aussi prendre à bail des logements faisant l'objet des conventions
+prévues aux articles L. 321-4 ou L. 321-8 en vue de les sous-louer, meublés ou
+non, aux personnes mentionnées au II de l'article L. 301-1 ou aux personnes
+physiques dont la situation nécessite une solution locative de transition.
+
+Elles peuvent gérer en qualité d'administrateur de biens des logements vacants
+pour les donner en location à des personnes mentionnées au II de l'article L.
+301-1.

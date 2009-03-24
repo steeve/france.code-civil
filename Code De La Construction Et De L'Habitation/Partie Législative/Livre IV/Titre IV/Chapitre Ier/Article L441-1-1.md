@@ -4,22 +4,24 @@ L'établissement public de coopération intercommunale compétent en matière
 d'habitat et disposant d'un programme local de l'habitat adopté peut proposer
 aux organismes disposant d'un patrimoine locatif social dans le ressort
 territorial de cet établissement de conclure pour trois ans un accord collectif
-intercommunal.
+intercommunal. Les représentants des organismes titulaires de droits de
+réservation sur des logements inclus dans ce patrimoine peuvent être signataires
+de l'accord.
 
 Cet accord, qui doit respecter la mixité sociale des villes et des quartiers et
 tenir compte, par secteur géographique, des capacités d'accueil et des
 conditions d'occupation des immeubles constituant le patrimoine des différents
 organismes, définit :
 
-- pour chaque organisme, un engagement annuel quantifié d'attribution de
+-pour chaque organisme, un engagement annuel quantifié d'attribution de
 logements aux personnes connaissant des difficultés économiques et sociales,
 notamment aux personnes et familles mentionnées au deuxième alinéa de l'article
 4 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au
 logement dont les besoins ont été identifiés dans le plan départemental d'action
 pour le logement des personnes défavorisées ;
 
-- les moyens d'accompagnement et les dispositions nécessaires à la mise en
-oeuvre et au suivi de cet engagement annuel.
+-les moyens d'accompagnement et les dispositions nécessaires à la mise en oeuvre
+et au suivi de cet engagement annuel.
 
 Cet accord est soumis pour avis au comité responsable du plan départemental
 d'action pour le logement des personnes défavorisées. Si cet avis n'a pas été
@@ -33,15 +35,15 @@ département, des maires des communes membres de l'établissement public de
 coopération intercommunale, de représentants des bailleurs sociaux présents dans
 le ressort territorial de l'établissement public de coopération intercommunale,
 de représentants du département, de représentants de tout organisme titulaire de
-droits de réservation et de représentants des associations agréées dont l'un des
-objets est l'insertion ou le logement des personnes défavorisées qui oeuvrent
-dans le département. Cette commission a pour mission d'examiner les dossiers des
-demandeurs de logement social concernés par l'accord collectif intercommunal.
-Sans se substituer aux décisions des commissions d'attribution prévues à
-l'article L. 441-2, la commission de coordination émet des avis quant à
-l'opportunité d'attribuer un logement dans le parc social situé dans le ressort
-territorial de l'établissement public. La commission se dote d'un règlement
-intérieur.
+droits de réservation et de représentants des associations et organisations dont
+l'un des objets est l'insertion ou le logement des personnes défavorisées qui
+oeuvrent dans le département. Cette commission a pour mission d'examiner les
+dossiers des demandeurs de logement social concernés par l'accord collectif
+intercommunal. Sans se substituer aux décisions des commissions d'attribution
+prévues à l'article L. 441-2, la commission de coordination émet des avis quant
+à l'opportunité d'attribuer un logement dans le parc social situé dans le
+ressort territorial de l'établissement public. La commission se dote d'un
+règlement intérieur.
 
 Après agrément du représentant de l'Etat dans le département, l'accord collectif
 intercommunal se substitue, sur le territoire où il s'applique, à l'accord

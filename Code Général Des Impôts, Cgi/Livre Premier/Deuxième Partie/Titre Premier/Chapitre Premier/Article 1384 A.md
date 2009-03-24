@@ -58,27 +58,27 @@ respect des critères de qualité environnementale de la construction.
 La définition technique de ces critères, le contenu ainsi que les modalités de
 délivrance du certificat sont fixés par décret en Conseil d'Etat.
 
-I ter. - Pour les constructions de logements mentionnées au deuxième alinéa du
-I, la durée de l'exonération est portée à vingt-cinq ans, lorsqu'elles
-bénéficient d'une décision d'octroi de subvention ou de prêt aidé prise entre le
-1er juillet 2004 et le 31 décembre 2009.
+I ter.-Pour les constructions de logements mentionnées au deuxième alinéa du I,
+la durée de l'exonération est portée à vingt-cinq ans, lorsqu'elles bénéficient
+d'une décision d'octroi de subvention ou de prêt aidé prise entre le 1er juillet
+2004 et le 31 décembre 2014.
 
 La durée d'exonération mentionnée au I bis est portée à trente ans pour les
 constructions qui bénéficient d'une décision d'octroi de subvention ou de prêt
-aidé prise entre le 1er juillet 2004 et le 31 décembre 2009.
+aidé prise entre le 1er juillet 2004 et le 31 décembre 2014.
 
-I quater. - Sont exonérées de taxe foncière sur les propriétés bâties pendant
-une durée de quinze ans à compter de l'année qui suit celle de leur achèvement
-les constructions de logements neufs à usage locatif et affectés à l'habitation
-principale appartenant à l'association mentionnée à l'article 116 de la loi de
-finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles
-immobilières dont cette association détient la majorité des parts lorsqu'elles
-sont financées à concurrence de plus de 50 % par des subventions versées au
-titre de la participation des employeurs à l'effort de construction et qu'elles
-bénéficient des dispositions des 2 ou 3 quinquies du I de l'article 278 sexies.
-La durée d'exonération est portée à vingt-cinq ans pour les constructions qui
-bénéficient d'une décision d'octroi de subvention prise entre le 1er mars 2007
-et le 31 décembre 2009.
+I quater.-Sont exonérées de taxe foncière sur les propriétés bâties pendant une
+durée de quinze ans à compter de l'année qui suit celle de leur achèvement les
+constructions de logements neufs à usage locatif et affectés à l'habitation
+principale appartenant à l'association mentionnée à l'article L. 313-34 du code
+de la construction et de l'habitation ou aux sociétés civiles immobilières dont
+cette association détient la majorité des parts lorsqu'elles sont financées à
+concurrence de plus de 50 % par des subventions versées au titre de la
+participation des employeurs à l'effort de construction et qu'elles bénéficient
+des dispositions des 2 ou 3 quinquies du I de l'article 278 sexies. La durée
+d'exonération est portée à vingt-cinq ans pour les constructions qui bénéficient
+d'une décision d'octroi de subvention prise entre le 1er mars 2007 et le 31
+décembre 2014.
 
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde
@@ -90,14 +90,14 @@ Avant le 31 décembre de chaque année, la commission mentionnée à l'article L
 services fiscaux du lieu de situation de ces logements la liste des logements et
 de leurs propriétaires répondant aux conditions mentionnées au premier alinéa.
 
-III. - Les constructions de logements neufs affectés à l'habitation principale
+III.-Les constructions de logements neufs affectés à l'habitation principale
 faisant l'objet d'un contrat de location-accession en application de la loi n°
 84-595 du 12 juillet 1984 définissant la location-accession à la propriété
 immobilière sont exonérées de taxe foncière sur les propriétés bâties pendant
 une durée de quinze ans à compter de l'année suivant celle de leur achèvement
 lorsqu'elles font l'objet, dans des conditions fixées par décret, d'une
 convention et d'une décision d'agrément prise par le représentant de l'Etat dans
-le département. L'exonération est maintenue pour la période restant à courir
+le département.L'exonération est maintenue pour la période restant à courir
 lorsque le locataire-accédant lève l'option, le cas échéant jusqu'à la date de
 cession du logement, ou lorsque le logement fait l'objet d'un nouveau contrat de
 location-accession respectant les mêmes conditions que le précédent contrat ou

@@ -12,6 +12,7 @@ décision motivée, fait procéder d'office à leur exécution.
 
 Si l'inexécution de travaux prescrits portant sur les parties communes d'un
 immeuble en copropriété résulte de la défaillance de certains copropriétaires,
-la commune peut se substituer à ceux-ci pour les sommes exigibles à la date
-votée par l'assemblée générale des copropriétaires. Elle est alors subrogée dans
-les droits et actions du syndicat à concurrence des sommes par elle versées.
+sur décision motivée du maire, la commune peut se substituer à ceux-ci pour les
+sommes exigibles à la date votée par l'assemblée générale des copropriétaires.
+Elle est alors subrogée dans les droits et actions du syndicat à concurrence des
+sommes par elle versées.

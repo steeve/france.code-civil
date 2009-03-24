@@ -1,12 +1,13 @@
 Article L452-4-1
 ----
-Les organismes d'habitations à loyer modéré et les sociétés d'économie mixte, au
-titre des logements locatifs et des logements-foyers visés au troisième alinéa
-de l'article L. 452-4, versent, au premier trimestre de chaque année, une
-cotisation additionnelle à la Caisse de garantie du logement locatif social.
-Elle est due pour l'année entière par le redevable qui exerce l'activité
-assujettie à cette cotisation le 1er janvier. La cotisation additionnelle
-comprend :
+Les organismes d'habitations à loyer modéré, les organismes bénéficiant de
+l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 et les
+sociétés d'économie mixte, au titre des logements locatifs et des
+logements-foyers visés au troisième alinéa de l'article L. 452-4, versent, au
+premier trimestre de chaque année, une cotisation additionnelle à la Caisse de
+garantie du logement locatif social. Elle est due pour l'année entière par le
+redevable qui exerce l'activité assujettie à cette cotisation le 1er janvier. La
+cotisation additionnelle comprend :
 
 a) Une part égale au produit d'une somme forfaitaire par le nombre de logements
 à usage locatif sur lesquels l'organisme est titulaire d'un droit réel au 31
@@ -36,11 +37,3 @@ dans les limites de 15 %, par un arrêté pris dans les mêmes formes.
 
 Les dispositions des articles L. 452-5 et L. 452-6 sont applicables à la
 cotisation additionnelle.
-
-Une fraction des cotisations additionnelles perçues par la Caisse de garantie du
-logement locatif social est affectée au versement d'une contribution à l'Agence
-nationale pour la rénovation urbaine. Un arrêté des ministres chargés du
-logement, de la ville, de l'économie et des finances fixe, après avis du conseil
-d'administration de la Caisse de garantie du logement locatif social, la
-proportion, comprise entre 40 % et 50 %, des cotisations additionnelles
-affectées à cette contribution.

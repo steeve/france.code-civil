@@ -35,6 +35,5 @@ et mentionnés au quatrième alinéa de l'article 41 ter de la loi n° 86-1290 d
 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
 propriété de logements sociaux et le développement de l'offre foncière ;
 
-7° Logements appartenant à l'association foncière mentionnée à l'article 116 de
-la loi de finances pour 2002 (loi n° 2001-1275 du 28 décembre 2001) ou à l'une
-de ses filiales.
+7° Logements appartenant à l'association foncière mentionnée à l'article 313-34
+du code de la construction et de l'habitation ou à l'une de ses filiales.

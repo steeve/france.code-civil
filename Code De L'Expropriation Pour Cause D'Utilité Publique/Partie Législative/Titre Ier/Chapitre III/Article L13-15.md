@@ -1,6 +1,6 @@
 Article L13-15
 ----
-I - Les biens sont estimés à la date de la décision de première instance ;
+I-Les biens sont estimés à la date de la décision de première instance ;
 toutefois, et sous réserve de l'application des dispositions du II du présent
 article, sera seul pris en considération l'usage effectif des immeubles et
 droits réels immobiliers un an avant l'ouverture de l'enquête prévue à l'article
@@ -22,7 +22,7 @@ par la perspective de modifications aux règles d'utilisation des sols ;
 par la réalisation dans les trois années précédant l'enquête publique, de
 travaux publics dans l'agglomération où est situé l'immeuble.
 
-II - 1° La qualification de terrains à bâtir, au sens du présent code, est
+II-1° La qualification de terrains à bâtir, au sens du présent code, est
 réservée aux terrains qui, un an avant l'ouverture de l'enquête prévue à
 l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la
 déclaration d'utilité publique sont, quelle que soit leur utilisation, tout à la
@@ -67,9 +67,9 @@ loi n° 2156 du 26 mai 1941, relative au recensement, à la protection et à
 l'utilisation des locaux et terrains de sports, des bassins de natation et des
 piscines, ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article
 19 de la loi n° 75-988 du 29 octobre 1975 relative au développement de
-l'éducation physique et du sport, "l'indemnité d'expropriation doit être fixée
+l'éducation physique et du sport, " l'indemnité d'expropriation doit être fixée
 en tenant compte exclusivement de la destination sportive de l'immeuble et des
-installations qu'il comporte."
+installations qu'il comporte. "
 
 4° Lorsqu'il s'agit de l'expropriation d'un terrain réservé par un plan
 d'occupation des sols au sens du 8° de l'article L. 123-1 du code de
@@ -79,3 +79,12 @@ ci-dessus est alors celle à laquelle est devenu opposable aux tiers le plus
 récent des actes rendant public, approuvant, révisant ou modifiant le plan
 d'occupation des sols et délimitant la zone dans laquelle est situé
 l'emplacement réservé.
+
+III.-La valeur d'un fonds de commerce portant sur l'exploitation d'un
+établissement aux fins d'hébergement est estimée en prenant en compte la réalité
+de la gestion hôtelière de l'établissement et est réduite, le cas échéant, du
+montant estimé des travaux nécessaires pour assurer la sécurité ou la salubrité
+des locaux tels que résultant notamment de l'exécution des mesures de police
+prescrites au propriétaire ou à l'exploitant ainsi que de celui des frais de
+relogement dus en application des articles L. 521-1 à L. 521-4 du code de la
+construction et de l'habitation.

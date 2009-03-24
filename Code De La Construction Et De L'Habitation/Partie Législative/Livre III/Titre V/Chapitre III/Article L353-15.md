@@ -14,23 +14,26 @@ l'attribution dans le parc du même bailleur d'un autre logement mentionné au
 même article est ramené à un mois. Ce délai est de deux mois si les deux
 logements appartiennent à des bailleurs différents.
 
-III. Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a
-obtenu du représentant de l'Etat dans le département l'autorisation de démolir
-visée à l'article L. 443-15-1.
+III. En cas d'autorisation de démolir visée à l'article L. 443-15-1 ou de
+démolition prévue par une convention visée à l'article 10 de la loi n° 2003-710
+du 1er août 2003 d'orientation et de programmation pour la ville et la
+rénovation urbaine, le locataire ayant refusé trois offres de relogement
+respectant les conditions prévues à l'article 13 bis de la loi n° 48-1360 du 1er
+septembre 1948 précitée ne bénéficie plus du droit au maintien dans les lieux.
+Toutefois, cette condition n'est pas exigée du bailleur qui démontre qu'un
+logement, répondant aux conditions du même article 13 bis, a été spécialement
+conçu pour le relogement du locataire.A l'expiration d'un délai de six mois à
+compter de la notification de la troisième offre de relogement, le locataire est
+déchu de tout titre d'occupation des locaux loués.
 
-Le bailleur donne un préavis de six mois à chacun des occupants pour vider les
-lieux. Les locaux ainsi rendus disponibles ne peuvent être réoccupés avant le
-début des travaux.
+Les locaux ainsi rendus disponibles ne peuvent être réoccupés avant le début des
+travaux.
 
-Le relogement doit être assuré dans des conditions conformes aux dispositions
-prévues par l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948
-précitée.
-
-IV. A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation
+IV.A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation
 contraire, les charges récupérables sont exigibles dans les conditions prévues à
 l'article L. 442-3.
 
-V. N'ont pas droit au maintien dans les lieux les personnes bénéficiant d'un
+V.N'ont pas droit au maintien dans les lieux les personnes bénéficiant d'un
 hébergement en application des articles L. 521-3-1 et L. 521-3-2 si elles
 refusent de réintégrer leur logement à l'issue des travaux ou si elles refusent
 une offre de relogement correspondant à leurs besoins et à leurs possibilités.

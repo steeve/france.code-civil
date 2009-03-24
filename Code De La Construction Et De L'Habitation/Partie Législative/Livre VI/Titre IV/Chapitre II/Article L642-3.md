@@ -11,6 +11,6 @@ L'attributaire de la réquisition peut être :
 4° Une société d'économie mixte dont l'objet est de construire ou de donner à
 bail des logements ;
 
-5° Un organisme dont l'un des objets est de contribuer au logement des personnes
-défavorisées et agréé à cette fin par le représentant de l'Etat dans le
-département.
+5° Un organisme bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu
+à l'article L. 365-2 ou de l'agrément relatif à l'intermédiation locative et la
+gestion locative sociale prévu à l'article L. 365-4.

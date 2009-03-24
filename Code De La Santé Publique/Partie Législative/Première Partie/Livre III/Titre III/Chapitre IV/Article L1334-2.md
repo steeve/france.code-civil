@@ -39,10 +39,12 @@ l'arrondissement où est situé l'immeuble, ainsi que par affichage sur la faça
 de l'immeuble.
 
 Le représentant de l'Etat procède de même lorsque le diagnostic mentionné à
-l'article précédent met en évidence la présence de revêtements dégradés
-contenant du plomb à des concentrations supérieures aux seuils définis par
-arrêté des ministres chargés de la santé et de la construction et constituant un
-risque d'exposition au plomb pour un mineur.
+l'article précédent ou, sous réserve de validation par l'autorité sanitaire, le
+constat de risque d'exposition au plomb mentionné à l'article L. 1334-5 met en
+évidence la présence de revêtements dégradés contenant du plomb à des
+concentrations supérieures aux seuils définis par arrêté des ministres chargés
+de la santé et de la construction et constituant un risque d'exposition au plomb
+pour un mineur.
 
 Dans le délai de dix jours à compter de la notification de la décision du
 représentant de l'Etat dans le département, le propriétaire ou le syndicat des

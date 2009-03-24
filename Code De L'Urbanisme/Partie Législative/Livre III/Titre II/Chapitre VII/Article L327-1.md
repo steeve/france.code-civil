@@ -15,6 +15,10 @@ groupements de collectivités territoriales qui en sont membres, toute opératio
 d'aménagement au sens du présent code.
 
 Les sociétés publiques locales d'aménagement revêtent la forme de société
-anonyme régie par le livre II du code de commerce et par le chapitre IV du titre
-II du livre V de la première partie du code général des collectivités
-territoriales.
+anonyme régie par le livre II du code de commerce. Toutefois, par exception à la
+deuxième phrase de l'article L. 225-1 du même code, elles peuvent être composées
+de deux actionnaires ou plus.
+
+Les sociétés publiques locales d'aménagement sont soumises aux dispositions du
+chapitre IV du titre II du livre V de la première partie du code général des
+collectivités territoriales.

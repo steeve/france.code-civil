@@ -17,3 +17,14 @@ propriétaire d'aucun logement.
 Les dispositions du deuxième alinéa de l'article 22 de la loi n° 65-557 du 10
 juillet 1965 précitée ne s'appliquent pas à l'organisme d'habitations à loyer
 modéré vendeur.
+
+Dans les copropriétés issues de la vente de logements locatifs réalisée en
+application de la présente section dans lesquelles un organisme d'habitations à
+loyer modéré détient au moins un logement, celui-ci peut, en tant que de besoin,
+mettre son personnel à disposition du syndicat des copropriétaires afin
+d'assurer des missions de gardiennage, d'agent de propreté, d'élimination des
+déchets, d'entretien technique courant et de veille de bon fonctionnement des
+équipements communs. Cette prestation de mise à disposition de personnel
+bénéficie de l'exonération de taxe sur la valeur ajoutée prévue à l'article 261
+B du code général des impôts lorsque les conditions prévues par cet article sont
+remplies.

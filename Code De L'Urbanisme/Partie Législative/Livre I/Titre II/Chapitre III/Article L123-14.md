@@ -15,10 +15,17 @@ révision ou à la modification n'est pas suivie, dans un délai de six mois à
 compter de la notification initiale du préfet, d'une délibération approuvant le
 projet correspondant.
 
-Le préfet met également en oeuvre la procédure prévue aux deux alinéas
-précédents lorsque, à l'issue du délai de trois ans mentionné au dernier alinéa
-de l'article L. 123-1, le plan local d'urbanisme n'a pas été rendu compatible
-avec les orientations d'un schéma de cohérence territoriale, d'un schéma de
-secteur, d'un schéma de mise en valeur de la mer, d'une charte de parc naturel
-régional ou de parc national, d'un plan de déplacements urbains ou d'un
-programme local de l'habitat.
+Le préfet met également en œuvre la procédure prévue aux deux alinéas précédents
+lorsque :
+
+-à l'issue du délai de trois ans mentionné à la première phrase du dernier
+alinéa de l'article L. 123-1, le plan local d'urbanisme n'a pas été rendu
+compatible avec les orientations d'un schéma de cohérence territoriale, d'un
+schéma de secteur, d'un schéma de mise en valeur de la mer, d'une charte de parc
+naturel régional ou de parc national, d'un plan de déplacements urbains ou d'un
+programme local de l'habitat ;
+
+-à l'issue du délai d'un an mentionné à la seconde phrase du dernier alinéa de
+l'article L. 123-1, le plan local d'urbanisme n'a pas été rendu compatible avec
+la réalisation d'un ou plusieurs programmes de logements prévus par le programme
+local de l'habitat et nécessitant une modification dudit plan.

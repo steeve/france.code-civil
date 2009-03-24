@@ -8,9 +8,9 @@ modéré ou des immeubles à usage principal d'habitation appartenant à l'Etat,
 une collectivité territoriale ou à un groupement de collectivités territoriales,
 à une société d'économie mixte de construction et de gestion de logements
 sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
-à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
-2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
-moins 99 % par cette association ;
+à l'article L. 313-34 du code de la construction et de l'habitation ou aux
+sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par
+cette association ;
 
 2° Réaliser des hébergements de loisirs à vocation sociale tels que des villages
 de vacances, des maisons familiales de vacances, des terrains aménagés de

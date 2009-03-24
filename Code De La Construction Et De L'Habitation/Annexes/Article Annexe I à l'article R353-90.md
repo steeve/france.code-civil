@@ -1,8 +1,8 @@
 Article Annexe I à l'article R353-90
 ----
-Convention type conclue entre l'Etat et ... (1) en application de l'article L.
-351-2 (3°) du code de la construction et de l'habitation pour le programme de
-....
+Convention type conclue entre l'Etat et... (1) en application de l'article L.
+351-2 (3°) du code de la construction et de l'habitation pour le programme
+de....
 
 Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le
 préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un
@@ -12,38 +12,37 @@ intercommunale ou du conseil général,
 
 D'une part,
 
-et ... (1), ou ... et ... représentée par ... (2) dénommé(e) ci-après le
-bailleur,
+et... (1), ou... et... représentée par... (2) dénommé (e) ci-après le bailleur,
 
 D'autre part,
 
 sont convenus de ce qui suit :
 
-I. - Dispositions générales.
+I.-Dispositions générales.
 
 Article 1er.
 
 Objet de la convention.
 
-1.1. Cas d'une opération de construction de logements bénéficiant du taux de TVA
-réduit mentionné à l'article 278 sexies I du code général des impôts.
+1. 1. Cas d'une opération de construction de logements bénéficiant du taux de
+TVA réduit mentionné à l'article 278 sexies I du code général des impôts.
 
 La présente convention a pour objet de fixer les droits et les obligations des
 parties prévus par les articles L. 353-1 à L. 353-12 et L. 353-20 du code de la
-construction et de l'habitation pour le programme de ... décrit plus précisément
+construction et de l'habitation pour le programme de... décrit plus précisément
 dans le document joint à la présente convention, faisant l'objet d'une décision
 favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du
 code de la construction et de l'habitation, pour la construction de logements à
 usage locatif.
 
-1.2. Cas d'une opération d'acquisition de logements bénéficiant du taux de TVA
+1. 2. Cas d'une opération d'acquisition de logements bénéficiant du taux de TVA
 réduit mentionné au 3 du I de l'article 278 sexies du code général des impôts
 par un bailleur autre qu'un organisme d'habitations à loyer modéré ou par une
 société d'économie mixte.
 
 La présente convention a pour objet de fixer les droits et les obligations des
 parties prévus par les articles L. 353-1 à L. 353-12 et L. 353-20 du code de la
-construction et de l'habitation pour le programme de ... décrit plus précisément
+construction et de l'habitation pour le programme de... décrit plus précisément
 dans le document joint à la présente convention, ayant fait l'objet d'une
 décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
 331-6 du code de la construction et de l'habitation.
@@ -52,8 +51,8 @@ La présente convention est conclue à l'occasion de l'acquisition d'un ou
 plusieurs logements construits dans les conditions de l'alinéa ci-dessus et dont
 la vente est soumise à la TVA dans les conditions de l'article 278 sexies I-3 du
 code général des impôts. Elle reprend les droits et obligations fixés dans la
-convention n° ... signée le ... et publiée le ... entre ... et ... pour le
-programme de ....
+convention n°... signée le... et publiée le... entre... et... pour le programme
+de....
 
 En particulier, le loyer maximum du ou des logements, révisé dans les conditions
 de la convention passée avec le précédent propriétaire, est inchangé (3).
@@ -62,7 +61,7 @@ La présente convention ouvre, pendant sa durée, le droit à l'aide personnalis
 au logement (APL) dans les conditions définies par le titre V du livre III du
 code de la construction et de l'habitation (CCH).
 
-1.3. Vente des logements bénéficiant du taux réduit de TVA mentionné au 3 du I
+1. 3. Vente des logements bénéficiant du taux réduit de TVA mentionné au 3 du I
 de l'article 278 sexies du code général des impôts.
 
 Lors de la vente à un bailleur par le constructeur d'un logement bénéficiant du
@@ -82,7 +81,7 @@ La présente convention ainsi que ses avenants éventuels prennent effet à la d
 de leur publication au fichier immobilier (ou de leur inscription au livre
 foncier).
 
-Elle expire le 30 juin ....
+Elle expire le 30 juin....
 
 La convention est renouvelée par tacite reconduction par périodes triennales
 prenant effet à compter de leur date d'expiration, sauf résiliation expresse
@@ -106,7 +105,7 @@ Article 3.
 
 Mutations des logements.
 
-3.1. Vente des logements bénéficiant du taux réduit de TVA mentionné au 3 du I
+3. 1. Vente des logements bénéficiant du taux réduit de TVA mentionné au 3 du I
 de l'article 278 sexies du code général des impôts.
 
 Lors de la vente de chaque logement bénéficiant de ce taux réduit de TVA par le
@@ -118,18 +117,18 @@ la suite de la vente du dernier logement, à compter de la publication au fichie
 immobilier ou l'inscription au livre foncier de la convention signée avec
 l'acquéreur.
 
-3.2. Autres mutations.
+3. 2. Autres mutations.
 
-Pour les mutations autres que celles citées au 3.1 du présent article, la
+Pour les mutations autres que celles citées au 3. 1 du présent article, la
 présente convention est transférée de plein droit aux propriétaires successifs
 du ou des logements en application de l'article L. 353-4 du code de la
 construction et de l'habitation. Un avenant à la convention entérine cette
 modification.
 
-3.3. Publicité des mutations.
+3. 3. Publicité des mutations.
 
 La présente convention est jointe à tout acte de mutation autre que celles
-citées à l'article 3.1. Elle donne lieu à l'inscription hypothécaire prévue à
+citées à l'article 3. 1. Elle donne lieu à l'inscription hypothécaire prévue à
 l'article L. 353-3 du code de la construction et de l'habitation.
 
 Article 4.
@@ -142,10 +141,10 @@ locatifs, dans les conditions prévues par l'article 40 III, et aux dispositions
 de la présente convention.
 
 Lorsque le logement appartient à l'association foncière mentionnée à l'article
-116 de la loi de finances pour 2002 ou à l'une de ses filiales, les dispositions
-de l'article L. 353-15-1 du code de la construction et de l'habitation, relatif
-à la prévention des expulsions pour les bénéficiaires de l'aide personnalisée au
-logement, sont applicables.
+L. 313-34 du code de la construction et de l'habitation ou à l'une de ses
+filiales, les dispositions de l'article L. 353-15-1 du code de la construction
+et de l'habitation, relatif à la prévention des expulsions pour les
+bénéficiaires de l'aide personnalisée au logement, sont applicables.
 
 Article 5.
 
@@ -155,7 +154,7 @@ Le bénéfice de l'APL est accordé ou modifié respectivement à compter de la 
 d'effet de la convention ou de ses avenants conformément aux articles L. 351-3-1
 et R. 351-3 du code de la construction et de l'habitation.
 
-II. - Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de
+II.-Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de
 location des logements.
 
 Article 6.
@@ -198,16 +197,17 @@ revenus n'excèdent pas les plafonds de ressources fixés en application de
 l'article R. 331-12 du code de la construction et de l'habitation.
 
 Lorsque les logements appartiennent à l'association foncière mentionnée à
-l'article 116 de la loi de finances pour 2002 ou à l'une de ses filiales, le
-bailleur s'engage à louer, lors de la mise en service de l'immeuble :
+l'article l'article L. 313-34 du code de la construction et de l'habitation ou à
+l'une de ses filiales, le bailleur s'engage à louer, lors de la mise en service
+de l'immeuble :
 
-- logements au moins à des ménages dont les ressources n'excèdent pas 60 % des
+-logements au moins à des ménages dont les ressources n'excèdent pas 60 % des
 plafonds fixés pour l'attribution des logements appartenant aux organismes
 d'habitation à loyer modéré ;
 
-- logements au plus à des ménages dont les ressources excèdent les plafonds
-fixés pour l'attribution des logements appartenant aux organismes d'habitation à
-loyer modéré, dans la limite de 130 % de ces plafonds.
+-logements au plus à des ménages dont les ressources excèdent les plafonds fixés
+pour l'attribution des logements appartenant aux organismes d'habitation à loyer
+modéré, dans la limite de 130 % de ces plafonds.
 
 Article 8.
 
@@ -218,11 +218,11 @@ l'article R. 353-16. Il est fixé pour chaque logement dans le document intitul�
 Composition du programme annexé à la présente convention.
 
 Lorsque les logements appartiennent à l'association foncière mentionnée à
-l'article 116 de la loi de finances pour 2002 ou à l'une de ses filiales, le
-loyer maximum est fixé à ... euros par mètres carrés de surface utile pour les
-locataires dont les ressources n'excèdent pas 60 % des plafonds fixés pour
-l'attribution des logements appartenant aux organismes d'habitation à loyer
-modéré.
+l'article l'article L. 313-34 du code de la construction et de l'habitation ou à
+l'une de ses filiales, le loyer maximum est fixé à... euros par mètres carrés de
+surface utile pour les locataires dont les ressources n'excèdent pas 60 % des
+plafonds fixés pour l'attribution des logements appartenant aux organismes
+d'habitation à loyer modéré.
 
 Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner
 lieu à la perception d'un loyer accessoire, dans les conditions définies dans le
@@ -250,7 +250,7 @@ dans les conditions prévues à l'article 17 d de la loi n° 89-462 du 6 juillet
 2° Peut être réévalué à chaque renouvellement du contrat de location selon les
 modalités définies par l'article 17 c de la loi modifiée du 6 juillet 1989.
 
-III. - Engagements du bailleur à l'égard des locataires.
+III.-Engagements du bailleur à l'égard des locataires.
 
 Article 10.
 
@@ -333,14 +333,14 @@ commission départementale des aides publiques au logement visée à l'article 1
 de la présente convention en cas de non-règlement de la dette.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière
-mentionnée à l'article 116 de la loi de finances pour 2002 (loi n° 2001-1275 du
-28 décembre 2001) ou à l'une de ses filiales, et que le locataire bénéficie de
-l'aide personnalisée au logement, le bailleur ne peut faire délivrer une
-assignation aux fins de constat de résiliation du bail avant l'expiration d'un
-délai de trois mois suivant la saisine de la commission mentionnée à l'article
-L. 351-14 en vue d'assurer le maintien du versement de l'aide personnalisée au
-logement, sauf si la décision de cette commission intervient avant l'expiration
-de ce délai.
+mentionnée à l'article l'article L. 313-34 du code de la construction et de
+l'habitation (loi n° 2001-1275 du 28 décembre 2001) ou à l'une de ses filiales,
+et que le locataire bénéficie de l'aide personnalisée au logement, le bailleur
+ne peut faire délivrer une assignation aux fins de constat de résiliation du
+bail avant l'expiration d'un délai de trois mois suivant la saisine de la
+commission mentionnée à l'article L. 351-14 en vue d'assurer le maintien du
+versement de l'aide personnalisée au logement, sauf si la décision de cette
+commission intervient avant l'expiration de ce délai.
 
 Article 15.
 
@@ -350,7 +350,7 @@ Le dépôt de garantie stipulé le cas échéant par le contrat de location pour
 garantir l'exécution de ses obligations locatives par le locataire ne peut être
 supérieur à deux mois de loyer en principal.
 
-IV. - Engagements à l'égard des organismes chargés de la liquidation et du
+IV.-Engagements à l'égard des organismes chargés de la liquidation et du
 paiement de l'APL et à l'égard de la commission départementale des aides
 publiques au logement.
 
@@ -402,7 +402,7 @@ pour non-paiement du loyer.
 La CDAPL décide du maintien ou de la suspension de l'APL et en informe le
 bailleur et le bénéficiaire.
 
-V. - Dispositions relatives à l'application des conventions.
+V.-Dispositions relatives à l'application des conventions.
 
 Article 18.
 
@@ -424,26 +424,26 @@ officiel des impôts du 4 mars 1997, relative à la taxe sur la valeur ajoutée
 applicable à la construction ou à la livraison d'immeubles d'habitation neufs
 destinés à usage locatif à caractère social :
 
-"Conformément à l'article 284 (2°) du code général des impôts, les bailleurs qui
-ont imposé la livraison à soi-même de logements sociaux au taux de 5,5 % sont
-tenus de verser le complément de TVA résultant de la différence entre le taux
-réduit et le taux normal lorsque les conditions d'application du taux réduit ne
-sont pas ou plus remplies.
+" Conformément à l'article 284 (2°) du code général des impôts, les bailleurs
+qui ont imposé la livraison à soi-même de logements sociaux au taux de 5, 5 %
+sont tenus de verser le complément de TVA résultant de la différence entre le
+taux réduit et le taux normal lorsque les conditions d'application du taux
+réduit ne sont pas ou plus remplies.
 
-"De même, en application de l'article 284 (3°) du même code, les bailleurs qui
-ont acquis un immeuble neuf sous le bénéfice du taux réduit de 5,5 % sont
+" De même, en application de l'article 284 (3°) du même code, les bailleurs qui
+ont acquis un immeuble neuf sous le bénéfice du taux réduit de 5, 5 % sont
 redevables d'un complément de TVA égal à la différence entre le taux réduit et
 le taux normal lorsque les conditions de taxation de vente au taux réduit ne
 sont pas ou plus remplies.
 
-"Dans ces deux situations, l'événement qui détermine l'exigibilité du
+" Dans ces deux situations, l'événement qui détermine l'exigibilité du
 reversement est constitué par la rupture de la convention conclue avec l'Etat en
 application de l'article L. 351-2-3° du code de la construction et de
 l'habitation, c'est-à-dire la cessation d'une affectation réelle à la location à
 caractère social.
 
-"Cet événement détermine par ailleurs le point de départ de la prescription de
-l'action de contrôle de l'administration".
+" Cet événement détermine par ailleurs le point de départ de la prescription de
+l'action de contrôle de l'administration ".
 
 2. Sanctions administratives.
 
@@ -494,9 +494,9 @@ Publication.
 La publication de la convention, de ses éventuels avenants et de sa résiliation
 au fichier immobilier ou leur inscription au livre foncier incombe au préfet,
 ou, lorsqu'un établissement public de coopération intercommunale ou un
-département a signé une convention mentionnée aux articles L. 301-5-1 et
-L.301-5-2, au président de l'établissement public de coopération intercommunale
-ou du conseil général. Les frais de publication sont à la charge du bailleur.
+département a signé une convention mentionnée aux articles L. 301-5-1 et L.
+301-5-2, au président de l'établissement public de coopération intercommunale ou
+du conseil général. Les frais de publication sont à la charge du bailleur.
 
 Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou
 un département a signé une convention mentionnée aux articles L. 301-5-1 et L.
@@ -514,14 +514,14 @@ La présente convention pourra être révisée tous les trois ans à la demande 
 l'une ou l'autre des parties par voie d'avenant. Les frais de publication sont
 pris en charge par la partie qui sollicite la révision.
 
-Fait en quatre originaux à ..., le ....
+Fait en quatre originaux à..., le....
 
 Le bailleur (4), le préfet, le président de l'établissement public de
 coopération intercommunale ou le président du conseil général.
 
 Article 22.
 
-Description du programme de ....
+Description du programme de....
 
 1. Désignation du ou des immeubles (5) :
 
@@ -529,19 +529,19 @@ Description du programme de ....
 
 Les éléments ci-après sont décrits par immeuble ou programme immobilier :
 
-A. - Locaux auxquels s'applique la présente convention :
+A.-Locaux auxquels s'applique la présente convention :
 
 1. Nombre de logements locatifs par type de logements avec numéro de logements :
 
-2. Surface habitable totale (art. R. 111-2) :
+2. Surface habitable totale (art.R. 111-2) :
 
-3. Surface totale des annexes entrant dans le calcul de la surface utile (art.
-R. 353-16, 2°) :
+3. Surface totale des annexes entrant dans le calcul de la surface utile (art.R.
+353-16, 2°) :
 
 3 bis. Liste de ces annexes, conforme à l'arrêté du 9 mai 1995 modifié du
 ministre du logement pris en application de l'article R. 353-16 :
 
-4. Surface utile totale de l'opération (art. R. 353-16, 2°) :
+4. Surface utile totale de l'opération (art.R. 353-16, 2°) :
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour
 le calcul du loyer :
@@ -593,9 +593,9 @@ Ce sont les annexes ou parties d'annexes qui n'entrent pas dans le calcul de la
 surface utile, soit les emplacements réservés au stationnement des véhicules,
 les terrasses, cours et jardins faisant l'objet d'une jouissance exclusive :
 
-Type d'annexe définie à l'article R. 353-16, dernier alinéa du 2 o
+Type d'annexe définie à l'article R. 353-16, dernier alinéa du 2oLoyer
 
-Loyer maximum conventionné de l'annexe en F par mois
+maximum conventionné de l'annexe en F par mois
 
 Au cas où ces annexes ne trouveraient pas preneur auprès des locataires de
 l'immeuble ou de tout autre immeuble conventionné appartenant au même bailleur
@@ -605,7 +605,7 @@ faculté n'est utilisable que pour autant qu'aucun locataire du patrimoine
 appartenant ou géré par le bailleur ne manifeste sa volonté de louer les annexes
 en cause.
 
-B. - Locaux auxquels ne s'applique pas la présente convention :
+B.-Locaux auxquels ne s'applique pas la présente convention :
 
 locaux commerciaux (nombre), bureaux (nombre), autres.
 
@@ -613,27 +613,27 @@ locaux commerciaux (nombre), bureaux (nombre), autres.
 
 4. Renseignements administratifs :
 
-4.1. Permis de construire :
+4. 1. Permis de construire :
 
-4.2. Date prévisible ou effective d'achèvement des travaux de construction :
+4. 2. Date prévisible ou effective d'achèvement des travaux de construction :
 
-4.3. Date d'achat du ou des logements :
+4. 3. Date d'achat du ou des logements :
 
-4.4. Modalités de financement :
+4. 4. Modalités de financement :
 
-- financement principal :
+-financement principal :
 
-- date d'octroi du prêt :
+-date d'octroi du prêt :
 
-- date de transfert du prêt :
+-date de transfert du prêt :
 
-- numéro du prêt :
+-numéro du prêt :
 
-- durée :
+-durée :
 
-- financement complémentaire :
+-financement complémentaire :
 
-- subventions éventuelles :
+-subventions éventuelles :
 
 (1) Nom de la personne physique ou morale identifiée conformément aux
 dispositions, selon le cas, des articles 5 ou 6 du décret n° 55-22 du 4 janvier

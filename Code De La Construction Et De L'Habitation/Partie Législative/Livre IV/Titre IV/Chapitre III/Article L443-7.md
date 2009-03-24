@@ -16,7 +16,7 @@ concernée.
 La décision d'aliéner est transmise au représentant de l'Etat dans le
 département qui consulte la commune d'implantation ainsi que les collectivités
 publiques qui ont accordé leur garantie aux emprunts contractés pour la
-construction, l'acquisition ou l'amélioration des logements. A défaut
+construction, l'acquisition ou l'amélioration des logements.A défaut
 d'opposition motivée du représentant de l'Etat dans le département dans un délai
 de deux mois, la décision est exécutoire.
 
@@ -37,8 +37,9 @@ vente permet le maintien quantitatif et qualitatif de l'offre locative. Il peut
 
 L'organisme d'habitations à loyer modéré indique par écrit à l'acquéreur
 personne physique, préalablement à la vente, le montant des charges locatives
-et, le cas échéant, de copropriété des deux dernières années, la récapitulation
-des travaux réalisés les cinq dernières années sur les parties communes et
-fournit, en tant que de besoin, une liste des travaux d'amélioration des parties
-communes et des éléments d'équipement commun qu'il serait souhaitable
-d'entreprendre.
+et, le cas échéant, de copropriété des deux dernières années, et lui transmet la
+liste des travaux réalisés les cinq dernières années sur les parties communes.
+En tant que de besoin, il fournit une liste des travaux d'amélioration des
+parties communes et des éléments d'équipement commun qu'il serait souhaitable
+d'entreprendre, accompagnée d'une évaluation du montant global de ces travaux et
+de la quote-part imputable à l'acquéreur.

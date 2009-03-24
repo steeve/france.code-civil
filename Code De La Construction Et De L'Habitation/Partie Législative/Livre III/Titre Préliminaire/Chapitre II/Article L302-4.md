@@ -2,7 +2,14 @@ Article L302-4
 ----
 Le programme local de l'habitat peut être modifié par l'organe délibérant de
 l'établissement public de coopération intercommunale à condition qu'il ne soit
-pas porté atteinte à son économie générale.
+pas porté atteinte à son économie générale :
+
+a) Pour être mis en conformité avec les dispositions législatives et
+réglementaires relatives à la politique du logement entrées en vigueur après son
+adoption ;
+
+b) Pour tenir compte des évolutions du contexte démographique, économique et
+social.
 
 Lorsque le périmètre de l'établissement public de coopération intercommunale est
 étendu à une ou plusieurs communes, le programme local de l'habitat peut faire

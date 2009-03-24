@@ -55,21 +55,22 @@ l'immeuble ou de la partie d'immeuble ;
 
 7° Qui sont cédés avant le 31 décembre 2009 à un organisme d'habitations à loyer
 modéré, à une société d'économie mixte gérant des logements sociaux, à
-l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n°
-2001-1275 du 28 décembre 2001), aux sociétés civiles immobilières dont cette
-association détient la majorité des parts pour les logements visés au 4° de
-l'article L. 351-2 du code de la construction et de l'habitation ou à un
-organisme mentionné à l'article L. 365-1 du code de la construction et de
-l'habitation.
+l'association mentionnée à l'article L. 313-34 du code de la construction et de
+l'habitation, aux sociétés civiles immobilières dont cette association détient
+la majorité des parts pour les logements visés au 4° de l'article L. 351-2 du
+code de la construction et de l'habitation ou à un organisme bénéficiant de
+l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 du code de
+la construction et de l'habitation.
 
 8° Qui sont cédés avant le 31 décembre 2009 à une collectivité territoriale, à
 un établissement public de coopération intercommunale compétent ou à un
 établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code
 de l'urbanisme en vue de leur cession à l'un des organismes mentionnés au 7° ;
 en cas de non respect de cette condition dans un délai d'un an à compter de
-l'acquisition des biens, la collectivité territoriale, l'établissement public de
-coopération intercommunale compétent ou l'établissement public foncier reverse à
-l'Etat le montant dû au titre du I.
+l'acquisition des biens, la collectivité territoriale ou l'établissement public
+de coopération intercommunale compétent reverse à l'Etat le montant dû au titre
+du I ; ce délai est porté à trois ans pour les cessions réalisées par un
+établissement public foncier au profit de l'un des organismes mentionnés au 7°.
 
 III.-Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les
 titulaires de pensions de vieillesse ou de la carte d'invalidité correspondant

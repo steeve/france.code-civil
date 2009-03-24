@@ -1,13 +1,13 @@
 Article L313-26-1
 ----
 Lorsque, dans le cadre d'un dispositif d'accession sociale à la propriété par
-portage foncier prévu par une convention conclue entre l'Etat et l'Union
-d'économie sociale du logement, un bail à construction est signé par une
-personne morale désignée par un associé de cette union et par un ménage accédant
-pour la première fois à la propriété de sa résidence principale et disposant de
-ressources inférieures à des plafonds fixés par voie réglementaire, les droits
-résultant du bail à construction ne peuvent être cédés qu'en totalité et avec
-l'agrément du bailleur.
+portage foncier prévu par décret en Conseil d'Etat un bail à construction est
+signé par une personne morale désignée par un associé de l'Union d'économie
+sociale du logement et par un ménage accédant pour la première fois à la
+propriété de sa résidence principale et disposant de ressources inférieures à
+des plafonds fixés par voie réglementaire, les droits résultant du bail à
+construction ne peuvent être cédés qu'en totalité et avec l'agrément du
+bailleur.
 
 Cet agrément est accordé de plein droit si le cessionnaire acquiert pour la
 première fois sa résidence principale, dispose de ressources inférieures aux

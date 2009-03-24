@@ -36,3 +36,13 @@ la durée du contrat est portée à un an.
 
 Le locataire peut résilier le contrat à tout moment sous réserve du respect d'un
 préavis d'un mois.
+
+A peine d'irrecevabilité de la demande, l'assignation par l'exploitant d'un
+établissement recevant du public aux fins d'hébergement, aux fins de constat de
+résiliation ou de prononcé de la résiliation du bail d'une personne dont le
+logement loué meublé constitue la résidence principale est notifiée, à la
+diligence de l'huissier de justice, au représentant de l'Etat dans le
+département, par lettre recommandée avec demande d'avis de réception, au moins
+un mois avant l'audience, afin qu'il informe les services compétents, notamment
+les organismes chargés du service des aides au logement et le fonds de
+solidarité pour le logement.

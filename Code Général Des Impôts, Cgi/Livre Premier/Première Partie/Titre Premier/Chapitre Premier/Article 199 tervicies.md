@@ -9,6 +9,11 @@ vue de la restauration complète d'un immeuble bâti :
 valeur de ce secteur est approuvé, soit lorsque la restauration a été déclarée
 d'utilité publique en application de l'article L. 313-4 du même code ;
 
+-jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en
+application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
+mobilisation pour le logement et la lutte contre l'exclusion lorsque la
+restauration a été déclarée d'utilité publique ;
+
 ― situé dans une zone de protection du patrimoine architectural, urbain et
 paysager créée en application des articles L. 642-1 à L. 642-7 du code du
 patrimoine lorsque la restauration a été déclarée d'utilité publique.
@@ -55,7 +60,9 @@ au II, retenues dans la limite annuelle de 100 000 €.
 
 Ce taux est majoré de dix points lorsque les dépenses sont effectuées pour des
 immeubles situés dans un secteur sauvegardé créé en application du I de
-l'article L. 313-1 du code de l'urbanisme.
+l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé
+délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009
+précitée lorsque la restauration a été déclarée d'utilité publique.
 
 IV. ― Lorsque les dépenses portent sur un local à usage d'habitation, le
 propriétaire prend l'engagement de le louer nu, à usage de résidence principale

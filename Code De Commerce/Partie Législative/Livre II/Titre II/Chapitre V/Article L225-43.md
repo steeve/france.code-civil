@@ -14,7 +14,3 @@ La même interdiction s'applique au directeur général, aux directeurs généra
 délégués et aux représentants permanents des personnes morales administrateurs.
 Elle s'applique également aux conjoint, ascendants et descendants des personnes
 visées au présent article ainsi qu'à toute personne interposée.
-
-L'interdiction ne s'applique pas aux prêts qui sont consentis par la société en
-application des dispositions de l'article L. 313-1 du code de la construction et
-de l'habitation aux administrateurs élus par les salariés.
