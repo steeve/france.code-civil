@@ -2,10 +2,7 @@ Article 1461
 ----
 Sont exonérés de la cotisation foncière des entreprises :
 
-1° Les organismes qui bénéficient de l'exonération prévue au 2 de l'article 207
-au cours de la période de référence mentionnée à l'article 1467 A pour leurs
-activités de gestion des contrats mentionnés aux 1° et 2° du 2 de l'article 207
-;
+1° (Abrogé) ;
 
 2° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
 du code de la construction et de l'habitation, les sociétés anonymes de
