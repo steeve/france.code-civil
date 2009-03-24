@@ -28,3 +28,23 @@ l'enseignement supérieur, de l'éducation nationale, de la santé, de l'industr
 et de la protection de la nature fixe la liste des titres, des diplômes et des
 formations spéciales dont doivent justifier les demandeurs d'une autorisation
 d'expérimenter.
+
+La qualification pour obtenir une autorisation d'expérimenter est également
+reconnue, selon des modalités fixées par arrêté du ministre chargé de
+l'agriculture, aux professionnels, autres que ceux mentionnés à l'article R.
+214-99-1, ressortissants d'un Etat membre de la Communauté européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen qui justifient
+d'une attestation de compétence ou d'un titre de formation d'un niveau
+équivalent ou immédiatement inférieur, au sens des articles 11 et 13 de la
+directive 2005 / 36 du 7 septembre 2005, à celui exigé en application de
+l'arrêté mentionné au précédent alinéa. Si l'accès ou l'exercice de ces
+activités n'est pas réglementé dans l'Etat membre d'origine, les professionnels
+doivent en outre justifier de deux années d'expérience professionnelle à temps
+plein au cours des dix dernières années. En cas de différences substantielles
+entre, d'une part, la formation requise en France pour les exercer activités
+mentionnées aux articles R. 214-87 et R. 214-88 et, d'autre part, celle reçue
+par le demandeur, ainsi que les connaissances qu'il a acquises au cours de son
+expérience professionnelle, celui-ci doit, au choix, se soumettre à une épreuve
+d'aptitude ou accomplir un stage d'adaptation d'une durée maximale de trois ans.
+Leur contenu et les modalités de leur organisation sont fixés par arrêté du
+ministre chargé de l'agriculture.
