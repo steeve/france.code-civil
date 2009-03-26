@@ -1,13 +1,10 @@
 Article R5422-1
 ----
-Les durées pendant lesquelles l'allocation d'assurance mentionnées à l'article
-L. 5422-2 est accordée ne peuvent être inférieures à : 1° Sept mois pour les
-salariés justifiant d'une activité de six mois au cours des vingt-deux derniers
-mois précédant la fin du contrat de travail ; 2° Douze mois pour les salariés
-justifiant d'une activité de douze mois au cours des vingt derniers mois
-précédant la fin du contrat de travail ; 3° Vingt-trois mois pour les salariés
-justifiant d'une activité de seize mois au cours des vingt-six derniers mois
-précédant la fin du contrat de travail ; 4° Trente-six mois pour les salariés
-âgés de cinquante ans et plus à la fin de leur contrat de travail justifiant
-d'une activité de vingt-sept mois au cours des trente-six derniers mois
-précédant la fin du contrat de travail.
+La durée pendant laquelle l'allocation d'assurance est accordée ne peut être
+inférieure à la durée d'activité du salarié au cours des vingt-huit mois
+précédant la fin du dernier contrat de travail dans la limite de sept cent
+trente jours ou, pour les salariés âgés de cinquante ans ou plus, à la durée
+d'activité au cours des trente-six mois précédant la fin de ce contrat dans la
+limite de mille quatre-vingt-quinze jours.
+
+Cette durée ne peut être inférieure à cent vingt-deux jours.
