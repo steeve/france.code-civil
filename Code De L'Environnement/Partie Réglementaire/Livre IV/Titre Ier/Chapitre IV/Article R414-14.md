@@ -6,5 +6,5 @@ sommes accordées par l'Etat au titre des contrats Natura 2000.
 
 L'Agence de services et de paiement rend compte de cette activité au ministre
 chargé de l'environnement et au ministre chargé de l'agriculture dans les
-conditions prévues à l'article R. 313-14 du code rural, ainsi qu'au ministre
-chargé des pêches maritimes et de l'aquaculture.
+conditions prévues à l'article R. 313-14 du code rural et de la pêche maritime ,
+ainsi qu'au ministre chargé des pêches maritimes et de l'aquaculture.
