@@ -1,34 +1,54 @@
 Article R313-27
 ----
-Le directeur général accomplit tous les actes qui ne sont pas réservés au
-conseil d'administration en vertu de la présente section ou de dispositions de
-portée générale.
+L'état prévisionnel des recettes et des dépenses comprend notamment :
 
-Il prépare les délibérations du conseil d'administration et en assure
-l'exécution.
+1° En recettes :
 
-Il recrute, nomme et gère les agents du centre. Il a autorité sur l'ensemble du
-personnel de l'établissement. Il représente le centre en justice et dans tous
-les actes de la vie civile ; il décide des actions en justice, dont il rend
-compte au conseil d'administration. Il passe au nom du centre les contrats,
-conventions, marchés et les actes d'acquisition, de vente et de transaction,
-sous réserve des attributions conférées au conseil d'administration en vertu de
-la présente section.
+a) Les versements de l'Etat ou de la Communauté européenne destinés au
+financement des coûts de fonctionnement et d'investissement de l'agence ;
 
-Il est ordonnateur principal des recettes et des dépenses du budget de
-l'établissement.
+b) Les versements de l'Etat ou de la Communauté européenne destinés à des
+dépenses d'intervention et de transfert ;
 
-Il peut désigner des ordonnateurs secondaires et, sur proposition de l'agent
-comptable, des comptables secondaires.
+c) Les versements d'autres personnes que l'Etat ou la Communauté européenne
+destinés à des dépenses d'intervention et de transfert ;
 
-Il engage les dépenses et, sous réserve des exceptions prévues à la présente
-section, liquide les droits et charges de l'établissement ; il émet les ordres
-de recettes et de dépenses.
+d) Les remboursements d'avances et de prêts en matière d'intervention et de
+transfert ;
 
-Il a la faculté de conclure des transactions, dans les conditions prévues par
-les articles 2044 et suivants du code civil, sous réserve de l'accord préalable
-du conseil d'administration ou, en matière de personnel, le cas échéant, dans
-les conditions de la délégation consentie par celui-ci.
+e) Les remboursements d'avances et de prêts autres ;
 
-Il peut déléguer sa signature à des agents du centre dans les limites qu'il
-détermine.
+f) Le produit des taxes fiscales affectées ;
+
+g) Les contributions des organisations professionnelles et organismes du secteur
+intéressé ;
+
+h) Le produit du placement des fonds disponibles ;
+
+i) Les dons et legs ;
+
+j) Les emprunts et lignes de trésorerie ;
+
+k) Le produit des actions de formation ;
+
+l) Les revenus procurés par les participations financières ;
+
+m) Le produit des cessions ;
+
+n) Le produit des redevances pour services rendus ;
+
+o) Le produit des ventes, travaux et prestations ;
+
+p) Des recettes diverses.
+
+2° En dépenses :
+
+a) Les dépenses de personnel ;
+
+b) Les dépenses de fonctionnement ;
+
+c) Les dépenses d'investissement ;
+
+d) Les dépenses de transfert et d'intervention effectuées sous forme d'avances,
+d'acomptes, d'achats, de prêts, de garanties ou de subventions en vertu des
+dispositions nationales et communautaires qui leur sont applicables.
