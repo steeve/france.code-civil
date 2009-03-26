@@ -10,5 +10,5 @@ d'activité agricole aux bénéficiaires ayant achevé leur stage ou remplissant
 conditions qui sanctionnent leur aptitude à exercer un nouvel emploi. Il ne peut
 être accordé que deux primes de départ par exploitation.
 
-Le Centre national pour l'aménagement des structures des exploitations agricoles
-est chargé de la liquidation et du paiement de cette prime.
+L'Agence de services et de paiement est chargé de la liquidation et du paiement
+de cette prime.

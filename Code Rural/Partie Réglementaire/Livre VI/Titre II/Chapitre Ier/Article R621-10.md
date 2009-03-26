@@ -1,22 +1,41 @@
 Article R621-10
 ----
-Le conseil de direction fixe son règlement intérieur, adopte l'état prévisionnel
-des recettes et des dépenses et ses modifications, arrête le compte financier,
-examine le rapport annuel d'activité de l'office et se prononce sur le programme
-de travail annuel de l'établissement. Il est consulté pour avis sur les projets
-de transactions, sur la création de délégations régionales et sur les décisions
-relatives aux acquisitions et cessions patrimoniales mobilières et immobilières
-d'un montant supérieur à 1,5 million d'.
+Pour l'exercice de ses compétences concernant les productions mentionnées au d
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé qui
+comprend, outre son président :
 
-Il est consulté pour avis sur les projets de décisions prévues à l'article R.
-621-21.
+1° Trois représentants de l'Etat :
 
-Le conseil de direction est chargé de suivre l'évolution de la situation des
-marchés et de participer à la politique d'orientation des productions et
-d'organisation de la filière dans le cadre des objectifs de la politique
-agricole commune et des orientations définies par le Conseil supérieur
-d'orientation de l'économie agricole et alimentaire ou par le Conseil supérieur
-d'orientation des politiques halieutique, aquacole et halioalimentaire.
+-le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
 
-Il est associé à l'élaboration des mesures prises en application de la
-réglementation communautaire.
+-le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
+
+-le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+2° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
+
+3° Deux personnalités représentant le secteur coopératif agricole, choisies
+parmi les personnes proposées par les organisations à compétence nationale les
+plus représentatives ;
+
+4° Deux personnalités représentant l'industrie de transformation, choisies parmi
+les personnes proposées par les organisations professionnelles à compétence
+nationale les plus représentatives ;
+
+5° Cinq personnalités représentant le commerce, choisies parmi les personnes
+proposées par les organisations professionnelles à compétence nationale les plus
+représentatives ;
+
+6° Une personnalité représentant les salariés de la filière, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
+
+7° Une personnalité représentant les consommateurs, nommée sur proposition du
+ministre chargé de la consommation.

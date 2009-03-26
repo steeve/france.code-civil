@@ -3,8 +3,8 @@ Article R661-31
 Les matériels commercialisés doivent être accompagnés d'un bulletin de transport
 extrait d'un carnet numéroté.
 
-Les carnets de bulletins de transport sont délivrés par l'Office national
-interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
+Les carnets de bulletins de transport sont délivrés par l'Etablissement national
+des produits de l'agriculture et de la mer (FranceAgriMer).
 
 Ce bulletin doit être présenté à toute réquisition par le transporteur ou le
 détenteur des produits mentionnés. Il tient lieu, pour les viticulteurs

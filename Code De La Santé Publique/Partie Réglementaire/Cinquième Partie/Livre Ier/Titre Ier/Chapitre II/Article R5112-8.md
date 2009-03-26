@@ -25,8 +25,8 @@ vétérinaire ou son représentant ;
 g) Le président du Conseil national de l'ordre des pharmaciens ou son
 représentant ;
 
-h) Le président du conseil de direction de l'Office national interprofessionnel
-des plantes à parfum, aromatiques et médicinales ou son représentant ;
+h) Le président du conseil de direction de l'Etablissement national des produits
+de l'agriculture et de la mer (FranceAgriMer) ou son représentant ;
 
 2° Trois membres, avec voix consultative, représentant les secteurs d'activités
 concernés, nommés par le ministre chargé de la santé :

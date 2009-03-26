@@ -1,40 +1,47 @@
 Article R621-16
 ----
-L'état prévisionnel des recettes et des dépenses de l'office comprend notamment
-:
+Pour l'exercice de ses compétences concernant les productions mentionnées au a
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé qui
+comprend, outre son président :
 
-1° En recettes :
+1° Quatre représentants de l'Etat et de ses établissements publics :
 
-a) Les contributions ou subventions de l'Etat, de collectivités territoriales,
-d'établissements publics ou de la Communauté européenne ;
+-le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
 
-b) Les remboursements d'avances et de prêts ;
+-le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
 
-c) Le produit des redevances pour services rendus ;
+-le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
 
-d) Le produit des ventes et prestations ;
+-une personnalité représentant l'Institut national de l'origine et de la
+qualité, proposée par l'établissement ;
 
-e) Le produit des taxes fiscales affectées ;
+2° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
 
-f) Les contributions des organisations professionnelles et organismes du secteur
-intéressé ;
+3° Trois personnalités représentant le secteur coopératif agricole, choisies
+parmi les personnes proposées par les organisations à compétence nationale les
+plus représentatives ;
 
-g) Le produit du placement des fonds disponibles ;
+4° Six personnalités représentant le commerce et l'industrie, choisies parmi les
+personnes proposées par les organisations professionnelles à compétence
+nationale les plus représentatives ;
 
-h) Les dons et legs ;
+5° Une personnalité représentant les entreprises d'équarrissage, choisie parmi
+les personnes proposées par les organisations professionnelles les plus
+représentatives ;
 
-i) Les emprunts ;
+6° Une personnalité représentant la génétique animale, choisie parmi les
+personnes proposées par les organisations professionnelles représentatives ;
 
-j) Les recettes diverses.
+7° Une personnalité représentant les salariés de la filière, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
 
-2° En dépenses :
-
-a) Les dépenses d'intervention, effectuées sous forme d'avances, d'achats, de
-prêts, de garanties ou de subventions par application de la réglementation de la
-Communauté européenne et des décisions mentionnées à l'article R. 621-21 ;
-
-b) Les dépenses de personnel ;
-
-c) Les dépenses de fonctionnement ;
-
-d) Les dépenses d'investissement.
+8° Une personnalité représentant les consommateurs, proposée par le ministre
+chargé de la consommation.

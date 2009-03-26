@@ -1,20 +1,22 @@
 Article R313-21
 ----
-Participent aux travaux du conseil d'administration avec voix consultative :
+Le conseil d'administration se réunit au moins deux fois par an sur convocation
+du président-directeur général, qui fixe l'ordre du jour de la séance.
 
-a) Le commissaire du Gouvernement ;
+La convocation du conseil d'administration est de droit si elle est demandée par
+la moitié au moins de ses membres ou par le commissaire du Gouvernement.
 
-b) Quatre personnalités au maximum, désignées en raison de leur compétence
-particulière par arrêté conjoint des ministres chargés de l'agriculture, de la
-formation professionnelle, de l'emploi, de l'aménagement du territoire et de
-l'environnement ;
+Le conseil d'administration ne peut valablement délibérer que si la moitié au
+moins des membres en exercice sont présents ou représentés. Les délibérations
+sont adoptées à la majorité des membres présents et représentés. La voix du
+président-directeur général ou de son suppléant est prépondérante en cas de
+partage égal des voix.
 
-c) Le membre du corps du contrôle général économique et financier, le directeur
-général du centre et l'agent comptable ;
+En cas d'absence du président-directeur général, la présidence de séance est
+assurée par un vice-président de séance, désigné par les ministres de tutelle
+parmi les membres représentant l'Etat.
 
-d) Un représentant de chacun des syndicats représentés au comité technique
-paritaire du centre.
-
-Le directeur général peut se faire assister de toute personne de son choix. Le
-conseil d'administration peut entendre toute personne dont il estime l'audition
-utile à son information.
+En cas d'urgence, les délibérations du conseil peuvent être adoptées par des
+modalités de consultation électronique ou audiovisuelle préservant la
+collégialité des débats selon les modalités définies par le règlement intérieur
+du conseil d'administration.

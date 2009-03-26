@@ -1,17 +1,46 @@
 Article R621-40
 ----
-La demande de transfert d'attributions est déposée auprès du ministre chargé de
-l'agriculture. Dans un délai qui ne devra pas excéder six mois, cette demande
-est transmise après instruction et pour avis au Conseil supérieur d'orientation
-et de coordination de l'économie agricole et alimentaire.
+L'état prévisionnel des recettes et des dépenses comprend notamment :
 
-La décision de transfert d'attributions est prononcée par arrêté conjoint des
-ministres chargés de l'économie, du budget et de l'agriculture, dans un délai de
-trois mois à compter de l'avis du conseil supérieur d'orientation. Cet arrêté
-précise notamment la nature des attributions transférées, les produits ou
-groupes de produits concernés, la durée de validité des transferts opérés et les
-dates auxquelles ceux-ci prennent effet.
+1° En recettes :
 
-En cas de rejet total ou partiel de la demande de transfert, les motifs de ce
-rejet sont portés, dans le même délai de trois mois, à la connaissance de
-l'organisation interprofessionnelle concernée.
+a) Les versements de l'Etat ou de la Communauté européenne ;
+
+b) Les remboursements d'avances et de prêts ;
+
+c) Le produit des redevances pour services rendus ;
+
+d) Le produit des ventes, travaux et prestations ;
+
+e) Le produit des taxes fiscales et des redevances affectées ;
+
+f) Les contributions des organisations professionnelles et organismes des
+secteurs intéressés ;
+
+g) Le produit du placement des fonds disponibles ;
+
+h) Les dons et legs ;
+
+i) Les emprunts ;
+
+j) Les revenus procurés par les participations financières ;
+
+k) Le produit des cessions ;
+
+l) Les produits des transactions ;
+
+m) Des recettes diverses ;
+
+2° En dépenses :
+
+a) Les dépenses de personnel ;
+
+b) Les dépenses de fonctionnement, y compris les dotations aux amortissements ;
+
+c) Les dépenses d'investissement ;
+
+d) Les dépenses d'intervention pouvant, par application de la réglementation
+communautaire et des décisions du directeur général mentionnées à l'article R.
+621-27, consister en achats, prêts, accord de garanties ou subventions dont le
+versement peut intervenir en une seule fois ou par versements d'avances ou
+d'acomptes et d'un solde.

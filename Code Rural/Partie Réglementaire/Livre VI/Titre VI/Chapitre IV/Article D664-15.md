@@ -6,7 +6,7 @@ organisations de producteurs et associations d'organisations de producteurs
 peuvent demander l'avance, ou le paiement d'une partie de l'aide financière
 communautaire.
 
-Les demandes d'avances sont adressées à l'office.
+Les demandes d'avances sont adressées à FranceAgriMer.
 
 L'organisation de producteurs qui a bénéficié du paiement d'une avance sur fonds
 opérationnel peut demander au préfet la libération partielle de sa garantie à

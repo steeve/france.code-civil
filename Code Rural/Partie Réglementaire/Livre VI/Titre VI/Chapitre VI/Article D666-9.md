@@ -13,7 +13,7 @@ juillet 2005 relative à la sauvegarde des entreprises.
 
 Ce retrait d'agrément, qui doit être motivé et qui emporte de droit
 l'interdiction d'acheter et de livrer des céréales, peut donner lieu, de la part
-des intéressés, à un recours devant le directeur général de l'Office national
-interprofessionnel des grandes cultures. Ce recours, qui est suspensif, doit
-être formé dans un délai maximum de deux mois à compter de la notification de la
-décision attaquée. Le directeur général dispose de deux mois pour se prononcer.
+des intéressés, à un recours devant le directeur général de l'établissement
+mentionné à l'article L. 621-1. Ce recours, qui est suspensif, doit être formé
+dans un délai maximum de deux mois à compter de la notification de la décision
+attaquée. Le directeur général dispose de deux mois pour se prononcer.

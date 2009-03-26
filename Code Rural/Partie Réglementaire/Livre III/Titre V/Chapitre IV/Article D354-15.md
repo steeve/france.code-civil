@@ -12,4 +12,5 @@ pas les engagements portés au plan ou s'il ne se conforme pas au suivi prescrit
 par lui. Le montant du remboursement est de droit majoré du taux d'intérêt légal
 courant à la date de versement de l'aide.
 
-Le CNASEA procède au recouvrement de la somme correspondante.
+L'Agence de services et de paiement procède au recouvrement de la somme
+correspondante.

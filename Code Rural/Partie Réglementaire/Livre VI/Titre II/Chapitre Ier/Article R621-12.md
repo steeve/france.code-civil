@@ -1,36 +1,43 @@
 Article R621-12
 ----
-Le directeur de l'office est nommé par décret sur proposition du ministre chargé
-de l'agriculture.
+Pour l'exercice de ses compétences concernant les productions mentionnées au c
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé qui
+comprend, outre son président :
 
-Le directeur de l'office :
+1° Quatre représentants de l'Etat et de ses établissements publics :
 
-- prépare les délibérations du conseil de direction, du conseil de direction
-plénier et des conseils de direction spécialisés et en assure l'exécution ;
+-le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
 
-- recrute les personnels, nomme aux emplois, gère les agents de l'office et a
-autorité sur l'ensemble des personnels ;
+-le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
 
-- détermine l'organisation interne de l'établissement, y compris la localisation
-de ses services ;
+-le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
 
-- représente l'office en justice et dans tous les actes de la vie civile. Il
-engage les actions en justice et il en rend compte, au minimum une fois par an,
-au conseil de direction ou au conseil de direction plénier ;
+-une personnalité représentant l'Institut national de l'origine et de la
+qualité, proposée par l'établissement ;
 
-- passe au nom de l'office les contrats et marchés et les actes d'acquisition et
-de vente ;
+2° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
 
-- est ordonnateur principal des recettes et des dépenses de l'office ;
+3° Trois personnalités représentant le secteur coopératif agricole, choisies
+parmi les personnes proposées par les organisations à compétence nationale les
+plus représentatives ;
 
-- peut désigner des ordonnateurs secondaires et, sur proposition de l'agent
-comptable, des comptables secondaires ;
+4° Six personnalités représentant le commerce et l'industrie, choisies parmi les
+personnes proposées par les organisations professionnelles à compétence
+nationale les plus représentatives ;
 
-- engage les dépenses et liquide les droits et charges de l'office. Il émet les
-ordres de recettes et de dépenses ;
+5° Une personnalité représentant la génétique animale, choisie parmi les
+personnes proposées par les organisations professionnelles représentatives ;
 
-- a la faculté de conclure des transactions, dans les conditions prévues par les
-articles 2044 et suivants du code civil, sous réserve de l'avis préalable du
-conseil de direction ou du conseil de direction plénier.
+6° Une personnalité représentant les salariés des filières, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
 
-Il peut déléguer sa signature aux agents placés sous son autorité.
+7° Une personnalité représentant les consommateurs, proposée par le ministre
+chargé de la consommation.

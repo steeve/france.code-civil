@@ -1,11 +1,11 @@
 Article D664-20
 ----
 Les exploitants agricoles qui souhaitent bénéficier de produits retirés du
-marché au titre de l'alimentation animale sont agréés par le directeur de
-l'office, sur la demande de l'organisation de producteurs qui leur fournit les
-produits.
+marché au titre de l'alimentation animale sont agréés par le directeur général
+de FranceAgriMer, sur la demande de l'organisation de producteurs qui leur
+fournit les produits.
 
-L'office s'assure que les exploitants sont en mesure de satisfaire aux
+FranceAgriMer s'assure que les exploitants sont en mesure de satisfaire aux
 obligations définies au 2 de l'article 84 du règlement (CE) n° 1580 / 2007
 susmentionné.
 

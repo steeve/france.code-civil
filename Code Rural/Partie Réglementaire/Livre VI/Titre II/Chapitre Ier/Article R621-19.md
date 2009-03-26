@@ -1,18 +1,18 @@
 Article R621-19
 ----
-Les crédits ont un caractère limitatif, à l'exception de ceux relatifs aux
-opérations de stockage et aux opérations communautaires. Ce caractère limitatif
-s'apprécie par chapitre et dans le cadre défini lors des notifications de
-crédits budgétaires par le ministre chargé de l'agriculture.
+Le président du conseil d'administration est nommé par décret sur proposition de
+ce conseil.
 
-Lorsque les chapitres n'ont pas fait l'objet d'une présentation détaillée dans
-l'état prévisionnel des recettes et dépenses, le directeur établit un état de
-répartition par articles, soumis au visa préalable du membre du corps du
-contrôle général économique et financier placé auprès de l'office.
+Le président de chaque conseil spécialisé est nommé par arrêté du ministre
+chargé de l'agriculture, parmi les membres représentant la production, la
+transformation ou la commercialisation, sur proposition de ce conseil.
 
-En cas d'urgence, les ministres chargés de l'agriculture, du budget et, le cas
-échéant, de la pêche ou de l'outre-mer peuvent autoriser des virements de
-crédits ou une modification de la programmation des autorisations d'engagement
-ou notifier à l'office une dotation complémentaire. Les modifications ainsi
-apportées sont soumises ultérieurement pour information à l'organe délibérant de
-l'office, au cours de la première réunion qui suit leur mise en oeuvre.
+La limite d'âge applicable aux fonctions de président de l'un des conseils
+mentionnés ci-dessus est fixée à soixante-sept ans.
+
+En cas de vacance du poste de président ou d'empêchement de ce dernier, la
+présidence du conseil est assurée par l'un des représentants du ministre chargé
+de l'agriculture.
+
+Le mandat du président prend fin en même temps que celui des membres du conseil
+qu'il préside.

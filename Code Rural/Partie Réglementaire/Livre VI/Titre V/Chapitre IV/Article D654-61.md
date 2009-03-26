@@ -1,14 +1,14 @@
 Article D654-61
 ----
-Un arrêté du ministre chargé de l'agriculture, pris après avis du conseil de
-direction compétent de l'Office de l'élevage, détermine pour chaque campagne,
-d'une part, les catégories de producteurs susceptibles de bénéficier de
-quantités de référence supplémentaires en fonction de priorités départementales,
-les critères de priorité pouvant être retenus par le préfet pour ces
-attributions ainsi que les critères de calcul et le montant maximal de ces
-quantités de référence supplémentaires, d'autre part, les catégories de
-producteurs susceptibles de bénéficier de quantités de référence supplémentaires
-en fonction de priorités nationales.
+Un arrêté du ministre chargé de l'agriculture, pris après avis du conseil
+spécialisé compétent de FranceAgriMer, détermine pour chaque campagne, d'une
+part, les catégories de producteurs susceptibles de bénéficier de quantités de
+référence supplémentaires en fonction de priorités départementales, les critères
+de priorité pouvant être retenus par le préfet pour ces attributions ainsi que
+les critères de calcul et le montant maximal de ces quantités de référence
+supplémentaires, d'autre part, les catégories de producteurs susceptibles de
+bénéficier de quantités de référence supplémentaires en fonction de priorités
+nationales.
 
 La définition de ces catégories peut tenir compte de la situation géographique
 des exploitations, de l'âge des demandeurs, du niveau de la quantité de

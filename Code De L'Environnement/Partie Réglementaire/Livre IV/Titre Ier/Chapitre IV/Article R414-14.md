@@ -1,12 +1,10 @@
 Article R414-14
 ----
-Une convention passée entre l'Etat et le Centre national pour l'aménagement des
-structures des exploitations agricoles (CNASEA) régit les conditions dans
-lesquelles le Centre national pour l'aménagement des structures des
-exploitations agricoles verse les sommes accordées par l'Etat au titre des
-contrats Natura 2000.
+Une convention passée entre l'Etat et l'Agence de services et de paiement régit
+les conditions dans lesquelles l'Agence de services et de paiement verse les
+sommes accordées par l'Etat au titre des contrats Natura 2000.
 
-Le CNASEA rend compte de cette activité au ministre chargé de l'environnement et
-au ministre chargé de l'agriculture dans les conditions prévues à l'article R.
-313-14 du code rural, ainsi qu'au ministre chargé des pêches maritimes et de
-l'aquaculture.
+L'Agence de services et de paiement rend compte de cette activité au ministre
+chargé de l'environnement et au ministre chargé de l'agriculture dans les
+conditions prévues à l'article R. 313-14 du code rural, ainsi qu'au ministre
+chargé des pêches maritimes et de l'aquaculture.

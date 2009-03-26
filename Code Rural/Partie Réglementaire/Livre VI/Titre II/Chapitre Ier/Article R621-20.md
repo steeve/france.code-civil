@@ -1,16 +1,18 @@
 Article R621-20
 ----
-Les autorisations d'engagement relatives aux interventions économiques financées
-sur crédits nationaux inscrits à l'état prévisionnel des recettes et dépenses
-qui n'ont pas donné lieu à engagement au dernier jour de l'exercice peuvent
-faire l'objet d'un report sur l'exercice suivant. Le directeur de l'office
-procède à ce report après visa du membre du corps du contrôle général économique
-et financier et avec l'autorisation expresse du ministre chargé de
-l'agriculture. A défaut, les autorisations d'engagement qui n'ont pas donné lieu
-à engagement à la fin de cet exercice sont réputées sans objet et annulées.
+Le mandat des membres des conseils expire trois ans après la réunion
+d'installation du conseil dans lequel ils siègent. Il est renouvelable.
 
-Un état des reports des autorisations d'engagement non engagées et des
-engagements n'ayant pas donné lieu à ordonnancement avant la fin de l'exercice
-est établi par le directeur de l'office, qui le communique aux ministres de
-tutelle dans le mois suivant la fin de l'exercice après visa du membre du corps
-du contrôle général économique et financier.
+En cas de vacance d'un poste pour cause de décès, de démission, de perte par un
+membre de la qualité au titre de laquelle il a été désigné ou de nomination d'un
+membre à la présidence d'un conseil, un remplaçant est désigné. Son mandat
+expire en même temps que celui des autres membres du conseil dont il fait
+partie.
+
+Les membres des conseils doivent jouir de leurs droits civils et politiques.
+
+Hormis les représentants de l'Etat et des établissements publics de l'Etat, tout
+membre d'un conseil régulièrement convoqué qui n'a pas assisté à trois séances
+consécutives de ce conseil sans excuse reconnue légitime pourra être considéré
+comme démissionnaire alors même qu'il aura donné mandat à un autre membre pour
+le représenter.

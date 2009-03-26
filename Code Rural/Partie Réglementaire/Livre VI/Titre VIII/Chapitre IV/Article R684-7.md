@@ -1,12 +1,20 @@
 Article R684-7
 ----
-Le conseil de direction est chargé :
+Le conseil d'administration adopte l'état prévisionnel des recettes et des
+dépenses et, le cas échéant, les budgets annexes et leurs modifications, arrête
+le compte financier, examine le rapport annuel d'activité de l'établissement et
+se prononce sur son programme de travail annuel.
 
-1° De délibérer et de donner un avis sur les projets de décisions réglementaires
-ou financières nécessaires à l'accomplissement des missions de l'office telles
-qu'elles sont définies au I de l'article R. 684-2 ;
+Il est consulté pour avis sur les projets de transactions et sur les décisions
+relatives aux acquisitions et cessions patrimoniales mobilières et immobilières
+d'un montant supérieur à 1, 5 million d'euros.
 
-2° De suivre plus particulièrement le développement de l'économie agricole :
+Il est consulté pour avis sur les projets de décisions du directeur mentionnées
+à l'article R. 621-27.
+
+Le conseil d'administration est également chargé :
+
+1° De suivre plus particulièrement le développement de l'économie agricole :
 
 a) En participant à la politique d'orientation des productions et d'organisation
 de leur marché ;
@@ -14,14 +22,12 @@ de leur marché ;
 b) En favorisant le développement de la recherche appliquée et la diffusion de
 ses résultats auprès des agriculteurs par les organismes compétents ;
 
-3° De veiller à la bonne liaison avec les offices d'intervention par produits ;
+2° De veiller à la bonne liaison avec les établissements mentionnés aux articles
+L. 313-1 et L. 621-1 ;
 
-4° De contrôler l'exécution des interventions décidées.
+3° De s'assurer de l'exécution des interventions décidées.
 
-Le conseil de direction est régulièrement informé par le ministre chargé de
+Le conseil d'administration est régulièrement informé par le ministre chargé de
 l'agriculture et par le ministre chargé de l'outre-mer de la politique de la
 Communauté européenne à l'égard des départements et des collectivités
-territoriales d'outre-mer.
-
-Il est consulté sur les programmes d'activité et les budgets des organismes
-mentionnés à l'article L. 621-7.
+d'outre-mer.

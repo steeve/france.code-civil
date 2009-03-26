@@ -14,5 +14,5 @@ l'agrément. La décision de suspension de l'agrément doit être motivée. Elle
 emporte l'interdiction provisoire de livrer et d'acheter des céréales.
 
 Les décisions de suspension ou de retrait peuvent faire l'objet d'un recours
-devant le directeur général de l'Office national interprofessionnel des grandes
-cultures dans les conditions mentionnées à l'article D. 666-4.
+devant le directeur général de l'établissement mentionné à l'article L. 621-1
+dans les conditions mentionnées à l'article D. 666-4.

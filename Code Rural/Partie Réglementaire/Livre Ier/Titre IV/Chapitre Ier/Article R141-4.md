@@ -12,8 +12,8 @@ de la publication de l'arrêté d'agrément :
 3° La présence au sein du conseil d'administration de la société de
 représentants des catégories déterminées au 4° parmi lesquels des représentants
 des collectivités territoriales, dans les conditions fixées au deuxième alinéa
-de l'article L. 141-6, et d'un représentant du Centre national pour
-l'aménagement des structures des exploitations agricoles.
+de l'article L. 141-6, et d'un représentant de l'Agence de services et de
+paiement.
 
 La représentation des collectivités territoriales est assurée, le cas échéant,
 dans les mêmes conditions que celles prévues pour les sociétés d'économie mixte

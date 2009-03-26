@@ -1,23 +1,25 @@
 Article R313-15
 ----
-Le CNASEA gère les aides dont l'Etat décide de lui confier le traitement dans le
-cadre des politiques qu'il conduit en matière de formation professionnelle et
-d'emploi.
+Outre les missions déterminées par décret en application de l'article L. 313-2,
+l'Etat peut confier à l'agence par voie de convention :
 
-Il assure notamment :
+1° Le traitement de dispositifs d'aides dans le cadre des politiques qu'il
+conduit en matière de formation professionnelle et d'emploi.
 
-1° La gestion des dossiers des bénéficiaires des aides ;
+Dans ce cas, l'agence assure notamment, selon les modalités précisées par la
+convention particulière qu'elle passe avec le (ou les) ministre (s) chargé (s)
+de la formation professionnelle et de l'emploi :
 
-2° La mise en oeuvre des paiements et le recouvrement des indus ;
+a) La gestion des dossiers des bénéficiaires des aides ;
 
-3° La mise en oeuvre d'un dispositif de contrôle interne des procédures et des
+b) La mise en œuvre des paiements et le recouvrement des indus ;
+
+c) La mise en œuvre d'un dispositif de contrôle interne des procédures et des
 droits des bénéficiaires ;
 
-4° La mise à disposition, pour chaque dispositif, de circuits d'informations
+d) La mise à disposition, pour chaque dispositif, de circuits d'informations
 physiques et financières avec le ministère chargé de la formation
 professionnelle et de l'emploi, à des fins de pilotage, de contrôle de gestion
-et d'exploitation statistique.
+et d'exploitation statistique ;
 
-Les modalités de la gestion par le CNASEA de chaque dispositif d'aide qui lui
-est confié sont précisées par une convention particulière qu'il passe avec le
-ministère chargé de la formation professionnelle et de l'emploi.
+2° Des missions relevant de sa compétence dont la durée n'excède pas deux ans.

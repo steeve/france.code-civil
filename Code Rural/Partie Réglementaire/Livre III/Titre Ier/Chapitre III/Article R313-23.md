@@ -1,10 +1,19 @@
 Article R313-23
 ----
-Le président du conseil d'administration reçoit une indemnité de fonction dont
-le montant est fixé par le ministre de l'agriculture en accord avec le ministre
-chargé du budget.
+Les délibérations portant sur les matières mentionnées aux 1°, 2°, 4°, 5°, 6° et
+14° à 16° du I de l'article R. 313-22 sont exécutoires à l'expiration d'un délai
+de quinze jours à compter de la tenue du conseil d'administration, sauf exercice
+de son droit de veto par le commissaire du Gouvernement dans les conditions
+prévues à l'article R. 313-44.
 
-Les membres du conseil d'administration n'ayant pas la qualité de fonctionnaire
-bénéficient d'indemnités correspondant aux frais de déplacement et de séjour
-effectivement supportés par eux à l'occasion des réunions du conseil, dans les
-conditions prévues par le décret n° 90-437 du 28 mai 1990.
+Les délibérations portant sur les matières mentionnées aux 3°, 7°, 9° et 11° à
+13° du I de l'article R. 313-22 sont approuvées dans les conditions prévues par
+le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
+certaines décisions financières des établissements publics de l'Etat. Les
+délibérations portant sur les matières mentionnées au 10° sont approuvées dans
+les conditions mentionnées à l'article R. 313-40.
+
+Toutefois, pour les opérations effectuées au titre des réglementations
+communautaires, cette approbation est réputée acquise à la date de réception,
+par les autorités de tutelle, de la délibération et des documents
+correspondants.

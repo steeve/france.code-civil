@@ -5,5 +5,5 @@ l'employeur, l'autorité ou le délégataire signataire de la convention informe
 préalable l'employeur de son intention de dénoncer la convention. Celui-ci
 dispose d'un délai de sept jours pour faire connaître ses observations. En cas
 de dénonciation de la convention, l'autorité ou le délégataire signataire
-informe le CNASEA ainsi que l'organisme de recouvrement des cotisations et
-contributions sociales compétent.
+informe l'Agence de services et de paiement ainsi que l'organisme de
+recouvrement des cotisations et contributions sociales compétent.

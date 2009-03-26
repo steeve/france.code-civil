@@ -4,8 +4,8 @@ Les produits retirés du marché peuvent faire l'objet d'une transformation à d
 fins non alimentaires ou être distillés en alcool non alimentaire.
 
 Les transformateurs qui souhaitent bénéficier de produits retirés en vue de
-procéder à cette transformation se portent candidats auprès de l'office à la
-procédure d'adjudication communautaire mise en œuvre par celui-ci.
+procéder à cette transformation se portent candidats auprès de FranceAgriMer à
+la procédure d'adjudication communautaire mise en œuvre par celui-ci.
 
 Seuls les candidats qui sont en mesure de satisfaire aux obligations définies au
 2 de l'article 84 du règlement (CE) n° 1580 / 2004 susmentionné peuvent prendre

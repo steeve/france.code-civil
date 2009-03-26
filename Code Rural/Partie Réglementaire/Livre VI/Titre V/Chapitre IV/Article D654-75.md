@@ -1,7 +1,7 @@
 Article D654-75
 ----
 Dans les cas de transferts régis par la sous-section 3 de la présente section,
-le directeur de l'Office de l'élevage après avis du conseil de direction
+le directeur général de FranceAgriMer après avis du conseil spécialisé
 compétent, fixe la date limite de déclaration par le cessionnaire au préfet du
 département, qui donne droit à un ajustement des quantités de référence des
 producteurs concernés au cours de la campagne pendant laquelle ce transfert a eu

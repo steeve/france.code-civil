@@ -1,7 +1,8 @@
 Article R621-21
 ----
-Les décisions fixant les règles relatives aux dépenses d'intervention économique
-financées sur crédits nationaux sont prises par le directeur de l'office après
-avis du conseil de direction, du conseil de direction plénier ou du conseil de
-direction spécialisé intéressé. Ces décisions sont exécutoires après avoir été
-approuvées dans les conditions prévues à l'article R. 621-14.
+Le ministre chargé de l'agriculture peut désigner des personnalités qualifiées
+pour assister les différents conseils, avec voix consultative.
+
+Le président de chaque conseil peut appeler des experts à participer aux travaux
+de ce conseil pour une séance déterminée ou pour un point particulier de l'ordre
+du jour.

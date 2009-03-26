@@ -1,63 +1,33 @@
 Article R313-25
 ----
-Le conseil d'administration définit les conditions dans lesquelles sont
-accomplies les missions confiées au centre par la présente section. Il définit
-également la politique générale du centre et, sous réserve des dispositions de
-l'article R. 313-34, sur proposition du directeur général, l'organisation
-générale du centre et les programmes d'action. Il suit l'exécution des
-conventions prévues aux articles R. 313-15, R. 313-17 et R. 313-18.
+Le président-directeur général dirige et représente l'Agence de services et de
+paiement. Il met en œuvre la politique générale et l'organisation territoriale
+définies par le conseil d'administration et assure la coordination des missions
+de l'agence. Il prépare les délibérations du conseil d'administration et en
+assure l'exécution.
 
-Sont obligatoirement soumis à l'approbation du conseil d'administration :
+Il accomplit tous les actes qui ne relèvent pas du conseil d'administration en
+vertu de la présente section ou de dispositions de portée générale.
 
-1° Le règlement intérieur du conseil ;
+Il recrute, nomme et gère les agents de l'agence.
 
-2° Le budget de l'établissement et les décisions modificatives ;
+Il a autorité sur l'ensemble du personnel de l'établissement.
 
-3° Le compte financier ;
+Il représente l'agence en justice et dans tous les actes de la vie civile ; il
+décide des actions en justice, dont il rend compte au conseil d'administration.
 
-4° Les emprunts ;
+Il passe au nom de l'agence les contrats, conventions, marchés, baux et les
+actes d'acquisition, de vente et de transaction, sous réserve des attributions
+conférées au conseil d'administration.
 
-5° Les prises, cessions ou extensions de participations financières ainsi que la
-création de filiales et la participation à des groupements d'intérêt public ou
-des groupements d'intérêt économique ;
+Il définit la politique d'achat de l'établissement.
 
-6° Les programmes annuels et pluriannuels d'action présentés par le directeur ;
+Il est ordonnateur principal des recettes et des dépenses du budget de
+l'établissement. Il nomme les ordonnateurs secondaires.
 
-7° Le rapport annuel d'exécution ;
+Il a la faculté de conclure des transactions, dans les conditions prévues par
+les articles 2044 et suivants du code civil.
 
-8° Les acquisitions et aliénations de biens immobiliers ;
-
-9° Les baux et locations d'immeubles d'une durée excédant neuf années ;
-
-10° L'acceptation des dons et legs ;
-
-11° Les conventions mentionnées à l'article R. 313-15 et les conventions
-comportant, de la part du centre, un engagement financier dont la valeur excède
-un montant fixé par arrêté conjoint des ministres chargés de l'agriculture, de
-la formation professionnelle, de l'emploi et du budget ;
-
-12° Les transactions ;
-
-13° Les décisions relatives à la mise en oeuvre des traitements automatisés
-d'informations nominatives mentionnées à l'article 19 du décret n° 78-774 du 17
-juillet 1978.
-
-Nonobstant les dispositions des 8° et 9°, l'approbation du conseil
-d'administration n'est pas requise pour la conclusion de baux, non plus que pour
-l'acquisition et l'aliénation de biens immobiliers, en application de
-dispositions législatives particulières confiant au CNASEA une mission
-d'intervention foncière.
-
-Le conseil d'administration peut déléguer à une commission qu'il crée en son
-sein le soin d'approuver les décisions mentionnées au 13°. En ce qui concerne la
-gestion du personnel, il peut déléguer au directeur général, dans les conditions
-qu'il fixe, les décisions de transaction.
-
-Les délibérations portant sur les matières mentionnées aux 1°, 2°, 3° et 4° du
-présent article sont approuvées par les ministres chargés de l'agriculture, de
-la formation professionnelle, de l'emploi et du budget, selon les modalités
-prévues par le décret n° 99-575 du 8 juillet 1999.
-
-Les délibérations portant sur les matières mentionnées au 5° sont approuvées par
-arrêté des ministres chargés de l'agriculture, de la formation professionnelle,
-de l'emploi et du budget.
+Il peut déléguer sa signature aux agents placés sous son autorité. Les actes de
+délégation font l'objet d'une publication au Bulletin officiel du ministère de
+rattachement du commissaire du Gouvernement.

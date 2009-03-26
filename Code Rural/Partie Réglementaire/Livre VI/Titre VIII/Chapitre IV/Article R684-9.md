@@ -1,13 +1,10 @@
 Article R684-9
 ----
-Les présidents des comités techniques qui ne sont pas membres du conseil de
-direction y siègent de droit en qualité d'expert, avec voix consultative.
+Le régime financier et comptable de l'Office de développement de l'économie
+agricole d'outre-mer est régi par les dispositions de la section 3 du chapitre
+Ier du titre II. Le directeur de l'Office de développement de l'économie
+agricole d'outre-mer est assimilé au " directeur général " pour l'application de
+ces dispositions.
 
-Les ministres chargés des affaires étrangères, de la coopération, du plan, du
-commerce, de la consommation, de la mer et des transports peuvent désigner des
-experts pour assister à certaines séances du conseil de direction ou des comités
-techniques en fonction de l'ordre du jour qui leur est adressé par l'office.
-
-En outre, le président peut appeler des experts à participer aux travaux du
-conseil de direction et des comités techniques pour une séance déterminée ou
-pour un point particulier de l'ordre du jour.
+Par dérogation à l'article R. 621-52, le compte financier de l'établissement est
+présenté pour approbation ministérielle avant le 31 mai.

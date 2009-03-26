@@ -1,15 +1,41 @@
 Article R621-11
 ----
-Dans le cas où l'office est doté d'un conseil de direction plénier et de
-conseils de direction spécialisés par filière, le conseil de direction plénier
-exerce les compétences prévues au premier alinéa de l'article R. 621-10.
+Pour l'exercice de ses compétences concernant les productions mentionnées au f
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé qui
+comprend, outre son président :
 
-Les conseils de direction spécialisés, chacun dans son domaine de compétence,
-exercent les compétences prévues aux trois derniers alinéas de l'article R.
-621-10. Ils peuvent également être consultés, chacun dans son domaine de
-compétence, sur la répartition des crédits d'intervention économique.
+1° Trois représentants de l'Etat :
 
-Toutefois, le conseil de direction plénier est compétent, en tant que de besoin,
-pour l'examen des questions mentionnées au deuxième alinéa de l'article R.
-621-10 et qui sont d'intérêt commun aux produits ou groupes de produits relevant
-du champ de compétence de l'office.
+-le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
+
+-le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
+
+-le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+2° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
+
+3° Deux personnalités représentant le secteur coopératif agricole, choisies
+parmi les personnes proposées par les organisations à compétence nationale les
+plus représentatives ;
+
+4° Cinq personnalités représentant le commerce, choisies parmi les personnes
+proposées par les organisations professionnelles à compétence nationale les plus
+représentatives ;
+
+5° Deux personnalités représentant les entreprises utilisatrices, choisies parmi
+les personnes proposées par les organisations professionnelles les plus
+représentatives ;
+
+6° Une personnalité représentant les salariés de la filière, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
+
+7° Une personnalité représentant les consommateurs, proposée par le ministre
+chargé de la consommation.

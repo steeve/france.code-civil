@@ -1,17 +1,14 @@
 Article R621-3
 ----
-Le président du conseil de direction ou du conseil de direction plénier est
-nommé par décret, sur proposition de ce conseil.
+Pour l'exercice des missions mentionnées au 1° de l'article L. 621-3,
+l'établissement assure :
 
-Le président de chaque conseil de direction spécialisé est nommé par arrêté du
-ministre chargé de l'agriculture, sur proposition de ce conseil.
+-la collecte des informations sur les prix pratiqués et l'observation des
+transactions sur les marchés des produits agricoles et alimentaires à tous les
+stades de leur production et de leur commercialisation ;
 
-La limite d'âge applicable aux fonctions de président de l'un des conseils de
-direction mentionnés ci-dessus est fixée à soixante-sept ans.
+-l'établissement des cotations publiques officielles ;
 
-En cas de vacance du poste de président ou d'empêchement de celui-ci, la
-présidence du conseil est assurée par l'un des représentants du ministre chargé
-de l'agriculture.
-
-Le mandat du président prend fin en même temps que celui des membres du conseil
-de direction.
+-la diffusion de ces observations et de ces informations économiques et
+conjoncturelles aux autorités compétentes, nationales et communautaires ainsi
+qu'auprès des usagers du service dans le cadre de prestations rémunérées.

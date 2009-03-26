@@ -7,7 +7,7 @@ au cas où sa demande serait acceptée.
 
 Ces engagements sont définis par l'arrêté mentionné à l'article D. 654-88-1.
 
-L'Office de l'élevage contrôle le respect de ces engagements, la sincérité et
+FranceAgriMer contrôle le respect de ces engagements, la sincérité et
 l'exactitude des déclarations faites et des pièces produites à l'appui de la
 demande d'indemnité.
 

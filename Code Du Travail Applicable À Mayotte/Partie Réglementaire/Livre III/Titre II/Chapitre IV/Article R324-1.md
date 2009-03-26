@@ -49,13 +49,12 @@ période de deux mois à l'issue de la formation s'il est attesté d'une recherc
 effective d'emploi.
 
 VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des
-mensualités pour la formation en mobilité sont confiés au Centre national pour
-l'aménagement des structures des exploitations agricoles, sous réserve des
-dispositions prévues au dernier alinéa du présent paragraphe. Lorsque la
-formation en mobilité se déroule à l'étranger, la gestion des crédits et le
-versement des aides précités peuvent être confiés à un organisme qui passe une
-convention à cet effet dans les conditions prévues au dernier alinéa du présent
-paragraphe.
+mensualités pour la formation en mobilité sont confiés à l'Agence de services et
+de paiement, sous réserve des dispositions prévues au dernier alinéa du présent
+paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion
+des crédits et le versement des aides précités peuvent être confiés à un
+organisme qui passe une convention à cet effet dans les conditions prévues au
+dernier alinéa du présent paragraphe.
 
 La gestion de l'aide pour les frais liés à la formation est assurée par l'Agence
 nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou un
@@ -99,12 +98,13 @@ d'apprentissage prévu à l'article L. 111-1, d'un stage intéressant l'une des
 actions de formation prévue à l'article L. 711-2, d'un contrat en alternance, ou
 prend la forme d'un stage en entreprise accompli en France ou à l'étranger.
 
-Ne peuvent être cumulés avec l'aide à la formation en mobilité : le contrat
-emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu
-à l'article L. 322-7, le contrat de retour à l'emploi prévu à l'article L.
-323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à
-la création d'emplois prévue à l'article L. 325-2, ou le contrat
-emploi-développement prévu à l'article L. 325-6.
+Ne peuvent être cumulés avec l'aide à la formation en mobilité :
+
+le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi
+consolidé prévu à l'article L. 322-7, le contrat de retour à l'emploi prévu à
+l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L.
+324-1, la prime à la création d'emplois prévue à l'article L. 325-2, ou le
+contrat emploi-développement prévu à l'article L. 325-6.
 
 X.-Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou
 privé, ayant la capacité de proposer ou de faire accéder à une formation

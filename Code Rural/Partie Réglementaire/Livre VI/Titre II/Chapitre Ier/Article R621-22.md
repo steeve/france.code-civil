@@ -1,14 +1,8 @@
 Article R621-22
 ----
-L'ordonnateur tient une comptabilité d'engagement.
+Par décision du directeur général prise après avis du conseil concerné, des
+comités peuvent être créés pour éclairer par leurs avis les travaux d'un
+conseil.
 
-Il dresse à la fin de chaque trimestre un état, par exercice, des engagements de
-dépenses, en distinguant les engagements de l'exercice en cours et les
-engagements afférents à des exercices antérieurs, y compris ceux ayant fait
-l'objet d'un report.
-
-Cet état distingue les crédits de personnel et de fonctionnement, les crédits
-d'intervention économique et les crédits d'opérations en capital. Il est
-immédiatement communiqué aux autorités de tutelle, au président du conseil de
-direction ou du conseil de direction plénier et au membre du corps du contrôle
-général économique et financier.
+Le directeur général fixe la composition et les modalités de fonctionnement de
+ces comités et en définit l'objet.

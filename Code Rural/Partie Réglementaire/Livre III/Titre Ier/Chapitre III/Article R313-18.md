@@ -1,25 +1,26 @@
 Article R313-18
 ----
-Dans les régions et les départements où il n'estime pas nécessaire, pour la
-bonne exécution des actions dont il est chargé, de les mettre lui-même en
-oeuvre, le centre peut, par des conventions approuvées par le ministre de
-l'agriculture, confier la responsabilité de l'exécution à l'échelon local de
-certaines de ces actions à des organismes ou, le cas échéant, à des services
-spécialement constitués à cet effet par des organisations, syndicats et
-établissements professionnels et familiaux agricoles et ruraux ; ces organismes
-et services devront avoir été agréés sur proposition du centre par le ministre
-de l'agriculture, après approbation, s'ils relèvent du droit privé, de leur
-statuts et, dans le cas contraire, de leur organisation.
+Participent aux travaux du conseil d'administration avec voix consultative :
 
-Ces organismes et services devront s'engager notamment à se conformer pour
-l'exécution de ces actions aux instructions du centre, à observer et à faire
-observer par leurs agents les obligations inhérentes au service public, à tenir
-compte, sans distinction d'origine, des besoins de tous les intéressés, à
-subordonner le recrutement d'un personnel rémunéré à l'absence d'opposition du
-centre, à modifier leurs statuts au cas où une évolution de la réglementation
-rendrait cette modification nécessaire, à se soumettre, en ce qui concerne
-l'exécution du service public, à tout contrôle administratif et financier. Sauf
-dispositions contraires d'un arrêté concerté du ministre de l'agriculture et du
-ministre chargé du budget, lesdits organismes et services ne pourront pas
-procéder au paiement direct aux agriculteurs des aides provenant des subventions
-de l'Etat.
+a) Le commissaire du Gouvernement ;
+
+b) Un représentant de chacun des syndicats représentés au comité technique
+paritaire ;
+
+c) Le président de l'Association des régions de France ou son représentant ;
+
+d) Le président d'une association agréée de protection de l'environnement
+désignée après avis du ministre chargé de l'écologie, de l'environnement et du
+développement durables, ou son représentant ;
+
+e) L'agent comptable ;
+
+f) L'autorité chargée du contrôle économique et financier ;
+
+g) Un représentant des services déconcentrés désigné par le ministre chargé de
+l'emploi ;
+
+h) Un directeur régional de l'alimentation, de l'agriculture et de la forêt.
+
+Le président-directeur général peut inviter à assister aux séances, à titre
+d'expert, toute personne qualifiée dont il estime la présence utile.

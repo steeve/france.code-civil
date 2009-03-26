@@ -1,13 +1,9 @@
 Article R621-23
 ----
-L'office est soumis au contrôle économique et financier de l'Etat prévu par le
-décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de
-l'Etat. Le ministre chargé de l'économie désigne un membre du corps du contrôle
-général économique et financier auprès de l'office.
+Les membres des conseils et les présidents et les membres des comités exercent
+leurs fonctions à titre gratuit. Leurs frais de déplacement et de séjour sont
+remboursés dans les conditions prévues par la réglementation applicable aux
+personnels civils de l'Etat.
 
-Un arrêté conjoint du ministre chargé de l'économie et du ministre chargé de
-l'agriculture fixe les modalités particulières d'exercice de ce contrôle en ce
-qui concerne les conditions dans lesquelles le membre du corps du contrôle
-général économique et financier assiste aux séances des organes délibérants,
-exerce un visa préalable sur les actes et obtient les informations nécessaires à
-l'exercice de ses missions.
+Les présidents des conseils perçoivent une indemnité de fonction dont le montant
+est fixé conjointement par les ministres chargés de l'agriculture et du budget.

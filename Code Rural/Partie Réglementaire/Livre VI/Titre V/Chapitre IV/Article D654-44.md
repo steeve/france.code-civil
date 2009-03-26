@@ -1,12 +1,12 @@
 Article D654-44
 ----
-Le directeur de l'Office de l'élevage peut, à l'expiration d'un délai de 30
+Le directeur général de FranceAgriMer peut, à l'expiration d'un délai de 30
 jours après mise en demeure, retirer l'agrément d'un acheteur qui ne remplit
 plus l'une des conditions suivantes :
 
 1° Disposer de la qualité de commerçant ;
 
-2° Disposer sur le territoire national de locaux où la comptabilité "matière",
+2° Disposer sur le territoire national de locaux où la comptabilité " matière ",
 les registres et les autres documents prévus par l'article D. 654-41 peuvent
 être consultés ;
 

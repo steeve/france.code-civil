@@ -12,9 +12,9 @@ colonies de vacances, hôpitaux et hospices de personnes âgées.
 
 II.-Les organismes mentionnés au I qui souhaitent bénéficier gratuitement des
 fruits et légumes retirés du marché doivent demander au préalable l'agrément du
-directeur de l'office. Celui-ci s'assure que l'organisme demandeur est en mesure
-de satisfaire aux obligations mentionnées au 1 de l'article 84 du règlement (CE)
-n° 1580 / 2004 susmentionné.
+directeur général de FranceAgriMer. Celui-ci s'assure que l'organisme demandeur
+est en mesure de satisfaire aux obligations mentionnées au 1 de l'article 84 du
+règlement (CE) n° 1580 / 2004 susmentionné.
 
 Un arrêté du ministre chargé de l'agriculture fixe la liste des pièces
 justificatives qui doivent être jointes à la demande d'agrément, ainsi que la

@@ -10,9 +10,9 @@ du ministre chargé de l'agriculture. Il détermine pour chaque bénéficiaire l
 nombre des droits à prime attribués gratuitement et le nombre de droits à prime
 attribués avec compensation.
 
-Le transfert des droits n'est effectif qu'après encaissement par l'Agence unique
-de paiement de la compensation due dans un délai fixé par arrêté du ministre
-chargé de l'agriculture et notification des droits.
+Le transfert des droits n'est effectif qu'après encaissement par l'Agence de
+services et de paiement de la compensation due dans un délai fixé par arrêté du
+ministre chargé de l'agriculture et notification des droits.
 
 Le montant unitaire de cette compensation est fixé par arrêté du ministre chargé
 de l'agriculture.

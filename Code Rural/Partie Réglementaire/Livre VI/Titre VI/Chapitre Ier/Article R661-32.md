@@ -7,6 +7,6 @@ dans les délais impartis, les travaux qui pourraient leur être prescrits en
 vertu des dispositions de la présente section et des arrêtés pris pour son
 application.
 
-L'Office national interprofessionnel des fruits, des légumes, des vins et de
-l'horticulture est habilité à prélever dans les cultures de matériels de
+L'Etablissement national des produits de l'agriculture et de la mer
+(FranceAgriMer) est habilité à prélever dans les cultures de matériels de
 multiplication végétative de la vigne tous échantillons nécessaires au contrôle.

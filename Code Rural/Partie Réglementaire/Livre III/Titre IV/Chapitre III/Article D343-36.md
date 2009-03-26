@@ -21,9 +21,8 @@ communication et d'animation d'une part, et d'autre part aux actions destinées 
 rechercher des exploitations susceptibles de permettre l'installation d'un jeune
 agriculteur.
 
-La liquidation et le paiement des crédits sont assurés par le Centre national
-pour l'aménagement des structures des exploitations agricoles.
+La liquidation et le paiement des crédits sont assurés par l'Agence de services
+et de paiement.
 
-Le conseil d'administration du Centre national pour l'aménagement des structures
-des exploitations agricoles est informé régulièrement de l'exécution des
-programmes régionaux et départementaux.
+Le conseil d'administration de l'Agence de services et de paiement est informé
+régulièrement de l'exécution des programmes régionaux et départementaux.

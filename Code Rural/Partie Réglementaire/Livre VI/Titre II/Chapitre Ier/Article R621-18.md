@@ -1,25 +1,54 @@
 Article R621-18
 ----
-L'état prévisionnel des recettes et dépenses d'un exercice est présenté et
-soumis au vote de l'organe délibérant de l'office avant le 25 novembre de
-l'année précédente.
+Pour l'exercice de ses compétences concernant les productions mentionnées au g
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé qui
+comprend, outre son président :
 
-Il est adopté par l'organe délibérant et approuvé conformément aux modalités
-fixées par le décret du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'Etat. Pour les
-opérations effectuées au titre des réglementations communautaires, cette
-approbation est réputée acquise à la date de réception, par les autorités
-compétentes, de la délibération et des documents correspondants.
+1° Quatre représentants de l'Etat :
 
-Dans le cas où l'état prévisionnel des recettes et dépenses n'est pas approuvé à
-l'ouverture de l'exercice, le directeur de l'office met en oeuvre les mesures
-financières prévues par la réglementation de la Communauté européenne. Les
-dépenses de personnel, de fonctionnement et d'investissement sont effectuées,
-jusqu'à l'approbation de cet état, par le directeur après accord du membre du
-corps du contrôle général économique et financier, sur la base de l'état
-prévisionnel des recettes et dépenses adopté pour l'exercice précédent,
-déduction faite, le cas échéant, des crédits qui avaient été affectés à des
-dépenses non renouvelables.
+- le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
 
-Les décisions modificatives de l'état prévisionnel des recettes et dépenses sont
-approuvées, le cas échéant, selon les mêmes modalités.
+- le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur général des douanes et droits indirects ou son représentant ;
+
+2° Deux personnalités représentant l'Institut national de l'origine et de la
+qualité, proposées par l'établissement ;
+
+3° Vingt personnalités désignées par les conseils de bassin viticole en leur
+sein, à raison de deux personnalités par bassin en application de l'article 3 du
+décret n° 2008-1359 du 18 décembre 2008 portant création des conseils de bassin
+viticole ;
+
+4° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
+
+5° Une personnalité représentant le secteur coopératif agricole, choisie parmi
+les personnes proposées par les organisations à compétence nationale les plus
+représentatives ;
+
+6° Une personnalité représentant les viticulteurs indépendants, choisie parmi
+les personnes proposées par les organisations à compétence nationale les plus
+représentatives ;
+
+7° Une personnalité représentant le négoce choisie parmi les personnes proposées
+par les organisations à compétence nationale les plus représentatives ;
+
+8° Une personnalité représentant les exportateurs choisie parmi les personnes
+proposées par les organisations à compétence nationale les plus représentatives
+;
+
+9° Une personnalité représentant les salariés de la filière, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
+
+10° Une personnalité représentant les consommateurs, proposée par le ministre
+chargé de la consommation.

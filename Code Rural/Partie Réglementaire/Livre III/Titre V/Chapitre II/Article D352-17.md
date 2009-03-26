@@ -12,5 +12,5 @@ des frais de formation peut en outre être accordée dans le cadre d'une
 convention passée à cet effet avec le centre de formation.
 
 La rémunération des stages agréés par le préfet de région est liquidée et payée
-par le Centre national pour l'aménagement des structures des exploitations
-agricoles et fait l'objet d'une comptabilité séparée.
+par l'Agence de services et de paiement et fait l'objet d'une comptabilité
+séparée.

@@ -1,25 +1,47 @@
 Article R621-9
 ----
-Tout membre du conseil de direction, du conseil de direction plénier ou d'un
-conseil de direction spécialisé peut se faire représenter par un autre membre.
-Chaque membre ne peut détenir qu'un seul mandat.
+Pour l'exercice de ses compétences concernant les productions mentionnées au b
+de l'article R. 621-2, l'établissement est doté d'un conseil spécialisé pour les
+filières de l'élevage hors sol qui comprend, outre son président :
 
-Le conseil de direction, le conseil de direction plénier et les conseils de
-direction spécialisés ne peuvent valablement délibérer que si plus de la moitié
-des membres sont présents ou représentés lors de l'ouverture de la réunion. Si
-ce quorum n'est pas atteint, le conseil de direction, le conseil de direction
-plénier ou le conseil de direction spécialisé est à nouveau convoqué dans un
-délai de quinze jours, sur le même ordre du jour. Il peut alors valablement
-délibérer quel que soit le nombre des membres présents ou représentés.
+1° Quatre représentants de l'Etat et de ses établissements publics :
 
-Chaque membre du conseil de direction, du conseil de direction plénier ou d'un
-conseil de direction spécialisé dispose d'une voix. Les délibérations sont
-acquises à la majorité des suffrages exprimés des membres présents ou
-représentés. En cas de partage égal des voix, celle du président est
-prépondérante.
+-le directeur général des politiques agricole, agroalimentaire et des
+territoires ou son représentant ;
 
-En cas d'urgence justifiée et sur décision de son président, le conseil de
-direction, le conseil de direction plénier ou le conseil de direction spécialisé
-peut se prononcer selon une procédure écrite. Dans ce cas, la délibération n'est
-valable que si les deux tiers au moins des membres en exercice ont pris part à
-la procédure. Celle-ci peut être organisée par voie électronique.
+-le directeur des affaires financières, sociales et logistiques ou son
+représentant ;
+
+-le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+-une personnalité représentant l'Institut national de l'origine et de la
+qualité, proposée par l'établissement ;
+
+2° Huit personnalités représentant la production agricole, dont sept choisies
+parmi les personnes proposées par les organisations syndicales d'exploitants
+agricoles représentatives mentionnées à l'article 3 du décret n° 90-187 du 28
+février 1990 et une représentant les producteurs en agriculture biologique
+choisie parmi les personnes proposées par les organisations professionnelles
+spécialisées en agriculture biologique ;
+
+3° Trois personnalités représentant le secteur coopératif agricole, choisies
+parmi les personnes proposées par les organisations à compétence nationale les
+plus représentatives ;
+
+4° Six personnalités représentant le commerce et l'industrie, choisies parmi les
+personnes proposées par les organisations professionnelles à compétence
+nationale les plus représentatives ;
+
+5° Une personnalité représentant les entreprises d'équarrissage, choisie parmi
+les personnes proposées par les organisations professionnelles les plus
+représentatives ;
+
+6° Une personnalité représentant la génétique animale, choisie parmi les
+personnes proposées par les organisations professionnelles représentatives ;
+
+7° Une personnalité représentant les salariés de la filière, choisie parmi les
+personnes proposées par les organisations syndicales les plus représentatives ;
+
+8° Une personnalité représentant les consommateurs, proposée par le ministre
+chargé de la consommation.

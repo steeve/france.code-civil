@@ -1,34 +1,12 @@
 Article R313-37
 ----
-La commission régionale de l'économie agricole et du monde rural est présidée
-par le préfet de région et comprend des représentants :
+Le compte financier est préparé par l'agent comptable suivant les dispositions
+du plan comptable et conformément aux directives de l'ordonnateur. Il retrace
+l'ensemble des opérations, tant nationales qu'européennes, enregistrées dans la
+comptabilité de l'agence.
 
-- des administrations intéressées et des établissements et organismes sous
-tutelle ;
-
-- des collectivités territoriales ;
-
-- des chambres consulaires, désignés en leur sein ;
-
-- des filières agricoles et agro-industrielles ;
-
-- de chacune des organisations syndicales d'exploitants agricoles à vocation
-générale représentatives au niveau départemental, désignés sur proposition de
-chacune d'entre elles ;
-
-- des syndicats de salariés des secteurs agricole et agro-alimentaire ;
-
-- des organismes socioprofessionnels et des associations du secteur des équidés,
-désignés, lorsqu'il existe, sur proposition du conseil régional des équidés ou
-du conseil régional des chevaux ;
-
-- des organisations de consommateurs ;
-
-- des associations de protection de la nature, et ;
-
-- des personnalités qualifiées.
-
-Lorsqu'elle est consultée sur les sujets relatifs à l'emploi dans les
-professions agricoles et les industries agroalimentaires, la commission comprend
-en outre des représentants des fonds d'assurance formation pour les secteurs de
-l'agriculture et de l'agroalimentaire.
+Il est arrêté par l'organe délibérant et est présenté pour approbation aux
+ministres chargés de l'agriculture, de l'emploi et du budget avant le 31 mars
+suivant la fin de l'exercice pour approbation, dans les conditions prévues par
+le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
+certaines décisions financières des établissements publics de l'Etat.

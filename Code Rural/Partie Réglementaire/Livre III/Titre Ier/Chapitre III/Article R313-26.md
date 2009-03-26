@@ -1,7 +1,6 @@
 Article R313-26
 ----
-Le directeur général du CNASEA est nommé par décret sur proposition du ministre
-de l'agriculture.
-
-Sa rémunération est fixée par décision conjointe des ministres chargés de
-l'agriculture et du budget.
+L'agence est soumise au régime financier et comptable défini par les
+dispositions de la présente sous section, ainsi que par les articles 151 à 153-1
+et 190 à 225 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement
+général sur la comptabilité publique.

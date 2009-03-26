@@ -1,8 +1,13 @@
 Article R621-24
 ----
-L'agent comptable de l'office est nommé par arrêté conjoint du ministre chargé
-du budget et du ministre chargé de l'agriculture.
+Le conseil d'administration se réunit, sur convocation de son président, au
+moins trois fois par an.
 
-Des comptables secondaires peuvent être désignés par le directeur après avis de
-l'agent comptable principal et avec l'agrément conjoint du ministre chargé de
-l'agriculture et du ministre chargé du budget.
+Les conseils spécialisés se réunissent sur convocation de leur président.
+
+La convocation d'un conseil est de droit si elle est demandée par la moitié des
+membres en exercice ou par l'un des ministres représentés au sein de ce conseil.
+
+Le directeur général, l'autorité chargée du contrôle économique et financier
+désignée auprès de l'établissement et l'agent comptable assistent de droit aux
+séances.
