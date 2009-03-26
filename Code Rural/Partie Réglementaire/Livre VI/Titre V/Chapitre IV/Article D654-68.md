@@ -17,9 +17,9 @@ Le producteur qui n'a pas transmis cette déclaration à FranceAgriMer avant le 
 juin suivant la fin de la campagne est passible de la sanction prévue au 7° de
 l'article L. 654-33.
 
-La mise en réserve de la quantité de référence pour la vente directe par le
-directeur général de FranceAgriMer intervient à l'expiration d'un délai de
-quinze jours après mise en demeure, si celle-ci est restée sans effet.
+La mise en réserve du quota individuel pour la vente directe par le directeur
+général de FranceAgriMer intervient à l'expiration d'un délai de quinze jours
+après mise en demeure, si celle-ci est restée sans effet.
 
 La mise en réserve ne peut être prononcée qu'après avis de la commission de
 conciliation des litiges prévue à l'article D. 654-94.

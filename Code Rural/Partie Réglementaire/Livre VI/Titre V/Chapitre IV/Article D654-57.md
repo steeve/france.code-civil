@@ -6,10 +6,10 @@ fourni par FranceAgriMer. Cet état comporte, pour chaque producteur :
 
 a) Son nom ou sa raison sociale et l'adresse du siège de l'exploitation ;
 
-b) La quantité de référence et le taux de référence de matière grasse notifiés
-au titre de la campagne ;
+b) Le quota individuel et le taux de référence de matière grasse notifiés au
+titre de la campagne ;
 
-c) Les accroissements et les diminutions des quantités de référence à caractère
+c) Les accroissements et les diminutions des quotas individuels à caractère
 définitif et ceux limités à la campagne ;
 
 d) La quantité et le taux de matière grasse du lait collecté ;
@@ -32,5 +32,5 @@ nominatif relatif aux producteurs du département concerné et le récapitulatif
 
 III. - Ces listes sont communiquées aux commissions départementales
 d'orientation de l'agriculture et peuvent être consultées, au siège de la
-direction départementale de l'agriculture et de la forêt de leur département,
-par les producteurs concernés.
+direction départementale des territoires ou de la direction départementale des
+territoires et de la mer de leur département, par les producteurs concernés.

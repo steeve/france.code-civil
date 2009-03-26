@@ -2,8 +2,8 @@ Article D654-88-6
 ----
 Le bénéfice de l'indemnité est soumis au respect d'engagements, incluant
 notamment la cessation des livraisons et de la commercialisation du lait et la
-renonciation aux quantités de référence laitière par le producteur bénéficiaire
-au cas où sa demande serait acceptée.
+renonciation au quota individuel par le producteur bénéficiaire au cas où sa
+demande serait acceptée.
 
 Ces engagements sont définis par l'arrêté mentionné à l'article D. 654-88-1.
 

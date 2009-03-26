@@ -1,11 +1,12 @@
 Article D654-41
 ----
-Conformément aux règlements (CE) n° 1788 / 2003 du 29 septembre 2003 et (CE) n°
-595 / 2004 de la Commission du 30 mars 2004 pris pour son application, tout
-acheteur de lait doit être agréé. Cet agrément est délivré sur demande de
-l'intéressé par le directeur général de FranceAgriMer. Outre les pièces
-justifiant qu'il remplit les conditions d'agrément mentionnées à l'article 24 du
-règlement (CE) n° 595 / 2004, l'acheteur doit fournir à l'appui de sa demande :
+Conformément aux règlements (CE) n° 1234/2007 du Conseil du 22 octobre 2007
+susmentionné et (CE) n° 595 / 2004 de la Commission du 30 mars 2004 pris pour
+son application, tout acheteur de lait doit être agréé. Cet agrément est délivré
+sur demande de l'intéressé par le directeur général de FranceAgriMer. Outre les
+pièces justifiant qu'il remplit les conditions d'agrément mentionnées à
+l'article 24 du règlement (CE) n° 595 / 2004, l'acheteur doit fournir à l'appui
+de sa demande :
 
 1° Les pièces justifiant qu'il a la qualité de commerçant et dispose de locaux
 où pourront être consultés les documents tenus en application des articles D.
