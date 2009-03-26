@@ -8,7 +8,7 @@ chargé de l'agriculture parmi les membres professionnels ;
 
 2° Sont désignés par le ministre chargé de l'agriculture :
 
--un directeur régional de l'agriculture et de la forêt ;
+-un directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
 -un directeur départemental de l'agriculture et de la forêt ;
 
