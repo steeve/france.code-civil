@@ -20,3 +20,6 @@ règles dictées par des impératifs d'ordre commercial, telles que la définiti
 du nombre de places et des espaces affectés à l'accueil du public ou la
 détermination de dispositifs et d'installations ayant pour seul objet de
 permettre la retransmission audiovisuelle des compétitions.
+
+Les règlements relatifs aux équipements sportifs ne peuvent imposer le choix
+d'une marque pour un matériel ou un matériau déterminé.
