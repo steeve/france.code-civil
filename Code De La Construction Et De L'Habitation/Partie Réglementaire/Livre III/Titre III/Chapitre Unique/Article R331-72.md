@@ -23,4 +23,6 @@ logement ;
 7. Les compléments de prêts accordés aux Français rapatriés d'outre-mer
 titulaires de titres d'indemnisation prévus par la loi n° 78-1 du 2 janvier 1978
 relative à l'indemnisation des Français rapatriés d'outre-mer dépossédés de
-leurs biens.
+leurs biens ;
+
+8. L'avance aidée par l'Etat mentionnée à l'article R. 319-1.
