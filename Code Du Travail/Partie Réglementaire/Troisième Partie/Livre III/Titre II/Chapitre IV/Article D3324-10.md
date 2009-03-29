@@ -8,3 +8,10 @@ une somme, qui est identique pour tous les salariés et figure dans l'accord.
 Cette somme est au plus égale à quatre fois le plafond annuel retenu pour la
 détermination du montant maximum des cotisations de sécurité sociale et
 d'allocations familiales.
+
+Pour les salariés des groupements d'employeurs bénéficiaires de la participation
+dans leur entreprise utilisatrice, le salaire servant de base à la répartition
+proportionnelle est le salaire mentionné au dernier alinéa de l'article D.
+3324-1. Pour les bénéficiaires mentionnés au deuxième alinéa de l'article L.
+3323-6 et au troisième alinéa de l'article L. 3324-2 s'appliquent les
+dispositions du premier alinéa de l'article L. 3324-5.

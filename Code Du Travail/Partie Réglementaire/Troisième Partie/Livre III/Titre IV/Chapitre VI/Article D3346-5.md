@@ -1,4 +1,7 @@
 Article D3346-5
 ----
-Le vice-président du Conseil supérieur est nommé par le ministre chargé du
-travail parmi les personnalités mentionnées au 6° de l'article D. 3346-4.
+Les fonctions des membres du conseil ne sont pas rémunérées.
+
+Des frais de déplacement et de séjour peuvent être alloués aux membres du
+conseil dans les conditions fixées par arrêté conjoint des ministres chargés du
+travail et du budget.
