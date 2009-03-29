@@ -8,25 +8,23 @@ I. ― Activité et situation financière de l'entreprise
 
 a) Chiffre d'affaires, bénéfices ou pertes constatés ;
 
-
 b) Résultats d'activité en valeur et en volume ;
-
 
 c) Transferts de capitaux importants entre la société mère et les filiales ;
 
-
 d) Situation de la sous-traitance ;
-
 
 e) Affectation des bénéfices réalisés ;
 
-
-f) Aides ou avantages financiers consentis à l'entreprise par l'Etat ou les
-collectivités locales, et leur emploi ;
-
+f) Aides ou avantages financiers consentis à l'entreprise par l'Union
+européenne, l'Etat, une collectivité territoriale, un de leurs établissements
+publics ou un organisme privé chargé d'une mission de service public, et leur
+utilisation. Pour chacune de ces aides qui entre dans le champ d'application de
+l'obligation mentionnée à l'article R. 2323-9-1, le rapport indique la nature de
+l'aide, son objet, son montant, les conditions de versement et d'emploi fixées,
+le cas échéant, par la personne publique qui l'attribue et son emploi ;
 
 g) Investissements ;
-
 
 h) Evolution de la structure et du montant des salaires.
 
@@ -34,14 +32,11 @@ h) Evolution de la structure et du montant des salaires.
 
 a) Perspectives économiques de l'entreprise pour l'année à venir ;
 
-
 b) Mesures envisagées pour l'amélioration, le renouvellement ou la
 transformation des équipements ;
 
-
 c) Mesures envisagées en ce qui concerne l'amélioration, le renouvellement ou la
 transformation des méthodes de production et d'exploitation ;
-
 
 d) Incidence de ces mesures sur les conditions de travail et d'emploi.
 
@@ -52,7 +47,6 @@ II. ― Evolution de l'emploi, des qualifications et de la formation
 a) Données générales : ― Evolution des effectifs retracée mois par mois ; ―
 Répartition des effectifs par sexe et par qualification ;
 
-
 b) Données par types de contrat de travail : ― Nombre de salariés titulaires
 d'un contrat de travail à durée indéterminée ; ― Nombre de salariés titulaires
 d'un contrat de travail à durée déterminée ; ― Nombre de salariés temporaires ;
@@ -60,7 +54,6 @@ d'un contrat de travail à durée déterminée ; ― Nombre de salariés tempora
 journées de travail réalisées au cours des douze derniers mois par les salariés
 temporaires ; ― Nombre de contrats d'insertion et de formation en alternance
 ouverts aux jeunes de moins de vingt-six ans ;
-
 
 c) Données sur le travail à temps partiel : ― Nombre, sexe et qualification des
 salariés travaillant à temps partiel ; ― Horaires de travail à temps partiel
@@ -76,11 +69,9 @@ partiel, ainsi qu'à des salariés appartenant à une entreprise extérieure.
 
 a) Prévisions chiffrées en matière d'emploi ;
 
-
 b) Indication des actions de prévention et de formation que l'employeur envisage
 de mettre en œuvre, notamment au bénéfice des salariés âgés, peu qualifiés ou
 présentant des difficultés sociales particulières ;
-
 
 c) Explications de l'employeur sur les écarts éventuellement constatés entre les
 prévisions et l'évolution effective de l'emploi, ainsi que sur les conditions
@@ -93,13 +84,10 @@ respective des femmes et des hommes en matière d'embauche, de formation, de
 promotion professionnelle, de qualification, de classification, de conditions de
 travail et de rémunération effective ;
 
-
 b) Mesures prises au cours de l'année écoulée en vue d'assurer l'égalité
 professionnelle ;
 
-
 c) Objectifs et actions pour l'année à venir ;
-
 
 d) Explications sur les actions prévues non réalisées.
 
@@ -107,7 +95,6 @@ d) Explications sur les actions prévues non réalisées.
 
 a) Actions entreprises ou projetées en matière d'embauche, d'adaptation, de
 réadaptation ou de formation professionnelle ;
-
 
 b) La déclaration annuelle prévue à l'article L. 5212-5 à l'exclusion de la
 liste mentionnée au 1° de l'article R. 5212-2 est jointe au présent rapport.
