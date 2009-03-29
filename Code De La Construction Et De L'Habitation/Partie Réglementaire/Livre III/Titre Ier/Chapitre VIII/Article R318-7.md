@@ -1,10 +1,9 @@
 Article R318-7
 ----
 Est considéré comme résidence principale, au sens du présent chapitre, un
-logement occupé au moins huit mois par an, sauf en cas d'obligation de
-déplacement liée à l'activité professionnelle, raison de santé ou cas de force
-majeure, par l'emprunteur et les personnes visées au deuxième alinéa de
-l'article R. 318-4.
+logement occupé au moins huit mois par an, sauf en cas d'obligation
+professionnelle, raison de santé ou cas de force majeure, par l'emprunteur et
+les personnes visées au deuxième alinéa de l'article R. 318-4.
 
 Tant que l'avance n'est pas totalement remboursée, l'emprunteur ne peut proposer
 le logement à la location que dans les conditions suivantes :
@@ -15,7 +14,7 @@ de 70 km entre le nouveau lieu de travail et le logement financé ; décès ;
 divorce ; dissolution d'un pacte civil de solidarité ; invalidité ou incapacité
 reconnue par la délivrance d'une carte d'invalidité définie à l'article L. 241-3
 du code de l'action sociale et des familles ; chômage d'une durée supérieure à
-un an attestée par l'inscription à l' institution mentionnée à l'article L.
+un an attestée par l'inscription à l'institution mentionnée à l'article L.
 5312-1 du code du travail ;
 
 -le logement ne peut être loué qu'à un locataire dont les ressources, à la date
