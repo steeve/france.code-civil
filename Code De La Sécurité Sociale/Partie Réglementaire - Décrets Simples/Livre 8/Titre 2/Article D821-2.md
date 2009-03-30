@@ -3,8 +3,8 @@ Article D821-2
 Les personnes qui satisfont aux autres conditions d'attribution peuvent
 prétendre à l'allocation aux adultes handicapés si l'ensemble des autres
 ressources perçues par elles durant l'année civile de référence n'atteint pas
-douze fois le montant de l'allocation aux adultes handicapés mentionné à
-l'article D. 821-3.
+douze fois le montant de l'allocation aux adultes handicapés fixé selon les
+modalités prévues à l'article L. 821-3-1.
 
 Lorsque le demandeur est marié et non séparé ou qu'il est lié par un pacte civil
 de solidarité ou vit en concubinage, le plafond mentionné au premier alinéa est
@@ -16,7 +16,7 @@ Le bénéficiaire de l'allocation aux adultes handicapés a droit, mensuellement
 une allocation égale au douzième de la différence entre le montant du plafond
 applicable et les ressources mentionnées au premier alinéa, sans que cette
 allocation puisse excéder le montant mensuel de l'allocation aux adultes
-handicapés mentionné à l'article D. 821-3.
+handicapés fixé selon les modalités prévues à l'article L. 821-3-1.
 
 Pour l'application de la condition de ressources prévue au présent article, le
 droit à l'allocation est examiné pour chaque période de douze mois commençant le
