@@ -4,12 +4,15 @@ Sont destinataires des données à caractère personnel enregistrées dans le
 traitement ELOI, pour les besoins exclusifs des missions relatives aux
 procédures d'éloignement qui leur sont confiées :
 
-1° Les agents des services centraux du ministère de l'intérieur (direction des
+1° Les agents des services centraux du ministère chargé de l'immigration
+(direction de l'immigration), du ministère de l'intérieur (direction des
 libertés publiques et des affaires juridiques, direction centrale de la police
-aux frontières et direction centrale de la sécurité publique) individuellement
-désignés et spécialement habilités, selon le cas, par le directeur des libertés
-publiques et des affaires juridiques, le directeur central de la police aux
-frontières ou le directeur central de la sécurité publique ;
+aux frontières, direction centrale de la sécurité publique) et du ministère de
+la défense (direction générale de la gendarmerie nationale) individuellement
+désignés et spécialement habilités, selon le cas, par le directeur de
+l'immigration, le directeur des libertés publiques et des affaires juridiques,
+le directeur central de la police aux frontières, le directeur central de la
+sécurité publique ou le directeur général de la gendarmerie nationale ;
 
 2° Les agents des services préfectoraux en charge de la gestion de la procédure
 d'éloignement individuellement désignés et spécialement habilités par le préfet
