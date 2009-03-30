@@ -10,8 +10,8 @@ document attestant le marquage ;
 
 2° Le vendeur ou le donateur est tenu :
 
-a) D'adresser dans les huit jours au gestionnaire du fichier national le
-document attestant l'identification ;
+a) De délivrer immédiatement au propriétaire de l'animal un document attestant
+l'identification ;
 
 b) D'adresser dans les huit jours au gestionnaire du fichier national le
 document attestant la mutation ;
