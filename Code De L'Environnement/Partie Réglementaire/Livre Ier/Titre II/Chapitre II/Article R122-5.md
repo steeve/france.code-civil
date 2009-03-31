@@ -34,7 +34,11 @@ modernisation.
 5 o Transport et distribution d'électricité.
 
 Travaux d'installation ou de modernisation des ouvrages de tension inférieure à
-63 kV. Travaux d'électrification des voies ferrées.
+63 kV. Constructions et travaux d'installation ou de modernisation concernant
+les liaisons souterraines de tension inférieure à 225 kV. Constructions et
+travaux d'installation ou de modernisation concernant les liaisons souterraines
+de tension égale à 225 kV et d'une longueur inférieure ou égale à 15 km. Travaux
+d'électrification des voies ferrées.
 
 6 o Réseaux de distribution de gaz.
 
@@ -54,7 +58,7 @@ maximum n'excède pas 500 kW.
 (D. n o 2006-649, 2 juin 2006, art. 54) Recherches de mines et de carrières.
 
 Mines : travaux soumis à déclaration en vertu du décret n o 2006-649 du 2 juin
-2006 ».
+2006.
 
 Carrières : travaux soumis à autorisation en application des articles 109 et
 109-1 du code minier et du décret n o 97-181 du 28 février 1997 pris pour son
@@ -71,7 +75,7 @@ Travaux d'installation et de modernisation.
 
 12 o Réservoirs de stockage d'eau.
 
-Travaux concernant les réservoirs de stockage d'eau sur tour » d'une capacité
+Travaux concernant les réservoirs de stockage d'eau sur tour d'une capacité
 inférieure à 1 000 m 3 et les autres réservoirs de stockage d'eau d'une
 superficie inférieure à 10 ha.
 
@@ -112,7 +116,7 @@ publique.
 20 o Production d'énergie éolienne.
 
 Travaux d'installation et de modernisation des ouvrages dont la hauteur du mât
-est inférieure ou égale à 50 mètres ».
+est inférieure ou égale à 50 mètres.
 
 21 o
 

@@ -170,7 +170,7 @@ traiter un flux de matières polluantes au moins équivalent à celui produit pa
 
 19 o Réservoirs de stockage d'eau.
 
-Réservoirs sur tour » d'une capacité supérieure ou égale à 1 000 mètres cubes et
+Réservoirs sur tour d'une capacité supérieure ou égale à 1 000 mètres cubes et
 autres réservoirs d'une superficie égale ou supérieure à 10 ha.
 
 20 o Canalisations d'adduction d'eau potable.
@@ -211,7 +211,9 @@ demande, d'un plan local d'urbanisme ou d'un plan d'occupation des sols ou d'un
 document d'urbanisme en tenant lieu ayant fait l'objet d'une enquête publique.
 
 24 o Ouverture de travaux miniers et de travaux de stockage souterrain soumis à
-autorisation en vertu du décret n o 2006-649 du 2 juin 2006.
+autorisation en vertu du
+
+décret n o 2006-649 du 2 juin 2006.
 
 Travaux provoquant un terrassement total d'un volume supérieur à 20 000 mètres
 cubes ou entraînant la dissolution de certaines couches du sous-sol, ou
@@ -219,7 +221,11 @@ effectués sur des terrains humides ou des marais.
 
 25 o Ouvrages de transport et de distribution d'électricité.
 
-Ouvrages d'une tension supérieure ou égale à 63 kV.
+Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Constructions et
+travaux d'installation ou de modernisation concernant les liaisons souterraines
+de tension égale à 225 kV d'une longueur supérieure à 15 km. Constructions et
+travaux d'installation ou de modernisation concernant les liaisons souterraines
+de tension supérieure à 225 kV.
 
 26 o Canalisations de transport de gaz.
 
@@ -241,8 +247,11 @@ supérieur ou égal à 5 000 mètres carrés.
 
 29 o Installations nucléaires de base.
 
-Installations définies par le décret n o 2007-830 du 11 mai 2007 relatif à la
-nomenclature des installations nucléaires de base.
+
+Installations définies par le
+
+décret n o 2007-830 du 11 mai 2007 relatif à la nomenclature des installations
+nucléaires de base.
 
 30 o (Supprimé à compter du 1 er octobre 2006)
 
