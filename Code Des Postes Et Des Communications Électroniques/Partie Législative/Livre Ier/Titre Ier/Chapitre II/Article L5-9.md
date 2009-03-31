@@ -31,12 +31,9 @@ communication des documents comptables et factures, de toute pièce ou document
 utile, en prennent copie, et recueillent, sur convocation ou sur place, les
 renseignements et justifications propres à l'accomplissement de leur mission.
 
-Ils peuvent accéder à tous locaux, terrains et véhicules à usage professionnel,
-à l'exclusion des domiciles et parties de locaux servant de domicile, relevant
-de ces personnes, sauf autorisation du président du tribunal de grande instance
-ou du magistrat qu'il délègue à cette fin. Ils ne peuvent accéder à ces locaux
-qu'entre 6 heures et 21 heures ou pendant leurs heures d'ouverture s'ils sont
-ouverts au public.
+Ils peuvent accéder à tous locaux, terrains et véhicules à usage professionnel.
+Lorsque les locaux ou une partie de ceux-ci constituent un domicile, les visites
+sont autorisées dans les conditions définies à l'article L. 5-9-1.
 
 Le ministre chargé des postes et le président de l'Autorité de régulation des
 communications électroniques et des postes veillent à ce que ne soient pas

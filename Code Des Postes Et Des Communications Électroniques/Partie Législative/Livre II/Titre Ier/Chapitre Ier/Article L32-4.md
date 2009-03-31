@@ -28,9 +28,9 @@ des services de communications électroniques, demander la communication de tous
 documents professionnels nécessaires et en prendre copie, enfin recueillir, sur
 convocation ou sur place, les renseignements et justifications nécessaires. Ils
 ne peuvent accéder à ces locaux qu'entre 8 heures et 20 heures ou pendant leurs
-heures d'ouverture au public. Ils ne peuvent pénétrer dans la partie des locaux
-servant de domicile aux intéressés, sauf autorisation du président du tribunal
-de grande instance ou du magistrat qu'il délègue à cette fin.
+heures d'ouverture au public. Lorsque les locaux ou une partie de ceux-ci
+constituent un domicile, les visites sont autorisées dans les conditions
+définies à l'article L. 32-5.
 
 Le ministre chargé des communications électroniques et l'Autorité de régulation
 des communications électroniques et des postes veillent à ce que ne soient pas

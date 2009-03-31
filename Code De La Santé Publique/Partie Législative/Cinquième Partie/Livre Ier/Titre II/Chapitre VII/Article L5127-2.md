@@ -9,12 +9,18 @@ la garde du détenteur. Ces opérations font l'objet d'un rapport dont une copie
 est remise au détenteur et vaut notification de la décision de consignation.
 
 La mesure de consignation ne peut excéder quinze jours que sur autorisation du
-président du tribunal de grande instance ou du juge délégué par lui, saisi sur
-requête par les pharmaciens inspecteurs de santé publique. La demande comporte
-tous les éléments d'information de nature à justifier la prorogation de la
-consignation. Le président du tribunal de grande instance ou le juge délégué par
-lui statue sur cette demande dans les vingt-quatre heures. Il peut ordonner la
-consignation jusqu'à la production des résultats d'analyse ou des documents.
+juge des libertés et de la détention, saisi sur requête par les pharmaciens
+inspecteurs de santé publique. La demande comporte tous les éléments
+d'information de nature à justifier la prorogation de la consignation. Le juge
+des libertés et de la détention statue sur cette demande dans les vingt-quatre
+heures. Il peut ordonner la consignation jusqu'à la production des résultats
+d'analyse ou des documents.
 
-Le président du tribunal de grande instance ou le juge délégué par lui peut, à
-tout moment, ordonner la mainlevée de la mesure de consignation.
+Le juge des libertés et de la détention peut, à tout moment, ordonner la
+mainlevée de la mesure de consignation.
+
+L'ordonnance autorisant la prolongation d'une mesure de consignation est
+susceptible de recours dans les mêmes conditions que celles fixées à l'article
+L. 1421-2-1 pour la contestation d'une ordonnance autorisant une
+visite.L'ordonnance rendue en appel est susceptible de pourvoi en cassation dans
+un délai de quinze jours.

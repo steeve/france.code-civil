@@ -1,8 +1,8 @@
-Article L32-5
+Article L5-9-1
 ----
-I.-La visite prévue à l'article L. 32-4 est autorisée par ordonnance du juge des
-libertés et de la détention du tribunal de grande instance dans le ressort
-duquel sont situés les lieux à visiter.
+I. - La visite est autorisée par ordonnance du juge des libertés et de la
+détention du tribunal de grande instance dans le ressort duquel sont situés les
+lieux à visiter.
 
 L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou
 des fonctionnaires habilités à procéder aux opérations de visite et de saisie
@@ -10,7 +10,7 @@ ainsi que les heures auxquelles ils sont autorisés à se présenter.
 
 L'ordonnance est exécutoire au seul vu de la minute.
 
-II.-L'ordonnance est notifiée sur place, au moment de la visite, à l'occupant
+II. - L'ordonnance est notifiée sur place, au moment de la visite, à l'occupant
 des lieux ou à son représentant qui en reçoit copie intégrale contre récépissé
 ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux
 ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre
@@ -19,11 +19,11 @@ recommandée avec demande d'avis de réception. La notification est réputée fa
 à la signification de l'ordonnance par acte d'huissier de justice.
 
 L'acte de notification comporte mention des voies et délais de recours contre
-l'ordonnance ayant autorisé la visite et contre le déroulement des opérations de
+l'ordonnance ayant autorisé la visite et contre déroulement des opérations de
 visite. Il mentionne également que le juge ayant autorisé la visite peut être
 saisi d'une demande de suspension ou d'arrêt de cette visite.
 
-III.-La visite et la saisie de documents s'effectuent sous l'autorité et le
+III. - La visite et la saisie de documents s'effectuent sous l'autorité et le
 contrôle du juge des libertés et de la détention qui les a autorisées. Le juge
 des libertés et de la détention peut, s'il l'estime utile, se rendre dans les
 locaux pendant l'intervention.A tout moment, il peut décider la suspension ou
@@ -31,7 +31,7 @@ l'arrêt de la visite. La saisine du juge des libertés et de la détention aux
 fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas
 d'effet suspensif.
 
-IV.-La visite ne peut commencer avant 6 heures et après 21 heures. Elle est
+IV. - La visite ne peut commencer avant 6 heures et après 21 heures. Elle est
 effectuée en présence de l'occupant des lieux ou de son représentant, qui peut
 se faire assister de l'avocat de son choix. En l'absence de l'occupant des
 lieux, les agents chargés de la visite ne peuvent procéder à celle-ci qu'en
@@ -44,7 +44,7 @@ Un procès-verbal relatant les modalités et le déroulement de l'opération et
 consignant les constatations effectuées est dressé sur-le-champ par les agents
 habilités à procéder à la visite. Un inventaire des pièces et documents saisis
 lui est annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par
-les agents habilités et l'occupant des lieux ou, le cas échéant, par son
+les agents habilités et par l'occupant des lieux ou, le cas échéant, son
 représentant et les témoins. En cas de refus de signer, mention en est faite au
 procès-verbal.
 
@@ -59,7 +59,7 @@ Les pièces saisies sont conservées pour les besoins de la procédure, à moins
 qu'une décision insusceptible de pourvoi en cassation par les parties n'en
 ordonne la restitution.
 
-V.-L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le
+V. - L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le
 premier président de la cour d'appel suivant les règles prévues par le code de
 procédure civile. Les parties ne sont pas tenues de constituer avoué.
 
@@ -74,7 +74,7 @@ L'ordonnance du premier président de la cour d'appel est susceptible d'un
 pourvoi en cassation, selon les règles prévues par le code de procédure civile.
 Le délai du pourvoi en cassation est de quinze jours.
 
-VI.-Le premier président de la cour d'appel connaît des recours contre le
+VI. - Le premier président de la cour d'appel connaît des recours contre le
 déroulement des opérations de visite ou de saisie autorisées par le juge des
 libertés et de la détention suivant les règles prévues par le code de procédure
 civile. Les parties ne sont pas tenues de constituer avoué.
@@ -88,5 +88,5 @@ L'ordonnance du premier président de la cour d'appel est susceptible d'un
 pourvoi en cassation selon les règles prévues par le code de procédure civile.
 Le délai du pourvoi en cassation est de quinze jours.
 
-VII.-Le présent article est reproduit dans l'acte de notification de
+VII. - Le présent article est reproduit dans l'acte de notification de
 l'ordonnance du juge des libertés et de la détention autorisant la visite.
