@@ -13,10 +13,10 @@ santé et de recevoir un enseignement à domicile, en ayant recours, si besoin, 
 des modalités aménagées d'enseignement à distance.
 
 Il reste également inscrit dans son établissement scolaire de référence
-lorsqu'il est accueilli dans l'un des établissements mentionnés au 2° du I de
-l'article L. 312-1 du code de l'action sociale et des familles ou dans l'un des
-établissements mentionnés au livre Ier de la sixième partie du code de la santé
-publique.
+lorsqu'il est accueilli dans l'un des établissements ou des services mentionnés
+au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou
+dans l'un des établissements mentionnés au livre Ier de la sixième partie du
+code de la santé publique.
 
 Sa scolarité peut alors s'effectuer, soit dans l'unité d'enseignement, définie à
 l'article D. 351-17 du présent code, de l'établissement dans lequel il est

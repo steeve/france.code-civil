@@ -14,3 +14,20 @@ l'unité d'enseignement, le nombre et la qualification des enseignants qui y
 exercent, les modalités de coopération avec les écoles ou les établissements
 scolaires mentionnés au premier alinéa de l'article L. 351-1, le rôle du
 directeur et du responsable pédagogique ainsi que les locaux scolaires.
+
+Dans le cadre de cette convention, le directeur de l'établissement ou du service
+médico-social est responsable de la mise en œuvre des modalités de
+fonctionnement de l'unité d'enseignement.
+
+Lorsque l'unité est organisée pour tout ou partie dans un établissement
+scolaire, cette mise en œuvre est menée conjointement avec les responsables des
+établissements scolaires concernés, qui agissent par délégation de l'inspecteur
+d'académie ou du directeur régional de l'agriculture et de la pêche.
+
+L'unité d'enseignement est organisée selon les modalités suivantes :
+
+1° Soit dans les locaux d'un établissement scolaire ;
+
+2° Soit dans les locaux d'un établissement ou d'un service médico-social ;
+
+3° Soit dans les locaux des deux établissements ou services.
