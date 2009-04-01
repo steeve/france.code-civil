@@ -5,7 +5,7 @@ l'article L. 133-6-8 et, le cas échéant, de celles de l'article 151-0 du code
 général des impôts communique périodiquement à l'organisme chargé du calcul et
 de l'encaissement des cotisations et contributions sociales le formulaire dont
 le modèle est fixé par arrêté conjoint des ministres chargés de la sécurité
-sociale, du commerce et de l'artisanat.
+sociale, du commerce et de l'artisanat et des professions libérales.
 
 Le formulaire mentionne le montant du chiffre d'affaires ou le montant des
 recettes, qui sont pris en compte pour la détermination des régimes d'imposition
