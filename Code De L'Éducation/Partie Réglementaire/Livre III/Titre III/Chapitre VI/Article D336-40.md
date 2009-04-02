@@ -51,5 +51,8 @@ la note moyenne pour l'ensemble des deux groupes d'épreuves est au moins égale
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114
 du code de l'action sociale et des familles et qui sont autorisés à étaler sur
 plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury
-délibère pour les seules épreuves effectivement présentées. La mention "sans
-décision finale" est portée sur le relevé des notes du candidat.
+délibère pour les seules épreuves effectivement présentées. La mention " sans
+décision finale " est portée sur le relevé des notes du candidat. Pour ces
+candidats, la présentation des épreuves du second groupe de l'examen fait
+l'objet d'aménagements dans les conditions fixées par arrêté du ministre chargé
+de l'éducation.

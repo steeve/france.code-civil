@@ -1,7 +1,7 @@
 Article D336-8
 ----
 La valeur de chacune des épreuves du baccalauréat technologique est exprimée par
-une note variant de 0 à 20, en points entiers. L'absence non justifiée à une
+une note variant de 0 à 20, en points entiers.L'absence non justifiée à une
 épreuve obligatoire est sanctionnée par la note zéro.
 
 La note de chaque épreuve obligatoire est multipliée par son coefficient.
@@ -30,5 +30,9 @@ second groupe d'épreuves ne peuvent obtenir une mention.
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114
 du code de l'action sociale et des familles et qui sont autorisés à étaler sur
 plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury
-délibère pour les seules épreuves effectivement présentées. La mention "sans
-décision finale" est portée sur le relevé des notes du candidat.
+délibère pour les seules épreuves effectivement présentées. La mention " sans
+décision finale " est portée sur le relevé des notes du candidat. Pour ces
+candidats, la présentation des épreuves du second groupe de l'examen fait
+l'objet d'aménagements dans les conditions fixées par arrêté du ministre chargé
+de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de
+l'agriculture.
