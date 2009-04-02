@@ -14,5 +14,8 @@ de l'urbanisme ;
 3° de l'édification ou de la modification de clôtures.
 
 Si le monument naturel ou le site classé ou dont le classement est envisagé est
-situé dans le coeur d'un parc national, cette autorisation est délivrée par le
-directeur de l'établissement public du parc national.
+situé en dehors des espaces urbanisés du cœur d'un parc national délimités par
+le décret de création de ce parc et que les modifications projetées figurent sur
+la liste prévue par l'article R. 331-18 du code de l'environnement, cette
+autorisation est délivrée par le directeur de l'établissement public du parc
+national.

@@ -14,7 +14,7 @@ acheter des animaux non domestiques, des végétaux non cultivés quel que soit
 leur stade de développement ou des parties de ceux-ci, des minéraux ou des
 fossiles, en provenance de la réserve naturelle ;
 
-4° De détenir une arme pouvant être utilisée pour la chasse ;
+4° De chasser ou détenir une arme pouvant être utilisée pour la chasse ;
 
 5° D'allumer du feu ;
 

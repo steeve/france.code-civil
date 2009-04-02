@@ -5,7 +5,9 @@ infraction à la réglementation applicable au coeur du parc national :
 
 1° De porter atteinte, détenir ou transporter, de quelque manière que ce soit,
 des animaux non domestiques, des végétaux non cultivés quel que soit leur stade
-de développement ou des parties de ceux-ci, des minéraux ou des fossiles ;
+de développement ou des parties de ceux-ci, des minéraux ou des fossiles, ainsi
+que des éléments de constructions ou objets appartenant ou susceptibles
+d'appartenir au patrimoine historique, architectural ou archéologique ;
 
 2° D'introduire, à l'intérieur du coeur du parc national, des animaux ou des
 végétaux, quel que soit leur stade de développement ;

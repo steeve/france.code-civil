@@ -34,3 +34,13 @@ Il assure avec ses délégués le secrétariat des différents organes de l'agen
 Il peut déléguer ses compétences pour la gestion des parcs naturels marins.
 
 Il peut déléguer sa signature à des agents placés sous son autorité.
+
+Le directeur assure la publicité de tous les actes réglementaires pris par
+l'agence, notamment des délégations prévues aux articles R. 334-8, R. 334-9, R.
+334-10, R. 334-15, R. 334-33, R. 334-34, R. 334-36 et R. 334-37. Ces actes sont
+affichés pendant deux mois au siège de l'agence et publiés, dans les trois mois
+suivant leur intervention, au recueil des actes administratifs de l'agence.
+
+Le recueil est tenu à la disposition du public au siège de l'agence et des
+conseils de gestion de chaque parc naturel marin et mis à sa disposition sous
+forme électronique de façon permanente et gratuite.

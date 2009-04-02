@@ -1,7 +1,10 @@
 Article R331-22
 ----
-Les établissements publics des parcs nationaux, outre les missions qui leur sont
-reconnues par les articles L. 331-8 et L. 331-9, ont pour vocation :
+I.-L'établissement public du parc national est placé sous la tutelle du ministre
+chargé de la protection de la nature.
+
+II.-Les établissements publics des parcs nationaux, outre les missions qui leur
+sont reconnues par les articles L. 331-8 et L. 331-9, ont pour vocation :
 
 1° De contribuer à la politique de protection du patrimoine naturel, culturel et
 paysager ;

@@ -7,6 +7,6 @@ permis de construire ou le permis d'aménager ne peut intervenir qu'avec l'accor
 de l'établissement public du parc émis après consultation de son conseil
 scientifique conformément au II de l'article L. 331-4 de ce code.
 
-Dans le cas prévu au a de l'article R. 425-6, l'accord du directeur de
-l'établissement public du parc tient lieu de l'accord mentionné à l'alinéa
-précédent.
+Dans les cas prévus aux a et b de l'article R. 425-6, l'accord du directeur de
+l'établissement public du parc ou, le cas échéant, du conseil d'administration
+tient lieu de l'accord mentionné à l'alinéa précédent.

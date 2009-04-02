@@ -5,8 +5,11 @@ décision prise sur la demande de permis ou sur la déclaration préalable ne pe
 intervenir qu'avec l'accord exprès prévu par les articles L. 341-7 et L. 341-10
 du code de l'environnement :
 
-a) Cet accord est donné par le préfet, après avis de l'architecte des Bâtiments
-de France, lorsque le projet fait l'objet d'une déclaration préalable ;
+a) Cet accord est donné par le préfet ou, le cas échéant, le directeur de
+l'établissement public du parc national dans les conditions prévues par
+l'article R. 341-10 du code de l'environnement, après avis de l'architecte des
+Bâtiments de France, lorsque le projet fait l'objet d'une déclaration préalable
+;
 
 b) Cet accord est donné par le ministre chargé des sites, après avis de la
 commission départementale de la nature, des paysages et des sites, dans les

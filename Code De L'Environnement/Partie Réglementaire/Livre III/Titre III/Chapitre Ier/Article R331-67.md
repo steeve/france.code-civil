@@ -12,11 +12,13 @@ véhicule ;
 3° D'emporter en dehors du coeur de parc national, mettre en vente, vendre ou
 acheter des animaux non domestiques, des végétaux non cultivés, quel que soit
 leur stade de développement, ou des parties de ceux-ci, des minéraux ou des
-fossiles en provenance du coeur du parc national ;
+fossiles, des éléments de constructions ou des objets appartenant ou
+susceptibles d'appartenir au patrimoine historique, architectural ou
+archéologique en provenance du coeur du parc national ;
 
-4° De détenir une arme pouvant être utilisée pour la chasse ;
+4° De chasser ou détenir une arme pouvant être utilisée pour la chasse ;
 
-5° D'allumer du feu ;
+5° De porter ou d'allumer du feu, notamment de fumer ;
 
 6° De ne pas respecter les prescriptions dont peuvent être assorties les
 autorisations délivrées pour des travaux, constructions, installations ou

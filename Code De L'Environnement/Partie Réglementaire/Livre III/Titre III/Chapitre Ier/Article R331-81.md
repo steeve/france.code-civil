@@ -1,7 +1,8 @@
 Article R331-81
 ----
 Sont applicables à l'établissement public Parcs nationaux de France les
-dispositions :
+dispositions du premier alinéa de l'article R. 331-22 ainsi que les dispositions
+:
 
 1° Du I de l'article R. 331-23. Le conseil d'administration donne en outre son
 avis sur la répartition des ressources financières globalement affectées aux
@@ -17,4 +18,13 @@ de l'article R. 331-29 ;
 
 5° Des alinéas 2 et 3 de l'article R. 331-43 ;
 
-6° Des articles R. 331-44 et R.* 331-45.
+6° Des articles R. 331-44 et R. * 331-45.
+
+Le directeur assure la publicité de tous les actes réglementaires pris par
+l'établissement public Parcs nationaux de France. Ces actes sont affichés
+pendant deux mois au siège de l'établissement et publiés, dans les trois mois
+suivant leur intervention, au recueil des actes administratifs de
+l'établissement.
+
+Le recueil est tenu à la disposition du public au siège de l'établissement et
+mis à sa disposition sous forme électronique de façon permanente et gratuite.

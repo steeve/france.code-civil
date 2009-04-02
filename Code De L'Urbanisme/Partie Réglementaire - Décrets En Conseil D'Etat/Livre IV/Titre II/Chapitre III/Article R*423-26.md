@@ -9,6 +9,7 @@ l'environnement, le délai d'instruction prévu par le b et le c de l'article R.
 
 a) Cinq mois si les travaux prévus figurent sur la liste des travaux qui peuvent
 faire l'objet de l'autorisation spéciale prévue par le I de l'article L. 331-4
-du code de l'environnement arrêtée par le décret de création du parc ;
+et par le I de l'article L. 331-14 du code de l'environnement arrêtée par le
+décret de création du parc ;
 
 b) Six mois dans le cas contraire.
