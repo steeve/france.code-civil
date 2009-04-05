@@ -2,10 +2,9 @@ Article **R11-2
 ----
 Sont déclarés d'utilité publique par décret en Conseil d'Etat :
 
-1° Les travaux de création d'autoroutes et de routes express, à l'exclusion, sur
-les autoroutes et les routes express existantes, des travaux de réalisation
-d'ouvrages annexes, d'élargissement et de raccordement à d'autres voies
-publiques ;
+1° Les travaux de création d'autoroutes, à l'exclusion, sur les autoroutes
+existantes, des travaux de réalisation d'ouvrages annexes, d'élargissement et de
+raccordement à d'autres voies publiques ;
 
 2° Les travaux de création d'aérodromes de catégorie A ;
 

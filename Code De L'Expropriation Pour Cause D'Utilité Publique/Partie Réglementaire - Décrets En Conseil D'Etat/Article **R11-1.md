@@ -12,3 +12,8 @@ immeubles situés sur le territoire de plusieurs départements.
 Elle est prononcée par arrêté du ministre responsable du projet, pour les
 opérations poursuivies en vue de l'installation des administrations centrales,
 des services centraux de l'Etat et des services à compétence nationale.
+
+Les travaux de création de routes express sont déclarés d'utilité publique par
+arrêté du ministre chargé de la voirie routière nationale lorsque la voie
+appartient au domaine public de l'Etat, par arrêté préfectoral dans les autres
+cas.
