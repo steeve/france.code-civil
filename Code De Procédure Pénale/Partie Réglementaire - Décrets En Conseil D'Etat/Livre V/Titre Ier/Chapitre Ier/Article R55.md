@@ -1,8 +1,8 @@
 Article R55
 ----
 Les dispositions des articles 707-2 et 707-3 relatives à la diminution du
-montant des amendes en cas de paiement volontaire dans le délai d'un mois sont
-applicables :
+montant des amendes et des droits fixes de procédure en cas de paiement
+volontaire dans le délai d'un mois sont applicables :
 
 1° Aux amendes prononcées par le tribunal de police, par la juridiction de
 proximité, par le tribunal pour enfants, par le tribunal correctionnel ou par la
@@ -23,7 +23,10 @@ l'application des dispositions de l'article 131-25 du code pénal, qu'il s'agiss
 d'une décision contradictoire, d'une décision contradictoire à signifier ou
 d'une décision par défaut ;
 
-5° Aux amendes forfaitaires majorées.
+5° Aux amendes forfaitaires majorées ;
+
+6° Aux droits fixes de procédure prévus par les dispositions de l'article 1018-A
+du code général des impôts.
 
 Elles ne sont pas applicables :
 
