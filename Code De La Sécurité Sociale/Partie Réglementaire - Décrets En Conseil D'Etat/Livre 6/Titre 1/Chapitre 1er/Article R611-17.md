@@ -8,9 +8,11 @@ L'agent comptable national est chargé des opérations comptables et financière
 de la caisse nationale et en assume la responsabilité sous le contrôle du
 conseil d'administration.
 
-Les comptes annuels de la caisse et les comptes combinés annuels du régime sont
-établis par l'agent comptable national et, après avoir été visés par le
-directeur de la caisse nationale, présentés au conseil d'administration.
+Conformément aux dispositions de l'article R. 114-6-1, les comptes annuels et
+les comptes combinés du régime sont établis par l'agent comptable national et
+arrêtés par le directeur général. Les comptes annuels et les comptes combinés
+sont ensuite présentés par le directeur général et l'agent comptable national au
+conseil d'administration.
 
 Toute décision de caractère individuel prise en matière de gestion du personnel
 est communiquée à l'agent comptable qui porte mention de la disponibilité des

@@ -35,7 +35,9 @@ Il nomme, le cas échéant, un ou plusieurs directeurs délégués, agents compt
 secondaires, directeurs adjoints et sous-directeurs.
 
 Il est l'ordonnateur des recettes et des dépenses. Il peut désigner des
-ordonnateurs délégués. Il appose son visa sur les comptes.
+ordonnateurs délégués. Conformément aux dispositions de l'article R. 114-6-1, il
+arrête les comptes annuels de la caisse et les comptes combinés annuels du
+régime.
 
 Il conclut au nom de la caisse nationale toute convention.
 

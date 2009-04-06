@@ -5,7 +5,8 @@ salariés est nommé par arrêté conjoint du ministre chargé du budget et du
 ministre chargé de la sécurité sociale pris après avis conforme du directeur
 général. Il est placé sous l'autorité administrative de celui-ci.
 
-Il soumet au conseil le compte financier qu'il a établi.
+Conformément aux dispositions de l'article R. 114-6-1, il présente au conseil,
+avec le directeur général, les comptes annuels et les comptes combinés.
 
 Il établit les comptes des branches mentionnées aux 1° et 2° de l'article L.
 200-2.

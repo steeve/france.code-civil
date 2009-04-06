@@ -32,9 +32,8 @@ orientations ont été présentées au conseil dans un délai de trois mois apr�
 signature de la convention d'objectifs et de gestion prévue à l'article L.
 227-1.
 
-Chaque année, il arrête les états prévisionnels et établit les budgets
-d'intervention et de gestion de l'organisme et les soumet pour approbation au
-conseil. Il exécute les budgets approuvés.
+Conformément aux dispositions de l'article R. 114-6-1, il arrête les comptes
+annuels établis par l'agent comptable.
 
 Le directeur met en oeuvre les actions de prévention et d'éducation sanitaire
 nécessaires au respect des priorités de santé publique arrêtées au niveau

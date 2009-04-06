@@ -5,9 +5,12 @@ mentionnées à l'article L. 211-2-1.
 
 Le conseil établit les statuts et son règlement intérieur.
 
-Il arrête le compte financier après avoir entendu l'agent comptable.
+Conformément aux dispositions de l'article R. 114-6-1, il approuve, sauf vote
+contraire à la majorité des deux tiers des membres, les comptes annuels sur
+présentation du directeur et de l'agent comptable et au vu du rapport de
+validation prévu à l'article D. 114-4-2.
 
-Le conseil élit en son sein le président et le vice-président. L'élection a lieu
+Le conseil élit en son sein le président et le vice-président.L'élection a lieu
 a scrutin secret. Aux premier et deuxième tours de scrutin, l'élection a lieu à
 la majorité absolue des suffrages exprimés, exclusion faite des bulletins blancs
 ou nuls, et au troisième tour à la majorité relative des suffrages exprimés. En

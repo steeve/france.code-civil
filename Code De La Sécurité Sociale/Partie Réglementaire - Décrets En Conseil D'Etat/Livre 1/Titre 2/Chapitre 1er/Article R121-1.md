@@ -29,7 +29,10 @@ soumis à l'agrément ;
 
 7°) de désigner les agents chargés de l'intérim des emplois de direction, sous
 réserve de leur agrément par l'autorité de tutelle ou son représentant
-territorial.
+territorial ;
+
+8°) d'approuver les comptes de l'organisme, sauf vote contraire à la majorité
+des deux tiers des membres.
 
 Le conseil d'administration peut désigner en son sein des commissions et leur
 déléguer une partie de ses attributions.

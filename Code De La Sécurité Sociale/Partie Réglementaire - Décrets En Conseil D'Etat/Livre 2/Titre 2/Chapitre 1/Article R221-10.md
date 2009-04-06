@@ -20,10 +20,12 @@ personnel.
 
 Le directeur général assure la gestion des budgets nationaux de gestion et
 d'intervention et arrête notamment les états prévisionnels. Il est l'ordonnateur
-des recettes et des dépenses. Il peut désigner des ordonnateurs secondaires. Il
-peut déléguer sa signature à ceux de ses collaborateurs qui exercent une
-fonction de direction au sein de l'établissement pour effectuer en son nom soit
-certains actes, soit tous les actes relatifs à certaines de ses attributions.
+des recettes et des dépenses. Conformément aux dispositions de l'article R.
+114-6-1, il arrête les comptes annuels ainsi que les comptes combinés établis
+par l'agent comptable. Il peut désigner des ordonnateurs secondaires. Il peut
+déléguer sa signature à ceux de ses collaborateurs qui exercent une fonction de
+direction au sein de l'établissement pour effectuer en son nom soit certains
+actes, soit tous les actes relatifs à certaines de ses attributions.
 
 Il représente la caisse en justice et dans tous les actes de la vie civile. Il
 conclut au nom de l'établissement public tous les contrats, conventions et

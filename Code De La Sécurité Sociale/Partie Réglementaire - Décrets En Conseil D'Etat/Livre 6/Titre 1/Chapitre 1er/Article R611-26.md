@@ -5,7 +5,11 @@ proposition du directeur :
 
 1° D'établir les statuts de la caisse et son règlement intérieur ;
 
-2° D'approuver les budgets de gestion et d'intervention.
+2° D'approuver les budgets de gestion et d'intervention. Conformément aux
+dispositions de l'article R. 114-6-1, il approuve, sauf vote contraire à la
+majorité des deux tiers des membres, les comptes annuels sur présentation du
+directeur et de l'agent comptable et au vu du rapport de validation prévu à
+l'article D. 114-4-2.
 
 Le conseil délibère également sur :
 

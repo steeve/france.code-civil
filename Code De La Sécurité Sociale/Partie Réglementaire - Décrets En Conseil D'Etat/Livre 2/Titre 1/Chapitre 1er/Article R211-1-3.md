@@ -6,7 +6,8 @@ et comptables de l'établissement. Sa gestion est garantie par un cautionnement
 dont le montant minimum est fixé dans les limites déterminées par un arrêté du
 ministre chargé du budget et du ministre chargé de la sécurité sociale.
 
-L'agent comptable soumet au conseil le compte financier qu'il a établi.
+Conformément aux dispositions de l'article R. 114-6-1, l'agent comptable établit
+les comptes annuels.
 
 En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
 comptable, ses fonctions sont exercées par le fondé de pouvoir.

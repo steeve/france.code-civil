@@ -4,8 +4,9 @@ Le conseil d'administration a pour rôle :
 
 1° D'adopter le budget du fonds de solidarité vieillesse ;
 
-2° D'approuver le rapport annuel d'activité et le compte financier du fonds de
-solidarité vieillesse ;
+2° D'approuver le rapport annuel d'activité et, sauf vote contraire à la
+majorité des deux tiers des membres, les comptes annuels au vu de l'opinion
+émise par l'instance chargée de la certification ;
 
 3° D'approuver les conventions prévues à l'article R. 135-13 ;
 

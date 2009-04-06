@@ -21,7 +21,8 @@ civile ;
 
 3° Il prépare le budget du fonds de solidarité vieillesse et l'exécute ;
 
-4° Il est ordonnateur des dépenses et des recettes du fonds ;
+4° Conformément aux dispositions de l'article R. 114-6-1, il arrête les comptes
+annuels du fonds ;
 
 5° Il recrute le personnel de l'établissement ;
 

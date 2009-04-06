@@ -1,6 +1,6 @@
 Article R611-9
 ----
-I. - Le conseil d'administration de la caisse nationale détermine :
+I.-Le conseil d'administration de la caisse nationale détermine :
 
 1° Les orientations de la convention d'objectifs et de gestion prévue à
 l'article L. 611-7 ;
@@ -27,8 +27,10 @@ délibérations ;
 
 5° De décider d'agir en justice dans les matières relevant de sa compétence ;
 
-6° D'arrêter les comptes annuels de la caisse nationale et les comptes combinés
-annuels du régime ;
+6° Conformément aux dispositions de l'article R. 114-6-1, d'approuver, sauf vote
+contraire à la majorité des deux tiers des membres, les comptes annuels et les
+comptes combinés du régime au vu de l'opinion émise par l'instance chargée de la
+certification ;
 
 7° De proposer les règlements financiers des régimes complémentaires
 obligatoires d'assurance vieillesse et d'assurance invalidité-décès ;
@@ -44,11 +46,11 @@ Le conseil d'administration peut être saisi par le ministre chargé de la
 sécurité sociale de toute question relative à l'assurance maladie et à
 l'assurance vieillesse.
 
-II. - Le conseil d'administration de la caisse nationale est saisi par le
-ministre chargé de la sécurité sociale, pour avis, des projets de loi,
-d'ordonnance et de décrets spécifiques à ce régime et ayant des incidences
-directes sur l'équilibre financier d'une branche ou d'un régime mentionné à
-l'article L. 611-2 et des projets de loi de financement de la sécurité sociale.
+II.-Le conseil d'administration de la caisse nationale est saisi par le ministre
+chargé de la sécurité sociale, pour avis, des projets de loi, d'ordonnance et de
+décrets spécifiques à ce régime et ayant des incidences directes sur l'équilibre
+financier d'une branche ou d'un régime mentionné à l'article L. 611-2 et des
+projets de loi de financement de la sécurité sociale.
 
 Le conseil d'administration de la caisse nationale peut faire toutes
 propositions de modification législative ou réglementaire dans son domaine de

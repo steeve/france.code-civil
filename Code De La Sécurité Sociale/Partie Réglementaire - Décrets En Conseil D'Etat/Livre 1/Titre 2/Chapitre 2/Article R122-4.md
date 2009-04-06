@@ -7,8 +7,8 @@ gestion est garantie par un cautionnement dont le montant minimum est fixé dans
 les limites déterminées par un arrêté du ministre chargé du budget et des
 ministres intéressés.
 
-Le compte financier de l'organisme est établi par l'agent comptable et présenté
-au conseil d'administration.
+Conformément aux dispositions de l'article R. 114-6-1, l'agent comptable établit
+les comptes de l'organisme.
 
 En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
 comptable, ses fonctions sont exercées par le fondé de pouvoir jusqu'à la

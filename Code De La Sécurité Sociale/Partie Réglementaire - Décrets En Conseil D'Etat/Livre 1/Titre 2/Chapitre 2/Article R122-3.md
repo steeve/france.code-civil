@@ -30,7 +30,8 @@ fonctionnement administratif et financier de l'organisme.
 Dans les conditions définies par décret, le directeur engage les dépenses,
 constate les créances et les dettes, émet les ordres de recettes et des dépenses
 et peut, sous sa responsabilité, requérir qu'il soit passé outre au refus de
-visa ou de paiement, éventuellement opposé par l'agent comptable.
+visa ou de paiement, éventuellement opposé par l'agent comptable. Conformément
+aux dispositions de l'article R. 114-6-1, il arrête les comptes de l'organisme.
 
 Il a pouvoir pour donner mainlevée des inscriptions de privilèges ou
 d'hypothèques sur des immeubles, requises au profit de l'organisme. Toutefois, à
