@@ -24,16 +24,16 @@ hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par 
 tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France
 à la publicité ;
 
-a bis Les recettes provenant de la fourniture des repas dans les cantines
+a bis. Les recettes provenant de la fourniture des repas dans les cantines
 d'entreprises et répondant aux conditions qui sont fixées par décret ;
 
-a ter Les locations d'emplacements sur les terrains de camping classés, à
+a ter. Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
 l'administration indiquant les dates de séjour et le montant de la somme due ;
 
-a quater (Abrogé) ;
+a quater. (Abrogé) ;
 
-a quinquies Les prestations de soins dispensées par les établissements thermaux
+a quinquies. Les prestations de soins dispensées par les établissements thermaux
 autorisés dans les conditions fixées par l'article L. 162-21 du code de la
 sécurité sociale ;
 
@@ -44,7 +44,7 @@ d'assainissement.
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
 d'assainissement ;
 
-b bis-Les spectacles suivants :
+b bis. Les spectacles suivants :
 
 théâtres ;
 
@@ -56,7 +56,7 @@ concerts, à l'exception de ceux qui sont donnés dans des établissements où i
 est d'usage de consommer pendant les séances. Toutefois, si les consommations
 sont servies facultativement pendant le spectacle et à la condition que
 l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la
-catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail, le taux
+catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail , le taux
 réduit s'applique au prix du billet donnant exclusivement accès au concert ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les
@@ -70,22 +70,22 @@ loi du 21 mai 1836 portant prohibition des loteries ;
 
 b bis a. (abrogé)
 
-b ter les droits d'entrée pour la visite des parcs zoologiques et botaniques,
+b ter. les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
-b quater les transports de voyageurs ;
+b quater. les transports de voyageurs ;
 
-b quinquies les droits d'entrée dans les salles de spectacles cinématographiques
-quels que soient le procédé de fixation ou de transmission et la nature du
-support des oeuvres ou documents audiovisuels qui sont présentés ;
+b quinquies. les droits d'entrée dans les salles de spectacles
+cinématographiques quels que soient le procédé de fixation ou de transmission et
+la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
 
-b sexies (Abrogé) ;
+b sexies. (Abrogé) ;
 
-b septies les travaux sylvicoles et d'exploitation forestière réalisés au profit
-d'exploitants agricoles, y compris les travaux d'entretien des sentiers
+b septies. les travaux sylvicoles et d'exploitation forestière réalisés au
+profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers
 forestiers ;
 
-b octies les abonnements souscrits par les usagers afin de recevoir :
+b octies. les abonnements souscrits par les usagers afin de recevoir :
 
 1° les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29
 juillet 1982 sur la communication audiovisuelle ;
@@ -102,9 +102,9 @@ ces services sont compris dans une offre composite pour un prix forfaitaire
 comprenant d'autres services fournis par voie électronique, le taux réduit
 s'applique à hauteur de 50 % de ce prix ;
 
-b nonies les droits d'entrée perçus pour la visite des parcs à décors animés qui
-illustrent un thème culturel et pour la pratique des activités directement liées
-à ce thème.
+b nonies. les droits d'entrée perçus pour la visite des parcs à décors animés
+qui illustrent un thème culturel et pour la pratique des activités directement
+liées à ce thème.
 
 Les attractions, manèges, spectacles, loteries, jeux et divertissements sportifs
 présentés à titre accessoire dans ces parcs demeurent soumis au taux qui leur
@@ -116,7 +116,7 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance
+b decies. Les abonnements relatifs aux livraisons d'électricité d'une puissance
 maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de
 gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de
 chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la
@@ -125,7 +125,7 @@ géothermie, des déchets et d'énergie de récupération.
 La puissance maximale prise en compte correspond à la totalité des puissances
 maximales souscrites par un même abonné sur un même site ;
 
-c, d, e (Abrogés à compter du 1er janvier 1993) ;
+c, d, e. (Abrogés à compter du 1er janvier 1993) ;
 
 f. les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
@@ -146,17 +146,20 @@ organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de
 l'environnement ;
 
 i. les prestations de services fournies par des entreprises agréées en
-application des articles L. 7232-1 à L. 7232-4 du code du travail.
+application des articles L. 7232-1 à L. 7232-4 du code du travail ;
 
-j) Les rémunérations versées par les collectivités territoriales et leurs
+j. Les rémunérations versées par les collectivités territoriales et leurs
 groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens
-correspondant à l'édition d'un service de télévision locale.
+correspondant à l'édition d'un service de télévision locale ;
 
-k) Les remboursements et les rémunérations versés par les communes ou leurs
+k. Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants assurant les prestations de balayage des caniveaux
 et voies publiques lorsqu'elles se rattachent au service public de voirie
-communale.
+communale ;
 
-l) Les remboursements et les rémunérations versés par les communes ou leurs
+l. Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants assurant les prestations de déneigement des voies
-publiques lorsqu'elles se rattachent à un service public de voirie communale.
+publiques lorsqu'elles se rattachent à un service public de voirie communale ;
+
+m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux
+boissons alcooliques (1).
