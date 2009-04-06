@@ -8,7 +8,7 @@ général des impôts ;
 
 Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou
 à des activités assimilées à l'exclusion des personnes visées à l'article 50
-sexies A de la présente annexe.
+sexies A.
 
 Personnes physiques propriétaires d'immeubles loués ou de monuments historiques
 ouverts au public dont les loyers ou les recettes sont imposés à l'impôt sur le

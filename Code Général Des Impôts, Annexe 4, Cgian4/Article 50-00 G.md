@@ -110,13 +110,11 @@ montant des droits qui s'y rattache.
 suivent le dépôt de la demande, le crédit d'impôt subsistant est alors remboursé
 au bénéficiaire, sur sa demande.
 
-III.-Pour l'application des articles 111 H quater et 111 H sexies de l'annexe
-III au code général des impôts, aux termes du délai d'information prévu par
-l'article 302 P du code général des impôts, l'entrepositaire agréé établit un
-relevé des documents d'accompagnement non apurés mentionnés au I de l'article
-302 M dudit code ou des opérations réalisées en suspension des droits d'accises
-conformément à l'article 443 du même code, dénommé ci-après " relevé de
-non-apurement ".
+III.-Pour l'application de l'article 111 H quater de l'annexe III au code
+général des impôts, aux termes du délai d'information prévu par l'article 302 P
+du code général des impôts, l'entrepositaire agréé établit un relevé des
+documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit
+code, dénommé ci-après " relevé de non-apurement ".
 
 Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août
 2000 (JO du 31 août 2000).
@@ -128,15 +126,13 @@ Ce relevé est transmis par l'entrepositaire agréé au service des douanes et
 droits indirects dont il dépend selon les mêmes modalités et dans les conditions
 prévues pour la déclaration récapitulative mensuelle.
 
-Un exemplaire de chaque document d'accompagnement non apuré ou une copie du
-document mentionné au c du II de l'article 111 H sexies précité est annexé au
-relevé de non-apurement.
+Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé
+de non-apurement.
 
 Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte
 les renseignements suivants :
 
-a) Le numéro du document d'accompagnement ou les références du document
-mentionné au c du II de l'article 111 H sexies précité ;
+a) Le numéro du document d'accompagnement ;
 
 b) La date de départ du document ;
 

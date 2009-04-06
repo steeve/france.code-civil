@@ -1,8 +1,9 @@
 Article 164 FF
 ----
 Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la
-communication d'un support magnétique ou par l'envoi d'imprimés normalisés.
-Cette dernière formule est réservée aux établissements n'assurant pas la tenue
-de leurs comptes à l'aide de moyens automatiques de traitement de l'information
-de nature à permettre la communication des renseignements à l'aide de supports
-magnétiques.
+communication des informations sur un support informatique ou par réseau ou par
+l'envoi des imprimés normalisés.
+
+Les établissements n'assurant pas la gestion des comptes à l'aide d'un moyen
+informatique de traitement de l'information sont tenus d'en informer le centre
+de services informatiques avant tout envoi de déclaration à ce service.
