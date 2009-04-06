@@ -22,9 +22,7 @@ situés les lieux à visiter.
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
 d'information en possession de l'administration de nature à justifier la visite.
-L'ordonnance comporte :
-
-a) L'adresse des lieux à visiter ;
+L'ordonnance comporte : a) L'adresse des lieux à visiter ;
 
 b) Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
 l'autorisation de procéder aux opérations de visite ;
@@ -36,8 +34,8 @@ représentant et, s'il est présent, du contribuable mentionné au I, ainsi que
 l'autorisation de demander à ceux-ci de justifier pendant la visite de leur
 identité et de leur adresse, dans les mêmes conditions.
 
-la mention de la faculté pour le contribuable de faire appel à un conseil de son
-choix.
+d) La mention de la faculté pour le contribuable de faire appel à un conseil de
+son choix.
 
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de
 visite et de saisie.

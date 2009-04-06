@@ -6,5 +6,4 @@ pour avis à la commission départementale des impôts directs et des taxes sur 
 chiffre d'affaires ou à la Commission nationale des impôts directs et des taxes
 sur le chiffre d'affaires lorsque ces majorations sont consécutives à des
 rectifications relevant de la compétence de l'une ou l'autre de ces commissions,
-telle qu'elle est définie aux articles L. 59, L. 59 A et L. 59 C du présent
-livre.
+telle qu'elle est définie aux articles L. 59, L. 59 A et L. 59 C.

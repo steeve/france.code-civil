@@ -6,7 +6,8 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à
 l'article 119 bis du code général des impôts ;
 
-2° Aux prélèvements prévus aux articles 117 quater et 125 A ;
+2° Aux prélèvements prévus aux articles 117 quater et 125 A du code général des
+impôts ;
 
 3° (abrogé).
 
@@ -21,4 +22,4 @@ l'article 119 bis du code général des impôts ;
 l'impôt sur les sociétés.
 
 8° A la cotisation minimale de taxe professionnelle prévue au II de l'article
-1647 E.
+1647 E du code général des impôts

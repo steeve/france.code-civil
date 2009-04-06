@@ -13,5 +13,6 @@ fournir.
 3. En l'absence de réponse, ou en cas de réponse insuffisante, dans le délai
 prévu au 1 prorogé le cas échéant du délai prévu au 2, l'entité juridique doit
 déposer dans un délai de trente jours la déclaration mentionnée à l'article 990
-F au titre de l'année au cours de laquelle l'engagement prévu au d du 3° du 990
-E n'a pas été respecté ainsi qu'au titre des années antérieures non prescrites.
+F du code général des impôts au titre de l'année au cours de laquelle
+l'engagement prévu au d du 3° du 990 E du même code n'a pas été respecté ainsi
+qu'au titre des années antérieures non prescrites.

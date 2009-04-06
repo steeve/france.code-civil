@@ -11,8 +11,7 @@ demandé à la Poste de renvoyer au service des impôts ou au service des douane
 et droits indirects expéditeur, le pli non distribué annoté :
 
 a) D'une part, de la date de sa première présentation à l'adresse indiquée à la
-souscription ou, s'il y a lieu, à la nouvelle adresse connue de l'administration
-des postes et télécommunications ;
+souscription ou, s'il y a lieu, à la nouvelle adresse connue de La Poste ;
 
 b) D'autre part, du motif de sa non-délivrance.
 

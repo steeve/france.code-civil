@@ -3,8 +3,7 @@ Article R*200-2
 Par dérogation aux dispositions des articles R. 431-4 et R. 431-5 du code de
 justice administrative, les requêtes au tribunal peuvent être signées d'un
 mandataire autre que ceux qui sont mentionnés à l'article R. 431-2 du même code.
-En ce cas, les dispositions de l'article R. 197-4 du présent livre sont
-applicables.
+En ce cas, les dispositions de l'article R. 197-4 sont applicables.
 
 Le demandeur ne peut contester devant le tribunal administratif des impositions
 différentes de celles qu'il a visées dans sa réclamation à l'administration.
