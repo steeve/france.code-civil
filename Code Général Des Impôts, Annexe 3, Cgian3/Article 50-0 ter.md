@@ -1,7 +1,7 @@
 Article 50-0 ter
 ----
 Le montant de la fraction de taxe d'apprentissage versée au Trésor public en
-application du premier alinéa de l'article L. 118-2-2 du code du travail est
-fixé conformément aux dispositions de l'article D. 118-6 du code précité pour la
-métropole et aux dispositions du 6° de l'article D. 811 du même code pour les
-départements d'outre-mer.
+application de l'article 226 B du code général des impôts est fixé conformément
+aux dispositions de l'article D. 6241-9 du code du travail pour la métropole et
+aux dispositions du 3° de l'article D. 6522-1 du code précité pour les
+départements d'outre-mer, Saint-Barthélemy et Saint-Martin.

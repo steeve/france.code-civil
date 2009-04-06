@@ -24,7 +24,7 @@ IV. (Sans objet).
 V.-L'Etat perçoit au titre de frais d'assiette, de recouvrement, de dégrèvements
 et de non-valeurs un prélèvement de :
 
-a. 2,50 p. 100 en sus du montant de la taxe de publicité foncière ou des droits
+a. 2, 50 p. 100 en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements en application de l'article
 1594 A.
 
@@ -39,18 +39,18 @@ VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement d
 1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.
 
 VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB.
+1, 5 % sur le montant de la taxe mentionnée à l'article 1609 sexdecies.
 
 VIII.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 2,5 % sur le montant des taxes mentionnées aux articles 1609 sexvicies et
+de 2, 5 % sur le montant des taxes mentionnées aux articles 1609 sexvicies et
 1635 bis M.
 
 IX.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.
+2, 5 % sur le montant de la taxe mentionnée à l'article 1609 sexdecies B.
 
 X.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1,5 % sur le montant de la redevance d'archéologie préventive prévue à l'article
-L. 524-2 du code du patrimoine.
+1, 5 % sur le montant de la redevance d'archéologie préventive prévue à
+l'article L. 524-2 du code du patrimoine.
 
 XI.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 % sur le montant de la taxe mentionnée au I de l'article 1605.
@@ -59,10 +59,7 @@ XII.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 2 % sur le montant de la taxe mentionnée au II de l'article L. 425-1 du code des
 assurances.
 
-XIII.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-sur le produit des taxes mentionnées aux articles 1609 vicies et 1618 septies
-dont le montant est fixé par arrêté du ministre chargé du budget et du ministre
-chargé de l'agriculture dans la limite de 0,5 % de ce produit.
+XIII.-(Sans objet)
 
 XIV.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 2 % sur le montant de la taxe mentionnée à l'article 1011 bis.

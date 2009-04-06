@@ -56,9 +56,8 @@ concerts, à l'exception de ceux qui sont donnés dans des établissements où i
 est d'usage de consommer pendant les séances. Toutefois, si les consommations
 sont servies facultativement pendant le spectacle et à la condition que
 l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la
-catégorie mentionnée au 1° de l'article 1er-1 de l'ordonnance n° 45-2339 du 13
-octobre 1945 relative aux spectacles, le taux réduit s'applique au prix du
-billet donnant exclusivement accès au concert ;
+catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail, le taux
+réduit s'applique au prix du billet donnant exclusivement accès au concert ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les
 établissements où il est d'usage de consommer pendant les séances ;

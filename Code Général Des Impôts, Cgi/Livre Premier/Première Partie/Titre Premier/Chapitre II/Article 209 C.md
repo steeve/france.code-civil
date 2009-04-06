@@ -11,7 +11,7 @@ fiscale, peuvent déduire de leur résultat imposable de l'exercice les déficit
 de ces succursales et filiales subis au cours du même exercice dans l'Etat où
 elles sont imposées.
 
-Sous réserve que toutes les autres conditions mentionnées au précédent alinéa
+Sous réserve que toutes les autres conditions mentionnées au premier alinéa
 soient respectées, cette disposition s'applique également aux petites et
 moyennes entreprises qui ne sont pas autorisées à détenir au moins 95 % du
 capital de leurs filiales en raison d'obligations légales prévues par l'Etat
@@ -38,8 +38,8 @@ entre la petite ou moyenne entreprise en cause et ces derniers fonds ou
 sociétés.
 
 Lorsque la petite ou moyenne entreprise appartient à un groupe fiscal au sens de
-l'article 223 A, le seuil mentionné au a du présent II est apprécié globalement
-au niveau du groupe fiscal.
+l'article 223 A, le seuil mentionné au a est apprécié globalement au niveau du
+groupe fiscal.
 
 III.-Les déficits déduits du résultat d'un exercice par une entreprise en
 application du I sont rapportés au résultat imposable de ses exercices suivants,

@@ -5,8 +5,8 @@ des dispositions de l'article 1647 B sexies et de l'article 1647 C quinquies A
 fait l'objet d'un dégrèvement complémentaire obtenu sur demande du contribuable
 par voie de réclamation.
 
-La cotisation mentionnée à l'alinéa précédent s'entend de celle prévue au
-deuxième alinéa du I de l'article 1647 C quinquies A.
+La cotisation mentionnée au premier alinéa s'entend de celle prévue au deuxième
+alinéa du I de l'article 1647 C quinquies A.
 
 II. ― Le montant du dégrèvement est égal au produit de la dotation aux
 amortissements ou, pour les biens pris en location, du loyer, afférent aux biens

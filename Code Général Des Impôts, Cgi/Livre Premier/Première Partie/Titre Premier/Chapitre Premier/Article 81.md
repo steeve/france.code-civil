@@ -73,7 +73,7 @@ sécurité sociale et L. 5425-3 du code du travail ;
 code du travail ;
 
 9° septies L'aide à la réinsertion familiale et sociale des anciens migrants
-dans leur pays d'origine instituée par l'article L. 117-2 du code de l'action
+dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action
 sociale et des familles ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
@@ -170,7 +170,7 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5, 04 € par titre, le complément de rémunération résultant
+19° Dans la limite de 5, 19 € par titre, le complément de rémunération résultant
 de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette

@@ -15,8 +15,8 @@ l'habitation, sont exonérés de taxe foncière sur les propriétés bâties pen
 la durée de ce bail. Les pertes de recettes résultant de cette exonération sont
 compensées intégralement.
 
-Au titre de 2009, la compensation des pertes de recettes visées à l'alinéa
-précédent est minorée par application d'un taux correspondant à l'écart entre le
+Au titre de 2009, la compensation des pertes de recettes visées au troisième
+alinéa est minorée par application d'un taux correspondant à l'écart entre le
 montant total versé en 2008 au titre de l'ensemble des compensations mentionnées
 aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances
 pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour

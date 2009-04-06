@@ -63,7 +63,7 @@ programmation pour la ville et la rénovation urbaine et destinés à être occu
 par des ménages dont le total des ressources n'excède pas le montant mentionné à
 l'article R. 391-8 du code de la construction et de l'habitation.
 
-3° septies Les ventes et apports de locaux aux établissements mentionnés aux 6°
+3 septies Les ventes et apports de locaux aux établissements mentionnés aux 6°
 et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles,
 agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils
 accueillent des personnes handicapées ou, lorsqu'ils accueillent des personnes

@@ -8,15 +8,3 @@ un état établi sur un document conforme au modèle fixé par l'administration.
 état comporte notamment les renseignements nécessaires à la ventilation du prix
 d'acquisition des droits entre sa fraction représentative des constructions et
 celle représentative du terrain.
-
-L'entreprise qui détient à l'ouverture du premier exercice clos à compter du 31
-décembre 1990 des droits mentionnés au premier alinéa acquis auprès d'un
-précédent locataire joint à la déclaration de résultats de cet exercice un état
-analogue à celui défini au même alinéa.
-
-Cet état est produit également pour les droits détenus à l'ouverture du premier
-exercice clos à compter du 1er janvier 1989 ou du 31 décembre 1989 selon que
-l'entreprise relève de l'impôt sur le revenu ou de l'impôt sur les sociétés
-ainsi que pour les droits acquis au cours de cet exercice ou des exercices
-suivants clos avant le 31 décembre 1990, si ces droits ont fait l'objet d'une
-levée d'option d'achat au cours de cette période.

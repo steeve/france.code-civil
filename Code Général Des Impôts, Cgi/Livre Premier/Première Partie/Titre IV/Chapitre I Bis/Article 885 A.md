@@ -7,10 +7,10 @@ l'article 885 U :
 1° Les personnes physiques ayant leur domicile fiscal en France, à raison de
 leurs biens situés en France ou hors de France.
 
-Toutefois, les personnes physiques mentionnées à l'alinéa précédent qui n'ont
-pas été fiscalement domiciliées en France au cours des cinq années civiles
-précédant celle au cours de laquelle elles ont leur domicile fiscal en France ne
-sont imposables qu'à raison de leurs biens situés en France.
+Toutefois, les personnes physiques mentionnées au premier alinéa qui n'ont pas
+été fiscalement domiciliées en France au cours des cinq années civiles précédant
+celle au cours de laquelle elles ont leur domicile fiscal en France ne sont
+imposables qu'à raison de leurs biens situés en France.
 
 Cette disposition s'applique au titre de chaque année au cours de laquelle le
 redevable conserve son domicile fiscal en France, et ce jusqu'au 31 décembre de

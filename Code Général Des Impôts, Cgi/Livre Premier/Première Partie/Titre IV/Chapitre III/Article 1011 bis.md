@@ -227,8 +227,8 @@ d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens
 de la directive 70 / 156 / CEE du Conseil, du 6 février 1970, concernant le
 rapprochement des législations des Etats membres relatives à la réception des
 véhicules à moteur et de leurs remorques, figurant dans le tableau mentionné au
-a du présent III. Cet abattement ne s'applique pas aux véhicules dont les
-émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre.
+a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde
+de carbone sont supérieures à 250 grammes par kilomètre.
 
 IV. ― La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions
 que la taxe prévue à l'article 1599 quindecies.

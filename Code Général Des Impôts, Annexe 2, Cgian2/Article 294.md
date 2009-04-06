@@ -7,8 +7,9 @@ dix-huit ans, d'acquérir une instruction ou une formation professionnelle d'un
 niveau normal.
 
 Il peut justifier de son état par tous éléments de preuve, et notamment invoquer
-une décision de la commission technique d'orientation et de reclassement
-professionnel prévue à l'article L. 323-11 du code du travail le classant dans
-la catégorie correspondant aux handicaps graves ou le déclarant relever soit
-d'un atelier protégé, soit d'un centre d'aide par le travail mentionné à
-l'article L. 344-2 du code de l'action sociale et des familles.
+une décision de la commission des droits et de l'autonomie des personnes
+handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles le classant dans la catégorie correspondant aux handicaps graves ou le
+déclarant relever soit d'une entreprise adaptée définie à l'article L. 5213-13
+du code du travail, soit d'un établissement ou service d'aide par le travail
+défini à l'article L. 344-2 du code de l'action sociale et des familles.

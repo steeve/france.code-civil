@@ -56,7 +56,7 @@ payés à raison des emprunts contractés à compter de la publication de la loi
 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la
 limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou
 divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition
-commune. (1)
+commune.
 
 III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres
 figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou
@@ -65,9 +65,9 @@ partie du code du travail, ni des titres dont la souscription a ouvert droit à
 la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la
 réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis.
 
-Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I du présent
-article ne peuvent ouvrir droit aux déductions prévues au 2° quinquies et, au
-titre des frais réels et justifiés, au 3° de l'article 83.
+Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent
+ouvrir droit aux déductions prévues au 2° quinquies et, au titre des frais réels
+et justifiés, au 3° de l'article 83.
 
 IV.-Les dispositions du 5 du I de l'article 197 sont applicables aux réductions
 d'impôt prévues au présent article.

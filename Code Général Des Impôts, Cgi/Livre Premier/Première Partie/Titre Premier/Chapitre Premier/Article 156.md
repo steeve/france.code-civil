@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 101 300 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 104 238 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
 
@@ -270,7 +270,7 @@ pas le plafond de ressources mentionné à l'article L. 815-9 du code de la
 sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées
 mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire
 d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée
-par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 203 euros.
+par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 296 euros.
 
 Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque
 année dans la même proportion que la limite supérieure de la première tranche du
@@ -308,10 +308,9 @@ d. (sans objet).
 
 9° bis et 9° ter (Abrogés) ;
 
-10° Les cotisations mentionnées à l'article L. 612-2 du code de la sécurité
-sociale. En ce qui concerne les cotisations instituées par application de
-l'article L. 612-13 du même code, un décret fixe, le cas échéant, dans quelle
-proportion elles sont admises en déduction ;
+10° Conformément à l'article L. 612-6 du code de la sécurité sociale, les
+cotisations mentionnées à l'article L. 612-2 du code précité et les cotisations
+instituées par application de l'article L. 612-13 du même code ;
 
 11° Les primes ou cotisations des contrats d'assurances conclus en application
 des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance

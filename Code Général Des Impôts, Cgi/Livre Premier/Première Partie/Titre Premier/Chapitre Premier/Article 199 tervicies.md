@@ -34,12 +34,12 @@ bis, b, b bis, c et e du 1° du I de l'article 31, des frais d'adhésion à des
 associations foncières urbaines de restauration, ainsi que des dépenses de
 travaux imposés ou autorisés en application des dispositions législatives ou
 réglementaires relatives aux secteurs et zones mentionnés aux deuxième et
-troisième alinéas du I du présent article, y compris les travaux effectués dans
-des locaux d'habitation et ayant pour objet de transformer en logement tout ou
-partie de ces locaux, supportées à compter soit de la date de délivrance du
-permis de construire, soit de l'expiration du délai d'opposition à la
-déclaration préalable et jusqu'au 31 décembre de la troisième année suivante. Le
-cas échéant, cette durée est prolongée du délai durant lequel les travaux sont
+troisième alinéas du I, y compris les travaux effectués dans des locaux
+d'habitation et ayant pour objet de transformer en logement tout ou partie de
+ces locaux, supportées à compter soit de la date de délivrance du permis de
+construire, soit de l'expiration du délai d'opposition à la déclaration
+préalable et jusqu'au 31 décembre de la troisième année suivante. Le cas
+échéant, cette durée est prolongée du délai durant lequel les travaux sont
 interrompus ou ralentis en application des articles L. 531-14 à L. 531-16 du
 code du patrimoine ou par l'effet de la force majeure.
 

@@ -30,7 +30,7 @@ des fraudes.
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la
 réglementation communautaire et portent les références des contrats d'achat
-soumis au visa de l' établissement mentionné à l' article L. 621-1 du code rural
+soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural
 pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords
@@ -69,7 +69,7 @@ comptabilité commerciale informatisée dès lors qu'elle comporte :
 
 a) Toutes les indications nécessaires relatives aux mouvements des produits et
 au déroulement des manipulations conformément aux dispositions communautaires et
-aux informations prévues au 1° du II du présent article ;
+aux informations prévues au 1° du II ;
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la
 clôture de l'exercice comptable.
@@ -87,8 +87,7 @@ constatation de manquants entraînant, conformément au 2° du 1 du I de l'artic
 Les entrepositaires agréés transmettent au service des douanes et droits
 indirects territorialement compétent, au plus tard le cinquième jour de chaque
 mois, une déclaration récapitulative comportant les renseignements mentionnés au
-premier alinéa du présent III et, le cas échéant, ceux prévus au 1° du II du
-présent article.
+premier alinéa et, le cas échéant, ceux prévus au 1° du II.
 
 IV.-Les registres doivent être clôturés une fois par an, à la date de
 souscription de la déclaration des stocks mentionnée à l'article 408 du code

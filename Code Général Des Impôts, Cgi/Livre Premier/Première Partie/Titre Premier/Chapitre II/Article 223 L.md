@@ -41,22 +41,22 @@ l'exercice de la société absorbée au cours de l'opération.
 
 La durée du premier exercice des sociétés du groupe issu de la fusion peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
-dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus comporte
+dispositions de l'article 37. L'option mentionnée au premier alinéa comporte
 l'indication de la durée de cet exercice.
 
 La société absorbante procède, au titre de l'exercice de réalisation de la
-fusion, aux réintégrations prévues aux articles 223 F, 223 R du fait de la
-sortie de la société absorbée et des sociétés membres du groupe que cette
-dernière avait formé ; ces sommes sont déterminées à la clôture de l'exercice
-précédent après imputation, le cas échéant, du déficit d'ensemble ou de la
-moins-value nette à long terme d'ensemble qui étaient encore reportables à la
-date d'effet de la fusion.
+fusion, aux réintégrations prévues aux articles 223 F,223 R du fait de la sortie
+de la société absorbée et des sociétés membres du groupe que cette dernière
+avait formé ; ces sommes sont déterminées à la clôture de l'exercice précédent
+après imputation, le cas échéant, du déficit d'ensemble ou de la moins-value
+nette à long terme d'ensemble qui étaient encore reportables à la date d'effet
+de la fusion.
 
-Dans la situation visée au premier alinéa du présent c, par exception aux
-dispositions de l'article 223 M et de la première phrase du 1 de l'article 223
-N, la société mère acquitte l'imposition forfaitaire annuelle et les acomptes
-d'impôt sur les sociétés dus par les sociétés membres du groupe au titre de
-l'année ou de l'exercice d'entrée dans le groupe.
+Dans la situation visée au premier alinéa, par exception aux dispositions de
+l'article 223 M et de la première phrase du 1 de l'article 223 N, la société
+mère acquitte l'imposition forfaitaire annuelle et les acomptes d'impôt sur les
+sociétés dus par les sociétés membres du groupe au titre de l'année ou de
+l'exercice d'entrée dans le groupe.
 
 d. Si, au cours d'un exercice, le capital d'une société mère définie aux
 premier, deuxième ou troisième alinéas de l'article 223 A vient à être détenu,
@@ -73,24 +73,24 @@ redevable de l'impôt dû sur le résultat d'ensemble du groupe afférent à cet
 exercice, selon les modalités prévues aux articles 223 A à 223 U, par exception
 aux dispositions de la présente section.
 
-Dans cette situation, si la personne morale mentionnée au premier alinéa du
-présent d souhaite constituer un groupe avec les sociétés qui composaient celui
-qui avait été formé par la société mère visée au même alinéa, ou faire entrer
-celles-ci dans le groupe dont elle est déjà membre, l'option prévue aux premier,
-deuxième ou troisième alinéas de l'article 223 A est exercée au plus tard à
-l'expiration du délai prévu au septième alinéa du même article, décompté de la
-date de clôture de l'exercice considéré. Cette option est accompagnée du
-document mentionné au premier alinéa du c ci-dessus.
+Dans cette situation, si la personne morale mentionnée au premier alinéa
+souhaite constituer un groupe avec les sociétés qui composaient celui qui avait
+été formé par la société mère visée au même alinéa, ou faire entrer celles-ci
+dans le groupe dont elle est déjà membre, l'option prévue aux premier, deuxième
+ou troisième alinéas de l'article 223 A est exercée au plus tard à l'expiration
+du délai prévu au septième alinéa du même article, décompté de la date de
+clôture de l'exercice considéré. Cette option est accompagnée du document
+mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
-dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus comporte
+dispositions de l'article 37. L'option mentionnée au troisième alinéa comporte
 l'indication de la durée de cet exercice.
 
-La société mère visée au premier alinéa du présent d ajoute au résultat
-d'ensemble de l'exercice qui y est également mentionné les sommes dont la
-réintégration est prévue aux articles 223 F,223 R du fait de la sortie du groupe
-de toutes les sociétés qui le composaient.
+La société mère visée au premier alinéa ajoute au résultat d'ensemble de
+l'exercice qui y est également mentionné les sommes dont la réintégration est
+prévue aux articles 223 F, 223 R du fait de la sortie du groupe de toutes les
+sociétés qui le composaient.
 
 e. Les dispositions du c sont applicables lorsque la société mère d'un groupe
 fait l'objet d'une scission dans les conditions prévues à l'article 210 B.
@@ -128,8 +128,8 @@ directement ou indirectement, par une personne morale soumise à l'impôt sur le
 sociétés autre que la société mère du groupe, cette personne morale peut se
 constituer seule redevable de l'impôt dû par elle et les sociétés apportées à
 compter de l'exercice au cours duquel intervient l'apport si, à la clôture de
-cet exercice, elle satisfait aux conditions prévues au premier, deuxième ou
-troisième alinéa de l'article 223 A.
+cet exercice, elle satisfait aux conditions prévues aux premier, deuxième ou
+troisième alinéas de l'article 223 A.
 
 Cette disposition s'applique aux apports qui prennent effet à la date
 d'ouverture de l'exercice des sociétés apportées. Elle est subordonnée à
@@ -159,12 +159,12 @@ du groupe susvisé.
 L'option prévue par lesdits alinéas doit être exercée au plus tard à
 l'expiration du délai prévu au sixième alinéa de l'article 223 A décompté de la
 date de réalisation du transfert de propriété concerné. Cette option est
-accompagnée du document mentionné au premier alinéa du c du présent 6.
+accompagnée du document mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37. L'option mentionnée au deuxième alinéa du présent h comporte
-l'indication de la durée de cet exercice.
+l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
+durée de cet exercice.
 
 Le présent h s'applique également lorsque le capital des sociétés qui y sont
 visées vient à être détenu, dans les conditions prévues par les premier ou

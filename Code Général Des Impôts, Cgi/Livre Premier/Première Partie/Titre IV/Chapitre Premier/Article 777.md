@@ -4,110 +4,99 @@ Les droits de mutation à titre gratuit sont fixés aux taux indiqués dans les
 tableaux ci-après, pour la part nette revenant à chaque ayant droit :
 
 
-TABLEAU I
+Tableau I
 
-Tarif des droits applicables en ligne directe
+Tarif des droits applicables en ligne directe :
 
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF APPLICABLE (en pourcentage)
+TARIF applicable (%)
 
-N'excédant pas 7 922 euros
+N'excédant pas 7 922 €
 
 5
 
-
-Comprise entre 7 922 euros et 11 883 euros
+Comprise entre 7 922 € et 11 883 €
 
 10
 
-
-Comprise entre 11 883 euros et 15 636 euros
+Comprise entre 11 883 € et 15 636 €
 
 15
 
-
-Comprise entre 15 636 euros et 542 036 euros
+Comprise entre 15 636 € et 542 043 €
 
 20
 
-
-Comprise entre 542 036 euros et 886 020 euros
+Comprise entre 542 043 € et 886 032 €
 
 30
 
-
-Comprise entre 886 020 euros et 1 772 041 euros
+Comprise entre 886 032 € et 1 772 064 €
 
 35
 
-
-Au-delà de 1 772 041 euros
+Au-delà de 1 772 064 €
 
 40
 
 
-TABLEAU II
+Tableau II
 
 Tarif des droits applicables entre époux et entre partenaires liés par un pacte
-civil de solidarité
+civil de solidarité :
 
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF APPLICABLE (en pourcentage)
+TARIF applicable (%)
 
-N'excédant pas 7 922 euros
+N'excédant pas 7 922 €
 
 5
 
-
-Comprise entre 7 922 euros et 15 636 euros
+Comprise entre 7 922 € et 15 636 €
 
 10
 
-
-Comprise entre 15 636 euros et 31 271 euros
+Comprise entre 15 636 € et 31 272 €
 
 15
 
-
-Comprise entre 31 271 euros et 542 036 euros
+Comprise entre 31 272 € et 542 043 €
 
 20
 
-
-Comprise entre 542 036 euros et 886 020 euros
+Comprise entre 542 043 € et 886 032 €
 
 30
 
-
-Comprise entre 886 020 euros et 1 772 041 euros
+Comprise entre 886 032 € et 1 772 064 €
 
 35
 
-
-Au-delà de 1 772 041 euros
+Au-delà de 1 772 064 €
 
 40
 
 
-TABLEAU III
+Tableau III
 
-Tarif des droits applicables en ligne collatérale et entre non parents
+Tarif des droits applicables en ligne collatérale et entre non-parents :
 
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF APPLICABLE (en pourcentage)
+TARIF applicable (%)
 
-Entre frères et sœurs vivants ou représentés : N'excédant pas 23 975 euros
+Entre frères et sœurs (vivants ou représentés) (1) :
+
+N'excédant pas 23 975 €
 
 35
 
-
-Supérieure à 23975 euros
+Supérieure à 23 975 €
 
 45
 

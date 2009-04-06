@@ -4,14 +4,15 @@ I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en
 application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies peuvent
 bénéficier d'un crédit d'impôt égal au produit du montant de 1 600 euros par le
 nombre moyen annuel d'apprentis dont le contrat est régi par les dispositions
-des articles L. 117-1 à L. 117-18 du code du travail. Ce montant est porté à 2
+des articles L. 6221-1 à L. 6225-8 du code du travail. Ce montant est porté à 2
 200 euros dans les cas suivants :
 
 1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en
-application de l'article L. 323-10 du code du travail ;
+application des articles L. 5213-1 et L. 5213-2 du code du travail ;
 
-2° lorsque l'apprenti bénéficie de l'accompagnement personnalisé prévu à la
-dernière phrase du premier alinéa de l'article L. 322-4-17-2 du même code ;
+2° lorsque l'apprenti bénéficie de l'accompagnement personnalisé et renforcé
+prévu par décret en application du 1° de l'article L. 5131-7 du code du travail
+;
 
 3° lorsque l'apprenti est employé par une entreprise portant le label
 "Entreprise du patrimoine vivant" au sens de l'article 23 de la loi n° 2005-882

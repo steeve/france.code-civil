@@ -26,7 +26,7 @@ supporté la contribution instituée par l'article 14 de l'ordonnance n° 96-50 
 que les plus-values exonérées en application du 7 du III du même article ;
 
 4 bis. Les revenus, produits et gains exonérés d'impôt sur le revenu en
-application du II de l'article 81 C ;
+application du II de l'article 155 B ;
 
 5. Les plus-values à long terme exonérées d'impôt en application de l'article
 151 septies A.

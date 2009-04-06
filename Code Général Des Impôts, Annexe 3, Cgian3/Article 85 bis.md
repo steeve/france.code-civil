@@ -8,7 +8,7 @@ a) L'objet de la cantine consiste à fournir de façon habituelle des repas au
 personnel, qui doit être en mesure de justifier de son appartenance à
 l'entreprise ;
 
-b) Conformément aux dispositions de l'article R. 432-4 du code du travail, la
+b) Conformément aux dispositions de l'article R. 2323-21 du code du travail, la
 cantine est gérée par le comité d'entreprise ou par l'employeur ou par une
 association ou par un groupement de comités d'entreprises ou d'employeurs. Son
 fonctionnement est, en tout état de cause, soumis au contrôle de représentants

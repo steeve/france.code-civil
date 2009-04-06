@@ -19,6 +19,5 @@ disposition, le revenu net imposable servant au calcul de l'impôt sur le revenu
 est déterminé dans les conditions de droit commun.
 
 V. ― Les dispositions du premier alinéa de l'article 197 B sont applicables pour
-la fraction des rémunérations déterminée conformément au II du présent article
-qui n'excède pas annuellement la limite supérieure fixée par les III et IV de
-l'article 182 A.
+la fraction des rémunérations déterminée conformément au II qui n'excède pas
+annuellement la limite supérieure fixée par les III et IV de l'article 182 A.

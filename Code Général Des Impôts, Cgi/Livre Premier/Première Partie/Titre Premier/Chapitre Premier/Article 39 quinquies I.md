@@ -41,8 +41,8 @@ qu'elles détiennent sur une personne publique.
 Cette provision est égale à l'excédent du montant de créances cédées qui
 correspond aux coûts d'investissement définis à l'article L. 313-29-1 du code
 monétaire et financier et incorporés au prix de revient, sur le total des
-amortissements pratiqués dans les conditions du 2° du 1 de l'article 39 du
-présent code. Elle est rapportée sur la durée résiduelle d'amortissement, au
-rythme de cet amortissement et, au plus tard, au résultat imposable de
-l'exercice au cours duquel intervient la cession des investissements ou au cours
-duquel le contrat prend fin, de manière anticipée ou non, s'il est antérieur.
+amortissements pratiqués dans les conditions du 2° du 1 de l'article 39. Elle
+est rapportée sur la durée résiduelle d'amortissement, au rythme de cet
+amortissement et, au plus tard, au résultat imposable de l'exercice au cours
+duquel intervient la cession des investissements ou au cours duquel le contrat
+prend fin, de manière anticipée ou non, s'il est antérieur.

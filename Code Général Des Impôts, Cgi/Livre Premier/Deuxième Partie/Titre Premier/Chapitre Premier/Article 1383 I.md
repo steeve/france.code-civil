@@ -10,9 +10,11 @@ développement du territoire.
 
 L'exonération s'applique aux immeubles rattachés à un établissement remplissant
 les conditions requises pour bénéficier de l'exonération prévue au I quinquies B
-de l'article 1466 A et pendant la même durée que celle-ci. Elle s'applique à
-compter du 1er janvier de l'année qui suit celle où est intervenu le
-rattachement à un établissement remplissant les conditions requises.
+de l'article 1466 A et pendant la même durée que celle-ci.
+
+Elle s'applique à compter du 1er janvier de l'année qui suit celle où est
+intervenu le rattachement à un établissement remplissant les conditions
+requises.
 
 Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année
 suivant celle où les immeubles ne sont plus affectés à une activité entrant dans
@@ -43,8 +45,9 @@ régionale, le bénéfice de l'exonération est subordonné au respect de l'arti
 certaines catégories d'aides compatibles avec le marché commun en application
 des articles 87 et 88 du traité (règlement général d'exemption par catégorie).
 
-L'option mentionnée à l'alinéa précédent est irrévocable pour la durée de
+L'option mentionnée au huitième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée avant le 1er janvier de la première année
-au titre de laquelle l'exonération prend effet. Les obligations déclaratives des
-personnes et organismes concernés par l'exonération prévue au présent article
-sont fixées par décret.
+au titre de laquelle l'exonération prend effet.
+
+Les obligations déclaratives des personnes et organismes concernés par
+l'exonération prévue au présent article sont fixées par décret.

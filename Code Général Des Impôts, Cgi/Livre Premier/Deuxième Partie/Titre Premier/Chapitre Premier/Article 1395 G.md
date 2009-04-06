@@ -31,27 +31,26 @@ L'exonération prévue au I s'applique après les exonérations partielles prév
 l'article 1394 B bis, au 1° ter de l'article 1395 et au I de l'article 1395 D.
 
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
-l'article 1394 C et celles prévues au I du présent article sont remplies,
-l'exonération prévue à l'article 1394 C est applicable. Toutefois, lorsque la
-délibération prise sur le fondement de ce dernier article est rapportée, le
-bénéfice des dispositions du I est accordé pour la période restant à courir à
-compter de l'année au titre de laquelle l'exonération prévue à l'article 1394 C
-cesse de s'appliquer.
+l'article 1394 C et celles prévues au I sont remplies, l'exonération prévue à
+l'article 1394 C est applicable. Toutefois, lorsque la délibération prise sur le
+fondement de ce dernier article est rapportée, le bénéfice des dispositions du I
+est accordé pour la période restant à courir à compter de l'année au titre de
+laquelle l'exonération prévue à l'article 1394 C cesse de s'appliquer.
 
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
-l'article 1395 A et celles prévues au I du présent article sont remplies et que
-la durée d'exonération applicable conformément à l'article 1395 A est inférieure
-ou égale à cinq ans, l'exonération prévue au I du présent article est
-applicable. Toutefois, le bénéfice des dispositions de l'article 1395 A est
-accordé à l'expiration de la période d'application de l'exonération prévue au
-même I pour la période restant à courir.
+l'article 1395 A et celles prévues au I sont remplies et que la durée
+d'exonération applicable conformément à l'article 1395 A est inférieure ou égale
+à cinq ans, l'exonération prévue au I est applicable. Toutefois, le bénéfice des
+dispositions de l'article 1395 A est accordé à l'expiration de la période
+d'application de l'exonération prévue au même I pour la période restant à
+courir.
 
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
-l'article 1395 A et celles prévues au I du présent article sont remplies et que
-la durée d'exonération applicable conformément à l'article 1395 A est supérieure
-à cinq ans, l'exonération prévue à l'article 1395 A est applicable. Toutefois,
-le bénéfice des dispositions du I du présent article est accordé à l'expiration
-de la période d'application de l'exonération prévue à l'article 1395 A pour la
+l'article 1395 A et celles prévues au I sont remplies et que la durée
+d'exonération applicable conformément à l'article 1395 A est supérieure à cinq
+ans, l'exonération prévue à l'article 1395 A est applicable. Toutefois, le
+bénéfice des dispositions du I du présent article est accordé à l'expiration de
+la période d'application de l'exonération prévue à l'article 1395 A pour la
 période restant à courir.
 
 III. ― Pour bénéficier de l'exonération, le propriétaire ou, si les propriétés

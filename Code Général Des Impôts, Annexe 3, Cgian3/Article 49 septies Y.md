@@ -1,6 +1,6 @@
 Article 49 septies Y
 ----
-Pour l'application des dispositions prévues au a du I de l'article 244 quater F
+Pour l'application des dispositions prévues au 1 du I de l'article 244 quater F
 du code général des impôts, il y a lieu de retenir :
 
 a) Les dépenses engagées par l'entreprise pour financer la création ou le

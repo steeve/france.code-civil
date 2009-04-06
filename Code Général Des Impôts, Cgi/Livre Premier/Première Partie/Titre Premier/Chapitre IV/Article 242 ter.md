@@ -7,21 +7,21 @@ et l'adresse des bénéficiaires ainsi que, par nature de revenus, le détail du
 montant imposable et du crédit d'impôt, le revenu brut soumis à un prélèvement
 libératoire et le montant dudit prélèvement et le montant des revenus exonérés.
 
-Cette déclaration ne concerne pas, sauf s'agissant des produits mentionnés aux
-1° et 2° si leur bénéficiaire a son domicile fiscal hors de France dans un Etat
-membre de la Communauté européenne :
+Cette déclaration ne concerne pas, sauf s'agissant des produits mentionnés au 1°
+si leur bénéficiaire a son domicile fiscal hors de France dans un Etat membre de
+la Communauté européenne :
 
 1° Les produits et intérêts exonérés visés au 7°, 7° ter, 7° quater, 9° bis, 9°
 ter, 9° quater et 9° sexies de l'article 157 ;
 
-2° Les produits visés au II bis de l'article 125 A ;
+2° (Sans objet) ;
 
 3° Les intérêts des bons et titres placés sous le régime fiscal de l'anonymat.
 
 Pour l'établissement de cette déclaration, les personnes qui en assurent le
 paiement individualisent les intérêts des créances de toute nature et produits
 assimilés tels qu'énumérés par un décret transposant l'article 6 de la directive
-2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
+2003 / 48 / CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
 l'épargne sous forme de paiements d'intérêts.
 
 Les revenus de cette nature provenant de la cession, du remboursement ou du
@@ -36,7 +36,7 @@ prévues par décret, les informations nécessaires à l'appréciation de la
 situation de l'organisme ou entité au regard du pourcentage de 40 %. Cette
 situation est précisée dans les documents constitutifs ou le règlement de
 l'organisme ou entité ou, à défaut, dans leurs inventaires prévus à l'article L.
-214-8 du code monétaire et financier. A défaut d'information, les personnes
+214-8 du code monétaire et financier.A défaut d'information, les personnes
 mentionnées au premier alinéa considèrent que le pourcentage de 40 % est
 dépassé.
 

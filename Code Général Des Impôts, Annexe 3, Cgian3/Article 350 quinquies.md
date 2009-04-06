@@ -7,13 +7,10 @@ général des impôts ;
 
 2° (Dispositions devenues sans objet) ;
 
-3° Les déclarations prévues au premier alinéa de l'article 413 du code général
-des impôts ainsi qu'aux articles 312, 327, 329, 501, 511 et 626 du même code ;
+3° Les déclarations prévues aux articles 312, 327, 329, 501, 511 et 626 du code
+général des impôts ;
 
-4° La déclaration mentionnée au deuxième alinéa de l'article 415 du code général
-des impôts et est chargée d'appliquer les dispositions de cet article avec la
-direction générale de la concurrence, de la consommation et de la répression des
-fraudes ;
+4° (Dispositions devenues sans objet) ;
 
 5° (Dispositions devenues sans objet) ;
 

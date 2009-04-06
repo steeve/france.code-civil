@@ -26,7 +26,7 @@ L'application de cet abattement n'est pas cumulable avec le bénéfice de la
 réduction d'impôt sur le revenu prévue à l'article 200.
 
 IV.-A défaut d'autre abattement, à l'exception de celui mentionné au III, un
-abattement de 1 520 euros est opéré sur chaque part successorale.
+abattement de 1 564 euros est opéré sur chaque part successorale.
 
 V.-Le montant de l'abattement mentionné au IV est actualisé, le 1er janvier de
 chaque année, dans la même proportion que la limite supérieure de la première

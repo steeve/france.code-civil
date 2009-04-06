@@ -17,19 +17,19 @@ patrimoine en application de l'article L. 143-2 du code du patrimoine, n'est pas
 ouvert aux immeubles détenus par des sociétés civiles non soumises à l'impôt sur
 les sociétés.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables aux immeubles
-détenus par des sociétés civiles non soumises à l'impôt sur les sociétés et
-ayant fait l'objet d'un agrément du ministre chargé du budget, après avis du
-ministre chargé de la culture, lorsque l'intérêt patrimonial du monument et
-l'importance des charges relatives à son entretien justifient le recours à un
-tel mode de détention ni aux immeubles détenus par des sociétés civiles non
-soumises à l'impôt sur les sociétés dont les associés sont membres d'une même
-famille, à la condition que les associés de ces sociétés prennent l'engagement
-de conserver la propriété de leurs parts pendant une période d'au moins quinze
-années à compter de leur acquisition. L'engagement de conservation des associés
-d'une société constituée entre les membres d'une même famille n'est pas rompu
-lorsque les parts sont cédées à un membre de cette famille qui reprend
-l'engagement précédemment souscrit pour sa durée restant à courir.
+Les dispositions du premier alinéa ne sont pas applicables aux immeubles détenus
+par des sociétés civiles non soumises à l'impôt sur les sociétés et ayant fait
+l'objet d'un agrément du ministre chargé du budget, après avis du ministre
+chargé de la culture, lorsque l'intérêt patrimonial du monument et l'importance
+des charges relatives à son entretien justifient le recours à un tel mode de
+détention ni aux immeubles détenus par des sociétés civiles non soumises à
+l'impôt sur les sociétés dont les associés sont membres d'une même famille, à la
+condition que les associés de ces sociétés prennent l'engagement de conserver la
+propriété de leurs parts pendant une période d'au moins quinze années à compter
+de leur acquisition. L'engagement de conservation des associés d'une société
+constituée entre les membres d'une même famille n'est pas rompu lorsque les
+parts sont cédées à un membre de cette famille qui reprend l'engagement
+précédemment souscrit pour sa durée restant à courir.
 
 III. ― Le cas échéant, le revenu global ou le revenu net foncier de l'année au
 cours de laquelle l'engagement mentionné au I ou au II n'est pas respecté et des

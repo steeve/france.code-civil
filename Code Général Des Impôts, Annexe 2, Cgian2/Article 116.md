@@ -13,7 +13,7 @@ l'article 223 A du même code ;
 
 b) Du résultat des exploitations directes situées hors de la France
 métropolitaine et des départements d'outre-mer, déterminé dans les conditions
-prévues aux articles 116 bis et 116 ter de la présente annexe ;
+prévues aux articles 116 bis et 116 ter ;
 
 c) Du résultat des exploitations indirectes situées en France métropolitaine ou
 dans les départements d'outre-mer, tel qu'il est retenu pour l'imposition de ces

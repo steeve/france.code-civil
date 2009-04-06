@@ -7,7 +7,7 @@ affectés à la couverture d'instruments financiers évalués à leur valeur de
 marché ou à la gestion spécialisée d'une activité de transaction, sont évalués à
 leur valeur de marché à la clôture de chaque exercice ou à la date à laquelle
 ils cessent de remplir les conditions pour être soumis à cette règle
-d'évaluation. L'écart résultant de cette évaluation constitue un élément du
+d'évaluation.L'écart résultant de cette évaluation constitue un élément du
 résultat imposable au taux normal.
 
 Si les conditions prévues par le premier alinéa ne sont plus remplies,
@@ -58,7 +58,6 @@ assimilés à des contrats d'échange de taux d'intérêt les contrats conclus d
 de référence, une durée ou une ou plusieurs échéances futures ainsi que ceux
 destinés à garantir des plafonds ou des planchers de taux d'intérêt.
 
-Les dispositions du présent article s'appliquent pour la détermination des
-résultats des exercices clos à compter du 31 décembre 1991.
+(Alinéa disjoint).
 
 Un décret fixe les modalités d'application du présent article.

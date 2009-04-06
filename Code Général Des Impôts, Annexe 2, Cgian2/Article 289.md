@@ -8,7 +8,7 @@ individuelles suivantes :
 cours de fabrication ou de transformation d'alcools et de boissons alcooliques
 accordés aux entrepositaires agréés par entrepôt suspensif de droits d'accises,
 prévues par le premier alinéa du 2° du 1 du I de l'article 302 D du code général
-des impôts et l'article 111-00 B de l'annexe Ill au même code ;
+des impôts et l'article 111-00 B de l'annexe III au même code ;
 
 2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de
 l'article 302 D bis du code général des impôts ;
@@ -55,11 +55,7 @@ isoglucose et de sirop d'inuline par tous autres registres ou documents
 présentant les mêmes indications, prévue par le deuxième alinéa de l'article 425
 du code général des impôts ;
 
-12° Agrément donné à un entrepositaire agréé pour expédier à partir de ses
-locaux des produits en suspension de droits d'accises sans établir de titre de
-mouvement aux conditions et modalités prévues à l'article 443 du code général
-des impôts et au II de l'article 111 H sexies de l'annexe III au code général
-des impôts ;
+12° (Alinéa sans objet) ;
 
 13° Admission en décharge des quantités d'alcool ou de boissons alcooliques en
 cas de pertes accidentelles, prévue au troisième alinéa de l'article 111-00 A de
@@ -240,5 +236,5 @@ l'article 164 AU de l'annexe IV au code général des impôts ;
 mentionnée au I de l'article 164 AU de l'annexe IV, prévue à l'article 164 AW de
 la même annexe ;
 
-55° Décisions relatives aux réclamations contentieuses, prévues à l'article R.*
+55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. *
 198-10 du livre des procédures fiscales.

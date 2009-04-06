@@ -1,7 +1,7 @@
 Article 46 quaterdecies X
 ----
-En Guadeloupe, en Guyane, à la Martinique, à la Réunion, et à compter du 1er
-janvier 2007 à Mayotte, la commission locale est composée comme suit :
+En Guadeloupe, en Guyane, à la Martinique, à la Réunion et à Mayotte, la
+commission locale est composée comme suit :
 
 a) Le préfet, président ;
 

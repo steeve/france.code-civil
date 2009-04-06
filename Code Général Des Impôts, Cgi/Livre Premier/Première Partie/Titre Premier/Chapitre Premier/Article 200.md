@@ -43,13 +43,13 @@ g) De fonds de dotation :
 1° Répondant aux caractéristiques mentionnées au b ;
 
 2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des
-dons et versements mentionnés au premier alinéa du présent 1 à des organismes
-mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions
-mentionnées aux quatre premiers alinéas du 2 bis, ou à une fondation ou
-association reconnue d'utilité publique agréée par le ministre chargé du budget
-dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes
-délivrent aux fonds de dotation une attestation justifiant le montant et
-l'affectation des versements effectués à leur profit.
+dons et versements mentionnés au premier alinéa du 1 à des organismes mentionnés
+aux a à f ou à la Fondation du patrimoine dans les conditions mentionnées aux
+quatre premiers alinéas du 2 bis, ou à une fondation ou association reconnue
+d'utilité publique agréée par le ministre chargé du budget dans les conditions
+mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds
+de dotation une attestation justifiant le montant et l'affectation des
+versements effectués à leur profit.
 
 Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre
 d'une activité bénévole et en vue strictement de la réalisation de l'objet
@@ -67,8 +67,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 488 euros à compter de
-l'imposition des revenus de l'année 2007. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 495 euros à compter de
+l'imposition des revenus de l'année 2008. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année

@@ -18,8 +18,7 @@ La justification des frais généraux accessoires payés en espèces n'est pas
 exigée dans la limite de 1 p. 1000 du chiffre d'affaires réalisé et d'un minimum
 de 150 euros.
 
-Ces dispositions s'appliquent pour la détermination des résultats des exercices
-clos à compter du 31 décembre 1990.
+(Alinéa disjoint)
 
 3. Un décret précise les modalités d'application de ces dispositions notamment
 en cas de changement de mode de comptabilisation en vue d'éviter qu'une même

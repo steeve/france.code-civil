@@ -80,8 +80,8 @@ capital initial ou aux augmentations de capital des sociétés vérifiant les
 conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article
 239 bis AB et aux f et g du 1 du I de l'article 885-0 V bis.
 
-Le dernier alinéa du II du présent article n'est pas applicable au titre des
-souscriptions mentionnées à l'alinéa précédent.
+Le second alinéa du II n'est pas applicable au titre des souscriptions
+mentionnées au premier alinéa.
 
 II ter. ― La réduction d'impôt prévue au I est calculée sur le montant total des
 versements mentionnés aux II et II bis retenus dans leur limite annuelle

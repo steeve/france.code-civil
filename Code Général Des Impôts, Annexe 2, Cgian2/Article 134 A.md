@@ -7,8 +7,5 @@ autorisées à faire la somme de leurs résultats, tels qu'ils sont définis au 
 l'article 209 du même code, et des résultats de leurs exploitations directes
 situées hors de la France métropolitaine et des départements d'outre-mer.
 
-Les dispositions des articles 113 à 134 de la présente annexe sont, le cas
-échéant, applicables à ces sociétés ou personnes morales (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.
+Les dispositions des articles 113 à 134 sont, le cas échéant, applicables à ces
+sociétés ou personnes morales.

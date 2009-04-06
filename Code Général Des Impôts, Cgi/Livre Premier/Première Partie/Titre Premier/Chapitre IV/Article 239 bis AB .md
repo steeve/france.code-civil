@@ -28,8 +28,7 @@ troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 
 portant diverses dispositions d'ordre économique et financier, les sociétés
 ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les
 sociétés dans les conditions de droit commun au taux normal. Il en va de même
-pour l'application du c du 2° du I de l'article 199 terdecies-0 A du présent
-code.
+pour l'application du c du 2° du I de l'article 199 terdecies-0 A.
 
 II.-L'option prévue au I est subordonnée au respect des conditions suivantes :
 
@@ -49,8 +48,8 @@ couverts par l'option. Lorsque l'une d'entre elles n'est plus respectée au cour
 de l'un de ces exercices, l'article 206 est applicable à la société, à compter
 de ce même exercice.
 
-La condition mentionnée au 3° du présent II s'apprécie à la date d'ouverture du
-premier exercice d'application de l'option.
+La condition mentionnée au 3° s'apprécie à la date d'ouverture du premier
+exercice d'application de l'option.
 
 III.-L'option ne peut être exercée qu'avec l'accord de tous les associés, à
 l'exclusion des associés mentionnés au deuxième alinéa du I. Elle doit être

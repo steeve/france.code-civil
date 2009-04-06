@@ -16,8 +16,8 @@ lucratif.
 les associations régies par la loi du 1er juillet 1901, les associations régies
 par la loi locale maintenue en vigueur dans les départements de la Moselle, du
 Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 2131-1 à L.
-2135-2 du code du travail, les fondations reconnues d'utilité publique, les
-fondations d'entreprise , les fonds de dotation et les congrégations, dont la
+2136-2 du code du travail, les fondations reconnues d'utilité publique, les
+fondations d'entreprise, les fonds de dotation et les congrégations, dont la
 gestion est désintéressée, lorsque leurs activités non lucratives restent
 significativement prépondérantes et le montant de leurs recettes d'exploitation
 encaissées au cours de l'année civile au titre de leurs activités lucratives
@@ -46,7 +46,7 @@ relevant du forfait prévu aux articles 64 à 65 B ne sont pas passibles de
 l'impôt visé au 1 lorsque les activités accessoires visées aux articles 34 et 35
 qu'elles peuvent réaliser n'excèdent pas les seuils fixés aux articles 75 et 75
 A : les bénéfices résultant de ces activités sont alors déterminés et imposés
-d'après les règles qui leur sont propres (1).
+d'après les règles qui leur sont propres.
 
 3. Sont soumis à l'impôt sur les sociétés s'ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :

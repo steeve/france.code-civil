@@ -67,12 +67,12 @@ constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et
 qu'elle présente l'une des garanties de gestion durable prévues à l'article L. 8
 du code forestier, sous réserve des deux conditions suivantes :
 
-― le contribuable doit prendre l'engagement de conserver cette propriété
+1° le contribuable doit prendre l'engagement de conserver cette propriété
 jusqu'au 31 décembre de la huitième année suivant celle des travaux et
 d'appliquer, pendant la même durée, l'une des garanties de gestion durable
 prévues à l'article L. 8 du même code ;
 
-― les travaux de plantation doivent être effectués avec des graines et des
+2° les travaux de plantation doivent être effectués avec des graines et des
 plants forestiers conformes aux prescriptions des arrêtés régionaux relatifs aux
 aides de l'Etat à l'investissement forestier pris conformément au titre V du
 livre V de la partie réglementaire du même code ;
@@ -84,17 +84,17 @@ constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et
 qu'elle présente l'une des garanties de gestion durable prévues à l'article L. 8
 du même code, sous réserve des trois conditions suivantes :
 
-― l'associé doit prendre l'engagement de conserver les parts du groupement ou de
-la société jusqu'au 31 décembre de la quatrième année suivant celle des travaux
-;
+1° l'associé doit prendre l'engagement de conserver les parts du groupement ou
+de la société jusqu'au 31 décembre de la quatrième année suivant celle des
+travaux ;
 
-― le groupement ou la société doit prendre l'engagement de conserver les
+2° le groupement ou la société doit prendre l'engagement de conserver les
 parcelles qui ont fait l'objet de travaux ouvrant droit à réduction d'impôt
 jusqu'au 31 décembre de la huitième année suivant celle des travaux et
 d'appliquer, pendant la même durée, l'une des garanties de gestion durable
 prévues à l'article L. 8 du même code ;
 
-― les travaux de plantation doivent être effectués avec des graines et des
+3° les travaux de plantation doivent être effectués avec des graines et des
 plants forestiers conformes aux prescriptions des arrêtés régionaux relatifs aux
 aides de l'Etat à l'investissement forestier pris conformément au titre V du
 livre V de la partie réglementaire du même code ;
@@ -108,16 +108,16 @@ producteurs au sens de l'article L. 551-1 du même code ou avec l'Office nationa
 des forêts en application de l'article L. 224-6 du code forestier, sous réserve
 des trois conditions suivantes :
 
-― le contrat de gestion doit prévoir la réalisation de programmes de travaux et
+1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et
 de coupes sur des terrains en nature de bois et forêts dans le respect de l'une
 des garanties de gestion durable prévues à l'article L. 8 du même code ;
 
-― ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec un
-expert forestier, soit en exécution d'un contrat d'apport conclu avec une
+2° ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec
+un expert forestier, soit en exécution d'un contrat d'apport conclu avec une
 coopérative ou une organisation de producteurs, soit dans les conditions
 prescrites à l'article L. 224-6 du même code ;
 
-― ces coupes doivent être commercialisées à destination d'unités de
+3° ces coupes doivent être commercialisées à destination d'unités de
 transformation du bois ou de leurs filiales d'approvisionnement par voie de
 contrats d'approvisionnement annuels reconductibles ou pluriannuels.
 

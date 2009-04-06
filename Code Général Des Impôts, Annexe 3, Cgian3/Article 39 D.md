@@ -1,14 +1,10 @@
 Article 39 D
 ----
-La déclaration annuelle de données sociales peut être faite par un procédé
-informatique si le déclarant le demande et s'engage à se conformer aux
-prescriptions d'un cahier des charges approuvé par arrêté conjoint des ministres
-chargés du budget et de la sécurité sociale.
+La déclaration annuelle de données sociales est effectuée par voie électronique,
+conformément à un cahier des charges approuvé par arrêté conjoint du ministre
+chargé de l'économie et des finances, du ministre chargé du budget et du
+ministre chargé de la sécurité sociale.
 
-Dans les centres de transfert de données sociales équipés à cet effet et
-figurant sur une liste fixée par arrêté du Premier ministre sur proposition des
-ministres intéressés, cette déclaration peut être faite par voie télématique.
-
-A défaut de recours à un procédé informatique, la déclaration est effectuée à
-l'aide d'un formulaire unique dont le modèle est approuvé par arrêté conjoint
-des ministres ci-dessus mentionnés.
+A défaut d'utiliser la voie électronique, la déclaration est effectuée au moyen
+d'un formulaire dont le modèle est approuvé par arrêté conjoint des ministres
+ci-dessus mentionnés.

@@ -73,7 +73,7 @@ l'article 3 de la directive 98 / 49 / CE du Conseil du 29 juin 1998 relative à
 la sauvegarde des droits à pension complémentaire des travailleurs salariés et
 non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues
 par les conventions ou accords internationaux de sécurité sociale, auxquels les
-personnes désignées au I de l'article 81 B ou au 1 du I de l'article 81 C
+personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B
 étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions
 en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième
 année suivant celle de leur prise de fonctions ;
@@ -148,14 +148,14 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 501 euros
-pour l'imposition des rémunérations perçues en 2007 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 893 euros
+pour l'imposition des rémunérations perçues en 2008 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 401 euros ou à 880 euros pour les personnes inscrites en tant que
+inférieur à 413 euros ou à 906 euros pour les personnes inscrites en tant que
 demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut
 des traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de

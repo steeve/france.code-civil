@@ -22,7 +22,8 @@ de la sécurité sociale.
 
 Cette limite est réduite, le cas échéant, des sommes versées par l'entreprise au
 plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 et L.
-3334-16 du code du travail et exonérées en application du 18° de l'article 81.
+3334-16 du code du travail et exonérées en application du a du 18° de l'article
+81.
 
 II.-La déduction mentionnée au I est subordonnée à la justification par le chef
 d'exploitation ou d'entreprise de la régularité de sa situation vis-à-vis des

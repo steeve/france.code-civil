@@ -17,10 +17,10 @@ améliorer les rapports locatifs et portant modification de la loi n° 86-1290 d
 23 décembre 1986 et qui font l'objet, entre le 1er janvier 2009 et le 31
 décembre 2012, de travaux de réhabilitation définis par décret permettant aux
 logements d'acquérir des performances techniques voisines de celles des
-logements neufs. L'achèvement de la construction ou des travaux de
-transformation doit intervenir au plus tard au 31 décembre de la deuxième année
-qui suit celle de la demande de permis de construire ou celle de l'acquisition
-du local destiné à être transformé.
+logements neufs.L'achèvement de la construction ou des travaux de transformation
+doit intervenir au plus tard au 31 décembre de la deuxième année qui suit celle
+de la demande de permis de construire ou celle de l'acquisition du local destiné
+à être transformé.
 
 L'application de la présente réduction d'impôt est, au titre de l'acquisition ou
 de la construction d'un logement, exclusive, pour le même logement, de la
@@ -33,9 +33,9 @@ associés.
 
 La location du logement consentie à un organisme public ou privé qui le donne en
 sous-location nue à usage d'habitation principale à une personne autre que l'une
-de celles mentionnées au quatrième alinéa du présent article ne fait pas
-obstacle au bénéfice de la réduction d'impôt à la condition que cet organisme ne
-fournisse aucune prestation hôtelière ou parahôtelière.
+de celles mentionnées au quatrième alinéa ne fait pas obstacle au bénéfice de la
+réduction d'impôt à la condition que cet organisme ne fournisse aucune
+prestation hôtelière ou parahôtelière.
 
 La réduction d'impôt n'est pas applicable aux logements dont le droit de
 propriété est démembré ou aux logements appartenant à une société non soumise à
@@ -134,8 +134,8 @@ décès.
 VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à
 l'associé d'une société civile de placement immobilier régie par les articles L.
 214-50 et suivants du code monétaire et financier dont la quote-part de revenu
-est, en application de l'article 8 du présent code, soumise en son nom à l'impôt
-sur le revenu dans la catégorie des revenus fonciers.
+est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu
+dans la catégorie des revenus fonciers.
 
 Le taux de la réduction d'impôt est de 25 % pour les souscriptions réalisées en
 2009 et en 2010, et de 20 % pour les souscriptions réalisées à compter de
@@ -146,7 +146,7 @@ propriété est démembré, est subordonnée à la condition que 95 % de la
 souscription serve exclusivement à financer un investissement pour lequel les
 conditions d'application du présent article sont réunies. En outre, la société
 doit prendre l'engagement de louer le logement dans les conditions prévues au
-présent article. L'associé doit s'engager à conserver la totalité de ses titres
+présent article.L'associé doit s'engager à conserver la totalité de ses titres
 jusqu'au terme de l'engagement de location souscrit par la société. Le produit
 de la souscription doit être intégralement investi dans les dix-huit mois qui
 suivent la clôture de celle-ci.

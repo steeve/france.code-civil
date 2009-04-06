@@ -64,4 +64,4 @@ lacustres.
 faits au profit de l'établissement public du parc national concerné.
 
 14° Les dons et legs consentis aux fonds de dotation répondant aux conditions
-fixées au g du 1 de l'article 200 du présent code.
+fixées au g du 1 de l'article 200.

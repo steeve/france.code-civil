@@ -6,12 +6,12 @@ urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4
 février 1995 d'orientation pour l'aménagement et le développement du territoire
 ou leurs établissements publics de coopération intercommunale dotés d'une
 fiscalité propre peuvent exonérer de la taxe professionnelle par délibération
-prise dans les conditions de l'article 1639 A bis du présent code les créations
-ou extensions d'établissement réalisées dans une ou plusieurs de ces zones
-urbaines sensibles, dans la limite d'un montant de base nette imposable fixé
-pour 2005 à 122 863 Euros et actualisé chaque année en fonction de la variation
-des prix. Seuls les établissements employant moins de 150 salariés peuvent
-bénéficier de cette mesure.
+prise dans les conditions de l'article 1639 A bis les créations ou extensions
+d'établissement réalisées dans une ou plusieurs de ces zones urbaines sensibles,
+dans la limite d'un montant de base nette imposable fixé pour 2005 à 122 863
+Euros et actualisé chaque année en fonction de la variation des prix. Seuls les
+établissements employant moins de 150 salariés peuvent bénéficier de cette
+mesure.
 
 Pour les opérations réalisées à compter du 1er janvier 2005, l'exonération
 s'applique aux entreprises qui ont employé moins de 250 salariés au cours de la
@@ -355,7 +355,7 @@ août 2008 déclarant certaines catégories d'aides compatibles avec le marché
 commun en application des articles 87 et 88 du traité (Règlement général
 d'exemption par catégorie).
 
-L'option mentionnée à l'alinéa précédent est irrévocable pour la durée de
+L'option mentionnée au huitième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
 dépôt de la déclaration annuelle afférente à la première année au titre de
 laquelle l'exonération prend effet ou de la déclaration provisoire de taxe

@@ -2,14 +2,14 @@ Article 150-0 A
 ----
 I.-1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
-des articles 150 UB et 150 UC , les gains nets retirés des cessions à titre
+des articles 150 UB et 150 UC, les gains nets retirés des cessions à titre
 onéreux, effectuées directement, par personne interposée ou par l'intermédiaire
 d'une fiducie, de valeurs mobilières, de droits sociaux, de titres mentionnés au
 1° de l'article 118 et aux 6° et 7° de l'article 120, de droits portant sur ces
 valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits
 ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces
-cessions excède, par foyer fiscal, 20 000 euros pour l'imposition des revenus de
-l'année 2007 et 25 000 euros pour l'imposition des revenus de l'année 2008. Pour
+cessions excède, par foyer fiscal, 25 000 euros pour l'imposition des revenus de
+l'année 2008 et 25 730 euros pour l'imposition des revenus de l'année 2009. Pour
 l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
 d'euros la plus proche, est actualisé chaque année dans la même proportion que
 la limite supérieure de la première tranche du barème de l'impôt sur le revenu
@@ -45,8 +45,8 @@ ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours 
 cinq dernières années, la plus-value réalisée lors de la cession de ces droits,
 pendant la durée de la société, à l'une des personnes mentionnées au présent
 alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
-un tiers dans un délai de cinq ans.A défaut, la plus-value est imposée au nom du
-premier cédant au titre de l'année de la revente des droits au tiers.
+un tiers dans un délai de cinq ans. A défaut, la plus-value est imposée au nom
+du premier cédant au titre de l'année de la revente des droits au tiers.
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
 l'option pour l'imputation des pertes a été exercée dans les conditions du
@@ -65,7 +65,7 @@ ans et sous réserve du respect des conditions prévues au 1° et au c du 2° du
 de l'article 150-0 D bis, exonérées ou non imputables pour :
 
 1° La totalité de leur montant lorsque les recettes annuelles telles que
-définies au 2 du présent article sont inférieures ou égales à :
+définies au 2 sont inférieures ou égales à :
 
 a) 250 000 € s'il s'agit d'activités de vente de marchandises, objets,
 fournitures et denrées à emporter ou à consommer sur place ou de fourniture de
@@ -125,9 +125,9 @@ de ces activités.
 Pour l'application des troisième et quatrième alinéas, la globalisation des
 recettes est effectuée par catégorie de revenus.
 
-3. Le complément de prix prévu au 2 du I du présent article, afférent à la
-cession de parts ou droits exonérée dans les conditions du 1 du présent I bis,
-est exonéré dans les mêmes proportions que ladite cession.
+3. Le complément de prix prévu au 2 du I, afférent à la cession de parts ou
+droits exonérée dans les conditions du 1, est exonéré dans les mêmes proportions
+que ladite cession.
 
 4. En cas de cession de parts ou droits mentionnés au 1 appartenant à une série
 de parts ou droits de même nature, acquis ou souscrits à des dates différentes,
@@ -204,17 +204,17 @@ de placement définis au 2 du III ou de la dissolution de tels fonds ;
 prépondérance immobilière à capital variable mentionnées au 3° nonies de
 l'article 208 ;
 
-4 ter. Par dérogation aux dispositions de l'article 239 nonies , aux titres
-cédés dans le cadre de leur gestion par les fonds de placement immobilier régis
-par les articles L. 214-89 et suivants du code monétaire et financier,
-lorsqu'une personne physique agissant directement, par personne interposée ou
-par l'intermédiaire d'une fiducie possède plus de 10 % des parts du fonds.
+4 ter. Par dérogation aux dispositions de l'article 239 nonies, aux titres cédés
+dans le cadre de leur gestion par les fonds de placement immobilier régis par
+les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une
+personne physique agissant directement, par personne interposée ou par
+l'intermédiaire d'une fiducie possède plus de 10 % des parts du fonds.
 
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont
 la durée à l'émission est supérieure à cinq ans.
 
 6. Indépendamment de l'application des dispositions des articles 109, 112, 120
-et 161 , au gain net retiré par le bénéficiaire lors d'un rachat par une société
+et 161, au gain net retiré par le bénéficiaire lors d'un rachat par une société
 émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D. Pour
 l'appréciation de la limite mentionnée au 1 du I, le montant du remboursement
 des titres diminué du montant du revenu distribué imposable à l'impôt sur le
@@ -222,15 +222,14 @@ revenu au titre de ce rachat dans les conditions prévues aux articles 109, 112,
 120 et 161 est ajouté au montant des cessions réalisées au cours de la même
 année.
 
-7. Sous réserve de l'application de l'article 163 quinquies B et du 8 du présent
-II, en cas de distribution d'une fraction des actifs d'un fonds commun de
-placement à risques dans les conditions du 9 de l'article L. 214 36 du code
-monétaire et financier, à l'excédent du montant des sommes ou valeurs
-distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il
-est différent du montant des apports. Pour l'appréciation de la limite
-mentionnée au 1 du I du présent article, le montant des sommes ou valeurs ainsi
-distribuées est ajouté au montant des cessions réalisées au cours de la même
-année.
+7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de
+distribution d'une fraction des actifs d'un fonds commun de placement à risques
+dans les conditions du 9 de l'article L. 214 36 du code monétaire et financier,
+à l'excédent du montant des sommes ou valeurs distribuées sur le montant des
+apports, ou le prix d'acquisition des parts s'il est différent du montant des
+apports. Pour l'appréciation de la limite mentionnée au 1 du I, le montant des
+sommes ou valeurs ainsi distribuées est ajouté au montant des cessions réalisées
+au cours de la même année.
 
 III.-Les dispositions du I ne s'appliquent pas :
 
@@ -242,13 +241,13 @@ disposition n'est pas applicable si, à la date de la cession ou du rachat, le
 fonds a cessé de remplir les conditions énumérées au II ou au III bis de
 l'article 163 quinquies B ;
 
-1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au II de
-l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier 2001,
-réalisées par des actionnaires remplissant les conditions fixées au 2 du II de
-l'article précité, après l'expiration de la période de cinq ans mentionnée au 2°
-du même II. Cette disposition n'est pas applicable si, à la date de la cession,
-la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la
-loi n° 85-695 du 11 juillet 1985 ;
+1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au 2 du
+II de l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier
+2001, réalisées par des actionnaires remplissant les conditions fixées au 2 du
+II de l'article précité, après l'expiration de la période de cinq ans mentionnée
+au 2° du 2 du même II. Cette disposition n'est pas applicable si, à la date de
+la cession, la société a cessé de remplir les conditions énumérées à l'article
+1er-1 de la loi n° 85-695 du 11 juillet 1985 ;
 
 2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
 placement sous réserve qu'aucune personne physique agissant directement, par

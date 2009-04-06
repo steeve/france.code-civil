@@ -2,7 +2,7 @@ Article 324 AE
 ----
 Le prix de revient visé à l'article 1499 du code général des impôts s'entend de
 la valeur d'origine pour laquelle les immobilisations doivent être inscrites au
-bilan en conformité de l'article 38 quinquies de la présente annexe.
+bilan en conformité de l'article 38 quinquies.
 
 Aucune rectification n'est apportée auxdites valeurs au titre des taxes sur le
 chiffre d'affaires (taxe sur la valeur ajoutée) supportées par l'entreprise.

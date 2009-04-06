@@ -6,6 +6,6 @@ sont admis en déduction du résultat imposable du bénéficiaire de cette rédu
 d'impôt qu'à hauteur de 85 % de leur montant qui a été régulièrement
 comptabilisé.
 
-Les 2 et 3 de l'article 39 C ne sont pas applicables à la part des
+Les 2 et 3 du II de l'article 39 C ne sont pas applicables à la part des
 amortissements qui n'a pas été admise en déduction du résultat imposable en
-application de l'alinéa précédent.
+application du premier alinéa.

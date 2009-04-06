@@ -141,8 +141,8 @@ du 10 avril 1945, relative aux travaux préliminaires à la reconstruction, et q
 demeurent la propriété de l'Etat ;
 
 11° Les outillages et autres installations et moyens matériels d'exploitation
-des établissements industriels à l'exclusion de ceux visés à l'article 1381 1°
-et 2° ;
+des établissements industriels à l'exclusion de ceux visés aux 1° et 2° de
+l'article 1381 ;
 
 12° Les immobilisations destinées à la production d'électricité d'origine
 photovoltaïque.

@@ -3,7 +3,7 @@ Article 2 terdecies C
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts,
 les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a. Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non
+a. Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non
 comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro
 supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B.
 
@@ -17,100 +17,98 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle
 de la signature du contrat de location.
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les
 suivants :
 
 
-LIEU DE LOCATION
-
 COMPOSITION DU FOYER LOCATAIRE
 
-ZONE A (en euros)
+LIEU DE LOCATION
+
+Zone A (en €)
+
+Zone B1 (en €)
+
+Zone B2 (en €)
+
+Zone C (en €)
 
 
-ZONE B1
+Personne seule
 
-(en euros)
+43 753
+
+32 499
+
+29 791
+
+29 590
 
 
-ZONE B2
+Couple
 
-(en euros)
+65 389
+
+47 725
+
+43 749
+
+39 771
 
 
-ZONE C
+Personne seule ou couple ayant une personne à charge
 
-(en euros)
+78 602
 
-Personne seule.
+57 135
 
-42 396
+52 374
 
-31 491
+47 612
 
-28 867
 
-28 672
+Personne seule ou couple ayant deux personnes à charge
 
-Couple.
+94 153
 
-63 362
+69 146
 
-46 245
+63 384
 
-42 392
+57 622
 
-38 538
 
-Personne seule ou couple ayant une personne à charge.
+Personne seule ou couple ayant trois personnes à charge
 
-76 165
+111 459
 
-55 363
+81 156
 
-50 750
+74 394
 
-46 136
+67 630
 
-Personne seule ou couple ayant deux personnes à charge.
 
-91 234
+Personne seule ou couple ayant quatre personnes à charge
 
-67 002
+125 421
 
-61 419
+91 544
 
-55 835
+83 916
 
-Personne seule ou couple ayant trois personnes à charge.
+76 287
 
-108 003
 
-78 640
+Majoration par personne à charge supplémentaire à partir de la cinquième
 
-72 087
++ 13 979
 
-65 533
++ 10 398
 
-Personne seule ou couple ayant quatre personnes à charge.
++ 9 531
 
-121 533
-
-88 706
-
-81 314
-
-73 922
-
-Majoration par personne à charge à partir de la cinquième.
-
-13 545
-
-10 075
-
-9 235
-
-8 395
++ 8 664
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de ressources prévus à l'article 2 duodecies.

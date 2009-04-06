@@ -1,6 +1,6 @@
 Article 286 J
 ----
-I. - 1° Pour les entrepositaires agréés autres que ceux produisant des produits
+I.-1° Pour les entrepositaires agréés autres que ceux produisant des produits
 vitivinicoles et pour les personnes mentionnées au II de l'article 286 H, la
 comptabilité matières est constituée :
 
@@ -8,7 +8,7 @@ a) Soit par des documents établis conformément aux modèles prévus par arrêt
 ministre chargé du budget ;
 
 b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus
-par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant
+par le règlement (CE) n° 884 / 2001 de la Commission du 24 avril 2001 portant
 modalités d'application relatives aux documents accompagnant les transports des
 produits vitivinicoles et aux registres à tenir dans le secteur vitivinicole ;
 
@@ -43,9 +43,9 @@ bières.
 comptabilité matières aux agents des douanes et droits indirects, sur leur
 demande.
 
-II. - 1° Les entrepositaires agréés mentionnés au I du présent article tiennent
-la comptabilité matières à l'adresse de l'entrepôt fiscal suspensif des droits
-d'accises auquel elle se rapporte.
+II.-1° Les entrepositaires agréés mentionnés au I tiennent la comptabilité
+matières à l'adresse de l'entrepôt fiscal suspensif des droits d'accises auquel
+elle se rapporte.
 
 2° Cependant ils peuvent tenir la comptabilité matières de chacun de leurs
 entrepôts fiscaux suspensifs des droits d'accises à l'adresse d'un de ces
@@ -65,9 +65,9 @@ d'entrepôts fiscaux suspensifs des droits d'accises concernés. Ces comptabilit
 matières doivent pouvoir être communiquées sans délai aux agents des douanes et
 droits indirects.
 
-III. - Lorsque les éléments constitutifs de la comptabilité matières doivent
-faire l'objet d'un agrément, l'entrepositaire agréé joint à sa demande un modèle
-de comptabilité ou de registre.
+III.-Lorsque les éléments constitutifs de la comptabilité matières doivent faire
+l'objet d'un agrément, l'entrepositaire agréé joint à sa demande un modèle de
+comptabilité ou de registre.
 
 La demande d'agrément est transmise au directeur régional des douanes et droits
 indirects ayant dans le ressort territorial de sa circonscription le ou les
@@ -79,7 +79,7 @@ La demande d'agrément contient l'adresse des entrepôts suspensifs des droits
 d'accises, ainsi que du lieu où sont tenus et conservés la comptabilité ou les
 registres.
 
-IV. - 1° Les entrepositaires agréés doivent effectuer la balance du compte
+IV.-1° Les entrepositaires agréés doivent effectuer la balance du compte
 principal et des comptes de production ou de transformation de leur comptabilité
 matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou
 selon sa nature, au plus tard le cinquième jour de chaque mois, le stock
@@ -95,7 +95,7 @@ des droits d'accises, au service des douanes et droits indirects
 territorialement compétent, au plus tard le cinquième jour de chaque mois, une
 déclaration récapitulative comportant les renseignements mentionnés au premier
 alinéa, et, le cas échéant, ceux prévus par les règlements ou accords
-interprofessionnels et ceux prévus au 7° du VII du présent article.
+interprofessionnels et ceux prévus au 7° du VII.
 
 Pour les produits mentionnés à l'article 575 A du code général des impôts, les
 entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif des
@@ -112,15 +112,15 @@ cinquième jour du deuxième mois qui suit, ainsi que les résultats de
 l'inventaire des stocks, au service des douanes et droits indirects mentionné au
 troisième alinéa du 1°.
 
-V. - La comptabilité matières reprend les opérations citées aux II et IV de
+V.-La comptabilité matières reprend les opérations citées aux II et IV de
 l'article 302 G du code général des impôts effectuées en suspension de droits ou
 en droits acquittés, dans un entrepôt fiscal suspensif des droits d'accises.
 
 La comptabilité matières des produits en suspension de droits est distincte de
 celle des produits en droits acquittés.
 
-VI. - 1° La comptabilité matières des produits mentionnés au III de l'article
-302 G du code général des impôts est constituée :
+VI.-1° La comptabilité matières des produits mentionnés au III de l'article 302
+G du code général des impôts est constituée :
 
 a) D'un compte principal décrivant les réceptions, détentions et expéditions de
 produits ;
@@ -142,8 +142,8 @@ revêtement intérieur ou extérieur destiné à assurer l'étanchéité.
 
 2° Dispositions devenues sans objet.
 
-3° Par exception aux dispositions du 1° ci-dessus, la comptabilité matières des
-fabricants de bières est constituée :
+3° Par exception aux dispositions du 1°, la comptabilité matières des fabricants
+de bières est constituée :
 
 a) D'un compte principal décrivant les réceptions, détentions et expéditions de
 bières, après filtration, soutirage et conditionnement ;
@@ -152,8 +152,8 @@ b) D'un compte de subdivision du compte principal, pour les bières logées dans
 des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à
 assurer l'étanchéité.
 
-VII. - Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe
-I au code général des impôts, la comptabilité matières est tenue :
+VII.-Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I
+au code général des impôts, la comptabilité matières est tenue :
 
 1° Par tarif d'imposition, en volume d'alcool pur et en volume effectif, pour
 les alcools et les produits alcooligènes mentionnés à l'article 338 du code
@@ -171,7 +171,8 @@ interprofessionnels prévus notamment en application des articles L. 632-1 à L.
 bières ;
 
 4° Selon les règles fixées par la réglementation communautaire, notamment par le
-règlement (CE) n° 884/2001, pour les produits vitivinicoles autres que le vin ;
+règlement (CE) n° 884 / 2001, pour les produits vitivinicoles autres que le vin
+;
 
 5° Par tarif d'imposition, par unité de produits ou en grammes, selon le cas,
 pour les produits mentionnés à l'article 575 A du code général des impôts ;
@@ -180,14 +181,14 @@ pour les produits mentionnés à l'article 575 A du code général des impôts ;
 alinéa de l'article 302 B du code général des impôts, par nature de produits
 exclusivement ;
 
-7° Par dérogation aux dispositions des 1° , 2° et 3° ci-dessus, les produits
-concernés par des règles spécifiques de taxation ou d'imposition font l'objet
-d'une gestion comptable séparée.
+7° Par dérogation aux dispositions des 1°, 2° et 3°, les produits concernés par
+des règles spécifiques de taxation ou d'imposition font l'objet d'une gestion
+comptable séparée.
 
 De même, les produits soumis aux articles 450 du code général des impôts ou 661
-et 662 du code rural font l'objet d'une gestion séparée.
+et 662 du code rural ancien font l'objet d'une gestion séparée.
 
-VIII. - La comptabilité matières est tenue, par exercice comptable, sur un livre
+VIII.-La comptabilité matières est tenue, par exercice comptable, sur un livre
 aux pages numérotées, jour par jour, sans blanc ni rature, ou selon une
 procédure informatisée.
 
@@ -195,15 +196,15 @@ Les inscriptions sur la comptabilité matières doivent être faites au plus tar
 le jour ouvrable qui suit le jour de la réalisation de l'opération constituant
 une entrée ou une sortie selon les dispositions du B du IX.
 
-IX. - Outre les dispositions particulières prévues à l'annexe I au code général
+IX.-Outre les dispositions particulières prévues à l'annexe I au code général
 des impôts relatives aux bouilleurs de cru et aux distilleries, la comptabilité
 matières comprend les renseignements suivants :
 
-A. - Renseignements généraux
+A.-Renseignements généraux
 
-1° La mention, selon le cas : "Comptabilité matières des produits en suspension
-de droits" ou "Comptabilité matières des produits en droits acquittés" ou
-"Comptes de production ou de transformation" ;
+1° La mention, selon le cas : " Comptabilité matières des produits en suspension
+de droits " ou " Comptabilité matières des produits en droits acquittés " ou "
+Comptes de production ou de transformation " ;
 
 2° Nom ou raison sociale et adresse du siège social de la société de
 l'entrepositaire agréé ;
@@ -219,12 +220,12 @@ tenue cette comptabilité matières ;
 
 7° Date du dernier arrêté annuel de la comptabilité matières.
 
-B. - Renseignements particuliers
+B.-Renseignements particuliers
 
-1° Le compte principal de la comptabilité matières doit contenir une colonne
-"Entrées" et une colonne "Sorties".
+1° Le compte principal de la comptabilité matières doit contenir une colonne "
+Entrées " et une colonne " Sorties ".
 
-a) Dans la colonne "Entrées" du compte principal doivent figurer les quantités
+a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités
 de produits destinées à être stockées :
 
 1. Qui sont détenues à la date d'ouverture de la comptabilité matières, après
@@ -245,7 +246,7 @@ récipients munis d'une capsule, empreinte, vignette ou de toute autre marque
 fiscale représentative des droits indirects. Dans ce cas, les quantités sont
 inscrites en entrée du compte principal des produits en droits acquittés.
 
-b) Dans la colonne "Sorties" du compte principal doivent figurer les quantités
+b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités
 de produits :
 
 1. Qui sont sorties de l'entrepôt suspensif des droits d'accises ou mises à la
@@ -264,51 +265,51 @@ cas, les quantités sont inscrites en sortie du compte principal des produits en
 droits acquittés.
 
 2° Par exception aux dispositions du 1°, la comptabilité matières des fabricants
-de vinaigre doit contenir une colonne "Entrées" et une colonne "Sorties", comme
-ci-après :
+de vinaigre doit contenir une colonne " Entrées " et une colonne " Sorties ",
+comme ci-après :
 
-a) Dans la colonne "Entrées" du compte principal doivent figurer les quantités
+a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités
 de produits ou de toutes autres matières premières destinées à être mises en
 oeuvre, et leur richesse alcoolique effective ainsi que les excédents reconnus
 par l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif
 des droits d'accises.
 
-b) Dans la colonne "Sorties" du compte principal doivent figurer les quantités
+b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités
 de produits qui ont été mises en oeuvre, produites ou transformées, selon le
 cas, et qui sont des déchets obtenus en cours de production ou de
 transformation.
 
 3° Les comptes de production ou de transformation du compte principal de la
-comptabilité matière doivent contenir chacun une colonne "Entrées" et une
-colonne "Sorties".
+comptabilité matière doivent contenir chacun une colonne " Entrées " et une
+colonne " Sorties ".
 
-a) Dans la colonne "Entrées" des comptes de production ou de transformation
+a) Dans la colonne " Entrées " des comptes de production ou de transformation
 doivent figurer les quantités de produits ou de toutes autres matières premières
 destinées à être mises en oeuvre, et leur richesse alcoolique effective ainsi
 que les excédents reconnus par l'entrepositaire agréé lors de la réception dans
 l'entrepôt fiscal suspensif des droits d'accises.
 
-b) Dans la colonne "Sorties" des comptes de production ou de transformation ou
+b) Dans la colonne " Sorties " des comptes de production ou de transformation ou
 du compte principal des fabricants de vinaigre, doivent figurer les quantités de
 produits qui ont été mises en oeuvre, produites ou transformées, selon le cas,
 et qui sont des déchets obtenus en cours de production ou de transformation.
 
 4° Une fois effectuée la production ou la transformation des produits, les
 quantités réellement obtenues de ces produits sont inscrites simultanément dans
-la colonne "Sorties" du compte de production ou de transformation et dans la
-colonne "Entrées" du compte principal, ou uniquement dans la colonne "Entrées"
-du compte principal, pour les fabricants de bières.
+la colonne " Sorties " du compte de production ou de transformation et dans la
+colonne " Entrées " du compte principal, ou uniquement dans la colonne " Entrées
+" du compte principal, pour les fabricants de bières.
 
 5° Le compte principal doit également contenir les renseignements mentionnés au
 premier alinéa du 1° du IV.
 
-X. - Les documents et les pièces justificatives nécessaires à l'établissement de
+X.-Les documents et les pièces justificatives nécessaires à l'établissement de
 la comptabilité matières et la comptabilité matières elle-même sont conservés
 dans les conditions et selon les modalités fixées à l'article L. 102 B du livre
 des procédures fiscales.
 
-XI. - La validation des documents mentionnés à l'article 302 M du code général
-des impôts pour l'expédition ou l'enlèvement de produits n'est possible que si
+XI.-La validation des documents mentionnés à l'article 302 M du code général des
+impôts pour l'expédition ou l'enlèvement de produits n'est possible que si
 l'entrepositaire agréé respecte les obligations afférentes à la tenue de la
 comptabilité matières telles que prévues par le présent article et les
 obligations mentionnées aux articles 614 et 614 A dudit code.

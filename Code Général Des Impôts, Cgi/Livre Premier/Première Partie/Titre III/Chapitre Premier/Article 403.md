@@ -18,7 +18,7 @@ hectolitre d'alcool pur et un titre alcoométrique acquis égal ou supérieur à
 
 Un décret détermine les modalités d'application du premier alinéa (2).
 
-2° 1 450 euros pour les autres produits.
+2° 1 471,75 euros pour les autres produits.
 
 II. - Le tarif du droit de consommation est relevé au 1er janvier de chaque
 année dans une proportion égale au taux de croissance de l'indice des prix à la

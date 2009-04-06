@@ -60,11 +60,11 @@ En cas de scission ou d'apport partiel d'actif, la créance est transmise au
 prorata du montant de l'actif net réel apporté à la ou aux sociétés
 bénéficiaires des apports apprécié à la date d'effet de l'opération.
 
-Un décret précise les modalités de transfert de la créance.
+(Alinéa disjoint).
 
 III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment
 les obligations déclaratives des entreprises ainsi que les modalités et limites
 dans lesquelles les dispositions du I sont applicables aux sociétés agréées
-visées aux articles 209 quinquies et 209 sexies.
+visées à l'article 209 quinquies.

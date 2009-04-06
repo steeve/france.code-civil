@@ -15,11 +15,11 @@ sociétés.
 
 Pour la détermination de leurs résultats imposables, les bénéficiaires des
 transferts doivent se conformer aux dispositions prévues aux a, b, c et e du 3
-de l'article 210 A du présent code à raison des biens, droits et obligations qui
-leur ont été transmis. Pour l'application de ces dispositions, la société
-absorbée s'entend de l'entité qui possédait les biens, droits et obligations
-avant l'intervention de l'opération, et la société absorbante s'entend de
-l'entité possédant ces mêmes biens, droits et obligations après l'opération.
+de l'article 210 A à raison des biens, droits et obligations qui leur ont été
+transmis. Pour l'application de ces dispositions, la société absorbée s'entend
+de l'entité qui possédait les biens, droits et obligations avant l'intervention
+de l'opération, et la société absorbante s'entend de l'entité possédant ces
+mêmes biens, droits et obligations après l'opération.
 
 Ces dispositions s'appliquent aux transferts de biens réalisés à compter du 1er
 janvier 2007.
@@ -35,11 +35,11 @@ ne donnent lieu à aucune imposition à l'impôt sur les sociétés.
 
 Pour la détermination de leurs résultats imposables, les bénéficiaires des
 transferts doivent se conformer aux dispositions prévues aux a, b, c et e du 3
-de l'article 210 A du présent code à raison des biens, droits et obligations qui
-leur ont été transmis. Pour l'application de ces dispositions, la société
-absorbée s'entend de l'entité qui possédait les biens, droits et obligations
-avant l'intervention de l'opération, et la société absorbante s'entend de
-l'entité possédant ces mêmes biens, droits et obligations après l'opération.
+de l'article 210 A à raison des biens, droits et obligations qui leur ont été
+transmis. Pour l'application de ces dispositions, la société absorbée s'entend
+de l'entité qui possédait les biens, droits et obligations avant l'intervention
+de l'opération, et la société absorbante s'entend de l'entité possédant ces
+mêmes biens, droits et obligations après l'opération.
 
 Ces dispositions s'appliquent aux transferts de biens réalisés à compter du 7
 janvier 2006.

@@ -4,9 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 16,81 euros par mètre carré en zone A,10,98 euros en
-zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er
+a) Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 17,31 euros par mètre carré en zone A, 11,31 euros en
+zone B et 8,19 euros en zone C. Les plafonds sont relevés chaque année, au 1er
 janvier, dans la même proportion que la variation de l'indice de référence des
 loyers publié par l'Institut national de la statistique et des études
 économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau
@@ -27,84 +27,82 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les
 suivants :
 
 
-LIEU DE LOCATION
-
 COMPOSITION DU FOYER LOCATAIRE
 
+LIEU DE LOCATION
 
-ZONE A
+Zone A (en €)
 
-(en euros)
+Zone B (en €)
 
-
-ZONE B
-
-(en euros)
+Zone C (en €)
 
 
-ZONE C
+Personne seule
 
-(en euros)
+43 753
 
-Personne seule.
+33 816
 
-42 396
+29 590
 
-32 767
 
-28 672
+Couple
 
-Couple.
+65 389
 
-63 362
+45 155
 
-43 755
+39 771
 
-38 538
 
-Personne seule ou couple ayant une personne à charge.
+Personne seule ou couple ayant une personne à charge
 
-76 165
+78 602
 
-52 618
+54 302
 
-46 136
+47 612
 
-Personne seule ou couple ayant deux personnes à charge.
 
-91 234
+Personne seule ou couple ayant deux personnes à charge
 
-63 520
+94 153
 
-55 835
+65 553
 
-Personne seule ou couple ayant trois personnes à charge.
+57 622
 
-108 003
 
-74 722
+Personne seule ou couple ayant trois personnes à charge
 
-65 533
+111 459
 
-Personne seule ou couple ayant quatre personnes à charge.
+77 113
 
-121 533
+67 630
 
-84 208
 
-73 922
+Personne seule ou couple ayant quatre personnes à charge
 
-Majoration par personne à charge à partir de la cinquième.
+125 421
 
-+ 13 545
+86 902
 
-+ 9 392
+76 287
 
-+ 8 395
+
+Majoration par personne à charge à partir de la cinquième
+
++ 13 979
+
++ 9 693
+
++ 8 664
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de
 l'évolution annuelle du salaire minimum de croissance. Cette variation est

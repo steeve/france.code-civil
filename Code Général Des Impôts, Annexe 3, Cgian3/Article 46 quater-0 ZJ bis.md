@@ -26,7 +26,8 @@ chaque exercice, selon les modalités précisées au premier alinéa.
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de
 l'article 223 I du code général des impôts est demandé est jointe à l'option et
 figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de
-l'article 223 L concernant l'identité des sociétés membres du nouveau groupe.
+l'article 223 L de ce code concernant l'identité des sociétés membres du nouveau
+groupe.
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des
 impôts :

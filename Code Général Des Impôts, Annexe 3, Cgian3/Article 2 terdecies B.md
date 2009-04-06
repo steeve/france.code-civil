@@ -2,8 +2,8 @@ Article 2 terdecies B
 ----
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer mensuel, charges non comprises, sont
-fixés, pour les baux conclus en 2008, à 21,02 euros par mètre carré en zone
-A,14,61 euros en zone B 1,11,95 euros en zone B 2 et 8,76 euros en zone C. Les
+fixés, pour les baux conclus en 2009, à 21,65 euros par mètre carré en zone A,
+15,05 euros en zone B 1,12,31 euros en zone B 2 et 9,02 euros en zone C. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités
 que les plafonds de loyer prévus à l'article 2 duodecies.
 

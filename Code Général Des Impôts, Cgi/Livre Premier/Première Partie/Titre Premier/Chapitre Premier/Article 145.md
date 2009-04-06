@@ -83,7 +83,8 @@ h. aux bénéfices distribués aux actionnaires :
 
 1° des sociétés d'investissements immobiliers cotées et de leurs filiales visées
 à l'article 208 C et prélevés sur les bénéfices exonérés en application du
-premier alinéa du II et non réintégrés en application du IV de cet article ;
+premier alinéa du II de cet article et non réintégrés en application du IV de ce
+même article ;
 
 2° Des sociétés étrangères ayant une activité identique à celles mentionnées à
 l'article 208 C et qui sont exonérées, dans l'Etat où elles ont leur siège de
@@ -119,8 +120,8 @@ article.
 8. (Transféré sous le paragraphe 6 d ci-dessus).
 
 9. Une participation détenue en application des articles L. 512-10, L. 512-47,
-L. 512-55 et L. 512-94 du code monétaire et financier ou de l'article 3 de la
-loi n° 2006-1615 du 18 décembre 2006 ratifiant l'ordonnance n° 2006-1048 du 25
+L. 512-55 et L. 512-94 du code monétaire et financier ou de l' article 3 de la
+loi n° 2006-1615 du 18 décembre 2006 ratifiant l' ordonnance n° 2006-1048 du 25
 août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour
 l'accession à la propriété qui remplit les conditions ouvrant droit au régime
 fiscal des sociétés mères autres que celle relative au taux de participation au

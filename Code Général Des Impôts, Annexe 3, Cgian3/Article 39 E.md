@@ -1,4 +1,5 @@
 Article 39 E
 ----
-La déclaration reçue par un centre de transfert de données sociales est réputée
-remise, à la date de cette reception, à l'administration fiscale.
+Les déclarations reçues par les centres de transfert de données sociales et par
+la Caisse nationale d'assurance vieillesse des travailleurs salariés sont
+réputées remises, à la date de cette réception, à l'administration fiscale.

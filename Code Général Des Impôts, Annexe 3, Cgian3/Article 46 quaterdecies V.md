@@ -17,6 +17,7 @@ délivré par le directeur des services fiscaux de la collectivité dans laquell
 le programme d'investissement est réalisé.
 
 Tout dossier pour lequel une demande d'agrément a été déposée après la date de
-promulgation de la loi du 21 juillet 2003 susvisée et qui est susceptible de
-faire l'objet d'une décision de retrait d'agrément doit également être transmis
-à la commission pour avis selon les mêmes modalités.
+promulgation de la loi n° 2003-660 du 21 juillet 2003 de programme pour
+l'outre-mer et qui est susceptible de faire l'objet d'une décision de retrait
+d'agrément doit également être transmis à la commission pour avis selon les
+mêmes modalités.

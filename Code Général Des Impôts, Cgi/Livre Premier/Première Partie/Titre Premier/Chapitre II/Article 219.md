@@ -379,8 +379,8 @@ afférentes à l'imposition de résultats d'exercices ouverts avant le 1er janvi
 2001 ont été différées, elles doivent être effectuées au plus tard à la clôture
 du second exercice ouvert à compter de cette date.
 
-Les conditions d'application du f ainsi que les obligations déclaratives qui en
-découlent sont fixées par décret.
+Les conditions d'application du présent f ainsi que les obligations déclaratives
+qui en découlent sont fixées par décret.
 
 II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt
 au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération

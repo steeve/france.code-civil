@@ -105,7 +105,7 @@ cessionnaire s'engage dans l'acte de cession à respecter, au titre des
 plus-values mentionnées au premier alinéa, les prescriptions prévues aux c et d
 du 3 et au 5 de l'article 210 A. Les réintégrations, prescrites au d du 3 de
 l'article 210 A, constituent des éléments du résultat soumis aux obligations de
-distribution mentionnées au deuxième alinéa du II de l'article 208 C.
+distribution mentionnées au deuxième alinéa du II.
 
 II ter.-Lorsque des produits sont distribués ou réputés distribués par une
 société d'investissements immobiliers cotée visée au I à un associé autre qu'une
@@ -165,15 +165,15 @@ immobiliers cotée et ses filiales visées au II doivent réintégrer dans leurs
 résultats fiscaux respectifs une somme correspondant au bénéfice distribuable à
 la clôture de l'exercice de sortie du présent régime, au sens du premier alinéa
 de l'article L. 232-11 du code de commerce, et correspondant à des résultats
-exonérés en vertu du II du présent article. Le montant d'impôt sur les sociétés
-dû est majoré de l'impôt dû au titre, d'une part, du montant de l'imposition de
-la plus-value qui aurait été exigible en application du cinquième alinéa si la
-société n'était pas sortie du présent régime, d'autre part, de l'imposition au
-taux de 25 % de la somme, diminuée d'un dixième par année civile écoulée depuis
-l'entrée dans le présent régime, des plus-values latentes depuis cette date
-relatives aux immeubles, droits réels mentionnés aux premier et sixième alinéas
-du II ou afférents à un contrat de crédit-bail portant sur un immeuble et
-participations dans des personnes mentionnées à l'article 8.
+exonérés en vertu du II. Le montant d'impôt sur les sociétés dû est majoré de
+l'impôt dû au titre, d'une part, du montant de l'imposition de la plus-value qui
+aurait été exigible en application du cinquième alinéa si la société n'était pas
+sortie du présent régime, d'autre part, de l'imposition au taux de 25 % de la
+somme, diminuée d'un dixième par année civile écoulée depuis l'entrée dans le
+présent régime, des plus-values latentes depuis cette date relatives aux
+immeubles, droits réels mentionnés aux premier et sixième alinéas du II ou
+afférents à un contrat de crédit-bail portant sur un immeuble et participations
+dans des personnes mentionnées à l'article 8.
 
 Si la société d'investissements immobiliers cotée ne respecte pas le plafond de
 détention de 60 % prévu au deuxième alinéa du I, elle est imposée à l'impôt sur
@@ -182,16 +182,15 @@ desquels la condition n'est pas respectée.
 
 La plus-value imposable réalisée lors de la cession d'un immeuble est toutefois
 diminuée du montant des amortissements déduits des résultats exonérés en
-application du II. Le premier alinéa du présent IV devient applicable si ce
-plafond de détention n'est pas respecté à l'expiration de l'exercice au cours
-duquel le dépassement a été constaté ou si ce plafond n'est pas respecté plus
-d'une fois pour une cause autre que l'une de celles prévues au troisième alinéa
-du I pendant les dix années suivant l'option ou au cours des dix années
-suivantes. Dans ce cas, la société d'investissements immobiliers cotée sort du
-présent régime, au sens du premier alinéa du présent IV, au titre de l'exercice
-au cours duquel le dépassement a été constaté et le bénéfice distribuable est
-apprécié à la clôture de l'exercice au cours duquel le dépassement a été
-constaté.
+application du II. Le premier alinéa devient applicable si ce plafond de
+détention n'est pas respecté à l'expiration de l'exercice au cours duquel le
+dépassement a été constaté ou si ce plafond n'est pas respecté plus d'une fois
+pour une cause autre que l'une de celles prévues au troisième alinéa du I
+pendant les dix années suivant l'option ou au cours des dix années suivantes.
+Dans ce cas, la société d'investissements immobiliers cotée sort du présent
+régime, au sens du premier alinéa, au titre de l'exercice au cours duquel le
+dépassement a été constaté et le bénéfice distribuable est apprécié à la clôture
+de l'exercice au cours duquel le dépassement a été constaté.
 
 N'est pas constitutive d'une sortie la fusion de deux sociétés d'investissements
 immobiliers cotées dès lors que la société absorbante s'engage, dans l'acte de
@@ -199,16 +198,16 @@ fusion, à se substituer à la société absorbée pour les obligations de
 distribution prévues du deuxième au quatrième alinéas du II.
 
 Par exception au 2 de l'article 221, les plus-values nettes imposables relatives
-aux immeubles, droits réels énumérés au dernier alinéa du II du présent article,
-droits afférents à un contrat de crédit-bail et parts des organismes mentionnés
-au cinquième alinéa du même II inscrits à l'actif des sociétés qui ont opté pour
-le régime prévu audit II et qui remplissent à nouveau la condition du plafond de
-détention de 60 % visé au deuxième alinéa du I du présent article, et de leurs
-filiales au sens du même II sont limitées aux plus-values latentes acquises
-depuis le premier jour de l'exercice au cours duquel ce plafond n'a pas été
-respecté. Les plus-values latentes autres que celles visées à la phrase
-précédente ne font pas l'objet d'une imposition immédiate à la condition
-qu'aucune modification ne soit apportée aux écritures comptables.
+aux immeubles, droits réels énumérés au dernier alinéa du II, droits afférents à
+un contrat de crédit-bail et parts des organismes mentionnés au cinquième alinéa
+du même II inscrits à l'actif des sociétés qui ont opté pour le régime prévu
+audit II et qui remplissent à nouveau la condition du plafond de détention de 60
+% visé au deuxième alinéa du I, et de leurs filiales au sens du même II sont
+limitées aux plus-values latentes acquises depuis le premier jour de l'exercice
+au cours duquel ce plafond n'a pas été respecté. Les plus-values latentes autres
+que celles visées à la phrase précédente ne font pas l'objet d'une imposition
+immédiate à la condition qu'aucune modification ne soit apportée aux écritures
+comptables.
 
 Si au cours d'un exercice le capital d'une société d'investissements immobiliers
 cotée vient à être détenu, directement ou indirectement, à 95 % au moins par une

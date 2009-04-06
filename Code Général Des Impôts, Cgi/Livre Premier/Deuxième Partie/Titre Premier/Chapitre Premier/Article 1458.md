@@ -2,11 +2,11 @@ Article 1458
 ----
 Sont exonérés de la taxe professionnelle :
 
-0 1° Les éditeurs de feuilles périodiques et les sociétés dont ils détiennent
+1° Les éditeurs de feuilles périodiques et les sociétés dont ils détiennent
 majoritairement le capital et auxquelles ils confient l'exécution d'opérations
 de groupage et de distribution ;
 
-1° Les sociétés dont le capital est détenu majoritairement par des sociétés
+1° bis Les sociétés dont le capital est détenu majoritairement par des sociétés
 coopératives de messageries de presse qui leur confient l'exécution d'opérations
 de groupage et de distribution en application de l'article 4 de la loi n° 47-585
 du 2 avril 1947 relative au statut des entreprises de groupage et de

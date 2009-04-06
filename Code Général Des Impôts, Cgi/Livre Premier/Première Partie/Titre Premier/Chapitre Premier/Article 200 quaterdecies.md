@@ -8,11 +8,11 @@ le revenu au titre des intérêts des prêts contractés auprès d'un établisse
 financier à raison de cette opération, tels que définis à l'article L. 312-2 du
 code de la consommation.
 
-Le premier alinéa du présent I s'applique également aux contribuables qui font
-construire un logement destiné à être affecté, dès son achèvement, à leur
-habitation principale. Dans cette situation, les prêts mentionnés au premier
-alinéa s'entendent de ceux qui sont contractés en vue de financer l'acquisition
-du terrain et les dépenses de construction.
+Le premier alinéa s'applique également aux contribuables qui font construire un
+logement destiné à être affecté, dès son achèvement, à leur habitation
+principale. Dans cette situation, les prêts mentionnés au premier alinéa
+s'entendent de ceux qui sont contractés en vue de financer l'acquisition du
+terrain et les dépenses de construction.
 
 Le logement doit, au jour de l'affectation à usage d'habitation principale du
 bénéficiaire du crédit d'impôt, satisfaire aux normes minimales de surface et

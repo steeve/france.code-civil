@@ -9,8 +9,8 @@ Chaque versement est accompagné du dépôt d'une déclaration établie sur une
 formule délivrée par l'administration.
 
 II.-Pour l'application du III de l'article 117 quater du code général des
-impôts, la déclaration mentionnée au dernier alinéa du 1 du III est souscrite
-sur un formulaire normalisé. Elle comporte :
+impôts, la déclaration mentionnée au dernier alinéa du 1 de ce même III est
+souscrite sur un formulaire normalisé. Elle comporte :
 
 a) Le montant des revenus distribués pour lesquels l'option est exercée ;
 

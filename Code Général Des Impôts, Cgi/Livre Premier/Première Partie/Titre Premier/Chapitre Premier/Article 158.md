@@ -94,8 +94,8 @@ L'application de ces dispositions est conditionnée à la ventilation par les
 organismes ou sociétés en cause de leurs distributions ou répartitions en
 fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables
-célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés
+5° Il est opéré un abattement annuel de 1 525 euros pour les contribuables
+célibataires, divorcés ou veufs et de 3 050 euros pour les contribuables mariés
 soumis à une imposition commune sur le montant net des revenus déterminé dans
 les conditions du 2° et après déduction des dépenses effectuées en vue de leur
 acquisition ou conservation.
@@ -130,15 +130,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et
+excéder 3 592 euros. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 367 euros, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 367 euros est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 

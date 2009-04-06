@@ -56,9 +56,9 @@ promulgation de la loi n° 2005-157 du 23 février 2005 relative au développeme
 des territoires ruraux, restent classées en zone de revitalisation rurale
 jusqu'au 31 décembre 2008.
 
-Les dispositions des cinquième, sixième, septième et dixième alinéas de
-l'article 1465 sont applicables aux exonérations prévues au premier alinéa du I.
-Toutefois, pour l'application du dixième alinéa de l'article 1465, l'imposition
+Les dispositions des sixième, septième, huitième et onzième alinéas de l'article
+1465 sont applicables aux exonérations prévues au premier alinéa du I.
+Toutefois, pour l'application du onzième alinéa de l'article 1465, l'imposition
 est établie au profit de l'Etat.
 
 III.-Un décret en Conseil d'Etat précise les conditions d'application du II et
