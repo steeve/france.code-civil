@@ -8,16 +8,14 @@ location-accession régi par la loi n° 84-595 du 12 juillet 1984 définissant l
 location-accession à la propriété et destinés à être occupés à titre de
 résidence principale par des personnes dont les revenus, à la date de signature
 du contrat préliminaire ou, à défaut, du contrat de location-accession, sont
-inférieurs à des plafonds de ressources définis par arrêté conjoint du ministre
-chargé de l'économie, du ministre chargé du budget et du ministre chargé du
-logement.
+inférieurs aux plafonds de ressources fixés à l'article R. 318-29.
 
 Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de
 refinancement conclue sous l'égide de l'Etat entre les établissements de crédits
 distributeurs et la Caisse des dépôts et consignations.
 
-L'accédant ne peut bénéficier, pour un même logement, des dispositions du
-présent article et de celles des articles R. 318-1 à R. 318-23.
+L'accédant peut, au moment de la levée d'option, bénéficier des dispositions du
+présent article et de celles des articles R. 318-1 et suivants.
 
 II.-Pour obtenir la décision d'agrément, le vendeur conclut avec l'Etat une
 convention qui prévoit le respect des conditions suivantes :
@@ -29,8 +27,8 @@ annuelle de l'indice de référence des loyers, à partir du dernier indice publ
 à la date de signature du contrat ;
 
 -le prix de vente du logement n'excède pas un plafond fixé par arrêté ; ce prix
-de vente, non révisable, est minoré, à chaque date anniversaire du contrat, d'un
-pourcentage défini par arrêté ;
+de vente, non révisable, est minoré, à chaque date anniversaire de l'entrée dans
+les lieux, d'un pourcentage défini par arrêté ;
 
 -le vendeur dispose de l'engagement d'un établissement de crédit de proposer à
 l'accédant un ou plusieurs prêts conventionnés qui permettent de financer le
