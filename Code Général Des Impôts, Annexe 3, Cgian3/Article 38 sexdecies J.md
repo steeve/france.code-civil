@@ -1,8 +1,9 @@
 Article 38 sexdecies J
 ----
-I.-Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un
-compte ouvert auprès d'un établissement de crédit conformément aux dispositions
-du I de l'article 72 D bis du code général des impôts sont les suivants :
+I.-Les aléas non assurés reconnus par une autorité administrative compétente
+dont la survenance autorise l'emploi des sommes déposées sur un compte ouvert
+auprès d'un établissement de crédit conformément aux dispositions du I de
+l'article 72 D bis du code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation :
 
@@ -27,49 +28,38 @@ végétales de l'exploitant de mesures de police administrative prévues aux
 articles L. 234-4, L. 251-2 et L. 251-9 du code rural ;
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de
-mesures de police sanitaire prévues par l'article D. 236-14 du code rural ou de
-mesures sanitaires prévues par l'article D. 231-39 du même code ;
-
-3° Aléas familiaux :
-
-a) Divorce ou invalidité correspondant au classement dans la deuxième ou la
-troisième des catégories prévues à l'article L. 341-4 du code de la sécurité
-sociale de l'exploitant ou de son conjoint travaillant sur l'exploitation ;
-
-b) Invalidité correspondant au classement dans la deuxième ou la troisième des
-catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou décès
-des autres membres de la famille de l'exploitant travaillant sur l'exploitation
-;
-
-4° Aléas économiques :
-
-a) Reconversion d'activité par suite d'un changement très important de
-production ;
-
-b) Résiliation ou non-renouvellement du bail de l'exploitant dans les
-circonstances prévues aux articles L. 411-30 à L. 411-34 et L. 411-58 du code
-rural ;
-
-c) Expropriation pour cause d'utilité publique ou cession amiable antérieure à
-la déclaration d'utilité publique lorsque le bien cédé est inclus dans
-l'expropriation par une ordonnance de donné acte ;
+mesures de police sanitaire prévues par l'arrêté du 4 novembre 2008 relatif aux
+conditions de police sanitaire applicables aux animaux et aux produits
+d'aquaculture et relatif à la prévention de certaines maladies chez les animaux
+aquatiques et aux mesures de lutte contre ces maladies ou de mesures sanitaires
+prises en application de l'article R. 231-39 du code rural ;
 
 d) Suspension, retrait ou modification de l'autorisation d'exploitation de
-cultures marines pour motif d'utilité publique ou pour motif d'insalubrité non
-imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines,
-en application de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
+cultures marines pour motif d'insalubrité non imputable au bénéficiaire de
+l'autorisation d'exploitation de cultures marines, en application de l'article
+15 du décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des
+exploitations de cultures marines.
 
-e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de
-l'année précédente ;
+II.-(Paragraphe abrogé)
 
-5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation,
-qui a entraîné une indemnisation par une police d'assurance de dommages aux
-biens ou pour perte d'exploitation souscrite par l'exploitant.
+III. Pour l'application de l'article 72 D bis du code général des impôts, les
+exploitants agricoles doivent souscrire :
 
-II.-Peut également autoriser l'emploi des sommes déposées sur un compte ouvert
-auprès d'un établissement de crédit conformément aux dispositions de l'article
-72 D bis du code général des impôts tout autre aléa d'origine naturelle,
-climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux
-prévus au I, sous réserve qu'il soit suivi d'une baisse du résultat excédant 10
-% de la moyenne des résultats des trois exercices précédents. Pour le calcul de
-cette moyenne, il n'est pas tenu compte des reports déficitaires.
+1° Pour la totalité de leur exploitation, une assurance contre l'incendie ;
+
+2° Le cas échéant, une assurance contre l'ensemble des risques assurables à
+l'ouverture de l'exercice, définis à l'article D. 361-33 du code rural, dont une
+fraction des primes ou cotisations est prise en charge par le Fonds national de
+garantie des calamités agricoles en application de l'article L. 361-8 du même
+code et dont les garanties sont fixées en fonction des normes de production
+habituellement admises dans la région considérée ;
+
+3° Et, selon le cas :
+
+a) Pour leurs cultures, autres que celles assurées en application du 2°, une
+assurance contre la grêle ou, au choix de l'exploitant, tout autre dommage,
+hormis celui mentionné au 1° ;
+
+b) Pour leurs cheptels, une assurance contre les risques définis par arrêté des
+ministres chargés de l'économie et de l'agriculture en tenant compte, notamment,
+du degré suffisant des offres d'assurances existantes.
