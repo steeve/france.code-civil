@@ -1,8 +1,7 @@
 Article D723-219
 ----
-Après validation par l'agent comptable de la Caisse centrale de la mutualité
-sociale agricole et au vu de ses conclusions, les comptes annuels sont arrêtés
-par le conseil d'administration de la caisse et transmis avant le 15 avril qui
-suit la fin de l'exercice au directeur du travail, chef du service régional de
-l'inspection du travail, de l'emploi et de la politique sociale agricole, qui
-les communique au ministre chargé de l'agriculture.
+Les comptes annuels et le rapport de validation de l'agent comptable national
+sont transmis respectivement avant le 15 avril et le 1er juin qui suivent la fin
+de l'exercice au chef du service régional de l'inspection du travail, de
+l'emploi et de la politique sociale agricoles, qui les communique au ministre
+chargé de l'agriculture.

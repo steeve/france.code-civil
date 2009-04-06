@@ -23,12 +23,12 @@ Ce Haut Conseil est composé des membres suivants :
 
 5° Le directeur du budget ou son représentant ;
 
-6° Le directeur général de la comptabilité publique ou son représentant ;
+6° Le directeur général des finances publiques ou son représentant ;
 
 7° Le directeur des exploitations, de la politique sociale et de l'emploi ou son
 représentant ;
 
-8° Un représentant du contrôle d'Etat ;
+8° Un représentant du contrôle général, économique et financier ;
 
 9° Un membre de l'inspection générale des affaires sociales ;
 
