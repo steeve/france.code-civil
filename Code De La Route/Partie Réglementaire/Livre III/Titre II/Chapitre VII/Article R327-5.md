@@ -1,10 +1,15 @@
 Article R327-5
 ----
-Les dispositions de la présente section ne sont applicables qu'aux véhicules
-dont le poids total autorisé en charge n'excède pas 3,5 tonnes, à l'exclusion
-des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules
-militaires.
+Est puni de l'amende prévue pour les contraventions de la quatrième classe :
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre de la
-défense et du ministre de l'intérieur, fixe les modalités d'application des
-dispositions de la présente section.
+1° Le fait pour tout propriétaire de maintenir en circulation un véhicule dont
+le certificat d'immatriculation a été retiré ou qui a fait l'objet d'une
+interdiction de circuler ;
+
+2° Le fait pour l'assureur qui propose une indemnisation à l'assuré avec cession
+du véhicule de ne pas déclarer cet achat au ministre de l'intérieur conformément
+aux dispositions prévues par l'article R. 327-1 ;
+
+3° Le fait pour un professionnel ayant acquis un véhicule endommagé de ne pas
+déclarer cet achat au ministre de l'intérieur conformément aux dispositions
+prévues par l'article R. 327-4.

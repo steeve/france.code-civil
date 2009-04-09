@@ -1,7 +1,7 @@
 Article R327-4
 ----
-Le retrait conservatoire du certificat d'immatriculation ne fait pas obstacle au
-transfert de propriété du véhicule ; dans ce cas, les règles édictées aux
-articles précédents pour sa mise en circulation s'appliquent au nouveau
-propriétaire et conditionnent la délivrance à ce dernier d'un nouveau certificat
-d'immatriculation.
+Dans le cadre des dispositions des articles L. 327-1 à L. 327-5, un
+professionnel ayant acquis un véhicule endommagé doit, dans les quinze jours,
+adresser une déclaration d'achat au ministre de l'intérieur soit par
+l'intermédiaire du préfet du département de son choix, soit par voie
+électronique s'il est habilité par le ministre de l'intérieur.

@@ -1,8 +1,8 @@
 Article L327-2
 ----
 En cas d'accord du propriétaire de céder le véhicule à l'assureur, celui-ci
-transmet le certificat d'immatriculation du véhicule au représentant de l'Etat
-dans le département du lieu d'immatriculation.
+transmet le certificat d'immatriculation du véhicule à l'autorité administrative
+compétente.
 
 L'assureur doit vendre le véhicule à un acheteur professionnel pour destruction,
 réparation ou récupération des pièces en vue de leur revente ou reconstruction.

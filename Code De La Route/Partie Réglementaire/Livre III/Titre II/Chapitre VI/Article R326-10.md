@@ -8,17 +8,22 @@ accompagnée des pièces justificatives suivantes :
 
 2° La copie, suivant le cas :
 
-- soit du brevet professionnel d'expert en automobile ou de la reconnaissance de
+-soit du brevet professionnel d'expert en automobile ou de la reconnaissance de
 la qualité d'expert en automobile prévus par le décret n° 74-472 du 17 mai 1974
 relatif aux experts en automobile, ou du diplôme d'expert en automobile prévu
 par le décret n° 95-493 du 25 avril 1995 portant création et règlement général
 du diplôme d'expert en automobile, ou du relevé de notes du diplôme d'expert en
 automobile délivré par le recteur d'académie ;
 
-- soit d'un titre délivré par un Etat membre de l'Union européenne ou un autre
-Etat partie à l'accord sur l'Espace économique européen reconnu équivalent aux
-titres mentionnés à l'alinéa précédent dans les conditions fixées par un arrêté
-du ministre chargé des transports (1) ;
+-soit d'un titre délivré par un autre Etat membre de la Communauté européenne ou
+un autre Etat partie à l'accord sur l'Espace économique européen ou d'un titre
+reconnu par l'un de ces Etats, équivalents aux titres mentionnés à l'alinéa
+précédent ;
+
+-soit de toute pièce de nature à établir l'expérience professionnelle acquise
+par l'intéressé en matière d'expertise automobile dans l'un des Etats mentionnés
+à l'alinéa précédent dans les conditions fixées par arrêté du ministre chargé
+des transports ;
 
 3° Une déclaration sur l'honneur du demandeur attestant qu'il ne détient pas de
 charge d'officier public ou ministériel et n'exerce pas une activité
@@ -41,5 +46,6 @@ rendu en application de l'article L. 326-9 lui interdisant d'exercer l'activité
 d'expert en automobile ;
 
 6° La copie de l'attestation justifiant que le demandeur a suivi la formation
-prévue à l'article R. 326-17 lorsqu'il sollicite la reconnaissance de sa
-qualification pour le contrôle des véhicules gravement accidentés (1).
+dans les conditions prévues à l'article R. 326-17 lorsqu'il sollicite la
+reconnaissance de sa qualification pour le contrôle des véhicules endommagés
+prévue par les articles L. 327-1 à L. 327-6.
