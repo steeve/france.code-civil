@@ -14,7 +14,7 @@ offre de logement tenant compte de leurs besoins et de leurs capacités ;
 2° Les requêtes introduites par les demandeurs reconnus par la commission de
 médiation comme prioritaires pour un accueil dans une structure d'hébergement,
 un établissement ou logement de transition, un logement-foyer ou une résidence
-hôtelière à vocation sociale, en application des dispositions du III de
+hôtelière à vocation sociale, en application des dispositions du III ou du IV de
 l'article L. 441-2-3 du code de la construction et de l'habitation, et qui n'ont
 pas, passé le délai mentionné à l'article R. 441-18 du même code, été accueillis
 dans l'une de ces structures, logements ou établissements ;
