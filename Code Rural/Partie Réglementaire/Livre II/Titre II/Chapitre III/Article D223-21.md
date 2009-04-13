@@ -334,7 +334,7 @@ Pullorose-typhose.
 
 Salmonella Gallinarum Pullorum.
 
-Toutes espèces d'oiseaux sauvages.
+Toutes les espèces d'oiseaux d'élevage.
 
 Rage.
 
