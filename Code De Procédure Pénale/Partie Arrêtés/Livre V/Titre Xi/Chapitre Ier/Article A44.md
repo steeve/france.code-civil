@@ -808,7 +808,8 @@ Antenne de Nancy.
 
 Circonscription judiciaire de Nancy.
 
-Maison d'arrêt de Nancy.
+
+Centre pénitentiaire de Nancy-Maxéville
 
 Centre de semi-liberté de Maxéville.
 

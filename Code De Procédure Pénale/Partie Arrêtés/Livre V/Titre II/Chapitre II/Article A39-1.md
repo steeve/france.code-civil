@@ -86,6 +86,9 @@ Centre de détention de Montmédy (Meuse).
 
 Centre de détention de Muret (Haute-Garonne).
 
+Quartier centre de détention du centre pénitentiaire de Nancy-Maxéville
+(Meurthe-et-Moselle) ;
+
 Quartier centre de détention du centre pénitentiaire de Nantes
 (Loire-Atlantique).
 
