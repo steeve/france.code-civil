@@ -1,8 +1,9 @@
 Article D335
 ----
 Les objets dont les détenus sont porteurs à leur entrée dans un établissement
-pénitentiaire sont pris en charge par le comptable ou son préposé, sous réserve
-de ceux qui peuvent être laissés en la possession des intéressés.
+pénitentiaire sont pris en charge par le régisseur chargé de la gestion des
+comptes nominatifs, sous réserve de ceux qui peuvent être laissés en la
+possession des intéressés.
 
 Ils sont alors, après inventaire, inscrits sur un registre spécial, au compte de
 l'intéressé pour lui être restitués à sa sortie.

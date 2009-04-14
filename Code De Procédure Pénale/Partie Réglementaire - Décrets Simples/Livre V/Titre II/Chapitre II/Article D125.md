@@ -1,8 +1,9 @@
 Article D125
 ----
-Les détenus qui, bénéficiant d'une des autorisations prévues aux articles 723 et
-723-3, n'ont pas regagné l'établissement pénitentiaire dans les délais fixés,
-doivent être considérés comme se trouvant en état d'évasion.
+Les détenus qui, bénéficiant d'une des autorisations prévues aux articles 723,
+723-3 et 723-7, n'ont pas regagné l'établissement pénitentiaire ou le lieu
+d'assignation désigné par le juge de l'application des peines dans les délais
+fixés, doivent être considérés comme se trouvant en état d'évasion.
 
 Les diligences prévues aux articles D. 280 et D. 283 doivent en conséquence être
 effectuées, et les intéressés, de même que ceux qui auraient tenté de se

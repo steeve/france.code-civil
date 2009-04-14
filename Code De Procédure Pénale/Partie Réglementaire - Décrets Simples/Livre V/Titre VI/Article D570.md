@@ -1,7 +1,5 @@
 Article D570
 ----
 Les personnes détenues en vertu d'une décision de contrainte judiciaire sont
-soumises au même régime que les condamnés.
-
-Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, les
-conditions de délai fixées aux articles D. 128 à D. 145 ne sont pas applicables.
+soumises au même régime que les condamnés sous réserve des dispositions des
+articles D. 115-5 et D. 116-1.
