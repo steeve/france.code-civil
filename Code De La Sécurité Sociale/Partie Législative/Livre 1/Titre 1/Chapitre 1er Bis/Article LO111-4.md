@@ -1,6 +1,6 @@
 Article LO111-4
 ----
-I. - Le projet de loi de financement de la sécurité sociale de l'année est
+I.-Le projet de loi de financement de la sécurité sociale de l'année est
 accompagné d'un rapport décrivant les prévisions de recettes et les objectifs de
 dépenses par branche des régimes obligatoires de base et du régime général, les
 prévisions de recettes et de dépenses des organismes concourant au financement
@@ -11,14 +11,14 @@ solde de l'ensemble des administrations publiques présentées dans le rapport
 joint au projet de loi de finances de l'année en application de l'article 50 de
 la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
 
-II. - Le projet de loi de financement de la sécurité sociale de l'année est
+II.-Le projet de loi de financement de la sécurité sociale de l'année est
 accompagné d'un rapport décrivant les mesures prévues pour l'affectation des
 excédents ou la couverture des déficits constatés à l'occasion de l'approbation
 des tableaux d'équilibre relatifs au dernier exercice clos dans la partie de la
 loi de financement de l'année comprenant les dispositions relatives au dernier
 exercice clos.
 
-III. - Sont jointes au projet de loi de financement de la sécurité sociale de
+III.-Sont jointes au projet de loi de financement de la sécurité sociale de
 l'année des annexes :
 
 1° Présentant, pour les années à venir, les programmes de qualité et
@@ -114,14 +114,19 @@ projet de loi de financement ainsi que des mesures réglementaires ou
 conventionnelles prises en compte par ce projet sur les comptes des régimes de
 base et de manière spécifique sur ceux du régime général, ainsi que sur
 l'objectif national de dépenses d'assurance maladie, au titre de l'année à venir
-et, le cas échéant, des années ultérieures.
+et, le cas échéant, des années ultérieures ;
 
-IV. - Tous les trois ans, le Gouvernement adresse au Parlement, en même temps
-que le projet de loi de financement de l'année, un document présentant la liste
-des régimes obligatoires de base de sécurité sociale et précisant le nombre de
-leurs cotisants actifs et retraités titulaires de droits propres.
+10° Comportant, pour les dispositions relevant du V de l'article LO 111-3, les
+documents visés aux dix derniers alinéas de l'article 8 de la loi organique n°
+2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44
+de la Constitution.
 
-V. - Sont également transmis au Parlement :
+IV.-Tous les trois ans, le Gouvernement adresse au Parlement, en même temps que
+le projet de loi de financement de l'année, un document présentant la liste des
+régimes obligatoires de base de sécurité sociale et précisant le nombre de leurs
+cotisants actifs et retraités titulaires de droits propres.
+
+V.-Sont également transmis au Parlement :
 
 1° Le rapport de la Cour des comptes prévu à l'article LO 132-3 du code des
 juridictions financières ;
