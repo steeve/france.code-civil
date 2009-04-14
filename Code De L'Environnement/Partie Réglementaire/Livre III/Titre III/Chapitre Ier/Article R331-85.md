@@ -7,8 +7,10 @@ décrets suivants :
 
 2° Décret n° 63-1235 du 14 décembre 1963 créant le parc national de Port-Cros ;
 
-3° Décret n° 67-265 du 23 mars 1967 créant le parc national des Pyrénées
-occidentales ;
+3° Décret n° 2009-406 du 15 avril 2009 pris pour l'adaptation de la délimitation
+et de la réglementation du parc national des Pyrénées occidentales aux
+dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril
+2006 ;
 
 4° Décret n° 70-777 du 2 septembre 1970 créant le parc national des Cévennes ;
 
