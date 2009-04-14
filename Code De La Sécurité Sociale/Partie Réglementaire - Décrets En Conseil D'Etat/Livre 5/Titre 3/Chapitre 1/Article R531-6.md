@@ -1,17 +1,18 @@
 Article R531-6
 ----
 Les dispositions du dernier alinéa du I de l'article L. 531-5 sont applicables
-aux personnes bénéficiaires d'une des allocations mentionnées à l'article L.
-524-1 du présent code et à l'article L. 262-1 du code de l'action sociale et des
-familles qui :
+aux personnes bénéficiaires du revenu de solidarité active dès lors que les
+ressources du foyer sont inférieures au montant forfaitaire applicable mentionné
+au 2° de l'article L. 262-2 ou à l'article L. 262-9 du code de l'action sociale
+et des familles et qui :
 
 1° Sont titulaires d'un contrat de travail ;
 
-2° Sont titulaires d'un contrat d'insertion mentionné à l'article L. 262-37 du
-code de l'action sociale et des familles ;
+2° Sont titulaires de l'un des contrats mentionnés aux articles L. 262-35 ou L.
+262-36 du code de l'action sociale et des familles ou du projet personnalisé
+d'accès à l'emploi mentionné à l'article L. 5411-6-1 du code du travail ;
 
-3° Sont inscrites comme demandeur d'emploi auprès de l' institution mentionnée à
-l'article L. 5312-1 du code du travail ;
+3° Sont inscrites comme demandeur d'emploi auprès de Pôle emploi ;
 
 4° Suivent une formation professionnelle prévue au livre IX du code du travail.
 

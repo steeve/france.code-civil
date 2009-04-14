@@ -26,9 +26,9 @@ périodes de retour au foyer, lorsqu'ils ne sont pas payés mensuellement, de la
 prime à la naissance ou à l'adoption et du complément de libre choix du mode de
 garde de la prestation d'accueil du jeune enfant ; sont également exclus les
 versements d'allocation aux adultes handicapés et de son complément ainsi que
-ceux du revenu minimum d'insertion, lorsqu'ils sont liés aux périodes de congé
-ou de suspension de prise en charge mentionnées respectivement aux articles R.
-821-8, R. 821-13, R. 821-14 et à l'article R. 262-45 du code de l'action sociale
+ceux du revenu de solidarité active, lorsqu'ils sont liés aux périodes congés ou
+de suspension de prise en charge mentionnées respectivement aux articles R.
+821-8, R. 824-13, R. 821-14 et à l'article L. 262-19 du code de l'action sociale
 et des familles.
 
 Les prestations mentionnées au b ci-dessus sont constituées des prestations dues

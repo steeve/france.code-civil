@@ -1,18 +1,17 @@
 Article R114-11
 ----
-Lorsqu'il envisage de faire application de l'article L. 114-17 ou de l'article
-L. 524-7, le directeur de l'organisme le notifie à l'intéressé en précisant les
-faits reprochés et le montant de la pénalité encourue et en lui indiquant qu'il
-dispose d'un délai d'un mois à compter de la réception de la notification pour
-demander à être entendu, s'il le souhaite, ou pour présenter des observations
-écrites.
+Lorsqu'il envisage de faire application de l'article L. 114-17, le directeur de
+l'organisme le notifie à l'intéressé en précisant les faits reprochés et le
+montant de la pénalité encourue et en lui indiquant qu'il dispose d'un délai
+d'un mois à compter de la réception de la notification pour demander à être
+entendu, s'il le souhaite, ou pour présenter des observations écrites.
 
 Si, après réception des observations écrites ou après audition de la personne
 dans les locaux de l'organisme ou à l'issue du délai d'un mois à compter de la
 notification restée sans réponse, le directeur décide de poursuivre la
-procédure, il saisit la commission mentionnée à l'article L. 114-17 et à
-l'article L. 524-7 et lui communique, le cas échéant, les observations écrites
-de la personne en cause ou le procès-verbal de l'audition.
+procédure, il saisit la commission mentionnée à l'article L. 114-17 et lui
+communique, le cas échéant, les observations écrites de la personne en cause ou
+le procès-verbal de l'audition.
 
 La commission désigne un rapporteur en son sein. Après que le directeur de
 l'organisme ou son représentant a présenté ses observations, et après avoir
@@ -29,7 +28,7 @@ prononcée au terme du délai qui lui est imparti, l'avis est réputé rendu.
 Le directeur dispose d'un délai de trois semaines à compter de la réception de
 l'avis de la commission ou de la date à laquelle celui-ci est réputé avoir été
 rendu pour fixer le montant définitif de la pénalité et le notifier à la
-personne en cause ou pour l'aviser que la procédure est abandonnée. A défaut, la
+personne en cause ou pour l'aviser que la procédure est abandonnée.A défaut, la
 procédure est réputée abandonnée.
 
 Lors des auditions mentionnées au présent article, la personne en cause peut se

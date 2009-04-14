@@ -1,9 +1,10 @@
 Article D412-86
 ----
-Les actions d'insertion professionnelle ou les activités d'intérêt collectif
-organisées par des personnes morales de droit public ou de droit privé envers
-les bénéficiaires du revenu minimum d'insertion et les membres de leur foyer
-pour l'exécution de l'engagement visé à l'article L. 262-1 du code de l'action
+Les actions d'insertion professionnelle organisées en faveur des bénéficiaires
+du revenu de solidarité active dont les ressources n'excèdent pas le montant
+forfaitaire prévu au 2° de l'article L. 262-2 ou à l'article L. 262-9 du code de
+l'action sociale et des familles ainsi que des membres de leur foyer pour
+l'exécution de l'engagement prévu à l'article L. 262-36 du code de l'action
 sociale et des familles ouvrent droit pour les intéressés à la protection prévue
 à l'article L. 412-8 (10°) lorsque, pour leur participation à ces mêmes actions,
 ils ne bénéficient pas à un autre titre d'une protection contre les accidents du
