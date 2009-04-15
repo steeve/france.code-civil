@@ -19,8 +19,8 @@ pas reçu, dans un délai maximum de vingt-quatre mois à compter de leur fixati
 au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la
 production d'un disque numérique polyvalent musical, l'agrément à titre
 définitif délivré par le ministre chargé de la culture attestant que les
-conditions visées au 1 du II de l'article 220 octies ont été respectées fait
-l'objet d'un reversement.
+conditions visées au II de l'article 220 octies ont été respectées fait l'objet
+d'un reversement.
 
 L'agrément à titre définitif est délivré par le ministre chargé de la culture
 après avis d'un comité d'experts dont les modalités de fonctionnement sont
