@@ -11,3 +11,7 @@ L'isolement acoustique requis dépend notamment du classement de l'infrastructur
 de transports terrestres, de la nature et de la hauteur du bâtiment, de la
 distance du bâtiment par rapport à l'infrastructure et, le cas échéant, de
 l'occupation du sol entre le bâtiment et l'infrastructure.
+
+Dans les départements d'outre-mer, l'isolement requis ne concerne pas les
+infrastructures de transport terrestre classées dans les deux dernières
+catégories définies en application de l'article R. 571-34.
