@@ -3,14 +3,20 @@ Article 83
 Le montant net du revenu imposable est déterminé en déduisant du montant brut
 des sommes payées et des avantages en argent ou en nature accordés :
 
-1° Les cotisations de sécurité sociale, y compris les cotisations d'assurance
-vieillesse versées en exercice des facultés de rachat prévues aux articles L.
-351-14-1 du code de la sécurité sociale et L. 9 bis du code des pensions civiles
-et militaires de retraite, les cotisations versées aux régimes de retraite
-complémentaire mentionnés au chapitre Ier du titre II du livre IX du code de la
-sécurité sociale, ainsi que les cotisations au régime public de retraite
-additionnel obligatoire institué par l'article 76 de la loi n° 2003-775 du 21
-août 2003 portant réforme des retraites ;
+1° Les cotisations de sécurité sociale, y compris :
+
+a) Les cotisations d'assurance vieillesse versées en exercice des facultés de
+rachat prévues aux articles L. 351-14-1 du code de la sécurité sociale, L. 9 bis
+du code des pensions civiles et militaires de retraite, ainsi que celles prévues
+par des dispositions réglementaires ayant le même objet prises sur le fondement
+de l'article L. 711-1 du code de la sécurité sociale ;
+
+b) Les cotisations versées aux régimes de retraite complémentaire mentionnés au
+chapitre Ier du titre II du livre IX du code de la sécurité sociale ;
+
+c) Les cotisations au régime public de retraite additionnel obligatoire institué
+par l'article 76 de la loi n° 2003-775 du 21 août 2003 portant réforme des
+retraites ;
 
 1° 0 bis Les cotisations versées conformément aux dispositions du règlement CEE
 n° 1408 / 71 du Conseil du 14 juin 1971 relatif à l'application des régimes de

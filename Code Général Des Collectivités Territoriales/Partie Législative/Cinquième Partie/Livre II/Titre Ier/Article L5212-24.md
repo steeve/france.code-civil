@@ -11,6 +11,16 @@ taxe peut être perçue par le syndicat ou le département en lieu et place de l
 commune si elle est établie par délibérations concordantes du syndicat ou du
 département, s'il exerce cette compétence, et de la commune.
 
+Afin de financer la réalisation ou le fonctionnement d'un équipement, des fonds
+de concours peuvent être versés entre le syndicat d'électricité et les communes
+ou les établissements publics de coopération intercommunale membres après
+accords concordants exprimés à la majorité simple du comité syndical et des
+conseils municipaux ou des organes délibérants des établissements publics de
+coopération intercommunale concernés.
+
+Le montant total des fonds de concours ne peut excéder la part du financement
+assurée, hors subventions, par le bénéficiaire du fonds de concours.
+
 Lorsque le taux de la taxe est uniforme sur le territoire du syndicat ou du
 département, le gestionnaire du réseau de distribution ou le fournisseur la
 recouvrent sans frais.

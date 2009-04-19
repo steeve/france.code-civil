@@ -19,6 +19,16 @@ au sein de ce même établissement, par dérogation à l'article 3 de la loi n°
 qu'à l'article 67 de la loi n° 84-53 du 26 janvier 1984 portant dispositions
 statutaires relatives à la fonction publique territoriale.
 
+Jusqu'au 31 décembre 2012, les dispositions de l'article 71 de la loi n°
+2003-775 du 21 août 2003 portant réforme des retraites s'appliquent aux
+fonctionnaires qui, à la date de publication de l'ordonnance n° 2007-137 du 1er
+février 2007 relative aux offices publics de l'habitat, étaient placés en
+position de détachement sur l'emploi fonctionnel de directeur dans un office
+public d'habitations à loyer modéré transformé en office public de l'habitat.
+Dans ce cas, l'assiette retenue pour le calcul de la cotisation correspond au
+traitement indiciaire détenu au moment du changement de statut des organismes,
+revalorisé en fonction de l'évolution du point fonction publique.
+
 Jusqu'au 1er juillet 2009, les dispositions de la section 1 du chapitre Ier du
 titre II du livre IV du code de la construction et de l'habitation (partie
 réglementaire) relatives aux directeurs généraux des offices publics

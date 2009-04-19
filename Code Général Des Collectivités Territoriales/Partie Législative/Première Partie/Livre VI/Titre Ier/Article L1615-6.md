@@ -23,7 +23,7 @@ respectivement aux articles L. 5214-1 et L. 5216-1, les dépenses réelles
 d'investissement à prendre en considération sont celles afférentes à l'exercice
 en cours.
 
-Pour les bénéficiaires du fonds qui s'engagent, avant le 15 avril 2009 et, après
+Pour les bénéficiaires du fonds qui s'engagent, avant le 15 mai 2009 et, après
 autorisation de leur assemblée délibérante, par convention avec le représentant
 de l'Etat dans le département, sur une progression de leurs dépenses réelles
 d'équipement en 2009 par rapport à la moyenne de leurs dépenses réelles
