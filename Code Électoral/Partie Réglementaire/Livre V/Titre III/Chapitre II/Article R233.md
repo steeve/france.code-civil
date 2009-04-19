@@ -1,10 +1,10 @@
 Article R233
 ----
 L'état des listes de candidats dont la déclaration a été définitivement
-enregistrée est arrêté, dans l'ordre du dépôt des listes pour chaque province,
-par le haut-commissaire et publié au Journal officiel de la Nouvelle-Calédonie
-au plus tard le troisième samedi précédant la date du scrutin. Il est notifié
-aux maires.
+enregistrée est arrêté, dans l'ordre résultant du tirage au sort prévu à
+l'article R. 28 pour chaque province, par le haut-commissaire et publié au
+Journal officiel de la Nouvelle-Calédonie au plus tard le troisième samedi
+précédant la date du scrutin. Il est notifié aux maires.
 
 Cet état indique par circonscription et pour chaque liste :
 
