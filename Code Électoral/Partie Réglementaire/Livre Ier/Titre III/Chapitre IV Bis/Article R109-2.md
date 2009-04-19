@@ -3,13 +3,13 @@ Article R109-2
 A la déclaration de candidature, il est joint pour le candidat et le remplaçant
 :
 
-I. - Une attestation d'inscription sur une liste électorale comportant les
+I.-Une attestation d'inscription sur une liste électorale comportant les
 mentions prévues aux articles L. 18 et L. 19 délivrée par le maire de la commune
 d'inscription dans les trente jours précédant le dépôt de la candidature, ou une
 copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à
-défaut, un certificat de nationalité ou la carte nationale d'identité en cours
-de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de
-trois mois ;
+défaut, un certificat de nationalité, le passeport ou la carte nationale
+d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré
+depuis moins de trois mois ;
 
 II. Si l'intéressé n'est pas domicilié dans le département ou que les pièces
 mentionnées au I n'établissent pas son domicile dans le département :

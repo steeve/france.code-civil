@@ -12,3 +12,8 @@ postérieurement à cette date.
 La commission n'assure pas l'envoi des circulaires qui ne sont pas conformes aux
 articles R. 27 et R. 29 et des bulletins de vote qui ne sont pas conformes à
 l'article R. 30 et aux prescriptions édictées pour chaque catégorie d'élections.
+
+Lorsque la circonscription excède les limites du département, le contrôle de
+conformité prévu au troisième alinéa est effectué par la commission de
+propagande du département chef-lieu de circonscription qui transmet sans délai
+ses décisions aux commissions de propagande des autres départements.

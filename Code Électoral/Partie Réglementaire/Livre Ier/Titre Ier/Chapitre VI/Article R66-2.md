@@ -8,8 +8,8 @@ réglementaires édictées pour chaque catégorie d'élections ;
 2° Les bulletins établis au nom d'un candidat ou d'une liste dont la candidature
 n'a pas été enregistrée ;
 
-3° Les bulletins comportant un ou plusieurs noms autres que celui du ou des
-candidats ou de leurs remplaçants éventuels ;
+3° Sous réserve de l'article R. 30-1 les bulletins comportant un ou plusieurs
+noms autres que celui du ou des candidats ou de leurs remplaçants éventuels ;
 
 4° Les bulletins comportant une modification de l'ordre de présentation des
 candidats ;

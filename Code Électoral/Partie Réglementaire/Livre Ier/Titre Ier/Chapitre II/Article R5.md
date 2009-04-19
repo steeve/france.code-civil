@@ -6,7 +6,9 @@ de décembre inclus, le samedi étant considéré comme un jour ouvrable.
 
 Les demandes d'inscription doivent soit être déposées personnellement ou par
 l'intermédiaire d'un mandataire, muni d'un mandat écrit, soit être adressées par
-courrier, au moyen du formulaire agréé prévu à cet effet.
+courrier, au moyen du formulaire agréé prévu à cet effet. Elles peuvent
+également être admises dans le cadre d'une téléprocédure dans les conditions
+agréées par le ministre de l'intérieur.
 
 Les demandes doivent être accompagnées des pièces de nature à prouver que le
 demandeur remplit les conditions fixées aux articles L. 11 et L. 12 à L. 15-1.

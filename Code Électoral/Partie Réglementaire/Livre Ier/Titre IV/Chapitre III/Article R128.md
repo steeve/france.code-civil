@@ -15,9 +15,9 @@ délivrée par le maire dans les trente jours précédant la date du dépôt de 
 candidature ou une copie de la décision de justice ordonnant l'inscription de
 l'intéressé ;
 
-3° Dans les autres cas, un certificat de nationalité ou la carte nationale
-d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré
-depuis moins de trois mois.
+3° Dans les autres cas, un certificat de nationalité, le passeport ou la carte
+nationale d'identité en cours de validité et un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois.
 
 Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir
 :
