@@ -15,7 +15,9 @@ dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avri
 
 4° Décret n° 70-777 du 2 septembre 1970 créant le parc national des Cévennes ;
 
-5° Décret n° 73-378 du 27 mars 1973 créant le parc national des Ecrins ;
+5° Décret n° 2009-448 du 21 avril 2009 pris pour l'adaptation de la délimitation
+et de la réglementation du parc national des Ecrins aux dispositions du code de
+l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 6° Décret n° 79-696 du 18 août 1979 créant le parc national du Mercantour ;
 
