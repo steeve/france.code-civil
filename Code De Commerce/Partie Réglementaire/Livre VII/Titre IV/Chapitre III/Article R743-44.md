@@ -10,8 +10,8 @@ les articles R. 743-99 et R. 743-125, le cessionnaire adresse au garde des
 sceaux, ministre de la justice, une requête tendant à sa nomination en qualité
 de greffier de tribunal de commerce associé exerçant au sein de la société.
 
-Cette requête est remise au procureur de la République près le tribunal de
-grande instance dans le ressort duquel la société a son siège.
+Cette requête est remise au procureur général près la cour d'appel dans le
+ressort de laquelle la société a son siège.
 
 Elle est accompagnée de l'expédition de l'acte de cession des titres de capital
 ou des parts sociales, si celui-ci a été établi dans la forme authentique, ou de
@@ -25,5 +25,5 @@ l'ensemble de ses revenus et d'un budget prévisionnel.
 
 Le prix de cession et ses modalités de paiement sont fixés par les parties.
 
-Le procureur de la République transmet au garde des sceaux, ministre de la
-justice, avec son rapport, l'ensemble des pièces et des documents.
+Le procureur général transmet au garde des sceaux, ministre de la justice, avec
+son rapport, l'ensemble des pièces et des documents.

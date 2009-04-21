@@ -9,7 +9,7 @@ Si l'acquéreur est un tiers à la société, les dispositions des articles R.
 Si les titres de capital ou parts sociales sont acquis par la société ou par un
 ou plusieurs associés exerçant en son sein, il est procédé conformément à
 l'article R. 743-45. En ce cas, l'expédition ou l'un des originaux de l'acte de
-cession est adressé au procureur de la République.
+cession est adressé au procureur général.
 
 Le cessionnaire prend, par écrit, l'engagement de payer le prix fixé ; son
 engagement est joint à sa requête et une copie du projet d'acte de cession tient

@@ -9,11 +9,11 @@ troisième alinéa de l'article 19 de la loi n° 66-879 du 29 novembre 1966. Ce
 délai peut être renouvelé par le garde des sceaux, ministre de la justice, à la
 demande de tous les associés, y compris le cédant.
 
-Si l'acquéreur est un tiers, les dispositions des articles R. 743-44 et-R.
+Si l'acquéreur est un tiers, les dispositions des articles R. 743-44 et R.
 743-99 sont applicables, à l'exception de celles concernant la notification à la
 société elle-même et de celles du deuxième alinéa de l'article R. 743-99. La
-requête du cessionnaire doit être remise au procureur de la République avant
-l'expiration du délai mentionné au premier alinéa.
+requête du cessionnaire doit être remise au procureur général avant l'expiration
+du délai mentionné au premier alinéa.
 
 A défaut d'accord entre les parties, le prix de cession est fixé par un expert
 désigné dans les conditions prévues à l'article 1843-4 du code civil. Toute
@@ -27,8 +27,7 @@ l'article R. 743-44.
 Si les parts sociales sont acquises par la société, par les associés ou par l'un
 ou plusieurs d'entre eux, il est procédé conformément à l'article R. 743-45 ; en
 ce cas, l'expédition ou l'un des originaux de l'acte de cession est adressé au
-procureur de la République avant l'expiration du délai mentionné au premier
-alinéa.
+procureur général avant l'expiration du délai mentionné au premier alinéa.
 
 Lorsque l'associé cédant refuse de signer l'acte portant cession de ses parts à
 la société, à ses coassociés, à l'un ou plusieurs d'entre eux ou à un tiers, il

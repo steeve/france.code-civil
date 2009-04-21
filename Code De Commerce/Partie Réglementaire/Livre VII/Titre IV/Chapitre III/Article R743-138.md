@@ -1,7 +1,7 @@
 Article R743-138
 ----
-Le procureur de la République mentionné au premier alinéa de l'article R.
-743-137 sollicite l'avis des procureurs de la République concernés.
+Le procureur général mentionné au premier alinéa de l'article R. 743-137
+sollicite l'avis des procureurs généraux concernés.
 
 Il transmet au garde des sceaux, ministre de la justice, avec son rapport, le
 dossier et les avis recueillis.
