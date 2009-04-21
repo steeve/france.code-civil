@@ -5,8 +5,11 @@ décrets suivants :
 
 1° Décret n° 2009-447 du 21 avril 2009 pris pour l'adaptation de la délimitation
 et de la réglementation du parc national de la Vanoise aux dispositions du code
-de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 2° Décret n°
-63-1235 du 14 décembre 1963 créant le parc national de Port-Cros ;
+de l'environnement issues de la loi n° 2006-436 du 14 avril 2006
+
+2° Décret n° 2009-449 du 22 avril 2009 pris pour l'adaptation de la délimitation
+et de la réglementation du parc national de Port-Cros aux dispositions du code
+de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 3° Décret n° 2009-406 du 15 avril 2009 pris pour l'adaptation de la délimitation
 et de la réglementation du parc national des Pyrénées occidentales aux
