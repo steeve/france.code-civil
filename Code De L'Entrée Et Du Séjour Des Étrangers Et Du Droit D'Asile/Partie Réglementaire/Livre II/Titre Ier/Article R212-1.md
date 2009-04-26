@@ -13,7 +13,7 @@ dispositions dudit accord relatives à la libre circulation des personnes ;
 
 3° Les ressortissants suisses, andorrans et monégasques ;
 
-4° L'étranger titulaire d'un visa portant la mention "famille de Français",
+4° L'étranger titulaire d'un visa portant la mention " famille de Français ",
 délivré aux conjoints de ressortissants français et aux membres de leur famille
 définis au 2° de l'article L. 314-11 ;
 
@@ -23,8 +23,8 @@ durée de validité au moins égale à un an et délivré par une autorité cons
 française ou par celle d'un Etat mettant en vigueur cette convention et agissant
 en représentation de la France ;
 
-6° L'étranger titulaire d'un visa portant la mention : "carte de séjour à
-solliciter dès l'arrivée en France" ;
+6° L'étranger titulaire d'un visa portant la mention : " carte de séjour à
+solliciter dès l'arrivée en France " ;
 
 7° Les membres des missions diplomatiques et des postes consulaires et les
 membres de leur famille à charge, venant de l'étranger pour prendre leurs
@@ -45,4 +45,6 @@ membre, munis d'un ordre de mission délivré par cette organisation ;
 
 12° Les membres des équipages des navires et aéronefs effectuant des
 déplacements de service sous le couvert des documents prévus par les conventions
-internationales.
+internationales ;
+
+13° Les étrangers mentionnés aux 4°, 5°, 6°, 7° et 8° de l'article R. 311-3.

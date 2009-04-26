@@ -27,7 +27,10 @@ e) (alinéa supprimé) ;
 
 f) D'une carte de résident délivrée en application des dispositions des articles
 L. 314-8, L. 314-9 et L. 314-11, lorsque l'étranger n'a pas signé le contrat
-d'accueil et d'intégration à un autre titre.
+d'accueil et d'intégration à un autre titre ;
+
+g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4°
+ou au 7° de l'article R. 311-3.
 
 II.-Le contrat d'accueil et d'intégration peut également être souscrit par
 l'étranger qui n'a pas signé de contrat d'accueil et d'intégration lorsqu'il a
