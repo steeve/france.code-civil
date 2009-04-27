@@ -9,10 +9,14 @@ Le fabricant met en place et tient à jour une procédure systématique d'examen
 des données acquises sur les dispositifs médicaux et applique les mesures
 correctives nécessaires.
 
-En outre, pour tous les dispositifs de la classe II a et pour les dispositifs
-médicaux de la classe I mis sur le marché à l'état stérile ou ayant une fonction
-de mesurage, le fabricant doit également suivre, au choix, l'une des trois
-procédures mentionnées aux articles R. 5211-44, R. 5211-47 ou R. 5211-50.
+Pour les dispositifs médicaux de la classe I mis sur le marché à l'état stérile
+ou ayant une fonction de mesurage, le fabricant doit également suivre, au choix,
+l'une des quatre procédures définies aux sous-sections 5, 7, 8 et 9 de la
+présente section.
+
+En outre, pour les dispositifs médicaux de la classe II a, le fabricant doit
+également suivre, au choix, l'une des trois procédures mentionnées aux
+sous-sections 7, 8 et 9 de la présente section.
 
 Le fabricant certifie que les dispositifs médicaux sont conformes aux
 dispositions du présent titre et des arrêtés pris pour son application qui leur

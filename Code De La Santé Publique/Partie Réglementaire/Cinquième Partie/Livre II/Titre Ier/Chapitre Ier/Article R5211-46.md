@@ -39,8 +39,9 @@ sur l'Espace économique européen.
 Le fabricant certifie que les dispositifs médicaux fabriqués sont conformes au
 type décrit dans le certificat d'examen CE de type et respectent les
 dispositions du présent titre et des arrêtés pris pour son application qui leur
-sont applicables. Le certificat couvre un nombre donné d'exemplaires identifiés
-de dispositifs fabriqués et est conservé par le fabricant.
+sont applicables. Ce certificat couvre un ou plusieurs dispositifs fabriqués,
+identifiés au moyen du nom du produit, du code du produit ou d'une autre
+référence non équivoque.
 
 Il informe l'organisme habilité qui a approuvé le système de qualité de tout
 projet de modification importante de ce système. L'organisme habilité vérifie

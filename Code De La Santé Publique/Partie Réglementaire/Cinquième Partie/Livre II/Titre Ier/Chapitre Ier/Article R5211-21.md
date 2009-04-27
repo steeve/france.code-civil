@@ -1,8 +1,9 @@
 Article R5211-21
 ----
 Les dispositifs médicaux sont conçus et fabriqués, compte tenu de l'état de la
-technique généralement reconnu, de telle manière que, dans des conditions
-normales d'utilisation, ils ne compromettent pas, directement ou indirectement :
+technique généralement reconnu, de telle manière que, lorsqu'ils sont utilisés
+conformément à leur destination et dans les conditions prévues à cette fin, ils
+ne compromettent pas, directement ou indirectement :
 
 1° L'état clinique et la sécurité des patients ;
 

@@ -23,22 +23,33 @@ compatibilité des matériaux utilisés avec les tissus, cellules et liquides
 corporels compte tenu de l'utilisation prévue des dispositifs ou avec les
 substances destinées à être administrés par les dispositifs ;
 
-4° Assurer, lorsqu'un dispositif médical incorpore comme partie intégrante une
-substance qui, si elle est utilisée séparément, est susceptible d'être
-considérée comme un médicament, à l'exception des médicaments dérivés du sang et
-dont l'action en combinaison avec le dispositif peut aboutir à sa
-biodisponibilité, que la sécurité, la qualité et l'utilité de cette substance
-sont vérifiées, en tenant compte de la disposition du dispositif, avec les
-méthodes appropriées fixées par les articles R. 5121-10 à R. 5121-20. Lorsqu'un
-dispositif médical implantable actif incorpore comme partie intégrante une
-substance mentionnée à l'article R. 5212-24 et qui peut agir sur le corps humain
-par une action accessoire à celle du dispositif, l'organisme habilité doit
-demander à l' Agence européenne pour l'évaluation du médicament un avis
-scientifique sur la qualité et la sécurité de cette substance en tenant compte
-des méthodes appropriées, fixées notamment par les articles R. 5121-10 à R.
-5121-20. L'utilité de cette substance en tant que partie intégrante du
-dispositif médical doit être vérifiée en tenant compte de la destination du
-dispositif ;
+4° Assurer, lorsqu'un dispositif médical implantable actif incorpore comme
+partie intégrante une substance qui, si elle est utilisée séparément, est
+susceptible d'être considérée comme un médicament, à l'exception des médicaments
+dérivés du sang, et qui peut agir sur le corps humain par une action accessoire
+à celle du dispositif, que la qualité, la sécurité et l'utilité de cette
+substance sont vérifiées avec les méthodes appropriées fixées par les articles
+R. 5121-10 à R. 5121-20.
+
+Après avoir vérifié l'utilité de l'incorporation de la substance dans le
+dispositif médical en tenant compte de la destination du dispositif, l'organisme
+habilité demande à l'Agence française de sécurité sanitaire des produits de
+santé, à l'une des autorités compétentes en matière de médicament désignées par
+les autres Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen ou à l'Agence européenne des médicaments un avis
+scientifique sur la qualité et la sécurité de la substance, et notamment sur le
+rapport entre les bénéfices et les risques liés à son incorporation dans le
+dispositif médical.
+
+Lorsqu'un dispositif médical implantable actif incorpore comme partie intégrante
+une substance qui, si elle est utilisée séparément, est susceptible d'être
+considérée comme un médicament dérivé du sang et qui peut agir sur le corps
+humain par une action accessoire à celle du dispositif, l'organisme habilité,
+après avoir vérifié l'utilité de l'incorporation de la substance dans le
+dispositif médical en tenant compte de la destination du dispositif, demande à
+l'Agence européenne des médicaments un avis scientifique sur la qualité et la
+sécurité de cette substance, et notamment sur le rapport entre les bénéfices et
+les risques liés à son incorporation dans le dispositif médical.
 
 5° Pouvoir être identifiés, ainsi que leurs composants, le cas échéant, de façon
 à rendre toute action appropriée s'avérant nécessaire par suite de la découverte

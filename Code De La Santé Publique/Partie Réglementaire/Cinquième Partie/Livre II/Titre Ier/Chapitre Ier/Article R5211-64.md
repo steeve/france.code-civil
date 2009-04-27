@@ -1,18 +1,13 @@
 Article R5211-64
 ----
-Les organismes habilités communiquent les informations pertinentes relatives aux
-décisions qu'ils ont prises dans le cadre des procédures définies à la présente
-section, sur demande :
+Les organismes habilités informent le directeur général de l'Agence française de
+sécurité sanitaire des produits de santé de tous les certificats délivrés,
+modifiés, complétés, suspendus, retirés ou refusés. Ils mettent à sa
+disposition, sur sa demande, toute information supplémentaire pertinente.
 
-1° Au directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ;
-
-2° A l'autorité judiciaire ;
-
-3° Aux autres organismes habilités en France ;
-
-4° Aux autorités compétentes des autres Etats membres de l'Union européenne ou
-parties à l'accord sur l'Espace économique européen ;
-
-5° Aux organismes analogues habilités par ces Etats et ayant fait l'objet d'une
-publication au Journal officiel des Communautés européennes.
+Ils informent les autres organismes habilités en France ou par tout autre Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen et ayant fait l'objet d'une publication au Journal officiel de l'Union
+européenne de tous les certificats suspendus, retirés ou refusés ainsi que, sur
+leur demande, des certificats délivrés. Ils mettent également à la disposition
+de ces organismes, à leur demande, toute information supplémentaire pertinente.

@@ -6,15 +6,11 @@ Pour l'application du présent titre, on entend par :
 d'après les indications fournies par le fabricant dans l'étiquetage, la notice
 d'instruction ou les matériels promotionnels ;
 
-2° Mise sur le marché :
-
-a) La mise en vente, la vente, la mise à disposition à titre onéreux ou gratuit,
-la cession à quelque titre que ce soit, d'un dispositif médical autre qu'un
-dispositif devant faire l'objet d'investigations cliniques, qu'il soit neuf ou
-remis à neuf ;
-
-b) L'importation sur le territoire douanier d'un tel dispositif, dès lors qu'il
-n'a pas le statut de marchandise communautaire ;
+2° Mise sur le marché, la première mise à disposition à titre onéreux ou gratuit
+d'un dispositif médical, autre que celui destiné à des investigations cliniques,
+en vue de sa distribution ou de son utilisation dans un Etat membre de la
+Communauté européenne ou partie à l'accord sur l'Espace économique européen,
+qu'il s'agisse d'un dispositif neuf ou remis à neuf ;
 
 3° Fabricant, la personne physique ou morale responsable de la conception, de la
 fabrication, du conditionnement et de l'étiquetage d'un dispositif médical en
@@ -43,6 +39,39 @@ de la vente au public ;
 médical prêt à être utilisé pour la première fois sur le marché communautaire,
 conformément à sa destination ;
 
-7° Accessoire, tout article qui est destiné principalement par son fabricant à
+7° Accessoire, tout article qui est destiné spécifiquement par son fabricant à
 être utilisé avec un dispositif médical afin de permettre l'utilisation de ce
-dispositif, conformément aux intentions de son fabricant.
+dispositif, conformément aux intentions de son fabricant ;
+
+8° Importation, introduction sur le territoire d'un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen d'un dispositif
+médical en provenance d'un pays tiers en vue de sa mise sur le marché ;
+
+9° Importateur, toute personne physique ou morale établie dans un Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen
+se livrant à l'importation de dispositifs médicaux ;
+
+10° Données cliniques, les informations relatives à la sécurité et aux
+performances obtenues dans le cadre de l'utilisation clinique d'un dispositif.
+Les données cliniques proviennent soit :
+
+a) Des investigations cliniques du dispositif concerné ;
+
+b) Des investigations cliniques ou d'autres études citées dans la littérature
+scientifique d'un dispositif similaire pour lequel l'équivalence avec le
+dispositif concerné peut être démontrée ;
+
+c) Des rapports, publiés ou non, relatifs à une autre expérience clinique
+acquise sur le dispositif concerné ou un dispositif similaire pour lequel
+l'équivalence avec le dispositif concerné peut être démontrée ;
+
+11° Dispositif à usage unique, un dispositif destiné à être utilisé une seule
+fois pour un seul patient ;
+
+12° Sous-catégorie de dispositifs, un ensemble de dispositifs ayant des domaines
+d'utilisation communs ou une technologie commune ;
+
+13° Groupe générique de dispositifs, un ensemble de dispositifs destinés à une
+utilisation identique ou similaire, ou possédant une technologie commune
+permettant une classification générique de ces dispositifs ne reflétant pas
+leurs caractéristiques particulières.

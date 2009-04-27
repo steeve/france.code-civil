@@ -7,27 +7,38 @@ conçus, fabriqués et conditionnés de manière à répondre aux objectifs suiv
 1° Avoir des propriétés chimiques, physiques et biologiques permettant de
 garantir les caractéristiques et les performances mentionnées à l'article R.
 5211-21, de réduire autant que possible les risques présentés par les produits
-contaminant et les résidus pour les patients, le personnel participant au
+contaminants et les résidus pour les patients, le personnel participant au
 transport, au stockage ou à l'utilisation des dispositifs, d'être utilisés en
 toute sécurité avec toute matière avec laquelle ils peuvent entrer normalement
 en contact ou avec les médicaments qu'ils sont destinés à administrer, de
 réduire autant que possible les risques dus aux substances qu'ils dégagent ou à
-celles pénétrant dans les dispositifs non intentionnellement. Lorsqu'un
-dispositif médical incorpore comme partie intégrante une substance qui, si elle
-est utilisée séparément, est susceptible d'être considérée comme un médicament,
-à l'exception des médicaments dérivés du sang, et qui peut agir sur le corps
-humain par une action accessoire à celle du dispositif, la sécurité, la qualité
-et l'utilité de cette substance sont vérifiées, en tenant compte de la
-disposition du dispositif, avec les méthodes appropriées fixées par les articles
-R. 5121-10 à R. 5121-20 ; lorsqu'un dispositif médical incorpore comme partie
-intégrante une substance mentionnée à l'article R. 5212-24 et qui peut agir sur
-le corps humain par une action accessoire à celle du dispositif, l'organisme
-habilité doit demander à l'Agence européenne pour l'évaluation du médicament un
-avis scientifique sur la qualité et la sécurité de cette substance en tenant
-compte des méthodes appropriées, fixées notamment par les articles R. 5121-10 à
-R. 5121-20. L'utilité de cette substance en tant que partie intégrante du
-dispositif médical doit être vérifiée en tenant compte de la destination du
-dispositif.
+celles pénétrant dans les dispositifs non intentionnellement.
+
+Lorsqu'un dispositif médical incorpore comme partie intégrante une substance
+qui, si elle est utilisée séparément, est susceptible d'être considérée comme un
+médicament, à l'exception des médicaments dérivés du sang, et qui peut agir sur
+le corps humain par une action accessoire à celle du dispositif, la qualité, la
+sécurité et l'utilité de cette substance sont vérifiées avec les méthodes
+appropriées fixées par les articles R. 5121-10 à R. 5121-20. Après avoir vérifié
+l'utilité de l'incorporation de la substance dans le dispositif médical en
+tenant compte de la destination du dispositif, l'organisme habilité demande à
+l'Agence française de sécurité sanitaire des produits de santé, à l'une des
+autorités compétentes en matière de médicament désignées par les autres Etats
+membres de la Communauté européenne ou parties à l'accord sur l'Espace
+économique européen ou à l'Agence européenne des médicaments un avis
+scientifique sur la qualité et la sécurité de la substance, et notamment sur le
+rapport entre les bénéfices et les risques liés à son incorporation dans le
+dispositif médical.
+
+Lorsqu'un dispositif médical incorpore comme partie intégrante une substance
+qui, si elle est utilisée séparément, est susceptible d'être considérée comme un
+médicament dérivé du sang et qui peut agir sur le corps humain par une action
+accessoire à celle du dispositif, l'organisme habilité, après avoir vérifié
+l'utilité de l'incorporation de la substance dans le dispositif médical en
+tenant compte de la destination du dispositif, demande à l'Agence européenne des
+médicaments un avis scientifique sur la qualité et la sécurité de cette
+substance, et notamment sur le rapport entre les bénéfices et les risques liés à
+son incorporation dans le dispositif.
 
 2° Eliminer ou réduire autant que possible le risque d'infection ou de
 contamination pour le patient, l'utilisateur et les tiers, par la sélection des

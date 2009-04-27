@@ -1,7 +1,7 @@
 Article R5211-35
 ----
 Aux fins de la mise sur le marché d'un dispositif médical sur mesure, le
-fabricant suit la procédure mentionnée au 7° de l'article R. 5211-30.
+fabricant suit la procédure définie à l'article R. 5211-51.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
 santé peut exiger du fabricant de tels dispositifs qu'il lui communique la liste

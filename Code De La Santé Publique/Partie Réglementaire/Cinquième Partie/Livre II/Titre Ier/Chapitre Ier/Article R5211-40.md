@@ -34,30 +34,27 @@ conception.
 Dans le cadre de l'examen de la conception d'un dispositif qui incorpore comme
 partie intégrante une substance qui, si elle est utilisée séparément, est
 susceptible d'être considérée comme un médicament, à l'exception des médicaments
-dérivés du sang, et mentionnée au 1° de l'article R. 5211-22 ou au 4° de
-l'article R. 5211-23, l'organisme habilité consulte l'Agence française de
-sécurité sanitaire des produits de santé ou l'un des organismes compétents
-désignés par les autres Etats membres de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen, conformément aux dispositions
-nationales transposant les dispositions de la directive 2001/83/CE du Parlement
-européen et du Conseil du 6 novembre 2001 instituant un code communautaire
-relatif aux médicaments à usage humain avant de prendre une décision. En
-arrêtant sa décision relative à la délivrance du certificat d'examen CE de la
-conception, l'organisme habilité prend dûment en considération les avis exprimés
-lors de la consultation. Il informe l'organisme compétent concerné de sa
-décision finale.
+dérivés du sang, et qui peut agir sur le corps humain par une action accessoire
+à celle du dispositif, l'organisme habilité recueille l'avis de l'Agence
+française de sécurité sanitaire des produits de santé, de l'une des autorités
+compétentes en matière de médicament désignées par les autres Etats membres ou
+parties à l'accord sur l'Espace économique européen ou de l'Agence européenne
+des médicaments avant de prendre une décision. Cet avis est inclus dans la
+documentation concernant le dispositif.L'organisme habilité informe l'autorité
+consultée de sa décision. Lorsque l'autorité nationale compétente consultée est
+l'Agence française de sécurité sanitaire des produits de santé, son avis est
+rendu dans le délai maximal de deux cent dix jours à compter de la réception
+d'une documentation complète.
 
 Dans le cadre de l'examen de la conception d'un dispositif qui incorpore comme
 partie intégrante une substance qui, si elle est utilisée séparément, est
-susceptible d'être considérée comme un médicament dérivé du sang, et mentionnée
-au 1° de l'article R. 5211-22 ou au 4° de l'article R. 5211-23, l'avis
-scientifique de l'Agence européenne pour l'évaluation du médicament prévu à ces
-articles doit être intégré dans la documentation concernant le dispositif. En
-arrêtant sa décision, l'organisme habilité prend dûment en considération l'avis
-de l'Agence européenne pour l'évaluation du médicament. L'organisme habilité ne
-peut pas délivrer le certificat si cet avis scientifique est défavorable. Il
-informe l'Agence européenne pour l'évaluation du médicament de sa décision
-finale.
+susceptible d'être considérée comme un médicament dérivé du sang, et qui peut
+agir sur le corps humain par une action accessoire à celle du dispositif,
+l'organisme habilité recueille l'avis scientifique de l'Agence européenne des
+médicaments. Cet avis est inclus dans la documentation concernant le dispositif.
+Lorsque l'avis de l'Agence européenne des médicaments est défavorable,
+l'organisme habilité ne peut pas délivrer le certificat. Il informe l'Agence
+européenne de sa décision.
 
 Le fabricant informe l'organisme habilité ayant délivré le certificat de toute
 modification ultérieure apportée à la conception du dispositif. Cette
@@ -68,7 +65,9 @@ conditions d'utilisation du dispositif.
 Le fabricant veille à l'application du système de qualité tel qu'il a été
 approuvé et certifie que les dispositifs médicaux sont conformes aux
 dispositions du présent titre et des arrêtés pris pour son application qui leur
-sont applicables. Le certificat couvre un nombre donné de dispositifs.
+sont applicables. Ce certificat couvre un ou plusieurs dispositifs fabriqués,
+identifiés au moyen du nom du produit, du code du produit ou d'une autre
+référence non équivoque.
 
 En outre, au terme de la fabrication de chaque lot de dispositifs incorporant
 comme partie intégrante une substance qui, si elle est utilisée séparément, est
@@ -81,19 +80,12 @@ effet par un autre Etat membre de la Communauté européenne ou partie à l'acco
 sur l'Espace économique européen.
 
 Il informe l'organisme habilité qui a approuvé ce système de tout projet de
-modification importante. L'organisme habilité vérifie que le système ainsi
+modification importante.L'organisme habilité vérifie que le système ainsi
 modifié garantit le respect des dispositions du présent titre.
 
 Le fabricant fournit à l'organisme habilité les informations utiles pour
 s'assurer du respect des obligations attachées à son système de qualité et
-autorise l'organisme habilité à effectuer toutes les inspections nécessaires.
-L'organisme habilité procède périodiquement aux inspections et évaluations
-appropriées et peut lors de visites inopinées réaliser ou faire réaliser des
-essais pour vérifier le fonctionnement du système de qualité.
-
-En ce qui concerne les dispositifs médicaux de la classe III et les dispositifs
-médicaux implantables actifs, lorsque ni le fabricant ni son mandataire ne sont
-établis dans l'un des Etats membres de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen, l'obligation prévue à l'article R.
-5211-26 incombe à la personne responsable de la mise sur le marché mentionnée à
-l'article R. 5211-65 ou à l'importateur.
+autorise l'organisme habilité à effectuer toutes les inspections
+nécessaires.L'organisme habilité procède périodiquement aux inspections et
+évaluations appropriées et peut lors de visites inopinées réaliser ou faire
+réaliser des essais pour vérifier le fonctionnement du système de qualité.

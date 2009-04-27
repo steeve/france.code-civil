@@ -6,7 +6,9 @@ par le présent titre.
 Toutefois, lorsqu'un dispositif forme avec un médicament un produit intégré
 exclusivement destiné à être utilisé dans l'association donnée et non
 réutilisable, ce produit est régi par les dispositions applicables aux
-médicaments.
+médicaments. Le dispositif est conforme aux exigences essentielles relatives à
+la sécurité et aux performances des dispositifs médicaux mentionnées à la
+section 5 du présent chapitre.
 
 Lorsqu'un dispositif incorpore comme partie intégrante une substance qui, si
 elle est utilisée séparément, est susceptible d'être considérée comme un

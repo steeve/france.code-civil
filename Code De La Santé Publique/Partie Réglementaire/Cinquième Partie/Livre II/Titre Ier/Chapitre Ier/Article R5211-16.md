@@ -1,8 +1,8 @@
 Article R5211-16
 ----
-Le marquage CE est apposé sous la responsabilité du fabricant, de l'importateur
-ou du responsable de la mise sur le marché. Sa forme et ses dimensions sont
-fixées par arrêté du ministre chargé de la santé.
+Le marquage CE est apposé sous la responsabilité du fabricant ou de son
+mandataire. Sa forme et ses dimensions sont fixées par arrêté du ministre chargé
+de la santé.
 
 Le marquage CE est apposé de façon visible, lisible et indélébile sur le
 dispositif médical ou sur l'emballage assurant la stérilité, ainsi que sur

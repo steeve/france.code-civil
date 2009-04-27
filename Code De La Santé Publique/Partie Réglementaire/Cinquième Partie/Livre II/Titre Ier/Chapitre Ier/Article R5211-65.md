@@ -1,24 +1,24 @@
 Article R5211-65
 ----
-Tout fabricant ayant son siège social en France et qui, dans tout autre Etat
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen, met sur le marché en son nom propre des dispositifs médicaux de classe
-I ou des dispositifs médicaux sur mesure en fait la déclaration au directeur
-général de l'Agence française de sécurité sanitaire des produits de santé en
-indiquant l'adresse de son siège social et la désignation des dispositifs
-concernés.
+Tout fabricant ayant son siège social en France et qui, dans tout Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen,
+met sur le marché en son nom propre des dispositifs médicaux de classe I ou des
+dispositifs médicaux sur mesure en fait la déclaration au directeur général de
+l'Agence française de sécurité sanitaire des produits de santé en indiquant
+l'adresse de son siège social et la désignation des dispositifs concernés.
 
-Les fabricants qui mettent des dispositifs médicaux sur le marché français
-mentionnés au précédent alinéa et qui n'ont pas de siège social sur le
-territoire d'un Etat membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen désignent comme responsables de la mise sur le
-marché une ou plusieurs personnes établies sur le territoire d'un ou plusieurs
-de ces Etats.
+Les personnes exerçant les activités visées à la sous-section 11 de la section 6
+et à la section 10 du présent chapitre se déclarent respectivement selon les
+modalités fixées par les articles R. 5211-52 et R. 5211-70.
 
-Toute personne ayant son siège social en France et désignée par un fabricant
-établi hors du territoire des Etats membres de la Communauté européenne ou
-parties à l'accord sur l'Espace économique européen comme responsable de la mise
-sur le marché sur le territoire d'un ou plusieurs de ces Etats de dispositifs
-médicaux mentionnés au premier alinéa fait la déclaration au directeur général
-de l'Agence française de sécurité sanitaire des produits de santé de l'adresse
-de son siège social et de la désignation des produits concernés.
+Tout fabricant qui met sur le marché français un dispositif médical et qui n'a
+pas de siège social sur le territoire d'un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen désigne un
+mandataire unique établi sur le territoire d'un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen.
+
+Toute personne ayant son siège social en France et désignée comme mandataire
+pour des dispositifs médicaux mentionnés au premier alinéa ainsi qu'aux articles
+R. 5211-52 et R. 5211-67 fait une déclaration au directeur général de l'Agence
+française de sécurité sanitaire des produits de santé comportant l'adresse de
+son siège social et la désignation des produits concernés.
