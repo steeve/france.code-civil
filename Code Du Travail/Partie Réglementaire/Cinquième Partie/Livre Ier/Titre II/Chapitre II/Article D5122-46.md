@@ -1,10 +1,11 @@
 Article D5122-46
 ----
-L'indemnisation assurée dans le cadre des conventions de temps réduit indemnisé
-de longue durée prend la forme d'indemnités horaires égales à 50 % de la
-rémunération brute servant d'assiette au calcul de l'indemnité de congés payés
-prévue à l'article L. 3141-22 ramenée à un taux horaire sur la base de l'horaire
-de travail habituellement pratiqué dans l'établissement. Ces indemnités ne
-peuvent être inférieures à l'indemnité horaire minimale prévue par l'accord
-interprofessionnel du 21 février 1968 relatif au chômage partiel ou à des
-stipulations conventionnelles plus favorables en la matière.
+L'indemnisation assurée dans le cadre des conventions d'activité partielle prend
+la forme d'indemnités horaires au moins égales à 75 % de la rémunération brute
+servant d'assiette au calcul de l'indemnité de congés payés prévue à l'article
+L. 3141-22 ramenée à un montant horaire sur la base de la durée légale du
+travail applicable dans l'entreprise ou, lorsqu'elle est inférieure, la durée
+collective du travail ou la durée stipulée au contrat de travail.
+
+Ces indemnités ne peuvent être inférieures à la rémunération mensuelle minimale
+définie par l'article L. 3232-3.
