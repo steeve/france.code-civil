@@ -22,7 +22,9 @@ dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avri
 et de la réglementation du parc national des Ecrins aux dispositions du code de
 l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
-6° Décret n° 79-696 du 18 août 1979 créant le parc national du Mercantour ;
+6° Décret n° 2009-486 du 29 avril 2009 pris pour l'adaptation de la délimitation
+et de la réglementation du parc national du Mercantour aux dispositions du code
+de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe
 ;
