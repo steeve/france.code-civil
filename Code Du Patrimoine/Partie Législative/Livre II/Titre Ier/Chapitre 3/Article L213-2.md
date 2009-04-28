@@ -2,8 +2,8 @@ Article L213-2
 ----
 Par dérogation aux dispositions de l'article L. 213-1 :
 
-I.-Les archives publiques sont communicables de plein droit à l'expiration d'un
-délai de :
+I. ― Les archives publiques sont communicables de plein droit à l'expiration
+d'un délai de :
 
 1° Vingt-cinq ans à compter de la date du document ou du document le plus récent
 inclus dans le dossier :
@@ -17,14 +17,11 @@ matière de statistiques sauf lorsque sont en cause des données collectées au
 moyen de questionnaires ayant trait aux faits et comportements d'ordre privé
 mentionnées aux 4° et 5° ;
 
-b) Pour les documents mentionnés au dernier alinéa de l'article 1er de la loi n°
-78-753 du 17 juillet 1978 précitée, à l'exception des actes et documents
-produits ou reçus par les assemblées parlementaires ;
-
-c) Pour les documents élaborés dans le cadre d'un contrat de prestation de
-services exécuté pour le compte d'une ou de plusieurs personnes déterminées,
-sauf si ces documents entrent, du fait de leur contenu, dans le champ
-d'application des 3° ou 4° du présent I ;
+b) Pour les documents mentionnés au 1° du I de l'article 6 de la loi n° 78-753
+du 17 juillet 1978, à l'exception des documents produits dans le cadre d'un
+contrat de prestation de services exécuté pour le compte d'une ou de plusieurs
+personnes déterminées lorsque ces documents entrent, du fait de leur contenu,
+dans le champ d'application des 3° ou 4° du présent I ;
 
 2° Vingt-cinq ans à compter de la date du décès de l'intéressé, pour les
 documents dont la communication porte atteinte au secret médical. Si la date du
@@ -35,11 +32,12 @@ naissance de la personne en cause ;
 inclus dans le dossier, pour les documents dont la communication porte atteinte
 au secret de la défense nationale, aux intérêts fondamentaux de l'Etat dans la
 conduite de la politique extérieure, à la sûreté de l'Etat, à la sécurité
-publique ou à la protection de la vie privée, à l'exception des documents
-mentionnés aux 4° et 5°. Le même délai s'applique aux documents qui portent une
-appréciation ou un jugement de valeur sur une personne physique, nommément
-désignée ou facilement identifiable, ou qui font apparaître le comportement
-d'une personne dans des conditions susceptibles de lui porter préjudice.
+publique, à la sécurité des personnes ou à la protection de la vie privée, à
+l'exception des documents mentionnés aux 4° et 5°. Le même délai s'applique aux
+documents qui portent une appréciation ou un jugement de valeur sur une personne
+physique, nommément désignée ou facilement identifiable, ou qui font apparaître
+le comportement d'une personne dans des conditions susceptibles de lui porter
+préjudice.
 
 Le même délai s'applique aux documents relatifs à la construction, à
 l'équipement et au fonctionnement des ouvrages, bâtiments ou parties de bâtiment
@@ -81,8 +79,8 @@ les juridictions, sous réserve des dispositions particulières relatives aux
 jugements, et à l'exécution des décisions de justice dont la communication porte
 atteinte à l'intimité de la vie sexuelle des personnes.
 
-II.-Ne peuvent être consultées les archives publiques dont la communication est
-susceptible d'entraîner la diffusion d'informations permettant de concevoir,
+II. ― Ne peuvent être consultées les archives publiques dont la communication
+est susceptible d'entraîner la diffusion d'informations permettant de concevoir,
 fabriquer, utiliser ou localiser des armes nucléaires, biologiques, chimiques ou
 toutes autres armes ayant des effets directs ou indirects de destruction d'un
 niveau analogue.
