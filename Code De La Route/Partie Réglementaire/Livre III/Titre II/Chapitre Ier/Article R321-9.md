@@ -21,16 +21,17 @@ communautaire, il délivre une fiche de réception CE.
 
 Néanmoins, si le ministre chargé des transports estime qu'un type de véhicule,
 de système ou d'équipement, quoique conforme aux exigences requises par la
-législation communautaire, compromet gravement la sécurité routière, il peut
-refuser de délivrer la fiche de réception CE. Cette décision doit être motivée
-et notifiée au constructeur intéressé, aux autorités compétentes en matière de
-réception des autres Etats et à la Commission européenne.
+législation communautaire, compromet gravement la sécurité routière ou nuit
+gravement à l'environnement ou à la santé publique, il peut refuser de délivrer
+la fiche de réception CE. Cette décision doit être motivée et notifiée au
+constructeur intéressé avec indication des voies et délais de recours, aux
+autorités compétentes en matière de réception des autres Etats et à la
+Commission européenne.
 
 Le constructeur donne à chacun des véhicules conformes à un type ayant fait
 l'objet d'une réception CE un numéro d'identification. Il remet à l'acheteur du
-véhicule une copie de la fiche de réception CE du type de véhicule ainsi qu'un
-certificat de conformité attestant que le véhicule livré est entièrement
-conforme au type réceptionné.
+véhicule un certificat de conformité attestant que le véhicule livré est
+entièrement conforme au type réceptionné.
 
 Le constructeur, détenteur d'une fiche de réception CE d'un type d'équipement,
 appose sur chaque équipement fabriqué conformément au type réceptionné sa marque

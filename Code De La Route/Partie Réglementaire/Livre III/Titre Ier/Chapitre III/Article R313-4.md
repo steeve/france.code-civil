@@ -33,8 +33,7 @@ VII.-Toute remorque peut être munie à l'avant de deux feux de position émetta
 vers l'avant une lumière blanche non éblouissante.
 
 VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire
-lorsque la largeur hors tout de la remorque dépasse 1, 60 mètre ou dépasse de
-plus de 0, 20 mètre la largeur du véhicule tracteur.
+lorsque la largeur hors tout de la remorque dépasse 1, 60 mètre.
 
 IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et
 appareils agricoles ou de travaux publics remorqués.
