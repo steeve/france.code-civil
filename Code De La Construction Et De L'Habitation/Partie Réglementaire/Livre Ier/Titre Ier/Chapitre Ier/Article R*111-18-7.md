@@ -8,6 +8,14 @@ constructions existantes ou de contraintes liées au classement de la zone de
 construction, notamment au regard de la réglementation de prévention contre les
 inondations.
 
+Il peut également accorder des dérogations aux dispositions de la présente
+sous-section pour des programmes de logements destinés à l'occupation temporaire
+ou saisonnière dont la gestion et l'entretien sont assurés de façon permanente,
+sous réserve de la réalisation, dans le même programme, d'un pourcentage de
+logements offrant des caractéristiques d'accessibilité dès la construction. Un
+arrêté du ministre chargé de la construction et du ministre chargé des personnes
+handicapées précise les modalités d'application du présent alinéa.
+
 La demande de dérogation est transmise en trois exemplaires au préfet. Cette
 demande indique les règles auxquelles le demandeur souhaite déroger, les
 éléments du projet auxquels elles s'appliquent et les justifications de chaque

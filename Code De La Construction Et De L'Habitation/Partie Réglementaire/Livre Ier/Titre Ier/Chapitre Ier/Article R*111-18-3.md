@@ -12,10 +12,9 @@ Il peut également accorder des dérogations aux dispositions du 2 de l'article 
 111-18-2 pour des programmes de logements destinés à l'occupation temporaire ou
 saisonnière dont la gestion et l'entretien sont assurés de façon permanente,
 sous réserve de la réalisation, dans le même programme, d'un pourcentage de
-logements offrant des caractéristiques minimales d'accessibilité dès la
-construction. Un arrêté du ministre chargé de la construction et du ministre
-chargé des personnes handicapées précise les modalités d'application du présent
-alinéa.
+logements offrant des caractéristiques d'accessibilité dès la construction. Un
+arrêté du ministre chargé de la construction et du ministre chargé des personnes
+handicapées précise les modalités d'application du présent alinéa.
 
 Dans tous les cas prévus au présent article, la demande de dérogation est
 transmise en trois exemplaires au préfet. Cette demande indique les règles
