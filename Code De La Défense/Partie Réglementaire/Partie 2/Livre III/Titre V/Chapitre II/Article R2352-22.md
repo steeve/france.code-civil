@@ -1,10 +1,10 @@
 Article R2352-22
 ----
 Les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la
-présente section fixent les conditions auxquelles sont soumis le marquage,
-l'acquisition, la livraison, la détention, le transport et l'emploi des produits
-explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit
-des produits explosifs.
+présente section fixent les conditions auxquelles sont soumis l'identification
+et la traçabilité, l'acquisition, la livraison, la détention, le transport et
+l'emploi des produits explosifs ainsi que des produits ouvrés contenant sous
+quelque forme que ce soit des produits explosifs.
 
 Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et
 5 de la présente section ne sont pas applicables :
@@ -16,8 +16,8 @@ divertissement ;
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ;
 
 3° Aux munitions et éléments de munitions des armes énumérées au décret n°
-95-589 du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant
-le régime des matériels de guerre, armes et munitions ;
+95-589 du 6 mai 1995relatif à l'application du décret du 18 avril 1939 fixant le
+régime des matériels de guerre, armes et munitions ;
 
 4° Aux produits explosifs, définis par arrêté conjoint du ministre de
 l'intérieur, du ministre de la défense et du ministre de l'industrie, qui ont
