@@ -18,20 +18,11 @@ b) Les substances bêta-agonistes :
 
 - pour l'espèce bovine par voie injectable, pour l'induction de la tocolyse ;
 
-- pour les équidés non destinés à la consommation humaine et les animaux de
-compagnie pour le traitement des troubles respiratoires ou l'induction de la
-tocolyse ;
+- pour les équidés, pour le traitement des troubles respiratoires, de la maladie
+naviculaire, de la fourbure aiguë ou l'induction de la tocolyse ;
 
-c) Le trembolone allyle, ou altrenogest, administré à des équidés et des animaux
-de compagnie, par voie orale, et pour le traitement d'un trouble de la fécondité
-;
-
-d) L'oestradiol 17 bêta ou ses dérivés estérifiés pour l'espèce bovine pour le
-traitement :
-
-- de la macération ou de la momification foetales ;
-
-- du pyomètre.
+c) Le trembolone allyle, ou altrenogest, administré à des équidés, par voie
+orale, et pour le traitement d'un trouble de la fécondité.
 
 2° A titre d'usage zootechnique :
 
@@ -42,10 +33,7 @@ préparation au don et à l'implantation d'embryons ;
 
 b) Les substances à effet androgène, administrées aux alevins de poissons qui ne
 sont pas destinés à la consommation, pendant les trois premiers mois de leur vie
-et en vue de l'inversion sexuelle ;
-
-c) Jusqu'au 14 octobre 2006, l'oestradiol 17 bêta ou ses dérivés estérifiés pour
-l'induction de l'oestrus chez les bovins, les équins, les ovins et les caprins.
+et en vue de l'inversion sexuelle.
 
 II. - Les médicaments mentionnés au I ne doivent pas contenir :
 
