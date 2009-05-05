@@ -1,9 +1,9 @@
 Article R2212-16
 ----
-Seuls les médecins ayant conclu la convention mentionnée à l'article R. 2212-9
+Seuls les médecins, les centres de planification ou d'éducation familiale et les
+centres de santé ayant conclu la convention mentionnée à l'article R. 2212-9
 peuvent s'approvisionner en médicaments nécessaires à la réalisation d'une
-interruption volontaire de grossesse par mode médicamenteux pratiquée en dehors
-d'un établissement de santé.
+interruption volontaire de grossesse par voie médicamenteuse.
 
 Pour s'approvisionner en médicaments nécessaires à la réalisation de cette
 interruption volontaire de grossesse, le médecin passe commande à usage
