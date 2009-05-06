@@ -5,16 +5,7 @@ agricole d'assurances sociales, ou inversement, le service et la charge des
 prestations incombent, sous réserve des conditions d'ouverture du droit aux
 prestations :
 
-1°) en ce qui concerne les prestations en nature de l'assurance maladie, au
-régime auquel l'assuré était affilié au jour du premier acte médical figurant
-sur la feuille de soins ;
-
-2°) en ce qui concerne les indemnités journalières de maladie, au régime auquel
-l'assuré était affilié au jour de l'interruption de travail ;
-
-3° en ce qui concerne les prestations de l'assurance maternité, au régime auquel
-l'assuré était affilié au premier jour du neuvième mois précédant la date
-présumée de l'accouchement ou au début du repos prénatal ;
+1°) à 3°) (alinéas abrogés)
 
 4°) en ce qui concerne les prestations de l'assurance décès, au régime auquel
 l'assuré était affilié à la date du décès ;
