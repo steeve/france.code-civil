@@ -11,8 +11,8 @@ proposition du conseil d'administration.
 
 Ne peuvent se prévaloir du titre d'ancien élève de l'Ecole nationale supérieure
 de sécurité sociale et bénéficier des avantages s'attachant à cette qualité et
-prévus par les articles R. 123-45 et R. 123-47 que les élèves ayant satisfait à
-l'examen de sortie institué par le présent article et ayant souscrit
+prévus par les articles R. 123-45-1 et R. 123-37-1 que les élèves ayant
+satisfait à l'examen de sortie institué par le présent article et ayant souscrit
 l'engagement de servir dans un organisme de sécurité sociale pendant une durée
 de dix ans consécutifs au minimum. Les élèves qui refusent de signer cet
 engagement sont soumis aux obligations ou interdictions prévues à l'article R.

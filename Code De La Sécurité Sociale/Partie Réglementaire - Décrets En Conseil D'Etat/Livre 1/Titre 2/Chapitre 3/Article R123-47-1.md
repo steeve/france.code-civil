@@ -1,17 +1,15 @@
 Article R123-47-1
 ----
-Une liste des emplois vacants dans les organismes des régimes de sécurité
-sociale représentés au conseil d'administration de l'école est fixée chaque
-année par le ministre chargé de l'agriculture en ce qui concerne les organismes
-du régime agricole et par le ministre chargé de la sécurité sociale pour les
-autres régimes.
+Pour être nommé sur un premier emploi d'agent comptable d'un organisme de
+sécurité sociale mentionné à l'article R. 123-45, un candidat inscrit sur la
+liste d'aptitude mentionnée à cet article doit :
 
-A l'issue de la scolarité, chacun des anciens élèves est affecté sur un emploi
-figurant sur la liste prévue au précédent alinéa par un arrêté du ministre
-compétent. Cette affectation intervient selon des modalités définies par un
-arrêté des ministres chargés de la sécurité sociale et de l'agriculture et qui
-doivent comporter notamment la consultation du directeur de l'organisme
-d'affectation.
+1° Soit avoir bénéficié d'une formation dans le domaine de la comptabilité au
+cours de sa scolarité à l'Ecole nationale supérieure de sécurité sociale, s'il
+est ancien élève de cette école ;
 
-Chaque ancien élève ainsi affecté est ensuite nommé par le directeur de
-l'organisme d'affectation.
+2° Soit justifier, dans des conditions précisées par arrêté conjoint du ministre
+chargé de la sécurité sociale et du ministre de l'agriculture, d'une expérience
+ou d'un diplôme dans ce domaine ainsi que d'une formation relative au
+fonctionnement de la sécurité sociale organisée par l'Ecole nationale supérieure
+de sécurité sociale.

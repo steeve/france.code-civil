@@ -5,7 +5,8 @@ supérieure de sécurité sociale.
 
 Le concours interne est ouvert aux personnes justifiant au 1er janvier de
 l'année du concours d'au moins quatre années de services dans un ou plusieurs
-organismes, unions ou fédérations d'organismes de sécurité sociale.
+organismes, unions ou fédérations d'organismes de sécurité sociale, ainsi que
+dans les établissements mentionnés au 4° de l'article R. 123-45-2.
 
 Le concours externe est ouvert aux personnes soit titulaires d'un diplôme
 national sanctionnant un second cycle d'études supérieures, ou d'un titre ou
