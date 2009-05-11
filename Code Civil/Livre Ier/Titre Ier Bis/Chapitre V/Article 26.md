@@ -1,7 +1,10 @@
 Article 26
 ----
-Les déclarations de nationalité sont reçues par le juge d'instance ou par les
-consuls suivant les formes déterminées par décret en Conseil d'Etat.
+La déclaration de nationalité souscrite en raison du mariage avec un conjoint
+français est reçue par le représentant de l'État dans le département ou par le
+consul. Les autres déclarations de nationalité sont reçues par le greffier en
+chef du tribunal d'instance ou par le consul. Les formes suivant lesquelles ces
+déclarations sont reçues sont déterminées par décret en Conseil d'Etat.
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de
 leur recevabilité.

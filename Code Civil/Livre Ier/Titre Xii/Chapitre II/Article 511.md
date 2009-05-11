@@ -1,8 +1,13 @@
 Article 511
 ----
 Le tuteur soumet chaque année le compte de gestion, accompagné des pièces
-justificatives, au greffier en chef du tribunal d'instance en vue de sa
-vérification.
+justificatives, en vue de sa vérification, au greffier en chef :
+
+1° Du tribunal de grande instance, s'agissant des mesures de protection
+juridique des mineurs ;
+
+2° Du tribunal d'instance, s'agissant des mesures de protection juridique des
+majeurs.
 
 Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le
 transmettre avec ses observations au greffier en chef.

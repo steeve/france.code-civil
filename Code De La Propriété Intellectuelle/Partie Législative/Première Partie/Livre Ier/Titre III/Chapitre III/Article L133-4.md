@@ -13,5 +13,5 @@ l'article L. 133-2 ;
 
 2° Une seconde part, qui ne peut excéder la moitié du total, est affectée à la
 prise en charge d'une fraction des cotisations dues au titre de la retraite
-complémentaire par les personnes visées au second alinéa de l'article L. 382-12
-du code de la sécurité sociale.
+complémentaire par les personnes visées aux troisième et quatrième alinéas de
+l'article L. 382-12 du code de la sécurité sociale.

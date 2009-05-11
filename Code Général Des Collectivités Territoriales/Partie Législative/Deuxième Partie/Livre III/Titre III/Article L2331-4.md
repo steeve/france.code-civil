@@ -10,9 +10,8 @@ des ordures, déchets et résidus ;
 
 3° Le produit des péages communaux, des droits de pesage, mesurage et jaugeage ;
 
-4° Le produit de la redevance d'exploitation des abattoirs publics prévue par
-l'article 9 de la loi n° 65-543 du 8 juillet 1965 relative aux conditions
-nécessaires à la modernisation du marché de la viande ;
+4° Le produit de la redevance d'usage des abattoirs publics prévue par l'article
+L. 2333-1 ;
 
 5° Le produit des taxes d'affouage, de pâturage et de tourbage ;
 
