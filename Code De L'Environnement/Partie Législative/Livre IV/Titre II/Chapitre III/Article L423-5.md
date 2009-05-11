@@ -10,10 +10,10 @@ la faune sauvage avec le concours des fédérations départementales et
 interdépartementales des chasseurs dans des conditions définies par voie
 réglementaire.
 
-L'autorité administrative saisie d'un recours concernant la délivrance du permis
-de chasser consulte avant de statuer sur celui-ci un jury composé pour moitié de
-représentants de l'Etat et pour moitié de représentants de la fédération
-départementale des chasseurs.
+le directeur général de l'Office national de la chasse et de la faune sauvage
+saisi d'un recours concernant la délivrance du permis de chasser consulte avant
+de statuer sur celui-ci un jury composé pour moitié de représentants de l'Etat
+et pour moitié de représentants de la fédération départementale des chasseurs.
 
 Toutefois, les personnes ayant obtenu, antérieurement au 1er juillet 1976, un
 permis de chasse ou une autorisation délivrée par l'administration des affaires

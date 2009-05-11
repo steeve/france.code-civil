@@ -9,11 +9,12 @@ l'accompagnateur ne peuvent disposer, sur le lieu de chasse, que d'une arme pour
 deux.
 
 A l'exclusion des personnes visées par l'article L. 423-25, l'autorisation de
-chasser est délivrée par l'autorité administrative, gratuitement, pour un an et
-une fois par personne, aux mineurs de plus de quinze ans et aux majeurs, ayant
-bénéficié d'une formation pratique élémentaire délivrée par la fédération
-départementale ou interdépartementale des chasseurs, avec le concours de
-l'Office national de la chasse et de la faune sauvage.
+chasser est délivrée par le directeur général de l'Office national de la chasse
+et de la faune sauvage, gratuitement, pour un an et une fois par personne, aux
+mineurs de plus de quinze ans et aux majeurs, ayant bénéficié d'une formation
+pratique élémentaire délivrée par la fédération départementale ou
+interdépartementale des chasseurs, avec le concours de l'Office national de la
+chasse et de la faune sauvage.
 
 Les articles L. 424-4 et L. 424-5 sont applicables aux titulaires de
 l'autorisation de chasser.

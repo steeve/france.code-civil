@@ -3,7 +3,9 @@ Article L423-6
 Pour l'inscription à l'examen du permis de chasser, le candidat doit présenter à
 l'Office national de la chasse et de la faune sauvage un certificat médical
 attestant que son état de santé physique et psychique est compatible avec la
-détention d'une arme.
+détention d'une arme. Il doit en outre présenter une déclaration sur l'honneur
+attestant qu'il n'est pas privé du droit de détention ou de port d'armes par
+décision préfectorale ou par suite d'une condamnation.
 
 Il est également perçu un droit d'examen dont le montant est fixé dans la limite
 de 16 euros, par arrêté du ministre chargé de la chasse et du ministre chargé du

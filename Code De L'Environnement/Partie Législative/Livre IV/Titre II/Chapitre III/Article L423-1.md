@@ -9,3 +9,8 @@ et, d'autre part, du paiement des cotisations prévues à l'article L. 423-13
 ainsi que des participations prévues à l'article L. 426-5 et de la cotisation
 nationale instituée à l'article L. 421-14 lorsqu'il s'agit de la chasse du grand
 gibier.
+
+Toutefois, les personnes qui ont réussi l'examen du permis de chasser et se sont
+acquittées des sommes prévues à l'alinéa précédent peuvent pratiquer la chasse
+jusqu'à la décision prise sur leur demande de permis et au plus tard jusqu'à
+l'expiration d'un délai fixé par voie réglementaire.
