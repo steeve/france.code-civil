@@ -22,7 +22,8 @@ traditionnelle garantie, attestant la qualité liée à l'origine ou à la tradi
 - le qualificatif "fermier" ou la mention "produit de la ferme" ou "produit à la
 ferme" ;
 
-- les termes "produits pays" dans les départements d'outre-mer ;
+- les termes "produits pays" dans les départements d'outre-mer, à Mayotte,
+Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et Wallis-et-Futuna ;
 
 - la mention "issus d'une exploitation de haute valeur environnementale” ;
 
