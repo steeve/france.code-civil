@@ -1,7 +1,8 @@
 Article L3214-2
 ----
-Le conseil général attribue et retire les bourses entretenues sur les fonds
-départementaux, sur l'avis motivé :
+Le conseil général, sauf s'il a délégué sa compétence au président, en
+application de l'article L. 3211-2, attribue et retire les bourses entretenues
+sur les fonds départementaux, sur l'avis motivé :
 
 1° Du proviseur ou du principal et du conseil d'administration, pour les lycées
 ou les collèges ;

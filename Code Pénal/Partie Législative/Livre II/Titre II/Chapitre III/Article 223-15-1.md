@@ -1,12 +1,10 @@
 Article 223-15-1
 ----
-Les personnes morales peuvent être déclarées pénalement responsables dans les
-conditions prévues par l'article 121-2 des infractions définies à la présente
-section.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies à la présente section
+encourent, outre l'amende suivant les modalités prévues par l'article 131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
 

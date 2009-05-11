@@ -1,16 +1,13 @@
 Article L442-5
 ----
-Le Gouvernement dépose tous les trois ans et pour la première fois le 1er
-juillet 1997, sur le bureau des assemblées, un rapport sur l'occupation des
-logements d'habitations à loyer modéré et son évolution.
-
-A cette fin, les organismes d'habitations à loyer modéré communiquent les
-renseignements statistiques nécessaires au représentant de l'Etat dans le
+Aux fins de permettre la transmission au Parlement des informations visées au 5°
+de l'article L. 101-1, les organismes d'habitations à loyer modéré communiquent
+les renseignements statistiques nécessaires au représentant de l'Etat dans le
 département du lieu de situation des logements après avoir procédé à une enquête
 auprès de leurs locataires. Les locataires sont tenus de répondre dans le délai
-d'un mois. A défaut, le locataire défaillant est redevable à l'organisme
-d'habitations à loyer modéré d'une pénalité de 7,62 euros, majorée de 7,62 euros
-par mois entier de retard, sauf s'il est établi que des difficultés
+d'un mois.A défaut, le locataire défaillant est redevable à l'organisme
+d'habitations à loyer modéré d'une pénalité de 7, 62 euros, majorée de 7, 62
+euros par mois entier de retard, sauf s'il est établi que des difficultés
 particulières n'ont pas permis au locataire de répondre. Dans ce cas,
 l'organisme d'habitations à loyer modéré met en oeuvre les moyens adaptés pour
 que le locataire puisse s'acquitter de cette obligation.

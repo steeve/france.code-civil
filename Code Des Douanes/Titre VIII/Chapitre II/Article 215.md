@@ -13,9 +13,6 @@ factures d'achat, bordereaux de fabrication ou toutes autres justifications
 d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
 du territoire douanier de la Communauté européenne.
 
-Le ministre du budget adresse en fin d'année au Parlement un rapport sur les
-modifications apportées dans l'année en cours aux arrêtés visés au 1.
-
 2. Ceux qui ont détenu, transporté, vendu, cédé ou échangé lesdites marchandises
 et ceux qui ont établi les justifications d'origine sont également tenus de
 présenter les documents visés au 1 ci-dessus à toute réquisition des agents des

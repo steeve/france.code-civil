@@ -1,6 +1,7 @@
 Article 2392
 ----
-Les droits du créancier antichrésiste s'éteignent notamment :
+Les droits du créancier titulaire d'un droit de gage immobilier s'éteignent
+notamment :
 
 1° Par l'extinction de l'obligation principale ;
 

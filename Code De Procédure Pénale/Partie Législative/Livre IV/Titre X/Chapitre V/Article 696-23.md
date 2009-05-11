@@ -1,9 +1,9 @@
 Article 696-23
 ----
 En cas d'urgence et sur la demande directe des autorités compétentes de l'Etat
-requérant, le procureur de la République territorialement compétent peut
-ordonner l'arrestation provisoire d'une personne réclamée aux fins d'extradition
-par ledit Etat et son placement sous écrou extraditionnel.
+requérant, le procureur général territorialement compétent peut ordonner
+l'arrestation provisoire d'une personne réclamée aux fins d'extradition par
+ledit Etat et son placement sous écrou extraditionnel.
 
 La demande d'arrestation provisoire, transmise par tout moyen permettant d'en
 conserver une trace écrite, indique l'existence d'une des pièces mentionnées à
@@ -17,5 +17,5 @@ s'il y a lieu, la nature et la date des actes interruptifs de prescription. Une
 copie de cette demande est adressée par l'Etat requérant au ministre des
 affaires étrangères.
 
-Le procureur de la République donne avis de cette arrestation, sans délai, au
-ministre de la justice et au procureur général.
+Le procureur général avise sans délai le ministre de la justice de cette
+arrestation.

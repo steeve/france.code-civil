@@ -7,9 +7,10 @@ d'utilité publique, et dont la liste est fixée par un décret en Conseil d'Eta
 
 2° Les constructions édifiées dans les zones d'aménagement concerté au sens de
 l'article L. 311-1 du code de l'urbanisme lorsque le coût des équipements, dont
-la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des
-constructeurs, cette liste pouvant être complétée pour chaque commune par une
-délibération du conseil municipal, valable pour une durée minimum de trois ans.
+la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge de
+l'aménageur ou des constructeurs, cette liste pouvant être complétée pour chaque
+commune par une délibération du conseil municipal, valable pour une durée
+minimum de trois ans.
 
 3° Les constructions édifiées dans les secteurs de la commune où un programme
 d'aménagement d'ensemble a été approuvé par le conseil municipal lorsque ce

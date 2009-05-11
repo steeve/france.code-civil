@@ -1,6 +1,6 @@
 Article L1324-3
 ----
-I. - Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende le fait :
+I.-Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende le fait :
 
 1° D'offrir ou de vendre au public de l'eau en vue de l'alimentation humaine, y
 compris la glace alimentaire, sans s'être assuré que cette eau ou cette glace
@@ -30,7 +30,4 @@ faire cesser un risque grave pour la santé publique ;
 8° D'amener par canaux à ciel ouvert de l'eau destinée à l'alimentation humaine
 en violation des dispositions de l'article L. 1321-8.
 
-II. - Les personnes morales peuvent être déclarées pénalement responsables, dans
-les conditions prévues à l'article 121-2 du code pénal, des infractions prévues
-au présent article. Elles encourent la peine d'amende dans les conditions
-prévues à l'article 131-41 du code pénal.
+II.-(Abrogé).

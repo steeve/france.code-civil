@@ -8,4 +8,6 @@ du régime général de sécurité sociale assises sur les salaires. Les modalit
 transmission des déclarations aux régimes pour le compte desquels sont
 recouvrées ces cotisations et contributions et les modalités de répartition des
 versements correspondants font l'objet d'accords entre les organismes nationaux
-gérant ces régimes.A défaut d'accord, ces modalités sont fixées par décret.
+gérant ces régimes. A défaut d'accord, ces modalités sont fixées par décret. Les
+modalités déclaratives liées à l'utilisation du titre emploi-service entreprise
+sont fixées par décret.

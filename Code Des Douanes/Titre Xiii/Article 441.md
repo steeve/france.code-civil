@@ -1,10 +1,12 @@
 Article 441
 ----
-1. Dans le cas prévu à l'article 104-1 ci-dessus, il est dressé un acte à fin
-d'expertise et il est procédé au prélèvement des échantillons nécessaires à une
-expertise. Un décret fixe les conditions dans lesquelles le prélèvement est
-opéré et les cas où les échantillons peuvent être remplacés par certains
-documents.
+1. Dans le cas prévu au 1 de l'article 104, le service des douanes informe le
+déclarant que si le directeur général des douanes et droits indirects donne
+suite à la contestation, la commission de conciliation et d'expertise douanière
+sera consultée pour avis. Il est dressé un acte à fin d'expertise et il est
+procédé au prélèvement des échantillons nécessaires à une expertise. Ce
+prélèvement est effectué conformément aux modalités définies par les règlements
+communautaires en vigueur en cette matière.
 
 2. Il peut être offert ou demandé mainlevée des marchandises litigieuses non
 prohibées sous caution solvable, ou sous consignation, d'une somme qui peut

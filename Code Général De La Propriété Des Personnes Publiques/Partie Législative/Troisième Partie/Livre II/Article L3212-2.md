@@ -27,4 +27,9 @@ alloués, à peine d'être exclues du bénéfice des présentes mesures ;
 
 4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la
 recherche scientifiques, lorsqu'ils ont été remis, dans le cadre d'une
-convention de coopération, à un organisme assurant des missions de même nature.
+convention de coopération, à un organisme assurant des missions de même nature ;
+
+5° Les cessions des matériels informatiques et des logiciels nécessaires à leur
+utilisation, dont les services de l'Etat ou de l'un de ses établissements
+publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond
+fixé par décret, aux personnels des administrations concernées.

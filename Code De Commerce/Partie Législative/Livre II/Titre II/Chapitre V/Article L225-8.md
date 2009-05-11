@@ -4,7 +4,7 @@ En cas d'apports en nature comme au cas de stipulation d'avantages particuliers
 au profit de personnes associées ou non, un ou plusieurs commissaires aux
 apports sont désignés par décision de justice, à la demande des fondateurs ou de
 l'un d'entre eux. Ils sont soumis aux incompatibilités prévues à l'article L.
-225-224.
+822-11.
 
 Les commissaires apprécient, sous leur responsabilité, la valeur des apports en
 nature et les avantages particuliers. Le rapport déposé au greffe, avec le

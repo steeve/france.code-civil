@@ -6,10 +6,7 @@ Polynésie française sous réserve des adaptations prévues aux II et III.
 II.-Pour l'application de l'article L. 2321-2 :
 
 1° Au 2°, les mots : " recueil des actes administratifs du département " sont
-remplacés par les mots : " Journal officiel de la Polynésie française ", le mot
-: " canton " est remplacé par les mots : " subdivision administrative " et les
-mots : " conservation du Journal officiel " sont remplacés par les mots : "
-conservation du Journal officiel de la République française " ;
+remplacés par les mots : " Journal officiel de la Polynésie française " ;
 
 2° Au 3°, les mots : " au régime général de sécurité sociale en application de
 l'article L. 213-25-2, les cotisations aux régimes de retraites " sont remplacés

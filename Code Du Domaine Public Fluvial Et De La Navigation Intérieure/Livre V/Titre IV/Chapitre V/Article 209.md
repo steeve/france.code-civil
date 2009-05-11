@@ -10,13 +10,6 @@ amortissements ou les loyers des bateaux, les frais de péage, les frais de
 documents de transport, les timbres fiscaux et, pour les entreprises
 unipersonnelles, la rémunération du chef d'entreprise.
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les
-conditions prévues par l'article 121-2 du code pénal, de l'infraction prévue au
-présent article.
-
-La peine encourue par les personnes morales est l'amende suivant les modalités
-prévues à l'article 131-38 du code pénal.
-
 Les infractions sont recherchées et constatées dans les conditions prévues aux
 articles 45 (premier et troisième alinéas), 46, 47, 51 et 52 de l'ordonnance n°
 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la

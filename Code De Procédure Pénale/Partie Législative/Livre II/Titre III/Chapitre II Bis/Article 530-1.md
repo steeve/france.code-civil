@@ -16,7 +16,8 @@ alinéa de l'article 529-2 et le second alinéa de l'article 529-5.
 
 Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de
 relaxe, s'il a été procédé à la consignation prévue par cet article, le montant
-de la consignation est reversé, à sa demande, à la personne à qui avait été
-adressé l'avis de paiement de l'amende forfaitaire ou ayant fait l'objet des
-poursuites. En cas de condamnation, l'amende prononcée ne peut être inférieure
-au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %.
+de la consignation est reversé à la personne à qui avait été adressé l'avis de
+paiement de l'amende forfaitaire ou ayant fait l'objet des poursuites. Les
+modalités de ce remboursement sont définies par voie réglementaire. En cas de
+condamnation, l'amende prononcée ne peut être inférieure au montant prévu à
+l'alinéa précédent augmenté d'une somme de 10 %.

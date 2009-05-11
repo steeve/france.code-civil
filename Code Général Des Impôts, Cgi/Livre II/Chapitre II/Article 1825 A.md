@@ -22,7 +22,7 @@ c. soit fait l'objet d'une condamnation pour ivresse publique ou d'une
 condamnation en application des articles L. 234-1 et L. 234-8 du code de la
 route.
 
-d. soit fait l'objet d'une condamnation en application de l'article 312 du code
-pénal ou d'une mesure de déchéance ou du retrait du droit de garde en
-application des articles 1er et 2 de la loi du 24 juillet 1889 sur la protection
-des enfants maltraités ou moralement abandonnés.
+d. Soit fait l'objet d'une condamnation en application des articles 222-8,
+222-10, 222-12, 222-13, 222-14, 227-15 ou 227-16 du code pénal ou d'une mesure
+de retrait de l'autorité parentale en application des articles 378 ou 378-1 du
+code civil.

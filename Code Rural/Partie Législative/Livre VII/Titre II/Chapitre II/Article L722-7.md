@@ -9,6 +9,3 @@ activité agricole ne se réduise pas ultérieurement dans des proportions
 précisées par décret ; dans ce cas, la décision de maintien dans le régime est
 prise par les conseils d'administration des caisses de mutualité sociale
 agricole.
-
-Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté
-chaque année au comité départemental des prestations sociales agricoles.

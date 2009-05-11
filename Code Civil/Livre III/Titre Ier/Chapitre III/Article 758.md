@@ -9,7 +9,7 @@ duquel les héritiers cessent d'acquitter les prestations qu'ils fournissaient
 auparavant aux ascendants. Le délai se prolonge, en cas d'indivision, jusqu'à
 l'achèvement du partage.
 
-La pension est prélevée sur l'hérédité. Elle est supportée par tous les
+La pension est prélevée sur la succession. Elle est supportée par tous les
 héritiers et, en cas d'insuffisance, par tous les légataires particuliers,
 proportionnellement à leur émolument.
 

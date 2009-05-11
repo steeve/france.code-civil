@@ -7,18 +7,20 @@ construction, du terrain aménagé ou du lotissement, notamment en ce qui concer
 la voirie, l'alimentation en eau, gaz et électricité, les réseaux de
 télécommunication, l'évacuation et le traitement des eaux et matières usées,
 l'éclairage, les aires de stationnement, les espaces collectifs, les aires de
-jeux et les espaces plantés. Toutefois, en ce qui concerne le réseau électrique,
-le bénéficiaire du permis ou de la décision de non-opposition est redevable de
-la part de la contribution prévue au troisième alinéa du II de l'article 4 de la
-loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
-développement du service public de l'électricité, correspondant au branchement
-et à la fraction de l'extension du réseau située sur le terrain d'assiette de
-l'opération, au sens de cette même loi et des textes pris pour son application.
+jeux et les espaces plantés.
 
 Les obligations imposées par l'alinéa ci-dessus s'étendent au branchement des
 équipements propres à l'opération sur les équipements publics qui existent au
 droit du terrain sur lequel ils sont implantés et notamment aux opérations
 réalisées à cet effet en empruntant des voies privées ou en usant de servitudes.
+
+Toutefois, en ce qui concerne le réseau électrique, le bénéficiaire du permis ou
+de la décision de non-opposition est redevable de la part de la contribution
+prévue au troisième alinéa du II de l'article 4 de la loi n° 2000-108 du 10
+février 2000 (1) relative à la modernisation et au développement du service
+public de l'électricité, correspondant au branchement et à la fraction de
+l'extension du réseau située sur le terrain d'assiette de l'opération, au sens
+de cette même loi et des textes pris pour son application.
 
 L'autorisation peut également, avec l'accord du demandeur et dans les conditions
 définies par l'autorité organisatrice du service public de l'eau ou de
@@ -30,7 +32,7 @@ pas destinés à desservir d'autres constructions existantes ou futures.
 
 En cas de classement ultérieur dans la voirie et les réseaux publics, les
 travaux exigés au titre des équipements propres n'ouvrant pas droit à l'action
-en répétition prévue à l'article L. 332-6.
+en répétition prévue à l'article L. 332-30.
 
 L'autorité qui approuve le plan de remembrement peut imposer les mêmes
 obligations aux associations foncières urbaines de remembrement autorisées ou

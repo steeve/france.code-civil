@@ -18,12 +18,8 @@ L'autorité administrative peut prescrire ou faire effectuer la mise hors
 d'usage, aux frais du délinquant, du matériel avant sa mise aux enchères
 publiques.
 
-II.-Les personnes morales peuvent être déclarées responsables pénalement de ces
-infractions dans les conditions prévues par l'article 121-2 du code pénal.
-
-Les peines encourues par ces personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 1°, 2°, 4°, 5°, 8° et 9° de l'article 131-39 du
-code pénal.
+II.-Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies au présent
+article encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de
+l'article 131-39 du même code.

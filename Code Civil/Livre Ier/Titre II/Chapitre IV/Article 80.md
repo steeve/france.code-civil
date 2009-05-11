@@ -8,15 +8,14 @@ les registres. Cette disposition ne s'applique pas aux villes divisées en
 arrondissements, lorsque le décès est survenu dans un arrondissement autre que
 celui où le défunt était domicilié.
 
-En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux
-maritimes, civils, ou autres établissements publics, les directeurs,
-administrateurs ou maîtres de ces hôpitaux ou établissements devront en donner
-avis, dans les vingt-quatre heures, à l'officier de l'état civil ou à celui qui
-en remplit les fonctions.
+En cas de décès dans les établissements de santé et dans les établissements
+sociaux et médico-sociaux qui accueillent des personnes âgées, les directeurs en
+donnent avis, par tous moyens, dans les vingt-quatre heures, à l'officier de
+l'état civil. Dans ces établissements, un registre est tenu sur lequel sont
+inscrits les déclarations et renseignements portés à la connaissance de
+l'officier de l'état civil.
 
-Celui-ci s'y transportera pour s'assurer du décès et en dressera l'acte,
-conformément à l'article précédent, sur les déclarations qui lui auront été
-faites, et sur les renseignements qu'il aura pris.
-
-Il sera tenu, dans lesdits hôpitaux, formations sanitaires et établissements, un
-registre sur lequel seront inscrits ces déclarations et renseignements.
+En cas de difficulté, l'officier de l'état civil doit se rendre dans les
+établissements pour s'assurer, sur place, du décès et en dresser l'acte,
+conformément à l'article 79, sur la base des déclarations et renseignements qui
+lui sont communiqués.

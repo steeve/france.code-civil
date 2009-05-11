@@ -23,3 +23,6 @@ des investigations.
 Il n'est pas non plus applicable aux catégories d'expertises dont les
 conclusions n'ont pas d'incidence sur la détermination de la culpabilité de la
 personne mise en examen et dont la liste est fixée par décret.
+
+Les parties peuvent déclarer renoncer, en présence de leur avocat ou celui-ci
+dûment convoqué, à bénéficier des dispositions du présent article.

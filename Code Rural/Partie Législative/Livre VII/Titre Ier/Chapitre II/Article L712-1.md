@@ -1,13 +1,14 @@
 Article L712-1
 ----
-I. - L'employeur qui, au moment de l'embauche d'un salarié par contrat à durée
+I.-L'employeur qui, au moment de l'embauche d'un salarié par contrat à durée
 déterminée à l'exclusion des contrats visés à l'article L. 122-2 du code du
 travail, remet au salarié et adresse à la caisse de mutualité sociale agricole
-les parties qui leur sont respectivement destinées du document appelé "titre
-emploi simplifié agricole" est réputé satisfaire aux obligations prévues par les
-articles L. 122-3-1, L. 127-2, L. 127-9, L. 143-3, L. 212-4-3 et L. 320 du code
-du travail, et les articles L. 722-25, L. 741-3, L. 741-5 à L. 741-14, ainsi
-qu'aux déclarations au titre du service de santé au travail et du régime des
+les parties qui leur sont respectivement destinées du document appelé " titre
+emploi simplifié agricole " est réputé satisfaire aux obligations prévues par
+les articles L. 122-3-1, L. 127-2, L. 127-9, L. 143-3, L. 212-4-3 et L. 320 du
+code du travail, l'article 87 du code général des impôts, et les articles L.
+722-25, L. 741-3, L. 741-5 à L. 741-14 du présent code, ainsi qu'aux
+déclarations au titre du service de santé au travail et du régime des
 prestations mentionnées à l'article L. 351-2 du code du travail.
 
 L'inscription sur le registre unique du personnel est réputée accomplie lorsque
@@ -33,11 +34,16 @@ pensions, la mention des cotisations patronales de sécurité sociale, d'origine
 législative, réglementaire ou conventionnelle n'est pas obligatoire sur le titre
 emploi simplifié agricole.
 
-II. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
+Le présent article ne s'applique qu'aux contrats répondant à des conditions de
+durée et de niveau de rémunération fixées par le décret mentionné au II.
+
+II.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article et notamment les mentions qui doivent figurer sur le titre emploi
 simplifié agricole, les parties de ce document qui doivent comporter la
 signature du salarié, et les conditions et délais dans lesquels celles-ci sont
-remises à ses destinataires.
+remises à ses destinataires. Ce décret détermine les cas dans lesquels les
+formalités prévues au I et la délivrance du titre emploi simplifié agricole
+doivent être faites par voie électronique.
 
-III. - Un décret en Conseil d'Etat fixe les modalités de mise en oeuvre du titre
+III.-Un décret en Conseil d'Etat fixe les modalités de mise en oeuvre du titre
 emploi simplifié agricole dans les départements d'outre-mer.

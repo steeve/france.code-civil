@@ -1,12 +1,10 @@
 Article 443-8
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions prévues au présent
-chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies au présent chapitre
+encourent, outre l'amende suivant les modalités prévues par l'article 131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° Les peines mentionnées à l'article 131-39 ;
 

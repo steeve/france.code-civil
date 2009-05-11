@@ -10,8 +10,8 @@ d'analyses de biologie médicale doivent être immunisées contre la fièvre
 typhoïde.
 
 Un arrêté des ministres chargés de la santé et du travail, pris après avis du
-Conseil supérieur d'hygiène publique de France, détermine les catégories
-d'établissements et organismes concernés.
+Haut conseil de la santé publique, détermine les catégories d'établissements et
+organismes concernés.
 
 Tout élève ou étudiant d'un établissement préparant à l'exercice des professions
 médicales et des autres professions de santé dont la liste est déterminée par
@@ -25,6 +25,5 @@ les établissements ayant reçu leur inscription, prennent à leur charge les
 dépenses entraînées par ces vaccinations.
 
 Les conditions de l'immunisation prévue au présent article sont fixées par
-arrêté du ministre chargé de la santé pris après avis du Conseil supérieur
-d'hygiène publique de France et compte tenu, en particulier, des
-contre-indications médicales.
+arrêté du ministre chargé de la santé pris après avis du Haut conseil de la
+santé publique et compte tenu, en particulier, des contre-indications médicales.

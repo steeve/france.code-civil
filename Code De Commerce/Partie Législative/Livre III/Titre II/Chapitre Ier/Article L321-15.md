@@ -16,9 +16,9 @@ n'a pas procédé à la déclaration prévue à l'article L. 321-24 ;
 l'article L. 321-8 ou est frappée d'une interdiction à titre temporaire ou
 définitif de diriger de telles ventes.
 
-II. - Les personnes physiques coupables de l'une des infractions aux
-dispositions prévues au présent article encourent également les peines
-complémentaires suivantes :
+II.-Les personnes physiques coupables de l'une des infractions aux dispositions
+prévues au présent article encourent également les peines complémentaires
+suivantes :
 
 1° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction
 publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
@@ -30,14 +30,11 @@ prévues par l'article 131-35 du code pénal ;
 3° La confiscation des sommes ou objets irrégulièrement reçus par l'auteur de
 l'infraction, à l'exception des objets susceptibles de restitution.
 
-III. - Les personnes morales peuvent être déclarées responsables pénalement,
-dans les conditions prévues par l'article 121-2 du code pénal, des infractions
-définies au présent article. Les peines encourues par les personnes morales sont
-:
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Pour une durée de cinq ans au plus, les peines mentionnées aux 1°, 2°, 3°,
-4°, 8° et 9° de l'article 131-39 du code pénal. L'interdiction mentionnée au 2°
-du même article porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise.
+III.-Les personnes morales déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies
+par le présent article encourent, outre l'amende suivant les modalités prévues
+par l'article 131-38 du code pénal, pour une durée de cinq ans au plus, les
+peines mentionnées aux 1° à 4°, 8° et 9° de l'article 131-39 du même
+code.L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
+l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise.

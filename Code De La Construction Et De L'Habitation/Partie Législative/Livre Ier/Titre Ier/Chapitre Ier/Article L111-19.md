@@ -1,25 +1,8 @@
 Article L111-19
 ----
-La réception est l'acte par lequel le maître de l'ouvrage déclare accepter
-l'ouvrage avec ou sans réserves. Elles intervient à la demande de la partie la
-plus diligente soit à l'amiable, soit, à défaut, judiciairement. Elle est, en
-tout état de cause, prononcée contradictoirement.
-
-La garantie de parfait achèvement, à laquelle l'entrepreneur est tenu pendant un
-délai d'un an à compter de la réception s'étend à la réparation de tous les
-désordres signalés par le maître de l'ouvrage, soit au moyen de réserves
-mentionnées au procès-verbal de réception, soit par voie de notification écrite
-pour ceux révélés postérieurement à la réception.
-
-Les délais nécessaires à l'éxécution des travaux de réparation sont fixés d'un
-commun accord par le maître de l'ouvrage et l'entrepreneur concerné.
-
-En l'absence d'un tel accord ou en cas d'inexécution dans le délai fixé, les
-travaux peuvent, après mise en demeure restée infructueuse, être exécutés aux
-frais et risques de l'entrepreneur défaillant.
-
-L'éxécution des travaux exigés au titre de la garantie de parfait achèvement est
-constatée d'un commun accord, ou, à défaut, judiciairement.
-
-La garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets de
-l'usure normale ou de l'usage.
+Les actions en responsabilité dirigées contre un sous-traitant en raison de
+dommages affectant un ouvrage ou des éléments d'équipement d'un ouvrage
+mentionnés aux articles 1792 et 1792-2 du code civil se prescrivent par dix ans
+à compter de la réception des travaux et, pour les dommages affectant ceux des
+éléments d'équipement de l'ouvrage mentionnés à l'article 1792-3 du code civil,
+par deux ans à compter de cette même réception.

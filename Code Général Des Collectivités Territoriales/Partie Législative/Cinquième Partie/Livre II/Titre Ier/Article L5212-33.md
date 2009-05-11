@@ -12,12 +12,13 @@ b) Soit par le consentement de tous les conseils municipaux intéressés.
 
 Il peut être dissous :
 
-a) Soit sur la demande motivée de la majorité de ces conseils municipaux et
-l'avis de la commission permanente du conseil général par arrêté du ou des
-représentants de l'Etat dans le ou les départements concernés ;
+a) Soit sur la demande motivée de la majorité de ces conseils municipaux par
+arrêté du ou des représentants de l'Etat dans le ou les départements concernés ;
 
-b) Soit d'office par un décret rendu sur l'avis conforme du conseil général et
-du Conseil d'Etat.
+b) Soit d'office par un décret rendu sur l'avis conforme du Conseil d'Etat.
+
+Une copie de l'arrêté ou du décret de dissolution est adressée au conseil
+général pour information.
 
 L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions
 de l'article L. 5211-25-1 et sous la réserve des droits des tiers, les

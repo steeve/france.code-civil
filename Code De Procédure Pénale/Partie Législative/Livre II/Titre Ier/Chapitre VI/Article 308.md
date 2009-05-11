@@ -16,11 +16,12 @@ de la cour d'assises.
 
 L'enregistrement sonore audiovisuel peut être utilisé devant la cour d'assises,
 jusqu'au prononcé de l'arrêt ; s'il l'est au cours de la délibération, les
-formalités prévues au troisième alinéa de l'article 347 sont applicables.
-L'enregistrement sonore ou audiovisuel peut également être utilisé devant la
-cour d'assises statuant en appel, devant la Cour de cassation saisie d'une
-demande en révision, ou, après cassation ou annulation sur demande en révision,
-devant la juridiction de renvoi.
+formalités prévues au troisième alinéa de l'article 347 sont
+applicables.L'enregistrement sonore ou audiovisuel peut également être utilisé
+devant la cour d'assises statuant en appel, devant la commission de révision de
+la Cour de cassation, devant la Cour de cassation saisie d'une demande en
+révision, ou, après cassation ou annulation sur demande en révision, devant la
+juridiction de renvoi.
 
 Les scellés sont ouverts par le premier président ou par un magistrat délégué
 par lui, en présence du condamné assisté de son avocat, ou eux dûment appelés,

@@ -1,12 +1,10 @@
 Article 311-16
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies au présent
-chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies au présent chapitre
+encourent, outre l'amende suivant les modalités prévues par l'article 131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° La peine mentionnée au 2° de l'article 131-39, à titre définitif ou
 provisoire dans les cas prévus aux articles 311-6 à 311-10 et pour une durée de

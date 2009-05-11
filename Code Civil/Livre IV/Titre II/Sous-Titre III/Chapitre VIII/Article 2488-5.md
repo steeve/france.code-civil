@@ -4,10 +4,11 @@ La propriété cédée en application de l'article 2488-1 peut être ultérieure
 affectée à la garantie de dettes autres que celles mentionnées par l'acte
 constitutif pourvu que celui-ci le prévoie expressément.
 
-Le constituant peut alors l'offrir en garantie non seulement au créancier
-originaire, mais aussi à un nouveau créancier, encore que le premier n'ait pas
-été payé. Cette propriété ne peut être alors affectée en garantie d'une nouvelle
-dette que dans la limite de sa valeur estimée au jour de la recharge.
+Le constituant peut l'offrir en garantie, non seulement au créancier originaire,
+mais aussi à un nouveau créancier, encore que le premier n'ait pas été payé.
+Lorsque le constituant est une personne physique, le patrimoine fiduciaire ne
+peut alors être affecté en garantie d'une nouvelle dette que dans la limite de
+sa valeur estimée au jour de la recharge.
 
 A peine de nullité, la convention de rechargement établie selon les dispositions
 de l'article 2488-2 est publiée sous la forme prévue à l'article 2019. La date

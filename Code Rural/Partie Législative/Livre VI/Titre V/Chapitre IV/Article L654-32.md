@@ -23,7 +23,8 @@ c) N'ont pas affecté, pour chaque période d'application du régime du
 prélèvement, à chacun des producteurs qui leur livrent du lait, la quantité de
 référence et le taux de référence de matière grasse individuelles dont ces
 producteurs disposent, ou n'ont pas attribué, conformément aux normes
-réglementaires en vigueur, les avoirs ou les remboursements de prélèvement ;
+réglementaires en vigueur, les avoirs ou les remboursements de prélèvement, les
+allocations provisoires ou les prêts de quantités de référence ;
 
 d) N'ont pas communiqué aux représentants de l'Etat dans les départements dans
 lesquels ils collectent du lait et au directeur général de l'établissement
@@ -70,7 +71,7 @@ relatives aux producteurs qui changent d'acheteur ;
 k) N'ont pas déclaré à l'établissement mentionné à l'article L. 621-1, dans les
 délais et les formes réglementaires, les informations complètes et exploitables
 relatives aux producteurs n'ayant pas utilisé, durant deux campagnes
-successives,70 % au moins de la quantité individuelle de référence dont ils
+successives, 70 % au moins de la quantité individuelle de référence dont ils
 disposent, notamment les volumes de lait que ces producteurs ont livrés, en
 tenant compte du taux de matière grasse ;
 

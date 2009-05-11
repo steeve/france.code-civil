@@ -40,7 +40,12 @@ l'article L. 522-13.
 III.-Les personnes physiques encourent également les peines complémentaires
 définies à l'article L. 521-21 du présent code.
 
-IV.-Les personnes morales peuvent être déclarées responsables, dans les
-conditions prévues à l'article 121-2 du code pénal, des infractions définies aux
-alinéas précédents. Elles encourent les peines applicables aux personnes morales
-et définies à l'article L. 521-21 du présent code.
+IV.-Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies au présent
+article encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par les 2° à 6°, 8° et 9° de l'article
+131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
+l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise.

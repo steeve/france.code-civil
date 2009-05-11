@@ -2,8 +2,7 @@ Article 63
 ----
 Sont considérés comme bénéfices de l'exploitation agricole pour l'application de
 l'impôt sur le revenu, les revenus que l'exploitation de biens ruraux procure
-soit aux fermiers, métayers, colons partiaires, soit aux propriétaires
-exploitant eux-mêmes.
+soit aux fermiers, métayers, soit aux propriétaires exploitant eux-mêmes.
 
 Ces bénéfices comprennent notamment ceux qui proviennent de la production
 forestière, même si les propriétaires se bornent à vendre les coupes de bois sur

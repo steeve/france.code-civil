@@ -9,6 +9,12 @@ la requête. Dans les autres cas, le mandat d'arrêt européen est exécuté au 
 la transmission effectuée dans les conditions prévues au deuxième alinéa de
 l'article 695-15.
 
+L'article 74-2 est applicable à la recherche d'une personne faisant l'objet d'un
+mandat d'arrêt européen. Les attributions du procureur de la République et du
+juge des libertés et de la détention sont alors respectivement exercées par le
+procureur général et le président de la chambre de l'instruction ou le
+conseiller par lui désigné.
+
 Si le procureur général auquel un mandat d'arrêt européen a été adressé estime
 qu'il n'est pas territorialement compétent pour y donner suite, il le transmet
 au procureur général territorialement compétent et en informe l'autorité

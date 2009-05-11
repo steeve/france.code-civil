@@ -24,7 +24,4 @@ ferme" ;
 
 - les termes "produits pays" dans les départements d'outre-mer ;
 
-- la dénomination "vin de pays", suivie d'une zone de production ou d'un
-département ;
-
 3° La démarche de certification des produits.

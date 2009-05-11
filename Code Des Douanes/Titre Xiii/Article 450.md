@@ -8,7 +8,9 @@ ter, 65 et 334 ci-dessus :
 a) l'une ou l'autre partie peuvent, dans les deux mois suivant notification de
 l'acte administratif de constatation de l'infraction, consulter pour avis la
 commission de conciliation et d'expertise douanière, laquelle dispose, à cet
-effet, des pouvoirs définis à l'article 445-1 ci-dessus ;
+effet, des pouvoirs définis à l'article 445-1 ci-dessus. Le service des douanes
+informe le déclarant de cette possibilité lors de la notification du
+procès-verbal de constatation de l'infraction ;
 
 b) la partie qui a pris l'initiative de cette consultation informe simultanément
 l'autre partie ou son représentant du recours à cette consultation ;

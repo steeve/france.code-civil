@@ -6,7 +6,11 @@ législation relative aux cotisations et aux contributions de sécurité sociale
 la possibilité, sans préjudice des autres recours, de solliciter l'intervention
 de l'Agence centrale des organismes de sécurité sociale en ce qui concerne
 l'appréciation portée sur sa situation par les organismes de recouvrement visés
-aux articles L. 213-1 et L. 752-4.
+aux articles L. 213-1 et L. 752-4. Cette possibilité est ouverte également à un
+cotisant appartenant à un ensemble de personnes entre lesquelles un lien de
+dépendance ou de contrôle existe, au sens des articles L. 233-1 et L. 233-3 du
+code de commerce, en cas d'interprétations contradictoires concernant toute
+autre entreprise ou personne morale appartenant à ce même ensemble.
 
 A la suite de l'analyse du litige, l'agence centrale peut demander aux
 organismes d'adopter une position dans un délai d'un mois. A l'expiration de ce

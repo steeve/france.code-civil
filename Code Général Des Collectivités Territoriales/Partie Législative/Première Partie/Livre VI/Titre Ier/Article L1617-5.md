@@ -42,6 +42,15 @@ effectué le versement qui lui était demandé à la date limite du paiement, le
 comptable chargé du recouvrement doit lui envoyer une lettre de rappel avant la
 notification du premier acte de poursuite devant donner lieu à des frais.
 
+En application de l'article 4 de la loi n° 2000-321 du 12 avril 2000 relative
+aux droits des citoyens dans leurs relations avec les administrations, le titre
+de recettes individuel ou l'extrait du titre de recettes collectif mentionne les
+nom, prénoms et qualité de la personne qui l'a émis ainsi que les voies et
+délais de recours.
+
+Seul le bordereau de titres de recettes est signé pour être produit en cas de
+contestation.
+
 5° Le recouvrement par les comptables directs du Trésor des titres rendus
 exécutoires dans les conditions prévues au présent article peut être assuré par
 voie d'opposition à tiers détenteur adressée aux personnes physiques ou morales
@@ -105,18 +114,8 @@ sécurité sociale, ainsi que des organismes ou particuliers assurant des
 prestations de services à caractère juridique, financier ou comptable, ou la
 détention de biens ou de fonds pour le compte de débiteurs.
 
-7° Lorsque la dette visée au 5° est supérieure au montant mentionné au deuxième
-alinéa du 5° et que le comptable direct du Trésor est autorisé par des
-dispositions législatives ou réglementaires à procéder au recouvrement forcé
-d'une créance, ce comptable doit, préalablement à la mise en oeuvre de
-l'opposition à tiers détenteur, demander à un huissier de justice d'obtenir du
-débiteur, dans un délai fixé par décret en Conseil d'Etat, qu'il s'acquitte
-entre ses mains du montant de sa dette.
-
-Dans ce cas, les frais de recouvrement sont versés directement par le redevable
-à l'huissier de justice.
-
-Le montant des frais perçus par l'huissier de justice est calculé par
-application d'un taux proportionnel au montant des sommes recouvrées, fixé par
-un arrêté conjoint du ministre de l'économie, des finances et de l'industrie et
-du ministre de la justice.
+En complément de ce droit de communication, les comptables directs du Trésor
+chargés du recouvrement d'une créance dont l'assiette est établie et qui est
+liquidée par une collectivité territoriale ou l'un de ses établissements publics
+disposent d'un droit d'accès aux fichiers utilisés par les services en charge de
+l'établissement de l'assiette et du recouvrement des impôts.

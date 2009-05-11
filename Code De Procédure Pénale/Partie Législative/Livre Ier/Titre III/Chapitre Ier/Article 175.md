@@ -11,7 +11,7 @@ l'intéressé.
 Le procureur de la République dispose alors d'un délai d'un mois si une personne
 mise en examen est détenue ou de trois mois dans les autres cas pour adresser
 ses réquisitions motivées au juge d'instruction. Copie de ces réquisitions est
-adressée dans le même temps aux avocats des parties par lettre recommandée.
+adressée dans le même temps aux avocats des parties par lettre recommandée (1).
 
 Les parties disposent de ce même délai d'un mois ou de trois mois à compter de
 l'envoi de l'avis prévu au premier alinéa pour adresser des observations écrites
@@ -21,9 +21,9 @@ de la République.
 
 Dans ce même délai d'un mois ou de trois mois, les parties peuvent formuler des
 demandes ou présenter des requêtes sur le fondement des articles 81, neuvième
-alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa. A l'expiration de
-ce délai, elles ne sont plus recevables à formuler ou présenter de telles
-demandes ou requêtes.
+alinéa, 82-1,156, premier alinéa, et 173, troisième alinéa. A l'expiration de ce
+délai, elles ne sont plus recevables à formuler ou présenter de telles demandes
+ou requêtes.
 
 A l'issue du délai d'un mois ou de trois mois, le procureur de la République et
 les parties disposent d'un délai de dix jours si une personne mise en examen est
@@ -38,3 +38,6 @@ reçu de réquisitions ou d'observations dans le délai prescrit.
 Les premier, troisième et cinquième alinéas et, s'agissant des requêtes en
 nullité, le quatrième alinéa du présent article sont également applicables au
 témoin assisté.
+
+Les parties peuvent déclarer renoncer, en présence de leur avocat ou celui-ci
+dûment convoqué, à bénéficier des délais prévus par le présent article.

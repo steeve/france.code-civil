@@ -7,7 +7,7 @@ pressoir public à ses caves ou celliers ou de l'une à l'autre de ses caves, da
 l'étendue du canton de récolte et des cantons limitrophes ou hors de ces limites
 territoriales s'il s'agit d'un changement de domicile ;
 
-2° Les boissons de même espèce qu'un colon partiaire, fermier ou preneur à bail
+2° Les boissons de même espèce qu'un métayer, fermier ou preneur à bail
 emphytéotique à rente remet au propriétaire ou reçoit de lui dans les mêmes
 limites en vertu de baux authentiques ou d'usages notoires.
 

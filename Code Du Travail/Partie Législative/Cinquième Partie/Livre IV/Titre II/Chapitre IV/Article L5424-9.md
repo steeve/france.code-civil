@@ -5,4 +5,4 @@ représentant sur le chantier après consultation des délégués du personnel.
 
 Lorsque les travaux sont exécutés pour le compte d'une administration, d'une
 collectivité publique, d'un service concédé ou subventionné, le représentant du
-maître d'oeuvre sur le chantier peut s'opposer à l'arrêt du travail.
+maître d'ouvrage sur le chantier peut s'opposer à l'arrêt du travail.

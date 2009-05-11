@@ -9,11 +9,7 @@ I. - Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende :
 d'une notification d'intention de réquisitionner, dans le but de faire obstacle
 à une réquisition avec attributaire.
 
-II. - Les personnes morales peuvent être déclarées pénalement responsables dans
-les conditions prévues par l'article 121-2 du code pénal.
-
-Elles encourent une peine d'amende, suivant les modalités prévues par l'article
-131-38 du même code.
+II. - (Abrogé).
 
 III. - Le tribunal peut également ordonner que les travaux de remise en état
 seront exécutés aux frais du condamné.

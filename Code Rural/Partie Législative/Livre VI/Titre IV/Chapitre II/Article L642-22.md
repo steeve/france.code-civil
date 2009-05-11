@@ -7,18 +7,19 @@ savoir-faire ainsi que des produits qui en sont issus.
 Pour chaque produit bénéficiant d'un signe d'identification de la qualité et de
 l'origine dont il assure la défense et la gestion, l'organisme :
 
-- élabore le projet de cahier des charges, contribue à son application par les
+-élabore le projet de cahier des charges, contribue à son application par les
 opérateurs et participe à la mise en oeuvre des plans de contrôle et
-d'inspection ;
+d'inspection, notamment en réalisant les contrôles internes qu'ils prévoient
+auprès des opérateurs ;
 
-- tient à jour la liste des opérateurs, qu'il transmet périodiquement à
+-tient à jour la liste des opérateurs, qu'il transmet périodiquement à
 l'organisme de contrôle et à l'Institut national de l'origine et de la qualité ;
 
-- participe aux actions de défense et de protection du nom, du produit et du
+-participe aux actions de défense et de protection du nom, du produit et du
 terroir, à la valorisation du produit ainsi qu'à la connaissance statistique du
 secteur ;
 
-- met en oeuvre les décisions du comité national qui le concernent.
+-met en oeuvre les décisions du comité national qui le concernent.
 
 Il peut se livrer à d'autres activités en rapport avec les missions de gestion
 et de défense du signe d'identification de la qualité et de l'origine qui lui

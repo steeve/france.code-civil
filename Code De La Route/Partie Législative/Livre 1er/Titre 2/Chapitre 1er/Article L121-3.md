@@ -18,5 +18,7 @@ inscription au casier judiciaire, ne peut être prise en compte pour la récidiv
 et n'entraîne pas retrait des points affectés au permis de conduire. Les règles
 sur la contrainte judiciaire ne sont pas applicables au paiement de l'amende.
 
-Les deuxième et troisième alinéas de l'article L. 121-2 sont applicables dans
-les mêmes circonstances.
+Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une
+personne morale, la responsabilité pécuniaire prévue au premier alinéa incombe,
+sous les réserves prévues au premier alinéa de l'article L. 121-2, au
+représentant légal de cette personne morale.

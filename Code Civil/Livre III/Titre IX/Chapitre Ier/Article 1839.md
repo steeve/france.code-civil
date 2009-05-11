@@ -4,7 +4,7 @@ Si les statuts ne contiennent pas toutes les énonciations exigées par la
 législation ou si une formalité prescrite par celle-ci a été omise ou
 irrégulièrement accomplie, tout intéressé est recevable à demander en justice
 que soit ordonnée, sous astreinte, la régularisation de la constitution. Le
-ministère public est habile à agir aux mêmes fins.
+ministère public peut agir aux mêmes fins.
 
 Les mêmes règles sont applicables en cas de modification des statuts.
 

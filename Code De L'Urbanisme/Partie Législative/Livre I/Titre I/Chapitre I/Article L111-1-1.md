@@ -44,3 +44,15 @@ Les dispositions des directives territoriales d'aménagement qui précisent les
 modalités d'application des articles L. 145-1 et suivants sur les zones de
 montagne et des articles L. 146-1 et suivants sur les zones littorales
 s'appliquent aux personnes et opérations qui y sont mentionnées.
+
+Une directive territoriale d'aménagement peut être modifiée par le représentant
+de l'Etat dans la région ou, en Corse, par le représentant de l'Etat dans la
+collectivité territoriale de Corse lorsque la modification ne porte pas atteinte
+à l'économie générale de la directive. Le projet de modification est soumis par
+le représentant de l'Etat dans le département à enquête publique dans les
+conditions définies par le chapitre III du titre II du livre Ier du code de
+l'environnement. Lorsque la modification ne porte que sur un ou plusieurs
+établissements publics de coopération intercommunale compétents en matière de
+plan local d'urbanisme ou sur une ou plusieurs communes non membres d'un tel
+établissement public, l'enquête publique peut n'être organisée que sur le
+territoire de ces établissements publics ou de ces communes.

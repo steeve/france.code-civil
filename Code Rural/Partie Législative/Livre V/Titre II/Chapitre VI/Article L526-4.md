@@ -9,7 +9,7 @@ associés dont le projet doit faire l'objet.
 
 Le projet de fusion ou de scission est soumis à l'assemblée générale
 extraordinaire des associés de chaque coopérative agricole ou union de
-coopératives agricoles qui participe à l'opération. L'assemblée générale
+coopératives agricoles qui participe à l'opération.L'assemblée générale
 extraordinaire est réunie dans les conditions de convocation et de quorum
 applicables aux assemblées générales extraordinaires qui décident les
 modifications de statuts autres que celles prévues à l'article L. 523-2. Elle
@@ -19,5 +19,5 @@ présents ou représentés.
 Un rapport spécial de révision sur l'opération envisagée est établi dans des
 conditions fixées par décret en Conseil d'Etat ; ce rapport indique notamment
 les effets de l'opération sur les engagements statutaires de tout ou partie des
-associés ou adhérents, coopérateurs ou non, de la société coopérative ou de
-l'union de coopératives agricoles.
+associés, coopérateurs ou non, de la société coopérative ou de l'union de
+coopératives agricoles.

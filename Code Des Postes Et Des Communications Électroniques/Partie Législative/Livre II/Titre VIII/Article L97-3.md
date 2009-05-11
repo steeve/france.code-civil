@@ -7,13 +7,11 @@ l'autorisation prévue à l'article L. 97-2, ou de poursuivre cette exploitation
 en violation d'une décision de suspension ou de retrait ou d'un constat de
 caducité de cette autorisation.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2 du code pénal, des infractions définies
-au présent article. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines prévues aux 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies au présent
+article encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par les 4°, 5°, 8° et 9° de l'article
+131-39 du même code.
 
 Les fonctionnaires et agents de l'administration des communications
 électroniques et de l'Agence nationale des fréquences mentionnés à l'article L.

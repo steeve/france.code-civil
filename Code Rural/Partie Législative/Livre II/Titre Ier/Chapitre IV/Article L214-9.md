@@ -1,8 +1,8 @@
 Article L214-9
 ----
 Dans les conditions fixées par arrêté du ministre de l'agriculture, tout
-propriétaire ou détenteur d'animaux non mentionnés à l'article L. 234-1 et
-destinés à la production de laine, de peau, de fourrure ou à d'autres fins
+propriétaire ou détenteur d'animaux non mentionnés au II de l'article L. 234-1
+et destinés à la production de laine, de peau, de fourrure ou à d'autres fins
 agricoles doit tenir un registre d'élevage, conservé sur place et régulièrement
 mis à jour, sur lequel il recense chronologiquement les données sanitaires,
 zootechniques et médicales relatives aux animaux.

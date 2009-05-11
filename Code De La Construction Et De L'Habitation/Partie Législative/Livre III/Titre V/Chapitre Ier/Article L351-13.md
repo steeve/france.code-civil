@@ -8,7 +8,7 @@ indûment versées.
 
 S'il s'agit d'un administrateur de biens, les peines applicables sont un
 emprisonnement de six mois et une amende de 18 000 euros ou l'un de ces deux
-peines seulement. En cas de récidive, ces peines peuvent être portées au double.
+peines seulement.
 
 Le tribunal peut, en outre, dans les cas prévus aux deux alinéas qui précèdent,
 prononcer, pour une durée n'excédant pas deux ans, l'interdiction de passer les

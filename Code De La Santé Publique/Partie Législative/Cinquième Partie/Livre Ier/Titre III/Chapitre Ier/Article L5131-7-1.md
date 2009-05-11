@@ -12,8 +12,9 @@ compositions parfumantes et les parfums, ces informations sont limitées à leur
 nom, à leurs numéros de code et à l'identité de leur fournisseur ;
 
 2° Les quantités de substances dangereuses mentionnées au 1° de l'article L.
-5132-1, à l'article L. 1342-2 ainsi que celles définies au titre III du livre II
-du code du travail qui entrent dans la composition de ce produit ;
+5132-1, à l'article L. 1342-2 ainsi que celles définies au chapitre Ier du titre
+Ier du livre IV de la quatrième partie du code du travail qui entrent dans la
+composition de ce produit ;
 
 3° Les données existantes en matière d'effets indésirables pour la santé humaine
 résultant de son utilisation.

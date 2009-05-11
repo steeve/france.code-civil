@@ -6,6 +6,7 @@ premier président de la cour d'appel, saisi dans les mêmes conditions, constat
 cet état de fait et fixe la date à compter de laquelle les affaires seront à
 nouveau portées devant ce conseil.
 
-Le conseil de prud'hommes ou le tribunal d'instance, désigné par le premier
-président de la cour d'appel, demeure cependant saisi des affaires qui lui ont
-été soumises.
+Le premier président précise également la date à compter de laquelle les
+affaires qui ont été provisoirement transférées à un autre conseil de
+prud'hommes ou à un tribunal d'instance seront soumises au conseil de
+prud'hommes compétent pour en connaître.

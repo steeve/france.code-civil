@@ -17,13 +17,15 @@ reçu la lettre recommandée de l'huissier, l'exploit déposé à l'étude de
 l'huissier de justice produit les mêmes effets que s'il avait été délivré à
 personne.
 
-L'huissier peut également envoyer à l'intéressé par lettre simple une copie de
-l'acte ou laisser à son domicile un avis de passage invitant l'intéressé à se
-présenter à son étude afin de retirer la copie de l'exploit contre récépissé ou
-émargement. La copie et l'avis de passage sont accompagnés d'un récépissé que le
-destinataire est invité à réexpédier par voie postale ou à déposer à l'étude de
-l'huissier, revêtu de sa signature. Lorsque l'huissier laisse un avis de
-passage, il adresse également une lettre simple à la personne.
+L'huissier peut également, à la place de la lettre recommandée avec demande
+d'avis de réception mentionnée aux précédents alinéas, envoyer à l'intéressé par
+lettre simple une copie de l'acte ou laisser à son domicile un avis de passage
+invitant l'intéressé à se présenter à son étude afin de retirer la copie de
+l'exploit contre récépissé ou émargement. La copie et l'avis de passage sont
+accompagnés d'un récépissé que le destinataire est invité à réexpédier par voie
+postale ou à déposer à l'étude de l'huissier, revêtu de sa signature. Lorsque
+l'huissier laisse un avis de passage, il adresse également une lettre simple à
+la personne.
 
 Lorsque ce récépissé a été renvoyé, l'exploit déposé à l'étude de l'huissier de
 justice produit les mêmes effets que s'il avait été remis à personne.

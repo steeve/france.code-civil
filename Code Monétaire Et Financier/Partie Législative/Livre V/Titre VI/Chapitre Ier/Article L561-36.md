@@ -35,11 +35,11 @@ Pour la mise en œuvre du b du 1° du présent article, les articles L. 571-4, L
 613-20-1 et L. 613-20-2 sont applicables au groupe de la Caisse des dépôts et
 consignations et à ses dirigeants ;
 
-2° Par l'Autorité des marchés financiers sur les organismes de placement
-collectif mentionnés au I de l'article L. 214-1, sur les sociétés de gestions de
-portefeuille mentionnées à l'article L. 532-9, sur les dépositaires centraux et
-les gestionnaires de systèmes de règlement et de livraison d'instruments
-financiers et sur les conseillers en investissements financiers ;
+2° Par l'Autorité des marchés financiers sur les sociétés de gestion et les
+sociétés de gestion de portefeuille, au titre de leurs activités mentionnées au
+6° de l'article L. 561-2, sur les dépositaires centraux et les gestionnaires de
+systèmes de règlement et de livraison d'instruments financiers et sur les
+conseillers en investissements financiers ;
 
 3° Par l'Autorité de contrôle des assurances et mutuelles sur les organismes et
 les personnes qui lui sont soumis en vertu de l'article L. 310-12 du code des
@@ -106,3 +106,15 @@ collectivités territoriales, des établissements publics, des organismes
 mentionnés à l'article L. 134-1 du code des juridictions financières et de tout
 autre organisme ou personne chargé d'une mission de service public toutes les
 informations nécessaires à l'accomplissement de leur mission.
+
+III.-Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence
+dans l'organisation de ses procédures internes de contrôle, une personne
+mentionnée aux 1° à 7° et 11° à 14° de l'article L. 561-2 a omis de respecter
+les obligations découlant du présent titre, l'autorité de contrôle engage une
+procédure sur le fondement des règlements professionnels ou administratifs et en
+avise le procureur de la République.
+
+Par dérogation, pour les avocats au Conseil d'Etat et à la Cour de cassation,
+les avocats et les avoués près les cours d'appel, cet avis est adressé, selon le
+cas, au procureur général près la Cour de cassation ou au procureur général près
+la cour d'appel.

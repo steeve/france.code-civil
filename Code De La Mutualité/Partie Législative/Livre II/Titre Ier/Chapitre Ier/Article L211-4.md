@@ -9,3 +9,7 @@ personnes garanties.
 Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles
 une mutuelle ou une union peut se réassurer auprès d'entreprises non régies par
 le présent code ou transférer des risques à un véhicule de titrisation.
+
+La présence d'opérations relevant de la réassurance financière limitée est
+explicitement mentionnée dans l'intitulé des contrats régissant ce type
+d'opérations.

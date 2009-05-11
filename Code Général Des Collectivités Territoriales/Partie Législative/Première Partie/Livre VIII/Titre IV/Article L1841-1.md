@@ -9,5 +9,10 @@ II.-Pour l'application de l'article L. 1311-1, les mots : " à l'article L.
 les conditions fixées aux articles L. 3112-2 et L. 3112-3 du même code " sont
 remplacés par les mots : " par la réglementation applicable localement ".
 
-III.-Pour l'application de l'article L. 1311-13, les mots : ", les présidents
-des conseils généraux et les présidents des conseils régionaux " sont supprimés.
+III.-Pour l'application de l'article L. 1311-13 :
+
+1° Au premier alinéa, les mots : ", les présidents des conseils généraux et les
+présidents des conseils régionaux " sont supprimés ;
+
+2° Au dernier alinéa, les mots : " collectivité territoriale " sont remplacés
+par le mot : " commune ".

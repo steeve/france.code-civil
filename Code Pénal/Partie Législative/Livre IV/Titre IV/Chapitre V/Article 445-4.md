@@ -1,12 +1,11 @@
 Article 445-4
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux articles
-445-1 et 445-2.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies aux articles 445-1 et
+445-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°,
 5°, 6° et 7° de l'article 131-39.

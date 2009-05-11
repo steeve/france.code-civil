@@ -61,13 +61,15 @@ cause ;
 4° L'affichage de la décision prononcée ou la diffusion de celle-ci dans les
 conditions prévues à l'article 131-35 du code pénal.
 
-IV.-Lorsque la confiscation est prononcée, le tribunal peut ordonner que la
-destruction des substances ou préparations soit à la charge de la personne
-condamnée.
+IV. - Les personnes morales déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies
+au présent article encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38 du code pénal, les peines prévues par les 2° à 6°, 8° et 9° de
+l'article 131-39 du même code.
 
-V.-Les personnes morales peuvent être déclarées responsables, dans les
-conditions prévues à l'article 121-2 du code pénal, des infractions définies aux
-alinéas précédents.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
+l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise.
 
 VI.-Les personnes morales encourent :
 

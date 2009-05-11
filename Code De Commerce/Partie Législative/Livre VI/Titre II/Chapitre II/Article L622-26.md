@@ -1,6 +1,6 @@
 Article L622-26
 ----
-A défaut de déclaration dans des délais fixés par décret en Conseil d'Etat, les
+A défaut de déclaration dans les délais prévus à l'article L. 622-24, les
 créanciers ne sont pas admis dans les répartitions et les dividendes à moins que
 le juge-commissaire ne les relève de leur forclusion s'ils établissent que leur
 défaillance n'est pas due à leur fait ou qu'elle est due à une omission
@@ -11,7 +11,7 @@ distributions postérieures à leur demande.
 Les créances non déclarées régulièrement dans ces délais sont inopposables au
 débiteur pendant l'exécution du plan et après cette exécution lorsque les
 engagements énoncés dans le plan ou décidés par le tribunal ont été tenus.
-Pendant l'exécution du plan, ell es sont également inopposables aux personnes
+Pendant l'exécution du plan, elles sont également inopposables aux personnes
 physiques coobligées ou ayant consenti une sûreté personnelle ou ayant affecté
 ou cédé un bien en garantie.
 

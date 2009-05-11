@@ -16,4 +16,4 @@ de 2 000 habitants donne lieu à délibération motivée du conseil municipal
 portant sur les conditions de la vente et ses caractéristiques essentielles. Le
 conseil municipal délibère au vue de l'avis de l'autorité compétente de l'Etat.
 Cet avis est réputé donné à l'issue d'un délai d'un mois à compter de la saisine
-de ce service.
+de cette autorité.

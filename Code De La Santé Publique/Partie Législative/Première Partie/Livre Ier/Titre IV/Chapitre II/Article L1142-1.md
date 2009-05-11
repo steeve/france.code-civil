@@ -21,10 +21,11 @@ pour le patient des conséquences anormales au regard de son état de santé com
 de l'évolution prévisible de celui-ci et présentent un caractère de gravité,
 fixé par décret, apprécié au regard de la perte de capacités fonctionnelles et
 des conséquences sur la vie privée et professionnelle mesurées en tenant
-notamment compte du taux d'incapacité permanente ou de la durée de l'incapacité
-temporaire de travail.
+notamment compte du taux d'atteinte permanente à l'intégrité physique ou
+psychique, de la durée de l'arrêt temporaire des activités professionnelles ou
+de celle du déficit fonctionnel temporaire.
 
 Ouvre droit à réparation des préjudices au titre de la solidarité nationale un
-taux d'incapacité permanente supérieur à un pourcentage d'un barème spécifique
-fixé par décret ; ce pourcentage, au plus égal à 25 %, est déterminé par ledit
-décret.
+taux d'atteinte permanente à l'intégrité physique ou psychique supérieur à un
+pourcentage d'un barème spécifique fixé par décret ; ce pourcentage, au plus
+égal à 25 %, est déterminé par ledit décret.

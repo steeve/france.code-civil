@@ -19,7 +19,9 @@ arrêté, délégation de signature :
 communes ;
 
 2° Au directeur général des services techniques et au directeur des services
-techniques des communes.
+techniques des communes ;
+
+3° Aux responsables de services communaux.
 
 Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 

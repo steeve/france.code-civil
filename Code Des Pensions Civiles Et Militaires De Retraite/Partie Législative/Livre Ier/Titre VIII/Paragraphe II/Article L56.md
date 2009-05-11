@@ -11,3 +11,8 @@ pour objet d'exécuter les condamnations à des réparations civiles ou aux frai
 dus à la victime au titre de l'article 375 du code de procédure pénale et que
 ces condamnations ont été prononcées à l'encontre d'une personne qui a été jugée
 coupable de crime ou complicité de crime contre l'humanité.
+
+La majoration spéciale prévue au deuxième alinéa de l'article L. 30 est
+insaisissable, sauf pour le paiement des frais d'entretien du bénéficiaire, des
+rémunérations dues aux personnes assurant son assistance ou des cotisations
+sociales obligatoires attachées à ces rémunérations.

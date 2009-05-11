@@ -2,7 +2,7 @@ Article 617
 ----
 L'usufruit s'éteint :
 
-Par la mort naturelle et par la mort civile (1) de l'usufruitier ;
+Par la mort de l'usufruitier ;
 
 Par l'expiration du temps pour lequel il a été accordé ;
 

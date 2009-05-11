@@ -18,6 +18,3 @@ de rémunérations de la nature de celles définies à l'article 93 ci-dessus ;
 b) toute personne qui prête sciemment son concours en vue de soustraire aux
 effets du retrait d'agrément ou du retrait de l'autorisation de dédouaner ceux
 qui en auraient été atteints.
-
-3. En cas de récidive des contraventions mentionnées au présent article, la
-peine de prison pourra être portée à deux mois.

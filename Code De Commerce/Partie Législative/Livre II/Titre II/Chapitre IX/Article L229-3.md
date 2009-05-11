@@ -1,29 +1,31 @@
 Article L229-3
 ----
-I. - Le contrôle de la légalité de la fusion est effectué, pour la partie de la
-procédure relative à chaque société qui fusionne, par le greffier du tribunal
-dans le ressort duquel est immatriculée la société conformément aux dispositions
-de l'article L. 236-6.
+I.-Dans un délai fixé par voie réglementaire, le greffier du tribunal dans le
+ressort duquel la société participant à l'opération est immatriculée délivre,
+après avoir procédé à la vérification prévue à l'article L. 236-6, une
+attestation de conformité des actes et des formalités préalables à la fusion.
 
-Le contrôle de la légalité de la fusion est effectué, pour la partie de la
-procédure relative à la réalisation de la fusion et à la constitution de la
-société européenne, par un notaire.
+Un notaire ou le greffier du tribunal dans le ressort duquel la société issue de
+la fusion sera immatriculée contrôle, dans un délai fixé par voie réglementaire,
+la légalité de la réalisation de la fusion et de la constitution de la société
+nouvelle issue de la fusion.
 
-A cette fin, chaque société qui fusionne remet au notaire le certificat visé à
-l'article 25 du règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001
-précité, dans un délai de six mois à compter de sa délivrance ainsi qu'une copie
-du projet de fusion approuvé par la société.
+A cette fin, chaque société qui fusionne remet au notaire ou au greffier le
+certificat visé à l'article 25 du règlement (CE) n° 2157 / 2001 du Conseil du 8
+octobre 2001 précité dans un délai de six mois à compter de sa délivrance ainsi
+qu'une copie du projet de fusion approuvé par la société.
 
-Le notaire contrôle en particulier que les sociétés qui fusionnent ont approuvé
-un projet de fusion dans les mêmes termes et que les modalités relatives à
-l'implication des travailleurs ont été fixées conformément aux dispositions des
-articles L. 439-25 à L. 439-45 du code du travail.
+Le notaire ou le greffier contrôle en particulier que les sociétés qui
+fusionnent ont approuvé un projet de fusion dans les mêmes termes et que les
+modalités relatives à l'implication des salariés ont été fixées conformément aux
+chapitres Ier à III du titre V du livre II de la deuxième partie du code du
+travail.
 
-Le notaire contrôle en outre que la constitution de la société européenne formée
-par fusion correspond aux conditions fixées par les dispositions législatives
+Il contrôle en outre que la constitution de la société européenne formée par
+fusion correspond aux conditions fixées par les dispositions législatives
 françaises.
 
-II. - Les causes de nullité de la délibération de l'une des assemblées qui ont
+II.-Les causes de nullité de la délibération de l'une des assemblées qui ont
 décidé de l'opération de fusion conformément au droit applicable à la société
 anonyme ou les manquements au contrôle de légalité constituent une cause de
 dissolution de la société européenne.

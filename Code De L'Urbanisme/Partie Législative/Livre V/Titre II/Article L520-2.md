@@ -1,10 +1,11 @@
 Article L520-2
 ----
 La redevance est due par la personne physique ou morale qui est propriétaire des
-locaux à la date de l'émission de l'avis de mise en recouvrement. L'avis de mise
+locaux à la date de l'émission de l'avis de mise en recouvrement.L'avis de mise
 en recouvrement doit être émis dans les deux ans qui suivent soit la délivrance
-du permis de construire, soit le dépôt des déclarations prévues par les articles
-L. 520-9 et R. 422-3, soit, à défaut, le début des travaux.
+du permis de construire, soit la non-opposition à la déclaration préalable
+prévue à l'article L. 421-4, soit le dépôt de la déclaration prévue à l'article
+L. 520-9, soit, à défaut, le début des travaux.
 
 Si l'avis de mise en recouvrement est émis avant l'achèvement de la
 construction, il peut être établi au nom du maître de l'ouvrage qui pourra

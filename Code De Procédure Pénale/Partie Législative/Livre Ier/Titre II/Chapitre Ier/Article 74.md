@@ -14,9 +14,16 @@ Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les
 personnes ainsi appelées prêtent, par écrit, serment d'apporter leur concours à
 la justice en leur honneur et en leur conscience.
 
+Sur instructions du procureur de la République, une enquête aux fins de
+recherche des causes de la mort est ouverte. Dans ce cadre et à ces fins, il
+peut être procédé aux actes prévus par les articles 56 à 62, dans les conditions
+prévues par ces dispositions.A l'issue d'un délai de huit jours à compter des
+instructions de ce magistrat, ces investigations peuvent se poursuivre dans les
+formes de l'enquête préliminaire.
+
 Le procureur de la République peut aussi requérir information pour recherche des
 causes de la mort.
 
-Les dispositions des trois premiers alinéas sont également applicables en cas de
-découverte d'une personne grièvement blessée lorsque la cause de ses blessures
-est inconnue ou suspecte.
+Les dispositions des quatre premiers alinéas sont également applicables en cas
+de découverte d'une personne grièvement blessée lorsque la cause de ses
+blessures est inconnue ou suspecte.

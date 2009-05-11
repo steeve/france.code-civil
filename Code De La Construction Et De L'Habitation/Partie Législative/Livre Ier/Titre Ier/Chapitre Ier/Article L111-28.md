@@ -2,8 +2,8 @@ Article L111-28
 ----
 Toute personne physique ou morale dont la responsabilité décennale peut être
 engagée sur le fondement de la présomption établie par les articles 1792 et
-suivants du code civil, reproduits aux articles L. 111-13 à L. 111-19, doit être
-couverte par une assurance.
+suivants du code civil, reproduits aux articles L. 111-13 à L. 111-17, L.
+111-20-1 et L. 111-20-2, doit être couverte par une assurance.
 
 A l'ouverture de tout chantier, elle doit être en mesure de justifier qu'elle a
 souscrit un contrat d'assurance la couvrant pour cette responsabilité.

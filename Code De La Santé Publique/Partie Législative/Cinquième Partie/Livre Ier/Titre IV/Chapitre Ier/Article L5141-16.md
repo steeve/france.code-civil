@@ -67,7 +67,10 @@ suspendant ou supprimant ces autorisations ;
 14° Les règles de procédure applicables aux recours ouverts contre les décisions
 visées aux 3°, 5°, 7° et 11° du présent article ;
 
-15° Les conditions d'application de l'article L. 5141-11.
+15° Les conditions d'application de l'article L. 5141-11 ;
+
+16° Les conditions dans lesquelles la déclaration mentionnée au sixième alinéa
+de l'article L. 5141-5 est effectuée.
 
 Sauf dans le cas mentionné au 12° du présent article, les décrets mentionnés au
 premier alinéa sont pris après avis de l'Agence française de sécurité sanitaire

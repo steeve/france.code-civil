@@ -27,5 +27,5 @@ communication, captages d'eau, ou des zones destinées à l'habitation par des
 documents d'urbanisme opposables aux tiers. Elle prend en compte les capacités
 techniques et financières dont dispose le demandeur, à même de lui permettre de
 conduire son projet dans le respect des intérêts visés à l'article L. 511-1 et
-d'être en mesure de satisfaire aux obligations de l'article L. 512-17 lors de la
-cessation d'activité.
+d'être en mesure de satisfaire aux obligations de l'article L. 512-7-1 lors de
+la cessation d'activité.

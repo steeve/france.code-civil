@@ -1,4 +1,5 @@
 Article L32
 ----
-Les demandes sont examinées par le juge du tribunal d'instance qui statue dans
-un délai de quinze jours et au plus tard quatre jours avant le jour du scrutin.
+Les demandes d'inscription sont examinées par la commission administrative
+prévue à l'article L. 17, qui statue au plus tard cinq jours avant le jour du
+scrutin.

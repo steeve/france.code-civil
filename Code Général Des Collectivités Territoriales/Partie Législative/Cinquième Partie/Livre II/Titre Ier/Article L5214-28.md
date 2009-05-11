@@ -17,8 +17,10 @@ l'article 1609 nonies C du code général des impôts, sur la demande des consei
 municipaux dans les conditions de majorité requises pour la création par arrêté
 du ou des représentants de l'Etat dans le ou les départements concernés ;
 
-c) Soit d'office par un décret rendu sur l'avis conforme du conseil général et
-du Conseil d'Etat.
+c) Soit d'office par un décret rendu sur l'avis conforme du Conseil d'Etat.
+
+Une copie de l'arrêté ou du décret de dissolution est adressée au conseil
+général pour information.
 
 L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions
 de l'article L. 5211-25-1 et sous la réserve des droits des tiers, les

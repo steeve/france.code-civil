@@ -46,5 +46,5 @@ transport pour la part relative à l'organisation du transport fluvial de
 marchandises ainsi qu'aux contrats de location d'un bateau de marchandises avec
 équipage.
 
-VI.-Les quatrième à sixième alinéas de l'article 209 s'appliquent aux
+VI.-Les deuxième à quatrième alinéas de l'article 209 s'appliquent aux
 infractions prévues au présent article.

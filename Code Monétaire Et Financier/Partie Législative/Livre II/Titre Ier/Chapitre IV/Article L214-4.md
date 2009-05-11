@@ -23,9 +23,9 @@ prêts et emprunts de titres et à des emprunts d'espèces dans la limite d'une
 fraction de ses actifs.S'agissant des emprunts d'espèces, cette limite ne peut
 être supérieure à 10 % des actifs.
 
-Un organisme de placement collectif en titres financiers ne peut détenir plus de
-10 % d'une même catégorie de titres financiers d'un même émetteur. Un décret en
-Conseil d'Etat fixe les catégories de titres financiers ainsi que les conditions
-dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 %
-lorsque l'émetteur est une entreprise solidaire mentionnée à l'article L.
-3332-17-1 du code du travail.
+Un organisme de placement collectif en valeurs mobilières ne peut détenir plus
+de 10 % d'une même catégorie de titres financiers d'un même émetteur. Un décret
+en Conseil d'Etat fixe les catégories de titres financiers ainsi que les
+conditions dans lesquelles il peut être dérogé à cette limite. Ce seuil est
+porté à 25 % lorsque l'émetteur est une entreprise solidaire mentionnée à
+l'article L. 3332-17-1 du code du travail.

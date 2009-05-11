@@ -1,12 +1,11 @@
 Article 433-25
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux sections 1,
-6, 7, 9 et 10 du présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies aux sections 1, 6, 7, 9 et
+10 du présent chapitre encourent, outre l'amende suivant les modalités prévues
+par l'article 131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°,
 5°, 6° et 7° de l'article 131-39 ;

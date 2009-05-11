@@ -11,13 +11,12 @@ fixée par arrêté du ministre chargé de la santé pris après avis de l'Acad�
 nationale de médecine, sans être titulaire d'un diplôme, certificat ou autre
 titre mentionné à l'article L. 4131-1 et exigé pour l'exercice de la profession
 de médecin, ou sans être bénéficiaire des dispositions spéciales mentionnées aux
-articles L. 4111-2 à L. 4111-4, L. 4111-6, L. 4111-7, L. 4112-6, L. 4131-2 à L.
-4131-5 ;
+articles L. 4111-2 à L. 4111-4, L. 4111-7, L. 4112-6, L. 4131-2 à L. 4131-5 ;
 
 2° Toute personne qui se livre aux activités définies au 1° ci-dessus sans
 satisfaire à la condition posée au 2° de l'article L. 4111-1 compte tenu, le cas
 échéant, des exceptions apportées à celle-ci par le présent livre et notamment
-par les articles L. 4111-6, L. 4111-7 et L. 4131-4-1 ;
+par les articles L. 4111-7 et L. 4131-4-1 ;
 
 3° Toute personne qui, munie d'un titre régulier, sort des attributions que la
 loi lui confère, notamment en prêtant son concours aux personnes mentionnées aux

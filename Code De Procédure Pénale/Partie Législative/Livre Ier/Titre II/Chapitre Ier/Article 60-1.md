@@ -12,6 +12,4 @@ documents ne peut intervenir qu'avec leur accord.
 
 A l'exception des personnes mentionnées aux articles 56-1 à 56-3, le fait de
 s'abstenir de répondre dans les meilleurs délais à cette réquisition est puni
-d'une amende de 3 750 euros. Les personnes morales sont responsables pénalement,
-dans les conditions prévues par l'article 121-2 du code pénal, du délit prévu
-par le présent alinéa.
+d'une amende de 3 750 euros.

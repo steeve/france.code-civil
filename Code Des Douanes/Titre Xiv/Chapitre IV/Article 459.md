@@ -27,11 +27,11 @@ articles 60 et 301 du traité instituant la Communauté européenne ou par les
 traités et accords internationaux régulièrement approuvés et ratifiés par la
 France.
 
-1 ter. Les personnes morales peuvent être déclarées responsables pénalement,
-dans les conditions prévues par l'article 121-2 du code pénal, des infractions
-mentionnées au 1 et au 1 bis. Les peines encourues par les personnes morales
-sont l'amende, selon les modalités prévues par l'article 131-38 du code pénal,
-ainsi que les peines mentionnées par l'article 131-39 du même code.
+1 ter. Les personnes morales déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies
+aux 1 et 1 bis du présent article encourent, outre l'amende suivant les
+modalités prévues par l'article 131-38 du code pénal, les peines prévues par
+l'article 131-39 du même code.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation
 n'ont pu être saisis ou ne sont pas représentés par le délinquant ou lorsque le

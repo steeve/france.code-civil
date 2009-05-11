@@ -3,11 +3,11 @@ Article L5141-5
 Tout médicament vétérinaire fabriqué industriellement ou selon une méthode dans
 laquelle intervient un processus industriel qui ne fait pas l'objet d'une
 autorisation de mise sur le marché délivrée par la Communauté européenne en
-application du règlement (CE) n° 726/2004 du Parlement européen et du Conseil du
-31 mars 2004 doit faire l'objet, avant sa mise sur le marché ou sa distribution
-à titre gratuit, d'une autorisation préalable de mise sur le marché délivrée par
-l'Agence française de sécurité sanitaire des aliments. L'autorisation peut être
-assortie de conditions appropriées.
+application du règlement (CE) n° 726 / 2004 du Parlement européen et du Conseil
+du 31 mars 2004 doit faire l'objet, avant sa mise sur le marché ou sa
+distribution à titre gratuit, d'une autorisation préalable de mise sur le marché
+délivrée par l'Agence française de sécurité sanitaire des
+aliments.L'autorisation peut être assortie de conditions appropriées.
 
 Par exception au premier alinéa, ne sont pas soumis à autorisation de mise sur
 le marché les aliments médicamenteux, les autovaccins à usage vétérinaire, les
@@ -31,9 +31,10 @@ effets thérapeutiques du médicament vétérinaire au regard des risques tels q
 définis au 1° de l'article L. 5141-6. Ce décret détermine également les
 conditions dans lesquelles elle peut devenir caduque.
 
-Toute modification des éléments d'une autorisation de mise sur le marché
-délivrée par l'Agence française de sécurité sanitaire des aliments doit être
-préalablement autorisée.
+Toute modification substantielle des éléments d'une autorisation de mise sur le
+marché délivrée par l'Agence française de sécurité sanitaire des aliments doit
+faire l'objet d'une autorisation préalable. Les autres modifications font
+l'objet d'une déclaration.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant et, s'il est distinct, le titulaire de l'autorisation de

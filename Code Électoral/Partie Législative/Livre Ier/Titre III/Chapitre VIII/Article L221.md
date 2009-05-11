@@ -1,11 +1,11 @@
 Article L221
 ----
 Le conseiller général dont le siège devient vacant pour cause de décès, de
-démission intervenue en application des articles L. 46-1, L. 46-2 ou LO 151-1 du
-présent code, de présomption d'absence au sens de l'article 112 du code civil ou
-d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé
-jusqu'au renouvellement de la série dont il est issu par la personne élue en
-même temps que lui à cet effet.
+démission intervenue en application des articles L. 46-1,L. 46-2, LO 151ou LO
+151-1 du présent code, de présomption d'absence au sens de l'article 112 du code
+civil ou d'acceptation de la fonction de membre du Conseil constitutionnel, est
+remplacé jusqu'au renouvellement de la série dont il est issu par la personne
+élue en même temps que lui à cet effet.
 
 En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut
 plus être appliqué, il est procédé à une élection partielle dans le délai de

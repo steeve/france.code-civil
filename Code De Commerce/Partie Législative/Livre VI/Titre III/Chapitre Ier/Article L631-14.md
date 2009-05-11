@@ -9,11 +9,11 @@ prévu à l'article L. 622-6.
 
 Lorsque l'administrateur a une mission de représentation, il exerce les
 prérogatives conférées au débiteur par le II de l'article L. 622-7 et par le
-quatrième alinéa de l'article L. 622-8. En cas de mission d'assistance, il les
+troisième alinéa de l'article L. 622-8. En cas de mission d'assistance, il les
 exerce concurremment avec le débiteur.
 
 Lorsque la procédure de redressement judiciaire a été ouverte en application du
-deuxième alinéa de l'article L. 626-27 et que le débiteur a transféré des biens
+troisième alinéa de l'article L. 626-27 et que le débiteur a transféré des biens
 ou droits dans un patrimoine fiduciaire avant l'ouverture de la procédure de
 sauvegarde ayant donné lieu au plan résolu, la convention en exécution de
 laquelle celui-ci conserve l'usage ou la jouissance de ces biens ou droits n'est

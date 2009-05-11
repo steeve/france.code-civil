@@ -30,12 +30,20 @@ date de la notification de la réponse explicite.
 La décision ne s'applique qu'au seul demandeur et est opposable pour l'avenir à
 l'organisme qui l'a prononcée, tant que la situation de fait exposée dans la
 demande ou la législation au regard de laquelle la situation du demandeur a été
-appréciée n'ont pas été modifiées.
+appréciée n'ont pas été modifiées. Si le demandeur appartient à un ensemble de
+personnes entre lesquelles un lien de dépendance ou de contrôle existe, au sens
+des articles L. 233-1 et L. 233-3 du code de commerce, et que sa demande
+comporte expressément ces précisions, la décision s'applique à toute autre
+entreprise ou personne morale appartenant à ce même ensemble.
 
 Un cotisant affilié auprès d'un nouvel organisme peut se prévaloir d'une
 décision explicite prise par l'organisme dont il relevait précédemment tant que
 la situation de fait exposée dans sa demande ou la législation au regard de
-laquelle sa situation a été appréciée n'ont pas été modifiées.
+laquelle sa situation a été appréciée n'ont pas été modifiées. Il en est de même
+si le demandeur appartient à un ensemble de personnes entre lesquelles un lien
+de dépendance ou de contrôle existe, au sens des articles L. 233-1 et L. 233-3
+du code de commerce, et que la décision explicite prise par l'organisme dont il
+relevait précédemment le précise.
 
 Lorsque l'organisme de recouvrement entend modifier pour l'avenir sa décision,
 il en informe le cotisant. Celui-ci peut solliciter, sans préjudice des autres
@@ -43,3 +51,6 @@ recours, l'intervention de l'Agence centrale des organismes de sécurité social
 Celle-ci transmet à l'organisme de recouvrement sa position quant à
 l'interprétation à retenir. Celui-ci la notifie au demandeur dans le délai d'un
 mois.
+
+Un décret définit les conditions dans lesquelles les décisions rendues par les
+organismes de recouvrement font l'objet d'une publicité.

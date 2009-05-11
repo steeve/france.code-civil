@@ -9,3 +9,9 @@ stipulations conventionnelles.
 Les absences de l'entreprise des conseillers prud'hommes du collège salarié,
 justifiées par l'exercice de leurs fonctions, n'entraînent aucune diminution de
 leurs rémunérations et des avantages correspondants.
+
+La demande de remboursement aux employeurs des salaires maintenus aux
+conseillers prud'hommes du collège salarié, ainsi que des avantages et des
+charges sociales y afférents, est adressée au greffe du conseil de prud'hommes
+au plus tard dans l'année civile qui suit l'année de l'absence du salarié de
+l'entreprise. A défaut, la demande de remboursement est prescrite.

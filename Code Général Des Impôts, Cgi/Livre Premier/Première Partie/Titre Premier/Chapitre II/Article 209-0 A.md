@@ -42,7 +42,7 @@ proportion de 90 p. 100 est considérée comme satisfaite si, pour chaque semest
 civil, la moyenne journalière de la valeur réelle des titres mentionnés ci-avant
 est au moins égale à 90 p. 100 de la moyenne journalière de la valeur réelle de
 l'ensemble des actifs. Pour le calcul de la proportion de 90 p. 100, les titres
-qui font l'objet d'un réméré ne sont pas pris en compte au numérateur du rapport
+qui font l'objet d'un rachat ne sont pas pris en compte au numérateur du rapport
 ;
 
 b. les titres dont la valeur est retenue pour le calcul de la proportion

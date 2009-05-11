@@ -6,6 +6,5 @@ développement de maladies humaines transmises par l'intermédiaire d'insectes e
 constituant une menace pour la santé de la population. Dans ces départements, la
 définition des mesures de lutte nécessaires relève de la compétence de l'Etat.
 
-Un décret, pris après avis du Conseil supérieur d'hygiène publique de France,
-détermine la nature des mesures susceptibles d'être prises pour faire obstacle à
-ce risque.
+Un décret, pris après avis du Haut conseil de la santé publique, détermine la
+nature des mesures susceptibles d'être prises pour faire obstacle à ce risque.

@@ -1,10 +1,10 @@
 Article 695-41
 ----
 Lors de l'arrestation de la personne recherchée, il est procédé, à la demande de
-l'autorité judiciaire de l'Etat membre d'émission, à la saisie, dans les formes
-prévues par l'article 56, par les deux premiers alinéas de l'article 56-1, par
-les articles 56-2, 56-3 et 57 et par le premier alinéa de l'article 59, des
-objets :
+l'autorité judiciaire de l'Etat membre d'émission ou à l'initiative de
+l'autorité judiciaire d'exécution, à la saisie, dans les formes prévues par
+l'article 56, par les deux premiers alinéas de l'article 56-1, par les articles
+56-2, 56-3 et 57 et par le premier alinéa de l'article 59, des objets :
 
 1° Qui peuvent servir de pièces à conviction, ou
 

@@ -1,8 +1,8 @@
 Article 1953
 ----
 Ils sont responsables du vol ou du dommage de ces effets, soit que le vol ait
-été commis ou que le dommage ait été causé par leurs domestiques et préposés, ou
-par des étrangers allant et venant dans l'hôtel.
+été commis ou que le dommage ait été causé par leurs préposés, ou par des tiers
+allant et venant dans l'hôtel.
 
 Cette responsabilité est illimitée, nonobstant toute clause contraire, au cas de
 vol ou de détérioration des objets de toute nature déposés entre leurs mains ou

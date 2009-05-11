@@ -23,6 +23,6 @@ de danger grave ou imminent et prescrit, dans les conditions définies par
 l'article L. 511-4-1 du code de la construction et de l'habitation, la
 réparation ou la démolition des monuments funéraires menaçant ruine.
 
-Pour l'application des troisième et quatrième alinéas du présent article, le
-pouvoir de substitution conféré au représentant de l'Etat dans le département
-est exercé, à Paris, par le préfet de police.
+Pour l'application des deuxième, troisième et quatrième alinéas du présent
+article, le pouvoir de substitution conféré au représentant de l'Etat dans le
+département est exercé, à Paris, par le préfet de police.

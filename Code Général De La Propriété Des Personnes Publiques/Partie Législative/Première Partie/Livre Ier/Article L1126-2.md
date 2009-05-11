@@ -1,7 +1,7 @@
 Article L1126-2
 ----
 Les sociétés commerciales ou civiles, les collectivités privées ou publiques
-sont tenues de remettre à l'administration des impôts :
+sont tenues de remettre au Trésor public :
 
 1° Le montant des coupons, intérêts ou dividendes atteints par la prescription
 quinquennale ou conventionnelle et afférents aux actions, parts de fondateur,

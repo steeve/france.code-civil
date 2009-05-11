@@ -7,3 +7,9 @@ comporte les informations mentionnées aux septième à neuvième alinéas de
 l'article L. 225-68.
 
 Ce rapport est approuvé par le conseil de surveillance et est rendu public.
+
+Les commissaires aux comptes présentent leurs observations sur ce rapport pour
+celles des procédures de contrôle interne et de gestion des risques qui sont
+relatives à l'élaboration et au traitement de l'information comptable et
+financière, dans les conditions prévues à l'article L. 225-235. Ils attestent
+l'établissement des autres informations requises dans les mêmes conditions.

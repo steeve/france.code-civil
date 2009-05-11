@@ -22,3 +22,7 @@ Il en est de même en cas de condamnation à une peine d'emprisonnement, lorsque
 la détention provisoire a été ordonnée ou maintenue dans les conditions prévues
 par l'alinéa 1er aussitôt que la durée de la détention aura atteint celle de la
 peine prononcée.
+
+Le troisième alinéa de l'article 498-1 est applicable en cas de pourvoi en
+cassation formé contre un arrêt de condamnation rendu dans les conditions
+prévues à l'article 410.

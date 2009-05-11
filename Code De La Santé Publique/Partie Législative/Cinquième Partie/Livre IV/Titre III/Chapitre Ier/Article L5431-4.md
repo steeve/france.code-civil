@@ -1,12 +1,11 @@
 Article L5431-4
 ----
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues à l'article 121-2 du code pénal, des infractions définies à
-l'article L. 5431-2.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies à l'article
+L. 5431-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ;
+1° (Abrogé) ;
 
 2° La confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit, dans les conditions prévues

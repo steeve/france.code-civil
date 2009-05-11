@@ -25,13 +25,8 @@ article encourent également la peine complémentaire de l'affichage et la
 diffusion de la décision prononcée dans les conditions prévues par l'article
 131-35 du code pénal.
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les
-conditions prévues par l'article 121-2 du code pénal des infractions prévues au
-présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. L'affichage ou la diffusion ordonnée dans les conditions prévues par
-l'article 131-35 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies au présent
+article encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, la peine prévue par le 9° de l'article 131-39 du même
+code.

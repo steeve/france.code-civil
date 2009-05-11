@@ -8,7 +8,7 @@ la mesure.
 
 A défaut de nomination faite en application de l'alinéa précédent et sous la
 dernière réserve qui y est mentionnée, le juge désigne un parent, un allié ou
-une personne résidant avec le majeur protégé et entretenant avec lui des liens
+une personne résidant avec le majeur protégé ou entretenant avec lui des liens
 étroits et stables.
 
 Le juge prend en considération les sentiments exprimés par celui-ci, ses

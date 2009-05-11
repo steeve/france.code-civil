@@ -11,11 +11,6 @@ classe le fait de méconnaître l'une des obligations mentionnées aux premier,
 sixième et septième alinéas du I de l'article L. 312-1-1 ou l'une des
 interdictions édictées au I de l'article L. 312-1-2.
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les
-conditions prévues par l'article 121-2 du code pénal des infractions définies à
-l'alinéa précédent. Les peines encourues par les personnes morales sont
-l'amende, suivant les modalités prévues par l'article 131-38 du code pénal.
-
 Avant d'engager l'action publique tendant à l'application de la sanction pénale
 prévue au présent article, le parquet peut saisir pour avis le comité de la
 médiation bancaire s'il l'estime nécessaire, mentionné au II de l'article L.

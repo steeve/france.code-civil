@@ -1,9 +1,8 @@
 Article 213-3
 ----
-Les personnes morales peuvent être déclarées responsables pénalement de crimes
-contre l'humanité dans les conditions prévues par l'article 121-2.
-
-Les peines encourues par les personnes morales sont :
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, de crimes contre l'humanité encourent, outre
+l'amende suivant les modalités prévues par l'article 131-38 :
 
 1° Les peines mentionnées à l'article 131-39 ;
 

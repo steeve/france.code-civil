@@ -11,8 +11,6 @@ fermeture ;
 3° Pour ceux qui en assument la direction, de mettre ou de tenter de faire
 obstacle au contrôle prévu à l'article L. 2321-5.
 
-La récidive est punie d'un an d'emprisonnement et de 7500 euros d'amende.
-
 Les personnes physiques coupables d'une infraction mentionnée au présent
 article, encourent également les peines complémentaires suivantes :
 

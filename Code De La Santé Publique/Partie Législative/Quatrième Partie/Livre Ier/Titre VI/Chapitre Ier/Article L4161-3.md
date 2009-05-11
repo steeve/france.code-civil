@@ -5,7 +5,7 @@ Exerce illégalement la profession de sage-femme :
 1° Toute personne qui pratique habituellement les actes mentionnés à l'article
 L. 4151-1 sans remplir les conditions exigées par le présent livre pour
 l'exercice de la profession de médecin ou de sage-femme, notamment par les
-articles L. 4111-1, L. 4111-3, L. 4111-6, L. 4111-7 et L. 4151-5 ;
+articles L. 4111-1, L. 4111-3, L. 4111-7 et L. 4151-5 ;
 
 2° Toute personne qui, munie d'un titre régulier, sort des attributions que la
 loi lui confère, notamment en prêtant son concours aux personnes mentionnées au

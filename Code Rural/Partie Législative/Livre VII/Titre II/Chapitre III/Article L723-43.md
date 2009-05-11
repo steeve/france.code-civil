@@ -1,11 +1,17 @@
 Article L723-43
 ----
-Les caisses de mutualité sociale agricole et les organismes habilités à gérer
-l'assurance maladie, invalidité et maternité des membres non-salariés des
-professions agricoles sont autorisés à communiquer annuellement au représentant
-de l'Etat dans le département les renseignements qu'ils détiennent, à
-l'exception des informations à caractère médical, pour les besoins du contrôle
-des conditions d'attribution des aides à caractère économique.
+La Caisse centrale de la mutualité sociale agricole et les organismes visés aux
+articles L. 731-31 et L. 752-14 sont autorisés à communiquer au ministère chargé
+de l'agriculture des informations comprenant des données à caractère personnel,
+à l'exception de données à caractère médical, pour les besoins de l'instruction
+et du contrôle des conditions d'attribution des aides économiques en faveur de
+l'agriculture.L'accès à ces données est réservé aux services de l'Etat, des
+collectivités territoriales et des organismes chargés du versement de ces aides
+dans la mesure nécessaire à l'accomplissement de leurs missions de mise en œuvre
+et de contrôle de ces aides, lorsque le bénéfice de celles-ci est subordonné à
+la régularité de la situation des entreprises agricoles et des personnes non
+salariées agricoles au regard des prescriptions du présent code en matière de
+protection sociale.
 
 Les caisses et organismes de mutualité sociale agricole mentionnés à l'alinéa
 précédent sont également autorisés à communiquer aux services de l'inspection du

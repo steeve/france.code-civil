@@ -51,12 +51,13 @@ soumises ;
 11°) Les gérants de sociétés à responsabilité limitée et de sociétés d'exercice
 libéral à responsabilité limitée à condition que lesdits gérants ne possèdent
 pas ensemble plus de la moitié du capital social, étant entendu que les parts
-appartenant, en toute propriété ou en usufruit, au conjoint et aux enfants
-mineurs non émancipés d'un gérant sont considérées comme possédées par ce
-dernier ;
+appartenant, en toute propriété ou en usufruit, au conjoint, partenaire lié par
+un pacte civil de solidarité compris, et aux enfants mineurs non émancipés d'un
+gérant sont considérées comme possédées par ce dernier ;
 
-12°) Les présidents-directeurs et directeurs généraux des sociétés anonymes et
-des sociétés d'exercice libéral à forme anonyme ;
+12°) Les présidents du conseil d'administration, les directeurs généraux et les
+directeurs généraux délégués des sociétés anonymes et des sociétés d'exercice
+libéral à forme anonyme ;
 
 13°) les membres des sociétés coopératives ouvrières de production ainsi que les
 gérants, les directeurs généraux, les présidents du conseil d'administration et
@@ -119,7 +120,8 @@ sont le prolongement ;
 22° Les dirigeants des associations remplissant les conditions prévues au
 deuxième alinéa du d du 1° du 7 de l'article 261 du code général des impôts ;
 
-23° Les présidents et dirigeants des sociétés par actions simplifiées ;
+23° Les présidents et dirigeants des sociétés par actions simplifiées et des
+sociétés d'exercice libéral par actions simplifiées ;
 
 24° Les administrateurs des groupements mutualistes qui perçoivent une indemnité
 de fonction et qui ne relèvent pas, à titre obligatoire, d'un régime de sécurité
@@ -149,3 +151,6 @@ volontariat associatif et à l'engagement éducatif ;
 
 29° Les arbitres et juges, mentionnés à l'article L. 223-1 du code du sport, au
 titre de leur activité d'arbitre ou de juge.
+
+30° Les présidents des sociétés coopératives de banque, mentionnées aux articles
+L. 512-61 à L. 512-67 du code monétaire et financier.

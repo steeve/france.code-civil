@@ -11,4 +11,4 @@ demande des conseils municipaux dans les conditions de majorité requises pour l
 création par arrêté du ou des représentants de l'Etat dans le ou les
 départements concernés " est supprimée ;
 
-2° Au c, les mots : " du conseil général et " sont supprimés.
+2° (alinéa abrogé)

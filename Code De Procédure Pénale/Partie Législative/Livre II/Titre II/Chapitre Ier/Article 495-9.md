@@ -3,7 +3,9 @@ Article 495-9
 Lorsque, en présence de son avocat, la personne accepte la ou les peines
 proposées, elle est aussitôt présentée devant le président du tribunal de grande
 instance ou le juge délégué par lui, saisi par le procureur de la République
-d'une requête en homologation.
+d'une requête en homologation. Si la personne n'est pas détenue, elle peut être
+convoquée devant le président du tribunal de grande instance ou le juge délégué
+par lui dans un délai inférieur ou égal à un mois.
 
 Le président du tribunal de grande instance ou le juge délégué par lui entend la
 personne et son avocat. Après avoir vérifié la réalité des faits et leur

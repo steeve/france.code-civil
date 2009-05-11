@@ -4,7 +4,7 @@ Toute cession d'immeubles ou de droits réels immobiliers par une région donne
 lieu à délibération motivée du conseil régional portant sur les conditions de la
 vente et ses caractéristiques essentielles. Le conseil régional délibère au vu
 de l'avis de l'autorité compétente de l'Etat. Cet avis est réputé donné à
-l'issue d'un délai d'un mois à compter de la saisine de ce service.
+l'issue d'un délai d'un mois à compter de la saisine de cette autorité.
 
 Toute cession d'immeubles ou de droits réels immobiliers intervenue sur le
 territoire d'une région est inscrite sur un tableau récapitulatif annexé au

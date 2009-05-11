@@ -1,12 +1,9 @@
 Article L343-6
 ----
-Les personnes morales déclarées pénalement responsables dans les conditions
-prévues par l'article 121-2 du code pénal des délits prévus et réprimés au
-présent chapitre encourent :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies au présent
+chapitre encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
 l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle

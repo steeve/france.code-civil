@@ -21,7 +21,7 @@ impôts.
 code de la santé publique ;
 
 b) La participation destinée à la réalisation de parcs publics de stationnement
-prévue au troisième alinéa de l'article L. 421-3 ;
+prévue à l'article L. 332-7-1 ;
 
 c) La participation spécifique pour la réalisation d'équipements publics
 exceptionnels prévue à l'article L. 332-8 ;

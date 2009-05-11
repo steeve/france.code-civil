@@ -7,10 +7,11 @@ réception, signé par l'intéressé, que celui-ci a reçu la lettre recommandé
 l'huissier, l'exploit remis à domicile produit les mêmes effets que s'il avait
 été délivré à personne.
 
-L'huissier peut également envoyer à l'intéressé par lettre simple une copie de
-l'acte accompagnée d'un récépissé que le destinataire est invité à réexpédier
-par voie postale ou à déposer à l'étude de l'huissier, revêtu de sa signature.
-Lorsque ce récépissé signé a été renvoyé, l'exploit remis à domicile produit les
-mêmes effets que s'il avait été remis à personne.
+L'huissier peut également , à la place de la lettre recommandée avec demande
+d'avis de réception mentionnée à l'alinéa précédent, envoyer à l'intéressé par
+lettre simple une copie de l'acte accompagnée d'un récépissé que le destinataire
+est invité à réexpédier par voie postale ou à déposer à l'étude de l'huissier,
+revêtu de sa signature. Lorsque ce récépissé signé a été renvoyé, l'exploit
+remis à domicile produit les mêmes effets que s'il avait été remis à personne.
 
 Le domicile de la personne morale s'entend du lieu de son siège.

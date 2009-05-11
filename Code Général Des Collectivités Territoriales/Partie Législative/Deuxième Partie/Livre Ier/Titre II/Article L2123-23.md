@@ -48,5 +48,5 @@ De 50 000 à 99 999
 
 145
 
-La population à prendre en compte est la population municipale du dernier
+La population à prendre en compte est la population totale du dernier
 recensement.

@@ -8,3 +8,9 @@ l'année en cours une ou plusieurs subventions sont tenus de fournir à l'autori
 qui a mandaté la subvention une copie certifiée de leurs budgets et de leurs
 comptes de l'exercice écoulé, ainsi que tous documents faisant connaître les
 résultats de leur activité.
+
+Il est interdit à tout groupement ou à toute association, œuvre ou entreprise
+ayant reçu une subvention d'en employer tout ou partie en subventions à d'autres
+associations, œuvres ou entreprises, sauf lorsque cela est expressément prévu
+dans la convention conclue entre la collectivité territoriale et l'organisme
+subventionné.

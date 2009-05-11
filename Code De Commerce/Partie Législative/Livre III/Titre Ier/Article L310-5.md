@@ -19,9 +19,14 @@ l'article L. 310-3 ;
 5° Le fait d'utiliser la dénomination magasin d'usine ou dépôt d'usine en
 méconnaissance des dispositions de l'article L. 310-4 ;
 
+5° bis Le fait, pour un parc d'exposition, de ne pas se faire enregistrer ou de
+ne pas déclarer de programme de manifestations commerciales en application du
+second alinéa de l'article L. 762-1, ou de ne pas déclarer les modifications au
+programme faisant l'objet de la déclaration annuelle initiale ;
+
 6° Le fait d'organiser une manifestation commerciale sans la déclaration prévue
-à l'article L. 740-2 ou de ne pas respecter les conditions de réalisation de la
-manifestation déclarée.
+au second alinéa de l'article L. 762-2 ou de ne pas respecter les conditions de
+réalisation de la manifestation déclarée.
 
 Les personnes physiques encourent également la peine complémentaire d'affichage
 ou de diffusion de la décision prononcée, dans les conditions prévues par

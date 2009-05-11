@@ -1,6 +1,6 @@
 Article L213-6
 ----
-I. - Le fait d'exploiter un établissement d'enseignement de la conduite des
+I.-Le fait d'exploiter un établissement d'enseignement de la conduite des
 véhicules à moteur d'une catégorie donnée et de la sécurité routière ou de
 formation des candidats pour l'exercice de la profession d'enseignant sans avoir
 obtenu l'agrément prévu à l'article L. 213-1 ou en violation d'une mesure de
@@ -10,7 +10,7 @@ euros d'amende.
 Est puni des mêmes peines le fait d'employer un enseignant qui n'est pas
 titulaire de l'autorisation prévue à l'article L. 212-1.
 
-II. - Les personnes physiques coupables de l'une des infractions prévues au I du
+II.-Les personnes physiques coupables de l'une des infractions prévues au I du
 présent article encourent également les peines complémentaires suivantes :
 
 1° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de
@@ -27,13 +27,12 @@ prévues par l'article 131-35 du code pénal ;
 4° La confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit.
 
-III. - Les personnes morales peuvent être déclarées responsables pénalement,
-dans les conditions prévues à l'article 121-2 du code pénal, des infractions
-prévues au I du présent article.
+III.-Les personnes morales déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies
+au I du présent article encourent, outre l'amende suivant les modalités prévues
+par l'article 131-38 du code pénal :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, selon les modalités prévues par l'article 131-38 du code pénal ;
+1° (Abrogé) ;
 
 2° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de
 plusieurs ou de l'ensemble des établissements de l'entreprise appartenant à la

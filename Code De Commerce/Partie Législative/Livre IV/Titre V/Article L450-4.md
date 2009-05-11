@@ -46,15 +46,15 @@ des lieux visés par l'ordonnance. La notification est réputée faite à la dat
 réception figurant sur l'avis.
 
 L'ordonnance mentionnée au premier alinéa peut faire l'objet d'un appel devant
-le premier président de la cour d'appel dans le ressort du juge ayant autorisé
-la visite et la saisie. Les parties ne sont pas tenues de constituer avoué. Cet
-appel doit, suivant les règles prévues par le code de procédure pénale, être
-formé par déclaration au greffe de la cour dans un délai de quinze jours. Ce
-délai court à compter de la notification de l'ordonnance. L'appel n'est pas
-suspensif. L'ordonnance du premier président de la cour d'appel est susceptible
-d'un pourvoi en cassation. Le délai du pourvoi en cassation est de quinze jours.
-Les pièces saisies sont conservées jusqu'à l'intervention de l'arrêt de la Cour
-de cassation.
+le premier président de la cour d'appel dans le ressort de laquelle le juge a
+autorisé la mesure, suivant les règles prévues par le code de procédure pénale.
+Le ministère public et la personne à l'encontre de laquelle a été ordonnée cette
+mesure peuvent interjeter appel. Cet appel est formé par déclaration au greffe
+du tribunal de grande instance dans un délai de dix jours à compter de la
+notification de l'ordonnance. L'appel n'est pas suspensif. L'ordonnance du
+premier président de la cour d'appel est susceptible d'un pourvoi en cassation
+selon les règles prévues par le code de procédure pénale. Les pièces saisies
+sont conservées jusqu'à ce qu'une décision soit devenue définitive.
 
 La visite, qui ne peut commencer avant six heures ou après vingt et une heures,
 est effectuée en présence de l'occupant des lieux ou de son représentant.
@@ -77,7 +77,10 @@ Les inventaires et mises sous scellés sont réalisés conformément à l'articl
 du code de procédure pénale.
 
 Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a
-ordonné la visite.
+ordonné la visite. Une copie du procès-verbal et de l'inventaire est remise à
+l'occupant des lieux ou à son représentant. Une copie est également adressée par
+lettre recommandée avec demande d'avis de réception aux personnes mises en cause
+ultérieurement par les pièces saisies au cours de l'opération.
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux, dans un
 délai de six mois à compter de la date à laquelle la décision de l'Autotrité de
@@ -86,18 +89,19 @@ par lettre recommandée avec avis de réception, de venir les rechercher, dans u
 délai de deux mois. A l'expiration de ce délai et à défaut de diligences de sa
 part, les pièces et documents lui sont restitués, à ses frais.
 
-Le déroulement des opérations de visite ou saisie peut faire l'objet d'un
-recours devant le premier président de la cour d'appel dans le ressort du juge
-les ayant autorisées. Les parties ne sont pas tenues de constituer avoué. Ce
-recours doit, selon les règles prévues par le code de procédure pénale, être
-formé par déclaration au greffe de la cour dans un délai de quinze jours à
-compter de la notification de l'ordonnance les ayant autorisées ou, pour les
-personnes n'ayant pas fait l'objet de visite ou de saisie et qui sont mises en
-cause ultérieurement au moyen de pièces saisies au cours de ces opérations, à
-compter de la date à laquelle elles ont eu connaissance de l'existence de ces
-opérations et au plus tard à compter de la notification de griefs prévue à
+Le déroulement des opérations de visite et saisie peut faire l'objet d'un
+recours devant le premier président de la cour d'appel dans le ressort de
+laquelle le juge a autorisé ces dernières, suivant les règles prévues par le
+code de procédure pénale. Le ministère public, la personne à l'encontre de
+laquelle a été prise l'ordonnance mentionnée au premier alinéa et les personnes
+mises en cause au moyen de pièces saisies au cours de ces opérations peuvent
+former ce recours. Ce dernier est formalisé par déclaration au greffe du
+tribunal de grande instance dans un délai de dix jours à compter de la remise ou
+de la réception du procès-verbal et de l'inventaire, ou, pour les personnes
+n'ayant pas fait l'objet de visite et de saisie et qui sont mises en cause, à
+compter de la date à laquelle elles ont reçu notification du procès-verbal et de
+l'inventaire et, au plus tard à compter de la notification de griefs prévue à
 l'article L. 463-2. Le recours n'est pas suspensif. L'ordonnance du premier
 président de la cour d'appel est susceptible d'un pourvoi en cassation selon les
-règles prévues par le code de procédure pénale. Le délai du pourvoi en cassation
-est de quinze jours. Les pièces saisies sont conservées jusqu'à l'intervention
-de l'arrêt de la Cour de cassation.
+règles prévues par le code de procédure pénale. Les pièces saisies sont
+conservées jusqu'à ce qu'une décision soit devenue définitive.

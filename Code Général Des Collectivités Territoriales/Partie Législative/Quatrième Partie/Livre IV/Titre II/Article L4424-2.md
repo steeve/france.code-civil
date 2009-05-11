@@ -36,3 +36,17 @@ professionnel, d'éducation spéciale, ainsi qu'aux lycées professionnels
 maritimes, aux établissements d'enseignement agricole mentionnés à l'article L.
 811-8 du code rural et aux centres d'information et d'orientation, les moyens
 financiers directement liés à leur activité pédagogique.
+
+Les biens immobiliers des établissements mentionnés au premier alinéa
+appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13
+août 2004 relative aux libertés et responsabilités locales sont transférés à la
+collectivité territoriale de Corse en pleine propriété à titre gratuit. Ce
+transfert ne donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+
+Les biens immobiliers des établissements mentionnés au premier alinéa
+appartenant à un département, une commune ou un groupement de communes peuvent
+être transférés en pleine propriété à la collectivité territoriale de Corse, à
+titre gratuit et sous réserve de l'accord des parties. Lorsque la collectivité
+territoriale de Corse effectue sur ces biens des travaux de construction, de
+reconstruction ou d'extension, ce transfert est de droit, à sa demande, et ne
+donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.

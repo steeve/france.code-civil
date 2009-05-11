@@ -6,4 +6,6 @@ délégation de signature :
 1° Au directeur général des services et au directeur général adjoint des
 services de mairie ;
 
-2° Au directeur général et au directeur des services techniques.
+2° Au directeur général et au directeur des services techniques ;
+
+3° Aux responsables de services communaux.

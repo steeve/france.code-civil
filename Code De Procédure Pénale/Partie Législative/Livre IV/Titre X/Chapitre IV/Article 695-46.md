@@ -1,16 +1,18 @@
 Article 695-46
 ----
-La chambre de l'instruction, devant laquelle la personne recherchée avait
-comparu, est saisie de toute demande émanant des autorités compétentes de l'Etat
-membre d'émission en vue de consentir à des poursuites pour d'autres infractions
-que celles ayant motivé la remise et commises antérieurement à celles-ci.
+La chambre de l'instruction devant laquelle la personne recherchée a comparu est
+saisie de toute demande émanant des autorités compétentes de l'Etat membre
+d'émission en vue de consentir à des poursuites ou à la mise à exécution d'une
+peine ou d'une mesure de sûreté prononcées pour d'autres infractions que celles
+ayant motivé la remise et commises antérieurement à celle-ci.
 
 La chambre de l'instruction est également compétente pour statuer, après la
 remise de la personne recherchée, sur toute demande des autorités compétentes de
 l'Etat membre d'émission en vue de consentir à la remise de la personne
-recherchée à un autre Etat membre en vue de l'exécution d'une peine ou d'une
-mesure de sûreté privatives de liberté pour un fait quelconque antérieur à la
-remise et différent de l'infraction qui a motivé cette mesure.
+recherchée à un autre Etat membre en vue de l'exercice de poursuites ou de
+l'exécution d'une peine ou d'une mesure de sûreté privatives de liberté pour un
+fait quelconque antérieur à la remise et différent de l'infraction qui a motivé
+cette mesure.
 
 Dans les deux cas, un procès-verbal consignant les déclarations faites par la
 personne remise est également transmis par les autorités compétentes de l'Etat

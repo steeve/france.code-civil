@@ -17,8 +17,3 @@ de l'article L. 951-1 à L. 951-16 ;
 frauduleuses dans tout document produit au ministre chargé de la sécurité
 sociale ou porté à la connaissance du public et des membres adhérents ou
 participants.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2 du code pénal, des infractions définies
-au présent article. Elles encourent, dans ce cas, la peine d'amende, suivant les
-modalités prévues par l'article 131-38 du code pénal.

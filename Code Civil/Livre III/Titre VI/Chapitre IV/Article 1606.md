@@ -2,7 +2,7 @@ Article 1606
 ----
 La délivrance des effets mobiliers s'opère :
 
-Ou par la tradition réelle,
+Ou par la remise de la chose,
 
 Ou par la remise des clefs des bâtiments qui les contiennent,
 

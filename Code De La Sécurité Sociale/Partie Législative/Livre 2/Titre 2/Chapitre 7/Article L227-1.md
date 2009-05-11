@@ -47,39 +47,7 @@ l'évolution du cadre législatif et réglementaire de leur action ;
 2° Le processus d'évaluation contradictoire des résultats obtenus au regard des
 objectifs fixés.
 
-II.-Pour la branche maladie, la convention d'objectifs et de gestion mentionne
-notamment les orientations pluriannuelles de l'action du Gouvernement dans les
-domaines de la santé publique, de la démographie médicale, du médicament et de
-la lutte contre l'exclusion en matière d'accès aux soins. La convention comporte
-également un plan de contrôle des prestations servies.
-
-Un avenant annuel à la convention d'objectifs et de gestion de la branche
-maladie du régime général détermine, en fonction de l'objectif national de
-dépenses d'assurance maladie voté par le Parlement, l'objectif prévisionnel des
-dépenses de soins de ville et, en son sein, l'objectif de dépenses déléguées et
-précise les conditions et modalités de mise en oeuvre de ces objectifs. Cet
-objectif prévisionnel des dépenses de soins de ville prend en compte les
-évolutions de toute nature à la suite desquelles des établissements, des
-services ou des activités sanitaires ou médico-sociaux se trouvent placés pour
-tout ou partie sous un régime juridique ou de financement différent de celui
-sous lequel ils étaient placés auparavant. Il peut être corrigé en fin d'année
-pour prendre en compte ces évolutions réalisées en cours d'année.
-
-Les dépenses de soins de ville comprennent :
-
-1° La rémunération des soins dispensés en ville par les professions médicales,
-les auxiliaires médicaux et les directeurs de laboratoires, ainsi que les soins
-dispensés dans les établissements visés à l'article L. 162-22 et tarifés à
-l'acte et les honoraires des praticiens exerçant en secteur privé à l'hôpital
-public ;
-
-2° Les dépenses résultant de l'exécution des prescriptions des professions
-médicales délivrées en ville ;
-
-3° Les prestations en espèces.
-
-Les dépenses déléguées comprennent les dépenses mentionnées au 1° ci-dessus
-ainsi que les frais de transport mentionnés à l'article L. 322-5.
+II. (Paragraphe abrogé)
 
 III.-Les conventions d'objectifs et de gestion sont conclues pour une période
 minimale de quatre ans. Elles sont communiquées aux conseils de surveillance

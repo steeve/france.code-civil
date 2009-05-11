@@ -5,10 +5,9 @@ Les dépenses obligatoires comprennent notamment :
 1° L'entretien de l'hôtel de ville ou, si la commune n'en possède pas, la
 location d'une maison ou d'une salle pour en tenir lieu ;
 
-2° Les frais de bureau et d'impression pour le service de la commune, les frais
-de conservation des archives communales et du recueil des actes administratifs
-du département et, pour les communes chefs-lieux de canton, les frais de
-conservation du Journal officiel ;
+2° Les frais de bureau et d'impression pour le service de la commune et les
+frais de conservation des archives communales et du recueil des actes
+administratifs du département ;
 
 3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations au
 régime général de la sécurité sociale en application de l'article L. 2123-25-2,

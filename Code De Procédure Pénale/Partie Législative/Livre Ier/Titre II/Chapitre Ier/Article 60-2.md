@@ -23,11 +23,7 @@ informations requises par voie télématique ou informatique dans les meilleurs
 délais.
 
 Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni
-d'une amende de 3 750 euros. Les personnes morales peuvent être déclarées
-responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal de l'infraction prévue au présent alinéa. La peine encourue par les
-personnes morales est l'amende, suivant les modalités prévues par l'article
-131-38 du code pénal.
+d'une amende de 3 750 euros.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de
 l'informatique et des libertés, détermine les catégories d'organismes visés au

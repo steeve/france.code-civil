@@ -31,10 +31,5 @@ extérieure de l'immeuble du ou des établissements professionnels de ces
 contribuables. Les frais de la publication et de l'affichage dont il s'agit sont
 intégralement à la charge du condamné.
 
-En cas de récidive dans le délai de cinq ans, le contribuable est puni d'une
-amende de 100 000 euros et d'un emprisonnement de dix ans. L'affichage et la
-publicité du jugement sont ordonnés dans les conditions prévues au quatrième
-alinéa.
-
 Les poursuites sont engagées dans les conditions prévues aux articles L. 229 à
 L. 231 du livre des procédures fiscales.

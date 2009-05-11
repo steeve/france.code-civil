@@ -53,4 +53,5 @@ Lorsque la caisse de mutualité sociale agricole entend modifier pour l'avenir s
 décision, elle en informe le cotisant.
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent
-article.
+article, notamment les conditions dans lesquelles les décisions rendues par les
+organismes de recouvrement font l'objet d'une publicité.

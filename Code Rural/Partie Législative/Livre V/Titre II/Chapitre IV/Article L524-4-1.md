@@ -1,9 +1,9 @@
 Article L524-4-1
 ----
 Tout associé d'une coopérative agricole ou d'une union de coopératives agricoles
-a le droit d'obtenir, à toute époque, communication des statuts et du règlement
-intérieur et des documents suivants concernant les trois derniers exercices clos
-:
+a le droit d'obtenir, à toute époque, communication des statuts et des
+règlements intérieurs et des documents suivants concernant les trois derniers
+exercices clos :
 
 - les comptes annuels, le cas échéant, les comptes consolidés ou combinés, la
 liste des administrateurs ou des membres du directoire et du conseil de

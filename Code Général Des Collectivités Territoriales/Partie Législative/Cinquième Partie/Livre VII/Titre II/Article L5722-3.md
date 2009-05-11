@@ -9,6 +9,6 @@ syndicat mixte donne lieu à délibération motivée de l'organe délibérant po
 sur les conditions de la vente et ses caractéristiques essentielles. La
 délibération est prise au vu de l'avis de l'autorité compétente de l'Etat. Cet
 avis est réputé donné à l'issue d'un délai d'un mois à compter de la saisine de
-ce service. Lorsque cette opération est envisagée dans le cadre d'une convention
-avec une commune, copie de cette délibération est transmise à la commune
-concernée dans les deux mois suivant son adoption.
+cette autorité. Lorsque cette opération est envisagée dans le cadre d'une
+convention avec une commune, copie de cette délibération est transmise à la
+commune concernée dans les deux mois suivant son adoption.

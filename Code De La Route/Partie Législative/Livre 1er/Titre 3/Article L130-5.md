@@ -4,12 +4,12 @@ Les règles relatives à la constatation des contraventions au présent code par
 les agents de police municipale sont fixées par l'article L. 2212-5 du code
 général des collectivités territoriales ci-après reproduit :
 
-" Art.L. 2212-5.-Sans préjudice de la compétence générale de la police nationale
-et de la gendarmerie nationale, les agents de police municipale exécutent, dans
-la limite de leurs attributions et sous son autorité, les tâches relevant de la
-compétence du maire que celui-ci leur confie en matière de prévention et de
-surveillance du bon ordre, de la tranquillité, de la sécurité et de la salubrité
-publiques.
+" Art. L. 2212-5.-Sans préjudice de la compétence générale de la police
+nationale et de la gendarmerie nationale, les agents de police municipale
+exécutent, dans la limite de leurs attributions et sous son autorité, les tâches
+relevant de la compétence du maire que celui-ci leur confie en matière de
+prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité
+et de la salubrité publiques.
 
 Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de
 constater par procès-verbaux les contraventions auxdits arrêtés. Sans préjudice
@@ -37,8 +37,9 @@ municipale, en vue de les mettre à disposition de l'ensemble de ces communes.
 Leur nomination en qualité de fonctionnaires stagiaires ne fait pas obstacle à
 leur mise à disposition.
 
-Les agents de police municipale ainsi recrutés exercent les compétences
-mentionnées ci-dessus, sans préjudice des compétences de police judiciaire qui
-leur sont dévolues par le code de procédure pénale et par les lois pénales
-spéciales. Pendant l'exercice de leurs fonctions sur le territoire d'une
-commune, ils sont placés sous l'autorité du maire de cette commune ".
+Les agents de police municipale ainsi recrutés exercent, sur le territoire de
+chaque commune où ils sont affectés, les compétences mentionnées ci-dessus, sans
+préjudice des compétences de police judiciaire qui leur sont dévolues par le
+code de procédure pénale et par les lois pénales spéciales. Pendant l'exercice
+de leurs fonctions sur le territoire d'une commune, ils sont placés sous
+l'autorité du maire de cette commune. "

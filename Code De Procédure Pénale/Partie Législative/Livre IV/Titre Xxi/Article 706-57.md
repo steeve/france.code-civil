@@ -5,7 +5,8 @@ soupçonner qu'elles ont commis ou tenté de commettre une infraction et qui son
 susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent,
 sur autorisation du procureur de la République ou du juge d'instruction,
 déclarer comme domicile l'adresse du commissariat ou de la brigade de
-gendarmerie.
+gendarmerie. Si la personne a été convoquée en raison de sa profession,
+l'adresse déclarée peut être son adresse professionnelle.
 
-L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé,
-qui est ouvert à cet effet.
+L'adresse personnelle de ces personnes est alors inscrite sur un registre coté
+et paraphé, qui est ouvert à cet effet.

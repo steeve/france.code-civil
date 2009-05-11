@@ -23,8 +23,3 @@ ministre chargé de l'économie et des finances est puni des mêmes peines.
 Est également puni des mêmes peines le fait, pour quiconque, à l'occasion
 d'activités régies par le présent code, de formuler des déclarations mensongères
 dans tout document porté à la connaissance du public ou de la clientèle.
-
-Les personnes morales peuvent également être déclarées responsables pénalement,
-dans les conditions prévues par l'article 121-2 du code pénal, des infractions
-définies au présent article et encourent, dans ce cas, la peine d'amende,
-suivant les modalités prévues par l'article 131-38 du code pénal.

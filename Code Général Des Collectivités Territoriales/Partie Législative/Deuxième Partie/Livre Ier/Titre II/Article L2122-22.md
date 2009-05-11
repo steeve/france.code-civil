@@ -21,7 +21,7 @@ de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation,
 l'exécution et le règlement des marchés et des accords-cadres ainsi que toute
-décision concernant leurs avenants , lorsque les crédits sont inscrits au budget
+décision concernant leurs avenants, lorsque les crédits sont inscrits au budget
 ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une
@@ -88,4 +88,9 @@ municipal, le droit de préemption défini par l'article L. 214-1 du code de
 l'urbanisme ;
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L.
-240-1 et suivants du code de l'urbanisme.
+240-1 et suivants du code de l'urbanisme ;
+
+23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du
+code du patrimoine relatives à la réalisation de diagnostics d'archéologie
+préventive prescrits pour les opérations d'aménagement ou de travaux sur le
+territoire de la commune.

@@ -3,7 +3,8 @@ Article L2325-35
 Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix
 :
 
-1° En vue de l'examen annuel des comptes prévu à l'article L. 2323-8 ;
+1° En vue de l'examen annuel des comptes prévu aux articles L. 2323-8 et L.
+2323-9 ;
 
 2° En vue de l'examen des documents mentionnés à l'article L. 2323-10, dans la
 limite de deux fois par exercice ;
