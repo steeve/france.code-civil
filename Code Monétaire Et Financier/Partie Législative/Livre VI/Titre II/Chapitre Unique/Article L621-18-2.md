@@ -1,11 +1,10 @@
 Article L621-18-2
 ----
-Sont communiqués par les personnes mentionnées aux a à c à l'Autorité des
+I-Sont communiqués par les personnes mentionnées aux a à c à l'Autorité des
 marchés financiers, et rendus publics par cette dernière dans le délai déterminé
 par son règlement général, les acquisitions, cessions, souscriptions ou échanges
-de titres d'une personne faisant appel public à l'épargne ainsi que les
-transactions opérées sur des instruments financiers qui leur sont liées, lorsque
-ces opérations sont réalisées par :
+d'actions d'une société ainsi que les transactions opérées sur des instruments
+financiers qui leur sont liés, lorsque ces opérations sont réalisées par :
 
 a) Les membres du conseil d'administration, du directoire, du conseil de
 surveillance, le directeur général, le directeur général unique, le directeur
@@ -26,3 +25,16 @@ alinéa, une copie de cette communication. Le règlement général de l'Autorit�
 marchés financiers définit les modalités de la communication à celle-ci ainsi
 que les conditions dans lesquelles l'assemblée générale des actionnaires est
 informée des opérations mentionnées au présent article.
+
+Le I s'applique aux transactions portant sur les actions et les instruments
+financiers qui leur sont liés, de toute société dont les actions sont admises
+aux négociations sur un marché réglementé et ayant son siège statutaire en
+France ou ayant son siège statutaire hors de l'Espace économique européen et
+relevant de la compétence de l'Autorité des marchés financiers pour le contrôle
+du respect de l'obligation d'information prévue à l'article L. 451-1-1.
+
+II.-L'Autorité des marchés financiers peut prévoir que les règles mentionnées au
+I sont également applicables, dans les conditions et selon des modalités fixées
+par son règlement général, aux instruments financiers négociés sur tout marché
+d'instruments financiers ne constituant pas un marché réglementé, lorsque la
+personne qui gère ce marché en fait la demande.

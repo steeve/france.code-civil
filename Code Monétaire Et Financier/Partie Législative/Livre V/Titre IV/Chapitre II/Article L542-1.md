@@ -4,7 +4,7 @@ Seuls peuvent exercer les activités de tenue de compte-conservation
 d'instruments financiers :
 
 1° Les personnes morales au titre des instruments financiers qu'elles émettent
-par appel public à l'épargne ;
+par offre au public ;
 
 2° Les établissements de crédit établis en France ;
 

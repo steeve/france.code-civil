@@ -38,11 +38,13 @@ c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livr
 ou a tenté de se livrer à une opération d'initié ou s'est livrée à une
 manipulation de cours, à la diffusion d'une fausse information ou à tout autre
 manquement mentionné au premier alinéa du I de l'article L. 621-14, dès lors que
-ces actes concernent un instrument financier émis par une personne ou une entité
-faisant appel public à l'épargne ou admis aux négociations sur un marché
-d'instruments financiers ou pour lequel une demande d'admission aux négociations
-sur un tel marché a été présentée, dans les conditions déterminées par le
-règlement général de l'Autorité des marchés financiers ;
+ces actes concernent un instrument financier admis aux négociations sur un
+marché réglementé ou sur un système multilatéral de négociation qui se soumet
+aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations, ou pour lequel une demande d'admission aux
+négociations sur de tels marchés a été présentée, dans les conditions
+déterminées par le règlement général de l'Autorité des marchés financiers ;
 
 d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se
 livrer à une opération d'initié ou s'est livrée à une manipulation de cours, à
@@ -51,7 +53,11 @@ dernier alinéa du I de l'article L. 621-14, dès lors que ces actes concernent 
 instrument financier admis aux négociations sur un marché réglementé d'un autre
 Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
 économique européen ou pour lequel une demande d'admission aux négociations sur
-un tel marché a été présentée.
+un tel marché a été présentée ;
+
+e) Toute personne qui, sur le territoire français ou étranger, s'est livrée ou a
+tenté de se livrer à la diffusion d'une fausse information lors d'une opération
+d'offre au public de titres financiers.
 
 III.-Les sanctions applicables sont :
 
