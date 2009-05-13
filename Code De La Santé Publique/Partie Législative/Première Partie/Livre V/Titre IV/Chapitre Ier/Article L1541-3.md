@@ -26,13 +26,7 @@ a) La dernière phrase du troisième alinéa et, au quatrième alinéa, les mots
 et répondant à des conditions d'interopérabilité arrêtées par le ministre chargé
 de la santé " ne sont pas applicables ;
 
-b) Après le onzième alinéa, il est inséré un alinéa ainsi rédigé :
-
-Pour les missions de contrôle prévues à l'alinéa précédent, les dispositions des
-articles L. 1421-1 à L. 1421-3 ainsi que l'article L. 1421-5 sont applicables en
-Nouvelle-Calédonie et en Polynésie française. Dans ce cas, pour l'application de
-l'article L. 1421-1, les mots : " tribunal de grande instance " sont remplacés
-par les mots : " tribunal de première instance " ;
+b) abrogé ;
 
 6° A l'article L. 1111-8-1, les mots : " ou d'un réseau de santé défini à
 l'article L. 6321-1 " ainsi que les mots : " Il est également utilisé pour

@@ -1,8 +1,14 @@
 Article 804
 ----
-A l'exception du cinquième alinéa de l'article 398 et des articles 529-3 à
-529-9, 717 à 719, le présent code (Dispositions législatives) est applicable en
-Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles
-Wallis-et-Futuna, sous réserve des adaptations prévues au présent titre. Les
-dispositions des articles 52-1, 83-1 et 83-2 ne sont pas applicables dans les
-îles Wallis et Futuna.
+Le présent code est applicable en Nouvelle-Calédonie, en Polynésie française et
+dans les îles Wallis et Futuna sous réserve des adaptations prévues au présent
+titre, et aux seules exceptions :
+
+1° Pour la Nouvelle-Calédonie du cinquième alinéa de l'article 398 et des
+articles 529-3 à 529-6 ;
+
+2° Pour la Polynésie française du cinquième alinéa de l'article 398, des
+articles 529-3 à 529-9 et 529-11 ;
+
+3° Pour les îles Wallis et Futuna des articles 52-1,83-1,83-2, du cinquième
+alinéa de l'article 398, des articles 529-3 à 529-9 et 529-11.
