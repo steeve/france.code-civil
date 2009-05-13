@@ -24,3 +24,7 @@ l'élection est acquise au plus âgé.
 Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin
 secret aux nominations ou aux présentations, sauf disposition législative ou
 réglementaire prévoyant expressément ce mode de scrutin.
+
+Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin
+secret aux nominations ou aux présentations, sauf disposition législative ou
+réglementaire prévoyant expressément ce mode de scrutin.
