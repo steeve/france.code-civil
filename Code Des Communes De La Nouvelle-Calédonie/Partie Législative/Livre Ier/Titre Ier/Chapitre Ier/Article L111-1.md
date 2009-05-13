@@ -1,5 +1,11 @@
 Article L111-1
 ----
-Le changement de nom d'une commune est décidé par décret, sur la demande du
-conseil municipal, le congrès de la Nouvelle-Calédonie consulté et le Conseil
-d'Etat entendu.
+Les communes de la Nouvelle-Calédonie sont créées par décret en Conseil d'Etat,
+après consultation du congrès.
+
+Les modifications des limites territoriales des communes et le transfert de leur
+chef-lieu sont prononcés, après avis du gouvernement de la Nouvelle-Calédonie et
+après consultation des conseils municipaux intéressés, par arrêté du
+haut-commissaire de la République en cas d'accord de ces assemblées, par arrêté
+du ministre chargé de l'outre-mer, après consultation du congrès, au cas
+contraire.

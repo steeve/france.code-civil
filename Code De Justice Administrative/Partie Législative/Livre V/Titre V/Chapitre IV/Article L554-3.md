@@ -22,4 +22,8 @@ relatives aux demandes de suspension prévues aux alinéas précédents, rendus 
 recours du représentant de l'Etat, est présenté par celui-ci. "
 
 Il en va de même pour les actes des collectivités visés aux articles L. 3132-1,
-et L. 4142-1 du code général des collectivités territoriales.
+L. 4142-1, LO 6152-1, LO 6242-1, LO 6342-1 et LO 6452-1 du code général des
+collectivités territoriales, à l'article L. 121-39-2 du code des communes de la
+Nouvelle-Calédonie, à l'article 204 de la loi n° 99-209 du 19 mars 1999 relative
+à la Nouvelle-Calédonie et à l'article 172 de la loi organique n° 2004-192 du 27
+février 2004 portant statut d'autonomie de la Polynésie française.

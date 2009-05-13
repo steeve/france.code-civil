@@ -6,14 +6,14 @@ mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moy
 de son identité toute personne à l'égard de laquelle existe une ou plusieurs
 raisons plausibles de soupçonner :
 
-- qu'elle a commis ou tenté de commettre une infraction ;
+-qu'elle a commis ou tenté de commettre une infraction ;
 
-- ou qu'elle se prépare à commettre un crime ou un délit ;
+-ou qu'elle se prépare à commettre un crime ou un délit ;
 
-- ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en
+-ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en
 cas de crime ou de délit ;
 
-- ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
+-ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
 
 Sur réquisitions écrites du procureur de la République aux fins de recherche et
 de poursuite d'infractions qu'il précise, l'identité de toute personne peut être
@@ -75,4 +75,10 @@ Basse-Terre, Gourbeyre et Trois-Rivières et, d'autre part, de la route national
 4 sur le territoire des communes du Gosier et de Sainte-Anne et Saint-François ;
 
 2° A Mayotte, dans une zone comprise entre le littoral et une ligne tracée à un
-kilomètre en deçà.
+kilomètre en deçà ;
+
+3° A Saint-Martin, dans une zone comprise entre le littoral et une ligne tracée
+à un kilomètre en deçà ;
+
+4° A Saint-Barthélemy, dans une zone comprise entre le littoral et une ligne
+tracée à un kilomètre en deçà.
