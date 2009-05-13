@@ -6,12 +6,12 @@ délibérations des commissions administratives des établissements charitables
 communaux qui concernent un emprunt sont exécutoires, sur avis conforme du
 conseil municipal :
 
-- lorsque la somme à emprunter ne dépasse pas, seule ou réunie au chiffre
+-lorsque la somme à emprunter ne dépasse pas, seule ou réunie au chiffre
 d'autres emprunts non encore remboursés, le montant des revenus ordinaires de
 l'établissement et que le remboursement doit être effectué dans le délai de
 douze années ;
 
-- et sous réserve que, s'il s'agit de travaux quelconques à exécuter, le projet
+-et sous réserve que, s'il s'agit de travaux quelconques à exécuter, le projet
 en ait été préalablement approuvé par l'autorité compétente.
 
 Un arrêté du haut-commissaire est nécessaire pour autoriser l'emprunt si la
@@ -22,5 +22,5 @@ le remboursement doit être effectué dans un délai supérieur à douze années
 L'emprunt ne peut être autorisé que par arrêté motivé du haut-commissaire si
 l'avis du conseil municipal est défavorable.
 
-L'emprunt ne peut être autorisé que par décret en Conseil d'Etat si la durée de
-remboursement dépasse trente ans.
+L'emprunt ne peut être autorisé que par décret si la durée de remboursement
+dépasse trente ans.

@@ -5,5 +5,5 @@ ministre de l'économie et des finances est autorisé, en dehors des disposition
 législatives spéciales, à accorder aux communes en application des dispositions
 de l'article précédent.
 
-Un décret en Conseil d'Etat détermine les conditions et les limites dans
-lesquelles ces avances peuvent être consenties.
+Un décret détermine les conditions et les limites dans lesquelles ces avances
+peuvent être consenties.

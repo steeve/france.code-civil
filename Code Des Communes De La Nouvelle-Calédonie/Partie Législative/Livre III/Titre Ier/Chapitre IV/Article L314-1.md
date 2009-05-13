@@ -5,7 +5,7 @@ Aux conventions de marché et de délégation de service public des communes et 
 II de l'article L. 121-39-1 au haut-commissaire ou au commissaire délégué dans
 la province, dans un délai de quinze jours à compter de leur signature,
 l'autorité territoriale joint l'ensemble des pièces dont la liste est fixée par
-décret en Conseil d'Etat.
+décret.
 
 Elle certifie, par une mention apposée sur la convention notifiée au titulaire
 du marché ou de la délégation, que celle-ci a bien été transmise, en précisant

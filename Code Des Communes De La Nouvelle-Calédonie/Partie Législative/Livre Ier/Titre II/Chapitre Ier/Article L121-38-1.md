@@ -11,5 +11,4 @@ la valeur horaire du salaire minimum garanti par heure.
 Le montant des dépenses de formation ne peut excéder 20 % du montant total des
 indemnités de fonction qui peuvent être allouées aux élus de la commune.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat.
+Les modalités d'application du présent article sont fixées par décret.
