@@ -9,5 +9,6 @@ dispositions de cet article.
 
 Le préfet de Corse est le délégué territorial de l'établissement pour
 l'instruction des demandes de subvention d'équipement. Il est assisté d'un
-délégué territorial adjoint qui est le directeur régional de la jeunesse, des
-sports et de la vie associative.
+délégué territorial adjoint désigné par le directeur général sur proposition du
+délégué territorial, parmi les chefs des services déconcentrés de l'Etat chargés
+des sports ou leurs adjoints.

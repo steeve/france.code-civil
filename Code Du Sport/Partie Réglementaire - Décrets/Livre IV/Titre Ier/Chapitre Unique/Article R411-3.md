@@ -17,13 +17,8 @@ représentant ;
 
 d) Le directeur des sports ou son représentant ;
 
-2° Quatre représentants du ministère chargé des sports nommés par le ministre
-chargé des sports, dont :
-
-a) Un directeur régional de la jeunesse, des sports et de la vie associative ;
-
-b) Un directeur départemental de la jeunesse, des sports et de la vie
-associative ;
+2° Quatre représentants du ministère chargé des sports nommés par le ministre,
+dont deux chefs des services déconcentrés de l'Etat chargés des sports ;
 
 3° Cinq représentants du mouvement sportif nommés par le ministre chargé des
 sports après désignation par le président du Comité national olympique et

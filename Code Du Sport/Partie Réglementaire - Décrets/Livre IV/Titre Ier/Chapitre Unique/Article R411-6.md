@@ -44,15 +44,11 @@ directives de l'établissement concernant la répartition des subventions
 attribuées au niveau local ;
 
 14° La liste des bénéficiaires et les montants des subventions qu'il attribue au
-niveau national, à l'exception des concours destinés au financement des actions
-mentionnées à l'alinéa suivant ;
+niveau national.
 
-15° Les financements affectés aux actions mentionnées au second alinéa du 1 du
-III de l'article 53 de la loi du 30 décembre 2005 de finances pour 2006.
-
-Il est consulté sur tout projet de contrat de plan Etat-région dont les
-dispositions prévoient la réalisation ou la rénovation d'équipements sportifs de
-collectivités territoriales nécessitant le concours financier de
+Il est consulté sur tout projet de convention entre l'Etat et une ou plusieurs
+collectivités territoriales dont les dispositions prévoient la réalisation ou la
+rénovation d'équipements sportifs nécessitant le concours financier de
 l'établissement.
 
 Les délibérations du conseil d'administration relatives au règlement général de
