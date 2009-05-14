@@ -101,4 +101,4 @@ l'éducation nationale (SNPDEN) ;
 bb) Un représentant du Syndicat national des chefs d'établissement de
 l'enseignement libre (SNCEEL) ;
 
-bc) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
+c) Quatre personnalités qualifiées désignées en fonction de leurs compétences.

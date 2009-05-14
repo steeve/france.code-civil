@@ -5,8 +5,7 @@ Le conseil d'école, sur proposition du directeur de l'école :
 1° Vote le règlement intérieur de l'école ;
 
 2° Etablit le projet d'organisation de la semaine scolaire conformément aux
-articles 10 et 10-1 du décret n° 90-788 du 6 septembre 1990 relatif à
-l'organisation et au fonctionnement des écoles maternelles et élémentaires ;
+articles D. 521-10 à D. 521-13 du code de l'éducation ;
 
 3° Dans le cadre de l'élaboration du projet d'école à laquelle il est associé,
 donne tous avis et présente toutes suggestions sur le fonctionnement de l'école

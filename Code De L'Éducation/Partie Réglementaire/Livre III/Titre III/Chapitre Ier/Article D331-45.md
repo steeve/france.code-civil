@@ -1,7 +1,5 @@
 Article D331-45
 ----
-L'article D. 331-44 n'est pas applicable à Saint-Pierre-et-Miquelon.
-
 Pour leur application à Saint-Pierre-et-Miquelon, les articles suivants sont
 ainsi modifiés :
 
@@ -46,11 +44,16 @@ nationale. Il est assisté d'une commission préparatoire à l'affectation des
 
 " - le chef des travaux du lycée professionnel ;
 
-" - trois enseignants.
+" - trois enseignants ;
+
+" - deux représentants des parents d'élèves de l'enseignement public, au titre
+des associations les plus représentatives.
 
 " Les membres de la commission sont nommés par le chef du service de l'éducation
 nationale pour une durée d'un an renouvelable, sur proposition des associations
-pour les représentants des parents d'élèves.
+pour les représentants des parents d'élèves. Dans les mêmes conditions, le chef
+du service de l'éducation nationale désigne un nombre égal de suppléants des
+représentants des parents d'élèves.
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les
 propose à la décision du chef du service de l'éducation nationale.

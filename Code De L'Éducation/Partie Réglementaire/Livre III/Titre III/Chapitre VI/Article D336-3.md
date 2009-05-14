@@ -18,8 +18,8 @@ Le baccalauréat technologique comprend les séries suivantes :
 7° Série " techniques de la musique et de la danse ".
 
 Chacune de ces séries peut comprendre différentes spécialités et options. Celles
-relatives aux séries SMS, STI, STL, STG et " hôtellerie " sont fixées par arrêté
-du ministre chargé de l'éducation.
+relatives aux séries ST2S, STI, STL, STG et " hôtellerie " sont fixées par
+arrêté du ministre chargé de l'éducation.
 
 Les dispositions des cinquième et neuvième alinéas du présent article, relatives
 à la série STG, entrent en application à compter de la session 2007 de l'examen
