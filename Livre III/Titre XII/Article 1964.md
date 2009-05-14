@@ -8,10 +8,6 @@ Tels sont :
 
 Le contrat d'assurance,
 
-Le prêt à grosse aventure,
-
 Le jeu et le pari,
 
 Le contrat de rente viagère.
-
-Les deux premiers sont régis par les lois maritimes.

@@ -1,6 +1,6 @@
 Article 1398
 ----
-Le mineur habile à contracter mariage est habile à consentir toutes les
+Le mineur capable de contracter mariage est capable de consentir toutes les
 conventions dont ce contrat est susceptible et les conventions et donations
 qu'il y a faites sont valables, pourvu qu'il ait été assisté, dans le contrat,
 des personnes dont le consentement est nécessaire pour la validité du mariage.

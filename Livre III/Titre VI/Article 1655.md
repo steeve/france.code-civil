@@ -1,6 +1,6 @@
 Article 1655
 ----
-La résolution de la vente d'immeubles est prononcée de suite si le vendeur est
+La résolution de la vente d'immeubles est prononcée aussitôt si le vendeur est
 en danger de perdre la chose et le prix.
 
 Si ce danger n'existe pas, le juge peut accorder à l'acquéreur un délai plus ou

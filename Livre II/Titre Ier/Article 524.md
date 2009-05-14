@@ -10,7 +10,7 @@ Les animaux attachés à la culture ;
 
 Les ustensiles aratoires ;
 
-Les semences données aux fermiers ou colons partiaires ;
+Les semences données aux fermiers ou métayers ;
 
 Les pigeons des colombiers ;
 

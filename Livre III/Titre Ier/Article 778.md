@@ -4,7 +4,7 @@ Sans préjudice de dommages et intérêts, l'héritier qui a recelé des biens o
 droits d'une succession ou dissimulé l'existence d'un cohéritier est réputé
 accepter purement et simplement la succession, nonobstant toute renonciation ou
 acceptation à concurrence de l'actif net, sans pouvoir prétendre à aucune part
-dans les biens ou les droits divertis ou recelés. Les droits revenant à
+dans les biens ou les droits détournés ou recelés. Les droits revenant à
 l'héritier dissimulé et qui ont ou auraient pu augmenter ceux de l'auteur de la
 dissimulation sont réputés avoir été recelés par ce dernier.
 

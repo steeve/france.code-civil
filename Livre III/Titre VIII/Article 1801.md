@@ -6,6 +6,6 @@ Le cheptel simple ou ordinaire,
 
 Le cheptel à moitié,
 
-Le cheptel donné au fermier ou au colon partiaire.
+Le cheptel donné au fermier ou au métayer.
 
 Il y a encore une quatrième espèce de contrat improprement appelée cheptel.
