@@ -17,7 +17,9 @@ R. 211-32 ;
 vidange des dispositifs d'assainissement non collectif, de ne pas mettre en
 place un dispositif de surveillance des épandages, ou de ne pas tenir à jour le
 registre mentionné à l'article R. 211-34, ou de ne pas fournir régulièrement aux
-utilisateurs de boues les informations figurant dans celui-ci ;
+utilisateurs de boues les informations figurant dans celui-ci ou de ne pas
+effectuer la transmission des informations mentionnée au V de l'article R.
+211-34 ;
 
 5° Le fait, pour le producteur de boues, de n'avoir pas élaboré, avant
 l'épandage, l'étude mentionnée à l'article R. 211-33 ou, le cas échéant, d'avoir
