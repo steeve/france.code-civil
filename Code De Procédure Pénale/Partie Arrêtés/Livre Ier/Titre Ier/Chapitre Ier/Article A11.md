@@ -6,7 +6,7 @@ réunit la commission aux fins d'arrêter :
 1° La liste par ordre de mérite des gendarmes pour lesquels la commission émet
 un avis favorable à l'attribution de la qualité d'officier de police judiciaire.
 
-Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour
+Seuls peuvent être retenus les candidats qui totalisent 20 points au moins pour
 l'ensemble des deux épreuves.
 
 2° La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points

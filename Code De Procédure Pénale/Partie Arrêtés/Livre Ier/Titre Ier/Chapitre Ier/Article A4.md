@@ -1,72 +1,165 @@
 Article A4
 ----
-Le programme des épreuves de l'examen technique est ainsi fixé :
+Le programme des épreuves de l'examen prévu à l'article qui précède est le
+suivant :
 
 
 Procédure pénale
 
-Action publique ; action civile ;
+L'action publique et l'action civile : notions générales.
 
-Le ministère public ; le procureur général ; le procureur de la République ;
+Les autorités investies par la loi de missions de police judiciaire :
 
-Le juge d'instruction ;
+- la police judiciaire ;
 
-La police judiciaire, officiers de police judiciaire, agents de police
-judiciaire ;
+- le ministère public ;
 
-La procédure des crimes et délits flagrants ;
+- le magistrat instructeur.
 
-L'enquête préliminaire ;
+Les enquêtes, les contrôles d'identité :
 
-Les pouvoirs des préfets en matière de police judiciaire ;
+- les cadres juridiques ;
 
-Les perquisitions et saisies ;
+- les contrôles, les vérifications et les relevés d'identité.
 
-L'instruction du premier et du second degré ;
+L'instruction :
 
-Les mandats de justice ;
+- du premier et du second degré ;
 
-Les commissions rogatoires ;
+- le contrôle judiciaire et la détention provisoire ;
 
-L'enquête sur la personnalité des inculpés ainsi que sur leur situation
-matérielle, familiale ou sociale ;
+- la commission rogatoire.
 
-Le contrôle de la chambre de l'instruction sur l'activité des officiers de
-police judiciaire ;
+Les procédures particulières :
 
-Les juridictions répressives ; cour d'assises, tribunal correctionnel, tribunal
-de police ;
+- l'entraide judiciaire internationale ;
 
-Les voies de recours : appel, défaut et opposition ;
+- la procédure applicable à la criminalité et à la délinquance organisées.
 
-L'enfance délinquante ; protection des mineurs en danger physique ou moral ;
-l'enquête sur le mineur, sa famille et son milieu.
+La procédure pénale applicable aux mineurs.
+
+Le contrôle de la mission de police judiciaire.
+
+Les mandats de justice.
+
+Les juridictions de jugement.
+
+L'exécution des décisions de justice :
+
+- la contrainte judiciaire ;
+
+- les juridictions de l'application des peines.
 
 
-Droit pénal
+Droit pénal général
 
-L'infraction en général ; éléments constitutifs ; classification des infractions
-: crimes, délits, contraventions, intérêt de la distinction ;
+La loi pénale :
 
-La tentative punissable ; le commencement d'exécution ; le désistement
-volontaire ;
+- les principes généraux ;
 
-La responsabilité pénale ; non-culpabilité ; faits justificatifs ; excuses ;
-circonstances atténuantes ; circonstances aggravantes ;
+- l'application de la loi pénale dans le temps et dans l'espace.
 
-La complicité ; le concours d'infractions ;
+L'infraction pénale :
 
-La récidive ; le casier judiciaire ;
+- la classification des infractions ;
 
-Le sursis ; la libération conditionnelle ;
+- les éléments constitutifs de l'infraction ;
 
-Définition et classification des peines ; exécution, extinction des peines ; la
-réhabilitation ;
+- les circonstances aggravantes.
 
-Divers genres d'établissements pénitentiaires ;
+La responsabilité pénale :
 
-Infractions prévues aux livres III et IV du Code pénal ;
+- les dispositions générales : la tentative, la coaction et la complicité ;
 
-Infractions à la police de la circulation routière ;
+- la responsabilité pénale des personnes morales ;
 
-Infractions aux lois sur la presse.
+- les causes d'irresponsabilité ou d'atténuation de la responsabilité.
+
+Les peines :
+
+- la classification légale ;
+
+- le concours d'infractions ;
+
+- la récidive ;
+
+- la réitération d'infractions.
+
+
+Droit pénal spécial
+
+Les crimes et délits contre les personnes :
+
+- les atteintes à la vie de la personne ;
+
+- les atteintes à l'intégrité physique ou psychique de la personne ;
+
+- la mise en danger de la personne ;
+
+- les atteintes aux libertés de la personne ;
+
+- les atteintes à la dignité de la personne ;
+
+- les atteintes à la personnalité ;
+
+- les atteintes aux mineurs et à la famille.
+
+Les crimes et délits contre les biens :
+
+- le vol ;
+
+- l'extorsion ;
+
+- l'escroquerie et les infractions voisines ;
+
+- les détournements ;
+
+- le recel et les infractions assimilées ou voisines ;
+
+- les destructions, dégradations et détériorations ;
+
+- les atteintes aux systèmes de traitement automatisé de données.
+
+Les crimes et délits contre la nation, l'Etat et la paix publique :
+
+- les atteintes à l'administration publique commises par des personnes exerçant
+une fonction publique ;
+
+- les atteintes à l'administration publique commises par des particuliers ;
+
+- les atteintes à l'action de la justice ;
+
+- les atteintes à la confiance publique ;
+
+- la participation à une association de malfaiteurs.
+
+La falsification de moyens de paiement.
+
+Les infractions au régime des matériels de guerre, des armes et des munitions.
+
+Les infractions délictuelles à la circulation routière.
+
+
+Libertés publiques
+
+Introduction générale aux libertés publiques.
+
+Les libertés individuelles et la vie privée :
+
+- la sûreté ;
+
+- la liberté d'aller et venir ;
+
+- le respect de la vie privée, du domicile et des correspondances ;
+
+- le respect de la personne et les lois antidiscriminatoires ;
+
+- la CNIL.
+
+Les libertés d'expression collectives :
+
+- le régime des manifestations ;
+
+- le régime des attroupements ;
+
+- la liberté de la presse.
