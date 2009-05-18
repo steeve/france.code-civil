@@ -2,10 +2,11 @@ Article R236-2
 ----
 Le projet de fusion ou de scission fait l'objet d'un avis inséré, par chacune
 des sociétés participant à l'opération, dans un journal habilité à recevoir des
-annonces légales du département du siège social. Au cas où l'une au moins de ces
-sociétés fait publiquement appel à l'épargne ou si toutes les actions de l'une
-d'entre elles au moins ne revêtent pas la forme nominative, un avis est en outre
-inséré au Bulletin des annonces légales obligatoires.
+annonces légales du département du siège social. Au cas où les actions de l'une
+au moins de ces sociétés sont admises aux négociations sur un marché réglementé
+ou si toutes les actions de l'une d'entre elles au moins ne revêtent pas la
+forme nominative, un avis est en outre inséré au Bulletin des annonces légales
+obligatoires.
 
 Cet avis contient les indications suivantes :
 

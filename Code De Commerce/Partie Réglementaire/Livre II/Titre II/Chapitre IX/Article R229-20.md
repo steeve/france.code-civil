@@ -3,8 +3,9 @@ Article R229-20
 Le projet de transformation de la société anonyme, prévu au deuxième alinéa de
 l'article L. 225-245-1, fait l'objet d'un avis inséré dans un journal habilité à
 recevoir des annonces légales dans le département du siège social ainsi qu'au
-Bulletin des annonces légales obligatoires lorsque la société fait appel public
-à l'épargne ou lorsque ses actions ne revêtent pas toutes la forme nominative.
+Bulletin des annonces légales obligatoires lorsque les actions de la société
+sont admises aux négociations sur un marché réglementé ou lorsque ses actions ne
+revêtent pas toutes la forme nominative.
 
 Cet avis comporte les indications suivantes :
 

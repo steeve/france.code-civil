@@ -1,9 +1,9 @@
 Article R225-73
 ----
-I. - Les sociétés faisant publiquement appel à l'épargne ou dont toutes les
-actions ne revêtent pas la forme nominative sont tenues, avant la réunion de
-l'assemblée des actionnaires, de publier au Bulletin des annonces légales
-obligatoires un avis contenant les indications suivantes :
+I. - Les sociétés dont les actions sont admises aux négociations sur un marché
+réglementé ou dont toutes les actions ne revêtent pas la forme nominative sont
+tenues, avant la réunion de l'assemblée des actionnaires, de publier au Bulletin
+des annonces légales obligatoires un avis contenant les indications suivantes :
 
 1° La dénomination sociale, suivie le cas échéant de son sigle ;
 

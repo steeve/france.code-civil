@@ -31,7 +31,8 @@ au moins avant la date prévue de clôture de la souscription, en cas d'émissio
 de titres, ou dans les quinze jours suivant la décision relative à l'opération
 envisagée, dans les autres cas.
 
-Si la société fait appel public à l'épargne ou si toutes ses valeurs mobilières
+Si les valeurs mobilières de la société donnant accès au capital sont admises
+aux négociations sur un marché réglementé ou si toutes ses valeurs mobilières
 donnant accès au capital ne revêtent pas la forme nominative, l'avis contenant
 ces indications est inséré, dans le même délai, dans une notice publiée au
 Bulletin des annonces légales obligatoires.

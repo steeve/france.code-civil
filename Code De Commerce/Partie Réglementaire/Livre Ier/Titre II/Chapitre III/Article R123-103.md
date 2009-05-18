@@ -23,8 +23,8 @@ b) S'il s'agit d'une société par actions, deux exemplaires du certificat du
 dépositaire des fonds auquel est jointe la liste des souscripteurs mentionnant
 le nombre d'actions souscrites et les sommes versées par chacun d'eux ;
 
-c) S'il s'agit d'une société faisant publiquement appel à l'épargne, deux copies
-du procès-verbal des délibérations de l'assemblée générale constitutive.
+c) S'il s'agit d'une société constituée par offre au public, deux copies du
+procès-verbal des délibérations de l'assemblée générale constitutive.
 
 Lors de la première immatriculation, les statuts établis sous seing privé
 peuvent être fournis en copie des originaux.

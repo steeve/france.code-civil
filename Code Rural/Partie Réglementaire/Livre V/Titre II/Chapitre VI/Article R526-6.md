@@ -6,9 +6,10 @@ agricole ou union de coopératives agricoles participant à l'opération.
 
 Il fait l'objet d'un avis inséré dans un journal habilité à recevoir des
 annonces légales du département du siège social, par chacune des sociétés
-coopératives agricoles ou des unions participant à l'opération. Au cas où l'une
-au moins de ces sociétés fait publiquement appel à l'épargne, un avis doit en
-outre être inséré au Bulletin des annonces légales obligatoires.
+coopératives agricoles ou des unions participant à l'opération. Au cas où toutes
+les parts sociales de l'une au moins de ces sociétés ne revêtent pas la forme
+nominative, un avis doit en outre être inséré au Bulletin des annonces légales
+obligatoires.
 
 Cet avis contient les indications suivantes :
 

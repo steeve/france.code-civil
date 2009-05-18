@@ -14,10 +14,10 @@ surveillance et, le cas échéant, les limitations apportées par le conseil
 d'administration aux pouvoirs du directeur général dans l'exercice de ses
 fonctions.
 
-Toutefois, les entreprises faisant appel public à l'épargne ne sont pas tenues
-de fournir ces éléments lorsqu'elles transmettent à l'Autorité de contrôle le
-rapport mentionné, selon les cas, à l'article L. 225-37 ou à l'article L. 225-68
-du code de commerce.
+Toutefois, les entreprises dont les titres financiers sont admis aux
+négociations sur un marché réglementé ne sont pas tenues de fournir ces éléments
+lorsqu'elles transmettent à l'Autorité de contrôle le rapport mentionné, selon
+les cas, à l'article L. 225-37 ou à l'article L. 225-68 du code de commerce.
 
 2° La seconde partie de ce rapport détaille :
 

@@ -8,5 +8,6 @@ La publicité de la décision judiciaire qui prononce la dissolution de la soci�
 européenne est faite par insertion au Bulletin officiel des annonces civiles et
 commerciales et dans un journal habilité à recevoir des annonces légales dans le
 département du siège social ainsi qu'au Bulletin des annonces légales
-obligatoires lorsque la société fait appel public à l'épargne ou lorsque ses
-actions ne revêtent pas toutes la forme nominative.
+obligatoires lorsque les actions de la société sont admises aux négociations sur
+un marché réglementé ou lorsque ses actions ne revêtent pas toutes la forme
+nominative.

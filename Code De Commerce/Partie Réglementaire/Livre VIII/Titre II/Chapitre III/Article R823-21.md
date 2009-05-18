@@ -1,9 +1,10 @@
 Article R823-21
 ----
-Les commissaires aux comptes désignés auprès de personnes ou d'entités faisant
-appel public à l'épargne ou auprès d'établissements de crédit publient sur leur
-site internet, dans les trois mois suivant la clôture de l'exercice, un rapport
-de transparence incluant notamment :
+Les commissaires aux comptes désignés auprès de personnes ou d'entités dont les
+titres financiers sont admis aux négociations sur un marché réglementé ou auprès
+d'établissements de crédit publient sur leur site internet, dans les trois mois
+suivant la clôture de l'exercice, un rapport de transparence incluant notamment
+:
 
 a) Une description de la forme juridique et, le cas échéant, du capital de leur
 structure d'exercice professionnel ;

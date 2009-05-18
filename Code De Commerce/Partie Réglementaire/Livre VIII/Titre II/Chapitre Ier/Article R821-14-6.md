@@ -13,10 +13,11 @@ a) Le nombre de personnes inscrites à cette date sur la liste de l'article L.
 
 b) Le nombre prévisionnel de missions exercées pendant l'année en cours par les
 personnes inscrites sur la liste de l'article L. 822-1, en indiquant celles qui
-sont exercées auprès de personnes ou d'entités admises à la négociation sur un
-marché réglementé, celles qui sont exercées auprès de personnes ou d'entités
-faisant appel public à l'épargne et celles qui sont exercées auprès de personnes
-ou d'entités n'entrant dans aucune de ces deux catégories ;
+sont exercées auprès de personnes ou d'entités dont les titres financiers sont
+admis aux négociations sur un marché réglementé, celles qui sont exercées auprès
+de personnes ou d'entités dont les titres financiers sont offerts au public sur
+un système multilatéral de négociation et celles qui sont exercées auprès de
+personnes ou d'entités n'entrant dans aucune de ces deux catégories ;
 
 c) Le nombre prévisionnel de rapports de certification signés par les mêmes
 personnes pendant l'année en cours, ventilé selon les trois catégories

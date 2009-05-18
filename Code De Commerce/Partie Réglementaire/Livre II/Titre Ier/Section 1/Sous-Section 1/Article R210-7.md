@@ -1,9 +1,9 @@
 Article R210-7
 ----
-Lors de la constitution d'une société par actions faisant appel public à
-l'épargne, les actes accomplis pour le compte de la société en formation
-conformément au deuxième alinéa de l'article L. 210-6 sont soumis à l'assemblée
-générale constitutive, après qu'ont été désignés les premiers membres du conseil
+Lors de la constitution d'une société par actions avec offre au public, les
+actes accomplis pour le compte de la société en formation conformément au
+deuxième alinéa de l'article L. 210-6 sont soumis à l'assemblée générale
+constitutive, après qu'ont été désignés les premiers membres du conseil
 d'administration ou du conseil de surveillance et les premiers commissaires aux
 comptes.
 

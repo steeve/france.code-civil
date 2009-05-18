@@ -1,10 +1,10 @@
 Article R550-1
 ----
 Le document d'information qui doit être déposé par tout intermédiaire en biens
-divers préalablement à tout appel public à l'épargne ou à tout démarchage pour
-proposer l'acquisition de droits ou de biens dans les conditions prévues à
-l'article L. 550-3 doit comporter toutes les indications utiles à l'information
-des épargnants.
+divers préalablement à toute offre au public ou à tout démarchage pour proposer
+l'acquisition de droits ou de biens dans les conditions prévues à l'article L.
+550-3 doit comporter toutes les indications utiles à l'information des
+épargnants.
 
 Il décrit notamment la nature et l'objet de l'opération proposée. Il donne
 l'identité de son initiateur et des personnes qui seront chargées de la gestion

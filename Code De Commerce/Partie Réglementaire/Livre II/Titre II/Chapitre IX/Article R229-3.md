@@ -4,9 +4,9 @@ Le projet de transfert dans un autre Etat membre de la Communauté européenne d
 siège social d'une société européenne immatriculée en France, prévu au premier
 alinéa de l'article L. 229-2, fait l'objet d'un avis inséré dans un journal
 habilité à recevoir des annonces légales dans le département du siège social
-ainsi qu'au Bulletin des annonces légales obligatoires lorsque la société
-européenne fait appel public à l'épargne ou lorsque ses actions ne revêtent pas
-toutes la forme nominative.
+ainsi qu'au Bulletin des annonces légales obligatoires lorsque les actions de la
+société sont admises aux négociations sur un marché réglementé ou lorsque ses
+actions ne revêtent pas toutes la forme nominative.
 
 Cet avis comporte, outre les mentions prévues pour la modification des statuts,
 les indications suivantes :

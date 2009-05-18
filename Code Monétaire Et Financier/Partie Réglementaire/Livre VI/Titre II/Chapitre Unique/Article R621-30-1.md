@@ -4,7 +4,8 @@ Pour l'application des dispositions du IX de l'article L. 621-7, une
 recommandation d'investissement s'entend de toute étude, information ou opinion,
 produite dans un cadre professionnel et destinée à être rendue publique,
 recommandant ou suggérant une stratégie d'investissement relative à une personne
-faisant appel public à l'épargne ou aux instruments financiers qu'elle émet.
+dont les instruments financiers sont admis aux négociations sur un marché
+réglementé ou aux instruments financiers qu'elle émet.
 
 Constituent des recommandations d'investissement :
 

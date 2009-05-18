@@ -71,10 +71,8 @@ française ;
 publique lorsqu'ils sont saisis d'une demande d'emploi ;
 
 20° A l'Autorité des marchés financiers, en ce qui concerne les dirigeants
-d'entreprises faisant appel public à l'épargne lors de la nomination de ces
-dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un
-document d'information en application de l'article 37 de la loi n° 83-1 du 3
-janvier 1983 ;
+d'entreprise lorsqu'ils demandent un visa pour l'admission aux négociations sur
+un marché réglementé des titres financiers de l'entreprise ;
 
 21° A la commission des marchés à terme de marchandises en ce qui concerne les
 personnes physiques ou les dirigeants des personnes morales qui sollicitent
@@ -97,8 +95,7 @@ habilités ;
 
 24° Au directeur général de l'Institut national de la propriété industrielle
 pour l'inscription sur la liste des personnes qualifiées en propriété
-industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26
-novembre 1990 ;
+industrielle et sur la liste prévue à l'article L. 422-5 ;
 
 25° Au Commissaire du Gouvernement de l'organisme du registre des intermédiaires
 en assurance mentionné à l'article L. 512-1 du code des assurances.

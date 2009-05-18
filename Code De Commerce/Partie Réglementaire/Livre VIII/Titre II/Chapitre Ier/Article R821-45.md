@@ -3,8 +3,9 @@ Article R821-45
 Le Conseil national élit en son sein, selon les modalités fixées à l'article R.
 821-63 et pour deux ans, un président, trois vice-présidents et six membres qui
 constituent le bureau. Quatre au moins des personnes siégeant au bureau doivent
-exercer effectivement des fonctions de contrôle légal des comptes auprès de
-personnes faisant appel public à l'épargne.
+exercer effectivement des fonctions de contrôle légal des comptes dans le cadre
+d'opérations d'offres au public ou auprès de personnes dont les titres
+financiers sont admis aux négociations sur un marché réglementé.
 
 Sont seules éligibles en qualité de président les personnes qui ont exercé les
 fonctions de délégué au Conseil national pendant une durée d'au moins deux ans

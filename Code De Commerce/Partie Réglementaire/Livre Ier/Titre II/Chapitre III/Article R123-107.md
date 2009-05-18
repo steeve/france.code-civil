@@ -1,8 +1,7 @@
 Article R123-107
 ----
 Le dépôt prévu au premier alinéa de l'article R. 123-105 inclut pour les
-sociétés par actions et les sociétés civiles faisant publiquement appel à
-l'épargne :
+sociétés par actions et les sociétés civiles constituées par offre au public :
 
 1° La copie du procès-verbal de l'assemblée générale des actionnaires ou des
 associés ayant décidé ou autorisé soit une augmentation, soit une réduction du

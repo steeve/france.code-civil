@@ -4,8 +4,9 @@ La décision de l'assemblée générale de chaque société immatriculée en Fra
 participe à la constitution de la société européenne holding fait l'objet d'un
 avis inséré, par chacune d'entre elles, dans un journal habilité à recevoir des
 annonces légales dans le département de leur siège respectif ainsi qu'au
-Bulletin des annonces légales obligatoires lorsque la société fait appel public
-à l'épargne ou lorsque ses actions ne revêtent pas toutes la forme nominative.
+Bulletin des annonces légales obligatoires lorsque les actions de la société
+sont admises aux négociations sur un marché réglementé ou lorsque ses actions ne
+revêtent pas toutes la forme nominative.
 
 Cet avis comporte les indications suivantes :
 

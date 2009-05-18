@@ -2,9 +2,10 @@ Article R823-1
 ----
 Tout commissaire aux comptes qui accepte que sa candidature soit présentée à
 l'assemblée générale d'une société ou à l'organe délibérant compétent d'une
-entité faisant publiquement appel à l'épargne en informe l'Autorité des marchés
-financiers par lettre recommandée avec avis de réception avant la tenue de
-l'assemblée générale ou la réunion de l'organe délibérant compétent.
+entité dont les titres financiers sont admis aux négociations sur un marché
+réglementé en informe l'Autorité des marchés financiers par lettre recommandée
+avec avis de réception avant la tenue de l'assemblée générale ou la réunion de
+l'organe délibérant compétent.
 
 Si sa candidature est proposée par la société, dans un projet de résolution
 présenté conformément à l'article R. 225-73, l'Autorité des marchés financiers

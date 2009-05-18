@@ -4,8 +4,9 @@ Le projet de constitution d'une société européenne holding fait l'objet, par
 chaque société immatriculée en France qui participe à l'opération, d'un avis
 inséré dans un journal habilité à recevoir des annonces légales dans le
 département du siège social ainsi qu'au Bulletin des annonces légales
-obligatoires lorsque l'une au moins de ces sociétés fait appel public à
-l'épargne ou lorsque ses actions ne revêtent pas toutes la forme nominative.
+obligatoires lorsque les actions de l'une au moins de ces sociétés sont admises
+aux négociations sur un marché réglementé ou lorsque les actions de l'une au
+moins de ces sociétés ne revêtent pas toutes la forme nominative.
 
 Cet avis comporte les indications suivantes :
 
