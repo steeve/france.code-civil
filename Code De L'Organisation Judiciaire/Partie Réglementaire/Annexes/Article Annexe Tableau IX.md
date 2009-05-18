@@ -704,10 +704,6 @@ Creuse
 
 [Guéret
 
-Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (1)]
-
-[Guéret
-
 Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)]
 
 
@@ -895,11 +891,6 @@ Vosges
 
 [Epinal
 
-Ressort des tribunaux d'instance d'Epinal, Mirecourt, Neufchâteau, Remiremont et
-Saint-Dié-des-Vosges. (1)]
-
-[Epinal
-
 Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et
 Saint-Dié-des-Vosges. (2 et 3)]
 
@@ -1030,10 +1021,6 @@ Ressort du tribunal d'instance de Montargis. (4)]
 
 [Orléans
 
-Ressort des tribunaux d'instance d'Orléans et Pithiviers. (1)]
-
-[Orléans
-
 Ressort du tribunal d'instance d'Orléans. (2)]
 
 
@@ -1101,80 +1088,14 @@ Paris
 
 Paris 1er arrondissement
 
-Ressort du tribunal d'instance de Paris 1er arrondissement.
-
-
-Paris 4e arrondissement
-
-Ressort des tribunaux d'instance de Paris 2e arrondissement, Paris 3e
-arrondissement et Paris 4e arrondissement.
-
-
-Paris 6e arrondissement
-
-Ressort des tribunaux d'instance de Paris 5e arrondissement, Paris 6e
-arrondissement et Paris 7e arrondissement.
-
-
-Paris 8e arrondissement
-
-Ressort du tribunal d'instance de Paris 8e arrondissement.
-
-
-Paris 9e arrondissement
-
-Ressort du tribunal d'instance de Paris 9e arrondissement.
-
-
-Paris 10e arrondissement
-
-Ressort du tribunal d'instance de Paris 10e arrondissement.
-
-
-Paris 11e arrondissement
-
-Ressort du tribunal d'instance de Paris 11e arrondissement.
-
-
-Paris 12e arrondissement
-
-Ressort du tribunal d'instance de Paris 12e arrondissement.
-
-
-Paris 13e arrondissement
-
-Ressort des tribunaux d'instance de Paris 13e arrondissement et Paris 14e
+Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e
+arrondissement, Paris 3e arrondissement, Paris 4e arrondissement, Paris 5e
+arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e
+arrondissement, Paris 9e arrondissement, Paris 10e arrondissement, Paris 11e
+arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris 14e
+arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e
+arrondissement, Paris 18e arrondissement, Paris 19e arrondissement et Paris 20e
 arrondissement.
-
-
-Paris 15e arrondissement
-
-Ressort du tribunal d'instance de Paris 15e arrondissement.
-
-
-Paris 16e arrondissement
-
-Ressort du tribunal d'instance de Paris 16e arrondissement.
-
-
-Paris 17e arrondissement
-
-Ressort du tribunal d'instance de Paris 17e arrondissement.
-
-
-Paris 18e arrondissement
-
-Ressort du tribunal d'instance de Paris 18e arrondissement.
-
-
-Paris 19e arrondissement
-
-Ressort du tribunal d'instance de Paris 19e arrondissement.
-
-
-Paris 20e arrondissement
-
-Ressort du tribunal d'instance de Paris 20e arrondissement.
 
 
 Seine-et-Marne
@@ -1717,10 +1638,6 @@ Tarn-et-Garonne
 
 [Montauban
 
-Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (1)]
-
-[Montauban
-
 Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)]
 
 Cour d'appel de Versailles
@@ -1857,8 +1774,6 @@ Mayotte
 Mamoudzou
 
 Ressort du tribunal de Première instance de Mamoudzou.
-
-(1) Applicable jusqu'au 31 décembre 2008.
 
 (2) applicable à compter du 1er janvier 2009.
 
