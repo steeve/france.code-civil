@@ -10,10 +10,14 @@ dont le siège social est situé à l'étranger, une forme reconnue comme
 des conditions d'émission et disposant d'un capital dont la partie libérée est
 au moins égale à 225 000 euros ;
 
-2° Les entreprises du secteur public faisant appel public à l'épargne ;
+2° Les entreprises du secteur public dès lors qu'elles remplissent les
+conditions fixées au 1° ;
 
-3° Les sociétés coopératives agricoles et leurs unions disposant d'un capital
+3° Les entreprises du secteur public qui ne disposent pas de capital social mais
+qui ont été autorisées à procéder à une offre au public de titres financiers ;
+
+4° Les sociétés coopératives agricoles et leurs unions disposant d'un capital
 dont la partie libérée est au moins égale à 225 000 euros ;
 
-4° Les sociétés coopératives par actions disposant d'un capital dont la partie
+5° Les sociétés coopératives par actions disposant d'un capital dont la partie
 libérée est au moins égale à 225 000 euros.
