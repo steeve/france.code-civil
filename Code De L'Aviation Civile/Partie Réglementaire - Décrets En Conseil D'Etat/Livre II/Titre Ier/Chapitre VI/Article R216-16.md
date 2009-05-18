@@ -23,17 +23,28 @@ peut répondre ;
 
 c) Les prestataires sont retenus, après consultation du comité des usagers :
 
-I. - Par le gestionnaire, si celui-ci ne fournit pas de services similaires
+I.-Par le gestionnaire, si celui-ci ne fournit pas de services similaires
 d'assistance en escale et ne contrôle, directement ou indirectement, aucune
 entreprise fournissant de tels services, et ne détient aucune participation dans
 une telle entreprise ;
 
-II. - Par le préfet exerçant les pouvoirs de police sur l'aérodrome, après
-consultation du gestionnaire, dans les autres cas ; le préfet informe de son
-choix le gestionnaire et le ministre chargé de l'aviation civile ;
+II.-Dans les autres cas :
 
-III. - Par le ministre chargé de l'aviation civile, pour les aérodromes de
-Paris-Orly et Charles-de-Gaulle ;
+-pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly, par le
+ministre chargé de l'aviation civile après consultation du gestionnaire ;
+
+-pour les aérodromes autres que Paris-Charles-de-Gaulle et Paris-Orly, par le
+préfet exerçant les pouvoirs de police sur l'aérodrome, après consultation du
+gestionnaire et, le cas échéant, du signataire de la convention prévue à
+l'article L. 221-1 ; le préfet informe de son choix le gestionnaire, le ministre
+chargé de l'aviation civile et, le cas échéant, le signataire de la convention
+prévue à l'article L. 221-1.
+
+Le comité des usagers émet un avis lot par lot sur le choix des prestataires.
+Chaque membre du comité peut désigner autant de prestataires que d'autorisations
+à attribuer par lot regroupant un ensemble de services soumis à
+limitation.L'avis fait mention par ordre décroissant du nombre de voix obtenues
+par chaque prestataire.
 
 d) Les prestataires retenus doivent détenir un agrément ;
 
@@ -46,13 +57,13 @@ même procédure ;
 g) A compter du 1er janvier 2001, l'un au moins des prestataires sélectionnés ne
 peut être contrôlé directement ou indirectement :
 
-- ni par le gestionnaire de l'aérodrome ;
+-ni par le gestionnaire de l'aérodrome ;
 
-- ni par un transporteur aérien ayant transporté plus de 25 % des passagers ou
-du fret enregistrés dans l'aérodrome au cours de l'année précédant celle où
-s'opère la sélection de ces prestataires ;
+-ni par un transporteur aérien ayant transporté plus de 25 % des passagers ou du
+fret enregistrés dans l'aérodrome au cours de l'année précédant celle où s'opère
+la sélection de ces prestataires ;
 
-- ni par une entité contrôlant ou étant contrôlée directement ou indirectement
+-ni par une entité contrôlant ou étant contrôlée directement ou indirectement
 par ce gestionnaire ou par un tel transporteur aérien.
 
 2° Le gestionnaire de l'aérodrome informe le comité des usagers des décisions
