@@ -1,6 +1,11 @@
 Article 338-6
 ----
-Lorsque le juge est saisi de la demande d'audition en présence de toutes les
-parties et du mineur, l'audition peut avoir lieu sur-le-champ. S'il n'est pas
-procédé à celle-ci immédiatement, la convocation du mineur et l'information
-prévue au deuxième alinéa de l'article 338-5 sont données verbalement.
+Le greffe ou, le cas échéant, la personne désignée par le juge pour entendre le
+mineur adresse à celui-ci, par lettre simple, une convocation en vue de son
+audition.
+
+La convocation l'informe de son droit à être entendu seul, avec un avocat ou une
+personne de son choix.
+
+Le même jour, les défenseurs des parties et, à défaut, les parties elles-mêmes
+sont avisés des modalités de l'audition.

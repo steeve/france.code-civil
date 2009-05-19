@@ -90,4 +90,7 @@ commerciale ;
 
 25° Des frais de la notification prévue à l'article 30-3 de l'annexe du code de
 procédure civile relative à son application dans les départements du Bas-Rhin,
-du Haut-Rhin et de la Moselle.
+du Haut-Rhin et de la Moselle ;
+
+26° La rémunération de la personne désignée par le juge pour entendre le mineur,
+en application de l' article 388-1 du code civil.

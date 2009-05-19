@@ -19,4 +19,7 @@ prises après l'ouverture d'une succession ;
 
 6° Honoraires et indemnités alloués en application de l'article R. 217-1 au
 médecin requis par le procureur de la République ou commis par le juge des
-tutelles pour établir le certificat ou l'avis médical.
+tutelles pour établir le certificat ou l'avis médical ;
+
+7° Rémunération de la personne désignée par le juge pour entendre le mineur, en
+application de l' article 388-1 du code civil .

@@ -30,4 +30,7 @@ le cadre du règlement (CE) n° 1206 / 2001 du Conseil du 28 mai 2001 relatif à
 coopération entre les juridictions des Etats membres dans le domaine de
 l'obtention des preuves en matière civile et commerciale ;
 
-10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248.
+10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248 ;
+
+11° La rémunération de la personne désignée par le juge pour entendre le mineur,
+en application de l'article 388-1 du code civil.
