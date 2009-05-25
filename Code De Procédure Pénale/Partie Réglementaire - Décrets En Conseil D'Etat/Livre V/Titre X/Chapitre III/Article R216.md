@@ -27,7 +27,7 @@ lieu à l'ouverture d'une information : Iaah4 ;
 correctionnel : Iaah5 ;
 
 6° Pour une fonction d'accompagnement du mineur à une audience de la cour
-d'assises des mineurs : Iaah6 ;
+d'assises : Iaah6 ;
 
 7° Pour une fonction d'accompagnement du mineur à une audience du tribunal pour
 enfants statuant en matière correctionnelle : Iaah7 ;
@@ -40,7 +40,7 @@ appel devant la chambre des appels correctionnels ou la chambre spéciale des
 mineurs : Iaah9 ;
 
 10° Pour la représentation du mineur lorsque l'administrateur ad hoc interjette
-appel devant la cour d'assises des mineurs statuant en appel : Iaah10 ;
+appel devant la cour d'assises statuant en appel : Iaah10 ;
 
 11° Pour une indemnité de carence en cas de difficultés dans le déroulement de
 la mission de l'administrateur ad hoc, sur la base d'un rapport indiquant les

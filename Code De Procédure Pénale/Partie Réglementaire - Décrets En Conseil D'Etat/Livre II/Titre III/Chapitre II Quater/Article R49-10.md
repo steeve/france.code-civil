@@ -19,3 +19,6 @@ requête dans les délais.
 
 Lorsque les documents mentionnés aux alinéas précédents ne peuvent être remis au
 contrevenant, ils sont adressés au titulaire du certificat d'immatriculation.
+
+Les dispositions du troisième alinéa du I et celles du II de l'article R. 49-1
+sont applicables.
