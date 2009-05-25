@@ -1,6 +1,6 @@
 Article R6111-22
 ----
-I. - Les établissements de santé autres que ceux mentionnés au II pratiquant à
+I.-Les établissements de santé autres que ceux mentionnés au II pratiquant à
 titre permanent un hébergement collectif sont tenus de garantir la sécurité de
 leurs conditions d'exploitation.
 
@@ -16,10 +16,10 @@ hébergées pendant quarante-huit heures au moins ;
 personnes hébergées en cas de défaillance du réseau d'énergie ; ces mesures
 doivent être prévues par le chef d'établissement.
 
-II. - Les établissements de santé assurant une activité de soins de courte durée
-en médecine, chirurgie ou gynécologie-obstétrique doivent satisfaire aux deux
-obligations prévues au 1° du I ci-dessus.
+II.-Les établissements de santé assurant une activité de soins de courte durée
+en médecine, chirurgie ou gynécologie-obstétrique doivent satisfaire à
+l'obligation prévue au 1° du I ci-dessus.
 
-III. - Le représentant légal de l'établissement annexe au registre de sécurité
-de l'établissement un document décrivant les mesures prévues en cas de
-défaillance des réseaux d'énergie.
+III.-Le représentant légal de l'établissement annexe au registre de sécurité de
+l'établissement un document décrivant les mesures prévues en cas de défaillance
+des réseaux d'énergie.
