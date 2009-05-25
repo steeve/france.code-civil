@@ -3,16 +3,16 @@ Article R424-12
 Dans le département de la Réunion, les périodes de chasse doivent être comprises
 entre les dates suivantes :
 
-DATE D'OUVERTURE SPÉCIFIQUE au plus tôt le
+DATE D'OUVERTURE SPÉCIFIQUE au plus tôt le :
+
+DATE DE CLÔTURE SPÉCIFIQUE au plus tôt le :
 
 
-DATE DE CLÔTURE SPÉCIFIQUE au plus tard le
+Lièvre
 
-Gibier à poil
+1er mai
 
-1 er juin
-
-15 octobre
+15 août
 
 
 Tangue
@@ -24,20 +24,13 @@ Tangue
 
 Cerf
 
-1 er juin
+1er juin
 
-1 er décembre
+1er décembre
 
 
 Gibier à plume
 
-1 er juin
-
-15 août
-
-
-Merle
-
-1 er juillet
+1er juin
 
 15 août

@@ -1,6 +1,6 @@
 Article R411-10
 ----
-Les autorisations mentionnées aux articles R. 411-6 à R.* 411-8 peuvent être
+Les dérogations mentionnées aux articles R. 411-6 à R. 411-8 peuvent être
 accordées :
 
 1° Soit à titre permanent à des établissements publics ou privés qui se livrent

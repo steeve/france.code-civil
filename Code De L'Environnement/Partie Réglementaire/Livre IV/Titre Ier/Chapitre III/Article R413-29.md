@@ -1,9 +1,9 @@
 Article R413-29
 ----
 I. - Les caractéristiques auxquelles doivent répondre les installations des
-établissements de la catégorie A ainsi que leurs règles générales de
-fonctionnement sont fixées par arrêtés des ministres chargés de la chasse et de
-l'agriculture.
+établissements de la catégorie A et de la catégorie B ainsi que leurs règles
+générales de fonctionnement sont fixées par arrêtés des ministres chargés de la
+chasse et de l'agriculture.
 
 II. - Ces dispositions tendent notamment à garantir le bien-être des animaux, la
 qualité des produits et la protection du patrimoine naturel.

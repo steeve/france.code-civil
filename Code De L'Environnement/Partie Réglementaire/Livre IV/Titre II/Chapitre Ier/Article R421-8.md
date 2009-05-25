@@ -3,11 +3,11 @@ Article R421-8
 Le conseil d'administration de l'Office national de la chasse et de la faune
 sauvage comprend :
 
-1° Le directeur de la nature et des paysages représentant le ministre chargé de
-la chasse, ou son représentant ;
+1° Le directeur chargé de la chasse représentant le ministre chargé de la
+chasse, ou son représentant ;
 
-2° Le directeur général de la forêt et des affaires rurales représentant le
-ministre chargé de l'agriculture et de la forêt, ou son représentant ;
+2° Le directeur chargé de la forêt représentant le ministre chargé de
+l'agriculture et de la forêt, ou son représentant ;
 
 3° Le directeur du budget représentant le ministre chargé du budget, ou son
 représentant ;

@@ -12,7 +12,7 @@ relative à la conservation du patrimoine naturel de la région et notamment sur
 2° Les propositions de listes régionales d'espèces protégées prévues à l'article
 L. 411-2 ;
 
-3° La délivrance d'autorisations portant sur des espèces protégées, en
+3° La délivrance de dérogations portant sur des espèces protégées, en
 application des articles L. 411-1 et L. 411-2 ;
 
 4° Les orientations régionales de gestion de la faune sauvage et d'amélioration

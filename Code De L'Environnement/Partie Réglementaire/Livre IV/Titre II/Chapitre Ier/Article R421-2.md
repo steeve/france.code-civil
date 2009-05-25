@@ -4,9 +4,9 @@ I. - Le Conseil national de la chasse et de la faune sauvage est composé, sous
 la présidence du ministre chargé de la chasse ou de son représentant, des
 membres suivants :
 
-1° a) Le directeur de la nature et des paysages ou son représentant ;
+1° a) Le directeur chargé de la chasse ou son représentant ;
 
-b) Le directeur de l'espace rural et de la forêt ou son représentant ;
+b) Le directeur chargé de la forêt ou son représentant ;
 
 c) Le directeur général de l'Office national de la chasse et de la faune sauvage
 ou son représentant ;
@@ -37,7 +37,7 @@ h) Quatre représentants des organismes scientifiques ou de protection de la
 nature compétents dans le domaine de la chasse, de la faune sauvage ou de la
 protection de la nature.
 
-II. - Le directeur des pêches maritimes et des cultures marines, ou son
+II. - Le directeur chargé des pêches maritimes et de l'aquaculture, ou son
 représentant, peut assister aux séances du conseil. Il siège à la place du
 directeur général de l'Office national des forêts avec voix délibérative lorsque
 le conseil délibère sur une question concernant la chasse maritime.
