@@ -16,11 +16,13 @@ la décision d'admission au bénéfice du versement ou lorsque le paiement de de
 Sauf dans ce dernier cas, l'intéressé est informé par la caisse de
 l'interruption du versement.
 
-En cas d'interruption du versement, seuls sont pris en compte les versements
-permettant le rachat d'une année.
+Le versement ne peut être pris en compte pour les droits à retraite que
+lorsqu'il a été effectué dans son intégralité.
 
-Si le versement effectué ne permet pas le rachat d'une année, les sommes versées
-sont remboursées à l'assuré ou, en cas de décès, à ses ayants droit.
+Si le versement effectué ne permet pas le rachat de l'année ou de toutes les
+années mentionnées dans la demande de versement de cotisations de l'assuré, les
+sommes versées lui sont remboursées ou, en cas de décès, sont remboursées à ses
+ayants droit.
 
 Il ne peut être présenté de nouvelle demande de versement avant l'expiration
 d'un délai de douze mois suivant la date à laquelle l'intéressé a été informé de
