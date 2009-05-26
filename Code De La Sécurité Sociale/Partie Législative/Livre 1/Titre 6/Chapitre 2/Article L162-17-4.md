@@ -3,18 +3,21 @@ Article L162-17-4
 En application des orientations qu'il reçoit annuellement des ministres
 compétents, le Comité économique des produits de santé peut conclure avec des
 entreprises ou groupes d'entreprises des conventions d'une durée maximum de
-quatre années relatives à un ou à des médicaments visés au premier alinéa de
-l'article L. 162-17. Les entreprises signataires doivent s'engager à respecter
-la charte mentionnée à l'article L. 162-17-8 et, selon une procédure établie par
-la Haute autorité de santé, à faire évaluer et certifier par des organismes
-accrédités la qualité et la conformité à cette charte de la visite médicale
-qu'elles organisent ou qu'elles commanditent. Ces conventions, dont le cadre
-peut être précisé par un accord conclu avec un ou plusieurs syndicats
-représentatifs des entreprises concernées, déterminent les relations entre le
-comité et chaque entreprise, et notamment :
+quatre années relatives à un ou à des médicaments visés aux premier et deuxième
+alinéas de l'article L. 162-16-6 et à l'article L. 162-17. Les entreprises
+signataires doivent s'engager à respecter la charte mentionnée à l'article L.
+162-17-8 et, selon une procédure établie par la Haute autorité de santé, à faire
+évaluer et certifier par des organismes accrédités la qualité et la conformité à
+cette charte de la visite médicale qu'elles organisent ou qu'elles commanditent.
+Ces conventions, dont le cadre peut être précisé par un accord conclu avec un ou
+plusieurs syndicats représentatifs des entreprises concernées, déterminent les
+relations entre le comité et chaque entreprise, et notamment :
 
-1° Le prix de ces médicaments et, le cas échéant, l'évolution de ces prix,
-notamment en fonction des volumes de vente ;
+1° Le prix ou le prix de vente déclaré mentionné à l'article L. 162-16-5 de ces
+médicaments, à l'exception de ceux inscrits sur la liste prévue à l'article L.
+5126-4 du code de la santé publique qui ne bénéficient pas d'une autorisation de
+mise sur le marché et, le cas échéant, l'évolution de ces prix, notamment en
+fonction des volumes de vente ;
 
 2° Le cas échéant, les remises prévues en application de l'article L. 162-18 ;
 

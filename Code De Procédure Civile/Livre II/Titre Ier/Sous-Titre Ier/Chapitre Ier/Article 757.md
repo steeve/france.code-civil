@@ -1,10 +1,10 @@
 Article 757
 ----
 Le tribunal est saisi, à la diligence de l'une ou l'autre partie, par la remise
-au secrétariat-greffe d'une copie de l'assignation.
+au greffe d'une copie de l'assignation.
 
 Cette remise doit être faite dans les quatre mois de l'assignation, faute de
-quoi celle-ci, sera caduque.
+quoi, celle-ci sera caduque.
 
 La caducité est constatée d'office par ordonnance du président ou du juge saisi
 de l'affaire.

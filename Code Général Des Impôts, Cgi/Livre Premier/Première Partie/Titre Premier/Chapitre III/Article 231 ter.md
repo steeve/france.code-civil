@@ -125,13 +125,16 @@ b. Pour les locaux commerciaux, 1,80 euro
 
 c. Pour les locaux de stockage, 0,90 euro.
 
+VI bis - Pour l'application des dispositions des V et VI, les parcs d'exposition
+et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
+
 VII. - Les redevables sont tenus de déposer une déclaration accompagnée du
 paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable du
 Trésor du lieu de situation des locaux imposables.
 
 VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les
 sanctions relatifs à la taxe sont régis par les règles applicables en matière de
-taxe sur les salaires.
+taxe sur les salaires jusqu'au 31 décembre 2003 (1).
 
 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le
 recouvrement de la taxe.

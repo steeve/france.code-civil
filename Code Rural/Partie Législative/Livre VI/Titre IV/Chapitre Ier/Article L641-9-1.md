@@ -2,7 +2,9 @@ Article L641-9-1
 ----
 Il est établi, au profit de l'Institut national des appellations d'origine, un
 droit acquitté par les producteurs des produits bénéficiant d'une indication
-géographique protégée.
+géographique protégée ou de produits pour lesquels la proposition
+d'enregistrement en indication géographique protégée a été homologuée dans les
+conditions définies par décret en Conseil d'Etat.
 
 Ce droit est fixé par arrêté conjoint du ministre chargé de l'agriculture et du
 ministre chargé du budget, après avis du comité national compétent de l'Institut

@@ -29,3 +29,6 @@ l'une de ces deux taxes seulement ;
 2° Les établissements créés et les établissements repris par les entreprises
 visées au I de l'article 1464 B ou l'une seulement de ces deux catégories
 d'établissements.
+
+Les délibérations fixent la durée des exonérations, qui ne peut être ni
+inférieure à deux ans ni supérieure à cinq ans (1).

@@ -1,7 +1,8 @@
 Article L862-1
 ----
 Il est créé un fonds dont la mission est de financer la couverture des dépenses
-de santé prévue à l'article L. 861-3.
+de santé prévue à l'article L. 861-3 et d'assurer la gestion du crédit d'impôt
+prévu à l'article L. 863-1.
 
 Ce fonds, dénommé : "Fonds de financement de la protection complémentaire de la
 couverture universelle du risque maladie", est un établissement public national

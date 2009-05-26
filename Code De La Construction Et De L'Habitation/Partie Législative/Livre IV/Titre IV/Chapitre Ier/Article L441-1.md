@@ -35,6 +35,24 @@ Il détermine également les limites et conditions de réservation des logements
 par le représentant de l'Etat dans le département au profit des personnes
 prioritaires, notamment mal logées ou défavorisées.
 
+Le représentant de l'Etat dans le département peut, par convention, déléguer au
+maire ou, avec l'accord du maire, au président d'un établissement public de
+coopération intercommunale compétent en matière d'habitat tout ou partie des
+réservations de logements dont il bénéficie, au titre du précédent alinéa, sur
+le territoire de la commune ou de l'établissement.
+
+Cette convention fixe les engagements du délégataire en vue de la mise en oeuvre
+du droit au logement, les modalités d'évaluation annuelle de la délégation ainsi
+que les conditions de son retrait en cas de non-respect de ses engagements par
+le délégataire.
+
+S'il constate, au terme de l'année écoulée, que les objectifs fixés par le plan
+départemental d'action pour le logement des personnes défavorisées ne sont pas
+respectés, le représentant de l'Etat peut, après mise en demeure restée sans
+suite pendant six mois, se substituer au maire ou au président de
+l'établissement public de coopération intercommunale pour décider directement de
+la réservation des logements.
+
 Les plafonds de ressources pour l'attribution des logements locatifs sociaux
 fixés en application des dispositions du présent article sont révisés
 annuellement en fonction de l'évolution du salaire minimum de croissance visé à

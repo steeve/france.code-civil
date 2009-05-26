@@ -2,8 +2,9 @@ Article 210-0 A
 ----
 I. - Les dispositions relatives aux fusions et aux scissions, prévues au 7 bis
 de l'article 38, au V de l'article 93 quater, aux articles 112, 115, 120, 121,
-151 octies A, 210 A à 210 C, aux deuxième et quatrième alinéas du II de
-l'article 220 quinquies et aux articles 223 A à 223 U, sont applicables :
+151 octies A, 208 C, 208 C bis, 210 A à 210 C, aux deuxième et quatrième alinéas
+du II de l'article 220 quinquies et aux articles 223 A à 223 U, sont applicables
+:
 
 1° S'agissant des fusions, aux opérations par lesquelles :
 

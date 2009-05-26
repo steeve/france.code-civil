@@ -8,9 +8,26 @@ II. - Le service du contrôle médical constate les abus en matière de soins, d
 prescription d'arrêt de travail et d'application de la tarification des actes et
 autres prestations.
 
+Lorsque l'activité de prescription d'arrêt de travail apparaît anormalement
+élevée au regard de la pratique constatée chez les professionnels de santé
+appartenant à la même profession, des contrôles systématiques de ces
+prescriptions sont mis en oeuvre dans des conditions définies par la convention
+mentionnée à l'article L. 227-1.
+
+Lorsqu'un contrôle effectué par un médecin à la demande de l'employeur, en
+application du dernier alinéa de l'article 1er de la loi n° 78-49 du 19 janvier
+1978 relative à la mensualisation et à la procédure conventionnelle, conclut à
+l'absence de justification d'un arrêt de travail, ce médecin transmet son avis
+au service du contrôle médical de la caisse. Si ce service conclut également, au
+vu de cet avis, à l'absence de justification de l'arrêt de travail, la caisse
+suspend le versement des indemnités journalières après en avoir informé
+l'assuré.
+
 III. - Le service du contrôle médical procède à l'analyse, sur le plan médical,
 de l'activité des établissements de santé mentionnés aux articles L. 162-29 et
-L. 162-29-1 dans lesquels sont admis des bénéficiaires de l'assurance maladie.
+L. 162-29-1 dans lesquels sont admis des bénéficiaires de l'assurance maladie
+notamment au regard des règles définies en application des dispositions de
+l'article L. 162-1-7.
 
 IV. - Il procède également à l'analyse, sur le plan médical, de l'activité des
 professionnels de santé dispensant des soins aux bénéficiaires de l'assurance

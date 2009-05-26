@@ -10,7 +10,7 @@ janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la
 nature et le montant de ces subventions ou abandons.
 
 2. Pour chacune des sociétés membres du groupe, l'état des rectifications
-mentionné au b de l'article 46 quater-0 ZK ;
+mentionné au a de l'article 46 quater-0 ZK ;
 
 3. Un tableau de synthèse de ces rectifications ;
 

@@ -9,10 +9,9 @@ formation sont de nature à permettre une formation satisfaisante.
 
 Sans préjudice des dispositions mentionnées à l'article L. 119-1, cette
 déclaration assortie des garanties mentionnées ci-dessus est notifiée, au moment
-de l'enregistrement du premier contrat d'apprentissage, à l'administration
-territorialement compétente chargée de l'application de la législation du
-travail et des lois sociales dans la branche d'activité à laquelle se rattache
-la formation prévue au contrat d'apprentissage, qui en délivre récépissé.
+de l'enregistrement du premier contrat d'apprentissage, à la région dans le
+ressort de laquelle est situé l'établissement concerné, qui en délivre
+récépissé.
 
 Pendant la durée du contrat d'apprentissage, l'employeur est tenu de fournir, à
 la demande des agents visés à l'article L. 119-1, toutes pièces justificatives

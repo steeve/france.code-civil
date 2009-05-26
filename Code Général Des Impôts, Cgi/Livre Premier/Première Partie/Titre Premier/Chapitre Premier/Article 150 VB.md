@@ -4,8 +4,7 @@ I. - Le prix d'acquisition est le prix effectivement acquitté par le cédant, t
 qu'il a été stipulé dans l'acte. Lorsqu'une dissimulation du prix est établie,
 le prix porté dans l'acte doit être majoré du montant de cette dissimulation. En
 cas d'acquisition à titre gratuit, le prix d'acquisition s'entend de la valeur
-vénale au jour du transfert diminuée, le cas échéant, de l'abattement prévu à
-l'article 764 bis.
+retenue pour la détermination des droits de mutation à titre gratuit.
 
 Lorsqu'un bien a été acquis moyennant le paiement d'une rente viagère, le prix
 d'acquisition retenu pour ce bien est la valeur en capital de la rente, à
@@ -19,6 +18,11 @@ l'article 150 UB est calculée par référence, le cas échéant, au prix ou à 
 valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré
 de la soulte versée lors de l'échange.
 
+En cas de cession d'un bien ou d'un droit mentionné aux articles 150 U à 150 UB,
+dont le droit de propriété est démembré à la suite d'une succession intervenue
+avant le 1er janvier 2004, le prix d'acquisition est déterminé en appliquant le
+barème prévu à l'article 669, apprécié à la date de la cession.
+
 II. - Le prix d'acquisition est, sur justificatifs, majoré :
 
 1° De toutes les charges et indemnités mentionnées au deuxième alinéa du I de
@@ -30,19 +34,17 @@ l'article 683 ;
 le cédant peut fixer forfaitairement à 7,5 % du prix d'acquisition dans le cas
 des immeubles ;
 
-4° Des dépenses de construction, de reconstruction, d'agrandissement, de
-rénovation ou d'amélioration, supportées par le vendeur et réalisées par une
-entreprise depuis l'achèvement de l'immeuble ou son acquisition si elle est
-postérieure, lorsqu'elles n'ont pas été déjà prises en compte pour la
-détermination de l'impôt sur le revenu et qu'elles ne présentent pas le
-caractère de dépenses locatives. Lorsque le contribuable, qui cède un bien plus
-de cinq ans après son acquisition, n'est pas en état d'apporter la justification
-de ces dépenses, une majoration égale à 15 % du prix d'acquisition est pratiquée
-;
+4° Des dépenses de construction, de reconstruction, d'agrandissement ou
+d'amélioration, supportées par le vendeur et réalisées par une entreprise depuis
+l'achèvement de l'immeuble ou son acquisition si elle est postérieure,
+lorsqu'elles n'ont pas été déjà prises en compte pour la détermination de
+l'impôt sur le revenu et qu'elles ne présentent pas le caractère de dépenses
+locatives. Lorsque le contribuable, qui cède un immeuble bâti plus de cinq ans
+après son acquisition, n'est pas en état d'apporter la justification de ces
+dépenses, une majoration égale à 15 % du prix d'acquisition est pratiquée ;
 
-5° Des frais de voirie, réseaux et distribution imposés par les collectivités
-territoriales ou leurs groupements dans le cadre du plan d'occupation des sols
-ou du plan local d'urbanisme, en ce qui concerne les terrains à bâtir ;
+5° Des frais de voirie, réseaux et distribution en ce qui concerne les terrains
+à bâtir ;
 
 6° Des frais acquittés pour la restauration et la remise en état des biens
 meubles.

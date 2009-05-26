@@ -1,13 +1,15 @@
 Article R174-4
 ----
-La dotation globale de financement annuelle prévue au troisième alinéa de
-l'article 2 du décret n° 88-279 du 24 mars 1988 modifié relatif à la gestion
-budgétaire et comptable et aux modalités de financement de certains
-établissements sociaux et médico-sociaux à la charge de l'Etat ou de l'assurance
-maladie est versée au gestionnaire de l'appartement de coordination
-thérapeutique, par douzièmes, par la caisse primaire d'assurance maladie dans la
-circonscription de laquelle il est implanté, pour le compte de l'ensemble des
-régimes d'assurance maladie dont les ressortissants sont hébergés dans cet
-appartement.
+En ce qui concerne les assurés sociaux, la demande de prise en charge des frais
+d'hospitalisation et de soins est adressée par l'établissement à la caisse
+chargée du versement de la dotation globale. La caisse transmet la demande de
+prise en charge à l'organisme dont relève l'assuré pour le versement des
+prestations, qui notifie sa décision à l'établissement de santé ainsi qu'à la
+caisse chargée du versement de la dotation globale.
 
-Sont applicables les deux derniers alinéas de l'article R. 174-9.
+En cas de refus total ou partiel de prise en charge, la décision est également
+notifiée à l'assuré par l'organisme dont il relève.
+
+La demande de prise en charge est conforme à un modèle fixé par arrêté des
+ministres chargés de la santé, de la sécurité sociale, de l'agriculture et du
+budget.

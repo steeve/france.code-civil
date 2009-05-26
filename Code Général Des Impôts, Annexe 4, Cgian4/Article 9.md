@@ -17,3 +17,10 @@ que la pièce produite mentionne une adresse située hors de France, la
 justification du nouveau domicile ou du nouveau siège ne peut résulter que de
 l'attestation prévue au n° 19 de la liste visée au 1. Cette attestation doit
 dater de moins d'un an.
+
+Les personnes présentant un passeport ou une carte d'identité officielle délivré
+par un Etat membre de la Communauté européenne qui déclarent être résidentes
+d'un pays tiers produisent l'attestation de résidence fiscale prévue au dernier
+alinéa de l'article 13. A défaut, elles sont considérées comme résidentes
+fiscales de l'Etat membre qui délivre le passeport ou la carte d'identité
+officielle.

@@ -71,11 +71,4 @@ partenariat conclus en application du titre Ier de l'ordonnance n° 2004-559 du
 17 juin 2004 et les conventions conclues en application de l'article L. 6148-3
 et de l'article L. 1311-4-1 du code général des collectivités territoriales,
 lorsqu'elles répondent aux besoins d'un établissement public de santé ou d'une
-structure de coopération sanitaire dotée de la personnalité morale publique ;
-
-19° La prise de participation, la modification de l'objet social ou des
-structures des organes dirigeants, la modification du capital et la désignation
-du ou des représentants de l'établissement au sein du conseil d'administration
-ou de surveillance d'une société d'économie mixte locale, dans les conditions
-prévues par le présent code et par le code général des collectivités
-territoriales.
+structure de coopération sanitaire dotée de la personnalité morale publique.

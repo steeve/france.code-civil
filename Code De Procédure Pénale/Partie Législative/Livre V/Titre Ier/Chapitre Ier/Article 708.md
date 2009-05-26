@@ -1,7 +1,7 @@
 Article 708
 ----
-L'exécution à la requête du ministère public a lieu lorsque la décision est
-devenue définitive.
+L'exécution de la ou des peines prononcées à la requête du ministère public a
+lieu lorsque la décision est devenue définitive.
 
 Toutefois, le délai d'appel accordé au procureur général par les articles 505 et
 548 ne fait point obstacle à l'exécution de la peine.

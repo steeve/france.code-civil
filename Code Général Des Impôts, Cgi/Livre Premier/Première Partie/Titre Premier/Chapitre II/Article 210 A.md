@@ -8,6 +8,10 @@ Il en est de même de la plus-value éventuellement dégagée par la société
 absorbante lors de l'annulation des actions ou parts de son propre capital
 qu'elle reçoit ou qui correspondent à ses droits dans la société absorbée.
 
+L'inscription à l'actif de la société absorbante du mali technique de fusion
+consécutif à l'annulation des titres de la société absorbée ne peut donner lieu
+à aucune déduction ultérieure.
+
 2. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de
 la société absorbée que si elles deviennent sans objet.
 
@@ -83,4 +87,4 @@ immobilisé.
 
 Pour l'application du c du 3, en cas de cession ultérieure des titres mentionnés
 au premier alinéa, la plus-value est calculée d'après la valeur que ces titres
-avaient, du point de vue fiscal, dans les écritures de la société absorbée (1).
+avaient, du point de vue fiscal, dans les écritures de la société absorbée.

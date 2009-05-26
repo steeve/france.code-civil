@@ -3,9 +3,11 @@ Article 279-0 bis
 1. La taxe sur la valeur ajoutée est perçue au taux réduit sur les travaux
 d'amélioration, de transformation, d'aménagement et d'entretien portant sur des
 locaux à usage d'habitation, achevés depuis plus de deux ans, à l'exception de
-la part correspondant à la fourniture des gros équipements mentionnés au premier
-alinéa du 1 de l'article 200 quater ou à la fourniture d'équipements ménagers ou
-mobiliers.
+la part correspondant à la fourniture d'équipements ménagers ou mobiliers ou à
+l'acquisition de gros équipements fournis dans le cadre de travaux
+d'installation ou de remplacement du système de chauffage, des ascenseurs ou de
+l'installation sanitaire dont la liste est fixée par arrêté du ministre chargé
+du budget.
 
 2. Cette disposition n'est pas applicable :
 

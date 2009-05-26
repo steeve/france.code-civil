@@ -26,7 +26,11 @@ l'exclusion de toute autre, étaient antérieurement associées dans un même
 syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
 
 Pour cette première année, elles ne peuvent voter que le taux de cette taxe, à
-l'exclusion de toute modification de ses règles d'établissement.
+l'exclusion de toute modification de ses règles d'établissement. Toutefois,
+lorsque la transformation est intervenue postérieurement au 15 octobre, les
+zones de perception en fonction de l'importance du service rendu instituées par
+le syndicat avant sa transformation en communauté de communes restent
+applicables l'année qui suit cette transformation.
 
 II. Le conseil d'une communauté de communes ayant créé, créant ou gérant une
 zone d'activités économiques qui se situe sur le territoire d'une ou de

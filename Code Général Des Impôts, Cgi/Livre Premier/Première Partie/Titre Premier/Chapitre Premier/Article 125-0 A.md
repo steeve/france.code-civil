@@ -142,15 +142,15 @@ conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 portant diverses dispositions d'ordre économique et financier ;
 
 e. D'actions ou parts émises par des sociétés qui exercent une activité
-mentionnée à l'article 34 du présent code dont les titres ne sont pas admis aux
-négociations sur un marché d'instruments financiers français ou étranger, dont
-le fonctionnement est assuré par une entreprise de marché ou un prestataire de
-services d'investissement ou tout autre organisme similaire étranger, sous
-réserve que le souscripteur du bon ou contrat, son conjoint et leurs ascendants
-et descendants ne détiennent pas ensemble, pendant la durée du bon ou contrat,
-directement ou indirectement, plus de 25 % des droits dans les bénéfices de la
-société ou n'ont pas détenu une telle participation à un moment quelconque au
-cours des cinq années précédant la souscription du bon ou contrat ;
+mentionnée à l'article 34 dont les titres ne sont pas admis aux négociations sur
+un marché d'instruments financiers français ou étranger, dont le fonctionnement
+est assuré par une entreprise de marché ou un prestataire de services
+d'investissement ou tout autre organisme similaire étranger, sous réserve que le
+souscripteur du bon ou contrat, son conjoint et leurs ascendants et descendants
+ne détiennent pas ensemble, pendant la durée du bon ou contrat, directement ou
+indirectement, plus de 25 % des droits dans les bénéfices de la société ou n'ont
+pas détenu une telle participation à un moment quelconque au cours des cinq
+années précédant la souscription du bon ou contrat ;
 
 f. D'actions, admises aux négociations sur un marché d'instruments financiers,
 dont le fonctionnement est assuré par une entreprise de marché ou un prestataire

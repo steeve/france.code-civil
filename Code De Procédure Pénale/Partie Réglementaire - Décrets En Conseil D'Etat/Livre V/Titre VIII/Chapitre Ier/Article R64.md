@@ -1,11 +1,10 @@
 Article R64
 ----
 Le directeur de l'institut national de la statistique et des études économiques
-communique au service du casier judiciaire national automatisé les noms
-patronymiques, les prénoms, les dates et lieu de naissance et le sexe des
-personnes âgées de plus de douze ans qui figurent au répertoire national
-d'identification ainsi que les modifications dont ces données auront
-éventuellement été l'objet.
+communique au service du casier judiciaire national automatisé les noms de
+famille, les prénoms, les dates et lieu de naissance et le sexe des personnes
+âgées de plus de douze ans qui figurent au répertoire national d'identification
+ainsi que les modifications dont ces données auront éventuellement été l'objet.
 
 Cette communication, effectuée sur support magnétique ou par téléinformatique, a
 lieu périodiquement, au moins une fois par an. Il peut y être procédé par

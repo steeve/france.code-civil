@@ -60,6 +60,15 @@ travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
 fixée par arrêté du ministre chargé du budget ;
 
+3° quater Le prix de revient d'un bien cédé n'est pas modifié lorsque ce bien
+est rattaché au même établissement avant et après la cession et lorsque,
+directement ou indirectement (1):
+
+a. l'entreprise cessionnaire contrôle l'entreprise cédante ou est contrôlée par
+elle ;
+
+b. ou ces deux entreprises sont contrôlées par la même entreprise.
+
 4° Il n'est pas tenu compte de la valeur locative définie aux 2° et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
 pas 61 000 euros s'il s'agit de prestataires de services ou de membres de

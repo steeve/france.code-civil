@@ -6,11 +6,16 @@ associé unique, dites "sociétés unipersonnelles d'investissement à risque",
 détenues par une personne physique, qui ont dès leur création pour objet social
 exclusif la souscription en numéraire au capital initial ou aux augmentations de
 capital de sociétés ayant leur siège dans un Etat de la Communauté européenne,
-dont les titres ne sont pas admis aux négociations sur un marché réglementé
-français ou étranger, qui exercent une activité mentionnée à l'article 34 et qui
-sont soumises à l'impôt sur les sociétés dans les conditions de droit commun au
-taux normal ou y seraient soumises dans les mêmes conditions si l'activité était
-exercée en France.
+ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
+conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale, dont les titres ne sont pas admis aux négociations sur un marché
+d'instruments financiers français ou étranger, dont le fonctionnement est assuré
+par une entreprise de marché ou un prestataire de services d'investissement ou
+tout autre organisme similaire étranger, qui exercent une activité mentionnée à
+l'article 34 et qui sont soumises à l'impôt sur les sociétés dans les conditions
+de droit commun au taux normal ou y seraient soumises dans les mêmes conditions
+si l'activité était exercée en France.
 
 Les sociétés unipersonnelles d'investissement à risque doivent détenir au moins
 5 % des droits financiers et au plus 20 % des droits financiers et des droits de

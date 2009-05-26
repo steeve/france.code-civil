@@ -10,14 +10,13 @@ parents.
 Sauf application des dispositions des 4 et 5, les personnes mariées sont
 soumises à une imposition commune pour les revenus perçus par chacune d'elles et
 ceux de leurs enfants et des personnes à charge mentionnés au premier alinéa ;
-cette imposition est établie au nom de l'époux, précédée de la mention "Monsieur
-ou Madame".
+cette imposition est établie au nom de l'époux, précédée de la mention "
+Monsieur ou Madame ".
 
 Les partenaires liés par un pacte civil de solidarité défini à l'article 515-1
 du code civil font l'objet, pour les revenus visés au premier alinéa, d'une
-imposition commune à compter de l'imposition des revenus de l'année du troisième
-anniversaire de l'enregistrement du pacte. L'imposition est établie à leurs deux
-noms, séparés par le mot : "ou".
+imposition commune.L'imposition est établie à leurs deux noms, séparés par le
+mot : " ou ".
 
 2. Le contribuable peut réclamer des impositions distinctes pour ses enfants,
 lorsque ceux-ci tirent un revenu de leur travail ou d'une fortune indépendante
@@ -65,14 +64,20 @@ revenus non encore taxés est établi au nom des époux. Le conjoint survivant e
 personnellement imposable pour la période postérieure au décès.
 
 7. Chacun des partenaires liés par un pacte civil de solidarité est
-personnellement imposable pour les revenus dont il a disposé l'année au cours de
-laquelle le pacte a pris fin dans les conditions prévues à l'article 515-7 du
-code civil.
+personnellement imposable pour les revenus dont il a disposé à compter de la
+date à laquelle le pacte a pris fin dans les conditions prévues à l'article
+515-7 du code civil.
 
-Lorsque les deux partenaires liés par un pacte civil de solidarité et soumis à
-imposition commune contractent mariage, les dispositions du 5 ne s'appliquent
-pas.
+8. a. Lorsque le pacte prend fin au cours de l'année civile de sa conclusion ou
+de l'année suivante pour un motif autre que le mariage entre les partenaires ou
+le décès de l'un d'entre eux, chaque membre du pacte fait l'objet d'une
+imposition distincte au titre de l'année de sa conclusion et de celle de sa
+rupture, et souscrit à cet effet une déclaration rectificative pour les revenus
+dont il a disposé au cours de l'année de souscription du pacte.
 
-En cas de décès de l'un des partenaires liés par un pacte civil de solidarité et
-soumis à imposition commune, le survivant est personnellement imposable pour la
-période postérieure au décès.
+b. Lorsque les personnes liées par un pacte civil de solidarité se marient entre
+elles, les dispositions du 5 ne s'appliquent pas. Lorsque leur mariage
+intervient au cours de l'année civile de la rupture du pacte ou de l'année
+suivante, les contribuables font l'objet d'une imposition commune au titre de
+l'année de sa rupture et de celle du mariage. Ils procèdent, le cas échéant, à
+la régularisation des déclarations effectuées au titre de l'année de la rupture.

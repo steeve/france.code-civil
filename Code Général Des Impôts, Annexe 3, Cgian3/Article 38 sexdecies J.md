@@ -60,6 +60,9 @@ cultures marines pour motif d'utilité publique ou pour motif d'insalubrité non
 imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines,
 en application de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
 
+e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de
+l'année précédente ;
+
 5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation,
 qui a entraîné une indemnisation par une police d'assurance de dommages aux
 biens ou pour perte d'exploitation souscrite par l'exploitant.

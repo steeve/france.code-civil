@@ -17,5 +17,5 @@ la propriété intellectuelle).
 
 Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui
 proviennent des activités de préparation et d'entraînement des équidés
-domestiques, ainsi que ceux provenant de l'exploitation d'équidés adultes dans
-le cadre de loisirs à l'exclusion de cux provenant des activités du spectacle.
+domestiques, en vue de leur exploitation dans les activités autres que celles du
+spectacle (1).

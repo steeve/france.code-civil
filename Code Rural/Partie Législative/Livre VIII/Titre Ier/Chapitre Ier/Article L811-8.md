@@ -43,3 +43,21 @@ l'article L. 421-5 du code de l'éducation pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
 des conditions fixées par le ministre de l'agriculture.
+
+Les établissements d'enseignement et de formation professionnelle agricole
+relevant des communautés urbaines de Lille et de Dunkerque ainsi que du syndicat
+intercommunal de gestion du lycée d'enseignement professionnel et horticole de
+Raismes sont transformés en établissements publics locaux d'enseignement et de
+formation professionnelle agricole.
+
+Leur transfert à la région Nord - Pas-de-Calais n'intervient, sauf convention
+contraire entre la région et l'établissement public de coopération
+intercommunale concerné, qu'une fois qu'a été constaté le strict respect de
+l'ensemble des normes de sécurité s'appliquant aux bâtiments et aux équipements.
+
+Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des
+collectivités territoriales s'appliquent à ce transfert de compétence.
+
+La région prend en charge la rétribution des personnels ouvriers et de service
+qui exercent leur fonction dans les établissements transformés conformément aux
+dispositions du présent article.

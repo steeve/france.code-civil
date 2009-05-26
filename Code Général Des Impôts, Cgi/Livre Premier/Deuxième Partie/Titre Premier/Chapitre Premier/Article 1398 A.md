@@ -9,17 +9,14 @@ relevant des articles L. 135-1 à L. 135-12 du code rural à laquelle adhère le
 propriétaire.
 
 Ce dégrèvement, accordé pour les impositions établies au titre de 1995 et des
-neuf années suivantes, est subordonné à la condition que les recettes de
+dix-neuf (1) années suivantes, est subordonné à la condition que les recettes de
 l'association foncière pastorale provenant d'activités autres qu'agricoles ou
 forestières n'excèdent ni 30 p. 100 du chiffre d'affaires tiré de l'activité
 agricole et forestière ni 30 000 euros. Ces montants s'apprécient remboursements
 de frais inclus et taxes comprises.
 
-Pour bénéficier de ce dégrèvement, le propriétaire doit souscrire avant le 31
-janvier de chaque année une déclaration au service des impôts assortie des
-justifications nécessaires, en indiquant par commune et par association la liste
-des parcelles concernées au 1er janvier. Toutefois, pour l'octroi du dégrèvement
-pour l'imposition établie au titre de 1995, cette déclaration doit être
-souscrite dans les deux mois qui suivent la promulgation de la loi de
-modernisation de l'agriculture (n° 95-95 du 1er février 1995, Journal officiel
-du 2 février 1995).
+Le bénéfice du dégrèvement est subordonné à la condition que l'association
+foncière pastorale souscrive, pour le compte des propriétaires concernés, avant
+le 31 janvier de chaque année, une déclaration au service des impôts assortie
+des justifications nécessaires, en indiquant par commune et par propriétaire la
+liste des parcelles concernées au 1er janvier (1).

@@ -11,47 +11,47 @@ EN EUROS
 
 Huile d'olive
 
-Par centaine de kg : 15,829
+Par centaine de kg : 16,114
 
-Par centaine de litre : 14,251
+Par centaine de litre : 14,508
 
 Huile d'arachide et de maïs
 
-Par centaine de kg : 14,251
+Par centaine de kg : 14,508
 
-Par centaine de litre : 12,976
+Par centaine de litre : 13,209
 
 
 Huiles de colza et de pépins de raisins
 
-Par centaine de kg : 7,301
+Par centaine de kg : 7,433
 
-Par centaine de litre : 6,647
+Par centaine de litre : 6,767
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
 relatives aux espèces protégées
 
-Par centaine de kg : 12,434
+Par centaine de kg : 12,658
 
-Par centaine de litre : 10,840
+Par centaine de litre : 11,035
 
 
 Huiles de coprah et de palmiste
 
-Par centaine de kg : 9,485
+Par centaine de kg : 9,656
 
 
 Huile de palme
 
-Par centaine de kg : 8,688
+Par centaine de kg : 8,844
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
-Par centaine de kg : 15,829
+Par centaine de kg : 16,114
 
-(Ces taux sont applicables à compter du 1er janvier 2004).
+(Ces taux sont applicables à compter du 1er janvier 2005).
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 arrêté (1).

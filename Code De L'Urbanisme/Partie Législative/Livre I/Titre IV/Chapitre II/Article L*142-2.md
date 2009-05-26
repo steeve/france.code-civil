@@ -52,11 +52,21 @@ rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
 l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de
 leur ouverture au public dans les conditions prévues à l'article L. 142-10.
 
+- pour l'acquisition, l'aménagement et la gestion des espaces, sites et
+itinéraires figurant au plan départemental des espaces, sites et itinéraires
+relatifs aux sports de nature établi dans les conditions prévues à l'article
+50-2 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la
+promotion des activités physiques et sportives ;
+
+- pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à
+l'article L. 414-1 du code de l'environnement et des territoires classés en
+réserve naturelle au sens de l'article L. 332-1 du même code.
+
 Cette taxe est perçue sur la totalité du territoire du département.
 
 Elle est établie sur la construction, la reconstruction et l'agrandissement des
 bâtiments et sur les installations et travaux divers autorisés en application de
-l'article L.442-1. Sont toutefois exclus du champ de la taxe :
+l'article L. 442-1. Sont toutefois exclus du champ de la taxe :
 
 a) les bâtiments et les installations et travaux divers à usage agricole ou
 forestier liés à l'exploitation ;
@@ -68,7 +78,7 @@ au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
 c) les bâtiments édifiés par les propriétaires d'une habitation familiale
 reconstituant leurs biens expropriés ;
 
-d) les immeubles classés parmi les monuments historiques ou inscrit à
+d) les immeubles classés parmi les monuments historiques ou inscrits à
 l'inventaire supplémentaire des monuments historiques ;
 
 e) les bâtiments et les installations et travaux divers reconstruits après

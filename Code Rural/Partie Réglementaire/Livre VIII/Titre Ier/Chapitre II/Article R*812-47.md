@@ -1,30 +1,42 @@
 Article R*812-47
 ----
-Le conseil d'administration comprend vingt-trois membres :
+Le conseil d'administration comprend vingt membres :
 
-1° Six représentants des ministres chargés de l'agriculture, des affaires
-étrangères, de la coopération, de l'enseignement supérieur, de la recherche et
-des départements et territoires d'outre-mer ;
+a) Sept membres de droit :
 
-2° Un représentant de la caisse centrale de coopération économique, deux
-personnalités qualifiées dans les problèmes du développement agricole des
-régions chaudes, onze représentants d'organismes d'études et d'établissements de
-formation ou de recherche coopérant avec le centre ;
+- quatre représentants de l'Etat désignés par le ministre de l'agriculture ;
 
-3° Le maire de Montpellier ou son représentant ;
+- trois représentants des collectivités territoriales sur le territoire
+desquelles est situé l'établissement, désignés respectivement par le conseil
+régional, le conseil général et le conseil municipal de la commune
+d'implantation, ou l'assemblée délibérante de l'établissement public de
+coopération intercommunale compétent ;
 
-4° Un représentant élu du personnel enseignant ;
+b) Six personnalités, désignées par le ministre de l'agriculture,
+représentatives des professions et activités éducatives, économiques et de
+recherche présentant un lien avec les missions de l'établissement ;
 
-5° Un représentant élu du personnel administratif et technique.
+c) Sept membres élus :
 
-Les membres du conseil d'administration sont nommés par arrêté du ministre de
-l'agriculture, sur proposition des ministres intéressés pour les représentants
-de l'Etat, sur proposition de la caisse centrale ou des organismes pour ceux qui
-représentent ces établissements.
+- deux représentants des professeurs et personnels de niveau équivalent ;
 
-Ils sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+- deux représentants des maîtres de conférences et des autres enseignants ;
+
+- un représentant des élèves ;
+
+- deux représentants des personnels administratifs, ingénieurs, techniques,
+ouvriers et de service et des personnels exerçant leurs activités de recherche
+dans le cadre d'une unité mixte de recherche à laquelle l'établissement
+participe.
+
+Les membres du conseil d'administration sont nommés ou élus pour une durée de
+trois ans, à l'exception des représentants des élèves qui sont élus pour un an.
+Leur mandat est renouvelable.
+
+Un arrêté du ministre de l'agriculture fixe les conditions dans lesquelles sont
+élus les membres énumérés au c.
 
 Les membres du conseil d'administration décédés ou démissionnaires et ceux qui,
 en cours de mandat, n'occupent plus les fonctions en raison desquelles ils ont
-été désignés doivent être remplacés. Les remplaçants sont nommés pour la durée
-du mandat restant à courir.
+été désignés doivent être remplacés. Les nouveaux membres sont désignés pour la
+durée du mandat restant à courir des membres qu'ils remplacent.

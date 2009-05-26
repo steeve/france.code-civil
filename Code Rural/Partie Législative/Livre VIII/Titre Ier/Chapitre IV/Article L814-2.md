@@ -5,6 +5,9 @@ toute question de son ressort par un quart de ses membres ou par le
 Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou
 de décret concernant l'enseignement agricole.
 
+Il est saisi pour avis du rapport d'évaluation mentionné à l'article L. 211-1 du
+code de l'éducation.
+
 Il donne un avis sur le projet de schéma prévisionnel national des formations de
 l'enseignement agricole. Ce schéma, qui tient compte des besoins de formation
 exprimés par les régions, est arrêté pour une période de cinq années par le

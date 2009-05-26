@@ -29,7 +29,7 @@ ou du b quater du 1° du I de l'article 31 ou de celles du deuxième ou du
 cinquième alinéa du 3° du I de l'article 156 ;
 
 c. Logements au titre desquels est demandé le bénéfice de l'une des déductions
-forfaitaires prévues aux deuxième à quatrième alinéas du e du 1° du I de
+forfaitaires prévues aux deuxième à cinquième alinéas du e du 1° du I de
 l'article 31 ou de l'une des déductions au titre de l'amortissement prévues aux
 f, g et h du 1° du I de l'article 31 ;
 

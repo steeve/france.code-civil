@@ -63,7 +63,9 @@ l'article 8 ;
 
 g. les groupements d'intérêt public mentionnés à l'article 239 quater B.
 
-h. Les sociétés civiles professionnelles visées à l'article 8 ter.(1)
+h. Les sociétés civiles professionnelles visées à l'article 8 ter.
+
+i. les groupements de coopération sanitaire mentionnés à l'article 239 quater D.
 
 Cette option entraîne l'application auxdites sociétés et auxdits groupements,
 sous réserve des exceptions prévues par le présent code, de l'ensemble des
@@ -84,7 +86,7 @@ assujettis audit impôt en raison :
 
 a. De la location des immeubles bâtis et non bâtis dont ils sont propriétaires,
 et de ceux auxquels ils ont vocation en qualité de membres de sociétés
-immobilières de copropriété visées à l'article 1655 ter (2) ;
+immobilières de copropriété visées à l'article 1655 ter ;
 
 b. De l'exploitation des propriétés agricoles ou forestières ;
 
@@ -120,14 +122,14 @@ conditions prévues au 5 et à l'article 219 bis.
 
 3° Un décret en Conseil d'Etat fixe les modalités d'application du présent 6,
 notamment les dispositions transitoires qui seraient nécessaires en raison de la
-modification du régime fiscal applicable aux organismes mentionnés au 1° (3).
+modification du régime fiscal applicable aux organismes mentionnés au 1°.
 
 7. Les caisses de crédit mutuel mentionnées à l'article L. 512-55 du code
 monétaire et financier sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
-d'application de cette disposition (4).
+d'application de cette disposition.
 
 8. (disposition devenue sans objet)
 
@@ -136,10 +138,10 @@ centrale du crédit mutuel agricole et rural visée à l'article L. 511-30 du co
 monétaire et financier sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
-Un décret fixe les conditions d'application du présent 9 (5).
+Un décret fixe les conditions d'application du présent 9.
 
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
 sont assujetties à l'impôt sur les sociétés ;
 
 11. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17
-janvier 2002).&lt;RL
+janvier 2002).

@@ -204,7 +204,14 @@ peuvent, d'autre part, en ce qui concerne les variations de prix postérieures a
 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix
 lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une
 période ne pouvant excéder deux exercices successifs clos postérieurement à
-cette date, une hausse de prix supérieure à 10 %.
+cette date, une hausse de prix supérieure à 10 %. Le montant de la dotation à
+cette provision ne peut excéder 15 millions d'euros par période de douze mois,
+au titre de chaque exercice, majoré le cas échéant d'une fraction égale à 10 %
+de la dotation à cette provision déterminée dans les conditions prévues à la
+phrase précédente. Toutefois, pour les entreprises dont la durée moyenne de
+rotation des stocks, pondérée par matières et produits, est supérieure à un an,
+le plafond fixé à la phrase précédente est multiplié par cette durée moyenne,
+exprimée en mois, divisée par douze (1).
 
 La provision pratiquée à la clôture d'un exercice en application de l'alinéa
 précédent est rapportée de plein droit aux bénéfices imposables de l'exercice en
@@ -232,9 +239,8 @@ Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à
 leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont
 rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué
 par l'entreprise elle-même, l'administration peut procéder aux rectifications
-nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
-Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du
-plus ancien des exercices soumis à vérification.
+nécessaires dès qu'elle constate que les provisions sont devenues sans objet
+(2).
 
 Par dérogation aux dispositions des premier et seizième alinéas, la provision
 pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est

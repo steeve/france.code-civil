@@ -33,6 +33,10 @@ II bis Pour l'application du présent article la valeur locative de l'ensemble
 des locaux à usage d'habitation ou professionnel peut être actualisée au moyen
 d'un coefficient unique par département.
 
+II ter. - Pour l'application du présent article, la valeur locative des locaux
+occupés par les organismes privés à but non lucratif est actualisée au moyen du
+coefficient applicable aux locaux mentionnés à l'article 1496 (3).
+
 III. L'incorporation dans les rôles d'impôts directs locaux, autres que la taxe
 professionnelle, des résultats de la première actualisation des valeurs
 locatives foncières est fixée au 1er janvier 1980. La date de référence est
@@ -56,7 +60,3 @@ V. L'actualisation des valeurs locatives foncières prévue pour 1988 par le III
 de l'article 29 de la loi n° 86-824 du 11 juillet 1986 est remplacée par une
 revalorisation forfaitaire effectuée dans les conditions fixées par l'article
 1518 bis.
-
-(1) Actuellement, 1er janvier 1970.
-
-(2) Annexe IV, art. 121 quinquies DC à 121 quinquies DF.

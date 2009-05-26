@@ -1,8 +1,14 @@
 Article D522
 ----
-Un magistrat ou un fonctionnaire de la direction des affaires criminelles et des
-grâces au ministère de la justice remplit les fonctions de secrétaire.
+Pour faciliter le contrôle de la situation des condamnés au regard de la
+libération conditionnelle, un fichier est tenu dans tous les établissements
+pénitentiaires qui fait apparaître la date prévisible de leur libération et la
+date de l'expiration du temps d'épreuve ou de la période de sûreté.
 
-Il est chargé de la rédaction du procès-verbal de chaque séance qui mentionne
-les noms et qualités des membres présents ainsi que les avis émis par le comité
-en ce qui concerne chaque proposition.
+Le greffe de l'établissement pénitentiaire avise en temps utile les condamnés
+qu'ils sont admissibles à la libération conditionnelle.
+
+Ce fichier est présenté au juge de l'application des peines ainsi qu'aux
+autorités judiciaires et administratives inspectant ces établissements. Il peut
+être également présenté, sur leur demande, aux parlementaires visitant des
+établissements en application de l'article 719.

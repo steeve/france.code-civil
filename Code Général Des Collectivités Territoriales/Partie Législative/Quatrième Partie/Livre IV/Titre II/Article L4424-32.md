@@ -1,23 +1,31 @@
 Article L4424-32
 ----
-- La collectivité territoriale de Corse assure la mise en oeuvre des actions
-d'apprentissage et de formation professionnelle continue dans les conditions
-prévues pour les régions par la loi n° 83-8 du 7 janvier 1983 relative à la
-répartition de compétences entre les communes, les départements, les régions et
-l'Etat.
+I. - Le classement des stations mentionnées aux articles L. 133-11, L. 133-13 et
+L. 134-3 du code du tourisme est prononcé par délibération de l'Assemblée de
+Corse à la demande ou sur avis conforme de la commune ou de l'établissement
+public de coopération intercommunale compétent en matière de tourisme et après
+consultation du conseil départemental d'hygiène et du conseil des sites et après
+enquête publique.
 
-En outre, en application d'une convention passée avec le représentant de l'Etat
-dans la collectivité territoriale de Corse, la collectivité territoriale met en
-oeuvre des stages créés en exécution de programmes établis au titre des
-orientations prioritaires de l'article L. 910-2 du code du travail et financés
-sur les crédits du fonds de la formation professionnelle et de la promotion
-sociale.
+II. - Par dérogation au deuxième alinéa de l'article L. 121-1 du code du
+tourisme portant répartition des compétences dans le domaine du tourisme,
+l'Assemblée de Corse détermine les règles de procédure relatives à l'instruction
+des demandes d'agrément ou de classement des équipements et organismes suivants
+:
 
-Les opérations d'équipement d'intérêt national menées par l'Etat au titre de
-l'association nationale pour la formation professionnelle des adultes font
-l'objet d'une concertation entre le représentant de l'Etat dans la collectivité
-territoriale de Corse et la collectivité territoriale de Corse.
+a) Les hôtels et résidences de tourisme ;
 
-Le programme des autres opérations d'équipement de l'association nationale pour
-la formation professionnelle des adultes est déterminé par la collectivité
-territoriale de Corse.
+b) Les terrains de campings aménagés ;
+
+c) Les villages de vacances ;
+
+d) Les villas, appartements et chambres meublés, qui sont loués à la semaine ;
+
+e) Les restaurants de tourisme ;
+
+f) (abrogé)
+
+g) Les offices de tourisme au sens des articles L. 2231-9 à L. 2231-14.
+
+La décision de classement ou d'agrément de ces équipements ou organismes est
+prise par arrêté du président du conseil exécutif de Corse.

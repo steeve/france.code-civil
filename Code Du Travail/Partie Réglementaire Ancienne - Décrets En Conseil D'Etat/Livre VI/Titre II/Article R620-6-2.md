@@ -32,7 +32,7 @@ physiques lorsque l'employeur est un particulier ;
 
 2. Mentions relatives au salarié :
 
-- nom patronymique et prénom ;
+- nom de famille et prénom ;
 
 - nom marital ;
 

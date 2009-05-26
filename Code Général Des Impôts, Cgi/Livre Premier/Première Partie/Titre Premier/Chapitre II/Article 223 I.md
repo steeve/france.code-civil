@@ -63,9 +63,8 @@ principales autres que fiscales ;
 
 c. Les déficits proviennent :
 
-- de la société absorbée ou scindée dans la limite prévue aux cinquième à
-septième alinéas du II de l'article 209 sous réserve du respect de la condition
-mentionnée au b du II du même article ;
+- de la société absorbée ou scindée sous réserve du respect de la condition
+mentionnée au b du II de l'article 209 ;
 
 - ou des sociétés membres du groupe auquel il a été mis fin qui font partie du
 nouveau groupe et pour lesquelles le bénéfice des dispositions prévues au 5 est

@@ -1,13 +1,13 @@
 Article L174-1
 ----
-Dans les établissements publics de santé et dans les établissements de santé
-privés à but non lucratif admis à participer à l'exécution du service public
-hospitalier, ainsi que dans les établissements de santé à but non lucratif ayant
-opté, dans des conditions fixées par voie réglementaire, pour ce mode de
-financement, la part des dépenses prises en charge par les régimes d'assurance
-maladie est financée sous la forme d'une dotation globale annuelle.
+Dans les établissements de santé mentionnés aux a, b et c de l'article L.
+162-22-6, la part des frais d'hospitalisation au titre des soins dispensés dans
+le cadre des activités de psychiatrie, de soins de suite ou de réadaptation,
+respectivement mentionnées aux a et b du 1° de l'article L. 6111-2 du code de la
+santé publique, prise en charge par les régimes obligatoires d'assurance maladie
+est financée par une dotation annuelle de financement.
 
-Le montant de la dotation globale annuelle de chaque établissement est arrêté
-par le directeur de l'agence régionale de l'hospitalisation, conformément au
-budget approuvé dans les conditions prévues par l'article L. 714-7 du code de la
-santé publique et précisées par voie réglementaire.
+Le montant de la dotation annuelle de financement de chaque établissement est
+arrêté par l'Etat dans le respect des dispositions de l'article L. 174-1-1, dans
+les conditions prévues par l'article L. 6145-1 du code de la santé publique et
+précisées par décret en Conseil d'Etat.

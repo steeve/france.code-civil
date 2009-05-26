@@ -16,6 +16,9 @@ Le montant net d'impôt de la plus-value nette à long terme d'ensemble doit êt
 porté, au bilan de la société mère, à la réserve spéciale prévue à l'article 209
 quater.
 
+L'inscription à cette réserve spéciale cesse pour les plus-values imposées au
+titre des exercices ouverts à compter du 1er janvier 2004.
+
 Le montant des dotations complémentaires aux provisions constituées par une
 société après son entrée dans le groupe à raison des participations détenues
 dans d'autres sociétés du groupe est ajouté à la plus-value nette à long terme

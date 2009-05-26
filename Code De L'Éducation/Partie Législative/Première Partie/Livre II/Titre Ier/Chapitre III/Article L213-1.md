@@ -7,8 +7,13 @@ programme prévisionnel des investissements relatifs aux collèges qui résulte 
 schéma prévisionnel des formations mentionné à l'article L. 214-1 du présent
 code.
 
-A ce titre, le conseil général définit la localisation des établissements, leur
-capacité d'accueil et le mode d'hébergement des élèves.
+A ce titre, le conseil général arrête après avis du conseil départemental de
+l'éducation nationale, en tenant compte de critères d'équilibre démographique,
+économique et social, la localisation des établissements, leur capacité
+d'accueil, leur secteur de recrutement et le mode d'hébergement des élèves.
 
 Les dispositions de l'article L. 214-4 sont applicables au département pour les
 collèges.
+
+Toutefois, les autorités compétentes de l'Etat affectent les élèves dans les
+collèges publics.

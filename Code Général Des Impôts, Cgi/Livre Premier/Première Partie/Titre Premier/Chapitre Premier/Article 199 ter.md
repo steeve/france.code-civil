@@ -18,7 +18,7 @@ pratiquée sur les intérêts des obligations visés au deuxième alinéa du III
 l'article 125 A.
 
 b. En ce qui concerne les revenus de source étrangère visés aux articles 120 à
-123, l'imputation est limitée au montant du crédit correspondant à l'impôt
+125, l'imputation est limitée au montant du crédit correspondant à l'impôt
 retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est
 prévu par les conventions internationales.
 
@@ -58,6 +58,6 @@ ou partie des crédits d'impôt attachés aux produits de leur portefeuille
 encaissés au cours d'un exercice, les crédits non utilisés sont susceptibles
 d'être reportés sur les quatre exercices suivants. Cette disposition est
 applicable aux crédits d'impôt afférents aux revenus encaissés au cours
-d'exercices ouverts postérieurement au 31 décembre 1966 (1).
+d'exercices ouverts postérieurement au 31 décembre 1966.
 
 III (Abrogé).

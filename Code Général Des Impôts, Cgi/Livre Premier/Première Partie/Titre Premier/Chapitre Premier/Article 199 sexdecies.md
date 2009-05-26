@@ -29,10 +29,10 @@ par le deuxième alinéa de l'article L. 541-1 du code de la sécurité sociale.
 plafond de 12 000 euros est majoré de 1 500 euros par enfant à charge au sens
 des articles 196 et 196 B et au titre de chacun des membres du foyer fiscal âgé
 de plus de soixante-cinq ans. La majoration s'applique également aux ascendants
-visés au premier alinéa du 1° remplissant la même condition d'âge. Le montant de
-1 500 euros est divisé par deux pour les enfants réputés à charge égale de l'un
-et l'autre de leurs parents. Le plafond de 12 000 euros augmenté de ces
-majorations ne peut excéder 15 000 euros.
+visés au premier alinéa remplissant la même condition d'âge. Le montant de 1 500
+euros est divisé par deux pour les enfants réputés à charge égale de l'un et
+l'autre de leurs parents. Le plafond de 12 000 euros augmenté de ces majorations
+ne peut excéder 15 000 euros.
 
 Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail,
 l'aide financière mentionnée à cet article n'est pas déduite du montant des

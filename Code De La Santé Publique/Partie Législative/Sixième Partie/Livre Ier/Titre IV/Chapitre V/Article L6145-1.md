@@ -1,54 +1,26 @@
 Article L6145-1
 ----
-Le budget et les décisions modificatives mentionnés au 3° de l'article L. 6143-1
-sont préparés et présentés par le directeur. Le budget de l'année est voté par
-le conseil d'administration au plus tard le 15 octobre de l'année précédente. Il
-est établi en cohérence avec les éléments financiers figurant au contrat
-mentionné aux articles L. 6114-1 et L. 6114-2.
+Le budget est préparé par le directeur. Il est établi, d'une part, en tenant
+compte des tarifs nationaux des prestations prévus au l° du I de l'article L.
+162-22-10, des forfaits annuels prévus à l'article L. 162-22-8, de la dotation
+de financement des activités d'intérêt général et d'aide à la contractualisation
+prévue à l'article L. 162-22-14, et, le cas échéant, des dotations annuelles
+prévues aux articles L. 162-22-16 et L. 174-1 du code de la sécurité sociale,
+ainsi que de l'activité prévisionnelle de l'établissement et, d'autre part, en
+cohérence avec les objectifs et les orientations du contrat pluriannuel
+d'objectifs et de moyens. Il est présenté par le directeur de l'établissement au
+conseil d'administration et voté par ce dernier. Il est adressé au directeur de
+l'agence régionale de l'hospitalisation au plus tard le 15 mars.
 
-Les autorisations de dépenses et les prévisions de recettes qui figurent au
-budget sont présentées et votées par groupes fonctionnels, dont la composition
-est conforme à une nomenclature fixée par décret. Les décisions modificatives
-sont présentées et votées dans les mêmes formes.
+Dans le cas où le budget n'est pas approuvé, le directeur de l'établissement
+présente dans le délai de quinze jours au conseil d'administration un nouveau
+budget intégrant les observations du directeur de l'agence régionale de
+l'hospitalisation ayant motivé le refus d'approbation. Dans l'attente de
+l'approbation, le directeur de l'établissement est autorisé à engager, liquider
+et ordonnancer, dans la limite des crédits approuvés au titre de l'exercice
+précédent, les dépenses indispensables à l'exercice de ses missions.
 
-Les délibérations relatives au budget et aux décisions modificatives sont
-transmises sans délai au directeur de l'agence régionale de l'hospitalisation en
-vue de leur approbation.
+Les modifications du budget sont établies dans les mêmes conditions.
 
-Le directeur de l'agence régionale de l'hospitalisation peut modifier le montant
-global des dépenses et des recettes prévues ainsi que leur répartition entre les
-groupes fonctionnels compte tenu, d'une part et prioritairement, du montant de
-la dotation régionale définie à l'article L. 174-1-1 du code de la sécurité
-sociale et d'autre part, des orientations du schéma régional d'organisation
-sanitaire et des priorités de la politique de santé, du projet d'établissement
-mentionné à l'article L. 6143-2, du contrat pluriannuel défini aux articles L.
-6114-1 et L. 6114-2 et de son exécution, ainsi que de l'activité et des coûts de
-l'établissement, appréciés selon les modalités prévues aux articles L. 6113-7 et
-L. 6113-8 et comparés à ceux des autres établissements de la région et de la
-France entière.
-
-Le directeur de l'agence régionale de l'hospitalisation dispose d'un délai de
-quarante-cinq jours à compter de la réception du budget ou des décisions
-modificatives pour faire connaître les modifications qu'il estime nécessaires.
-Ce délai est fixé à trente jours pour les décisions modificatives qui ne
-modifient pas le montant total des dépenses et des recettes du budget. Dans un
-délai de quinze jours à compter de la réception de ces observations, le conseil
-d'administration peut faire de nouvelles propositions. Le directeur de l'agence
-régionale de l'hospitalisation dispose d'un délai de trente jours à compter de
-la publication de la loi de financement de la sécurité sociale pour arrêter
-définitivement les autorisations de dépenses et les prévisions de recettes du
-budget de l'année et, en conséquence, le montant de la dotation globale annuelle
-et les tarifs de prestation mentionnés respectivement aux articles L. 174-1 et
-L. 174-3 du code de la sécurité sociale.
-
-S'agissant des décisions modificatives, ce dernier délai est fixé à quinze jours
-à compter de la réception des propositions du conseil d'administration.
-
-Au vu de la décision motivée du directeur de l'agence régionale de
-l'hospitalisation arrêtée dans les conditions ci-dessus, le directeur procède,
-dans un délai de quinze jours suivant cette décision, à la répartition des
-autorisations de dépenses et des prévisions de recettes approuvées entre les
-comptes de chaque groupe fonctionnel. En sa plus prochaine séance, le conseil
-d'administration est informé de cette répartition. Le budget ainsi réparti est
-exécutoire à compter de la date de sa transmission au directeur de l'agence
-régionale de l'hospitalisation.
+Le budget et ses modifications sont approuvés dans les conditions prévues à
+l'article L. 6143-4.

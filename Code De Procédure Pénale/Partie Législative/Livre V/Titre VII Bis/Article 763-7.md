@@ -3,7 +3,7 @@ Article 763-7
 Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une
 injonction de soins doit subir une peine privative de liberté, elle exécute
 cette peine dans un établissement pénitentiaire prévu par le second alinéa de
-l'article 718 et permettant de lui assurer un suivi médical et psychologique
+l'article 717-1 et permettant de lui assurer un suivi médical et psychologique
 adapté.
 
 Elle est immédiatement informée par le juge de l'application des peines de la

@@ -8,11 +8,7 @@ l'article 266 sexies ;
 2. Le poids des substances émises dans l'atmosphère par les installations
 mentionnées au 2 du I de l'article 266 sexies ;
 
-3. Sauf en cas de taxation d'office prévue au cinquième alinéa de l'article 266
-undecies, le logarithme décimal de la masse maximale au décollage des aéronefs
-mentionnés au 3 de l'article 266 septies. Des coefficients de modulation
-prennent en compte, dans un rapport de 0,5 à 120, l'heure du décollage et les
-caractéristiques acoustiques de l'appareil ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés
 au 4 du I de l'article 266 sexies ;
@@ -27,4 +23,9 @@ sexies ;
 7. Le poids des substances classées dangereuses selon les critères définis par
 les arrêtés pris pour l'application de l'article R. 231-51 du code du travail
 qui entrent dans la composition des produits antiparasitaires à usage agricole
-ou des produits assimilés mentionnés au 7 du I de l'article 266 sexies.
+ou des produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
+
+8. La masse annuelle, exprimée en kilogrammes, pour sa part excédant 2 500
+kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de
+l'article L. 541-10-1 du code de l'environnement, mis à disposition ou
+distribués par les personnes mentionnées au même article.

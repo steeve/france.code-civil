@@ -1,12 +1,12 @@
 Article 1187
 ----
-Dès l'avis d'ouverture de la procédure, le dossier peut être consulté au
-secrétariat greffe, jusqu'à la veille de l'audition ou de l'audience, par
-l'avocat du mineur et celui de son père, de sa mère, de son tuteur, de la
-personne ou du service à qui l'enfant a été confié. L'avocat peut se faire
-délivrer copie de tout ou partie des pièces du dossier pour l'usage exclusif de
-la procédure d'assistance éducative. Il ne peut transmettre les copies ainsi
-obtenues ou la reproduction de ces pièces à son client.
+Dès l'avis d'ouverture de la procédure, le dossier peut être consulté au greffe,
+jusqu'à la veille de l'audition ou de l'audience, par l'avocat du mineur et
+celui de son père, de sa mère, de son tuteur, de la personne ou du service à qui
+l'enfant a été confié. L'avocat peut se faire délivrer copie de tout ou partie
+des pièces du dossier pour l'usage exclusif de la procédure d'assistance
+éducative. Il ne peut transmettre les copies ainsi obtenues ou la reproduction
+de ces pièces à son client.
 
 Le dossier peut également être consulté, sur leur demande et aux jours et heures
 fixés par le juge, par le père, la mère, le tuteur, la personne ou le

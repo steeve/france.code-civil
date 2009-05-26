@@ -1,14 +1,13 @@
 Article 199 quater C
 ----
-A compter de l'imposition des revenus de 1989, les cotisations versées aux
-organisations syndicales représentatives de salariés et de fonctionnaires au
-sens de l'article L. 133-2 du code du travail ouvrent droit à une réduction
-d'impôt sur le revenu.
+Les cotisations versées aux organisations syndicales représentatives de salariés
+et de fonctionnaires au sens de l'article L. 133-2 du code du travail ouvrent
+droit à une réduction d'impôt sur le revenu.
 
-La réduction d'impôt est égale à 50 % des cotisations versées prises dans la
+La réduction d'impôt est égale à 66 % des cotisations versées prises dans la
 limite de 1 p. 100 du montant du revenu brut désigné à l'article 83, après
 déduction des cotisations et des contributions mentionnées aux 1° à 2° ter du
-même article.
+même article (1).
 
 La réduction d'impôt ne s'applique pas aux bénéficiaires de traitements et
 salaires admis à justifier du montant de leurs frais réels.
@@ -21,7 +20,7 @@ date du versement. A défaut, la réduction d'impôt est refusée sans propositi
 de rectification préalable.
 
 Par dérogation aux dispositions du cinquième alinéa et jusqu'à l'imposition des
-revenus de l'année 2003, les contribuables qui transmettent la déclaration de
+revenus de l'année 2006, les contribuables qui transmettent la déclaration de
 leurs revenus par voie électronique, en application de l'article 1649 quater B
 ter, sont dispensés de joindre à cette déclaration les reçus délivrés par les
 syndicats. La réduction d'impôt accordée est remise en cause lorsque ces

@@ -87,3 +87,8 @@ conditions d'attribution fixées par le conseil d'administration ou, le cas
 échéant, le directoire, en application des dispositions du sixième alinéa de
 l'article L. 225-197-1 du même code. A défaut, l'employeur est tenu au paiement
 de la totalité des cotisations sociales, y compris pour leur part salariale.
+
+Les dispositions de l'avant-dernier alinéa sont également applicables lorsque
+l'attribution est effectuée, dans les mêmes conditions, par une société dont le
+siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans
+laquelle l'attributaire exerce son activité.

@@ -3,9 +3,9 @@ Article 1668 B
 I. La contribution mentionnée à l'article 235 ter ZA est recouvrée comme l'impôt
 sur les sociétés et sous les mêmes garanties et sanctions.
 
-II. Elle est payée spontanément au comptable du Trésor chargé du recouvrement
-des impôts directs, au plus tard à la date prévue au 2 de l'article 1668 pour le
-versement du solde de liquidation de l'impôt sur les sociétés.
+II. Elle est payée spontanément au comptable de la direction générale des
+impôts, au plus tard à la date prévue au 2 de l'article 1668 pour le versement
+du solde de liquidation de l'impôt sur les sociétés (1).
 
 III. Pour les exercices arrêtés au cours des mois de mars à décembre ou pour la
 période d'imposition mentionnée au I de l'article 235 ter ZA, la contribution
@@ -27,4 +27,4 @@ prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de
 cette même période, l'entreprise peut réduire ce versement à concurrence de
 l'excédent estimé.
 
-IV. Les modalités d'application du présent article sont fixées par décret (1).
+IV. Les modalités d'application du présent article sont fixées par décret.

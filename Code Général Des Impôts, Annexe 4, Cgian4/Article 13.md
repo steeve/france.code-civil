@@ -4,9 +4,11 @@ L'identité des présentateurs et des bénéficiaires de revenus ainsi que leur
 domicile ou leur siège social sont valablement établis à l'égard du payeur par
 la production des pièces suivantes :
 
-A. Personnes physiques
+I. Personnes physiques
 
-1° Carte nationale d'identité ;
+1° Carte nationale d'identité ou carte d'identité officielle délivrée par un
+autre Etat que la France accompagnée si nécessaire de tout document probant
+comportant l'adresse ou le numéro d'identification fiscale ;
 
 2° Carte photographique d'identité non périmée, délivrée aux membres de familles
 nombreuses pour les voyages en chemin de fer ;
@@ -37,20 +39,25 @@ non périmée, délivrée aux mutilés de guerre par la préfecture ;
 
 13° Passeport français non périmé, ou périmé depuis moins de cinq ans ;
 
-14° Passeport étranger non périmé ;
+14° Passeport étranger non périmé accompagné si nécessaire de tout document
+probant comportant l'adresse ou le numéro d'identification fiscale ;
 
 15° Carte photographique d'identité, non périmée, instituée pour tous les
 étrangers résidant en France.
 
-B. Personnes morales
+II. Personnes morales ou organismes sans personnalité morale
 
-16° Exemplaire des statuts certifié par le représentant légal de la société ;
+1° Exemplaire des statuts ou tous documents constitutifs certifiés par le
+représentant légal de la société ou de l'organisme ;
 
-17° Récépissé de la déclaration à la préfecture ou sous-préfecture
-(associations) ; 18° Récépissé de la déclaration d'existence visée à l'article
-23 A, ou de la déclaration modificative visée à l'article 23 B.
+2° Récépissé de la déclaration à la préfecture ou sous-préfecture (associations)
+;
 
-C. Personnes physiques ou morales
+3° Récépissé de la déclaration d'existence visée à l'article 23 A, ou de la
+déclaration modificative visée à l'article 23 B.
 
-19° Attestation délivrée par le service des impôts et mentionnant le domicile ou
-siège social ainsi que le lieu d'imposition de la personne qui y est désignée.
+III. Personnes physiques ou morales ou organismes sans personnalité morale
+
+Attestation délivrée par le service des impôts ou par l'autorité administrative
+compétente du lieu de résidence fiscale et mentionnant le domicile ou siège
+social ainsi que le lieu d'imposition de la personne qui y est désignée.

@@ -4,8 +4,7 @@ Les terrains plantés en arbres truffiers sont, à compter du 1er janvier 1991,
 exonérés de taxe foncière sur les propriétés non bâties pendant les quinze
 années suivant celle de leur plantation, sur délibération prise, pour la part
 qui revient respectivement à chacune des collectivités intéressées, par les
-conseils municipaux, généraux et régionaux et les organes délibérants des
-groupements de communes à fiscalité propre.
+conseils généraux et régionaux.
 
 Pour bénéficier de cette exonération, le propriétaire doit faire, avant le 1er
 janvier de l'année au titre de laquelle l'exonération devient applicable, une

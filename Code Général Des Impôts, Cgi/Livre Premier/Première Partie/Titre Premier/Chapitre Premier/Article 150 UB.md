@@ -4,10 +4,12 @@ I. - Les gains nets retirés de cessions à titre onéreux de droits sociaux de
 sociétés ou groupements qui relèvent des articles 8 à 8 ter, dont l'actif est
 principalement constitué d'immeubles ou de droits portant sur ces biens, sont
 soumis exclusivement au régime d'imposition prévu au I et au 1° du II de
-l'article 150 U. Pour l'application de cette disposition, ne sont pas pris en
-considération les immeubles affectés par la société à sa propre exploitation
-industrielle, commerciale, agricole ou à l'exercice d'une profession non
-commerciale.
+l'article 150 U. Pour l'application de cette disposition, sont considérées comme
+sociétés à prépondérance immobilière les sociétés dont l'actif est, à la clôture
+des trois exercices qui précèdent la cession, constitué pour plus de 50 % de sa
+valeur réelle par des immeubles ou des droits portant sur des immeubles, non
+affectés par ces sociétés à leur propre exploitation industrielle, commerciale,
+agricole ou à l'exercice d'une profession non commerciale.
 
 II. - Les dispositions du I ne sont pas applicables, au titre de l'année de
 l'échange des titres, aux plus-values réalisées dans le cadre d'une opération de

@@ -23,7 +23,7 @@ Ces montants d'abattements sont, chaque année, indexés comme la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 Les majorations d'abattements mentionnées aux a, b et c sont divisées par deux
-pour les quarts de part (1).
+pour les quarts de part.
 
 II. - 1. Pour l'application du I :
 
@@ -59,7 +59,7 @@ Les majorations de revenu à retenir au-delà de la première part pour l'octroi
 dégrèvement prévu par l'article 1414 C sont divisées par deux pour les quarts de
 part.
 
-III. - A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
+III. 1. A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
 montant égal au produit de la base nette imposable au profit des collectivités
 locales et de leurs établissements publics de coopération intercommunale par la
 différence entre le taux global de taxe d'habitation constaté dans la commune au
@@ -75,3 +75,19 @@ b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
 
 c. La réduction n'est pas applicable si elle est inférieure à 15 euros.
+
+2. Lorsqu'une ou plusieurs des collectivités territoriales et établissements
+publics de coopération intercommunale au profit desquels l'imposition est
+établie ont supprimé un ou plusieurs des abattements prévus au II de l'article
+1411 et en vigueur en 2003 ou en ont réduit un ou plusieurs taux par rapport à
+ceux en vigueur en 2003, le montant du dégrèvement calculé dans les conditions
+prévues au II et au 1 du présent III est réduit d'un montant égal à la
+différence positive entre, d'une part, le montant du dégrèvement ainsi déterminé
+et, d'autre part, le montant de celui calculé dans les mêmes conditions en
+tenant compte de la cotisation déterminée en faisant application des taux
+d'abattement prévus aux 1, 2 et 3 du II de l'article 1411 et en vigueur en 2003.
+
+Cette disposition est également applicable lorsque les abattements sont fixés en
+valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les
+abattements afférents à l'année 2003 sont majorés dans les conditions prévues au
+deuxième alinéa du IV dudit article.

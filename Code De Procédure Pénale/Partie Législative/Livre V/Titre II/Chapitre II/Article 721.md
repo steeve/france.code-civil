@@ -1,24 +1,26 @@
 Article 721
 ----
-Une réduction de peine peut être accordée aux condamnés détenus en exécution
-d'une ou plusieurs peines privatives de liberté s'ils ont donné des preuves
-suffisantes de bonne conduite.
+Chaque condamné bénéficie d'un crédit de réduction de peine calculé sur la durée
+de la condamnation prononcée à hauteur de trois mois pour la première année, de
+deux mois pour les années suivantes et de sept jours par mois.
 
-Cette réduction est accordée par le juge de l'application des peines après avis
-de la commission de l'application des peines, sans qu'elle puisse excéder trois
-mois par année d'incarcération et sept jours par mois pour une durée
-d'incarcération moindre.
+En cas de mauvaise conduite du condamné en détention, le juge de l'application
+des peines peut être saisi par le chef d'établissement ou sur réquisitions du
+procureur de la République aux fins de retrait, à hauteur de trois mois maximum
+par an et de sept jours par mois, de cette réduction de peine. Sa décision est
+prise dans les conditions prévues à l'article 712-5.
 
-Elle est prononcée en une seule fois si l'incarcération est inférieure à une
-année et par fractions annuelles dans le cas contraire. Toutefois, pour
-l'incarcération subie sous le régime de la détention provisoire, elle est
-prononcée, le cas échéant, dans un délai de deux mois à compter de la date à
-laquelle la condamnation est devenue définitive.
+En cas de nouvelle condamnation à une peine privative de liberté pour un crime
+ou un délit commis par le condamné après sa libération pendant une période égale
+à la durée de la réduction résultant des dispositions du premier alinéa et, le
+cas échéant, du deuxième alinéa du présent article, la juridiction de jugement
+peut ordonner le retrait de tout ou partie de cette réduction de peine et la
+mise à exécution de l'emprisonnement correspondant, qui n'est pas confondu avec
+celui résultant de la nouvelle condamnation.
 
-Dans l'année suivant son octroi, et en cas de mauvaise conduite du condamné en
-détention, la réduction de peine peut être rapportée en tout ou en partie par le
-juge de l'application des peines après avis de la commission de l'application
-des peines.
-
-Pour l'application du présent article, la situation de chaque condamné est
-examinée au moins une fois par an.
+Lors de sa mise sous écrou, le condamné est informé par le greffe de la date
+prévisible de libération compte tenu de la réduction de peine prévue par le
+premier alinéa, des possibilités de retrait, en cas de mauvaise conduite ou de
+commission d'une nouvelle infraction après sa libération, de tout ou partie de
+cette réduction. Cette information lui est à nouveau communiquée au moment de sa
+libération.

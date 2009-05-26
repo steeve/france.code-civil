@@ -1,7 +1,8 @@
 Article L2531-4
 ----
-Le taux du versement exprimé en pourcentage des salaires définis à l'article L.
-2531-3 est fixé par décret dans les limites :
+Le taux de versement exprimé en pourcentage des salaires définis à l'article L.
+2531-3 est fixé par le Syndicat des transports d'Ile-de-France dans les limites
+:
 
 1° De 2,6 % à Paris et dans le département des Hauts-de-Seine ;
 

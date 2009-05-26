@@ -30,8 +30,8 @@ d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des
 travailleurs non salariés relevant des groupes de professions mentionnés au 1°
 de l'article L615-1 du code de la sécurité sociale et répondent aux conditions
-définies aux b, et c ci-dessus sous réserve de leur adaptation par un décret en
-Conseil d'Etat.
+définies aux b, et c sous réserve de leur adaptation par un décret en Conseil
+d'Etat.
 
 Les créateurs de l'entreprise nouvelle ou de la société nouvelle ne doivent pas
 exercer ou avoir exercé des fonctions de dirigeant de droit ou de fait dans

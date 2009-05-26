@@ -77,7 +77,7 @@ consommation mentionné à l'article 575, pour toutes les quantités excédant
 celles qui seraient admises en franchise si les produits provenaient de pays
 tiers à la Communauté européenne.
 
-Les dispositions du précédent alinéa s'appliquent pour chaque pays de provenance
+Les dispositions du septième alinéa s'appliquent pour chaque pays de provenance
 et chaque type de produit mentionnés dans le tableau ci-dessous, jusqu'à la fin
 de la période dérogatoire accordée à ces Etats membres en vue de différer
 l'application des niveaux minimum de taxation, tels qu'ils résultent des

@@ -46,3 +46,17 @@ l'article L. 861-3 au titre des dispositions du a de l'article L. 861-4.
 Cet état est envoyé au fonds au plus tard le 30 avril de l'année civile
 suivante. En outre, le fonds peut à tout moment demander à recevoir certaines
 des données visées aux 1° et 2° du premier alinéa ci-dessus.
+
+III. - Les organismes mentionnés à l'article L. 863-2 sont tenus de communiquer
+au fonds mentionné à l'article L. 862-1, sur sa demande, tous renseignements
+nécessaires à l'élaboration du rapport pris pour l'application de l'article L.
+863-5 et tous renseignements statistiques relatifs aux bénéficiaires du droit à
+déduction prévu à l'article L. 863-2.
+
+Les organismes de sécurité sociale communiquent au fonds le nombre de personnes
+auxquelles elles ont attribué le droit à déduction prévu à l'article L. 863-2,
+leur répartition selon les tranches d'âge mentionnées au troisième alinéa de
+l'article L. 863-1 et leur répartition géographique.
+
+Le fonds transmet, à sa demande, les éléments mentionnés aux deux alinéas
+précédents au ministre chargé de la sécurité sociale.

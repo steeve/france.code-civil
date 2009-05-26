@@ -27,7 +27,7 @@ Pour les opérations mentionnées au premier alinéa réalisées à compter du 1
 janvier 1992, la valeur locative des immobilisations corporelles ne peut être
 inférieure aux quatre cinquièmes de son montant avant l'opération.
 
-Par exception aux dispositions de l'alinéa précédent, pour les opérations
+Par exception aux dispositions du cinquième alinéa, pour les opérations
 mentionnées au premier alinéa réalisées à compter du 1er janvier 2005 de reprise
 d'immobilisations d'une entreprise faisant l'objet d'une procédure de
 redressement judiciaire conformément à l'article L. 621-1 du code de commerce,

@@ -67,14 +67,14 @@ période, ou en cas de restitution des biens loués avant l'expiration du même
 délai.
 
 Si le crédit d'impôt a été imputé en totalité à la date de l'événement qui
-motive son reversement, l'entreprise doit verser spontanément au comptable du
-Trésor l'impôt sur les sociétés correspondant, majoré de l'intérêt de retard
-prévu à l'article 1727, au plus tard à la date de paiement du solde de l'impôt
-sur les sociétés de l'exercice au cours duquel intervient cet événement. Si le
-crédit d'impôt n'a pas été imputé, la quote-part restante est supprimée à
-hauteur du crédit d'impôt provenant des biens cédés ou des biens loués qui font
-l'objet d'une restitution ou dont le contrat de crédit-bail est cédé ou résilié
-sans rachat.
+motive son reversement, l'entreprise doit verser spontanément au comptable de la
+direction générale des impôts l'impôt sur les sociétés correspondant, majoré de
+l'intérêt de retard prévu à l'article 1727, au plus tard à la date de paiement
+du solde de l'impôt sur les sociétés de l'exercice au cours duquel intervient
+cet événement. Si le crédit d'impôt n'a pas été imputé, la quote-part restante
+est supprimée à hauteur du crédit d'impôt provenant des biens cédés ou des biens
+loués qui font l'objet d'une restitution ou dont le contrat de crédit-bail est
+cédé ou résilié sans rachat.
 
 La personne morale perd le bénéfice du crédit d'impôt et doit, dans les
 conditions mentionnées aux deux alinéas précédents, verser l'impôt sur les

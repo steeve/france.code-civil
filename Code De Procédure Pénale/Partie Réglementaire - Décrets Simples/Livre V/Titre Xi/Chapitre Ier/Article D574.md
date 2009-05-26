@@ -15,7 +15,8 @@ judiciaire. Il effectue les investigations qui lui sont demandées préalablemen
 
 Le service pénitentiaire d'insertion et de probation met en oeuvre les mesures
 de contrôle et veille au respect des obligations imposées aux condamnés à
-l'emprisonnement avec sursis avec mise à l'épreuve ou à un travail d'intérêt
-général, aux personnes faisant l'objet d'une mesure d'ajournement de peine avec
-mise à l'épreuve, aux libérés conditionnels, aux interdits de séjour et aux
-personnes visées à l'article L. 51 du code du service national.
+l'emprisonnement avec sursis avec mise à l'épreuve, à un suivi socio-judiciaire
+ou à un travail d'intérêt général, aux personnes faisant l'objet d'une mesure
+d'ajournement de peine avec mise à l'épreuve, aux libérés conditionnels, aux
+interdits de séjour et aux personnes visées à l'article L. 51 du code du service
+national.

@@ -5,8 +5,9 @@ bis de l'article 38 et les articles 151 octies, 151 octies A, 210 A, 210 B et
 210 D du présent code doivent joindre à leur déclaration de résultat un état
 conforme au modèle fourni par l'administration faisant apparaître, pour chaque
 nature d'élément, les renseignements nécessaires au calcul du résultat imposable
-de la cession ultérieure des éléments considérés. Un décret précise le contenu
-de cet état.
+de la cession ultérieure des éléments considérés, et la valeur du mali technique
+de fusion mentionné au troisième alinéa du 1 de l'article 210 A. Un décret
+précise le contenu de cet état.
 
 II. Les plus-values dégagées sur des éléments d'actif non amortissables à
 l'occasion d'opérations d'échange, de fusion, d'apport, de scission, de

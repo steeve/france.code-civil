@@ -15,10 +15,10 @@ c) Le montant de la taxe sur les salaires ;
 
 2° Concernant chaque salarié rétribué l'année précédente :
 
-a) Son identification : nom patronymique, le cas échéant nom de l'époux,
-prénoms, sexe, date et lieu de naissance, numéro d'inscription au répertoire
-national d'identification des personnes physiques pour les seules déclarations
-des personnes ou organismes mentionnés au I de l'article R.* 81 A-1 du livre des
+a) Son identification : nom de famille, le cas échéant nom de l'époux, prénoms,
+sexe, date et lieu de naissance, numéro d'inscription au répertoire national
+d'identification des personnes physiques pour les seules déclarations des
+personnes ou organismes mentionnés au I de l'article R.* 81 A-1 du livre des
 procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
@@ -46,7 +46,17 @@ le montant des indemnités pour frais d'emploi et des remboursements de frais,
 avec indication de leur caractère forfaitaire ou réel ou de leur prise en charge
 directe par l'employeur ;
 
-le montant des sommes versées au titre des chèques vacances.
+le montant des sommes versées au titre des chèques vacances ;
+
+- le montant des cotisations ou primes versées par le salarié et l'employeur
+qui, en application du 2° de l'article 83 du code général des impôts ou, au
+titre de la retraite supplémentaire, du 2°-0 bis et, au titre de la retraite, du
+2°-0 ter du même article, sont, selon le cas, déductibles pour la détermination
+de la rémunération imposable ou ne sont pas ajoutées à cette rémunération ;
+
+- le montant des sommes versées par l'employeur à un plan d'épargne pour la
+retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées
+en application du 18° de l'article 81 du code général des impôts ;
 
 e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre
 droit, le cas échéant, ainsi que l'option choisie par l'entreprise pour
@@ -69,7 +79,7 @@ fonction d'un horaire de travail, exerçant à temps partiel ou sur une partie
 seulement de l'année civile, le nombre d'heures effectivement rémunérées au
 cours de l'année civile ;
 
-Pour les agents de l'Etat et de ses établissements publics, des collectivités
+pour les agents de l'Etat et de ses établissements publics, des collectivités
 territoriales et de leurs établissements publics et les agents des
 établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986
 portant dispositions statutaires relatives à la fonction publique hospitalière,

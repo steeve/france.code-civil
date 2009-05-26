@@ -114,5 +114,5 @@ pendant les heures qu'ils consacrent à leur mission d'une rémunération, dans 
 cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de
 leurs frais de déplacement.
 
-Les modalités d'organisation et de fonctionnement des comités et conseils
-mentionnés aux alinéas précédents sont déterminées par décret.
+Les modalités d'organisation et de fonctionnement des comités mentionnés aux
+alinéas précédents sont déterminées par décret.

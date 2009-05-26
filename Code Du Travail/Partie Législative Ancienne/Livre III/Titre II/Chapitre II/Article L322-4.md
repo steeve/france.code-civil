@@ -1,7 +1,7 @@
 Article L322-4
 ----
 Dans les régions ou à l'égard des professions astreintes ou menacées d'un grave
-déséquilibre de l'emploi, le ministre chargé du travail après avis du comité
+déséquilibre de l'emploi, le ministre chargé du travail, après avis du comité
 supérieur de l'emploi engage des actions de reclassement, de placement et de
 reconversion professionnelle. Il en assure ou coordonne l'exécution.
 
@@ -18,19 +18,7 @@ occupés que dans des emplois entraînant un déclassement professionnel ;
 reclassement. Les droits de ces travailleurs à l'égard de la sécurité sociale
 sont fixés par voie réglementaire ;
 
-3. Des allocations en faveur des salariés dont l'emploi à temps plein est
-transformé, avec leur accord, en emploi à temps partiel, pouvant être calculé
-sur la période d'application et dans les limites de durée annuelle minimale
-fixées par décret, au titre d'une convention de préretraite progressive. Les
-bénéficiaires de la convention de préretraite progressive peuvent exercer une
-mission de tutorat. A titre exceptionnel, cette mission peut être effectuée, sur
-la base du volontariat, en dehors des périodes de travail prévues ci-dessus.
-Dans ce cas, le temps passé en mission de tutorat n'est ni rémunéré ni pris en
-compte comme temps de travail effectif. Une telle possibilité est expressément
-mentionnée dans la convention et dans l'avenant au contrat de travail du
-salarié. Pendant l'exercice de ses missions de tutorat hors temps de travail, le
-salarié bénéficie de la législation de sécurité sociale relative à la protection
-en matière d'accidents du travail et de maladies professionnelles ;
+3. Alinéa abrogé (1)
 
 4. Des allocations de conversion en faveur des salariés auxquels est accordé un
 congé en vue de bénéficier d'actions destinées à favoriser leur reclassement et

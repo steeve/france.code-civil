@@ -7,7 +7,7 @@ l'embauche le concernant.
 
 La demande du salarié contient les indications suivantes :
 
-1° Ses nom patronymique, prénoms, nationalité, date et lieu de naissance ;
+1° Ses nom de famille, prénoms, nationalité, date et lieu de naissance ;
 
 2° Son numéro national d'identification, s'il est déjà immatriculé à la sécurité
 sociale ;

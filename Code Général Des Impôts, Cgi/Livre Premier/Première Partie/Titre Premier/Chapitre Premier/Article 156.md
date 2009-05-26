@@ -15,13 +15,9 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 60 000 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
-
-Le montant mentionné au premier alinéa du présent 1° est révisé chaque année
-selon les mêmes modalités que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu (1).
 
 1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne

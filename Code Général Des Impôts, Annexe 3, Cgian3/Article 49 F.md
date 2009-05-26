@@ -7,8 +7,7 @@ produits, gains et pertes se rapportant aux titres de créances mentionnés au 1
 bis du III bis de l'article 125 A du code général des impôts devra apparaître
 distinctement.
 
-Le montant de l'avoir fiscal ou du crédit d'impôt attaché à ces revenus est
-mentionné séparément.
+Le montant du crédit d'impôt attaché à ces revenus est mentionné séparément.
 
 Doivent également être mentionnés séparément, lorsque la contribution pour le
 remboursement de la dette sociale leur a déjà été appliquée en application de
@@ -20,10 +19,12 @@ capital-risque qui ont bénéficié d'une exonération conditionnelle d'impôt s
 revenu et qui, par suite du non-respect des conditions prévues par la loi,
 deviennent imposables à l'impôt sur le revenu.
 
-Les revenus des placements visés au troisième alinéa doivent également être
-mentionnés séparément, lorsque la contribution sociale généralisée leur a déjà
-été appliquée sur le fondement du II de l'article L. 136-7 du code de la
-sécurité sociale.
+Les produits et revenus visés aux troisième alinéa doivent également être
+mentionnés séparément, lorsque la contribution sociale généralisée prévue au II
+de l'article L. 136-7 du code de la sécurité sociale, le prélèvement mentionné à
+l'article L. 245-15 du même code et la contribution additionnelle prévue au 2°
+de l'article 11 de la loi n° 2004-626 du 30 juin 2004 leur ont déjà été
+appliqués.
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par
 application d'un prélèvement, la déclaration comporte l'indication de celui-ci

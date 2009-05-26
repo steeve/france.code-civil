@@ -39,3 +39,9 @@ pendant un mois.
 
 Après sa signature, la convention peut être consultée en mairie pendant sa durée
 de validité.
+
+Lorsqu'un département ou un établissement public de coopération intercommunale a
+conclu une convention avec l'Etat en application des articles L. 301-5-1 ou L.
+301-5-2, son représentant signe en lieu et place du représentant de l'Etat et de
+l'Agence nationale pour l'amélioration de l'habitat, dans les conditions prévues
+dans les conventions susmentionnées, les conventions prévues au présent article.

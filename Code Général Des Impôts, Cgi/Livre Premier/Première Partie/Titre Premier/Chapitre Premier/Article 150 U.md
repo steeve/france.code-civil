@@ -39,10 +39,10 @@ l'agrandissement d'un ou de plusieurs immeubles dans un délai de douze mois à
 compter de la date de perception de l'indemnité ;
 
 5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à
-l'article 1055, d'opérations effectuées conformément aux articles L. 122-1, L.
-123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en
-application de l'article L. 123-4 du même code. En cas de vente de biens reçus à
-cette occasion, la plus-value est calculée à partir de la date et du prix
+l'article 1055, d'opérations effectuées conformément aux articles L. 123-1, L.
+123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en application de
+l'article L. 123-4 du même code. En cas de vente de biens reçus à cette
+occasion, la plus-value est calculée à partir de la date et du prix
 d'acquisition du bien originel ou de la partie constitutive la plus ancienne
 dans les cas de vente de lots remembrés ;
 

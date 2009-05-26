@@ -1,11 +1,11 @@
 Article 1478
 ----
 I. La taxe professionnelle est due pour l'année entière par le redevable qui
-exerce l'activité le 1er janvier (1).
+exerce l'activité le 1er janvier.
 
 Toutefois le contribuable qui cesse toute activité dans un établissement n'est
 pas redevable de la taxe pour les mois restant à courir, sauf en cas de cession
-de l'activité exrcée dans l'établissement ou en cas de transfert d'activité.
+de l'activité exercée dans l'établissement ou en cas de transfert d'activité.
 
 Lorsqu'au titre d'une année une cotisation de taxe professionnelle a été émise
 au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de
@@ -48,8 +48,10 @@ deuxième alinéa du II.
 
 V. La valeur locative est corrigée en fonction de la période d'activité pour les
 exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixées
-par le ministre chargé du tourisme, les restaurants, les établissements de
-spectacles ou de jeux ainsi que les établissements thermaux.
+par le ministre chargé du tourisme, les restaurants, les cafés, les
+discothèques, les établissements de spectacles ou de jeux ainsi que les
+établissements thermaux, exerçant une activité à caractère saisonnier, telle que
+définie par décret.
 
 VI. Les organismes mentionnés au II de l'article 1447 deviennent imposables dans
 les conditions prévues au II, à compter de l'année au cours de laquelle l'une
@@ -61,4 +63,4 @@ prévue au troisième alinéa du II n'est pas applicable.
 Sous réserve des dispositions du deuxième alinéa du I, l'organisme reste
 redevable de la taxe au titre de l'année au cours de laquelle il remplit les
 conditions prévues au premier alinéa du 1 bis de l'article 206, lorsqu'il ne les
-remplissait pas l'année précédente (2).
+remplissait pas l'année précédente.

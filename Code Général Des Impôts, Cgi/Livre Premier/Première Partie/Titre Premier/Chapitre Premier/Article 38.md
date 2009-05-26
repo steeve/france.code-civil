@@ -88,14 +88,38 @@ détiennent directement ou indirectement plus de la moitié du capital de maniè
 continue pendant toute la période du prêt. Corrélativement, la valeur fiscale de
 ces prêts ne tient pas compte des écarts de conversion constatés sur le plan
 comptable. Les dispositions du présent alinéa ne sont pas applicables aux prêts
-faisant l'objet d'une couverture du risque de change (1).
+faisant l'objet d'une couverture du risque de change.
 
 L'option mentionnée au quatrième alinéa est exercée pour chaque prêt. Elle
 résulte de la non-application des dispositions du premier alinéa au titre de
 l'exercice au cours duquel le prêt est consenti. Par exception, pour les
 entreprises ayant consenti des prêts en 2001 et clos un exercice avant le 31
 décembre 2001, l'option résulte de la non-application des dispositions du
-premier alinéa au titre du premier exercice clos à compter de la même date (1).
+premier alinéa au titre du premier exercice clos à compter de la même date.
+
+4 bis. Pour l'application des dispositions du 2, pour le calcul de la différence
+entre les valeurs de l'actif net à la clôture et à l'ouverture de l'exercice,
+l'actif net d'ouverture du premier exercice non prescrit déterminé, sauf
+dispositions particulières, conformément aux premier et deuxième alinéas de
+l'article L. 169 du livre des procédures fiscales ne peut être corrigé des
+omissions ou erreurs entraînant une sous-estimation ou surestimation de
+celui-ci.
+
+Les dispositions du premier alinéa ne s'appliquent pas lorsque l'entreprise
+apporte la preuve que ces omissions ou erreurs sont intervenues plus de sept ans
+avant l'ouverture du premier exercice non prescrit.
+
+Elles ne sont pas non plus applicables aux omissions ou erreurs qui résultent de
+dotations aux amortissements excessives au regard des usages mentionnés au 2° du
+1 de l'article 39 déduites sur des exercices prescrits ou de la déduction au
+cours d'exercices prescrits de charges qui auraient dû venir en augmentation de
+l'actif immobilisé.
+
+Les corrections des omissions ou erreurs mentionnées aux deuxième et troisième
+alinéas restent sans influence sur le résultat imposable lorsqu'elles affectent
+l'actif du bilan. Toutefois, elles ne sont prises en compte ni pour le calcul
+des amortissements ou des provisions, ni pour la détermination du résultat de
+cession.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
@@ -272,11 +296,11 @@ Les dispositions du présent 7 s'appliquent au remboursement, par la société
 même société procède à l'opération susvisée par émission concomitante d'actions.
 
 7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux
-résultant d'une fusion ou d'une scission de sociétés (2) peut être compris dans
-le résultat de l'exercice au cours duquel les droits sociaux reçus en échange
-sont cédés. Dans ce cas, le profit ou la perte résultant de la cession
-ultérieure de ces droits sociaux est déterminé par rapport à la valeur que les
-droits sociaux remis à l'échange avaient du point de vue fiscal.
+résultant d'une fusion ou d'une scission de sociétés peut être compris dans le
+résultat de l'exercice au cours duquel les droits sociaux reçus en échange sont
+cédés. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de
+ces droits sociaux est déterminé par rapport à la valeur que les droits sociaux
+remis à l'échange avaient du point de vue fiscal.
 
 En cas de scission de société, la valeur fiscale des titres de chaque société
 bénéficiaire des apports reçus en contrepartie de ceux-ci est égale au produit

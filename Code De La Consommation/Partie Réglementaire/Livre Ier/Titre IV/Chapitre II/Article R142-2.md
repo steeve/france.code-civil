@@ -11,8 +11,8 @@ personnes n'ayant pas toutes la qualité de commerçant peut être demandée au
 tribunal d'instance lorsque la valeur de la prestation dont l'exécution est
 réclamée n'excède pas le taux de compétence de cette juridiction.
 
-Le juge de proximité est compétent dans les limites définies au code de
-l'organisation judiciaire et dans les conditions de l'article 847-4 du présent
+"Le juge de proximité est compétent dans les limites définies au code de
+l'organisation judiciaire et dans les conditions de l'article 847-5 du présent
 code".
 
 "Art. 1425-2 :
@@ -33,6 +33,9 @@ parties ou, pour les personnes morales, leur dénomination et leur siège social
 
 "2° L'indication précise de la nature de l'obligation dont l'exécution est
 poursuivie ainsi que le fondement de celle-ci ;
+
+"3° Eventuellement, les dommages et intérêts qui seront réclamés en cas
+d'inéxecution de faire.
 
 "Elle est accompagnée des documents justificatifs.
 
@@ -56,13 +59,13 @@ que l'injonction a été exécutée.
 "Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande
 d'avis de réception. Il adresse le même jour copie de cette notification par
 lettre simple. La lettre de notification mentionne les dispositions des articles
-1425-7 et 1425-8.
+1425-7 et 1425-8".
 
 "Art. 1425-6 :
 
 "L'ordonnance portant injonction de faire et la requête sont conservées à titre
 de minute au greffe qui garde provisoirement les documents produits à l'appui de
-la requête.
+la requête".
 
 "Art. 1425-7 :
 
@@ -88,7 +91,7 @@ parties.
 initiale et de toutes les demandes incidentes et défenses au fond.
 
 "En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction
-compétente selon les règles prévues à l'article 97.
+compétente selon les règles prévues à l'article 97".
 
 "Art. 1425-9 :
 

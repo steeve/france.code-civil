@@ -7,15 +7,15 @@ fixées par décret en conseil d'Etat.
 En cas de location ou de mise à disposition de biens sous toute autre forme
 consentie par une personne physique, par une société soumise au régime prévu à
 l'article 8, par une copropriété visée à l'article 8 quater ou 8 quinquies, ou
-par un groupement au sens des articles 239 quater, 239 quater B ou 239 quater C,
-le montant de l'amortissement des biens ou des parts de copropriété admis en
-déduction de la base imposable ne peut excéder, au titre d'un même exercice,
-celui du loyer acquis, ou de la quote-part du résultat de la copropriété,
-diminué du montant des autres charges afférentes à ces biens ou parts. La
-limitation de l'amortissement ne s'applique pas à la part de résultat revenant
-aux entreprises utilisatrices des biens, lorsque la location ou la mise à
-disposition n'est pas consentie, directement ou indirectement, par une personne
-physique.
+par un groupement au sens des articles 239 quater, 239 quater B, 239 quater C ou
+239 quater D, le montant de l'amortissement des biens ou des parts de
+copropriété admis en déduction de la base imposable ne peut excéder, au titre
+d'un même exercice, celui du loyer acquis, ou de la quote-part du résultat de la
+copropriété, diminué du montant des autres charges afférentes à ces biens ou
+parts. La limitation de l'amortissement ne s'applique pas à la part de résultat
+revenant aux entreprises utilisatrices des biens, lorsque la location ou la mise
+à disposition n'est pas consentie, directement ou indirectement, par une
+personne physique.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas pour déterminer la part
 de résultat imposable selon les modalités prévues à l'article 238 bis K au nom

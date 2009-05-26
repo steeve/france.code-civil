@@ -3,15 +3,15 @@ Article 46 AG duodecies
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2004, les plafonds annuels de loyer, charges non
+1. Pour les baux conclus en 2005, les plafonds annuels de loyer, charges non
 comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 129 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est
+1° 131 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est
 révisé chaque année, le 1er janvier, dans la même proportion que la variation la
 plus élevée de la moyenne annuelle des indices des prix à la consommation hors
 tabac de chacun des quatre départements d'outre-mer ;
 
-2° 172 euros en Polynésie française, dans les îles Wallis et Futuna et les
+2° 173 euros en Polynésie française, dans les îles Wallis et Futuna et les
 Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en
 Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la
 même proportion que la variation la plus élevée de la moyenne annuelle des
@@ -40,48 +40,76 @@ professionnels qui figurent sur son avis d'imposition établi au titre des
 revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de
 l'année antérieure.
 
-Pour les baux conclus en 2004, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2005, les plafonds annuels de ressources sont les
 suivants :
 
-
-COMPOSITION DU FOYER LOCATAIRE
+COMPOSITION DU FOYER DU LOCATAIRE : Personne seule
 
 PLAFOND ANNUEL de ressources (en euros)
 
+Départements d'outre-mer et Mayotte : 25 417
 
-Personne seule
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 25 212
 
-25 000
+COMPOSITION DU FOYER DU LOCATAIRE : Couple marié
 
+PLAFOND ANNUEL de ressources (en euros)
 
-Couple marié
+Départements d'outre-mer et Mayotte : 47 010
 
-46 239
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 46 631
 
+COMPOSITION DU FOYER DU LOCATAIRE : Personne seule ou couple marié ayant une
+personne à charge :
 
-Personne seule ou couple marié ayant une personne à charge
+PLAFOND ANNUEL de ressources (en euros)
 
-48 914
+Départements d'outre-mer et Mayotte : 49 729
 
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 49 328
 
-Personne seule ou couple marié ayant deux personnes à charge
+COMPOSITION DU FOYER DU LOCATAIRE : Personne seule ou couple marié ayant deux
+personnes à charge :
 
-51 589
+PLAFOND ANNUEL de ressources (en euros)
 
+Départements d'outre-mer et Mayotte : 52 449
 
-Personne seule ou couple marié ayant trois personnes à charge
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 52 026
 
-55 163
+COMPOSITION DU FOYER DU LOCATAIRE : Personne seule ou couple marié ayant trois
+personnes à charge :
 
+PLAFOND ANNUEL de ressources (en euros)
 
-Personne seule ou couple marié ayant quatre personnes à charge
+Départements d'outre-mer et Mayotte : 56 083
 
-58 737
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 55 630
 
+COMPOSITION DU FOYER DU LOCATAIRE : Personne seule ou couple marié ayant quatre
+personnes à charge :
 
-Majoration par personne à charge à partir de la cinquième
+PLAFOND ANNUEL de ressources (en euros)
 
-+ 3 750
+Départements d'outre-mer et Mayotte : 59 716
+
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : 59 235
+
+COMPOSITION DU FOYER DU LOCATAIRE : Majoration pour personne à charge à partir
+de la cinquième :
+
+PLAFOND ANNUEL de ressources (en euros)
+
+Départements d'outre-mer et Mayotte : + 3 813
+
+Polynésie française ; Nouvelle-Calédonie ; Îles Wallis-et-Futuna ; Terres
+australes et antarctiques françaises et Saint-Pierre-et-Miquelon : + 3 782
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 

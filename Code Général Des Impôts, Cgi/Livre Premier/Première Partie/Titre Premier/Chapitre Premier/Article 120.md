@@ -43,7 +43,10 @@ visées au 1° ;
 l'occasion des assemblées générales ;
 
 6° Les intérêts, arrérages et tous autres produits des obligations des sociétés,
-compagnies et entreprises désignées aux 1° et 2° ;
+compagnies et entreprises désignées aux 1° et 2°, et notamment les produits
+attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même
+nature souscrits auprès d'entreprises d'assurance établies hors de France, lors
+du dénouement du contrat, et les gains de cessions de ces mêmes placements ;
 
 7° Les intérêts, arrérages, et tous autres produits de rentes, obligations et
 autres effets publics des gouvernements étrangers ainsi que des corporations,

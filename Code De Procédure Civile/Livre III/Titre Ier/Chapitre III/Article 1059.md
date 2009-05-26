@@ -8,4 +8,4 @@ du service central d'état civil. Elle est constituée par l'indication
 jugement a été conservé.
 
 La date à laquelle la mention est apposée est portée sur l'extrait conservé au
-secrétariat-greffe ou au service central d'état civil.
+greffe ou au service central d'état civil.

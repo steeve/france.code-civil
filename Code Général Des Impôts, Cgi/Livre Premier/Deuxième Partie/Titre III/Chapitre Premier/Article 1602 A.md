@@ -2,10 +2,10 @@ Article 1602 A
 ----
 Les entreprises visées au I de l'article 1464 B et qui bénéficient des
 exonérations prévues aux articles 44 sexies et 44 septies, peuvent être
-exonérées des taxes pour frais de chambres de commerce et d'industrie et pour
-frais de chambres de métiers dont elles sont redevables, pour les établissements
-qu'elles ont créés ou repris à une entreprise en difficulté au titre des deux
-années suivant celle de leur création.
+temporairement exonérées des taxes pour frais de chambres de commerce et
+d'industrie et pour frais de chambres de métiers dont elles sont redevables,
+pour les établissements qu'elles ont créés ou repris à une entreprise en
+difficulté à compter de l'année suivant celle de leur création.
 
 Cette exonération est subordonnée à une délibération des organismes consulaires
 dans le ressort desquels sont situés les établissements de ces entreprises.

@@ -53,8 +53,7 @@ Les redevables sont dispensés du versement d'acomptes lorsque la taxe due au
 titre de l'année ou de l'exercice précédent, avant déduction de la taxe sur la
 valeur ajoutée relative aux biens constituant des immobilisations, est
 inférieure à 1 000 euros. Dans ce cas, le montant total de l'impôt exigible est
-acquitté lors du dépôt de la déclaration annuelle mentionnée au premier alinéa
-(1).
+acquitté lors du dépôt de la déclaration annuelle mentionnée au premier alinéa.
 
 Les nouveaux redevables sont autorisés, lors de leur première année
 d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes
@@ -75,14 +74,19 @@ placées sous le régime simplifié d'imposition.
 a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons
 de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens
 installés ou montés sur le territoire d'un autre Etat membre de la Communauté
-européenne, et des livraisons dont le lieu n'est pas situé en France en
-application des dispositions de l'article 258 A ;
+européenne, des livraisons de gaz naturel ou d'électricité imposables sur le
+territoire d'un autre Etat membre de la Communauté européenne et des livraisons
+dont le lieu n'est pas situé en France en application des dispositions de
+l'article 258 A ;
 
 b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des
 acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le
 cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre
 Etat membre de la Communauté européenne et installés ou montés en France, des
 livraisons de biens dont le lieu est situé en France en application des
-dispositions de l'article 258 B et des livraisons de biens effectuées en France
+dispositions de l'article 258 B, des livraisons de biens effectuées en France
 pour lesquelles le destinataire de la livraison est désigné comme redevable de
-la taxe en application des dispositions du 2 ter de l'article 283.
+la taxe en application des dispositions du 2 ter de l'article 283 et des
+livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est
+désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies
+de ce dernier article.

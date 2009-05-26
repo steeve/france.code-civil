@@ -18,7 +18,7 @@ bénéficier, pour le même local, dans la limite des dérogations qui leur avai
 été accordées avant le 1er juillet 1978.
 
 Les caractéristiques des locaux affectés aux personnes hébergées en application
-de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des
-particuliers, à leur domicile, à titre onéreux, de personnes âgées ou
-handicapées adultes sont celles qui sont fixées à l'article 3 du décret n°
-90-504 du 22 juin 1990.
+des articles L. 441-1 à L. 443-12 du code de l'action sociale et des familles
+sont celles qui sont fixées par l'article R. 831-13 et par le premier alinéa de
+l'article R. 831-13-1 et sont compatibles avec les contraintes liées à l'âge ou
+au handicap de ces personnes.

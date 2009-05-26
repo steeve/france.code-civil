@@ -5,18 +5,14 @@ catégories de stagiaires définies aux articles L. 961-4 et L. 961-6 lorsqu'ils
 suivent des stages agréés dans les conditions fixées à l'article L. 961-3
 ci-après.
 
-Ils assurent le financement de la rémunération des stagiaires mentionnés à
-l'article L. 961-5 [*demandeurs d'emploi*] :
+Lorsque les stages sont agréés dans les conditions fixées à l'article L. 961-3,
+l'Etat et la région assurent le financement de la rémunération des stagiaires :
 
-1° Lorsque ceux-ci ne relèvent pas des conventions conclues en application des
-dispositions du deuxième alinéa de l'article L. 961-1 et suivent des stages
-agréés dans les conditions fixées à l'article L. 961-3 ;
+1° Mentionnés à l'article L. 961-5 lorsqu'ils ne relèvent pas des conventions
+conclues en application des dispositions du deuxième alinéa de l'article L.
+961-l ;
 
-2° Lorsqu'ils suivent des stages agréés et qu'ils sont travailleurs handicapés
-au sens de l'article L. 323-10, mères de famille, femmes mentionnées au 2° de
-l'article L. 351-9 ou bénéficiaires de l'allocation de parent isolé au sens des
-articles L. 524-1 à L. 524-4 du code de la sécurité sociale, sous réserve de ne
-pas prétendre au bénéfice des dispositions conventionnelles.
+2° Reconnus travailleurs handicapés en application de l'article L. 323-10.
 
 Un décret en Conseil d'Etat détermine les conditions et les modalités de calcul
 et de versement de ces rémunérations. Leur gestion peut être confiée par voie de

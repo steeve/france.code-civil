@@ -57,14 +57,26 @@ transport fluvial ainsi que les coopératives maritimes et leurs unions, visées
 au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées
 avec des non-sociétaires ;
 
-4° Les offices publics d'habitations à loyer modéré et les sociétés
-d'habitations à loyer modéré régis par les articles L. 411-1 et suivants du code
-de la construction et de l'habitation, ainsi que les unions de ces offices et
-sociétés ;
+4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
+du code de la construction et de l'habitation, à l'exception des sociétés
+anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article
+L. 481-1-1 du même code et les sociétés anonymes de coordination entre les
+organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du
+même code pour :
 
-4° bis. Les offices publics d'aménagement et de construction visés à l'article L
-421-1 du code de la construction et de l'habitation pour les opérations faites
-en application de la législation sur les habitations à loyer modéré ;
+- les opérations réalisées au titre du service d'intérêt général défini à
+l'article L. 411-2 du même code ;
+
+- les produits engendrés par les locaux annexes et accessoires des ensembles
+d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que
+ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
+
+- les produits financiers issus du placement de la trésorerie de ces organismes.
+
+La fraction du bénéfice provenant d'activités autres que celles visées aux
+alinéas précédents et au 6° bis est soumise à l'impôt sur les sociétés ;
+
+4° bis. (abrogé).
 
 4° ter. Les sociétés anonymes de crédit immobilier qui exercent uniquement les
 activités prévues au I et au II de l'article L. 422-4 du code de la construction
@@ -114,7 +126,7 @@ c.- zone de restauration immobilière ;
 
 d.- zone de résorption de l'habitat insalubre.
 
-e. Opérations de rénovation urbaine.
+e.- opérations de rénovation urbaine.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif,
 au lotissement et à la vente de terrains leur appartenant. Cette exonération est

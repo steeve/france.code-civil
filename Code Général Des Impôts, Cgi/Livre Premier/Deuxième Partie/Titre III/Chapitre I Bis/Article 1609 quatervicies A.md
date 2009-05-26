@@ -47,8 +47,8 @@ Toulouse-Blagnac : de 10 Euros à 22 Euros ;
 2e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry,
 Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur : de 4 Euros à 8 Euros.
 
-3e groupe : les autres aérodromes qui dépassent le seuil fixé au I du présent
-article : de 0,5 Euros à 3 Euros.
+3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5
+Euros à 3 Euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de
 l'environnement, fixe le tarif de la taxe applicable pour chaque aérodrome.

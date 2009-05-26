@@ -62,6 +62,9 @@ préjudice corporel ayant entraîné pour la victime une incapacité permanente
 totale l'obligeant à avoir recours à l'assistance d'une tierce personne pour
 effectuer les actes ordinaires de la vie ;
 
+9° ter La prestation de compensation servie en vertu des dispositions de
+l'article L. 245-1 du code de l'action sociale et des familles ;
+
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er
 de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942
@@ -82,7 +85,7 @@ des prestations familiales auxquelles aurait eu droit le parent décédé ;
 adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie
 du fait de la loi ;
 
-14° ter L'indemnité prévue par l'article L. 1124-2 du code de la santé publique
+14° ter L'indemnité prévue par l'article L. 1121-11 du code de la santé publique
 ;
 
 15° Les prestations, visées aux articles L. 325-1 et L. 325-2 du code rural dans
@@ -146,10 +149,14 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
 du 27 septembre 1967 et les textes pris pour son application ;
 
-19° bis Le complément de rémunération résultant de la contribution de
-l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
-conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée, dans la
-limite du salaire minimum de croissance apprécié sur une base mensuelle ;
+19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition
+des chèques-vacances conformément à l'article L. 411-5 du code du tourisme
+ci-après reproduit :
+
+"Art. L. 411-5 - L'avantage résultant de la contribution de l'employeur à
+l'acquisition des chèques-vacances par les salariés est exonéré de l'impôt sur
+le revenu, dans la limite du salaire minimum de croissance apprécié sur une base
+mensuelle" ;
 
 20° Les attributions gratuites d'actions :
 
@@ -229,10 +236,9 @@ français du commerce, de pêche ou de plaisance.
 l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de
 l'amiante en application de l'article 53 de la loi de financement de la sécurité
 sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice
-(1) ;
+;
 
-34° La rémunération versée aux bénéficiaires d'un contrat insertion-revenu
-minimum d'activité institué à l'article L. 322-4-15 du code du travail ;
+34° abrogé
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du
 travail.
@@ -240,4 +246,4 @@ travail.
 36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er
 janvier de l'année d'imposition en rémunération d'une activité exercée pendant
 leurs congés scolaires ou universitaires, dans la limite de deux fois le montant
-mensuel du salaire minimum de croissance (2).
+mensuel du salaire minimum de croissance.

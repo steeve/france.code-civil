@@ -1,11 +1,15 @@
 Article 244 bis A
 ----
 I. Sous réserve des conventions internationales, les personnes physiques qui ne
-sont pas fiscalement domiciliées en France au sens de l'article 4 B, et les
+sont pas fiscalement domiciliées en France au sens de l'article 4 B, les
 personnes morales ou organismes, quelle qu'en soit la forme, dont le siège
-social est situé hors de France, sont soumis à un prélèvement d'un tiers sur les
-plus-values résultant de la cession d'immeubles, de droits immobiliers ou
-d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué
+social est situé hors de France et les sociétés ou groupements dont le siège
+social est situé en France et qui relèvent des articles 8 à 8 ter au prorata des
+droits sociaux détenus par des associés qui ne sont pas domiciliés en France ou
+dont le siège social est situé hors de France, sont soumis à un prélèvement d'un
+tiers sur les plus-values résultant de la cession d'immeubles, de droits
+immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif
+est, à la clôture des trois exercices qui précèdent la cession, constitué
 principalement par de tels biens et droits. Cette disposition n'est pas
 applicable aux cessions d'immeubles réalisées par des personnes physiques ou
 morales ou des organismes mentionnés à la phrase précédente, qui exploitent en
@@ -17,15 +21,24 @@ cette profession.
 
 Par dérogation au premier alinéa, les personnes physiques et associés personnes
 physiques de sociétés ou groupements dont les bénéfices sont imposés au nom des
-associés, résidents d'un Etat membre de la Communauté européenne sont soumis à
-un prélèvement de 16 %.
+associés, résidents d'un Etat membre de la Communauté européenne, ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
+France une convention fiscale qui contient une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale, sont
+soumis à un prélèvement de 16 %.
 
 Les plus-values soumises au prélèvement sont déterminées selon les modalités
-définies aux articles 150 V à 150 VE lorsqu'il est dû par des contribuables
-assujettis à l'impôt sur le revenu. Dans les autres cas, ces plus-values sont
-déterminées par différence entre, d'une part, le prix de cession du bien et,
-d'autre part, son prix d'acquisition, diminué pour les immeubles bâtis d'une
-somme égale à 2 % de son montant par année entière de détention.
+définies au I et aux 2° à 6° du II de l'article 150 U, au III du même article
+lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+ayant conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE
+lorsqu'il est dû par des contribuables assujettis à l'impôt sur le revenu. Dans
+les autres cas, ces plus-values sont déterminées par différence entre, d'une
+part, le prix de cession du bien et, d'autre part, son prix d'acquisition,
+diminué pour les immeubles bâtis d'une somme égale à 2 % de son montant par
+année entière de détention.
 
 L'impôt dû en application du présent article est acquitté lors de
 l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant

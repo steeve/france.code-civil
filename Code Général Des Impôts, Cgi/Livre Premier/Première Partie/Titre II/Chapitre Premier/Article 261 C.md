@@ -29,7 +29,8 @@ d'intérêt dont la possession assure en droit ou en fait l'attribution en
 propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien
 immeuble ;
 
-f. La gestion de fonds communs de placement et de fonds communs de créances ;
+f. La gestion des organismes de placement collectif en valeurs mobilières et de
+fonds communs de créances ;
 
 g. Les opérations relatives à l'or, autre que l'or à usage industriel,
 lorsqu'elles sont réalisées par les établissements de crédit, prestataires de

@@ -6,13 +6,11 @@ attestations de paiement, certificats de subrogation, états des inscriptions et
 certificats négatifs d'inscription prévus aux 3, 5, 6, 7 et 9 de cet article est
 fixée conformément aux modèles annexés à l'arrêté du 30 mai 1968 (1).
 
-2. Les bordereaux d'inscription, attestations de contestation, attestations de
-paiement et certificats de subrogation visés au 1 sont établis sur du papier
-couleur jaune et du format A4 (21- 29,7) de la norme NF Q 02000.
+2. (abrogé)
 
 3. Les états d'inscription visés au 1 peuvent être remplacés par des
 reproductions photographiques des bordereaux d'inscription comportant mention
-des contestations des radiations partielles ou des subrogations reçues au
+des contestations, des radiations partielles ou des subrogations reçues au
 greffe.
 
 4. La réquisition de l'état des inscriptions prévue au 9 de l'article 396 bis de

@@ -1,9 +1,11 @@
 Article L364-1
 ----
-La composition, les modalités de fonctionnement et la nature des différentes
-fonctions [*attributions*] du conseil départemental de l'habitat, substitué par
-la loi n° 83-8 du 7 janvier 1983 à l'ensemble des commissions, comités et
-conseils départementaux existant en matière de logement et autres que la
-commission départementale des rapports locatifs créée par la loi n° 82-526 du 22
-juin 1982 relative aux droits et obligations des locataires et des bailleurs,
-sont fixées par décret en Conseil d'Etat.
+Hors des départements et régions d'outre-mer, il est créé, auprès du
+représentant de l'Etat dans la région, dans les conditions fixées par décret en
+Conseil d'Etat, un comité régional de l'habitat chargé de procéder aux
+concertations permettant de mieux répondre aux besoins en matière d'habitat et
+de favoriser la cohérence des politiques locales.
+
+Dans les départements et les régions d'outre-mer, il est créé, dans les mêmes
+conditions, un conseil départemental de l'habitat, présidé par le président du
+conseil général qui exerce les attributions du comité régional de l'habitat.

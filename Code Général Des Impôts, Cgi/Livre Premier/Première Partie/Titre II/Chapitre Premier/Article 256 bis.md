@@ -70,6 +70,11 @@ c) A faire l'objet d'une installation ou d'un montage.
 d) A faire l'objet de livraisons à bord des moyens de transport, effectués par
 l'assujetti, dans les conditions mentionnées au d du I de l'article 258.
 
+N'est pas assimilée à une acquisition intracommunautaire l'affectation en France
+de gaz naturel ou d'électricité à partir d'un autre Etat membre pour les besoins
+d'une livraison imposable dans les conditions mentionnées au III de l'article
+258.
+
 3° La réception en France, par une personne morale non assujettie, d'un bien
 qu'elle a importé sur le territoire d'un autre Etat membre de la Communauté
 européenne.

@@ -129,21 +129,24 @@ de l'annexe à la loi n° 96-987 du 14 novembre 1996 précitée.
 Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre
 cumulativement aux conditions suivantes :
 
-a. Elle emploie moins de cinquante salariés et soit a réalisé un chiffre
-d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a un
-total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005,
+a. Elle emploie au plus cinquante salariés au 1er janvier 2004 ou à la date de
+sa création ou de son implantation si elle est postérieure et soit a réalisé un
+chiffre d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a
+un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005,
 les seuils de chiffre d'affaires et de total du bilan sont portés à 10 millions
 d'euros ;
 
 b. Son capital ou ses droits de vote ne sont pas détenus, directement ou
 indirectement, à hauteur de 25 % ou plus par une entreprise ou conjointement par
-plusieurs entreprises ne répondant pas aux conditions du a. Pour la
-détermination de ce pourcentage, les participations des sociétés de
-capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés
-unipersonnelles d'investissement à risque ne sont pas prises en compte à la
-condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39
-entre la société en cause et ces dernières sociétés ou ces fonds ;
+plusieurs entreprises dont l'effectif salarié dépasse 250 salariés et dont le
+chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou le total du
+bilan annuel excède 43 millions d'euros. Pour la détermination de ce
+pourcentage, les participations des sociétés de capital-risque, des fonds
+communs de placement à risques, des sociétés de développement régional, des
+sociétés financières d'innovation et des sociétés unipersonnelles
+d'investissement à risque ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société en cause et ces dernières sociétés ou ces fonds ;
 
 c. Son activité principale, définie selon la nomenclature d'activités française
 de l'Institut national de la statistique et des études économiques, ne relève

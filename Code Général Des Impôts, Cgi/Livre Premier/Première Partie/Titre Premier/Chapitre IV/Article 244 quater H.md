@@ -75,13 +75,13 @@ de la Moselle, du Bas-Rhin et du Haut-Rhin lorsqu'elles sont soumises à l'impô
 sur les sociétés en vertu des dispositions du 1 de l'article 206, et les
 groupements mentionnés à l'article 239 quater répondant aux conditions
 mentionnées au I et ayant pour membres des petites et moyennes entreprises
-définies à ce même paragraphe lorsqu'ils exposent des dépenses de prospection
-commerciale pour le compte de leurs membres afin d'exporter des services, des
-biens et des marchandises. Ces plafonds s'apprécient en prenant en compte la
-fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
-personnes mentionnées aux articles 8, 238 bis L, aux parts des associés de
-sociétés de professions libérales mentionnées au I et aux droits des membres de
-groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
+définies au même I lorsqu'ils exposent des dépenses de prospection commerciale
+pour le compte de leurs membres afin d'exporter des services, des biens et des
+marchandises. Ces plafonds s'apprécient en prenant en compte la fraction du
+crédit d'impôt correspondant aux parts des associés de sociétés de personnes
+mentionnées aux articles 8, 238 bis L, aux parts des associés de sociétés de
+professions libérales mentionnées au I et aux droits des membres de groupements
+mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
 
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les
 sociétés, le crédit d'impôt peut être utilisé par les associés

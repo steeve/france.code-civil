@@ -34,15 +34,14 @@ l'article 81 ;
 5° (abrogé à compter du 30 juin 2000)
 
 5° bis Les produits et plus-values que procurent les placements effectués dans
-le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi
-que les avoirs fiscaux et crédits d'impôt restitués ; toutefois, à compter de
-l'imposition des revenus de 1997, les produits, avoirs fiscaux et crédits
-d'impôt restitués procurés par des placements effectués en actions ou parts de
-sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à
-l'exception des intérêts versés dans les conditions prévues à l'article 14 de la
-loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres
-de capital de sociétés régies par cette loi, ne bénéficient de cette exonération
-que dans la limite de 10 % du montant de ces placements ;
+le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ;
+toutefois, à compter de l'imposition des revenus de 1997, les produits procurés
+par des placements effectués en actions ou parts de sociétés qui ne sont pas
+admises aux négociations sur un marché réglementé, à l'exception des intérêts
+versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10
+septembre 1947 portant statut de la coopération aux titres de capital de
+sociétés régies par cette loi, ne bénéficient de cette exonération que dans la
+limite de 10 % du montant de ces placements ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article
 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;

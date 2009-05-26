@@ -12,26 +12,49 @@ monétaire et financier, les titres pris en compte, directement ou indirectement
 par l'intermédiaire d'un autre fonds commun de placement à risques ou d'une
 entité visée au b du 2 du même article L. 214-36 dans le quota d'investissement
 de 50 % doivent ête émis par des sociétés ayant leur siège dans un Etat membre
-de la Communauté européenne, qui exercent une activité mentionnée à l'article 34
+de la Communauté européenne, ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention fiscale
+qui contient une clause d'assistance administrative en vue de lutter contre la
+fraude ou l'évasion fiscale, qui exercent une activité mentionnée à l'article 34
 et qui sont soumises à l'impôt sur les sociétés dans les conditions de droit
 commun ou en seraient passibles dans les mêmes conditions si l'activité était
 exercée en France ;
 
 1° bis Sont également pris en compte, pour le calcul du quota d'investissement
-de 50 % mentionné au 1°, les titres donnant accès au capital de sociétés ayant
-leur siège dans un Etat membre de la Communauté européenne, dont les actions ou
-parts ne sont pas admises aux négociations sur un marché réglementé français ou
-étranger, qui sont soumises à l'impôt sur les sociétés dans les conditions de
-droit commun ou en seraient passibles dans les mêmes conditions si l'activité
-était exercée en France, et qui ont pour objet exclusif de détenir des
-participations :
+de 50 % mentionné au 1°, les titres de capital ou donnant accès au capital ou
+les parts, qui ne sont pas admis aux négociations sur un marché mentionné au 1
+de l'article L. 214-36 du code monétaire et financier, émis par des sociétés
+ayant leur siège dans un Etat membre de la Communauté européenne, ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec
+la France une convention fiscale qui contient une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui sont
+soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en
+seraient passibles dans les mêmes conditions si l'activité était exercée en
+France, et qui ont pour objet exclusif de détenir des participations :
 
 a) Soit dans des sociétés qui répondent aux conditions prévues pour que leurs
-titres soient admis dans le quota d'investissement de 50 % ;
+titres soient admis dans le quota d'investissement de 50 %, à l'exception de
+celles mentionnées au 3 de l'article L. 214-36 du code monétaire et financier ;
 
 b) Soit dans des sociétés qui répondent aux conditions mentionnées au premier
 alinéa et qui ont pour objet exclusif de détenir des participations dans des
-sociétés répondant aux conditions fixées au a..
+sociétés répondant aux conditions fixées au a.
+
+1° ter Sont également pris en compte, pour le calcul du quota d'investissement
+de 50 % mentionné au 1°, les titres de capital, admis aux négociations sur un
+marché dans les conditions du 3 de l'article L. 214-36 du code monétaire et
+financier, émis par des sociétés ayant leur siège dans un Etat membre de la
+Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention fiscale qui
+contient une clause d'assistance administrative en vue de lutter contre la
+fraude ou l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans
+les conditions de droit commun ou en seraient passibles dans les mêmes
+conditions si l'activité était exercée en France et qui ont pour objet principal
+la détention de participations financières. Ces titres sont retenus dans le
+quota d'investissement de 50 % et pour le calcul de la limite de 20 % prévue au
+3 de l'article L. 214-36 précité à concurrence du pourcentage d'investissement
+direct de l'actif de la société émettrice dans des sociétés éligibles au quota
+de 50 %, selon des modalités fixées par décret en Conseil d'Etat ;
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans
 le fonds et demeurer indisponibles pendant la période visée au I, premier alinéa

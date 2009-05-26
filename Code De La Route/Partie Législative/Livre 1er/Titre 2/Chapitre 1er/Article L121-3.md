@@ -16,7 +16,7 @@ police, y compris par ordonnance pénale, fait application des dispositions du
 présent article, sa décision ne donne pas lieu à inscription au casier
 judiciaire, ne peut être prise en compte pour la récidive et n'entraîne pas
 retrait des points affectés au permis de conduire. Les règles sur la contrainte
-par corps ne sont pas applicables au paiement de l'amende.
+judiciaire ne sont pas applicables au paiement de l'amende.
 
 Les deuxième et troisième alinéas de l'article L. 121-2 sont applicables dans
 les mêmes circonstances.

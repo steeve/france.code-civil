@@ -19,13 +19,13 @@ cumuler avec d'autres abattements opérés sur le bénéfice.
 
 II. Les dispositions des premier et quatrième alinéas du I s'appliquent aux
 exploitants agricoles qui, n'ayant pas bénéficié des aides à l'installation
-précitées, souscrivent à compter du 1er janvier 2001 un contrat territorial
-d'exploitation dans les conditions définies aux articles L. 311-3, L. 341-1, R.
-311-1, R. 341-7 à R. 341-13 et R. 341-14 à R. 341-15 du code rural.
+précitées, souscrivent entre le 1er janvier 2005 et le 31 décembre 2008 un
+contrat d'agriculture durable dans les conditions définies aux articles R.
+311-1, R. 311-2 et R. 341-7 à R. 341-20 du code rural.
 
 L'abattement s'applique aux bénéfices imposables des exploitants agricoles âgés
 de vingt et un ans au moins et trente-huit ans au plus au jour de la
 souscription du contrat précité, au titre des soixante mois suivants.
 
 Cet abattement n'est applicable que pour la première conclusion d'un contrat
-territorial d'exploitation.
+d'agriculture durable.

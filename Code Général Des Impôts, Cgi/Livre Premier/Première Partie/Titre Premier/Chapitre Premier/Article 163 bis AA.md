@@ -16,10 +16,9 @@ Les revenus provenant de sommes attribuées au titre de la participation et
 recevant la même affectation qu'elles, sont exonérés dans les mêmes conditions.
 Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
 définitivement exonérés à l'expiration de la période d'indisponibilité
-correspondante. Par dérogation aux dispositions du I de l'article 158 bis et de
-l'article 199 ter, les avoirs fiscaux et crédits d'impôt attachés à ces revenus
-sont restituables. Ils sont exonérés dans les mêmes conditions que ces revenus
-(1).
+correspondante. Par dérogation aux dispositions de l'article 199 ter, les
+crédits d'impôt attachés à ces revenus sont restituables. Ils sont exonérés dans
+les mêmes conditions que ces revenus.
 
 Après l'expiration de la période d'indisponibilité, l'exonération est toutefois
 maintenue pour les revenus provenant de sommes utilisées pour acquérir des
@@ -42,5 +41,3 @@ ou partie du capital de leur entreprise dans les conditions prévues à l'articl
 Pour ouvrir droit aux exonérations prévues au présent article, les accords de
 participation doivent avoir été déposés à la direction départementale du travail
 et de l'emploi du lieu où ils ont été conclus.
-
-(1) Annexe II, art. 81 bis.

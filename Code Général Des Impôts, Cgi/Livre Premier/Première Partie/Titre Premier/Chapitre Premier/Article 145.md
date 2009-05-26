@@ -1,7 +1,7 @@
 Article 145
 ----
-1. Le régime fiscal des sociétés mères, tel qu'il est défini aux articles 146 et
-216, est applicable aux sociétés et autres organismes soumis à l'impôt sur les
+1. Le régime fiscal des sociétés mères, tel qu'il est défini à l'article 216,
+est applicable aux sociétés et autres organismes soumis à l'impôt sur les
 sociétés au taux normal qui détiennent des participations satisfaisant aux
 conditions ci-après :
 

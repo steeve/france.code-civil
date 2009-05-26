@@ -4,6 +4,14 @@ I. - Les débits de tabac ordinaires peuvent être provisoirement ou
 définitivement fermés sur décision du directeur régional des douanes et droits
 indirects.
 
+Un débit de tabac ordinaire peut être provisoirement fermé sur décision du
+directeur régional des douanes et droits indirects pour la durée pendant
+laquelle le représentant de l'Etat dans le département ou le préfet de police à
+Paris a ordonné la fermeture du commerce annexé en application des dispositions
+de l'article L. 3332-15 du code de la santé publique. Pendant ce délai, aucune
+demande de réouverture par une personne intéressée par la reprise de la gérance
+n'est recevable.
+
 II. - Sans préjudice de l'arrêté du 31 décembre 1982, modifié par l'arrêté du 5
 décembre 1990, relatif au régime des sanctions disciplinaires applicables aux
 débitants de tabac, un débit de tabac ordinaire doit être provisoirement fermé

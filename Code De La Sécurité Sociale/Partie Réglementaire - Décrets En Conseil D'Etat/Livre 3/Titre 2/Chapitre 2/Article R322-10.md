@@ -6,8 +6,9 @@ examens appropriés à son état sont pris en charge dans les cas suivants :
 
 1° Transports liés à une hospitalisation ;
 
-2° Traitements ou examens prescrits en application de l'article L. 324-1 pour
-les malades reconnus atteints d'une affection de longue durée ;
+2° Transports liés aux traitements ou examens prescrits en application de
+l'article L. 324-1 pour les malades reconnus atteints d'une affection de longue
+durée ;
 
 3° Transport par ambulance lorsque l'état du malade justifie un transport
 allongé ou une surveillance constante ;

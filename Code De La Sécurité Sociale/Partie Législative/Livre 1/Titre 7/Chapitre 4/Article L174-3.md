@@ -1,7 +1,7 @@
 Article L174-3
 ----
-Dans les établissements mentionnés à l'article L. 174-1, une tarification des
-prestations fixée par arrêté servira de base :
+Dans les établissements mentionnés aux articles L. 162-22-16 et L. 174-1, une
+tarification des prestations fixée par arrêté servira de base :
 
 1°) à la facturation des soins et de l'hébergement des malades non couverts par
 un régime d'assurance maladie ;

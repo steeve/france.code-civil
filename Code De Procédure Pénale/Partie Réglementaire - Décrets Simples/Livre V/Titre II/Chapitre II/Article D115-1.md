@@ -1,0 +1,6 @@
+Article D115-1
+----
+Lorsque la peine d'emprisonnement prononcée est supérieure à un an, le total du
+crédit de réduction de peine correspondant aux mois excédant la première année
+d'emprisonnement ou la ou les années d'emprisonnement qui suivent ne peut
+dépasser deux mois.

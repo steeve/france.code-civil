@@ -1,27 +1,26 @@
 Article R162-42-1
 ----
-Le montant total des charges définies au II de l'article L. 162-22-2 et sa
-répartition par région, établissement et nature d'activité, s'apprécie à partir
-de la consolidation par les organismes nationaux dont relèvent les caisses
-mentionnées à l'article L. 174-18 des versements de ces caisses aux
-établissements de santé privés au titre des soins dispensés au cours de l'année
-antérieure. La consolidation des données nationales issues des différents
-régimes d'assurance maladie s'effectue sous la responsabilité de la Caisse
-nationale de l'assurance maladie des travailleurs salariés. Ce constat peut
-également être effectué par la Caisse nationale de l'assurance maladie des
-travailleurs salariés à partir des données fournies par le système national
-d'information interrégimes de l'assurance maladie mentionné à l'article L.
-161-28-1. Les données obtenues sont complétées par le montant des prestations
-restant à payer correspondant à la valeur estimative des bordereaux de
-facturation non liquidés ou non reçus, ou liquidés mais non payés, à la clôture
-de l'exercice et correspondant à des soins dispensés au cours du même exercice.
+Dans un délai de quinze jours suivant la publication de l'arrêté mentionné à
+l'article R. 162-42, les ministres chargés de la santé et de la sécurité sociale
+arrêtent, sur recommandation du conseil de l'hospitalisation prise après avis
+des organisations nationales les plus représentatives des établissements de
+santé, les éléments tarifaires mentionnés aux 1° à 3° du I de l'article L.
+162-22-10 dans le respect de l'objectif de dépenses mentionné à l'article L.
+162-22-9.
 
-Les mêmes dispositions sont applicables aux informations communiquées par la
-Caisse nationale de l'assurance maladie des travailleurs salariés en cours
-d'année, en application du troisième alinéa du II de l'article L. 162-22-3.
+Les tarifs nationaux des prestations et les montants des forfaits annuels sont
+déterminés en tenant compte notamment des éléments mentionnés aux 1° à 5° de
+l'article R. 162-41-1 et de l'impact de l'application des coefficients
+géographiques à l'activité des établissements des zones concernées.
 
-Le constat définitif des charges est établi dès que les versements de l'ensemble
-des régimes obligatoires d'assurance maladie afférents aux frais
-d'hospitalisation au titre des soins dispensés sur l'année complète sont connus.
-Ce constat définitif donne lieu, le cas échéant, à une régularisation dans le
-cadre du suivi effectué en cours d'année, prévu au II de l'article L. 162-22-3.
+Pour le calcul des tarifs nationaux des prestations, il est également tenu
+compte du coût des prestations établi sur un échantillon représentatif
+d'établissements.
+
+Pour le calcul du coefficient géographique, il est notamment tenu compte des
+surcoûts immobiliers, salariaux et fiscaux constatés dans certaines zones
+géographiques, ainsi que des charges spécifiques aux départements insulaires et
+d'outre-mer liées à l'éloignement et à l'isolement, qui modifient de manière
+manifeste, permanente et substantielle le prix de revient de certaines
+prestations des établissements des zones concernées. Ces zones sont fixées par
+arrêté des ministres chargés de la santé et de la sécurité sociale.

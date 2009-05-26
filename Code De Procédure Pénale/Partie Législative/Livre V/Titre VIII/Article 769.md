@@ -4,8 +4,8 @@ Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses
 de peines prononcées après ajournement du prononcé de la peine, des grâces,
 commutations ou réductions de peines, des décisions qui suspendent ou qui
 ordonnent l'exécution d'une première condamnation, des décisions prises en
-application du deuxième alinéa de l'article 713-3 ou du premier alinéa de
-l'article 713-6, des décisions de libération conditionnelle et de révocation,
+application du deuxième alinéa de l'article 728-4 ou du premier alinéa de
+l'article 728-7, des décisions de libération conditionnelle et de révocation,
 des décisions de suspension de peine, des décisions qui rapportent ou suspendent
 les arrêtés d'expulsion, ainsi que la date de l'expiration de la peine et du
 paiement de l'amende.
@@ -21,13 +21,13 @@ condamnation à une peine criminelle ou correctionnelle.
 Sont également retirés du casier judiciaire :
 
 1° Les jugements prononçant la faillite personnelle ou l'interdiction prévue par
-l'article 192 de la loi n° 85-98 du 25 janvier 1985 précitée lorsque ces mesures
-sont effacées par un jugement de clôture pour extinction du passif, par la
-réhabilitation ou à l'expiration du délai de cinq ans à compter du jour où ces
-condamnations sont devenues définitives ainsi que le jugement prononçant la
-liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un
-délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après
-le prononcé d'un jugement emportant réhabilitation.
+l'article L. 653-8 du code de commerce lorsque ces mesures sont effacées par un
+jugement de clôture pour extinction du passif, par la réhabilitation ou à
+l'expiration du délai de cinq ans à compter du jour où ces condamnations sont
+devenues définitives ainsi que le jugement prononçant la liquidation judiciaire
+à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à
+compter du jour où ce jugement est devenu définitif ou après le prononcé d'un
+jugement emportant réhabilitation.
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est
 supérieure à cinq ans, la condamnation relative à ces mesures demeure mentionnée
@@ -51,4 +51,12 @@ constitue un délit ;
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de
 trois ans à compter du jour où l'exécution de la mesure a été constatée, si la
 personne n'a pas, pendant ce délai, soit subi de condamnation à une peine
-criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale.
+criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale ;
+
+7° Les fiches relatives aux mesures prononcées en application des articles 8,
+15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février 1945 précitée
+à l'expiration d'un délai de trois ans à compter du jour où la mesure a été
+prononcée si la personne n'a pas, pendant ce délai, soit subi de condamnation à
+une peine criminelle ou correctionnelle, soit exécuté une composition pénale,
+soit fait l'objet d'une nouvelle mesure prononcée en application des
+dispositions précitées de ladite ordonnance.

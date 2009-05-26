@@ -22,7 +22,8 @@ forestiers.
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe
 professionnelle diminuée, le cas échéant, de l'ensemble des réductions et
 dégrèvements dont cette cotisation peut faire l'objet, à l'exception du
-dégrèvement prévu à l'article 1647 C.
+dégrèvement prévu à l'article 1647 C et du crédit d'impôt prévu à l'article 1647
+C sexies.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux
 prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641.
@@ -195,5 +196,5 @@ IV. Les dégrèvements résultant de l'application du présent article sont
 ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
 V. - Le montant total des dégrèvements accordés à un contribuable en application
-du présent article et de l'article 1647 C quinquies ne peut excéder 76 225 000
-euros.
+du présent article et des articles 1647 B octies et 1647 C quinquies ne peut
+excéder 76 225 000 euros.

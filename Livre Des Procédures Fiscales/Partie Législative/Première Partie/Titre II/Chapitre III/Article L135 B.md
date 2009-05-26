@@ -15,6 +15,14 @@ collectivités locales et à leurs groupements dotés d'une fiscalité propre le
 rôles généraux des impôts directs locaux comportant les impositions émises à
 leur profit.
 
+Elle est également tenue de leur transmettre, à leur demande, la liste des
+logements vacants recensés l'année précédente pour l'établissement de la taxe
+d'habitation. Cette liste indique, pour chaque logement, son adresse, sa nature,
+sa valeur locative, la première année de vacance du local, le nom et l'adresse
+de son propriétaire et, le cas échéant, l'année à partir de laquelle le local a
+été soumis à la taxe sur les locaux vacants et le taux d'imposition à cette
+taxe.
+
 Les communes et l'administration peuvent se communiquer mutuellement les
 informations nécessaires au recensement des bases des impositions directes
 locales.

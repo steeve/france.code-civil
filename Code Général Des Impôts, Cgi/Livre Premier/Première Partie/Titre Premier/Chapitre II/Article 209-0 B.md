@@ -68,8 +68,8 @@ liées directement ou indirectement au sens du 12 de l'article 39 n'ayant pas
 elles-mêmes opté pour le présent régime ;
 
 b. Des résultats de participations dans des organismes mentionnés aux articles
-8, 8 quater, 239 quater, 239 quater B et 239 quater C à l'exception des
-résultats de copropriétés de navires soumis au présent régime ;
+8, 8 quater, 239 quater, 239 quater B, 239 quater C et 239 quater D à
+l'exception des résultats de copropriétés de navires soumis au présent régime ;
 
 c. Des plus ou moins-values provenant de la cession ou de la réévaluation des
 navires éligibles et des éléments de l'actif immobilisé affectés à leur

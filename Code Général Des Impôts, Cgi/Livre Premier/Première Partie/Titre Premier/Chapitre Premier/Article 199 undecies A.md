@@ -48,15 +48,17 @@ associés de la société, leur conjoint ou les membres de leur foyer fiscal, qu
 en font leur habitation principale. Les souscripteurs doivent s'engager à
 conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ;
 
-e) Au montant des travaux de réhabilitation réalisés par une entreprise et
-portant sur des logements achevés depuis plus de quarante ans, situés dans les
-départements, collectivités ou territoires visés au 1, que le propriétaire prend
-l'engagement, pour une durée de cinq ans, soit d'affecter dès l'achèvement des
-travaux à son habitation principale, soit de louer nu dans les six mois qui
-suivent l'achèvement des travaux à des personnes qui en font leur habitation
-principale et autres que son conjoint ou un membre de son foyer fiscal. Un
-décret détermine les conditions d'application de ces dispositions, et notamment
-la nature des travaux de réhabilitation éligibles ;
+e) Au montant des travaux de réhabilitation réalisés par une entreprise, à
+l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers
+en application de l'article 31, et portant sur des logements achevés depuis plus
+de quarante ans, situés dans les départements, collectivités ou territoires
+visés au 1, que le propriétaire prend l'engagement, pour une durée de cinq ans,
+soit d'affecter dès l'achèvement des travaux à son habitation principale, soit
+de louer nu dans les six mois qui suivent l'achèvement des travaux à des
+personnes qui en font leur habitation principale et autres que son conjoint ou
+un membre de son foyer fiscal. Un décret détermine les conditions d'application
+de ces dispositions, et notamment la nature des travaux de réhabilitation
+éligibles ;
 
 f) Aux souscriptions en numéraire au capital des sociétés de développement
 régional des départements, territoires ou collectivités visés au 1 ou de
@@ -125,15 +127,18 @@ novembre qui précède la date de référence (1).
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a
 du 2, pour le calcul de l'impôt dû au titre de l'année d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure, et des neuf années
-suivantes. Pour les investissements visés aux b, c, d, e, f, g et h du 2, elle
-est effectuée pour le calcul de l'impôt dû au titre de l'année d'achèvement de
+suivantes. Pour les investissements visés aux b, c, d, f, g et h du 2, elle est
+effectuée pour le calcul de l'impôt dû au titre de l'année d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription
-des parts ou actions, et des quatre années suivantes. Chaque année, la base de
-la réduction est égale, pour les investissements mentionnés au a du 2, à 10 %
-des sommes effectivement payées au 31 décembre de l'année au cours de laquelle
-le droit à réduction d'impôt est né et, pour les investissements visés aux b, c,
-d, e, f, g et h du 2, à 20 % des sommes effectivement payées au 31 décembre de
-l'année au cours de laquelle le droit à réduction d'impôt est né.
+des parts ou actions, et des quatre années suivantes. Pour les investissements
+visés au e, elle est effectuée pour le calcul dû au titre de l'année
+d'achèvement des travaux de réhabilitation et des quatre années suivantes.
+Chaque année, la base de la réduction est égale, pour les investissements
+mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de
+l'année au cours de laquelle le droit à réduction d'impôt est né et, pour les
+investissements visés aux b, c, d, e, f, g et h du 2, à 20 % des sommes
+effectivement payées au 31 décembre de l'année au cours de laquelle le droit à
+réduction d'impôt est né.
 
 La réduction d'impôt est égale à 25 % de la base définie au premier alinéa, pour
 les investissements mentionnés au a et au e du 2, à 40 % de la même base, pour

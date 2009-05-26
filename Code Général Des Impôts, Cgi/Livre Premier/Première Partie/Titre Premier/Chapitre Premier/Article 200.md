@@ -1,6 +1,6 @@
 Article 200
 ----
-1. Ouvrent droit à une réduction d'impôt sur le revenu égale à 60 % de leur
+1. Ouvrent droit à une réduction d'impôt sur le revenu égale à 66 % de leur
 montant les sommes prises dans la limite de 20 % du revenu imposable qui
 correspondent à des dons et versements, y compris l'abandon exprès de revenus ou
 produits, effectués par les contribuables domiciliés en France au sens de
@@ -47,12 +47,12 @@ effectués au cours d'une année excèdent la limite de 20 %, l'excédent est
 reporté successivement sur les années suivantes jusqu'à la cinquième
 inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
-1 ter Le taux de la réduction d'impôt visée au 1 est porté à 66 % pour les
+1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les
 versements effectués au profit d'organismes sans but lucratif qui procèdent à la
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 414 euros pour
+difficulté. Ces versements sont retenus dans la limite de 470 euros pour
 l'imposition des revenus de l'année 2003. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 

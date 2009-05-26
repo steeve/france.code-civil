@@ -16,6 +16,10 @@ coupons ou d'instruments représentatifs de coupons ;
 2° L'indication du montant des distributions, correspondant à des rémunérations
 ou avantages occultes ;
 
+2° bis L'indication du montant des revenus distribués aux associés, actionnaires
+ou porteurs de parts suivant qu'ils sont éligibles ou non à la réfaction de 50 %
+mentionnée au 2° du 3 de l'article 158 du code général des impôts ;
+
 3° Un relevé des bénéficiaires de distributions autres que celles visées aux 1°
 et 2°, indiquant les noms, prénoms, qualités et domiciles des intéressés, la
 nature et le montant des sommes versées à chacun d'eux et l'année au cours de

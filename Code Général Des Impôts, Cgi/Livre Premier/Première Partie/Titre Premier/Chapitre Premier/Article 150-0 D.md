@@ -48,14 +48,14 @@ supérieure.
 défini à l'article 163 quinquies D ou leur retrait au-delà de la huitième année,
 le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a
 cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter
-de l'article 157 et au IV de l'article 163 quinquies D.
+de l'article 157.
 
 6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
 l'article 163 quinquies D s'entend de la différence entre la valeur liquidative
 du plan ou la valeur de rachat pour les contrats de capitalisation à la date du
 retrait et le montant des versements effectués sur le plan depuis la date de son
 ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant pas
-entraîné la clôture du plan (1).
+entraîné la clôture du plan.
 
 7. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à
 long terme est réputé égal au dernier cours coté au comptant de ces titres
@@ -90,7 +90,7 @@ variable absorbée remises à l'échange.
 
 11. Les moins-values subies au cours d'une année sont imputables exclusivement
 sur les plus-values de même nature réalisées au cours de la même année ou des
-dix années suivantes (1).
+dix années suivantes.
 
 12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits
 sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées

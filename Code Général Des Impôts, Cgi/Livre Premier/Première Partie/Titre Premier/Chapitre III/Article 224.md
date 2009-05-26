@@ -41,4 +41,8 @@ d'enseignement ;
 
 3° Les groupements d'employeurs composés d'agriculteurs ou de sociétés civiles
 agricoles bénéficiant de l'exonération, constitués selon les modalités prévues
-au chapitre VII du titre II du livre Ier du code du travail.
+au chapitre VII du titre II du livre Ier du code du travail et, à proportion des
+rémunérations versées dans le cadre de la mise à disposition de personnel aux
+adhérents non assujettis ou bénéficiant d'une exonération, les autres
+groupements d'employeurs constitués selon les modalités prévues au chapitre VII
+du titre II du livre Ier du code du travail (1).
