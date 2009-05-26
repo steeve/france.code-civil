@@ -46,13 +46,16 @@ définie par le livre IX du code du travail ;
 
 3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
 rééducation professionnelle dans les conditions prévues par le présent code, les
-assurés sociaux bénéficiaires de l'article L. 324-1 ou titulaires d'une pension
-d'invalidité en vertu du chapitre 1er du titre IV du livre III et les personnes
-autres que celles appartenant aux catégories ci-dessus et qui, en vertu d'un
-texte législatif ou réglementaire, effectuent un stage de rééducation
-professionnelle dans les écoles administrées par l'office national des anciens
-combattants et victimes de la guerre, pour les accidents survenus par le fait ou
-à l'occasion de la réadaptation ou de la rééducation ;
+victimes menant des actions de formation professionnelle ou d'autres actions
+d'évaluation, d'accompagnement, d'information et de conseil dans les conditions
+prévues au quatrième alinéa de l'article L. 433-1, les assurés sociaux
+bénéficiaires de l'article L. 324-1 ou titulaires d'une pension d'invalidité en
+vertu du chapitre 1er du titre IV du livre III et les personnes autres que
+celles appartenant aux catégories ci-dessus et qui, en vertu d'un texte
+législatif ou réglementaire, effectuent un stage de rééducation professionnelle
+dans les écoles administrées par l'office national des anciens combattants et
+victimes de la guerre, pour les accidents survenus par le fait ou à l'occasion
+de la réadaptation ou de la rééducation ;
 
 4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
@@ -83,10 +86,10 @@ dehors de l'exécution du contrat d'engagement maritime ;
 par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
 accidents survenus par le fait ou à l'occasion de cette formation ;
 
-10°) les bénéficiaires de l'allocation de revenu minimum d'insertion instituée
-par la loi n° 88-1088 du 1er décembre 1988 (1) relative au revenu minimum
-d'insertion, pour les accidents survenus par le fait ou à l'occasion des actions
-favorisant leur insertion, dans des conditions déterminées par décret ;
+10°) Les bénéficiaires du montant forfaitaire mentionné au 2° de l'article L.
+262-2 du code de l'action sociale et des familles, pour les accidents survenus
+par le fait ou à l'occasion des actions favorisant leur insertion, dans des
+conditions déterminées par décret ;
 
 11°) Les demandeurs d'emploi, pour les accidents survenus par le fait ou à
 l'occasion de leur participation à des actions d'aide à la création d'entreprise
