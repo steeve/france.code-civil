@@ -37,3 +37,9 @@ propriétés considérées. A cet effet, le bailleur impute cet avantage sur le
 montant de la taxe qu'il met à la charge du preneur en application du troisième
 alinéa. Lorsque ce montant est inférieur à l'avantage, le bailleur déduit du
 montant du fermage dû par le preneur le montant qui n'a pu être imputé.
+
+Lorsque les propriétés visées à l'article 1395 H du code général des impôts sont
+données à bail, le bailleur rétrocède intégralement l'allégement visé au I du
+même article au preneur. Les modalités de calcul de cette rétrocession sont
+déterminées selon les principes définis aux quatrième à sixième alinéas du
+présent article.

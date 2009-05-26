@@ -1,15 +1,16 @@
 Article 244 quater K
 ----
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
-exonérées en application des articles 44 sexies,44 sexies A,44 octies,44 octies
-A,44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles
-technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
+exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44
+octies A, 44 decies , 44 undecies , 44 terdecies et 44 quaterdecies qui exposent
+des dépenses d'équipement en nouvelles technologies peuvent bénéficier d'un
+crédit d'impôt égal à 20 % de ces dépenses.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont réalisé soit un chiffre d'affaires
 inférieur à 50 millions d'euros au cours de l'année au titre de laquelle les
 dépenses mentionnées au II ont été exposées, soit un total de bilan inférieur à
-43 millions d'euros. L'effectif de l'entreprise est apprécié par référence au
+43 millions d'euros.L'effectif de l'entreprise est apprécié par référence au
 nombre moyen de salariés employés au cours de cette période. Le capital des
 sociétés doit être entièrement libéré et être détenu de manière continue, pour
 75 % au moins, par des personnes physiques ou par une société répondant aux
@@ -54,14 +55,15 @@ règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8, 238 bis L,238 ter,239 ter,239 quater,239 quater A,239
-quater B,239 quater C,239 quater D et 239 quinquies qui ne sont pas soumis à
-l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 /
-2006 de la Commission du 15 décembre 2006 précité. Le crédit d'impôt peut être
-utilisé par les associés de ces sociétés ou les membres de ces groupements
-proportionnellement à leurs droits dans ces sociétés ou groupements s'ils
-satisfont aux conditions d'application de ce même règlement et sous réserve
-qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes
-physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+mentionnés aux articles 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater
+A, 239 quater B, 239 quater C, 239 quater D et 239 quinquies qui ne sont pas
+soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE)
+n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. Le crédit d'impôt
+peut être utilisé par les associés de ces sociétés ou les membres de ces
+groupements proportionnellement à leurs droits dans ces sociétés ou groupements
+s'ils satisfont aux conditions d'application de ce même règlement et sous
+réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de
+personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 VI.-Un décret fixe les conditions d'application du présent article.

@@ -1,6 +1,6 @@
 Article 72 D bis
 ----
-I. - Dans la limite du bénéfice imposable, les exploitants agricoles soumis à un
+I.-Dans la limite du bénéfice imposable, les exploitants agricoles soumis à un
 régime réel d'imposition peuvent pratiquer une déduction pour aléas dont le
 montant par exercice de douze mois s'élève à 23 000 € sous réserve qu'ils aient
 souscrit une assurance au titre de l'exercice dans des conditions définies par
@@ -32,13 +32,14 @@ le nombre des associés exploitants dans la limite de trois.
 La déduction pour aléas s'exerce à la condition que, dans les trois mois de la
 clôture de l'exercice, l'exploitant ait inscrit à un compte d'affectation ouvert
 auprès d'un établissement de crédit une somme provenant des recettes de
-l'exploitation de cet exercice égale au montant de la déduction. L'épargne
+l'exploitation de cet exercice égale au montant de la déduction.L'épargne
 professionnelle ainsi constituée doit être inscrite à l'actif du bilan de
 l'exploitation. Les intérêts produits par cette épargne professionnelle et qui
 sont capitalisés dans le compte d'affectation ne sont pas soumis à l'impôt.
 
-La déduction est pratiquée après application de l'abattement prévu à l'article
-73 B et de la déduction pour investissement prévue à l'article 72 D.
+La déduction est pratiquée après application des abattements prévus aux articles
+44 quaterdecies et 73 B et de la déduction pour investissement prévue à
+l'article 72 D.
 
 Les sommes déduites et leurs intérêts capitalisés non soumis à l'impôt peuvent
 être utilisés au cours des dix exercices qui suivent celui de leur inscription
@@ -72,13 +73,13 @@ inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce
 prélèvement a été effectué et majorés d'un montant égal au produit de ces sommes
 et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
 
-II. - L'apport d'une exploitation individuelle dans les conditions visées au I
-de l'article 151 octies, à une société civile agricole par un exploitant
-agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de
-l'apport n'est pas considéré pour l'application du I comme une cessation
-d'activité si la société bénéficiaire de l'apport en remplit les conditions et
-s'engage à utiliser les sommes déposées sur le compte au cours des dix exercices
-qui suivent celui au titre duquel la déduction correspondante a été pratiquée.
+II.-L'apport d'une exploitation individuelle dans les conditions visées au I de
+l'article 151 octies, à une société civile agricole par un exploitant agricole
+qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport
+n'est pas considéré pour l'application du I comme une cessation d'activité si la
+société bénéficiaire de l'apport en remplit les conditions et s'engage à
+utiliser les sommes déposées sur le compte au cours des dix exercices qui
+suivent celui au titre duquel la déduction correspondante a été pratiquée.
 
 La transmission à titre gratuit d'une exploitation individuelle dans les
 conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la
@@ -89,5 +90,5 @@ déduction et s'engagent à utiliser les sommes déposées sur le compte au cour
 des dix exercices qui suivent celui au titre duquel la déduction correspondante
 a été pratiquée dans les conditions et les limites définies au I.
 
-III. - Le compte ouvert auprès d'un établissement de crédit est un compte
-courant qui retrace exclusivement les opérations définies au I.
+III.-Le compte ouvert auprès d'un établissement de crédit est un compte courant
+qui retrace exclusivement les opérations définies au I.

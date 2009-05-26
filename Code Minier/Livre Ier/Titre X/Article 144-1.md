@@ -1,9 +1,9 @@
 Article 144-1
 ----
-En cas de poursuite pour infraction aux dispositions des articles 141 et 142 du
-code minier, le tribunal peut ajourner le prononcé de la peine et enjoindre la
-personne physique ou morale déclarée coupable de se conformer aux prescriptions
-auxquelles il a été contrevenu.
+En cas de poursuite pour infraction aux dispositions des articles 141, 141-1 et
+142 du code minier, le tribunal peut ajourner le prononcé de la peine et
+enjoindre la personne physique ou morale déclarée coupable de se conformer aux
+prescriptions auxquelles il a été contrevenu.
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut
 assortir l'injonction d'une astreinte dont il fixe le taux et la durée maximum.

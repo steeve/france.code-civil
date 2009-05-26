@@ -2,8 +2,8 @@ Article 244 quater O
 ----
 I.-Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44
-octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit
-d'impôt égal à 10 % de la somme :
+octies, 44 octies A, 44 decies , 44 undecies , 44 terdecies et 44 quaterdecies
+peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement chargés
 de la conception de nouveaux produits dans un des secteurs ou métiers mentionnés
@@ -61,7 +61,7 @@ règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8, ,238 bis L, 239 quater, 239 quater A, 239 quater B et
+mentionnés aux articles 8,, 238 bis L, 239 quater, 239 quater A, 239 quater B et
 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également
 respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou

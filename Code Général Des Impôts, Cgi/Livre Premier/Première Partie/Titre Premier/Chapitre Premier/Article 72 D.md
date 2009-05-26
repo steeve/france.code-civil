@@ -19,8 +19,8 @@ Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, le plafond est multiplié par le
 nombre des associés exploitants dans la limite de trois.
 
-La déduction est pratiquée après application de l'abattement prévu à l'article
-73 B.
+La déduction est pratiquée après application des abattements prévus aux articles
+44 quaterdecies et 73 B.
 
 Cette déduction doit être utilisée au cours des cinq exercices qui suivent celui
 de sa réalisation pour l'acquisition et la création d'immobilisations

@@ -27,7 +27,8 @@ jour de ses obligations fiscales ou sociales.
 Le contrat de travail peut être rompu sans préavis à l'initiative du salarié
 lorsque la rupture a pour objet de permettre à celui-ci d'être embauché en vertu
 du contrat prévu à l'article L. 711-5 ou de suivre l'une des formations
-qualifiantes mentionnées aux articles L. 324-9 et L. 711-2.
+qualifiantes mentionnées à l'article L. 711-2 et au V de l'article 50 de la loi
+n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer.
 
 La prime n'est pas cumulable avec une autre aide à l'emploi attribuée par
 l'Etat.

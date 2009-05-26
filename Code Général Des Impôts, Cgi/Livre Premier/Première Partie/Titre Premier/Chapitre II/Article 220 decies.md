@@ -1,6 +1,6 @@
 Article 220 decies
 ----
-I. - Une entreprise est qualifiée de petite et moyenne entreprise de croissance
+I.-Une entreprise est qualifiée de petite et moyenne entreprise de croissance
 lorsqu'elle satisfait simultanément aux conditions suivantes :
 
 1° Elle est assujettie à l'impôt sur les sociétés ;
@@ -35,8 +35,8 @@ personnel, à l'exclusion de celles relatives aux dirigeants, ont augmenté d'au
 moins 15 % au titre de chacun des deux exercices précédents, ramenés ou portés,
 le cas échéant, à douze mois.
 
-II. - 1. - Les entreprises qui satisfont aux conditions mentionnées au I
-bénéficient d'une réduction d'impôt égale au produit :
+II.-1.-Les entreprises qui satisfont aux conditions mentionnées au I bénéficient
+d'une réduction d'impôt égale au produit :
 
 1° Du rapport entre :
 
@@ -57,32 +57,33 @@ fonction du chiffre d'affaires réalisé au titre de ce même exercice ;
 b) Et le montant moyen de ce même ensemble acquitté au titre des deux exercices
 précédents.
 
-2. - L'impôt sur les sociétés acquitté mentionné au 1 s'entend du montant de
+2.-L'impôt sur les sociétés acquitté mentionné au 1 s'entend du montant de
 l'impôt sur les sociétés effectivement payé, après imputation éventuelle de
 réductions et crédits d'impôt. Pour les sociétés membres d'un groupe au sens de
 l'article 223 A, l'impôt sur les sociétés acquitté mentionné au 1 s'entend du
 montant qu'elles auraient dû acquitter en l'absence d'application du régime
 prévu à l'article 223 A.
 
-III. - Pour l'application des 4° du I et 1° du 1 du II, les dépenses de
-personnel comprennent les salaires et leurs accessoires ainsi que les charges
-sociales y afférentes dans la mesure où celles-ci correspondent à des
-cotisations obligatoires.
+III.-Pour l'application des 4° du I et 1° du 1 du II, les dépenses de personnel
+comprennent les salaires et leurs accessoires ainsi que les charges sociales y
+afférentes dans la mesure où celles-ci correspondent à des cotisations
+obligatoires.
 
-IV. - 1. - Pour la détermination du taux d'augmentation de la somme des dépenses
-de personnel défini aux 4° du I et a du 1° du 1 du II, les fusions, apports ou
+IV.-1.-Pour la détermination du taux d'augmentation de la somme des dépenses de
+personnel défini aux 4° du I et a du 1° du 1 du II, les fusions, apports ou
 opérations assimilées sont réputés être intervenus l'exercice précédant celui au
 cours duquel ils sont réalisés.
 
-2. - Pour la détermination de la variation des montants d'impôt sur les sociétés
+2.-Pour la détermination de la variation des montants d'impôt sur les sociétés
 et d'imposition forfaitaire annuelle définie au 2° du 1 du II, les fusions,
 apports ou opérations assimilées sont réputés être intervenus l'avant-dernier
 exercice précédant celui au titre duquel la réduction d'impôt est calculée.
 
-V. - Les entreprises exonérées totalement ou partiellement d'impôt sur les
+V.-Les entreprises exonérées totalement ou partiellement d'impôt sur les
 sociétés en application des articles 44 sexies, 44 sexies A, 44 octies, 44
-octies A, 44 decies et 44 undecies bénéficient de la réduction d'impôt prévue au
-II à compter de l'exercice au titre duquel toute exonération a cessé.
+octies A, 44 decies , 44 undecies , 44 terdecies et 44 quaterdecies bénéficient
+de la réduction d'impôt prévue au II à compter de l'exercice au titre duquel
+toute exonération a cessé.
 
 Pour la détermination de la réduction d'impôt, ces entreprises calculent l'impôt
 sur les sociétés qu'en l'absence de toute exonération elles auraient dû
@@ -93,7 +94,7 @@ d'impôt dont elles ont bénéficié le cas échéant. Ces entreprises calculent
 fonction du chiffre d'affaires réalisé au titre de chacun des deux exercices
 précédant celui pour lequel la réduction d'impôt est déterminée.
 
-VI. - Les entreprises soumises à l'impôt sur le revenu qui se transforment en
+VI.-Les entreprises soumises à l'impôt sur le revenu qui se transforment en
 sociétés soumises à l'impôt sur les sociétés bénéficient de la réduction d'impôt
 prévue au II à compter du premier exercice au titre duquel elles sont soumises à
 l'impôt sur les sociétés.
@@ -108,15 +109,14 @@ acquitter, en fonction du chiffre d'affaires réalisé au titre de chacun des de
 exercices précédant celui pour lequel la réduction d'impôt est déterminée, comme
 si elles avaient été assujetties à cette imposition.
 
-VII. - Les entreprises qui ont bénéficié de la réduction d'impôt mentionnée au
-II continuent à en bénéficier au titre de la première année au cours de
-laquelle, parmi les conditions mentionnées au I, elles ne satisfont pas à la
-condition énumérée au 4° du même I et relative à l'augmentation des dépenses de
-personnel.
+VII.-Les entreprises qui ont bénéficié de la réduction d'impôt mentionnée au II
+continuent à en bénéficier au titre de la première année au cours de laquelle,
+parmi les conditions mentionnées au I, elles ne satisfont pas à la condition
+énumérée au 4° du même I et relative à l'augmentation des dépenses de personnel.
 
-VIII. - Le bénéfice de la réduction d'impôt mentionnée au II est subordonné au
+VIII.-Le bénéfice de la réduction d'impôt mentionnée au II est subordonné au
 respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
-IX. - Un décret fixe les conditions d'application du présent article et
-notamment les obligations déclaratives.
+IX.-Un décret fixe les conditions d'application du présent article et notamment
+les obligations déclaratives.

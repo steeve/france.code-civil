@@ -1,16 +1,6 @@
 Article L5522-23
 ----
-L'aide au projet initiative-jeune bénéficie aux jeunes qui :
-
-1° Soit créent ou reprennent une entreprise à but lucratif dont le siège et
-l'établissement principal sont situés dans un département d'outre-mer, de
-Saint-Barthélemy et de Saint-Martin et dont ils assurent la direction effective
-;
-
-2° Soit poursuivent une formation professionnelle proposée par l'Agence
-nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par
-tout organisme agréé à cet effet par l'Etat si cette formation se déroule hors
-du département d'outre-mer, de Saint-Barthélemy et de Saint-Martin dans lequel
-est situé le centre de leurs intérêts ou, pour ce qui concerne l'archipel de la
-Guadeloupe, hors des îles des Saintes, de Marie-Galante, de La Désirade, où est
-situé le centre de leurs intérêts.
+L'aide au projet initiative-jeune bénéficie aux jeunes qui créent ou reprennent
+une entreprise à but lucratif dont le siège et l'établissement principal sont
+situés dans un département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à
+Saint-Pierre-et-Miquelon et dont ils assurent la direction effective.

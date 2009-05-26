@@ -25,7 +25,7 @@ de l'information et de la communication et des centres d'appel, de la pêche, de
 cultures marines, de l'aquaculture, de l'agriculture, y compris les coopératives
 agricoles et sociétés d'intérêt collectif agricoles et leurs unions, ainsi que
 les coopératives maritimes et leurs unions, du tourisme, de la restauration de
-tourisme et de l'hôtellerie ;
+tourisme y compris les activités de loisirs s'y rapportant, et de l'hôtellerie ;
 
 3° Aux entreprises de transport aérien assurant :
 
@@ -52,64 +52,95 @@ salarié, en fonction de sa rémunération telle que définie à l'article L. 24
 Lorsque la rémunération horaire est inférieure à un seuil égal au salaire
 minimum de croissance majoré de 40 %, le montant de l'exonération est égal au
 montant des cotisations à la charge de l'employeur au titre des assurances
-sociales et des allocations familiales.A partir de ce seuil, le montant de
+sociales et des allocations familiales. A partir de ce seuil, le montant de
 l'exonération décroît de manière linéaire et devient nul lorsque la rémunération
-horaire est égale à 3, 8 fois le salaire minimum de croissance.
+horaire est égale à 3,8 fois le salaire minimum de croissance.
+
+Pour les employeurs dont l'effectif est inférieur à onze salariés, lorsque la
+rémunération horaire est supérieure à un seuil égal au salaire minimum de
+croissance majoré de 40 % et inférieure à un seuil égal à 2,2 fois le salaire
+minimum de croissance, le montant de l'exonération est égal à celui calculé pour
+une rémunération horaire égale au salaire minimum de croissance majoré de 40 %.
+A partir du seuil de 2,2 fois le salaire minimum de croissance, le montant de
+l'exonération décroît de manière linéaire et devient nul lorsque la rémunération
+horaire est égale à 3,8 fois le salaire minimum de croissance.
 
 IV. ― Par dérogation au III, le montant de l'exonération est égal au montant des
 cotisations à la charge de l'employeur au titre des assurances sociales et des
 allocations familiales lorsque la rémunération horaire est inférieure à un seuil
 égal au salaire minimum de croissance majoré de 60 %, puis décroît de manière
 linéaire à partir de ce seuil, et devient nul lorsque la rémunération horaire
-est égale à 4, 5 fois le salaire minimum de croissance, pour les entreprises
-situées en Guadeloupe, en Guyane, en Martinique ou à La Réunion respectant les
-conditions suivantes :
+est égale à 4,5 fois le salaire minimum de croissance, pour les entreprises
+situées en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Saint-Martin
+respectant les conditions suivantes :
 
 1° Employer moins de deux cent cinquante salariés et avoir réalisé un chiffre
 d'affaires annuel inférieur à 50 millions d'euros ;
 
 2° Avoir une activité principale relevant de l'un des secteurs d'activité
 éligibles à la réduction d'impôt prévue à l'article 199 undecies B du code
-général des impôts ou correspondant à l'une des activités suivantes :
-comptabilité, conseil aux entreprises, ingénierie ou études techniques à
-destination des entreprises, recherche et développement ou technologies de
-l'information et de la communication ;
+général des impôts, ou de même nature dans le cas des entreprises exploitées à
+Saint-Martin, ou correspondant à l'une des activités suivantes : comptabilité,
+conseil aux entreprises, ingénierie ou études techniques à destination des
+entreprises, recherche et développement ou technologies de l'information et de
+la communication ;
 
 3° Etre soumises de plein droit ou sur option à un régime réel d'imposition ;
 
-4° A l'exception des entreprises situées en Guyane, dans les îles des Saintes, à
-Marie-Galante et à la Désirade, exercer leur activité principale dans l'un des
-secteurs suivants :
+4° A 1'exception des entreprises situées en Guyane, dans les îles des Saintes, à
+Marie-Galante, à La Désirade et dans les communes de La Réunion définies par
+l'article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone
+spéciale d'action rurale dans le département de La Réunion, ainsi que dans les
+communes de la Guadeloupe et de la Martinique, dont la liste est fixée par
+décret, qui satisfont cumulativement aux trois critères suivants :
 
-a) Tourisme, environnement ou énergies renouvelables pour les entreprises
-situées en Martinique et en Guadeloupe ;
+-elles sont classées en zone de montagne au sens de la loi n° 85-30 du 9 janvier
+1985 relative au développement et à la protection de la montagne ;
 
-b) Tourisme, agronutrition ou énergies renouvelables pour les entreprises
-situées à La Réunion ;
+-elles sont situées dans un arrondissement dont la densité de population,
+déterminée sur la base des populations légales en vigueur au 1er janvier 2009,
+est inférieure à 270 habitants par kilomètre carré ;
 
-5° Ou :
+-leur population, au sens de l'article L. 2334-2 du code général des
+collectivités territoriales, était inférieure à 10 000 habitants en 2008 :
 
-a) Avoir signé avec un organisme public de recherche ou une université une
-convention, agréée par l'autorité administrative, portant sur un programme de
-recherche dans le cadre d'un projet de développement sur l'un de ces territoires
-si les dépenses de recherche, définies aux a à g du II de l'article 244 quater B
-du code général des impôts, engagées dans le cadre de cette convention
-représentent au moins 5 % des charges totales engagées par l'entreprise au titre
-de l'exercice écoulé ;
+a) Exercer leur activité principale dans l'un des secteurs suivants : recherche
+et développement, technologies de l'information et de la communication,
+tourisme, y compris les activités de loisirs s'y rapportant, environnement,
+agronutrition ou énergies renouvelables ;
 
-b) Avoir réalisé des opérations sous le bénéfice du régime de transformation
-sous douane défini aux articles 130 à 136 du règlement (CEE) n° 2913 / 92 du
-Conseil, du 12 octobre 1992, établissant le code des douanes communautaire, si
-le chiffre d'affaires provenant de ces opérations représente au moins un tiers
-du chiffre d'affaires de l'exploitation au titre de l'exercice écoulé.
+b) Ou :
+
+-avoir signé avec un organisme public de recherche ou une université, y compris
+étrangers, une convention, agréée par l'autorité administrative, portant sur un
+programme de recherche dans le cadre d'un projet de développement sur l'un ou
+plusieurs de ces territoires si les dépenses de recherche, définies aux a à g du
+II de l'article 244 quater B du code général des impôts, engagées dans le cadre
+de cette convention représentent au moins 5 % des charges totales engagées par
+l'entreprise au titre de l'exercice écoulé ;
+
+-ou avoir réalisé des opérations sous le bénéfice du régime de transformation
+sous douane défini aux articles 130 à 136 du règlement (CEE) n° 2913/92 du
+Conseil du 12 octobre 1992 établissant le code des douanes communautaire, si le
+chiffre d'affaires provenant de ces opérations représente au moins un tiers du
+chiffre d'affaires de l'exploitation au titre de l'exercice écoulé.
 
 Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque
 exercice.
 
+Pour les entreprises mentionnées au présent IV, lorsque la rémunération horaire
+est supérieure à un seuil égal au salaire minimum de croissance majoré de 60 %
+et inférieure à un seuil égal à 2,5 fois le salaire minimum de croissance, le
+montant de l'exonération est égal à celui calculé pour une rémunération égale au
+salaire minimum de croissance majoré de 60 %. A partir du seuil de 2,5 fois le
+salaire minimum de croissance, le montant de l'exonération décroît de manière
+linéaire et devient nul lorsque la rémunération horaire est égale à 4,5 fois le
+salaire minimum de croissance.
+
 V. ― Pour l'application du présent article, l'effectif pris en compte est celui
 qui est employé par l'entreprise dans chacune des collectivités mentionnées au
 I, tous établissements confondus dans le cas où l'entreprise compte plusieurs
-établissements dans la même collectivité.L'effectif est apprécié dans les
+établissements dans la même collectivité. L'effectif est apprécié dans les
 conditions prévues par les articles L. 1111-2 et L. 1251-54 du code du travail.
 
 Lorsque dans une même entreprise ou un même établissement sont exercées

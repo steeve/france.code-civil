@@ -2,12 +2,12 @@ Article 244 quater B
 ----
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
 leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
-A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies
-peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche
-qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 %
-pour la fraction des dépenses de recherche inférieure ou égale à 100 millions
-d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce
-montant.
+A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies , 44 duodecies, 44
+terdecies et 44 quaterdecies peuvent bénéficier d'un crédit d'impôt au titre des
+dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit
+d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou
+égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de
+recherche supérieure à ce montant.
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre
 respectivement de la première et de la deuxième année qui suivent l'expiration

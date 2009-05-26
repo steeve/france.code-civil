@@ -12,7 +12,13 @@ La procédure tendant à la déclaration d'état d'abandon manifeste ne peut êt
 poursuivie si, pendant le délai mentionné à l'alinéa précédent, les
 propriétaires ont mis fin à l'état d'abandon ou ont manifesté leur intention d'y
 mettre fin soit en commençant des travaux, soit en s'engageant à les réaliser
-dans un délai fixé en accord avec le maire.
+dans un délai fixé en accord avec le maire. Toutefois, pour les parcelles
+situées dans les départements d'outre-mer et, en tout ou partie, dans le
+périmètre d'un quartier ancien dégradé figurant sur la liste mentionnée à
+l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le
+logement et la lutte contre l'exclusion, la procédure peut être poursuivie
+lorsqu'elle a déjà été interrompue à deux reprises au moins au cours des cinq
+années précédentes sans que les propriétaires aient mis fin à l'état d'abandon.
 
 La procédure tendant à la déclaration d'état d'abandon manifeste peut être
 reprise si les travaux n'ont pas été réalisés dans le délai prévu. Dans ce cas,

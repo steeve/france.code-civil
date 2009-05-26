@@ -1,9 +1,9 @@
 Article 199 undecies D
 ----
 I. ― 1. La somme des réductions d'impôt sur le revenu mentionnées aux articles
-199 undecies A et 199 undecies B et des reports de ces réductions d'impôts, dont
-l'imputation est admise pour un contribuable au titre d'une même année
-d'imposition, ne peut excéder un montant de 40 000 €.
+199 undecies A, 199 undecies B et 199 undecies C et des reports de ces
+réductions d'impôts, dont l'imputation est admise pour un contribuable au titre
+d'une même année d'imposition, ne peut excéder un montant de 40 000 €.
 
 2. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt au
 titre des investissements mentionnés à la première phrase des vingt-sixième et
@@ -17,13 +17,21 @@ alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une
 réduction d'impôt au titre des mêmes investissements sont retenus pour la moitié
 de leur montant.
 
-4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues
-en application des 2 et 3 peuvent être imputées dans la limite annuelle :
+3 bis. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt
+acquise au titre des investissements mentionnés à l'article 199 undecies C ainsi
+que les reports résultant d'une réduction d'impôt au titre des mêmes
+investissements sont retenus pour 35 % de leur montant.
 
-― d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en
+4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues
+en application des 2, 3 et 3 bis peuvent être imputées dans la limite annuelle :
+
+-d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en
 application du 2 ;
 
-― du montant mentionné au 1 pour la fraction non retenue en application du 3.
+-de sept fois le treizième du montant mentionné au 1 pour la fraction non
+retenue en application du 3 bis ;
+
+-du montant mentionné au 1 pour la fraction non retenue en application du 3.
 
 II. ― Lorsque le contribuable personne physique réalise directement des
 investissements mentionnés au I de l'article 199 undecies B au titre et pour les

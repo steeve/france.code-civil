@@ -10,7 +10,7 @@ familiales ainsi que les entreprises concourent à l'assurer.
 Le financement des actions de formation professionnelle continue, définies à
 l'article L. 711-2, est assuré par une contribution annuelle, versée à un fonds
 de la formation professionnelle continue, par tout employeur, sans préjudice des
-dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et
+dépenses directes qu'il peut effectuer pour le compte de ses salariés.L'Etat et
 la collectivité départementale de Mayotte peuvent participer au financement de
 ce fonds.
 
@@ -22,8 +22,10 @@ taxe d'apprentissage par le code des impôts applicable dans la collectivité
 départementale de Mayotte.
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord
-professionnel de travail et agréé par arrêté du représentant de l'Etat. Les
-modalités de gestion de cet organisme sont fixées par décret en Conseil d'Etat.
+professionnel de travail et agréé par arrêté du représentant de l'Etat. Cet
+organisme peut également être habilité par le représentant de l'Etat à percevoir
+la contribution annuelle prévue au présent article. Les modalités de gestion de
+cet organisme sont fixées par décret en Conseil d'Etat.
 
 Le plafond des rémunérations prises en compte pour l'assiette de la contribution
 et les modalités de contrôle de l'organisme gestionnaire du fonds sont précisés
