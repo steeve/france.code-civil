@@ -19,6 +19,15 @@ b. lorsqu'elles sont prises en application de l'article 1465, aux opérations
 réalisées antérieurement à la date de création de l'établissement public de
 coopération intercommunale.
 
+Les dispositions du deuxième alinéa, du a et du b sont également applicables aux
+délibérations prises en matière de taxe professionnelle pour l'application des
+dispositions de l'article 1609 nonies C ou du II de l'article 1609 quinquies C,
+par un établissement public de coopération intercommunale dissous, lorsque les
+communes appartenant à ces établissements publics de coopération intercommunale
+deviennent membres d'un établissement public de coopération intercommunale
+soumis aux dispositions de l'article 1609 nonies C ne résultant pas d'une
+substitution ou d'une transformation de groupement préexistant.
+
 II. - Les dispositions du I ci-dessus sont applicables sur le territoire de la
 zone d'activités économiques des groupements faisant application des
 dispositions du II de l'article 1609 quinquies C.
