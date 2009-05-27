@@ -1,45 +1,30 @@
 Article R131-18
 ----
-I. - La commission régionale des aides est présidée par le délégué régional.
-Elle comprend, en outre :
+I.-La commission régionale des aides est présidée par le préfet de région et, en
+son absence ou en cas d'empêchement, par le directeur régional de l'agence. Elle
+comprend, outre le préfet de région et le directeur régional de l'agence, le
+trésorier-payeur général de région et quatre autres directeurs de services
+régionaux de l'Etat désignés par le préfet de région. Elle comprend également
+six personnalités qualifiées désignées par le préfet de région.
 
-1° Le secrétaire général aux affaires régionales ;
+Les directeurs régionaux des services de l'Etat mentionnés au premier alinéa
+peuvent se faire représenter.
 
-2° Le trésorier-payeur général de région ;
+II.-Le président de la commission peut appeler à siéger avec voix consultative
+toute personne dont l'avis lui paraît utile.
 
-3° Le directeur régional de l'industrie, de la recherche et de l'environnement ;
+III.-Le directeur régional de l'agence prépare l'ordre du jour de la commission
+régionale des aides et y présente les projets de décision.
 
-4° Le directeur régional de l'environnement ;
+IV.-La commission régionale des aides examine les projets de concours financiers
+de l'agence dans les cas définis par le conseil d'administration en application
+du 2° du II de l'article R. 131-9. Elle est également saisie de tout projet de
+concours financier qui lui est soumis par le préfet de région. Ses avis sont
+émis à la majorité des membres présents. Le relevé des avis de la commission est
+transmis au président de l'agence et au préfet de région.
 
-5° Le directeur régional de l'agriculture et de la forêt ;
-
-6° Le directeur régional de l'équipement ;
-
-7° Le délégué régional à la recherche et à la technologie ;
-
-8° Le directeur régional des affaires sanitaires et sociales, ou leurs
-représentants ;
-
-9° Ainsi que six personnalités qualifiées nommées par le préfet de région, sur
-proposition du délégué régional.
-
-II. - Le délégué régional de l'Agence nationale pour la valorisation de la
-recherche et les directeurs des agences de l'eau concernées assistent au comité
-avec voix consultative.
-
-III. - Le délégué régional peut appeler à siéger avec voix consultative toute
-personne dont l'avis lui paraît utile.
-
-IV. - La commission régionale des aides examine les projets de concours
-financiers de l'agence dans les cas définis par le conseil d'administration en
-application du 2° du II de l'article R. 131-9. Ses avis sont émis à la majorité
-des membres présents. Le compte rendu des délibérations de la commission est
-transmis au préfet de région.
-
-V. - Le délégué régional décide de l'attribution du concours financier sauf si
-le préfet de région demande, dans un délai de quinze jours à compter de la
-réception du compte rendu des délibérations de la commission régionale des
-aides, que la décision d'attribution soit prise par le président.
-
-VI. - Le préfet de région peut demander l'inscription à l'ordre du jour de la
-commission régionale des aides de tout projet de concours financier.
+V.-Les décisions d'attribution des concours financiers soumis à l'avis de la
+commission régionale sont prises par le président de l'agence. Si ce dernier
+envisage de prendre une décision contraire à l'avis rendu par la commission
+régionale des aides, il saisit préalablement la Commission nationale des aides
+compétente qui statue dans les conditions prévues au II de l'article R. 131-15.

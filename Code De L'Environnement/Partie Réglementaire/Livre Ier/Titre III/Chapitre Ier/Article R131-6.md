@@ -1,8 +1,7 @@
 Article R131-6
 ----
 I. - Sur proposition du conseil d'administration, son président est nommé parmi
-ses membres par décret pris sur le rapport des ministres chargés de
-l'environnement, de l'industrie et de la recherche.
+ses membres par décret pris sur le rapport des ministres de tutelle.
 
 II. - Le président du conseil d'administration assure l'exécution des
 délibérations du conseil d'administration.
@@ -24,7 +23,10 @@ licences ;
 procéder à toutes acquisitions, aliénations et transferts de valeurs ;
 
 6° Procéder à tous achats, ventes ou locations d'immeubles, contracter tous
-emprunts, constituer nantissement ou hypothèque.
+emprunts, constituer nantissement ou hypothèque ;
+
+Il informe le commissaire du Gouvernement et le membre du corps du contrôle
+général économique et financier des actes pris dans le cadre du 5°.
 
 IV. - Le président du conseil d'administration a autorité sur les services de
 l'agence et en dirige l'action. À ce titre :

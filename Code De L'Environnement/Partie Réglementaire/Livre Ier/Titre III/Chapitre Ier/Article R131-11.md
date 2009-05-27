@@ -1,7 +1,7 @@
 Article R131-11
 ----
-Le commissaire du Gouvernement auprès de l'agence est le directeur de la
-prévention des pollutions et des risques ou son représentant.
+Le commissaire du Gouvernement auprès de l'agence est le secrétaire général du
+ministère chargé de l'environnement ou son représentant.
 
 Il peut à tout moment se faire communiquer tous documents, pièces ou archives et
 procéder ou faire procéder à toutes vérifications. Il fait connaître l'avis du

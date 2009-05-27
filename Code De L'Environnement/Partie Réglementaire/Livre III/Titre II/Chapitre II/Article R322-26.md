@@ -1,9 +1,9 @@
 Article R322-26
 ----
-I. - Le conseil d'administration règle par ses délibérations les affaires de
+I.-Le conseil d'administration règle par ses délibérations les affaires de
 l'établissement public et définit l'orientation de la politique à suivre.
 
-II. - Il délibère notamment sur :
+II.-Il délibère notamment sur :
 
 1° La politique foncière de l'établissement et les grandes orientations de
 l'aménagement des immeubles acquis et de leur gestion ;
@@ -47,17 +47,17 @@ sur les parties maritimes du domaine relevant du conservatoire mentionnées à
 l'article L. 334-1 et les espaces maritimes adjacents, jusqu'à la limite d'un
 mille de la laisse de basse mer.
 
-III. - Il arrête son règlement intérieur.
+III.-Il arrête son règlement intérieur.
 
-IV. - Il est tenu informé des programmes de coopération du conservatoire avec
-les organismes étrangers et internationaux ayant une mission analogue.
+IV.-Il est tenu informé des programmes de coopération du conservatoire avec les
+organismes étrangers et internationaux ayant une mission analogue.
 
-V. - Il approuve les transactions et autorise le directeur à les signer.
+V.-Il approuve les transactions et autorise le directeur à les signer.
 
-VI. - Il peut autoriser le directeur à arrêter, en accord avec le contrôleur
-financier, les modifications du budget qui ne comportent aucune modification du
-montant de ce budget ou des effectifs du personnel et aucun virement de crédits
-entre la section relative aux opérations de fonctionnement et la section
-relative aux opérations en capital ou entre les chapitres de dépenses de
-personnel et les chapitres de dépenses en matériel. Il en est rendu compte à la
-prochaine séance du conseil d'administration.
+VI.-Il peut autoriser le directeur à arrêter, en accord avec le membre du corps
+du contrôle général économique et financier, les modifications du budget qui ne
+comportent aucune modification du montant de ce budget ou des effectifs du
+personnel et aucun virement de crédits entre la section relative aux opérations
+de fonctionnement et la section relative aux opérations en capital ou entre les
+chapitres de dépenses de personnel et les chapitres de dépenses en matériel. Il
+en est rendu compte à la prochaine séance du conseil d'administration.

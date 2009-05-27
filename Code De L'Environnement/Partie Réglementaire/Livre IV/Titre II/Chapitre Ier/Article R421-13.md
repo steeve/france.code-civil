@@ -1,9 +1,9 @@
 Article R421-13
 ----
-I. - Le conseil d'administration règle par ses délibérations les affaires de
+I.-Le conseil d'administration règle par ses délibérations les affaires de
 l'établissement.
 
-II. - Il délibère notamment sur :
+II.-Il délibère notamment sur :
 
 1° La politique générale de l'établissement, compte tenu des orientations fixées
 par le Gouvernement dans le domaine de la chasse et de la faune sauvage ;
@@ -35,18 +35,19 @@ participation à des groupements d'intérêt public ou à des groupements d'int�
 
 13° Les transactions.
 
-III. - Le conseil d'administration peut déléguer au directeur général certaines
-de ses attributions, dans les conditions et sous les réserves qu'il juge utiles.
+III.-Le conseil d'administration peut déléguer au directeur général certaines de
+ses attributions, dans les conditions et sous les réserves qu'il juge utiles.
 
-IV. - Toutefois, il ne peut pas déléguer les attributions mentionnées aux 1° à
-8° du II et aux 10° à 12° du II. Il peut déléguer les attributions mentionnées
-aux 9° et 13° du II lorsque les montants financiers en cause sont inférieurs à
-un seuil qu'il détermine.
+IV.-Toutefois, il ne peut pas déléguer les attributions mentionnées aux 1° à 8°
+du II et aux 10° à 12° du II. Il peut déléguer les attributions mentionnées aux
+9° et 13° du II lorsque les montants financiers en cause sont inférieurs à un
+seuil qu'il détermine.
 
-V. - Il peut autoriser le directeur général à arrêter, en accord avec le
-contrôleur financier, les modifications du budget qui ne comportent aucune
-modification du montant de ce budget ou des effectifs du personnel, et aucun
-virement de crédits entre la section relative aux opérations de fonctionnement
-et la section relative aux opérations en capital ou entre les chapitres de
-dépenses de personnel et les chapitres de dépenses de matériel. Il en est rendu
-compte au conseil d'administration lors de sa séance la plus proche.
+V.-Il peut autoriser le directeur général à arrêter, en accord avec le membre du
+corps du contrôle général économique et financier , les modifications du budget
+qui ne comportent aucune modification du montant de ce budget ou des effectifs
+du personnel, et aucun virement de crédits entre la section relative aux
+opérations de fonctionnement et la section relative aux opérations en capital ou
+entre les chapitres de dépenses de personnel et les chapitres de dépenses de
+matériel. Il en est rendu compte au conseil d'administration lors de sa séance
+la plus proche.

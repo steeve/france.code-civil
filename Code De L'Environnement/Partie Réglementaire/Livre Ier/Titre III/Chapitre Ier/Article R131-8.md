@@ -25,9 +25,9 @@ Le commissaire du Gouvernement assiste au conseil d'administration avec voix
 consultative. En cas d'empêchement, il peut se faire représenter par un
 fonctionnaire placé sous son autorité.
 
-Le contrôleur d'Etat et l'agent comptable assistent en personne au conseil
-d'administration avec voix consultative. Le président peut appeler à participer
-aux séances, avec voix consultative, toute autre personne dont il juge la
-présence utile.
+Le membre du corps du contrôle général économique et financier et l'agent
+comptable assistent en personne au conseil d'administration avec voix
+consultative. Le président peut appeler à participer aux séances, avec voix
+consultative, toute autre personne dont il juge la présence utile.
 
 Le conseil d'administration arrête son règlement intérieur.

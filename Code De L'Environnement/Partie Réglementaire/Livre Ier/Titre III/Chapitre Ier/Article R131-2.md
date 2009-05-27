@@ -1,8 +1,9 @@
 Article R131-2
 ----
-Dans le cadre de la politique définie par le Gouvernement, l'agence a pour
-mission de susciter, animer, coordonner, faciliter et, le cas échéant, réaliser
-toutes opérations ayant pour objet :
+Dans le cadre de la politique définie par le Gouvernement notamment de lutte
+contre le changement climatique et d'adaptation aux conséquences de ce
+changement, l'agence a pour mission de susciter, animer, coordonner, faciliter
+et, le cas échéant, réaliser toutes opérations ayant pour objet :
 
 1° La prévention et la lutte contre la pollution de l'air ;
 

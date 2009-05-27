@@ -10,5 +10,5 @@ vertu de la présente section lorsqu'ils comprennent l'Etat ou au moins un
 économique et financier de l'Etat en vertu des décrets mentionnés dans le
 présent article.
 
-Le contrôleur d'Etat auprès du groupement est désigné lors de l'approbation de
-la convention constitutive.
+Le membre du corps du contrôle général économique et financier auprès du
+groupement est désigné lors de l'approbation de la convention constitutive.

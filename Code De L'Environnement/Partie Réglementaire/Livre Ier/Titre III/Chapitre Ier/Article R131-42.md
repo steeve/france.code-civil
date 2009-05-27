@@ -6,11 +6,13 @@ avoir été approuvées par le ministre chargé de l'environnement et le ministr
 chargé du budget.
 
 Les autres délibérations sont exécutoires de plein droit si le commissaire du
-Gouvernement ou le contrôleur d'Etat n'y ont pas fait opposition dans les dix
-jours qui suivent soit la réunion du conseil, s'il a assisté à celle-ci, soit la
-réception du procès-verbal de la séance.
+Gouvernement ou le membre du corps du contrôle général économique et financier
+n'y ont pas fait opposition dans les dix jours qui suivent soit la réunion du
+conseil, s'il a assisté à celle-ci, soit la réception du procès-verbal de la
+séance.
 
-S'il forme opposition, le commissaire du Gouvernement ou le contrôleur d'Etat en
-réfère immédiatement, suivant le cas, au ministre chargé de l'environnement ou
-au ministre chargé du budget, qui doit se prononcer dans un délai d'un mois. A
-défaut de décision dans ce délai, la délibération est exécutoire.
+S'il forme opposition, le commissaire du Gouvernement ou le membre du corps du
+contrôle général économique et financier en réfère immédiatement, suivant le
+cas, au ministre chargé de l'environnement ou au ministre chargé du budget, qui
+doit se prononcer dans un délai d'un mois. A défaut de décision dans ce délai,
+la délibération est exécutoire.
