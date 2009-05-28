@@ -11,6 +11,10 @@ de l'article L. 313-7, il présente en outre la justification qu'il dispose des
 moyens d'existence prévus au 1° de l'article R. 313-7.
 
 S'il sollicite le renouvellement de la carte de séjour temporaire prévue à
+l'article L. 313-7-1, il présente en outre un document attestant de la réception
+par le préfet de l'avenant à la convention de stage.
+
+S'il sollicite le renouvellement de la carte de séjour temporaire prévue à
 l'article L. 313-8, il présente en outre la convention d'accueil délivrée par un
 organisme ayant une mission de recherche ou d'enseignement supérieur agréé à cet
 effet dans les conditions prévues à l'article R. 313-13 et, le cas échéant, une
