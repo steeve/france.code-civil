@@ -25,14 +25,6 @@ et l'adresse de leur propriétaire sont portées au fichier central mentionné �
 l'article D. 212-48. Peuvent y être ajoutées des informations relatives au
 détenteur et au lieu de stationnement des équidés.
 
-N'ont accès au nom et à l'adresse des propriétaires d'équidés que le
-gestionnaire du fichier ainsi que, aux seules fins de recherche d'un équidé par
-son numéro d'identification, en cas d'urgence ou dans les cas de vol ou de
-divagation, les fonctionnaires de police et les gendarmes ayant la qualité
-d'officier de police judiciaire, ainsi que les agents assermentés des services
-vétérinaires et les vétérinaires praticiens titulaires du mandat sanitaire, dans
-le cadre de leurs missions sanitaires et de protection animale.
-
 III.-La qualification requise en application de l'arrêté prévu au dernier alinéa
 du I est également reconnue, dans des conditions fixées par arrêté du ministre
 chargé de l'agriculture, aux ressortissants d'un Etat membre de la Communauté
