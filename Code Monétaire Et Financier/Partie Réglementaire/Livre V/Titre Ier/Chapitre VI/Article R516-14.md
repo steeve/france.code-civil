@@ -2,14 +2,15 @@ Article R516-14
 ----
 Sont soumis à la délibération du conseil d'administration de l'agence :
 
-1° Les orientations stratégiques de l'établissement ;
+1° Les orientations stratégiques de l'établissement mettant en œuvre les
+objectifs confiés à l'agence par l'Etat ;
 
-2° L'approbation de la convention-cadre et des contrats d'objectifs conclus avec
-l'Etat ;
+2° L'approbation du contrat d'objectifs et de moyens conclu avec l'Etat ;
 
 3° Les conventions mentionnées à l'article R. 516-7 ;
 
-4° Les concours financiers mentionnés aux articles R. 516-5 et R. 516-6 ;
+4° Les concours financiers mentionnés aux articles R. 516-5, R. 516-6 et R.
+516-6-1 ainsi que le règlement prévu par ce dernier article ;
 
 5° Les conventions conclues en application des deuxième, troisième, quatrième et
 cinquième alinéas de l'article R. 516-8 ;
