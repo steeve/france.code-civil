@@ -1,7 +1,7 @@
 Article D664-1
 ----
-La Commission nationale des fonds opérationnels peut, à la demande du ministre
-de l'agriculture, émettre des avis sur les actions transnationales ou
+I.-La Commission nationale des fonds opérationnels peut, à la demande du
+ministre de l'agriculture, émettre des avis sur les actions transnationales ou
 interprofessionnelles prévues dans les programmes opérationnels des
 organisations de producteurs ou, plus généralement, sur les orientations
 générales des programmes opérationnels et des fonds opérationnels.
@@ -14,8 +14,9 @@ territoires ou son représentant ;
 2° Un représentant de l'assemblée permanente des chambres d'agriculture nommé
 sur proposition de cette assemblée ;
 
-3° Un représentant de l'établissement créé en application de l'article L. 621-1,
-compétent en matière de fruits et légumes ;
+3° Un représentant de l'Etablissement national des produits de l'agriculture et
+de la mer (FranceAgriMer) et un représentant de l'Office de développement de
+l'économie agricole d'outre-mer ;
 
 4° Un représentant du centre technique interprofessionnel des fruits et légumes
 ;
@@ -28,11 +29,11 @@ commissions, nommé sur proposition de l'organisation intéressée ;
 
 6° Un représentant de la coopération agricole ;
 
-7° Neuf représentants des organisations spécialisées de producteurs de la
-filière des fruits et légumes.
+7° Dix représentants des organisations spécialisées de producteurs de la filière
+des fruits et légumes.
 
 Les membres de la commission sont nommés par arrêté du ministre chargé de
-l'agriculture.A l'exception du représentant de l'Etat, nommé sans condition de
+l'agriculture. A l'exception du représentant de l'Etat, nommé sans condition de
 durée, leur mandat est de cinq ans.
 
 III.-La commission est présidée par le directeur général des politiques

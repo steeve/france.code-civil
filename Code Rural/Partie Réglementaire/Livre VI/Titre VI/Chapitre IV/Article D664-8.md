@@ -8,6 +8,7 @@ susmentionné, un arrêté du ministre chargé de l'agriculture détermine :
 2° La date limite de versement par les adhérents de l'organisation de
 producteurs de leurs contributions au fonds opérationnel ;
 
-3° La date limite de communication, par l'organisation de producteurs au préfet,
-des montants prévisionnels de la participation communautaire et des
-contributions de ses adhérents au fonds opérationnel.
+3° La date limite de communication, par l'organisation de producteurs au
+directeur général de FranceAgriMer, des montants prévisionnels de la
+participation communautaire et des contributions de ses adhérents au fonds
+opérationnel.

@@ -11,18 +11,18 @@ dépenses engagées annuellement au titre des programmes opérationnels concerne
 des mesures en faveur de l'environnement.
 
 Les organisations de producteurs demandent l'approbation de leur programme
-opérationnel auprès du préfet du siège de leur exploitation.
+opérationnel auprès du directeur général de FranceAgriMer.
 
 Les organisations de producteurs assurent le contrôle interne de la régularité
 des paiements forfaitaires prévus en application du 5 de l'article 61 du
 règlement (CE) n° 1580 / 2007 susmentionné pour les dépenses engagées au titre
-des programmes opérationnels.S'il est constaté que ce contrôle n'est pas réalisé
-ou est insuffisant, le préfet peut prononcer des sanctions pécuniaires pouvant
-atteindre 100 % du montant total de la dépense forfaitaire concernée.S'il est
-constaté que l'un des adhérents ne remplit pas ses obligations concernant une ou
-des dépenses forfaitaires, le préfet peut prononcer des sanctions pouvant
-atteindre 100 % de l'aide correspondant au montant de la dépense forfaitaire de
-l'adhérent.
+des programmes opérationnels. S'il est constaté que ce contrôle n'est pas
+réalisé ou est insuffisant, le directeur général de FranceAgriMer peut prononcer
+des sanctions pécuniaires pouvant atteindre 100 % du montant total de la dépense
+forfaitaire concernée. S'il est constaté que l'un des adhérents ne remplit pas
+ses obligations concernant une ou des dépenses forfaitaires, le directeur
+général de FranceAgriMer peut prononcer des sanctions pouvant atteindre 100 % de
+l'aide correspondant au montant de la dépense forfaitaire de l'adhérent.
 
 Un arrêté du ministre chargé de l'agriculture précise :
 
