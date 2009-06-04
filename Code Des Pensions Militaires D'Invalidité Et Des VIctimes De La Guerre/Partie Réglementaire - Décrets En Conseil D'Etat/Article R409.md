@@ -1,38 +1,9 @@
 Article R409
 ----
-L'examen commun de première catégorie comprend les épreuves suivantes :
-
-A. - Compositions écrites.
-
-1° Une composition française rédigée en quatre heures sur un sujet général
-(coefficient : 3) ;
-
-2° Une note rédigée en deux heures sur des éléments de droit administratif, de
-législation financière et de droit civil (coefficient : 2) ;
-
-3° Une épreuve d'une durée de deux heures comportant le résumé d'un texte
-législatif ou réglementaire complété par de courtes réponses à des questions
-posées par l'application de ce texte. Cette épreuve ne devra pas faire appel à
-des connaissances administratives ou juridiques autres que celles figurant au
-programme de l'examen (coefficient : 1) ;
-
-4° Une épreuve facultative comportant la traduction effectuée sans dictionnaire
-d'un texte rédigé dans une des langues étrangères figurant sur une liste dressée
-par l'arrêté prévu à l'article R. 451 (coefficient : 2). La durée de l'épreuve
-est de deux heures.
-
-Les épreuves ont un caractère anonyme.
-
-B. - Epreuves orales.
-
-1° Une interrogation de dix minutes après une préparation de dix minutes sur
-l'organisation générale des pouvoirs publics ainsi que le programme de droit
-prévu pour la deuxième épreuve écrite (coefficient : 3) ;
-
-2° Une conversation d'une durée de dix minutes avec le jury sur un ou plusieurs
-sujets de caractère général (coefficient : 2).
-
-Peuvent seuls être autorisés à se présenter aux épreuves orales les candidats
-qui, quelles que soient les notes obtenues aux épreuves écrites facultatives,
-ont obtenu une note égale ou supérieure à la moyenne dans l'ensemble des
-épreuves écrites obligatoires.
+Les bénéficiaires des dispositions de l'article L. 406 doivent remplir les
+conditions d'âge fixées par le statut particulier des corps et cadres d'emploi
+d'accueil, à la date fixée, le cas échéant, par le statut d'accueil ou, à
+défaut, au 1er janvier de l'année au titre de laquelle ils postulent, ainsi que
+les conditions spécifiques de diplômes et d'aptitude prévues pour l'exercice des
+fonctions afférentes à certains corps, cadres d'emplois ou emplois. A
+l'exception des travailleurs handicapés, ils doivent être en activité.
