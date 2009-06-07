@@ -57,6 +57,10 @@ financiers aux départements. 120-01 Action : aides à l'équipement des
 départements. 121 Programme : concours financiers aux régions. 121-01 Action :
 aides à l'équipement des régions.
 
+122 Programme : concours spécifiques et administration.
+
+122-03 Action : dotation générale de décentralisation
+
 Mission : santé
 
 171 Programme : offre de soins et qualité du système de soins. 171-03 Action :

@@ -1,7 +1,7 @@
 Article D2573-13
 ----
-I. ― Les articles R. 2151-1 à R. 2151-7 sont applicables aux communes de la
-Polynésie française sous réserve des adaptations prévues aux II et III.
+I.-Les articles R. 2151-1 à R. 2151-3 sont applicables aux communes de la
+Polynésie française sous réserve des adaptations prévues au II.
 
 II. ― Pour l'application de l'article R. 2151-1 :
 
@@ -16,7 +16,3 @@ relèvent pas des dispositions du premier alinéa ; ”
 " 6. Les personnes majeures âgées de moins de vingt-cinq ans dont la famille
 réside sur le territoire de la commune, qui résident ailleurs en France du fait
 de leurs études et qui ne relèvent pas des alinéas précédents ; ”.
-
-III. ― Pour l'application des articles R. 2151-4 et R. 2151-5, les mots : "
-ministre de l'intérieur ” sont remplacés par les mots : " ministre chargé de
-l'outre-mer ”.

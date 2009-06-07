@@ -5,4 +5,4 @@ s'apprécient au 1er janvier de l'année précédant l'exercice au titre duquel 
 faite la répartition, à l'exception de la population, calculée dans les
 conditions prévues à l'article L. 2334-2, et du nombre d'enfants âgés de 3 à 16
 ans, établi par l'Institut national de la statistique et des études économiques
-au recensement de population de 1999.
+au dernier recensement de population.

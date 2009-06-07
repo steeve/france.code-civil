@@ -8,6 +8,12 @@ Pour le calcul des prélèvements prévus au 1° et 2° du II de l'article L.
 2531-13, les bases totales d'imposition à la taxe professionnelle retenues sont
 les bases de la dernière année dont les résultats sont connus.
 
+Pour l'application du dernier alinéa du III de l'article L. 2531-13, la
+population à prendre en compte pour le calcul du revenu par habitant des
+établissements publics de coopération intercommunale est la somme des
+populations totales de leurs communes membres au 1er janvier de l'année en
+cours.
+
 Les prélèvements sont opérés mensuellement sur la base des données applicables
 au 1er janvier de l'année en cours. Toutefois, jusqu'à ce que ces données soient
 disponibles, ils sont effectués sur la base des données de l'année précédente,
