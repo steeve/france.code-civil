@@ -7,17 +7,9 @@ non-dépassement ou le dépassement des superficies mentionnées auxdits article
 est constaté par arrêté conjoint des ministres chargés de l'agriculture et du
 budget. Cet arrêté fixe le taux de ce dépassement.
 
-II. - Aux fins de réduction du montant des aides en cas de dépassement des
-plafonds budgétaires pour l'application des articles 64, 66, 67, 68, 68 bis, 68
-ter, 70 et 71, paragraphe 2, du règlement (CE) n° 1782/2003 du Conseil du 29
-septembre 2003 susmentionné, le non-dépassement ou le dépassement de ces
-plafonds budgétaires est constaté par arrêté conjoint des ministres chargés de
-l'agriculture et du budget pour chacun des paiements directs mentionnés à ces
-articles. Cet arrêté fixe pour chacun de ces paiements le taux de ce
-dépassement.
-
-III. - En cas de dépassement du plafond national fixé à l'annexe II du règlement
-(CE) n° 1782/2003 du 29 septembre 2003 susmentionné, le pourcentage de réduction
-linéaire du montant supplémentaire de l'aide mentionnée au 2 de l'article 12 de
-ce règlement est déterminé par arrêté conjoint des ministres chargés de
-l'agriculture et du budget.
+II. - En cas de dépassement d'un plafond national de paiements au titre du Fonds
+européen de garantie agricole, prévu par un règlement communautaire, le
+dépassement de ce plafond est constaté par arrêté conjoint des ministres chargés
+de l'agriculture et du budget. Cet arrêté fixe le taux de dépassement du plafond
+et, le cas échéant, les taux de réduction des aides auxquelles ce plafond
+s'applique.
