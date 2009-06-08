@@ -8,16 +8,19 @@ prime d'intéressement aux produits tirés de l'invention par la personne publiq
 qui en est bénéficiaire et par une prime au brevet d'invention.
 
 II.-La prime d'intéressement est calculée, pour chaque invention, sur une base
-constituée du produit hors taxes des redevances perçues chaque année au titre de
+constituée du produit hors taxes des revenus perçus chaque année au titre de
 l'invention par la personne publique, après déduction de la totalité des frais
-directs supportés par celle-ci, et affectée du coefficient représentant la
-contribution à l'invention de l'agent concerné. La prime au brevet d'invention
-n'est pas prise en compte dans les frais directs.
+directs supportés par celle-ci pour l'année en cours ainsi que des frais directs
+supportés les années antérieures n'ayant pas fait l'objet de déduction faute de
+revenus suffisants, et affectée du coefficient représentant la contribution à
+l'invention de l'agent concerné. La prime au brevet d'invention n'est pas prise
+en compte dans les frais directs.
 
-Le montant versé à chaque agent auteur d'une invention est égal à 50 % de la
-base définie ci-dessus, dans la limite du montant du traitement brut annuel
-soumis à retenue pour pension correspondant au deuxième chevron du groupe hors
-échelle D, et, au-delà de ce montant, à 25 % de cette base.
+La prime due à chaque agent auteur d'une invention correspond, charges
+comprises, à 50 % de la base définie ci-dessus, dans la limite du montant du
+traitement brut annuel soumis à retenue pour pension correspondant au deuxième
+chevron du groupe hors échelle D, et, au-delà de ce montant, à 25 % de cette
+base.
 
 La prime d'intéressement est versée annuellement et peut faire l'objet d'avances
 en cours d'année.
