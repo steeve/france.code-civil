@@ -20,7 +20,8 @@ Provence-Alpes-Côte d'Azur) ;
 6° Le conseil des rivages de la Corse ;
 
 7° Le conseil des rivages français d'Amérique (départements de Guadeloupe,
-Martinique et Guyane, collectivité territoriale de Saint-Pierre-et-Miquelon) ;
+Martinique et Guyane, collectivité territoriale de Saint-Pierre-et-Miquelon,
+collectivités de Saint-Barthélemy et de Saint-Martin) ;
 
 8° Le conseil des rivages français de l'océan Indien (département de la Réunion
 et collectivité départementale de Mayotte) ;

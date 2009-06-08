@@ -2,7 +2,7 @@ Article R322-31
 ----
 La composition des conseils de rivage est fixée conformément au tableau suivant.
 
-Les conseillers régionaux et les conseillers généraux qui en font partie sont
+Les conseillers régionaux, généraux et territoriaux qui en font partie sont
 désignés par leur assemblée respective.
 
 Le mandat des membres des conseils de rivage est d'une durée de trois ans.
@@ -19,10 +19,10 @@ Régionaux
 
 Généraux
 
-I. - Rivages de Nord - Pas-de-Calais - Picardie
+I.-Rivages de Nord-Pas-de-Calais-Picardie
 
 
-Région Nord - Pas-de-Calais
+Région Nord-Pas-de-Calais
 
 4
 
@@ -53,7 +53,7 @@ Totaux
 
 6
 
-II. - Rivages de Normandie
+II.-Rivages de Normandie
 
 
 Région Haute-Normandie
@@ -92,7 +92,7 @@ Totaux
 
 8
 
-III. - Rivages de Bretagne-Pays de la Loire
+III.-Rivages de Bretagne-Pays de la Loire
 
 
 Région Bretagne
@@ -139,7 +139,7 @@ Totaux
 
 6
 
-IV. - Rivages de Centre-Atlantique
+IV.-Rivages de Centre-Atlantique
 
 
 Région Poitou-Charentes
@@ -178,7 +178,7 @@ Totaux
 
 8
 
-V. - Rivages de la Méditerranée
+V.-Rivages de la Méditerranée
 
 Région Provence-Alpes-Côte d'Azur
 
@@ -231,7 +231,7 @@ Totaux
 
 7
 
-VI. - Rivage de la Corse
+VI.-Rivage de la Corse
 
 
 Collectivité territoriale de Corse
@@ -255,7 +255,7 @@ Totaux
 
 6
 
-VII. - Rivages français d'Amérique
+VII.-Rivages français d'Amérique
 
 
 Région Martinique
@@ -293,13 +293,23 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 2
 
 
+Collectivité de Saint-Barthélemy
+
+2
+
+
+Collectivité de Saint-Martin
+
+2
+
+
 Totaux
 
 6
 
-8
+12
 
-VIII. - Rivages français de l'océan Indien
+VIII.-Rivages français de l'océan Indien
 
 
 Région Réunion
@@ -323,7 +333,7 @@ Totaux
 
 8
 
-IX. - Rivages des lacs
+IX.-Rivages des lacs
 
 
 Région Midi-Pyrénées
