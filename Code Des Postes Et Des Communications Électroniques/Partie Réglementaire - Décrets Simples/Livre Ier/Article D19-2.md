@@ -2,8 +2,7 @@ Article D19-2
 ----
 Les journaux et publications de périodicité au maximum hebdomadaire remplissant
 les conditions prévues à l'article D. 18 et présentant un caractère
-d'information politique et générale paient le tarif de presse réduit d'un
-montant forfaitaire à l'exemplaire financé par l'Etat.
+d'information politique et générale bénéficient d'un tarif de presse spécifique.
 
 Pour être considérées comme présentant le caractère d'information politique et
 générale, les publications doivent réunir les caractéristiques suivantes :
@@ -19,5 +18,5 @@ catégorie de lecteurs ;
 
 En outre, les quotidiens nationaux à faibles ressources publicitaires au sens du
 décret n° 86-616 du 12 mars 1986 et les quotidiens régionaux, départementaux et
-locaux au sens du décret n° 89-528 du 28 juillet 1989 paient le tarif de presse
-réduit d'un montant forfaitaire majoré à l'exemplaire financé par l'Etat.
+locaux au sens du décret n° 89-528 du 28 juillet 1989 bénéficient d'un tarif de
+presse réduit.
