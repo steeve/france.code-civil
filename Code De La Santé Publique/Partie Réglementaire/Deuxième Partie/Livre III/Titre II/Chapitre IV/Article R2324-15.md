@@ -1,7 +1,7 @@
 Article R2324-15
 ----
-Un mois au moins avant le début de chaque séjour, l'organisateur du centre de
-placement de vacances adresse au préfet du lieu de déroulement du séjour les
+Un mois au moins avant le début de chaque séjour, l'organisateur du séjour de
+vacances dans une famille adresse au préfet du lieu de déroulement du séjour les
 noms et adresses des familles d'accueil et des mineurs accueillis ainsi que les
 dates de leur séjour.
 

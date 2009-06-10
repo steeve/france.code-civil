@@ -1,6 +1,6 @@
 Article R2324-10
 ----
-L'organisateur d'un centre de vacances ou d'un centre de loisirs adresse la
+L'organisateur d'un séjour de vacances ou d'un accueil de loisirs adresse la
 demande d'autorisation mentionnée au troisième alinéa de l'article L. 2324-1 au
 préfet du département du lieu d'accueil des mineurs.
 

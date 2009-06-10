@@ -1,6 +1,6 @@
 Article R2324-12
 ----
-L'organisateur d'un centre de placement de vacances adresse la demande
+L'organisateur d'un séjour de vacances dans une famille adresse la demande
 d'autorisation mentionnée au troisième alinéa de l'article L. 2324-1 au préfet
 du lieu de son domicile ou de son siège social.
 
