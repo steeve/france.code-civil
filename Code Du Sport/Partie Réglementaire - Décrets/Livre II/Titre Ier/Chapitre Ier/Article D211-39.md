@@ -16,13 +16,12 @@ d) Un représentant du ministre chargé de l'environnement ;
 e) Le directeur régional de la jeunesse, des sports et de la vie associative de
 Bretagne ;
 
-2° Trois personnalités qualifiées :
+2° Quatre personnalités qualifiées :
 
 a) Le président du Conseil supérieur de la navigation de plaisance et des sports
 nautiques ;
 
-b) Deux personnalités choisies par le ministre chargé des sports en raison de
-leur compétence dans le domaine de la voile et des sports nautiques ;
+b) Trois personnalités choisies par le ministre chargé des sports.
 
 3° Trois représentants de la voile et des activités nautiques :
 
