@@ -1,6 +1,6 @@
 Article L326-7
 ----
-L'Agence nationale pour l'emploi est chargée :
+L'institution mentionnée au premier alinéa de l'article L. 326 est chargée :
 
 a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription
 sur une liste tenue par leurs soins ;
