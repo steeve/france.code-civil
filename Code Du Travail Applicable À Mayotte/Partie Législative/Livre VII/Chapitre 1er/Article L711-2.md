@@ -29,4 +29,5 @@ personnes prévues par l'article L. 1333-11 du code de la santé publique ;
 
 10° Les actions permettant aux salariés de faire valider les acquis de leurs
 expériences en vue de l'acquisition d'un diplôme ou d'un titre à finalité
-professionnelle en application de l'article L. 335-5 du code de l'éducation.
+professionnelle en application des articles L. 335-5, L. 335-6, L. 613-3 et L.
+613-4 du code de l'éducation.

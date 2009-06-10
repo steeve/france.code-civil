@@ -10,21 +10,20 @@ professionnelle prévue pour l'apprenti.
 
 Au vu de ces garanties, le représentant de l'Etat à Mayotte délivre l'agrément
 dans un délai d'un mois à partir de la réception de la demande ou saisit pour
-avis, dans ce même délai, le comité de la formation professionnelle, de la
-promotion sociale et de l'emploi, institué par l'article 2 de la loi n° 88-1029
-du 1er décembre 1988. Passé ce délai, l'agrément est réputé acquis sauf si le
-représentant de l'Etat à Mayotte a notifié au demandeur le transfert de son
-dossier, pour avis, au comité de la formation professionnelle, de la promotion
-sociale et de l'emploi. En cas de transfert de la demande, le représentant de
+avis, dans ce même délai, le comité mahorais de coordination de l'emploi et de
+la formation professionnelle. Passé ce délai, l'agrément est réputé acquis sauf
+si le représentant de l'Etat à Mayotte a notifié au demandeur le transfert de
+son dossier, pour avis, au comité mahorais de coordination de l'emploi et de la
+formation professionnelle. En cas de transfert de la demande, le représentant de
 l'Etat à Mayotte dispose d'un délai d'un mois supplémentaire pour statuer. Passé
 ce délai, l'agrément est réputé acquis, sauf décision de refus notifiée au
 demandeur. Le représentant de l'Etat à Mayotte informe régulièrement le comité
-de la formation professionnelle, de la promotion sociale et de l'emploi des
+mahorais de coordination de l'emploi et de la formation professionnelle des
 décisions d'agrément qu'il a prises.
 
 L'agrément peut être retiré par le représentant de l'Etat à Mayotte après avis
-du comité de la formation professionnelle, de la promotion sociale et de
-l'emploi et après mise en demeure par les autorités chargées d'exercer le
+du comité mahorais de coordination de l'emploi et de la formation
+professionnelle et après mise en demeure par les autorités chargées d'exercer le
 contrôle de l'exécution du contrat d'apprentissage, et notamment par
 l'inspection du travail ou l'inspection de l'apprentissage, lorsque l'employeur
 méconnaît les obligations mises à sa charge soit par le présent titre, soit par

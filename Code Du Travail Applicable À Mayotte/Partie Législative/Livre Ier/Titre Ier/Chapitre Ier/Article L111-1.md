@@ -1,14 +1,14 @@
 Article L111-1
 ----
+L'apprentissage concourt aux objectifs éducatifs de la Nation.
+
 L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à
-des jeunes travailleurs une formation générale, théorique et pratique en vue de
-l'obtention d'une qualification professionnelle sanctionnée par un diplôme de
-l'enseignement professionnel ou technologique, ou un ou plusieurs titres
-homologués figurant sur une liste établie par arrêté des ministres intéressés
-après avis de la commission permanente du Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi. Les titres homologués
-qui ont été reconnus par une convention collective de travail étendue sont
-inscrits de plein droit sur cette liste.
+des jeunes travailleurs, ayant satisfait à l'obligation scolaire, une formation
+générale, théorique et pratique, en vue de l'obtention d'une qualification
+professionnelle sanctionnée par un diplôme ou un titre à finalité
+professionnelle enregistré au répertoire national des certifications
+professionnelles, dans les conditions prévues à l'article L. 335-6 du code de
+l'éducation.
 
 L'apprentissage fait l'objet d'un contrat conclu avec un employeur. Il associe
 une formation dans une ou plusieurs entreprises, fondée sur l'exercice d'une ou

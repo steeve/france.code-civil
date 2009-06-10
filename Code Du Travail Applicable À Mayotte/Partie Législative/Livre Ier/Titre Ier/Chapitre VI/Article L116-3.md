@@ -1,6 +1,6 @@
 Article L116-3
 ----
-La chambre professionnelle de Mayotte exerce des attributions propres en matière
+Les chambres consulaires de Mayotte exercent des attributions propres en matière
 d'apprentissage dans le cadre du présent titre.
 
 Celles-ci ont notamment pour objet de contribuer :
@@ -21,6 +21,7 @@ groupements d'entreprises envisagés à l'article L. 112-2 ;
 6° A la réalisation d'enquêtes sur l'insertion professionnelle des jeunes formés
 par la voie de l'apprentissage.
 
-La chambre professionnelle adresse au comité de la formation professionnelle, de
-la promotion sociale et de l'emploi, tous avis et suggestions qu'il lui paraît
-nécessaire de formuler sur l'apprentissage dans la collectivité départementale.
+Les chambres consulaires adressent au comité mahorais de coordination de
+l'emploi et de la formation professionnelle, tous avis et suggestions qu'il lui
+paraît nécessaire de formuler sur l'apprentissage dans la collectivité
+départementale.

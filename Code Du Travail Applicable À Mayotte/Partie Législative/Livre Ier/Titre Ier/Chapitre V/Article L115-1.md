@@ -1,6 +1,7 @@
 Article L115-1
 ----
-Les organismes gestionnaires des centres de formation d'apprentis peuvent
-recevoir des subventions d'équipement et de fonctionnement de l'Etat, de la
-collectivité départementale ou des autres collectivités locales et des
-établissements publics.
+L'Etat, la collectivité départementale, les chambres consulaires, une ou
+plusieurs organisations représentatives d'employeurs et de salariés peuvent
+conclure des contrats d'objectifs et de moyens visant au développement de
+l'apprentissage. En tant que de besoin, d'autres parties peuvent être associées
+à ces contrats.
