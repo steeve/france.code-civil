@@ -6,5 +6,5 @@ saisie des phonogrammes et vidéogrammes reproduits illicitement, des exemplaire
 et objets fabriqués ou importés illicitement, de tout exemplaire, produit,
 appareil, dispositif, composant ou moyen portant atteinte aux mesures techniques
 et aux informations mentionnées respectivement aux articles L. 331-5 et L.
-331-22 ainsi qu'à la saisie des matériels spécialement installés en vue de tels
+331-11 ainsi qu'à la saisie des matériels spécialement installés en vue de tels
 agissements.

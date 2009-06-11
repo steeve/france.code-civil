@@ -12,3 +12,8 @@ des arts et aux pratiques artistiques.
 Des enseignements artistiques portant sur des disciplines non visées à l'alinéa
 précédent peuvent être institués, à titre facultatif, dans les écoles
 élémentaires et les collèges.
+
+Dans le cadre de ces enseignements, les élèves reçoivent une information sur les
+dangers du téléchargement et de la mise à disposition illicites d'œuvres ou
+d'objets protégés par un droit d'auteur ou un droit voisin pour la création
+artistique.

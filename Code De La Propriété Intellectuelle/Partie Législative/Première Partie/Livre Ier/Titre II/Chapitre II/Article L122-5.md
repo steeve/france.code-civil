@@ -90,11 +90,12 @@ l'économie numérique. Le Centre national du livre ou l'organisme désigné par
 décret garantit la confidentialité de ces fichiers et la sécurisation de leur
 accès ;
 
-8° La reproduction d'une oeuvre, effectuée à des fins de conservation ou
-destinée à préserver les conditions de sa consultation sur place par des
-bibliothèques accessibles au public, par des musées ou par des services
-d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou
-commercial ;
+8° La reproduction d'une œuvre et sa représentation effectuées à des fins de
+conservation ou destinées à préserver les conditions de sa consultation à des
+fins de recherche ou d'études privées par des particuliers, dans les locaux de
+l'établissement et sur des terminaux dédiés par des bibliothèques accessibles au
+public, par des musées ou par des services d'archives, sous réserve que ceux-ci
+ne recherchent aucun avantage économique ou commercial ;
 
 9° La reproduction ou la représentation, intégrale ou partielle, d'une oeuvre
 d'art graphique, plastique ou architecturale, par voie de presse écrite,

@@ -1,9 +1,5 @@
 Article L7113-2
 ----
-Tout travail commandé ou accepté par une entreprise de journal et périodique et
-non publié est rémunéré.
-
-Le droit de faire paraître dans plus d'un journal ou périodique les articles ou
-autres oeuvres littéraires ou artistiques dont un journaliste professionnel est
-l'auteur est subordonné à une convention expresse précisant les conditions dans
-lesquelles la reproduction est autorisée.
+Tout travail commandé ou accepté par l'éditeur d'un titre de presse au sens de
+l'article L. 132-35 du code de la propriété intellectuelle, quel qu'en soit le
+support, est rémunéré, même s'il n'est pas publié.
