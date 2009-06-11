@@ -1,17 +1,24 @@
 Article D718-16
 ----
 Pour les chefs d'exploitation ou d'entreprise agricoles, la contribution prévue
-à l'article L. 718-2-1 du présent code ne peut être ni inférieure à 0,07 % ni
-supérieure à 0,36 % du montant annuel du plafond de la sécurité sociale prévu à
-l'article L. 241-3 du code de la sécurité sociale.
+à l'article L. 718-2-1 ne peut être :
 
-Pour le conjoint collaborateur au sens de l'article L. 321-5 du présent code,
-ainsi que pour le conjoint et les membres de la famille mentionnés à l'article
-L. 732-34 du présent code et les personnes liées par un pacte civil de
-solidarité ou qui vivent en concubinage avec le chef d'exploitation ou
-d'entreprise agricole, la contribution est égale à 0,07 % du montant annuel du
-plafond de la sécurité sociale prévu à l'article L. 241-3 du code de la sécurité
-sociale.
+-ni inférieure à 0,10 %, ni supérieure à 0,52 % du montant annuel du plafond de
+la sécurité sociale prévu à l'article L. 241-3 du code de la sécurité sociale,
+pour la période allant du 1er janvier au 31 décembre 2009 ;
+
+-ni inférieure à 0,137 %, ni supérieure à 0,75 % du montant annuel du plafond de
+la sécurité sociale prévu à l'article L. 241-3 du code de la sécurité sociale, à
+compter du 1er janvier 2010.
+
+Pour les personnes mentionnées au deuxième alinéa de l'article L. 718-2-1, la
+contribution est égale à :
+
+0,10 % du montant annuel du plafond de la sécurité sociale prévu à l'article L.
+241-3 du code de la sécurité sociale, pour la période allant du 1er janvier au
+31 décembre 2009 ;
+
+0,137 % de ce même plafond à compter du 1er janvier 2010.
 
 Pour les nouveaux chefs d'exploitation ou d'entreprise agricoles dont la durée
 d'assujettissement ne permet pas de connaître les revenus professionnels, le
