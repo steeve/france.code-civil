@@ -46,5 +46,6 @@ Le comité établit son règlement intérieur.
 Les membres du comité et les personnes qui concourent à son activité sont tenus
 au secret professionnel en ce qui concerne les informations dont ils ont
 connaissance à l'occasion de leurs fonctions. Tout membre du comité s'abstient
-de délibérer s'il a ou a eu un intérêt direct et personnel dans l'association ou
-la société sur laquelle le comité est amené à prendre une décision.
+de délibérer s'il a ou a eu un intérêt direct et personnel dans l'association,
+la fondation ou la société sur laquelle le comité est amené à prendre une
+décision.
