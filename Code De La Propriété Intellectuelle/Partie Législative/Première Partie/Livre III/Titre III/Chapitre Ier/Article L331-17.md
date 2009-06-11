@@ -1,7 +1,7 @@
 Article L331-17
 ----
 La commission de protection des droits est chargée de prendre les mesures
-prévues à l'article L. 331-25 [Dispositions résultant de la décision du Conseil
+prévues à l'article L. 331-26 [Dispositions résultant de la décision du Conseil
 constitutionnel n° 2009-580 DC du 10 juin 2009].
 
 Elle est composée de trois membres, dont le président, nommés pour une durée de

@@ -1,17 +1,26 @@
 Article L331-19
 ----
-Les fonctions de membre de l'Autorité de régulation des mesures techniques sont
-incompatibles avec les fonctions de dirigeant ou de salarié ou les qualités
-d'ancien dirigeant ou d'ancien salarié d'une société régie par le titre II du
-présent livre ou de toute entreprise exerçant une activité de production de
-phonogrammes ou de vidéogrammes ou offrant des services de téléchargement
-d'oeuvres protégées.
+La Haute Autorité dispose de services placés sous l'autorité de son président.
+Un secrétaire général, nommé par ce dernier, est chargé du fonctionnement et de
+la coordination des services sous l'autorité du président.
 
-Les membres de l'autorité ne peuvent, directement ou indirectement, détenir
-d'intérêts dans une entreprise exerçant une des activités mentionnées au premier
-alinéa.
+Les fonctions de membre de la Haute Autorité et de secrétaire général sont
+incompatibles.
 
-Aucun membre de l'autorité ne peut participer à une délibération concernant une
-entreprise ou une société contrôlée, au sens de l'article L. 233-16 du code de
-commerce, par une entreprise dans laquelle il a, au cours des trois années
-précédant la délibération, exercé des fonctions ou détenu un mandat.
+La Haute Autorité établit son règlement intérieur et fixe les règles de
+déontologie applicables à ses membres et aux agents des services.
+
+Les rapporteurs chargés de l'instruction de dossiers auprès de la Haute Autorité
+sont nommés par le président.
+
+La Haute Autorité peut faire appel à des experts. Elle peut également
+solliciter, en tant que de besoin, l'avis d'autorités administratives,
+d'organismes extérieurs ou d'associations représentatives des utilisateurs des
+réseaux de communications électroniques, et elle peut être consultée pour avis
+par ces mêmes autorités ou organismes.
+
+La Haute Autorité propose, lors de l'élaboration du projet de loi de finances de
+l'année, les crédits nécessaires à l'accomplissement de ses missions.
+
+Le président présente les comptes de la Haute Autorité au contrôle de la Cour
+des comptes.

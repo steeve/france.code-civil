@@ -1,18 +1,11 @@
 Article L331-15
 ----
-Dans le respect des droits des parties, l'Autorité de régulation des mesures
-techniques favorise ou suscite une solution de conciliation. Lorsqu'elle dresse
-un procès-verbal de conciliation, celui-ci a force exécutoire ; il fait l'objet
-d'un dépôt au greffe du tribunal d'instance.
+La Haute Autorité est composée d'un collège et d'une commission de protection
+des droits. Le président du collège est le président de la Haute Autorité.
 
-A défaut de conciliation dans un délai de deux mois à compter de sa saisine,
-l'autorité, après avoir mis les intéressés à même de présenter leurs
-observations, rend une décision motivée de rejet de la demande ou émet une
-injonction prescrivant, au besoin sous astreinte, les mesures propres à assurer
-le bénéfice effectif de l'exception. L'astreinte prononcée par l'autorité est
-liquidée par cette dernière.
+Sauf disposition législative contraire, les missions confiées à la Haute
+Autorité sont exercées par le collège.
 
-Ces décisions ainsi que le procès-verbal de conciliation sont rendus publics
-dans le respect des secrets protégés par la loi. Elles sont notifiées aux
-parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le
-recours a un effet suspensif.
+Dans l'exercice de leurs attributions, les membres du collège et de la
+commission de protection des droits ne reçoivent d'instruction d'aucune
+autorité.

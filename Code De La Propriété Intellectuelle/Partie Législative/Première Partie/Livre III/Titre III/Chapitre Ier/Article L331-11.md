@@ -1,11 +1,16 @@
 Article L331-11
 ----
-Les éditeurs et les distributeurs de services de télévision ne peuvent recourir
-à des mesures techniques qui auraient pour effet de priver le public du bénéfice
-de l'exception pour copie privée, y compris sur un support et dans un format
-numérique, dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2°
-de l'article L. 211-3.
+Les informations sous forme électronique concernant le régime des droits
+afférents à une oeuvre, autre qu'un logiciel, une interprétation, un
+phonogramme, un vidéogramme ou un programme, sont protégées dans les conditions
+prévues au présent titre, lorsque l'un des éléments d'information, numéros ou
+codes est joint à la reproduction ou apparaît en relation avec la communication
+au public de l'oeuvre, de l'interprétation, du phonogramme, du vidéogramme ou du
+programme qu'il concerne.
 
-Le Conseil supérieur de l'audiovisuel veille au respect des obligations du
-premier alinéa dans les conditions définies par les articles 42 et 48-1 de la
-loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+On entend par information sous forme électronique toute information fournie par
+un titulaire de droits qui permet d'identifier une oeuvre, une interprétation,
+un phonogramme, un vidéogramme, un programme ou un titulaire de droit, toute
+information sur les conditions et modalités d'utilisation d'une oeuvre, d'une
+interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme, ainsi que
+tout numéro ou code représentant tout ou partie de ces informations.

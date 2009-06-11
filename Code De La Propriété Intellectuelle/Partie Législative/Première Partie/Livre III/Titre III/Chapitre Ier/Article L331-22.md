@@ -12,3 +12,6 @@ Dans les conditions prévues par l'article 17-1 de la loi n° 95-73 du 21 janvie
 d'habilitation des agents mentionnés à l'article L. 331-21 du présent code sont
 précédées d'enquêtes administratives destinées à vérifier que leur comportement
 n'est pas incompatible avec l'exercice de leurs fonctions ou missions.
+
+Les agents doivent en outre remplir les conditions de moralité et observer les
+règles déontologiques définies par décret en Conseil d'Etat.

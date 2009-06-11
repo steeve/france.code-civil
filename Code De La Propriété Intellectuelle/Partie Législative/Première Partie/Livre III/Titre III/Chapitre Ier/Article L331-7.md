@@ -4,7 +4,7 @@ Les titulaires de droits qui recourent aux mesures techniques de protection
 définies à l'article L. 331-5 peuvent leur assigner pour objectif de limiter le
 nombre de copies. Ils prennent cependant les dispositions utiles pour que leur
 mise en oeuvre ne prive pas les bénéficiaires des exceptions visées au 2° de
-l'article L. 331-31 de leur exercice effectif. Ils s'efforcent de définir ces
+l'article L. 331-39 de leur exercice effectif. Ils s'efforcent de définir ces
 mesures en concertation avec les associations agréées de consommateurs et les
 autres parties intéressées.
 

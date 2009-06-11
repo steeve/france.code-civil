@@ -22,8 +22,8 @@ présent article.
 Les mesures techniques ne doivent pas avoir pour effet d'empêcher la mise en
 oeuvre effective de l'interopérabilité, dans le respect du droit d'auteur. Les
 fournisseurs de mesures techniques donnent l'accès aux informations essentielles
-à l'interopérabilité dans les conditions définies au 1° de l'article L. 331-31
-et à l'article L. 331-32.
+à l'interopérabilité dans les conditions définies au 1° de l'article L. 331-39
+et à l'article L. 331-40.
 
 Les dispositions du présent chapitre ne remettent pas en cause la protection
 juridique résultant des articles 79-1 à 79-6 et de l'article 95 de la loi n°

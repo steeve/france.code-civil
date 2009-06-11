@@ -1,16 +1,11 @@
 Article L331-9
 ----
-Les titulaires de droits qui recourent aux mesures techniques de protection
-définies à l'article L. 331-5 peuvent leur assigner pour objectif de limiter le
-nombre de copies. Ils prennent cependant les dispositions utiles pour que leur
-mise en oeuvre ne prive pas les bénéficiaires des exceptions visées à l'article
-L. 331-8 de leur exercice effectif. Ils s'efforcent de définir ces mesures en
-concertation avec les associations agréées de consommateurs et les autres
-parties intéressées.
+Les éditeurs et les distributeurs de services de télévision ne peuvent recourir
+à des mesures techniques qui auraient pour effet de priver le public du bénéfice
+de l'exception pour copie privée, y compris sur un support et dans un format
+numérique, dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2°
+de l'article L. 211-3.
 
-Les dispositions du présent article peuvent, dans la mesure où la technique le
-permet, subordonner le bénéfice effectif de ces exceptions à un accès licite à
-une oeuvre ou à un phonogramme, à un vidéogramme ou à un programme et veiller à
-ce qu'elles n'aient pas pour effet de porter atteinte à son exploitation normale
-ni de causer un préjudice injustifié aux intérêts légitimes du titulaire de
-droits sur l'oeuvre ou l'objet protégé.
+Le Conseil supérieur de l'audiovisuel veille au respect des obligations du
+premier alinéa dans les conditions définies par les articles 42 et 48-1 de la
+loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.

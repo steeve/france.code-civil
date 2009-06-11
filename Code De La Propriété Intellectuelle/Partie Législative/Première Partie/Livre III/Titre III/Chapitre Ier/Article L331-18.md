@@ -1,32 +1,40 @@
 Article L331-18
 ----
-L'Autorité de régulation des mesures techniques est composée de six membres
-nommés par décret.
+I. - Les fonctions de membre et de secrétaire général de la Haute Autorité sont
+incompatibles avec le fait d'exercer ou d'avoir exercé, au cours des trois
+dernières années :
 
-Outre le président de la commission mentionnée à l'article L. 311-5 qui
-participe aux travaux de la commission avec voix consultative, ses membres sont
-:
+1° Les fonctions de dirigeant, de salarié ou de conseiller d'une société régie
+par le titre II du présent livre ;
 
-1° Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ;
+2° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise
+exerçant une activité de production de phonogrammes ou de vidéogrammes ou
+d'édition d'œuvres protégées par un droit d'auteur ou des droits voisins ;
 
-2° Un conseiller à la Cour de cassation désigné par le premier président de la
-Cour de cassation ;
+3° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise de
+communication audiovisuelle ;
 
-3° Un conseiller maître à la Cour des comptes désigné par le premier président
-de la Cour des comptes ;
+4° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise
+offrant des services de mise à disposition d'œuvres ou d'objets protégés par un
+droit d'auteur ou des droits voisins ;
 
-4° Un membre désigné par le président de l'Académie des technologies, en raison
-de ses compétences en matière de technologies de l'information ;
+5° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise dont
+l'activité est d'offrir un accès à des services de communication au public en
+ligne.
 
-5° Un membre du Conseil supérieur de la propriété littéraire et artistique
-désigné par le président du Conseil supérieur de la propriété littéraire et
-artistique.
+II. - Après la cessation de leurs fonctions, les membres de la Haute Autorité et
+son secrétaire général sont soumis aux dispositions de l'article 432-13 du code
+pénal.
 
-La durée du mandat des membres de l'autorité est de six ans. Il n'est ni
-renouvelable, ni révocable.
+Les membres de la Haute Autorité et son secrétaire général ne peuvent,
+directement ou indirectement, détenir d'intérêts dans une société ou entreprise
+mentionnée au I du présent article.
 
-En cas de vacance d'un siège de membre de l'autorité, il est procédé à son
-remplacement pour la durée du mandat restant à courir.
+Un décret fixe le modèle de déclaration d'intérêts que chaque membre doit
+déposer au moment de sa désignation.
 
-Le président est élu par les membres parmi les personnes mentionnées aux 1°,2°
-et 3°.
+Aucun membre de la Haute Autorité ne peut participer à une délibération
+concernant une entreprise ou une société contrôlée, au sens de l'article L.
+233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des
+trois années précédant la délibération, exercé des fonctions ou détenu un
+mandat.
