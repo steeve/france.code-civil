@@ -1,6 +1,6 @@
 Article D661-6
 ----
-Le comité plénier définit les grandes orientations du Comité technique permanent
+Le comité plénier définit les grandes orientations du comité technique permanent
 de la sélection des plantes cultivées et de ses différentes instances. Il traite
 des thèmes communs à l'ensemble de ces instances et veille à la coordination de
 leur action. Il suit et supervise les activités des sections. Il a pouvoir
