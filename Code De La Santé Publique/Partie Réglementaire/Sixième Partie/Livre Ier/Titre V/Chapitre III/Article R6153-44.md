@@ -19,7 +19,7 @@ mêmes conditions ou, à défaut de telles propositions, tirés au sort parmi le
 Les modalités de ce tirage au sort sont fixées par arrêté des ministres chargés
 de l'enseignement supérieur et de la santé.
 
-Les dispositions de l'article R. 6153-10, à l'exception des deux derniers
-alinéas du 1°, leur sont applicables ; toutefois, les émoluments forfaitaires
-mensuels mentionnés au 1° de cet article ne varient pas, pour les étudiants
-faisant fonction d'interne, en fonction de leur ancienneté.
+Les dispositions de l'article R. 6153-10, à l'exception des quatre derniers
+alinéas du 1° et du 4° leur sont applicables ; toutefois, les émoluments
+forfaitaires mensuels mentionnés au 1° de cet article ne varient pas, pour les
+étudiants faisant fonction d'interne, en fonction de leur ancienneté.

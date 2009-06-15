@@ -12,8 +12,8 @@ troisième cycle de pharmacie et de l'article 13 du décret n° 94-735 du 19 ao�
 1994 relatif au concours et au programme pédagogique de l'internat en
 odontologie, sont placés dans une position spéciale pendant laquelle ils cessent
 de bénéficier des indemnités et remboursement des frais de déplacement prévus
-aux 3°, 4° et 5° de l'article R. 6153-10, aux articles R. 6153-11 à R. 6153-18
-et à l'article R. 6153-25.
+aux 3°, 4°, 5° et 6° de l'article R. 6153-10, aux articles R. 6153-11 à R.
+6153-18 et à l'article R. 6153-25.
 
 Les stages accomplis dans cette position sont pris en compte, s'ils sont
 validés, pour le calcul de la durée des fonctions accomplies par les internes.

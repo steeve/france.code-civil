@@ -1,7 +1,7 @@
 Article R6153-14
 ----
 Est garanti à l'interne en congé de maladie le versement, pendant les trois
-premiers mois de ce congé, de la rémunération mentionnée au 1° et au 2° de
+premiers mois de ce congé, de la rémunération mentionnée aux 1°, 2° et 4° de
 l'article R. 6153-10 et de la moitié de celle-ci pendant les six mois suivants.
 
 Un congé sans rémunération de quinze mois au maximum peut être accordé, sur sa

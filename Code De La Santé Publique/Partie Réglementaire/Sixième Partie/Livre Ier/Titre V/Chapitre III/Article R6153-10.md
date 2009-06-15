@@ -28,10 +28,10 @@ Lorsqu'un ou plusieurs stages supplémentaires sont effectués en application de
 l'article R. 6153-20 pour des raisons autres que celles mentionnées à l'alinéa
 précédent, les émoluments versés varient de la façon suivante :
 
-- pour le premier semestre supplémentaire, ils demeurent identiques à ceux du
+-pour le premier semestre supplémentaire, ils demeurent identiques à ceux du
 stage le précédant immédiatement ;
 
-- pour les autres semestres supplémentaires, ils ne varient pas en fonction de
+-pour les autres semestres supplémentaires, ils ne varient pas en fonction de
 l'ancienneté des intéressés et sont fixés dans l'arrêté mentionné ci-dessus à un
 montant qui ne peut être inférieur à celui des émoluments dus pour le premier
 stage du troisième cycle des études médicales ;
@@ -45,13 +45,18 @@ conditions prévues au 1° du présent article ;
 selon des modalités fixées par arrêté des ministres chargés du budget, de
 l'enseignement supérieur et de la santé ;
 
-4° Des indemnités pour participation, en dehors des obligations de service, à
+4° Les internes en médecine de quatrième et cinquième années et les internes en
+pharmacie de quatrième année bénéficient d'une prime de responsabilité dont le
+montant est fixé par arrêté des ministres chargés du budget, de l'enseignement
+supérieur et de la santé ;
+
+5° Des indemnités pour participation, en dehors des obligations de service, à
 des enseignements et aux jurys de concours, à l'enseignement et à la formation
 des personnels des établissements hospitaliers. Le montant et les conditions
 d'attribution de ces indemnités sont fixés par arrêté des ministres chargés du
 budget, de l'enseignement supérieur et de la santé ;
 
-5° Le remboursement de ses frais de déplacements temporaires engagés à
+6° Le remboursement de ses frais de déplacements temporaires engagés à
 l'occasion de leur mission dès lors qu'ils ne peuvent utiliser un véhicule de
 l'établissement, dans les conditions prévues par la réglementation applicable en
 la matière aux personnels relevant de la fonction publique hospitalière.
