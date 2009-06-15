@@ -1,7 +1,7 @@
 Article D811-140
 ----
-I. - Le brevet de technicien supérieur agricole est préparé en formation
-scolaire dans :
+I.-Le brevet de technicien supérieur agricole est préparé en formation scolaire
+dans :
 
 a) Des établissements publics locaux et nationaux de l'enseignement
 technologique agricole et de l'enseignement supérieur agronomique ;
@@ -15,7 +15,7 @@ base d'une convention passée avec le ministère de l'agriculture et de la forê
 
 d) Tout autre établissement privé.
 
-II. - Le brevet de technicien supérieur agricole sanctionne un enseignement
+II.-Le brevet de technicien supérieur agricole sanctionne un enseignement
 technologique supérieur court.
 
 Le cycle de formation scolaire dure deux années et comporte au moins douze
@@ -26,56 +26,53 @@ En vue de prendre en compte certaines situations particulières, notamment en
 matière de coopération internationale, le ministre de l'agriculture peut, à
 titre dérogatoire, modifier par arrêté la durée du cycle de formation.
 
-III. - Les sections préparatoires au brevet de technicien supérieur agricole
-sont accessibles en priorité aux titulaires :
+III.-Les sections préparatoires au brevet de technicien supérieur agricole sont
+accessibles en priorité aux candidats :
 
-a) Du brevet de technicien agricole ;
+-titulaires du baccalauréat technologique ;
 
-b) De certaines options du brevet de technicien ;
+-titulaires du baccalauréat professionnel ;
 
-c) De certaines sections du baccalauréat professionnel ;
+-titulaires du baccalauréat général ;
 
-d) De certaines séries du baccalauréat technologique ;
+-titulaires du brevet de technicien agricole ;
 
-e) De certaines séries du baccalauréat général ;
+-titulaires du brevet de technicien ;
 
-f) De diplômes jugés équivalents de l'un de ceux qui sont cités ci-dessus.
+-titulaires d'un titre ou diplôme de niveau IV enregistré dans le répertoire
+national des certifications professionnelles de la Commission nationale de la
+certification professionnelle ;
 
-La liste des options, sections et séries de ces diplômes, est établie pour
-chacune des options du brevet de technicien supérieur agricole, par arrêté du
-ministre de l'agriculture. Les titulaires des diplômes mentionnés au premier
-alinéa dans des options, sections et séries autres que celles exigées peuvent,
-sur leur demande motivée et après examen de leurs dossiers scolaires, bénéficier
-d'une dérogation. Cette dérogation est prononcée dans des conditions précisées
-par un arrêté du ministre de l'agriculture.
+-titulaires du diplôme d'accès aux études universitaires.
 
-Peuvent également être admis :
+Elles sont également accessibles aux élèves ayant accompli la scolarité complète
+conduisant à l'un des grades, titres ou diplômes précités et dont les aptitudes
+auront été reconnues suffisantes par la commission d'admission de
+l'établissement.
 
-a) Les étudiants reçus à l'examen spécial d'entrée à l'université pour la série
-scientifique ;
+Peuvent également être admis par décision du directeur régional de
+l'alimentation, de l'agriculture et de la forêt prise après avis de la
+commission d'admission mentionnée dans l'alinéa suivant des candidats ayant
+suivi une formation à l'étranger.
 
-b) Les élèves à titre d'étranger. Ces derniers peuvent, par décision du ministre
-de l'agriculture, être admis dans les classes de préparation au brevet de
-technicien supérieur agricole, sous réserve qu'ils possèdent un diplôme reconnu
-de niveau IV (nomenclature française) dans la Communauté économique européenne
-ou que leurs connaissances et leurs aptitudes soient reconnues suffisantes par
-une commission formée de professeurs de l'établissement d'accueil, au vu du
-dossier scolaire et éventuellement à la suite d'un examen.
+L'admission dans une section préparatoire au brevet de technicien supérieur
+agricole de l'enseignement public par la voie scolaire est organisée sous
+l'autorité du directeur régional de l'alimentation, de l'agriculture et de la
+forêt qui définit, avec les chefs d'établissements d'accueil, les conditions de
+la mise en place et du déroulement de la procédure d'admission. Elle est
+prononcée par le chef d'établissement d'accueil, après qu'une commission
+d'admission, constituée par celui-ci et comprenant principalement des
+professeurs de la section demandée, a apprécié la candidature de chaque étudiant
+postulant.
 
-Une commission nationale procède au recrutement pour les sections préparatoires
-au brevet de technicien supérieur agricole par la voie scolaire des
-établissements publics. L'organisation et le fonctionnement de cette commission
-sont déterminés par arrêté du ministre de l'agriculture.
-
-IV. - Peuvent être directement admis en seconde année d'une section préparatoire
-au brevet de technicien supérieur agricole, après délibération d'une commission
-composée de professeurs de l'établissement d'accueil et dans les conditions
-fixées par l'arrêté du ministre de l'agriculture mentionné au premier alinéa de
-l'article R. 811-138 :
+Peuvent être directement admis en seconde année d'une section préparatoire au
+brevet de technicien supérieur agricole, après délibération de la commission
+d'admission de l'établissement d'accueil et dans les conditions fixées par
+l'arrêté du ministre de l'agriculture mentionné au premier alinéa de l'article
+R. 811-138 :
 
 a) Des étudiants ayant suivi en totalité l'enseignement des classes
-préparatoires aux écoles de l'enseignement supérieur agronomique ou vétérinaire,
-ou des classes préparatoires technologiques au haut enseignement commercial ;
+préparatoires aux grandes écoles ;
 
 b) Des titulaires de certains brevets de technicien supérieur agricole, brevets
 de technicien supérieur, diplômes universitaires de technologie, diplômes
