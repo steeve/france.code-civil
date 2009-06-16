@@ -12,5 +12,4 @@ forfaitaire sont les suivantes : ...
 
 e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions
 constatées par la garderie du domaine du Conservatoire de l'espace littoral et
-des rivages lacustres et les agents visés à l'article L. 322-10-1 du même code.
-"
+des rivages lacustres et les agents visés à l'article L. 322-20 du même code".

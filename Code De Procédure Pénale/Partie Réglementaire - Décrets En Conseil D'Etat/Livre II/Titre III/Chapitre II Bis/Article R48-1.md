@@ -29,13 +29,9 @@ transports internationaux par route (AETR) du 1er juillet 1970 ;
 d) L'article 22-2 du décret n° 90-200 du 5 mars 1990 modifié relatif à
 l'exercice de la profession de commissionnaire de transport ;
 
-e) L'article 12 et l'article 13, alinéas 1 et 2, du décret n° 97-608 du 31 mai
-1997 modifié relatif à la formation professionnelle initiale et continue des
-conducteurs salariés du transport routier public de marchandises (1) ;
+e) Abrogé ;
 
-f) L'article 11 et l'article 12, alinéas 1 et 2, du décret n° 98-1039 du 18
-novembre 1998 relatif à la formation professionnelle initiale et continue des
-conducteurs non salariés du transport routier public de marchandises (1) ;
+f) Abrogé ;
 
 g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux
 transports routiers de marchandises ;
@@ -44,12 +40,7 @@ h) Les articles 22 et 23 du décret n° 2007-1340 du 11 septembre 2007 relatif �
 la qualification initiale et à la formation continue des conducteurs de certains
 véhicules affectés aux transports routiers de marchandises ou de voyageurs ;
 
-i) L'article 25 et les premier et deuxième alinéas de l'article 26 du décret n°
-2004-1186 du 8 novembre 2004 relatif à la formation professionnelle initiale et
-continue des conducteurs salariés du transport routier privé de marchandises,
-des conducteurs salariés et non salariés du transport routier public de
-marchandises et des conducteurs salariés du transport routier public interurbain
-de voyageurs (1).
+i) Abrogé.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
@@ -109,7 +100,7 @@ f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identificati
 des chiens, des chats et autres carnivores domestiques et à la tenue des locaux
 où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
-pour l'application des articles 276,276-2 et 276-3 du code rural ;
+pour l'application des articles 276, 276-2 et 276-3 du code rural ;
 
 g) Les articles R. 215-6 et R. 215-7 du code rural ;
 
@@ -118,13 +109,13 @@ h) L'article R. 215-8 du code rural ;
 i) L'article R. 215-2 du code rural ;
 
 5° Contraventions réprimées par le code des postes et des communications
-électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
+électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9. 6°
+Contraventions réprimées par le code de la santé publique prévues par les
+articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2 ; Contraventions en
+matière de vente de boissons alcoolisées réprimées par l'article R. 3353-5-1 du
+code de la santé publique ;
 
-6° Contraventions réprimées par le code de la santé publique prévues par les
-articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2 ;
-
-Contraventions en matière de vente de boissons alcoolisées réprimées par
-l'article R. 3353-5-1 du code la santé publique.
-
-6° bis (2) Contraventions réprimées par les 1° et 3° de l'article R. 254-20 du
-code rural.
+Contraventions en matière de collecte et de destruction de médicaments à usage
+humain non utilisés réprimées par les articles R. 4212-1 et R. 4212-2 du code de
+la santé publique. 6° bis (1) Contraventions réprimées par les 1° et 3° de
+l'article R. 254-20 du code rural.
