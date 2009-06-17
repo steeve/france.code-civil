@@ -3,8 +3,7 @@ Article 18 bis
 La liste des équipements, matériaux et appareils mentionnés au 1 de l'article
 200 quater du code général des impôts est fixée comme suit :
 
-1. Acquisition de chaudières à basse température utilisées comme mode de
-chauffage ou de production d'eau chaude ;
+1. (Paragraphe abrogé)
 
 2. Acquisition des équipements et matériaux suivants :
 
@@ -145,37 +144,7 @@ ou égal à 3, 3 pour une température d'entrée d'air de 7° C à l'évaporateu
 des températures d'entrée et de sortie d'eau de 30° C et 35° C au condenseur,
 selon le référentiel de la norme d'essai 14511-2 ;
 
-5° Les pompes à chaleur air / air de type multisplit (y compris DRV) ou
-gainable, ayant un coefficient de performance supérieur ou égal à 3, 3 pour une
-température d'entrée d'air de 7° C à l'évaporateur et de 20° C au condenseur,
-selon le référentiel de la norme d'essai 14511-2, et remplissant les critères
-suivants :
-
-L'appareil, centralisé sur une ou plusieurs unités extérieures, assure le
-chauffage des pièces composant le logement telles que mentionnées à l'article R.
-111-10 du code de la construction et de l'habitation, dès lors que leur
-superficie est au moins égale à 8 m2. Les pièces de service, telles que celles
-affectées à l'usage exclusif de cuisines, de toilettes ou de salles de bains, ne
-sont pas prises en compte ;
-
-Chaque pièce équipée doit disposer de son propre organe de régulation
-automatique, quel que soit le principe de diffusion retenu ;
-
-Le fonctionnement normal de l'équipement est garanti par le fabricant à une
-température extérieure de-15° C ;
-
-La puissance calorifique thermodynamique restituée de l'unité extérieure est
-supérieure ou égale à 5 kW à une température extérieure de 7° C. En cas
-d'installation simultanée de plusieurs unités extérieures, cette condition doit
-être remplie par au moins l'une d'entre elles ;
-
-L'installation finale a été contrôlée par un organisme d'inspection accrédité
-selon la norme NF EN ISO / CEI 17020, pour l'un des domaines suivants :
-électricité / inspections d'installations électriques pour tous les types
-d'établissements ; énergie, fluides et pureté de l'air / ventilation,
-conditionnement d'air, thermique, désenfumage-inspection préalable avant mise en
-service ; énergie, fluides et pureté de l'air / ventilation, conditionnement
-d'air, thermique, désenfumage ;
+5° (Paragraphe abrogé)
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement
 par des énergies renouvelables ou par une installation de cogénération, qui
