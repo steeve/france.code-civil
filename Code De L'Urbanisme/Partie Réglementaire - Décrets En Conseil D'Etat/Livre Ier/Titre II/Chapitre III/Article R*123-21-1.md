@@ -1,7 +1,7 @@
 Article R*123-21-1
 ----
 Lorsqu'il décide d'engager une procédure de révision simplifiée en application
-du huitième alinéa de l'article L. 123-13, le maire ou le président de
+du neuvième alinéa de l'article L. 123-13, le maire ou le président de
 l'établissement public de coopération intercommunale compétent saisit le conseil
 municipal ou l'organe délibérant de l'établissement public qui délibère sur les
 objectifs poursuivis et les modalités de la concertation conformément à

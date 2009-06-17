@@ -13,7 +13,7 @@ territoriale prévues au deuxième alinéa de l'article L. 122-13 et à l'articl
 122-15 ;
 
 3° Les modifications des plans locaux d'urbanisme ainsi que les révisions
-simplifiées prévues aux deuxième et huitième alinéas de l'article L. 123-13 et
+simplifiées prévues aux deuxième et neuvième alinéas de l'article L. 123-13 et
 les mises en compatibilité prévues à l'article L. 123-16, à l'exception :
 
 a) Des modifications ou révisions simplifiées concernant des opérations ou
