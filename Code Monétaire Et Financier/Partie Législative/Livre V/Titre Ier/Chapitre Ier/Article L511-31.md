@@ -6,7 +6,7 @@ et des entreprises d'investissement et, sous réserve des règles propres à la
 procédure disciplinaire, de la commission bancaire.
 
 Ils sont chargés de veiller à la cohésion de leur réseau et de s'assurer du bon
-fonctionnement des établissements qui leur sont affiliés. A cette fin, ils
+fonctionnement des établissements qui leur sont affiliés.A cette fin, ils
 prennent toutes mesures nécessaires, notamment pour garantir la liquidité et la
 solvabilité de chacun de ces établissements comme de l'ensemble du réseau. Ils
 peuvent également décider d'interdire ou de limiter la distribution d'un
@@ -53,16 +53,3 @@ affiliés ou de la cession totale ou partielle de leur fonds de commerce.
 Les organes centraux notifient toute décision d'affiliation ou de retrait
 d'affiliation à l'établissement concerné et au Comité des établissements de
 crédit et des entreprises d'investissement.
-
-Peut être affilié à plusieurs organes centraux tout établissement de crédit qui
-est directement ou indirectement sous leur contrôle conjoint, au sens de
-l'article L. 233-16 du code de commerce, et dont l'activité est nécessaire au
-fonctionnement des réseaux de ces organes centraux. Une convention passée entre
-les organes centraux définit les modalités d'exercice de leurs pouvoirs
-respectifs sur l'établissement affilié ainsi que de mise en oeuvre de leurs
-obligations à son égard, en particulier en matière de liquidité et de
-solvabilité. Les organes centraux notifient toute affiliation multiple au Comité
-des établissements de crédit et des entreprises d'investissement, qui peut
-subordonner l'agrément ou l'autorisation de prendre ou détenir le contrôle
-conjoint de l'établissement concerné au respect d'engagements pris par les
-organes centraux sur les principes de mise en oeuvre de l'affiliation.
