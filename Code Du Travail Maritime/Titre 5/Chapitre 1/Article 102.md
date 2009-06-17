@@ -1,6 +1,6 @@
 Article 102
 ----
-En aucun cas, le droit pour le marin à résilier le contrat d'engagement ne peut
+En aucun cas, le droit pour le marin à rompre le contrat d'engagement ne peut
 avoir effet au terme du délai de préavis :
 
 1° Lorsque ce terme se place après le moment fixé par le capitaine du navire en

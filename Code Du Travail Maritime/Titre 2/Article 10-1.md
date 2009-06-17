@@ -10,11 +10,10 @@ durée indéterminée ou pour un voyage.
 Si l'engagement est conclu pour une durée déterminée, le contrat doit contenir
 l'indication de cette durée.
 
-Si l'engagement est conclu pour une durée déterminée ou indéterminée, le contrat
-doit fixer obligatoirement le délai de préavis à observer en cas de résiliation
-par l'une des parties. Ce délai, sauf dans les cas d'application de l'article
-102-2, doit être le même pour les deux parties ; il ne peut être inférieur à
-vingt-quatre heures.
+Le contrat doit fixer obligatoirement le délai de préavis à observer en cas de
+rupture par l'une des parties. Ce délai, sauf dans les cas d'application de
+l'article 102-2, doit être le même pour les deux parties ; il ne peut être
+inférieur à vingt-quatre heures.
 
 Si l'engagement est conclu au voyage, le contrat doit désigner nominativement,
 par une indication suffisante, le port où le voyage prendra fin et fixer à quel

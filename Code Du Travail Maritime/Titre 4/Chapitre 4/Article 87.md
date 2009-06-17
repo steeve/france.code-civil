@@ -7,8 +7,7 @@ métropolitain ;
 
 2° A la fin de la période de préavis ;
 
-3° Dans les cas de congédiement prévus à l'article 98 ou de débarquement pour
-motif disciplinaire ;
+3° Dans les cas de débarquement pour motif disciplinaire ;
 
 4° En cas de maladie, d'accident ou pour toute autre raison d'ordre médical
 nécessitant son débarquement ;
