@@ -49,7 +49,7 @@ chimique, technologique, pharmaceutique, biologique, pharmacologique,
 toxicologique et clinique, dénommés prérequis, accompagnée des références des
 principaux travaux exploités pour cette synthèse ;
 
-6° Le protocole de l'essai clinique ou d'efficacité ;
+6° Le protocole de l'essai clinique ;
 
 7° Les références des autorisations de mise sur le marché éventuellement
 obtenues dans un autre Etat membre de la Communauté européenne ou un pays tiers

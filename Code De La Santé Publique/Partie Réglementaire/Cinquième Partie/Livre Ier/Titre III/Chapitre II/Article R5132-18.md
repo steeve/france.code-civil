@@ -13,15 +13,15 @@ présente section comporte les indications suivantes :
 L'étiquette est blanche lorsque le médicament est destiné aux voies nasale,
 orale, perlinguale, sublinguale, rectale, vaginale, urétrale ou est injectable.
 
-Elle est rouge, avec la mention : "Ne pas avaler" pour les préparations à usage
-humain, ou : "Ne pas faire avaler" pour les médicaments vétérinaires, imprimée
-en caractères noirs, lorsque le médicament est destiné aux autres voies
+Elle est rouge, avec la mention : " Ne pas avaler " pour les préparations à
+usage humain, ou : " Ne pas faire avaler " pour les médicaments vétérinaires,
+imprimée en caractères noirs, lorsque le médicament est destiné aux autres voies
 d'administration. Afin d'inscrire le numéro d'enregistrement, la posologie et le
 mode d'emploi, elle peut comporter un espace blanc de dimension suffisante.
 
 Les étiquettes des médicaments vétérinaires extemporanés comportent, en outre,
-la mention prévue au 13° de l'article R. 5141-73, en caractères noirs sur fond
+la mention prévue au 12° de l'article R. 5141-73, en caractères noirs sur fond
 rouge.
 
 Dans tous les cas, ces médicaments portent une contre-étiquette, avec la mention
-"Respecter les doses prescrites" en caractères noirs sur fond rouge.
+" Respecter les doses prescrites " en caractères noirs sur fond rouge.

@@ -6,8 +6,8 @@ leur retrait, à ce que les entreprises ou organismes mentionnées à l'article 
 5124-43 vendent directement :
 
 1° Aux vétérinaires, en vue de l'emploi exclusif par ces vétérinaires pour leur
-usage professionnel sur commande écrite, les médicaments figurant sur la liste
-prévue à l'article R. 5141-122 ;
+usage professionnel sur commande écrite, les médicaments figurant sur les listes
+prévues aux articles R. 5141-122 et R. 5141-122-1 ;
 
 2° Aux organismes autorisés à pratiquer l'expérimentation animale, en
 application du code rural sur commande écrite justifiée, les médicaments à usage

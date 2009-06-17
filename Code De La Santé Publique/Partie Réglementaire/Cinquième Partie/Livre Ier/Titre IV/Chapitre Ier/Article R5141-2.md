@@ -9,15 +9,14 @@ Ces expérimentations comprennent :
 
 a) Pour les médicaments non immunologiques :
 
--des essais pharmaceutiques, à savoir les essais physico-chimiques, biologiques
+- des essais pharmaceutiques, à savoir les essais physico-chimiques, biologiques
 ou microbiologiques ;
 
--des essais non cliniques, à savoir les essais d'innocuité, y compris les essais
-évaluant le risque pour l'environnement, l'étude des résidus ;
+- des essais non cliniques, à savoir les essais d'innocuité, y compris les
+essais évaluant le risque pour l'environnement, l'étude des résidus, les essais
+précliniques ;
 
--les essais précliniques ;
-
--des essais cliniques ;
+- des essais cliniques ;
 
 b) Pour les médicaments immunologiques :
 

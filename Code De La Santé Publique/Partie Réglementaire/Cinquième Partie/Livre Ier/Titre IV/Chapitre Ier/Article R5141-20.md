@@ -63,9 +63,9 @@ présente toute garanties d'innocuité.
 6° Lorsque la demande est présentée dans le cadre des dispositions du 1° de
 l'article L. 5141-5-1, notamment en cas de situation sanitaire urgente ou
 limitée géographiquement, le dossier fourni à l'appui de la demande comporte,
-outre les données pharmaceutiques, les résultats des essais cliniques ou
-d'efficacité appropriés déterminés en fonction des caractéristiques du
-médicament vétérinaire et des circonstances exceptionnelles considérées.
+outre les données pharmaceutiques, les résultats des essais cliniques appropriés
+déterminés en fonction des caractéristiques du médicament vétérinaire et des
+circonstances exceptionnelles considérées.
 
 7° Lorsque la demande est présentée dans le cadre des dispositions du 2° de
 l'article L. 5141-5-1, notamment du fait de la rareté des indications dans une

@@ -3,12 +3,9 @@ Article R5442-1
 Est puni de l'amende prévue pour les contraventions de la cinquième classe, le
 fait :
 
-1° De délivrer au détail, à titre gratuit ou onéreux, des médicaments
-vétérinaires mentionnés à l'article L. 5143-5 sans prescription d'un vétérinaire
-;
+1° (Abrogé) ;
 
-2° De délivrer au public ou d'administrer tel quel à un animal un prémélange
-médicamenteux ;
+2° (Abrogé) ;
 
 3° Pour un pharmacien ou un vétérinaire, de ne pas déclarer immédiatement au
 centre de pharmacovigilance vétérinaire dont il dépend un effet indésirable
@@ -25,8 +22,7 @@ médicaments vétérinaires prévues aux articles R. 5141-111 et R. 5141-112 ;
 de l'article R. 5141-112-2, des médicaments vétérinaires sans examen clinique
 des animaux ;
 
-7° De ne pas respecter les dispositions réglementaires fixant les conditions de
-délivrance des substances mentionnées à l'article R. 5141-117 ;
+7° (Abrogé) ;
 
 8° Pour le titulaire d'une autorisation mentionnée à l'article L. 5141-12, de ne
 pas avoir déclaré, immédiatement après en avoir eu connaissance, au directeur

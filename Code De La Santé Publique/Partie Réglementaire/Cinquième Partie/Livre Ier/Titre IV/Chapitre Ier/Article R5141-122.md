@@ -1,19 +1,21 @@
 Article R5141-122
 ----
-Les vétérinaires exerçant dans les conditions prévues à l'article L. 5143-2 sont
-autorisés à administrer eux-mêmes, dans le cadre de leur emploi exclusif par ces
-vétérinaires pour leur usage professionnel et dans le cas prévu au 3° de
-l'article L. 5143-4, à des animaux dont la chair ou les produits ne sont pas
-destinés à la consommation humaine les médicaments à usage humain classés dans
-l'une des catégories de prescription restreinte mentionnées à l'article R.
-5121-77 bénéficiant d'une autorisation de mise sur le marché, nécessaires pour
+Les vétérinaires sont seuls autorisés à administrer, dans le cas prévu au a du
+3° de l'article L. 5143-4, à des animaux dont la chair ou les produits ne sont
+pas destinés à la consommation humaine, les médicaments à usage humain classés
+dans l'une des catégories soumises à prescription restreinte par l'article R.
+5121-77, bénéficiant d'une autorisation de mise sur le marché, nécessaires pour
 éviter des souffrances inacceptables à ces animaux ou répondre à des situations
 sanitaires spécifiques.
 
 Une liste de ces médicaments est établie, sur proposition du directeur général
 de l'Agence française de sécurité sanitaire des aliments après avis du directeur
 général de l'Agence française de sécurité sanitaire des produits de santé, par
-arrêté des ministres chargés de l'agriculture et de la santé.
+arrêté des ministres chargés de l'agriculture et de la santé. Cette liste peut,
+pour des motifs de sécurité ou de santé publique, réserver l'emploi de tout ou
+partie des médicaments qu'elle mentionne aux vétérinaires exerçant dans
+certaines des catégories de domiciles professionnels autorisés par l'article R.
+242-54 du code rural.
 
 Un médicament à usage humain mentionné au premier alinéa est retiré de la liste
 établie par arrêté :

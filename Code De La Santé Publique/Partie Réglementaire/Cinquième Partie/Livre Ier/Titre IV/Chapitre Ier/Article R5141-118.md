@@ -14,9 +14,3 @@ acquises, cédées ou utilisées pour la fabrication de médicaments vétérinai
 2° La date de réalisation des opérations et, dans le cas d'acquisition ou de
 cession, les nom, profession et adresse du fournisseur ou de l'acquéreur
 desdites substances.
-
-Un relevé trimestriel, récapitulant par substance les quantités produites,
-acquises, cédées ou utilisées pour la fabrication de médicaments vétérinaires,
-est adressé au ministre chargé de l'agriculture et au directeur général de
-l'Agence française de sécurité sanitaire des aliments, au plus tard à la fin du
-mois qui suit le trimestre concerné.

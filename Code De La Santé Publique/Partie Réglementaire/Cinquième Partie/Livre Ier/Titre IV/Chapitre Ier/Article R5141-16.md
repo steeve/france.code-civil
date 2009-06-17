@@ -62,4 +62,4 @@ limites maximales de résidus auprès de l'Agence conformément audit règlement
 Un arrêté des ministres chargés de l'agriculture et de la santé pris sur
 proposition du directeur de l'Agence française de sécurité sanitaire des
 aliments précise les modalités selon lesquelles sont établis et présentés les
-informations et les documents prévus par les articles R. 5141-15 et R. 5141-16.
+informations et les documents prévus par le présent article.

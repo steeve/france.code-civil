@@ -12,24 +12,7 @@ l'article R. 5142-31 ;
 aux 1° à 10° de l'article R. 5142-1, de ne pas se faire assister selon les
 dispositions prévues aux articles R. 5142-37 à R. 5142-41 ;
 
-3° Pour le pharmacien ou le vétérinaire responsable d'un fabricant, d'un
-importateur ou d'un exploitant de médicaments vétérinaires autres que ceux
-soumis à des essais cliniques, de ne pas déclarer immédiatement au directeur
-général de l'Agence française de sécurité sanitaire des aliments, lorsqu'il en a
-connaissance, après la commercialisation d'un lot de médicaments vétérinaires,
-un incident ou un accident survenu lors de la fabrication ou de la distribution
-de ce lot et susceptible d'entraîner un risque pour la santé publique ;
-
-4° Pour un promoteur, un expérimentateur et un investigateur mentionnés aux
-premier et deuxième alinéas de l'article R. 5141-3, de méconnaître les règles
-relatives à l'expérimentation des médicaments mentionnées aux articles R. 5141-5
-à R. 5141-10 ;
-
-5° Pour le pharmacien ou le vétérinaire responsable d'un établissement
-pharmaceutique exploitant un médicament vétérinaire, de ne pas déclarer
-immédiatement, après en avoir eu connaissance, au directeur général de l'Agence
-française de sécurité sanitaire des aliments tout effet indésirable grave
-susceptible d'être dû à ce médicament ;
+3° à 5° (Abrogés) ;
 
 6° De faire, sous quelque forme que ce soit, de la publicité pour des
 médicaments vétérinaires dont la mise sur le marché n'a pas été autorisée ;
@@ -77,4 +60,4 @@ vétérinaires qui en ont fait la demande écrite ;
 
 15° De méconnaître les règles relatives à la dénomination, à l'étiquetage et à
 la notice des médicaments vétérinaires mentionnées aux articles R. 5141-1, R.
-5141-73 à R. 5141-78 et R. 5141-139.
+5141-72, R. 5141-73 à R. 5141-78, R. 5141-123-8 (II et III) et R. 5141-139.
