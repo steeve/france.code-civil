@@ -20,8 +20,8 @@ d'outre-mer ;
 
 7° Le gouverneur de la Banque de France ou son représentant ;
 
-8° Le directeur général de la Banque fédérale des banques populaires ou son
-représentant ;
+8° Le directeur général de l'organe central des caisses d'épargne et des banques
+populaires ou son représentant ;
 
 9° Le président du Comité national des pêches maritimes et des élevages marins ;
 

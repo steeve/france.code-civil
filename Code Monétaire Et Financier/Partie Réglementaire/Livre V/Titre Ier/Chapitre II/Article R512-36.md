@@ -1,8 +1,8 @@
 Article R512-36
 ----
-La Banque fédérale des banques populaires, organe central du crédit maritime
-mutuel, peut effectuer au bénéfice du crédit maritime mutuel toutes opérations
-financières et lui apporter ses services.
+L'organe central des caisses d'épargne et des banques populaires , organe
+central du crédit maritime mutuel, peut effectuer au bénéfice du crédit maritime
+mutuel toutes opérations financières et lui apporter ses services.
 
 Elle consulte la Société centrale de crédit maritime mutuel sur les projets de
 décisions qu'elle établit dans le cadre de sa mission d'organe central. Elle

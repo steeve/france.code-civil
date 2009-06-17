@@ -2,8 +2,9 @@ Article 260 C
 ----
 L'option mentionnée à l'article 260 B ne s'applique pas :
 
-1° Aux opérations effectuées entre eux par les organismes dépendant de la banque
-fédérale des banques populaires ;
+1° Aux opérations effectuées par les affiliés de l'organe central des caisses
+d'épargne et des banques populaires, ainsi que leurs groupements, entre eux ou
+avec l'organe central des caisses d'épargne et des banques populaires ;
 
 2° Aux opérations effectuées entre elles par les caisses de crédit mutuel
 adhérentes à la confédération nationale du crédit mutuel ;
@@ -11,9 +12,7 @@ adhérentes à la confédération nationale du crédit mutuel ;
 3° Aux opérations effectuées entre elles par les caisses de crédit agricole
 mentionnées à l'article L. 512-21 du code monétaire et financier ;
 
-3° bis aux opérations effectuées par les affiliés de la Caisse nationale des
-caisses d'épargne et de prévoyance, ainsi que leurs groupements, entre eux ou
-avec la Caisse nationale des caisses d'épargne et de prévoyance ;
+3° bis (Abrogé)
 
 4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
 conditions prévues aux articles L. 211-22 à L. 211-26 du code monétaire et

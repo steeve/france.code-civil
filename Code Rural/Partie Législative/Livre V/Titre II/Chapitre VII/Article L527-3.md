@@ -8,5 +8,6 @@ de caution mutuelle et de leurs unions en vue de fixer leurs règles d'activité
 et de les soumettre aux régimes juridique et fiscal de la coopération agricole.
 
 Toutefois, les sociétés coopératives agricoles de caution mutuelle ne seront pas
-placées sous le contrôle technique et financier de la banque fédérale des
-banques populaires prévu par l'article L. 512-10 du code monétaire et financier.
+placées sous le contrôle technique et financier de l'organe central des caisses
+d'épargne et des banques populaires prévu à l'article L. 512-106 du code
+monétaire et financier.
