@@ -3,11 +3,11 @@ Article R20-34
 I.-Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui
 perçoivent l'allocation de solidarité spécifique ou l'allocation aux adultes
 handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès
-de l'opérateur qui les dessert, autorisé selon les conditions fixées au III,
-bénéficient, sur leur demande, d'une réduction de leur facture téléphonique.A
+de l'opérateur qui les dessert, autorisé selon les conditions fixées au II,
+bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A
 cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le
 droit à réduction tarifaire est ouvert leur délivre chaque année une
-attestation.L'intéressé transmet ladite attestation accompagnée du nom de
+attestation. L'intéressé transmet ladite attestation accompagnée du nom de
 l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire,
 chargé par les opérateurs de la gestion du dispositif de réduction tarifaire, et
 autorise ce prestataire à communiquer les informations suivantes aux opérateurs

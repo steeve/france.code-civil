@@ -11,12 +11,12 @@ l'ensemble des personnes vivant au foyer :
 
 -renseignements relatifs à la perception, directement ou en tiers payant, de
 l'aide personnalisée au logement ou de l'une des allocations de logement prévues
-par le code de la sécurité sociale, ainsi que du revenu minimum d'insertion, de
-l'allocation supplémentaire du Fonds national de solidarité, de l'allocation de
-parent isolé ou de l'allocation aux adultes handicapés ;
+par le code de la sécurité sociale, ainsi que du revenu de solidarité active, de
+l'allocation de solidarité aux personnes âgées ou de l'allocation aux adultes
+handicapés ;
 
 -nature de l'activité professionnelle ou situation de demandeur d'emploi inscrit
-à l'Agence nationale pour l'emploi.
+à Pôle emploi.
 
 Un arrêté du ministre chargé du logement fixe les modalités d'application du
 présent article.
