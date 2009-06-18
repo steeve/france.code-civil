@@ -1,0 +1,17 @@
+Article D5125-24-1
+----
+Les pharmaciens titulaires d'officine ou les sociétés exploitant une officine
+peuvent constituer une société, un groupement d'intérêt économique ou une
+association, en vue de l'achat, d'ordre et pour le compte de ses associés,
+membres ou adhérents pharmaciens titulaires d'officine ou sociétés exploitant
+une officine, de médicaments autres que des médicaments expérimentaux, à
+l'exception des médicaments remboursables par les régimes obligatoires
+d'assurance maladie. Cette structure peut se livrer à la même activité pour les
+marchandises autres que des médicaments figurant dans l'arrêté mentionné à
+l'article L. 5125-24.
+
+La structure mentionnée au premier alinéa ne peut se livrer aux opérations
+d'achat, en son nom et pour son compte, et de stockage des médicaments en vue de
+leur distribution en gros à ses associés, membres ou adhérents, que si elle
+comporte un établissement pharmaceutique autorisé pour l'activité de
+distribution en gros.

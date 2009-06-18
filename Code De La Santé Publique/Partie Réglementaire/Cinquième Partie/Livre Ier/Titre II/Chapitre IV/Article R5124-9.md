@@ -10,7 +10,7 @@ directeur général vaut refus d'autorisation à l'expiration d'un délai de
 quatre-vingt-dix jours à compter de la date de réception de la demande.
 
 Pour les établissements pharmaceutiques dépendant d'entreprises ou organismes
-mentionnés aux 3° à 14° de l'article R. 5124-2, le silence gardé par le
+mentionnés aux 3° à 15° de l'article R. 5124-2, le silence gardé par le
 directeur général vaut autorisation tacite à l'expiration d'un délai de
 quatre-vingt-dix jours à compter de la date de réception de la demande.
 

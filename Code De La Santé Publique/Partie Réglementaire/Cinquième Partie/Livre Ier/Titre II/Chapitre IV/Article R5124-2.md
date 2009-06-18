@@ -80,6 +80,13 @@ et en l'état ;
 médicaments autres que des médicaments expérimentaux, en vue de leur
 distribution en gros et en l'état ;
 
+Cette entreprise peut également se livrer, d'ordre et pour le compte de
+pharmaciens titulaires d'officine ou des structures mentionnées à l'article D.
+5125-24-1, à l'achat et au stockage de médicaments autres que des médicaments
+expérimentaux, à l'exception des médicaments remboursables par les régimes
+obligatoires d'assurance maladie, en vue de leur distribution en gros et en
+l'état ;
+
 6° Distributeur en gros de produits pharmaceutiques autres que les médicaments,
 l'entreprise se livrant à l'achat et au stockage de produits, objets, articles,
 générateurs, trousses ou précurseurs mentionnés aux 2° et 3° de l'article L.
@@ -140,3 +147,11 @@ et, s'il y a lieu, leur retrait ainsi que les opérations de stockage
 correspondantes. La réalisation de tout ou partie de ces opérations peut être
 confiée à un tiers dans le cadre d'un contrat écrit qui fixe leurs obligations
 respectives.
+
+15° Centrale d'achat pharmaceutique, l'entreprise se livrant, soit en son nom et
+pour son compte, soit d'ordre et pour le compte de pharmaciens titulaires
+d'officine ou des structures mentionnées à l'article D. 5125-24-1, à l'achat et
+au stockage des médicaments autres que des médicaments expérimentaux, à
+l'exception des médicaments remboursables par les régimes obligatoires
+d'assurance maladie, en vue de leur distribution en gros et en l'état à des
+pharmaciens titulaires d'officine.

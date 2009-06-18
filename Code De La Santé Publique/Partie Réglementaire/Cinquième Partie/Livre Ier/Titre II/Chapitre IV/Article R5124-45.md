@@ -114,6 +114,12 @@ interruptions volontaires de grossesse par voie médicamenteuse pratiquées dans
 les conditions prévues à l'article L. 6323-1, sur commande écrite du pharmacien
 ou, à défaut, d'un médecin autorisé par le préfet.
 
+17° Aux centres et structures disposant d'équipes mobiles de soins mentionnés à
+l'article L. 6325-1 les médicaments nécessaires au traitement des personnes en
+situation de précarité ou d'exclusion, sur commande écrite du pharmacien attaché
+au centre ou à la structure de soins, ou du médecin désigné comme responsable de
+l'action sanitaire.
+
 En cas d'urgence telle que définie à l'article L. 3134-1, les établissements
 pharmaceutiques de l'Etablissement de préparation et de réponse aux situations
 d'urgence sanitaires peuvent, en outre, distribuer les produits mentionnés à

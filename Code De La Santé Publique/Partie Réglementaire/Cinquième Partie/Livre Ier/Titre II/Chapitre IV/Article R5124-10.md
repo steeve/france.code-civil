@@ -27,7 +27,7 @@ stockage ;
 production et de contrôle de la qualité ;
 
 8° Les modifications des conditions de stockage des médicaments classés comme
-stupéfiants pour les distributeurs en gros mentionnés aux 4° à 14° de l'article
+stupéfiants pour les distributeurs en gros mentionnés aux 4° à 15° de l'article
 R. 5124-2.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
