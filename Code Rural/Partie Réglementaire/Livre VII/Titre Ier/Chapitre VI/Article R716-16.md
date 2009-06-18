@@ -14,7 +14,7 @@ lesquelles l'autorisation peut être accordée.
 
 L'inspecteur du travail peut accorder une dérogation à tout ou partie des
 dispositions des articles R. 716-7 et R. 716-11 lorsque le chef d'établissement
-recrute et loge des travailleurs pour une durée maximale de douze jours sur une
+recrute et loge des travailleurs pour une durée maximale de trente jours sur une
 période de douze mois consécutifs.
 
 Le recours hiérarchique formé contre les décisions de l'inspecteur du travail
