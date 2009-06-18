@@ -12,9 +12,13 @@ gendarmerie nationale ;
 
 3° Le service technique de recherches judiciaires et de documentation ;
 
-4° La section judiciaire de la gendarmerie de l'air ;
+4° La section de recherches de la gendarmerie de l'air ;
 
 5° La section de recherches de la gendarmerie des transports aériens ;
 
-6° La brigade de recherches du groupement de gendarmerie maritime de
-l'Atlantique.
+6° La section de recherches de la gendarmerie de l'armement ;
+
+7° La section de recherches de la gendarmerie maritime ;
+
+8° Les brigades nautiques et fluviales de la gendarmerie départementale
+comportant des pôles de plongée à palier.
