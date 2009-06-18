@@ -1,10 +1,32 @@
 Article R492-5
 ----
-La déclaration de candidature prévue à l'article L. 492-2 comporte les nom,
-prénoms, date et lieu de naissance, domicile et profession du candidat. Elle est
-adressée, revêtue de la signature du candidat, au préfet dans un délai de huit
-jours à compter de la publication des listes électorales. Un récépissé est
-délivré au déclarant.
+Le préfet arrête avant le 1er novembre de l'année précédant l'élection les
+listes électorales pour chacun des tribunaux paritaires de baux ruraux sur
+proposition d'une commission dénommée commission de préparation des listes
+électorales qui est instituée par arrêté préfectoral avant le 1er septembre
+précédant la date de clôture du scrutin. Cette commission comprend :
 
-Les noms des candidats sont affichés dans chaque mairie huit jours au moins
-avant la date du scrutin.
+- le maire de la commune du siège du tribunal paritaire ou son représentant,
+président ;
+
+- un fonctionnaire des services déconcentrés de l'Etat compétent en matière
+agricole ;
+
+- un représentant des preneurs désigné sur proposition de l'organisation
+syndicale d'exploitants agricole qui a obtenu le plus de sièges dans la
+catégorie des preneurs lors de la précédente élection des assesseurs du
+tribunal, ou à défaut, de l'organisation nationale la plus représentative ;
+
+- un représentant des bailleurs désigné sur proposition de l'organisation
+syndicale qui a obtenu le plus de sièges dans la catégorie des bailleurs lors de
+la précédente élection des assesseurs du tribunal, ou, à défaut, de
+l'organisation nationale la plus représentative.
+
+La commission siège entre le 1er septembre et le 15 octobre de l'année précédant
+celle de l'élection et se réunit durant cette période à l'initiative de son
+président.
+
+Le siège de la commission est fixé à la mairie du siège du tribunal paritaire.
+
+Le secrétariat de la commission est assuré par un fonctionnaire désigné par le
+préfet.
