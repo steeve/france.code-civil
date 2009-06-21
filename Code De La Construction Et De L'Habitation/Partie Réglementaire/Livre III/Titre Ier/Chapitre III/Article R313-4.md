@@ -12,8 +12,7 @@ logements à réaliser au cours de cette même année ;
 c) la somme totale à investir, compte tenu, le cas échéant, des remboursements
 et aliénations d'investissements antérieurs ;
 
-d) le montant de l'investissement à réaliser en faveur des immigrés, d'une part,
-des autres salariés, d'autre part ;
+d) (Abrogé)
 
 e) le montant des investissements réalisés au cours de l'année considérée, les
 modalités selon lesquelles ces investissements ont été effectués et la date à
