@@ -1,22 +1,21 @@
 Article D2333-91
 ----
-Sont réputés employeurs de plus de neuf salariés ceux qui sont tenus au paiement
-mensuel des cotisations de sécurité sociale ou d'allocations familiales en
-application de l'article R. 243-6 du code de la sécurité sociale.
+Pour l'application des dispositions prévues à l'article L. 2333-64, l'effectif
+des salariés, calculé au 31 décembre, est égal à la moyenne des effectifs
+déterminés chaque mois de l'année civile. Pour la détermination des effectifs du
+mois, il est tenu compte des salariés dont le lieu de travail est situé dans le
+périmètre de l'une des zones mentionnées aux 1° et 2° de l'article L. 2333-64 et
+qui sont titulaires d'un contrat de travail le dernier jour de chaque mois, y
+compris les salariés absents, conformément aux dispositions des articles L.
+1111-2, L. 1111-3 et L. 1251-54 du code du travail.
 
-Lorsque la déclaration annuelle de salaires, prévue à l'article R. 243-14 du
-code de la sécurité sociale, d'un employeur non tenu au paiement mensuel des
-cotisations et dont les effectifs sont soumis à fluctuations, permet de
-constater que l'effectif annuel obtenu en faisant la moyenne arithmétique des
-effectifs du dernier jour de chaque trimestre est supérieur à neuf, cet
-employeur est considéré comme ayant occupé plus de neuf salariés durant l'année
-entière et fait en conséquence l'objet d'un rappel de versement.
+Pour un établissement créé en cours d'année, ou une implantation d'activité ne
+donnant pas lieu à création d'établissement, l'effectif est apprécié à la date
+de la création ou de l'implantation. Au titre de l'année suivante, l'effectif
+est apprécié dans les conditions définies aux deux alinéas précédents, en
+fonction de la moyenne des effectifs de chacun des mois d'existence de la
+première année.
 
-L'employeur dont le personnel salarié s'accroît pendant l'année pour devenir
-supérieur à neuf de manière durable peut le signaler à l'organisme de
-recouvrement en vue d'effectuer le versement sans attendre que lui soit appliqué
-le rappel mentionné à l'alinéa précédent.
-
-L'employeur dont le personnel salarié diminue pour devenir inférieur ou au plus
-égal à neuf de manière durable peut, de même, le déclarer à l'organisme de
-recouvrement en vue de cesser le versement.
+Pour la détermination de la moyenne mentionnée aux premier et troisième alinéas,
+les mois au cours desquels aucun salarié n'est employé ne sont pas pris en
+compte.

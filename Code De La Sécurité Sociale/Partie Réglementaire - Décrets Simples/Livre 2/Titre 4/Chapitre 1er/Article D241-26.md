@@ -3,8 +3,8 @@ Article D241-26
 Pour l'application des articles D. 241-7 et D. 241-24, l'effectif de
 l'entreprise est apprécié au 31 décembre, tous établissements confondus, en
 fonction de la moyenne, au cours de l'année civile, des effectifs déterminés
-chaque mois conformément aux dispositions des articles L. 620-10 et L. 620-11 du
-code du travail.
+chaque mois conformément aux dispositions des articles L. 1111-2, L. 1111-3 et
+L. 1251-54 du code du travail.
 
 Cet effectif détermine, selon le cas, la formule de calcul du coefficient de la
 réduction visée à l'article D. 241-7 et le montant de la déduction forfaitaire
@@ -16,3 +16,7 @@ Pour une entreprise créée en cours d'année, l'effectif est apprécié à la d
 sa création. Au titre de l'année suivante, l'effectif de cette entreprise est
 apprécié dans les conditions définies aux deux alinéas précédents, en fonction
 de la moyenne des effectifs de chacun des mois d'existence de la première année.
+
+Pour la détermination de la moyenne mentionnée aux premier et troisième alinéas,
+les mois au cours desquels aucun salarié n'est employé ne sont pas pris en
+compte.
