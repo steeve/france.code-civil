@@ -1,23 +1,16 @@
 Article R1132-28
 ----
-Les recettes de l'institut comprennent notamment :
+Le conseil d'administration ne peut valablement délibérer que si la moitié au
+moins de ses membres est présente ou réputée présente.
 
-1° Une dotation annuelle de l'Etat ;
+Sont réputés présents les membres participant à la réunion du conseil par des
+moyens de visioconférence ou de communication électronique permettant leur
+identification et leur participation effective à une délibération collégiale.
 
-2° Des contributions financières des différents ministères pour les actions
-spécifiques organisées à leur profit ;
+Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même
+ordre du jour dans un délai de quinze jours. Il délibère alors valablement quel
+que soit le nombre de membres présents.
 
-3° Des subventions des collectivités publiques et de tout organisme public ou
-privé, français, étranger ou international ;
-
-4° Les ressources provenant des activités de formation, des congrès, colloques
-et manifestations qu'il organise et des prestations de services qu'il assure ;
-
-5° Les produits correspondant aux travaux qu'il exécute et aux publications
-qu'il édite ;
-
-6° Les recettes provenant des dons et legs et de la participation des employeurs
-au financement des formations professionnelles continues ;
-
-7° Les revenus de ses biens meubles et immeubles et, de manière générale, toutes
-les recettes autorisées par les lois et règlements.
+Les délibérations du conseil sont adoptées à la majorité des membres présents ou
+réputés présents. En cas de partage égal des voix, celle du président du conseil
+d'administration est prépondérante.
