@@ -1,11 +1,11 @@
 Article Annexe Tableau IV
 ----
-Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des
-tribunaux de grande instance et de première instance, des chambres détachées des
-tribunaux de grande instance, des sections détachées des tribunaux de première
-instance, des tribunaux d'instance et des juridictions de proximité (annexe des
-articles D. 211-1, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22,
-D. 532-2, D. 552-1, D. 552-17, D. 562-1 et D. 562-26)
+SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES
+TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE, DES CHAMBRES DÉTACHÉES DES
+TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE
+INSTANCE, DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES
+ARTICLES D. 211-1, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22,
+D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26)
 
 Siège du tribunal de grande instance
 
@@ -241,15 +241,15 @@ Cantons d'Aubagne-Est, Aubaune-Ouest, La Ciotat et Roquevaire.
 
 Marseille
 
-Cantons d'Allauch, Marseille - Notre-Dame-du-Mont, Marseille -
-Notre-Dame-Limite, Marseille - Saint-Barthélemy, Marseille - Sainte Marguerite,
-Marseille - Saint-Giniez, Marseille - Saint-Just, Marseille - Saint-Lambert,
-Marseille - Saint-Marcel, Marseille - Saint-Mauront, Marseille-Belsunce,
-Marseille-La Belle-de-Mai, Marseille-La Blancarde, Marseille-La Capelette,
-Marseille-La Pointe-Rouge, Marseille-La Pomme, Marseille-La Rose, Marseille-Le
-Camas, Marseille-Les Cinq-Avenues, Marseille-Les Grands-Carmes, Marseille-Les
-Olives, Marseille-Les Trois Lucs, Marseille-Mazargues, Marseille-Montolivet,
-Marseille-Vauban et Marseille-Verduron.
+Cantons d'Allauch, Marseille-Notre-Dame-du-Mont, Marseille-Notre-Dame-Limite,
+Marseille-Saint-Barthélemy, Marseille-Sainte Marguerite, Marseille-Saint-Giniez,
+Marseille-Saint-Just, Marseille-Saint-Lambert, Marseille-Saint-Marcel,
+Marseille-Saint-Mauront, Marseille-Belsunce, Marseille-La Belle-de-Mai,
+Marseille-La Blancarde, Marseille-La Capelette, Marseille-La Pointe-Rouge,
+Marseille-La Pomme, Marseille-La Rose, Marseille-Le Camas, Marseille-Les
+Cinq-Avenues, Marseille-Les Grands-Carmes, Marseille-Les Olives, Marseille-Les
+Trois Lucs, Marseille-Mazargues, Marseille-Montolivet, Marseille-Vauban et
+Marseille-Verduron.
 
 
 Tarascon
@@ -550,23 +550,21 @@ Craon, Grez-en-Bouère et Saint-Aignan-sur-Roë. (3)]
 
 Cantons d'Argentré, Chailland, Évron, Laval-Est, Laval-Nord-Est,
 Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest. Loiron, Meslay-du-Maine,
-Montsûrs, Saint-Berthevin et Sainte-Suzanne. (3)]
+Montsûrs, Saint-Berthevin et Sainte-Suzanne. (11)]
 
 [Laval
 
-Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est,
-Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée,
-Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est,
-Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le
-Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs,
-Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et
-Villaines-la-Juhel. (4)]
+Cantons d'Ambrières-les-Vallées, Argentré, Bais, Chailland, Couptrain, Ernée,
+Évron, Gorron, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est,
+Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron,
+Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail,
+Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (12 et 3)]
 
 [Mayenne
 
 Cantons d'Ambrières-les-Vallées, Bais, Couptrain, Ernée, Gorron, Landivy,
 Lassay-les-Châteaux, Le Horps, Mayenne-Est, Mayenne Ouest, Pré-en-Pail et
-Villaines-la-Juhel. (3)]
+Villaines-la-Juhel. (11)]
 
 
 Sarthe
@@ -980,29 +978,23 @@ Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Carbon-Blanc,
 Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, La Brède, Le Bouscat,
 Lormont, Mérignac 1er canton, Mérignac 2e canton, Pessac 1er canton, Pessac 2e
 canton, Podensac, Saint-André-de-Cubzac, Saint-Médard-en-Jalles, Talence et
-Villenave-d'Ornon. (3)]
+Villenave-d'Ornon. (9)]
 
 [Bordeaux
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e
-canton, Bordeaux 3e canton, Bordeaux 4e canton, Bordeaux 5e canton, Bordeaux 6e
-canton, Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Captieux,
-Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La
-Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er
-canton, Mérignac 2e canton, Monségur, Pauillac, Pellegrue, Pessac 1er canton,
-Pessac 2e canton, Podensac, Saint-André-de-Cubzac, Saint-Laurent-Médoc,
-Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc,
-Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. (4)]
-
-[La Réole
-
-Cantons de La Réole, Monségur, Pcllcgruc, Saint-Macaire, Sauveterre-de-Guyenne
-et Targon. (3)]
+Cantons de Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton,
+Bordeaux 3e canton, Bordeaux 4e canton, Bordeaux 5e canton, Bordeaux 6e canton,
+Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Carbon-Blanc,
+Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, La Brède, Le Bouscat,
+Lesparre-Médoc, Lormont, Mérignac 1er canton, Mérignac 2e canton, Pauillac,
+Pessac 1er canton, Pessac 2e canton, Podensac, Saint-André-de-Cubzac,
+Saint-Laurent-Médoc, Saint-Médard-en-Jalles, Saint-Vivien-de-Médoc, Talence et
+Villenave-d'Ornon. (10 et 3)]
 
 [Lesparre-Médoc
 
 Cantons de Lesparre-Médoc, Pauillac, Saint-Laurent-Médoc et
-Saint-Vivien-de-Médoc. (3)]
+Saint-Vivien-de-Médoc. (9)]
 
 
 Libourne
@@ -1029,32 +1021,19 @@ Bourges
 
 Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton,
 Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet,
-Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (3)]
+Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)]
 
 [Bourges
 
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton,
-Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton,
-Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré,
+Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton,
+Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Les Aix-d'Angillon,
 Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny,
-Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton et Vierzon 2e
-canton. (4)]
-
-
-Saint-Amand-Montrond
-
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher,
-Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes,
-Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
-
-[Sancerre
-
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Henrichemont, La
-Chapelle-d'Angillon, Léré, Sancergues, Sancerre et Vailly-sur-Sauldre. (3)]
+Vierzon 1er canton et Vierzon 2e canton. (12 et 3)]
 
 [Vierzon
 
-Cantons de Graçay, Lury-sur-Arnon, Vierzon 1er canton et Vierzon 2e canton. (3)]
+Cantons de Graçay, Lury-sur-Arnon, Vierzon 1er canton et Vierzon 2e canton.
+(11)]
 
 
 Indre
@@ -1148,22 +1127,21 @@ Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton
 Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9° canton, Caen 10e canton,
 Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy,
 Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et
-Villers-Bocage. (3)]
+Villers-Bocage. (11)]
 
 [Caen
 
-Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen
-1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen
-8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton,
-Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord,
-Falaise-Sud, Hérouville-Saint-Clair Caen 5e canton, Isigny-sur-Mer, Mortcaux
-Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn,
-Thury-Harcourt et Villers-Bocage. (4)]
+Cantons de Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e
+canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e
+canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully,
+Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair
+Caen 5e canton, Morteaux-Couliboeuf, Ouistreham, Tilly-sur-Seulles, Troarn,
+Thury-Harcourt et Villers-Bocage. (12 et 3)]
 
 [Falaise
 
 Cantons de Bretteville-sur-Laize, Falaise-Nord, Falaise-Sud, Morteaux-Couliboeuf
-et Thury-Harcourt. (3)]
+et Thury-Harcourt. (11)]
 
 
 Vire
@@ -1592,12 +1570,12 @@ Chalon-sur-Saône
 
 [Autun
 
-Cantons d'Autun-Nord, Autun-Sud, Épinac, Issy-l'Évêque, Lucenay l'Évêque et
-Saint-Léger-sous-Beuvray. (3)]
+Cantons d'Autun-Nord, Autun-Sud, Épinac, Issy-l'Évêque, Lucenay-l'Évêque et
+Saint-Léger-sous-Beuvray. (11)]
 
 [Chalon-sur-Saône
 
-Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord,
+Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord,
 Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain,
 Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
 
@@ -1611,14 +1589,14 @@ Sennecey-le-Grand et Verdun-sur-le-Doubs. (4)]
 
 [Le Creusot
 
-Cantons de Couches, Le Creusot-Est, Le Creusot-Ouest, Mesvres et Montcenis. (3)]
+Cantons de Couches, Le Creusot-Est, Le Creusot-Ouest, Mesvres et Montcenis.
+(11)]
 
 [Le Creusot
 
 Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est,
-Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord,
-Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et
-Saint-Léger-sous-Beuvray. (4)]
+Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, et
+Saint-Léger-sous-Beuvray. (12 et 3)]
 
 [Louhans
 
@@ -1668,7 +1646,7 @@ Le Quesnoy-Est, Le Quesnoy-Ouest, Solre le-Château et Trélon.
 
 Maubeuge
 
-Cantons de Bavay, Hautmont, Maubeuge -Nord et Maubeuge -Sud.
+Cantons de Bavay, Hautmont, Maubeuge-Nord et Maubeuge-Sud.
 
 
 Cambrai
@@ -1890,7 +1868,7 @@ Valence
 [Die
 
 Cantons de Bourdeaux, Châtillon-en-Diois, Crest-Nord, Crest-Sud, Die, La
-Motte-Chalancon, Luc-en-Diois et Saillans. (3)]
+Motte-Chalancon, Luc-en-Diois et Saillans. (13)]
 
 [Montélimar
 
@@ -1918,14 +1896,14 @@ Saint-Donat-sur-l'Herbasse et Saint-Jean-en-Royans.
 
 Cantons de Bourg-lès-Valence, Chabeuil, Loriol-sur-Drôme, Portes-lès-Valence,
 Saint-Vallier, Tain-l'Hermitage, Valence 1er canton, Valence 2e canton, Valence
-3e canton et Valence 4e canton. (3)]
+3e canton et Valence 4e canton. (13)]
 
 [Valence
 
 Cantons de Bourdeaux, Bourg-lès-Valence, Chabeuil, Châtillon-en-Diois,
 Crest-Nord, Crest-Sud, Die, La Motte-Chalancon, Loriol-sur-Drôme, Luc-en-Diois,
 Portes-lès-Valence, Saillans, Saint-Vallier, Tain-l'Hermitage, Valence 1er
-canton, Valence 2e canton, Valence 3e canton et Valence 4e canton. (4)]
+canton, Valence 2e canton, Valence 3e canton et Valence 4e canton. (14)]
 
 
 Hautes-Alpes
@@ -2067,16 +2045,31 @@ Guéret
 [Bourganeuf
 
 Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière.
-(3)]
+(9)]
 
 [Guéret
 
-Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye,
-Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix
-Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin,
-Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La
-Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et
-Saint-Vaury. (2 et 3)]
+Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac,
+Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel,
+Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est,
+Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg,
+Saint-Sulpice-les Champs et Saint-Vaury. (9)]
+
+[Guéret
+
+Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,
+
+Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,
+
+Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,
+
+Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,
+
+Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,
+
+La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,
+
+Saint-Sulpice-les Champs et Saint-Vaury. (10)]
 
 
 Haute-Vienne
@@ -2185,7 +2178,7 @@ Saint-Just-en-Chevalet et Saint-Symphorien-de-Lay.
 
 Saint-Etienne
 
-[Le Chambon- Feugerolles
+[Le Chambon-Feugerolles
 
 Cantons de Firminy et Le Chambon-Feugerolles. (3)]
 
@@ -2297,8 +2290,8 @@ Saint-Avold let canton, Saint-Avold 2e canton et Stiring Wendel. (4)]
 
 Sarreguemines
 
-Cantons de Bitche, Rohrbach-lès-Bitche, Sarralbe, Sarreguemines, S arreg uemines
--Campagne et Volmunster.
+Cantons de Bitche, Rohrbach-lès-Bitche, Sarralbe, Sarreguemines, S arreg
+uemines-Campagne et Volmunster.
 
 
 Thionville
@@ -2365,19 +2358,19 @@ Aveyron
 [Millau
 
 Cantons de Campagnac, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Beauzély,
-Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou. (3)]
+Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou. (9)]
 
 [Millau
 
 Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est,
 Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,
 Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et
-Vézins-de-Lévézou. (4)]
+Vézins-de-Lévézou. (10)]
 
 [Saint-Affrique
 
 Cantons de Belmont-sur-Rance, Camarès, Cornus, Saint-Affrique,
-Saint-Rome-de-Tarn et Saint-Sernin-sur-Rance. (3)]
+Saint-Rome-de-Tarn et Saint-Sernin-sur-Rance. (9)]
 
 
 Rodez
@@ -2399,22 +2392,20 @@ Vézins-de-Lévézou.
 
 Cantons de Baraqueville-Sauveterre, Bozouls, Cassagnes-Bégonhès, Conques, La
 Salvetat-Peyralès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars,
-Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Ouest. (3)]
+Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Ouest. (9)]
 
 [Rodez
 
 Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare,
-Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-Truyère, Espalion,
-Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac Vallon, Montbazens,
-Mur-de-Barrez, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac,
-Rodez-Est, Rodez-Nord, Rodez Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac,
-Sainte Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche-de-Rouergue et
-Villeneuve. (4)]
+Cassagnes-Bégonhès, Conques, Decazeville, Laissac, La Salvetat-Peyralès,
+Marcillac-Vallon, Montbazens, Najac, Naucelle, Pont-de-Salars, Réquista,
+Rieupeyroux, Rignac, Rodez-Est, Rodez-Nord, Rodez Ouest,
+Villefranche-de-Rouergue et Villeneuve. (10et 3)]
 
 [Villefranche-de-Rouergue
 
 Cantons d'Aubin, Capdenac-Gare, Decazeville, Montbazens, Najac, Rieupeyroux,
-Villefranche-de-Rouergue et Villeneuve. (3)]
+Villefranche-de-Rouergue et Villeneuve. (9)]
 
 
 Hérault
@@ -2425,19 +2416,19 @@ Béziers
 
 Cantons d'Agde, Bédarieux, Béziers 1er canton, Béziers 2e canton, Béziers 3e
 canton, Béziers 4e canton, Capestang, Florensac, Montagnac, Murviel-lès-Béziers,
-Pézenas, Roujan, Saint-Gervais-sur-Mare et Servian. (3)]
+Pézenas, Roujan, Saint-Gervais-sur-Mare et Servian. (11)]
 
 [Béziers
 
 Cantons d'Agde, Bédarieux, Béziers 1er canton, Béziers 2e canton, Béziers 3e
 canton, Béziers 4e canton, Capestang, Florensac, La Salvetat-sur-Agout,
 Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan,
-Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian. (4)]
+Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian. (12)]
 
 [Saint-Pons-de-Thomières
 
 Cantons de La Salvetat-sur-Agout, Olargues, Olonzac, Saint-Chinian et
-Saint-Pons-de-Thomières. (3)]
+Saint-Pons-de-Thomières. (11)]
 
 
 Montpellier
@@ -2591,7 +2582,19 @@ Epinal
 
 Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle,
 Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau,
-Rambervillers et Xertigny. (2 et 3)]
+Rambervillers et Xertigny. (11)]
+
+[Epinal
+
+Cantons de Bains-les-Bains, Bruyères, Bulgnéville,
+
+Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,
+
+Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
+
+Plombière-les-Bains, Rambervillers, Remiremont,
+
+Saulxures-sur-Moselotte et Xertigny. (12 et 3)]
 
 [Mirecourt
 
@@ -2601,7 +2604,7 @@ Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel
 [Remiremont
 
 Cantons de Le Thillot, Plombières-les-Bains, Remiremont et
-Saulxures-sur-Moselotte. (3)]
+Saulxures-sur-Moselotte. (11)]
 
 [Saint-Dié-des-Vosges (6)]
 
@@ -2863,7 +2866,7 @@ Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher.
 [Vendôme
 
 Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré,
-Savigny-sur-Braye, Selommes, Vendôme 1`t canton et Vendôme 2e canton. (3)]
+Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
 
 Cour d'appel de Paris
 
@@ -2977,7 +2980,7 @@ Paris 13e arrondissement
 
 Canton de Paris 13e canton.
 
-Paris 14' arrondissement
+Paris 14'arrondissement
 
 Canton de Paris 14e canton.
 
@@ -3582,18 +3585,18 @@ Cantons de Fumay, Givet, Revin, Rocroi, Rumigny et Signy-le-Petit. (3)]
 [Sedan
 
 Cantons de Carignan, Mouzon, Raucourt-et-Flaba, Sedan-Est, Sedan Nord et
-Sedan-Ouest. (3)]
+Sedan-Ouest. (13)]
 
 [Sedan
 
 Cantons d'Attigny, Buzancy, Carignan, Grandpré, Le Chesne, Machault, Monthois,
 Mouzon, Raucourt-et-Flaba, Sedan-Est, Sedan Nord, Sedan-Ouest, Tourteron et
-Vouziers. (4)]
+Vouziers. (14)]
 
 [Vouziers
 
 Cantons d'Attigny, Buzancy, Grandpré, Le Chesne, Machault, Monthois, Tourteron
-et Vouziers. (3)]
+et Vouziers. (13)]
 
 
 Aube
@@ -3619,18 +3622,16 @@ Romilly-sur-Seine 2e canton et Villenauxe-la-Grande. (3)]
 Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bouilly, Chavanges, Ervy-le-Châtel,
 Estissac, La Chapelle-Saint-Luc, Lusigny-sur-Barse, Méry-sur-Seine, Piney,
 Ramerupt, Sainte-Savine, Troyes 1er canton, Troyes 2e canton, Troyes 3e canton,
-Troyes 4e canton, Troyes 5e canton, Troyes 6e canton et Troyes 7e canton. (3)]
+Troyes 4e canton, Troyes 5e canton, Troyes 6e canton et Troyes 7e canton. (13)]
 
 [Troyes
 
-Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bar-sur-Aube, Bar-sur-Seine, Bouilly,
-Brienne-le-Château, Chaource, Chavanges, Ervy-le-Châtel, Essoyes, Estissac, La
-Chapelle-Saint-Luc, Les Riceys, Lusigny-sur-Barse, Marcilly-le-Hayer,
-Méry-sur-Seine, Mussy-sur-Seine, Nogent-sur-Seine, Piney, Ramerupt,
-Romilly-sur-Seine 1er canton, Romilly-sur-Seine 2e canton, Sainte-Savine,
+Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bar-sur-Aube, Bouilly,
+Brienne-le-Château, Chavanges, Ervy-le-Châtel, Estissac, La Chapelle-Saint-Luc,
+Lusigny-sur-Barse, Méry-sur-Seine, Piney, Ramerupt, Sainte-Savine,
 Soulaines-Dhuys, Troyes 1er canton, Troyes 2e canton, Troyes 3e canton, Troyes
-4e canton, Troyes 5e canton, Troyes 6e canton, Troyes 7e canton,
-Vendeuvre-sur-Barse et Villenauxe-la-Grande. (4)]
+4e canton, Troyes 5e canton, Troyes 6e canton, Troyes 7e canton et
+Vendeuvre-sur-Barse. (14 et 3)]
 
 
 Marne
@@ -3882,21 +3883,22 @@ Saint-Nazaire
 
 [Paimboeuf
 
-Cantons de Bourgneuf-en-Retz, Paimboeuf, Pornic et Saint-Père-en-Retz. (3)]
+Cantons de Bourgneuf-en-Retz, Paimboeuf, Pornic et Saint-Père-en-Retz. (11)]
 
 [Saint-Nazaire
 
 Cantons de Blain, Guémené-Penfao, Guérande, Herbignac, La Baule-Escoublac, Le
 Croisic, Montoir-de-Bretagne, Pontchâteau, Saint-Gildas-des-Bois,
 Saint-Nazaire-Centre, Saint-Nazaire-Est, Saint-Nazaire-Ouest,
-Saint-Nicolas-de-Redon et Savenay. (3)]
+Saint-Nicolas-de-Redon et Savenay. (11)]
 
 [Saint-Nazaire
 
 Cantons de Blain, Bourgneuf-en-Retz, Guémené-Penfao, Guérande, Herbignac, La
 Baule-Escoublac, Le Croisic, Montoir-de-Bretagne, Paimboeuf, Pontchâteau,
 Pornic, Saint-Gildas-des-Bois, Saint-Nazaire-Centre, Saint-Nazaire-Est,
-Saint-Nazaire-Ouest, Saint-Nicolas-de-Redon, Saint-Père-en-Retz et Savenay. (4)]
+Saint-Nazaire-Ouest, Saint-Nicolas-de-Redon, Saint-Père-en-Retz et Savenay.
+(12)]
 
 
 Morbihan
@@ -4015,17 +4017,17 @@ Saignes et Salers. (3)]
 
 [Murat
 
-Cantons d'Allanche, Condat, Massiac et Murat. (3)]
+Cantons d'Allanche, Condat, Massiac et Murat. (11)]
 
 [Saint-Flour
 
 Cantons de Chaudes-Aigues, Pierrefort, Ruynes-en-Margeride, Saint-Flour-Nord et
-Saint-Flour-Sud. (3)]
+Saint-Flour-Sud. (11)]
 
 [Saint-Flour
 
 Cantons d'Allanche, Chaudes-Aigues, Condat, Massiac, Murat, Pierrefort,
-Ruynes-en-Margeride, Saint-Flour-Nord et Saint-Flour-Sud. (4)]
+Ruynes-en-Margeride, Saint-Flour-Nord et Saint-Flour-Sud. (12)]
 
 
 Haute-Loire
@@ -4434,8 +4436,8 @@ Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]
 Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
-Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban
-4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
+Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
+canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
 Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)
 
 Cour d'appel de Versailles
@@ -4562,15 +4564,16 @@ Viarmes. (3)]
 
 [Gonesse
 
-A l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy
--Charles-de-Gaulle, cantons de Garges-lès-Gonesse-Est, Garges-lès-Gonesse-Ouest,
-Gonesse, Goussainville, Luzarches (uniquement les communes de Fosses,
-Marly-la-Ville, Saint-Witz, Survilliers) et Villiers-le-Bel. (3)]
+A l'exception de l'emprise des aérodromes de Paris-Le Bourget et de
+Roissy-Charles-de-Gaulle, cantons de Garges-lès-Gonesse-Est,
+Garges-lès-Gonesse-Ouest, Gonesse, Goussainville, Luzarches (uniquement les
+communes de Fosses, Marly-la-Ville, Saint-Witz, Survilliers) et Villiers-le-Bel.
+(3)]
 
 [Gonesse
 
-A l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy
--Charles-de-Gaulle, cantons de Domont, Ecouen, Garges-lès Gonesse-Est,
+A l'exception de l'emprise des aérodromes de Paris-Le Bourget et de
+Roissy-Charles-de-Gaulle, cantons de Domont, Ecouen, Garges-lès Gonesse-Est,
 Garges-lès-Gonesse-Ouest, Gonesse, Goussainville, Luzarches, Sarcelles-Nord-Est,
 Sarcelles-Sud-Ouest, Viarmes et Villiers-le-Bel. (4)]
 
@@ -4693,7 +4696,10 @@ Nuku-Hiva
 
 ..
 
-Siège du tribunal de première instance et de la juridiction de proximité
+
+Siège du tribunal de première instance
+
+et de la juridiction de proximité
 
 
 Ressort
@@ -4734,3 +4740,11 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (9) applicable jusqu'au 30 septembre 2009.
 
 (10) applicable à compter du 1er octobre 2009.
+
+(11) applicable jusqu'au 31 aôut 2009.
+
+(12) applicable à compter du 1er septembre 2009.
+
+(13) applicable jusqu'au 30 juin 2009.
+
+(14) applicable à compter du 1er juillet 2009.

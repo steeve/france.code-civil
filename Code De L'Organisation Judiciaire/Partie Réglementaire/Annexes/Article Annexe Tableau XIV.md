@@ -845,7 +845,7 @@ Charente-Maritime
 
 [La Rochelle
 
-Ressort du tribunal de grande instance de La Rochelle. (3)]
+Ressort du tribunal de grande instance de La Rochelle. (5)]
 
 [La Rochelle
 
@@ -853,7 +853,15 @@ Ressort des tribunaux de grande instance de La Rochelle et Saintes. (4)]
 
 [Rochefort
 
-Ressort des tribunaux de grande instance de Rochefort et Saintes. (3)]
+Ressort des tribunaux de grande instance de Rochefort et Saintes. (5)]
+
+[La Rochelle
+
+Ressort du tribunal de grande instance de La Rochelle. (6)]
+
+[Saintes
+
+Ressort du tribunal de grande instance de Saintes. (6)]
 
 
 Deux-Sèvres
@@ -1149,3 +1157,7 @@ Ressort du tribunal de première instance de Saint-Pierre.
 (3) Applicable jusqu'au 31 décembre 2010.
 
 (4) Applicable à compter du 1er janvier 2011.
+
+(5) Applicable jusqu'au 31 décembre 2010.
+
+(6) Applicable à compter du 1er janvier 2011.

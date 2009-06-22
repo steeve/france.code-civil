@@ -48,7 +48,7 @@ Cantons de Chauny, Coucy-le-Château-Auffrique, La Fère et Tergnier. (3)]
 
 Albert
 
-Cantons d'Albert et Bray-sur-Somme. (3)]
+Cantons d'Albert et Bray-sur-Somme. (11)]
 
 [Senlis
 
@@ -68,7 +68,7 @@ Le Moule
 Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
 
 Morne-à-l'Eau 2e canton, Le Moule 1er canton, Le Moule 2e canton, Petit-Canal,
-Saint-François, Sainte-Anne 1er canton et Sainte-Anne 2e canton.(3)]
+Saint-François, Sainte-Anne 1er canton et Sainte-Anne 2e canton. (3)]
 
 Cour d'appel de Bastia
 
@@ -190,7 +190,7 @@ Cour d'appel de Grenoble
 
 Crest
 
-Cantons de Bourdeaux, Crest-Nord, Crest-Sud et Saillans. (3)]
+Cantons de Bourdeaux, Crest-Nord, Crest-Sud et Saillans. (13)]
 
 Cour d'appel de Lyon
 
@@ -249,14 +249,14 @@ Cour d'appel de Montpellier
 
 Pézenas
 
-Cantons de Florensac, Montagnac, Pézenas et Roujan. (3)]
+Cantons de Florensac, Montagnac, Pézenas et Roujan. (13)]
 
 [Céret
 
 
 Argelès-sur-Mer
 
-Canton d'Argelès-sur-Mer. (3)]
+Canton d'Argelès-sur-Mer. (13)]
 
 Cour d'appel de Nancy
 
@@ -274,7 +274,7 @@ Cour d'appel de Nîmes
 
 La Grand-Combe
 
-Cantons de Génolhac et La Grand-Combe. (3)]
+Cantons de Génolhac et La Grand-Combe. (13)]
 
 [Apt
 
@@ -393,3 +393,7 @@ Fécamp
 Cantons de Fécamp, Goderville et Valmont. (3)]
 
 (3) applicable jusqu'au 31 décembre 2009.
+
+(11) applicable jusqu'au 31 août 2009.
+
+(13) applicable jusqu'au 30 juin 2009.
