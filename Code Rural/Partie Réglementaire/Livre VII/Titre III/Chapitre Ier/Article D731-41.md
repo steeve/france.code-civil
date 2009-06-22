@@ -7,4 +7,5 @@ cotisations calculées selon les modalités prévues à l'article D. 731-40.
 
 Les conditions dans lesquelles la remise gracieuse de la majoration définie au
 premier alinéa peut être accordée sont fixées par arrêté du ministre chargé de
-l'agriculture et du ministre chargé du budget.
+l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé
+du budget.

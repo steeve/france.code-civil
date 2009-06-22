@@ -23,7 +23,8 @@ comprennent les frais funéraires.
 d) Le montant des recours contre tiers.
 
 Les bases d'évaluation forfaitaire des capitaux définis aux b et c ci-dessus
-sont déterminées par arrêté du ministre chargé de l'agriculture.
+sont déterminées par arrêté du ministre chargé de l'agriculture et du ministre
+chargé de la sécurité sociale.
 
 2° Ce taux de risque est affecté d'un coefficient correcteur prenant en compte
 le financement des dépenses de prévention, de gestion, de contrôle médical.

@@ -1,11 +1,12 @@
 Article D751-74
 ----
-Un arrêté du ministre chargé de l'agriculture fixe les secteurs d'activité
-professionnelle agricole, les catégories de risques dépendant de chacun d'eux,
-ainsi que les taux de cotisations correspondants, après avis de la section de
-l'assurance des salariés agricoles contre les accidents du travail et les
-maladies professionnelles du Conseil supérieur des prestations sociales
-agricoles mentionnée à l'article R. 721-3 (4°).
+Un arrêté du ministre chargé de l'agriculture et du ministre chargé de la
+sécurité sociale fixe les secteurs d'activité professionnelle agricole, les
+catégories de risques dépendant de chacun d'eux, ainsi que les taux de
+cotisations correspondants, après avis de la section de l'assurance des salariés
+agricoles contre les accidents du travail et les maladies professionnelles du
+Conseil supérieur des prestations sociales agricoles mentionnée à l'article R.
+721-3 (4°).
 
 Les taux de cotisations sont fixés d'après les prévisions des charges techniques
 et complémentaires énumérées à l'article L. 751-12 ainsi que celles résultant de

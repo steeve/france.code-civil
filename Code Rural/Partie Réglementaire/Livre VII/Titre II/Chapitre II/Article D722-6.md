@@ -6,11 +6,11 @@ appréciée que selon les modalités prévues à l'article D. 722-5, il est proc
 la totalisation des heures consacrées à ces diverses activités pour déterminer
 si la condition d'affiliation est remplie.
 
-A cet effet, un arrêté du ministre chargé du budget et du ministre chargé de
-l'agriculture fixe le barème suivant lequel est déterminé, en fonction de
-l'importance de l'exploitation par rapport à la surface minimum d'installation,
-le nombre d'heures de travail afférent à la mise en valeur de ladite
-exploitation.
+A cet effet, un arrêté du ministre chargé du budget, du ministre chargé de la
+sécurité sociale et du ministre chargé de l'agriculture fixe le barème suivant
+lequel est déterminé, en fonction de l'importance de l'exploitation par rapport
+à la surface minimum d'installation, le nombre d'heures de travail afférent à la
+mise en valeur de ladite exploitation.
 
 Les activités liées à l'exploitation telles que les activités de
 conditionnement, de stockage, de transformation ou de commercialisation des

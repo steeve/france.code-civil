@@ -17,4 +17,4 @@ s'entend de celle mentionnée à l'article L. 752-24 ;
 contrôle médical ou au médecin chargé du nouvel examen médical sont à la charge
 du régime défini au présent chapitre et réglés par la caisse de mutualité
 sociale agricole ou le groupement selon un tarif fixé par arrêté du ministre
-chargé de l'agriculture.
+chargé de l'agriculture et du ministre chargé de la sécurité sociale.

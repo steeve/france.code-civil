@@ -15,5 +15,5 @@ professionnel a été reconnu au cours de cette période, que la victime ait ou 
 des ayants droit, ces capitaux comprenant les frais funéraires.
 
 Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus
-sont déterminées par arrêté conjoint du ministre chargé de l'agriculture et du
-ministre chargé du budget.
+sont déterminées par arrêté conjoint du ministre chargé de l'agriculture, du
+ministre chargé de la sécurité sociale et du ministre chargé du budget.

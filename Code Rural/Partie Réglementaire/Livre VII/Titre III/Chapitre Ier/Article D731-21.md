@@ -12,4 +12,5 @@ prévues à l'article D. 731-20.
 
 Les conditions dans lesquelles la remise gracieuse des majorations définies aux
 premier et deuxième alinéas peut être accordée sont fixées par arrêté du
-ministre chargé de l'agriculture et du ministre chargé du budget.
+ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et
+du ministre chargé du budget.

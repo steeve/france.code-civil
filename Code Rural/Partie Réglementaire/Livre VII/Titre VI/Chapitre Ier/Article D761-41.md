@@ -8,7 +8,7 @@ est déterminé au premier jour du trimestre civil pour lequel la cotisation est
 due.
 
 Le taux applicable à ce salaire est fixé par arrêté du ministre chargé de
-l'agriculture.
+l'agriculture et du ministre chargé de la sécurité sociale.
 
 Le salaire mentionné au premier alinéa du présent article, tel qu'il est en
 vigueur à la date de l'interruption de scolarité consécutive à l'accident, sert

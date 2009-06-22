@@ -10,9 +10,9 @@ disciplinaire.
 
 Commet également une faute de service passible de sanction disciplinaire l'agent
 comptable qui omet de virer, dans les conditions fixées conjointement par le
-ministre chargé de l'économie et des finances et le ministre chargé de
-l'agriculture, la part des cotisations encaissées par la caisse de mutualité
-sociale agricole et revenant aux caisses centrales.
+ministre chargé du budget, le ministre chargé de la sécurité sociale et le
+ministre chargé de l'agriculture, la part des cotisations encaissées par la
+caisse de mutualité sociale agricole et revenant aux caisses centrales.
 
 L'agent comptable doit périodiquement rapprocher ses écritures de celles de ses
 correspondants.

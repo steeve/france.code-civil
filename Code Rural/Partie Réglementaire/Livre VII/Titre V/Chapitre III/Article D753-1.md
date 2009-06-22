@@ -10,5 +10,5 @@ Caisse centrale de la mutualité sociale agricole.
 Le fonds commun établit pour le 1er mars de chaque année le compte rendu des
 opérations enregistrées entre le 1er janvier et le 31 décembre de l'exercice
 précédent et le transmet, à cette date, au ministre chargé de l'agriculture, au
-ministre de l'économie et des finances et à la Caisse centrale de la mutualité
-sociale agricole.
+ministre chargé de la sécurité sociale, au ministre de l'économie et des
+finances et à la Caisse centrale de la mutualité sociale agricole.

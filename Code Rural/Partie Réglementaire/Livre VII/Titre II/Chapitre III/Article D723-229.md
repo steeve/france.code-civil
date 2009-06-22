@@ -11,11 +11,11 @@ des avances et subventions d'équipement reçues, des provisions et des emprunts
 long et moyen terme figurant au bilan ainsi que du montant des financements
 provenant, le cas échéant, d'une autre réserve ;
 
-2° Une réserve générale composée d'une "part technique" dont le montant est égal
-au total des comptes cotisants nets et des comptes de créances à l'égard des
-prestataires nets majoré des provisions techniques et d'une "part de gestion"
-dont le montant est égal au 1/6 des dépenses de fonctionnement réalisées par
-l'organisme au cours du dernier exercice ;
+2° Une réserve générale composée d'une " part technique " dont le montant est
+égal au total des comptes cotisants nets et des comptes de créances à l'égard
+des prestataires nets majoré des provisions techniques et d'une " part de
+gestion " dont le montant est égal au 1 / 6 des dépenses de fonctionnement
+réalisées par l'organisme au cours du dernier exercice ;
 
 3° Une réserve de solidarité.
 
@@ -29,7 +29,8 @@ minimum, au sixième et, au maximum, à la moitié des dépenses faites au cours
 dernier exercice au titre de la santé au travail.
 
 A titre exceptionnel, des dérogations aux prescriptions ci-dessus peuvent être
-autorisées par le ministre chargé de l'agriculture.
+autorisées par le ministre chargé de l'agriculture et le ministre chargé de la
+sécurité sociale.
 
 Les caisses qui gèrent un régime d'accidents sont tenues de constituer, en plus
 des réserves prévues ci-dessus, les réserves prescrites par les dispositions

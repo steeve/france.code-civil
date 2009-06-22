@@ -13,7 +13,8 @@ frais de gestion, de contrôle médical et d'action sanitaire et sociale ;
 
 3° Un pourcentage de la différence entre l'ensemble des charges du régime défini
 au présent chapitre et le produit des cotisations correspondant aux 1° et 2°. Ce
-pourcentage est fixé par arrêté du ministre chargé de l'agriculture.
+pourcentage est fixé par arrêté du ministre chargé de l'agriculture et du
+ministre chargé de la sécurité sociale.
 
 La somme de ces trois éléments est divisée par le produit des cotisations tel
 qu'il est déterminé au 1°.

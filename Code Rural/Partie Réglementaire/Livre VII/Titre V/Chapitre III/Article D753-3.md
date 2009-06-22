@@ -8,6 +8,6 @@ statistiques indiquant, notamment, pour ce qui est de la revalorisation des
 rentes, le nombre, par tranches d'âges, des salariés et ayants droit
 bénéficiaires de prestations et le montant correspondant de ces prestations.
 
-Ces documents sont transmis au ministre chargé de l'agriculture et au ministre
-chargé de l'économie et des finances et à la Caisse centrale de la mutualité
-sociale agricole.
+Ces documents sont transmis au ministre chargé de l'agriculture, au ministre
+chargé de la sécurité sociale et au ministre chargé de l'économie et des
+finances et à la Caisse centrale de la mutualité sociale agricole.

@@ -22,5 +22,5 @@ caisses ;
 
 Les modalités de ces prêts, notamment leur montant maximal, leurs conditions
 d'attribution, leur taux d'intérêt, leur durée et les garanties à exiger sont
-fixées par arrêtés du ministre chargé de l'agriculture et du ministre chargé de
-l'économie et des finances.
+fixées par arrêtés du ministre chargé de l'agriculture, du ministre chargé de la
+sécurité sociale et du ministre chargé de l'économie et des finances.

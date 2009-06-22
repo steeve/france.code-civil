@@ -1,7 +1,7 @@
 Article D723-216
 ----
-Des instructions particulières du ministre chargé de l'agriculture déterminent
-notamment :
+Des instructions particulières du ministre chargé de l'agriculture et du
+ministre chargé de la sécurité sociale déterminent notamment :
 
 1° Les procédés d'application du plan comptable unique aux organismes de
 mutualité sociale agricole ;

@@ -2,8 +2,8 @@ Article D761-45
 ----
 Le salaire servant de base au calcul des cotisations est égal au double du
 salaire annuel minimal prévu à l'article L. 434-16 du code de la sécurité
-sociale. Un arrêté du ministre chargé de l'agriculture peut fixer des
-cotisations forfaitaires.
+sociale. Un arrêté du ministre chargé de l'agriculture et du ministre chargé de
+la sécurité sociale peut fixer des cotisations forfaitaires.
 
 Le salaire servant de base au calcul des indemnités et des rentes est égal au
 double du salaire minimal prévu à l'article D. 751-12, tel qu'il est en vigueur
