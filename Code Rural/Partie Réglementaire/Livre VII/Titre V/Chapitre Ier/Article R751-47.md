@@ -17,8 +17,8 @@ gratifications et tous autres avantages en argent, les avantages en nature ainsi
 que, le cas échéant, les sommes perçues directement ou par l'entremise d'un
 tiers à titre de pourboire. La valeur représentative des avantages en nature ne
 peut être inférieure à celle qui est déterminée pour le calcul du salaire de
-base des cotisations par arrêté conjoint du ministre chargé de l'agriculture et
-du ministre chargé du budget.
+base des cotisations par arrêté conjoint du ministre chargé de l'agriculture, du
+ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
 La rémunération de base fait l'objet d'un abattement en raison des frais
 professionnels qui y sont incorporés, lorsque le travailleur bénéficie, en

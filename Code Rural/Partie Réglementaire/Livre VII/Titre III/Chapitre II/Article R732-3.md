@@ -33,6 +33,7 @@ La part excédant les avantages de vieillesse auxquels l'assuré peut prétendre
 cette date lui reste acquise. Elle peut être supprimée ou suspendue dans les
 conditions prévues à l'article R. 732-5 tant que l'assuré n'a pas atteint l'âge
 de soixante-cinq ans. Elle lui est servie, sauf dispositions contraires prévues
-par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget,
-au même titre et dans les mêmes conditions que la pension de retraite ou
-l'allocation d'assurance vieillesse agricole.
+par arrêté du ministre chargé de l'agriculture, du ministre chargé de la
+sécurité sociale et du ministre chargé du budget, au même titre et dans les
+mêmes conditions que la pension de retraite ou l'allocation d'assurance
+vieillesse agricole.

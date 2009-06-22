@@ -25,6 +25,7 @@ rapport ;
 5° De décider la fusion de caisses de mutualité sociale agricole dans les
 conditions fixées par l'article L. 723-4 ;
 
-6° D'adresser au ministre chargé de l'agriculture toutes propositions utiles en
-vue d'apporter à la réglementation en vigueur les adaptations jugées nécessaires
-pour une meilleure application du régime de sécurité sociale agricole.
+6° D'adresser au ministre chargé de l'agriculture et au ministre chargé de la
+sécurité sociale toutes propositions utiles en vue d'apporter à la
+réglementation en vigueur les adaptations jugées nécessaires pour une meilleure
+application du régime de sécurité sociale agricole.

@@ -43,4 +43,5 @@ Pour certaines catégories de salariés ou assimilés soumis à des conditions
 particulières de rémunérations résultant du caractère normalement discontinu ou
 occasionnel du travail, le salaire journalier de base mentionné au premier
 alinéa peut être adapté à ces conditions particulières de rémunérations suivant
-les modalités fixées par arrêté du ministre chargé de l'agriculture.
+les modalités fixées par arrêté du ministre chargé de l'agriculture et du
+ministre chargé de la sécurité sociale.

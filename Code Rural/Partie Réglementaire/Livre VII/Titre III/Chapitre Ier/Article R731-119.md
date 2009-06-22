@@ -3,12 +3,12 @@ Article R731-119
 Les caisses de mutualité sociale agricole et tous autres organismes assureurs et
 groupements d'organismes sont soumis, pour les opérations de l'assurance et sans
 préjudice de tous autres contrôles régulièrement institués, au contrôle du
-ministre chargé de l'agriculture et du ministre chargé de l'économie et des
-finances.
+ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et
+du ministre chargé de l'économie et des finances.
 
-Le contrôle du ministre chargé de l'agriculture s'exerce par l'intermédiaire de
-l'inspection générale des affaires sociales et du service de l'inspection du
-travail, de l'emploi et de la politique sociale agricoles.
+Le contrôle des ministres chargés de l'agriculture et de la sécurité sociale
+s'exerce par l'intermédiaire des services placés sous leur autorité et de
+l'inspection générale des affaires sociales.
 
 Le contrôle du ministre chargé de l'économie et des finances s'exerce notamment
 par l'intermédiaire de l'inspection des finances, des commissaires contrôleurs

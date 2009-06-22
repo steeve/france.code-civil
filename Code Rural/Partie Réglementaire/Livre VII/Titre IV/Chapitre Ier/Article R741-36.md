@@ -2,7 +2,8 @@ Article R741-36
 ----
 La valeur représentative des avantages en nature à prendre en considération pour
 le calcul des cotisations est déterminée par arrêté conjoint du ministre chargé
-de l'agriculture et du ministre chargé du budget.
+de l'agriculture, du ministre chargé de la sécurité sociale et du ministre
+chargé du budget.
 
 Sont incluses dans la rémunération servant de base au calcul des cotisations les
 allocations complémentaires aux indemnités journalières de sécurité sociale

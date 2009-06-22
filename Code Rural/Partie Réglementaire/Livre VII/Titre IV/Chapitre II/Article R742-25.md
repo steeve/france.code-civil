@@ -25,6 +25,6 @@ immatriculation à l'assurance obligatoire ; toutefois, ce délai ne pourra veni
 à expiration avant le 1er janvier 2003.
 
 Les demandes de rachat doivent être présentées, dans des conditions fixées par
-arrêté du ministre chargé de l'agriculture, à la caisse mentionnée à l'article
-D. 742-27. Cet organisme est compétent pour l'encaissement des cotisations de
-rachat.
+arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité
+sociale, à la caisse mentionnée à l'article D. 742-27. Cet organisme est
+compétent pour l'encaissement des cotisations de rachat.

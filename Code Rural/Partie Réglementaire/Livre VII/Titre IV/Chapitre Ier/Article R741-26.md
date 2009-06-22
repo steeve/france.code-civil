@@ -18,8 +18,8 @@ demande de remise ainsi que du délai dans lequel cette demande doit être
 présentée sous peine de forclusion.
 
 Le délai dans lequel doit être présentée la demande de remise des pénalités et
-majorations de retard est fixé par arrêté du ministre chargé de l'agriculture et
-du ministre chargé du budget.
+majorations de retard est fixé par arrêté du ministre chargé de l'agriculture,
+du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
 Les décisions sont motivées. En cas de remise totale ou partielle, elles
 doivent, lorsqu'elles portent sur une somme excédant un seuil fixé par arrêté du

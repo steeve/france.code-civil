@@ -41,5 +41,5 @@ code de la sécurité sociale est porté à trois mois.
 III.-Le délai dans lequel doit être présentée la demande de remise des pénalités
 et majorations de retard ainsi que le montant de la remise au-delà duquel les
 décisions de remise totale ou partielle doivent être approuvées par le préfet de
-région sont fixés par arrêté du ministre chargé de l'agriculture et du ministre
-chargé du budget.
+région sont fixés par arrêté du ministre chargé de l'agriculture, du ministre
+chargé de la sécurité sociale et du ministre chargé du budget.

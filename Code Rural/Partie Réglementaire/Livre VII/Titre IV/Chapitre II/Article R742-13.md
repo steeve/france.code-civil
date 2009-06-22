@@ -1,7 +1,7 @@
 Article R742-13
 ----
-Un arrêté du ministre chargé de l'agriculture fixe, pour les salariés agricoles
-:
+Un arrêté du ministre chargé de l'agriculture et du ministre chargé de la
+sécurité sociale fixe, pour les salariés agricoles :
 
 1° Les modalités selon lesquelles est déterminé le gain journalier servant de
 base au calcul des indemnités journalières dues aux assurés appartenant aux

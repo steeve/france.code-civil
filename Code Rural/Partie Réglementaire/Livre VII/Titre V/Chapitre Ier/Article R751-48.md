@@ -22,4 +22,5 @@ réglé au moins une fois par mois, mais l'est au moins une fois par trimestre.
 
 L'indemnité journalière calculée à partir de ce salaire journalier ne peut
 dépasser le montant du gain journalier net perçu par la victime et déterminé
-selon des modalités fixées par arrêté du ministre chargé de l'agriculture.
+selon des modalités fixées par arrêté du ministre chargé de l'agriculture et du
+ministre chargé de la sécurité sociale.
