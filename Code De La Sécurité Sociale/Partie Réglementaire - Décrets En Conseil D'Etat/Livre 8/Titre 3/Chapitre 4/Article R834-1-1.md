@@ -1,14 +1,13 @@
-Article R6331-1
+Article R834-1-1
 ----
-Pour la détermination du montant de la participation des employeurs au
-développement de la formation professionnelle continue, l'effectif de
+Pour l'application des dispositions prévues à l'article L. 834-1, l'effectif de
 l'entreprise calculé au 31 décembre, tous établissements confondus, est égal à
 la moyenne des effectifs déterminés chaque mois de l'année civile.
 
 Pour la détermination des effectifs du mois, il est tenu compte des salariés
 titulaires d'un contrat de travail le dernier jour de chaque mois, y compris les
 salariés absents, conformément aux dispositions des articles L. 1111-2, L.
-1111-3 et L. 1251-54.
+1111-3 et L. 1251-54 du code du travail.
 
 Pour une entreprise créée en cours d'année, l'effectif est apprécié à la date de
 sa création. Au titre de l'année suivante, l'effectif de cette entreprise est
