@@ -1,49 +1,43 @@
 Article D99-5
 ----
-La commission consultative des réseaux et services de communications
-électroniques est composée de vingt et un membres nommés par arrêté du ministre
-chargé des communications électroniques, après avis de l'Autorité de régulation
-des communications électroniques et des postes. Elle comprend :
+Le président de la commission mentionnée à l'article D. 99-4 est désigné par le
+ministre chargé des communications électroniques, après avis de l'Autorité de
+régulation des communications électroniques et des postes, parmi les
+personnalités qualifiées, membres de cette commission. Il a voix prépondérante
+en cas de partage des voix.
 
-- sept représentants des exploitants de réseaux et fournisseurs de services
-autres que radioélectriques ;
+Les membres de la commission sont nommés pour trois ans. Les membres qui
+n'exercent plus les fonctions au titre desquelles ils avaient été désignés sont
+remplacés. En cas de vacance, le mandat des nouveaux membres expire à la date à
+laquelle aurait normalement pris fin celui de leur prédécesseur.
 
-- sept représentants des utilisateurs de ces réseaux et services, professionnels
-et particuliers ;
+Les membres désignés, sauf les personnalités qualifiées, peuvent se faire
+représenter par un membre de l'organisme auquel ils appartiennent. Toutefois,
+lorsque le membre titulaire de la commission n'a pas assisté personnellement à
+trois réunions consécutives, le ministre chargé des communications électroniques
+peut, si le président de la commission le propose, procéder au remplacement
+dudit membre.
 
-- sept personnalités qualifiées.
+Le ministre chargé des communications électroniques ou son représentant et le
+président de l'Autorité de régulation des communications électroniques et des
+postes ou son représentant assistent de plein droit, sans voix délibérative, aux
+réunions de la commission consultative.
 
-La commission est consultée par l'autorité compétente sur :
+La commission consultative se réunit au moins deux fois par an, sur proposition
+de son président ou à la demande de la majorité de ses membres.
 
-- les projets visant à définir les procédures de déclaration et à fixer ou
-modifier les conditions techniques et d'exploitation des réseaux et services de
-communications électroniques autres que radioélectriques mentionnés aux articles
-L. 33-1, L. 33-2 et L. 33-3 ;
+Le président de la commission convoque les membres aux réunions et fixe l'ordre
+du jour de celles-ci.
 
-- les projets de spécifications et de prescriptions techniques applicables à ces
-réseaux et services ; la commission tient alors compte des normes, avis ou
-recommandations émanant des instances européennes et internationales ;
+La commission adopte son règlement intérieur, lequel prévoit notamment qu'elle
+peut s'adjoindre, à titre permanent ou temporaire, un ou plusieurs groupes
+techniques spécialisés, créer des groupes de travail, désigner des rapporteurs
+pour l'instruction de questions particulières ou entendre des experts.
 
-- les projets visant à définir les prescriptions relatives à l'interconnexion et
-à la numérotation mentionnées aux articles L. 34-8 et L. 44.
+Les membres de la commission veillent à garantir la confidentialité des faits,
+informations ou documents dont ils ont connaissance dans l'exercice ou à
+l'occasion de leurs fonctions au sein de cette dernière.
 
-La commission peut être saisie, par le ministre chargé des communications
-électroniques ou par l'Autorité de régulation des communications électroniques
-et des postes, de demandes d'avis, d'études ou de toute autre question relevant
-de son domaine de compétence. Elle peut décider, à l'initiative de son président
-et avec l'accord de la majorité de ses membres, de se saisir de toute question
-entrant dans son domaine de compétence. Elle en informe alors le ministre chargé
-des communications électroniques et l'Autorité de régulation des communications
-électroniques et des postes.
-
-Le président de la commission consultative des réseaux et services de
-communications électroniques transmet les avis émis par cette instance au
-ministre chargé des communications électroniques et à l'Autorité de régulation
-des communications électroniques et des postes. Le ministre transmet à la
-Commission supérieure du service public des postes et des communications
-électroniques les avis que la commission consultative des réseaux et services de
-communications électroniques a émis sur les projets sur lesquels elle a été
-consultée. Les avis émis par la commission peuvent être rendus publics, soit à
-l'initiative de l'autorité qui les a sollicités, soit à l'initiative du
-président de la commission, avec l'accord de la majorité des membres de cette
-instance et après que l'autorité de saisine en a été informée.
+La commission est dotée d'un secrétariat assuré par l'Autorité de régulation des
+communications électroniques et des postes et d'un secrétariat adjoint assuré
+par le ministère chargé des communications électroniques.
