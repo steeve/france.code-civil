@@ -5,14 +5,14 @@ l'article L. 732-41 est fixé à 2080 fois le montant horaire du salaire minimum
 de croissance en vigueur au 1er janvier.
 
 Le plafond annuel de ressources du ménage prévu au même alinéa du même article
-est fixé à 1,6 fois le plafond fixé à l'alinéa ci-dessus.
+est fixé à 1, 6 fois le plafond fixé à l'alinéa ci-dessus.
 
 La pension de réversion est attribuée lorsque le conjoint de l'assuré décédé ou
 disparu ne dispose pas de ressources dépassant le montant fixé au premier ou au
 deuxième alinéa. Ces ressources sont appréciées selon les modalités et dans les
-conditions fixées par les articles R. 815-18 à R. 815-20, R. 815-22 à R. 815-25
-et au deuxième alinéa de l'article R. 815-29 du code de la sécurité sociale.
-Toutefois, elles ne comprennent pas :
+conditions fixées par les articles R. 815-18 à R. 815-20, R. 815-22 à R. 815-25,
+R. 815-27 et au deuxième alinéa de l'article R. 815-29 du code de la sécurité
+sociale. Toutefois, elles ne comprennent pas :
 
 1° Les revenus d'activité et de remplacement de l'assuré décédé ;
 
