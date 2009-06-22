@@ -35,4 +35,6 @@ h) Collège et lycée d'Etat à sections internationales de Valbonne
 
 i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
 
-j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
+j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ;
+
+k) Lycée-collège d'Etat de Sourdun.
