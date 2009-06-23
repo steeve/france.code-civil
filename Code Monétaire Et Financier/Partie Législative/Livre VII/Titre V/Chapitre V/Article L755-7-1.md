@@ -7,11 +7,12 @@ prestations relatives à la mise à disposition de moyens de paiement et de
 transfert de fonds, comprenant notamment les chèques postaux, les cartes de
 paiement, les mandats et les envois contre remboursement.
 
-Il peut distribuer les livrets A et les livrets supplémentaires de la Caisse
-nationale d'épargne selon des modalités prévues par une convention conclue avec
-l'Etat et la Caisse des dépôts et consignations qui fixe notamment la commission
-versée à l'office au titre de cette distribution. Les dépôts sur ces livrets
-sont centralisés par la Caisse des dépôts et consignations.
+Le livret A est distribué par l'office des postes et télécommunications dans les
+conditions fixées par les articles L. 221-2 à L. 221-4, L. 221-6 à L. 221-9 et
+L. 221-38. La totalité des fonds collectés au titre de ce livret est centralisée
+par la Caisse des dépôts et consignations dans le fonds mentionné à l'article L.
+221-7.L'office perçoit une rémunération dont les modalités sont fixées par le
+décret prévu au premier alinéa de l'article L. 221-6.
 
 Pour le compte d'établissements de crédit agréés en application de l'article L.
 511-10, il peut recevoir les dépôts d'épargne-logement et distribuer des prêts

@@ -5,7 +5,8 @@ Wallis-et-Futuna, l'institut d'émission d'outre-mer assure, en liaison avec la
 Banque de France, la centralisation des incidents de paiement et des
 informations permettant d'identifier l'ensemble des comptes détenus par les
 personnes mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article
-L. 163-6.
+L. 163-6. Il garantit également le respect des dispositions de l'article L.
+221-38.
 
 L'institut d'émission d'outre-mer s'assure, en liaison avec la Banque de France,
 de la sécurité des moyens de paiement tels que définis à l'article L. 311-3,

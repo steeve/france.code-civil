@@ -1,14 +1,40 @@
 Article L752-6-1
 ----
-I. ― Les articles L. 221-35 et L. 221-37 sont applicables en Polynésie française
-sous réserve des adaptations prévues au II.
+Les articles L. 221-1 à L. 221-9 et L. 221-38 sont applicables en Polynésie
+française sous réserve des adaptations suivantes :
 
-II. ― 1° L'article L. 221-35 est complété par la phrase suivante : " Ces
-dispositions sont applicables à l'office des postes et télécommunications. ” ;
+1° Aux articles L. 221-2, L. 221-4 et L. 221-6, les mots : " l'établissement de
+crédit mentionné à l'article L. 518-25-1 " sont remplacés par les mots : "
+l'office des postes et télécommunications " ;
 
-2° L'article L. 221-37 est remplacé par les dispositions suivantes :
+2° A l'article L. 221-3 :
 
-Art.L. 221-37.-En ce qui concerne les établissements de crédit, des agents de
-l'Institut d'émission d'outre-mer désignés à cet effet sont qualifiés pour
-procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
-par procès-verbal des infractions aux dispositions de l'article L. 221-35.
+a) Au premier alinéa, les mots : ", aux associations mentionnées au 5 de
+l'article 206 du code général des impôts et aux organismes d'habitations à loyer
+modéré " sont supprimés ;
+
+b) Au troisième alinéa, les mots : " ou d'un seul compte spécial sur livret du
+Crédit mutuel ouvert avant le 1er janvier 2009 " sont supprimés ;
+
+3° A l'article L. 221-5 :
+
+a) Au premier alinéa, les mots : " et du livret de développement durable régi
+par l'article L. 221-27 " sont supprimés et les mots : " l'un ou l'autre livret
+" sont remplacés par les mots : " ce livret " ;
+
+b) Au deuxième alinéa, les mots : " et du livret de développement durable " sont
+supprimés et les mots : " ces livrets " sont remplacés par les mots : " ce
+livret " ;
+
+c) Aux quatrième et cinquième alinéas, les mots : " ou le livret de
+développement durable " sont supprimés ;
+
+d) Au cinquième alinéa, les mots : " ces deux livrets " sont remplacés par les
+mots : " ce livret " ;
+
+4° Au premier alinéa de l'article L. 221-6, les mots : " et ceux distribuant le
+livret de développement durable " sont supprimés ;
+
+5° A l'article L. 221-8, les mots : " ainsi que celles relatives aux comptes
+spéciaux sur livret du Crédit mutuel ouverts avant le 1er janvier 2009 " sont
+supprimés.
