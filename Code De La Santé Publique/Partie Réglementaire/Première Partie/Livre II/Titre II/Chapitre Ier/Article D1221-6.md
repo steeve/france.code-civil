@@ -11,9 +11,9 @@ cellulaires :
 
 a) La détermination du groupe dans le système ABO ;
 
-b) La détermination du groupe Rh D (RH1) et, en cas de Rh D négatif (RH : - 1),
-la détermination des autres antigènes du système rhésus : C (RH2), E (RH3), c
-(RH4) et e (RH5) ;
+b) La détermination du groupe Rh D (RH1) et, en cas de Rh D négatif (RH :-1), la
+détermination des autres antigènes du système rhésus : C (RH2), E (RH3), c (RH4)
+et e (RH5) ;
 
 2° La recherche des anticorps anti-érythrocytaires pouvant avoir une incidence
 clinique transfusionnelle ;
@@ -39,8 +39,7 @@ d) La détection des anticorps anti-VHC ;
 e) La détection des anticorps anti-HTLV-I et anti-HTLV-II ;
 
 f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné
-dans une zone d'endémie telle que définie par l'Organisation mondiale de la
-santé lorsque le prélèvement est effectué plus de quatre mois et moins de trois
-ans après la date de leur retour de la zone d'endémie ;
+dans une zone d'endémie dans les conditions fixées par l'arrêté prévu à
+l'article R. 1221-5 ;
 
 g) La détection des anticorps anti-HBc.
