@@ -64,10 +64,14 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de
+d. Pour les redevables placés sous le régime simplifié d'imposition et tenus de
 verser des acomptes en avril, juillet, octobre et décembre, en application du 3
 de l'article 287 du code général des impôts, les jours limites de paiement au
-cours de ces mois sont ceux prévus aux b et c.
+cours de ces mois sont ceux prévus aux b, c et e.
+
+e. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les
+redevables visés au premier alinéa du I de l'article 95 de l'annexe III et
+placés sous le régime de la déclaration : au plus tard le 19 du mois suivant.
 
 2° (périmé).
 
