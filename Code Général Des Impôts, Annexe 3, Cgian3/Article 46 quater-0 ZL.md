@@ -36,6 +36,12 @@ c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du
 groupe de l'une des sociétés mentionnées ci-dessus, en application des
 dispositions du troisième alinéa de l'article 223 R du code général des impôts.
 
+6 bis. Dans les situations mentionnées au h du 6 de l'article 223 L du code
+général des impôts, des états faisant apparaître, par société sortie du groupe,
+la quotité du déficit et de la moins-value nette à long terme d'ensemble
+mentionnée au deuxième alinéa de l'article 223 E du code général des impôts
+revenant à chacune d'elles.
+
 7. (Périmé)
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des

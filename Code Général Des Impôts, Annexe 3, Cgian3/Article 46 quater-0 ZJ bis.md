@@ -41,3 +41,28 @@ titre de l'exercice le plus ancien ;
 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5
 de l'article 223 I du code général des impôts est réduite à due concurrence.
+
+3. La société qui sort d'un groupe d'intégration fiscale dans les conditions
+prévues au deuxième alinéa de l'article 223 E du code général des impôts
+conserve le droit d'imputer sur son bénéfice :
+
+1° Dans le cas où le résultat d'ensemble du groupe est déficitaire, le montant
+de son déficit pris en compte pour la détermination du résultat d'ensemble de
+l'exercice, multiplié par le rapport entre, au numérateur, le déficit d'ensemble
+de l'exercice et, au dénominateur, la somme des déficits des sociétés du groupe
+pris en compte pour la détermination du résultat d'ensemble de l'exercice,
+auquel s'ajoute le montant qu'elle aurait pu imputer sur son bénéfice en sortant
+du groupe au cours de l'exercice précédent ;
+
+2° Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des
+déficits d'ensemble reportables égale à celle qu'elle aurait obtenue en sortant
+du groupe au cours de l'exercice précédent.
+
+Le montant déterminé conformément au 1° ou au 2° est réduit dans le rapport
+entre la fraction du déficit d'ensemble susceptible d'être imputé dans les
+conditions prévues à l' article 223 G du code général des impôts et le montant
+global du déficit d'ensemble encore reportable à la clôture de l'exercice du
+groupe précédant celui au cours duquel intervient la sortie de la société.
+
+La moins-value nette à long terme que la société conserve le droit d'imputer sur
+ses plus-values nettes à long terme est déterminée selon les mêmes modalités.
