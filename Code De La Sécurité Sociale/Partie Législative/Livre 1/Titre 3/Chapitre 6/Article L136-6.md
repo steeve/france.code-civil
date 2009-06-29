@@ -16,9 +16,10 @@ d) (Abrogé)
 
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
-négociables, soumis à l'impôt sur le revenu à un taux proportionnel de même que
-des avantages définis aux 6 et 6 bis de l'article 200 A du même code et du gain
-défini à l'article 150 duodecies du code général des impôts;
+négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
+des distributions définies aux 7 et 8 du II de l'article 150-0 A du code général
+des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
+et du gain défini à l'article 150 duodecies du même code ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
