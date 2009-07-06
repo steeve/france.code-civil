@@ -18,12 +18,12 @@ précédant la publication de la loi n° 2009-879 du 21 juillet 2009 portant
 réforme de l'hôpital et relative aux patients, à la santé et aux territoires
 sont réputées avoir satisfait à l'exigence de maîtrise de la langue française.
 Des dispositions réglementaires fixent les conditions d'organisation de ces
-épreuves et de vérification du niveau de maîtrise de la langue française. Le
-nombre maximum de candidats susceptibles d'être reçus à ces épreuves pour chaque
-profession et pour chaque discipline ou spécialité est fixé par arrêté du
-ministre chargé de la santé en tenant compte, notamment, de l'évolution des
-nombres d'étudiants déterminés conformément aux dispositions du premier alinéa
-de l'article L. 631-1 du code de l'éducation.
+épreuves. Le nombre maximum de candidats susceptibles d'être reçus à ces
+épreuves pour chaque profession et pour chaque discipline ou spécialité est fixé
+par arrêté du ministre chargé de la santé en tenant compte, notamment, de
+l'évolution des nombres d'étudiants déterminés conformément aux dispositions du
+troisième (1) alinéa de l'article L. 631-1 du code de l'éducation et de
+vérification du niveau de maîtrise de la langue française.
 
 Le nombre maximum mentionné à l'alinéa précédent n'est pas opposable aux
 réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la
@@ -55,7 +55,7 @@ connaissances et à l'autorisation d'exercice.
 I bis.-Le ministre chargé de la santé peut également, après avis de la
 commission mentionnée au I, autoriser individuellement à exercer des
 ressortissants d'un Etat autre que ceux membres de l'Union européenne ou parties
-à l'accord sur l'Espace économique européen, titulaires de titres de formation
+à l'accord sur l'Espace économique européen, titulaires des titres de formation
 obtenus dans l'un de ces Etats et dont l'expérience professionnelle est attestée
 par tout moyen. Le nombre maximum de candidats susceptibles d'être autorisés à
 exercer pour chaque profession et, en ce qui concerne la profession de médecin,
@@ -64,7 +64,7 @@ la santé.
 
 Nul ne peut être candidat plus de trois fois à l'autorisation d'exercice.
 
-II. - L'autorité compétente peut également, après avis d'une commission composée
+II.-L'autorité compétente peut également, après avis d'une commission composée
 notamment de professionnels, autoriser individuellement à exercer la profession
 de médecin dans la spécialité concernée, de chirurgien-dentiste, le cas échéant
 dans la spécialité, ou de sage-femme les ressortissants d'un Etat membre de
