@@ -11,7 +11,7 @@ décisions :
 
 1° Du secrétariat général de la défense nationale au titre des missions dévolues
 à la commission de défense nationale en matière de communications électroniques
-et à la direction centrale de la sécurité des systèmes d'information ;
+et à l'Agence nationale de la sécurité des systèmes d'information ;
 
 2° De la commission interministérielle de coordination des réseaux et services
 de communications électroniques pour la défense et la sécurité publique,

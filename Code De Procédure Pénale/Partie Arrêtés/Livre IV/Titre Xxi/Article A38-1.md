@@ -12,5 +12,5 @@ La retransmission doit s'effectuer conformément aux normes H320 ou H323 et aux
 normes UIT (Union internationale des télécommunications) associées.
 
 Lorsqu'il est procédé au chiffrement de la liaison, celui-ci doit être effectué
-avec des moyens matériels autorisés par la direction centrale de la sécurité des
+avec des moyens matériels autorisés par l'Agence nationale de la sécurité des
 systèmes d'information.
