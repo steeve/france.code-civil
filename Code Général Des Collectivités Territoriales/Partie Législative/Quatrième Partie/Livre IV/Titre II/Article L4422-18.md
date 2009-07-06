@@ -19,8 +19,21 @@ sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la 
 
 Le président est le candidat figurant en tête de la liste élue.
 
-Tout conseiller à l'Assemblée de Corse élu au conseil exécutif est regardé comme
-démissionnaire de ses fonctions de conseiller à l'Assemblée. Toutefois, le
-régime des incompatibilités concernant les conseillers à l'Assemblée de Corse
-lui reste applicable. Il est remplacé au sein de l'Assemblée dans les conditions
-prévues à l'article L. 380 du code électoral.
+Le mandat de conseiller à l'Assemblée de Corse est incompatible avec la fonction
+de conseiller exécutif de Corse.
+
+Tout conseiller à l'Assemblée de Corse élu au conseil exécutif de Corse dispose
+d'un délai d'un mois à partir de la date à laquelle cette élection est devenue
+définitive pour démissionner de son mandat de conseiller à l'Assemblée de Corse
+ou de sa fonction de conseiller exécutif. Il fait connaître son option par écrit
+au représentant de l'Etat dans la collectivité territoriale de Corse, qui en
+informe le président de l'Assemblée de Corse.
+
+A défaut d'option dans le délai imparti, il est réputé démissionnaire de son
+mandat ; cette démission est constatée par arrêté du représentant de l'Etat dans
+la collectivité territoriale de Corse.
+
+Le régime des incompatibilités concernant les conseillers à l'Assemblée de Corse
+reste applicable au conseiller à l'Assemblée de Corse démissionnaire pour cause
+d'acceptation de la fonction de conseiller exécutif. Il est remplacé au sein de
+l'assemblée dans les conditions prévues à l'article L. 380 du code électoral.
