@@ -7,32 +7,33 @@ dont les revenus peuvent bénéficier de la déduction calculée en fonction du
 revenu brut ou, si elle est postérieure, de l'année au cours de laquelle les
 parts ont été acquises.
 
-L'engagement de conservation des titres prévu au dixième alinéa du g et h du 1°
-du I de l'article précité est constaté lors du dépôt de la déclaration des
-revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises
-ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de
+Pour l'application du dixième alinéa des g et h du 1° du I de l'article 31 du
+code précité et de l'article 199 septvicies du même code, l'engagement de
+conservation des titres est constaté lors du dépôt de la déclaration des revenus
+de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si
+elle est postérieure, de l'année de l'acquisition ou de l'achèvement de
 l'immeuble. Pour le bénéfice de la déduction au titre de l'amortissement des
 dépenses de reconstruction et d'agrandissement, l'engagement de conservation des
 titres doit être joint à la déclaration des revenus de l'année d'achèvement des
-travaux. L'engagement de conservation des titres formulé par le conjoint
+travaux.L'engagement de conservation des titres formulé par le conjoint
 survivant doit être joint à la déclaration des revenus souscrite par ce dernier
 au titre de l'année du décès de son conjoint pour la période postérieure à cet
 événement.
 
-L'engagement de conservation des titres prévu au quatrième alinéa du m du 1° du
-I de l'article 31 du code général des impôts est constaté lors du dépôt de la
+L'engagement de conservation des titres prévu au sixième alinéa du m du 1° du I
+de l'article 31 du code général des impôts est constaté lors du dépôt de la
 déclaration des revenus de l'année au cours de laquelle la location au locataire
 ouvre droit pour la première fois à la déduction calculée en fonction du revenu
 brut.
 
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction
 calculée en fonction du revenu brut ou de la déduction au titre de
-l'amortissement sont inscrites, dans les trente jours suivant la date limite de
-dépôt de la déclaration des revenus mentionnée au I, sur un compte ouvert au nom
-de l'associé dans la comptabilité de la société ou sur un registre spécial. Les
-documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à
-la fin de la troisième année suivant celle de l'expiration de l'engagement
-mentionné au I.
+l'amortissement ou de la réduction d'impôt sont inscrites, dans les trente jours
+suivant la date limite de dépôt de la déclaration des revenus mentionnée au I,
+sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou
+sur un registre spécial. Les documents relatifs aux opérations ayant affecté ce
+compte sont conservés jusqu'à la fin de la troisième année suivant celle de
+l'expiration de l'engagement mentionné au I.
 
 III.-Les associés joignent à chacune de leurs déclarations des revenus y compris
 pendant la période de mise à disposition du logement prévue au premier alinéa du
