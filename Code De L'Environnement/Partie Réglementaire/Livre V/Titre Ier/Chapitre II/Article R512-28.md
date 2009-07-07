@@ -7,7 +7,14 @@ articles L. 211-1, L. 220-1 et L. 511-1.
 Ces prescriptions tiennent compte notamment, d'une part, de l'efficacité des
 meilleures techniques disponibles et de leur économie, d'autre part, de la
 qualité, de la vocation et de l'utilisation des milieux environnants ainsi que
-de la gestion équilibrée de la ressource en eau.
+de la gestion équilibrée de la ressource en eau. Pour les installations
+mentionnées au b du 4° du II de l'article R. 512-8, ces prescriptions
+comprennent des valeurs limites d'émissions fondées sur les meilleures
+techniques disponibles, au sens de la directive 2008/1/CE du 15 janvier 2008
+relative à la prévention et à la réduction intégrées de la pollution, sans
+prescrire l'utilisation d'une technique ou d'une technologie spécifique, en
+prenant en considération les caractéristiques techniques de l'installation
+concernée et son implantation géographique.
 
 Pour les installations soumises à des règles techniques fixées par un arrêté
 ministériel pris en application de l'article L. 512-5, l'arrêté d'autorisation
