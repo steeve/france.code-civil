@@ -6,9 +6,9 @@ TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 
-A - NOMENCLATURE DES INSTALLATIONS CLASSEES
+A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
-B - TAXE GENERALE SUR LES ACTIVITES POLLUANTES
+B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 
 Désignation de la rubrique
@@ -150,9 +150,7 @@ A
 1
 
 B. Installation traitant exclusivement des déchets analogues aux ordures
-ménagères :
-
-Usines de 4 t/h et plus
+ménagères : Usines de 4 t / h et plus
 
 1
 
@@ -238,18 +236,18 @@ B. traitement :
 
 B. :
 
-1 - broyage
+1-broyage
 
 
 A
 
 1
 
-1. La capacité de traitement est supérieure à 4 t/h
+1. La capacité de traitement est supérieure à 4 t / h
 
 1
 
-2 - décharge ou déposante
+2-décharge ou déposante
 
 
 A
@@ -260,25 +258,25 @@ A
 
 -
 
-3 - compostage
+3-compostage
 
 
 A
 
 1
 
-3. La capacité de traitement est supérieure à 4 t/h
+3. La capacité de traitement est supérieure à 4 t / h
 
 1
 
-4 - incinération
+4-incinération
 
 
 A
 
 2
 
-4. La capacité de traitement est supérieure à 4 t/h
+4. La capacité de traitement est supérieure à 4 t / h
 
 1
 
@@ -296,62 +294,50 @@ A
 
 Substances et préparations dangereuses (définition et classification des).
 
-Définition :
+Définition : Les termes "substances" et "préparations", ainsi que les catégories
+de dangers des substances et préparations dangereuses, notamment celles de
+"comburantes", "explosibles", "facilement inflammables", "toxiques", "très
+toxiques" et "dangereuses pour l'environnement", sont définis aux articles R.
+4411-2 à R. 4411-6 du code du travail. On entend par produit explosif toute
+substance ou préparation explosible et tout produit ouvré comportant des
+substances ou préparation explosibles destiné à être utilisé pour les effets de
+son explosion ou à des fins pyrotechniques.
 
-Les termes substances et préparation , ainsi que les catégories de dangers des
-substances et préparations dangereuses notamment celles de comburantes ,
-explosibles , facilement inflammables , toxiques , très toxiques et dangereuses
-pour l'environnement sont définis à l'article R. 231-51 du code du travail.
-
-Pour les substances dangereuses pour l'environnement, on distingue :
-
-A - Les substances très toxiques pour les organismes aquatiques, y compris
-celles pouvant entraîner des effets néfastes à long terme pour l'environnement
-aquatique, auxquelles sont attribuées les phrases de risques R 50 ou R 50-53
+Pour les substances dangereuses pour l'environnement, on distingue : A-Les
+substances très toxiques pour les organismes aquatiques, y compris celles
+pouvant entraîner des effets néfastes à long terme pour l'environnement
+aquatique, auxquelles sont attribuées les phrases de risques R. 50 ou R. 50-53
 définies par l'arrêté du 20 avril 1994 modifié relatif à la déclaration, la
-classification, l'emballage et l'étiquetage des substances ;
-
-B - Les substances toxiques pour les organismes aquatiques et pouvant entraîner
-des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont
-attribuées les phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994
-susmentionné.
+classification, l'emballage et l'étiquetage des substances ; B-Les substances
+toxiques pour les organismes aquatiques et pouvant entraîner des effets néfastes
+à long terme pour l'environnement aquatique, auxquelles sont attribuées les
+phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994 susmentionné.
 
 Le terme gaz désigne toute substance dont la pression de vapeur absolue est
-égale ou supérieure à 101,3 kPa à une température de 20 oC.
+égale ou supérieure à 101, 3 kPa à une température de 20° C. Le terme liquide
+désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se
+trouve pas à l'état solide à une température de 20 oC et à une pression normale
+de 101, 3 kPa.
 
-Le terme liquide désigne toute substance qui n'est pas définie comme étant un
-gaz et qui ne se trouve pas à l'état solide à une température de 20 oC et à une
-pression normale de 101,3 kPa.
+Classification : a) Substances : Les substances comburantes, explosibles,
+inflammables, toxiques, très toxiques et dangereuses pour l'environnement sont
+définies à l'annexe I de l'arrêté du 20 avril 1994 susmentionné. Les substances
+présentant ces dangers, mais ne figurant pas encore à l'annexe I de l'arrêté du
+20 avril 1994 susmentionné sont classées et étiquetées par leurs fabricants,
+distributeurs ou importateurs en fonction des informations sur leurs propriétés
+physico-chimiques ou toxicologiques pertinentes et accessibles existantes,
+conformément aux critères de classification et d'étiquetage qui font l'objet de
+l'annexe VI de l'arrêté du 20 avril 1994 susmentionné.
 
-Classification :
-
-a) Substances :
-
-Les substances comburantes, explosibles, inflammables, toxiques, très toxiques
-et dangereuses pour l'environnement sont définies à l'annexe I de l'arrêté du 20
-avril 1994 susmentionné.
-
-Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe I
-de l'arrêté du 20 avril 1994 susmentionné sont classées et étiquetées par leurs
-fabricants, distributeurs ou importateurs en fonction des informations sur leurs
-propriétés physico-chimiques ou toxicologiques pertinentes et accessibles
-existantes, conformément aux critères de classification et d'étiquetage qui font
-l'objet de l'annexe VI de l'arrêté du 20 avril 1994 susmentionné.
-
-b) Préparations :
-
-Le classement des préparations dangereuses résulte :
-
-- du classement des substances dangereuses qu'elles contiennent et de la
-concentration de celles-ci ;
-
-- du type de préparation.
+b) Préparations : Le classement des préparations dangereuses résulte :-du
+classement des substances dangereuses qu'elles contiennent et de la
+concentration de celles-ci ;-du type de préparation.
 
 Les préparations dangereuses sont classées suivant les dispositions de l'arrêté
 du 9 novembre 2004 définissant les critères de classification et les conditions
 d'étiquetage et d'emballage des substances et préparations dangereuses et
-transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31
-mai 1999, concernant le rapprochement des dispositions législatives,
+transposant la directive 1999 / 45 / CE du Parlement européen et du Conseil du
+31 mai 1999, concernant le rapprochement des dispositions législatives,
 réglementaires et administratives relatives à la classification, à l'emballage
 et à l'étiquetage des préparations dangereuses.
 
@@ -361,18 +347,23 @@ l'annexe V puis les critères de classification de l'annexe VI de l'arrêté du 
 avril 1994 susmentionné.
 
 Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est
-classée par son fabricant :
-
-- soit, lorsque cette information est disponible, à l'aide de la détermination
-de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques
-effectués directement sur la préparation en appliquant les méthodes de l'annexe
-V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de
-classification de l'annexe VI de ce même arrêté ;
-
-- soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie
-A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait
-intervenir une pondération des substances toxiques et très toxiques contenues
-dans la préparation en fonction de leur concentration.
+classée par son fabricant :-soit, lorsque cette information est disponible, à
+l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des
+essais toxicologiques effectués directement sur la préparation en appliquant les
+méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les
+critères de classification de l'annexe VI de ce même arrêté ;-soit en utilisant
+la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de
+l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération
+des substances toxiques et très toxiques contenues dans la préparation en
+fonction de leur concentration. Pour ses propriétés environnementales, une
+préparation dangereuse pour l'environnement est classée par son fabricant :
+-soit par des essais effectués directement sur la préparation en appliquant les
+méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les
+critères de classification de l'annexe VI de ce même arrêté ; -soit en utilisant
+la méthode de calcul décrite au point a de la partie A de l'annexe III de
+l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération
+des substances écotoxiques contenues dans la préparation en fonction de leur
+concentration.
 
 1110
 
@@ -836,18 +827,18 @@ a) supérieure ou égale à 200 t
 
 6
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 
 A
 
 3
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 3
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
 
 
 DC
@@ -935,42 +926,6 @@ b) supérieure ou égale à 100 kg, mais inférieure ou égale à 500 kg
 
 
 DC
-
-1139
-
-Dioxyde de chlore (fabrication, stockage ou emploi du)
-
-1. la quantité totale de dioxyde de chlore susceptible d'être présente en phase
-gazeuse dans l'installation étant :
-
-a) supérieure ou égale à 10 kg
-
-
-A
-
-3
-
-b) supérieure à 0,5 kg et inférieure à 10 kg
-
-
-D
-
-2. la quantité totale de dioxyde de chlore susceptible d'être présente dans
-l'installation sous forme de solution aqueuse de titre pondéral supérieur ou
-égal à 1 g/l, étant :
-
-a) supérieure à 10 t de dioxyde de chlore
-
-
-A
-
-2
-
-b) supérieure ou égale à 1 t, mais inférieure ou égale à 10 t de dioxyde de
-chlore
-
-
-D
 
 1140
 
@@ -1091,18 +1046,19 @@ D
 
 1150
 
-Substances et préparations toxiques particulières (stockage, emploi, fabrication
+Substances et préparations particulières (stockage, emploi, fabrication
 industrielle, formulation et conditionnement de ou à base de)
 
-1. 4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de
-N,N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels,
-oxyde de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle,
-1,3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique,
-benzotrichlorure, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle,
-1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine.
+1. Substances et préparations à des concentrations en poids supérieures à 5 % à
+base de : 4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels,
+chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et /
+ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle,
+1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique,
+benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle,
+1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
 
-La quantité totale de l'un de ces produits (à des concentrations en poids
-supérieures à 5 %) susceptible d'être présente dans l'installation étant :
+La quantité totale de l'une de ces substances et préparations en contenant
+susceptible d'être présente dans l'installation étant :
 
 1. La quantité totale de l'un de ces produits (à des concentrations en poids
 supérieures à 5 %) susceptible d'être présente dans l'installation étant :
@@ -1129,11 +1085,13 @@ b) inférieure à 2 t
 
 6
 
-2. 4-4' méthylène-bis (2-chloroaniline) ou ses sels sous forme pulvérulente :
+2. Les formes pulvérulentes de 4, 4'-méthylène-bis (2-chloroaniline) ou de ses
+sels :
 
 2. La quantité totale susceptible d'être présente dans l'installation étant :
 
-La quantité totale susceptible d'être présente dans l'installation étant :
+La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
 
 a) supérieure ou égale à 10 kg
 
@@ -1191,7 +1149,8 @@ b) inférieure à 100 kg
 
 4. La quantité totale susceptible d'être présente dans l'installation étant :
 
-La quantité totale susceptible d'être présente dans l'installation étant :
+La quantité totale de ce produit susceptible d'être présente dans l'installation
+étant :
 
 a) supérieure ou égale à 150 kg
 
@@ -1453,48 +1412,6 @@ b) inférieure à 1 kg
 
 6
 
-1155
-
-Agropharmaceutiques (dépôts de produits), à l'exclusion des substances et
-préparations visées par les rubriques 1111, 1150, 1172, 1173 et des liquides
-inflammables de catégorie A au sens de la rubrique 1430 :
-
-1. La quantité de produits agropharmaceutiques susceptible d'être présente dans
-l'installation étant supérieure ou égale à 500 t ou la quantité de produits
-agropharmaceutiques toxiques susceptible d'être présente dans l'installation
-étant supérieure ou égale à 200 t
-
-
-AS
-
-2
-
-1. La quantité de produits agro-pharmaceutiques susceptible d'être présente dans
-l'installation étant supérieure ou égale à 500 t ou la quantité de produits
-agro-pharmaceutiques toxiques susceptible d'être présente dans l'installation
-étant supérieure ou égale à 200 t...
-
-6
-
-2. La quantité de produits agropharmaceutiques susceptible d'être présente dans
-l'installation étant supérieure ou égale à 100 t mais inférieure à 500 t
-
-
-A
-
-2
-
-3. La quantité de produits agropharmaceutiques susceptible d'être présente dans
-l'installation étant supérieure ou égale à 15 t mais inférieure à 100 t
-
-
-DC
-
-Nota - Pour l'application de la condition définie à l'annexe II, il convient de
-considérer le ratio qx/Qx le plus élevé, où x désigne l'ensemble des produits
-agropharmaceutiques totaux assortis de la quantité seuil de 500 t, ou les
-produits agropharmaceutiques toxiques assortis de la quantité seuil de 200 t.
-
 1156
 
 Oxydes d'azote autres que l'hémioxyde d'azote (emploi ou stockage des)
@@ -1602,14 +1519,14 @@ A
 
 DC
 
-1771
+1171
 
-Dangereux pour l'environnement - A et/ou B -, très toxiques et/ou toxiques pour
+Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour
 les organismes aquatiques (fabrication industrielle de substances ou
 préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles
 visées nominativement ou par famille par d'autres rubriques.
 
-1. Cas des substances très toxiques pour les organismes aquatiques -A- :
+1. Cas des substances très toxiques pour les organismes aquatiques-A-:
 
 1. La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -1637,7 +1554,7 @@ b) inférieure à 200 t
 
 6
 
-2. Cas des substances toxiques pour les organismes aquatiques -B- :
+2. Cas des substances toxiques pour les organismes aquatiques-B-:
 
 2. La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -1667,7 +1584,7 @@ b) inférieure à 500 t
 
 1172
 
-Dangereux pour l'environnement -A-, très toxiques pour les organismes aquatiques
+Dangereux pour l'environnement-A-, très toxiques pour les organismes aquatiques
 (stockage et emploi de substances ou préparations) telles que définies à la
 rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par
 d'autres rubriques.
@@ -1705,7 +1622,7 @@ DC
 
 1173
 
-Dangereux pour l'environnement -B-, toxiques pour les organismes aquatiques
+Dangereux pour l'environnement-B-, toxiques pour les organismes aquatiques
 (stockage et emploi de substances ou préparations) telles que définies à la
 rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par
 d'autres rubriques.
@@ -2279,53 +2196,61 @@ D
 
 1310
 
-Poudres, explosifs et autres produits explosifs (fabrication, conditionnement,
-chargement, encartouchage, mise en liaison pyrotechnique ou électrique des
-pièces d'artifice (en dehors des opérations effectuées sur le site de tir),
-essais d'engins propulsés, destruction d'objets ou articles sur les lieux de
-fabrication).
+Produits explosifs (fabrication).
 
-1. Cartouches de chasse et de tir, la capacité de production étant supérieure à
-250 000 cartouches par an
+1. Fabrication industrielle par transformation chimique de : La quantité totale
+de matière active susceptible d'être présente dans l'installation étant (3) :
+
+1. Non soumis à la taxe
+
+-
+
+a) Supérieure ou égale à 10 t
+
+
+AS
+
+6
+
+b) Inférieure à 10 t
 
 
 A
 
 3
 
-1. Non soumis à la taxe
-
--
-
-2. Autres, la quantité susceptible d'être présente dans l'installation étant :
+2. Autres fabrications (1), chargement, encartouchage, conditionnement, études
+et recherches, essais, à l'exclusion des opérations effectuées sur le site
+d'emploi (2) en vue de celui-ci telles que chargement de trous de mines,
+montage, amorçage, mise en liaison électrique ou pyrotechnique. La quantité
+totale de matière active susceptible d'être présente dans l'installation étant
+(3) :
 
 2. La quantité susceptible d'être présente dans l'installation étant :
 
-a) Supérieure à 10 t
+a) Supérieure ou égale à 10 t
 
 
 AS
 
-5
+6
 
 a) supérieure à 10 t
 
 10
 
-b) Inférieure ou égale à 10 t sauf cas c
+b) Supérieure ou égale à 100 kg, mais inférieure à 10 t
 
 
 A
 
-5
+3
 
 b) inférieure ou égale à 10 t, sauf cas c)
 
 6
 
-c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et les
-fabrications sur sites d'explosifs destinées à prévenir les avalanches de
-montagne
+c) Inférieure à 100 kg (4)
 
 
 DC
@@ -2336,16 +2261,31 @@ montagne : non soumis à la taxe
 
 -
 
+(1) Nota.-Les autres fabrications concernent les fabrications par procédé non
+chimique, c'est-à-dire par mélange physique de produits non explosifs ou non
+prévus pour être explosifs (par exemple, explosifs anti-avalanches,
+nitrate-fuels, émulsions, poudres propulsives, propergols, compositions
+pyrotechniques...). (2) Nota.-On entend par emploi d'un produit explosif soit
+son utilisation pour les effets de son explosion, soit sa mise en situation
+d'utilisation dans un objet lui-même non classé produit explosif (dispositifs
+pyrotechniques de sécurité, par exemple). (3) Nota.-La quantité de matière
+active à retenir dans le classement sous cette rubrique doit tenir compte des
+produits intermédiaires, des en-cours et des déchets, dont la présence dans
+l'installation s'avère connexe à l'activité de fabrication. (4) Nota.-Les unités
+mobiles de fabrication d'explosif sont classées sous cette rubrique si la
+quantité d'explosif fabriqué susceptible d'être concernée par la transmission
+d'une détonation prenant naissance en son sein n'est pas supérieure à 100 kg.
+
 1311
 
-Poudres, explosifs et autres produits explosifs (stockage de)
+Produits explosifs (stockage de)
 
-La quantité totale de matière active susceptible d'être présente dans
-l'installation étant :
+La quantité équivalente totale de matière active susceptible d'être présente
+dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure à 10 t
+1. supérieure ou égale à 10 t
 
 
 AS
@@ -2356,7 +2296,7 @@ AS
 
 6
 
-2. supérieure ou égale à 2 t, mais inférieure ou égale à 10 t
+2. Supérieure ou égale à 500 kg, mais inférieure à 10 t
 
 
 A
@@ -2368,19 +2308,35 @@ munitions de guerre contenant moins de 1 000 000 de cartouches
 
 2
 
-3. supérieure ou égale à 500 kg, mais inférieure à 2 t
+3. Supérieure ou égale à 250 kg, mais inférieure à 500 kg
 
 
 DC
 
+Nota.-Les produits explosifs appartiennent à la classe 1 des marchandises
+dangereuses et sont classés en divisions de risque et en groupes de
+compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
+règles relatives à l'évaluation des risques et à la prévention des accidents
+dans les établissements pyrotechniques. Le régime de classement d'une
+installation est déterminé en fonction de la quantité équivalente totale de
+matière active exprimée en quantité équivalente à celle d'un produit explosif de
+division de risques 1. 1 selon la formule : Quantité équivalente totale = A + B
++ C / 3 + D / 5 + E + F, B, C, D, E, F représentant respectivement les quantités
+relatives aux produits classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6
+lorsque ceux-ci sont en emballages fermés conformes aux dispositions
+réglementaires en matière de transport, A représentant la quantité relative aux
+produits classés en division de risque 1.1 lorsque ceux-ci sont en emballages
+fermés conformes aux dispositions réglementaires en matière de transport ainsi
+que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes
+aux dispositions réglementaires en matière de transport.
+
 1312
 
-Poudres, explosifs et autres produits explosifs (mise en oeuvre de) à des fins
-industrielles telles que découpage, formage, emboutissage, placage de métaux.
+Produits explosifs (mise en oeuvre de) à des fins industrielles telles que
+découpage, formage, emboutissage, placage de métaux.
 
 
-La quantité unitaire étant supérieure à 10 g et la quantité stockée supérieure à
-2 kg
+La quantité unitaire étant supérieure à 10 g
 
 A
 
@@ -2388,31 +2344,32 @@ A
 
 1313
 
-Poudres, explosifs et autres produits explosifs (tri ou destruction de matières,
-munitions et engins hors des lieux de découverte et des lieux de fabrication)
+Produits explosifs (tri ou destruction de matières, objets et munitions et
+engins hors des lieux de découverte)
 
-La quantité susceptible d'être présente dans l'installation étant :
+La quantité totale de matière active susceptible d'être présente dans
+l'installation étant :
 
 La quantité totale de matière active autre que les cartouches de chasse et de
 tir, susceptible d'être présente dans l'installation étant :
 
-a) supérieure à 10 t de matière active
+a) supérieure à 10 t
 
 
 AS
 
-5
+6
 
 a) supérieure à 10 t
 
 10
 
-b) inférieure ou égale à 10 t de matière active
+b) inférieure ou égale à 10 t
 
 
 A
 
-5
+3
 
 b) inférieure ou égale à 10 t
 
@@ -2489,10 +2446,10 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
-- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
+-comprise entre 24, 5 % et 28 % en poids et qui contiennent au plus 0, 4 % de
 substances combustibles ;
 
-- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
+-supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances
 combustibles.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -2563,35 +2520,35 @@ DC
 1331
 
 Engrais solides simples et composés à base de nitrate d'ammonium correspondant
-aux spécifications du règlement européen n o 2003/2003 du Parlement européen et
-du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
+aux spécifications du règlement européen n o 2003 / 2003 du Parlement européen
+et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
 équivalente NF U 42-001 (stockage de) :
 
-I. - Engrais composés à base de nitrate d'ammonium susceptibles de subir une
+I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une
 décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium
 avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au
 nitrate d'ammonium est :
 
-- de 15,75 % en poids ou moins sans limitation de teneur en matières
-combustibles ;
+-de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles
+;
 
-- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum
-0,4 % de matières organiques ou combustibles au total, soit sont conformes aux
+-comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0,
+4 % de matières organiques ou combustibles au total, soit sont conformes aux
 exigences de l'annexe III-2 (*) du règlement européen.
 
 Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon
 le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
 (voir Recommandations des Nations unies relatives au transport des marchandises
-dangereuses :Manual of Tests and Criteria, partie III, sous-section 38.2).
+dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
 
-II. - Engrais simples et composés solides à base de nitrate d'ammonium (un
-engrais composé contient du nitrate d'ammonium avec du phosphate et/ou de la
-potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
+composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse)
+dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
-- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
+-supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
 III-2 (*) du règlement européen (**) ;
 
-- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
+-supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
 sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du
 règlement européen.
 
@@ -2635,7 +2592,7 @@ en azote due au nitrate d'ammonium est supérieure à 28 % en poids, supérieure
 
 DC
 
-III. - Engrais simples et composés solides à base de nitrate d'ammonium ne
+III.-Engrais simples et composés solides à base de nitrate d'ammonium ne
 répondant pas aux critères I ou II (engrais simples et engrais composés non
 susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur
 en azote due au nitrate d'ammonium est inférieure à 24,5 %).
@@ -2646,17 +2603,17 @@ La quantité totale d'engrais susceptible d'être présente dans l'installation
 
 DC
 
-Note - 1. Concernant les engrais azotes simples et les engrais composés azotés
+Note-1. Concernant les engrais azotes simples et les engrais composés azotés
 binaires (NP ou NK) ou ternaires (NPK), ne sont à prendre en compte que les
 engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais
 azotés non à base de nitrates (ex : urée) ne sont pas comptabilisés.
 
-2. L'identification d'un engrais à base de nitrate peut se faire par la mention
+2.L'identification d'un engrais à base de nitrate peut se faire par la mention
 de l'azote nitrique dans les documents commerciaux.
 
 (*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no
-2003/2003.
+2003 / 2003.
 
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à
 base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate
@@ -2666,24 +2623,31 @@ d'au moins 90 %.
 
 1332
 
-Nitrate d'ammonium : matières hors spécifications ou engrais n'étant pas
-conformes aux exigences de l'annexe III-2 (*) du règlement européen no 2003/2003
-du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais
-(stockage de).
+Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux
+engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant
+pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2
+(**) du règlement européen n° 2003 / 2003 du Parlement européen et du Conseil du
+13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U
+42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du
+règlement européen n° 2003 / 2003 ou à la norme française équivalente NF U
+42-001 (stockage de).
 
 Cette rubrique s'applique :
 
-- aux matières rejetées au cours du processus de fabrication, au nitrate
-d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples
-à base de nitrate d'ammonium et aux engrais composés à base de nitrate
+-aux matières rejetées ou écartées au cours du processus de fabrication, au
+nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
+simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
 d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
 à une installation de stockage temporaire ou à une usine de retraitement pour
 subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être
 utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
 rubriques 1330 et 1331-II ;
 
-- aux engrais visés dans les rubriques 1331-I, 2e alinéa, 1331-II qui ne
-satisfont pas aux exigences de l'annexe III-2 (*) du règlement européen.
+-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
+exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;-aux engrais visés dans les
+rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de
+l'annexe III-2 (**).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -2711,9 +2675,11 @@ b) supérieure ou égale à 10 t mais inférieure à 50 t
 
 3
 
-(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
-(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no
-2003/2003.
+(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à
+base de nitrate d'ammonium et à forte teneur en azote du règlement européen n°
+2003 / 2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
+section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement
+européen n° 2003 / 2003.
 
 1410
 
@@ -2726,18 +2692,18 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 200 t
+1. supérieure ou égale à 50 t
 
 
 AS
 
-3
+4
 
 1. supérieure ou égale à 200 t
 
 10
 
-2. inférieure à 200 t
+2. inférieure à 50 t
 
 
 A
@@ -2826,7 +2792,7 @@ l'exception de ceux visés explicitement par d'autres rubriques de la
 nomenclature ;
 
 Les gaz sont maintenus liquéfiés à une température telle que la pression absolue
-de vapeur correspondante n'excède pas 1,5 bar (stockages réfrigérés ou
+de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou
 cryogéniques) ou sous pression quelle que soit la température
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -2868,7 +2834,7 @@ alimentant des moteurs, ou autres appareils, de véhicules ou engins de transpor
 fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le
 débit total en sortie du système de compression étant :
 
-1. Supérieur ou égal à 2 000 m 3 /h ou si la masse totale de gaz contenu dans
+1. Supérieur ou égal à 2 000 m 3 / h ou si la masse totale de gaz contenu dans
 l'installation est supérieure à 10 t
 
 
@@ -2876,14 +2842,14 @@ A
 
 1
 
-2. Supérieur ou égal à 80 m 3 /h, mais inférieur à 2 000 m 3 /h, ou si la masse
-de gaz contenu dans l'installation est supérieure à 1 t
+2. Supérieur ou égal à 80 m 3 / h, mais inférieur à 2 000 m 3 / h, ou si la
+masse de gaz contenu dans l'installation est supérieure à 1 t
 
 
 DC
 
-Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une
-pression de 101,325 kPa.
+Nota.-Les débits sont exprimés pour une température de gaz de 273, 15 K à une
+pression de 101, 325 kPa.
 
 1414
 
@@ -3000,8 +2966,8 @@ A
 
 2
 
-2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à
-2.5 × 105 Pa
+2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2.
+5 × 105 Pa
 
 
 A
@@ -3009,8 +2975,8 @@ A
 1
 
 3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à
-2.5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15
-oC et à la pression de 105 Pa) est supérieure à 1 200 l
+2. 5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de
+15 o C et à la pression de 105 Pa) est supérieure à 1 200 l
 
 
 A
@@ -3176,11 +3142,11 @@ B représente la capacité relative aux liquides inflammables de la 1ère catég
 qui ne répondent pas à la définition des liquides extrêmement inflammables
 
 C représente la capacité relative aux liquides inflammables de 2ème catégorie
-(coefficient 1/5) : tout liquide dont le point éclair est supérieur ou égal à 55
-oC et inférieur à 100 oC, sauf les fuels lourds.
+(coefficient 1 / 5) : tout liquide dont le point éclair est supérieur ou égal à
+55 oC et inférieur à 100 oC, sauf les fuels lourds.
 
-D représente la capacité relative aux liquides peu inflammables (coefficient
-1/15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications
+D représente la capacité relative aux liquides peu inflammables (coefficient 1 /
+15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications
 administratives
 
 NOTA :
@@ -3571,18 +3537,20 @@ D
 
 1530
 
-Bois, papier, carton ou matériaux combustibles analogues (dépôts de)
+Bois, papier, carton ou matériaux combustibles analogues, y compris les produits
+finis conditionnés (dépôt de) à l'exclusion des établissements recevant du
+public.
 
-La quantité stockée étant :
+Le volume stocké étant :
 
-1. supérieure à 20 000 m 3
+1. supérieur ou égal à 20 000 m 3
 
 
 A
 
 1
 
-2. supérieure à 1 000 m 3 mais inférieure ou égale à 20 000 m 3
+2. supérieur à 1 000 m 3 mais inférieur à 20 000 m 3
 
 
 D
@@ -3597,11 +3565,11 @@ D
 
 1610
 
-Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %,
-nitrique à plus de 20 % mais à moins de 70 %, picrique à moins de 70 %,
-phosphorique, sulfurique à plus de 25 %, oxydes d'azote, anhydride phosphorique,
-oxydes de soufre, préparations à base d'acide acétique et d'anhydride acétique
-(fabrication industrielle de) quelle que soit la capacité de production
+Acide chlorhydrique, acide formique à plus de 50 % en poids d'acide, acide
+nitrique à moins de 70 %, acide phosphorique, acide sulfurique, monoxyde
+d'azote, dioxyde d'azote à moins de 1 %, dioxyde de soufre à moins de 20 %,
+anhydride phosphorique (fabrication industrielle de) quelle que soit la capacité
+de production
 
 
 A
@@ -3618,7 +3586,7 @@ b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
 
 2
 
-Nota. - Lorsqu'une substance non explicitement visée est susceptible d'être
+Nota.-Lorsqu'une substance non explicitement visée est susceptible d'être
 classée dans plusieurs rubriques, elle doit être classée dans la rubrique
 présentant les seuils les plus bas.
 
