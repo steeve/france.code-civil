@@ -2,16 +2,19 @@ Article R*3111-1
 ----
 Dans l'exercice de ses attributions, le ministre de la défense est assisté :
 
-1° En matière d'organisation générale des forces, de choix capacitaires, de
-préparation et d'emploi, par un chef d'état-major des armées ;
+1° Par le chef d'état-major des armées pour les missions définies à l'article R.
+* 3121-2, notamment :
 
-2° En matière de recherche, de réalisation d'équipements des forces et de
-politiques technique et industrielle, par un délégué général pour l'armement ;
+-l'organisation générale des armées et des organismes interarmées placés sous
+l'autorité de ce dernier, leur préparation et leur mise en condition d'emploi ;
 
-3° Dans tous les domaines de l'administration générale du ministère, et
-notamment en matière budgétaire, financière, juridique, patrimoniale, sociale et
-de ressources humaines, par un secrétaire général pour l'administration.
+-les choix capacitaires ;
 
-Le chef d'état-major des armées, le délégué général pour l'armement et le
-secrétaire général pour l'administration sont nommés, sur proposition du
-ministre de la défense, par décret en conseil des ministres.
+2° Par le délégué général pour l'armement en matière de recherche, de
+réalisation d'équipements des forces, de relations internationales concernant
+l'armement et de politique industrielle concernant la défense ;
+
+3° Par le secrétaire général pour l'administration dans tous les domaines de
+l'administration générale du ministère, notamment en matière budgétaire,
+financière, juridique, patrimoniale, immobilière, sociale et de ressources
+humaines.
