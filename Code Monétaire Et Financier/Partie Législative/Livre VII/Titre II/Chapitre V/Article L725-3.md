@@ -1,19 +1,37 @@
 Article L725-3
 ----
-Les dispositions fiscales mentionnées à l'article L. 563-2 ainsi que les
-articles L. 152-4 et L. 161-1 ne sont pas applicables à
-Saint-Pierre-et-Miquelon.
+I.-L'article L. 152-4 n'est pas applicable à Saint-Pierre-et-Miquelon.
 
-Les références aux articles du code général des impôts figurant dans l'article
-L. 563-2 sont remplacées, pour Saint-Pierre-et-Miquelon, par une référence aux
-dispositions ayant le même objet, prises par le conseil général.
+II.-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 561-2, les
+références au code de la sécurité sociale, au code rural et au code de la
+mutualité sont remplacées par des références aux dispositions applicables
+localement ayant le même objet.
 
-Pour l'application de l'article L. 562-1, les références au code des assurances,
-au code de la sécurité sociale, au code rural et au code de la mutualité sont
-remplacées par des références aux dispositions applicables localement ayant le
-même objet.
+III.-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 561-14-2, les
+références à l'article 537 du code général des impôts et aux articles L. 83, L.
+85, L. 87 et L. 89 du livre des procédures fiscales sont remplacées par des
+références aux dispositions applicables localement ayant le même objet.
 
-Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971,
-le nombre d'avocats inscrits au barreau n'a pas permis l'élection d'un conseil
-de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L.
-562-2 auprès du service institué à l'article L. 562-43.
+IV.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions du II de
+l'article L. 561-15, est considérée comme infraction de fraude fiscale soit
+l'infraction prévue par les dispositions de l'article 1741 du code général des
+impôts commise par les personnes ou organismes auxquels ces dispositions
+s'appliquent, soit, pour les personnes et organismes relevant de la
+réglementation fiscale établie localement, le fait de s'être soustrait
+frauduleusement ou d'avoir tenté de se soustraire frauduleusement à
+l'établissement ou au paiement partiel ou total des impôts prévus par celle-ci.
+
+V.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions du dernier
+alinéa du II de l'article L. 561-23, l'infraction définie à l'article 1741
+s'entend de l'infraction de fraude fiscale au sens des dispositions du IV du
+présent article.
+
+VI.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions des troisième
+et quatrième alinéas du II de l'article L. 561-29, l'infraction définie à
+l'article 1741 du code général des impôts s'entend de l'infraction de fraude
+fiscale au sens des dispositions du IV. Lorsque le service mentionné à l'article
+L. 561-23 a reçu des informations sur des faits de soustraction frauduleuse ou
+de tentative de soustraction frauduleuse à l'établissement ou au payement
+partiel ou total des impôts prévus par la réglementation fiscale établie
+localement, il peut les transmettre à l'administration fiscale de la
+collectivité.
