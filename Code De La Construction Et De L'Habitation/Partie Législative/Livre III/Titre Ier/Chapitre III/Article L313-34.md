@@ -8,13 +8,15 @@ mêmes pouvoirs au sein de l'association que ceux mentionnés à l'article L.
 313-23.L'article L. 313-22 s'applique également à l'association.
 
 L'objet de l'association, soumise au contrôle de la Cour des comptes et de
-l'inspection générale des finances et au titre II de la loi n° 91-3 du 3 janvier
-1991 précitée, est de réaliser des programmes de logements contribuant à la
-mixité sociale des villes et des quartiers. Ces programmes concernent, d'une
-part, la réalisation de logements locatifs libres dans les quartiers faisant
-l'objet d'opérations de rénovation urbaine et, d'autre part, la réalisation de
-logements locatifs sociaux dans les agglomérations se caractérisant par un
-déséquilibre important entre l'offre et la demande de logements.
+l'inspection générale des finances et à l'ordonnance n° 2005-649 du 6 juin 2005
+relative aux marchés passés par certaines personnes publiques ou privées non
+soumises au code des marchés publics, est de réaliser des programmes de
+logements contribuant à la mixité sociale des villes et des quartiers. Ces
+programmes concernent, d'une part, la réalisation de logements locatifs libres
+dans les quartiers faisant l'objet d'opérations de rénovation urbaine et,
+d'autre part, la réalisation de logements locatifs sociaux dans les
+agglomérations se caractérisant par un déséquilibre important entre l'offre et
+la demande de logements.
 
 L'association est autorisée à contribuer par transfert d'actifs au financement
 des régimes de retraite complémentaire obligatoires des salariés du secteur

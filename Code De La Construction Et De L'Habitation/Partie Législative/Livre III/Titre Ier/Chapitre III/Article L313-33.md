@@ -9,8 +9,7 @@ mêmes pouvoirs au sein de l'association que ceux mentionnés à l'article L.
 313-23.L'article L. 313-22 s'applique également à l'association.
 
 L'objet de l'association, soumise au contrôle de la Cour des comptes et de
-l'inspection générale des finances et au titre II de la loi n° 91-3 du 3 janvier
-1991 relative à la transparence et à la régularité des procédures de marchés et
-soumettant la passation de certains contrats à des règles de publicité et de
-mise en concurrence, est d'organiser le dispositif de garantie des risques
-locatifs mentionné au IV de l'article L. 313-20.
+l'inspection générale des finances et à l'ordonnance n° 2005-649 du 6 juin 2005
+relative aux marchés passés par certaines personnes publiques ou privées non
+soumises au code des marchés publics, est d'organiser le dispositif de garantie
+des risques locatifs mentionné au IV de l'article L. 313-20.
