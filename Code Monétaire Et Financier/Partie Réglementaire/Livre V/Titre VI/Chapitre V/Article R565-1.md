@@ -10,7 +10,7 @@ activité.
 Le ministre chargé de l'économie arrête les modalités d'application des
 obligations de vigilance des organismes financiers mentionnés aux 1 et 6 de
 l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux
-articles L. 520-2, L. 611-1 et L. 611-3.
+articles L. 524-2, L. 611-1 et L. 611-3.
 
 Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article
 L. 566-3 est exercé en liaison avec l'inspection générale des postes et
