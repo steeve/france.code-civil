@@ -5,9 +5,9 @@ et, le cas échéant, le pouvoir de sanction en cas de non-respect de celles-ci
 sont assurés :
 
 1° a) Par la Commission bancaire sur les organismes et les personnes qui lui
-sont soumis en vertu des articles L. 520-2, L. 613-1, L. 613-2, sur les
-intermédiaires habilités mentionnés à l'article L. 211-4 et sur la Caisse des
-dépôts et consignations ;
+sont soumis en vertu des articles L. 524-2, L. 613-1, L. 613-1-1, L. 613-2, sur
+les intermédiaires habilités mentionnés à l'article L. 211-4 et sur la Caisse
+des dépôts et consignations ;
 
 b) A cette fin, le contrôle de la Commission bancaire sur la Caisse des dépôts
 et consignations est exercé, dans les conditions prévues à l'article L. 613-20

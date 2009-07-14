@@ -8,7 +8,8 @@ contraire, communication de tout document ou information sur la situation
 patrimoniale des dirigeants et des représentants permanents des dirigeants
 personnes morales mentionnées à l'article L. 651-1 de la part des
 administrations et organismes publics, des organismes de prévoyance et de
-sécurité sociale et des établissements de crédit.
+sécurité sociale, des établissements de paiement et des établissements de
+crédit.
 
 Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure
 conservatoire utile à l'égard des biens des dirigeants ou de leurs représentants

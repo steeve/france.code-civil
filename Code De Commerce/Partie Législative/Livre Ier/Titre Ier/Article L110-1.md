@@ -20,7 +20,7 @@ par eau ;
 6° Toute entreprise de fournitures, d'agence, bureaux d'affaires, établissements
 de ventes à l'encan, de spectacles publics ;
 
-7° Toute opération de change, banque et courtage ;
+7° Toute opération de change, banque, courtage et tout service de paiement ;
 
 8° Toutes les opérations de banques publiques ;
 

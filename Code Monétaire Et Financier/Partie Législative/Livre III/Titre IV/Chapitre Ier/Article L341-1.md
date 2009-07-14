@@ -20,7 +20,10 @@ d'un service d'investissement ou d'un service connexe définis aux articles L.
 550-1 ;
 
 5° La fourniture par une des personnes mentionnées au 3° de l'article L. 341-3
-d'une prestation de conseil en investissement prévu au I de l'article L. 541-1.
+d'une prestation de conseil en investissement prévu au I de l'article L. 541-1 ;
+
+6° La fourniture par une des personnes mentionnées au 1° de l'article L. 341-3
+d'un service de paiement prévu au II de l'article L. 314-1.
 
 Constitue également un acte de démarchage bancaire ou financier, quelle que soit
 la personne à l'initiative de la démarche, le fait de se rendre physiquement au

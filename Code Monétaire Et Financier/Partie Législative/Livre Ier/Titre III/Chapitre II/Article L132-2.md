@@ -1,9 +1,4 @@
 Article L132-2
 ----
-L'ordre ou l'engagement de payer donné au moyen d'une carte de paiement est
-irrévocable.
-
-Il ne peut être fait opposition au paiement qu'en cas de perte, de vol ou
-d'utilisation frauduleuse de la carte ou des données liées à son utilisation, de
-procédure de sauvegarde, de redressement ou de liquidation judiciaires du
-bénéficiaire.
+Le billet à ordre est régi par les articles L. 512-1 à L. 512-8 du code de
+commerce.

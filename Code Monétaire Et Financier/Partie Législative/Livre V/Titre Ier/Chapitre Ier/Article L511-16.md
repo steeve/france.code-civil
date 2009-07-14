@@ -9,9 +9,9 @@ postérieure à l'expiration de la période mentionnée au deuxième alinéa de
 l'article L. 511-15, à la date fixée par le comité des établissements de crédit
 et des entreprises d'investissement. Au terme de cette période, l'entreprise
 perd la qualité d'établissement de crédit et doit avoir changé sa dénomination
-sociale. Les opérations de banque autres que la réception de fonds du public que
-l'entreprise a conclues ou s'est engagée à conclure avant la décision de retrait
-d'agrément peuvent être menées à leur terme.
+sociale. Les opérations de banque autres que la réception de fonds du public et
+les services de paiement que l'entreprise a conclues ou s'est engagée à conclure
+avant la décision de retrait d'agrément peuvent être menées à leur terme.
 
 Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil,
 la dissolution anticipée d'un établissement de crédit ne peut être prononcée

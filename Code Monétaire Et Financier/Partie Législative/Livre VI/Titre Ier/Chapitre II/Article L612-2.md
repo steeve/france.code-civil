@@ -1,10 +1,18 @@
 Article L612-2
 ----
 Le comité des établissements de crédit et des entreprises d'investissement
-établit et tient à jour la liste des établissements de crédit ainsi que la liste
-des prestataires de services d'investissement exerçant en France, en précisant
-pour ces derniers, l'activité exercée. Ces listes sont publiées au Journal
-officiel de la République française.
+établit et tient à jour la liste des établissements de crédit, la liste des
+prestataires de services d'investissement exerçant en France, en précisant, pour
+ces derniers, les activités exercées, ainsi que la liste des établissements de
+paiement, en précisant les services de paiement pour lesquels ils sont agréés.
+Ces listes sont publiées au Journal officiel de la République française.
+
+Le comité des établissements de crédit et des entreprises d'investissement
+établit et tient à jour la liste des succursales et des agents des
+établissements de paiement mentionnés à l'alinéa précédent qui fournissent des
+services de paiement dans les autres Etats membres de la Communauté européenne
+ou dans les autres Etats parties à l'accord sur l'Espace économique européen, en
+précisant les services de paiement exercés.
 
 Le comité des établissements de crédit et des entreprises d'investissement
 communique la liste des prestataires de services d'investissement qui

@@ -1,21 +1,13 @@
 Article L312-1-1
 ----
-I. - Les établissements de crédit sont tenus d'informer leur clientèle et le
+I.-Les établissements de crédit sont tenus d'informer leur clientèle et le
 public sur les conditions générales et tarifaires applicables aux opérations
 relatives à la gestion d'un compte de dépôt, selon des modalités fixées par un
-arrêté du ministre chargé de l'économie et des finances.
+arrêté du ministre chargé de l'économie.
 
 La gestion d'un compte de dépôt des personnes physiques n'agissant pas pour des
 besoins professionnels est réglée par une convention écrite passée entre le
-client et son établissement de crédit ou les services financiers de La Poste
-pour tout compte ouvert à compter du 28 février 2003. L'acceptation de ce
-contrat est formalisée par la signature du ou des titulaires du compte.
-
-Pour les comptes ouverts avant cette date et n'ayant pas fait l'objet d'une
-convention signée ou tacitement approuvée, un projet de convention de compte de
-dépôt est fourni au client à sa demande. L'acceptation de ce contrat est
-formalisée par la signature du ou des titulaires du compte dans un délai maximal
-de trois mois après l'envoi.
+client et son établissement de crédit ou les services financiers de La Poste.
 
 Jusqu'au 31 décembre 2009, les établissements de crédit et les services
 financiers de La Poste sont tenus d'informer au moins une fois par an les
@@ -25,33 +17,63 @@ signer une.
 Les principales stipulations que la convention de compte de dépôt doit
 comporter, notamment les conditions générales et tarifaires d'ouverture, de
 fonctionnement et de clôture, sont précisées par un arrêté du ministre chargé de
-l'économie et des finances.
+l'économie.
 
-Tout projet de modification des conditions tarifaires applicables au compte de
-dépôt doit être communiqué par écrit au client trois mois avant la date
-d'application envisagée. L'absence de contestation par le client dans un délai
-de deux mois après cette communication vaut acceptation du nouveau tarif.
+Avant que le client ne soit lié par cette convention, l'établissement de crédit
+l'informe desdites conditions sur support papier ou sur un autre support
+durable.L'établissement de crédit peut s'acquitter de cette obligation en
+fournissant au client une copie du projet de convention de compte de dépôt.
 
-Aucun frais ne peut être prévu par la convention de compte de dépôt ni mise à la
-charge du client au titre de la clôture ou du transfert d'un compte opéré à la
-demande d'un client qui conteste une proposition de modification substantielle
-des conditions et tarifs applicables à son compte de dépôt.
+Si, à la demande du client, cette convention est conclue par un moyen de
+communication à distance ne permettant pas à l'établissement de crédit de se
+conformer au précédent alinéa, ce dernier satisfait à ses obligations aussitôt
+après la conclusion de la convention de compte de dépôt.
 
-II. - Sauf si la convention de compte en dispose autrement, toutes les
-opérations en crédit et en débit d'un compte de dépôt doivent être portées à la
-connaissance du client à intervalle régulier n'excédant pas un mois.
+L'acceptation de la convention de compte de dépôt est formalisée par la
+signature du ou des titulaires du compte.
 
-Dans les mêmes conditions, au cours du mois de janvier de chaque année, est
-porté à la connaissance des personnes physiques et des associations un document
-distinct récapitulant le total des sommes perçues par l'établissement de crédit
-au cours de l'année civile précédente au titre de produits ou services dont ces
-personnes bénéficient dans le cadre de la gestion de leur compte de dépôt, y
-compris les intérêts perçus au titre d'une position débitrice de celui-ci. Ce
-récapitulatif distingue, pour chaque catégorie de produits ou services liés à la
-gestion du compte de dépôt, le sous-total des frais perçus et le nombre de
-produits ou services correspondant.
+Lorsque l'établissement de crédit est amené à proposer à son client de nouvelles
+prestations de services de paiement dont il n'était pas fait mention dans la
+convention de compte de dépôt, les informations relatives à ces nouvelles
+prestations font l'objet d'un contrat-cadre de services de paiement régi par les
+dispositions des sections 2 à 4 du chapitre IV du présent titre relatives au
+contrat-cadre de services de paiement ou d'une modification de la convention de
+compte de dépôt dans les conditions mentionnées au II du présent article.
 
-III. - Le montant des frais bancaires consécutifs à un incident de paiement
-autre que le rejet d'un chèque est plafonné dans des conditions fixées par
-décret en fonction de la nature et du montant de l'incident, sans excéder en
-tout état de cause ce dernier montant.
+II.-Tout projet de modification de la convention de compte de dépôt est
+communiqué sur support papier ou sur un autre support durable au client au plus
+tard deux mois avant la date d'application envisagée. Selon les modalités
+prévues dans la convention de compte de dépôt, l'établissement de crédit informe
+le client qu'il est réputé avoir accepté la modification s'il ne lui a pas
+notifié, avant la date d'entrée en vigueur proposée de cette modification, qu'il
+ne l'acceptait pas ; dans ce cas, l'établissement de crédit précise également
+que, si le client refuse la modification proposée, il peut résilier la
+convention de compte de dépôt sans frais, avant la date d'entrée en vigueur
+proposée de la modification.
+
+III.-Le client peut résilier la convention de compte de dépôt à tout moment,
+sauf stipulation contractuelle d'un préavis qui ne peut dépasser trente jours.
+
+Au-delà de douze mois, la convention de compte de dépôt peut être résiliée sans
+frais. Dans les autres cas, les frais de résiliation doivent être proportionnés
+aux coûts induits par cette résiliation.
+
+L'établissement de crédit résilie une convention de compte de dépôt conclue pour
+une durée indéterminée moyennant un préavis d'au moins deux mois. Les frais
+régulièrement imputés pour la prestation de services de paiement ne sont dus par
+le client qu'au prorata de la période échue à la date de résiliation de la
+convention de compte de dépôt.S'ils ont été payés à l'avance, ces frais sont
+remboursés au prorata.
+
+IV.-A tout moment de la relation contractuelle, l'établissement de crédit
+fournit à la demande de l'utilisateur les termes de la convention de compte de
+dépôt sur support papier ou sur un autre support durable.
+
+L'établissement de crédit ne peut refuser la fourniture au client d'une
+convention établie sur support papier.
+
+V.-Pour chaque opération de paiement mentionnée à l'article L. 314-2 relevant
+d'une convention de compte de dépôt et ordonnée par le payeur, le prestataire de
+services de paiement fournit à celui-ci, à sa demande, des informations sur le
+délai d'exécution maximal de cette opération spécifique, sur les frais qu'il
+doit payer et, le cas échéant, sur le détail de ces frais.

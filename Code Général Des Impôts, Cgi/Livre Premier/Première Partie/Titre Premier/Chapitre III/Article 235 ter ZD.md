@@ -19,7 +19,7 @@ physiques dont le montant est inférieur à 75 000 euros.
 La taxe est due par les établissements de crédit, les institutions et les
 services mentionnés à l'article L. 518-1 du code monétaire et financier, les
 entreprises d'investissement visées à l'article L. 531-4 du même code et par les
-personnes physiques ou morales visées à l'article L. 520-1 du même code. Elle
+personnes physiques ou morales visées à l'article L. 524-1 du même code. Elle
 n'est pas due par la Banque de France et par le Trésor public.
 
 II. - La taxe est établie, liquidée et recouvrée sous les mêmes garanties et

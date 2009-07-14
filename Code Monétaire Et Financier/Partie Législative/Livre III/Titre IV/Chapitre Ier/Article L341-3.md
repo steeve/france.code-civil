@@ -5,14 +5,15 @@ financier, dans la limite des dispositions particulières qui les régissent, qu
 :
 
 1° Les établissements de crédit définis à l'article L. 511-1, les organismes
-mentionnés à l'article L. 518-1, les entreprises d'investissement et les
-entreprises d'assurance définies respectivement à l'article L. 531-4 du présent
-code et à l'article L. 310-1 du code des assurances, les sociétés de
-capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695 du 11 juillet
-1985 portant diverses dispositions d'ordre économique et financier, en vue de la
-souscription des titres qu'elles émettent, ainsi que les établissements et
-entreprises équivalents agréés dans un autre Etat membre de la Communauté
-européenne et habilités à intervenir sur le territoire français ;
+mentionnés à l'article L. 518-1, les établissements de paiement, les entreprises
+d'investissement et les entreprises d'assurance définies respectivement à
+l'article L. 531-4 du présent code et à l'article L. 310-1 du code des
+assurances, les sociétés de capital-risque mentionnées à l'article 1er-1 de la
+loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre
+économique et financier, en vue de la souscription des titres qu'elles émettent,
+ainsi que les établissements et entreprises équivalents agréés dans un autre
+Etat membre de la Communauté européenne et habilités à intervenir sur le
+territoire français ;
 
 2° Les entreprises, dans le cadre des dispositifs relevant du titre IV du livre
 IV du code du travail qu'elles proposent à leurs bénéficiaires, ainsi que les

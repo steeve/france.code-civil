@@ -15,8 +15,9 @@ entreprises liées un pouvoir de contrôle effectif sur les autres ;
 
 4. Emettre des titres financiers ;
 
-5. Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou
-d'un service déterminé ;
+5. Emettre des instruments de paiement délivrés pour l'achat auprès d'elle ou
+auprès d'entreprises liées avec elle par un accord de franchise commerciale,
+d'un bien ou d'un service déterminé ;
 
 6. Remettre des espèces en garantie d'une opération sur instruments financiers
 ou d'une opération de prêt de titres régies par les dispositions des articles L.
@@ -25,15 +26,12 @@ ou d'une opération de prêt de titres régies par les dispositions des articles
 7. Prendre ou mettre en pension des instruments financiers et effets publics
 mentionnés aux articles L. 211-27 et L. 211-34.
 
-II.-Le Comité des établissements de crédit et des entreprises d'investissement
-peut exempter d'agrément une entreprise exerçant toute activité de mise à
-disposition ou de gestion de moyens de paiement lorsque ceux-ci ne sont acceptés
-que par des sociétés qui sont liées à cette entreprise au sens du 3 du I ou par
-un nombre limité d'entreprises qui se distinguent clairement par le fait
-qu'elles se trouvent dans les mêmes locaux ou dans une zone géographique
-restreinte ou par leur étroite relation financière ou commerciale avec
-l'établissement émetteur, notamment sous la forme d'un dispositif de
-commercialisation ou de distribution commun.
+II.-Le comité des établissements de crédit et des entreprises d'investissement
+peut exempter d'agrément une entreprise fournissant des services bancaires de
+paiement, pour l'acquisition de biens ou de services dans les locaux de cette
+entreprise ou dans le cadre d'un accord commercial avec elle, s'appliquant à un
+réseau limité de personnes acceptant ces services bancaires de paiement ou pour
+un éventail limité de biens ou de services.
 
 Pour accorder l'exemption, le Comité des établissements de crédit et des
 entreprises d'investissement doit notamment prendre en compte la sécurité des

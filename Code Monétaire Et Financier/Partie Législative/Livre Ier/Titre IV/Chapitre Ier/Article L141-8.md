@@ -20,4 +20,7 @@ France, ainsi que toute autre personne titulaire de comptes de clientèle à la
 Banque de France au 6 août 1993 ;
 
 7. Tout autre organisme ou personne expressément autorisés par décision du
-Conseil général à ouvrir un compte à la Banque de France.
+Conseil général à ouvrir un compte à la Banque de France ;
+
+8. Les établissements de paiement régis par le chapitre II du titre II du livre
+V.

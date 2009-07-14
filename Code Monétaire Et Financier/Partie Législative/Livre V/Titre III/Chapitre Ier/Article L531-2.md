@@ -67,8 +67,8 @@ marchandises ou autres contrats à terme précisés par décret, aux clients de 
 activité principale, à condition que ces prestations soient accessoires à leur
 activité principale, lorsque cette activité principale est appréhendée au niveau
 du groupe au sens du III de l'article L. 511-20, et qu'elle ne consiste pas en
-la fourniture de services d'investissement ou en la réalisation d'opérations de
-banque ;
+la fourniture de services d'investissement, en la réalisation d'opérations de
+banque ou la fourniture de services de paiement ;
 
 k) Les conseillers en investissements financiers, dans les conditions et limites
 fixées au chapitre Ier du titre IV ;
@@ -84,8 +84,8 @@ propre des marchandises ou des instruments dérivés sur marchandises. La prése
 exception ne s'applique pas lorsque la personne qui négocie pour compte propre
 des marchandises ou des instruments dérivés sur marchandises fait partie d'un
 groupe, au sens du III de l'article L. 511-20, dont l'activité principale est la
-fourniture de services d'investissement ou la réalisation d'opérations de banque
-;
+fourniture de services d'investissement, la réalisation d'opérations de banque
+ou la fourniture de services de paiement ;
 
 n) Les entreprises dont les services d'investissement consistent exclusivement à
 négocier pour compte propre sur des marchés d'instruments financiers à terme, ou

@@ -1,6 +1,7 @@
 Article L611-1
 ----
-Le ministre chargé de l'économie arrête les règles concernant notamment :
+Le ministre chargé de l'économie arrête, pour les établissements de crédit, les
+règles concernant notamment :
 
 1. Le montant du capital des établissements de crédit et les conditions dans
 lesquelles des participations directes ou indirectes peuvent être prises,
@@ -14,10 +15,10 @@ un pouvoir de contrôle effectif sur un ou plusieurs établissements de crédit 
 participations ;
 
 4. Les conditions des opérations que peuvent effectuer les établissements de
-crédit, en particulier dans leurs relations avec la clientèle, ainsi que les
-conditions de la concurrence ;
+crédit ou leurs agents, en particulier dans leurs relations avec la clientèle,
+ainsi que les conditions de la concurrence ;
 
-5. L'organisation des services communs ;
+5.L'organisation des services communs ;
 
 6. Les normes de gestion que les établissements de crédit doivent respecter en
 vue notamment de garantir leur liquidité, leur solvabilité et l'équilibre de

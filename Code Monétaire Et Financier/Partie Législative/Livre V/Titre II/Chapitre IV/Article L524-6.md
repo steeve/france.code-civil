@@ -14,7 +14,7 @@ change manuel, d'organisation et de contrôle interne propres à en assurer le
 respect.
 
 II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs
-manuels dans les conditions prévues à l'article L. 613-21-1.
+manuels dans les conditions prévues au II de l'article L. 613-21.
 
 La Commission bancaire exerce le contrôle, notamment sur place, des changeurs
 manuels dans les conditions prévues aux articles L. 613-6 à L. 613-8, L. 613-10,

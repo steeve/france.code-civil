@@ -6,6 +6,9 @@ du présent chapitre :
 1° Les organismes, institutions et services régis par les dispositions du titre
 Ier du présent livre ;
 
+1° bis Les établissements de paiement régis par les dispositions du chapitre II
+du titre II du présent livre ;
+
 2° Les entreprises mentionnées à l'article L. 310-1 du code des assurances et
 les intermédiaires d'assurance sauf ceux qui agissent sous l'entière
 responsabilité de l'entreprise d'assurance ;
@@ -46,7 +49,7 @@ des paris, des pronostics sportifs ou hippiques ;
 de pierres précieuses, de matériaux précieux, d'antiquités et d'œuvres d'art ;
 
 11° Les entreprises bénéficiant de l'exemption prévue au II de l'article L.
-511-7 ;
+511-7 et les entreprises mentionnées au I de l'article L. 521-3 ;
 
 12° Les experts-comptables, les salariés autorisés à exercer la profession
 d'expert-comptable en application des articles 83 ter et 83 quater de

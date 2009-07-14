@@ -1,11 +1,11 @@
 Article L613-9
 ----
 I.-La commission bancaire peut demander aux commissaires aux comptes des
-personnes soumises à son contrôle en application des articles L. 613-1 et L.
-613-2 et des personnes morales définies au 4 de l'article L. 511-21 tout
-renseignement sur l'activité et sur la situation financière de l'entité qu'ils
-contrôlent ainsi que sur les diligences qu'ils y ont effectuées dans le cadre de
-leur mission.
+personnes soumises à son contrôle en application des articles L. 613-1, L.
+613-1-1 et L. 613-2 et des personnes morales définies au 4 de l'article L.
+511-21 tout renseignement sur l'activité et sur la situation financière de
+l'entité qu'ils contrôlent ainsi que sur les diligences qu'ils y ont effectuées
+dans le cadre de leur mission.
 
 La commission bancaire peut également transmettre aux commissaires aux comptes
 des personnes mentionnées au précédent alinéa, des organismes de placement

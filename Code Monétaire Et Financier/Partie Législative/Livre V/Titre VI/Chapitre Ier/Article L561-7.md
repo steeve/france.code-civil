@@ -35,3 +35,8 @@ garantit un niveau de protection suffisant de la vie privée et des libertés et
 droits fondamentaux des personnes, conformément aux articles 68 et 69 de la loi
 n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés.
+
+Pour l'application du présent article, les personnes mentionnées aux 1° à 6° de
+l'article L. 561-2 s'entendent à l'exclusion des personnes mentionnées au 1° bis
+du même article qui fournissent principalement le service mentionné au 6° du II
+de l'article L. 314-1.

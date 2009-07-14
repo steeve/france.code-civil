@@ -13,14 +13,15 @@ autorisés à utiliser leurs approches internes d'évaluation des risques.
 
 Les établissements de crédit doivent également disposer d'un système adéquat de
 contrôle interne leur permettant notamment de mesurer les risques et la
-rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base
-de la situation financière consolidée, les groupes financiers ou mixtes doivent
-adopter des procédures de contrôle interne adéquates pour la production des
-informations et renseignements utiles aux fins de l'exercice de cette
-surveillance. Les établissements de crédit notifient à la commission bancaire
-les transactions importantes entre les établissements de crédit d'un groupe
-mixte et la compagnie mixte ou ses filiales, dans les conditions définies à
-l'article L. 613-8.
+rentabilité de leurs activités, y compris lorsqu'ils confient à des tiers des
+fonctions ou autres tâches opérationnelles essentielles ou importantes. Lorsque
+la surveillance est exercée sur la base de la situation financière consolidée,
+les groupes financiers ou mixtes doivent adopter des procédures de contrôle
+interne adéquates pour la production des informations et renseignements utiles
+aux fins de l'exercice de cette surveillance. Les établissements de crédit
+notifient à la commission bancaire les transactions importantes entre les
+établissements de crédit d'un groupe mixte et la compagnie mixte ou ses
+filiales, dans les conditions définies à l'article L. 613-8.
 
 Un arrêté du ministre chargé de l'économie définit les conditions d'application
 du présent article.

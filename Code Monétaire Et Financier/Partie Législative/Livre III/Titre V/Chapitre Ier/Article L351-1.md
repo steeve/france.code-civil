@@ -1,24 +1,24 @@
 Article L351-1
 ----
 Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des
-obligations mentionnées aux deuxième, troisième, quatrième et cinquième alinéas
-du I de l'article L. 312-1-1. Cette amende est prononcée et recouvrée suivant
-les règles applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi
-par l'administration qui a constaté l'infraction.
+obligations mentionnées aux deuxième, troisième, quatrième et septième alinéas
+du I de l'article L. 312-1-1, à l'article L. 314-12 et au II de l'article L.
+314-13. Cette amende est prononcée et recouvrée suivant les règles applicables à
+la taxe sur la valeur ajoutée. Le contentieux est suivi par l'administration qui
+a constaté l'infraction.
 
 Est puni de la peine d'amende prévue pour les contraventions de la cinquième
-classe le fait de méconnaître l'une des obligations mentionnées aux premier,
-sixième et septième alinéas du I de l'article L. 312-1-1 ou l'une des
-interdictions édictées au I de l'article L. 312-1-2.
+classe le fait de méconnaître l'une des obligations mentionnées au premier
+alinéa du I, au II de l'article L. 312-1-1 et au VII de l'article L. 314-13 ou
+l'une des interdictions édictées au I de l'article L. 312-1-2.
 
 Avant d'engager l'action publique tendant à l'application de la sanction pénale
 prévue au présent article, le parquet peut saisir pour avis le comité de la
-médiation bancaire s'il l'estime nécessaire, mentionné au II de l'article L.
-312-1-3. En cas de dépôt d'une plainte avec constitution de partie civile
-portant sur des infractions aux dispositions mentionnées au premier alinéa, le
-procureur de la République peut, avant de prendre ses réquisitions, saisir pour
-avis le comité de la médiation bancaire. Les réquisitions sont transmises au
-juge d'instruction après avis du comité.
+médiation bancaire s'il l'estime nécessaire. En cas de dépôt d'une plainte avec
+constitution de partie civile portant sur des infractions aux dispositions
+mentionnées au premier alinéa, le procureur de la République peut, avant de
+prendre ses réquisitions, saisir pour avis le comité de la médiation bancaire.
+Les réquisitions sont transmises au juge d'instruction après avis du comité.
 
 En cas de citation directe à l'audience du tribunal correctionnel par la victime
 pour les infractions visées à l'alinéa précédent, le président peut, avant tout

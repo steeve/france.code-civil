@@ -6,11 +6,11 @@ services énumérés à l'article L. 518-1, ni les entreprises régies par le co
 des assurances, ni les sociétés de réassurance, ni les organismes agréés soumis
 aux dispositions du livre II du code de la mutualité pour les opérations visées
 au e du 1° de l'article L. 111-1 dudit code, ni les entreprises
-d'investissement, ni les organismes collecteurs de la participation des
-employeurs à l'effort de construction pour les opérations prévues par le code de
-la construction et de l'habitation, ni les organismes de titrisation, ni les
-organismes de placement collectif en valeurs mobilières ni les organismes de
-placement collectif immobilier.
+d'investissement, ni les établissements de paiement, ni les organismes
+collecteurs de la participation des employeurs à l'effort de construction pour
+les opérations prévues par le code de la construction et de l'habitation, ni les
+organismes de titrisation, ni les organismes de placement collectif en valeurs
+mobilières ni les organismes de placement collectif immobilier.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 

@@ -22,5 +22,5 @@ de crédit ;
 peuvent être transférés chez un autre prestataire de services d'investissement
 ou chez l'émetteur ;
 
-5. Les opérations prévues aux articles L. 311-2, L. 511-2 et L. 511-3 sont
-limitées.
+5. Les opérations prévues aux 1 à 6 de l'article L. 311-2 et aux articles L.
+511-2 et L. 511-3 sont limitées.

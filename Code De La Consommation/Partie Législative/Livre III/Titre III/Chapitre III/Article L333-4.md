@@ -7,7 +7,8 @@ est soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
 Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
-et financier et les organismes mentionnés au 5 de l'article L. 511-6 du même
+et financier, les établissements de paiement mentionnés au titre II du livre V
+du même code et les organismes mentionnés au 5 de l'article L. 511-6 du même
 code sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa
 précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux
 personnes physiques concernées.
@@ -42,13 +43,14 @@ Les organismes professionnels ou organes centraux représentant les
 tenir des fichiers recensant des incidents de paiement.
 
 La Banque de France est déliée du secret professionnel pour la diffusion, aux
-établissements de crédit et aux organismes mentionnés au 5 de l'article L. 511-6
-du code monétaire et financier, des informations nominatives contenues dans le
-fichier.
+établissements de crédit, aux établissements de paiement et aux organismes
+mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des
+informations nominatives contenues dans le fichier.
 
-Il est interdit à la Banque de France et aux établissements de crédit et aux
-organismes mentionnés au 5 de l'article L. 511-6 du code monétaire et financier
-de remettre à quiconque copie, sous quelque forme que ce soit, des informations
-contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès
-conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous
-peine des sanctions prévues aux articles 226-22 et 226-21 du code pénal.
+Il est interdit à la Banque de France et aux établissements de crédit, aux
+établissements de paiement et aux organismes mentionnés au 5 de l'article L.
+511-6 du code monétaire et financier de remettre à quiconque copie, sous quelque
+forme que ce soit, des informations contenues dans le fichier, même à
+l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la
+loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux
+articles 226-22 et 226-21 du code pénal.

@@ -12,7 +12,7 @@ privé.
 
 Ils peuvent se faire communiquer les registres et les documents professionnels
 que les changeurs manuels sont tenus d'établir en application du présent titre
-et de l'article L. 561-12.
+et des articles L. 563-2 à L. 563-4.
 
 Ils peuvent se faire délivrer copie des documents susmentionnés.
 
