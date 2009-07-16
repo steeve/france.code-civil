@@ -11,7 +11,7 @@ tirant d'eau maximal d'été, et sont exprimés en mètres et décimètres.
 
 La valeur du tirant d'eau maximal du navire prise en compte pour l'application
 de la formule ci-dessus ne peut, en aucun cas, être inférieure à une valeur
-théorique égale à 0,14 x VL x b (L et b étant respectivement la longueur hors
+théorique égale à 0, 14 x VL x b (L et b étant respectivement la longueur hors
 tout et la largeur maximale du navire).
 
 Pour les aéroglisseurs, l'assiette de la redevance sur le navire est le volume V
@@ -20,7 +20,7 @@ d'eau égal à un mètre.
 
 Le taux de la redevance sur le navire est fixé dans chaque port par mètre cube
 ou multiple de mètres cubes. Il peut varier selon les types de navires
-déterminés par l'arrêté mentionné à l'article R. *212-9 en fonction de leur
+déterminés par l'arrêté mentionné à l'article R. *211-9 en fonction de leur
 aménagement ou de l'usage pour lequel ils sont conçus.
 
 Un taux particulier est prévu pour les navires n'effectuant que des opérations
