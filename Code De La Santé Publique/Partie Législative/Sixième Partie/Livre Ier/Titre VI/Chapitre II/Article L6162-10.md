@@ -12,3 +12,9 @@ cancer.
 
 Le président du conseil d'administration peut demander au ministre chargé de la
 santé de mettre une fin anticipée au mandat du directeur du centre.
+
+En cas de vacance des fonctions de directeur général, le directeur général de
+l'agence régionale de santé désigne, pour une durée d'au plus quatre mois, un
+directeur général à titre intérimaire après avis du président du conseil
+d'administration et de la fédération nationale des centres de lutte contre le
+cancer la plus représentative.

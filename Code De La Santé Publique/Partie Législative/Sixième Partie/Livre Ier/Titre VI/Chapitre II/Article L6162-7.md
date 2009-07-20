@@ -13,8 +13,8 @@ coordination de l'enseignement médical ;
 3° Le directeur général du centre hospitalier universitaire avec lequel le
 centre a passé la convention prévue à l'article L. 6142-5 ou, en cas de
 contractualisation avec plusieurs centres hospitaliers universitaires, le
-directeur général de l'un d'entre eux, désigné par le directeur de directeur
-général de l'agence régionale de santé ;
+directeur général de l'un d'entre eux, désigné par le directeur de l'agence
+régionale de l'hospitalisation ;
 
 4° Une personnalité scientifique désignée par l'Institut national du cancer ;
 
@@ -29,5 +29,5 @@ La présidence du conseil d'administration appartient au représentant de l'Etat
 désigné en application du 1°.
 
 Le directeur général du centre, accompagné des collaborateurs de son choix, et
-le directeur de directeur général de l'agence régionale de santé ou son
-représentant assistent au conseil avec voix consultative.
+le directeur de l'agence régionale de l'hospitalisation ou son représentant
+assistent au conseil avec voix consultative.

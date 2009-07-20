@@ -40,11 +40,12 @@ A ce titre :
 a) Elles contribuent à évaluer et à promouvoir la qualité des formations des
 professionnels de santé ;
 
-b) Elles autorisent la création et les activités des établissements de santé et
-des installations mentionnées aux articles L. 6322-1 à L. 6322-3 ainsi que des
-établissements et services médico-sociaux au b de l'article L. 313-3 du code de
-l'action sociale et des familles ; elles contrôlent leur fonctionnement et leur
-allouent les ressources qui relèvent de leur compétence ;
+b) Elles autorisent la création et les activités des établissements et services
+de santé ainsi que des établissements et services médico-sociaux mentionnés aux
+2°, 3°, 5°, 6°, 7°, 11° et 12° du I de l'article L. 312-1 du code de l'action
+sociale et des familles et à l'article L. 314-3-3 du même code ; elles
+contrôlent leur fonctionnement et leur allouent les ressources qui relèvent de
+leur compétence ;
 
 c) Elles veillent à ce que la répartition territoriale de l'offre de soins
 permette de satisfaire les besoins de santé de la population.A ce titre, elles
@@ -74,10 +75,7 @@ modalités de recours aux soins et des pratiques des professionnels de santé en
 médecine ambulatoire et dans les établissements et services de santé et
 médico-sociaux ;
 
-h) En relation avec les autorités compétentes de l'Etat et les collectivités
-territoriales qui le souhaitent, elles encouragent et favorisent, au sein des
-établissements, l'élaboration et la mise en œuvre d'un volet culturel ;
-
-i) Elles évaluent et identifient les besoins sanitaires des personnes en
-détention. Elles définissent et régulent l'offre de soins en milieu
-pénitentiaire.
+h) En relation avec les directions régionales des affaires culturelles mais
+aussi avec les collectivités territoriales qui le souhaitent, elles encouragent
+et favorisent, au sein des établissements, l'élaboration et la mise en œuvre
+d'un volet culturel.

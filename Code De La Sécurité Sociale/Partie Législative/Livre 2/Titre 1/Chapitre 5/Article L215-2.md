@@ -1,7 +1,7 @@
 Article L215-2
 ----
-Chaque caisse d'assurance retraite et de la santé au travail est administrée par
-un conseil d'administration de vingt et un membres comprenant :
+Chaque caisse régionale d'assurance maladie est administrée par un conseil
+d'administration de vingt et un membres comprenant :
 
 1° Huit représentants des assurés sociaux désignés par les organisations
 syndicales de salariés interprofessionnelles représentatives au plan national ;
@@ -13,8 +13,8 @@ professionnelles nationales d'employeurs représentatives ;
 ;
 
 4° Quatre personnes qualifiées dans les domaines d'activité des caisses
-d'assurance retraite et de la santé au travail et désignées par l'autorité
-compétente de l'Etat, dont au moins un représentant des retraités.
+régionales d'assurance maladie et désignées par l'autorité compétente de l'Etat,
+dont au moins un représentant des retraités.
 
 Siègent également avec voix consultative :
 
@@ -27,3 +27,7 @@ d'unions départementales dans cette circonscription, elles ne sont pas parvenue
 à un accord ;
 
 2° Trois représentants du personnel élus dans des conditions fixées par décret.
+
+Lorsque le conseil d'administration se prononce au titre du 2° de l'article L.
+215-1, seuls prennent part au vote les membres mentionnés aux deuxième et
+troisième alinéas du présent article.
