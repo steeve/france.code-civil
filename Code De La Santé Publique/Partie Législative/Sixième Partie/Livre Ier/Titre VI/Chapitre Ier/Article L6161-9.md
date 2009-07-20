@@ -14,3 +14,7 @@ missions de service public et aux activités de soins de l'établissement dans l
 cadre d'un contrat conclu avec l'établissement, qui fixe les conditions et
 modalités de leur participation et assure le respect des garanties mentionnées à
 l'article L. 6112-3.
+
+Ils sont présumés ne pas être liés par un contrat de travail avec
+l'établissement qui a recours à eux dans les conditions prévues au présent
+article.

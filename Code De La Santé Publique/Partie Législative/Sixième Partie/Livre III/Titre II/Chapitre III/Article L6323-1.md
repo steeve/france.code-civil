@@ -31,5 +31,17 @@ Les médecins qui exercent en centre de santé sont salariés.
 
 Les centres de santé sont soumis pour leur activité à des conditions techniques
 de fonctionnement prévues par décret, après consultation des représentants des
-gestionnaires de centres de santé. Ce texte détermine également les modalités de
-la période transitoire (1).
+gestionnaires de centres de santé.
+
+Ce décret prévoit également les conditions dans lesquelles, en cas de manquement
+compromettant la qualité et la sécurité des soins dans un centre de santé, le
+directeur général de l'agence régionale de santé peut :
+
+- enjoindre au gestionnaire du centre d'y mettre fin dans un délai déterminé ;
+
+- en cas d'urgence tenant à la sécurité des patients ou de non-respect de
+l'injonction, prononcer la suspension immédiate, totale ou partielle, de
+l'activité du centre, assortie d'une mise en demeure de prendre les mesures
+nécessaires ;
+
+- maintenir cette suspension jusqu'à ce que ces mesures aient pris effet.
