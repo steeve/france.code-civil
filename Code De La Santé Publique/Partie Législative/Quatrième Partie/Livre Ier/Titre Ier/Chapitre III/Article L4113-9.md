@@ -11,6 +11,8 @@ matériel et de ce local.
 
 Les mêmes obligations s'appliquent aux contrats et avenants ayant pour objet de
 transmettre sous condition résolutoire la propriété du matériel et du local.
+Elles ne s'appliquent pas aux contrats conformes à un contrat-type soumis à
+l'approbation des ministres chargés de la santé et de la sécurité sociale.
 
 La communication prévue ci-dessus doit être faite dans le mois suivant la
 conclusion du contrat ou de l'avenant, afin de permettre l'application des
