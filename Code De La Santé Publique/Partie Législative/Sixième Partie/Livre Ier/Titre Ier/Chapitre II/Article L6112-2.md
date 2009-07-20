@@ -12,7 +12,7 @@ définies à l'article L. 6112-1 :
 victimes de la guerre ;
 
 -le service de santé des armées, dans des conditions fixées par décret en
-conseil des ministres ;
+Conseil d'Etat ;
 
 -les groupements de coopération sanitaire ;
 
