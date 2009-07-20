@@ -8,7 +8,7 @@ et d'enseignement :
 1° Les médecins mentionnés au 1° de l'article D. 1223-22, qui ne justifient pas
 des titres et travaux dans l'une des disciplines énumérées ;
 
-2° Les médecins et les pharmaciens titulaires d'un doctorat ou d'une
+2° Les médecins et les pharmaciens titulaires d'un doctorat en sciences ou d'une
 habilitation à diriger des recherches et justifiant de publications dans
 plusieurs revues scientifiques ;
 
