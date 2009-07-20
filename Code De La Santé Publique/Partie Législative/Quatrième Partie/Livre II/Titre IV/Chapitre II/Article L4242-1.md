@@ -1,12 +1,12 @@
 Article L4242-1
 ----
-La formation continue a pour finalité le perfectionnement des connaissances et
-l'amélioration de la qualité des soins.
+Le développement professionnel continu a pour objectifs l'évaluation des
+pratiques professionnelles, le perfectionnement des connaissances,
+l'amélioration de la qualité et de la sécurité des soins ainsi que la prise en
+compte des priorités de santé publique et de la maîtrise médicalisée des
+dépenses de santé.
 
-La formation continue est obligatoire pour les préparateurs en pharmacie.
-
-L'obligation de formation est satisfaite notamment par tout moyen permettant
-d'évaluer les compétences et les pratiques professionnelles.
-
-Les conditions de mise en oeuvre de la formation continue de la profession de
-préparateur en pharmacie sont fixées par décret en Conseil d'Etat.
+Le développement professionnel continu est une obligation pour les préparateurs
+en pharmacie et les préparateurs en pharmacie hospitalière. Il se réalise dans
+le respect des règles d'organisation et de prise en charge propres à leur
+secteur d'activité, dans des conditions définies par décret en Conseil d'Etat.

@@ -1,23 +1,15 @@
 Article L4133-2
 ----
-Le Conseil national de la formation médicale continue des médecins libéraux et
-le Conseil national de la formation continue des médecins salariés non
-hospitaliers ont pour mission :
+Un décret en Conseil d'Etat détermine les modalités selon lesquelles :
 
-1° De fixer les orientations nationales de la formation médicale continue ;
+1° Les médecins satisfont à leur obligation de développement professionnel
+continu ainsi que les critères de qualité des actions qui leur sont proposées à
+ce titre ;
 
-2° D'agréer les organismes formateurs, notamment sur la base des programmes
-proposés ;
+2° L'organisme gestionnaire du développement professionnel continu, après
+évaluation par une commission scientifique indépendante, enregistre l'ensemble
+des organismes concourant à l'offre de développement professionnel continu et
+finance les programmes et actions prioritaires.
 
-3° Paragraphe supprimé
-
-4° De fixer les règles que suivent les conseils régionaux pour valider le
-respect de l'obligation de formation médicale continue. Ces règles sont
-homologuées par arrêté du ministre chargé de la santé ;
-
-5° De donner un avis au ministre chargé de la santé sur toutes les questions
-concernant la formation médicale continue.
-
-Chaque conseil national dresse dans un rapport annuel le bilan de la formation
-médicale continue dans son domaine de compétence. Ces rapports sont rendus
-publics.
+Un décret fixe les missions, la composition et les modalités de fonctionnement
+de la commission scientifique indépendante.

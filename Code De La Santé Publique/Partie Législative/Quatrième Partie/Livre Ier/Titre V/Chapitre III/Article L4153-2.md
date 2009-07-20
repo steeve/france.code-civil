@@ -1,10 +1,10 @@
-Article L4236-2
+Article L4153-2
 ----
 Un décret en Conseil d'Etat détermine les modalités selon lesquelles :
 
-1° Les pharmaciens satisfont à leur obligation de développement professionnel
-pharmaceutique continu ainsi que les critères de qualité des actions qui leur
-sont proposées à ce titre ;
+1° Les sages-femmes satisfont à leur obligation de développement professionnel
+continu en maïeutique ainsi que les critères de qualité des actions qui leur
+sont proposées ;
 
 2° L'organisme gestionnaire du développement professionnel continu, après
 évaluation par une commission scientifique indépendante, enregistre l'ensemble
