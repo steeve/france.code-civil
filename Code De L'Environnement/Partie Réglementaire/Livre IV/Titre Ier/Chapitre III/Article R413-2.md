@@ -11,4 +11,6 @@ Cette commission peut être consultée par le ministre sur les moyens propres à
 améliorer les conditions d'entretien ainsi que de présentation au public des
 animaux d'espèces non domestiques tenus en captivité. Elle donne son avis sur
 les demandes de certificats de capacité dans les cas prévus par le premier
-alinéa de l'article R. 413-6.
+alinéa de l'article R. 413-6. Elle est également chargée d'organiser l'épreuve
+d'aptitude dans les cas prévus au IV de l'article R. 413-4 et au II de l'article
+R. 413-26.
