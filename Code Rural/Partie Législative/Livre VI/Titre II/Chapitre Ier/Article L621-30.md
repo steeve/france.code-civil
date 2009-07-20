@@ -1,18 +1,22 @@
 Article L621-30
 ----
-Les producteurs de céréales, membres d'une coopérative de meunerie ayant pour
-seul objet d'écraser les céréales provenant de leur récolte, sont autorisés à
-livrer directement la totalité de leurs céréales au moulin coopératif auquel ils
-adhèrent.
+La production de farine de blé tendre destinée à la consommation humaine en
+France métropolitaine est subordonnée à la détention d'un contingent de meunerie
+ouvrant droit à l'exploitation d'un moulin dans la limite d'une quantité
+annuelle déterminée de blé tendre. La capacité d'écrasement autorisée au titre
+de chaque contingent de meunerie peut être augmentée par acquisition ou location
+de droits de mouture détachés d'un autre contingent. L'Office national
+interprofessionnel des grandes cultures enregistre les contingents et droits de
+mouture, leurs titulaires et leur transfert.
 
-Les coopératives agricoles de meunerie et de meunerie-boulangerie créées et
-fonctionnant sous le régime du livre V du présent code sont considérées comme
-coopératives de céréales au regard de la présente section.
+Les moulins dotés d'une capacité d'écrasement inférieure à un seuil défini par
+décret sont dispensés de l'obligation de détenir un contingent sous réserve
+qu'ils soient enregistrés.
 
-Dans le cas où elles écrasent les céréales de leurs usagers, elles conservent,
-pour les opérations faites avec leurs adhérents, le bénéfice des exonérations
-fiscales prévues par le code général des impôts.
+Les modalités de l'enregistrement des moulins de faible capacité ainsi que les
+conditions dans lesquelles contingents et droits de mouture sont calculés,
+enregistrés et peuvent être transférés entre moulins sont définies par décret.
 
-Les coopératives agricoles de boulangerie, constituées et fonctionnant
-conformément au livre V du présent code, peuvent faire moudre à façon les
-céréales de leurs adhérents.
+Les contingents de meunerie et droits de mouture mentionnés au présent article
+sont ceux qui existent à la date de publication de l'ordonnance n° 2006-594 du
+23 mai 2006.

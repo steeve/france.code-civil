@@ -131,9 +131,12 @@ séparation de corps ou de divorce, ou en cas d'instance en séparation de corps
 ou en divorce ;
 
 5° Les salaires versés au titre des contrats conclus en application de l'article
-L. 117-1 du code du travail.
+L. 117-1 du code du travail ;
 
-6° (Abrogé).
+6° (Abrogé) ;
 
 7° L'indemnité de cessation d'activité visée au V de l'article 41 de la loi de
-financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
+financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
+
+8° L'indemnité prévue à l'article 9 de la loi n° 2006-586 du 23 mai 2006
+relative au volontariat associatif et à l'engagement éducatif.

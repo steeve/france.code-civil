@@ -27,8 +27,7 @@ prestataires de service d'investissement agréés ;
 
 7° De l'article L. 623-3 du code monétaire et financier ;
 
-8° De l'article L. 3634-4 du code de la santé publique contre les décisions de
-sanction de l'Agence française de lutte contre le dopage ;
+8° Des articles L. 232-24 et L. 241-8 du code du sport ;
 
 9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions
 de sanction prises par la Commission de régulation de l'énergie.

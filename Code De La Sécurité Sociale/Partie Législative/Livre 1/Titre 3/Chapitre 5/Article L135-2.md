@@ -7,7 +7,7 @@ premier alinéa de l'article L. 135-1 sont les suivantes :
 
 - au dernier alinéa de l'article L. 643-1 ;
 
-- aux chapitres V et V ter du titre Ier du livre VIII ;
+- au chapitre V du titre Ier du livre VIII ;
 
 - à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
 minimum vieillesse ;
@@ -61,8 +61,13 @@ du nombre d'enfants aux ressortissants du régime de protection sociale des
 personnes non salariées des professions agricoles ;
 
 7° Les sommes représentatives de la prise en compte par les régimes d'assurance
-vieillesse de base des périodes de volontariat du service national de leurs
-assurés ;
+vieillesse de base :
+
+a) Des périodes de volontariat du service national de leurs assurés ;
+
+b) Des périodes de volontariat associatif de leurs assurés, dans les conditions
+définies au dernier alinéa de l'article 13 de la loi n° 2006-586 du 23 mai 2006
+relative au volontariat associatif et à l'engagement éducatif ;
 
 8° Les frais de gestion administrative du fonds correspondant à des opérations
 de solidarité ;
@@ -71,10 +76,9 @@ de solidarité ;
 âgées prévue à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 relative
 à la protection sanitaire et sociale à Mayotte.
 
-Les sommes mentionnées aux a, b, d et e du 4° et au 7° sont calculées sur une
-base forfaitaire déterminée après avis des conseils d'administration des caisses
-des régimes d'assurance vieillesse de base concernées dans des conditions fixées
-par décret en Conseil d'Etat.
+Les sommes mentionnées aux a, b, d et e du 4° et au 7° sont déterminées dans des
+conditions fixées par décret en Conseil d'Etat. A l'exception de celles
+mentionnées au b du 7°, elles sont calculées sur une base forfaitaire.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du

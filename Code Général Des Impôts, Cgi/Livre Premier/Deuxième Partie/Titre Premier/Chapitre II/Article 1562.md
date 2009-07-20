@@ -23,7 +23,7 @@ deux mois, la perception portée en consignation est convertie en recette
 définitive. En outre, ces mêmes organisateurs et bénéficiaires doivent tenir
 leur comptabilité à la disposition des agents de cette administration pendant le
 délai prévu au premier alinéa du I de l'article L102 B du livre des procédures
-fiscales (1).
+fiscales.
 
 En aucun cas, la réduction d'impôt ne doit être accordée :
 
@@ -35,12 +35,9 @@ séances sont organisées d'autre bénéfice que celui des réductions d'impôt
 prévues par la réglementation en vigueur ;
 
 5° Quatre des manifestations sportives organisées dans l'année par les
-associations sportives agréées par le ministre chargé des sports et par les
-groupements sportifs et les sociétés sportives visés à l'article 11 de la loi n°
-84-610 du 16 juillet 1984 modifié relative à l'organisation et à la promotion
-des activités physiques et sportives ;
+associations sportives agréées par le ministre chargé des sports et les
+associations sportives et les sociétés sportives mentionnées à l'article L.
+122-1 du code du sport ;
 
 6° Les appareils automatiques autres que ceux désignés au III de l'article 1560
 mis en exploitation au cours du deuxième semestre de l'année.
-
-(1) Voir annexe III art. 350 quater I 1°.

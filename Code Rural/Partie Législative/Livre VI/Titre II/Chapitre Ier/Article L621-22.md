@@ -35,13 +35,6 @@ contentieux et de l'Agence judiciaire du Trésor.
 La formalité est donnée en débet en ce qui concerne tant la taxe hypothécaire
 proprement dite que le salaire du conservateur.
 
-Les dispositions relatives aux sociétés de crédit foncier et applicables à
-l'expropriation et à la vente en cas de non-paiement des annuités ou pour toute
-autre cause, mentionnées aux articles 32 à 42 du décret du 28 février 1852 sur
-les sociétés de crédit foncier, sont étendues à l'Office national
-interprofessionnel des grandes cultures pour toutes les hypothèques prises en
-exécution des alinéas précédents du présent article.
-
-En outre, l'Office national interprofessionnel des grandes cultures peut
-exercer, dans les conditions prévues par l'article 1166 du code civil, tous les
-droits et actions du débiteur auquel il a dû se substituer.
+L'Office national interprofessionnel des grandes cultures peut exercer, dans les
+conditions prévues par l'article 1166 du code civil, tous les droits et actions
+du débiteur auquel il a dû se substituer.
