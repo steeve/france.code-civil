@@ -26,6 +26,6 @@ professionnelle, sauf dérogation prévue par le code de déontologie mentionné
 l'article L. 4127-1.
 
 Un médecin, un chirurgien-dentiste ou une sage-femme inscrit ou enregistré en
-cette qualité dans un Etat ne faisant pas partie de la Communauté européenne ou
+cette qualité dans un Etat ne faisant pas partie de l'Union européenne ou
 n'étant pas partie à l'accord sur l'Espace économique européen ne peut être
 inscrit à un tableau de l'ordre dont il relève.
