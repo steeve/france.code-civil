@@ -5,7 +5,8 @@ intitulés " comptes de titres-restaurant ".
 
 Sous réserve des dispositions des articles L. 3262-4 et L. 3262-5, ils ne
 peuvent être débités qu'au profit de personnes ou d'organismes exerçant la
-profession de restaurateur, d'hôtelier restaurateur ou une activité assimilée.
+profession de restaurateur, d'hôtelier restaurateur ou une activité assimilée,
+ou la profession de détaillant en fruits et légumes.
 
 Les émetteurs spécialisés mentionnés au 2° de l'article L. 3262-1, qui n'ont pas
 déposé à l'avance à leur compte de titres-restaurant le montant de la valeur

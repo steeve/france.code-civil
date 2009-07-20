@@ -10,7 +10,10 @@ par les organisations professionnelles nationales d'employeurs représentatives 
 2° De représentants de la Fédération nationale de la mutualité française ;
 
 3° De représentants d'institutions désignées par l'Etat intervenant dans le
-domaine de l'assurance maladie.
+domaine de l'assurance maladie ;
+
+4° De personnalités qualifiées dans les domaines d'activité des organismes
+d'assurance maladie et désignées par l'autorité compétente de l'Etat.
 
 Le conseil est majoritairement composé de représentants visés au deuxième
 alinéa.
@@ -58,11 +61,11 @@ de leurs groupements ou unions ;
 
 9° Les budgets nationaux de gestion et d'intervention.
 
-Le directeur général prépare les orientations mentionnées au douzième alinéa,
-les propositions mentionnées au treizième alinéa et les budgets prévus au
-dix-neuvième alinéa en vue de leur approbation par le conseil. Le conseil peut,
-sur la base d'un avis motivé, demander au directeur général un second projet. Il
-ne peut s'opposer à ce second projet qu'à la majorité des deux tiers de ses
+Le directeur général prépare les orientations mentionnées au treizième alinéa,
+les propositions mentionnées au quatorzième alinéa et les budgets prévus au
+vingtième alinéa en vue de leur approbation par le conseil. Le conseil peut, sur
+la base d'un avis motivé, demander au directeur général un second projet. Il ne
+peut s'opposer à ce second projet qu'à la majorité des deux tiers de ses
 membres.
 
 Le président du conseil et le directeur général signent la convention

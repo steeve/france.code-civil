@@ -63,14 +63,20 @@ programmation pour la ville et la rénovation urbaine et destinés à être occu
 par des ménages dont le total des ressources n'excède pas le montant mentionné à
 l'article R. 391-8 du code de la construction et de l'habitation.
 
-3 septies Les ventes et apports de locaux aux établissements mentionnés aux 6°
-et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles,
-agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils
-accueillent des personnes handicapées ou, lorsqu'ils accueillent des personnes
-âgées s'ils remplissent les critères d'éligibilité au prêt prévu à l'article R.
-331-1 du code de la construction et de l'habitation, et qui font l'objet d'une
-convention entre le propriétaire ou le gestionnaire des locaux et le
-représentant de l'Etat dans le département.
+3 septies Les ventes et apports de locaux destinés à l'hébergement aux
+établissements mentionnés au 2° du I de l'article L. 312-1 du code de l'action
+sociale et des familles et les ventes et apports de locaux aux établissements
+mentionnés aux 6° et 7° du I du même article, agissant sans but lucratif et dont
+la gestion est désintéressée, lorsqu'ils hébergent des personnes handicapées à
+titre permanent ou temporaire ou, lorsqu'ils hébergent des personnes âgées à
+titre permanent ou temporaire aux établissements mentionnés aux 6° et 7° du I de
+l'article L. 312-1 du code de l'action sociale et des familles, agissant sans
+but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des
+personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils
+remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du
+code de la construction et de l'habitation, et qui font l'objet d'une convention
+entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat
+dans le département.
 
 3 octies Les ventes de terrains à bâtir et de droit au bail à construction, en
 vue de l'acquisition de logements neufs à titre de première résidence principale

@@ -14,3 +14,7 @@ l'agence peut :
 2° Exiger qu'elle soit modifiée ;
 
 3° L'interdire et éventuellement exiger la diffusion d'un rectificatif.
+
+Toute publicité auprès des professionnels de santé pour des vaccins est
+assortie, de façon clairement identifiée et sans renvoi, des recommandations in
+extenso de l'avis du Haut Conseil de la santé publique.

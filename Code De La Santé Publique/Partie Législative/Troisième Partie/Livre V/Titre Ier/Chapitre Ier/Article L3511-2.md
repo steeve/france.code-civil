@@ -14,3 +14,7 @@ moins de trente grammes de tabacs fine coupe destinés à rouler des cigarettes,
 quel que soit leur conditionnement.
 
 Est interdite la vente de produits du tabac en distributeurs automatiques.
+
+Sont interdites la vente, la distribution ou l'offre à titre gratuit de
+cigarettes aromatisées dont la teneur en ingrédients donnant une saveur sucrée
+ou acidulée dépasse des seuils fixés par décret.

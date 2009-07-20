@@ -37,11 +37,8 @@ s'engagent dans ce cadre à réaliser un taux significatif de télétransmission
 documents nécessaires au remboursement des actes ou des prestations qu'ils
 dispensent ;
 
-7° Les objectifs et les modalités d'organisation de la formation professionnelle
-conventionnelle des différentes catégories de personnels médicaux et
-paramédicaux exerçant dans les centres de santé. La convention fixe le montant
-de la dotation annuelle des caisses nationales d'assurance maladie signataires
-assurant le financement de ces formations ;
+7° Le montant de la contribution annuelle des caisses nationales d'assurance
+maladie au développement professionnel continu ;
 
 8° Le cas échéant, des dispositifs d'aide visant à faciliter l'installation des
 centres de santé dans les zones mentionnées à l'article L. 162-47 ainsi que les

@@ -1,13 +1,10 @@
 Article L6161-8
 ----
-Les dispositions des articles L. 6143-2 et L. 6143-2-1 sont applicables aux
-établissements mentionnés à l'article L. 6161-6. Le projet d'établissement est
-approuvé par le directeur de l'agence régionale de l'hospitalisation dans un
-délai de six mois.
-
-Tout établissement de santé privé participant au service public hospitalier doit
-comporter une commission médicale élue par les praticiens qui y exercent, dont
-il fixe les modalités d'organisation et de fonctionnement et qui est consultée
-notamment sur le projet de contrat pluriannuel mentionné à l'article L. 6114-1
-sur le projet d'établissement et sur le projet d'état des prévisions de recettes
-et de dépenses.
+Les établissements de santé privés d'intérêt collectif peuvent conclure, pour un
+ou plusieurs objectifs déterminés, soit avec un établissement public de santé,
+soit avec une communauté hospitalière de territoire, des accords en vue de leur
+association à la réalisation des missions de service public. Ces accords sont
+conclus sur la base du projet régional de santé défini à l'article L. 1434-1,
+notamment du schéma régional d'organisation des soins défini aux articles L.
+1434-7 et L. 1434-9 ou du schéma interrégional défini à l'article L. 1434-10.
+Ils sont approuvés par le directeur général de l'agence régionale de santé.

@@ -12,4 +12,6 @@ L'examen postnatal peut être pratiqué par une sage-femme si la grossesse a ét
 normale et si l'accouchement a été eutocique.
 
 L'exercice de la profession de sage-femme peut comporter également la
-participation aux consultations de planification familiale.
+réalisation de consultations de contraception et de suivi gynécologique de
+prévention, sous réserve que la sage-femme adresse la femme à un médecin en cas
+de situation pathologique.

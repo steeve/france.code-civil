@@ -1,5 +1,6 @@
 Article L3342-1
 ----
-Dans les débits de boissons et tous commerces ou lieux publics, il est interdit
-de vendre ou d'offrir à titre gratuit à des mineurs de moins de seize ans des
-boissons alcooliques à consommer sur place ou à emporter.
+La vente des boissons alcooliques à des mineurs est interdite.L'offre de ces
+boissons à titre gratuit à des mineurs est également interdite dans les débits
+de boissons et tous commerces ou lieux publics. La personne qui délivre la
+boisson peut exiger du client qu'il établisse la preuve de sa majorité.

@@ -7,8 +7,10 @@ cette activité.
 Une commission nationale de l'activité libérale siège auprès du ministre chargé
 de la santé.
 
-Les attributions, la composition et les conditions de fonctionnement de ces
-commissions sont fixées par voie réglementaire.
+Les attributions, les conditions de fonctionnement et la composition de ces
+commissions, au sein desquelles doit notamment siéger un représentant des
+usagers du système de santé au sens de l'article L. 1114-1, sont fixées par voie
+réglementaire.
 
 Ces commissions peuvent, sous réserve du respect du secret médical, demander
 toutes informations utiles sur l'activité libérale d'un praticien, et notamment

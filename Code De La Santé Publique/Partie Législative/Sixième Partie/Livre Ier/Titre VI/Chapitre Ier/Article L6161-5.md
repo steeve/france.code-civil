@@ -1,11 +1,18 @@
 Article L6161-5
 ----
-Les établissements de santé privés peuvent être admis à assurer l'exécution du
-service public hospitalier dans les conditions prévues par le présent chapitre,
-sur leur demande ou sur celle de la personne morale dont ils dépendent, sous
-réserve qu'ils s'engagent à respecter les obligations de service public imposées
-aux établissements publics de santé par les dispositions des articles L. 6111-1
-à L. 6112-2. Les établissements de santé privés assurant l'exécution du service
-public hospitalier sont assimilés aux établissements publics de santé en ce qui
-concerne l'accès des assurés sociaux et des personnes bénéficiaires de l'aide
-sociale.
+Sont qualifiés d'établissements de santé privés d'intérêt collectif :
+
+1° Les centres de lutte contre le cancer ;
+
+2° Les établissements de santé privés gérés par des organismes sans but lucratif
+qui en font la déclaration auprès de l'agence régionale de santé.
+
+Les obligations à l'égard des patients prévues aux 1° et 2° de l'article L.
+6112-3 sont applicables aux établissements de santé privés d'intérêt collectif
+pour l'ensemble de leurs missions.
+
+Les établissements de santé privés d'intérêt collectif appliquent aux assurés
+sociaux les tarifs prévus aux articles L. 162-20 et L. 162-26 du code de la
+sécurité sociale.
+
+Les modalités d'application du présent article sont déterminées par décret.

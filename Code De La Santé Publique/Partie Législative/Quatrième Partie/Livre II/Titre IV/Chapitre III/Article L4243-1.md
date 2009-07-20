@@ -1,7 +1,8 @@
 Article L4243-1
 ----
-L'exercice illégal de la profession de préparateur en pharmacie est puni d'un an
-d'emprisonnement et de 15 000 euros d'amende.
+L'exercice illégal de la profession de préparateur en pharmacie et de
+préparateur en pharmacie hospitalière est puni d'un an d'emprisonnement et de 15
+000 euros d'amende.
 
 Les personnes physiques encourent également les peines complémentaires suivantes
 :

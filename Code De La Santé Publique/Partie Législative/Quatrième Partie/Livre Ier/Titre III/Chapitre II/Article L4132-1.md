@@ -1,21 +1,25 @@
 Article L4132-1
 ----
-Le Conseil national de l'ordre des médecins comprend quarante et un membres, à
+Le Conseil national de l'ordre des médecins comprend cinquante et un membres, à
 savoir :
 
-1° Trente-trois membres élus pour six ans par les conseils départementaux.
+1° Quarante-six membres élus pour six ans par les conseils départementaux.
 
 Ces membres sont répartis comme suit :
 
-a) Un membre par ressort territorial de chaque conseil régional métropolitain ;
+a) Un membre par ressort territorial de chaque conseil régional métropolitain
+hors Ile-de-France ;
 
-b) Neuf membres supplémentaires pour le ressort territorial du Conseil régional
-de la région Ile-de-France, répartis entre les départements de cette région
-selon des modalités fixées par arrêté du ministre chargé de la santé, compte
-tenu du nombre des médecins inscrits aux derniers tableaux qui ont été publiés
-pour ces départements ;
+b) Pour la région Ile-de-France, douze membres, répartis entre les départements
+de cette région selon des modalités fixées par arrêté du ministre chargé de la
+santé, compte tenu du nombre des médecins inscrits aux derniers tableaux qui ont
+été publiés pour ces départements ;
 
-c) Deux membres supplémentaires pour le ressort territorial de deux conseils
+b bis) Deux membres supplémentaires pour le ressort territorial de la région
+Provence-Alpes-Côte d'Azur et deux pour le ressort territorial de la région
+Rhône-Alpes ;
+
+c) Neuf membres supplémentaires pour le ressort territorial de neuf conseils
 régionaux désignés par arrêté du ministre chargé de la santé, compte tenu du
 nombre des médecins inscrits aux derniers tableaux publiés pour l'ensemble des
 départements métropolitains.
@@ -28,6 +32,3 @@ conformément aux règles fixées au 1° du présent article.
 
 3° Un membre de l'Académie nationale de médecine qui est désigné par ses
 collègues.
-
-4° Trois membres élus par les autres membres du conseil national et
-n'appartenant pas à la région Ile-de-France.

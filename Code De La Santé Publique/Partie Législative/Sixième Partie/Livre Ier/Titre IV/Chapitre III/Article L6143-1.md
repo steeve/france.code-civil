@@ -1,58 +1,51 @@
 Article L6143-1
 ----
-Le conseil d'administration arrête la politique générale de l'établissement, sa
-politique d'évaluation et de contrôle et délibère, après avis de la commission
-médicale d'établissement et du comité technique d'établissement, sur :
+Le conseil de surveillance se prononce sur la stratégie et exerce le contrôle
+permanent de la gestion de l'établissement. Il délibère sur :
 
-1° Le projet d'établissement et le contrat pluriannuel mentionné à l'article L.
-6114-1, après avoir entendu le président de la commission médicale
-d'établissement ;
+1° Le projet d'établissement mentionné à l'article L. 6143-2 ;
 
-2° La politique d'amélioration continue de la qualité et de la sécurité des
-soins, ainsi que les conditions d'accueil et de prise en charge des usagers,
-notamment pour les urgences ;
-
-3° L'état des prévisions de recettes et de dépenses prévu à l'article L. 6145-1,
-ses modifications, ses éléments annexes, le rapport préliminaire à cet état,
-ainsi que les propositions de tarifs de prestations mentionnés à l'article L.
-174-3 du code de la sécurité sociale ;
-
-4° Le plan de redressement prévu à l'article L. 6143-3 ;
-
-5° Les comptes et l'affectation des résultats d'exploitation ;
-
-6° L'organisation interne de l'établissement définie à l'article L. 6146-1 ainsi
-que les procédures prévues à l'article L. 6145-16 ;
-
-7° Les structures prévues à l'article L. 6146-10 ;
-
-8° La politique sociale et les modalités d'une politique d'intéressement ainsi
-que le bilan social ;
-
-9° La mise en oeuvre annuelle de la politique de l'établissement en matière de
-participation aux réseaux de santé mentionnés à l'article L. 6321-1 et d'actions
-de coopération mentionnées au titre III du présent livre, définie par le projet
-d'établissement et le contrat pluriannuel d'objectifs et de moyens ;
-
-10° Les acquisitions, aliénations, échanges d'immeubles et leur affectation,
-ainsi que les conditions des baux de plus de dix-huit ans ;
-
-11° Les baux emphytéotiques mentionnés à l'article L. 6148-2, les contrats de
-partenariat conclus en application de l'article 19 de l'ordonnance n° 2004-559
-du 17 juin 2004 et les conventions conclues en application de l'article L.
-6148-3 et de l'article L. 1311-4-1 du code général des collectivités
-territoriales, lorsqu'elles répondent aux besoins d'un établissement public de
-santé ou d'une structure de coopération sanitaire dotée de la personnalité
-morale publique ;
-
-12° La convention constitutive des centres hospitaliers et universitaires et les
+2° La convention constitutive des centres hospitaliers universitaires et les
 conventions passées en application de l'article L. 6142-5 ;
 
-13° La prise de participation, la modification de l'objet social ou des
-structures des organes dirigeants, la modification du capital et la désignation
-du ou des représentants de l'établissement au sein du conseil d'administration
-ou de surveillance d'une société d'économie mixte locale, dans les conditions
-prévues par le présent code et par le code général des collectivités
-territoriales ;
+3° Le compte financier et l'affectation des résultats ;
 
-14° Le règlement intérieur.
+4° Toute mesure relative à la participation de l'établissement à une communauté
+hospitalière de territoire dès lors qu'un centre hospitalier universitaire est
+partie prenante ainsi que tout projet tendant à la fusion avec un ou plusieurs
+établissements publics de santé ;
+
+5° Le rapport annuel sur l'activité de l'établissement présenté par le directeur
+;
+
+6° Toute convention intervenant entre l'établissement public de santé et l'un
+des membres de son directoire ou de son conseil de surveillance ;
+
+7° Les statuts des fondations hospitalières créées par l'établissement.
+
+Il donne son avis sur :
+
+― la politique d'amélioration continue de la qualité, de la sécurité des soins
+et de la gestion des risques ainsi que les conditions d'accueil et de prise en
+charge des usagers ;
+
+― les acquisitions, aliénations, échanges d'immeubles et leur affectation, les
+baux de plus de dix-huit ans, les baux emphytéotiques et les contrats de
+partenariat mentionnés aux articles L. 6148-2 et L. 6148-3 ;
+
+― le règlement intérieur de l'établissement.
+
+Le conseil de surveillance communique au directeur général de l'agence régionale
+de santé ses observations sur le rapport annuel présenté par le directeur et sur
+la gestion de l'établissement.
+
+A tout moment, le conseil de surveillance opère les vérifications et les
+contrôles qu'il juge opportuns et peut se faire communiquer les documents qu'il
+estime nécessaires à l'accomplissement de sa mission.
+
+Si les comptes de l'établissement sont soumis à certification en application de
+l'article L. 6145-16, le conseil de surveillance nomme, le cas échéant, le
+commissaire aux comptes.
+
+Le conseil de surveillance entend le directeur sur l'état des prévisions de
+recettes et de dépenses ainsi que sur le programme d'investissement.

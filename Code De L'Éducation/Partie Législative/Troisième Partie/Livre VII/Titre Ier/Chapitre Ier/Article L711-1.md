@@ -25,20 +25,22 @@ constitué. Le regroupement est approuvé par décret.
 
 Les activités de formation, de recherche et de documentation des établissements
 font l'objet de contrats pluriannuels d'établissement dans le cadre de la carte
-des formations supérieures définie à l'article L. 614-3. Ces contrats prévoient
-les conditions dans lesquelles les personnels titulaires et contractuels de
-l'établissement sont évalués, conformément aux dispositions de l'article L.
-114-3-1 du code de la recherche relatives à l'Agence d'évaluation de la
-recherche et de l'enseignement supérieur, ainsi que, le cas échéant, les
-modalités de la participation de l'établissement à un pôle de recherche et
-d'enseignement supérieur. Ils fixent en outre certaines obligations des
-établissements et prévoient les moyens et emplois correspondants pouvant être
-mis à leur disposition par l'Etat.L'attribution de ces moyens s'effectue
-annuellement dans les limites prévues par la loi de finances. Les établissements
-rendent compte périodiquement de l'exécution de leurs engagements ; leurs
-rapports sont soumis à l'Agence d'évaluation de la recherche et de
-l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la
-recherche.
+des formations supérieures définie à l'article L. 614-3. S'agissant des
+composantes médicales de l'université, ces contrats prennent en compte les
+éléments figurant dans la convention prévue à l'article L. 713-4 passée avec le
+centre hospitalier régional. Ces contrats prévoient les conditions dans
+lesquelles les personnels titulaires et contractuels de l'établissement sont
+évalués, conformément aux dispositions de l'article L. 114-3-1 du code de la
+recherche relatives à l'Agence d'évaluation de la recherche et de l'enseignement
+supérieur, ainsi que, le cas échéant, les modalités de la participation de
+l'établissement à un pôle de recherche et d'enseignement supérieur. Ils fixent
+en outre certaines obligations des établissements et prévoient les moyens et
+emplois correspondants pouvant être mis à leur disposition par l'Etat.
+L'attribution de ces moyens s'effectue annuellement dans les limites prévues par
+la loi de finances. Les établissements rendent compte périodiquement de
+l'exécution de leurs engagements ; leurs rapports sont soumis à l'Agence
+d'évaluation de la recherche et de l'enseignement supérieur mentionnée à
+l'article L. 114-3-1 du code de la recherche.
 
 Ils mettent en place un outil de contrôle de gestion et d'aide à la décision de
 nature à leur permettre d'assumer l'ensemble de leurs missions, compétences et

@@ -1,8 +1,14 @@
 Article L6143-3-2
 ----
-Le directeur de la caisse régionale d'assurance maladie peut demander au
-directeur de l'agence régionale de l'hospitalisation d'engager les procédures
-prévues par les dispositions des articles L. 6143-3, L. 6143-3-1 et L. 6161-3-1.
+Toute convention entre l'établissement public de santé et l'un des membres de
+son directoire ou de son conseil de surveillance fait l'objet d'une délibération
+du conseil de surveillance.
 
-Le directeur de l'agence régionale de l'hospitalisation doit, en cas de refus,
-présenter un avis motivé à la commission exécutive de l'agence.
+Il en est de même des conventions auxquelles l'une de ces personnes est
+indirectement intéressée ou dans lesquelles elle traite avec l'établissement par
+personne interposée.
+
+A peine de révocation de ses fonctions au sein de l'établissement, la personne
+intéressée est tenue, avant la conclusion de la convention, de déclarer au
+conseil de surveillance qu'elle se trouve dans une des situations mentionnées
+ci-dessus.

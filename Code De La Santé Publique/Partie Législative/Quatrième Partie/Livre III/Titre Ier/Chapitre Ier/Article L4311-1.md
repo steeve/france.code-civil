@@ -12,6 +12,15 @@ prescription médicale, dont la liste, les modalités et les conditions de
 réalisation sont fixées par décret en Conseil d'Etat, pris après avis du Haut
 conseil de la santé publique.
 
+L'infirmière ou l'infirmier est autorisé à renouveler les prescriptions, datant
+de moins d'un an, de médicaments contraceptifs oraux dont la liste est fixée par
+arrêté du ministre chargé de la santé, après avis de l'Agence française de
+sécurité sanitaire des produits de santé, pour une durée maximale de six mois,
+non renouvelable. Cette disposition est également applicable aux infirmières et
+infirmiers exerçant dans les établissements mentionnés au deuxième alinéa du I
+de l'article L. 5134-1 et dans les services mentionnés au premier alinéa de
+l'article L. 2112-1 et à l'article L. 2311-4.
+
 Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe la
 liste des dispositifs médicaux que les infirmiers, lorsqu'ils agissent sur
 prescription médicale, peuvent prescrire à leurs patients sauf en cas

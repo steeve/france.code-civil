@@ -1,8 +1,7 @@
 Article L4123-8
 ----
-Des membres suppléants, également renouvelables par tiers tous les deux ans,
-sont élus dans les mêmes conditions que les membres titulaires et au cours du
-même scrutin.
+Des membres suppléants sont élus dans les mêmes conditions que les membres
+titulaires et au cours du même scrutin.
 
 Le nombre des membres suppléants est fixé par voie réglementaire.
 

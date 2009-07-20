@@ -10,15 +10,23 @@ l'exception des formations prises en charge par la région en application des
 articles L. 4151-9, L. 4244-1 et L. 4383-5 du même code, à ceux relatifs à la
 mise en oeuvre des orientations du schéma régional d'organisation sanitaire, à
 ceux visant à améliorer la qualité des soins ou à répondre aux priorités
-nationales ou locales en matière de politique sanitaire, par dérogation aux
-dispositions de l'article L. 162-1-7, à ceux relatifs à la mise en oeuvre de la
-politique nationale en matière d'innovation médicale ou au rôle de recours
-dévolu à certains établissements. Par dérogation aux dispositions de l'article
-L. 162-22-6, cette dotation participe également au financement des activités de
+nationales ou locales en matière de politique sanitaire, notamment la création
+de communautés hospitalières de territoire, par dérogation aux dispositions de
+l'article L. 162-1-7, à ceux relatifs à la mise en oeuvre de la politique
+nationale en matière d'innovation médicale ou au rôle de recours dévolu à
+certains établissements. Par dérogation aux dispositions de l'article L.
+162-22-6, cette dotation participe également au financement des activités de
 soins dispensés à certaines populations spécifiques. Ces engagements sont
 mentionnés au contrat pluriannuel d'objectifs et de moyens mentionné à l'article
 L. 6114-2 du code de la santé publique ou, à défaut, dans un engagement
 contractuel spécifique.
+
+Lorsque des établissements de santé ont constitué un groupement de coopération
+sanitaire pour mettre en œuvre tout ou partie de leurs missions d'intérêt
+général et d'aide à la contractualisation, la dotation de financement relative
+aux missions transférées peut être versée directement au groupement de
+coopération sanitaire par la caisse d'assurance maladie désignée en application
+de l'article L. 174-2 ou de l'article L. 174-18, selon le cas.
 
 L'Etat détermine, en fonction de l'objectif national de dépenses d'assurance
 maladie, le montant de la dotation nationale et fixe, après avis des

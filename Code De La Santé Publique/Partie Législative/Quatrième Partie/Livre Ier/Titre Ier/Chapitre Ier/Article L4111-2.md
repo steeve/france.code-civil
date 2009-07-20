@@ -8,15 +8,22 @@ autre titre permettant l'exercice de la profession de médecin,
 chirurgien-dentiste ou sage-femme dans le pays d'obtention de ce diplôme,
 certificat ou titre.
 
-Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification de
-leur maîtrise de la langue française et des connaissances, organisées par
-profession, discipline ou spécialité. Des dispositions réglementaires fixent les
-conditions d'organisation de ces épreuves. Le nombre maximum de candidats
-susceptibles d'être reçus à ces épreuves pour chaque profession et pour chaque
-discipline ou spécialité est fixé par arrêté du ministre chargé de la santé en
-tenant compte, notamment, de l'évolution des nombres d'étudiants déterminés
-conformément aux dispositions du premier alinéa de l'article L. 631-1 du code de
-l'éducation.
+Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification
+des connaissances, organisées par profession, discipline ou spécialité, et
+justifier d'un niveau suffisant de maîtrise de la langue française. Les
+personnes ayant obtenu en France un diplôme interuniversitaire de
+spécialisation, totalisant trois ans de fonction au-delà de leur formation et
+justifiant de fonctions médicales rémunérées en France au cours des deux années
+précédant la publication de la loi n° 2009-879 du 21 juillet 2009 portant
+réforme de l'hôpital et relative aux patients, à la santé et aux territoires
+sont réputées avoir satisfait à l'exigence de maîtrise de la langue française.
+Des dispositions réglementaires fixent les conditions d'organisation de ces
+épreuves et de vérification du niveau de maîtrise de la langue française. Le
+nombre maximum de candidats susceptibles d'être reçus à ces épreuves pour chaque
+profession et pour chaque discipline ou spécialité est fixé par arrêté du
+ministre chargé de la santé en tenant compte, notamment, de l'évolution des
+nombres d'étudiants déterminés conformément aux dispositions du premier alinéa
+de l'article L. 631-1 du code de l'éducation.
 
 Le nombre maximum mentionné à l'alinéa précédent n'est pas opposable aux
 réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la
@@ -29,7 +36,20 @@ formation des internes. Toutefois, les fonctions exercées avant la réussite à
 ces épreuves peuvent être prises en compte après avis de la commission
 mentionnée au premier alinéa, dans des conditions fixées par voie réglementaire.
 
-Nul ne peut être candidat plus de deux fois aux épreuves de vérification des
+Les lauréats, candidats à la profession de chirurgien-dentiste, doivent en outre
+justifier d'une année de fonctions accomplies dans un service ou organisme agréé
+pour la formation des internes. Toutefois, les fonctions exercées avant la
+réussite à ces épreuves peuvent être prises en compte après avis de la
+commission mentionnée au premier alinéa, dans des conditions fixées par voie
+réglementaire.
+
+Les lauréats, candidats à la profession de sage-femme, doivent en outre
+justifier d'une année de fonctions accomplies dans l'unité d'obstétrique d'un
+établissement public de santé ou d'un établissement privé participant au service
+public. Les sages-femmes sont recrutées conformément aux dispositions du 4° de
+l'article L. 6152-1 dans des conditions fixées par voie réglementaire.
+
+Nul ne peut être candidat plus de trois fois aux épreuves de vérification des
 connaissances et à l'autorisation d'exercice.
 
 I bis.-Le ministre chargé de la santé peut également, après avis de la
@@ -42,7 +62,7 @@ autorisés à exercer pour chaque profession et, en ce qui concerne la professio
 de médecin, pour chaque discipline ou spécialité, est fixé par arrêté du
 ministre chargé de la santé.
 
-Nul ne peut être candidat plus de deux fois à l'autorisation d'exercice.
+Nul ne peut être candidat plus de trois fois à l'autorisation d'exercice.
 
 II.-L'autorité compétente peut également, après avis d'une commission, composée
 notamment de professionnels, autoriser individuellement à exercer la profession

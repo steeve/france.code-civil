@@ -8,14 +8,14 @@ plus tard dans un délai de trois jours suivant la décision de suspension.
 
 Le représentant de l'Etat dans le département informe immédiatement de sa
 décision le président du conseil départemental compétent et saisit sans délai le
-conseil régional ou interrégional lorsque le danger est lié à une infirmité ou
-un état pathologique du professionnel, ou la chambre disciplinaire de première
-instance dans les autres cas. Le conseil régional ou interrégional ou la chambre
-disciplinaire de première instance statue dans un délai de deux mois à compter
-de sa saisine. En l'absence de décision dans ce délai, l'affaire est portée
-devant le Conseil national ou la Chambre disciplinaire nationale, qui statue
-dans un délai de deux mois. A défaut de décision dans ce délai, la mesure de
-suspension prend fin automatiquement.
+conseil régional ou interrégional lorsque le danger est lié à une infirmité, un
+état pathologique ou l'insuffisance professionnelle du praticien, ou la chambre
+disciplinaire de première instance dans les autres cas. Le conseil régional ou
+interrégional ou la chambre disciplinaire de première instance statue dans un
+délai de deux mois à compter de sa saisine. En l'absence de décision dans ce
+délai, l'affaire est portée devant le Conseil national ou la Chambre
+disciplinaire nationale, qui statue dans un délai de deux mois. A défaut de
+décision dans ce délai, la mesure de suspension prend fin automatiquement.
 
 Le représentant de l'Etat dans le département informe également les organismes
 d'assurance maladie dont dépend le professionnel concerné par sa décision.

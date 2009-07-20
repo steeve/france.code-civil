@@ -1,5 +1,5 @@
 Article L1341-2
 ----
-Les compositions recueillies par les centres antipoison sont transmises, dans
-des conditions assurant leur confidentialité, à l'organisme agréé mentionné à
-l'article L. 1342-1 chargé de centraliser ces informations.
+Les professionnels de santé sont tenus de déclarer aux organismes chargés de la
+toxicovigilance les cas d'intoxication humaine induits par toute substance ou
+préparation dont ils ont connaissance.

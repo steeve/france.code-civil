@@ -17,8 +17,8 @@ aux assurés sociaux, le bon usage du médicament et les conditions dans
 lesquelles les pharmaciens peuvent être appelés à participer à la coordination
 des soins ;
 
-3° Les thèmes de formation correspondant aux objectifs de l'assurance maladie
-susceptibles d'être retenus et les modalités de financement ;
+3° Le montant de la contribution annuelle des caisses nationales d'assurance
+maladie au développement professionnel continu ;
 
 4° Les mesures tendant à favoriser le développement de la dispense d'avance des
 frais ;

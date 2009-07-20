@@ -18,7 +18,9 @@ conventions qui sont de la compétence de l'union ;
 5° Les projets de loi et de décret transmis par le ministre chargé de la
 sécurité sociale ;
 
-6° Le budget annuel de gestion administrative.
+6° Le budget annuel de gestion administrative ;
+
+7° Les orientations du contrat d'objectifs prévu à l'article L. 182-2-1-1.
 
 Le collège des directeurs prépare, en vue de son adoption par le conseil, un
 projet sur la participation mentionnée au 2°. Le conseil peut, sur la base d'un
@@ -26,7 +28,10 @@ avis motivé, demander au directeur un second projet. Il ne peut s'opposer à ce
 second projet qu'à la majorité qualifiée des deux tiers.
 
 Le conseil est tenu informé par le collège des directeurs de la mise en oeuvre
-des orientations prévues au 3° et au 4°. Il peut rendre un avis motivé sur la
+des orientations prévues aux 3°, 4° et 7°. Il peut rendre un avis motivé sur la
 mise en oeuvre de ces orientations et notamment sur l'accord cadre, les
 conventions, les avenants et annexes régissant les relations avec les
 professions de santé et les centres de santé.
+
+Le collège des directeurs prépare, en vue de leur adoption par le conseil, les
+orientations mentionnées au 7°.

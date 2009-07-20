@@ -8,10 +8,11 @@ ces établissements et leurs relations avec les collectivités territoriales, le
 usagers et l'Etat ;
 
 2° Entreprendre toutes études et enquêtes portant sur la gestion administrative
-et financière des établissements ;
+et financière des établissements et des structures de santé auxquelles ils
+participent ou qu'ils gèrent ;
 
-3° Assurer des missions d'assistance technique, d'audit et de contrôle de
-gestion, que les établissements peuvent demander au ministre.
+3° Assurer, sur le même champ, des missions d'assistance technique, d'audit et
+de contrôle de gestion.
 
 Les conseillers généraux des établissements de santé relèvent du titre IV du
 statut général des fonctionnaires et sont rattachés, pour leur gestion et leur
@@ -22,8 +23,8 @@ des conditions définies par décret en Conseil d'Etat parmi les fonctionnaires 
 catégorie A et les praticiens titulaires ou parmi les personnalités qui ont
 exercé des responsabilités dans des instances ou des organismes en relation avec
 l'hôpital ou ayant réalisé des travaux scientifiques dans le domaine de la santé
-publique. A la demande du directeur de l'agence régionale de l'hospitalisation
-et dans les conditions prévues à l'article L. 6143-3-1, des conseillers généraux
+publique.A la demande du directeur de l'agence régionale de l'hospitalisation et
+dans les conditions prévues à l'article L. 6143-3-1, des conseillers généraux
 des établissements de santé peuvent être désignés par le ministre chargé de la
 santé pour assurer l'administration provisoire d'un établissement public de
 santé.

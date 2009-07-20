@@ -7,3 +7,6 @@ services et établissements sociaux et médico-sociaux mentionnés aux articles 
 Les services et établissements créés en application de l'alinéa précédent
 doivent répondre aux conditions de fonctionnement et de prise en charge et
 satisfaire aux règles de procédure énoncées par le code susmentionné.
+
+Les établissements de santé peuvent créer et gérer les centres de santé
+mentionnés à l'article L. 6323-1 du présent code.

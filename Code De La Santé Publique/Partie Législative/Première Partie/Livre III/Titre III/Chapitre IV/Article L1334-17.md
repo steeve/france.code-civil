@@ -1,0 +1,14 @@
+Article L1334-17
+----
+Les conditions d'application des articles L. 1334-12-1 à L. 1334-16 sont
+déterminées par décret en Conseil d'Etat, et en particulier :
+
+1° Les immeubles bâtis et les produits et matériaux concernés ;
+
+2° Les modalités de réalisation des repérages ;
+
+3° Les conditions auxquelles doivent répondre les organismes réalisant les
+repérages et les opérations de contrôle ainsi que les modalités de contrôle de
+leur respect ;
+
+4° La nature des mesures à prendre en cas de présence d'amiante.

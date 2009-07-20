@@ -1,7 +1,7 @@
 Article L4232-9
 ----
 Le conseil central gérant de la section D de l'ordre des pharmaciens est composé
-de trente-trois membres nommés ou élus pour quatre ans.
+de trente-trois membres nommés ou élus pour six ans.
 
 Ce conseil central comprend :
 

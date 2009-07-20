@@ -7,14 +7,16 @@ et actes mentionnés à l'article L. 162-26 du même code, de ceux des médicame
 et produits et prestations mentionnés à l'article L. 162-22-7 du même code, des
 forfaits annuels prévus à l'article L. 162-22-8 du même code, de la dotation de
 financement des activités d'intérêt général et d'aide à la contractualisation
-prévue à l'article L. 162-22-14 du même code et, le cas échéant, des dotations
-annuelles prévues aux articles L. 162-22-16 et L. 174-1 du même code, ainsi que
+prévue à l'article L. 162-22-14 du même code, des prestations prévues aux
+troisième et quatrième alinéas de l'article L. 1424-42 du code général des
+collectivités territoriales et, le cas échéant, des dotations annuelles prévues
+aux articles L. 162-22-16 et L. 174-1 du code de la sécurité sociale, ainsi que
 de l'activité prévisionnelle de l'établissement et, d'autre part, en cohérence
 avec les objectifs et les orientations du contrat pluriannuel d'objectifs et de
-moyens. L'état des prévisions de recettes et de dépenses donne lieu à révision
-du plan global de financement pluriannuel mentionné à l'article L. 6143-2. Il
-est présenté par le directeur de l'établissement au conseil d'administration et
-voté par ce dernier.
+moyens.L'état des prévisions de recettes et de dépenses donne lieu à révision du
+plan global de financement pluriannuel mentionné à l'article L. 6143-2. Il est
+présenté par le directeur de l'établissement au conseil d'administration et voté
+par ce dernier.
 
 Dans le cas où l'état des prévisions de recettes et de dépenses n'est pas
 approuvé par le directeur de l'agence régionale de l'hospitalisation, le

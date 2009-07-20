@@ -1,7 +1,7 @@
 Article L6162-9
 ----
 Le conseil d'administration arrête la politique générale du centre ainsi que sa
-politique d'évaluation et de contrôle. A ce titre il procède aux contrôles et
+politique d'évaluation et de contrôle.A ce titre il procède aux contrôles et
 vérification qu'il juge opportuns et délibère sur :
 
 1° Le projet d'établissement et le contrat pluriannuel d'objectifs et de moyens
@@ -11,9 +11,8 @@ vérification qu'il juge opportuns et délibère sur :
 soins ainsi que des conditions d'accueil et de prise en charge des usagers ;
 
 3° L'état des prévisions de recettes et de dépenses prévu à l'article L. 6145-1,
-ses modifications, ses éléments annexes, le rapport préliminaire à cet état,
-ainsi que les propositions de tarifs de prestations mentionnés à l'article L.
-174-3 du code de la sécurité sociale ;
+le plan global de financement pluriannuel et les propositions de tarifs des
+prestations mentionnées à l'article L. 174-3 du code de la sécurité sociale ;
 
 4° Les comptes et l'affectation des résultats d'exploitation ;
 

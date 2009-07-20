@@ -2,7 +2,8 @@ Article L4321-17
 ----
 Dans chaque région, un conseil régional de l'ordre des
 masseurs-kinésithérapeutes assure les fonctions de représentation de la
-profession dans la région et de coordination des conseils départementaux.
+profession dans la région et de coordination des conseils départementaux ou
+interdépartementaux.
 
 Il organise et participe à des actions d'évaluation des pratiques de ces
 professionnels, en liaison avec le conseil national de l'ordre et avec la Haute

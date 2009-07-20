@@ -1,7 +1,12 @@
 Article L6315-1
 ----
-Sous réserve des missions dévolues aux établissements de santé, les médecins
-mentionnés à l'article L. 162-5, dans le cadre de leur activité libérale, et à
-l'article L. 162-32-1 du code de la sécurité sociale participent, dans un but
-d'intérêt général, à la permanence des soins dans des conditions et selon des
-modalités d'organisation définies par un décret en Conseil d'Etat.
+La continuité des soins aux malades est assurée quelles que soient les
+circonstances. Lorsque le médecin se dégage de sa mission de soins pour des
+raisons professionnelles ou personnelles, il doit indiquer à ses patients le
+confrère auquel ils pourront s'adresser en son absence. Le médecin doit
+également informer le conseil départemental de l'ordre de ses absences
+programmées dans les conditions et selon les modalités définies par décret.
+
+Le conseil départemental de l'ordre veille au respect de l'obligation de
+continuité des soins et en informe le directeur général de l'agence régionale de
+santé.

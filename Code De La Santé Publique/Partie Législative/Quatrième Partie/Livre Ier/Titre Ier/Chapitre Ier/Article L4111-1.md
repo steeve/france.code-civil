@@ -16,3 +16,10 @@ chapitre ;
 3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des
 chirurgiens-dentistes ou à un tableau de l'ordre des sages-femmes, sous réserve
 des dispositions des articles L. 4112-6 et L. 4112-7.
+
+Les médecins, sages-femmes et chirurgiens-dentistes titulaires d'un diplôme,
+certificat ou autre titre mentionné aux articles L. 4131-1, L. 4141-3 ou L.
+4151-5 ayant effectué la totalité du cursus en France et obtenu leur diplôme,
+certificat et titre en France peuvent exercer dans les mêmes conditions, suivant
+les mêmes règles et dispositions que les praticiens dont les nationalités
+relèvent du 2° du présent article.

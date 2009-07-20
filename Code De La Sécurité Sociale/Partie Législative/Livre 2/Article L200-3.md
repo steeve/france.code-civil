@@ -8,7 +8,8 @@ sociale et la commission prévue à l'article L. 221-4 sont saisis, pour avis et
 dans le cadre de leurs compétences respectives, de tout projet de mesure
 législative ou réglementaire ayant des incidences sur l'équilibre financier de
 la branche ou entrant dans leur domaine de compétence et notamment des projets
-de loi de financement de la sécurité sociale. Les avis sont motivés.
+de loi de financement de la sécurité sociale. Les avis sur les projets de loi
+sont motivés.
 
 Le conseil d'administration de l'Agence centrale des organismes de sécurité
 sociale peut recevoir délégation des conseils des caisses nationales et de la
@@ -32,4 +33,5 @@ branches, à proposer des réformes au Gouvernement.
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article,
 et notamment les délais dans lesquels le conseil ou les conseils
 d'administration et la commission prévue à l'article L. 221-4 ou les commissions
-habilitées par eux à cet effet rendent leurs avis.
+habilitées par eux à cet effet rendent leurs avis, ainsi que les conditions dans
+lesquelles les avis rendus sur les projets de loi sont motivés.

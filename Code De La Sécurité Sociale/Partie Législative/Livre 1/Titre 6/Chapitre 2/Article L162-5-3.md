@@ -22,14 +22,15 @@ médical personnel prévu à l'article L. 161-36-1 du présent code.
 
 Dans le cas où l'assuré désigne un médecin traitant autre que son médecin
 référent, ce dernier, pour ce qui concerne cet assuré, perd les avantages
-relatifs à l'adhésion à cette option conventionnelle. L'assuré perd également
-ces avantages.
+relatifs à l'adhésion à cette option conventionnelle.L'assuré perd également ces
+avantages.
 
 La participation prévue au I de l'article L. 322-2 peut être majorée pour les
 assurés et les ayants droit n'ayant pas choisi de médecin traitant ou consultant
 un autre médecin sans prescription de leur médecin traitant. Un décret fixe les
 cas dans lesquels cette majoration n'est pas appliquée, notamment lorsqu'est mis
-en oeuvre un protocole de soins.
+en oeuvre un protocole de soins ou lors d'une consultation dans une structure de
+médecine humanitaire ou un centre de planification ou d'éducation familiale.
 
 Les dispositions prévues à l'alinéa précédent ne sont pas applicables lorsque la
 consultation se fait en cas d'urgence auprès d'un autre médecin que celui

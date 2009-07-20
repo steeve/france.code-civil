@@ -33,18 +33,13 @@ orientations ministérielles précitées ;
 4° bis Les conditions et les modalités de mise en oeuvre des études
 pharmaco-épidémiologiques, postérieurement à l'obtention de l'autorisation de
 mise sur le marché visée à l'article L. 5121-8 du code de la santé publique ou
-dans le règlement (CEE) n° 2309/93 du Conseil, du 22 juillet 1993, établissant
+dans le règlement (CEE) n° 2309 / 93 du Conseil, du 22 juillet 1993, établissant
 des procédures communautaires pour l'autorisation et la surveillance des
 médicaments à usage humain et à usage vétérinaire et instituant une agence
-européenne pour l'évaluation des médicaments, ainsi que les sanctions encourues
-en cas de non-réalisation ou de retard dans la réalisation de ces études qui
-pourront aboutir, après que l'entreprise a été mise en mesure de présenter ses
-observations, à une baisse de prix du médicament concerné, fixée exclusivement
-sur la base des conséquences entraînées pour l'assurance maladie par la
-non-réalisation des études ;
+européenne pour l'évaluation des médicaments.
 
 5° Les dispositions conventionnelles applicables en cas de non-respect des
-engagements mentionnés aux 3°, 4° et 4° bis.
+engagements mentionnés aux 3° et 4°.
 
 L'accord-cadre visé ci-dessus peut prévoir également les modalités d'information
 des entreprises titulaires d'une autorisation de mise sur le marché d'un
@@ -78,10 +73,25 @@ Son montant est fixé en fonction de la gravité de l'infraction sanctionnée pa
 la mesure d'interdiction et de l'évolution des ventes des spécialités concernées
 durant la période définie à l'alinéa précédent.
 
-La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
-désignés par le directeur de l'Agence centrale des organismes de sécurité
-sociale. Son produit est affecté aux régimes d'assurance maladie selon les
-règles prévues à l'article L. 138-8 du présent code.
+En cas de manquement par une entreprise à un engagement souscrit en application
+du 4° bis, le comité économique des produits de santé peut prononcer, après que
+l'entreprise a été mise en mesure de présenter ses observations, une pénalité
+financière à l'encontre de ladite entreprise.
+
+Le montant de cette pénalité ne peut être supérieur à 10 % du chiffre d'affaires
+hors taxes réalisé en France par l'entreprise, au titre des spécialités objets
+de l'engagement souscrit, durant les douze mois précédant la constatation du
+manquement.
+
+Le montant de la pénalité est fixé en fonction de l'importance du manquement
+constaté.
+
+La pénalité, prononcée au titre d'une mesure d'interdiction de publicité ou de
+la non-réalisation des études mentionnées au 4° bis est recouvrée par les
+organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence
+centrale des organismes de sécurité sociale. Son produit est affecté aux régimes
+d'assurance maladie selon les règles prévues à l'article L. 138-8 du présent
+code.
 
 Le recours présenté contre la décision prononçant cette pénalité est un recours
 de pleine juridiction.

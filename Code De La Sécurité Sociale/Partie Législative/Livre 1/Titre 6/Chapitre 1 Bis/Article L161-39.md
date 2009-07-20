@@ -10,6 +10,15 @@ entreprises, établissements, organismes et professionnels concernés sont tenus
 de lui transmettre les informations qu'elle demande à cet effet après les avoir
 rendues anonymes.
 
+L'Union nationale des caisses d'assurance maladie et les caisses nationales
+chargées de la gestion d'un régime obligatoire d'assurance maladie peuvent
+consulter la Haute Autorité de santé sur tout projet de référentiel de pratique
+médicale élaboré dans le cadre de leur mission de gestion des risques ainsi que
+sur tout projet de référentiel visant à encadrer la prise en charge par
+l'assurance maladie d'un type particulier de soins. La Haute Autorité de santé
+rend un avis dans un délai de deux mois à compter de la réception de la
+demande.A l'expiration de ce délai, l'avis est réputé favorable.
+
 Sans préjudice des mesures prises par l'Agence française de sécurité sanitaire
 des produits de santé dans le cadre de ses missions de sécurité sanitaire, et
 notamment celles prises en application du 2° de l'article L. 5311-2 du code de

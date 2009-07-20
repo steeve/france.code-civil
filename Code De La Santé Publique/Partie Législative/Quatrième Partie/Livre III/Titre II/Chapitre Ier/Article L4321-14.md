@@ -15,5 +15,5 @@ ayants droit.
 II peut être consulté par le ministre chargé de la santé, notamment sur les
 questions relatives à l'exercice de la profession de masseur-kinésithérapeute.
 
-Il accomplit sa mission par l'intermédiaire des conseils départementaux, des
-conseils régionaux et du conseil national de l'ordre.
+Il accomplit sa mission par l'intermédiaire des conseils départementaux ou
+interdépartementaux, des conseils régionaux et du conseil national de l'ordre.

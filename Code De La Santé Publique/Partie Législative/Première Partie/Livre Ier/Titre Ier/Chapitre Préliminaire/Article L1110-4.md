@@ -25,9 +25,13 @@ alinéas précédents, leur conservation sur support informatique, comme leur
 transmission par voie électronique entre professionnels, sont soumises à des
 règles définies par décret en Conseil d'Etat pris après avis public et motivé de
 la Commission nationale de l'informatique et des libertés. Ce décret détermine
-les cas où l'utilisation de la carte professionnelle de santé mentionnée au
-dernier alinéa de l'article L. 161-33 du code de la sécurité sociale est
-obligatoire.
+les cas où l'utilisation de la carte de professionnel de santé mentionnée au
+dernier alinéa de l'article L. 161-33 du code de la sécurité sociale ou un
+dispositif équivalent agréé par l'organisme chargé d'émettre la carte de
+professionnel de santé est obligatoire. La carte de professionnel de santé et
+les dispositifs équivalents agréés sont utilisés par les professionnels de
+santé, les établissements de santé, les réseaux de santé ou tout autre organisme
+participant à la prévention et aux soins.
 
 Le fait d'obtenir ou de tenter d'obtenir la communication de ces informations en
 violation du présent article est puni d'un an d'emprisonnement et de 15 000

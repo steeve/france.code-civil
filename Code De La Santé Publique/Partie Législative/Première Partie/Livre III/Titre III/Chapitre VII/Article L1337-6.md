@@ -14,8 +14,9 @@ l'exposition, de protection et d'information des personnes prévues par l'articl
 L. 1333-8 ;
 
 3° De ne pas mettre en oeuvre, dans le délai imparti par une mise en demeure
-notifiée par l'Autorité de sûreté nucléaire, les mesures de surveillance prévues
-à l'article L. 1333-10 ;
+notifiée par l'Autorité de sûreté nucléaire, les mesures de surveillance et de
+protection prévues, en application de l'article L. 1333-10, pour les entreprises
+et les lieux ouverts au public ;
 
 4° De ne pas communiquer les informations nécessaires à la mise à jour du
 fichier national des sources radioactives mentionné à l'article L. 1333-9 ;

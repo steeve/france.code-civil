@@ -1,31 +1,19 @@
 Article L6132-7
 ----
-Le syndicat interhospitalier est administré par un conseil d'administration et,
-dans le cadre des délibérations dudit conseil, par un secrétaire général nommé
-par le ministre chargé de la santé, après avis du président du conseil
-d'administration.
+La convention de communauté hospitalière de territoire peut être résiliée :
 
-Le conseil d'administration du syndicat est composé de représentant de chacun
-des établissements qui font partie de ce syndicat, compte tenu de l'importance
-de ces établissements, aucun de ceux-ci ne pouvant détenir la majorité absolue
-des sièges. Il élit son président parmi ces représentants. Le président de la
-commission médicale d'établissement de chacun des établissements et un
-représentant des pharmaciens de l'ensemble des établissements faisant partie du
-syndicat sont membres de droit du conseil d'administration. Le directeur de
-chacun des établissements assiste au conseil d'administration avec voix
-consultative.
+1° Soit par décision concordante des conseils de surveillance des établissements
+parties à cette convention ;
 
-La représentation des personnels médicaux et des personnels non médicaux
-employés par le syndicat est assurée au sein de son conseil d'administration.
-Cette représentation ne peut être, en pourcentage, supérieure à celle dont ces
-personnels bénéficient dans l'établissement adhérant au syndicat où ils sont le
-mieux représentés.
+2° Soit sur demande motivée des conseils de surveillance de la majorité des
+établissements parties à la convention ;
 
-Le conseil d'administration peut déléguer à un bureau élu en son sein certaines
-de ses attributions. Cette délégation ne peut porter sur les matières énumérées
-aux 1° à 3°, 5° à 8°, 10° et 12° de l'article L. 6143-1 ni sur les attributions
-mentionnées à l'article L. 6143-3. Lors de chaque réunion du conseil
-d'administration, le bureau et le président rendent compte de leurs activités.
+3° Soit sur décision prise, après avis du représentant de l'Etat dans la région,
+par le directeur général de l'agence régionale de santé en cas de
+non-application de la convention.
 
-La composition du bureau et le mode de désignation de ses membres sont fixés par
-décret.
+Dans les cas prévus aux 2° et 3°, le directeur général de l'agence régionale de
+santé précise la répartition entre les établissements parties à la convention
+des autorisations prévues aux articles L. 5126-7 et L. 6122-1, des emplois
+permettant d'exercer les activités correspondantes ainsi que des biens meubles
+et immeubles de leurs domaines publics et privés.

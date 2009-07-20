@@ -13,3 +13,9 @@ pharmacie lorsqu'ils sont titulaires du diplôme qui en ouvre l'exercice aux
 nationaux de ce pays ;
 
 3° Etre inscrit à l'ordre des pharmaciens.
+
+Les pharmaciens titulaires d'un diplôme, certificat ou autre titre définis aux
+articles L. 4221-2 à L. 4221-8, ayant effectué la totalité du cursus en France
+et obtenu leur diplôme, certificat ou titre en France peuvent exercer dans les
+mêmes conditions, suivant les mêmes règles et dispositions que les pharmaciens
+dont les nationalités relèvent du 2° du présent article.

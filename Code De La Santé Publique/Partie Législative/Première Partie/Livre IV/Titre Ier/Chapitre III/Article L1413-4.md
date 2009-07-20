@@ -1,9 +1,9 @@
 Article L1413-4
 ----
 Les services de l'Etat ainsi que les organismes placés sous sa tutelle apportent
-leur concours à l'Institut de veille sanitaire, dans l'exercice de ses missions.
-L'institut peut demander aux ministres concernés de faire intervenir les agents
-habilités à contrôler l'application des dispositions législatives et
+leur concours à l'Institut de veille sanitaire, dans l'exercice de ses
+missions.L'institut peut demander aux ministres concernés de faire intervenir
+les agents habilités à contrôler l'application des dispositions législatives et
 réglementaires visant à préserver la santé humaine.
 
 L'Etat et les collectivités territoriales, leurs établissements publics, les
@@ -17,12 +17,14 @@ informations nécessaires à l'exercice de ses missions. Les services de santé 
 travail ou, pour les données personnelles de santé, les médecins du travail
 fournissent à l'institut les informations nécessaires à l'exercice de ses
 missions, dans les conditions de confidentialité mentionnées à l'article L.
-1413-5.
+1413-5. Les professionnels de santé transmettent à l'institut les données
+individuelles nécessaires à l'exercice de ses missions dans des conditions
+préservant la confidentialité de ces données à l'égard des tiers.
 
 Pour améliorer la connaissance et la prévention des risques sanitaires en milieu
 de travail, les entreprises publiques et privées fournissent également à
 l'institut, à sa demande, toutes informations nécessaires à l'exercice de ses
-missions. L'institut contribue à la mise en place, dans ces entreprises, de
+missions.L'institut contribue à la mise en place, dans ces entreprises, de
 surveillances épidémiologiques en lien notamment avec les services de santé au
 travail.
 
@@ -41,4 +43,6 @@ de sécurité sanitaire environnementale et par les services de l'Etat ou par le
 Pour l'exercice de ses missions, l'Institut de veille sanitaire s'appuie sur un
 réseau de centres nationaux de référence pour la lutte contre les maladies
 transmissibles, dont les modalités de désignation ainsi que les missions sont
-fixées par arrêté du ministre chargé de la santé.
+fixées par arrêté du ministre chargé de la santé. Il organise la toxicovigilance
+en s'appuyant sur un réseau comprenant notamment les organismes mentionnés à
+l'article L. 1341-1.

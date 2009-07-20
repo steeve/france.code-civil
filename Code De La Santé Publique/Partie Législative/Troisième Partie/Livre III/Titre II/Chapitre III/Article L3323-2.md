@@ -38,7 +38,14 @@ dégustations, dans des conditions définies par décret ;
 à la consommation de boissons contenant de l'alcool, marqués à leurs noms, par
 les producteurs et les fabricants de ces boissons, à l'occasion de la vente
 directe de leurs produits aux consommateurs et aux distributeurs ou à l'occasion
-de la visite touristique des lieux de fabrication.
+de la visite touristique des lieux de fabrication ;
+
+9° Sur les services de communications en ligne à l'exclusion de ceux qui, par
+leur caractère, leur présentation ou leur objet, apparaissent comme
+principalement destinés à la jeunesse, ainsi que ceux édités par des
+associations, sociétés et fédérations sportives ou des ligues professionnelles
+au sens du code du sport, sous réserve que la propagande ou la publicité ne soit
+ni intrusive ni interstitielle.
 
 Toute opération de parrainage est interdite lorsqu'elle a pour objet ou pour
 effet la propagande ou la publicité, directe ou indirecte, en faveur des

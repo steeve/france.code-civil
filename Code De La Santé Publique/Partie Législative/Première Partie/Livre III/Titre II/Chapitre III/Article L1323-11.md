@@ -21,4 +21,9 @@ l'agence ;
 
 6° Les modalités selon lesquelles les compétences, moyens, droits et obligations
 de laboratoires publics intervenant dans les domaines traités par l'agence lui
-sont transférés.
+sont transférés ;
+
+7° Les conditions d'organisation du système de vigilance sur les nouveaux
+aliments, sur les compléments alimentaires, sur les aliments qui font l'objet
+d'adjonction de substances à but nutritionnel ou physiologique ainsi que sur les
+produits destinés à une alimentation particulière.

@@ -1,12 +1,10 @@
 Article L4232-11
 ----
 Dans chaque département d'outre-mer et dans la collectivité territoriale de
-Saint-Pierre-et-Miquelon, les pharmaciens inscrits dans la section E élisent un
-ou plusieurs délégués chargés de les représenter auprès du représentant de
-l'Etat dans le département ou dans la collectivité.
-
-Le nombre des délégués à élire est défini par arrêté du ministre chargé de la
-santé.
+Saint-Pierre-et-Miquelon, les pharmaciens inscrits dans la section E élisent
+pour six ans un délégué unique ou plusieurs délégués et un président de
+délégation chargés de les représenter auprès du représentant de l'Etat dans le
+département ou dans la collectivité.
 
 Ces délégués se tiennent en liaison avec le conseil central de la section E et
 avec le conseil national de l'ordre.

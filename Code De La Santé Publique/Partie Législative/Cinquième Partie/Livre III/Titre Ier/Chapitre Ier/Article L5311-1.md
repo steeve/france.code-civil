@@ -91,3 +91,6 @@ commerciale, des réunions des commissions siégeant auprès d'elle et consulté
 en matière de mise sur le marché, de pharmacovigilance et de publicité des
 spécialités pharmaceutiques, son règlement intérieur et celui des commissions
 précitées.
+
+L'agence est également chargée du contrôle du respect des dispositions des
+autorisations délivrées en application de l'article L. 1161-5.

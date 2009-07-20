@@ -10,4 +10,4 @@ Il peut organiser toute oeuvre d'entraide au bénéfice de ses membres et de leu
 ayants droit. Il peut être consulté par le ministre chargé de la santé,
 notamment sur les questions relatives à l'exercice de la profession de
 pédicure-podologue. Il accomplit sa mission par l'intermédiaire des conseils
-régionaux et du conseil national de l'ordre.
+régionaux ou interrégionaux et du conseil national de l'ordre.

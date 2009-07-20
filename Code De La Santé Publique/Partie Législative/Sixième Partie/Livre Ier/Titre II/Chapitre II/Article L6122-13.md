@@ -1,11 +1,13 @@
 Article L6122-13
 ----
-I.-Lorsqu'il est constaté, à l'occasion de l'exercice d'une activité de soins,
-un manquement aux lois et règlements pris pour la protection de la santé
-publique imputable à la personne titulaire de l'autorisation, le directeur de
-l'agence régionale de l'hospitalisation le notifie à cette dernière et lui
-demande de faire connaître, dans les huit jours, ses observations en réponse
-ainsi que les mesures correctrices adoptées ou envisagées.
+I.-Lorsqu'il est constaté, à l'occasion de l'exercice d'une activité de soins ou
+de l'installation d'un équipement matériel lourd, un manquement aux lois et
+règlements pris pour la protection de la santé publique ou à la continuité des
+soins assurée par le personnel médical imputable à la personne titulaire de
+l'autorisation, le directeur de l'agence régionale de l'hospitalisation le
+notifie à cette dernière et lui demande de faire connaître, dans les huit jours,
+ses observations en réponse ainsi que les mesures correctrices adoptées ou
+envisagées.
 
 En l'absence de réponse dans ce délai ou si cette réponse est insuffisante, il
 adresse au titulaire de l'autorisation une injonction de prendre toutes

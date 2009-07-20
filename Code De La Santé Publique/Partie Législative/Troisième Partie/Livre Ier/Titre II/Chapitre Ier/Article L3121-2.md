@@ -9,6 +9,12 @@ Ces consultations peuvent également être habilitées par le représentant de
 l'Etat à participer dans les mêmes conditions à la lutte contre d'autres
 maladies transmissibles, et notamment les hépatites virales.
 
+En cas de nécessité thérapeutique et dans l'intérêt du patient, le médecin peut
+procéder à la levée de l'anonymat sous réserve du consentement exprès, libre et
+éclairé de la personne intéressée dans des conditions définies par arrêté. La
+levée de l'anonymat respecte les conditions établies par un référentiel publié
+par arrêté du ministre chargé de la santé.
+
 Les dépenses afférentes aux missions énoncées dans le présent article sont
 prises en charge par l'assurance maladie, sans qu'il soit fait application des
 dispositions du code de la sécurité sociale et du code rural relatives à

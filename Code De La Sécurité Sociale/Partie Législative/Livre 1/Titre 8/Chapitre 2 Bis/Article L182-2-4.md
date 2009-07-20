@@ -8,6 +8,8 @@ mentionnées à l'article L. 162-14-1, les centres de santé mentionnés à l'ar
 L. 162-32-1 et les établissements thermaux mentionnés à l'article L. 162-39
 ainsi que l'accord national mentionné à l'article L. 162-16-7 ;
 
+1° bis Négocie le contrat d'objectifs prévu à l'article L. 182-2-1-1 ;
+
 2° Négocie et signe les contrats pluriannuels d'objectifs et de gestion
 interrégimes prévus à l'article L. 183-2-3.
 
@@ -24,3 +26,6 @@ inscriptions d'actes et prestations prévues aux articles L. 162-1-7 et L.
 3° Met en oeuvre les orientations fixées par le conseil dans les relations de
 l'assurance maladie avec l'Union nationale des organismes d'assurance maladie
 complémentaire.
+
+Le président et le directeur général signent le contrat d'objectifs prévu à
+l'article L. 182-2-1-1.

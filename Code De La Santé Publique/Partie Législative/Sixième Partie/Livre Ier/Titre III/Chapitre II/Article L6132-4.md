@@ -1,10 +1,9 @@
 Article L6132-4
 ----
-Les établissements qui font partie d'un syndicat interhospitalier peuvent faire
-apport à ce syndicat de tout ou partie de leurs installations sous réserve d'y
-être autorisés par arrêté du directeur de l'agence régionale de
-l'hospitalisation. Cet arrêté prononce en tant que de besoin le transfert du
-patrimoine de l'établissement au syndicat.
-
-Après transfert des installations, les services qui s'y trouvent implantés sont
-gérés directement par le syndicat.
+Lorsque les activités de soins ou les équipements matériels lourds dont la
+convention de communauté hospitalière de territoire prévoit le transfert ou la
+cession entre les établissements partenaires sont soumis à l'autorisation prévue
+à l'article L. 6122-1, l'autorisation est modifiée, en ce qui concerne le lieu,
+ou confirmée, en ce qui concerne le nouveau titulaire, par le directeur général
+de l'agence régionale de santé, selon une procédure simplifiée fixée par voie
+réglementaire.

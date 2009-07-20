@@ -1,21 +1,20 @@
 Article L6111-1
 ----
-Les établissements de santé, publics et privés, assurent les examens de
-diagnostic, la surveillance et le traitement des malades, des blessés et des
-femmes enceintes en tenant compte des aspects psychologiques du patient.
+Les établissements de santé publics, privés et privés d'intérêt collectif
+assurent, dans les conditions prévues par le présent code, le diagnostic, la
+surveillance et le traitement des malades, des blessés et des femmes enceintes.
 
-Ils participent à des actions de santé publique et notamment à toutes actions
-médico-sociales coordonnées et à des actions d'éducation pour la santé et de
-prévention.
+Ils délivrent les soins avec hébergement, sous forme ambulatoire ou à domicile,
+le domicile pouvant s'entendre du lieu de résidence ou d'un établissement avec
+hébergement relevant du code de l'action sociale et des familles.
 
-Ils participent à la mise en oeuvre du dispositif de vigilance destiné à
-garantir la sécurité sanitaire, notamment des produits mentionnés à l'article L.
-5311-1, et organisent en leur sein la lutte contre les infections nosocomiales
-et les affections iatrogènes dans les conditions prévues par voie réglementaire.
+Ils participent à la coordination des soins en relation avec les membres des
+professions de santé exerçant en pratique de ville et les établissements et
+services médico-sociaux, dans le cadre défini par l'agence régionale de santé en
+concertation avec les conseils généraux pour les compétences qui les concernent.
 
-Ils mènent, en leur sein, une réflexion sur les questions éthiques posées par
-l'accueil et la prise en charge médicale.
+Ils participent à la mise en œuvre de la politique de santé publique et des
+dispositifs de vigilance destinés à garantir la sécurité sanitaire.
 
-Les établissements de santé mettent en place un système permettant d'assurer la
-qualité de la stérilisation des dispositifs médicaux répondant à des conditions
-définies par voie réglementaire.
+Ils mènent, en leur sein, une réflexion sur l'éthique liée à l'accueil et la
+prise en charge médicale.

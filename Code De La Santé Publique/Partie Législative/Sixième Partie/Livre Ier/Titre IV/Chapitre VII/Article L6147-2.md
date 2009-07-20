@@ -1,8 +1,8 @@
 Article L6147-2
 ----
 Les missions exercées au sein d'unités distinctes par l'établissement public de
-la ville de Paris à caractère social et sanitaire, dénommé "centre d'accueil et
-de soins hospitaliers" et situé à Nanterre, comprennent :
+la ville de Paris à caractère social et sanitaire, dénommé " centre d'accueil et
+de soins hospitaliers " et situé à Nanterre, comprennent :
 
 1° L'accueil, la réadaptation sociale des personnes sans abri orientées par le
 préfet de police de Paris ainsi que l'hébergement et la réadaptation sociale des
@@ -26,9 +26,9 @@ l'intérieur et de la santé, après avis du président du conseil d'administrat
 
 Le centre d'accueil et de soins hospitaliers est soumis, en ce qui concerne son
 budget et son fonctionnement, aux dispositions du présent livre. Les modalités
-d'application des dispositions du présent titre sont adaptées par voie
-réglementaire aux conditions particulières de fonctionnement de cet
-établissement.
+d'application des dispositions du présent titre peuvent faire l'objet, par voie
+réglementaire, de dérogations en vue de les adapter aux conditions particulières
+de fonctionnement de cet établissement.
 
 A l'exception des dispositions concernant le budget, l'administration et le
 fonctionnement, la loi n° 75-535 du 30 juin 1975 relative aux institutions

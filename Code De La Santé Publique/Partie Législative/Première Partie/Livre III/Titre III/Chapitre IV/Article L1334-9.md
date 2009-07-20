@@ -1,7 +1,7 @@
 Article L1334-9
 ----
 Si le constat, établi dans les conditions mentionnées aux articles L. 1334-6 à
-L. 1334-8, met en évidence la présence de revêtements dégradés contenant du
+L. 1334-8-1, met en évidence la présence de revêtements dégradés contenant du
 plomb à des concentrations supérieures aux seuils définis par l'arrêté mentionné
 à l'article L. 1334-2, le propriétaire ou l'exploitant du local d'hébergement
 doit en informer les occupants et les personnes amenées à faire des travaux dans

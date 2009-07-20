@@ -1,7 +1,7 @@
 Article L4232-8
 ----
 Le conseil central gérant de la section C comprend treize membres nommés ou élus
-pour quatre ans :
+pour six ans :
 
 1° Un professeur ou maître de conférences des unités de formation et de
 recherche de pharmacie, pharmacien, nommé par le ministre chargé de la santé sur

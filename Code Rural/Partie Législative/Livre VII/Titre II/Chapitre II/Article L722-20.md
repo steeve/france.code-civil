@@ -29,7 +29,10 @@ fruitières, des sociétés agricoles diverses, des syndicats agricoles, des
 associations syndicales de propriétaires dont l'objet est agricole et, d'une
 manière générale, de tout groupement professionnel agricole, de même que les
 personnels non titulaires de l'établissement "Domaine de Pompadour" dont les
-contrats ont été transférés à l'Etablissement public Les Haras nationaux ;
+contrats ont été transférés à l'Etablissement public Les Haras nationaux ainsi
+que les agents de droit privé des agences régionales de santé qui demeurent
+régis par les conventions collectives des organismes de mutualité sociale
+agricole ;
 
 6° bis Salariés de toute société ou groupement créé après le 31 décembre 1988,
 dans leur champ d'activité, par les organismes cités au 6°, à condition que leur

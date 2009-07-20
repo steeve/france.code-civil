@@ -1,11 +1,13 @@
 Article L4231-5
 ----
-Le conseil national élit un bureau composé d'un président, d'un vice-président
-et de quatre conseillers, dont deux pharmaciens d'officine.
+Le conseil national élit en son sein un bureau de neuf membres, composé d'un
+président, d'un vice-président, d'un trésorier et de six conseillers. Parmi ces
+neuf membres figurent au moins deux pharmaciens titulaires d'officine et un
+pharmacien de chacune des autres sections de l'ordre.
 
-Une section permanente, comprenant le président et le vice-président du bureau
-et un représentant de chaque section de l'ordre, est chargée de régler les
-questions urgentes dans l'intervalle des sessions. Les membres du bureau et de
-la section permanente sont élus pour deux ans. Leur mandat est renouvelable. Les
-décisions prises par la section permanente font l'objet d'un rapport à la séance
-suivante du conseil national.
+Les membres du bureau sont élus pour trois ans. Leur mandat est renouvelable.
+
+Le bureau prépare les délibérations du conseil national et en assure
+l'exécution. Il règle les questions urgentes dans l'intervalle des sessions. Les
+décisions qu'il prend sur les questions urgentes font l'objet d'un rapport à la
+session suivante du conseil national

@@ -1,16 +1,11 @@
 Article L6111-2
 ----
-Les établissements de santé, publics ou privés, ont pour objet de dispenser :
+Les établissements de santé élaborent et mettent en œuvre une politique
+d'amélioration continue de la qualité et de la sécurité des soins et une gestion
+des risques visant à prévenir et traiter les évènements indésirables liés à
+leurs activités.
 
-1° Avec ou sans hébergement :
-
-a) Des soins de courte durée ou concernant des affections graves pendant leur
-phase aiguë en médecine, chirurgie, obstétrique, odontologie ou psychiatrie ;
-
-b) Des soins de suite ou de réadaptation dans le cadre d'un traitement ou d'une
-surveillance médicale à des malades requérant des soins continus, dans un but de
-réinsertion ;
-
-2° Des soins de longue durée, comportant un hébergement, à des personnes n'ayant
-pas leur autonomie de vie dont l'état nécessite une surveillance médicale
-constante et des traitements d'entretien.
+Dans ce cadre, ils organisent la lutte contre les évènements indésirables, les
+infections associées aux soins et l'iatrogénie, définissent une politique du
+médicament et des dispositifs médicaux stériles et mettent en place un système
+permettant d'assurer la qualité de la stérilisation des dispositifs médicaux.

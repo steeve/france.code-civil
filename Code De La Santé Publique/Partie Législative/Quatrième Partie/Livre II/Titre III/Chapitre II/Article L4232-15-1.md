@@ -1,7 +1,7 @@
 Article L4232-15-1
 ----
 Le conseil central gérant de la section H de l'ordre des pharmaciens est composé
-de quatorze membres, nommés ou élus pour quatre ans.
+de seize membres, nommés ou élus pour six ans.
 
 Ce conseil central comprend :
 
@@ -12,8 +12,8 @@ la proposition du ministre chargé de l'enseignement supérieur ;
 2° Un pharmacien inspecteur de santé publique représentant, à titre consultatif,
 le ministre chargé de la santé ;
 
-3° Douze pharmaciens élus par l'ensemble des pharmaciens inscrits en section H,
-dont :
+3° Quatorze pharmaciens élus par l'ensemble des pharmaciens inscrits en section
+H, dont :
 
 - au moins trois pharmaciens exerçant dans des établissements de santé publics,
 dont au moins un à temps plein et un à temps partiel ;
@@ -22,4 +22,7 @@ dont au moins un à temps plein et un à temps partiel ;
 dont au moins un à temps plein et un à temps partiel ;
 
 - au moins un pharmacien inscrit en section H exerçant dans une autre structure
-sanitaire ou un établissement médico-social.
+sanitaire ou un établissement médico-social ;
+
+- au moins un pharmacien gérant de la pharmacie à usage intérieur d'un service
+départemental d'incendie et de secours et au moins un radiopharmacien.

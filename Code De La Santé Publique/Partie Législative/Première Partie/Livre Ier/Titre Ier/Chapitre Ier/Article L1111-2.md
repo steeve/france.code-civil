@@ -38,3 +38,8 @@ En cas de litige, il appartient au professionnel ou à l'établissement de sant�
 d'apporter la preuve que l'information a été délivrée à l'intéressé dans les
 conditions prévues au présent article. Cette preuve peut être apportée par tout
 moyen.
+
+L'établissement de santé recueille auprès du patient hospitalisé les coordonnées
+des professionnels de santé auprès desquels il souhaite que soient recueillies
+les informations nécessaires à sa prise en charge durant son séjour et que
+soient transmises celles utiles à la continuité des soins après sa sortie.

@@ -32,9 +32,9 @@ consommations alimentaires et évalue leurs éventuelles incidences sanitaires ;
 5° Mène, dans le respect du secret industriel, des programmes de recherche
 scientifique et technique, notamment dans les domaines du génie vétérinaire, de
 la santé animale, du bien-être des animaux et de leurs conséquences sur
-l'hygiène publique, ainsi que de la sécurité sanitaire des aliments. A cette
-fin, elle mobilise ses propres moyens ou s'assure le concours d'organismes
-publics ou privés de recherche ou de développement, d'universités ou d'autres
+l'hygiène publique, ainsi que de la sécurité sanitaire des aliments.A cette fin,
+elle mobilise ses propres moyens ou s'assure le concours d'organismes publics ou
+privés de recherche ou de développement, d'universités ou d'autres
 établissements d'enseignement supérieur, de collectivités territoriales ou de
 personnes physiques ;
 
@@ -49,7 +49,19 @@ produits alimentaires composés ou issus d'organismes génétiquement modifiés 
 
 8° Participe à la définition, à la coordination et à l'évaluation des systèmes
 de recueil des incidents liés aux produits énoncés à l'article L. 1323-1 et
-susceptibles d'avoir des effets indésirables sur la santé humaine ;
+susceptibles d'avoir des effets indésirables sur la santé humaine. Elle assure
+la mise en œuvre du système de vigilance sur les nouveaux aliments, sur les
+compléments alimentaires, sur les aliments qui font l'objet d'adjonction de
+substances à but nutritionnel ou physiologique ainsi que sur les produits
+destinés à une alimentation particulière.A cette fin, les professionnels de
+santé lui déclarent sans délai les cas d'effets indésirables induits par ces
+produits dont ils ont eu connaissance. Les fabricants et les distributeurs
+participent à ce système de vigilance. Cette obligation est réputée remplie par
+la mise en œuvre des dispositions de l'article L. 221-1-3 du code de la
+consommation.L'agence est tenue informée par les autorités administratives
+compétentes mentionnées au même article L. 221-1-3. Les fabricants et
+distributeurs fournissent à la demande de l'agence les informations nécessaires
+sur la composition de ces produits ;
 
 9° Procède à l'évaluation des études effectuées ou demandées par les services de
 l'Etat et des méthodes de contrôle utilisées et contribue à la bonne

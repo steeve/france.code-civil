@@ -7,8 +7,9 @@ conseil général.
 
 Cette licence ne peut être accordée pour la vente au détail du tabac dans un
 magasin de commerce de détail d'une surface de vente supérieure à 200 mètres
-carrés, à l'exclusion des surfaces réservées à la distribution de carburants, ou
-dans un magasin de vente en gros ouvert aux particuliers.
+carrés ou dans les galeries marchandes attenantes à des supermarchés ou des
+hypermarchés, à l'exclusion des surfaces réservées à la distribution de
+carburants, ou dans un magasin de vente en gros ouvert aux particuliers.
 
 La délivrance de cette licence est soumise au versement, au profit du
 département d'outre-mer concerné, d'une redevance annuelle dont le montant est

@@ -12,9 +12,14 @@ la prévention des risques sanitaires des milieux, aux eaux destinées à la
 consommation humaine, à la prévention des risques liés à certaines activités
 diagnostiques ou thérapeutiques, à la santé de la famille, de la mère et de
 l'enfant, à la lutte contre les maladies ou dépendances, aux professions de
-santé, aux produits de santé, ainsi qu'aux établissements de santé, laboratoires
-d'analyses de biologie médicale et autres services de santé.
+santé, aux ostéopathes et aux chiropracteurs, aux produits de santé, ainsi
+qu'aux établissements de santé, laboratoires d'analyses de biologie médicale et
+autres services de santé.
 
 Ils peuvent être assistés par des experts désignés par l'autorité compétente et
 procéder à des inspections conjointes avec des agents appartenant à d'autres
 services de l'Etat et de ses établissements publics.
+
+Pour l'accomplissement de missions confiées par le ministre chargé de la santé,
+les membres de l'inspection générale des affaires sociales peuvent effectuer des
+contrôles en application du présent article.

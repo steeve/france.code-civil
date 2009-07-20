@@ -36,9 +36,8 @@ mesure de présenter ses observations écrites et si, après réception de
 celles-ci, l'organisme maintient la demande, une somme correspondant à la
 dépense supplémentaire mentionnée aux cinquième et sixième alinéas, qui ne peut
 toutefois être inférieure à un montant forfaitaire déterminé par la convention
-prévue à l'article L. 162-16-1. A défaut, ce montant est arrêté par les
-ministres chargés de la sécurité sociale, de la santé, de l'économie et du
-budget.
+prévue à l'article L. 162-16-1.A défaut, ce montant est arrêté par les ministres
+chargés de la sécurité sociale, de la santé, de l'économie et du budget.
 
 Pour son recouvrement, ce versement est assimilé à une cotisation de sécurité
 sociale.
@@ -47,3 +46,15 @@ Les médicaments dispensés par un pharmacien en application de l'article L.
 5125-23-1 du code de la santé publique sont pris en charge par les organismes
 d'assurance maladie dans la limite d'une seule boîte par ligne d'ordonnance
 au-delà de la durée de traitement initialement prescrite.
+
+Les médicaments renouvelés par une infirmière ou un infirmier en application du
+quatrième alinéa de l'article L. 4311-1 du code de la santé publique sont pris
+en charge par les organismes d'assurance maladie, sous réserve que ces
+médicaments soient inscrits sur la liste des spécialités remboursables prévue au
+premier alinéa de l'article L. 162-17 du présent code.
+
+Les médicaments dispensés par un pharmacien en application du deuxième alinéa de
+l'article L. 5125-23-1 du code de la santé publique sont pris en charge par les
+organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits
+sur la liste des spécialités remboursables prévue au premier alinéa de l'article
+L. 162-17 du présent code.

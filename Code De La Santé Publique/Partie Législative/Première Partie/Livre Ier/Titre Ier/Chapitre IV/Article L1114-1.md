@@ -22,7 +22,9 @@ dans les instances hospitalières ou de santé publique.
 Les représentants des usagers dans les instances mentionnées ci-dessus ont droit
 à une formation leur facilitant l'exercice de ce mandat.
 
-Les entreprises fabriquant et commercialisant des produits mentionnés dans la
-cinquième partie du présent code doivent rendre publics la liste des
-associations de patients et le montant des aides de toute nature qu'elles leur
-versent, selon des modalités fixées par un décret en Conseil d'Etat.
+A compter de 2010, les entreprises fabriquant et commercialisant des produits
+mentionnés dans la cinquième partie du présent code doivent déclarer chaque
+année, avant le 30 juin, auprès de la Haute Autorité de santé, la liste des
+associations de patients qu'elles soutiennent et le montant des aides de toute
+nature qu'elles leur ont procurées l'année précédente. La Haute Autorité de
+santé publie les informations déclarées.

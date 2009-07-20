@@ -8,6 +8,13 @@ dans le cadre de la posologie initialement prévue et dans la limite d'une seule
 boîte par ligne d'ordonnance, les médicaments nécessaires à la poursuite du
 traitement.
 
+S'agissant des contraceptifs oraux, lorsque la durée de validité d'une
+ordonnance datant de moins d'un an est expirée, le pharmacien peut dispenser les
+médicaments nécessaires à la poursuite du traitement, s'ils figurent sur une
+liste fixée par arrêté du ministre chargé de la santé après avis de l'Agence
+française de sécurité sanitaire des produits de santé, pour une durée
+supplémentaire non renouvelable de six mois.
+
 Les conditions d'application du présent article sont déterminées par décret en
 Conseil d'Etat. Les catégories de médicament exclues du champ d'application du
 présent article sont déterminées par arrêté du ministre chargé de la santé sur

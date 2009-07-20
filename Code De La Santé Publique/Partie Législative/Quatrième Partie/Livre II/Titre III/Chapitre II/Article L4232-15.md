@@ -1,7 +1,7 @@
 Article L4232-15
 ----
 Le Conseil central gérant de la section G de l'ordre des pharmaciens est composé
-de quatorze membres nommés ou élus pour quatre ans par tous les pharmaciens
+de quatorze membres nommés ou élus pour six ans par tous les pharmaciens
 inscrits au tableau de la section G de l'ordre.
 
 Ce conseil central comprend :

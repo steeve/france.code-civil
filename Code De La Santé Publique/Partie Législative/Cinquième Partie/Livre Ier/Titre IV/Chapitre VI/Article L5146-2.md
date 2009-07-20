@@ -1,16 +1,20 @@
 Article L5146-2
 ----
 Ont qualité pour rechercher et constater les infractions aux dispositions du
-présent titre, ainsi qu'aux mesures réglementaires prises pour leur application
-:
+présent titre ainsi qu'aux mesures réglementaires prises pour leur application :
 
-1° Les pharmaciens inspecteurs de santé publique, conformément aux articles L.
-5411-1, L. 5411-2 et L. 5411-3 ;
+1° Les inspecteurs de l'Agence française de sécurité sanitaire des aliments ;
 
-2° Les vétérinaires inspecteurs, auxquels les dispositions des articles L.
-5411-1, L. 5411-2 et L. 5411-3 sont applicables pour l'exercice de cette mission
-;
+2° Les pharmaciens inspecteurs de santé publique ;
 
-3° Les agents de la direction générale de la concurrence, de la consommation et
+3° Les vétérinaires officiels mentionnés au V de l'article L. 231-2 du code
+rural ;
+
+4° Les agents de la direction générale de la concurrence, de la consommation et
 de la répression des fraudes, qui disposent à cet effet des pouvoirs prévus au
 livre II du code de la consommation.
+
+Les articles L. 1421-2, L. 1421-2-1, L. 1421-3, L. 5411-2 et L. 5411-3 du
+présent code sont applicables aux agents mentionnés aux 1° et 3° du présent
+article, habilités et assermentés dans des conditions déterminées par décret en
+Conseil d'Etat, pour l'exercice de cette mission.

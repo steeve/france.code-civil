@@ -23,10 +23,10 @@ prévoir des plafonds de garantie. Les conditions dans lesquelles le montant de
 la garantie peut être plafonné pour les professionnels de santé exerçant à titre
 libéral sont fixées par décret en Conseil d'Etat.
 
-L'assurance des établissements, services et organismes mentionnés au premier
-alinéa couvre leurs salariés agissant dans la limite de la mission qui leur a
-été impartie, même si ceux-ci disposent d'une indépendance dans l'exercice de
-l'art médical.
+L'assurance des professionnels de santé, des établissements, services et
+organismes mentionnés au premier alinéa couvre leurs salariés agissant dans la
+limite de la mission qui leur est impartie, même si ceux-ci disposent d'une
+indépendance dans l'exercice de l'art médical.
 
 Le crédit-bailleur de produits de santé ou le loueur assimilable au
 crédit-bailleur ne sont pas tenus à l'obligation d'assurance prévue au premier

@@ -1,12 +1,13 @@
 Article L6113-8
 ----
-Les établissements de santé publics et privés transmettent aux agences
-régionales de l'hospitalisation mentionnées à l'article L. 6115-2, ainsi qu'à
-l'Etat et aux organismes d'assurance maladie, les informations relatives à leurs
-moyens de fonctionnement et à leur activité qui sont nécessaires à l'élaboration
-et à la révision de la carte sanitaire et du schéma d'organisation sanitaire, à
-la détermination de leurs ressources, à l'évaluation de la qualité des soins
-ainsi qu'au contrôle de leur activité et de leurs facturations.
+Les établissements de santé transmettent aux agences régionales de santé, à
+l'Etat ou à la personne publique qu'il désigne et aux organismes d'assurance
+maladie les informations relatives à leurs moyens de fonctionnement, à leur
+activité, à leurs données sanitaires, démographiques et sociales qui sont
+nécessaires à l'élaboration et à la révision du projet régional de santé, à la
+détermination de leurs ressources, à l'évaluation de la qualité des soins, à la
+veille et la vigilance sanitaires, ainsi qu'au contrôle de leur activité de
+soins et de leur facturation.
 
 Les destinataires des informations mentionnées à l'alinéa précédent mettent en
 oeuvre, sous le contrôle de l'Etat au plan national et des agences au plan

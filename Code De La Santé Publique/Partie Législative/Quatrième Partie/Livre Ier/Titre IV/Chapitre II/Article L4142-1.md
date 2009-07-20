@@ -22,11 +22,3 @@ b) Un membre supplémentaire pour chacune des trois régions suivantes :
 - Midi-Pyrénées-Languedoc-Roussillon ;
 
 - Provence-Alpes-Côte d'Azur-Corse.
-
-Les membres du conseil national sont élus pour six ans par les conseils
-départementaux et sont renouvelables tous les deux ans par deux fractions de six
-membres et une troisième fraction de sept membres.
-
-Le conseil national élit son président et son bureau tous les deux ans.
-
-Le président et les conseillers sont rééligibles.

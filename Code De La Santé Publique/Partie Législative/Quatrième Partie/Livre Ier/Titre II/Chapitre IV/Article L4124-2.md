@@ -4,6 +4,14 @@ Les médecins, les chirurgiens-dentistes ou les sages-femmes chargés d'un servi
 public et inscrits au tableau de l'ordre ne peuvent être traduits devant la
 chambre disciplinaire de première instance, à l'occasion des actes de leur
 fonction publique, que par le ministre chargé de la santé, le représentant de
-l'Etat dans le département, le procureur de la République ou, lorsque lesdits
-actes ont été réalisés dans un établissement public de santé, le directeur de
-l'agence régionale de l'hospitalisation.
+l'Etat dans le département, le procureur de la République, le conseil national
+ou le conseil départemental au tableau duquel le praticien est inscrit. Lorsque
+lesdits actes ont été réalisés dans un établissement public de santé, le
+directeur général de l'agence régionale de santé peut également saisir la
+chambre disciplinaire de première instance.
+
+Lorsque les praticiens mentionnés à l'alinéa précédent exercent une fonction de
+contrôle prévue par la loi ou le règlement, ils ne peuvent être traduits devant
+la chambre disciplinaire de première instance, à l'occasion des actes commis
+dans l'exercice de cette fonction, que par le ministre chargé de la santé, le
+représentant de l'Etat dans le département ou le procureur de la République.

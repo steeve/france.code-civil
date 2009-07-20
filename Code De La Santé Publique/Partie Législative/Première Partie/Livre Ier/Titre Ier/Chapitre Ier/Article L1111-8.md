@@ -4,35 +4,38 @@ Les professionnels de santé ou les établissements de santé ou la personne
 concernée peuvent déposer des données de santé à caractère personnel,
 recueillies ou produites à l'occasion des activités de prévention, de diagnostic
 ou de soins, auprès de personnes physiques ou morales agréées à cet effet. Cet
-hébergement de données ne peut avoir lieu qu'avec le consentement exprès de la
-personne concernée.
+hébergement de données, quel qu'en soit le support, papier ou informatique, ne
+peut avoir lieu qu'avec le consentement exprès de la personne concernée.
 
 Les traitements de données de santé à caractère personnel que nécessite
-l'hébergement prévu au premier alinéa doivent être réalisés dans le respect des
-dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés. La prestation d'hébergement fait l'objet d'un contrat.
-Lorsque cet hébergement est à l'initiative d'un professionnel de santé ou d'un
-établissement de santé, le contrat prévoit que l'hébergement des données, les
-modalités d'accès à celles-ci et leurs modalités de transmission sont
-subordonnées à l'accord de la personne concernée.
+l'hébergement prévu au premier alinéa, quel qu'en soit le support, papier ou
+informatique, doivent être réalisés dans le respect des dispositions de la loi
+n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés. La prestation d'hébergement, quel qu'en soit le support, fait l'objet
+d'un contrat. Lorsque cet hébergement est à l'initiative d'un professionnel de
+santé ou d'un établissement de santé, le contrat prévoit que l'hébergement des
+données, les modalités d'accès à celles-ci et leurs modalités de transmission
+sont subordonnées à l'accord de la personne concernée.
 
-Les conditions d'agrément des hébergeurs sont fixées par décret en Conseil
-d'Etat pris après avis de la Commission nationale de l'informatique et des
-libertés et des conseils de l'ordre des professions de santé. Ce décret
-mentionne les informations qui doivent être fournies à l'appui de la demande
-d'agrément, notamment les modèles de contrats prévus au deuxième alinéa et les
-dispositions prises pour garantir la sécurité des données traitées en
-application de l'article 34 de la loi n° 78-17 du 6 janvier 1978 précitée, en
-particulier les mécanismes de contrôle et de sécurité dans le domaine
-informatique ainsi que les procédures de contrôle interne. Les dispositions de
-l'article L. 4113-6 s'appliquent aux contrats prévus à l'alinéa précédent.
+Les conditions d'agrément des hébergeurs des données, quel qu'en soit le
+support, sont fixées par décret en Conseil d'Etat pris après avis de la
+Commission nationale de l'informatique et des libertés et des conseils de
+l'ordre des professions de santé. Ce décret mentionne les informations qui
+doivent être fournies à l'appui de la demande d'agrément, notamment les modèles
+de contrats prévus au deuxième alinéa et les dispositions prises pour garantir
+la sécurité des données traitées en application de l'article 34 de la loi n°
+78-17 du 6 janvier 1978 précitée, en particulier les mécanismes de contrôle et
+de sécurité dans le domaine informatique ainsi que les procédures de contrôle
+interne. Les dispositions de l'article L. 4113-6 s'appliquent aux contrats
+prévus à l'alinéa précédent.
 
 La détention et le traitement sur des supports informatiques de données de santé
 à caractère personnel par des professionnels de santé, des établissements de
 santé ou des hébergeurs de données de santé à caractère personnel sont
 subordonnés à l'utilisation de systèmes d'information conformes aux
-prescriptions adoptées en application de l'article L. 1110-4 et répondant à des
-conditions d'interopérabilité arrêtées par le ministre chargé de la santé.
+prescriptions adoptées en application de l'article L. 1110-4 et aux référentiels
+d'interopérabilité et de sécurité arrêtés par le ministre chargé de la santé
+après avis du groupement mentionné à l'article L. 1111-24 (1).
 
 Les professionnels et établissements de santé peuvent, par dérogation aux
 dispositions de la dernière phrase des deux premiers alinéas du présent article,

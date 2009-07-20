@@ -2,8 +2,9 @@ Article L6143-2
 ----
 Le projet d'établissement définit, notamment sur la base du projet médical, la
 politique générale de l'établissement. Il prend en compte les objectifs de
-formation, de recherche, de gestion et détermine le système d'information de
-l'établissement. Il comporte un projet de prise en charge des patients en
+formation et de recherche définis conjointement avec l'université dans la
+convention prévue à l'article L. 6142-3 du présent code et à l'article L. 713-4
+du code de l'éducation. Il comporte un projet de prise en charge des patients en
 cohérence avec le projet médical et le projet de soins infirmiers, de
 rééducation et médico-techniques, ainsi qu'un projet social. Le projet
 d'établissement, qui doit être compatible avec les objectifs du schéma
@@ -12,8 +13,7 @@ politique de l'établissement en matière de participation aux réseaux de sant�
 mentionnés à l'article L. 6321-1 et d'actions de coopération mentionnées au
 titre III du présent livre. Il prévoit les moyens d'hospitalisation, de
 personnel et d'équipement de toute nature dont l'établissement doit disposer
-pour réaliser ses objectifs. Il comprend également les programmes
-d'investissement et le plan global de financement pluriannuel.
+pour réaliser ses objectifs.
 
 Le projet d'établissement est établi pour une durée maximale de cinq ans. Il
 peut être révisé avant ce terme.

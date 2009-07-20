@@ -1,9 +1,9 @@
 Article L4312-5
 ----
-I. - Le conseil régional, placé sous le contrôle du conseil national, remplit,
-sur le plan régional, les missions définies à l'article L. 4312-2. Il assure les
+I.-Le conseil régional, placé sous le contrôle du conseil national, remplit, sur
+le plan régional, les missions définies à l'article L. 4312-2. Il assure les
 fonctions de représentation de la profession dans la région ainsi que la
-coordination des conseils départementaux.
+coordination des conseils départementaux ou interdépartementaux.
 
 Il étudie les projets, propositions ou demandes d'avis qui lui sont soumis par
 les instances compétentes en matière de santé sur le plan régional. Il est
@@ -16,33 +16,13 @@ profession. Le conseil peut, en ce cas, se réunir en formation restreinte.
 
 Les délibérations du conseil régional ne sont pas publiques.
 
-II. - Les décisions des conseils régionaux en matière d'inscription au tableau
-et de suspension temporaire du droit d'exercer en cas d'infirmité ou d'état
+II.-Les décisions des conseils régionaux en matière d'inscription au tableau et
+de suspension temporaire du droit d'exercer en cas d'infirmité ou d'état
 pathologique rendant dangereux l'exercice de la profession peuvent faire l'objet
 d'un recours hiérarchique devant le conseil national.
 
-III. - Le conseil régional est composé de membres titulaires et d'un nombre égal
-de membres suppléants. Ces représentants sont élus au suffrage direct par
-scrutin uninominal, pour une durée de quatre ans, avec renouvellement de la
-moitié des élus tous les deux ans, comme suit :
-
-- les représentants régionaux des infirmiers relevant du secteur public sont
-élus par les représentants départementaux des infirmiers relevant du secteur
-public ;
-
-- les représentants régionaux des infirmiers salariés du secteur privé sont élus
-par les représentants départementaux des salariés du secteur privé ;
-
-- les représentants régionaux des infirmiers exerçant à titre libéral sont élus
-par les représentants départementaux des infirmiers exerçant à titre libéral.
-
-Le conseil régional élit en son sein son président tous les deux ans après
-renouvellement de la moitié du conseil.
-
-Un décret fixe le nombre des membres de chaque conseil régional, compte tenu du
-nombre d'infirmiers inscrits au dernier tableau publié. Aucune des trois
-catégories de représentants susmentionnées ne peut cependant détenir à elle
-seule la majorité absolue des sièges au sein du conseil régional.
+III.-Un décret fixe le nombre des membres de chaque conseil régional, compte
+tenu du nombre d'infirmiers inscrits au dernier tableau publié.
 
 Lorsque les membres d'un conseil régional mettent celui-ci dans l'impossibilité
 de fonctionner, le représentant de l'Etat dans la région, sur proposition du
@@ -59,13 +39,16 @@ En cas de démission de la majorité des membres de cette délégation, celle-ci
 dissoute de plein droit et, jusqu'à l'entrée en fonction du nouveau conseil, ses
 fonctions sont exercées par le conseil national.
 
-IV. - Le conseil régional comprend une chambre disciplinaire de première
-instance.
+Un décret en Conseil d'Etat fixe les modalités d'élection du conseil régional,
+la durée du mandat des conseillers régionaux et la périodicité de renouvellement
+de ces mandats.
 
-Les articles L. 4124-1 à L. 4124-8, le premier alinéa des articles L. 4124-9, L.
-4124-10 et L. 4124-12, l'article L. 4124-13 et le premier alinéa de l'article L.
-4124-14 sont applicables aux infirmiers dans des conditions fixées par décret en
-Conseil d'Etat.
+IV.-Le conseil régional comprend une chambre disciplinaire de première instance.
+
+Les articles L. 4124-1 à L. 4124-3 et L. 4124-5 à L. 4124-8, le premier alinéa
+des articles L. 4124-9, L. 4124-10 et L. 4124-12, l'article L. 4124-13 et le
+premier alinéa de l'article L. 4124-14 sont applicables aux infirmiers dans des
+conditions fixées par décret en Conseil d'Etat.
 
 L'employeur informe le président du conseil régional de l'ordre de toute
 sanction disciplinaire mentionnée au premier alinéa de l'article L. 4311-26,

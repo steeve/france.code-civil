@@ -37,11 +37,21 @@ susmentionnées et les spécialités pharmaceutiques reconstituées peuvent êtr
 également délivrées par un établissement pharmaceutique créé au sein d'un
 établissement public de santé en application de l'article L. 5124-9.
 
+Les pharmacies à usage intérieur peuvent approvisionner en médicaments réservés
+à l'usage hospitalier les établissements de santé délivrant des soins à domicile
+ne disposant pas de pharmacie à usage intérieur.
+
 Les pharmacies à usage intérieur peuvent assurer tout ou partie de la
 stérilisation de dispositifs médicaux pour le compte d'un autre établissement
 ou, dans le cadre des dispositions prévues à l'article L. 3114-6, pour les
 professionnels de santé et les directeurs de laboratoires de biologie médicale
 exerçant en dehors des établissements de santé.
+
+Pour certaines catégories de préparations, une pharmacie à usage intérieur d'un
+établissement de santé peut confier, par un contrat écrit, la réalisation de
+préparations à un établissement pharmaceutique autorisé à fabriquer des
+médicaments. Ces préparations sont réalisées en conformité avec les bonnes
+pratiques mentionnées à l'article L. 5121-5.
 
 Les établissements pharmaceutiques des établissements de santé peuvent, à titre
 exceptionnel et sous réserve que l'autorisation délivrée en application de

@@ -1,30 +1,24 @@
 Article L6144-1
 ----
-I. - Dans chaque établissement public de santé, il est créé une commission
-médicale d'établissement dotée de compétences consultatives et appelée à
-préparer, avec le directeur dans les hôpitaux locaux et avec le conseil exécutif
-dans les autres établissements publics de santé, des décisions dans des matières
-et dans des conditions fixées par voie réglementaire.
+Dans chaque établissement public de santé, la commission médicale
+d'établissement contribue à l'élaboration de la politique d'amélioration
+continue de la qualité et de la sécurité des soins ainsi que des conditions
+d'accueil et de prise en charge des usagers ; elle propose au président du
+directoire un programme d'actions assorti d'indicateurs de suivi. Ce programme
+prend en compte les informations contenues dans le rapport annuel de la
+commission des relations avec les usagers et de la qualité de la prise en
+charge.
 
-II. - La commission médicale d'établissement comporte au moins une
-sous-commission spécialisée, créée par le règlement intérieur de
-l'établissement, en vue de participer par ses avis à l'élaboration de la
-politique d'amélioration continue de la qualité et de la sécurité des soins,
-notamment en ce qui concerne :
+Elle est consultée sur les matières la concernant dans des conditions fixées par
+décret.
 
-1° Le dispositif de vigilance destiné à garantir la sécurité sanitaire des
-produits de santé mentionnés à l'article L. 5311-1 ;
+L'établissement public de santé met à la disposition du public les résultats,
+publiés chaque année, des indicateurs de qualité et de sécurité des soins dans
+des conditions définies par arrêté du ministre chargé de la santé.
 
-2° La lutte contre les infections nosocomiales mentionnée à l'article L. 6111-1
-;
+Lorsque le directeur général de l'agence régionale de santé constate le
+non-respect des dispositions prévues à l'alinéa précédent, il peut prendre les
+mesures appropriées, notamment une modulation des dotations de financement
+mentionnées à l'article L. 162-22-13 du code de la sécurité sociale.
 
-3° La définition de la politique du médicament et des dispositifs médicaux
-stériles et l'organisation de la lutte contre les affections iatrogènes
-mentionnées au dernier alinéa de l'article L. 5126-5 ;
-
-4° La prise en charge de la douleur mentionnée à l'article L. 1112-4.
-
-Cette sous-commission ou ces sous-commissions spécialisées comportent, outre des
-membres désignés par la commission médicale d'établissement, les professionnels
-médicaux ou non médicaux dont l'expertise est nécessaire à l'exercice de ces
-missions.
+Un décret détermine les conditions d'application de l'alinéa précédent.

@@ -124,13 +124,16 @@ la rénovation urbaine et destinés à être occupés par des ménages dont le t
 des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de
 la construction et de l'habitation.
 
-de locaux d'établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du
-code de l'action sociale et des familles, agissant sans but lucratif et dont la
-gestion est désintéressée, lorsqu'ils accueillent des personnes handicapées ou,
-lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères
-d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction et
-de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou
-le gestionnaire des locaux et le représentant de l'Etat dans le département.
+de la partie dédiée à l'hébergement des locaux d'établissements mentionnés au 2°
+du I de l'article L. 312-1 du code de l'action sociale et des familles ainsi que
+de locaux d'établissements mentionnés aux 6° et 7° du I du même article,
+agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils
+hébergent des personnes handicapées à titre permanent ou temporaire ou,
+lorsqu'ils hébergent des personnes âgées à titre permanent ou temporaire s'ils
+remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du
+code de la construction et de l'habitation, et qui font l'objet d'une convention
+entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat
+dans le département.
 
 dans des conditions fixées par décret, de logements neufs, destinés à être
 affectés à l'habitation principale de personnes physiques qui acquièrent le
@@ -228,16 +231,23 @@ mentionné à l'article R. 391-8 du code de la construction et de l'habitation ;
 
 7° sexies Sous réserve de l'application du 7°, les livraisons à soi-même de
 travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres
-que l'entretien des espaces verts et les travaux de nettoyage, portant sur les
-locaux d'établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du
-code de l'action sociale et des familles, agissant sans but lucratif et dont la
-gestion est désintéressée, lorsqu'ils accueillent des personnes handicapées ou,
-lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères
-d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction et
-de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou
-le gestionnaire des locaux et le représentant de l'Etat dans le département. Ces
-dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit de
-taxe sur la valeur ajoutée prévu par l'article 279-0 bis.
+que l'entretien des espaces verts et les travaux de nettoyage, portant sur la
+partie dédiée à l'hébergement des locaux d'établissements mentionnés au 2° du I
+de l'article L. 312-1 du code de l'action sociale et des familles et sur la
+partie dédiée à l'hébergement des locaux d'établissements mentionnés aux 6° et
+7° du I du même article, agissant sans but lucratif et dont la gestion est
+désintéressée, lorsqu'ils hébergent des personnes handicapées à titre permanent
+ou temporaire ou, lorsqu'ils hébergent des personnes âgées à titre permanent ou
+temporaire sur les locaux d'établissements mentionnés aux 6° et 7° du I de
+l'article L. 312-1 du code de l'action sociale et des familles, agissant sans
+but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des
+personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils
+remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du
+code de la construction et de l'habitation, et qui font l'objet d'une convention
+entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat
+dans le département. Ces dispositions ne sont pas applicables aux travaux
+bénéficiant du taux réduit de taxe sur la valeur ajoutée prévu par l'article
+279-0 bis.
 
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens
 ou à des prestations de services effectuées à titre onéreux.

@@ -15,8 +15,8 @@ actes effectués par un infirmier remplaçant un infirmier conventionné et les
 actes effectués par les infirmiers conventionnés dans les établissements et
 structures d'hébergement de toute nature ;
 
-2° Les conditions d'organisation de la formation continue conventionnelle des
-infirmiers ainsi que le financement de cette formation ;
+2° Le montant de la contribution annuelle des caisses nationales d'assurance
+maladie au développement professionnel continu ;
 
 3° Les conditions, à remplir par les infirmiers pour être conventionnés et
 notamment celles relatives à la durée minimum d'expérience professionnelle

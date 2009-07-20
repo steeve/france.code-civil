@@ -4,6 +4,10 @@ L'autorisation est donnée pour une durée déterminée, fixée par voie
 réglementaire. Sans préjudice des dispositions prévues à l'article L. 6121-2,
 cette durée ne peut être inférieure à cinq ans, sauf pour les activités de soins
 nécessitant des dispositions particulières dans l'intérêt de la santé publique.
+Au 1er janvier 2010, les autorisations d'activités de soins délivrées pour une
+durée indéterminée prennent fin au terme de la durée applicable en vertu du
+présent article. Les titulaires d'autorisation devront obtenir le renouvellement
+de leur autorisation dans les conditions prévues à l'article L. 6122-10.
 
 L'autorisation fixe les objectifs quantifiés des activités de soins ou des
 équipements lourds autorisés lorsqu'ils n'ont pas été fixés dans le contrat

@@ -1,32 +1,15 @@
 Article L6132-1
 ----
-Un syndicat interhospitalier peut exercer, pour tous les établissements qui en
-font partie ou pour certains d'entre eux, sur leur demande, toute activité
-intéressant le fonctionnement et le développement du service public hospitalier,
-notamment :
+Des établissements publics de santé peuvent conclure une convention de
+communauté hospitalière de territoire afin de mettre en œuvre une stratégie
+commune et de gérer en commun certaines fonctions et activités grâce à des
+délégations ou des transferts de compétences entre les établissements et grâce à
+la télémédecine. Un établissement public de santé ne peut être partie qu'à une
+seule convention de communauté hospitalière de territoire.
 
-1° La création et la gestion de services communs ;
+La convention prend en compte la notion d'exception géographique, que
+constituent certains territoires.
 
-2° La formation et le perfectionnement de tout ou partie du personnel ;
-
-3° L'étude et la réalisation de travaux d'équipement ;
-
-4° La centralisation de tout ou partie des ressources d'amortissement en vue de
-leur affectation soit au financement des travaux d'équipement entrepris, soit au
-service d'emprunts contractés pour le compte desdits établissements ;
-
-5° La gestion de la trésorerie ainsi que des emprunts contractés et des
-subventions d'équipements obtenues par ces établissements ;
-
-6° La création et la gestion de nouvelles installations nécessaires pour
-répondre aux besoins sanitaires de la population.
-
-Les attributions du syndicat sont définies par des délibérations concordantes
-des conseils d'administration des établissements qui en font partie.
-
-Les conseils d'administration d'établissements publics de santé membres d'un
-syndicat interhospitalier peuvent décider de lui transférer, en même temps que
-les activités entrant dans ses missions, les emplois occupés par des agents
-régis par le titre IV du statut général des fonctionnaires et afférents audites
-activités. Dans ce cas, le syndicat devient employeur des agents susmentionnés
-qui assuraient jusque-là les activités considérées dans lesdits établissements.
+Un ou plusieurs établissements publics médico-sociaux peuvent participer aux
+actions menées dans le cadre d'une convention de communauté hospitalière de
+territoire.

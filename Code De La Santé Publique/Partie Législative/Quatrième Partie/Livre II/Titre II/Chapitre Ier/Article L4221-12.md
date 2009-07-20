@@ -6,11 +6,13 @@ titulaires d'un diplôme, certificat ou autre titre permettant l'exercice de la
 profession de pharmacien dans le pays d'obtention de ce diplôme, certificat ou
 titre.
 
-Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification de
-leur maîtrise de la langue française et des connaissances, qui peuvent être
-organisées par spécialité. Des dispositions réglementaires fixent les conditions
-d'organisation de ces épreuves. Le nombre maximum de candidats susceptibles
-d'être reçus à ces épreuves est fixé par arrêté du ministre chargé de la santé.
+Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification
+des connaissances, qui peuvent être organisées par spécialité, et justifier d'un
+niveau suffisant de maîtrise de la langue française. Des dispositions
+réglementaires fixent les conditions d'organisation de ces épreuves et de
+vérification du niveau de maîtrise de la langue française. Le nombre maximum de
+candidats susceptibles d'être reçus à ces épreuves est fixé par arrêté du
+ministre chargé de la santé.
 
 Le nombre maximum mentionné à l'alinéa précédent n'est pas opposable aux
 réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la
@@ -23,5 +25,5 @@ exercées avant la réussite à ces épreuves peuvent être prises en compte apr
 avis du conseil mentionné au premier alinéa, dans des conditions fixées par voie
 réglementaire.
 
-Nul ne peut être candidat plus de deux fois aux épreuves de vérification des
+Nul ne peut être candidat plus de trois fois aux épreuves de vérification des
 connaissances et à l'autorisation d'exercice.

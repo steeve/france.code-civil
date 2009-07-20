@@ -18,4 +18,7 @@ l'article L. 5126-4, leur prix de cession, ainsi que le choix des établissement
 autorisés, par le même article, à vendre lesdits médicaments au public ;
 
 6° Les conditions dans lesquelles les pharmacies à usage intérieur sont
-inspectées.
+inspectées ;
+
+7° Les modalités d'application de l'avant-dernier alinéa de l'article L. 5126-2
+et notamment les catégories de préparations concernées.

@@ -1,17 +1,31 @@
 Article L6133-3
 ----
-L'assemblée générale des membres du groupement est habilitée à prendre toute
-décision intéressant le groupement ; elle élit, en son sein, un administrateur
-qui est chargé de la mise en oeuvre de ses décisions.
+I. ― Le groupement de coopération sanitaire de moyens peut être constitué avec
+ou sans capital. Sa convention constitutive est soumise à l'approbation du
+directeur général de l'agence régionale de santé, qui en assure la publication.
 
-La convention constitutive du groupement doit être approuvée et publiée par le
-directeur de l'agence régionale de l'hospitalisation.
+Ce groupement acquiert la personnalité morale à dater de cette publication.
 
-Le groupement peut être créé avec ou sans capital. Les charges d'exploitation
-sont couvertes par les participations de ses membres.
+1. Le groupement de coopération sanitaire de moyens est une personne morale de
+droit public :
 
-Les conditions d'intervention des personnels sont précisées dans la convention
-constitutive.
+― soit s'il est constitué exclusivement par des personnes de droit public, ou
+par des personnes de droit public et des professionnels médicaux libéraux ;
 
-Les membres du groupement sont responsables de sa gestion proportionnellement à
-leurs apports ou à leurs participations.
+― soit si la majorité des apports au groupement ou, s'il est constitué sans
+capital, des participations à ses charges de fonctionnement proviennent de
+personnes de droit public.
+
+2. Le groupement de coopération sanitaire de moyens est une personne morale de
+droit privé :
+
+― soit s'il est constitué exclusivement par des personnes de droit privé ;
+
+― soit si la majorité des apports au groupement ou, s'il est constitué sans
+capital, des participations à son fonctionnement proviennent de personnes de
+droit privé.
+
+Les modalités d'évaluation des apports ou des participations en nature sont
+déterminées par décret en Conseil d'Etat.
+
+II. ― Le groupement de coopération sanitaire de moyens peut être employeur.

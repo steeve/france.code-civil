@@ -20,5 +20,5 @@ Il participe au suivi de la démographie de la profession d'infirmier, à la
 production de données statistiques homogènes et étudie l'évolution prospective
 des effectifs de la profession au regard des besoins de santé.
 
-Il accomplit ses missions par l'intermédiaire des conseils départementaux, des
-conseils régionaux et du conseil national de l'ordre.
+Il accomplit ses missions par l'intermédiaire des conseils départementaux ou
+interdépartementaux, des conseils régionaux et du conseil national de l'ordre.

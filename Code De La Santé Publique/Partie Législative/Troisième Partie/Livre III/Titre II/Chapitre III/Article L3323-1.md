@@ -23,3 +23,7 @@ g) Eaux minérales gazeuses ou non.
 
 Cet étalage, séparé de celui des autres boissons, doit être installé en évidence
 dans les lieux où sont servis les consommateurs.
+
+Si le débitant propose des boissons alcooliques à prix réduits pendant une
+période restreinte, il doit également proposer à prix réduit les boissons non
+alcooliques susmentionnées.

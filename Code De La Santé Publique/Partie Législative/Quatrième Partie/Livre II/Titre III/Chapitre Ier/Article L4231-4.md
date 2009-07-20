@@ -50,8 +50,8 @@ pharmaciens de la section E est effectuée au second degré, par l'ensemble des
 délégués locaux des sous-sections des départements d'outre-mer et de la
 collectivité territoriale de Saint-Pierre-et-Miquelon.
 
-La durée du mandat des membres élus du conseil national de l'ordre est de quatre
-ans. Le conseil national est renouvelable par moitié tous les deux ans.
+La durée du mandat des membres élus ou nommés du conseil national de l'ordre est
+de six ans. Le conseil national est renouvelable par moitié tous les trois ans.
 
 Les pharmaciens membres du conseil national de l'ordre ne peuvent pas faire
 partie des autres conseils de l'ordre.

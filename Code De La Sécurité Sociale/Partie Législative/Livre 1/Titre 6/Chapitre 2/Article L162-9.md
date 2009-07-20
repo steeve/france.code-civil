@@ -50,7 +50,10 @@ chirurgiens-dentistes, sages-femmes et auxiliaires médicaux en fonction du
 niveau de l'offre en soins au sein de chaque région dans les zones au sens du 2°
 de l'article L. 162-47. Ces modalités sont définies après concertation des
 organisations les plus représentatives des étudiants et jeunes
-chirurgiens-dentistes, sages-femmes et auxiliaires médicaux.
+chirurgiens-dentistes, sages-femmes et auxiliaires médicaux ;
+
+8° Le montant de la contribution annuelle des caisses nationales d'assurance
+maladie au développement professionnel continu.
 
 Elles fixent également les modalités d'application du 3°, et notamment les
 conditions dans lesquelles le professionnel concerné présente ses observations.

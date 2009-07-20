@@ -4,19 +4,20 @@ On entend par :
 
 1° Préparation magistrale, tout médicament préparé selon une prescription
 médicale destinée à un malade déterminé, soit extemporanément en pharmacie, soit
-dans les conditions prévues à l'article L. 5125-1 ;
+dans les conditions prévues à l'article L. 5125-1 ou à l'article L. 5126-2 ;
 
 2° Préparation hospitalière, tout médicament, à l'exception des produits de
 thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
 et en conformité avec les bonnes pratiques mentionnées à l'article L. 5121-5, en
-raison de l'absence de spécialité pharmaceutique disponible ou adaptée dans une
+raison de l'absence de spécialité pharmaceutique disponible ou adaptée par une
 pharmacie à usage intérieur d'un établissement de santé, ou par l'établissement
 pharmaceutique de cet établissement de santé autorisé en application de
-l'article L. 5124-9. Les préparations hospitalières sont dispensées sur
-prescription médicale à un ou plusieurs patients par une pharmacie à usage
-intérieur dudit établissement. Elles font l'objet d'une déclaration auprès de
-l'Agence française de sécurité sanitaire des produits de santé, dans des
-conditions définies par arrêté du ministre chargé de la santé ;
+l'article L. 5124-9 ou dans les conditions prévues à l'article L. 5126-2. Les
+préparations hospitalières sont dispensées sur prescription médicale à un ou
+plusieurs patients par une pharmacie à usage intérieur dudit établissement.
+Elles font l'objet d'une déclaration auprès de l'Agence française de sécurité
+sanitaire des produits de santé, dans des conditions définies par arrêté du
+ministre chargé de la santé ;
 
 3° Préparation officinale, tout médicament préparé en pharmacie, inscrit à la
 pharmacopée ou au formulaire national et destiné à être dispensé directement aux

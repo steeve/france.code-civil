@@ -14,3 +14,6 @@ Une convocation individuelle est adressée, à cet effet, à tous les médecins,
 chirurgiens-dentistes ou les sages-femmes du département exerçant à poste fixe
 et inscrits au tableau de l'ordre, au moins deux mois avant la date fixée pour
 les élections.
+
+Un décret en Conseil d'Etat fixe les modalités d'élection du conseil
+départemental et la durée des mandats de ses membres.

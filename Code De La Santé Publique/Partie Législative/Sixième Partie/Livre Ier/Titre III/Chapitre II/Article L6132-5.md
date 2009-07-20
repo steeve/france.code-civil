@@ -1,13 +1,21 @@
 Article L6132-5
 ----
-Les organismes concourant aux soins qui ne comportent pas de moyens
-d'hospitalisation peuvent, lorsqu'ils sont gérés par une collectivité publique
-ou une institution privée, faire partie d'un syndicat interhospitalier.
+En application du deuxième alinéa de l'article L. 6148-1 :
 
-Dans le cas où ils ne sont pas dotés de la personnalité morale, la demande est
-présentée par la collectivité publique ou l'institution à caractère privé dont
-ils relèvent.
+1° Un établissement public de santé qui transfère, en application d'une
+convention de communauté hospitalière de territoire, une activité de soins à un
+autre établissement peut lui céder les biens meubles et immeubles relevant du
+domaine public affectés à cette activité, dans les conditions prévues à
+l'article L. 3112-1 du code général de la propriété des personnes publiques ;
 
-L'autorisation est accordée par le directeur de l'agence régionale de
-l'hospitalisation, sur avis conforme du conseil d'administration du syndicat
-intéressé.
+2° Il peut être procédé à un échange de biens meubles ou immeubles entre deux
+établissements publics de santé parties à une convention de communauté
+hospitalière de territoire, dans les conditions prévues à l'article L. 3112-2 du
+même code.
+
+La cession ou l'échange mentionnés aux 1° et 2° du présent article, ainsi que
+les droits et obligations y afférents, ne donnent lieu à la perception d'aucune
+indemnité, taxe, salaire ou honoraires. Le directeur général de l'agence
+régionale de santé authentifie les transferts de propriété immobilière en vue de
+réaliser les formalités de publicité immobilière par une décision qui en
+détermine la date et en précise, en tant que de besoin, les modalités.

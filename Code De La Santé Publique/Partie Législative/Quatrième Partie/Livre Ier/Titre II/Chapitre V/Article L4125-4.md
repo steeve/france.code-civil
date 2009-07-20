@@ -6,10 +6,9 @@ procéder à l'élection de nouvelles instances. Ces élections doivent avoir li
 l'époque normalement prévue pour le premier renouvellement partiel qui suit la
 publication du texte modifiant le ressort territorial de ces instances.
 
-Afin de permettre le renouvellement par tiers des nouvelles instances, un tirage
-au sort détermine ceux des membres dont le mandat vient à expiration
-respectivement dans les délais de trois, six ou neuf ans ou de deux, quatre ou
-six ans.
+Afin de permettre le renouvellement par moitié des nouvelles instances, un
+tirage au sort détermine ceux des membres dont le mandat vient à expiration
+respectivement dans les délais de trois ou six ans.
 
 Dans le même cas, il est procédé à de nouvelles élections pour la désignation,
 au sein du conseil national intéressé, des représentants des conseils

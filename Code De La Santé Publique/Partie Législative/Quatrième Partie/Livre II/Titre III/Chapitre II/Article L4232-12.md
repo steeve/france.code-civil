@@ -10,14 +10,13 @@ déterminée par arrêté du ministre chargé de la santé.
 Le Conseil central de la section E doit statuer sur les demandes d'inscription
 dans un délai maximum de trois mois à compter de la réception de la demande.
 Après avoir examiné les titres et qualités du demandeur, ils accordent
-l'inscription au tableau ou la refusent par décision motivée si les garanties de
-moralité professionnelle et les conditions prévues par la loi ne sont pas
-remplies :
-
-signification par lettre recommandée est faite dans la semaine qui suit le délai
-imparti au conseil. Le délai de trois mois peut être prolongé par décision
-motivée si un supplément d'instruction paraît nécessaire sans que cette
-prolongation puisse excéder un an. Dans ce cas, le demandeur est avisé.
+l'inscription au tableau ou la refusent par décision écrite motivée si les
+garanties de compétence, de moralité et d'indépendance professionnelle et les
+conditions prévues par la loi ne sont pas remplies : signification par lettre
+recommandée est faite dans la semaine qui suit le délai imparti au conseil. Le
+délai de trois mois peut être prolongé par décision motivée si un supplément
+d'instruction paraît nécessaire sans que cette prolongation puisse excéder un
+an. Dans ce cas, le demandeur est avisé.
 
 Si aucune décision n'est intervenue à l'expiration des délais impartis,
 l'inscription est de droit à la demande de l'intéressé.

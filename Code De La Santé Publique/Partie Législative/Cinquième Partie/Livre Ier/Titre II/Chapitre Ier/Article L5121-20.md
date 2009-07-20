@@ -71,7 +71,9 @@ ou retirant celui ci ;
 13° Les règles applicables à la pharmacovigilance exercée sur les médicaments et
 sur les produits mentionnés à l'article L. 5121-1, notamment les obligations de
 signalement incombant aux membres des professions de santé et aux entreprises
-exploitant un médicament ou un produit soumis au présent titre ;
+exploitant un médicament ou un produit soumis au présent titre, ainsi que les
+modalités de signalement d'effets indésirables effectué directement par les
+patients ou communiqué par les associations agréées de patients ;
 
 14° Les règles particulières applicables à la pharmacovigilance exercée sur les
 médicaments dérivés du sang et les autres médicaments d'origine humaine ;

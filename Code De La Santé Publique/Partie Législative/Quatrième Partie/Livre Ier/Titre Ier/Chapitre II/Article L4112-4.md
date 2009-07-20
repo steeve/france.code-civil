@@ -9,14 +9,17 @@ départemental, le silence gardé par celui-ci constitue une décision implicite
 rejet susceptible de recours.
 
 Les décisions du conseil régional en matière d'inscription au tableau sont
-notifiées sans délai au président du conseil départemental qui les notifie
-lui-même dans les dix jours au médecin, au chirurgien-dentiste ou à la
-sage-femme qui en a été l'objet. Elles sont également notifiées sans délai au
-conseil national de l'ordre. Elles peuvent être frappées d'appel devant le
-conseil national par le médecin, le chirurgien-dentiste ou la sage-femme
-intéressés ou par le conseil départemental.
+notifiées sans délai par le conseil régional au médecin, chirurgien-dentiste ou
+sage-femme qui en est l'objet, au conseil départemental et au conseil national
+de l'ordre.
 
 Le délai d'appel, tant devant le conseil régional que devant le conseil
 national, est de trente jours à compter, soit de la notification de la décision
 expresse frappée d'appel, soit du jour où est acquise la décision implicite de
 rejet du conseil départemental.
+
+Faute pour les personnes intéressées d'avoir régulièrement frappé d'appel une
+décision d'inscription, le conseil national peut, dans un délai de trois mois à
+compter de l'expiration du délai d'appel, retirer cette décision lorsque
+celle-ci repose sur une inexactitude matérielle ou une erreur manifeste
+d'appréciation des conditions auxquelles est subordonnée l'inscription.
