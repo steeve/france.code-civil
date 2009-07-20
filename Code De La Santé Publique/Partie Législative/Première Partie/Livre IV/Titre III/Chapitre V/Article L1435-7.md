@@ -4,13 +4,10 @@ Le directeur général de l'agence régionale de santé peut désigner, parmi le
 personnels de l'agence respectant des conditions d'aptitude technique et
 juridique définies par décret en Conseil d'Etat, des inspecteurs et des
 contrôleurs pour remplir, au même titre que les agents mentionnés à l'article L.
-1421-1, les missions prévues à cet article ; il peut également désigner des
-experts pour les assister. Il peut, dans les mêmes conditions, leur confier les
-missions prévues à l'article L. 313-13 du code de l'action sociale et des
-familles. Les inspecteurs et contrôleurs de l'agence disposent des prérogatives
-prévues aux articles L. 1421-2 et L. 1421-3 du présent code. Le deuxième alinéa
-de l'article L. 1421-1 est applicable, le cas échéant, aux experts qui les
-assistent.
+1421-1, les missions prévues à cet article. Il peut, dans les mêmes conditions,
+leur confier les missions prévues à l'article L. 313-13 du code de l'action
+sociale et des familles. Les inspecteurs et contrôleurs de l'agence disposent
+des prérogatives prévues aux articles L. 1421-2 et L. 1421-3 du présent code.
 
 Le directeur général de l'agence, sur le rapport d'un agent mentionné au premier
 alinéa du présent article ou à l'article L. 1421-1, est tenu de signaler au
