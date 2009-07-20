@@ -30,7 +30,9 @@ discrimination ;
 
 10° Les actions de santé publique ;
 
-11° La prise en charge des personnes hospitalisées sans leur consentement ;
+11° La prise en charge des personnes faisant l'objet de soins psychiatriques en
+application des chapitres II à IV du titre Ier du livre II de la troisième
+partie du présent code ou de l'article 706-135 du code de procédure pénale ;
 
 12° Les soins dispensés aux détenus en milieu pénitentiaire et, si nécessaire,
 en milieu hospitalier, dans des conditions définies par décret ;
