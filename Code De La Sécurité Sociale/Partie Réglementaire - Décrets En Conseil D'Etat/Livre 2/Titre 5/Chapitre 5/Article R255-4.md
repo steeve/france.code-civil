@@ -1,15 +1,18 @@
 Article R255-4
 ----
-Si, à une date donnée, la prévision actualisée du solde de trésorerie établie
-par l'Agence centrale des organismes de sécurité sociale pour le dixième jour
-ouvré suivant est inférieure au montant des excédents durables placés, le
-montant des placements mentionnés à l'article précédent est réduit à due
-concurrence par l'Agence centrale des organismes de sécurité sociale.
+Le placement des excédents durables de trésorerie définis à l'article R. 255-2
+est effectué par l'Agence centrale des organismes de sécurité sociale pour le
+compte des caisses nationales concernées.
 
-Le nouveau solde quotidien minimum de trésorerie constaté comptablement se
-substitue alors jusqu'à la fin de l'année civile au solde minimum tel que prévu
-à l'article R. 255-2.
+Ces placements peuvent être réalisés en valeurs d'Etat, en valeurs garanties par
+l'Etat ou en valeurs mobilisables dans des conditions déterminées par un arrêté
+conjoint du ministre chargé de la sécurité sociale, du ministre chargé du budget
+et du ministre chargé de l'économie.
 
-Les conseils d'administration des caisses nationales sont informés sans délai
-par l'Agence centrale des organismes de sécurité sociale de cette modification
-et de ses motifs.
+Les autres disponibilités font l'objet de placements en cours d'année par
+l'Agence centrale des organismes de sécurité sociale dans les conditions
+définies par le même arrêté.
+
+L'Agence centrale des organismes de sécurité sociale effectue ces placements par
+l'intermédiaire de la Caisse des dépôts et consignations, qui est en outre
+chargée de la gestion des valeurs.

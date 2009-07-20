@@ -1,28 +1,25 @@
 Article R255-1
 ----
-L'état prévisionnel de trésorerie de chacune des branches du régime général est
-établi chaque année pour l'année suivante selon les modalités définies au
-présent article.
+Les états prévisionnels de trésorerie de l'Agence centrale des organismes de
+sécurité sociale et de chacune des branches du régime général sont établis
+chaque année pour l'année suivante par l'agence centrale des organismes de
+sécurité sociale. Chaque état présente la situation quotidienne de trésorerie de
+l'agence ou de la branche considérée. Ces états sont transmis aux caisses
+nationales gestionnaires des branches avant le 5 décembre de l'année.
 
-En matière de dépenses, cet état est établi pour chacune des branches sur la
-base des prévisions de chaque caisse nationale pour l'année suivante. Ces
-prévisions sont approuvées par le conseil d'administration de la caisse
-nationale gérant la branche considérée. Elles doivent être communiquées à
-l'Agence centrale des organismes de sécurité sociale avant le 31 octobre de
-chaque année.
+Les prévisions de recettes et de dépenses retenues pour l'établissement de ces
+états prévisionnels de trésorerie sont fondées sur les hypothèses économiques
+retenues dans le rapport annexé au projet de loi de finances prévu à l'article
+50 de la loi organique n° 2001-692 relative aux lois de finances, ainsi que dans
+le rapport de la commission des comptes de la sécurité sociale. Elles tiennent
+compte des effets sur la trésorerie de l'ensemble des mesures législatives et
+réglementaires alors en vigueur, ainsi que des mesures prévues dans les projets
+de loi de finances et de financement de la sécurité sociale dans leur rédaction
+résultant des votes intervenus avant la date mentionnée au premier alinéa
+ci-dessus.
 
-Au vu de ces prévisions, ainsi que des prévisions de recettes, l'Agence centrale
-des organismes de sécurité sociale établit avant le 30 novembre l'état
-prévisionnel quotidien de la trésorerie de chaque branche du régime général pour
-l'année suivante. Elle transmet ces états aux caisses nationales avant le 5
-décembre.
-
-Ces états prévisionnels tiennent compte des effets en trésorerie de l'ensemble
-des mesures législatives et réglementaires en vigueur à la date de leur
-transmission aux caisses ainsi que du montant des crédits inscrits dans le
-projet de loi de finances pour l'année suivante. Les prévisions de dépenses et
-de recettes mentionnées aux alinéas précédents sont fondées sur les hypothèses
-économiques retenues dans le rapport économique et financier annexé, en vertu de
-l'ordonnance organique n° 59-2 du 2 janvier 1959, au projet de loi de finances
-initiale et dans le dernier rapport de la commission des comptes de la sécurité
-sociale.
+L'Agence centrale des organismes de sécurité sociale assure un suivi permanent
+de ces états prévisionnels et actualise périodiquement ses prévisions sur la
+base des informations dont elle dispose. Les modifications résultant de cette
+actualisation sont portées à la connaissance des caisses nationales mentionnées
+au premier alinéa ci-dessus.
