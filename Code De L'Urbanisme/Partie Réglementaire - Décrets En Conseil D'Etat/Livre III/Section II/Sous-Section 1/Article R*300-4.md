@@ -1,0 +1,7 @@
+Article R*300-4
+----
+Les dispositions de la présente sous-section sont applicables aux concessions
+d'aménagement lorsque le montant total des produits de l'opération d'aménagement
+concédée est égal ou supérieur au seuil mentionné pour les marchés de travaux au
+2° du IV de l'article 40 du code des marchés publics et que le concessionnaire
+assume une part significative du risque économique de l'opération.
