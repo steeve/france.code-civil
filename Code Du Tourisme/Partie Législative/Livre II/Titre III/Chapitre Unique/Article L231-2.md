@@ -1,6 +1,8 @@
 Article L231-2
 ----
-Nul ne peut exercer la profession d'entrepreneur de remise et de tourisme s'il
-ne remplit pas les conditions de compétence et de moralité nécessaires, s'il ne
-dispose pas d'un personnel qualifié et d'un matériel répondant aux conditions
-fixées par voie réglementaire.
+Les entreprises mentionnées à l'article L. 231-1 doivent disposer d'une ou
+plusieurs voitures répondant à des conditions techniques et de confort, ainsi
+que d'un ou plusieurs chauffeurs titulaires du permis B et justifiant de
+conditions d'aptitude professionnelle définies par décret.
+
+Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3.

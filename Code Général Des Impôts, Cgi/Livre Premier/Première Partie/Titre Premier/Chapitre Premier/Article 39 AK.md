@@ -1,12 +1,12 @@
 Article 39 AK
 ----
 Les matériels et installations acquis ou créés, entre le 15 novembre 2006 et le
-31 décembre 2009, en vue de répondre aux obligations légales ou réglementaires
-de mise en conformité, par les entreprises exerçant leur activité dans le
-secteur des hôtels, cafés et restaurants, à l'exclusion des activités
-d'hébergement collectif non touristique et de restauration collective, peuvent
-faire l'objet d'un amortissement exceptionnel sur vingt-quatre mois à compter de
-la date de leur mise en service.
+30 juin 2009, en vue de répondre aux obligations légales ou réglementaires de
+mise en conformité, par les entreprises exerçant leur activité dans le secteur
+des hôtels, cafés et restaurants, à l'exclusion des activités d'hébergement
+collectif non touristique et de restauration collective, peuvent faire l'objet
+d'un amortissement exceptionnel sur vingt-quatre mois à compter de la date de
+leur mise en service.
 
 Les obligations légales ou réglementaires de mise en conformité mentionnées au
 premier alinéa sont relatives à l'hygiène, la sécurité, l'insonorisation, la

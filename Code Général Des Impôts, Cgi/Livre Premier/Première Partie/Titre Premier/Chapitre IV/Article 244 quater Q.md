@@ -123,7 +123,7 @@ physiques participant à l'exploitation au sens du 1° bis du I de l'article 156
 
 V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la
 délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31
-décembre 2009.
+décembre 2012.
 
 VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré
 par l'autorité administrative aux dirigeants et le cahier des charges est établi

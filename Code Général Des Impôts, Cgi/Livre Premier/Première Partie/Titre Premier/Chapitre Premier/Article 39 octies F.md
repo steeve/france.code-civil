@@ -3,7 +3,7 @@ Article 39 octies F
 Les entreprises individuelles soumises à un régime réel d'imposition et les
 sociétés visées au deuxième alinéa de l'article L. 223-1 du code de commerce
 relevant de l'impôt sur le revenu peuvent constituer, au titre des exercices
-clos avant le 1er janvier 2010, une provision pour dépenses de mise en
+clos avant le 1er juillet 2009, une provision pour dépenses de mise en
 conformité :
 
 1° Avec la réglementation en matière de sécurité alimentaire, pour celles
@@ -20,7 +20,7 @@ La dotation à cette provision est subordonnée à l'existence, à la clôture d
 l'exercice, d'une obligation légale ou réglementaire de mise en conformité
 mentionnée au deuxième ou au troisième alinéa. Le montant de la dotation
 correspond au montant estimé des dépenses de mise en conformité. Le montant
-total de la provision à la clôture d'un exercice ne peut excéder 15 000 euros.
+total de la provision à la clôture d'un exercice ne peut excéder 15 000 €.
 
 Cette provision doit être utilisée, au plus tard à la clôture du cinquième
 exercice suivant la première dotation annuelle, pour l'engagement de dépenses de

@@ -1,17 +1,16 @@
 Article L211-13
 ----
-Les prix prévus au contrat ne sont pas révisables, sauf si celui-ci prévoit
-expressément la possibilité d'une révision tant à la hausse qu'à la baisse et en
-détermine les modalités précises de calcul, uniquement pour tenir compte des
-variations :
+Lorsque, avant le départ, le respect d'un des éléments essentiels du contrat est
+rendu impossible par suite d'un événement extérieur qui s'impose au vendeur,
+celui-ci doit le plus rapidement possible en avertir l'acheteur et informer ce
+dernier de la faculté dont il dispose soit de résilier le contrat, soit
+d'accepter la modification proposée par le vendeur.
 
-a) Du coût des transports, lié notamment au coût du carburant ;
+Cet avertissement et cette information doivent être confirmés par écrit à
+l'acheteur, qui doit faire connaître son choix dans les meilleurs délais.
+Lorsqu'il résilie le contrat, l'acheteur a droit, sans supporter de pénalités ou
+de frais, au remboursement de la totalité des sommes qu'il a versées.
 
-b) Des redevances et taxes afférentes aux prestations offertes, telles que les
-taxes d'atterrissage, d'embarquement, de débarquement dans les ports et les
-aéroports ;
-
-c) Des taux de change appliqués au voyage ou au séjour considéré.
-
-Au cours des trente jours qui précèdent la date de départ prévue, le prix fixé
-au contrat ne peut faire l'objet d'une majoration.
+Le présent article s'applique également en cas de modification significative du
+prix du contrat intervenant conformément aux conditions prévues à l'article L.
+211-12.

@@ -16,4 +16,5 @@ délégués de chaque conseil général, ainsi que des membres représentant :
 
 5° Les associations de tourisme et de loisirs ;
 
-6° Les communes touristiques ou leurs groupements.
+6° Les communes touristiques ou leurs groupements et les stations classées de
+tourisme.

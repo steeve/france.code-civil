@@ -1,7 +1,5 @@
 Article L231-3
 ----
-L'aptitude à l'exercice de la profession est constatée par la remise d'une
-licence par l'autorité administrative compétente, après avis d'une commission
-départementale.
-
-Ces licences peuvent être suspendues ou retirées dans les mêmes formes.
+Les voitures de tourisme avec chauffeur ne peuvent ni stationner sur la voie
+publique si elles n'ont pas fait l'objet d'une location préalable, ni être
+louées à la place.

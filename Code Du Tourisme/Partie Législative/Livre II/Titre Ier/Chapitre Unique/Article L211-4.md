@@ -1,7 +1,7 @@
 Article L211-4
 ----
-Outre les opérations mentionnées à l'article L. 211-1, les personnes physiques
-ou morales titulaires d'une licence, d'un agrément, d'une autorisation ou d'une
-habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L.
-213-5, L. 213-6, L. 213-7 et L. 232-1 peuvent se livrer à des activités de
-location de meublés saisonniers à usage touristique et de places de spectacles.
+Les personnes physiques ou morales immatriculées au registre mentionné au I de
+l'article L. 211-18 peuvent réaliser pour le compte d'autrui des locations
+meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à
+l'article 1er-1 de la loi n° 70-9 du 2 janvier 1970 précitée. Elles sont
+soumises, pour l'exercice de cette activité, à l'article 8 de la même loi.

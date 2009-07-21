@@ -29,7 +29,7 @@ c) Les villages de vacances ;
 
 d) Les villas, appartements et chambres meublés, qui sont loués à la semaine ;
 
-e) Les restaurants de tourisme ;
+e) (abrogé) ;
 
 f) (abrogé)
 

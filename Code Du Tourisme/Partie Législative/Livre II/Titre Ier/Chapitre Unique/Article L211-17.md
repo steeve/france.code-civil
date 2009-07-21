@@ -1,13 +1,7 @@
 Article L211-17
 ----
-Toute personne physique ou morale qui se livre aux opérations mentionnées à
-l'article L. 211-1 est responsable de plein droit à l'égard de l'acheteur de la
-bonne exécution des obligations résultant du contrat, que ces obligations soient
-à exécuter par elle-même ou par d'autres prestataires de services, sans
-préjudice de son droit de recours contre ceux-ci.
-
-Toutefois, elle peut s'exonérer de tout ou partie de sa responsabilité en
-apportant la preuve que l'inexécution ou la mauvaise exécution du contrat est
-imputable soit à l'acheteur, soit au fait, imprévisible et insurmontable, d'un
-tiers étranger à la fourniture des prestations prévues au contrat, soit à un cas
-de force majeure.
+L'article L. 211-16 ne s'applique pas aux personnes physiques ou morales pour
+les opérations de réservation ou de vente, conclues à distance ou non, n'entrant
+pas dans un forfait touristique tel que défini à l'article L. 211-2, relatives
+soit à des titres de transport aérien, soit à d'autres titres de transport sur
+ligne régulière.

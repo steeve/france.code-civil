@@ -1,8 +1,14 @@
 Article L211-7
 ----
-Tout titulaire d'une licence, d'un agrément, d'une autorisation ou d'une
-habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L.
-213-5, L. 213-6, L. 213-7 et L. 232-1 doit tenir ses livres et documents à la
-disposition des agents habilités à les consulter ; il doit également mentionner
-ce titre dans son enseigne, dans les documents remis aux tiers et dans sa
-publicité.
+La présente section s'applique aux opérations et activités énumérées à l'article
+L. 211-1, au dernier alinéa de l'article L. 211-3 et à l'article L. 211-4.
+
+Toutefois, elle ne s'applique aux opérations suivantes que lorsque celles-ci
+entrent dans le cadre d'un forfait touristique tel que défini à l'article L.
+211-2 :
+
+a) La réservation et la vente de titres de transport aérien ou d'autres titres
+de transport sur ligne régulière ;
+
+b) La location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du
+2 janvier 1970 précitée et par les textes pris pour son application.

@@ -1,15 +1,16 @@
 Article L3332-1-1
 ----
 Une formation spécifique sur les droits et obligations attachés à l'exploitation
-d'un débit de boissons ou d'un établissement pourvu de la "petite licence
-restaurant" ou de la "licence restaurant" est dispensée, par des organismes
+d'un débit de boissons ou d'un établissement pourvu de la " petite licence
+restaurant " ou de la " licence restaurant " est dispensée, par des organismes
 agréés par arrêté du ministre de l'intérieur et mis en place par les syndicats
 professionnels nationaux représentatifs du secteur de l'hôtellerie, de la
-restauration, des cafés et discothèques, à toute personne déclarant l'ouverture,
-la mutation, la translation ou le transfert d'un débit de boissons à consommer
-sur place de deuxième, troisième et quatrième catégories ou à toute personne
-déclarant un établissement pourvu de la "petite licence restaurant" ou de la
-"licence restaurant".
+restauration, des cafés et discothèques ou, pour les personnes visées à
+l'article L. 324-4 du code du tourisme, par les fédérations nationales
+concernées, à toute personne déclarant l'ouverture, la mutation, la translation
+ou le transfert d'un débit de boissons à consommer sur place de deuxième,
+troisième et quatrième catégories ou à toute personne déclarant un établissement
+pourvu de la " petite licence restaurant " ou de la " licence restaurant ".
 
 A l'issue de cette formation, les personnes visées à l'alinéa précédent doivent
 avoir une connaissance notamment des dispositions du présent code relatives à la

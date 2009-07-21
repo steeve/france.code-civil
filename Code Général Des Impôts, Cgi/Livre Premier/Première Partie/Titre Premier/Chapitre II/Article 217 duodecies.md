@@ -13,9 +13,10 @@ d'investissements sont sans incidence pour la détermination du montant des
 dépenses éligibles retenues pour l'application de l'article 217 undecies.
 
 Pour l'application des régimes issus des articles 199 undecies A, 199 undecies
-B, 217 undecies ainsi que du présent article, les mots : " restaurant de
-tourisme classé " et " hôtel classé " s'apprécient au regard de la
-réglementation propre à chaque collectivité d'outre-mer.
+B, 217 undecies ainsi que du présent article, les mots : " restaurants dont le
+dirigeant est titulaire du titre de maître-restaurateur mentionné à l'article
+244 quater Q, restaurants de tourisme classés " et " hôtel classé " s'apprécient
+au regard de la réglementation propre à chaque collectivité d'outre-mer.
 
 Le I bis de l'article 217 undecies est applicable à Mayotte, Saint-Barthélemy,
 Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie

@@ -1,8 +1,9 @@
 Article L211-10
 ----
-L'information préalable prévue à l'article L. 211-9 engage le vendeur, à moins
-que des modifications dans ces informations n'aient été portées à la
-connaissance des intéressés avant la conclusion du contrat.
-
-Il ne peut être apporté de modification à l'information préalable que si le
-vendeur s'en réserve expressément la faculté dans celle-ci.
+Le contrat conclu entre le vendeur et l'acheteur doit comporter, selon les
+modalités fixées par voie réglementaire, toutes indications relatives aux noms
+et adresses de l'organisateur, du vendeur, du garant et de l'assureur, à la
+description des prestations fournies, aux droits et obligations réciproques des
+parties en matière notamment de prix, de calendrier, de modalités de paiement et
+de révision éventuelle des prix, d'annulation ou de cession du contrat et à
+l'information de l'acheteur avant le début du voyage ou du séjour.

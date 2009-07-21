@@ -7,7 +7,7 @@ physiques et sportives.
 
 Des dérogations peuvent être accordées par arrêté des ministres chargés de la
 santé et du tourisme pour des installations qui sont situées dans des
-établissements classés hôtels ou restaurants de tourisme.
+établissements classés hôtels de tourisme ou dans des restaurants.
 
 Sous réserve des décisions de justice passées en force de chose jugée, le maire
 peut, par arrêté, et dans les conditions fixées par décret, accorder des
@@ -28,4 +28,5 @@ deux autorisations annuelles par commune ;
 
 c) Des organisateurs de manifestations à caractère touristique dans la limite de
 quatre autorisations annuelles, au bénéfice des stations classées et des
-communes touristiques.
+communes touristiques relevant de la section 2 du chapitre III du titre III du
+livre Ier du code du tourisme.

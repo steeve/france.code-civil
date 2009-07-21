@@ -183,8 +183,8 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 obligations qui sont mises à sa charge par le même chapitre II ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition
-des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4
-et L. 411-5 du code du tourisme ;
+des chèques-vacances dans les conditions et limite prévues à la section 1 du
+chapitre Ier du titre Ier du livre IV du code du tourisme ;
 
 19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur
 du prix des titres d'abonnement souscrits par les salariés pour les déplacements
@@ -268,7 +268,7 @@ employeur de matériels informatiques et de logiciels nécessaires à leur
 utilisation entièrement amortis et pouvant permettre l'accès à des services de
 communications électroniques et de communication au public en ligne, dans la
 limite d'un prix de revient global des matériels et logiciels reçus dans l'année
-de 2 000 ;
+de 2 000 euros ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de
 financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
@@ -299,7 +299,7 @@ d'imposition, à l'exception des agents publics percevant une rémunération dan
 le cadre de leur formation, en rémunération d'activités exercées pendant leurs
 études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou
 universitaires, dans la limite de trois fois le montant mensuel du salaire
-minimum de croissance (1) ;
+minimum de croissance ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du
 travail.

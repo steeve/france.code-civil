@@ -14,8 +14,13 @@ réalisés dans les secteurs d'activité suivants :
 
 a) Commerce ;
 
-b) La restauration, à l'exception des restaurants de tourisme classés, les
-cafés, débits de tabac et débits de boissons ;
+b) Les cafés, débits de tabac et débits de boisson ainsi que la restauration, à
+l'exception des restaurants dont le dirigeant est titulaire du titre de
+maître-restaurateur mentionné à l'article 244 quater Q et qui ont été contrôlés
+dans le cadre de la délivrance de ce titre ainsi que, le cas échéant, des
+restaurants de tourisme classés à la date de publication de la loi n° 2009-888
+du 22 juillet 2009 de développement et de modernisation des services
+touristiques ;
 
 c) Conseils ou expertise ;
 
@@ -172,7 +177,7 @@ présent alinéa lorsque, en cas de défaillance de l'entreprise locataire, les
 biens ayant ouvert droit à la réduction d'impôt sont donnés en location à une
 nouvelle entreprise qui s'engage à les maintenir dans l'activité pour laquelle
 ils ont été acquis ou créés pendant la fraction du délai de cinq ans restant à
-courir dans les conditions prévues au présent alinéa. L'octroi de la réduction
+courir dans les conditions prévues au présent alinéa.L'octroi de la réduction
 d'impôt prévue au premier alinéa est subordonné au respect par les entreprises
 réalisant l'investissement et, le cas échéant, les entreprises exploitantes de
 leurs obligations fiscales et sociales et de l'obligation de dépôt de leurs
