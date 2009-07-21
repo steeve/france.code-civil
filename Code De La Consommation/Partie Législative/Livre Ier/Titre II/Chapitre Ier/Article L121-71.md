@@ -1,6 +1,5 @@
 Article L121-71
 ----
-Est puni de 30 000 euros d'amende le fait, pour tout professionnel, d'exiger ou
-de recevoir du consommateur, directement ou indirectement, tout versement ou
-engagement de versement, à quelque titre et sous quelque forme que ce soit,
-avant l'expiration du délai de rétractation prévu à l'article L. 121-64.
+Si le consommateur souscrit simultanément un contrat d'utilisation de biens à
+temps partagé et un contrat d'échange, un seul délai de rétractation s'applique
+aux deux contrats.

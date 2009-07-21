@@ -1,9 +1,14 @@
 Article L121-67
 ----
-Lorsqu'il est financé par un crédit porté à la connaissance du professionnel, le
-contrat est formé sous la condition suspensive de l'obtention de ce crédit.
+Les informations visées aux articles L. 121-63 et L. 121-64 font partie
+intégrante du contrat. Le professionnel ne peut modifier tout ou partie des
+informations fournies qu'en cas de force majeure ou d'accord formel intervenu
+entre les parties.
 
-L'exercice par le consommateur de la faculté de rétractation prévue à l'article
-L. 121-64 emporte résiliation de plein droit du contrat de crédit affecté au
-financement du contrat de jouissance d'immeuble à temps partagé, sans frais ni
-indemnité, à l'exception éventuelle des frais tarifés nécessairement engagés.
+Toute modification doit faire l'objet d'une communication au consommateur avant
+la conclusion du contrat, par écrit, sur support papier ou sur tout autre
+support durable et figurer expressément dans ledit contrat.
+
+Avant la signature du contrat, le professionnel attire l'attention du
+consommateur sur l'existence du droit de rétractation et sa durée, ainsi que sur
+l'interdiction d'un paiement d'avances pendant le délai de rétractation.

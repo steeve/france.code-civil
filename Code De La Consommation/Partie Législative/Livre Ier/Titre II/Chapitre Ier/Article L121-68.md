@@ -1,16 +1,23 @@
 Article L121-68
 ----
-Lorsque le consommateur réside en France ou lorsque le bien ou l'un des biens
-est situé sur le territoire français, l'offre est rédigée en langue française.
+Le contrat comprend :
 
-L'offre est en outre rédigée, au choix du consommateur, dans la langue ou l'une
-des langues de l'Etat membre dans lequel il réside ou dont il est ressortissant,
-parmi les langues officielles de la Communauté européenne.
+1° Les informations visées aux articles L. 121-63 et L. 121-64 ;
 
-Lorsqu'en application des alinéas qui précèdent l'offre est rédigée en deux
-langues le consommateur signe, à son choix, l'une ou l'autre version.
+2° Le cas échéant, les modifications intervenues sur ces mêmes informations
+conformément à l'article L. 121-67 ;
 
-Lorsque le bien ou l'un des biens est situé dans un autre Etat membre de la
-Communauté européenne que la France et que le contrat n'est pas rédigé dans la
-langue de cet Etat en application du présent article, une traduction conforme
-dans cette langue est remise au consommateur.
+3° L'indication de l'identité et du lieu de résidence des parties ;
+
+4° La date et le lieu de sa conclusion, ainsi que la signature des parties ;
+
+5° Un formulaire de rétractation distinct du contrat, conforme à un modèle
+déterminé par arrêté conjoint du ministre chargé de la consommation et du
+ministre de la justice.
+
+La ou les pages du contrat relatives à l'existence d'un droit de rétractation et
+à ses modalités d'exercice ainsi qu'à l'interdiction de paiement d'avance
+doivent être signées par le consommateur.
+
+Une ou plusieurs copies de l'ensemble du contrat sont remises au consommateur au
+moment de sa conclusion.

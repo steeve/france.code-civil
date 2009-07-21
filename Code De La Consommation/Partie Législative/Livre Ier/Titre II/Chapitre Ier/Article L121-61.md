@@ -1,57 +1,29 @@
 Article L121-61
 ----
-L'offre de contracter est établie par écrit et indique :
+Les contrats mentionnés au premier alinéa de l'article L. 121-60 sont ainsi
+définis :
 
-1° L'identité et le domicile du professionnel ou, s'il s'agit d'une personne
-morale, sa dénomination, sa forme juridique et son siège ; s'il y a lieu, ceux
-du propriétaire des locaux et de l'intermédiaire, ainsi que le lien juridique
-existant entre eux ;
+1° Le contrat d'utilisation de biens à temps partagé est un contrat d'une durée
+de plus d'un an par lequel un consommateur acquiert, à titre onéreux, la
+jouissance d'un ou plusieurs biens immobiliers ou mobiliers, à usage
+d'habitation, pour des périodes déterminées ou déterminables ;
 
-2° La désignation et le descriptif précis du ou des locaux et de leur
-environnement ou les éléments permettant de les déterminer et, si l'immeuble est
-en construction, les indications essentielles relatives aux délais d'exécution
-des travaux, au raccordement aux divers réseaux, aux garanties d'achèvement ou
-de remboursement en cas de non-achèvement et au permis de construire ;
+2° Le contrat de produit de vacances à long terme est un contrat d'une durée de
+plus d'un an par lequel un consommateur acquiert, à titre onéreux, un droit à
+hébergement pour une période déterminée ou déterminable assorti de réductions ou
+d'autres avantages ou services ;
 
-3° Les indications essentielles relatives à l'administration de l'immeuble ;
+3° Le contrat de revente est un contrat de service par lequel un professionnel,
+à titre onéreux, assiste un consommateur en vue de la vente, de la revente ou de
+l'achat d'un droit d'utilisation de biens à temps partagé ou d'un produit de
+vacances à long terme ;
 
-4° L'objet du contrat, la nature juridique du droit au titre duquel le
-consommateur jouira des locaux, la durée de ce droit, sa date de prise d'effet
-et les principales conditions légales de son exercice avec l'indication
-éventuelle de celles qui restent à remplir ;
+4° Le contrat d'échange est un contrat à titre onéreux par lequel un
+consommateur accède à un système d'échange qui lui permet, en contrepartie de
+son contrat d'utilisation de biens à temps partagé ou de son contrat de produit
+de vacances à long terme, d'accéder à la jouissance d'un autre bien ou à un
+autre hébergement ou à d'autres services.
 
-5° La date limite et les conditions de réalisation de l'acte définitif si
-l'offre tend à la formation d'un avant-contrat ;
-
-6° La durée et la fréquence de la période unitaire de jouissance ;
-
-7° Les dates d'occupation ou, le cas échéant, leurs modalités de fixation ainsi
-que les modalités de détermination des locaux occupés ;
-
-8° Les installations et équipements communs mis à la disposition du consommateur
-et les services fournis, à titre accessoire, ainsi que leur prestataire, les
-conditions d'accès à ces équipements et installations et une estimation du coût
-de cet accès pour le consommateur ;
-
-9° Le prix initial, les frais ainsi que le montant détaillé de toutes les sommes
-dues périodiquement ou leurs éléments de détermination ; le taux d'évolution
-annuel desdites sommes au cours de la période triennale précédant l'offre ou, si
-cette information n'est pas disponible, une mention avertissant du risque
-d'augmentation ; le montant ou les éléments de détermination des impôts, taxes
-et redevances obligatoires, à la date de l'offre ;
-
-10° Le mode de paiement du prix et, le cas échéant, le recours à un crédit
-quelle qu'en soit la forme ;
-
-11° L'affiliation ou la non-affiliation du professionnel à une bourse d'échanges
-et la possibilité offerte au consommateur d'y adhérer, ainsi que les conditions,
-en particulier financières, et effets essentiels de cette affiliation et de
-cette adhésion ;
-
-12° La mention du caractère limitatif de l'énumération des frais, charges ou
-obligations de nature contractuelle.
-
-L'offre est signée par le professionnel. Elle indique sa date et son lieu
-d'émission.
-
-Les mentions devant figurer dans l'offre sont précisées par un arrêté.
+Pour les contrats visés aux 1° et 2°, la détermination de la durée minimale
+tient compte de toute clause contractuelle de reconduction ou de prorogation
+tacite les portant à une durée supérieure à un an.
