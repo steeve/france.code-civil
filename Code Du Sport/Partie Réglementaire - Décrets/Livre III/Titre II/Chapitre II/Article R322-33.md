@@ -1,14 +1,16 @@
 Article R322-33
 ----
-Pour les équipements de protection individuelle destinés à protéger contre des
-dangers mortels, dont la liste est précisée au 3 de l'annexe III-3, le
-fabricant, son mandataire établi sur le territoire de l'un des Etats membres de
-l'Union européenne ou, à défaut, tout responsable de la première mise sur le
-marché tient à la disposition des agents chargés du contrôle :
+Les EPI-SL de catégorie 2 relèvent de la procédure de l'examen CE de type
+définie à l'article R. 322-35.
 
--les documents mentionnés à l'article R. 322-32 ;
+Pour ces équipements, le fabricant, son mandataire établi sur le territoire de
+l'un des Etats membres de la Communauté européenne ou, à défaut, tout
+responsable de la mise sur le marché tient à la disposition des agents chargés
+du contrôle mentionnés à l'article L. 215-1 du code de la consommation :
 
--le rapport de l'organisme chargé soit du contrôle du " système de garantie de
-qualité " CE " " défini à l'article R. 322-36, soit du contrôle du " système
-d'assurance qualité " CE " de la production avec surveillance " défini à
-l'article R. 322-37.
+1° La déclaration de conformité " CE " définie à l'annexe III-7 ;
+
+2° La documentation technique visée à l'annexe III-8 ;
+
+3° L'attestation d'examen " CE " de type effectué conformément aux dispositions
+de l'article R. 322-35.

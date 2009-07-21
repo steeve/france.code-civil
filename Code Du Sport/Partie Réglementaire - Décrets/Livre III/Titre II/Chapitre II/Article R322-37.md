@@ -1,17 +1,11 @@
 Article R322-37
 ----
-Le " système d'assurance qualité "CE" de la production avec surveillance " est
-la procédure par laquelle un fabricant fait approuver un système d'assurance
-qualité par un organisme habilité et confie à cet organisme le soin de
-contrôler, par surveillance, qu'il remplit correctement les obligations qui
-résultent du système d'assurance qualité approuvé.
+Le responsable de la location ou de la mise à disposition réitérée d'un EPI-SL
+d'occasion s'assure que cet EPI-SL répond aux conditions précisées par le
+fabricant dans la notice visée au point 1. 4 de l'annexe III-5 de la partie
+réglementaire du code du sport.
 
-L'organisme habilité évalue le système d'assurance qualité pour déterminer si ce
-système est de nature à assurer la conformité de la production avec les
-exigences de santé et de sécurité.
-
-L'organisme habilité procède à cette fin à toutes les évaluations nécessaires
-des éléments du système d'assurance qualité. Il s'assure notamment que le
-système garantit la conformité de chaque exemplaire d'équipement de protection
-individuelle avec le modèle ayant fait l'objet d'une attestation d'examen " CE "
-de type.
+Un arrêté des ministres chargés respectivement de l'industrie et du travail
+précise les éléments dont ce responsable dispose afin d'établir le maintien de
+l'EPI-SL en conformité. Ce responsable communique lesdits éléments, à leur
+demande, à l'utilisateur de l'EPI-SL ou aux agents chargés du contrôle.
