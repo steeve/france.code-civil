@@ -1,5 +1,4 @@
 Article L311-9
 ----
-Les infractions aux dispositions applicables en matière de classement et de prix
-des hôtels sont punies d'une amende de 15 000 euros. Les articles L. 470-1 à L.
-470-4 du code de commerce s'appliquent.
+Les règles relatives au vol d'objets dans les hôtels ou auberges sont fixées par
+les articles 1952 à 1954 du code civil.

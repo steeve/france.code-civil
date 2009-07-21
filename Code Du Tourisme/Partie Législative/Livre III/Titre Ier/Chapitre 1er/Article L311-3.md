@@ -1,9 +1,7 @@
 Article L311-3
 ----
-Le locataire doit, avant de procéder aux travaux, notifier son intention à son
-propriétaire par lettre recommandée avec demande d'avis de réception. Un plan
-d'exécution et un devis descriptif et estimatif des travaux projetés sont joints
-à cette notification. Dans le cas prévu au deuxième alinéa de l'article L.
-311-2, le propriétaire dispose d'un délai de deux mois pour informer dans la
-même forme le locataire de son acceptation ou de son refus. Le défaut de réponse
-est réputé valoir accord.
+Pendant la durée du bail en cours et celle du bail renouvelé qui lui fait suite
+et pour une durée de douze années à compter de l'expiration du délai d'exécution
+mentionné à l'article L. 311-2, le propriétaire ne peut prétendre à aucune
+majoration de loyer du fait de l'incorporation à l'immeuble des améliorations
+résultant de l'exécution des travaux mentionnés à l'article L. 311-1.

@@ -1,23 +1,34 @@
 Article L311-1
 ----
-Les règles relatives aux constructions nouvelles, aux extensions ou aux
-transformations d'immeubles existants entraînant la constitution
-d'établissements hôteliers d'une capacité supérieure à trente chambres hors de
-la région d'Ile-de-France et à cinquante chambres dans cette dernière sont
-fixées au 7° de l'article L. 720-5 du code de commerce ci-après reproduit :
+Le propriétaire d'un immeuble dans lequel est exploité un hôtel ne peut
+s'opposer, nonobstant toute stipulation contraire, à l'exécution des travaux
+d'équipement et d'amélioration que le locataire, propriétaire du fonds de
+commerce, réalise à ses frais et sous sa responsabilité lorsque ces travaux
+concernent :
 
-" Art.L. 720-5 du code de commerce.
+1° La distribution de l'eau, du gaz et de l'électricité ;
 
-Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour
-objet :
+2° L'installation du téléphone, d'appareils récepteurs de radiodiffusion et de
+télévision ;
 
-Les constructions nouvelles, les extensions ou les transformations d'immeubles
-existants entraînant la constitution d'établissements hôteliers d'une capacité
-supérieure à trente chambres hors de la région d'Ile-de-France et à cinquante
-chambres dans cette dernière.
+3° L'équipement sanitaire ;
 
-Lorsqu'elle statue sur ces demandes, la commission départementale d'aménagement
-commercial recueille l'avis préalable de la commission départementale d'action
-touristique, présenté par le délégué régional au tourisme, qui assiste à la
-séance. Outre les critères prévus à l'article L. 720-3, elle statue en prenant
-en considération la densité d'équipements hôteliers dans la zone concernée. "
+4° Le déversement à l'égout ;
+
+5° L'installation du chauffage central ou de distribution d'air chaud ou
+climatisé ;
+
+6° L'installation d'ascenseurs, monte-charges et monte-plats ;
+
+7° L'aménagement des cuisines et offices ;
+
+8° La construction de piscines,
+
+même si ces travaux doivent entraîner une modification dans la distribution des
+lieux.
+
+Dans le cas où ceux-ci affectent le gros oeuvre de l'immeuble, ils ne peuvent
+être entrepris, à défaut d'accord du propriétaire, qu'après avis favorable de
+commissions dont la composition et le fonctionnement seront fixés par décret
+pris sur avis du Conseil d'Etat et dans lesquelles seront représentés en nombre
+égal les hôteliers et les propriétaires d'immeubles.

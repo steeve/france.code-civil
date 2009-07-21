@@ -1,4 +1,5 @@
 Article L311-7
 ----
-L'Etat détermine et met en oeuvre les procédures de classement des hôtels, selon
-des modalités fixées par décret.
+Les infractions aux dispositions applicables en matière de classement et de prix
+des hôtels sont constatées et poursuivies dans les conditions fixées par les
+articles L. 450-1 à L. 450-3 du code de commerce.
