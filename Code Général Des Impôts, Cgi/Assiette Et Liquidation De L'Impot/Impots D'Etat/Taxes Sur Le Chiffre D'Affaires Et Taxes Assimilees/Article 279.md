@@ -8,13 +8,13 @@ a. Les prestations relatives :
 - à la fourniture de logement et aux trois quarts du prix de pension ou de
 demi-pension dans les établissements d'hébergement autres que les hôtels de
 tourisme de catégorie 4 étoiles et 4 étoiles luxe et les relais de tourisme de
-catégorie 4 étoiles (1) (2) ; dans les mêmes conditions que pour les
-établissements d'hébergement (3) ;
+catégorie 4 étoiles (1); dans les mêmes conditions que pour les établissements
+d'hébergement (2) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
-d'entreprises et répondant aux conditions qui sont fixées par décret (4) ;
+d'entreprises et répondant aux conditions qui sont fixées par décret (3) ;
 
 a ter. Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
@@ -47,12 +47,32 @@ b quater. Les transports de voyageurs ;
 b quinquies. Les locations et cessions de droits portant sur les films ainsi que
 les droits d'entrée pour les séances cinématographiques (4). Cette disposition
 n'est pas applicable aux films pornographiques ou d'incitation à la violence
-mentionnés à l'article 281 bis A ;
+mentionnés à l'article 281 bis A-I ;
+
+b sexies Une partie du prix des billets d'entrée donnant exclusivement accès à
+des concerts donnés dans des établissements agréés où il est servi des
+consommations pendant le spectacle (4).
+
+La partie du prix d'entrée taxée au taux réduit est déterminée, dans chaque
+établissement, en appliquant à ce prix un pourcentage égal au rapport existant,
+l'année précédente, entre les rémunérations versées aux musiciens pour les
+prestations rendues dans cet établissement, augmentées, s'il y a lieu, des
+charges sociales, le tout majoré de 10 %, et les charges qui doivent figurer
+dans le compte d'exploitation générale de ce même établissement pour l'ensemble
+des services rendus.
+
+L'agérment est prononcé conjointement par le ministre de la culture et le
+ministre de l'économie, des finances et du budget après avis d'une commission
+dont la composition et le fonctionnement sont prévus par arrêté de ces mêmes
+ministres.
+
+Un décret en Conseil d'Etat fixe les conditions de l'agrément et les modalités
+d'application du présent article (5).
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
 
-1° à 12° (Devenus sans objet) (5) ;
+1° à 12° (Devenus sans objet) ;
 
 13° Aliments simples ou composés utilisés pour la nourriture du bétail, des
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
@@ -87,16 +107,15 @@ par le ministre de l'agriculture.
 e. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon portant sur les livres.
 
-(1) Du 1er janvier 1978 au 30 septembre 1981 le taux réduit s'appliquait à tous
-les établissements d'hébergement.
-
-(2) Cf. décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des
+(1) Cf. décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des
 hôtels et restaurants.
 
-(3) Annexe IV, art. 30.
+(2) Annexe IV, art. 30.
 
-(4) Annexe III, art. 85 bis.
+(3) Annexe III, art. 85 bis.
 
-(5) A compter du 1er juillet 1982.
+(4) Disposition applicable à compter du 1er juillet 1984.
+
+(5) Décret à émettre.
 
 (6) Annexe IV, art. 31.
