@@ -7,95 +7,128 @@ NIVEAUX DE PRATIQUE DES PLONGEURS ET ÉQUIVALENCES DE PRÉROGATIVES
 Cette annexe concerne les niveaux de pratique des plongeurs et équivalences de
 prérogatives entre les différents brevets de plongeur délivrés par la FFESSM
 (Fédération française d'études et de sports sous-marins) et la FSGT (Fédération
-sportive et gymnique du travail), les attestations de niveaux délivrés par les
-autres organismes membres de droit du comité consultatif de l'enseignement
-sportif de la plongée subaquatique et les brevets CMAS (Confédération mondiale
-des activités subaquatiques). Les attestations de niveaux et brevets doivent
-justifier que leurs titulaires ont démontré un niveau technique au moins
-équivalent à celui des brevets de même niveau de la FFESSM et organisés dans des
-conditions similaires de certification et de jury. Les moniteurs titulaires du
-niveau 3 d'encadrement, adhérents d'un des organismes membre de droit du comité
-consultatif, peuvent établir un certificat de compétence à l'issue d'une ou de
-plusieurs plongées d'évaluation organisées dans le respect du présent code. Les
-plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques
-à celles référencées dans le tableau figurant à la présente annexe, mais ne
-dépassant pas celles du niveau 3 (P 3).
+sportive et gymnique du travail), les attestations de niveaux délivrés par
+l'ANMP (Association nationale des moniteurs de plongée) et le SNMP (Syndicat
+national des moniteurs de plongée) et les brevets CMAS (Confédération mondiale
+des activités subaquatiques).
+
+Les attestations de niveaux et brevets doivent comporter des mentions permettant
+de démontrer que leurs titulaires ont un niveau technique au moins équivalent à
+celui des brevets de même niveau de la FFESSM (Fédération française d'études et
+de sports sous-marins) et qu'ils ont été obtenus dans des conditions similaires
+de certification et de jury.
+
+Les moniteurs titulaires du niveau 3 d'encadrement référencé au tableau figurant
+à l'annexe III-15 du code du sport peuvent établir un certificat de compétence à
+l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect
+du présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des
+prérogatives identiques à celles référencées dans le tableau figurant à la
+présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
 
 Ce certificat reste la propriété du moniteur, il n'est pas remis au plongeur et
 n'est valable que dans le cadre de l'établissement qui l'a délivré.
 
-NIVEAU de prérogative des plongeurs
+NIVEAU de prérogative
+
+des plongeurs
 
 
 BREVETS
 
 ATTESTATION DE NIVEAU
 
-FFESSM (Fédération française d'études et de sports sous-marins)
 
-CMAS (Confédération mondiale des activités subaquatiques)
+FFESSM
 
-FSGT (Fédération sportive et gymnique du travail)
+(Fédération française d'études et de sports sous-marins)
 
-ANMP (Association nationale des moniteurs de plongée)
+CMAS (Confédération mondiale des activités
 
-SNMP (Syndicat national des moniteurs de plongée)
+subaquatiques)
 
-Niveau 1 (P 1).
+FSGT (Fédération sportive
 
-Plongeur N 1.
+et gymnique du travail)
 
-Plongeur 1 étoile.
+ANMP (Association nationale
 
-Plongeur N 1.
+des moniteurs
 
-Plongeur.
+de plongée)
 
-Plongeur.
+SNMP (Syndicat national
 
-Niveau 2 (P 2).
+des moniteurs
 
-Plongeur N 2.
+de plongée)
 
-Plongeur 2 étoiles.
+Niveau 1 (P 1)
 
-Plongeur N 2.
 
-Equipier.
+Plongeur N1
 
-Plongeur confirmé.
+Plongeur 1 étoile
 
-Niveau 3 (P 3).
 
-Plongeur N 3.
+Plongeur N1
 
-Plongeur 3 étoiles.
+Plongeur
 
-Plongeur N 3.
 
-Autonome.
+Plongeur
 
-Plongeur autonome.
+Niveau 2 (P 2)
 
-Niveau 4 (P 4).
 
-Plongeur N 4 capacitaire.
+Plongeur N2
 
-Plongeur 3 étoiles (*).
+Plongeur 2 étoiles
 
-Guide de palanquée.
 
-Guide de palanquée.
+Plongeur N2
 
-Guide de palanquée.
+Equipier
 
-Niveau 5 (P 5).
 
-Qualification de directeur de plongée (**).
+Plongeur confirmé
 
-Qualification de directeur de plongée (**).
+Niveau 3 (P 3)
 
-Directeur de plongée (**).
 
-(*) Certifié à l'étranger. (**) La qualification directeur de plongée (niveau 5)
+Plongeur N3
+
+Plongeur 3 étoiles
+
+
+Plongeur N3
+
+Autonome
+
+
+Plongeur autonome
+
+Niveau 4 (P 4)
+
+
+Plongeur N4 capacitaire
+
+Plongeur 3 étoiles (*)
+
+
+Guide de palanquée
+
+Guide de palanquée
+
+
+Guide de palanquée
+
+Niveau 5 (P 5)
+
+Qualification de directeur de plongée (**)
+
+Qualification de directeur de plongée (**)
+
+Directeur de plongée (**)
+
+(*) Certifié à l'étranger. (**) La qualification Directeur de plongée (niveau 5)
 ne pourra être exercée qu'à titre bénévole.
