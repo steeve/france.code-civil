@@ -49,3 +49,20 @@ d'assurance maladie.
 IV.-Les tarifs de responsabilité afférents aux activités de médecine, chirurgie,
 obstétrique et odontologie exercées par les établissements de santé privés
 mentionnés au e de l'article L. 162-22-6 sont fixés par l'Etat.
+
+V. ― Le Gouvernement présente avant le 15 octobre de chaque année au Parlement
+un rapport sur la tarification à l'activité des établissements de santé et ses
+conséquences sur l'activité et l'équilibre financier des établissements publics
+et privés. Le rapport précise notamment les dispositions prises :
+
+― pour prendre en compte les spécificités des actes réalisés dans les
+établissements publics de santé et mesurer l'impact sur leurs coûts de leurs
+missions de service public ;
+
+― pour mesurer et prévenir les conséquences de la tarification à l'activité sur
+le nombre des actes, la qualité des soins, les activités de santé publique et la
+prise en charge des pathologies chroniques ;
+
+― pour tenir compte du cas particulier des établissements situés dans les zones
+de faible densité démographique, zones de revitalisation rurale ou zones de
+montagne.

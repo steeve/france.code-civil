@@ -4,6 +4,9 @@ Le renouvellement de l'autorisation est subordonné au respect des conditions
 prévues à l'article L. 6122-2 et L. 6122-5 et aux résultats de l'évaluation
 appréciés selon des modalités arrêtées par le ministre chargé de la santé.
 
+Il peut également être subordonné aux conditions mentionnées au deuxième alinéa
+de l'article L. 6122-7.
+
 Le titulaire de l'autorisation adresse les résultats de l'évaluation à l'agence
 régionale de l'hospitalisation au plus tard quatorze mois avant l'échéance de
 l'autorisation.

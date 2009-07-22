@@ -1,34 +1,42 @@
 Article L6112-1
 ----
-Le service public hospitalier exerce les missions définies à l'article L. 6111-1
-et, de plus, concourt :
+Les établissements de santé peuvent être appelés à assurer, en tout ou partie,
+une ou plusieurs des missions de service public suivantes :
 
-1° A l'enseignement universitaire et postuniversitaire et à la recherche de type
-médical, odontologique et pharmaceutique ;
+1° La permanence des soins ;
 
-2° A la formation continue des praticiens hospitaliers et non hospitaliers ;
+2° La prise en charge des soins palliatifs ;
 
-3° A la recherche médicale, odontologique et pharmaceutique ;
+3° L'enseignement universitaire et post-universitaire ;
 
-4° A la formation initiale et continue des sages-femmes et du personnel
-paramédical et à la recherche dans leurs domaines de compétence ;
+4° La recherche ;
 
-5° Aux actions de médecine préventive et d'éducation pour la santé et à leur
-coordination ;
+5° Le développement professionnel continu des praticiens hospitaliers et non
+hospitaliers ;
 
-6° Conjointement avec les praticiens et les autres professionnels de santé,
-personnes et services concernés, à l'aide médicale urgente ;
+6° La formation initiale et le développement professionnel continu des
+sages-femmes et du personnel paramédical et la recherche dans leurs domaines de
+compétence ;
 
-7° A la lutte contre l'exclusion sociale, en relation avec les autres
-professions et institutions compétentes en ce domaine, ainsi que les
-associations qui oeuvrent dans le domaine de l'insertion et de la lutte contre
-l'exclusion, dans une dynamique de réseaux.
+7° Les actions d'éducation et de prévention pour la santé et leur coordination ;
 
-Le service public hospitalier assure, dans des conditions fixées par voie
-réglementaire, les examens de diagnostic et les soins dispensés aux détenus en
-milieu pénitentiaire et, si nécessaire, en milieu hospitalier ainsi qu'aux
-personnes retenues en application de l'article 35 bis de l'ordonnance n° 45-2658
-du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers
-en France et aux personnes retenues dans les centres socio-médico-judiciaires de
-sûreté. Il concourt, dans les mêmes conditions, aux actions de prévention et
-d'éducation pour la santé organisées dans les établissements pénitentiaires.
+8° L'aide médicale urgente, conjointement avec les praticiens et les autres
+professionnels de santé, personnes et services concernés ;
+
+9° La lutte contre l'exclusion sociale, en relation avec les autres professions
+et institutions compétentes en ce domaine, ainsi que les associations qui
+œuvrent dans le domaine de l'insertion et de la lutte contre l'exclusion et la
+discrimination ;
+
+10° Les actions de santé publique ;
+
+11° La prise en charge des personnes hospitalisées sans leur consentement ;
+
+12° Les soins dispensés aux détenus en milieu pénitentiaire et, si nécessaire,
+en milieu hospitalier, dans des conditions définies par décret ;
+
+13° Les soins dispensés aux personnes retenues en application de l'article L.
+551-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+
+14° Les soins dispensés aux personnes retenues dans les centres
+socio-médico-judiciaires de sûreté.

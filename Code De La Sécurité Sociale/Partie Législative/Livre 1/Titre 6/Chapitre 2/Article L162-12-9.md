@@ -15,8 +15,8 @@ masseur-kinésithérapeute conventionné et les actes effectués par les
 masseurs-kinésithérapeutes conventionnés dans les établissements et structures
 d'hébergement de toute nature ;
 
-2° Les conditions d'organisation de la formation continue conventionnelle des
-masseurs-kinésithérapeutes ainsi que le financement de cette formation ;
+2° Le montant de la contribution annuelle des caisses nationales d'assurance
+maladie au développement professionnel continu ;
 
 3° Les conditions à remplir par les masseurs-kinésithérapeutes pour être
 conventionnés et notamment celles relatives aux modalités de leur exercice
