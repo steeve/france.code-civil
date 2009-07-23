@@ -1,15 +1,15 @@
 Article L541-40
 ----
-Pour prévenir les nuisances mentionnées au premier alinéa de l'article L. 541-2,
-l'importation, l'exportation et le transit de certaines catégories de déchets
-peuvent être interdits, réglementés ou subordonnés à l'accord préalable des
-Etats intéressés.
+I. - L'importation, l'exportation et le transit de déchets sont soumis aux
+dispositions du règlement (CE) n° 1013 / 2006 du Parlement européen et du
+Conseil du 14 juin 2006 concernant les transferts de déchets.
 
-Avant toute opération d'importation, d'exportation ou de transit de déchets, le
-détenteur des déchets informe les autorités compétentes des Etats intéressés.
+II. - En cas d'exportation de déchets soumise à notification, le notifiant est
+établi en France. Il en va de même pour la personne, visée au 1 de l'article 18
+du règlement mentionné ci-dessus, qui organise un transfert de déchets dispensé
+de notification en application du 2 et du 4 de l'article 3 du même règlement.
 
-L'importation, l'exportation et le transit des déchets sont interdits lorsque le
-détenteur n'est pas en mesure de faire la preuve d'un accord le liant au
-destinataire des déchets ou que celui-ci ne possède pas la capacité et les
-compétences pour assurer l'élimination de ces déchets dans des conditions qui ne
-présentent de danger ni pour la santé humaine ni pour l'environnement.
+La notification couvre le transfert des déchets depuis un lieu d'expédition
+unique.
+
+Le notifiant est défini à l'article 2. 15 du règlement mentionné ci-dessus.

@@ -38,9 +38,44 @@ procédés de traitement mis en oeuvre fixées en application des articles L.
 10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des
 fonctions des agents prévus à l'article L. 541-44 ;
 
-11° Exporter ou faire exporter, importer ou faire importer, faire transiter des
-déchets visés au premier alinéa de l'article L. 541-40 sans satisfaire aux
-prescriptions prises en vertu de cet article ou de ses textes d'application ;
+11° a) De procéder ou faire procéder à un transfert de déchets sans avoir
+notifié ce transfert aux autorités compétentes françaises ou étrangères ou sans
+avoir obtenu le consentement préalable desdites autorités alors que cette
+notification et ce consentement sont requis ;
+
+b) De procéder ou faire procéder à un transfert de déchets alors que le
+consentement des autorités compétentes concernées a été obtenu par fraude ;
+
+c) De procéder ou faire procéder à un transfert de déchets alors que le
+transfert n'est pas accompagné du document de mouvement prévu par l'article 4 du
+règlement (CE) n° 1013 / 2006 du Parlement européen et du Conseil du 14 juin
+2006 concernant les transferts de déchets ;
+
+d) De procéder ou faire procéder à un transfert de déchets pour lequel le
+producteur, le destinataire ou l'installation de destination des déchets ne sont
+pas ceux mentionnés dans les documents de notification ou de mouvement prévus
+par l'article 4 du règlement mentionné ci-dessus ;
+
+e) De procéder ou faire procéder à un transfert de déchets d'une nature
+différente de celle indiquée dans les documents de notification ou de mouvement
+prévus par l'article 4 du règlement mentionné ci-dessus, ou portant sur une
+quantité de déchets significativement supérieure ;
+
+f) De procéder ou faire procéder à un transfert de déchets dont la valorisation
+ou l'élimination est réalisée en méconnaissance de la réglementation
+communautaire ou internationale ;
+
+g) D'exporter des déchets en méconnaissance des dispositions des articles 34,
+36, 39 et 40 du règlement mentionné ci-dessus ;
+
+h) D'importer des déchets en méconnaissance des dispositions des articles 41 et
+43 du règlement mentionné ci-dessus ;
+
+i) De procéder à un mélange de déchets au cours du transfert en méconnaissance
+de l'article 19 du règlement mentionné ci-dessus ;
+
+j) De ne pas déférer à une mise en demeure prise sur le fondement de l'article
+L. 541-42 ;
 
 12° Méconnaître les obligations d'information prévues à l'article L. 325-3 du
 code des ports maritimes ;
@@ -65,6 +100,13 @@ et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus,
 ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq
 ans.
 
-V.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle
+V.-En cas de condamnation prononcée pour les infractions mentionnées au 11° du
+I, le tribunal peut, en outre, ordonner l'interdiction, suivant les modalités
+prévues par l'article 131-27 du code pénal, d'intervenir dans un transfert
+transfrontalier de déchets à titre de notifiant ou de personne responsable d'un
+transfert au sens du règlement (CE) n° 1013 / 2006 du Parlement européen et du
+Conseil du 14 juin 2006 concernant les transferts de déchets.
+
+VI.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle
 de la décision prononcée dans les conditions prévues par l'article 131-35 du
 code pénal.
