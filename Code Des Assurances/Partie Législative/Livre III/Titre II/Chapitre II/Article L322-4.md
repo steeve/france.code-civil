@@ -1,17 +1,25 @@
 Article L322-4
 ----
-Les prises, extensions ou cessions de participations directes ou indirectes dans
-les entreprises mentionnées au 1° de l'article L. 310-2 et au 1° du III de
-l'article L. 310-1-1 peuvent être soumises à un régime de déclaration ou
-d'autorisation préalable, dans des conditions définies par décret en Conseil
-d'Etat. Ce régime vise à préserver les intérêts des assurés ou des entreprises
-réassurées et à s'assurer que l'entreprise dispose d'une gestion saine et
-prudente. Ces dispositions s'appliquent également aux prises, extensions ou
-cessions de participations dans des sociétés de groupe d'assurance dont le siège
-social est situé en France ainsi que dans des compagnies financières holdings
-mixtes dont le siège social est situé en France et appartenant à un conglomérat
-financier dont la surveillance est coordonnée par l'Autorité de contrôle dans
-les conditions prévues à l'article L. 334-9.
+Les modifications dans la répartition du capital des entreprises mentionnées au
+1° de l'article L. 310-2 et au 1° du III de l'article L. 310-1-1 doivent être
+notifiées au comité des entreprises d'assurance. Les prises ou extensions de
+participations, directes ou indirectes, dans ces entreprises doivent être
+autorisées par le comité des entreprises d'assurance. Lorsqu'une diminution ou
+cession de participation, directe ou indirecte, lui est notifiée, le comité des
+entreprises d'assurance vérifie que cette opération ne remet pas en cause les
+conditions auxquelles est subordonné l'agrément délivré à l'entreprise
+concernée. Un décret en Conseil d'Etat détermine les conditions d'application du
+présent alinéa et notamment les seuils de notification des opérations envisagées
+ainsi que les critères d'appréciation, par le comité des entreprises
+d'assurance, des opérations mentionnées à la deuxième phrase. Ce régime vise à
+préserver les intérêts des assurés ou des entreprises réassurées et à s'assurer
+que l'entreprise dispose d'une gestion saine et prudente. Ces dispositions
+s'appliquent également aux prises, extensions ou cessions de participations dans
+des sociétés de groupe d'assurance dont le siège social est situé en France
+ainsi que dans des compagnies financières holdings mixtes dont le siège social
+est situé en France et appartenant à un conglomérat financier dont la
+surveillance est coordonnée par l'Autorité de contrôle dans les conditions
+prévues à l'article L. 334-9.
 
 L'autorisation donnée à des opérations mentionnées au premier alinéa peut être
 subordonnée au respect d'engagements souscrits par une ou plusieurs des
@@ -25,21 +33,3 @@ assurances et des mutuelles ou de tout actionnaire, le juge suspend, jusqu'à
 régularisation de la situation, l'exercice des droits de vote attachés aux
 actions ou parts sociales des entreprises visées au premier alinéa du présent
 article détenues irrégulièrement, directement ou indirectement.
-
-Toute personne envisageant de déposer un projet d'offre publique à l'Autorité
-des marchés financiers en application du chapitre III du titre III du livre IV
-du code monétaire et financier, en vue d'acquérir une quantité déterminée de
-titres d'une entreprise d'assurance agréée en France, est tenue d'en informer le
-Comité des entreprises d'assurance deux jours ouvrés avant le dépôt de ce projet
-d'offre ou son annonce publique si elle est antérieure.
-
-Dans le cadre d'une opération de concentration concernant, directement ou non,
-une entreprise visée aux articles L. 310-1 ou L. 310-1-1, le Comité des
-entreprises d'assurance peut, s'il l'estime nécessaire à sa complète
-information, rendre sa décision sur le fondement du présent article après la
-décision rendue par l'Autorité de la concurrence en application des articles L.
-430-1 et suivants du titre III du livre IV du code de commerce ou, le cas
-échéant, par le ministre chargé de l'économie en application du II de l'article
-L. 430-7-1 du même code ou celle rendue par la Commission européenne en
-application du règlement (CE) n° 139 / 2004 du Conseil, du 20 janvier 2004,
-relatif au contrôle des concentrations entre entreprises.

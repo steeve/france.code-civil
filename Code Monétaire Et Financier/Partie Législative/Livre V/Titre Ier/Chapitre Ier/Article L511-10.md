@@ -45,11 +45,3 @@ ces personnes.
 Le comité peut, en outre, refuser l'agrément si les personnes mentionnées à
 l'article L. 511-13 ne possèdent pas l'honorabilité et la compétence nécessaires
 ainsi que l'expérience adéquate à leur fonction.
-
-Toute personne physique ou morale envisageant de déposer un projet d'offre
-publique à l'Autorité des marchés financiers en application du chapitre III du
-titre III du livre IV du présent code, en vue d'acquérir une quantité déterminée
-de titres d'un établissement de crédit agréé en France, est tenue d'en informer
-le gouverneur de la Banque de France, président du Comité des établissements de
-crédit et des entreprises d'investissement, huit jours ouvrés avant le dépôt de
-ce projet d'offre ou son annonce publique si elle est antérieure.
