@@ -38,8 +38,7 @@ au développement de l'apprentissage mentionnée à l'article 1599 quinquies A.
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.
 
-VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1, 5 % sur le montant de la taxe mentionnée à l'article 1609 sexdecies.
+VII. (Abrogé)
 
 VIII.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 de 2, 5 % sur le montant des taxes mentionnées aux articles 1609 sexvicies et

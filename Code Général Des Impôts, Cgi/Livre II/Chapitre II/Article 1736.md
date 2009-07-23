@@ -45,9 +45,7 @@ infractions commises sur la base des informations fournies à l'établissement
 payeur dans les conditions prévues au huitième alinéa du 1 de l'article 242 ter
 et à l'article 242 ter B.
 
-II. - Entraîne l'application d'une amende égale à 10 % des sommes non déclarées
-le non-respect des obligations prévues par l'article L. 102 AA du livre des
-procédures fiscales.
+II (Abrogé).
 
 III. - Entraîne l'application d'une amende égale à 5 % des sommes non déclarées
 le non-respect des obligations prévues par les articles 87, 87 A, 88 et 241.
