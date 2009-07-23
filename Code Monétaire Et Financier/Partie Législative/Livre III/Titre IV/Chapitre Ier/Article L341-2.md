@@ -11,8 +11,9 @@ supérieurs à un seuil fixé par décret ;
 L. 341-3, sauf lorsque ces personnes sont contractuellement liées, en vue de la
 commercialisation d'instruments financiers et de produits d'épargne, aux
 sociétés exploitant des magasins de grande surface visés par l'article L. 752-1
-du code de commerce et l'article 30-2 du code de l'industrie cinématographique,
-et que leurs locaux sont implantés dans les locaux de ces magasins ;
+du code de commerce et aux articles L. 212-7 et L. 212-8 du code du cinéma et de
+l'image animée, et que leurs locaux sont implantés dans les locaux de ces
+magasins ;
 
 3° Aux démarches dans les locaux professionnels d'une personne morale à la
 demande de cette dernière ;

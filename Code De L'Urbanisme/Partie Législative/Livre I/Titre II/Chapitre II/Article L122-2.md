@@ -12,8 +12,8 @@ Dans les communes mentionnées au premier alinéa et à l'intérieur des zones �
 urbaniser ouvertes à l'urbanisation après l'entrée en vigueur de la loi n°
 2003-590 du 2 juillet 2003 urbanisme et habitat, il ne peut être délivré
 d'autorisation d'exploitation commerciale en application de l'article L. 752-1
-du code de commerce ou l'autorisation prévue à l'article 30-2 du code de
-l'industrie cinématographique.
+du code de commerce ou l'autorisation prévue aux articles L. 212-7 et L. 212-8
+du code du cinéma et de l'image animée.
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec
 l'accord du préfet donné après avis de la commission départementale compétente

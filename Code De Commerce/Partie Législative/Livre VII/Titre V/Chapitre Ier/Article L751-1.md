@@ -6,5 +6,5 @@ d'autorisation qui lui sont présentées en vertu des dispositions des articles 
 
 Cette commission est également compétente, dans la composition spéciale précisée
 au IV de l'article L. 751-2, pour statuer sur les projets d'aménagement
-cinématographique qui lui sont présentés en vertu de l'article 30-2 du code de
-l'industrie cinématographique.
+cinématographique qui lui sont présentés en vertu des articles L. 212-7 et L.
+212-8 du code du cinéma et de l'image animée.

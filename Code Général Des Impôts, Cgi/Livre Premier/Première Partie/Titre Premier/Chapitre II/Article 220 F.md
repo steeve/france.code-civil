@@ -13,21 +13,22 @@ et financier.
 La part du crédit d'impôt obtenu au titre des dépenses mentionnées au 1 du III
 de l'article 220 sexies fait l'objet d'un reversement en cas de non-délivrance
 de l'agrément à titre provisoire dans les six mois qui suivent la réception de
-la demande par le directeur du Centre national de la cinématographie.
+la demande par le président du Centre national du cinéma et de l'image animée.
 
 La part du crédit d'impôt obtenu au titre des dépenses précitées n'ayant pas
 reçu, dans un délai maximum de huit mois à compter de la délivrance du visa
-d'exploitation pour les oeuvres cinématographiques ou de la date de leur
-achèvement définie par décret pour les oeuvres audiovisuelles, l'agrément à
-titre définitif du directeur général du Centre national de la cinématographie
-attestant que l'oeuvre cinématographique ou audiovisuelle a rempli les
-conditions visées au II de l'article 220 sexies fait l'objet également d'un
-reversement. Cet agrément est délivré dans des conditions fixées par décret.
+d'exploitation cinématographique pour les oeuvres cinématographiques ou de la
+date de leur achèvement définie par décret pour les oeuvres audiovisuelles,
+l'agrément à titre définitif du président du Centre national du cinéma et de
+l'image animée attestant que l'oeuvre cinématographique ou audiovisuelle a
+rempli les conditions visées au II de l'article 220 sexies fait l'objet
+également d'un reversement. Cet agrément est délivré dans des conditions fixées
+par décret.
 
 Il en est de même de la part du crédit d'impôt obtenu au titre de dépenses
 relatives à des oeuvres cinématographiques n'ayant pas reçu de visa
-d'exploitation dans les deux ans qui suivent la clôture du dernier exercice au
-titre duquel le crédit d'impôt a été obtenu ou de la part du crédit d'impôt
-accordé au titre de dépenses relatives à des oeuvres audiovisuelles n'ayant pas
-été achevées dans les deux ans qui suivent la clôture du dernier exercice au
-titre duquel le crédit d'impôt a été obtenu.
+d'exploitation cinématographique dans les deux ans qui suivent la clôture du
+dernier exercice au titre duquel le crédit d'impôt a été obtenu ou de la part du
+crédit d'impôt accordé au titre de dépenses relatives à des oeuvres
+audiovisuelles n'ayant pas été achevées dans les deux ans qui suivent la clôture
+du dernier exercice au titre duquel le crédit d'impôt a été obtenu.

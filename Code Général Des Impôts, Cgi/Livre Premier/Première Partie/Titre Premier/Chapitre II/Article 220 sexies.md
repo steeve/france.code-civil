@@ -85,13 +85,12 @@ plafonnée à 80 % du budget de production de l'oeuvre et, en cas de coproductio
 internationale, à 80 % de la part gérée par le coproducteur français.
 
 IV.-Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de
-la date de réception, par le directeur général du Centre national de la
-cinématographie, d'une demande d'agrément à titre provisoire.
+la date de réception, par le président du Centre national du cinéma et de
+l'image animée, d'une demande d'agrément à titre provisoire.
 
-L'agrément à titre provisoire est délivré par le directeur général du Centre
-national de la cinématographie après sélection des oeuvres par un comité
-d'experts. Cet agrément atteste que les oeuvres remplissent les conditions
-prévues au II.
+L'agrément à titre provisoire est délivré par le président du Centre national du
+cinéma et de l'image animée après sélection des oeuvres par un comité d'experts.
+Cet agrément atteste que les oeuvres remplissent les conditions prévues au II.
 
 V.-Les subventions publiques non remboursables reçues par les entreprises et
 directement affectées aux dépenses visées au III sont déduites des bases de

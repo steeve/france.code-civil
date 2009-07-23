@@ -14,8 +14,8 @@ avant le début des prises de vues. Il permet d'acquérir un droit sur les
 recettes d'exploitation d'une oeuvre cinématographique ou audiovisuelle agréée
 dans les conditions prévues à l'article 238 bis HF et limite la responsabilité
 du souscripteur au montant du versement. Le contrat est inscrit au registre
-prévu au titre III du code de l'industrie cinématographique ; son titulaire ne
-jouit d'aucun droit d'exploitation de l'oeuvre et ne peut bénéficier du régime
-de soutien financier de l'Etat à l'industrie cinématographique et à l'industrie
-des programmes audiovisuels. Le financement par ces contrats ne peut pas excéder
-50 p. 100 du coût total de l'oeuvre.
+public du cinéma et de l'audiovisuel prévu au titre II du livre Ier du code du
+cinéma et de l'image animée ; son titulaire ne jouit d'aucun droit
+d'exploitation de l'oeuvre et ne peut bénéficier des aides financières à la
+production du Centre national du cinéma et de l'image animée. Le financement par
+ces contrats ne peut pas excéder 50 % du coût total de l'oeuvre.

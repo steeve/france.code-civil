@@ -15,9 +15,10 @@ d) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent ou qui
 commandent et celles qui importent des phonogrammes ;
 
 e) Celles qui produisent des documents cinématographiques et, en ce qui concerne
-les documents cinématographiques importés, celles qui les distribuent, ainsi que
-celles qui éditent et importent des documents cinématographiques fixés sur un
-support autre que photochimique ;
+les documents cinématographiques importés, celles qui les distribuent, quelle
+que soit la nature du support sur lequel ils sont fixés, ainsi que celles qui
+éditent et importent des vidéogrammes destinés à l'usage privé du public
+consistant dans la reproduction de documents cinématographiques ;
 
 f) Les services de radio et de télévision au sens de la loi n° 86-1067 du 30
 septembre 1986 relative à la liberté de communication ;
