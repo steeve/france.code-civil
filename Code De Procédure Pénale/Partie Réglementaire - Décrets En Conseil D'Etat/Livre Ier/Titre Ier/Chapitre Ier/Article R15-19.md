@@ -46,4 +46,21 @@ Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
 
 c) La direction opérationnelle des services techniques et logistiques, dans les
 départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
-Seine-Saint-Denis.
+Seine-Saint-Denis ;
+
+d) La direction chargée des missions de sécurité et de paix publiques, ainsi que
+ses sûretés territoriales et ses circonscriptions de sécurité de proximité, dans
+les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
+Seine-Saint-Denis ;
+
+e) La direction chargée du maintien de l'ordre public et de la régulation de la
+circulation dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne,
+et de la Seine-Saint-Denis et, au-delà des limites de ces départements, sur les
+routes de la région Ile-de-France dont la liste est fixée par l'autorité
+administrative, et dans les communes comprises dans la zone citée à l'article 7
+bis de la loi du 20 janvier 1995 relative à l'accès à l'activité de conducteur
+et à la profession d'exploitant de taxi ;
+
+f) Le service de police chargé de la sécurité des personnes et des biens sur les
+voies navigables des départements d'Ile-de-France, dans les départements de
+cette région.
