@@ -4,7 +4,8 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les
 dispositions suivantes du présent code sont applicables dans les îles Wallis et
 Futuna :
 
-1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1 ;
+1° Le livre Ier, à l'exception des articles L. 123-1-1, L. 123-29 à L. 123-31,
+L. 124-1 à L. 126-1, L. 135-1 à L. 135-3 ;
 
 2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15,
 L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
