@@ -10,8 +10,8 @@ cette verbalisation.
 
 Il en est de même pour les subventions et les aides à caractère public
 attribuées par le ministère de la culture et de la communication, y compris par
-les directions régionales des affaires culturelles, le Centre national de la
-cinématographie, l'institution mentionnée à l'article L. 5312-1.
+les directions régionales des affaires culturelles, le Centre national du cinéma
+et de l'image animée, l'institution mentionnée à l'article L. 5312-1.
 
 Cette décision de refus est prise sans préjudice des poursuites judiciaires qui
 peuvent être engagées.

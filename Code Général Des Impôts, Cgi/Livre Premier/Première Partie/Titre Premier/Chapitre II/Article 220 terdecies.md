@@ -1,22 +1,22 @@
 Article 220 terdecies
 ----
-I.- Les entreprises de création de jeux vidéo soumises à l'impôt sur les
-sociétés ou exonérées en application des articles 44 sexies,44 sexies A,44
-septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent
-bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles
-exposent en vue de la création de jeux vidéo agréés.
+I.-Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés
+ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44
+octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies peuvent bénéficier
+d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en
+vue de la création de jeux vidéo agréés.
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de
 création de jeux vidéo, de la législation sociale en vigueur.
 
-II.- Est considéré comme un jeu vidéo tout logiciel de loisir mis à la
+II.-Est considéré comme un jeu vidéo tout logiciel de loisir mis à la
 disposition du public sur un support physique ou en ligne intégrant des éléments
 de création artistique et technologique, proposant à un ou plusieurs
 utilisateurs une série d'interactions s'appuyant sur une trame scénarisée ou des
 situations simulées et se traduisant sous forme d'images animées, sonorisées ou
 non.
 
-III.- 1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent
+III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent
 répondre aux conditions suivantes :
 
 1° Avoir un coût de développement supérieur ou égal à 150 000 euros ;
@@ -40,12 +40,12 @@ dépenses artistiques.
 Le respect des conditions de création prévues aux 3° et 4° est vérifié au moyen
 d'un barème de points dont le contenu est fixé par décret.
 
-2.- N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant
+2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant
 des séquences à caractère pornographique ou de très grande violence,
 susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des
 utilisateurs.
 
-IV.- 1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
+IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
 titre de chaque année est égal à 20 % du montant total des dépenses suivantes,
 correspondant à des opérations effectuées en France, dans un autre Etat membre
 de la Communauté européenne, ou dans un autre Etat partie à l'accord sur
@@ -80,21 +80,21 @@ conditions prévues au III confiées à d'autres entreprises ou organismes. Ces
 dépenses entrent dans la base de calcul du crédit d'impôt dans la limite d'un
 million d'euros par exercice.
 
-2.- Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à
-compter de la date de réception par le directeur général du Centre national de
-la cinématographie d'une demande d'agrément provisoire. Cet agrément est délivré
+2.-Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à
+compter de la date de réception par le président du Centre national du cinéma et
+de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré
 après sélection par un comité d'experts chargé de vérifier que le jeu vidéo
 remplit les conditions prévues au III.
 
-V.- Les subventions publiques reçues par les entreprises à raison des opérations
+V.-Les subventions publiques reçues par les entreprises à raison des opérations
 ouvrant droit au bénéfice du crédit d'impôt sont déduites des bases de calcul de
 ce crédit d'impôt.
 
-VI.- Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions d'euros
+VI.-Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions d'euros
 par exercice. Lorsque l'exercice est d'une durée inférieure ou supérieure à
 douze mois, le montant du plafond est diminué ou augmenté dans les mêmes
 proportions que la durée de l'exercice.
 
-VII.- Les conditions d'application du présent article, notamment celles
-relatives à la délivrance de l'agrément provisoire et aux obligations
-déclaratives incombant aux entreprises, sont fixées par décret.
+VII.-Les conditions d'application du présent article, notamment celles relatives
+à la délivrance de l'agrément provisoire et aux obligations déclaratives
+incombant aux entreprises, sont fixées par décret.
