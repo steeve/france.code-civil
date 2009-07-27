@@ -8,11 +8,9 @@ l'éducation. Elle est assurée par un organisme de formation ayant conclu une
 convention avec le ministre.
 
 La durée de cette formation est fixée à deux ans. Elle est réduite à un an pour
-les candidats justifiant, au début de la formation, d'une licence ou d'un
-diplôme d'ingénieur délivré par l'un des établissements publics à caractère
-scientifique, culturel et professionnel ou l'une des écoles habilitées par la
-commission des titres d'ingénieurs ou de titres, diplômes ou qualifications
-jugés au moins équivalents par arrêté du ministre chargé de l'éducation.
+les candidats qui, à la date de clôture des registres d'inscription, remplissent
+les conditions de titres ou de diplômes des candidats au cycle préparatoire
+correspondant de l'enseignement public.
 
 Les maîtres ayant bénéficié de la formation préparatoire ne peuvent, à l'issue
 de celle-ci, se présenter aux concours d'accès à l'échelle de rémunération des

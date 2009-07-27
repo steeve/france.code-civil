@@ -1,26 +1,25 @@
 Article R914-32
 ----
-Les candidats inscrits sur une liste d'aptitude aux fonctions de maître à la
-suite de leur admission au concours externe et au troisième concours
-bénéficient, dans la limite du nombre de contrats offerts au concours et avec
-l'accord du chef d'établissement d'enseignement privé sous contrat dans lequel
-ils effectuent la partie pratique de leur formation, d'une année de formation.
+Les candidats admis qui remplissent la condition de diplôme exigée dans
+l'enseignement public pour la nomination des lauréats du concours externe
+accomplissent un stage d'une durée d'un an, avec l'accord du chef de
+l'établissement dans lequel ils sont affectés. Au cours de leur stage, ils
+bénéficient d'une formation dispensée, dans le cadre des conventions mentionnées
+à l'alinéa suivant, sous la forme d'actions organisées dans un établissement
+d'enseignement supérieur, d'un tutorat, ainsi que le cas échéant d'autres types
+d'actions d'accompagnement. Les modalités du stage et les conditions de son
+évaluation par un jury sont arrêtées par le ministre chargé de l'éducation.
 
-L'année de formation correspond à la seconde année de formation dispensée aux
-lauréats des concours de l'enseignement public dans les instituts universitaires
-de formation des maîtres ou, pour les candidats inscrits sur la liste d'aptitude
-des troisièmes concours, à celle dispensée aux lauréats des troisièmes concours
-de l'enseignement public dans les instituts universitaires de formation des
-maîtres.
+Le contenu et l'organisation de la formation de l'année de stage font l'objet
+d'une convention entre le recteur, les représentants des établissements
+d'enseignement supérieur intéressés et les représentants des établissements
+d'enseignement privés ayant passé un contrat avec l'Etat, dans le respect du
+caractère propre de ces établissements.
 
-Toutefois, les personnels qui exerçaient avant le concours des fonctions de
-maître continuent à assurer un service d'enseignement ou de documentation dans
-des conditions analogues à celles applicables aux personnels correspondants de
-l'enseignement public et bénéficient d'une formation adaptée.
-
-Le contenu et l'organisation de la formation dispensée avec le concours d'un
-institut universitaire de formation des maîtres, ainsi que les charges
-auxquelles elle donne lieu, font l'objet d'une convention entre le recteur,
-l'institut universitaire de formation des maîtres et les représentants des
-établissements d'enseignement privés dans le respect du caractère propre de ces
-établissements.
+Pour les candidats inscrits sur la liste principale qui ne peuvent justifier,
+lors de la session de recrutement suivant leur réussite au concours, de l'un des
+diplômes exigés pour la nomination des lauréats du concours externe dans
+l'enseignement public, le bénéfice de l'inscription sur la liste d'aptitude est
+reporté à la session de recrutement de l'année suivante.A cette date, ceux qui
+ne peuvent justifier d'un de ces diplômes perdent le bénéfice de l'admission au
+concours.

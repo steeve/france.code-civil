@@ -16,7 +16,7 @@ d'association ;
 2° Des maîtres titulaires d'un contrat définitif candidats à une mutation ;
 
 3° Des maîtres lauréats d'un concours externe de recrutement de l'enseignement
-privé ayant satisfait aux obligations de leur année de formation ;
+privé ayant satisfait aux obligations de leur année de stage ;
 
 4° Des maîtres lauréats d'un concours interne de recrutement de l'enseignement
 privé ayant satisfait aux obligations de leur année de stage ;
