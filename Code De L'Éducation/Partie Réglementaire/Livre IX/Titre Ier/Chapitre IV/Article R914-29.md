@@ -15,7 +15,9 @@ troisième concours correspondant de l'enseignement public.
 Les conditions fixées s'apprécient à la date de clôture des registres
 d'inscription aux concours.
 
-Les candidats au troisième concours pour l'accès à une liste d'aptitude
-subissent les mêmes épreuves, devant le même jury, que les candidats de la
-section ou, éventuellement, de l'option correspondante du troisième concours de
-l'enseignement public.
+Les candidats aux troisièmes concours pour l'accès à une liste d'aptitude
+subissent les mêmes épreuves que les candidats des concours correspondants de
+l'enseignement public. Ils subissent ces épreuves devant le jury des concours
+correspondants de l'enseignement public, auquel il est adjoint, pour ces
+candidats, des représentants des établissements privés associés à l'Etat par
+contrat et ayant les titres requis pour enseigner (1).

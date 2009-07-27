@@ -1,5 +1,9 @@
 Article R914-30
 ----
+Le nombre de contrats offerts pour chaque concours, répartis par sections et
+éventuellement par options, est fixé par un arrêté du ministre chargé de
+l'éducation (1).
+
 Le nombre de contrats offerts à chacun des concours mentionnés à l'article R.
 914-28 ne peut être supérieur à 10 % du nombre total de contrats offerts pour ce
 concours et pour les concours externe et interne correspondants. Toutefois, les

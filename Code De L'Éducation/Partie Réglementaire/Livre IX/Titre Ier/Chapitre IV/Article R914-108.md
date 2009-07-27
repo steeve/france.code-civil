@@ -5,7 +5,7 @@ l'article 2 de l'ordonnance n° 82-297 du 31 mars 1982 mentionnée à l'article 
 914-106 :
 
 1° Les personnes bénéficiant d'une allocation temporaire d'invalidité en
-application de l'article R. 914-83 ;
+application de l'article R. 914-87 ;
 
 2° Les personnes accidentées du travail et victimes de maladies professionnelles
 mentionnées au 2° de l'article L. 5212-13 du code du travail ;

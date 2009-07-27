@@ -17,6 +17,8 @@ Au titre d'une même session, un candidat ne peut s'inscrire dans une même
 section au concours d'accès aux échelles de rémunération d'enseignants et au
 concours interne correspondant de l'enseignement public.
 
-Les candidats à ces concours subissent les mêmes épreuves, devant le même jury,
-que les candidats de la section ou éventuellement de l'option correspondante du
-concours interne de l'enseignement public.
+Les candidats à ces concours subissent les mêmes épreuves que les candidats des
+concours correspondants de l'enseignement public. Ils subissent ces épreuves
+devant le jury des concours correspondants de l'enseignement public, auquel il
+est adjoint, pour ces candidats, des représentants des établissements privés
+associés à l'Etat par contrat et ayant les titres requis pour enseigner (1).
