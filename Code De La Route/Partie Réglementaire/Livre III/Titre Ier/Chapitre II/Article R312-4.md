@@ -1,6 +1,6 @@
 Article R312-4
 ----
-I. - Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les
+I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les
 limites suivantes :
 
 1° Véhicule à moteur à deux essieux, ou remorque à deux essieux :
@@ -20,23 +20,23 @@ plus : 26 tonnes ;
 
 6° Autocar articulé : 28 tonnes.
 
-II. - Le poids total roulant autorisé d'un véhicule articulé d'un ensemble
-composé d'un véhicule à moteur et d'une remorque d'un train double, ne doit pas
-dépasser :
+II.-Le poids total roulant autorisé d'un véhicule articulé d'un ensemble composé
+d'un véhicule à moteur et d'une remorque d'un train double, ne doit pas dépasser
+:
 
 1° 38 tonnes, si l'ensemble considéré ne comporte pas plus de quatre essieux ;
 
 2° 40 tonnes, si l'ensemble considéré comporte plus de quatre essieux.
 
-III. - Le poids total roulant autorisé d'un véhicule articulé, d'un train double
+III.-Le poids total roulant autorisé d'un véhicule articulé, d'un train double
 ou d'un ensemble composé d'un véhicule à moteur et d'une remorque comportant
 plus de quatre essieux, utilisé pour effectuer des transports combinés, peut
 dépasser 40 tonnes sans excéder 44 tonnes.
 
-III bis - 1° La circulation des véhicules dont les caractéristiques sont
-définies au III ci-dessus peut également être autorisée autour d'un port
-maritime pour assurer exclusivement l'acheminement vers ce port ou à partir de
-celui-ci de marchandises transportées par voie maritime.
+III bis-1° La circulation des véhicules dont les caractéristiques sont définies
+au III ci-dessus peut également être autorisée autour d'un port maritime pour
+assurer exclusivement l'acheminement vers ce port ou à partir de celui-ci de
+marchandises transportées par voie maritime.
 
 Cette autorisation ne peut bénéficier qu'à des véhicules ou ensembles de
 véhicules mis en première circulation postérieurement à des dates fixées par
@@ -59,30 +59,51 @@ site de chargement ou de déchargement d'un port maritime, à condition que cett
 extension soit nécessaire à la bonne desserte de ce dernier et ne porte pas une
 atteinte excessive à l'activité des autres modes de transport.
 
-IV. - Les véhicules à gazogène, gaz comprimé et accumulateurs électriques
+III ter.-La circulation des véhicules dont les caractéristiques sont définies au
+III ci-dessus peut également être autorisée, dans la limite de 100 km autour
+d'un port intérieur ou d'un autre site fluvial aménagé pour le chargement ou le
+déchargement des bateaux de navigation intérieure ou des navires, afin d'assurer
+exclusivement l'acheminement vers ce site ou à partir de celui-ci de
+marchandises transportées par voie fluviale.
+
+Cette autorisation ne concerne que les véhicules ou ensembles de véhicules
+mentionnés au deuxième alinéa du 1° du III bis du présent article.
+
+Un arrêté du représentant de l'Etat dans la région, pris après consultation de
+Voies navigables de France ou de l'autorité gestionnaire de la voie navigable,
+fixe la liste des sites fluviaux concernés.
+
+Un arrêté du représentant de l'Etat dans le département ou un arrêté conjoint
+des représentants de l'Etat dans les départements intéressés fixe, le cas
+échéant, la liste des itinéraires autorisés, après avis des autorités
+gestionnaires des voiries empruntées. Cet arrêté peut préciser les restrictions
+à la circulation destinées à préserver la sécurité routière et l'état de la
+voirie.
+
+IV.-Les véhicules à gazogène, gaz comprimé et accumulateurs électriques
 bénéficient, dans la limite maximale d'une tonne, de dérogations correspondant
 au poids en ordre de marche soit du gazogène et de ses accessoires, soit des
 accumulateurs et de leurs accessoires. Il en est de même, dans la limite
-maximale de 0,5 tonne, pour les poids des ralentisseurs des véhicules qui en
+maximale de 0, 5 tonne, pour les poids des ralentisseurs des véhicules qui en
 sont munis.
 
-V. - Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270
+V.-Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270
 kilogrammes et leur charge utile ne peut excéder 300 kilogrammes.
 
-VI. - Le ministre chargé des transports détermine par arrêté les modalités
+VI.-Le ministre chargé des transports détermine par arrêté les modalités
 d'application du présent article et fixe le poids total autorisé en charge des
 engins de service hivernal.
 
-VII. - Toute infraction aux dispositions du présent article ou à celles prises
+VII.-Toute infraction aux dispositions du présent article ou à celles prises
 pour son application est punie de l'amende prévue pour les contraventions de la
 quatrième classe.
 
-VIII. - Toutefois, lorsque les dépassements excèdent les limites réglementaires
-de plus de 20 %, l'amende encourue est celle prévue pour les contraventions de
-la cinquième classe.
+VIII.-Toutefois, lorsque les dépassements excèdent les limites réglementaires de
+plus de 20 %, l'amende encourue est celle prévue pour les contraventions de la
+cinquième classe.
 
-IX. - Dans ce dernier cas, la récidive de cette contravention est réprimée
+IX.-Dans ce dernier cas, la récidive de cette contravention est réprimée
 conformément à l'article 132-11 du code pénal.
 
-X. - En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut
+X.-En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut
 être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
