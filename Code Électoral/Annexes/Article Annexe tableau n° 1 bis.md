@@ -19,17 +19,51 @@ Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarram
 Thio, Touho, Voh, Yaté.
 
 
+Mayotte
+
+1re circonscription
+
+Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II,
+Mtsamboro, Pamandzi
+
+2e circonscription
+
+Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou
+III, M'Tsangamouji, Ouangani, Sada, Tsingoni.
+
+
 Polynésie française
 
 1re circonscription
 
-Communes de Bora-Bora, Faaa, Huahine, Maupiti, Moorea-Maiao, Paea, Papeete,
-Punaiua, Raivavae, Rapa, Rimatara, Rurutu, Tahaa, Taputapuatei, Tubuaa, Tumaraa,
-Uturoa.
+Communes de : Anaa, Arue, Arutua, Fakarava, Fangatau, Fatu-Hiva, Gambier, Hao,
+Hikueru, Hiva-Oa, Makemo, Manihi, Moorea-Maiao, Napuka, Nuku-Hiva, Nukutavake,
+Papeete, Pirae, Pukapuka, Rangiroa, Reao, Tahuata, Takaroa, Tatakoto, Tureia,
+Ua-Huka, Ua-Pou
 
 2e circonscription
 
-Communes de : Anaa, Arue, Arutua, Fakarava, Fangatau, Fatu Hiva, Gambier, Hao,
-Hikueru, Hitiaa O Te Ra, Hiva Oa, Mahina, Makemo, Manihi, Napuka, Nuku Hiva,
-Nukutavake, Papara, Pirae, Puka-Puka, Rangiroa, Reao, Tahuata, Taiarapu-Est,
-Taiarapu-Ouest, Takaroa, Tatakoto, Teva-I-Uta, Tureia, Ua-Huka, Ua-Pou.
+Communes de : Hitiaa O Te Ra, Mahina, Paea, Papara, Raivavae, Rapa, Rimatara,
+Rurutu, Taiarapu Est, Taiarapu Ouest, Teva I Uta, Tubuai
+
+3e circonscription
+
+Communes de : Bora-Bora, Faaa, Huahine, Maupiti, Punaauia, Tahaa, Taputapuatea,
+Tumaraa, Uturoa
+
+
+Saint-Barthélemy
+
+et Saint-Martin
+
+
+Circonscription unique
+
+Saint-Pierre-et-Miquelon
+
+
+Circonscription unique
+
+Iles Wallis et Futuna
+
+Circonscription unique
