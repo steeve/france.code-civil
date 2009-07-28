@@ -1,7 +1,8 @@
-Article R4311-37
+Article R1132-4-3
 ----
-Sont fixées par arrêté du ministre chargé de la santé : 1° La liste des pièces
-et des informations à produire pour l'instruction de la demande d'autorisation ;
+Sont fixées par arrêté du ministre chargé de la santé :
+
+1° La composition du dossier produit à l'appui de la demande d'autorisation ;
 
 2° Les modalités d'organisation et la composition du jury de l'épreuve
 d'aptitude ;

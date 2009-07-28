@@ -1,11 +1,5 @@
 Article R4331-13
 ----
-L'épreuve d'aptitude mentionnée à l'article R. 4331-11 a pour objet de vérifier
-au moyen d'épreuves écrites et orales que l'intéressé fait preuve d'une
-connaissance appropriée des matières qui ne lui ont pas été enseignées
-initialement.
-
-Le stage d'adaptation mentionné à l'article R. 4331-11 a pour objet de donner
-aux intéressés les connaissances définies à l'alinéa précédent. Il comprend un
-stage pratique accompagné éventuellement d'une formation théorique
-complémentaire.
+Le prestataire de services informe au préalable l'organisme national d'assurance
+maladie compétent de sa prestation par l'envoi d'une copie du récépissé
+mentionné à l'article R. 4331-12 ou par tout autre moyen.

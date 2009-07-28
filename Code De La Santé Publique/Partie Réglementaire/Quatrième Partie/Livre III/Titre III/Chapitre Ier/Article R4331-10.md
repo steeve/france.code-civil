@@ -1,8 +1,6 @@
 Article R4331-10
 ----
-Les modalités de présentation de la demande d'autorisation mentionnée à
-l'article R. 4331-9 et notamment la composition du dossier l'accompagnant sont
-fixées, après avis de la commission des ergothérapeutes du Conseil supérieur des
-professions paramédicales, par arrêté du ministre chargé de la santé.
-
-Un récépissé est délivré à l'intéressé à la réception du dossier complet.
+La commission examine l'ensemble de la formation et de l'expérience
+professionnelle du demandeur selon les mêmes modalités que celles prévues aux
+articles R. 4311-35 et R. 4311-36, sous réserve que l'autorisation est notifiée
+par le ministre chargé de la santé.

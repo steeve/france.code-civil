@@ -1,19 +1,17 @@
 Article R4311-35
 ----
-Les personnes qui souhaitent bénéficier de l'autorisation prévue à l'article L.
-4311-4 en formulent la demande auprès du préfet de région, par lettre
-recommandée avec demande d'avis de réception.
+La commission examine l'ensemble de la formation et de l'expérience
+professionnelle de l'intéressé. Lorsque la formation est inférieure d'au moins
+un an à celle du diplôme d'Etat français ou lorsqu'elle porte sur des matières
+substantiellement différentes ou lorsqu'une ou plusieurs composantes de
+l'activité professionnelle dont l'exercice est subordonné au diplôme précité
+n'existent pas dans la profession correspondante dans l'Etat membre d'origine ou
+n'ont pas fait l'objet d'un enseignement dans cet Etat, la commission vérifie
+l'ensemble de la formation et de l'expérience professionnelle de l'intéressé. Si
+celles-ci ne sont pas de nature à couvrir, en tout ou en partie, ces
+différences, la commission propose une mesure de compensation consistant en une
+épreuve d'aptitude ou un stage d'adaptation.
 
-La demande est accompagnée d'un dossier permettant de connaître la nationalité
-du demandeur, la formation qu'il a suivie, le diplôme qu'il a obtenu et, le cas
-échéant, son expérience professionnelle, ainsi que pour les ressortissants
-mentionnés au 2° de l'article L. 4311-4, une attestation ou un certificat
-délivré par l'autorité compétente de l'Etat membre de la Communauté européenne
-précisant qu'ils peuvent exercer légalement leur profession sur le territoire de
-cet Etat. La liste des pièces et des informations à produire pour l'instruction
-de la demande est fixée par arrêté du ministre chargé de la santé.
-
-Dans le cas où le préfet de région réclame, par lettre recommandée avec demande
-d'avis de réception, les pièces et les informations manquantes nécessaires à
-l'examen de la demande, le délai d'instruction est suspendu jusqu'à ce que le
-dossier soit complet.
+Le préfet de région informe l'intéressé du contenu et de la durée des mesures de
+compensation envisagées et lui demande de se soumettre, à son choix, à l'une ou
+l'autre de ces mesures.

@@ -1,8 +1,6 @@
 Article R4241-10
 ----
-Lorsque la durée des études accomplies au-delà du cycle d'études secondaires est
-inférieure à la durée de formation conduisant à l'obtention du brevet
-professionnel de préparateur en pharmacie, et lorsque les demandeurs répondent
-aux conditions fixées aux 1° et a du 2° de l'article R. 4241-9, il peut être
-exigé du demandeur de faire la preuve d'une expérience professionnelle au plus
-égale au double de la durée de formation manquante.
+La commission examine l'ensemble de la formation et de l'expérience
+professionnelle du demandeur selon les mêmes modalités que celles prévues aux
+articles R. 4311-35 et R. 4311-36, sous réserve que l'autorisation est notifiée
+par le ministre chargé de la santé.

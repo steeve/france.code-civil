@@ -1,10 +1,11 @@
-Article R4342-10
+Article R4371-2
 ----
 Le ministre chargé de la santé délivre après avis de la commission des
-orthoptistes l'autorisation d'exercice prévue à l'article L. 4342-4, au vu d'une
+diététiciens l'autorisation d'exercice prévue à l'article L. 4371-4, au vu d'une
 demande accompagnée d'un dossier présenté et instruit selon les modalités fixées
-par l'arrêté mentionné au premier alinéa de l'article R. 4342-12. Il accuse
-réception du dossier complet dans un délai d'un mois à compter de son
+par l'arrêté mentionné à l'article R. 4371-4.
+
+Il accuse réception du dossier complet dans un délai d'un mois à compter de son
 enregistrement.
 
 Le silence gardé par l'autorité ministérielle à l'expiration d'un délai de

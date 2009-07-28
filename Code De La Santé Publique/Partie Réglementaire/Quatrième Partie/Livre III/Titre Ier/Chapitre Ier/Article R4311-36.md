@@ -1,10 +1,11 @@
 Article R4311-36
 ----
-Le préfet de région statue sur la demande d'autorisation, après avis de la
-commission régionale, par une décision motivée, dans un délai de trois mois à
-compter de la date du récépissé mentionné à l'article R. 4311-35. L'absence de
-réponse dans ce délai vaut rejet de la demande.
-
-L'autorisation précise, le cas échéant, qu'elle est accordée pour l'exercice de
-la spécialité d'infirmier anesthésiste, d'infirmier de bloc opératoire ou
-d'infirmière puéricultrice.
+L'épreuve d'aptitude a pour objet de vérifier au moyen d'épreuves écrites ou
+orales que l'intéressé fait preuve d'une connaissance appropriée des matières
+figurant au programme du titre de formation permettant l'exercice de la
+profession en France, qui ne lui ont pas été enseignées initialement ou qu'il
+n'a pas acquises au cours de son expérience professionnelle. Le stage
+d'adaptation a pour objet de permettre aux intéressés d'acquérir les
+connaissances définies à l'alinéa précédent. Il comprend un stage pratique
+effectué sous la responsabilité d'un professionnel qualifié, accompagné
+éventuellement d'une formation théorique complémentaire.

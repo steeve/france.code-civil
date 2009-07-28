@@ -1,13 +1,12 @@
 Article R4351-24
 ----
-L'autorisation mentionnée à l'article L. 4351-4 est délivrée lorsque sont
-réunies les conditions définies par l'article L. 4351-4.
+Sont fixées par arrêté du ministre chargé de la santé :
 
-Toutefois, dans les cas prévus au septième alinéa du même article, la délivrance
-de l'autorisation est subordonnée à la vérification de la capacité du demandeur.
-Cette vérification est effectuée, au choix du demandeur :
+1° La composition du dossier produit à l'appui de la demande d'autorisation ;
 
-1° Soit par une épreuve d'aptitude ;
+2° Les modalités d'organisation et la composition du jury de l'épreuve
+d'aptitude ;
 
-2° Soit à l'issue d'un stage d'adaptation dont la durée ne peut excéder trois
-ans.
+3° Les modalités d'organisation et d'évaluation du stage d'adaptation ;
+
+4° Les modalités du contrôle des connaissances linguistiques.
