@@ -14,13 +14,18 @@ professionnelles, mentionné au cinquième alinéa de l'article L. 461-1, le dé
 imparti à ce comité pour donner son avis s'impute sur les délais prévus à
 l'alinéa qui précède.
 
-La décision motivée de la caisse est notifiée à la victime ou à ses ayants droit
-sous pli recommandé avec demande d'avis de réception. En cas de refus, le double
-de la notification est envoyé pour information à l'employeur.
+Dans les cas prévus au dernier alinéa de l'article R. 441-11, la caisse
+communique à la victime ou à ses ayants droit et à l'employeur au moins dix
+jours francs avant de prendre sa décision, par tout moyen permettant d'en
+déterminer la date de réception, l'information sur les éléments recueillis et
+susceptibles de leur faire grief, ainsi que sur la possibilité de consulter le
+dossier mentionné à l'article R. 441-13.
 
-Si le caractère professionnel de l'accident, de la maladie, ou de la rechute
-n'est pas reconnu par la caisse, celle-ci indique à la victime dans la
-notification les voies de recours et les délais de recevabilité de sa
-contestation.
+La décision motivée de la caisse est notifiée, avec mention des voies et délais
+de recours par tout moyen permettant de déterminer la date de réception, à la
+victime ou ses ayants droit, si le caractère professionnel de l'accident, de la
+maladie professionnelle ou de la rechute n'est pas reconnu, ou à l'employeur
+dans le cas contraire. Cette décision est également notifiée à la personne à
+laquelle la décision ne fait pas grief.
 
 Le médecin traitant est informé de cette décision.

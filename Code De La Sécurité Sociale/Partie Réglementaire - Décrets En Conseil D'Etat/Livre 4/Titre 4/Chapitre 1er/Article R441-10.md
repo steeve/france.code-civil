@@ -1,10 +1,10 @@
 Article R441-10
 ----
 La caisse dispose d'un délai de trente jours à compter de la date à laquelle
-elle a eu connaissance de la déclaration d'accident ou de trois mois à compter
-de la date à laquelle elle a eu connaissance de la déclaration de maladie
-professionnelle pour statuer sur le caractère professionnel de l'accident ou de
-la maladie.
+elle a reçu la déclaration d'accident et le certificat médical initial ou de
+trois mois à compter de la date à laquelle elle a reçu la déclaration de la
+maladie professionnelle et le certificat médical initial pour statuer sur le
+caractère professionnel de l'accident ou de la maladie.
 
 Il en est de même lorsque, sans préjudice de l'application des dispositions du
 chapitre Ier du titre IV du livre Ier et de l'article L. 432-6, il est fait état

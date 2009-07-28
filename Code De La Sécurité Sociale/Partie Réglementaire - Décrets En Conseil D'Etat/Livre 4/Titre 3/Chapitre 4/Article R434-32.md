@@ -11,10 +11,11 @@ au présent livre. Lorsque ce dernier barème ne comporte pas de référence à 
 lésion considérée, il est fait application du barème indicatif d'invalidité en
 matière d'accidents du travail.
 
-La décision motivée est immédiatement notifiée par la caisse à la victime ou à
-ses ayants droit par lettre recommandée avec demande d'avis de réception. Le
-double de cette décision est envoyé à la caisse régionale et à l'employeur au
-service duquel est survenu l'accident.
+La décision motivée est immédiatement notifiée par la caisse primaire par tout
+moyen permettant de déterminer la date de réception, avec mention des voies et
+délais de recours, à la victime ou à ses ayants droit et à l'employeur au
+service duquel se trouvait la victime au moment où est survenu l'accident. Le
+double de cette décision est envoyé à la caisse régionale.
 
 La notification adressée à la victime ou à ses ayants droit invite ceux-ci à
 faire connaître à la caisse, dans un délai de dix jours, à l'aide d'un
