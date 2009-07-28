@@ -12,6 +12,14 @@ Dans le cadre de la prescription médicale, il établit un bilan qui comprend le
 diagnostic kinésithérapique et les objectifs de soins, ainsi que le choix des
 actes et des techniques qui lui paraissent les plus appropriés.
 
-Ce bilan est adressé au médecin prescripteur et, à l'issue de la dernière
-séance, complété par une fiche retraçant l'évolution du traitement
-kinésithérapique, également adressée au médecin prescripteur.
+Ce bilan est tenu à la disposition du médecin prescripteur.
+
+Le traitement mis en œuvre en fonction du bilan kinésithérapique est retracé
+dans une fiche de synthèse qui est tenue à la disposition du médecin
+prescripteur. Cette fiche lui est adressée, à l'issue de la dernière séance de
+soins, lorsque le traitement a comporté un nombre de séances égal ou supérieur à
+dix.
+
+Elle est également adressée au médecin prescripteur lorsqu'il est nécessaire de
+modifier le traitement initialement prévu ou lorsque apparaît une complication
+pendant le déroulement du traitement.
