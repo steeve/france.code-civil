@@ -1,8 +1,8 @@
 Article 57
 ----
-Sous réserve de ce qui est dit à l'article précédent concernant le respect du
-secret professionnel et des droits de la défense, les opérations prescrites par
-ledit article sont faites en présence de la personne au domicile de laquelle la
+Sous réserve de ce qui est dit à l'article 56 concernant le respect du secret
+professionnel et des droits de la défense, les opérations prescrites par ledit
+article sont faites en présence de la personne au domicile de laquelle la
 perquisition a lieu.
 
 En cas d'impossibilité, l'officier de police judiciaire aura l'obligation de

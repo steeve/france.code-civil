@@ -16,7 +16,12 @@ l'esprit.
 
 3° Les installations radioélectriques permettant de rendre inopérants dans
 l'enceinte des établissements pénitentiaires, tant pour l'émission que pour la
-réception, les appareils de communications électroniques mobiles de tous types.
+réception, les appareils de communications électroniques mobiles de tous types ;
+
+4° Les installations radioélectriques de l'Etat établies dans certains
+établissements affectés aux besoins de la défense et de la sécurité nationale et
+permettant de rendre inopérants, tant pour l'émission que pour la réception, les
+appareils de communications électroniques de tous types.
 
 Les conditions d'utilisation des installations radioélectriques mentionnées
 ci-dessus, à l'exception de celles prévues au 3°, sont déterminées dans les

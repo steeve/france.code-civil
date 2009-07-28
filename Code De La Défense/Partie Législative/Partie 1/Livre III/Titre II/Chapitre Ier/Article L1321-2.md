@@ -15,7 +15,8 @@ défense, le commandement militaire désigné à cet effet peut être chargé, p
 décret en conseil des ministres, de la responsabilité de l'ordre public et de la
 coordination des mesures de défense civile avec les mesures militaires de
 défense à l'intérieur du ou des secteurs de sécurité délimités autour de ces
-installations par le Président de la République en conseil de défense.
+installations par le Président de la République en conseil de défense et de
+sécurité nationale.
 
 Des décrets en Conseil d'Etat définissent les modalités d'application des
 dispositions du présent article.

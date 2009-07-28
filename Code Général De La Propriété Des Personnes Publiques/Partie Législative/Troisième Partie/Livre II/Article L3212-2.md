@@ -32,4 +32,9 @@ convention de coopération, à un organisme assurant des missions de même natur
 5° Les cessions des matériels informatiques et des logiciels nécessaires à leur
 utilisation, dont les services de l'Etat ou de l'un de ses établissements
 publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond
-fixé par décret, aux personnels des administrations concernées.
+fixé par décret, aux personnels des administrations concernées ;
+
+6° Les cessions de biens meubles, dont le ministère de la défense n'a plus
+l'emploi, à des associations ou organismes agissant pour la préservation ou la
+mise en valeur du patrimoine militaire, ou contribuant au renforcement du lien
+entre la Nation et son armée.

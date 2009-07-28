@@ -1,10 +1,13 @@
 Article L1142-3
 ----
-Le ministre chargé de l'économie oriente aux fins de la défense l'action des
-ministres responsables de la production, de la réunion et de l'utilisation des
-diverses catégories de ressources ainsi que de l'aménagement industriel du
-territoire.
+Le ministre chargé de l'économie est responsable de la préparation et de
+l'exécution de la politique de sécurité économique. Il prend les mesures de sa
+compétence garantissant la continuité de l'activité économique en cas de crise
+majeure et assure la protection des intérêts économiques de la Nation.
 
-Son action s'étend à la répartition primaire des ressources mentionnées au
-premier alinéa, ainsi qu'à la fixation des prix et à l'organisation des
-opérations commerciales d'importations et d'exportations.
+Il oriente l'action des ministres responsables de la production, de
+l'approvisionnement et de l'utilisation des ressources nécessaires à la défense
+et à la sécurité nationale.
+
+Conjointement avec le ministre chargé du budget, il assure la surveillance des
+flux financiers.

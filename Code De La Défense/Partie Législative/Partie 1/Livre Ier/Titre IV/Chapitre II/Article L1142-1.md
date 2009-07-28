@@ -1,16 +1,28 @@
 Article L1142-1
 ----
-Le ministre de la défense est responsable, sous l'autorité du Premier ministre,
-de l'exécution de la politique militaire et en particulier de l'organisation, de
-la gestion, de la mise en condition d'emploi et de la mobilisation de l'ensemble
-des forces ainsi que de l'infrastructure militaire qui leur est nécessaire.
+Le ministre de la défense est responsable de la préparation et de la mise en
+œuvre de la politique de défense. Il est en particulier chargé de
+l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en
+condition d'emploi et de la mobilisation des forces armées.
 
-Il assiste le Premier ministre en ce qui concerne leur mise en oeuvre.
+Il a autorité sur les armées et leurs services. Il veille à ce que les armées
+disposent des moyens nécessaires à leur entretien, leur équipement et leur
+entraînement. Il est responsable de leur sécurité.
 
-Il a autorité sur l'ensemble des forces et services des armées et est
-responsable de leur sécurité.
+Il est également chargé :
 
-Dès la mise en garde définie à l'article L. 2141-1, le ministre de la défense
-dispose en matière de communications, transports, télécommunications et
-répartition des ressources générales des priorités correspondant aux besoins des
-armées.
+-de la prospective de défense ;
+
+-du renseignement extérieur et du renseignement d'intérêt militaire ;
+
+-de l'anticipation et du suivi des crises intéressant la défense ;
+
+-de la politique industrielle et de recherche et de la politique sociale propres
+au secteur de la défense.
+
+Il contribue à l'élaboration et à la mise en œuvre de la politique d'exportation
+des équipements de défense.
+
+En matière de communication, de transports, et pour la répartition des
+ressources générales, le ministre de la défense dispose, dès la mise en garde
+définie à l'article L. 2141-1, d'un droit de priorité.

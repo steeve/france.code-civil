@@ -9,3 +9,8 @@ des seules autorités françaises.
 
 L'avis de la Commission consultative du secret de la défense nationale est rendu
 à la suite de la demande d'une juridiction française.
+
+Le président de la Commission consultative du secret de la défense nationale, ou
+son représentant, membre de la commission, est chargé de donner, à la suite
+d'une demande d'un magistrat, un avis sur la déclassification temporaire aux
+fins de perquisition de lieux ayant fait l'objet d'une classification.

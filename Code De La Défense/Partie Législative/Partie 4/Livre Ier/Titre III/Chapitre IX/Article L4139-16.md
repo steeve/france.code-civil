@@ -70,7 +70,7 @@ Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement,
 ingénieurs des études et techniques des travaux maritimes, professeurs de
-l'enseignement maritime
+l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
 
 64
 
