@@ -5,8 +5,8 @@ d'Etat ou, sur décision du vice-président, après avis du président de la sec
 ou de la commission compétente, à l'ordre du jour de l'assemblée générale
 plénière du Conseil d'Etat :
 
-1° Les projets de lois et d'ordonnances, sous réserve des dispositions de
-l'article R. 123-21 ;
+1° Les projets et propositions de lois et projets d'ordonnances, sous réserve
+des dispositions de l'article R. 123-21 ;
 
 2° Les projets de décrets pris en vertu de l'article 37 de la Constitution ;
 
@@ -28,17 +28,18 @@ b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ;
 c) Projets de loi autorisant la ratification ou l'approbation d'une convention
 internationale ;
 
-d) Projets de loi ou d'ordonnance portant extension et, le cas échéant,
-adaptation de dispositions législatives à une ou plusieurs collectivités
-d'outre-mer ou à la Nouvelle-Calédonie ;
+d) Projets ou propositions de loi ou projets d'ordonnance portant extension et,
+le cas échéant, adaptation de dispositions législatives à une ou plusieurs
+collectivités d'outre-mer ou à la Nouvelle-Calédonie ;
 
-e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en
-droit interne d'une directive communautaire ;
+e) Projets ou propositions de loi ou projets d'ordonnance ayant pour objet
+principal la transposition en droit interne d'une directive communautaire ;
 
-f) Projets de loi ou d'ordonnance procédant à la codification de la législation
-;
+f) Projets ou propositions de loi ou projets d'ordonnance procédant à la
+codification de la législation ;
 
-g) Projets de loi ou d'ordonnance ne soulevant pas de difficulté.
+g) Projets ou propositions de loi ou projets d'ordonnance ne soulevant pas de
+difficulté.
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à
 l'assemblée générale plénière.
