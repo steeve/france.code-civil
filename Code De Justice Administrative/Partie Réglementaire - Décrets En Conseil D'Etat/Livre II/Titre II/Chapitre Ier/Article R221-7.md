@@ -23,5 +23,5 @@ Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Renne
 Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu,
 Nouvelle-Calédonie et Polynésie française ;
 
-Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et
-Versailles.
+Versailles : ressort des tribunaux administratifs de Cergy-Pontoise, Montreuil
+et Versailles.
