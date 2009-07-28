@@ -14,7 +14,8 @@ auxiliaires de l'enseignement public des premier et second degrés ;
 
 b) Trois membres représentant les directeurs de centre d'information et
 d'orientation, les conseillers d'orientation-psychologues, les conseillers
-principaux d'éducation, les maîtres d'internat et les surveillants d'externat ;
+principaux d'éducation, les maîtres d'internat , les surveillants d'externat et
+les assistants d'éducation ;
 
 c) Cinq membres représentant les enseignants-chercheurs élus par les
 représentants des mêmes catégories au Conseil national de l'enseignement
@@ -76,9 +77,9 @@ e) Trois membres représentant les élèves des lycées et les élèves des
 établissements régionaux d'enseignement adapté fréquentant les classes des
 niveaux correspondant à ceux des lycées, élus en leur sein par les représentants
 des délégués des élèves des lycées et des établissements régionaux
-d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne.
-L'élection a lieu par correspondance ; la répartition des sièges s'effectue
-selon les systèmes du scrutin majoritaire plurinominal à un tour.
+d'enseignement adapté siégeant dans les conseils académiques de la vie
+lycéenne.L'élection a lieu par correspondance ; la répartition des sièges
+s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
 
 3° Trente membres représentant les collectivités territoriales, les associations
 périscolaires et les grands intérêts culturels, éducatifs, sociaux et
