@@ -1,6 +1,5 @@
 Article R4112-11
 ----
-Le prestataire de services informe l'organisme local d'assurance maladie
-territorialement compétent par une copie du récépissé mentionné à l'article R.
-4112-9, qui lui a été délivré par le conseil national de l'ordre, ou par tout
-autre moyen.
+Le prestataire de services informe préalablement l'organisme national
+d'assurance maladie compétent de sa prestation de services par l'envoi d'une
+copie du récépissé mentionné à l'article R. 4112-9 ou par tout autre moyen.

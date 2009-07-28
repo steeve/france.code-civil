@@ -1,20 +1,9 @@
 Article R4221-13
 ----
-La commission mentionnée à l'article R. 4221-12 est composée comme suit :
+Le Conseil supérieur de la pharmacie examine l'ensemble de la formation et de
+l'expérience professionnelle de l'intéressé selon les mêmes modalités que celles
+prévues aux articles R. 4111-16 à R. 4111-20.
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
-
-b) Le directeur général de la santé ou son représentant ;
-
-c) Le directeur de l'enseignement supérieur ou son représentant ;
-
-d) Deux enseignants-chercheurs des disciplines pharmaceutiques ayant des
-fonctions hospitalières ;
-
-e) Un représentant du Conseil national de l'ordre des pharmaciens.
-
-Les membres visés aux d et e sont nommés par arrêté du ministre chargé de la
-santé pour une durée de trois ans renouvelable une fois.
-
-Le président est désigné par le ministre parmi les membres mentionnés au d.
+Le stage d'adaptation mentionné à l'article R. 4111-18 est réalisé dans l'une
+des qualités mentionnées au 2° de l'article L. 4221-5 et sous la responsabilité
+d'un pharmacien.

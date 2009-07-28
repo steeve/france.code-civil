@@ -1,46 +1,45 @@
 Article R4111-15
 ----
-La commission mentionnée à l'article R. 4111-14 siège dans des formations
-différentes pour chacune des professions.
+La commission siège dans une formation particulière pour chacune des
+professions.
 
 Elle comprend :
 
-1° Trois représentants de l'administration :
+1° Le directeur de l'hospitalisation et de l'organisation des soins, président ;
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+2° Le directeur général de la santé ;
 
-b) Le directeur général de la santé ou son représentant ;
+3° Le directeur général de l'enseignement supérieur ;
 
-c) Le directeur de l'enseignement supérieur ou son représentant ;
+4° Deux représentants du conseil national de l'ordre concerné.
 
-2° Sont adjoints :
+Elle comprend en outre :
 
-Pour l'examen des demandes d'autorisation d'exercice de la profession de médecin
-:
+a) Pour l'examen des demandes d'autorisation d'exercice de la profession de
+médecin :
 
-d) Deux professeurs des universités-praticiens hospitaliers ;
+-cinq membres parmi ceux composant les commissions de qualification ordinale
+telles qu'instituées par le 4° de l'article L. 632-12 du code de l'éducation.
 
-e) Un représentant du Conseil national de l'ordre des médecins ;
-
-Pour l'examen des demandes d'autorisation d'exercice de la profession de
+b) Pour l'examen des demandes d'autorisation d'exercice de la profession de
 chirurgien-dentiste :
 
-d) Deux professeurs des universités-praticiens hospitaliers ;
+-deux membres proposés par des organisations syndicales représentatives des
+chirurgiens-dentistes ;
 
-e) Un représentant du Conseil national de l'ordre des chirurgiens-dentistes ;
+-un professeur des universités-praticien hospitalier en odontologie ;
 
-Pour l'examen des demandes d'autorisation d'exercice de la profession de
+-un membre des associations professionnelles.
+
+c) Pour l'examen des demandes d'autorisation d'exercice de la profession de
 sage-femme :
 
-d) Un ou une sage-femme directeur d'école ;
+-deux membres proposés par des organisations syndicales représentatives des
+sages-femmes ;
 
-e) Un ou une sage-femme relevant du titre IV du statut de la fonction publique
-hospitalière ;
+-une sage-femme directeur d'école ;
 
-f) Un représentant du Conseil national de l'ordre des sages-femmes.
+-un membre des associations professionnelles.
 
-Les membres visés aux d, e et f sont nommés par arrêté du ministre chargé de la
-santé pour une durée de trois ans renouvelable une fois.
-
-Le président est désigné par le ministre parmi les membres mentionnés au d.
+Les membres de la commission sont nommés par arrêté du ministre chargé de la
+santé pour une durée de trois ans renouvelable.
