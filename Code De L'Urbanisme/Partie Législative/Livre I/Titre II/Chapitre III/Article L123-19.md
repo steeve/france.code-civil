@@ -21,7 +21,10 @@ intérêt général notamment pour la commune ou toute autre collectivité, ou l
 rectification d'une erreur matérielle. L'opération mentionnée à la phrase
 précédente peut également consister en un projet d'extension des zones
 constructibles qui ne porte pas atteinte à l'économie générale du plan
-d'occupation des sols et ne comporte pas de graves risques de nuisance ;
+d'occupation des sols et ne comporte pas de graves risques de nuisance. En cas
+d'annulation contentieuse du plan local d'urbanisme, l'ancien plan d'occupation
+des sols peut faire l'objet de révisions simplifiées pendant le délai de deux
+ans suivant la décision du juge devenue définitive ;
 
 c) D'une mise en compatibilité selon les modalités définies par l'article L.
 123-16.

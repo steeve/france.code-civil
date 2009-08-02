@@ -85,9 +85,7 @@ est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
 prononçant le transfert de compétence. A défaut, la communauté urbaine exerce
 l'intégralité de la compétence transférée.
 
-II.-La communauté urbaine peut transférer certaines de ses compétences à un
-syndicat mixte dont le périmètre inclut en totalité le périmètre communautaire
-après création du syndicat ou adhésion de la communauté.
+II.-(Abrogé).
 
 III.-Par convention passée avec le département, une communauté urbaine peut
 exercer pour le département tout ou partie des compétences qui, dans le domaine

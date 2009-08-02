@@ -71,9 +71,7 @@ d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigue
 de l'arrêté prononçant le transfert de compétence. A défaut, la communauté
 d'agglomération exerce l'intégralité de la compétence transférée.
 
-IV.-La communauté d'agglomération peut transférer certaines de ses compétences à
-un syndicat mixte dont le périmètre inclut en totalité le périmètre
-communautaire après création du syndicat ou adhésion de la communauté.
+IV. (Abrogé).
 
 V.-Par convention passée avec le département, une communauté d'agglomération
 peut exercer pour le département tout ou partie des compétences qui, dans le

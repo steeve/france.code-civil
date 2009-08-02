@@ -1,11 +1,19 @@
 Article 1387 A
 ----
-Pour les logements à usage locatif appartenant aux organismes d'habitations à
-loyer modéré et aux sociétés d'économie mixte, le département peut, par une
-délibération prise dans les conditions prévues à l'article 1639 A bis,
-prolonger, pendant une durée qu'il détermine, la durée des exonérations
-mentionnées aux articles 1384 et 1384 A et au paragraphe II bis de l'article
-1385 pour la taxe foncière sur les propriétés bâties perçue à son profit (1).
+Les communes et leurs établissements publics de coopération intercommunale dotés
+d'une fiscalité propre peuvent, par une délibération, exonérer totalement ou
+partiellement de taxe foncière sur les propriétés bâties, pour une durée de cinq
+ans, les immeubles affectés à une activité entrant dans le champ d'application
+de la taxe professionnelle qui se raccordent à une unité de traitement des
+déchets pour couvrir tout ou partie de leurs besoins en énergie thermique.
 
-(1) Les obligations déclaratives des personnes et organismes entrant dans le
-champ d'application du présent article sont fixées par décret.
+La délibération fixe la quantité minimale d'énergie que le propriétaire de
+l'immeuble doit s'engager à consommer pour bénéficier de cette exonération, qui
+doit être en rapport avec l'énergie thermique totale non valorisée par l'unité
+de traitement.
+
+La durée de cinq ans d'exonération court à partir de la date de première
+fourniture d'énergie par l'unité de traitement de déchets.
+
+Les obligations déclaratives des personnes et organismes concernés par les
+exonérations prévues au présent article sont fixées par décret.
