@@ -12,7 +12,10 @@ Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque l
 en fonction de la représentation des partis et groupements politiques au
 congrès. Cette représentation est constatée au plus tard deux mois avant la date
 d'expiration du mandat du congrès, au vu de la déclaration individuelle de
-rattachement faite par chaque élu sortant.
+rattachement faite par chaque élu sortant. En cas de dissolution du congrès, la
+déclaration individuelle de rattachement est faite dans les huit jours qui
+suivent la publication du décret de dissolution au Journal officiel de la
+Nouvelle-Calédonie.
 
 Les listes peuvent décider d'utiliser en commun leur temps de parole.
 
