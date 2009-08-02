@@ -11,7 +11,8 @@ oppose un refus, cette décision doit être motivée et notifiée à l'intéress
 ainsi qu'à l'autorité militaire dans les quinze jours qui suivent la réception
 de la demande.
 
-Lorsque les circonstances l'exigent, le ministre de la défense peut, par arrêté
+Lorsque les circonstances l'exigent, le ministre de la défense ou le ministre de
+l'intérieur pour les réservistes de la gendarmerie nationale peut, par arrêté
 pris dans des conditions fixées par décret en Conseil d'Etat, faire appel, sous
 un préavis de quinze jours, aux réservistes qui ont souscrit un contrat
 comportant la clause de réactivité prévue à l'article L. 4221-1. Ce délai peut

@@ -11,11 +11,12 @@ insignes de leur fonction.
 
 Il est procédé à ces sommations suivant des modalités propres à informer les
 personnes participant à l'attroupement de l'obligation de se disperser sans
-délai ; ces modalités sont précisées par décret en Conseil d'Etat, qui détermine
-également les insignes que doivent porter les personnes mentionnées à l'alinéa
-précédent.
+délai. Toutefois, les représentants de la force publique appelés en vue de
+dissiper un attroupement peuvent faire directement usage de la force si des
+violences ou voies de fait sont exercées contre eux ou s'ils ne peuvent défendre
+autrement le terrain qu'ils occupent.
 
-Toutefois, les représentants de la force publique appelés en vue de dissiper un
-attroupement peuvent faire directement usage de la force si des violences ou
-voies de fait sont exercées contre eux ou s'ils ne peuvent défendre autrement le
-terrain qu'ils occupent.
+Les modalités d'application des alinéas précédents sont précisées par décret en
+Conseil d'Etat, qui détermine également les insignes que doivent porter les
+personnes mentionnées au deuxième alinéa et les conditions d'usage des armes à
+feu pour le maintien de l'ordre public.

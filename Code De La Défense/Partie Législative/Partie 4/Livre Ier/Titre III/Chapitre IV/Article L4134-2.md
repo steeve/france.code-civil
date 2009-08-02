@@ -10,3 +10,7 @@ et l'avancement.
 L'octroi et le retrait des grades conférés à titre temporaire sont prononcés par
 arrêté du ministre de la défense, sans qu'il soit fait application des
 dispositions des articles L. 4134-1 et L. 4136-3.
+
+Pour la gendarmerie nationale, l'octroi et le retrait des grades conférés à
+titre temporaire, à l'exclusion de ceux conférés dans les cadre d'une mission
+militaire, sont prononcés par arrêté du ministre de l'intérieur.

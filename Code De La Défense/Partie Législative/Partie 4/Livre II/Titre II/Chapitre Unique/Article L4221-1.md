@@ -26,8 +26,9 @@ Cette clause est soumise à l'accord de l'employeur.
 Ces missions peuvent s'exercer en dehors du territoire national.
 
 Le volontaire peut, au titre de son engagement à servir dans la réserve
-opérationnelle, être admis à servir, par arrêté du ministre de la défense, dans
-l'intérêt de la défense et pour une durée limitée, auprès d'une administration
-de l'Etat, d'un établissement public administratif, d'un établissement public à
-caractère scientifique, culturel et professionnel ou d'une organisation
-internationale.
+opérationnelle, être admis à servir, par arrêté du ministre de la défense ou par
+arrêté du ministre de l'intérieur pour les réservistes de la gendarmerie
+nationale, dans l'intérêt de la défense et de la sécurité nationale, pour une
+durée limitée, auprès d'une administration de l'Etat, d'un établissement public
+administratif, d'un établissement public à caractère scientifique, culturel et
+professionnel ou d'une organisation internationale.

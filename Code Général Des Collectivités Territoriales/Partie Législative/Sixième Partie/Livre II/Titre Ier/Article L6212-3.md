@@ -9,8 +9,9 @@ répression des atteintes à la tranquillité publique, pour le maintien de l'or
 public et pour la police des baignades et des activités nautiques.
 
 II. - Sous réserve des dispositions du code de procédure pénale relatives à
-l'exercice de la mission de police judiciaire, le représentant de l'Etat à
-Saint-Barthélemy anime et coordonne la prévention de la délinquance et
+l'exercice de la mission de police judiciaire et des dispositions du code
+général des collectivités territoriales relatives à la prévention de la
+délinquance, le représentant de l'Etat à Saint-Barthélemy anime et coordonne
 l'ensemble du dispositif de sécurité intérieure.
 
 A cet effet, sans préjudice des missions de la gendarmerie relevant de la
@@ -19,7 +20,8 @@ l'exercice de la police judiciaire et coordonne l'action des différents service
 et forces dont dispose l'Etat en matière de sécurité intérieure.
 
 Il dirige l'action des services de la police nationale et des unités de la
-gendarmerie nationale en matière d'ordre public et de police administrative. Les
-responsables locaux des services de police et des unités de gendarmerie
-nationales lui rendent compte de l'exécution et des résultats des missions qui
-leur ont été fixées.
+gendarmerie nationale en matière d'ordre public et de police administrative.
+Dans le respect du statut militaire pour ce qui concerne la gendarmerie
+nationale, le responsable du commandement de la gendarmerie nationale et son
+équivalent pour la police nationale sont placés sous son autorité et lui rendent
+compte de l'exécution et des résultats de leurs missions en ces matières.

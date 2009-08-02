@@ -6,7 +6,7 @@ Ont la qualité d'officier de police judiciaire :
 
 2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au
 moins trois ans de service dans la gendarmerie, nominativement désignés par
-arrêté des ministres de la justice et de la défense, après avis conforme d'une
+arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une
 commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les
@@ -30,10 +30,10 @@ Les fonctionnaires mentionnés aux 2° à 4° ci-dessus ne peuvent exercer
 effectivement les attributions attachées à leur qualité d'officier de police
 judiciaire ni se prévaloir de cette qualité que s'ils sont affectés à un emploi
 comportant cet exercice et en vertu d'une décision du procureur général près la
-cour d'appel les y habilitant personnellement. L'exercice de ces attributions
-est momentanément suspendu pendant le temps où ils participent, en unité
-constituée, à une opération de maintien de l'ordre. Lorsqu'ils appartiennent à
-un service dont la compétence excède le ressort de la cour d'appel, la décision
+cour d'appel les y habilitant personnellement.L'exercice de ces attributions est
+momentanément suspendu pendant le temps où ils participent, en unité constituée,
+à une opération de maintien de l'ordre. Lorsqu'ils appartiennent à un service
+dont la compétence excède le ressort de la cour d'appel, la décision
 d'habilitation est prise par le procureur général près la cour d'appel du siège
 de leur fonction.
 

@@ -3,7 +3,8 @@ Article L1142-1
 Le ministre de la défense est responsable de la préparation et de la mise en
 œuvre de la politique de défense. Il est en particulier chargé de
 l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en
-condition d'emploi et de la mobilisation des forces armées.
+condition d'emploi et de la mobilisation des forces armées, sous réserve des
+dispositions de l'article L. 3225-1.
 
 Il a autorité sur les armées et leurs services. Il veille à ce que les armées
 disposent des moyens nécessaires à leur entretien, leur équipement et leur

@@ -10,4 +10,5 @@ dans le respect du présent livre ;
 réservistes ;
 
 3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée
-au ministère de la défense.
+au ministère de la défense et, pour les réservistes de la gendarmerie nationale,
+au ministère de l'intérieur.

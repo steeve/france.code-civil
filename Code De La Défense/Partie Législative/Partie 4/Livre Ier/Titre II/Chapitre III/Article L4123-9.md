@@ -12,7 +12,7 @@ d'une mission de police.
 
 En cas d'inaptitude physique, sur avis médical, ils peuvent faire l'objet d'un
 reclassement au sein d'un corps de fonctionnaires relevant de l'autorité du
-ministre de la défense. La titularisation est prononcée, le cas échéant, après
+ministre de l'intérieur. La titularisation est prononcée, le cas échéant, après
 avis de la commission administrative paritaire du corps d'accueil.
 
 II.-Les prescriptions de l'article L. 50 du code des pensions civiles et

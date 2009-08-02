@@ -11,18 +11,33 @@ L'âge maximal de maintien en première section est de soixante-cinq ans ;
 2° Pour les officiers des armées et formations rattachées, telles que définies
 par le tableau ci-après :
 
+OFFICIERS subalternes
 
-OFFICIERS subalternes ou dénomination correspondante
+ou dénomination
 
-COMMANDANT ou dénomination correspondante
+correspondante
 
+COMMANDANT ou dénomination
 
-LIEUTENANT-COLONEL ou dénomination correspondante
+correspondante
 
-COLONEL ou dénomination correspondante
+LIEUTENANT- colonel
 
+ou dénomination
 
-AGE MAXIMAL de maintien en première section des officiers généraux
+correspondante
+
+COLONEL ou
+
+dénomination
+
+correspondante
+
+ÂGE MAXIMAL de maintien
+
+en première section
+
+des officiers généraux
 
 Officiers des armes de l'armée de terre, officiers de marine, officiers
 spécialisés de la marine, officiers des bases et officiers mécaniciens de l'air
@@ -90,7 +105,7 @@ officiers généraux peuvent être temporairement maintenus en activité au-del�
 l'âge de soixante ans, pour une durée déterminée en fonction des emplois à
 pourvoir, sans toutefois pouvoir servir au-delà de l'âge de soixante-cinq ans.
 Dans ce cas, la limite d'âge retenue pour l'application du 1° du I de l'article
-L.14 du code des pensions civiles et militaires de retraite correspond au terme
+L. 14 du code des pensions civiles et militaires de retraite correspond au terme
 de la durée ainsi déterminée.
 
 Le chef des orchestres de la garde républicaine et le chef adjoint des
@@ -100,22 +115,27 @@ en service au-delà de la limite d'âge par périodes de deux ans renouvelables 
 3° Pour les sous-officiers des armées et des formations rattachées, telles que
 définies par le tableau ci-après :
 
+SERGENT ou dénomination
 
-SERGENT ou dénomination correspondante
+correspondante
 
-SERGENT-CHEF ou dénomination correspondante
+SERGENT-CHEF ou dénomination
 
+correspondante
 
-ADJUDANT ou dénomination correspondante
+ADJUDANT ou dénomination
 
-ADJUDANT-CHEF ou dénomination correspondante
+correspondante
+
+ADJUDANT-CHEF ou dénomination
+
+correspondante
 
 
 MAJOR
 
 Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air
-(personnel non navigant), corps de soutien technique et administratif de la
-gendarmerie nationale
+(personnel non navigant)
 
 45
 
@@ -125,10 +145,10 @@ gendarmerie nationale
 
 57
 
+Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et
+administratif de la gendarmerie nationale
 
-Sous-officiers de gendarmerie
-
-56 (y compris le garde de gendarmerie)
+56 (y compris le grade de gendarme)
 
 57
 
@@ -162,8 +182,8 @@ Les musiciens des orchestres de la garde républicaine peuvent, sur demande
 agréée, être maintenus en service au-delà de cette limite d'âge par périodes de
 deux ans renouvelables.
 
-II.-Sans préjudice des dispositions de l'article L.4132-12, les limites de durée
-de service des militaires sous contrat sont les suivantes :
+II.-Sans préjudice des dispositions de l'article L. 4132-12, les limites de
+durée de service des militaires sous contrat sont les suivantes :
 
 LIMITE DE DURÉE DES SERVICES (année)
 
@@ -196,7 +216,7 @@ Les officiers sous contrat et les militaires commissionnés atteignant leur
 limite de durée de service sont, sur leur demande, maintenus en service pour une
 durée maximum de dix trimestres et dans la limite de la durée d'assurance
 nécessaire pour obtenir le pourcentage maximum de la pension mentionné à
-l'article L.13 du code des pensions civiles et militaires de retraite.
+l'article L. 13 du code des pensions civiles et militaires de retraite.
 
 Cette prolongation de service est prise en compte au titre de la constitution et
 de la liquidation du droit à pension.

@@ -8,9 +8,10 @@ Conseil d'Etat.
 
 Le détachement est prononcé de droit, sur demande agréée ou d'office.
 
-Le détachement d'office est prononcé par le ministre de la défense après avis
-d'une commission comprenant un officier général et deux militaires de grade égal
-ou supérieur à celui des intéressés.
+Le détachement d'office est prononcé par le ministre de la défense ou, pour les
+militaires de la gendarmerie nationale, par le ministre de l'intérieur, après
+avis d'une commission comprenant un officier général et deux militaires de grade
+égal ou supérieur à celui des intéressés.
 
 Le militaire détaché est soumis à l'ensemble des règles régissant la fonction
 qu'il exerce par l'effet de son détachement, à l'exception de toute disposition
