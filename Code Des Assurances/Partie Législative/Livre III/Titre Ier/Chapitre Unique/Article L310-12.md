@@ -42,7 +42,7 @@ l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les
 conditions d'application du présent alinéa, notamment les modalités du contrôle
 préalable et les délais dans lesquels l'Autorité doit se prononcer.
 
-L'autorité peut soumettre à son contrôle toute personne physique ou morale ayant
+L'Autorité peut soumettre à son contrôle toute personne physique ou morale ayant
 reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de souscription
 ou de gestion ou souscrivant à un contrat d'assurance de groupe, ou exerçant, à
 quelque titre que ce soit, une activité d'intermédiation en assurance ou en
@@ -72,6 +72,13 @@ l'article L. 310-1, les mutuelles régies par le code de la mutualité et les
 institutions régies par le livre IX du code de la sécurité sociale ainsi que par
 les personnes physiques ou morales mentionnées au quatrième alinéa et soumises à
 son contrôle.
+
+Enfin, l'autorité peut habiliter, sur leur demande, des prestataires chargés de
+labelliser les contrats ouverts à la souscription individuelle et les règlements
+éligibles à une participation des collectivités territoriales et de leurs
+établissements publics en application de l'article 88-2 de la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique
+territoriale.
 
 Les opérations de gestion d'un régime légal d'assurance maladie et maternité, et
 d'assurance contre les accidents du travail et les maladies professionnelles,

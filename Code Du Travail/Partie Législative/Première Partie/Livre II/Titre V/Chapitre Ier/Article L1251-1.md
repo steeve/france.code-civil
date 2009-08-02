@@ -11,3 +11,6 @@ et le client utilisateur, dit " entreprise utilisatrice " ;
 
 2° D'un contrat de travail, dit " contrat de mission ", entre le salarié
 temporaire et son employeur, l'entreprise de travail temporaire.
+
+Lorsque l'utilisateur est une personne morale de droit public, le présent
+chapitre s'applique, sous réserve des dispositions prévues à la section 6.

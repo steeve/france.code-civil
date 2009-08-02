@@ -10,8 +10,8 @@ reconnaissance de ses qualifications et acquis de l'expérience professionnelle
 qui s'effectue :
 
 -pour les bénéficiaires du 1° de l'article L. 394 qui ne sont plus en activité
-et ceux relevant du 2° de l'article L. 394 et des articles L. 395 et L. 396, à
-partir d'un dossier, retraçant leurs qualifications et expériences
+et ceux relevant des 2° à 6° de l'article L. 394 et des articles L. 395 et L.
+396, à partir d'un dossier, retraçant leurs qualifications et expériences
 professionnelles, examiné par le service désigné par le ministre chargé des
 anciens combattants ;
 
