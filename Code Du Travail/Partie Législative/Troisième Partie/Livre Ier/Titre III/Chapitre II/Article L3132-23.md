@@ -5,5 +5,5 @@ plusieurs ou à la totalité des établissements de la même localité exerçant
 même activité, s'adressant à la même clientèle, une fraction d'établissement ne
 pouvant, en aucun cas, être assimilée à un établissement.
 
-Ces autorisations d'extension peuvent être toutes retirées lorsque la majorité
-des établissements intéressés le demande.
+Ces autorisations d'extension sont toutes retirées lorsque, dans la localité, la
+majorité des établissements intéressés le demande.

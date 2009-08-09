@@ -1,3 +1,3 @@
 Article L3132-3
 ----
-Le repos hebdomadaire est donné le dimanche.
+Dans l'intérêt des salariés, le repos hebdomadaire est donné le dimanche.
