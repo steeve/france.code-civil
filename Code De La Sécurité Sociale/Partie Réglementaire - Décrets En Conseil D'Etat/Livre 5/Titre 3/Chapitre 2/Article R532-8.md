@@ -1,32 +1,44 @@
 Article R532-8
 ----
-I.-Il est procédé à une évaluation forfaitaire des ressources de la personne et
-de son conjoint ou concubin, conformément au II ci-dessous, dès lors que l'un ou
-l'autre perçoit une rémunération et ne perçoit ni l'allocation mentionnée à
-l'article L. 262-3 du code de l'action sociale et des familles ni l'allocation
-mentionnée à l'article L. 821-1 du présent code :
+I. ― Il est procédé à une évaluation forfaitaire des ressources de la personne
+et de son conjoint ou concubin lorsque les conditions ci-après sont réunies :
 
-a) Lors de l'ouverture du droit, si le total des ressources de la personne ou du
-ménage perçues au titre de l'année civile de référence et appréciées selon les
-dispositions de l'article R. 532-3 sont au plus égales à 1 015 fois le salaire
-minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
+1° D'une part :
 
-b) Au premier renouvellement du droit, si les ressources lors de l'ouverture du
-droit ont été évaluées forfaitairement ;
+― soit, à l'ouverture du droit, lorsque le total des ressources de la personne
+et de son conjoint ou concubin perçu au cours de l'année civile de référence et
+apprécié selon les dispositions de l'article R. 532-3 est au plus égal à 1 015
+fois le salaire minimum de croissance horaire en vigueur au 31 décembre de cette
+année ;
 
-c) Au renouvellement du droit, au 1er janvier, sauf dans le cas visé au b
-ci-dessus, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de
-ressources appréciées conformément à l'article R. 532-3 pendant l'année civile
-de référence.
+― soit, à l'occasion du premier renouvellement du droit, lorsque les ressources
+lors de l'ouverture du droit ont déjà fait l'objet d'une évaluation forfaitaire
+;
+
+― soit, à l'occasion du renouvellement du droit autre que le premier, lorsqu'au
+cours de l'année civile de référence ni le bénéficiaire, ni son conjoint, ni son
+concubin n'a disposé de ressources appréciées selon les dispositions de
+l'article R. 532-3 ;
+
+2° D'autre part, le bénéficiaire, son conjoint ou son concubin perçoit une
+rémunération.
+
+Ces dispositions ne sont pas applicables aux personnes qui perçoivent le revenu
+de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles sans que les ressources du foyer entendues au sens de
+l'article L. 262-3 du même code excèdent le montant forfaitaire du revenu de
+solidarité active. Elles ne sont pas non plus applicables aux personnes qui
+perçoivent l'allocation mentionnée à l'article L. 821-1 du présent code.
 
 La condition relative à l'existence d'une activité professionnelle rémunérée ou,
-à la perception de l'allocation mentionnée à l'article L. 262-3 du code de
-l'action sociale et des familles ou à celle de l'allocation mentionnée à
+à la perception du revenu de solidarité active mentionné à l'article L. 262-2 du
+code de l'action sociale et des familles et au niveau de ressources du foyer au
+sens de l'article L. 262-3 du même code ou à celle de l'allocation mentionnée à
 l'article L. 821-1 du présent code est appréciée au cours du mois civil
 précédant l'ouverture du droit ou du mois de novembre précédant le
 renouvellement du droit.
 
-II.-L'évaluation forfaitaire correspond :
+II. ― L'évaluation forfaitaire correspond :
 
 a) S'il s'agit d'une personne exerçant une activité salariée à douze fois la
 rémunération mensuelle perçue par l'intéressé le mois civil précédant
@@ -41,7 +53,7 @@ qui précède l'ouverture ou le renouvellement du droit.
 Le montant des ressources ainsi déterminé est affecté de la déduction et de
 l'abattement prévus aux a et b de l'article R. 532-3.
 
-III.-Les dispositions des I et II du présent article ne sont pas applicables :
+III. ― Les dispositions des I et II du présent article ne sont pas applicables :
 
 1° Au bénéficiaire isolé âgé de moins de vingt-cinq ans, s'il exerce une
 activité professionnelle non salariée ou, s'il est salarié, s'il perçoit un
@@ -59,11 +71,11 @@ Les salaires mensuels visés aux deux alinéas précédents sont ceux du mois ci
 précédant l'ouverture du droit ou du mois de novembre précédant le
 renouvellement du droit.
 
-Les montants visés aux deuxième et troisième alinéas sont revalorisés au 1er
-janvier de chaque année, conformément à l'évolution en moyenne annuelle des prix
-à la consommation hors tabac de l'année civile précédente, par arrêté conjoint
-des ministres chargés de la sécurité sociale, du logement, du budget et de
-l'agriculture.
+Les montants mentionnés aux 1° et 2° du III sont revalorisés au 1er janvier de
+chaque année, conformément à l'évolution en moyenne annuelle de l'indice général
+des prix à la consommation des ménages hors tabac pour l'année civile précédente
+figurant dans le rapport économique, social et financier annexé au projet de loi
+de finances.
 
 La condition d'âge, visée aux deuxième et troisième alinéas, est appréciée le
 premier jour du mois de l'ouverture du droit ou le 1er janvier lors du

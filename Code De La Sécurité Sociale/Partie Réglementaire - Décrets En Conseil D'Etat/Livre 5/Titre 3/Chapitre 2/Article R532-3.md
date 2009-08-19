@@ -29,14 +29,9 @@ mentionnée au 2° de l'article L. 431-1 ;
 2° Les rémunérations mentionnées à l'article 81 quater du code général des
 impôts ;
 
-Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
-d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
-familles.
-
-Sont également exclus du décompte des ressources les arrérages des rentes
-viagères constituées en faveur d'une personne handicapée et mentionnées à
-l'article 199 septies (2°) du code général des impôts. Il en est de même pour la
-prime de retour à l'emploi.
+Sont exclus du décompte des ressources les arrérages des rentes viagères
+constituées en faveur d'une personne handicapée et mentionnées à l'article 199
+septies (2°) du code général des impôts.
 
 Il est fait abstraction des déductions opérées en vertu de l'article 156-I du
 code général des impôts au titre des reports des déficits constatés au cours

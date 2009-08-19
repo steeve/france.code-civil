@@ -28,12 +28,6 @@ l'article 83 du code général des impôts, l'indemnité journalière mentionné
 
 2° Les rémunérations mentionnées à l'article 81 quater de ce même code.
 
-Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
-d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
-familles et servie soit à l'allocataire ou à son conjoint ou concubin, soit aux
-personnes définies à l'article R. 831-5. Il en est de même pour la prime de
-retour à l'emploi.
-
 En application des dispositions de l'article L. 832-1, sont exclus également du
 décompte des ressources les arrérages des rentes viagères constituées en faveur
 d'une personne handicapée et mentionnée à l'article 199 septies du code général

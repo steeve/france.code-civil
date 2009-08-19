@@ -28,11 +28,6 @@ journalière mentionnée au 2° de l'article L. 431-1 du présent code ;
 
 2° Les rémunérations mentionnées à l'article 81 quater de ce même code ;
 
-Est toutefois exclue du décompte des ressources l'allocation mentionnée à
-l'article L. 262-3 du code de l'action sociale et des familles et servie soit à
-l'allocataire ou à son conjoint ou concubin, soit aux personnes définies à
-l'article D. 542-9. Il en est de même pour la prime de retour à l'emploi.
-
 Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
 code général des impôts au titre des reports des déficits constatés au cours
 d'une année antérieure à celle qui est prise en considération.
@@ -78,7 +73,7 @@ assujettie à l'impôt sur le revenu. Ces montants, fixés par arrêté conjoint
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, évoluent le 1er janvier de chaque année comme l'indice de
 référence des loyers défini à l' article 17 de la loi n° 89-462 du 6 juillet
-1989. Ils sont arrondis à la centaine d'euros la plus proche.
+1989 . Ils sont arrondis à la centaine d'euros la plus proche.
 
 En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
 au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
