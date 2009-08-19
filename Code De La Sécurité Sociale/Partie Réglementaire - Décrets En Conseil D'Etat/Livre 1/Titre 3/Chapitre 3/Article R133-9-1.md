@@ -31,10 +31,7 @@ des seuils, différents selon qu'il s'agit d'un professionnel de santé ou d'un
 sociale.
 
 III. - Les dispositions des articles R. 133-3, R. 133-5 à R. 133-7 sont
-applicables à la contrainte instituée par l'article L. 133-4. Toutefois, la
-contrainte peut, par dérogation à l'article R. 133-3, être soit notifiée au
-débiteur par lettre recommandée avec demande d'avis de réception, soit lui être
-signifiée par acte d'huissier.
+applicables à la contrainte instituée par l'article L. 133-4.
 
 IV. - Pour le régime social des indépendants mentionné à l'article L. 611-1,
 l'indu est recouvré par le directeur de la caisse de base selon les modalités
