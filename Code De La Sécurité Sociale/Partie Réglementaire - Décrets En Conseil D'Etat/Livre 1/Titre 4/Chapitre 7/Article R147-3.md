@@ -1,68 +1,78 @@
 Article R147-3
 ----
-Si, malgré la mise en garde mentionnée à l'article R. 147-2, des faits de même
-nature sont constatés à l'issue du délai d'un mois imparti, le directeur de
-l'organisme local d'assurance maladie adresse à la personne ou à l'établissement
-en cause la notification prévue à l'article L. 162-1-14. Cette notification
-précise les faits reprochés et le montant de la pénalité encourue et indique à
-la personne ou l'établissement en cause qu'il dispose d'un délai d'un mois à
-compter de sa réception pour demander à être entendu, s'il le souhaite, ou pour
-présenter des observations écrites.
+La commission mentionnée à l'article L. 162-1-14 est composée de cinq membres
+issus du conseil de l'organisme local d'assurance maladie compétent pour
+prononcer la pénalité et désignés par lui en tenant compte de la répartition des
+sièges entre les différentes catégories représentées en son sein.
 
-Lorsque la procédure de sanction est engagée à l'encontre d'un établissement de
-santé, le directeur de l'organisme local d'assurance maladie en informe
-préalablement la commission exécutive de l'agence régionale de
-l'hospitalisation.
+Le conseil de l'organisme local nomme cinq représentants de chaque profession de
+santé, des fournisseurs et autres prestataires de service, des laboratoires de
+biologie médicale, sur proposition de l'instance paritaire prévue par la
+convention nationale mentionnée aux articles L. 162-5, L. 162-9, L. 162-12-2, L.
+162-12-9, L. 162-14, L. 322-5, L. 322-5-2, L. 162-16-1 et L. 165-6 au niveau
+départemental, ou à défaut au niveau régional :
 
-Si, après réception des observations écrites ou après audition de la personne ou
-de l'établissement, ou à l'issue du délai d'un mois à compter de la
-notification, le directeur décide de poursuivre la procédure, il saisit la
-commission mentionnée à l'article L. 162-1-14 et lui communique, s'ils existent,
-les observations écrites de la personne ou de l'établissement en cause ou le
-procès-verbal de l'audition.
+En l'absence d'instance paritaire conventionnelle, les représentants des
+professions de santé, des laboratoires de biologie médicale, des fournisseurs et
+des autres prestataires de services sont proposés par les organisations
+syndicales représentatives. Les sièges de représentants sont attribués aux
+organisations syndicales en fonction de leurs effectifs établis par la dernière
+enquête de représentativité mentionnée à l'article L. 162-33.A défaut de
+proposition dans le mois qui suit la demande adressée aux organisations
+syndicales représentatives par le conseil de l'organisme, le préfet arrête les
+noms de ces représentants.
 
-Les informations communiquées à la commission ne doivent comporter aucune
-mention nominative ou susceptible de permettre l'identification d'une personne
-dans des conditions de nature à porter atteinte au secret médical.
+Le conseil de l'organisme local tel que défini à l'article R. 147-1 nomme cinq
+représentants des établissements de santé après avis de l'agence régionale de
+l'hospitalisation parmi les représentants dans la région des organisations
+nationales représentatives des établissements publics de santé et des
+établissements de santé privés mentionnés aux b, c et d de l'article L. 162-22-6
+sur proposition des organisations nationales représentatives de ces
+établissements.
 
-La commission désigne un rapporteur en son sein. Après que le directeur de
-l'organisme local d'assurance maladie ou son représentant a présenté ses
-observations, et après avoir entendu le rapporteur et, s'il le souhaite, la
-personne ou l'établissement en cause, la commission rend un avis motivé, portant
-notamment sur la matérialité et la gravité des faits reprochés, sur la
-responsabilité de la personne ou de l'établissement et sur le montant de la
-pénalité susceptible d'être appliquée.
+Le conseil de l'organisme local défini à l'article R. 147-1 nomme cinq
+représentants des établissements d'hébergement pour personnes âgées dépendantes
+mentionnés à l'article L. 342-1 du code de l'action sociale et des familles,
+après avis de la direction régionale des affaires sanitaires et sociales parmi
+les représentants dans la région des organisations nationales représentatives
+desdits établissements sur proposition de ces organisations.
 
-La commission doit émettre son avis dans un délai d'un mois à compter de sa
-saisine. Elle peut, si un complément d'information est nécessaire, demander au
-directeur un délai supplémentaire d'un mois. Toutefois, si la commission ne
-s'est pas prononcée au terme du délai qui lui est imparti, l'avis est réputé
-rendu.
+Les membres de la commission sont nommés pour la durée du mandat du conseil.
 
-Le directeur dispose d'un délai de quinze jours à compter de la réception de
-l'avis de la commission ou de la date à laquelle celui-ci est réputé avoir été
-rendu pour fixer, par une décision motivée, le montant définitif de la pénalité
-et le notifier à la personne ou à l'établissement en cause. A défaut, la
-procédure est réputée abandonnée.
+Ne peuvent être membres d'une commission, pour une durée de cinq ans, ni le
+demeurer, les personnes ayant fait l'objet d'une condamnation par une
+juridiction pénale ou ordinale, du prononcé d'une sanction conventionnelle ou
+d'une pénalité devenues définitives.
 
-La notification de payer visée à l'alinéa précédent est envoyée par le directeur
-de l'organisme local d'assurance maladie à la personne ou à l'établissement par
-lettre recommandée avec demande d'avis de réception.
+Le président de la commission est élu par ses membres. Les représentants des
+professionnels de santé, des établissements de santé, des établissements
+d'hébergement pour personnes âgées dépendantes, des laboratoires de biologie
+médicale, des fournisseurs et des autres prestataires de services prennent part
+à l'élection du président de la formation de la commission à laquelle ils
+participent.
 
-Elle précise la cause, la nature et le montant des sommes réclamées et mentionne
-l'existence d'un délai d'un mois à partir de sa réception, imparti au débiteur
-pour s'acquitter des sommes réclamées, ainsi que les voies et les délais de
-recours.
+Les membres de la commission ne peuvent siéger lorsqu'ils ont un intérêt
+personnel ou direct à l'affaire qui est examinée ou lorsqu'ils font l'objet
+d'une plainte déposée par un organisme d'assurance maladie, d'une action devant
+une juridiction ordinale à l'initiative d'un organisme d'assurance maladie,
+d'une procédure conventionnelle, d'une pénalité ou d'une mise sous accord
+préalable prévue aux articles L. 162-1-15 et L. 162-1-17.
 
-La mise en demeure prévue à l'article L. 162-1-14 est adressée par lettre
-recommandée avec demande d'avis de réception. Elle comporte les précisions
-relatives aux sommes réclamées mentionnées à l'alinéa précédent et indique le
-montant de la majoration de 10 % ainsi que les voies et les délais de recours.
+Des suppléants en nombre égal au nombre de titulaires sont désignés dans les
+mêmes conditions que ceux-ci. Ils siègent lorsque les membres titulaires dont
+ils sont les suppléants sont empêchés ou intéressés par une affaire.
 
-Les dispositions du III et du IV de l'article R. 133-9-1 sont applicables pour
-le recouvrement des pénalités non acquittées mentionnées à l'article L.
-162-1-14.
+Le remplacement d'un membre de la commission, en cas de cessation de fonctions
+au cours du mandat, s'effectue dans les mêmes conditions que sa nomination et
+pour la durée du mandat qui reste à courir.
 
-Lors des auditions mentionnées au présent article, la personne ou
-l'établissement en cause peut se faire assister ou se faire représenter par la
-personne de son choix.
+La commission ne peut donner son avis que si sont au moins présents :
+
+-trois de ses membres, lorsqu'elle siège sans la présence de représentants des
+professionnels de santé ou des établissements de santé ou des établissements
+d'hébergement pour personnes âgées dépendantes, ou des fournisseurs, ou des
+autres prestataires de services, ou des laboratoires de biologie médicale ;
+
+-six de ses membres, lorsque ces représentants y participent.
+
+Les membres de la commission sont soumis au secret des délibérations.

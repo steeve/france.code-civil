@@ -1,10 +1,13 @@
 Article R861-27
 ----
-Les dispositions de l'article R. 147-3, à l'exception de la première phrase du
-premier alinéa, et de l'article R. 147-4 sont applicables à la pénalité
-financière prévue à l'avant-dernier alinéa de l'article L. 162-1-14.
+Les dispositions de la section 2 et des sous-sections 1 et 2 de la section 1 du
+chapitre VII du titre IV du livre Ier sont applicables aux bénéficiaires de la
+protection complémentaire en matière de santé.
 
-Lorsque les mêmes faits commis par la même personne conduisent simultanément à
-l'attribution injustifiée de droits à l'assurance maladie et à la protection
-complémentaire en matière de santé, il ne peut être engagé qu'une seule
-procédure au titre des articles R. 147-3 et suivants.
+Les dispositions de la section 2 et des sous-sections 1, 4, 5 et 6 de la section
+1 du chapitre VII du titre IV du livre Ier sont applicables aux professionnels
+et établissements de santé, ou toute autre personne physique ou morale autorisée
+à dispenser des soins, à réaliser une prestation de service ou des analyses de
+biologie médicale ou à délivrer des produits ou dispositifs médicaux, recevant
+des bénéficiaires de la protection complémentaire en matière de santé ou leur
+servant des prestations.

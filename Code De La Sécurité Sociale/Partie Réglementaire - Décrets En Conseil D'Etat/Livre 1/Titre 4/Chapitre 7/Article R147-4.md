@@ -1,67 +1,23 @@
 Article R147-4
 ----
-La commission mentionnée à l'article R. 147-3 est composée de cinq membres issus
-du conseil de l'organisme local d'assurance maladie compétent pour prononcer la
-pénalité et désignés par lui en tenant compte de la répartition des sièges entre
-les différentes catégories représentées en son sein.
+Lorsque les faits justifiant l'engagement de la procédure de sanction sont
+relatifs à l'assurance contre les accidents du travail des personnes non
+salariées agricoles affiliées au groupement prévu à l'article L. 752-14 du code
+rural ou à l'assurance maladie de celles affiliées aux groupements institués en
+application de l'article L. 731-31 du même code, la commission mentionnée à
+l'article R. 147-4 du présent code est constituée au sein de chaque groupement
+et est composée de cinq membres du conseil d'administration de ce groupement.
 
-Le conseil de l'organisme local nomme cinq représentants de chaque profession de
-santé, des fournisseurs et autres prestataires de service, sur proposition de
-l'instance paritaire prévue par la convention nationale mentionnée aux articles
-L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 322-5, L. 322-5-2,
-L. 162-16-1 et L. 165-6 au niveau départemental, ou à défaut au niveau régional
-:
+Lorsqu'une pénalité est susceptible d'être prononcée à l'encontre d'un
+professionnel de santé, d'un fournisseur ou autre prestataire de services, ou
+d'un laboratoire de biologie médicale, cinq représentants de la même profession
+participent à la commission. Ils sont nommés par le directeur du groupement
+parmi des représentants, pour chaque profession, des organisations syndicales
+les plus représentatives.
 
-En l'absence d'instance paritaire conventionnelle, les représentants des
-professions de santé, des fournisseurs et des autres prestataires de services
-sont proposés par les organisations syndicales représentatives. Les sièges de
-représentants sont attribués aux organisations syndicales en fonction de leurs
-effectifs établis par la dernière enquête de représentativité mentionnée à
-l'article L. 162-33.A défaut de proposition dans le mois qui suit la demande
-adressée aux organisations syndicales représentatives par le conseil de
-l'organisme, le préfet arrête les noms de ces représentants.
-
-Le conseil de l'organisme local tel que défini à l'article R. 147-1 nomme cinq
-représentants des établissements de santé après avis de l'agence régionale de
-l'hospitalisation parmi les représentants dans la région des organisations
-nationales représentatives des établissements publics de santé et des
-établissements de santé privés mentionnés aux b, c et d de l'article L. 162-22-6
-sur proposition des organisations nationales représentatives de ces
-établissements.
-
-Le conseil de l'organisme local défini à l'article R. 147-1 nomme cinq
-représentants des établissements d'hébergement pour personnes âgées dépendantes
-mentionnés à l'article L. 342-1 du code de l'action sociale et des familles,
-après avis de la direction régionale des affaires sanitaires et sociales parmi
-les représentants dans la région des organisations nationales représentatives
-desdits établissements sur proposition de ces organisations.
-
-Les membres de la commission sont nommés pour la durée du mandat du conseil.
-
-Le président de la commission est élu par ses membres. Les représentants des
-professionnels de santé, des établissements de santé, des établissements
-d'hébergement pour personnes âgées dépendantes, des fournisseurs et des autres
-prestataires de services prennent part à l'élection du président de la formation
-de la commission à laquelle ils participent.
-
-Les membres de la commission ne peuvent siéger lorsqu'ils ont un intérêt
-personnel ou direct à l'affaire qui est examinée.
-
-Des suppléants en nombre égal au nombre de titulaires sont désignés dans les
-mêmes conditions que ceux-ci. Ils siègent lorsque les membres titulaires dont
-ils sont les suppléants sont empêchés ou intéressés par une affaire.
-
-Le remplacement d'un membre de la commission, en cas de cessation de fonctions
-au cours du mandat, s'effectue dans les mêmes conditions que sa nomination et
-pour la durée du mandat qui reste à courir.
-
-La commission ne peut donner son avis que si sont au moins présents :
-
--trois de ses membres, lorsqu'elle siège sans la présence de représentants des
-professionnels de santé ou des établissements de santé ou des établissements
-d'hébergement pour personnes âgées dépendantes, ou des fournisseurs, ou des
-autres prestataires de services ;
-
--six de ses membres, lorsque ces représentants y participent.
-
-Les membres de la commission sont soumis au secret des délibérations.
+Lorsqu'une pénalité est envisagée à l'encontre d'un établissement de santé, cinq
+représentants des établissements de santé participent à la commission. Ils sont
+nommés par le directeur du groupement parmi les organisations nationales
+représentatives des établissements publics de santé et des établissements de
+santé privés mentionnés aux b, c et d de l'article L. 162-22-6, sur proposition
+de ces organisations.

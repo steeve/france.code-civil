@@ -1,22 +1,22 @@
 Article R147-5
 ----
-Lorsque les faits justifiant l'engagement de la procédure de sanction sont
-relatifs à l'assurance contre les accidents du travail des personnes non
-salariées agricoles affiliées au groupement prévu à l'article L. 752-14 du code
-rural ou à l'assurance maladie de celles affiliées aux groupements institués en
-application de l'article L. 731-31 du même code, la commission mentionnée à
-l'article R. 147-4 du présent code est constituée au sein de chaque groupement
-et est composée de cinq membres du conseil d'administration de ce groupement.
+I.-Sous réserve de dispositions particulières prévues aux sous-sections
+suivantes ainsi qu'à la section 2 du présent chapitre, les pénalités financières
+se cumulent entre elles. Toutefois, sous la même réserve, lorsqu'un même fait ou
+un même comportement peut relever simultanément de plusieurs des cas mentionnés
+au présent chapitre, seule la pénalité la plus élevée est encourue.
 
-Lorsqu'une pénalité est susceptible d'être prononcée à l'encontre d'un
-professionnel de santé, d'un fournisseur ou autre prestataire de services, cinq
-représentants de la même profession participent à la commission. Ils sont nommés
-par le directeur du groupement parmi des représentants, pour chaque profession,
-des organisations syndicales les plus représentatives.
+II.-Les sommes prises en compte pour le calcul des pénalités sont les sommes
+indûment présentées au remboursement ou indûment prises en charge par un
+organisme d'assurance maladie ainsi que, le cas échéant, par l'un des organismes
+mentionnés à l'article L. 861-4 ou par l'Etat, s'agissant des prestations
+servies au titre de la protection complémentaire en matière de santé ou de
+l'aide médicale de l'Etat.L'organisme d'assurance maladie prononce la pénalité
+et en conserve le montant.
 
-Lorsqu'une pénalité est envisagée à l'encontre d'un établissement de santé, cinq
-représentants des établissements de santé participent à la commission. Ils sont
-nommés par le directeur du groupement parmi les organisations nationales
-représentatives des établissements publics de santé et des établissements de
-santé privés mentionnés aux b, c et d de l'article L. 162-22-6, sur proposition
-de ces organisations.
+III.-Les taux, plafonds et montants maximaux de pénalités précisés au présent
+chapitre sont doublés pour des faits identiques ayant déjà fait l'objet d'une
+pénalité ou d'un avertissement notifié par un directeur d'organisme local
+d'assurance maladie quel qu'il soit au cours des trois années précédant la date
+de la notification des faits reprochés, mentionnée au premier alinéa de
+l'article R. 147-2.

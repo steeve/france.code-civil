@@ -1,24 +1,17 @@
 Article R147-7
 ----
-La pénalité est fixée, en fonction de la gravité des faits reprochés, à un
-montant :
+Peuvent faire l'objet d'une pénalité les employeurs :
 
-a) Compris entre 75 et 500 euros lorsque le montant présenté indûment au
-remboursement ou mis indûment à la charge de l'assurance maladie est compris
-entre 0 et 500 euros ;
+1° Qui portent des indications erronées sur les attestations mentionnées aux
+articles R. 323-10 et R. 441-4, ayant pour conséquence la majoration du montant
+des indemnités journalières servies ;
 
-b) Compris entre 125 et 1 000 euros lorsque le montant présenté indûment au
-remboursement ou mis indûment à la charge de l'assurance maladie est compris
-entre 500 et 2 000 euros ;
+2° Dont la responsabilité a été reconnue dans le bénéfice irrégulier par un
+assuré d'indemnités journalières ;
 
-c) Compris entre 500 euros et deux fois le plafond de la sécurité sociale en
-vigueur à la date des faits lorsque le montant présenté indûment au
-remboursement ou mis indûment à la charge de l'assurance maladie est supérieur à
-2 000 euros ;
+3° Qui n'ont pas procédé à la déclaration d'accident du travail prévue à
+l'article L. 441-2 selon les modalités prévues aux articles R. 441-1, R. 441-2
+et R. 441-4 ;
 
-d) Une pénalité financière proportionnelle aux dépassements sur les actes pour
-lesquels le tact et la mesure n'ont pas été respectés pour les cas mentionnés au
-k du 3° de l'article R. 147-6, dans la limite de deux fois le montant de ces
-dépassements.
-
-Ce montant est doublé en cas de récidive.
+4° Qui n'ont pas respecté l'obligation de remise de la feuille d'accident prévue
+à l'article L. 441-5.
