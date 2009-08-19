@@ -12,11 +12,12 @@ cas où le logement occupé est une chambre, de la composition familiale.
 La participation personnelle est la somme d'une participation minimale et du
 résultat de l'application d'un taux de participation aux ressources du
 bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
-montant fixé forfaitairement. Ce forfait est calculé dans les conditions fixées
-par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture sur la base du montant mensuel du revenu minimum
-d'insertion, fixé en application de l'article L. 262-2 du code de l'action
-sociale et des familles.
+montant fixé forfaitairement. Ce forfait est calculé par référence, d'une part,
+au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles et, d'autre part, aux bases de calcul mentionnées à
+l'article L. 551-1 du présent code, selon des pourcentages fixés par arrêté
+conjoint des ministres chargés du logement, du budget, de la sécurité sociale et
+de l'agriculture.
 
 Dans le cas du calcul de l'allocation de logement des colocataires, le loyer
 principal retenu représente le quotient du loyer effectivement payé par le
@@ -36,9 +37,11 @@ Le taux de participation susvisé est obtenu par l'addition :
 -d'un second taux qui croît quand le loyer augmente dans la limite d'un plafond
 ; il est obtenu par l'application de taux croissants à des tranches successives
 de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence
-fixé en fonction de la composition familiale. ; II.-Pour les accédants à la
-propriété ainsi que pour les étudiants logés en résidence universitaire, le
-montant de l'allocation de logement est obtenu par l'application de la formule :
+fixé en fonction de la composition familiale. ;
+
+II.-Pour les accédants à la propriété ainsi que pour les étudiants logés en
+résidence universitaire, le montant de l'allocation de logement est obtenu par
+l'application de la formule :
 
 AL égal K (L + C-Lo)
 
@@ -47,7 +50,13 @@ Dans laquelle :
 1°) AL représente le montant de l'allocation de logement ;
 
 2°) K représente le coefficient de prise en charge déterminé, pour chaque
-intervalle de ressources de 100 Euros, par la formule : R K = 0,9-21 420,91 x N
+intervalle de ressources de 100 euros, par la formule :
+
+
+R
+
+K = 0, 9-21 420, 91 x N
+
 dans laquelle :
 
 R représente la limite supérieure de l'intervalle dans lequel se situent les
@@ -76,33 +85,33 @@ de ressources de 100 Euros. Il est obtenu par l'application, à la limite
 supérieure de l'intervalle dans lequel se situent les ressources du foyer, de
 pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 1 423,03 Euros ;
+0 % pour la tranche de ressources inférieure ou égale à 1 423, 03 euros ;
 
-2,4 % pour la tranche de ressources comprise entre 1 423,03 Euros et 2 047,61
-Euros ;
+2, 4 % pour la tranche de ressources comprise entre 1 423, 03 euros et 2 047, 61
+euros ;
 
-20,8 % pour la tranche de ressources comprise entre 2 047,61 Euros et 2 629,85
-Euros ;
+20, 8 % pour la tranche de ressources comprise entre 2 047, 61 euros et 2 629,
+85 euros ;
 
-23,2 % pour la tranche de ressources comprise entre 2 629,85 Euros et 4 095,05
-Euros ;
+23, 2 % pour la tranche de ressources comprise entre 2 629, 85 euros et 4 095,
+05 euros ;
 
-32,8 % pour la tranche de ressources supérieure à 4 095,05 Euros.
+32, 8 % pour la tranche de ressources supérieure à 4 095, 05 euros.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients (ou nombre de parts) ci-après :
 
-1,5 pour un ménage sans enfant ;
+1, 5 pour un ménage sans enfant ;
 
-2,5 pour un ménage ou une personne avec un enfant ou personne à charge ;
+2, 5 pour un ménage ou une personne avec un enfant ou personne à charge ;
 
 3 pour un ménage ou une personne avec deux enfants ou personnes à charge ;
 
-3,7 pour un ménage ou une personne avec trois enfants ou personnes à charge ;
+3, 7 pour un ménage ou une personne avec trois enfants ou personnes à charge ;
 
-4,3 pour un ménage ou une personne avec quatre enfants ou personnes à charge.
+4, 3 pour un ménage ou une personne avec quatre enfants ou personnes à charge.
 
-Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge
+Ce dernier coefficient est majoré de 0, 5 par enfant ou par personne à charge
 supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 76,32 euros.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 76, 32 euros.
