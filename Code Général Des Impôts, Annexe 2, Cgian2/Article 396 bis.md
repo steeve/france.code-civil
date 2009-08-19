@@ -40,7 +40,8 @@ b. Désignation du comptable public requérant ;
 c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement
 principal ou du siège du redevable ;
 
-d. Montant des sommes dues au Trésor au dernier jour du semestre civil précédant
+d. Montant des sommes dues au Trésor au dernier jour de la période de neuf mois
+prévue au 4 de l'article 1929 quater du code général des impôts précédant
 l'inscription.
 
 Le comptable avise le contribuable qu'il a requis une inscription à son

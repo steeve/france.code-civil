@@ -13,6 +13,9 @@ déposées dans des magasins agréés par l'Etat et faisant l'objet d'un warrant
 endossé à l'ordre du Trésor, par des affectations hypothécaires, par des
 nantissements de fonds de commerce.
 
-Si le comptable estime ne pas pouvoir accepter les garanties offertes par le
-contribuable parce qu'elles ne répondent pas aux conditions prévues au deuxième
-alinéa, il lui notifie sa décision par lettre recommandée.
+Si le comptable estime ne pas pouvoir accepter les garanties offertes à sa
+demande ou spontanément par le contribuable parce qu'elles ne répondent pas aux
+conditions prévues au deuxième alinéa, il lui notifie sa décision par par pli
+recommandé avec demande d'avis de réception postal dans un délai de
+quarante-cinq jours à compter du dépôt de l'offre. A défaut de réponse par le
+comptable dans ce délai, les garanties offertes sont réputées acceptées.
