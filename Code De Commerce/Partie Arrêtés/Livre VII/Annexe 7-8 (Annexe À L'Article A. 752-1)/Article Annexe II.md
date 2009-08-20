@@ -1,127 +1,121 @@
 Article Annexe II
 ----
-RENSEIGNEMENTS ÉCONOMIQUES
+AMÉNAGEMENT DU TERRITOIRE, QUALITÉ DE L'URBANISME ET DÉVELOPPEMENT DURABLE
 
-I. ― Le marché concerné
+I. - Zone de chalandise
 
-1. Zone de chalandise.
+1. 1. Population totale de la zone de chalandise :
 
-Population totale de la zone de chalandise et évolution entre les deux derniers
-recensements généraux (population sans double compte).
+- population du recensement général de 1999 (population sans double compte) ;
 
-Liste exhaustive des communes comprises dans la zone de chalandise avec
-répartition par sous-zone en fonction des taux d'emprise envisagés, et
-indication, pour chaque commune, de la population (sans double compte) dénombrée
-lors des deux derniers recensements généraux.
+- population légale municipale de 2006 ;
 
-Production d'une carte faisant apparaître les limites de la zone de chalandise
-et le découpage par sous-zone.
+- dernière population authentifiée par décret.
 
-Justification de ces délimitations (temps d'accès au site, barrières
-géographiques ou psychologiques, concurrence...).
+Taux d'évolution entre ces différentes populations.
 
-Justification des chiffres avancés lorsqu'il est fait état dans la zone de
+1. 2. Liste exhaustive des communes comprises dans la zone de chalandise et
+indication, pour chaque commune :
+
+- population du recensement général de 1999 (population sans double compte) ;
+
+- population légale municipale de 2006 ;
+
+- dernière population authentifiée par décret.
+
+Taux d'évolution entre ces différentes populations.
+
+1. 3. Justification de ces délimitations au regard du deuxième alinéa du I de
+l'article R. 752-8 du code de commerce.
+
+1. 4. Justification des chiffres avancés lorsqu'il est fait état dans la zone de
 chalandise d'une fréquentation touristique (sources statistiques, études...).
 
-2. Evaluation du marché de cette zone.
+1. 5. Justification de la délimitation des sous-zones établies en fonction des
+modes de transport utilisés pour l'accès au projet.
 
-Indication du marché théorique global, avec répartition par sous-zone, pour
-chacune des activités envisagées dans le projet.
+II. - Présentation du projet
 
-Ce marché théorique est calculé à partir des dépenses commercialisables des
-habitants de la zone de chalandise.
+au regard de l'aménagement du territoire
 
-Pour les projets concernant des magasins généralistes à dominante alimentaire,
-sont évalués séparément le marché alimentaire et le marché non alimentaire.
+1. Dans l'environnement proche du projet (sur une distance d'environ 1 kilomètre
+à partir de celui-ci) :
 
-II. ― L'offre commerciale existante
+Description de l'environnement du projet, appuyée d'une carte ou d'un schéma,
+faisant apparaître :
 
-1. Equipement en moyennes et grandes surfaces.
+- la localisation des activités commerciales (pôles commerciaux et rues
+commerçantes, halles et marchés) ;
 
-Recensement des magasins de plus de 300 m² de surface de vente implantés dans la
-zone de chalandise :
+- la localisation des autres activités (agricoles, industrielles ou tertiaires)
+;
 
-― pour les projets concernant un magasin non spécialisé, ce recensement porte
-sur l'ensemble des magasins généralistes (hypermarchés, supermarchés, grands
-magasins, magasins populaires) et sur les magasins spécialisés susceptibles
-d'être concurrencés par le projet ;
+- la localisation des équipements publics ;
 
-― pour les projets concernant un magasin spécialisé, ce recensement porte sur
-l'ensemble des magasins spécialisés susceptibles d'être concurrencés par le
-projet et sur les magasins généralistes disposant d'un rayon de même nature.
+- la localisation des zones d'habitat (en précisant sa nature : collectif ou
+individuel, social) ;
 
-Les recensements demandés sont présentés par sous-zone et par commune, en
-précisant l'enseigne des magasins et leur surface de vente.
+- la desserte actuelle et future (routière, transports collectifs, cycliste,
+piétonne).
 
-2. Artisanat et petit commerce.
+Seront signalés le cas échéant :
 
-Evaluation du nombre de magasins de moins de 300 m² de surface de vente dans la
-zone de chalandise pour chacune des activités concernées par le projet : cette
-évaluation est présentée par sous-zone et par commune.
+- les opérations d'urbanisme ;
 
-Une carte est fournie faisant apparaître la localisation des commerces situés à
-environ cinq minutes de trajet-voiture du projet.
+- les programmes de logement ;
 
-3. Marchés.
+- les zones de redynamisation urbaine et les zones franches ;
 
-Recensement des marchés se tenant au moins une fois par semaine dans la zone de
-chalandise ; ce recensement n'est requis que lorsque le projet est susceptible
-de concurrencer des commerces présents sur ces marchés.
+- les disponibilités foncières connues.
 
-4. Installations de distribution de carburants.
+2. Au sein de la zone de chalandise :
 
-Pour les projets portant sur une installation de distribution de carburants :
-recensement par sous-zone et par commune des installations existantes, en
-précisant sur quel axe routier elles sont situées et, s'il y a lieu, à quel
-magasin elles sont annexées.
+Description de l'environnement du projet, appuyée d'une carte ou d'un schéma,
+faisant apparaître les lieux exerçant une attraction significative sur la
+population de la zone de chalandise, notamment :
 
-5. Equipements commerciaux hors de la zone de chalandise.
+- la localisation des principaux pôles d'activités commerciales ;
 
-Recensement des principaux magasins exerçant une attraction sur la population de
-la zone de chalandise, en indiquant leur enseigne et leur activité, leur surface
-de vente et la durée du trajet-voiture par rapport au site du projet.
+- la localisation des autres pôles majeurs d'activité (agricoles, industrielles
+ou tertiaires) ;
 
-III. ― Effets attendus
+- les équipements publics ou privés majeurs ;
 
-de la réalisation du projet
+- la localisation des principales zones d'habitat (en précisant sa nature :
+collectif ou individuel, social) ;
 
-1. Emprise sur le marché.
+- la desserte actuelle et future (routière, transports collectifs, cycliste,
+piétonne).
 
-Indication des taux d'emprise prévus sur le marché de chacune des sous-zones ;
-pour les magasins généralistes à dominante alimentaire, sont précisés les taux
-d'emprise sur le marché alimentaire.
+3. Hors de la zone de chalandise :
 
-2. Chiffres d'affaires.
+Description et localisation, à partir d'un document cartographique, des
+principaux pôles commerciaux.
 
-2.1. Projets portant sur la création de magasins (y compris les installations de
-distribution de carburants) ou le changement de secteur d'activité de magasins
-existants :
+III. - Présentation des effets du projet
 
-― chiffres d'affaires prévisionnels (TTC), pour les trois premiers exercices, de
-chacun des magasins créés.
+1. Sur l'animation de la vie urbaine, rurale et de montagne.
 
-Pour les magasins dont la surface de vente est inférieure ou égale à 300 m²,
-peut être seulement indiqué leur chiffre d'affaires global.
+2. Sur les flux de déplacement (tous modes de transport), notamment sur la
+limitation des déplacements motorisés des consommateurs.
 
-Pour les magasins à prédominance alimentaire d'une surface de vente supérieure à
-300 m², est également indiquée la part de chiffre d'affaires des rayons
-alimentaires.
+3. Sur les projets d'aménagement et d'urbanisme de la zone de chalandise.
 
-2.2. Projets portant sur l'extension de magasins :
+IV. - Présentation du projet et de ses effets, au regard du développement
+durable et de la préservation de l'environnement, sur
 
-― chiffres d'affaires (TTC) des trois derniers exercices connus ;
+1. La réduction des pollutions associées à l'activité.
 
-― chiffres d'affaires prévisionnels (TTC) pour les trois premiers exercices à
-compter de la réalisation du projet ;
+2. La mise en œuvre de solutions végétales ou de maîtrise des consommations
+énergétiques.
 
-Ces informations sont à fournir pour chacun des magasins à étendre, quelle qu'en
-soit la surface.
+3.L'inscription harmonieuse dans le paysage ou dans un projet urbain.
 
-Pour les magasins à prédominance alimentaire, est également indiquée la part de
-chiffre d'affaires des rayons alimentaires et le chiffre d'affaires résultant de
-la vente de carburants.
+4. Le traitement de friches commerciales ou industrielles.
 
-2.3. Pour les projets portant sur la création ou l'extension de magasins de plus
-de 300 m², sont indiqués les chiffres d'affaires réalisés par les magasins de
-taille comparable à celle du projet et exploités sous la même enseigne (le cas
-échéant, sur un échantillon significatif seulement).
+5. Un éventuel site Natura 2000.
+
+6. Des protections particulières au titre de la biodiversité (arrêté de
+protection de biotope).
+
+7. Sa situation en termes de risques naturels, technologiques ou miniers.

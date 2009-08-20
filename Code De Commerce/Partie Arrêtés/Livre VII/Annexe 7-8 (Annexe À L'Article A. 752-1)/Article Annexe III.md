@@ -1,168 +1,430 @@
 Article Annexe III
 ----
-ÉTUDE D'IMPACT
+FICHE TECHNIQUE D'EXAMEN D'UN PROJET SOUMIS À AUTORISATION EN MATIÈRE
+D'AMÉNAGEMENT COMMERCIAL
 
-Il s'agit de l'étude prévue à l'article R. 752-9, destinée à permettre à la
-commission d'apprécier l'impact prévisible du projet au regard des critères
-prévus par les articles L. 752-6 à L. 752-9 et justifiant du respect des
-principes posés par l'article L. 750-1.
 
-En sont dispensés les projets ne conduisant pas à une surface de vente totale
-supérieure à 1 000 m ².
+Identification du projet
 
-I. ― Aménagement du territoire, protection de l'environnement et qualité de
-l'urbanisme
+N° (réservé à l'administration)
 
-1. Impact du projet sur son environnement proche.
+Catégorie de projet (article L. 752-1 du code de commerce)
 
-1. 1. Description de l'environnement du projet sur une distance d'environ 1 km à
-partir de celui-ci.
 
-Cette description, appuyée d'une carte ou d'un schéma, fait apparaître :
+Description sommaire du projet
 
-― les activités commerciales (sont notamment signalés les magasins de plus de
-300 m ² avec indication de leur enseigne) ; dans le cas de projets envisagés
-dans ou à proximité d'une zone commerciale, un plan de l'ensemble de celle-ci
-est fourni ;
+Adresse du projet
 
-― les autres activités (agricoles, industrielles ou tertiaires) ;
+Date de création, si le magasin existe déjà
 
-― les équipements publics ;
+Surfaces de vente avant projet, par secteur d'activité :
 
-― l'habitat (en précisant sa nature : collectif ou individuel, social) ;
+Commerce(s) à dominante alimentaire: m2
 
-― la desserte (routière, transports collectifs).
+Autre(s) commerce(s) : m2
 
-Sont signalés le cas échéant :
+Surfaces de vente après projet, par secteur d'activité :
 
-― les opérations d'urbanisme ;
+Commerce(s) à dominante alimentaire : m2
 
-― les programmes de logement ;
+Autre(s) commerce(s) : m2
 
-― les zones de redynamisation urbaine et les zones franches.
+Historique des autorisations ou avis précédents :
 
-1. 2. Analyse des effets du projet :
+Décisions ou avis (CDEC, CDAC, CNEC ou CNAC; autorisation ou refus (mentions
+selon le cas))
 
-― sur le cadre de vie : desserte commerciale, traitement paysager,
-urbanistique... ;
+Maîtrise foncière du projet (avec identification des références cadastrales)
 
-― sur l'animation de la vie urbaine et rurale ;
 
-― sur la fréquentation des commerces environnants.
+Identité du demandeur
 
-Sont en outre fournis :
+Personne physique : nom, prénom, adresse (postale, électronique), n° de
+téléphone, n° de télécopie
 
-― un plan indicatif des façades ou des photographies pour les magasins existants
-;
+Personne morale : raison sociale, forme juridique, adresse (postale,
+électronique), n° de téléphone, n° de télécopie
 
-― des photographies ou documents graphiques permettant de situer le projet dans
-le paysage.
 
-2. Impact sur l'aménagement du territoire.
+Présentation sommaire de la zone de chalandise
 
-2. 1. Description de la situation du projet par rapport aux différents pôles
-commerciaux de la zone de chalandise.
+Description sommaire de la zone de chalandise (temps de transport maximum et
+barrières naturelles ou psychologiques, logiciel utilisé)
 
-Pour les projets dont l'influence s'exerce sur une agglomération, sont fournies
-:
+Estimation du pourcentage de la population de la zone de chalandise susceptible
+d'accéder au
 
-― une carte de l'agglomération (ou de la partie de celle-ci devant subir l'effet
-du projet) faisant apparaître les grandes zones d'habitation, les axes de
-circulation et les pôles commerciaux ;
+site du projet
 
-― une description précise de ces pôles commerciaux, y compris du centre-ville
-(activités représentées, enseignes principales), accompagnée d'une analyse de
-leurs atouts et faiblesses et d'une estimation de leur poids économique
-respectif ;
+- à pied ;
 
-― l'indication des temps de trajet-voiture entre ces différents pôles et le site
-du projet.
+- en transports en commun.
 
-2. 2. Analyse de l'impact prévisible du projet sur la fréquentation de
-l'appareil commercial et, le cas échéant, sur l'équilibre de l'agglomération
-concernée.
+***
 
-Est notamment envisagé, le cas échéant, l'impact du projet sur le commerce des
-centres-villes, des zones rurales et de montagne et des quartiers d'habitat
-social ou des zones de redynamisation urbaine.
 
-II. ― Modernisation et adaptation des équipements commerciaux et amélioration
-des conditions de travail
+Situation du projet
 
-1. Aménagements ou travaux prévus, ou déjà réalisés, pour la modernisation du ou
-des magasins concernés.
+Positionnement général
 
-2. Equipements et services mis à la disposition de la clientèle :
 
-― sur les parcs de stationnement et espaces de circulation ;
+Oui
 
-― à l'intérieur des magasins.
+Non
 
-3. Particularités éventuelles des techniques de commercialisation utilisées,
-notamment en termes de surfaces et d'effectifs nécessaires.
 
-4. Aménagements et mesures destinés à l'amélioration des conditions de travail
-des salariés : locaux destinés au personnel, organisation du travail,
-aménagement du temps de travail, formation.
+Sans objet
 
-Lorsque le demandeur est une entreprise dont l'effectif habituel est au moins de
-trois cents salariés, un exemplaire du dernier bilan social établi en
-application de l'article L. 2323-68 du code du travail est fourni.
+Observations
 
-Si le projet porte sur l'extension d'un établissement dont l'effectif habituel
-est au moins de trois cents salariés, est fourni à la place le bilan social de
-l'établissement.
+Positionnement dans un secteur aggloméré d'un bourg, d'une ville ou d'une
+agglomération
 
-III. ― Emploi
+Positionnement en entrée de ville ou en entrée de bourg.
 
-1. Indication du nombre d'emplois (salariés et non salariés) qui seraient créés
-dans le ou les magasins concernés grâce à la réalisation du projet.
 
-Pour chacun des magasins de plus de 300 m ², sont précisés les grands types de
-qualification (cadres, agents de maîtrise, employés...), les types de contrats
-envisagés (contrats à durée déterminée ou à durée indéterminée ; contrats à
-temps plein ou à temps partiel ; contrats d'alternance...) et le nom de
-l'employeur.
+Positionnement en centre-ville ou en centre-bourg
 
-2. Evaluation des emplois éventuellement induits par la réalisation du projet
-auprès d'entreprises sous-traitantes.
+Positionnement au sein d'un quartier d'habitation peu équipé en commerces
 
-3. Lorsque le projet porte sur l'extension de magasins existants :
+Positionnement par rapport aux constructions prévues, en cours de réalisation ou
+existantes
 
-― description de l'effectif existant (en précisant également les types de
-qualification et de contrat) ;
 
-― évolution globale de l'effectif au cours des cinq dernières années : cette
-évolution est présentée sous la forme d'un tableau mettant en concordance la
-surface exploitée et l'effectif ;
+Oui
 
-― pour les établissements de plus de 50 salariés, fournir une copie de la
-dernière déclaration mensuelle des mouvements de main-d'œuvre.
+Non
 
-4. Pour les projets portant sur la création ou l'extension de magasins de plus
-de 300 m ², sont indiqués :
 
-― le nombre total d'établissements exploités sous la même enseigne ;
+Sans objet
 
-― les effectifs des magasins de taille comparable exploités sous cette enseigne
-(le cas échéant, sur un échantillon significatif) ;
+Observations
 
-― le chiffre d'affaires moyen réalisé par salarié dans ces magasins.
+Positionnement au sein d'une zone commerciale existante
 
-5. Fournir une évaluation de la part respective du chiffre d'affaires résultant
-de la réalisation du projet :
+Positionnement au sein d'une zone commerciale nouvelle ou en cours de
+réalisation
 
-― prélevée sur les autres moyennes ou grandes surfaces implantées dans la zone ;
+Positionnement au sein d'une zone commerciale à créer
 
-― prélevée sur le commerce et l'artisanat traditionnel de la zone ;
+Positionnement au sein d'une zone d'habitation existante
 
-― prélevée sur l'évasion commerciale.
+Positionnement au sein d'une zone d'habitation nouvelle ou en cours de
+réalisation
 
-En relation avec cette évaluation et avec les indications fournies au titre de
-l'annexe II, estimation du nombre d'emplois, salariés et non salariés,
-susceptibles d'être supprimés à la suite de la réalisation du projet.
+Positionnement au sein d'une zone d'habitation à créer
 
-6. Solde des emplois créés et des emplois susceptibles d'être supprimés.
+Positionnement au sein d'une zone urbanisée existante
 
-L'ensemble des informations sur les effectifs requises au titre du III sont en
-outre traduites en équivalent temps plein.
+Positionnement au sein d'une zone urbanisée nouvelle ou en cours de réalisation
+
+Positionnement au sein d'une zone urbanisée à créer
+
+
+Positionnement par rapport aux disponibilités foncières
+
+Oui
+
+
+Non
+
+Sans objet
+
+
+Observations
+
+Utilisation d'une offre foncière proche du centre-ville
+
+
+Utilisation d une offre foncière proche de la clientèle
+
+Impossibilité d'accès à une offre foncière proche du centre ville
+
+***
+
+Examen au regard des critères de l'article L. 752-6 et des précisions exigées
+par l'article R. 752-7 du code de commerce
+
+Complémentarité avec les autres activités, les offres de service public et les
+équipements publics
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+Existence d'un lien piétonnier avec d'autres principaux lieux d'activité
+
+Existence d'un lien piétonnier avec des commerces de proximité
+
+Existence d'un lien piétonnier avec d'autres commerces
+
+Existence d'un lien piétonnier avec les principaux lieux de vie (cinémas... )
+
+Existence d'un lien piétonnier avec les services de proximité (coiffeur...)
+
+Existence d'un lien piétonnier avec les services publics (la Poste, école... )
+
+Facilités d'accès aux halles et marchés depuis le magasin
+
+
+Rééquilibrage au profit du centre-ville
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente
+(clientèle à pied)
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente clientèle
+en transports en commun
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente
+(clientèle motorisée)
+
+Renforcement commercial au bénéfice d'un quartier de la politique de la ville
+
+Renforcement commercial d'une zone de montagne
+
+Renforcement commercial d'une zone rurale
+
+Renforcement d'un petit regroupement commercial (1 à 5 magasins)
+
+Renforcement d'une petite rue commerçante (5 à 10 magasins)
+
+Renforcement d'une rue ou d'un quartier à vocation commerçante (+ de 10
+magasins)
+
+Renforcement d'un pôle commerçant majeur en centre-ville (+ de 50 magasins)
+
+
+Maîtrise ou limitation des flux de transport motorisés
+
+Oui
+
+
+Non
+
+Sans objet
+
+
+Observations
+
+Dimensionnement suffisant des voies d'accès clientèle
+
+Dimensionnement suffisant des voies d'accès livraisons
+
+
+Emplacements de stationnement pour handicapés en nombre suffisant
+
+Existence d'un lien en transports en commun (TC) avec d'autres commerces
+
+Existence d'un lien en TC avec d'autres principaux lieux d'activité
+
+Existence d'un lien en TC avec les principaux lieux de vie (cinémas... )
+
+Existence d'un lien en TC avec les services de proximité (coiffeur... )
+
+Existence d'un lien en TC avec les services publics (la Poste, école... )
+
+
+Nombre de places de stationnement en adéquation avec les flux probables de
+véhicules
+
+Mesures tendant à réduire les déplacements motorisés des consommateurs
+
+Mesures de sécurisation des voies d'accès clientèle
+
+Mesures de sécurisation des voies d'accès livraisons
+
+Réduction des pollutions associées à l'activité
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+
+Dispositif de traitement des eaux pluviales bâtiments
+
+Dispositif de traitement des eaux pluviales stationnement
+
+
+Dispositif performant de traitement des déchets et effluents
+
+Mesures permettant la maîtrise, pour l'environnement
+
+immédiat, des nuisances sonores, olfactives, visuelles ou lumineuses du projet
+
+Modalités structurelles d'approvisionnement préservant l'environnement
+(véhicules propres, approvisionnement en transports en commun...)
+
+Maîtrise des consommations d'énergie
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+Projet d'un dispositif d'économie d'énergie performant (chauffage ou
+climatisation)
+
+Projet d'un dispositif d'économie d'énergie performant (éclairage)
+
+Projet d'une installation intégrée de production d'énergie renouvelable
+
+Mise en œuvre d'un accompagnement végétal
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+Compensation de l'imperméabilisation de l'emprise des bâtiments
+
+Compensation de l'imperméabilisation des places de stationnement
+
+
+Emplacements de stationnement végétalisés
+
+Plantation sur le site d'arbres de haute tige
+
+
+Inscription dans un projet urbain ou paysager
+
+Oui
+
+
+Non
+
+Sans objet
+
+
+Observations
+
+Contribution à une restructuration urbaine
+
+
+Emplacements de stationnement intégrés dans les bâtiments
+
+Réhabilitation de friche commerciale ou industrielle
+
+Réhabilitation lourde d'un bâtiment commercial
+
+
+Complémentarité avec les plans locaux de prévention
+
+Oui
+
+
+Non
+
+Sans objet
+
+
+Observations
+
+Compatibilité avec les risques industriels identifiés et les mesures de
+prévention correspondantes
+
+
+Compatibilité avec les risques naturels identifiés et les mesures de prévention
+correspondantes
+
+Maîtrise des externalités du projet
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+
+Nécessité de réalisation de travaux publics pour les accès
+
+- la prise en charge de ces travaux a été vérifiée auprès des élus ou des
+services techniques concernés
+
+- le demandeur prend en charge ces travaux
+
+
+Nécessité de réalisation de travaux publics pour la préservation du paysage
+
+- la prise en charge de ces travaux a été vérifiée auprès des élus ou des
+services techniques concernés
+
+- le demandeur prend en charge ces travaux
+
+
+Financement assuré des éventuels autres aménagements publics nécessaires
+
+la prise en charge de ces travaux a été vérifiée auprès des élus ou des services
+techniques concernés
+
+Respect des règles locales d'urbanisme et des projets publics d'aménagement
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+
+Respect des orientations fixées par le SCoT
+
+- ce point a été vérifié auprès des élus ou des services techniques concernés
+
+Localisation dans une zone du PLU ou du POS en vigueur acceptant l'activité
+concernée
+
+- ce point a été vérifié auprès des élus ou des services techniques concernés
+
+Vérification préalable auprès des principaux élus locaux concernés de la
+cohérence du projet avec leurs éventuels projets d'aménagements publics
+
+***
+
+Autres informations (facultatives)
+
+
+Oui
+
+Non
+
+
+Sans objet
+
+Observations
+
+Existence d'une information préalable sur le projet dispensée aux principaux
+élus locaux concernés de
+
+la zone de chalandise
+
+Existence d'une étude indépendante confirmant les indications de la présente
+fiche
