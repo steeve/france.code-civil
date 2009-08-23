@@ -12,4 +12,5 @@ licencie ; 5° L'ordonnancement des recettes et des dépenses ; 6° La passation
 tous actes, baux, contrats ou marchés ; 7° La représentation de l'établissement
 en justice et dans les actes de la vie civile ; 8° Le secrétariat du conseil
 d'administration ; 9° L'élaboration du règlement intérieur du conseil
-d'administration.
+d'administration. Le directeur peut déléguer sa signature pour accomplir en son
+nom des actes relatifs à certaines de ses attributions.
