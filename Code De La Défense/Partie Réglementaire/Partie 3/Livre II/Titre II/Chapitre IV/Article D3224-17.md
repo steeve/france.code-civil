@@ -9,3 +9,7 @@ lesquels sont assurés des services de la circulation aérienne. En cas d'absenc
 ou d'empêchement du directeur de la circulation aérienne militaire, cette
 délégation de signature peut être accordée au directeur adjoint de la
 circulation aérienne militaire.
+
+En cas d'absence ou d'empêchement du directeur de la circulation aérienne
+militaire et du directeur adjoint de la circulation aérienne militaire, cette
+délégation peut être accordée à l'officier chargé de l'espace aérien.
