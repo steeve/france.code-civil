@@ -25,18 +25,9 @@ Conseils comportant 60 conseillers et plus
 
 Conseils de Bobigny, Lyon, Marseille et Nanterre
 
-48 heures par mois
+60 heures par mois
 
 
 Conseil de Paris
 
 72 heures par mois
-
-Les présidents et vice-présidents des sections des activités diverses, du
-commerce et des services commerciaux, de l'encadrement et de l'industrie du
-conseil de prud'hommes de Paris peuvent être indemnisés pour le temps consacré à
-leurs activités administratives dans la limite de 52 heures par mois.
-
-Les présidents et vice-présidents des mêmes sections des conseils de prud'hommes
-de Bobigny, Lyon, Marseille et Nanterre peuvent être indemnisés pour le temps
-consacré à leurs activités administratives dans la limite de 60 heures par an.
