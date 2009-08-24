@@ -15,4 +15,6 @@ social est l'exercice en commun de l'une des professions suivantes :
 
 5° Orthoptiste ;
 
-6° Diététicien.
+6° Diététicien ;
+
+7° Psychomotricien.
