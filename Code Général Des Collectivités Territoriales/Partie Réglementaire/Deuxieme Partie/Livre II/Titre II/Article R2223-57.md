@@ -7,7 +7,9 @@ l'association ou de l'établissement, sa forme juridique, son activité, son si�
 ainsi que l'état civil, le domicile et la qualité du représentant légal et du
 responsable de l'établissement et, le cas échéant, un extrait du registre du
 commerce et des sociétés ou du répertoire des métiers, si l'entreprise y est
-immatriculée ;
+immatriculée, ou lorsque le demandeur sollicite l'application de l'article L.
+2223-47, une attestation certifiant qu'il remplit la condition prévue au 1° de
+cet article ;
 
 2° La liste des activités exploitées par la régie, l'entreprise, l'association
 ou l'établissement pour lesquelles l'habilitation est sollicitée ;
@@ -18,7 +20,10 @@ impositions de toute nature et les cotisations sociales ;
 
 4° Les attestations justifiant que le dirigeant et les agents de la régie, de
 l'entreprise, de l'association ou de l'établissement répondent aux conditions
-minimales de capacité professionnelle fixées par le 2° de l'article L. 2223-23 ;
+minimales de capacité professionnelle fixées par le 2° de l'article L. 2223-23
+ou aux conditions d'exercice professionnel, d'expérience professionnelle, de
+formation préalable ou de qualifications professionnelles fixées par les
+articles L. 2223-47 à L. 2223-51 ;
 
 5° L'état à jour du personnel employé par la régie, l'entreprise, l'association
 ou l'établissement.
