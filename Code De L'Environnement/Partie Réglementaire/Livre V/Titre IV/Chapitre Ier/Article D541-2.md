@@ -1,58 +1,63 @@
 Article D541-2
 ----
-I.-Le Conseil national des déchets comprend 33 membres, soit :
+I. - Le Conseil national des déchets comprend 38 membres répartis en 5 collèges
+:
 
-1° Au titre de l'Etat :
+1° Collège de l'Etat :
 
--huit représentants, désignés sur proposition des ministres chargés
-respectivement de l'environnement, du budget, de la justice, de l'intérieur, de
-l'agriculture, de la santé, de la consommation et de l'industrie ;
+- deux représentants du ministre chargé de l'environnement ;
 
--un représentant du service de l'observation et des statistiques du ministère
-chargé de l'environnement, au titre du service compétent pour le recueil,
-l'élaboration et la diffusion de l'information environnementale ;
+- six représentants, désignés sur proposition des ministres chargés
+respectivement du budget, de l'intérieur, de l'agriculture, de la santé, de la
+consommation et de l'industrie.
 
-2° Au titre des établissements publics :
+Les représentants du collège de l'Etat assistent aux délibérations du Conseil
+national des déchets avec voix consultative.
 
--un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie
-(ADEME) ;
+2° Collège des élus locaux :
 
-3° Au titre des élus locaux :
+- deux représentants désignés par l'Association des maires de France (AMF) ;
 
--deux représentants, désignés par l'Association des maires de France (AMF) ;
+- un représentant désigné par l'Assemblée des communautés de France (AdCF) ;
 
--un représentant, désigné par l'Association des grandes villes de France (AGVF)
+- un représentant désigné par l'Association des maires de grandes villes de
+France (AMGVF) ;
+
+- un représentant désigné par l'Association des petites villes de France (APVF)
 ;
 
--un représentant, désigné par l'Association des petites villes de France (APVF)
-;
+- un représentant désigné par l'Association des régions de France (ARF) ;
 
--un représentant, désigné par l'Association des présidents de conseils régionaux
-(APCR) ;
+- deux représentants désignés par l'Assemblée des départements de France (ADF).
 
--un représentant, désigné par l'Association des départements de France (ADF) ;
+3° Collège des associations :
 
-4° Au titre des professionnels :
+- trois représentants d'associations nationales de consommateurs et d'usagers
+sur proposition du collège des consommateurs et des usagers du Conseil national
+de la consommation ;
 
--trois représentants des professionnels du traitement des déchets ;
+- cinq représentants d'associations agréées de protection de l'environnement.
 
--trois représentants des producteurs de déchets ;
+4° Collège des professionnels :
 
-5° Au titre des associations de consommateurs :
+- trois représentants des professionnels du secteur traitement et recyclage des
+déchets ;
 
--trois représentants d'associations nationales de consommateurs et d'usagers sur
-proposition du collège des consommateurs et des usagers du Conseil national de
-la consommation ;
+- trois représentants des producteurs et distributeurs ;
 
-6° Au titre des associations de protection de l'environnement :
+- un représentant de la Fédération nationale des syndicats d'exploitations
+agricoles ;
 
--trois représentants d'associations agréées de protection de l'environnement ;
+- deux représentants des organismes agréés pour l'élimination des déchets issus
+de certains produits.
 
-7° Au titre des experts permanents :
+5° Collège des salariés :
 
--deux représentants des sociétés agréées en matière de déchets d'emballages ;
+- cinq représentants.
 
--trois personnalités désignées en raison de leur compétence.
+II. - Sept personnalités qualifiées, dont une représentant l'Agence de
+l'environnement et de la maîtrise de l'énergie, assistent aux délibérations du
+Conseil national des déchets avec voix consultative.
 
-II.-Les membres du conseil et leurs suppléants sont nommés par arrêté du
-ministre chargé de l'environnement.
+III. - Les membres du conseil, leurs suppléants et les personnalités qualifiées
+sont nommés par arrêté du ministre chargé de l'environnement.
