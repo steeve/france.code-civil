@@ -1,22 +1,26 @@
 Article R423-9
 ----
-Le permis de chasser est délivré par le préfet du département où la personne qui
-en fait la demande est domiciliée. La décision du préfet doit intervenir dans un
-délai d'un mois à compter du dépôt de la demande. Le silence gardé par le préfet
-au-delà de ce délai vaut rejet implicite de la demande.
+Le permis de chasser est délivré par le directeur général de l'Office national
+de la chasse et de la faune sauvage.
 
-Le permis de chasser est délivré aux personnes circulant sur le territoire
-français sans domicile ni résidence fixes par le préfet du département où est
-située la commune à laquelle elles sont rattachées.
+Il est remis sans délai à l'issue des épreuves pratiques à toute personne reçue
+aux épreuves de l'examen du permis de chasser, par l'agent de l'Office national
+de la chasse et de la faune sauvage en ayant assuré le contrôle et la notation,
+sous réserve qu'elle ne se trouve pas dans l'un des cas énumérés aux articles L.
+423-11 et L. 423-25 et l'atteste par une déclaration sur l'honneur.
 
-Sans préjudice des dispositions de l'article L. 423-21, le permis de chasser est
-délivré aux non-résidents, français ou étrangers, par le préfet du département
-où les demandeurs ont subi avec succès les épreuves de l'examen prévu à
-l'article L. 423-5.
+Toutefois, en cas d'impossibilité matérielle, l'agent de l'office remet au
+candidat un certificat provisoire, qui, sous réserve pour son titulaire de
+satisfaire aux obligations prévues par les articles L. 423-12 à L. 423-16, vaut
+permis de chasser s'il est présenté avec une pièce d'identité avec photographie,
+pendant une durée de deux mois à compter de la date de réussite aux épreuves
+pratiques de l'examen du permis de chasser.
 
-La délivrance du permis de chasser est subordonnée à la présentation d'un
-certificat attestant que le demandeur a subi avec succès l'examen prévu à
-l'article L. 423-5.
+Dans ce délai, le directeur général de l'Office national de la chasse et de la
+faune sauvage adresse le permis de chasser au bénéficiaire, à son domicile, ou,
+lorsque cette personne circule sur le territoire français sans domicile ni
+résidence fixes, à la mairie de la commune à laquelle est rattaché l'intéressé.
 
-Un duplicata du permis de chasser peut être obtenu auprès du préfet du
-département où a été délivré le permis initial.
+Le candidat auquel il n'est pas délivré de permis de chasser au motif qu'il se
+trouve dans l'un des cas énumérés aux articles L. 423-11 et L. 423-25 a droit au
+remboursement du droit de timbre prévu par l'article L. 423-10.

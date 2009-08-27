@@ -1,9 +1,5 @@
 Article R423-11
 ----
-Le droit de timbre prévu pour la délivrance du permis de chasser (original ou
-duplicata) est acquitté sur état au moyen de formules sans valeur fiscale
-revêtues de la mention " Droit de timbre payé sur état ".
-
-Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou,
-le cas échéant, des sous-préfectures, et à Paris, par la régie de recettes de la
-préfecture de police.
+Le droit de timbre prévu à l'article L. 423-10 pour la délivrance du permis de
+chasser est recouvré par l'agent comptable de l'Office national de la chasse et
+de la faune sauvage et est reversé à l'Etat.

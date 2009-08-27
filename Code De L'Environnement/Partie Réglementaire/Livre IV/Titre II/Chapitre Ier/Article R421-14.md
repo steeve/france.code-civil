@@ -1,7 +1,7 @@
 Article R421-14
 ----
 Le directeur général de l'Office national de la chasse et de la faune sauvage
-dirige l'établissement et assure le fonctionnement de l'ensemble des services. A
+dirige l'établissement et assure le fonctionnement de l'ensemble des services.A
 ce titre, il a autorité sur l'ensemble du personnel. Il recrute et gère le
 personnel contractuel.
 
@@ -20,6 +20,9 @@ leur exécution.
 Il représente l'office en justice et dans tous les actes de la vie civile. Il
 décide des actions en justice tant en demande qu'en défense, dont il rend compte
 au conseil d'administration.
+
+Il délivre les permis de chasser et les autorisations de chasser accompagné au
+nom de l'office.
 
 Le directeur général de l'Office national de la chasse et de la faune sauvage
 peut déléguer sa signature à des agents placés sous son autorité dans les
