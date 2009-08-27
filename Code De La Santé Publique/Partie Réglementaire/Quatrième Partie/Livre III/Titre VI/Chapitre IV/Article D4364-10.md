@@ -3,7 +3,7 @@ Article D4364-10
 Peuvent exercer la profession d'orthopédiste-orthésiste :
 
 1° Les personnes titulaires du diplôme d'Etat français d'orthopédiste-orthésiste
-mentionné à l'article D. 4364-7.
+mentionné à l'article D. 4364-7 ;
 
 2° Par dérogation aux dispositions de l'alinéa précédent, les personnes non
 titulaires du diplôme d'Etat français prévu à l'article D. 4364-7 mais dont la
