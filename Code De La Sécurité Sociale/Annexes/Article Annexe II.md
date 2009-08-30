@@ -105,7 +105,7 @@ Nancy
 Nancy
 
 Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions
-d'organismes sous le contrôle de la DRASS et du SRITEPSA d'Alsace.
+d'organismes sous le contrôle du SRITEPSA d'Alsace.
 
 
 Rennes
@@ -155,8 +155,8 @@ Colmar
 
 Strasbourg
 
-Bas-Rhin, Haut-Rhin et Moselle, pour les décisions des organismes sous le
-contrôle de la DRASS et du SRITEPSA d'Alsace.
+Bas-Rhin, Haut-Rhin et Moselle, pour les décisions d'organismes sous le contrôle
+du SRITEPSA d'Alsace.
 
 
 Toulouse
