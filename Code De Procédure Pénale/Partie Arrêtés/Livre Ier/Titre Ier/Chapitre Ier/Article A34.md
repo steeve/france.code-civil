@@ -30,11 +30,17 @@ régionaux et antennes de police judiciaire et les directions régionales de
 police judiciaire ainsi que leurs services départementaux et antennes de police
 judiciaire ;
 
--la direction des renseignements généraux de la préfecture de police ;
+-la direction de la préfecture de police chargée du maintien de l'ordre public
+et de la régulation de la circulation ;
+
+-la direction de la préfecture de police chargée des missions de sécurité et de
+paix publiques, ainsi que ses sûretés territoriales et ses circonscriptions de
+sécurité de proximité ;
 
 -l'inspection générale des services de la préfecture de police ;
 
--la direction de la logistique de la préfecture de police ;
+-la direction opérationnelle des services techniques et logistiques de la
+préfecture de police ;
 
 -les circonscriptions de sécurité publique visées à l'article R. 15-19 (7°) ;
 
@@ -45,7 +51,4 @@ département :
 
 -les sûretés départementales ;
 
--les circonscriptions de sécurité publique ;
-
--à Paris, la direction de la police urbaine de proximité et la direction de
-l'ordre public et de la circulation de la préfecture de police.
+-les circonscriptions de sécurité publique.
