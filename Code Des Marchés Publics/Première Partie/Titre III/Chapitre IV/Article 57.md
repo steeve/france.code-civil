@@ -19,7 +19,7 @@ c) Il contient les mêmes renseignements que ceux qui figurent dans l'avis
 d'appel public à la concurrence, pour autant que ces renseignements soient
 disponibles au moment de l'envoi de l'avis de préinformation.
 
-3° (alinéa abrogé) ;
+3° (Alinéa abrogé).
 
 4° Les délais mentionnés aux 1° et 2° peuvent être réduits de sept jours lorsque
 l'avis d'appel public à la concurrence est envoyé par voie électronique.
@@ -57,3 +57,8 @@ V.-Les dossiers des candidats sont transmis par tout moyen permettant de
 déterminer de façon certaine la date et l'heure de leur réception et d'en
 garantir la confidentialité. Ils comportent une enveloppe comprenant les
 documents relatifs à la candidature et à l'offre.
+
+Pour les marchés allotis, les candidats peuvent soit présenter un seul
+exemplaire des documents relatifs à leur candidature et scinder lot par lot les
+éléments relatifs à leurs offres, soit présenter pour chacun des lots les
+éléments relatifs à leurs candidatures et à leurs offres.

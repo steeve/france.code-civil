@@ -20,12 +20,14 @@ du montant total du marché ;
 l'article 87 est réduite, pour le titulaire, au montant correspondant aux
 prestations lui incombant.
 
-Une avance est versée, sur leur demande, aux sous-traitants bénéficiaires du
+Dès lors que le titulaire remplit les conditions pour bénéficier d'une avance,
+une avance est versée, sur leur demande, aux sous-traitants bénéficiaires du
 paiement direct.
 
-Les limites fixées à l'article 87 sont appréciées par référence au montant des
-prestations confiées au sous-traitant tel qu'il figure dans le marché ou dans
-l'acte spécial mentionné au 2° de l'article 114.
+Pour le calcul du montant de cette avance, les limites fixées à l'article 87
+sont appréciées par référence au montant des prestations confiées au
+sous-traitant tel qu'il figure dans le marché ou dans l'acte spécial mentionné
+au 2° de l'article 114.
 
 Le droit du sous-traitant à une avance est ouvert dès la notification du marché
 ou de l'acte spécial par le pouvoir adjudicateur.

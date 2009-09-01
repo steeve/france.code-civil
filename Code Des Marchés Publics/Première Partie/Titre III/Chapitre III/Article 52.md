@@ -1,11 +1,13 @@
 Article 52
 ----
-I. - Avant de procéder à l'examen des candidatures, le pouvoir adjudicateur qui
+I.-Avant de procéder à l'examen des candidatures, le pouvoir adjudicateur qui
 constate que des pièces dont la production était réclamée sont absentes ou
 incomplètes peut demander à tous les candidats concernés de compléter leur
 dossier de candidature dans un délai identique pour tous et qui ne saurait être
-supérieur à dix jours. Il en informe les autres candidats qui ont la possibilité
-de compléter leur candidature dans le même délai.
+supérieur à dix jours. Il peut demander aux candidats n'ayant pas justifié de la
+capacité juridique leur permettant de déposer leur candidature de régulariser
+leur dossier dans les mêmes conditions. Il en informe les autres candidats qui
+ont la possibilité de compléter leur candidature dans le même délai.
 
 Les candidats qui ne peuvent soumissionner à un marché en application des
 dispositions de l'article 43 ou qui, le cas échéant après mise en oeuvre des
@@ -29,7 +31,7 @@ L'appréciation des capacités professionnelles, techniques et financières d'un
 groupement est globale. Il n'est pas exigé que chaque membre du groupement ait
 la totalité des compétences techniques requises pour l'exécution du marché.
 
-II. - Lorsque le pouvoir adjudicateur décide de limiter le nombre des candidats
+II.-Lorsque le pouvoir adjudicateur décide de limiter le nombre des candidats
 admis à présenter une offre, il procède à la sélection de ces candidats en
 appliquant aux candidatures retenues conformément au I des critères de sélection
 non discriminatoires et liés à l'objet du marché relatifs à leurs capacités

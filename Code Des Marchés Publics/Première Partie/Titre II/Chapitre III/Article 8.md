@@ -103,8 +103,11 @@ groupement, pour ce qui le concerne, s'assurant de sa bonne exécution ;
 2° Soit de signer le marché ou l'accord-cadre, de le notifier et de l'exécuter
 au nom de l'ensemble des membres du groupement.
 
-Dans ces deux cas, la convention constitutive du groupement peut prévoir que la
-commission d'appel d'offres est celle du coordonnateur.
+Dans ces deux cas, lorsqu'il est instauré une commission d'appel d'offres, la
+convention constitutive peut prévoir qu'il s'agit de celle du coordonnateur.
 
-Si le coordonnateur ne dispose pas d'une commission d'appel d'offres, il en
-constitue une pour les besoins de fonctionnement du groupement.
+Lorsqu'une collectivité territoriale ou un établissement public local autre
+qu'un établissement public de santé ou un établissement public social ou
+médico-social participe au groupement et que le coordonnateur ne dispose pas
+d'une commission d'appel d'offres, il en constitue une pour les besoins du
+fonctionnement du groupement.

@@ -21,14 +21,14 @@ c) Il contient les mêmes renseignements que ceux qui figurent dans l'avis
 d'appel public à la concurrence, pour autant que ces renseignements soient
 disponibles au moment de l'envoi de l'avis périodique indicatif.
 
-3° (alinéa abrogé) ;
+3° (Alinéa abrogé).
 
-4° (alinéa abrogé) ;
+4° (Alinéa abrogé).
 
 5° Les délais mentionnés aux 1° et 2° peuvent être réduits de sept jours lorsque
 l'avis d'appel public à la concurrence est envoyé par voie électronique.
 
-6° le délai mentionné au 1° peut être réduit de cinq jours lorsque l'entité
+6° Le délai mentionné au 1° peut être réduit de cinq jours lorsque l'entité
 adjudicatrice offre, par voie électronique et à compter de la publication de
 l'avis d'appel public à la concurrence, un accès libre, direct et complet aux
 documents de la consultation en indiquant dans le texte de l'avis l'adresse
@@ -59,5 +59,10 @@ Les candidats sont informés du nouveau délai ainsi fixé.
 
 VI.-Les dossiers des candidats sont transmis par tout moyen permettant de
 déterminer de façon certaine la date et l'heure de leur réception et d'en
-garantir la confidentialité. Ils doivent comporter une enveloppe contenant les
-renseignements relatifs à la candidature et une enveloppe contenant l'offre.
+garantir la confidentialité. Ils comportent une enveloppe comprenant les
+documents relatifs à la candidature et à l'offre.
+
+Pour les marchés allotis, les candidats peuvent soit présenter un seul
+exemplaire des documents relatifs à leur candidature et scinder lot par lot les
+éléments relatifs à leurs offres, soit présenter pour chacun des lots les
+éléments relatifs à leurs candidatures et à leurs offres.

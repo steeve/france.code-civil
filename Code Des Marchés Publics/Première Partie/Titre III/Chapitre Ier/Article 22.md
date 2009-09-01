@@ -41,11 +41,6 @@ délibérante de l'établissement ou du syndicat ;
 de l'établissement ou son représentant, président, et de deux à quatre membres
 de l'organe délibérant, désignés par celui-ci.
 
-Outre le directeur ou son représentant, président, chaque commission comporte
-obligatoirement au moins un membre désigné par le conseil d'administration en
-son sein ou parmi des personnalités qualifiées proposées par le directeur.
-Chaque commission comporte un nombre impair de membres.
-
 II. - Dans tous les cas énumérés ci-dessus, il est procédé, selon les mêmes
 modalités, à la désignation ou à l'élection de suppléants en nombre égal à celui
 des membres titulaires. Cette règle ne s'applique pas aux établissements publics

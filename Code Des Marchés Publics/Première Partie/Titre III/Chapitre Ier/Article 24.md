@@ -16,11 +16,11 @@ l'autorité du préfet, par le préfet ;
 iii) En ce qui concerne les établissements publics de l'Etat, par les règles
 propres à chaque établissement.
 
-Un représentant de la direction générale de la concurrence, de la consommation
-et de la répression des fraudes est membre du jury avec voix consultative.
-
-b) Pour les collectivités territoriales, les membres du jury sont désignés dans
-les conditions prévues aux I, II et III de l'article 22.
+b) Pour les collectivités territoriales et les établissements publics locaux,
+les membres du jury sont désignés dans les conditions prévues aux I, II et III
+de l'article 22. Pour les établissements publics de santé et les établissements
+publics sociaux et médico-sociaux, ils sont désignés selon les règles propres à
+chaque établissement.
 
 c) Pour les groupements de commandes mentionnés à l'article 8, les membres du
 jury sont les membres de la commission d'appel d'offres prévue au III de

@@ -2,7 +2,9 @@ Article 77
 ----
 I. - Un marché à bons de commande est un marché conclu avec un ou plusieurs
 opérateurs économiques et exécuté au fur et à mesure de l'émission de bons de
-commande.
+commande. Lorsqu'un marché à bons de commande est attribué à plusieurs
+opérateurs économiques, ceux-ci sont au moins au nombre de trois, sous réserve
+d'un nombre suffisant de candidats et d'offres.
 
 Dans ce marché le pouvoir adjudicateur a la faculté de prévoir un minimum et un
 maximum en valeur ou en quantité, ou un minimum, ou un maximum, ou encore être
