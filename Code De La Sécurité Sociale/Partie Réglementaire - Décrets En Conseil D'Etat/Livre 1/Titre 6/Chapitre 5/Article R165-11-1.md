@@ -1,12 +1,13 @@
 Article R165-11-1
 ----
-L'avis rendu par la commission d'évaluation des produits et prestations en vue
-d'un renouvellement de l'inscription comporte notamment :
+L'avis rendu par la Commission nationale d'évaluation des dispositifs médicaux
+et des technologies de santé en vue d'un renouvellement de l'inscription
+comporte notamment :
 
 1° L'appréciation du bien-fondé, au regard du service rendu du produit ou de la
 prestation, du renouvellement de l'inscription sur la liste prévue à l'article
 L. 165-1. Cette évaluation conduit à considérer le service rendu comme suffisant
-ou insuffisant pour justifier le renouvellement de l'inscription. L'avis porte
+ou insuffisant pour justifier le renouvellement de l'inscription.L'avis porte
 sur chacune des indications admises au remboursement et précise les seules
 indications pour lesquelles la commission estime fondé le renouvellement de
 l'inscription ;

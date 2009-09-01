@@ -1,7 +1,8 @@
 Article R5212-7
 ----
-La Commission nationale des dispositifs médicaux siège auprès de l'Agence
-française de sécurité sanitaire des produits de santé et a pour mission :
+La Commission nationale de sécurité sanitaire des dispositifs médicaux siège
+auprès de l'Agence française de sécurité sanitaire des produits de santé et a
+pour mission :
 
 1° De participer à l'évaluation des informations sur les incidents et risques
 d'incidents mettant en cause des dispositifs médicaux ;
@@ -22,3 +23,6 @@ dispositifs ainsi que sur la détermination des normes qui s'y appliquent ;
 
 4° De proposer au directeur général de l'agence tous travaux et enquêtes qu'elle
 estime utiles au maintien de la sécurité sanitaire des dispositifs médicaux.
+
+Le ministre chargé de la santé peut demander l'avis de la commission sur toute
+question relevant de sa compétence.

@@ -2,19 +2,20 @@ Article R5212-8
 ----
 La commission comprend :
 
-1° Cinq membres de droit :
+1° Six membres de droit :
 
-a) Le directeur général de la santé ou son représentant ;
+a) Le directeur général de la santé ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+b) Le directeur de l'hospitalisation et de l'organisation des soins ;
 
-c) Le président de l'Etablissement français du sang ou son représentant ;
+c) Le président de l'Etablissement français du sang ;
 
 d) Le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ou son représentant ;
+de santé ;
 
-e) Le directeur général de l'Agence de la biomédecine ou son représentant ;
+e) Le directeur général de l'Agence de la biomédecine ;
+
+f) Le président du collège de la Haute Autorité de santé ;
 
 2° Vingt-trois membres nommés par le ministre chargé de la santé pour une durée
 de trois ans renouvelable :
@@ -40,8 +41,8 @@ f) Deux représentants des fabricants de dispositifs médicaux ;
 
 g) un représentant des distributeurs de dispositifs médicaux.
 
-Les personnes mentionnées aux d, e, f et g du 2° du présent article participent
-aux délibérations de la commission avec voix consultative.
+Les personnes mentionnées au f du 1° et aux d, e, f et g du 2° du présent
+article participent aux travaux de la commission avec voix consultative.
 
 Vingt-trois suppléants sont désignés dans les mêmes conditions que les membres
 titulaires qu'ils remplacent en cas d'empêchement. Ils leur succèdent, s'il se

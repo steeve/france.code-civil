@@ -14,14 +14,15 @@ prix est publié au Journal officiel.
 
 Les fabricants et les distributeurs, ou leurs représentants, peuvent, au plus
 tard 180 jours avant l'expiration de la validité d'inscription de la description
-générique qui les concerne, adresser à la commission d'évaluation des produits
-et prestations toutes données qu'ils jugent utiles de prendre en compte pour
-l'instruction du renouvellement de l'inscription et au comité économique des
-produits de santé toutes données qu'ils jugent utiles de prendre en compte pour
-la fixation du tarif et, le cas échéant, du prix.
+générique qui les concerne, adresser à la Commission nationale d'évaluation des
+dispositifs médicaux et des technologies de santé toutes données qu'ils jugent
+utiles de prendre en compte pour l'instruction du renouvellement de
+l'inscription et au comité économique des produits de santé toutes données
+qu'ils jugent utiles de prendre en compte pour la fixation du tarif et, le cas
+échéant, du prix.
 
-Par dérogation à l'article R. 165-6, la commission d'évaluation des produits et
-prestations peut proposer aux ministres chargés de la sécurité sociale et de la
-santé le renouvellement d'office de l'inscription de certaines descriptions
-génériques sur la liste des produits et prestations mentionnée à l'article L.
-165-1.
+Par dérogation à l'article R. 165-6, la Commission nationale d'évaluation des
+dispositifs médicaux et des technologies de santé peut proposer aux ministres
+chargés de la sécurité sociale et de la santé le renouvellement d'office de
+l'inscription de certaines descriptions génériques sur la liste des produits et
+prestations mentionnée à l'article L. 165-1.

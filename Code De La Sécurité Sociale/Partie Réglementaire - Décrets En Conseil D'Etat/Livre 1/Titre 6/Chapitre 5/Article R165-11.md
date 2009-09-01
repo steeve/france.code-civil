@@ -1,8 +1,8 @@
 Article R165-11
 ----
-L'avis rendu par la commission d'évaluation des produits et prestations, en vue
-d'une inscription ou d'une modification des conditions d'inscription, comporte
-notamment :
+L'avis rendu par la Commission nationale d'évaluation des dispositifs médicaux
+et des technologies de santé, en vue d'une inscription ou d'une modification des
+conditions d'inscription, comporte notamment :
 
 1° La description du produit ou de la prestation ;
 

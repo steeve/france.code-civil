@@ -1,11 +1,12 @@
 Article R165-22
 ----
-La commission d'évaluation des produits et prestations établit et diffuse, à son
-initiative ou à la demande du ministre chargé de la santé, du ministre chargé de
-la sécurité sociale, du collège de la Haute Autorité de santé, du comité
-économique des produits de santé, de l'Union nationale des caisses d'assurance
-maladie ou de l'Union nationale des organismes d'assurance maladie
-complémentaire, notamment les documents suivants :
+La Commission nationale d'évaluation des dispositifs médicaux et des
+technologies de santé établit et diffuse, à son initiative ou à la demande du
+ministre chargé de la santé, du ministre chargé de la sécurité sociale, du
+collège de la Haute Autorité de santé, du comité économique des produits de
+santé, de l'Union nationale des caisses d'assurance maladie ou de l'Union
+nationale des organismes d'assurance maladie complémentaire, notamment les
+documents suivants :
 
 1° Les documents d'information à l'usage des praticiens portant sur l'évaluation
 d'un produit ou d'une prestation ou sur la comparaison des produits ou

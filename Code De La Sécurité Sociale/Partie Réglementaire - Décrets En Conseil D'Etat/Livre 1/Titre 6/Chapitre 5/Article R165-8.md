@@ -10,8 +10,8 @@ distributeur. Elles sont publiées au Journal officiel.
 Toutefois, si les éléments d'appréciation communiqués par le fabricant ou le
 distributeur sont insuffisants, le ministre chargé de la sécurité sociale, le
 ministre chargé de la santé, le comité économique des produits de santé ou la
-commission d'évaluation des produits et prestations notifie immédiatement au
-demandeur les renseignements complémentaires détaillés qui sont exigés. Dans ce
-cas, le délai mentionné au premier alinéa est suspendu à compter de la date de
-réception de cette notification et jusqu'à la date de réception des informations
-demandées.
+Commission nationale d'évaluation des dispositifs médicaux et des technologies
+de santé notifie immédiatement au demandeur les renseignements complémentaires
+détaillés qui sont exigés. Dans ce cas, le délai mentionné au premier alinéa est
+suspendu à compter de la date de réception de cette notification et jusqu'à la
+date de réception des informations demandées.

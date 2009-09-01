@@ -27,5 +27,5 @@ Journal officiel.
 
 Le fabricant ou le distributeur peut présenter des observations écrites, dans le
 délai de trente jours suivant la réception ou la publication de l'information,
-ou demander dans le même délai à être entendu par la commission d'évaluation des
-produits et prestations.
+ou demander dans le même délai à être entendu par la Commission nationale
+d'évaluation des dispositifs médicaux et des technologies de santé.

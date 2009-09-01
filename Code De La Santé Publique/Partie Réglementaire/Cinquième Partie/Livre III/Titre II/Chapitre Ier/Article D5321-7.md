@@ -9,8 +9,7 @@ dispositions de la présente section sont :
 
 3° La commission de cosmétologie ;
 
-4° La commission d'évaluation des produits et prestations prévue à l'article L.
-165-1 du code de la sécurité sociale ;
+4° Abrogé ;
 
 5° La commission mentionnée à l'article L. 1261-2 ;
 
@@ -20,7 +19,7 @@ dispositions de la présente section sont :
 
 8° La Commission nationale d'hémovigilance ;
 
-9° La Commission nationale des dispositifs médicaux ;
+9° La Commission nationale de sécurité sanitaire des dispositifs médicaux ;
 
 10° La Commission nationale de la pharmacopée ;
 

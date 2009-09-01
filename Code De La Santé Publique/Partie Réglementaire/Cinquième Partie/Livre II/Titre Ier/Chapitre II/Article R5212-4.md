@@ -6,8 +6,8 @@ Le système national de matériovigilance comprend :
 
 a) L'Agence française de sécurité sanitaire des produits de santé ;
 
-b) La Commission nationale des dispositifs médicaux prévue à l'article R. 5212-7
-;
+b) La Commission nationale de sécurité sanitaire des dispositifs médicaux prévue
+à l'article R. 5212-7 ;
 
 2° A l'échelon local :
 

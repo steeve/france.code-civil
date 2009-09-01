@@ -7,8 +7,8 @@ prescription d'un auxiliaire médical dans les conditions prévues aux articles 
 publique, que s'ils figurent sur une liste établie par arrêté du ministre chargé
 de la sécurité sociale et du ministre chargé de la santé après avis de la
 commission spécialisée de la Haute Autorité de santé mentionnée à l'article L.
-165-1 du présent code et dénommée " commission d'évaluation des produits et
-prestations ".
+165-1 du présent code et dénommée " Commission nationale d'évaluation des
+dispositifs médicaux et des technologies de santé ".
 
 Peuvent également être remboursés par l'assurance maladie les verres correcteurs
 et, le cas échéant, les montures correspondantes, inscrits sur la liste prévue à
@@ -34,7 +34,7 @@ charge est limitée à une ou plusieurs indications, d'une clause prévoyant qu'
 ne sont remboursés ou pris en charge que selon une procédure fixée par un arrêté
 du ministre chargé de la sécurité sociale. Dans ce cas, est annexée à l'arrêté
 d'inscription du dispositif sur la liste une fiche d'information thérapeutique
-établie par la commission d'évaluation des produits et prestations. Cette fiche
-rappelle, d'une part, les indications prises en charge, d'autre part, les
-modalités de prescription, d'utilisation et, le cas échéant, la durée du
-traitement.
+établie par la Commission nationale d'évaluation des dispositifs médicaux et des
+technologies de santé. Cette fiche rappelle, d'une part, les indications prises
+en charge, d'autre part, les modalités de prescription, d'utilisation et, le cas
+échéant, la durée du traitement.
