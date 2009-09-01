@@ -1469,13 +1469,12 @@ Néant.
 
 Circonscription judiciaire de Créteil.
 
-Maison d'arrêt de Fresnes.
+Centre pénitentiaire de Fresnes (quartier pour peines aménagées de Villejuif
+inclus).
 
 Etablissement public de santé national de Fresnes.
 
 Centre national d'observation.
-
-(Arr. 13 déc. 2005, art. 5) Centre pour peines aménagées de Villejuif.
 
 Service pénitentiaire d'insertion et de probation du Val-d'Oise.
 
