@@ -1,31 +1,40 @@
 Article R562-2
 ----
-Chaque organisme financier communique au service à compétence nationale TRACFIN
-et à l'autorité de contrôle l'identité de ses dirigeants ou préposés chargés de
-répondre à toute demande, y compris celle mentionnée à l'article R. 563-2,
-émanant de cette cellule ou de l'autorité de contrôle, de recevoir les accusés
-de réception des déclarations faites par l'organisme en application des
-dispositions de l'article L. 562-2 et d'assurer la diffusion aux membres
-concernés du personnel des informations, avis ou recommandations de caractère
-général en provenance au service à compétence nationale TRACFIN ou de l'autorité
-de contrôle.
+Pour l'application des mesures visées à l'article L. 564-2 :
 
-Les autres personnes relevant de l'article L. 562-1 communiquent au service à
-compétence nationale TRACFIN l'identité et la qualité de la personne chargée de
-répondre à toute demande, y compris celle mentionnée à l'article R. 563-2, de
-recevoir les accusés de réception des déclarations faites au titre de l'article
-L. 562-2 et d'assurer la diffusion aux membres concernés du personnel des
-informations, avis ou recommandations de caractère général émanant de cette
-cellule ou de l'instance de régulation si cette dernière existe pour la
-profession. Ces éléments d'information sont transmis dans le document mentionné
-à l'article R. 562-1, accompagnant la première déclaration mentionnée à
-l'article L. 562-2.
+1° Les organismes et personnes mentionnés à l'article L. 564-1 qui détiennent ou
+reçoivent des fonds, des instruments financiers ou des ressources économiques
+mentionnés à ce même article pour le compte d'un client habituel ou occasionnel
+faisant l'objet d'une mesure de gel mettent immédiatement en oeuvre cette mesure
+et en informent sans délai le ministre chargé de l'économie.
 
-Sous réserve des dispositions du deuxième alinéa de l'article R. 562-2-2, les
-commissaires aux comptes, les notaires, les huissiers de justice, les
-administrateurs judiciaires et mandataires judiciaires, les avocats au Conseil
-d'Etat et à la Cour de cassation, les avocats et les avoués près les cours
-d'appel et les commissaires-priseurs judiciaires sont chargés, à titre
-individuel, de répondre aux demandes du service à compétence nationale TRACFIN
-et de recevoir les accusés de réception, quelles que soient les modalités de
-leur exercice professionnel. (1)
+2° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent
+l'ordre d'un client habituel ou occasionnel, autre qu'un organisme ou une
+personne mentionné à l'article L. 564-1, d'exécuter pour son compte un transfert
+hors de France de fonds, d'instruments financiers ou de ressources économiques
+mentionnés à ce même article au profit d'une personne faisant l'objet d'une
+mesure de gel en informent sans délai le ministre chargé de l'économie.
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du
+ministre chargé de l'économie.
+
+Le ministre chargé de l'économie peut, le cas échéant, autoriser la restitution
+des fonds, instruments financiers ou ressources économiques au donneur d'ordre.
+
+3° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent de
+l'étranger des fonds, des instruments financiers ou des ressources économiques
+mentionnés au même article d'une personne faisant l'objet d'une mesure de gel au
+profit d'un client habituel ou occasionnel, autre qu'un organisme financier ou
+une personne mentionné à l'article L. 564-1, en informent sans délai le ministre
+chargé de l'économie. Toutefois, dans le cas d'un transfert en provenance d'un
+pays de la Communauté européenne, cette obligation ne s'applique pas s'ils n'ont
+pas connaissance de l'identité du donneur d'ordre par application du paragraphe
+1 de l'article 6 du règlement (CE) n° 1781 / 2006 du Parlement et du Conseil du
+15 novembre 2006 relatif aux informations concernant le donneur d'ordre
+accompagnant les virements de fonds.
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du
+ministre chargé de l'économie.
+
+Ils ne versent les fonds, instruments financiers ou ressources économiques au
+bénéficiaire que sur autorisation préalable du ministre chargé de l'économie.
