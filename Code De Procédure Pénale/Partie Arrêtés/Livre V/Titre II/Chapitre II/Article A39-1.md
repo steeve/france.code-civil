@@ -99,6 +99,9 @@ Centre de détention d'Oermingen (Bas-Rhin).
 Quartier centre de détention du centre pénitentiaire de Perpignan
 (Pyrénées-Orientales).
 
+Quartier centre de détention du centre pénitentiaire de Poitiers-Vivonne
+(hommes, femmes) (Vienne).
+
 Quartier centre de détention du centre pénitentiaire du Port (Réunion).
 
 Quartier centre de détention du centre pénitentiaire de Remire-Montjoly
@@ -109,7 +112,7 @@ Centre de détention de Roanne (hommes, femmes) (Loire).
 Quartier centre de détention du centre pénitentiaire de Saint-Denis (femmes)
 (Réunion).
 
-43Quartier centre de détention du centre pénitentiaire de Rennes (femmes)
+Quartier centre de détention du centre pénitentiaire de Rennes (femmes)
 (Ille-et-Vilaine).
 
 Centre de détention de Riom (Puy-de-Dôme).

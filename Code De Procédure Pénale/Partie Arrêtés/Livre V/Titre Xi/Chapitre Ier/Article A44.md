@@ -1099,13 +1099,7 @@ Antenne de Lyon.
 
 Circonscription judiciaire de Lyon.
 
-Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus).
-
-(jusqu'au 15 mai 2009).
-
-Maison d'arrêt de Lyon-Montluc (jusqu'au 15 février 2009).
-
-Maison d'arrêt de Lyon-Corbas (à partir du 27 avril 2009).
+Maison d'arrêt de Lyon-Corbas.
 
 Centre de semi-liberté de Lyon.
 
@@ -1329,13 +1323,13 @@ Antenne de Toulon.
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Toulon-La Farlède (quartier
 de semi-liberté de Toulon-Saint-Roch inclus).
 
-(Arr. 1 er oct. 2004, art. 2) Antenne de Draguignan.
+(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Draguignan.
 
-(Arr. 1 er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
+(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
 
 Service pénitentiaire d'insertion et de probation de Vaucluse.
 
@@ -1375,7 +1369,8 @@ Néant.
 
 Circonscription judiciaire de Poitiers.
 
-Maison d'arrêt de Poitiers.
+Centre pénitentiaire de Poitiers-Vivonne (quartier de semi-liberté de Poitiers
+inclus).
 
 Service pénitentiaire d'insertion et de probation de la Haute-Vienne.
 
@@ -1550,14 +1545,14 @@ Antenne du Port.
 
 Centre pénitentiaire du Port.
 
-(Arr. 13 déc. 2005, art. 1 er ) Service pénitentiaire d'insertion et de
-probation de Mayotte.
+(Arr. 13 déc. 2005, art. 1er) Service pénitentiaire d'insertion et de probation
+de Mayotte.
 
-(Arr. 13 déc. 2005, art. 1 er ) Mamoudzou.
+(Arr. 13 déc. 2005, art. 1er) Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1 er ) Néant.
+(Arr. 13 déc. 2005, art. 1er) Néant.
 
-(Arr. 13 déc. 2005, art. 1 er ) Circonscription judiciaire du tribunal de
-première instance de Mamoudzou.
+(Arr. 13 déc. 2005, art. 1er) Circonscription judiciaire du tribunal de première
+instance de Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1 er ) Maison d'arrêt de Majicavo.
+(Arr. 13 déc. 2005, art. 1er) Maison d'arrêt de Majicavo.
