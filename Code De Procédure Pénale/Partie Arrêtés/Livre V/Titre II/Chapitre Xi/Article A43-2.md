@@ -7,9 +7,6 @@ l'article R. 57-9-11 est fixée comme suit :
 
 -établissement spécialisé pour mineurs de Marseille (Bouches-du-Rhône) ;
 
--établissement spécialisé pour mineurs de Meaux-Chauconin-Neufmontiers
-(Seine-et-Marne) ;
-
 -établissement spécialisé pour mineurs d'Orvault (Loire-Atlantique) ;
 
 -établissement spécialisé pour mineurs de Porcheville (Yvelines) ;
