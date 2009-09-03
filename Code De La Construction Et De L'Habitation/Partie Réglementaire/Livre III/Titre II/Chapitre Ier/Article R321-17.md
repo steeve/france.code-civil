@@ -13,7 +13,7 @@ peut être modulée en fonction de critères de ressources des demandeurs, de
 critères géographiques ou de conditions spécifiques de location.
 
 Ne donnent pas lieu au bénéfice de subventions les travaux qui ont fait l'objet
-depuis moins de dix ans ou font l'objet des concours financiers prévus par la
+depuis moins de cinq ans ou font l'objet des concours financiers prévus par la
 réglementation relative aux aides de l'Etat pour la construction, l'acquisition
 et l'amélioration des logements en accession à la propriété et celles relatives
 aux habitations à loyer modéré.

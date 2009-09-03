@@ -1,6 +1,6 @@
 Article R*321-12
 ----
-I. L'agence peut accorder des subventions :
+I.-L'agence peut accorder des subventions :
 
 1° Aux propriétaires ou à tout autre titulaire d'un droit réel conférant l'usage
 des locaux pour des logements qu'ils donnent à bail ou, dans des conditions
@@ -36,9 +36,12 @@ d'accessibilité ou d'adaptation au handicap de leur logement ;
 communes et équipements communs d'un immeuble en copropriété faisant l'objet du
 plan de sauvegarde prévu à l'article L. 615-1 ou situé dans le périmètre d'une
 opération programmée d'amélioration de l'habitat prévue à l'article 6 de la loi
-n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au logement,
-l'attribution de la subvention excluant les copropriétaires à titre personnel du
-bénéfice de l'aide pour les mêmes travaux.
+n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au logement.
+L'attribution de cette subvention peut être cumulée, pour les mêmes travaux,
+avec des aides individuelles aux copropriétaires. Le règlement général de
+l'agence fixe les modalités de ce cumul. Le montant total des aides versées ne
+peut pas dépasser le montant maximum qui peut être versé au seul syndicat de
+copropriétaires.
 
 Ces dispositions s'appliquent également lorsqu'un arrêté d'insalubrité pris en
 application des articles L. 1331-26 et suivants du code de la santé publique,
@@ -46,9 +49,14 @@ une notification de travaux prise en application de l'article L. 1334-2 du même
 code, un arrêté de péril pris en application des articles L. 511-1 et suivants
 du présent code, ou un arrêté pris en application des articles L. 129-1 et
 suivants a été notifié au syndicat de copropriétaires et pour l'ensemble des
-mesures prescrites sur l'immeuble par lesdits arrêtés, ou lorsque les travaux
-portant sur les parties communes et équipements communs tendent à permettre
-l'accessibilité de l'immeuble.
+mesures prescrites sur l'immeuble par lesdits arrêtés, ou lorsque la subvention
+est attribuée, selon des modalités définies par le règlement général de
+l'agence, en vue de réaliser des travaux nécessaires pour mettre fin au
+caractère indigne, au sens de l'article 4 de la loi n° 90-449 du 31 mai 1990
+visant à la mise en œuvre du droit au logement, des logements ou des bâtiments
+dans lesquels ils sont situés ou lorsque les travaux portant sur les parties
+communes et équipements communs tendent à permettre l'accessibilité de
+l'immeuble.
 
 8° Aux syndicats de copropriétaires lorsqu'un administrateur provisoire a été
 désigné par le président du tribunal de grande instance, conformément aux
@@ -58,7 +66,27 @@ fonctionnement normal de la copropriété ;
 
 9° Aux maîtres d'ouvrage, personnes physiques ou morales, publiques ou privées,
 pour la participation au financement des prestations prévues à l'article R.
-321-16.
+321-16 ;
+
+10° Aux établissements publics d'aménagement mentionnés à l'article L. 321-1 du
+code de l'urbanisme, pour l'amélioration des logements qu'ils acquièrent dans le
+cadre d'un dispositif coordonné d'intervention immobilière et foncière
+définissant, notamment, les modalités de financement, les durées de portage
+prévisionnelles des logements et des contreparties sous forme de droits de
+réservation, qui a été approuvé par les ministres en charge de l'urbanisme et du
+logement ; l'aide accordée peut être assortie de dérogations aux règles
+d'occupation des locaux définies à l'article R. 321-20.
+
+11° Aux organismes d'habitation à loyer modéré mentionnés à l'article L. 411-2
+du code de la construction et de l'habitation et aux sociétés d'économie mixte
+ayant pour objet statutaire la construction ou la gestion de logements ou la
+restructuration urbaine, pour l'amélioration des logements qu'ils acquièrent en
+vue de leur revente, des logements acquis dans les copropriétés faisant l'objet
+du plan de sauvegarde prévu à l'article L. 615-1 ; les modalités de financement
+et les contreparties sociales exigées pour le financement de ces opérations,
+notamment pour ce qui concerne les conditions de revente, sont fixées par le
+conseil d'administration.L'aide accordée peut être assortie de dérogations aux
+règles d'occupation des locaux définies à l'article R. 321-20.
 
 Pour l'application du présent article, sont assimilés aux propriétaires les
 titulaires d'un contrat leur donnant vocation à l'attribution à terme de la
@@ -75,8 +103,21 @@ Ces conditions de ressources sont également applicables aux personnes
 mentionnées au 3° qui, supportant la charge des travaux à effectuer dans des
 logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
 
-II. - L'agence peut également accorder, à titre exceptionnel et dans des
+II.-L'agence peut également accorder, à titre exceptionnel et dans des
 conditions fixées par le règlement général de l'agence, des subventions portant
 sur des travaux réalisés dans des locaux à usage d'habitation inclus dans un
 bail commercial, soit au titulaire de ce bail commercial, soit au propriétaire
 des murs.
+
+III.-L'agence peut accorder des aides, dans les conditions prévues à son
+règlement général, aux propriétaires ou aux gestionnaires des établissements
+d'hébergement visés au 8° du I de l'article L. 312-1 du code de l'action sociale
+et des familles assurant ou non l'accueil de jour, ou des lits halte soins santé
+visés au 9° du même article, aux établissements d'hébergement destinés aux
+personnes sans domicile visés à l'article L. 322-1 du même code et faisant
+l'objet d'une convention avec l'Etat ou une collectivité territoriale, en vue de
+la réalisation de travaux d'amélioration et d'humanisation.
+
+Les dispositions prévues à l'article R. 321-20 ainsi qu'aux I et II de l'article
+R. 321-21 ne s'appliquent pas aux travaux faisant l'objet des aides mentionnées
+à l'alinéa précédent.

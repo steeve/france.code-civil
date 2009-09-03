@@ -35,6 +35,26 @@ projet sur lesquelles la décision d'attribution a été fondée. La subvention 
 versée sur présentation des factures des entreprises, sauf cas exceptionnels
 dus, notamment, à la défaillance de l'entreprise chargée des travaux.
 
+Par dérogation aux dispositions de l'alinéa précédent, des acomptes peuvent être
+versés, au fur et à mesure de l'avancement du projet sans pouvoir excéder 70 %
+du montant prévisionnel de la subvention, dans les conditions définies par le
+règlement général de l'agence.
+
+Dans les conditions définies par le règlement général de l'agence, une avance
+peut être versée, sans excéder 70 % du montant prévisionnel de l'aide, aux
+propriétaires occupants et assimilés au sens des 2° et 3° du I de l'article R.
+321-12 ainsi que, sans excéder 40 % du montant prévisionnel de l'aide, aux
+syndicats de copropriétaires définis au 7° du I et aux établissements mentionnés
+au III du même article.
+
+Le remboursement de l'avance s'impute sur le montant des acomptes ou le
+règlement du solde. Les travaux débutent alors dans un délai de six mois à
+compter de la date de la notification de la décision attributive de subvention,
+sauf cas exceptionnels prévus au règlement général de l'agence. Dans le cas où
+les travaux ne sont pas engagés dans ce délai ou si la décision d'attribution de
+la subvention est retirée ou annulée, l'avance déjà perçue donne lieu à
+remboursement dans les conditions prévues à l'article R. 321-21.
+
 Par exception aux dispositions du présent article, des travaux définis par le
 conseil d'administration de l'agence peuvent être réalisés par les propriétaires
 occupants, sous réserve d'un encadrement technique des travaux durant leur
