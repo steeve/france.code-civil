@@ -1,29 +1,82 @@
 Article R*321-11
 ----
-Le directeur général de l'agence nomme auprès de chaque commission
-d'amélioration de l'habitat un délégué local qu'il choisit, sur proposition du
-directeur départemental de l'équipement, parmi les personnels de la direction
-départementale de l'équipement dans le ou les départements concernés.
+I.-Le délégué de l'agence dans la région ou le délégué de l'agence en Corse : 1°
+Dans les limites et selon les programmes d'actions définis par le conseil
+d'administration de l'agence, recense sur l'ensemble du territoire régional les
+engagements pluriannuels de l'agence dans le cadre des délégations de compétence
+et d'opérations programmées des territoires non couverts par une délégation de
+compétence et fixe le cadre budgétaire pluriannuel de conclusion ou de
+renouvellement de délégations de compétence ou d'opérations programmées. Il
+présente ces engagements et cette programmation au comité régional de l'habitat
+mentionné à l'article L. 364-1 ; il les transmet au directeur général de
+l'agence avec l'avis émis par le comité régional de l'habitat ;
 
-Le délégué local remplit, auprès de la commission d'amélioration de l'habitat,
-le rôle confié au directeur général auprès du conseil d'administration de
-l'agence. Il instruit les demandes d'aide et assiste aux séances de la
-commission. Il assure l'exécution des décisions prises par la commission en
-application du I de l'article R. 321-10. Il assure les missions confiées à
-l'agence, dans le ressort territorial dont il a la charge, en application des
-conventions signées en application des articles L. 301-5-1, L. 301-5-2, L.
-312-2-1 et L. 321-1-1. Il peut être assisté d'un délégué adjoint nommé sur sa
-proposition par le directeur général. Dans les territoires non couverts par les
-conventions mentionnées aux articles L. 301-5-1 et L. 301-5-2, le délégué local
-décide de l'attribution des subventions aux prestations d'ingénierie permettant
-la mise en oeuvre des opérations mentionnées à l'article R. 321-16.
+2° En fonction des documents mentionnés au 1°, répartit les dotations de
+l'agence entre les départements et, lorsque des conventions mentionnées aux
+articles L. 301-5-1 et L. 301-5-2 ont été conclues, entre les délégataires
+signataires de ces conventions ;
 
-Dans le délai de quinze jours suivant la réunion de la commission, le délégué
-local peut déférer au conseil d'administration de l'agence les décisions prises
-en application des 1° et 2° du I de l'article R. 321-10, qui ne deviennent
-exécutoires qu'après leur approbation par le conseil d'administration ou le
-comité restreint. A défaut d'approbation, la décision du conseil
-d'administration se substitue à celle de la commission.
+3° Etablit au niveau régional le rapport annuel transmis au directeur général de
+l'agence pour l'élaboration des rapports mentionnés aux 8° et 9° de l'article R.
+321-5.
 
-Le directeur général peut autoriser le délégué local à déléguer sa signature aux
-personnes placées sous son autorité.
+Le délégué de l'agence dans la région ou le délégué de l'agence en Corse peut
+nommer un délégué adjoint auquel il peut déléguer sa signature.L'un et l'autre
+peuvent déléguer leur signature aux personnes placées sous leur autorité pour
+l'exercice des différentes attributions mentionnées ci-dessus, à l'exception de
+la fixation du cadre budgétaire pluriannuel de conclusion ou de renouvellement
+des délégations de compétence ou d'opérations programmées et l'établissement du
+rapport annuel d'activité. Ces délégations doivent être publiées au recueil des
+actes administratifs de la préfecture de région.
+
+Le délégué de l'agence dans la région ou le délégué de l'agence en Corse
+transmet au directeur général de l'agence une copie des actes relatifs à ces
+délégations de signatures.
+
+II.-Le délégué de l'agence dans le département :
+
+1° Etablit, sous réserve des conventions signées en application des articles L.
+301-5-1, L. 301-5-2 et L. 321-1-1, le rapport annuel d'activité de l'agence dans
+le département ;
+
+2° Décide de l'attribution des subventions aux bénéficiaires mentionnés au III
+de l'article R. 321-12 dans la limite des autorisations d'engagement notifiées
+par le délégué de l'agence dans la région, ou prononce le rejet des demandes
+d'aides ;
+
+3° Décide du retrait, de l'annulation et, le cas échéant, du reversement des
+subventions aux bénéficiaires mentionnés au III de l'article R. 321-12 ;
+
+4° Sur les territoires non couverts par une convention mentionnée à l'article L.
+321-1-1 et dans les conditions prévues au I de l'article R. 321-10 :
+
+a) Etablit le programme d'actions de l'agence dans le département ;
+
+b) Décide, en application de ce programme, de l'attribution des subventions aux
+bénéficiaires mentionnés aux I et II de l'article R. 321-12, dans la limite des
+autorisations d'engagement notifiées par le délégué de l'agence dans la région
+ou prononce le rejet des demandes d'aides ;
+
+c) Décide du retrait et du reversement des subventions avant le versement du
+solde, dans les conditions prévues par le règlement général de l'agence ;
+
+d) Assure le fonctionnement de la commission mentionnée au I de l'article R.
+321-10 ;
+
+5° Sur les territoires couverts par une convention mentionnée à l'article L.
+321-1-1, assure les missions confiées à l'agence aux termes des conventions
+signées en application des articles L. 301-5-1, L. 301-5-2 et L. 321-1-1 ;
+
+6° Assure les missions confiées à l'agence aux termes des conventions signées en
+application de l'article L. 312-2-1.
+
+Le délégué de l'agence dans le département peut nommer un délégué adjoint auquel
+il peut déléguer sa signature.L'un et l'autre peuvent déléguer leur signature
+aux personnes placées sous leur autorité pour l'exercice des différentes
+attributions mentionnées ci-dessus, à l'exception de l'établissement du
+programme d'actions et du rapport annuel d'activité. Ces délégations doivent
+être publiées au recueil des actes administratifs de la préfecture du
+département.
+
+Le délégué de l'agence dans le département transmet au directeur général de
+l'agence une copie des actes relatifs à ces délégations de signatures.
