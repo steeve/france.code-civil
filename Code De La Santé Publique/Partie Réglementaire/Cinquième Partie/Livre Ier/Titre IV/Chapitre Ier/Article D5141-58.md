@@ -1,63 +1,101 @@
 Article D5141-58
 ----
-I. - Les montants de la taxe prévue aux 1° et 8° du 1 du I de l'article L.
-5141-8 sont fixés comme indiqué ci-après pour les demandes d'autorisation de
-mise sur le marché ou d'enregistrement concernant les médicaments homéopathiques
-vétérinaires et les médicaments vétérinaires dont l'autorisation de mise sur le
-marché relève exclusivement de la procédure prévue à l'avant-dernier alinéa de
-l'article L. 5141-5 :
+I.-Les montants de la taxe prévue au 1° du 1 du I de l'article L. 5141-8 sont
+fixés comme indiqué ci-après pour les demandes d'autorisation de mise sur le
+marché des médicaments vétérinaires instruites en procédure nationale et qui
+relèvent d'une des procédures prévues aux 1° et 2° de l'article L. 5141-5-1 :
 
-1° 6 000 euros pour une demande relative à un médicament vétérinaire contenant
-une nouvelle substance active et 1 200 euros pour une demande présentée
-conjointement et relative à un autre médicament vétérinaire contenant un dosage
-différent de la même substance active ;
+1° 5 000 € pour une demande relative à un médicament vétérinaire contenant une
+nouvelle substance active et faisant l'objet du dossier mentionné au 6° ou au 7°
+de l'article R. 5141-20 et 1 000 € pour une demande présentée conjointement
+concernant un médicament vétérinaire contenant les mêmes substances actives et
+faisant référence aux mêmes études ;
 
-2° 4 000 euros pour une demande relative à un médicament vétérinaire contenant
-une association de substances actives connues en médecine vétérinaire mais qui
-n'ont pas encore été associées dans un même médicament vétérinaire et 1 200
-euros pour une demande présentée conjointement et relative à un autre médicament
-vétérinaire contenant un dosage différent des mêmes substances actives ;
+2° 3 000 € pour une demande relative à :
 
-3° 2 500 euros pour une demande relative à un médicament vétérinaire qui
-contient une ou plusieurs substances actives connues en médecine vétérinaire et
-pour lequel il est fait référence de façon détaillée à la littérature
-scientifique publiée et 1 200 euros pour une demande présentée conjointement et
-relative à un autre médicament vétérinaire contenant un dosage différent des
-mêmes substances actives ;
+a) Un médicament vétérinaire contenant une substance active connue et faisant
+l'objet du dossier mentionné au 6° ou au 7° de l'article R. 5141-20 ;
 
-4° 2 000 euros pour une demande relative à un médicament vétérinaire
-essentiellement similaire à un médicament vétérinaire autorisé et 1 200 euros
-pour une demande présentée conjointement et relative à un autre médicament
-vétérinaire contenant un dosage différent des mêmes substances actives ;
+b) Un médicament vétérinaire contenant une substance active d'un usage
+vétérinaire bien établi et faisant l'objet du dossier mentionné au 6° ou au 7°
+de l'article R. 5141-20 ;
 
-5° 600 euros pour une demande relative à un médicament vétérinaire présentée
-avec le consentement du titulaire de l'autorisation de mise sur le marché du
-médicament vétérinaire original ;
+c) Un médicament vétérinaire contenant une association de substances actives
+connues en médecine vétérinaire mais qui n'ont pas encore été associées dans un
+même médicament vétérinaire et faisant l'objet du dossier mentionné au 6° ou au
+7° de l'article R. 5141-20 ;
 
-6° 100 euros pour les demandes d'enregistrement de médicaments homéopathiques
-vétérinaires mentionné à l'article R. 5141-62.
+d) Un médicament vétérinaire qui ne répond pas à la définition du médicament
+générique et faisant l'objet du dossier mentionné au 6° ou au 7° de l'article R.
+5141-20 ;
 
-II. - Les montants de la taxe prévue aux 1° et 8° du 1 du I de l'article L.
-5141-8 sont fixés comme indiqué ci-après pour les demandes de modification
-d'autorisation de mise sur le marché ou d'enregistrement de médicaments
-homéopathiques vétérinaires et d'autorisation de mise sur le marché relevant
-exclusivement de la procédure prévue à l'avant-dernier alinéa de l'article L.
-5141-5 :
+e) Un médicament biologique vétérinaire similaire et faisant l'objet du dossier
+mentionné au 6° ou au 7° de l'article R. 5141-20 ;
 
-1° 4 000 euros pour une demande portant sur le changement du dosage, de la forme
-pharmaceutique, de la voie d'administration, de l'activité, de la
-biodisponibilité, de la pharmacocinétique, ou d'une espèce cible productrice de
-denrées alimentaires ou sur l'ajout d'une voie d'administration, d'une forme
-pharmaceutique, d'une espèce animale productrice de denrées alimentaires, d'une
-activité ou d'un dosage ;
+f) Un médicament vétérinaire immunologique dans le cadre de circonstances
+exceptionnelles et faisant l'objet du dossier mentionné au 6° ou au 7° de
+l'article R. 5141-20.
 
-2° 1 000 euros pour une demande de modification de type II mentionnée à
-l'article R. 5141-35 et 200 euros pour une demande présentée conjointement et
-relative à un autre médicament vétérinaire concerné par la même modification ;
+Le montant est fixé à 1 000 € pour une demande présentée conjointement
+concernant un médicament vétérinaire contenant les mêmes substances actives et
+faisant référence aux mêmes études.
 
-3° 250 euros pour une demande de modification de type I mentionnée à l'article
-R. 5141-35 et 100 euros pour une demande présentée conjointement et relative à
-un autre médicament vétérinaire concerné par la même modification ;
+3° 2 000 € pour une demande relative à un médicament générique et faisant
+l'objet du dossier mentionné au 1° de l'article R. 5141-20 et 1 000 € pour une
+demande présentée conjointement concernant un médicament vétérinaire contenant
+les mêmes substances actives et faisant référence aux mêmes études ;
 
-4° 100 euros pour une demande de modification d'enregistrement de médicaments
-homéopathiques vétérinaires mentionnée à l'article R. 5141-68.
+4° 1 000 € pour une demande relative à un médicament vétérinaire présentée avec
+le consentement du titulaire de l'autorisation de mise sur le marché du
+médicament vétérinaire original et faisant l'objet du dossier mentionné au 4° de
+l'article R. 5141-20.
+
+II.-Les montants de la taxe prévue au 1° du 1 du I de l'article L. 5141-8 sont
+fixés comme indiqué ci-après pour les demandes d'extension d'une autorisation de
+mise sur le marché des médicaments vétérinaires instruites en procédure
+nationale et qui relèvent d'une des procédures prévues à l'article L. 5141-5-1
+et font l'objet du dossier mentionné au 6° ou au 7° de l'article R. 5141-20 :
+
+1° 3 000 € pour une demande relevant du troisième, quatrième ou cinquième alinéa
+de l'article R. 5141-37-3 ;
+
+2° 500 € pour une demande présentée conjointement concernant un médicament
+vétérinaire contenant les mêmes substances actives et faisant référence aux
+mêmes études.
+
+III.-Les montants de la taxe prévue au 1° du 1 du I de l'article L. 5141-8 sont
+fixés comme indiqué ci-après pour les demandes de modification d'autorisation de
+mise sur le marché des médicaments vétérinaires instruites en procédure
+nationale qui relèvent d'une des procédures prévues à l'article L. 5141-5-1 :
+
+1° Modifications de type II :
+
+a) 800 € pour chaque demande de modification de type II mentionnée au 4° de
+l'article R. 5141-35 ;
+
+b) 200 € pour chaque demande de modification de type II portant uniquement sur
+le résumé des caractéristiques du produit ;
+
+c) 100 € pour une demande présentée conjointement concernant un médicament
+vétérinaire contenant les mêmes substances actives et faisant référence aux
+mêmes études.
+
+2° Modifications de type IB :
+
+a) 200 € pour chaque demande de modification de type IB mentionnée au 3° de
+l'article R. 5141-35 ;
+
+b) 100 € pour chaque demande présentée conjointement concernant un médicament
+vétérinaire contenant les mêmes substances actives et faisant référence aux
+mêmes études.
+
+3° Modifications de type IA : 100 € pour chaque demande de modification de type
+IA mentionnée au 2° de l'article R. 5141-35 à l'exception des modifications
+prévues au 4° du III du présent article.
+
+4° Modifications groupées de type IA :
+
+100 € pour une demande portant sur plusieurs autorisations de mise sur le marché
+et relative à la modification du nom ou de l'adresse du titulaire de
+l'autorisation de mise sur le marché ou du fabricant du médicament vétérinaire
+sans changement de titulaire ou de fabricant.
