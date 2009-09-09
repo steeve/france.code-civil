@@ -26,12 +26,12 @@ mise en fourrière ; il joint alors à chacun des exemplaires de la procédure d
 mise en fourrière qu'il adresse aux autorités mentionnées à l'article R. 325-10
 un exemplaire ou une copie conforme de la fiche d'immobilisation ;
 
-3° Par la décision de l'ingénieur des ponts et chaussées ou du maire supprimant
-les barrières de dégel, lorsque la mesure a été motivée par leur
-franchissement.L'ingénieur des ponts et chaussées ou le maire peut, avant la
-suppression des barrières de dégel, autoriser l'enlèvement du véhicule dans des
-conditions qu'il détermine. Il délivre alors au contrevenant une autorisation
-écrite valant justification à l'égard des services de police.
+3° Par la décision de l' ingénieur des ponts, des eaux et des forêts ou du maire
+supprimant les barrières de dégel, lorsque la mesure a été motivée par leur
+franchissement.L' ingénieur des ponts, des eaux et des forêts ou le maire peut,
+avant la suppression des barrières de dégel, autoriser l'enlèvement du véhicule
+dans des conditions qu'il détermine. Il délivre alors au contrevenant une
+autorisation écrite valant justification à l'égard des services de police.
 
 III.-Dans tous les cas, dès la cessation de l'infraction qui a motivé
 l'immobilisation, le véhicule peut circuler entre le lieu d'immobilisation et la

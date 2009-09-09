@@ -21,5 +21,6 @@ adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour
 lever la mesure.
 
 III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée
-par le franchissement d'une barrière de dégel, l'autorité saisie est l'ingénieur
-des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
+par le franchissement d'une barrière de dégel, l'autorité saisie est l'
+ingénieur des ponts, des eaux et des forêts ou, s'il s'agit d'une voie
+communale, le maire.
