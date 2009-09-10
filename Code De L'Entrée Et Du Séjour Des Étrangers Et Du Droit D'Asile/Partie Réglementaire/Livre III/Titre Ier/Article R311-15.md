@@ -46,7 +46,11 @@ travail ;
 9° Si l'étranger admis à séjourner en France pour y exercer une activité
 salariée se voit retirer son autorisation de travail au motif qu'il ne s'est pas
 conformé à l'obligation de produire le certificat médical prévu par l'article L.
-5221-5 du code du travail.
+5221-5 du code du travail ;
+
+10° Si l'étranger, titulaire d'une carte de résident délivrée pour une
+contribution économique exceptionnelle, cesse de remplir la condition prévue à
+l'article L. 314-15 sur le fondement de laquelle la carte lui a été délivrée.
 
 II.-La carte de résident peut être retirée et remplacée de plein droit par une
 carte de séjour temporaire :
