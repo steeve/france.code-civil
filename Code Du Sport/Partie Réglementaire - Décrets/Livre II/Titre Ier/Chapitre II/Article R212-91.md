@@ -1,14 +1,14 @@
 Article R212-91
 ----
-Sont considérées comme s'exerçant en environnement spécifique les activités
-suivantes :
+Les activités s'exerçant en environnement spécifique au sens des dispositions de
+l'article L. 212-7 sont :
 
-1° Ski et ses dérivés ;
+1° Le ski et ses dérivés ;
 
-2° Alpinisme ;
+2° L'alpinisme ;
 
-3° Plongée subaquatique ;
+3° La plongée subaquatique ;
 
-4° Parachutisme ;
+4° Le parachutisme ;
 
-5° Spéléologie.
+5° La spéléologie.

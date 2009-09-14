@@ -1,32 +1,50 @@
 Article R212-90
 ----
-Lorsqu'il existe une différence substantielle de niveau entre la qualification
-attestée par les titres dont se prévaut le déclarant et celle attestée par les
-diplômes, titres à finalité professionnelle et certificats de qualification
-mentionnés au premier alinéa de l'article L. 212-1 du code du sport, le préfet
-peut, à l'occasion de la première déclaration, après avoir vérifié si les
-connaissances acquises par l'intéressé au cours de son expérience
-professionnelle sont de nature à couvrir, en tout ou en partie, cette
-différence, exiger, par décision motivée, pour des raisons tenant à la sécurité
-des personnes, qu'il choisisse soit de se soumettre à une épreuve d'aptitude,
-soit d'accomplir un stage d'adaptation. Il est sursis à la délivrance du
-récépissé pour la durée strictement nécessaire à cette vérification et, le cas
-échéant, à l'accomplissement de l'épreuve d'aptitude ou du stage d'adaptation.
+Est réputé satisfaire à l'obligation de qualification requise pour exercer tout
+ou partie des activités dans les fonctions mentionnées à l'article L. 212-1 tout
+ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui se trouve dans l'une des
+situations suivantes :
 
-Lorsqu'en outre la déclaration porte sur l'une des activités s'exerçant en
-environnement spécifique mentionnées à l'article R. 212-91, le préfet peut, par
-dérogation au droit d'option ouvert au déclarant par l'alinéa précédent, exiger
-de l'intéressé, dans les mêmes conditions, qu'il se soumette à une épreuve
-d'aptitude. Cette épreuve porte alors, outre sur l'aptitude technique du
-déclarant, sur sa connaissance du milieu naturel, des règles de sécurité et des
-dispositifs de secours.
+1° Etre titulaire d'une attestation de compétences ou d'un titre de formation
+prescrit et délivré par l'autorité compétente d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+dans lequel l'accès à l'activité ou son exercice est réglementé et qui atteste,
+pour tout ou partie des activités dans les fonctions mentionnées à l'article L.
+212-1, d'un niveau de qualification au moins équivalent au niveau immédiatement
+inférieur à celui requis sur le territoire national, au sens de l'article 11 de
+la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre
+2005 relative à la reconnaissance des qualifications professionnelles ;
 
-Des arrêtés du ministre chargé des sports déterminent, pour chaque activité ou
-catégorie d'activité, et par référence à la qualification attestée par les
-diplômes, titres à finalité professionnelle et certificats de qualification
-mentionnés au premier alinéa de l'article L. 212-1 du code du sport, la nature,
-les conditions d'organisation et les modalités d'évaluation de l'épreuve
-d'aptitude et du stage d'adaptation. Ils fixent notamment la liste des centres,
-situés en France ou dans un autre Etat membre de l'Union européenne ou partie à
-l'accord sur l'Espace économique européen, dans lesquels l'épreuve d'aptitude
-peut être organisée.
+2° Justifier avoir exercé l'activité, dans un Etat membre de la Communauté
+européenne ou un autre Etat partie à l'accord sur l'Espace économique européen
+qui ne réglemente pas l'accès à l'activité ou son exercice, à temps plein
+pendant deux ans au moins au cours des dix années précédentes ou pendant une
+durée équivalente en cas d'exercice à temps partiel et être titulaire d'une ou
+plusieurs attestations de compétences ou d'un ou plusieurs titres de formation
+délivrés par l'autorité compétente d'un de ces Etats attestant la préparation à
+l'exercice de l'activité pour tout ou partie des activités dans les fonctions
+mentionnées à l'article L. 212-1 ainsi qu'un niveau de qualification au moins
+équivalent au niveau immédiatement inférieur à celui requis sur le territoire
+national, au sens de l'article 11 de la directive 2005 / 36 / CE du Parlement
+européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des
+qualifications professionnelles ;
+
+3° Etre titulaire d'un titre attestant un niveau de qualification au moins
+équivalent au niveau immédiatement inférieur à celui requis sur le territoire
+national au sens de l'article 11 de la directive 2005 / 36 / CE du Parlement
+européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des
+qualifications professionnelles délivré par l'autorité compétente d'un Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen qui ne réglemente pas l'accès à l'activité ou son
+exercice, sanctionnant une formation réglementée visant spécifiquement
+l'exercice de tout ou partie des activités dans les fonctions mentionnées à
+l'article L. 212-1 et consistant en un cycle d'études complété, le cas échéant,
+par une formation professionnelle, un stage professionnel ou une pratique
+professionnelle ;
+
+4° Etre titulaire d'un titre acquis dans un Etat tiers et admis en équivalence
+dans un Etat membre de la Communauté européenne ou un autre Etat partie à
+l'accord sur l'Espace économique européen qui réglemente l'exercice de
+l'activité et justifier avoir exercé cette activité pendant au moins deux ans
+dans cet Etat.
