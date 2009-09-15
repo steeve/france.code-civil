@@ -1,28 +1,38 @@
 Article R122-5
 ----
-Les immeubles de grande hauteur sont classés comme suit :
+I.-Les immeubles de grande hauteur sont répartis dans les classes suivantes :
 
-G.H.A. : immeubles à usage d'habitation ;
+GHA : immeubles à usage d'habitation ;
 
-G.H.O. : immeubles à usage d'hôtel ;
+GHO : immeubles à usage d'hôtel ;
 
-G.H.R. : immeubles à usage d'enseignement ;
+GHR : immeubles à usage d'enseignement ;
 
-G.H.S. : immeubles à usage de dépôt d'archives ;
+GHS : immeubles à usage de dépôt d'archives ;
 
-G.H.U. : immeubles à usage sanitaire ;
+GHTC : immeubles à usage de tour de contrôle ;
 
-G.H.W. 1 : immeubles à usage de bureaux, répondant aux conditions fixées par le
+GHU : immeubles à usage sanitaire ;
+
+GHW 1 : immeubles à usage de bureaux répondant aux conditions fixées par le
 règlement prévu à l'article R. 122-4 et dont la hauteur du plancher bas tel
-qu'il est défini à l'article R. 122-2 est comprise entre 28 et 50 mètres ;
+qu'il est défini à l'article R. 122-2 est supérieure à 28 mètres et inférieure
+ou égale à 50 mètres ;
 
-G.H.W. 2 : immeubles à usage de bureaux dont la hauteur du plancher bas tel
-qu'il est défini ci-dessus est supérieure à 50 mètres ;
+GHW 2 : immeubles à usage de bureaux dont la hauteur du plancher bas tel qu'il
+est défini ci-dessus est supérieure à 50 mètres ;
 
-G.H.Z. : immeubles à usage mixte.
+GHZ : immeubles à usage principal d'habitation dont la hauteur du plancher bas
+est supérieure à 28 mètres et inférieure ou égale à 50 mètres et comportant des
+locaux autres que ceux à usage d'habitation ne répondant pas aux conditions
+d'indépendance fixées par les arrêtés prévus aux articles R. 111-13 et R. 122-4
+;
 
-La classe G.H.Z. groupe les immeubles de grande hauteur répondant à plusieurs
-des usages indiqués ci-dessus. Ils peuvent contenir en outre, dans les
-conditions précisées par le règlement précité, des établissements assujettis aux
-dispositions du chapitre III du présent titre relatif à la protection contre les
-risques d'incendie et de panique dans les établissements recevant du public.
+ITGH : immeuble de très grande hauteur. Constitue un immeuble de très grande
+hauteur tout corps de bâtiment dont le plancher bas du dernier niveau est situé
+à plus de 200 mètres par rapport au niveau du sol le plus haut utilisable pour
+les engins des services publics de secours et de lutte contre l'incendie.
+
+II.-Lorsqu'un immeuble est affecté à plusieurs usages différents, les
+dispositions applicables sont définies par le règlement de sécurité prévu à
+l'article R. 122-4.

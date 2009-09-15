@@ -10,7 +10,10 @@ b) Après avis de la commission compétente en application de l'article R.
 111-19-30, lorsque l'établissement n'a pas fait l'objet de travaux ou n'a fait
 l'objet que de travaux non soumis à permis de construire. La commission se
 prononce après visite des lieux pour les établissements de la première à la
-quatrième catégorie au sens de l'article R. 123-19.
+quatrième catégorie au sens de l'article R. 123-19 ;
+
+c) Après avis de la commission de sécurité compétente, en application des
+articles R. 123-45 et R. 123-46.
 
 L'autorisation d'ouverture est notifiée à l'exploitant par lettre recommandée
 avec demande d'avis de réception.

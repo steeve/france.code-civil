@@ -10,6 +10,9 @@ procéder à des visites de contrôle dans les conditions fixées aux articles R
 123-45 et R. 123-48 à R. 123-50 afin de vérifier si les règles de sécurité sont
 respectées.
 
-Lorsque ces établissements disposent de locaux d'hébergement pour le public, ils
-sont soumis aux dispositions des articles R. 123-22 à R. 123-26 et R. 123-43 à
-R. 123-52.
+Lorsque ces établissements disposent de locaux d'hébergement pour le public, les
+travaux qui conduisent à leur création, à leur aménagement ou à leur
+modification ne peuvent être exécutés qu'après délivrance de l'autorisation
+prévue aux articles L. 111-8 et suivants et après avis de la commission de
+sécurité compétente. Ils sont par ailleurs soumis aux dispositions des articles
+R. 111-19-14 et R. 123-22 ainsi qu'aux articles R. 123-43 à R. 123-52.

@@ -7,5 +7,5 @@ matériaux et éléments de construction répond aux conditions fixées par le
 règlement de sécurité.
 
 Le contrôle exercé par l'administration ou par la commission consultative
-départementale de la protection civile ne dégage pas les constructeurs et
+départementale de sécurité et d'accessibilité ne dégage pas les constructeurs et
 installateurs des responsabilités qui leur incombent personnellement.

@@ -11,12 +11,14 @@ est alors effectué en liaison avec l'architecte des Bâtiments de France ou le
 cas échéant le représentant du ministre chargé des monuments historiques ou du
 ministre chargé des sites ;
 
-b) Lorsqu'il s'agit de travaux soumis soit aux dispositions des articles R.
-122-1 à R. 122-29 du code de la construction et de l'habitation relatifs aux
-immeubles de grande hauteur, soit aux dispositions des articles R. 123-1 à R.
-123-55 du code de la construction et de l'habitation relatifs aux établissements
-recevant du public ; dans ce cas il est effectué en liaison avec le directeur
-départemental des services d'incendie et de secours ;
+b) Lorsqu'il s'agit de travaux soumis aux dispositions des articles R. 122-1 à
+R. 122-29 du code de la construction et de l'habitation relatifs aux immeubles
+de grande hauteur, soit aux dispositions des articles R. 123-1 à R. 123-55 du
+code de la construction et de l'habitation relatifs aux établissements recevant
+du public ; dans ce cas, il est effectué en liaison avec le directeur
+départemental des services d'incendie et de secours, sauf lorsqu'il s'agit
+d'établissements recevant du public de 5e catégorie ne disposant pas de locaux
+d'hébergement ;
 
 c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un espace ayant
 vocation à être classé dans le coeur d'un futur parc national dont la création a
