@@ -1,23 +1,19 @@
 Article R*1411-9
 ----
-Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à
-l'article L. 1333-4 du code de la santé publique lorsque les sources de
-rayonnements ionisants sont détenues ou utilisées dans les équipements et
-installations soumis à son contrôle.
+Le ministre de la défense est responsable, d'une part, du contrôle
+gouvernemental de l'engagement des forces nucléaires et, d'autre part, du
+contrôle gouvernemental de l'intégrité des moyens de la dissuasion nucléaire,
+que ces moyens dépendent du ministère de la défense ou du Commissariat à
+l'énergie atomique.
 
-Le délégué peut recevoir délégation du ministre de la défense et du ministre
-chargé de l'industrie pour signer en leur nom tout acte ou décision concernant
-l'application des dispositions de la section 2 du chapitre 3 du titre III du
-livre III, hormis celles des articles D. 1333-55 à D. 1333-60, et de la présente
-section, à l'exception des décrets, des décisions de mise en service des
-systèmes nucléaires militaires ainsi que de celles ayant une incidence directe
-sur la disponibilité opérationnelle des forces nucléaires.
+Le chef d'état-major des armées est responsable du contrôle gouvernemental de la
+conformité de l'emploi.
 
-Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la
-composition, le fonctionnement et les attributions sont précisés, sur son
-rapport, par arrêté conjoint du ministre de la défense et du ministre chargé de
-l'industrie.
+Le ministre de la défense et le chef d'état-major des armées disposent, dans
+chacun des domaines dont ils ont la responsabilité, d'une chaîne de mise en
+œuvre et d'une chaîne de sécurité, qui agissent indépendamment l'une de l'autre.
 
-Le délégué est informé de tout projet de textes réglementaires pris en
-application de l'article L. 231-7-1 du code du travail ou du chapitre III du
-titre III du livre III de la première partie du code de la santé publique.
+En vue de l'intégrité des moyens nucléaires concourant à la dissuasion et
+relevant du Commissariat à l'énergie atomique, la chaîne de mise en œuvre est
+confiée à l'administrateur général et la chaîne de sécurité au haut-commissaire
+à l'énergie atomique.

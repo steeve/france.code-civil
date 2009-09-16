@@ -12,7 +12,7 @@ l'article D. 1661-7 et au titre VIII du présent livre :
 1334-5 à D. 1333-14, D. 1336-43 à D. 1336-46 et D. 1337-14 à D. 1337-17, D.
 1338-6 ;
 
-3° Au livre IV, les dispositions des articles D. 1411-14 à D. 1443-4 ;
+3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ;
 
 4° Au livre V, les dispositions des articles D. 1521-1 à D. 1522-1 ;
 

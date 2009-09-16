@@ -12,7 +12,7 @@ D. 1132-38, D. 1132-43 à D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
 1334-5 à D. 1333-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6
 ;
 
-3° Au livre IV, les dispositions des articles D. 1411-14 à D. 1443-4 ;
+3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ;
 
 4° Au livre V, les dispositions des articles D. 1511-1 à D. 1522-1 ;
 

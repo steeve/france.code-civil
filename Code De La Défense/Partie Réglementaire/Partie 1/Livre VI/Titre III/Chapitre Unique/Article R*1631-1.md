@@ -12,5 +12,4 @@ Sont applicables à Mayotte sous réserve des adaptations prévues aux articles 
 * 1311-26, R. * 1311-27, R. * 1311-28, R. * 1311-33 à R. * 1311-39, R. * 1321-1,
 R. * 1333-36 à R. * 1336-15 ;
 
-4° Au livre IV les dispositions des articles R. * 1411-1 à R. * 1411-13, R. *
-1421-1 à R. * 1422-4.
+4° Au livre IV les dispositions des articles R. * 1411-1 à R. * 1422-4.
