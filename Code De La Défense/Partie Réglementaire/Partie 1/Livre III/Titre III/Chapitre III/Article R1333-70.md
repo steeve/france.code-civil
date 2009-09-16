@@ -1,70 +1,137 @@
 Article R1333-70
 ----
-I.-Appartiennent à la catégorie I les matières nucléaires comprenant :
+Le classement des matières nucléaires prévu à l'article R. 1333-14 est établi
+conformément au tableau qui suit :
 
-1° 2 kilogrammes ou plus de plutonium (a) non irradié (b) ;
 
-2° 5 kilogrammes ou plus d'uranium 235 (c) non irradié (b) enrichi à 20 % ou
-plus en U 235 ;
+MATIÈRE
 
-3° 2 kilogrammes ou plus d'uranium 233 (c) non irradié (b) ;
+ÉTAT
 
-4° 5 grammes ou plus de tritium non irradié (b) ;
 
-II.-Appartiennent à la catégorie II les matières nucléaires comprenant :
+CATÉGORIES
 
-1° Moins de 2 kilogrammes mais plus de 400 grammes de plutonium (a) non irradié
-(b) ;
+I
 
-2° Moins de 5 kilogrammes mais plus de 1 kilogramme d'uranium 235 (c) non
-irradié enrichi à 20 % ou plus de U 235 ;
 
-3° 5 kilogrammes ou plus d'uranium 235 (c) non irradié (b) enrichi à 10 % ou
-plus, mais moins de 20 % en U 235 ;
+II
 
-4° Moins de 2 kilogrammes mais plus de 400 grammes d'uranium 233 (c) non irradié
-(b) ;
+III
 
-5° Moins de 5 grammes mais plus de 2 grammes de tritium non irradié ;
+Plutonium (a).
 
-6° Tous combustibles irradiés (d).
+Non irradié (b).
 
-III.-Appartiennent à la catégorie III les matières nucléaires comprenant :
+2 kg ou plus.
 
-1° 400 grammes ou moins mais plus de 3 grammes de plutonium (a) non irradié (b)
-;
+Moins de 2 kg, mais plus de 400 g.
 
-2° 1 kilogramme ou moins mais plus de 15 grammes d'uranium 235 (c) enrichi à 20
-% ou plus de U 235 non irradié (b) ;
+400 g ou moins, mais plus de 3 g.
 
-3° Moins de 5 kilogrammes mais plus de 1 kilogramme d'uranium 235 (c) enrichi à
-10 % ou plus mais à moins de 20 % en U 235 non irradié (b) ;
+Uranium 235 (c)
 
-4° 5 kilogrammes ou plus d'uranium 235 (c) enrichi à moins de 10 % de U 235 non
-irradié (b) ;
+Non irradié (b) :
 
-5° 400 grammes ou moins mais plus de 3 grammes d'uranium 233 (c) non irradié (b)
-;
+Uranium enrichi à 20 %
 
-6° 500 kilogrammes ou plus d'uranium naturel, d'uranium appauvri en isotope 235
-et thorium non irradiés (b) ;
+ou plus en U 235 ;
 
-7° 1 kilogramme ou plus de lithium 6 contenu non irradié (b).
+5 kg ou plus.
 
-IV.-Les a, b, c et d mentionnés du I au III sont définis ainsi qu'il suit :
+Moins de 5 kg, mais plus de 1 kg.
 
-a) Tous isotopes du plutonium ;
+1 kg ou moins, mais plus de 15 g.
 
-b) Matières non irradiées dans un réacteur ou matières irradiées dans un
-réacteur délivrant un débit de dose absorbée dans l'air inférieur ou égal à 1 Gy
-/ heure (100 rads / h) à 1 mètre de distance sans écran ;
+Uranium enrichi à 10 % ou plus, mais à moins de 20 % en U 235 ;
 
-c) Les quantités d'uranium sont exprimées en U 235 ou U 233 contenu ;
+-
+
+5 kg ou plus.
+
+Moins de 5 kg, mais plus de 1 kg.
+
+Uranium enrichi à moins de 10 % en U 235.
+
+-
+
+-
+
+5 kg ou plus.
+
+Uranium 233 (c)
+
+Non irradié (b).
+
+2 kg ou plus.
+
+Moins de 2 kg, mais plus de 400 g.
+
+400 g ou moins, mais plus de 3 g.
+
+Tritium.
+
+-
+
+-
+
+Plus de 2 g.
+
+Uranium naturel : uranium appauvri en isotope 235 ;
+
+Thorium.
+
+Non irradié (b).
+
+-
+
+-
+
+500 kg ou plus.
+
+Lithium enrichi en lithium 6.
+
+1 kg ou plus de lithium 6 contenu.
+
+Combustibles irradiés.
+
+Irradié (d).
+
+-
+
+Tous combustibles.
+
+-
+
+Matières dispersées et faiblement concentrées.
+
+Objets dont la teneur moyenne en matière fissile est inférieure ou égale à 0, 1
+% en masse (e).
+
+-
+
+-
+
+3 g ou plus (Pu et U 233).
+
+15 g ou plus (U 235).
+
+a) Tous isotopes du plutonium.
+
+b) Matières nucléaires non irradiées dans un réacteur ou matières irradiées dans
+un réacteur délivrant un débit de dose absorbée dans l'air inférieur ou égal à
+1Gy / heure (100 rads / h) à 1 mètre de distance sans écran.
+
+c) Les quantités d'uranium sont exprimées en U 235 ou U 233 contenu.
 
 d) Matières nucléaires irradiées dans un réacteur délivrant un débit de dose
 absorbée supérieur à 1 Gy / heure (100 rads / h) dans l'air à 1 mètre de
 distance sans écran.
 
-Les mélanges ou la coexistence de matières nucléaires dans une même zone ou dans
-un même transport sont assimilés à du plutonium ou de l'uranium 233 avec la
-quantité suivante : Pu + U235 + U233 contenus.
+e) Matières nucléaires dispersées dans des objets (alliages, colis de déchets,
+etc.) et dont la teneur massique est exprimée en masse totale de matières
+nucléaires sur masse nette de l'objet.
+
+Dans le cas d'un mélange de matières, le seuil S d'appartenance à la catégorie
+I, II ou III est déterminé au moyen de la formule : 1 / S = ∑ (fi / Si), où fi
+désigne la fraction massique de la matière i dans le mélange et Si désigne le
+seuil associé à la matière i tel que défini dans le tableau ci-dessus.

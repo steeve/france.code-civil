@@ -1,20 +1,13 @@
 Article R1333-3
 ----
-L'autorisation prévue à l'article L. 1333-2 est délivrée par le ministre chargé
-de l'industrie. Le ministre de l'intérieur et, en ce qui concerne les
-autorisations d'importation et d'exportation, le ministre des affaires
-étrangères sont consultés par le ministre chargé de l'industrie sur les demandes
-d'autorisation. Ils font connaître leur avis dans un délai de quinze jours.
-Passé ce délai, l'avis est réputé favorable.
+L'autorisation d'importation, d'exportation, d'élaboration, de détention, de
+transfert, d'utilisation et de transport, prévue à l'article L. 1333-2 du
+présent code, est délivrée par le ministre de la défense pour les matières
+nucléaires destinées aux besoins de la défense et par le ministre chargé de
+l'énergie pour les matières destinées à tout autre usage.
 
-L'autorisation est donnée pour une ou plusieurs des matières définies à
-l'article R. 1333-1 et pour une ou plusieurs des activités énumérées à l'article
-L. 1333-2.
-
-Lorsque le pétitionnaire exerce ou se propose d'exercer son activité dans
-plusieurs établissements, une autorisation est délivrée pour chaque
-établissement.
-
-Pour des établissements comprenant plusieurs installations distinctes, le
-ministre chargé de l'industrie peut délivrer une autorisation particulière par
-installation.
+Le ministre de la défense et le ministre chargé de l'énergie consultent le
+ministre de l'intérieur sur les demandes d'autorisation ainsi que le ministre
+des affaires étrangères sur celles qui impliquent des mouvements d'importation
+ou d'exportation. Le ministre consulté fait connaître son avis dans un délai de
+deux mois. A défaut, son avis est réputé favorable.

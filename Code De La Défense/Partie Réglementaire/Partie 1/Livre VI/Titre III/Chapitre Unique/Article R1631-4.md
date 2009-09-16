@@ -16,4 +16,14 @@ australes et antarctiques françaises ou le préfet de la Réunion " ;
 
 4° Les dispositions des articles R. 1337-18 à R. 1337-22 relatifs à la
 répartition des ressources industrielles sont adaptées comme il est prévu aux
-articles R. 1682-7 et R. 1682-8.
+articles R. 1682-7 et R. 1682-8 ;
+
+5° A l'article R. 1333-3 et au 1° du IV de l'article R. 1333-17, les mots : " le
+ministre de l'intérieur " sont remplacés par les mots : " le ministre chargé de
+l'outre-mer " ;
+
+6° A l'avant-dernier alinéa de l'article R. 1333-4, les mots : " et du ministre
+chargé de l'énergie " sont remplacés par les mots : " du ministre chargé de
+l'énergie et du ministre chargé de l'outre-mer " et à l'article R. 1333-18, les
+mots : " et du ministre chargé des transports " sont remplacés par les mots : "
+du ministre chargé des transports et du ministre chargé de l'outre-mer ".

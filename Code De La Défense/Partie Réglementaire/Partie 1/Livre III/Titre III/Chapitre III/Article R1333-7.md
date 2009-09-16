@@ -1,10 +1,11 @@
 Article R1333-7
 ----
-Toute modification envisagée des conditions d'exercice d'une activité autorisée
-doit faire l'objet d'une nouvelle demande si cette modification n'est pas
-compatible avec les conditions et limites prévues par l'autorisation.
-
-Toute autre modification qui affecterait l'une des données figurant dans la
-demande doit faire l'objet d'une information préalable du ministre chargé de
-l'industrie qui peut faire connaître, dans le délai d'un mois, qu'une nouvelle
-demande est nécessaire.
+Tout projet de modification affectant l'un des éléments pris en compte lors de
+la délivrance de l'autorisation doit faire l'objet d'une information préalable
+du ministre compétent. Si le ministre estime que la modification envisagée n'est
+pas compatible avec les conditions et les limites prévues dans l'autorisation,
+il informe dans un délai d'un mois le titulaire qu'une nouvelle demande
+d'autorisation est requise et fixe les conditions dans lesquelles l'autorisation
+en vigueur peut être utilisée pendant l'instruction de la nouvelle demande. Dans
+le cas contraire, l'autorisation est modifiée pour prendre en compte le ou les
+nouveaux éléments.

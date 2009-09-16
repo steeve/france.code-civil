@@ -9,8 +9,8 @@ au titre VIII du présent livre :
 à R. 1132-33, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ;
 
 2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-1
-à R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R. 1337-1 à R. 1337-13, R.
-1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ;
+à R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R.
+1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ;
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ;
 

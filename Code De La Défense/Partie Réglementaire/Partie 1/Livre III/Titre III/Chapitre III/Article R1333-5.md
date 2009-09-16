@@ -1,11 +1,15 @@
 Article R1333-5
 ----
-L'autorisation peut être donnée conjointement avec d'autres autorisations
-prévues par les règlements en vigueur et concernant les mêmes matières ou
-activités, dès lors que les conditions exigées par ces règlements sont
-satisfaites.
+L'autorisation précise, pour chaque activité autorisée, les conditions
+auxquelles est assujetti son exercice. Elle fixe, en particulier, la durée de sa
+validité et les quantités maximales et les flux maximaux de matières nucléaires
+qu'elle couvre.
 
-L'autorisation précise, en tant que de besoin, pour chaque activité autorisée,
-les conditions et limites auxquelles est assujetti son exercice. L'autorisation
-peut être, en particulier, assortie de limites quant à la durée de sa validité
-et aux quantités maximales ou flux maximaux de matières concernées.
+L'autorisation est donnée pour une ou plusieurs des matières définies à
+l'article R. 1333-1 et pour une ou plusieurs des activités énumérées à l'article
+L. 1333-2.
+
+Lorsque le pétitionnaire se propose d'exercer son activité dans plusieurs
+établissements, une autorisation est délivrée pour chaque établissement. Pour
+les établissements comprenant plusieurs installations, l'autorisation peut être
+délivrée globalement ou pour chaque installation.

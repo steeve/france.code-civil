@@ -1,7 +1,6 @@
 Article R1333-19
 ----
-Lorsque deux ou plusieurs transporteurs participent successivement à un même
-transport, l'obligation d'assurer la protection est transférée d'un transporteur
-au suivant dans des conditions qui garantissent la continuité de cette
-protection, chaque transporteur étant chargé d'assurer le transport au
-transporteur suivant.
+Tout incident ou accident affectant un transport de matières nucléaires est
+porté sans délai par le transporteur à la connaissance de l'Institut de
+radioprotection et de sûreté nucléaire, lequel informe sans délai les services
+de police ou de gendarmerie, ainsi que le ministre compétent.

@@ -1,8 +1,8 @@
 Article R1333-18
 ----
-Tout titulaire d'une autorisation prévue au paragraphe 2 de la présente
-sous-section et concernant une activité de transport au sens de l'article R.
-1333-17 est chargé du contrôle des matières en cours de transport, conformément
-à l'article R. 1333-10. Il doit donc, à ce titre, mettre en place un ensemble de
-mesures de protection adapté à la nature et aux quantités de matières
-transportées.
+Un arrêté conjoint du ministre de l'intérieur, du ministre de la défense et des
+ministres chargés de l'énergie et des transports détermine les mesures
+applicables pour la protection et le contrôle des matières nucléaires en cours
+de transport et les modalités de demande, d'instruction et de délivrance de
+l'accord d'exécution, pour chacune des catégories de matières nucléaires
+définies à l'article R. 1333-70.

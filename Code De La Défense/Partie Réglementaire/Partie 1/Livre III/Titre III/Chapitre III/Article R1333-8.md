@@ -1,31 +1,28 @@
 Article R1333-8
 ----
-L'autorisation définie au présent paragraphe n'est pas requise si les quantités
-d'éléments :
+Lorsque la demande d'autorisation porte sur un même établissement, ou un même
+transport dans le même véhicule, ou un flux d'importations et d'exportations sur
+une durée de douze mois, l'autorisation définie au présent paragraphe est
+requise si la quantité de l'un des éléments détenus ou mis en mouvement atteint
+ou dépasse les seuils suivants :
 
-1° Détenus ou utilisés dans une installation fixe ;
+1° Plutonium ou uranium 233 : 3 g ;
 
-2° Transportés dans un même véhicule ;
+2° Uranium enrichi à 20 % ou plus en uranium 235 : 15 g d'uranium 235 contenu ;
 
-3° Importés ou exportés au cours d'une période de douze mois,
+3° Uranium enrichi à moins de 20 % en uranium 235 : 250 g d'uranium 235 contenu
+;
 
-ne dépassent à aucun moment les seuils suivants :
+4° Uranium naturel ou appauvri en uranium 235 par rapport à l'uranium naturel :
+500 kg ;
 
-a) Plutonium ou uranium 233 : 3 grammes ;
-
-b) Uranium enrichi à 20 % ou plus en uranium 235 : 15 grammes d'uranium 235
-contenu ;
-
-c) Uranium enrichi à moins de 20 % en uranium 235 : 250 grammes d'uranium 235
-contenu ;
-
-d) Uranium naturel ou appauvri en uranium 235 par rapport à l'uranium naturel,
+5° Thorium, à l'exclusion des alliages contenant moins de 5 % en masse de
 thorium : 500 kg ;
 
-e) Deuterium : 200 kg, l'autorisation requise au-delà de ce seuil n'impliquant,
-dans ce cas, que les obligations définies au paragraphe 4 de la présente
-sous-section ;
+6° Tritium : 2 g ;
 
-f) Tritium : 2 grammes ;
+7° Lithium enrichi en lithium 6 : 1 kg de lithium 6 contenu.
 
-g) Lithium enrichi en lithium 6 : 1 kg de lithium 6 contenu.
+Lorsque l'un de ces seuils est atteint, l'autorisation prend en compte
+l'ensemble des matières détenues dans une installation ou un établissement,
+quelles que soient leurs quantités.

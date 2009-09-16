@@ -23,4 +23,17 @@ articles R. 1682-7 et R. 1682-8 ;
 c) Au 2° du I de l'article R. 1332-1, la référence à l'article L. 511-1 du code
 de l'environnement, mentionnée à l'article L. 1332-2 du code de la défense, est
 remplacée par la référence à la réglementation applicable localement en matière
-d'établissements dangereux insalubres ou incommodes.
+d'établissements dangereux insalubres ou incommodes ;
+
+d) A l'article R. 1333-3 et au 1° du IV de l'article R. 1333-17, les mots : " le
+ministre de l'intérieur " sont remplacés par les mots : " le ministre chargé de
+l'outre-mer " ;
+
+e) A l'avant-dernier alinéa de l'article R. 1333-4, les mots : " et du ministre
+chargé de l'énergie " sont remplacés par les mots : " du ministre chargé de
+l'énergie et du ministre chargé de l'outre-mer ", et à l'article R. 1333-18, les
+mots : " et du ministre chargé des transports " sont remplacés par les mots : "
+du ministre chargé des transports et du ministre chargé de l'outre-mer " ;
+
+f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est
+remplacé par sa contrepartie en francs CFP.
