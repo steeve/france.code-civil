@@ -170,9 +170,8 @@ des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
 -Ingénieurs du corps interministériel des ingénieurs des télécommunications
 régis par le décret n° 67-715 du 16 août 1967.
 
--Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des
-télécommunications en vertu du 1° de l'article 36 du décret n° 96-1177 du 27
-décembre 1996.
+-Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en
+vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 
 Agents non titulaires
@@ -193,9 +192,9 @@ contractuels chargés de mission de classe normale, agents contractuels hors
 catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62
 du 28 janvier 1975 modifié.
 
--Personnels contractuels de droit public du groupe des écoles des
-télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177
-du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+-Personnels contractuels de droit public du Institut Télécom recrutés en vertu
+du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le
+décret n° 86-83 du 17 janvier 1986 modifié.
 
 -autres agents recrutés par les établissements publics participant au service
 public de l'enseignement supérieur en application des articles 4 et 6 de la loi
