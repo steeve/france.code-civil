@@ -1,6 +1,7 @@
 Article D338-17
 ----
-La délibération du jury général de l'examen conduisant à la délivrance du
-diplôme " un des meilleurs ouvriers de France " est organisée au cours de la
-quatrième année qui suit l'exposition nationale du travail mentionnée à
-l'article D. 338-9.
+Le ministre chargé de l'éducation fixe la date de chaque session d'examen. La
+délibération du jury général de l'examen conduisant à la délivrance du diplôme "
+un des meilleurs ouvriers de France " est organisée à l'issue des épreuves
+finales et avant l'exposition nationale du travail mentionnée à l'article D.
+338-9.
