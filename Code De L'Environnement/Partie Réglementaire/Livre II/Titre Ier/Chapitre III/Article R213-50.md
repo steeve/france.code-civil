@@ -1,16 +1,13 @@
 Article R213-50
 ----
-Le nombre de membres titulaires des comités de bassin prévus à l'article L.
-213-13-1 est fixé dans le tableau annexé au présent article.
-
-Des membres suppléants sont désignés en nombre égal à celui des membres
-titulaires et dans les mêmes conditions.
+Le nombre des membres des comités de bassin prévus à l'article L. 213-13-1 est
+fixé dans le tableau annexé au présent article.
 
 Le ministre chargé de l'environnement détermine par arrêté, compte tenu des
 caractéristiques propres à chaque circonscription :
 
 1° Les catégories d'usagers représentés, le nombre des représentants de chaque
-catégorie ainsi que le nombre de personnes compétentes, qui ne peut être
+catégorie ainsi que le nombre de personnalités qualifiées, qui ne peut être
 supérieur au tiers du nombre des représentants des usagers ;
 
 2° La liste des administrations de l'Etat représentées au sein de chaque comité
@@ -31,7 +28,7 @@ DÉPARTEMENTS
 COMMUNES
 
 
-USAGERS et personnes compétentes
+USAGERS et personnalités qualifiées
 
 ÉTAT
 
