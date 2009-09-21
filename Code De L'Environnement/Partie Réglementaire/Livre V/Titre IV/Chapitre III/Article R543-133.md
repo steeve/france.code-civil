@@ -1,16 +1,17 @@
 Article R543-133
 ----
-Les conventions mentionnées à l'article R. 543-132 précisent à cet effet, pour
-les catégories de piles ou d'accumulateurs auxquelles elles s'appliquent :
+Est puni de l'amende prévue pour les contraventions de 3e classe le fait :
 
-1° Les objectifs que se fixent les cocontractants en matière de collecte, de
-valorisation et d'élimination des piles et accumulateurs usagés ;
+1° Pour un producteur :
 
-2° Les responsabilités respectives des cocontractants en ce qui concerne tant
-les conditions dans lesquelles sont réalisées les opérations de collecte, de
-valorisation ou d'élimination de ces piles et de ces accumulateurs que les
-modalités de financement de ces opérations ;
+a) De mettre sur le marché une pile ou un accumulateur sans respecter les
+dispositions prévues à l'article R. 543-127 ;
 
-3° Les moyens mis en oeuvre en vue d'informer les ménages des dangers résultant
-du mélange des piles et accumulateurs usagés avec d'autres déchets ménagers et
-d'obtenir leur concours.
+b) De ne pas communiquer les informations prévues à l'article R. 543-132 ;
+
+2° Pour un distributeur, de ne pas reprendre une pile ou un accumulateur usagé
+dans les conditions prévues aux articles R. 543-128-1 et R. 543-129-1 ;
+
+3° Pour une personne qui traite, exporte ou expédie hors du territoire national
+en vue de leur traitement des piles et accumulateurs usagés, de ne pas
+communiquer les informations prévues à l'article R. 543-132.

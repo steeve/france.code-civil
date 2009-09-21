@@ -37,7 +37,7 @@ Sont exclues de ces dispositions les personnes qui remettent des huiles usagées
 personnes qui remettent un véhicule hors d'usage à une installation de
 traitement agréée en application des articles R. 543-154 à R. 543-171, les
 personnes qui ont notifié un transfert transfrontalier de déchets conformément
-au règlement n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006
+au règlement n° 1013 / 2006 du Parlement européen et du Conseil du 14 juin 2006
 concernant les transferts de déchets, les ménages, les personnes qui sont
 admises à déposer des déchets dangereux dans des déchetteries ou qui les
 remettent à un collecteur de petites quantités de déchets dangereux.
@@ -45,8 +45,8 @@ remettent à un collecteur de petites quantités de déchets dangereux.
 Sont également exclues de ces dispositions les personnes qui remettent des piles
 et accumulateurs usagés, des déchets d'équipements électriques et électroniques
 ou des fluides frigorigènes usagés aux personnes tenues de les reprendre en
-application de l'article R. 543-130, des articles R. 543-188 et R. 543-195 qui
-en sont issus et des articles R. 543-94 à R. 543-96 ou aux organismes auxquels
-ces personnes ont transféré leurs obligations. Dans ce cas, le bordereau est
-émis par la personne tenue de reprendre les déchets concernés ou par l'organisme
-auquel cette personne a transféré cette obligation.
+application des articles R. 543-128-3, R. 543-129-3 et R. 543-130, des articles
+R. 543-188 et R. 543-195 qui en sont issus et des articles R. 543-94 à R. 543-96
+ou aux organismes auxquels ces personnes ont transféré leurs obligations. Dans
+ce cas, le bordereau est émis par la personne tenue de reprendre les déchets
+concernés ou par l'organisme auquel cette personne a transféré cette obligation.
