@@ -1,9 +1,7 @@
 Article A321-29
 ----
-L'admission est prononcée par le jury si la moyenne des notes obtenues par le
-candidat est égale ou supérieure à 10 sur 20. A l'issue des épreuves, le jury
-dresse la liste des candidats déclarés admis, laquelle est affichée dans les
-locaux du conseil des ventes volontaires de meubles aux enchères publiques et de
-la Chambre nationale des commissaires-priseurs judiciaires. Le conseil des
-ventes volontaires de meubles aux enchères publiques délivre à chaque candidat
-admis une attestation de réussite à l'épreuve d'aptitude.
+Le conseil des ventes volontaires de meubles aux enchères publiques assure une
+publicité suffisante, quatre mois au moins à l'avance, de la date fixée pour
+l'épreuve, notamment par des insertions dans les revues professionnelles, par un
+affichage dans ses locaux et dans ceux de la Chambre nationale des
+commissaires-priseurs judiciaires et par une diffusion sur son site internet.
