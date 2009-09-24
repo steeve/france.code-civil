@@ -1,9 +1,8 @@
 Article R741-5
 ----
-Les copies délivrées par les greffiers à titre de simple renseignement et
-relatives aux inscriptions portées aux registres de publicité légale dont ils
-ont la charge peuvent être diffusées par voie électronique dans les conditions
-prévues au présent article :
+Les copies délivrées par les greffiers relatives aux inscriptions portées aux
+registres de publicité légale dont ils ont la charge peuvent être diffusées par
+voie électronique dans les conditions prévues au présent article :
 
 a) Les informations sont diffusées directement par le greffe compétent.
 Toutefois, les greffiers peuvent s'associer au sein d'un groupement ayant soit
