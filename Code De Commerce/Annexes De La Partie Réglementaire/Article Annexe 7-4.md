@@ -1,7 +1,6 @@
 Article Annexe 7-4
 ----
-Nombre des assesseurs des chambres commerciales des tribunaux de grande instance
-
+Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 
@@ -56,7 +55,7 @@ Thionville
 
 12
 
-Nombre des juges élus des tribunaux mixtes de commerce des départements
+Nombre de juges élus des tribunaux mixtes de commerce des départements
 d'outre-mer
 
 
@@ -96,10 +95,10 @@ Cayenne
 
 5
 
-Cour d'appel de Saint-Denis de la Réunion
+Cour d'appel de Saint-Denis de La Réunion
 
 
-Réunion
+La Réunion
 
 Saint-Denis
 
