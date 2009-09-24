@@ -4,9 +4,9 @@ Les demandes visant l'établissement des installations mentionnées à l'article
 244-1, et exemptées du permis de construire, à l'exception de celles relevant de
 la loi du 15 juin 1906 sur les distributions d'énergie et de celles pour
 lesquelles les arrêtés visés à l'article précédent institueront des procédures
-spéciales, devront être adressées à l'ingénieur en chef des ponts et chaussées
-du département dans lequel les installations sont situées. Récépissé en sera
-délivré.
+spéciales, devront être adressées à l'ingénieur en chef des ponts, des eaux et
+des forêts du département dans lequel les installations sont situées. Récépissé
+en sera délivré.
 
 Elles mentionneront la nature des travaux à entreprendre, leur destination, la
 désignation d'après les documents cadastraux des terrains sur lesquels les
