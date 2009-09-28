@@ -176,12 +176,7 @@ Mayenne
 
 [Laval
 
-Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (11)]
-
-[Laval
-
-Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (12 et
-3)]
+Ressort des tribunaux d'instance de Château-Gontier et Laval. (12 et 3)]
 
 
 Sarthe
@@ -365,11 +360,11 @@ Nièvre
 [Nevers
 
 Ressort des tribunaux d'instance de Château-Chinon, Clamecy,
-Cosne-Cours-sur-Loire et Nevers. (3)]
+Cosne-Cours-sur-Loire et Nevers. (9)]
 
 [Nevers
 
-Ressort des tribunaux d'instance de Clamecy et Nevers. (4)]
+Ressort des tribunaux d'instance de Clamecy et Nevers. (10)]
 
 Cour d'appel de Caen
 
@@ -520,11 +515,11 @@ Haute-Marne
 
 [Chaumont
 
-Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (3)]
+Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (9)]
 
 [Chaumont
 
-Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (4)]
+Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (10)]
 
 
 Saône-et-Loire
@@ -806,11 +801,11 @@ Aude
 [Carcassonne
 
 Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et
-Narbonne. (3)]
+Narbonne. (9)]
 
 [Carcassonne
 
-Ressort des tribunaux d'instance de Carcassonne et Narbonne. (4)]
+Ressort des tribunaux d'instance de Carcassonne, Limoux et Narbonne. (10 et 3)]
 
 
 Aveyron
@@ -830,7 +825,7 @@ Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue.
 
 [Rodez
 
-Ressort des tribunaux d'instance d'Espalion et Rodez. (10 et 3)]
+Ressort du tribunal d'instance de Rodez. (10)]
 
 
 Hérault
@@ -1792,7 +1787,7 @@ Ressort du tribunal de Première instance de Mamoudzou.
 
 (2) applicable à compter du 1er janvier 2009.
 
-(3) applicable jusqu'au 31 décembre 2009.
+(3) applicable à compter du 31 décembre 2009.
 
 (4) applicable à compter du 1er janvier 2010.
 
