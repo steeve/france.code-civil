@@ -4,13 +4,8 @@ I. - Les réclamations concernant l'assiette des redevances sont adressées par
 pli recommandé au directeur de l'agence concernée.
 
 Pour être recevables, les réclamations doivent être présentées au plus tard le
-31 décembre de la deuxième année suivant celle, selon le cas :
-
-1° De la date de notification de l'ordre de recettes ;
-
-2° Du paiement à la personne mentionnée au II de l'article R. 213-48-21 qui
-facture la redevance ou la collecte et auprès de laquelle la redevance est
-perçue.
+31 décembre de la deuxième année suivant celle de la date de notification de
+l'ordre de recettes.
 
 II. - En cas de contestation relative à l'exercice du droit de reprise d'une
 redevance, le contribuable doit présenter sa réclamation au plus tard le 31
