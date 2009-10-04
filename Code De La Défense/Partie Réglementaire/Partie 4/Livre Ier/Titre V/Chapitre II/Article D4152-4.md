@@ -2,11 +2,11 @@ Article D4152-4
 ----
 Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire
 supérieur des premier et deuxième degrés relève du chef d'état-major concerné. A
-la délégation générale pour l'armement, cet enseignement relève du délégué
-général pour l'armement. Le directeur général de la gendarmerie nationale, le
-directeur central du service de santé des armées, le directeur central du
-service des essences des armées et, pour la justice militaire, le directeur des
-affaires juridiques peuvent être chargés de diriger l'enseignement conduisant à
+la direction générale de l'armement, cet enseignement relève du délégué général
+pour l'armement. Le directeur général de la gendarmerie nationale, le directeur
+central du service de santé des armées, le directeur central du service des
+essences des armées et, pour la justice militaire, le directeur des affaires
+juridiques peuvent être chargés de diriger l'enseignement conduisant à
 l'acquisition de certains diplômes ou brevets propres à leur formation
 rattachée.
 

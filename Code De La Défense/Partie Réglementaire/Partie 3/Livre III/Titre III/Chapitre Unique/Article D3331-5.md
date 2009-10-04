@@ -10,7 +10,7 @@ l'armement, après avis du vice-président du Conseil général de l'armement. L
 secrétaire général assure la gestion des moyens de la structure permanente du
 Conseil général de l'armement. La structure permanente peut associer à ses
 travaux des personnalités qualifiées extérieures. La structure permanente
-bénéficie en tant que de besoin du concours de la délégation générale pour
+bénéficie en tant que de besoin du concours de la direction générale de
 l'armement. Elle peut demander le concours des inspecteurs de l'armement dans
 les conditions fixées par une instruction particulière du ministre de la
 défense.

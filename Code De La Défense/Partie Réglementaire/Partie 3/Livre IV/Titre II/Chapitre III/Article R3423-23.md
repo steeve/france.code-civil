@@ -17,7 +17,7 @@ a) Quatre personnalités scientifiques ;
 
 b) Quatre personnalités appartenant à l'industrie aérospatiale ;
 
-c) Deux représentants de la délégation générale pour l'armement ;
+c) Deux représentants de la direction générale de l'armement ;
 
 d) Un représentant du ministère chargé de la recherche ;
 

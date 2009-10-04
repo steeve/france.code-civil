@@ -3,16 +3,16 @@ Article R3411-61
 I. ― Le conseil d'administration de l'Ecole nationale supérieure des ingénieurs
 des études et techniques d'armement est composé de vingt-quatre membres. Il
 comprend : 1° Neuf représentants de l'Etat : a) Le directeur des ressources
-humaines de la délégation générale pour l'armement, ou son représentant ; b) Un
-directeur de l'administration centrale de la délégation générale pour
-l'armement, ou son représentant ; c) Le directeur des affaires financières du
-ministère de la défense, ou son représentant ; d) Un inspecteur de l'armement ;
-e) Un représentant du chef d'état-major des armées ; f) Un représentant du
-ministre chargé de l'industrie ; g) Un représentant du ministre chargé de
-l'enseignement supérieur ; h) Un représentant du ministre chargé de la mer ; i)
-Un représentant du ministre chargé du budget ; 2° Sept personnalités : a) Le
-directeur général de l'institut supérieur de l'aéronautique et de l'espace ; b)
-Quatre personnalités qualifiées, désignées en raison de leur compétence dans les
+humaines de la direction générale de l'armement, ou son représentant ; b) Un
+directeur de l'administration centrale de la direction générale de l'armement,
+ou son représentant ; c) Le directeur des affaires financières du ministère de
+la défense, ou son représentant ; d) Un inspecteur de l'armement ; e) Un
+représentant du chef d'état-major des armées ; f) Un représentant du ministre
+chargé de l'industrie ; g) Un représentant du ministre chargé de l'enseignement
+supérieur ; h) Un représentant du ministre chargé de la mer ; i) Un représentant
+du ministre chargé du budget ; 2° Sept personnalités : a) Le directeur général
+de l'institut supérieur de l'aéronautique et de l'espace ; b) Quatre
+personnalités qualifiées, désignées en raison de leur compétence dans les
 branches professionnelles correspondant aux activités de l'école ; c) Un
 représentant de l'association des anciens élèves de l'école ; d) Un représentant
 du conseil régional de la région Bretagne ; 3° Huit représentants du personnel

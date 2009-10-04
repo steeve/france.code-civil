@@ -3,8 +3,8 @@ Article R3411-33
 I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques
 avancées est composé de vingt-quatre membres. Il comprend : 1° Huit
 représentants de l'Etat : a) Le directeur des ressources humaines de la
-délégation générale pour l'armement, ou son représentant ; b) Un directeur de
-l'administration centrale de la délégation générale pour l'armement, ou son
+direction générale de l'armement, ou son représentant ; b) Un directeur de
+l'administration centrale de la direction générale de l'armement, ou son
 représentant ; c) Le directeur des affaires financières du ministère de la
 défense, ou son représentant ; d) Un inspecteur de l'armement ; e) Un
 représentant du ministre chargé de l'industrie ; f) Un représentant du ministre

@@ -27,7 +27,7 @@ maritimes, les pelotons de sûreté maritime et portuaire, le peloton de
 gendarmerie maritime de Paris ;
 
 8° Les brigades de la gendarmerie de l'armement placées auprès d'établissements
-relevant de la délégation générale pour l'armement ;
+relevant de la direction générale de l'armement ;
 
 9° Les pelotons de gendarmerie de montagne ou de haute montagne ;
 

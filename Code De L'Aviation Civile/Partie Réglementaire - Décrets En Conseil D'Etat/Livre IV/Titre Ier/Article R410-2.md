@@ -14,8 +14,8 @@ l'océan Indien, ainsi qu'aux fonctionnaires placés sous leur autorité.
 
 Le ministre de la défense peut, par arrêté, déléguer sa signature pour délivrer,
 proroger ou renouveler les titres aéronautiques et les qualifications relevant
-de sa compétence au directeur du centre d'essais en vol de la délégation
-générale pour l'armement et aux fonctionnaires placés sous son autorité.
+de sa compétence au directeur du centre d'essais en vol de la direction générale
+de l'armement et aux fonctionnaires placés sous son autorité.
 
 En Nouvelle-Calédonie et en Polynésie française, sauf dans le domaine des essais
 et réceptions, les titres aéronautiques et les qualifications sont délivrés,
