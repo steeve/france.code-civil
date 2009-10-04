@@ -1,0 +1,9 @@
+Article D214-1
+----
+Le Conseil supérieur de l'éducation routière est placé auprès du ministre chargé
+des transports, qui peut le saisir de toute question relative à l'éducation
+routière, notamment l'apprentissage de la conduite, le permis de conduire et
+l'organisation des professions.
+
+Le Conseil supérieur de l'éducation routière peut présenter toutes propositions
+au ministre chargé des transports dans le domaine de l'éducation routière.
