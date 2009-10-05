@@ -2,7 +2,7 @@ Article D713-6
 ----
 Le contrôle médical est exercé à la diligence de la direction des services de
 santé des armées selon des modalités qui sont fixées par un arrêté du ministre
-de la défense.
+de la défense et du ministre chargé de la sécurité sociale.
 
 Le contrôle porte sur l'appréciation faite par le médecin traitant de l'état de
 santé de l'assuré et sur la constatation des abus en matière de soins. Il est
