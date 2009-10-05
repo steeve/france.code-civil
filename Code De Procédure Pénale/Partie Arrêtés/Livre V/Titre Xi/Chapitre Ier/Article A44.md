@@ -200,13 +200,9 @@ Circonscription judiciaire d'Aix-en-Provence.
 
 Antenne d'Arles-Tarascon.
 
-(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire d'Arles.
+Maison centrale d'Arles.
 
-(Arr. 13 déc. 2005, art. 5) circonscription judiciaire de Tarascon.
-
-(Arr. 13 déc. 2005, art. 5) Centre de détention de Tarascon.
-
-(Arr. 17 sept. 2003, art. 5) Circonscription judiciaire de Tarascon.
+Circonscription judiciaire de Tarascon.
 
 Centre de détention de Tarascon.
 

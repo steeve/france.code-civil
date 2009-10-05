@@ -8,8 +8,6 @@ Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie).
 
 Centre de détention d'Argentan (Orne).
 
-Quartier centre de détention pénitentiaire d'Arles (Bouche-du-Rhône).
-
 Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet
 (Vaucluse).
 
