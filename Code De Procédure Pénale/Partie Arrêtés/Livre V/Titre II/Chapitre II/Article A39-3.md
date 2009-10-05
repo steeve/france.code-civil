@@ -10,4 +10,7 @@ Val-de-Marne).
 Quartier pour peines aménagées du centre pénitentiaire de Marseille
 (Bouches-du-Rhône).
 
+Quartier pour peines aménagées du centre pénitentiaire de
+Meaux-Chauconin-Neufmontiers (Seine-et-Marne).
+
 Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
