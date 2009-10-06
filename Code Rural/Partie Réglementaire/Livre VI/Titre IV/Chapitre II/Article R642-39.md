@@ -1,8 +1,8 @@
 Article R642-39
 ----
-Le contrôle du cahier des charges d'un produit sollicitant le bénéfice d'un
-signe d'identification de la qualité et de l'origine est organisé par un plan de
-contrôle ou d'inspection élaboré par l'organisme de contrôle.
+Le contrôle du respect du cahier des charges d'un produit sollicitant le
+bénéfice d'un signe d'identification de la qualité et de l'origine est organisé
+par un plan de contrôle ou d'inspection élaboré par l'organisme de contrôle.
 
 Ce plan de contrôle ou d'inspection rappelle les autocontrôles réalisés par les
 opérateurs sur leur propre activité et les contrôles internes réalisés sous la
@@ -13,10 +13,10 @@ modalités de délivrance de l'habilitation reconnaissant l'aptitude de
 l'opérateur à satisfaire aux exigences du cahier des charges du signe dont il
 revendique le bénéfice.
 
-Pour les appellations d'origine, le plan de contrôle ou d'inspection comporte
-les modalités de désignation des membres de la commission chargée de l'examen
-organoleptique prévue à l'article L. 642-27 ainsi que les modalités de
-fonctionnement de cette commission.
+Pour les appellations d'origine et les indications géographiques protégées, le
+plan de contrôle ou d'inspection comporte les modalités de désignation des
+membres de la commission chargée de l'examen organoleptique prévue à l'article
+L. 642-27 ainsi que les modalités de fonctionnement de cette commission.
 
 L'organisme de contrôle transmet le plan de contrôle ou d'inspection à
 l'Institut national de l'origine et de la qualité.

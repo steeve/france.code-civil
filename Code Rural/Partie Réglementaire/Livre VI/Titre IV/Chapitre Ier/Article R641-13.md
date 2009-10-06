@@ -11,7 +11,7 @@ publiée au Journal officiel de la République française et au Bulletin officie
 de la propriété industrielle. Elle indique également l'adresse de l'Institut
 national de l'origine et de la qualité ainsi que celle du site internet de cet
 établissement où le projet de cahier des charges et, le cas échéant, le projet
-de document unique mentionné au 2° et au 3° du II de l'article R. 641-12 peuvent
+de document unique mentionné au 1° et au 2° du II de l'article R. 641-12 peuvent
 être consultés.
 
 Les oppositions motivées sont adressées par écrit à l'Institut national de
@@ -26,9 +26,8 @@ investissements spécifiques réalisés, leur date de réalisation et les aides
 
 Lorsqu'une opposition est fondée sur un droit antérieur conféré par
 l'enregistrement d'une marque, l'Institut national de l'origine et de la qualité
-consulte l'Institut national de la propriété industrielle ; si celui-ci n'a pas
-émis d'avis dans le délai de deux mois suivant sa saisine, il est réputé être
-d'avis que le droit antérieur invoqué n'est pas fondé.
+consulte l'Institut national de la propriété industrielle. Celui-ci dispose d'un
+délai de deux mois suivant sa saisine pour émettre son avis motivé.
 
 Les oppositions et, le cas échéant, l'avis de l'Institut national de la
 propriété industrielle sont notifiés par l'institut au demandeur qui dispose

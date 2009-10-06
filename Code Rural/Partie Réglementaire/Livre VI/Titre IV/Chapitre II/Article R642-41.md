@@ -9,4 +9,5 @@ indication géographique protégée ainsi que la certification du mode de
 production biologique ;
 
 - soit une activité d'inspection des produits bénéficiant d'une appellation
-d'origine ayant opté pour ce mode de contrôle.
+d'origine ou des vins bénéficiant d'une indication géographique protégée ayant
+opté pour ce mode de contrôle.

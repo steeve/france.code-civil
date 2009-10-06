@@ -11,4 +11,5 @@ qui les accompagnent ;
 
 3° Définit les principes présidant à l'organisation des contrôles ainsi que ceux
 de la composition et du fonctionnement de la commission chargée de l'examen
-organoleptique auquel sont soumises les appellations d'origine.
+organoleptique auquel sont soumises les appellations d'origine et les
+indications géographiques protégées relatives à des vins.

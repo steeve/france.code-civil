@@ -9,5 +9,5 @@ n'en bénéficiant pas.
 
 La période d'adaptation est fixée par décret en Conseil d'Etat si le nom
 envisagé pour l'appellation d'origine ou l'indication géographique protégée
-concerne un fromage défini par l'annexe du décret n° 88-1206 du 30 décembre
-1988.
+concerne un fromage défini par l'annexe du décret n° 2007-628 du 27 avril 2007
+relatif aux fromages et spécialités fromagères.

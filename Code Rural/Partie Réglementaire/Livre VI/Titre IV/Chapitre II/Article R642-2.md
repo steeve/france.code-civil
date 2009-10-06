@@ -7,6 +7,8 @@ législation sur les aliments pour animaux et les denrées alimentaires et avec
 les dispositions législatives relatives à la santé animale et au bien-être des
 animaux.
 
-Il est également une des instances de contrôle au sens du règlement (CE) n°
-2729/2000 du 14 décembre 2000 portant modalités d'application relatives aux
-contrôles dans le secteur vitivinicole.
+Il est également une des instances de contrôle au sens de l'article 118
+sexdecies du règlement (CE) n° 1234/2007 du Conseil du 22 octobre 2007 portant
+organisation commune des marchés dans le secteur agricole et dispositions
+spécifiques en ce qui concerne certains produits de ce secteur (règlement "OCM
+unique").

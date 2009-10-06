@@ -5,9 +5,7 @@ I.-Le dossier comprend :
 1° La désignation précise du produit ;
 
 2° La demande de reconnaissance de l'organisme chargé d'assurer la défense et la
-gestion du produit pour lequel le bénéfice du signe de qualité est sollicité ou
-la décision par laquelle la qualité d'organisme de défense et de gestion lui a
-été reconnue ;
+gestion du produit pour lequel le bénéfice du signe de qualité est sollicité ;
 
 3° Le projet de cahier des charges ;
 
@@ -23,20 +21,26 @@ contrôler ainsi que leurs méthodes d'évaluation.
 
 II.-Ce dossier est complété :
 
-1° Pour une appellation d'origine contrôlée, en vue de sa reconnaissance, par
-les éléments justifiant le lien avec le milieu géographique ;
+1° Pour une appellation d'origine protégée ou une indication géographique
+protégée, en vue de leur enregistrement, par le document unique prévu au point
+(c) du paragraphe 3 de l'article 5 du règlement (CE) n° 510 / 2006 du Conseil du
+20 mars 2006 relatif à la protection des indications géographiques et des
+appellations d'origine des produits agricoles et des denrées alimentaires, ainsi
+que, pour une indication géographique protégée, le cas échéant, par la demande
+de protection nationale transitoire de la dénomination ;
 
-2° Pour une appellation d'origine protégée, en vue de son enregistrement, par le
-projet de document unique prévu par l'article 5, paragraphe 3 (c), du règlement
-(CE) n° 510 / 2006 du 10 mars 2006 ;
-
-3° Pour une indication géographique protégée, en vue de son enregistrement, par
-les éléments justifiant le lien avec l'origine géographique et le projet de
-document unique prévu par l'article 5, paragraphe 3 (c), du règlement (CE) n°
-510 / 2006 du 10 mars 2006 ainsi que, le cas échéant, la demande de protection
+2° Pour une appellation d'origine protégée ou une indication géographique
+protégée relatives à des vins, en vue de leur enregistrement, par le document
+unique prévu par l'article 118 quater du règlement (CE) n° 1234 / 2007 du
+Conseil du 22 octobre 2007 portant organisation commune des marchés dans le
+secteur agricole et dispositions spécifiques en ce qui concerne certains
+produits de ce secteur (règlement " OCM unique "), ainsi que, pour une
+indication géographique protégée, le cas échéant, par la demande de protection
 nationale transitoire de la dénomination ;
 
-4° Pour une spécialité traditionnelle garantie, en vue de son enregistrement,
+3° Pour une spécialité traditionnelle garantie, en vue de son enregistrement,
 par les éléments justifiant le caractère traditionnel du produit et, le cas
-échéant, la demande de réservation du nom prévue par l'article 13, paragraphe 2,
-du règlement (CE) n° 509 / 2006 du 10 mars 2006.
+échéant, par la demande de réservation du nom prévue au paragraphe 2 de
+l'article 13 du règlement (CE) n° 509 / 2006 du Conseil du 20 mars 2006 relatif
+aux spécialités traditionnelles garanties des produits agricoles et des denrées
+alimentaires.
