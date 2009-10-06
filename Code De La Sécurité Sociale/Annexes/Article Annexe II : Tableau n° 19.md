@@ -21,24 +21,51 @@ significatif.
 
 21 jours
 
-Travaux suivants exposant au contact d'animaux susceptibles d'être porteurs de
-germe et effectués notamment au contact d'eau ou dans des lieux humides,
-susceptibles d'être souillés par les déjections de ces animaux : travaux
-effectués dans les mines, carrières (travaux au fond), les tranchées, les
-tunnels, les galeries, les souterrains ; travaux du génie ; travaux effectués
-dans les égouts, les caves, les chais ; travaux d'entretien des cours d'eau,
-canaux, marais, étangs et lacs, bassins de réserve et de lagunage ; travaux
-d'entretien et de surveillance des parcs aquatiques et stations d'épuration ;
-travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou
+Travaux suivants exposant à des animaux susceptibles d'être porteurs de germe et
+effectués notamment au contact d'eau ou dans des lieux humides, susceptibles
+d'être souillés par les déjections de ces animaux :
+
+a) Travaux effectués dans les mines, carrières (travaux au fond), les tranchées,
+les tunnels, les galeries, les souterrains ; travaux du génie ;
+
+b) Travaux effectués dans les égouts, les caves, les chais ;
+
+c) Travaux d'entretien des cours d'eau, canaux, marais, étangs et lacs, bassins
+de réserve et de lagunage ;
+
+d) Travaux d'entretien et de surveillance des parcs aquatiques et stations
+d'épuration ;
+
+e) Travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou
 d'égout, d'entretien et vidange des fosses et citernes de récupération de
-déchets organiques ; travaux effectués dans les laiteries, les fromageries, les
-poissonneries, les cuisines, les fabriques de conserves alimentaires, les
-brasseries, les fabriques d'aliments du bétail ; travaux effectués dans les
-abattoirs, les chantiers d'équarissage, travaux de récupération et exploitation
-du cinquième quartier des animaux de boucherie ; travaux exécutés sur les
-bateaux, les péniches, les installations portuaires ; travaux des mariniers et
-dockers ; travaux de dératisation ; travaux de soins aux animaux vertébrés ;
-travaux dans les laboratoires de bactériologie ou de parasitologie.
+déchets organiques ;
+
+f) Travaux effectués dans les laiteries, les fromageries, les poissonneries, les
+cuisines, les fabriques de conserves alimentaires, les brasseries, les fabriques
+d'aliments du bétail ;
+
+g) Travaux effectués dans les abattoirs, les chantiers d'équarrissage, travaux
+de récupération et exploitation du cinquième quartier des animaux de boucherie ;
+
+h) Travaux exécutés sur les bateaux, les péniches, les installations portuaires
+; travaux de mariniers et dockers ;
+
+i) Travaux de dératisation et de destruction des rongeurs inféodés au milieu
+aquatique ;
+
+j) Travaux de soins aux animaux vertébrés ;
+
+k) Travaux dans les laboratoires de bactériologie ou de parasitologie ;
+
+l) Travaux piscicoles de production et d'élevage ;
+
+m) Travaux d'encadrement d'activité en milieu aquatique naturel (exception faite
+du domaine maritime) : activités nautiques, halieutiques, subaquatiques ;
+
+n) Travaux d'assistance, de secours et de sauvetage en milieu aquatique naturel
+(exception faite du domaine maritime) ;
+
+o) Travaux de culture de la banane, travaux de coupe de cannes à sucre.
 
 - B -
 
