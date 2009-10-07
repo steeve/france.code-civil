@@ -4,7 +4,9 @@ La garantie peut être accordée :
 
 Aux personnes physiques ou morales françaises ou étrangères pour les opérations
 d'exportation ou d'importation qu'elles réalisent en provenance ou à destination
-de la France ou des départements ou territoires d'outre-mer ;
+de la France ou des départements ou territoires d'outre-mer ainsi que pour
+l'assurance crédit des projets présentant un intérêt stratégique pour l'économie
+française ;
 
 Aux banques et établissements français ou étrangers pour les prêts ou crédits
 qu'ils consentent soit à des personnes étrangères physiques ou morales de droit
