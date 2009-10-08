@@ -83,7 +83,8 @@ compétences de la direction des ressources humaines de l'armée de terre et de 
 direction centrale du commissariat de l'armée de terre ;
 
 24° Périodes militaires d'initiation ou de perfectionnement à la défense
-nationale ;
+nationale, sous réserve des compétences de la direction des ressources humaines
+de l'armée de terre ;
 
 25° Contentieux des dommages, y compris, le cas échéant, pour le compte d'autres
 régions terre ou pour le compte d'autres organismes de la défense stationnés sur
