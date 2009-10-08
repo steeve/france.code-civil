@@ -9,12 +9,7 @@ majorité du capital, dans un emploi ne conduisant pas à pension du code des
 pensions civiles et militaires de retraite ; 3° Auprès d'une collectivité
 territoriale ou d'un établissement public autre que national ; 4° Auprès d'une
 entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif
-assurant des missions d'intérêt général : le nombre et la nature des emplois
-auxquels il est éventuellement pourvu par des militaires détachés doivent être
-précisés par une disposition des statuts de l'entreprise ou de l'organisme
-considéré, approuvée par arrêté du ministre chargé de la fonction publique et du
-ou des ministres intéressés. Les associations ou fondations reconnues d'utilité
-publique sont dispensées de cette formalité ; 5° Auprès d'Etats étrangers, d'une
+assurant des missions d'intérêt général ; 5° Auprès d'Etats étrangers, d'une
 organisation internationale intergouvernementale ou d'un organisme d'intérêt
 général à caractère international pour remplir une mission d'intérêt public. Le
 détachement auprès d'un organisme d'intérêt général à caractère international ne
