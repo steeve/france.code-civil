@@ -1,10 +1,10 @@
 Article R532-6
 ----
-I. - Sans préjudice des dispositions des articles L. 531-6 et L. 532-3-1, le
-Comité des établissements de crédit et des entreprises d'investissement est
-préalablement informé de tout projet de modification portant sur des éléments
-pris en compte lors de l'agrément d'un prestataire autre que les sociétés de
-gestion de portefeuille.
+I.-Sous réserve des dispositions du I de l'article L. 531-6 et sans préjudice
+des dispositions de l'article L. 532-3-1, le Comité des établissements de crédit
+et des entreprises d'investissement est préalablement informé de tout projet de
+modification portant sur des éléments pris en compte lors de l'agrément d'un
+prestataire autre qu'une société de gestion de portefeuille.
 
 Le Comité des établissements de crédit et des entreprises d'investissement en
 informe l'Autorité des marchés financiers dans un délai de cinq jours ouvrés.
@@ -22,7 +22,7 @@ entreprises d'investissement qui dispose d'un délai de trois mois à compter de
 la date de réception de la demande pour se prononcer sur la modification
 envisagée.
 
-II. - Le Comité des établissements de crédit et des entreprises d'investissement
+II.-Le Comité des établissements de crédit et des entreprises d'investissement
 peut se faire communiquer tous éléments d'information complémentaires. Le délai
 imparti à cette autorité pour se prononcer sur la modification envisagée est
 alors suspendu jusqu'à réception des éléments complémentaires.

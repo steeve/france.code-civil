@@ -14,8 +14,8 @@ requérant tous éléments d'information complémentaires nécessaires pour
 l'instruction du dossier. Le délai imparti à ces autorités est suspendu jusqu'à
 réception des éléments complémentaires.
 
-Dans le cas où la demande comprend le service mentionné au 4° de l'article L.
-321-1, l'Autorité des marchés financiers peut également demander au requérant
-tous éléments d'information complémentaires nécessaires pour l'instruction du
-programme d'activité. Le délai qui lui est imparti est suspendu jusqu'à
-réception des éléments complémentaires.
+Dans le cas où la demande comprend les services mentionnés aux 4 ou 5 de
+l'article L. 321-1, l'Autorité des marchés financiers peut également demander au
+requérant tous éléments d'information complémentaires nécessaires pour
+l'instruction du programme d'activité. Le délai qui lui est imparti est suspendu
+jusqu'à réception des éléments complémentaires.
