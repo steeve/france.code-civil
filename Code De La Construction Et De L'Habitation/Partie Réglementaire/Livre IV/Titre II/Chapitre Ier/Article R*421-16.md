@@ -30,8 +30,10 @@ d'actions en application des articles L. 421-2 et R. 421-3 ;
 9° Autorise les transactions ;
 
 10° Nomme le directeur général et autorise le président du conseil
-d'administration à signer le contrat entre l'office et le directeur général. Il
-met fin aux fonctions du directeur général, sur proposition du président ;
+d'administration à signer le contrat et ses avenants entre l'office et le
+directeur général. Il approuve chaque année le montant de la part variable de la
+rémunération attribué au directeur général. Il met fin aux fonctions du
+directeur général, sur proposition du président ;
 
 11° Autorise, selon le cas, le président ou le directeur général à ester en
 justice, en application des articles R. 421-17 ou R. 421-18 ; toutefois, en cas
@@ -40,9 +42,13 @@ directeur général peut intenter une action en justice sans cette autorisation.
 
 Le bureau peut recevoir délégation de compétence pour l'exercice des
 attributions du conseil d'administration, hormis celles mentionnées aux 1°, 2°,
-3°, 5° et 10°. Le bureau peut, par délégation du conseil d'administration et
-dans les limites fixées par lui, être chargé de souscrire les emprunts et de
-réaliser les opérations utiles à leur gestion, et de recourir aux crédits de
-trésorerie. Il peut également, dans les mêmes conditions, réaliser les
-opérations relatives au placement des fonds de l'office. Le bureau rend compte
-de son activité au conseil d'administration.
+3° et 5°. Concernant l'exercice des attributions mentionnées au 10°, le conseil
+d'administration ne peut déléguer au bureau ni l'autorisation donnée au
+président de signer le contrat et ses avenants entre l'office et le directeur
+général, ni la décision de mettre fin aux fonctions du directeur général. Le
+bureau peut, par délégation du conseil d'administration et dans les limites
+fixées par lui, être chargé de souscrire les emprunts et de réaliser les
+opérations utiles à leur gestion, et de recourir aux crédits de trésorerie. Il
+peut également, dans les mêmes conditions, réaliser les opérations relatives au
+placement des fonds de l'office. Le bureau rend compte de son activité au
+conseil d'administration.

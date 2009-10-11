@@ -22,8 +22,8 @@ du département du siège de l'office ;
 4° Un membre est désigné par les associés des collecteurs de la participation
 des employeurs à l'effort de construction dans le département du siège ;
 
-5° Un membre est désigné par les organisations syndicales de salariés les plus
-représentatives dans le département du siège ;
+5° Un membre est désigné par l'organisation syndicale de salariés la plus
+représentative dans le département du siège ;
 
 6° Un membre représente les associations dont l'un des objets est l'insertion ou
 le logement des personnes défavorisées ;

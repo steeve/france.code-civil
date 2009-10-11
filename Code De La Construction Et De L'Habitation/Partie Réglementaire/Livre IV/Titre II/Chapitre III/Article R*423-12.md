@@ -5,7 +5,7 @@ excédentaire de l'exercice clos, à l'exclusion du résultat afférent aux
 activités exercées pour le compte de tiers.
 
 Le résultat excédentaire, après déduction des plus-values nettes réalisées lors
-de la cession des biens immobiliers mentionnés à l'article *R. 443-13 qui sont
+de la cession des biens immobiliers mentionnés à l'article L. 443-13 qui sont
 affectées sur un compte spécifique pour leur montant total, est affecté par
 ordre de priorité :
 
