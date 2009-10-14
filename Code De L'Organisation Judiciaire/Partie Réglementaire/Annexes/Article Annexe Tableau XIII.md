@@ -1,181 +1,94 @@
 Article Annexe Tableau XIII
 ----
-Liste des bureaux fonciers
-
-(annexe de l'article D. 223-3)
+Liste des bureaux fonciers (annexe de l'article D. 223-3)
 
 TRIBUNAL D'INSTANCE
 
 
 BUREAU FONCIER
 
+RESSORT
+
 Cour d'appel de Colmar
-
-
-Altkirch
-
-Altkirch.
-
-
-Brumath
-
-Brumath.
-
-
-Colmar
-
-Colmar.
-
-Munster.
-
-
-Guebwiller
-
-Guebwiller.
-
-
-Haguenau
-
-Haguenau.
-
-
-Huningue
-
-Huningue.
-
-
-Illkirch-Graffenstaden
-
-Erstein.
-
-Illkirch-Graffenstaden.
-
-
-Molsheim
-
-Molsheim.
-
-Schirmeck.
-
-Wasselonne.
-
-
-Mulhouse
-
-Mulhouse.
-
-
-Ribeauvillé
-
-Kaysersberg.
-
-Ribeauvillé.
-
-Sainte-Marie-aux-Mines.
-
-
-Saverne
-
-Bouxwiller.
-
-Sarre-Union.
-
-Saverne.
-
-
-Sélestat
-
-Barr.
-
-Marckolsheim.
-
-Sélestat.
-
-
-Shiltigheim
-
-Shiltigheim.
-
-
-Strasbourg
-
-Strasbourg.
 
 
 Thann
 
-Cernay.
+Thann
 
-Masevaux.
-
-Saint-Amarin.
-
-Thann.
+Ressort du tribunal d'instance de Thann
 
 
-Wissembourg
+Colmar
 
-Soultz-sous-Forêts.
+Colmar
 
-Wissembourg.
-
-Woerth.
-
-Cour d'appel d Metz
+Ressort du tribunal d'instance de Colmar
 
 
-Boulay-Moselle
+Guebwiller
 
-Boulay-Moselle.
+Guebwiller
 
-Bouzonville.
-
-Faulquemont.
+Ressort du tribunal d'instance de Guebwiller
 
 
-Château-Salins
+Haguenau
 
-Château-Salins.
+Haguenau
 
-
-Forbach
-
-Forbach.
+Ressort du tribunal d'instance de Haguenau
 
 
-Hayange
+Mulhouse
 
-Hayange.
+Mulhouse
+
+Ressort du tribunal d'instance de Mulhouse
+
+
+Saverne
+
+Saverne
+
+
+Ressort du tribunal de grande instance de Saverne
+
+Sélestat
+
+
+Sélestat
+
+Ressort du tribunal d'instance de Sélestat
+
+
+Strasbourg
+
+Strasbourg
+
+Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de
+Strasbourg
+
+Cour d'appel de Metz
 
 
 Metz
 
-Metz.
+Metz
 
 
-Saint-Avold
+Ressort du tribunal de grande instance de Metz
 
-Morhange.
-
-Saint-Avold.
-
-
-Sarrebourg
-
-Phalsbourg.
-
-Sarrebourg.
+Sarreguemines
 
 
 Sarreguemines
 
-Bitche.
-
-Rohrbach-lès-Bitche.
-
-Sarreguemines.
+Ressort du tribunal de grande instance de Sarreguemines
 
 
 Thionville
 
-Thionville.
+Thionville
+
+Ressort du tribunal de grande instance de Thionville
