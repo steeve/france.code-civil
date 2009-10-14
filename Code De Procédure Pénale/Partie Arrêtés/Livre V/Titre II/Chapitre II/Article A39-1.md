@@ -19,9 +19,12 @@ Centre de détention de Bapaume (quartier hommes, quartier femmes)
 
 Centre de détention de Bédenac (Charente-Maritime).
 
+Quartier centre de détention du centre pénitentiaire de Béziers (hommes)
+(Hérault).
+
 Quartier centre de détention du centre pénitentiaire de Caen (Calvados).
 
-Quartier centre de détention du centre pénitentiaire de Borgo (Haute-Corse) ;
+Quartier centre de détention du centre pénitentiaire de Borgo (Haute-Corse).
 
 Centre de détention de Casabianda (Haute-Corse).
 
@@ -85,7 +88,7 @@ Centre de détention de Montmédy (Meuse).
 Centre de détention de Muret (Haute-Garonne).
 
 Quartier centre de détention du centre pénitentiaire de Nancy-Maxéville
-(Meurthe-et-Moselle) ;
+(Meurthe-et-Moselle).
 
 Quartier centre de détention du centre pénitentiaire de Nantes
 (Loire-Atlantique).

@@ -106,7 +106,7 @@ Circonscription judiciaire de Grasse.
 
 Maison d'arrêt de Grasse.
 
-Service pénitentiaire d'insertion et de probation de l'Ardèche
+Service pénitentiaire d'insertion et de probation de l'Ardèche.
 
 Privas.
 
@@ -521,7 +521,7 @@ Antenne de Béziers.
 
 Circonscription judiciaire de Béziers.
 
-Maison d'arrêt de Béziers.
+Centre pénitentiaire de Béziers.
 
 Service pénitentiaire d'insertion et de probation d'Ille-et-Vilaine.
 
