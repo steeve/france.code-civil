@@ -3,6 +3,11 @@ Article R*112-2
 La surface de plancher hors oeuvre brute d'une construction est égale à la somme
 des surfaces de plancher de chaque niveau de la construction.
 
+Les surfaces de plancher supplémentaires nécessaires à l'aménagement d'une
+construction existante en vue d'améliorer son isolation thermique ou acoustique
+ne sont pas incluses dans la surface de plancher développée hors œuvre brute de
+cette construction.
+
 La surface de plancher hors oeuvre nette d'une construction est égale à la
 surface hors oeuvre brute de cette construction après déduction :
 
