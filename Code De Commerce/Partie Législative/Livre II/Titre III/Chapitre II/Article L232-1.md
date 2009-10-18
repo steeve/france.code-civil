@@ -19,3 +19,11 @@ activités en matière de recherche et de développement.
 III. - Les documents mentionnés au présent article sont, le cas échéant, mis à
 la disposition des commissaires aux comptes dans des conditions déterminées par
 décret en Conseil d'Etat.
+
+IV. - Sont dispensées de l'obligation d'établir un rapport de gestion les
+sociétés à responsabilité limitée et les sociétés par actions simplifiées dont
+l'associé unique, personne physique, assume personnellement la gérance ou la
+présidence, et qui ne dépassent pas à la clôture d'un exercice social deux des
+seuils fixés par décret en Conseil d'Etat relatifs au total de leur bilan, au
+montant de leur chiffre d'affaires hors taxe et au nombre moyen de leurs
+salariés au cours de l'exercice.

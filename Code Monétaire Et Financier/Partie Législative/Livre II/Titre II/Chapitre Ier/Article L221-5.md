@@ -21,16 +21,23 @@ livret de développement durable et non centralisées en application des alinéa
 précédents sont employées par ces établissements au financement des petites et
 moyennes entreprises, notamment pour leur création et leur développement, ainsi
 qu'au financement des travaux d'économie d'énergie dans les bâtiments anciens.
-Les dépôts dont l'utilisation ne satisfait pas à cette condition sont
-centralisés à la Caisse des dépôts et consignations.
 
 Les établissements distribuant le livret A ou le livret de développement durable
 rendent public annuellement un rapport présentant l'emploi des ressources
 collectées au titre de ces deux livrets et non centralisées.
 
-Ces établissements fournissent, une fois par trimestre, au ministre chargé de
-l'économie, une information écrite sur les concours financiers accordés à l'aide
-des ressources ainsi collectées.
+Afin de permettre la vérification du respect de l'obligation d'emploi mentionnée
+au quatrième alinéa, les établissements distribuant le livret A ou le livret de
+développement durable et qui n'ont pas choisi d'opter, dans les conditions
+prévues par un décret en Conseil d'Etat, pour la centralisation intégrale des
+ressources qu'ils collectent, fournissent, une fois par trimestre, au ministre
+chargé de l'économie une information écrite sur les concours financiers accordés
+à l'aide des ressources non centralisées. Les dépôts dont l'utilisation, au
+cours du trimestre écoulé, ne satisfait pas à la condition d'emploi
+susmentionnée sont centralisés au fonds prévu à l'article L. 221-7 pour une
+durée égale à un trimestre. Le ministre chargé de l'économie s'assure de
+l'effectivité de cette centralisation, qui n'ouvre pas droit à la rémunération
+mentionnée au premier alinéa de l'article L. 221-6.
 
 La forme et le contenu des informations mentionnées aux deux alinéas précédents
 sont fixés par arrêté du ministre chargé de l'économie.

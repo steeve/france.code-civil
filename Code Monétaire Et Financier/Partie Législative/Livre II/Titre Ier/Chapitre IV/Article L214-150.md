@@ -7,7 +7,9 @@ de conservation d'instruments financiers pour compte de tiers. Ce prestataire
 est désigné dans les statuts de la SICAF. Il s'assure de la régularité des
 décisions de la SICAF et de la société de gestion dans des conditions prévues
 par décret. Il est regardé comme un dépositaire d'organisme de placement
-collectif pour l'application du 12° du II de l'article L. 621-9.
+collectif pour l'application du 12° du II de l'article L. 621-9. Il est
+également regardé comme le dépositaire mentionné aux articles L. 225-5 à L.
+225-7 et aux articles L. 225-13 et L. 225-15 du code de commerce.
 
 La SICAF, le prestataire visé au premier alinéa et la société de gestion doivent
 agir de façon indépendante, au bénéfice exclusif des actionnaires. Ils doivent

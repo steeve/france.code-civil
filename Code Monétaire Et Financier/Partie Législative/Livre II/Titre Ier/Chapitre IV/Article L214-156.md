@@ -1,8 +1,5 @@
 Article L214-156
 ----
-Les modalités de constitution de la SICAF sont fixées par le règlement général
-de l'Autorité des marchés financiers.
-
 Les statuts de la SICAF fixent la durée des exercices comptables qui ne peut
 excéder douze mois. Toutefois, le premier exercice peut s'étendre sur une durée
 différente sans excéder dix-huit mois.
