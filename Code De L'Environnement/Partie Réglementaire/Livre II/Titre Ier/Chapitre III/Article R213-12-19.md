@@ -1,8 +1,9 @@
 Article R213-12-19
 ----
 Les ressources de l'Office national de l'eau et des milieux aquatiques, outre
-les contributions des agences de l'eau et les subventions versées par des
-personnes publiques, sont constituées par :
+les contributions des agences de l'eau, les versements opérés en application du
+V de l'article L. 213-10-8 et les subventions versées par des personnes
+publiques, sont constituées par :
 
 1° Le produit des redevances, les contreparties afférentes aux inventions et
 procédés nouveaux, la rémunération des services rendus, la vente des

@@ -1,6 +1,6 @@
 Article R213-48-13
 ----
-I. - Est une substance classée au sens du II de l'article L. 213-10-8 toute
+I.-Est une substance classée au sens du II de l'article L. 213-10-8 toute
 substance appartenant pour l'application de l'article R. 231-51 du code du
 travail à l'une des catégories suivantes :
 
@@ -18,9 +18,6 @@ et des substances dangereuses définies en application de l'article R. 212-9 ;
 
 5° Dangereuse pour l'environnement.
 
-Les substances tératogènes sont les substances considérées comme toxiques pour
-la reproduction à l'article R. 231-51 du code du travail.
-
 Un arrêté conjoint des ministres chargés de l'environnement et de l'agriculture
 définit la liste des substances figurant dans chaque catégorie mentionnée au II
 de l'article L. 213-10-8, y compris les substances bénéficiant, malgré
@@ -31,32 +28,66 @@ Quand une même substance relève de plusieurs catégories mentionnées aux 1° 
 ci-dessus, le taux de redevance qui lui est appliqué est le plus élevé parmi
 ceux de ces catégories.
 
-II. - La teneur dans les eaux d'un bassin des produits visés au I de l'article
-L. 213-10-8 est évaluée à partir de l'ensemble des résultats de mesure de la
-quantité des substances entrant dans la composition des produits
-phytopharmaceutiques présente dans les eaux superficielles et dans les eaux
-souterraines du bassin.
-
-III. - Avant le 1er décembre de chaque année, les responsables de la mise sur le
-marché des produits mentionnés à l'article L. 213-10-8 mettent à la disposition
-des distributeurs et des agences les informations suivantes pour chaque produit
-:
+II.-Avant le 1er décembre de chaque année ou, le cas échéant, un mois au moins
+avant l'entrée en vigueur d'un nouveau taux de la redevance pour pollutions
+diffuses, les responsables de la mise sur le marché des produits mentionnés à
+l'article L. 213-10-8 mettent à la disposition des distributeurs et des agences
+et offices de l'eau les informations suivantes, pour chaque produit :
 
 1° Le numéro d'autorisation de mise sur le marché ;
 
-2° La quantité, exprimée en kilogramme, de substances classées par kilogramme ou
-litre de produit ainsi que la catégorie à laquelle appartiennent ces substances,
-définie par l'arrêté mentionné au I ci-dessus ;
+2° L'unité de mesure de ce produit, qui est soit le litre, soit le kilogramme ;
 
-3° Le montant de la redevance correspondante, par kilogramme ou litre de
-produit.
+3° La quantité, exprimée en kilogrammes, de substances classées par unité de
+mesure ainsi que le taux applicable à ces substances, conformément à l'arrêté
+mentionné au I ci-dessus ;
 
-Ces informations sont mises à disposition par voie électronique ou, à la demande
-du destinataire, par écrit.
+4° Le montant de la redevance correspondante, par unité de mesure de produit.
 
-Elles sont actualisées à chaque livraison d'un nouveau produit mis sur le marché
-et contenant une substance classée soumise à redevance.
+Ces informations sont mises à la disposition des agences et offices de l'eau par
+voie électronique, dans les conditions définies conjointement par ceux-ci. Elles
+sont également mises à la disposition des distributeurs par voie électronique
+ou, à leur demande, par écrit.
 
-IV. - A compter du 1er janvier 2009, est puni de l'amende prévue pour les
+Ces informations sont actualisées à chaque livraison d'un nouveau produit mis
+sur le marché contenant une substance classée soumise à redevance.
+
+III.-A compter du 1er janvier 2009, est puni de l'amende prévue pour les
 contraventions de la 4e classe le fait pour un distributeur de ne pas faire
 apparaître sur la facture le montant de la redevance qu'il a acquittée.
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait,
+pour le responsable de la mise sur le marché d'un produit, de ne pas communiquer
+à une agence de l'eau ou à un office de l'eau ou à un distributeur les
+informations prévues au II.
+
+IV.-Pour le calcul de la fraction du produit annuel de la redevance affectée à
+l'Office national de l'eau et des milieux aquatiques en application du V de
+l'article L. 213-10-8 :
+
+1° Le montant dû au titre de l'année précédente s'entend du montant des ordres
+ou titres de recettes émis, à raison des ventes réalisées au cours de la période
+du 1er janvier au 31 décembre de l'année précédente. Ce montant est arrêté au 31
+mai de l'année en cours, puis, à la même date, chacune des trois années
+suivantes, pour tenir compte des rectifications opérées et des remises accordées
+en application des articles L. 213-11-3 à L. 213-11-6 et L. 213-11-11 sur la
+redevance due au titre de l'année précédant cette date ;
+
+2° Le montant de l'acompte versé au titre de l'année en cours, fixé en
+application de l'article L. 213-11-12-1, est arrêté au 31 mai de l'année en
+cours ;
+
+3° Le montant de la redevance perçue à raison des ventes réalisées au cours de
+la période du 1er janvier au 31 décembre 2008 s'entend de celui des ordres ou
+titres de recettes émis à raison des ventes réalisées pour ladite période. Ce
+montant est arrêté au 31 mai 2010 et au 31 mai 2011, pour tenir compte des
+rectifications opérées et des remises accordées en application des articles L.
+213-11-3 à L. 213-11-6 et L. 213-11-11 sur la redevance due au titre de l'année
+2008 à ces dates. Il est définitivement arrêté au 31 mai 2012, pour tenir compte
+des rectifications opérées et des remises accordées sur la redevance due au
+titre de l'année 2008 à la date du 31 décembre 2011 ;
+
+4° La fraction du produit annuel de la redevance versée à l'Office national de
+l'eau et des milieux aquatiques au 1er septembre est calculée en déduisant du
+montant mentionné au 1° l'acompte versé au titre de l'année précédente,
+conformément aux dispositions du 2°.

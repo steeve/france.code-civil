@@ -16,7 +16,10 @@ Le registre comporte, pour chaque produit phytopharmaceutique vendu ou distribu�
 
 ― le numéro d'autorisation de mise sur le marché ;
 
-― la quantité vendue ou distribuée exprimée en kilogrammes ou litres ;
+― la quantité vendue ou distribuée exprimée dans l'unité de mesure de ce produit
+communiquée par le responsable de la mise sur le marché au distributeur en
+application du II de l'article R. 213-48-13 du code de l'environnement, ou, à
+défaut, en litres ou en kilogrammes ;
 
 ― le montant de la redevance correspondante, s'il y a lieu.
 
@@ -28,6 +31,18 @@ suivantes :
 
 -le code postal de l'utilisateur final.
 
-Un bilan annuel, pour chaque produit référencé, des quantités, exprimées en
-kilogrammes ou litres, facturées au cours de la précédente année civile est
-annexé au registre, dont il fait partie intégrante.
+Un bilan est établi pour l'année civile précédente ou, en cas de changement de
+taux en cours d'année, d'une part, pour la période comprise entre le 1er janvier
+et la date de ce changement et, d'autre part, entre cette même date et le 31
+décembre.
+
+Il comporte, pour chaque produit référencé et pour chaque établissement, le nom,
+le numéro d'autorisation de mise sur le marché, l'indication des quantités
+vendues à l'utilisateur final au cours de la période considérée, exprimées dans
+l'unité de mesure du produit communiquée par le responsable de la mise sur le
+marché au distributeur ou, à défaut, en litres ou en kilogrammes. La date de la
+vente à l'utilisateur final est celle de la facturation à celui-ci. Pour les
+produits portant la mention " Emploi autorisé dans les jardins ", cette date est
+celle de l'encaissement du prix.
+
+Ce bilan est annexé au registre, dont il fait partie intégrante.

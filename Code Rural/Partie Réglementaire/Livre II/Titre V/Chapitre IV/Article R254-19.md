@@ -1,8 +1,10 @@
 Article R254-19
 ----
-Avant le 1er avril de chaque année civile, les distributeurs agréés transmettent
-à la ou aux agences de l'eau intéressées et à l'office ou aux offices de l'eau
-intéressés, sous format informatique, le bilan mentionné à l'article R. 254-16.
+Avant le 1er avril de chaque année, les distributeurs agréés transmettent aux
+agences de l'eau et aux offices de l'eau intéressés, à l'appui de la déclaration
+de la redevance pour pollutions diffuses, le bilan mentionné à l'article R.
+254-16, par voie électronique, dans les conditions définies conjointement par
+ces agences et offices.
 
 Les agences de l'eau, les offices de l'eau et les préfets peuvent demander aux
 distributeurs agréés de leur communiquer toute information contenue dans le
