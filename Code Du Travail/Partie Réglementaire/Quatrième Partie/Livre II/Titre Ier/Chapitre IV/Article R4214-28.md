@@ -1,6 +1,8 @@
 Article R4214-28
 ----
-Le directeur départemental du travail, de l'emploi et de la formation
-professionnelle peut accorder des dispenses aux dispositions de la présente
-section, après avis de la commission consultative départementale de sécurité et
-d'accessibilité pour les établissements recevant du public.
+Un arrêté des ministres chargés du travail, de l'agriculture et de la
+construction détermine les modalités d'application propres à assurer
+l'accessibilité des lieux de travail en ce qui concerne, notamment, les
+circulations horizontales et verticales, les portes et les sas intérieurs, les
+revêtements des sols et des parois, les dispositifs d'éclairage et
+d'information, le stationnement automobile.
