@@ -19,12 +19,11 @@ oxycyanure de mercure et dérivés alkylés du mercure ; 15° Dioxyde de mangan�
 (ou bioxyde de manganèse) ; 16° Fluor gazeux et acide fluorhydrique ; 17° Iode
 solide ou vapeur, à l'exclusion des composés ; 18° Oxychlorure de carbone ; 19°
 Paraquat ; 20° Phosphore, pentafluorure de phosphore, phosphure d'hydrogène (ou
-hydrogène phosphoré) ; 21° Poussières de lin et de déshydratation de la luzerne
-: travaux exposant à l'inhalation ; 22° Poussières de métaux durs ; 23°
-Rayonnements ionisants : travaux accomplis dans des zones où le débit de dose
-horaire est susceptible d'être supérieur à 2 millisieverts ; 24° Sulfure de
-carbone ; 25° Tétrachloroéthane ; 26° Tétrachlorométhane (ou tétrachlorure de
-carbone) ; 27° Travaux de désinsectisation des bois (pulvérisation du produit,
-trempage du bois, empilage ou sciage des bois imprégnés, traitement des
-charpentes en place), des grains lors de leur stockage et des semences ou des
-cultures.
+hydrogène phosphoré) ; 21° Poussières de lin : travaux exposant à l'inhalation ;
+22° Poussières de métaux durs ; 23° Rayonnements ionisants : travaux accomplis
+dans des zones où le débit de dose horaire est susceptible d'être supérieur à 2
+millisieverts ; 24° Sulfure de carbone ; 25° Tétrachloroéthane ; 26°
+Tétrachlorométhane (ou tétrachlorure de carbone) ; 27° Travaux de
+désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage
+ou sciage des bois imprégnés, traitement des charpentes en place), et des grains
+lors de leur stockage.
