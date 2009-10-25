@@ -21,16 +21,18 @@ e) Confédération française de l'encadrement-CGC : un.
 
 a) Mouvement des entreprises de France : quatre ;
 
-b) Confédération générale des petites et moyennes entreprises :
-
-deux ;
+b) Confédération générale des petites et moyennes entreprises : deux ;
 
 c) Union professionnelle artisanale : deux.
 
 3° Deux représentants de la Fédération nationale de la mutualité française ;
 
-4° Cinq représentants d'institutions intervenant dans le domaine de l'assurance
-maladie désignées par le préfet de région.
+4° Quatre représentants d'institutions intervenant dans le domaine de
+l'assurance maladie désignées par le préfet de région ;
+
+5° Une personnalité qualifiée dans les domaines d'activité des organismes
+d'assurance maladie et désignée par l'autorité compétente de l'Etat mentionnée à
+l'article D. 231-1.
 
 Siègent également, avec voix consultative, trois représentants du personnel
 élus.

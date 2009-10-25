@@ -24,17 +24,19 @@ ainsi répartis :
 
 a) Mouvement des entreprises de France : sept ;
 
-b) Confédération générale des petites et moyennes entreprises :
-
-trois ;
+b) Confédération générale des petites et moyennes entreprises : trois ;
 
 c) Union professionnelle artisanale : trois ;
 
 3° Trois représentants désignés par la Fédération nationale de la mutualité
-française.
+française ;
 
-4° Six représentants d'institutions intervenant dans le domaine de l'assurance
-maladie désignées par le ministre chargé de la sécurité sociale.
+4° Quatre représentants d'institutions intervenant dans le domaine de
+l'assurance maladie désignées par le ministre chargé de la sécurité sociale ;
+
+5° Deux personnalités qualifiées dans les domaines d'activité des organismes
+d'assurance maladie et désignées par l'autorité compétente de l'Etat mentionnée
+à l'article D. 231-1.
 
 Siègent également aux séances du conseil avec voix consultative trois
 représentants du personnel, représentant respectivement les employés et
