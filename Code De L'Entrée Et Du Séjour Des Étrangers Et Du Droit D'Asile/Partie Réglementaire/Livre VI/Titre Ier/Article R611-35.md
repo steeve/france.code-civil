@@ -1,24 +1,16 @@
 Article R611-35
 ----
-Les aubergistes, hôteliers, logeurs ou loueurs de maisons garnies, les
-gestionnaires de droit ou de fait de terrains de camping aménagés ou de terrains
-aménagés destinés au stationnement des caravanes sont tenus de faire remplir et
-signer par l'étranger, dès son arrivée, une fiche individuelle de police. Elle
-doit mentionner notamment :
+Est autorisée la création d'un traitement automatisé de données à caractère
+personnel dénommé Outil de statistique et de contrôle de l'aide au retour
+relevant de l'Office français de l'immigration et de l'intégration. Ce
+traitement a pour finalités :
 
-1° Le nom et les prénoms ;
+a) De liquider l'aide au retour en permettant de déceler une nouvelle demande
+présentée par une personne ayant déjà bénéficié de cette aide, le cas échéant
+sous une autre identité ;
 
-2° La date et le lieu de naissance ;
+b) De permettre le suivi administratif, budgétaire et comptable des procédures
+d'aide au retour gérées par l'Office français de l'immigration et de
+l'intégration ;
 
-3° La nationalité ;
-
-4° Le domicile habituel de l'étranger.
-
-Les enfants âgés de moins de 15 ans peuvent figurer sur la fiche de l'un des
-parents.
-
-Les fiches ainsi établies doivent être remises chaque jour aux autorités de
-police.
-
-Les personnes physiques ou morales louant des locaux nus ne sont pas astreintes
-aux obligations prévues aux alinéas ci-dessus.
+c) D'établir des statistiques relatives à ces procédures et à leur exécution.
