@@ -6,12 +6,13 @@ au service des impôts du lieu de situation des biens une déclaration conforme 
 modèle établi par l'administration comportant tous les éléments permettant leur
 identification, accompagnée de la convention mentionnée à l'article 315-0 bis B.
 
-Pour les immeubles mentionnés au 1° de l'article 315-0 bis A, la déclaration
-doit indiquer la date de décision et de versement par l'Etat de l'aide à la
-création d'hébergements d'urgence et être accompagnée des pièces justificatives
-correspondantes.
+Pour les immeubles acquis ou construits, la déclaration doit indiquer la date de
+décision et de versement par l'Etat ou le délégataire de l'aide à la création
+d'hébergements temporaire ou d'urgence et être accompagnée des pièces
+justificatives correspondantes.
 
-Pour les immeubles mentionnés au 2° de l'article 315-0 bis A, la déclaration
-doit préciser la date d'achèvement des travaux d'aménagement ainsi que la date
-de décision et de versement par l'Etat de l'aide à la création d'hébergements
-d'urgence. Elle doit être accompagnée des pièces justificatives.
+Pour les immeubles ayant fait l'objet de travaux d'aménagement, la déclaration
+doit préciser la date d'achèvement des travaux ainsi que la date de décision et
+de versement par l'Etat, le délégataire ou l'Agence nationale pour l'habitat de
+l'aide à la création d'hébergements temporaire ou d'urgence. Elle doit être
+accompagnée des pièces justificatives.
