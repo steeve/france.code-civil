@@ -29,9 +29,8 @@ organismes ;
 7° Un état faisant ressortir, pour les principales catégories d'utilisateurs,
 leur nombre et le montant des droits versés dans l'année ;
 
-8° Le tableau de correspondance entre les comptes annuels dans leur présentation
-ordinaire et les tableaux prévus par l'article R. 321-8.
+8° (Supprimé).
 
-Les documents mentionnés aux 1° à 8° sont, pendant la même période, tenus à la
+Les documents mentionnés aux 1° à 7° sont, pendant la même période, tenus à la
 disposition des associés au siège social ou au lieu de la direction
 administrative, où ils peuvent en prendre connaissance ou en obtenir copie.
