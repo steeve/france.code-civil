@@ -7,11 +7,12 @@ REVENU fiscal de référence
 
 DURÉE DE LA PÉRIODE 1
 
-Avance ne faisant pas l'objet de la majoration mentionnée au seizième alinéa du
-I de l'article 244 quater J du code général des impôts
+Avance ne faisant l'objet d'aucune des majorations mentionnées aux seizième et
+dix-septième alinéas du I de l'article 244 quater J du code général des impôts
 
-Avance faisant l'objet de la majoration mentionnée au seizième alinéa du I de
-l'article 244 quater J du code général des impôts
+Avance faisant l'objet d'une ou plusieurs des majorations mentionnées aux
+seizième et dix-septième alinéas du I de l'article 244 quater J du code général
+des impôts
 
 
 Moins de 15801 euros
@@ -60,12 +61,13 @@ DURÉE DE LA PÉRIODE 1
 
 Avance accordée pour un logement neuf
 
-Avance ne faisant l'objet d'aucune des majorations mentionnées aux quinzième et
-seizième alinéas du I de l'article 244 quater J du code général des impôts
+Avance ne faisant l'objet d'aucune des majorations mentionnées aux quinzième,
+seizième et dix-septième alinéas du I de l'article 244 quater J du code général
+des impôts
 
 Avance faisant l'objet d'une ou plusieurs des majorations mentionnées aux
-quinzième et seizièmes alinéas du I de l'article 244 quater J du code général
-des impôts
+quinzième, seizième et dix-septième alinéas du I de l'article 244 quater J du
+code général des impôts
 
 
 Moins de 23689 euros
@@ -99,12 +101,13 @@ Avance accordée pour un logement ancien
 
 Avance accordée pour un logement neuf
 
-Avance ne faisant l'objet d'aucune des majorations mentionnées aux quinzième et
-seizième alinéas du I de l'article 244 quater J du code général des impôts
+Avance ne faisant l'objet d'aucune des majorations mentionnées aux quinzième,
+seizième et dix-septième alinéas du I de l'article 244 quater J du code général
+des impôts
 
 Avance faisant l'objet d'une ou plusieurs des majorations mentionnées aux
-quinzième et seizième alinéas du I de l'article 244 quater J du code général des
-impôts
+quinzième, seizième et dix-septième alinéas du I de l'article 244 quater J du
+code général des impôts
 
 
 Moins de 15801 euros

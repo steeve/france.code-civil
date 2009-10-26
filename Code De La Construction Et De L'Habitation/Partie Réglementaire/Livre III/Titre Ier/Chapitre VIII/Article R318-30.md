@@ -230,3 +230,24 @@ ZONES B ET C
 15 000
 
 12 500
+
+3° Le montant mentionné au 3° de l'article R. * 318-10 est défini par le tableau
+suivant :
+
+(en euros)
+
+
+NOMBRE DE PERSONNES
+
+destinées à occuper le logement
+
+
+MONTANT
+
+3 et moins
+
+15 000
+
+4 et plus
+
+20 000
