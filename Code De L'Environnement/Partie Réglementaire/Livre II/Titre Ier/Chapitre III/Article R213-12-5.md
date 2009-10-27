@@ -9,4 +9,7 @@ Les projets relatifs aux orientations de la politique de l'office mentionnées a
 3° de l'article R. 213-12-4, au programme pluriannuel d'activité et
 d'intervention mentionné au 4° du même article et au rapport annuel mentionné au
 13° du même article sont soumis pour avis au Comité national de l'eau avant
-d'être présentés au conseil d'administration.
+d'être présentés au conseil d'administration. Toutefois, le programme national
+de réduction des pesticides, dont le compte rendu de réalisation annuel est
+présenté au Conseil national de l'eau en application de l'article L. 213-4-1, ne
+lui est pas soumis pour avis préalable.
