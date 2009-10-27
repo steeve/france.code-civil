@@ -7,9 +7,6 @@ ou de communication au public d'œuvres ou d'objets protégés par un droit
 d'auteur ou par un droit voisin sans l'autorisation des titulaires des droits
 prévus aux livres Ier et II lorsqu'elle est requise.
 
-[Dispositions déclarées non conformes à la Constitution par la décision du
-Conseil constitutionnel n° 2009-580 DC du 10 juin 2009.]
-
 Le manquement de la personne titulaire de l'accès à l'obligation définie au
 premier alinéa n'a pas pour effet d'engager la responsabilité pénale de
-l'intéressé.
+l'intéressé, sous réserve des articles L. 335-7 et L. 335-7-1.

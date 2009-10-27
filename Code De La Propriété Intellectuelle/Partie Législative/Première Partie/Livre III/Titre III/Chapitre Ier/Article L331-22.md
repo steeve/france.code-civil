@@ -1,16 +1,14 @@
 Article L331-22
 ----
-Les informations sous forme électronique concernant le régime des droits
-afférents à une oeuvre, autre qu'un logiciel, une interprétation, un
-phonogramme, un vidéogramme ou un programme, sont protégées dans les conditions
-prévues au présent titre, lorsque l'un des éléments d'information, numéros ou
-codes est joint à la reproduction ou apparaît en relation avec la communication
-au public de l'oeuvre, de l'interprétation, du phonogramme, du vidéogramme ou du
-programme qu'il concerne.
+Les membres et les agents publics de la Haute Autorité sont astreints au secret
+professionnel pour les faits, actes ou renseignements dont ils ont pu avoir
+connaissance en raison de leurs fonctions, dans les conditions prévues à
+l'article 413-10 du code pénal et, sous réserve de ce qui est nécessaire à
+l'établissement des avis, des recommandations et des rapports, à l'article
+226-13 du même code.
 
-On entend par information sous forme électronique toute information fournie par
-un titulaire de droits qui permet d'identifier une oeuvre, une interprétation,
-un phonogramme, un vidéogramme, un programme ou un titulaire de droit, toute
-information sur les conditions et modalités d'utilisation d'une oeuvre, d'une
-interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme, ainsi que
-tout numéro ou code représentant tout ou partie de ces informations.
+Dans les conditions prévues par l'article 17-1 de la loi n° 95-73 du 21 janvier
+1995 d'orientation et de programmation relative à la sécurité, les décisions
+d'habilitation des agents mentionnés à l'article L. 331-21 du présent code sont
+précédées d'enquêtes administratives destinées à vérifier que leur comportement
+n'est pas incompatible avec l'exercice de leurs fonctions ou missions.

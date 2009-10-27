@@ -1,16 +1,32 @@
 Article L331-17
 ----
-L'Autorité de régulation des mesures techniques est une autorité administrative
-indépendante. Elle assure une mission générale de veille dans les domaines des
-mesures techniques de protection et d'identification des oeuvres et des objets
-protégés par le droit d'auteur ou par les droits voisins.
+La commission de protection des droits est chargée de prendre les mesures
+prévues à l'article L. 331-25 [Dispositions résultant de la décision du Conseil
+constitutionnel n° 2009-580 DC du 10 juin 2009].
 
-Elle rend compte chaque année, dans un rapport remis au Gouvernement et au
-Parlement, des évolutions les plus marquantes qu'elle a constatées dans ce
-domaine et de leur impact prévisible sur la diffusion des contenus culturels.
-Elle peut être consultée par les commissions parlementaires sur les adaptations
-de l'encadrement législatif que ces évolutions rendraient nécessaires.
+Elle est composée de trois membres, dont le président, nommés pour une durée de
+six ans par décret :
 
-Elle rend compte également des orientations qu'elle a fixées sur le fondement de
-l'article L. 331-8 en matière de périmètre de la copie privée, ainsi que des
-décisions qu'elle a rendues sur le fondement de l'article L. 331-7.
+1° Un membre en activité du Conseil d'Etat désigné par le vice-président du
+Conseil d'Etat ;
+
+2° Un membre en activité de la Cour de cassation désigné par le premier
+président de la Cour de cassation ;
+
+3° Un membre en activité de la Cour des comptes désigné par le premier président
+de la Cour des comptes.
+
+Des membres suppléants sont nommés dans les mêmes conditions.
+
+En cas de vacance d'un siège de membre de la commission de protection des
+droits, pour quelque cause que ce soit, il est procédé à la nomination, dans les
+conditions prévues au présent article, d'un nouveau membre pour la durée du
+mandat restant à courir.
+
+Le mandat des membres n'est ni révocable, ni renouvelable.
+
+Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas
+d'empêchement constaté par la commission dans les conditions qu'elle définit.
+
+Les fonctions de membre du collège et de membre de la commission de protection
+des droits sont incompatibles.
