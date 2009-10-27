@@ -1,9 +1,5 @@
 Article L442-9
 ----
-L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et
-l'article L. 216-8 du présent code ne sont pas applicables aux classes sous
-contrat d'association des établissements d'enseignement privés.
-
 Les dépenses de fonctionnement des classes sous contrat d'association des
 établissements d'enseignement privés du second degré sont prises en charge sous
 la forme de contributions forfaitaires versées par élève et par an et calculées
