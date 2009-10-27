@@ -36,7 +36,11 @@ l'habitation ;
 l'exception des délits de presse ;
 
 9° Les délits prévus par le code rural en matière de garde et de circulation des
-animaux.
+animaux ;
+
+10° Les délits prévus aux articles L. 335-2, L. 335-3 et L. 335-4 du code de la
+propriété intellectuelle, lorsqu'ils sont commis au moyen d'un service de
+communication au public en ligne.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le
 premier alinéa de l'article 398 lorsque le prévenu est en état de détention
