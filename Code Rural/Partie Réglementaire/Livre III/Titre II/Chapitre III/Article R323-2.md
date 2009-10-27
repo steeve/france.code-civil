@@ -1,21 +1,27 @@
 Article R323-2
 ----
-Le comité départemental d'agrément des groupements agricoles d'exploitation en
-commun comprend, sous la présidence du préfet, suppléé le cas échéant par le
-secrétaire général de la préfecture dans les conditions du droit commun :
+Un comité régional d'agrément des groupements agricoles d'exploitation en commun
+peut être institué en lieu et place des comités départementaux par décision des
+préfets des départements de la région rendue après avis de leurs commissions
+départementales d'orientation de l'agriculture respectives ou, en Corse, de la
+commission territoriale d'orientation de l'agriculture.
 
-1° Le directeur départemental de l'agriculture et de la forêt, vice-président ;
+Le comité régional d'agrément des groupements agricoles d'exploitation en commun
+comprend, sous la présidence du préfet de région ou de son représentant :
 
-2° Le directeur ou l'inspecteur du travail et de la protection sociale agricoles
-ou, dans les départements d'outre-mer, l'inspecteur du travail chargé de
-l'application des lois du travail en agriculture ;
+1° Le directeur régional de l'agriculture et de la forêt ou son représentant ;
 
-3° Le notaire membre de la commission départementale des structures agricoles ;
+2° Le directeur des services fiscaux du chef-lieu de région ou son représentant
+;
 
-4° Deux agriculteurs désignés sur proposition des agriculteurs membres de cette
-commission ;
+3° Le chef du service régional de l'inspection du travail et de l'emploi ou son
+représentant ;
 
-5° Un représentant du directeur général des impôts ;
+4° Trois agriculteurs désignés sur proposition des représentants des
+organisations syndicales d'exploitants agricoles membres de la commission
+régionale de l'économie agricole et du monde rural mentionnée à l'article R.
+313-35 ;
 
-6° Un agriculteur, représentatif des agriculteurs travaillant en commun, désigné
-sur proposition de l'organisation la plus représentative de ces agriculteurs.
+5° Un agriculteur, représentant des agriculteurs travaillant en commun dans la
+région, désigné sur proposition de l'association nationale des sociétés et
+groupements agricoles pour l'exploitation en commun.
