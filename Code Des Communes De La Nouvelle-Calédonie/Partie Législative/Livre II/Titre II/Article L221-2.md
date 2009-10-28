@@ -19,9 +19,7 @@ formation mentionnés à l'article L. 121-38 ;
 5° Les traitements et autres frais de personnel de la police municipale et
 rurale ;
 
-6° Les dépenses du personnel et de matériel relatives au service de secours et
-de défense contre l'incendie, ledit service étant organisé dans le cadre
-communal, intercommunal ou territorial.
+6° Les dépenses relatives au service d'incendie et de secours.
 
 Toutefois, sans préjudice des dispositions applicables aux activités
 réglementées, les communes peuvent exiger des intéressés ou de leurs ayants
