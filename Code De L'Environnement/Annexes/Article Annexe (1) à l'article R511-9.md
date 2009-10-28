@@ -220,7 +220,7 @@ A
 
 Ordures ménagères et autres résidus urbains (stockage et traitement des)
 
-A. stations de transit, à l'exclusion des déchetteries mentionnées à la rubrique
+A. - Station de transit, à l'exclusion des déchèteries mentionnées à la rubrique
 2710
 
 
@@ -228,57 +228,30 @@ A
 
 1
 
-A. Non soumis à la taxe
+B. Traitement :
 
--
-
-B. traitement :
-
-B. :
-
-1-broyage
+1-Broyage
 
 
 A
 
 1
 
-1. La capacité de traitement est supérieure à 4 t / h
-
-1
-
-2-décharge ou déposante
+2-Décharge ou déposante
 
 
 A
 
 1
 
-2. Non soumis à la taxe
+3-(Sans objet)
 
--
-
-3-compostage
-
-
-A
-
-1
-
-3. La capacité de traitement est supérieure à 4 t / h
-
-1
-
-4-incinération
+4-Incinération
 
 
 A
 
 2
-
-4. La capacité de traitement est supérieure à 4 t / h
-
-1
 
 329
 
@@ -1050,10 +1023,10 @@ Substances et préparations particulières (stockage, emploi, fabrication
 industrielle, formulation et conditionnement de ou à base de)
 
 1. Substances et préparations à des concentrations en poids supérieures à 5 % à
-base de : 4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels,
-chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et /
-ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle,
-1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique,
+base de : 4-aminobiphényle et/ou ses sels, benzidine et / ou ses sels, chlorure
+de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels,
+oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,
+3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique,
 benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle,
 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
 
@@ -1521,10 +1494,10 @@ DC
 
 1171
 
-Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour
-les organismes aquatiques (fabrication industrielle de substances ou
-préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles
-visées nominativement ou par famille par d'autres rubriques.
+Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les
+organismes aquatiques (fabrication industrielle de substances ou préparations)
+telles que définies à la rubrique 1 000, à l'exclusion de celles visées
+nominativement ou par famille par d'autres rubriques.
 
 1. Cas des substances très toxiques pour les organismes aquatiques-A-:
 
@@ -2332,7 +2305,7 @@ aux dispositions réglementaires en matière de transport.
 
 1312
 
-Produits explosifs (mise en oeuvre de) à des fins industrielles telles que
+Produits explosifs (mise en œuvre de) à des fins industrielles telles que
 découpage, formage, emboutissage, placage de métaux.
 
 
@@ -2446,10 +2419,10 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
--comprise entre 24, 5 % et 28 % en poids et qui contiennent au plus 0, 4 % de
+- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
 substances combustibles ;
 
--supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances
+- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
 combustibles.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -2520,35 +2493,35 @@ DC
 1331
 
 Engrais solides simples et composés à base de nitrate d'ammonium correspondant
-aux spécifications du règlement européen n o 2003 / 2003 du Parlement européen
-et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
+aux spécifications du règlement européen n° 2003/2003 du Parlement européen et
+du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
 équivalente NF U 42-001 (stockage de) :
 
 I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une
 décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium
-avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au
+avec du phosphate et / ou de la potasse) dans lesquels la teneur en azote due au
 nitrate d'ammonium est :
 
--de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles
-;
+- de 15,75 % en poids ou moins sans limitation de teneur en matières
+combustibles ;
 
--comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0,
-4 % de matières organiques ou combustibles au total, soit sont conformes aux
+- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum
+0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux
 exigences de l'annexe III-2 (*) du règlement européen.
 
 Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon
 le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
 (voir Recommandations des Nations unies relatives au transport des marchandises
-dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
+dangereuses : Manual of Tests and Criteria, partie III, sous-section 38. 2).
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
 composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse)
 dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
--supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
+- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
 III-2 (*) du règlement européen (**) ;
 
--supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
+- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
 sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du
 règlement européen.
 
@@ -2612,8 +2585,8 @@ azotés non à base de nitrates (ex : urée) ne sont pas comptabilisés.
 de l'azote nitrique dans les documents commerciaux.
 
 (*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
-(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no
-2003 / 2003.
+(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n°
+2003/2003.
 
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à
 base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate
@@ -2626,15 +2599,15 @@ d'au moins 90 %.
 Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux
 engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant
 pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2
-(**) du règlement européen n° 2003 / 2003 du Parlement européen et du Conseil du
+(**) du règlement européen n° 2003/2003 du Parlement européen et du Conseil du
 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U
 42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du
-règlement européen n° 2003 / 2003 ou à la norme française équivalente NF U
-42-001 (stockage de).
+règlement européen n° 2003/2003 ou à la norme française équivalente NF U 42-001
+(stockage de).
 
 Cette rubrique s'applique :
 
--aux matières rejetées ou écartées au cours du processus de fabrication, au
+- aux matières rejetées ou écartées au cours du processus de fabrication, au
 nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
 simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
 d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
@@ -2643,11 +2616,12 @@ subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir êtr
 utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
 rubriques 1330 et 1331-II ;
 
--aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
 azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
-exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;-aux engrais visés dans les
-rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de
-l'annexe III-2 (**).
+exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
+
+- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
+satisfont pas aux exigences de l'annexe III-2 (**).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -2677,9 +2651,9 @@ b) supérieure ou égale à 10 t mais inférieure à 50 t
 
 (*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à
 base de nitrate d'ammonium et à forte teneur en azote du règlement européen n°
-2003 / 2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
+2003/2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
 section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement
-européen n° 2003 / 2003.
+européen n° 2003/2003.
 
 1410
 
@@ -2792,7 +2766,7 @@ l'exception de ceux visés explicitement par d'autres rubriques de la
 nomenclature ;
 
 Les gaz sont maintenus liquéfiés à une température telle que la pression absolue
-de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou
+de vapeur correspondante n'excède pas 1,5 bar (stockages réfrigérés ou
 cryogéniques) ou sous pression quelle que soit la température
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -2834,7 +2808,7 @@ alimentant des moteurs, ou autres appareils, de véhicules ou engins de transpor
 fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le
 débit total en sortie du système de compression étant :
 
-1. Supérieur ou égal à 2 000 m 3 / h ou si la masse totale de gaz contenu dans
+1. Supérieur ou égal à 2 000 m 3 /h ou si la masse totale de gaz contenu dans
 l'installation est supérieure à 10 t
 
 
@@ -2842,14 +2816,14 @@ A
 
 1
 
-2. Supérieur ou égal à 80 m 3 / h, mais inférieur à 2 000 m 3 / h, ou si la
-masse de gaz contenu dans l'installation est supérieure à 1 t
+2. Supérieur ou égal à 80 m 3 /h, mais inférieur à 2 000 m 3 /h, ou si la masse
+de gaz contenu dans l'installation est supérieure à 1 t
 
 
 DC
 
-Nota.-Les débits sont exprimés pour une température de gaz de 273, 15 K à une
-pression de 101, 325 kPa.
+Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
+pression de 101,325 kPa.
 
 1414
 
@@ -2966,8 +2940,8 @@ A
 
 2
 
-2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2.
-5 × 105 Pa
+2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à
+2,5 × 10 5 Pa
 
 
 A
@@ -2975,8 +2949,8 @@ A
 1
 
 3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à
-2. 5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de
-15 o C et à la pression de 105 Pa) est supérieure à 1 200 l
+2,5 × 10 5 Pa lorsque le volume de gaz emmagasiné (calculé à la température de
+15 o C et à la pression de 10 5 Pa) est supérieure à 1 200 l
 
 
 A
@@ -3134,19 +3108,19 @@ où
 
 A représente la capacité relative aux liquides extrêmement inflammables
 (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est
-inférieur à 0 oC et dont la pression de vapeur à 35 oC est supérieure à 105
+inférieur à 0 oC et dont la pression de vapeur à 35 o C est supérieure à 105
 pascals
 
 B représente la capacité relative aux liquides inflammables de la 1ère catégorie
-(coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55 oC et
+(coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55 o C et
 qui ne répondent pas à la définition des liquides extrêmement inflammables
 
 C représente la capacité relative aux liquides inflammables de 2ème catégorie
-(coefficient 1 / 5) : tout liquide dont le point éclair est supérieur ou égal à
-55 oC et inférieur à 100 oC, sauf les fuels lourds.
+(coefficient 1/5) : tout liquide dont le point éclair est supérieur ou égal à 55
+o C et inférieur à 100 o C, sauf les fuels lourds.
 
-D représente la capacité relative aux liquides peu inflammables (coefficient 1 /
-15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications
+D représente la capacité relative aux liquides peu inflammables (coefficient
+1/15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications
 administratives
 
 NOTA :
@@ -3211,7 +3185,7 @@ b) supérieure à 5 000 t pour le méthanol
 6
 
 c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y
-compris les naphtes et kérosènes, dont le point éclair est inférieur à 55 oC
+compris les naphtes et kérosènes, dont le point éclair est inférieur à 55 o C
 (carburants d'aviation compris)
 
 
@@ -3220,14 +3194,14 @@ AS
 4
 
 c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris
-les naphtes et kérosènes dont le point éclair est inférieur à 55 oC (carburants
+les naphtes et kérosènes dont le point éclair est inférieur à 55 o C (carburants
 d'aviation compris)
 
 6
 
 d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles
 (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les
-kérosènes dont le point éclair est supérieur ou à 55 oC
+kérosènes dont le point éclair est supérieur ou à 55 o C
 
 
 AS
