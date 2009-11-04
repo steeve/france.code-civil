@@ -44,4 +44,8 @@ k) Aux opérations d'aménagement de la Plaine du Var, dans le périmètre défi
 par décret en Conseil d'Etat (1) ;
 
 l) Aux opérations d'aménagement du Plateau de Saclay, dans le périmètre défini
-par décret en Conseil d'Etat (2).
+par décret en Conseil d'Etat (2) ;
+
+m) A l'opération d'aménagement Bordeaux-Euratlantique dans les communes de
+Bordeaux, Bègles et Floirac dans le périmètre défini par décret en Conseil
+d'Etat (3).
