@@ -27,5 +27,6 @@ corps des inspecteurs généraux du ministère chargé de la culture ; celle des
 personnalités mentionnée au 5° du I, désignée par le ministre chargé du
 commerce, est remplacée par une personnalité compétente en matière de
 distribution cinématographique désignée par le ministre chargé de la culture. En
-outre, la commission est complétée par le président du comité consultatif de la
-diffusion cinématographique.
+outre, la commission est complétée par une personnalité qualifiée nommée par le
+ministre chargé de la culture sur proposition du président du Centre national du
+cinéma et de l'image animée. Un suppléant est nommé dans les mêmes conditions.

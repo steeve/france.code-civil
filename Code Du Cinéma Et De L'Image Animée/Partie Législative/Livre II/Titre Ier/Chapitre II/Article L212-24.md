@@ -1,18 +1,19 @@
 Article L212-24
 ----
-Chaque exploitant d'établissement de spectacles cinématographiques proposant aux
-spectateurs une formule d'accès au cinéma donnant droit à des entrées multiples
-doit communiquer au Centre national du cinéma et de l'image animée à l'appui de
-sa demande d'agrément :
+I.-L'homologation prévue aux 1° et 2° de l'article L. 212-23 est délivrée par le
+président du Centre national du cinéma et de l'image animée en fonction de la
+conformité des engagements de programmation à l'objet défini à l'article L.
+212-22. Il est tenu compte de la position du souscripteur dans la ou les zones
+d'attraction dans lesquelles il exerce son activité.
 
-1° Les conditions générales de la formule d'accès au cinéma donnant droit à des
-entrées multiples ;
+Les engagements de programmation homologués par le président du Centre national
+du cinéma et de l'image animée sont publiés.
 
-2° L'engagement mentionné à l'article L. 212-23 à l'égard des distributeurs et
-vis-à-vis des producteurs et des ayants droit ;
+II.-Sont tenus de souscrire et de faire homologuer leurs engagements de
+programmation ceux des exploitants mentionnés au 2° de l'article L. 212-23 dont
+l'activité est susceptible de faire obstacle au libre jeu de la concurrence et à
+la plus large diffusion des œuvres, en raison de leur importance sur le marché
+national ou du nombre de salles d'un établissement qu'ils exploitent.
 
-3° Le contrat d'association qui, le cas échéant, le lie pour cette formule à
-d'autres exploitants. Ce dernier ne peut contenir ni clause relative à la
-programmation des établissements de spectacles cinématographiques concernés, ni
-clause d'appartenance exclusive. Toute modification substantielle des actes
-précités est communiquée au Centre national du cinéma et de l'image animée.
+III.-Les projets de programmation mentionnés au 3° de l'article L. 212-23 sont
+notifiés au président du Centre national du cinéma et de l'image animée.

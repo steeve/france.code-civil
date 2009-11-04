@@ -19,4 +19,4 @@ délai de plus de quatre semaines.
 
 Les contestations relatives à la fixation d'un délai supérieur peuvent faire
 l'objet d'une conciliation menée par le médiateur du cinéma, dans le cadre des
-missions qui lui sont confiées par les articles L. 213-1 à L. 213-3.
+missions qui lui sont confiées par les articles L. 213-1 à L. 213-8.

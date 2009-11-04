@@ -1,27 +1,23 @@
 Article L212-23
 ----
-L'agrément est accordé si les conditions suivantes sont remplies :
+Sont des engagements de programmation cinématographique pour l'application de la
+présente section :
 
-1° Pour les entrées enregistrées au titre d'une formule, les ayants droit de
-chaque œuvre cinématographique sont rémunérés sur la base d'un prix de référence
-par place et d'un taux de location sur lesquels s'engage l'exploitant
-d'établissement de spectacles cinématographiques vis-à-vis de l'ensemble des
-distributeurs avec lesquels il conclut des contrats de location, conformément à
-la pratique de répartition des recettes provenant des entrées vendues à l'unité.
-Ce prix de référence peut être déterminé de manière à correspondre au prix moyen
-réduit pratiqué par chaque exploitant ;
+1° Les engagements souscrits par les groupements ou ententes de programmation
+mentionnés à l'article L. 212-19 et homologués par le président du Centre
+national du cinéma et de l'image animée ;
 
-2° Tout exploitant d'établissement de spectacles cinématographiques qui
-enregistre plus de 25 % des entrées ou des recettes dans une zone d'attraction
-donnée ou réalise plus de 3 % des recettes au niveau national doit, lorsqu'il
-propose une formule d'abonnement aux spectateurs, offrir aux exploitants de la
-même zone d'attraction dont la part de marché représente moins de 25 % des
-entrées ou des recettes dans la zone considérée, à l'exception de ceux réalisant
-plus de 0,5 % des entrées au niveau national, de s'associer à cette formule à
-des conditions équitables et non discriminatoires et garantissant un montant
-minimal de la part exploitant par entrée constatée, au moins égal au montant de
-la part reversée aux distributeurs sur la base du prix de référence précité.
-Pour les exploitants d'établissements de spectacles cinématographiques situés
-dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et
-du Val-de-Marne, qui sont regardés comme une zone d'attraction unique, les deux
-seuils de 25 % susmentionnés sont ramenés respectivement à 15 % et 8 %.
+2° Les engagements souscrits par les exploitants d'établissements de spectacles
+cinématographiques qui assurent directement et uniquement la programmation des
+établissements de spectacles cinématographiques dont ils possèdent le fonds de
+commerce, et homologués par le président du Centre national du cinéma et de
+l'image animée ;
+
+3° Les projets de programmation, mentionnés à l'article L. 212-9, sur la base
+desquels les commissions d'aménagement commercial statuant en matière
+cinématographique ont accordé des autorisations en application de l'article L.
+212-7 ;
+
+4° Tout projet de programmation sur la base duquel un exploitant d'établissement
+de spectacles cinématographiques a bénéficié d'une aide financière du Centre
+national du cinéma et de l'image animée attribuée sous forme sélective.

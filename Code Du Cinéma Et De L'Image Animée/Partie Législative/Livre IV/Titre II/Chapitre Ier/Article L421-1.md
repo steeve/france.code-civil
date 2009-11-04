@@ -14,21 +14,21 @@ pour leur application ;
 l'homologation des établissements de spectacles cinématographiques ainsi que des
 textes et décisions pris pour leur application ;
 
-3° Des dispositions des articles L. 212-19 à L. 212-21 relatives à l'agrément
+3° Des dispositions des articles L. 212-19 à L. 212-26 relatives à l'agrément
 des groupements et ententes de programmation cinématographique et aux
 engagements de programmation cinématographique ainsi que des textes et décisions
 pris pour leur application ;
 
-4° Des dispositions des articles L. 212-22 à L. 212-25 relatives à l'agrément
+4° Des dispositions des articles L. 212-27 à L. 212-31 relatives à l'agrément
 des formules d'accès au cinéma donnant droit à des entrées multiples ainsi que
 des textes et décisions pris pour leur application ;
 
-5° Des dispositions de l'article L. 212-26 relatives au contrôle des recettes
+5° Des dispositions de l'article L. 212-32 relatives au contrôle des recettes
 des œuvres cinématographiques dans les établissements de spectacles
 cinématographiques ;
 
-6° Des dispositions des articles L. 213-4 à L. 213-6 relatives aux conditions de
-concession des droits de représentation cinématographique ;
+6° Des dispositions des articles L. 213-9 à L. 213-13 relatives aux conditions
+de concession des droits de représentation cinématographique ;
 
 7° Des dispositions des articles L. 214-1 à L. 214-8 relatives à l'organisation
 de certaines séances de spectacles cinématographiques ainsi que des textes et

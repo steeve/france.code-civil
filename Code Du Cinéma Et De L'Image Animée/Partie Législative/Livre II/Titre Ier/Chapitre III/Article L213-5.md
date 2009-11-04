@@ -1,9 +1,11 @@
 Article L213-5
 ----
-L'assiette de la participation proportionnelle est déterminée par le produit de
-la vente des entrées ou, en cas de formule d'accès au cinéma donnant droit à des
-entrées multiples, des sommes correspondant au prix de référence par place
-déterminé dans les conditions prévues à l'article L. 212-23, compte non tenu de
-la taxe instituée à l'article L. 115-1. Elle est exprimée, ainsi que la
-participation proportionnelle qui en résulte au profit du concédant, en valeur
-hors taxe sur la valeur ajoutée.
+Le médiateur du cinéma examine chaque année la mise en œuvre des engagements de
+programmation souscrits en application des 1° et 2° de l'article L. 212-23.
+
+Il peut obtenir communication de tout élément d'information complémentaire dont
+il juge utile de disposer.
+
+Dans le cadre de cet examen, il formule des observations et des recommandations
+qui sont communiquées au président du Centre national du cinéma et de l'image
+animée.
