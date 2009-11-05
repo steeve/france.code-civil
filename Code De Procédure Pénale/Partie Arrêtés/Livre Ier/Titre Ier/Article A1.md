@@ -1,6 +1,6 @@
 Article A1
 ----
-I. - Les autorités ou organismes que le procureur de la République ou le juge
+I.-Les autorités ou organismes que le procureur de la République ou le juge
 d'instruction selon le cas peut, conformément aux dispositions de l'article
 11-1, autoriser à se faire délivrer une copie des pièces d'une procédure
 judiciaire en cours sont :
@@ -49,25 +49,25 @@ mortels ;
 de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir
 des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
 
-II. - L'autorisation accordée par le procureur de la République peut être
-délivrée sans limitation de temps sous réserve de la possibilité d'y mettre fin
-à tout moment, ou pendant une période de temps déterminée, pour des catégories
-de procédures concernant des infractions dont elle précise la nature.
+II.-L'autorisation accordée par le procureur de la République peut être délivrée
+sans limitation de temps sous réserve de la possibilité d'y mettre fin à tout
+moment, ou pendant une période de temps déterminée, pour des catégories de
+procédures concernant des infractions dont elle précise la nature.
 
-III. - Le procureur de la République ou le juge d'instruction peut autoriser la
+III.-Le procureur de la République ou le juge d'instruction peut autoriser la
 transmission d'une copie des pièces de procédure sous réserve que les données
 nominatives qui y figurent aient été occultées.
 
-IV. - La copie des pièces de procédure est délivrée selon les cas par les
-services ou unités de police judiciaire, par les services de la juridiction ou,
-sauf opposition figurant dans l'autorisation, par un des organismes ou autorités
+IV.-La copie des pièces de procédure est délivrée selon les cas par les services
+ou unités de police judiciaire, par les services de la juridiction ou, sauf
+opposition figurant dans l'autorisation, par un des organismes ou autorités
 visés au I ayant déjà obtenu copie de ces pièces.
 
-V. - Les dispositions ci-dessus sont applicables sans préjudice de la
-possibilité pour le procureur de la République ou le juge d'instruction
-d'autoriser des organismes ou autorités à se faire délivrer les pièces d'une
-procédure judiciaire en cours sur le fondement de dispositions particulières ;
-ces autorités et organismes sont :
+V.-Les dispositions ci-dessus sont applicables sans préjudice de la possibilité
+pour le procureur de la République ou le juge d'instruction d'autoriser des
+organismes ou autorités à se faire délivrer les pièces d'une procédure
+judiciaire en cours sur le fondement de dispositions particulières ; ces
+autorités et organismes sont :
 
 1° En application des articles L. 721-3, L. 721-5 et L. 721-6 du code de
 l'aviation civile :
@@ -86,7 +86,12 @@ Le directeur du bureau d'enquêtes techniques et administratives après accident
 Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA
 TT).
 
-3° En application de l'article 40 de la loi n° 2003-495 du 12 juin 2003
-renforçant la lutte contre la violence routière :
+3° En application des articles L. 3125-1, L. 3125-2 et R. 3125-1 du code de la
+défense :
+
+Le directeur du bureau enquêtes accidents défense mer (BEAD-mer) ;
+
+Le directeur du bureau enquêtes accidents défense transport terrestre (BEAD-TT)
+;
 
 Le directeur du bureau enquêtes accidents défense air (BEAD-air).
