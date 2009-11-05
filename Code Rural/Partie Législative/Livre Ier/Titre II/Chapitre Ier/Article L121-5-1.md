@@ -28,7 +28,7 @@ nature et des paysages désignée par le président du conseil général ;
 cette assemblée ;
 
 7° Quatre propriétaires forestiers de la commune désignés par la chambre
-d'agriculture sur proposition du centre régional de la propriété forestière,
+d'agriculture sur proposition du Centre national de la propriété forestière,
 quatre suppléants étant en outre désignés suivant la même procédure et quatre
 propriétaires forestiers de la commune désignés par le conseil municipal qui
 désigne en outre quatre suppléants.
@@ -72,7 +72,7 @@ proposition du président de la chambre d'agriculture ;
 cette assemblée ;
 
 7° Quatre propriétaires forestiers de chaque commune désignés par la chambre
-d'agriculture sur proposition du centre régional de la propriété forestière,
+d'agriculture sur proposition du centre national de la propriété forestière,
 quatre suppléants étant en outre désignés suivant la même procédure, et quatre
 propriétaires forestiers de chaque commune désignés par le conseil municipal qui
 désigne en outre quatre suppléants.

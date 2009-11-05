@@ -2,7 +2,7 @@ Article L121-5
 ----
 La commission communale ou intercommunale d'aménagement foncier est complétée
 par deux propriétaires forestiers de la commune désignés par la chambre
-d'agriculture sur proposition du centre régional de la propriété forestière,
+d'agriculture sur proposition du Centre national de la propriété forestière,
 deux suppléants étant en outre désignés suivant la même procédure, et par deux
 propriétaires forestiers de la commune désignés par le conseil municipal qui
 désigne en outre deux suppléants, lorsque la commission :

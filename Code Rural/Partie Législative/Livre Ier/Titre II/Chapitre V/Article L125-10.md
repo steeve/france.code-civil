@@ -5,7 +5,7 @@ sous-exploitées, en application des dispositions des articles L. 125-5 et L.
 125-9, et dont la mise en valeur forestière a été jugée possible et opportune
 doivent réaliser cette mise en valeur dans un délai fixé par la commission
 communale, compte tenu de l'importance de l'opération, et selon un plan soumis à
-l'agrément du préfet après avis du centre régional de la propriété forestière.
+l'agrément du préfet après avis du Centre national de la propriété forestière.
 
 La présentation par le propriétaire de l'une des garanties de bonne gestion
 mentionnées à l'article L. 101 du code forestier satisfait à l'obligation de

@@ -17,7 +17,7 @@ Il peut toutefois être dérogé à l'obligation d'assurer l'une ou l'autre des
 équivalences prévues ci-dessus soit en vertu d'un accord exprès des intéressés,
 soit dans les limites fixées, pour chaque région forestière du département, par
 la commission départementale. Celle-ci détermine à cet effet, après avis du
-centre régional de la propriété forestière :
+Centre national de la propriété forestière :
 
 1° Les écarts en pourcentage qui, pour chaque type de peuplement, peuvent être
 tolérés entre apports et attributions de chaque propriétaire en ce qui concerne
