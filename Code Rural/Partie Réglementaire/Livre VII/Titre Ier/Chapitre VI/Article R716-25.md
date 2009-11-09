@@ -6,8 +6,9 @@ dispositions des articles R. 716-19 (3°), R. 716-21, R. 716-22, R. 716-23 et R.
 durée inférieure à trente jours sur une période de douze mois consécutifs.
 
 Le recours hiérarchique formé contre les décisions de l'inspecteur du travail
-prises au titre du premier alinéa est adressé au directeur régional du travail,
-de l'emploi et de la formation professionnelle. Ce recours doit, à peine de
-forclusion, être présenté dans les quinze jours suivant la réception de la
-lettre recommandée avec avis de réception notifiant la décision de l'inspecteur
-du travail. Il est préalable à tout recours contentieux.
+prises au titre du premier alinéa est adressé au directeur régional des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+Ce recours doit, à peine de forclusion, être présenté dans les quinze jours
+suivant la réception de la lettre recommandée avec avis de réception notifiant
+la décision de l'inspecteur du travail. Il est préalable à tout recours
+contentieux.
