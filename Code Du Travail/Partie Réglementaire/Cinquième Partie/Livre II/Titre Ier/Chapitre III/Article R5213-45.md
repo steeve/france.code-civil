@@ -1,7 +1,7 @@
 Article R5213-45
 ----
-Le directeur départemental du travail, de l'emploi et de la formation
-professionnelle fixe le montant des charges induites mentionnées au 6° de
+Le directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi fixe le montant des charges induites mentionnées au 6° de
 l'article R. 5213-42 et au 5° de l'article R. 5213-44. Lorsque ce montant est
 supérieur ou égal à 20 % du produit du salaire horaire minimum de croissance par
 le nombre d'heures correspondant à la durée collective du travail applicable

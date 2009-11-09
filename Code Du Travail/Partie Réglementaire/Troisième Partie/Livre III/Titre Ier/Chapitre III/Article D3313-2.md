@@ -5,4 +5,5 @@ signataires au niveau de l'entreprise, l'accord déposé peut ne contenir que le
 clauses résultant de ces choix. L'adhésion à un accord de branche
 d'intéressement n'ouvrant pas de possibilité de choix, ou ouvrant un choix qui
 n'a pas été exercé, donne lieu à une simple notification à la direction
-départementale du travail, de l'emploi et de la formation professionnelle.
+régionale des entreprises, de la concurrence, de la consommation, du travail et
+de l'emploi.

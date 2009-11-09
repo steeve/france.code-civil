@@ -5,5 +5,5 @@ Les constatations de l'inspecteur ou du contrôleur du travail dans un
 établissements publics administratifs, sont consignées dans un registre spécial
 fourni par l'administration intéressée ou adressées au directeur de
 l'établissement, qui les annexe à ce registre. Une copie de ces observations est
-adressée au directeur régional du travail, de l'emploi et de la formation
-professionnelle.
+adressée au directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi.

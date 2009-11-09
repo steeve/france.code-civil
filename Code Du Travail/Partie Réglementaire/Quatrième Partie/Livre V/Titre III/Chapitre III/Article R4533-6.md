@@ -1,7 +1,7 @@
 Article R4533-6
 ----
-Le directeur départemental du travail, de l'emploi et de la formation
-professionnelle peut, sur la demande du maître d'ouvrage, accorder des
+Le directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi peut, sur la demande du maître d'ouvrage, accorder des
 dérogations à titre exceptionnel : 1° Aux règles d'accès prévues à l'article R.
 4533-2 lorsque la configuration du chantier ou son isolement s'oppose soit à
 l'aménagement de tout ou partie des voies prévues à cet article, soit au respect

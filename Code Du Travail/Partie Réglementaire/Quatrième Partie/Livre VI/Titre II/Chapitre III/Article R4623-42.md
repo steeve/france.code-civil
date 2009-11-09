@@ -5,5 +5,5 @@ professionnels peut être sollicité auprès du collège régional compétent pa
 L'employeur ; 2° Le président du service de santé au travail interentreprises ;
 3° Le comité d'hygiène, de sécurité et des conditions de travail ; 4° Le comité
 d'entreprise ; 5° Les instances de surveillance prévues à l'article D. 4622-42 ;
-6° Le directeur régional du travail, de l'emploi et de la formation
-professionnelle.
+6° Le directeur régional des entreprises, de la concurrence, de la consommation,
+du travail et de l'emploi.

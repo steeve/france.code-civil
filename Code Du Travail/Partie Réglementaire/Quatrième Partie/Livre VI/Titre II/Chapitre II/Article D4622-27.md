@@ -4,4 +4,5 @@ Des membres représentants du personnel de la commission de contrôle participen
 avec voix délibérative, au conseil d'administration des services
 interentreprises de santé au travail à raison d'un tiers des sièges du conseil.
 Un compte rendu de chaque réunion du conseil d'administration est adressé au
-directeur régional du travail, de l'emploi et de la formation professionnelle.
+directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi.

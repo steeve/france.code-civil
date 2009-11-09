@@ -6,5 +6,6 @@ autorisation de l'inspecteur du travail délivrée après avis du médecin
 inspecteur du travail. Un document annuel faisant état de ces changements, ainsi
 que des autres changements d'affectation d'une entreprise ou d'un établissement
 de plus de cinquante salariés, est tenu à disposition de l'inspecteur du
-travail, du directeur régional du travail, de l'emploi et de la formation
-professionnelle ainsi que du médecin inspecteur du travail.
+travail, du directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi ainsi que du médecin inspecteur du
+travail.

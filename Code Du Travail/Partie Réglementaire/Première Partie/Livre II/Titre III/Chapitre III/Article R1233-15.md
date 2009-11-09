@@ -1,8 +1,8 @@
 Article R1233-15
 ----
 L'employeur, l'administrateur ou le liquidateur, selon le cas, informe le
-directeur départemental du travail, de l'emploi et de la formation
-professionnelle en application de l'article L. 1233-60, avant l'envoi des
+directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi en application de l'article L. 1233-60, avant l'envoi des
 lettres de licenciement. Il précise : 1° Le nom et l'adresse de l'employeur ; 2°
 La nature de l'activité de l'entreprise ou de l'établissement ; 3° Le nombre de
 salariés employés dans l'entreprise ou établissement ; 4° La date à laquelle a

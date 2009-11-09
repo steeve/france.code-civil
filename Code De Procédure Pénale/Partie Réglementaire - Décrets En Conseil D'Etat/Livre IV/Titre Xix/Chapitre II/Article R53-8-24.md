@@ -30,8 +30,8 @@ f) La direction de la jeunesse et de l'éducation populaire, la direction des
 sports et les directions régionales et départementales de la jeunesse et des
 sports ;
 
-g) Les directions départementales du travail, de l'emploi et de la formation
-professionnelle.
+g) Les directions régionales des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi.
 
 II.-Les personnes mentionnées aux 1° et 2° du I indiquent le motif pour lequel
 elles interrogent le fichier.

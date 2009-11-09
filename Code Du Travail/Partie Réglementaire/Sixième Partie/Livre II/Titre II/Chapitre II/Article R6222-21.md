@@ -5,6 +5,6 @@ les deux premiers mois de son exécution ou la rupture convenue d'un commun
 accord est constatée par écrit. Elle est notifiée au directeur du centre de
 formation d'apprentis ou, dans le cas d'une section d'apprentissage, au
 responsable d'établissement, ainsi qu'à l'organisme ayant enregistré le contrat.
-L'organisme la transmet sans délai à la direction départementale du travail, de
-l'emploi et de la formation professionnelle du lieu d'exécution du contrat
-d'apprentissage.
+L'organisme la transmet sans délai à la direction régionale des entreprises, de
+la concurrence, de la consommation, du travail et de l'emploi du lieu
+d'exécution du contrat d'apprentissage.

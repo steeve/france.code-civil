@@ -1,8 +1,9 @@
 Article D5424-8
 ----
 Les périodes d'arrêt saisonnier de travail prévues à l'article L. 5424-7 sont
-déterminées par le directeur départemental du travail, de l'emploi et de la
-formation professionnelle après avis d'une commission composée comme suit :
+déterminées par le directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi après avis d'une commission composée
+comme suit :
 
 1° Quatre membres employeurs et quatre membres salariés désignés respectivement
 par les organisations d'employeurs et de salariés représentatives pour les

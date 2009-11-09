@@ -3,10 +3,10 @@ Article R4411-64
 L'organisme agréé est également habilité à fournir aux inspecteurs du travail,
 aux médecins inspecteurs du travail, à un médecin du travail désigné par la
 Caisse centrale de mutualité sociale agricole, aux ingénieurs de prévention des
-directions régionales du travail, de l'emploi et de la formation
-professionnelle, aux ingénieurs-conseils des caisses régionales de l'assurance
-maladie et aux agents chargés du contrôle de la prévention, agréés et
-assermentés, mentionnés au deuxième alinéa de l'article 1244-3 du code rural,
+directions régionales des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi, aux ingénieurs-conseils des caisses régionales de
+l'assurance maladie et aux agents chargés du contrôle de la prévention, agréés
+et assermentés, mentionnés au deuxième alinéa de l'article 1244-3 du code rural,
 tout renseignement qu'il détient sur la composition des préparations.
 
 Il est également habilité à fournir ces mêmes renseignements aux chefs de
