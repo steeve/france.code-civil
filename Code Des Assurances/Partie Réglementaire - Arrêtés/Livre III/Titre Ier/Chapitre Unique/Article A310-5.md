@@ -1,13 +1,7 @@
 Article A310-5
 ----
-Les entreprises mentionnées à l'article L. 310-1 et les courtiers d'assurances
-et de réassurance effectuent la vérification d'identité prévue par l'article 12
-de la loi n° 90-614 du 12 juillet 1990 et par l'article R. 563-1 du code
-monétaire et financier avant la conclusion de tout contrat d'assurance ou de
-capitalisation dès lors que celui-ci donne lieu à la constitution d'une
-provision mathématique.
-
-Les personnes mentionnées au premier alinéa doivent également vérifier
-l'identité du bénéficiaire d'un contrat d'assurance vie lors du paiement de la
-prestation ainsi que l'identité de la personne qui demande le remboursement d'un
-bon de capitalisation.
+Les modalités de vérification de l'identité des personnes physiques ou morales,
+telles que prévues aux alinéas 1 et 2 de l'article R. 561-5 du code monétaire et
+financier, sont considérées comme satisfaites dès lors que le paiement de leur
+première prime s'effectue par le débit d'un compte ouvert à leur nom auprès d'un
+établissement de crédit lui-même tenu à l'obligation d'identification.
