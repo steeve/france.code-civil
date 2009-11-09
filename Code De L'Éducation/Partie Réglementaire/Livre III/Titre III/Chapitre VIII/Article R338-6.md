@@ -11,4 +11,4 @@ du secteur d'activité concerné, à l'exception de celui ayant assuré directem
 la préparation ou la formation du candidat.
 
 Les membres salariés des jurys prévus au présent article bénéficient des
-dispositions prévues à l'article L. 992-8 du code du travail.
+dispositions prévues aux articles L. 3142-3 à L. 3142-6 du code du travail.

@@ -14,9 +14,9 @@ de la Banque de France dans les domaines où les dispositions du code du travail
 sont incompatibles avec le statut ou avec les missions de service public dont
 elle est chargée.
 
-Les troisième à huitième alinéas de l'article L. 432-1 du code du travail et les
-articles L. 432-5 et L. 432-9 du même code ne sont pas applicables à la Banque
-de France.
+Les articles L. 2323-19 et L. 2323-21 à L. 2323-24 et L. 2323-26 du code du
+travail et les articles L. 2323-78 à L2323-82 et L. 2323-86 du même code ne sont
+pas applicables à la Banque de France.
 
 Les dispositions du chapitre II du titre III du livre IV du même code autres que
 celles énumérées à l'alinéa précédent sont applicables à la Banque de France
@@ -25,9 +25,9 @@ l'article L. 142-2 du présent code, relèvent de la compétence du conseil
 général.
 
 Le comité d'entreprise et, le cas échéant, les comités d'établissement de la
-Banque de France ne peuvent faire appel à l'expert visé au premier alinéa de
-l'article L. 434-6 du code du travail que lorsque la procédure prévue à
-l'article L. 321-3 du même code est mise en oeuvre.
+Banque de France ne peuvent faire appel à l'expert visé à l'article L. 2325-35
+du code du travail que lorsque la procédure prévue aux articles L. 1233-29 et L.
+1233-30 du même code est mise en oeuvre.
 
-Les conditions dans lesquelles s'applique à la Banque de France l'article L.
-432-8 du même code sont fixées par un décret en Conseil d'Etat.
+Les conditions dans lesquelles s'applique à la Banque de France les articles L.
+2323-83 et L. 2323-87 du même code sont fixées par un décret en Conseil d'Etat.

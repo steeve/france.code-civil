@@ -51,7 +51,8 @@ diffusant des analyses financières ;
 14° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs
-mentionnés à l'article L. 443-1-2 du code du travail ;
+mentionnés aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code
+du travail ;
 
 15° Les agents liés mentionnés à l'article L. 545-1.
 

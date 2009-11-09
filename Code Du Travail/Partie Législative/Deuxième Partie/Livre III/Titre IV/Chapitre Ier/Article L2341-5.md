@@ -1,0 +1,4 @@
+Article L2341-5
+----
+Pour l'application du présent titre, l'entreprise dominante s'entend au sens de
+l'article L. 2331-1.

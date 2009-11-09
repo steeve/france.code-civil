@@ -1,10 +1,10 @@
 Article L1333-17
 ----
 Peuvent procéder au contrôle de l'application des dispositions du présent
-chapitre, des mesures de radioprotection prévues par l'article L. 231-7-1 du
-code du travail et par le code minier, ainsi que des règlements pris pour leur
-application, les inspecteurs de la radioprotection désignés par l'autorité
-administrative parmi :
+chapitre, des mesures de radioprotection prévues par les articles L. 4451-1 et
+L. 4451-2 du code du travail et par le code minier, ainsi que des règlements
+pris pour leur application, les inspecteurs de la radioprotection désignés par
+l'autorité administrative parmi :
 
 1° Les agents de l'Autorité de sûreté nucléaire ayant des compétences en matière
 de radioprotection ;

@@ -20,8 +20,9 @@ l'insertion ou le logement des personnes défavorisées ;
 4° De locataires représentant les locataires de l'office, élus par ces derniers
 dans les conditions prévues à l'article L. 421-9 ;
 
-5° D'un représentant du comité d'entreprise de l'office, conformément à
-l'article L. 432-6 du code du travail, qui dispose d'une voix consultative.
+5° D'un représentant du comité d'entreprise de l'office, conformément aux
+articles L2323-62 à L2323-66 du code du travail, qui dispose d'une voix
+consultative.
 
 Les membres désignés par la collectivité territoriale ou l'établissement public
 de rattachement disposent de la majorité des sièges. Les représentants des

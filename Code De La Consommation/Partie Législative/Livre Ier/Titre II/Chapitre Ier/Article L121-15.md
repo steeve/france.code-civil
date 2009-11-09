@@ -15,7 +15,7 @@ a à 105 i du code des professions applicable dans les départements de la
 Moselle, du Bas-Rhin et du Haut-Rhin ;
 
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction
-avec les dispositions de l'article L. 221-17 du code du travail ;
+avec les dispositions de l'article L. 3132-29 du code du travail ;
 
 4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article
 L. 740-2 du code de commerce et qui n'a pas fait l'objet de cette déclaration.

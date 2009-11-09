@@ -134,7 +134,7 @@ séparation de corps ou de divorce, ou en cas d'instance en séparation de corps
 ou en divorce ;
 
 5° Les salaires versés au titre des contrats conclus en application de l'article
-L. 117-1 du code du travail ;
+L. 6221-1 du code du travail ;
 
 6° (Abrogé) ;
 

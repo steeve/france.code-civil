@@ -10,7 +10,8 @@ de marchés de travaux définis par le 3° de l'article 1779 du code civil et de
 articles 13-1 et 14 de la loi n° 75-1334 du 31 décembre 1975 modifiée relative à
 la sous-traitance ;
 
-2° De l'article L. 124-8 et de l'article L. 763-9 du code du travail ;
+2° Des articles L. 1251-49 à L. 1251-53 et des articles L. 7123-19, L. 7123-21
+et L. 7123-22 du code du travail ;
 
 3° De l'article L. 530-1 du code des assurances ;
 
