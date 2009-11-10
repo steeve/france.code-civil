@@ -7,9 +7,10 @@ l'article L. 351-1 désignent :
 peuvent ou auraient pu donner lieu à rachat de cotisations d'assurance
 vieillesse au titre d'un régime de base obligatoire ;
 
-2°) les périodes d'activité professionnelle agricole non salariée, accomplies
-avant le 1er janvier 1976, sur une exploitation agricole ou assimilée, entre le
-dix-huitième et le vingt et unième anniversaire des intéressés ;
+2°) les périodes d'activité professionnelle agricole non salariée accomplies de
+façon habituelle et régulière, avant le 1er janvier 1976, sur une exploitation
+agricole ou assimilée, entre le dix-huitième et le vingt et unième anniversaire
+des intéressés.
 
 3°) les périodes antérieures au 1er avril 1983 au cours desquelles les membres
 de la famille du chef d'entreprise, âgés d'au moins dix-huit ans et ne
