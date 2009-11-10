@@ -1,9 +1,9 @@
 Article R382-15
 ----
-Les organismes agréés sont soumis au contrôle du ministre chargé de la sécurité
-sociale, du ministre chargé du budget et du ministre chargé de la culture, qui
-peuvent faire procéder par leurs représentants à toutes investigations et tous
-contrôles sur place.
+Par exception aux dispositions de l'article R. 112-1, les organismes agréés sont
+soumis au contrôle du ministre chargé de la sécurité sociale, du ministre chargé
+du budget et du ministre chargé de la culture, qui peuvent faire procéder par
+leurs représentants à toutes investigations et tous contrôles sur place.
 
 L'agence centrale des organismes de sécurité sociale exerce sur les organismes
 agréés un contrôle sur pièces dans les conditions déterminées par la convention

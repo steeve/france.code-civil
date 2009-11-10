@@ -10,6 +10,6 @@ Un règlement financier est élaboré par la caisse de retraite du personnel
 navigant professionnel de l'aéronautique civile dans les conditions prévues à
 l'article R. 623-10-3 du code de la sécurité sociale. Ce règlement financier
 entre en vigueur dans un délai de six mois à compter de sa date de transmission
-au ministre chargé de la sécurité sociale, au ministre chargé du budget et au
-ministre chargé des transports, à défaut de notification dans ce délai d'une
-décision de refus motivée dans les conditions prévues audit article.
+au ministre chargé de la sécurité sociale et au ministre chargé du budget, à
+défaut de notification dans ce délai d'une décision de refus motivée dans les
+conditions prévues audit article.
