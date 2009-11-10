@@ -1,12 +1,8 @@
 Article D741-1
 ----
 Les dépenses complémentaires du régime des assurances sociales agricoles sont
-couvertes par des cotisations complémentaires déterminées par arrêté préfectoral
-pris après avis du comité départemental des prestations sociales agricoles
-mentionné à l'article D. 731-13, sur la proposition du conseil d'administration
-de la caisse de mutualité sociale agricole intéressée et, à défaut, sur la
-proposition du chef du service de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles compétent.
+couvertes par des cotisations complémentaires dont les taux sont fixés à
+l'article D. 741-35-1.
 
 Les cotisations complémentaires du régime des assurances sociales agricoles sont
 à la charge de l'employeur.
