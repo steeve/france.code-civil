@@ -1,6 +1,6 @@
 Article A751-7
 ----
-Le collège des élus locaux de l'observatoire d'équipement commercial
+Le collège des élus locaux de l'observatoire d' aménagement commercial
 d'Ile-de-France est composé comme suit : 1° Dans chaque département autre que
 Paris : a) Le maire de la commune chef-lieu ; b) Un maire d'une commune de moins
 de 2 000 habitants ou, s'il n'en existe pas, le maire de la commune dont la
