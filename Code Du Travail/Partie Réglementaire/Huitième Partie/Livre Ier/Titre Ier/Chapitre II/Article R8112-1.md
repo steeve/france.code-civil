@@ -5,4 +5,7 @@ Dans la mise en œuvre des actions d'inspection du travail prévues à l'article
 risques professionnels, ainsi qu'à l'amélioration des conditions de travail et
 des relations sociales. Outre l'exercice de ces attributions principales, il
 concourt à l'exécution de l'ensemble des missions de la direction départementale
-du travail, de l'emploi et de la formation professionnelle.
+du travail, de l'emploi et de la formation professionnelle ou, le cas échéant, à
+l'exécution de celles de la direction régionale des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi, en ce qui concerne
+les politiques du travail, de l'emploi et de la formation professionnelle.
