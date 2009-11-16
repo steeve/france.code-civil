@@ -28,7 +28,9 @@ Dans le cadre du présent article, les collectivités territoriales et leurs
 groupements peuvent, dans les mêmes conditions, céder des terrains ou des
 constructions, la valeur attribuée aux constructions cédées ne pouvant être
 inférieure à la valeur fixée par le service des domaines, quel que soit le prix
-de cession effectivement retenu.
+de cession effectivement retenu. Le tableau récapitulatif visé aux articles L.
+2241-2, L. 3213-2 et L. 5211-38 mentionne alors la valeur de cession des
+terrains et, à titre indicatif, la valeur estimée par le service des domaines.
 
 Sous réserve des décisions de justice devenues définitives, les conventions
 passées antérieurement à la promulgation de la loi n° 2000-1208 du 13 décembre

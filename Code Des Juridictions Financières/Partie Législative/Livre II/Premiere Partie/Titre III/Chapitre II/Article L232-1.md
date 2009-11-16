@@ -35,8 +35,8 @@ Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au bud
 lors de son adoption. Le comptable est en droit de payer les mandats et
 recouvrer les titres de recettes émis dans les conditions ci-dessus.
 
-Le présent article s'applique aux régions, sous réserve des dispositions du
-dernier alinéa du I de l'article L. 4311-3.
+Le présent article s'applique aux régions, sous réserve des dispositions de
+l'article L. 4312-6.
 
 Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice
 auquel il s'applique, ou avant le 15 avril de l'année du renouvellement des
