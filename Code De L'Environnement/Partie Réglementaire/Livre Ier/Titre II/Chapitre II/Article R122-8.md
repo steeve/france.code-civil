@@ -87,7 +87,9 @@ publique ;
 15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la
 hauteur du mât dépasse 50 mètres ;
 
-16° Supprimé ;
+16° Travaux d'installation d'ouvrages de production d'électricité à partir de
+l'énergie solaire installés sur le sol dont la puissance crête est supérieure à
+deux cent cinquante kilowatts ;
 
 17° Les laboratoires souterrains destinés à étudier l'aptitude des formations
 géologiques profondes au stockage des déchets radioactifs ;
