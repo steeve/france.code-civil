@@ -18,8 +18,8 @@ mois au conseil de surveillance ;
 4° Il nomme les personnalités qualifiées, membres du comité de sélection des
 gérants prévu au I de l'article R. 135-27 ;
 
-5° Il sélectionne les entreprises assurant la gestion de portefeuille pour
-compte de tiers visées à l'article L. 135-10 ;
+5° Il sélectionne les prestataires assurant la gestion de portefeuille pour
+compte de tiers mentionnés à l'article L. 135-10 ;
 
 6° Il conclut au nom du fonds toute convention et en contrôle le respect ;
 

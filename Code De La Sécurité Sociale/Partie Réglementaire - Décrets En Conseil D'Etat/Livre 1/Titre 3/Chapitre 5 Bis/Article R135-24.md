@@ -3,23 +3,23 @@ Article R135-24
 La gestion administrative mentionnée à l'article L. 135-10, qui est exercée sous
 l'autorité du directoire, comprend :
 
-- le secrétariat des organes du fonds, la fourniture d'une assistance juridique,
+-le secrétariat des organes du fonds, la fourniture d'une assistance juridique,
 comptable et budgétaire ;
 
-- la préparation des appels d'offres en vue de la sélection des entreprises
-assurant la gestion de portefeuille pour compte de tiers visées à l'article L.
-135-10 ;
+-la préparation des appels d'offres en vue de la sélection des prestataires
+assurant la gestion de portefeuille pour compte de tiers mentionnés à l'article
+L. 135-10 ;
 
-- la gestion courante de la trésorerie du fonds qui ne peut être assurée par les
-entreprises mentionnées à l'alinéa précédent ;
+-la gestion courante de la trésorerie du fonds qui ne peut être assurée par les
+prestataires mentionnés à l'alinéa précédent ;
 
-- la préparation des propositions du directoire au conseil de surveillance sur
+-la préparation des propositions du directoire au conseil de surveillance sur
 les orientations générales de la politique de placement du fonds ;
 
-- le service de conservation prévu au 1° de l'article L. 321-2 du code monétaire
+-le service de conservation prévu au 1° de l'article L. 321-2 du code monétaire
 et financier ;
 
-- le contrôle de l'exécution des mandats visés à l'article L. 135-10.
+-le contrôle de l'exécution des mandats visés à l'article L. 135-10.
 
 Une convention entre l'établissement et la Caisse des dépôts organise la gestion
 administrative du fonds. Elle précise notamment les différents moyens affectés
