@@ -1,18 +1,12 @@
 Article D541-4
 ----
-Les personnalités qualifiées et les représentants des consommateurs, de la
-restauration collective, des producteurs agricoles, des transformateurs, des
-distributeurs et des syndicats de salariés sont nommés pour trois ans par arrêté
-conjoint du ministre de l'agriculture, du ministre chargé de la santé et du
-ministre chargé de la consommation, après avis des ministres concernés, sur
-proposition des organisations représentatives. Leur mandat est renouvelable.
+Les membres des collèges a à f mentionnés au 1° de l'article D. 541-3 sont
+nommés sur proposition des organisations les plus représentatives par arrêté
+conjoint des ministres chargés de l'agriculture, de la santé et de la
+consommation.
 
-Au cas où ils ne pourraient assurer leur mandat jusqu'à son terme, il est
-procédé à la désignation de leur remplaçant pour la période restant à courir,
-sauf si cette période est inférieure à quatre mois.
+Les membres du collège g mentionné au 1° de l'article D. 541-3 sont nommés par
+arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la
+consommation.
 
-Le président du Conseil national de l'alimentation, sur proposition du ministre
-de l'agriculture, du ministre chargé de la santé ou du ministre chargé de la
-consommation, peut appeler à participer aux séances du conseil toute
-personnalité ou représentant d'administration dont la présence est justifiée par
-l'ordre du jour.
+Leur mandat de trois ans est renouvelable.
