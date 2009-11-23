@@ -41,4 +41,4 @@ internationale, d'un arrangement administratif international pris en application
 d'une telle convention, ou par des chercheurs étrangers résidant temporairement
 en France ;
 
-15° Les activités de montage et de démontage d'installations foraines.
+15° Les activités foraines.
