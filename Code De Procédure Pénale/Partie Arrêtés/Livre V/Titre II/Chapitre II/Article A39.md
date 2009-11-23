@@ -8,7 +8,7 @@ Maison centrale d'Arles (Bouches-du-Rhône) ;
 
 Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
 
-Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube).
+Maison centrale de Clairvaux (Aube).
 
 Maison centrale d'Ensisheim (Haut-Rhin).
 

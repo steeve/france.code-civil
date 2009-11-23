@@ -34,8 +34,6 @@ Quartier centre de détention du centre pénitentiaire de Châteauroux (Indre).
 
 Quartier centre de détention du centre pénitentiaire de Château-Thierry (Aisne).
 
-Quartier centre de détention du centre pénitentiaire de Clairvaux (Aube).
-
 Quartier centre de détention du centre pénitentiaire de Draguignan (Var).
 
 Quartier centre de détention du centre pénitentiaire de Ducos (Martinique).

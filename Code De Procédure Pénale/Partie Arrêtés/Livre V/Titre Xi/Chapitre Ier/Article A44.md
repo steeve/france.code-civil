@@ -152,7 +152,7 @@ Antenne de Villenauxe-la-Grande.
 
 Antenne de Clairvaux.
 
-Centre pénitentiaire de Clairvaux.
+Maison centrale de Clairvaux.
 
 Service pénitentiaire d'insertion et de probation de l'Aude.
 
@@ -1141,9 +1141,9 @@ Le Mans.
 
 Néant.
 
-Circonscription judiciaire du Mans.
+Circonscription judiciaire du Mans ;
 
-Maison d'arrêt du Mans.
+Maison d'arrêt du Mans-Les Croisettes.
 
 Service pénitentiaire d'insertion et de probation de la Savoie.
 
