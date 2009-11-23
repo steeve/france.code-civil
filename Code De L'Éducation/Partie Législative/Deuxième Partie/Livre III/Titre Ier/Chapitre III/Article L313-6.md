@@ -10,9 +10,9 @@ nécessaire à ces derniers en vue de leur orientation scolaire et
 professionnelle.
 
 Il élabore et diffuse cette documentation en liaison avec les représentants des
-professions et des administrations intéressées. Avec l'accord du ministre chargé
-du travail, il peut participer à l'insertion professionnelle des étudiants et
-diplômés à leur sortie des établissements d'enseignement.
+professions et des administrations intéressées. Il participe à l'insertion
+professionnelle des étudiants et diplômés à leur sortie des établissements
+d'enseignement.
 
 Le conseil d'administration de cet établissement public comprend notamment des
 représentants des familles, des parents d'élèves de l'enseignement public et de

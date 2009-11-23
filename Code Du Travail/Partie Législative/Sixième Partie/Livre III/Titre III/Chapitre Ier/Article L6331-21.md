@@ -9,6 +9,10 @@ Les dépenses engagées à ce titre par l'entreprise peuvent couvrir les frais d
 formation et la rémunération des stagiaires. Elles peuvent également couvrir
 l'allocation de formation mentionnée à l'article L. 6321-10.
 
+Lorsque les actions de formation sont organisées par l'entreprise elle-même,
+l'employeur délivre au stagiaire à l'issue de la formation l'attestation prévue
+à l'article L. 6353-1.
+
 Les dépenses d'équipement en matériel sont imputables dans la limite de la
 proportion de l'annuité d'amortissement correspondant à l'utilisation de ce
 matériel à des fins de formation.

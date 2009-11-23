@@ -10,6 +10,7 @@ frauduleux, éludé les obligations qui lui incombent en vertu des articles L.
 L. 6331-48 à L. 6331-52, L. 6331-55 et L. 6331-56 ;
 
 2° En qualité de responsable d'un organisme collecteur paritaire agréé, y
-compris d'un fonds d'assurance-formation, du fonds national de péréquation, a
-frauduleusement utilisé les fonds collectés dans des conditions non conformes
-aux dispositions légales régissant l'utilisation de ces fonds.
+compris d'un fonds d'assurance-formation, du fonds paritaire de sécurisation des
+parcours professionnels, a frauduleusement utilisé les fonds collectés dans des
+conditions non conformes aux dispositions légales régissant l'utilisation de ces
+fonds.

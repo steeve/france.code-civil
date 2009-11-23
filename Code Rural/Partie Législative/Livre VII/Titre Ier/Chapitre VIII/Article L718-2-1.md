@@ -12,11 +12,14 @@ exerçant dans les départements d'outre-mer, le montant de cette contribution
 varie en fonction de la surface pondérée de l'exploitation mentionnée à
 l'article L. 762-7 du présent code, dans des conditions fixées par décret.
 
-Pour les conjoints et les membres de la famille des chefs d'exploitation ou
-d'entreprise agricoles mentionnés à l'article L. 732-34 du présent code, ainsi
-que pour les conjoints ayant opté pour la qualité de conjoint collaborateur
-d'exploitation ou d'entreprise agricoles mentionnés à l'article L. 321-5 du même
-code, la contribution est égale au montant minimal prévu à l'alinéa précédent.
+Pour les personnes mentionnées à l'article L. 731-23 qui n'ont pas atteint l'âge
+déterminé à l'article L. 732-25, pour les conjoints et les membres de la famille
+des chefs d'exploitation ou d'entreprise agricoles mentionnés à l'article L.
+732-34 du présent code, ainsi que pour les conjoints ayant opté pour la qualité
+de conjoint collaborateur d'exploitation ou d'entreprise agricoles mentionnés à
+l'article L. 321-5 du même code, la contribution est égale au montant minimal
+prévu à l'alinéa précédent. Ces personnes bénéficient de la formation
+professionnelle continue.
 
 Cette contribution est directement recouvrée en une seule fois et contrôlée par
 les caisses de mutualité sociale agricole, selon les règles et sous les

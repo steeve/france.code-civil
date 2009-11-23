@@ -14,6 +14,12 @@ non salariée, bénévole ou de volontariat, en rapport direct avec le contenu d
 diplôme ou du titre. La durée minimale d'activité requise ne peut être
 inférieure à trois ans.
 
+Peuvent également être prises en compte, au titre de la validation, l'ensemble
+des compétences professionnelles acquises en rapport direct avec le contenu du
+titre ou du diplôme par les conseillers municipaux, les conseillers généraux et
+les conseillers régionaux qui ont exercé leur fonction durant au moins une
+mandature complète.
+
 La validation est effectuée par un jury dont la composition garantit une
 présence significative de représentants qualifiés des professions concernées.
 
@@ -28,13 +34,13 @@ d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette
 procédure est prévue par l'autorité qui délivre la certification.
 
 Un décret en Conseil d'Etat détermine les conditions d'application des
-dispositions des troisième et quatrième alinéas, notamment les règles selon
+dispositions des troisième et cinquième alinéas, notamment les règles selon
 lesquelles le jury est constitué. Cette composition concourt à une
 représentation équilibrée entre les femmes et les hommes. Il détermine également
 les conditions dans lesquelles il peut être dérogé aux dispositions du premier
 alinéa, pour des raisons tenant à la nature des diplômes ou titres en cause ou
 aux conditions d'exercice des professions auxquelles ils permettent d'accéder.
-Le jury fixe les contrôles complémentaires prévus au cinquième alinéa.
+Le jury fixe les contrôles complémentaires prévus au sixième alinéa.
 
 II. - Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au
 nom de l'Etat ou par des établissements publics ayant une mission de formation

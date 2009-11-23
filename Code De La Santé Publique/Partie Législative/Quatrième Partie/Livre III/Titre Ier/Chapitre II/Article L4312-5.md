@@ -7,8 +7,9 @@ coordination des conseils départementaux ou interdépartementaux.
 
 Il étudie les projets, propositions ou demandes d'avis qui lui sont soumis par
 les instances compétentes en matière de santé sur le plan régional. Il est
-consulté sur le plan institué par l'article L. 214-13 du code de l'éducation
-avant l'approbation de ce plan par le conseil régional intéressé.
+consulté sur le contrat de plan institué par l'article L. 214-13 du code de
+l'éducation avant l'approbation de ce contrat de plan par le conseil régional
+intéressé.
 
 Il peut décider la suspension temporaire du droit d'exercer en cas d'infirmité
 du professionnel ou d'état pathologique rendant dangereux l'exercice de sa

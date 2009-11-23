@@ -5,4 +5,5 @@ les fonds versés au titre des contrats et périodes de professionnalisation et 
 droit individuel à la formation ne peuvent être collectés que par des organismes
 agréés à compétence interprofessionnelle, à l'exception des contributions des
 entreprises relevant du secteur du bâtiment et des travaux publics et de la
-coopération et du développement agricoles.
+coopération et du développement agricoles et de toutes les activités relevant de
+la production agricole.

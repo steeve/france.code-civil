@@ -1,6 +1,7 @@
 Article L6323-19
 ----
-En cas de démission, le salarié peut demander à bénéficier de son droit
-individuel à la formation sous réserve que l'action de bilan de compétences, de
-validation des acquis de l'expérience ou de formation soit engagée avant la fin
-du préavis.
+Dans la lettre de licenciement, l'employeur informe le salarié, s'il y a lieu,
+de ses droits en matière de droit individuel à la formation. Cette information
+comprend les droits visés à l'article L. 6323-17 et, dans les cas de
+licenciements visés à l'article L. 1233-65, les droits du salarié en matière de
+droit individuel à la formation définis par l'article L. 1233-66.

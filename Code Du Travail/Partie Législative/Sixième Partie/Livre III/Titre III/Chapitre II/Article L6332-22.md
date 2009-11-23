@@ -1,25 +1,15 @@
 Article L6332-22
 ----
-Un décret en Conseil d'Etat détermine les conditions d'application de la
-présente section, ainsi que :
+Les versements mentionnés au 2° de l'article L. 6332-21 sont accordés aux
+organismes collecteurs paritaires agréés dans les conditions suivantes : 1°
+L'organisme collecteur paritaire agréé affecte au moins 50 % des fonds
+recueillis au titre de la professionnalisation, déduction faite de la part
+versée au fonds paritaire de sécurisation des parcours professionnels, aux
+contrats de professionnalisation et à des périodes de professionnalisation, dont
+la durée minimum est définie par décret, visant des qualifications mentionnées
+aux 1° et 3° de l'article L. 6314-1 ;
 
-1° Les conditions dans lesquelles les sommes reçues par le fonds national de
-péréquation sont affectées, d'une part, aux organismes collecteurs paritaires
-agréés, sous réserve du respect de règles relatives à la nature et aux coûts des
-actions financées par ces organismes, d'autre part, au financement d'études et
-d'actions de promotion ;
-
-2° Les modalités du reversement prévu au cinquième alinéa de l'article L.
-6332-19 ;
-
-3° Les documents et pièces relatifs à leur gestion que les organismes
-collecteurs communiquent au fonds national de péréquation et ceux qu'ils
-présentent aux personnes commissionnées par ce dernier pour les contrôler. Ces
-dispositions s'appliquent sans préjudice des contrôles exercés par les agents
-mentionnés à l'article L. 6361-5 ;
-
-4° Les modalités d'application au fonds national de péréquation du principe de
-transparence prévu au 2° de l'article L. 6332-6 ;
-
-5° Les conditions dans lesquelles, en l'absence de fonds agréé, les organismes
-collecteurs paritaires déposent leurs disponibilités auprès d'un compte unique.
+2° Les fonds recueillis au titre de la professionnalisation par l'organisme
+collecteur paritaire agréé, déduction faite de la part versée au fonds paritaire
+de sécurisation des parcours professionnels, sont insuffisants pour assurer la
+prise en charge prévue à l'article L. 6332-14.

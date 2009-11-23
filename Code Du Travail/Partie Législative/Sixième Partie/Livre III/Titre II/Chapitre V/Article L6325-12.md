@@ -1,9 +1,8 @@
 Article L6325-12
 ----
 La durée minimale de l'action de professionnalisation peut être allongée jusqu'à
-vingt-quatre mois, notamment pour la personne sortie du système éducatif sans
-qualification professionnelle reconnue ou lorsque la nature des qualifications
-prévues l'exige.
+vingt-quatre mois pour d'autres personnes que celles mentionnées à l'article L.
+6325-11 ou lorsque la nature des qualifications prévues l'exige.
 
 Ces bénéficiaires et la nature de ces qualifications sont définis par convention
 ou accord collectif de branche ou, à défaut, par accord collectif conclu entre

@@ -28,15 +28,16 @@ conditions d'accès à l'enseignement. Le département fixe au travers de ce sch
 les conditions de sa participation au financement des établissements
 d'enseignement artistique au titre de l'enseignement initial.
 
-La région organise et finance, dans le cadre du plan visé à l'article L. 214-13,
-le cycle d'enseignement professionnel initial.
+La région organise et finance, dans le cadre du contrat de plan visé à l'article
+L. 214-13, le cycle d'enseignement professionnel initial.
 
 L'Etat procède au classement des établissements en catégories correspondant à
 leurs missions et à leur rayonnement régional, départemental, intercommunal ou
 communal. Il définit les qualifications exigées du personnel enseignant de ces
 établissements et assure l'évaluation de leurs activités ainsi que de leur
 fonctionnement pédagogique. Il apporte une aide technique à l'élaboration du
-plan mentionné à l'article L. 214-13 et du schéma prévu au présent article.
+contrat de plan mentionné à l'article L. 214-13 et du schéma prévu au présent
+article.
 
 Des décrets en Conseil d'Etat fixent les conditions d'application du présent
 article.

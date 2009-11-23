@@ -12,4 +12,6 @@ Dans ce cas, l'employeur verse à l'organisme collecteur le montant de
 l'allocation de formation correspondant aux droits acquis par l'intéressé au
 titre du droit individuel à la formation et les frais de formation calculés
 conformément aux dispositions prévues par les sections 3 et 4 et sur la base
-forfaitaire applicable aux contrats de professionnalisation.
+forfaitaire applicable aux contrats de professionnalisation. La durée de la
+formation ainsi réalisée se déduit du contingent d'heures de formation acquis au
+titre du droit individuel à la formation.

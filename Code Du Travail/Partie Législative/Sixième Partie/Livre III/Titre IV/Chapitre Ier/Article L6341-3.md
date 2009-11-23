@@ -8,4 +8,8 @@ fixées à l'article L. 6341-4, sont :
 régime d'assurance chômage, mentionnés à l'article L. 6341-7 ;
 
 2° Les stages en direction des travailleurs reconnus handicapés en application
-de l'article L. 5213-1.
+de l'article L. 5213-1 ;
+
+3° Les formations suivies en centre de formation d'apprentis par les apprentis
+dont le contrat a été rompu sans qu'ils soient à l'initiative de cette rupture,
+pour une durée n'excédant pas trois mois.

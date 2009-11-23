@@ -9,12 +9,9 @@ décret.
 
 Ces documents sont également communiqués aux délégués syndicaux.
 
-Ils précisent notamment la nature des actions proposées par l'employeur en
-distinguant :
+Ils précisent notamment la nature des actions de formation proposées par
+l'employeur en application de l'article L. 6321-1 et distinguent : 1° Les
+actions d'adaptation du salarié au poste de travail ou liées à l'évolution ou au
+maintien dans l'emploi dans l'entreprise ;
 
-1° Les actions d'adaptation au poste de travail ;
-
-2° Les actions de formation liées à l'évolution des emplois ou au maintien dans
-l'emploi des salariés ;
-
-3° Les actions qui participent au développement des compétences des salariés.
+2° Les actions de développement des compétences du salarié.

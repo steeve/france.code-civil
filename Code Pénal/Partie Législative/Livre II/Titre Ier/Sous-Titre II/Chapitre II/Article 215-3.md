@@ -9,4 +9,8 @@ encourent, outre l'amende suivant les modalités prévues par l'article 131-38 :
 2° Les peines mentionnées à l'article 131-39 ;
 
 3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis
-ou indivis.
+ou indivis ;
+
+4° L'interdiction d'exercer une fonction de prestataire de formation
+professionnelle continue au sens de l'article L. 6313-1 du code du travail pour
+une durée de cinq ans.

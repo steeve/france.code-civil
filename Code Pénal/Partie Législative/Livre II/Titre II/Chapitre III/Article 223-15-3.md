@@ -9,7 +9,9 @@ modalités prévues par l'article 131-26 ;
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer
 une fonction publique ou d'exercer l'activité professionnelle ou sociale dans
 l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-pour une durée de cinq ans au plus ;
+pour une durée de cinq ans au plus, ainsi que l'activité de prestataire de
+formation professionnelle continue au sens de l'article L. 6313-1 du code du
+travail, pour la même durée ;
 
 3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de
 l'un ou de plusieurs des établissements de l'entreprise ayant servi à commettre

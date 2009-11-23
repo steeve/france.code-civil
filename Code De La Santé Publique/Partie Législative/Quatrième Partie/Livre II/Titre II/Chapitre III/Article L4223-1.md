@@ -18,7 +18,9 @@ l'infraction ou de la chose qui en est le produit, conformément à l'article
 c) L'interdiction définitive ou pour une durée de cinq ans au plus d'exercer une
 ou plusieurs professions régies par le présent code ou toute autre activité
 professionnelle ou sociale à l'occasion de l'exercice de laquelle l'infraction a
-été commise, suivant les modalités prévues par l'article 131-27 du code pénal ;
+été commise, suivant les modalités prévues par l'article 131-27 du code pénal,
+ainsi que l'activité de prestataire de formation professionnelle continue au
+sens de l'article L. 6313-1 du code du travail pour une durée de cinq ans ;
 
 d) La fermeture définitive ou pour une durée de cinq ans au plus de
 l'établissement dans lequel l'infraction a été commise.

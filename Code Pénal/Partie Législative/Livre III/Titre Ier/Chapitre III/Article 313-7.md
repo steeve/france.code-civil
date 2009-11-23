@@ -33,3 +33,8 @@ ou ceux qui sont certifiés ;
 
 7° L'affichage ou la diffusion de la décision prononcée dans les conditions
 prévues par l'article 131-35.
+
+Les personnes physiques ou morales coupables du délit prévu à la présente
+section encourent également la peine complémentaire suivante : interdiction de
+l'activité de prestataire de formation professionnelle continue au sens de
+l'article L. 6313-1 du code du travail pour une durée de cinq ans.

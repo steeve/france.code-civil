@@ -50,8 +50,9 @@ professionnelle enregistré au répertoire national des certifications
 professionnelles.
 
 L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels
-et les centres de formation d'apprentis est inscrite au plan régional de
-développement des formations professionnelles mentionné à l'article L. 214-13.
+et les centres de formation d'apprentis est inscrite au contrat de plan régional
+de développement des formations professionnelles mentionné à l'article L.
+214-13.
 
 Les dépenses de transport scolaire spécifiquement liées à la formation de
 l'apprenti junior sous statut scolaire donnent lieu à une compensation au

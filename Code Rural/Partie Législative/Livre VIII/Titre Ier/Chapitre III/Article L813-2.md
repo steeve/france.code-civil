@@ -36,13 +36,13 @@ l'enseignement et de la formation professionnelle agricoles mentionnées à
 l'article L. 813-1. Le projet d'établissement est établi dans le respect du
 schéma prévisionnel national des formations de l'enseignement agricole mentionné
 à l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à
-l'article L. 214-1 du code de l'éducation, du plan régional de développement des
-formations professionnelles mentionné à l'article L. 214-13 du même code et des
-programmes et référentiels nationaux mentionnés à l'article L. 811-2 du présent
-code. Il est défini en cohérence avec le projet régional de l'enseignement
-agricole mentionné à l'article L. 814-4 du présent code. Il définit les
-modalités de la participation de l'établissement au développement des
-territoires dans lesquels celui-ci s'insère.
+l'article L. 214-1 du code de l'éducation, du contrat de plan régional de
+développement des formations professionnelles mentionné à l'article L. 214-13 du
+même code et des programmes et référentiels nationaux mentionnés à l'article L.
+811-2 du présent code. Il est défini en cohérence avec le projet régional de
+l'enseignement agricole mentionné à l'article L. 814-4 du présent code. Il
+définit les modalités de la participation de l'établissement au développement
+des territoires dans lesquels celui-ci s'insère.
 
 Le projet d'établissement est élaboré sous la responsabilité du chef
 d'établissement. Il est adopté par le conseil d'administration de l'association

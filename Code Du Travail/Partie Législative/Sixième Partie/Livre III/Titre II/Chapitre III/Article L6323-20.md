@@ -1,4 +1,4 @@
 Article L6323-20
 ----
-En cas de départ à la retraite, le droit individuel à la formation n'est pas
-transférable.
+En cas de départ à la retraite, le salarié ne peut bénéficier de ses droits
+acquis au titre du droit individuel à la formation.

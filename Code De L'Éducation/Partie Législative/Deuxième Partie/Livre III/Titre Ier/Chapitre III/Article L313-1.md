@@ -16,3 +16,11 @@ professionnelle avec l'aide des parents, des enseignants, des personnels
 d'orientation et des autres professionnels compétents. Les administrations
 concernées, les collectivités territoriales, les organisations professionnelles,
 les entreprises et les associations y contribuent.
+
+Les conseillers d'orientation psychologues exerçant dans les établissements
+d'enseignement du second degré et les centres visés à l'article L. 313-4 sont
+recrutés dans des conditions définies par décret. Leur formation initiale leur
+assure une connaissance étendue des filières de formation, du monde économique,
+de l'entreprise, des dispositifs de qualification, des métiers et des
+compétences qui sont nécessaires à leur exercice. Ils sont tenus d'actualiser
+régulièrement leurs connaissances au cours de leur carrière.

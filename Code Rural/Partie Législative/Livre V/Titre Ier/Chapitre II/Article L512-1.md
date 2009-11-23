@@ -25,8 +25,8 @@ départementales d'agriculture ;
 contractuelle entre l'Etat et les régions, des schémas d'aménagement du
 territoire et de gestion des ressources naturelles intéressant les régions ;
 
-- elles sont consultées lors de l'établissement des plans régionaux de
-développement des formations professionnelles des jeunes et des adultes ;
+- elles sont consultées lors de l'établissement des contrats de plans régionaux
+de développement des formations professionnelles des jeunes et des adultes ;
 
 - elles contribuent, dans leur champ de compétences, à l'élaboration des
 programmes régionaux européens et de la politique des régions dans le domaine

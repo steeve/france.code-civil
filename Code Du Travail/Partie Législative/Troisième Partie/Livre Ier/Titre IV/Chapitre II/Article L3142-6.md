@@ -2,7 +2,7 @@ Article L3142-6
 ----
 Un décret détermine les conditions dans lesquelles les dépenses afférentes au
 maintien du salaire et au remboursement des frais de déplacement sont supportées
-par les instances mentionnées dans la présente sous-section ou par l'entreprise.
+par les instances mentionnées à l'article L. 3142-3 ou par l'entreprise.
 
 Dans ce cas, le salaire ainsi que les cotisations sociales obligatoires et, s'il
 y a lieu, la taxe sur les salaires qui s'y rattachent sont pris en compte au

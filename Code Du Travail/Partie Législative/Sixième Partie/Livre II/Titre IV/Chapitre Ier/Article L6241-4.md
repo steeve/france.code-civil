@@ -8,4 +8,6 @@ mentionnés au chapitre II.
 Le montant de ce concours s'impute sur la fraction prévue à l'article L. 6241-2.
 Il est au moins égal, dans la limite de cette fraction, au coût par apprenti
 fixé par la convention de création du centre de formation d'apprentis ou de la
-section d'apprentissage, tel qu'il est défini à l'article L. 6241-10.
+section d'apprentissage, tel qu'il est défini à l'article L. 6241-10.A défaut de
+publication de ce coût, le montant de ce concours est égal à un montant
+forfaitaire fixé par arrêté du ministre chargé de la formation professionnelle.

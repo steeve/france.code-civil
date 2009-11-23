@@ -8,6 +8,9 @@ précédemment, l'employeur lui propose un autre emploi approprié à ses capaci
 Cette proposition prend en compte, après avis des délégués du personnel, les
 conclusions écrites du médecin du travail et les indications qu'il formule sur
 l'aptitude du salarié à exercer l'une des tâches existant dans l'entreprise.
+Dans les entreprises de cinquante salariés et plus, le médecin du travail
+formule également des indications sur l'aptitude du salarié à bénéficier d'une
+formation destinée à lui proposer un poste adapté.
 
 L'emploi proposé est aussi comparable que possible à l'emploi précédemment
 occupé, au besoin par la mise en oeuvre de mesures telles que mutations,

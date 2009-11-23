@@ -15,6 +15,5 @@ formations permettant d'acquérir une des qualifications mentionnées à l'artic
 L. 6314-1 du code du travail.
 
 Elle assure l'accueil en formation de la population résidant sur son territoire,
-ou dans une autre région si la formation désirée n'y est pas accessible. Dans ce
-dernier cas, une convention fixe les conditions de prise en charge de la
-formation par les régions concernées.
+ou dans une autre région. Dans ce dernier cas, une convention fixe les
+conditions de prise en charge de la formation par les régions concernées.
