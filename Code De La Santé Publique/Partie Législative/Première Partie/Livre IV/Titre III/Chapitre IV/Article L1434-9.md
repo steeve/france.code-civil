@@ -13,7 +13,10 @@ lourds ;
 coopérations entre ces établissements ;
 
 4° Les missions de service public assurées par les établissements de santé et
-les autres personnes citées à l'article L. 6112-2.
+les autres personnes citées à l'article L. 6112-2 ;
+
+5° Les objectifs et les moyens dédiés à l'offre de soins en milieu
+pénitentiaire.
 
 Les autorisations accordées par le directeur général de l'agence régionale de
 santé en vertu des 2° et 3° doivent être compatibles avec les objectifs fixés

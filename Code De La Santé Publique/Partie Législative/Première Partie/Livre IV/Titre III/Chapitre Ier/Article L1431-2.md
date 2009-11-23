@@ -78,4 +78,8 @@ médico-sociaux ;
 h) En relation avec les directions régionales des affaires culturelles mais
 aussi avec les collectivités territoriales qui le souhaitent, elles encouragent
 et favorisent, au sein des établissements, l'élaboration et la mise en œuvre
-d'un volet culturel.
+d'un volet culturel ;
+
+i) Elles évaluent et identifient les besoins sanitaires des personnes en
+détention. Elles définissent et régulent l'offre de soins en milieu
+pénitentiaire.
