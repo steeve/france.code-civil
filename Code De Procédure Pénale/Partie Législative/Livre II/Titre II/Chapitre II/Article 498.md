@@ -1,7 +1,7 @@
 Article 498
 ----
-Sauf dans le cas prévu à l'article 505, l'appel est interjeté dans le délai de
-dix jours à compter du prononcé du jugement contradictoire.
+Sans préjudice de l'article 505, l'appel est interjeté dans le délai de dix
+jours à compter du prononcé du jugement contradictoire.
 
 Toutefois, le délai d'appel ne court qu'à compter de la signification du
 jugement quel qu'en soit le mode :

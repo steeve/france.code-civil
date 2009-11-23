@@ -10,4 +10,5 @@ Sous réserve des dispositions de l'article 137, la détention provisoire ne peu
 
 La détention provisoire peut également être ordonnée dans les conditions prévues
 à l'article 141-2 lorsque la personne mise en examen se soustrait volontairement
-aux obligations du contrôle judiciaire.
+aux obligations du contrôle judiciaire ou d'une assignation à résidence avec
+surveillance électronique.

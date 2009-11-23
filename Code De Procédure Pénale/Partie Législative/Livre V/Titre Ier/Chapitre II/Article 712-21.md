@@ -10,3 +10,8 @@ l'assassinat ou le viol d'un mineur de quinze ans.
 
 Cette expertise détermine si le condamné est susceptible de faire l'objet d'un
 traitement.
+
+Lorsqu'elles concernent les infractions violentes ou de nature sexuelle
+mentionnées à l'article 706-47, les expertises psychiatriques ordonnées
+préalablement aux mesures d'aménagement des peines conformément au présent
+article doivent se prononcer spécialement sur le risque de récidive du condamné.

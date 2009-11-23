@@ -13,4 +13,12 @@ Pour l'application du présent article, la situation de chaque condamné est
 examinée au moins une fois par an, lorsque les conditions de délai prévues à
 l'article 729 sont remplies.
 
+Pour les demandes de libération conditionnelle concernant des personnes
+condamnées à une peine d'emprisonnement égale ou supérieure à cinq ans ou à une
+peine de réclusion, l'avocat de la partie civile peut, s'il en fait la demande,
+assister au débat contradictoire devant le juge de l'application des peines, le
+tribunal de l'application des peines ou la chambre de l'application des peines
+de la cour d'appel statuant en appel pour y faire valoir ses observations, avant
+les réquisitions du ministère public.
+
 Un décret fixe les modalités d'application du présent article.

@@ -5,16 +5,18 @@ ordonnance, le renvoi de l'affaire devant le tribunal correctionnel. Cette
 ordonnance précise, s'il y a lieu, que le prévenu bénéficie des dispositions de
 l'article 132-78 du code pénal.
 
-L'ordonnance de règlement met fin à la détention provisoire ou au contrôle
-judiciaire. S'il a été décerné, le mandat d'arrêt conserve sa force exécutoire ;
-s'ils ont été décernés, les mandats d'amener ou de recherche cessent de pouvoir
-recevoir exécution, sans préjudice de la possibilité pour le juge d'instruction
-de délivrer un mandat d'arrêt contre le prévenu.
+L'ordonnance de règlement met fin à la détention provisoire, à l'assignation à
+résidence avec surveillance électronique ou au contrôle judiciaire. S'il a été
+décerné, le mandat d'arrêt conserve sa force exécutoire ; s'ils ont été
+décernés, les mandats d'amener ou de recherche cessent de pouvoir recevoir
+exécution, sans préjudice de la possibilité pour le juge d'instruction de
+délivrer un mandat d'arrêt contre le prévenu.
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement
-motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à
-sa comparution devant le tribunal. L'ordonnance de maintien en détention
-provisoire est motivée par référence aux 2°, 4°, 5° et 6° de l'article 144.
+motivée, maintenir le prévenu en détention, sous assignation à résidence avec
+surveillance électronique ou sous contrôle judiciaire jusqu'à sa comparution
+devant le tribunal.L'ordonnance de maintien en détention provisoire est motivée
+par référence aux 2°, 4°, 5° et 6° de l'article 144.
 
 Le prévenu en détention est immédiatement remis en liberté si le tribunal
 correctionnel n'a pas commencé à examiner au fond à l'expiration d'un délai de

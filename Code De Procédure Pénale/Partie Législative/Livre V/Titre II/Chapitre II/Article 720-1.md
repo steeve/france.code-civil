@@ -1,9 +1,9 @@
 Article 720-1
 ----
 En matière correctionnelle, lorsqu'il reste à subir par la personne condamnée
-une peine d'emprisonnement inférieure ou égale à un an, cette peine peut, pour
-motif grave d'ordre médical, familial, professionnel ou social et pendant une
-période n'excédant pas trois ans, être suspendue ou exécutée par fractions,
+une peine d'emprisonnement inférieure ou égale à deux ans, cette peine peut,
+pour motif d'ordre médical, familial, professionnel ou social et pendant une
+période n'excédant pas quatre ans, être suspendue ou exécutée par fractions,
 aucune de ces fractions ne pouvant être inférieure à deux jours. La décision est
 prise par le juge de l'application des peines dans les conditions prévues par
 l'article 712-6. Ce juge peut décider de soumettre le condamné à une ou

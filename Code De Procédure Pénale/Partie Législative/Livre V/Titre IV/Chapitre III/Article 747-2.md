@@ -1,7 +1,8 @@
 Article 747-2
 ----
 Dans le cas prévu à l'article 132-57 du code pénal, le juge de l'application des
-peines est saisi et statue selon les dispositions de l'article 712-6.
+peines est saisi et statue selon les dispositions de l'article 712-6 ou de
+l'article 723-15.
 
 Dès sa saisine, le juge de l'application des peines peut ordonner la suspension
 de l'exécution de la peine jusqu'à sa décision sur le fond.

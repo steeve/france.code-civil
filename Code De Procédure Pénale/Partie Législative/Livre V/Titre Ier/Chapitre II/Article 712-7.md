@@ -15,7 +15,3 @@ les réquisitions du ministère public et les observations du condamné ainsi qu
 le cas échéant, celles de son avocat. Si le condamné est détenu, ce débat peut
 se tenir dans l'établissement pénitentiaire. Il peut être fait application des
 dispositions de l'article 706-71.
-
-S'il en fait la demande, l'avocat de la partie civile peut assister au débat
-contradictoire devant le tribunal de l'application des peines pour y faire
-valoir ses observations, avant les réquisitions du ministère public.

@@ -4,7 +4,8 @@ La détention provisoire ne peut être ordonnée ou prolongée que s'il est
 démontré, au regard des éléments précis et circonstanciés résultant de la
 procédure, qu'elle constitue l'unique moyen de parvenir à l'un ou plusieurs des
 objectifs suivants et que ceux-ci ne sauraient être atteints en cas de placement
-sous contrôle judiciaire :
+sous contrôle judiciaire ou d'assignation à résidence avec surveillance
+électronique :
 
 1° Conserver les preuves ou les indices matériels qui sont nécessaires à la
 manifestation de la vérité ;

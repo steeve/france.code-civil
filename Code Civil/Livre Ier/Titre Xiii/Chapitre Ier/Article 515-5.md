@@ -1,6 +1,6 @@
 Article 515-5
 ----
-Sauf dispositions contraires de la convention visée au deuxième alinéa de
+Sauf dispositions contraires de la convention visée au troisième alinéa de
 l'article 515-3, chacun des partenaires conserve l'administration, la jouissance
 et la libre disposition de ses biens personnels. Chacun d'eux reste seul tenu
 des dettes personnelles nées avant ou pendant le pacte, hors le cas du dernier

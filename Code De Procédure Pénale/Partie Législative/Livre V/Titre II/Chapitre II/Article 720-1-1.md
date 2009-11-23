@@ -11,7 +11,10 @@ mentaux.
 
 La suspension ne peut être ordonnée que si deux expertises médicales distinctes
 établissent de manière concordante que le condamné se trouve dans l'une des
-situations énoncées à l'alinéa précédent.
+situations énoncées à l'alinéa précédent. Toutefois, en cas d'urgence, lorsque
+le pronostic vital est engagé, la suspension peut être ordonnée au vu d'un
+certificat médical établi par le médecin responsable de la structure sanitaire
+dans laquelle est pris en charge le détenu ou son remplaçant.
 
 Lorsque la peine privative de liberté prononcée est d'une durée inférieure ou
 égale à dix ans ou que, quelle que soit la peine initialement prononcée, la

@@ -10,3 +10,12 @@ La nature, le quantum et le régime des peines prononcées sont fixés de maniè
 concilier la protection effective de la société, la sanction du condamné et les
 intérêts de la victime avec la nécessité de favoriser l'insertion ou la
 réinsertion du condamné et de prévenir la commission de nouvelles infractions.
+
+En matière correctionnelle, en dehors des condamnations en récidive légale
+prononcées en application de l'article 132-19-1, une peine d'emprisonnement sans
+sursis ne peut être prononcée qu'en dernier recours si la gravité de
+l'infraction et la personnalité de son auteur rendent cette peine nécessaire et
+si toute autre sanction est manifestement inadéquate ; dans ce cas, la peine
+d'emprisonnement doit, si la personnalité et la situation du condamné le
+permettent, et sauf impossibilité matérielle, faire l'objet d'une des mesures
+d'aménagement prévues aux articles 132-25 à 132-28.

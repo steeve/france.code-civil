@@ -13,8 +13,8 @@ continuent de relever de la compétence du juge d'instruction et du juge des
 libertés et de la détention sauf mention expresse de la part de la chambre de
 l'instruction disant qu'elle est seule compétente pour statuer sur les demandes
 de mise en liberté et prolonger le cas échéant la détention provisoire. Il en
-est de même lorsque la chambre de l'instruction ordonne un contrôle judiciaire
-ou en modifie les modalités.
+est de même lorsque la chambre de l'instruction ordonne ou modifie un contrôle
+judiciaire ou une assignation à résidence avec surveillance électronique.
 
 Lorsque, en toute autre matière, la chambre de l'instruction infirme une
 ordonnance du juge d'instruction ou est saisie en application des articles 81,

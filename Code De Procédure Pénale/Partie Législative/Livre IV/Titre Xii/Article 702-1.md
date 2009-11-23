@@ -37,3 +37,14 @@ permettant de limiter la suspension du permis de conduire à la conduite en
 dehors de l'activité professionnelle sont applicables lorsque la demande de
 relèvement d'interdiction ou d'incapacité est relative à la peine de suspension
 du permis de conduire.
+
+Pour l'application du présent article, le tribunal correctionnel est composé
+d'un seul magistrat exerçant les pouvoirs du président. Il en est de même de la
+chambre des appels correctionnels ou de la chambre de l'instruction, qui est
+composée de son seul président, siégeant à juge unique. Ce magistrat peut
+toutefois, si la complexité du dossier le justifie, décider d'office ou à la
+demande du condamné ou du ministère public de renvoyer le jugement du dossier
+devant la formation collégiale de la juridiction. Le magistrat ayant ordonné ce
+renvoi fait alors partie de la composition de cette juridiction. La décision de
+renvoi constitue une mesure d'administration judiciaire qui n'est pas
+susceptible de recours.

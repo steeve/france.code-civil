@@ -19,9 +19,9 @@ l'exécution a été constatée par le procureur de la République ;
 
 4° D'une décision d'irresponsabilité pénale pour cause de trouble mental ;
 
-5° D'une mise en examen assortie d'un placement sous contrôle judiciaire,
-lorsque le juge d'instruction a ordonné l'inscription de la décision dans le
-fichier ;
+5° D'une mise en examen assortie d'un placement sous contrôle judiciaire ou sous
+assignation à résidence avec surveillance électronique, lorsque le juge
+d'instruction a ordonné l'inscription de la décision dans le fichier ;
 
 6° D'une décision de même nature que celles visées ci-dessus prononcées par les
 juridictions ou autorités judiciaires étrangères qui, en application d'une

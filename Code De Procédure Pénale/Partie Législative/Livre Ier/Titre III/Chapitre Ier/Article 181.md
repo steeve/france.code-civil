@@ -14,13 +14,14 @@ dispositions de l'article 132-78 du code pénal.
 Lorsqu'elle est devenue définitive, l'ordonnance de mise en accusation couvre,
 s'il en existe, les vices de la procédure.
 
-Le contrôle judiciaire dont fait l'objet l'accusé continue à produire ses
-effets.
+Le contrôle judiciaire ou l'assignation à résidence avec surveillance
+électronique dont fait l'objet l'accusé continuent à produire leurs effets.
 
-La détention provisoire ou le contrôle judiciaire des personnes renvoyées pour
-délit connexe prend fin, sauf s'il est fait application des dispositions du
-troisième alinéa de l'article 179. Le délai prévu par le quatrième alinéa de
-l'article 179 est alors porté à six mois.
+La détention provisoire, l'assignation à résidence avec surveillance
+électronique ou le contrôle judiciaire des personnes renvoyées pour délit
+connexe prend fin, sauf s'il est fait application des dispositions du troisième
+alinéa de l'article 179. Le délai prévu par le quatrième alinéa de l'article 179
+est alors porté à six mois.
 
 Si l'accusé est placé en détention provisoire, le mandat de dépôt décerné contre
 lui conserve sa force exécutoire et l'intéressé reste détenu jusqu'à son

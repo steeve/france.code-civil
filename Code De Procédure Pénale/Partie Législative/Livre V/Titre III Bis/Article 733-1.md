@@ -5,3 +5,6 @@ ou sur réquisitions du procureur de la République, ordonner par décision moti
 de substituer au travail d'intérêt général une peine de jours-amende. Cette
 décision est prise à l'issue d'un débat contradictoire, conformément aux
 dispositions de l'article 712-6.
+
+Cette décision peut également intervenir à la suite de l'exécution partielle du
+travail d'intérêt général.

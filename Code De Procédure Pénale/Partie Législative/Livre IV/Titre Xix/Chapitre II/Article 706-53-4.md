@@ -21,4 +21,5 @@ de l'état de récidive.
 Les mentions prévues aux 1°, 2° et 5° de l'article 706-53-2 sont retirées du
 fichier en cas de décision définitive de non-lieu, de relaxe ou d'acquittement.
 Celles prévues au 5° sont également retirées en cas de cessation ou de mainlevée
-du contrôle judiciaire.
+du contrôle judiciaire ou de l'assignation à résidence avec surveillance
+électronique.

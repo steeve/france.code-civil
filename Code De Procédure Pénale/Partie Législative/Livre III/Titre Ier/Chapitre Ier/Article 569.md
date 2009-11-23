@@ -7,7 +7,8 @@ et à moins que la cour d'appel ne confirme le mandat décerné par le tribunal 
 application de l'article 464-1 ou de l'article 465, premier alinéa, ou ne
 décerne elle-même mandat sous les mêmes conditions et selon les mêmes règles.
 
-Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement,
+Le contrôle judiciaire et l'assignation à résidence avec surveillance
+électronique prennent fin, sauf si la cour d'appel en décide autrement,
 lorsqu'elle prononce une condamnation à l'emprisonnement sans sursis ou assorti
 du sursis avec mise à l'épreuve. Lorsqu'un cautionnement a été fourni, les
 dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième

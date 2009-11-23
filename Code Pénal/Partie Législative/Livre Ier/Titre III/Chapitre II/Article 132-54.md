@@ -2,13 +2,15 @@ Article 132-54
 ----
 La juridiction peut, dans les conditions et selon les modalités prévues aux
 articles 132-40 et 132-41, prévoir que le condamné accomplira, pour une durée de
-quarante à deux cent dix heures, un travail d'intérêt général au profit d'une
-personne morale de droit public ou d'une association habilitée à mettre en
-oeuvre des travaux d'intérêt général.
+vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au
+profit soit d'une personne morale de droit public, soit d'une personne morale de
+droit privé chargée d'une mission de service public ou d'une association
+habilitées à mettre en œuvre des travaux d'intérêt général.
 
-La juridiction peut décider que les obligations imposées au condamné perdureront
-au-delà de l'accomplissement du travail d'intérêt général, dans un délai qui ne
-peut excéder douze mois (1).
+La juridiction peut en outre soumettre le condamné à tout ou partie des
+obligations prévues à l'article 132-45 pour une durée qui ne peut excéder
+dix-huit mois. L'exécution du travail d'intérêt général avant la fin de ce délai
+ne met pas fin à ces obligations.
 
 Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général ne
 peut être ordonné lorsque le prévenu le refuse ou n'est pas présent à

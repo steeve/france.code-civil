@@ -3,7 +3,9 @@ Article 775-1
 Le tribunal qui prononce une condamnation peut exclure expressément sa mention
 au bulletin n° 2 soit dans le jugement de condamnation, soit par jugement rendu
 postérieurement sur la requête du condamné instruite et jugée selon les règles
-de compétence et procédure fixées par les articles 702-1 et 703.
+de compétence et procédure fixées par les articles 702-1 et 703. Les
+juridictions compétentes sont alors composées conformément aux dispositions du
+dernier alinéa de l'article 702-1.
 
 L'exclusion de la mention d'une condamnation au bulletin n° 2 emporte relèvement
 de toutes les interdictions, déchéances ou incapacités de quelque nature

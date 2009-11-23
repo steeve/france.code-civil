@@ -2,10 +2,10 @@ Article 712-19
 ----
 En cas d'inobservation des obligations qui incombent au condamné faisant l'objet
 d'un sursis avec mise à l'épreuve, d'un sursis avec obligation d'accomplir un
-travail d'intérêt général, d'un suivi socio-judiciaire, d'une suspension ou d'un
-fractionnement de peine ou d'une libération conditionnelle, le juge de
-l'application des peines peut ordonner, après avis du procureur de la
-République, l'incarcération provisoire du condamné.
+travail d'intérêt général, d'un suivi socio-judiciaire, d'une surveillance
+judiciaire, d'une suspension ou d'un fractionnement de peine ou d'une libération
+conditionnelle, le juge de l'application des peines peut ordonner, après avis du
+procureur de la République, l'incarcération provisoire du condamné.
 
 L'ordonnance d'incarcération provisoire peut être prise par le juge
 d'application des peines du lieu où se trouve le condamné.

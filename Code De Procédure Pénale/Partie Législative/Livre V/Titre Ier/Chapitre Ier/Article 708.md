@@ -4,7 +4,7 @@ L'exécution de la ou des peines prononcées à la requête du ministère public
 lieu lorsque la décision est devenue définitive.
 
 Toutefois, le délai d'appel accordé au procureur général par les articles 505 et
-548 ne fait point obstacle à l'exécution de la peine.
+548 ne fait point obstacle à l'exécution de la peine, quelle que soit sa nature.
 
 L'exécution d'une peine de police ou d'une peine correctionnelle non privative
 de liberté peut être suspendue ou fractionnée pour motifs graves d'ordre

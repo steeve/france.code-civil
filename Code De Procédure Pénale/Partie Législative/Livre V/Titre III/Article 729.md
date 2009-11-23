@@ -1,14 +1,24 @@
 Article 729
 ----
 La libération conditionnelle tend à la réinsertion des condamnés et à la
-prévention de la récidive. Les condamnés ayant à subir une ou plusieurs peines
-privatives de liberté peuvent bénéficier d'une libération conditionnelle s'ils
-manifestent des efforts sérieux de réadaptation sociale, notamment lorsqu'ils
-justifient soit de l'exercice d'une activité professionnelle, soit de
-l'assiduité à un enseignement ou à une formation professionnelle ou encore d'un
-stage ou d'un emploi temporaire en vue de leur insertion sociale, soit de leur
-participation essentielle à la vie de famille, soit de la nécessité de subir un
-traitement, soit de leurs efforts en vue d'indemniser leurs victimes.
+prévention de la récidive.
+
+Les condamnés ayant à subir une ou plusieurs peines privatives de liberté
+peuvent bénéficier d'une libération conditionnelle s'ils manifestent des efforts
+sérieux de réadaptation sociale et lorsqu'ils justifient :
+
+1° Soit de l'exercice d'une activité professionnelle, d'un stage ou d'un emploi
+temporaire ou de leur assiduité à un enseignement ou à une formation
+professionnelle ;
+
+2° Soit de leur participation essentielle à la vie de leur famille ;
+
+3° Soit de la nécessité de suivre un traitement médical ;
+
+4° Soit de leurs efforts en vue d'indemniser leurs victimes ;
+
+5° Soit de leur implication dans tout autre projet sérieux d'insertion ou de
+réinsertion.
 
 Sous réserve des dispositions de l'article 132-23 du code pénal, la libération
 conditionnelle peut être accordée lorsque la durée de la peine accomplie par le
@@ -36,3 +46,12 @@ application de l'article 731-1. La personne condamnée à la réclusion criminel
 Conseil constitutionnel n° 2008-562 DC du 21 février 2008] de la commission
 pluridisciplinaire des mesures de sûreté dans les conditions prévues par le
 deuxième alinéa de l'article 706-53-14.
+
+Lorsque le condamné est âgé de plus de soixante-dix ans, les durées de peines
+accomplies prévues par le présent article ne sont pas applicables et la
+libération conditionnelle peut être accordée dès lors que l'insertion ou la
+réinsertion du condamné est assurée, en particulier s'il fait l'objet d'une
+prise en charge adaptée à sa situation à sa sortie de l'établissement
+pénitentiaire ou s'il justifie d'un hébergement, sauf en cas de risque grave de
+renouvellement de l'infraction ou si cette libération est susceptible de causer
+un trouble grave à l'ordre public.

@@ -6,7 +6,8 @@ charges suffisantes contre la personne mise en examen, elle déclare qu'il n'y a
 lieu à suivre.
 
 Les personnes mises en examen qui sont provisoirement détenues sont remises en
-liberté. L'arrêt met fin au contrôle judiciaire.
+liberté. L'arrêt met fin au contrôle judiciaire ou à une assignation à résidence
+avec surveillance électronique.
 
 La chambre de l'instruction statue par le même arrêt sur la restitution des
 objets placés sous main de justice. Elle peut refuser la restitution lorsque
