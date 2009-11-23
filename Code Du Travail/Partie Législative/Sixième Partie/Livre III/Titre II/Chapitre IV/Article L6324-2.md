@@ -18,4 +18,8 @@ d'ancienneté ;
 4° A la femme qui reprend une activité professionnelle après un congé de
 maternité ou à l'homme et à la femme après un congé parental ;
 
-5° Aux bénéficiaires de l'obligation d'emploi mentionnés à l'article L. 5212-13.
+5° Aux bénéficiaires de l'obligation d'emploi mentionnés à l'article L. 5212-13
+;
+
+6° Aux salariés bénéficiaires d'un contrat conclu en application de l'article L.
+5134-19-1.
