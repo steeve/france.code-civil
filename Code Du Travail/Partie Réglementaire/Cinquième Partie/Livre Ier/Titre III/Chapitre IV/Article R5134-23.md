@@ -1,5 +1,13 @@
 Article R5134-23
 ----
-Des traitements automatisés de données à caractère personnel sont mis en œuvre
-pour assurer la gestion, le contrôle et le suivi comptable et statistique des
-contrats d'accompagnement dans l'emploi.
+Les données à caractère personnel ne peuvent être conservées au-delà de la
+période nécessaire à la conduite des opérations prévues à l'article R. 5134-18
+et au maximum un an après la date d'achèvement de la convention individuelle.
+
+Toutefois, en cas de contentieux relatif à une convention individuelle, les
+données correspondantes sont conservées jusqu'à une décision de justice devenue
+définitive.
+
+L'enregistrement, l'utilisation, la conservation et la transmission de ces
+données sont réalisés selon des modalités propres à garantir leur
+confidentialité.

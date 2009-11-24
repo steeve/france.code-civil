@@ -1,5 +1,7 @@
 Article R5134-43
 ----
-La commission de pilotage prévue à l'article R. 5134-87 est tenue informée de
-cette délégation par le président du conseil général, le maire ou le président
-de l'établissement public de coopération intercommunale.
+Lorsque, en application du cinquième alinéa de l'article L. 5134-19-4, le
+département majore les taux de l'aide à l'employeur mentionnés à l'article R.
+5134-42, le coût induit par cette majoration est à la charge du département.
+Cette contribution du département s'ajoute au montant de sa participation telle
+que définie à l'article D. 5134-41.

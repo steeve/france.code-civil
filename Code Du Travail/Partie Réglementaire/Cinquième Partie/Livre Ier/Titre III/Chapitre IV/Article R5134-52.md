@@ -1,9 +1,6 @@
 Article R5134-52
 ----
-En cas de non-respect des dispositions de la convention individuelle par
-l'employeur, l'autorité ou le délégataire signataire de la convention informe au
-préalable l'employeur de son intention de dénoncer la convention. Celui-ci
-dispose d'un délai de sept jours pour faire connaître ses observations. En cas
-de dénonciation de la convention, l'autorité ou le délégataire signataire
-informe l'Agence de services et de paiement ainsi que l'organisme de
-recouvrement des cotisations et contributions sociales compétent.
+L'employeur qui sollicite la conclusion d'une nouvelle convention individuelle
+communique à l'autorité appelée à signer cette convention, sur sa demande, les
+éléments nécessaires à l'établissement du bilan mentionné à l'article L.
+5134-66-1.

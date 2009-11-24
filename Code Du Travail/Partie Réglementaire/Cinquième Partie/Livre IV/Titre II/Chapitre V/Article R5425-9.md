@@ -1,6 +1,9 @@
 Article R5425-9
 ----
-Pendant la durée du contrat d'avenir ou du contrat insertion-revenu minimum
-d'activité, le salarié bénéficiaire de l'allocation de solidarité spécifique
-continue à bénéficier de celle-ci dans les conditions spécifiques prévues par la
-présente sous-section.
+Par dérogation aux dispositions de la sous-section 1, le bénéficiaire du contrat
+d'insertion par l'activité mentionné à l'article L. 522-8 du code de l'action
+sociale et des familles peut cumuler la rémunération perçue au titre de ce
+contrat avec le versement de l'allocation temporaire d'attente et de
+l'allocation de solidarité spécifique pendant toute la durée de ce contrat. Le
+nombre des allocations journalières est réduit à proportion de 60 % du quotient,
+par le montant journalier de l'allocation, de la rémunération brute perçue.

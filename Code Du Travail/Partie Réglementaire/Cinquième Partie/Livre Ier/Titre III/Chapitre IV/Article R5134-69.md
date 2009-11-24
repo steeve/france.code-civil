@@ -1,17 +1,19 @@
 Article R5134-69
 ----
-Pour l'application des dispositions des articles R. 5425-2 à R. 5425-7 du
-présent code, R. 262-8 du code de l'action sociale et des familles et R. 524-3
-et R. 821-4 du code de la sécurité sociale, l'Agence de services et de paiement
-transmet aux organisations mentionnées à l'article L. 5427-1 du présent code et
-à l'article L. 262-30 du code de l'action sociale et des familles :
+Les aides perçues au titre de la convention individuelle ne font pas l'objet
+d'un reversement et l'employeur conserve le bénéfice des aides correspondant au
+nombre de jours travaillés par le salarié dont le contrat initiative-emploi est
+un contrat à durée indéterminée, dans les cas suivants :
 
-1° Les informations suivantes relatives aux personnes titulaires du contrat
-d'avenir et nécessaires à la détermination, au traitement et à la liquidation de
-leurs droits relatifs à l'allocation : a) Le nom et l'adresse des intéressés ;
-b) Leur numéro d'inscription au répertoire national d'identification des
-personnes physiques ; c) La date d'effet du contrat et sa date d'arrivée à terme
-; d) Le montant du revenu correspondant ;
+1° Licenciement pour faute grave du salarié ;
 
-2° Les informations relatives à tout changement de situation du salarié ayant
-pour effet une modification du montant de l'aide à l'employeur.
+2° Licenciement pour force majeure ;
+
+3° Licenciement pour inaptitude médicalement constatée ;
+
+4° Licenciement pour motif économique notifié dans le cadre d'une procédure de
+redressement ou de liquidation judiciaire ;
+
+5° Rupture du contrat au cours de la période d'essai ;
+
+6° Rupture conventionnelle intervenue dans le cadre de l'article L. 1237-11.

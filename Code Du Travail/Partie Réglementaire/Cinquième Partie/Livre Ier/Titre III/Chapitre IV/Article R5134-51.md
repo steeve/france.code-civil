@@ -1,4 +1,4 @@
 Article R5134-51
 ----
-Un arrêté du ministre chargé de l'emploi fixe le modèle de convention
-individuelle.
+La convention individuelle initiale est conclue préalablement à la conclusion du
+contrat de travail mentionné à l'article L. 5134-69.

@@ -1,7 +1,6 @@
 Article R5134-42
 ----
-La délégation de la mise en œuvre du contrat d'avenir prévue à l'article R.
-5134-41 donne lieu à une convention qui porte notamment sur : 1° La nature des
-compétences déléguées ; 2° Les objectifs qualitatifs et quantitatifs des
-conventions de contrats d'avenir ; 3° Les modalités de contrôle et de suivi de
-ces conventions.
+Les taux de prise en charge déterminant le montant de l'aide financière
+mentionné à l'article L. 5134-30-1 sont fixés par un arrêté du préfet de région,
+en fonction des critères énumérés à l'article L. 5134-30 et compte tenu, le cas
+échéant, des statistiques publiques de l'emploi dans la région.

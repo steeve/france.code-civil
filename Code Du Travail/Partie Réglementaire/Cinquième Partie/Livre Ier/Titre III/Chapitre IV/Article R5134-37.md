@@ -1,9 +1,11 @@
 Article R5134-37
 ----
-En cas de rupture du contrat d'accompagnement dans l'emploi à l'initiative de
-l'employeur avant la fin de la convention dans un cas autre que ceux mentionnés
-à l'article R. 5134-34, l'employeur verse le montant des cotisations et
-contributions sociales patronales dont il a été exonéré en application de
-l'article L. 5134-31. Ces cotisations et contributions sont versées au plus tard
-à la première date d'exigibilité des cotisations et contributions sociales qui
-suit la date d'effet de la rupture du contrat de travail.
+L'autorité signataire de la convention individuelle désigne en son sein ou
+auprès d'un organisme chargé de l'accompagnement ou de l'insertion, en le
+mentionnant dans la convention initiale, un référent chargé d'assurer le suivi
+du parcours d'insertion professionnelle du salarié en contrat d'accompagnement
+dans l'emploi.
+
+Dans le cas où ce salarié est bénéficiaire du revenu de solidarité active, le
+référent peut être le même que celui désigné en application de l'article L.
+262-27 du code de l'action sociale et des familles.

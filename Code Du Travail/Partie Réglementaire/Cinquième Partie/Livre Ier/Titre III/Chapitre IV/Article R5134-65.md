@@ -1,5 +1,6 @@
 Article R5134-65
 ----
-Des traitements automatisés de données à caractère personnel sont mis en œuvre
-pour assurer la gestion, le contrôle et le suivi comptable et statistique des
-contrats d'avenir.
+Les taux de prise en charge déterminant le montant de l'aide financière
+mentionné à l'article L. 5134-72-1 sont fixés par un arrêté du préfet de région,
+en fonction des critères énumérés à l'article L. 5134-72 et compte tenu, le cas
+échéant, des statistiques publiques de l'emploi dans la région.

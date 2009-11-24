@@ -1,11 +1,10 @@
 Article R5134-68
 ----
-L'Agence de services et de paiement est chargée de la saisie informatique des
-données portées dans les conventions individuelles.
+En cas de rupture du contrat de travail à l'initiative de l'employeur avant la
+fin de la convention individuelle, celle-ci est résiliée de plein droit.
 
-Les délégations régionales de l'Agence de services et de paiement utilisent les
-données pour :
-
-1° Le calcul et le paiement des aides attribuées à l'employeur au titre du
-contrat d'avenir en application des dispositions de l'article L. 5134-51 ; 2°
-L'élaboration de données statistiques et financières anonymes.
+Sous réserve des cas mentionnés aux articles R. 5134-69 et R. 5134-70,
+l'employeur reverse alors à l'Agence de services et de paiement ou, le cas
+échéant, au département ou à l'organisme désigné par lui dans le cadre de
+l'article R. 5134-63 l'intégralité des sommes déjà perçues au titre de la
+convention individuelle.

@@ -1,13 +1,5 @@
 Article R5134-24
 ----
-L'Agence de services et de paiement est chargée de la saisie informatique des
-données portées dans les conventions des contrats d'accompagnement dans
-l'emploi.
-
-Les délégations régionales de l'Agence de services et de paiement utilisent ces
-données pour :
-
-1° Le contrôle et le suivi des conventions ainsi que le calcul et le paiement de
-l'aide attribuée à l'employeur ;
-
-2° L'élaboration de données statistiques et financières anonymes.
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+s'exercent auprès de l'Agence de services et de paiement.

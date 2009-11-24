@@ -1,12 +1,11 @@
 Article R5134-28
 ----
-Le bénéficiaire du contrat d'accompagnement dans l'emploi peut exercer le droit
-d'accès prévu par l'article 39 de la loi n° 78-17 du 6 janvier 1978 modifiée
-relative à l'informatique, aux fichiers et aux libertés auprès de l'agence
-locale pour l'emploi, de la direction départementale du travail, de l'emploi et
-de la formation professionnelle, de la délégation régionale de l'Agence de
-services et de paiement et des services statistiques du ministre chargé de
-l'emploi.
+L'employeur informe, dans un délai franc de sept jours, de toute suspension ou
+rupture du contrat de travail qui interviendrait avant la fin de la convention :
 
-Lorsqu'une rectification est opérée, l'organisme qui y procède la notifie à
-l'organisme qui a délivré l'information ou en a été rendu destinataire.
+1° L'autorité signataire de la convention individuelle ;
+
+2° Le ou les organismes chargés du versement des aides.
+
+Un arrêté du ministre chargé de l'emploi fixe le modèle de fiche de signalement,
+par l'employeur, des suspensions ou ruptures du contrat de travail.

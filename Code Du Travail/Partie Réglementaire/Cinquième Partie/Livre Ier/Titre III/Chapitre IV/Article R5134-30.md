@@ -1,7 +1,7 @@
 Article R5134-30
 ----
-Le montant de l'aide est fixé annuellement par un arrêté du préfet de région et
-tient compte, notamment : 1° De la qualité des actions d'accompagnement et de
-formation professionnelle ; 2° Du statut des employeurs ; 3° Du secteur
-d'activité ; 4° De la situation des bassins d'emploi ; 5° Des difficultés
-d'accès à l'emploi des bénéficiaires.
+En cas de modification de la situation juridique de l'employeur au sens de
+l'article L. 1224-1, le nouvel employeur est substitué dans les droits de
+l'employeur en ce qui concerne le contrat de travail. Le nouvel employeur est
+également substitué dans les droits de l'employeur initial en ce qui concerne la
+convention individuelle, sous réserve de l'accord de l'autorité signataire.

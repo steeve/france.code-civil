@@ -1,9 +1,17 @@
 Article R5134-20
 ----
-En cas de non-respect des dispositions de la convention par l'employeur, le
-délégataire de l'Etat signataire de la convention informe celui-ci de son
-intention de dénoncer la convention. L'employeur dispose d'un délai de sept
-jours pour faire connaître ses observations. En cas de dénonciation de la
-convention, l'employeur est tenu aux reversements prévus à l'article R. 5134-34.
-Le délégataire de l'Etat signataire de la convention informe l'organisme de
-recouvrement des cotisations sociales de la dénonciation de la convention.
+Pour les nécessités liées à la seule finalité mentionnée au 3° de l'article R.
+5134-18 les agents des organismes mentionnés à l'article L. 262-16 du code de
+l'action sociale et des familles désignés et habilités par l'autorité
+responsable de ces organismes sont destinataires des données du traitement
+relatives aux personnes bénéficiaires du revenu de solidarité active financé par
+le département et portant sur :
+
+1° Le nom et l'adresse des intéressés ;
+
+2° Leur numéro d'inscription au répertoire national d'identification des
+personnes physiques ;
+
+3° Leur numéro d'allocataire ;
+
+4° La date de leur embauche.

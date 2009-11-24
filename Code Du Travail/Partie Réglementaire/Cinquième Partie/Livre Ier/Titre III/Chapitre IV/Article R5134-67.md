@@ -1,9 +1,9 @@
 Article R5134-67
 ----
-En vue de la préparation et de la conclusion des conventions de contrat
-d'avenir, l'Agence de services et de paiement transmet à l'autorité signataire
-ou au délégataire, à sa demande, les informations nominatives relatives aux
-bénéficiaires :
+Lorsque le contrat initiative-emploi est suspendu sans que soit maintenue la
+rémunération du salarié, l'aide afférente à la période de suspension n'est pas
+versée.
 
-1° Le nom et l'adresse des intéressés ; 2° Leur date de naissance ; 3° La nature
-de l'allocation perçue.
+Lorsque, au cours de la période de suspension, la rémunération est maintenue en
+totalité ou partiellement, l'aide afférente à la période de suspension est
+versée au prorata de la rémunération effectivement versée par l'employeur.

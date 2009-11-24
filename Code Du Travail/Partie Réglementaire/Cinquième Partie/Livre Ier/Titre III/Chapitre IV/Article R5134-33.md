@@ -1,6 +1,8 @@
 Article R5134-33
 ----
-En cas de rupture du contrat de travail à l'initiative de l'employeur avant la
-fin de la convention, celle-ci est résiliée de plein droit et l'employeur
-reverse à l'Agence de services et de paiement l'intégralité des sommes déjà
-perçues au titre de l'article R. 5134-29.
+La durée maximale de vingt-quatre mois de la convention individuelle peut, pour
+les personnes mentionnées au premier alinéa de l'article L. 5134-23-1, être
+portée, par avenants successifs d'un an au plus, à soixante mois.
+
+La condition d'âge mentionnée au premier alinéa des articles L. 5134-23-1 et L.
+5134-25-1 s'apprécie à l'échéance de la durée maximale de la convention.

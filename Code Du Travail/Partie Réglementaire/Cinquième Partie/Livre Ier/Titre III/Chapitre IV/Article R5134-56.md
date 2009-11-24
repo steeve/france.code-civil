@@ -1,5 +1,12 @@
 Article R5134-56
 ----
-La mission de référent peut être confiée à une personne physique ou un organisme
-chargé du placement ou de l'insertion, notamment à une maison de l'emploi ou à
-l'un des organismes mentionnés aux articles L. 5311-2 et L. 5311-4.
+En application de l'article L. 5134-67-2, l'employeur qui souhaite prolonger une
+convention individuelle au titre du contrat initiative-emploi adresse à
+l'autorité signataire de la convention initiale une demande préalable.
+
+Cette demande motivée est accompagnée d'un bilan des actions réalisées en
+matière d'accompagnement et de formation, notamment des actions d'aide à la
+prise de poste, de remise à niveau, d'acquisition de nouvelles compétences et de
+formation qualifiante.L'employeur joint également à sa demande un document
+répertoriant les actions d'accompagnement et de formation qu'il envisage de
+mettre en œuvre pendant la période de prolongation.

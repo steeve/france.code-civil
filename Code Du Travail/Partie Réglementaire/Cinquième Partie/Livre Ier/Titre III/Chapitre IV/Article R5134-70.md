@@ -1,9 +1,15 @@
 Article R5134-70
 ----
-Les directions départementales du travail, de l'emploi et de la formation
-professionnelle et, à leur demande, les services des collectivités
-territoriales, des établissements publics de coopération intercommunale, des
-agences locales pour l'emploi et des délégataires mentionnés à l'article R.
-5134-41 sont seuls destinataires des données à caractère personnel relatives aux
-contrats d'avenir contenues dans les conventions, à l'exception du numéro
-d'inscription au répertoire national d'identification des personnes physiques.
+Les aides perçues au titre de la convention individuelle ne font pas l'objet
+d'un reversement, et l'employeur conserve le bénéfice des aides correspondant au
+nombre de jours travaillés par le salarié dont le contrat initiative-emploi est
+un c ontrat à durée déterminée, dans les cas suivants :
+
+1° Rupture anticipée résultant de la volonté claire et non équivoque des parties
+;
+
+2° Rupture anticipée pour faute grave ;
+
+3° Rupture anticipée pour force majeure ;
+
+4° Rupture anticipée au cours de la période d'essai.

@@ -1,8 +1,13 @@
 Article R5134-63
 ----
-En cas de suspension ou de rupture du contrat d'avenir, le versement des aides
-de la période est interrompu à compter de la date d'effet de la suspension ou de
-la rupture. Les sommes indûment perçues sont reversées. Toutefois, lorsque la
-rémunération est maintenue en totalité ou partiellement dans les cas de
-suspension mentionnés au 5° de l'article R. 5134-61, les aides correspondantes à
-la période continuent à être versées.
+L'aide mentionnée à l'article L. 5134-72 est versée mensuellement :
+
+1° Par l'Agence de services et de paiement pour le compte de l'Etat ;
+
+2° Par le département ou par tout organisme qu'il mandate à cet effet, lorsque
+la convention individuelle de contrat initiative-emploi est conclue avec un
+bénéficiaire du revenu de solidarité active financé par le département.
+
+L'employeur communique aux organismes mentionnés au 1° ou au 2°, tous les trois
+mois à compter de la date d'embauche, les justificatifs attestant de
+l'effectivité de l'activité du salarié.
