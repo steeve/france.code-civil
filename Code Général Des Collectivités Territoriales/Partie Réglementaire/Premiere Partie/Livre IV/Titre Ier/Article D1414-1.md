@@ -54,3 +54,11 @@ imprimée de ce bulletin de l'interruption temporaire de sa parution.
 
 La personne publique doit être en mesure de faire la preuve de la date d'envoi
 des avis.
+
+VI.-Pour rendre applicables les dispositions du premier alinéa de l'article L.
+551-15 du code de justice administrative, la personne publique publie au Journal
+officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement
+précité, relatif à son intention de conclure un contrat d'un montant inférieur
+au seuil défini au II du présent article, et respecte un délai d'au moins onze
+jours entre la date de publication de cet avis et la date de conclusion du
+contrat.

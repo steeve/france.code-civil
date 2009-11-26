@@ -1,12 +1,10 @@
 Article R551-1
 ----
-Le président du tribunal administratif ou le magistrat qu'il délègue statue dans
-un délai de vingt jours sur les demandes qui lui sont présentées en vertu des
-articles L. 551-1 et L. 551-2.
+Le représentant de l'Etat ou l'auteur du recours est tenu de notifier son
+recours au pouvoir adjudicateur.
 
-L'injonction de différer la signature du contrat, si elle a été prononcée à
-titre conservatoire en application des dispositions du troisième alinéa de
-l'article L. 551-1 et du troisième alinéa de l'article L. 551-2, prend fin à la
-date à laquelle le président du tribunal administratif ou le magistrat qu'il
-délègue se prononce sur la demande ou, au plus tard, à l'expiration de ce délai
-de vingt jours.
+Cette notification doit être faite en même temps que le dépôt du recours et
+selon les mêmes modalités.
+
+Elle est réputée accomplie à la date de sa réception par le pouvoir
+adjudicateur.
