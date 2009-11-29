@@ -6,8 +6,8 @@ prévues du II au VI.
 
 II. ― Pour son application aux communes de la Polynésie française, l'article D.
 1612-1 est ainsi rédigé : " Le haut-commissaire de la République communique aux
-maires le taux prévisionnel d'évolution de la dotation globale de
-fonctionnement. ”
+maires le montant de chacune des dotations versées dans le cadre de la dotation
+globale de fonctionnement. ”
 
 III. ― Pour son application aux communes de la Polynésie française, l'article D.
 1612-2 est ainsi rédigé : " Le haut-commissaire de la République communique aux
