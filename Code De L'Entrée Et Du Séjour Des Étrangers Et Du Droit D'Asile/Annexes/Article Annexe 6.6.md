@@ -29,4 +29,6 @@ sur le territoire et au maintien en zone d'attente ;
 
 11° La demande d'admission au titre de l'asile présentée à la frontière et la
 décision prise à l'égard de cette demande par le ministre chargé de
-l'immigration.
+l'immigration ;
+
+12° Numéro MZA (maintien en zone d'attente).
