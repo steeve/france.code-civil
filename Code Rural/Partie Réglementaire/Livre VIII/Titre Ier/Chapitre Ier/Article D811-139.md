@@ -3,6 +3,12 @@ Article D811-139
 I. - Le brevet de technicien supérieur agricole est un diplôme national de
 l'enseignement supérieur qui atteste d'une qualification professionnelle.
 
+Les formations préparant au brevet de technicien supérieur agricole sont des
+formations de l'enseignement supérieur qui s'inscrivent au sein des études
+conduisant au grade de licence, dans le cadre de l'architecture européenne des
+études définie par l'article D. 123-13 du code de l'éducation et fondée
+principalement sur les trois grades de licence, master et doctorat.
+
 Ses titulaires sont aptes à exercer les emplois de technicien supérieur dans les
 professions de la production agricole, des industries agro-alimentaires, de
 l'aménagement de l'espace et de la gestion de l'environnement, des activités

@@ -10,6 +10,20 @@ Coefficient =
 (0,26/0,6) x (1,6 x SMIC x nombre d'heures rémunérées/rémunération mensuelle
 brute - 1)
 
+Pour les employeurs de un à dix-neuf salariés mentionnés au quatrième alinéa du
+III de l'article L. 241-13, le coefficient fixé au premier alinéa est déterminé
+par application de la formule suivante :
+
+Pour l'application du quatrième alinéa du III de l'article L. 241-13, l'effectif
+de l'entreprise est apprécié au 31 décembre, tous établissements confondus, en
+fonction de la moyenne, au cours de l'année civile, des effectifs déterminés
+chaque mois conformément aux dispositions des articles L. 620-10 et L. 620-11 du
+code du travail.
+
+Cet effectif détermine la formule applicable pour le calcul des cotisations dues
+au titre des gains et rémunérations versés à compter du 1er janvier de l'année
+suivante et pour la durée de celle-ci.
+
 Pour ce calcul :
 
 1. Le SMIC est le taux horaire du salaire minimum de croissance prévu par
@@ -29,9 +43,11 @@ de travail que le salarié aurait effectuée s'il avait continué à travailler 
 le pourcentage de la rémunération demeuré à la charge de l'employeur et soumis à
 cotisations.
 
-5. Le résultat obtenu par application de cette formule est arrondi à trois
-décimales, au millième le plus proche. S'il est supérieur à 0,260, il est pris
-en compte pour une valeur égale à 0,260.
+5. Le résultat obtenu par application de l'une ou l'autre de ces formules est
+arrondi à trois décimales, au millième le plus proche. Pour les entreprises de
+un à dix-neuf salariés, il est pris en compte pour une valeur égale à 0,281 s'il
+est supérieur à 0,281. Pour les entreprises de plus de dix-neuf salariés, il est
+pris en compte pour une valeur égale à 0,260 s'il est supérieur à 0,260.
 
 II. - Pour les salariés d'une entreprise de travail temporaire mis à disposition
 au cours d'un mois civil auprès de plusieurs entreprises utilisatrices, le

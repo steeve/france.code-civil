@@ -27,5 +27,5 @@ locataire du logement ;
 4° La justification qu'il bénéficie d'une assurance maladie ;
 
 5° Les pièces exigées aux articles R. 313-6, R. 313-7, R. 313-8 (2°), R. 313-11,
-R. 313-14 et R. 313-16, selon le motif invoqué de son séjour en France et la
+R. 313-14 et R. 313-16-1, selon le motif invoqué de son séjour en France et la
 catégorie de carte de séjour temporaire qu'il sollicite.

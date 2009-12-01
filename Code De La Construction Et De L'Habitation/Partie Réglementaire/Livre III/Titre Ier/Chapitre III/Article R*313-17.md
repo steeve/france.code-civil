@@ -14,14 +14,14 @@ par l'article 691 II du code général des impôts ;
 
 c) D'aménagement de logements locatifs pour des handicapés physiques ;
 
-d) De construction de centres d'hébergement occupés plus de huit mois par an et
-destinés à des salariés ou des stagiaires tenus, pour des raisons
-professionnelles ou de formation, de se loger hors de leur résidence principale,
-sous réserve que cet investissement ait bénéficié au préalable d'un agrément du
-ministre chargé du logement ;
+d) de construction ou d'acquisition, suivie le cas échéant de travaux, de
+structures d'hébergement destinées en tout ou partie à des salariés ou des
+stagiaires rencontrant des difficultés particulières pour se loger, ou tenus,
+pour des raisons professionnelles ou de formation, de se loger hors de leur
+résidence principale ;
 
 e) De construction ou d'acquisition de logements-foyers mentionnés au 5° de
-l'article L. 351-2 du présent code.
+l'article L. 351-2 du présent code ;
 
 f) D'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur
 transformation ou aménagement en logements.
@@ -39,9 +39,7 @@ d'accession à la propriété ;
 
 c) Soit sur autorisation du préfet, en complément de prêts dont le taux
 d'intérêt est inférieur aux taux maximaux prévus aux articles R. 331-74 et R.
-331-75 et sous réserve que ces opérations respectent le prix de vente maximal
-ou, le cas échéant, le prix de revient maximal défini en application de
-l'article R. 331-68 ;
+331-75 ;
 
 d) Soit en contrepartie de l'engagement des propriétaires de louer des logements
 de catégorie intermédiaire pendant une durée minimale de neuf ans, en
@@ -73,6 +71,11 @@ fixés dans la convention prévue au 4° de l'article L. 351-2, soit à respecte
 les plafonds de loyer et de ressources des locataires prévus au III du présent
 article. Dans ce dernier cas, ces plafonds sont expressément mentionnés dans le
 contrat de réservation prévu par l'article L. 313-26.
+
+La participation des employeurs peut être investie dans le financement de
+l'acquisition et de la construction des résidences hôtelières à vocation sociale
+mentionnées à l'article L. 631-11, ainsi que dans le financement des travaux
+visant à la transformation en résidence d'un immeuble existant.
 
 III. - Pour l'application du présent article, les plafonds ou quotités de
 financement ainsi que les plafonds de loyer et de ressources des locataires sont

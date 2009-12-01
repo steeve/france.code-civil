@@ -1,19 +1,25 @@
 Article D531-23
 ----
-I. - Pour l'application de l'article L. 531-6, le complément de libre choix du
-mode de garde est versé au ménage ou à la personne qui, pour assurer la garde
-d'un enfant, recourt à une association ou à une entreprise répondant aux
-conditions définies :
+I. - Pour l'application des quatre premiers alinéas de l'article L. 531-6, le
+complément de libre choix du mode de garde est versé au ménage ou à la personne
+qui, pour assurer la garde d'un enfant, recourt à une association ou à une
+entreprise répondant aux conditions définies :
 
 1° A l'article L. 129-1 du code du travail en cas de garde à domicile ;
 
 2° A l'article L. 2324-1 du code de la santé publique en cas de garde par une
 assistante maternelle.
 
-L'association ou l'entreprise ne doit pas percevoir, pour le même service au
-titre de son fonctionnement, de prestation financée par le Fonds national
-d'action sanitaire et sociale de la Caisse nationale des allocations familiales
-en application de l'article R. 263-1.
+Pour l'application du dernier alinéa de l'article L. 531-6, le complément de
+libre choix du mode de garde est versé au ménage ou à la personne qui, pour
+assurer la garde d'un enfant, recourt à un établissement d'accueil de jeunes
+enfants autorisé à accueillir simultanément le nombre d'enfants mentionné à
+l'article R. 2324-47 du code de la santé publique.
+
+Dans tous les cas, l'association, l'entreprise ou l'établissement ne doit pas
+percevoir, pour le même service au titre de son fonctionnement, de prestation
+financée par le Fonds national d'action sanitaire et sociale de la Caisse
+nationale des allocations familiales en application de l'article R. 263-1.
 
 II. - Le complément versé en application du présent article ne peut excéder 85 %
 de la dépense engagée par la personne ou le ménage.
@@ -36,7 +42,8 @@ les ressources de la personne ou du ménage sont supérieures au plafond de
 l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
 majoration pour double activité.
 
-2° En cas de garde à domicile, le montant mensuel maximal de l'aide est égal à :
+2° En cas de garde à domicile, ou par un établissement d'accueil de jeunes
+enfants mentionnés au I le montant mensuel maximal de l'aide est égal à :
 
 a) 208,53 % de la base mensuelle de calcul des allocations familiales lorsque
 les ressources de la personne ou du ménage sont au plus égales à 45 % du plafond
@@ -54,7 +61,8 @@ l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
 majoration pour double activité.
 
 Le complément est versé par enfant en cas de garde par une assistante maternelle
-et par famille en cas de garde au domicile des parents.
+ou par un établissement d'accueil de jeunes enfants et par famille en cas de
+garde au domicile des parents.
 
 IV. - Pour la garde d'un enfant répondant à la condition d'âge mentionnée au IV
 de l'article L. 531-5, les montants mentionnés au III sont divisés par deux.
@@ -62,10 +70,10 @@ de l'article L. 531-5, les montants mentionnés au III sont divisés par deux.
 V. - Le complément n'est pas dû si l'enfant n'est pas gardé au minimum seize
 heures dans le mois au titre duquel le complément est demandé.
 
-VI. - Lorsqu'au cours d'un même mois, un ou plusieurs enfants sont gardés par
-une assistante maternelle et à domicile dans les conditions mentionnées au I, il
-est fait masse, pour le calcul de l'aide, des dépenses engagées pour l'un et
-l'autre mode de garde. Le montant maximal de l'aide est la somme des plafonds
+VI. - Lorsqu'au cours d'un même mois un ou plusieurs enfants sont gardés selon
+plus d'un même mode de garde dans les conditions mentionnées au I et au IX, il
+est fait masse, pour le calcul de l'aide, de l'ensemble des dépenses engagées
+pour ces modes de garde. Le montant maximal de l'aide est la somme des plafonds
 maximaux applicables à chaque enfant en fonction de son âge, mentionnés au 1° du
 III et au IV.
 

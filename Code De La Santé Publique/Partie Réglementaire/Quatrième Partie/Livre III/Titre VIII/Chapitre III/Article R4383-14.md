@@ -39,9 +39,12 @@ soit attesté par une autorité compétente de cet Etat.
 
 Si la formation suivie par le demandeur porte sur des matières théoriques ou
 pratiques substantiellement différentes de celles couvertes par le diplôme
-professionnel d'auxiliaire de puériculture, le préfet de région peut exiger que
-celui-ci choisisse soit d'accomplir un stage d'adaptation d'une durée d'un an
-maximum, soit de subir une épreuve d'aptitude portant sur les matières sur
-lesquelles sa formation a été jugée insuffisante. Dans ce cas, l'attestation
-d'aptitude aux fonctions d'auxiliaire de puériculture ne lui est délivrée
-qu'après validation du stage d'adaptation ou réussite à l'épreuve d'aptitude.
+professionnel d'auxiliaire de puériculture, après avoir vérifié que les
+connaissances acquises au cours de son expérience professionnelle ne sont pas de
+nature à couvrir, en tout ou en partie, les différences substantielles ainsi
+relevées, le préfet de région peut exiger que celui-ci choisisse soit
+d'accomplir un stage d'adaptation d'une durée d'un an maximum, soit de subir une
+épreuve d'aptitude portant sur les matières sur lesquelles sa formation a été
+jugée insuffisante. Dans ce cas, l'attestation d'aptitude aux fonctions
+d'auxiliaire de puériculture ne lui est délivrée qu'après validation du stage
+d'adaptation ou réussite à l'épreuve d'aptitude.
