@@ -7,6 +7,11 @@ d'un droit réel. Les immeubles ou ensembles immobiliers locatifs sont classés 
 catégories distinctes en fonction du service rendu aux locataires. Les
 logements-foyers constituent une catégorie autonome.
 
+Si l'organisme fait usage de la faculté de dérogation mentionnée au sixième
+alinéa de l'article L. 445-2, le classement peut résulter de la classification
+du patrimoine en fonction du financement principal d'origine et du
+conventionnement éventuel.
+
 Chaque immeuble ou ensemble immobilier locatif est identifié au moins par son
 adresse, le nombre de logements qu'il comporte, la nature du financement
 principal dont il a bénéficié et la mention, s'il y a lieu, de sa situation en

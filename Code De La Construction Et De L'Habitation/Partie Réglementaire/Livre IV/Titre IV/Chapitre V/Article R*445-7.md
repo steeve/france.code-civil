@@ -1,24 +1,22 @@
 Article R*445-7
 ----
-Le cahier des charges de gestion sociale prévoit, pour chaque immeuble ou
-ensemble immobilier classé dans la meilleure catégorie de service rendu et
-destiné à des ménages dont les ressources n'excèdent pas les plafonds prévus au
-premier alinéa de l'article R. 331-12, un pourcentage minimal de logements
-devant être occupés par des ménages dont les ressources n'excèdent pas 60 % de
-ces mêmes plafonds, qui ne peut être inférieur à 30 %.
+Si, au cours de la durée de la convention, le préfet signataire de la convention
+constate que les objectifs d'occupation sociale prévus au F.I des indicateurs "
+Droit au logement " ne sont pas respectés dans un segment de patrimoine, il
+demande à l'organisme de lui faire, dans le délai d'un mois, des propositions
+tendant à la réalisation des objectifs de la convention, de telle sorte,
+notamment, que deux tiers des logements attribués dans ces immeubles
+postérieurement à cette notification le soient à des ménages dont les ressources
+n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de
+l'article R. 331-12 jusqu'à ce que l'organisme établisse que les objectifs sont
+à nouveau respectés.
 
-La vérification de l'engagement d'occupation sociale est effectuée tous les
-trois ans au vu des résultats de l'enquête prévue à l'article L. 442-5. Les
-organismes d'habitations à loyer modéré transmettent à cet effet au préfet du
-département de situation des immeubles, pour chaque immeuble ou ensemble
-immobilier classé dans la meilleure catégorie de service rendu, les pourcentages
-des ménages, parmi l'ensemble des locataires et parmi les locataires ayant
-emménagé depuis moins de trois ans, dont les ressources déclarées à l'enquête
-n'excèdent pas, d'une part, les plafonds prévus au premier alinéa de l'article
-R. 331-12, d'autre part, 60 % de ces mêmes plafonds. Si le préfet constate que
-cet engagement n'est pas rempli dans un immeuble ou un ensemble immobilier, il
-notifie à l'organisme que deux tiers des logements attribués dans ces immeubles
-postérieurement à cette notification devront l'être à des ménages dont les
-ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier
-alinéa de l'article R. 331-12 jusqu'à ce que l'organisme établisse que
-l'engagement est à nouveau respecté.
+L'indicateur D.I est accompagné d'une prévision du nombre de logements vendus
+par segment de patrimoine, par an et en cumulé sur les six ans. Les logements
+mis en commercialisation par l'organisme, pour lesquels il apparaîtrait que les
+efforts de commercialisation ont été insuffisants, ne sont pas pris dans le
+décompte des logements. Si, au cours de la durée de la convention, le préfet
+signataire de la convention constate que le nombre de logements vendus est
+significativement inférieur à la prévision, il demande à l'organisme de lui
+faire, dans le délai d'un mois, des propositions tendant à la révision de son
+plan de mise en vente.

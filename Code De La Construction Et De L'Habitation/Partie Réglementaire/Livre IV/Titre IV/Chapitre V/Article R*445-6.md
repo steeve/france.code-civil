@@ -8,3 +8,6 @@ ainsi que les moyens d'accompagnement prévus par l'organisme pour la mise en
 oeuvre de ces engagements. En l'absence de tels engagements, le cahier des
 charges de gestion sociale peut fixer des engagements de même nature pour la
 durée de la convention.
+
+Le cahier des charges de gestion sociale dresse la liste des conventions ou
+arrêtés relatifs aux droits à réservation du préfet prévus à l'article R. 441-5.
