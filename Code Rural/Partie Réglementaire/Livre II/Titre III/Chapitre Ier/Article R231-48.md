@@ -8,5 +8,5 @@ modalités techniques du reparcage ainsi que les conditions d'établissement d'u
 liste nationale des zones de reparcage classées.
 
 Le classement de chaque zone de reparcage est prononcé par arrêté du préfet, sur
-proposition du directeur départemental des affaires maritimes et après avis de
-la section régionale de la conchyliculture concernée.
+proposition du directeur départemental des territoires et de la mer et après
+avis de la section régionale de la conchyliculture concernée.
