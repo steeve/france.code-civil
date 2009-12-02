@@ -2,7 +2,7 @@ Article R231-45
 ----
 La collecte des coquillages juvéniles dans une zone D en vue du transfert peut
 être exceptionnellement autorisée par le préfet sur proposition du directeur
-départemental des affaires maritimes.
+départemental des territoires et de la mer.
 
 Un arrêté du ministre chargé des pêches maritimes et des cultures marines fixe
 la liste des espèces et les tailles maximales des coquillages juvéniles

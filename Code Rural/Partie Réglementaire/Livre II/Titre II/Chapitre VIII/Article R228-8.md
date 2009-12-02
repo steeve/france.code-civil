@@ -23,10 +23,12 @@ a) Procéder à une transaction à titre gratuit ou onéreux d'un animal suspect
 contaminé de rage ;
 
 b) Transporter ou faire transporter un animal suspect ou contaminé de rage sans
-autorisation du directeur départemental des services vétérinaires ;
+autorisation du directeur départemental chargé de la protection des populations
+;
 
 c) Abattre ou faire abattre un animal suspect ou contaminé de rage sans
-autorisation du directeur départemental des services vétérinaires ;
+autorisation du directeur départemental chargé de la protection des populations
+;
 
 3° Le fait pour toute personne de faire abattre un herbivore ou un porcin en vue
 de la consommation, hors du délai prévu au deuxième alinéa de l'article R.
@@ -37,14 +39,15 @@ au sens de l'article R. 223-25, de :
 
 a) Ne pas soumettre son animal à chacune des trois visites sanitaires prévues à
 l'article R. 223-35 pendant la période de surveillance sans autorisation du
-directeur départemental des services vétérinaires ;
+directeur départemental chargé de la protection des populations ;
 
 b) Se dessaisir de son animal pendant la période de surveillance, sans
-autorisation du directeur départemental des services vétérinaires ;
+autorisation du directeur départemental chargé de la protection des populations
+;
 
 c) Vacciner, faire vacciner, abattre ou fait abattre son animal pendant la
-période de surveillance sans autorisation du directeur départemental des
-services vétérinaires ;
+période de surveillance sans autorisation du directeur départemental chargé de
+la protection des populations ;
 
 5° Dans les départements officiellement déclarés infectés de rage, le fait pour
 tout gestionnaire d'une fourrière de ne pas abattre ou faire abattre un chien ou

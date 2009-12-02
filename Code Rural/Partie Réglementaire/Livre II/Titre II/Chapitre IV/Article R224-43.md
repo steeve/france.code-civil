@@ -3,7 +3,7 @@ Article R224-43
 Tout propriétaire d'un animal soumis à l'obligation de la marque est tenu de le
 faire abattre dans des conditions d'isolement et de transport définies par
 arrêté du ministre chargé de l'agriculture et dans les délais qui lui sont
-notifiés par le directeur départemental des services vétérinaires.
+notifiés par le directeur départemental chargé de la protection des populations.
 
 Les animaux soumis à l'obligation de la marque ne doivent quitter l'exploitation
 de leur propriétaire qu'à destination directe d'un établissement chargé du
@@ -17,5 +17,5 @@ propriétaire.
 
 Il est interdit à tout propriétaire ou personne ayant la garde d'un animal
 soumis à l'obligation de la marque de lui faire quitter son exploitation sans
-être accompagné d'un laissez-passer délivré par le directeur départemental des
-services vétérinaires.
+être accompagné d'un laissez-passer délivré par le directeur départemental
+chargé de la protection des populations.

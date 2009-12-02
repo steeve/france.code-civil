@@ -33,9 +33,9 @@ au premier alinéa du présent article ;
 
 - de tenir à jour ses connaissances nécessaires à l'exercice du mandat ;
 
-- de rendre compte au directeur départemental des services vétérinaires de
-l'exécution des missions et des difficultés éventuellement rencontrées à cette
-occasion.
+- de rendre compte au directeur départemental chargé de la protection des
+populations de l'exécution des missions et des difficultés éventuellement
+rencontrées à cette occasion.
 
 II. - Le mandat sanitaire est attribué pour l'ensemble du département dans
 lequel le vétérinaire a établi son domicile professionnel administratif tel que

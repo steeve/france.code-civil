@@ -5,5 +5,5 @@ pratiquées par les laboratoires agréés à cet effet par le ministre chargé d
 l'agriculture.
 
 Les résultats sont communiqués par le directeur du laboratoire agréé au
-directeur départemental des services vétérinaires du département où se trouvent
-les animaux.
+directeur départemental chargé de la protection des populations du département
+où se trouvent les animaux.

@@ -19,6 +19,7 @@ II. - Les frais mis à la charge du propriétaire ou du gardien de l'animal
 comprennent les dépenses relatives à la capture de l'animal, à son transport, à
 son séjour et à sa garde dans le lieu de dépôt mentionné au I ci-dessus.
 
-III. - Le responsable du lieu de dépôt propose au directeur départemental des
-services vétérinaires un ou plusieurs vétérinaires en vue de leur mandatement
-pour exercer la mission définie au troisième alinéa de l'article L. 211-11.
+III. - Le responsable du lieu de dépôt propose au directeur départemental chargé
+de la protection des populations un ou plusieurs vétérinaires en vue de leur
+mandatement pour exercer la mission définie au troisième alinéa de l'article L.
+211-11.

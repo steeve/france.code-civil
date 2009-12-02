@@ -9,7 +9,7 @@ des sommes perçues depuis moins de cinq ans au titre de ces indemnités ou
 participations ; ce remboursement ne peut toutefois être prescrit que par le
 préfet, après avis d'une commission siégeant sous la présidence de son
 représentant et comprenant, en outre, une personnalité désignée par la chambre
-départementale d'agriculture et le directeur départemental des services
-vétérinaires. Le directeur départemental de l'agriculture et de la forêt
-participe avec voix consultative aux délibérations de cette commission, dans la
-mesure où ses services sont intéressés.
+départementale d'agriculture et le directeur départemental chargé de la
+protection des populations. Le directeur départemental des territoires participe
+avec voix consultative aux délibérations de cette commission, dans la mesure où
+ses services sont intéressés.

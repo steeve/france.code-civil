@@ -15,8 +15,9 @@ représentant ;
 l'exploitant de cet établissement, lequel doit s'assurer que le numéro national
 d'identification de l'animal, son sexe et son type racial correspondent aux
 mentions portées sur le passeport ou le document d'accompagnement et le
-transmettre, en signalant les différences éventuelles, au directeur des services
-vétérinaires du département dans lequel l'établissement est situé ;
+transmettre, en signalant les différences éventuelles, au directeur
+départemental chargé de la protection des populations du département dans lequel
+l'établissement est situé ;
 
-3° En cas d'exportation vers un pays tiers, au directeur des services
-vétérinaires qui délivre le certificat sanitaire.
+3° En cas d'exportation vers un pays tiers, au directeur départemental chargé de
+la protection des populations qui délivre le certificat sanitaire.

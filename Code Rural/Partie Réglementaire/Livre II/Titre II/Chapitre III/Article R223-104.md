@@ -1,12 +1,12 @@
 Article R223-104
 ----
 Dès que l'existence de la peste équine est confirmée, le préfet prend, en
-application de l'article L. 223-8, après avis du directeur départemental des
-services vétérinaires, un arrêté portant déclaration d'infection.
+application de l'article L. 223-8, après avis du directeur départemental chargé
+de la protection des populations, un arrêté portant déclaration d'infection.
 
 Sans préjudice de l'application des mesures fixées à l'article R. 223-101, cet
-arrêté prévoit la mise en oeuvre, sous contrôle du directeur départemental des
-services vétérinaires, des dispositions suivantes :
+arrêté prévoit la mise en oeuvre, sous contrôle du directeur départemental
+chargé de la protection des populations, des dispositions suivantes :
 
 1° Dans l'exploitation hébergeant le ou les équidé(s)
 

@@ -14,4 +14,4 @@ autorisée par arrêté préfectoral ne peuvent faire l'objet d'aucune transacti
 titre gratuit ou onéreux, aussi longtemps qu'ils sont soumis aux mesures de
 surveillance prescrites au deuxième alinéa de l'article L. 223-9. Ils ne peuvent
 être transportés ni abattus pendant cette période sans autorisation du directeur
-départemental des services vétérinaires.
+départemental chargé de la protection des populations.

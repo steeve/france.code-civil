@@ -42,9 +42,9 @@ publique ou de protection de la santé animale.
 
 Dans ce cas, lors de la présentation à l'abattoir, le détenteur des animaux
 informe le représentant des services vétérinaires de l'abattoir ou le directeur
-départemental des services vétérinaires, le cas échéant par une mention portée
-sur le certificat vétérinaire d'information, de ce que les conditions prévues au
-I ne sont pas remplies.
+départemental chargé de la protection des populations, le cas échéant par une
+mention portée sur le certificat vétérinaire d'information, de ce que les
+conditions prévues au I ne sont pas remplies.
 
 Les denrées issues de ces animaux sont consignées dans l'attente des résultats
 des contrôles. Les denrées contenant une quantité de résidus excédant les

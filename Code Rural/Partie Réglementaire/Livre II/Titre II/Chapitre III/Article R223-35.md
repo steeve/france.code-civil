@@ -16,5 +16,5 @@ biologiste appartenant au cadre actif du service de santé des armées.
 Il est interdit, pendant cette période de surveillance, au propriétaire ou au
 détenteur de l'animal de s'en dessaisir, de le vacciner ou de le faire vacciner
 contre la rage, de l'abattre ou de le faire abattre sans autorisation du
-directeur départemental des services vétérinaires selon les modalités prévues
-par arrêté du ministre chargé de l'agriculture.
+directeur départemental chargé de la protection des populations selon les
+modalités prévues par arrêté du ministre chargé de l'agriculture.

@@ -9,12 +9,12 @@ Cette commission est ainsi composée :
 1. L'inspecteur général de la santé publique vétérinaire chargé d'inspection
 interrégionale territorialement compétent ou son représentant, président ;
 
-2. Le directeur départemental des services vétérinaires ;
+2. Le directeur départemental chargé de la protection des populations ;
 
-3. Le directeur départemental des services vétérinaires d'un département
-limitrophe à l'un de ceux dans lequel le vétérinaire sanitaire intéressé dispose
-d'un mandat sanitaire mais dans lequel il ne détient pas de mandat, désigné par
-le préfet en accord avec le préfet de ce département ;
+3. Le directeur départemental chargé de la protection des populations d'un
+département limitrophe à l'un de ceux dans lequel le vétérinaire sanitaire
+intéressé dispose d'un mandat sanitaire mais dans lequel il ne détient pas de
+mandat, désigné par le préfet en accord avec le préfet de ce département ;
 
 4. Trois vétérinaires titulaires d'un mandat sanitaire dans le département,
 désignés respectivement par le président du conseil régional de l'ordre des
@@ -28,8 +28,8 @@ six ans.
 La commission peut valablement siéger dès lors que la moitié de ses membres sont
 présents.
 
-Le directeur départemental des services vétérinaires du département rapporte
-l'affaire.
+Le directeur départemental chargé de la protection des populations du
+département rapporte l'affaire.
 
 La commission peut entendre toute personne dont l'audition lui paraît
 nécessaire.

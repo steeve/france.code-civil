@@ -2,8 +2,8 @@ Article R223-83
 ----
 Les prélèvements et analyses sont effectués conformément aux prescriptions d'un
 arrêté du ministre chargé de l'agriculture et les résultats communiqués au
-directeur départemental des services vétérinaires du département où se trouve
-l'animal, au vétérinaire sanitaire et au propriétaire intéressé.
+directeur départemental chargé de la protection des populations du département
+où se trouve l'animal, au vétérinaire sanitaire et au propriétaire intéressé.
 
 De même, toute personne ayant procédé à des examens ou analyses permettant de
 soupçonner ou d'établir l'existence de l'infection brucellique sur un animal
