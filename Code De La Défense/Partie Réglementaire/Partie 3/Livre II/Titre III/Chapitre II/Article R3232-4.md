@@ -1,7 +1,8 @@
 Article R3232-4
 ----
-Les services du commissariat de l'armée de terre et de la marine et le service
-de l'administration générale et des finances de l'armée de l'air sont
-responsables de la vérification des comptes des formations administratives. Des
-commissaires sont désignés pour assurer cette responsabilité qu'ils exercent
-pour le compte du ministre.
+Dans le respect des orientations définies par le secrétaire général pour
+l'administration en matière de politique des achats du ministère, le service du
+commissariat des armées passe les marchés et contrats de toute nature
+nécessaires pour les matériels, équipements et prestations visés à l'article R.
+3232-2. Il passe également ceux qui ne relèvent pas de la compétence d'un autre
+service.

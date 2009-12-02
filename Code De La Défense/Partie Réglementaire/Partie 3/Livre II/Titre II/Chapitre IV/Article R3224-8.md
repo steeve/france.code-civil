@@ -5,9 +5,9 @@ L'armée de l'air comprend différents services :
 1° La structure intégrée du maintien en condition opérationnelle des matériels
 aéronautiques du ministère de la défense ;
 
-2° Le service de l'administration générale et des finances ;
+2° Le service industriel de l'aéronautique ;
 
-3° Le service industriel de l'aéronautique.
+3° (Supprimé).
 
 Les attributions des services mentionnés aux 1° et 2° ci-dessus sont fixées par
 décret.

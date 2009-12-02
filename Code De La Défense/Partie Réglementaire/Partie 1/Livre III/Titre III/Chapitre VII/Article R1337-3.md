@@ -10,6 +10,6 @@ l'agriculture de l'administration centrale du ravitaillement.
 
 Le ministre de la défense met à la disposition du ministre chargé de
 l'agriculture un commissaire général et un officier du service du commissariat
-de l'armée de terre. Ces officiers sont placés dans la position de service
-détaché. Le commissaire général a pour mission de seconder en matière de
-ravitaillement le haut fonctionnaire de défense.
+des armées. Ces officiers sont placés dans la position de service détaché. Le
+commissaire général a pour mission de seconder en matière de ravitaillement le
+haut fonctionnaire de défense.

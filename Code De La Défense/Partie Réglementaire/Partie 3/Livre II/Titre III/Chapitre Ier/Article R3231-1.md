@@ -4,6 +4,7 @@ Les services de soutien ont pour mission de satisfaire les besoins des armées e
 de la gendarmerie. Ils peuvent, de façon permanente ou temporaire, fournir des
 prestations à plusieurs armées.
 
-Ils peuvent, en outre, apporter leur concours à des personnes publiques et,
-lorsque des circonstances d'intérêt général le justifient, à des personnes
-privées.
+Ils peuvent, en outre, apporter leur concours à l'ensemble des organismes du
+ministère de la défense et être chargés, dans des conditions fixées par le
+ministre de la défense, d'assurer leurs missions au profit d'organismes
+extérieurs au ministère.

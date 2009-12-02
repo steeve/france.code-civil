@@ -1,7 +1,10 @@
 Article R3232-1
 ----
-Les services du commissariat de l'armée de terre et de la marine et le service
-de l'administration générale et des finances de l'armée de l'air sont les
-services d'administration générale de leur armée d'appartenance. Ils participent
-à leur soutien comme à celui de la gendarmerie nationale. Ils sont conseillers
-du commandement dans leur domaine de compétence.
+Le service du commissariat des armées relève du chef d'état-major des armées. Il
+est le service d'administration générale des armées et participe à leur soutien
+comme à celui de la gendarmerie nationale pour l'exercice de ses missions
+militaires. Dans ce cadre, il conseille le commandement.
+
+Il apporte, en outre, son concours à l'ensemble des organismes du ministère de
+la défense et peut être chargé, dans des conditions fixées par le ministre de la
+défense, d'assurer ses missions au profit d'organismes extérieurs au ministère.

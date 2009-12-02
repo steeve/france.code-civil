@@ -50,8 +50,7 @@ services ;
 III du livre Ier de la quatrième partie réglementaire ;
 
 16° Gestion et administration des officiers et des sous-officiers, sous réserve
-des compétences de la direction des ressources humaines de l'armée de terre et
-de la direction centrale du commissariat de l'armée de terre ;
+des compétences de la direction des ressources humaines de l'armée de terre ;
 
 17° Gestion et administration des militaires du rang engagés, sous réserve des
 compétences de la direction des ressources humaines de l'armée de terre ;
@@ -79,8 +78,7 @@ direction des ressources humaines du ministère de la défense ;
 humaines du ministère de la défense ;
 
 23° Gestion et administration du personnel de réserve, sous réserve des
-compétences de la direction des ressources humaines de l'armée de terre et de la
-direction centrale du commissariat de l'armée de terre ;
+compétences de la direction des ressources humaines de l'armée de terre ;
 
 24° Périodes militaires d'initiation ou de perfectionnement à la défense
 nationale, sous réserve des compétences de la direction des ressources humaines

@@ -1,6 +1,7 @@
 Article R3232-3
 ----
-Les services du commissariat de l'armée de terre et de la marine et le service
-de l'administration générale et des finances de l'armée de l'air passent les
-marchés et contrats de toute nature qui ne relèvent pas de la compétence d'un
-autre service.
+Le service du commissariat des armées participe à la conception et à la
+réalisation des équipements de combat.
+
+Il participe également à la conception des installations d'infrastructure
+dédiées aux équipements et matériels qu'il approvisionne.
