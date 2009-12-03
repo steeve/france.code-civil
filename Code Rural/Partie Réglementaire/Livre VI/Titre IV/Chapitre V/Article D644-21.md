@@ -7,7 +7,9 @@ d'origine contrôlée à laquelle les vins qui en sont issus peuvent prétendre.
 Cette présomption est écartée :
 
 ― si l'opérateur renonce à la production de cette appellation d'origine
-contrôlée selon les dispositions prévues dans le cahier des charges ;
+contrôlée selon les dispositions prévues dans le cahier des charges ou, en
+l'absence de telles dispositions, par déclaration faite auprès de l'organisme de
+défense et de gestion au plus tard le 31 juillet précédant la récolte ;
 
 ― ou si l'opérateur a déclaré préalablement l'affectation de cette parcelle en
 vue d'une autre production vitivinicole.
@@ -21,7 +23,9 @@ Cette présomption est écartée :
 
 ― pour l'appellation (ou les appellations) la plus restrictive si l'opérateur
 renonce à la production de cette appellation d'origine contrôlée selon les
-dispositions prévues dans le cahier des charges ;
+dispositions prévues dans le cahier des charges ou, en l'absence de telles
+dispositions, par déclaration faite auprès de l'organisme de défense et de
+gestion au plus tard le 31 juillet précédant la récolte ;
 
 ― si l'opérateur a déclaré préalablement l'affectation de cette parcelle en vue
 de la production d'une des appellations d'origine contrôlées susceptibles d'être

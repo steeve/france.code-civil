@@ -10,8 +10,10 @@ préalable d'affectation parcellaire et que, pour une même parcelle de vigne,
 plusieurs appellations d'origine contrôlées sont susceptibles d'être
 revendiquées, cette parcelle est présumée être conduite conformément au cahier
 des charges de l'appellation pour laquelle elle a été déclarée. Cette
-présomption est écartée si l'opérateur déclare renoncer à produire cette
-appellation selon les modalités fixées dans le cahier des charges de celle-ci.
+présomption est écartée si l'opérateur renonce à produire cette appellation
+selon les modalités fixées dans le cahier des charges de celle-ci ou, en
+l'absence de telles dispositions, par déclaration faite auprès de l'organisme de
+défense et de gestion au plus tard le 31 juillet précédant la récolte.
 
 III. ― Lorsqu'une parcelle a fait l'objet d'une déclaration préalable
 d'affectation parcellaire au titre d'une appellation d'origine contrôlée, elle
