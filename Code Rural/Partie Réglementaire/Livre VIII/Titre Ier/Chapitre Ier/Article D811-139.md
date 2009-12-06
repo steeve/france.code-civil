@@ -28,14 +28,25 @@ II. - Chaque option ou spécialité du brevet de technicien supérieur agricole 
 créée par arrêté du ministre de l'agriculture, après avis de la ou des
 commissions professionnelles consultatives compétentes.
 
-L'option ou la spécialité s'appuie sur un référentiel professionnel
-caractérisant les compétences générales, technologiques et professionnelles
-correspondant aux activités auxquelles prépare le diplôme.
+L'option ou la spécialité s'appuie sur un référentiel professionnel présentant
+le contexte du ou des emplois visés, la fiche descriptive d'activités et les
+situations professionnelles significatives.
 
-L'option ou la spécialité est définie par un référentiel du diplôme, organisé en
-domaines et modules. Ce référentiel énumère les capacités requises pour
+L'option ou la spécialité s'appuie également sur un référentiel de certification
+qui énumère les capacités générales, technologiques et professionnelles que les
+titulaires du diplôme doivent posséder et détermine les niveaux d'exigence
+requis pour l'obtention du diplôme. Le référentiel de certification est organisé
+en unités constituées d'un ensemble, cohérent au regard de la finalité du
+diplôme, de capacités, savoir-faire et savoirs.
+
+L'option ou la spécialité est définie par un référentiel de formation, organisé
+en domaines ou modules. Ce référentiel énumère les capacités requises pour
 l'obtention du diplôme, précise les savoirs, les savoir-faire qui doivent être
 acquis et indique les niveaux d'exigence requis pour l'obtention du diplôme.
+
+Un arrêté du ministre chargé de l'agriculture fixe les modalités selon
+lesquelles un ou plusieurs modules d'initiative locale sont mis en œuvre par
+chaque établissement.
 
 Les référentiels font l'objet d'annexes à l'arrêté cité au premier alinéa du
 présent paragraphe.
