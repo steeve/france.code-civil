@@ -20,9 +20,5 @@ reproduction ainsi que les chevaux de course mis à l'entrainement et les chevau
 de concours soumis à un entraînement en vue de la compétition, âgés de deux ans
 au moins au sens de la réglementation des courses.
 
-Lorsque l'exploitant est assujetti à la taxe sur la valeur ajoutée,
-l'application de cette disposition est subordonnée à la condition qu'il exerce
-le même choix pour l'établissement de cette taxe.
-
 Tous les autres animaux, y compris ceux nés dans l'exploitation, sont
 obligatoirement compris dans les stocks.
