@@ -3,8 +3,8 @@ Article L311-4
 Le Conseil d'Etat connaît, en premier et dernier ressort, des recours de pleine
 juridiction qui lui sont attribués en vertu :
 
-1° De l'article L. 310-18 du code des assurances contre les décisions de
-sanction prises par l'Autorité de contrôle des assurances et des mutuelles ;
+1° Du IV de l'article L. 612-16 du code monétaire et financier contre les
+décisions de sanction prises par l'Autorité de contrôle prudentiel ;
 
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre
 les décisions de sanction prises par le ministre chargé du logement ;
@@ -13,9 +13,7 @@ les décisions de sanction prises par le ministre chargé du logement ;
 électroniques contre les décisions de sanction prises par l'Autorité de
 régulation des communications électroniques et des postes ;
 
-4° De l'article L. 951-10 du code de la sécurité sociale et l'article L. 531-6
-du code de la mutualité contre les décisions de sanction prises par la
-commission de contrôle des institutions de retraite et de prévoyance ;
+4° (Supprimé) ;
 
 5° De l'article 42-8 de la loi n° 86-1067 du 30 septembre 1986 contre les
 décisions du Conseil supérieur de l'audiovisuel visées aux articles 42-1, 42-3
