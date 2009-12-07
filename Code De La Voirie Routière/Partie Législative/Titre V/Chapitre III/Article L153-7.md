@@ -1,14 +1,7 @@
 Article L153-7
 ----
-Les conditions de construction et d'exploitation du tunnel routier sous le
-Mont-Blanc font l'objet :
-
-1° De la convention signée à Paris, le 14 mars 1953, entre la République
-française et la République italienne, ratifiée par la loi n° 57-506 du 17 avril
-1957 ;
-
-2° De l'avenant à ladite convention en date du 25 mars 1965 ;
-
-3° De l'échange de lettres du 1er mars 1966 entre la France et l'Italie relatif
-à la constitution d'une commission franco-italienne de contrôle du tunnel sous
-le Mont-Blanc.
+Les conditions d'exploitation du tunnel routier sous le Mont-Blanc font l'objet
+de la convention relative au tunnel routier sous le Mont-Blanc signée à Lucques
+le 24 novembre 2006 entre le Gouvernement de la République française et le
+Gouvernement de la République italienne, dont l'approbation a été autorisée par
+la loi n° 2008-575 du 19 juin 2008.

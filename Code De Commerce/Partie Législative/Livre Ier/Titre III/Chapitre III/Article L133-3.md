@@ -4,8 +4,7 @@ La réception des objets transportés éteint toute action contre le voiturier p
 avarie ou perte partielle si dans les trois jours, non compris les jours fériés,
 qui suivent celui de cette réception, le destinataire n'a pas notifié au
 voiturier, par acte extrajudiciaire ou par lettre recommandée, sa protestation
-motivée. Ce délai de trois jours ne s'applique pas aux prestations de
-déménagement.
+motivée.
 
 Si dans le délai ci-dessus prévu il est formé une demande d'expertise en
 application de l'article L. 133-4, cette demande vaut protestation sans qu'il

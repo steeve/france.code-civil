@@ -32,4 +32,9 @@ par les véhicules à moteur ;
 
 8° A l'organisme chargé de la délivrance et de la gestion des cartes de
 conducteur associées au chronotachygraphe électronique utilisé pour le contrôle
-des transports routiers.
+des transports routiers ;
+
+9° A l'organisme chargé de la délivrance et de la gestion des cartes de
+qualification de conducteur destinées à prouver la qualification initiale et la
+formation continue des conducteurs de certains véhicules routiers affectés aux
+transports de marchandises ou de voyageurs.
