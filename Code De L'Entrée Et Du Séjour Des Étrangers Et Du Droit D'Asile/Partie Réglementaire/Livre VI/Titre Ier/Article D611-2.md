@@ -2,8 +2,9 @@ Article D611-2
 ----
 Les fichiers nominatifs compris dans le système informatisé de gestion des
 dossiers des ressortissants étrangers en France sont le fichier national des
-dossiers des ressortissants étrangers en France et les fichiers départementaux
-des dossiers des ressortissants étrangers en France.
+dossiers des ressortissants étrangers en France, les fichiers départementaux des
+dossiers des ressortissants étrangers en France, le fichier de gestion des
+dossiers administratifs individuels et le fichier de traitement du courrier.
 
 Les catégories d'informations enregistrées sont les suivantes :
 

@@ -10,15 +10,12 @@ Les titres de séjour délivrés aux étrangers comportent :
 
 Au recto :
 
-La nature du titre, l'état civil (nom, le cas échéant nom d'épouse, prénoms,
-date et lieu de naissance), le sexe, la nationalité, la photographie du
-titulaire. Y figurent également l'indication de l'autorité qui délivre le
-document, le numéro de la carte, sa date d'expiration, sa validité territoriale,
-la signature du titulaire et celle de l'autorité qui délivre le titre.
+La nature du titre, l'état civil (nom, le cas échéant nom d'épouse, prénoms), la
+photographie du titulaire. Y figurent également l'indication et la signature de
+l'autorité qui délivre le document, le numéro du titre, les dates de début et de
+fin de validité, le motif du séjour et la validité territoriale.
 
 Au verso :
 
-La date d'entrée en France, l'activité professionnelle (dans les conditions
-prévues par la loi et les conventions internationales), l'adresse, la date de
-début de validité du titre et la reproduction du timbre fiscal complétée par
-l'indication de la valeur de ce timbre.
+La date et le lieu de naissance, la nationalité, le sexe, la date d'entrée en
+France, l'adresse et la signature du titulaire.
