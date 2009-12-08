@@ -7,3 +7,9 @@ désignation, l'adresse, le numéro d'identité tel que défini au premier alin�
 l'article R. 123-221 du code de commerce de la société versante, la nature et le
 montant du versement, l'échéance à laquelle il se rapporte ainsi que la base de
 calcul.
+
+Les versements effectués au titre du prélèvement mentionné au II ter de
+l'article 208 C du code général des impôts sont accompagnés d'un relevé établi
+dans les conditions prévues au premier alinéa. Le relevé détaille, en outre,
+l'identité et l'adresse des associés bénéficiaires des distributions soumises à
+ce prélèvement.
