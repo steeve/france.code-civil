@@ -1,5 +1,6 @@
 Article 911
 ----
-Le conseiller de la mise en état est compétent pour déclarer l'appel irrecevable
-et trancher à cette occasion toute question ayant trait à la recevabilité de
-l'appel.
+Sous les sanctions prévues aux articles 908 à 910, les conclusions sont
+notifiées aux avoués des parties dans le délai de leur remise au greffe de la
+cour ou sont signifiées dans le mois suivant l'expiration de ce délai à celles
+qui n'ont pas constitué avoué.

@@ -2,8 +2,11 @@ Article 954
 ----
 Les conclusions d'appel doivent formuler expressément les prétentions des
 parties et les moyens de fait et de droit sur lesquels chacune de ses
-prétentions est fondée. Elles comprennent en outre l'indication des pièces
-invoquées. A cet effet, un bordereau récapitulatif leur est annexé.
+prétentions est fondée avec indication pour chaque prétention des pièces
+invoquées. Un bordereau récapitulatif des pièces est annexé.
+
+Les prétentions sont récapitulées sous forme de dispositif. La cour ne statue
+que sur les prétentions énoncées au dispositif.
 
 Les parties doivent reprendre, dans leurs dernières écritures, les prétentions
 et moyens précédemment présentés ou invoqués dans leurs conclusions antérieures.
