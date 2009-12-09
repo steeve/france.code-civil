@@ -2,55 +2,95 @@ Article D211-55
 ----
 Le conseil d'administration comprend :
 
-1° Six membres de droit :
+1° Six représentants de l'Etat :
 
-a) Le directeur des sports et un autre représentant du ministre chargé des
+a) Le directeur des sports et deux autres représentants du ministre chargé des
 sports ;
 
-b) Le directeur régional de la jeunesse, des sports et de la cohésion sociale de
-Rhône-Alpes ;
+b) Les directeurs régionaux de la jeunesse, des sports et de la cohésion sociale
+de Rhône-Alpes et de Franche-Comté ;
 
-c) Le président de la Fédération française de ski ou son représentant ;
+c) Un représentant du ministre chargé de l'éducation ;
 
-d) Le président de la Fédération française de la montagne et de l'escalade ou
-son représentant ;
+2° Quatre représentants du mouvement sportif :
 
-e) Un représentant du ministre chargé de l'éducation ;
+a) Le président de la Fédération française de ski ;
 
-2° Six membres siégeant, en raison de leur compétence :
+b) Le président de la Fédération française de la montagne et de l'escalade ;
 
-a) Quatre personnalités désignées par le ministre chargé des sports, dont une
-représente les associations nationales agréées dont les membres pratiquent le
-ski et l'alpinisme en dehors de la compétition sportive ;
+c) Le président de la Fédération française des clubs alpins et de montagne ;
 
-b) Le directeur technique national de la Fédération française de ski ou son
-représentant ;
+d) Le président de l'Union nationale des centres sportifs de plein air ;
 
-c) Un alpiniste de haut niveau désigné par la Fédération française de 1a
-montagne et de l'escalade ;
+3° Deux représentants des professionnels des sports de montagne :
 
-3° Six membres élus par catégorie au scrutin majoritaire à un tour au sein de
-l'établissement :
+a) Le président de l'organisation professionnelle la plus représentative des
+moniteurs de ski ;
 
-a) Deux représentants du personnel enseignant ;
+b) Le président de l'organisation professionnelle la plus représentative des
+guides de haute montagne ;
 
-b) Deux représentants du personnel administratif ;
+4° Cinq représentants des collectivités territoriales :
 
-c) Un représentant des personnels ouvriers et des personnels techniques et de
-service ;
+a) Le président du conseil régional de Rhône-Alpes ;
 
-d) Un représentant des stagiaires de l'école.
+b) Le président du conseil régional de Franche-Comté ;
+
+c) Le président du conseil général de Haute-Savoie ;
+
+d) Le président du conseil général du Jura ;
+
+e) Le président de l'Association nationale des élus de la montagne ;
+
+5° Deux personnalités qualifiées désignées par le ministre chargé des sports ;
+
+6° Neuf membres élus selon les modalités fixées par arrêté du ministre chargé
+des sports :
+
+a) Un représentant du personnel enseignant de l'Ecole nationale de ski et
+d'alpinisme ;
+
+b) Un représentant du personnel enseignant du Centre national de ski nordique et
+de moyenne montagne ;
+
+c) Un représentant du personnel administratif de l'Ecole nationale de ski et
+d'alpinisme ;
+
+d) Un représentant du personnel administratif du Centre national de ski nordique
+et de moyenne montagne ;
+
+e) Un représentant des personnels ouvriers et des personnels techniques et de
+service de l'Ecole nationale de ski et d'alpinisme ;
+
+f) Un représentant des personnels ouvriers et des personnels techniques et de
+service du Centre national de ski nordique et de moyenne montagne ;
+
+g) Un représentant des personnels médicaux, de recherche et techniciens du sport
+de haut niveau ;
+
+h) Un représentant des stagiaires de l'école ;
+
+i) Un représentant des sportifs de haut niveau.
+
+Les membres mentionnés du 1° au 4° ci-dessus peuvent se faire représenter.
+
+Les membres mentionnés au 5° ci-dessus empêchés d'assister à tout ou partie
+d'une séance peuvent donner procuration à un autre membre du conseil. Un membre
+du conseil ne peut être porteur de plus d'une procuration.
+
+Les membres mentionnés au 6° ci-dessus peuvent se faire représenter par leur
+suppléant élu dans les mêmes conditions que le titulaire.
 
 Les représentants de l'Etat sont désignés par le ministre qu'ils représentent.
 
-Les membres mentionnés aux 1° et 3° peuvent être représentés par un suppléant
-désigné ou élu dans les mêmes conditions que le titulaire.
-
 Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires.
 
-Un arrêté du ministre chargé des sports fixe la composition nominative du
-conseil d'administration de l'établissement. Le directeur de l'école et l'agent
-comptable assistent avec voix consultative aux séances du conseil ainsi que
-toute personne dont il paraîtrait utile au président de recueillir l'avis. Le
-directeur peut se faire accompagner par toute personne de son choix appartenant
-à l'établissement.
+Un arrêté du ministre chargé des sports publié au Bulletin officiel du ministère
+chargé des sports constate la composition du conseil d'administration telle
+qu'elle résulte du présent article. Le directeur général, le directeur de
+l'Ecole nationale de ski et d'alpinisme, le directeur du Centre national de ski
+nordique et de moyenne montagne, l'agent comptable et l'autorité chargée du
+contrôle financier assistent avec voix consultative aux séances du conseil,
+ainsi que toute personne dont il paraîtrait utile au président de recueillir
+l'avis. Le directeur général peut se faire accompagner par toute personne de son
+choix appartenant à l'établissement.
