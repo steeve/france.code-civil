@@ -1,10 +1,10 @@
 Article L1872-1
 ----
 I.-L'article L. 1612-1, à l'exception de son dernier alinéa, les articles L.
-1612-2, à l'exception de son dernier alinéa, à L. 1612-11, l'article L. 1612-12,
-les articles L. 1612-13 à L. 1612-15, L. 1612-16 à L. 1612-19-1 et le I de
-l'article L. 1612-20 sont applicables aux communes de la Polynésie française
-sous réserve des adaptations prévues aux II à V.
+1612-2 à L. 1612-11, l'article L. 1612-12, les articles L. 1612-13 à L. 1612-15,
+L. 1612-16 à L. 1612-19-1 et le I de l'article L. 1612-20 sont applicables aux
+communes de la Polynésie française sous réserve des adaptations prévues aux II à
+V.
 
 II.-Ces articles entrent en vigueur dans les communes de Polynésie française
 dans les conditions prévues par le II de l'article 7 de l'ordonnance n°
