@@ -9,8 +9,8 @@ II.-Pour l'application de l'article L. 5211-7 :
 
 1° Au I, les mots : " et de l'article L. 5215-10 " sont supprimés ;
 
-2° Au II, les mots : " par les articles L. 44 à L. 46, L. 228 à L. 237 et L. 239
-du code électoral " sont remplacés par les mots : " en tant qu'elles sont
+2° Au II, les mots : " par les articles L. 44 à L. 46, L. 228 à L. 237-1 et L.
+239 du code électoral " sont remplacés par les mots : " en tant qu'elles sont
 applicables en Polynésie française ".
 
 III.-Pour l'application de l'article L. 5211-11, il est ajouté l'alinéa suivant
