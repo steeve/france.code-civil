@@ -22,12 +22,13 @@ langues et cultures régionales sont organisées dans les établissements.
 Des enseignements artistiques sont assurés à titre obligatoire ou facultatif
 dans les établissements mentionnés au présent article.
 
-Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du
-code du travail, les formations dispensées par l'enseignement général,
-technologique et professionnel et la formation professionnelle agricoles privés
-sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
-équivalents aux diplômes de même niveau de l'enseignement général, technologique
-et professionnel.
+Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L.
+6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L. 6313-1 à L. 6313-11, L. 6324-5 et
+L. 6325-2 du code du travail, les formations dispensées par l'enseignement
+général, technologique et professionnel et la formation professionnelle
+agricoles privés sont sanctionnées par des diplômes d'Etat ou des diplômes
+nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement
+général, technologique et professionnel.
 
 Chaque établissement privé d'enseignement et de formation professionnelle
 agricoles établit un projet d'établissement qui définit les modalités
@@ -40,14 +41,13 @@ l'article L. 214-1 du code de l'éducation, du contrat de plan régional de
 développement des formations professionnelles mentionné à l'article L. 214-13 du
 même code et des programmes et référentiels nationaux mentionnés à l'article L.
 811-2 du présent code. Il est défini en cohérence avec le projet régional de
-l'enseignement agricole mentionné à l'article L. 814-4 du présent code. Il
+l'enseignement agricole mentionné à l'article L. 814-5 du présent code. Il
 définit les modalités de la participation de l'établissement au développement
 des territoires dans lesquels celui-ci s'insère.
 
 Le projet d'établissement est élaboré sous la responsabilité du chef
 d'établissement. Il est adopté par le conseil d'administration de l'association
-ou organisme responsable de l'établissement dans les conditions prévues par
-l'article L. 421-5 du code de l'éducation pour une durée de trois à cinq ans.
+ou organisme responsable de l'établissement pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
 des conditions fixées par le ministre de l'agriculture.

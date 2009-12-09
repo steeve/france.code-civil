@@ -47,32 +47,13 @@ l'article L. 214-1 du code de l'éducation, du contrat de plan régional de
 développement des formations professionnelles mentionné à l'article L. 214-13 du
 même code et des programmes et référentiels nationaux mentionnés à l'article L.
 811-2 du présent code. Il est défini en cohérence avec le projet régional de
-l'enseignement agricole mentionné à l'article L. 814-4 du présent code. Il
+l'enseignement agricole mentionné à l'article L. 814-5 du présent code. Il
 définit les modalités de la participation de l'établissement au développement
 des territoires dans lesquels celui-ci s'insère.
 
 Le projet d'établissement est élaboré sous la responsabilité du chef
 d'établissement. Il est adopté par le conseil d'administration de
-l'établissement dans les conditions prévues par l'article L. 421-5 du code de
-l'éducation pour une durée de trois à cinq ans.
+l'établissement pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
 des conditions fixées par le ministre de l'agriculture.
-
-Les établissements d'enseignement et de formation professionnelle agricole
-relevant des communautés urbaines de Lille et de Dunkerque ainsi que du syndicat
-intercommunal de gestion du lycée d'enseignement professionnel et horticole de
-Raismes sont transformés en établissements publics locaux d'enseignement et de
-formation professionnelle agricole.
-
-Leur transfert à la région Nord - Pas-de-Calais n'intervient, sauf convention
-contraire entre la région et l'établissement public de coopération
-intercommunale concerné, qu'une fois qu'a été constaté le strict respect de
-l'ensemble des normes de sécurité s'appliquant aux bâtiments et aux équipements.
-
-Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des
-collectivités territoriales s'appliquent à ce transfert de compétence.
-
-La région prend en charge la rétribution des personnels ouvriers et de service
-qui exercent leur fonction dans les établissements transformés conformément aux
-dispositions du présent article.

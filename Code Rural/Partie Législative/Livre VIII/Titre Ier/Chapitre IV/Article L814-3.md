@@ -7,7 +7,7 @@ Il est consulté notamment sur les questions relatives aux missions des
 de l'agriculture et sur la politique proposée par les pouvoirs publics pour
 assurer la cohésion de ces formations. Les représentants des personnels et des
 étudiants sont élus. La composition, les attributions et les modalités de
-fonctionnement de ce conseil sont fixées par décret en Conseil d'Etat.
+fonctionnement de ce conseil sont fixées par décret.
 
 Il exerce notamment une partie des compétences dévolues au Conseil national de
 l'enseignement agricole.

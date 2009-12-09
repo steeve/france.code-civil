@@ -61,12 +61,13 @@ ministre de l'agriculture et le ministre chargé de l'éducation nationale, soit
 par le ministre chargé de l'éducation nationale. Ces formations sont organisées
 en cycles.
 
-Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du
-code du travail, les formations dispensées par l'enseignement général,
-technologique et professionnel et la formation professionnelle agricoles publics
-sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
-équivalents aux diplômes de même niveau de l'enseignement général, technologique
-et professionnel. "
+Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L.
+6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L. 6313-1 à L. 6313-11, L. 6324-5 et
+L. 6325-2 du code du travail, les formations dispensées par l'enseignement
+général, technologique et professionnel et la formation professionnelle
+agricoles publics sont sanctionnées par des diplômes d'Etat ou des diplômes
+nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement
+général, technologique et professionnel. "
 
 " Art.L. 813-1.-Les établissements d'enseignement et de formation
 professionnelle agricoles privés dont l'association ou l'organisme responsable a

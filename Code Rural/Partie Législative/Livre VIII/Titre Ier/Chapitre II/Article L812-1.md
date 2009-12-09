@@ -5,9 +5,8 @@ d'ingénieurs, de paysagistes, de cadres spécialisés, d'enseignants et de
 chercheurs ainsi que celle des vétérinaires. Il constitue une composante du
 service public de l'enseignement supérieur.
 
-Dans le cadre des principes énoncés par le titre Ier de la loi n° 84-52 du 26
-janvier 1984 sur l'enseignement supérieur, l'enseignement supérieur agricole
-public :
+Dans le cadre des règles définies au chapitre III du titre II du livre Ier du
+code de l'éducation, l'enseignement supérieur agricole public :
 
 1° Dispense des formations en matière de production agricole, forestière,
 aquacole et des produits de la mer, de transformation et de commercialisation de
@@ -51,8 +50,11 @@ scientifique, culturel et professionnel, des diplômes nationaux de troisième
 cycle.
 
 Après concertation avec toutes les parties concernées, les dispositions des
-titres II, III et IV de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement
-supérieur peuvent être rendues applicables par décret en Conseil d'Etat, en
+articles L. 611-1, L. 612-1 à L. 612-7, L. 613-1 à L. 613-5 du code de
+l'éducation, du premier alinéa de son article L. 614-3, celles du titre Ier du
+livre VII, à l'exception des articles L. 713-5 à L. 713-8 et celles des articles
+L. 811-5, L. 811-6, L. 951-1, L. 951-2, L. 952-1, L. 952-3, L. 952-6, L. 952-13
+et L. 953-1 à L. 953-4 peuvent être étendues par décret en Conseil d'Etat, en
 totalité ou en partie, avec, le cas échéant, les adaptations nécessaires, aux
 secteurs de formation et aux établissements d'enseignement supérieur qui
 relèvent de l'autorité ou du contrôle du ministre de l'agriculture, après accord

@@ -15,10 +15,8 @@ professionnel, éducatif et culturel, ou de gérer des équipements ou des servi
 d'intérêt commun.
 
 Ces activités doivent relever de la mission des membres du groupement. Les
-dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982
-d'orientation et de programmation pour la recherche et le développement
-technologique de la France sont applicables aux groupements prévus au présent
-article.
+dispositions des articles L. 341-1 à L. 341-4 du code de la recherche sont
+applicables aux groupements prévus au présent article.
 
 Les modalités d'application du présent article sont déterminées par décret en
 Conseil d'Etat.

@@ -4,28 +4,39 @@ La composition et les compétences des comités régionaux de l'enseignement
 agricole sont fixées par les dispositions de l'article L. 814-4 du code rural,
 ci-après reproduites :
 
-" Art.L. 814-4.-Dans chaque région siège un comité régional de l'enseignement
-agricole composé de représentants des mêmes catégories que celles visées à
-l'article L. 814-1 du présent code et dans les mêmes proportions. Ce comité est
-saisi pour avis du projet de schéma prévisionnel régional des formations qui
-doit comporter une section relative à l'enseignement agricole. Son avis est
-transmis, d'une part, au conseil régional et, d'autre part, au conseil institué
-dans chaque académie en application de l'article L. 234-1 du code de
-l'éducation, lequel est également compétent en matière d'enseignement agricole
-public et émet un avis sur le projet régional de schéma prévisionnel des
-formations de l'enseignement agricole et sur les demandes d'ouverture des
-établissements privés.
+" Art.L. 814-4.-Le Conseil national de l'enseignement supérieur et de la
+recherche agricole, agroalimentaire et vétérinaire statue en appel et en dernier
+ressort sur les décisions prises par les instances disciplinaires des
+établissements d'enseignement supérieur relevant du ministre chargé de
+l'agriculture compétentes à l'égard des enseignants-chercheurs, enseignants et
+usagers de ces établissements.
 
-Le comité régional de l'enseignement agricole est consulté sur le projet de plan
-régional de développement des formations professionnelles des jeunes prévu par
-l'article L. 214-13 du code de l'éducation et sur le projet régional de
-l'enseignement agricole.
+Le Conseil national de l'enseignement supérieur et de la recherche agricole,
+agroalimentaire et vétérinaire est également compétent pour examiner les
+demandes en relèvement des exclusions, déchéances et incapacités prononcées par
+les instances disciplinaires mentionnées au premier alinéa, dans les conditions
+prévues aux articles L. 231-11 à L. 231-13 du code de l'éducation.
 
-Le schéma prévisionnel régional prévu à l'article L. 214-1 du code de
-l'éducation et le plan régional de développement des formations professionnelles
-des jeunes défini par l'article L. 214-13 du code de l'éducation prennent en
-compte les orientations et objectifs du schéma prévisionnel national des
-formations de l'enseignement agricole.
+Le Conseil national de l'enseignement supérieur et de la recherche agricole,
+agroalimentaire et vétérinaire statuant en matière disciplinaire comprend des
+représentants des enseignants-chercheurs, des enseignants et des représentants
+des usagers. Dans le cas où les usagers n'usent pas de leur droit de se faire
+représenter au sein de la formation compétente du Conseil national de
+l'enseignement supérieur et de la recherche agricole, agroalimentaire et
+vétérinaire statuant en matière disciplinaire et dans le cas où, étant
+représentés, ils s'abstiennent d'y siéger, cette formation peut valablement
+délibérer en l'absence de leurs représentants. Le président du Conseil national
+de l'enseignement supérieur et de la recherche agricole, agroalimentaire et
+vétérinaire statuant en matière disciplinaire est un professeur de
+l'enseignement supérieur agricole, élu en leur sein par l'ensemble des
+enseignants-chercheurs membres de cette juridiction.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat. "
+Lorsque le Conseil national de l'enseignement supérieur et de la recherche
+agricole, agroalimentaire et vétérinaire statuant en matière disciplinaire
+statue à l'égard d'enseignants-chercheurs ou d'enseignants, la formation
+compétente ne comprend que des enseignants-chercheurs et enseignants d'un rang
+égal ou supérieur à celui de la personne déférée devant elle.
+
+La composition, les modalités et la durée de désignation des membres des
+formations compétentes à l'égard des enseignants-chercheurs, des enseignants et
+des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat

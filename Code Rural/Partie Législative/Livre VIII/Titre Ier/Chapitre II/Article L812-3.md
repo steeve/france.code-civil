@@ -3,9 +3,8 @@ Article L812-3
 Les établissements d'enseignement supérieur agricole publics sont créés par
 décret et dirigés par un directeur.
 
-Lorsque ces établissements n'ont pas l'une des formes précisées par la loi n°
-84-52 du 26 janvier 1984 sur l'enseignement supérieur, ils respectent les
-dispositions suivantes.
+Lorsque ces établissements n'ont pas l'une des formes précisées par le code de
+l'éducation, ils respectent les dispositions suivantes.
 
 Ils sont administrés par un conseil d'administration où siègent des
 représentants de l'Etat, des collectivités territoriales, des
