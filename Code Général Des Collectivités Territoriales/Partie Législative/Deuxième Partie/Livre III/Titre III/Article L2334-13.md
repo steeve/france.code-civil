@@ -19,7 +19,9 @@ solidarité rurale.
 La quote-part destinée aux communes d'outre-mer évolue de façon telle que le
 total des attributions leur revenant au titre de la dotation globale de
 fonctionnement progresse au moins comme l'ensemble des ressources affectées à
-cette dotation.
+cette dotation. En 2008, le taux de progression de cette quote-part ne tient pas
+compte de l'impact de la transformation des communes de Saint-Martin et
+Saint-Barthélemy en collectivités d'outre-mer.
 
 En 1995 Le montant des crédits respectivement attribués à la dotation de
 solidarité urbaine et de cohésion sociale et à la dotation de solidarité rurale
