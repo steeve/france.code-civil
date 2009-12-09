@@ -10,7 +10,7 @@ associative désignés par le ministre chargé des sports ;
 b) Un membre désigné par le ministre chargé de l'éducation ;
 
 c) Trois membres désignés par le ministre chargé des sports après avis du
-directeur régional de la jeunesse, des sports et de la vie associative ;
+directeur régional de la jeunesse, des sports et de la cohésion sociale ;
 
 2° Six personnalités représentatives des collectivités territoriales dont :
 
@@ -34,12 +34,12 @@ sports sur proposition du président du comité régional olympique et sportif ;
 
 c) Un représentant des cadres techniques, désigné par le ministre chargé des
 sports sur proposition du directeur régional de la jeunesse, des sports et de la
-vie associative ;
+cohésion sociale ;
 
 4° Trois personnalités choisies pour leur compétence dans le domaine de la
 jeunesse, de l'éducation populaire et du loisir désignées par le ministre chargé
 des sports sur proposition du directeur régional de la jeunesse, des sports et
-de la vie associative, dont un représentant des cadres techniques ;
+de la cohésion sociale , dont un représentant des cadres techniques ;
 
 5° Six représentants des personnels en fonctions dans l'établissement, élus
 selon des modalités fixées par arrêté ministériel :
@@ -68,7 +68,7 @@ Le préfet du département dans lequel est situé le centre assiste en tant que
 commissaire du Gouvernement à toutes les séances du conseil d'administration ;
 il est entendu à sa demande et reçoit copie des ordres du jour et des
 procès-verbaux ; il est assisté dans cette mission par le directeur régional de
-la jeunesse, des sports et de la vie associative, qui le représente, en cas
+la jeunesse, des sports et de la cohésion sociale , qui le représente, en cas
 d'absence, au conseil d'administration.
 
 En cas de vacance, pour quelque cause que ce soit, du siège d'un membre du

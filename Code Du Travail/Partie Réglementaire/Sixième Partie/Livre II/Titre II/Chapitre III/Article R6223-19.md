@@ -6,4 +6,4 @@ au responsable d'établissement. Ce dernier la transmet, accompagnée de son avi
 : 1° A l'organisme chargé de l'enregistrement du contrat ; 2° Au directeur
 départemental du travail, de l'emploi et de la formation professionnelle ; 3° Au
 recteur, au directeur régional de l'agriculture et de la forêt ou au directeur
-régional de la jeunesse, des sports et de la vie associative.
+régional de la jeunesse, des sports et de la cohésion sociale.

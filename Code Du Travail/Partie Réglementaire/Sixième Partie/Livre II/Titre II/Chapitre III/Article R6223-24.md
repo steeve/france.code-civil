@@ -13,6 +13,6 @@ par la commission départementale de l'emploi et de l'insertion ; 3° Les
 personnes possédant une expérience professionnelle de cinq ans en rapport avec
 le diplôme ou le titre préparé par l'apprenti après avis du recteur, du
 directeur régional de l'agriculture et de la forêt ou du directeur régional de
-la jeunesse, des sports et de la vie associative. L'absence de réponse dans un
+la jeunesse, des sports et de la cohésion sociale. L'absence de réponse dans un
 délai d'un mois à compter de la saisine de l'autorité compétente vaut avis
 favorable.

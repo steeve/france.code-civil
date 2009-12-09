@@ -7,7 +7,7 @@ Le conseil d'administration comprend :
 a) Le directeur des sports et un autre représentant du ministre chargé des
 sports ;
 
-b) Le directeur régional de la jeunesse, des sports et de la vie associative de
+b) Le directeur régional de la jeunesse, des sports et de la cohésion sociale de
 Rhône-Alpes ;
 
 c) Le président de la Fédération française de ski ou son représentant ;
