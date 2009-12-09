@@ -18,8 +18,8 @@ capitalisables ;
 
 5° Après validation d'un stage de pré-qualification pour les candidats inscrits
 dans tout cycle de formation ayant fait l'objet d'une convention avec le
-directeur régional de la jeunesse, des sports et de la vie associative.
+directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
 La durée de validité de ce certificat est de trois ans. Cette durée peut, sur
 demande motivée, être prolongée d'un an, à deux reprises au maximum, par le
-directeur régional de la jeunesse, des sports et de la vie associative.
+directeur régional de la jeunesse, des sports et de la cohésion sociale.

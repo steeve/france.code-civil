@@ -1,6 +1,6 @@
 Article R212-6
 ----
-Le directeur régional de la jeunesse, des sports et de la vie associative peut,
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut,
 par arrêté motivé et après avoir mis l'intéressé en mesure de présenter des
 observations écrites en défense, interdire à toute personne ayant commis une
 fraude au cours d'un examen visant à l'obtention d'un diplôme mentionné à

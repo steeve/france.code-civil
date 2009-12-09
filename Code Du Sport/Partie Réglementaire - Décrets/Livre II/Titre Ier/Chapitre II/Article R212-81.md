@@ -9,5 +9,5 @@ particuliers.
 
 Les candidats qui ne remplissent pas les conditions d'ancienneté de diplôme
 précitées sont autorisés par le directeur régional de la jeunesse, des sports et
-de la vie associative, dans les mêmes conditions, à s'inscrire au brevet d'Etat
+de la cohésion sociale, dans les mêmes conditions, à s'inscrire au brevet d'Etat
 du second degré.

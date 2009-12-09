@@ -13,7 +13,7 @@ c) Un représentant du ministre chargé de l'enseignement supérieur ;
 
 d) Un représentant du ministre chargé de l'environnement ;
 
-e) Le directeur régional de la jeunesse, des sports et de la vie associative de
+e) Le directeur régional de la jeunesse, des sports et de la cohésion sociale de
 Bretagne ;
 
 2° Quatre personnalités qualifiées :

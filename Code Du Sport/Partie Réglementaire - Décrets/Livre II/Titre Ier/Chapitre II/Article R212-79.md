@@ -1,6 +1,6 @@
 Article R212-79
 ----
-Le directeur régional de la jeunesse, des sports et de la vie associative :
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale :
 
 1° Désigne les jurys qualifiés conformément aux dispositions générales fixées
 par arrêté du ministre chargé des sports pour les brevets d'Etat du premier et
