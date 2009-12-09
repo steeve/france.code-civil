@@ -5,7 +5,7 @@ communales des quatre taxes directes locales du taux moyen national d'imposition
 à chacune de ces taxes. Il est majoré du montant perçu l'année précédente au
 titre de la part de la dotation forfaitaire prévue au sixième alinéa (3°) de
 l'article L. 2334-7, hors montant correspondant à la compensation prévue au 2°
-bis du II de l'article 1648 du code général des impôts dans sa rédaction
+bis du II de l'article 1648 B du code général des impôts dans sa rédaction
 antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), ou
 des montants ventilés en application du treizième alinéa du présent article.
 
@@ -83,15 +83,14 @@ part de la dotation de compensation prévue au premier alinéa de l'article L.
 l'année précédente, correspondant aux montants antérieurement perçus au titre du
 I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
 décembre 1998), avant prélèvement effectué en application du 1 du III de
-l'article 29 de la loi de finances pour 2003 (n° 2002-2035 du 30 décembre 2002).
-Cette part est répartie entre les communes membres de l'établissement public de
-coopération intercommunale au prorata des diminutions de base de taxe
-professionnelle, dans chacune de ces communes, ayant servi au calcul de la
-compensation prévue au I du D de l'article 44 de la loi de finances pour 1999
-précitée. Le montant ainsi obtenu est minoré du prélèvement subi par
-l'établissement public de coopération intercommunale en application du 1 du III
-de l'article 29 de la loi de finances pour 2003 précitée, réparti entre les
-communes au prorata de leur population.
+l'article 29 de la loi de finances pour 2003 (n° 2002-1575). Cette part est
+répartie entre les communes membres de l'établissement public de coopération
+intercommunale au prorata des diminutions de base de taxe professionnelle, dans
+chacune de ces communes, ayant servi au calcul de la compensation prévue au I du
+D de l'article 44 de la loi de finances pour 1999 précitée. Le montant ainsi
+obtenu est minoré du prélèvement subi par l'établissement public de coopération
+intercommunale en application du 1 du III de l'article 29 de la loi de finances
+pour 2003 précitée, réparti entre les communes au prorata de leur population.
 
 Pour les établissements publics de coopération intercommunale issus de la
 transformation d'un syndicat ou d'une communauté d'agglomération nouvelle, le

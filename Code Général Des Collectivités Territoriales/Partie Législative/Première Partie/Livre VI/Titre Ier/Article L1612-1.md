@@ -10,14 +10,12 @@ budget de l'année précédente.
 Il est en droit de mandater les dépenses afférentes au remboursement en capital
 des annuités de la dette venant à échéance avant le vote du budget.
 
-En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars ou jusqu'à la date
-mentionnée au premier alinéa de l'article L. 4311-1-1 pour les régions, en
-l'absence d'adoption du budget avant cette date, ou jusqu'au terme de la
-procédure par l'article L. 4311-1-1 pour les régions l'exécutif de la
-collectivité territoriale peut, sur autorisation de l'organe délibérant,
-engager, liquider et mandater les dépenses d'investissement, dans la limite du
-quart des crédits ouverts au budget de l'exercice précédent, non compris les
-crédits afférents au remboursement de la dette.
+En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence
+d'adoption du budget avant cette date, l'exécutif de la collectivité
+territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et
+mandater les dépenses d'investissement, dans la limite du quart des crédits
+ouverts au budget de l'exercice précédent, non compris les crédits afférents au
+remboursement de la dette.
 
 L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et
 l'affectation des crédits.

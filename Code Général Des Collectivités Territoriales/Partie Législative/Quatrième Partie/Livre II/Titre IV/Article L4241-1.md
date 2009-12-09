@@ -17,8 +17,7 @@ est appelé à délibérer en application des lois reconnaissant une compétence
 régions, ainsi qu'aux schémas et aux programmes prévus par ces lois et au bilan
 des actions menées dans ces domaines ;
 
-5° Le projet de budget annexé à la motion mentionnée à l'article L. 4311-1-1,
-pour se prononcer sur ses orientations générales.
+5° (Supprimé)
 
 A l'initiative du président du conseil régional, il peut être saisi de demandes
 d'avis et d'études sur tout projet à caractère économique, social ou culturel.

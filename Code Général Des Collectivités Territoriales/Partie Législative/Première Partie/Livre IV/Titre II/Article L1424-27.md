@@ -23,8 +23,8 @@ de partage des voix, elle est acquise au bénéfice de l'âge.
 
 Le conseil d'administration peut déléguer une partie de ses attributions au
 bureau, à l'exception des délibérations relatives à l'adoption du budget et du
-compte administratif en application des dispositions des articles L. 1612-1 et
-suivants, ainsi que de celles visées aux articles L. 1424-26 et L. 1424-35.
+compte administratif en application des dispositions des articles L. 1612-1 à L.
+1612-20, ainsi que de celles visées aux articles L. 1424-26 et L. 1424-35.
 
 Les indemnités maximales votées par le conseil d'administration du service
 d'incendie et de secours pour l'exercice effectif des fonctions de président et

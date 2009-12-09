@@ -65,9 +65,9 @@ de laquelle le versement est opéré par le ministre chargé des affaires social
 
 IV.-Les crédits de la troisième part sont répartis entre les départements
 proportionnellement au rapport entre le nombre total des contrats d'avenir
-mentionnés à l'article L. 322-4-10 du code du travail (1), des contrats
-d'insertion-revenu minimum d'activité mentionnés à l'article L. 322-4-15 du même
-code (1), des primes mentionnées à l'article L. 262-11 du code de l'action
+mentionnés à l'article L. 5134-35 du code du travail, des contrats
+d'insertion-revenu minimum d'activité mentionnés à à l'article L. 5134-74 du
+même code, des primes mentionnées à l'article L. 262-11 du code de l'action
 sociale et des familles ainsi que des contrats conclus et des prestations de
 revenu de solidarité active attribuées dans le cadre des expérimentations
 conduites sur le fondement des articles 142 de la loi n° 2006-1666 du 21

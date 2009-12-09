@@ -32,11 +32,11 @@ de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relativ
 à la sécurité pour assurer la sécurité des manifestations culturelles et
 sportives organisées dans des établissements communautaires.
 
-Par dérogation aux dispositions de l'article L. 2212-2, lorsqu'un établissement
-public de coopération intercommunale à fiscalité propre est compétent en matière
-de voirie, les maires des communes membres peuvent transférer au président de
-cet établissement tout ou partie des prérogatives qu'ils détiennent en matière
-de circulation et de stationnement.
+Par dérogation aux dispositions des articles L. 2213-2 à L. 2213-6, lorsqu'un
+établissement public de coopération intercommunale à fiscalité propre est
+compétent en matière de voirie, les maires des communes membres peuvent
+transférer au président de cet établissement tout ou partie des prérogatives
+qu'ils détiennent en matière de circulation et de stationnement.
 
 II.-Dans les cas précédents, les arrêtés de police sont pris conjointement par
 le président de l'établissement public de coopération intercommunale et le ou

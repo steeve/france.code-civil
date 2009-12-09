@@ -18,4 +18,4 @@ travaux d'électrification ;
 
 5° Des communes qui, au cours de l'un au moins des trois exercices précédents,
 ont été attributaires de la dotation de solidarité urbaine et de cohésion
-sociale prévue aux articles L. 2334-15 et suivants.
+sociale prévue aux articles L. 2334-15 à L. 2334-18-4.

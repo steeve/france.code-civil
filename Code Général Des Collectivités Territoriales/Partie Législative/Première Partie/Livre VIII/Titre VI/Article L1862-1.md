@@ -74,7 +74,7 @@ XI.-Pour l'application de l'article L. 1524-5 :
 
 1° Les références à des articles du code du commerce sont remplacées par les
 références aux dispositions correspondantes applicables localement et, à la fin
-du douzième alinéa, les mots : " aux articles L. 1411-1 et suivants " sont
+du douzième alinéa, les mots : " aux articles L. 1411-1 à L. 1411-18 " sont
 remplacés par les mots : " par les dispositions en vigueur localement " ;
 
 2° Au neuvième alinéa, les mots : ", départementaux ou régionaux au sens des

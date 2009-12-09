@@ -1,9 +1,9 @@
 Article L5211-8
 ----
-Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, le mandat
-des délégués est lié à celui du conseil municipal qui les a désignés. Ce mandat
-expire lors de l'installation de l'organe délibérant de l'établissement public
-de coopération intercommunale suivant le renouvellement général des conseils
+Sans préjudice des dispositions de l'article L. 2121-33 , le mandat des délégués
+est lié à celui du conseil municipal qui les a désignés. Ce mandat expire lors
+de l'installation de l'organe délibérant de l'établissement public de
+coopération intercommunale suivant le renouvellement général des conseils
 municipaux.
 
 Après le renouvellement général des conseils municipaux, l'organe délibérant de

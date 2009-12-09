@@ -20,9 +20,9 @@ départementaux et soutien aux actions de maîtrise de la demande d'énergie " s
 remplacés par les mots : ", soutien aux actions de maîtrise de la demande
 d'énergie et traitement des déchets " ;
 
-5° Au deuxième alinéa du 5° du II, les mots : " constitué dans les conditions
-fixées à l'article L. 123-5 du code de l'action sociale et des familles " sont
-supprimés ;
+5° Au huitième alinéa du II, les mots : " constitué dans les conditions fixées à
+l'article L. 123-5 du code de l'action sociale et des familles " sont supprimés
+;
 
 6° Au II, il est ajouté un 7° ainsi rédigé :
 

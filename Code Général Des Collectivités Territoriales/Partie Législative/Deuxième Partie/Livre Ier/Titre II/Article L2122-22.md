@@ -88,7 +88,7 @@ municipal, le droit de préemption défini par l'article L. 214-1 du code de
 l'urbanisme ;
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L.
-240-1 et suivants du code de l'urbanisme ;
+240-1 à L. 240-3 du code de l'urbanisme ;
 
 23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du
 code du patrimoine relatives à la réalisation de diagnostics d'archéologie

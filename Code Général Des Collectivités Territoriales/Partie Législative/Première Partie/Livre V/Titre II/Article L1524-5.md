@@ -81,7 +81,7 @@ Toutefois, ils ne peuvent participer aux commissions d'appel d'offres ou aux
 commissions d'attribution de délégations de service public de la collectivité
 territoriale ou du groupement lorsque la société d'économie mixte locale est
 candidate à l'attribution d'un marché public ou d'une délégation de service
-public dans les conditions prévues aux articles L. 1411-1 et suivants.
+public dans les conditions prévues aux articles L. 1411-1 à L. 1411-18.
 
 En cas de fin légale du mandat de l'assemblée, le mandat de ses représentants au
 conseil d'administration ou au conseil de surveillance est prorogé jusqu'à la

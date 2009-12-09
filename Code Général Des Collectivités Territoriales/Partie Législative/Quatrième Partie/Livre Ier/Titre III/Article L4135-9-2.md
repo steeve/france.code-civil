@@ -6,8 +6,8 @@ celui-ci qui, pour l'exercice de son mandat, avait cessé d'exercer son activit�
 professionnelle perçoit, sur sa demande, une allocation différentielle de fin de
 mandat s'il se trouve dans l'une des situations suivantes :
 
--être inscrit à l'institution mentionnée à l'article L. 311-7 du code du travail
-(1) conformément aux dispositions de l'article L. 311-2 du code du travail (1);
+-être inscrit à l'institution mentionnée à l'article L. 5312-1 du code du
+travail conformément aux dispositions de l'article L. 5411-1 du même code ;
 
 -avoir repris une activité professionnelle lui procurant des revenus inférieurs
 aux indemnités de fonction qu'il percevait au titre de sa dernière fonction

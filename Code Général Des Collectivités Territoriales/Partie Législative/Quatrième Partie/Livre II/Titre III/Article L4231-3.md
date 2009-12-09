@@ -7,11 +7,10 @@ d'empêchement de ces derniers, ou dès lors que ceux-ci sont tous titulaires
 d'une délégation, à d'autres membres du conseil régional. Ces délégations
 subsistent tant qu'elles ne sont pas rapportées.
 
-Le membre du conseil régional ayant démissionné de la fonction de président de
-conseil régional en application des articles LO 141 du code électoral, L. 2122-4
-ou L3122-3 du présent code ne peut recevoir de délégation jusqu'au terme de son
-mandat de conseiller régional ou jusqu'à la cessation du mandat ou de la
-fonction l'ayant placé en situation d'incompatibilité.
+Le membre du conseil régional qui a cessé ses fonctions de président du conseil
+régional en application des articles L. 2122-4 ou L. 3221-3 ne peut recevoir de
+délégation jusqu'au terme de son mandat de conseiller régional ou jusqu'à la
+cessation de la fonction l'ayant placé en situation d'incompatibilité.
 
 Le président du conseil régional est le chef des services de la région. Il peut,
 sous sa surveillance et sa responsabilité, donner délégation de signature en

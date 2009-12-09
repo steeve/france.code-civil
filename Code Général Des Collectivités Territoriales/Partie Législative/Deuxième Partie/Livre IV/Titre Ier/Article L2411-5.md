@@ -7,7 +7,7 @@ est inférieur à dix ou lorsque la moitié au moins des électeurs n'a pas rép
 à deux convocations successives du représentant de l'Etat dans le département
 faites à un intervalle de deux mois. Il en est de même lorsque les revenus ou
 produits des biens de la section sont inférieurs à un montant minimal annuel
-moyen fixé dans les conditions prévues par un décret en Conseil d'Etat.
+moyen fixé dans les conditions prévues par un décret.
 
 Dans le cas où une commune est devenue, à la suite de sa réunion à une autre
 commune, une section de commune, le conseil consultatif ou la commission

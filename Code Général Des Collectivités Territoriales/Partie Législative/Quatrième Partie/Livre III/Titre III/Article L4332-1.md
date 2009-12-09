@@ -22,8 +22,8 @@ millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaqu
 année selon le taux d'évolution de la dotation globale de fonctionnement.
 
 2° Les crédits transférés par l'Etat dont le montant est égal aux versements au
-Trésor public effectués l'année précédente en application des articles L. 920-9
-et L. 951-9 du code du travail (1), et dont la répartition obéit aux mêmes
+Trésor public effectués l'année précédente en application des articles L. 6354-2
+et L. 6331-28 du code du travail, et dont la répartition obéit aux mêmes
 critères que ceux mentionnés au 1° ci-dessus ;
 
 3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement

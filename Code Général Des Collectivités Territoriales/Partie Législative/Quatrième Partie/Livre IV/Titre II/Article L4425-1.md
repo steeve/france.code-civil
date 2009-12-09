@@ -29,4 +29,4 @@ décembre 1994 portant statut fiscal de la Corse.
 
 La collectivité territoriale de Corse bénéficie également de la dotation globale
 de fonctionnement des régions dans les conditions définies aux articles L.
-4332-4 et suivants.
+4332-4 à L. 4332-8.

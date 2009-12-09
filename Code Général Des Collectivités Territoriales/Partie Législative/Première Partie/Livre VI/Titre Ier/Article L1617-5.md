@@ -23,10 +23,10 @@ prescrit dans le délai de deux mois suivant la réception du titre exécutoire 
 de poursuite.
 
 L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour
-contester directement devant le juge de l'exécution visé à l'article L. 311-12
-du code de l'organisation judiciaire la régularité formelle de l'acte de
-poursuite diligenté à son encontre se prescrit dans le délai de deux mois
-suivant la notification de l'acte contesté.
+contester directement devant le juge de l'exécution mentionné aux articles L.
+213-5 et L. 213-6 du code de l'organisation judiciaire la régularité formelle de
+l'acte de poursuite diligenté à son encontre se prescrit dans le délai de deux
+mois suivant la notification de l'acte contesté.
 
 3° L'action des comptables publics chargés de recouvrer les créances des
 régions, des départements, des communes et des établissements publics locaux se

@@ -19,8 +19,8 @@ dans les mêmes conditions que les sociétés existantes.
 La commission mentionnée à l'article L. 1411-5 dresse la liste des candidats
 admis à présenter une offre après examen de leurs garanties professionnelles et
 financières, de leur respect de l'obligation d'emploi des travailleurs
-handicapés prévue à l'article L. 323-1 du code du travail (1) et de leur
-aptitude à assurer la continuité du service public et l'égalité des usagers
+handicapés prévue aux articles L. 5212-1 à L. 5212-4 du code du travail et de
+leur aptitude à assurer la continuité du service public et l'égalité des usagers
 devant le service public.
 
 La collectivité adresse à chacun des candidats un document définissant les

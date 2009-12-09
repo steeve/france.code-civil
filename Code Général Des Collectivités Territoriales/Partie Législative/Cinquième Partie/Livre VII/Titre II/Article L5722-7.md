@@ -7,9 +7,9 @@ moins 50 000 habitants incluant une ou plusieurs communes centres de plus de 15
 000 habitants, dès lors que ce syndicat associe au moins la principale autorité
 compétente pour l'organisation des transports urbains. Les conditions
 d'assujettissement, de recouvrement et de remboursement de ce versement sont
-identiques à celles prévues par les articles L. 2333-64 et suivants.
+identiques à celles prévues par les articles L. 2333-64 à L. 2333-75.
 
-Le taux de ce versement ne peut excéder 0,5 %. A l'intérieur d'un périmètre de
+Le taux de ce versement ne peut excéder 0, 5 %.A l'intérieur d'un périmètre de
 transport urbain, ce taux est, le cas échéant, réduit de sorte que le total de
 ce taux et du taux maximum susceptible d'être institué par l'autorité compétente
 au titre de l'article L. 2333-67 n'excède pas le taux maximum qui serait

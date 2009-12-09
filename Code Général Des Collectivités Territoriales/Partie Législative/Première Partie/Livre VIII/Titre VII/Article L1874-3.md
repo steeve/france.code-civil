@@ -9,9 +9,10 @@ réserve des adaptations suivantes :
 alinéa du 6°, les mots : " collectivité territoriale " sont remplacés par le mot
 : " commune " ;
 
-3° Au second alinéa du 2°, les mots : " de l'exécution visé à l'article 311-12
-du code de l'organisation judiciaire " sont remplacés par les mots : " chargé de
-l'exécution par le code de procédure civile de la Polynésie française " ;
+3° Au second alinéa du 2°, les mots : " le juge de l'exécution mentionné aux
+articles L. 213-5 et L. 213-6 du code de l'organisation judiciaire " sont
+remplacés par les mots : " chargé de l'exécution par le code de procédure civile
+de la Polynésie française " ;
 
 4° Au premier alinéa du 3°, les mots : " des régions, des départements, " sont
 supprimés ;

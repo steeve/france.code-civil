@@ -1,7 +1,7 @@
 Article L4433-14
 ----
-Le programme des interventions de l'institution mentionnée à l'article L. 311-7
-du code du travail (1), celui des associations régionales pour la formation
+Le programme des interventions de l'institution mentionnée à l'article L. 5312-1
+du code du travail, celui des associations régionales pour la formation
 professionnelle des adultes et celui des services de l'Etat chargés de l'emploi
 font l'objet, dans chacune des régions de Guadeloupe, de Guyane, de Martinique
 et de la Réunion, d'une consultation auprès d'une commission mixte composée,

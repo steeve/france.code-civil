@@ -10,3 +10,6 @@ chargé du budget.
 Les documents budgétaires sont présentés, selon les modalités de vote retenues
 par le conseil général, conformément aux modèles fixés par arrêté conjoint du
 ministre chargé des collectivités locales et du ministre chargé du budget.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.
