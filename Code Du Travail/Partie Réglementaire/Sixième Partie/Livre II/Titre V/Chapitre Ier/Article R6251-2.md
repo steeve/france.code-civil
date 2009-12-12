@@ -16,6 +16,6 @@ secteur de la jeunesse, des sports et de la vie associative, l'inspection de
 l'apprentissage est assurée par une mission régionale dont les inspecteurs de la
 jeunesse et des sports sont commissionnés à cet effet par le ministre chargé de
 la jeunesse et des sports, placée sous l'autorité du directeur régional de la
-jeunesse, des sports et de la vie associative.L'organisation de la mission est
+jeunesse, des sports et de la cohésion sociale. L'organisation de la mission est
 déterminée par le ministre chargé de la jeunesse, des sports et de la vie
 associative.
