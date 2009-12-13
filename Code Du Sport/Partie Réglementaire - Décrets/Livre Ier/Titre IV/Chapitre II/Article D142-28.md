@@ -55,8 +55,8 @@ Franche-Comté ;
 
 24° Le directeur de la sécurité civile ;
 
-25° Le délégué interministériel à l'aménagement et à la compétitivité des
-territoires ;
+25° Le délégué interministériel à l'aménagement du territoire et à
+l'attractivité régionale ;
 
 26° Le directeur de l'Office national des forêts ;
 
