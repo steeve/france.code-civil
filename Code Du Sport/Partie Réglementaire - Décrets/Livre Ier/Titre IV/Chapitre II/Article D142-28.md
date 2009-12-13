@@ -55,8 +55,7 @@ performance sportives de Franche-Comté ;
 
 24° Le directeur général de la sécurité civile et de la gestion des crises ;
 
-25° Le délégué interministériel à l'aménagement du territoire et à
-l'attractivité régionale ;
+25° Le commissaire général à l'égalité des territoires ;
 
 26° Le directeur de l'Office national des forêts ;
 
