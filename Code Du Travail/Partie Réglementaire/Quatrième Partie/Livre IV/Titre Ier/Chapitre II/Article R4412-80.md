@@ -1,5 +1,5 @@
 Article R4412-80
 ----
-Les résultats des contrôles sont communiqués par l'employeur au médecin du
-travail et au comité d'hygiène, de sécurité et des conditions de travail ou, à
-défaut, aux délégués du personnel.
+Les mesurages et les contrôles techniques opérés en application du présent
+paragraphe doivent respecter les modalités et les méthodes fixées en application
+de l'article R. 4412-151.

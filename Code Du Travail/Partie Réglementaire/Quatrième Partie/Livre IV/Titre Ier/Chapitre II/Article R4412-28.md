@@ -1,6 +1,6 @@
 Article R4412-28
 ----
-Lorsque des valeurs limites d'exposition professionnelle ont été établies pour
-un agent chimique dangereux, l'employeur procède régulièrement à des contrôles,
-en particulier lors de tout changement susceptible d'avoir des conséquences
-néfastes sur l'exposition des travailleurs.
+En cas de dépassement d'une valeur limite d'exposition professionnelle fixée à
+l'article R. 4412-149 ou de dépassement d'une concentration fixée à l'article R.
+4222-10, l'employeur prend immédiatement les mesures de prévention et de
+protection propres à assurer la protection des travailleurs.

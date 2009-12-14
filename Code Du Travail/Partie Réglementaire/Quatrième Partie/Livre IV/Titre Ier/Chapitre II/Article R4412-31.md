@@ -1,6 +1,5 @@
 Article R4412-31
 ----
-Un arrêté conjoint des ministres chargés du travail et de l'agriculture précise
-les modalités de prélèvement, les méthodes et moyens à mettre en œuvre afin
-d'évaluer l'exposition par inhalation aux agents chimiques dangereux présents
-dans l'air des lieux de travail.
+Les mesurages et les contrôles techniques opérés en application du présent
+paragraphe doivent respecter les modalités et les méthodes fixées en application
+de l'article R. 4412-151.

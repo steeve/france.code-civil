@@ -1,6 +1,6 @@
 Article R4412-77
 ----
-Toute modification des installations ou des conditions de fabrication
-susceptible d'avoir un effet sur les émissions d'agents cancérogènes, mutagènes
-ou toxiques pour la reproduction est suivie d'un nouveau contrôle dans un délai
-de quinze jours.
+En cas de dépassement d'une valeur limite d'exposition professionnelle
+contraignante prévue à l'article R. 4412-149, l'employeur arrête le travail aux
+postes de travail concernés, jusqu'à la mise en œuvre des mesures propres à
+assurer la protection des travailleurs.

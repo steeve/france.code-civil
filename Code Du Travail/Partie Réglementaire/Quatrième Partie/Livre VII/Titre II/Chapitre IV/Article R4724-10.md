@@ -1,5 +1,10 @@
 Article R4724-10
 ----
-Les organismes agréés, dont le personnel est tenu au secret professionnel,
-doivent être indépendants des établissements qu'ils contrôlent et présenter la
-qualité technique requise pour les mesures pratiquées.
+L'organisme accrédité établit la stratégie de prélèvement, après consultation de
+l'employeur, du médecin du travail et du comité d'hygiène et de sécurité du
+travail ou, à défaut, des délégués du personnel.L'employeur lui communique
+toutes données utiles, notamment le résultat de l'évaluation des risques
+chimiques.
+
+Les prélèvements sont faits par l'organisme accrédité sur des postes de travail
+en situation représentative de l'exposition.

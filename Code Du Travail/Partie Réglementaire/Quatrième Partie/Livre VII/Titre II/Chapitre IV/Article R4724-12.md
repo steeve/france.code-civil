@@ -1,8 +1,7 @@
 Article R4724-12
 ----
-Le ministre chargé du travail ou le ministre chargé de l'agriculture peut, dans
-des conditions fixées par arrêté, subordonner l'octroi de l'agrément à un
-contrôle préalable de qualité de l'organisme demandeur. Il peut également, à
-tout moment, soumettre l'organisme à des tests concernant la qualité des mesures
-réalisées. Les organismes agréés fournissent chaque année un bilan de leur
-activité.
+Indépendamment de la communication du rapport prévue à l'article R. 4412-30,
+l'organisme maître d'œuvre du contrôle technique communique les résultats à un
+organisme national désigné par arrêté des ministres chargés du travail et de
+l'agriculture. Ce dernier les exploite, dans le respect de l'anonymat des
+entreprises concernées, à des fins d'études et d'évaluation.
