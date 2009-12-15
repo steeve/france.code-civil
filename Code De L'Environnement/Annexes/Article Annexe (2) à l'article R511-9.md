@@ -6,9 +6,9 @@ TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 
-A - NOMENCLATURE DES INSTALLATIONS CLASSEES
+A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
-B - TAXE GENERALE SUR LES ACTIVITES POLLUANTES
+B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 
 Désignation de la rubrique
@@ -181,7 +181,7 @@ utilisée pour les radionucléides non mentionnés par les dispositions
 précédentes.
 
 3° Pour une installation dans laquelle un ou plusieurs radionucléides sont
-utilisés, le rapport Q (sans dimension) est calculé d'après la formule:
+utilisés, le rapport Q (sans dimension) est calculé d'après la formule :
 
 Q = Σ (Ai / Aexi)
 
@@ -212,11 +212,11 @@ A
 
 1
 
-a) supérieure ou égal à 10 6
+a) supérieure ou égal à 106
 
 3
 
-b) supérieure ou égal à 10 4
+b) supérieure ou égal à 104
 
 1
 
@@ -421,14 +421,14 @@ D
 
 Nota :
 
-- Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en
+-Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en
 élevage de multiplication ou sélection comptent pour un animal-équivalent,
 
-- Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles
+-Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles
 utilisés pour la reproduction) comptent pour trois animaux-équivalents,
 
-- Les porcelets sevrés de moins de trente kilogrammes avant mise en
-engraissement ou sélection comptent pour 0,2 animal-équivalent.
+-Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
+ou sélection comptent pour 0, 2 animal-équivalent.
 
 2110
 
@@ -471,26 +471,26 @@ D
 Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs
 suivantes exprimées en animaux-équivalents :
 
-1. caille = 0,125
+1. caille = 0, 125
 
-2. pigeon, perdrix = 0,25
+2. pigeon, perdrix = 0, 25
 
-3. coquelet = 0,75
+3. coquelet = 0, 75
 
-4. poulet léger = 0,85
+4. poulet léger = 0, 85
 
 5. poule, poulet standard, poulet label, poulet biologique, poulette, poule
 pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
 
-6. poulet lourd = 1,15
+6. poulet lourd = 1, 15
 
 7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2
 
-8. dinde légère = 2,20
+8. dinde légère = 2, 20
 
 9. dinde médium, dinde reproductrice, oie = 3
 
-10. dinde lourde = 3,50
+10. dinde lourde = 3, 50
 
 11. palmipèdes gras en gavage = 7
 
@@ -499,7 +499,7 @@ pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
 
 Couvoirs
 
-Capacité logeable d'eau moins 100 000 oeufs
+Capacité logeable d'eau moins 100 000 œufs
 
 
 D
@@ -576,14 +576,14 @@ présentation au public de), à l'exclusion des magasins de vente au détail et 
 installations présentant au public des animaux d'espèces non domestiques
 correspondant aux activités suivantes :
 
-- présentation de poissons et d'invertébrés aquatiques, les capacités cumulées
+-présentation de poissons et d'invertébrés aquatiques, les capacités cumulées
 des aquariums et des bassins présentés au public étant inférieures à 10 000
 litres de volume total brut ;
 
-- présentation au public d'animaux dont les espèces figurent dans la liste
-prévue par l'article R. 413-6 du code de l'environnement ;
+-présentation au public d'animaux dont les espèces figurent dans la liste prévue
+par l'article R. 413-6 du code de l'environnement ;
 
-- présentation au public d'arthropodes.
+-présentation au public d'arthropodes.
 
 
 A
@@ -834,7 +834,7 @@ A
 1
 
 1. La capacité journalière de traitement de l'installation exprimée en litre de
-lait ou équivalent-lait étant supérieure à 250 000 l/j
+lait ou équivalent-lait étant supérieure à 250 000 l / j
 
 4
 
@@ -1028,9 +1028,13 @@ A
 
 3
 
+1
+
+6
+
 2. Autres installations que celles visées au 1 :
 
-1. La puissance installée de l'ensemble des machines fixes concourant au
+2. La puissance installée de l'ensemble des machines fixes concourant au
 fonctionnement de l'installation étant :
 
 a) La puissance installée de l'ensemble des machines fixes concourant au
@@ -1041,11 +1045,11 @@ A
 
 2
 
-a) supérieure ou égale à 5 MW
+a) Supérieure ou égale à 5 MW
 
 3
 
-b) supérieure à 1 MW, mais inférieure à 5 MW
+b) Supérieure à 1 MW, mais inférieure à 5 MW
 
 1
 
@@ -1224,7 +1228,7 @@ DC
 
 (1) La capacité nominale est calculée conformément à la norme NF G 45-010 de
 février 1982, relative au matériel pour l'industrie textile et matériel connexe
-"Matériel de nettoyage à sec - Définitions et contrôle des caractéristiques de
+"Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de
 capacité de consommation d'une machine."
 
 2350
@@ -1335,7 +1339,7 @@ D
 2415
 
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux
+Installations de mise en oeuvre de produits de préservation du bois et matériaux
 dérivés
 
 1. La quantité susceptible d'être présente dans l'installation étant supérieure
@@ -1634,7 +1638,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des
 haldes et terrils de mines et par les déchets d'exploitation de carrières (à
-l'exception des cas visés à l'article 1 er du décret n o 79-1109 du 20 décembre
+l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre
 1979 pris pour l'application de l'article 130 du code minier), lorsque la
 superficie d'exploitation est supérieure à 1 000 m 2 ou lorsque la quantité de
 matériaux à extraire est supérieure à 2 000 t par an
@@ -1674,12 +1678,12 @@ D
 
 6. Carrières de pierre, de sable et d'argile destinées :
 
-- à la restauration des monuments historiques classés ou inscrits, ou des
+-à la restauration des monuments historiques classés ou inscrits, ou des
 immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur
 sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération
 sont interdits
 
-- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou
+-ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou
 architectural justifie que celle-ci soit effectuée avec leurs matériaux
 d'origine.
 
@@ -1980,7 +1984,7 @@ Quelle que soit la capacité
 
 Acier, fer, fonte, ferro-alliages (fabrication d') à l'exclusion de la
 fabrication de ferro-alliages au four électrique lorsque la puissance installée
-du (des) four(s) est inférieure à 100 kW
+du (des) four (s) est inférieure à 100 kW
 
 
 A
@@ -2020,8 +2024,8 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 2547
 
 Silico-alliages ou carbure de silicium (fabrication de) au four électrique,
-lorsque la puissance installée du (des) four(s) dépasse 100 kW (à l'exclusion du
-ferro-silicium visé à la rubrique 2545)
+lorsque la puissance installée du (des) four (s) dépasse 100 kW (à l'exclusion
+du ferro-silicium visé à la rubrique 2545)
 
 
 A
@@ -2257,7 +2261,7 @@ b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 DC
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
 cadmium
 
 
@@ -2339,13 +2343,13 @@ A
 
 3
 
-La capacité de production étant :
+La capacité nominale de production étant :
 
-a) supérieure à 200 t/j
+a) Supérieure ou égale à 200 t/j
 
 6
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) Supérieure à 50 t/j, mais inférieure à 200 t/j
 
 2
 
@@ -2581,10 +2585,10 @@ Quelle que soit la capacité
 
 2680
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un
 processus de production industrielle ou commercial des) à l'exclusion de
 l'utilisation de produits contenant des organismes génétiquement modifiés qui
-ont reçu une autorisation de mise sur le marché conformément à la loi n o 92-654
+ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654
 du 13 juillet 1992 et utilisés dans les conditions prévues par cette
 autorisation de mise sur le marché
 
@@ -2608,12 +2612,12 @@ A
 
 8
 
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n o
-92.654 du 13 juillet 1992 et par le décret n o 93-744 du 27 mars 1993 fixant la
+Les organismes génétiquement modifiés visés sont ceux définis par la loi n°
+92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la
 liste des techniques de modification génétique et les critères de classement des
 organismes génétiquement modifiés en groupe I et II
 
-On entend par mise en œuvre au sens de la présente rubrique toute opération ou
+On entend par mise en oeuvre au sens de la présente rubrique toute opération ou
 ensemble d'opérations faisant partie d'un processus de production industrielle
 ou commercial au cours desquelles des organismes sont génétiquement modifiés ou
 au cours desquelles des organismes génétiquement modifiés sont cultivés,
@@ -2621,7 +2625,7 @@ utilisés, stockés, détruits ou éliminés.
 
 2681
 
-Micro-organismes naturels pathogènes (mise en œuvre dans des installations de
+Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de
 production industrielle)
 
 
@@ -2656,16 +2660,16 @@ A
 Décheteries aménagées pour la collecte des encombrants, matériaux ou produits
 triés et apportés par les usagers :
 
-- monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de
+-monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de
 démolition, déblais, gravats, terre ;
 
-- bois, métaux, papiers-cartons, plastiques, textiles, verres, amiante lié ;
+-bois, métaux, papiers-cartons, plastiques, textiles, verres, amiante lié ;
 
-- déchets ménagers spéciaux (huiles usagées, piles et batteries, médicaments,
+-déchets ménagers spéciaux (huiles usagées, piles et batteries, médicaments,
 solvants, peintures, acides et bases, produits phytosanitaires, etc.) usés ou
 non ;
 
-- déchets d'équipements électriques et électroniques.
+-déchets d'équipements électriques et électroniques.
 
 1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m
 2
@@ -3029,7 +3033,7 @@ D
 
 Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé :
+1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
 
 a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
 
@@ -3052,7 +3056,7 @@ D
 
 D
 
-Nota : Une installation est de type circuit primaire fermé lorsque l'eau
+Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau
 dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs
 thermiques étanches situés à l'intérieur de la tour de refroidissement ou
 accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau
@@ -3144,15 +3148,15 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 sur support quelconque (métal, bois, plastique, cuir, papier, textile) à
 l'exclusion :
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
+-des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
 de matières bitumineuses, couvertes par la rubrique 1521,
 
-- des activités couvertes par les rubriques 2445 et 2450,
+-des activités couvertes par les rubriques 2445 et 2450,
 
-- des activités de revêtement sur véhicules et engins à moteurs couvertes par la
+-des activités de revêtement sur véhicules et engins à moteurs couvertes par la
 rubrique 2930,
 
-- ou de toute autre activité couverte explicitement par une autre rubrique.
+-ou de toute autre activité couverte explicitement par une autre rubrique.
 
 1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
 l'application est faite par procédé "au trempé". Si la quantité maximale de
@@ -3192,7 +3196,7 @@ a) supérieure ou égale à 5 t/j
 
 4
 
-supérieure ou égale à 1 t/j et inférieure à 5 t/j
+supérieure ou égale à 1 t /j et inférieure à 5 t/j
 
 2
 
@@ -3200,12 +3204,12 @@ supérieure ou égale à 250 kg/j et inférieure à 1 t/j
 
 1
 
-b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
+b) supérieure à 10 kg /j, mais inférieure ou égale à 100 kg/j
 
 
 DC
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines
 organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
 est :
 
@@ -3225,7 +3229,7 @@ b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
 
 DC
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de
+Nota.-Le régime de classement est déterminé par rapport à la quantité de
 produits mise en œuvre dans l'installation en tenant compte des coefficients
 ci-après. Les quantités de produits à base de liquides inflammables de 1re
 catégorie (point éclair inférieur à 55 o C) ou de liquides halogénés, dénommées
@@ -3234,7 +3238,7 @@ liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 
 ou contenant moins de 10 % de solvants organiques au moment de l'emploi,
 dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de
 catégories différentes sont utilisés, la quantité Q retenue pour le classement
-sera égale à : Q = A + B/2.
+sera égale à : Q = A + B / 2.
 
 2950
 

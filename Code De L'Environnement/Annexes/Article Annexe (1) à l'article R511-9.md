@@ -150,7 +150,7 @@ A
 1
 
 B. Installation traitant exclusivement des déchets analogues aux ordures
-ménagères : Usines de 4 t / h et plus
+ménagères : Usines de 4 t/h et plus
 
 1
 
@@ -220,7 +220,7 @@ A
 
 Ordures ménagères et autres résidus urbains (stockage et traitement des)
 
-A. - Station de transit, à l'exclusion des déchèteries mentionnées à la rubrique
+A.-Station de transit, à l'exclusion des déchèteries mentionnées à la rubrique
 2710
 
 
@@ -289,8 +289,8 @@ phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994 susmentionn
 Le terme gaz désigne toute substance dont la pression de vapeur absolue est
 égale ou supérieure à 101, 3 kPa à une température de 20° C. Le terme liquide
 désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se
-trouve pas à l'état solide à une température de 20 oC et à une pression normale
-de 101, 3 kPa.
+trouve pas à l'état solide à une température de 20 o C et à une pression normale
+de 101,3 kPa.
 
 Classification : a) Substances : Les substances comburantes, explosibles,
 inflammables, toxiques, très toxiques et dangereuses pour l'environnement sont
@@ -309,8 +309,8 @@ concentration de celles-ci ;-du type de préparation.
 Les préparations dangereuses sont classées suivant les dispositions de l'arrêté
 du 9 novembre 2004 définissant les critères de classification et les conditions
 d'étiquetage et d'emballage des substances et préparations dangereuses et
-transposant la directive 1999 / 45 / CE du Parlement européen et du Conseil du
-31 mai 1999, concernant le rapprochement des dispositions législatives,
+transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31
+mai 1999, concernant le rapprochement des dispositions législatives,
 réglementaires et administratives relatives à la classification, à l'emballage
 et à l'étiquetage des préparations dangereuses.
 
@@ -800,7 +800,7 @@ a) supérieure ou égale à 200 t
 
 6
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 
 A
@@ -811,7 +811,7 @@ b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 3
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
 
 
 DC
@@ -1023,8 +1023,8 @@ Substances et préparations particulières (stockage, emploi, fabrication
 industrielle, formulation et conditionnement de ou à base de)
 
 1. Substances et préparations à des concentrations en poids supérieures à 5 % à
-base de : 4-aminobiphényle et/ou ses sels, benzidine et / ou ses sels, chlorure
-de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels,
+base de : 4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de
+N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels,
 oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,
 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique,
 benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle,
@@ -1033,8 +1033,8 @@ benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthy
 La quantité totale de l'une de ces substances et préparations en contenant
 susceptible d'être présente dans l'installation étant :
 
-1. La quantité totale de l'un de ces produits (à des concentrations en poids
-supérieures à 5 %) susceptible d'être présente dans l'installation étant :
+1. La quantité totale de l'une de ces substances et préparations en contenant
+susceptible d'être présente dans l'installation étant :
 
 a) supérieure ou égale à 2 t
 
@@ -1043,7 +1043,7 @@ AS
 
 6
 
-a) supérieure ou égale à 2 t
+a) Supérieure ou égale à 2 t
 
 10
 
@@ -1054,14 +1054,15 @@ A
 
 3
 
-b) inférieure à 2 t
+b) Inférieure à 2 t
 
 6
 
 2. Les formes pulvérulentes de 4, 4'-méthylène-bis (2-chloroaniline) ou de ses
 sels :
 
-2. La quantité totale susceptible d'être présente dans l'installation étant :
+2. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
 
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
@@ -1073,7 +1074,7 @@ AS
 
 6
 
-a) supérieure ou égale à 10 kg
+a) Supérieure ou égale à 10 kg
 
 10
 
@@ -1084,7 +1085,7 @@ A
 
 3
 
-b) inférieure à 10 kg
+b) Inférieure à 10 kg
 
 6
 
@@ -1120,7 +1121,8 @@ b) inférieure à 100 kg
 
 4. Isocyanate de méthyle
 
-4. La quantité totale susceptible d'être présente dans l'installation étant :
+4. La quantité totale de ce produit susceptible d'être présente dans
+l'installation étant :
 
 La quantité totale de ce produit susceptible d'être présente dans l'installation
 étant :
@@ -1132,7 +1134,7 @@ AS
 
 6
 
-a) supérieure ou égale à 150 kg
+a) Supérieure ou égale à 150 kg
 
 10
 
@@ -1143,7 +1145,7 @@ A
 
 3
 
-b) inférieure à 150 kg
+b) Inférieure à 150 kg
 
 6
 
@@ -1494,10 +1496,10 @@ DC
 
 1171
 
-Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les
-organismes aquatiques (fabrication industrielle de substances ou préparations)
-telles que définies à la rubrique 1 000, à l'exclusion de celles visées
-nominativement ou par famille par d'autres rubriques.
+Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour
+les organismes aquatiques (fabrication industrielle de substances ou
+préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles
+visées nominativement ou par famille par d'autres rubriques.
 
 1. Cas des substances très toxiques pour les organismes aquatiques-A-:
 
@@ -2174,7 +2176,8 @@ Produits explosifs (fabrication).
 1. Fabrication industrielle par transformation chimique de : La quantité totale
 de matière active susceptible d'être présente dans l'installation étant (3) :
 
-1. Non soumis à la taxe
+1. La quantité totale de matière active susceptible d'être présente dans
+l'installation étant :
 
 -
 
@@ -2185,12 +2188,20 @@ AS
 
 6
 
+a) Supérieure ou égale à 10 t
+
+10
+
 b) Inférieure à 10 t
 
 
 A
 
 3
+
+b) Inférieure à 10 t
+
+6
 
 2. Autres fabrications (1), chargement, encartouchage, conditionnement, études
 et recherches, essais, à l'exclusion des opérations effectuées sur le site
@@ -2199,7 +2210,8 @@ montage, amorçage, mise en liaison électrique ou pyrotechnique. La quantité
 totale de matière active susceptible d'être présente dans l'installation étant
 (3) :
 
-2. La quantité susceptible d'être présente dans l'installation étant :
+2. La quantité totale de matière active susceptible d'être présente dans
+l'installation étant :
 
 a) Supérieure ou égale à 10 t
 
@@ -2208,7 +2220,7 @@ AS
 
 6
 
-a) supérieure à 10 t
+a) Supérieure ou égale à 10 t
 
 10
 
@@ -2219,7 +2231,7 @@ A
 
 3
 
-b) inférieure ou égale à 10 t, sauf cas c)
+b) Supérieure à 100 kg, mais inférieure à 10 t
 
 6
 
@@ -2256,7 +2268,8 @@ Produits explosifs (stockage de)
 La quantité équivalente totale de matière active susceptible d'être présente
 dans l'installation étant :
 
-La quantité totale susceptible d'être présente dans l'installation étant :
+La quantité équivalente totale de matière active susceptible d'être présente
+dans l'installation étant :
 
 1. supérieure ou égale à 10 t
 
@@ -2265,7 +2278,7 @@ AS
 
 6
 
-1. supérieure à 10 t de matière active
+a) Supérieure ou égale à 10 t
 
 6
 
@@ -2276,8 +2289,7 @@ A
 
 3
 
-2. supérieure à 2 t de matière active, à l'exclusion des dépôts de cartouches ou
-munitions de guerre contenant moins de 1 000 000 de cartouches
+b) Supérieure ou égale à 500 kg, mais inférieure à 10 t
 
 2
 
@@ -2298,14 +2310,14 @@ division de risques 1. 1 selon la formule : Quantité équivalente totale = A + 
 relatives aux produits classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6
 lorsque ceux-ci sont en emballages fermés conformes aux dispositions
 réglementaires en matière de transport, A représentant la quantité relative aux
-produits classés en division de risque 1.1 lorsque ceux-ci sont en emballages
+produits classés en division de risque 1. 1 lorsque ceux-ci sont en emballages
 fermés conformes aux dispositions réglementaires en matière de transport ainsi
 que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes
 aux dispositions réglementaires en matière de transport.
 
 1312
 
-Produits explosifs (mise en œuvre de) à des fins industrielles telles que
+Produits explosifs (mise en oeuvre de) à des fins industrielles telles que
 découpage, formage, emboutissage, placage de métaux.
 
 
@@ -2419,10 +2431,10 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
-- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
+-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
 substances combustibles ;
 
-- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
+-supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
 combustibles.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -2493,35 +2505,35 @@ DC
 1331
 
 Engrais solides simples et composés à base de nitrate d'ammonium correspondant
-aux spécifications du règlement européen n° 2003/2003 du Parlement européen et
+aux spécifications du règlement européen n o 2003/2003 du Parlement européen et
 du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
 équivalente NF U 42-001 (stockage de) :
 
 I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une
 décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium
-avec du phosphate et / ou de la potasse) dans lesquels la teneur en azote due au
+avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au
 nitrate d'ammonium est :
 
-- de 15,75 % en poids ou moins sans limitation de teneur en matières
-combustibles ;
+-de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles
+;
 
-- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum
-0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux
+-comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum
+0,4 % de matières organiques ou combustibles au total, soit sont conformes aux
 exigences de l'annexe III-2 (*) du règlement européen.
 
 Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon
 le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
 (voir Recommandations des Nations unies relatives au transport des marchandises
-dangereuses : Manual of Tests and Criteria, partie III, sous-section 38. 2).
+dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
 composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse)
 dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
-- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
+-supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
 III-2 (*) du règlement européen (**) ;
 
-- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
+-supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
 sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du
 règlement européen.
 
@@ -2607,7 +2619,7 @@ règlement européen n° 2003/2003 ou à la norme française équivalente NF U 4
 
 Cette rubrique s'applique :
 
-- aux matières rejetées ou écartées au cours du processus de fabrication, au
+-aux matières rejetées ou écartées au cours du processus de fabrication, au
 nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
 simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
 d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
@@ -2616,12 +2628,11 @@ subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir êtr
 utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
 rubriques 1330 et 1331-II ;
 
-- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
 azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
-exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
-
-- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
-satisfont pas aux exigences de l'annexe III-2 (**).
+exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;-aux engrais visés dans les
+rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de
+l'annexe III-2 (**).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -2651,9 +2662,9 @@ b) supérieure ou égale à 10 t mais inférieure à 50 t
 
 (*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à
 base de nitrate d'ammonium et à forte teneur en azote du règlement européen n°
-2003/2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
+2003 / 2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
 section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement
-européen n° 2003/2003.
+européen n° 2003 / 2003.
 
 1410
 
@@ -2941,7 +2952,7 @@ A
 2
 
 2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à
-2,5 × 10 5 Pa
+2.5 × 105 Pa
 
 
 A
@@ -2949,8 +2960,8 @@ A
 1
 
 3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à
-2,5 × 10 5 Pa lorsque le volume de gaz emmagasiné (calculé à la température de
-15 o C et à la pression de 10 5 Pa) est supérieure à 1 200 l
+2.5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15
+o C et à la pression de 105 Pa) est supérieure à 1 200 l
 
 
 A
@@ -3108,7 +3119,7 @@ où
 
 A représente la capacité relative aux liquides extrêmement inflammables
 (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est
-inférieur à 0 oC et dont la pression de vapeur à 35 o C est supérieure à 105
+inférieur à 0 o C et dont la pression de vapeur à 35 o C est supérieure à 105
 pascals
 
 B représente la capacité relative aux liquides inflammables de la 1ère catégorie
@@ -3388,7 +3399,7 @@ bitumineuses (dépôts de)
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 50 t
+1. supérieure ou égale à 500 t
 
 
 A
@@ -3435,7 +3446,7 @@ A
 2
 
 A. La quantité totale susceptible d'être présente dans l'installation étant
-supérieure ou égale à 2,5 t
+supérieure ou égale à 2, 5 t
 
 3
 
