@@ -6,6 +6,6 @@ indique, sur justification de leur identité, les noms, prénoms et adresses des
 personnes ayant vendu ou ayant confié les matières ou les ouvrages repris à
 l'article 56 J quaterdecies.
 
-Il comporte également la nature, le nombre, le poids, le titre et l'origine de
-ces matières ou de ces ouvrages afin de permettre leur identification
-individuelle.
+Il comporte également la nature, le nombre, le poids, le titre, la date d'entrée
+et de sortie et l'origine de ces matières ou de ces ouvrages afin de permettre
+leur identification individuelle.
