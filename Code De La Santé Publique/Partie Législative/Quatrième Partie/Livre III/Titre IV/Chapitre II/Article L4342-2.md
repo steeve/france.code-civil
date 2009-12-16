@@ -1,11 +1,18 @@
 Article L4342-2
 ----
-Les orthoptistes sont tenus de faire enregistrer sans frais leurs diplômes,
-certificats, titres ou autorisation auprès de l'agence régionale de santé ou de
-l'organisme désigné à cette fin. En cas de changement de situation
-professionnelle, ils en informent l'agence ou cet organisme.
+Sont tenues de se faire enregistrer auprès du service ou de l'organisme désigné
+à cette fin par le ministre chargé de la santé, avant leur entrée dans la
+profession, les personnes ayant obtenu un titre de formation ou une autorisation
+requis pour l'exercice de la profession d'orthoptiste.
 
-Il est établi, pour chaque département, par l'agence régionale de santé ou
+L'enregistrement de ces personnes est réalisé après vérification des pièces
+justificatives attestant de leur identité et de leur titre de formation ou de
+leur autorisation. Elles informent le même service ou organisme de tout
+changement de situation professionnelle.
+
+La procédure d'enregistrement est sans frais.
+
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
 l'organisme désigné à cette fin, une liste de cette profession, portée à la
 connaissance du public.
 
@@ -15,10 +22,5 @@ autorisation ont été enregistrés conformément au premier alinéa.
 
 Les dispositions des articles L. 4311-26 et L. 4311-27 sont applicables aux
 orthoptistes.
-
-L'orthoptiste lors de la délivrance de l'autorisation ministérielle d'exercice,
-et le prestataire de services lors de sa déclaration, doivent posséder les
-connaissances linguistiques nécessaires à l'exercice de la profession et celles
-relatives aux systèmes de poids et mesures utilisés en France.
 
 Les modalités d'application du présent article sont fixées par décret.

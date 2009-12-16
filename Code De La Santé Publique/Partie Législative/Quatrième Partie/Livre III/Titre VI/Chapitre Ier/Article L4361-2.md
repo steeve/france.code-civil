@@ -1,22 +1,23 @@
 Article L4361-2
 ----
-Les audioprothésistes sont tenus de faire enregistrer sans frais leurs diplômes,
-certificats ou titres auprès de l'agence régionale de santé ou de l'organisme
-désigné à cette fin. En cas de changement de situation professionnelle, ils en
-informent l'agence ou cet organisme.
+Sont tenues de se faire enregistrer auprès du service ou de l'organisme désigné
+à cette fin par le ministre chargé de la santé, avant leur entrée dans la
+profession, les personnes ayant obtenu un titre de formation ou une autorisation
+requis pour l'exercice de la profession d'audioprothésiste.
 
-Il est établi, pour chaque département, par l'agence régionale de santé ou
+L'enregistrement de ces personnes est réalisé après vérification des pièces
+justificatives attestant de leur identité et de leur titre de formation ou de
+leur autorisation. Elles informent le même service ou organisme de tout
+changement de résidence ou de situation professionnelle.
+
+La procédure d'enregistrement est sans frais.
+
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
 l'organisme désigné à cette fin, une liste de cette profession, portée à la
 connaissance du public.
 
 Peuvent exercer la profession d'audioprothésiste les personnes titulaires d'un
 diplôme, certificat ou titre mentionné aux articles L. 4361-3 et L. 4361-4
 enregistré conformément au premier alinéa.
-
-L'audioprothésiste, lors de la délivrance de l'autorisation ministérielle
-d'exercice, et le prestataire de services, lors de sa déclaration, doivent
-posséder les connaissances linguistiques nécessaires à l'exercice de la
-profession et celles relatives aux systèmes de poids et mesures utilisés en
-France.
 
 Les modalités d'application du présent article sont fixées par décret.

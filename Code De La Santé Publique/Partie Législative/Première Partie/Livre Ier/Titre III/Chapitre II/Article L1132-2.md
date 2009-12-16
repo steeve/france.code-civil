@@ -1,11 +1,11 @@
 Article L1132-2
 ----
-Les modalités d'application du présent chapitre sont déterminées par décret en
-Conseil d'Etat, et notamment :
+Peuvent exercer la profession de conseiller en génétique et en porter le titre
+les personnes titulaires d'un titre de formation figurant sur une liste fixée
+par arrêté du ministre chargé de la santé.
 
-1° Les conditions de formation, de diplôme et d'expérience nécessaires pour
-exercer la profession de conseiller en génétique ; les conditions reconnues
-équivalentes et le régime d'autorisations dérogatoires délivrées par le ministre
-chargé de la santé ;
-
-2° Les conditions d'exercice et les règles professionnelles.
+Par dérogation au premier alinéa, peuvent également exercer la profession de
+conseiller en génétique et en porter le titre les personnes qui, à la date du 6
+octobre 2007, ont exercé ou exerçaient des fonctions dévolues aux conseillers en
+génétique et ont obtenu l'autorisation d'exercer en cette qualité dans des
+conditions fixées par arrêté du ministre chargé de la santé.

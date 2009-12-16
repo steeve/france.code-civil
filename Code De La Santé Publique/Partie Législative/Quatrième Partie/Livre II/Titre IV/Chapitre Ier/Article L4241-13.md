@@ -2,7 +2,8 @@ Article L4241-13
 ----
 Est qualifiée préparateur en pharmacie hospitalière dans les établissements
 publics de santé toute personne titulaire du diplôme de préparateur en pharmacie
-hospitalière défini par arrêté pris par le ministre chargé de la santé.
+hospitalière défini par arrêté pris par le ministre chargé de la santé, après
+avis de la commission prévue à l'article L. 4241-5.
 
 Les préparateurs en pharmacie hospitalière sont autorisés à seconder le
 pharmacien chargé de la gérance de la pharmacie à usage intérieur ainsi que les

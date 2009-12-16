@@ -10,7 +10,7 @@ et les conditions de validité sont fixées par arrêté du ministre chargé de 
 santé.
 
 Toutefois, les certificats, titres ou attestations délivrés dans un Etat non
-membre de la Communauté européenne ou n'étant pas partie à l'accord sur l'Espace
+membre de l'Union européenne ou n'étant pas partie à l'accord sur l'Espace
 économique européen ne peuvent permettre l'exercice de la profession d'infirmier
 ou d'infirmière que dans la mesure où le diplôme d'Etat français ouvre lui-même
 l'exercice de celle-ci dans cet Etat. Cette dernière disposition n'est

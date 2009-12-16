@@ -7,7 +7,7 @@ sage-femme s'il n'est :
 4131-1, L. 4141-3 ou L. 4151-5 ;
 
 2° De nationalité française, de citoyenneté andorrane ou ressortissant d'un Etat
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+membre de l'Union européenne ou partie à l'accord sur l'Espace économique
 européen, du Maroc ou de la Tunisie, sous réserve de l'application, le cas
 échéant, soit des règles fixées au présent chapitre, soit de celles qui
 découlent d'engagements internationaux autres que ceux mentionnés au présent
@@ -17,9 +17,6 @@ chapitre ;
 chirurgiens-dentistes ou à un tableau de l'ordre des sages-femmes, sous réserve
 des dispositions des articles L. 4112-6 et L. 4112-7.
 
-Les médecins, sages-femmes et chirurgiens-dentistes titulaires d'un diplôme,
-certificat ou autre titre mentionné aux articles L. 4131-1, L. 4141-3 ou L.
-4151-5 ayant effectué la totalité du cursus en France et obtenu leur diplôme,
-certificat et titre en France peuvent exercer dans les mêmes conditions, suivant
-les mêmes règles et dispositions que les praticiens dont les nationalités
-relèvent du 2° du présent article.
+Les médecins, chirurgiens-dentistes ou sages-femmes titulaires d'un diplôme,
+certificat ou autre titre mentionné aux 1° des articles L. 4131-1, L. 4141-3 ou
+L. 4151-5 sont dispensés de la condition de nationalité prévue au 2°.

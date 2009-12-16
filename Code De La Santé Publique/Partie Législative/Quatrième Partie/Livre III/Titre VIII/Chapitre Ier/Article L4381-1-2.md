@@ -2,7 +2,7 @@ Article L4381-1-2
 ----
 Sous réserve de réciprocité et sous réserve qu'un accord international ait été
 ratifié en ce sens, les titulaires d'un titre de formation obtenu dans un Etat
-non membre de la Communauté européenne ou non partie à l'accord sur l'Espace
+non membre de l'Union européenne ou non partie à l'accord sur l'Espace
 économique européen et permettant l'exercice des professions citées au présent
 livre ainsi que de celles mentionnées aux articles L. 4241-1 et L. 4241-13
 peuvent être autorisés à exercer leur profession en France. Cette autorisation
@@ -16,5 +16,5 @@ et les modalités prévues pour la reconnaissance des qualifications
 professionnelles des ressortissants communautaires. Les praticiens doivent faire
 la preuve d'une connaissance suffisante de la langue française dans des
 conditions fixées par voie réglementaire. Ils sont soumis aux règles relatives
-aux conditions d'exercice ainsi qu'aux règles professionnelles, déontologiques
-et disciplinaires applicables en France.
+aux conditions d'exercice ainsi qu'aux règles professionnelles applicables en
+France.

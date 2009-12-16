@@ -1,14 +1,13 @@
 Article L1132-4
 ----
-Comme il est dit à l'article 226-28 du code pénal ci-après reproduit :
+Le conseiller en génétique peut faire usage de son titre de formation dans la
+langue de l'Etat qui le lui a délivré. Il est tenu de faire figurer le lieu et
+l'établissement où il a été obtenu.
 
-" Le fait de rechercher l'identification d'une personne par ses empreintes
-génétiques à des fins qui ne seraient ni médicales ni scientifiques ou en dehors
-d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+Dans le cas où le titre de formation de l'Etat d'origine, membre ou partie, est
+susceptible d'être confondu avec un titre exigeant en France une formation
+complémentaire, l'autorité compétente peut décider que le conseiller en
+génétique fera état du titre de formation de l'Etat d'origine, membre ou partie,
+dans une forme appropriée qu'elle lui indique.
 
-Est puni des mêmes peines le fait de divulguer des informations relatives à
-l'identification d'une personne par ses empreintes génétiques ou de procéder à
-l'identification d'une personne par ses empreintes génétiques sans être
-titulaire de l'agrément prévu à l'article L. 1131-3 du code de la santé
-publique. "
+L'intéressé porte le titre professionnel de conseiller en génétique.

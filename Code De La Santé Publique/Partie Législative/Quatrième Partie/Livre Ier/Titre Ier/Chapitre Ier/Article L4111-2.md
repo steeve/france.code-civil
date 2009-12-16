@@ -54,28 +54,29 @@ connaissances et à l'autorisation d'exercice.
 
 I bis.-Le ministre chargé de la santé peut également, après avis de la
 commission mentionnée au I, autoriser individuellement à exercer des
-ressortissants d'un Etat autre que ceux membres de la Communauté européenne ou
-parties à l'accord sur l'Espace économique européen, titulaires d'un titre de
-formation obtenu dans l'un de ces Etats et dont l'expérience professionnelle est
-attestée par tout moyen. Le nombre maximum de candidats susceptibles d'être
-autorisés à exercer pour chaque profession et, en ce qui concerne la profession
-de médecin, pour chaque discipline ou spécialité, est fixé par arrêté du
-ministre chargé de la santé.
+ressortissants d'un Etat autre que ceux membres de l'Union européenne ou parties
+à l'accord sur l'Espace économique européen, titulaires de titres de formation
+obtenus dans l'un de ces Etats et dont l'expérience professionnelle est attestée
+par tout moyen. Le nombre maximum de candidats susceptibles d'être autorisés à
+exercer pour chaque profession et, en ce qui concerne la profession de médecin,
+pour chaque discipline ou spécialité, est fixé par arrêté du ministre chargé de
+la santé.
 
 Nul ne peut être candidat plus de trois fois à l'autorisation d'exercice.
 
-II.-L'autorité compétente peut également, après avis d'une commission, composée
+II. - L'autorité compétente peut également, après avis d'une commission composée
 notamment de professionnels, autoriser individuellement à exercer la profession
-de médecin, de chirurgien-dentiste ou de sage-femme les ressortissants d'un Etat
-membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen, titulaires d'un titre de formation délivré par un
-Etat tiers, et reconnu dans un Etat, membre ou partie, autre que la France,
-permettant d'y exercer légalement la profession et dans lequel l'intéressé a
-acquis une expérience professionnelle pertinente dont il atteste par tout moyen.
+de médecin dans la spécialité concernée, de chirurgien-dentiste, le cas échéant
+dans la spécialité, ou de sage-femme les ressortissants d'un Etat membre de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, titulaires de titres de formation délivrés par un Etat tiers, et
+reconnus dans un Etat, membre ou partie, autre que la France, permettant d'y
+exercer légalement la profession.
+
 Dans le cas où l'examen des qualifications professionnelles attestées par
 l'ensemble des titres de formation et de l'expérience professionnelle pertinente
 fait apparaître des différences substantielles au regard des qualifications
 requises pour l'accès à la profession et son exercice en France, l'autorité
 compétente exige que l'intéressé se soumette à une mesure de compensation qui
 consiste, au choix du demandeur, en une épreuve d'aptitude ou en un stage
-d'adaptation.
+d'adaptation dans la spécialité ou le domaine concerné.

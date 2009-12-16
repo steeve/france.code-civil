@@ -8,7 +8,7 @@ l'étranger, soit d'une suspension prononcée dans les conditions prévues à
 l'article L. 4311-26.
 
 Toutefois, lorsque le demandeur est frappé d'une interdiction d'exercer la
-profession dans un autre pays qu'un Etat membre de la Communauté européenne ou
-autre Etat partie à l'accord sur l'Espace économique européen, il peut être
-autorisé à exercer cette profession en France par décision du directeur général
-de l'agence régionale de santé.
+profession dans un autre pays qu'un Etat membre de l'Union européenne ou autre
+Etat partie à l'accord sur l'Espace économique européen, il peut être autorisé à
+exercer cette profession en France par décision du directeur général de l'agence
+régionale de santé.

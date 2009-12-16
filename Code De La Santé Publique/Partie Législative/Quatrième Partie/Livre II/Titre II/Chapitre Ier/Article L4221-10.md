@@ -1,7 +1,7 @@
 Article L4221-10
 ----
 Par dérogation à l'article L. 4221-1, les personnes qui sont titulaires d'un
-diplôme, certificat ou autre titre mentionné aux articles L. 4221-2 à L. 4221-8,
+diplôme, certificat ou autre titre mentionné aux articles L. 4221-2 à L. 4221-5,
 mais qui ne justifient pas de l'une des nationalités mentionnées à l'article L.
 4221-1, ainsi que les personnes françaises ou étrangères titulaires d'un
 diplôme, titre ou certificat de valeur scientifique attestée par le ministre

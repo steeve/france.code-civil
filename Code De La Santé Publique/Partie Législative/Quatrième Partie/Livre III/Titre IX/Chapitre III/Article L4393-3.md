@@ -1,46 +1,38 @@
 Article L4393-3
 ----
-La chambre disciplinaire de première instance détient en premier ressort le
-pouvoir disciplinaire à l'égard des professionnels, dans les conditions fixées
-par les dispositions du chapitre VII du présent titre.
+L'autorité compétente peut, après avis d'une commission composée notamment de
+professionnels, autoriser individuellement à exercer la profession d'ambulancier
+les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui ont suivi avec succès un
+cycle d'études secondaires et qui, sans posséder l'un des diplômes mentionnés à
+l'article L. 4393-2, sont titulaires :
 
-Elle comprend, pour chaque profession représentée au sein du conseil, une
-section composée de quatre membres titulaires et quatre membres suppléants.
+1° D'un titre de formation délivré par un Etat, membre ou partie, et requis par
+l'autorité compétente d'un Etat, membre ou partie, qui réglemente l'accès à
+cette profession ou son exercice, et permettant d'exercer légalement ces
+fonctions dans cet Etat ;
 
-Elle s'adjoint, pour les litiges concernant les relations entre professionnels
-membres du conseil et usagers, deux représentants de ces derniers désignés par
-le représentant de l'Etat dans la région, sur des listes présentées par des
-associations agréées mentionnées à l'article L. 1114-1.
+2° Ou, lorsque les intéressés ont exercé dans un Etat, membre ou partie, qui ne
+réglemente pas l'accès à cette profession ou son exercice, d'un titre de
+formation délivré par un Etat, membre ou partie, attestant de la préparation à
+l'exercice de la profession, accompagné d'une attestation justifiant, dans cet
+Etat, de son exercice à temps plein pendant deux ans au cours des dix dernières
+années ou à temps partiel pendant une durée correspondante au cours de la même
+période. Cette condition n'est pas applicable lorsque la formation conduisant à
+cette profession est réglementée ;
 
-Lorsque le litige concerne les relations entre des membres du conseil relevant
-de plusieurs professions, la chambre disciplinaire statue dans une formation
-mixte composée de deux représentants de chacune des professions concernées.
+3° Ou d'un titre de formation délivré par un Etat tiers et reconnu dans un Etat,
+membre ou partie, autre que la France, permettant d'y exercer légalement la
+profession.
 
-La chambre disciplinaire de première instance est présidée par un membre en
-fonction ou honoraire du corps des conseillers des tribunaux administratifs et
-des cours administratives d'appel, désigné par le vice-président du Conseil
-d'Etat. Le cas échéant, un ou des suppléants peuvent être nommés dans les mêmes
-conditions.
+Dans ces cas, lorsque l'examen des qualifications professionnelles attestées par
+l'ensemble des titres de formation et de l'expérience professionnelle pertinente
+fait apparaître des différences substantielles au regard des qualifications
+requises pour l'accès et l'exercice de la profession en France, l'autorité
+compétente exige que l'intéressé se soumette à une mesure de compensation qui
+consiste, au choix du demandeur, en une épreuve d'aptitude ou en un stage
+d'adaptation.
 
-La chambre disciplinaire statue en formation collégiale comprenant, outre le
-président, au moins la moitié des membres, sous réserve des exceptions tenant à
-l'objet de la saisine ou du litige ou à la nature des questions à examiner ou à
-juger.
-
-Les décisions sont prises à la majorité des voix. En cas de partage égal des
-voix, la voix du président est prépondérante.
-
-Les membres de la chambre disciplinaire ne peuvent siéger à raison de faits dont
-ils auraient eu à connaître en qualité de membre de la section des assurances
-sociales mentionnée à l'article L. 145-7-1 du code de la sécurité sociale.
-
-Les fonctions exercées par les membres des chambres disciplinaires de première
-instance sont incompatibles avec l'exercice d'autres fonctions dans les
-assemblées interprofessionnelles et les collèges professionnels.
-
-Lorsqu'une chambre disciplinaire de première instance se trouve dans
-l'impossibilité de fonctionner, le président du conseil transmet les plaintes à
-une ou plusieurs autres chambres qu'il désigne.
-
-Le président de l'assemblée interprofessionnelle notifie les décisions de la
-chambre disciplinaire au représentant de l'Etat dans le département.
+La délivrance de l'autorisation d'exercice permet au bénéficiaire d'exercer la
+profession dans les mêmes conditions que les personnes titulaires de l'un des
+diplômes mentionnés à l'article L. 4393-2.

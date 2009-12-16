@@ -1,7 +1,7 @@
 Article L4221-4
 ----
 Ouvre droit à l'exercice de la profession de pharmacien aux ressortissants d'un
-Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen :
 
 1° Un titre de formation de pharmacien délivré par l'un de ces Etats

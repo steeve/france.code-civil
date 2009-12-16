@@ -16,5 +16,5 @@ et les modalités prévues pour la reconnaissance des qualifications
 professionnelles des ressortissants communautaires, aux praticiens ayant fait la
 preuve d'une connaissance suffisante de la langue française dont les conditions
 sont fixées par voie réglementaire. Ils sont soumis aux règles relatives aux
-conditions d'exercice ainsi qu'aux règles professionnelles, déontologiques et
-disciplinaires applicables en France.
+conditions d'exercice ainsi qu'aux règles professionnelles applicables en
+France.
