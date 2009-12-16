@@ -1,12 +1,15 @@
 Article L48
 ----
 La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre
-l'installation et l'exploitation des équipements du réseau :
+l'installation et l'exploitation des équipements du réseau, y compris les
+équipements des réseaux à très haut débit fixes et mobiles :
 
-a) Dans les parties des immeubles collectifs et des lotissements affectées à un
-usage commun ;
+a) Sur et dans les parties des immeubles collectifs et des lotissements
+affectées à un usage commun, y compris celles pouvant accueillir des
+installations ou équipements radioélectriques ;
 
-b) Sur le sol et dans le sous-sol des propriétés non bâties ;
+b) Sur le sol et dans le sous-sol des propriétés non bâties, y compris celles
+pouvant accueillir des installations ou équipements radioélectriques ;
 
 c) Au-dessus des propriétés privées dans la mesure où l'exploitant se borne à
 utiliser l'installation d'un tiers bénéficiant de servitudes sans compromettre,
@@ -59,7 +62,7 @@ Le bénéficiaire de la servitude est responsable de tous les dommages qui
 trouvent leur origine dans les équipements du réseau. Il est tenu d'indemniser
 l'ensemble des préjudices directs et certains causés tant par les travaux
 d'installation et d'entretien que par l'existence ou le fonctionnement des
-ouvrages. A défaut d'accord amiable, l'indemnité est fixée par la juridiction de
+ouvrages.A défaut d'accord amiable, l'indemnité est fixée par la juridiction de
 l'expropriation saisie par la partie la plus diligente.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent

@@ -12,20 +12,19 @@ les conditions ci-après :
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services
 aux dispositions du présent code et des textes et décisions pris pour son
-application ou du règlement (CE) n° 717 / 2007 du Parlement européen et du
-Conseil, du 27 juin 2007, concernant l'itinérance sur les réseaux publics de
-téléphonie mobile à l'intérieur de la Communauté et modifiant la directive 2002
-/ 21 / CE, ainsi qu'aux prescriptions d'une décision d'attribution ou
-d'assignation de fréquence prise par l'autorité en application de l'article 26
-de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
-communication, l'exploitant ou le fournisseur est mis en demeure par le
-directeur des services de l'Autorité de régulation des communications
-électroniques et des postes de s'y conformer dans un délai déterminé. Cette mise
-en demeure peut être assortie d'obligations de se conformer à des étapes
-intermédiaires dans le même délai. Ce délai ne peut être inférieur à un mois
-sauf en cas d'infractions graves et répétées ou si l'exploitant ou le
-fournisseur en est d'accord.L'autorité peut rendre publique cette mise en
-demeure ;
+application ou du règlement (CE) n° 717/2007 du Parlement européen et du Conseil
+du 27 juin 2007 concernant l'itinérance sur les réseaux publics de
+communications mobiles à l'intérieur de la Communauté, ainsi qu'aux
+prescriptions d'une décision d'attribution ou d'assignation de fréquence prise
+par l'autorité en application de l'article 26 de la loi n° 86-1067 du 30
+septembre 1986 relative à la liberté de communication, l'exploitant ou le
+fournisseur est mis en demeure par le directeur des services de l'Autorité de
+régulation des communications électroniques et des postes de s'y conformer dans
+un délai déterminé. Cette mise en demeure peut être assortie d'obligations de se
+conformer à des étapes intermédiaires dans le même délai. Ce délai ne peut être
+inférieur à un mois sauf en cas d'infractions graves et répétées ou si
+l'exploitant ou le fournisseur en est d'accord.L'autorité peut rendre publique
+cette mise en demeure ;
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme
 pas dans les délais fixés à une décision prise en application de l'article L.

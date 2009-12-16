@@ -149,6 +149,19 @@ radiocommunications mobiles en vue de permettre, sur une zone qui n'est
 couverte, à l'origine, par aucun opérateur de radiocommunications mobiles de
 deuxième génération, l'accueil, sur le réseau du premier, des clients du second.
 
+17° bis Itinérance ultramarine.
+
+On entend par prestation d'itinérance ultramarine celle qui est fournie par un
+opérateur de radiocommunications mobiles déclaré sur le territoire de la France
+métropolitaine, d'un département d'outre-mer, de Mayotte, de Saint-Barthélemy,
+de Saint-Martin ou de Saint-Pierre-et-Miquelon à un autre opérateur de
+radiocommunications mobiles fournissant des services de communications mobiles
+sur réseau public terrestre dans un autre de ces territoires, en vue de
+permettre l'utilisation du réseau du premier, dit "opérateur du réseau visité",
+par les clients du second, dit "opérateur du réseau d'origine", pour émettre ou
+recevoir des communications à destination de l'un de ces territoires ou d'un
+Etat membre de la Communauté européenne.
+
 18° Données relatives au trafic.
 
 On entend par données relatives au trafic toutes les données traitées en vue de
