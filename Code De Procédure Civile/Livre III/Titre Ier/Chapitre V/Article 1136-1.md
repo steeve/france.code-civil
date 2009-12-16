@@ -1,5 +1,10 @@
 Article 1136-1
 ----
-Les modalités de désignation et de rémunération ainsi que le déroulement de la
-mission du professionnel qualifié désigné en application du 9° de l'article 255
-du code civil sont soumis aux règles applicables en matière d'expertise.
+Les demandes relatives au fonctionnement des régimes matrimoniaux et des
+indivisions entre personnes liées par un pacte civil de solidarité ou entre
+concubins ainsi que celles relatives à la liquidation et au partage des intérêts
+patrimoniaux des époux, des personnes liées par un pacte civil de solidarité et
+des concubins relevant de la compétence du juge aux affaires familiales
+obéissent aux règles de la procédure en matière contentieuse applicable devant
+le tribunal de grande instance. Les débats sont publics, sous réserve de
+l'article 435. La décision est rendue publiquement.

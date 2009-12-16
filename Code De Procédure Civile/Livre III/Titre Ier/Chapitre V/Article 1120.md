@@ -1,4 +1,5 @@
 Article 1120
 ----
-Un majeur protégé ne peut acquiescer au jugement de divorce, ou se désister de
-l'appel, qu'avec l'autorisation du juge des tutelles.
+Les modalités de désignation et de rémunération ainsi que le déroulement de la
+mission du professionnel qualifié désigné en application du 9° de l'article 255
+du code civil sont soumis aux règles applicables en matière d'expertise.

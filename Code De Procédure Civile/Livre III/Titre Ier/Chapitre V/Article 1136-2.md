@@ -1,8 +1,6 @@
 Article 1136-2
 ----
-Les modalités de désignation ainsi que le déroulement de la mission du notaire
-désigné en application du 10° de l'article 255 du code civil sont soumis aux
-dispositions des articles 233 à 237, 239, 245, 264 à 267, 273, 275, 276 et 278 à
-280 du présent code, sans préjudice des règles applicables à sa profession.
-
-Si le notaire établit l'acte de partage, il en fait rapport au juge.
+Les dispositions de la section VI du chapitre II du titre III du livre III sont,
+sous réserve des dispositions de l'article 267 du code civil, applicables au
+partage des intérêts patrimoniaux des époux, des personnes liées par un pacte
+civil de solidarité et des concubins.

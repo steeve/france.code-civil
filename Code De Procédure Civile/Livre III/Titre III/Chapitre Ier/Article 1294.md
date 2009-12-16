@@ -1,7 +1,7 @@
 Article 1294
 ----
 Le jugement prononçant la séparation est publié dans un journal diffusé dans le
-ressort du tribunal qui l'a rendu.
+ressort de la juridiction qui l'a rendu.
 
 Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le
 mariage a été célébré à fin de mention en marge de l'acte de célébration.
