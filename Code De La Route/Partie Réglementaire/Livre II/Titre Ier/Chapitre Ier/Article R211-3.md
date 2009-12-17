@@ -1,36 +1,34 @@
 Article R211-3
 ----
-Nul ne peut apprendre à conduire un véhicule à moteur, en vue de l'obtention du
-permis de conduire, sur une voie ouverte à la circulation publique s'il n'est
-détenteur d'un livret d'apprentissage établi dans les conditions fixées par
-arrêté du ministre chargé des transports.
+Pour apprendre à conduire un véhicule à moteur sur une voie ouverte à la
+circulation publique, en vue de l'obtention du permis de conduire, il faut :
 
-L'âge minimum requis pour la détention d'un livret d'apprentissage est fixé à
-seize ans.
+1° Etre âgé de seize ans minimum ;
 
-Le livret est délivré par le préfet du département du domicile du demandeur. Sa
-durée de validité est limitée à trois ans et peut être prorogée. Ses conditions
-de délivrance et de prorogation sont fixées par arrêté du ministre chargé des
-transports.
+2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées
+par arrêté du ministre chargé des transports, et précisant les objectifs et la
+progressivité de la formation ;
 
-Le préfet peut procéder au retrait du livret en cas d'infraction commise à
-l'occasion de la conduite d'un véhicule punie de la peine complémentaire de
-suspension du permis de conduire.
+3° Etre détenteur du formulaire de la demande de permis de conduire validée par
+le préfet du département dans lequel cette demande a été déposée, ou d'un
+récépissé du dépôt de la demande pour la catégorie B du permis de conduire
+délivré par le préfet pour une durée maximale de deux mois, dans les conditions
+fixées par arrêté du ministre chargé des transports ;
 
-Il peut également procéder à ce retrait en cas de refus du détenteur du livret
-de se soumettre aux contrôles pédagogiques prévus au cours de l'apprentissage.
-Cette décision de retrait n'intervient qu'après que la personne intéressée a été
-mise à même de présenter des observations écrites et, le cas échéant, sur sa
-demande, des observations orales.
+4° Etre, durant l'apprentissage, sous la surveillance constante et directe d'un
+enseignant, titulaire de l'autorisation d'enseigner la conduite des véhicules à
+moteur mentionnée aux articles L. 212-1 et R. 212-1 correspondant à la catégorie
+du véhicule utilisé, ou d'un accompagnateur titulaire, depuis au moins cinq ans
+sans interruption, du permis de conduire correspondant à la catégorie du
+véhicule utilisée.L'accompagnateur doit avoir suivi, dans les conditions
+définies par arrêté du ministre chargé des transports, une formation spécifique
+le préparant à assurer cette fonction et à utiliser, dans de bonnes conditions,
+les dispositifs de double commande dont doit être équipé le véhicule
+conformément aux dispositions mentionnées à l'article R. 317-25. Toutefois,
+cette obligation de formation spécifique ne s'applique pas à l'accompagnateur
+exerçant cette fonction pendant les périodes dites d'apprentissage anticipé de
+la conduite, de conduite supervisée ou de conduite encadrée, mentionnées aux
+articles R. 211-5, R. 211-5-1 et R. 211-5-2 ;
 
-L'élève conducteur doit être sous la surveillance constante et directe d'un
-accompagnateur. Cet accompagnateur doit avoir un âge minimal fixé par un arrêté
-du ministre chargé des transports et être titulaire soit de l'autorisation
-d'enseigner la conduite de véhicules à moteur soit du permis de conduire
-correspondant à la catégorie du véhicule utilisé, sous réserve, dans ce dernier
-cas, que le délai probatoire défini à l'article L. 223-1 soit expiré.
-
-Le fait pour tout élève conducteur de refuser de restituer son livret
-d'apprentissage malgré la notification qui lui aura été faite d'une décision
-prononçant le retrait de ce document est puni de l'amende prévue pour les
-contraventions de la cinquième classe.
+5° Utiliser, durant l'apprentissage, un véhicule conforme aux dispositions de
+l'article R. 317-25.

@@ -5,12 +5,13 @@ alinéas de l'article L. 213-2, doit préciser les mentions ci-dessous.
 
 1° S'agissant des parties contractantes :
 
-- la raison ou la dénomination sociale de l'établissement, le nom de
-l'exploitant et l'adresse de l'établissement agréé, le numéro et la date de
-l'agrément, la mention de la compagnie et du numéro de la police d'assurance
-prévue par l'article L. 211-1 du code des assurances ;
+-la raison ou la dénomination sociale de l'établissement, le nom de l'exploitant
+et l'adresse de l'établissement agréé, le numéro et la date de l'agrément, la
+mention de la compagnie et du numéro de la police d'assurance prévue par
+l'article L. 211-1 du code des assurances ;
 
-- le nom et l'adresse du candidat ;
+-le nom et l'adresse du candidat et, s'il est mineur, de son représentant légal
+;
 
 2° L'objet du contrat ;
 

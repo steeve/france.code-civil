@@ -1,25 +1,30 @@
 Article R211-5
 ----
-I. - L'apprentissage anticipé de la conduite est un apprentissage particulier
+I.-L'apprentissage dit anticipé de la conduite est un apprentissage particulier
 dispensé en vue de l'obtention de la catégorie B du permis de conduire. Cet
 apprentissage ne peut être effectué après annulation ou invalidation du permis
-de conduire de cette catégorie.
+de conduire.
 
-II. - Il comprend deux périodes :
+II.-Il comprend deux périodes :
 
-1° Une période de formation initiale dans une association ou un établissement
-agréé au titre de l'article L. 213-1 ou L. 213-7 ;
+1° Une période de formation initiale dans un établissement ou une association
+agréés au titre de l'article L. 213-1 ou L. 213-7.
 
-2° Une période de conduite accompagnée, au cours de laquelle l'élève conducteur
-est astreint à parcourir une distance minimale et est soumis à deux contrôles
-pédagogiques au moins. Le livret d'apprentissage précise le contenu et la
-progressivité de la formation.
+Cette formation initiale est validée si l'élève conducteur a réussi l'épreuve
+théorique générale de l'examen du permis de conduire ou détient une catégorie du
+permis de conduire obtenue depuis cinq ans au plus, et s'il réussit l'évaluation
+réalisée par l'enseignant de la conduite à la fin de cette période ;
 
-III. - Pendant la période de conduite accompagnée, l'élève conducteur doit être
-sous la surveillance constante et directe d'un accompagnateur. Cet
-accompagnateur doit avoir un âge minimal fixé par un arrêté du ministre chargé
-des transports et être titulaire de la catégorie B du permis de conduire sous
-réserve que le délai probatoire défini à l'article L. 223-1 soit expiré ;
+2° Une période d'apprentissage en conduite accompagnée sous la surveillance
+constante et directe d'un accompagnateur titulaire depuis au moins cinq ans sans
+interruption du permis de conduire de la catégorie B.
 
-IV. - Un arrêté du ministre chargé des transports fixe les conditions
-d'application du présent article.
+Cette période commence par un rendez-vous pédagogique préalable entre
+l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. Deux autres
+rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant
+laquelle l'élève conducteur doit parcourir une distance minimale pendant une
+durée minimale, précisées par arrêté du ministre chargé des transports.
+
+III.-Les conditions dans lesquelles les établissements d'enseignement de la
+conduite peuvent proposer et encadrer un apprentissage anticipé de la conduite
+sont fixées par arrêté du ministre chargé des transports.

@@ -16,7 +16,7 @@ d'un certificat, prévu par arrêté interministériel, constatant l'achèvement
 d'une formation de conducteur de transport de marchandises par route.
 
 La catégorie D du permis de conduire n'autorise la conduite des véhicules de
-transport en commun, sur des trajets dépassant un rayon de 50 kilomètres autour
-du point d'attache habituel du véhicule, que sous certaines conditions relatives
-à l'expérience de conduite ou à la formation du conducteur. Ces conditions sont
-fixées par arrêtés du ministre chargé des transports.
+transport en commun effectuant des services réguliers nationaux de voyageurs
+dont le parcours de ligne ne dépasse pas 50 kilomètres que sous certaines
+conditions relatives à l'âge et à la formation du conducteur. Ces conditions
+sont fixées par arrêtés du ministre chargé des transports.
