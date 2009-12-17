@@ -21,11 +21,12 @@ un membre du conseil peut donner délégation à un autre membre. Aucun membre n
 peut toutefois recevoir plus d'une délégation.
 
 Le conseil se réunit au moins une fois par trimestre sur convocation de son
-président. La convocation est de droit lorsqu'elle est demandée par le directeur
-régional des affaires sanitaires et sociales ou par le tiers des membres du
-conseil. Dans ce cas, la réunion intervient dans les vingt jours suivant la
-réception de la demande. Les questions dont le directeur régional ou le tiers
-des membres demandent l'inscription à l'ordre du jour sont inscrites de droit.
+président. La convocation est de droit lorsqu'elle est demandée par le
+responsable du service mentionné à l'article R. 155-1 ou par le tiers des
+membres du conseil. Dans ce cas, la réunion intervient dans les vingt jours
+suivant la réception de la demande. Les questions dont le responsable du service
+mentionné ci-dessus ou le tiers des membres demandent l'inscription à l'ordre du
+jour sont inscrites de droit.
 
 Outre la commission prévue à l'article R. 142-1 pour le traitement des
 réclamations déposées par les usagers, il peut constituer en son sein des
@@ -47,6 +48,6 @@ consultative, aux séances du conseil ou des commissions ayant reçu délégatio
 celui-ci. Il en est de même du praticien chef de l'échelon local du service du
 contrôle médical, ou de son représentant, lorsque le conseil examine les
 propositions relatives à la politique de gestion du risque ou celles relatives
-aux relations avec les usagers. Le directeur régional des affaires sanitaires et
-sociales, ou son représentant, peut également assister au conseil et être
-entendu à chaque fois qu'il le demande.
+aux relations avec les usagers. Le responsable du service mentionné à l'article
+R. 155-1, peut également assister au conseil et être entendu à chaque fois qu'il
+le demande.

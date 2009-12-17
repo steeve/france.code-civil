@@ -15,6 +15,6 @@ contrat pluriannuel de gestion. Le directeur général peut suspendre ces
 décisions pour demander un complément d'information. Le délai de quinze jours
 court à nouveau à compter du jour où les informations requises ont été fournies
 à la caisse nationale. Les décisions prises par le directeur général portant
-suspension ou annulation sont communiquées au préfet de région intéressé, et,
-lorsqu'elles concernent une délibération, au président du conseil de la Caisse
-nationale de l'assurance maladie des travailleurs salariés.
+suspension ou annulation sont communiquées au service mentionné à l'article R.
+155-1, et, lorsqu'elles concernent une délibération, au président du conseil de
+la Caisse nationale de l'assurance maladie des travailleurs salariés.

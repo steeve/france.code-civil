@@ -28,5 +28,5 @@ le plus âgé est déclaré élu.
 Elle établit sans délai le procès-verbal des opérations auxquelles elle a
 procédé. Ce procès-verbal est affiché aux sièges de la commission de recensement
 des votes de la caisse de base. L'original de ce procès-verbal est remis au
-directeur régional des affaires sanitaires et sociales et conservé par celui-ci
-avec les archives de la commission de recensement des votes.
+directeur de la caisse de base et conservé par celui-ci avec les archives de la
+commission de recensement des votes.

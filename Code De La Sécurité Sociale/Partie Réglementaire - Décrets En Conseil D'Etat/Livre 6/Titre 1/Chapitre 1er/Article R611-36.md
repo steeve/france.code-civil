@@ -6,8 +6,9 @@ votes dont le siège est le même que celui de la commission d'organisation
 
 La commission de recensement des votes comprend :
 
-1° En tant que président, le directeur régional des affaires sanitaires et
-sociales ou son représentant ;
+1° En tant que président, le directeur général de la Caisse nationale du régime
+social des indépendants ou son représentant, ce dernier pouvant être le
+directeur de la caisse de base ;
 
 2° Les électeurs membres de la commission d'organisation électorale ;
 

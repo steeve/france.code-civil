@@ -4,8 +4,8 @@ Dans les six jours qui suivent la dernière des deux dates mentionnées au derni
 alinéa de l'article R. 611-39 toute personne mentionnée à l'article R. 611-30
 peut demander la rectification de la liste.
 
-Le même droit appartient aux directeurs régionaux des affaires sanitaires et
-sociales.
+Le même droit appartient au directeur général de la Caisse nationale du régime
+social des indépendants.
 
 La réclamation est adressée à la commission d'organisation électorale
 compétente. Celle-ci statue dans un délai de deux jours. Ses décisions sont
@@ -15,9 +15,9 @@ avec demande d'avis de réception.
 Dans les trois jours qui suivent la date de réception de la notification, la
 décision de la commission d'organisation électorale peut être frappée de recours
 devant le tribunal d'instance dans le ressort duquel le réclamant a son
-domicile. Le recours formé par le directeur régional des affaires sanitaires et
-sociales est porté devant le tribunal dans le ressort duquel est situé le siège
-de la direction régionale des affaires sanitaires et sociales.
+domicile. Le recours formé par le directeur général de la Caisse nationale du
+régime social des indépendants est porté devant le tribunal dans le ressort
+duquel est situé le siège de la caisse de base.
 
 Le recours devant le tribunal d'instance est présenté dans les formes prévues à
 l'article R. 13, alinéa 1, du code électoral. Le tribunal statue sur simple

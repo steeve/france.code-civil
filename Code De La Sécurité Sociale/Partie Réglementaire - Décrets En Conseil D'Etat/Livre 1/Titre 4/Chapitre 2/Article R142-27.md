@@ -4,9 +4,9 @@ Le secrétaire du tribunal notifie par lettre recommandée, avec demande d'avis 
 réception, dans la quinzaine, les décisions à chacune des parties convoquées à
 l'audience.
 
-Le secrétaire transmet au directeur régional des affaires sanitaires et sociales
-et au chef du service régional de l'inspection du travail, de l'emploi et de la
-protection sociale agricoles, ainsi qu'au ministre chargé de la sécurité sociale
-lorsque la décision concerne le recouvrement des cotisations et contributions
-visées au 3° de l'article L. 225-1-1, dès le retour d'un des avis de réception,
-un exemplaire de la décision portant indication de la date de la notification.
+Le secrétaire transmet au service mentionné à l'article R. 155-1 pour les
+litiges auxquels donne lieu l'application des législations de sécurité sociale
+et au service mentionné à l'article R. 155-2 pour les litiges auxquels donne
+lieu l'application des législations de mutualité sociale agricole, dès le retour
+d'un des avis de réception, un exemplaire de la décision portant indication de
+la date de la notification.

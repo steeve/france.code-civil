@@ -9,7 +9,7 @@ convention d'objectifs et de gestion prévu au quatrième alinéa de l'article L
 228-1, il entend les représentants des ministres signataires pour le compte de
 l'Etat de cette convention.
 
-Il peut également entendre les directeurs régionaux des affaires sanitaires et
-sociales et des administrateurs ou gestionnaires des organismes locaux, ainsi
-que tout membre de corps d'inspection et de contrôle ayant effectué une mission
-dans l'un des organismes gérant la branche ou l'activité de recouvrement.
+Il peut également entendre des membres du service mentionné à l'article R. 155-1
+et des administrateurs ou gestionnaires des organismes locaux, ainsi que tout
+membre de corps d'inspection et de contrôle ayant effectué une mission dans l'un
+des organismes gérant la branche ou l'activité de recouvrement.

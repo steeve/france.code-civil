@@ -13,8 +13,8 @@ leur présentation n'en permet pas l'exploitation, le montant des cotisations es
 fixé forfaitairement par l'organisme chargé du recouvrement, dans les conditions
 prévues au présent article.
 
-En cas de carence de l'organisme créancier, le forfait est établi par le préfet
-de région.
+En cas de carence de l'organisme créancier, le forfait est établi par le
+responsable du service mentionné à l'article R. 155-1.
 
 Lorsque l'employeur n'a pas versé dans les délais prescrits par les articles R.
 243-6, R. 243-7, R. 243-9 et R. 243-22, les cotisations de sécurité sociale et

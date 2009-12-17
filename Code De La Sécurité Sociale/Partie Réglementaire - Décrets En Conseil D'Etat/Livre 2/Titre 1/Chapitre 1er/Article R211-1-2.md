@@ -78,7 +78,8 @@ un rapport d'activité et de fonctionnement pour l'année écoulée retraçant
 notamment les orientations définies par le conseil, les actions mises en oeuvre
 pour les atteindre et les résultats constatés. Ce rapport est transmis au
 président du conseil et au directeur général de la Caisse nationale de
-l'assurance maladie des travailleurs salariés ainsi qu'au préfet de région.
+l'assurance maladie des travailleurs salariés ainsi qu'au service mentionné à
+l'article R. 155-1.
 
 En cas d'absence momentanée ou d'empêchement du directeur, ses fonctions sont
 exercées par le directeur adjoint. En cas d'absence ou d'empêchement du

@@ -66,9 +66,8 @@ représentant et le président ou un administrateur issu du collège des
 travailleurs indépendants de l'un des organismes de recouvrement mentionnés au
 3°, ou leur représentant, assistent aux réunions du comité local.
 
-Le directeur régional des affaires sanitaires et sociales ou son représentant
-dans la circonscription assiste aux réunions et représente l'Etat auprès du
-comité local.
+Un membre du service mentionné à l'article R. 155-1 peut assister aux réunions
+et représenter l'Etat auprès du comité local.
 
 Le comité local se réunit au moins une fois par trimestre et à la demande du
 président ou du directeur de la caisse de base du régime social des

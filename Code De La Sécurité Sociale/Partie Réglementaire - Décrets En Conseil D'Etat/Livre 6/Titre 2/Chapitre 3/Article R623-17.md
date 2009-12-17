@@ -2,8 +2,7 @@ Article R623-17
 ----
 Les caisses ou sections professionnelles, les caisses interprofessionnelles et
 les caisses nationales sont soumises aux vérifications de l'inspection générale
-de la sécurité sociale et des directions régionales des affaires sanitaires et
-sociales.
+des affaires sociales et du service mentionné à l'article R. 155-1.
 
 Elles sont également soumises au contrôle de l'inspection générale des finances,
 des trésoriers-payeurs généraux, des receveurs particuliers des finances et, à

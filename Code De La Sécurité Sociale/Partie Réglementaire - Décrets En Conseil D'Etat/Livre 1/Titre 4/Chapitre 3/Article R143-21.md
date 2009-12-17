@@ -7,9 +7,9 @@ par la caisse régionale d'assurance maladie de sa décision concernant les taux
 d'accident du travail, les ristournes, les cotisations supplémentaires et la
 contribution prévue à l'article L. 437-1.
 
-Le recours du directeur régional mentionné au deuxième alinéa de l'article L.
-242-5 et à l'article L. 242-7 est introduit dans le même délai à compter du jour
-de la décision.
+L'autorité mentionnée au deuxième alinéa de l'article L. 242-5 et à l'article L.
+242-7 est le responsable du service mentionné à l'article R. 155-1. Le recours
+est introduit dans le même délai à compter du jour de la décision.
 
 Le recours de l'employeur prévu aux articles L. 751-16, L. 751-21 et R. 751-71
 du code rural ainsi que le recours du chef d'exploitation ou d'entreprise
@@ -21,10 +21,8 @@ la date de notification de sa décision de classement de l'exploitation ou de
 l'entreprise agricole dans une des catégories de risque retenues par le ministre
 chargé de l'agriculture.
 
-Le recours du chef du service régional de l'inspection du travail, de l'emploi
-et de la politique sociale agricoles mentionné aux articles L. 751-16, L. 751-21
-et L. 752-19 du code rural est introduit dans le même délai à compter du jour de
-la décision.
+Le recours du responsable du service mentionné à l'article R. 155-2 est
+introduit dans le même délai à compter du jour de la décision.
 
 Au cas où le requérant aurait, au préalable, dans les conditions de délai
 indiquées aux quatre alinéas précédents, saisi, selon le cas, la caisse

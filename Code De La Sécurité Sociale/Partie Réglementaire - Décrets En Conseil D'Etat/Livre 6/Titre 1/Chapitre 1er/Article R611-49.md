@@ -6,7 +6,7 @@ duquel se trouve le siège de la commission de recensement. Elles sont
 introduites par simple déclaration au greffe.
 
 La réclamation peut être portée par tout électeur ou candidat ainsi que par le
-directeur régional des affaires sanitaires et sociales.
+directeur général de la Caisse nationale du régime social des indépendants.
 
 Le tribunal statue dans les trente jours de l'enregistrement de la réclamation
 sans forme de procédure, sur simple avertissement donné trois jours à l'avance à

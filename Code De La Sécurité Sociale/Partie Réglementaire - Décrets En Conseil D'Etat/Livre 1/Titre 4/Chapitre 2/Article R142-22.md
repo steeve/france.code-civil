@@ -1,13 +1,7 @@
 Article R142-22
 ----
-Le tribunal des affaires de sécurité sociale peut recueillir tous éléments d'
-information utiles auprès du directeur régional des affaires sanitaires et
-sociales et du chef du service régional de l' inspection du travail, de l'
-emploi et de la politique sociale agricole, ou du ministre chargé de la sécurité
-sociale lorsque le litige concerne le recouvrement des cotisations et
-contributions visées au 3° de l' article L. 225- 1- 1. Il peut ordonner un
-complément d' instruction et notamment prescrire une enquête ou une
-consultation.
+Le tribunal des affaires de sécurité sociale peut ordonner un complément d'
+instruction et notamment prescrire une enquête ou une consultation.
 
 Il peut également ordonner une expertise dans les conditions suivantes :
 

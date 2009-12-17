@@ -4,9 +4,9 @@ Le directeur général de la caisse nationale qui envisage, pour un motif tiré 
 l'intérêt du service, de prendre une décision de cessation de fonction d'un
 directeur ou d'un agent comptable d'une caisse de base, en application du II de
 l'article L. 611-14, recueille préalablement l'avis du président du conseil
-d'administration de la caisse intéressée et en informe le directeur régional des
-affaires sanitaires et sociales compétent ainsi que le président du conseil
-d'administration de la caisse nationale.
+d'administration de la caisse intéressée et en informe le service mentionné à
+l'article R. 155-1 ainsi que le président du conseil d'administration de la
+caisse nationale.
 
 Il convoque l'intéressé à un entretien par lettre recommandée avec demande
 d'avis de réception indiquant l'objet de la convocation en lui précisant qu'il
@@ -18,8 +18,8 @@ et recueille ses observations.
 Après avoir pris connaissance des avis demandés, et au plus tard dans les quinze
 jours suivant l'entretien, le directeur général notifie sa décision motivée de
 cessation de fonctions à l'agent concerné, au président du conseil
-d'administration de la caisse de base ainsi qu'au directeur régional des
-affaires sanitaires et sociales.
+d'administration de la caisse de base ainsi qu'au service mentionné à l'article
+R. 155-1.
 
 Jusqu'à son reclassement dans un organisme de sécurité sociale, dans les
 conditions prévues par la convention collective, l'intéressé est rattaché pour

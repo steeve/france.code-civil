@@ -23,8 +23,8 @@ salariés ;
 
 7° Le directeur de l'Ecole nationale supérieure de sécurité sociale ;
 
-8° Un directeur régional des affaires sanitaires et sociales désigné par le
-directeur de la sécurité sociale ;
+8° Un membre du service mentionné à l'article R. 155-1 désigné par le directeur
+de la sécurité sociale ;
 
 9° Deux anciens agents de direction ou leurs suppléants, ayant exercé des
 fonctions de directeur ou d'agent comptable dans les caisses au sein

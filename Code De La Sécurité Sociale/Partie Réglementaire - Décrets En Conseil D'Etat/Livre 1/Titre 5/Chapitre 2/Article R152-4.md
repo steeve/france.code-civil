@@ -11,6 +11,6 @@ exécutoires de plein droit.
 
 Les délibérations du conseil d'administration ou du comité directeur des
 associations ou groupements d'intérêt économique autres que ceux mentionnés à
-l'alinéa précédent sont soumises au contrôle du préfet de région et, s'il y a
-lieu, du ministre chargé de l'agriculture dans les conditions prévues aux
-articles R. 152-2 et R. 152-3.
+l'alinéa précédent sont soumises au contrôle du responsable du service mentionné
+à l'article R. 155-2 et, s'il y a lieu, du ministre chargé de l'agriculture dans
+les conditions prévues aux articles R. 152-2 et R. 152-3.

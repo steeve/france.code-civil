@@ -11,7 +11,8 @@ concernant la gestion administrative et, le cas échéant, l'action sanitaire et
 sociale ainsi que les établissements d'action sanitaire et sociale gérés par la
 caisse. Il remet au conseil d'administration un rapport sur le fonctionnement
 administratif et financier de chaque section. Ce rapport doit être transmis au
-préfet de région après examen par le conseil d'administration.
+service mentionné à l'article R. 155-1 après examen par le conseil
+d'administration.
 
 Dans les limites fixées par chaque conseil d'administration et sous son
 contrôle, le directeur engage les dépenses, constate les créances et les dettes,

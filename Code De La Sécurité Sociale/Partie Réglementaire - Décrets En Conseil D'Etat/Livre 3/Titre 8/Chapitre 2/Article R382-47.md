@@ -1,11 +1,11 @@
 Article R382-47
 ----
-Le préfet de région compétent adresse à chaque électeur, quinze jours avant la
-date du scrutin, dans une même enveloppe fermée, une circulaire et un bulletin
-de vote de chacune des listes et l'enveloppe destinée à recueillir le bulletin
-de vote. Il lui adresse également une enveloppe externe portant mention des nom,
-prénoms et adresse de l'électeur ainsi que l'organisme agréé et du collège dont
-il relève.
+Le responsable du service mentionné à l'article R. 155-1 adresse à chaque
+électeur, quinze jours avant la date du scrutin, dans une même enveloppe fermée,
+une circulaire et un bulletin de vote de chacune des listes et l'enveloppe
+destinée à recueillir le bulletin de vote. Il lui adresse également une
+enveloppe externe portant mention des nom, prénoms et adresse de l'électeur
+ainsi que l'organisme agréé et du collège dont il relève.
 
 L'électeur introduit l'enveloppe destinée à recueillir le bulletin de vote dans
 l'enveloppe externe qu'il clôt et sur laquelle il appose sa signature.

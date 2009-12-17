@@ -5,9 +5,9 @@ directeur général de la Caisse nationale de l'assurance maladie des travailleu
 salariés, qui envisage, pour un motif autre que disciplinaire, de prendre une
 décision de cessation de fonction d'un directeur ou d'un agent comptable d'un
 organisme local ou régional de la branche maladie, recueille préalablement
-l'avis du président du conseil de la caisse intéressée et en informe le
-directeur régional des affaires sanitaires et sociales compétent ainsi que le
-président du comité des carrières.
+l'avis du président du conseil de la caisse intéressée et en informe le service
+mentionné à l'article R. 155-1 compétent ainsi que le président du comité des
+carrières.
 
 Il convoque l'intéressé à un entretien par lettre recommandée indiquant l'objet
 de la convocation en lui précisant qu'il peut se faire assister par une personne
@@ -19,8 +19,8 @@ Après avoir pris connaissance des avis demandés et au plus tard dans les quinz
 jours suivant l'entretien, le directeur général de la Caisse nationale de
 l'assurance maladie des travailleurs salariés notifie sa décision motivée de
 cessation de fonctions à l'agent concerné, au président du conseil de
-l'organisme local ou régional ainsi qu'au directeur régional des affaires
-sanitaires et sociales.
+l'organisme local ou régional ainsi qu'au service mentionné à l'article R.
+155-1.
 
 La décision de cessation de fonctions ne vaut pas licenciement. Jusqu'à son
 reclassement dans un organisme de sécurité sociale, dans les conditions prévues

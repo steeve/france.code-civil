@@ -11,7 +11,7 @@ de laquelle est compris le siège d'une université, alors même que seraient
 affiliés à cette caisse moins de 1 000 étudiants bénéficiaires de l'assurance
 maladie-maternité des étudiants.
 
-Le conseil d'administration de la section locale comprend sept membres, à savoir
+Le conseil d'administration de la section locale comprend six membres, à savoir
 :
 
 1°) quatre étudiants bénéficiaires de l'assurance maladie-maternité des
@@ -21,7 +21,4 @@ d'administration de la mutuelle ou section de mutuelle habilitée ;
 2°) un représentant du ministère chargé de l'éducation nationale ou du ministère
 chargé des universités ;
 
-3°) un représentant de la caisse primaire d'assurance maladie ;
-
-4°) un représentant des autres organismes ou régimes mentionnés au 3° de
-l'article L. 381-8 désigné par le préfet de région.
+3°) un représentant de la caisse primaire d'assurance maladie.
