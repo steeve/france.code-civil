@@ -1,44 +1,14 @@
 Article R134-4
 ----
-Les services rendus par l'Etat pour la sécurité de la circulation aérienne et
-pour la rapidité de ses mouvements à l'arrivée et au départ des aérodromes dont
-l'activité dépasse un certain seuil donnent lieu à rémunération sous forme d'une
-redevance pour services rendus, dite redevance pour services terminaux de la
-circulation aérienne.
-
-La liste de ces aérodromes est fixée par arrêté du ministre chargé de l'aviation
-civile et du ministre chargé des finances.
-
-La redevance est due par l'exploitant de l'aéronef ou, s'il est inconnu, par le
-propriétaire de l'aéronef. Elle est exigible à l'occasion de chaque départ d'un
-aérodrome figurant sur cette liste.
-
-Son montant est déterminé en fonction de la masse maximum au décollage de
-l'aéronef, par application d'un taux unitaire, suivant des modalités fixées par
-arrêté du ministre chargé de l'aviation civile et du ministre chargé des
-finances.
-
-Le taux unitaire normal doit tenir compte du coût national du service rendu.
-
-Des taux unitaires particuliers peuvent être fixés pour certaines zones dans
-lesquelles le coût du service rendu s'écarte de plus de 10 % du coût national.
-
-Le taux unitaire normal est établi de façon à équilibrer les coûts et les
-recettes. Il est d'abord calculé de façon prévisionnelle en fonction des coûts
-et des recettes escomptés de l'année au titre de laquelle la redevance est due ;
-puis, une fois connus les résultats comptables, le déficit ou l'excédent de
-recouvrement résultant de la différence entre les coûts et les recettes
-prévisionnels et les coûts et les recettes réellement constatés est intégré dans
-l'assiette des redevances perçues les années ultérieures jusqu'à la sixième au
-plus tard. Cette différence inclut le montant des admissions en non-valeur et le
-solde des provisions pour clients douteux.
-
-L'arrêté peut prévoir des modes de calcul fondés sur des moyennes pondérées pour
-des aéronefs d'un même type exploités par une même entreprise.
-
-Des taux unitaires réduits peuvent être fixés pour les vols dont l'aérodrome de
-départ et l'aérodrome d'arrivée sont situés sur le territoire métropolitain et
-qui ne comportent ni escale intermédiaire ni escale antérieure ou ultérieure en
-territoire étranger (vols domestiques), ainsi que pour certaines liaisons
-nommément désignées entre départements d'outre-mer et entre territoires
-d'outre-mer.
+La redevance de route et la redevance pour services terminaux de la circulation
+aérienne prévues aux articles R. 134-1 et R. 134-3 font l'objet, pour la
+métropole, d'un système d'incitation tel que prévu par l'article 11 du règlement
+(CE) n° 549 / 2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le
+cadre pour la réalisation du ciel unique européen, l'article 15 du règlement
+(CE) n° 550 / 2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à
+la fourniture de services de navigation aérienne dans le ciel unique européen et
+l'article 12 du règlement (CE) n° 1794 / 2006 du 6 décembre 2006 de la
+Commission établissant un système commun de tarification des services de
+navigation aérienne visant à améliorer la fourniture des services de navigation
+aérienne, consistant en une modulation du montant des redevances appliquée sur
+une base non discriminatoire et transparente.
