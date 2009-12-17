@@ -1,23 +1,49 @@
 Article D211-3
 ----
-Le haut-commissaire de la République communique au conseil municipal :
+Pour les communes et leurs établissements publics à caractère administratif, les
+chapitres des budgets votés par nature correspondent :
 
-1° Les éléments nécessaires au calcul de la dotation globale de fonctionnement ;
+a) Section d'investissement :
 
-2° Les éléments nécessaires au calcul de la dotation globale d'équipement ;
+-à chacun des comptes à deux chiffres des classes 1 et 2 ouverts à la
+nomenclature par nature, à l'exception des comptes " Report à nouveau ", "
+Résultat de l'exercice ", " Provisions pour risques et charges ", " Différences
+sur réalisations d'immobilisations ", " Immobilisations affectées, concédées,
+affermées ou mises à disposition ", " Amortissements des immobilisations " et "
+Provisions pour dépréciation des immobilisations " ;
 
-3° La variation de l'indice des prix de détail entre le 1er janvier et le 31
-décembre de l'exercice écoulé ainsi que les prévisions pour l'exercice en cours,
-telles qu'elles figurent dans les tableaux annexés à la loi de finances et
-telles qu'elles sont connues pour la Nouvelle-Calédonie ;
+-à chacun des chapitres globalisés dont la liste et la composition sont fixées
+par l'arrêté visé à l'article D. 211-2 ;
 
-4° Les éléments nécessaires à la prévision d'évolution des rémunérations du
-personnel communal et au calcul des charges sociales correspondantes ;
+-à chaque opération votée par l'assemblée délibérante.L'opération correspond à
+un ensemble d'acquisitions d'immobilisations, de travaux sur immobilisations et
+de frais d'études y afférents, aboutissant à la réalisation d'un ouvrage ou de
+plusieurs ouvrages de même nature. Cette opération peut également comprendre des
+subventions d'équipement versées ;
 
-5° Le taux d'intérêt indicatif des prêts calculés à la date du 1er février ;
+-à chacune des opérations pour le compte de tiers, dont la liste et les
+subdivisions sont déterminées par l'arrêté visé à l'article D. 211-2 ;
 
-6° Le montant des concours versés dans le cadre du fonds intercommunal de
-péréquation pour le fonctionnement des communes ;
+-au compte " Subventions d'équipement versées " ;
 
-7° Les éléments relatifs au produit des centimes additionnels et, le cas
-échéant, des autres taxes et impositions établies au bénéfice des communes.
+-à la ligne intitulée " Dépenses imprévues " ;
+
+-à la ligne intitulée " Virement de la section de fonctionnement " ;
+
+-à la ligne intitulée " Produits des cessions d'immobilisations ".
+
+Ces trois derniers chapitres ne comportent que des prévisions sans réalisation.
+
+b) Section de fonctionnement :
+
+-aux comptes à deux chiffres des classes 6 et 7 ouverts à la nomenclature par
+nature, à l'exception des comptes faisant partie d'un chapitre globalisé ;
+
+-à chacun des chapitres globalisés dont la liste et la composition sont fixées
+par l'arrêté visé à l'article D. 211-2 ;
+
+-à la ligne intitulée " Dépenses imprévues " ;
+
+-à la ligne intitulée " Virement à la section d'investissement ".
+
+Ces deux derniers chapitres ne comportent que des prévisions sans réalisation.
