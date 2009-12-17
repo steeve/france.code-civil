@@ -3,7 +3,8 @@ Article D325-4
 Le conseil d'administration :
 
 1° Etablit le règlement intérieur du conseil d'administration. Le règlement
-intérieur est soumis pour approbation au préfet de région ;
+intérieur est soumis pour approbation au responsable du service mentionné à
+l'article R. 155-1 ;
 
 2° Désigne le directeur et l'agent comptable du régime local, choisis parmi les
 agents en activité des caisses primaires d'assurance maladie des départements du
@@ -20,8 +21,8 @@ leurs taux de remboursement conformément aux dispositions prévues aux articles
 D. 325-6 et D. 325-7 ;
 
 5° Fixe les taux des cotisations mentionnées aux premier et second alinéas de
-l'article L. 242-13 dans la limite d'une fourchette de 0,75 p. 100 à 2,5 p. 100
-;
+l'article L. 242-13 dans la limite d'une fourchette de 0, 75 p. 100 à 2, 5 p.
+100 ;
 
 6° Détermine la nature des avantages vieillesse et des autres revenus de
 remplacement à soumettre à cotisations et les exonérations accordées en cas

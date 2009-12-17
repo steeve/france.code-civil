@@ -3,8 +3,10 @@ Article D122-19
 Le quitus est acquis automatiquement à l'agent comptable après l'expiration du
 délai prévu au deuxième alinéa de l'article L. 122-3 si aucune procédure n'a été
 engagée à son encontre. Si la responsabilité personnelle et pécuniaire de
-l'agent comptable a été mise en cause, le quitus est délivré par l'autorité
-compétente de l'Etat après apurement du débet.
+l'agent comptable a été mise en cause, le quitus est délivré, après apurement du
+débet, par le responsable du service mentionné à l'article R. 155-1 ou, pour les
+organismes de mutualité sociale agricole, du service mentionné à l'article R.
+155-2.
 
 Pour une année donnée, le quitus peut aussi être octroyé par l'autorité
 compétente pour mettre en jeu la responsabilité personnelle et pécuniaire, à la
@@ -34,8 +36,9 @@ régisseurs ou aux responsables des centres agréés dans les conditions décrit
 aux alinéas précédents, après avis favorable de l'agent comptable.
 
 Pour tous les agents comptables, fondés de pouvoir, régisseurs et responsables
-des centres agréés, l'autorité compétente de l'Etat dispose d'un délai de six
-mois à compter de la demande de l'intéressé pour octroyer ou refuser le quitus.
-En l'absence de décision dans ce délai, le quitus est considéré comme octroyé.
-Le délai de six mois peut être renouvelé une fois, sous réserve qu'avant
-l'expiration de ce délai notification en soit faite à l'intéressé.
+des centres agréés, l'autorité compétente définie au premier alinéa dispose d'un
+délai de six mois à compter de la demande de l'intéressé pour octroyer ou
+refuser le quitus. En l'absence de décision dans ce délai, le quitus est
+considéré comme octroyé. Le délai de six mois peut être renouvelé une fois, sous
+réserve qu'avant l'expiration de ce délai notification en soit faite à
+l'intéressé.

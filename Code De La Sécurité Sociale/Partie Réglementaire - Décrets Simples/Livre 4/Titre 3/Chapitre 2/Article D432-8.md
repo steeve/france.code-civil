@@ -12,12 +12,10 @@ et comprenant :
 
 2°) un représentant de la caisse régionale d'assurance maladie ;
 
-3°) le directeur régional des affaires sanitaires et sociales ou son
-représentant ;
+3°) supprimé ;
 
 4°) l'inspecteur du travail ou son représentant ;
 
-5°) le chef du service régional de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles ou son représentant ;
+5°) supprimé ;
 
 6°) un représentant de la chambre de métiers et de l'artisanat.

@@ -6,10 +6,5 @@ maladie, sont habilités à exercer une surveillance sur l'emploi du prêt
 d'honneur par le bénéficiaire.
 
 Dans le cas où l'intéressé affecterait le prêt qui lui est consenti à
-l'aménagement d'une exploitation agricole, les inspecteurs du travail et de la
-protection sociale agricoles sont également habilités à exercer cette
-surveillance.
-
-En cas de carence de la caisse primaire, le préfet de région, peut prendre, pour
-le compte de celle-ci, toutes mesures conservatoires qui lui paraissent
-nécessaires.
+l'aménagement d'une exploitation agricole, les agents de la caisse de mutualité
+sociale agricole sont également habilités à exercer cette surveillance.

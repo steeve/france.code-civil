@@ -1,8 +1,8 @@
 Article D253-12
 ----
 L'agent comptable ne peut exercer ses fonctions sans avoir été installé par le
-directeur régional des affaires sanitaires et sociales ou son représentant et
-par le trésorier-payeur général ou son représentant, en présence du directeur de
+responsable du service mentionné à l'article R. 155-1 ou son représentant et par
+le trésorier-payeur général ou son représentant, en présence du directeur de
 l'organisme.
 
 Au préalable, il doit fournir en garantie de sa gestion un cautionnement dont le

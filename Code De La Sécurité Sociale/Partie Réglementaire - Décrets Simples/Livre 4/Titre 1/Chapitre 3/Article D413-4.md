@@ -22,6 +22,6 @@ soit au 31 décembre, faisant apparaître les résultats de la gestion du risque
 professionnel et, éventuellement, le montant des sommes affectées au fonds de
 réserve susmentionné. Une copie du compte de profits et pertes et du bilan,
 arrêtés à l'une des deux dates précitées, est adressée, dans un délai maximum de
-trois mois, à la direction régionale des affaires sanitaires et sociales et à la
-caisse primaire d'assurance maladie dans la circonscription de laquelle est
-situé l'établissement ou le groupe d'établissements ayant obtenu l'autorisation.
+trois mois, à la caisse primaire d'assurance maladie dans la circonscription de
+laquelle est situé l'établissement ou le groupe d'établissements ayant obtenu
+l'autorisation.
