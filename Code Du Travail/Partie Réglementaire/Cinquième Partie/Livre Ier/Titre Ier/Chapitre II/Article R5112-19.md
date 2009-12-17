@@ -5,4 +5,5 @@ l'emploi est informé sur la mise en œuvre de la convention prévue à l'articl
 5312-11.
 
 Il est notamment informé des conventions de portée régionale ou locale relatives
-au suivi et à l'accompagnement des demandeurs d'emploi.
+au suivi et à l'accompagnement des demandeurs d'emploi et des évaluations des
+conditions de réalisation des conventions conclues avec les maisons de l'emploi.
