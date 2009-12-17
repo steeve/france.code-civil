@@ -1,8 +1,6 @@
 Article R5313-4
 ----
-L'aide de l'Etat ne peut être attribuée que lorsque le projet respecte le cahier
-des charges fixé par arrêté du ministre chargé de l'emploi et à condition que la
-maison de l'emploi associe l'Etat, l' institution mentionnée à l'article L.
-5312-1 du code du travail et au moins une collectivité territoriale ou un
-établissement public de coopération intercommunale. L'aide est renouvelable
-annuellement dans la limite de quatre années.
+Les maisons de l'emploi ne peuvent bénéficier de l'aide de l'Etat que si elles
+remplissent les conditions figurant dans un cahier des charges, pris par arrêté
+du ministre chargé de l'emploi, qui précise les relations avec leurs partenaires
+et les modalités de leur financement par l'Etat.

@@ -1,5 +1,7 @@
 Article R5313-5
 ----
-Le ministre chargé de l'emploi statue sur l'aide de l'Etat après avis de la
-Commission nationale des maisons de l'emploi. Cet avis se fonde notamment sur le
-rapport établi par le préfet.
+La participation de l'Etat ne peut excéder un pourcentage du budget de
+fonctionnement de la maison de l'emploi et un plafond fixés par arrêté du
+ministre chargé de l'emploi.
+
+L'aide de l'Etat ne peut porter que sur les dépenses de fonctionnement.
