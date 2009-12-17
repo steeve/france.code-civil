@@ -1,6 +1,6 @@
 Article D223-1
 ----
-I. - La liste des maladies mentionnées à l'article L. 223-4 qui donnent lieu à
+I.-La liste des maladies mentionnées à l'article L. 223-4 qui donnent lieu à
 déclaration sans application de mesures de police sanitaire est la suivante :
 
 
@@ -87,7 +87,8 @@ Meleagris gallopavo.
 Troupeaux de poulettes futures pondeuses et pondeuses d'œufs de consommation de
 l'espèce Gallus gallus.
 
-Troupeaux de poulets de chair (espèce Gallus gallus).
+Troupeaux de poulets de chair et de dindes d'engraissement des espèces Gallus
+gallus et Meleagris gallopavo.
 
 Salmonellose porcine.
 
@@ -119,7 +120,7 @@ Varroa destructor.
 
 Abeilles.
 
-II. - Sans préjudice des conditions complémentaires de déclaration fixées
+II.-Sans préjudice des conditions complémentaires de déclaration fixées
 ci-dessus, l'existence de la maladie donnant lieu à déclaration est établie dans
 les conditions fixées par arrêté du ministre chargé de l'agriculture. En
 l'absence de dispositions particulières, l'existence de la maladie est établie

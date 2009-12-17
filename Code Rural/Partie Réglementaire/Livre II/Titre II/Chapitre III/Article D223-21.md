@@ -365,9 +365,10 @@ de l'espèce Gallus gallus.
 
 Salmonellose aviaire.
 
-Salmonella identifiées dans les muscles.
+Salmonella enteritidis et Salmonella Typhimurium isolées dans les muscles.
 
-Troupeaux de poulets de chair de l'espèce Gallus gallus.
+Troupeaux de poulets de chair et de dindes d'engraissement des espèces Gallus
+gallus et Meleagris gallopavo.
 
 Septicémie hémorragique.
 
