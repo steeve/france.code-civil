@@ -8,4 +8,5 @@ des électeurs inscrits dans sa catégorie. Les bulletins ont un format de 105 �
 Les bulletins ne doivent pas comporter d'autres mentions que le lieu et la date
 de l'élection, la catégorie, le nom et le prénom du candidat, avec
 éventuellement l'organisation syndicale dont il dépend. Un bulletin peut être
-commun à deux candidats.
+commun à plusieurs candidats dans la limite du nombre d'assesseurs titulaires à
+élire dans la catégorie concernée.

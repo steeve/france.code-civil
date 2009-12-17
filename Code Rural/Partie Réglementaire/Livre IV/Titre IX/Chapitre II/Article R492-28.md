@@ -10,8 +10,9 @@ II. ― Est nul tout bulletin non conforme aux prescriptions mentionnées à
 l'article R. 492-21 et tout bulletin entaché d'une des irrégularités mentionnées
 à l'article L. 66 du code électoral.
 
-Est nul tout suffrage désignant plus de deux noms ; est nul également tout
-suffrage désignant une personne qui n'est pas candidate.
+Est nul tout suffrage désignant plus de noms que le nombre d'assesseurs
+titulaires à élire dans la catégorie concernée ; est nul également tout suffrage
+désignant une personne qui n'est pas candidate.
 
 Les bulletins et enveloppes entachés de nullité sont conservés, paraphés par les
 membres de la commission et annexés au procès-verbal dans les conditions prévues
