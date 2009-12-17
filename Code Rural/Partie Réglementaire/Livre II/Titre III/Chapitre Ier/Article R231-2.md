@@ -1,11 +1,7 @@
 Article R231-2
 ----
-Dans chaque département, des circonscriptions vétérinaires d'inspection sont
-créées et délimitées par arrêté du ministre chargé de l'agriculture, après avis
-du préfet. Chaque circonscription comprend le territoire d'une ou de plusieurs
-communes.
-
-Toutefois les circonscriptions créées à Paris et dans les départements des
-Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne sont déterminées par
-un arrêté conjoint du ministre chargé de l'agriculture et du ministre de
-l'intérieur pris après avis du préfet de police.
+Le préfet de police, à Paris et dans les départements des Hauts-de-Seine, de la
+Seine-Saint-Denis et du Val-de-Marne, adjoint aux agents mentionnés aux 1° et 2°
+du I de l'article L. 231-2 et place sous leur autorité les agents et les
+officiers de police judiciaire spécialisés nécessaires à la bonne exécution de
+l'inspection.

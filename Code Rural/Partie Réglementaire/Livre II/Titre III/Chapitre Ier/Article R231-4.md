@@ -1,18 +1,23 @@
 Article R231-4
 ----
-Sous réserve des dispositions prévues par l'article R. 231-8, les vétérinaires
-inspecteurs, les ingénieurs des travaux agricoles, les techniciens supérieurs du
-ministère de l'agriculture (spécialité vétérinaire) et les contrôleurs
-sanitaires ayant la qualité d'agents contractuels à temps complet sont soumis
-aux dispositions du décret du 29 octobre 1936 modifié relatif aux cumuls
-d'emplois, de rémunérations et de retraites.
+Sont soumis aux dispositions de la présente sous-section :
 
-Ceux qui ont la qualité d'agent contractuel à temps partiel peuvent exercer, en
-dehors de leurs heures de service, une activité professionnelle publique ou
-privée qui doit demeurer compatible avec les missions qui leur sont confiées par
-le ministre chargé de l'agriculture.
+1° Les animaux dont la chair et les produits sont destinés à être livrés au
+public en vue de la consommation humaine et animale ;
 
-Un arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé du
-budget et du ministre chargé de la fonction publique fixe les conditions de
-recrutement et de rétribution des agents contractuels ainsi que le tarif des
-vacations allouées aux agents à temps partiel.
+2° Les produits d'origine animale ;
+
+3° Les denrées alimentaires contenant des produits d'origine animale ;
+
+4° Les aliments pour animaux d'origine animale ou contenant des produits
+d'origine animale ;
+
+5° Les établissements dans lesquels sont préparés, transformés, conservés ou par
+lesquels sont mis sur le marché les produits, denrées alimentaires et aliments
+pour animaux mentionnés aux 2°, 3° et 4° ;
+
+6° Les centres de collecte des matières premières destinées à la fabrication de
+denrées alimentaires ;
+
+7° Les moyens de transport des animaux, produits, denrées alimentaires et
+aliments pour animaux mentionnés au présent article.

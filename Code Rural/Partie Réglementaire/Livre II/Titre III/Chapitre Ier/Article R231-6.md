@@ -1,18 +1,23 @@
 Article R231-6
 ----
-Les agents mentionnés à l'article L. 231-2, chargés des inspections, contrôles
-et surveillance prévus à l'article L. 231-1, sont commissionnés par arrêté du
-ministre chargé de l'agriculture.
+La mise à mort hors d'un abattoir est autorisée :
 
-Avant d'entrer en fonctions, ces agents, dûment commissionnés, prêtent devant le
-tribunal d'instance de leur domicile le serment ci-après :
+1° Dans le cadre des activités mentionnées à l'article L. 654-3 et lors de
+l'abattage des animaux des espèces caprine, ovine, porcine ainsi que des
+volailles et des lagomorphes d'élevage, dès lors que cet abattage est réalisé
+par la personne qui les a élevés et que la totalité des animaux abattus est
+réservée à la consommation de sa famille ;
 
-"Je jure de bien et fidèlement remplir ma mission et de ne rien révéler ou
-utiliser en dehors de mes fonctions de ce qui sera porté à ma connaissance dans
-l'exercice de celles-ci".
+2° En application de l'article R. 214-78 ;
 
-Mention de la prestation de serment est portée sur l'acte de commission par les
-soins du greffier du tribunal d'instance.
+3° Pour les animaux se trouvant dans les cas suivants :
 
-La prestation de serment n'est pas renouvelée en cas de changement de poste ou
-d'emploi.
+a) Les animaux des espèces bovine, porcine et équine ainsi que les ratites
+abattus d'urgence pour cause d'accident ;
+
+b) Les taureaux mis à mort lors de corridas ;
+
+c) Le grand gibier ongulé d'élevage mis à mort dans l'exploitation d'origine ;
+
+d) Les animaux mis à mort comme dangereux ou susceptibles de présenter un
+danger.

@@ -5,15 +5,17 @@ aménagés, équipés et entretenus de façon à permettre, du point de vue sani
 l'exécution sans danger du travail et l'élaboration de produits finis exempts de
 substances et de germes nocifs.
 
-II. - Sauf dans les cas prévus par arrêté du ministre chargé de l'agriculture
-et, le cas échéant, des autres ministres intéressés, les contenants servant au
-transport des sous-produits de catégories 1 et 2, au sens du règlement (CE) n°
-1776/2002 du 3 octobre 2002 établissant des règles sanitaires applicables aux
-sous-produits animaux non destinés à la consommation humaine, ne peuvent être
-utilisés pour transporter des produits destinés à l'alimentation humaine ou
-animale ou des produits destinés à être utilisés comme matières fertilisantes ou
-supports de culture.
+II. - Les sous-produits des catégories 1 et 2 et les protéines animales
+transformées de catégorie 3, au sens du règlement (CE) n° 1774 / 2002 du 3
+octobre 2002 établissant des règles sanitaires applicables aux sous-produits
+animaux non destinés à la consommation humaine, ainsi que les matières d'origine
+animale mentionnées aux points b et c du A de la partie II de l'annexe IV du
+règlement (CE) n° 999 / 2001 du 22 mai 2001 modifié fixant les règles pour la
+prévention, le contrôle et l'éradication de certaines encéphalopathies
+spongiformes transmissibles, sont transportés dans des véhicules et contenants
+réservés à cet effet.
 
-Les conditions sanitaires à satisfaire pour la réutilisation des contenants
-mentionnés à l'alinéa précédent peuvent être complétées par arrêté du ministre
-chargé de l'agriculture et, le cas échéant, des autres ministres intéressés.
+Les conditions sanitaires à satisfaire pour la réutilisation à d'autres fins des
+véhicules et contenants mentionnés à l'alinéa précédent sont fixées par arrêté
+du ministre chargé de l'agriculture et, le cas échéant, par arrêté conjoint du
+ministre chargé de l'agriculture et du ministre chargé de la consommation.

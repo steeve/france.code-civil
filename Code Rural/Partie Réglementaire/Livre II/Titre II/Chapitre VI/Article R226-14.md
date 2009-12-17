@@ -1,8 +1,8 @@
 Article R226-14
 ----
-Le préfet constate la nécessité d'ordre sanitaire prévue à l'article L. 226-3.
-
-Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de
-l'environnement détermine les conditions d'enfouissement et d'incinération des
-cadavres d'animaux ainsi que les procédés autorisés prévus aux articles L. 226-3
-et L. 226-6.
+Lorsque l'instruction d'une demande présentée en vue de l'obtention des
+agréments ou des autorisations mentionnés aux articles L. 226-3 et L. 226-5
+nécessite des informations complémentaires, le service instructeur peut les
+réclamer au demandeur en lui impartissant un délai pour les fournir qui ne peut
+excéder deux mois. Le délai au terme duquel, à défaut de décision expresse, la
+demande est réputée rejetée est alors prolongé d'une durée égale.

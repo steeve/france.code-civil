@@ -1,8 +1,13 @@
 Article R231-16
 ----
-Des arrêtés du ministre chargé de l'agriculture et, lorsqu'il s'agit de produits
-de la mer, des arrêtés conjoints du ministre chargé de l'agriculture et du
-ministre chargé des pêches maritimes, pris après avis de l'Agence française de
-sécurité sanitaire des aliments, fixent les normes sanitaires et qualitatives
-auxquelles devront satisfaire les animaux, les denrées animales et les denrées
-d'origine animale pour être reconnus propres à la consommation.
+Les personnes appelées, en raison de leur emploi, à manipuler les denrées, tant
+au cours de leur collecte, préparation, traitement, transformation,
+conditionnement, emballage, transport ou entreposage que pendant leur exposition
+ou mise en vente, sont astreintes à la plus grande propreté corporelle et
+vestimentaire.
+
+La manipulation de ces produits est interdite aux personnes atteintes ou
+porteuses d'une maladie ou d'une affection susceptible d'être transmise par les
+aliments, s'il existe un danger de contamination, directe ou indirecte, des
+aliments non maîtrisable par l'application des bonnes pratiques d'hygiène. Le
+personnel peut être soumis à des obligations de formation dans ce domaine.

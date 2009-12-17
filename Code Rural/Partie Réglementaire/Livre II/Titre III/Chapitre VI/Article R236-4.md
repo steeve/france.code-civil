@@ -1,17 +1,16 @@
 Article R236-4
 ----
-Les centres d'abattages et établissements mentionnés à l'article R. 231-20 sont
-soumis à l'obligation d'obtenir un agrément en vue de l'exportation de la
-totalité ou d'une partie de leur production.
+I.-Les établissements mentionnés à l'article R. 233-4 peuvent être soumis à
+l'obligation d'obtenir un agrément en vue de l'exportation de tout ou partie de
+leur production, selon des modalités définies par les pays tiers importateurs.
 
-L'agrément est délivré par le préfet du département du siège de l'établissement,
-dans des conditions déterminées par les arrêtés prévus à l'article R. 236-6 qui
-tiendront compte notamment des normes sanitaires et qualitatives demandées par
-les pays importateurs.
+II.-Les animaux, les produits d'origine animale, les denrées alimentaires en
+contenant et les aliments pour animaux d'origine animale ou contenant des
+produits d'origine animale présentés à l'exportation sont accompagnés d'un
+document délivré par le vétérinaire officiel lorsque les pays tiers importateurs
+l'exigent. La délivrance de ces documents d'accompagnement est subordonnée au
+respect des exigences définies par les pays tiers importateurs ainsi qu'à celles
+définies en application du III.
 
-Les denrées présentées à l'exportation et provenant d'un centre d'abattage ou
-d'un établissement soumis à agrément doivent comporter une estampille apposée
-par le service vétérinaire ou par le service compétent relevant du ministre
-chargé des pêches maritimes ou être accompagnées d'un document délivré par ces
-services. Les arrêtés prévus au deuxième alinéa du présent article pourront
-imposer la double obligation de l'estampille et du document d'accompagnement.
+III.-Un arrêté du ministre chargé de l'agriculture détermine, en tant que de
+besoin, les modalités d'application du présent article.

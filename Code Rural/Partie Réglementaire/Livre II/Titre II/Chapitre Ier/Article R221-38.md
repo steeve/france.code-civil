@@ -1,6 +1,5 @@
 Article R221-38
 ----
-Les capitaines des bateaux et navires qui ont débarqué des animaux en cours de
-route ne peuvent décharger ou transborder dans un port français les déjections,
-fumiers, litières et matériaux des parcs sans que ces matières aient été
-préalablement désinfectées sous la surveillance d'un vétérinaire inspecteur.
+Des arrêtés du ministre chargé de l'agriculture et, le cas échéant, des arrêtés
+conjoints du ministre chargé de l'agriculture et du ministre chargé des
+transports fixent les modalités d'application de la présente section.

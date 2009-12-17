@@ -26,7 +26,4 @@ respecter les conditions fixées par le préfet ;
 les conditions fixées par l'article R. 231-52 ;
 
 7° Le fait de contrevenir aux dispositions de l'article R. 231-57 en procédant à
-l'aspersion ou à la réimmersion des coquillages conditionnés ;
-
-8° Le fait de ne pas mentionner sur la marque sanitaire des colis d'expédition
-l'ensemble des informations énumérées à l'article R. 231-58.
+l'aspersion ou à la réimmersion des coquillages conditionnés.

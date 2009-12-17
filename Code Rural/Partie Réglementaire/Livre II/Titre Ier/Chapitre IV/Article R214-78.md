@@ -1,16 +1,10 @@
 Article R214-78
 ----
-Outre les cas prévus à l'article R. 231-15, l'abattage et la mise à mort des
-animaux en dehors des abattoirs sont autorisés dans les cas suivants :
+Outre les cas prévus à l'article R. 231-6, l'abattage ou la mise à mort en
+dehors des établissements d'abattage sont autorisés :
 
-1° Lutte contre les maladies contagieuses ;
+1° En cas de lutte contre les maladies réputées contagieuses ;
 
-2° Animaux dangereux ou susceptibles de présenter un danger ;
+2° Pour les animaux élevés pour leur fourrure ;
 
-3° Animaux élevés pour leur fourrure ;
-
-4° Poussins et embryons refusés dans les couvoirs ;
-
-5° Certains gros gibiers d'élevage abattus ou mis à mort dans les établissements
-d'élevage de gibier dont la chasse est autorisée, autorisés conformément aux
-dispositions des articles R. 413-24 à R. 413-38 du code de l'environnement.
+3° Pour les poussins et embryons refusés dans les couvoirs.

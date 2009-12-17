@@ -1,10 +1,5 @@
 Article R226-15
 ----
-Les entreprises mentionnées à l'article L. 226-8 pour lesquelles un agrément ou
-un enregistrement est nécessaire pour assurer leur activité sont agréées ou
-enregistrées par le préfet sur la base des règles sanitaires fixées par arrêté
-du ministre chargé de l'agriculture.
-
-Le silence gardé par le préfet pendant plus de quatre mois sur la demande
-d'agrément ou d'enregistrement prévue à l'article L. 226-9 vaut décision de
-rejet.
+Une décision de rejet d'agréments ou d'autorisations mentionnés aux articles L.
+226-3 et L. 226-5 ne peut faire l'objet d'un recours contentieux qu'après rejet
+d'un recours gracieux préalable formé contre cette décision.
