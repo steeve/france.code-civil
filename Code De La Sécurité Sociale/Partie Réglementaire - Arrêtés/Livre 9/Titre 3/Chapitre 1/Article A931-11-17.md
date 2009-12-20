@@ -3,44 +3,42 @@ Article A931-11-17
 Les états d'analyse des comptes visés au 3° du premier alinéa de l'article A.
 931-11-15 sont les suivants :
 
-C 1. - Résultats techniques par catégories d'opérations ;
+C 1.-Résultats techniques par catégories d'opérations ;
 
-C 2. - Engagements et résultats techniques par pays ;
+C 2.-Engagements et résultats techniques par pays ;
 
-C 3. - Acceptations et cessions en réassurance ;
+C 3.-Acceptations et cessions en réassurance ;
 
-C 4. - Cotisations par catégories d'opérations et de garanties ;
+C 4.-Cotisations par catégories d'opérations et de garanties ;
 
-C 5. - Représentation des engagements réglementés ;
+C 5.-Représentation des engagements réglementés ;
 
-C 6. - Marge de solvabilité ;
+C 6.-Marge de solvabilité ;
 
-C 7. - Provisionnement des rentes en service ;
+C 7.-Provisionnement des rentes en service ;
 
-C 10. - Cotisations et résultats par année de survenance des sinistres ;
+C 10.-Cotisations et résultats par année de survenance des sinistres ;
 
-C 11. - Sinistres par année de survenance ;
+C 11.-Sinistres par année de survenance ;
 
-C 12. - Sinistres et résultats par année de souscription ;
+C 12.-Sinistres et résultats par année de souscription ;
 
-C 13. - Part des réassureurs dans les sinistres ;
+C 13.-Part des réassureurs dans les sinistres ;
 
-C 20. - Mouvements des bulletins d'adhésion aux règlements ou des contrats, des
+C 20.-Mouvements des bulletins d'adhésion aux règlements ou des contrats, des
 capitaux et rentes ;
 
-C 21. - Etat détaillé des provisions techniques ;
+C 21.-Etat détaillé des provisions techniques ;
 
-C 30. - Cotisations, sinistres et commissions des opérations non-vie dans
-l'Espace économique européen ;
+C 30.-Cotisations, sinistres et commissions des opérations non-vie dans l'Espace
+économique européen ;
 
-C 31. - Cotisations des opérations vie dans l'Espace économique européen ;
+C 31.-Cotisations des opérations vie dans l'Espace économique européen ;
 
-C 40. - Opérations réalisées pour le compte d'unions d'institutions de
-prévoyance ;
+C 40.-Opérations réalisées pour le compte d'unions d'institutions de prévoyance
+;
 
-C 41. - Action sociale ;
-
-C 42. - Eléments statistiques relatifs à la protection sociale complémentaire.
+C 41.-Action sociale.
 
 Ces états sont établis annuellement d'après les comptes définis à l'article A.
 931-11-16 et dans la forme fixée en annexe au présent article.
