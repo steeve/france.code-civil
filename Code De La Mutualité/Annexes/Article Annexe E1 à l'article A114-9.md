@@ -1,14 +1,13 @@
 Article Annexe E1 à l'article A114-9
 ----
-État E 1 : risques et engagements
+État E 1 : Statistiques relatives aux différentes catégories d'opérations Les
+mutuelles et unions établissent un état E1 " Statistiques relatives aux
+différentes catégories d'opérations " selon le modèle ci-après :
 
+RISQUES ET ENGAGEMENTS Effectifs au 31 décembre
 
-Effectifs au 31 décembre
 
 OPÉRATIONS DIRECTES EN FRANCE
-
-
-TOTAL
 
 Collectives à adhésion obligatoire
 
@@ -18,182 +17,111 @@ Collectives à adhésion facultative
 Individuelles
 
 
-Frais de santé
+Total
 
-01
+Frais de santé :
 
-nombre de cotisants (1)
+.
 
-02
+- nombre de cotisants (1)
 
-nombre de personnes protégées (1)
+.
 
-03
+- nombre de personnes protégées (1)
 
-nombre d'organismes adhérents
+- nombre d'organismes adhérents
 
+Incapacité temporaire - Indemnités journalières :
 
-Incapacité temporaire - indemnités journalières
+- nombre de cotisants (1)
 
-04
+- nombre d'organismes adhérents
 
-nombre de cotisants (1)
+Rentes d'invalidité :
 
-05
+- nombre de rentes en cours de service
 
-nombre d'organismes adhérents
+- nombre de cotisants (1)
 
-Rentes d'invalidité
+- nombre d'organismes adhérents
 
-06
+Chômage :
 
-nombre de rentes en cours de service
+- nombre de cotisants (1)
 
-07
+- nombre d'organismes adhérents
 
-nombre de cotisants (1)
+Indemnité et prime de fin de carrière :
 
-08
+- nombre de bénéficiaires servis
 
-nombre d'organismes adhérents
+- nombre de cotisants (1)
 
+- nombre d'organismes adhérents
 
-Chômage
+Retraite supplémentaire (2) :
 
-09
+- nombre de rentes en cours de service
 
-nombre de cotisants (1)
+- nombre de cotisants (1)
 
-10
+- nombre d'organismes adhérents
 
-nombre d'organismes adhérents
+Autres contrats d'épargne :
 
+- nombre de cotisants (1)
 
-Indemnité et prime de fin de carrière
+- nombre d'organismes adhérents
 
-11
+Dépendance :
 
-nombre de bénéficiaires servis
+- nombre de cotisants (1)
 
-12
+- nombre d'organismes adhérents
 
-nombre de cotisants (1)
+Décès et invalidité totale et définitive :
 
-13
+Capital décès et invalidité totale et définitive :
 
-nombre d'organismes adhérents
+- nombre de capitaux versés
 
-Retraite supplémentaire (2)
+- nombre de cotisants (1)
 
-14
+- nombre d'organismes adhérents
 
-nombre de rentes en cours de service
+Rente de conjoint survivant :
 
-15
+- nombre de rentes en cours de service
 
-nombre de cotisants (1)
+- nombre de cotisants (1)
 
-16
+- nombre d'organismes adhérents
 
-nombre d'organismes adhérents
+Rente d'éducation ou d'orphelin :
 
-Autres contrats d'épargne
+- nombre de rentes en cours de service
 
-17
+- nombre de cotisants (1)
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
-18
+Autres risques et engagements :
 
-nombre d'organismes adhérents
+- nombre de cotisants (1)
 
+- nombre d'organismes adhérents
 
-Dépendance
+Total avec double compte (3) :
 
-19
+- nombre total de cotisants
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
-20
+Total sans double compte (3) :
 
-nombre d'organismes adhérents
+- nombre total de cotisants
 
-
-Décès et invalidité totale et définitive
-
-Capital décès et invalidité totale et définitive
-
-21
-
-nombre de capitaux versés
-
-22
-
-nombre de cotisants (1)
-
-23
-
-nombre d'organismes adhérents
-
-
-Rente de conjoint survivant
-
-24
-
-nombre de rentes en cours de service
-
-25
-
-nombre de cotisants (1)
-
-26
-
-nombre d'organismes adhérents
-
-Rente d'éducation ou d'orphelin
-
-27
-
-nombre de rentes en cours de service
-
-28
-
-nombre de cotisants (1)
-
-29
-
-nombre d'organismes adhérents
-
-
-Autres risques et engagements
-
-30
-
-nombre de cotisants (1)
-
-31
-
-nombre d'organismes adhérents
-
-Totaux avec double compte (3)
-
-41
-
-nombre total de cotisants
-
-42
-
-nombre total d'organismes adhérents
-
-Totaux sans double compte (3)
-
-51
-
-nombre total de cotisants
-
-52
-
-nombre total d'organismes adhérents
+- nombre d'organismes adhérents
 
 (1) Cotisants : membres participants visés à l'article L. 114-1 du code de la
 mutualité (y compris ceux des mutuelles substituées). Les personnes protégées
@@ -201,8 +129,8 @@ comprennent les membres participants et leurs ayant droits (y compris ceux des
 mutuelles substituées).
 
 (2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à
-titre individuel (PERP, Préfon...) soit souscrite dans le cadre d'un plan
-d'épargne collectif salarial (PERCO)).
+titre individuel [PERP, Préfon...] soit souscrite dans le cadre d'un plan
+d'épargne collectif salarial [PERCO]).
 
 (3) Le total avec double compte correspond à un nombre de contrats tandis que le
 total sans double compte correspond à un nombre de personnes. Ainsi, une

@@ -9,7 +9,10 @@ comprend :
 des engagements reçus et donnés, et de l'annexe, tels qu'ils ont été arrêtés par
 le conseil d'administration pour être soumis à l'assemblée ;
 
-3° Les états d'analyse des comptes énumérés à l'article A. 114-5.
+3° Les états d'analyse des comptes énumérés à l'article A. 114-5 ;
+
+4° Les états statistiques relatifs à la protection sociale complémentaire
+énumérés à l'article A. 114-9.
 
 Le compte rendu détaillé annuel est certifié par le président du conseil
 d'administration de la mutuelle ou de l'union sous la formule suivante : " Le

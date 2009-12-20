@@ -3,7 +3,7 @@ Article A114-10
 Les mutuelles et unions soumises à la surveillance complémentaire en application
 du premier alinéa de l'article L. 212-7-2 et des articles R. 213-1, R. 213-5 et
 R. 213-6 fournissent chaque année à l'Autorité de contrôle mentionnée à
-l'article L. 510-1, avant le 31 mai, un dossier constitué conformément aux
+l'article L. 510-1, avant le 30 avril, un dossier constitué conformément aux
 annexes 1 et 2 du présent article.
 
 Le dossier est certifié par le président du conseil d'administration ou le

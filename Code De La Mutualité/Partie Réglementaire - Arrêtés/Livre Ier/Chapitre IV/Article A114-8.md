@@ -7,11 +7,11 @@ participants, bénéficiaires et ayants droit. Il est pratiqué à partir
 d'hypothèses financières standardisées. Ces hypothèses consistent, par rapport à
 leur moyenne respective constatée sur les trois dernières années :
 
-- en une baisse de l'indice boursier de référence de 30 % ;
+-en une baisse de l'indice boursier de référence de 30 % ;
 
-- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
+-en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
 
-- en une baisse de 20 % du prix des transactions immobilières.
+-en une baisse de 20 % du prix des transactions immobilières.
 
 Le test consiste à comparer l'ensemble des décaissements et des encaissements
 prévisibles de la mutuelle ou de l'union au cours des cinq exercices qui suivent
@@ -32,5 +32,6 @@ rachats exceptionnels pris en compte est égal au triple du taux annuel moyen de
 rachats constatés au cours des années passées.
 
 Les mutuelles et unions transmettent les résultats du test chaque année à
-l'Autorité de contrôle des assurances et des mutuelles avant le 31 mars, dans la
-forme de l'état C 6 bis défini dans l'annexe à l'article A. 114-5.
+l'Autorité de contrôle des assurances et des mutuelles dans les quatre mois
+suivant la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans
+l'annexe à l'article A. 114-5.
