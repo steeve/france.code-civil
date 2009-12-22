@@ -1,19 +1,22 @@
 Article R211-2
 ----
-Sauf s'il en est disposé autrement, les compétences dévolues au préfet par les
-dispositions réglementaires des titres Ier et II ainsi que celles du chapitre II
-du titre III sont exercées par le préfet du département où l'entreprise ou
-l'organisme a son siège. Pour les entreprises ou organismes dont le siège est
-situé dans la région Ile-de-France, ces compétences sont exercées par le préfet
-de région.
+Les personnes physiques ou morales immatriculées au registre prévu au a de
+l'article L. 141-3 doivent mentionner le nom ou la raison sociale et la forme
+juridique de l'entreprise ou de l'organisme, leur numéro d'immatriculation, le
+nom et l'adresse de leur garant et de leur assureur dans leur correspondance et
+les documents contractuels. Ces informations doivent aussi figurer, le cas
+échéant, sur leurs sites internet. Sur les documents non contractuels ou
+publicitaires doivent figurer le nom et l'adresse de l'entreprise ou de
+l'organisme et son numéro d'immatriculation.
 
-Les arrêtés préfectoraux pris en application des dispositions réglementaires des
-titres Ier et II ainsi que celles du chapitre II du titre III sont publiés au
-recueil des actes administratifs du département et, pour la région
-Ile-de-France, au recueil des actes administratifs de la région.
+Les associations ou les organismes sans but lucratif mentionnés au b du III de
+l'article L. 211-18 font figurer sur leurs documents leur nom et adresse, ainsi
+que le nom, l'adresse et le numéro d'immatriculation de la fédération ou de
+l'union à laquelle ils sont rattachés. Ces informations doivent aussi figurer,
+le cas échéant, sur leurs sites internet. Les documents de nature contractuelle
+doivent préciser les noms et adresses du garant et de l'assureur de cette
+fédération ou de cette union.
 
-Les licences, agréments, autorisations et habilitations réputés accordés en
-application des dispositions réglementaires des titres Ier et II ainsi que
-celles du chapitre II du titre III, en l'absence de réponse du préfet à
-l'expiration d'un délai de quatre mois, font également l'objet de mesures de
-publicité dans des conditions fixées par les articles R. 211-3 et D. 211-4.
+Toute personne physique ou morale immatriculée au registre mentionné au a de
+l'article L. 141-3 tient ses livres et documents à la disposition du garant et
+des personnes habilitées à les consulter par le ministre chargé du tourisme.

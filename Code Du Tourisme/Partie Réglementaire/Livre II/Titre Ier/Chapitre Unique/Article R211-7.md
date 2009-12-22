@@ -1,10 +1,11 @@
 Article R211-7
 ----
-L'information préalable faite au consommateur engage le vendeur, à moins que
-dans celle-ci le vendeur ne se soit réservé expressément le droit d'en modifier
-certains éléments. Le vendeur doit, dans ce cas, indiquer clairement dans quelle
-mesure cette modification peut intervenir et sur quel éléments.
+L'acheteur peut céder son contrat à un cessionnaire qui remplit les mêmes
+conditions que lui pour effectuer le voyage ou le séjour, tant que ce contrat
+n'a produit aucun effet.
 
-En tout état de cause, les modifications apportées à l'information préalable
-doivent être communiquées par écrit au consommateur avant la conclusion du
-contrat.
+Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer le
+vendeur de sa décision par tout moyen permettant d'en obtenir un accusé de
+réception au plus tard sept jours avant le début du voyage. Lorsqu'il s'agit
+d'une croisière, ce délai est porté à quinze jours. Cette cession n'est soumise,
+en aucun cas, à une autorisation préalable du vendeur.

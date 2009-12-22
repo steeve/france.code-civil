@@ -1,9 +1,13 @@
 Article R211-10
 ----
-Lorsque le contrat comporte une possibilité expresse de révision du prix, dans
-les limites prévues à l'article L. 211-13, il doit mentionner les modalités
-précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, et
-notamment le montant des frais de transport et taxes y afférentes, la ou les
-devises qui peuvent avoir une incidence sur le prix du voyage ou du séjour, la
-part du prix à laquelle s'applique la variation, le cours de la ou des devises
-retenu comme référence lors de l'établissement du prix figurant au contrat.
+Dans le cas prévu à l'article L. 211-14, lorsque, avant le départ de l'acheteur,
+le vendeur annule le voyage ou le séjour, il doit informer l'acheteur par tout
+moyen permettant d'en obtenir un accusé de réception ; l'acheteur, sans préjuger
+des recours en réparation des dommages éventuellement subis, obtient auprès du
+vendeur le remboursement immédiat et sans pénalité des sommes versées ;
+l'acheteur reçoit, dans ce cas, une indemnité au moins égale à la pénalité qu'il
+aurait supportée si l'annulation était intervenue de son fait à cette date.
+
+Les dispositions du présent article ne font en aucun cas obstacle à la
+conclusion d'un accord amiable ayant pour objet l'acceptation, par l'acheteur,
+d'un voyage ou séjour de substitution proposé par le vendeur.
