@@ -1,10 +1,12 @@
 Article D311-5
 ----
-L'hôtel de tourisme est un établissement commercial d'hébergement classé, qui
-offre des chambres ou des appartements meublés en location à une clientèle de
-passage qui y effectue un séjour caractérisé par une location à la journée, à la
-semaine ou au mois, mais qui, sauf exception, n'y élit pas domicile. Il peut
-comporter un service de restauration. Il est exploité toute l'année en
-permanence ou seulement pendant une ou plusieurs saisons. Il est dit hôtel
-saisonnier lorsque sa durée d'ouverture n'excède pas neuf mois par an en une ou
-plusieurs périodes.
+Les hôtels de tourisme sont répartis dans l'une des catégories désignées par un
+nombre d'étoiles croissant, en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué
+par arrêté du ministre chargé du tourisme. Le tableau de classement est révisé
+au moins tous les cinq ans.
+
+Les éditeurs des guides et annuaires de tourisme et des indicateurs de publicité
+doivent respecter les classements ainsi faits lorsqu'ils s'y réfèrent. Aucun
+document de publicité touristique ne doit contenir d'indication de nature à
+créer une équivoque à cet égard.

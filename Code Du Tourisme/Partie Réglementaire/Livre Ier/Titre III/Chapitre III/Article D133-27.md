@@ -1,5 +1,9 @@
 Article D133-27
 ----
-Le classement peut être révisé selon la procédure décrite aux articles D. 133-21
-et D. 133-24 en cas de modification des caractéristiques de l'organisme classé,
-conduisant à un niveau de classement différent de celui initialement prononcé.
+En cas de manquement au respect des caractéristiques exigées par le classement,
+le déclassement ou la radiation de la liste des organismes classés est prononcé
+après injonction de mise en conformité faite par le représentant de l'Etat dans
+le département auprès de l'office de tourisme, dans un délai de trois mois.
+Cette injonction est communiquée pour information au maire de la commune
+intéressée ou, le cas échéant, au président de l'établissement de coopération
+intercommunale.

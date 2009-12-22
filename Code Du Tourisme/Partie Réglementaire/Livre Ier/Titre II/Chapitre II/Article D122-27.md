@@ -50,7 +50,7 @@ de France ;
 
 -le président du Centre national des monuments historiques ;
 
--le président de Maison de la France.
+- le président de l'Agence de développement touristique de la France.
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de
 laquelle est choisi le rapporteur désigné par arrêté conjoint du ministre chargé

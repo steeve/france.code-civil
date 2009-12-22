@@ -1,7 +1,7 @@
 Article D133-26
 ----
-Le classement est prononcé pour cinq ans. Passé cette période, il expire
-d'office et peut être renouvelé suivant la procédure définie aux articles D.
-133-21 et D. 133-24. A l'issue du délai de cinq ans, le préfet du département
-concerné peut décider, après avis de la commission départementale de l'action
-touristique, de proroger de six mois le délai de validité du classement.
+Pour la vérification de leur conformité aux caractéristiques exigées pour leur
+classement, les offices de tourisme admettent la visite des agents de
+l'administration de l'Etat chargée du tourisme ou des agents d'une
+administration habilités par décision du représentant de l'Etat dans le
+département.
