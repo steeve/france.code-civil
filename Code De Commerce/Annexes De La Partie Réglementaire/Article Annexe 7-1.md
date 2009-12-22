@@ -7,13 +7,7 @@ DÉPARTEMENT
 
 TRIBUNAL de grande instance
 
-
-SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE
-
-Siège
-
-
-Ressort
+SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE Siège Ressort
 
 Cour d'appel d'Agen
 
@@ -85,8 +79,6 @@ Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer
 Cannes
 
 Ressort du tribunal d'instance de Cannes
-
-Cour d'appel d'Agen
 
 
 Bouches-du-Rhône
@@ -647,12 +639,12 @@ Cour d'appel de Lyon
 
 Ain
 
-Bourg-en-Bresse Belley
+Bourg-en-Bresse
 
 
 Bourg-en-Bresse
 
-Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley
+Ressort des tribunaux de grande instance de Bourg-en-Bresse
 
 
 Loire
@@ -734,38 +726,38 @@ Ressort du tribunal de grande instance de Narbonne
 
 Aveyron
 
-Rodez Millau
-
 
 Rodez
 
-Ressort des tribunaux de grande instance de Rodez et de Millau
+Rodez
 
+
+Ressort des tribunaux de grande instance de Rodez
 
 Hérault
 
-Béziers
-
 
 Béziers
+
+Béziers
+
 
 Ressort du tribunal de grande instance de Béziers
 
-
 Montpellier
 
-Montpellier
 
+Montpellier
 
 Ressort du tribunal de grande instance de Montpellier
 
+
 Pyrénées-Orientales
 
-
 Perpignan
 
-Perpignan
 
+Perpignan
 
 Ressort du tribunal de grande instance de Perpignan
 
@@ -1086,7 +1078,9 @@ Châlons-en-Champagne
 
 Châlons-en-Champagne
 
-Ressort du tribunal d'instance de Châlons-en-Champagne
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des
+cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton,
+Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
 
 
 Reims
@@ -1126,17 +1120,7 @@ Quimper
 
 Ressort du tribunal de grande instance de Quimper
 
-Ille-et-Vilaine
-
-
-Rennes
-
-Rennes
-
-
-Ressort du tribunal de grande instance de Rennes
-
-et Côtes-d'Armor
+Ille-et-Vilaine et Côtes-d'Armor
 
 Saint-Malo Dinan
 

@@ -37,11 +37,7 @@ Le département
 
 La Réunion
 
-Tribunal mixte de commerce de Saint-Denis
+Tribunal mixte de commerce de Saint-Denis Tribunal mixte de commerce de
+Saint-Pierre
 
-
-Tribunal mixte de commerce de Saint-Pierre
-
-Ressort du tribunal mixte de commerce
-
-Ressort du tribunal mixte de commerce
+Ressort du tribunal mixte de commerce Ressort du tribunal mixte de commerce
