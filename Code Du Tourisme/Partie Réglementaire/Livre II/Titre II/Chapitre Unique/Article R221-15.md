@@ -27,31 +27,32 @@ diplôme, certificat ou autre titre et certifiant que le titulaire a exercé
 effectivement sur son territoire l'activité à titre professionnel pendant une
 durée de trois ans au moins ;
 
-2° Ou d'un titre de formation sanctionnant une formation réglementée, au sens du
-d bis de l'article 1er de la directive 89/48/CEE du Conseil du 21 décembre 1988,
-modifiée par la directive 2001/19/CE du Parlement européen et du Conseil du 14
-mai 2001 ;
+2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant
+une formation réglementée attestant d'un niveau de qualification professionnelle
+au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
+l'exercice de cette profession ;
 
-3° Ou de l'exercice à plein temps de l'activité pendant deux ans au moins au
-cours des dix années précédentes dans un Etat membre de la Communauté européenne
-ou d'un Etat partie à l'accord sur l'Espace économique européen qui ne
-réglemente pas l'accès ou l'exercice de cette profession, à condition que cette
-expérience professionnelle soit attestée par l'autorité compétente de cet Etat
-membre ou de l'Etat partie à l'accord précité.
+3° Ou de l'exercice à temps plein de l'activité pendant deux ans au moins au
+cours des dix années précédentes, dans un autre Etat membre ou un autre Etat
+partie à l'Espace économique européen qui ne réglemente pas l'accès ou
+l'exercice de la profession, à condition que le demandeur détienne une ou
+plusieurs attestations de compétence ou un ou plusieurs titres de formation. Ces
+attestations ou titres doivent avoir été délivrés par une autorité compétente de
+cet Etat, et attester d'un niveau de qualification professionnelle au moins
+équivalent au niveau immédiatement inférieur et de la préparation du demandeur à
+l'exercice de la profession.
 
-Toutefois, lorsque la Commission nationale des guides-interprètes et
-conférenciers a constaté que la formation dispensée au titre du 1° ou du 2°
-ci-dessus porte sur des matières substantiellement différentes de celles qui
-figurent au programme du diplôme national ou de celles de l'examen de
-conférencier national, ou lorsque l'activité n'est pas réglementée dans l'Etat
-membre ou l'Etat partie à l'accord sur l'Espace économique européen ou est
-réglementée d'une manière substantiellement différente, et a vérifié si les
+Toutefois, lorsque le préfet a constaté que la formation détenue par le
+demandeur porte sur des matières substantiellement différentes de celles qui
+figurent au programme du diplôme national de guide-interprète national ou de
+celles de l'examen de conférencier national, ou lorsque la durée de la formation
+est inférieure d'au moins un an à celle requise pour se présenter à l'examen de
+guide-interprète national ou de conférencier national, il vérifie si les
 connaissances acquises par le demandeur au cours de son expérience
 professionnelle sont de nature à couvrir, en tout ou partie, la différence de
-formation, le préfet, sur l'avis de cette commission, peut exiger que
-l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit
-d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans et qui
-fait l'objet d'une évaluation.
+formation. En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se
+soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont
+la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation.
 
 Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire
 connaître son choix entre l'épreuve d'aptitude et le stage d'adaptation dans un

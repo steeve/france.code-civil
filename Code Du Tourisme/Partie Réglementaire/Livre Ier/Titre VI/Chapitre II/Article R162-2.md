@@ -1,6 +1,6 @@
 Article R162-2
 ----
-Les attributions confiées à la commission départementale de l'action touristique
-sont exercées, à Saint-Pierre-et-Miquelon, par une commission de l'action
-touristique. La composition et le fonctionnement de cette commission sont fixés
-par décret.
+Les références faites, par des dispositions du présent livre applicables à
+Saint-Pierre-et-Miquelon, à des dispositions qui n'y sont pas applicables sont
+remplacées par les références aux dispositions ayant le même objet applicables
+localement.

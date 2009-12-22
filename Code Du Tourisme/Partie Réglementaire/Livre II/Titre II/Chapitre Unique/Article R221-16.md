@@ -11,18 +11,31 @@ compétence prescrite par un Etat membre de la Communauté européenne ou un Eta
 partie à l'accord sur l'Espace économique européen qui réglemente l'accès ou
 l'exercice de la profession ;
 
-2° Ou de qualifications obtenues dans un autre Etat membre ou partie à l'accord
-précité et donnant des garanties équivalentes à celles requises pour les
-ressortissants nationaux.
+2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant
+une formation réglementée attestant d'un niveau de qualification professionnelle
+au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
+l'exercice de cette profession ;
 
-Toutefois, lorsque la Commission nationale des guides-interprètes et
-conférenciers a constaté que l'intéressé ne justifie pas d'un des titres de
-formation ou attestations de compétence mentionnés au 1° et a vérifié si les
-qualifications obtenues au cours de son expérience professionnelle sont de
-nature à couvrir celles requises pour l'exercice de l'activité, le préfet, sur
-l'avis de cette commission, peut exiger que l'intéressé choisisse soit de se
+3° Ou de l'exercice à temps plein de l'activité pendant deux ans au moins au
+cours des dix années précédentes, dans un autre Etat membre ou un autre Etat
+partie à l'Espace économique européen qui ne réglemente pas l'accès ou
+l'exercice de la profession, à condition que le demandeur détienne une ou
+plusieurs attestations de compétence ou un ou plusieurs titres de formation. Ces
+attestations ou titres doivent avoir été délivrés par une autorité compétente de
+cet Etat, et attester d'un niveau de qualification professionnelle au moins
+équivalent au niveau immédiatement inférieur et de la préparation du demandeur à
+l'exercice de la profession.
+
+Toutefois, lorsque le préfet a constaté que la formation détenue par le
+demandeur porte sur des matières substantiellement différentes de celles qui
+figurent au programme de l'examen de guide interprète régional, ou lorsque la
+durée de la formation est inférieure d'au moins un an à celle requise pour se
+présenter à l'examen de guide interprète régional, il vérifie si les
+connaissances acquises par le demandeur au cours de son expérience
+professionnelle sont de nature à couvrir, en tout ou partie, la différence de
+formation. En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se
 soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont
-la durée ne peut excéder deux ans et qui fait l'objet d'une évaluation.
+la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation.
 
 Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire
 connaître son choix entre l'épreuve d'aptitude et le stage d'adaptation dans un

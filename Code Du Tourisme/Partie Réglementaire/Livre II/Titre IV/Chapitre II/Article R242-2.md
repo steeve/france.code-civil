@@ -1,5 +1,8 @@
 Article R242-2
 ----
-Les attributions confiées à la commission départementale de l'action touristique
-par le présent livre sont exercées par la commission de l'action touristique
-prévue à l'article R. 162-2.
+Ne sont pas applicables les références relatives à l'accord instituant l'Espace
+économique européen faites dans le présent livre et les dispositions suivantes :
+
+1° Le 2° de l'article R. 221-15 ;
+
+2° Le chapitre Ier du titre III du présent livre.

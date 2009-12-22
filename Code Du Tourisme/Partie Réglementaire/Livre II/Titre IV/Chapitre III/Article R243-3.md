@@ -1,5 +1,8 @@
 Article R243-3
 ----
-Les attributions confiées à la commission départementale de l'action touristique
-sont exercées par la commission de l'action touristique prévue à l'article R.
-163-3.
+Ne sont pas applicables les références faites dans le présent livre à l'accord
+instituant l'Espace économique européen et les dispositions suivantes :
+
+1° La section 5 du chapitre Ier du titre Ier ;
+
+2° Le 2° de l'article R. 221-15.

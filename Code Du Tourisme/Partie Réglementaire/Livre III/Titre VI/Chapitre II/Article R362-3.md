@@ -1,5 +1,4 @@
 Article R362-3
 ----
-Les attributions confiées à la commission départementale de l'action touristique
-par le présent livre sont exercées par la commission de l'action touristique
-prévue à l'article R. 162-2.
+Les dispositions du code de l'urbanisme sont remplacées par les dispositions du
+règlement d'urbanisme local ayant le même objet.

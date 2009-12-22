@@ -1,5 +1,5 @@
 Article R163-3
 ----
-Les attributions confiées à la commission départementale de l'action touristique
-sont exercées par une commission de l'action touristique. La composition et le
-fonctionnement de cette commission sont fixés par décret.
+Les références faites, par des dispositions du présent livre applicables à
+Mayotte, à des dispositions qui n'y sont pas applicables sont remplacées par les
+références aux dispositions ayant le même objet applicables localement.

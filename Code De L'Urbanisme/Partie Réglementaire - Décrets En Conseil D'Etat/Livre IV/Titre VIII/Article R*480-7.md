@@ -13,8 +13,7 @@ résidences mobiles de loisirs, les caravanes ou tout autre véhicule ;
 
 Si les prescriptions de sécurité et d'hygiène, les prescriptions fixées par
 l'autorisation, le permis d'aménager ou la décision de non-opposition à la
-déclaration préalable ne sont pas respectées, le maire peut, après avis de la
-commission départementale de l'action touristique, mettre en demeure le
+déclaration préalable ne sont pas respectées, le maire peut mettre en demeure le
 propriétaire ou l'exploitant, par décision motivée, de procéder aux aménagements
 ou aux réparations nécessaires.
 

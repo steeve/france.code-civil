@@ -1,4 +1,6 @@
 Article R362-4
 ----
-Les dispositions du code de l'urbanisme sont remplacées par les dispositions du
-règlement d'urbanisme local ayant le même objet.
+Les références faites, par des dispositions du présent livre applicables à
+Saint-Pierre-et-Miquelon, à des dispositions qui n'y sont pas applicables sont
+remplacées par les références aux dispositions ayant le même objet applicables
+localement.

@@ -20,7 +20,7 @@ c) Carte de guide-interprète régional ;
 d) Carte de guide conférencier des villes et pays d'art et d'histoire.
 
 Les cartes professionnelles sont délivrées dans les conditions prévues par les
-dispositions réglementaires des sections 2 et 3 du présent chapitre.
+dispositions réglementaires des sections 2 à 4 du présent chapitre.
 
 3° Les personnes titulaires de la carte de guide-interprète local et de
 guide-interprète auxiliaire à titre définitif peuvent obtenir le renouvellement
