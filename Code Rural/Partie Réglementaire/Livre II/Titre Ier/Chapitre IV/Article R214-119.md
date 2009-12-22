@@ -11,4 +11,5 @@ La commission nationale de l'expérimentation animale rend au ministre chargé d
 l'agriculture un avis pour l'approbation des formations des personnes appelées à
 utiliser des animaux à des fins scientifiques et expérimentales, de celles des
 techniciens de laboratoire et des personnels chargés de l'entretien et des soins
-animaux.
+animaux. Ces formations sont approuvées pour une durée de cinq ans. Leur
+renouvellement fait l'objet d'un nouvel avis de la commission.

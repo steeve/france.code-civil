@@ -45,4 +45,6 @@ animale.
 Pour chacun des membres mentionnés aux 1° et 2° ci-dessus, un suppléant est
 nommé dans les mêmes conditions.
 
-En cas de partage égal des voix, la voix du président est prépondérante.
+La commission se prononce à la majorité des voix des membres présents ou
+suppléés. En cas de partage égal des voix, la voix du président est
+prépondérante.
