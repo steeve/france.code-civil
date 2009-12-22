@@ -1,7 +1,8 @@
 Article 1251-1
 ----
 Peuvent obtenir du procureur de la République copie de la déclaration aux fins
-de sauvegarde de justice mentionnée au premier alinéa de l'article 1251 :
+de sauvegarde de justice mentionnée au premier alinéa de l'article 1251 ou de la
+décision du juge des tutelles prévue à l'article 1249 :
 
 1° Les autorités judiciaires ;
 

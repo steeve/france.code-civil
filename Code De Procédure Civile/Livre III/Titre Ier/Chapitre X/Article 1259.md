@@ -19,7 +19,7 @@ produit.
 Si le greffier estime les conditions non remplies, il restitue le mandat sans le
 viser au comparant ainsi que le certificat produit.
 
-Dans ce cas, le bénéficiaire du mandant, le mandant ou le mandataire peut saisir
+Dans ce cas, le bénéficiaire du mandat, le mandant ou le mandataire peut saisir
 le juge par requête. Celui-ci peut se prononcer sans débat et sa décision n'est
 pas susceptible d'appel. Si le juge estime les conditions requises remplies, le
 greffier procède, à la demande du bénéficiaire du mandat, du mandant ou du
