@@ -1,11 +1,12 @@
 Article 1239
 ----
 Sauf disposition contraire, les décisions du juge des tutelles et les
-délibérations du conseil de famille sont susceptibles de recours.
+délibérations du conseil de famille sont susceptibles d'appel.
 
-Le recours est ouvert aux personnes énumérées à l'article 430 du code civil même
+Sans préjudice des dispositions prévues par les articles 1239-1 à 1239-3,
+l'appel est ouvert aux personnes énumérées à l'article 430 du code civil, même
 si elles ne sont pas intervenues à l'instance.
 
-Le recours est porté devant le tribunal de grande instance.
+Le délai d'appel est de quinze jours.
 
-Le délai de recours est de quinze jours.
+Les parties ne sont pas tenues de constituer avocat ou avoué.
