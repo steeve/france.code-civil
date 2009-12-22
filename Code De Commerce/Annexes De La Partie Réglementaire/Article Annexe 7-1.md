@@ -1,6 +1,6 @@
 Article Annexe 7-1
 ----
-SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE.
+Siège et ressort des tribunaux de commerce
 
 
 DÉPARTEMENT
@@ -17,1444 +17,1423 @@ Ressort
 
 Cour d'appel d'Agen
 
-Gers.
 
-Auch.
+Gers
 
-Auch.
+Auch
 
-Ressort du tribunal de grande instance d'Auch.
 
-Lot.
+Auch
 
-Cahors.
+Ressort du tribunal de grande instance d'Auch
 
-Cahors.
 
+Lot
+
+Cahors
+
+
+Cahors
 
 Ressort du tribunal de grande instance de Cahors
 
-Lot-et-Garonne.
 
-Agen.
+Lot-et-Garonne
 
-Agen.
+Agen Marmande
 
-Ressort du tribunal de grande instance d'Agen à l'exception du ressort du
-tribunal d'instance de Villeneuve-sur-Lot.
 
-Villeneuve-sur-Lot.
+Agen
 
-Ressort du tribunal d'instance de Villeneuve-sur-lot.
-
-Marmande.
-
-Marmande.
-
-Ressort du tribunal de grande instance de Marmande.
+Ressort des tribunaux de grande instance d'Agen et de Marmande
 
 Cour d'appel d'Aix-en-Provence
 
-Alpes-de-Haute-Provence.
 
-Digne-les-Bains.
+Alpes-de-Haute-Provence
 
-Le tribunal de grande instance est compétent en matière commerciale dans le
-ressort des tribunaux d'instance de Barcelonnette et Digne et dans le canton de
-Valensole.
+Digne-les Bains
 
-Manosque.
 
-Ressort du tribunal d'instance de Forcalquier, à l'exception du canton de
-Valensole.
+Manosque
 
-Alpes-Maritimes.
+Ressort du tribunal de grande instance de Digne-les-Bains
 
-Nice.
 
-Nice.
+Alpes-Maritimes
 
-Ressort du tribunal d'instance de Nice et cantons de Breil-sur-Roya et
-Ville-franche-sur-Mer.
+Nice
 
-Menton.
 
-Ressort du tribunal d'instance de Menton à l'exception des cantons de
-Breil-sur-Roya et Villefranche-sur-Mer.
+Nice
 
-Grasse.
+Ressort du tribunal de grande instance de Nice
 
-Grasse.
 
-Ressort du tribunal d'instance de Grasse.
+Grasse
 
-Antibes.
+Grasse
 
-Ressort du tribunal d'instance d'Antibes.
+Ressort du tribunal d'instance de Grasse
 
-Cannes.
 
-Ressort du tribunal d'instance de Cannes.
+Antibes
 
-Bouches-du-Rhône.
+Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer
 
-Aix-en-Provence.
 
-Aix-en-Provence.
+Cannes
+
+Ressort du tribunal d'instance de Cannes
+
+
+Bouches-du-Rhône
+
+Aix-en-Provence
+
+
+Aix-en-Provence
 
 Ressort des tribunaux d'instance d'Aix-en-Provence et de Martigues, à
-l'exception des cantons de Berre-l'Etang et Istres.
+l'exception des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord
 
-Salon-de-Provence.
 
-Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang
-et Istres.
+Salon-de-Provence
 
-Marseille.
+Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang,
+Istres-Sud et Istres-Nord
 
-Marseille.
 
-Ressort du tribunal de grande instance de Marseille.
+Marseille
 
-Tarascon.
+Marseille
 
-Tarascon.
 
-Ressort du tribunal d'instance de Tarascon.
+Ressort du tribunal de grande instance de Marseille
 
-Arles.
+Tarascon
 
-Ressort du tribunal d'instance d'Arles.
 
-Var.
+Tarascon
 
-Draguignan.
+Ressort du tribunal de grande instance de Tarascon
 
-Draguignan.
 
-Ressort du tribunal d'instance de Draguignan.
+Var
 
-Brignoles.
+Draguignan
 
-Ressort du tribunal d'instance de Brignoles.
 
-Fréjus.
+Draguignan
 
-Ressort du tribunal d'instance de Fréjus, à l'exception des cantons de Grimaud
-et Saint-Tropez.
+Ressort des tribunaux d'instance de Draguignan et de Brignoles
 
-Saint-Tropez.
 
-Cantons de Grimaud et Saint-Tropez.
+Fréjus
 
-Toulon.
+Ressort du tribunal d'instance de Fréjus
 
-Toulon.
 
-Ressort du tribunal de grande instance de Toulon.
+Toulon
+
+Toulon
+
+
+Ressort du tribunal de grande instance de Toulon
 
 Cour d'appel d'Amiens
 
-Aisne.
 
-Laon.
+Aisne
 
-Le tribunal de grande instance est compétent en matière commerciale dans le
-ressort du tribunal d'instance de Laon, à l'exception des cantons de Chauny,
-Coucy-le-Château-Auffrique, La Fère et Tergnier.
+Saint-Quentin Laon
 
-Chauny.
 
-Cantons de Chauny, Coucy-le-Château-Auffrique, La Fère et Tergnier.
+Saint-Quentin
 
-Vervins.
+Ressort des tribunaux de grande instance de Saint-Quentin et de Laon
 
-Ressort du tribunal d'instance de Vervins et cantons de Guise et Wassigny.
 
-Saint-Quentin.
+Soissons
 
-Saint-Quentin.
+Soissons
 
-Ressort du tribunal de grande instance de Saint-Quentin à l'exception des
-cantons de Guise et Wassigny.
 
-Soissons.
+Ressort du tribunal de grande instance de Soissons
 
-Soissons.
+Oise
 
-Ressort du tribunal de grande instance de Soissons.
 
-Oise.
+Beauvais
 
-Beauvais.
+Beauvais
 
-Beauvais.
 
-Ressort du tribunal de grande instance de Beauvais.
+Ressort du tribunal de grande instance de Beauvais
 
-Compiègne.
+Compiègne
 
-Compiègne.
 
-Ressort du tribunal de grande instance de Compiègne.
+Senlis
 
-Senlis.
+Compiègne
 
-Senlis.
 
-Ressort du tribunal de grande instance de Senlis.
+Ressort des tribunaux de grande instance de Compiègne et de Senlis
 
-Somme.
+Somme
 
-Abbeville.
 
-Abbeville.
+Amiens
 
-Ressort du tribunal de grande instance d'Abbeville.
+Abbeville
 
-Amiens.
 
-Amiens.
+Péronne
 
-Ressort du tribunal de grande instance d'Amiens.
+Amiens
 
-Péronne.
-
-Le tribunal de grande instance est compétent en matière commerciale.
+Ressort des tribunaux de grande instance d'Amiens, d'Abbeville et de Péronne
 
 Cour d'appel d'Angers
 
-Maine-et-Loire.
 
-Angers.
+Maine-et-Loire
 
-Angers.
+Angers
 
-Ressort du tribunal de grande instance d'Angers.
 
-Saumur.
+Saumur
 
-Saumur.
+Angers
 
-Ressort du tribunal de grande instance de Saumur.
+Ressort des tribunaux de grande instance d'Angers et de Saumur
 
-Mayenne.
 
-Laval.
+Mayenne
 
-Laval.
+Laval
 
-Ressort du tribunal de grande instance de Laval.
 
-Sarthe.
+Laval
 
-Le Mans.
+Ressort du tribunal de grande instance de Laval
 
-Le Mans.
 
-Ressort des tribunaux d'instance de la Flèche, Le Mans et Saint-Calais.
+Sarthe
 
-Mamers.
+Le Mans
 
-Ressort du tribunal d'instance de Mamers.
+
+Le Mans
+
+Ressort du tribunal de grande instance du Mans
 
 Cour d'appel de Bastia
 
-Corse-du-Sud.
 
-Ajaccio.
+Corse-du-Sud
 
-Ajaccio.
+Ajaccio
 
-Ressort du tribunal de grande instance d'Ajaccio.
 
-Haute-Corse.
+Ajaccio
 
-Bastia.
+Ressort du tribunal de grande instance d'Ajaccio
 
-Bastia.
 
-Ressort du tribunal de grande instance de Bastia.
+Haute-Corse
+
+Bastia
+
+
+Bastia
+
+Ressort du tribunal de grande instance de Bastia
 
 Cour d'appel de Besançon
 
-Doubs.
 
-Besançon.
+Doubs
 
-Besançon.
+Besançon
 
-Ressort du tribunal de grande instance de Besançon.
 
-Montbéliard.
+Besançon
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Ressort du tribunal de grande instance de Besançon
 
-Jura.
 
-Dole.
+Jura
 
-Dole.
+Lons-le-Saunier
 
-Ressort du tribunal de grande instance de Dole.
 
-Lons-le-Saunier.
+Dole
 
-Lons-le-Saunier.
+Lons-le-Saunier
 
-Ressort du tribunal de grande instance de Lons-le-Saunier.
 
-Haute-Saône.
+Ressort des tribunaux de grande instance de Lons-le-Saunier et de Dole
 
-Vesoul.
+Haute-Saône
 
-Vesoul.
 
-Ressort du tribunal de grande instance de Vesoul.
+Vesoul
 
-Lure.
+Lure
 
-Le tribunal de grande instance est compétent en matière commerciale.
 
-Territoire de Belfort.
+Vesoul
 
-Belfort.
+Ressort des tribunaux de grande instance de Vesoul et de Lure
 
-Belfort.
 
-Ressort du tribunal de grande instance de Belfort.
+Territoire de Belfort
+
+et
+
+
+Doubs
+
+Belfort
+
+
+Montbéliard
+
+Belfort
+
+
+Ressort des tribunaux de grande instance de Belfort et de Montbéliard
 
 Cour d'appel de Bordeaux
 
-Charente.
 
-Angoulême.
+Charente
 
-Angoulême.
+Angoulême
 
-Ressort du tribunal de grande instance d'Angoulême, à l'exception du ressort du
-tribunal d'instance de Cognac.
 
-Cognac.
+Angoulême
 
-Ressort du tribunal d'instance de Cognac.
+Ressort du tribunal de grande instance d'Angoulême
 
-Dordogne.
 
-Bergerac.
+Dordogne
 
-Bergerac.
+Bergerac
 
-Ressort du tribunal d'instance de Bergerac.
 
-Sarlat.
+Bergerac
 
-Ressort du tribunal d'instance de Sarlat et cantons de Montignac et Terrasson.
+Ressort du tribunal de grande instance de Bergerac
 
-Périgueux.
 
-Périgueux.
+Périgueux
 
-Ressort du tribunal de grande instance de Périgueux, à l'exception des cantons
-de Montignac et Terrasson.
+Périgueux
 
-Gironde.
 
-Bordeaux.
+Ressort du tribunal de grande instance de Périgueux
 
-Bordeaux.
+Gironde
 
-Ressort du tribunal de grande instance, à l'exception du ressort du tribunal
-d'instance de Blaye.
 
-Blaye.
+Bordeaux
 
-Ressort du tribunal d'instance de Blaye.
+Bordeaux
 
-Libourne.
+Ressort du tribunal de grande instance de Bordeaux, à l'exception du ressort du
+tribunal d'instance de Blaye
 
-Libourne.
 
-Ressort du tribunal de grande instance de Libourne.
+Libourne
+
+Libourne
+
+Ressort des tribunaux d'instance de Libourne et de Blaye
 
 Cour d'appel de Bourges
 
-Cher.
 
-Bourges.
+Cher
 
-Bourges.
+Bourges
 
-Ressort du tribunal de grande instance de Bourges.
 
-Indre.
+Bourges
 
-Châteauroux.
+Ressort du tribunal de grande instance de Bourges
 
-Châteauroux.
 
-Ressort du tribunal de grande instance de Châteauroux.
+Indre
 
-Nièvre.
+Châteauroux
 
-Nevers.
 
-Nevers.
+Châteauroux
 
-Ressort du tribunal de grande instance de Nevers.
+Ressort du tribunal de grande instance de Châteauroux
+
+
+Nièvre
+
+Nevers
+
+
+Nevers
+
+Ressort du tribunal de grande instance de Nevers
 
 Cour d'appel de Caen
 
-Calvados.
 
-Caen.
+Calvados
 
-Bayeux.
+Caen
 
-Ressort du tribunal d'instance de Bayeux.
 
-Caen.
+Caen
 
-Ressort du tribunal d'instance de Caen.
+Ressort du tribunal de grande instance de Caen
 
-Condé-sur-Noireau.
 
-Ressort des tribunaux d'instance de Vire, Falaise et Domfront.
+Lisieux
 
-Lisieux.
+Lisieux
 
-Lisieux.
 
-Ressort du tribunal d'instance de Lisieux.
+Ressort du tribunal de grande instance de Lisieux
 
-Honfleur.
+Manche
 
-Ressort du tribunal d'instance de Pont-l'Evêque.
 
-Manche.
+Avranches
 
-Avranches.
+Coutances
 
-Coutances.
 
-Ressort des tribunaux de grande instance d'Avranches et Coutances.
+Coutances
 
-Cherbourg.
+Ressort des tribunaux de grande instance d'Avranches et de Coutances
 
-Cherbourg.
 
-Ressort du tribunal de grande instance de Cherbourg.
+Cherbourg-Octeville
 
-Coutances.
+Cherbourg-Octeville
 
-Coutances.
 
-Ressort des tribunaux de grande instance d'Avranches et Coutances.
+Ressort du tribunal de grande instance de Cherbourg-Octeville
 
-Orne.
+Orne
 
-Alençon.
 
-Alençon.
+Alençon
 
-Ressort du tribunal de grande instance d'Alençon.
+Argentan
 
-Argentan.
 
-Argentan.
+Alençon
 
-Ressort du tribunal d'instance d'Argentan.
+Ressort des tribunaux de grande instance d'Alençon et d'Argentan
 
 Cour d'appel de Chambéry
 
-Savoie.
 
-Albertville.
+Savoie
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Chambéry
 
-Chambéry.
 
-Chambéry.
+Albertville
 
-Ressort du tribunal de grande instance de Chambéry.
+Chambéry
 
-Haute-Savoie.
+Ressort des tribunaux de grande instance de Chambéry et d'Albertville
 
-Annecy.
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Haute-Savoie
 
-Bonneville.
+Annecy
 
-Le tribunal de grande instance est compétent en matière commerciale.
 
-Thonon-les-Bains.
+Bonneville
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Annecy
+
+Ressort des tribunaux de grande instance d'Annecy et de Bonneville
+
+
+Thonon-les-Bains
+
+Thonon-les-Bains
+
+
+Ressort du tribunal de grande instance de Thonon-les-Bains
 
 Cour d'appel de Colmar
 
-Bas-Rhin.
 
-Saverne.
+Bas-Rhin
 
-La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+Saverne
 
-Strasbourg.
 
 La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+commerciale
 
-Haut-Rhin.
+Strasbourg
 
-Colmar.
-
-La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
-
-Mulhouse.
 
 La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+commerciale
+
+Haut-Rhin
+
+
+Colmar
+
+La chambre commerciale du tribunal de grande instance est compétente en matière
+commerciale
+
+
+Mulhouse
+
+La chambre commerciale du tribunal de grande instance est compétente en matière
+commerciale
 
 Cour d'appel de Dijon
 
-Côte-d'Or.
+Côte-d'Or
 
-Dijon.
 
-Dijon.
+Dijon
 
-Ressort des tribunaux d'instance de Dijon, Châtillon-sur-seine et
-Semur-en-Auxois.
+Dijon
 
-Beaune.
 
-Ressort du tribunal d'instance de Beaune.
+Ressort du tribunal de grande instance de Dijon
 
-Haute-Marne.
+Haute-Marne
 
-Chaumont.
 
-Chaumont.
+Chaumont
 
-Ressort des tribunaux d'instance de Chaumont et de Langres, à l'exception du
-canton de Doulaincourt.
+Chaumont
 
-Saint-Dizier.
 
-Ressort du tribunal d'instance de Saint-Dizier et canton de Doulaincourt.
+Ressort du tribunal de grande instance de Chaumont
 
-Saône-et-Loire.
+Saône-et-Loire
 
-Châlon-sur-Saône.
 
-Châlon-sur-Saône.
+Chalon-sur-Saône
 
-Ressort des tribunaux d'instance de Châlon-sur-Saône et de Louhans.
+Chalon-sur-Saône
 
-Le Creusot.
 
-Ressort des tribunaux d'instance du Creusot, de Montceau-les-Mines et d'Autun.
+Ressort du tribunal de grande instance de Chalon-sur-Saône
 
-Mâcon.
+Mâcon
 
-Mâcon.
 
-Ressort du tribunal de grande instance de Mâcon.
+Mâcon
+
+Ressort du tribunal de grande instance de Mâcon
 
 Cour d'appel de Douai
 
-Nord.
 
-Avesnes.
+Nord
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Douai Cambrai
 
-Cambrai.
 
-Cambrai.
+Douai
 
-Ressort du tribunal de grande instance de Cambrai.
+Ressort des tribunaux de grande instance de Douai et de Cambrai
 
-Douai.
 
-Douai.
+Dunkerque Hazebrouck
 
-Ressort du tribunal de grande instance de Douai.
+Dunkerque
 
-Dunkerque.
+Ressort des tribunaux de grande instance de Dunkerque et d'Hazebrouck
 
-Dunkerque.
 
-Ressort du tribunal de grande instance de Dunkerque.
+Lille
 
-Hazebrouck.
+Lille
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy
 
-Lille.
 
-Lille.
+Roubaix-Tourcoing
 
-Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy.
+Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy
 
-Roubaix-Tourcoing.
 
-Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy.
+Valenciennes
 
-Valenciennes.
+Avesnes-sur-Helpe
 
-Valenciennes.
 
-Ressort du tribunal de grande instance de Valenciennes.
+Valenciennes
 
-Pas-de-Calais.
+Ressort des tribunaux de grande instance de Valenciennes et d'Avesnes-sur-Helpe
 
-Arras.
 
-Arras.
+Pas-de-Calais
 
-Ressort du tribunal de grande instance d'Arras.
+Arras Béthune
 
-Béthune.
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Arras
 
-Boulogne-sur-Mer.
+Ressort des tribunaux de grande instance d'Arras et de Béthune
 
-Boulogne-sur-Mer.
 
-Ressort du tribunal de grande instance de Boulogne-sur-Mer, à l'exception des
-cantons de Calais-Nord-Ouest, Calais-Est, Calais-Centre, Guines et Marquise.
+Boulogne-sur-Mer
 
-Calais.
+Saint-Omer
 
-Cantons de Calais-Nord-Ouest, Calais-Est, Calais-Centre, Guines et Marquise.
 
-Saint-Omer.
+Boulogne-sur-Mer
 
-Saint-Omer.
-
-Ressort du tribunal de grande instance de Saint-Omer.
+Ressort des tribunaux de grande instance de Boulogne-sur-Mer et de Saint-Omer
 
 Cour d'appel de Grenoble
 
-Hautes-Alpes.
 
-Gap.
+Hautes-Alpes
 
-Gap.
+Gap
 
-Ressort du tribunal de grande instance de Gap.
 
-Drôme.
+Gap
 
-Valence.
+Ressort du tribunal de grande instance de Gap
 
-Le tribunal de grande instance est compétent en matière commerciale dans le
-ressort des tribunaux d'instance de Montélimar et Nyons.
 
-Die.
+Drôme
 
-Ressort du tribunal d'instance de Die.
+Valence
 
-Romans.
 
-Ressort des tribunaux d'instance de Romans et Valence.
+Romans-sur-Isère
 
-Isère.
+Ressort du tribunal de grande instance de Valence
 
-Bourgoin-Jallieu.
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Isère
 
-Grenoble.
+Grenoble
 
-Grenoble.
 
-Ressort du tribunal de grande instance de Grenoble.
+Grenoble
 
-Vienne.
+Ressort du tribunal de grande instance de Grenoble
 
-Vienne.
 
-Ressort du tribunal de grande instance de Vienne.
+Vienne
+
+Bourgoin-Jallieu
+
+
+Vienne
+
+Ressort des tribunaux de grande instance de Vienne et de Bourgoin-Jallieu
 
 Cour d'appel de Limoges
 
-Corrèze.
 
-Brive.
+Corrèze
 
-Brive.
+Brive-la-Gaillarde
 
-Ressort du tribunal de grande instance de Brive.
 
-Tulle.
+Tulle
 
-Tulle.
+Brive-la-Gaillarde
 
-Ressort du tribunal de grande instance de Tulle.
 
-Creuse.
+Ressort des tribunaux de grande instance de Brive­la-Gaillarde et de Tulle
 
-Guéret.
+Creuse
 
-Le tribunal de grande instance est compétent en matière commerciale.
 
-Haute-Vienne.
+Guéret
 
-Limoges.
+Guéret
 
-Limoges.
 
-Ressort du tribunal de grande instance de Limoges.
+Ressort du tribunal de grande instance de Guéret
+
+Haute-Vienne
+
+
+Limoges
+
+Limoges
+
+
+Ressort du tribunal de grande instance de Limoges
 
 Cour d'appel de Lyon
 
-Ain.
 
-Belley.
+Ain
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Bourg-en-Bresse
 
-Bourg-en-Bresse.
 
-Bourg-en-Bresse.
+Belley
 
-Ressort du tribunal de grande instance de Bourg-en-Bresse.
+Bourg-en-Bresse
 
-Loire.
 
-Montbrison.
+Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Loire
 
-Roanne.
 
-Roanne.
+Roanne
 
-Ressort du tribunal de grande instance de Roanne.
+Roanne
 
-Saint-Etienne.
 
-Saint-Etienne.
+Ressort du tribunal de grande instance de Roanne
 
-Ressort du tribunal de grande instance de Saint-Etienne.
+Saint-Etienne
 
-Rhône.
 
-Lyon.
+Montbrison
 
-Lyon.
+Saint-Etienne
 
-Ressort du tribunal de grande instance de Lyon.
 
-Villefranche-sur-Saône.
+Ressort des tribunaux de grande instance de Saint-Etienne et de Montbrison
 
-Villefranche-sur-Saône.
+Rhône
 
-Ressort du tribunal de grande instance de Villefranche-sur-Saône.
+
+Lyon
+
+Lyon
+
+
+Ressort du tribunal de grande instance de Lyon
+
+Villefranche-sur-Saône
+
+
+Villefranche-sur-Saône
+
+Ressort du tribunal de grande instance de Villefranche-sur-Saône
 
 Cour d'appel de Metz
 
-Moselle.
 
-Metz.
+Moselle
 
-La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+Metz
 
-Sarreguemines.
 
 La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+commerciale
 
-Thionville.
+Sarreguemines
+
 
 La chambre commerciale du tribunal de grande instance est compétente en matière
-commerciale.
+commerciale
+
+Thionville
+
+
+La chambre commerciale du tribunal de grande instance est compétente en matière
+commerciale
 
 Cour d'appel de Montpellier
 
-Aude.
 
-Carcassonne.
+Aude
 
-Carcassonne.
+Carcassonne
 
-Ressort du tribunal de grande instance de Carcassonne.
 
-Narbonne.
+Carcassonne
 
-Narbonne.
+Ressort du tribunal de grande instance de Carcassonne
 
-Ressort du tribunal de grande instance de Narbonne.
 
-Aveyron.
+Narbonne
 
-Millau.
+Narbonne
 
-Millau.
 
-Ressort du tribunal de grande instance de Millau.
+Ressort du tribunal de grande instance de Narbonne
 
-Rodez.
+Aveyron
 
-Rodez.
 
-Ressort du tribunal de grande instance de Rodez.
+Rodez Millau
 
-Hérault.
+Rodez
 
-Béziers.
 
-Béziers.
+Ressort des tribunaux de grande instance de Rodez et de Millau
 
-Ressort du tribunal de grande instance de Béziers.
+Hérault
 
-Montpellier.
 
-Montpellier.
+Béziers
 
-Ressort du tribunal de grande instance de Montpellier.
+Béziers
 
-Clermont-l'Hérault.
 
-Ressort du tribunal d'instance de Lodève.
+Ressort du tribunal de grande instance de Béziers
 
-Sète.
+Montpellier
 
-Ressort du tribunal d'instance de Sète.
 
-Pyrénées-Orientales.
+Montpellier
 
-Perpignan.
+Ressort du tribunal de grande instance de Montpellier
 
-Perpignan.
 
-Ressort du tribunal de grande instance de Perpignan.
+Pyrénées-Orientales
+
+Perpignan
+
+
+Perpignan
+
+Ressort du tribunal de grande instance de Perpignan
 
 Cour d'appel de Nancy
 
-Meurthe-et-Moselle.
 
-Briey.
+Meurthe-et-Moselle
 
-Briey.
+Briey
 
-Ressort du tribunal de grande instance de Briey.
 
-Nancy.
+Briey
 
-Nancy.
+Ressort du tribunal de grande instance de Briey
 
-Ressort du tribunal de grande instance de Nancy.
 
-Meuse.
+Nancy
 
-Bar-le-Duc.
+Nancy
 
-Bar-le-Duc.
 
-Ressort du tribunal de grande instance de Bar-le-Duc.
+Ressort du tribunal de grande instance de Nancy
 
-Verdun.
+Meuse
 
-Verdun.
 
-Ressort du tribunal de grande instance de Verdun.
+Bar-le-Duc
 
-Vosges.
+Verdun
 
-Epinal.
 
-Epinal.
+Bar-le-Duc
 
-Ressort des tribunaux d'instance d'Epinal et de Remiremont.
+Ressort des tribunaux de grande instance de Bar-le-Duc et de Verdun
 
-Mirecourt.
 
-Ressort des tribunaux d'instance de Mirecourt et Neufchâteau.
+Vosges
 
-Saint-Dié.
+Epinal
 
-Saint-Dié.
 
-Ressort du tribunal de grande instance de Saint-Dié.
+Saint-Dié-des-Vosges
+
+Epinal
+
+Ressort des tribunaux de grande instance d'Epinal et de Saint-Dié-des-Vosges
 
 Cour d'appel de Nîmes
 
-Ardèche.
 
-Privas.
+Ardèche
 
-Aubenas.
+Privas
 
-Ressort des tribunaux d'instance de Privas et Largentière.
 
-Annonay.
+Aubenas
 
-Ressort du tribunal d'instance de Tournon.
+Ressort du tribunal de grande instance de Privas
 
-Gard.
 
-Nîmes.
+Gard
 
-Nîmes.
+Nîmes
 
-Ressort du tribunal de grande instance de Nîmes.
 
-Alès.
+Alès
 
-Alès.
+Nîmes
 
-Ressort du tribunal de grande instance d'Alès.
+Ressort des tribunaux de grande instance de Nîmes et d'Alès
 
-Lozère.
 
-Mende.
+Lozère
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Mende
 
-Vaucluse.
 
-Avignon.
+Mende
 
-Avignon.
+Ressort du tribunal de grande instance de Mende
 
-Ressort du tribunal de grande instance d'Avignon.
 
-Carpentras.
+Vaucluse
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Avignon
+
+
+Carpentras
+
+Avignon
+
+Ressort des tribunaux de grande instance d'Avignon et de Carpentras
 
 Cour d'appel d'Orléans
 
-Indre-et-Loire.
 
-Tours.
+Indre-et-Loire
 
-Tours.
+Tours
 
-Ressort du tribunal de grande instance de Tours.
 
-Loir-et-Cher.
+Tours
 
-Blois.
+Ressort du tribunal de grande instance de Tours
 
-Blois.
 
-Ressort du tribunal de grande instance de Blois.
+Loir-et-Cher
 
-Loiret.
+Blois
 
-Montargis.
 
-Montargis.
+Blois
 
-Ressort du tribunal de grande instance de Montargis.
+Ressort du tribunal de grande instance de Blois
 
-Orléans.
 
-Orléans.
+Loiret
 
-Ressort du tribunal de grande instance d'Orléans.
+Orléans
+
+
+Montargis
+
+Orléans
+
+Ressort des tribunaux de grande instance d'Orléans et de Montargis
 
 Cour d'appel de Paris
 
-Paris.
 
-Paris.
+Paris
 
-Paris.
+Paris
 
-Ressort du tribunal de grande instance de Paris.
 
-Essonne.
+Paris
 
-Evry.
+Ressort du tribunal de grande instance de Paris
 
-Evry.
 
-Ressort du tribunal de grande instance d'Evry.
+Essonne
 
-Seine-et-Marne.
+Evry
 
-Melun.
 
-Melun.
+Evry
 
-Ressort du tribunal d'instance de Melun.
+Ressort du tribunal de grande instance d'Evry
 
-Provins.
 
-Ressort du tribunal d'instance de Provins.
+Seine-et-Marne
 
-Fontainebleau.
+Melun
 
-Montereau.
 
-Ressort du tribunal de grande instance de Fontainebleau.
+Fontainebleau
 
-Meaux.
+Melun
 
-Meaux.
 
-Ressort du tribunal de grande instance de Meaux.
+Ressort des tribunaux de grande instance de Melun et de Fontainebleau
 
-Seine-Saint-Denis.
+Meaux
 
-Bobigny.
 
-Bobigny.
+Meaux
 
-Ressort du tribunal de grande instance de Bobigny.
+Ressort du tribunal de grande instance de Meaux
 
-Val-de-Marne.
 
-Créteil.
+Seine-Saint-Denis
 
-Créteil.
+Bobigny
 
-Ressort du tribunal de grande instance de Créteil.
 
-Yonne.
+Bobigny
 
-Auxerre.
+Ressort du tribunal de grande instance de Bobigny
 
-Auxerre.
 
-Ressort du tribunal de grande instance d'Auxerre, à l'exception des cantons de
-Bléneau et Saint-Fargeau.
+Val-de-Marne
 
-Sens.
+Créteil
 
-Sens.
 
-Ressort du tribunal d'instance de Sens.
+Créteil
 
-Joigny.
+Ressort du tribunal de grande instance de Créteil
 
-Ressort du tribunal d'instance de Joigny et cantons de Bléneau et Saint-Fargeau.
+
+Yonne
+
+Auxerre
+
+
+Auxerre
+
+Ressort du tribunal de grande instance d'Auxerre
+
+
+Sens
+
+Sens
+
+
+Ressort du tribunal de grande instance de Sens
 
 Cour d'appel de Pau
 
-Landes.
 
-Dax.
+Landes
 
-Dax.
+Dax
 
-Ressort du tribunal de grande instance de Dax.
 
-Mont-de-Marsan.
+Dax
 
-Mont-de-Marsan.
+Ressort du tribunal de grande instance de Dax
 
-Ressort du tribunal de grande instance de Marsan.
 
-Pyrénées-Atlantiques.
+Mont-de-Marsan
 
-Bayonne.
+Mont-de-Marsan
 
-Bayonne.
 
-Ressort du tribunal de grande instance de Bayonne.
+Ressort du tribunal de grande instance de Mont-de-Marsan
 
-Pau.
+Pyrénées-Atlantiques
 
-Pau.
 
-Ressort des tribunaux d'instance d'Orthez et de Pau.
+Bayonne
 
-Oloron-Sainte-Marie.
+Bayonne
 
-Ressort du tribunal d'instance d'Oloron-Sainte-Marie.
 
-Hautes-Pyrénées.
+Ressort du tribunal de grande instance de Bayonne
 
-Tarbes.
+Pau
 
-Tarbes.
 
-Ressort des tribunaux d'instance de Lourdes et Tarbes.
+Pau
 
-Bagnères-de-Bigorre.
+Ressort du tribunal de grande instance de Pau
 
-Ressort du tribunal d'instance de Bagnères-de-Bigorre.
+
+Hautes-Pyrénées
+
+Tarbes
+
+
+Tarbes
+
+Ressort du tribunal de grande instance de Tarbes
 
 Cour d'appel de Poitiers
 
-Charente-Maritime.
 
-La Rochelle.
+Charente-Maritime
 
-La Rochelle.
+La Rochelle
 
-Ressort du tribunal de grande instance de La Rochelle.
 
-Rochefort.
+Rochefort
 
-Rochefort.
+La Rochelle
 
-Ressort du tribunal d'instance de Rochefort.
 
-Marennes.
+Ressort des tribunaux de grande instance de La Rochelle et de Rochefort
 
-Ressort du tribunal d'instance de Marennes et canton de Royan.
+Saintes
 
-Saintes.
 
-Saintes.
+Saintes
 
-Ressort du tribunal de grande instance de Saintes, à l'exception du canton de
-Royan.
+Ressort du tribunal de grande instance de Saintes
 
-Deux-Sèvres.
 
-Bressuire.
+Deux-Sèvres
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Niort Bressuire
 
-Niort.
 
-Niort.
+Niort
 
-Ressort du tribunal de grande instance de Niort.
+Ressort des tribunaux de grande instance de Niort et de Bressuire
 
-Vendée.
 
-La Roche-sur-Yon.
+Vendée
 
-La Roche-sur-Yon.
+La Roche-sur-Yon
+
+Les Sables-d'Olonne
+
+
+La Roche-sur-Yon
 
 Ressort des tribunaux de grande instance de La Roche-sur-Yon et des
-Sables-d'Olonne.
+Sables-d'Olonne
 
-Les Sables-d'Olonne.
 
-La Roche-sur-Yon.
+Vienne
 
-Ressort des tribunaux de grande instance de La Roche-sur-Yon et des
-Sables-d'Olonne.
+Poitiers
 
-Vienne.
 
-Poitiers.
+Poitiers
 
-Poitiers.
-
-Ressort du tribunal de grande instance de Poitiers.
+Ressort du tribunal de grande instance de Poitiers
 
 Cour d'appel de Reims
 
-Ardennes.
 
-Charleville-Mézières.
+Ardennes
 
-Charleville-Mézières.
+Charleville-Mézières
 
-Ressort du tribunal de grande instance de Charleville-Mézières, à l'exception du
-ressort du tribunal d'instance de Sedan.
 
-Sedan.
+Sedan
 
-Ressort du tribunal d'instance de Sedan.
+Ressort du tribunal de grande instance de Charleville-Mézières
 
-Aube.
 
-Troyes.
+Aube
 
-Troyes.
+Troyes
 
-Ressort du tribunal de grande instance de Troyes.
 
-Marne.
+Troyes
 
-Châlons-en-Champagne.
+Ressort du tribunal de grande instance de Troyes
 
-Châlons-en-Champagne.
 
-Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François.
+Marne
 
-Epernay.
+Châlons-en-Champagne
 
-Ressort du tribunal d'instance d'Epernay.
 
-Reims.
+Châlons-en-Champagne
 
-Reims.
+Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François
 
-Ressort du tribunal de grande instance de Reims.
+
+Reims
+
+Reims
+
+Ressort du tribunal de grande instance de Reims et du tribunal d'instance
+d'Epernay
 
 Cour d'appel de Rennes
 
-Côtes-du-Nord.
+Côtes-d'Armor
 
-Saint-Brieuc.
 
-Saint-Brieuc.
+Saint-Brieuc
 
-Ressort du tribunal de grande instance de Saint-Brieuc.
+Guingamp
 
-Dinan.
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Saint-Brieuc
 
-Guingamp.
+Ressort des tribunaux de grande instance de Saint-Brieuc et de Guingamp
 
-Le tribunal de grande instance est compétent en matière commerciale.
 
-Finistère.
+Finistère
 
-Brest.
+Brest
 
-Brest.
 
-Ressort du tribunal de grande instance de Brest.
+Morlaix
 
-Morlaix.
+Brest
 
-Morlaix.
 
-Ressort du tribunal de grande instance de Morlaix.
+Ressort des tribunaux de grande instance de Brest et de Morlaix
 
-Quimper.
+Quimper
 
-Quimper.
 
-Ressort du tribunal de grande instance de Quimper.
+Quimper
 
-Ille-et-Vilaine.
+Ressort du tribunal de grande instance de Quimper
 
-Rennes.
+Ille-et-Vilaine et Côtes-d'Armor
 
-Rennes.
 
-Ressort du tribunal de grande instance de Rennes.
+Rennes
 
-Saint-Malo.
+Rennes
 
-Saint-Malo.
 
-Ressort du tribunal de grande instance de Saint-Malo.
+Ressort du tribunal de grande instance de Rennes
 
-Loire-Atlantique.
+Saint-Malo
 
-Nantes.
 
-Nantes.
+Dinan
 
-Ressort du tribunal de grande instance de Nantes, à l'exception des cantons de
-Saint-Etienne-de-Montluc et ressort du tribunal d'instance de Paimboeuf.
+Saint-Malo
 
-Saint-Nazaire.
 
-Saint-Nazaire.
+Ressort des tribunaux de grande instance de Saint-Malo et de Dinan
 
-Ressort du tribunal d'instance de Saint-Nazaire et canton de
-Saint-Etienne-de-Montluc.
+Loire-Atlantique
 
-Morbihan.
 
-Lorient.
+Nantes
 
-Lorient.
+Nantes
 
-Ressort du tribunal de grande instance de Lorient.
 
-Vannes.
+Ressort du tribunal de grande instance de Nantes
 
-Vannes.
+Saint-Nazaire
 
-Ressort du tribunal de grande instance de Vannes.
+
+Saint-Nazaire
+
+Ressort du tribunal de grande instance de Saint-Nazaire
+
+
+Morbihan
+
+Lorient
+
+
+Lorient
+
+Ressort du tribunal de grande instance de Lorient
+
+
+Vannes
+
+Vannes
+
+
+Ressort du tribunal de grande instance de Vannes
 
 Cour d'appel de Riom
 
-Allier.
 
-Cusset.
+Allier
 
-Cusset.
+Cusset
 
-Ressort du tribunal de grande instance de Cusset.
 
-Montluçon.
+Moulins
 
-Montluçon.
+Cusset
 
-Ressort du tribunal de grande instance de Montluçon.
 
-Moulins.
+Ressort des tribunaux de grande instance de Cusset et de Moulins
 
-Moulins.
+Montluçon
 
-Ressort du tribunal de grande instance de Moulins.
 
-Cantal.
+Montluçon
 
-Aurillac.
+Ressort du tribunal de grande instance de Montluçon
 
-Aurillac.
 
-Ressort du tribunal de grande instance d'Aurillac.
+Cantal
 
-Haute-Loire.
+Aurillac
 
-Le Puy-en-Velay.
 
-Le Puy-en-Velay.
+Aurillac
 
-Ressort du tribunal de grande instance du Puy-en-Velay.
+Ressort du tribunal de grande instance d'Aurillac
 
-Puy-de-Dôme.
 
-Clermont-Ferrand.
+Haute-Loire
 
-Clermont-Ferrand.
+Le Puy-en-Velay
 
-Ressort des tribunaux d'instance de Clermont-Ferrand et Issoire.
 
-Thiers.
+Le Puy-en-Velay
 
-Ressort des tribunaux d'instance d'Ambers et Thiers.
+Ressort du tribunal de grande instance du Puy-en-Velay
 
-Riom.
 
-Riom.
+Puy-de-Dôme
 
-Ressort du tribunal de grande instance de Riom.
+Clermont-Ferrand
+
+
+Riom
+
+Clermont-Ferrand
+
+
+Ressort des tribunaux de grande instance de Clermont-Ferrand et de Riom
 
 Cour d'appel de Rouen
 
-Eure.
 
-Bernay.
+Eure
 
-Pont-Audemer.
+Bernay
 
-Ressort du tribunal de grande instance de Bernay.
 
-Evreux.
+Bernay
 
-Evreux.
+Ressort du tribunal de grande instance de Bernay
 
-Ressort du tribunal de grande instance d'Evreux.
 
-Seine-et-Maritime.
+Evreux
 
-Dieppe.
+Evreux
 
-Dieppe.
+Ressort du tribunal de grande instance d'Evreux
 
-Ressort du tribunal de Dieppe, à l'exception des cantons d'Envermeu et Eu.
 
-Neufchâtel-en-Bray.
+Seine-Maritime
 
-Ressort du tribunal d'instance de Neufchâtel-en-Bray et cantons d'Envermeu et
-Eu.
+Dieppe
 
-Le Havre.
 
-Le Havre.
+Dieppe
 
-Ressort du tribunal de grande instance du Havre.
+Ressort du tribunal de grande instance de Dieppe
 
-Rouen.
 
-Rouen.
+Le Havre
 
-Ressort des tribunaux d'instance de Rouen et Yvetot.
+Le Havre
 
-Elbeuf.
 
-Cantons de Caudebec-lès-Elbeuf et Elbeuf.
+Ressort du tribunal de grande instance du Havre
+
+Rouen
+
+
+Rouen
+
+Ressort du tribunal de grande instance de Rouen
 
 Cour d'appel de Toulouse
 
-Ariège.
 
-Foix.
+Ariège
 
-Foix.
+Foix
 
-Ressort du tribunal de grande instance de Foix.
 
-Haute-Garonne.
+Foix
 
-Toulouse.
+Ressort du tribunal de grande instance de Foix
 
-Toulouse.
 
-Ressort du tribunal de grande instance de Toulouse.
+Haute-Garonne
 
-Saint-Gaudens.
+Toulouse
 
-Saint-Gaudens.
 
-Ressort du tribunal de grande instance de Saint-Gaudens.
+Saint-Gaudens
 
-Tarn.
+Toulouse
 
-Albi.
 
-Albi.
+Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
 
-Ressort du tribunal de grande instance d'Albi.
+Tarn
 
-Castres.
 
-Castres.
+Albi
 
-Ressort du tribunal de grande instance de Castres.
+Albi
 
-Tarn-et-Garonne.
+Ressort du tribunal de grande instance d'Albi
 
-Montauban.
 
-Montauban.
+Castres
 
-Ressort du tribunal de grande instance de Montauban.
+Castres
+
+
+Ressort du tribunal de grande instance de Castres
+
+Tarn-et-Garonne
+
+
+Montauban
+
+Montauban
+
+
+Ressort du tribunal de grande instance de Montauban
 
 Cour d'appel de Versailles
 
-Eure-et-Loir.
 
-Chartres.
+Eure-et-Loir
 
-Chartres.
+Chartres
 
-Ressort des tribunaux d'instance de Chartres, Châteaudun et Nogent-le-Rotrou.
 
-Dreux.
+Chartres
 
-Ressort du tribunal d'instance de Dreux.
+Ressort du tribunal de grande instance de Chartres
 
-Hauts-de-Seine.
 
-Nanterre.
+Hauts-de-Seine
 
-Nanterre.
+Nanterre
 
-Ressort du tribunal de grande instance de Nanterre.
 
-Val-d'Oise.
+Nanterre
 
-Pontoise.
+Ressort du tribunal de grande instance de Nanterre
 
-Pontoise.
+Val-d'Oise
+
+
+Pontoise
+
+Pontoise
 
 
 Ressort du tribunal de grande instance de Pontoise
 
-Yvelines.
+Yvelines
 
-Versailles.
 
-Versailles.
+Versailles
 
-Ressort du tribunal de grande instance de Versailles.
+Versailles
+
+Ressort du tribunal de grande instance de Versailles
