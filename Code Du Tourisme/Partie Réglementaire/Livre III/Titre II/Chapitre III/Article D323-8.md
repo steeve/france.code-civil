@@ -1,5 +1,6 @@
 Article D323-8
 ----
-Pour la vérification de sa conformité aux conditions requises pour son
-classement, le village résidentiel de tourisme admet la visite des agents de
-l'Etat et des personnes habilitées par le préfet.
+Les établissements classés villages résidentiels de tourisme apposent
+obligatoirement à l'extérieur des locaux communs un panonceau selon un modèle
+établi par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
+ministre chargé du tourisme.

@@ -1,9 +1,6 @@
 Article D332-1
 ----
-Les terrains aménagés de camping et caravanage sont classés en catégories
-exprimées par un nombre d'étoiles croissant avec le confort des aménagements.
-
-Des arrêtés pris à l'initiative du ministre chargé du tourisme fixent les normes
-d'équipement et de fonctionnement propres à chaque catégorie de terrains
-aménagés de camping et caravanage. Ils précisent les conditions de la décision
-de classement.
+Les terrains de camping sont répartis dans l'une des catégories désignées par un
+nombre d'étoiles croissant, en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué
+par arrêté du ministre chargé du tourisme.

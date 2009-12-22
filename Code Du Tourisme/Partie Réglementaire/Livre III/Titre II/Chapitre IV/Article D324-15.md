@@ -13,8 +13,4 @@ de location.
 Tout changement concernant les éléments d'information que comporte la
 déclaration fait l'objet d'une nouvelle déclaration en mairie.
 
-Le maire communique une fois par an au préfet de région, au président du conseil
-régional et au président du conseil général les données statistiques relatives
-aux déclarations de chambres d'hôtes.
-
 La liste des chambres d'hôtes est consultable en mairie.

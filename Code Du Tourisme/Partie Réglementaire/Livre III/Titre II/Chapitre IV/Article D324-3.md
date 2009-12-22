@@ -1,10 +1,12 @@
 Article D324-3
 ----
-Afin d'obtenir le classement, le loueur du meublé ou son mandataire est tenu de
-déposer ou d'adresser au secrétariat de la mairie de la commune où est situé le
-meublé une déclaration conforme à un modèle fixé par arrêté, à laquelle il joint
-le certificat de visite délivré par un organisme agréé et un état descriptif du
-meublé et de ses conditions de location conforme à un modèle fixé par le même
-arrêté. Le maire délivre en retour un accusé de réception et un numéro
-d'identification. Il transmet au préfet du département chaque dossier de demande
-de classement d'un meublé.
+Le loueur du meublé ou son mandataire qui souhaite obtenir le classement adresse
+au représentant de l'Etat dans le département où est situé le meublé, en deux
+exemplaires dont un exemplaire sous forme numérique, son dossier de demande de
+classement constitué des documents suivants : a) Le formulaire de demande de
+classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ;
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C
+accrédité pour le contrôle des meublés par le Comité français d'accréditation
+(COFRAC) ou tout organisme européen équivalent conformément à l'article L.
+324-1.

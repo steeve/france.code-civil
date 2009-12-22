@@ -1,8 +1,11 @@
 Article D323-7
 ----
-La décision de classement est prise par arrêté du préfet, après avis de la
-commission départementale de l'action touristique, dans des conditions fixées
-par arrêté.
+Le représentant de l'Etat dans le département établit par arrêté la décision de
+classement dans le mois qui suit la réception du dossier complet de demande.
+Cette décision est prise après vérification sur pièces de la complétude du
+dossier de classement conformément aux prescriptions de la présente section. Il
+transmet dans le même délai une copie de l'arrêté de classement accompagnée,
+sous forme numérique, du dossier de demande de classement à l'organisme
+mentionné à l'article L. 141-2.
 
-Le classement est prononcé pour cinq ans. A l'issue de cette période, il expire
-d'office et peut être renouvelé conformément à la procédure définie par arrêté.
+Le classement est prononcé pour une durée de cinq ans.

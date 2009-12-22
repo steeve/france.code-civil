@@ -1,6 +1,7 @@
 Article D333-5
 ----
-L'exploitation d'un parc résidentiel de loisirs sous régime hôtelier est
-subordonnée à un arrêté de classement délivré par le préfet, après consultation
-de la commission départementale de l'action touristique, dans des conditions
-fixées par arrêté.
+Les parcs résidentiels de loisirs exploités sous régime hôtelier sont répartis
+dans l'une des catégories désignées par un nombre d'étoiles croissant, en
+fonction de critères fixés par un tableau de classement élaboré par l'organisme
+mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du
+tourisme.

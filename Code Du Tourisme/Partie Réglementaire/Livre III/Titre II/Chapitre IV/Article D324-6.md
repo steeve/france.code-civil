@@ -1,8 +1,7 @@
 Article D324-6
 ----
-En cas de litige portant sur la conformité du meublé aux normes, le préfet peut
-être saisi par le locataire par lettre recommandée avec demande d'avis de
-réception dans un délai de huit jours à compter du début de la location.
-
-Il peut faire effectuer une visite des locaux par les personnes qu'il aura
-habilitées à cet effet.
+Le loueur du meublé ou son mandataire peut signaler le classement de son meublé
+par l'affichage d'un panonceau selon un modèle établi par l'organisme mentionné
+à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Il
+doit afficher, de manière visible à l'intérieur du meublé, l'arrêté de
+classement.
