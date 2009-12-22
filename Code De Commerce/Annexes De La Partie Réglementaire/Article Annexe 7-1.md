@@ -97,13 +97,13 @@ Aix-en-Provence
 Aix-en-Provence
 
 Ressort des tribunaux d'instance d'Aix-en-Provence et de Martigues, à
-l'exception des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles
+l'exception des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord
 
 
 Salon-de-Provence
 
 Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang,
-Istres-Sud et Istres-Nord et Vitrolles
+Istres-Sud et Istres-Nord
 
 
 Marseille
@@ -630,7 +630,7 @@ Vienne
 Vienne
 
 
-Ressort des tribunaux de grande instance de Vienne et de Bourgoin-Jallieu
+Ressort du tribunal de grande instance de Vienne
 
 Cour d'appel de Limoges
 
