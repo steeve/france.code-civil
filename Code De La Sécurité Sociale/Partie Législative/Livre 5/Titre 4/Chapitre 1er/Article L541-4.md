@@ -9,5 +9,5 @@ d'enfant handicapé versée dans des conditions prévues par décret.
 
 La Caisse nationale de solidarité pour l'autonomie verse au Fonds national des
 prestations familiales, géré par la Caisse nationale des allocations familiales,
-une subvention correspondant aux sommes versées au titre de la majoration visée
-à l'alinéa précédent.
+une subvention correspondant en 2010 à la moitié des sommes versées au titre de
+la majoration visée à l'alinéa précédent et en 2011 au quart de ces sommes.
