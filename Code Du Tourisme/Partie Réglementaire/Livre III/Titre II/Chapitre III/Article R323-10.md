@@ -1,4 +1,5 @@
 Article R323-10
 ----
-Le non-respect de l'obligation prévue à l'article D. 323-8 entraîne la radiation
-de la liste des établissements classés de tourisme.
+La radiation prévue à l'article R. 323-9 ne peut être prononcée sans que
+l'exploitant en ait été préalablement avisé et invité à se faire entendre
+personnellement ou par mandataire.

@@ -1,5 +1,5 @@
 Article R325-10
 ----
-En cas d'inobservation des dispositions de la présente section, le préfet du
-département réexamine le classement, le modifie ou le retire, par arrêté, après
-avis de la commission départementale de l'action touristique.
+La radiation prévue à l'article R. 325-9 ne peut être prononcée sans que
+l'exploitant en ait été préalablement avisé et invité à se faire entendre
+personnellement ou par mandataire.
