@@ -10,22 +10,25 @@ Paris Tech) ;
 (Montpellier Sup Agro) ;
 
 3° L'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles
-et du paysage (Agro Campus Ouest) ;
+et du paysage (Agro campus Ouest) ;
 
-4° Les écoles nationales vétérinaires d'Alfort, Lyon, Nantes et Toulouse ;
-
-5° Institut national supérieur des sciences agronomiques, de l'alimentation et
+4° L'institut national supérieur des sciences agronomiques, de l'alimentation et
 de l'environnement (Agrosup Dijon) ;
 
-6° L'Ecole nationale supérieure du paysage de Versailles ;
+5° L'Institut d'enseignement supérieur et de recherche en alimentation, santé
+animale, sciences agronomiques et de l'environnement (Vet Agro Sup) ;
 
-7° L'Ecole nationale de formation agronomique de Toulouse ;
+6° L'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation,
+Nantes-Atlantique (ONIRIS) ;
 
-8° L'Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
+7° L'Ecole nationale vétérinaire d'Alfort ;
 
-9° L'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand ;
+8° L'Ecole nationale vétérinaire de Toulouse ;
 
-10° L'Ecole nationale d'ingénieurs des techniques des industries agricoles et
-alimentaires de Nantes ;
+9° L'Ecole nationale supérieure du paysage de Versailles ;
 
-11° L'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
+10° L'Ecole nationale de formation agronomique de Toulouse ;
+
+11° L'Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
+
+12° L'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
