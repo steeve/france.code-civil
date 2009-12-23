@@ -8,6 +8,6 @@ mentionnée à l'article R. 1332-13.
 
 L'arrêté délimite la zone et identifie les opérateurs d'importance vitale. Il
 est notifié à chacun des opérateurs d'importance vitale ainsi qu'à l'officier
-général de la zone de défense et est protégé dans les conditions prévues par le
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
-défense nationale.
+général de la zone de défense et est protégé dans les conditions prévues par les
+articles R. 2311-1 et suivants du code de la défense relatifs à la protection du
+secret de la défense nationale.

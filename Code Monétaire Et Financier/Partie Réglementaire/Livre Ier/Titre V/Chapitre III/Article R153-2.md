@@ -33,7 +33,7 @@ par contrat passé avec un opérateur public ou privé gérant des installations
 sens des articles L. 1332-1 à L. 1332-7 du code de la défense ;
 
 7° Activités relatives aux biens et technologies à double usage énumérés à
-l'annexe IV du règlement (CE) n° 1334/2000 du Conseil du 22 juin 2000 modifié
+l'annexe IV du règlement (CE) n° 1334 / 2000 du Conseil du 22 juin 2000 modifié
 instituant un régime communautaire de contrôle des exportations de biens et
 technologies à double usage ;
 
@@ -44,8 +44,8 @@ numérique ;
 
 9° Activités exercées par les entreprises dépositaires de secrets de la défense
 nationale notamment au titre des marchés classés de défense nationale ou à
-clauses de sécurité conformément au décret n° 98-608 du 17 juillet 1998 relatif
-à la protection des secrets de la défense nationale ;
+clauses de sécurité conformément aux articles R. 2311-1 et suivants du code de
+la défense relatifs à la protection du secret de la défense nationale ;
 
 10° Activités de recherche, de production ou de commerce d'armes, de munitions,
 de poudres et substances explosives destinées à des fins militaires ou de

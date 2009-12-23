@@ -26,17 +26,18 @@ définies aux articles L. 282-8 du code de l'aviation civile et L. 324-5 du code
 des ports maritimes ;
 
 c) Ou interviennent dans les zones protégées ou réservées, au sens de l'article
-413-7 du code pénal et des textes pris en application du décret n° 98-608 du 17
-juillet 1998 relatif à la protection des secrets de la défense nationale ;
+413-7 du code pénal et des textes pris en application des articles R. 2311-1 et
+suivants du code de la défense relatifs à la protection du secret de la défense
+nationale ;
 
 3° Activités de recherche, de développement ou de production, lorsqu'elles
 intéressent exclusivement :
 
 a) Les agents pathogènes, les zoonoses, les toxines et leurs éléments génétiques
-ainsi que leurs produits de traduction mentionnés aux alinéas 1C351 et 1C352a.2
-de l'annexe I du règlement (CE) n° 1334/2000 du Conseil du 22 juin 2000 modifié
-instituant un régime communautaire de contrôle des exportations de biens et
-technologies à double usage ;
+ainsi que leurs produits de traduction mentionnés aux alinéas 1C351 et 1C352a. 2
+de l'annexe I du règlement (CE) n° 1334 / 2000 du Conseil du 22 juin 2000
+modifié instituant un régime communautaire de contrôle des exportations de biens
+et technologies à double usage ;
 
 b) Les moyens de lutte contre les agents prohibés au titre de la convention sur
 l'interdiction de la mise au point, de la fabrication, du stockage et de
