@@ -47,7 +47,9 @@ l'article L. 352-3 du code du travail ;
 
 e) Des périodes de versement de l'allocation de congé solidarité prévue à
 l'article 15 de la loi n° 2000-1207 du 13 décembre 2000 d'orientation pour
-l'outre-mer.
+l'outre-mer ;
+
+f) Des périodes mentionnées au 1° de l'article L. 351-3 ;
 
 5° Les sommes correspondant à la prise en compte par les régimes d'assurance
 vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
@@ -71,7 +73,7 @@ de solidarité ;
 âgées prévue à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 relative
 à la protection sanitaire et sociale à Mayotte.
 
-Les sommes mentionnées aux a, b, d et e du 4° et au 7° sont calculées sur une
+Les sommes mentionnées aux a, b, d, e et f du 4° et au 7° sont calculées sur une
 base forfaitaire dans des conditions fixées par décret en Conseil d'Etat.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
