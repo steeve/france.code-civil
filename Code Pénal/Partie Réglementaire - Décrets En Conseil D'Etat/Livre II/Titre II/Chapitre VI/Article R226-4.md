@@ -1,7 +1,7 @@
 Article R226-4
 ----
-La demande d'autorisation est déposée auprès du ministre chargé des
-télécommunications. Elle comporte pour chaque type d'appareil :
+La demande d'autorisation est déposée auprès du secrétaire général de la défense
+nationale. Elle comporte pour chaque type d'appareil :
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa
 dénomination et son siège, s'il est une personne morale ;
