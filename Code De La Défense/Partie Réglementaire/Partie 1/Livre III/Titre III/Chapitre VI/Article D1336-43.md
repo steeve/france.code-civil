@@ -2,15 +2,15 @@ Article D1336-43
 ----
 La commission de défense nationale des carburants comprend :
 
-1° Le secrétaire général de la défense nationale ou son représentant, président
-;
+1° Le secrétaire général de la défense nationale et de la sécurité nationale ou
+son représentant, président ;
 
 2° Le chef d'état-major des armées, ou son représentant ;
 
 3° Le directeur central du service des essences des armées, ou son représentant
 ;
 
-4° Le directeur central du commissariat de la marine, ou son représentant ;
+4° (Supprimé) ;
 
 5° Un représentant du ministère de l'industrie ;
 
@@ -24,4 +24,4 @@ tourisme ;
 9° Un représentant du ministre de l'intérieur.
 
 Le secrétariat de la commission est assuré par le secrétariat général de la
-défense nationale.
+défense nationale et de la sécurité nationale.
