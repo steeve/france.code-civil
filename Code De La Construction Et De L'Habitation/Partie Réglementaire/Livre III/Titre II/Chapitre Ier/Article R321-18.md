@@ -1,7 +1,7 @@
 Article R321-18
 ----
 La demande de subvention est présentée par l'une des personnes mentionnées à
-l'article R. 321-12 ou par son mandataire.
+l'article R. 321-12 ou par son mandataire, qui en reçoit récépissé.
 
 Le règlement général de l'agence précise les renseignements et pièces qui
 doivent être fournis à l'appui de la demande, détermine les modalités permettant
@@ -9,30 +9,41 @@ d'assurer la confidentialité des informations recueillies et fixe les règles
 d'instruction des dossiers, en particulier celles relatives à la réception et
 aux délais d'instruction des demandes ainsi qu'à la notification des décisions.
 
-Seuls les travaux commencés après le dépôt de la demande de subvention peuvent
-bénéficier d'une aide de l'agence. Toutefois la commission d'amélioration de
-l'habitat ou par le président de l'établissement public de coopération
+Pour les opérations et bénéficiaires mentionnés aux I et II de l'article R.
+321-12, aucune aide ne peut être accordée si les travaux ont commencé avant le
+dépôt de la demande de subvention. Toutefois, le délégué de l'agence dans le
+département ou le président de l'établissement public de coopération
 intercommunale ou du conseil général ayant conclu la convention mentionnée à
-l'article L. 321-1-1 peut, à titre exceptionnel, accorder une subvention lorsque
-le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en
-cas de travaux réalisés d'office par la commune ou l'Etat en application des
-articles L. 1331-29 et L. 1334-2 du code de la santé publique, ou des articles
-L. 129-2 et L. 511-2 et suivant du présent code et en cas d'application de
+l'article L. 321-1-1 peut, à titre exceptionnel, déroger à cette disposition,
+notamment en cas de travaux réalisés d'office par la commune ou l'Etat en
+application des articles L. 1331-29 et L. 1334-2 du code de la santé publique,
+ou des articles L. 129-2 et L. 511-2 du présent code et en cas d'application de
 l'article L. 125-1 du code des assurances relatif aux dommages causés par des
 catastrophes naturelles ou de l'article L. 122-7 du même code relatif aux
-dommages causés par les effets du vent dû aux tempêtes, ouragans et cyclones.
+dommages causés par les effets du vent dus aux tempêtes, ouragans et cyclones.
+
+Pour les opérations et bénéficiaires mentionnés au III de l'article R. 321-12,
+aucune aide ne peut être accordée si les travaux ont commencé avant que le
+délégué de l'agence dans le département n'en ait donné l'autorisation dans les
+conditions fixées par le règlement général de l'agence.
 
 La décision d'octroi de subvention mentionne les caractéristiques principales du
 projet, le montant de la subvention, les conditions de son versement et les
 dispositions relatives à son reversement éventuel ainsi que le comptable
 assignataire. Toute demande qui n'a pas donné lieu à la notification d'une
-décision, au sens du présent article, dans un délai de quatre mois à compter de
-la réception du dossier complet est réputée rejetée.
+décision, au sens du présent article, dans un délai de quatre mois à compter du
+récépissé, est réputée rejetée. Si le dossier est incomplet, le responsable de
+l'instruction du dossier demande à la personne sollicitant la subvention ou à
+son mandataire de lui adresser les pièces manquantes en précisant le délai de
+réponse au-delà duquel le dossier sera classé sans suite. Le délai d'instruction
+de la demande de subvention ne court qu'à compter de la réception des pièces
+nécessaires à l'instruction du dossier.
 
-La subvention est versée, sur déclaration d'achèvement des travaux, après
-vérification de la conformité des travaux réalisés avec les caractéristiques du
-projet sur lesquelles la décision d'attribution a été fondée. La subvention est
-versée sur présentation des factures des entreprises, sauf cas exceptionnels
+La subvention est versée, sur déclaration d'achèvement de l'opération, après
+vérification de la conformité des opérations réalisées avec les caractéristiques
+du projet sur lesquelles la décision d'attribution a été fondée. La subvention
+est versée sur présentation des justificatifs précisés par le règlement général
+de l'agence, en particulier des factures des entreprises, sauf cas exceptionnels
 dus, notamment, à la défaillance de l'entreprise chargée des travaux.
 
 Par dérogation aux dispositions de l'alinéa précédent, des acomptes peuvent être

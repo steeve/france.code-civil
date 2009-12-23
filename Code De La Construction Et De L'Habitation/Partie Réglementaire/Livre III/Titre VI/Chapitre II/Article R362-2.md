@@ -25,6 +25,12 @@ personnes défavorisées ;
 
 6° Abrogé.
 
+7° Sur le bilan, présenté par le délégué régional de l'Agence nationale de
+l'habitat ou son représentant, de l'utilisation des aides régionales versées au
+parc privé et de celles participant à la lutte contre l'habitat indigne au sein
+de ce parc, ainsi que de celle des aides aux établissements d'hébergement visées
+au III de l'article R. 321-12.
+
 Le comité régional de l'habitat peut déléguer tout ou partie des compétences
-prévues aux 2° à 5° du présent article à son bureau ou aux commissions
+prévues aux 2° à 7° du présent article à son bureau ou aux commissions
 spécialisées mentionnées à l'article R. 362-11.

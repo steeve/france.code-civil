@@ -29,18 +29,17 @@ fixées par le règlement général de l'agence ;
 l'habitat ou qui effectuent, avec l'accord exprès de leur bailleur, des travaux
 d'accessibilité ou d'adaptation au handicap de leur logement ;
 
-6° Aux organismes agréés dans les conditions prévues aux articles L. 252-1 et L.
-442-8-1 ;
+6° Aux organismes agréés dans les conditions prévues à l'article L. 365-2 ;
 
 7° Aux syndicats de copropriétaires lorsque les travaux portent sur les parties
 communes et équipements communs d'un immeuble en copropriété faisant l'objet du
 plan de sauvegarde prévu à l'article L. 615-1 ou situé dans le périmètre d'une
 opération programmée d'amélioration de l'habitat prévue à l'article 6 de la loi
-n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au logement.
-L'attribution de cette subvention peut être cumulée, pour les mêmes travaux,
-avec des aides individuelles aux copropriétaires. Le règlement général de
-l'agence fixe les modalités de ce cumul. Le montant total des aides versées ne
-peut pas dépasser le montant maximum qui peut être versé au seul syndicat de
+n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au
+logement.L'attribution de cette subvention peut être cumulée, pour les mêmes
+travaux, avec des aides individuelles aux copropriétaires. Le règlement général
+de l'agence fixe les modalités de ce cumul. Le montant total des aides versées
+ne peut pas dépasser le montant maximum qui peut être versé au seul syndicat de
 copropriétaires.
 
 Ces dispositions s'appliquent également lorsqu'un arrêté d'insalubrité pris en
@@ -88,20 +87,20 @@ notamment pour ce qui concerne les conditions de revente, sont fixées par le
 conseil d'administration.L'aide accordée peut être assortie de dérogations aux
 règles d'occupation des locaux définies à l'article R. 321-20.
 
-Pour l'application du présent article, sont assimilés aux propriétaires les
-titulaires d'un contrat leur donnant vocation à l'attribution à terme de la
-propriété du logement ainsi que les porteurs de parts ou d'actions de sociétés
-donnant vocation à l'attribution en propriété du logement.
+Pour l'application du I et du II du présent article, sont assimilés aux
+propriétaires les titulaires d'un contrat leur donnant vocation à l'attribution
+à terme de la propriété du logement ainsi que les porteurs de parts ou d'actions
+de sociétés donnant vocation à l'attribution en propriété du logement.
 
-Dans les cas mentionnés aux 2° et 3°, la subvention n'est attribuée que pour des
-logements occupés par des personnes dont l'ensemble des ressources répond aux
-conditions définies, après avis du conseil d'administration, par arrêté du
-ministre chargé des finances et du ministre chargé du logement. Cet arrêté fixe
-notamment les plafonds de ressources qui sont révisés chaque année par l'agence
-en fonction de l'évolution de l'indice des prix à la consommation hors tabac.
-Ces conditions de ressources sont également applicables aux personnes
-mentionnées au 3° qui, supportant la charge des travaux à effectuer dans des
-logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
+Dans les cas mentionnés aux 2° et 3° du I, la subvention n'est attribuée que
+pour des logements occupés par des personnes dont l'ensemble des ressources
+répond aux conditions définies, après avis du conseil d'administration, par
+arrêté du ministre chargé des finances et du ministre chargé du logement. Cet
+arrêté fixe notamment les plafonds de ressources qui sont révisés chaque année
+par l'agence en fonction de l'évolution de l'indice des prix à la consommation
+hors tabac. Ces conditions de ressources sont également applicables aux
+personnes mentionnées au 3° qui, supportant la charge des travaux à effectuer
+dans des logements occupés par leurs proches, sollicitent le bénéfice de l'aide.
 
 II.-L'agence peut également accorder, à titre exceptionnel et dans des
 conditions fixées par le règlement général de l'agence, des subventions portant
@@ -109,15 +108,40 @@ sur des travaux réalisés dans des locaux à usage d'habitation inclus dans un
 bail commercial, soit au titulaire de ce bail commercial, soit au propriétaire
 des murs.
 
-III.-L'agence peut accorder des aides, dans les conditions prévues à son
-règlement général, aux propriétaires ou aux gestionnaires des établissements
-d'hébergement visés au 8° du I de l'article L. 312-1 du code de l'action sociale
-et des familles assurant ou non l'accueil de jour, ou des lits halte soins santé
-visés au 9° du même article, aux établissements d'hébergement destinés aux
-personnes sans domicile visés à l'article L. 322-1 du même code et faisant
+III.-L'agence peut accorder des aides, dans les conditions prévues par son
+règlement général, aux organismes visés à l'article R. 331-14 et aux centres
+communaux et intercommunaux d'action sociale, propriétaires ou titulaires d'un
+droit réel immobilier sur les établissements d'hébergement visés au 8° du I de
+l'article L. 312-1 du code de l'action sociale et des familles assurant ou non
+l'accueil de jour, ou aux structures dénommées " lits halte soins santé " visés
+au 9° du I du même article, ou aux établissements d'hébergement destinés aux
+personnes sans domicile visés à l'article L. 322-1 du même code, et faisant
 l'objet d'une convention avec l'Etat ou une collectivité territoriale, en vue de
 la réalisation de travaux d'amélioration et d'humanisation.
 
-Les dispositions prévues à l'article R. 321-20 ainsi qu'aux I et II de l'article
-R. 321-21 ne s'appliquent pas aux travaux faisant l'objet des aides mentionnées
-à l'alinéa précédent.
+L'agence peut accorder, à titre exceptionnel, des subventions à un gestionnaire
+non propriétaire de l'établissement d'hébergement pour des travaux ne dépassant
+pas un montant fixé par son règlement général, sous réserve de disposer d'un
+bail l'y autorisant.
+
+IV.-L'agence peut accorder aux collectivités territoriales, à leurs groupements,
+aux sociétés de construction dans lesquelles l'Etat détient la majorité du
+capital, et à tout organisme ayant vocation à être bénéficiaire de
+l'expropriation ainsi qu'aux concessionnaires des opérations d'aménagement
+mentionnées à l'article L. 300-4 du code de l'urbanisme, des subventions pour la
+réalisation d'opérations visées à l'article L. 522-1, alinéa 2.
+
+V.-L'agence peut accorder aux collectivités territoriales, à leurs groupements,
+aux sociétés de construction dans lesquelles l'Etat détient la majorité du
+capital, et à tout organisme ayant vocation à être bénéficiaire de
+l'expropriation ainsi qu'aux concessionnaires des opérations d'aménagement
+mentionnées à l'article L. 300-4 du code de l'urbanisme, des subventions :
+
+1° Pour la réalisation d'opérations de traitement, par appropriation publique,
+d'immeubles dans le cadre d'opérations de restauration immobilière prévues aux
+articles L. 313-4 et suivants du code de l'urbanisme ayant fait l'objet d'une
+déclaration d'utilité publique et destinés à la production de logements dans un
+objectif de mixité sociale ;
+
+2° Pour la réalisation d'opérations visées aux articles L. 522-1, alinéa 1, et
+R. 523-1 et suivants.

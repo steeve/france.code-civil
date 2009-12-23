@@ -1,18 +1,21 @@
 Article R321-19
 ----
-La décision d'octroi de la subvention devient caduque si les travaux ne sont pas
-commencés dans le délai d'un an à compter de la date de sa notification.
+Le règlement général de l'agence détermine, pour les différentes catégories de
+bénéficiaires et d'opérations mentionnés à l'article R. 321-12, les conditions
+et modalités dans lesquelles le bénéficiaire d'une subvention justifie du
+commencement, de la réalisation et de l'achèvement de l'opération.
 
-Dans un délai de trois ans à compter de la même notification, qui est porté à
-cinq ans lorsque les travaux portent sur les immeubles mentionnés au deuxième
-alinéa de l'article R. 321-14, le bénéficiaire de la subvention est tenu de
-justifier de l'achèvement des travaux sous peine d'annulation de la décision
-d'octroi de la subvention et du remboursement des sommes déjà perçues.
+Il fixe le délai dans lequel doit intervenir le commencement de l'opération
+ainsi que la liste des pièces que le bénéficiaire d'une subvention doit produire
+pour obtenir son versement et les délais dans lesquels ces pièces doivent être
+transmises à l'agence.
 
-Une prolongation de ces délais peut, selon des critères, et dans des limites et
-des conditions fixés par le règlement général de l'agence, être accordée par la
-commission d'amélioration de l'habitat ou par le président de l'établissement
-public de coopération intercommunale ou du conseil général ayant conclu la
-convention mentionnée à l'article L. 321-1-1 sur demande dûment motivée du
-bénéficiaire de la subvention, notamment lorsque des circonstances extérieures à
-la volonté de l'intéressé ont fait obstacle à la réalisation des travaux.
+Il fixe également les critères, conditions et limites dans lesquels ces délais
+peuvent être prolongés par l'autorité qui a octroyé l'aide, sur demande motivée
+du bénéficiaire de la subvention, notamment lorsque des circonstances
+extérieures à la volonté de l'intéressé ont fait obstacle à la réalisation de
+l'opération.
+
+En cas de non-respect de ces délais, éventuellement prolongés, la décision
+d'octroi de la subvention devient caduque et le bénéficiaire est tenu de
+rembourser les sommes déjà perçues.
