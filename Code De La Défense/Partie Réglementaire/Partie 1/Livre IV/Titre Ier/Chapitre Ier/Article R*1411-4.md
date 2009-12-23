@@ -7,7 +7,7 @@ chef d'état-major des armées est chargé pour l'ensemble des forces nucléaire
 1° De préparer les plans d'emploi et les directives opérationnelles ;
 
 2° De s'assurer de la capacité opérationnelle des forces nucléaires et des
-télécommunications associées ;
+communications associées ;
 
 3° De tenir informé le ministre de la défense et de rendre compte en conseil de
 défense de l'état de ces moyens.
