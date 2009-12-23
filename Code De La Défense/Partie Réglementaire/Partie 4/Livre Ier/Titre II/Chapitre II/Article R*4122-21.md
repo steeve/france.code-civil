@@ -1,6 +1,6 @@
 Article R*4122-21
 ----
-Dans tous les cas, le ministre informe l'intéressé de la saisine de la
+Dans tous les cas, le ministre compétent informe l'intéressé de la saisine de la
 commission.
 
 Le militaire est, sur sa demande, entendu par la commission. Il peut se faire

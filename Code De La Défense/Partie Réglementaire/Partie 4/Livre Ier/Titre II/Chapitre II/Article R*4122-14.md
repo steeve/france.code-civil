@@ -1,6 +1,7 @@
 Article R*4122-14
 ----
-Sont tenus d'informer sans délai par écrit le ministre de la défense, de la
+Sont tenus d'informer sans délai par écrit le ministre de la défense, ou le
+ministre de l'intérieur pour les militaires de la gendarmerie nationale, de la
 nature de l'activité privée lucrative qu'ils se proposent d'exercer :
 
 1° Les officiers qui demandent à être placés en disponibilité, en congé du

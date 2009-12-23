@@ -1,6 +1,7 @@
 Article R*4122-16
 ----
-Le ministre de la défense peut demander à un militaire qui cesse définitivement
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de
+la gendarmerie nationale, peut demander à un militaire qui cesse définitivement
 ses fonctions ou qui, avant l'expiration du délai prévu à l'article 432-13 du
 code pénal, qui a cessé définitivement ses fonctions et n'appartient pas aux
 catégories définies aux 3°, 4° et 5° de l'article R. * 4122-14 de lui faire
