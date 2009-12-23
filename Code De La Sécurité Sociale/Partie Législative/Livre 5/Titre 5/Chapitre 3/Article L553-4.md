@@ -1,11 +1,11 @@
 Article L553-4
 ----
-I. - Les prestations familiales sont incessibles et insaisissables sauf pour le
+I.-Les prestations familiales sont incessibles et insaisissables sauf pour le
 recouvrement des prestations indûment versées à la suite d'une manoeuvre
 frauduleuse ou d'une fausse déclaration de l'allocataire.
 
 Toutefois, peuvent être saisis dans la limite d'un montant mensuel déterminé
-dans les conditions prévues au deuxième alinéa de l'article L. 553-2 :
+dans les conditions prévues au troisième alinéa de l'article L. 553-2 :
 
 1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution
 aux charges du mariage et liées à l'entretien des enfants : l'allocation pour
@@ -25,7 +25,7 @@ Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnée
 à l'article L. 742-1 sont recouvrées sur les prestations familiales visées à
 l'article L. 511-1, à l'exception de l'allocation de logement.
 
-II. - L'allocation de logement prévue à l'article L. 542-1 est versée, s'il le
+II.-L'allocation de logement prévue à l'article L. 542-1 est versée, s'il le
 demande, au prêteur lorsque l'allocataire est emprunteur et au bailleur lorsque
 l'allocataire est locataire.
 
@@ -46,9 +46,9 @@ l'allocation s'il s'engage par convention avec l'Etat à rendre le logement
 décent dans un délai fixé par cette convention. Le bailleur adresse une copie de
 la convention aux organismes payeurs de l'allocation de logement.
 
-III. - Lorsque l'organisme payeur a versé une allocation indue et que le
-bailleur ou le prêteur justifie avoir procédé à la déduction prévue au deuxième
-alinéa du II, le trop-perçu est recouvré auprès de l'allocataire.
+III.-Lorsque l'organisme payeur a versé une allocation indue et que le bailleur
+ou le prêteur justifie avoir procédé à la déduction prévue au deuxième alinéa du
+II, le trop-perçu est recouvré auprès de l'allocataire.
 
 Le blocage de comptes courants de dépôts ou d'avances ne peut avoir pour effet
 de faire obstacle à l'insaisissabilité et à l'incessibilité des prestations

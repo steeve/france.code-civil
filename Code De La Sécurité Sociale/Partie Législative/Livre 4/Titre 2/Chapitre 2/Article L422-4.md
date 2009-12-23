@@ -27,6 +27,11 @@ d'une injonction préalable n'est pas exigé dans les circonstances suivantes :
 dans les conditions prévues à l'article L. 422-1, à moins que l'arrêté
 d'extension n'en dispose autrement ;
 
+1° bis) Imposition découlant d'une répétition dans un établissement dans un
+délai déterminé de certaines situations particulièrement graves de risque
+exceptionnel définies par arrêté et qui ont donné lieu à une première injonction
+à cet établissement ;
+
 2°) imposition d'une cotisation supplémentaire plus élevée pour récidive dans un
 délai déterminé ou pour persistance, après expiration du délai imparti pour y
 remédier, de la situation qui a donné lieu à l'imposition de la cotisation

@@ -1,27 +1,45 @@
 Article L114-17
 ----
-Sous réserve des dispositions de l'article L. 262-53 du code de l'action sociale
-et des familles, l'inexactitude ou le caractère incomplet des déclarations
-faites pour le service des prestations versées par les organismes chargés de la
-gestion des prestations familiales ou des prestations d'assurance vieillesse,
-ainsi que l'absence de déclaration d'un changement dans la situation justifiant
-ces prestations, ayant abouti au versement de prestations indues, peut faire
-l'objet d'une pénalité prononcée par le directeur de l'organisme concerné, après
-avis d'une commission composée et constituée au sein du conseil d'administration
-de cet organisme. Celle-ci apprécie la responsabilité du bénéficiaire dans
-l'inobservation des règles applicables.
+Peuvent faire l'objet d'une pénalité prononcée par le directeur de l'organisme
+chargé de la gestion des prestations familiales ou des prestations d'assurance
+vieillesse, au titre de toute prestation servie par l'organisme concerné :
+
+1° L'inexactitude ou le caractère incomplet des déclarations faites pour le
+service des prestations ;
+
+2° L'absence de déclaration d'un changement dans la situation justifiant le
+service des prestations ;
+
+3° L'exercice d'un travail dissimulé, constaté dans les conditions prévues à
+l'article L. 114-15, par le bénéficiaire de prestations versées sous conditions
+de ressources ou de cessation d'activité ;
+
+4° Les agissements visant à obtenir ou à tenter de faire obtenir le versement
+indu de prestations servies par un organisme mentionné au premier alinéa, même
+sans en être le bénéficiaire.
 
 Le montant de la pénalité est fixé en fonction de la gravité des faits, dans la
-limite de deux fois le plafond mensuel de la sécurité sociale. Ce montant est
-doublé en cas de récidive. Le directeur de l'organisme concerné notifie le
+limite de deux fois le plafond mensuel de la sécurité sociale. Cette limite est
+doublée en cas de récidive. Le directeur de l'organisme concerné notifie le
 montant envisagé de la pénalité et les faits reprochés à la personne en cause,
 afin qu'elle puisse présenter ses observations écrites ou orales dans un délai
 d'un mois.A l'issue de ce délai, le directeur de l'organisme prononce, le cas
 échéant, la pénalité et la notifie à l'intéressé en lui indiquant le délai dans
 lequel il doit s'en acquitter.
 
+La personne concernée peut former, dans un délai fixé par voie réglementaire, un
+recours gracieux contre cette décision auprès du directeur. Ce dernier statue
+après avis d'une commission composée et constituée au sein du conseil
+d'administration de l'organisme. Cette commission apprécie la responsabilité de
+la personne concernée dans la réalisation des faits reprochés. Si elle l'estime
+établie, elle propose le prononcé d'une pénalité dont elle évalue le montant.
+L'avis de la commission est adressé simultanément au directeur de l'organisme et
+à l'intéressé.
+
 La mesure prononcée est motivée et peut être contestée devant la juridiction
-administrative.
+administrative. La pénalité ne peut pas être prononcée s'il a été fait
+application, pour les mêmes faits, des articles L. 262-52 ou L. 262-53 du code
+de l'action sociale et des familles.
 
 En l'absence de paiement dans le délai prévu par la notification de la pénalité,
 le directeur de l'organisme envoie une mise en demeure à l'intéressé de payer
@@ -34,6 +52,13 @@ bénéfice de l'hypothèque judiciaire. Une majoration de 10 % est applicable au
 pénalités qui n'ont pas été réglées aux dates d'exigibilité mentionnées sur la
 mise en demeure.
 
-Les modalités d'application du présent article, notamment les situations
-mentionnées au premier alinéa et le barème des pénalités, sont fixées par décret
-en Conseil d'Etat.
+Les modalités d'application du présent I sont fixées par décret en Conseil
+d'Etat.
+
+II.-Lorsque l'intention de frauder est établie, le montant de la pénalité ne
+peut être inférieur à un dixième du plafond mensuel de la sécurité sociale. En
+outre, la limite du montant de la pénalité prévue au I du présent article est
+portée à quatre fois le plafond mensuel de la sécurité sociale. Dans le cas
+d'une fraude commise en bande organisée au sens de l'article 132-71 du code
+pénal, cette limite est portée à huit fois le plafond mensuel de la sécurité
+sociale.

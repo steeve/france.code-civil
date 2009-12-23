@@ -33,6 +33,29 @@ application des abattements mentionnés au I de l'article 125-0 A, à l'article
 ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
 vue de l'acquisition et de la conservation du revenu.
 
+Sont également soumis à cette contribution :
+
+1° Les gains nets exonérés en application du 1 du I de l'article 150-0 A du code
+général des impôts ;
+
+2° Les gains nets exonérés en application du I bis de l'article 150-0 A du même
+code ainsi que les plus-values exonérées en application du 7 du III du même
+article ;
+
+3° Les plus-values à long terme exonérées en application de l'article 151
+septies A du même code ;
+
+4° Les revenus, produits et gains exonérés en application du II de l'article 155
+B du même code.
+
+Pour la détermination des revenus mentionnés aux e et 1° du présent I, à
+l'exception des plus-values professionnelles à long terme et des avantages
+définis aux 6 et 6 bis de l'article 200 A du code général des impôts, les
+moins-values subies au cours d'une année sont imputables sur les plus-values de
+même nature réalisées au cours de la même année ou des dix années suivantes quel
+que soit le montant des cessions réalisées par le foyer fiscal au titre des
+années concernées.
+
 II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
@@ -48,22 +71,13 @@ b) Tous autres revenus dont l'imposition est attribuée à la France par une
 convention internationale relative aux doubles impositions et qui n'ont pas
 supporté la contribution prévue à l'article L. 136-1.
 
-II. bis.-Les personnes physiques fiscalement domiciliées en France au sens de
-l'article 4 B du code général des impôts sont également assujetties à la
-contribution mentionnée au I à raison des gains nets exonérés en application du
-I bis de l'article 150-0 A du même code ainsi que des plus-values exonérées en
-application du 7 du II du même article. Il en est de même pour les plus-values à
-long terme exonérées en application de l'article 151 septies A du code général
-des impôts ainsi que pour les revenus exonérés en application du II de l'article
-81 C du même code.
+II. bis. (Abrogé)
 
 III.-La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
 sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de
 cette contribution résultant de la mise en recouvrement du rôle primitif est
-versé le 25 novembre au plus tard aux organismes affectataires. Il en est de
-même pour la contribution mentionnée au II bis dont l'assiette est calculée
-conformément aux dispositions de l'article 150-0 D du code général des impôts.
+versé le 25 novembre au plus tard aux organismes affectataires.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.
@@ -71,6 +85,6 @@ applicables.
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
 par article de rôle est inférieur à 61 euros.
 
-La majoration de 10 % prévue à l'article 1730 du même code est appliquée au
-montant de la contribution qui n'a pas été réglé dans les trente jours suivant
-la mise en recouvrement.
+La majoration de 10 % prévue à l' article 1730 du code général des impôts est
+appliquée au montant de la contribution qui n'a pas été réglé dans les trente
+jours suivant la mise en recouvrement.

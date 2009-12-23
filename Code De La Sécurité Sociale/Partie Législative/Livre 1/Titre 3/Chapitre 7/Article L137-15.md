@@ -17,3 +17,12 @@ application du douzième alinéa de l'article L. 242-1 du présent code et du
 troisième alinéa de l'article L. 741-10 du code rural ;
 
 4° De l'avantage prévu à l'article L. 411-9 du code du tourisme.
+
+Sont également soumises à cette contribution les sommes entrant dans l'assiette
+définie au premier alinéa du présent article versées aux personnes mentionnées à
+l'article L. 3312-3 du code du travail.
+
+Sont également soumises à cette contribution les rémunérations visées aux
+articles L. 225-44 et L. 225-85 du code de commerce perçues par les
+administrateurs et membres des conseils de surveillance de sociétés anonymes et
+des sociétés d'exercice libéral à forme anonyme.

@@ -18,7 +18,7 @@ prix de revient de certaines prestations dans la zone considérée.
 
 Les éléments mentionnés aux 1° et 3° prennent effet le 1er mars de l'année en
 cours et ceux mentionnés au 2° le 1er janvier de la même année, à l'exception de
-ceux fixés en application du II.
+ceux fixés en application du II bis.
 
 II.-La Caisse nationale de l'assurance maladie des travailleurs salariés
 communique à l'Etat, pour l'ensemble des régimes obligatoires d'assurance
@@ -50,7 +50,7 @@ IV.-Les tarifs de responsabilité afférents aux activités de médecine, chirur
 obstétrique et odontologie exercées par les établissements de santé privés
 mentionnés au e de l'article L. 162-22-6 sont fixés par l'Etat.
 
-V. ― Le Gouvernement présente avant le 15 octobre de chaque année au Parlement
+V. ― Le Gouvernement présente avant le 15 septembre de chaque année au Parlement
 un rapport sur la tarification à l'activité des établissements de santé et ses
 conséquences sur l'activité et l'équilibre financier des établissements publics
 et privés. Le rapport précise notamment les dispositions prises :

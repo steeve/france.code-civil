@@ -77,3 +77,12 @@ forfaitaires. Cependant, la Caisse nationale de solidarité pour l'autonomie
 rembourse à la Caisse nationale des allocations familiales les cotisations
 acquittées par les organismes débiteurs des prestations familiales au titre des
 personnes mentionnées aux quatrième et cinquième alinéas.
+
+Aucune affiliation ne peut intervenir en application des dispositions ci-dessus
+lorsque, au titre du ou des enfants considérés et de la même période, la
+personne concernée bénéficie de la majoration de durée d'assurance prévue à
+l'article L. 351-5 du présent code ou de périodes d'assurance attribuées par des
+régimes spéciaux en application du 1° de l'article L. 9 du code des pensions
+civiles et militaires de retraite ou de dispositions réglementaires ayant le
+même objet. Les dispositions d'application du présent alinéa sont déterminées en
+tant que de besoin par décret.

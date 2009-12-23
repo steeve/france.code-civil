@@ -1,24 +1,6 @@
 Article 1600-0 G
 ----
-I. Les personnes physiques désignées à l'article L. 136-1 du code de la sécurité
-sociale sont assujetties à une contribution perçue à compter de 1996 et assise
-sur les revenus du patrimoine définis au I de l'article L. 136-6 du même code.
-
-Cette contribution est établie chaque année sur les revenus de l'année
-précédente. Toutefois, la contribution due sur les revenus de la première année
-d'imposition est assise sur les onze douzièmes des revenus de l'année 1995.
-
-Elle est établie, recouvrée et contrôlée dans les conditions et selon les
-modalités prévues au III de l'article L. 136-6 du code de la sécurité sociale, à
-l'exception du troisième alinéa.
-
-Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A, à l'article
-150-0 D bis et aux 2° et 5° du 3 de l'article 158, ainsi que, pour les revenus
-de capitaux mobiliers, des dépenses effectuées en vue de l'acquisition et de la
-conservation du revenu .
-
-II. La contribution est mise en recouvrement et exigible en même temps, le cas
-échéant, que la contribution sociale instituée par l'article L. 136-6 du code de
-la sécurité sociale. Il n'est pas procédé au recouvrement lorsque le montant
-total par article de rôle est inférieur à 61 euros.
+La contribution pour le remboursement de la dette sociale assise sur les revenus
+du patrimoine est établie, contrôlée et recouvrée conformément à l'article 15 de
+l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette
+sociale.

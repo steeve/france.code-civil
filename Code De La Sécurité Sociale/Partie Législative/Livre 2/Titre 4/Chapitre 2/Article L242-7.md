@@ -10,7 +10,9 @@ mesures de prévention prescrites en application des articles L. 422-1 et L.
 422-4 du présent code.
 
 La cotisation supplémentaire est due à partir de la date à laquelle ont été
-constatés les risques exceptionnels ci-dessus mentionnés.
+constatés les risques exceptionnels ci-dessus mentionnés. Son taux, la durée
+pendant laquelle elle est due et son montant forfaitaire minimal sont fixés par
+arrêté.
 
 L'arrêté mentionné au premier alinéa du présent article fixe le pourcentage du
 montant des cotisations d'accidents du travail et des maladies professionnelles

@@ -11,6 +11,14 @@ Cette pension de réversion est d'un montant égal à 54 % de la pension de
 retraite complémentaire dont bénéficiait l'assuré ou aurait, au 1er avril 2003,
 bénéficié l'assuré décédé entre le 1er janvier 2003 et le 31 mars 2003.
 
+En cas de décès, à compter du 1er janvier 2003, d'un chef d'exploitation ou
+d'entreprise agricole dont la pension de retraite de base a été liquidée au plus
+tard le 1er janvier 2003, son conjoint survivant a droit, au plus tôt au 1er
+janvier 2010, à une pension de réversion du régime complémentaire s'il remplit
+les conditions personnelles prévues au premier alinéa. Cette pension de
+réversion est d'un montant égal à 54 % de la pension de retraite complémentaire
+dont bénéficiait l'assuré.
+
 En cas de décès d'un chef d'exploitation ou d'entreprise agricole dont la
 pension de retraite de base n'a pas été liquidée au jour de son décès, son
 conjoint survivant a droit au plus tôt au 1er avril 2003 à une pension de

@@ -15,6 +15,11 @@ familles, tel qu'il résulte de la loi n° 2008-1249 du 1er décembre 2008
 généralisant le revenu de solidarité active et réformant les politiques
 d'insertion.
 
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur
+une prestation versée en tiers payant, l'organisme peut, si d'autres prestations
+sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations
+selon des modalités et des conditions précisées par décret.
+
 Dans des conditions définies par décret, les retenues mentionnées au premier
 alinéa, ainsi que celles mentionnées aux articles L. 835-3 du présent code et L.
 351-11 du code de la construction et de l'habitation, L. 821-5-1 du présent code

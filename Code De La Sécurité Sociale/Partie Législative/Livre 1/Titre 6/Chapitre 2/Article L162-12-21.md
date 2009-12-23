@@ -14,7 +14,9 @@ prescription, la participation à des actions de dépistage et de prévention, d
 actions destinées à favoriser la continuité et la coordination des soins, la
 participation à la permanence de soins, le contrôle médical, ainsi que toute
 action d'amélioration des pratiques, de la formation et de l'information des
-professionnels.
+professionnels. Le contrat peut faire l'objet d'avenants destinés à y intégrer
+les objectifs fixés chaque année en matière de maîtrise médicalisée des dépenses
+d'assurance maladie.
 
 Ce contrat détermine les contreparties financières, qui sont liées à l'atteinte
 des objectifs par le professionnel ou le centre de santé.

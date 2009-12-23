@@ -14,5 +14,10 @@ L. 262-1 du code de l'action sociale et des familles, tel qu'il résulte de la
 loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité
 active et réformant les politiques d'insertion.
 
-Les retenues mentionnées à l'alinéa précédent sont déterminées en application
-des règles prévues au deuxième alinéa de l'article L. 553-2 du présent code.
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur
+une prestation versée en tiers payant, l'organisme peut, si d'autres prestations
+sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations
+selon des modalités et des conditions précisées par décret.
+
+Les retenues mentionnées au premier alinéa sont déterminées en application des
+règles prévues au troisième alinéa de l'article L. 553-2 du présent code.

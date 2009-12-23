@@ -20,10 +20,17 @@ Les différends auxquels peut donner lieu l'application du présent titre et qui
 ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions
 régissant le contentieux général de la sécurité sociale.
 
-L'Etat verse au fonds national des prestations familiales, géré par la caisse
-nationale des allocations familiales, une subvention correspondant au montant
-des dépenses versées au titre de l'allocation aux adultes handicapés, du
-complément de ressources et de la majoration pour la vie autonome ainsi qu'au
-titre de l'allocation pour adulte handicapé prévue à l'article 35 de
-l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et
-sociale à Mayotte.
+Le financement de l'allocation aux adultes handicapés, du complément de
+ressources, de la majoration pour la vie autonome et de l'allocation pour adulte
+handicapé mentionnée à l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002
+relative à la protection sanitaire et sociale à Mayotte est assuré par l'Etat.
+La prise en charge par l'Etat des pertes sur créances d'indus ne peut excéder
+une fraction des prestations versées dans l'année, dans des conditions fixées
+par décret.
+
+La prescription est interrompue tant que l'organisme débiteur des prestations
+familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison
+de la mise en œuvre d'une procédure de recouvrement d'indus relevant des
+articles L. 553-2, L. 821-5-1 ou L. 835-3 du code de la sécurité sociale, L.
+262-46 du code de l'action sociale et des familles ou L. 351-11 du code de la
+construction et de l'habitation.

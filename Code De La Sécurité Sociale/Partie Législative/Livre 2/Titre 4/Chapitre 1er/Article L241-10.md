@@ -81,7 +81,8 @@ prestations d'aide ménagère visées au précédent alinéa que les personnes a
 titre desquelles cette exonération a été appliquée ont la qualité de
 bénéficiaires desdites prestations.
 
-Les rémunérations des aides à domicile ayant la qualité d'agent titulaire d'un
+Les rémunérations des aides à domicile ayant la qualité d'agent titulaire
+relevant du cadre d'emplois des agents sociaux territoriaux en fonction dans un
 centre communal ou intercommunal d'action sociale bénéficient d'une exonération
 de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de
 l'article R. 711-1 du présent code pour la fraction de ces rémunérations

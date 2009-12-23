@@ -1,6 +1,6 @@
 Article L136-7
 ----
-I. - Les produits de placements sur lesquels est opéré le prélèvement prévu à
+I.-Les produits de placements sur lesquels est opéré le prélèvement prévu à
 l'article 125 A du code général des impôts, ainsi que les produits de même
 nature retenus pour l'établissement de l'impôt sur le revenu lorsque la personne
 qui en assure le paiement est établie en France, sont assujettis à une
@@ -22,7 +22,7 @@ perçus dans un plan d'épargne en actions défini au 5° du II du présent arti
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts.
 
-II. - Sont également assujettis à la contribution selon les modalités prévues au
+II.-Sont également assujettis à la contribution selon les modalités prévues au
 premier alinéa du I, pour la part acquise à compter du 1er janvier 1997 et, le
 cas échéant, constatée à compter de cette même date en ce qui concerne les
 placements visés du 3° au 9° ;
@@ -53,13 +53,17 @@ janvier 2006 sur des plans de plus de dix ans ou sur des plans ouverts avant le
 2° bis Les primes d'épargne des plans d'épargne-logement lors de leur versement
 ;
 
-3° Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
-placements de même nature mentionnés à l'article 125-0A du code général des
-impôts quelle que soit leur date de souscription, lors de leur inscription au
-contrat ou lors du dénouement pour les bons et contrats en unités de compte
-visés au deuxième alinéa de l'article L. 131-1 du code des assurances, à
-l'exception des produits attachés aux contrats visés à l'article 199 septies du
-code général des impôts ;
+3° Les produits attachés aux bons ou contrats de capitalisation, ainsi qu'aux
+placements de même nature mentionnés à l'article 125-0 A du code général des
+impôts, quelle que soit leur date de souscription, à l'exception des produits
+attachés aux contrats mentionnés à l'article 199 septies du même code :
+
+a) Lors de leur inscription au contrat ou, pour les bons ou contrats en unités
+de compte mentionnés au dernier alinéa de l'article L. 131-1 du code des
+assurances, lors de leur dénouement ;
+
+b) Lors du décès de l'assuré, à l'exception de ceux ayant déjà supporté la
+contribution au titre du a ;
 
 4° Les produits des plans d'épargne populaire, ainsi que les rentes viagères et
 les primes d'épargne visés au premier alinéa du 22° de l'article 157 du code
@@ -121,7 +125,7 @@ du III de l'article 150-0 A du même code ;
 
 8° bis Les revenus, produits et gains non pris en compte pour le calcul du
 prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A du
-code général des impôts, en application du II de l'article 81 C du même code,
+code général des impôts, en application du II de l'article 155 B du même code,
 lors de leur perception ;
 
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
@@ -129,11 +133,11 @@ en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
 lors de l'expiration du contrat.
 
-III. - Paragraphe abrogé
+III.-Paragraphe abrogé
 
-IV. - 1. La contribution sociale généralisée due par les établissements payeurs
-au titre des mois de décembre et janvier sur les revenus de placement mentionnés
-au présent article, à l'exception de celle due sur les revenus et plus-values
+IV.-1. La contribution sociale généralisée due par les établissements payeurs au
+titre des mois de décembre et janvier sur les revenus de placement mentionnés au
+présent article, à l'exception de celle due sur les revenus et plus-values
 mentionnés aux 1° et 2° du I, fait l'objet d'un versement déterminé sur la base
 du montant des revenus de placement soumis l'année précédente à la contribution
 sociale généralisée au titre des mois de décembre et janvier.
@@ -163,7 +167,7 @@ général des impôts s'applique à cette différence.L'assiette de cette majora
 est toutefois limitée à la différence entre le montant du versement calculé dans
 les conditions du 1 et celui réduit dans les conditions du 2.
 
-V. - La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
+V.-La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code
 général des impôts.
@@ -172,6 +176,6 @@ La contribution visée au 1° du I est assise, contrôlée et recouvrée selon l
 mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le
 prélèvement mentionné à l'article 117 quater du code général des impôts.
 
-VI. - La contribution portant sur les plus-values mentionnées au 2° du I est
+VI.-La contribution portant sur les plus-values mentionnées au 2° du I est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que l'impôt sur le revenu.

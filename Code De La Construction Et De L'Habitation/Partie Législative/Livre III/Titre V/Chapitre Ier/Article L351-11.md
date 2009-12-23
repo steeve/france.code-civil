@@ -8,11 +8,21 @@ Cette prescription est également applicable à l'action intentée par un organi
 payeur en recouvrement des sommes indûment payées, sauf en cas de fraude ou de
 fausse déclaration.
 
+La prescription est interrompue par une des causes prévues par le code
+civil.L'interruption de la prescription peut, en outre, résulter de l'envoi
+d'une lettre recommandée avec demande d'avis de réception, quels qu'en aient été
+les modes de délivrance.
+
 Dans le cas où le bailleur ou l'établissement habilité justifie qu'il a,
 conformément à l'article L. 351-9, alinéa 5, déduit ces sommes du montant du
 loyer et des dépenses accessoires de logement ou de celui des charges de
 remboursement, le recouvrement s'effectue, suivant le cas, auprès du locataire
 ou de l'emprunteur.
+
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur
+une prestation versée en tiers payant, l'organisme peut, si d'autres prestations
+sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations
+selon des modalités et des conditions précisées par décret.
 
 Lorsque l'un ou l'autre ne conteste pas l'exactitude de ce trop-perçu,
 l'organisme payeur récupère cet indu par retenue sur les échéances d'aide
@@ -27,11 +37,11 @@ code de l'action sociale et des familles, tel qu'il résulte de la loi n°
 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et
 réformant les politiques d'insertion.
 
-Dans des conditions définies par décret, les retenues mentionnées à l'alinéa
-précédent, ainsi que celles mentionnées aux articles L. 553-2 et L. 835-3 du
-code de la sécurité sociale, L. 821-5-1 du même code et L. 262-46 du code de
-l'action sociale et des familles, tel qu'il résulte de la loi n° 2008-1249 du
-1er décembre 2008 précitée, sont déterminées en fonction de la composition de la
+Dans des conditions définies par décret, les retenues mentionnées au quatrième
+alinéa, ainsi que celles mentionnées aux articles L. 553-2 et L. 835-3 du code
+de la sécurité sociale, L. 821-5-1 du même code et L. 262-46 du code de l'action
+sociale et des familles, tel qu'il résulte de la loi n° 2008-1249 du 1er
+décembre 2008 précitée, sont déterminées en fonction de la composition de la
 famille, de ses ressources, des charges de logement et des prestations servies
 par les organismes débiteurs de prestations familiales, à l'exception de celles
 précisées par décret.
@@ -43,3 +53,10 @@ en cas de manœuvre frauduleuse ou de fausses déclarations.
 
 L'article L. 161-1-5 du code de la sécurité sociale est applicable pour le
 recouvrement des sommes indûment versées.
+
+La prescription est interrompue tant que l'organisme débiteur des prestations
+familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison
+de la mise en œuvre d'une procédure de recouvrement d'indus relevant des
+articles L. 553-2, L. 821-5-1 ou L. 835-3 du code de la sécurité sociale, L.
+262-46 du code de l'action sociale et des familles ou L. 351-11 du code de la
+construction et de l'habitation.

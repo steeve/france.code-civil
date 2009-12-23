@@ -33,19 +33,22 @@ thérapeutique particulièrement coûteuse ;
 couverts au titre du 2° de l'article L. 321-1 ;
 
 7°) lorsque l'assuré est hébergé dans un établissement mentionné à l'article 3
-de la loi n° 75-535 du 30 juin 1975 (1) ou lorsqu'il bénéficie de soins
-dispensés par un centre mentionné à l'article L. 355-1-1 du code de la santé
-publique ;
+de la loi n° 75-535 du 30 juin 1975 ou lorsqu'il bénéficie de soins dispensés
+par un centre mentionné à l'article L. 355-1-1 du code de la santé publique ;
 
 8°) lorsque l'assuré est hébergé dans une unité ou un centre de long séjour
 mentionné à l'article L. 174-5 ou à l'article 52-1 de la loi n° 70-1318 du 31
-décembre 1970 (2) ;
+décembre 1970 ;
 
 9°) lorsque l'assuré bénéficie de soins paramédicaux dispensés dans le cadre
 d'une action médico-sociale de maintien à domicile par les institutions
-mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 (1) ;
+mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 ;
 
-10°) Abrogé ;
+10°) Lorsque l'assuré ne relève plus du 3° mais se trouve dans une situation
+clinique déterminée sur la base de recommandations de la Haute Autorité de santé
+et justifiant des actes et examens médicaux ou biologiques de suivi de son état,
+pour ces actes et examens, dans des conditions et pour une durée définies par
+décret pris après avis de la Haute Autorité de santé ;
 
 11°) Pour l'hospitalisation des nouveau-nés lorsqu'elle se produit pendant une
 période fixée par décret en Conseil d'Etat, ainsi que pour tous les soins qui

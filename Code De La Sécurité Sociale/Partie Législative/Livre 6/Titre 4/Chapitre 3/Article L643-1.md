@@ -8,9 +8,9 @@ La valeur de service du point est revalorisée dans les conditions prévues à
 l'article L. 161-23-1.
 
 Les femmes ayant accouché au cours d'une année civile d'affiliation au régime
-d'assurance vieillesse des professions libérales bénéficient de points
-supplémentaires au titre du trimestre civil au cours duquel survient
-l'accouchement, dans des conditions fixées par décret.
+d'assurance vieillesse des professions libérales bénéficient de points au titre
+du trimestre civil au cours duquel survient l'accouchement, dans des conditions
+et limites fixées par décret.
 
 Les personnes ayant exercé leur activité libérale en étant atteintes d'une
 invalidité entraînant pour elles l'obligation d'avoir recours à l'assistance

@@ -10,4 +10,6 @@ l'ensemble du groupe professionnel, soit d'une activité professionnelle
 particulière et comportant des avantages en faveur des veuves et des orphelins.
 Le conjoint associé ou le conjoint collaborateur, mentionné à l'article L. 121-4
 du code de commerce, de l'assuré relevant de ce groupe ou exerçant cette
-activité est affilié à titre obligatoire à ce régime.
+activité est affilié à titre obligatoire à ce régime, dans des conditions
+déterminées par décret, notamment concernant l'adaptation du mode de calcul des
+cotisations et des prestations.

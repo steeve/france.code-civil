@@ -8,19 +8,17 @@ des professions libérales, habilités à décerner la contrainte définie à
 l'article L. 244-9 peuvent, au moyen d'une opposition, enjoindre aux tiers
 dépositaires, détenteurs ou redevables de sommes appartenant ou devant revenir
 au débiteur, de verser au lieu et place de celui-ci, auxdits organismes, les
-fonds qu'ils détiennent ou qu'ils doivent à concurrence des cotisations et des
-majorations et pénalités de retard bénéficiant du privilège prévu à l'article L.
-243-4 ou ayant donné lieu à une inscription de privilège dans les conditions
-prévues à l'article L. 243-5.
+fonds qu'ils détiennent ou qu'ils doivent à concurrence des cotisations, des
+contributions et des majorations et pénalités de retard.
 
 L'opposition motivée est notifiée au tiers détenteur et au débiteur par le
 directeur de l'un des organismes mentionnés à l'alinéa précédent. Elle affecte,
 dès réception par le tiers, les sommes faisant l'objet du titre exécutoire au
 paiement desdites cotisations et majorations et pénalités de retard, quelle que
 soit la date à laquelle les créances, même conditionnelles ou à terme, que le
-débiteur possède à l'encontre du tiers deviennent exigibles. L'opposition
-emporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650
-du 9 juillet 1991 précitée à concurrence des sommes pour lesquelles elle est
+débiteur possède à l'encontre du tiers deviennent exigibles.L'opposition emporte
+l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650 du 9
+juillet 1991 précitée à concurrence des sommes pour lesquelles elle est
 pratiquée. Lorsqu'une personne est simultanément destinataire de plusieurs
 oppositions établies au nom du débiteur, elle doit, en cas d'insuffisance des
 fonds, exécuter ces demandes en proportion de leurs montants respectifs.

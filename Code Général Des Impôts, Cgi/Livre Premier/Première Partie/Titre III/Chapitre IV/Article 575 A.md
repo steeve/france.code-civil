@@ -16,9 +16,8 @@ Tabacs à priser : 45, 57 %
 
 Tabacs à mâcher : 32, 17 %
 
-Le minimum de perception mentionné à l'article 575 est fixé à 155 euros pour les
+Le minimum de perception mentionné à l'article 575 est fixé à 164 € pour les
 cigarettes.
 
-Il est fixé à 85 euros pour les tabacs fine coupe destinés à rouler les
-cigarettes, à 60 euros pour les autres tabacs à fumer et à 89 euros pour les
-cigares.
+Il est fixé à 97 € pour les tabacs fine coupe destinés à rouler les cigarettes,
+à 60 euros pour les autres tabacs à fumer et à 89 euros pour les cigares.

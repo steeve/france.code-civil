@@ -28,4 +28,4 @@ forfaitaire de 50 000 euros. Cet abattement est modulé, selon des modalités
 fixées par décret en Conseil d'Etat, lorsque la durée du ou des exercices clos
 depuis la dernière échéance de la contribution est différente de douze mois.
 
-Le taux de la contribution est fixé à 10 %.
+Le taux de la contribution est fixé à 15 %.

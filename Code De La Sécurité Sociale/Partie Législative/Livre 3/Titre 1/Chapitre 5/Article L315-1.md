@@ -17,13 +17,22 @@ prescriptions sont mis en oeuvre dans des conditions définies par la convention
 mentionnée à l'article L. 227-1.
 
 Lorsqu'un contrôle effectué par un médecin à la demande de l'employeur, en
-application du dernier alinéa de l'article 1er de la loi n° 78-49 du 19 janvier
-1978 relative à la mensualisation et à la procédure conventionnelle, conclut à
-l'absence de justification d'un arrêt de travail, ce médecin transmet son avis
-au service du contrôle médical de la caisse. Si ce service conclut également, au
-vu de cet avis, à l'absence de justification de l'arrêt de travail, la caisse
-suspend le versement des indemnités journalières après en avoir informé
-l'assuré.
+application de l'article L. 1226-1 du code du travail, conclut à l'absence de
+justification d'un arrêt de travail ou fait état de l'impossibilité de procéder
+à l'examen de l'assuré, ce médecin transmet son rapport au service du contrôle
+médical de la caisse dans un délai maximal de quarante-huit heures. Le rapport
+précise si le médecin diligenté par l'employeur a ou non procédé à un examen
+médical de l'assuré concerné. Au vu de ce rapport, ce service :
+
+1° Soit demande à la caisse de suspendre les indemnités journalières. Dans un
+délai fixé par décret à compter de la réception de l'information de suspension
+des indemnités journalières, l'assuré peut demander à son organisme de prise en
+charge de saisir le service du contrôle médical pour examen de sa situation. Le
+service du contrôle médical se prononce dans un délai fixé par décret ;
+
+2° Soit procède à un nouvel examen de la situation de l'assuré. Ce nouvel examen
+est de droit si le rapport a fait état de l'impossibilité de procéder à l'examen
+de l'assuré.
 
 III.-Le service du contrôle médical procède à l'analyse, sur le plan médical, de
 l'activité des établissements de santé mentionnés aux articles L. 162-29 et L.

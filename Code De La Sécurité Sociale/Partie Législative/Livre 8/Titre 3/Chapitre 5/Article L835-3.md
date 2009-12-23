@@ -21,6 +21,11 @@ l'article L. 262-1 du code de l'action sociale et des familles, tel qu'il
 résulte de la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de
 solidarité active et réformant les politiques d'insertion.
 
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur
+une prestation versée en tiers payant, l'organisme peut, si d'autres prestations
+sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations
+selon des modalités et des conditions précisées par décret.
+
 Dans des conditions définies par décret, les retenues mentionnées au troisième
 alinéa, ainsi que celles mentionnées aux articles L. 553-2 du présent code et L.
 351-11 du code de la construction et de l'habitation, L. 821-5-1 du présent code
@@ -33,3 +38,10 @@ l'exception de celles précisées par décret.
 Toutefois, par dérogation aux dispositions des alinéas précédents, le montant de
 l'indu peut être réduit ou remis en cas de précarité de la situation du
 débiteur, sauf en cas de manœuvre frauduleuse ou de fausses déclarations.
+
+La prescription est interrompue tant que l'organisme débiteur des prestations
+familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison
+de la mise en œuvre d'une procédure de recouvrement d'indus relevant des
+articles L. 553-2, L. 821-5-1 ou L. 835-3 du code de la sécurité sociale, L.
+262-46 du code de l'action sociale et des familles ou L. 351-11 du code de la
+construction et de l'habitation.

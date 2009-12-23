@@ -36,4 +36,4 @@ contenant l'ensemble des stipulations mentionnées au 2° du II, un décret
 détermine la part de rémunération prévue au 1° du II.
 
 IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au 30 juin
-2012.
+2010.

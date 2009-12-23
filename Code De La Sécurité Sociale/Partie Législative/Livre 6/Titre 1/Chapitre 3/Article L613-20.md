@@ -19,5 +19,10 @@ en une réduction de la participation de l'assuré aux tarifs servant au calcul 
 remboursement des prestations de base, sans que cette participation puisse être
 inférieure à celle prévue à l'article L. 322-2.
 
+Lorsque la prestation supplémentaire consiste en l'octroi des indemnités
+journalières prévues au 5° de l'article L. 321-1, le bénéficiaire est soumis aux
+obligations fixées à l'article L. 323-6, sous peine des pénalités prévues à cet
+article.L'article L. 323-7 lui est également applicable.
+
 La charge des prestations supplémentaires est couverte par des cotisations
 supplémentaires, dans les conditions précisées à l'article L. 612-13.

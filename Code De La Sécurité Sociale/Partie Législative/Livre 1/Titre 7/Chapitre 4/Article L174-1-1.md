@@ -22,13 +22,17 @@ soins de l'Institution nationale des invalides ;
 Saint-Pierre-et-Miquelon ;
 
 6° Les activités de soins dispensés par l'établissement public de santé de
-Mayotte.
+Mayotte ;
+
+7° Les activités de soins dispensés par un hôpital établi dans un autre Etat à
+des patients relevant d'un régime obligatoire d'assurance maladie français, en
+application d'un accord conclu entre la France et l'Etat concerné.
 
 Cet objectif est constitué du montant total des charges supportées par les
-régimes obligatoires d'assurance maladie au titre des dotations annuelles de
-financement fixées en application des articles L. 162-22-16, L. 174-1, L. 174-5
-et L. 174-15 et de celles fixées en application des articles L. 6147-5 et L.
-6416-1 du code de la santé publique.
+régimes obligatoires d'assurance maladie au titre du 7° du présent article et
+des dotations annuelles de financement fixées en application des articles L.
+162-22-16, L. 174-1, L. 174-5 et L. 174-15 et de celles fixées en application
+des articles L. 6147-5 et L. 6416-1 du code de la santé publique.
 
 Le montant de cet objectif est arrêté par l'Etat en fonction de l'objectif
 national de dépenses d'assurance maladie. Ce montant prend en compte les
