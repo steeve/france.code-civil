@@ -16,14 +16,17 @@ l'article L. 381-1.
 
 Il en est de même pour le risque vieillesse en ce qui concerne :
 
-1°) les personnes de nationalité française salariées ou assimilées travaillant
-hors du territoire français;
+1° Les personnes salariées ou assimilées travaillant hors du territoire français
+et ayant été à la charge, à quelque titre que ce soit, d'un régime obligatoire
+français d'assurance maladie pendant une durée déterminée par décret ;
 
 2°) Le parent ou le parent chargé de famille résidant en France ainsi que le
-parent ou le parent chargé de famille de nationalité française, résidant hors du
-territoire français qui ne relève pas, à titre personnel, d'un régime
-obligatoire d'assurance vieillesse et qui satisfait à des conditions fixées par
-décret, notamment en ce qui concerne la situation de famille.
+parent ou le parent chargé de famille ayant été à la charge, à quelque titre que
+ce soit, d'un régime obligatoire français d'assurance maladie pendant une durée
+déterminée par décret, résidant hors du territoire français qui ne relève pas, à
+titre personnel, d'un régime obligatoire d'assurance vieillesse et qui satisfait
+à des conditions fixées par décret, notamment en ce qui concerne la situation de
+famille.
 
 Il en est de même pour le risque invalidité en ce qui concerne le parent chargé
 de famille et résidant en France, qui n'exerce pas d'activité professionnelle et

@@ -24,5 +24,5 @@ Les conditions dans lesquelles les demandes doivent être présentées ;
 Les modalités de liquidation ou de révision des droits à l'assurance vieillesse
 des demandeurs ;
 
-Le mode de calcul des cotisations et les coefficients de revalorisation qui leur
-sont applicables.
+Les cotisations sont égales à celles dues en application de l'article L.
+351-14-1.

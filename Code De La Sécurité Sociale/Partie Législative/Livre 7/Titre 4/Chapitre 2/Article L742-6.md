@@ -3,11 +3,12 @@ Article L742-6
 Peuvent adhérer volontairement à l'assurance vieillesse des travailleurs
 non-salariés :
 
-1°) les personnes de nationalité française exerçant une des activités
-professionnelles énumérées aux articles L. 622-3 à L. 622-5 et résidant hors du
-territoire français. Les modalités d'application de cette disposition sont
-déterminées par un décret qui précise notamment les délais dans lesquels les
-intéressés doivent demander leur affiliation ;
+1°) les personnes ayant été à la charge, à quelque titre que ce soit, d'un
+régime obligatoire français d'assurance maladie pendant une durée déterminée,
+exerçant une des activités professionnelles énumérées aux articles L. 622-3 à L.
+622-5 et résidant hors du territoire français. Les modalités d'application de
+cette disposition sont déterminées par un décret qui précise notamment les
+délais dans lesquels les intéressés doivent demander leur affiliation ;
 
 2°) les personnes qui, ayant exercé en dernier lieu une des activités énumérées
 aux articles L. 622-3 à L. 622-5 et ne pouvant prétendre en raison de leur âge
