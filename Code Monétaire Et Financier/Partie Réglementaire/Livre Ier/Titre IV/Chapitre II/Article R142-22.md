@@ -57,6 +57,12 @@ Sur proposition de l'Assemblée des chambres françaises de commerce et
 d'industrie ou des organisations professionnelles du commerce, saisies par le
 ministre chargé de l'économie, pour les représentants des commerçants.
 
-Les membres de l'observatoire, autres que ceux représentant l'Etat, le
-gouverneur de la Banque de France et le secrétaire général de la Commission
-bancaire sont nommés pour trois ans. Leur mandat est renouvelable une fois.
+Les représentants des assemblées parlementaires siègent au sein de
+l'observatoire jusqu'à la fin de leur mandat de parlementaire ; leur mandat de
+membre de l'observatoire est renouvelable en cas de renouvellement de leur
+mandat de parlementaire. Les autres membres de l'observatoire, à l'exception de
+ceux représentant l'Etat, du gouverneur de la Banque de France et du secrétaire
+général de la Commission bancaire, sont nommés pour un mandat de trois ans
+renouvelable. En cas de vacance d'un siège de membre de l'observatoire, pour
+quelque cause que ce soit, il est procédé à son remplacement pour la durée du
+mandat restant à courir.
