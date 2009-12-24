@@ -21,7 +21,7 @@ avait rendu la décision attaquée. Il en est saisi dans les formes indiquées a
 chapitre II du présent titre ;
 
 3° A titre exceptionnel lorsqu'à la suite d'une enquête ouverte par le ministre
-des anciens combattants et victimes de guerre, il est démontré :
+chargé des anciens combattants et victimes de guerre, il est démontré :
 
 a) Que la pension, la majoration ou le complément de pension ont été accordés
 par suite d'erreur matérielle ou médicale, de fraude, de substitution, de
@@ -30,9 +30,9 @@ simulation, à raison d'affections dont l'intéressé n'est pas atteint ;
 b) Qu'un ancien militaire dont le prétendu décès a ouvert droit à pension de
 conjoint survivant, d'orphelin ou d'ascendant est reconnu vivant.
 
-Pour l'application du présent article (3°), le ministre des anciens combattants
-et victimes de guerre saisit le tribunal départemental des pensions, lequel
-statue dans les formes prévues au chapitre II du présent titre.
+Pour l'application du présent article (3°), le ministre chargé des anciens
+combattants et victimes de guerre saisit le tribunal départemental des pensions,
+lequel statue dans les formes prévues au chapitre II du présent titre.
 
 Le Trésor ne peut exiger la restitution des sommes payées indûment que si
 l'intéressé était de mauvaise foi.

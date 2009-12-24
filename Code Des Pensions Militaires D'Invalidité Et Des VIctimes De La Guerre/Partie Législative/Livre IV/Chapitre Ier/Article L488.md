@@ -1,7 +1,7 @@
 Article L488
 ----
-Doit, sur avis favorable de l'autorité visée ci-dessous, porter la mention "Mort
-pour la France" tout acte de décès :
+Doit, sur avis favorable de l'autorité visée ci-dessous, porter la mention "
+Mort pour la France " tout acte de décès :
 
 1° D'un militaire des armées de terre, de mer ou de l'air tué à l'ennemi ou mort
 de blessures de guerre ;
@@ -46,7 +46,7 @@ consécutifs à sa position hors la loi et pour le service du pays.
 
 L'autorité compétente pour donner l'avis favorable susvisé est, suivant le cas :
 
-Le ministre des anciens combattants et victimes de guerre ;
+Le ministre chargé des anciens combattants et victimes de guerre ;
 
 Le ministre chargé de la marine marchande ;
 

@@ -6,11 +6,10 @@ les majorations d'enfants sont inscrites d'office au nom du tuteur et sont
 payées sans qu'il soit nécessaire de provoquer ladite pension.
 
 Les dispositions qui précèdent s'appliquent également aux pupilles de la nation
-confiés à l'office départemental par application des articles L. 474 et L. 475,
-ainsi qu'à ceux pourvus d'un tuteur officieux aux termes de l'article L. 481.
-Dans les deux cas, les majorations d'enfants sont inscrites d'office, soit au
-nom de l'office départemental ou de son délégué, soit au nom du tuteur
-officieux.
+confiés à l'office national par application des articles L. 474 et L. 475, ainsi
+qu'à ceux pourvus d'un tuteur officieux aux termes de l'article L. 481. Dans les
+deux cas, les majorations d'enfants sont inscrites d'office, soit au nom de
+l'office national ou de son délégué, soit au nom du tuteur officieux.
 
 En cas de divorce ou de séparation de corps, les majorations sont de plein droit
 attribuées à celui des parents qui a obtenu la garde des enfants.

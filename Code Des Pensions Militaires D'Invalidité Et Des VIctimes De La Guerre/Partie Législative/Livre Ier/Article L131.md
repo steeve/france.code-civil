@@ -12,5 +12,5 @@ entreprise industrielle ou commerciale ;
 jusqu'à 10 % du chiffre d'affaires.
 
 Ces sanctions sont prononcées par le ministre chargé de la production
-industrielle sur demande motivée du ministre des anciens combattants et victimes
-de guerre.
+industrielle sur demande motivée du ministre chargé des anciens combattants et
+victimes de guerre.

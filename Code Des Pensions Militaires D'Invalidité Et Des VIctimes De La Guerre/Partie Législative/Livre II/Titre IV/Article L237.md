@@ -5,7 +5,7 @@ fait, en principe, sur pièces, en utilisant les certificats établis conformém
 à la législation allemande ou aux accords qui ont pu ou qui pourront intervenir
 à ce sujet avec l'Allemagne.
 
-Toutefois, le ministre des anciens combattants et victimes de guerre peut
+Toutefois, le ministre chargé des anciens combattants et victimes de guerre peut
 prescrire tout examen médical complémentaire qu'il juge utile pour la
 détermination des droits des pensionnés.
 

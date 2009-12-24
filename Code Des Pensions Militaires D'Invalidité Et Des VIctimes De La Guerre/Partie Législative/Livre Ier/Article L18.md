@@ -18,13 +18,3 @@ visée au précédent alinéa.
 En aucun cas, il ne saurait être fait état de cette majoration pour augmenter
 les frais actuels d'hospitalisation qui sont à la charge des bénéficiaires de la
 mesure prise en leur faveur.
-
-Le droit à cette hospitalisation ou à cette majoration de pension est constaté
-par le médecin-chef du centre de réforme et, le cas échéant, par la commission
-de réforme, au moment où il est statué sur le degré d'invalidité dont le mutilé
-est atteint.
-
-Il est révisable tous les trois ans, après examens médicaux, même lorsque la
-pension ne présente pas ou ne présente plus le caractère temporaire, si
-l'incapacité de se mouvoir, de se conduire ou d'accomplir les actes essentiels à
-la vie n'a pas été reconnue définitive.

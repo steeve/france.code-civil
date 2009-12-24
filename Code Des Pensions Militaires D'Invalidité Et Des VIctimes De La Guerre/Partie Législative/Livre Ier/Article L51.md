@@ -42,8 +42,8 @@ l'article L. 54.
 Les dispositions du présent article sont applicables jusqu'à leur majorité aux
 orphelins de guerre dont les deux parents sont décédés.
 
-Un décret contresigné par le ministre des anciens combattants et victimes de
-guerre et le ministre de l'économie et des finances déterminera, pour
+Un décret contresigné par le ministre chargé des anciens combattants et victimes
+de guerre et le ministre de l'économie et des finances déterminera, pour
 l'application de l'article L. 50 et du présent article, les indices
 correspondant aux taux de pensions allouées aux conjoints survivants non
 remariées, en fonction du grade détenu par leur conjoint décédé.

@@ -12,13 +12,13 @@ tribunal que si l'admission de la demande soulève des difficultés et que les
 magistrats jugent utiles des explications complémentaires.
 
 Le greffier du tribunal notifie, par lettre recommandée et sans frais, le
-jugement au représentant légal de l'enfant ainsi qu'à l'office départemental.
+jugement au représentant légal de l'enfant ainsi qu'à l'office national.
 
 Dans le mois qui suit cette notification, appel peut être interjeté par le
 ministère public ou par le représentant légal de l'enfant, ou par le président
-de la commission permanente de l'office départemental, par simple lettre
-recommandée, sans frais, adressée au greffier en chef de la cour. Le
-représentant légal de l'enfant est convoqué dans la forme indiquée ci-dessus.
+de la commission permanente de l'office national, par simple lettre recommandée,
+sans frais, adressée au greffier en chef de la cour. Le représentant légal de
+l'enfant est convoqué dans la forme indiquée ci-dessus.
 
 Il est statué par la cour comme il est dit à l'article L. 468.
 

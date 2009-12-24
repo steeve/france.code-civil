@@ -1,8 +1,8 @@
 Article L377
 ----
-Les dossiers régulièrement constitués sont transmis au ministre des anciens
-combattants et victimes de guerre où ils sont à nouveau examinés par un comité
-central interministériel composé de cinq membres :
+Les dossiers régulièrement constitués sont transmis au ministre chargé des
+anciens combattants et victimes de guerre où ils sont à nouveau examinés par un
+comité central interministériel composé de cinq membres :
 
 Le directeur des pensions et des services médicaux au ministère des anciens
 combattants et victimes de guerre, président ;

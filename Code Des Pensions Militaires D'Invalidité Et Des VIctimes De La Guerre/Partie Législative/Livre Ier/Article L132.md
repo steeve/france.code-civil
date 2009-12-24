@@ -16,8 +16,8 @@ conditions, passer un contrat d'apprentissage avec un patron particulier.
 L'Etat verse au militaire ou marin, infirme ou invalide et qui fait
 l'apprentissage d'un nouveau métier conformément aux dispositions ci-dessus, une
 allocation dont le taux et les règles d'attribution sont fixés par arrêté du
-ministre de l'économie et des finances et du ministre des anciens combattants et
-victimes de guerre, après avis de l'office national des anciens combattants et
-victimes de guerre.
+ministre de l'économie et des finances et du ministre chargé des anciens
+combattants et victimes de guerre, après avis de l'office national des anciens
+combattants et victimes de guerre.
 
 Ces dispositions font l'objet des articles A. 62 à A. 64 et A. 78, A. 82, A. 84.

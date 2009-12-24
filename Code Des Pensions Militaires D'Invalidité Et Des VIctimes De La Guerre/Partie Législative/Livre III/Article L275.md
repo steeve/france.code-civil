@@ -8,6 +8,6 @@ qui sont fixées aux articles R. 293 et R. 294, bénéficier du présent chapitr
 Les travailleurs en Allemagne qui, partis volontairement, auraient été
 transférés par l'ennemi dans un camp de concentration ou emprisonnés par lui
 pour acte qualifié de résistance à l'ennemi, et leurs ayants cause, peuvent
-introduire une requête exceptionnelle auprès du ministre des anciens combattants
-et victimes de guerre, qui statue, après avis d'une commission spéciale
-constituée dans les conditions prévues à l'article L. 285.
+introduire une requête exceptionnelle auprès du ministre chargé des anciens
+combattants et victimes de guerre, qui statue, après avis d'une commission
+spéciale constituée dans les conditions prévues à l'article L. 285.

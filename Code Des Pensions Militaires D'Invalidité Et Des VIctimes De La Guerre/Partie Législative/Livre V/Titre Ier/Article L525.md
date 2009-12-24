@@ -1,8 +1,7 @@
 Article L525
 ----
-Les avances de toutes catégories consenties par l'office national et les offices
-départementaux ou offices d'outre-mer à leurs ressortissants sont assimilées à
-des créances de l'Etat.
+Les avances de toutes catégories consenties par l'office national à ses
+ressortissants sont assimilées à des créances de l'Etat.
 
 Elles rendent les pensions concédées en application du présent code et la
 retraite du combattant allouée en vertu du chapitre II du titre Ier du livre III

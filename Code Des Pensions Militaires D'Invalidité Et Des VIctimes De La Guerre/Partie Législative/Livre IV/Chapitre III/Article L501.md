@@ -6,8 +6,9 @@ droit de réquisition résultant en temps de guerre de l'article 22 de la loi du
 
 L'expropriation est poursuivie conformément au décret du 8 août 1935. Toutefois,
 les formalités prescrites par les titres Ier et II dudit décret ne sont pas
-applicables. Un arrêté du ministre des anciens combattants et victimes de guerre
-déclare l'utilité publique et détermine les terrains soumis à l'expropriation.
+applicables. Un arrêté du ministre chargé des anciens combattants et victimes de
+guerre déclare l'utilité publique et détermine les terrains soumis à
+l'expropriation.
 
 En cas d'urgence, il peut être recouru aux dispositions du décret du 30 août
 1935, relatif à l'expropriation et à l'occupation temporaire des propriétés
