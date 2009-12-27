@@ -12,14 +12,11 @@ personnelle ou l'interdiction prévue à l'article L. 653-8.
 
 Par dérogation aux dispositions de l'article 524 du code de procédure civile, le
 premier président de la cour d'appel, statuant en référé, ne peut arrêter
-l'exécution provisoire que des jugements mentionnés au premier alinéa du I de
-l'article L. 661-1 et au deuxième alinéa de l'article L. 661-9, et lorsque les
-moyens invoqués à l'appui de l'appel paraissent sérieux. Dans les mêmes
-conditions, le premier président de la cour d'appel peut arrêter l'exécution
-provisoire des décisions qui ne sont pas exécutoires de plein droit ainsi que
-des jugements étendant la procédure de sauvegarde, de redressement judiciaire ou
-de liquidation judiciaire à une ou plusieurs autres personnes que le débiteur en
-application de l'article L. 621-2. Dès le prononcé de la décision du premier
+l'exécution provisoire que des décisions mentionnées aux 1°, 2°, 3°, 5°, 6° et
+8° du I de l'article L. 661-1, et lorsque les moyens invoqués à l'appui de
+l'appel paraissent sérieux. Dans les mêmes conditions, le premier président de
+la cour d'appel peut arrêter l'exécution provisoire des décisions qui ne sont
+pas exécutoires de plein droit. Dès le prononcé de la décision du premier
 président arrêtant l'exécution provisoire, le greffier de la cour d'appel en
 informe le greffier du tribunal.
 

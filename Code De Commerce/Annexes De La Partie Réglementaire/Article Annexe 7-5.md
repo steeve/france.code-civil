@@ -240,8 +240,7 @@ Convocation devant le président du tribunal (mandat ad hoc, conciliation : R.
 
 165
 
-Notifications en matière d'ordonnance d'admission de créances sans débat
-contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire
 
 1
 
@@ -1297,9 +1296,10 @@ dispositions de l'article R. 621-11 du code de commerce.
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de
 la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un
-délai de deux mois à compter de l'ouverture des procédures ci-dessus
-mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de
+transmission est versée dès l'ouverture ou le prononcé des procédures de
+liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de
+leur clôture.
 
 
 Tarification forfaitaire
