@@ -36,7 +36,11 @@ de la construction et de l'habitation ;
 11° Institutions et organismes régis par le livre IX du code de la sécurité
 sociale ;
 
-12° Administrateurs et mandataires judiciaires.
+12° Administrateurs et mandataires judiciaires ;
+
+13° Syndicats professionnels de salariés ou d'employeurs et leurs unions, et
+associations de salariés ou d'employeurs mentionnés à l'article L. 2135-1 du
+code du travail.
 
 Le montant des honoraires est alors fixé d'un commun accord entre le commissaire
 aux comptes et la personne ou l'entité, eu égard à l'importance effective du
