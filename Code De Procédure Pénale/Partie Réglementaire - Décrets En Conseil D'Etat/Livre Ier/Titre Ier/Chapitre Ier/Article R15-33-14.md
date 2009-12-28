@@ -15,7 +15,7 @@ notamment la copie des arrêtés d'habilitation ;
 3° La copie de tout document émanant d'un magistrat relatif à l'exercice des
 activités judiciaires de l'intéressé ;
 
-4° Les notations annuelles établies en application des dispositions ci-après.
+4° Les notations établies en application des dispositions ci-après.
 
 Le dossier est communiqué à la chambre de l'instruction lorsque celle-ci se
 trouve saisie dans les conditions fixées à l'article 225.

@@ -4,20 +4,28 @@ Les propositions de notation et les notations prévues à l'article R. 15-33-15
 sont établies sur un imprimé conforme au modèle fixé par le ministre de la
 justice.
 
-Elles doivent comporter une note chiffrée de 0 à 5 et une appréciation sur
-chacun des éléments suivants :
+Elles comportent une appréciation générale circonstanciée, ainsi qu'une note
+chiffrée de 0 à 10 et une appréciation sur chacun des éléments suivants
+lorsqu'ils ont été observés :
 
-1° Qualité de la procédure et rédaction des rapports et des procès-verbaux ;
+1° Relations professionnelles avec l'autorité judiciaire ;
 
-2° Valeur des informations données au parquet ;
+2° Qualité de la coordination de l'activité de police judiciaire du service ou
+de l'unité ;
 
-3° Habileté professionnelle ;
+3° Qualité des procédures et de la rédaction des rapports et des procès-verbaux
+;
 
-4° Degré de confiance accordé.
+4° Qualité des constatations et des investigations techniques ;
 
-Elles doivent également comporter une note globale chiffrée de 0 à 5 et une
-appréciation générale circonstanciée.
+5° Valeur des informations données au parquet ;
 
-Si l'activité de l'agent des douanes habilité est demeurée inconnue de
-l'autorité judiciaire, l'imprimé visé au premier alinéa porte pour seule mention
-les mots : activité judiciaire non observée.
+6° Engagement professionnel ;
+
+7° Capacité à conduire les investigations ;
+
+8° Degré de confiance accordé.
+
+Lorsque l'un de ces éléments n'a pas été observé, la mention : " activité
+judiciaire non observée " est substituée à la notation chiffrée et à
+l'appréciation correspondantes.
