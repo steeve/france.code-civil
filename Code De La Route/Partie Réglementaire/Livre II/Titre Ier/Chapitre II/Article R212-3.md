@@ -1,8 +1,8 @@
 Article R212-3
 ----
-Les titres ou diplômes prévus au I de l'article R. 212-2 sont :
+Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont :
 
-I. - Le brevet pour l'exercice de la profession d'enseignant de la conduite
+I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite
 automobile et de la sécurité routière (BEPECASER).
 
 Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes
@@ -13,16 +13,16 @@ de formation, les épreuves et leur organisation.
 
 Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
 
-- enseignement de la conduite des véhicules de la catégorie E (B) ;
+-enseignement de la conduite des véhicules de la catégorie E (B) ;
 
-- enseignement de la conduite des véhicules de la catégorie A ;
+-enseignement de la conduite des véhicules de la catégorie A ;
 
-- enseignement de la conduite des véhicules des catégories C, E (C), D, E (D).
+-enseignement de la conduite des véhicules des catégories C, E (C), D, E (D).
 
-II. - L'un des titres ou diplômes énumérés ci-après reconnus équivalents de
-plein droit au brevet pour l'exercice de la profession d'enseignant de la
-conduite automobile et de la sécurité routière (BEPECASER), pour enseigner la
-conduite des véhicules terrestres à moteur de la catégorie B :
+II.-L'un des titres ou diplômes énumérés ci-après reconnus équivalents de plein
+droit au brevet pour l'exercice de la profession d'enseignant de la conduite
+automobile et de la sécurité routière (BEPECASER), pour enseigner la conduite
+des véhicules terrestres à moteur de la catégorie B :
 
 1° Le certificat d'aptitude professionnelle à l'enseignement de la conduite des
 véhicules terrestres à moteur (CAPEC) ;
@@ -49,56 +49,15 @@ les titulaires d'un titre ou diplôme mentionné aux 2°, 3° et 4° ci-dessus, 
 n'est admise qu'à la condition qu'ils aient été en possession, le 1er janvier
 1982, des catégories de permis de conduire correspondantes.
 
-III. - Un titre détenu par un ressortissant d'un Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-qui désire exercer en France la profession d'enseignant de la conduite. Ce titre
-est admis par le préfet mentionné à l'article R. 212-1 en équivalence au diplôme
-du brevet pour l'exercice de la profession d'enseignant de la conduite
-automobile et de la sécurité routière (BEPECASER) dans les cas suivants :
+III.-Un titre acquis dans un autre Etat membre de la Communauté européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen et reconnu
+par le préfet comme équivalent au BEPECASER dans les conditions définies à
+l'article R. 212-3-1.
 
-1° Le candidat possède un titre acquis dans un Etat membre de l'Union européenne
-ou un autre Etat partie à l'accord sur l'Espace économique européen, permettant
-l'exercice de la profession précitée dans un de ces Etats à la condition que
-celui-ci la réglemente ;
-
-2° Le candidat possède un titre permettant l'exercice de la profession précitée
-acquis dans un pays tiers et admis en équivalence dans un Etat membre de l'Union
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen qui réglemente l'exercice de la profession précitée. Le candidat doit
-en outre justifier avoir exercé cette profession pendant deux ans au moins dans
-l'Etat qui a admis l'équivalence de son titre ;
-
-3° Le candidat possède un titre sanctionnant une formation préparant à
-l'exercice de la profession susvisée, délivré dans un Etat membre de l'Union
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen qui ne réglemente pas l'exercice de la profession. Le candidat doit en
-outre justifier avoir exercé cette profession pendant deux ans au moins dans cet
-Etat.
-
-Dans les trois cas précités, lorsque la formation de l'intéressé porte sur des
-matières substantiellement différentes de celles qui figurent au diplôme du
-brevet pour l'exercice de la profession d'enseignant de la conduite automobile
-et de la sécurité routière (BEPECASER), ou lorsque le titre dont justifie
-l'intéressé ne prépare pas à l'ensemble des activités auxquelles donne accès ce
-diplôme, le préfet mentionné à l'article R. 212-1 exige de l'intéressé qu'il
-choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un
-stage d'adaptation dont la durée ne peut excéder un an et qui fait l'objet d'une
-évaluation. Si les résultats de l'épreuve d'aptitude ou de l'évaluation du stage
-d'adaptation sont validés, le préfet admet le titre de l'intéressé en
-équivalence au diplôme du brevet pour l'exercice de la profession d'enseignant
-de la conduite automobile et de la sécurité routière.
-
-Un arrêté du ministre chargé des transports précise :
-
-- la composition du dossier de demande d'équivalence et les modalités de
-présentation de la demande ;
-
-- les conditions d'organisation de l'épreuve d'aptitude et du stage d'adaptation
-et les modalités de validation.
-
-IV. - Un diplôme d'enseignement de la conduite délivré par les Etats étrangers
-non membres de l'Union européenne reconnu équivalent au brevet pour l'exercice
-de la profession d'enseignant de la conduite automobile et de la sécurité
-routière (BEPECASER), par décision du ministre chargé des transports prise sur
-avis d'une commission interministérielle créée à cet effet par arrêté conjoint
-du ministre chargé des Transports et du ministre chargé des Affaires étrangères.
+IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni
+membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
+européen, reconnu équivalent au brevet pour l'exercice de la profession
+d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER),
+par décision du ministre chargé des transports prise sur avis d'une commission
+interministérielle créée à cet effet par arrêté conjoint du ministre chargé des
+Transports et du ministre chargé des Affaires étrangères.

@@ -1,19 +1,16 @@
 Article R212-2
 ----
-L'autorisation d'enseigner est délivrée aux personnes remplissant les conditions
-suivantes :
+I.-L'autorisation d'enseigner la conduite et la sécurité routière est délivrée
+aux personnes remplissant les conditions suivantes :
 
-I. - Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3.
+1° Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3 ;
 
-II. - Etre âgé d'au moins vingt ans.
+2° Etre âgé d'au moins vingt ans ;
 
-III. - Etre titulaire depuis deux ans au moins du permis de conduire de la
-catégorie B en cours de validité.
+3° Etre titulaire du permis de conduire de la catégorie B dont le délai
+probatoire fixé à l'article L. 223-1 est expiré ;
 
-IV. Etre titulaire d'un permis de conduire dont le délai probatoire défini à
-l'article L. 223-1 est expiré.
-
-V. - Remplir les conditions d'aptitude physique requises pour l'obtention du
+4° Remplir les conditions d'aptitude physique requises pour l'obtention du
 permis de conduire des catégories C, E (C), D, E (D), dont les modalités sont
 fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée
 par un certificat médical en cours de validité.
@@ -24,3 +21,23 @@ fixées à l'article R. 221-11.
 La validité de l'autorisation d'enseigner est réduite à l'enseignement théorique
 lorsque l'inaptitude médicale à l'enseignement pratique de la conduite ou à la
 conduite est constatée.
+
+II.-L'autorisation d'animer les stages de sensibilisation à la sécurité routière
+est délivrée aux personnes remplissant les conditions suivantes :
+
+-soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent
+article et d'un diplôme complémentaire dans le domaine de la formation à la
+sécurité routière figurant sur une liste fixée par arrêté du ministre chargé des
+transports ;
+
+-soit être titulaire d'un diplôme permettant de faire usage du titre de
+psychologue et du permis de conduire dont le délai probatoire fixé à l'article
+L. 223-1 est expiré ;
+
+-et, dans les deux cas, être âgé d'au moins vingt-cinq ans et être titulaire
+d'une attestation de suivi de formation initiale à l'animation de stages de
+sensibilisation à la sécurité routière délivrée dans les conditions fixées par
+arrêté du ministre chargé des transports.
+
+III.-Un arrêté du ministre chargé des transports définit les conditions
+d'application du présent article.
