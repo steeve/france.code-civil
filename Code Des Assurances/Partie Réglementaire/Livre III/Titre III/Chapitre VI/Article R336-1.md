@@ -59,7 +59,14 @@ commercialisation des produits de l'entreprise, et les risques qui pourraient en
 résulter ;
 
 g) Les procédures d'élaboration et de vérification de l'information financière
-et comptable.
+et comptable ;
+
+h) Les procédures et les mesures de contrôle interne des risques de blanchiment
+des capitaux et de financement du terrorisme, pour les entreprises mentionnées
+au 2° de l'article L. 561-2 du code monétaire et financier.
+
+Ces procédures et mesures sont mises en œuvre dans les conditions prévues par un
+arrêté du ministre chargé de l'économie.
 
 Les organismes chargés d'établir et de publier les comptes consolidés ou
 combinés d'un groupe d'assurance au sens du 6° de l'article L. 334-2 ou d'un

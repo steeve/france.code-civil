@@ -53,4 +53,12 @@ commercialisation des produits de la mutuelle ou de l'union, et les risques qui
 pourraient en résulter ;
 
 g) Les procédures d'élaboration et de vérification de l'information financière
-et comptable.
+et comptable ;
+
+h) Les procédures et mesures de contrôle interne des risques de blanchiment des
+capitaux et de financement du terrorisme, pour les mutuelles et unions
+mentionnées au 4° de l'article L. 561-2 du code monétaire et financier.
+
+Ces procédures et mesures sont mises en œuvre dans les conditions prévues par un
+arrêté du ministre chargé de la mutualité après avis du ministre chargé de
+l'économie.

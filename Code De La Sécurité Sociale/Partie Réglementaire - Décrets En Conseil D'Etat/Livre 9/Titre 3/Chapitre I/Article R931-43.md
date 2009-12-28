@@ -55,4 +55,14 @@ commercialisation des produits de l'institution ou de l'union, et les risques
 qui pourraient en résulter ;
 
 g) Les procédures d'élaboration et de vérification de l'information financière
-et comptable.
+et comptable ;
+
+h) Les procédures et mesures de contrôle interne des risques de blanchiment des
+capitaux et de financement du terrorisme, pour les institutions mentionnées au
+3° de l'article L. 561-2 du code monétaire et financier.
+
+Ces procédures et mesures sont mis en œuvre dans les conditions prévues par un
+arrêté du ministre chargé de la sécurité sociale ou, pour les institutions
+relevant du II de l'article L. 727-2 du code rural par un arrêté du ministre
+chargé de l'agriculture. Les arrêtés sont pris après avis du ministre chargé de
+l'économie.
