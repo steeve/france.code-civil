@@ -1,8 +1,8 @@
 Article R752-22
 ----
-Pour bénéficier de l'exonération prévue à l'article L. 752-3-1, l'employeur
-adresse à l'organisme chargé du recouvrement des cotisations une déclaration,
-datée et signée, pour l'entreprise ou, si elle comporte plusieurs
+Pour bénéficier des exonérations prévues aux articles L. 752-3-1 et L. 752-3-2,
+l'employeur adresse à l'organisme chargé du recouvrement des cotisations une
+déclaration, datée et signée, pour l'entreprise ou, si elle comporte plusieurs
 établissements, pour chacun de ceux-ci.
 
 Cette déclaration comporte les renseignements et est accompagnée des documents
