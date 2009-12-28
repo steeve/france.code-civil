@@ -1,9 +1,8 @@
 Article R331-25
 ----
-Le rapporteur peut demander au titulaire des droits sur la mesure technique ou,
-dans le cas prévu au deuxième alinéa de l'article R. 331-24, au demandeur, de
-lui communiquer, dans un délai de dix jours, les montants de chiffres d'affaires
-nécessaires au calcul du plafond d'une éventuelle sanction. Si la partie
-concernée s'abstient de lui communiquer ces informations ou s'il conteste
-l'exactitude de celles-ci, le rapporteur indique dans son rapport son évaluation
-des chiffres d'affaires en cause et les éléments sur lesquels il fonde celle-ci.
+L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être
+suspendues sur ordre écrit du président du collège si la créance est l'objet
+d'un litige. Le président du collège suspend également les poursuites si, en
+accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que
+l'octroi d'un délai par l'agent comptable est conforme à l'intérêt de la Haute
+Autorité.

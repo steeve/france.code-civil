@@ -1,15 +1,15 @@
 Article R331-27
 ----
-En cas d'échec de la conciliation, l'Autorité peut, par une décision motivée
-prise au terme de la procédure fixée par le I de l'article R. 331-21, soit
-rejeter la demande dont elle a été saisie, soit enjoindre à la personne mise en
-cause de prendre les mesures propres à assurer le bénéfice effectif de
-l'exception au droit d'auteur ou aux droits voisins. Elle détermine alors les
-modalités d'exercice de cette exception et fixe notamment, le cas échéant, le
-nombre minimal de copies autorisées dans le cadre de l'exception pour copie
-privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de
-communication au public et des possibilités offertes par les techniques de
-protection disponibles.
+Toutes les dépenses doivent être liquidées et ordonnancées au cours de
+l'exercice auquel elles se rattachent. Les dépenses de la Haute Autorité sont
+réglées par l'agent comptable sur l'ordre donné par le président du collège ou
+après avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés
+des pièces justificatives nécessaires, et notamment des factures, mémoires,
+marchés, baux ou conventions.L'acceptation de la dépense revêt la forme soit
+d'une mention datée et signée apposée sur le mémoire, la facture ou toute autre
+pièce en tenant lieu, soit d'un certificat séparé d'exécution de service, l'une
+ou l'autre précisant que le règlement peut être valablement opéré pour la somme
+indiquée.
 
-L'Autorité peut assortir cette injonction d'une astreinte selon les modalités
-prévues au II de l'article R. 331-22.
+L'agent comptable peut payer sans ordonnancement préalable certaines catégories
+de dépenses dans les conditions prévues par le règlement comptable et financier.

@@ -1,21 +1,15 @@
 Article R331-10
 ----
-Le président de l'Autorité est rémunéré sous la forme d'indemnités forfaitaires
-mensuelles.
+Dans le cadre des règles générales fixées par le collège de la Haute Autorité,
+le président a qualité pour :
 
-Les membres de l'Autorité sont rémunérés sous la forme d'une indemnité
-forfaitaire par séance.
+1° Liquider et ordonnancer les recettes et les dépenses ;
 
-Les rapporteurs et les personnes apportant leur concours à l'Autorité sont
-rémunérés sous la forme de vacations, dont le nombre est fixé par le président
-de l'Autorité, pour chaque dossier, en fonction du temps nécessaire à son
-instruction.
+2° Passer au nom de celles-ci tous contrats et marchés ;
 
-Le montant et les modalités d'attribution de ces indemnités ainsi que le montant
-unitaire des vacations sont fixés par arrêté conjoint des ministres chargés de
-la culture, du budget et de la fonction publique.
+3° Recruter le personnel et fixer ses rémunérations et indemnités ;
 
-Les membres, les rapporteurs et les personnes apportant leur concours à
-l'Autorité peuvent prétendre au remboursement des frais de déplacement et de
-séjour que nécessite l'accomplissement de leurs missions, dans les conditions
-applicables aux personnels civils de l'Etat.
+4° Tenir la comptabilité des engagements.
+
+La compétence mentionnée au 3° s'exerce après avis de la commission de
+protection des droits pour les agents dont dispose cette commission.

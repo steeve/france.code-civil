@@ -1,4 +1,4 @@
-Article D331-9-1
+Article D331-34
 ----
 La déclaration d'intérêts mentionnée à l'article L. 331-18 est établie
 conformément au modèle figurant en annexe au présent article.

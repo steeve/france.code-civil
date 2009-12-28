@@ -1,13 +1,16 @@
 Article R331-20
 ----
-Lorsque le rapporteur constate que les engagements proposés par chacune des
-parties recueillent l'accord de l'ensemble de celles-ci et qu'ils sont de nature
-à mettre un terme aux pratiques contraires à l'interopérabilité au sens des
-dispositions de l'article L. 331-7, il établit un projet de procès-verbal signé
-par les parties en cause, constatant ces engagements et fixant un délai pour
-leur exécution. Ce procès-verbal devient définitif après accord de l'Autorité,
-qui peut entendre les parties ou toute autre personne avant de statuer si elle
-le juge utile.
+L'exercice budgétaire et comptable débute le 1er janvier et s'achève le 31
+décembre.
 
-Les engagements mentionnés à l'alinéa précédent peuvent être modifiés avec
-l'accord de l'Autorité selon la procédure prévue à cet alinéa.
+Le budget comporte la prévision des recettes attendues et des dépenses
+nécessitées par l'exercice des missions confiées à la Haute Autorité. Il peut
+être modifié en cours d'année. Les crédits inscrits au budget sont limitatifs et
+appréciés au regard des dépenses de fonctionnement hors dépenses de personnel,
+des dépenses d'investissement et des dépenses de personnel. En cas de
+dégradation prévisible du résultat, le collège délibère dans les meilleurs
+délais sur une décision modificative du budget permettant le retour à
+l'équilibre.
+
+Les délibérations du collège relatives au budget et à ses modifications sont
+adressées aux ministres chargés de la culture et du budget.

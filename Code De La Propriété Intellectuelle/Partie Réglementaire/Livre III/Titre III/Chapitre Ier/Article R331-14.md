@@ -1,30 +1,16 @@
 Article R331-14
 ----
-L'agrément mentionné au 2° de l'article R. 331-13 est accordé pour une durée de
-cinq années aux associations qui remplissent les conditions suivantes à la date
-de la demande d'agrément :
+Sous l'autorité du président, le secrétaire général est chargé du fonctionnement
+et de la coordination des services.A ce titre, et dans le cadre des règles
+générales fixées par le collège, le secrétaire général a qualité pour gérer le
+personnel. Dans les matières relevant de sa compétence, le secrétaire général
+peut déléguer sa signature dans les limites qu'il détermine et désigner les
+agents habilités à le représenter.
 
-a) Justifier d'au moins trois années d'existence à compter de leur déclaration ;
+Le secrétaire général peut, par délégation du président, tenir la comptabilité
+des engagements de dépenses dans les conditions définies par le règlement
+comptable et financier.
 
-b) Justifier, pendant la période mentionnée à l'alinéa précédent, d'une activité
-effective et publique en vue de la défense des intérêts des bénéficiaires d'au
-moins l'une des exceptions mentionnées à l'article L. 331-8 ; cette activité est
-appréciée notamment en fonction de la réalisation et de la diffusion de
-publications et d'informations ;
-
-c) Réunir au moins cinquante membres cotisant individuellement, cette condition
-pouvant ne pas être exigée des associations se livrant à des activités de
-recherche et d'analyse de caractère scientifique ; lorsque l'association a une
-structure fédérale ou confédérale, il est tenu compte du nombre total de
-cotisants des associations la constituant.
-
-L'agrément est renouvelable dans les conditions de délivrance de l'agrément
-initial.
-
-Les demandes d'agrément et de renouvellement sont adressées au ministre chargé
-de la culture. La composition du dossier et les modalités d'instruction sont
-fixées par arrêté de ce ministre. Lorsque le dossier remis à l'administration
-est complet, il en est délivré récépissé dans les conditions prévues par le
-décret n° 2001-492 du 6 juin 2001. La décision d'agrément ou de refus est
-notifiée dans un délai de deux mois à compter de la délivrance du récépissé. Les
-décisions de refus doivent être motivées.
+Le secrétaire général désigne les experts mentionnés à l'article L. 331-19 après
+avoir recueilli l'avis de la commission de protection des droits lorsque ceux-ci
+lui apportent leur concours.

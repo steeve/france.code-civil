@@ -1,38 +1,25 @@
 Article R331-22
 ----
-I. - Au terme de la procédure prévue à l'article R. 331-21, l'Autorité peut, par
-une décision motivée, soit rejeter la demande dont elle a été saisie, soit
-enjoindre au titulaire des droits sur la mesure technique de prendre les mesures
-propres à assurer l'accès du demandeur aux informations essentielles à
-l'interopérabilité.
+Les comptes de la Haute Autorité sont établis selon les règles du plan comptable
+général. Celui-ci peut faire l'objet d'adaptations proposées par le président du
+collège après avis du collège et approuvées par le ministre chargé du budget.
 
-Lorsqu'elle prononce une injonction, l'Autorité définit les conditions d'accès à
-ces informations, notamment :
+Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des
+inventaires sont fixés par le règlement comptable et financier.
 
-1° La durée de cet accès et son champ d'application ;
+L'agent comptable établit un compte financier au terme de chaque exercice. Le
+compte financier comprend le compte de résultat, le bilan, l'annexe, la balance
+générale des comptes à la clôture de l'exercice, le tableau de rapprochement des
+prévisions et des réalisations effectives et, le cas échéant, la balance des
+comptes spéciaux.
 
-2° L'indemnité que le demandeur doit verser au titulaire des droits sur la
-mesure technique, lorsque celui-ci présente une demande justifiée à cette fin.
-L'injonction prend effet au plus tôt à la date de versement de l'indemnité à
-celui-ci ou à la date de consignation de cette somme selon des modalités fixées
-par l'Autorité. Le montant de cette indemnité tient compte notamment de la
-valeur économique des informations communiquées au demandeur.
+Le compte financier de la Haute Autorité est préparé par l'agent comptable et
+soumis par le président du collège au collège qui entend l'agent comptable. Le
+compte financier est arrêté par le collège. Il est transmis à la Cour des
+comptes par le président du collège de la Haute Autorité, accompagné des
+délibérations du collège relatives au budget, à ses modifications et au compte
+financier, et de tous les autres documents demandés par les ministres ou par la
+cour, dans les quatre mois qui suivent la clôture de l'exercice.
 
-L'Autorité précise en outre les engagements que le demandeur doit respecter pour
-garantir, d'une part, l'efficacité et l'intégrité de la mesure technique, et,
-d'autre part, les conditions d'utilisation du contenu protégé et les modalités
-d'accès à celui-ci. Ces engagements peuvent comporter l'obligation de faire
-vérifier par un expert désigné par l'Autorité que l'efficacité et l'intégrité de
-la mesure technique sont respectées. Ces engagements portent également sur les
-conditions de publication du code source et de la documentation technique en
-application des dispositions du troisième alinéa de l'article L. 331-7, lorsque
-le demandeur déclare à l'Autorité vouloir publier ces éléments.
-
-II. - L'Autorité peut assortir cette injonction d'une astreinte dont elle fixe
-le montant et la date d'effet. Lorsque l'Autorité constate, à compter de cette
-date, d'office ou sur la saisine de toute partie intéressée, que les mesures
-qu'elle avait prescrites n'ont pas été prises, elle procède à la liquidation de
-l'astreinte. Celle-ci est provisoire ou définitive. Elle doit être considérée
-comme provisoire, à moins que l'Autorité n'ait précisé son caractère définitif.
-L'Autorité peut modérer ou supprimer l'astreinte provisoire, même en cas
-d'inexécution constatée.
+Le rapport mentionné à l'article L. 331-14 fait une présentation du compte
+financier et reproduit le compte de résultat et le bilan.
