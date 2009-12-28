@@ -47,7 +47,7 @@ prestations familiales en informe l'allocataire. Le recouvrement est poursuivi
 sur ces bases, à défaut de réception de la justification du montant des charges
 de logement telles que définies à l'alinéa précédent.
 
-II.-Le revenu mensuel (R) pris en considération pour le calcul des retenues
+II. - Le revenu mensuel (R) pris en considération pour le calcul des retenues
 mensuelles à effectuer correspond au montant des revenus mentionnés au a du I,
 majoré des prestations mentionnées au b, diminué des charges de logement
 mentionnées au c du même I.
@@ -68,8 +68,8 @@ dans laquelle N représente la composition de la famille appréciée comme suit 
 
 -par enfant à charge : 0, 5 part.
 
-III.-Le montant mensuel du prélèvement effectué sur les prestations à échoir est
-calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
+III. - Le montant mensuel du prélèvement effectué sur les prestations à échoir
+est calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
 suivantes :
 
 25 % sur la tranche de revenus comprise entre 231 euros et 345 euros ;
@@ -93,6 +93,6 @@ de la déclaration du montant de ces revenus.
 Les tranches de revenus sur lesquelles sont effectuées les retenues et la
 retenue forfaitaire ainsi que le revenu estimé mentionné à l'article précédent
 sont revalorisés au 1er janvier de chaque année conformément à l'évolution en
-moyenne annuelle des prix à la consommation hors tabac de l'année civile
-précédente, par arrêté conjoint des ministres chargés de la sécurité sociale, du
+moyenne annuelle des prix à la consommation hors tabac de l'année civile de
+référence, par arrêté conjoint des ministres chargés de la sécurité sociale, du
 budget et de l'agriculture.
