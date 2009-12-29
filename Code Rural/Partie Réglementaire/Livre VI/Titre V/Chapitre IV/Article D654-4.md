@@ -28,7 +28,7 @@ détermine notamment le périmètre de vente correspondant et les conditions dan
 lesquelles le préfet peut l'étendre.
 
 Toutefois, les exploitants d'établissements d'abattage non agréés peuvent
-participer à des manifestations annuelles ou bisannuelles sur l'ensemble du
+participer à des manifestations au plus deux fois par an sur l'ensemble du
 territoire national pour autant que les ventes ne portent que sur des produits
 stabilisés et que l'exploitant en assure lui-même la vente sur le lieu de la
 manifestation.
