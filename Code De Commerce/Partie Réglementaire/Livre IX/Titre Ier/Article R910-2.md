@@ -25,4 +25,4 @@ actes administratifs de la collectivité territoriale " ;
 8° " Préfet du département " par " préfet de la collectivité " ;
 
 9° " Chambre de commerce et d'industrie " par " chambre d'agriculture, de
-commerce, d'industrie et des métiers ".
+commerce, d'industrie, de métiers et de l'artisanat ".

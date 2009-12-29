@@ -13,6 +13,5 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les dispositions suivantes :
 
 5° Les articles R. 670-1 à R. 670-7 ;
 
-6° La dernière phrase de l'article R. 712-21, le cinquième alinéa de l'article
-R. 712-22, les articles R. 712-32, les articles R. 713-31 à R. 713-63, les
-articles R. 721-2 à R. 721-4 et R. 721-7 à R. 761-26.
+6° Les articles R. 711-6, R. 711-18 à R. 711-53, R. 712-21 à R. 712-24, R.
+713-31 à R. 713-63, D. 721-2 à R. 721-4 et R. 721-7 à R. 761-26.
