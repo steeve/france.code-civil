@@ -59,6 +59,9 @@ additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 
 distribution de chaleur ou d'eau chaude sanitaire avec une résistance thermique
 supérieure ou égale à 1 m2.K / W ;
 
+5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud
+inférieur ou égal à 1,8 W/m².K ;
+
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage
 manuel ou automatique et la programmation des équipements de chauffage ou de
 production d'eau chaude sanitaire :
@@ -102,7 +105,7 @@ hydraulique ou de biomasse ;
 
 5° Equipements de chauffage ou de production d'eau chaude indépendants
 fonctionnant au bois ou autres biomasses, pour lesquels la concentration moyenne
-de monoxyde de carbone doit être inférieure ou égale à 0, 6 %, et dont le
+de monoxyde de carbone doit être inférieure ou égale à 0,3 %, et dont le
 rendement énergétique est supérieur ou égal à 70 % selon les référentiels des
 normes en vigueur, tels que :
 
@@ -116,35 +119,41 @@ ou NF D 35376) ;
 
 6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au
 bois ou autres biomasses, de rendement énergétique, selon les référentiels des
-normes en vigueur, supérieur ou égal à 70 % pour les équipements à chargement
-manuel (norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 75 % pour les
+normes en vigueur, supérieur ou égal à 80 % pour les équipements à chargement
+manuel (norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 85 % pour les
 équipements à chargement automatique (norme NF EN 303. 5 ou EN 12809), dont la
 puissance est inférieure à 300 kW ;
 
-b) De pompes à chaleur spécifiques telles que :
+b) De pompes à chaleur spécifiques, sous réserve qu'elles respectent une
+intensité maximale au démarrage de 45 A en monophasé ou de 60 A en triphasé,
+telles que :
 
 1° Les pompes à chaleur géothermiques à capteur fluide frigorigène de type
-sol-sol ou sol-eau ayant un coefficient de performance supérieur ou égal à 3, 3
-pour une température d'évaporation de-5° C et une température de condensation de
-35° C ;
+sol-sol ou sol-eau ayant un coefficient de performance supérieur ou égal à 3,4
+pour une température d'évaporation de -5° C et une température de condensation
+de 35° C ;
 
 2° Les pompes à chaleur géothermiques de type eau glycolée / eau ayant un
-coefficient de performance supérieur ou égal à 3, 3 pour des températures
-d'entrée et de sortie d'eau glycolée de 0° C et-3° C à l'évaporateur, et des
+coefficient de performance supérieur ou égal à 3,4 pour des températures
+d'entrée et de sortie d'eau glycolée de 0° C et -3° C à l'évaporateur, et des
 températures d'entrée et de sortie d'eau de 30° C et 35° C au condenseur, selon
 le référentiel de la norme d'essai 14511-2 ;
 
 3° Les pompes à chaleur géothermiques de type eau / eau ayant un coefficient de
-performance supérieur ou égal à 3, 3 pour des températures d'entrée et de sortie
+performance supérieur ou égal à 3,4 pour des températures d'entrée et de sortie
 de 10° C et 7° C d'eau à l'évaporateur, et de 30° C et 35° C au condenseur,
 selon le référentiel de la norme d'essai 14511-2 ;
 
 4° Les pompes à chaleur air / eau ayant un coefficient de performance supérieur
-ou égal à 3, 3 pour une température d'entrée d'air de 7° C à l'évaporateur, et
+ou égal à 3,4 pour une température d'entrée d'air de 7° C à l'évaporateur, et
 des températures d'entrée et de sortie d'eau de 30° C et 35° C au condenseur,
 selon le référentiel de la norme d'essai 14511-2 ;
 
-5° (Paragraphe abrogé)
+5° (Paragraphe abrogé) ;
+
+6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire ayant un
+coefficient de performance supérieur à 2,2 selon le référentiel de la norme
+d'essai EN 255-3 ;
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement
 par des énergies renouvelables ou par une installation de cogénération, qui
