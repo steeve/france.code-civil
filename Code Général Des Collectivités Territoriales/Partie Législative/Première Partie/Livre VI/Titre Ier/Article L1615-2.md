@@ -66,6 +66,15 @@ engagements financiers des parties.
 
 Les collectivités territoriales et leurs groupements bénéficient également des
 attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
+titre des dépenses d'investissement réalisées sur le domaine public fluvial de
+l'Etat, dans le cadre de l'expérimentation prévue à l'article L. 3113-2 du code
+général de la propriété des personnes publiques. Seules ouvrent droit aux
+attributions du fonds les dépenses d'investissement réalisées par les
+collectivités territoriales ou leurs groupements ayant conclu une convention
+avec l'Etat.
+
+Les collectivités territoriales et leurs groupements bénéficient également des
+attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
 titre des dépenses d'investissement réalisées à compter du 1er janvier 2005 sur
 des immeubles du domaine relevant du Conservatoire de l'espace littoral et des
 rivages lacustres. Seules ouvrent droit aux attributions du fonds les dépenses

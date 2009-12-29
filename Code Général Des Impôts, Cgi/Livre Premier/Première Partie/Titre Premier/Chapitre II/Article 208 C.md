@@ -1,26 +1,30 @@
 Article 208 C
 ----
 I.-Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
-par actions cotées sur un marché réglementé français, dont le capital social
-n'est pas inférieur à 15 millions d'euros, qui ont pour objet principal
-l'acquisition ou la construction d'immeubles en vue de la location, ou la
-détention directe ou indirecte de participations dans des personnes visées à
+par actions cotées sur un marché réglementé respectant les prescriptions de la
+directive 2004 / 39 / CE du Parlement européen et du Conseil du 21 avril 2004
+concernant les marchés d'instruments financiers, modifiant les directives 85 /
+611 / CEE et 93 / 6 / CEE du Conseil et la directive 2000 / 12 / CE du Parlement
+européen et du Conseil et abrogeant la directive 93 / 22 / CEE du Conseil, dont
+le capital social n'est pas inférieur à 15 millions d'euros, qui ont pour objet
+principal l'acquisition ou la construction d'immeubles en vue de la location, ou
+la détention directe ou indirecte de participations dans des personnes visées à
 l'article 8 et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique.
 
 Le capital ou les droits de vote des sociétés visées au premier alinéa ne
 doivent pas être détenus, directement ou indirectement, à hauteur de 60 % ou
 plus par une ou plusieurs personnes agissant de concert au sens de l'article L.
-233-10 du code de commerce. Cette condition s'apprécie de manière continue au
+233-10 du code de commerce . Cette condition s'apprécie de manière continue au
 cours de chaque exercice d'application du présent régime. Elle ne s'applique pas
 lorsque la personne ou les personnes agissant de concert mentionnées à la
 première phrase sont des sociétés visées au premier alinéa.
 
 Si, au cours d'un exercice, à la suite d'une offre publique d'achat ou d'échange
-au sens de l'article L. 433-1 du code monétaire et financier, d'une opération de
-restructuration visée à l'article 210-0 A, d'une opération de conversion ou de
-remboursement d'obligations en actions, le capital ou les droits de vote d'une
-société visée au premier alinéa viennent à être détenus à 60 % ou plus dans les
-conditions mentionnées à la première phrase de l'alinéa précédent, les
+au sens de l'article L. 433-1 du code monétaire et financier , d'une opération
+de restructuration visée à l'article 210-0 A, d'une opération de conversion ou
+de remboursement d'obligations en actions, le capital ou les droits de vote
+d'une société visée au premier alinéa viennent à être détenus à 60 % ou plus
+dans les conditions mentionnées à la première phrase de l'alinéa précédent, les
 conditions de détention sont réputées avoir été respectées si ce taux de
 détention est ramené au-dessous de 60 % à l'expiration du délai prévu au
 deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
@@ -98,7 +102,9 @@ emphytéotique.
 II bis.-Les plus-values de cession d'immeubles, de droits réels et de droits
 afférents à un contrat de crédit-bail portant sur un immeuble, mentionnés au II,
 entre une société d'investissements immobiliers cotée et ses filiales visées au
-II ou entre ces filiales ne sont pas soumises à l'impôt sur les sociétés.
+II ou au III bis ou entre sociétés placées sous le régime d'imposition prévu au
+II ne sont pas soumises à l'impôt sur les sociétés, lorsqu'il existe des liens
+de dépendance entre ces sociétés au sens du 12 de l'article 39.
 
 L'application de ces dispositions est subordonnée à la condition que la société
 cessionnaire s'engage dans l'acte de cession à respecter, au titre des
@@ -152,9 +158,12 @@ de l'article L. 214-92 du code monétaire et financier et qui ont un objet
 identique à celui des sociétés d'investissements immobiliers cotées visées au I
 peuvent opter dans les conditions du III pour le régime d'imposition prévu au II
 lorsqu'elles sont détenues à 95 % au moins, directement ou indirectement et de
-manière continue au cours de l'exercice, par une société de placement à
-prépondérance immobilière à capital variable mentionnée au 3° nonies de
-l'article 208.
+manière continue au cours de l'exercice, individuellement ou conjointement par
+une ou plusieurs sociétés de placement à prépondérance immobilière à capital
+variable mentionnées au 3° nonies de l'article 208 ou par une ou plusieurs
+sociétés de placement à prépondérance immobilière à capital variable mentionnées
+au 3° nonies de l'article 208 et une ou plusieurs sociétés d'investissements
+immobiliers cotées visées au I du présent article .
 
 IV.-En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées

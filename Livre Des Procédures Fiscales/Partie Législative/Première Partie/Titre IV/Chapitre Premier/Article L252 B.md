@@ -5,7 +5,10 @@ comptable peut procéder, par dérogation au chapitre IV de la loi n° 91-650 du
 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies
 conservatoires à hauteur d'un montant qui ne peut excéder :
 
-1° Pour l'impôt sur le revenu, le produit résultant de l'application,
+1° Pour l'impôt sur le revenu, le produit résultant de l'application, ou, pour
+les personnes mentionnées à l'article 1649 quater-0 B bis du code général des
+impôts, au montant des revenus déterminés dans les conditions prévues à cet
+article,
 
 au montant du chiffre d'affaires hors taxes réalisé au titre de l'année ou de
 l'exercice en cours pour lequel aucune obligation déclarative n'est échue,

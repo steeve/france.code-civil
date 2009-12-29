@@ -1,9 +1,10 @@
 Article L97
 ----
 Doivent adresser chaque année à l'administration des impôts un relevé
-récapitulatif par médecin, chirurgien-dentiste, sage-femme, auxiliaire médical
-et laboratoire d'analyses médicales des feuilles de maladie et notes de frais
-remises par les assurés :
+récapitulatif par médecin, chirurgien-dentiste, sage-femme, auxiliaire médical,
+pharmacie d'officine, laboratoire d'analyses médicales, fournisseur de
+dispositifs et équipements médicaux et entreprise effectuant des transports
+sanitaires des feuilles de maladie et notes de frais remises par les assurés :
 
 1° les caisses de sécurité sociale chargées de la gestion des risques maladie et
 maternité ;

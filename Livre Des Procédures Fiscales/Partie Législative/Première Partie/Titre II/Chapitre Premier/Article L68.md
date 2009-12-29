@@ -13,7 +13,8 @@ Toutefois, il n'y a pas lieu de procéder à cette mise en demeure :
 déclaration de ses résultats ou de ses revenus non commerciaux ;
 
 3° Si le contribuable ne s'est pas fait connaître d'un centre de formalités des
-entreprises ou du greffe du tribunal de commerce ;
+entreprises ou du greffe du tribunal de commerce ou s'il s'est livré à une
+activité illicite (1) ;
 
 4° Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ;
 

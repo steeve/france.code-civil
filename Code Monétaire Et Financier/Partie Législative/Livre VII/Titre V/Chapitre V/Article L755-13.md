@@ -54,7 +54,15 @@ du 6° du I du présent article. Lorsque le service mentionné à l'article L.
 561-23 a reçu des informations sur des faits de soustraction frauduleuse ou de
 tentative de soustraction frauduleuse à l'établissement ou au paiement partiel
 ou total des impôts prévus par la réglementation fiscale établie localement, il
-peut les transmettre à l'administration fiscale de la Polynésie française ;
+peut les transmettre à l'administration fiscale de la Polynésie française. Il
+peut également transmettre à l'administration fiscale de la collectivité des
+informations sur des faits de blanchiment de fraude fiscale à la réglementation
+locale. Dans ce dernier cas, l'administration fiscale de la collectivité les
+transmet au procureur de la République sur avis conforme de la commission des
+infractions fiscales mentionnée à l'article 1741 A du code général des impôts.
+Celle-ci se prononce sur le caractère raisonnablement suffisant des soupçons de
+fraude fiscale déclarés au service mentionné à l'article L. 561-23 du présent
+code ;
 
 9° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L.
 310-12 du code des assurances " sont remplacés par les mots : " en vertu des

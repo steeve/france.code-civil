@@ -9,8 +9,7 @@ A ;
 b. Relevé détaillé de certaines catégories de dépenses prévu à l'article 54
 quater ;
 
-c. Etat des abandons de créances et subventions prévu au sixième alinéa de
-l'article 223 B ;
+c) Etat prévu au premier alinéa de l'article 223 Q (1);
 
 d. Registre mentionné au II de l'article 54 septies ;
 

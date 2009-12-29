@@ -91,17 +91,15 @@ n'existait pas en 2009 ou avait en 2009 un périmètre différent de celui de
 l'année 2010 :
 
 - le produit de la taxe professionnelle de l'année 2009 s'entend de la somme des
-produits de l'année 2009 des communes qui sont membres dudit établissement en
-2010 et des produits de l'année 2009, afférents au territoire de ces communes,
-des établissements publics de coopération intercommunale à fiscalité propre dont
-elles étaient membres en 2009 ;
+produits communaux et intercommunaux de l'année 2009 afférents à son périmètre
+de l'année 2010 ;
 
 - le taux de l'année 2009 s'entend de la moyenne des taux communaux applicables
 en 2009 sur chaque partie de son territoire, pondérés par l'importance des bases
 imposées à leur profit au titre de 2009. Pour le calcul de cette moyenne, les
 taux communaux applicables en 2009 s'entendent, pour chaque partie de
-territoire, de la somme des taux de taxe professionnelle de la commune et de
-l'établissement public de coopération intercommunale à fiscalité propre ;
+territoire, de la somme du taux communal et du taux intercommunal de taxe
+professionnelle ;
 
 b) Lorsqu'une commune était membre en 2009 d'un établissement public de
 coopération intercommunale faisant application de l'article 1609 nonies C et
@@ -117,8 +115,8 @@ l'année 2010, le taux de l'année 2008 s'entend de la moyenne des taux communau
 applicables en 2008 sur chaque partie de son territoire, pondérés par
 l'importance des bases imposées à leur profit au titre de 2008. Pour le calcul
 de cette moyenne, les taux communaux applicables en 2008 s'entendent pour chaque
-partie de territoire de la somme des taux de taxe professionnelle de la commune
-et de l'établissement public de coopération intercommunale à fiscalité propre ;
+partie de territoire de la somme du taux communal et du taux intercommunal de
+taxe professionnelle ;
 
 d) Lorsqu'une commune était membre en 2008 d'un établissement public de
 coopération intercommunale faisant application de l'article 1609 nonies C et
@@ -151,15 +149,13 @@ de taxe professionnelle de l'année 2008 s'entend du rapport entre les produits
 intercommunaux de taxe professionnelle de l'année 2008 et les bases
 correspondantes.
 
-III. - Les services fiscaux opèrent sur les bases de taxe professionnelle de
-2010 les contrôles qu'ils auraient opérés si la taxe professionnelle avait été
-acquittée en 2010. La compensation relais versée en 2010 aux collectivités
-territoriales en application du II fait l'objet d'une actualisation
-correspondant à ces contrôles, pendant le délai de reprise mentionné à l'article
-L. 174 du livre des procédures fiscales.
+III. - La compensation relais versée en 2010 en application du II fait l'objet
+d'une actualisation correspondant aux redressements opérés par les services
+fiscaux au titre de la taxe professionnelle de 2010, pendant le délai de reprise
+visé à l'article L. 174 du livre des procédures fiscales.
 
-IV. - Pour l'application des 1 et 2 du II, les bases de taxe professionnelle des
-communes et établissements publics de coopération intercommunale s'entendent
-comme incluant les bases antérieurement écrêtées en application des articles
-1648 A et 1648 AA du code général des impôts dans leur rédaction en vigueur au
-31 décembre 2009.
+IV. - Pour l'application des 1 et 2 du II du présent article, les bases de taxe
+professionnelle des communes et établissements publics de coopération
+intercommunale s'entendent comme incluant les bases antérieurement écrêtées en
+application des articles 1648 A et 1648 AA du code général des impôts dans leur
+rédaction en vigueur au 31 décembre 2009.

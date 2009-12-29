@@ -321,8 +321,9 @@ Tonne
 
 20, 01 (20,59 en 2009)
 
-Substances émises dans l'atmosphère : -oxydes de soufre et autres composés
-soufrés
+Substances émises dans l'atmosphère :
+
+-oxydes de soufre et autres composés soufrés
 
 
 Tonne
@@ -374,8 +375,9 @@ Tonne
 44, 02 (45,30 en 2009)
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et
-produits adoucissants ou assouplissants pour le linge : -dont la teneur en
-phosphate est inférieure à 5 % du poids
+produits adoucissants ou assouplissants pour le linge :
+
+-dont la teneur en phosphate est inférieure à 5 % du poids
 
 
 Tonne
@@ -403,7 +405,9 @@ Tonne
 
 0, 20
 
-Installations classées : Délivrance d'autorisation :
+Installations classées :
+
+Délivrance d'autorisation :
 
 -artisan n'employant pas plus de deux salariés
 
@@ -417,12 +421,13 @@ Installations classées : Délivrance d'autorisation :
 
 2 525, 35 (2 598,59 en 2009)
 
-Exploitation au cours d'une année civile (tarifs de base) : -installation ayant
-fait l'objet d'un enregistrement dans le cadre du système communautaire de
-management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761
-/ 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
-management environnemental a été certifié conforme à la norme ISO 14001 par un
-organisme accrédité
+Exploitation au cours d'une année civile (tarifs de base) :
+
+-installation ayant fait l'objet d'un enregistrement dans le cadre du système
+communautaire de management environnemental et d'audit (EMAS) défini par le
+règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001
+ou dont le système de management environnemental a été certifié conforme à la
+norme ISO 14001 par un organisme accrédité
 
 339, 37 (349,21 en 2009)
 
@@ -430,12 +435,26 @@ organisme accrédité
 
 380, 44 (391,47 en 2009)
 
-Imprimés papiers émis à destination des utilisateurs finaux.
+
+Imprimés papiers émis à destination des utilisateurs finaux
+
+Kilogramme
+
+0,12
+
+Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à
+être imprimés par ou pour le compte d'utilisateurs finaux
 
 
-Kg
+Kilogramme
 
-0, 91
+2010
+
+0,06
+
+2011
+
+0,12
 
 1 bis.A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés,
 chaque année, dans la même proportion que la limite supérieure de la première
@@ -454,8 +473,8 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par
 installation.
 
-3. Le montant minimal annuel de la taxe due par les personnes mentionnées au 9
-du I de l'article 266 sexies est de 450 € par redevable.
+3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9
+du I de l'article 266 sexies est de 5 000 kilogrammes.
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de
 stockage de déchets industriels spéciaux ne s'applique pas aux résidus de

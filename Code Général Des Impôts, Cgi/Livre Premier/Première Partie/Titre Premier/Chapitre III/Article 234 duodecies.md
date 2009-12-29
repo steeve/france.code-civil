@@ -2,10 +2,10 @@ Article 234 duodecies
 ----
 I.-Lorsque la location est consentie par une personne morale ou un organisme
 devant souscrire la déclaration prévue au 1 de l'article 223, à l'exclusion de
-ceux imposés aux taux de l'impôt sur les sociétés prévus au I de l'article 219
-bis, la contribution prévue à l'article 234 nonies est assise sur les recettes
-nettes définies à l'article 29 qui ont été perçues au cours de l'exercice ou de
-la période d'imposition définie au deuxième alinéa de l'article 37.
+ceux imposés aux taux de l'impôt sur les sociétés prévus à l'article 219 bis, la
+contribution prévue à l'article 234 nonies est assise sur les recettes nettes
+définies à l'article 29 qui ont été perçues au cours de l'exercice ou de la
+période d'imposition définie au deuxième alinéa de l'article 37.
 
 II.-La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles
 et sous les mêmes garanties et sanctions qu'en matière d'impôt sur les sociétés.

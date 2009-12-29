@@ -1,12 +1,13 @@
 Article 44 undecies
 ----
-I.-1. Les entreprises qui participent à un projet de recherche et de
-développement et sont implantées dans une zone de recherche et de développement,
-tels que mentionnés au I de l'article 24 de la loi de finances pour 2005 (n°
-2004-1484 du 30 décembre 2004), sont exonérées d'impôt sur le revenu ou d'impôt
-sur les sociétés à raison des bénéfices qu'elles y réalisent au titre des trois
-premiers exercices ou périodes d'imposition bénéficiaires, cette période
-d'exonération totale des bénéfices réalisés ne pouvant excéder trente-six mois.
+I.-1. Les entreprises qui participent, au 16 novembre 2009, à un projet de
+recherche et de développement et sont implantées dans une zone de recherche et
+de développement, tels que mentionnés au I de l'article 24 de la loi de finances
+pour 2005 (n° 2004-1484 du 30 décembre 2004), sont exonérées d'impôt sur le
+revenu ou d'impôt sur les sociétés à raison des bénéfices qu'elles y réalisent
+au titre des trois premiers exercices ou périodes d'imposition bénéficiaires,
+cette période d'exonération totale des bénéfices réalisés ne pouvant excéder
+trente-six mois.
 
 Les bénéfices réalisés au titre des deux exercices ou périodes d'imposition
 bénéficiaires suivant cette période d'exonération ne sont soumis à l'impôt sur

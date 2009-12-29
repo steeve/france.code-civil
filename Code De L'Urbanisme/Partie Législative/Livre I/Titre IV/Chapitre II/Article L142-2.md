@@ -111,8 +111,19 @@ principale financés à titre prépondérant au moyen de prêts ouvrant droit au
 bénéfice des dispositions prévues au titre V du livre III du code de la
 construction et de l'habitation.
 
-Il peut également exonérer de ladite taxe des locaux artisanaux et industriels
-situés dans les communes de moins de deux mille habitants.
+Lorsque des constructions de logements sont acquises par les organismes et
+sociétés mentionnés à l'alinéa précédent, dans le cadre d'un contrat prévu par
+l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de
+la construction et de l'habitation, elles peuvent bénéficier, sur demande du
+constructeur, de l'exonération décidée, le cas échéant, en application de
+l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée
+en excès est remboursée. La demande du constructeur peut être formulée dès la
+conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même code,
+sans excéder un délai de trente-six mois à compter de la demande de permis de
+construire.
+
+Le conseil général peut également exonérer de ladite taxe des locaux artisanaux
+et industriels situés dans les communes de moins de deux mille habitants.
 
 Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
 
@@ -120,6 +131,17 @@ Dans les départements d'outre-mer, le conseil général peut exonérer de la ta
 de prêts aidés par l'Etat, et édifiés par les organismes et sociétés d'économie
 mixte mentionnés ci-dessus, pour leur compte ou à titre de prestataires de
 services ;
+
+Lorsque des constructions de logements sont acquises par les organismes et
+sociétés mentionnés à l'alinéa précédent, dans le cadre d'un contrat prévu par
+l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de
+la construction et de l'habitation, elles peuvent bénéficier, sur demande du
+constructeur, de l'exonération décidée, le cas échéant, en application de
+l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée
+en excès est remboursée. La demande du constructeur peut être formulée dès la
+conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même code,
+sans excéder un délai de trente-six mois à compter de la demande de permis de
+construire.
 
 -les logements à vocation très sociale.
 

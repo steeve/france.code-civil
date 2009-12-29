@@ -71,7 +71,10 @@ g. Les opérations visées au 8° du I de l'article 35 ;
 
 h. Les contribuables dont tout ou partie des biens affectés à l'exploitation
 sont compris dans un patrimoine fiduciaire en application d'une opération de
-fiducie définie à l'article 2011 du code civil.
+fiducie définie à l'article 2011 du code civil ;
+
+i) Les contribuables qui exercent une activité occulte au sens du troisième
+alinéa de l'article L. 169 du livre des procédures fiscales (3).
 
 3. Les contribuables concernés portent directement le montant du chiffre
 d'affaires annuel et des plus ou moins-values réalisées ou subies au cours de

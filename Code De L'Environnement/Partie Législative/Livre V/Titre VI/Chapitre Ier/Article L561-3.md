@@ -69,8 +69,7 @@ travaux de prévention.
 II. Ce fonds est alimenté par un prélèvement sur le produit des primes ou
 cotisations additionnelles relatives à la garantie contre le risque de
 catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Il
-est versé par les entreprises d'assurances ou leur représentant fiscal visé à
-l'article 1004 bis du code général des impôts.
+est versé par les entreprises d'assurances.
 
 Le taux de ce prélèvement est fixé par l'autorité administrative dans la limite
 de 12 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes

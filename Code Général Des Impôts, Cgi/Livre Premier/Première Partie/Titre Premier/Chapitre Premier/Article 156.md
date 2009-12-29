@@ -110,17 +110,6 @@ l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
 favorable du service départemental de l'architecture et du patrimoine.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
-dépenses inhérentes au maintien et à la protection du patrimoine naturel autres
-que les intérêts d'emprunt, ayant reçu un avis favorable du service de l'Etat
-compétent en matière d'environnement et effectuées sur des espaces naturels
-mentionnés aux articles L. 331-2, L. 332-2, L. 341-2, L. 411-1, L. 411-2 ou L.
-414-1 du code de l'environnement ou des espaces mentionnés à l'article L. 146-6
-du code de l'urbanisme, qui bénéficient du label délivré par la " Fondation du
-patrimoine " en application de l'article L. 143-2 du code du patrimoine. Ce
-label prévoit les conditions de l'accès au public des espaces concernés, sauf
-exception justifiée par la fragilité du milieu naturel.
-
-Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
 d'habitation ou destinés originellement à l'habitation et réaffectés à cet usage
 par leurs propriétaires et à leur initiative, ou à celle d'une collectivité

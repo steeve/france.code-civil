@@ -22,28 +22,38 @@ titre des exercices ouverts à compter du 1er janvier 2004.
 Le montant des dotations complémentaires aux provisions constituées par une
 société après son entrée dans le groupe à raison des participations détenues
 dans d'autres sociétés du groupe est ajouté à la plus-value nette à long terme
-d'ensemble ou déduit de la moins-value nette à long terme d'ensemble. En cas de
-cession entre sociétés du groupe de titres éligibles au régime des plus ou
-moins-values à long terme, les dotations aux provisions pour dépréciation de ces
-titres effectuées postérieurement à la cession sont également ajoutées à la
-plus-value nette à long terme d'ensemble ou retranchées de la moins-value nette
-à long terme d'ensemble, à hauteur de l'excédent des plus-values ou profits sur
-les moins-values ou pertes afférent à ces mêmes titres, qui n'a pas été pris en
-compte, en application du premier alinéa de l'article 223 F, pour le calcul du
-résultat ou de la plus ou moins-value nette à long terme d'ensemble. Lorsque, en
-application du troisième alinéa de l'article 223 F, la société mère comprend
-dans la plus ou moins-value nette à long terme d'ensemble la plus ou moins-value
-non prise en compte lors de sa réalisation, la fraction de la provision qui n'a
-pas été retenue en application de la deuxième phrase du présent alinéa, ni
-rapportée en application du dix-septième alinéa du 5° du 1 de l'article 39, est,
-selon le cas, retranchée de la plus-value nette à long terme d'ensemble ou
-ajoutée à la moins-value nette à long terme d'ensemble. Le montant des
-provisions rapportées en application de la première phrase du dix-septième
-alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
+d'ensemble ou déduit de la moins-value nette à long terme d'ensemble. Le montant
+des dotations complémentaires aux provisions constituées par une société après
+son entrée dans le groupe à raison des participations détenues dans des sociétés
+intermédiaires, à l'exception de la fraction de ces dotations pour laquelle la
+société mère apporte la preuve qu'elle n'est pas liée, directement ou
+indirectement, aux déficits et moins-values nettes à long terme de sociétés du
+groupe retenus pour la détermination du résultat d'ensemble et de la plus-value
+ou moins-value nette à long terme d'ensemble, est ajouté à la plus-value nette à
+long terme d'ensemble ou déduit de la moins-value nette à long terme d'ensemble
+(2). En cas de cession entre sociétés du groupe de titres éligibles au régime
+des plus ou moins-values à long terme, les dotations aux provisions pour
+dépréciation de ces titres effectuées postérieurement à la cession sont
+également ajoutées à la plus-value nette à long terme d'ensemble ou retranchées
+de la moins-value nette à long terme d'ensemble, à hauteur de l'excédent des
+plus-values ou profits sur les moins-values ou pertes afférent à ces mêmes
+titres, qui n'a pas été pris en compte, en application du premier alinéa de
+l'article 223 F, pour le calcul du résultat ou de la plus ou moins-value nette à
+long terme d'ensemble. Lorsque, en application du troisième alinéa de l'article
+223 F, la société mère comprend dans la plus ou moins-value nette à long terme
+d'ensemble la plus ou moins-value non prise en compte lors de sa réalisation, la
+fraction de la provision qui n'a pas été retenue en application de la deuxième
+phrase du présent alinéa, ni rapportée en application du dix-septième alinéa du
+5° du 1 de l'article 39, est, selon le cas, retranchée de la plus-value nette à
+long terme d'ensemble ou ajoutée à la moins-value nette à long terme d'ensemble.
+Le montant des provisions rapportées en application de la première phrase du
+dix-septième alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
 complémentaires non retenues en application du présent alinéa est déduit de la
 plus-value nette à long terme d'ensemble ou ajouté à la moins-value nette à long
-terme d'ensemble si les sociétés citées aux deux premières phrases de cet alinéa
-sont membres du groupe ou, s'agissant des provisions mentionnées à la première
-phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e,
-f ou g du 6 de l'article 223 L au titre de l'exercice au cours duquel les
+terme d'ensemble si les sociétés citées aux première et troisième phrases de cet
+alinéa ou détenues, directement ou indirectement, par les sociétés
+intermédiaires citées à la deuxième phrase du même alinéa sont membres du groupe
+(2) ou, s'agissant des provisions mentionnées aux première et deuxième phrases,
+d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e, f, g, h
+ou i (2) du 6 de l'article 223 L au titre de l'exercice au cours duquel les
 provisions sont rapportées.

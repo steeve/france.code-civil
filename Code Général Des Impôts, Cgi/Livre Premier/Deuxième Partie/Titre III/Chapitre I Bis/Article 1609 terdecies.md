@@ -15,4 +15,4 @@ Importations et acquisitions intracommunautaires des mêmes appareils.
 Un arrêté conjoint du ministre de l'économie et des finances et du ministre de
 l'industrie et de la recherche fixe la liste de ces appareils.
 
-La taxe est perçue au taux de 2,25 %.
+La taxe est perçue au taux de 3,25 %.

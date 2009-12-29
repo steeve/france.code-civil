@@ -37,7 +37,7 @@ sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
 III .-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du
 montant total des dépenses suivantes engagées entre le 1er juillet 2007 et le 31
-décembre 2009, pour des opérations mentionnées au II effectuées en France, dans
+décembre 2012, pour des opérations mentionnées au II effectuées en France, dans
 un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen ayant conclu avec la France une
 convention fiscale contenant une clause administrative en vue de lutter contre

@@ -16,3 +16,15 @@ trente jours pour présenter ses observations.
 
 Une réponse motivée est adressée au redevable en cas de rejet de ses
 observations.
+
+Les bases de la proposition de rectification sont évaluées d'office lorsque
+l'examen sur place des documents utiles ne peut avoir lieu du fait du redevable
+ou d'un tiers comme prévu à l'article L. 115-16.
+
+Les agents mentionnés à l'article L. 115-16 peuvent fixer d'office la base
+d'imposition en se fondant sur les éléments propres au redevable ou, à défaut,
+par référence au chiffre d'affaires réalisé par un redevable comparable.
+
+Les bases ou les éléments servant de base au calcul des impositions d'office et
+leurs modalités de détermination sont portés à la connaissance du redevable
+trente jours au moins avant la mise en recouvrement des impositions.

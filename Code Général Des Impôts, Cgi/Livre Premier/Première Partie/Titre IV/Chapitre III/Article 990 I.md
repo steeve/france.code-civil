@@ -1,6 +1,6 @@
 Article 990 I
 ----
-I. - Lorsqu'elles n'entrent pas dans le champ d'application de l'article 757 B,
+I.-Lorsqu'elles n'entrent pas dans le champ d'application de l'article 757 B,
 les sommes, rentes ou valeurs quelconques dues directement ou indirectement par
 un ou plusieurs organismes d'assurance et assimilés, à raison du décès de
 l'assuré, sont assujetties à un prélèvement de 20 % à concurrence de la part
@@ -20,17 +20,13 @@ Le bénéficiaire n'est pas assujetti au prélèvement visé au premier alinéa
 lorsqu'il est exonéré de droits de mutation à titre gratuit en application des
 dispositions des articles 795, 796-0 bis et 796-0 ter.
 
-II. - Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable
-des impôts par les organismes d'assurance et assimilés ou leur représentant
-fiscal visé au III dans les quinze jours qui suivent la fin du mois au cours
-duquel les sommes, rentes ou valeurs quelconques dues par eux ont été versées
-aux bénéficiaires à titre gratuit.
+II.-Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable
+des impôts par les organismes d'assurance et assimilés dans les quinze jours qui
+suivent la fin du mois au cours duquel les sommes, rentes ou valeurs quelconques
+dues par eux ont été versées aux bénéficiaires à titre gratuit.
 
 Il est recouvré suivant les mêmes règles, sous les mêmes garanties et les mêmes
 sanctions que la taxe sur les conventions d'assurances prévue aux articles 991
 et suivants.
 
-III. - Les organismes d'assurance et assimilés non établis en France et admis à
-y opérer en libre prestation de services doivent désigner un représentant
-résidant en France personnellement responsable du paiement du prélèvement prévu
-au I.
+III. - (Abrogé)

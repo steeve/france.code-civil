@@ -15,8 +15,8 @@ l'exception des sociétés anonymes coopératives d'intérêt collectif pour
 l'accession à la propriété, à une société d'économie mixte exerçant une activité
 immobilière outre-mer, à un organisme mentionné à l'article L. 365-1 du même
 code ou, dans les collectivités d'outre-mer, à tout organisme de logement social
-agréé conformément à la réglementation locale par l'autorité publique compétente
-;
+agréé conformément à la réglementation locale par l'autorité publique
+compétente. L'opération peut prendre la forme d'un crédit-bail immobilier ;
 
 2° Les logements sont donnés en sous-location nue ou meublée par l'organisme
 mentionné au 1° du présent I et pour une durée au moins égale à cinq ans à des
@@ -108,10 +108,12 @@ mentionnée à l'article 8 du présent code dont les parts ou les actions sont
 détenues, directement ou par l'intermédiaire d'une entreprise unipersonnelle à
 responsabilité limitée, par des contribuables domiciliés en France au sens de
 l'article 4 B, dont la quote-part du revenu de la société est soumise en leur
-nom à l'impôt sur le revenu. Dans ce cas, la réduction d'impôt est pratiquée par
-les associés ou membres dans une proportion correspondant à leurs droits dans la
-société au titre de l'année au cours de laquelle les parts ou actions sont
-souscrites.
+nom à l'impôt sur le revenu , sous réserve des parts détenues, conformément à
+l'article L. 472-1-9 du code de la construction et de l'habitation, par les
+sociétés d'habitations à loyer modéré. Dans ce cas, la réduction d'impôt est
+pratiquée par les associés ou membres dans une proportion correspondant à leurs
+droits dans la société au titre de l'année au cours de laquelle les parts ou
+actions sont souscrites.
 
 La réduction d'impôt est acquise, dans les mêmes conditions, au titre des
 investissements réalisés par une société soumise de plein droit à l'impôt sur
@@ -140,7 +142,9 @@ les associés lors de la cession des titres des sociétés. Le 2° du 3 de l'art
 La réduction d'impôt, qui n'est pas applicable aux parts ou actions dont le
 droit de propriété est démembré, est subordonnée à la condition que 95 % de la
 souscription serve exclusivement à financer un investissement pour lequel les
-conditions d'application du présent article sont réunies.L'associé doit
+conditions d'application du présent article sont réunies, sous réserve des parts
+détenues, conformément à l'article L. 472-1-9 du code de la construction et de
+l'habitation, par les sociétés d'habitations à loyer modéré. L'associé doit
 s'engager à conserver la totalité de ses parts ou actions jusqu'au terme de la
 location prévue au 1° du I du présent article. Le produit de la souscription
 doit être intégralement investi dans les dix-huit mois qui suivent la clôture de

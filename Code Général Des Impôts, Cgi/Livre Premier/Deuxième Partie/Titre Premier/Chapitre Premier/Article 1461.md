@@ -7,10 +7,15 @@ au cours de la période de référence mentionnée à l'article 1467 A pour leur
 activités de gestion des contrats mentionnés aux 1° et 2° du 2 de l'article 207
 ;
 
-2° Les sociétés d'habitations à loyer modéré ;
+2° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
+du code de la construction et de l'habitation, les sociétés anonymes de
+coordination entre les organismes d'habitations à loyer modéré mentionnées à
+l'article L. 423-1-1 du même code, ainsi que les sociétés ou organismes visés
+aux articles 239 ter et 239 quater du présent code dès lors qu'ils sont
+constitués exclusivement par des organismes précités et si leurs activités sont
+identiques à celles de leurs membres ;
 
-3° Les offices publics de l'habitat, pour les opérations faites en application
-de la législation sur les habitations à loyer modéré ;
+3° (Abrogé) ;
 
 4° Les sociétés de bains-douches et les sociétés de jardins ouvriers ;
 

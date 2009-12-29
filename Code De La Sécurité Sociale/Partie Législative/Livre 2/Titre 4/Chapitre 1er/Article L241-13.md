@@ -31,9 +31,13 @@ correspondante, des taux de 25 % ou 50 %, selon le cas, prévus au I de l'articl
 L. 212-5 du code du travail et à l'article L. 713-6 du code rural et hors
 rémunération des temps de pause, d'habillage et de déshabillage versée en
 application d'une convention ou d'un accord collectif étendu en vigueur au 11
-octobre 2007. Pour les salariés qui ne sont pas employés à temps plein ou qui ne
-sont pas employés sur tout le mois, le salaire minimum de croissance pris en
-compte est celui qui correspond à la durée de travail prévue au contrat.
+octobre 2007. Lorsque le salarié est soumis à un régime d'heures d'équivalences
+payées à un taux majoré en application d'une convention ou d'un accord collectif
+étendu en vigueur au 1er janvier 2010, la majoration salariale correspondante
+est également déduite de la rémunération mensuelle du salarié dans la limite
+d'un taux de 25 %. Pour les salariés qui ne sont pas employés à temps plein ou
+qui ne sont pas employés sur tout le mois, le salaire minimum de croissance pris
+en compte est celui qui correspond à la durée de travail prévue au contrat.
 
 Le décret prévu à l'alinéa précédent précise les modalités de calcul de la
 réduction dans le cas des salariés dont le contrat de travail est suspendu avec

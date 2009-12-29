@@ -1,9 +1,10 @@
 Article L13 B
 ----
 Lorsque, au cours d'une vérification de comptabilité, l'administration a réuni
-des éléments faisant présumer qu'une entreprise a opéré un transfert indirect de
-bénéfices, au sens des dispositions de l'article 57 du code général des impôts,
-elle peut demander à cette entreprise des informations et documents précisant :
+des éléments faisant présumer qu'une entreprise, autre que celles mentionnées au
+I de l'article L. 13 AA, a opéré un transfert indirect de bénéfices, au sens des
+dispositions de l'article 57 du code général des impôts, elle peut demander à
+cette entreprise des informations et documents précisant :
 
 1° La nature des relations entrant dans les prévisions de l'article 57 du code
 général des impôts, entre cette entreprise et une ou plusieurs entreprises

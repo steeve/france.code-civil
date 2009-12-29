@@ -1,6 +1,6 @@
 Article 302 G
 ----
-I. - Doit exercer son activité comme entrepositaire agréé :
+I.-Doit exercer son activité comme entrepositaire agréé :
 
 1° Toute personne qui produit ou transforme des alcools, des produits
 intermédiaires, des produits visés à l'article 438 ou des bières ;
@@ -13,7 +13,7 @@ achetés et qui sont destinés à l'expédition ou à la revente par quantités 
 pour le même destinataire ou le même acquéreur, sont supérieures aux niveaux
 fixés par décret.
 
-II. - La production ou la transformation des produits mentionnés au 1° du I est
+II.-La production ou la transformation des produits mentionnés au 1° du I est
 obligatoirement réalisée en suspension des droits d'accises, dans un entrepôt
 suspensif de ces droits.
 
@@ -46,33 +46,35 @@ obligations prévues pour l'application de ces régimes douaniers, n'ont pas à
 prendre la qualité d'entrepositaire agréé et ne sont pas soumises aux
 obligations prévues aux III, IV et V ci-après.
 
-III. - L'entrepositaire agréé tient, par entrepôt fiscal suspensif des droits
+III.-L'entrepositaire agréé tient, par entrepôt fiscal suspensif des droits
 d'accises, une comptabilité matières des productions, transformations, stocks et
 mouvements de produits mentionnés aux 1° et 2° du I, ainsi que des produits
-vitivinicoles, autres que les vins, définis à l'article 1er, paragraphe 2, du
-règlement (CE) n° 1493/99 du Conseil du 17 mai 1999, portant organisation
-commune du marché vitivinicole. L'entrepositaire agréé présente ladite
-comptabilité matières et lesdits produits à toute réquisition.
+vitivinicoles, autres que les vins, mentionnés à la partie XII de l'annexe I au
+règlement (CE) modifié n° 1234 / 2007 du Conseil du 22 octobre 2007 portant
+organisation commune des marchés dans le secteur agricole et dispositions
+spécifiques en ce qui concerne certains produits de ce secteur. L'entrepositaire
+agréé présente ladite comptabilité matières et lesdits produits à toute
+réquisition.
 
-IV. - Un entrepositaire agréé détenant des produits mentionnés aux 1° et 2° du I
+IV.-Un entrepositaire agréé détenant des produits mentionnés aux 1° et 2° du I
 qu'il a acquis ou reçus tous droits acquittés, ou pour lesquels il a
 précédemment acquitté les droits, peut les replacer en suspension de droits dans
 son entrepôt fiscal suspensif des droits d'accises. Sur demande, les droits
 acquittés ou supportés lui sont remboursés ou sont compensés avec des droits
 exigibles.
 
-V. - L'administration accorde la qualité d'entrepositaire agréé à la personne
-qui justifie être en mesure de remplir les obligations prévues au III et qui
-fournit une caution solidaire garantissant le paiement des droits dus. Peuvent
-être dispensés de caution en matière de production, de transformation et de
-détention les récoltants dont les sociétés coopératives agricoles et leurs
-unions, ainsi que les brasseurs. Peuvent également être dispensés de caution à
-la circulation les petits récoltants de vin y compris les sociétés coopératives
-agricoles et leurs unions dans les limites et conditions fixées par décret.
+V.-L'administration accorde la qualité d'entrepositaire agréé à la personne qui
+justifie être en mesure de remplir les obligations prévues au III et qui fournit
+une caution solidaire garantissant le paiement des droits dus. Peuvent être
+dispensés de caution en matière de production, de transformation et de détention
+les récoltants dont les sociétés coopératives agricoles et leurs unions, ainsi
+que les brasseurs. Peuvent également être dispensés de caution à la circulation
+les petits récoltants de vin y compris les sociétés coopératives agricoles et
+leurs unions dans les limites et conditions fixées par décret.
 
 En cas de violation par l'entrepositaire de ses obligations, de défaillance de
 la caution ou de dénonciation par cette caution de son engagement,
 l'administration peut retirer l'agrément.
 
-VI. - Un décret en Conseil d'Etat fixe les conditions et modalités d'application
+VI.-Un décret en Conseil d'Etat fixe les conditions et modalités d'application
 du présent article.

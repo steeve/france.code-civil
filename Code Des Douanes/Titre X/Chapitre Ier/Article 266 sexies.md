@@ -72,6 +72,12 @@ l'environnement qui, au titre d'une année civile, a émis ou fait émettre des
 imprimés papiers dans les conditions mentionnées audit article et qui n'a pas
 acquitté la contribution financière ou en nature qui y est prévue.
 
+A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du
+III de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une
+année civile, a mis sur le marché des papiers à usage graphique dans les
+conditions mentionnées au même article et qui n'a pas acquitté la contribution
+financière ou en nature qui y est prévue.
+
 II.-La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
@@ -87,7 +93,7 @@ l'amiante-ciment ;
 
 1 quater. Aux installations classées d'élimination de déchets tels que les
 bioréacteurs, lorsqu'elles maîtrisent et valorisent la totalité de leur
-production de biogaz ; (1)
+production de biogaz ;
 
 2. (alinéa abrogé) ;
 

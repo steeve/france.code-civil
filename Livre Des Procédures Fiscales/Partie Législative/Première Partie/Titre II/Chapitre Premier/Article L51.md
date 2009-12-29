@@ -22,4 +22,6 @@ période postérieure ;
 opté pour le régime prévu à l'article 223 A du code général des impôts ;
 
 6° Dans les cas prévus à l'article L. 188 A après l'intervention de la réponse
-de l'autorité compétente de l'autre Etat ou territoire.
+de l'autorité compétente de l'autre Etat ou territoire ;
+
+7° Dans les cas prévus à l'article L. 188 B.

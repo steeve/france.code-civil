@@ -3,7 +3,7 @@ Article L151-1
 Le champ d'application de la taxe générale sur les activités polluantes est fixé
 par l'article 266 sexies du code des douanes ci-après reproduit :
 
-" Art. 266 sexies-I.-Il est institué une taxe générale sur les activités
+" Art. 266 sexies- I. - Il est institué une taxe générale sur les activités
 polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation d'élimination par stockage ou par
@@ -75,6 +75,12 @@ l'environnement qui, au titre d'une année civile, a émis ou fait émettre des
 imprimés papiers dans les conditions mentionnées audit article et qui n'a pas
 acquitté la contribution financière ou en nature qui y est prévue.
 
+A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du
+III de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une
+année civile, a mis sur le marché des papiers à usage graphique dans les
+conditions mentionnées au même article et qui n'a pas acquitté la contribution
+financière ou en nature qui y est prévue.
+
 II.-La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
@@ -90,7 +96,7 @@ l'amiante-ciment ;
 
 1 quater. Aux installations classées d'élimination de déchets tels que les
 bioréacteurs, lorsqu'elles maîtrisent et valorisent la totalité de leur
-production de biogaz ; (1)
+production de biogaz ;
 
 2. (alinéa abrogé) ;
 
@@ -121,4 +127,4 @@ matériaux ou déchets inertes. Sont considérés comme déchets inertes les dé
 qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction
 physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres
 matières avec lesquelles ils entrent en contact, d'une manière susceptible
-d'entraîner une pollution de l'environnement ou de nuire à la santé humaine. "
+d'entraîner une pollution de l'environnement ou de nuire à la santé humaine."

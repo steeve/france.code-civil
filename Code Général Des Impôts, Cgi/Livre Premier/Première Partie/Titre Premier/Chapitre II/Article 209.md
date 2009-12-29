@@ -2,9 +2,10 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte
-uniquement des bénéfices réalisés dans les entreprises exploitées en France
-ainsi que de ceux dont l'imposition est attribuée à la France par une convention
+articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte
+uniquement des bénéfices réalisés dans les entreprises exploitées en France, de
+ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de
+ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37,
@@ -34,10 +35,10 @@ ceux afférents à la branche d'activité apportée.
 
 L'agrément est délivré lorsque :
 
-a. L'opération est justifiée du point de vue économique et obéit à des
+a.L'opération est justifiée du point de vue économique et obéit à des
 motivations principales autres que fiscales ;
 
-b. L'activité à l'origine des déficits ou des intérêts dont le transfert est
+b.L'activité à l'origine des déficits ou des intérêts dont le transfert est
 demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant
 un délai minimum de trois ans.
 

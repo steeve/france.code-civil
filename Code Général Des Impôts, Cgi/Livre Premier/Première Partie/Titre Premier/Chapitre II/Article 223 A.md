@@ -3,17 +3,25 @@ Article 223 A
 Une société peut se constituer seule redevable de l'impôt sur les sociétés dû
 sur l'ensemble des résultats du groupe formé par elle-même et les sociétés dont
 elle détient 95 % au moins du capital, de manière continue au cours de
-l'exercice, directement ou indirectement par l'intermédiaire de sociétés du
-groupe. Dans ce cas, elle est également redevable de l'imposition forfaitaire
-annuelle due par les sociétés du groupe. Le capital de la société mère ne doit
-pas être détenu à 95 % au moins, directement ou indirectement, par une autre
-personne morale soumise à l'impôt sur les sociétés dans les conditions de droit
-commun ou selon les modalités prévues aux articles 214 et 217 bis. Toutefois, le
-capital de la société mère peut être détenu indirectement à 95 % ou plus par une
-autre personne morale soumise à l'impôt sur les sociétés dans les conditions de
-droit commun ou selon les modalités prévues aux articles 214 et 217 bis, par
-l'intermédiaire d'une ou plusieurs personnes morales non soumises à cet impôt
-dans ces mêmes conditions.
+l'exercice, directement ou indirectement par l'intermédiaire de sociétés ou
+d'établissements stables membres du groupe, ci-après désignés par les termes :
+sociétés du groupe, ou de sociétés ou d'établissements stables, ci-après
+désignés par les termes : sociétés intermédiaires, détenus à 95 % au moins par
+la société mère, de manière continue au cours de l'exercice, directement ou
+indirectement par l'intermédiaire de sociétés du groupe ou de sociétés
+intermédiaires (2). Dans ce cas, elle est également redevable de l'imposition
+forfaitaire annuelle due par les sociétés du groupe. Le capital de la société
+mère ne doit pas être détenu à 95 % au moins, directement ou indirectement, par
+une autre personne morale soumise à l'impôt sur les sociétés dans les conditions
+de droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
+Toutefois, le capital de la société mère peut être détenu indirectement à 95 %
+ou plus par une autre personne morale soumise à l'impôt sur les sociétés dans
+les conditions de droit commun ou selon les modalités prévues aux articles 214
+et 217 bis, par l'intermédiaire d'une ou plusieurs personnes morales non
+soumises à cet impôt dans ces mêmes conditions ou par l'intermédiaire d'une ou
+plusieurs personnes morales qui y sont soumises dans ces mêmes conditions mais
+dont le capital n'est pas détenu, directement ou indirectement, par cette autre
+personne morale à 95 % au moins (1).
 
 Par exception à la première phrase du premier alinéa, lorsqu'une personne morale
 soumise à l'impôt sur les sociétés dans les conditions de droit commun établit
@@ -29,12 +37,17 @@ engendrer un comportement commercial, technique ou financier commun, soit des
 liens importants et durables en vertu de dispositions réglementaires,
 statutaires ou contractuelles, et les sociétés dont elle et les personnes
 morales combinées détiennent 95 % au moins du capital, directement ou
-indirectement par l'intermédiaire de sociétés du groupe. Les conditions
-relatives aux liens entre les personnes morales mentionnées à la phrase
-précédente et à la détention des sociétés membres du groupe par ces personnes
-morales s'apprécient de manière continue au cours de l'exercice. Les autres
-dispositions du premier alinéa s'appliquent à la société mère du groupe formé
-dans les conditions prévues au présent alinéa.
+indirectement par l'intermédiaire de sociétés ou d'établissements stables
+membres du groupe, ci-après désignés par les termes : "sociétés du groupe", ou
+de sociétés ou d'établissements stables, ci-après désignés par les termes :
+"sociétés intermédiaires", dont la société mère et ces mêmes personnes morales
+combinées détiennent 95 % au moins du capital, directement ou indirectement par
+l'intermédiaire de sociétés du groupe ou de sociétés intermédiaires (2). Les
+conditions relatives aux liens entre les personnes morales mentionnées à la
+phrase précédente et à la détention des sociétés membres du groupe par ces
+personnes morales s'apprécient de manière continue au cours de l'exercice. Les
+autres dispositions du premier alinéa s'appliquent à la société mère du groupe
+formé dans les conditions prévues au présent alinéa.
 
 Par exception à la première phrase du premier alinéa, lorsqu'une personne morale
 soumise à l'impôt sur les sociétés dans les conditions de droit commun est un
@@ -51,29 +64,39 @@ sont affiliées au sens de l'article L. 511-31 du même code ou bénéficiant d'
 même agrément collectif délivré par le Comité des établissements de crédit et
 des entreprises d'investissement, et les sociétés dont elle et les banques,
 caisses et sociétés précitées détiennent 95 % au moins du capital, directement
-ou indirectement par l'intermédiaire de sociétés du groupe. Les autres
-dispositions du premier alinéa s'appliquent à la société mère du groupe formé
-dans les conditions prévues au présent alinéa.
+ou indirectement par l'intermédiaire de sociétés ou d'établissements stables
+membres du groupe, ci-après désignés par les termes : "sociétés du groupe", ou
+de sociétés ou d'établissements stables, ci-après désignés par les termes :
+"sociétés intermédiaires", dont la société mère et ces mêmes banques, caisses et
+sociétés détiennent 95 % au moins du capital, directement ou indirectement par
+l'intermédiaire de sociétés du groupe ou de sociétés intermédiaires (2). Les
+conditions relatives aux liens entre les personnes morales mentionnées à la
+première phrase et à la détention des sociétés membres du groupe par ces
+personnes morales s'apprécient de manière continue au cours de l'exercice (2).
+Les autres dispositions du premier alinéa s'appliquent à la société mère du
+groupe formé dans les conditions prévues au présent alinéa.
 
 Pour le calcul du taux de détention du capital, il est fait abstraction, dans la
 limite de 10 % du capital de la société, des titres émis dans les conditions
 prévues aux articles L. 225-177 à L. 225-184, L. 225-197-1 à L. 225-197-5 du
-code de commerce et aux articles L. 3332-18 à L. 3332-24 du code du travail
-ainsi que des titres attribués, après rachat, dans les mêmes conditions, par une
-société à ses salariés non mandataires. Ce mode particulier de calcul ne
-s'applique plus à compter de l'exercice au cours duquel le détenteur des titres
-émis ou attribués dans les conditions qui précèdent cède ses titres ou cesse
-toute fonction dans la société. Toutefois, si la cession des titres ou la
-cessation de fonction a pour effet de réduire, au cours d'un exercice, à moins
-de 95 % la participation dans le capital d'une société filiale, ce capital est
-néanmoins réputé avoir été détenu selon les modalités fixées au premier, au
-deuxième ou au troisième alinéa si le pourcentage de 95 % est à nouveau atteint
-à l'expiration du délai prévu au deuxième alinéa du 1 de l'article 223 pour le
-dépôt de la déclaration de résultat de l'exercice. Si la cessation de fonction
-intervient au cours de la période de conservation prévue à la troisième phrase
-du deuxième alinéa du I de l'article L. 225-197-1 du code de commerce, il
-continue à être fait abstraction des actions dont la conservation est requise
-dans les conditions qui précèdent, jusqu'à l'expiration de la période précitée.
+code de commerce et aux articles L. 3332-18 à L. 3332-24 du code du travail ou
+par une réglementation étrangère équivalente (2) ainsi que des titres attribués,
+après rachat, dans les mêmes conditions, par une société à ses salariés non
+mandataires. Ce mode particulier de calcul ne s'applique plus à compter de
+l'exercice au cours duquel le détenteur des titres émis ou attribués dans les
+conditions qui précèdent cède ses titres ou cesse toute fonction dans la
+société. Toutefois, si la cession des titres ou la cessation de fonction a pour
+effet de réduire, au cours d'un exercice, à moins de 95 % la participation dans
+le capital d'une société filiale, ce capital est néanmoins réputé avoir été
+détenu selon les modalités fixées au premier, au deuxième ou au troisième alinéa
+si le pourcentage de 95 % est à nouveau atteint à l'expiration du délai prévu au
+deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
+résultat de l'exercice. Si la cessation de fonction intervient au cours de la
+période de conservation prévue au sixième (2) alinéa du I de l'article L.
+225-197-1 du code de commerce ou par une réglementation étrangère équivalente
+(2), il continue à être fait abstraction des actions dont la conservation est
+requise dans les conditions qui précèdent, jusqu'à l'expiration de la période
+précitée.
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs
 résultats qui peuvent être vérifiés dans les conditions prévues par les articles
@@ -82,43 +105,58 @@ supporte, au regard des droits et des pénalités visées à l'article 2 de la l
 n° 87-502 du 8 juillet 1987 modifiant les procédures fiscales et douanières, les
 conséquences des infractions commises par les sociétés du groupe.
 
-Seules peuvent être membres du groupe les sociétés qui ont donné leur accord et
-dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de
-droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
-Toutefois, lorsque la société mère opte pour l'application du régime défini au
-deuxième ou au troisième alinéa, toutes les personnes morales dénuées de capital
-définies au deuxième alinéa et toutes les banques, caisses et sociétés
-mentionnées aux articles L. 512-11, L. 512-20, L. 512-55, L. 512-60, L. 512-69
-et L. 512-86 du code monétaire et financier ou bénéficiant du même agrément
-collectif, à l'exception des filiales dont le capital est détenu à 95 % au moins
-sont obligatoirement membres du groupe et ne peuvent simultanément être mères
-d'un groupe formé dans les conditions prévues au premier alinéa.
+Seules peuvent être membres du groupe les sociétés ou les établissements stables
+qui ont donné (2) leur accord et dont les résultats sont soumis à l'impôt sur
+les sociétés dans les conditions de droit commun ou selon les modalités prévues
+aux articles 214 et 217 bis. Seules peuvent être qualifiées de sociétés
+intermédiaires les sociétés ou les établissements stables qui ont donné leur
+accord et dont les résultats sont soumis à un impôt équivalent à l'impôt sur les
+sociétés dans un Etat de la Communauté européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention fiscale qui contient une clause d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales (2). Toutefois, lorsque la société
+mère opte pour l'application du régime défini au deuxième ou au troisième
+alinéa, toutes les personnes morales dénuées de capital définies au deuxième
+alinéa et toutes les banques, caisses et sociétés mentionnées aux articles L.
+512-11, L. 512-20, L. 512-55, L. 512-60, L. 512-69 et L. 512-86 du code
+monétaire et financier ou bénéficiant du même agrément collectif, à l'exception
+des filiales dont le capital est détenu à 95 % au moins sont obligatoirement
+membres du groupe et ne peuvent simultanément être mères d'un groupe formé dans
+les conditions prévues au premier alinéa.
 
-Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
-les exercices ont en principe, une durée de douze mois. Par exception, la durée
-d'un exercice des sociétés du groupe peut être inférieure ou supérieure à douze
-mois, sans préjudice des dispositions de l'article 37. Cette exception ne peut
-s'appliquer qu'une seule fois au cours d'une période couverte par une même
-option. La modification de la date de clôture de l'exercice doit être notifiée
-au plus tard à l'expiration du délai prévu au deuxième alinéa du 1 de l'article
-223 pour le dépôt de la déclaration de résultat de l'exercice précédant le
-premier exercice concerné. Les options mentionnées aux premier, deuxième ou
-troisième alinéas sont notifiées au plus tard à l'expiration du délai prévu au
-deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
-résultat de l'exercice précédant celui au titre duquel le régime défini au
-présent article s'applique. Elles sont valables pour une période de cinq
-exercices. Elles sont renouvelées par tacite reconduction, sauf dénonciation au
-plus tard à l'expiration du délai prévu au 1 de l'article 223 pour le dépôt de
-la déclaration de résultat du dernier exercice de chaque période.
+Les sociétés du groupe et, sous réserve de la réglementation étrangère qui leur
+est applicable, les sociétés intermédiaires (2) doivent ouvrir et clore leurs
+exercices aux mêmes dates ; les exercices ont en principe, une durée de douze
+mois. Par exception, la durée d'un exercice des sociétés du groupe peut être
+inférieure ou supérieure à douze mois, sans préjudice des dispositions de
+l'article 37. Cette exception ne peut s'appliquer qu'une seule fois au cours
+d'une période couverte par une même option. La modification de la date de
+clôture de l'exercice doit être notifiée au plus tard à l'expiration du délai
+prévu au deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration
+de résultat de l'exercice précédant le premier exercice concerné. Les options
+mentionnées aux premier, deuxième ou troisième alinéas sont notifiées au plus
+tard à l'expiration du délai prévu au deuxième alinéa du 1 de l'article 223 pour
+le dépôt de la déclaration de résultat de l'exercice précédant celui au titre
+duquel le régime défini au présent article s'applique. Elles sont valables pour
+une période de cinq exercices. Les accords mentionnés au sixième alinéa sont
+formulés au plus tard à l'expiration du délai prévu pour le dépôt de la
+déclaration de résultat de l'exercice précédant celui où la société devient
+membre du groupe ou devient une société intermédiaire, ou dans les trois mois de
+l'acquisition des titres d'une société du groupe ou d'une autre société
+intermédiaire (2). Les options et les accords sont renouvelés (2) par tacite
+reconduction, sauf dénonciation au plus tard à l'expiration du délai prévu au 1
+de l'article 223 pour le dépôt de la déclaration de résultat du dernier exercice
+de chaque période.
 
 Pour chacun des exercices arrêtés au cours de la période de validité de
 l'option, la société mère notifie, au plus tard à la date mentionnée au septième
-alinéa, la liste des sociétés membres du groupe ainsi que l'identité des
-sociétés qui cessent d'être membres de ce groupe. A défaut, le résultat
-d'ensemble est déterminé à partir du résultat des sociétés mentionnées sur la
-dernière liste notifiée au service dans le délai indiqué à la phrase qui précède
-si ces sociétés continuent à remplir les conditions prévues à la présente
-section.
+alinéa, la liste des sociétés membres du groupe et des sociétés intermédiaires
+(2) ainsi que l'identité des sociétés qui cessent d'être membres de ce groupe ou
+qui cessent d'être qualifiées de sociétés intermédiaires (2). A défaut, le
+résultat d'ensemble est déterminé à partir du résultat des sociétés mentionnées
+sur la dernière liste notifiée au service dans le délai indiqué à la phrase qui
+précède si ces sociétés continuent à remplir les conditions prévues à la
+présente section.
 
 Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
 sociétés, de l'imposition forfaitaire annuelle et, le cas échéant, des intérêts

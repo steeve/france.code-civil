@@ -18,8 +18,8 @@ e) Des plus-values, gains en capital et profits réalisés sur les marchés à t
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
 négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
 des distributions définies aux 7 et 8 du II de l'article 150-0 A du code général
-des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
-et du gain défini à l'article 150 duodecies du même code ;
+des impôts , des avantages définis aux 6 et 6 bis de l'article 200 A du même
+code et du gain défini à l'article 150 duodecies du même code ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -60,8 +60,9 @@ II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
 a) Les sommes soumises à l'impôt sur le revenu en application des articles 168,
-1649 A et 1649 quater A du code général des impôts, ainsi que de l'article L. 69
-du livre des procédures fiscales ;
+1649 A , 1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
+général des impôts, ainsi que de l'article L. 69 du livre des procédures
+fiscales ;
 
 a bis) Les sommes soumises à l'impôt sur le revenu en application du 1° de
 l'article L. 66 du livre des procédures fiscales et qui ne sont pas assujetties
@@ -85,6 +86,6 @@ applicables.
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
 par article de rôle est inférieur à 61 euros.
 
-La majoration de 10 % prévue à l' article 1730 du code général des impôts est
+La majoration de 10 % prévue à l'article 1730 du code général des impôts est
 appliquée au montant de la contribution qui n'a pas été réglé dans les trente
 jours suivant la mise en recouvrement.

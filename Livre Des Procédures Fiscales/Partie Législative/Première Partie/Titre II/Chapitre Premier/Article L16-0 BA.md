@@ -43,6 +43,25 @@ signer, mention en est faite au procès-verbal.
 L'original du procès-verbal est conservé par l'administration des impôts et
 copie est notifiée au contribuable.
 
+I bis. - Lorsque les agents mentionnés au premier alinéa du I sont informés,
+dans les conditions prévues au 1 de l'article 1649 quater-0 B bis du code
+général des impôts, de l'exercice par le contribuable d'une activité entrant
+dans le champ d'application du 2 du même article au titre de la période en cours
+pour laquelle l'une des obligations déclaratives prévues aux articles 170, 172,
+223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances
+susceptibles de menacer le recouvrement d'une créance fiscale, dresser à
+l'encontre de ce contribuable un procès-verbal de flagrance fiscale.
+
+Le procès-verbal de flagrance fiscale est signé par les agents de
+l'administration des impôts.
+
+L'original du procès-verbal est conservé par l'administration des impôts et
+copie est notifiée au contribuable.
+
+La décision de faire application du présent I bis est prise par un agent de
+catégorie A détenant au moins un grade fixé par décret en Conseil d'Etat, qui
+vise à cet effet le procès-verbal de flagrance fiscale.
+
 II.-La notification du procès-verbal de flagrance fiscale permet d'effectuer les
 saisies conservatoires mentionnées à l'article L. 252 B.
 

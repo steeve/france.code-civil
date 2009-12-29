@@ -60,7 +60,7 @@ En cas de cession d'un bien dont le droit de propriété est démembré, le seui
 15 000 euros s'apprécie au regard de chaque quote-part indivise en pleine
 propriété ;
 
-7° Qui sont cédés avant le 31 décembre 2009 à un organisme d'habitations à loyer
+7° Qui sont cédés avant le 31 décembre 2011 à un organisme d'habitations à loyer
 modéré, à une société d'économie mixte gérant des logements sociaux, à
 l'association mentionnée à l'article L. 313-34 du code de la construction et de
 l'habitation, aux sociétés civiles immobilières dont cette association détient
@@ -69,7 +69,7 @@ code de la construction et de l'habitation ou à un organisme bénéficiant de
 l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 du code de
 la construction et de l'habitation.
 
-8° Qui sont cédés avant le 31 décembre 2009 à une collectivité territoriale, à
+8° Qui sont cédés avant le 31 décembre 2011 à une collectivité territoriale, à
 un établissement public de coopération intercommunale compétent ou à un
 établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code
 de l'urbanisme en vue de leur cession à l'un des organismes mentionnés au 7° ;

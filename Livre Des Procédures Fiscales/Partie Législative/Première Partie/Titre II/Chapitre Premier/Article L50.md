@@ -8,4 +8,5 @@ fourni des éléments incomplets ou inexacts ou que l'administration n'ait dress
 un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
 16-0 BA, au titre d'une période postérieure.
 
-Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A.
+Il est fait exception à cette règle dans les cas prévus aux articles L. 188 A et
+L. 188 B.

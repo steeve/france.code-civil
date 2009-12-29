@@ -25,6 +25,18 @@ ou parties d'immeubles affectés à l'habitation, soit aux seuls immeubles ou
 parties d'immeubles affectés à l'habitation visés au I de l'article 278 sexies
 du code général des impôts pour une durée limitée qui ne peut excéder trois ans.
 
+Lorsque des constructions de logements sont acquises dans le cadre d'un contrat
+prévu par l'article 1601-3 du code civil et régi par les articles L. 261-10 à L.
+261-22 du code de la construction et de l'habitation, ouvrant droit au bénéfice
+du I de l'article 278 sexies du code général des impôts, elles peuvent
+bénéficier, sur demande du constructeur, de la dérogation instituée, le cas
+échéant, en application de l'alinéa précédent. Dans ce cas, la fraction du
+versement éventuellement recouvrée en excès est remboursée. La demande du
+constructeur peut être formulée dès la conclusion d'un contrat prévu à l'article
+L. 261-10 ou L. 261-15 du code de la construction et de l'habitation, sans
+excéder un délai de trente-six mois à compter de la demande de permis de
+construire.
+
 En outre, l'autorité compétente peut décider que l'obligation de versement n'est
 pas applicable aux constructions édifiées dans une zone d'aménagement concerté.
 Cette décision prend effet au plus tôt lorsque le programme des équipements

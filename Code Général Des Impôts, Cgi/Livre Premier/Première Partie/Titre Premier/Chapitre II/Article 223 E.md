@@ -11,9 +11,9 @@ judiciaire ou à la suite de l'ouverture d'une procédure de liquidation
 judiciaire concernant une ou plusieurs sociétés membres d'un groupe, le capital
 d'une ou plusieurs sociétés filiales membres du groupe vient à ne plus être
 détenu à hauteur de 95 % au moins par la société mère du groupe dans les
-conditions prévues par les premier ou deuxième alinéas de l'article 223 A,
-chacune desdites filiales conserve, nonobstant les dispositions du premier
-alinéa du présent article, le droit d'imputer sur son bénéfice ou ses
+conditions prévues par les premier, deuxième ou troisième alinéas (1) de
+l'article 223 A, chacune desdites filiales conserve, nonobstant les dispositions
+du premier alinéa du présent article, le droit d'imputer sur son bénéfice ou ses
 plus-values nettes à long terme, selon les modalités prévues au troisième alinéa
 du I de l'article 209 ou à l'article 39 quindecies, une fraction du déficit
 d'ensemble ou de la moins-value nette à long terme d'ensemble du groupe,

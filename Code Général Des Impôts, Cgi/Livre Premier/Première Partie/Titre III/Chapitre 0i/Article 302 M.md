@@ -3,7 +3,8 @@ Article 302 M
 I. Pour l'application des dispositions de l'article 302 L, les produits en
 suspension de droits circulent sous couvert d'un document d'accompagnement
 établi par l'expéditeur dont le modèle et les conditions d'utilisation sont
-fixés par le règlement (CEE) n° 2719 / 92 de la Commission du 11 septembre 1992.
+fixés par le règlement (CEE) n° 2719 / 92 de la Commission du 11 septembre 1992
+modifié par le règlement (CEE) n° 2225/93 de la Commission du 27 juillet 1993.
 Ce document est établi lorsque les droits ont été consignés ou garantis.
 
 Il en est de même pour les produits qui circulent en suspension de droits entre

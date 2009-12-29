@@ -2,7 +2,7 @@ Article 293 B
 ----
 I.-Pour leurs livraisons de biens et leurs prestations de services, les
 assujettis établis en France, à l'exclusion des redevables qui exercent une
-activité occulte au sens du deuxième alinéa de l'article L. 169 du livre des
+activité occulte au sens du troisième alinéa de l'article L. 169 du livre des
 procédures fiscales, bénéficient d'une franchise qui les dispense du paiement de
 la taxe sur la valeur ajoutée, lorsqu'ils n'ont pas réalisé :
 

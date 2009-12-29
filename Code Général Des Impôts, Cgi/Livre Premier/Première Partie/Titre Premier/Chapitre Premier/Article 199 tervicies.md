@@ -33,15 +33,15 @@ II. ― Les dépenses mentionnées au I s'entendent des charges énumérées aux
 bis, b, b bis, c et e du 1° du I de l'article 31, des frais d'adhésion à des
 associations foncières urbaines de restauration, ainsi que des dépenses de
 travaux imposés ou autorisés en application des dispositions législatives ou
-réglementaires relatives aux secteurs et zones mentionnés aux deuxième et
-troisième alinéas du I, y compris les travaux effectués dans des locaux
-d'habitation et ayant pour objet de transformer en logement tout ou partie de
-ces locaux, supportées à compter soit de la date de délivrance du permis de
-construire, soit de l'expiration du délai d'opposition à la déclaration
-préalable et jusqu'au 31 décembre de la troisième année suivante. Le cas
-échéant, cette durée est prolongée du délai durant lequel les travaux sont
-interrompus ou ralentis en application des articles L. 531-14 à L. 531-16 du
-code du patrimoine ou par l'effet de la force majeure.
+réglementaires relatives aux secteurs, quartiers et zones mentionnés
+respectivement aux deuxième, troisième et quatrième alinéas du I, y compris les
+travaux effectués dans des locaux d'habitation et ayant pour objet de
+transformer en logement tout ou partie de ces locaux, supportées à compter soit
+de la date de délivrance du permis de construire, soit de l'expiration du délai
+d'opposition à la déclaration préalable et jusqu'au 31 décembre de la troisième
+année suivante (1). Le cas échéant, cette durée est prolongée du délai durant
+lequel les travaux sont interrompus ou ralentis en application des articles L.
+531-14 à L. 531-16 du code du patrimoine ou par l'effet de la force majeure.
 
 Ouvre également droit à la réduction d'impôt la fraction des provisions versées
 par le propriétaire pour dépenses de travaux de la copropriété et pour le
@@ -80,6 +80,37 @@ l'engagement de location.
 La location doit prendre effet dans les douze mois suivant l'achèvement des
 travaux.
 
+IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au
+titre de la souscription par les contribuables de parts de sociétés civiles de
+placement immobilier régies par les articles L. 214-50 et suivants du code
+monétaire et financier dont la quote-part de revenu est, en application de
+l'article 8 du présent code, soumise en leur nom à l'impôt sur le revenu dans la
+catégorie des revenus fonciers.
+
+La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de
+propriété est démembré, est subordonnée à la condition qu'au minimum 65 % du
+montant de la souscription servent exclusivement à financer des dépenses
+mentionnées au I et que 30 % au minimum servent exclusivement à financer
+l'acquisition d'immeubles mentionnés au même I. Le produit de la souscription
+doit être intégralement affecté dans les dix-huit mois qui suivent la clôture de
+celle-ci.
+
+2. La réduction d'impôt est égale à 30 % du montant de la souscription affecté
+au financement des dépenses relatives à un immeuble mentionné au quatrième
+alinéa du même I, retenu dans la limite annuelle de 100 000 euros. Ce taux est
+majoré de dix points lorsque le montant de la souscription est affecté au
+financement de dépenses relatives à un immeuble mentionné au deuxième ou
+troisième alinéa du même I.
+
+3. La société doit prendre l'engagement de louer l'immeuble au titre duquel les
+dépenses sont réalisées dans les conditions prévues au IV.L'associé doit
+s'engager à conserver la propriété de ses titres jusqu'au terme de l'engagement
+de location souscrit par la société.
+
+4. La réduction d'impôt est accordée au titre de l'année de réalisation de la
+souscription mentionnée au 1 du présent IV bis et imputée sur l'impôt dû au
+titre de cette même année.
+
 V. ― Un contribuable ne peut, pour un même local ou une même souscription de
 parts, bénéficier à la fois de l'une des réductions d'impôt prévues aux articles
 199 decies E à 199 decies G, 199 decies I ou 199 undecies A et des dispositions
@@ -89,6 +120,11 @@ Lorsque le contribuable bénéficie à raison des dépenses mentionnées au I de
 réduction d'impôt prévue au présent article, les dépenses correspondantes ne
 peuvent faire l'objet d'aucune déduction pour la détermination des revenus
 fonciers.
+
+V bis.-Le montant total des dépenses retenu pour l'application du présent
+article au titre, d'une part, de la réalisation de dépenses et, d'autre part, de
+la souscription de titres, ne peut excéder globalement 100 000 euros par
+contribuable et pour une même année d'imposition.
 
 VI. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de
 l'année au cours de laquelle intervient :

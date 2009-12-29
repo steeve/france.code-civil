@@ -12,10 +12,11 @@ l'article 298 du code général des impôts, pour chaque carburant concerné.
 III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en
 2007, de 2, 25 points en 2008, de 0, 50 point en 2009 et de 0, 75 point en 2010.
 
-Lors de la mise à la consommation des carburants mentionnés au I, les redevables
-émettent des certificats représentatifs des quantités, exprimées en pouvoir
-calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265
-bis A que ces carburants incorporent.
+Lors de la mise à la consommation des carburants repris aux indices
+d'identification 11, 11 bis, 11 ter, 20, 22 et 55 du tableau B du 1 de l'article
+265, les redevables émettent des certificats représentatifs des quantités,
+exprimées en pouvoir calorifique inférieur, de produits mentionnés au tableau du
+1 de l'article 265 bis A que ces carburants incorporent.
 
 Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en
 compte pour le double de leur valeur réelle en pouvoir calorifique inférieur,

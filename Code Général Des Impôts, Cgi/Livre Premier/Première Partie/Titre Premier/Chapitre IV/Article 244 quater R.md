@@ -8,7 +8,7 @@ vitrines ou l'acquisition de terminaux informatiques.
 
 II.-1. Les dépenses mentionnées au I sont prises en compte pour le calcul du
 crédit d'impôt dans la limite de 10 000 Euros au titre des exercices ouverts
-entre le 1er janvier 2007 et le 31 décembre 2009.
+entre le 1er janvier 2007 et le 31 décembre 2011.
 
 2. Les dépenses mentionnées au I doivent satisfaire aux conditions suivantes :
 
@@ -38,4 +38,4 @@ qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personn
 physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 V.-Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 décembre
-2006 et le 31 décembre 2009.
+2006 et le 31 décembre 2011.

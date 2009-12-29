@@ -12,3 +12,6 @@ oeuvre.
 En cas d'application des dispositions du septième alinéa du I de l'article 238
 bis-0 I, le montant des droits éludés est assorti de la majoration prévue au
 premier alinéa.
+
+En cas d'application des dispositions prévues à l'article 1649 quater-0 B bis,
+le montant des droits est assorti d'une majoration de 80 %.

@@ -16,13 +16,19 @@ du 1er janvier 1992.
 Les dispositions prévues au troisième alinéa de l'article 223 F et au premier
 alinéa ne sont pas applicables lorsque la sortie du groupe résulte d'une fusion
 de l'une des sociétés mentionnées à ces alinéas avec une autre société membre du
-groupe et placée sous le régime prévu à l'article 210 A. Les sommes mentionnées
-à ces alinéas sont alors comprises dans le résultat d'ensemble lors de la sortie
-du groupe de cette dernière ou, en cas de fusions successives avec une société
-membre du groupe et placées sous le régime prévu à l'article 210 A, lors de la
+groupe ou avec une société intermédiaire (1) et placée sous le régime prévu à
+l'article 210 A. Les sommes mentionnées à ces alinéas sont alors comprises dans
+le résultat d'ensemble lors de la sortie du groupe de cette dernière ou, en cas
+de fusions successives avec une société membre du groupe ou avec une société
+intermédiaire (1) et placées sous le régime prévu à l'article 210 A, lors de la
 sortie de la dernière société absorbante.
 
 Lorsqu'un groupe bénéficie des dispositions prévues au 5 de l'article 223 I, la
 partie du déficit afférente à une société, calculée dans les conditions prévues
 audit 5 et qui demeure reportable, ne peut plus être imputée si cette société
-sort du groupe.
+sort du groupe, à moins que la sortie du groupe de cette société ne résulte de
+sa fusion avec une autre société du groupe placée sous le régime prévu à
+l'article 210 A. Le bénéfice des dispositions prévues au 5 de l'article 223 I
+est maintenu en cas de fusion de la société titulaire du déficit imputable dans
+les conditions prévues audit 5 avec une autre société du groupe, sous réserve de
+l'agrément prévu au II de l'article 209 (2).

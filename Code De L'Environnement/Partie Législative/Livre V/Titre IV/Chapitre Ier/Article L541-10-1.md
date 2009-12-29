@@ -41,11 +41,11 @@ conditionnés et destinés à être imprimés par ou pour le compte d'utilisateu
 finaux contribue à la collecte, à la valorisation et à l'élimination des déchets
 papiers, ménagers et assimilés ainsi produits.
 
-IV. - Sous sa forme financière, la contribution visée au I est versée à un
-organisme agréé par les ministères chargés de l'environnement, des collectivités
-territoriales, de l'économie et de l'industrie, qui verse aux collectivités
-territoriales une participation financière aux coûts de collecte, de
-valorisation et d'élimination qu'elles supportent.
+IV. - Sous sa forme financière, la contribution prévue au présent article est
+versée à un organisme agréé par les ministères chargés de l'environnement, des
+collectivités territoriales, de l'économie et de l'industrie, qui verse aux
+collectivités territoriales une participation financière aux coûts de collecte,
+de valorisation et d'élimination qu'elles supportent.
 
 La contribution en nature repose sur le principe du volontariat des
 établissements publics de coopération intercommunale assurant l'élimination des
@@ -59,8 +59,8 @@ Les contributions financières et en nature sont déterminées suivant un barèm
 fixé par décret.
 
 V. - Le donneur d'ordre ou le metteur sur le marché qui ne s'acquitte pas
-volontairement de la contribution visée au I est soumis à la taxe prévue au 9 du
-I de l'article 266 sexies du code des douanes.
+volontairement de la contribution prévue au présent article est soumis à la taxe
+prévue au 9 du I de l'article 266 sexies du code des douanes.
 
 VI. - Pour l'application du présent article, on entend par :
 

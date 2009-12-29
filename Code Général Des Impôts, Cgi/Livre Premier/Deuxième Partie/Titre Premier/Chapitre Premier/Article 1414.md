@@ -54,3 +54,11 @@ d'habitation afférente à leur habitation principale lorsqu'ils occupent cette
 habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
 demandeurs d'emploi et ne disposent pas de ressources supérieures au montant de
 l'abattement fixé au I de l'article 1414 A.
+
+V.-Les contribuables relogés en raison de la démolition de leur logement dans le
+cadre d'un projet conventionné au titre du programme national de rénovation
+urbaine prévu par la loi n° 2003-710 du 1er août 2003 d'orientation et de
+programmation pour la ville et la rénovation urbaine bénéficient pendant trois
+ans d'un dégrèvement égal à la différence entre leur imposition à la taxe
+d'habitation postérieure à leur relogement, et leur imposition à la taxe
+d'habitation acquittée au titre de l'année de leur relogement.

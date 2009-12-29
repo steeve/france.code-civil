@@ -15,7 +15,9 @@ territoire situé hors de France dont le régime fiscal est privilégié au sens
 deuxième alinéa de l'article 238 A.
 
 En cas de défaut de réponse à la demande faite en application de l'article L. 13
-B du livre des procédures fiscales, les bases d'imposition concernées par la
+B du livre des procédures fiscales ou en cas d'absence de production ou de
+production partielle de la documentation mentionnée au III de l'article L. 13 AA
+et à l'article L. 13 AB du même livre, les bases d'imposition concernées par la
 demande sont évaluées par l'administration à partir des éléments dont elle
 dispose et en suivant la procédure contradictoire définie aux articles L. 57 à
 L. 61 du même livre.

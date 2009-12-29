@@ -89,27 +89,25 @@ d'enseignement et d'assistance, ainsi que les associations et collectivités non
 soumis à l'impôt sur les sociétés en vertu d'une autre disposition, à
 l'exception, d'une part, des fondations reconnues d'utilité publique et, d'autre
 part, des fonds de dotation dont les statuts ne prévoient pas la possibilité de
-consommer leur dotation en capital, sont assujettis audit impôt en raison :
+consommer leur dotation en capital, sont assujettis audit impôt en raison des
+revenus patrimoniaux qui ne se rattachent pas à leurs activités lucratives.
 
-a. De la location des immeubles bâtis et non bâtis dont ils sont propriétaires,
-et de ceux auxquels ils ont vocation en qualité de membres de sociétés
-immobilières de copropriété visées à l'article 1655 ter ;
+Sont qualifiés de revenus patrimoniaux :
 
-b. De l'exploitation des propriétés agricoles ou forestières ;
+a. Les revenus de la location des immeubles bâtis et non bâtis dont ils sont
+propriétaires, et de ceux auxquels ils ont vocation en qualité de membres de
+sociétés immobilières de copropriété visées à l'article 1655 ter ;
 
-c. Des revenus de capitaux mobiliers dont ils disposent, à l'exception des
-dividendes des sociétés françaises, lorsque ces revenus n'entrent pas dans le
-champ d'application de la retenue à la source visée à l'article 119 bis ; ces
-revenus sont comptés dans le revenu imposable pour leur montant brut ;
+b. Les revenus de l'exploitation des propriétés agricoles ou forestières ;
 
-d. Des dividendes des sociétés immobilières et des sociétés agréées visées aux
-3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er
-janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur
-montant brut.
+c. Des revenus de capitaux mobiliers dont ils disposent, lorsque ces revenus
+n'entrent pas dans le champ d'application de la retenue à la source visée à
+l'article 119 bis ; ces revenus sont comptés dans le revenu imposable pour leur
+montant brut ;
 
-e. des dividendes des sociétés d'investissements immobiliers cotées visées à
-l'article 208 C et prélevés sur les bénéfices exonérés en application du premier
-alinéa du II de cet article.
+d. (Abrogé à compter des exercices clos à compter du 31 décembre 2009) ;
+
+e. (Abrogé à compter des exercices clos à compter du 31 décembre 2009).
 
 5 bis. Les associations intermédiaires conventionnées, mentionnées à l'article
 L. 5132-7 du code du travail, dont la gestion est désintéressée et les

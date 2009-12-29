@@ -1,8 +1,10 @@
 Article 1604
 ----
 I. Une taxe calculée sur la même base que la taxe foncière sur les propriétés
-non bâties est perçue au profit des chambres d'agriculture. Elle est établie
-dans la circonscription territoriale de chaque chambre d'agriculture.
+non bâties est perçue au profit des chambres d'agriculture.
+
+Elle est établie dans la circonscription territoriale de chaque chambre
+d'agriculture.
 
 II. Les chambres départementales d'agriculture arrêtent, chaque année, le
 produit de la taxe mentionnée au I. Ce produit est déterminé à partir de celui
@@ -13,7 +15,11 @@ Le produit à recouvrer au profit de chaque chambre départementale d'agricultur
 est transmis aux services fiscaux par l'autorité de l'Etat chargée de la tutelle
 de la chambre dans les conditions prévues au premier alinéa du I de l'article
 1639 A. A défaut, les impositions peuvent être recouvrées dans les conditions
-prévues au III de l'article 1639 A (1).
+prévues au III de l'article 1639 A .
 
-(1) Ces dispositions s'appliquent pour les impositions établies au titre de 2001
-et des années suivantes.
+Au titre de l'exercice budgétaire 2009, une part du produit de la taxe est
+reversée par les chambres départementales d'agriculture aux chambres régionales
+d'agriculture à hauteur de 1 % minimum de la recette fiscale totale régionale,
+déduction faite des versements au Fonds national de péréquation et d'action
+professionnelle des chambres d'agriculture. Cette part est portée à 4 % minimum
+à compter de l'exercice 2010, 7 % minimum en 2011 et 10 % minimum en 2012.

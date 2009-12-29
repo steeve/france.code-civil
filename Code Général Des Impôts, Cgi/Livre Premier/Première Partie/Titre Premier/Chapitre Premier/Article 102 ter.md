@@ -61,4 +61,7 @@ de leur assujettissement à la taxe sur la valeur ajoutée ;
 
 c. Les contribuables dont tout ou partie des biens affectés à l'exploitation
 sont compris dans un patrimoine fiduciaire en application d'une opération de
-fiducie définie à l'article 2011 du code civil.
+fiducie définie à l'article 2011 du code civil ;
+
+d Les contribuables qui exercent une activité occulte au sens du troisième
+alinéa de l'article L. 169 du livre des procédures fiscales (3).

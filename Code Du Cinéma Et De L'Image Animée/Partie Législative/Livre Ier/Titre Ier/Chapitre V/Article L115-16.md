@@ -11,6 +11,10 @@ Ils peuvent également examiner sur place les documents utiles. Préalablement, 
 avis de passage est adressé aux redevables afin qu'ils puissent se faire
 assister d'un conseil.
 
+En cas d'opposition par le redevable ou par des tiers à la mise en œuvre de
+l'examen sur place des documents, il est dressé procès-verbal sur le champ dont
+copie est adressée au redevable.
+
 L'obligation du secret professionnel, telle qu'elle est définie aux articles
 226-13 et 226-14 du code pénal, s'applique à toutes les personnes appelées à
 intervenir dans l'établissement de l'assiette, le contrôle, le recouvrement ou

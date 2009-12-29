@@ -43,9 +43,13 @@ le contrat de travail de ces personnes soit à durée indéterminée et que
 l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
 précédente ;
 
+b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de
+l'article L. 611-7 du code de la propriété intellectuelle, au profit des
+salariés auteurs d'une invention résultant d'opérations de recherche ;
+
 c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ;
 ces dépenses sont fixées forfaitairement à 75 % des dépenses de personnel
-mentionnées à la première phrase du b ;
+mentionnées à la première phrase du b et au b bis ;
 
 Ce pourcentage est fixé à :
 
@@ -59,17 +63,28 @@ personnes soit à durée indéterminée et que l'effectif salarié de l'entrepri
 soit pas inférieur à celui de l'année précédente.
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature
-confiées à des organismes de recherche publics ou à des établissements
-d'enseignement supérieur délivrant un diplôme conférant un grade de master, des
-fondations de coopération scientifique et des établissements publics de
-coopération scientifique ou à des fondations reconnues d'utilité publique du
-secteur de la recherche agréées conformément au d bis. Ces dépenses sont
-retenues pour le double de leur montant à la condition qu'il n'existe pas de
-liens de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article
-39 entre l'entreprise qui bénéficie du crédit d'impôt et l'organisme ou
-l'établissement d'enseignement supérieur délivrant un diplôme conférant un grade
-de master, la fondation de coopération scientifique ou l'établissement public de
-coopération scientifique.
+confiées à :
+
+1° Des organismes de recherche publics ; 2° Des établissements d'enseignement
+supérieur délivrant un diplôme conférant un grade de master ; 3° Des fondations
+de coopération scientifique agréées conformément au d bis ; 4° Des
+établissements publics de coopération scientifique ; 5° Des fondations reconnues
+d'utilité publique du secteur de la recherche agréées conformément au d bis ; 6°
+Des associations régies par la loi du 1er juillet 1901 relative au contrat
+d'association ayant pour fondateur et membre l'un des organismes mentionnés aux
+1° ou 2° du présent d ou des sociétés de capitaux dont le capital ou les droits
+de vote sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces
+associations et sociétés doivent être agréées conformément au d bis et avoir
+conclu une convention en application de l'article L. 313-2 du code de la
+recherche ou de l'article L. 762-3 du code de l'éducation avec l'organisme
+précité. Les travaux de recherche doivent être réalisés au sein d'une ou
+plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° du
+présent d ayant conclu la convention.
+
+Ces dépenses sont retenues pour le double de leur montant à la condition qu'il
+n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du
+12 de l'article 39 du présent code entre l'entreprise qui bénéficie du crédit
+d'impôt et l'entité mentionnée aux 1° à 6° du présent d ;
 
 d bis) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à des organismes de recherche privés agréés par le ministre chargé de
@@ -130,7 +145,7 @@ h) Les dépenses liées à l'élaboration de nouvelles collections exposées par
 entreprises industrielles du secteur textile-habillement-cuir et définies comme
 suit :
 
-1° Les salaires et charges sociales afférents aux stylistes et techniciens des
+1° Les dépenses de personnel afférentes (1) aux stylistes et techniciens des
 bureaux de style directement et exclusivement chargés de la conception de
 nouveaux produits et aux ingénieurs et techniciens de production chargés de la
 réalisation de prototypes ou d'échantillons non vendus ;

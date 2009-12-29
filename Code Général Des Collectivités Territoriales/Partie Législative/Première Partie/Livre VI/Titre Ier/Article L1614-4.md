@@ -23,9 +23,10 @@ supplément de ressources fiscales résultant des dispositions de l'article 14 d
 la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983).
 
 Dès l'année du transfert et pour les années ultérieures, le montant de cet
-ajustement évolue dans les conditions prévues à l'article L. 1614-1. Il est
-modifié, en tant que de besoin, pour tenir compte des accroissements de charges
-résultant de nouveaux transferts de compétences.
+ajustement évolue comme la dotation générale de décentralisation dans les
+conditions prévues à l'article L. 1614-1. Il est modifié, en tant que de besoin,
+pour tenir compte des accroissements de charges résultant de nouveaux transferts
+de compétences.
 
 A compter de 1997, il est créé un Fonds de compensation de la fiscalité
 transférée qui dispose en ressources de la diminution du produit des impôts

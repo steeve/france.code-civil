@@ -41,16 +41,16 @@ l'exercice de la société absorbée au cours de l'opération.
 
 La durée du premier exercice des sociétés du groupe issu de la fusion peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
-dispositions de l'article 37. L'option mentionnée au premier alinéa comporte
+dispositions de l'article 37.L'option mentionnée au premier alinéa comporte
 l'indication de la durée de cet exercice.
 
 La société absorbante procède, au titre de l'exercice de réalisation de la
-fusion, aux réintégrations prévues aux articles 223 F,223 R du fait de la sortie
-de la société absorbée et des sociétés membres du groupe que cette dernière
-avait formé ; ces sommes sont déterminées à la clôture de l'exercice précédent
-après imputation, le cas échéant, du déficit d'ensemble ou de la moins-value
-nette à long terme d'ensemble qui étaient encore reportables à la date d'effet
-de la fusion.
+fusion, aux réintégrations prévues aux articles 223 F, 223 R du fait de la
+sortie de la société absorbée et des sociétés membres du groupe que cette
+dernière avait formé ; ces sommes sont déterminées à la clôture de l'exercice
+précédent après imputation, le cas échéant, du déficit d'ensemble ou de la
+moins-value nette à long terme d'ensemble qui étaient encore reportables à la
+date d'effet de la fusion.
 
 Dans la situation visée au premier alinéa, par exception aux dispositions de
 l'article 223 M et de la première phrase du 1 de l'article 223 N, la société
@@ -60,13 +60,15 @@ l'exercice d'entrée dans le groupe.
 
 d. Si, au cours d'un exercice, le capital d'une société mère définie aux
 premier, deuxième ou troisième alinéas de l'article 223 A vient à être détenu,
-directement ou indirectement, à 95 % au moins par une autre personne morale
-passible de l'impôt sur les sociétés, ce capital est réputé avoir été détenu
-selon les modalités prévues à la troisième phrase du premier alinéa de cet
-article si le pourcentage de 95 % n'est plus atteint à la clôture de l'exercice
-à la condition que les sociétés concernées indiquent à l'administration les
-modalités de l'opération et ses justifications juridiques, économiques ou
-sociales.
+directement ou indirectement par l'intermédiaire de sociétés soumises à l'impôt
+sur les sociétés dans les conditions de droit commun ou selon les modalités
+prévues aux articles 214 et 217 bis, (1) à 95 % au moins par une autre personne
+morale passible de l'impôt sur les sociétés, ce capital est réputé avoir été
+détenu selon les modalités prévues à la troisième phrase du premier alinéa de
+cet article si le pourcentage de 95 % n'est plus atteint à la clôture de
+l'exercice à la condition que les sociétés concernées indiquent à
+l'administration les modalités de l'opération et ses justifications juridiques,
+économiques ou sociales.
 
 Si ce pourcentage est encore atteint à cette date, la société mère demeure seule
 redevable de l'impôt dû sur le résultat d'ensemble du groupe afférent à cet
@@ -84,7 +86,7 @@ mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
-dispositions de l'article 37. L'option mentionnée au troisième alinéa comporte
+dispositions de l'article 37.L'option mentionnée au troisième alinéa comporte
 l'indication de la durée de cet exercice.
 
 La société mère visée au premier alinéa ajoute au résultat d'ensemble de
@@ -106,14 +108,14 @@ Pour l'application des dispositions du présent e, la société absorbante et la
 société absorbée visées au c s'entendent respectivement de chacune des sociétés
 bénéficiaires des apports et de la société scindée.
 
-f) Dans les situations mentionnées au troisième alinéa de l'article 223 S, le
+f) Dans la situation mentionnée (3) au troisième alinéa de l'article 223 S, le
 premier groupe est considéré comme cessant d'exister à la date de clôture de
 l'exercice qui précède le premier exercice du nouveau groupe.
 
 La durée du premier exercice des sociétés du nouveau groupe ainsi formé peut
 être inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37. L'option mentionnée au troisième alinéa de l'article 223 S
-comporte l'indication de la durée de cet exercice.
+l'article 37.L'option mentionnée au troisième alinéa de l'article 223 S comporte
+l'indication de la durée de cet exercice.
 
 La société mère du premier groupe ajoute au résultat d'ensemble de l'exercice
 mentionné au premier alinéa les sommes dont la réintégration est prévue aux
@@ -137,38 +139,68 @@ l'exercice, par la personne morale mentionnée au premier alinéa, de l'option
 mentionnée au premier, deuxième ou troisième alinéa de l'article 223 A et à
 l'accord des sociétés apportées membres du nouveau groupe, au plus tard à la
 date d'expiration du délai prévu au septième alinéa de l'article 223 A décompté
-de la date de réalisation de l'apport. L'option est accompagnée d'un document
-sur l'identité des sociétés apportées qui ont donné leur accord pour être
-membres du nouveau groupe.
+de la date de réalisation de l'apport.L'option est accompagnée d'un document sur
+l'identité des sociétés apportées qui ont donné leur accord pour être membres du
+nouveau groupe.
 
 La durée du premier exercice des sociétés du groupe issu de l'apport peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
+l'article 37.L'option mentionnée au deuxième alinéa comporte l'indication de la
 durée de cet exercice.
 
 h) Lorsqu'une société filiale membre d'un groupe cesse de faire partie dudit
 groupe en raison d'un transfert de propriété entrant dans les prévisions du
 second alinéa de l'article 223 E et que ladite société remplit les conditions
-prévues par les premier ou deuxième alinéas de l'article 223 A, ladite société
-peut constituer, avec effet à la date d'ouverture de l'exercice au titre duquel
-elle a cessé de faire partie du groupe susmentionné, un nouveau groupe avec les
-sociétés qu'elle détient à hauteur de 95 % au moins dans les conditions prévues
-par les premier ou deuxième alinéas de l'article 223 A et qui faisaient partie
-du groupe susvisé.
+prévues par les premier, deuxième ou troisième (2) alinéas de l'article 223 A,
+ladite société peut constituer, avec effet à la date d'ouverture de l'exercice
+au titre duquel elle a cessé de faire partie du groupe susmentionné, un nouveau
+groupe avec les sociétés qu'elle détient à hauteur de 95 % au moins dans les
+conditions prévues par les premier, deuxième ou troisième (2) alinéas de
+l'article 223 A et qui faisaient partie du groupe susvisé.
 
 L'option prévue par lesdits alinéas doit être exercée au plus tard à
-l'expiration du délai prévu au sixième alinéa de l'article 223 A décompté de la
-date de réalisation du transfert de propriété concerné. Cette option est
+l'expiration du délai prévu au septième (2) alinéa de l'article 223 A décompté
+de la date de réalisation du transfert de propriété concerné. Cette option est
 accompagnée du document mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
+l'article 37.L'option mentionnée au deuxième alinéa comporte l'indication de la
 durée de cet exercice.
 
 Le présent h s'applique également lorsque le capital des sociétés qui y sont
-visées vient à être détenu, dans les conditions prévues par les premier ou
-deuxième alinéas de l'article 223 A, par une société qui remplit les conditions
-prévues à l'un de ces alinéas, étant précisé que, dans cette situation, le
-nouveau groupe comprend cette dernière société en tant que société mère et les
-premières sociétés visées au présent alinéa en tant que filiales.
+visées vient à être détenu, dans les conditions prévues par les premier,
+deuxième ou troisième (2) alinéas de l'article 223 A, par une société qui
+remplit les conditions prévues à l'un de ces alinéas, étant précisé que, dans
+cette situation, le nouveau groupe comprend cette dernière société en tant que
+société mère et les premières sociétés visées au présent alinéa en tant que
+filiales.
+
+i) Lorsque le capital d'une société mère définie aux premier, deuxième ou
+troisième alinéas de l'article 223 A est détenu ou vient à être détenu,
+directement ou indirectement, par l'intermédiaire de sociétés intermédiaires et,
+le cas échéant, de sociétés soumises à l'impôt sur les sociétés dans les
+conditions de droit commun ou selon les modalités prévues aux articles 214 et
+217 bis, à 95 % au moins par une autre personne morale passible de l'impôt sur
+les sociétés qui remplit les conditions prévues au premier, deuxième ou
+troisième alinéa de l'article 223 A, cette personne morale peut, sous réserve
+des dispositions de ce même article, constituer un groupe avec les sociétés qui
+composent celui qui a été formé par la société mère concernée ou faire entrer
+celles-ci dans le groupe dont elle est déjà membre.
+
+Dans cette situation, l'option prévue au premier, deuxième ou troisième alinéa
+de l'article 223 A est exercée au plus tard à l'expiration du délai prévu au
+septième alinéa du même article, décompté de la date de clôture de l'exercice
+précédant celui au titre duquel l'option est exercée. Cette option est
+accompagnée du document mentionné au premier alinéa du c du présent 6.
+
+La durée du premier exercice des sociétés du groupe ainsi formé peut être
+inférieure ou supérieure à douze mois, sans préjudice de l'application de
+l'article 37.L'option mentionnée au deuxième alinéa du présent i comporte
+l'indication de la durée de cet exercice.
+
+Le groupe de la société mère visée au premier alinéa est considéré comme cessant
+d'exister à la date de clôture de l'exercice qui précède celui au titre duquel
+est exercée l'option visée au deuxième alinéa. La société mère concernée ajoute
+au résultat d'ensemble de cet exercice les sommes dont la réintégration est
+prévue aux articles 223 F et 223 R du fait de la cessation du groupe (1).

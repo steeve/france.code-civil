@@ -87,7 +87,8 @@ correspondant à ses droits dans l'indivision.
 Lorsque le logement est la propriété d'une société non soumise à l'impôt sur les
 sociétés autre qu'une société civile de placement immobilier, le contribuable
 bénéficie de la réduction d'impôt dans la limite de la quote-part du prix de
-revient correspondant à ses droits sur le logement concerné.
+revient correspondant à ses droits sur le logement concerné. Il s'engage à
+conserver ses parts jusqu'au terme de l'engagement de location mentionné au I.
 
 Au titre d'une même année d'imposition, le contribuable ne peut bénéficier de la
 réduction d'impôt qu'à raison de l'acquisition, de la construction ou de la
@@ -136,7 +137,7 @@ VII. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de
 l'année au cours de laquelle intervient :
 
 1° La rupture de l'engagement de location ou de l'engagement de conservation des
-parts mentionné aux I ou VIII ;
+parts mentionné aux I, IV ou VIII ;
 
 2° Le démembrement du droit de propriété de l'immeuble concerné ou des parts.
 Toutefois, aucune remise en cause n'est effectuée lorsque le démembrement de ce
@@ -161,7 +162,7 @@ Le taux de la réduction d'impôt est de :
 
 - 10 % pour les souscriptions réalisées en 2012.
 
-Toutefois, lorsque 95 % de la souscription servent exclusivement à financer les
+Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les
 logements mentionnés au sixième alinéa du IV, la réduction d'impôt est majorée
 de dix points pour les logements acquis ou construits en 2011 et 2012.
 

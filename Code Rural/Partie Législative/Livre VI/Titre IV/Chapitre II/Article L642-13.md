@@ -13,11 +13,18 @@ chargé de l'agriculture, dans les limites suivantes :
 0,08 euro par hectolitre ou 0,8 euro par hectolitre d'alcool pur pour les
 boissons alcoolisées d'appellation d'origine autres que les vins ;
 
+0,02 euro par hectolitre pour les produits vitivinicoles bénéficiant d'une
+indication géographique protégée ;
+
+0,05 euro par hectolitre ou 0,5 euro par hectolitre d'alcool pur pour les
+boissons alcoolisées bénéficiant d'une indication géographique protégée, autres
+que les produits vitivinicoles bénéficiant d'une indication géographique.
+
 8 euros par tonne pour les produits agroalimentaires ou forestiers d'appellation
 d'origine autres que les vins et les boissons alcoolisées ;
 
 5 euros par tonne pour les produits bénéficiant d'une indication géographique
-protégée.
+protégée, autres que les produits vitivinicoles et boissons alcoolisées.
 
 Ce droit est acquitté annuellement par les opérateurs habilités, sur la base des
 quantités produites en vue d'une commercialisation en appellation d'origine ou

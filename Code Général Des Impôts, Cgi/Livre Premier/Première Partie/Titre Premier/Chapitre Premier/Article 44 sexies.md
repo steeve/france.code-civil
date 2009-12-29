@@ -23,11 +23,11 @@ les zones et durant les périodes suivantes, à la condition que le siège socia
 ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés
 dans l'une de ces zones :
 
-1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2009, dans les zones de
+1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2010, dans les zones de
 revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de
 redynamisation urbaine définies au I ter de l'article 1466 A ;
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2009, dans les zones
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2010, dans les zones
 d'aide à finalité régionale.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en
@@ -39,7 +39,7 @@ proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. C
 condition de chiffre d'affaires s'apprécie exercice par exercice.
 
 Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004
-jusqu'au 31 décembre 2009 dans les zones de revitalisation rurale mentionnées à
+jusqu'au 31 décembre 2010 dans les zones de revitalisation rurale mentionnées à
 l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de
 l'activité et des moyens d'exploitation soient implantés dans ces zones, sont
 exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des
@@ -73,11 +73,11 @@ Pour l'application du premier alinéa, le capital d'une société nouvellement
 créée est détenu indirectement par d'autres sociétés lorsque l'une au moins des
 conditions suivantes est remplie :
 
-a - un associé exerce en droit ou en fait une fonction de direction ou
+a-un associé exerce en droit ou en fait une fonction de direction ou
 d'encadrement dans une autre entreprise, lorsque l'activité de celle-ci est
 similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire ;
 
-b - un associé détient avec les membres de son foyer fiscal 25 % au moins des
+b-un associé détient avec les membres de son foyer fiscal 25 % au moins des
 droits sociaux dans une autre entreprise dont l'activité est similaire à celle
 de l'entreprise nouvellement créée ou lui est complémentaire.
 

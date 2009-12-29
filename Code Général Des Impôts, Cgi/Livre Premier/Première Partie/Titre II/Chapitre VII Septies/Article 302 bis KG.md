@@ -14,25 +14,31 @@ forfaitaire de 4 %.
 III.-L'exigibilité de la taxe est constituée par le versement des sommes
 mentionnées au II.
 
-IV.-La taxe est calculée en appliquant un taux de 3 % à la fraction du montant
-des versements annuels, hors taxe sur la valeur ajoutée, afférent à chaque
-service de télévision, qui excède 11 millions d'euros. Toutefois, pour les
-services de télévision autres que ceux diffusés par voie hertzienne terrestre en
-mode analogique, ce taux est fixé à 1, 5 % en 2009, 2 % en 2010 et 2, 5 % en
-2011.
+IV.-1. La taxe est calculée en appliquant un taux de 3 % à la fraction du
+montant des versements annuels, hors taxe sur la valeur ajoutée, afférent à
+chaque service de télévision, qui excède 11 millions d'euros.
+
+Toutefois, pour l'année 2009, ce taux est fixé à 0, 75 % en cas de baisse de
+l'assiette de la taxe, telle que définie au II, constatée pour l'année civile au
+titre de laquelle la taxe est due par rapport à 2008.
 
 Pour l'ensemble des redevables, jusqu'à l'année d'extinction en métropole de la
 diffusion par voie hertzienne terrestre en mode analogique des services de
 télévision, la taxe est plafonnée à 50 % de l'accroissement de son assiette,
 telle que définie au II, constaté pour l'année civile au titre de laquelle la
-taxe est due par rapport à 2008. En tout état de cause, le montant de la taxe ne
-peut pas être inférieur à 1, 5 % de l'assiette telle qu'elle est définie au II.
+taxe est due par rapport à 2008. En tout état de cause, à partir de l'année
+2010, le montant de la taxe ne peut être inférieur à 1, 5 % de l'assiette telle
+que définie au II.
 
-Pour les éditeurs de services de télévision dont l'audience quotidienne réalisée
-en dehors de la France métropolitaine est supérieure à 90 % de leur audience
-totale, le montant à retenir pour le calcul de la taxe est diminué du montant
-des sommes versées pour la diffusion de messages publicitaires destinés au
-marché européen ou mondial, multiplié par la part dans l'audience totale
+2. Pour les services de télévision autres que ceux diffusés par voie hertzienne
+terrestre en mode analogique, le taux est fixé à 0, 5 % en 2009, 2 % en 2010 et
+2, 5 % en 2011.
+
+3. Pour les éditeurs de services de télévision dont l'audience quotidienne
+réalisée en dehors de la France métropolitaine est supérieure à 90 % de leur
+audience totale, le montant à retenir pour le calcul de la taxe est diminué du
+montant des sommes versées pour la diffusion de messages publicitaires destinés
+au marché européen ou mondial, multiplié par la part dans l'audience totale
 annuelle de l'audience obtenue en dehors de la France métropolitaine.
 
 V.-Les redevables procèdent à la liquidation de la taxe due au titre de l'année

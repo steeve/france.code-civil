@@ -1,10 +1,10 @@
 Article L2531-6
 ----
-Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au versement
-prévu audit article auprès des organismes ou services chargés du recouvrement
-des cotisations de sécurité sociale et des allocations familiales, suivant les
-règles de recouvrement, de contentieux et de pénalités applicables aux divers
-régimes de sécurité sociale.
+I. - Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au
+versement prévu audit article auprès des organismes ou services chargés du
+recouvrement des cotisations de sécurité sociale et des allocations familiales,
+suivant les règles de recouvrement, de contentieux et de pénalités applicables
+aux divers régimes de sécurité sociale.
 
 Le produit est versé au Syndicat des transports parisiens.
 
@@ -25,3 +25,14 @@ depuis moins de cinq ans. Pour les entreprises installées à l'intérieur des
 périmètres d'urbanisation des villes nouvelles depuis plus de cinq ans et à
 compter de 1995, le remboursement est réduit chaque année d'un cinquième et est
 supprimé à partir de la cinquième année.
+
+II. - L'Agence centrale des organismes de sécurité sociale ou l'organisme de
+recouvrement transmet annuellement au Syndicat des transports d'Ile-de-France, à
+sa demande, les données et informations relatives au versement transport
+contribuant à en établir le montant.
+
+Les informations transmises au Syndicat des transports d'Ile-de-France sont
+couvertes par le secret professionnel.
+
+Les modalités d'application du présent II sont déterminées par un décret en
+Conseil d'Etat.

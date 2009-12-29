@@ -74,11 +74,10 @@ dividendes, intérêts ou redevances sont imputables dans la proportion mentionn
 à la dernière phrase du premier alinéa du 1 sur l'impôt sur les sociétés dû par
 la personne morale établie en France. Cette imputation est toutefois subordonnée
 à la condition que l'Etat ou le territoire d'où proviennent ces dividendes,
-intérêts ou redevances soit la France ou un Etat lié à la France par une
-convention d'élimination des doubles impositions en matière d'impôt sur les
-revenus qui contienne une clause d'assistance administrative en vue de lutter
-contre la fraude et l'évasion fiscales, auquel cas l'imputation se fait au taux
-fixé dans la convention.
+intérêts ou redevances soit la France ou un Etat ou territoire qui est lié à la
+France par une convention d'élimination des doubles impositions en matière
+d'impôt sur les revenus et qui n'est pas non coopératif au sens de l'article
+238-0 A , auquel cas l'imputation se fait au taux fixé dans la convention.
 
 II. - Les dispositions du I ne sont pas applicables :
 
@@ -115,6 +114,23 @@ si la personne morale établie en France établit que les opérations de
 l'entreprise ou de l'entité juridique établie ou constituée hors de France ont
 principalement un effet autre que de permettre la localisation de bénéfices dans
 un Etat ou territoire où elle est soumise à un régime fiscal privilégié.
+
+III bis. - Par dérogation au III, le I reste applicable lorsque l'entreprise ou
+l'entité juridique est établie ou constituée hors de France dans un Etat ou
+territoire non coopératif au sens de l'article 238-0 A, sauf si la personne
+morale établie en France démontre que les bénéfices ou revenus positifs de
+l'entreprise ou l'entité juridique proviennent d'une activité industrielle et
+commerciale effective exercée sur le territoire de l'Etat de son établissement
+ou de son siège et justifie que ces bénéfices ou revenus positifs n'excèdent pas
+les proportions mentionnées aux a et b du III.
+
+Toutefois, le I n'est pas applicable si la personne morale établie en France
+transmet tous éléments nécessaires à l'appréciation de l'activité et des
+proportions mentionnées aux a et b du III et qu'elle justifie que les opérations
+de l'entreprise ou de l'entité juridique ont principalement un objet et un effet
+autres que de permettre la localisation de ses bénéfices dans un Etat ou
+territoire où elle est soumise à un régime fiscal privilégié et qui est non
+coopératif.
 
 IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article et notamment les modalités permettant d'éviter la double imposition des

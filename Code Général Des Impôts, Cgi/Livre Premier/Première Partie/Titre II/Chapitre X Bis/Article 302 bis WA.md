@@ -33,18 +33,19 @@ définis en euro par décision du Conseil de l'Union européenne. Toutefois :
 soumises à un taux réduit fixé dans la limite d'un plancher égal à 45 % des
 niveaux forfaitaires ;
 
-2. Les opérations de première vente réalisées sans le classement de fraîcheur et
-le calibrage prévus par le règlement (CE) n° 2406/96 du Conseil du 26 novembre
-1996 fixant des normes communes de commercialisation pour certains produits de
-la pêche sont soumises à un taux majoré fixé dans la limite du plafond de 150 %
-prévu à la première phrase ;
+2. Les opérations de première vente réalisées en cas d'absence de classification
+par catégorie de fraîcheur et/ou de calibrage, ou de classification
+insuffisante, conformément au règlement (CE) n° 2406/96 du Conseil du 26
+novembre 1996 fixant des normes communes de commercialisation pour certains
+produits de la pêche, sont soumises à un taux majoré fixé dans la limite du
+plafond de 150 % des niveaux forfaitaires définis en euros par décision du
+Conseil de l'Union européenne ;
 
 3. Un montant maximum par lot est fixé pour certaines espèces dans la limite de
 50 euros ;
 
-Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du
-ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget fixe
-les taux de la redevance (1).
+Un arrêté conjoint du ministre chargé du budget et du ministre chargé de
+l'agriculture fixe les taux de la redevance.
 
 VI. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous
 les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur
@@ -54,8 +55,4 @@ Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à cette même taxe.
 
 VII. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
-article (2).
-
-(1) Voir l'article 50 quaterdecies-0 A de l'annexe IV.
-
-(2) Voir l'article 267 quater F de l'annexe II.
+article.

@@ -52,7 +52,9 @@ aux bénéficiaires ds revenus concernés.
 
 Elle est obligatoirement transmise à l'administration fiscale selon un procédé
 informatique par le déclarant qui a souscrit au moins cent déclarations au cours
-de l'année précédente.
+de l'année précédente ou qui a souscrit, au titre de cette même année, une ou
+plusieurs déclarations pour un montant global de revenus, tels que définis au
+premier alinéa du présent 1, égal ou supérieur à 15 000 euros.
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les
 conditions prévues par l'article 238 septies B. La déclaration doit être faite
