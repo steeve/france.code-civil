@@ -1,21 +1,21 @@
 Article R1511-23-1
 ----
-Des aides à la location de terrains ou de bâtiments peuvent être accordées aux
-entreprises exerçant une activité de transformation ou de commercialisation des
-produits agricoles énumérés à l'annexe I au traité instituant la Communauté
-européenne dans les conditions prévues par le règlement mentionné à l'article R.
-1511-4-2.
+Les aides à l'investissement immobilier ne peuvent être accordées que si le
+bénéficiaire a présenté, avant le début de la réalisation de l'investissement,
+une demande à cet effet.
 
-Le montant des aides à la location ne peut excéder 40 % du montant des loyers
-correspondant à la valeur vénale des biens loués, dans la limite de 200 000
-euros par entreprise sur une période de trois exercices fiscaux. Ce taux est
-porté à 50 % dans les départements d'outre-mer.
+L'aide ne peut être accordée que si le dossier de demande montre qu'elle a un
+effet d'incitation à la réalisation de l'investissement concerné qui est révélé
+par l'augmentation :
 
-Toutefois, dans le cas des aides attribuées au cours des trois exercices fiscaux
-suivant la création ou la reprise de l'entreprise, le taux mentionné au deuxième
-alinéa peut être porté :
+a) Du coût total du projet sans diminution des dépenses du bénéficiaire par
+rapport à la même situation en l'absence d'aide ou des effectifs participant aux
+activités de recherche et développement ;
 
-a) Soit à 75 % pour le premier exercice fiscal, 50 % pour le deuxième exercice
-fiscal et 25 % pour le troisième exercice fiscal ;
+b) De la portée du projet ;
 
-b) Soit à 50 % pour chacun des trois exercices fiscaux.
+c) Du rythme d'exécution du projet ;
+
+d) Du montant total affecté à la recherche et développement, sauf dans le cas
+des mesures d'aide aux services de soutien à l'innovation si le projet de
+recherche et développement subventionné n'a pas commencé avant la demande.

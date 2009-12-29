@@ -1,25 +1,27 @@
 Article R1511-18
 ----
-Le montant des aides à la location ne peut excéder un pourcentage du montant des
-loyers correspondant à la valeur vénale des biens loués dans la limite, selon la
-zone où se situent les biens loués, des taux mentionnés à l'article R. 1511-12.
-Lorsque les aides sont accordées à de petites et moyennes entreprises au sens du
-règlement mentionné à l'article R. 1511-5, ce pourcentage ne peut être
-supérieur, selon la zone où se situent les biens loués et la taille de
-l'entreprise, aux taux mentionnés à l'article R. 1511-13.
+Peuvent bénéficier d'aides à l'investissement immobilier dans le cadre de la
+présente sous-section :
 
-Toutefois, dans le cas des aides attribuées au cours des trois exercices fiscaux
-suivant la création ou la reprise de l'entreprise, le pourcentage mentionné au
-premier alinéa peut être porté :
+a) Les entreprises, laboratoires et organismes de recherche se livrant à des
+activités de recherche, de développement et d'innovation. L'organisme de
+recherche est défini au 1 de l'article 30 du règlement mentionné à l'article R.
+1511-5 ;
 
-a) Soit à 75 % pour le premier exercice fiscal, 50 % pour le deuxième exercice
-fiscal et 25 % pour le troisième exercice fiscal ;
+b) Les entreprises, laboratoires et organismes de recherche se livrant à des
+activités de recherche et de développement dans le secteur des produits énumérés
+à l'annexe I du traité CE et dans les conditions fixées à l'article 34 du
+règlement mentionné à l'article R. 1511-5 ;
 
-b) Soit à 50 % pour chacun des trois exercices fiscaux.
+Ne peuvent recevoir d'aides au titre de la présente sous-section les entreprises
+en difficulté et celles qui auraient bénéficié d'une aide déclarée illégale ou
+incompatible par la Commission avant d'avoir remboursé l'aide y compris les
+intérêts.
 
-Le montant des aides à la location ne peut être supérieur à 200 000 euros par
-entreprise sur une période de trois exercices fiscaux conformément au règlement
-mentionné à l'article R. 1511-4-2. Toutefois, lorsque les aides sont accordées à
-une entreprise exerçant son activité dans le secteur du transport routier, la
-limite est de 100 000 euros par entreprise sur une période de trois exercices
-fiscaux.
+Pour l'application du présent article, les entreprises en difficulté sont
+définies, pour les grandes entreprises, par référence au point 2.1 des lignes
+directrices communautaires concernant les aides d'Etat au sauvetage et à la
+restructuration d'entreprises en difficulté, publiées au Journal officiel de
+l'Union européenne C 244 du 1er octobre 2004 et, pour les petites et moyennes
+entreprises, par référence à l'article 1er, paragraphe 7, du règlement mentionné
+à l'article R. 1511-5.

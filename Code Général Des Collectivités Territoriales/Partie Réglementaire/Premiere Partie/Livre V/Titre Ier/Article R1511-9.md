@@ -5,9 +5,11 @@ bâtiments peuvent être accordées aux entreprises autres que les petites et
 moyennes entreprises au sens du règlement mentionné à l'article R. 1511-5. Elles
 ne peuvent excéder 10 % de la valeur vénale de référence définie à l'article R.
 1511-12 et sont plafonnées à 200 000 euros par entreprise sur une période de
-trois exercices fiscaux conformément au règlement mentionné à l'article R.
+trois exercices fiscaux, couvrant l'exercice fiscal en cours et les deux
+exercices précédents, conformément au règlement mentionné à l'article R.
 1511-4-2.
 
-Lorsque les aides sont accordées à une entreprise exerçant son activité dans le
-secteur du transport routier, le plafond mentionné au premier alinéa est de 100
-000 euros par entreprise sur une période de trois exercices fiscaux.
+Lorsque des aides sont accordées à une entreprise exerçant son activité dans le
+secteur du transport routier, la limite mentionnée au premier alinéa est de 100
+000 euros sur une période de trois exercices fiscaux couvrant l'exercice fiscal
+en cours et les deux exercices précédents.

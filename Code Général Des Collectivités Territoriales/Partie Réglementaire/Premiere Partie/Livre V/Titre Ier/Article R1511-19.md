@@ -1,33 +1,23 @@
 Article R1511-19
 ----
-Les collectivités territoriales et leurs groupements peuvent, seuls ou
-conjointement, accorder, sous réserve des dispositions de la sous-section 5 de
-la présente section, les aides mentionnées à l'article L. 1511-3 en vue de la
-réalisation de projets de recherche et de développement dans les conditions
-ci-après.
+Les projets de recherche et développement définis aux 2,3 et 4 de l'article 30
+du règlement mentionné à l'article R. 1511-5 peuvent bénéficier d'aides dans les
+conditions ci-après :
 
-Les projets de recherche et de développement susceptibles de bénéficier de ces
-aides portent sur des activités de recherche fondamentale, de recherche
-industrielle ou de développement préconcurrentiel au sens de l'article 2 du
-règlement mentionné à l'article R. 1511-5.
+Le taux des aides ne peut excéder 100 % pour les projets de recherche
+fondamentale, 50 % pour les projets de recherche industrielle et 25 % pour les
+projets de développement expérimental.
 
-Pour le calcul des montants d'aides maximaux pouvant être attribués en
-application de la présente sous-section, la valeur vénale de référence des
-bâtiments et des terrains est la valeur définie à l'article R. 1511-12 et prise
-en compte dans la seule mesure et pour la seule durée de l'affectation des
-immeubles au projet de recherche. En ce qui concerne les bâtiments, seuls les
-coûts d'amortissement ou les coûts de location correspondant à la durée du
-projet sont pris en compte. En ce qui concerne les terrains, les frais
-d'acquisition, les coûts d'investissement ou les coûts de location effectivement
-supportés peuvent être pris en compte.
+Les taux des aides pour les projets de recherche industrielle et de
+développement expérimental peuvent être majorés :
 
-Le cumul, d'une part, de l'aide accordée en application de la présente
-sous-section à une entreprise coopérant avec un organisme public de recherche
-dans le cadre d'un projet de recherche et de développement auquel sont affectés
-des bâtiments et des terrains et, d'autre part, des concours, assimilables à une
-aide à l'investissement immobilier, dont l'organisme public de recherche peut
-faire bénéficier l'entreprise dans le cadre de leur coopération ne peut excéder
-le montant résultant de l'application des taux fixés à l'article R. 1511-19-1.
-Le montant des concours assimilables à une aide à l'investissement immobilier
-accordés par l'organisme de recherche est celui qui est déclaré par
-l'entreprise.
+a) De 10 % pour les aides accordées aux entreprises moyennes et de 20 % pour les
+aides accordées aux petites entreprises ;
+
+b) De 15 %, sans que le taux d'aide puisse excéder 80 %, si les conditions
+posées au b du paragraphe 4 de l'article 31 du règlement mentionné à l'article
+R. 1511-5 sont remplies.
+
+Lorsqu'un projet de recherche et développement se compose de plusieurs
+catégories de recherche, les investissements immobiliers sont alloués aux
+catégories appropriées afin de déterminer le taux d'aide applicable.

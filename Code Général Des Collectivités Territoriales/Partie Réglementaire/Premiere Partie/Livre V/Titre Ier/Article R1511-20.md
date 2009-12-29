@@ -1,15 +1,14 @@
 Article R1511-20
 ----
-Sont soumises à l'obligation de notification à la Commission européenne,
-préalablement à leur mise en oeuvre, dans les conditions prévues à l'article L.
-1511-1-1, les aides accordées en application de la présente sous-section ayant
-pour effet de porter le total des aides publiques accordées pour un même projet
-à un montant supérieur à :
+Les entreprises qui réalisent des investissements immobiliers pour la mise en
+œuvre d'une innovation de procédé, au sens du 2. 2 i) de la communication de la
+Commission relative à l'encadrement communautaire des aides d'Etat à la
+recherche, au développement et à l'innovation publiée au Journal officiel de
+l'Union européenne C 323 du 30 décembre 2006, peuvent bénéficier d'aides dont le
+taux ne peut excéder :
 
-a) 20 millions d'euros pour les projets consistant, à titre principal, en de la
-recherche fondamentale ;
+a) 15 % pour une grande entreprise ;
 
-b) 10 millions d'euros pour les projets consistant, à titre principal, en de la
-recherche industrielle ;
+b) 25 % pour une entreprise moyenne ;
 
-c) 7,5 millions d'euros pour tous les autres projets.
+c) 35 % pour une petite entreprise.

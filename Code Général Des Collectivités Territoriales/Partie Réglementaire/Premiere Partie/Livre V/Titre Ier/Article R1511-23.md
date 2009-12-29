@@ -1,8 +1,7 @@
 Article R1511-23
 ----
-Sont soumises à l'obligation de notification à la Commission européenne,
-préalablement à leur mise en oeuvre, dans les conditions prévues à l'article L.
-1511-1-1, les aides à l'investissement immobilier lorsque, pour un même projet,
-d'une part, la valeur vénale de référence des immeubles définie à l'article R.
-1511-12 est égale ou supérieure à 25 millions d'euros et, d'autre part, le
-montant des aides est égal ou supérieur à 12 millions d'euros.
+Les projets de recherche et de développement dans le secteur des matières
+premières et produits agricoles inscrits à l'annexe I du traité instituant la
+Communauté européenne peuvent bénéficier d'aides à l'investissement immobilier
+dont le taux peut atteindre 100 % de la valeur vénale de référence définie à
+l'article R. 1511-17.

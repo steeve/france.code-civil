@@ -1,19 +1,23 @@
 Article R1511-15
 ----
-Sont soumises à l'obligation de notification à la Commission européenne,
-préalablement à leur mise en oeuvre, dans les conditions prévues à l'article L.
-1511-1-1, les aides à l'investissement immobilier ayant pour effet de porter le
-total des aides publiques accordées pour un même projet à un montant supérieur à
-:
+Le montant des aides à la location ne peut excéder un pourcentage du montant des
+loyers correspondant à la valeur vénale des biens loués dans la limite, selon la
+zone où se situent les biens loués, des taux fixés dans l'annexe 4 au décret
+mentionné à l'article R. 1511-10.
 
-a) 33,75 millions d'euros en Guyane ;
+Toutefois, dans le cas où des aides sont attribuées au cours des trois exercices
+fiscaux suivant la création ou la reprise de l'entreprise bénéficiaire, le taux
+de l'aide peut être porté :
 
-b) 28,125 millions d'euros dans les départements de la Guadeloupe, de la
-Martinique et de la Réunion ;
+a) Soit à 75 % pour le premier exercice fiscal, 50 % pour le deuxième exercice
+fiscal et 25 % pour le troisième exercice fiscal ;
 
-c) 8,4375 millions d'euros dans les zones d'aide à finalité régionale à taux
-normal énumérées au A de l'annexe 1 au décret mentionné à l'article R. 1511-5 ;
+b) Soit à 50 % pour chacun des trois exercices fiscaux.
 
-d) 5,625 millions d'euros dans les zones d'aide à finalité régionale à taux
-réduit énumérées au B de l'annexe 1 au décret mentionné à l'article R. 1511-5 et
-dans les zones énumérées à l'annexe 2 au même décret.
+Le montant des aides à la location ne peut être supérieur à 200 000 euros par
+entreprise sur une période de trois exercices fiscaux couvrant l'exercice fiscal
+en cours et les deux exercices précédents, conformément au règlement mentionné à
+l'article R. 1511-4-2. Toutefois, lorsque les aides sont accordées à une
+entreprise exerçant son activité dans le secteur du transport routier, la limite
+est de 100 000 euros par entreprise sur une période de trois exercices fiscaux
+couvrant l'exercice fiscal en cours et les deux exercices précédents.

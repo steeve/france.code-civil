@@ -1,23 +1,32 @@
 Article R1511-17
 ----
-Les aides à l'investissement immobilier ne peuvent être accordées que si le
-bénéficiaire a présenté, avant le début de la réalisation de l'investissement,
-une demande à cet effet et si l'autorité compétente pour l'attribution de l'aide
-a confirmé par écrit que le projet remplissait, au vu des informations fournies,
-les conditions prévues par les dispositions de la présente section.
+Les collectivités territoriales et leurs groupements peuvent, seuls ou
+conjointement, accorder les aides mentionnées à l'article L. 1511-3 en vue de la
+réalisation de projets de recherche, de développement et d'innovation dans les
+conditions ci-après.
 
-L'octroi d'aides à l'investissement immobilier est subordonné à l'engagement de
-l'entreprise de maintenir pendant une période de cinq ans au moins son activité
-sur les terrains ou dans les bâtiments pour lesquels elle a bénéficié de l'aide.
-Ce délai est de trois ans pour les aides accordées aux petites et moyennes
-entreprises au sens du règlement mentionné à l'article R. 1511-5. La convention
-mentionnée à l'article L. 1511-3 prévoit les conditions dans lesquelles la
-collectivité territoriale ou le groupement qui a octroyé l'aide procède à sa
-récupération en cas de manquement de l'entreprise bénéficiaire à son engagement.
+Pour le calcul des montants d'aide maximaux pouvant être attribués en
+application de la présente sous-section, la valeur vénale de référence
+mentionnée à l'article R. 1511-4 est :
 
-Cette aide ne peut être accordée que si 25 % au moins des dépenses liées à
-l'investissement immobilier sont financées sans aucune aide publique. Ce taux
-est ramené à 20 % en Guyane.
+a) En ce qui concerne les aides aux projets de recherche et de développement,
+ainsi que les aides en faveur d'innovations de procédé mentionnées à l'article
+R. 1511-20, la valeur vénale des bâtiments et des terrains prise en compte dans
+la seule mesure et pour la seule durée de l'affectation des immeubles au projet.
+En ce qui concerne les bâtiments, seuls les coûts d'amortissement correspondant
+à la durée du projet sont pris en compte. En ce qui concerne les terrains, les
+frais d'acquisition, les coûts d'investissement effectivement supportés peuvent
+être pris en compte ;
 
-Les obligations résultant du présent article sont mentionnées dans la convention
-prévue à l'article L. 1511-3.
+b) En ce qui concerne les aides aux services de soutien à l'innovation, la
+valeur vénale des bâtiments ;
+
+c) En ce qui concerne les aides aux pôles d'innovation mentionnés à l'article R.
+1511-22, la valeur vénale des bâtiments et des terrains pour les locaux de
+formation et les centres de recherche.
+
+Le montant des aides cumulées au titre de différents régimes pour couvrir les
+mêmes dépenses, y compris les aides versées dans les conditions prévues par le
+règlement mentionné à l'article R. 1511-4-2, ne peut excéder le montant
+résultant de l'application des taux plafonds d'aide les plus élevés fixés dans
+les sous-sections 2 à 5 de la présente section.
