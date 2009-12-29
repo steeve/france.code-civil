@@ -20,5 +20,6 @@ valeur calculée.
 
 d) Le taux applicable pour calculer le montant défini au c est égal à 30 % pour
 l'exercice 2002, 27 % pour l'exercice 2003, 24 % pour l'exercice 2004, 21 % pour
-l'exercice 2005, 18 % pour l'exercice 2006, 15 % pour l'exercice 2007, 12 % à
-compter de l'exercice 2008.
+l'exercice 2005, 18 % pour l'exercice 2006, 15 % pour l'exercice 2007, 12 % pour
+l'exercice 2008, 12 % pour l'exercice 2009, 8 % pour l'exercice 2010 et 4 % pour
+l'exercice 2011.
