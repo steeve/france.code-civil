@@ -1,50 +1,105 @@
 Article 1601
 ----
 Une taxe additionnelle à la cotisation foncière des entreprises est perçue au
-profit des chambres de métiers et de l'artisanat, des chambres régionales de
-métiers et de l'artisanat et de l'assemblée permanente des chambres de métiers
-et de l'artisanat.
+profit des chambres régionales de métiers et de l'artisanat ou des chambres de
+métiers et de l'artisanat de région et de l'assemblée permanente des chambres de
+métiers et de l'artisanat. Cette taxe pourvoit à une partie des dépenses des
+établissements publics constituant le réseau des chambres de métiers et de
+l'artisanat. Elle est employée, dans le respect des règles de concurrence
+nationales et communautaires, pour remplir les missions qui leur sont confiées
+par les lois et les règlements, à l'exclusion des activités marchandes.
 
-Cette taxe est acquittée par les chefs d'entreprises individuelles ou les
-sociétés soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y
-demeurent immatriculés. Les personnes physiques titulaires de l'allocation de
-solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la
-sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à
-l'article L. 815-24 du même code sont dégrevées d'office de la taxe. Les chefs
-d'entreprises individuelles exerçant une activité artisanale à titre principal
-bénéficiant du régime prévu à l'article L. 133-6-8 du code de la sécurité
-sociale sont exonérés de cette taxe jusqu'au terme de la deuxième année civile
-suivant celle de la création de leur entreprise.
+La taxe est acquittée par les chefs d'entreprises individuelles ou les sociétés
+soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent
+immatriculés. Les personnes physiques titulaires de l'allocation de solidarité
+aux personnes âgées mentionnée à l'article L. 815-1 du code de la sécurité
+sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L.
+815-24 du même code sont dégrevées d'office de la taxe. Les chefs d'entreprises
+individuelles exerçant une activité artisanale à titre principal bénéficiant du
+régime prévu à l'article L. 133-6-8 du même code sont exonérés de cette taxe
+jusqu'au terme de la deuxième année civile suivant celle de la création de leur
+entreprise.
 
 Cette taxe est composée :
 
-a.D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés
-par la chambre de métiers et de l'artisanat, la chambre régionale de métiers et
-de l'artisanat et l'Assemblée permanente des chambres de métiers et de
-l'artisanat dans la limite d'un montant maximum fixé respectivement à 101 euros,
-9 euros et 15 euros pour les chambres de métiers et de l'artisanat de
-Guadeloupe, de Martinique, de Guyane et de La Réunion, le montant maximum du
-droit fixe est fixé à 110 euros ;
+a) D'un droit fixe par ressortissant égal à la somme des droits arrêtés par
+l'assemblée permanente des chambres de métiers et de l'artisanat ainsi que par
+la chambre régionale de métiers et de l'artisanat ou par la chambre de métiers
+et de l'artisanat de région, dans la limite d'un montant maximal fixé dans le
+tableau suivant en proportion du montant annuel du plafond de la sécurité
+sociale en vigueur au 1er janvier de l'année d'imposition :
 
-b. d'un droit additionnel à la cotisation foncière des entreprises, dont le
-produit est arrêté par les chambres de métiers et de l'artisanat ; celui-ci ne
-peut excéder 50 % du produit du droit fixe revenant aux chambres de métiers et
-de l'artisanat majoré d'un coefficient de 1, 12 ;
+(En %)
 
-Toutefois, les chambres de métiers et de l'artisanat sont autorisées à porter le
-produit du droit additionnel jusqu'à 85 % du produit du droit fixe, afin de
-mettre en oeuvre des actions ou de réaliser des investissements, dans des
-conditions définies par décret en Conseil d'Etat.
+2011
 
-c.D'un droit additionnel par ressortissant, affecté par les chambres régionales
-de métiers et de l'artisanat ou, dans les départements et collectivités
-d'outre-mer, par les chambres de métiers et de l'artisanat, au financement
-d'actions de formation, au sens des articles L. 6313-1 à L. 6311-11 et L. 6353-1
-du code du travail, des chefs d'entreprises artisanales dans la gestion et le
-développement de celles-ci et géré sur un compte annexe. Ce droit est fixé à 0,
-12 % du montant annuel du plafond de la sécurité sociale en vigueur au 1er
-janvier de l'année d'imposition.
+2012
 
-Les dispositions du présent article relatives aux chambres de métiers et de
-l'artisanat ne sont pas applicables dans les départements du Bas-Rhin, du
-Haut-Rhin et de la Moselle.
+2013
+
+2014 et années
+
+suivantes
+
+Assemblée permanente des chambres de métiers et de l'artisanat
+
+0, 0436
+
+0, 0425
+
+0, 0414
+
+0, 0403
+
+Chambres régionales de métiers et de l'artisanat ou chambres de métiers et de
+l'artisanat de région
+
+0, 3112
+
+0, 3032
+
+0, 2952
+
+0, 2872
+
+Chambre régionale de métiers et de l'artisanat ou chambre de métiers et de
+l'artisanat de région de Lorraine : droit fixe applicable aux ressortissants du
+département de la Moselle
+
+0, 0274
+
+0, 0267
+
+0, 0254
+
+0, 0247
+
+b) D'un droit additionnel à la cotisation foncière des entreprises, dont le
+produit est arrêté par les chambres mentionnées au a ; celui-ci ne peut excéder
+60 % du produit du droit fixe revenant aux chambres mentionnées au a.
+
+Toutefois, les chambres mentionnées au a sont autorisées à porter le produit du
+droit additionnel jusqu'à 90 % du produit du droit fixe, afin de mettre en œuvre
+des actions ou de réaliser des investissements, dans des conditions définies par
+décret en Conseil d'Etat.
+
+A compter du 1er janvier 2013, la part du produit du droit additionnel dépassant
+60 % du produit du droit fixe fait l'objet d'une convention d'objectifs et de
+moyens conclue avec l'Etat dans des conditions fixées par décret en Conseil
+d'Etat ;
+
+c) D'un droit additionnel par ressortissant, affecté par les chambres
+mentionnées au a au financement d'actions de formation, au sens des articles L.
+6313-1 à L. 6313-11 et L. 6353-1 du code du travail, des chefs d'entreprises
+artisanales dans la gestion et le développement de celles-ci. Ces actions de
+formation font l'objet d'une comptabilité analytique et sont gérées sur un
+compte annexe. Ce droit est fixé à 0, 12 % du montant annuel du plafond de la
+sécurité sociale en vigueur au 1er janvier de l'année d'imposition.
+
+Le présent article n'est applicable dans les départements du Bas-Rhin et du
+Haut-Rhin qu'en ce qui concerne le droit fixe arrêté par l'assemblée permanente
+des chambres de métiers et de l'artisanat. Il n'est applicable dans le
+département de la Moselle qu'en ce qui concerne le droit fixe arrêté par
+l'assemblée permanente des chambres de métiers et de l'artisanat et par la
+chambre régionale de métiers et de l'artisanat ou la chambre de métiers et de
+l'artisanat de région de Lorraine et le droit additionnel figurant au c.

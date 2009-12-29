@@ -1,8 +1,8 @@
 Article 1641
 ----
-I.-A.-En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend à
-sa charge, l'Etat perçoit 2 % du montant des taxes suivantes : a) Taxe foncière
-sur les propriétés bâties ;
+I. - A. - En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend
+à sa charge, l'Etat perçoit 2 % du montant des taxes suivantes : a) Taxe
+foncière sur les propriétés bâties ;
 
 b) Taxe foncière sur les propriétés non bâties ;
 
@@ -12,14 +12,13 @@ principale ;
 d) Cotisation foncière des entreprises ;
 
 e) Imposition forfaitaire sur les entreprises de réseaux prévue aux articles
-1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1519 HA, 1599 quater A, 1599 quater A
-bis et 1599 quater B ;
+1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1599 quater A et 1599 quater B ;
 
 f) Taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à
 l'article 1519 I.
 
-B.-1. En contrepartie des frais de dégrèvement visés au A, l'Etat perçoit 3,6 %
-du montant des taxes suivantes :
+B. - 1. En contrepartie des frais de dégrèvement visés au A, l'Etat perçoit 3, 6
+% du montant des taxes suivantes :
 
 a) Taxe pour frais de chambres d'agriculture ;
 
@@ -48,18 +47,18 @@ Le taux de ce prélèvement est fixé comme suit :
 a) Locaux d'habitation non affectés à l'habitation principale dont la valeur
 locative est :
 
--supérieure à 7 622 € : 1,7 % ;
+- supérieure à 7 622 EUR : 1, 7 % ;
 
--inférieure ou égale à 7 622 € et supérieure à 4 573 € : 1,2 % ;
+- inférieure ou égale à 7 622 EUR et supérieure à 4 573 EUR : 1, 2 % ;
 
-b) Autres locaux dont la valeur locative est supérieure à 4 573 € : 0,2 % ;
+b) Autres locaux dont la valeur locative est supérieure à 4 573 EUR : 0, 2 % ;
 
-2° Un prélèvement égal à 1,5 % en sus du montant de la taxe d'habitation due
+2° Un prélèvement égal à 1, 5 % en sus du montant de la taxe d'habitation due
 pour les locaux meublés non affectés à l'habitation principale.
 
-II.-Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant
-des taxes visées au A du I, ainsi que de la taxe d'habitation due pour les
-locaux meublés affectés à l'habitation principale, et 5,4 % du montant de celles
-visées au même B du I. Pour les impositions visées au même B et perçues au
-profit des collectivités locales et de leurs groupements, ce taux est réduit à
-4,4 %.
+II. - Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du
+montant des taxes visées au A du I, ainsi que de la taxe d'habitation due pour
+les locaux meublés affectés à l'habitation principale, et 5, 4 % du montant de
+celles visées au même B du I. Pour les impositions visées au même B et perçues
+au profit des collectivités locales et de leurs groupements, ce taux est réduit
+à 4, 4 %.

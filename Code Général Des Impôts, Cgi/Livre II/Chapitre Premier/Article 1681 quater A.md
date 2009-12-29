@@ -24,7 +24,7 @@ septembre de chaque année, doit préciser le montant présumé des taxes et doi
 mois qui précède celui du prélèvement effectif.
 
 Si le montant des taxes présumé par le contribuable est inférieur de plus de 20
-% au montant des taxes mises en recouvrement, une majoration de 10 % est
+% au montant des taxes mises en recouvrement, une majoration de 5 % est
 appliquée à la différence entre la moitié des taxes dues et les prélèvements
 effectués entre le mois de janvier et le mois de juin. Cette différence ainsi
 que la majoration s'ajoutent au montant du prélèvement qui a lieu le deuxième
@@ -34,7 +34,7 @@ C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'u
 des prélèvements visé au B. Le complément éventuel est prélevé en décembre.
 
 Toutefois, si les taxes sont mises en recouvrement après le 31 octobre, le solde
-est acquitté dans les conditions fixées par les articles 1663 et 1730.
+est acquitté dans les conditions fixées par les articles 1663,1731 et 1731 A.
 
 D. Il est mis fin aux prélèvements mensuels dès qu'ils ont atteint le montant
 des taxes mises en recouvrement. Le trop-perçu qui apparaît éventuellement lors

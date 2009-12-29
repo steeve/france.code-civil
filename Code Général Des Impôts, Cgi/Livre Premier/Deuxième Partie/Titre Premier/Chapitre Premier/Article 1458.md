@@ -26,4 +26,9 @@ déterminées par cette ordonnance.
 
 3° Les correspondants locaux de la presse régionale ou départementale en raison
 de l'activité qu'ils exercent conformément aux dispositions de l'article 10 de
-la loi n° 87-39 du 27 janvier 1987 portant diverses mesures d'ordre social.
+la loi n° 87-39 du 27 janvier 1987 portant diverses mesures d'ordre social. 4°
+Les vendeurs-colporteurs de presse en raison de l'activité qu'ils exercent
+conformément au I de l'article 22 de la loi n° 91-1 du 3 janvier 1991 tendant au
+développement de l'emploi par la formation dans les entreprises, l'aide à
+l'insertion sociale et professionnelle et l'aménagement du temps de travail,
+pour l'application du troisième plan pour l'emploi.

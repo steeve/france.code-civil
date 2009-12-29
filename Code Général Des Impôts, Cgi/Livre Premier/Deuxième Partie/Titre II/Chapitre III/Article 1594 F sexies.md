@@ -1,7 +1,7 @@
 Article 1594 F sexies
 ----
 Le conseil général peut, sur délibération, réduire le taux de la taxe de
-publicité foncière ou des droits d'enregistrement jusqu'à 0,5 %, lorsque les
+publicité foncière ou des droits d'enregistrement jusqu'à 0, 70 %, lorsque les
 conditions suivantes sont réunies :
 
 1° La mutation s'inscrit dans le cadre d'une opération consistant :

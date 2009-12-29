@@ -22,10 +22,9 @@ Les attributions ne peuvent avoir pour effet de porter les versements effectués
 pendant l'année civile à un montant supérieur aux taxes et impositions de
 l'exercice.
 
-Le présent article est applicable à la cotisation sur la valeur ajoutée des
-entreprises et aux composantes de l'imposition forfaitaire sur les entreprises
-de réseaux instituées par l'article 2 de la loi n° 2009-1673 du 30 décembre 2009
-de finances pour 2010.
+Le présent article est applicable à la taxe sur les surfaces commerciales prévue
+à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en
+faveur de certaines catégories de commerçants et artisans âgés.
 
 Les taxes ou portions de taxes attribuées à un fonds commun sont exclues des
 régimes d'attribution visés au présent article.

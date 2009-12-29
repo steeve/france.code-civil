@@ -73,14 +73,13 @@ la dépasser. Cette majoration ne s'applique pas lorsque le taux moyen pondéré
 des trois autres taxes perçues au profit de la collectivité considérée est
 inférieur au taux moyen pondéré constaté l'année précédente pour ces trois taxes
 dans l'ensemble des collectivités de même nature. Lorsque le produit de la taxe
-d'habitation perçu l'année précédente par une communauté urbaine en application
-de l'article 1609 bis provient, pour plus des trois quarts de son montant total,
-des impositions à cette taxe établies sur le territoire d'une seule commune
-membre, le conseil municipal de cette dernière peut, pour l'application de la
-majoration, additionner les taux des taxes foncières, de la taxe d'habitation et
-de la cotisation foncière des entreprises perçues au profit de la commune et les
-taux respectifs des mêmes taxes, votés l'année précédente par la communauté
-urbaine.
+d'habitation perçu l'année précédente par une communauté urbaine provient, pour
+plus des trois quarts de son montant total, des impositions à cette taxe
+établies sur le territoire d'une seule commune membre, le conseil municipal de
+cette dernière peut, pour l'application de la majoration, additionner les taux
+des taxes foncières, de la taxe d'habitation et de la cotisation foncière des
+entreprises perçues au profit de la commune et les taux respectifs des mêmes
+taxes, votés l'année précédente par la communauté urbaine.
 
 Dans les communes, membres d'un établissement public de coopération
 intercommunale, qui, l'année de l'adhésion à l'établissement public de
@@ -134,7 +133,29 @@ l'établissement public de coopération intercommunale pour l'année d'impositio
 et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année
 précédente dans l'ensemble des communes membres de l'établissement public.
 
-I ter. (périmé).
+I ter. - 1. Dans les communes où le taux ou les bases de la taxe foncière sur
+les propriétés non bâties étaient nuls l'année précédente, le conseil municipal
+peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté
+et le taux moyen constaté pour la taxe foncière sur les propriétés non bâties
+l'année précédente dans l'ensemble des communes ne doit pas excéder le rapport
+entre le taux de taxe d'habitation de la commune pour l'année d'imposition et le
+taux moyen constaté pour la taxe d'habitation l'année précédente dans l'ensemble
+des communes.
+
+2. Dans les établissements publics de coopération intercommunale à fiscalité
+propre additionnelle où le taux de la taxe foncière sur les propriétés non
+bâties était nul l'année précédente, l'organe délibérant de l'établissement
+public de coopération intercommunale peut fixer le taux de cette taxe.
+Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
+taxe foncière sur les propriétés non bâties l'année précédente dans l'ensemble
+des communes membres de l'établissement public de coopération intercommunale ne
+doit pas excéder le rapport entre le taux de taxe d'habitation de
+l'établissement public de coopération intercommunale pour l'année d'imposition
+et le taux moyen constaté pour la taxe d'habitation l'année précédente dans
+l'ensemble des communes membres de l'établissement public.
+
+L'alinéa précédent est applicable aux établissements publics de coopération
+intercommunale soumis à l'article 1609 nonies C.
 
 II. En cas de création d'un établissement public de coopération intercommunale
 doté d'une fiscalité propre, les rapports entre les taux des quatre taxes

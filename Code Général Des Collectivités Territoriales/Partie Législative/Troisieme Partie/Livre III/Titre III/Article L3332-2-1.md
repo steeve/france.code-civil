@@ -38,501 +38,501 @@ DÉPARTEMENT
 POURCENTAGE
 
 
-Paris
-
-0
-
-
 Ain
 
-0, 6208
+0,885 5
 
 
 Aisne
 
-1, 4185
+1,305 8
 
 
 Allier
 
-0, 9152
+0,853 5
 
 
 Alpes-de-Haute-Provence
 
-0, 3485
+0,276 6
 
 
 Hautes-Alpes
 
-0
+0,169 8
 
 
 Alpes-Maritimes
 
-0
+1,359 6
 
 
 Ardèche
 
-1, 0142
+0,781 3
 
 
 Ardennes
 
-0, 7182
+0,576 4
 
 
 Ariège
 
-0, 4917
+0,346 7
 
 
 Aube
 
-0, 3700
+0,410 2
 
 
 Aude
 
-0, 9218
+0,787 9
 
 
 Aveyron
 
-0, 5365
+0,446 7
 
 
 Bouches-du-Rhône
 
-4, 1040
+3,264 9
 
 
 Calvados
 
-0
+-
 
 
 Cantal
 
-0, 2529
+0,249 9
 
 
 Charente
 
-0, 9144
+0,850 4
 
 
 Charente-Maritime
 
-0
+0,577 3
 
 
 Cher
 
-0
+0,361 1
 
 
 Corrèze
 
-0, 5759
+0,409 3
 
 Côte-d'Or
 
-0
+-
 
 Côtes-d'Armor
 
-1, 2666
+0,840 9
 
 
 Creuse
 
-0, 1553
+-
 
 
 Dordogne
 
-0, 5757
+0,642 2
 
 
 Doubs
 
-1, 4654
+1,517 9
 
 
 Drôme
 
-1, 7697
+1,896 4
 
 
 Eure
 
-0
+0,540 9
 
 
 Eure-et-Loir
 
-0
+-
 
 
 Finistère
 
-1, 6723
+1,578 2
 
 
 Corse-du-Sud
 
-0, 7632
+0,681 2
 
 
 Haute-Corse
 
-0, 4749
+0,253 7
 
 
 Gard
 
-1, 7345
+1,464 3
 
 
 Haute-Garonne
 
-2, 5494
+2,523 5
 
 
 Gers
 
-0, 5415
+0,431 2
 
 
 Gironde
 
-2, 0760
+2,063 1
 
 
 Hérault
 
-1, 9787
+1,818 2
 
 
 Ille-et-Vilaine
 
-1, 3681
+1,897 5
 
 
 Indre
 
-0
+0,178 9
 
 
 Indre-et-Loire
 
-0
+0,469 3
 
 
 Isère
 
-4, 7854
+3,499 9
 
 
 Jura
 
-0, 6912
+0,549 0
 
 
 Landes
 
-1, 1090
+0,859 0
 
 
 Loir-et-Cher
 
-0, 4451
+0,408 8
 
 
 Loire
 
-2, 0718
+1,727 2
 
 
 Haute-Loire
 
-0, 5080
+0,480 7
 
 
 Loire-Atlantique
 
-2, 1532
+1,846 8
 
 
 Loiret
 
-0
+-
 
 
 Lot
 
-0, 2352
+0,217 3
 
 
 Lot-et-Garonne
 
-0, 4700
+0,539 8
 
 
 Lozère
 
-0
+-
 
 
 Maine-et-Loire
 
-0
+-
 
 
 Manche
 
-1, 0594
+0,845 8
 
 
 Marne
 
-0
+-
 
 
 Haute-Marne
 
-0, 2600
+0,255 1
 
 
 Mayenne
 
-0, 6072
+0,539 5
 
 
 Meurthe-et-Moselle
 
-2, 1377
+1,705 8
 
 
 Meuse
 
-0, 3784
+0,315 4
 
 
 Morbihan
 
-1, 0262
+0,991 1
 
 
 Moselle
 
-1, 9187
+1,426 1
 
 
 Nièvre
 
-0, 5763
+0,577 3
 
 
 Nord
 
-3, 3920
+5,078 6
 
 
 Oise
 
-1, 5194
+1,433 8
 
 
 Orne
 
-0
+-
 
 
 Pas-de-Calais
 
-4, 5249
+3,583 1
 
 
 Puy-de-Dôme
 
-0, 7711
+0,673 4
 
 
 Pyrénées-Atlantiques
 
-1, 1209
+1,033 1
 
 
 Hautes-Pyrénées
 
-0, 8456
+0,618 6
 
 
 Pyrénées-Orientales
 
-1, 2141
+1,019 1
 
 
 Bas-Rhin
 
-2, 3500
+2,178 3
 
 
 Haut-Rhin
 
-3, 2141
+2,102 3
 
 
 Rhône
 
-0
+1,466 8
 
 
 Haute-Saône
 
-0, 3172
+0,295 9
 
 
 Saône-et-Loire
 
-0, 8898
+1,029 7
 
 
 Sarthe
 
-0, 8468
+0,972 2
 
 
 Savoie
 
-1, 3413
+1,023 0
 
 
 Haute-Savoie
 
-1, 5344
+1,503 5
+
+
+Paris
+
+-
 
 
 Seine-Maritime
 
-1, 7600
+2,281 5
 
 
 Seine-et-Marne
 
-0
+1,973 8
 
 
 Yvelines
 
-0
+1,199 3
 
 
 Deux-Sèvres
 
-0
+0,415 4
 
 
 Somme
 
-1, 4146
+1,374 1
 
 
 Tarn
 
-0, 9248
+0,808 6
 
 
 Tarn-et-Garonne
 
-0, 6722
+0,498 0
 
 
 Var
 
-1, 1316
+1,3791
 
 
 Vaucluse
 
-1, 7245
+1,382 2
 
 
 Vendée
 
-1, 6440
+1,369 8
 
 
 Vienne
 
-0, 3905
+0,423 6
 
 
 Haute-Vienne
 
-0, 6389
+0,555 9
 
 
 Vosges
 
-1, 6009
+1,285 0
 
 
 Yonne
 
-0, 4219
+0,389 8
 
 
 Territoire de Belfort
 
-0, 4117
+0,309 4
 
 
 Essonne
 
-2, 9622
+2,504 9
 
 
 Hauts-de-Seine
 
-0
+-
 
 
 Seine-Saint-Denis
 
-4, 5785
+4,065 7
 
 
 Val-de-Marne
 
-1, 7555
+2,338 8
 
 Val-d'Oise
 
-1, 2647
+1,286 5
 
 
 Guadeloupe
 
-0, 4472
+0,347 4
 
 
 Martinique
 
-0
+-
 
 
 Guyane
 
-0, 3478
+0,305 4
 
 
 La Réunion
 
-0
+-
 
 Il est attribué aux départements la totalité du produit de la taxe spéciale sur
 les conventions d'assurance en application du 2° bis de l'article 1001 du code

@@ -76,6 +76,13 @@ regroupements internationaux d'entreprises ferroviaires sont retenus pour le
 calcul de l'imposition des entreprises ferroviaires qui fournissent ces
 matériels dans le cadre de ces regroupements.
 
+Ne sont pas retenus pour le calcul de l'imposition les matériels roulants
+destinés à circuler en France exclusivement sur les sections du réseau ferré
+national reliant, d'une part, une intersection entre le réseau ferré national et
+une frontière entre le territoire français et le territoire d'un Etat limitrophe
+et, d'autre part, la gare française de voyageurs de la section concernée la plus
+proche de cette frontière.
+
 Lorsque du matériel roulant est destiné à être utilisé à la fois sur le réseau
 ferré national et sur les lignes de transport en commun de voyageurs mentionnées
 aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7
