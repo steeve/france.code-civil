@@ -3,21 +3,21 @@ Article D442-20
 Lorsque le mandant est doté d'un comptable public, s'appliquent les dispositions
 suivantes :
 
-I. - Le mandant transmet l'ampliation du mandat dès sa conclusion à son
-comptable public.
+I.-Le mandant transmet l'ampliation du mandat dès sa conclusion à son comptable
+public.
 
-II. - Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier
+II.-Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier
 alinéa de l'article R. 442-19, le compte est ouvert auprès de l'Etat, de la
 Caisse des dépôts et consignations, de la Banque de France ou auprès d'un
 établissement de crédit ayant obtenu un agrément en vertu des dispositions
 applicables dans les Etats membres de la Communauté européenne ou les autres
 Etats parties à l'accord sur l'Espace économique européen.
 
-III. - Lorsque le mandat stipule que le mandataire dispose d'une avance
+III.-Lorsque le mandat stipule que le mandataire dispose d'une avance
 permanente, l'ordonnateur du mandant fixe le montant de cette avance dans la
 limite du plafond prévu par le mandat.
 
-IV. - Lorsqu'il entre dans les pouvoirs du mandataire de poursuivre l'exécution
+IV.-Lorsqu'il entre dans les pouvoirs du mandataire de poursuivre l'exécution
 forcée et de pratiquer les mesures conservatoires au nom et pour le compte du
 mandant, l'ordonnateur du mandataire doté d'un comptable public émet les titres
 de recettes exécutoires et, après autorisation du même ordonnateur, le comptable
@@ -28,10 +28,9 @@ mentionnés aux 1° à 5° de l'article 3 de la loi n° 91-650 du 9 juillet 1991
 portant réforme des procédures civiles d'exécution, il en poursuit l'exécution
 forcée selon les règles du droit commun applicable en la matière.
 
-V. - Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes
-ou de procéder à des dépenses, la reddition des comptes intervient dans des
-délais permettant au comptable public du mandant de produire son compte
-financier.
+V.-Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes ou
+de procéder à des dépenses, la reddition des comptes intervient dans des délais
+permettant au comptable public du mandant de produire son compte financier.
 
 La reddition des comptes retrace la totalité des opérations de dépenses et de
 recettes décrites par nature sans contraction entre elles ainsi que la totalité
@@ -44,10 +43,15 @@ la balance générale des comptes ;
 
 3° La situation de trésorerie de la période ;
 
-4° L'état nominatif des impayés par débiteur ;
+4° L'état des créances demeurées impayées établies par débiteur et par nature de
+produit. Pour chaque créance impayée, le mandataire précise, le cas échéant, les
+relances qu'il a accomplies et les poursuites qu'il a diligentées ;
 
 5° Les pièces justificatives des opérations retracées dans la reddition des
-comptes. Pour les dépenses, ces pièces justificatives, reconnues exactes par le
-mandataire, sont celles prévues dans la liste annexée à l'article D. 1617-19 du
-code général des collectivités territoriales. Pour les recettes, le mandataire
-justifie le cas échéant leur caractère irrécouvrable.
+comptes. Pour les dépenses, ces pièces justificatives, reconnues exactes par la
+société mandataire, sont celles prévues dans la liste mentionnée à l'article D.
+1617-19 du code général des collectivités territoriales et figurant en annexe I
+à ce code. Pour les recettes, la société mandataire produit les pièces
+autorisant leur perception et établissant la liquidation des droits. Elle
+justifie, le cas échéant, leur caractère irrécouvrable au regard des diligences
+qu'elle a accomplies.
