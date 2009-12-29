@@ -15,11 +15,6 @@ V. Pour les communes membres d'un groupement doté d'une fiscalité propre, les
 taux-plafonds prévus aux I et IV sont réduits du taux appliqué l'année
 précédente au profit du groupement.
 
-VI. Le taux de la cotisation foncière des entreprises voté par un département ou
-une région ne peut excéder deux fois le taux moyen de cette taxe constaté
-l'année précédente au niveau national pour l'ensemble des collectivités de même
-nature.
-
 VI.-Le taux de la taxe foncière sur les propriétés bâties voté par un
 département ne peut excéder deux fois et demie le taux moyen constaté l'année
 précédente au niveau national pour l'ensemble des départements.

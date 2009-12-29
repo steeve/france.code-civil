@@ -1,19 +1,19 @@
 Article 1599 quater A
 ----
-I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
+I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 au matériel roulant utilisé sur le réseau ferré national pour des opérations de
 transport de voyageurs.
 
-II. - L'imposition forfaitaire est due chaque année par l'entreprise de
-transport ferroviaire qui dispose, pour les besoins de son activité
-professionnelle au 1er janvier de l'année d'imposition, de matériel roulant
-ayant été utilisé l'année précédente sur le réseau ferré national pour des
-opérations de transport de voyageurs.
+II.-L'imposition forfaitaire est due chaque année par l'entreprise de transport
+ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er
+janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année
+précédente sur le réseau ferré national pour des opérations de transport de
+voyageurs.
 
-III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel
+III.-Le montant de l'imposition forfaitaire est établi pour chaque matériel
 roulant en fonction de sa nature et de son utilisation selon le barème suivant :
 
-(En euros)
+(en euros)
 
 
 CATÉGORIE DE MATÉRIELS ROULANTS
@@ -95,13 +95,12 @@ proche de cette frontière.
 
 Lorsque du matériel roulant est destiné à être utilisé à la fois sur le réseau
 ferré national et sur les lignes de transport en commun de voyageurs mentionnées
-aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7
-janvier 1959 relative à l'organisation des transports de voyageurs en
-Ile-de-France, ce matériel est retenu pour le calcul de l'imposition s'il est
-destiné à être utilisé principalement sur le réseau ferré national.
+aux articles L. 2142-1 et L. 2142-2 du code des transports, ce matériel est
+retenu pour le calcul de l'imposition s'il est destiné à être utilisé
+principalement sur le réseau ferré national.
 
-IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré
-suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par
+IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant
+le 1er mai de l'année d'imposition, le nombre de matériels roulants par
 catégorie.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et

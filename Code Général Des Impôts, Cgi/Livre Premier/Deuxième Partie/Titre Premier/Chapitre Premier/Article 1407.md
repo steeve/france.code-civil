@@ -36,8 +36,7 @@ conditions prévues au I de l'article 1639 A bis, exonérer :
 1° Les locaux mis en location à titre de gîte rural ;
 
 2° Les locaux mis en location en qualité de meublés de tourisme au sens de
-l'arrêté du 28 décembre 1976 modifié instituant la répartition catégorielle des
-meublés de tourisme ;
+l'article D. 324-1 du code du tourisme ;
 
 3° Les chambres d'hôtes au sens de l'article L. 324-3 du code du tourisme.
 
