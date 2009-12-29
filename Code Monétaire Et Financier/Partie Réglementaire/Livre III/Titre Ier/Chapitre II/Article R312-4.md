@@ -22,33 +22,31 @@ application de l'article L. 3252-5 du même code.
 
 En cas de pluralité de comptes, cette somme est imputée sur un seul d'entre eux.
 
-Art. 46.-Lorsqu'un compte a fait l'objet d'une saisie, son titulaire peut
-demander au tiers saisi la mise à disposition immédiate, dans la limite du solde
-créditeur du compte au jour de réception de la demande, d'une somme à caractère
-alimentaire d'un montant forfaitaire du revenu de solidarité active mentionné au
-2° de l'article L. 262-2 du code de l'action sociale et des familles applicable
-à un foyer composé d'une seule personne.
+Art. 46.-Lorsqu'un compte fait l'objet d'une saisie, le tiers saisi laisse à la
+disposition du débiteur personne physique, sans qu'aucune demande soit
+nécessaire, et dans la limite du solde créditeur au jour de la saisie, une somme
+à caractère alimentaire d'un montant égal au montant forfaitaire, pour un
+allocataire seul, mentionné à l'article L. 262-2 du code de l'action sociale et
+des familles. Il en avertit aussitôt le débiteur.
 
-La demande doit être présentée dans les quinze jours suivant la saisie.
+En cas de pluralité de comptes, il est opéré une mise à disposition au regard de
+l'ensemble des soldes créditeurs ; la somme est imputée, en priorité, sur les
+fonds disponibles à vue.
 
-En cas de pluralité de comptes, la demande ne peut être présentée que sur un
-seul compte.
+Le tiers saisi informe sans délai l'huissier de justice ou le comptable public
+chargé du recouvrement du montant laissé à disposition du titulaire du compte
+ainsi que du ou des comptes sur lesquels est opérée cette mise à disposition.
 
-En cas de pluralité de titulaires d'un compte, le ou les co-titulaires ne
-peuvent présenter qu'une seule demande.
+En cas de saisies de comptes ouverts auprès d'établissements différents,
+l'huissier de justice ou le comptable public chargé du recouvrement détermine le
+ou les tiers saisis chargés de laisser à disposition la somme mentionnée au
+premier alinéa ainsi que les modalités de cette mise à disposition. Il en
+informe les tiers saisis."
 
-Il ne peut être présenté qu'une seule demande pour une même saisie.
-
-Une autre demande peut être formée en cas de nouvelle saisie à l'expiration d'un
-délai d'un mois à compter de la précédente demande.
-
-Art. 46-1.-La demande est présentée au moyen d'un formulaire dont le modèle est
-fixé par arrêté conjoint du ministre chargé de l'économie et du ministre de la
-justice. Ce formulaire est annexé à l'acte de dénonciation de la saisie au
-débiteur. Il peut également être mis à disposition du titulaire du compte, sur
-sa demande, par le tiers saisi.
-
-Une copie de la demande est adressée par le tiers saisi au créancier saisissant.
+Art. 46-1.-Un débiteur ne peut bénéficier d'une nouvelle mise à disposition
+qu'en cas de nouvelle saisie intervenant à l'expiration d'un délai d'un mois
+après la saisie ayant donné lieu à la précédente mise à disposition. Pendant ce
+délai, la somme mentionnée à l'article 46 demeure à la disposition du débiteur.
 
 Art. 47.-Lorsque les sommes insaisissables proviennent de créances à échéance
 périodique, telles que rémunérations du travail, pensions de retraite, sommes
@@ -97,11 +95,12 @@ demandé par le titulaire du compte en application des articles 47 et 47-1, soit
 obtenu par celui-ci en application de l'article 43.
 
 Les sommes insaisissables mises à disposition du titulaire du compte en
-application des articles 45, 47 ou 47-1 viennent en déduction du montant dont le
-versement pourrait être demandé ultérieurement en application de l'article 46.
+application des articles 45, 47 ou 47-1 viennent en déduction du montant qui est
+laissé à disposition en application de l'article 46.
 
 Art. 47-4.-Sans préjudice des sanctions pénales éventuellement encourues, le
-titulaire du compte qui se ferait remettre, dans le mois suivant la saisie, un
-montant supérieur à celui qui peut être mis à sa disposition en application des
-articles qui précèdent peut être condamné, à la demande du créancier, à
-restituer les sommes indûment perçues et à des dommages et intérêts.
+titulaire du compte qui se voit mettre à disposition une somme d'un montant
+supérieur à celui auquel il peut prétendre en application des articles de la
+présente sous-section restitue au créancier les sommes indûment perçues ou mises
+à sa disposition. En cas de faute de sa part, il peut en outre être condamné, à
+la demande du créancier, à des dommages et intérêts.
