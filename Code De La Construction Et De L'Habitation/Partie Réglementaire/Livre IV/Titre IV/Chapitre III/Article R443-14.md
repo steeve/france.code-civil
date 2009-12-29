@@ -1,23 +1,15 @@
 Article R443-14
 ----
-Le prix de vente d'un logement cédé en application des articles L. 443-7 et L.
-443-8 est fixé par l'organisme, propriétaire dans les conditions définies à
-l'article L. 443-10. En vue de la fixation de ce prix, l'organisme propriétaire
-saisit le service des domaines.
+Pour l'application de l'article L. 443-8, l'aide publique pouvant donner lieu à
+remboursement comprend :
 
-L'estimation du service des domaines doit être fournie dans un délai de trois
-mois à compter de sa saisine par l'organisme. Elle est valable pendant une durée
-de deux ans à compter de sa notification.
+a) Les aides attribuées par l'Etat ou pour son compte et versées directement à
+l'organisme vendeur sous forme de primes ou de subventions ;
 
-La valeur résultant de l'actualisation du côut initial est établie de la façon
-suivante :
+b) Les aides de l'Etat destinées à une bonification des prêts accordés pour la
+construction, l'acquisition ou l'amélioration de l'immeuble vendu ; un arrêté
+conjoint du ministre chargé de l'économie et des finances et du ministre chargé
+de la construction et de l'habitation fixe les modalités de calcul de ces aides.
 
-1° Pour les immeubles achevés antérieurement au 30 septembre 1953, elle résulte
-de l'application au prix de revient d'un rapport établi suivant les modalités
-définies par le ministre chargé de la construction et de l'habitation en
-fonction des indices existants à la date de l'achèvement de la construction en
-vigueur à la date de la vente ;
-
-2° Pour les immeubles achevés à compter du 1er octobre 1953, elle résulte de
-l'application au prix de revient du rapport existant entre l'indice du coût de
-la construction en vigueur à la date de l'achèvement de la construction.
+Ces sommes sont calculées, le cas échéant, pour la quote-part correspondant aux
+logements mis en vente.
