@@ -1,4 +1,4 @@
-Article 302 R
+Article 158 vicies
 ----
 L'impôt n'est pas recouvré au titre des produits expédiés ou transportés dans un
 autre Etat membre de la Communauté européenne par un entrepositaire agréé ou un

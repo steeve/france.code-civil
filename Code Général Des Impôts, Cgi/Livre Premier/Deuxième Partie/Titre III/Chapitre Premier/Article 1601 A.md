@@ -11,3 +11,8 @@ public à caractère administratif créé à cet effet par décret en Conseil d'
 Le Fonds national de promotion et de communication de l'artisanat remet avant le
 1er mars de chaque année un rapport au Parlement précisant le montant des sommes
 perçues ainsi que leur affectation au titre du droit visé au premier alinéa.
+
+Les chefs d'entreprises individuelles exerçant une activité artisanale à titre
+principal bénéficiant du régime prévu à l'article L. 133-6-8 du code de la
+sécurité sociale sont exonérés de ce droit jusqu'au terme de la deuxième année
+civile suivant celle de la création de leur entreprise.

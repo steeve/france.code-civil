@@ -1,6 +1,6 @@
 Article 302 D
 ----
-I. - 1.L'impôt est exigible :
+I. - 1. L'impôt est exigible :
 
 1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
@@ -50,7 +50,7 @@ d'alcools, de boissons alcooliques et de tabacs manufacturés à des fins
 commerciales pour lesquels le détenteur ne peut prouver, par la production d'un
 document d'accompagnement, d'une facture ou d'un ticket de caisse, selon le cas,
 qu'ils circulent en régime suspensif de l'impôt ou que l'impôt a été acquitté en
-France ou y a été garanti conformément à l'article 302 U.
+France ou y a été garanti conformément aux articles 302 U bis ou 302 V bis.
 
 Pour établir que ces produits sont détenus en France à des fins commerciales,
 l'administration tient compte des éléments suivants :
@@ -62,10 +62,10 @@ documents relatifs à ces produits ;
 
 c. La nature de ces produits ;
 
-d. Les quantités de ces produits, notamment lorsque celles-ci sont supérieures
-aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92 / 12 /
-CEE du Conseil, du 25 février 1992, relative au régime général, à la détention,
-à la circulation et aux contrôles des produits soumis à accises.
+d) Les quantités de ces produits, notamment lorsque celles-ci sont supérieures
+aux seuils indicatifs fixés par l'article 32, paragraphe 3, de la directive
+2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d'accise
+et abrogeant la directive 92/12/CEE.
 
 Toutefois, les cigarettes en provenance de la Bulgarie, de l'Estonie, de la
 Hongrie, de la Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la
@@ -172,34 +172,19 @@ constatés ;
 
 4° Dans les cas mentionnés au 4° du 1, par la personne qui détient ces produits.
 
-3.L'impôt est acquitté par toute personne qui a bénéficié d'une exonération ou
+3. L'impôt est acquitté par toute personne qui a bénéficié d'une exonération ou
 d'une franchise des droits d'accises mentionnée à l'article 302 E ou aux 1° et
 2° de l'article 302 F bis ou à l'article 317, lorsque les conditions
 d'application auxquelles est subordonnée l'obtention de cette exonération ou de
 cette franchise ne sont pas remplies, ainsi que par toute personne qui a été
-autorisée à recevoir des alcools et boissons alcooliques en franchise, en
-exemption ou en exonération des droits d'accises, conformément aux dispositions
-de l'article 302 D bis, du 3° de l'article 302 F bis, de l'article 406, des
-articles 440 bis,441,442 et 508, lorsque les conditions d'application auxquelles
-est subordonné l'octroi de cette franchise, exemption ou exonération ne sont pas
-remplies.
+autorisée à recevoir des alcools, des boissons alcooliques ou des tabacs
+manufacturés en franchise, en exemption ou en exonération des droits d'accises,
+conformément aux dispositions de l'article 302 D bis, du 3° de l'article 302 F
+bis, de l'article 406, des articles 440 bis,441,442 et 508, lorsque les
+conditions d'application auxquelles est subordonné l'octroi de cette franchise,
+exemption ou exonération ne sont pas remplies.
 
-II. L'impôt est également exigible, pour les produits déjà mis à la consommation
-dans un autre Etat de la Communauté européenne :
-
-a) Lors de la réception en France de ces produits par un opérateur accomplissant
-de manière indépendante une activité économique ou par un organisme exerçant une
-activité d'intérêt général ; l'impôt est dû par l'opérateur ou l'organisme qui
-reçoit ces produits ;
-
-b) Lors de la réception en France par une personne autre qu'un opérateur
-accomplissant de manière indépendante une activité économique ou qu'un organisme
-exerçant une activité d'intérêt général de produits expédiés ou transportés en
-France par le vendeur ou pour son compte ; l'impôt est dû, par le représentant
-fiscal du vendeur mentionné au II de l'article 302 V, lors de la réception des
-produits ;
-
-c) (abrogé)
+II. (Abrogé).
 
 III. - 1.L'impôt est liquidé mensuellement, au plus tard le dixième jour de
 chaque mois, sur la base d'une déclaration des quantités de produits mis à la
@@ -221,6 +206,6 @@ droit spécifique sur les bières prévu à l'article 520 A et de la cotisation
 prévue à l'article L. 245-7 du code de la sécurité sociale, l'impôt est acquitté
 auprès de l'administration en une échéance annuelle unique. Cette échéance est
 fixée pour les entrepositaires agréés produisant des produits vitivinicoles
-régis par le règlement (CE) n° 479 / 2008 du Conseil du 29 avril 2008, portant
+régis par le règlement (CE) n° 479/2008 du Conseil du 29 avril 2008, portant
 organisation commune du marché vitivinicole, au plus tard le 10 septembre, et,
 pour les autres entrepositaires agréés, au plus tard le 10 janvier.
