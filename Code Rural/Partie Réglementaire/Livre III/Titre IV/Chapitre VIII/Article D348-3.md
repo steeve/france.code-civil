@@ -4,49 +4,67 @@ Les aides à l'installation des jeunes agriculteurs prévues par les articles D.
 343-3 à D. 343-18 sont applicables à l'installation des jeunes agriculteurs dans
 les départements d'outre-mer, sous réserve des adaptations suivantes :
 
-1. L'article D. 343-3 est remplacé par les dispositions suivantes :
+1° Pour l'application du 2° de l'article D. 343-4, les mots : "des articles L.
+722-4 à L. 722-7" sont remplacés par " les mots : "de l'article L. 762-7".
 
-En vue de faciliter leur installation, il peut être accordé aux jeunes
-agriculteurs établis depuis le 31 décembre 1990 et qui satisfont aux conditions
-énumérées aux articles D. 343-3 à D. 343-18, à l'exception de celle fixée au 4°
-de l'article D. 343-4, les aides suivantes :
+2° Pour l'application des a et b du 4° de l'article D. 343-4 et du premier
+alinéa de l'article D. 343-4-1, la date du "1er janvier 1971" est remplacée par
+la date du "1er janvier 1976".
 
-a) Une dotation d'installation en capital ;
+3° Dans le département de la Guyane :
 
-b) Des prêts à moyen terme spéciaux.
+a) Pour l'application des dispositions de l'article D. 343-4-1, le préfet peut,
+sans tenir compte de la date "du 1er janvier 1976, accorder la dotation
+d'installation à des jeunes agriculteurs qui s'installent dans des zones
+d'accessibilité difficile définies par arrêté préfectoral et qui :
 
-Jusqu'au 31 décembre 1996, le candidat aux aides à l'installation peut justifier
-de sa capacité professionnelle selon les conditions qui sont prévues à l'article
-4 et au 4° de l'article 8 du décret n° 81-246 du 17 mars 1981.
+-ne sont pas titulaires d'un des diplômes conférant la capacité professionnelle
+agricole ;
 
-2. Les quatre premiers alinéas du 3° de l'article D. 343-5 sont remplacés par
-les dispositions suivantes :
+-justifient d'une expérience professionnelle agricole minimale de deux ans au
+moins, jugée suffisante par l'autorité académique.
 
-Présenter un projet d'installation faisant, au terme de la troisième année
-suivant l'installation, ressortir sur la base d'une étude prévisionnelle
-d'installation, un revenu disponible par unité de travail agricole familial au
-moins égal à 40 % du revenu de référence national tel qu'il est défini à
-l'article R. 344-6.
+Ces candidats s'engagent à suivre, en vue d'acquérir les compétences nécessaires
+à l'exercice du métier de chef d'exploitation agricole, les formations prévues
+dans le cadre de leur plan de professionnalisation personnalisé et dont la
+validation doit intervenir dans un délai qui ne peut excéder trois ans. Ils
+s'engagent également à se soumettre pendant trois ans au suivi technique,
+économique et financier mentionné au 3° de l'article D. 343-9 dans le cadre de
+la mise en œuvre du plan de développement de l'exploitation prévu à l'article D.
+343-7.
 
-Le préfet pourra toutefois octroyer l'aide à l'installation si l'étude
-prévisionnelle fait ressortir que le revenu disponible sera, au terme de la
-troisième année suivant l'installation, au moins égal aux six dixièmes du revenu
-minimum défini à l'alinéa précédent et qu'il atteindra ce minimum dans un délai
-supplémentaire de trois ans au plus.
+Dans ce cas, 60 % du montant de la dotation jeune agriculteur sont versés dès
+l'installation. Le solde est versé après la validation du plan de
+professionnalisation personnalisé par l'autorité académique.
 
-3. Pour l'application du 4° de l'article D. 343-4, les candidats nés avant le
-1er janvier 1976 peuvent justifier de leur capacité professionnelle par la
-possession d'un diplôme de niveau équivalent au brevet d'études professionnelles
-agricoles ou au brevet professionnel agricole.
+b) Pour l'application des dispositions des 3° et 5° de l'article D. 343-5 et des
+articles D. 343-6 et D. 343-7, le préfet peut accorder la dotation
+d'installation à des jeunes agriculteurs dont le projet d'installation
+nécessite, sur une période de trois années maximum suivant l'installation, des
+travaux d'aménagement indispensables à la mise en valeur agronomique des
+parcelles dès lors que le plan de développement de l'exploitation fait
+apparaître au terme de la cinquième année suivant l'installation un revenu
+prévisionnel disponible agricole au moins égal à un seuil fixé par arrêté du
+ministre chargé de l'agriculture.
 
-4. Le premier alinéa de l'article D. 343-9 est remplacé par les dispositions
-suivantes :
+Si, au terme de la cinquième année suivant l'installation, le revenu disponible
+minimum n'est pas atteint, le préfet peut prononcer la déchéance partielle ou
+totale de la dotation aux jeunes agriculteurs conformément à l'article D.
+343-18-2 et sous réserve des adaptations suivantes :
 
-"Les montants minimum et maximum de la dotation ainsi que ses modalités de
-paiement en deux versements sont fixés par arrêté conjoint du ministre chargé du
-budget, du ministre de l'agriculture et du ministre chargé des départements
-d'outre-mer".
+-lorsque le bénéficiaire des aides retire de ses activités agricoles entre 30 %
+et 50 % du revenu disponible minimum, le préfet peut prononcer la déchéance à
+hauteur de 50 % de la dotation d'installation ;
 
-5. Au quatrième alinéa de l'article R. 343-17, les mots directeur départemental
-de l'agriculture et de la forêt sont remplacés par les mots directeur de
-l'agriculture et de la forêt.
+-lorsque le bénéficiaire des aides retire de ses activités agricoles moins de 30
+% du revenu minimum disponible, le préfet peut prononcer la déchéance totale de
+la dotation d'installation.
+
+4° Les dispositions prévues au troisième alinéa du 1° de l'article D. 343-8 ne
+sont pas applicables au candidat qui a bénéficié d'une aide à la création
+d'entreprise dans le cadre du programme initiative jeune ou de l'aide au projet
+initiative-jeune prévue à l'article L. 5522-22 du code du travail.
+
+5° Pour l'application de l'article D. 343-9, l'arrêté mentionné au premier
+alinéa est signé conjointe par les ministres chargés de l'agriculture, du budget
+et de l'outre-mer.
