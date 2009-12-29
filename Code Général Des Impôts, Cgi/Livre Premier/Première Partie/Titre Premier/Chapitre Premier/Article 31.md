@@ -400,8 +400,8 @@ contribuable ou de l'un des époux soumis à imposition commune, cette majoratio
 ne s'applique pas.
 
 Pour un même logement, les dispositions du présent h sont exclusives de
-l'application des dispositions du troisième alinéa du 3° du I de l'article 156
-et des articles 199 undecies ou 199 undecies A. Elles ne s'appliquent pas aux
+l'application des dispositions du deuxième alinéa du 3° du I de l'article 156 et
+des articles 199 undecies ou 199 undecies A. Elles ne s'appliquent pas aux
 monuments classés monuments historiques, inscrits à l'inventaire supplémentaire
 ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label délivré
 par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de

@@ -1,8 +1,9 @@
 Article D223-21
 ----
 I.-La liste des maladies réputées contagieuses mentionnées à l'article L. 223-2
-qui donnent lieu à déclaration au préfet (directeur départemental des services
-vétérinaires) et à application des mesures de police sanitaire est la suivante :
+qui donnent lieu à déclaration au préfet (directeur départemental chargé de la
+protection des populations) et à application des mesures de police sanitaire est
+la suivante :
 
 
 DÉNOMINATION FRANÇAISE

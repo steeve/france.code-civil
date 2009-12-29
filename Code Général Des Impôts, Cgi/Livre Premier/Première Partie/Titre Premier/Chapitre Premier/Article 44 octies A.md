@@ -1,6 +1,6 @@
 Article 44 octies A
 ----
-I. - Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2011,
+I.-Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2011,
 créent des activités dans les zones franches urbaines définies au B du 3 de
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire, ainsi que ceux qui, entre le
@@ -49,7 +49,7 @@ exclues les activités de crédit-bail mobilier et de location d'immeubles à us
 d'habitation.
 
 Pour l'application des a et b, le chiffre d'affaires doit être ramené ou porté
-le cas échéant à douze mois. L'effectif de l'entreprise est apprécié par
+le cas échéant à douze mois.L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cet exercice. Pour la
 société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est
 apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés
@@ -75,7 +75,7 @@ sédentaire à temps plein ou équivalent, exerçant ses fonctions dans les loca
 affectés à l'activité, ou si ce contribuable réalise au moins 25 % de son
 chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
-II. - L'exonération s'applique au bénéfice d'un exercice ou d'une année
+II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année
 d'imposition, déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à
 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables
 dans les conditions de droit commun :
@@ -99,15 +99,15 @@ zones franches urbaines.
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone
 franche urbaine, le bénéfice exonéré est déterminé en affectant le montant
 résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des
-éléments d'imposition à la taxe professionnelle définis à l'article 1467, à
-l'exception de la valeur locative des moyens de transport, afférents à
-l'activité exercée dans les zones franches urbaines et relatifs à la période
-d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition
-à la taxe professionnelle du contribuable définis au même article pour ladite
-période. Pour la fixation de ce rapport, la valeur locative des immobilisations
-passibles d'une taxe foncière est déterminée conformément à l'article 1467, au
-1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er
-janvier de l'année d'imposition des bénéfices.
+éléments d'imposition à la cotisation foncière des entreprises définis à
+l'article 1467 afférents à l'activité exercée dans les zones franches urbaines
+et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme
+des éléments d'imposition à la cotisation foncière des entreprises du
+contribuable définis au même article pour ladite période. Pour la fixation de ce
+rapport, la valeur locative des immobilisations passibles d'une taxe foncière
+est déterminée conformément à l'article 1467, au 1er janvier de l'année au cours
+de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des
+bénéfices.
 
 Par exception aux dispositions du sixième alinéa du présent II, le contribuable
 exerçant une activité de location d'immeubles n'est exonéré qu'à raison des
@@ -128,7 +128,7 @@ est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission d
 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux
 aides de minimis.
 
-III. - Lorsque le contribuable mentionné au I est une société membre d'un groupe
+III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal mentionné à l'article 223 A, le bénéfice exonéré est celui de cette
 société déterminé dans les conditions prévues au II du présent article et au 4
 de l'article 223 I.
@@ -144,7 +144,7 @@ contribuable peut opter pour ce dernier régime dans les six mois qui suivent la
 publication du décret en Conseil d'Etat procédant à la délimitation de la zone
 conformément à l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il
 y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant
-celui du début d'activité. L'option est irrévocable.
+celui du début d'activité.L'option est irrévocable.
 
-IV. - Les obligations déclaratives des personnes et organismes auxquels
-s'applique l'exonération sont fixées par décret.
+IV.-Les obligations déclaratives des personnes et organismes auxquels s'applique
+l'exonération sont fixées par décret.

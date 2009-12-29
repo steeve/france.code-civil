@@ -13,22 +13,23 @@ Le taux de ce prélèvement est fixé à 4 % du montant des recouvrements.
 II. (Sans objet).
 
 III. Pour frais de recouvrement, l'Etat effectue un prélèvement sur les
-cotisations perçues au profit de sécurité sociale soumis au contrôle de la cour
-des comptes, dans les conditions déterminées par les articles L. 154-1 et L.
-154-2 du code de la sécurité sociale. Le taux de ce prélèvement et les modalités
-de remboursement sont fixés par arrêté du ministre de l'économie et des
-finances.
+cotisations perçues au profit des organismes de sécurité sociale soumis au
+contrôle de la cour des comptes, dans les conditions déterminées par les
+articles L. 154-1 et L. 154-2 du code de la sécurité sociale. Le taux de ce
+prélèvement et les modalités de remboursement sont fixés par arrêté du ministre
+de l'économie et des finances.
 
 IV. (Sans objet).
 
-V.-L'Etat perçoit au titre de frais d'assiette, de recouvrement, de dégrèvements
-et de non-valeurs un prélèvement de :
+V. - L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
+dégrèvements et de non-valeurs un prélèvement de :
 
-a. 2, 50 p. 100 en sus du montant de la taxe de publicité foncière ou des droits
+a. 2,37 % en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements en application de l'article
 1594 A.
 
-b. (abrogé)
+b. 2, 14 % en sus du montant de la taxe de publicité foncière ou des droits
+d'enregistrement perçus au profit des départements au taux de 0,70 % ;
 
 c. 2 % sur les montants de la taxe d'apprentissage versés au Fonds national de
 développement et de modernisation de l'apprentissage en application du 1 de
@@ -62,3 +63,7 @@ XIII.-(Sans objet)
 
 XIV.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 2 % sur le montant de la taxe mentionnée à l'article 1011 bis.
+
+XV. - L'Etat perçoit au titre des frais d'assiette, de recouvrement, de
+dégrèvements et de non-valeurs un prélèvement de 1 % en sus du montant, après
+application de l'article 1586 quater.

@@ -18,7 +18,3 @@ français.
 
 Le conjoint étranger doit en outre justifier d'une connaissance suffisante,
 selon sa condition, de la langue française.
-
-La déclaration est faite dans les conditions prévues aux articles 26 et
-suivants. Par dérogation aux dispositions de l'article 26-1, elle est
-enregistrée par le ministre chargé des naturalisations.

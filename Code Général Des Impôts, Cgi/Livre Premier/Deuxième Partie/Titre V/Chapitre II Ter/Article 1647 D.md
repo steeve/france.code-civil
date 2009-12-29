@@ -1,27 +1,23 @@
 Article 1647 D
 ----
-I. A compter de 1981, tous les redevables de la taxe professionnelle sont
+I. - Tous les redevables de la cotisation foncière des entreprises sont
 assujettis à une cotisation minimum établie au lieu de leur principal
-établissement ; le montant de cette cotisation est égal à celui de la taxe
-d'habitation acquittée, l'année précédente, par un logement de référence retenu
-par le conseil municipal après avis de la commission communale des impôts
-directs ; les conseils municipaux ont la faculté de réduire ce montant de la
-moitié au plus pour les assujettis n'exerçant leur activité professionnelle qu'à
-temps partiel ou pendant moins de neuf mois dans l'année. A défaut de
-délibération du conseil municipal, le montant de la cotisation minimum est égal
-à la taxe d'habitation acquittée, l'année précédente, par un logement dont la
-valeur locative était égale à la moyenne communale diminuée d'un abattement des
-deux tiers pour les assujettis n'exerçant leur activité professionnelle qu'à
-temps partiel ou pendant moins de neuf mois dans l'année et d'un tiers pour les
-autres assujettis.
-
-Toutefois, lorsqu'une commission intercommunale des impôts directs a été
-constituée, elle donne son avis sur le logement de référence retenu pour
-l'établissement des impositions au profit de l'établissement public de
-coopération intercommunale.
-
-II. Dans chaque commune, la cotisation de la taxe d'habitation de référence
-résultant de l'application du I est convertie en bases d'imposition par
-application du taux de taxe professionnelle en vigueur dans la commune l'année
-précédente. En 1991, la base d'imposition de taxe professionnelle ainsi
-déterminée est divisée par 0,960.
+établissement ; cette cotisation est établie à partir d'une base dont le montant
+est fixé par le conseil municipal et doit être compris entre 200 € et 2 000 €.
+Les conseils municipaux ont la faculté de réduire ce montant de moitié au plus
+pour les assujettis n'exerçant leur activité professionnelle qu'à temps partiel
+ou pendant moins de neuf mois de l'année.A défaut de délibération, le montant de
+la base minimum est égal au montant de la base minimum de taxe professionnelle
+appliqué en 2009 dans la commune en vertu des dispositions du présent article en
+vigueur au 31 décembre 2009. Lorsqu'un établissement public de coopération
+intercommunale, soumis à l'article 1609 nonies C, a été constitué, il fixe, en
+lieu et place des communes membres, le montant de la base minimum dans les
+limites fixées au premier alinéa du présent I. Les montants mentionnés au
+premier alinéa sont revalorisés chaque année comme le taux prévisionnel, associé
+au projet de loi de finances de l'année, d'évolution des prix à la consommation
+des ménages, hors tabac, pour la même année. II. - Quand ils ne disposent
+d'aucun local ou terrain : 1. Les redevables domiciliés en application d'un
+contrat de domiciliation commerciale sont redevables de la cotisation minimum au
+lieu de leur domiciliation ; 2. Les redevables non sédentaires sont redevables
+de la cotisation minimum établie au lieu de la commune de rattachement mentionné
+sur le récépissé de consignation prévu à l'article 302 octies.

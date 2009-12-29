@@ -22,7 +22,4 @@ sont effectués par virement directement opéré sur le compte du Trésor ouvert
 dans les écritures de la Banque de France lorsque leur montant excède 50 000
 euros.
 
-5. Les paiements relatifs à la cotisation minimale de taxe professionnelle
-mentionnée à l'article 1647 E sont effectués par virement directement opéré sur
-le compte du Trésor ouvert dans les écritures de la Banque de France lorsque
-leur montant excède 50 000 euros.
+5. (Abrogé)

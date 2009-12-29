@@ -15,7 +15,7 @@ logements sociaux existant dans la commune l'année précédente, comme il est d
 de fonctionnement de la commune constatées dans le compte administratif afférent
 au pénultième exercice.
 
-Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811,23
+Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811, 23
 euros.
 
 Le prélèvement est diminué du montant des dépenses exposées par la commune,
@@ -45,11 +45,12 @@ nature des dépenses déductibles et les modalités de déclarations de ces dép
 par les communes.
 
 Le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière
-sur les propriétés non bâties, de la taxe d'habitation et de la taxe
-professionnelle inscrit à la section de fonctionnement du budget des communes
-soumises au prélèvement institué au présent article est diminué du montant de ce
-prélèvement. Celui-ci est imputé sur les attributions mentionnées au premier
-alinéa de l'article L. 2332-2 du code général des collectivités territoriales.
+sur les propriétés non bâties, de la taxe d'habitation et de la cotisation
+foncière des entreprises inscrit à la section de fonctionnement du budget des
+communes soumises au prélèvement institué au présent article est diminué du
+montant de ce prélèvement. Celui-ci est imputé sur les attributions mentionnées
+au premier alinéa de l'article L. 2332-2 du code général des collectivités
+territoriales.
 
 Lorsque la commune appartient à une communauté urbaine, à une communauté
 d'agglomération, une communauté d'agglomération nouvelle, une communauté de

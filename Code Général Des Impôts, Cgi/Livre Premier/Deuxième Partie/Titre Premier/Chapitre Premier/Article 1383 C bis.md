@@ -14,8 +14,8 @@ l'application des articles 87 et 88 du traité aux aides de minimis.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2006 et
 le 31 décembre 2011 inclus, à un établissement remplissant les conditions pour
-bénéficier de l'exonération de taxe professionnelle prévue au I sexies de
-l'article 1466 A.
+bénéficier de l'exonération de cotisation foncière des entreprises prévue au I
+sexies de l'article 1466 A.
 
 Elle s'applique à compter du 1er janvier 2006 ou à compter du 1er janvier de
 l'année qui suit celle où est intervenu le rattachement à un établissement
@@ -28,7 +28,7 @@ présent article.
 Lorsque les conditions requises pour bénéficier des exonérations prévues aux
 articles 1383 A à 1383 D et 1383 F sont remplies, le contribuable doit opter
 pour l'un ou l'autre de ces régimes avant le 1er janvier de la première année au
-titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut
+titre de laquelle l'exonération prend effet.L'option est irrévocable et vaut
 pour l'ensemble des collectivités.
 
 Les obligations déclaratives des personnes et organismes concernés par les

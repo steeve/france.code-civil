@@ -221,6 +221,6 @@ droit spécifique sur les bières prévu à l'article 520 A et de la cotisation
 prévue à l'article L. 245-7 du code de la sécurité sociale, l'impôt est acquitté
 auprès de l'administration en une échéance annuelle unique. Cette échéance est
 fixée pour les entrepositaires agréés produisant des produits vitivinicoles
-régis par le règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999, portant
+régis par le règlement (CE) n° 479 / 2008 du Conseil du 29 avril 2008, portant
 organisation commune du marché vitivinicole, au plus tard le 10 septembre, et,
 pour les autres entrepositaires agréés, au plus tard le 10 janvier.

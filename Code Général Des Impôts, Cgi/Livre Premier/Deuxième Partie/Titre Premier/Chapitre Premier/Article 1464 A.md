@@ -1,8 +1,9 @@
 Article 1464 A
 ----
-Les collectivités territoriales et leurs groupements dotés d'une fiscalité
-propre peuvent, par une délibération de portée générale prise dans les
-conditions définies à l'article 1639 A bis, exonérer de taxe professionnelle :
+Les communes et leurs établissements publics de coopération intercommunale dotés
+d'une fiscalité propre peuvent, par une délibération de portée générale prise
+dans les conditions définies à l'article 1639 A bis, exonérer de cotisation
+foncière des entreprises :
 
 1° Dans la limite de 100 %, les entreprises de spectacles vivants relevant des
 catégories ci-après :
@@ -24,11 +25,11 @@ L'exonération ne bénéficie pas aux entreprises donnant des représentations
 visées au 2 de l'article 279 bis.
 
 La délibération peut porter sur une ou plusieurs catégories. Les délibérations
-prises par les collectivités territoriales et leurs groupements dotés d'une
-fiscalité propre avant l'entrée en vigueur de la loi n° 99-198 du 18 mars 1999
-portant modification de l'ordonnance n° 45-2339 du 13 octobre 1945 relative aux
-spectacles demeurent valables tant qu'elles ne sont pas rapportées ou modifiées
-;
+prises par les communes et leurs établissements publics de coopération
+intercommunale dotés d'une fiscalité propre avant l'entrée en vigueur de la loi
+n° 99-198 du 18 mars 1999 portant modification de l'ordonnance n° 45-2339 du 13
+octobre 1945 relative aux spectacles demeurent valables tant qu'elles ne sont
+pas rapportées ou modifiées ;
 
 2° abrogé
 

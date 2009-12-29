@@ -1,3 +1,4 @@
 Article D562-7
 ----
-Les dispositions de l'article D. 211-10 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles D. 211-10 et D. 211-11 sont applicables en
+Nouvelle-Calédonie.

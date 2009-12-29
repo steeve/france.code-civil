@@ -14,7 +14,7 @@ avantages en nature et remboursements de frais.
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
 dispositions du 9, l'indemnité de congé payé calculée dans les conditions
-prévues aux articles L. 3141-22 à L. 3141-25 du code du travail , y compris les
+prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, y compris les
 charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de
@@ -119,14 +119,14 @@ la valeur ajoutée afférents à des opérations au titre desquelles la taxe due
 peut être totalement ou partiellement déduite par le redevable lui-même, du
 montant de la taxe déductible.
 
-Par exception aux dispositions du premier alinéa, lorsque, en application des
-dispositions du sixième alinéa de l'article 1679 quinquies, un redevable réduit
-le montant du solde de taxe professionnelle du montant du dégrèvement attendu du
-plafonnement de la taxe professionnelle due au titre de la même année, le
-montant de la cotisation de taxe professionnelle déductible du bénéfice net est
-réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement
-ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé
-ultérieurement.
+Par exception aux dispositions du premier alinéa, lorsque, en application du
+sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du
+solde de cotisation foncière des entreprises du montant du dégrèvement attendu
+du plafonnement de la contribution économique territoriale due au titre de la
+même année, le montant de la cotisation foncière des entreprises déductible du
+bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant
+du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est
+accordé ultérieurement.
 
 4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675
 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre
@@ -399,9 +399,9 @@ résultat des exercices ultérieurs.
 de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de
 l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des
 mesures en faveur de certaines catégories de commerçants et artisans âgés. Le
-fait générateur de cette contribution ou de cette taxe est constitué par
-l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de
-laquelle elle est due ;
+fait générateur de cette contribution est constitué par l'existence de
+l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est
+due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,

@@ -1,515 +1,120 @@
 Article 1648 A
 ----
-I. Lorsque dans une commune les bases d'imposition d'un établissement, divisées
-par le nombre d'habitants, excèdent deux fois la moyenne des bases de taxe
-professionnelle par habitant constatée au niveau national, il est perçu
-directement, au profit d'un fonds départemental de la taxe professionnelle, un
-prélèvement égal au produit du montant des bases excédentaires par le taux en
-vigueur dans la commune. Le seuil d'écrêtement résultant de cette disposition
-est, pour 1991, divisé par 0,960.
-
-Par exception au premier alinéa, lorsque dans une commune les bases d'imposition
-de l'établissement visé au premier alinéa augmentent d'au moins 5 % par rapport
-à l'année précédente, l'augmentation des bases excédentaires de l'établissement
-est imposée à hauteur des deux tiers au profit du fonds départemental de la taxe
-professionnelle et à hauteur d'un tiers au profit de la commune d'implantation
-lorsque le montant des bases prévisionnelles notifiées afférentes à des
-établissements ayant bénéficié, au cours de l'avant-dernière année précédant
-celle de l'imposition, d'un dégrèvement en application de l'article 1647 B
-sexies est supérieur à 75 % du montant total des bases prévisionnelles notifiées
-à la commune.
-
-Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence
-à cette notion, est prise en compte la valeur nette des bases de taxe
-professionnelle après écrêtement ou après déduction de l'équivalent en bases du
-prélèvement versé au fonds départemental de la taxe professionnelle au titre des
-deuxième à quatrième alinéas du b du 2 du I ter.
-
-Dans le cas où une commune visée par les dispositions des premier, deuxième et
-troisième alinéas appartient à un établissement public de coopération
-intercommunale auquel elle versait, avant le 1er mai 1991, une contribution
-budgétaire calculée par référence au produit global de sa taxe professionnelle
-ou de ses quatre taxes ou s'était engagée, par accord conventionnel, à reverser
-une partie de ce produit à une ou plusieurs communes voisines, il est appliqué
-sur les bases de cette commune, pour l'application des premier, deuxième et
-troisième alinéas, une réduction de bases correspondant au montant des sommes en
-cause.
-
-La réduction appliquée aux bases des communes bénéficiant des dispositions du
-quatrième alinéa est maintenue en cas de transformation, à compter de la date de
-publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à
-la simplification de la coopération intercommunale, du groupement auquel elles
-appartiennent en établissement public de coopération intercommunale à fiscalité
-additionnelle. Son montant est réduit de 10 % par an à compter de la date de la
-transformation.
-
-Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux
-produisant de l'énergie ou traitant des combustibles, l'assiette du prélèvement
-est limitée de manière que la commune conserve au moins 80 % du montant des
-bases de taxe professionnelle imposables à son profit en 1979. A compter de
-1991, ce montant est divisé par 0,960.
-
-Les dispositions du présent I ne s'appliquent pas aux agglomérations nouvelles.
-
-I bis. Pour les établissements produisant de l'énergie ou traitant des
-combustibles, toute unité de production ou de traitement est considérée comme un
-établissement pour l'application des I et III.
-
-Les dispositions du I sexies ne sont alors pas applicables.
-
-I ter. 1. Lorsque, dans un établissement public de coopération intercommunale
-ayant opté pour le régime fiscal prévu à la première phrase du premier alinéa du
-II de l'article 1609 quinquies C, les bases d'imposition d'un établissement
-implanté dans la zone d'activités économiques, rapportées au nombre d'habitants
-de la commune sur le territoire de laquelle est situé l'établissement, excèdent
-deux fois la moyenne nationale des bases communales de taxe professionnelle par
-habitant, il est perçu directement un prélèvement de taxe professionnelle du
-groupement au profit du fonds départemental de péréquation de la taxe
-professionnelle.
-
-Ce prélèvement est égal au montant des bases excédentaires de l'établissement
-pondérées par le taux de taxe professionnelle perçue par le groupement sur la
-zone d'activités économiques.
-
-Par exception au premier alinéa, lorsque dans un établissement de coopération
-intercommunale visé au même alinéa les bases d'imposition de l'établissement
-visé audit alinéa augmentent d'au moins 5 % par rapport à l'année précédente,
-l'augmentation des bases excédentaires de l'établissement est imposée à hauteur
-des deux tiers au profit du fonds départemental de la taxe professionnelle et à
-hauteur d'un tiers au profit de l'établissement de coopération intercommunale
-doté d'une fiscalité propre lorsque le montant des bases prévisionnelles
-notifiées afférentes à des établissements ayant bénéficié, au cours de
-l'avant-dernière année précédant celle de l'imposition, d'un dégrèvement en
-application de l'article 1647 B sexies est supérieur à 75 % du montant total des
-bases prévisionnelles notifiées à l'établissement de coopération intercommunale.
-
-Les dispositions des premier, deuxième et troisième alinéas sont applicables
-dans les mêmes conditions lorsque l'établissement public de coopération
-intercommunale fait application de la deuxième phrase du premier alinéa du II de
-l'article 1609 quinquies C.
-
-2 a. Lorsque, dans un établissement public de coopération intercommunale soumis
-de plein droit ou après option au régime fiscal prévu à l'article 1609 nonies C,
-les bases d'imposition d'un établissement rapportées au nombre d'habitants de la
-commune sur le territoire de laquelle est situé cet établissement excèdent deux
-fois la moyenne nationale des bases communales de taxe professionnelle par
-habitant, il est perçu directement un prélèvement de taxe professionnelle du
-groupement au profit du fonds départemental de péréquation de la taxe
-professionnelle. Pour les établissements créés avant le 1er janvier 1976, à
-l'exception de ceux produisant de l'énergie ou traitant des combustibles,
-l'assiette du prélèvement est limitée de manière à ce que le groupement
-conserve, sur le territoire de la commune sur lequel est implanté
-l'établissement, au moins 80 % du montant divisé par 0,960 des bases de taxe
-professionnelle qui étaient imposables en 1979 au profit de cette commune. Pour
-les établissements publics de coopération intercommunale résultant de la
-transformation d'un groupement de communes mentionné au quatrième alinéa du I,
-postérieure à la date de publication de la loi n° 99-586 du 12 juillet 1999
-précitée, l'assiette du prélèvement, au profit du fonds, sur les bases du
-groupement qui se substitue à une commune qui bénéficiait des dispositions du
-quatrième alinéa du I, est diminuée, à compter de la date de la transformation,
-du montant de la réduction de bases qui était accordée à cette commune l'année
-précédant la perception de la taxe professionnelle en application du régime
-fiscal prévu à l'article 1609 nonies C par l'établissement public de coopération
-intercommunale issu de la transformation.
-
-Par exception au premier alinéa, lorsque dans cet établissement public de
-coopération intercommunale les bases d'imposition de l'établissement augmentent
-d'au moins 5 % par rapport à l'année précédente, l'augmentation des bases
-excédentaires de l'établissement est imposée à hauteur des deux tiers au profit
-du fonds départemental de la taxe professionnelle et à hauteur d'un tiers au
-profit de l'établissement de coopération intercommunale doté d'une fiscalité
-propre lorsque le montant des bases prévisionnelles notifiées afférentes à des
-établissements ayant bénéficié, au cours de l'avant-dernière année précédant
-celle de l'imposition, d'un dégrèvement en application de l'article 1647 B
-sexies est supérieur à 75 % du montant total des bases prévisionnelles notifiées
-à l'établissement de coopération intercommunale.
-
-L'assiette du prélèvement direct au profit du fonds, opéré sur les bases de
-l'établissement public de coopération intercommunale soumis, à compter du 1er
-janvier 2003, au régime fiscal prévu à l'article 1609 nonies C, est diminuée du
-montant de la réduction de bases dont bénéficiaient ses communes membres en
-application du quatrième alinéa du I, l'année précédant la première application
-du régime fiscal de l'article 1609 nonies C.
-
-Ce prélèvement est égal au montant des bases excédentaires de l'établissement
-pondérées par le taux de taxe professionnelle perçue par le groupement.
-
-Toutefois, il n'y a pas lieu à prélèvement lorsque celui-ci résulte du transfert
-entre deux communes situées sur le périmètre d'un même établissement public de
-coopération intercommunale soumis de plein droit, ou après option, au régime
-fiscal prévu à l'article 1609 nonies C, d'un établissement dont les bases
-d'imposition divisées par le nombre d'habitants n'excédaient pas, avant le
-transfert, deux fois la moyenne des bases de taxe professionnelle par habitant
-constatée au niveau national.
-
-A compter du 1er janvier 2008, le quatrième alinéa est applicable aux transferts
-d'établissements intervenus en 2006 et 2007. Lorsque ces transferts ont ouvert
-droit, au titre de l'année 2007, à la compensation prévue par le 1° du I de
-l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003),
-le versement de cette compensation est interrompu définitivement à compter du
-1er janvier 2008.
-
-En cas de transfert, à compter du 1er janvier 2008, d'un établissement entre
-deux communes situées sur le périmètre d'un même établissement public de
-coopération intercommunale soumis de plein droit, ou après option, au régime
-fiscal prévu à l'article 1609 nonies C, la population de la commune retenue pour
-le calcul des bases excédentaires prévues au premier alinéa est celle qui était
-retenue l'année du transfert.
-
-b. A compter de la date de publication de la loi n° 99-586 du 12 juillet 1999
-précitée, les établissements publics de coopération intercommunale, soumis de
-plein droit ou après option au régime fiscal prévu au 1° du I de l'article 1609
-nonies C, ne font plus l'objet d'un prélèvement direct de taxe professionnelle
-au profit du fonds départemental de péréquation de la taxe professionnelle dans
-les conditions prévues au présent article.
-
-Toutefois, verront leurs ressources fiscales diminuées chaque année d'un
-prélèvement égal au produit de l'écrêtement intervenu l'année précédant
-l'application du premier alinéa :
-
-1° les établissements publics de coopération intercommunale soumis au régime du
-1° du I de l'article 1609 nonies C et qui faisaient l'objet l'année précédente
-d'un écrêtement au profit du fonds départemental de péréquation de la taxe
-professionnelle au titre du 1, du a ou du I quater ;
-
-2° les établissements publics de coopération intercommunale soumis au régime du
-1° du I de l'article 1609 nonies C et sur le territoire desquels une ou
-plusieurs communes membres faisaient l'objet l'année de sa constitution ou de
-son option pour le régime précité d'un écrêtement au profit du fonds
-départemental de péréquation de la taxe professionnelle au titre du I.
-
-Les prélèvements prévus au b sont versés aux fonds départementaux de péréquation
-de la taxe professionnelle. A compter de 2004, ces prélèvements sont égaux aux
-montants perçus par les fonds au titre de l'année précédente. Lorsque le produit
-de taxe professionnelle correspondant à l'établissement exceptionnel diminue par
-rapport à celui de l'année précédente, le montant du prélèvement est réduit dans
-la même proportion. Cette réduction est toutefois supprimée l'année suivante si
-le produit de taxe professionnelle correspondant à l'établissement exceptionnel
-redevient supérieur à celui de l'avant-dernière année. Toutefois, lorsque la
-diminution du produit fiscal a pour effet de permettre à l'établissement public
-de coopération intercommunale de bénéficier de la compensation prévue par
-l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003),
-celui-ci peut décider, pour chaque année au titre de laquelle une attribution de
-compensation des pertes de produit lui est versée, de minorer cette réduction du
-prélèvement dans la limite de l'attribution de compensation perçue. Les montants
-de ces prélèvements sont actualisés chaque année compte tenu du taux d'évolution
-de la dotation globale de fonctionnement lorsque ce taux n'est pas supérieur au
-taux d'accroissement des bases de l'établissement qui faisaient antérieurement
-l'objet d'un écrêtement avant la transformation de l'établissement public de
-coopération intercommunale en communauté urbaine ou en communauté
-d'agglomération. Les montants de ces prélèvements peuvent être augmentés dans la
-limite de l'accroissement d'une année sur l'autre des taux et des bases de
-l'établissement qui faisaient l'objet d'un écrêtement avant la transformation de
-l'établissement public de coopération intercommunale en communauté urbaine ou en
-communauté d'agglomération, sous réserve de délibérations concordantes entre
-l'établissement public de coopération intercommunale concerné et le conseil
-général du département d'implantation de l'établissement ou, le cas échéant,
-entre l'établissement public de coopération intercommunale concerné et les
-conseils généraux des départements concernés.
-
-En cas de cessation d'activité de l'établissement exceptionnel ayant donné lieu
-à écrêtement, le prélèvement est supprimé.
-
-c. A compter du 1er janvier 2002, les dispositions du b sont également
-applicables aux établissements publics de coopération intercommunale mentionnés
-au second alinéa du I quater et faisant application, à compter de cette date,
-des dispositions du I de l'article 1609 nonies C.
-
-d) 1° Pour les établissements publics de coopération intercommunale soumis de
-plein droit ou après option au régime fiscal prévu au I de l'article 1609 nonies
-C à la suite d'une fusion réalisée dans les conditions prévues à l'article L.
-5211-41-3 du code général des collectivités territoriales et prenant effet à
-compter du 1er janvier 2009, les recettes fiscales sont diminuées, chaque année
-à compter de l'année qui suit celle au cours de laquelle l'arrêté préfectoral
-portant fusion a été pris, d'un prélèvement.
-
-Ce prélèvement est égal à la somme des prélèvements et des produits des
-écrêtements opérés, l'année au cours de laquelle l'arrêté préfectoral portant
-fusion a été pris, au profit du fonds départemental de péréquation de la taxe
-professionnelle en application, d'une part, du présent I ter et du I quater en
-ce qui concerne les établissements publics de coopération intercommunale
-participant à la fusion et, d'autre part, en application du I pour les communes
-rattachées à l'établissement issu de la fusion. Le montant de ces prélèvements
-et écrêtements est ajusté pour tenir compte des retraits éventuels de communes
-réalisés avant l'opération de fusion ;
-
-2° A compter du 1er janvier 2009, pour les établissements publics de coopération
-intercommunale issus d'une fusion, réalisée conformément à l'article L.
-5211-41-3 du code général des collectivités territoriales, qui a pris effet le
-1er janvier 2008 et dont l'un au moins des établissements publics de coopération
-intercommunale participant à la fusion était soumis l'année de la fusion au
-prélèvement défini au b du présent I ter, les recettes fiscales sont diminuées,
-chaque année, d'un prélèvement.
-
-En 2009, ce prélèvement est égal à la somme des prélèvements et des produits des
-écrêtements opérés au profit du fonds départemental de péréquation de la taxe
-professionnelle tels qu'ils auraient été déterminés en 2008 en l'absence de
-fusion conformément au présent I ter et au I quater pour les établissements
-publics de coopération intercommunale participant à la fusion. Lorsque
-l'opération de fusion a ouvert droit, au titre de l'année 2008, à la
-compensation prévue au 1° du I de l'article 53 de la loi de finances pour 2004
-(n° 2003-1311 du 30 décembre 2003), le versement de cette compensation est
-définitivement supprimé.
-
-Pour les années suivantes, les modalités d'évolution du prélèvement prévu aux 1°
-ou 2° sont celles prévues aux cinquième et sixième alinéas du b.
-
-I quater. Pour les communautés de communes, lorsque les bases d'imposition d'un
-établissement rapportées au nombre d'habitants de la commune sur le territoire
-de laquelle est situé l'établissement excèdent deux fois la moyenne nationale
-des bases de taxe professionnelle par habitant, il est perçu directement un
-prélèvement au profit du fonds départemental de péréquation de la taxe
-professionnelle égal au produit du montant des bases excédentaires par le taux
-de taxe professionnelle de la communauté de communes.
-
-Par exception au premier alinéa, lorsque dans un établissement de coopération
-intercommunale visé au premier alinéa les bases d'imposition de l'établissement
-visé au même alinéa augmentent d'au moins 5 % par rapport à l'année précédente,
-l'augmentation des bases excédentaires de l'établissement est imposée à hauteur
-des deux tiers au profit du fonds départemental de la taxe professionnelle et à
-hauteur d'un tiers au profit de l'établissement de coopération intercommunale
-doté d'une fiscalité propre lorsque le montant des bases prévisionnelles
-notifiées afférentes à des établissements ayant bénéficié, au cours de
-l'avant-dernière année précédant celle de l'imposition, d'un dégrèvement en
-application de l'article 1647 B sexies est supérieur à 75 % du montant total des
-bases prévisionnelles notifiées à l'établissement de coopération intercommunale.
-
-Pour les communautés de communes issues, à compter de la date de publication de
-la loi n° 99-586 du 12 juillet 1999 précitée, de districts créés avant la date
-de promulgation de la loi n° 92-125 du 6 février 1992 d'orientation relative à
-l'administration territoriale de la République, le prélèvement mentionné aux
-premier et deuxième alinéas est égal au produit du montant des bases
-excédentaires par la différence, lorsqu'elle est positive, entre le taux voté
-par la communauté de communes l'année précédant l'année considérée et le taux
-voté par le district en 1998.
-
-I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
-pour l'application en Corse du I, du 1 et du a du 2 du I ter et du I quater est
-multipliée par 0,75.
-
-I sexies. A compter du 1er janvier 1998, lorsqu'à la suite d'une opération
-d'apport, de scission d'entreprise ou mise à disposition de biens visés à
-l'article 1469, intervenue après le 31 décembre 1995, les éléments d'imposition
-d'un établissement qui a donné lieu, l'année de l'opération ou l'année
-précédente si l'opération intervient le 1er janvier, aux prélèvements prévus aux
-I, I ter et I quater, sont répartis entre plusieurs établissements imposables
-dans la même commune au nom d'entreprises contrôlées en droit directement ou
-indirectement par une même personne, ces établissements sont réputés n'en
-constituer qu'un seul pour l'application des dispositions du présent article,
-sous réserve que leur activité consiste en la poursuite exclusive d'une ou
-plusieurs activités précédemment exercées dans l'établissement d'origine.
-
-Ces dispositions sont définitivement inapplicables lorsqu'au 1er janvier d'une
-année les conditions relatives à l'activité et au contrôle ne sont pas remplies.
-
-II. Les ressources du fond sont réparties par le conseil général si les
-collectivités concernées sont situées dans les limites d'un même département, ou
-par une commission interdépartementale réunie à l'initiative de l'un des
-conseils si les communes concernées sont situées dans deux ou plusieurs
-départements, que ces départements soient ou non limitrophes du département où
-est implanté l'établissement dont les bases sont écrêtées. Chaque conseil
-général désigne sept membres pour siéger à cette commission.
-
-La liste des communes concernées est arrêtée par le conseil général du
-département où est implanté l'établissement dont les bases sont écrêtées ou par
-la commission interdépartementale lorsque plusieurs départements sont concernés.
-
-Sur la partie du fonds alimentée par l'écrêtement des bases communales ou le
-prélèvement prévu au b et au d du 2 du I ter, le conseil général prélève, par
-priorité, au profit des communes ou syndicats de communes bénéficiaires de ces
-ressources et à concurrence du montant de l'écrêtement ou du prélèvement prévu
-au quatrième alinéa du b du 2 du I ter, les sommes qui leur sont nécessaires
-pour permettre le remboursement des annuités d'emprunts contractés par eux avant
-le 1er juillet 1975.
-
-Le conseil général ou, le cas échéant, la commission interdépartementale peut
-également prélever au profit des communes dans lesquelles le montant du
-prélèvement qu'elles versent au fonds augmente, en raison de la disparition des
-bases correspondant à la fraction de l'assiette de la taxe professionnelle
-assise sur les salaires en application des dispositions du A de l'article 44 de
-la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), les sommes
-destinées à compenser en totalité ou en partie la perte de recettes enregistrée
-par la commune. Le montant de l'attribution versée à ces communes est arrêté par
-convention entre le conseil général concerné et la commune. ;
-
-Le solde est réparti :
-
-1° D'une part entre les communes, les établissements publics de coopération
-intercommunale et les agglomérations nouvelles, défavorisés par la faiblesse de
-leur potentiel fiscal ou l'importance de leurs charges ;
-
-2° D'autre part :
-
-a. Entre les commune qui sont situées à proximité de l'établissement
-lorsqu'elles ou leurs établissements publics de coopération intercommunale
-subissent de ce fait un préjudice ou une charge quelconque et en particulier
-lorsqu'une partie des salariés de cet établissement y réside, le nombre de
-ceux-ci étant un élément déterminant de la répartition ;
-
-Il est fait obligation aux établissements visés au présent article de
-communiquer la liste non nominative de leurs salariés par commune de résidence
-sur la base des effectifs au 1er janvier de l'année d'écrêtement.
-
-La communication de cette liste doit impérativement intervenir dans le délai de
-deux mois consécutivement à la demande effectuée par le conseil général du
-département d'implantation de l'établissement et, le cas échéant, par des
-départements limitrophes de celui-ci.
-
-A défaut de communication dans le délai susmentionné, le département
-d'implantation saisit le représentant de l'Etat qui est en charge de
-l'application de pénalités fixées à 10 % du produit de l'écrêtement de
-l'établissement concerné.
-
-Dès leur recouvrement, ces pénalités viennent alimenter le produit de
-l'écrêtement issu de l'établissement et sont réparties selon les mêmes
-modalités.
-
-b. Entre les communes d'implantation des barrages réservoirs et barrages
-retenues conçus et construits en vue de régulariser le débit des fleuves auprès
-desquels sont situés les établissements mentionnés au III qui produisent de
-l'énergie en traitant des combustibles nucléaires, mais à l'exclusion des
-communes d'implantation des barrages réservoirs et retenues dont l'objet
-principal est la production d'énergie électrique.
-
-Les communes mentionnées au b ci-dessus bénéficient d'une fraction égale à 8 p.
-100 du minimum des ressources réservées à la catégorie définie au 2°. Cette
-fraction est répartie par le conseil général du département où sont situées les
-communes d'implantation du barrage ou par une commission interdépartementale
-lorsque les communes sont situées sur le territoire de plusieurs départements.
-
-Une commune d'implantation de barrage réservoir ou de barrage retenue ne peut
-bénéficier d'une attribution, pour un même fonds départemental, qu'au titre de
-l'une ou l'autre des catégories définies au a et au b ci-dessus.
-
-Chacune des catégories définies aux 1° et 2° recevra au minimum 40 % des
-ressources de ce fonds.
-
-III. Lorsque l'excédent provient d'un établissement au sens du I bis produisant
-de l'énergie ou traitant des combustibles, créé à partir du 1er janvier 1976, la
-répartition de la fraction de ressources mentionnée au 2° du II, établie par le
-ou les départements concernés dans les conditions prévues au II, est soumise à
-l'accord, à la majorité qualifiée, des communes d'implantation et des communes
-concernées, telles qu'elles sont définies au 2° du II.
-
-IV. A défaut de l'accord prévu au sein de la commission interdépartementale par
-le II et le IV bis ou entre les communes d'implantation et les communes
-concernées par le III la répartition est effectuée par arrêté du ministre de
-l'intérieur.
-
-IV bis. 1° Sur la partie du fonds alimentée par le prélèvement prévu au b et au
-d du 2 du I ter ou l'écrêtement des bases des établissements publics de
-coopération intercommunale soumis, de plein droit ou après option, aux
-dispositions fiscales de l'article 1609 nonies C, le conseil général ou, le cas
-échéant, la commission interdépartementale prélève, par priorité, au profit de
-l'établissement public de coopération intercommunale dont les bases ont été
-écrêtées ou qui a subi un prélèvement au titre du troisième alinéa du b du 2 du
-I ter,20 % au moins et 40 % au plus du montant de l'écrêtement ou du
-prélèvement, majoré le cas échéant du montant de la compensation prévue au IV de
-l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986),
-ainsi que du montant perçu en 2003 en application du D de l'article 44 de la loi
-de finances pour 1999 précitée et du 1 du III de l'article 29 de la loi de
-finances pour 2003 (n° 2002-1575 du 30 décembre 2002) indexé chaque année comme
-la dotation forfaitaire prévue par l'article L. 2334-7 du code général des
-collectivités territoriales.
-
-Le conseil général ou, le cas échéant, la commission interdépartementale peut
-également prélever au profit des établissements publics de coopération
-intercommunale soumis, de plein droit ou après option, aux dispositions de
-l'article 1609 nonies C, dans lesquels le montant du prélèvement au profit du
-fonds augmente, en raison de la disparition des bases correspondant à la
-fraction de l'assiette de la taxe professionnelle assise sur les salaires en
-application des dispositions du A de l'article 44 de la loi de finances pour
-1999 (n° 98-1266 du 30 décembre 1998), les sommes destinées à compenser en
-totalité ou en partie la perte de recettes enregistrée par l'établissement
-public de coopération intercommunale. Le montant de l'attribution versée à ces
-établissements publics de coopération intercommunale est arrêté par convention
-entre le conseil général concerné et l'établissement public de coopération
-intercommunale.
-
-Le conseil général ou, le cas échéant, la commission interdépartementale
-répartit le solde :
-
-a) Par priorité, et à concurrence du montant de l'écrêtement, au profit des
-communes ou syndicats de communes bénéficiaires des ressources, pour le
-remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
-1975 ;
-
-b) Entre les communes et les établissements publics de coopération
-intercommunale à fiscalité propre défavorisés par la faiblesse de leur potentiel
-fiscal ou l'importance de leurs charges ;
-
-c) Entre les communes qui répondent aux conditions fixées au 2° du II.
-
-2° Sur la partie du fonds alimentée par le prélèvement prévu au b et au d du 2
-du I ter ou par l'écrêtement des bases des établissements publics de coopération
-intercommunale à fiscalité propre, le conseil général ou, le cas échéant, la
-commission interdépartementale prélève, par priorité, au profit de
-l'établissement public de coopération intercommunale dont les bases ont été
-écrêtées ou qui a subi un prélèvement au titre du troisième alinéa du b du 2 du
-I ter, deux tiers au moins, trois quarts au plus du montant de l'écrêtement ou
-du prélèvement, majoré le cas échéant du montant de la compensation prévue au IV
-de l'article 6 de la loi de finances pour 1987 précitée, ainsi que du montant
-perçu en 2003 en application du D de l'article 44 de la loi de finances pour
-1999 précitée et du 1 du III de l'article 29 de la loi de finances pour 2003
-précitée indexé chaque année comme la dotation forfaitaire prévue par l'article
-L. 2334-7 du code général des collectivités territoriales. Cette proportion est
-fixée de telle sorte que les communes bénéficiaires du fonds ne subissent pas,
-d'une année sur l'autre, une diminution excessive du montant de leur attribution
-liée à cette affectation prioritaire.
-
-A compter du 1er janvier 2000, le prélèvement au profit de l'établissement
-public de coopération intercommunale dont les bases ont été écrêtées ou qui a
-subi un prélèvement au titre du troisième alinéa du b du 2 du I ter est fixé à
-30 % au moins et 60 % au plus du montant de l'écrêtement, pour les groupements
-créés après le 31 décembre 1992.
-
-Dans le cas où l'écrêtement ou le prélèvement prévu au b et au d du 2 du I ter
-concerne les bases d'établissements installés sur une zone d'activités
-économiques et assujetties aux dispositions du II de l'article 1609 quinquies C,
-ce reversement ne peut être inférieur aux annuités des emprunts contractés pour
-l'équipement de cette zone dans la limite des ressources prélevées par
-l'écrêtement ou le prélèvement prévu au troisième alinéa du b du 2 du I ter.
-
-Le conseil général ou, le cas échéant, la commission interdépartementale
-répartit le solde dans les conditions prévues au deuxième alinéa du 1°.
-
-V. Une fraction des recettes départementales de la taxe professionnelle peut
-également être affectée au fonds par décision du conseil général. Ce supplément
-de recettes est réparti par lui entre les communes suivant les critères qu'il
-détermine.
-
-V bis. (sans objet).
-
-V ter. Pour l'application des II et suivants, le potentiel fiscal de chaque
-commune membre d'une communauté ou d'un syndicat d'agglomération nouvelle visés
-à l'article 1609 nonies B est calculé de la façon suivante :
-
-a. Pour la première année de fonctionnement de la communauté ou du syndicat
-d'agglomération nouvelle, le potentiel fiscal de chaque commune intègre, au
-titre de la taxe professionnelle, une quote-part des bases d'imposition de
-l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
-
-b. A compter de la seconde année de fonctionnement de la communauté ou du
-syndicat d'agglomération nouvelle, le potentiel fiscal de chaque commune est
-celui qui est défini à l'article L5334-16 du code général des collectivités
-territoriales.
-
-V quater. En région Ile-de-France, les ressources des fonds départementaux de
-péréquation alimentés par l'écrêtement des établissements mentionnés aux I, I
-ter et I quater et situés dans une commune comprise dans les limites
-territoriales des aéroports de Paris-Charles-de-Gaulle et de Paris-Orly, sont
-réparties comme suit :
-
-a. Le prélèvement prioritaire prévu aux 1° et 2° du IV bis est limité
-respectivement à 25 % et 30 % ;
-
-b. Les ressources du fonds ou, le cas échéant, le solde, lorsqu'il est fait
-application du a, sont répartis conformément aux dispositions du II.
-
-Toutefois,40 % de la dotation à répartir par le fonds départemental de
-péréquation de la taxe professionnelle entre les communes définies au 2° du II
-sont affectés aux fonds de compensation des nuisances aéroportuaires définis au
-I de l'article 1648 AC.
-
-VI. Les conditions d'application du présent article sont fixées par décret en
-Conseil d'Etat.
+I. - En 2010, les communes et établissements publics de coopération
+intercommunale à fiscalité propre voient leurs ressources fiscales diminuées
+d'un prélèvement au profit des fonds départementaux de péréquation de la taxe
+professionnelle égal à la somme des prélèvements opérés et des produits de taxe
+professionnelle écrêtés au profit de ces fonds en 2009 en application du présent
+article et de l'article 1648 AA dans leur rédaction en vigueur au 31 décembre
+2009.
+
+En cas de création, dissolution ou modification du périmètre d'un établissement
+public de coopération intercommunale à fiscalité propre, les prélèvements au
+titre de l'année 2010, prévus au premier alinéa, des communes et établissements
+résultant de cette opération sont calculés selon les modalités prévues au III.
+
+II. - En région Ile-de-France, les fonds départementaux de péréquation versent
+au titre de l'année 2010 à chacun des fonds de compensation des nuisances
+aéroportuaires définis au I de l'article 1648 AC une attribution d'un montant
+égal à celui que les fonds départementaux de péréquation de la taxe
+professionnelle lui ont versé au titre de l'année 2009.
+
+Chaque fonds départemental de péréquation de la taxe professionnelle verse en
+2010 à chaque commune ou établissement public de coopération intercommunale à
+fiscalité propre une attribution minimale dont le montant est égal à celui
+prélevé au titre de l'année 2009 au profit de cette commune ou établissement
+public sur les ressources de ce fonds en application du troisième alinéa du II
+et du premier alinéa des 1° et 2° du IV bis du présent article dans sa rédaction
+en vigueur au 31 décembre 2009.
+
+En cas de fusion ou de scission de commune ou de création, dissolution ou
+modification du périmètre d'un établissement public de coopération
+intercommunale à fiscalité propre, les attributions minimales au titre de
+l'année 2010, prévues à l'alinéa précédent, des communes et établissements
+résultant de cette opération sont calculées selon les modalités prévues au III.
+
+Le solde des ressources du fonds départemental de péréquation est réparti par le
+conseil général entre les communes et les établissements publics de coopération
+intercommunale à fiscalité propre éligibles à un reversement du fonds en
+application du présent article dans sa rédaction en vigueur au 31 décembre 2009.
+
+III. - 1. En cas de création, modification de périmètre, fusion ou dissolution,
+prenant effet sur le plan fiscal en 2010, d'un ou plusieurs établissements
+publics de coopération intercommunale à fiscalité propre, le montant du
+prélèvement opéré en application du 1 du I sur les ressources de chaque
+établissement public résultant de cette opération et chacune des communes
+membres des établissements préexistants concernés par cette opération s'obtient
+:
+
+a) En calculant, pour chacun des établissements préexistants concernés par cette
+opération, la part de prélèvement intercommunal afférente à chaque commune.
+Cette part communale est obtenue en répartissant, au prorata des bases de taxe
+professionnelle imposées au titre de l'année 2009 et situées sur le territoire
+de chaque commune, le prélèvement opéré au profit du fonds départemental de
+péréquation de la taxe professionnelle en 2009 sur les ressources de cet
+établissement.
+
+Pour les communes appartenant à l'issue de cette opération à un établissement
+public de coopération intercommunale à fiscalité propre pour lequel
+l'application au titre de l'année 2010 des dispositions du présent article dans
+sa rédaction en vigueur au 31 décembre 2009 aurait conduit à la mise en œuvre du
+prélèvement prévu aux b, c ou d du 2 du I ter du même article et qui
+n'appartenaient pas avant cette opération à un établissement public relevant
+desdits b, c ou d, la part mentionnée à l'alinéa précédent est majorée du
+produit de taxe professionnelle afférent aux établissements implantés sur le
+territoire de cette commune et écrêté au titre de l'année 2009 au profit du même
+fonds ;
+
+b) En additionnant, pour chacun des établissements publics de coopération
+intercommunale à fiscalité propre résultant de cette opération, les parts de
+prélèvement intercommunal, calculées conformément au a du présent 1, afférentes
+aux communes que cet établissement regroupe ;
+
+c) Lorsqu'à l'issue de cette opération une commune n'est plus membre d'aucun
+établissement public de coopération intercommunale à fiscalité propre, le
+prélèvement sur ses ressources est égal à la part de prélèvement intercommunal
+calculée conformément au a du présent 1 pour cette commune.
+
+2. L'attribution minimale, prévue au deuxième alinéa du II, de chaque
+établissement public de coopération intercommunale résultant de l'opération
+mentionnée au premier alinéa du 1 du présent III et de chacune des communes
+membres des établissements préexistants concernés par cette opération est
+calculée :
+
+a) Pour sa fraction tirant son origine du premier alinéa des 1° et 2° du IV bis
+du présent article dans sa rédaction en vigueur au 31 décembre 2009, à partir
+des reversements prioritaires aux communes et établissements publics de
+coopération intercommunale concernés par la modification, selon les mêmes
+dispositions que celles prévues au 1 du présent III pour les écrêtements et
+prélèvements dont elle est issue ;
+
+b) Pour sa fraction tirant son origine du troisième alinéa du II du présent
+article dans sa rédaction en vigueur au 31 décembre 2009, au prorata des
+annuités d'emprunts mentionnées audit alinéa et transmises à chaque commune ou
+établissement public nouveau.
+
+3. En cas de fusion de communes prenant effet sur le plan fiscal en 2010,
+l'attribution minimale de la commune résultant de la fusion est égale à la somme
+des attributions minimales calculées conformément au deuxième alinéa du II pour
+les communes participant à la fusion.
+
+En cas de scission de communes prenant effet sur le plan fiscal en 2010,
+l'attribution minimale de chacune des communes résultant de la fusion est
+calculée :
+
+a) Pour sa fraction tirant son origine du premier alinéa des 1° et 2° du IV bis
+du présent article dans sa rédaction en vigueur au 31 décembre 2009, au prorata
+des bases écrêtées au titre de l'année 2009 au profit du fonds départemental de
+péréquation de la taxe professionnelle et situées sur le territoire de chacune
+des communes résultant de la scission ;
+
+b) Pour sa fraction tirant son origine du troisième alinéa du II du présent
+article dans sa rédaction en vigueur au 31 décembre 2009, au prorata des
+annuités d'emprunts mentionnées audit alinéa et transmises à chaque commune
+résultant de la scission.
+
+IV. - Une fraction de la compensation relais versée au département en
+application de l'article 1640 B peut également être affectée au fonds par
+décision du conseil général. Ce supplément de recettes est réparti par le
+conseil général entre les communes et établissements publics de coopération
+intercommunale à fiscalité propre suivant les critères qu'il détermine.

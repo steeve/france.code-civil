@@ -4,13 +4,13 @@ I. - Les collectivités territoriales et leurs établissements publics de
 coopération intercommunale dotés d'une fiscalité propre peuvent, par une
 délibération de portée générale prise dans les conditions prévues au I de
 l'article 1639 A bis, exonérer de taxe foncière sur les propriétés bâties pour
-une durée de sept ans les immeubles appartenant à une entreprise existant au 1er
-janvier 2004 ou créée entre cette date et le 31 décembre 2013, répondant, au
-cours de la période de référence mentionnée à l'article 1467 A, aux conditions
-fixées par les 1°, 3°, 4°, 5° de l'article 44 sexies-0 A et dans lesquels elle
-exerce son activité au 1er janvier de l'année d'imposition. Lorsque l'immeuble
-appartient à une entreprise existant au 1er janvier 2004, celle-ci doit avoir
-été créée depuis moins de huit ans au 1er janvier de l'année d'imposition.
+une durée de sept ans les immeubles appartenant à une entreprise créée jusqu'au
+31 décembre 2013 et, répondant, au cours de la période de référence mentionnée à
+l'article 1467 A, aux conditions fixées par les 1°, 3°, 4°, 5° de l'article 44
+sexies-0 A et dans lesquels elle exerce son activité au 1er janvier de l'année
+d'imposition. Lorsque l'immeuble appartient à une entreprise existant au 1er
+janvier 2004, celle-ci doit avoir été créée depuis moins de huit ans au 1er
+janvier de l'année d'imposition.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 établissement public de coopération intercommunale doté d'une fiscalité propre.

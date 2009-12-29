@@ -16,7 +16,7 @@ membres pour l'application des dispositions relatives à la taxe professionnelle
 à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le
 produit de cette taxe.
 
-II. 1° Les établissements publics de coopération intercommunale visés au I
+II . 1° Les établissements publics de coopération intercommunale visés au I
 peuvent décider, par délibération du conseil de l'établissement public de
 coopération intercommunale statuant à la majorité simple de ses membres, de
 percevoir la taxe d'habitation et les taxes foncières. Cette délibération est
@@ -50,7 +50,7 @@ Les années suivantes, le taux de la taxe foncière sur les propriétés non bâ
 ne peut augmenter plus ou diminuer moins que le taux de la taxe d'habitation
 jusqu'à la date de la prochaine révision.
 
-III. 1° a. La première année d'application des dispositions du I, le taux de
+III . 1° a. La première année d'application des dispositions du I, le taux de
 taxe professionnelle voté par le conseil de l'établissement public de
 coopération intercommunale ne peut excéder le taux moyen de la taxe
 professionnelle des communes membres constaté l'année précédente, pondéré par
@@ -133,7 +133,7 @@ Pour le rattachement de toute nouvelle commune à une communauté d'agglomérati
 issue de la transformation d'un syndicat d'agglomération nouvelle, les
 dispositions de l'article 1638 quater sont applicables.
 
-IV. Il est créé entre l'établissement public de coopération intercommunale
+IV . Il est créé entre l'établissement public de coopération intercommunale
 soumis aux dispositions fiscales du I du présent article et les communes membres
 une commission locale chargée d'évaluer les transferts de charges. Elle est
 composée de membres des conseils municipaux des communes concernées ; chaque
@@ -178,7 +178,7 @@ qui étaient déjà transférées à l'établissement public de coopération
 intercommunale et celui de la fiscalité ou des contributions des communes qui
 étaient perçues pour les financer.
 
-V. - 1° L'établissement public de coopération intercommunale verse à chaque
+V . - 1° L'établissement public de coopération intercommunale verse à chaque
 commune membre une attribution de compensation. Elle ne peut être indexée.
 
 Lorsque l'attribution de compensation est négative, l'établissement public de
@@ -200,13 +200,6 @@ Toutefois, dans le cas où une diminution des bases imposables de taxe
 professionnelle réduit le produit disponible, le conseil de l'établissement
 public de coopération intercommunale peut décider de réduire les attributions de
 compensation dans la même proportion.
-
-Lorsque, avant la publication de la loi n° 99-586 du 12 juillet 1999 précitée,
-l'attribution de compensation était calculée en tenant compte de la contribution
-des communes à un syndicat, l'organe délibérant de l'établissement public de
-coopération intercommunale réduit le montant de l'attribution de compensation à
-due concurrence de la diminution du montant de la contribution demandée aux
-communes par le syndicat.
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa
 révision peuvent être fixés librement par le conseil communautaire statuant à
@@ -341,18 +334,31 @@ code général des collectivités territoriales, l'attribution de compensation
 versée chaque année aux communes membres qui étaient antérieurement membres d'un
 établissement public de coopération intercommunale soumis au présent article est
 égale à celle que lui versait cet établissement public de coopération
-intercommunale avant la fusion. Lorsque la fusion s'accompagne d'un transfert ou
-d'une restitution de compétences, cette attribution de compensation est
-respectivement diminuée ou majorée du montant net des charges transférées
-calculé dans les conditions définies au IV.
+intercommunale avant la fusion, sauf accord adopté à la majorité qualifiée des
+trois cinquièmes par les communautés d'agglomération mères et approuvé par
+l'Etat sur un protocole financier général harmonisant les attributions de
+compensation et les relations financières entre la communauté fusionnée et les
+communes, les conditions de reprise des dettes des communautés mères, les
+formules d'amortissement des investissements et les procédures comptables.
+Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de
+compétences, cette attribution de compensation est respectivement diminuée ou
+majorée du montant net des charges transférées calculé dans les conditions
+définies au IV. A titre dérogatoire, les établissements publics de coopération
+intercommunale issus d'une fusion ou d'une modification de périmètre au 1er
+janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par
+délibérations concordantes prises à la majorité qualifiée prévue au premier
+alinéa du II de l'article L. 5211-5 du code général des collectivités
+territoriales, procéder, dans les cinq ans qui suivent la publication de la loi
+n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à la révision du montant
+de l'attribution de compensation.
 
 L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un établissement public de coopération
-intercommunale soumis aux I ou II de l'article 1609 quinquies C ou au 2° du I de
-l'article 1609 bis est calculée conformément au 3°. Lorsque la fusion
-s'accompagne d'un transfert ou d'une restitution de compétences, cette
-attribution de compensation est respectivement diminuée ou majorée du montant
-net des charges tranférées calculé dans les conditions définies au IV.
+intercommunale ne faisant pas application des dispositions du présent article
+est calculée conformément au 3°. Lorsque la fusion s'accompagne d'un transfert
+ou d'une restitution de compétences, cette attribution de compensation est
+respectivement diminuée ou majorée du montant net des charges tranférées calculé
+dans les conditions définies au IV.
 
 L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un syndicat d'agglomération nouvelle ou d'une
@@ -380,7 +386,18 @@ chaque nouveau transfert de charges. Elle ne peut être indexée.
 municipaux, le montant de l'attribution de compensation et les conditions de sa
 révision peuvent être fixés librement par le conseil communautaire statuant à
 l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
-des transferts de charges.
+des transferts de charges. A titre exceptionnel, cette faculté est suspendue à
+compter du 1er janvier 2011 jusqu'au prochain renouvellement général des
+conseils municipaux.
+
+7° A titre dérogatoire, les établissements publics de coopération intercommunale
+soumis à cette date aux dispositions du présent article dans sa rédaction en
+vigueur au 31 décembre 2009 et les conseils municipaux de leurs communes membres
+peuvent, par délibérations concordantes prises à la majorité qualifiée prévue au
+premier alinéa du II de l'article L. 5211-5 du code général des collectivités
+territoriales, procéder, dans les cinq ans qui suivent la publication de la loi
+n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à la révision du montant
+de l'attribution de compensation et de la dotation de solidarité communautaire.
 
 VI. L'établissement public de coopération intercommunale, autre qu'une
 communauté urbaine, soumis aux dispositions du I peut instituer au bénéfice de

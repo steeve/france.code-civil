@@ -18,7 +18,7 @@ cinq salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'im
 sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils
 sont réalisés respectivement au cours des cinq premières, de la sixième et
 septième ou de la huitième et neuvième périodes de douze mois suivant cette
-période d'exonération. L'effectif salarié s'apprécie au cours de la dernière
+période d'exonération.L'effectif salarié s'apprécie au cours de la dernière
 période d'imposition au titre de laquelle l'exonération au taux de 100 %
 s'applique. Les salariés saisonniers ou à temps incomplet sont pris en compte au
 prorata de la durée du temps de travail prévue à leur contrat. La date de
@@ -70,15 +70,15 @@ zones franches urbaines.
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone
 franche urbaine, le bénéfice exonéré est déterminé en affectant le montant
 résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des
-éléments d'imposition à la taxe professionnelle définis à l'article 1467, à
-l'exception de la valeur locative des moyens de transport, afférents à
-l'activité exercée dans les zones franches urbaines et relatifs à la période
-d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition
-à la taxe professionnelle du contribuable définis au même article pour ladite
-période. Pour la fixation de ce rapport, la valeur locative des immobilisations
-passibles d'une taxe foncière est celle déterminée conformément à l'article
-1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au
-1er janvier de l'année d'imposition des bénéfices.
+éléments d'imposition à la cotisation foncière des entreprises définis à
+l'article 1467 afférents à l'activité exercée dans les zones franches urbaines
+et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme
+des éléments d'imposition à la cotisation foncière des entreprises du
+contribuable définis au même article pour ladite période. Pour la fixation de ce
+rapport, la valeur locative des immobilisations passibles d'une taxe foncière
+est celle déterminée conformément à l'article 1467, au 1er janvier de l'année au
+cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition
+des bénéfices.
 
 Par exception aux dispositions du sixième alinéa, le contribuable exerçant une
 activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
@@ -101,14 +101,14 @@ Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du
 régime prévu à l'article 44 sexies et du régime prévu au présent article, le
 contribuable peut opter pour ce dernier régime dans les six mois qui suivent
 celui de la délimitation de la zone s'il y exerce déjà son activité ou, dans le
-cas contraire, dans les six mois suivant celui du début d'activité. L'option est
+cas contraire, dans les six mois suivant celui du début d'activité.L'option est
 irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.
 
-V. - Les dispositions des I à IV sont applicables aux contribuables qui créent
-des activités entre le 1er janvier 2002 et la date de publication de la loi n°
+V.-Les dispositions des I à IV sont applicables aux contribuables qui créent des
+activités entre le 1er janvier 2002 et la date de publication de la loi n°
 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches
 urbaines visées au premier alinéa du I. Toutefois, pour les contribuables qui
 créent des activités dans ces zones en 2002, le point de départ de la période
@@ -126,10 +126,10 @@ mentionnées au I est subordonné au respect du règlement (CE) n° 1998 / 2006 
 la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88
 du traité aux aides de minimis.
 
-VI. - Les dispositions des I à IV sont applicables aux contribuables qui
-exercent des activités entre le 1er janvier 2004 et le 31 décembre 2008 inclus
-ou qui créent des activités entre le 1er janvier 2004 et la date de publication
-de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones
+VI.-Les dispositions des I à IV sont applicables aux contribuables qui exercent
+des activités entre le 1er janvier 2004 et le 31 décembre 2008 inclus ou qui
+créent des activités entre le 1er janvier 2004 et la date de publication de la
+loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones
 franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4
 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n°
 96-987 du 14 novembre 1996 précitée.
@@ -140,7 +140,7 @@ cumulativement aux conditions suivantes :
 a. Elle emploie au plus cinquante salariés au 1er janvier 2004 ou à la date de
 sa création ou de son implantation si elle est postérieure et soit a réalisé un
 chiffre d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a
-un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005,
+un total de bilan inférieur à 5 millions d'euros.A compter du 1er janvier 2005,
 les seuils de chiffre d'affaires et de total du bilan sont portés à 10 millions
 d'euros ;
 
@@ -163,7 +163,7 @@ fabrication de fibres textiles artificielles ou synthétiques, de la sidérurgie
 ou des transports routiers de marchandises.
 
 Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou porté
-le cas échéant à douze mois. L'effectif de l'entreprise est apprécié par
+le cas échéant à douze mois.L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cet exercice. Pour la
 société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est
 apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés

@@ -2,13 +2,13 @@ Article L515-19
 ----
 I.-L'Etat, les exploitants des installations à l'origine du risque et les
 collectivités territoriales compétentes ou leurs groupements compétents, dès
-lors qu'ils perçoivent la taxe professionnelle dans le périmètre couvert par le
-plan, assurent le financement des mesures prises en application du II et du III
-de l'article L. 515-16.A cet effet, ils concluent une convention fixant leurs
-contributions respectives. Avant la conclusion de cette convention, le droit de
-délaissement mentionné au II du même article ne peut être instauré et
-l'expropriation mentionnée au premier alinéa du III du même article ne peut être
-déclarée d'utilité publique que si la gravité des risques potentiels rend
+lors qu'ils perçoivent la contribution économique territoriale dans le périmètre
+couvert par le plan, assurent le financement des mesures prises en application
+du II et du III de l'article L. 515-16.A cet effet, ils concluent une convention
+fixant leurs contributions respectives. Avant la conclusion de cette convention,
+le droit de délaissement mentionné au II du même article ne peut être instauré
+et l'expropriation mentionnée au premier alinéa du III du même article ne peut
+être déclarée d'utilité publique que si la gravité des risques potentiels rend
 nécessaire la prise de possession immédiate selon la procédure mentionnée au
 deuxième alinéa de ce III.
 

@@ -48,33 +48,35 @@ le revenu est retenu pour le calcul du dégrèvement.
 
 2. (Périmé)
 
-III. 1. A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
-montant égal au produit de la base nette imposable au profit des collectivités
-locales et de leurs établissements publics de coopération intercommunale par la
-différence entre le taux global de taxe d'habitation constaté dans la commune au
-titre de l'année d'imposition et ce même taux global constaté en 2000.
+III. 1. A compter de 2011, le montant du dégrèvement prévu au I est réduit d'un
+montant égal au produit de la base nette imposable au profit des communes et de
+leurs établissements publics de coopération intercommunale par la différence
+entre le taux global de taxe d'habitation constaté dans la commune au titre de
+l'année d'imposition et ce même taux global constaté en 2000, multiplié par un
+coefficient de 1, 034.
 
 Pour l'application du premier alinéa :
 
-a. Lorsque les bases nettes imposables au profit de la commune, de
-l'établissement public de coopération intercommunale à fiscalité propre et du
-département sont différentes, la base la moins élevée est retenue ;
+a. Lorsque les bases nettes imposables au profit de la commune, et de
+l'établissement public de coopération intercommunale à fiscalité propre sont
+différentes, la base la moins élevée est retenue ;
 
 b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
 
 c. La réduction n'est pas applicable si elle est inférieure à 15 euros.
 
-2. Lorsqu'une ou plusieurs des collectivités territoriales et établissements
-publics de coopération intercommunale au profit desquels l'imposition est
-établie ont supprimé un ou plusieurs des abattements prévus au II de l'article
-1411 et en vigueur en 2003 ou en ont réduit un ou plusieurs taux par rapport à
-ceux en vigueur en 2003, le montant du dégrèvement calculé dans les conditions
-prévues au II et au 1 du présent III est réduit d'un montant égal à la
-différence positive entre, d'une part, le montant du dégrèvement ainsi déterminé
-et, d'autre part, le montant de celui calculé dans les mêmes conditions en
-tenant compte de la cotisation déterminée en faisant application des taux
-d'abattement prévus aux 1,2 et 3 du II de l'article 1411 et en vigueur en 2003.
+2. Lorsqu'une commune ou un établissement public de coopération intercommunale
+au profit desquels l'imposition est établie ont supprimé un ou plusieurs des
+abattements prévus au II de l'article 1411 et en vigueur en 2003 ou en ont
+réduit un ou plusieurs taux par rapport à ceux en vigueur en 2003, le montant du
+dégrèvement calculé dans les conditions prévues au II et au 1 du présent III est
+réduit d'un montant égal à la différence positive entre, d'une part, le montant
+du dégrèvement ainsi déterminé et, d'autre part, le montant de celui calculé
+dans les mêmes conditions en tenant compte de la cotisation déterminée en
+faisant application des taux d'abattement prévus aux 1, 2 et 3 du II de
+l'article 1411 et en vigueur en 2003 pour le calcul de la part revenant à la
+commune ou à l'établissement public de coopération intercommunale.
 
 Cette disposition est également applicable lorsque les abattements sont fixés en
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les

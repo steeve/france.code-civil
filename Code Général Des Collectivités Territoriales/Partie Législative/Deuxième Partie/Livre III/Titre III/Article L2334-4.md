@@ -24,7 +24,15 @@ Pour l'application du premier alinéa :
 résultats sont connus servant à l'assiette des impositions communales, minorées,
 le cas échéant, du montant de celles correspondant à l'écrêtement opéré au titre
 du fonds départemental de péréquation de la taxe professionnelle prévu par
-l'article 1648 A du code général des impôts ;
+l'article 1648 A du code général des impôts ; A compter de 2011, pour les
+communes membres d'un établissement public de coopération intercommunale faisant
+application avant le 1er janvier 2011 du régime fiscal prévu à l'article 1609
+nonies C du code général des impôts dans sa rédaction en vigueur avant cette
+même date ou du régime fiscal prévu au II de l'article 1609 quinquies C du même
+code, les bases retenues sont celles issues du rapport entre les bases brutes de
+cotisation foncière des entreprises de la commune de l'année 2010 rapportées aux
+bases brutes de la compensation relais, définie au II de l'article 1640 B du
+même code, de la commune ;
 
 2° Le taux moyen national d'imposition est celui constaté lors de la dernière
 année dont les résultats sont connus.
@@ -83,14 +91,15 @@ part de la dotation de compensation prévue au premier alinéa de l'article L.
 l'année précédente, correspondant aux montants antérieurement perçus au titre du
 I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
 décembre 1998), avant prélèvement effectué en application du 1 du III de
-l'article 29 de la loi de finances pour 2003 (n° 2002-1575). Cette part est
-répartie entre les communes membres de l'établissement public de coopération
-intercommunale au prorata des diminutions de base de taxe professionnelle, dans
-chacune de ces communes, ayant servi au calcul de la compensation prévue au I du
-D de l'article 44 de la loi de finances pour 1999 précitée. Le montant ainsi
-obtenu est minoré du prélèvement subi par l'établissement public de coopération
-intercommunale en application du 1 du III de l'article 29 de la loi de finances
-pour 2003 précitée, réparti entre les communes au prorata de leur population.
+l'article 29 de la loi de finances pour 2003 (n° 2002-1575) du 30 décembre
+2002). Cette part est répartie entre les communes membres de l'établissement
+public de coopération intercommunale au prorata des diminutions de base de taxe
+professionnelle, dans chacune de ces communes, ayant servi au calcul de la
+compensation prévue au I du D de l'article 44 de la loi de finances pour 1999
+précitée. Le montant ainsi obtenu est minoré du prélèvement subi par
+l'établissement public de coopération intercommunale en application du 1 du III
+de l'article 29 de la loi de finances pour 2003 précitée, réparti entre les
+communes au prorata de leur population.
 
 Pour les établissements publics de coopération intercommunale issus de la
 transformation d'un syndicat ou d'une communauté d'agglomération nouvelle, le

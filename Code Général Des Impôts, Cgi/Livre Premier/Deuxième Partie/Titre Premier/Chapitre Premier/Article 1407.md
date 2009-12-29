@@ -6,7 +6,7 @@ I. La taxe d'habitation est due :
 
 2° Pour les locaux meublés conformément à leur destination et occupés à titre
 privatif par les sociétés, associations et organismes privés et qui ne sont pas
-retenus pour l'établissement de la taxe professionnelle ;
+retenus pour l'établissement de la cotisation foncière des entreprises ;
 
 3° Pour les locaux meublés sans caractère industriel ou commercial occupés par
 les organismes de l'Etat, des départements et des communes, ainsi que par les
@@ -14,8 +14,8 @@ les organismes de l'Etat, des départements et des communes, ainsi que par les
 
 II. Ne sont pas imposables à la taxe :
 
-1° Les locaux passibles de la taxe professionnelle lorsqu'ils ne font pas partie
-de l'habitation personnelle des contribuables ;
+1° Les locaux passibles de la cotisation foncière des entreprises lorsqu'ils ne
+font pas partie de l'habitation personnelle des contribuables ;
 
 2° Les bâtiments servant aux exploitations rurales ;
 
@@ -29,8 +29,8 @@ régional des oeuvres universitaires et scolaires ou par un organisme en
 subordonnant la disposition à des conditions financières et d'occupation
 analogues. Un décret fixe les justifications à produire par ces organismes.
 
-III. - Dans les zones de revitalisation rurale mentionnées à l'article 1465 A,
-les communes peuvent, par une délibération de portée générale prise dans les
+III.-Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les
+communes peuvent, par une délibération de portée générale prise dans les
 conditions prévues au I de l'article 1639 A bis, exonérer :
 
 1° Les locaux mis en location à titre de gîte rural ;

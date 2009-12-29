@@ -10,4 +10,5 @@ pays tiers, des documents sanitaires prévus à l'article L. 236-1.
 II. - Le détenteur d'un ou de plusieurs ovins ou caprins est tenu de signaler
 toute anomalie concernant l'identification et les documents accompagnant les
 animaux qu'il introduit dans son exploitation ou qu'il transporte au directeur
-départemental des services vétérinaires de son département d'implantation.
+départemental chargé de la protection des populations de son département
+d'implantation.

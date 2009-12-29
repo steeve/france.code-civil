@@ -74,28 +74,27 @@ conseils municipaux peuvent, par délibération prise dans les conditions prévu
 les abattements supérieurs au niveau maximum de droit commun au niveau des
 abattements de droit commun.
 
-II bis. Pour le calcul de la taxe d'habitation que perçoivent les départements
-et les établissements publics de coopération intercommunale à fiscalité propre,
-les organes délibérants de ces collectivités et établissements publics peuvent,
-dans les conditions prévues au présent article et à l'article 1639 A bis,
-décider de fixer eux-mêmes le montant des abattements applicables aux valeurs
-locatives brutes.
+II bis. Pour le calcul de la taxe d'habitation que perçoivent les établissements
+publics de coopération intercommunale à fiscalité propre, les organes
+délibérants de ces établissements publics peuvent, dans les conditions prévues
+au présent article et à l'article 1639 A bis, décider de fixer eux-mêmes le
+montant des abattements applicables aux valeurs locatives brutes.
 
 Dans ce cas, la valeur locative moyenne servant de référence pour le calcul des
-abattements est la valeur locative moyenne des habitations du département, ou de
-l'établissement public de coopération intercommunale à fiscalité propre.
+abattements est la valeur locative moyenne des habitations de l'établissement
+public de coopération intercommunale à fiscalité propre.
 
 En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
 
 II ter.-1. Les taux de 10 % et 15 % visés au 1 du II et leurs majorations de 5
-ou 10 points votées par les conseils municipaux, généraux et les organes
-délibérants des établissements publics de coopération intercommunale à fiscalité
-propre, la majoration de 10 points visée au 3 du II ainsi que le montant de
-l'abattement obligatoire pour charges de famille fixé en valeur absolue
-conformément au 5 du II sont divisés par deux pour les enfants réputés à charge
-égale de l'un et l'autre de leurs parents.
+ou 10 points votées par les conseils municipaux et les organes délibérants des
+établissements publics de coopération intercommunale à fiscalité propre, la
+majoration de 10 points visée au 3 du II ainsi que le montant de l'abattement
+obligatoire pour charges de famille fixé en valeur absolue conformément au 5 du
+II sont divisés par deux pour les enfants réputés à charge égale de l'un et
+l'autre de leurs parents.
 
 2. Lorsque le nombre total de personnes à charge est supérieur à deux, les
 enfants réputés à charge égale de l'un et l'autre de leurs parents sont

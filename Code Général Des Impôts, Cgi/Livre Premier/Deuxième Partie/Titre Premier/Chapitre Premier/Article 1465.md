@@ -1,18 +1,18 @@
 Article 1465
 ----
 Dans les zones définies par l'autorité compétente où l'aménagement du territoire
-le rend utile, les collectivités locales et leurs groupements dotés d'une
-fiscalité propre peuvent, par une délibération de portée générale, exonérer de
-la taxe professionnelle en totalité ou en partie les entreprises qui procèdent
-sur leur territoire, soit à des extensions ou créations d'activités
-industrielles ou de recherche scientifique et technique, ou de services de
-direction, d'études, d'ingénierie et d'informatique, soit à une reconversion
-dans le même type d'activités, soit à la reprise d'établissements en difficulté
-exerçant le même type d'activités. Cette délibération ne peut avoir pour effet
-de reporter de plus de cinq ans l'application du régime d'imposition de droit
-commun. Pour les opérations réalisées à compter du 1er janvier 2007 et jusqu'au
-31 décembre 2013, les exonérations s'appliquent dans les zones d'aide à finalité
-régionale.
+le rend utile, les communes et leurs établissements publics de coopération
+intercommunale dotés d'une fiscalité propre peuvent, par une délibération de
+portée générale, exonérer de la cotisation foncière des entreprises en totalité
+ou en partie les entreprises qui procèdent sur leur territoire, soit à des
+extensions ou créations d'activités industrielles ou de recherche scientifique
+et technique, ou de services de direction, d'études, d'ingénierie et
+d'informatique, soit à une reconversion dans le même type d'activités, soit à la
+reprise d'établissements en difficulté exerçant le même type d'activités. Cette
+délibération ne peut avoir pour effet de reporter de plus de cinq ans
+l'application du régime d'imposition de droit commun. Pour les opérations
+réalisées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, les
+exonérations s'appliquent dans les zones d'aide à finalité régionale.
 
 Lorsqu'il s'agit d'extensions ou de créations d'établissements industriels ou de
 recherche scientifique et technique répondant à des conditions fixées par décret
@@ -28,10 +28,6 @@ Quand l'agrément n'est pas nécessaire, l'exonération porte sur l'augmentation
 nette des bases d'imposition résultant des immobilisations nouvelles appréciée
 par rapport à la dernière année précédant l'opération ou par rapport à la
 moyenne des trois dernières années si celle-ci est supérieure.
-
-Par délibération, les collectivités territoriales peuvent fixer un prix de
-revient maximum des immobilisations exonérées, par emploi créé ou par
-investissement.
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à
 condition de l'avoir indiqué au service des impôts au plus tard lors du dépôt de
@@ -55,18 +51,18 @@ délibérations instituant l'exonération prises en 1995 par les collectivités
 locales et leurs groupements dotés d'une fiscalité propre s'appliquent aux
 opérations réalisées à compter du 1er janvier 1995.
 
-Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée
-par les entreprises implantées sur une zone d'activités économiques créée ou
-gérée par un groupement de communes est affectée à ce groupement en vertu de
-l'article 11 modifié de la loi n° 80-10 du 10 janvier 1980 portant aménagement
-de la fiscalité directe locale, celui-ci est substitué à la commune pour
-l'application du présent article.
+Lorsque tout ou partie de la part communale de la cotisation foncière des
+entreprises acquittée par les entreprises implantées sur une zone d'activités
+économiques créée ou gérée par un groupement de communes est affectée à ce
+groupement en vertu de l'article 11 modifié de la loi n° 80-10 du 10 janvier
+1980 portant aménagement de la fiscalité directe locale, celui-ci est substitué
+à la commune pour l'application du présent article.
 
 Nonobstant les dispositions de l'article L174 du livre des procédures fiscales,
 toute entreprise qui cesse volontairement son activité pendant une période
 d'exonération prévue au présent article, ou dans les cinq années suivant la fin
 de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
-de la taxe professionnelle.
+de la cotisation foncière des entreprises.
 
 Le bénéfice de l'exonération est subordonné au respect de l'article 13 du
 règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines

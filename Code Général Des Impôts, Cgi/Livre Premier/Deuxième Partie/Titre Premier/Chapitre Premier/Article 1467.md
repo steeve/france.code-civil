@@ -1,29 +1,27 @@
 Article 1467
 ----
-La taxe professionnelle a pour base :
+La cotisation foncière des entreprises a pour base :
 
-1° Dans le cas des contribuables autres que ceux visés au 2° :
+1° [Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] la valeur locative
+des biens passibles d'une taxe foncière situés en France, à l'exclusion des
+biens exonérés de taxe foncière sur les propriétés bâties en vertu des 11° et
+12° de l'article 1382, dont le redevable a disposé pour les besoins de son
+activité professionnelle pendant la période de référence définie aux articles
+1467 A et 1478, à l'exception de ceux qui ont été détruits ou cédés au cours de
+la même période. Toutefois, ne sont pas compris dans la base d'imposition à la
+cotisation foncière des entreprises les biens destinés à la fourniture et à la
+distribution de l'eau lorsqu'ils sont utilisés pour l'irrigation pour les neuf
+dixièmes au moins de leur capacité. La valeur locative des biens passibles d'une
+taxe foncière est calculée suivant les règles fixées pour l'établissement de
+cette taxe.
 
-a. la valeur locative, telle qu'elle est définie aux articles 1469, 1518 A, 1518
-A bis et 1518 B, des immobilisations corporelles dont le redevable a disposé
-pour les besoins de son activité professionnelle pendant la période de référence
-définie aux articles 1467 A et 1478, à l'exception de celles qui ont été
-détruites ou cédées au cours de la même période ;
+Pour le calcul de l'impôt, la valeur locative des immobilisations industrielles
+définie à l'article 1499 est diminuée de 30 % ;
 
-b. (Dispositions abrogées à compter des impositions établies au titre de 2003).
+2° [Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009.]
 
-2° Dans le cas des titulaires de bénéfices non commerciaux, des agents
-d'affaires, des fiduciaires pour l'accomplissement de leur mission et des
-intermédiaires de commerce employant moins de cinq salariés et n'étant pas
-soumis de plein droit ou sur option à l'impôt sur les sociétés, le dixième des
-recettes et la valeur locative des seules immobilisations passibles des taxes
-foncières sur les propriétés bâties et non bâties et dont le contribuable a
-disposé pour les besoins de son activité professionnelle pendant la période de
-référence définie au a du 1°.
-
-La fraction des recettes mentionnée au premier alinéa est fixée à 9 % au titre
-de 2003, 8 % au titre de 2004 et 6 % à compter de 2005.
-
-Les éléments servant à la détermination des bases de la taxe professionnelle et
-des taxes additionnelles sont arrondis à l'euro le plus proche. La fraction
-d'euro égale à 0, 50 est comptée pour 1.
+Les éléments servant à la détermination des bases de la cotisation foncière des
+entreprises et des taxes additionnelles sont arrondis à l'euro le plus proche.
+La fraction d'euro égale à 0, 50 est comptée pour 1.

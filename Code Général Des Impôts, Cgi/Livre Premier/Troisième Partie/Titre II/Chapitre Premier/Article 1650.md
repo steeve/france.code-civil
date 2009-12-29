@@ -27,7 +27,8 @@ municipal.
 
 La désignation des commissaires et de leurs suppléants est effectuée de manière
 que les personnes respectivement imposées à la taxe foncière, à la taxe
-d'habitation et à la taxe professionnelle soient équitablement représentées.
+d'habitation et à la cotisation foncière des entreprises soient équitablement
+représentées.
 
 3. La durée du mandat des membres de la commission communale des impôts directs
 est la même que celle du mandat du conseil municipal.

@@ -1,8 +1,9 @@
 Article L174
 ----
-Les omissions ou les erreurs concernant la taxe professionnelle peuvent être
-réparées par l'administration jusqu'à l'expiration de la troisième année suivant
-celle au titre de laquelle l'imposition est due.
+Les omissions ou les erreurs concernant la taxe professionnelle, la cotisation
+foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises
+peuvent être réparées par l'administration jusqu'à l'expiration de la troisième
+année suivant celle au titre de laquelle l'imposition est due.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au

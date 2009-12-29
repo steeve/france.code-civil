@@ -10,7 +10,7 @@ Ce réseau comprend :
 
 - les vétérinaires sanitaires ;
 
-- les directeurs départementaux des services vétérinaires ;
+- les directeurs départementaux chargés de la protection des populations ;
 
 - les laboratoires agréés pour le diagnostic des maladies visées à l'article D.
 223-22-1 ;

@@ -7,28 +7,28 @@ la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire et dont la liste figure au I de l'annexe à la loi n°
 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour
 la ville, et affectés, au 1er janvier 1997, à une activité entrant dans le champ
-d'application de la taxe professionnelle sont exonérés de taxe foncière sur les
-propriétés bâties pour une durée de cinq ans, sous réserve que les conditions
-d'exercice de l'activité prévues aux premier et quatrième à septième alinéas du
-I quater de l'article 1466 A soient remplies.
+d'application de la cotisation foncière des entreprises sont exonérés de taxe
+foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve que
+les conditions d'exercice de l'activité prévues aux premier et quatrième à
+septième alinéas du I quater de l'article 1466 A soient remplies.
 
 Pour les immeubles affectés, après le 1er janvier 1997 et avant le 31 décembre
-2001, à une activité entrant dans le champ d'application de la taxe
-professionnelle, l'exonération prévue au premier alinéa s'applique à compter du
-1er janvier de l'année qui suit celle où est intervenue cette affectation, sous
-réserve que la condition d'effectif prévue au premier alinéa du I quater de
-l'article 1466 A soit remplie.
+2001, à une activité entrant dans le champ d'application de la cotisation
+foncière des entreprises, l'exonération prévue au premier alinéa s'applique à
+compter du 1er janvier de l'année qui suit celle où est intervenue cette
+affectation, sous réserve que la condition d'effectif prévue au premier alinéa
+du I quater de l'article 1466 A soit remplie.
 
 L'exonération prévue aux premier et deuxième alinéas cesse de s'appliquer à
 compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus
-affectés à une activité entrant dans le champ d'application de la taxe
-professionnelle.
+affectés à une activité entrant dans le champ d'application de la cotisation
+foncière des entreprises.
 
 L'exonération s'applique dans les conditions prévues aux trois alinéas
 précédents aux immeubles affectés à une activité entrant dans le champ
-d'application de la taxe professionnelle et exercée pour la première fois entre
-le 1er janvier 2002 et la date de publication de la loi n° 2006-396 du 31 mars
-2006 pour l'égalité des chances.
+d'application de la cotisation foncière des entreprises et exercée pour la
+première fois entre le 1er janvier 2002 et la date de publication de la loi n°
+2006-396 du 31 mars 2006 pour l'égalité des chances.
 
 En cas de changement d'exploitant avant le 31 décembre 2001, l'exonération
 s'applique pour une durée de cinq ans à compter du 1er janvier de l'année

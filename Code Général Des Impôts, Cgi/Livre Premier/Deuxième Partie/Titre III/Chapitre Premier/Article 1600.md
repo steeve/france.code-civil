@@ -4,8 +4,8 @@ I. Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industri
 ainsi qu'aux contributions allouées par ces dernières selon des modalités fixées
 par décret aux chambres régionales de commerce et d'industrie et à l'assemblée
 des chambres françaises de commerce et d'industrie au moyen d'une taxe
-additionnelle à la taxe professionnelle, répartie entre tous les redevables de
-cette taxe proportionnellement à leur base d'imposition.
+additionnelle à la cotisation foncière des entreprises, répartie entre tous les
+redevables de cette taxe proportionnellement à leur base d'imposition.
 
 Sont exonérés de cette taxe :
 
@@ -92,10 +92,10 @@ au I à compter de l'année suivant celle de sa création.
 
 Le taux voté ne peut excéder, pour la première année qui suit celle de la
 création de la chambre de commerce et d'industrie, le taux moyen de la taxe
-additionnelle à la taxe professionnelle des chambres de commerce et d'industrie
-dissoutes constaté l'année précédente, pondéré par l'importance relative des
-bases de ces chambres et majoré, le cas échéant, dans les conditions prévues au
-deuxième alinéa du II.
+additionnelle à la cotisation foncière des entreprises des chambres de commerce
+et d'industrie dissoutes constaté l'année précédente, pondéré par l'importance
+relative des bases de ces chambres et majoré, le cas échéant, dans les
+conditions prévues au deuxième alinéa du II.
 
 Le nouveau taux s'applique sur le territoire de toutes les chambres de commerce
 et d'industrie dissoutes dès l'année qui suit celle de la création de la chambre
@@ -125,10 +125,10 @@ d'une période de réduction des écarts de taux résultant d'une création
 antérieure à la suite de la dissolution de chambres, la nouvelle chambre de
 commerce et d'industrie fixe le taux de la taxe mentionnée au I, pour la
 première année qui suit celle de sa création, dans la limite du taux moyen de la
-taxe additionnelle à la taxe professionnelle de la chambre issue de la première
-dissolution et de la ou des chambres tierces constaté l'année précédente,
-pondéré par l'importance relative des bases imposées au profit de chaque chambre
-de commerce et d'industrie.
+taxe additionnelle à la cotisation foncière des entreprises de la chambre issue
+de la première dissolution et de la ou des chambres tierces constaté l'année
+précédente, pondéré par l'importance relative des bases imposées au profit de
+chaque chambre de commerce et d'industrie.
 
 Les dispositions des troisième et quatrième alinéas du 1 sont applicables.
 Toutefois, pour l'application de ces dispositions, il est tenu compte des taux
@@ -139,11 +139,11 @@ réduction des écarts.
 3. Pour les chambres de commerce et d'industrie faisant application en 2004 du
 IV dans sa rédaction en vigueur avant la publication de la loi de finances
 rectificative pour 2004 précitée, l'écart constaté entre le taux de la taxe
-additionnelle à la taxe professionnelle voté par la chambre de commerce et
-d'industrie issue de la dissolution d'une ou plusieurs chambres et le taux de
-cette taxe appliqué en 2004 sur le territoire des chambres dissoutes est réduit,
-chaque année, par parts égales, en proportion du nombre d'années restant à
-courir.
+additionnelle à la cotisation foncière des entreprises voté par la chambre de
+commerce et d'industrie issue de la dissolution d'une ou plusieurs chambres et
+le taux de cette taxe appliqué en 2004 sur le territoire des chambres dissoutes
+est réduit, chaque année, par parts égales, en proportion du nombre d'années
+restant à courir.
 
 Pour l'application du premier alinéa, le taux appliqué en 2004 est celui qui
 résulte des dispositions du 2 du IV dans sa rédaction en vigueur avant la

@@ -49,3 +49,6 @@ A 9 %.
 Les risques d'incendie couverts par des assurances ayant pour objet des risques
 de transport sont compris dans les risques désignés sous le 3° ou sous le 5°
 bis.
+
+A compter des impositions établies au titre de l'année 2011, le produit de la
+taxe est affecté aux départements.

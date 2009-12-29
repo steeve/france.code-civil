@@ -15,7 +15,7 @@ l'abattement de 40 % mentionné au 2° du 3 de l'article 158. Les personnes
 soumises aux obligations prévues à l'article 242 ter et à l'article 242 ter B,
 autres que les sociétés distributrices, sont déchargées de toute responsabilité
 pour l'individualisation des revenus distribués payés au regard de leur
-éligibilité à la réfaction de 40 % mentionnée au 2° du 3 de l'article 158,
+éligibilité à l'abattement de 40 % mentionné au 2° du 3 de l'article 158,
 lorsque cette individualisation correspond à celle qui a été déclarée ou
 communiquée par les sociétés distributrices en application de l'article 243 bis.
 
@@ -58,3 +58,6 @@ déclaré lorsque l'obligation déclarative concerne un Etat ou un territoire qu
 n'a pas conclu avec la France une convention d'assistance administrative en vue
 de lutter contre la fraude et l'évasion fiscales permettant l'accès aux
 renseignements bancaires.
+
+V. - Les infractions à l'article 1649 A ter font l'objet d'une amende de 100 €
+par sillon-kilomètre non déclaré et qui ne peut excéder 10 000 €.

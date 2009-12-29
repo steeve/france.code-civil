@@ -14,9 +14,9 @@ Lorsqu'ils effectuent pour la première fois leur prestation en France, ils
 doivent en informer au préalable l'autorité administrative par une déclaration
 écrite.
 
-La déclaration doit être adressée à la direction départementale des services
-vétérinaires du département dans laquelle la prestation est effectuée. Elle
-comporte les éléments prévus par l'article R. 204-1.
+La déclaration doit être adressée à la direction départementale chargée de la
+protection des populations du département dans laquelle la prestation est
+effectuée. Elle comporte les éléments prévus par l'article R. 204-1.
 
 Lorsque la vérification des qualifications professionnelles du prestataire fait
 apparaître une différence substantielle entre ces qualifications et la formation

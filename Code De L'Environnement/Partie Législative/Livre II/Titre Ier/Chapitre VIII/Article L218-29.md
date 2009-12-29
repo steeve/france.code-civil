@@ -23,9 +23,6 @@ premier alinéa peut requérir le juge d'instruction, dans les conditions et sel
 les modalités prévues par les articles 706-110 et 706-111 de se dessaisir au
 profit du tribunal de grande instance de Paris.
 
-Le tribunal de grande instance de Paris peut également connaître des infractions
-qui sont ou apparaissent d'une grande complexité dès le stade de l'enquête.
-
 Cette compétence s'étend aux infractions connexes.
 
 Un décret fixe la liste et le ressort de ces juridictions du littoral maritime,
