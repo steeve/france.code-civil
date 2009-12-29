@@ -54,7 +54,7 @@ aucune
 
 -
 
-Pour les avances remboursables émises jusqu'au 31 décembre 2009, la fraction de
+Pour les avances remboursables émises jusqu'au 31 décembre 2010, la fraction de
 l'avance faisant l'objet du différé et la durée de la seconde période de
 remboursement mentionnées à l'article R. 318-12 sont définies par les deux
 tableaux suivants :

@@ -95,9 +95,8 @@ Zones B et C
 
 132 500
 
-Pour les avances remboursables émises jusqu'au 31 décembre 2009, le montant
-maximum mentionné au a du 1° de l'article R. 318-10 est défini par le tableau
-suivant :
+Pour les avances remboursables émises jusqu'au 30 juin 2010, le montant maximum
+mentionné au a du 1° de l'article R. 318-10 est défini par le tableau suivant :
 
 
 LOGEMENT ANCIEN

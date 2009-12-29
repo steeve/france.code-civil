@@ -48,7 +48,7 @@ De 23689 à 31588 euros
 
 9 ans
 
-Pour les avances remboursables émises jusqu'au 31 décembre 2009, la durée
+Pour les avances remboursables émises jusqu'au 31 décembre 2010, la durée
 mentionnée à l'article R. 318-15 est définie par les deux tableaux suivants :
 
 Pour un logement neuf localisé en zone A :
