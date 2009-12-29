@@ -14,18 +14,15 @@ assimilées, de consultations données occasionnellement, de la participation à
 des jurys de concours publics ou à des instances consultatives ou délibératives
 réunies en vertu d'un texte législatif ou réglementaire.
 
-L'assiette des cotisations dues pour les périodes d'activité relevant du
-deuxième alinéa de l'article L. 643-6 ne peut excéder le plafond prévu au
-premier alinéa du présent article.
-
-En cas d'activité exercée dans le cadre du deuxième alinéa de l'article L.
-643-6, les cotisations dues au titre de chaque année peuvent être calculées à
-titre provisionnel sur la base des revenus de cette année estimés par
-l'intéressé, sur demande écrite de sa part présentée à la section
-professionnelle dont il relève dans les soixante jours suivant l'appel de
-cotisation. Par exception aux dispositions de l'article D. 642-6, ces
-cotisations font l'objet de la régularisation prévue au troisième alinéa de
-l'article L. 642-2.
+En cas d'activité exercée dans le cadre de l'article L. 643-6, les cotisations
+dues au titre de chaque année peuvent être calculées à titre provisionnel sur la
+base des revenus de cette année estimés par l'intéressé, sur demande écrite de
+sa part présentée à la section professionnelle dont il relève dans les soixante
+jours suivant l'appel de cotisation. Les cotisations dues par les assurés
+poursuivant ou reprenant une activité dans les conditions prévues à l'article L.
+643-6, au titre de ces périodes, font l'objet de la régularisation prévue au
+troisième alinéa de l'article L. 642-2, par dérogation aux dispositions de
+l'article D. 642-6.
 
 Lorsque le revenu définitif est supérieur, au titre de la même période, de plus
 d'un tiers au revenu estimé par le professionnel libéral dans les conditions

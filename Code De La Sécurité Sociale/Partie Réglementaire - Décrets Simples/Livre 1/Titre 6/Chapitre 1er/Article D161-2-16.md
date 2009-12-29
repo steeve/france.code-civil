@@ -1,6 +1,6 @@
 Article D161-2-16
 ----
-I. - Les dispositions du présent article sont applicables :
+I.-Les dispositions du présent article sont applicables :
 
 1° En cas de reprise, postérieurement à la date d'effet de la pension, d'une
 activité salariée pour le compte de l'employeur dont relevait l'assuré avant
@@ -15,8 +15,12 @@ ou d'une activité non salariée, au sens du premier alinéa de l'article L.
 161-22, pour le compte d'une entreprise autre que celle mentionnée au 1° : à
 compter de la date d'effet de la pension.
 
-II. - La pension dont l'échéance est mensuelle n'est pas due pour le mois civil
-au cours duquel le montant des revenus d'activité tels qu'ils sont définis à
+Toutefois, les dispositions du présent article ne sont pas applicables aux
+assurés remplissant les conditions prévues aux quatrième, cinquième et sixième
+alinéas de l'article L. 161-22.
+
+II.-La pension dont l'échéance est mensuelle n'est pas due pour le mois civil au
+cours duquel le montant des revenus d'activité tels qu'ils sont définis à
 l'article D. 161-2-10 est supérieur à la différence entre, d'une part, le
 montant du dernier revenu d'activité antérieur à la date d'effet de la pension
 tel qu'il résulte de l'application des articles D. 161-2-7 à D. 161-2-9 et,
@@ -25,7 +29,7 @@ l'article D. 161-2-11. Lorsqu'une ou plusieurs pensions de retraite concernées
 ont une échéance trimestrielle, le montant à prendre en considération est
 déterminé sur une base mensuelle.
 
-III. - La pension dont l'échéance est trimestrielle n'est pas due pour le
+III.-La pension dont l'échéance est trimestrielle n'est pas due pour le
 trimestre au cours duquel le montant des revenus d'activité tels qu'ils sont
 définis à l'article D. 161-2-10 est supérieur à la différence entre, d'une part,
 le montant du dernier revenu d'activité antérieur à la date d'effet de la
@@ -36,12 +40,12 @@ ont une échéance mensuelle, le montant à prendre en considération est déter
 sur une base trimestrielle. Il en est de même pour le montant du dernier revenu
 d'activité antérieur à la date d'effet de la pension.
 
-IV. - Lorsque la déclaration de l'assuré intervient dans le délai fixé au
-premier alinéa de l'article D. 161-2-13, les dispositions du II et du III
-prennent effet à compter du premier jour du mois ou du trimestre suivant celui
-au cours duquel l'organisme compétent notifie sa décision à l'assuré.
+IV.-Lorsque la déclaration de l'assuré intervient dans le délai fixé au premier
+alinéa de l'article D. 161-2-13, les dispositions du II et du III prennent effet
+à compter du premier jour du mois ou du trimestre suivant celui au cours duquel
+l'organisme compétent notifie sa décision à l'assuré.
 
-V. - Pour apprécier la situation de l'assuré au regard de la règle de suspension
+V.-Pour apprécier la situation de l'assuré au regard de la règle de suspension
 du service de la pension prévue au troisième alinéa de l'article L. 161-22, sont
 pris en compte les revenus définis à l'article D. 161-2-10 et les pensions
 mentionnées à l'article D. 161-2-11 afférents à la période correspondant à la

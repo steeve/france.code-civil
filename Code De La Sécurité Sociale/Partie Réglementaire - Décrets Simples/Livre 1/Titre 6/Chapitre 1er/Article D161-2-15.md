@@ -21,3 +21,7 @@ pension.
 Les dispositions ci-dessus sont également applicables lorsque l'assuré n'a pas
 cessé son activité à la date d'effet de sa pension. Dans ce cas, l'application
 de ces dispositions court à compter de la date d'effet de la pension.
+
+Les dispositions du présent article ne sont pas applicables aux assurés
+remplissant, lors de la reprise d'activité, les conditions prévues aux
+quatrième, cinquième et sixième alinéas de l'article L. 161-22.

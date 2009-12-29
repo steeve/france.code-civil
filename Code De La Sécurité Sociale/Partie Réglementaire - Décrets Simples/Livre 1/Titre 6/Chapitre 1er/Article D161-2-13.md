@@ -35,3 +35,13 @@ et complémentaires, qui lui servent une pension.
 
 f) Le cas échéant, les pièces justificatives prévues au dernier alinéa du II de
 l'article D. 161-2-7.
+
+Par dérogation au deuxième alinéa, l'assuré qui entend cumuler le bénéfice de sa
+pension de retraite avec un revenu d'activité dans les conditions prévues aux
+quatrième, cinquième et sixième alinéas de l'article L. 161-22 produit, auprès
+du ou des organismes mentionnés au premier alinéa, les éléments prévus aux a et
+b ci-dessus, lorsqu'ils n'ont pas déjà été communiqués à ces organismes, dans le
+mois suivant la reprise de l'activité et y joint une attestation sur l'honneur
+énumérant les différents régimes mentionnés au quatrième alinéa de l'article L.
+161-22 dont il a relevé et certifiant qu'il est entré en jouissance de toutes
+ses pensions de vieillesse personnelles.
