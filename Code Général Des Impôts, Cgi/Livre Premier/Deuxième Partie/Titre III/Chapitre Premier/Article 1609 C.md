@@ -9,10 +9,10 @@ destinée à financer l'exercice en Guadeloupe, par cet organisme, des missions
 définies à l'article 5 de cette loi.
 
 Le montant de cette taxe est arrêté avant le 31 décembre de chaque année, pour
-l'année suivante, dans la limite d'un plafond de 1 706 681 €, par le conseil
+l'année suivante, dans la limite d'un plafond de 1 732 245 €, par le conseil
 d'administration de l'établissement public et notifié aux services fiscaux. Ce
-plafond évolue chaque année, à compter de l'année 2010, comme la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu.
+plafond évolue chaque année comme la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu.
 
 Les communes concernées sont préalablement consultées par le conseil
 d'administration.

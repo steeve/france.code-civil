@@ -5,17 +5,15 @@ Sont exonérés de la cotisation foncière des entreprises :
 1° Les pêcheurs utilisant pour leur activité professionnelle un ou deux bateaux,
 même s'ils en sont propriétaires ;
 
-1° bis Les sociétés de pêche artisanale visées au I de l'article 21 de la loi n°
-97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures
-marines lorsqu'un ou plusieurs associés sont embarqués ;
+1° bis Les sociétés de pêche artisanale visées à l'article L. 931-2 du code
+rural et de la pêche maritime lorsqu'un ou plusieurs associés sont embarqués ;
 
 2° Les inscrits maritimes qui se livrent personnellement à la pêche des
 poissons, crustacés, mollusques et autres produits de la pêche et effectuent
 eux-mêmes la vente de ces produits ;
 
 3° Les sociétés coopératives maritimes constituées et fonctionnant conformément
-aux dispositions des articles 35 à 58 de la loi n° 83-657 du 20 juillet 1983
-relative au développement de certaines activités d'économie sociale.
+aux articles L. 931-5 à L. 931-27 du code rural et de la pêche maritime.
 
 L'exonération prévue ci-dessus n'est pas applicable aux sociétés coopératives
 maritimes dont les parts sont admises aux négociations sur un marché réglementé

@@ -1,10 +1,10 @@
 Article L265
 ----
-Les huissiers de justice, commissaires-priseurs, notaires, séquestres et tous
-autres dépositaires publics de fonds ne peuvent les remettre aux héritiers,
-créanciers et autres personnes ayant droit de toucher les sommes séquestrées et
-déposées, qu'après avoir vérifié et justifié que les impôts directs dus par les
-personnes dont ils détiennent les fonds ont été payés.
+Les huissiers de justice, commissaires-priseurs judiciaires, notaires,
+séquestres et tous autres dépositaires publics de fonds ne peuvent les remettre
+aux héritiers, créanciers et autres personnes ayant droit de toucher les sommes
+séquestrées et déposées, qu'après avoir vérifié et justifié que les impôts
+directs dus par les personnes dont ils détiennent les fonds ont été payés.
 
 Ces séquestres et dépositaires sont autorisés à payer directement les
 impositions qui se trouveraient dues avant de procéder à la délivrance des fonds

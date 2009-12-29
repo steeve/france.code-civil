@@ -16,8 +16,8 @@ même nature.
 II.-Les établissements publics de coopération intercommunale faisant application
 de l'article 1609 nonies C ou du I ou du II de l'article 1609 quinquies C votent
 le taux de la cotisation foncière des entreprises dans les limites définies au b
-du 1, ainsi qu'aux 2 et 3 et au 5 du I de l'article 1636 B sexies et à l'article
-1636 B septies.
+du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B
+septies.
 
 Toutefois, l'obligation de diminuer le taux de cotisation foncière des
 entreprises dans une proportion au moins égale soit à la diminution du taux de
@@ -26,8 +26,8 @@ des taxes foncières, soit à la plus importante de ces diminutions lorsque ces
 deux taux sont en baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne
 s'applique pas.
 
-Pour l'application du b du 1, ainsi que des 2 et 3 et du 5 du I de l'article
-1636 B sexies :
+Pour l'application du b du 1, du 2, du 3 et du 5 du I de l'article 1636 B sexies
+:
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté
 dans l'ensemble des communes membres de l'établissement public de coopération
@@ -78,8 +78,8 @@ titre de l'une des trois années suivantes.
 La majoration du taux de cotisation foncière des entreprises dans les conditions
 visées au premier alinéa n'est pas applicable l'année au titre de laquelle
 l'établissement public de coopération intercommunale fait application des
-dispositions du 3 ou du a du 4 du I de l'article 1636 B sexies, du deuxième
-alinéa ou du dernier alinéa du II du présent article.
+dispositions du 3 du I de l'article 1636 B sexies, du deuxième alinéa ou du
+dernier alinéa du II.
 
 Les décisions relatives aux taux transmises aux services fiscaux dans les
 conditions prévues au I de l'article 1639 A doivent indiquer le montant à
