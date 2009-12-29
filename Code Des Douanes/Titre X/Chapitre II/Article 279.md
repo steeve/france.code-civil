@@ -1,7 +1,11 @@
 Article 279
 ----
 Dans les cas prévus au 4 de l'article 276, la taxe est acquittée par le
-redevable au plus tard le dixième jour du mois suivant la liquidation.
+redevable lors de la restitution de l'équipement électronique embarqué ou dès
+que l'avance est insuffisante ou au plus tard le dixième jour du mois suivant la
+liquidation.
+
+Le paiement s'effectue par imputation de l'avance.
 
 Un décret en Conseil d'Etat précise les conditions dans lesquelles la taxe est
 acquittée. Il peut prévoir des mécanismes particuliers pour les redevables
