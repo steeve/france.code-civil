@@ -13,12 +13,13 @@ détermination du taux d'incapacité permanente, d'une part, en matière
 d'accidents du travail et, d'autre part, en matière de maladies professionnelles
 sont annexés au livre IV du code de la sécurité sociale.
 
-La caisse de mutualité sociale agricole notifie immédiatement à la victime les
-propositions relatives au taux d'incapacité et lui communique en même temps pour
-information le montant de la rente correspondante.
+La caisse de mutualité sociale agricole notifie immédiatement à la victime, par
+tout moyen permettant de déterminer la date de réception, les propositions
+relatives au taux d'incapacité et lui communique en même temps pour information
+le montant de la rente correspondante.
 
-La victime dispose d'un délai d'un mois pour faire connaître son accord ou ses
-observations.
+La notification informe la victime qu'elle dispose d'un délai d'un mois pour
+faire connaître son accord ou ses observations.
 
 Si un accord se réalise au cours de ce délai, soit immédiatement, soit après
 examen par la commission des rentes des observations présentées par la victime,
@@ -46,5 +47,7 @@ appel de cette décision ;
 
 4° Soit dès la notification de la décision intervenue en appel.
 
-Dans tous les cas, le double de la décision est envoyé à l'employeur au service
-duquel est survenu l'accident.
+Dans tous les cas, la décision est notifiée par tout moyen permettant de
+déterminer la date de réception, avec mention des voies et délais de recours, à
+la victime ou à ses ayants droit et à l'employeur au service duquel est survenu
+l'accident.
