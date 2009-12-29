@@ -12,14 +12,9 @@ l'article 125 D.
 
 2. (Périmé).
 
-3. Les paiements afférents à l'impôt mentionné à l'article 1668 sont effectués
-par virement directement opéré sur le compte du Trésor ouvert dans les écritures
-de la Banque de France lorsque le chiffre d'affaires hors taxes réalisé au titre
-de l'exercice précédent par l'entreprise est supérieur à 760 000 euros.
+3. (Abrogé).
 
 4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231
 sont effectués par virement directement opéré sur le compte du Trésor ouvert
 dans les écritures de la Banque de France lorsque leur montant excède 50 000
 euros.
-
-5. (Abrogé)
