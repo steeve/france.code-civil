@@ -10,9 +10,9 @@ Pour cette détermination, le conseil prend en considération les éléments
 suivants :
 
 1° Pour les professionnels exerçant habituellement leur activité à titre
-libéral, et pour les personnes sans emploi au moment de l'entrée dans la
-réserve, la rémunération moyenne de la profession, et, s'agissant des médecins
-exerçant à titre libéral, de la spécialité et du secteur d'exercice ;
+libéral, et pour les personnes sans emploi, la rémunération moyenne de la
+profession, et, s'agissant des médecins exerçant à titre libéral, de la
+spécialité et du secteur d'exercice ;
 
 2° Pour les étudiants non rémunérés pour l'accomplissement de leurs études, un
 pourcentage de la rémunération qui serait perçue par les intéressés s'ils
@@ -23,5 +23,6 @@ profession considérée ;
 appliqués dans les établissements publics de santé, notamment pour les gardes et
 astreintes.
 
-Pour l'indemnisation des retraités, le conseil fixe un montant forfaitaire ne
-pouvant excéder 30 % du montant prévu en application du 1°.
+Le montant de l'indemnisation des retraités ayant cessé d'exercer leur
+profession est égal au produit du montant prévu pour chaque profession en
+application du 1° et d'un taux fixé par le conseil dans la limite de 80 %.
