@@ -16,3 +16,8 @@ arrêté du ministre de la défense ;
 
 5° L'autorité chargée de la gestion du corps d'accueil dans l'administration ou
 l'établissement public d'accueil ou son représentant.
+
+Lorsque la commission examine la demande d'un militaire de la gendarmerie
+nationale, les représentants du ministre de la défense précités sont remplacés,
+ainsi que leurs suppléants, par deux représentants du ministre de l'intérieur ou
+par leurs suppléants, nommés par arrêté du ministre de l'intérieur.

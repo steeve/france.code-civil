@@ -10,6 +10,7 @@ prorogé de droit pendant toute la durée du détachement.
 Il peut être mis fin au détachement avant son terme, à l'initiative du militaire
 ou à la demande de l'administration, ou de l'établissement public d'accueil,
 après avis de la Commission nationale d'orientation et d'intégration, lequel est
-transmis au ministre de la défense et à l'autorité chargée de la gestion du
+transmis au ministre de la défense, ou au ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, et à l'autorité chargée de la gestion du
 corps d'accueil. Le militaire est alors réintégré de plein droit dans son corps
 d'origine ou de rattachement, dans les conditions prévues à l'article L. 4139-4.
