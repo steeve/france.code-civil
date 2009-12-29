@@ -7,5 +7,5 @@ admis à faire valoir leur droit en se conformant à la procédure prévue à
 l'article R. 227.
 
 La liste de ces combats et bonifications est établie par un arrêté conjoint du
-ministre de la défense nationale et du ministre des anciens combattants et
-victimes de guerre et de la commission créée à l'article A. 119.
+ministre de la défense nationale et du ministre chargé des anciens combattants
+et victimes de guerre et de la commission créée à l'article A. 119.

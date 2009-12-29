@@ -12,6 +12,6 @@ combattants aux opérations de guerre mentionnées à l'alinéa précédent, ont
 évacués pour blessure ou maladie contractée en service, ou faits prisonniers ;
 
 3° Soit acquis des titres qui, après instruction dans les formes prévues à
-l'article R. 249, ont été reconnus par le ministre des anciens combattants et
-victimes de guerre équivalents à ceux qui sont mentionnés aux alinéas 1° et 2°
-ci-dessus.
+l'article R. 249, ont été reconnus par le ministre chargé des anciens
+combattants et victimes de guerre équivalents à ceux qui sont mentionnés aux
+alinéas 1° et 2° ci-dessus.

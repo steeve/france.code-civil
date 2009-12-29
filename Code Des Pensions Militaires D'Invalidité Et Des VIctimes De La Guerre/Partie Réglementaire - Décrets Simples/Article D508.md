@@ -15,14 +15,14 @@ proposition du comité d'administration de l'office national, être procédé à
 nomination d'un agent comptable spécial.
 
 Celui-ci est nommé, et, le cas échéant, remplacé ou révoqué par décret conjoint
-du ministre des anciens combattants et victimes de guerre et du ministre de
-l'économie et des finances. Ses émoluments sont fixés dans les mêmes formes.
+du ministre chargé des anciens combattants et victimes de guerre et du ministre
+de l'économie et des finances. Ses émoluments sont fixés dans les mêmes formes.
 
 Dans le cas de décès, de démission, de remplacement ou de révocation d'un agent
-comptable spécial, le ministre des anciens combattants et victimes de guerre,
-après avis du ministre de l'économie et des finances, peut nommer un gérant
-intérimaire qui en remplit les fonctions jusqu'au jour de l'installation du
-nouvel agent comptable.
+comptable spécial, le ministre chargé des anciens combattants et victimes de
+guerre, après avis du ministre de l'économie et des finances, peut nommer un
+gérant intérimaire qui en remplit les fonctions jusqu'au jour de l'installation
+du nouvel agent comptable.
 
 La gestion du gérant intérimaire est entièrement distincte de celle de l'ancien
 et du nouveau titulaire.

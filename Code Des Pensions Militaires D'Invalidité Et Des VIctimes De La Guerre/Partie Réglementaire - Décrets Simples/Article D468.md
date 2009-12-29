@@ -11,6 +11,6 @@ Le directeur général se retire au moment du vote sur son compte.
 
 Le compte administratif du directeur général, accompagné éventuellement des
 observations de la commission permanente et du comité d'administration, est
-soumis, avant le 30 juin de la même année, à l'approbation du ministre des
-anciens combattants et victimes de guerre et du ministre de l'économie et des
-finances.
+soumis, avant le 30 juin de la même année, à l'approbation du ministre chargé
+des anciens combattants et victimes de guerre et du ministre de l'économie et
+des finances.

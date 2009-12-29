@@ -15,7 +15,7 @@ De l'arrêté du 26 décembre 1947 fixant les conditions minimum d'installation 
 de fonctionnement que doivent remplir les établissements recevant des enfants ;
 
 2° Si son directeur est Français, sauf dérogation à titre exceptionnel, admise
-par décision du ministre des anciens combattants et victimes de guerre, après
-avis favorable de la commission permanente de l'office national ;
+par décision du ministre chargé des anciens combattants et victimes de guerre,
+après avis favorable de la commission permanente de l'office national ;
 
 3° Si ce directeur est âgé de vingt-cinq ans révolus.

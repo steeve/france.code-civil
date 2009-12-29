@@ -2,7 +2,7 @@ Article A246
 ----
 Les secours aux anciens pensionnés dont la pension a été supprimée en vertu des
 textes relatifs à la révision des pensions abusives et à leurs ayants cause sont
-attribués par décision du ministre des anciens combattants et victimes de
+attribués par décision du ministre chargé des anciens combattants et victimes de
 guerre, après avis d'une commission composée comme suit :
 
 Trois membres désignés par la commission permanente du comité d'administration

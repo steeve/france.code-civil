@@ -6,4 +6,4 @@ Soit celui où le déporté ou l'interné a été inhumé au moment de son déc�
 
 Soit celui de la disparition ou du décès tel qu'il ressort, soit du jugement
 déclaratif de décès, soit de l'acte de décès ou de l'acte de disparition dressé
-par le ministre des anciens combattants et victimes de guerre.
+par le ministre chargé des anciens combattants et victimes de guerre.

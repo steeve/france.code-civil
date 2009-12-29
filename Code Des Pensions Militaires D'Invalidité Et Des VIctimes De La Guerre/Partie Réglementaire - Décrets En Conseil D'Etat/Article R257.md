@@ -11,9 +11,9 @@ Lorsque dans le délai de six mois à compter de la publication du décret du 21
 mars 1950, les représentants, au sein du conseil d'administration de l'office
 national des anciens combattants et victimes de guerre, des associations
 nationales auxquelles sont susceptibles de ressortir les combattants volontaires
-de la Résistance ont communiqué au ministre des anciens combattants et victimes
-de guerre des renseignements tels qu'ils permettent de mettre en jeu les
-dispositions de l'article L. 265, cette communication emporte effet suspensif
-quant à la reconnaissance de la qualité de combattant volontaire de la
+de la Résistance ont communiqué au ministre chargé des anciens combattants et
+victimes de guerre des renseignements tels qu'ils permettent de mettre en jeu
+les dispositions de l'article L. 265, cette communication emporte effet
+suspensif quant à la reconnaissance de la qualité de combattant volontaire de la
 résistance, jusqu'à ce que le cas des personnes intéressées ait pu être examiné
 par la commission nationale prévue par l'article L. 270.

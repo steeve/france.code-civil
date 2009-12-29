@@ -18,4 +18,5 @@ suppression de celui-ci ne peut donner lieu à une indemnité.
 
 L'Etat contribue aux frais des cérémonies d'obsèques, religieuses ou civiles,
 dans la limite d'une somme forfaitaire dont le montant maximal est fixé par
-arrêté conjoint du ministre de la défense et du ministre chargé du budget.
+arrêté conjoint du ministre chargé des anciens combattants et victimes de guerre
+et du ministre de l'économie et des finances.

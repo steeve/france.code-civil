@@ -1,7 +1,7 @@
 Article A4
 ----
 Délégation est donnée aux préfets de région, dans la limite de leur compétence
-territoriale, à l'effet de contresigner, au nom du ministre des anciens
+territoriale, à l'effet de contresigner, au nom du ministre chargé des anciens
 combattants et victimes de guerre, les arrêtés interministériels portant
 annulation des pensions concédées par arrêté interministériel dans les
 conditions prévues à l'article L. 24.

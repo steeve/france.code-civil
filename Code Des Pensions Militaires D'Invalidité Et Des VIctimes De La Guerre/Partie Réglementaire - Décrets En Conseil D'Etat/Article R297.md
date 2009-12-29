@@ -11,8 +11,8 @@ Lorsque, dans le délai de trois mois à compter de la publication du décret du
 mars 1949, les représentants au sein du conseil d'administration de l'office
 national des anciens combattants et victimes de guerre, des associations
 nationales auxquelles sont susceptibles de ressortir les déportés et internés
-résistants ont communiqué au ministre des anciens combattants et victimes de
-guerre des renseignements tels qu'ils permettent de mettre en jeu les
+résistants ont communiqué au ministre chargé des anciens combattants et victimes
+de guerre des renseignements tels qu'ils permettent de mettre en jeu les
 dispositions de l'article L. 277, cette communication emporte effet suspensif,
 quant à l'attribution du titre de déporté ou d'interné résistant, jusqu'à ce que
 le cas des personnes intéressées ait pu être examiné par la commission

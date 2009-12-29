@@ -18,8 +18,3 @@ des blessés crâniens.
 Il est procédé ensuite à la concession de l'allocation dans les mêmes formes que
 celles prévues pour la concession de la pension principale, cette allocation
 étant inscrite sur le titre même de ladite pension.
-
-Lorsque le ministre a donné la délégation de pouvoirs prévue à l'article L. 24,
-le fonctionnaire délégataire compétent procède à la liquidation et à la
-concession des majorations de pension et des allocations spéciales dans les
-mêmes conditions que pour la pension principale.

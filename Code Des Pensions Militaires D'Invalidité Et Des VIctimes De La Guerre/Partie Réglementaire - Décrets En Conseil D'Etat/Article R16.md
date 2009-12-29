@@ -7,8 +7,8 @@ commission, nommé par le ministre de la défense ;
 
 2° Deux officiers dont un officier supérieur et un capitaine ou un officier de
 grade équivalent, désignés par le commandant de région terre, ou le commandant
-de région maritime ou le commandant de région aérienne sur le territoire
-desquels est situé le centre de réforme.
+de région maritime sur le territoire desquels est situé le domicile du
+demandeur, ou par le directeur des ressources humaines de l'armée de l'air.
 
 Les membres de la commission sont choisis parmi les officiers de carrière ou
 sous contrat en position d'activité.

@@ -10,8 +10,8 @@ Le directeur de la succursale de la Banque de France ou son représentant ;
 
 Le directeur départemental des contributions directes ou son représentant ;
 
-Le secrétaire général de l'office départemental des anciens combattants et
-victimes de guerre ou son représentant ;
+Le directeur du service départemental des anciens combattants et victimes de
+guerre ou son représentant ;
 
 Soit le président de la chambre de commerce siégeant au chef-lieu du département
 ou, à défaut de chambre de commerce au chef-lieu, le président d'une chambre de

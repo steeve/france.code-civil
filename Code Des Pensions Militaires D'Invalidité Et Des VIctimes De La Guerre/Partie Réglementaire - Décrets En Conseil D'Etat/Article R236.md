@@ -2,11 +2,11 @@ Article R236
 ----
 Tout titulaire de la carte du combattant ayant servi dans les armées françaises
 et ayant au moins 50 ans révolus doit, pour obtenir la retraite instituée par
-les articles L. 255 à L. 257 adresser à l'office départemental qui lui a délivré
+les articles L. 255 à L. 257 adresser au service départemental qui lui a délivré
 ladite carte, une demande dont le modèle est fixé par une instruction du
-ministre des anciens combattants et victimes de guerre et qui indique notamment
-le numéro de la carte qu'il détient. A cette demande, il joint un extrait sur
-papier libre de son acte de naissance.
+ministre chargé des anciens combattants et victimes de guerre et qui indique
+notamment le numéro de la carte qu'il détient. A cette demande, il joint un
+extrait sur papier libre de son acte de naissance.
 
 Lorsqu'un ayant droit à la retraite est interdit ou aliéné non interdit, la
 demande de retraite est établie par son représentant légal.

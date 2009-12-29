@@ -4,8 +4,8 @@ Ont droit à la qualité de combattants, les personnes arrêtées par les autori
 de l'Allemagne ou de ses alliés, par l'autorité de fait de l'Etat français ou
 par les polices civiles ou militaires d'un pays en conflit avec la France, même
 après le 8 mai 1945, si les intéressés fournissent une attestation de déporté ou
-d'interné politique (modèle A) délivrée par le ministre des anciens combattants
-et victimes de guerre, à condition :
+d'interné politique (modèle A) délivrée par le ministre chargé des anciens
+combattants et victimes de guerre, à condition :
 
 1° Soit de présenter une attestation délivrée par l'autorité militaire
 compétente la reconnaissant comme ayant été homologuée au titre des FFC, des FFI

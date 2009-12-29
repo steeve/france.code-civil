@@ -3,8 +3,8 @@ Article D414
 Par dérogation aux dispositions du décret validité du 31 décembre 1941 :
 
 1° Les exhumations et transferts de corps sont ordonnés par les représentants du
-ministre des anciens combattants et victimes de guerre, sans qu'il y ait lieu de
-provoquer les autorisations prévues par le décret précité ;
+ministre chargé des anciens combattants et victimes de guerre, sans qu'il y ait
+lieu de provoquer les autorisations prévues par le décret précité ;
 
 2° L'absence d'un parent ou d'un mandataire de la famille ne fait pas obstacle
 aux exhumations ;

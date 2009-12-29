@@ -1,12 +1,11 @@
 Article R356
 ----
-Le titre de réfractaire est attribué, sur demande, par décision du ministre des
-anciens combattants et victimes de guerre, qui peut déléguer ses pouvoirs aux
-préfets, l'avis du conseil départemental pour les anciens combattants et
-victimes de guerre et la mémoire de la Nation ou, le cas échéant, de la
-commission nationale, dont la composition est déterminée ci-après, étant
-préalablement recueilli.
+Le titre de réfractaire est attribué sur demande par décision du directeur
+général de l'Office national des anciens combattants et victimes de guerre,
+après avis de la commission mentionnée à l'article R. 388-7. Dans les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le titre est attribué
+selon les dispositions de l'article R. 577.
 
 Il est délivré au bénéficiaire, ou à défaut à son ayant cause, une carte dont
-les caractéristiques seront fixées par arrêté du ministre des anciens
+les caractéristiques sont fixées par arrêté du ministre chargé des anciens
 combattants et victimes de guerre.

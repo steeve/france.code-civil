@@ -9,8 +9,8 @@ du Trésor à Paris.
 
 Avant son installation, l'agent comptable de l'office départemental prête
 serment devant le préfet du département et fournit, en garantie de sa gestion,
-un cautionnement dont le montant est fixé par arrêté conjoint du ministre des
-anciens combattants et victimes de guerre et du ministre des finances. Ce
+un cautionnement dont le montant est fixé par arrêté conjoint du ministre chargé
+des anciens combattants et victimes de guerre et du ministre des finances. Ce
 cautionnement peut être réalisé, soit en numéraire, soit en rentes sur l'Etat,
 soit par affiliation à une association française de cautionnement mutuel.
 

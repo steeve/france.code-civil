@@ -12,8 +12,8 @@ Le trésorier-payeur général ou son représentant, vice-président ;
 Le président de chacune des caisses régionales de crédit agricole mutuel du
 département ou son représentant ;
 
-Le secrétaire général de l'office départemental des anciens combattants et
-victimes de guerre ou son représentant ;
+Le directeur du service départemental des anciens combattants et victimes de
+guerre ou son représentant ;
 
 L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son
 représentant ;

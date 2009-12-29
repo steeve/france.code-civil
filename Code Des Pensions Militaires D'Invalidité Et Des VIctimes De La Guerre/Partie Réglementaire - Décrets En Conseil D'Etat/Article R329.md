@@ -7,7 +7,5 @@ les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, est celle prévue 
 l'article R. 288.
 
 Si le lieu de déportation ne figure pas sur ladite liste, le titre de déporté
-politique ne peut être attribué qu'après avis de la commission nationale
-constituée dans les conditions fixées aux articles R. 337 à R. 339. Cet avis
-n'est toutefois pas exigé s'il s'agit de personnes décédées au cours de leur
-transfert par l'ennemi vers ces camps ou prisons.
+politique ne peut être attribué qu'après avis de la commission mentionnée à
+l'article R. 388-7.

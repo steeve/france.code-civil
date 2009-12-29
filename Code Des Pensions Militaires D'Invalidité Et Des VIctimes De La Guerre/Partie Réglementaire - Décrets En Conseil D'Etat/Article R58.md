@@ -1,23 +1,18 @@
 Article R58
 ----
-Le greffier doit aviser, conformément au deuxième alinéa de l'article L. 84, le
-commissaire du Gouvernement du dépôt de la requête qu'il adresse, après
-accomplissement de cette formalité, au président du tribunal des pensions.
-
-Communication de la requête est faite par ce magistrat au commissaire du
-Gouvernement.
-
-Les propositions du ministère compétent doivent être établies en trois
-exemplaires destinés, l'un à l'intéressé, les autres au commissaire du
-Gouvernement et au Président du tribunal des pensions.
+Le greffier communique la requête à l'auteur de la décision contestée. Le
+mémoire en réponse doit être établi en trois exemplaires destinés, l'un à
+l'intéressé, les autres au représentant de l'auteur de la décision contestée et
+au président du tribunal des pensions.
 
 Dès leur réception, le greffier près le tribunal des pensions transmet au
-demandeur, par lettre recommandée, avec accusé de réception, le texte des
+demandeur, par lettre recommandée, avec avis de réception, le texte des
 propositions à lui destiné.
 
 Dans le délai de quinzaine à dater de la réception de cette notification, le
 demandeur doit faire connaître au greffier du tribunal des pensions, par lettre
-recommandée, s'il accepte ou non les propositions ministérielles.
+recommandée avec avis de réception, s'il accepte ou non les propositions de
+l'auteur de la décision contestée mis en cause.
 
 Dans le cas où le demandeur laisse expirer le délai de quinzaine sans répondre,
 il est réputé avoir refusé les propositions.

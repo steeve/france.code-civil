@@ -18,7 +18,7 @@ appartenant aux FFC, FFI ou à la RIF ;
 
 Soit par des témoignages circonstanciés établis par les personnes ayant assisté
 à l'acte de résistance accompli isolément ou ayant participé à l'acte de
-résistance qui a motivé l'arrestation. L'honorabilité de ces personnes doit être
+résistance qui a motivé l'arrestation.L'honorabilité de ces personnes doit être
 certifiée :
 
 Dans les territoires d'outre-mer, par le commissaire de police, ou le maire, ou
@@ -27,9 +27,9 @@ le représentant local de l'autorité française ;
 A l'étranger, par l'autorité consulaire française la plus proche.
 
 Ces attestations et témoignages doivent être certifiés sur l'honneur. Le
-ministre des anciens combattants et victimes de guerre peut, en outre, faire
-procéder à des enquêtes par les commissaires de police ou, à défaut, par la
-gendarmerie et, à l'étranger, par les autorités consulaires françaises ;
+ministre chargé des anciens combattants et victimes de guerre peut, en outre,
+faire procéder à des enquêtes par les commissaires de police ou, à défaut, par
+la gendarmerie et, à l'étranger, par les autorités consulaires françaises ;
 
 d) Dans tous les cas visés à l'article R. 287, par la concession d'une pension
 dans les conditions fixées au titre II, livre II (première et deuxième parties)

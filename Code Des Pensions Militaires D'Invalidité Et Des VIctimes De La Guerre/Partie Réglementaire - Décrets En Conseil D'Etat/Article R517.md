@@ -1,11 +1,10 @@
 Article R517
 ----
 Toute demande formée en vue de recevoir des pupilles de la nation doit être
-adressée au préfet, président de l'office départemental si l'établissement ne
-doit recevoir que les pupilles du département. Elle doit être adressée à
-l'office national des anciens combattants et victimes de guerre si
-l'établissement qui sollicite l'autorisation étend son action sur plusieurs
-départements.
+adressée au service départemental si l'établissement ne doit recevoir que les
+pupilles du département. Elle doit être adressée à l'office national des anciens
+combattants et victimes de guerre si l'établissement qui sollicite
+l'autorisation étend son action sur plusieurs départements.
 
 Il est joint à la demande :
 

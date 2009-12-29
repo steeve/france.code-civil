@@ -22,10 +22,10 @@ d'outre-mer.
 Deux représentants de l'Assemblée Nationale et un représentant du Sénat peuvent
 participer aux travaux de cette commission.
 
-Elle est présidée par un délégué du ministre des anciens combattants et victimes
-de guerre.
+Elle est présidée par un délégué du ministre chargé des anciens combattants et
+victimes de guerre.
 
-Les membres de la commission sont désignés par le ministre des anciens
+Les membres de la commission sont désignés par le ministre chargé des anciens
 combattants et victimes de guerre.
 
 Les propositions de la commission sont faites à la majorité des deux tiers des

@@ -7,5 +7,5 @@ ressortissant.
 
 Les observations motivées de ce médecin polonais seront jointes au dossier de
 l'intéressé et, au cas où elles ne seraient pas retenues par la commission
-soumises à la décision du ministre des anciens combattants et victimes de la
+soumises à la décision du ministre chargé des anciens combattants et victimes de
 guerre.

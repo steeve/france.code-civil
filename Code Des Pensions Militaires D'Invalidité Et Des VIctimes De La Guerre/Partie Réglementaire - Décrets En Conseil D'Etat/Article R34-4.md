@@ -6,9 +6,10 @@ soumettre périodiquement à l'examen des organismes antituberculeux ou des
 médecins désignés par le préfet.
 
 Une fois par an, l'organisme antituberculeux ou le médecin désigné par le préfet
-fait parvenir au centre de réforme le résumé de ses constatations, accompagné
-des renseignements et documents de toute nature, permettant la tenue à jour par
-le centre de réforme du double du dossier médical. Ce dossier est soumis
+fait parvenir au service désigné par le ministre chargé des anciens combattants
+et victimes de guerre le résumé de ses constatations, accompagné des
+renseignements et documents de toute nature, permettant la tenue à jour par le
+centre de réforme du double du dossier médical. Ce dossier est soumis
 obligatoirement aux médecins phtisiologues accrédités auprès du centre de
 réforme.
 
@@ -17,6 +18,6 @@ les médecins phtisiologues déterminent le pourcentage correspondant à
 l'invalidité due aux séquelles des infirmités de nature tuberculeuse.
 
 Ce pourcentage est notifié à l'intéressé dans les conditions prévues à l'article
-R. 15. Le dossier, accompagné le cas échéant de l'avis de la commission de
-réforme, est ensuite transmis au ministre chargé des anciens combattants ou au
-fonctionnaire délégataire dans le cas visé au dernier alinéa de l'article R. 29.
+R. 15. Le dossier est alors transmis par le service désigné par le ministre de
+la défense au service compétent du ministre chargé du budget qui prend sa
+décision.

@@ -1,7 +1,6 @@
 Article R528
 ----
-La demande doit être adressée au préfet, président de l'office départemental
-dont relève le pupille.
+La demande doit être adressée au service départemental dont relève le pupille.
 
 Il est joint à la demande :
 

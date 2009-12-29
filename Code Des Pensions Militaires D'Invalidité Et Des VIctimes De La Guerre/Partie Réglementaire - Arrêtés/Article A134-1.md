@@ -13,7 +13,7 @@ limitativement désignées, de bonifications qui font l'objet des articles A.
 134-2 à 134-4.
 
 La liste de ces combats et bonifications est établie par un arrêté conjoint du
-ministre de la défense nationale et du ministre des anciens combattants et
-victimes de guerre, après avis de l'office nationale des anciens combattants et
-victimes de guerre et de la commission créée à cet effet et prévue par l'article
-A. 135.
+ministre de la défense nationale et du ministre chargé des anciens combattants
+et victimes de guerre, après avis de l'office nationale des anciens combattants
+et victimes de guerre et de la commission créée à cet effet et prévue par
+l'article A. 135.

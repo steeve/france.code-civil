@@ -2,7 +2,7 @@ Article R224
 ----
 Sont considérés comme combattants :
 
-A - Pour les opérations effectuées entre le 2 août 1914 et le 11 novembre 1918 :
+A-Pour les opérations effectuées entre le 2 août 1914 et le 11 novembre 1918 :
 
 1° Les militaires des armées de terre et de mer qui ont appartenu, pendant trois
 mois consécutifs ou non, aux unités énumérées aux tableaux annexés au présent
@@ -28,7 +28,7 @@ anciens officiers de carrière ;
 Les Alsaciens et les Lorrains qui se sont engagés pendant la période des
 hostilités dans les rangs de l'armée française.
 
-B - Pour les opérations effectuées après le 11 novembre 1918 :
+B-Pour les opérations effectuées après le 11 novembre 1918 :
 
 Les militaires des armées de terre et de mer faisant ou ayant fait partie des
 troupes et missions militaires en territoires étrangers ou ayant acquis des
@@ -45,9 +45,9 @@ contractée au service ou fait prisonnier ;
 
 c) Avoir reçu une blessure de guerre.
 
-C - Pour les opérations effectuées après le 2 septembre 1939 :
+C-Pour les opérations effectuées après le 2 septembre 1939 :
 
-I. - Militaires
+I.-Militaires
 
 Les militaires des armées de terre, de mer et de l'air :
 
@@ -97,8 +97,8 @@ leur détention, sans condition de durée de séjour, à une unité combattante,
 pendant la période où celle-ci avait cette qualité.
 
 Les durées de détention prévues aux alinéas 4° et 5° sont réduites, en ce qui
-concerne les combattants d'Indochine, par un arrêté conjoint du ministre des
-anciens combattants et victimes de guerre, du ministre d'Etat chargé de la
+concerne les combattants d'Indochine, par un arrêté conjoint du ministre chargé
+des anciens combattants et victimes de guerre, du ministre d'Etat chargé de la
 défense nationale et du ministre chargé de la France d'outre-mer, dont les
 dispositions font l'objet de l'article A. 121 bis ;
 
@@ -116,7 +116,7 @@ conditions exceptionnelles de détention ;
 satisfont aux conditions qui sont déterminées par arrêté interministériel dont
 les dispositions font l'objet des articles A. 123-2 à A. 123-5.
 
-II. - Résistance
+II.-Résistance
 
 1° Les titulaires de la carte de déporté ou d'interné résistant délivrée en
 application des dispositions des articles L. 272 à L. 277 ;
@@ -132,7 +132,7 @@ conditions déterminées à l'article A. 123 ;
 catégories précédentes, peuvent se prévaloir dans la Résistance, des
 circonstances particulières admises pour les militaires.
 
-III. - Marins du commerce
+III.-Marins du commerce
 
 1° Les membres de la marine marchande de la France combattante, visés par le
 décret du comité français de la libération nationale en date du 1er avril 1943 ;
@@ -160,12 +160,12 @@ des opérations destinées à venir en aide à la Résistance. Ces bonifications
 devront pas dépasser la durée de vingt-cinq jours. Leurs modalités d'application
 sont déterminées par arrêtés des ministres intéressés.
 
-IV. - Personnels militaires ayant combattu en Indochine et en Corée.
+IV.-Personnels militaires ayant combattu en Indochine et en Corée.
 
 Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
 
-D - Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952
-et le 2 juillet 1962 inclus :
+D-Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et
+le 2 juillet 1962 inclus :
 
 a) En Tunisie, à compter du 1er janvier 1952 ;
 
@@ -173,8 +173,8 @@ b) Au Maroc, à compter du 1er juin 1953 ;
 
 c) En Algérie, à compter du 31 octobre 1954.
 
-I. - Sont considérés comme des combattants les militaires des armées françaises
-et les membres des forces supplétives françaises :
+I.-Sont considérés comme des combattants les militaires des armées françaises et
+les membres des forces supplétives françaises :
 
 1° Qui ont appartenu pendant trois mois, consécutifs ou non, à une unité
 combattante ou à une formation entrant dans l'une des catégories énumérées par
@@ -205,8 +205,8 @@ séjour dans cette unité ou formation ;
 6° Qui ont été détenus par l'adversaire et privés de la protection des
 conventions de Genève.
 
-II. - Les listes des unités combattantes des armées de terre, de mer et de
-l'air, de la gendarmerie et des services communs et des formations des forces
+II.-Les listes des unités combattantes des armées de terre, de mer et de l'air,
+de la gendarmerie et des services communs et des formations des forces
 supplétives françaises assimilées sont établies par le ministre de la défense
 sur les bases suivantes :
 
@@ -222,12 +222,12 @@ peuvent être accordées. La liste de ces opérations et bonifications est fixé
 par un arrêté conjoint du ministre de la défense et du secrétaire d'Etat aux
 anciens combattants, après avis d'une commission créée à cet effet.
 
-E. - Pour les autres opérations ou missions, définies à l'article L. 253 ter du
+E.-Pour les autres opérations ou missions, définies à l'article L. 253 ter du
 présent code.
 
-I. - Sont considérés comme combattants les militaires des forces armées
-françaises ainsi que les personnes civiles possédant la nationalité française à
-la date de leur demande qui :
+I.-Sont considérés comme combattants les militaires des forces armées françaises
+ainsi que les personnes civiles possédant la nationalité française à la date de
+leur demande qui :
 
 1° Soit ont appartenu pendant trois mois, consécutifs ou non, à une unité
 combattante ; pour le calcul de la durée d'appartenance, les services accomplis
@@ -256,10 +256,9 @@ aucune condition de durée de captivité n'est opposable aux personnes détenues
 par l'adversaire et qui auraient été privées de la protection des Conventions de
 Genève.
 
-II. - Les listes des unités combattantes des armées de terre, de mer et de
-l'air, de la gendarmerie, des services communs et des personnes civiles
-assimilées sont établies par arrêté du ministre chargé de la défense sur les
-bases suivantes :
+II.-Les listes des unités combattantes des armées de terre, de mer et de l'air,
+de la gendarmerie, des services communs et des personnes civiles assimilées sont
+établies par arrêté du ministre chargé de la défense sur les bases suivantes :
 
 Sont classées, pour une durée d'un mois, comme unités combattantes, les unités
 ayant connu au moins trois actions de feu ou de combat distinctes au cours d'une
@@ -268,7 +267,7 @@ période de trente jours consécutifs.
 Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de
 cette unité.
 
-III. - Des arrêtés conjoints des ministres chargés de la défense, du budget et
-des anciens combattants fixent la liste des opérations ou missions mentionnées
-au E ci-dessus, déterminent les périodes à prendre en compte et définissent les
+III.-Des arrêtés conjoints des ministres chargés de la défense, du budget et des
+anciens combattants fixent la liste des opérations ou missions mentionnées au E
+ci-dessus, déterminent les périodes à prendre en compte et définissent les
 bonifications à accorder.

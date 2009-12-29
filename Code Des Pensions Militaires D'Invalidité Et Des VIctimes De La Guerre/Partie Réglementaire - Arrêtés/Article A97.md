@@ -13,5 +13,5 @@ de l'intéressé si celui-ci ne peut pas être transporté.
 
 Sur le vu des pièces et, s'il y a lieu, après enquête complémentaire, le
 médecin-chef du centre de réforme donne son avis et fait des propositions qui
-sont transmises au fonctionnaire délégataire du ministre des anciens combattants
-et victimes de guerre.
+sont transmises au fonctionnaire délégataire du ministre chargé des anciens
+combattants et victimes de guerre.

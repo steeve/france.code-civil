@@ -7,7 +7,7 @@ l'ennemi :
 
 a) Soit abandonné leur résidence habituelle pour ne pas répondre à un ordre
 effectif de mobilisation dans les formations militaires ou paramilitaires
-allemandes dont la liste est établie par arrêté du ministre des anciens
+allemandes dont la liste est établie par arrêté du ministre chargé des anciens
 combattants et victimes de guerre dont les dispositions font l'objet des
 articles A. 166 et A. 167 ;
 

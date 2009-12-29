@@ -1,7 +1,7 @@
 Article R280
 ----
 Toute demande d'attribution du titre de combattant volontaire de la Résistance
-ou toute proposition formulée par le ministre des anciens combattants et
+ou toute proposition formulée par le ministre chargé des anciens combattants et
 victimes de guerre, en application de l'article R. 269, doit être adressée dans
 le délai de trois ans à compter de la publication du décret n° 51-560 du 5 mai
 1951 à l'Office national des anciens combattants et victimes de guerre.

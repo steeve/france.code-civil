@@ -6,7 +6,6 @@ guerre 1914-1918.
 
 Il doit être établi que les intéressés ont été déportés ou internés pour acte
 qualifié de résistance à l'ennemi, dans les camps ou prisons dont la liste est
-fixée par arrêté du ministre des anciens combattants et victimes de guerre,
-après avis de la commission nationale constituée dans les conditions prévues aux
-articles R. 306 à R. 308 et dont les dispositions font l'objet de l'article A.
-160 (1°).
+fixée par arrêté du ministre chargé des anciens combattants et victimes de
+guerre, après avis de la commission nationale mentionnée à l'article R. 388-7 et
+dont les dispositions font l'objet de l'article A. 160 (1°).

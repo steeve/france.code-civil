@@ -7,5 +7,5 @@ arrivée.
 
 Faute pour le candidat de s'être présenté dans le délai de deux mois susvisé, il
 est réputé avoir renoncé au bénéfice de son admission, sauf s'il justifie de son
-empêchement qui est soumis à l'appréciation du ministre des anciens combattants
-et victimes de guerre.
+empêchement qui est soumis à l'appréciation du ministre chargé des anciens
+combattants et victimes de guerre.

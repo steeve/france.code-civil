@@ -1,9 +1,9 @@
 Article A219
 ----
-Il peut être institué, à titre temporaire, par arrêté du ministre des anciens
-combattants et victimes de guerre auprès de chaque zone d'exhumation dépendant
-du ministre des anciens combattants et victimes de guerre, une régie d'avances
-pour le payement des dépenses suivantes :
+Il peut être institué, à titre temporaire, par arrêté du ministre chargé des
+anciens combattants et victimes de guerre auprès de chaque zone d'exhumation
+dépendant du ministre chargé des anciens combattants et victimes de guerre, une
+régie d'avances pour le payement des dépenses suivantes :
 
 1° Salaires des personnels auxiliaires et ouvriers employés aux opérations
 d'exhumation, de transfert et d'expédition des corps ;

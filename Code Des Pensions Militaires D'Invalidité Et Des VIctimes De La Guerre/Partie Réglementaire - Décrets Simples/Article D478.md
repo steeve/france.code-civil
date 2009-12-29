@@ -13,9 +13,9 @@ et n'avoir pour but statutaire que la représentation et la défense des intér�
 matériels et moraux des anciens combattants et victimes de guerre.
 
 Pour être admises à participer aux propositions, les associations doivent
-justifier, respectivement auprès du ministre des anciens combattants et victimes
-de guerre et auprès du préfet, de la durée de leur existence, de l'importance de
-leurs effectifs, ainsi que de leur activité.
+justifier, respectivement auprès du ministre chargé des anciens combattants et
+victimes de guerre et auprès du préfet, de la durée de leur existence, de
+l'importance de leurs effectifs, ainsi que de leur activité.
 
 Ces justifications devront être fournies trois mois au moins avant la date
 prévue pour le renouvellement des conseils d'administration.

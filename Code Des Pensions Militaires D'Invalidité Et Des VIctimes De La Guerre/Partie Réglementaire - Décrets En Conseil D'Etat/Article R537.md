@@ -12,6 +12,6 @@ justifier :
 ainsi qu'aux instructions émanant de l'office national.
 
 Les associations, groupements ou établissements privés, gardiens de pupille,
-placés sous la tutelle ou confiés à la garde de l'office départemental doivent,
+placés sous la tutelle ou confiés à la garde du service départemental doivent,
 en outre, justifier qu'ils se soumettent aux prescriptions de la section 2
 relatives aux conditions requises pour recevoir des pupilles.

@@ -1,8 +1,9 @@
 Article R363
 ----
 Sans préjudice des dispositions du présent chapitre qui prévoient que l'avis de
-la commission nationale doit être obligatoirement recueilli par le ministre des
-anciens combattants et victimes de guerre, cet avis est également exigé :
+la commission nationale doit être obligatoirement recueilli par le ministre
+chargé des anciens combattants et victimes de guerre, cet avis est également
+exigé :
 
 1° Si, en cas de décision de rejet, une réclamation a été formulée par
 l'intéressé dans le délai de deux mois suivant la notification de la décision ;

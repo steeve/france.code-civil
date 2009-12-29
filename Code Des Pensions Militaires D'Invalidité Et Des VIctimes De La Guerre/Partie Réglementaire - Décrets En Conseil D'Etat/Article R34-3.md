@@ -7,16 +7,17 @@ qui ne peuvent se présenter au dispensaire, par le médecin désigné par le
 préfet, après avis du conseil départemental de l'environnement et des risques
 sanitaires et technologiques, pour assurer leur surveillance.
 
-Le dossier ou son double est transmis au centre de réforme qui doit recueillir
-l'avis de trois médecins phtisiologues accrédités auprès de lui et désignés par
-le ministre de la santé publique et de la population sur la proposition du
-conseil supérieur d'hygiène sociale. Au cas où le nombre de ces médecins est
-inférieur à trois, l'avis est donné par le ou par les deux médecins accrédités.
+Le service désigné par le ministre chargé des anciens combattants recueille
+l'avis de trois médecins phtisiologues ou pneumologues accrédités auprès de lui
+et désignés par le ministre de la santé. Au cas où le nombre de ces médecins est
+inférieur à trois, l'avis est donné par le ou les deux médecins accrédités.
 
-Lorsque les médecins phtisiologues accrédités le jugent utile, le centre de
-réforme convoque l'intéressé et peut prescrire sa mise en observation dans un
-hôpital. Lorsque l'instruction est terminée, le dossier est transmis au ministre
-des anciens combattants et victimes de guerre.
+Lorsque les médecins pneumologues accrédités le jugent utile, le service désigné
+par le ministre chargé des anciens combattants et victimes de guerre peut
+prescrire la mise en observation de l'intéressé dans un établissement de santé.
+Lorsque l'instruction est terminée, ce service transmet le dossier au service
+compétent relevant du ministre chargé du budget qui procède à la liquidation et
+à la concession de la pension.
 
 Dans le cas où l'intéressé est considéré comme guéri au sens de l'article D. 9,
 les médecins phtisiologues déterminent le pourcentage correspondant à

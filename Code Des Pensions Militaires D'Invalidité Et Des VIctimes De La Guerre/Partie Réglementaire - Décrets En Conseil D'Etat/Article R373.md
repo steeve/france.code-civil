@@ -1,22 +1,11 @@
 Article R373
 ----
-La qualité de bénéficiaire du chapitre V du titre II du livre III (première
-partie : Législative) est reconnue, sur demande, par le ministre chargé des
-anciens combattants et des victimes de guerre, qui peut déléguer ses pouvoirs
-aux préfets.
+Le titre de personne contrainte au travail est attribué sur demande par décision
+du directeur général de l'Office national des anciens combattants et victimes de
+guerre, après avis de la commission mentionnée à l'article R. 388-7. Dans les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le titre est attribué
+selon les dispositions de l'article R. 577.
 
-La demande de carte est obligatoirement soumise à l'avis du conseil
-départemental pour les anciens combattants et victimes de guerre et la mémoire
-de la Nation.
-
-L'avis d'une commission nationale dont la composition est prévue à l'article R.
-374 doit, en outre, être obligatoirement recueilli par le ministre chargé des
-anciens combattants et des victimes de guerre :
-
-1° Si, en cas de décision de rejet, un recours a été formulé devant le ministre
-par l'intéressé dans le délai de deux mois suivant la notification de cette
-décision ;
-
-2° Si le dossier examiné concerne un Alsacien ou un Mosellan domicilié à
-l'époque hors du Bas-Rhin, du Haut-Rhin ou de la Moselle et qui a été contraint
-au travail dans ces trois départements.
+Il est délivré au bénéficiaire, ou à défaut à son ayant cause, une carte dont
+les caractéristiques sont fixées par arrêté du ministre chargé des anciens
+combattants et des victimes de guerre.

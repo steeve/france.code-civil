@@ -3,7 +3,7 @@ Article A328
 Les candidats pensionnaires, en adressant leur demande et leur dossier au
 général commandant l'institution nationale des invalides, doivent informer
 celui-ci de leur intention d'être hébergés en attendant la décision du ministre
-des anciens combattants et victimes de guerre.
+chargé des anciens combattants et victimes de guerre.
 
 Ils ne peuvent se rendre à l'institution qu'après qu'ils ont été acceptés par le
 général commandant.

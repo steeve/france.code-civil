@@ -5,8 +5,8 @@ titre de régisseurs et à charge de rapporter dans le délai d'un mois à l'age
 comptable, les acquits des créanciers réels et les pièces justificatives, de
 payer au moyen d'avances mises à leur disposition les salaires des ouvriers, les
 secours et allocations diverses ainsi que les menues dépenses de l'office. Le
-montant de ces avances est fixé par arrêté du ministre des anciens combattants
-et victimes de guerre et du ministre de l'économie et des finances.
+montant de ces avances est fixé par arrêté du ministre chargé des anciens
+combattants et victimes de guerre et du ministre de l'économie et des finances.
 
 Le directeur général pourvoit au remplacement des régisseurs qui, soit par
 convenance personnelle, soit pour tout autre motif, ne sauraient continuer leur

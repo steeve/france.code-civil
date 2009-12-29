@@ -6,6 +6,6 @@ fois qu'elle le juge utile et au moins une fois par an, au contrôle des
 fonctionnaire spécialement désigné à cet effet.
 
 Exceptionnellement, cette inspection peut, en outre, pour les établissements à
-caractère national être décidée par l'office départemental dans le ressort
+caractère national être décidée par le service départemental dans le ressort
 duquel ils sont situés. Il en est immédiatement rendu compte à l'office
 national.

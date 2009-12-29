@@ -5,7 +5,7 @@ administrations publiques, soit dans les entreprises industrielles ou
 commerciales bénéficiaires d'une concession, d'un monopole ou d'une subvention
 de l'Etat, figure dans les tableaux annexés au présent chapitre. Cette
 nomenclature peut être modifiée ou complétée par décrets contresignés par le
-ministre des anciens combattants et victimes de guerre, le ministre de
+ministre chargé des anciens combattants et victimes de guerre, le ministre de
 l'économie et des finances et le ministre chargé de la fonction publique et de
 la réforme administrative.
 

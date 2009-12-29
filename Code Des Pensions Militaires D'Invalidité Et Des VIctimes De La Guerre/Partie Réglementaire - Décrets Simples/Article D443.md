@@ -1,7 +1,7 @@
 Article D443
 ----
 Le directeur général de l'office national est nommé par décret sur proposition
-du ministre des anciens combattants et victimes de guerre.
+du ministre chargé des anciens combattants et victimes de guerre.
 
 Il est chargé d'assurer le fonctionnement des services et représente l'office en
 justice et dans tous les actes de la vie civile.

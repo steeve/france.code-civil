@@ -8,6 +8,6 @@ maladie contagieuse. Leur séjour ne peut excéder, en principe, une durée de h
 jours, renouvelable s'il y a lieu.
 
 Les conditions dans lesquelles fonctionne cet hébergement sont fixées par un
-arrêté du ministre des anciens combattants et victimes de guerre, pris après
-avis du général commandant l'institution nationale des invalides, dont les
+arrêté du ministre chargé des anciens combattants et victimes de guerre, pris
+après avis du général commandant l'institution nationale des invalides, dont les
 dispositions font l'objet des articles A. 325 à A. 329.

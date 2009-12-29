@@ -15,12 +15,12 @@ Les délibérations et observations de l'office départemental sur les comptes
 administratifs présentés à son examen sont communiquées à l'office national.
 
 Le compte administratif de l'office d'outre-mer ou du comité local est approuvé
-par le ministre des anciens combattants et victimes de guerre, après avis du
-comité d'administration de l'office national.
+par le ministre chargé des anciens combattants et victimes de guerre, après avis
+du comité d'administration de l'office national.
 
 Le compte provisoirement arrêté par les offices départementaux intéressés est
 envoyé à l'office national accompagné d'un rapport administratif et est approuvé
-par le ministre des anciens combattants et victimes de guerre.
+par le ministre chargé des anciens combattants et victimes de guerre.
 
 Le compte de l'agent comptable de l'office d'outre-mer ou du comité local doit
 être déposé au greffe de la Cour des comptes dans le courant du mois de novembre

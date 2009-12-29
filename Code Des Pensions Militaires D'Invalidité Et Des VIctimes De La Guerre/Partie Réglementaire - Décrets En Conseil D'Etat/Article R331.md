@@ -2,7 +2,7 @@ Article R331
 ----
 Les personnes arrêtées en Indochine qui ont été incarcérées ou internées dans
 les prisons ou camps de concentration figurant sur la liste établie par arrêté
-conjoint du ministre des anciens combattants et victimes de guerre et du
+conjoint du ministre chargé des anciens combattants et victimes de guerre et du
 ministre chargé de la France d'outre-mer en application de l'article R. 292,
 peuvent prétendre, selon la distinction établie entre les divers camps de
 concentration et prisons par ledit arrêté, et dans les conditions fixées aux

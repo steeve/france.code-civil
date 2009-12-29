@@ -2,8 +2,8 @@ Article A301
 ----
 Trois mois après l'arrivée d'un pensionnaire admis provisoirement, le général
 commandant réunit le conseil administratif qui décide à la majorité, s'il y a
-lieu, de proposer au ministre des anciens combattants et victimes de guerre
-l'admission définitive.
+lieu, de proposer au ministre chargé des anciens combattants et victimes de
+guerre l'admission définitive.
 
 La décision du ministre est notifiée à l'intéressé par le général commandant.
 

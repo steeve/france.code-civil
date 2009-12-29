@@ -13,5 +13,5 @@ autorisé par le conseil de famille à présenter cette demande.
 Le requérant peut faire élection de domicile soit au siège de l'office des
 anciens combattants et victimes de guerre du département où est situé le
 tribunal compétent, soit au siège d'un établissement reconnu d'utilité publique
-désigné à cet effet par le ministre des anciens combattants et victimes de
-guerre.
+désigné à cet effet par le ministre chargé des anciens combattants et victimes
+de guerre.

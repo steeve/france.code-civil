@@ -2,8 +2,8 @@ Article A49
 ----
 La Commission nationale consultative d'agrément comprend :
 
-Un représentant du ministre des anciens combattants et victimes de guerre,
-président ;
+Un représentant du ministre chargé des anciens combattants et victimes de
+guerre, président ;
 
 Un représentant du ministre de l'agriculture ;
 
@@ -27,8 +27,8 @@ Un médecin chef de centre d'appareillage ;
 
 Un expert vérificateur de centre d'appareillage ;
 
-Un chirurgien qualifié en matière d'appareillage, désigné par le ministre des
-anciens combattants et victimes de guerre ;
+Un chirurgien qualifié en matière d'appareillage, désigné par le ministre chargé
+des anciens combattants et victimes de guerre ;
 
 Deux médecins qualifiés en matière d'appareillage désignés :
 
@@ -44,8 +44,8 @@ Des membres suppléants peuvent être désignés.
 
 Lorsque la commission a à saisir de questions concernant l'acoustique, le
 chirurgien qualifié en matière d'appareillage est remplacé par un médecin
-audiologiste, désigné par le ministre des anciens combattants et des victimes de
-guerre, et les trois représentants des fournisseurs visés ci-dessus sont
+audiologiste, désigné par le ministre chargé des anciens combattants et victimes
+de guerre, et les trois représentants des fournisseurs visés ci-dessus sont
 remplacés par deux représentants des acousticiens ; en outre, un représentant du
 Conservatoire national des Arts et Métiers et un représentant du Centre national
 des télécommunications sont adjoints, avec voix délibérative, à la commission.

@@ -29,11 +29,12 @@ donné lieu à des témoignages non validés par un liquidateur national de
 mouvement ou de réseau, les dossiers sont obligatoirement envoyés à l'Office
 national des anciens combattants et victimes de guerre, même si l'avis de la
 commission départementale a été rendu à l'unanimité. Ces dossiers sont ensuite
-soumis à la décision du ministre des anciens combattants, après avis de la
-commission prévue à l'article A. 119, mais dont le président est alors désigné
-par le ministre des anciens combattants. En outre, il est adjoint à cette
-commission trois membres pris dans le sein de la commission instituée pour
-l'application de l'article R. 227 (1).
+soumis à la décision du ministre chargé des anciens combattants et victimes de
+guerre, après avis de la commission prévue à l'article A. 119, mais dont le
+président est alors désigné par le ministre chargé des anciens combattants et
+victimes de guerre. En outre, il est adjoint à cette commission trois membres
+pris dans le sein de la commission instituée pour l'application de l'article R.
+227 (1).
 
 Cette dernière procédure est également applicable chaque fois que les demandes
 n'ont pas fait l'objet d'un avis unanime de la commission départementale (1).

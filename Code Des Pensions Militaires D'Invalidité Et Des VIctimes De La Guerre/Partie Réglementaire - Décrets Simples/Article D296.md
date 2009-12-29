@@ -1,12 +1,12 @@
 Article D296
 ----
-La médaille de la France libérée est attribuée par arrêté du ministre des
+La médaille de la France libérée est attribuée par arrêté du ministre chargé des
 anciens combattants et victimes de la guerre, pris après avis d'une commission
 siégeant au ministère des anciens combattants et victimes de guerre et
 comprenant :
 
-Le ministre des anciens combattants et victimes de guerre ou son représentant,
-président ;
+Le ministre chargé des anciens combattants et victimes de guerre ou son
+représentant, président ;
 
 Le grand chancelier de la Légion d'honneur ou son représentant ;
 
@@ -23,4 +23,4 @@ Un représentant du ministre de l'intérieur.
 
 Six représentants des associations d'anciens combattants et victimes de guerre,
 titulaires de la carte du combattant volontaire de la Résistance, désignés par
-le ministre des anciens combattants et victimes de guerre.
+le ministre chargé des anciens combattants et victimes de guerre.

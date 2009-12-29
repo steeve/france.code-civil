@@ -1,7 +1,7 @@
 Article R533
 ----
 Dans tous les cas où les bourses et exonérations sont accordées par l'Etat aux
-pupilles de la nation dans des établissements publics, les offices
+pupilles de la nation dans des établissements publics, les services
 départementaux sont autorisés à accorder aux pupilles placés par leurs familles
 dans des établissements privés l'équivalent de ces bourses et exonérations dans
 les conditions fixées par la réglementation en vigueur.
@@ -12,4 +12,4 @@ et demandent à poursuivre leurs études dans un établissement libre
 d'enseignement supérieur.
 
 En aucun autre cas, une subvention pour études ne peut être accordée par les
-offices départementaux.
+services départementaux.

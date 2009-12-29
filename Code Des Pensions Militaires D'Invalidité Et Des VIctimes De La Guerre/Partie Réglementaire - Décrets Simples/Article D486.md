@@ -22,16 +22,16 @@ d'entreprises ;
 
 9° Les transactions ;
 
-10° Toutes les questions qui lui sont soumises par le ministre des anciens
-combattants et victimes de guerre ou le ministre chargé de la France d'outre-mer
-et par l'office national ou par son président, la commission permanente, le
-secrétaire général ou le secrétaire administratif.
+10° Toutes les questions qui lui sont soumises par le ministre chargé des
+anciens combattants et victimes de guerre ou le ministre chargé de la France
+d'outre-mer et par l'office national ou par son président, la commission
+permanente, le secrétaire général ou le secrétaire administratif.
 
 Les délibérations prévues aux numéros 1°, 2°, 3°, 5° et 6° pour les offices
 départementaux et 1°, 2°, 3° et 6° pour les offices d'outre-mer ne sont
-exécutoires qu'après avis de l'office national et approbation du ministre des
-anciens combattants et victimes de guerre, sauf en ce qui concerne les marchés
-de fournitures et travaux passés pour les besoins courants des offices
+exécutoires qu'après avis de l'office national et approbation du ministre chargé
+des anciens combattants et victimes de guerre, sauf en ce qui concerne les
+marchés de fournitures et travaux passés pour les besoins courants des offices
 départementaux, dans la limite des crédits budgétaires.
 
 Les délibérations du conseil d'administration des offices d'outre-mer relatives

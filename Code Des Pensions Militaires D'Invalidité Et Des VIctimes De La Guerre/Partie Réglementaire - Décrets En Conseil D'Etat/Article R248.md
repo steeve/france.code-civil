@@ -6,8 +6,8 @@ que la possession de ladite carte. Leur demande est présentée et instruite
 conformément aux dispositions des articles R. 236 à R. 245.
 
 Les autres postulants doivent produire une demande dont le modèle est déterminé
-par une instruction du ministre des anciens combattants et victimes de guerre et
-qui indique, notamment, le numéro de leur carte du combattant.
+par une instruction du ministre chargé des anciens combattants et victimes de
+guerre et qui indique, notamment, le numéro de leur carte du combattant.
 
 A cette demande ils joignent :
 

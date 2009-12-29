@@ -4,9 +4,8 @@ Toute personne qui veut obtenir l'attribution du titre de combattant volontaire
 de la Résistance doit adresser sa demande dans le délai fixé à l'article L. 269
 :
 
-1° Si elle réside en France, au préfet, président de l'office départemental des
-anciens combattants et victimes de guerre dans la circonscription duquel se
-trouve cette résidence ;
+1° Si elle réside en France, au service départemental des anciens combattants et
+victimes de guerre dans la circonscription duquel se trouve cette résidence ;
 
 2° Si elle réside dans un département ou un territoire d'outre-mer ou un autre
 pays de l'Union française, à l'office national des anciens combattants et

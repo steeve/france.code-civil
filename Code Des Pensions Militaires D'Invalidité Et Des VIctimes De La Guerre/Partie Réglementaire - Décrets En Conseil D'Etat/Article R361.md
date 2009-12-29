@@ -11,7 +11,7 @@ services, a quitté le travail après avoir reçu un ordre de réquisition ou
 indiquant que les services français ou allemands ont prélevé, dans son
 entreprise, un certain nombre de travailleurs en vue d'un départ pour
 l'Allemagne, ou pour un territoire occupé ou annexé par les Allemands, et que
-l'intéressé figurait parmi eux. A défaut, il est produit un certificat du maire
+l'intéressé figurait parmi eux.A défaut, il est produit un certificat du maire
 de la commune mentionnant ces renseignements.
 
 Ces pièces n'auront pas à être fournies si elles l'ont été en vue de l'obtention
@@ -33,8 +33,8 @@ Les pièces visées au 1° (a) du présent article ;
 
 Ces pièces n'auront pas à être produites si elles l'ont été en vue de
 l'obtention d'un certificat modèle A ou M, délivré antérieurement par le
-ministre des anciens combattants et victimes de guerre. Dans ce cas, la copie
-certifiée conforme dudit certificat est versée au dossier ;
+ministre chargé des anciens combattants et victimes de guerre. Dans ce cas, la
+copie certifiée conforme dudit certificat est versée au dossier ;
 
 Deux témoignages circonstanciés attestant sur l'honneur la matérialité de
 l'évasion et un récit de l'évasion par le requérant lui-même ;

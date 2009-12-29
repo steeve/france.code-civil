@@ -8,6 +8,6 @@ d'administration, de la commission permanente et des sous-commissions ou à
 l'occasion de missions spéciales.
 
 Ces frais sont décomptés suivant les tarifs fixés par arrêté conjoint du
-ministre des anciens combattants et victimes de guerre et du ministre de
+ministre chargé des anciens combattants et victimes de guerre et du ministre de
 l'économie et des finances ou par arrêté du gouverneur général ou du chef du
 territoire.

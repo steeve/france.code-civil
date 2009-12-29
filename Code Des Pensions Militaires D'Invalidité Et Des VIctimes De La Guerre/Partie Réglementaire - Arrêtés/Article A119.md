@@ -21,7 +21,8 @@ armées.
 
 La commission est composée comme suit :
 
-Un représentant du ministre des anciens combattants et victimes de guerre ;
+Un représentant du ministre chargé des anciens combattants et victimes de guerre
+;
 
 Le directeur de l'office national des anciens combattants et victimes de guerre
 ou son représentant ;
@@ -35,7 +36,7 @@ Trois représentants des FFI ;
 
 Trois représentants de la RIF,
 
-et un représentant du MNP. G.D. (mouvement national des prisonniers de guerre et
+et un représentant du MNP.G.D. (mouvement national des prisonniers de guerre et
 déportés).
 
 Les représentants des FFC, FFI, RIF sont désignés par décision
@@ -50,8 +51,8 @@ Un représentant du ministère chargé de la France d'outre-mer ;
 Trois représentants de la Résistance extra-métropolitaine (dont un pour
 l'Indochine, un pour la Tunisie, un pour les autres territoires).
 
-Ces représentants sont désignés par le ministre des anciens combattants et
-victimes de guerre en accord avec les ministres intéressés.
+Ces représentants sont désignés par le ministre chargé des anciens combattants
+et victimes de guerre en accord avec les ministres intéressés.
 
 Le secrétariat de la commission est assuré par un fonctionnaire de l'Office
 national des anciens combattants et victimes de guerre.

@@ -5,5 +5,5 @@ conservent la charge du pupille et qu'ils ne disposent pas de revenus suffisants
 pour assurer l'entretien matériel et l'éducation nécessaires à son développement
 moral.
 
-Ils sont tenus de déclarer à l'office départemental les secours qu'ils reçoivent
+Ils sont tenus de déclarer au service départemental les secours qu'ils reçoivent
 d'autre part dans l'intérêt des pupilles.
