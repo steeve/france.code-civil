@@ -1,19 +1,17 @@
 Article D232
 ----
-Les jeunes Français, atteints d'infirmités contractées ou aggravées par le fait
-ou à l'occasion du service pendant l'accomplissement de leur stage obligatoire
-dans les chantiers de la jeunesse peuvent, s'ils n'ont pas été proposés
-d'office, faire valoir leurs droits à pension d'invalidité dans les conditions
-ci-dessous définies :
+Les personnes atteintes d'infirmités contractées ou aggravées par le fait ou à
+l'occasion du service pendant l'accomplissement de leur stage obligatoire dans
+les chantiers de la jeunesse peuvent, s'ils n'ont pas été proposé d'office,
+faire valoir leurs droits à pension d'invalidité dans les conditions définies
+ci-après.
 
-a) Les jeunes des chantiers de la jeunesse font parvenir au médecin chef du
-centre de réforme de leur résidence, sous pli recommandé, une demande
-accompagnée des pièces justificatives en leur possession ainsi qu'un certificat
-médical attestant la réalité de l'infirmité invoquée ;
-
-b) Les jeunes des chantiers de la jeunesse de la marine résidant dans un
-département comprenant un port militaire, adressent leur dossier au médecin chef
-du centre de réforme de la région maritime.
+Les personnes visées au premier alinéa adressent leur demande à la direction des
+ressources humaines du ministère de la défense. Après avoir procédé à
+l'instruction du dossier dans les conditions prévues aux articles R. 8 et
+suivants, ce service transmet le dossier au service compétent relevant du
+ministre chargé du budget qui procède à la liquidation et à la concession de la
+pension.
 
 S'ils ne résident pas dans un département comprenant un port militaire, ils
 adressent leur dossier au médecin chef du centre de réforme de leur résidence,

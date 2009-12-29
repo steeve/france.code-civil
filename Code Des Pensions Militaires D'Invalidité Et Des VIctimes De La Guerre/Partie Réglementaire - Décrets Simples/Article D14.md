@@ -23,6 +23,7 @@ constate que le pensionné ne remplit plus les conditions posées par l'article 
 comme il est précisé à l'alinéa précédent.
 
 Suivant l'avis du médecin phtisiologue départemental et compte tenu des
-prescriptions incluses dans l'instruction générale d'application, le directeur
-interdépartemental ou départemental des anciens combattants et victimes de
-guerre prend une décision de maintien ou de suppression de l'indemnité.
+prescriptions incluses dans l'instruction générale d'application, le service ou
+organisme désigné par le ministre chargé des anciens combattants et victimes de
+guerre des anciens combattants et victimes de guerre prend une décision de
+maintien ou de suppression de l'indemnité.

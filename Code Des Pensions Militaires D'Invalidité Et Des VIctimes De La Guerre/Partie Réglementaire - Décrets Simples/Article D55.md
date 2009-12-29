@@ -1,14 +1,14 @@
 Article D55
 ----
-L'inscription sur la liste suit le sort de la pension.
+Tout bénéficiaire de l'article L. 115 reçoit une attestation de droit aux soins
+médicaux gratuits qui lui est transmise par le service mentionné à l'article D.
+53.
 
-En cas de décision ministérielle comportant le rejet du droit à pension, le
-directeur interdépartemental fait procéder à la radiation de l'intéressé sur la
-liste spéciale et au retrait du carnet de soins.
+Il est seul habilité à en faire usage.
 
-Les décisions de refus d'inscription ou de radiation doivent être notifiées aux
-intéressés par le directeur interdépartemental sous pli recommandé avec accusé
-de réception.
+En cas de pension temporaire, la date limite de validité du droit aux soins
+médicaux gratuits est mentionnée sur l'attestation de droit.
 
-En cas de refus d'inscription l'intéressé peut se pourvoir devant la commission
-contentieuse des soins gratuits dans les conditions prévues à l'article D. 106.
+Les pensionnés, ainsi que les professionnels et établissements de santé, sont
+tenus de se conformer aux dispositions mentionnées sur cette attestation de
+droit.

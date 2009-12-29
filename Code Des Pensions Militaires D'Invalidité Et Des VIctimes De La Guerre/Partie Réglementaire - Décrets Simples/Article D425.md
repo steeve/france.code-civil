@@ -1,6 +1,5 @@
 Article D425
 ----
-La garde et l'entretien des cimetières militaires nationaux sont assurés par des
-auxiliaires de service, gardiens et gardiens chefs.
-
-Ces agents sont recrutés par le directeur de l'administration générale.
+L'entretien des cimetières militaires nationaux est assuré par des agents
+relevant de l'Office national des anciens combattants. Il peut également être
+confié par ce dernier à des entreprises du secteur privé.

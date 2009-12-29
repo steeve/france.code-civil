@@ -9,5 +9,6 @@ Lorsque les motifs qui ont provoqué la suppression de l'indemnité ont cessé
 d'exister, le pensionné peut en obtenir le rétablissement dans la forme
 prescrite pour la première demande par l'article D. 11 sans préjudice des cas où
 la constatation que les conditions posées à l'article D. 9 sont à nouveau
-remplies relève directement du directeur interdépartemental ou départemental et
-ne nécessite pas d'examen médical nouveau.
+remplies relève directement de la décision du service ou de l'organisme désigné
+par le ministre chargé des anciens combattants et victimes de guerre et ne
+nécessite pas d'examen médical nouveau.

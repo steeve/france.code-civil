@@ -1,15 +1,8 @@
 Article D72
 ----
-Le directeur de l'établissement public ou privé qui reçoit un pensionné au titre
-des soins gratuits doit, dans les six jours qui suivent l'admission, et dans
-tous les cas, en aviser le médecin contrôleur des soins gratuits de la direction
-interdépartementale dont relève l'établissement par l'envoi d'un bulletin
-extrait du carnet de soins de l'intéressé.
-
-Ce bulletin, qui lui aura été remis sous pli confidentiel par le médecin chef de
-service, doit indiquer la date d'entrée et le diagnostic exact de l'affection
-nécessitant l'hospitalisation tel qu'il résulte des premières investigations
-pratiquées dans l'établissement.
-
-Le directeur de l'établissement doit également, dans les quarante-huit heures,
-aviser le médecin contrôleur des soins gratuits de la sortie du pensionné.
+Les conditions dans lesquelles sont réglés les frais de déplacement avancés par
+les pensionnés, les avances faites aux pensionnés pour leurs frais de
+déplacement et les frais de transport des corps des pensionnés décédés dans un
+établissement hospitalier au titre de l'article L. 115 sont déterminés par des
+arrêtés conjoints du ministre chargé des anciens combattants et victimes de
+guerre et du ministre chargé du budget.

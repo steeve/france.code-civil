@@ -1,11 +1,11 @@
 Article D11
 ----
 Lorsqu'un pensionné à 100 % pour tuberculose demande à bénéficier de l'indemnité
-prévue à l'article L. 41, il appartient au service interdépartemental ou
-départemental du ministère des anciens combattants et victimes de la guerre
-habilité à recevoir la demande de constituer le dossier et de le transmettre à
-l'organisme antituberculeux ou au médecin chargé de la surveillance, aux fins
-d'instruction de la requête du point de vue médical.
+prévue à l'article L. 41, il appartient au service ou organisme désigné par le
+ministre chargé des anciens combattants et victimes de guerre de constituer le
+dossier et de le transmettre à l'organisme antituberculeux ou au médecin chargé
+de la surveillance, aux fins d'instruction de la requête du point de vue
+médical.
 
 L'organisme antituberculeux transmet le dossier auquel il annexe ses
 observations et conclusions, au médecin phtisiologue départemental qui émet son
@@ -13,12 +13,11 @@ avis sur les droits à indemnité après avoir s'il le juge utile prescrit la mi
 en observation du pensionné dans un service hospitalier qualifié au titre de
 l'article L. 117.
 
-Lorsque l'instruction médicale est achevée, le dossier est adressé au directeur
-interdépartemental ou départemental des anciens combattants et victimes de la
-guerre qui, en vertu de la délégation qu'il a reçue du ministre des anciens
-combattants et victimes de guerre, prend une décision accordant ou refusant
-l'attribution de l'indemnité suivant l'avis du médecin phtisiologue
-départemental.
+Lorsque l'instruction médicale est achevée, le dossier est adressé au service ou
+organisme désigné par le ministre chargé des anciens combattants et victimes de
+guerre. Celui-ci transmet le dossier d'indemnité de soins au service compétent
+relevant du ministre chargé du budget qui procède à la liquidation et à la
+concession de celle-ci.
 
 Les décisions visées ci-dessus sont susceptibles des voies de recours prévues
 par l'article L. 79.

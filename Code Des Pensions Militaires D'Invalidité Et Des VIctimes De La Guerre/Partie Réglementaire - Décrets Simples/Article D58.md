@@ -1,24 +1,20 @@
 Article D58
 ----
-Les pensionnés bénéficiaires de l'article L. 115 non hospitalisés ont le libre
-choix du médecin, du pharmacien, du chirurgien-dentiste et de l'auxiliaire
-médical parmi ceux agréés.
+Préalablement à l'exécution de certains actes ou traitements, le praticien en
+charge des soins à donner à un bénéficiaire de l'article L. 115, au titre de
+l'affection pour laquelle il est pensionné, doit demander leur prise en charge
+sous pli confidentiel adressé au médecin chargé du contrôle des soins gratuits.
 
-Par dérogation au principe du libre choix énoncé à l'alinéa qui précède, un
-praticien, bénéficiaire de l'article L. 115, ne peut demander le règlement de
-soins concernant sa propre personne ni se prescrire à lui-même des médicaments
-dans le cadre de l'article L. 115.
+Ces actes ou traitements sont ceux figurant à la classification commune des
+actes médicaux, à la nomenclature générale des actes professionnels des
+médecins, chirurgiens-dentistes, sages-femmes et auxiliaires médicaux ou à la
+nomenclature des actes de biologie médicale et qui sont soumis en matière de
+sécurité sociale à la formalité de l'entente préalable.
 
-Sont réputés agréés, sauf décision contraire du ministre des anciens combattants
-et victimes de guerre et du ministre chargé de la santé publique, prononçant le
-retrait d'agrément, les médecins, pharmaciens, chirurgiens-dentistes,
-auxiliaires médicaux légalement autorisés à exercer leur profession.
+En cas d'urgence, cette demande de prise en charge doit être adressée le plus
+tôt possible, et au plus tard dans les quarante-huit heures qui suivent le jour
+où l'acte a été effectué ou, pour les actes de série, le jour de la première
+séance.
 
-Cet agrément ne fait pas obstacle à l'application éventuelle aux intéressés des
-mesures d'exclusion du droit de donner des soins aux pensionnés décidées par les
-commissions de soins gratuits.
-
-Les bénéficiaires de l'article L. 115 ne peuvent faire appel aux auxiliaires
-médicaux que sur prescription médicale et pour l'exécution des actes figurant à
-la nomenclature des actes professionnels en vigueur en matière de sécurité
-sociale.
+Les demandes de prise en charge concernant ces actes ou traitements doivent
+préciser la nature exacte de l'affection nécessitant les soins.

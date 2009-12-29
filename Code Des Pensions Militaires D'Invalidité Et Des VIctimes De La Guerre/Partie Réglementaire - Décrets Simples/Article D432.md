@@ -69,3 +69,7 @@ nation.
 
 b) D'exercer l'action sociale nécessaire en faveur des sinistrés, réfugiés et
 spoliés, tant qu'ils demeurent détenteurs de la carte attestant leur qualité.
+
+L'office national est chargé de l'instruction des demandes d'emplois réservés
+des bénéficiaires du 1° de l'article L. 394 qui ne sont plus en activité, des 2°
+à 6° du même article et des articles L. 395 et L. 396.

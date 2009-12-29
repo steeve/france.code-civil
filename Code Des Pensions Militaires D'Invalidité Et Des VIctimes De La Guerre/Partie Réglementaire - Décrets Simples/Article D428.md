@@ -5,11 +5,11 @@ cimetières communaux peut être confié, sur leur demande, aux municipalités o
 des associations régulièrement constituées, dans les conditions prévues aux
 articles L. 498 à L. 503.
 
-Le ministre des anciens combattants et victimes de guerre fixe, par arrêté, dont
-les dispositions font l'objet de l'article A. 222, le taux des indemnités à
-allouer à chaque commune, au prorata du nombre des tombes à entretenir, dans la
-limite d'un maximum de 15,85 euros par tombe et sans excéder le taux moyen de
-0,15 euros par tombe et par an pour l'ensemble des indemnités.
+Le ministre de la défense fixe, par arrêté, dont les dispositions font l'objet
+de l'article A. 222, le taux des indemnités à allouer à chaque commune, au
+prorata du nombre des tombes à entretenir, dans la limite d'un maximum de 15, 85
+euros par tombe et sans excéder le taux moyen de 0, 15 euros par tombe et par an
+pour l'ensemble des indemnités.
 
 Les sommes dues aux communes ou aux associations bénéficiaires des conventions
 leur sont mandatées semestriellement, à terme échu, après constatation de la

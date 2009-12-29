@@ -1,17 +1,18 @@
 Article D61
 ----
-Au reçu des demandes et bulletins de visite prévus à l'article D. 60, le médecin
-contrôleur des soins gratuits propose au directeur interdépartemental, à qui
-incombe la décision, d'autoriser ou non la prise en charge au titre de l'article
-L. 115 des actes en cause. Le directeur interdépartemental notifie sa décision
-au pensionné. En cas de refus de prise en charge, la décision du directeur
-interdépartemental des anciens combattants et victimes de guerre doit être
-notifiée par pli recommandé avec accusé de réception.
+Outre la prise en charge des traitements thermaux, les pensionnés effectuant une
+cure thermale au titre de l'article L. 115 ont droit, dans des conditions
+définies par arrêté, au versement d'une indemnité forfaitaire d'hébergement et
+au remboursement de leurs frais de transport, sauf s'ils sont domiciliés dans la
+station thermale. Le montant de l'indemnité forfaitaire d'hébergement est fixé
+par arrêté conjoint du ministre chargé du budget et du ministre chargé des
+anciens combattants et victimes de guerre.
 
-Le directeur interdépartemental des anciens combattants et victimes de guerre
-peut, après contrôle, mettre fin à toute autorisation de prise en charge d'actes
-en série, par décision dûment motivée, notifiée au pensionné et à la partie
-prenante, par pli recommandé avec accusé de réception ; dans ce cas, les frais
-engagés jusqu'à la date de notification de cette décision sont mandatés au titre
-de l'article L. 115 à la partie prenante par le directeur interdépartemental des
-anciens combattants et victimes de guerre, sauf cas de fraude caractérisée.
+Les frais de transport sont pris en charge, quel que soit le moyen de transport
+utilisé, sur la base du tarif le plus économique, compte tenu des réductions
+dont les intéressés peuvent bénéficier à titre personnel. Toutefois, lorsque
+selon l'avis du médecin chargé du contrôle des soins gratuits, le pensionné n'a
+pas choisi l'établissement thermal agréé, approprié à son cas, le plus proche de
+son domicile ou de sa résidence provisoire, le remboursement des frais de
+transport est calculé par rapport au trajet qui aurait été effectué si
+l'établissement le plus proche avait été choisi.

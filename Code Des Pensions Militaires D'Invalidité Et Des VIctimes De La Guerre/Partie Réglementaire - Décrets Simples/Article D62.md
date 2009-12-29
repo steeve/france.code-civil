@@ -1,14 +1,10 @@
 Article D62
 ----
-Les hôpitaux et établissements de soins publics ou reconnus d'utilité publique
-et les établissements privés agréés sont habilités à donner des consultations et
-à dispenser des soins externes aux bénéficiaires du présent chapitre. Les tarifs
-applicables sont ceux fixés par l'agence régionale de l'hospitalisation dont
-relève l'hôpital ou l'établissement auprès duquel le pensionné a consulté ou
-reçu des soins.
-
-Les établissements publics et privés ne peuvent, en matière de consultations et
-soins externes, prétendre au règlement par le directeur interdépartemental des
-anciens combattants et victimes de guerre des soins délivrés aux bénéficiaires
-des soins gratuits que si les prescriptions des articles D. 60 et D. 61 ont été
-observées.
+Les chirurgiens-dentistes peuvent procéder, au titre des prestations mentionnées
+à l'article L. 115, à la confection et à la pose des appareils de prothèse
+dentaire dans les conditions et tarifs en vigueur en matière de sécurité
+sociale, sous réserve que cette prestation fasse l'objet d'une demande de prise
+en charge adressée au médecin chargé du contrôle des soins gratuits. La demande,
+qui doit être accompagnée d'un devis chiffré, fait l'objet d'une décision
+d'acceptation ou de refus dans les mêmes conditions que celles fixées à
+l'article D. 59.

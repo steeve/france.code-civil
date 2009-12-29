@@ -5,10 +5,10 @@ local désigné par le maire, et pris en charge par la municipalité.
 
 Le transfert jusqu'au cimetière communal ou au caveau de famille est assuré par
 l'administration municipale pour le compte de l'Etat. Les frais engagés sont
-remboursés suivant un tarif forfaitaire arrêté par le ministre des anciens
-combattants et victimes de guerre. Ce tarif comprend, de façon limitative, les
-frais de manutention à l'arrivée, de transport jusqu'au cimetière, de creusement
-de la fosse, d'inhumation.
+remboursés suivant un tarif forfaitaire arrêté par le ministre chargé des
+anciens combattants et victimes de guerre. Ce tarif comprend, de façon
+limitative, les frais de manutention à l'arrivée, de transport jusqu'au
+cimetière, de creusement de la fosse, d'inhumation.
 
 Les opérations de transport du corps, par les soins de la municipalité, au
 cimetière communal d'inhumation ne peuvent donner lieu à aucune autre
@@ -18,5 +18,4 @@ suppression de celui-ci ne peut donner lieu à une indemnité.
 
 L'Etat contribue aux frais des cérémonies d'obsèques, religieuses ou civiles,
 dans la limite d'une somme forfaitaire dont le montant maximal est fixé par
-arrêté conjoint du ministre des anciens combattants et victimes de guerre et du
-ministre de l'économie et des finances.
+arrêté conjoint du ministre de la défense et du ministre chargé du budget.
