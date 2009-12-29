@@ -1,30 +1,42 @@
 Article R351-7
 ----
-I.-Il est procédé à une évaluation forfaitaire des ressources du bénéficiaire
-et, le cas échéant, de son conjoint, dès lors que l'un ou l'autre perçoit une
-rémunération mensuelle et ne perçoit ni l'allocation mentionnée à l'article L.
-262-3 du code de l'action sociale et des familles ni l'allocation mentionnée à
-l'article L. 821-1 du code de la sécurité sociale :
+I.-Il est procédé à une évaluation forfaitaire des ressources de la personne et
+de son conjoint ou concubin lorsque les conditions ci-après sont réunies :
 
-a) Lors de l'ouverture du droit, si le total des ressources du bénéficiaire et,
-le cas échéant, de son conjoint, perçues au titre de l'année civile de référence
-et appréciées selon les dispositions de l'article R. 351-5 sont au plus égales à
-1 015 fois le salaire minimum de croissance horaire en vigueur au 31 décembre de
-ladite année ;
+1° D'une part,
 
-b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du
-droit, ont été évaluées forfaitairement ;
+-soit, à l'ouverture du droit, lorsque le total des ressources de la personne et
+de son conjoint ou concubin perçu au cours de l'année civile de référence et
+apprécié selon les dispositions de l'article R. 351-5 est au plus égal à 1 015
+fois le salaire minimum de croissance horaire en vigueur au 31 décembre de cette
+année ;
 
-c) Au renouvellement du droit, au 1er janvier, si ni le bénéficiaire ni son
-conjoint n'a disposé de ressources appréciées conformément à l'article R. 351-5
-pendant l'année civile de référence.
+-soit, à l'occasion du premier renouvellement du droit, lorsque les ressources
+lors de l'ouverture du droit ont déjà fait l'objet d'une évaluation forfaitaire
+;
+
+-soit, à l'occasion du renouvellement du droit autre que le premier, lorsqu'au
+cours de l'année civile de référence ni le bénéficiaire, ni son conjoint, ni son
+concubin n'a disposé de ressources appréciées selon les dispositions de
+l'article R. 351-5 ;
+
+2° D'autre part, le bénéficiaire, son conjoint ou son concubin perçoit une
+rémunération.
+
+Ces dispositions ne sont pas applicables aux personnes qui perçoivent le revenu
+de solidarité active mentionné à l'article L. 262-2 du code de l'action sociale
+et des familles sans que les ressources du foyer entendues au sens de l'article
+L. 262-3 du même code excèdent le montant forfaitaire du revenu de solidarité
+active. Elles ne sont pas non plus applicables aux personnes qui perçoivent
+l'allocation mentionnée à l'article L. 821-1 du code de la sécurité sociale.
 
 La condition relative à l'existence d'une activité professionnelle rémunérée, à
-la perception de l'allocation mentionnée à l'article L. 262-3 du code de
-l'action sociale et des familles ou à celle de l'allocation mentionnée à
-l'article L. 821-1 du code de la sécurité sociale est appréciée au cours du mois
-civil précédant l'ouverture du droit ou du mois de novembre précédant le
-renouvellement du droit.
+la perception du revenu de solidarité active mentionné à l'article L. 262-2 du
+code de l'action sociale et des familles et au niveau de ressources du foyer au
+sens de l'article L. 262-3 du code de l'action sociale et des familles ou à
+celle de l'allocation mentionnée à l'article L. 821-1 du code de la sécurité
+sociale est appréciée au cours du mois civil précédant l'ouverture du droit ou
+du mois de novembre précédant le renouvellement du droit.
 
 II.-L'évaluation forfaitaire correspond soit à 12 fois la rémunération mensuelle
 perçue par l'intéressé le mois civil qui précède l'ouverture du droit ou le mois
@@ -57,10 +69,10 @@ précédant l'ouverture du droit ou du mois de novembre précédant le
 renouvellement du droit.
 
 Les montants visés aux deuxième et troisième alinéas sont revalorisés au 1er
-janvier de chaque année, conformément à l'évolution en moyenne annuelle des prix
-à la consommation hors tabac de l'année civile précédente, par arrêté conjoint
-des ministres en charge de la sécurité sociale, du logement, du budget et de
-l'agriculture.
+janvier de chaque année, conformément à l'évolution en moyenne annuelle de
+l'indice général des prix à la consommation des ménages hors tabac pour l'année
+civile précédente figurant dans le rapport économique et financier annexé au
+projet de loi de finances.
 
 La condition d'âge visée au deuxième et au troisième alinéas est examinée le
 premier jour du mois de l'ouverture du droit ou le 1er janvier lors du

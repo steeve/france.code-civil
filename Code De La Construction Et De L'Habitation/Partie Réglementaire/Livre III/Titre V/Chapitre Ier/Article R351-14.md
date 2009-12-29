@@ -8,20 +8,21 @@ mois consécutifs au cours de la période de paiement et :
 conditions mentionnées par l'article R. 351-13 ci-dessus, ou
 
 -si son indemnisation a atteint le montant minimum prévu par l'accord mentionné
-à l'article L. 351-8 du code du travail, après application du taux dégressif
-prévu à l'article L. 351-3 du même code, ou
+à l'article L. 5422-20 du code du travail, après application du taux dégressif
+prévu à l'article l'article L. 5422-3 du même code, ou
 
--s'il perçoit soit l'allocation de solidarité spécifique prévue par l'article L.
-351-10 du code du travail, soit l'allocation d'insertion prévue par l'article L.
-351-9 du code du travail, il n'est pas tenu compte des revenus d'activité
-professionnelle ni des indemnités de chômage perçus par l'intéressé durant
-l'année civile de référence.
+-s'il perçoit soit l'allocation de solidarité spécifique prévue par les articles
+L. 5423-1 à L. 5423-3 du code du travail, soit l'allocation temporaire d'attente
+prévue par l'article L. 5423-8 du code du travail,
+
+il n'est pas tenu compte des revenus d'activité professionnelle ni des
+indemnités de chômage perçus par l'intéressé durant l'année civile de référence.
 
 Les droits sont examinés sur cette nouvelle base à compter du premier jour du
 mois civil suivant celui au cours duquel sont intervenus le changement de
 situation, la cessation du versement ou la diminution du montant de l'allocation
 d'assurance, ou l'admission soit à l'allocation de solidarité spécifique soit à
-l'allocation d'insertion.
+l'allocation temporaire d'attente.
 
 Lorsque l'intéressé reprend une activité professionnelle rémunérée, il est tenu
 compte de ses ressources à partir du premier jour du mois civil au cours duquel
@@ -29,12 +30,3 @@ intervient la reprise d'activité.
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le
 présent article sont remplies.
-
-Lorsque le bénéficiaire ou son conjoint perçoit l'allocation mentionnée à
-l'article L. 262-3 du code de l'action sociale et des familles, il n'est pas
-tenu compte des revenus d'activité professionnelle ni des indemnités de chômage
-perçus par l'intéressé durant l'année civile de référence. Les droits sont
-examinés sur cette nouvelle base à compter du premier jour du mois civil suivant
-le premier mois d'ouverture du droit de l'allocation différentielle de revenu
-minimum et jusqu'au dernier jour du mois précédant celui au cours duquel
-l'allocation différentielle de revenu minimum cesse d'être due.

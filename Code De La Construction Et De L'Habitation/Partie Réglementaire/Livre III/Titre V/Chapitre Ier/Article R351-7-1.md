@@ -4,7 +4,7 @@ Lorsque le prêt ouvrant droit à l'aide personnalisée est un prêt aidé par l
 en accession à la propriété ou un prêt conventionné accordé pour la
 construction, l'acquisition ou l'acquisition-amélioration du logement :
 
-I. - A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son
+I.-A compter du 1er janvier 1983, si les ressources du bénéficiaire et de son
 conjoint déterminées en application des articles R. 351-5, 6 et 7 sont
 inférieures :
 
@@ -21,7 +21,7 @@ Le montant et le coefficient visés respectivement aux 1 et 2 ci-dessus sont
 fixés par arrêté conjoint des ministres chargés de la séucrité sociale, du
 budget, de l'agriculture et du logement.
 
-II. - A compter du 1er janvier 1995, pour les contrats de prêt signés
+II.-A compter du 1er janvier 1995, pour les contrats de prêt signés
 postérieurement au 31 décembre 1994, si les ressources du bénéficiaire et de son
 conjoint déterminées en application des articles R. 351-5, 6 et 7 sont
 inférieures au montant visé au 2 ci-dessus, celles-ci sont réputées égales à ce
@@ -29,9 +29,8 @@ montant, sauf lorsque, postérieurement à la date de signature du contrat de pr
 et pendant la période d'accession en cours, il y a lieu d'appliquer les
 dispositions des articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
 
-III. - Les dispositions du I et du II ne s'appliquent pas lorsque
-postérieurement à la date de signature du contrat de prêt et pendant la période
-d'accession en cours, le bénéficiaire ou son conjoint se trouve dans
-l'obligation de cesser son activité professionnelle et est admis au bénéfice
-d'une pension d'invalidité, d'une rente d'accident du travail ou de l'allocation
-aux adultes handicapés ou de l'allocation compensatrice.
+III.-Les dispositions du I et du II ne s'appliquent pas lorsque postérieurement
+à la date de signature du contrat de prêt et pendant la période d'accession en
+cours, le bénéficiaire ou son conjoint se trouve dans l'obligation de cesser son
+activité professionnelle et est admis au bénéfice d'une pension d'invalidité,
+d'une rente d'accident du travail ou de l'allocation aux adultes handicapés.

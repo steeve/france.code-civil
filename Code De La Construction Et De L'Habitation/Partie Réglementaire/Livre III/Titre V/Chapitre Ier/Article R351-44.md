@@ -15,8 +15,8 @@ Ces versements s'effectuent sous la forme d'acomptes. Ces acomptes sont établis
 de logement relevant du titre III du livre VIII du code de la sécurité sociale
 qu'en ce qui concerne les frais de gestion ;
 
--d'autre part, du montant prévisionnel des contributions prévues au I (2°, 3°,
-4° et 5°) de l'article R. 351-42.
+-d'autre part, du montant prévisionnel des contributions prévues au I (2°, 3° et
+4°) de l'article R. 351-42.
 
 Les modalités de versement sont précisées par conventions conclues en
 application de l'article L. 351-8. Celles-ci fixent notamment l'échéancier des
@@ -34,9 +34,9 @@ logement est assurée par la caisse des dépôts et consignations au vu des éta
 prévus à l'article R. 351-45.
 
 Le règlement du solde de liquidation en faveur ou à la charge soit de la caisse
-nationale des allocations familiales, soit de la caisse centrale d'allocations
-familiales mutuelles agricoles, est effectué concomitamment au versement du
-deuxième acompte prévu par l'alinéa 2.
+nationale des allocations familiales, soit de la caisse centrale de la mutualité
+sociale agricole, est effectué concomitamment au versement du deuxième acompte
+prévu par l'alinéa 2.
 
 Les acomptes décomptés au profit de la caisse nationale des allocations
 familiales ainsi que le solde de la liquidation annuelle en sa faveur ou à sa

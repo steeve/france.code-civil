@@ -1,8 +1,7 @@
 Article R351-45
 ----
-La caisse nationale des allocations familiales et la caisse centrale
-d'allocations familiales mutuelles agricoles font connaître au fonds national
-d'aide au logement :
+La caisse nationale des allocations familiales et la caisse centrale de la
+Mutualité sociale agricole font connaître au fonds national d'aide au logement :
 
 1. Chaque mois, le montant des sommes effectivement payées au titre de l'aide
 personnalisée au logement et de l'allocation de logement relevant du titre III

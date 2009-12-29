@@ -47,14 +47,8 @@ personnes nées avant le 1er janvier 1931 et pour les personnes invalides.
 
 Sont exclus de ce décompte :
 
--l'allocation mentionnée à l'article L. 262-3 du code de l'action sociale et des
-familles et servie soit au bénéficiaire ou à son conjoint, soit aux autres
-personnes définies au I du présent article ;
-
 -les arrérages des rentes viagères constituées en faveur d'une personne
 handicapée et mentionnés à l'article 199 septies du code général des impôts ;
-
--la prime de retour à l'emploi.
 
 III.-Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas
 connues au moment de la demande ou du réexamen du droit, il est tenu compte des
