@@ -76,10 +76,8 @@ f. Les gains nets mentionnés au I de l'article 150-0 A et résultant de le
 cession de droits sociaux, ainsi que ceux mentionnés au 6 du II du même article
 retirés du rachat par une société émettrice de ses propres titres, lorsque les
 droits détenus directement ou indirectement par le cédant ou l'actionnaire ou
-l'associé dont les titres sont rachetés, avec son conjoint, leurs ascendants et
-leurs descendants dans les bénéfices sociaux d'une société soumise à l'impôt sur
-les sociétés et ayant son siège en France ont dépassé ensemble 25 % de ces
-bénéfices à un moment quelconque au cours des cinq dernières années ;
+l'associé dont les titres sont rachetés, sont émis par une société soumise à
+l'impôt sur les sociétés et ayant son siège en France;
 
 g. Les sommes, y compris les salaires, payées à compter du 1er janvier 1990,
 correspondant à des prestations artistiques ou sportives fournies ou utilisées

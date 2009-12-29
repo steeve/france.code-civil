@@ -26,7 +26,11 @@ membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen ayant conclu avec la France une convention fiscale
 qui contient une clause d'assistance administrative en vue de lutter contre la
 fraude ou l'évasion fiscale, sont soumis au prélèvement selon le taux fixé au
-premier alinéa de l'article 200 B.
+premier alinéa de l'article 200 B. Par dérogation aux premier et présent
+alinéas, le taux est porté à 50 % lorsque les plus-values sont réalisées par ces
+mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués
+hors de France dans un Etat ou territoire non coopératif au sens de l'article
+238-0 A.
 
 2. Sont soumis au prélèvement mentionné au 1 :
 
@@ -118,13 +122,15 @@ différence entre, d'une part, le prix de cession du bien et, d'autre part, son
 prix d'acquisition, diminué pour les immeubles bâtis d'une somme égale à 2 % de
 son montant par année entière de détention.
 
-Par dérogation au premier alinéa du I, les personnes morales résidentes d'un
-Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen ayant conclu avec la France une convention fiscale
-qui contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale, lors de la cession de parts ou actions visées aux c
-et g du 3 du I sont soumises au prélèvement selon le taux fixé au troisième
-alinéa du a du I de l'article 219.
+Par dérogation au premier alinéa du I et à l'alinéa précédent, le prélèvement dû
+par des personnes morales résidentes d'un Etat membre de l'Union européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention fiscale qui contient une clause d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales et
+n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les
+règles d'assiette et de taux prévues en matière d'impôt sur les sociétés dans
+les mêmes conditions que celles applicables à la date de la cession aux
+personnes morales résidentes de France.
 
 IV.-L'impôt dû en application du présent article est acquitté lors de
 l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant
@@ -150,4 +156,9 @@ raison des sommes qui ont supporté celui-ci.
 
 Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû par
 le contribuable à raison de cette plus-value au titre de l'année de sa
-réalisation. S'il excède l'impôt dû, l'excédent est restitué.
+réalisation. S'il excède l'impôt dû, l'excédent est restitué aux personnes
+morales résidentes d'un Etat de l'Union européenne ou d'un Etat ou territoire
+ayant conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en matière d'échange de renseignements et de lutte
+contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de
+l'article 238-0 A.

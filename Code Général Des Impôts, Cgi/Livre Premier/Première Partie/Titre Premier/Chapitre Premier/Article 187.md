@@ -1,6 +1,7 @@
 Article 187
 ----
-1. Le taux de la retenue à la source prévue à l'article 119 bis est fixé à :
+1. Sous réserve des dispositions du 2, le taux de la retenue à la source prévue
+à l'article 119 bis est fixé à :
 
 -12 % pour les intérêts des obligations négociables ; toutefois ce taux est fixé
 à 10 % pour les revenus visés au 1° de l'article 118 et afférents à des valeurs
@@ -14,7 +15,7 @@ européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
 européen ayant conclu avec la France une convention d'assistance administrative
 en vue de lutter contre la fraude et l'évasion fiscales et qui seraient imposés
 dans les conditions prévues au 5 de l'article 206 s'ils avaient leur siège en
-France
+France ;
 
 -18 % pour les revenus de la nature de ceux éligibles à l'abattement prévu au 2°
 du 3 de l'article 158 lorsqu'ils bénéficient à des personnes physiques qui ont
@@ -26,4 +27,6 @@ l'évasion fiscale ;
 
 -25 % pour tous les autres revenus.
 
-2. (Abrogé)
+2. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à
+50 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de
+France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.

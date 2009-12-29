@@ -210,8 +210,9 @@ I. sexies Un décret fixe les modalités d'application des I à I quinquies et
 notamment les obligations déclaratives des contribuables et des établissements
 payeurs.
 
-II. Les dispositions de l'article 125 A, à l'exception du IV de cet article,
-sont applicables aux produits prévus au I. Le taux du prélèvement est fixé :
+II. Les dispositions de l'article 125 A, à l'exception des III à IV de cet
+article, sont applicables aux produits prévus au I. Le taux du prélèvement est
+fixé :
 
 1° Lorsque le bénéficiaire des produits révèle son identité et son domicile
 fiscal dans les conditions prévues au 4° du III bis de l'article 125 A :
@@ -251,6 +252,15 @@ l'administration fiscale ;
 Un décret fixe les modalités d'application du présent 1° bis.
 
 2° Dans le cas contraire, à 60 %.
+
+II bis. - Le prélèvement mentionné au II est obligatoirement applicable aux
+produits prévus au I lorsque ceux-ci bénéficient à des personnes qui n'ont pas
+leur domicile fiscal ou qui ne sont pas établies en France.
+
+Le taux du prélèvement est fixé à 50 %, quelle que soit la durée du contrat,
+lorsque les produits bénéficient à des personnes qui ont leur domicile fiscal ou
+qui sont établies dans un Etat ou territoire non coopératif au sens de l'article
+238-0 A.
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
 sanctions que celui mentionné à l'article 125 A. Les dispositions du 1 des

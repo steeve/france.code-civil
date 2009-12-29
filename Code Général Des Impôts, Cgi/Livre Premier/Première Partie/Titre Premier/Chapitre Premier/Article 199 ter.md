@@ -1,7 +1,7 @@
 Article 199 ter
 ----
 I a. Lorsque les bénéficiaires des revenus de capitaux mobilier visés aux
-articles 108 à 119,238 septies B et 1678 bis sont tenus, en exécution de
+articles 108 à 119, 238 septies B et 1678 bis sont tenus, en exécution de
 dispositions de la législation fiscale, de souscrire, pour l'assiette de l'impôt
 sur le revenu, une déclaration comprenant lesdits revenus, la somme à la retenue
 de laquelle ces revenus ont donné lieu, en vertu des articles 119 bis et 1678
@@ -12,7 +12,7 @@ Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une
 déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la
 source seront restituées, dans la mesure où elles ne pourront être admises à
 imputation sur l'impôt sur le revenu par suite de son montant inférieur ou de sa
-non-exigibilité dans des conditions qui sont fixées par décret en Conseil
+non-exigibilité dans des conditions qui seront fixées par décret en Conseil
 d'Etat. Ces dispositions ne sont pas applicables à la retenue à la source
 pratiquée sur les intérêts des obligations émises à compter du 1er octobre 1984
 qui bénéficient à des personnes qui ont leur domicile fiscal ou qui sont
@@ -25,16 +25,16 @@ b. En ce qui concerne les revenus de source étrangère visés aux articles 120 
 retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est
 prévu par les conventions internationales.
 
-c. La retenue à la source, temporairement prélevée par le Luxembourg et
-l'Autriche conformément à l'article 11 de la directive 2003/48/ CE du Conseil du
-3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de
-paiements d'intérêts, ouvre droit après imputation, le cas échéant, des autres
-retenues à la source et crédits d'impôt mentionnés aux a et b, à un crédit
-d'impôt égal à cette retenue qui est déduit de l'impôt sur le revenu dû au titre
-de l'année au cours de laquelle les revenus définis au sixième alinéa du 1 de
-l'article 242 ter, majorés du montant des retenues à la source auxquelles ils
-ont été soumis, sont déclarés et imposés. En cas d'excédent, celui-ci est
-restitué.
+c. La retenue à la source, temporairement prélevée par la Belgique, le
+Luxembourg et l'Autriche conformément à l'article 11 de la directive 2003 / 48 /
+CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l'épargne
+sous forme de paiements d'intérêts, ouvre droit après imputation, le cas
+échéant, des autres retenues à la source et crédits d'impôt mentionnés aux a et
+b, à un crédit d'impôt égal à cette retenue qui est déduit de l'impôt sur le
+revenu dû au titre de l'année au cours de laquelle les revenus définis au
+sixième alinéa du 1 de l'article 242 ter, majorés du montant des retenues à la
+source auxquelles ils ont été soumis, sont déclarés et imposés. En cas
+d'excédent, celui-ci est restitué.
 
 I bis (Abrogé).
 

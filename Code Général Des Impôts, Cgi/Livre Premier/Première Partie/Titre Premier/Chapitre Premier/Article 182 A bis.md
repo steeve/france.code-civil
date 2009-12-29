@@ -21,3 +21,10 @@ est déterminé dans les conditions de droit commun.
 V. ― Les dispositions du premier alinéa de l'article 197 B sont applicables pour
 la fraction des rémunérations déterminée conformément au II qui n'excède pas
 annuellement la limite supérieure fixée par les III et IV de l'article 182 A.
+
+VI. - Le taux de la retenue est porté à 50 % pour les sommes, autres que les
+salaires, versées à des personnes domiciliées ou établies dans un Etat ou
+territoire non coopératif au sens de l'article 238-0 A, sauf si le débiteur
+apporte la preuve que ces sommes correspondent à des opérations réelles qui ont
+principalement un objet et un effet autres que de permettre leur localisation
+dans un Etat ou territoire non coopératif.

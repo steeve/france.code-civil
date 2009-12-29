@@ -15,10 +15,11 @@ définis aux articles 118, 119 et 238 septies B, sont placés hors du champ
 d'application de la retenue à la source.
 
 2. Les produits visés aux articles 108 à 117 bis donnent lieu à l'application
-d'une retenue à la source dont le taux est fixé par l'article 187-1 lorsqu'ils
+d'une retenue à la source dont le taux est fixé par l'article 187 lorsqu'ils
 bénéficient à des personnes qui n'ont pas leur domicile fiscal ou leur siège en
-France. Un décret fixe les modalités et conditions d'application de cette
-disposition.
+France ou lorsqu'ils sont payés hors de France dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A. Un décret fixe les modalités et
+conditions d'application de cette disposition.
 
 Toutefois, la retenue à la source ne s'applique pas aux sommes visées au premier
 alinéa du a de l'article 111.

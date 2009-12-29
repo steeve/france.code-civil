@@ -27,3 +27,16 @@ Il est ramené à 15 p. 100 pour les rémunérations visées au d du paragraphe 
 
 La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les
 conditions prévues à l'article 197 A.
+
+III. - Le taux de la retenue est porté à 50 % :
+
+a) Lorsque les sommes et produits mentionnés aux a et b du I sont payés à des
+personnes domiciliées ou établies dans un Etat ou territoire non coopératif au
+sens de l'article 238-0 A ;
+
+b) Lorsque les sommes, autres que les salaires, mentionnées aux c et d du I sont
+payées à des personnes domiciliées ou établies dans un Etat ou territoire non
+coopératif au sens de l'article 238-0 A, sauf si le débiteur apporte la preuve
+que ces sommes correspondent à des opérations réelles qui ont principalement un
+objet et un effet autres que de permettre leur localisation dans un Etat ou
+territoire non coopératif.

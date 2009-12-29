@@ -1,12 +1,13 @@
 Article L136-7
 ----
-I.-Les produits de placements sur lesquels est opéré le prélèvement prévu à
-l'article 125 A du code général des impôts, ainsi que les produits de même
-nature retenus pour l'établissement de l'impôt sur le revenu lorsque la personne
-qui en assure le paiement est établie en France, sont assujettis à une
-contribution à l'exception de ceux ayant déjà supporté la contribution au titre
-de l'article L. 136-3 ou des 3° et 4° du II du présent article et sauf s'ils
-sont versés aux personnes visées au III de l'article 125 A précité.
+I. - Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
+France au sens de l'article 4 B du code général des impôts, les produits de
+placements sur lesquels est opéré le prélèvement prévu à l'article 125 A du code
+général des impôts, ainsi que les produits de même nature retenus pour
+l'établissement de l'impôt sur le revenu lorsque la personne qui en assure le
+paiement est établie en France, sont assujettis à une contribution à l'exception
+de ceux ayant déjà supporté la contribution au titre de l'article L. 136-3 ou
+des 3° et 4° du II du présent article.
 
 Sont également assujettis à cette contribution :
 
