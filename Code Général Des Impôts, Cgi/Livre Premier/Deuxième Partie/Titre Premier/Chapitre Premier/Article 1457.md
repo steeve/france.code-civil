@@ -6,6 +6,7 @@ la période de référence définie à l'article 1467 A, est inférieure à la l
 de 16,5 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de
 la sécurité sociale est exonérée de la cotisation foncière des entreprises.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006, concernant l'application des
-articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.

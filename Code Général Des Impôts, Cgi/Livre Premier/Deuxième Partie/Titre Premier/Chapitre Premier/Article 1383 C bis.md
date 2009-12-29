@@ -10,8 +10,9 @@ sur les propriétés bâties pour une durée de cinq ans. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
 du B du 3 de l'article 42 de la même loi, et de celles prenant effet à compter
 de 2013 dans les zones franches urbaines définies au même B, est subordonné au
-respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
-concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
+de l'Union européenne aux aides de minimis.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2006 et
 le 31 décembre 2014 inclus, à un établissement remplissant les conditions pour

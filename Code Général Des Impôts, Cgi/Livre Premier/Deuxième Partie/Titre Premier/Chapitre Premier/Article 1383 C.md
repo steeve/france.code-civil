@@ -17,9 +17,9 @@ de l'article 1466 A dans sa rédaction en vigueur au 31 décembre 2009 soient
 satisfaites. L'exonération s'applique à compter du 1er janvier 2004 ou à compter
 du 1er janvier de l'année qui suit celle où est intervenue cette affectation si
 elle est postérieure au 1er janvier 2004. Le bénéfice des exonérations prenant
-effet en 2004 est subordonné au respect du règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
-traité aux aides de minimis.
+effet en 2004 est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
+du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année
 suivant celle où les immeubles ne sont plus affectés à une activité entrant dans
