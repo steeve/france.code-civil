@@ -1,9 +1,10 @@
 Article R4122-28
 ----
 Préalablement à l'exercice de toute activité soumise à autorisation, le
-militaire adresse au ministre de la défense ou à l'autorité déléguée par lui,
-qui lui en accuse réception, une demande écrite qui comprend les informations
-suivantes :
+militaire adresse au ministre de la défense ou à l'autorité déléguée par lui, ou
+au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de
+la gendarmerie nationale, qui lui en accuse réception, une demande écrite qui
+comprend les informations suivantes :
 
 1° Identité de l'employeur ou nature de l'organisme pour le compte duquel
 s'exercera l'activité envisagée ;

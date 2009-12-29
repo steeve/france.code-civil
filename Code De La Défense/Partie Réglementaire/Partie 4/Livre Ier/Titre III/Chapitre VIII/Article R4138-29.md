@@ -4,7 +4,8 @@ Le militaire placé en congé de reconversion perçoit la solde indiciaire,
 l'indemnité de résidence, le supplément familial de solde, l'indemnité pour
 charges militaires et, le cas échéant, la majoration de l'indemnité pour charges
 militaires. Le militaire placé en congé de reconversion peut exercer une
-activité lucrative. Dans ce cas, il doit en informer le ministre de la défense
+activité lucrative. Dans ce cas, il doit en informer le ministre de la défense,
+ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale,
 en précisant, notamment, l'identité de son employeur et le montant des
 émoluments que celui-ci lui verse ou lui a versés. La rémunération du militaire
 qui exerce une activité lucrative durant le congé de reconversion est réduite :

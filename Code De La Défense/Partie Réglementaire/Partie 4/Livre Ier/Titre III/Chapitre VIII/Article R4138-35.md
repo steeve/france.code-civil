@@ -14,7 +14,8 @@ organisation internationale intergouvernementale ou d'un organisme d'intérêt
 général à caractère international pour remplir une mission d'intérêt public. Le
 détachement auprès d'un organisme d'intérêt général à caractère international ne
 peut intervenir que dans les conditions prévues par une convention préalablement
-passée entre le ministre de la défense, l'autorité de tutelle de l'organisme
+passée entre le ministre de la défense, ou le ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, l'autorité de tutelle de l'organisme
 d'accueil et le ministre des affaires étrangères. Cette convention, examinée par
 l'autorité chargée du contrôle financier, dans les conditions prévues par le
 décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des
