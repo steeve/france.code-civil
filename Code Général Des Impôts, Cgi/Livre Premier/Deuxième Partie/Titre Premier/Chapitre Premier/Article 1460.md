@@ -13,8 +13,8 @@ et ne vendant que le produit de leur art ;
 
 2° bis Les photographes auteurs, pour leur activité relative à la réalisation de
 prises de vues et à la cession de leurs oeuvres d'art au sens de l'article 278
-septies ou de droits mentionnés au g de l'article 279 et portant sur leurs
-oeuvres photographiques ;
+septies et du I de l'article 278-0 bis ou de droits mentionnés au g de l'article
+279 et portant sur leurs oeuvres photographiques ;
 
 3° Les auteurs et compositeurs, les professeurs de lettres, sciences et arts
 d'agrément, les instituteurs primaires ;
