@@ -1,11 +1,11 @@
 Article 1727
 ----
-I. - Toute créance de nature fiscale, dont l'établissement ou le recouvrement
+I.-Toute créance de nature fiscale, dont l'établissement ou le recouvrement
 incombe aux administrations fiscales, qui n'a pas été acquittée dans le délai
 légal donne lieu au versement d'un intérêt de retard. A cet intérêt s'ajoutent,
 le cas échéant, les sanctions prévues au présent code.
 
-II. - L'intérêt de retard n'est pas dû :
+II.-L'intérêt de retard n'est pas dû :
 
 1. Lorsque sont applicables les sanctions prévues aux articles 1791 à 1825 F ;
 
@@ -67,18 +67,23 @@ En cas de rectifications apportées aux résultats des sociétés appartenant à
 groupes mentionnés à l'article 223 A, l'insuffisance des chiffres déclarés
 s'apprécie pour chaque société.
 
-III. - Le taux de l'intérêt de retard est de 0,40 % par mois. Il s'applique sur
-le montant des créances de nature fiscale mises à la charge du contribuable ou
-dont le versement a été différé.
+III.-Le taux de l'intérêt de retard est de 0,40 % par mois. Il s'applique sur le
+montant des créances de nature fiscale mises à la charge du contribuable ou dont
+le versement a été différé.
 
-IV. - 1. L'intérêt de retard est calculé à compter du premier jour du mois
-suivant celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour
-du mois du paiement.
+IV.-1. L'intérêt de retard est calculé à compter du premier jour du mois suivant
+celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour du mois
+du paiement.
 
 Toutefois, en matière d'impôt sur le revenu et à l'exception de l'impôt afférent
 aux plus-values réalisées sur les biens mentionnés aux articles 150 U à 150 UC,
 le point de départ du calcul de l'intérêt de retard est le 1er juillet de
 l'année suivant celle au titre de laquelle l'imposition est établie.
+
+En matière d'impôt de solidarité sur la fortune, le point de départ du calcul de
+l'intérêt de retard est le 1er juillet de l'année au titre de laquelle
+l'imposition est établie si le redevable est tenu à l'obligation déclarative
+prévue au premier alinéa du 2 du I de l'article 885 W.
 
 En cas d'imposition établie dans les conditions fixées aux articles 201 à 204,
 le point de départ du calcul de l'intérêt de retard est le premier jour du

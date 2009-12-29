@@ -1,6 +1,6 @@
 Article 1640 B
 ----
-I. - Pour le calcul des impositions à la cotisation foncière des entreprises au
+I.-Pour le calcul des impositions à la cotisation foncière des entreprises au
 titre de l'année 2010, les communes et établissements publics de coopération
 intercommunale à fiscalité propre votent un taux relais, dans les conditions et
 limites prévues pour le taux de la taxe professionnelle par le présent code dans
@@ -10,7 +10,7 @@ l'article 1636 B sexies.
 Les impositions à la cotisation foncière des entreprises établies au titre de
 l'année 2010 sont perçues au profit du budget général de l'Etat. Elles sont
 calculées en faisant application des délibérations relatives aux exonérations et
-abattements prévues au I du 5. 3. 2 de l'article 2 de la loi n° 2009-1673 du 30
+abattements prévues au I du 5.3.2 de l'article 2 de la loi n° 2009-1673 du 30
 décembre 2009 de finances pour 2010 et en appliquant les taux communaux et
 intercommunaux de référence définis aux 1 à 6 du I de l'article 1640 C.
 
@@ -18,9 +18,9 @@ L'Etat perçoit 3 % du montant des impositions de cotisation foncière des
 entreprises établies au titre de l'année 2010. Ces sommes sont ajoutées au
 montant de ces impositions.
 
-II. - 1. a) Par dérogation aux dispositions des articles L. 2331-3, L. 3332-1,
-L. 4331-2, L. 5214-23, L. 5215-32, L. 5216-8 et L. 5334-4 du code général des
-collectivités territoriales et des articles 1379, 1586, 1599 bis, 1609 bis, 1609
+II.-1. a) Par dérogation aux dispositions des articles L. 2331-3, L. 3332-1, L.
+4331-2, L. 5214-23, L. 5215-32, L. 5216-8 et L. 5334-4 du code général des
+collectivités territoriales et des articles 1379,1586,1599 bis, 1609 bis, 1609
 quinquies C, 1609 nonies B et 1609 nonies C du présent code, les collectivités
 territoriales, à l'exception de la région Ile-de-France, et les établissements
 publics de coopération intercommunale dotés d'une fiscalité propre reçoivent au
@@ -31,7 +31,7 @@ Le montant de cette compensation relais est, pour chaque collectivité ou
 établissement public de coopération intercommunale à fiscalité propre, égal au
 plus élevé des deux montants suivants :
 
-- le produit de la taxe professionnelle qui résulterait pour cette collectivité
+-le produit de la taxe professionnelle qui résulterait pour cette collectivité
 territoriale ou cet établissement public de l'application, au titre de l'année
 2010, des dispositions relatives à cette taxe dans leur version en vigueur au 31
 décembre 2009. Toutefois, pour le calcul de ce produit, d'une part, il est fait
@@ -41,7 +41,7 @@ professionnelle de la collectivité territoriale ou de l'établissement public
 pour les impositions au titre de l'année 2009 dans la limite du taux voté pour
 les impositions au titre de l'année 2008 majoré de 1 % ;
 
-- le produit de la taxe professionnelle de la collectivité territoriale ou de
+-le produit de la taxe professionnelle de la collectivité territoriale ou de
 l'établissement public au titre de l'année 2009.
 
 Pour les établissements publics de coopération intercommunale faisant
@@ -61,7 +61,7 @@ l'article 1599 quinquies, une compensation relais.
 Le montant de cette compensation relais est égal au plus élevé des deux montants
 suivants :
 
-- le produit de cette taxe additionnelle qui résulterait de l'application, au
+-le produit de cette taxe additionnelle qui résulterait de l'application, au
 titre de l'année 2010, des dispositions relatives à cette taxe dans leur version
 en vigueur au 31 décembre 2009. Toutefois, pour le calcul de ce produit, d'une
 part, il est fait application des délibérations applicables en 2009 relatives
@@ -70,7 +70,7 @@ additionnelle voté par le conseil régional pour les impositions au titre de
 l'année 2009 dans la limite du taux voté pour les impositions au titre de
 l'année 2008 majoré de 1 % ;
 
-- le produit de cette taxe additionnelle au titre de l'année 2009.
+-le produit de cette taxe additionnelle au titre de l'année 2009.
 
 2. Pour chaque commune ou établissement public de coopération intercommunale à
 fiscalité propre, la compensation relais définie au 1 est augmentée du produit
@@ -90,16 +90,18 @@ en 2010 de l'article 1609 nonies C et n'en faisait pas application en 2009,
 n'existait pas en 2009 ou avait en 2009 un périmètre différent de celui de
 l'année 2010 :
 
-- le produit de la taxe professionnelle de l'année 2009 s'entend de la somme des
-produits communaux et intercommunaux de l'année 2009 afférents à son périmètre
-de l'année 2010 ;
+-le produit de la taxe professionnelle de l'année 2009 s'entend de la somme des
+produits de l'année 2009 des communes qui sont membres dudit établissement en
+2010 et des produits de l'année 2009, afférents au territoire de ces communes,
+des établissements publics de coopération intercommunale à fiscalité propre dont
+elles étaient membres en 2009 ;
 
-- le taux de l'année 2009 s'entend de la moyenne des taux communaux applicables
+-le taux de l'année 2009 s'entend de la moyenne des taux communaux applicables
 en 2009 sur chaque partie de son territoire, pondérés par l'importance des bases
 imposées à leur profit au titre de 2009. Pour le calcul de cette moyenne, les
 taux communaux applicables en 2009 s'entendent, pour chaque partie de
-territoire, de la somme du taux communal et du taux intercommunal de taxe
-professionnelle ;
+territoire, de la somme des taux de taxe professionnelle de la commune et de
+l'établissement public de coopération intercommunale à fiscalité propre ;
 
 b) Lorsqu'une commune était membre en 2009 d'un établissement public de
 coopération intercommunale faisant application de l'article 1609 nonies C et
@@ -115,8 +117,8 @@ l'année 2010, le taux de l'année 2008 s'entend de la moyenne des taux communau
 applicables en 2008 sur chaque partie de son territoire, pondérés par
 l'importance des bases imposées à leur profit au titre de 2008. Pour le calcul
 de cette moyenne, les taux communaux applicables en 2008 s'entendent pour chaque
-partie de territoire de la somme du taux communal et du taux intercommunal de
-taxe professionnelle ;
+partie de territoire de la somme des taux de taxe professionnelle de la commune
+et de l'établissement public de coopération intercommunale à fiscalité propre ;
 
 d) Lorsqu'une commune était membre en 2008 d'un établissement public de
 coopération intercommunale faisant application de l'article 1609 nonies C et
@@ -149,12 +151,13 @@ de taxe professionnelle de l'année 2008 s'entend du rapport entre les produits
 intercommunaux de taxe professionnelle de l'année 2008 et les bases
 correspondantes.
 
-III. - La compensation relais versée en 2010 en application du II fait l'objet
-d'une actualisation correspondant aux redressements opérés par les services
-fiscaux au titre de la taxe professionnelle de 2010, pendant le délai de reprise
-visé à l'article L. 174 du livre des procédures fiscales.
+III.-Les services fiscaux opèrent sur les bases de taxe professionnelle de 2010
+les contrôles qu'ils auraient opérés si la taxe professionnelle avait été
+acquittée en 2010. La compensation relais versée en 2010 aux collectivités
+territoriales en application du II fait l'objet d'une actualisation
+correspondant aux contrôles effectués jusqu'au 30 juin 2012.
 
-IV. - Pour l'application des 1 et 2 du II, les bases de taxe professionnelle des
+IV.-Pour l'application des 1 et 2 du II, les bases de taxe professionnelle des
 communes et établissements publics de coopération intercommunale s'entendent
 comme incluant les bases antérieurement écrêtées en application des articles
 1648 A et 1648 AA du code général des impôts dans leur rédaction en vigueur au

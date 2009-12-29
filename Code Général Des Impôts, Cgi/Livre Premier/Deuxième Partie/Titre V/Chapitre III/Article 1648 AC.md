@@ -7,16 +7,9 @@ aéroportuaires des communes riveraines de l'aéroport de Paris-Orly.
 
 II.-Ces fonds sont alimentés par :
 
-1° Une dotation de l'Etat en 2011. Le montant de cette dotation est égal à la
-somme des reversements effectués en 2010 par les fonds départementaux de
-péréquation de taxe professionnelle d'Ile-de-France conformément au premier
-alinéa du II de l'article 1648 A dans sa rédaction antérieure à la loi n°
-2010-1657 du 29 décembre 2010 de finances pour 2011.
-
-A compter de 2012, le montant de cette dotation est figé pour les deux fonds de
-compensation de nuisances aéroportuaires d'Ile-de-France. Il s'élève à 6 496 781
-€ pour le fonds de l'aéroport Roissy-Charles-de-Gaulle et à 271 847 € pour le
-fonds de l'aéroport d'Orly ;
+1° Une dotation de l'Etat. A compter de 2013, le montant de cette dotation est
+fixé à 6 550 076 € pour le fonds de l'aéroport Roissy - Charles-de-Gaulle et à
+271 847 € pour le fonds de l'aéroport d'Orly ;
 
 2° une contribution annuelle de la société Aéroports de Paris, sur délibération
 de son conseil d'administration.

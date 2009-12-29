@@ -1,24 +1,31 @@
 Article 259 A
 ----
 Par dérogation à l'article 259, est situé en France le lieu des prestations de
-services suivantes :
+services suivantes : 1° Les locations de moyens de transport :
 
-1° Les locations de moyens de transport lorsqu'elles sont de courte durée et que
-le moyen de transport est effectivement mis à la disposition du preneur en
-France.
+a) Lorsqu'elles sont de courte durée et que le moyen de transport est
+effectivement mis à la disposition du preneur en France.
 
 La location de courte durée s'entend de la possession ou de l'utilisation
-continue du moyen de transport pendant une période ne dépassant pas trente jours
-ou, dans le cas d'un moyen de transport maritime, quatre-vingt-dix jours ;
+continue d'un moyen de transport pendant une période ne dépassant pas trente
+jours ou, dans le cas d'un moyen de transport maritime, quatre-vingt-dix jours ;
 
-2° Les prestations de services se rattachant à un bien immeuble situé en France,
-y compris les prestations d'experts et d'agents immobiliers, la fourniture de
-logements dans le cadre du secteur hôtelier ou de secteurs ayant une fonction
-similaire tels que des camps de vacances ou des sites aménagés pour camper,
-l'octroi de droits d'utilisation d'un bien immeuble et les prestations tendant à
-préparer ou à coordonner l'exécution de travaux immobiliers, telles que celles
-fournies par les architectes et les entreprises qui surveillent l'exécution des
-travaux ;
+b) Les locations, autres que celles de courte durée, consenties à une personne
+non assujettie, lorsque cette personne est établie ou a son domicile ou sa
+résidence habituelle en France ;
+
+c) Par dérogation au b, la location d'un bateau de plaisance, à l'exception de
+la location de courte durée, à une personne non assujettie lorsque le bateau est
+effectivement mis à disposition du preneur en France et le service fourni par le
+prestataire à partir du siège de son activité économique ou d'un établissement
+stable qui y est situé. 2° Les prestations de services se rattachant à un bien
+immeuble situé en France, y compris les prestations d'experts et d'agents
+immobiliers, la fourniture de logements dans le cadre du secteur hôtelier ou de
+secteurs ayant une fonction similaire tels que des camps de vacances ou des
+sites aménagés pour camper, l'octroi de droits d'utilisation d'un bien immeuble
+et les prestations tendant à préparer ou à coordonner l'exécution de travaux
+immobiliers, telles que celles fournies par les architectes et les entreprises
+qui surveillent l'exécution des travaux ;
 
 3° Les prestations de transport intracommunautaire de biens effectuées pour des
 personnes non assujetties lorsque le lieu de départ du transport est en France.
