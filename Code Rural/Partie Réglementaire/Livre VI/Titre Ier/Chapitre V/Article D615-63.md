@@ -16,6 +16,18 @@ département où sont situées les terres déclarées dans la demande de paiemen
 introduite par l'agriculteur au titre de la première année d'application du
 régime de paiement unique.
 
+Lorsqu'un agriculteur déclare des terres agricoles admissibles dans plusieurs
+départements, les droits à paiement unique sont rattachés géographiquement à
+chacun des départements où sont situées ces terres.
+
+Lorsque ces droits sont transférés à titre définitif conjointement à des terres
+agricoles admissibles localisées dans l'un des départements de localisation des
+droits, ceux-ci sont alors rattachés géographiquement au seul département de
+localisation des terres agricoles admissibles transférées à titre définitif.
+
+Dans tous les autres cas, ils sont alors rattachés géographiquement au
+département du siège de l'exploitation du cédant.
+
 III. - Par dérogation au II :
 
 1. Les droits à paiement unique ne donnant pas lieu, au titre de l'année 2006,
