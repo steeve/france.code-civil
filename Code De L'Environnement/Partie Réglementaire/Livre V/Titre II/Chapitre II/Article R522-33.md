@@ -7,8 +7,8 @@ sur le marché ou d'inscription sur les listes prévues à l'article R. 522-2 :
 
 1° Pour une substance active biocide ne se trouvant pas sur le marché au 14 mai
 2000, pendant quinze ans à compter de la date de la première inscription à
-l'annexe I ou IA de la directive 98/8/CE du 16 février 1998 concernant la mise
-sur le marché des produits biocides ;
+l'annexe I ou IA de la directive 98 / 8 / CE du 16 février 1998 concernant la
+mise sur le marché des produits biocides ;
 
 2° Pour un produit biocide contenant une substance active biocide ne se trouvant
 pas sur le marché au 14 mai 2000, pendant une période de dix ans à compter de la
@@ -23,10 +23,10 @@ informations transmises en application du présent chapitre ;
 
 b) Pendant dix ans à compter de la date de la décision d'inscription d'une
 substance active biocide ou d'un type de produit additionnel sur l'annexe I ou
-IA de la directive n° 98/8/CEE précitée, pour les informations transmises pour
-la première fois à l'appui de la demande de première inscription à l'annexe I ou
-IA soit de la substance active, soit d'un type de produit additionnel pour cette
-substance active ;
+IA de la directive n° 98 / 8 / CEE précitée, pour les informations transmises
+pour la première fois à l'appui de la demande de première inscription à l'annexe
+I ou IA soit de la substance active, soit d'un type de produit additionnel pour
+cette substance active ;
 
 4° Pendant cinq ans à compter :
 
@@ -40,5 +40,5 @@ vue de la modification des conditions d'autorisation d'un produit biocide ou du
 maintien de l'inscription de la substance active aux annexes I ou IA de la
 directive.
 
-Si cette période de cinq ans expire avant la fin de la période prévue aux 1°, 2°
+Si cette période de cinq ans expire avant la fin de la période prévue aux 1°,2°
 et 3°, elle est prolongée jusqu'au terme de cette dernière période.
