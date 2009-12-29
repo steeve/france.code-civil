@@ -10,9 +10,8 @@ ans à compter de la date d'enregistrement des déclarations de douane
 correspondantes.
 
 3. Outre les mentions obligatoires prévues par le II de l'article 289 du code
-général des impôts, cette personne doit mentionner sur les factures émises à
-leurs mandants la date de versement au comptable des douanes des droits et taxes
-acquittés à l'importation dans le cadre de l'article 114 du présent code. La
-mesure prend effet dans un délai de six mois à compter de l'adoption de la loi
-n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et
-d'allègement des procédures.
+général des impôts, cette personne doit mentionner sur les factures émises à ses
+mandants les aménagements ou reports dont elle bénéficie concernant le paiement
+des droits et taxes exigibles à l'importation.
+
+Le présent 3 est applicable à compter du 1er juin 2010.
