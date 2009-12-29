@@ -17,21 +17,21 @@ II.-Les marchés et accords-cadres peuvent aussi être passés selon une procéd
 adaptée, dans les conditions définies par l'article 28, lorsque le montant
 estimé du besoin est inférieur aux seuils suivants :
 
-1° 133 000 Euros HT pour les fournitures et les services de l'Etat ;
+1° 125 000 € HT pour les fournitures et les services de l'Etat ;
 
-2° 206 000 Euros HT pour les fournitures et les services des collectivités
+2° 193 000 € HT pour les fournitures et les services des collectivités
 territoriales ;
 
-3° 206 000 Euros HT pour les fournitures acquises par des pouvoirs adjudicateurs
+3° 193 000 € HT pour les fournitures acquises par des pouvoirs adjudicateurs
 opérant dans le domaine de la défense autres que celles figurant dans la liste
 établie par arrêté conjoint du ministre chargé de l'économie et du ministre
 chargé de la défense ;
 
-4° 206 000 Euros HT pour les marchés de services de recherche et développement
-pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive des
-résultats et qu'il finance entièrement ;
+4° 193 000 € HT pour les marchés de services de recherche et développement pour
+lesquels le pouvoir adjudicateur acquiert la propriété exclusive des résultats
+et qu'il finance entièrement ;
 
-5° 5 150 000 € HT pour les travaux.
+5° 4 845 € HT (1) pour les travaux.
 
 III.-Les pouvoirs adjudicateurs peuvent aussi mettre en oeuvre une procédure
 adaptée :
@@ -41,7 +41,7 @@ adaptée :
 2° Pour certains lots, dans les conditions prévues par le III de l'article 27.
 
 IV.- Lorsque le montant estimé des marchés et accords-cadres de travaux est égal
-ou supérieur à 5 150 000 Euros HT, le pouvoir adjudicateur ne peut recourir aux
+ou supérieur à 4 845 000 € HT, le pouvoir adjudicateur ne peut recourir aux
 différentes procédures formalisées, autres que l'appel d'offres, que dans les
 conditions prévues par les articles 35 à 38.
 

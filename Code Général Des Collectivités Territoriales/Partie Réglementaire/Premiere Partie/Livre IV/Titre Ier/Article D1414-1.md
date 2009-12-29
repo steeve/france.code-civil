@@ -4,7 +4,7 @@ I. ― Tout contrat de partenariat doit être précédé d'une publicité suffis
 permettant une mise en concurrence effective dans les conditions définies
 ci-après.
 
-II. ― Lorsque le montant du contrat de partenariat est supérieur à 206 000 euros
+II. ― Lorsque le montant du contrat de partenariat est supérieur à 193 000 euros
 HT, la personne publique est tenue de publier un avis d'appel public à la
 concurrence dans le Bulletin officiel des annonces des marchés publics et au
 Journal officiel de l'Union européenne.
@@ -55,7 +55,7 @@ imprimée de ce bulletin de l'interruption temporaire de sa parution.
 La personne publique doit être en mesure de faire la preuve de la date d'envoi
 des avis.
 
-VI.-Pour rendre applicables les dispositions du premier alinéa de l'article L.
+VI. - Pour rendre applicables les dispositions du premier alinéa de l'article L.
 551-15 du code de justice administrative, la personne publique publie au Journal
 officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement
 précité, relatif à son intention de conclure un contrat d'un montant inférieur

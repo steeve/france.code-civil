@@ -1,7 +1,7 @@
 Article 39
 ----
-I.-A partir du seuil de 750 000 Euros HT pour les fournitures et les services et
-de 5 150 000 Euros HT pour les travaux, un avis de préinformation, conforme au
+I.-A partir du seuil de 750 000 euros HT pour les fournitures et les services et
+de 4 845 000 euros HT pour les travaux, un avis de préinformation, conforme au
 modèle fixé par le règlement (CE) n° 1564 / 2005 de la Commission du 7 septembre
 2005 établissant les formulaires standard pour la publication d'avis dans le
 cadre des procédures de passation de marchés publics conformément aux directives

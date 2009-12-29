@@ -8,13 +8,13 @@ définies ci-après.
 II.-Pour les achats de fournitures, de services et de travaux d'un montant
 compris entre 20 000 euros HT et 90 000 euros HT, ainsi que pour les achats de
 services relevant du I de l'article 148 d'un montant égal ou supérieur à 20 000
-Euros HT, l'entité adjudicatrice choisit librement les modalités de publicité
+euros HT, l'entité adjudicatrice choisit librement les modalités de publicité
 adaptées en fonction des caractéristiques du marché, notamment le montant et la
 nature des travaux, des fournitures ou des services en cause.
 
 III.-En ce qui concerne les fournitures et les services :
 
-1° Pour les achats d'un montant compris entre 90 000 euros HT et 412 000 euros
+1° Pour les achats d'un montant compris entre 90 000 euros HT et 387 000 euros
 HT, l'entité adjudicatrice est tenue de publier un avis d'appel public à la
 concurrence soit dans le Bulletin officiel des annonces des marchés publics,
 soit dans un journal habilité à recevoir des annonces légales. A compter du 1er
@@ -25,7 +25,7 @@ journal spécialisé correspondant au secteur économique concerné est par aill
 nécessaire pour assurer une publicité conforme aux objectifs mentionnés à
 l'article 1er ;
 
-2° Pour les achats d'un montant égal ou supérieur à 412 000 Euros HT, l'entité
+2° Pour les achats d'un montant égal ou supérieur à 387 000 euros HT, l'entité
 adjudicatrice est tenue de publier un avis d'appel public à la concurrence dans
 le Bulletin officiel des annonces des marchés publics et au Journal officiel de
 l'Union européenne, ainsi que, à compter du 1er janvier 2010, sur son profil
@@ -33,7 +33,7 @@ d'acheteur.
 
 IV.-En ce qui concerne les travaux :
 
-1° Pour les achats d'un montant compris entre 90 000 euros HT et 5 150 000 euros
+1° Pour les achats d'un montant compris entre 90 000 euros HT et 4 845 000 euros
 HT, l'entité adjudicatrice est tenue de publier un avis d'appel public à la
 concurrence soit dans le Bulletin officiel des annonces des marchés publics,
 soit dans un journal habilité à recevoir des annonces légales. A compter du 1er
@@ -43,7 +43,7 @@ travaux en cause, une publication dans un journal spécialisé correspondant au
 secteur économique concerné est par ailleurs nécessaire pour assurer une
 publicité conforme aux principes mentionnés à l'article 1er ;
 
-2° Pour les achats d'un montant égal ou supérieur à 5 150 000 euros HT, l'entité
+2° Pour les achats d'un montant égal ou supérieur à 4 845 000 euros HT, l'entité
 adjudicatrice est tenue de publier un avis d'appel public à la concurrence dans
 le Bulletin officiel des annonces des marchés publics et au Journal officiel de
 l'Union européenne, ainsi que, à compter du 1er janvier 2010, sur son profil
