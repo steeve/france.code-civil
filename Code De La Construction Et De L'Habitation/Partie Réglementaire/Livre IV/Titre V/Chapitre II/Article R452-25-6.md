@@ -1,8 +1,9 @@
 Article R452-25-6
 ----
-Les réclamations relatives aux cotisations mentionnées aux articles L. 452-4 et
-L. 452-4-1 sont présentées et instruites comme en matière de taxe sur la valeur
-ajoutée sous réserve des dispositions ci-après.
+Les réclamations relatives aux cotisations cotisations et au prélèvement prévus
+aux articles L. 452-4, L. 452-4-1 et L. 423-14 sont présentées et instruites
+comme en matière de taxe sur la valeur ajoutée sous réserve des dispositions
+ci-après.
 
 Les réclamations relatives à l'assiette des cotisations sont adressées au
 directeur général de la caisse.

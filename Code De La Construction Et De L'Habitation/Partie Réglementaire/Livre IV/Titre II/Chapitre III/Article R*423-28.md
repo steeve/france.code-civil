@@ -12,7 +12,9 @@ approuvé ces documents au plus tard le 30 juin de la même année.
 
 Le compte financier et le rapport du directeur général sont transmis au préfet
 et au ministre chargé du logement au plus tard le 15 juillet de l'année suivant
-l'exercice auxquels ils se rapportent.
+l'exercice auxquels ils se rapportent. La transmission s'effectue de manière
+dématérialisée par le biais d'une plate-forme informatique sécurisée désignée
+par arrêté du ministre chargé du logement.
 
 Le défaut de transmission des états financiers au préfet et au ministre chargé
 du logement pendant deux années consécutives est au nombre des irrégularités,

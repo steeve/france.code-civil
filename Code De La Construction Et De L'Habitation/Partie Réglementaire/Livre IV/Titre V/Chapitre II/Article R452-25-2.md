@@ -1,13 +1,13 @@
 Article R452-25-2
 ----
-Lorsque le contrôle des cotisations mentionnées aux articles L. 452-4 et L.
-452-4-1 a lieu sur place, il est effectué par la mission interministérielle
-d'inspection du logement social dans les conditions prévues aux articles R.
-451-1 à R. 451-6 sous réserve des dispositions ci-après.
+Lorsque le contrôle des cotisations et du prélèvement prévus aux articles L.
+452-4, L. 452-4-1 et L. 423-14 a lieu sur place, il est effectué par la mission
+interministérielle d'inspection du logement social dans les conditions prévues
+aux articles R. 451-1 à R. 451-6 sous réserve des dispositions ci-après.
 
 Avant le début de l'intervention sur place, un avis est adressé au redevable
 soit par pli recommandé adressé au siège social de l'organisme avec demande
-d'avis de réception postal, soit par remise à ce siège contre récépissé. L'avis
+d'avis de réception postal, soit par remise à ce siège contre récépissé.L'avis
 mentionne les années sur lesquelles porte le contrôle et indique que le
 redevable a la faculté de se faire assister par un conseil de son choix.
 

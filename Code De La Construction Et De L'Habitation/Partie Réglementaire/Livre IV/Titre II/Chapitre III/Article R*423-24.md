@@ -8,7 +8,9 @@ de l'année suivant l'exercice auxquels ils se rapportent.
 
 Le rapport d'activité et le compte financier de l'office public de l'habitat
 sont transmis au préfet et au ministre chargé du logement dans les quinze jours
-suivant leur approbation.
+suivant leur approbation. La transmission s'effectue de manière dématérialisée
+par le biais d'une plate-forme informatique sécurisée désignée par arrêté du
+ministre chargé du logement.
 
 Le défaut de transmission du compte financier à l'autorité compétente pendant
 deux années consécutives est au nombre des irrégularités, fautes graves ou
