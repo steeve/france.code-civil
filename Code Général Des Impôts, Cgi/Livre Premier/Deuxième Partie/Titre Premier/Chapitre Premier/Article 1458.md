@@ -19,10 +19,10 @@ alinéa de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme
 régime juridique de la presse (1) ;
 
 2° Les agences de presse qui figurent sur la liste établie en application de
-l'article 8 bis de l'ordonnance n° 45-2646 du 2 novembre 1945 modifiée, en
-raison de l'activité qu'elles exercent dans le cadre de l'article 1er modifié de
-ladite ordonnance tant qu'elles n'ont pas cessé de remplir les conditions
-déterminées par cette ordonnance.
+l'article 1er de l'ordonnance n° 45-2646 du 2 novembre 1945 modifiée, en raison
+de l'activité qu'elles exercent dans le cadre de ce même article 1er tant
+qu'elles n'ont pas cessé de remplir les conditions déterminées par cette
+ordonnance.
 
 3° Les correspondants locaux de la presse régionale ou départementale en raison
 de l'activité qu'ils exercent conformément aux dispositions de l'article 10 de
