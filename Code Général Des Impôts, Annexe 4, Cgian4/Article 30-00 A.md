@@ -10,4 +10,7 @@ chaleur ;
 
 2. Ascenseur ;
 
-3. Installations sanitaires : cabine hammam ou sauna prête à poser.
+3. Installations sanitaires : cabine hammam ou sauna prête à poser ;
+
+4. Système de climatisation : tous les systèmes de climatisation, ainsi que les
+pompes à chaleur de type air/ air.
