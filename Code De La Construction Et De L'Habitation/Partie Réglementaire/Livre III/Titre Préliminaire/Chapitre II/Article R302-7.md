@@ -11,8 +11,10 @@ logements dans l'agglomération concernée et notamment les obligations résulta
 de l'application de l'article L. 302-5.
 
 Il porte également à sa connaissance, le cas échéant, les objectifs spécifiques
-à certains quartiers notamment ceux qui résultent des conventions de
-développement social urbain.
+à certains quartiers notamment ceux qui font l'objet des conventions
+pluriannuelles avec l'Agence nationale de rénovation urbaine mentionnées aux
+articles 10 et 10-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de
+programmation pour la ville et la rénovation urbaine.
 
 Il communique au président de l'établissement public les objectifs et
 informations nouveaux au cours de l'élaboration du programme et de sa

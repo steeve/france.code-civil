@@ -10,4 +10,5 @@ conditions d'habitat dans le territoire auquel il s'applique ;
 programme ;
 
 - un programme d'actions détaillé pour l'ensemble du territoire auquel il
-s'applique et pour chaque secteur géographique défini à l'intérieur de celui-ci.
+s'applique et pour chaque commune et, le cas échéant, secteur géographique
+défini à l'intérieur de celui-ci.
