@@ -1,6 +1,6 @@
 Article 18
 ----
-Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 2010, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
@@ -31,7 +31,7 @@ Semaine
 (en euros)
 
 
-Jour ou fractions
+Jour ou fraction
 
 de jour
 
@@ -39,57 +39,54 @@ de jour
 
 0 %
 
+- moins de...
 
-Moins de
+14 034
 
-13 977
+3 509
 
-3 494
+1 170
 
-1 165
-
-269
+270
 
 45
 
 12 %
 
+- de...
 
-De
+14 034
 
-13 977
+3 509
 
-3 494
+1 170
 
-1 165
-
-269
+270
 
 45
 
-à
+- à...
 
-40 553
+40 716
 
-10 138
+10 179
 
-3 379
+3 393
 
-780
+783
 
-130
+131
 
 20 %
 
+- au-delà de...
 
-Au-delà de
+40 716
 
-40 553
+10 179
 
-10 138
+3 393
 
-3 379
+783
 
-780
-
-130
+131
