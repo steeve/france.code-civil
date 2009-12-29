@@ -1,7 +1,7 @@
 Article R443-12
 ----
 Lorsqu'un organisme d'habitations à loyer modéré envisage de vendre, en
-application du deuxième alinéa de l'article L. 443-11, un logement vacant et a
+application du troisième alinéa de l'article L. 443-11, un logement vacant et a
 recueilli à cet effet les accords et avis prévus à l'article L. 443-7, il en
 informe ses locataires dans le département.
 
