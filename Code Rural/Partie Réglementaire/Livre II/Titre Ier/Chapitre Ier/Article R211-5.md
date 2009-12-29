@@ -1,8 +1,11 @@
 Article R211-5
 ----
-La déclaration et le récépissé prévus à l'article L. 211-14 doivent être
-conformes aux modèles fixés par arrêté conjoint du ministre de l'intérieur et du
-ministre chargé de l'agriculture. Ces documents indiquent le nom et l'adresse du
-propriétaire ou du détenteur, l'âge, le sexe et le type du chien, ainsi que la
-catégorie dont il relève. Les pièces mentionnées au II de l'article L. 211-14
-sont jointes à la déclaration et visées dans le récépissé.
+Le permis de détention mentionné au I de l'article L. 211-14 est délivré par
+arrêté du maire de la commune où réside le propriétaire ou le détenteur du
+chien. Il précise le nom et l'adresse ou la domiciliation du propriétaire ou du
+détenteur, l'âge, le sexe, le type, le numéro d'identification et la catégorie
+du chien.
+
+Le maire mentionne dans le passeport européen pour animal de compagnie, prévu
+par le règlement du Parlement européen et du Conseil n° 998 / 2003 du 26 mai
+2003, le numéro et la date de délivrance du permis de détention.

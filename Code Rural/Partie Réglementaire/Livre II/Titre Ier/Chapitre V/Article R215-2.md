@@ -29,16 +29,26 @@ infectés de rage ;
 
 3° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
 catégorie, telles que définies à l'article L. 211-12, de ne pas présenter à
-toute réquisition des forces de police ou de gendarmerie le récépissé de la
-déclaration en mairie tel que prévu à l'article L. 211-14 et les autres pièces,
-en cours de validité, mentionnées au II de l'article L. 211-14 ;
+toute réquisition des forces de police ou de gendarmerie le permis de détention
+ou, le cas échéant, le permis provisoire tels que prévus à l'article L. 211-14
+ainsi que les pièces attestant qu'il satisfait aux conditions prévues aux b et c
+du 1° du II de l'article L. 211-14 ;
 
-4° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
+4° Le fait, pour le détenteur à titre temporaire, au sens du V de l'article L.
+211-14, d'un chien de la 1re ou 2e catégorie, telles que définies à l'article L.
+211-12, de ne pas présenter à toute réquisition des forces de police ou de
+gendarmerie les documents mentionnés à l'article R. 211-5-1 ;
+
+5° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
 catégorie telles que définies à l'article L. 211-12, de ne pas avoir fait
 procéder à l'identification de cet animal selon les modalités prévues à
 l'article L. 212-10.
 
-III.-Est puni des peines prévues pour les contraventions de la 4e classe le
-fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e catégorie
-telles que définies à l'article L. 211-12, de ne pas avoir procédé à la
-déclaration en mairie prévue à l'article L. 211-14.
+III.-Est puni des peines prévues pour les contraventions de la 4e classe :
+
+1° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e
+catégorie, telles que définies à l'article L. 211-12, de ne pas être titulaire
+du permis de détention ou du permis provisoire prévus à l'article L. 211-14 ;
+
+2° Le fait de ne pas soumettre son chien à l'évaluation comportementale
+mentionnée aux articles L. 211-14-1 et L. 211-14-2.

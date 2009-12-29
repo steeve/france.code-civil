@@ -9,7 +9,10 @@ dispositions de l'article L. 214-4 ;
 s'assurer du consentement prévu à l'article R. 214-20 ;
 
 3° De vendre des animaux de compagnie ayant subi une intervention chirurgicale
-en méconnaissance des dispositions de l'article R. 214-21 ;
+en méconnaissance des dispositions de l'article R. 214-21 ou de présenter de
+tels animaux lors d'une manifestation destinée à la présentation à la vente
+d'animaux de compagnie ou lors d'une exposition ou de toute autre manifestation
+consacrée à des animaux de compagnie ;
 
 4° De sélectionner des animaux de compagnie sur des critères de nature à
 compromettre leur santé et leur bien-être ainsi que ceux de leurs descendants en
@@ -22,9 +25,9 @@ visé à l'article R. 214-27, leur certificat de capacité aux services de contr
 6° De proposer à la vente des chiens et chats âgés de huit semaines ou moins en
 méconnaissance des dispositions du II de l'article L. 214-8 ;
 
-7° De céder à titre onéreux un chien ou un chat sans délivrer le certificat de
-bonne santé établi par un vétérinaire dans les conditions prévues au IV de
-l'article L. 214-8 ;
+7° De céder à titre onéreux un chat sans délivrer le certificat de bonne santé
+établi par un vétérinaire dans les conditions prévues au IV de l'article L.
+214-8 ;
 
 8° De publier ou de faire publier une offre de cession portant sur un chien ou
 un chat, ne comportant pas les mentions obligatoires prévues au V de l'article
