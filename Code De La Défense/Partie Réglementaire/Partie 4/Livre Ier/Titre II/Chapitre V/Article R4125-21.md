@@ -1,4 +1,4 @@
-Article R4125-17
+Article R4125-21
 ----
 Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris par le
 ministre de la défense, la commission des recours des militaires adresse sa
