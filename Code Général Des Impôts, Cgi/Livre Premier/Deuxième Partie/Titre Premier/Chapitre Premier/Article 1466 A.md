@@ -8,7 +8,7 @@ intercommunale dotés d'une fiscalité propre peuvent exonérer de la cotisation
 foncière des entreprises par délibération prise dans les conditions de l'article
 1639 A bis les créations ou extensions d'établissement réalisées dans une ou
 plusieurs de ces zones urbaines sensibles, dans la limite d'un montant de base
-nette imposable fixé pour 2012 à 27 413 € et actualisé chaque année en fonction
+nette imposable fixé pour 2013 à 28 071 € et actualisé chaque année en fonction
 de la variation des prix. Seuls les établissements employant moins de 150
 salariés peuvent bénéficier de cette mesure.
 
@@ -135,7 +135,7 @@ le 31 décembre 2014 dans les zones franches urbaines mentionnées à l'article
 zones franches urbaines mentionnées au deuxième alinéa du B du 3 de l'article 42
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développementdu territoire sont exonérés de cotisation foncière des entreprises
-dans la limite du montant de base nette imposable fixé, pour 2012, à 73 945 € et
+dans la limite du montant de base nette imposable fixé, pour 2013, à 75 720 € et
 actualisé chaque année en fonction de la variation de l'indice des prix. Les
 exonérations s'appliquent lorsque les conditions suivantes sont remplies :
 

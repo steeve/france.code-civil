@@ -29,10 +29,10 @@ des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou
 réparés par le redevable ; à défaut, les effectifs sont déclarés au principal
 établissement de l'entreprise.
 
-Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des
-entreprises de transport national ferroviaire mentionne leurs effectifs par
-établissement, au prorata de la valeur locative foncière imposée à la cotisation
-foncière des entreprises de ces établissements.
+Par exception aux deuxième et troisième alinéas, la déclaration des entreprises
+de transport national ferroviaire mentionne leurs effectifs par établissement,
+au prorata de la valeur locative foncière imposée à la cotisation foncière des
+entreprises de ces établissements.
 
 Un décret précise les conditions d'application du présent 1.
 
@@ -102,7 +102,7 @@ ajoutée du contribuable est répartie entre les communes où le contribuable
 dispose d'immobilisations imposables à la cotisation foncière des entreprises au
 prorata de leur valeur locative. Dans ce second cas, la valeur locative des
 immobilisations industrielles évaluée dans les conditions prévues aux articles
-1499 et 1501 est pondérée par un coefficient de 2 (1).
+1499 et 1501 est pondérée par un coefficient de 2.
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent
 d'aucun établissement en France mais qui y exercent une activité de location

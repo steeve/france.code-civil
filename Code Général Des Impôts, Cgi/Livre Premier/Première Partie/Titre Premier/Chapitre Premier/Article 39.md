@@ -417,9 +417,8 @@ le cadre d'un plan de sauvegarde ou de redressement.
 contrevenants à des obligations légales ne sont pas admises en déduction des
 bénéfices soumis à l'impôt.
 
-Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi
-n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la
-politique énergétique.
+Il en est de même du versement libératoire prévu à l'article L. 221-4 du code de
+l'énergie.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
 convention sur la lutte contre la corruption d'agents publics étrangers dans les
@@ -596,24 +595,7 @@ Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
 le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
-11.1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les
-charges engagées par une entreprise à l'occasion de l'attribution ou de la mise
-à disposition gratuite à ses salariés de matériels informatiques neufs, de
-logiciels et de la fourniture gratuite de prestations de services liées
-directement à l'utilisation de ces biens sont rapportées au résultat imposable
-des exercices au cours desquels intervient l'attribution en cause ou
-l'achèvement des prestations. Ces dispositions s'appliquent également lorsque
-les salariés bénéficient de l'attribution ou de la mise à disposition de ces
-mêmes biens ou de la fourniture de ces prestations de services pour un prix
-inférieur à leur coût de revient ;
-
-2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
-d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
-3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
-exercée dans le document formalisant l'accord. L'attribution, la mise à
-disposition ou la fourniture effective aux bénéficiaires des biens ou
-prestations de services doit s'effectuer dans les douze mois de la conclusion de
-l'accord précité.
+11. (Périmé)
 
 12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et
 l'entreprise concessionnaire, le montant des redevances prises en compte pour le
@@ -665,14 +647,14 @@ licences ou procédés.
 aides de toute nature consenties à une autre entreprise, à l'exception des aides
 à caractère commercial.
 
-Le premier alinéa du présent 13 ne s'applique pas aux aides consenties en
-application d'un accord constaté ou homologué dans les conditions prévues à
-l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises
-pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de
-liquidation judiciaire est ouverte.
+Le premier alinéa ne s'applique pas aux aides consenties en application d'un
+accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du
+code de commerce ni aux aides consenties aux entreprises pour lesquelles une
+procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire
+est ouverte.
 
-Les aides mentionnées au deuxième alinéa du présent 13 qui ne revêtent pas un
-caractère commercial sont déductibles à hauteur de la situation nette négative
-de l'entreprise qui en bénéficie et, pour le montant excédant cette situation
-nette négative, à proportion des participations détenues par d'autres personnes
-que l'entreprise qui consent les aides.
+Les aides mentionnées au deuxième alinéa qui ne revêtent pas un caractère
+commercial sont déductibles à hauteur de la situation nette négative de
+l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette
+négative, à proportion des participations détenues par d'autres personnes que
+l'entreprise qui consent les aides.

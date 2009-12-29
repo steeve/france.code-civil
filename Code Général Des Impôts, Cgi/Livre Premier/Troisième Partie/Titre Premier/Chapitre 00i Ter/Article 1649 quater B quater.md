@@ -21,18 +21,16 @@ plus de la moitié du capital ou des droits de vote est détenue à la clôture 
 leur exercice, directement ou indirectement, par une personne ou un groupement
 mentionné au 1° ;
 
-4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies ainsi
-que toutes les personnes morales imposables en France faisant partie du
-périmètre de consolidation ;
+4° (Périmé)
 
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal
 prévu à l'article 223 A lorsque celui-ci comprend au moins une personne
-mentionnée aux 1°, 2°, 3° et 4°.
+mentionnée aux 1°, 2° et 3°.
 
-Pour les entreprises mentionnées aux 1° à 4°, cette obligation s'applique aux
+Pour les entreprises mentionnées aux 1° à 3°, cette obligation s'applique aux
 déclarations qui doivent être souscrites à compter du 1er février de la deuxième
 année suivant celle au cours de laquelle l'une au moins des conditions prévues
-aux 1° à 4° est remplie à la clôture de l'exercice. Pour les entreprises
+aux 1° à 3° est remplie à la clôture de l'exercice. Pour les entreprises
 mentionnées au 5°, cette obligation s'applique à compter du 1er février de la
 première année suivant celle de leur entrée dans le groupe.
 
