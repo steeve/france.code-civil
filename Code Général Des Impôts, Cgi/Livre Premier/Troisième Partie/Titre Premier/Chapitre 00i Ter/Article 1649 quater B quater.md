@@ -60,8 +60,8 @@ III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les
 demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de
 taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont
 souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes
-réalisés par le redevable au titre de l'exercice précédent est supérieur à 500
-000 EUR hors taxes.
+réalisés par le redevable au titre de l'exercice précédent est supérieur à 230
+000 € hors taxes.
 
 Cette obligation s'applique également aux redevables définis aux deuxième à
 dixième alinéas du I.
