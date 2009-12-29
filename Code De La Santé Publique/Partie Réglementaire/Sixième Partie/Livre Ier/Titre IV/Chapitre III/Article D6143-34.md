@@ -8,6 +8,3 @@ Toute délégation doit mentionner :
 
 3° Eventuellement, les conditions ou réserves dont le directeur juge opportun
 d'assortir la délégation.
-
-La délégation fait l'objet des mesures de publicité prévues à l'article R.
-6143-38.
