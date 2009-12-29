@@ -32,8 +32,8 @@ logement-foyer ou d'une résidence hôtelière à vocation sociale ;
 siégeant à la commission nationale de concertation mentionnée à l'article 41 de
 la loi n° 86-1290 du 23 décembre 1986 ;
 
--deux représentants des associations agréées dans le département dont l'un des
-objets est l'insertion ou le logement des personnes défavorisées ;
+-deux représentants des associations et organisations dont l'un des objets est
+l'insertion ou le logement des personnes défavorisées ;
 
 -une personnalité qualifiée qui assure la présidence et qui dispose d'une voix
 prépondérante en cas de partage égal des voix.

@@ -7,8 +7,8 @@ gestionnaire ayant conclu avec celui-ci un contrat de location sont habilités �
 conclure la convention prévue à cet article.
 
 Le gestionnaire ou le propriétaire, s'il en assure lui même la gestion, doit au
-préalable avoir reçu l'agrément du préfet du département d'implantation de la
-résidence sociale ou des résidences sociales pour en assurer la gestion.
+préalable avoir reçu l'agrément relatif à l'intermédiation locative et à la
+gestion locative sociale prévu à l'article L. 365-4.
 
 2° Est assimilé au locataire et dénommée résident, la personne physique
 titulaire d'un titre d'occupation.

@@ -24,7 +24,7 @@ présent article est en mesure de réaliser sur leur territoire, dès lors que c
 collectivités ou groupements n'ont pas conclu les conventions prévues aux
 articles L. 301-5-1 et L. 301-5-2 ;
 
-4° Des organismes dont l'un des objets est de contribuer au logement des
-personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans
-le département, sous réserve que les opérations réalisées comprennent
-majoritairement des logements mentionnés au II de l'article R. 331-1.
+4° Des organismes bénéficiant de l'agrément relatif à la maîtrise d'ouvrage
+prévu à l'article L. 365-2, sous réserve que les opérations réalisées
+comprennent majoritairement des logements mentionnés au II de l'article R.
+331-1.

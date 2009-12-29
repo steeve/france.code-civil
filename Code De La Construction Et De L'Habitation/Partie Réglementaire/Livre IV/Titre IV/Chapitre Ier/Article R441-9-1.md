@@ -1,13 +1,13 @@
 Article R441-9-1
 ----
-Peuvent être agréées dans un département au titre de l'article L. 441-2 les
-associations qui y mènent de façon significative des actions d'insertion ou en
-faveur du logement des personnes défavorisées à l'exclusion de toute association
-qui gère ou donne en location des logements destinés à des personnes
-défavorisées dans le département.
+Le représentant siégeant à la commission d'attribution au titre du deuxième
+alinéa du 4° du II de l'article R. 441-9 est désigné par les organismes
+bénéficiant, dans le département, de l'agrément relatif à l'ingénierie sociale,
+financière et technique prévu à l'article L. 365-3, lorsque cet agrément inclut
+la participation aux commissions d'attribution.
 
-L'agrément est accordé par le préfet pour une durée de quatre ans renouvelable.
-Il peut être retiré à tout moment si l'association ne satisfait plus aux
-conditions de l'agrément ou en cas de manquements graves ou répétés de celle-ci
-à ses obligations. La décision de retrait ne peut intervenir qu'après que
-l'association en cause ait été mise à même de présenter ses observations.
+A défaut d'accord entre les organismes agréés pour désigner un représentant,
+celui-ci est désigné par le préfet parmi les personnes proposées par ces
+organismes.
+
+Le mandat de ce représentant ne peut excéder une durée de cinq ans renouvelable.

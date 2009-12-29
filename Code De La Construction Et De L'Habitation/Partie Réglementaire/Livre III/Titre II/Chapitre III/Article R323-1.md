@@ -24,6 +24,5 @@ mines de fer ;
 
 8° Les personnes morales propriétaires de cités familiales.
 
-9° Les organismes dont l'un des objets est de contribuer au logement des
-personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans
-le département.
+9° Les organismes bénéficiant de l'agrément relatif à la maîtrise d'ouvrage
+prévu à l'article L. 365-2.

@@ -23,7 +23,8 @@ application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 5° Sur les projets de plans départementaux d'action pour le logement des
 personnes défavorisées ;
 
-6° Abrogé.
+6° Sur les demandes ou modifications des agréments relatifs à la maîtrise
+d'ouvrage visé à l'article L. 365-2.
 
 7° Sur le bilan, présenté par le délégué régional de l'Agence nationale de
 l'habitat ou son représentant, de l'utilisation des aides régionales versées au

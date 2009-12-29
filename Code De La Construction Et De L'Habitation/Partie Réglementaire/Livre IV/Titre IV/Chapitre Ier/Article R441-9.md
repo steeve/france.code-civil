@@ -35,9 +35,9 @@ mandant ou son représentant, avec voix délibérative ;
 
 4° Avec voix consultative :
 
--d'un représentant des associations menant des actions d'insertion ou en faveur
-du logement des personnes défavorisées, désigné dans les conditions prévues par
-décret ;
+-d'un représentant des organismes bénéficiant de l'agrément relatif à
+l'ingénierie sociale, financière et technique prévue à l'article L. 365-3,
+désigné dans les conditions prévues par décret ;
 
 -pour l'attribution des logements situés sur le territoire relevant de leur
 compétence, des présidents des établissements publics de coopération
@@ -54,8 +54,7 @@ service chargé de l'action sanitaire et sociale du département du lieu
 d'implantation des logements.
 
 Le préfet du département du siège de l'office ou de la société, ou l'un de ses
-représentants membre du corps préfectoral, assiste, sur sa demande, à toute
-réunion de la commission.
+représentants, assiste, sur sa demande, à toute réunion de la commission.
 
 III.-Dans le cas d'une commission unique, les six membres mentionnés au 1° du II
 sont désignés, parmi ses membres, par le conseil d'administration ou le conseil
