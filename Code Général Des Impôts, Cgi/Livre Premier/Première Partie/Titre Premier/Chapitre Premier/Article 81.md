@@ -49,8 +49,9 @@ leurs conjoints ou ex-conjoints survivants non remariés ;
 
 7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
 
-8° Les indemnités temporaires, prestations et rentes viagères servies aux
-victimes d'accidents du travail ou à leurs ayants droit ;
+8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les
+prestations et rentes viagères, servies aux victimes d'accidents du travail ou à
+leurs ayants droit (2) ;
 
 9° Les allocations, indemnités et prestations servies, sous quelque forme que ce
 soit, par l'Etat, les collectivités et les établissements publics, en
@@ -211,8 +212,7 @@ d. (disjoint) ;
 
 21° (Abrogé) ;
 
-22° Les indemnités de départ en retraite, prévues à l'article L. 1237-9 du code
-du travail dans la limite de 3 050 euros ;
+22° (Abrogé) (3)
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats,
 militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux
@@ -302,4 +302,9 @@ universitaires, dans la limite de trois fois le montant mensuel du salaire
 minimum de croissance ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du
-travail.
+travail ;
+
+38° Le revenu supplémentaire temporaire d'activité versé, en application du
+décret n° 2009-602 du 27 mai 2009 relatif au revenu supplémentaire temporaire
+d'activité, dans les départements de la Guadeloupe, de la Guyane, de la
+Martinique et de La Réunion (1).

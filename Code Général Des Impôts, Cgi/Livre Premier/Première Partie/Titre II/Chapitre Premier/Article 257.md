@@ -324,7 +324,7 @@ besoin, par des arrêtés du ministre de l'économie et des finances ;
 
 16° et 17° (Abrogés) ;
 
-18° La redevance audiovisuelle ;
+18° La contribution à l'audiovisuel public ;
 
 19° Les sommes attribuées par les sociétés de course au titre des gains de
 course réalisés par les entraîneurs pour les chevaux dont ils sont

@@ -4,19 +4,20 @@ Article 1929 quater
 restant dues à titre privilégié par des commerçants et personnes morales de
 droit privé, même non commerçantes, au titre de l'impôt sur le revenu, de
 l'impôt sur les bénéfices des sociétés et autres personnes morales, de la taxe
-sur les salaires, de la taxe professionnelle et des taxes annexes, des taxes sur
-le chiffre d'affaires et des taxes annexes, et des contributions indirectes.
+sur les salaires, de la cotisation foncière des entreprises et des taxes
+annexes, des taxes sur le chiffre d'affaires et des taxes annexes, et des
+contributions indirectes.
 
-N'est pas soumise à la publicité la part de la taxe professionnelle
-correspondant à la réduction effectuée par le redevable au titre du plafonnement
-en fonction de la valeur ajoutée, en application des articles 1647 B sexies et
-1679 quinquies.
+N'est pas soumise à la publicité la part de la cotisation foncière des
+entreprises correspondant à la réduction effectuée par le redevable au titre du
+plafonnement en fonction de la valeur ajoutée, en application des articles 1647
+B sexies et 1679 quinquies.
 
 2. La publicité est faite à la diligence de l'administration chargée du
 recouvrement.
 
-3. L'inscription ne peut être requise, selon la nature de la créance, qu'à
-partir de la date à laquelle :
+3.L'inscription ne peut être requise, selon la nature de la créance, qu'à partir
+de la date à laquelle :
 
 1° Le redevable a encouru une majoration pour défaut de paiement pour les impôts
 directs recouvrés par les comptables de la direction générale de la comptabilité

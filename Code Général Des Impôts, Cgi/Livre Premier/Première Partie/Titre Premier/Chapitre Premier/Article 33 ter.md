@@ -11,7 +11,7 @@ suivants.
 En cas de cession des biens, la partie du revenu visé au premier alinéa qui
 n'aurait pas encore été taxée est rattachée aux revenus de l'année ou de
 l'exercice de la cession. Le cédant peut, toutefois, demander le bénéfice des
-dispositions de l'article 163-0 A.
+dispositions du I de l'article 163-0 A.
 
 Il en est de même en cas de décès du contribuable. Toutefois, chacun de ses
 ayants droit peut demander que la partie du revenu non encore taxée
@@ -25,6 +25,4 @@ indemnité au bailleur à l'expiration du bail.
 Toutefois, la remise de ces constructions ne donne lieu à aucune imposition
 lorsque la durée du bail est au moins égale à trente ans. Si la durée du bail
 est inférieure à trente ans, l'imposition est due sur une valeur réduite en
-fonction de la durée du bail dans des conditions fixées par décret (1).
-
-(1) Annexe III, art. 2 sexies
+fonction de la durée du bail dans des conditions fixées par décret.

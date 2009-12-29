@@ -10,14 +10,16 @@ la ville, et affectés, au 1er janvier 1997, à une activité entrant dans le ch
 d'application de la cotisation foncière des entreprises sont exonérés de taxe
 foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve que
 les conditions d'exercice de l'activité prévues aux premier et quatrième à
-septième alinéas du I quater de l'article 1466 A soient remplies.
+septième alinéas du I quater de l'article 1466 A dans sa rédaction en vigueur au
+31 décembre 2009 soient remplies.
 
 Pour les immeubles affectés, après le 1er janvier 1997 et avant le 31 décembre
 2001, à une activité entrant dans le champ d'application de la cotisation
 foncière des entreprises, l'exonération prévue au premier alinéa s'applique à
 compter du 1er janvier de l'année qui suit celle où est intervenue cette
 affectation, sous réserve que la condition d'effectif prévue au premier alinéa
-du I quater de l'article 1466 A soit remplie.
+du I quater de l'article 1466 A dans sa rédaction en vigueur au 31 décembre 2009
+soit remplie.
 
 L'exonération prévue aux premier et deuxième alinéas cesse de s'appliquer à
 compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus

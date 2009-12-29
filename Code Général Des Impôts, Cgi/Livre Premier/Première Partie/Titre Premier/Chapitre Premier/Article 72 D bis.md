@@ -57,7 +57,18 @@ climatique, naturelle ou sanitaire, reconnu par une autorité administrative
 compétente, ou déclaré par l'exploitant lorsque la différence positive entre la
 moyenne des chiffres d'affaires hors taxes des trois exercices précédents et le
 chiffre d'affaires hors taxes de l'exercice, réalisé dans des conditions
+comparables, excède 10 % de cette moyenne, dans la limite de cette différence ;
+
+d) Au titre de l'exercice de survenance d'un aléa d'origine économique lorsque
+la différence positive entre la moyenne des valeurs ajoutées des trois exercices
+précédents et la valeur ajoutée de l'exercice, réalisée dans des conditions
 comparables, excède 10 % de cette moyenne, dans la limite de cette différence.
+Pour l'application du présent d, la valeur ajoutée s'entend de la différence
+entre d'une part, la somme hors taxes, des ventes, des variations d'inventaire,
+de la production immobilisée et autoconsommée et des indemnités et subventions
+d'exploitation et, d'autre part, la somme hors taxes et sous déduction des
+transferts de charges d'exploitation affectés, du coût d'achat des marchandises
+vendues et de la consommation de l'exercice en provenance de tiers.
 
 Les sommes et intérêts ainsi utilisés sont rapportés au résultat de l'exercice
 au cours duquel leur retrait du compte est intervenu.
@@ -68,7 +79,7 @@ résultats du dixième exercice suivant celui au titre duquel ils ont été
 inscrits.
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux
-mentionnés aux a à c au cours des dix exercices qui suivent celui de leur
+mentionnés aux a à d au cours des dix exercices qui suivent celui de leur
 inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce
 prélèvement a été effectué et majorés d'un montant égal au produit de ces sommes
 et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.

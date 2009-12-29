@@ -2,9 +2,11 @@ Article L173
 ----
 Pour les impôts directs perçus au profit des collectivités locales et les taxes
 perçues sur les mêmes bases au profit de divers organismes, à l'exception de la
-taxe professionnelle et de ses taxes additionnelles, le droit de reprise de
-l'administration des impôts s'exerce jusqu'à la fin de l'année suivant celle au
-titre de laquelle l'imposition est due.
+taxe professionnelle, de la cotisation foncière des entreprises, de la
+cotisation sur la valeur ajoutée des entreprises et de leurs taxes
+additionnelles, le droit de reprise de l'administration des impôts s'exerce
+jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est
+due.
 
 Toutefois, lorsque le revenu imposable à raison duquel le contribuable a
 bénéficié d'une exonération, d'un dégrèvement ou d'un abattement en application

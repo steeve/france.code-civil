@@ -19,7 +19,8 @@ impôts ;
 6° A la taxe sur les salaires ;
 
 7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de
-l'impôt sur les sociétés.
+l'impôt sur les sociétés ;
 
 8° A la cotisation minimale de taxe professionnelle prévue au II de l'article
-1647 E du code général des impôts
+1647 E du code général des impôts dans sa rédaction en vigueur au 31 décembre
+2009.

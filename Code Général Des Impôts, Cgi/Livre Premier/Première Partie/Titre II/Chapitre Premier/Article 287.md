@@ -94,5 +94,9 @@ de ce dernier article ;
 b bis) Le montant hors taxes des opérations mentionnées au 2 sexies de l'article
 283 réalisées ou acquises par l'assujetti ;
 
+b ter) Le montant total, hors taxe sur la valeur ajoutée, des services pour
+lesquels le preneur est redevable de la taxe en application, d'une part, du
+second alinéa du 1, d'autre part et distinctement, du 2 de l'article 283 ;
+
 c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article
 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

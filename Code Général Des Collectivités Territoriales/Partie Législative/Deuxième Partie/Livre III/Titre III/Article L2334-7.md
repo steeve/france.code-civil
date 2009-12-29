@@ -43,7 +43,11 @@ l'article 44 de la loi de finances pour 1999 précitée. Cette part est minorée
 le cas échéant, en fonction de la part du prélèvement subi par le groupement en
 application du premier alinéa du III de l'article 29 de la loi de finances pour
 2003 (n° 2002-1575 du 30 décembre 2002) qui a été calculée à partir des bases de
-taxe professionnelle de France Télécom de cette commune ;
+taxe professionnelle de France Télécom de cette commune. Cette part est minorée,
+le cas échéant, en fonction de la part du prélèvement subi par le groupement en
+application du 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30 décembre
+2009 de finances pour 2010, qui a été calculée à partir du produit de la taxe
+sur les surfaces commerciales de cette commune ;
 
 4° Une garantie. Cette garantie est versée en 2005, le cas échéant, lorsque le
 montant prévu au a ci-dessous est supérieur aux montants mentionnés au b. Elle
@@ -61,7 +65,8 @@ fonctionnement. Toutefois, pour les communes dont la garantie par habitant est
 supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année
 précédente, le taux de progression de la garantie est nul. En 2009, le
 complément de garantie dû à chaque commune correspond à son montant de 2008
-diminué de 2 %.
+diminué de 2 %. En 2010, le complément de garantie dû à chaque commune
+correspond à son montant de 2009 diminué de 2 %.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
 la somme des composantes de cette dotation par rapport à la somme des montants
@@ -113,9 +118,29 @@ la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
 
 5° Une dotation versée aux communes dont le territoire est pour tout ou partie
-compris dans le coeur d'un parc national. Elle est fonction de la part de la
-superficie de la commune comprise dans ce coeur, cette part étant doublée pour
-le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
-carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007 et
-évolue chaque année selon le taux d'indexation fixé par le Comité des finances
-locales pour la dotation de base et la dotation proportionnelle à la superficie.
+compris dans le coeur d'un parc national, y compris, le cas échéant, les
+communes insulaires situées dans les surfaces maritimes classées en parc naturel
+marin, mentionné à l'article L. 334-3 du code de l'environnement. Elle est
+fonction de la part de la superficie de la commune comprise dans ce coeur, cette
+part étant doublée pour le calcul de la dotation lorsque cette superficie
+dépasse 5 000 kilomètres carrés ou lorsqu'il s'agit de la part d'une commune
+insulaire située dans une surface maritime classée en parc naturel marin,
+mentionné à l'article L. 334-3 du code de l'environnement. Le montant de cette
+dotation est fixé à 3 millions d'euros pour 2007 et évolue chaque année selon le
+taux d'indexation fixé par le Comité des finances locales pour la dotation de
+base et la dotation proportionnelle à la superficie.
+
+Pour les communes et établissements publics de coopération intercommunale à
+fiscalité propre, lorsque le montant de la compensation prévue au D de l'article
+44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) ou de la
+dotation de compensation prévue à l'article L. 5211-28-1 du présent code est, en
+2011, inférieur au montant de la diminution à opérer en application du 1. 2. 4.
+2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour
+2010, le solde est prélevé au profit du budget général de l'Etat,
+prioritairement sur le montant correspondant aux montants antérieurement perçus
+au titre du 2° bis du II de l'article 1648 B du code général des impôts dans sa
+rédaction antérieure à la loi n° 2003-1311 du 30 décembre 2003 de finances pour
+2004 et enfin sur le produit de la taxe foncière sur les propriétés bâties, de
+la taxe foncière sur les propriétés non bâties, de la taxe d'habitation et de la
+contribution économique territoriale perçu au profit de ces communes et
+établissements.

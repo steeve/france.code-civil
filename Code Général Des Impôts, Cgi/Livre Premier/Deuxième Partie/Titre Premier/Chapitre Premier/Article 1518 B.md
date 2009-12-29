@@ -27,6 +27,11 @@ Pour les opérations mentionnées au premier alinéa réalisées à compter du 1
 janvier 1992, la valeur locative des immobilisations corporelles ne peut être
 inférieure aux quatre cinquièmes de son montant avant l'opération.
 
+Il en est de même pour les transmissions universelles du patrimoine mentionnées
+à l'article 1844-5 du code civil et réalisées à compter du 1er janvier 2010,
+pour la valeur locative des seules immobilisations corporelles directement
+concernées par ces opérations.
+
 Par exception aux dispositions du cinquième alinéa, pour les opérations
 mentionnées au premier alinéa réalisées à compter du 1er janvier 2005 de reprise
 d'immobilisations d'une entreprise faisant l'objet d'une procédure de
@@ -34,9 +39,10 @@ redressement judiciaire, la valeur locative des immobilisations corporelles ne
 peut, pendant la procédure et dans les deux années suivant la clôture de
 celle-ci, être inférieure à 50 % de son montant avant l'opération.
 
-Pour les opérations mentionnées au premier alinéa réalisées à compter du 1er
-janvier 2006 et par exception aux dispositions du cinquième alinéa, la valeur
-locative des immobilisations corporelles ne peut être inférieure à :
+Par exception aux cinquième et sixième alinéas, pour les opérations mentionnées
+au premier alinéa réalisées à compter du 1er janvier 2006 et pour les opérations
+mentionnées au sixième alinéa, la valeur locative des immobilisations
+corporelles ne peut être inférieure à :
 
 a. 90 % de son montant avant l'opération pour les opérations entre sociétés
 membres d'un groupe au sens de l'article 223 A ;
@@ -48,7 +54,33 @@ liquidation judiciaire, jusqu'à la deuxième année suivant celle du jugement
 ordonnant la cession ou autorisant la cession d'actifs en cours de période
 d'observation.
 
-Sans préjudice des dispositions du 3° quater de l'article 1469, les dispositions
-du présent article s'appliquent distinctement aux trois catégories
-d'immobilisations suivantes : terrains, constructions, équipements et biens
-mobiliers.
+Par exception aux cinquième et sixième alinéas, pour les opérations réalisées à
+compter du 1er janvier 2011 et mentionnées au premier alinéa ou au sixième
+alinéa, la valeur locative des immobilisations corporelles ne peut être
+inférieure à :
+
+1° 100 % de son montant avant l'opération lorsque, directement ou indirectement,
+l'entreprise cessionnaire ou bénéficiaire de l'apport contrôle l'entreprise
+cédante, apportée ou scindée ou est contrôlée par elle, ou ces deux entreprises
+sont contrôlées par la même entreprise ;
+
+2° 90 % de son montant avant l'opération pour les opérations autres que celles
+mentionnées au 1° entre sociétés membres d'un groupe au sens de l'article 223 A
+;
+
+3° Sous réserve des dispositions des 1° et 2°, 50 % de son montant avant
+l'opération pour les opérations de reprise d'immobilisations prévue par un plan
+de cession ou comprises dans une cession d'actifs en sauvegarde, en redressement
+ou en liquidation judiciaire, jusqu'à la deuxième année suivant celle du
+jugement ordonnant la cession ou autorisant la cession d'actifs en cours de
+période d'observation.
+
+Par exception aux cinquième et sixième alinéas, la valeur locative d'une
+immobilisation corporelle cédée à compter du 1er janvier 2011 et rattachée au
+même établissement avant et après la cession ne peut être inférieure à 100 % de
+son montant avant l'opération lorsque, directement ou indirectement,
+l'entreprise cessionnaire contrôle l'entreprise cédante ou est contrôlée par
+elle ou lorsque ces deux entreprises sont contrôlées par la même entreprise.
+
+Le présent article s'applique distinctement aux deux catégories
+d'immobilisations suivantes : terrains et constructions.

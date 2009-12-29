@@ -14,7 +14,7 @@ alinéa du I de l'article 22 de la loi n° 2000-108 du 10 février 2000 relative
 la modernisation et au développement du service public de l'électricité à la
 condition que, au titre du dernier exercice clos en 2005, le rapport existant
 entre la quantité consommée d'électricité et la valeur ajoutée produite définie
-au II de l'article 1647 B sexies soit supérieur à deux kilowattheures et demi
+aux articles 1586 ter à 1586 sexies soit supérieur à deux kilowattheures et demi
 par euro.
 
 Les droits à consommation sont cédés en application du IV de l'article 22 de la

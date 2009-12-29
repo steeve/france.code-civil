@@ -18,7 +18,7 @@ requises.
 
 Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année
 suivant celle où les immeubles ne sont plus affectés à une activité entrant dans
-le champ d'application de la taxe professionnelle.
+le champ d'application de la cotisation foncière des entreprises.
 
 En cas de changement d'exploitant au cours d'une période d'exonération, celle-ci
 est maintenue pour la période restant à courir et dans les conditions prévues

@@ -15,4 +15,5 @@ en ce qui concerne les impôts directs dus par ces sociétés.
 
 Les obligations imposées aux personnes désignées au présent article s'étendent
 au règlement des acomptes provisionnels d'impôt sur le revenu, des acomptes
-d'impôt sur les sociétés, des acomptes de taxe professionnelle.
+d'impôt sur les sociétés, des acomptes de cotisation foncière des entreprises et
+de cotisation sur la valeur ajoutée des entreprises.

@@ -16,6 +16,12 @@ acquisitions intracommunautaires réputées effectuées en application des
 dispositions du V de l'article 256 et du III de l'article 256 bis, au moment où
 l'opération dans laquelle l'assujetti s'entremet est effectuée ;
 
+a quater) Pour les prestations de services pour lesquelles la taxe est due par
+le preneur de services en application du 2 de l'article 283, qui ont lieu de
+manière continue sur une période supérieure à une année et qui ne donnent pas
+lieu à des décomptes ou à des paiements durant cette période, à l'expiration de
+chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
+
 b) Pour les livraisons à soi-même entrant dans le champ d'application du 7° de
 l'article 257, au moment de la livraison qui doit intervenir, au plus tard, lors
 du dépôt à la mairie de la déclaration prévue par la réglementation relative au
@@ -53,8 +59,13 @@ fait générateur ou du débit ;
 b) Pour les livraisons de viandes prévues au 9° de l'article 257, lors du
 premier enlèvement en suite d'abattage ;
 
-c) Pour les prestations de services, lors de l'encaissement des acomptes, du
-prix, de la rémunération ou, sur option du redevable, d'après les débits.
+b bis) Pour les prestations de services pour lesquelles la taxe est due par le
+preneur en application du 2 de l'article 283, lors du fait générateur, ou lors
+de l'encaissement des acomptes ;
+
+c) Pour les prestations de services autres que celles visées au b bis, lors de
+l'encaissement des acomptes, du prix, de la rémunération ou, sur option du
+redevable, d'après les débits.
 
 En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du
 paiement de l'effet par le client.

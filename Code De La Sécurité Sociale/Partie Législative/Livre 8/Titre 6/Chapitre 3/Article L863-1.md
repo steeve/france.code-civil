@@ -14,10 +14,10 @@ Le montant du crédit d'impôt varie selon le nombre et l'âge des personnes
 composant le foyer, au sens de l'article L. 861-1, couvertes par le ou les
 contrats.
 
-Il est égal à 100 euros par personne âgée de moins de vingt-cinq ans, à 200
-euros par personne âgée de vingt-cinq à quarante-neuf ans, à 350 euros par
-personne âgée de cinquante à cinquante-neuf ans et à 500 euros par personne âgée
-de soixante ans et plus (1).L'âge est apprécié au 1er janvier de l'année.
+Il est égal à 100 euros par personne âgée de moins de seize ans, à 200 euros par
+personne âgée de seize à quarante-neuf ans, à 350 euros par personne âgée de
+cinquante à cinquante-neuf ans et à 500 euros par personne âgée de soixante ans
+et plus. L'âge est apprécié au 1er janvier de l'année.
 
 Les contrats d'assurance complémentaire souscrits par une même personne
 n'ouvrent droit qu'à un seul crédit d'impôt par an.

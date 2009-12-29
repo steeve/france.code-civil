@@ -9,14 +9,9 @@ Le montant de cette taxe est arrêté chaque année pour l'année suivante dans 
 limite de 13 000 000 €, par le conseil d'administration de l'établissement
 public et notifié au ministre de l'économie et des finances.
 
-Ce montant est réparti, dans les conditions définies au II de l'article 1636 B
-octies et à l'article 1636 C, entre toutes les personnes physiques ou morales
-assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la
-taxe d'habitation et à la taxe professionnelle dans les communes comprises dans
-la zone de compétence de l'établissement public.
-
-Les cotisations sont établies et recouvrées, les réclamations sont présentées et
-jugées comme en matière de contributions directes.
+La taxe est répartie et recouvrée dans la zone de compétence de l'établissement
+suivant les règles définies aux deuxième à sixième alinéas de l'article 1607
+bis.
 
 Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat.

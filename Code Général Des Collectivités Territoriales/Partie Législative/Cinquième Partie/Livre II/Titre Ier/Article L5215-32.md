@@ -2,12 +2,9 @@ Article L5215-32
 ----
 Les recettes du budget de la communauté urbaine comprennent :
 
-1° Soit, de plein droit ou après option, le produit des impôts mentionnés au I
-et au II de l'article 1609 nonies C du code général des impôts ;
-
--soit le produit des impôts directs mentionnés au 2° du I de l'article 1609 bis
-du code général des impôts et, le cas échéant, au II de l'article 1609 quinquies
-C du même code ;.
+1° Les ressources fiscales mentionnées au II ou, le cas échéant, au I de
+l'article 1379-0 bis du code général des impôts, ainsi que celles mentionnées au
+V du même article ;
 
 2° Soit le produit de la taxe d'enlèvement des ordures ménagères, de la
 redevance d'enlèvement des ordures ménagères sur les terrains de camping, de la

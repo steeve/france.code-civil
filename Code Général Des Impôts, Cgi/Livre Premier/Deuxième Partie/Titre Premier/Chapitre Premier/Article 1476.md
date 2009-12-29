@@ -1,8 +1,8 @@
 Article 1476
 ----
-La taxe professionnelle est établie au nom des personnes qui exercent l'activité
-imposable, dans les conditions prévues en matière de contributions directes,
-sous les mêmes sanctions ou recours.
+La cotisation foncière des entreprises est établie au nom des personnes qui
+exercent l'activité imposable, dans les conditions prévues en matière de
+contributions directes, sous les mêmes sanctions ou recours.
 
 Pour les sociétés civiles professionnelles, les sociétés civiles de moyens et
 les groupements réunissant des membres de professions libérales, l'imposition
@@ -13,11 +13,11 @@ nom de chacun des membres exerçant une activité professionnelle en France. La
 totalité des bases est répartie entre les membres exerçant une activité
 professionnelle en France dans le rapport existant pour chacun d'entre eux entre
 le montant de leurs droits respectifs dans la société civile ou le groupement et
-le montant total des droits détenus par ces mêmes membres (1).
+le montant total des droits détenus par ces mêmes membres.
 
 Toutefois, le deuxième alinéa ne s'applique pas aux sociétés civiles
 professionnelles à compter de l'année qui suit celle où elles sont, pour la
-première fois, assujetties à l'impôt sur les sociétés (1).
+première fois, assujetties à l'impôt sur les sociétés.
 
 Lorsque l'activité est exercée en vertu d'un contrat de fiducie, elle est
 imposée au nom du fiduciaire.

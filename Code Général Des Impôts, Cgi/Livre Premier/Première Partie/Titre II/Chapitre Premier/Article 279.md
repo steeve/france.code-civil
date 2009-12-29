@@ -5,7 +5,7 @@ concerne :
 
 a. Les prestations relatives :
 
-à la fourniture de logement et aux trois quarts du prix de pension ou de
+A la fourniture de logement et aux trois quarts du prix de pension ou de
 demi-pension dans les établissements d'hébergement ; ce taux s'applique aux
 locations meublées dans les mêmes conditions que pour les établissements
 d'hébergement ;
@@ -17,12 +17,16 @@ dépendance des personnes âgées et, d'autre part, aux besoins d'aide des
 personnes handicapées, hébergées dans ces établissements et qui sont dans
 l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
-à la fourniture de logement dans les terrains de camping classés, lorsque
+A la fourniture de logement dans les terrains de camping classés, lorsque
 l'exploitant du terrain de camping délivre une note dans les conditions fixées
 au a ter, assure l'accueil et consacre 1, 5 % de son chiffre d'affaires total
 hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un
 tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France
 à la publicité ;
+
+A la fourniture de logement et de nourriture dans les lieux de vie et d'accueil
+mentionnés au III de l'article L. 312-1 du code de l'action sociale et des
+familles ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
 d'entreprises et répondant aux conditions qui sont fixées par décret ;
@@ -56,7 +60,7 @@ concerts, à l'exception de ceux qui sont donnés dans des établissements où i
 est d'usage de consommer pendant les séances. Toutefois, si les consommations
 sont servies facultativement pendant le spectacle et à la condition que
 l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la
-catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail , le taux
+catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail, le taux
 réduit s'applique au prix du billet donnant exclusivement accès au concert ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les
@@ -162,4 +166,4 @@ groupements aux exploitants assurant les prestations de déneigement des voies
 publiques lorsqu'elles se rattachent à un service public de voirie communale ;
 
 m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux
-boissons alcooliques (1).
+boissons alcooliques.

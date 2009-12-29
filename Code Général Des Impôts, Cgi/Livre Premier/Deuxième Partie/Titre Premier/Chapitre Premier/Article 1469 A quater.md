@@ -1,19 +1,18 @@
 Article 1469 A quater
 ----
-Les collectivités locales et leurs groupements dotés d'une fiscalité propre
-peuvent, par une délibération de portée générale prise dans les conditions
-prévues à l'article 1639 A bis, réduire d'un montant égal, au choix de la
-collectivité ou du groupement, à 1 600 Euros, 2 400 Euros ou 3 200 Euros la base
-de taxe professionnelle de leur établissement principal à laquelle sont
-assujetties les personnes physiques ou morales qui vendent au public des écrits
-périodiques en qualité de mandataires inscrits au Conseil supérieur des
-messageries de presse.
+Les communes et leurs établissements publics de coopération intercommunale dotés
+d'une fiscalité propre peuvent, par une délibération de portée générale prise
+dans les conditions prévues à l'article 1639 A bis, réduire d'un montant égal,
+au choix de la commune ou de l'établissement, à 1 600 €, 2 400 € ou 3 200 € la
+base de cotisation foncière des entreprises de leur établissement principal à
+laquelle sont assujetties les personnes physiques ou morales qui vendent au
+public des écrits périodiques en qualité de mandataires inscrits au Conseil
+supérieur des messageries de presse.
 
 Cette réduction vient en diminution de la base d'imposition calculée après
-application de l'article 1472 A bis et, le cas échéant, de l'article 2 de la loi
-n° 94-1131 du 27 décembre 1994 modifiée portant statut fiscal de la Corse. Cette
-diminution de base n'est pas prise en compte pour l'application de l'article
-1647 bis.
+application le cas échéant, de l'article 2 de la loi n° 94-1131 du 27 décembre
+1994 modifiée portant statut fiscal de la Corse. Cette diminution de base n'est
+pas prise en compte pour l'application de l'article 1647 bis.
 
 Pour bénéficier de la réduction, les contribuables doivent justifier, auprès du
 service des impôts compétent, de l'exercice de l'activité de diffuseur de presse

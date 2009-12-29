@@ -77,18 +77,22 @@ nature non soumis à l'impôt sur le revenu en application du II de l'article 15
 Il est constitué :
 
 a) Des revenus nets soumis à l'impôt sur le revenu majorés, le cas échéant, du
-montant de l'abattement mentionné à l'article 150-0 D bis. Les plus-values
-mentionnées aux articles 150 U à 150 UC sont retenues dans les conditions
-prévues aux articles 150 V à 150 VE. Les revenus imposés dans les conditions
-prévues à l'article 151-0 sont pris en compte pour leur montant diminué, selon
-le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction
-forfaitaire prévue au 1 de l'article 102 ter. Par dérogation au premier alinéa
-du présent 4, les revenus soumis à l'impôt sur le revenu, sur option du
-contribuable, selon une base moyenne, notamment en application des articles 75-0
-B, 84 A ou 100 bis, ou fractionnée, notamment en application des articles 75-0
-A, 163 A ou 163 bis, sont pris en compte, pendant la période d'application de
-ces dispositions, pour le montant ayant effectivement supporté l'impôt au titre
-de chaque année ;
+montant des abattements mentionnés à l'article 150-0 D bis et aux 2° et 5° du 3
+de l'article 158, du montant des moins-values constatées les années antérieures
+à celle de la réalisation des revenus imputées en application du 11 de l'article
+150-0 D et du montant des déficits constatés les années antérieures à celle de
+la réalisation des revenus dont l'imputation sur le revenu global n'est pas
+autorisée en application du I de l'article 156. Les plus-values mentionnées aux
+articles 150 U à 150 UC sont retenues dans les conditions prévues aux articles
+150 V à 150 VE. Les revenus imposés dans les conditions prévues à l'article
+151-0 sont pris en compte pour leur montant diminué, selon le cas, de
+l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue
+au 1 de l'article 102 ter. Par dérogation au premier alinéa du présent 4, les
+revenus soumis à l'impôt sur le revenu, sur option du contribuable, selon une
+base moyenne, notamment en application des articles 75-0 B, 84 A ou 100 bis, ou
+fractionnée, notamment en application des articles 75-0 A, 163 A ou 163 bis,
+sont pris en compte, pendant la période d'application de ces dispositions, pour
+le montant ayant effectivement supporté l'impôt au titre de chaque année ;
 
 b) Des produits soumis à un prélèvement libératoire ;
 
@@ -102,8 +106,8 @@ du droit à restitution que du jour de ce transfert.
 
 5. Le revenu mentionné au 4 est diminué :
 
-a) Des déficits catégoriels dont l'imputation est autorisée par le I de
-l'article 156 ;
+a) Des déficits catégoriels constatés l'année de réalisation des revenus
+mentionnés au 4, dont l'imputation est autorisée par le I de l'article 156 ;
 
 b) Du montant des pensions alimentaires déduit en application du 2° du II de
 l'article 156 ;

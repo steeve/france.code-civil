@@ -8,5 +8,5 @@ code de la sécurité sociale peut, sur demande expresse et irrévocable de son
 bénéficiaire, être réparti par parts égales sur l'année au cours de laquelle le
 contribuable en a disposé et les quatre années suivantes.
 
-L'exercice de cette option est incompatible avec celui de l'option prévue à
-l'article 163-0 A.
+L'exercice de cette option est incompatible avec celui de l'option prévue au I
+de l'article 163-0 A.

@@ -53,6 +53,13 @@ dans les cas de vente de lots remembrés ;
 000 euros s'apprécie en tenant compte de la valeur en pleine propriété de
 l'immeuble ou de la partie d'immeuble ;
 
+En cas de cession d'un bien détenu en indivision, ce seuil s'apprécie au regard
+de chaque quote-part indivise.
+
+En cas de cession d'un bien dont le droit de propriété est démembré, le seuil de
+15 000 euros s'apprécie au regard de chaque quote-part indivise en pleine
+propriété ;
+
 7° Qui sont cédés avant le 31 décembre 2009 à un organisme d'habitations à loyer
 modéré, à une société d'économie mixte gérant des logements sociaux, à
 l'association mentionnée à l'article L. 313-34 du code de la construction et de

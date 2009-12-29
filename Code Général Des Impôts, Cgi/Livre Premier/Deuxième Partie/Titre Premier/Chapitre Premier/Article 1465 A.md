@@ -1,12 +1,13 @@
 Article 1465 A
 ----
-I.-Sauf délibération contraire de la collectivité territoriale ou du groupement
-de collectivités territoriales, dans les zones de revitalisation rurale dont le
-périmètre est défini par décret, les entreprises qui procèdent aux opérations
-mentionnées au premier alinéa de l'article 1465 dans les conditions et sous
-réserve, le cas échéant, de l'agrément prévu à cet article sont exonérées de
-taxe professionnelle. Cette exonération ne peut avoir pour effet de reporter de
-plus de cinq ans l'application du régime d'imposition de droit commun.
+I.-Sauf délibération contraire de la commune ou de l'établissement public de
+coopération intercommunale doté d'une fiscalité propre, dans les zones de
+revitalisation rurale dont le périmètre est défini par décret, les entreprises
+qui procèdent aux opérations mentionnées au premier alinéa de l'article 1465
+dans les conditions et sous réserve, le cas échéant, de l'agrément prévu à cet
+article sont exonérées de cotisation foncière des entreprises. Cette exonération
+ne peut avoir pour effet de reporter de plus de cinq ans l'application du régime
+d'imposition de droit commun.
 
 Cette exonération s'applique également aux créations d'activités dans les zones
 de revitalisation rurale réalisées par des artisans qui effectuent
@@ -56,9 +57,9 @@ promulgation de la loi n° 2005-157 du 23 février 2005 relative au développeme
 des territoires ruraux, restent classées en zone de revitalisation rurale
 jusqu'au 31 décembre 2008.
 
-Les dispositions des sixième, septième, huitième et onzième alinéas de l'article
-1465 sont applicables aux exonérations prévues au premier alinéa du I.
-Toutefois, pour l'application du onzième alinéa de l'article 1465, l'imposition
+Les dispositions des cinquième, sixième, septième et dixième alinéas de
+l'article 1465 sont applicables aux exonérations prévues au premier alinéa du I.
+Toutefois, pour l'application du dizième alinéa de l'article 1465, l'imposition
 est établie au profit de l'Etat.
 
 III.-Un décret en Conseil d'Etat précise les conditions d'application du II et
@@ -80,4 +81,5 @@ Cette option, exercée distinctement pour chacun des établissements concernés,
 est irrévocable pour la durée de l'exonération. Elle doit être exercée, selon le
 cas, dans le délai prévu pour le dépôt de la déclaration annuelle afférente à la
 première année au titre de laquelle l'exonération prend effet ou de la
-déclaration provisoire de taxe professionnelle visée à l'article 1477.
+déclaration provisoire de cotisation foncière des entreprises visée à l'article
+1477.

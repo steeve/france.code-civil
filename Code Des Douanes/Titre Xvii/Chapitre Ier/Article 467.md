@@ -5,10 +5,14 @@ l'objet de la déclaration périodique prévue à l'article 13 du règlement (CE
 3330-91 du 7 novembre 1991 relatif aux statistiques des échanges de biens entre
 Etats membres.
 
-2. L'Etat récapitulatif des clients mentionné à l'article 289 B du code général
-des impôts et la déclaration statistique périodique prévue au 1 ci-dessus font
-l'objet d'une déclaration unique. Un décret détermine le contenu et les
-modalités de cette déclaration.
+2.L'Etat récapitulatif des clients mentionné au II de l'article 289 B du code
+général des impôts et la déclaration statistique périodique prévue au 1
+ci-dessus font l'objet d'une déclaration unique. Un décret détermine le contenu
+et les modalités de cette déclaration.
+
+2 bis.L'état récapitulatif des clients mentionné au III de l'article 289 B du
+code général des impôts fait l'objet d'une déclaration dont le contenu et les
+modalités sont déterminés par décret.
 
 3. La déclaration visée au 2 ci-dessus peut être transmise par voie
 informatique. Les déclarants, utilisateurs de cette méthode de transmission,
@@ -21,15 +25,15 @@ déclarations ainsi souscrites.
 ci-dessus doivent être conservés par les assujettis pendant un délai de six ans
 à compter de la date de l'opération faisant l'objet de cette déclaration.
 
-4. Le défaut de production dans les délais de la déclaration prévue au 2
-ci-dessus donne lieu à l'application d'une amende de 750 euros.
+4. Le défaut de production dans les délais de la déclaration prévue au 2 ou au 2
+bis ci-dessus donne lieu à l'application d'une amende de 750 euros.
 
 Elle est portée à 1500 euros à défaut de production de la déclaration dans les
 trente jours d'une mise en demeure.
 
-Chaque omission ou inexactitude dans la déclaration produite donne lieu à
-l'application d'une amende de 15 euros, sans que le total puisse excéder 1500
-euros.
+Chaque omission ou inexactitude dans la déclaration prévue au 2 ci-dessus donne
+lieu à l'application d'une amende de 15 euros, sans que le total puisse excéder
+1500 euros.
 
 L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de
 trente jours à compter de la notification du document par lequel
@@ -54,8 +58,8 @@ ci-dessus. Ces demandes fixent un délai de réponse qui ne peut être inférieu
 cinq jours.
 
 L'administration peut procéder à la convocation du redevable de la déclaration.
-Celui-ci est entendu, à sa demande, par l'administration. L'audition donne lieu
-à l'établissement d'un procès-verbal d'audition dont une copie est remise au
+Celui-ci est entendu, à sa demande, par l'administration.L'audition donne lieu à
+l'établissement d'un procès-verbal d'audition dont une copie est remise au
 redevable. Le redevable peut se faire représenter.
 
 Les agents des douanes peuvent exiger sans préavis, à des fins de contrôle

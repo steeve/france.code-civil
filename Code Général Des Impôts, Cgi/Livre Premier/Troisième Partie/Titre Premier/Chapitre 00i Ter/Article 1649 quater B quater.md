@@ -64,3 +64,11 @@ réalisés par le redevable au titre de l'exercice précédent est supérieur à
 
 Cette obligation s'applique également aux redevables définis aux deuxième à
 dixième alinéas du I.
+
+IV. - Les déclarations de cotisation sur la valeur ajoutée des entreprises et
+leurs annexes sont obligatoirement souscrites par voie électronique lorsque le
+chiffre d'affaires de l'entreprise redevable est supérieur à 500 000 euros.
+
+IV. - L'état récapitulatif mentionné au III de l'article 289 B est souscrit par
+voie électronique. Toutefois, les assujettis bénéficiant du régime visé à
+l'article 293 B peuvent le déposer sur support papier.

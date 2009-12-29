@@ -1,9 +1,9 @@
 Article 1681 quater A
 ----
-A. A compter du 1er janvier 1997, la taxe professionnelle et les taxes
-additionnelles sont recouvrées, soit dans les conditions prévues à l'article
-1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements
-mensuels opérés conformément à l'article 1681 D.
+A. La cotisation foncière des entreprises et les taxes additionnelles sont
+recouvrées, soit dans les conditions prévues à l'article 1679 quinquies, soit,
+sur demande du contribuable, au moyen de prélèvements mensuels opérés
+conformément à l'article 1681 D.
 
 B. De janvier à octobre, chaque prélèvement est égal au dixième du montant des
 taxes mises en recouvrement au titre de l'année précédente jusqu'au 31 décembre

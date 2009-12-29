@@ -1,7 +1,7 @@
 Article 1451
 ----
-I Sous réserve des dispositions du II, sont exonérés de la taxe professionnelle
-:
+I Sous réserve des dispositions du II, sont exonérés de la cotisation foncière
+des entreprises :
 
 1° Les sociétés coopératives agricoles et leurs unions ainsi que les sociétés
 d'intérêt collectif agricole qui emploient au plus trois salariés ou qui se
@@ -47,11 +47,9 @@ chambres d'agriculture ;
 L771-1 du code rural qui ont au plus deux salariés ou mandataires rémunérés.
 
 Pour l'appréciation du nombre de salariés, la période de référence à retenir est
-l'année mentionnée à l'article 1467 A, pour les impositions établies au titre de
-1997 et des années suivantes.
+l'année mentionnée à l'article 1467 A.
 
-II.A compter de 1992, l'exonération prévue aux 1° et 2° du I est supprimée pour
-:
+II.L'exonération prévue aux 1° et 2° du I est supprimée pour :
 
 a) Les sociétés coopératives agricoles, leurs unions et les sociétés d'intérêt
 collectif agricole dont les parts sont admises aux négociations sur un marché

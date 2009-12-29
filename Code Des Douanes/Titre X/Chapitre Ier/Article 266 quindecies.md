@@ -15,8 +15,14 @@ III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en
 Lors de la mise à la consommation des carburants mentionnés au I, les redevables
 émettent des certificats représentatifs des quantités, exprimées en pouvoir
 calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265
-bis A que ces carburants incorporent. Les modalités d'émission et de cession
-éventuelle des certificats sont précisées par décret.
+bis A que ces carburants incorporent.
+
+Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en
+compte pour le double de leur valeur réelle en pouvoir calorifique inférieur,
+dans des conditions précisées par arrêté du ministre chargé du budget.
+
+Les modalités d'émission et de cession éventuelle des certificats sont précisées
+par décret.
 
 Le taux du prélèvement est diminué :
 
@@ -41,7 +47,7 @@ au calcul du prélèvement. La forme de la déclaration et son contenu sont fix�
 conformément aux dispositions du 4 de l'article 95.
 
 VI. - Les dispositions du présent article ne s'appliquent dans les départements
-d'outre-mer qu'à compter du 1er janvier 2010.
+d'outre-mer qu'à compter du 1er janvier 2013.
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions
 prévues au troisième alinéa de l'article 266 undecies.

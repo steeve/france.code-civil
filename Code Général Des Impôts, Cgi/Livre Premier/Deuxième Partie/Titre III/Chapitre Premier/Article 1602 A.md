@@ -10,10 +10,10 @@ entreprise en difficulté à compter de l'année suivant celle de leur création
 Cette exonération est subordonnée à une délibération des organismes consulaires
 dans le ressort desquels sont situés les établissements de ces entreprises.
 Toutefois, les délibérations prises par les chambres de métiers et de
-l'artisanat s'appliquent à la part de la taxe additionnelle à la taxe
-professionnelle pour frais de chambres de métiers et de l'artisanat revenant aux
-chambres régionales de métiers et de l'artisanat et à l'Assemblée permanente des
-chambres de métiers et de l'artisanat.
+l'artisanat s'appliquent à la part de la taxe additionnelle à la cotisation
+foncière des entreprises pour frais de chambres de métiers et de l'artisanat
+revenant aux chambres régionales de métiers et de l'artisanat et à l'Assemblée
+permanente des chambres de métiers et de l'artisanat.
 
 Ces délibérations sont prises dans les conditions prévues au II de l'article
 1464 C.

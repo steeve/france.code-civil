@@ -49,7 +49,13 @@ commun ou à un impôt équivalent. Pour l'application des articles L. 221-30 à
 221-32, la condition relative au taux normal d'imposition ne s'applique pas aux
 entreprises nouvelles mentionnées à l'article 44 sexies du code général des
 impôts ainsi qu'aux sociétés visées aux 1° ter et 3° septies de l'article 208 et
-à l'article 208 C du même code.
+à l'article 208 C du même code et aux sociétés présentant des caractéristiques
+similaires, ou soumises à une réglementation équivalente, à celles des sociétés
+mentionnées à l'article 208 C du même code et ayant leur siège dans un Etat
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention fiscale
+qui contient une clause d'assistance administrative en vue de lutter contre la
+fraude ou l'évasion fiscale.
 
 II. - 1° Les parts des fonds mentionnés au 3 du III de l'article 150-0 A du code
 général des impôts ne peuvent figurer dans le plan d'épargne en actions.

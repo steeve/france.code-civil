@@ -3,22 +3,18 @@ Article 244 quater J
 I.-Les établissements de crédit mentionnés à l'article L. 511-1 du code
 monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
 revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de la
-Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ayant conclu avec la France une convention fiscale contenant
 une clause d'assistance administrative en vue de lutter contre la fraude ou
 l'évasion fiscale, peuvent bénéficier d'un crédit d'impôt au titre d'avances
 remboursables ne portant pas intérêt consenties à des personnes physiques,
 soumises à des conditions de ressources, pour l'acquisition ou la construction
 d'une résidence principale en accession à la première propriété et versées au
-cours de l'année d'imposition ou de l'exercice. Le montant de l'avance
-remboursable sans intérêt peut, le cas échéant, financer l'ensemble des travaux
-rendus nécessaires par la mise aux normes telles que définies au deuxième alinéa
-ou prévus par le bénéficiaire de cette avance lors de l'acquisition de cette
-résidence.
+cours de l'année d'imposition ou de l'exercice.
 
-Le logement doit, au jour de l'affectation à l'usage d'habitation principale du
-bénéficiaire de l'avance, satisfaire à des normes minimales de surface et
-d'habitabilité définies par décret en Conseil d'Etat.
+Le montant de l'avance remboursable sans intérêt peut, le cas échéant, financer
+l'ensemble des travaux prévus par le bénéficiaire de cette avance lors de
+l'acquisition de cette résidence.
 
 Remplissent la condition de première propriété mentionnée au premier alinéa les
 personnes physiques bénéficiaires de l'avance remboursable sans intérêt n'ayant
@@ -57,12 +53,13 @@ dernière intervient entre le 1er janvier et le 31 mai ;
 2° L'année précédant celle de l'offre de l'avance lorsque cette dernière
 intervient entre le 1er juin et le 31 décembre.
 
-En cas de modification de la composition du foyer fiscal du bénéficiaire de
-l'avance remboursable sans intérêt au cours de l'année retenue pour la
-détermination du montant total des ressources, les revenus du bénéficiaire sont
-corrigés en tenant compte de la variation des revenus résultant de cette
-modification, le cas échéant de manière forfaitaire. Les modalités de calcul de
-ces revenus sont définies par décret en Conseil d'Etat.
+Dans le cas où la composition du ou des foyers fiscaux des personnes mentionnées
+au huitième alinéa incluait, l'année retenue pour la détermination du montant
+total des ressources, des personnes qui ne sont pas destinées à occuper à titre
+principal le bien immobilier, le ou les revenus fiscaux de référence, au sens du
+1° du IV de l'article 1417, concernés sont corrigés afin de ne tenir compte que
+des personnes mentionnées au huitième alinéa, le cas échéant de manière
+forfaitaire.
 
 Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 euros.
@@ -73,8 +70,8 @@ Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans
 les zones franches urbaines mentionnées à l'article 42 de la loi n° 95-115 du 4
 février 1995 d'orientation pour l'aménagement et le développement du territoire.
 
-Jusqu'au 31 décembre 2010, le montant de l'avance remboursable sans intérêt est
-majoré d'un montant maximum de 15 000 Euros pour les opérations d'accession
+Jusqu'au 31 décembre 2012, le montant plafond de l'avance remboursable sans
+intérêt est majoré d'un montant de 15 000 Euros pour les opérations d'accession
 sociale à la propriété portant sur la construction ou l'acquisition de logements
 neufs et donnant lieu à une aide à l'accession sociale à la propriété attribuée
 par une ou plusieurs collectivités territoriales ou par un groupement de
@@ -84,13 +81,12 @@ l'habitation. Les ressources des ménages bénéficiaires de cette majoration
 doivent être inférieures ou égales aux plafonds de ressources permettant l'accès
 aux logements locatifs sociaux visés au I de l'article R. 331-1 du même code.
 
-Le montant de l'avance remboursable sans intérêt est majoré, dans des conditions
-fixées par décret en Conseil d'Etat, d'un montant maximum de 20 000 € pour les
-opérations portant sur la construction ou l'acquisition de logements neufs ou en
-l'état futur d'achèvement dont le niveau élevé de performance énergétique
-globale, déterminé dans des conditions fixées par décret et justifié par le
-bénéficiaire de l'avance, est supérieur à celui qu'impose la législation en
-vigueur (1).
+Le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant
+de 20 000 € pour les opérations portant sur la construction ou l'acquisition de
+logements neufs ou en l'état futur d'achèvement dont le niveau élevé de
+performance énergétique globale, déterminé dans des conditions fixées par décret
+et justifié par le bénéficiaire de l'avance, est supérieur à celui qu'impose la
+législation en vigueur.
 
 Un décret en Conseil d'Etat définit les caractéristiques financières et les
 conditions d'attribution de l'avance remboursable sans intérêt.

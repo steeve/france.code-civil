@@ -27,11 +27,10 @@ de l'exploitation agricole. La prépondérance est appréciée en masse au regar
 chaque produit commercialisé par l'exploitant.
 
 Sont considérés comme bénéfices de l'exploitation agricole les revenus qui
-proviennent de la mise à disposition de droits à paiement unique, créés en
-application du règlement (CE) n° 1782 / 2003 du Conseil du 29 septembre 2003,
-établissant des règles communes pour les régimes de soutien direct dans le cadre
-de la politique agricole commune et établissant certains régimes de soutien en
-faveur des agriculteurs et modifiant les règlements (CEE) n° 2019 / 93, (CE) n°
-1452 / 2001, (CE) n° 1453 / 2001, (CE) n° 1454 / 2001, (CE) n° 1868 / 94, (CE)
-n° 1251 / 1999, (CE) n° 1254 / 1999, (CE) n° 1673 / 2000, (CEE) n° 2358 / 71 et
-(CE) n° 2529 / 2001.
+proviennent de la mise à disposition de droits au paiement au titre du régime de
+paiement unique prévu par le règlement (CE) n° 73 / 2009 du Conseil, du 19
+janvier 2009, établissant des règles communes pour les régimes de soutien direct
+en faveur des agriculteurs dans le cadre de la politique agricole commune et
+établissant certains régimes de soutien en faveur des agriculteurs, modifiant
+les règlements (CE) n° 1290 / 2005, (CE) n° 247 / 2006 et (CE) n° 378 / 2007, et
+abrogeant le règlement (CE) n° 1782 / 2003.

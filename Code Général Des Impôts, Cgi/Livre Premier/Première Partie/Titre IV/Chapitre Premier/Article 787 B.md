@@ -63,7 +63,9 @@ conservation.
 
 Le bénéfice de l'exonération partielle est subordonné à la condition que les
 participations soient conservées inchangées à chaque niveau d'interposition
-pendant toute la durée de l'engagement collectif.
+pendant toute la durée de l'engagement collectif. Toutefois, le bénéfice du
+régime de faveur n'est pas remis en cause en cas d'augmentation de la
+participation détenue par les sociétés interposées.
 
 c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la
 déclaration de succession ou l'acte de donation, pour lui et ses ayants cause à

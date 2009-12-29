@@ -39,14 +39,15 @@ imposé dans les mêmes conditions au titre de l'année de la cession ou de
 l'apport.
 
 3. Lorsque les droits détenus directement ou indirectement par le cédant avec
-son conjoint, leurs ascendants et leurs descendants dans les bénéfices sociaux
-d'une société soumise à l'impôt sur les sociétés et ayant son siège en France
-ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des
-cinq dernières années, la plus-value réalisée lors de la cession de ces droits,
-pendant la durée de la société, à l'une des personnes mentionnées au présent
-alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
-un tiers dans un délai de cinq ans.A défaut, la plus-value est imposée au nom du
-premier cédant au titre de l'année de la revente des droits au tiers.
+son conjoint, leurs ascendants et leurs descendants ainsi que leurs frères et
+sœurs dans les bénéfices sociaux d'une société soumise à l'impôt sur les
+sociétés et ayant son siège en France ont dépassé ensemble 25 % de ces bénéfices
+à un moment quelconque au cours des cinq dernières années, la plus-value
+réalisée lors de la cession de ces droits, pendant la durée de la société, à
+l'une des personnes mentionnées au présent alinéa, est exonérée si tout ou
+partie de ces droits sociaux n'est pas revendu à un tiers dans un délai de cinq
+ans.A défaut, la plus-value est imposée au nom du premier cédant au titre de
+l'année de la revente des droits au tiers.
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
 l'option pour l'imputation des pertes a été exercée dans les conditions du

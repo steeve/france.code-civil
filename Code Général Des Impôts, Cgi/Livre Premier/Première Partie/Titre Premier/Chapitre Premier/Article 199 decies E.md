@@ -4,7 +4,9 @@ Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2012,
 acquiert un logement neuf ou en l'état futur d'achèvement faisant partie d'une
 résidence de tourisme classée dans une zone de revitalisation rurale et qui le
 destine à une location dont le produit est imposé dans la catégorie des revenus
-fonciers bénéficie d'une réduction d'impôt sur le revenu.
+fonciers bénéficie d'une réduction d'impôt sur le revenu. L'indexation d'une
+part minoritaire du loyer sur le chiffre d'affaires ne fait pas obstacle à
+l'imposition dans la catégorie des revenus fonciers.
 
 Cette réduction d'impôt est calculée sur le prix de revient de ces logements
 dans la limite de 50 000 euros pour une personne célibataire, veuve ou divorcée
@@ -39,9 +41,22 @@ le département auront identifié un déficit de logements pour les travailleurs
 saisonniers dans la station, l'exploitant de la résidence de tourisme devra
 s'engager à réserver une proportion significative de son parc immobilier pour le
 logement des saisonniers, proportion au moins équivalente au nombre de salariés
-de la résidence. En cas de non-respect de l'engagement ou de cession du
-logement, la réduction pratiquée fait l'objet d'une reprise au titre de l'année
-de la rupture de l'engagement ou de celle de la cession. Le paiement d'une
+de la résidence. En cas de cession du logement, la réduction pratiquée fait
+l'objet d'une reprise au titre de l'année de la cession. En cas de rupture de
+l'engagement de location pendant une durée supérieure à douze mois en cas de
+liquidation judiciaire de l'exploitant, de résiliation ou de cession du bail
+commercial par l'exploitant, ou de mise en œuvre par les propriétaires du
+bénéfice de la clause contractuelle prévoyant la résiliation du contrat à défaut
+de paiement du loyer par l'exploitant, la réduction d'impôt fait l'objet d'une
+reprise pour le tiers de son montant au titre de l'année de la rupture de
+l'engagement de location et de chacune des deux années suivantes. La réduction
+pratiquée ne fait pas l'objet d'une reprise si les copropriétaires substituent
+au gestionnaire défaillant de la résidence de tourisme une ou un ensemble
+d'entreprises qui assurent les mêmes prestations sur la période de location
+restant à couvrir conformément aux prescriptions légales, dans des conditions
+fixées par décret. Cette faculté leur est ouverte dès lors que la candidature
+d'un autre gestionnaire n'a pu être retenue après un délai d'un an et qu'ils
+détiennent au moins 50 % des appartements de la résidence. Le paiement d'une
 partie du loyer par compensation avec le prix des prestations d'hébergement
 facturées par l'exploitant au propriétaire, lorsque le logement est mis à la
 disposition de ce dernier pour une durée totale n'excédant pas huit semaines par

@@ -10,9 +10,15 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 de déchets ménagers et assimilés ou transférés vers une telle installation
 située dans un autre Etat :
 
-DÉSIGNATION DES MATIÈRES ou opérations imposables
 
-UNITÉ de perception
+DÉSIGNATION DES MATIÈRES
+
+ou opérations imposables
+
+
+UNITÉ
+
+de perception
 
 
 QUOTITÉ EN EUROS
@@ -29,7 +35,10 @@ QUOTITÉ EN EUROS
 
 2014
 
-A compter de 2015
+
+A compter
+
+de 2015
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés non autorisée en application du titre Ier du livre V du code de
@@ -119,8 +128,8 @@ Tonne
 40
 
 Les déchets réceptionnés dans une installation de stockage de déchets ménagers
-ou assimilés visée au A du tableau du présent a ou transférés vers une telle
-installation située dans un autre Etat et autorisée en vertu d'une
+ou assimilés visée au A ou au B du tableau du présent a ou transférés vers une
+telle installation située dans un autre Etat et autorisée en vertu d'une
 réglementation d'effet équivalent bénéficient d'une réduction à raison des
 tonnages dont le transfert entre le site de regroupement et le site de
 traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que
@@ -137,9 +146,15 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation
 d'incinération de déchets ou transférés vers une telle installation située dans
 un autre Etat :
 
-DÉSIGNATION DES MATIÈRES ou opérations imposables
 
-UNITÉ de perception
+DÉSIGNATION DES MATIÈRES
+
+ou opérations imposables
+
+
+UNITÉ
+
+de perception
 
 
 QUOTITÉ EN EUROS
@@ -152,7 +167,10 @@ QUOTITÉ EN EUROS
 
 2012
 
-A compter de 2013
+
+A compter
+
+de 2013
 
 Déchets réceptionnés dans une installation d'incinération de déchets ménagers et
 assimilés ou transférés vers une telle installation située dans un autre Etat :
@@ -251,15 +269,40 @@ en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1
 janvier 2014, revalorisée dans la même proportion que la limite supérieure de la
 première tranche de l'impôt sur le revenu.
 
+Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de
+déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la
+certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la
+taxe est due.
+
+Le tarif visé au B du tableau du a s'applique aux tonnages de déchets
+réceptionnés entre la date de notification au préfet de la date de mise en
+service effective des équipements assurant la valorisation du biogaz à plus de
+75 % et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du b s'applique aux tonnages de déchets
+réceptionnés entre la date de notification au préfet de la date de mise en
+service effective des équipements assurant une performance énergétique de niveau
+élevé et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au C du tableau du b s'applique aux tonnages de déchets
+réceptionnés entre la date de notification de l'arrêté préfectoral mentionnant
+la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31
+décembre de l'année au titre de laquelle la taxe est due
+
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les
 tarifs sont fixés comme suit :
 
-DÉSIGNATION DES MATIÈRES ou opérations imposables
+
+DÉSIGNATION DES MATIÈRES
+
+ou opérations imposables
 
 
 UNITÉ DE PERCEPTION
 
-QUOTITÉ (en euros)
+QUOTITÉ
+
+(en euros)
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de
 déchets industriels spéciaux ou transférés vers une telle installation située

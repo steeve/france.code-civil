@@ -1,11 +1,11 @@
 Article 1464 I
 ----
-I. ― Les collectivités territoriales et leurs groupements dotés d'une fiscalité
-propre peuvent, par une délibération de portée générale prise dans les
-conditions définies à l'article 1639 A bis, exonérer de taxe professionnelle les
-établissements réalisant une activité de vente de livres neufs au détail qui
-disposent au 1er janvier de l'année d'imposition du label de librairie
-indépendante de référence.
+I. ― Les communes et leurs établissements publics de coopération intercommunale
+dotés d'une fiscalité propre peuvent, par une délibération de portée générale
+prise dans les conditions définies à l'article 1639 A bis, exonérer de
+cotisation foncière des entreprises les établissements réalisant une activité de
+vente de livres neufs au détail qui disposent au 1er janvier de l'année
+d'imposition du label de librairie indépendante de référence.
 
 II. ― Pour bénéficier de l'exonération prévue au I, un établissement doit, au
 cours de la période de référence mentionnée à l'article 1467 A, relever d'une

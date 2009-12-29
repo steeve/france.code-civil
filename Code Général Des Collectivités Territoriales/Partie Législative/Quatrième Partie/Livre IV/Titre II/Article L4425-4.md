@@ -4,7 +4,7 @@ L'Etat verse à la collectivité territoriale de Corse un concours individualis�
 au sein de la dotation générale de décentralisation de la collectivité
 territoriale de Corse, intitulé : "dotation de continuité territoriale", dont le
 montant évolue comme la dotation globale de fonctionnement. A titre dérogatoire,
-cette évolution ne s'applique pas en 2009.
+cette évolution ne s'applique pas en 2009 et en 2010.
 
 Ce concours est consacré à la mise en oeuvre des dispositions des articles L.
 4424-18 et L. 4424-19.

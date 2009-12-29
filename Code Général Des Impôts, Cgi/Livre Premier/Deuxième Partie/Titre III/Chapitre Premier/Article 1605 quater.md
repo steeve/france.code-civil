@@ -12,11 +12,11 @@ d'occasion.
 Une déclaration collective est souscrite par les personnes désignées aux premier
 et deuxième alinéas. Cette déclaration collective regroupe les déclarations
 individuelles de chaque acquéreur et doit être adressée à l'administration
-chargée du contrôle de la redevance audiovisuelle dans les trente jours suivant
-la vente. Cette déclaration précise la date d'achat, l'identité de l'acquéreur,
-sa date et son lieu de naissance. Un double de cette déclaration doit être
-conservé pendant trois ans par les professionnels désignés ci-dessus et présenté
-à toute réquisition des agents du Trésor public ou de l'administration des
-impôts.
+chargée du contrôle de la contribution à l'audiovisuel public dans les trente
+jours suivant la vente. Cette déclaration précise la date d'achat, l'identité de
+l'acquéreur, sa date et son lieu de naissance. Un double de cette déclaration
+doit être conservé pendant trois ans par les professionnels désignés ci-dessus
+et présenté à toute réquisition des agents du Trésor public ou de
+l'administration des impôts.
 
 Les opérations de vente entre professionnels sont dispensées de déclaration.

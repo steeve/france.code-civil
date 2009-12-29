@@ -10,7 +10,9 @@ taux de défiscalisation pouvant être revus à la hausse en fonction du context
 
 DÉSIGNATION DES PRODUITS
 
-RÉDUCTION (en euros par hectolitre)
+RÉDUCTION
+
+(en euros par hectolitre)
 
 
 Année
@@ -24,59 +26,59 @@ Année
 1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul
 domestique
 
-15, 00
+15,00
 
-11, 00
+11,00
 
-8, 00
+8,00
 
-2. Esters méthyliques d'huile animale incorporés au gazole ou au fioul
+2. Esters méthyliques d'huile animale ou usagée incorporés au gazole ou au fioul
 domestique
 
-15, 00
+15,00
 
-11, 00
+11 00
 
-8, 00
+8 00
 
 3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux
-supercarburants dont la composante alcool est d'origine agricole
+supercarburants dont la composante alcool est d'origine agricole, sous
+nomenclature douanière combinée NC 220710
 
-21, 00
+21,00
 
-18, 00
+18,00
 
-14, 00
+14,00
 
-4. Alcool éthylique d'origine agricole incorporé aux supercarburants ou au
-superéthanol E85 repris à l'indice d'identification 55
+4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC
+220710, incorporé aux supercarburants ou au superéthanol E85 repris à l'indice
+d'identification 55
 
-21, 00
+21,00
 
-18, 00
+18,00
 
-14, 00
+14,00
 
 5. Biogazole de synthèse
 
-15, 00
+15,00
 
-11, 00
+11,00
 
-8, 00
+8,00
 
 6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul
 domestique
 
-21, 00
+21,00
 
-18, 00
+18,00
 
-14, 00
+14,00
 
-1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710
-ouvre droit à la réduction de taxe intérieure de consommation mentionnée au
-tableau du 1.
+1 bis. Abrogé.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les
 unités de production des esters méthyliques d'huile végétale ou d'huile animale,

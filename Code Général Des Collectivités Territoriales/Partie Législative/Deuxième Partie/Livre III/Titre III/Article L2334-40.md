@@ -10,7 +10,8 @@ de loi de finances.A compter de 2006, la dotation de développement rural
 comporte deux parts. En 2006, le montant de la première part est fixé à 104 370
 000 euros et celui de la seconde part à 20 000 000 euros. A compter de 2007, le
 montant des deux parts est fixé par application du taux de croissance défini
-ci-dessus. A titre dérogatoire, cette évolution ne s'applique pas en 2009.
+ci-dessus. A titre dérogatoire, cette évolution ne s'applique pas en 2009 ni en
+2010.
 
 Bénéficient de la première et de la seconde part de la dotation de développement
 rural les groupements de communes à fiscalité propre exerçant une compétence en

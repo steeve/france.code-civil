@@ -4,17 +4,16 @@ Article 283
 réalisent les opérations imposables, sous réserve des cas visés aux articles 274
 à 277 A où le versement de la taxe peut être suspendu.
 
-Toutefois, lorsque la livraison de biens ou la prestation de services est
-effectuée par un assujetti établi hors de France, la taxe est acquittée par
-l'acquéreur, le destinataire ou le preneur qui dispose d'un numéro
-d'identification à la taxe sur la valeur ajoutée en France. Le montant dû est
-identifié sur la déclaration mentionnée à l'article 287.
+Toutefois, lorsqu'une livraison de biens ou une prestation de services
+mentionnée à l'article 259 A est effectuée par un assujetti établi hors de
+France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui
+agit en tant qu'assujetti et qui dispose d'un numéro d'identification à la taxe
+sur la valeur ajoutée en France. Le montant dû est identifié sur la déclaration
+mentionnée à l'article 287.
 
-2. Pour les opérations imposables mentionnées aux 3°, 4° bis, 5° et 6° de
-l'article 259 A et réalisées par un prestataire établi hors de France, ainsi que
-pour celles qui sont mentionnées à l'article 259 B, la taxe doit être acquittée
-par le preneur. Toutefois, le prestataire est solidairement tenu avec ce dernier
-au paiement de la taxe.
+2. Lorsque les prestations mentionnées au 1° de l'article 259 sont fournies par
+un assujetti qui n'est pas établi en France, la taxe doit être acquittée par le
+preneur.
 
 2 bis. Pour les acquisitions intracommunautaires de biens imposables mentionnées
 à l'article 258 C, la taxe doit être acquittée par l'acquéreur. Toutefois, le
@@ -48,11 +47,12 @@ l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit p
 être acquitté effectivement par l'acheteur, la taxe est due par la personne qui
 l'a facturée.
 
-4 bis L'assujetti en faveur duquel a été effectuée une livraison de biens et qui
-savait ou ne pouvait ignorer que tout ou partie de la taxe sur la valeur ajoutée
-due sur cette livraison ou sur toute livraison antérieure des mêmes biens ne
-serait pas reversée de manière frauduleuse est solidairement tenu, avec la
-personne redevable, d'acquitter cette taxe.
+4 bis L'assujetti en faveur duquel a été effectuée une livraison de biens ou une
+prestation de services et qui savait ou ne pouvait ignorer que tout ou partie de
+la taxe sur la valeur ajoutée due sur cette livraison ou sur toute livraison
+antérieure des mêmes biens, ou sur cette prestation ou toute prestation
+antérieure des mêmes services, ne serait pas reversée de manière frauduleuse est
+solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
 
 Les dispositions du premier alinéa et celles prévues au 3 de l'article 272 ne
 peuvent pas être cumulativement mises en oeuvre pour un même bien.

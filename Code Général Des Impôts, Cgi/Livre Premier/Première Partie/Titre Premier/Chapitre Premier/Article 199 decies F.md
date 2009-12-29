@@ -24,6 +24,10 @@ périmètre d'une opération de réhabilitation de l'immobilier de loisir défin
 l'article L. 318-5 du code de l'urbanisme, qui est destiné à la location dont le
 produit est imposé dans la catégorie des revenus fonciers.
 
+Pour les logements visés aux a et c, l'indexation d'une part minoritaire du
+loyer sur le chiffre d'affaires ne fait pas obstacle à l'imposition dans la
+catégorie des revenus fonciers.
+
 2. La réduction d'impôt est accordée au titre de l'année du paiement des
 dépenses de travaux. Les dispositions du 5 du I de l'article 197 sont
 applicables.
@@ -57,13 +61,27 @@ Pour les logements mentionnés au b du 1, le propriétaire doit s'engager à les
 louer meublés à des personnes physiques à raison de douze semaines au minimum
 par année et pendant les neuf années suivant celle de l'achèvement des travaux.
 
-En cas de non-respect de l'engagement ou de cession du logement, la réduction
-pratiquée fait l'objet d'une reprise au titre de l'année de la rupture de
-l'engagement ou de celle de la cession. Toutefois, en cas d'invalidité
-correspondant au classement dans la deuxième ou la troisième des catégories
-prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou
-de décès du contribuable ou de l'un des époux soumis à imposition commune, la
-réduction d'impôt n'est pas reprise.
+En cas de cession du logement, la réduction pratiquée fait l'objet d'une reprise
+au titre de l'année de la cession. En cas de rupture de l'engagement de location
+pendant une durée supérieure à douze mois en cas de liquidation judiciaire de
+l'exploitant, de résiliation ou de cession du bail commercial par l'exploitant,
+ou de mise en œuvre par les propriétaires du bénéfice de la clause contractuelle
+prévoyant la résiliation du contrat à défaut de paiement du loyer par
+l'exploitant, la réduction d'impôt fait l'objet d'une reprise pour le tiers de
+son montant au titre de l'année de la rupture de l'engagement de location et de
+chacune des deux années suivantes. Toutefois, en cas d'invalidité correspondant
+au classement dans la deuxième ou la troisième des catégories prévues à
+l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de décès
+du contribuable ou de l'un des époux soumis à imposition commune, la réduction
+d'impôt n'est pas reprise.
+
+La réduction pratiquée ne fait pas l'objet d'une reprise si les copropriétaires
+substituent au gestionnaire défaillant de la résidence de tourisme une ou un
+ensemble d'entreprises qui assurent les mêmes prestations sur la période de
+location restant à couvrir conformément aux prescriptions légales, dans des
+conditions fixées par décret. Cette faculté leur est ouverte dès lors que la
+candidature d'un autre gestionnaire n'a pu être retenue après un délai d'un an
+et qu'ils détiennent au moins 50 % des appartements de la résidence.
 
 5. La réduction d'impôt n'est pas applicable au titre des logements dont le
 droit de propriété est démembré. Le contribuable qui demande le bénéfice de la

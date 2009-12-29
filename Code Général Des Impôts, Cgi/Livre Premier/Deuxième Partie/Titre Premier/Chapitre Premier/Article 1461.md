@@ -1,6 +1,6 @@
 Article 1461
 ----
-Sont exonérés de la taxe professionnelle :
+Sont exonérés de la cotisation foncière des entreprises :
 
 1° Les organismes qui bénéficient de l'exonération prévue au 2 de l'article 207
 au cours de la période de référence mentionnée à l'article 1467 A pour leurs
@@ -12,10 +12,7 @@ activités de gestion des contrats mentionnés aux 1° et 2° du 2 de l'article 
 3° Les offices publics de l'habitat, pour les opérations faites en application
 de la législation sur les habitations à loyer modéré ;
 
-4° Les sociétés de bains-douches, les sociétés de jardins ouvriers et, jusqu'au
-31 décembre 2000, les sociétés de crédit immobilier mentionnées au 4° ter du 1
-de l'article 207 constituées et fonctionnant conformément aux dispositions
-législatives et réglementaires qui les régissent ;
+4° Les sociétés de bains-douches et les sociétés de jardins ouvriers ;
 
 5° Les organismes de jardins familiaux définis à l'article L. 561-2 du code
 rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des
@@ -40,5 +37,5 @@ régie par le titre II du livre IX du code de la sécurité sociale, soit au moi
 une association ou un groupement d'intérêt économique comptant parmi ses membres
 au moins une telle fédération ou institution, pour leurs seules opérations de
 gestion et d'administration réalisées pour le compte de leurs membres qui ne
-sont pas dans le champ d'application de la taxe professionnelle en application
-du I de l'article 1447.
+sont pas dans le champ d'application de la cotisation foncière des entreprises
+en application du I de l'article 1447.

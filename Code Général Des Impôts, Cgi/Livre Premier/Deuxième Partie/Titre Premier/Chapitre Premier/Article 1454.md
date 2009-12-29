@@ -1,10 +1,10 @@
 Article 1454
 ----
-Sont exonérées de la taxe professionnelle, les sociétés coopératives et unions
-de sociétés coopératives d'artisans de même que les sociétés coopératives et
-unions de sociétés coopératives de patrons bateliers, lorsque ces différents
-organismes sont constitués et fonctionnent conformément aux dispositions
-législatives et réglementaires qui les régissent.
+Sont exonérées de la cotisation foncière des entreprises, les sociétés
+coopératives et unions de sociétés coopératives d'artisans de même que les
+sociétés coopératives et unions de sociétés coopératives de patrons bateliers,
+lorsque ces différents organismes sont constitués et fonctionnent conformément
+aux dispositions législatives et réglementaires qui les régissent.
 
 L'exonération prévue au premier alinéa n'est pas applicable aux sociétés
 coopératives et unions de sociétés coopératives dont les parts sont admises aux

@@ -17,10 +17,10 @@ compter du 1er janvier 1993 :
 
 1° A 4 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de
 boucherie et de charcuterie définis par décret, ainsi que les céréales, les
-graines oléagineuses et les protéagineux mentionnés à l'annexe IX du règlement
-(CE) n° 1782 / 2003 du Conseil du 29 septembre 2003.
+graines oléagineuses et les protéagineux mentionnés à l'annexe I du règlement
+(CE) n° 73/2009 du Conseil du 19 janvier 2009.
 
-2° A 3,05 % pour les autres produits.
+2° A 3, 05 % pour les autres produits.
 
 I ter. 1. Périmé
 

@@ -2,8 +2,8 @@ Article 1788 A
 ----
 1. Entraîne l'application d'une amende de 750 euros :
 
-a. Le défaut de production dans les délais de la déclaration prévue à l'article
-289 C.
+a. Le défaut de production dans les délais des déclarations prévues aux articles
+289 B et 289 C.
 
 L'amende est portée à 1 500 euros à défaut de production de la déclaration dans
 les trente jours d'une mise en demeure ;
@@ -14,8 +14,8 @@ au III de l'article 277 A.
 
 2. Entraîne l'application d'une amende de 15 euros :
 
-a. Chaque omission ou inexactitude relevée dans la déclaration prévue à
-l'article 289 C ; cette amende est plafonnée à 1 500 euros ;
+a. Chaque omission ou inexactitude relevée dans les déclarations prévues aux
+articles 289 B et 289 C ; cette amende est plafonnée à 1 500 euros ;
 
 b. Chaque omission ou inexactitude relevée dans les renseignements devant
 figurer sur les registres prévus au 1° du III de l'article 277 A.

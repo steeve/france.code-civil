@@ -74,15 +74,15 @@ restructuration de la défense.
 Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone de
 restructuration de la défense, le bénéfice exonéré est déterminé en affectant le
 montant résultant du calcul ainsi effectué du rapport entre, d'une part, la
-somme des éléments d'imposition à la taxe professionnelle définis à l'article
-1467, à l'exception de la valeur locative des moyens de transport, afférents à
-l'activité exercée dans une zone de restructuration de la défense et relatifs à
-la période d'imposition des bénéfices et, d'autre part, la somme des éléments
-d'imposition à la taxe professionnelle du contribuable définis au même article
-pour ladite période. Pour la fixation de ce rapport, la valeur locative des
-immobilisations passibles d'une taxe foncière est celle déterminée conformément
-à l'article 1467 au 1er janvier de l'année au cours de laquelle est clos
-l'exercice ou au 1er janvier de l'année d'imposition des bénéfices.
+somme des éléments d'imposition à la cotisation foncière des entreprises définis
+à l'article 1467 afférents à l'activité exercée dans une zone de restructuration
+de la défense et relatifs à la période d'imposition des bénéfices et, d'autre
+part, la somme des éléments d'imposition à la cotisation foncière des
+entreprises du contribuable définis au même article pour ladite période. Pour la
+fixation de ce rapport, la valeur locative des immobilisations passibles d'une
+taxe foncière est celle déterminée conformément à l'article 1467 au 1er janvier
+de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année
+d'imposition des bénéfices.
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de
 location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls

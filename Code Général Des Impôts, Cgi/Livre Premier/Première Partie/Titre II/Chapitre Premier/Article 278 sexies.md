@@ -116,12 +116,13 @@ du même code.
 257, à usage de résidence principale, destinés à des personnes physiques dont
 les ressources, à la date de signature de l'avant-contrat ou du contrat
 préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant
-pour objet la construction du logement, ne dépassent pas de plus de 30 % les
-plafonds de ressources prévus à l'article L. 441-1 du code de la construction et
-de l'habitation et situés dans des quartiers faisant l'objet d'une convention
-prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de
-programmation pour la ville et la rénovation urbaine ou entièrement situés à une
-distance de moins de 500 mètres de la limite de ces quartiers.
+pour objet la construction du logement, ne dépassent pas les plafonds prévus à
+la première phrase du huitième alinéa de l'article L. 411-2 du code de la
+construction et de l'habitation et situés dans des quartiers faisant l'objet
+d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine ou
+entièrement situés à une distance de moins de 500 mètres de la limite de ces
+quartiers.
 
 7. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières
 d'accession progressive à la propriété effectués dans les conditions prévues aux

@@ -10,14 +10,18 @@ un quota d'investissement de 50 %. Le montant de cette amende est toutefois
 limité à la moitié du montant des sommes qui lui sont dues par le fonds au titre
 des frais de gestion pour l'exercice concerné.
 
-Lorsque l'administration établit qu'un fonds commun d'investissements dans
-l'innovation ou qu'un fonds d'investissements de proximité n'a pas respecté son
-quota d'investissement prévu au I de l'article L. 214-41 du code monétaire et
-financier et au 1 de l'article L. 214-41-1 du même code, la société de gestion
-du fonds est redevable d'une amende égale à 20 % du montant des investissements
-qui permettraient d'atteindre un quota d'investissement de 60 %. Le montant de
-cette amende est toutefois limité à la moitié du montant des sommes qui lui sont
-dues par le fonds au titre des frais de gestion pour l'exercice concerné.
+Lorsque l'administration établit qu'un fonds commun de placement dans
+l'innovation ou qu'un fonds d'investissement de proximité n'a pas respecté, dans
+les délais prévus aux VI à VI ter de l'article 199 terdecies-0 A lorsque leurs
+porteurs de parts bénéficient de la réduction d'impôt sur le revenu prévue à ce
+même article, son quota d'investissement prévu, selon le cas, au I de l'article
+L. 214-41 du code monétaire et financier, au 1 de l'article L. 214-41-1 du même
+code ou au VI ter de l'article 199 terdecies-0 A du présent code, la société de
+gestion du fonds est redevable d'une amende égale à 20 % du montant des
+investissements qui permettraient d'atteindre, selon le cas, la moitié au moins
+ou la totalité du quota d'investissement de 60 %. Le montant de cette amende est
+toutefois limité à la moitié du montant des sommes qui lui sont dues par le
+fonds au titre des frais de gestion pour l'exercice concerné.
 
 L'amende prévue aux précédents alinéas est exclusive de l'amende prévue à
 l'article 1763 B. Le montant de l'amende prévue aux précédents alinéas est
@@ -29,11 +33,30 @@ d'investissement n'a pas été respecté.
 
 Lorsque l'administration établit qu'un fonds commun d'investissement de
 proximité ou un fonds commun de placement dans l'innovation ou un fonds commun
-de placement à risques n'a pas respecté son quota d'investissement susceptible
-de faire bénéficier ses porteurs de l'avantage fiscal prévu à l'article 885-0 V
-bis, la société de gestion du fonds est redevable d'une amende égale à 20 % du
-montant des investissements qui permettraient d'atteindre le pourcentage
-initialement fixé de son actif en titres de sociétés éligibles. Le montant de
-cette amende est toutefois limité à la moitié du montant des sommes qui lui sont
-dues par le fonds au titre des frais de gestion pour l'exercice au titre duquel
-le manquement est constaté.
+de placement à risques n'a pas respecté, dans les délais prévus au c du 1 du III
+de l'article 885-0 V bis, ses quotas d'investissement susceptibles de faire
+bénéficier les porteurs de parts de l'avantage fiscal prévu au même article, la
+société de gestion du fonds est redevable d'une amende égale à 20 % du montant
+des investissements qui permettraient d'atteindre, selon le cas, 50 % ou 100 %
+de ces quotas. Le montant de cette amende ou, le cas échéant, de ces amendes est
+toutefois limité à la moitié du montant des sommes qui lui sont dues par le
+fonds au titre des frais de gestion pour l'exercice au titre duquel le
+manquement est constaté.
+
+Lorsque l'administration établit qu'une société ne respecte pas les obligations
+établies au dernier alinéa du 3 du I de l'article 885-0 V bis, la société est
+redevable d'une amende égale à 1 % du montant de la souscription qui a ouvert
+droit, pour chaque souscripteur, à la réduction d'impôt prévue par le 1 du I de
+l'article 885-0 V bis, pour l'exercice concerné. Le montant de cette amende est
+toutefois limité à la moitié du montant des sommes qui lui sont dues au titre
+des frais de gestion pour l'exercice concerné.
+
+Lorsque l'administration établit qu'un fonds d'investissement de proximité, un
+fonds commun de placement dans l'innovation ou un fonds commun de placement à
+risques ne respecte pas les obligations établies au dernier alinéa du 1 du III
+de l'article 885-0 V bis, le fonds est redevable d'une amende égale à 1 % du
+montant de la souscription qui a ouvert droit, pour chaque souscripteur, à la
+réduction d'impôt prévue par le 1 du III de l'article 885-0 V bis, pour
+l'exercice concerné. Le montant de cette amende est toutefois limité à la moitié
+du montant des sommes qui lui sont dues au titre des frais de gestion pour
+l'exercice concerné.

@@ -75,7 +75,17 @@ d) La société a exclusivement pour mandataires sociaux des personnes physiques
 
 e) La société n'accorde aucune garantie en capital à ses associés ou
 actionnaires en contrepartie de leurs souscriptions ni aucun mécanisme
-automatique de sortie au terme de cinq ans.
+automatique de sortie au terme de cinq ans ;
+
+f) La société communique à chaque investisseur, avant la souscription de ses
+titres, un document d'information précisant notamment la période de conservation
+des titres pour bénéficier de l'avantage fiscal visé au 1, les modalités prévues
+pour assurer la liquidité de l'investissement au terme de la durée de blocage,
+les risques générés par l'investissement et la politique de diversification des
+risques, les règles d'organisation et de prévention des conflits d'intérêts, les
+modalités de calcul et la décomposition de tous les frais et commissions,
+directs et indirects, et le nom du ou des prestataires de services
+d'investissement chargés du placement des titres.
 
 Le montant des versements effectués au titre de la souscription par le redevable
 est pris en compte pour l'assiette de l'avantage fiscal dans la limite de la
@@ -95,6 +105,11 @@ de l'augmentation de capital auquel le redevable a souscrit ;
 premier alinéa au titre de la constitution du capital initial ou de
 l'augmentation de capital auquel le redevable a souscrit au cours de l'une des
 périodes mentionnée au numérateur.
+
+Un décret fixe les conditions dans lesquelles les investisseurs sont informés
+annuellement du montant détaillé des frais et commissions mentionnés au f et
+encadre ceux relatifs à la commercialisation et au placement des actions de la
+société mentionnée au premier alinéa.
 
 II.-1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la
 conservation par le redevable des titres reçus en contrepartie de sa
@@ -123,7 +138,7 @@ du 1 du II en cas de cession stipulée obligatoire par un pacte d'associés ou
 d'actionnaires, l'avantage fiscal mentionné au I accordé au titre de l'année en
 cours et de celles précédant ces opérations n'est pas non plus remis en cause si
 le prix de vente des titres cédés est intégralement réinvesti par un actionnaire
-minoritaire, dans un délai maximum de six mois à compter de la cession, en
+minoritaire, dans un délai maximum de douze mois à compter de la cession, en
 souscription de titres de sociétés satisfaisant aux conditions mentionnées au 1
 du I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même
 terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal
@@ -161,13 +176,25 @@ parts du fonds ;
 
 c) Le fonds doit respecter le pourcentage initialement fixé de son actif investi
 en titres reçus en contrepartie de souscriptions au capital de sociétés
-vérifiant les conditions prévues au 1 du I.
+vérifiant les conditions prévues au 1 du I. Si le fonds n'a pas pour objet
+d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes
+définies à l'article 44 sexies-0 A, ce pourcentage doit être atteint à hauteur
+de 50 % au moins au plus tard huit mois à compter de la date de clôture de la
+période de souscription fixée dans le prospectus complet du fonds, laquelle ne
+peut excéder huit mois à compter de la date de constitution du fonds, ou huit
+mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de
+finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du
+huitième mois suivant. Il en est de même des pourcentages de 20 % ou 40 %, selon
+le cas, mentionnés au premier alinéa du présent 1.
 
 Les versements servant de base au calcul de l'avantage fiscal sont ceux retenus
 après imputation de l'ensemble des frais et commissions et dans la limite du
 pourcentage initialement fixé de l'actif du fonds investi en titres reçus en
 contrepartie de souscriptions au capital de sociétés vérifiant les conditions
-prévues au 1 du I.
+prévues au 1 du I. Un décret fixe les conditions dans lesquelles les porteurs de
+parts sont informés annuellement du montant détaillé des frais et commissions
+qu'ils supportent et encadre les conditions de rémunération des opérateurs
+assurant la commercialisation des parts du fonds.
 
 2.L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le
 redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus

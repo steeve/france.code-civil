@@ -1,103 +1,92 @@
 Article 259 A
 ----
-Par dérogation aux dispositions de l'article 259, le lieu des prestations
-suivantes est réputé se situer en France :
+Par dérogation à l'article 259, est situé en France le lieu des prestations de
+services suivantes :
 
-1° Les locations de moyens de transport (1) :
+1° Les locations de moyens de transport lorsqu'elles sont de courte durée et que
+le moyen de transport est effectivement mis à la disposition du preneur en
+France.
 
-a. Lorsque le prestataire est établi en France et le bien utilisé en France ou
-dans un autre Etat membre de la Communauté ;
+La location de courte durée s'entend de la possession ou de l'utilisation
+continue du moyen de transport pendant une période ne dépassant pas trente jours
+ou, dans le cas d'un moyen de transport maritime, quatre-vingt-dix jours ;
 
-b. Lorsque le prestataire est établi en dehors de la Communauté européenne et le
-bien utilisé en France ;
+2° Les prestations de services se rattachant à un bien immeuble situé en France,
+y compris les prestations d'experts et d'agents immobiliers, la fourniture de
+logements dans le cadre du secteur hôtelier ou de secteurs ayant une fonction
+similaire tels que des camps de vacances ou des sites aménagés pour camper,
+l'octroi de droits d'utilisation d'un bien immeuble et les prestations tendant à
+préparer ou à coordonner l'exécution de travaux immobiliers, telles que celles
+fournies par les architectes et les entreprises qui surveillent l'exécution des
+travaux ;
 
-1° bis Par dérogation au 1°, les locations de moyens de transport en vertu d'un
-contrat de crédit-bail lorsque :
+3° Les prestations de transport intracommunautaire de biens effectuées pour des
+personnes non assujetties lorsque le lieu de départ du transport est en France.
 
-a. Le prestataire est établi dans un Etat membre de la Communauté où l'opération
-de crédit-bail est assimilée à une livraison ;
+On entend par transport intracommunautaire de biens, tout transport de biens
+dont le lieu de départ et le lieu d'arrivée sont situés sur les territoires de
+deux Etats membres différents.
 
-b. Le preneur a en France le siège de son activité ou un établissement stable
-pour lequel le service est rendu, ou y a son domicile ou sa résidence habituelle
-;
+On entend par lieu de départ, le lieu où commence effectivement le transport des
+biens, sans tenir compte des trajets effectués pour se rendre au lieu où se
+trouvent les biens, et par lieu d'arrivée, le lieu où s'achève effectivement le
+transport des biens ;
 
-c. Le bien est utilisé en France ou dans un autre Etat membre de la Communauté ;
-
-2° Les prestations de services se rattachant à un immeuble situé en France, y
-compris les prestations tendant à préparer ou à coordonner l'exécution de
-travaux immobiliers et les prestations des agents immobiliers ou des experts ;
-
-3° Les prestations de transports intracommunautaires de biens meubles corporels
-ainsi que les prestations de services effectuées par les intermédiaires qui
-agissent au nom et pour le compte d'autrui et interviennent dans la fourniture
-de ces prestations :
-
-a) Lorsque le lieu de départ se trouve en France, sauf si le preneur a fourni au
-prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un
-autre Etat membre ;
-
-b) Lorsque le lieu de départ se trouve dans un autre Etat membre de la
-Communauté européenne et que le preneur a fourni au prestataire son numéro
-d'identification à la taxe sur la valeur ajoutée en France.
-
-Sont considérés comme transports intracommunautaires de biens les transports
-dont le lieu de départ et le lieu d'arrivée se trouvent dans deux Etats membres
-de la Communauté européenne.
-
-Sont assimilés à des transports intracommunautaires de biens les transports de
-biens, dont le lieu de départ et le lieu d'arrivée se trouvent en France,
-lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
-
-3° bis Les prestations de transport, autres que les transports
-intracommunautaires de biens meubles corporels, pour la distance parcourue en
+4° Les prestations de transport de biens effectuées pour des personnes non
+assujetties autres que les transports intracommunautaires de biens et les
+prestations de transport de passagers, en fonction des distances parcourues en
 France ;
 
-4° Les prestations ci-après lorsqu'elles sont matériellement exécutées en France
-:
+5° Lorsqu'elles sont matériellement exécutées ou exercées en France :
 
-a. prestations culturelles, artistiques, sportives, scientifiques, éducatives,
-récréatives et prestations accessoires ainsi que leur organisation ;
+a) Les prestations de services ayant pour objet des activités culturelles,
+artistiques, sportives, scientifiques, éducatives, de divertissement ou
+similaires, telles que les foires et les expositions, y compris les prestations
+de services des organisateurs de telles activités, ainsi que les prestations de
+services accessoires à ces activités ;
 
-b. (Abrogé à compter du 1er janvier 1996) ;
+b) Les ventes à consommer sur place ;
 
-c. opérations d'hébergement et ventes à consommer sur place ;
+c) Sont réputées effectuées en France les ventes à consommer sur place
+lorsqu'elles sont réalisées matériellement à bord de navires, d'aéronefs ou de
+trains au cours de la partie d'un transport de passagers effectuée à l'intérieur
+de la Communauté européenne et que le lieu de départ du transport de passagers
+est situé en France.
 
-d. Prestations accessoires aux transports autres que les transports
-intracommunautaires de biens meubles corporels.
+On entend par partie d'un transport de passagers effectuée à l'intérieur de la
+Communauté, la partie d'un transport effectuée sans escale en dehors de la
+Communauté européenne, entre le lieu de départ et le lieu d'arrivée du transport
+de passagers.
 
-4° bis Travaux et expertises portant sur des biens meubles corporels :
+On entend par lieu de départ d'un transport de passagers, le premier point
+d'embarquement de passagers prévu dans la Communauté européenne, le cas échéant
+après escale en dehors de la Communauté européenne.
 
-a. lorsque ces prestations sont matériellement exécutées en France, sauf si le
-preneur a fourni au prestataire son numéro d'identification à la taxe sur la
-valeur ajoutée dans un autre Etat membre de la Communauté européenne et si les
-biens sont expédiés ou transportés hors de France ;
+On entend par lieu d'arrivée d'un transport de passagers, le dernier point de
+débarquement, prévu dans la Communauté européenne, pour des passagers ayant
+embarqué dans la Communauté européenne, le cas échéant avant escale en dehors de
+la Communauté européenne.
 
-b. lorsque ces prestations sont matériellement exécutées dans un autre Etat
-membre de la Communauté européenne et que le preneur a fourni au prestataire son
-numéro d'identification à la taxe sur la valeur ajoutée en France, sauf si les
-biens ne sont pas expédiés ou transportés en dehors de cet Etat ;
+Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme
+un transport distinct ;
 
-5° Les prestations accessoires aux transports intracommunautaires de biens
-meubles corporels, ainsi que les prestations de services effectuées par les
-intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent
-dans la fourniture de ces prestations :
+6° Lorsqu'elles sont matériellement exécutées en France au profit d'une personne
+non assujettie :
 
-a) Lorsqu'elles sont matériellement exécutées en France, sauf si le preneur a
-fourni au prestataire son numéro d'identification à la taxe sur la valeur
-ajoutée dans un autre Etat membre ;
+a) Les activités accessoires au transport, telles que le chargement, le
+déchargement, la manutention et les activités similaires ;
 
-b) Lorsqu'elles sont matériellement exécutées dans un autre Etat membre de la
-Communauté européenne et que le preneur a fourni au prestataire son numéro
-d'identification à la taxe sur la valeur ajoutée en France ;
+b) Les expertises ou les travaux portant sur des biens meubles corporels ;
 
-6° Les prestations des intermédiaires qui agissent au nom et pour le compte
-d'autrui et interviennent dans des opérations autres que celles qui sont
-désignées au 3° et au 5° du présent article et à l'article 259 B :
+7° Les prestations de services fournies à une personne non assujettie par un
+intermédiaire agissant au nom et pour le compte d'autrui lorsque le lieu de
+l'opération principale est situé en France ;
 
-a) Lorsque le lieu de ces opérations est situé en France, sauf si le preneur a
-fourni au prestataire son numéro d'identification à la taxe sur la valeur
-ajoutée dans un autre Etat membre ;
+8° La prestation de services unique d'une agence de voyages lorsqu'elle a en
+France le siège de son activité économique ou un établissement stable à partir
+duquel elle a fourni cette prestation.
 
-b) Lorsque le lieu de ces opérations est situé sur le territoire d'un autre Etat
-membre de la Communauté européenne, si le preneur a donné au prestataire son
-numéro d'identification à la taxe sur la valeur ajoutée en France.
+L'agence de voyages réalise une prestation de services unique lorsqu'elle agit,
+en son propre nom, à l'égard du client et utilise, pour la réalisation du
+voyage, des livraisons de biens et des prestations de services d'autres
+assujettis.

@@ -3,11 +3,17 @@ Article 1383 G
 Les collectivités territoriales et les établissements publics de coopération
 intercommunale dotés d'une fiscalité propre peuvent, par une délibération prise
 dans les conditions prévues au I de l'article 1639 A bis, exonérer de taxe
-foncière sur les propriétés bâties, à concurrence de 25 % ou de 50 %, les
+foncière sur les propriétés bâties, à concurrence de 15 % ou de 30 %, les
 constructions affectées à l'habitation achevées antérieurement à la mise en
 place d'un plan de prévention des risques technologiques mentionné à l'article
 L. 515-15 du code de l'environnement et situées dans le périmètre d'exposition
-aux risques prévu par le plan.
+aux risques prévu par le plan. L'exonération est majorée, le cas échéant, de 15
+% pour les constructions affectées à l'habitation situées à l'intérieur des
+secteurs définis au II de l'article L. 515-16 du code de l'environnement,
+lorsque de tels secteurs sont délimités par le plan. Elle est majorée de 30 %,
+le cas échéant, pour les constructions affectées à l'habitation situées à
+l'intérieur des secteurs définis au III de l'article L. 515-16 du même code,
+lorsque de tels secteurs sont délimités par le plan.
 
 La délibération porte sur la part revenant à chaque collectivité territoriale ou
 établissement public de coopération intercommunale à fiscalité propre et fixe un

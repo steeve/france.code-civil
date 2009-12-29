@@ -6,6 +6,10 @@ Peuvent également être agréés :
 
 a) Les associations intermédiaires ;
 
+a bis) Les régies de quartiers. Un décret définit les conditions de leur
+agrément et de la dérogation à la clause d'activité exclusive dont elles
+bénéficient ;
+
 b) Les communes, les centres communaux ou intercommunaux d'action sociale, les
 établissements publics de coopération intercommunale compétents ;
 

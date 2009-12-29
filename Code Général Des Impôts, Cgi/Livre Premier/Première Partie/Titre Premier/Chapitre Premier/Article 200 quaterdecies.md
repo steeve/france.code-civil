@@ -21,7 +21,7 @@ acquis neuf, en l'état futur d'achèvement ou que le contribuable fait construi
 doit présenter des caractéristiques thermiques et une performance énergétique
 conformes aux prescriptions de l'article L. 111-9 du code de la construction et
 de l'habitation. Le contribuable justifie du respect de cette dernière condition
-selon des modalités définies par décret (1).
+selon des modalités définies par décret.
 
 II.-Le I ne s'applique pas aux intérêts des prêts affectés :
 
@@ -29,7 +29,7 @@ II.-Le I ne s'applique pas aux intérêts des prêts affectés :
 Toutefois, les intérêts des emprunts souscrits pour se substituer aux prêts
 mentionnés au I ou rembourser ceux-ci ouvrent droit au crédit d'impôt, dans la
 limite des intérêts qui figurent sur les échéanciers des emprunts initiaux et de
-celles des annuités mentionnées au premier alinéa du III restant à courir ;
+celles des annuités mentionnées au III restant à courir ;
 
 2° A l'acquisition d'un logement par l'intermédiaire d'une société non soumise à
 l'impôt sur les sociétés, lorsque ce logement a antérieurement appartenu au
@@ -53,7 +53,7 @@ acquiert ou fait construire un logement neuf dont le niveau élevé de performan
 énergétique globale, déterminé dans des conditions fixées par décret et justifié
 par le bénéficiaire, est supérieur à celui qu'impose la législation en vigueur,
 les intérêts ouvrant droit au crédit d'impôt sont ceux payés au titre des sept
-premières annuités (2).
+premières annuités.
 
 IV.-Le montant des intérêts mentionnés au III ouvrant droit au crédit d'impôt ne
 peut excéder, au titre de chaque année d'imposition, la somme de 3 750 euros
@@ -74,8 +74,22 @@ dans la limite mentionnée au IV.
 Ce taux est porté à 40 % pour les intérêts payés au titre de la première annuité
 de remboursement.
 
-Le taux mentionné au premier alinéa est porté à 40 % lorsque l'acquisition ou la
-construction porte sur un logement mentionné au troisième alinéa du III (2).
+Toutefois, pour les logements acquis neufs, en l'état futur d'achèvement ou que
+le contribuable fait construire :
+
+1° Lorsque l'acquisition ou la construction porte sur un logement mentionné au
+dernier alinéa du III, le taux mentionné au premier alinéa du présent V est
+porté à 40 % ;
+
+2° Lorsque l'acquisition ou la construction porte sur un logement autre que
+celui visé au 1°, les taux mentionnés aux premier et deuxième alinéas sont
+respectivement ramenés à :
+
+- 15 % et 30 % pour les logements acquis ou construits en 2010 ;
+
+- 10 % et 25 % pour les logements acquis ou construits en 2011 ;
+
+- 5 % et 15 % pour les logements acquis ou construits en 2012.
 
 VI.-Le I s'applique à la condition que le logement faisant l'objet du prêt soit,
 à la date de paiement des intérêts, affecté à l'usage d'habitation principale du

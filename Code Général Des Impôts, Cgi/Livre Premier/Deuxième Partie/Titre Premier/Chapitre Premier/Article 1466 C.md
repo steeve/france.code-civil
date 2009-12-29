@@ -5,11 +5,11 @@ coopération intercommunale dotés d'une fiscalité propre prise dans les
 conditions prévues au I de l'article 1639 A bis, les entreprises mentionnées au
 deuxième alinéa de l'article 1465 B, exerçant une activité industrielle,
 commerciale ou artisanale au sens de l'article 34, quel que soit leur régime
-d'imposition, sont exonérées de taxe professionnelle sur la valeur locative des
-immobilisations corporelles afférentes aux créations d'établissement et aux
-augmentations de bases relatives à ces immobilisations financées sans aide
-publique pour 25 % au moins de leur montant, intervenues en Corse à compter du
-1er janvier 2002.
+d'imposition, sont exonérées de cotisation foncière des entreprises sur la
+valeur locative des immobilisations corporelles afférentes aux créations
+d'établissement et aux augmentations de bases relatives à ces immobilisations
+financées sans aide publique pour 25 % au moins de leur montant, intervenues en
+Corse à compter du 1er janvier 2002.
 
 Toutefois n'ouvrent pas droit au bénéfice de l'exonération les activités
 exercées dans l'un des secteurs suivants : production et transformation de
@@ -50,13 +50,12 @@ L'agrément mentionné au septième alinéa est accordé si l'octroi de l'exoné
 dont bénéficierait l'entreprise n'altère pas les échanges dans une mesure
 contraire à l'intérêt commun.
 
-II.-Pour l'application du I, il n'est pas tenu compte des bases d'imposition
-résultant des transferts d'immobilisations à l'intérieur de la Corse.
+II (Abrogé)
 
-III.-La diminution des bases de taxe professionnelle résultant du I n'est pas
-prise en compte pour l'application des dispositions de l'article 1647 bis. Les
-dispositions du I s'appliquent après celles prévues aux articles 1464 A, 1464 E
-et 1464 F.
+III.-La diminution des bases de cotisation foncière des entreprises résultant du
+I n'est pas prise en compte pour l'application des dispositions de l'article
+1647 bis. Les dispositions du I s'appliquent après celles prévues aux articles
+1464 A, 1464 E et 1464 F.
 
 IV.-Pour bénéficier des dispositions du présent article, les entreprises
 déclarent chaque année, dans les conditions prévues par l'article 1477, les
@@ -70,5 +69,5 @@ bénéficier de l'une des exonérations mentionnées aux articles 1464 B, 1465, 
 A, 1465 B et 1466 A et celles du présent article, le contribuable doit préciser
 le régime sous lequel il entend se placer. Ce choix, qui est irrévocable, doit
 être exercé, selon le cas, dans le délai prévu pour le dépôt de la déclaration
-annuelle ou de la déclaration provisoire de taxe professionnelle visée à
-l'article 1477.
+annuelle ou de la déclaration provisoire de cotisation foncière des entreprises
+visée à l'article 1477.

@@ -1,6 +1,6 @@
 Article 1455
 ----
-Sont exonérés de la taxe professionnelle :
+Sont exonérés de la cotisation foncière des entreprises :
 
 1° Les pêcheurs utilisant pour leur activité professionnelle un ou deux bateaux,
 même s'ils en sont propriétaires ;

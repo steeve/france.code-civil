@@ -1,11 +1,12 @@
 Article L2334-18-4
 ----
-En 2009, l'augmentation de la dotation, après répartition des attributions
-calculées en application des articles L. 2334-16 à L. 2334-18-2, bénéficie :
+En 2009 et en 2010, l'augmentation de la dotation, après répartition des
+attributions calculées en application des articles L. 2334-16 à L. 2334-18-2,
+bénéficie :
 
-1° Aux cent cinquante premières communes de 10 000 habitants et plus, classées
-en fonction de l'indice synthétique de ressources et de charges défini à
-l'article L. 2334-17 ;
+1° Aux deux cent cinquante premières communes de 10 000 habitants et plus,
+classées en fonction de l'indice synthétique de ressources et de charges défini
+à l'article L. 2334-17 ;
 
 2° Aux vingt premières communes dont la population est comprise entre 5 000 et 9
 999 habitants, classées en fonction de l'indice synthétique de ressources et de

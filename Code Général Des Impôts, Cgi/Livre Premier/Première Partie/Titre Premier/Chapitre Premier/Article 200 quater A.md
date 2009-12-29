@@ -6,22 +6,22 @@ principale du contribuable située en France. Il s'applique :
 a. Aux dépenses d'installation ou de remplacement d'équipements spécialement
 conçus pour les personnes âgées ou handicapées :
 
-1° Payés entre le 1er janvier 2005 et le 31 décembre 2009 dans le cadre de
+1° Payés entre le 1er janvier 2005 et le 31 décembre 2010 dans le cadre de
 travaux réalisés dans un logement achevé ;
 
 2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31
-décembre 2009 ;
+décembre 2010 ;
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre
-2009 ;
+2010 ;
 
-b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2009 pour la
+b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2010 pour la
 réalisation de travaux prescrits aux propriétaires d'habitation au titre du IV
 de l'article L. 515-16 du code de l'environnement ;
 
 c. Aux dépenses afférentes à un immeuble collectif achevé depuis plus de deux
-ans, payées entre le 1er janvier 2005 et le 31 décembre 2009, au titre de
+ans, payées entre le 1er janvier 2005 et le 31 décembre 2010, au titre de
 l'acquisition d'ascenseurs électriques à traction possédant un contrôle avec
 variation de fréquence.
 
@@ -35,12 +35,13 @@ du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° 
 si elle est postérieure.
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit
-d'impôt ne peut excéder, pour la période du 1er janvier 2005 au 31 décembre
-2009, la somme de 5 000 euros pour une personne célibataire, veuve ou divorcée
-et de 10 000 euros pour un couple marié soumis à imposition commune. Cette somme
-est majorée de 400 euros par personne à charge au sens des articles 196 à 196 B.
-La somme de 400 Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à
-charge égale de l'un et l'autre de ses parents.
+d'impôt ne peut excéder, au titre d'une période de cinq années consécutives
+comprises entre le 1er janvier 2005 et le 31 décembre 2010, la somme de 5 000
+euros pour une personne célibataire, veuve ou divorcée et de 10 000 euros pour
+un couple marié soumis à imposition commune. Cette somme est majorée de 400
+euros par personne à charge au sens des articles 196 à 196 B. La somme de 400
+Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
+l'un et l'autre de ses parents.
 
 5. Le crédit d'impôt est égal à :
 

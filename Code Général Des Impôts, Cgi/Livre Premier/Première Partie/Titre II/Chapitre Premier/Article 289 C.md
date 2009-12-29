@@ -4,8 +4,9 @@ Article 289 C
 l'objet de la déclaration périodique, prévue à l'article 5 du règlement (CE) n°
 638 / 2004 du Parlement européen et du Conseil, du 31 mars 2004.
 
-2.L'état récapitulatif des clients mentionné à l'article 289 B et la déclaration
-statistique périodique prévue au 1 font l'objet d'une déclaration unique.
+2.L'état récapitulatif des clients mentionné au II de l'article 289 B et la
+déclaration statistique périodique prévue au 1 font l'objet d'une déclaration
+unique.
 
 3. La déclaration visée au 2 peut être transmise par voie informatique. Les
 déclarants, utilisateurs de cette méthode de transmission, doivent respecter les

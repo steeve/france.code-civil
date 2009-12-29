@@ -76,7 +76,7 @@ Taux ≤ 150
 
 0
 
-0
+200
 
 200
 
@@ -88,7 +88,7 @@ Taux ≤ 150
 
 200
 
-200
+750
 
 750
 
@@ -124,7 +124,7 @@ Taux ≤ 150
 
 750
 
-750
+1600
 
 1 600
 
@@ -160,7 +160,7 @@ Taux ≤ 150
 
 1 600
 
-1 600
+2 600
 
 2 600
 
@@ -227,7 +227,7 @@ Puissance fiscale ≤ 7
 2 600
 
 Pour les véhicules introduits en France après avoir été immatriculés dans un
-autre pays, la taxe est réduite d'un dixième par année écoulée depuis cette
+autre pays, la taxe est réduite d'un dixième par année entamée depuis cette
 immatriculation.
 
 Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85

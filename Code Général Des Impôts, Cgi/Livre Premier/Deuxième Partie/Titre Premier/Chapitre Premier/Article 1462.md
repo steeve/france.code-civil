@@ -1,9 +1,9 @@
 Article 1462
 ----
-Sont exonérés de la taxe professionnelle :
+Sont exonérés de la cotisation foncière des entreprises :
 
 1° Les groupements d'emprunts de sinistrés constitués en application des
-dispositions des articles 44 à 49 de la loi n° 47-580 du 30 mars 1947;
+dispositions des articles 44 à 49 de la loi n° 47-580 du 30 mars 1947 ;
 
 2° Les associations de mutilés de guerre et d'anciens combattants reconnues
 d'utilité publique, qui émettent des participations à la loterie nationale avec

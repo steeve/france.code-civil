@@ -19,7 +19,13 @@ général des impôts, un prélèvement sur la fiscalité en application du 2 du
 de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre
 2002), la dotation de compensation versée à l'établissement est minorée du
 montant de ce prélèvement, actualisé chaque année selon le taux mentionné par le
-3° de l'article L. 2334-7.
+3° de l'article L. 2334-7. Lorsqu'une ou plusieurs de leurs communes membres
+subissait, l'année précédant la mise en œuvre des dispositions de l'article 1609
+nonies C du code général des impôts, en application du dernier alinéa de
+l'article L. 2334-7 du présent code, un prélèvement calculé selon les modalités
+prévues au 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009
+de finances pour 2010, la dotation de compensation versée à l'établissement est
+minorée du montant de ce prélèvement.
 
 Lorsque, à compter de 2005, le territoire d'un groupement de communes faisant
 application des dispositions de l'article 1609 nonies C du code général des
@@ -34,3 +40,9 @@ majorée, le cas échéant, en fonction de la part du prélèvement subi par cel
 en application du 1 du III de l'article 29 de la loi de finances pour 2003 (n°
 2002-1575 du 30 décembre 2002) qui a été calculée à partir des bases de taxe
 professionnelle de France Télécom des communes qui se retirent.
+
+En cas de retrait de communes, la dotation de compensation du groupement est
+majorée, le cas échéant, en fonction de la part du prélèvement subi par celui-ci
+en application du dernier alinéa du L. 2334-7 du présent code et calculé selon
+les modalités prévues au 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30
+décembre 2009 de finances pour 2010.

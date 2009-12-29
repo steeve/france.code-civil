@@ -9,4 +9,5 @@ ministre de l'économie et des finances. Le montant maximum ne peut être modifi
 que par une loi de finances.
 
 La taxe est répartie et recouvrée dans la zone de compétence de l'établissement
-suivant les mêmes règles que pour la taxe mentionnée à l'article 1608.
+suivant les règles définies aux troisième à sixième alinéas de l'article 1607
+bis.

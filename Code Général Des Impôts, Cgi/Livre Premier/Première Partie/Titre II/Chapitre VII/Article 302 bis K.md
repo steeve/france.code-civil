@@ -35,13 +35,17 @@ du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens
 
 II. - Le tarif de la taxe est le suivant :
 
-3,92 euros par passager embarqué à destination de la France, d'un autre Etat
+4,11 euros par passager embarqué à destination de la France, d'un autre Etat
 membre de la Communauté européenne, d'un autre Etat partie à l'accord sur
 l'Espace économique européen, ou de la Confédération suisse ;
 
-7,04 euros par passager embarqué vers d'autres destinations ;
+7,38 euros par passager embarqué vers d'autres destinations ;
 
-1,17 euro par tonne de courrier ou de fret embarquée.
+1,23 euro par tonne de courrier ou de fret embarquée.
+
+A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une
+proportion égale au taux prévisionnel de croissance de l'indice des prix à la
+consommation hors tabac associé au projet de loi de finances de l'année.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage
 total déclaré par chaque entreprise le mois considéré, arrondi à la tonne

@@ -38,12 +38,12 @@ total des attributions leur revenant au titre de la dotation globale de
 fonctionnement progresse au moins comme l'ensemble des ressources affectées à
 cette dotation. En 2008, le taux de progression de cette quote-part ne tient pas
 compte de l'impact de la transformation des communes de Saint-Martin et
-Saint-Barthélemy en collectivités d'outre-mer. En 2009, cette garantie de
-progression est calculée de telle sorte que le total des attributions revenant
-aux communes d'outre-mer au titre de la dotation globale de fonctionnement, hors
-les montants correspondant au complément de garantie prévu au 4° de l'article L.
-2334-7, progresse au moins comme l'ensemble des ressources affectées à cette
-dotation.
+Saint-Barthélemy en collectivités d'outre-mer. En 2009 et en 2010, cette
+garantie de progression est calculée de telle sorte que le total des
+attributions revenant aux communes d'outre-mer au titre de la dotation globale
+de fonctionnement, hors les montants correspondant au complément de garantie
+prévu au 4° de l'article L. 2334-7, progresse au moins comme l'ensemble des
+ressources affectées à cette dotation.
 
 En 1995 Le montant des crédits respectivement attribués à la dotation de
 solidarité urbaine et de cohésion sociale et à la dotation de solidarité rurale

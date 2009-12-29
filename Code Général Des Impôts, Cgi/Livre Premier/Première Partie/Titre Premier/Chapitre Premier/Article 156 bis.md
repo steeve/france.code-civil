@@ -31,6 +31,21 @@ constituée entre les membres d'une même famille n'est pas rompu lorsque les
 parts sont cédées à un membre de cette famille qui reprend l'engagement
 précédemment souscrit pour sa durée restant à courir.
 
+Lorsque, dans la situation mentionnée au deuxième alinéa, les associés qui sont
+à l'origine de la constitution de la société agréée sont des personnes morales
+de droit public ou des sociétés d'économie mixte, le premier alinéa du 3° du I
+de l'article 156 peut s'appliquer aux revenus de l'année d'acquisition des parts
+sociales par des personnes physiques à raison des charges foncières supportées
+par la société entre la date de la déclaration d'ouverture de chantier prévue à
+l'article R. 424-16 du code de l'urbanisme et celle de l'acquisition de leurs
+parts par les personnes concernées, sous réserve :
+
+- que les parts sociales aient été acquises au plus tard le 31 décembre de la
+deuxième année qui suit celle de la déclaration de chantier précitée ;
+
+- et que ces charges aient été intégralement remboursées à la société agréée, à
+proportion de leurs parts, par les associés personnes physiques.
+
 III. ― Le cas échéant, le revenu global ou le revenu net foncier de l'année au
 cours de laquelle l'engagement mentionné au I ou au II n'est pas respecté et des
 deux années suivantes est majoré du tiers du montant des charges indûment

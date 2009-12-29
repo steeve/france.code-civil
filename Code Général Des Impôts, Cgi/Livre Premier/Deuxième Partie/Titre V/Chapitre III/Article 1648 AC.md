@@ -7,7 +7,8 @@ aéroportuaires des communes riveraines de l'aéroport de Paris-Orly.
 
 II. - Ces fonds sont alimentés par :
 
-1° une attribution déterminée en application du V quater de l'article 1648 A ;
+1° une attribution déterminée en application du premier alinéa du II de
+l'article 1648 A ;
 
 2° une contribution annuelle de l'établissement public Aéroports de Paris, sur
 délibération de son conseil d'administration.

@@ -20,11 +20,12 @@ A défaut de délibération, le régime applicable en matière de redevance
 d'enlèvement des ordures ménagères sur le territoire des établissements publics
 de coopération intercommunale ou des syndicats mixtes ayant fait l'objet de la
 fusion ou sur le territoire des communes incluses dans le périmètre de
-l'établissement public issu de la fusion est maintenu l'année suivant celle de
-la fusion. Pour l'application de ces dispositions, l'établissement public de
-coopération intercommunale ou le syndicat mixte issu de la fusion perçoit la
-redevance en lieu et place des établissements publics de coopération
-intercommunale ou des syndicats mixtes ayant fait l'objet de la fusion.
+l'établissement public issu de la fusion est maintenu pour une durée qui ne peut
+excéder les deux années suivant la fusion. Pour l'application de ces
+dispositions, l'établissement public de coopération intercommunale ou le
+syndicat mixte issu de la fusion perçoit la redevance en lieu et place des
+établissements publics de coopération intercommunale ou des syndicats mixtes
+ayant fait l'objet de la fusion.
 
 Par dérogation aux dispositions précédentes, les établissements publics de
 coopération intercommunale à fiscalité propre disposant de l'ensemble de la

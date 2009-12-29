@@ -2,8 +2,8 @@ Article 1464 B
 ----
 I. Les entreprises qui bénéficient des exonérations prévues aux articles 44
 sexies et 44 septies, peuvent être temporairement exonérées, dans les conditions
-prévues à l'article 1464 C, de la taxe professionnelle dont elles sont
-redevables, pour les établissements qu'elles ont créés ou repris à une
+prévues à l'article 1464 C, de la cotisation foncière des entreprises dont elles
+sont redevables, pour les établissements qu'elles ont créés ou repris à une
 entreprise en difficulté, à compter de l'année suivant celle de leur création.
 
 II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition
@@ -14,14 +14,15 @@ exigées au I ; elles déclarent chaque année les éléments entrant dans le ch
 d'application de l'exonération.
 
 III. Lorsqu'un établissement remplit les conditions requises pour bénéficier de
-l'exonération temporaire de taxe professionnelle prévue à l'article 1465 et de
-l'exonération de taxe professionnelle prévue au I, l'entreprise doit opter pour
-l'un ou l'autre de ces régimes. Cette option est irrévocable.
+l'exonération temporaire de cotisation foncière des entreprises prévue à
+l'article 1465 et de l'exonération de cotisation foncière des entreprises prévue
+au I, l'entreprise doit opter pour l'un ou l'autre de ces régimes. Cette option
+est irrévocable.
 
 III bis.-Le bénéfice de l'exonération est subordonné au respect du même
 règlement communautaire que celui appliqué pour l'exonération dont l'entreprise
 bénéficie sur le fondement, selon le cas, de l'article 44 sexies ou de l'article
 44 septies.
 
-IV. Les dispositions du onzième alinéa de l'article 1465 s'appliquent au présent
+IV. Les dispositions du dixième alinéa de l'article 1465 s'appliquent au présent
 article.

@@ -10,7 +10,7 @@ en libre pratique, ou d'un bien en provenance d'un territoire visé au 1° de
 l'article 256-0 d'un autre Etat membre de la Communauté européenne ;
 
 b. la mise à la consommation en France d'un bien placé, lors de son entrée sur
-le territoire, sous l'un des régimes suivants prévus par les règlements
+le territoire sous l'un des régimes suivants prévus par les règlements
 communautaires en vigueur : conduite en douane, magasins et aires de dépôt
 temporaire, zone franche, entrepôt franc, entrepôt d'importation,
 perfectionnement actif, admission temporaire en exonération totale des droits à
@@ -71,8 +71,8 @@ III Sont également exonérées de la taxe sur la valeur ajoutée :
 ils ont été exportés et qui bénéficient de la franchise des droits de douane, ou
 qui en bénéficieraient s'ils étaient soumis à des droits de douane ;
 
-2° les prestations de services directement liées au placement d'un bien, lors de
-son entrée sur le territoire, sous l'un des régimes mentionnés au b du 2 du I ;
+2° les prestations de services directement liées au placement d'un bien sous
+l'un des régimes mentionnés au b du 2 du I ;
 
 3° Les radoubs, réparations et transformations des navires français à l'étranger
 à l'exception de celles de ces opérations qui portent sur des bateaux de sport

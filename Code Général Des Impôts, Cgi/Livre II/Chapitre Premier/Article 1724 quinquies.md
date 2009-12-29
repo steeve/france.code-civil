@@ -7,8 +7,8 @@ prélevée est acquittée avec le prélèvement suivant.
 II. En cas de deuxième retard de paiement au cours de la même année, le
 contribuable perd pour cette année le bénéfice de son option et est soumis soit
 aux dispositions du 2 de l'article 1663 et de l'article 1730 et, le cas échéant
-de l'article 1664, soit, en matière de taxe professionnelle et de taxes
-additionnelles, aux dispositions de l'article 1679 quinquies.
+de l'article 1664, soit, en matière de cotisation foncière des entreprises et de
+taxes additionnelles, aux dispositions de l'article 1679 quinquies.
 
 III. (Abrogé)
 

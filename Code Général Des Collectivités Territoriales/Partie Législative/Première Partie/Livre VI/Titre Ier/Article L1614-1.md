@@ -11,4 +11,4 @@ assurent la compensation intégrale des charges transférées.
 
 A titre dérogatoire, la dotation générale de décentralisation mentionnée à
 l'article L. 1614-4 et les crédits prévus aux 1° et 2° de l'article L. 4332-1
-n'évoluent pas en 2009.
+n'évoluent pas en 2009 et en 2010.

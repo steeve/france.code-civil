@@ -7,6 +7,8 @@ public foncier de Provence-Alpes-Côte d'Azur créé en application des articles
 Le montant de cette taxe est arrêté avant le 31 décembre de chaque année pour
 l'année suivante, dans la limite de 34 millions d'euros, par le conseil
 d'administration de l'établissement public et notifié au ministre de l'économie
-et des finances. La taxe est répartie et recouvrée dans la zone de compétence de
-l'établissement suivant les mêmes règles que pour la taxe mentionnée à l'article
-1608.
+et des finances.
+
+La taxe est répartie et recouvrée dans la zone de compétence de l'établissement
+suivant les règles définies aux troisième à sixième alinéas de l'article 1607
+bis.

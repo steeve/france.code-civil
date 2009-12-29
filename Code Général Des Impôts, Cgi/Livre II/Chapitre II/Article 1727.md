@@ -32,6 +32,13 @@ la question sans obtenir de réponse ;
 2° L'administration n'a pas formellement pris position sur la question avant
 l'expiration du délai de déclaration.
 
+2 ter. Si la cause du rehaussement poursuivi par l'administration est un
+différend sur la valeur locative des biens mentionnés au I de l'article 1496 et
+à l'article 1498 et s'il est démontré, d'une part, que le contribuable de bonne
+foi a acquitté l'imposition sur la base du rôle établi par l'administration et,
+d'autre part, que celui-ci ne résultait ni d'un défaut ni d'une inexactitude de
+déclaration.
+
 3. Sauf manquement délibéré, lorsque l'insuffisance des chiffres déclarés,
 appréciée pour chaque bien, n'excède pas le dixième de la base d'imposition en
 ce qui concerne les droits d'enregistrement ou la taxe de publicité foncière ;

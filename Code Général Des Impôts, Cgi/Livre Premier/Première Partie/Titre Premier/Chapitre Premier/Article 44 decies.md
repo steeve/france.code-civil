@@ -9,9 +9,9 @@ Corse.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
 industrielle, commerciale ou artisanale au sens de l'article 34, ou agricole au
-sens de l'article 63, dans les conditions et limites fixées au présent article.
-L'exonération s'applique également, dans les mêmes conditions et limites, aux
-sociétés soumises à l'impôt sur les sociétés exerçant une activité
+sens de l'article 63, dans les conditions et limites fixées au présent
+article.L'exonération s'applique également, dans les mêmes conditions et
+limites, aux sociétés soumises à l'impôt sur les sociétés exerçant une activité
 professionnelle non commerciale au sens du 1 de l'article 92, et dont l'effectif
 des salariés en Corse bénéficiant d'un contrat de travail à durée indéterminée
 ou d'une durée de trois mois au moins est égal ou supérieur à trois à la clôture
@@ -28,15 +28,15 @@ agro-alimentaire à l'exception de ceux placés dans la situation visée au VI.
 Toutefois, les résultats provenant d'une activité agricole ou agro-alimentaire
 sont exonérés dans les conditions mentionnées au 1° du IV et au V, lorsque le
 contribuable peut bénéficier des aides à l'investissement au titre des
-règlements (CEE) du Conseil n° 866/90, du 29 mars 1990, concernant
+règlements (CEE) du Conseil n° 866 / 90, du 29 mars 1990, concernant
 l'amélioration des conditions de transformation et de commercialisation des
-produits agricoles ou n° 2328/91, du 15 juillet 1991, concernant l'amélioration
-de l'efficacité des structures de l'agriculture, ou, sur agrément, dans les
-conditions mentionnées au IV et au V, lorsque les méthodes de production du
-contribuable sont conformes aux objectifs fixés par l'article 1er du règlement
-(CEE) du Conseil n° 2078/92, du 30 juin 1992, concernant des méthodes de
-production agricole compatibles avec les exigences de la protection de
-l'environnement ainsi que l'entretien de l'espace naturel ;
+produits agricoles ou n° 2328 / 91, du 15 juillet 1991, concernant
+l'amélioration de l'efficacité des structures de l'agriculture, ou, sur
+agrément, dans les conditions mentionnées au IV et au V, lorsque les méthodes de
+production du contribuable sont conformes aux objectifs fixés par l'article 1er
+du règlement (CEE) du Conseil n° 2078 / 92, du 30 juin 1992, concernant des
+méthodes de production agricole compatibles avec les exigences de la protection
+de l'environnement ainsi que l'entretien de l'espace naturel ;
 
 b) aux contribuables exerçant une activité de gestion ou de location
 d'immeubles, à l'exception des entreprises implantées en Corse dont les
@@ -92,14 +92,15 @@ e) bénéfices visés au 2° du X.
 
 III. lorsque le contribuable n'exerce pas l'ensemble de son activité en Corse,
 le bénéfice ouvrant droit à l'exonération est affecté du rapport entre, d'une
-part, la somme des éléments d'imposition à la taxe professionnelle définis à
-l'article 1467, afférents à l'activité exercée en Corse et relatifs à la période
-d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition
-à la taxe professionnelle du contribuable définis au même article pour ladite
-période. Pour la détermination de ce rapport, la valeur locative des
-immobilisations passibles d'une taxe foncière est celle déterminée, conformément
-à l'article 1467, au 1er janvier de l'année au cours de laquelle est clos
-l'exercice, ou au 1er janvier de l'année d'imposition des bénéfices.
+part, la somme des éléments d'imposition à la cotisation foncière des
+entreprises définis à l'article 1467, afférents à l'activité exercée en Corse et
+relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des
+éléments d'imposition à la cotisation foncière des entreprises du contribuable
+définis au même article pour ladite période. Pour la détermination de ce
+rapport, la valeur locative des immobilisations passibles d'une taxe foncière
+est celle déterminée, conformément à l'article 1467, au 1er janvier de l'année
+au cours de laquelle est clos l'exercice, ou au 1er janvier de l'année
+d'imposition des bénéfices.
 
 IV. 1° Pour les entreprises créées après le 1er janvier 1997 et jusqu'au 31
 décembre 2001, le bénéfice ainsi calculé est exonéré dans la limite prévue au
@@ -169,14 +170,14 @@ durée totale d'exonération ne peut excéder soixante mois au titre d'un
 dispositif d'exonération de plein droit et d'un dispositif sur agrément, sous
 réserve de l'application des dispositions du V.
 
-VIII. L'effectif salarié est apprécié au dernier jour de l'exercice ou de
-l'année d'imposition en prenant en compte les salariés bénéficiant d'un contrat
-de travail à durée indéterminée ou d'une durée de trois mois au moins. Les
-salariés à temps partiel sont pris en compte au prorata de la durée du temps de
-travail prévue à leur contrat.
+VIII.L'effectif salarié est apprécié au dernier jour de l'exercice ou de l'année
+d'imposition en prenant en compte les salariés bénéficiant d'un contrat de
+travail à durée indéterminée ou d'une durée de trois mois au moins. Les salariés
+à temps partiel sont pris en compte au prorata de la durée du temps de travail
+prévue à leur contrat.
 
-IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros
-par période de douze mois.
+IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 € par
+période de douze mois.
 
 Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
@@ -189,7 +190,7 @@ l'un des régimes prévus aux articles 44 sexies, 208 sexies, 208 quater A ou du
 régime prévu au présent article, le contribuable peut opter pour ce dernier
 régime ou demander, le cas échéant, l'agrément prévu au I ou au VI, avant le 1er
 juillet 1997 s'il exerce déjà son activité en Corse ou, dans le cas contraire,
-dans les six mois suivant celui de la création de son activité. L'option est
+dans les six mois suivant celui de la création de son activité.L'option est
 irrévocable.
 
 XII. Les modalités d'application du présent article sont fixées par décret.

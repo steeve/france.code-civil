@@ -8,8 +8,9 @@ la limite de 31 272 euros.
 
 Cette exonération est subordonnée au respect des conditions suivantes :
 
-1° Le donateur est âgé de moins de soixante-cinq ans au jour de la transmission
-;
+1° Le donateur est âgé de moins de quatre-vingts ans, ou de moins de
+soixante-cinq ans lorsqu'il consent le don à un enfant ou à un neveu ou une
+nièce, au jour de la transmission ;
 
 2° Le donataire est âgé de dix-huit ans révolus ou a fait l'objet d'une mesure
 d'émancipation au jour de la transmission.
@@ -26,7 +27,7 @@ l'application de l'article 784.
 IV.-Sous réserve de l'application du 1° du 1 de l'article 635 et du 1 de
 l'article 650, les dons de sommes d'argent mentionnés au I doivent être déclarés
 ou enregistrés par le donataire au service des impôts du lieu de son domicile
-dans le délai d'un mois qui suit la date du don. L'obligation déclarative est
+dans le délai d'un mois qui suit la date du don.L'obligation déclarative est
 accomplie par la souscription, en double exemplaire, d'un formulaire conforme au
 modèle établi par l'administration.
 

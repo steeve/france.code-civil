@@ -1,8 +1,8 @@
 Article 200-0 A
 ----
 1. Le total des avantages fiscaux mentionnés au 2 ne peut pas procurer une
-réduction du montant de l'impôt dû supérieure à la somme d'un montant de 25 000
-€ et d'un montant égal à 10 % du revenu imposable servant de base au calcul de
+réduction du montant de l'impôt dû supérieure à la somme d'un montant de 20 000
+€ et d'un montant égal à 8 % du revenu imposable servant de base au calcul de
 l'impôt sur le revenu dans les conditions prévues au I de l'article 197.
 
 2. Les avantages fiscaux retenus pour l'application du plafonnement mentionné au

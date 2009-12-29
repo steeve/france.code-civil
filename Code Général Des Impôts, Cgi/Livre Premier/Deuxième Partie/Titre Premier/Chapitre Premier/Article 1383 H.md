@@ -17,7 +17,7 @@ requises, si elle est postérieure.
 
 Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année
 suivant celle où les immeubles ne sont plus affectés à une activité entrant dans
-le champ d'application de la taxe professionnelle.
+le champ d'application de la cotisation foncière des entreprises.
 
 En cas de changement d'exploitant au cours d'une période d'exonération, celle-ci
 est maintenue pour la période restant à courir et dans les conditions prévues
@@ -30,7 +30,7 @@ fiscalité propre.
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1383 A et de celle prévue au présent article sont remplies, le
 contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier
-de l'année au titre de laquelle l'exonération prend effet. L'option est
+de l'année au titre de laquelle l'exonération prend effet.L'option est
 irrévocable et vaut pour l'ensemble des collectivités.
 
 Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998

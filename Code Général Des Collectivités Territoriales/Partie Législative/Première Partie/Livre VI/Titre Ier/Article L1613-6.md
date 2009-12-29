@@ -1,18 +1,20 @@
 Article L1613-6
 ----
 Il est institué un fonds de solidarité en faveur des communes de métropole et de
-leurs groupements ainsi que des départements de métropole et des régions de
-métropole afin de contribuer à la réparation des dégâts causés à leurs biens par
-des événements climatiques ou géologiques graves.
+leurs groupements, des syndicats visés aux articles L. 5711-1 et L. 5721-8 ainsi
+que des départements de métropole et des régions de métropole afin de contribuer
+à la réparation des dégâts causés à leurs biens par des événements climatiques
+ou géologiques graves.
 
 Ce fonds est doté de 20 millions d'euros par an, prélevés sur la dotation
 instituée au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986). Ce montant évolue chaque année, à compter de 2010, comme la
+décembre 1986). Ce montant évolue chaque année, à compter de 2011, comme la
 dotation globale de fonctionnement.
 
-Par dérogation à l'alinéa précédent, ce fonds bénéficie, au titre de 2009, d'un
-prélèvement de 10 millions d'euros sur la dotation instituée au IV de l'article
-6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
+Par dérogation à l'alinéa précédent, ce fonds bénéficie d'un prélèvement sur la
+dotation instituée au IV de l'article 6 de la loi de finances pour 1987 (n°
+86-1317 du 30 décembre 1986) de 10 millions d'euros au titre de 2009 et de 15
+millions d'euros au titre de 2010.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 Il précise notamment la nature des biens pris en compte, les règles relatives à

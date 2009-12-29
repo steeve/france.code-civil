@@ -21,9 +21,9 @@ application du b.
 acomptes provisionnels prévus à l'article 1664, elle peut être reportée d'un
 mois par arrêté du ministre chargé du budget.
 
-b. Pour les cotisations de taxe professionnelle mises en recouvrement durant la
-première quinzaine de novembre, la majoration prévue au 1 s'applique aux sommes
-non versées le 30 décembre au plus tard.
+b. Pour les cotisations de cotisation foncière des entreprises mises en
+recouvrement durant la première quinzaine de novembre, la majoration prévue au 1
+s'applique aux sommes non versées le 30 décembre au plus tard.
 
 4. La majoration prévue au 1 s'applique au contribuable qui s'est dispensé du
 second acompte dans les conditions prévues au 4 de l'article 1664 ou du paiement

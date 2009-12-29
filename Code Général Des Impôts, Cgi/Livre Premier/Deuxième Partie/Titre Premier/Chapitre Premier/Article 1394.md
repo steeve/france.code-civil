@@ -8,10 +8,9 @@ chemins des associations foncières d'aménagement foncier agricole et forestier
 les rivières ;
 
 2° Les propriétés de l'Etat, les propriétés des départements pour les taxes
-perçues par les communes et par le département auquel elles appartiennent et les
-propriétés des communes pour les taxes perçues par les départements et par la
-commune à laquelle elles appartiennent, lorsqu'elles sont affectées à un service
-public ou d'utilité générale et non productives de revenus.
+perçues par les communes et les propriétés des communes pour les taxes perçues
+par la commune à laquelle elles appartiennent, lorsqu'elles sont affectées à un
+service public ou d'utilité générale et non productives de revenus.
 
 Tels sont notamment :
 

@@ -43,7 +43,10 @@ l'impôt sur les sociétés dont le droit de propriété des parts est démembr�
 n'est pas non plus applicable aux immeubles classés ou inscrits au titre des
 monuments historiques ou ayant fait l'objet d'un agrément ministériel ou ayant
 reçu le label délivré par la Fondation du patrimoine, mentionnés au premier
-alinéa du 3° du I de l'article 156.
+alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt
+mentionné à l'article R. 331-1 du code de la construction et de l'habitation
+ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier
+2010 .
 
 II. ― La réduction d'impôt n'est applicable qu'aux logements dont les
 caractéristiques thermiques et la performance énergétique sont conformes aux
@@ -61,9 +64,21 @@ plafond fixé par le décret prévu au troisième alinéa du h du 1° du I de
 l'article 31.
 
 IV. ― La réduction d'impôt est calculée sur le prix de revient du logement
-retenu pour sa fraction inférieure à 300 000 €. Le taux de la réduction d'impôt
-est de 25 % pour les logements acquis ou construits en 2009 et en 2010, et de 20
-% pour les logements acquis ou construits à compter de l'année 2011.
+retenu pour sa fraction inférieure à 300 000 €.
+
+Le taux de la réduction d'impôt est de :
+
+- 25 % pour les logements acquis ou construits en 2009 et en 2010 ;
+
+- 15 % pour les logements acquis ou construits en 2011 ;
+
+- 10 % pour les logements acquis ou construits en 2012.
+
+Toutefois, lorsque le contribuable acquiert ou fait construire un logement neuf
+dont le niveau de performance énergétique globale, déterminé dans des conditions
+fixées par décret et justifié par le bénéficiaire, est supérieur à celui
+qu'impose la législation en vigueur, le taux de la réduction d'impôt est majoré
+de dix points pour les logements acquis ou construits en 2011 et 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
 réduction d'impôt dans la limite de la quote-part du prix de revient
@@ -87,7 +102,8 @@ total au titre de chacune de ces années.
 Lorsque la fraction de la réduction d'impôt imputable au titre d'une année
 d'imposition excède l'impôt dû par le contribuable au titre de cette même année,
 le solde peut être imputé sur l'impôt sur le revenu dû au titre des années
-suivantes jusqu'à la sixième année inclusivement.
+suivantes jusqu'à la sixième année inclusivement pour autant que l'immeuble soit
+maintenu à la location pendant lesdites années .
 
 Lorsque la réduction d'impôt est acquise au titre d'un local affecté à un usage
 autre que l'habitation et que le contribuable transforme en logement ou d'un
@@ -137,9 +153,17 @@ l'associé d'une société civile de placement immobilier régie par les article
 est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu
 dans la catégorie des revenus fonciers.
 
-Le taux de la réduction d'impôt est de 25 % pour les souscriptions réalisées en
-2009 et en 2010, et de 20 % pour les souscriptions réalisées à compter de
-l'année 2011.
+Le taux de la réduction d'impôt est de :
+
+- 25 % pour les souscriptions réalisées en 2009 et en 2010 ;
+
+- 15 % pour les souscriptions réalisées en 2011 ;
+
+- 10 % pour les souscriptions réalisées en 2012.
+
+Toutefois, lorsque 95 % de la souscription servent exclusivement à financer les
+logements mentionnés au sixième alinéa du IV, la réduction d'impôt est majorée
+de dix points pour les logements acquis ou construits en 2011 et 2012.
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de
 propriété est démembré, est subordonnée à la condition que 95 % de la
@@ -163,7 +187,8 @@ d'un neuvième de son montant total au titre de chacune de ces années.
 Lorsque la fraction de la réduction d'impôt imputable au titre d'une année
 d'imposition excède l'impôt dû par le contribuable au titre de cette même année,
 le solde peut être imputé sur l'impôt sur le revenu dû au titre des années
-suivantes jusqu'à la sixième année inclusivement.
+suivantes jusqu'à la sixième année inclusivement pour autant que l'immeuble soit
+maintenu à la location pendant lesdites années.
 
 L'application de la présente réduction d'impôt est, au titre d'une même
 souscription de parts, exclusive de la déduction au titre de l'amortissement
@@ -183,11 +208,20 @@ dans des zones géographiques ne se caractérisant pas par un déséquilibre ent
 l'offre et la demande de logements et acquis à compter du lendemain de la date
 de publication de cet arrêté.
 
+Toutefois, cette réduction d'impôt est également acquise au titre des logements
+situés dans les communes mentionnées au premier alinéa lorsqu'elles ont fait
+l'objet d'un agrément délivré par le ministre chargé du logement, dans des
+conditions définies par décret, après avis du maire de la commune d'implantation
+ou du président de l'établissement public de coopération intercommunale
+territorialement compétent en matière d'urbanisme. La décision du ministre de
+délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés à
+la population (1).
+
 XI.-Les investissements mentionnés aux I et VIII et afférents à des logements
 situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy,
 Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie
 française et dans les îles Wallis et Futuna ou à des souscriptions employées
-dans les conditions définies au troisième alinéa du VIII pour le financement de
+dans les conditions définies au septième alinéa du VIII pour le financement de
 tels logements ouvrent droit à la réduction d'impôt prévue au présent article
 dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
 

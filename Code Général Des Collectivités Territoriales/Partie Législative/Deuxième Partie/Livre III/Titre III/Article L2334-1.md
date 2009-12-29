@@ -15,5 +15,5 @@ cohésion sociale prévue à l'article L. 2334-15. Si, pour chacune des années 
 à 2009, le montant de l'accroissement de la dotation globale de fonctionnement
 des communes et de certains de leurs groupements est inférieur à 500 millions
 d'euros, l'affectation prévue à la phrase précédente est limitée à 24 % de
-l'accroissement constaté. Pour 2009, et à titre dérogatoire, elle s'établit au
-minimum à 70 millions d'euros.
+l'accroissement constaté. Pour 2009 et pour 2010, et à titre dérogatoire, elle
+s'établit au minimum à 70 millions d'euros.

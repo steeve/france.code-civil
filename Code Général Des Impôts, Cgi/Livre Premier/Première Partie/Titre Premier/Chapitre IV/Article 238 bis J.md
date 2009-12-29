@@ -70,5 +70,5 @@ VI. Les déficits reportables au 31 décembre 1976 peuvent être imputés, du po
 de vue fiscal, sur la provision spéciale.
 
 VII. La présente réévaluation, telle qu'elle est définie aux paragraphes I à V,
-n'aura pas d'effet sur l'assiette des impôts locaux (taxe professionnelle et
-taxes foncières).
+n'aura pas d'effet sur l'assiette des impôts locaux (cotisation foncière des
+entreprises et taxes foncières).

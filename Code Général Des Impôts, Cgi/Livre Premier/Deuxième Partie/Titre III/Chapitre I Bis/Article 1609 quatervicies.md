@@ -46,18 +46,18 @@ d'aérodromes sont fixées comme suit :
 
 CLASSE : 1
 
-Tarifs par passager : De 4, 3 à 9, 5 euros
+Tarifs par passager : De 4, 3 à 10 euros
 
 CLASSE : 2
 
-Tarifs par passager : De 3, 5 à 9 euros.
+Tarifs par passager : De 3, 5 à 9,5 euros.
 
 CLASSE : 3
 
-Tarifs par passager : De 2, 6 à 11 euros.
+Tarifs par passager : De 2, 6 à 11,5 euros.
 
-Le tarif de la taxe est égal à 1 par tonne de fret pour tous les aérodromes
-visés au I.
+Le tarif de la taxe est égal à 1 par tonne de fret et de courrier pour tous les
+aérodromes visés au I.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de
 l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein
@@ -70,8 +70,27 @@ Il contribue, dans une proportion fixée annuellement par arrêté, au financeme
 des matériels de contrôle automatisé aux frontières par identification
 biométrique installés dans les aéroports. Le tarif de la taxe est fonction du
 besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des
-prestations assurées en application de la réglementation en vigueur, de
-l'évolution prévisible des coûts et des autres recettes de l'exploitant.
+prestations assurées en application de la réglementation en vigueur, et de
+l'évolution prévisionnelle des données relatives au trafic, aux coûts et aux
+autres produits de l'exploitant.
+
+Ces données font l'objet d'une déclaration par les exploitants d'aérodromes
+selon des modalités fixées par un arrêté conjoint du ministre chargé du budget
+et du ministre chargé de l'aviation civile, qui précise la proportion de prise
+en charge des coûts qui ne sont pas directement ou totalement imputables aux
+missions définies au présent IV.
+
+Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux
+années antérieures, diligentés par les services de la direction générale de
+l'aviation civile. Les exploitants d'aérodromes sont tenus de présenter les
+pièces justificatives et toutes les informations relatives aux données
+mentionnées à l'alinéa précédent. En cas de contrôle sur place, la direction
+générale de l'aviation civile en informe préalablement l'exploitant par l'envoi
+d'un avis qui précise l'identité des personnes qui en sont chargées et la
+période visée par le contrôle. L'exploitant peut se faire assister par un
+conseil de son choix. A l'issue du contrôle, un rapport est adressé à
+l'exploitant concerné qui dispose d'un délai de deux mois pour faire part de ses
+observations.
 
 Le tarif défini pour le fret et le courrier s'applique au tonnage total déclaré
 par chaque entreprise le mois considéré, arrondi à la tonne inférieure.
@@ -84,11 +103,11 @@ départ de chaque aérodrome.
 Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux
 comptables du budget annexe " Contrôle et exploitation aériens ".
 
-IV bis.-A compter du 1er janvier 2008, le tarif par passager de la taxe
-d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de 1
-euro, par arrêté conjoint du ministre chargé du budget et du ministre chargé de
-l'aviation civile. Les limites supérieures des tarifs mentionnés au IV ne
-prennent pas en compte cette majoration.
+IV bis.-A compter du 1er janvier 2010, le tarif par passager de la taxe
+d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de
+1,25 euro, par arrêté conjoint du ministre chargé du budget et du ministre
+chargé de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV
+ne prennent pas en compte cette majoration.
 
 Le produit de cette majoration est affecté aux exploitants des aérodromes de
 classe 3 ainsi qu'aux exploitants d'aérodromes ne relevant pas des classes des

@@ -1,6 +1,6 @@
 Article 1460
 ----
-Sont exonérés de la taxe professionnelle :
+Sont exonérés de la cotisation foncière des entreprises :
 
 1° Les établissements d'enseignement du second degré qui ont passé avec l'Etat
 un contrat en application de l'article L442-1 du code de l'éducation et les
@@ -28,9 +28,13 @@ fonctions qu'ils exercent conformément aux dispositions de la loi n° 54-11 du 
 janvier 1954, modifiée, sur la sauvegarde de la vie humaine en mer et
 l'habitabilité à bord des navires de commerce, de pêche et de plaisance ;
 
-7° Les sportifs pour la seule pratique d'un sport.
+7° Les sportifs pour la seule pratique d'un sport ;
 
-8° Les avocats ayant suivi la formation prévue au chapitre II de la loi n°
-71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires
-et juridiques, pour une période de deux ans à compter de l'année qui suit le
-début de l'exercice de la profession d'avocat.
+8° Les avocats ayant suivi la formation prévue au chapitre II du titre Ier de la
+loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions
+judiciaires et juridiques, pour une période de deux ans à compter de l'année qui
+suit le début de l'exercice de la profession d'avocat ;
+
+9° Les membres du corps de réserve sanitaire constitué dans les conditions
+prévues au titre III du livre Ier de la troisième partie du code de la santé
+publique pour leurs recettes perçues à ce titre.
