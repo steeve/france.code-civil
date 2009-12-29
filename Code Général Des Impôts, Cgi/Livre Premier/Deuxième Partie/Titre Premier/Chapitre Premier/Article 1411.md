@@ -128,6 +128,12 @@ situe sur plusieurs départements, la correction de l'abattement intercommunal
 est effectuée pour chaque partie de son territoire appartenant à chacun des
 départements.
 
+En cas de fusion d'établissements publics de coopération intercommunale réalisée
+dans les conditions prévues à l'article L. 5211-41-3 du code général des
+collectivités territoriales, la correction des abattements intercommunaux prévue
+au présent II quater continue à s'appliquer sur le territoire des établissements
+publics de coopération intercommunale préexistant à la fusion.
+
 Par dérogation aux dispositions du présent II quater, lorsqu'une commune qui
 n'était pas membre en 2011 d'un établissement public de coopération
 intercommunale qui faisait application en 2011 de l'article 1609 nonies C

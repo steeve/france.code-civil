@@ -42,9 +42,7 @@ montant correspondant au versement du minimum garanti au profit d'un producteur,
 à condition que ces œuvres soient susceptibles de bénéficier de l'amortissement
 fiscal pratiqué sur une durée de douze mois ;
 
--des subventions d'exploitation et des abandons de créances à caractère
-financier à la hauteur du montant déductible des résultats imposables à l'impôt
-sur le revenu ou à l'impôt sur les sociétés de l'entreprise qui les consent ;
+-des subventions d'exploitation ;
 
 -de la variation positive des stocks ;
 
@@ -81,10 +79,6 @@ Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
 
 -les autres charges de gestion courante, autres que les quotes-parts de résultat
 sur opérations faites en commun ;
-
--les abandons de créances à caractère financier, à la hauteur du montant
-déductible des résultats imposables à l'impôt sur le revenu ou à l'impôt sur les
-sociétés ;
 
 -les dotations aux amortissements pour dépréciation afférentes aux biens
 corporels donnés en location ou sous-location pour une durée de plus de six
