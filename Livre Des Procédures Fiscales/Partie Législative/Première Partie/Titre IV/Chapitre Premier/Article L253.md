@@ -1,8 +1,10 @@
 Article L253
 ----
 Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au
-rôle des impôts directs dans les conditions prévues aux articles 1658 à 1659 A
-du code général des impôts.
+rôle des impôts directs ou, pour les redevables de l'impôt de solidarité sur la
+fortune relevant des dispositions du 2 du I de l'article 885 W du code général
+des impôts, au rôle de cet impôt, dans les conditions prévues aux articles 1658
+à 1659 A du même code.
 
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à
 acquitter, les conditions d'exigibilité, la date de mise en recouvrement et la

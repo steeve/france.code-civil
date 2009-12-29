@@ -3,8 +3,9 @@ Article 1730
 1. Donne lieu à l'application d'une majoration de 10 % tout retard dans le
 paiement des sommes dues au titre de l'impôt sur le revenu, des contributions
 sociales recouvrées comme en matière d'impôt sur le revenu, de la taxe
-d'habitation, des taxes foncières sur les propriétés bâties et non bâties et des
-impositions recouvrées comme les impositions précitées.
+d'habitation, des taxes foncières sur les propriétés bâties et non bâties, des
+impositions recouvrées comme les impositions précitées et de l'impôt de
+solidarité sur la fortune.
 
 2. La majoration prévue au 1 s'applique :
 
@@ -15,6 +16,9 @@ cette majoration puisse être appliquée avant le 15 septembre pour les impôts
 
 b. Aux acomptes qui n'ont pas été versés le 15 du mois suivant celui au cours
 duquel ils sont devenus exigibles ;
+
+c. Aux sommes dues au titre de l'impôt de solidarité sur la fortune par les
+redevables mentionnés au 1 du I de l'article 885 W.
 
 Les dispositions du a ne s'appliquent pas aux sommes déjà majorées en
 application du b.
