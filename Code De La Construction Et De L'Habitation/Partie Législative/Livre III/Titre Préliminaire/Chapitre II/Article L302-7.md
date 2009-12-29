@@ -15,7 +15,7 @@ logements sociaux existant dans la commune l'année précédente, comme il est d
 de fonctionnement de la commune constatées dans le compte administratif afférent
 au pénultième exercice.
 
-Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811, 23
+Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811,23
 euros.
 
 Le prélèvement est diminué du montant des dépenses exposées par la commune,
@@ -52,10 +52,9 @@ montant de ce prélèvement. Celui-ci est imputé sur les attributions mentionn�
 au premier alinéa de l'article L. 2332-2 du code général des collectivités
 territoriales.
 
-Lorsque la commune appartient à une communauté urbaine, à une communauté
-d'agglomération, une communauté d'agglomération nouvelle, une communauté de
-communes ou à un syndicat d'agglomération nouvelle compétents pour effectuer des
-réserves foncières en vue de la réalisation de logements sociaux et lorsque cet
+Lorsque la commune appartient à un établissement public de coopération
+intercommunale à fiscalité propre compétent pour effectuer des réserves
+foncières en vue de la réalisation de logements sociaux et lorsque cet
 établissement public est doté d'un programme local de l'habitat, la somme
 correspondante est versée à l'établissement public de coopération intercommunale
 ; en sont déduites les dépenses définies au sixième alinéa et effectivement
