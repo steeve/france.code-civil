@@ -14,10 +14,7 @@ l'article 125 D.
 
 3. (Abrogé).
 
-4. Les paiements afférents à la taxe sur les salaires mentionnée à l'article 231
-due par les entreprises non soumises à l'obligation de télérèglement mentionnée
-au 5 de l'article 1681 septies et les paiements afférents à la contribution
-prévue à l'article 234 nonies due par une société ou un groupement mentionné à
-l'article 234 terdecies sont effectués par virement directement opéré sur le
-compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur
-montant excède 50 000 €.
+4. Les paiements afférents à la contribution prévue à l'article 234 nonies due
+par une société ou un groupement mentionné à l'article 234 terdecies sont
+effectués par virement directement opéré sur le compte du Trésor ouvert dans les
+écritures de la Banque de France lorsque leur montant excède 50 000 €.

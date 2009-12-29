@@ -32,13 +32,14 @@ centième le plus proche.
 Pour l'application du présent article, le chiffre d'affaires s'entend de celui
 mentionné au 1 du II de l'article 1586 ter.
 
-I bis.-Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A, le
-chiffre d'affaires à retenir pour l'application du I s'entend de la somme des
-chiffres d'affaires de chacune des sociétés membres du groupe.
+I bis.-Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A ou
+à l'article 223 A bis, le chiffre d'affaires à retenir pour l'application du I
+s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du
+groupe.
 
 Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la
-société mère au sens de l'article 223 A bénéficie des dispositions du b du I de
-l'article 219.
+société mère au sens de l'article 223 A ou de l'article 223 A bis bénéficie des
+dispositions du b du I de l'article 219.
 
 II.-Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le
 chiffre d'affaires est inférieur à 2 000 000 €.

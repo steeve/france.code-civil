@@ -20,9 +20,9 @@ Les pièces justificatives d'origine relatives à des opérations ouvrant droit 
 une déduction en matière de taxes sur le chiffre d'affaires sont conservées
 pendant le délai prévu au premier alinéa.
 
-Le registre des opérations mentionné au 9 de l'article 298 sexdecies F du code
-général des impôts est conservé pendant dix ans à compter du 31 décembre de
-l'année de l'opération.
+Les registres tenus en application du 9 de l'article 298 sexdecies F du code
+général des impôts et du 5 de l'article 298 sexdecies G sont conservés pendant
+dix ans à compter du 31 décembre de l'année de l'opération.
 
 II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou
 traitements soumis au contrôle prévu au IV de l'article L. 13 doivent être

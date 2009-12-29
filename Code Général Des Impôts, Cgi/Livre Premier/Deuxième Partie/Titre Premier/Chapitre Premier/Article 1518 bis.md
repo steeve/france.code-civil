@@ -138,4 +138,8 @@ l'ensemble des autres propriétés bâties ;
 
 zh) Au titre de 2014, à 1,009 pour les propriétés non bâties, à 1,009 pour les
 immeubles industriels relevant du 1° de l'article 1500 et à 1,009 pour
+l'ensemble des autres propriétés bâties ;
+
+zi) Au titre de 2015, à 1,009 pour les propriétés non bâties, à 1,009 pour les
+immeubles industriels relevant du 1° de l'article 1500 et à 1,009 pour
 l'ensemble des autres propriétés bâties.

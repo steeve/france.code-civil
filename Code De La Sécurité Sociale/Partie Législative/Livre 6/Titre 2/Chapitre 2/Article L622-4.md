@@ -12,6 +12,4 @@ sécurité sociale des marins. Sous réserve des dispositions du 1° de l'articl
 722-1 du code rural et de la pêche maritime, sont également affiliés au groupe
 des professions industrielles et commerciales les loueurs de chambres d'hôtes
 mentionnées à l'article L. 324-3 du code du tourisme dont le revenu imposable de
-l'activité est supérieur au seuil d'exonération de faibles revenus
-professionnels non salariés non agricoles applicable en matière de cotisations
-d'allocations familiales.
+l'activité est supérieur à un montant fixé par décret.

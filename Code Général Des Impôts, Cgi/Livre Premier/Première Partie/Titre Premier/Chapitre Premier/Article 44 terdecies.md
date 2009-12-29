@@ -28,7 +28,7 @@ L'exonération ne s'applique pas aux créations d'activité dans les zones de
 restructuration de la défense consécutives au transfert d'une activité
 précédemment exercée par un contribuable ayant bénéficié au titre d'une ou
 plusieurs des cinq années précédant celle du transfert des articles 44 sexies,
-44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies ,
+44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies,
 de la prime d'aménagement du territoire, de la prime d'aménagement du territoire
 pour l'industrie et les services ou de la prime d'aménagement du territoire pour
 la recherche, le développement et l'innovation.
@@ -53,7 +53,7 @@ première période de douze mois suivant la période d'exonération et de deux t
 pour la période de douze mois suivante.
 
 II. ― Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
-celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à 100, 102
+celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102
 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
 conditions de droit commun :
 
@@ -100,9 +100,9 @@ l'exonération. Elle doit être exercée dans les six mois suivant les opératio
 mentionnées au I.
 
 III. ― Lorsque le contribuable mentionné au I est une société membre d'un groupe
-fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société
-déterminé dans les conditions prévues au II, dans la limite du résultat
-d'ensemble du groupe.
+fiscal visé à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est
+celui de cette société déterminé dans les conditions prévues au II, dans la
+limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de
 l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44

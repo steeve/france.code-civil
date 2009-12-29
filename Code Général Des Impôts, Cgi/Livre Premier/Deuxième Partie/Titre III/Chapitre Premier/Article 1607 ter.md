@@ -1,12 +1,14 @@
 Article 1607 ter
 ----
 Il est institué, au profit des établissements publics fonciers mentionnés à
-l'article L. 321-1 du code de l'urbanisme, une taxe spéciale d'équipement
-destinée au financement de leurs interventions foncières et immobilières ainsi
-qu'au financement de leurs interventions dans le cadre des opérations de
-requalification de copropriétés dégradées d'intérêt national qui leur sont
-confiées, par décret en Conseil d'Etat, selon les modalités prévues par
-l'article L. 321-1-1 du code de l'urbanisme.
+l'article L. 321-1 du code de l'urbanisme, dans la limite du plafond prévu au I
+de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
+2012, une taxe spéciale d'équipement destinée au financement de leurs
+interventions foncières et immobilières ainsi qu'au financement de leurs
+interventions dans le cadre des opérations de requalification de copropriétés
+dégradées d'intérêt national qui leur sont confiées, par décret en Conseil
+d'Etat, selon les modalités prévues par l'article L. 321-1-1 du code de
+l'urbanisme.
 
 Le produit de cette taxe est arrêté avant le 31 décembre de chaque année, pour
 l'année suivante, par le conseil d'administration de l'établissement public dans

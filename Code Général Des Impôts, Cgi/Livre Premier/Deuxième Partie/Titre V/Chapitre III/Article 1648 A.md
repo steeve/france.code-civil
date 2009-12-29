@@ -9,6 +9,11 @@ entre les fonds départementaux proportionnellement aux montants versés par ces
 fonds départementaux au titre de 2009 en application du 1° du II et du b du 1°
 du IV bis du présent article dans sa rédaction en vigueur au 31 décembre 2009.
 
+A compter de 2015, une fraction des ressources revenant au département du Rhône
+est affectée à un fonds de péréquation dont la répartition est assurée par la
+métropole de Lyon. Cette quote-part est égale à 40,77 % du montant calculé
+conformément à l'alinéa précédent au profit du département du Rhône.
+
 A compter de 2014, pour procéder aux éventuelles régularisations à opérer sur le
 montant attribué à un ou plusieurs fonds départementaux de péréquation de la
 taxe professionnelle au titre d'un précédent exercice, les sommes nécessaires
@@ -23,3 +28,6 @@ communes, les établissements publics de coopération intercommunale et les
 agglomérations nouvelles défavorisés par la faiblesse de leur potentiel fiscal,
 déterminé selon la législation en vigueur au 1er janvier de l'année de la
 répartition ou par l'importance de leurs charges.
+
+Le conseil de la métropole de Lyon est substitué au conseil général du Rhône
+pour l'application du présent II dans le périmètre de la métropole de Lyon.

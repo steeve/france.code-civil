@@ -45,7 +45,7 @@ mentionnées au sixième alinéa, la valeur locative des immobilisations
 corporelles ne peut être inférieure à :
 
 a. 90 % de son montant avant l'opération pour les opérations entre sociétés
-membres d'un groupe au sens de l'article 223 A ;
+membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis ;
 
 b. Sous réserve des dispositions du a, 50 % de son montant avant l'opération
 pour les opérations de reprise d'immobilisations prévue par un plan de cession
@@ -66,7 +66,7 @@ sont contrôlées par la même entreprise ;
 
 2° 90 % de son montant avant l'opération pour les opérations autres que celles
 mentionnées au 1° entre sociétés membres d'un groupe au sens de l'article 223 A
-;
+ou de l'article 223 A bis ;
 
 3° Sous réserve des dispositions des 1° et 2°, 50 % de son montant avant
 l'opération pour les opérations de reprise d'immobilisations prévue par un plan
