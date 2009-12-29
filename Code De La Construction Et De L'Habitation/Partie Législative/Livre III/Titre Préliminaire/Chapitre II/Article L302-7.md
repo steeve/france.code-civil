@@ -25,15 +25,19 @@ intercommunale auquel elle appartient, pendant le pénultième exercice, au titr
 des subventions foncières mentionnées à l'article L. 2254-1 du code général des
 collectivités territoriales, des travaux de viabilisation, de dépollution ou de
 fouilles archéologiques des terrains ou des biens immobiliers mis ensuite à
-disposition pour la réalisation de logements sociaux, des moins-values
-correspondant à la différence entre le prix de cession de terrains ou de biens
-immobiliers donnant lieu à la réalisation effective de logements sociaux et leur
-valeur vénale estimée par le service des domaines et de la création
-d'emplacements d'aire permanente d'accueil des gens du voyage, aménagée en
-application de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à
-l'habitat des gens du voyage. Dans le cas de mise à disposition par bail
-emphytéotique, bail à construction ou bail à réhabilitation de terrains ou
-d'immeubles à un maître d'ouvrage pour la réalisation de logements locatifs
+disposition pour la réalisation de logements sociaux, du financement des
+dépenses engagées pour financer des dispositifs d'intermédiation locative dans
+le parc privé répondant aux conditions prévues à l'article L. 321-10 dans la
+limite d'un plafond fixé, selon la localisation de la commune et sans pouvoir
+être supérieur à 5 000 € par logement et par an, par décret en Conseil d'Etat,
+des moins-values correspondant à la différence entre le prix de cession de
+terrains ou de biens immobiliers donnant lieu à la réalisation effective de
+logements sociaux et leur valeur vénale estimée par le service des domaines et
+de la création d'emplacements d'aire permanente d'accueil des gens du voyage,
+aménagée en application de la loi n° 2000-614 du 5 juillet 2000 relative à
+l'accueil et à l'habitat des gens du voyage. Dans le cas de mise à disposition
+par bail emphytéotique, bail à construction ou bail à réhabilitation de terrains
+ou d'immeubles à un maître d'ouvrage pour la réalisation de logements locatifs
 sociaux, le montant éventuellement pris en compte est égal à la différence entre
 les montants capitalisés du loyer pratiqué pour le terrain ou l'immeuble donné à
 bail et ceux du loyer estimé par le service des domaines.
@@ -56,15 +60,19 @@ au premier alinéa de l'article L. 2332-2 du code général des collectivités
 territoriales.
 
 Lorsque la commune appartient à un établissement public de coopération
-intercommunale à fiscalité propre ayant conclu une convention mentionnée au
-deuxième alinéa de l'article L. 301-5-1, la somme correspondante est versée à
-l'établissement public de coopération intercommunale ; en sont déduites les
-dépenses définies au quatrième alinéa et effectivement exposées par la commune
-pour la réalisation de logements sociaux. Elle est utilisée pour financer des
-acquisitions foncières et immobilières en vue de la réalisation de logements
-locatifs sociaux et, notamment dans les quartiers inscrits en contrat de ville
-ou dans des zones urbaines sensibles, des opérations de renouvellement et de
-requalification urbains.
+intercommunale à fiscalité propre ayant conclu une convention mentionnée au II
+de l'article L. 301-5-1 du présent code, ou au VI de l'article L. 5219-1 ou au
+II de l'article L. 5217-2 du code général des collectivités territoriales, ou
+lorsque la commune appartient à la métropole de Lyon ayant conclu une convention
+mentionnée à l'article L. 3641-5 du même code, la somme correspondante est
+versée respectivement à l'établissement public de coopération intercommunale ou
+à la métropole de Lyon ; en sont déduites les dépenses définies au quatrième
+alinéa et effectivement exposées par la commune pour la réalisation de logements
+sociaux. Elle est utilisée pour financer des acquisitions foncières et
+immobilières en vue de la réalisation de logements locatifs sociaux et,
+notamment dans les quartiers inscrits en contrat de ville ou dans des zones
+urbaines sensibles, des opérations de renouvellement et de requalification
+urbains.
 
 A défaut, et hors Ile-de-France, elle est versée à l'établissement public
 foncier créé en application de l'article L. 324-1 du code de l'urbanisme, si la
