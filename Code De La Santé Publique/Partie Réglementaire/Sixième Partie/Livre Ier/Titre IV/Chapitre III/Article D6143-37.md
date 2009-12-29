@@ -1,11 +1,17 @@
 Article D6143-37
 ----
-Lorsqu'ils fixent la composition du conseil exécutif de leur établissement, dans
-les conditions prévues au dernier alinéa de l'article L. 6143-6-1, le directeur
-et le président de la commission médicale d'établissement ne peuvent retenir un
-nombre de membres supérieur à :
+Le président de la commission médicale d'établissement, vice-président du
+directoire, est chargé, conjointement avec le directeur de l'établissement
+public de santé, de la politique d'amélioration continue de la qualité et de la
+sécurité des soins ainsi que des conditions d'accueil et de prise en charge des
+usagers, sous réserve des attributions de la commission médicale
+d'établissement.
 
-a) Douze, dans les centres hospitaliers autres que les centres hospitaliers
-universitaires ;
+Il est chargé du suivi de cette politique. Il peut organiser des évaluations
+internes à cette fin. Il veille à la mise en œuvre des engagements de
+l'établissement en matière d'amélioration de la qualité et de la sécurité des
+soins, qui résultent notamment des inspections des autorités de tutelle et de la
+procédure de certification.
 
-b) Seize, dans les centres hospitaliers universitaires.
+Il présente au directoire le programme d'actions proposé au directeur par la
+commission médicale d'établissement en vertu du l'article L. 6144-1.
