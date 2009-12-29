@@ -4,7 +4,7 @@ La gendarmerie nationale comprend :
 
 1° La direction générale de la gendarmerie nationale ;
 
-2° L'inspection de la gendarmerie nationale ;
+2° L'inspection générale de la gendarmerie nationale ;
 
 3° Des formations territoriales constituant la gendarmerie départementale ;
 
@@ -22,6 +22,6 @@ La gendarmerie nationale comprend :
 
 10° Le groupe d'intervention de la gendarmerie nationale.
 
-Ces composantes sont placées sous l'autorité du directeur général de la
-gendarmerie nationale dans les conditions prévues à la section 1 du chapitre 2
-du titre II du livre Ier de la partie 3 du présent code.
+Ces composantes relèvent du directeur général de la gendarmerie nationale dans
+les conditions prévues à la section 1 du chapitre 2 du titre II du livre Ier de
+la partie 3 du présent code.
