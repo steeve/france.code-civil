@@ -16,6 +16,14 @@ attribués dans les conditions fixées au II de l'article R. 331-12 ;
 2° Des ressources de l'ensemble des personnes vivant au foyer et afférentes à la
 pénultième année civile. Toutefois, les ressources afférentes à la dernière
 année civile ou aux douze derniers mois sont prises en compte sur demande du
-locataire qui justifie qu'elles sont inférieures d'au moins 10 p. 100 à celles
-de la pénultième année. Les ressources sont évaluées selon les modalités fixées
-par l'arrêté mentionné au 1° ci-dessus.
+locataire qui justifie qu'elles sont inférieures d'au moins 10 % à celles de la
+pénultième année. Les ressources sont évaluées selon les modalités fixées par
+l'arrêté mentionné au 1° ci-dessus.
+
+La modification de la composition du ménage ou de ses ressources telle que
+prévue à l'article L. 441-3 est prise en compte pour le calcul du dépassement du
+plafond de ressources du locataire à partir du mois qui suit la survenance de
+l'événement et sur la base de justificatifs dûment transmis à l'organisme
+d'habitations à loyer modéré dans le délai de trois mois suivant la survenance
+de l'événement. En cas de transmission de ces pièces après ce délai, cette
+modification est prise en compte à partir du mois qui suit cette transmission.
