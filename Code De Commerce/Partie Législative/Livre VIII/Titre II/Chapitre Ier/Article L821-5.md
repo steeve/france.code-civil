@@ -6,7 +6,7 @@ conseil n'est pas soumis au contrôle financier exercé au sein des
 administrations de l'Etat.
 
 II.-Le haut conseil perçoit le produit des contribution et droit mentionnés aux
-III et IV.
+III et IV, ainsi qu'à l'article L. 821-6-1.
 
 III.-Les personnes inscrites sur la liste de l'article L. 822-1 sont assujetties
 à une contribution annuelle, dont le montant est fixé à 10 euros.

@@ -33,16 +33,17 @@ pas rapportées ou modifiées ;
 
 2° abrogé
 
-3° Dans la limite de 66 %, les établissements de spectacles cinématographiques
-situés dans les communes de moins de 100 000 habitants qui, quel que soit le
-nombre de leurs salles, réalisent en moyenne hebdomadaire moins de 2 000 entrées
-; dans la limite de 33 %, les autres établissements de spectacles
-cinématographiques ;
+3° Dans la limite de 100 %, les établissements de spectacles cinématographiques
+qui ont réalisé un nombre d'entrées inférieur à 450 000 au cours de l'année
+précédant celle de l'imposition ;
 
-4° Dans la limite de 100 %, les établissements de spectacles cinématographiques
-qui, quel que soit le nombre de leurs salles, réalisent en moyenne hebdomadaire
-moins de 7 500 entrées et bénéficient d'un classement " art et essai " au titre
-de l'année de référence.
+3° bis Dans la limite de 100 %, les établissements de spectacles
+cinématographiques qui ont réalisé un nombre d'entrées inférieur à 450 000 au
+cours de l'année précédant celle de l'imposition et qui bénéficient d'un
+classement "art et essai" au titre de l'année de référence ;
+
+4° Dans la limite de 33 %, les autres établissements de spectacles
+cinématographiques.
 
 Les exonérations prévues aux 3° et 4° ne s'appliquent pas aux établissements
 spécialisés dans la projection de films visés au 3° de l'article 279 bis.
