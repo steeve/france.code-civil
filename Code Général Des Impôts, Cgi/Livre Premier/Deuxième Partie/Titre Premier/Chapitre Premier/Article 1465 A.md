@@ -29,7 +29,8 @@ dans un arrondissement ou un canton caractérisé par une très faible densité 
 population ou par une faible densité de population et satisfaisant à l'un des
 trois critères socio-économiques suivants :
 
-a. un déclin de la population ;
+a. un déclin de la population constaté sur l'ensemble de l'arrondissement ou du
+canton ou dans une majorité de leurs communes dont le chef-lieu ;
 
 b. un déclin de la population active ;
 
