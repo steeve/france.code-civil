@@ -1,8 +1,10 @@
 Article R4312-6
 ----
-Pour l'application du deuxième alinéa de l'article L. 4312-1, le bilan est
-certifié par un commissaire aux comptes pour les organismes soumis à
-l'obligation de certification des comptes. Pour les organismes non soumis à
-l'obligation de certification des comptes, le bilan est certifié par le
-président de l'organisme concerné. Ces documents sont joints au compte
-administratif de la région et de ses établissements publics.
+Le résultat de la section de fonctionnement correspond à l'excédent ou au
+déficit de l'exercice. Pour son affectation, il est cumulé avec le résultat
+antérieur reporté à l'exclusion des restes à réaliser.
+
+Les restes à réaliser de la section de fonctionnement arrêtés à la clôture de
+l'exercice correspondent aux dépenses engagées non mandatées et non rattachées
+ainsi qu'aux recettes certaines n'ayant pas donné lieu à l'émission d'un titre
+et non rattachées. Ils sont reportés au budget de l'exercice suivant.

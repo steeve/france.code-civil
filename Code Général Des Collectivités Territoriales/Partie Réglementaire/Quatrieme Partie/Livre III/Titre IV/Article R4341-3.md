@@ -1,5 +1,14 @@
 Article R4341-3
 ----
-Les reversements de trop-payé qui sont effectués pendant la durée de l'exercice
-sur lequel le mandatement a eu lieu peuvent être rétablis au crédit de l'article
-qui avait d'abord supporté la dépense.
+Les crédits affectés aux dépenses de chaque exercice ne peuvent être employés à
+l'acquittement des dépenses d'un autre exercice.
+
+Toutefois, les dépenses engagées non mandatées à la clôture de l'exercice sont
+imputées sur les crédits qui doivent être reportés sur le budget de l'exercice
+suivant.
+
+Elles peuvent être payées jusqu'à l'ouverture de ces crédits au vu de l'état des
+restes à réaliser établi par le président du conseil régional, retraçant les
+dépenses qui, engagées avant le 31 décembre de l'année précédente, n'ont pas
+donné lieu à mandatement avant la clôture de l'exercice. Cet état vaut ouverture
+provisoire de crédits.

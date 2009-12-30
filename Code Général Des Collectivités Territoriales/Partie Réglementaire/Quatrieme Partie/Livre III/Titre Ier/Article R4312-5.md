@@ -1,19 +1,15 @@
 Article R4312-5
 ----
-Les tableaux de synthèse mentionnés au deuxième alinéa de l'article L. 4312-1
-sont établis conformément aux instructions et joints au compte administratif de
-la région et de ses établissements publics. Ils comportent notamment les
-informations suivantes :
+Le besoin ou l'excédent de financement de la section d'investissement constaté à
+la clôture de l'exercice est constitué du solde d'exécution corrigé des restes à
+réaliser.
 
-1° La liste des organismes de coopération interrégionale dont la région est
-membre, avec indication des compétences déléguées à chacun d'eux ;
+Le solde d'exécution de la section d'investissement correspond à la différence
+entre le montant des titres de recettes et le montant des mandats de dépenses
+émis au cours de l'exercice, y compris, le cas échéant, les réductions et
+annulations de recettes et de dépenses, augmentée ou diminuée du report des
+exercices antérieurs.
 
-2° Le mode et éventuellement le pourcentage de participation de la région au
-financement de chaque organisme de coopération ;
-
-3° La copie de la balance générale du compte administratif de l'organisme de
-coopération afférent au même exercice, ou, à défaut, à l'exercice précédent ;
-
-4° Les données synthétiques annexées au compte administratif du dernier exercice
-connu de l'organisme de coopération, telles qu'elles sont définies à l'article
-R. 5211-15.
+Les restes à réaliser de la section d'investissement arrêtés à la clôture de
+l'exercice correspondent aux dépenses engagées non mandatées et aux recettes
+certaines n'ayant pas donné lieu à l'émission d'un titre.
