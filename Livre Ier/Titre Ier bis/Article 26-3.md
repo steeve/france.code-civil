@@ -1,7 +1,7 @@
 Article 26-3
 ----
-Le ministre ou le juge refuse d'enregistrer les déclarations qui ne satisfont
-pas aux conditions légales.
+Le ministre ou le greffier en chef du tribunal d'instance refuse d'enregistrer
+les déclarations qui ne satisfont pas aux conditions légales.
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le
 tribunal de grande instance durant un délai de six mois.L'action peut être
