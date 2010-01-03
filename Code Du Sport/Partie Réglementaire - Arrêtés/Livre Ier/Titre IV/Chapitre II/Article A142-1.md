@@ -7,7 +7,7 @@ Elle comprend, outre son président :
 
 1° Trois représentants du ministre chargé des sports désignés par celui-ci ;
 
-2° Cinq représentants désignés sur proposition des présidents des fédérations
+2° Six représentants désignés sur proposition des présidents des fédérations
 sportives suivantes :
 
 a) Un représentant de la Fédération française de karaté et disciplines associées
@@ -22,7 +22,10 @@ associées ;
 d) Un représentant de la Fédération de wushu, arts énergétiques et martiaux
 chinois ;
 
-e) Un représentant de l'Union des fédérations d'aïkido ;
+e) Un représentant de la Fédération française d'aïkido et de budo ;
+
+f) Un représentant de la Fédération française d'aïkido, d'aïkibudo et
+affinitaires ;
 
 3° Quatre représentants désignés sur proposition des présidents des fédérations
 sportives suivantes :
