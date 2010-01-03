@@ -627,7 +627,7 @@ Circonscription judiciaire de Blois.
 
 Maison d'arrêt de Blois.
 
-Service pénitentiaire d'insertion et de probation de la Loire
+Service pénitentiaire d'insertion et de probation de la Loire.
 
 Saint-Etienne.
 
@@ -672,7 +672,7 @@ Antenne de Saint-Nazaire.
 
 Circonscription judiciaire de Saint-Nazaire.
 
-Service pénitentiaire d'insertion et de probation du Loiret
+Service pénitentiaire d'insertion et de probation du Loiret.
 
 Orléans.
 
@@ -839,7 +839,10 @@ Antenne de Montmédy.
 
 (Arr. 17 sept. 2003, art. 5) Centre de détention de Montmédy.
 
-Antenne de Saint-Mihiel.
+.
+
+
+Antenne de Saint-Mihiel
 
 (Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel.
 
@@ -947,7 +950,7 @@ Circonscription judiciaire de Senlis.
 
 Service pénitentiaire d'insertion et de probation de l'Orne.
 
-Argentan.
+Alençon.
 
 Antenne d'Argentan.
 
@@ -958,8 +961,6 @@ Circonscription judiciaire d'Argentan.
 Antenne d'Alençon.
 
 Circonscription judiciaire d'Alençon.
-
-Maison d'arrêt d'Alençon.
 
 Service pénitentiaire d'insertion et de probation du Pas-de-Calais.
 
