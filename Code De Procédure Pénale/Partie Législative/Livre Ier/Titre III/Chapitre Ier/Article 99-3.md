@@ -12,3 +12,5 @@ remise des documents ne peut intervenir qu'avec leur accord.
 
 En l'absence de réponse de la personne aux réquisitions, les dispositions du
 deuxième alinéa de l'article 60-1 sont applicables.
+
+Le dernier alinéa de l'article 60-1 est également applicable.
