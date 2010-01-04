@@ -24,8 +24,7 @@ sont mentionnés au 1° ci-dessus ;
 6° De 60 à 70 % pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité et pour les
 médicaments dont le service médical rendu, tel que défini au I de l'article R.
-163-3, n'a pas été classé en application du 6° de l'article R. 163-18 comme
-majeur ou important ;
+163-3, a été classé comme modéré en application du 6° de l'article R. 163-18 ;
 
 7° De 60 à 70 % pour les spécialités homéopathiques, dès lors qu'elles sont
 inscrites sur la liste établie en application du premier alinéa de l'article L.
@@ -47,4 +46,8 @@ mentionnée à l'article L. 165-1 ;
 162-32 ;
 
 13° De 15 à 25 % pour les consultations et les actes mentionnés au 3° de
-l'article R. 162-32-1 facturés en sus des forfaits mentionnés au 12°.
+l'article R. 162-32-1 facturés en sus des forfaits mentionnés au 12° ;
+
+14° De 80 à 90 % pour les médicaments dont le service médical rendu, tel que
+défini au I de l'article R. 163-3, a été classé comme faible, dans toutes les
+indications thérapeutiques, en application du 6° de l'article R. 163-18.

@@ -32,7 +32,7 @@ médicaments à même visée thérapeutique ;
 
 L'avis comporte l'appréciation de l'amélioration du service médical rendu
 apportée par le médicament par rapport à ceux mentionnés ci-dessus et figurant
-sur la (ou les) liste(s) sur lesquelles l'inscription est sollicitée ; cette
+sur la (ou les) liste (s) sur lesquelles l'inscription est sollicitée ; cette
 appréciation doit porter distinctement sur chacune des indications
 thérapeutiques mentionnées au 1° ci-dessus ;
 
@@ -57,10 +57,10 @@ de réaliser des estimations précises ;
 
 6° Pour les médicaments inscrits sur la liste prévue au premier alinéa de
 l'article L. 162-17, leur classement au regard de la participation des assurés
-aux frais d'acquisition dans deux catégories déterminées en fonction de
-l'importance du service médical rendu ; l'avis précise, le cas échéant, si le
-médicament doit être considéré comme irremplaçable pour l'application du premier
-alinéa de l'article R. 322-1 ;
+aux frais d'acquisition dans trois catégories déterminées selon que le service
+médical rendu est soit majeur ou important, soit modéré, soit faible ; l'avis
+précise, le cas échéant, si le médicament doit être considéré comme
+irremplaçable pour l'application du premier alinéa de l'article R. 322-2 ;
 
 7° L'appréciation du conditionnement approprié au regard des indications
 thérapeutiques pour lesquelles la commission estime fondée l'inscription, de la
