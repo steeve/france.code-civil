@@ -1,11 +1,16 @@
 Article R3422-16
 ----
-Les créances de l'institution peuvent faire l'objet :
+Les agents habilités à manier des deniers ou des matières sont pécuniairement
+responsables de leur conservation, de l'encaissement des recettes qu'ils doivent
+recouvrer ainsi que du caractère libératoire des règlements qu'ils effectuent.
 
-― soit d'une remise gracieuse en cas de gêne des débiteurs ;
+Le cas échéant, si le directeur général ne poursuivait pas la mise en jeu de
+cette responsabilité, le ministre de la défense pourrait en prendre
+l'initiative, le conseil de gestion entendu, sur le vu de rapports qui lui sont
+remis à l'occasion de procédures de contrôle.
 
-― soit d'une admission en non-valeur en cas d'insolvabilité des débiteurs.
-
-Les décisions de remise gracieuse et d'admission en non-valeur sont prises,
-éventuellement au vu d'une enquête sociale, par l'administrateur après avis du
-conseil de gestion.
+La responsabilité pécuniaire des agents du service de l'action sociale du
+ministère de la défense lorsqu'ils agissent dans le cadre de la délégation de
+signature du directeur général, prévue à l'article R. 3422-8, ne peut être
+recherchée qu'en cas de faute personnelle selon les principes du droit commun
+administratif.

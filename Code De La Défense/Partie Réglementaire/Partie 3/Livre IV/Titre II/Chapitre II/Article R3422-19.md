@@ -1,19 +1,8 @@
 Article R3422-19
 ----
-Les comptes annuels de l'institution comprennent :
-
-1° La balance générale des comptes à la clôture de l'exercice ;
-
-2° Le compte d'exploitation générale ;
-
-3° Le compte des pertes et profits ;
-
-4° Le bilan à la clôture de l'exercice considéré.
-
-Ils sont appuyés d'une situation détaillée présentant l'ensemble des moyens en
-personnel et en matériel mis à la disposition de l'institution, pendant
-l'exercice considéré, par l'Etat ou par d'autres organismes publics ou privés.
-
-Les comptes annuels peuvent être présentés de manière à faire apparaître
-distinctement les résultats de certains établissements ou de certaines branches
-d'activité.
+Les fonds de l'établissement sont déposés au Trésor public.L'établissement peut
+néanmoins, sur autorisation du ministre chargé du budget, déposer des fonds sur
+un compte ouvert dans un établissement de crédit ayant obtenu un agrément régi
+par les dispositions applicables dans les Etats membres de la Communauté
+européenne ou les autres Etats parties à l'accord sur l'Espace économique
+européen, pour un usage strictement lié à un transit technique.

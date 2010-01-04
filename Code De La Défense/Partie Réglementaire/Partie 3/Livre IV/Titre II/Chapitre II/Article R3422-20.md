@@ -1,6 +1,13 @@
 Article R3422-20
 ----
-Les comptes annuels sont préparés par le trésorier comptable central, arrêtés
-par l'administrateur et soumis par lui au conseil de gestion de l'institution.
-Ils sont transmis pour approbation à l'autorité de tutelle au plus tard à la fin
-du premier semestre qui suit l'année à laquelle ils se rapportent.
+Les comptes annuels de l'institution de gestion sociale des armées comprennent
+l'ensemble des états prévus dans le plan comptable général.
+
+Ils sont appuyés d'une situation détaillée présentant l'ensemble des moyens en
+personnel et en matériel mis à la disposition de l'institution de gestion
+sociale des armées, pendant l'exercice considéré, par l'Etat ou par d'autres
+organismes publics ou privés.
+
+Les comptes annuels peuvent être présentés de manière à faire apparaître
+distinctement les résultats de certains établissements ou de certaines branches
+d'activité.

@@ -1,9 +1,10 @@
 Article R3422-10
 ----
-Les opérations financières et comptables de l'institution sont effectuées dans
-le cadre d'états de prévisions de recettes et de dépenses établis pour l'année
-civile.
+Les activités de l'institution de gestion sociale des armées sont gérées par
+branche spécialisée.
 
-Chaque état comprend deux sections, l'une relative à l'exploitation et l'autre
-aux opérations en capital. Il est présenté selon la nomenclature prévue par le
-plan comptable de l'institution.
+Les établissements des différentes branches sont placés sous l'autorité d'un
+directeur responsable devant le directeur général.
+
+Les établissements des différentes branches sont assujettis aux règles de
+fonctionnement qui s'appliquent à leur spécialité ou à leur catégorie.

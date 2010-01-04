@@ -1,16 +1,16 @@
 Article R3422-14
 ----
-Les agents habilités à manier des deniers ou des matières sont pécuniairement
-responsables de leur conservation, de l'encaissement des recettes qu'ils doivent
-recouvrer ainsi que du caractère libératoire des règlements qu'ils effectuent.
+Les recettes et dépenses sont exécutées par un directeur comptable et financier
+désigné par arrêté du ministre de la défense.
 
-Le cas échéant, si l'administrateur ne poursuivait pas la mise en jeu de cette
-responsabilité, le ministre de la défense pourrait en prendre l'initiative, le
-conseil de gestion entendu, sur le vu des rapports qui lui sont remis par les
-organes de contrôle prévus à l'article R. 3422-15.
+Le directeur comptable et financier tient la comptabilité générale de
+l'institution de gestion sociale des armées dans les conditions définies par le
+plan comptable de cet organisme qui s'inspire du plan comptable général et est
+approuvé par la ministre de l'économie, de l'industrie et de l'emploi après avis
+du Conseil national de la comptabilité.
 
-La responsabilité pécuniaire des agents du service de l'action sociale du
-ministère de la défense lorsqu'ils agissent dans le cadre de la délégation de
-signature de l'administrateur, prévue à l'article R. 3422-11, ne peut être
-recherchée qu'en cas de faute personnelle selon les principes du droit commun
-administratif.
+La comptabilité des prix de revient et la comptabilité des matériels et des
+stocks sont tenues par le directeur comptable et financier ou sous son contrôle.
+
+Le directeur comptable et financier contrôle le calcul des coûts de revient
+ainsi que la comptabilité des matériels et des stocks.

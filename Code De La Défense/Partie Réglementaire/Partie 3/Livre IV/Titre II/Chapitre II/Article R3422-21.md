@@ -1,8 +1,7 @@
 Article R3422-21
 ----
-Un exemplaire des comptes annuels, appuyé des pièces justificatives, est
-conservé par le trésorier comptable central pendant dix ans après la clôture de
-l'exercice.
-
-Un autre exemplaire est transmis à la Cour des comptes par le ministre de la
-défense.
+Les comptes annuels sont préparés par le directeur comptable et financier,
+arrêtés par le directeur général et soumis par lui au conseil de gestion de
+l'institution de gestion sociale des armées. Ils sont transmis pour approbation
+à l'autorité de tutelle au plus tard à la fin du mois d'avril qui suit l'année à
+laquelle ils se rapportent.

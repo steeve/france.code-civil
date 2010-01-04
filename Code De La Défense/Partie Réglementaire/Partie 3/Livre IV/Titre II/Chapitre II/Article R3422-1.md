@@ -1,17 +1,13 @@
 Article R3422-1
 ----
-L'Institution de gestion sociale des armées exerce son activité dans le cadre de
-la politique sociale définie par le ministre de la défense :
+L'activité de l'institution de gestion sociale des armées s'exerce, dans le
+cadre de la politique sociale définie par le ministre de la défense, au bénéfice
+des ressortissants de l'action sociale des armées mentionnés à l'article L.
+3422-1 du code de la défense.
 
-1° En priorité, et pour l'ensemble des prestations, au profit des personnels
-civils et militaires en activité relevant du ministère de la défense et de leurs
-familles ;
+Les conventions mentionnées au deuxième alinéa du même article peuvent être
+conclues avec d'autres départements ministériels, ou avec des personnes morales,
+publiques ou privées.
 
-2° A titre complémentaire, et dans les conditions fixées par le ministre de la
-défense pour chaque catégorie de bénéficiaires éventuels, au profit des
-personnels civils ou militaires anciens ressortissants du ministère de la
-défense et de leurs familles ;
-
-3° Dans les conditions fixées par des conventions conclues avec des personnes
-morales, publiques ou privées, au profit de personnels autres que ceux
-mentionnés ci-dessus.
+Le lieu d'implantation du siège social de l'institution de gestion sociale des
+armées est fixé par arrêté du ministre de la défense.

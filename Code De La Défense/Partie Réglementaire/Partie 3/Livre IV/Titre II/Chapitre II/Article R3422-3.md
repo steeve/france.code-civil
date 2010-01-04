@@ -1,51 +1,79 @@
 Article R3422-3
 ----
-I. ― L'Institution de gestion sociale des armées est administrée par un conseil
-de gestion comprenant l'administrateur de l'institution, qui le préside, et
-vingt-six membres :
+I. - L'institution de gestion sociale des armées est administrée par un conseil
+de gestion composé de seize membres.
 
-1° Treize membres titulaires et leurs suppléants représentant les usagers, à
-raison de dix membres pour les usagers militaires et de trois membres pour les
-usagers civils :
+II. - Le président du conseil de gestion est nommé par décret, sur proposition
+du ministre de la défense. La limite d'âge qui lui est applicable est fixée à
+soixante-dix ans. La durée de son mandat est de quatre ans renouvelables.
 
-a) Les représentants des usagers militaires et leurs suppléants sont désignés,
-par armée et par collège, par les représentants du personnel militaire au
-conseil central de l'action sociale du ministère de la défense, en leur sein,
-selon des modalités fixées par le ministre de la défense ;
+III. - Le conseil de gestion comprend, outre son président :
 
-b) Les représentants des usagers civils et leurs suppléants sont désignés, parmi
-les membres du conseil central de l'action sociale représentant le personnel
-civil, par les fédérations syndicales au prorata des suffrages obtenus par elles
-tous collèges confondus aux élections des comités sociaux, selon les règles de
-la représentation proportionnelle et de la plus forte moyenne ;
+1° Huit membres de droit :
 
-2° Neuf membres titulaires et leurs suppléants représentants de
-l'administration, nommés par le ministre de la défense ;
+a) Le chef d'état-major des armées ou son représentant ;
 
-3° Trois membres titulaires et leurs suppléants, nommés par le ministre de la
-défense en raison de leur compétence dans les domaines administratif, financier,
-social, médico-social ou culturel ;
+b) Le délégué général pour l'armement ou son représentant ;
 
-4° Un membre titulaire et son suppléant, désignés par les membres de l'instance
-représentative du personnel de l'institution de gestion sociale des armées en
-leur sein.
+c) Le secrétaire général pour l'administration ou son représentant ;
 
-II. ― Les membres du conseil de gestion et leurs suppléants sont désignés, à
-compter d'une même date, pour une période de quatre ans renouvelable.
+d) Le chef d'état-major de l'armée de terre ou son représentant ;
 
-III. ― Lorsqu'un membre du conseil de gestion ou son suppléant cesse d'exercer
-ses fonctions ou qu'il est mis fin à celles-ci, il est remplacé, dans les
-conditions fixées pour la nomination des membres, pour la durée du mandat
-restant à courir.
+e) Le chef d'état-major de la marine ou son représentant ;
 
-IV. ― Assistent, en outre, aux délibérations avec voix consultative :
+f) Le chef d'état-major de l'armée de l'air ou son représentant ;
 
-1° Le contrôleur financier auprès du ministre de la défense ;
+g) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-2° Un représentant du contrôle général des armées ;
+h) Le sous-directeur de l'action sociale ou son représentant.
 
-3° L'administrateur adjoint.
+2° Trois personnalités qualifiées et leurs suppléants désignés en raison de leur
+compétence dans les domaines administratif, financier, social, médico-social ou
+culturel. Elles sont désignées par arrêtés conjoints du ministre de la défense
+et, chacun pour ce qui le concerne, du ministre chargé de la santé et des
+sports, du ministre chargé de la jeunesse et du ministre chargé du tourisme ;
 
-V. ― Le conseil de gestion peut inviter à participer à ses séances avec voix
-consultative toute personne dont la présence serait jugée utile sur un point
-particulier de l'ordre du jour.
+3° Deux membres représentant respectivement les cadres et les non-cadres de
+l'institution de gestion sociale des armées. Ces représentants des salariés,
+ainsi que leurs suppléants, sont élus par collège au scrutin secret, dans les
+conditions fixées par l'accord d'entreprise ;
+
+4° Deux représentants du conseil central de l'action sociale du ministère de la
+défense, dont un représentant des ressortissants militaires et son suppléant,
+désignés par les représentants du personnel militaire en leur sein, et un
+représentant des ressortissants civils et son suppléant désignés par les
+représentants du personnel civil en leur sein.
+
+Les membres du conseil de gestion et leurs suppléants mentionnés aux points 2, 3
+et 4 ci-dessus sont désignés, à compter d'une même date, pour une période de
+quatre ans renouvelables.
+
+Le mandat des membres du conseil de gestion est gratuit, sous réserve du
+remboursement des frais de déplacement dans les conditions prévues par la
+réglementation en vigueur.
+
+Lorsque l'un de ces membres ou son suppléant cesse d'exercer ses fonctions ou
+qu'il est mis fin à celles-ci, il est remplacé, dans les conditions fixées pour
+la nomination des membres, pour la durée du mandat restant à courir.
+
+IV. - Assistent, en outre, aux séances avec voix consultative :
+
+1° Un représentant du contrôle général des armées ;
+
+2° Un inspecteur général des armées ;
+
+3° L'inspecteur civil de la défense intervenant en matière d'action sociale des
+armées ;
+
+4° Le représentant de l'autorité en charge du contrôle économique et financier
+de l'institution de gestion sociale des armées ou son suppléant ;
+
+5° Le directeur général de l'institution de gestion sociale des armées ;
+
+6° Le directeur général adjoint de l'institution de gestion sociale des armées ;
+
+7° Le commissaire aux comptes.
+
+V. - Le président du conseil de gestion peut inviter à participer aux séances,
+avec voix consultative, toute personne dont la présence serait jugée utile sur
+un point particulier de l'ordre du jour.

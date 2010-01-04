@@ -1,37 +1,41 @@
 Article R3422-5
 ----
-I. ― Le conseil de gestion délibère obligatoirement sur les objets ci-après :
+I.-Le conseil de gestion détermine, dans le cadre des orientations fixées par le
+ministre de la défense, la politique générale de l'institution de gestion
+sociale des armées.
 
-1° Organisation générale de l'institution ;
+II.-Il délibère notamment sur les objets ci-après :
 
-2° Règlement du personnel ;
+1° Organisation générale de l'institution de gestion sociale des armées ;
 
-3° Détermination du tableau d'effectifs et des normes de rémunération des
-personnels ;
+2° Conditions générales de recrutement, d'emploi et de rémunération du personnel
+;
 
-4° Etats de prévisions de recettes et de dépenses et tarifs applicables dans les
-établissements gérés par l'institution ;
+3° Etats de prévisions de recettes et de dépenses et tarifs applicables dans les
+établissements gérés par l'institution de gestion sociale des armées ;
 
-5° Bilans et comptes de résultats d'ensemble, bilans et comptes de résultats par
-branche d'activités ;
+4° Bilan, annexe et compte de résultats d'ensemble, bilans, annexes et comptes
+de résultats par branche d'activité ;
 
-6° Acquisitions, extensions ou cessions de participations financières à des
+5° Acquisitions, extensions ou cessions de participations financières à des
 œuvres ou organismes d'intérêt social ;
 
-7° Emprunts, avances remboursables et garanties, quel qu'en soit le montant ;
+6° Emprunts, avances remboursables et garanties, quel qu'en soit le montant ;
 
-8° Acquisitions et aliénations d'immeubles, baux ;
+7° Acquisitions et aliénations d'immeubles, baux ;
 
-9° Règles générales de passation des contrats ;
+8° Règles générales de passation des contrats ;
 
-10° Conventions avec des personnes morales publiques ou privées ;
+9° Conventions avec des personnes morales, publiques ou privées ;
 
-11° Mise en jeu de la responsabilité pécuniaire des agents habilités à manier
-des deniers ou des matières ;
+10° Mise en jeu de la responsabilité pécuniaire des agents habilités à manier
+des deniers ou des matières lorsque les dispositions de l'article R. 3422-16
+sont mises en œuvre ;
 
-12° Remises gracieuses et admissions en non-valeur ;
+11° Remises gracieuses et admissions en non-valeur ;
 
-13° Transaction.
+12° Transactions.
 
-II. ― L'administrateur peut soumettre toute autre question au conseil de gestion
-pour délibération ou avis.
+III.-Le président peut soumettre toute autre question au conseil de gestion pour
+délibération ou avis. Il peut également décider que des communications sont
+portées à la connaissance des membres par le directeur général.

@@ -1,6 +1,11 @@
 Article R3422-17
 ----
-Les taux d'amortissement des biens meubles et immeubles composant le patrimoine
-de l'institution sont fixés par l'administrateur qui détermine également, dans
-le cadre du plan comptable mentionné à l'article R. 3422-12, les modalités de
-tenue des inventaires.
+Les créances de l'institution de gestion sociale des armées peuvent faire
+l'objet :
+
+- soit d'une remise gracieuse en cas de gêne des débiteurs ;
+
+- soit d'une admission en non-valeur en cas d'insolvabilité des débiteurs.
+
+Les décisions de remise gracieuse et d'admission en non-valeur sont prises,
+éventuellement au vu d'une expertise sociale, par le conseil de gestion.
