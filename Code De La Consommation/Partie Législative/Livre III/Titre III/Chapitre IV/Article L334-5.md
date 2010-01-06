@@ -12,13 +12,14 @@ b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par
 dispositions suivantes :
 
 Nonobstant toute disposition contraire, la commission peut obtenir
-communication, auprès des administrations publiques et des établissements de
-crédit ainsi que des services chargés de centraliser les risques bancaires et
-les incidents de paiement, de tout renseignement de nature à lui donner une
-exacte information sur la situation du débiteur, l'évolution possible de
-celle-ci et les procédures de conciliation amiables en cours. Elle peut obtenir
-communication de ces mêmes renseignements auprès des organismes de sécurité et
-de prévoyance sociale, sous réserve de leur accord.
+communication, auprès des administrations publiques, des établissements de
+crédit et des établissements de paiement ainsi que des services chargés de
+centraliser les risques bancaires et les incidents de paiement, de tout
+renseignement de nature à lui donner une exacte information sur la situation du
+débiteur, l'évolution possible de celle-ci et les procédures de conciliation
+amiables en cours. Elle peut obtenir communication de ces mêmes renseignements
+auprès des organismes de sécurité et de prévoyance sociale, sous réserve de leur
+accord.
 
 Les collectivités territoriales et les organismes de sécurité sociale peuvent
 procéder, à sa demande, à des enquêtes sociales ;

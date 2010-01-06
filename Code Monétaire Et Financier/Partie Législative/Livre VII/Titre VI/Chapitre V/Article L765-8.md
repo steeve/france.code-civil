@@ -1,6 +1,6 @@
 Article L765-8
 ----
-Les articles L. 524-1 à L. 524-7 sont applicables dans les îles
-Wallis-et-Futuna.
+Le chapitre Ier du titre II du livre V est applicable dans les îles Wallis et
+Futuna.
 
-Les articles L. 572-1 à L. 572-4 s'y appliquent également.
+Les articles L. 572-5 à L. 572-12 y sont également applicables.

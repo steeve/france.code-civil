@@ -1,4 +1,9 @@
 Article L755-8
 ----
-Les articles L. 524-1 à L. 524-7 ainsi que les articles L. 572-1 à L. 572-4 sont
-applicables en Polynésie française.
+Le chapitre Ier du titre II du livre V est applicable en Polynésie française.
+L'office des postes et télécommunications de Polynésie française est considéré
+comme prestataire de services de paiement sans être soumis aux dispositions du
+chapitre II du livre V lorsqu'il fournit des services de paiement dans les
+limites des dispositions législatives qui le régissent.
+
+Les articles L. 572-5 à L. 572-12 y sont également applicables.

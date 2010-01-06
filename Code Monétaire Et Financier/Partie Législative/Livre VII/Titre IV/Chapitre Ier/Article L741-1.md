@@ -1,3 +1,4 @@
 Article L741-1
 ----
-Les articles L. 112-6 et L. 112-7 sont applicables en Nouvelle-Calédonie.
+Les articles L. 112-6, L. 112-7, L. 112-11 et L. 112-12 sont applicables en
+Nouvelle-Calédonie.

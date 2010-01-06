@@ -1,3 +1,3 @@
 Article L756-4-2
 ----
-L'article L. 615-1 est applicable en Polynésie française.
+Les articles L. 615-1 et L. 615-2 sont applicables en Polynésie française.
