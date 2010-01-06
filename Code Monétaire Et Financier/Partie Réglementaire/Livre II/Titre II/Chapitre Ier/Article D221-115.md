@@ -26,23 +26,24 @@ renseignements suivants :
 a) L'identité et l'adresse du titulaire du compte ;
 
 b) L'indication que le titulaire remplit les conditions fixées au II de
-l'article L.221-33 ;
+l'article L. 221-33 ;
 
 c) Le montant des versements au compte épargne codéveloppement au cours de
 l'année diminués du montant des retraits au cours de la même année ;
 
 d) Le montant des retraits réalisés en vue d'un investissement défini au III de
-l'article L.221-33 et le montant des retraits qui ont supporté le prélèvement
-prévu au III de l'article 163 quinvicies du code général des impôts.
+l'article L. 221-33 et le montant des retraits qui ont supporté le prélèvement
+et la majoration prévus au troisième alinéa de l'article 199 quinvicies du code
+général des impôts.
 
-IV.-La convention prévue au paragraphe I de l'article L.221-33 stipule notamment
-:
+IV.-La convention prévue au paragraphe I de l'article L. 221-33 stipule
+notamment :
 
 -les obligations en matière d'information des établissements de crédit et des
 établissements autorisés à recevoir des dépôts à l'égard des titulaires d'un
 compte épargne codéveloppement ;
 
--les déclarations à faire au comité prévu au paragraphe V de l'article L.221-33
+-les déclarations à faire au comité prévu au paragraphe V de l'article L. 221-33
 et à l'administration à des fins de statistiques, de gestion et de contrôle.
 
 V.-L'ouverture d'un compte épargne codéveloppement doit faire l'objet d'une
@@ -52,13 +53,14 @@ a) Lors de l'ouverture du compte et au cours des deux premiers mois de chacune
 des années suivantes, la remise par le titulaire du compte d'une copie de sa
 carte de séjour en cours de validité permettant l'exercice d'une activité
 professionnelle, établissant qu'il est ressortissant d'un pays mentionné dans la
-liste prévue au paragraphe II de l'article L.221-33 ;
+liste prévue au paragraphe II de l'article L. 221-33 ;
 
 b) Préalablement au retrait total ou partiel des sommes inscrites au crédit du
 compte épargne codéveloppement, la remise par le titulaire du compte d'un
 formulaire rempli et signé par ce dernier dont le modèle est annexé à la
-convention prévue au I de l'article L.221-33 qui précise notamment que les fonds
-seront investis dans les conditions prévues aux II et III de l'article L.221-33.
+convention prévue au I de l'article L. 221-33 qui précise notamment que les
+fonds seront investis dans les conditions prévues aux II et III de l'article L.
+221-33.
 
 c) Les conditions de rémunération des sommes inscrites au crédit du compte
 épargne codéveloppement ;
@@ -66,7 +68,7 @@ c) Les conditions de rémunération des sommes inscrites au crédit du compte
 d) La durée du compte épargne codéveloppement. Cette durée ne peut être
 inférieure à un an et supérieure à six ans à compter du versement initial sous
 réserve que le titulaire continue à respecter les conditions définies à
-l'article L.221-33 ;
+l'article L. 221-33 ;
 
 e) Les conditions dans lesquelles le titulaire peut obtenir le transfert de son
 compte vers un autre établissement, notamment les frais encourus.
