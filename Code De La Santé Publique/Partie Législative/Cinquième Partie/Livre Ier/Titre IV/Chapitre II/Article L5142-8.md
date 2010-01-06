@@ -1,8 +1,8 @@
 Article L5142-8
 ----
 Sont déterminés, en tant que de besoin, par décret en Conseil d'Etat pris après
-avis de l'agence française de sécurité sanitaire des aliments, à l'exception du
-cas prévu au 1° :
+avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation,
+de l'environnement et du travail, à l'exception du cas prévu au 1° :
 
 1° Les droits et obligations des pharmaciens et des vétérinaires responsables et
 des pharmaciens et vétérinaires délégués mentionnés à l'article L. 5142-1, la

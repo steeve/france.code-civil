@@ -1,7 +1,8 @@
 Article L3322-11
 ----
-Sont déterminées par décrets en Conseil d'Etat, après avis de l'Agence française
-de sécurité sanitaire des aliments et de l'Académie nationale de médecine :
+Sont déterminées par décrets en Conseil d'Etat, après avis de l'Agence nationale
+chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
+travail et de l'Académie nationale de médecine :
 
 1° Les modalités de fabrication, de détention en vue de la vente, de mise en
 vente et de vente de toute boisson mentionnée à l'article L. 3321-1, dans la

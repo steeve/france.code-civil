@@ -58,8 +58,7 @@ contenu du dossier présenté à l'appui de ces demandes, ainsi que les conditio
 dans lesquelles interviennent les décisions accordant, modifiant, renouvelant,
 suspendant ou supprimant ces autorisations ;
 
-12° Les modalités d'application du présent titre aux départements d'outre-mer et
-à Saint-Barthélemy et à Saint-Martin ;
+12° Les modalités d'application du présent titre aux départements d'outre-mer ;
 
 13° Les conditions dans lesquelles les vétérinaires mentionnés à l'article L.
 5141-15 peuvent utiliser les médicaments vétérinaires mentionnés au même article

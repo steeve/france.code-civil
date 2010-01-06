@@ -1,7 +1,8 @@
 Article L5144-3
 ----
-Des décrets pris après avis de l'agence française de sécurité sanitaire des
-aliments fixent les autres modalités d'application du présent titre.
+Des décrets pris après avis de l'Agence nationale chargée de la sécurité
+sanitaire de l'alimentation, de l'environnement et du travail fixent les autres
+modalités d'application du présent titre.
 
 Des dérogations aux dispositions du présent titre peuvent être accordées, par
 arrêté des ministres chargés de l'agriculture et de la santé pour la délivrance

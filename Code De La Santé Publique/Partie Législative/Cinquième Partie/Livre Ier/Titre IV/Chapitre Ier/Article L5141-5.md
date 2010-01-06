@@ -6,8 +6,9 @@ autorisation de mise sur le marché délivrée par l'Union européenne en
 application du règlement (CE) n° 726 / 2004 du Parlement européen et du Conseil
 du 31 mars 2004 doit faire l'objet, avant sa mise sur le marché ou sa
 distribution à titre gratuit, d'une autorisation préalable de mise sur le marché
-délivrée par l'Agence française de sécurité sanitaire des
-aliments.L'autorisation peut être assortie de conditions appropriées.
+délivrée par l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail. L'autorisation peut être
+assortie de conditions appropriées.
 
 Par exception au premier alinéa, ne sont pas soumis à autorisation de mise sur
 le marché les aliments médicamenteux, les autovaccins à usage vétérinaire, les
@@ -17,7 +18,7 @@ médicaments vétérinaires soumis aux essais de recherche et de développement,
 compris les essais cliniques.
 
 Une autorisation de mise sur le marché ne peut être délivrée qu'à un demandeur
-établi dans un Etat membre de l'Union européenne.
+établi dans un Etat membre de la Communauté européenne.
 
 Le demandeur de l'autorisation peut être dispensé de produire certaines données
 et études dans des conditions fixées par voie réglementaire.
@@ -32,9 +33,9 @@ définis au 1° de l'article L. 5141-6. Ce décret détermine également les
 conditions dans lesquelles elle peut devenir caduque.
 
 Toute modification substantielle des éléments d'une autorisation de mise sur le
-marché délivrée par l'Agence française de sécurité sanitaire des aliments doit
-faire l'objet d'une autorisation préalable. Les autres modifications font
-l'objet d'une déclaration.
+marché délivrée par l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail doit faire l'objet d'une
+autorisation préalable. Les autres modifications font l'objet d'une déclaration.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant et, s'il est distinct, le titulaire de l'autorisation de

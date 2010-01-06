@@ -20,7 +20,7 @@ La contribution prévue à l'alinéa précédent est assise, s'agissant des mess
 publicitaires, sur le montant annuel des sommes destinées à l'émission et à la
 diffusion de ces messages, hors remise, rabais, ristourne et taxe sur la valeur
 ajoutée, payées par les annonceurs. Le montant de cette contribution est égal à
-1,5 % du montant de ces sommes.
+1, 5 % du montant de ces sommes.
 
 La contribution prévue au deuxième alinéa est assise, s'agissant des autres
 types de promotion de ces produits, sur la valeur hors taxe sur la valeur
@@ -30,7 +30,7 @@ fournisseurs qui se rapportent expressément à ces dépenses. La base d'imposit
 des promoteurs qui effectuent tout ou partie des opérations de réalisation et de
 distribution avec leurs propres moyens d'exploitation est constituée par le prix
 de revient hors taxe sur la valeur ajoutée de toutes les dépenses ayant concouru
-à la réalisation desdites opérations. Le taux de la contribution est fixé à 1,5
+à la réalisation desdites opérations. Le taux de la contribution est fixé à 1, 5
 % du montant hors taxe sur la valeur ajoutée de ces dépenses.
 
 Le fait générateur est constitué par la diffusion des messages publicitaires ou
@@ -40,15 +40,16 @@ première mise à disposition des documents visés. La contribution est déclar�
 liquidée, recouvrée et contrôlée selon les procédures et sous les mêmes
 sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les
 réclamations sont présentées, instruites et jugées selon les règles applicables
-à cette même taxe. Il est opéré un prélèvement de 1,5 % effectué par l'Etat sur
+à cette même taxe. Il est opéré un prélèvement de 1, 5 % effectué par l'Etat sur
 le montant de cette contribution pour frais d'assiette et de recouvrement.
 
 Les modalités d'application du présent article, et notamment les conditions de
 consultation des annonceurs sur les actions de l'Institut national de prévention
 et d'éducation pour la santé, sont déterminées par décret en Conseil d'Etat pris
-après avis de l'Agence française de sécurité sanitaire des aliments et de
-l'Institut national de prévention et d'éducation pour la santé et après
-consultation du Bureau de vérification de la publicité.
+après avis de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail et de l'Institut national de
+prévention et d'éducation pour la santé et après consultation du Bureau de
+vérification de la publicité.
 
 Les dispositions du présent article entrent en vigueur à la date de publication
 du décret mentionné au précédent alinéa, et au plus tard le 1er janvier 2006.

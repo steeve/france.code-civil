@@ -46,13 +46,14 @@ taux résiduels, les modalités de la déclaration au préfet, préalablement à
 mise sur le marché de ces denrées et les règles concernant la destination de ces
 denrées sont fixées par décret.
 
-VI.-Par arrêtés pris après avis de l'Agence française de sécurité sanitaire des
-aliments, et, en ce qui concerne les médicaments à usage humain, après avis de
-l'Agence française de sécurité sanitaire des produits de santé, le ministre de
-l'agriculture et le ministre chargé de la santé peuvent, pour des motifs de
-santé publique ou de santé animale, interdire ou restreindre la prescription et
-la délivrance de médicaments en vue d'une administration à des animaux, ainsi
-que l'administration de médicaments à des animaux.
+VI.-Par arrêtés pris après avis de l'Agence nationale chargée de la sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, et, en ce qui
+concerne les médicaments à usage humain, après avis de l'Agence française de
+sécurité sanitaire des produits de santé, le ministre de l'agriculture et le
+ministre chargé de la santé peuvent, pour des motifs de santé publique ou de
+santé animale, interdire ou restreindre la prescription et la délivrance de
+médicaments en vue d'une administration à des animaux, ainsi que
+l'administration de médicaments à des animaux.
 
 VII.-Un médicament vétérinaire soumis à autorisation de mise sur le marché en
 application de l'article L. 5141-5 du code de la santé publique ne peut être
@@ -130,7 +131,8 @@ dans les aliments d'origine animale. Si le médicament utilisé n'indique aucun
 temps d'attente pour les espèces concernées, le vétérinaire fixe le temps
 d'attente applicable qui ne peut être inférieur au minimum fixé pour la denrée
 animale considérée, par arrêté des ministres chargés de l'agriculture et de la
-santé après avis de l'Agence française de sécurité sanitaire des aliments.
+santé après avis de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 " Le précédent alinéa ne s'applique pas aux équidés identifiés conformément à
 l'article L. 212-9 du code rural et déclarés comme n'étant pas destinés à
@@ -155,7 +157,8 @@ traitement dans le document d'identification obligatoire ;
 
 " c) Le vétérinaire fixe un temps d'attente qui ne peut être inférieur à une
 durée fixée par arrêté des ministres chargés de l'agriculture et de la santé,
-après avis de l'Agence française de sécurité sanitaire des aliments. "
+après avis de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail. "
 
 " Art.L. 5143-5 :
 

@@ -21,10 +21,10 @@ Il en est de même pour tout autre animal mordu ou griffé par un animal reconnu
 enragé. Toutefois, à la demande expresse de leur propriétaire, les animaux
 valablement vaccinés contre la rage pourront, dans certains cas, et sous
 certaines réserves, être conservés ; un arrêté du ministre chargé de
-l'agriculture, pris après avis du Centre national d'études vétérinaires et
-alimentaires, détermine ces cas et ces réserves, les espèces animales auxquelles
-ils s'appliquent ainsi que les conditions requises pour que la vaccination soit
-considérée comme valable.
+l'agriculture, pris après avis de l'Agence nationale chargée de la sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, détermine ces cas
+et ces réserves, les espèces animales auxquelles ils s'appliquent ainsi que les
+conditions requises pour que la vaccination soit considérée comme valable.
 
 L'abattage des animaux suspects et de ceux qu'ils auraient pu contaminer de rage
 peut être ordonné, dans tous les cas, si ces animaux se montrent dangereux ou si

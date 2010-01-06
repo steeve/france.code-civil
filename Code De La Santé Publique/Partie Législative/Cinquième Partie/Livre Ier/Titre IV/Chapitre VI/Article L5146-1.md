@@ -4,8 +4,9 @@ Le contrôle de l'application des dispositions du présent titre, ainsi que des
 mesures réglementaires prises pour leur application, est assuré concurremment
 par :
 
-1° Les inspecteurs de l'Agence française de sécurité sanitaire des aliments dans
-son domaine de compétence ;
+1° Les inspecteurs de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail dans son domaine de compétence
+;
 
 2° Les inspecteurs mentionnés à l'article L. 5127-1 ;
 
@@ -20,5 +21,5 @@ articles L. 1421-1, L. 1421-2, L. 1421-2-1, L. 1421-3 et L. 5127-2.
 
 La consignation prévue à l'article L. 5127-2 peut également porter sur des
 produits présentant ou susceptibles de présenter un danger pour la santé
-animale.L'article L. 5425-1 est applicable en cas de mise sur le marché ou
+animale. L'article L. 5425-1 est applicable en cas de mise sur le marché ou
 d'utilisation de produits consignés en application du présent article.

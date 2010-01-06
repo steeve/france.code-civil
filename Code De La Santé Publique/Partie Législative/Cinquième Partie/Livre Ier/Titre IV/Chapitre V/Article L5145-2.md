@@ -1,5 +1,6 @@
 Article L5145-2
 ----
-Le directeur de l'agence nationale du médicament vétérinaire est nommé, sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-aliments, par arrêté des ministres chargés de l'agriculture et de la santé.
+Le directeur de l'Agence nationale du médicament vétérinaire est nommé par
+arrêté des ministres compétents sur proposition du directeur général de l'Agence
+nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.

@@ -3,7 +3,8 @@ Article L5141-4
 Les essais non cliniques destinés à évaluer les propriétés et l'innocuité des
 médicaments à usage vétérinaire doivent être conformes aux bonnes pratiques de
 laboratoire dont les principes sont fixés par décision du directeur général de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 Les bonnes pratiques de laboratoire doivent garantir la qualité et l'intégrité
 des résultats des essais. Elles concernent l'organisation du laboratoire et les
@@ -11,7 +12,8 @@ conditions dans lesquelles ces essais sont prévus, réalisés et rapportés. Le
 règles générales relatives aux modalités d'inspection et de vérification des
 bonnes pratiques de laboratoire ainsi qu'à la délivrance de documents attestant
 de leur respect sont définies par décision du directeur général de l'Agence
-française de sécurité sanitaire des aliments. Les essais cliniques doivent
-respecter les bonnes pratiques cliniques dont les principes sont fixés par
-décision du directeur général de l'Agence française de sécurité sanitaire des
-aliments.
+nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
+et du travail. Les essais cliniques doivent respecter les bonnes pratiques
+cliniques dont les principes sont fixés par décision du directeur général de
+l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.

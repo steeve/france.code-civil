@@ -12,8 +12,8 @@ et un inventaire des consommations d'énergie. Il publie également un rapport s
 la qualité de l'air, son évolution possible et ses effets sur la santé et
 l'environnement.L'inventaire des émissions des substances polluantes et le
 rapport sur la qualité de l'air, son évolution possible et ses effets sur la
-santé et l'environnement sont soumis à l'avis de l'Agence française de sécurité
-sanitaire de l'environnement et du travail.
+santé et l'environnement sont soumis à l'avis de l'Agence nationale chargée de
+la sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 Lorsque les normes de qualité de l'air mentionnées à l'article L. 221-1 ne sont
 pas respectées ou risquent de ne pas l'être, le public en est immédiatement

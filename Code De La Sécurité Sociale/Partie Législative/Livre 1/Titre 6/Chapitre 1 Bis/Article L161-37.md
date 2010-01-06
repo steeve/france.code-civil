@@ -8,9 +8,9 @@ prestations de santé et du service qu'ils rendent, et contribuer par ses avis �
 l'élaboration des décisions relatives à l'inscription, au remboursement et à la
 prise en charge par l'assurance maladie des produits, actes ou prestations de
 santé ainsi qu'aux conditions particulières de prise en charge des soins
-dispensés aux personnes atteintes d'affections de longue durée.A cet effet, elle
-émet également un avis sur les conditions de prescription, de réalisation ou
-d'emploi des actes, produits ou prestations de santé et réalise ou valide des
+dispensés aux personnes atteintes d'affections de longue durée. A cet effet,
+elle émet également un avis sur les conditions de prescription, de réalisation
+ou d'emploi des actes, produits ou prestations de santé et réalise ou valide des
 études d'évaluation des technologies de santé ;
 
 2° Elaborer les guides de bon usage des soins ou les recommandations de bonne
@@ -39,9 +39,10 @@ laboratoires de biologie médicale.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence française de sécurité sanitaire des produits de
-santé, l'Institut national de veille sanitaire et l'Agence française de sécurité
-sanitaire des aliments. Elle peut mener toute action commune avec les organismes
-ayant compétence en matière de recherche dans le domaine de la santé.
+santé, l'Institut national de veille sanitaire et l'Agence nationale chargée de
+la sécurité sanitaire de l'alimentation, de l'environnement et du travail. Elle
+peut mener toute action commune avec les organismes ayant compétence en matière
+de recherche dans le domaine de la santé.
 
 La Haute Autorité de santé rend publics l'ordre du jour et les comptes rendus
 assortis des détails et explications des votes, y compris les opinions

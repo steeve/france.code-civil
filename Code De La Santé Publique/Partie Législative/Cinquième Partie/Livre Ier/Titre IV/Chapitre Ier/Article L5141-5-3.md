@@ -9,9 +9,10 @@ titulaire de ces droits.
 
 Préalablement à cette commercialisation, le titulaire de l'autorisation de mise
 sur le marché du médicament générique vétérinaire informe le directeur général
-de l'Agence française de sécurité sanitaire des aliments des indications, formes
-pharmaceutiques et dosages du médicament vétérinaire de référence pour lesquels
-les droits de propriété intellectuelle n'ont pas expiré.
+de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail des indications, formes pharmaceutiques et dosages
+du médicament vétérinaire de référence pour lesquels les droits de propriété
+intellectuelle n'ont pas expiré.
 
 Les dispositions du présent article s'appliquent également aux médicaments
 biologiques vétérinaires similaires définis au 10° de l'article L. 5141-2 et aux

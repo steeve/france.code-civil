@@ -17,5 +17,6 @@ Ces dispositions ne sont applicables que dans les départements indemnes de rage
 Toutefois, sans préjudice des articles L. 223-9 à L. 223-16, dans les
 départements déclarés officiellement infectés de rage, des dérogations peuvent
 être accordées aux communes qui le demandent, par arrêté préfectoral, après avis
-favorable du Centre national d'études vétérinaires et alimentaires selon des
-critères scientifiques visant à évaluer le risque rabique.
+favorable de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail selon des critères
+scientifiques visant à évaluer le risque rabique.

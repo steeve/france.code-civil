@@ -17,9 +17,9 @@ d) Substances vénéneuses ;
 
 e) Substances pharmacologiquement actives susceptibles de demeurer à l'état de
 résidus toxiques ou dangereux dans les denrées alimentaires d'origine animale et
-figurant dans l'une des annexes I ou III du règlement du Conseil (CEE) n°
-2377/90 du 26 juin 1990 établissant une procédure communautaire pour la fixation
-des limites maximales de résidus de médicaments vétérinaires dans les aliments
+figurant dans l'une des annexes I ou III du règlement du Conseil (CEE) n° 2377 /
+90 du 26 juin 1990 établissant une procédure communautaire pour la fixation des
+limites maximales de résidus de médicaments vétérinaires dans les aliments
 d'origine animale ;
 
 f) Produits dont les effets sont susceptibles d'être à l'origine d'une
@@ -33,8 +33,8 @@ agricoles visés à l'article L. 5143-6, ou détenues ou possédées par ces él
 ou groupements, sauf si elles sont destinées à être employées pour des usages
 agricoles ou phytosanitaires autorisés.
 
-Un décret pris après avis de l'agence française de sécurité sanitaire des
-aliments fixe la liste et les conditions particulières de délivrance des
-substances ou des catégories de substances pouvant être utilisées pour fabriquer
-des médicaments vétérinaires faisant l'objet d'un temps d'attente en application
-de l'article L. 5141-6.
+Un décret pris après avis de l'Agence nationale chargée de la sécurité sanitaire
+de l'alimentation, de l'environnement et du travail fixe la liste et les
+conditions particulières de délivrance des substances ou des catégories de
+substances pouvant être utilisées pour fabriquer des médicaments vétérinaires
+faisant l'objet d'un temps d'attente en application de l'article L. 5141-6.

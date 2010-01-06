@@ -2,13 +2,14 @@ Article L5141-9
 ----
 Par exception aux dispositions de l'article L. 5141-5, ne sont pas soumis à
 l'autorisation de mise sur le marché prévue à cet article mais à un
-enregistrement auprès de l'Agence française de sécurité sanitaire des aliments
-les médicaments homéopathiques vétérinaires autres qu'immunologiques
-satisfaisant à l'ensemble des critères suivants :
+enregistrement auprès de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail les médicaments homéopathiques
+vétérinaires autres qu'immunologiques satisfaisant à l'ensemble des critères
+suivants :
 
 1° Une voie d'administration décrite par la pharmacopée européenne ou la
 pharmacopée française ou, à défaut, par les pharmacopées utilisées de façon
-officielle dans les autres Etats membres de l'Union européenne ;
+officielle dans les autres Etats membres de la Communauté européenne ;
 
 2° L'absence d'indication thérapeutique particulière sur l'étiquetage ou dans
 toute information relative au médicament ;
@@ -28,7 +29,7 @@ refusé en cas de danger pour la santé humaine ou la santé animale.
 L'enregistrement peut s'appliquer à une série de médicaments homéopathiques
 vétérinaires obtenus à partir de la ou des mêmes souches homéopathiques.
 
-L'agence enregistre le médicament pour une durée de cinq ans.L'enregistrement
+L'agence enregistre le médicament pour une durée de cinq ans. L'enregistrement
 peut ensuite être renouvelé, le cas échéant sans limitation de durée, dans des
 conditions fixées par décret en Conseil d'Etat. Ce décret détermine également
 les conditions dans lesquelles l'enregistrement devient caduc.

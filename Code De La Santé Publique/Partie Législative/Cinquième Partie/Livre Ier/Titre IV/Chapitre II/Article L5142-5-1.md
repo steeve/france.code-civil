@@ -1,9 +1,9 @@
 Article L5142-5-1
 ----
-L'Agence française de sécurité sanitaire des aliments peut interdire la
-fabrication, l'importation, la détention et la vente de médicaments
-immunologiques vétérinaires sur tout ou partie du territoire national s'il est
-établi :
+L'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail peut interdire la fabrication, l'importation, la
+détention et la vente de médicaments immunologiques vétérinaires sur tout ou
+partie du territoire national s'il est établi :
 
 1° Soit que l'administration d'un médicament immunologique vétérinaire interfère
 avec un programme national pour le diagnostic, le contrôle ou l'éradication

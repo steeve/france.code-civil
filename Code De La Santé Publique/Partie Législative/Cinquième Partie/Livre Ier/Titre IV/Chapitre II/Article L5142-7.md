@@ -1,7 +1,8 @@
 Article L5142-7
 ----
 L'importation de médicaments vétérinaires est subordonnée à une autorisation de
-l'agence française de sécurité sanitaire des aliments.
+l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 L'autorisation de mise sur le marché prévue à l'article L. 5141-5, les
 autorisations temporaires d'utilisation prévues à l'article L. 5141-10 et

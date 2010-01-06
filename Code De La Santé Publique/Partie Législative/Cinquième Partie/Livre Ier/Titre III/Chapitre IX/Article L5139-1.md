@@ -8,4 +8,5 @@ produits de santé fixe la liste de ces micro-organismes et toxines. Lorsque ces
 micro-organismes et toxines sont destinés à un usage vétérinaire, le directeur
 général de l'Agence française de sécurité sanitaire des produits de santé
 sollicite, préalablement à sa proposition, l'avis du directeur général de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.

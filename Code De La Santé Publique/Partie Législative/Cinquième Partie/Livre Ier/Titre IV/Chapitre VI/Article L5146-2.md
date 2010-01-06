@@ -3,7 +3,8 @@ Article L5146-2
 Ont qualité pour rechercher et constater les infractions aux dispositions du
 présent titre ainsi qu'aux mesures réglementaires prises pour leur application :
 
-1° Les inspecteurs de l'Agence française de sécurité sanitaire des aliments ;
+1° Les inspecteurs de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail ;
 
 2° Les inspecteurs mentionnés à l'article L. 5127-1 ;
 

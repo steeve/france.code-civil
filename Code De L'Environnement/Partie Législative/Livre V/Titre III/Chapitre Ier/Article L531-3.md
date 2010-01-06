@@ -7,7 +7,7 @@ pour l'environnement et la santé publique que peuvent présenter l'utilisation
 confinée ou la dissémination volontaire des organismes génétiquement modifiés,
 ainsi qu'en matière de surveillance biologique du territoire prévue à l'article
 L. 251-1 du code rural, sans préjudice des compétences exercées par les agences
-visées aux articles L. 1323-1 et L. 5311-1 du code de la santé publique. Ses
+visées aux articles L. 1313-1 et L. 5311-1 du code de la santé publique. Ses
 avis et recommandations sont rendus publics.
 
 En vue de l'accomplissement de ses missions, le haut conseil :

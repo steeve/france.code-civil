@@ -2,8 +2,8 @@ Article L5142-3
 ----
 Les activités exercées dans les établissements mentionnés à l'article L. 5142-1
 doivent l'être en conformité avec les bonnes pratiques dont les principes sont
-définis par décision de l'Agence française de sécurité sanitaire des aliments,
-notamment :
+définis par décision de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail, notamment :
 
 1° La fabrication, l'importation et la distribution en gros de médicaments
 vétérinaires ;

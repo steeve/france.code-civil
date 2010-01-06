@@ -13,4 +13,5 @@ y compris, le cas échéant, de la circulation des véhicules, et de réduction 
 
 Les normes de qualité de l'air mentionnées au premier alinéa applicables au
 présent chapitre sont fixées par décret en Conseil d'Etat pris après l'avis de
-l'Agence française de sécurité sanitaire de l'environnement et du travail.
+l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.

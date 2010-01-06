@@ -1,7 +1,8 @@
 Article L5143-10
 ----
 Sont déterminées, en tant que de besoin, par décrets en Conseil d'Etat pris
-après avis de l'agence française de sécurité sanitaire des aliments :
+après avis de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail :
 
 1° Les conditions d'utilisation des préparations extemporanées ;
 

@@ -2,8 +2,9 @@ Article L5142-3-1
 ----
 Lorsqu'un médicament vétérinaire soumis aux dispositions du chapitre Ier du
 présent titre est mis sur le marché, l'entreprise qui l'exploite communique,
-sans délai, à l'Agence française de sécurité sanitaire des aliments, les dates
-de commercialisation de chaque présentation de ce médicament.
+sans délai, à l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail, les dates de commercialisation
+de chaque présentation de ce médicament.
 
 Elle informe l'agence, au préalable ou en cas d'urgence de manière concomitante,
 de toute action qu'elle engage pour en suspendre la commercialisation, le
