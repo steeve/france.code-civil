@@ -1,11 +1,11 @@
 Article R723-37
 ----
-Lorsque, au moment de la cessation d'activité, l'intéressé justifie, dans le
-présent régime et dans un ou plusieurs autres régimes d'assurance vieillesse de
-base, de la durée d'assurance fixée en application du deuxième alinéa de
-l'article L. 351-1, le montant de la pension de retraite est déterminé selon le
-nombre de trimestres d'assurance validés par la Caisse nationale des barreaux
-français :
+Lorsque, à la date d'entrée en jouissance de la pension, l'intéressé justifie,
+dans le présent régime et dans un ou plusieurs autres régimes d'assurance
+vieillesse de base, de la durée d'assurance fixée en application du deuxième
+alinéa de l'article L. 351-1, le montant de la pension de retraite est déterminé
+selon le nombre de trimestres d'assurance validés par la Caisse nationale des
+barreaux français :
 
 1° Si ce nombre est au moins égal à cent soixante, le montant de la pension de
 retraite est celui fixé en application de l'article R. 723-43 ;
