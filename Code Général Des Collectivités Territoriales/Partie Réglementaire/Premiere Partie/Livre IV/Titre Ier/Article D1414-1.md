@@ -46,16 +46,17 @@ V. ― Le Bulletin officiel des annonces des marchés publics est tenu de publie
 les avis d'appel public à la concurrence, conformément au texte transmis, dans
 les six jours qui suivent la date de leur réception.
 
-Lorsque la Direction des Journaux officiels est dans l'impossibilité de publier
-l'édition du Bulletin officiel des annonces des marchés publics dans sa version
-imprimée, elle peut se borner à la publier, à titre temporaire, sous sa forme
-électronique. Dans ce cas, elle avertit immédiatement les abonnés à la version
-imprimée de ce bulletin de l'interruption temporaire de sa parution.
+Lorsque la direction de l'information légale et administrative est dans
+l'impossibilité de publier l'édition du Bulletin officiel des annonces des
+marchés publics dans sa version imprimée, elle peut se borner à la publier, à
+titre temporaire, sous sa forme électronique. Dans ce cas, elle avertit
+immédiatement les abonnés à la version imprimée de ce bulletin de l'interruption
+temporaire de sa parution.
 
 La personne publique doit être en mesure de faire la preuve de la date d'envoi
 des avis.
 
-VI. - Pour rendre applicables les dispositions du premier alinéa de l'article L.
+VI.-Pour rendre applicables les dispositions du premier alinéa de l'article L.
 551-15 du code de justice administrative, la personne publique publie au Journal
 officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement
 précité, relatif à son intention de conclure un contrat d'un montant inférieur
