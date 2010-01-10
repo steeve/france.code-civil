@@ -4,11 +4,9 @@ Le conseil de surveillance se réunit au moins deux fois par an et aussi souvent
 qu'il est nécessaire sur convocation de son président. Il doit être réuni à la
 demande de la moitié de ses membres.
 
-Le conseil ne délibère valablement qu'en la présence effective d'au moins huit
-membres titulaires ou suppléants, et si le nombre des représentants de la Banque
-de France est au moins égal à celui des membres relevant des deux autres
-catégories. Les délibérations sont prises à la majorité des voix des membres
-présents ou représentés.
+Le conseil ne délibère valablement qu'en la présence effective d'au moins trois
+membres titulaires ou suppléants avec voix délibérative. Les délibérations sont
+prises à la majorité des voix des membres présents ou représentés.
 
 Le directeur général de l'institut assiste aux réunions du conseil.
 
