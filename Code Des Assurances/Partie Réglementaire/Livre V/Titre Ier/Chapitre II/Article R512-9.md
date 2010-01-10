@@ -10,8 +10,8 @@ production doivent justifier :
 pouvoir être inférieure à 150 heures. Le stage, dont les principes sont fixés à
 l'article R. 512-11, doit être effectué :
 
-a) Auprès d'une entreprise d'assurance ou d'un intermédiaire visés aux 1° et 2°
-du I de l'article R. 511-2 ;
+a) Auprès d'une entreprise d'assurance, d'un établissement de crédit ou d'un
+intermédiaire visés aux 1° et 2° du I de l'article R. 511-2 ;
 
 b) Auprès d'un centre de formation choisi par l'intéressé lui-même lorsqu'il
 souhaite accéder à l'activité de courtier en assurance ou en réassurance, ou
