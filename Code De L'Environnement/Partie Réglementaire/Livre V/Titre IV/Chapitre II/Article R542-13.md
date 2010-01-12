@@ -1,30 +1,24 @@
 Article R542-13
 ----
-I. - L'agence est dotée d'un comité financier qui est consulté sur :
+I. - Le conseil d'administration est assisté par un comité financier qui est
+consulté sur :
 
-1° Les modalités et le niveau de tarification des prestations de l'ANDRA ;
+1° L'arrêté annuel des comptes ;
 
-2° Les programmes d'investissements préparés sur une base pluriannuelle et sur
-leurs modalités de financement.
+2° Les programmes pluriannuels et les prévisions de recettes et de dépenses
+associées ;
 
-II. - Le conseil d'administration peut consulter le comité sur toute autre
-question d'ordre financier.
+3° Toute autre question d'ordre financier.
 
-III. - Le comité financier, qui est présidé par le directeur général de
-l'agence, comprend :
+II. - Le conseil d'administration arrête la composition du comité financier et
+précise ses modalités de fonctionnement. Le comité est présidé par un membre du
+conseil d'administration.
 
-1° Cinq représentants des activités économiques intéressées par l'action de
-l'établissement, dont les quatre membres du conseil d'administration mentionnés
-au 3° de l'article R. 542-2 et une personnalité désignée par le ministre chargé
-de l'énergie ;
+III. - Le commissaire du Gouvernement, le membre du corps du contrôle général
+économique et financier et le directeur général de l'établissement peuvent
+assister aux réunions de ce comité.
 
-2° Un représentant du ministre chargé du budget.
-
-IV. - Le commissaire du Gouvernement et le membre du corps du contrôle général
-économique et financier de l'établissement peuvent assister aux réunions de ce
-comité.
-
-V. - Les membres du comité financier ainsi que les personnes appelées à assister
-à ses réunions sont tenus de respecter la confidentialité des délibérations. Ils
-ne doivent divulguer aucun secret industriel ou commercial dont ils pourraient
-avoir connaissance dans l'exercice de leur mandat.
+IV. - Les membres du comité financier ainsi que les personnes appelées à
+assister à ses réunions sont tenus de respecter la confidentialité des
+délibérations. Ils ne doivent divulguer aucun secret industriel ou commercial
+dont ils pourraient avoir connaissance dans l'exercice de leur mandat.
