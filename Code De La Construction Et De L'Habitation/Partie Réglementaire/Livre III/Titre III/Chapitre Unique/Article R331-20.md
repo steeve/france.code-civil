@@ -2,7 +2,7 @@ Article R331-20
 ----
 I.-La quotité minimum des prêts accordés par les établissements de crédit aux
 bénéficiaires mentionnés à l'article R. 331-18 ne peut être inférieure à 50 % du
-prix de revient de l'opération défini à l'article R. 331-19.
+prix de revient de l'opération défini à l'article R. 331-9.
 
 II.-Toutefois, la quotité peut être ramenée à 30 % pour la réalisation des
 programmes de logements locatifs de l'association mentionnée à l'article L.

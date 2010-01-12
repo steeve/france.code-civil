@@ -8,7 +8,7 @@ inférieure à la durée la plus longue restant à courir pour l'amortissement
 intégral des prêts du ou des programmes concernés. Toutefois, lorsque
 l'opération est financée dans les conditions prévues à la sous-section 3 de la
 section I du chapitre unique du titre III du présent livre, cette durée ne peut
-être inférieure à quinze ans ni supérieure à trente ans.
+être inférieure à quinze ans ni supérieure à quarante ans.
 
 Les conventions sont renouvelées par tacite reconduction par périodes
 triennales. Elles peuvent être résiliées par chacune des parties. La résiliation
