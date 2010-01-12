@@ -8,9 +8,9 @@ prestations de santé et du service qu'ils rendent, et contribuer par ses avis �
 l'élaboration des décisions relatives à l'inscription, au remboursement et à la
 prise en charge par l'assurance maladie des produits, actes ou prestations de
 santé ainsi qu'aux conditions particulières de prise en charge des soins
-dispensés aux personnes atteintes d'affections de longue durée. A cet effet,
-elle émet également un avis sur les conditions de prescription, de réalisation
-ou d'emploi des actes, produits ou prestations de santé et réalise ou valide des
+dispensés aux personnes atteintes d'affections de longue durée.A cet effet, elle
+émet également un avis sur les conditions de prescription, de réalisation ou
+d'emploi des actes, produits ou prestations de santé et réalise ou valide des
 études d'évaluation des technologies de santé ;
 
 2° Elaborer les guides de bon usage des soins ou les recommandations de bonne
@@ -31,7 +31,11 @@ la santé publique ;
 charge sanitaire de la population par le système de santé ;
 
 6° Rendre un avis sur tout projet de loi ou de décret instituant des modes
-particuliers de soins préventifs ou curatifs.
+particuliers de soins préventifs ou curatifs ;
+
+7° Rendre l'avis mentionné à l'article L. 1414-5 du code de la santé publique
+sur les références aux normes harmonisées prévues pour l'accréditation des
+laboratoires de biologie médicale.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence française de sécurité sanitaire des produits de

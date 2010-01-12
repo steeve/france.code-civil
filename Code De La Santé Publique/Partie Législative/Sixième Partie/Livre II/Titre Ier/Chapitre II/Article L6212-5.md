@@ -1,5 +1,4 @@
 Article L6212-5
 ----
-Les conditions d'application du présent chapitre sont, sauf disposition
-contraire, déterminées par décret en Conseil d'Etat, après consultation de la
-Commission nationale permanente de biologie médicale.
+Seules peuvent utiliser l'appellation de laboratoire de biologie médicale les
+structures qui répondent aux conditions fixées au présent livre.

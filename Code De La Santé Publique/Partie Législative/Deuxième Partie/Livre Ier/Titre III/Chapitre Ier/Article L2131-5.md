@@ -9,8 +9,8 @@ pluridisciplinaires de diagnostic prénatal prévus à l'article L. 2131-1 ;
 
 2° La nature des analyses de cytogénétique et de biologie en vue d'établir un
 diagnostic prénatal et les conditions dans lesquelles elles peuvent être
-pratiquées dans les établissements publics de santé et les laboratoires
-d'analyses de biologie médicale autorisés ;
+pratiquées dans les établissements publics de santé et les laboratoires de
+biologie médicale autorisés ;
 
 3° Les conditions dans lesquelles le diagnostic biologique effectué à partir de
 cellules prélevées sur l'embryon in vitro peut être réalisé dans un

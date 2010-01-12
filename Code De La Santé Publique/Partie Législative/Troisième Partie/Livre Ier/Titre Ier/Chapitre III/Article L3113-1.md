@@ -2,7 +2,7 @@ Article L3113-1
 ----
 Font l'objet d'une transmission obligatoire de données individuelles à
 l'autorité sanitaire par les médecins et les responsables des services et
-laboratoires d'analyses de biologie médicale publics et privés :
+laboratoires de biologie médicale publics et privés :
 
 1° Les maladies qui nécessitent une intervention urgente locale, nationale ou
 internationale ;

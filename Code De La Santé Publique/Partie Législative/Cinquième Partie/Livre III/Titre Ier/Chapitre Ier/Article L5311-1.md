@@ -51,7 +51,16 @@ véhicules dans les cas prévus à l'article L. 3114-1 ;
 
 16° Les micro-organismes et toxines mentionnés à l'article L. 5139-1 ;
 
-17° Les produits de tatouage.
+17° Les produits de tatouage ;
+
+18° Les logiciels qui ne sont pas des dispositifs médicaux et qui sont utilisés
+par les laboratoires de biologie médicale, pour la gestion des examens de
+biologie médicale et lors de la validation, de l'interprétation, de la
+communication appropriée et de l'archivage des résultats ;
+
+19° Les dispositifs à finalité non strictement médicale utilisés dans les
+laboratoires de biologie médicale pour la réalisation des examens de biologie
+médicale.
 
 L'agence participe à l'application des lois et règlements relatifs aux
 recherches biomédicales et prend, dans les cas prévus par des dispositions

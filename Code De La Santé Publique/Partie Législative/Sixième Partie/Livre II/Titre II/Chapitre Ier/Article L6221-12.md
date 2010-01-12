@@ -1,5 +1,5 @@
 Article L6221-12
 ----
-Les conditions d'application du présent chapitre sont, sauf disposition
-contraire, déterminées par décret en Conseil d'Etat, après consultation de la
-Commission nationale permanente de biologie médicale.
+Les structures qui réalisent des examens d'anatomie et de cytologie
+pathologiques à l'aide de techniques relevant de la biologie médicale sont
+soumises, au titre de ces examens, aux dispositions du présent chapitre.

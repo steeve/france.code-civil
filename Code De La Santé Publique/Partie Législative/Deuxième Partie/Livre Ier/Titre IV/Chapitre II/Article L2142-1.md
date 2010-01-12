@@ -5,8 +5,9 @@ l'insémination artificielle et de la stimulation ovarienne, ne peuvent être
 pratiquées que dans des établissements de santé.
 
 Sous réserve de l'alinéa suivant, les activités biologiques d'assistance
-médicale à la procréation ne peuvent être pratiquées que dans des établissements
-de santé publics et des laboratoires d'analyses de biologie médicale.
+médicale à la procréation ne peuvent être pratiquées que dans les laboratoires
+de biologie médicale accrédités selon les modalités prévues par les dispositions
+du chapitre Ier du titre II du livre II de la sixième partie.
 
 Les activités cliniques et biologiques d'assistance médicale à la procréation
 relatives aux gamètes en vue de don ne peuvent être pratiquées que dans des
@@ -18,9 +19,7 @@ A l'exception de l'insémination artificielle et de la stimulation ovarienne, le
 activités, tant cliniques que biologiques, d'assistance médicale à la
 procréation doivent être autorisées suivant les modalités prévues par les
 dispositions du chapitre II du titre II du livre Ier de la partie VI du présent
-code. Cette autorisation vaut dérogation, au sens des dispositions du septième
-alinéa de l'article L. 6221-9 pour les laboratoires d'analyses de biologie
-médicale.
+code.
 
 Pour être autorisés à exercer ces activités, les établissements, les
 laboratoires et les organismes mentionnés aux premier, deuxième et troisième

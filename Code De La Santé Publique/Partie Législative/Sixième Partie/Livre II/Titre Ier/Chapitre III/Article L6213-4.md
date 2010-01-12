@@ -1,25 +1,46 @@
 Article L6213-4
 ----
-Pour l'exécution du contrôle de qualité des analyses de biologie médicale
-mentionné à l'article L. 6213-3, une taxe annuelle, au profit de l'Agence
-française de sécurité sanitaire des produits de santé, est due par tout
-laboratoire public ou privé d'analyses de biologie médicale dès lors qu'une ou
-plusieurs des catégories d'analyses qui donnent lieu à contrôle obligatoire,
-selon les dispositions du décret pris en application de l'article L. 6213-3, y
-sont effectuées. Elle est réduite de moitié pour tout laboratoire dont
-l'activité annuelle est inférieure à 150 000 unités telles que définies par le
-décret prévu à l'article L. 6211-9 qui détermine le nombre et la qualification
-du personnel technique ainsi que les normes applicables à l'installation et à
-l'équipement des laboratoires.
+Le professionnel de santé ressortissant d'un Etat membre de l'Union européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen, qui est
+établi et exerce légalement les fonctions de biologiste médical dans un Etat,
+membre ou partie, peut exécuter en France des actes professionnels de manière
+temporaire et occasionnelle, sans être inscrit au tableau de l'ordre
+correspondant.
 
-Le montant de la taxe est fixé à 1715 fois la valeur conventionnelle de la
-lettre clé B au 1er janvier de l'année d'exigibilité ; il peut être révisé par
-décret dans la limite de 1955 fois la valeur conventionnelle de la lettre clé B.
+Lorsque l'exercice ou la formation conduisant à ces fonctions ne sont pas
+réglementés dans l'Etat où il est établi, le prestataire de services doit
+justifier y avoir exercé pendant deux ans au moins au cours des dix années
+précédentes.
 
-Le versement de la taxe doit être effectué avant le 31 mars de l'année à
-laquelle elle se rapporte. Une majoration de 10 % est appliquée à toute somme
-restant due à la date limite de versement. La taxe et les pénalités sont
-recouvrées selon les modalités prévues pour le recouvrement des créances des
-établissements publics administratifs de l'Etat.
+L'exécution de ces actes est subordonnée à une déclaration préalable, qui est
+accompagnée de pièces justificatives dont la liste est fixée par arrêté du
+ministre chargé de la santé.
 
-Les modalités d'application du présent article sont fixées par décret.
+Le professionnel de santé est soumis aux conditions d'exercice de la profession.
+Il est soumis aux règles professionnelles applicables en France et, le cas
+échéant, à la juridiction disciplinaire compétente.
+
+Les qualifications professionnelles du prestataire sont vérifiées avant la
+première prestation de services. En cas de différence substantielle entre les
+qualifications du prestataire et la formation exigée en France, de nature à
+nuire à la santé publique, l'autorité compétente demande au prestataire
+d'apporter la preuve qu'il a acquis les connaissances et compétences manquantes,
+notamment au moyen de mesures de compensation.
+
+Lors des prestations de services ultérieures et au moins chaque année, le
+prestataire justifie de sa couverture d'assurance professionnelle.
+
+Le prestataire peut faire usage de son titre de formation dans la langue de
+l'Etat qui le lui a délivré. Il est tenu de faire figurer le nom et le lieu de
+l'établissement ou du jury auprès duquel il l'a obtenu.
+
+Dans le cas où le titre de formation de l'Etat d'origine, membre ou partie, est
+susceptible d'être confondu avec un titre exigeant en France une formation
+complémentaire, l'autorité compétente peut décider que l'intéressé fera état du
+titre de formation de l'Etat d'origine, membre ou partie, dans une forme
+appropriée qu'elle lui indique.
+
+La prestation de service est réalisée sous le titre professionnel de l'Etat
+d'établissement, de manière à éviter toute confusion avec le titre professionnel
+français. Toutefois, dans le cas où les qualifications ont été vérifiées, la
+prestation de services est réalisée sous le titre professionnel français.

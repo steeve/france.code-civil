@@ -1,11 +1,10 @@
 Article L6222-4
 ----
-Est puni de six mois d'emprisonnement et de 6000 euros d'amende le fait pour un
-directeur ou un directeur adjoint de laboratoire :
+Un établissement de santé ne peut compter en son sein qu'un laboratoire de
+biologie médicale. Toutefois, les établissements publics de santé mentionnés au
+premier alinéa de l'article L. 6147-1 peuvent être autorisés par le directeur
+général de l'agence régionale de santé à disposer de plusieurs laboratoires de
+biologie médicale dans des conditions fixées par voie réglementaire.
 
-1° Pour un directeur, d'exercer ses fonctions dans plus d'un laboratoire et,
-pour un directeur adjoint, d'exercer ses fonctions dans plus de deux
-laboratoires ;
-
-2° De ne pas respecter les règles du cumul d'activités énoncées à l'article L.
-6221-9.
+Un laboratoire de biologie médicale peut être commun à plusieurs établissements
+de santé.

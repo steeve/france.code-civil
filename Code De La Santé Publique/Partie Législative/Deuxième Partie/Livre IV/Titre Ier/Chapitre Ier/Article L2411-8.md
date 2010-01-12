@@ -1,5 +1,5 @@
 Article L2411-8
 ----
-Pour son application à Mayotte, la phrase " Pour les laboratoires d'analyses de
-biologie médicale, cette autorisation vaut inscription sur la liste prévue à
-l'article L. 6211-4. " est supprimée à l'article L. 2131-1.
+Pour son application à Mayotte, la phrase " Pour les laboratoires de biologie
+médicale , cette autorisation vaut inscription sur la liste prévue à l'article
+L. 6211-4. " est supprimée à l'article L. 2131-1.

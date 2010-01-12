@@ -7,5 +7,5 @@ législatives et réglementaires relatives à la qualité et à la sécurité de
 gamètes, des tissus germinaux et des embryons. La personne responsable est
 titulaire de l'agrément mentionné à l'article L. 2142-1-1.
 
-Dans les laboratoires d'analyses de biologie médicale, la personne responsable
+Dans les laboratoires d'examens de biologie médicale, la personne responsable
 est le directeur ou un directeur adjoint du laboratoire.

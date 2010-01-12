@@ -1,5 +1,6 @@
 Article L6221-10
 ----
-Les directeurs ou directeurs adjoints de laboratoire ne peuvent pas signer de
-publications qui n'ont pas de caractère scientifique en faisant état de leur
-qualité.
+L'Agence française de sécurité sanitaire des produits de santé assure un
+contrôle national de la qualité des résultats des examens de biologie médicale,
+dont les modalités sont fixées par un décret qui détermine notamment les
+catégories d'examens de biologie médicale soumises à ce contrôle.

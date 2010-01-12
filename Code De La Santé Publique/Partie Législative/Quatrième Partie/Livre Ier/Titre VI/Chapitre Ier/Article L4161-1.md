@@ -34,7 +34,8 @@ professionnels sans remplir les conditions ou satisfaire aux obligations prévue
 audit article.
 
 Les dispositions du présent article ne s'appliquent pas aux étudiants en
-médecine ni aux sages-femmes, ni aux infirmiers ou gardes-malades qui agissent
+médecine ni aux sages-femmes ni aux pharmaciens biologistes pour l'exercice des
+actes de biologie médicale, ni aux infirmiers ou gardes-malades qui agissent
 comme aides d'un médecin ou que celui-ci place auprès de ses malades, ni aux
 personnes qui accomplissent, dans les conditions prévues par décret en Conseil
 d'Etat pris après avis de l'Académie nationale de médecine, les actes

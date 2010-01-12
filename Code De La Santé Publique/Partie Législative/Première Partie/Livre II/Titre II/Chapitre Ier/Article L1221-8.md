@@ -29,7 +29,7 @@ fabrication d'un médicament mais n'entrant pas dans sa composition.
 
 Le sang et ses composants, qu'ils aient ou non été prélevés dans des
 établissements de transfusion sanguine, peuvent également être utilisés pour
-effectuer les contrôles de qualité des analyses de biologie médicale ainsi que
+effectuer les contrôles de qualité des examens de biologie médicale ainsi que
 pour la réalisation et le contrôle des dispositifs médicaux de diagnostic in
 vitro, ou pour effectuer sur les produits préparés à partir du sang ou de ses
 composants les expertises et les contrôles techniques réalisés par l'Agence

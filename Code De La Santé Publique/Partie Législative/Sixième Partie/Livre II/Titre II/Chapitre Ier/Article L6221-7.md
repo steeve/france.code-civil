@@ -1,5 +1,7 @@
 Article L6221-7
 ----
-Les contrats, avenants et statuts dont la communication est prévue aux articles
-L. 6221-4 et L. 6221-5 doivent être tenus à la disposition de l'autorité
-administrative par les conseils des ordres intéressés.
+Sans préjudice des dispositions des articles L. 1221-13, L. 5212-1, L. 5222-3 et
+L. 5232-4, le biologiste-responsable du laboratoire de biologie médicale déclare
+immédiatement aux organismes mentionnés à l'article L. 6221-6 tout événement
+affectant son fonctionnement et susceptible d'entraîner un risque majeur pour la
+santé des patients.

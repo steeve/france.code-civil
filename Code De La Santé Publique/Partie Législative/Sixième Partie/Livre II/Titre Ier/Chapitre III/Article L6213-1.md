@@ -1,5 +1,19 @@
 Article L6213-1
 ----
-Le contrôle des laboratoires est assuré par les médecins et pharmaciens
-inspecteurs de santé publique et par l'inspection générale des affaires
-sociales.
+Un biologiste médical est, au sens du présent livre :
+
+1° Soit un médecin titulaire de l'un des titres de formation mentionnés à
+l'article L. 4131-1, ou un pharmacien titulaire de l'un des titres de formation
+mentionnés aux articles L. 4221-2, L. 4221-4 et L. 4221-5, qui dispose en outre
+:
+
+a) Ou bien d'un diplôme de spécialité en biologie médicale dont la liste est
+fixée par arrêté du ministre chargé de la santé ;
+
+b) Ou bien d'une qualification en biologie médicale délivrée par l'ordre des
+médecins ou par l'ordre des pharmaciens, dans des conditions déterminées par
+décret en Conseil d'Etat ;
+
+2° Soit un médecin autorisé à exercer la biologie médicale en application des
+articles L. 4111-2 et L. 4131-1-1 ou un pharmacien autorisé à exercer la
+biologie médicale en application de l'article L. 4221-12.

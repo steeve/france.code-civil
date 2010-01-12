@@ -1,5 +1,8 @@
 Article L162-13-2
 ----
-Les directeurs de laboratoires sont tenus d'effectuer les analyses et examens de
-laboratoires en observant la plus stricte économie compatible avec l'exacte
-exécution des prescriptions.
+Un examen de biologie médicale réalisé à la demande du patient ne fait pas
+l'objet d'un remboursement. Lorsque le biologiste médical effectue de tels
+examens, il informe le patient de leur caractère non remboursable et demande son
+accord pour les réaliser. Le biologiste médical mentionne ces examens non
+remboursables sur la feuille de soins. Il en va de même pour les examens
+prescrits et non remboursables.

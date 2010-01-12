@@ -1,18 +1,14 @@
 Article L6212-2
 ----
-Lorsque le laboratoire est exploité par une personne physique, celle-ci est
-directeur du laboratoire.
+Un laboratoire de biologie médicale peut également réaliser des activités
+biologiques d'assistance médicale à la procréation ainsi que des examens
+d'anatomie et de cytologie pathologiques.
 
-Lorsqu'il est exploité par une société civile professionnelle, tous les associés
-sont directeurs de laboratoire.
+L'activité biologique d'assistance médicale à la procréation est soumise aux
+dispositions du chapitre 1er du titre II du présent livre ainsi qu'à celles du
+titre IV du livre Ier de la partie II.
 
-Lorsque le laboratoire est exploité par une société anonyme ou une société à
-responsabilité limitée, le président du conseil d'administration, les directeurs
-généraux, les membres du directoire ou le directeur général unique et les
-gérants, ainsi que la majorité au moins des membres du conseil d'administration
-et du conseil de surveillance sont directeurs ou directeurs adjoints du
-laboratoire.
-
-Lorsque le laboratoire est exploité par un organisme mentionné aux 4°, 5° ou 6°
-de l'article L. 6212-1, cet organisme désigne un ou plusieurs directeurs de
-laboratoire.
+Un examen d'anatomie et de cytologie pathologiques est réalisé par un médecin
+spécialiste qualifié en anatomie et cytologie pathologiques ou, pour certaines
+phases, sous sa responsabilité, dans les conditions déterminées par voie
+réglementaire.

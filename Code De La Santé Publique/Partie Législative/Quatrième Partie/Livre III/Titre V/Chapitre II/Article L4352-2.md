@@ -1,7 +1,12 @@
 Article L4352-2
 ----
-Le manipulateur d'électroradiologie médicale, lors de la délivrance de
-l'autorisation d'exercice ou de la déclaration de prestation de services, doit
-posséder les connaissances linguistiques nécessaires à l'exercice de la
-profession et celles relatives aux systèmes de poids et mesures utilisés en
-France.
+Peut exercer la profession de technicien de laboratoire médical et en porter le
+titre :
+
+1° Une personne titulaire du diplôme d'Etat de technicien de laboratoire médical
+;
+
+2° Une personne titulaire d'un titre de formation dont le programme
+d'enseignement théorique et clinique est équivalent à celui du diplôme d'Etat de
+technicien de laboratoire médical et qui figure sur une liste arrêtée par les
+ministres chargés de la santé et de l'enseignement supérieur.

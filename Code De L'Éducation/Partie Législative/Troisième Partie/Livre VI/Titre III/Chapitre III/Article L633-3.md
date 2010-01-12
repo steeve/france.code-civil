@@ -8,7 +8,6 @@ chaque formation commune à la pharmacie et à la médecine.
 La liste des services formateurs et la répartition des postes d'interne dans les
 services sont arrêtées par le représentant de l'Etat dans la région.
 
-En ce qui concerne les formations accessibles à la fois aux internes en
-médecine, aux internes en pharmacie et aux étudiants en sciences vétérinaires,
-les postes offerts sont affectés dans des services dirigés par des médecins, des
-pharmaciens ou des vétérinaires.
+En ce qui concerne les formations accessibles à la fois aux internes en médecine
+et aux internes en pharmacie, les postes offerts sont affectés dans des services
+dirigés par des médecins ou des pharmaciens.

@@ -1,12 +1,6 @@
 Article L162-13-1
 ----
-Pour les frais d'analyses et d'examens de laboratoires :
-
-1° L'assuré est dispensé de l'avance de ses frais pour la part garantie par les
-régimes obligatoires d'assurance maladie lorsque le montant des actes de
-biologie médicale dépasse un plafond fixé par décret ou encore lorsque la
-participation de l'assuré aux dépenses de biologie médicale est supprimée dans
-les cas prévus à l'article L. 322-3 ;
-
-2° La participation de l'assuré versée au laboratoire est calculée sur la base
-des tarifs mentionnés à l'article L. 162-14-1.
+Le biologiste médical effectue les examens de biologie médicale en observant la
+plus stricte économie compatible avec l'exacte exécution des prescriptions.
+Cette disposition s'applique également aux examens réalisés en application des
+dispositions de l'article L. 6211-8 et L. 6211-9 du code de la santé publique.

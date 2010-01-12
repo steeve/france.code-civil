@@ -6,11 +6,11 @@ En vue de l'accomplissement de ses missions, l'agence :
 relatifs aux produits et objets mentionnés à l'article L. 5311-1, aux substances
 entrant dans leur composition ainsi qu'aux méthodes et moyens de fabrication, de
 conditionnement, de conservation de transport et de contrôle qui leur sont
-appliqués ; elle exécute le contrôle de qualité des analyses de biologie
-médicale et des analyses permettant l'identification d'une personne par ses
-empreintes génétiques, et procède, à la demande des services concernés, à toute
-expertise technique nécessaire ; elle peut être chargée du contrôle de qualité
-d'activités utilisant des produits entrant dans son champ de compétence ;
+appliqués ; elle exécute le contrôle de qualité des examens de biologie médicale
+et des analyses permettant l'identification d'une personne par ses empreintes
+génétiques, et procède, à la demande des services concernés, à toute expertise
+technique nécessaire ; elle peut être chargée du contrôle de qualité d'activités
+utilisant des produits entrant dans son champ de compétence ;
 
 2° Recueille les données scientifiques et techniques nécessaires à l'exercice de
 ses missions ; elle est destinataire des rapports de contrôle et de réflexion et

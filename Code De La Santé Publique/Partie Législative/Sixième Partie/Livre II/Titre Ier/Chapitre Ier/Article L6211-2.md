@@ -1,21 +1,16 @@
 Article L6211-2
 ----
-Aucun laboratoire d'analyses de biologie médicale ne peut fonctionner sans une
-autorisation administrative.
+Un examen de biologie médicale se déroule en trois phases :
 
-Sans préjudice des dispositions de l'article L. 6122-1 relatives aux équipements
-matériels lourds, cette autorisation est délivrée lorsque sont remplies les
-conditions fixées par le présent livre et par le décret prévu à l'article L.
-6211-9 qui détermine le nombre et la qualification du personnel technique ainsi
-que les normes applicables à l'installation et à l'équipement des laboratoires.
+1° La phase pré-analytique, qui comprend le prélèvement d'un échantillon
+biologique sur un être humain, le recueil des éléments cliniques pertinents, la
+préparation, le transport et la conservation de l'échantillon biologique jusqu'à
+l'endroit où il est analysé ;
 
-Ce décret peut fixer des conditions particulières applicables aux laboratoires
-dont l'activité est limitée à certains actes qu'il détermine. L'autorisation
-délivrée à ces laboratoires porte mention de cette limitation.
+2° La phase analytique, qui est le processus technique permettant l'obtention
+d'un résultat d'analyse biologique ;
 
-Toute modification survenue postérieurement à la décision d'autorisation soit
-dans la personne d'un directeur ou d'un directeur adjoint, soit dans les
-conditions d'exploitation, doit faire l'objet d'une déclaration.
-
-L'autorisation est retirée lorsque les conditions légales ou réglementaires
-cessent d'être remplies.
+3° La phase post-analytique, qui comprend la validation, l'interprétation
+contextuelle du résultat ainsi que la communication appropriée du résultat au
+prescripteur et, dans les conditions fixées à l'article L. 1111-2, au patient,
+dans un délai compatible avec l'état de l'art.

@@ -18,13 +18,7 @@ chapitre, et à les dispenser et administrer aux malades qui y sont traités. Ce
 la direction générale de l'établissement. Ils peuvent, en outre, à titre
 accessoire, être autorisés à exercer d'autres activités de santé, notamment les
 activités prévues à l'article L. 1243-2 et des activités de soins et de
-laboratoire d'analyse de biologie médicale, conformément aux règles applicables
-à ces activités. Les établissements de transfusion sanguine sont autorisés à
-dispenser et à administrer les médicaments nécessaires à l'exercice de leurs
-activités liées à la transfusion sanguine et, le cas échéant, de leurs activités
-de soins.
-
-Les activités de laboratoires d'analyses de biologie médicale mentionnées au
-précédent alinéa sont autorisées par l'autorité compétente de l'Etat dans le
-département ; cette autorisation vaut autorisation de dispenser des soins aux
-assurés sociaux au sens de l'article L. 162-21 du code de la sécurité sociale.
+laboratoire de biologie médicale, conformément aux règles applicables à ces
+activités. Les établissements de transfusion sanguine sont autorisés à dispenser
+et à administrer les médicaments nécessaires à l'exercice de leurs activités
+liées à la transfusion sanguine et, le cas échéant, de leurs activités de soins.

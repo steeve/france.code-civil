@@ -27,8 +27,7 @@ pharmacie à usage intérieur ;
 
 8° La référence à l'agence régionale de l'hospitalisation n'est pas applicable ;
 
-9° La référence aux laboratoires d'analyses de biologie médicale n'est pas
-applicable ;
+9° La référence aux laboratoires de biologie médicale n'est pas applicable ;
 
 10° La référence aux réseaux de santé n'est pas applicable ;
 

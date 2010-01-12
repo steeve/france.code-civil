@@ -1,7 +1,8 @@
 Article L4353-1
 ----
-L'exercice illégal de la profession de manipulateur d'électroradiologie médicale
-est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+L'exercice illégal des professions de manipulateur d'électroradiologie médicale
+et de technicien de laboratoire médicalest puni d'un an d'emprisonnement et de
+15 000 euros d'amende.
 
 Les personnes physiques encourent également les peines complémentaires suivantes
 :

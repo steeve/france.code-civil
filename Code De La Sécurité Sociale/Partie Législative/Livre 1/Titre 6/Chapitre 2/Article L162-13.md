@@ -1,6 +1,5 @@
 Article L162-13
 ----
-En ce qui concerne les analyses et examens de laboratoires, l'assuré a le libre
-choix entre les laboratoires agréés, pour chaque catégorie d'analyses, quelle
-que soit la qualité de l'exploitant. Les conditions d'agrément sont fixées par
-arrêté interministériel.
+Sous réserve des dispositions de l'article L. 1110-8 du code de la santé
+publique, le patient non hospitalisé a la liberté d'aller dans le laboratoire de
+biologie médicale de son choix.

@@ -1,6 +1,7 @@
 Article L6221-6
 ----
-Les dispositions des articles L. 6221-4 et L. 6221-5 sont applicables aux
-bénéficiaires de l'autorisation prévue à l'article L. 6221-2 qui doivent
-effectuer les communications prévues par lesdits articles au ministre chargé de
-la santé.
+L'instance nationale d'accréditation transmet sans délai à la Haute Autorité de
+santé, à l'Agence française de sécurité sanitaire des produits de santé, à
+l'Agence de la biomédecine et à l'agence régionale de santé les décisions
+d'accréditation, de suspension ou de retrait d'accréditation des laboratoires de
+biologie médicale.

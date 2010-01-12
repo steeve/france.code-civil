@@ -10,7 +10,7 @@ professionnel ou pour la mise en commun de moyens nécessaires à cet exercice ;
 3° Une personne morale dont l'objet porte, notamment, sur l'exploitation d'un
 établissement de santé, d'une activité de soins ou d'un équipement matériel
 lourd mentionnés à l'article L. 6122-1 ou la pratique des activités propres aux
-laboratoires d'analyses de biologie médicale.
+laboratoires de biologie médicale .
 
 Cette autorisation ne peut être cédée avant le début des travaux, l'installation
 de l'équipement matériel lourd et la mise en oeuvre de l'activité de soins ou de
