@@ -15,7 +15,8 @@ Corse-du-Sud, de la Haute-Corse, de l'Essonne, des Hauts-de-Seine,
 d'Ille-et-Vilaine, de la Loire-Atlantique, de la Moselle, du Pas-de-Calais, du
 Rhône, de la Seine-Maritime, du Val-d'Oise et du Var ;
 
-5° Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
+5° Deux cents jurés pour les cours d'assises du Cher, de la Marne et de la
+Réunion ;
 
 6° Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du
 Calvados, de la Côte-d'Or, de l'Eure, du Finistère, du Gard, de la Guadeloupe,
