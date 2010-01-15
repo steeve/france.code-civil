@@ -3,7 +3,7 @@ Article L1241-1
 Le prélèvement de tissus ou de cellules ou la collecte de produits du corps
 humain sur une personne vivante en vue de don ne peut être opéré que dans un but
 thérapeutique ou scientifique ou de réalisation ou de contrôle des dispositifs
-médicaux de diagnostic in vitro ou de contrôle de qualité des analyses de
+médicaux de diagnostic in vitro ou de contrôle de qualité des examens de
 biologie médicale ou dans le cadre des expertises et des contrôles techniques
 réalisés sur les tissus ou sur les cellules ou sur les produits du corps humain
 par l'Agence française de sécurité sanitaire des produits de santé en
@@ -16,7 +16,7 @@ Le prélèvement de tissus ou de cellules autres que les cellules hématopoïét
 issues de la moelle osseuse, ou la collecte de produits du corps humain en vue
 de don à des fins thérapeutiques ou en vue de réalisation ou de contrôle des
 dispositifs médicaux de diagnostic in vitro ou en vue du contrôle de qualité des
-analyses de biologie médicale ou dans le cadre des expertises et des contrôles
+examens de biologie médicale ou dans le cadre des expertises et des contrôles
 techniques réalisés sur les tissus ou sur les cellules ou sur les produits du
 corps humain par l'Agence française de sécurité sanitaire des produits de santé
 en application du 1° de l'article L. 5311-2 ne peut avoir lieu qu'à la condition

@@ -48,7 +48,7 @@ de produits thérapeutiques annexes, de spécialités pharmaceutiques ou de
 médicaments fabriqués industriellement.
 
 Seules peuvent importer ou exporter des échantillons biologiques les personnes
-dont l'activité comporte des analyses de biologie médicale, des examens
+dont l'activité comporte des examens de biologie médicale, des examens
 d'anatomo-cytopathologie, des expertises judiciaires ou des contrôles de qualité
 ou d'évaluation, notamment de dispositifs médicaux de diagnostic in vitro.
 

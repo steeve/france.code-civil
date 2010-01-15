@@ -14,7 +14,7 @@ de l'article L. 251-1 du code de l'action sociale et des familles ;
 
 3° Les professionnels et établissements de santé, ou toute autre personne
 physique ou morale autorisée à dispenser des soins, à réaliser une prestation de
-service ou des analyses de biologie médicale ou à délivrer des produits ou
+service ou des examens de biologie médicale ou à délivrer des produits ou
 dispositifs médicaux aux bénéficiaires mentionnés au 1° ;
 
 4° Tout individu impliqué dans le fonctionnement d'une fraude en bande
@@ -82,7 +82,7 @@ voie réglementaire.
 
 IV. - Le directeur de l'organisme local d'assurance maladie notifie les faits
 reprochés à la personne physique ou morale en cause afin qu'elle puisse
-présenter ses observations dans un délai fixé par voie réglementaire.A
+présenter ses observations dans un délai fixé par voie réglementaire. A
 l'expiration de ce délai, le directeur :
 
 1° Décide de ne pas poursuivre la procédure ;
@@ -90,7 +90,7 @@ l'expiration de ce délai, le directeur :
 2° Notifie à l'intéressé un avertissement, sauf dans les cas prévus aux 3° et 4°
 du II ;
 
-3° Ou saisit la commission mentionnée au V.A réception de l'avis de la
+3° Ou saisit la commission mentionnée au V. A réception de l'avis de la
 commission, le directeur :
 
 a) Soit décide de ne pas poursuivre la procédure ;
