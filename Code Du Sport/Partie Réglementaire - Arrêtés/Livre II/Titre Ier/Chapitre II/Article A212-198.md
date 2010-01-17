@@ -1,6 +1,10 @@
 Article A212-198
 ----
-Le test relatif à l'environnement spécifique de la plongée subaquatique consiste
-en une vérification au cours d'un entretien des connaissances du déclarant sur
-les règles de sécurité, la conduite à tenir en cas d'accident, le matériel et le
-cadre réglementaire de pratique de la plongée subaquatique en France.
+Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle
+ou lorsqu'une différence substantielle a été identifiée et que le déclarant a
+satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte
+professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation
+de services qui portent mention des conditions d'exercice suivantes : "
+Enseignement de la plongée subaquatique dans les conditions techniques et de
+sécurité prévues par la réglementation, pour les titulaires du brevet d'Etat
+d'éducateur sportif premier degré, option "plongée subaquatique ".
