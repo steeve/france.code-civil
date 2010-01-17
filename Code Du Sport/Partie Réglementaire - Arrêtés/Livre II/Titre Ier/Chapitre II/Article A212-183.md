@@ -1,8 +1,9 @@
 Article A212-183
 ----
-Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen souhaitant enseigner,
-encadrer, entraîner ou animer contre rémunération le ski ou les activités
-assimilées sur le territoire national à titre occasionnel sans y être établis et
-qui sont soumis aux tests prévus aux articles R. 212-90 et R. 212-91 doivent se
-conformer aux dispositions du présent code.
+Les dispositions du présent paragraphe ne s'appliquent pas aux ressortissants
+d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
+l'animation, l'enseignement et l'entraînement du snowboard exclusivement et sont
+soumis aux dispositions du titre XVI de l'arrêté du 25 octobre 2004 modifié
+fixant les conditions d'obtention de la partie spécifique du brevet d'Etat
+d'éducateur sportif du premier degré, option " ski alpin ".

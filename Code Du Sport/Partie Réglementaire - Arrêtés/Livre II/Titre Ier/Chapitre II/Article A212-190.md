@@ -1,7 +1,7 @@
 Article A212-190
 ----
-Le déclarant ayant satisfait aux tests qui lui ont été demandés se voit délivrer
-un récépissé qui porte mention de sa réussite. Ce récépissé confère à son
-titulaire le droit d'enseigner, encadrer, entraîner ou animer contre
-rémunération le ski et les activités assimilées dans le seul cadre des
-prestations qu'il déclare.
+L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous
+l'autorité du préfet de la région Rhône-Alpes, par l'Ecole nationale de ski et
+d'alpinisme aux lieux et dates fixées annuellement par la section permanente du
+ski alpin de la commission de la formation et de l'emploi du Conseil supérieur
+des sports de montagne.

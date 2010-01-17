@@ -1,4 +1,4 @@
-Article A212-192
+Article A212-192-9
 ----
 Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle
 ou lorsqu'une différence substantielle a été identifiée et que le déclarant a
@@ -7,13 +7,13 @@ de libre établissement et une carte professionnelle d'éducateur sportif ou un
 récépissé de déclaration de prestation de services qui portent mention des
 conditions d'exercice suivantes :
 
-Encadrement, animation, enseignement et entraînement du ski alpin et de ses
-activités dérivées à tous les niveaux de pratique, sur pistes et hors des
-pistes, à l'exclusion des zones glaciaires non balisées et des terrains dont la
-fréquentation fait appel aux techniques de l'alpinisme, dans les conditions
-prévues par l'arrêté du 25 octobre 2004 modifié fixant les conditions
-d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du
-premier degré, option " ski alpin ".
+Encadrement, animation, enseignement et entraînement du ski nordique de fond et
+de ses activités assimilées dans toutes les classes de la progression de
+l'enseignement du ski nordique de fond définie par le Conseil supérieur des
+sports de montagne sur des reliefs vallonnés de type nordique excluant tout
+accident de terrain important, dans les conditions prévues par l'arrêté du 1er
+septembre 2005 portant création du brevet d'Etat d'éducateur sportif du 1er
+degré, option " ski nordique de fond ”.
 
 Par encadrement et animation, on entend notamment l'activité d'accompagnement
 sur pistes et hors des pistes.
