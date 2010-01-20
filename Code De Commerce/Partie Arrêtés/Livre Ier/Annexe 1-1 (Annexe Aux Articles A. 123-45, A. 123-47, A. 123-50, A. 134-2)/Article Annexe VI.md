@@ -33,14 +33,12 @@ portant la mention compétences et talents ; ― ou, le cas échéant, copie de 
 carte de résident ; ― attestation sur l'honneur, sur papier libre, relative à
 l'absence de condamnation ou de sanction civile ou administrative de nature à
 interdire l'exercice d'une activité commerciale, faisant apparaître la
-filiation. 1. 3. Conditions d'exercice. 1. 3. 1. Activité commerciale non
-sédentaire. Copie de l'attestation provisoire de déclaration d'activités non
-sédentaires délivrée par l'autorité préfectorale. 1. 3. 2. Activité réglementée.
-Copie de l'autorisation provisoire ou définitive du diplôme ou du titre
-conformément à l'article R. 123-95. 1. 3. 3. Personne ayant le pouvoir d'engager
-l'assujetti. Pour les personnes ayant le pouvoir dans l'établissement d'engager
-à titre habituel par leur signature l'assujetti : pièces prescrites au 1. 2
-ci-dessus.
+filiation. 1. 3. Conditions d'exercice. 1. 3. 1. (supprimé) 1. 3. 2. Activité
+réglementée. Copie de l'autorisation provisoire ou définitive du diplôme ou du
+titre conformément à l'article R. 123-95. 1. 3. 3. Personne ayant le pouvoir
+d'engager l'assujetti. Pour les personnes ayant le pouvoir dans l'établissement
+d'engager à titre habituel par leur signature l'assujetti : pièces prescrites au
+1. 2 ci-dessus.
 
 2. Renseignements relatifs au premier établissement en France
 

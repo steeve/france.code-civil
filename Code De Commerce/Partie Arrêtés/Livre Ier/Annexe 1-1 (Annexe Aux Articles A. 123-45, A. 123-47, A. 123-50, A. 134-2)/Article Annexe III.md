@@ -105,11 +105,9 @@ administrative de nature à interdire l'exercice d'une activité commerciale,
 faisant apparaître la filiation. 1. 2. 7. Identification du conjoint qui a opté
 pour un statut en application de l'article L. 121-4. Conjoint collaborateur,
 conjoint associé : justificatif d'identité faisant état du mariage. 1. 3.
-Conditions d'exercice. 1. 3. 1. Activité commerciale non sédentaire. Copie de
-l'attestation provisoire de déclaration d'activités non sédentaires délivrée par
-l'autorité préfectorale. 1. 3. 2. Activité réglementée. Copie de l'autorisation
-provisoire ou définitive, du diplôme ou du titre conformément à l'article R.
-123-95.
+Conditions d'exercice. 1. 3. 1. (supprimé) 1. 3. 2. Activité réglementée. Copie
+de l'autorisation provisoire ou définitive, du diplôme ou du titre conformément
+à l'article R. 123-95.
 
 2. Renseignements relatifs au siège
 

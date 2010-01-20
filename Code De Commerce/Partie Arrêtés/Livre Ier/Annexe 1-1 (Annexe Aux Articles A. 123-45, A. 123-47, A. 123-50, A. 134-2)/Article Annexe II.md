@@ -15,16 +15,14 @@ naissance ou de prénom. Copie de la carte nationale d'identité portant mention
 du nouveau nom. 1. 1. 3. Tutelle ou curatelle de la personne immatriculée. Copie
 de la décision définitive ordonnant de telles mesures ou en donnant mainlevée.
 1. 1. 4. Décès de la personne immatriculée. Extrait de l'acte de décès. 1. 2.
-Conditions d'exercice. 1. 2. 1. Activité commerciale non sédentaire. 1. 2. 1. 1.
-Ambulants. Copie de l'attestation provisoire délivrée pour l'exercice d'une
-activité non sédentaire par l'autorité préfectorale. 1. 2. 1. 2. Forains. Copie
-de l'attestation valant titre provisoire de circulation délivrée par l'autorité
-préfectorale. 1. 2. 2. Activité réglementée. Copie de l'autorisation provisoire
-ou définitive du diplôme ou du titre, conformément à l'article R. 123-95. 1. 2.
-3. Personne ayant le pouvoir d'engager l'assujetti. Pour les personnes ayant le
-pouvoir dans l'établissement d'engager à titre habituel par leur signature
-l'assujetti : pièces prescrites par la rubrique 1. 1. de l'annexe I et le cas
-échéant le 1. 1. 1 et le 1. 1. 2 ci-dessus.
+Conditions d'exercice. 1. 2. 1. Activité commerciale non sédentaire. 1. 2. 1. 2.
+Forains. Copie de l'attestation valant titre provisoire de circulation délivrée
+par l'autorité préfectorale. 1. 2. 2. Activité réglementée. Copie de
+l'autorisation provisoire ou définitive du diplôme ou du titre, conformément à
+l'article R. 123-95. 1. 2. 3. Personne ayant le pouvoir d'engager l'assujetti.
+Pour les personnes ayant le pouvoir dans l'établissement d'engager à titre
+habituel par leur signature l'assujetti : pièces prescrites par la rubrique 1.
+1. de l'annexe I et le cas échéant le 1. 1. 1 et le 1. 1. 2 ci-dessus.
 
 2. Renseignements relatifs à l'établissement
 
