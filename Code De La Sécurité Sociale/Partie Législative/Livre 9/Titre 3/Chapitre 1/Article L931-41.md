@@ -18,4 +18,5 @@ cette fin, constituer ou demander à ses membres de constituer pour son compte
 les garanties requises conventionnellement.
 
 Le défaut d'adhésion au fonds ou l'absence de versement de la cotisation sont
-passibles des sanctions prévues à l'article L. 951-10.
+passibles des sanctions prévues à l'article L. 612-43 du code monétaire et
+financier.
