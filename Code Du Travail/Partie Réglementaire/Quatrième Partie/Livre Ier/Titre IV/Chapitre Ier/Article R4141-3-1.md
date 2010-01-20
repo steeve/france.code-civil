@@ -15,5 +15,6 @@ du personnel en matière de prévention des risques professionnels ;
 4° Le cas échéant, les dispositions contenues dans le règlement intérieur,
 prévues aux alinéas 1° et 2° de l'article L. 1321-1 ;
 
-5° Le cas échéant, les consignes de sécurité et de premiers secours en cas
-d'incendie, prévues à l'article R. 4227-37.
+5° Les consignes de sécurité incendie et instructions mentionnées à l'article R.
+4227-37 ainsi que l'identité des personnes chargées de la mise en œuvre des
+mesures prévues à l'article R. 4227-38.
