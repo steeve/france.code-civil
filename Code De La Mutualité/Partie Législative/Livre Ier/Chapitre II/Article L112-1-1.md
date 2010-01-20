@@ -31,8 +31,8 @@ s'agissant des risques liés à la durée de la vie humaine, prendre la forme de
 tables homologuées et régulièrement mises à jour par arrêté du ministre chargé
 de la mutualité ou de tables établies ou non par sexe par la mutuelle ou l'union
 et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par
-l'une des associations d'actuaires reconnues par l'autorité de contrôle
-instituée à l'article L. 510-1.
+l'une des associations d'actuaires reconnues par l'Autorité de contrôle
+prudentiel.
 
 III.-Le présent article s'applique aux contrats d'assurance autres que ceux
 conclus dans les conditions prévues à l'article L. 911-1 du code de la sécurité

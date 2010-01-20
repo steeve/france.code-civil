@@ -7,8 +7,7 @@ sanitaires et sociales présentant un caractère innovant, soit pour améliorer 
 développement et les conditions d'exploitation de leurs réalisations.
 
 Il contribue aux dépenses de promotion et d'éducation mutualiste des mutuelles,
-unions et fédérations et à celles liées à la mise en oeuvre et au fonctionnement
-du registre national des mutuelles.
+unions et fédérations.
 
 Il peut également intervenir en faveur des mutuelles et unions qui ont été
 victimes de calamités publiques ou de tout autre dommage résultant d'un cas de

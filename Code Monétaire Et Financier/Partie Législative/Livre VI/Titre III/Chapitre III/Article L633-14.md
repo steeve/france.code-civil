@@ -4,14 +4,14 @@ Lorsque des entités réglementées appartenant à un groupe exerçant des activ
 à la fois dans le secteur de la banque et des services d'investissement et dans
 le secteur de l'assurance ont pour entreprise mère une société dont le siège
 social se situe dans un Etat non membre ni partie à l'accord sur l'Espace
-économique européen, la commission bancaire, lorsqu'elle remplit les conditions
-fixées par l'article L. 334-9 pour être coordonnateur, vérifie, de sa propre
-initiative ou à la demande de l'entreprise mère ou d'une entité réglementée
-agréée dans un Etat membre ou un autre Etat partie à l'accord sur l'Espace
-économique européen, que ces entités réglementées sont soumises, par une
-autorité compétente du pays tiers, à une surveillance complémentaire équivalente
-à celle prévue à la présente sous-section. Cette autorité consulte les autorités
-compétentes concernées.
+économique européen, l'Autorité de contrôle prudentiel, lorsqu'elle remplit les
+conditions fixées par l'article L. 334-9 pour être coordonnateur, vérifie, de sa
+propre initiative ou à la demande de l'entreprise mère ou d'une entité
+réglementée agréée dans un Etat membre ou un autre Etat partie à l'accord sur
+l'Espace économique européen, que ces entités réglementées sont soumises, par
+une autorité compétente du pays tiers, à une surveillance complémentaire
+équivalente à celle prévue à la présente sous-section. Cette autorité consulte
+les autorités compétentes concernées.
 
 En l'absence d'une surveillance complémentaire équivalente, les autorités
 compétentes concernées désignent un coordonnateur et appliquent par analogie à
@@ -23,8 +23,8 @@ appartenant à un conglomérat financier dont l'entreprise mère a son siège so
 dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen,
 les autorités compétentes concernées peuvent également appliquer d'autres
 méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été validées
-par la commission bancaire, lorsqu'elle remplit les conditions fixées par
-l'article L. 334-9 pour être coordonnateur, après consultation des autres
+par l'Autorité de contrôle prudentiel, lorsqu'elle remplit les conditions fixées
+par l'article L. 334-9 pour être coordonnateur, après consultation des autres
 autorités compétentes concernées. Les autorités compétentes concernées peuvent
 notamment exiger la constitution d'une compagnie financière holding mixte ayant
 son siège social dans un Etat membre ou dans un autre Etat partie à l'accord sur

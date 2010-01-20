@@ -1,10 +1,9 @@
 Article A441-6
 ----
 Chaque année, les entreprises d'assurance pratiquant les opérations définies par
-l'article L. 441-1 doivent communiquer à l'Autorité de contrôle des assurances
-et des mutuelles pour chacune des conventions qu'elles gèrent, la valeur de
-service et la ou les valeurs d'acquisition de l'unité de rente pour l'exercice à
-venir.
+l'article L. 441-1 doivent communiquer à l'Autorité de contrôle prudentiel pour
+chacune des conventions qu'elles gèrent, la valeur de service et la ou les
+valeurs d'acquisition de l'unité de rente pour l'exercice à venir.
 
 Elles doivent également communiquer :
 

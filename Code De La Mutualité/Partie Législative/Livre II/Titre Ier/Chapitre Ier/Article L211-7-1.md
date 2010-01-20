@@ -1,7 +1,7 @@
 Article L211-7-1
 ----
-Lorsque l'autorité administrative compétente en matière d'agrément se prononce
-sur une demande d'agrément présentée par une mutuelle ou union qui est soit :
+Lorsque l'Autorité de contrôle prudentiel se prononce sur une demande d'agrément
+présentée par une mutuelle ou union qui est soit :
 
 a) Un organisme subordonné à un établissement de crédit agréé ou à une
 entreprise d'investissement agréée dans un Etat membre ou dans un autre Etat

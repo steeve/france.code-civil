@@ -10,5 +10,5 @@ l'article L. 331-1 et le montant des provisions mathématiques qui seraient à
 inscrire si les chargements d'acquisition n'étaient pas pris en compte dans les
 engagements des assurés. Le montant de cet écart ainsi que le calcul des frais
 d'acquisition reportés doivent pouvoir être justifiés à tout moment auprès de
-l'Autorité de contrôle des assurances et des mutuelles. Les frais d'acquisition
-reportés sont admis en représentation des provisions techniques.
+l'Autorité de contrôle prudentiel. Les frais d'acquisition reportés sont admis
+en représentation des provisions techniques.

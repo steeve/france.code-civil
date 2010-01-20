@@ -2,10 +2,10 @@ Article L613-29
 ----
 En cas d'ouverture ou de prononcé d'une procédure de liquidation judiciaire à
 l'égard d'un établissement de crédit, d'un établissement de paiement ou d'une
-entreprise d'investissement, la commission bancaire nomme un liquidateur qui
-procède à l'inventaire des actifs, aux opérations de liquidation ainsi qu'aux
-licenciements, dans les conditions et selon les modalités prévues au titre IV du
-livre VI du code de commerce.
+entreprise d'investissement, l'Autorité de contrôle prudentiel nomme un
+liquidateur qui procède à l'inventaire des actifs, aux opérations de liquidation
+ainsi qu'aux licenciements, dans les conditions et selon les modalités prévues
+au titre IV du livre VI du code de commerce.
 
 Le liquidateur judiciaire désigné par le tribunal procède, en application des
 articles L. 641-1 ou L. 622-5 du code de commerce, aux opérations prévues

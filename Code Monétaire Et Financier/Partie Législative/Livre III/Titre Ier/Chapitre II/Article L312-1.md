@@ -11,7 +11,7 @@ personne peut saisir la Banque de France afin qu'elle lui désigne un
 établissement de crédit situé à proximité de son domicile ou d'un autre lieu de
 son choix, en prenant en considération les parts de marché de chaque
 établissement concerné, dans un délai d'un jour ouvré à compter de la réception
-des pièces requises. L'établissement de crédit qui a refusé l'ouverture d'un
+des pièces requises.L'établissement de crédit qui a refusé l'ouverture d'un
 compte informe le demandeur que celui-ci peut demander à la Banque de France de
 lui désigner un établissement de crédit pour lui ouvrir un compte. Il lui
 propose, s'il s'agit d'une personne physique, d'agir en son nom et pour son
@@ -32,8 +32,8 @@ La charte d'accessibilité bancaire, homologuée par arrêté du ministre charg�
 l'économie, après avis du comité consultatif du secteur financier et du comité
 consultatif de la législation et de la réglementation financières, est
 applicable à tout établissement de crédit. Le contrôle du respect de la charte
-est assuré par la Commission bancaire et relève de la procédure prévue à
-l'article L. 613-34.
+est assuré par l'Autorité de contrôle prudentiel et relève de la procédure
+prévue à l'article L. 612-34.
 
 Les établissements de crédit ne peuvent limiter les services liés à l'ouverture
 d'un compte de dépôt aux services bancaires de base que dans des conditions

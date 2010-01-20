@@ -1,12 +1,12 @@
 Article A114-2
 ----
 I.-Sous réserve des dispositions mentionnées au V du présent article, les
-mutuelles et unions soumises au contrôle de l'Autorité de contrôle des
-assurances et des mutuelles en application de l'article L. 510-1 remettent
-chaque année à cette dernière leurs comptes annuels dans les trente jours qui
-suivent leur approbation par l'assemblée générale. Elles joignent à cet envoi le
-rapport de gestion du conseil d'administration ainsi que les rapports des
-commissaires aux comptes et, pour celles qui y sont astreintes, le bilan social.
+mutuelles et unions soumises au contrôle de l'Autorité de contrôle prudentiel en
+application de l'article L. 510-1 remettent chaque année à cette dernière leurs
+comptes annuels dans les trente jours qui suivent leur approbation par
+l'assemblée générale. Elles joignent à cet envoi le rapport de gestion du
+conseil d'administration ainsi que les rapports des commissaires aux comptes et,
+pour celles qui y sont astreintes, le bilan social.
 
 II.-Sous réserve des dispositions mentionnées au V du présent article, les
 mutuelles et unions régies par le livre II du présent code et n'ayant pas conclu

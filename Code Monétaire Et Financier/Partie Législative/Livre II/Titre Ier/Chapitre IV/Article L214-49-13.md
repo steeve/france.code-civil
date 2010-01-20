@@ -3,11 +3,10 @@ Article L214-49-13
 La création d'un organisme de titrisation ou d'un compartiment d'organisme de
 titrisation relevant de la présente sous-section ou la transformation d'un
 organisme ou compartiment existant en organisme de titrisation relevant de la
-présente sous-section est soumise à l'agrément de l'Autorité de contrôle des
-assurances et des mutuelles.
+présente sous-section est soumise à l'agrément de l'Autorité de contrôle
+prudentiel.
 
-Pour délivrer l'agrément, l'Autorité de contrôle des assurances et des mutuelles
-vérifie que :
+Pour délivrer l'agrément, l'Autorité de contrôle prudentiel vérifie que :
 
 1° Les statuts ou le règlement de l'organisme sont conformes aux dispositions de
 la présente section ;

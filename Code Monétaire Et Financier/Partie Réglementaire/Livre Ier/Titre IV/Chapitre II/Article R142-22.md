@@ -23,7 +23,8 @@ g) Un représentant du ministre chargé de l'industrie ;
 
 3° Le gouverneur de la Banque de France ou son représentant ;
 
-4° Le secrétaire général de la Commission bancaire ou son représentant ;
+4° Le secrétaire général de l'Autorité de contrôle prudentiel ou son
+représentant ;
 
 5° Dix représentants des émetteurs de cartes de paiement, notamment de cartes
 bancaires, de cartes privatives, de cartes mono-enseigne, de porte-monnaie
@@ -63,7 +64,7 @@ l'observatoire jusqu'à la fin de leur mandat de parlementaire ; leur mandat de
 membre de l'observatoire est renouvelable en cas de renouvellement de leur
 mandat de parlementaire. Les autres membres de l'observatoire, à l'exception de
 ceux représentant l'Etat, du gouverneur de la Banque de France et du secrétaire
-général de la Commission bancaire, sont nommés pour un mandat de trois ans
-renouvelable. En cas de vacance d'un siège de membre de l'observatoire, pour
-quelque cause que ce soit, il est procédé à son remplacement pour la durée du
-mandat restant à courir.
+général de l'Autorité de contrôle prudentiel, sont nommés pour un mandat de
+trois ans renouvelable. En cas de vacance d'un siège de membre de
+l'observatoire, pour quelque cause que ce soit, il est procédé à son
+remplacement pour la durée du mandat restant à courir.

@@ -25,7 +25,3 @@ et des unions prévu aux articles L. 211-7, L. 211-7-2 et L. 211-8.
 
 Il gère pour le compte de l'Etat le fonds national de solidarité et d'action
 mutualistes.
-
-Le secrétariat général du Conseil supérieur de la mutualité est chargé de la
-tenue du registre national des mutuelles, unions et fédérations dans lequel ces
-organismes sont répertoriés en fonction de leur activité.

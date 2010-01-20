@@ -8,11 +8,10 @@ contrôle des assurances et des mutuelles celles qui sont prévues à l'article 
 prévus par le titre IV du présent livre, de mettre à la disposition des
 commissaires-contrôleurs tous les documents mentionnés à l'article R. 310-2 et
 de produire les comptes et les états dont la publication et le dépôt auprès de
-l'Autorité de contrôle des assurances et des mutuelles sont imposés par la
-réglementation en vigueur. L'union doit constituer et représenter dans les
-conditions fixées par le titre III du présent livre l'intégralité des dettes,
-réserves et provisions afférentes aux engagements souscrits par la société
-réassurée.
+l'Autorité de contrôle prudentiel sont imposés par la réglementation en vigueur.
+L'union doit constituer et représenter dans les conditions fixées par le titre
+III du présent livre l'intégralité des dettes, réserves et provisions afférentes
+aux engagements souscrits par la société réassurée.
 
 Toutes les écritures comptables afférentes aux engagements pris par la société
 réassurée doivent apparaître dans la comptabilité de l'union.

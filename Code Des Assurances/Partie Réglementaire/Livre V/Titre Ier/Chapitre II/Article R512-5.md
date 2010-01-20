@@ -31,11 +31,11 @@ intermédiaire immatriculé dans son ressort le notifie concomitamment à
 l'association.
 
 VII. - L'association procède à la radiation du registre, sur demande de
-l'Autorité de contrôle des assurances et des mutuelles en application de
-l'article L. 310-18-1. Lorsque l'intermédiaire ne justifie plus du respect des
-obligations requises pour la ou les catégories au titre de laquelle ou
-desquelles il est inscrit, l'association procède à la suppression de
-l'inscription et, le cas échéant, à la radiation du registre.
+l'Autorité de contrôle prudentiel en application de l'article L. 310-18-1.
+Lorsque l'intermédiaire ne justifie plus du respect des obligations requises
+pour la ou les catégories au titre de laquelle ou desquelles il est inscrit,
+l'association procède à la suppression de l'inscription et, le cas échéant, à la
+radiation du registre.
 
 La radiation ou la suppression de l'inscription sont notifiées par
 l'association, par lettre recommandée avec avis de réception, à l'intermédiaire

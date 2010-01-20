@@ -8,7 +8,7 @@ Commission nationale de l'informatique et des libertés.
 
 Médiateur du cinéma.
 
-Commission bancaire.
+Autorité de contrôle prudentiel.
 
 Conseil supérieur de l'audiovisuel.
 

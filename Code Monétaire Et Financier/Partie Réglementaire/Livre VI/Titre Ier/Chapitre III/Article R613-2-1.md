@@ -1,7 +1,7 @@
 Article R613-2-1
 ----
-La commission bancaire assure la publication par voie électronique des
-informations suivantes :
+L'Autorité de contrôle prudentiel assure la publication par voie électronique
+des informations suivantes :
 
 1° Les orientations, méthodes et critères généraux qu'elle met en œuvre et
 applique pour les besoins de la surveillance prudentielle, notamment les

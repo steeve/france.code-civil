@@ -9,10 +9,10 @@ chapitre, de verser sur ces comptes des rémunérations supérieures à celles
 fixées par le ministre chargé de l'économie, ou d'accepter sur ces comptes des
 sommes excédant les plafonds autorisés.
 
-Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
-Commission bancaire, les infractions aux dispositions du présent article sont
-punies d'une amende dont le taux est égal au montant des intérêts payés, sans
-que cette amende puisse être inférieure à 75 euros.
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par
+l'Autorité de contrôle prudentiel, les infractions aux dispositions du présent
+article sont punies d'une amende dont le taux est égal au montant des intérêts
+payés, sans que cette amende puisse être inférieure à 75 euros.
 
 Un décret fixe les modalités d'application du présent article, notamment les
 conditions dans lesquelles seront constatées et poursuivies les infractions.

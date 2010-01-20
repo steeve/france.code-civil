@@ -17,27 +17,26 @@ entreprises agréées conformément aux dispositions de l'article L. 321-7.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis
 publié au Journal officiel, qui leur impartit un délai de deux mois pour
-présenter leurs observations. Le Comité des entreprises d'assurance approuve le
+présenter leurs observations. L'Autorité de contrôle prudentiel approuve le
 transfert s'il lui apparaît que le transfert ne préjudicie pas aux intérêts des
 créanciers et des assurés.
 
-Le Comité des entreprises d'assurance n'approuve le transfert que si les
-autorités de contrôle de l'Etat d'établissement de l'entreprise cessionnaire
-attestent que celle-ci possède, compte tenu du transfert, la marge de
-solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise
-cessionnaire est partie à l'accord sur l'Espace économique européen,
-l'attestation mentionnée au présent alinéa est donnée par les autorités de
-contrôle de cet Etat.
+L'Autorité de contrôle prudentiel n'approuve le transfert que si les autorités
+de contrôle de l'Etat d'établissement de l'entreprise cessionnaire attestent que
+celle-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
+Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est partie à
+l'accord sur l'Espace économique européen, l'attestation mentionnée au présent
+alinéa est donnée par les autorités de contrôle de cet Etat.
 
 Lorsque le cédant est une succursale située dans un Etat membre des Communautés
-européennes autre que la France, le Comité des entreprises d'assurance recueille
+européennes autre que la France, l'Autorité de contrôle prudentiel recueille
 préalablement l'avis de l'autorité de contrôle de l'Etat où est située la
 succursale.
 
 Lorsque les risques ou les engagements transférés sont situés dans un Etat
-membre des Communautés européennes autre que la France, le Comité des
-entreprises d'assurance recueille préalablement l'accord des autorités de
-contrôle de l'Etat du risque ou de l'engagement.
+membre des Communautés européennes autre que la France, l'Autorité de contrôle
+prudentiel recueille préalablement l'accord des autorités de contrôle de l'Etat
+du risque ou de l'engagement.
 
 Pour les transferts concernant les entreprises d'assurance vie ou de
 capitalisation, cette approbation est, en outre, fondée sur les données de

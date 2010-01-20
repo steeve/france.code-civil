@@ -3,21 +3,20 @@ Article L632-7
 I.-Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968
 relative à la communication des documents et renseignements d'ordre économique,
 commercial, industriel, financier ou technique à des personnes physiques ou
-morales étrangères, le Comité des établissements de crédit et des entreprises
-d'investissement, la Commission bancaire et l'Autorité des marchés financiers
-peuvent conclure, avec des autorités homologues relevant d'un Etat non membre de
-la Communauté européenne et non partie à l'accord sur l'Espace économique
-européen, des accords de coopération prévoyant notamment l'échange
+morales étrangères, l'Autorité de contrôle prudentiel et l'Autorité des marchés
+financiers peuvent conclure, avec des autorités homologues relevant d'un Etat
+non membre de la Communauté européenne et non partie à l'accord sur l'Espace
+économique européen, des accords de coopération prévoyant notamment l'échange
 d'informations. Les informations communiquées doivent bénéficier de garanties de
 secret professionnel au moins équivalentes à celles auxquelles sont soumises les
 autorités françaises parties à ces accords. Cet échange d'informations doit être
 destiné à l'exécution des missions desdites autorités compétentes.
 
-II.-Le Comité des établissements de crédit et des entreprises d'investissement,
-la Commission bancaire et l'Autorité des marchés financiers peuvent également
-conclure des accords de coopération prévoyant notamment l'échange d'informations
-avec des autorités ou personnes relevant d'un Etat non membre de la Communauté
-européenne et non partie à l'accord sur l'Espace économique européen, qui sont :
+II.- L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers
+peuvent également conclure des accords de coopération prévoyant notamment
+l'échange d'informations avec des autorités ou personnes relevant d'un Etat non
+membre de la Communauté européenne et non partie à l'accord sur l'Espace
+économique européen, qui sont :
 
 a) Responsables de la surveillance des établissements de crédit, des
 établissements de paiement des autres établissements financiers et des

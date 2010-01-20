@@ -7,8 +7,8 @@ transporteur, adhère à l'organisme d'information visé à l'article L. 451-1.
 
 Toute entreprise d'assurance qui ne se conforme pas à cette obligation est
 considérée comme ne fonctionnant plus conformément à la législation en vigueur.
-Elle encourt, selon le cas, les sanctions prévues aux articles L. 310-18 ou L.
-351-7 et L. 351-8.
+Elle encourt, selon le cas, les sanctions prévuesaux articles L. 612-39 du code
+monétaire et financier, ou L. 351-7 et L. 351-8 du présent code.
 
 Afin de permettre à l'organisme d'information de répondre aux demandes
 d'information prévues aux articles L. 451-1 et L. 451-3 pendant un délai de sept

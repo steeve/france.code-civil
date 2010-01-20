@@ -7,7 +7,7 @@ pour effet de suspendre la validité de cet agrément.
 En cas de résiliation dudit traité ou de modification de la clause prévoyant la
 substitution du réassureur à l'organisme réassuré, l'agrément ne sera remis en
 vigueur et l'organisme intéressé ne pourra poursuivre ses opérations à ce titre
-qu'avec l'autorisation du comité des entreprises d'assurance, qui pourra
+qu'avec l'autorisation de l'Autorité de contrôle prudentiel, qui pourra
 notamment exiger qu'il présente des garanties suffisantes pour lui permettre de
 remplir ses engagements.
 

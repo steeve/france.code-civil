@@ -15,15 +15,15 @@ Communauté européenne ni parties à l'accord sur l'Espace économique europée
 l'exclusion des Etats-Unis d'Amérique, de la Suisse, du Japon, du Canada, de
 l'Australie ou de la Nouvelle-Zélande, et bénéficiant du meilleur échelon de
 qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu
-par la Commission bancaire conformément à l'article L. 511-44 ;
+par la l'Autorité de contrôle prudentiel conformément à l'article L. 511-44 ;
 
 3. Communauté européenne, Fonds monétaire international, Banque des règlements
 internationaux, banques multilatérales de développement dont la liste est
 établie par arrêté du ministre chargé de l'économie ; autres organisations
 internationales et banques multilatérales de développement bénéficiant du
 meilleur échelon de qualité de crédit établi par un organisme externe
-d'évaluation de crédit reconnu par la Commission bancaire conformément à
-l'article L. 511-44 ;
+d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel
+conformément à l'article L. 511-44 ;
 
 4. Etablissements publics et collectivités territoriales ou leurs groupements
 relevant d'Etats non membres de la Communauté européenne ni parties à l'accord
@@ -34,13 +34,13 @@ exigences de fonds propres, de la même pondération que celle des créances
 accordées à des administrations centrales, des banques centrales ou des
 établissements de crédit, ou totalement garanties par ces mêmes personnes, et
 qu'elles bénéficient du meilleur échelon de qualité de crédit établi par un
-organisme externe d'évaluation de crédit reconnu par la Commission bancaire
-conformément à l'article L. 511-44 ;
+organisme externe d'évaluation de crédit reconnu par l'Autorité de contrôle
+prudentiel conformément à l'article L. 511-44 ;
 
 5. Etablissements publics et collectivités territoriales ou groupements
 mentionnés au 4 ci-dessus bénéficiant du deuxième meilleur échelon de qualité de
-crédit établi par un organisme externe d'évaluation de crédit reconnu par la
-Commission bancaire conformément à l'article L. 511-44.
+crédit établi par un organisme externe d'évaluation de crédit reconnu par
+l'Autorité de contrôle prudentiel conformément à l'article L. 511-44.
 
 II.-Les expositions sur des personnes publiques comprennent notamment :
 
@@ -62,4 +62,5 @@ qui résultera de la vente du bien loué.
 III.-Un décret en Conseil d'Etat précise les modalités et, le cas échéant, les
 limites de prise en compte des expositions mentionnées au I assorties d'une
 condition d'évaluation de crédit par un organisme externe d'évaluation de crédit
-reconnu par la Commission bancaire conformément à l'article L. 511-44.
+reconnu par l'Autorité de contrôle prudentiel conformément à l'article L.
+511-44.

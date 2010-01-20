@@ -3,7 +3,7 @@ Article L933-3
 Les institutions de prévoyance apparentées à au moins un autre organisme
 assureur ou subordonnées à un organisme ayant une activité économique font
 l'objet d'une surveillance complémentaire de leur situation financière par
-l'Autorité de contrôle instituée par l'article L. 951-1.
+l'Autorité de contrôle prudentiel.
 
 La surveillance complémentaire tient compte des organismes qui sont apparentés à
 l'institution. L'Autorité de contrôle peut toutefois décider d'exclure un

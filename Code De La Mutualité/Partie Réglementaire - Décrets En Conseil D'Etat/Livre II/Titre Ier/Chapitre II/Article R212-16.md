@@ -111,8 +111,8 @@ provision technique spéciale mentionnée à l'article R. 222-8, dans la limite 
 la provision mathématique théorique mentionnée à l'article R. 222-16.
 
 En outre, pour la prise en compte de la réassurance financière limitée dans le
-ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle des
-assurances et des mutuelles se fonde sur le transfert de risque effectif.
+ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle
+prudentiel se fonde sur le transfert de risque effectif.
 
 Sur demande et justification de la mutuelle ou union auprès de l'Autorité de
 contrôle, et avec l'accord de celle-ci, les montants récupérables au titre des

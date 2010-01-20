@@ -1,12 +1,11 @@
 Article A321-2
 ----
-I. - Lorsqu'une entreprise demande au Comité des entreprises d'assurance
-l'agrément administratif prévu par l'article L. 321-1 ou une extension de cet
-agrément ou lorsqu'une entreprise procède à la déclaration prévue à l'article R.
-321-17-1 ou à la transmission prévue aux articles R. 334-46 et R. 334-48, les
-personnes mentionnées au f du I de l'article A. 321-1 et qui sont chargées de
-conduire l'entreprise au sens de l'article A. 321-10 produisent un dossier
-comprenant :
+I. - Lorsqu'une entreprise demande l'Autorité de contrôle prudentiel l'agrément
+administratif prévu par l'article L. 321-1 ou une extension de cet agrément ou
+lorsqu'une entreprise procède à la déclaration prévue à l'article R. 321-17-1 ou
+à la transmission prévue aux articles R. 334-46 et R. 334-48, les personnes
+mentionnées au f du I de l'article A. 321-1 et qui sont chargées de conduire
+l'entreprise au sens de l'article A. 321-10 produisent un dossier comprenant :
 
 a) Une description de leurs fonctions actuelles au sein de l'entreprise ainsi
 qu'un extrait du procès-verbal de la réunion de l'organe social attestant de
@@ -96,12 +95,12 @@ leur situation sur le territoire français.
 
 II. - Les personnes qui produisent le dossier mentionné au I certifient
 l'exactitude des informations communiquées et s'engagent à porter immédiatement
-à la connaissance du Comité des entreprises d'assurance tout changement
+à la connaissance de l'Autorité de contrôle prudentiel tout changement
 significatif des éléments les concernant, notamment ceux mentionnés aux h, k et
 l du I. Le président du conseil d'administration ou du conseil de surveillance
 déclare que les informations communiquées sont à sa connaissance exactes et
-s'engage à porter immédiatement à la connaissance du Comité des entreprises
-d'assurance tout changement significatif les concernant et dont il aurait
+s'engage à porter immédiatement à la connaissance de l'Autorité de contrôle
+prudentiel tout changement significatif les concernant et dont il aurait
 connaissance, notamment les éléments mentionnés aux h, k et l du I. Pour le
 dossier rempli par le président du conseil d'administration, cette déclaration
 est faite par l'actionnaire principal ou par un autre membre du conseil

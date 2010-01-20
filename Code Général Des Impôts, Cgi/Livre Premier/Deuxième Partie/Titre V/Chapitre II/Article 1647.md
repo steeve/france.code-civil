@@ -21,15 +21,15 @@ de l'économie et des finances.
 
 IV. (Sans objet).
 
-V. - L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
-dégrèvements et de non-valeurs un prélèvement de :
+V.-L'Etat perçoit au titre de frais d'assiette, de recouvrement, de dégrèvements
+et de non-valeurs un prélèvement de :
 
-a. 2,37 % en sus du montant de la taxe de publicité foncière ou des droits
+a. 2, 37 % en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements en application de l'article
 1594 A.
 
 b. 2, 14 % en sus du montant de la taxe de publicité foncière ou des droits
-d'enregistrement perçus au profit des départements au taux de 0,70 % ;
+d'enregistrement perçus au profit des départements au taux de 0, 70 % ;
 
 c. 2 % sur les montants de la taxe d'apprentissage versés au Fonds national de
 développement et de modernisation de l'apprentissage en application du 1 de
@@ -64,6 +64,11 @@ XIII.-(Sans objet)
 XIV.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 2 % sur le montant de la taxe mentionnée à l'article 1011 bis.
 
-XV. - L'Etat perçoit au titre des frais d'assiette, de recouvrement, de
+XV.-L'Etat perçoit au titre des frais d'assiette, de recouvrement, de
 dégrèvements et de non-valeurs un prélèvement de 1 % en sus du montant, après
 application de l'article 1586 quater.
+
+XVI.-Pour frais de recouvrement, l'Etat prélève 1 % des sommes recouvrées au
+titre de la contribution de supervision pour le compte de la Banque de France
+dans les conditions prévues par le VIII de l'article L. 612-20 du code monétaire
+et financier.

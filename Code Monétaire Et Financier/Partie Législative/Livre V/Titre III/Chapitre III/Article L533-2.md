@@ -15,4 +15,4 @@ Ils doivent en particulier respecter des ratios de couverture et de division des
 risques.
 
 Le non-respect de ces obligations entraîne l'application de la procédure prévue
-aux articles L. 613-21 et L. 621-15.
+aux articles L. 612-39 et L. 621-15.

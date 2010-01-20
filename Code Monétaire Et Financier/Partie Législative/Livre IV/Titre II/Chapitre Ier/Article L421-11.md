@@ -1,6 +1,6 @@
 Article L421-11
 ----
-I. - L'entreprise de marché prend les dispositions nécessaires en vue de :
+I.-L'entreprise de marché prend les dispositions nécessaires en vue de :
 
 1. Détecter, prévenir et gérer les effets potentiellement dommageables, pour le
 bon fonctionnement du marché réglementé ou pour les membres du marché, de tout
@@ -23,11 +23,11 @@ dysfonctionnements ;
 5. Mettre en oeuvre des mécanismes visant à faciliter le dénouement efficace et
 en temps voulu des transactions exécutées dans le cadre de leurs systèmes.
 
-II. - L'entreprise de marché est tenue de disposer, au moment de la
-reconnaissance du marché réglementé et en permanence, des ressources financières
-suffisantes pour permettre le bon fonctionnement du marché.
+II.-L'entreprise de marché est tenue de disposer, au moment de la reconnaissance
+du marché réglementé et en permanence, des ressources financières suffisantes
+pour permettre le bon fonctionnement du marché.
 
-III. - Le règlement général de l'Autorité des marchés financiers détermine les
+III.-Le règlement général de l'Autorité des marchés financiers détermine les
 règles relatives aux 1, 3, et 5 du I. Un arrêté du ministre chargé de
 l'économie, pris conformément à l'article L. 611-3, détermine les règles
 relatives aux 2 et 4 du I et au II.
@@ -35,6 +35,6 @@ relatives aux 2 et 4 du I et au II.
 L'Autorité des marchés financiers s'assure de la bonne application des
 dispositions des I et II dans les conditions prévues à l'article L. 621-9. Pour
 les règles relatives aux 2 et 4 du I et au II, elle s'appuie sur les contrôles
-effectués par la Commission bancaire dans les conditions prévues pour les
-personnes mentionnées à l'article L. 613-2 et les recommandations qui
-s'ensuivent.
+effectués par l'Autorité de contrôle prudentiel dans les conditions prévues pour
+les personnes mentionnées à au 2° du A du I de l'article L. 612-2 et les
+recommandations qui s'ensuivent.

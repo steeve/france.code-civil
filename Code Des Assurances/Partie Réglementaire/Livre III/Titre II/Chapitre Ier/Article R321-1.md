@@ -1,7 +1,7 @@
 Article R321-1
 ----
-L'agrément administratif prévu par l'article L. 321-1 est accordé par le comité
-des entreprises d'assurance. Pour l'octroi de cet agrément, les opérations
+L'agrément administratif prévu par l'article L. 321-1 est accordé par l'Autorité
+de contrôle prudentiel. Pour l'octroi de cet agrément, les opérations
 d'assurance sont classées en branches et sous-branches de la manière suivante :
 
 1. Accidents (y compris les accidents de travail et les maladies

@@ -6,9 +6,9 @@ délai d'un an à dater de la publication au Journal officiel la décision
 d'agrément, ou si une entreprise ne souscrit, pendant deux exercices
 consécutifs, aucun contrat appartenant à une branche ou sous-branche pour
 laquelle elle est agréée, elle en fait immédiatement la déclaration à l'Autorité
-de contrôle des assurances et des mutuelles et l'agrément administratif cesse de
-plein droit d'être valable pour la branche ou sous-branche considérée.
+de contrôle prudentiel et l'agrément administratif cesse de plein droit d'être
+valable pour la branche ou sous-branche considérée.
 
-Sans délai, l'Autorité de contrôle des assurances et des mutuelles assure, dans
-les deux cas mentionnés à l'alinéa précédent, la publication au Journal officiel
-d'un avis constatant que l'agrément administratif a cessé d'être valable.
+Sans délai, l'Autorité de contrôle prudentiel assure, dans les deux cas
+mentionnés à l'alinéa précédent, la publication au Journal officiel d'un avis
+constatant que l'agrément administratif a cessé d'être valable.

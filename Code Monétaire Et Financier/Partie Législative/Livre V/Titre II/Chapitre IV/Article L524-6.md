@@ -13,19 +13,19 @@ et par le présent titre, ainsi qu'à des règles d'exécution des opérations d
 change manuel, d'organisation et de contrôle interne propres à en assurer le
 respect.
 
-II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs
-manuels dans les conditions prévues au II de l'article L. 613-21.
+II.-L'Autorité de contrôle prudentiel exerce le pouvoir disciplinaire sur les
+changeurs manuels dans les conditions prévues au II de l'article L. 612-45.
 
-La Commission bancaire exerce le contrôle, notamment sur place, des changeurs
-manuels dans les conditions prévues aux articles L. 613-6 à L. 613-8, L. 613-10,
-L. 613-11 et L. 613-20. Les agents chargés du contrôle sur place peuvent
-procéder au contrôle de caisse.
+L'Autorité de contrôle prudentiel exerce le contrôle, notamment sur place, des
+changeurs manuels dans les conditions prévues aux articles L. 612-17 et L.
+612-23 à L. 612-27. Les agents chargés du contrôle sur place peuvent procéder au
+contrôle de caisse.
 
 Les agents des douanes ayant au moins le grade de contrôleur peuvent également
-exercer, pour le compte de la Commission bancaire, le contrôle sur place des
-changeurs manuels dans les conditions prévues à l'article L. 524-7.
+exercer, pour le compte de l'Autorité de contrôle prudentiel, le contrôle sur
+place des changeurs manuels dans les conditions prévues à l'article L. 524-7.
 
-Nonobstant toute disposition législative contraire, la Commission bancaire et
-l'administration des douanes peuvent, pour l'application des dispositions du
-présent titre et du titre VI du présent livre, se communiquer les informations
-nécessaires.
+Nonobstant toute disposition législative contraire, l'Autorité de contrôle
+prudentiel et l'administration des douanes peuvent, pour l'application des
+dispositions du présent titre et du titre VI du présent livre, se communiquer
+les informations nécessaires.

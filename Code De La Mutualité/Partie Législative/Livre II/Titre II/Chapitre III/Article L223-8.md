@@ -4,9 +4,9 @@ Tout membre participant qui a signé un bulletin d'adhésion auprès d'une mutue
 ou par l'intermédiaire de celle-ci auprès d'une union a la faculté d'y renoncer
 par lettre recommandée avec demande d'avis de réception pendant un délai de
 trente jours calendaires révolus à compter du moment où il est informé que
-l'adhésion a pris effet. Ce délai expire le dernier jour à vingt-quatre heures.
-S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas
-prorogé.
+l'adhésion a pris effet. Ce délai expire le dernier jour à vingt-quatre
+heures.S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est
+pas prorogé.
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné
 à faciliter l'exercice de cette faculté de renonciation. Il doit indiquer,
@@ -31,13 +31,12 @@ l'employeur ou la personne morale souscriptrice sont communiquées par ce dernie
 aux membres participants.
 
 De plus, il est inséré en début de note un encadré indiquant en caractères très
-apparents la nature du contrat. L'encadré comporte en particulier le
-regroupement des frais dans une même rubrique, les garanties offertes, la
-disponibilité des sommes en cas de rachat, la participation aux bénéfices, ainsi
-que les modalités de désignation du bénéficiaire. Un arrêté du ministre chargé
-de la mutualité, pris après avis de l'Autorité de contrôle des assurances et des
-mutuelles, fixe le format de cet encadré ainsi que, de façon limitative, son
-contenu.
+apparents la nature du contrat.L'encadré comporte en particulier le regroupement
+des frais dans une même rubrique, les garanties offertes, la disponibilité des
+sommes en cas de rachat, la participation aux bénéfices, ainsi que les modalités
+de désignation du bénéficiaire. Un arrêté du ministre chargé de la mutualité,
+pris après avis de l'Autorité de contrôle prudentiel, fixe le format de cet
+encadré ainsi que, de façon limitative, son contenu.
 
 Le défaut de remise des documents et informations énumérés au deuxième alinéa
 entraîne de plein droit la prorogation du délai prévu au premier alinéa jusqu'au

@@ -19,5 +19,4 @@ ces dernières, le rapport de solvabilité est établi par le mandataire génér
 représentant la société.
 
 Le rapport de solvabilité mentionné au premier alinéa est communiqué aux
-commissaires aux comptes et à l'Autorité de contrôle des assurances et des
-mutuelles.
+commissaires aux comptes et à l'Autorité de contrôle prudentiel.

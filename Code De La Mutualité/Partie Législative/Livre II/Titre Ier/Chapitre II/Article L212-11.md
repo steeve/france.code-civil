@@ -29,34 +29,34 @@ se prononcer sur la demande de transfert dans les conditions de l'article L.
 114-12.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis
-publié au Journal officiel, qui leur impartit un délai de deux mois pour
-présenter leurs observations à l'autorité administrative. L'autorité
-administrative approuve le transfert par arrêté, s'il lui apparaît que celui-ci
-ne préjudicie pas aux intérêts des créanciers, des adhérents, des membres
+publié au Journal officiel de la République française, qui leur impartit un
+délai de deux mois pour présenter leurs observations.L'Autorité de contrôle
+prudentiel approuve le transfert s'il lui apparaît que le transfert ne
+préjudicie pas aux intérêts des créanciers, des adhérents, des membres
 participants, de leurs ayants droit et des bénéficiaires.
 
-L'autorité administrative n'approuve le transfert que si les autorités de
-contrôle de l'Etat d'établissement de l'entreprise cessionnaire attestent que
-celle-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
-Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est partie à
-l'accord sur l'Espace économique européen, l'attestation mentionnée au présent
-alinéa est donnée par les autorités de contrôle de cet Etat.
+L'Autorité de contrôle prudentiel n'approuve le transfert que si l'entreprise
+cessionnaire dispose, compte tenu du transfert, de la marge de solvabilité
+nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est
+partie à l'accord sur l'Espace économique européen, cette approbation est prise
+après avis des autorités de contrôle de cet Etat.
 
 Lorsque les risques ou les engagements transférés sont situés dans un Etat
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen autre que la France, l'autorité administrative recueille préalablement
-l'avis de l'autorité de contrôle de l'Etat du risque ou de l'engagement.
+membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen autre que la France, l'Autorité de contrôle prudentiel recueille
+préalablement l'avis de l'autorité de contrôle de l'Etat du risque ou de
+l'engagement.
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de
 l'article L. 111-1, cette approbation est en outre fondée sur les données de
 l'état sur les plus-values latentes prévu à l'article L. 212-6.
 
 L'approbation rend le transfert opposable aux membres participants ainsi qu'aux
-créanciers à partir de la date de publication au Journal officiel de l'arrêté
-mentionné au quatrième alinéa du présent article. Les membres participants ont
-la faculté de résilier leur adhésion dans le délai d'un mois suivant la date de
-cette publication. Toutefois, cette faculté de résiliation ne leur est pas
-offerte lorsque l'affiliation à la mutuelle ou à l'union est obligatoire en
-vertu d'une convention ou d'un accord collectif, d'un accord ratifié par
-référendum ou d'une décision unilatérale de l'employeur, sauf modification de la
-convention, de l'accord ou de la décision unilatérale.
+créanciers à partir de la date de publication de l'approbation mentionnée au
+quatrième alinéa du présent article. Les membres participants ont la faculté de
+résilier leur adhésion dans le délai d'un mois suivant la date de cette
+publication. Toutefois, cette faculté de résiliation ne leur est pas offerte
+lorsque l'affiliation à la mutuelle ou à l'union est obligatoire en vertu d'une
+convention ou d'un accord collectif, d'un accord ratifié par référendum ou d'une
+décision unilatérale de l'employeur, sauf modification de la convention, de
+l'accord ou de la décision unilatérale.

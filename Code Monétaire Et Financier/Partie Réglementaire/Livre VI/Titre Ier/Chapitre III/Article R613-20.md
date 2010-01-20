@@ -1,10 +1,11 @@
 Article R613-20
 ----
 Au vu des documents et à partir des informations fournis par le débiteur, les
-déposants, le fonds de garantie, les administrateurs désignés par la Commission
-bancaire et par le tribunal, ainsi que par le liquidateur nommé par la
-Commission bancaire, le représentant des créanciers ou le liquidateur judiciaire
-vérifie les créances mentionnées au premier alinéa de l'article L. 613-30.
+déposants, le fonds de garantie, les administrateurs désignés par l'Autorité de
+contrôle prudentiel et par le tribunal, ainsi que par le liquidateur nommé par
+l'Autorité de contrôle prudentiel, le représentant des créanciers ou le
+liquidateur judiciaire vérifie les créances mentionnées au premier alinéa de
+l'article L. 613-30.
 
 Les relevés de ces créances sont établis par le représentant des créanciers ou
 le liquidateur judiciaire au plus tard neuf mois après le prononcé du jugement

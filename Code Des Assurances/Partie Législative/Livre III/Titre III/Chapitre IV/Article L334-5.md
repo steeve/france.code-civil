@@ -40,6 +40,7 @@ présent article est exempté du régime de la surveillance complémentaire
 lorsqu'il appartient à un groupe identifié comme conglomérat financier soumis, à
 ce titre, à une surveillance complémentaire. Néanmoins, le coordonnateur du
 conglomérat ou, le cas échéant, le coordonnateur désigné conformément à
-l'article L. 334-9 pour la surveillance complémentaire du sous-groupe peut, par
-une décision motivée, soumettre le sous-groupe au régime de surveillance
-complémentaire dans des conditions fixées par voie réglementaire.
+l'article L. 633-2 du code monétaire et financier pour la surveillance
+complémentaire du sous-groupe peut, par une décision motivée, soumettre le
+sous-groupe au régime de surveillance complémentaire dans des conditions fixées
+par voie réglementaire.

@@ -1,8 +1,8 @@
 Article R332-25
 ----
-L'Autorité de contrôle des assurances et des mutuelles notifie à l'entreprise,
-par lettre recommandée, la liste des éléments de l'actif dont la valeur est à
-expertiser et le nom de l'expert qu'elle a choisi pour chacun d'eux.
+L'Autorité de contrôle prudentiel notifie à l'entreprise, par lettre
+recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et
+le nom de l'expert qu'elle a choisi pour chacun d'eux.
 
 Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre,
 l'entreprise fait connaître à l'Autorité, par lettre recommandée, pour chacun

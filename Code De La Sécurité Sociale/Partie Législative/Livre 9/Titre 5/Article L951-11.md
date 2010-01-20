@@ -1,7 +1,7 @@
 Article L951-11
 ----
-Est puni de deux ans d'emprisonnement et de 300 000 euros d'amende le fait, pour
-tout dirigeant d'une institution de prévoyance ou d'une union d'institution de
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour tout
+dirigeant d'une institution de prévoyance ou d'une union d'institution de
 prévoyance ou pour tout dirigeant que l'Autorité aura décidé de soumettre à son
 contrôle en application de l'article L. 951-2 :
 
@@ -11,7 +11,7 @@ l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer
 sciemment des renseignements inexacts ;
 
 2° De faire entrave à l'action de l'Autorité de contrôle exercée en application
-de l'article L. 951-1 à L. 951-16 ;
+de l'article L. 951-1 ;
 
 3° De faire des déclarations mensongères ou de procéder à des dissimulations
 frauduleuses dans tout document produit au ministre chargé de la sécurité

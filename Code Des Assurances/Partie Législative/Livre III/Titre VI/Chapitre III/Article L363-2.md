@@ -1,10 +1,10 @@
 Article L363-2
 ----
 Sur demande justifiée de l'autorité de contrôle de l'Etat d'origine des
-entreprises, l'Autorité de contrôle des assurances et des mutuelles restreint ou
-interdit la libre disposition de tout ou partie de ceux des actifs des
-entreprises d'assurance ou de réassurance communautaires qui sont localisés sur
-le territoire de la République française.
+entreprises, l'Autorité de contrôle prudentiel restreint ou interdit la libre
+disposition de tout ou partie de ceux des actifs des entreprises d'assurance ou
+de réassurance communautaires qui sont localisés sur le territoire de la
+République française.
 
 Lorsqu'elle est informée qu'une entreprise d'assurance ou de réassurance
 communautaire opérant en France en libre prestation de services ou en libre

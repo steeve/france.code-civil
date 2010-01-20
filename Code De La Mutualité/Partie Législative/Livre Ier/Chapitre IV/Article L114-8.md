@@ -1,8 +1,8 @@
 Article L114-8
 ----
-I. - Les membres des mutuelles, unions et fédérations se réunissent en assemblée
+I.-Les membres des mutuelles, unions et fédérations se réunissent en assemblée
 générale au moins une fois par an, sur convocation du président du conseil
-d'administration. A défaut d'une telle convocation, le président du tribunal de
+d'administration.A défaut d'une telle convocation, le président du tribunal de
 grande instance, statuant en référé, peut, à la demande de tout membre de
 l'organisme, enjoindre sous astreinte aux membres du conseil d'administration de
 convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette
@@ -14,11 +14,11 @@ L'assemblée générale peut également être convoquée par :
 
 2° Les commissaires aux comptes ;
 
-3° L'Autorité de contrôle mentionnée à l'article L. 510-1, d'office ou à la
-demande d'un membre participant ;
+3° L'Autorité de contrôle prudentiel, d'office ou à la demande d'un membre
+participant ;
 
-4° Un administrateur provisoire nommé par l'Autorité de contrôle mentionnée à
-l'article L. 510-1, à la demande d'un ou plusieurs membres participants ;
+4° Un administrateur provisoire nommé par l'Autorité de contrôle prudentiel , à
+la demande d'un ou plusieurs membres participants ;
 
 5° Les liquidateurs.
 
@@ -27,10 +27,10 @@ statuant en référé, peut, à la demande de tout membre de l'organisme, enjoin
 sous astreinte aux membres du conseil d'administration de convoquer cette
 assemblée ou désigner un mandataire chargé de procéder à cette convocation.
 
-II. - La convocation des assemblées générales est faite dans les conditions et
+II.-La convocation des assemblées générales est faite dans les conditions et
 délais fixés par décret.
 
-III. - L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation.
+III.-L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation.
 Toutefois, les membres participants ou les délégués, selon la composition de
 l'assemblée générale, peuvent, dans des conditions déterminées par décret,
 requérir l'inscription à l'ordre du jour de projets de résolution.

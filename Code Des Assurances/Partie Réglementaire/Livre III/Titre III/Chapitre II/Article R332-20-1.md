@@ -22,13 +22,13 @@ Etat membre de l'organisation de coopération et de développement économiques 
 déterminée sur la base d'une expertise quinquennale effectuée par un expert
 accepté par l'Autorité de contrôle des assurances et des mutuelles. Entre deux
 expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un
-expert accepté par l'Autorité de contrôle des assurances et des mutuelles ;
+expert accepté par l'Autorité de contrôle prudentiel ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée
 comme il est prévu aux articles R. 332-19 et R. 332-20 ci-dessus, sauf dans le
 cas où une autre valeur résulte soit d'une expertise effectuée dans les
 conditions prévues à l'article R. 332-23, soit d'un accord entre l'Autorité de
-contrôle des assurances et des mutuelles et l'entreprise.
+contrôle prudentiel et l'entreprise.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des
 articles R. 332-19 et R. 332-20, il y a lieu de déduire de l'évaluation prévue

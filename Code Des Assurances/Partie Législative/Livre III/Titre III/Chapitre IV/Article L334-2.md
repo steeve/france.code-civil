@@ -31,7 +31,7 @@ précisée au 7° du présent article ;
 participante ou affiliée des entreprises participantes de l'entreprise
 d'assurance ;
 
-6° L'expression : groupe d'assurance » désigne un ensemble constitué :
+6° L'expression : groupe d'assurance désigne un ensemble constitué :
 
 a) D'une part, par une entreprise soumise au contrôle de l'Etat en application
 de l'article L. 310-1 ou de l'article L. 310-1-1 et ayant son siège social en
@@ -108,17 +108,17 @@ e) Les établissements de crédit ;
 
 f) Les entreprises d'investissement ;
 
-12° L'expression " autorité compétente concernée " désigne :
+12° L'expression : " autorité compétente concernée " désigne :
 
-1° Toute autorité compétente des Etats responsable de la surveillance
+a) Toute autorité compétente des Etats responsable de la surveillance
 sectorielle consolidée des entités réglementées appartenant à un conglomérat
 financier ;
 
-2° Le coordonnateur désigné conformément à l'article L. 334-9, s'il est
-différent des autorités mentionnées au 1° ;
+b) Le coordonnateur désigné conformément à l'article L. 633-2 du code de
+monétaire et financier, s'il est différent des autorités mentionnées au 1° ;
 
-3° Les autres autorités compétentes lorsque les autorités mentionnées aux 1° et
-2° le jugent opportun ;
+c) Les autres autorités compétentes lorsque les autorités mentionnées aux a et b
+le jugent opportun ;
 
 13° L'expression " règles sectorielles " désigne les règles concernant la
 surveillance prudentielle des entités réglementées et les règles concernant la

@@ -13,8 +13,8 @@ contrats ou leur contre-valeur sont réaffectés aux autres opérations de
 l'entreprise d'assurance dans des conditions convenues entre celle-ci et le ou
 les souscripteurs des contrats faisant l'objet de la comptabilité auxiliaire
 d'affectation. En cas de désaccord entre les parties, l'autorité de contrôle
-instituée à l'article L. 310-12 détermine le montant et le calendrier
-d'affectation d'actifs par l'entreprise d'assurance.
+instituée à l'article L. 612-1 du code monétaire et financier détermine le
+montant et le calendrier d'affectation d'actifs par l'entreprise d'assurance.
 
 L'élaboration du plan de redressement mentionné au premier alinéa tient compte
 de la situation particulière de l'entreprise d'assurance au titre de la

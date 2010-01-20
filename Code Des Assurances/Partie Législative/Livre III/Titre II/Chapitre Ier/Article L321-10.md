@@ -1,21 +1,20 @@
 Article L321-10
 ----
 Pour accorder ou refuser les agréments administratifs prévus aux articles L.
-321-1, L. 321-7 et L. 321-9, le Comité des entreprises d'assurance, prend en
-compte :
+321-1, L. 321-7 et L. 321-9, l'Autorité de contrôle prudentiel, prend en compte
+:
 
-- les moyens techniques et financiers dont la mise en oeuvre est proposée et
-leur adéquation au programme d'activité de l'entreprise ;
+-les moyens techniques et financiers dont la mise en oeuvre est proposée et leur
+adéquation au programme d'activité de l'entreprise ;
 
-- l'honorabilité, la compétence et l'expérience des personnes chargées de la
+-l'honorabilité, la compétence et l'expérience des personnes chargées de la
 conduire, appréciées dans les conditions définies à l'article L. 322-2 ;
 
-- la répartition de son capital et la qualité des actionnaires ou, pour les
+-la répartition de son capital et la qualité des actionnaires ou, pour les
 sociétés mentionnées à l'article L. 322-26-1, les modalités de constitution du
 fonds d'établissement.
 
-Le Comité des entreprises d'assurance refuse l'agrément, après avis de
-l'Autorité de contrôle des assurances et des mutuelles, lorsque l'exercice de la
+L'Autorité de contrôle prudentiel refuse l'agrément, lorsque l'exercice de la
 mission de surveillance de l'entreprise est susceptible d'être entravé, soit par
 l'existence de liens de capital ou de contrôle directs ou indirects entre
 l'entreprise requérante et d'autres personnes physiques ou morales, soit par

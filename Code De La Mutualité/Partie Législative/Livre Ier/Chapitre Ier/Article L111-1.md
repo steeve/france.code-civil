@@ -1,9 +1,9 @@
 Article L111-1
 ----
-I. - Les mutuelles sont des personnes morales de droit privé à but non lucratif.
+I.-Les mutuelles sont des personnes morales de droit privé à but non lucratif.
 Elles acquièrent la qualité de mutuelle et sont soumises aux dispositions du
-présent code à dater de leur immatriculation au registre national des mutuelles
-prévu à l'article L. 411-1. Elles mènent, notamment au moyen des cotisations
+présent code à dater de leur immatriculation dans les conditions fixées par
+décret en Conseil d'Etat. Elles mènent, notamment au moyen des cotisations
 versées par leurs membres, et dans l'intérêt de ces derniers et de leurs ayants
 droit, une action de prévoyance, de solidarité et d'entraide, dans les
 conditions prévues par leurs statuts, afin de contribuer au développement
@@ -54,22 +54,22 @@ Elles peuvent également, à la demande d'autres mutuelles ou unions, se
 substituer intégralement à ces organismes dans les conditions prévues au livre
 II pour la délivrance de ces engagements.
 
-II. - Sous réserve des dispositions du III, une même mutuelle ne peut exercer à
-la fois une activité d'assurance définie au 1° ou aux deux derniers alinéas du I
-et une activité définie au 2° ou au 3° du I. En outre, une mutuelle exerçant une
+II.-Sous réserve des dispositions du III, une même mutuelle ne peut exercer à la
+fois une activité d'assurance définie au 1° ou aux deux derniers alinéas du I et
+une activité définie au 2° ou au 3° du I. En outre, une mutuelle exerçant une
 activité d'assurance ne peut contracter à la fois des engagements définis au b
 du 1° du I et des engagements définis aux c, d et e du 1° du I.
 
-III. - Une mutuelle exerçant une activité d'assurance peut assurer la prévention
+III.-Une mutuelle exerçant une activité d'assurance peut assurer la prévention
 des risques de dommages corporels, mettre en oeuvre une action sociale ou gérer
 des réalisations sanitaires et sociales dans la mesure où ces activités sont
 accessoires, et accessibles uniquement :
 
-- à ses membres participants et à leurs ayants droit, dès lors que les
+-à ses membres participants et à leurs ayants droit, dès lors que les
 prestations délivrées dans ce cadre découlent directement du contrat qu'ils ont
 souscrit ;
 
-- aux souscripteurs d'un contrat proposé par une entreprise relevant du code des
+-aux souscripteurs d'un contrat proposé par une entreprise relevant du code des
 assurances, par une institution de prévoyance relevant du code de la sécurité
 sociale ou par une autre mutuelle d'assurance, et ayant passé une convention
 avec elle, dès lors que les prestations délivrées dans ce cadre découlent

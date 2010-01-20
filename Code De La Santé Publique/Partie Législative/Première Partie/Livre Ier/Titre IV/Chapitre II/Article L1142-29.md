@@ -11,8 +11,8 @@ Ces données sont notamment communiquées par les assureurs des professionnels e
 organismes de santé mentionnés à l'article L. 1142-2, par les établissements
 chargés de leur propre assurance, par les commissions régionales prévues à
 l'article L. 1142-5, par l'Office national d'indemnisation des accidents
-médicaux et par l'Autorité de contrôle des assurances et des mutuelles en
-application de l'article L. 4135-2.
+médicaux et par l'Autorité de contrôle prudentiel en application de l'article L.
+4135-2.
 
 Les modalités d'application du présent article, notamment celles relatives à la
 transmission de ces données et aux obligations de l'observatoire en termes de

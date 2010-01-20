@@ -75,8 +75,8 @@ III.-L'entreprise d'assurance informe au moins une fois chaque trimestre le
 comité de surveillance du plan et lui remet, dans les six mois qui suivent la
 clôture de l'exercice précédent, un rapport annuel sur l'équilibre actuariel et
 la gestion administrative, technique et financière du plan. Ce rapport est
-transmis à l'autorité de contrôle instituée à l'article L. 310-12 accompagné de
-l'avis du comité de surveillance.
+transmis à l'autorité de contrôle instituée à l'article L. 612-1 du code
+monétaire et financier accompagné de l'avis du comité de surveillance.
 
 IV.-La gestion administrative du plan, comprenant notamment la tenue des comptes
 enregistrant les droits des adhérents ainsi que l'information de chaque adhérent
@@ -123,9 +123,9 @@ Un décret en Conseil d'Etat détermine les seuils visés au premier alinéa du
 présent IX et les règles s'appliquant lors de leur franchissement.
 
 X.-Le groupement d'épargne retraite populaire dépose ses statuts auprès de
-l'autorité instituée à l'article L. 310-12 et est inscrit sur un registre tenu
-par cette même autorité. Il ne peut être dissous que dans des cas et des
-conditions définis par décret en Conseil d'Etat.
+l'autorité instituée à l'article L. 612-1 du code monétaire et financier et est
+inscrit sur un registre tenu par cette même autorité. Il ne peut être dissous
+que dans des cas et des conditions définis par décret en Conseil d'Etat.
 
 L'objet de ce groupement est d'assurer la représentation des intérêts des
 adhérents dans la mise en place et la surveillance de la gestion de ce ou ces

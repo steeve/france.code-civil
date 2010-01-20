@@ -13,9 +13,8 @@ rend possible, les actifs affectés à ce ou ces contrats ou leur contre-valeur
 sont réaffectés aux autres opérations de la mutuelle ou union dans des
 conditions convenues entre celle-ci et le ou les souscripteurs des contrats
 faisant l'objet de la comptabilité auxiliaire d'affectation. En cas de désaccord
-entre les parties, l'autorité de contrôle instituée à l'article L. 510-1
-détermine le montant et le calendrier d'affectation d'actifs par la mutuelle ou
-union.
+entre les parties, l'Autorité de contrôle prudentiel détermine le montant et le
+calendrier d'affectation d'actifs par la mutuelle ou union.
 
 L'élaboration du plan de redressement mentionné au premier alinéa tient compte
 de la situation particulière de la mutuelle ou union au titre de la comptabilité

@@ -8,9 +8,9 @@ de l'entreprise concerné.
 
 Les administrateurs provisoires sont nommés pour une mission d'une durée d'un an
 renouvelable pour la même durée, si les circonstances le justifient, par
-décision de la Commission bancaire prise à la majorité des membres composant
-celle-ci.
+décision de l'Autorité de contrôle prudentiel prise à la majorité des membres
+composant celle-ci.
 
 Les liquidateurs sont nommés pour une mission d'une durée au plus égale à trois
-ans renouvelable, si les circonstances le justifient, par décision de la
-Commission bancaire prise à la majorité des membres composant celle-ci.
+ans renouvelable, si les circonstances le justifient, par décision de l'Autorité
+de contrôle prudentiel prise à la majorité des membres composant celle-ci.

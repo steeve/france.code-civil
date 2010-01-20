@@ -22,8 +22,8 @@ et L. 515-15 et à l'exclusion des parts spécifiques ou titres de créances
 supportant le risque de défaillance des débiteurs de créances ;
 
 2. Ces parts ou titres bénéficient du meilleur échelon de qualité de crédit
-établi par un organisme externe d'évaluation reconnu par la Commission bancaire
-conformément à l'article L. 511-44 ;
+établi par un organisme externe d'évaluation reconnu par l'Autorité de contrôle
+prudentiel conformément à l'article L. 511-44 ;
 
 3. Ces entités similaires doivent être soumises au droit d'un Etat membre de la
 Communauté européenne ou partie à l'accord sur l'Espace économique européen dès

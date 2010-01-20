@@ -19,10 +19,9 @@ lesquelles elle a donné son accord.
 
 L'Autorité des marchés financiers transmet immédiatement les informations reçues
 au titre du présent article, du II de l'article L. 613-9 et des articles L.
-621-23 et L. 632-7 au Comité des établissements de crédit et des entreprises
-d'investissement ou à la Commission bancaire. Elle ne les transmet à d'autres
-organismes ou personnes qu'avec le consentement exprès des autorités compétentes
-qui les ont divulguées et qu'aux fins pour lesquelles ces autorités ont donné
-leur consentement, sauf si l'urgence le justifie. Dans ce dernier cas,
+621-23 et L. 632-7 à l'Autorité de contrôle prudentiel. Elle ne les transmet à
+d'autres organismes ou personnes qu'avec le consentement exprès des autorités
+compétentes qui les ont divulguées et qu'aux fins pour lesquelles ces autorités
+ont donné leur consentement, sauf si l'urgence le justifie. Dans ce dernier cas,
 l'Autorité des marchés financiers informe immédiatement son homologue qui a
 envoyé les informations.

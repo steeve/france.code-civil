@@ -66,10 +66,10 @@ Les personnes appelées à fonder, diriger ou administrer une institution de
 prévoyance ou un groupement paritaire de prévoyance doivent posséder la
 qualification et l'honorabilité nécessaires à leur fonction.
 
-Lorsque l'autorité administrative compétente en matière d'agrément est amenée à
-se prononcer sur l'honorabilité, la compétence et l'expérience de dirigeants et
-d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
-autres que celles mentionnées au premier alinéa et appartenant au même groupe au
-sens de l'article L. 933-2, elle consulte les autorités compétentes au titre de
-ces autres entités. Elle communique à ces autorités les informations utiles à
-l'exercice de leurs missions.
+Lorsque l'Autorité de contrôle prudentiel est amenée à se prononcer sur
+l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs
+qui exercent également ces mêmes fonctions au sein d'entités autres que celles
+mentionnées au premier alinéa et appartenant au même groupe au sens de l'article
+L. 933-2, elle consulte les autorités compétentes au titre de ces autres
+entités. Elle communique à ces autorités les informations utiles à l'exercice de
+leurs missions.

@@ -64,12 +64,7 @@ Celle-ci se prononce sur le caractère raisonnablement suffisant des soupçons d
 fraude fiscale déclarés au service mentionné à l'article L. 561-23 du présent
 code ;
 
-9° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L.
-310-12 du code des assurances " sont remplacés par les mots : " en vertu des
-articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant
-actualisation et adaptation du droit économique et financier applicable à
-Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis
-et Futuna " ;
+9° (Abrogé) ;
 
 10° Aux 5°, 6° et 7° de l'article L. 561-36, les références faites
 respectivement aux chambres des notaires et à l'ordonnance n° 45-2590 du 2

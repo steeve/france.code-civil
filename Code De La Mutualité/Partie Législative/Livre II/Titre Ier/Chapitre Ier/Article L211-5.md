@@ -12,9 +12,9 @@ concerné.
 
 Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure
 une telle convention qu'au plus tôt deux mois après avoir informé de ce projet
-l'Autorité de contrôle mentionnée à l'article L. 510-1. Les organismes qui se
-sont substitués à d'autres sont tenus d'informer l'Autorité de contrôle au plus
-tard deux mois avant la modification ou la résiliation de la convention.
+l'Autorité de contrôle prudentiel. Les organismes qui se sont substitués à
+d'autres sont tenus d'informer l'Autorité de contrôle prudentiel au plus tard
+deux mois avant la modification ou la résiliation de la convention.
 
 A compter de l'entrée en vigueur de la convention, les mutuelles et unions
 auxquelles un autre organisme s'est substitué ne sont pas soumises aux
@@ -26,11 +26,11 @@ comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui
 s'est substitué à elles certifie les comptes annuels.
 
 Toute modification de la convention de substitution est soumise à l'autorisation
-préalable de l'Autorité de contrôle.
+préalable de l'Autorité de contrôle prudentiel.
 
 Au plus tard deux mois avant l'expiration de la convention de substitution, les
 mutuelles et les unions sont tenues de justifier auprès de l'Autorité de
-contrôle :
+contrôle prudentiel :
 
 a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une
 nouvelle ;
@@ -45,4 +45,6 @@ dans les conditions prévues à l'article L. 212-11.
 Si elles ne peuvent apporter l'une des justifications mentionnées aux a et b
 ci-dessus, elles ne peuvent passer de nouveaux contrats ou en renouveler, à
 compter de la date de l'expiration de la convention.A compter de cette même
-date, elles sont passibles des peines prévues à l'article L. 510-11.
+date, elles sont passibles des mesures prévues aux articles L. 612-33 et L.
+612-34 et des sanctions prévues à l'article L. 612-39 du code monétaire et
+financier.

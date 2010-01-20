@@ -2,7 +2,7 @@ Article L321-1-1
 ----
 I.-Les entreprises mentionnées au 1° du III de l'article L. 310-1-1 ne peuvent
 commencer leurs opérations qu'après avoir obtenu un agrément administratif
-délivré par le Comité des entreprises d'assurance.
+délivré par l'Autorité de contrôle prudentiel.
 
 Elles ne peuvent pratiquer que les opérations pour lesquelles elles sont
 agréées.
@@ -26,6 +26,6 @@ contrôle également une entreprise d'assurance ou de réassurance agréée dans
 autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen,
 
-le Comité des entreprises d'assurance consulte les autorités compétentes de
-l'autre Etat membre de la Communauté européenne ou de l'Etat partie à l'accord
-sur l'Espace économique européen concerné.
+L'Autorité de contrôle prudentiel consulte les autorités compétentes de l'autre
+Etat membre de la Communauté européenne ou de l'Etat partie à l'accord sur
+l'Espace économique européen concerné.

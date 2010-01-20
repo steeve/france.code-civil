@@ -1,13 +1,13 @@
 Article L632-14
 ----
-Les contrôles effectués par la Commission bancaire dans le cadre des articles L.
-632-12 et L. 632-13 par les représentants d'une autorité étrangère compétente
-pour la surveillance des établissements de crédit ne peuvent porter que sur le
-respect des normes prudentielles de gestion de l'Etat concerné afin de permettre
-un contrôle de la situation financière des groupes bancaires ou financiers. Ils
-doivent faire l'objet d'un compte rendu à la Commission bancaire. Seule celle-ci
-peut prononcer des sanctions à l'égard de la filiale ou de la succursale
-contrôlée en France.
+Les contrôles effectués par l'Autorité de contrôle prudentiel dans le cadre des
+articles L. 632-12 et L. 632-13 par les représentants d'une autorité étrangère
+compétente pour la surveillance des établissements de crédit ne peuvent porter
+que sur le respect des normes prudentielles de gestion de l'Etat concerné afin
+de permettre un contrôle de la situation financière des groupes bancaires ou
+financiers. Ils doivent faire l'objet d'un compte rendu à l'Autorité de contrôle
+prudentiel. Seule celle-ci peut prononcer des sanctions à l'égard de la filiale
+ou de la succursale contrôlée en France.
 
 Pour permettre l'exercice des contrôles prévus par les articles L. 632-12 et L.
 632-13, les personnes qui participent à la direction ou à la gestion des

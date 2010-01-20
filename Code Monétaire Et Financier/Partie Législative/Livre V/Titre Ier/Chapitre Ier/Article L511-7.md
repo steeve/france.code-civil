@@ -26,17 +26,17 @@ ou d'une opération de prêt de titres régies par les dispositions des articles
 7. Prendre ou mettre en pension des instruments financiers et effets publics
 mentionnés aux articles L. 211-27 et L. 211-34.
 
-II.-Le comité des établissements de crédit et des entreprises d'investissement
-peut exempter d'agrément une entreprise fournissant des services bancaires de
-paiement, pour l'acquisition de biens ou de services dans les locaux de cette
-entreprise ou dans le cadre d'un accord commercial avec elle, s'appliquant à un
-réseau limité de personnes acceptant ces services bancaires de paiement ou pour
-un éventail limité de biens ou de services.
+II.-L'Autorité de contrôle prudentiel peut exempter d'agrément une entreprise
+fournissant des services bancaires de paiement, pour l'acquisition de biens ou
+de services dans les locaux de cette entreprise ou dans le cadre d'un accord
+commercial avec elle, s'appliquant à un réseau limité de personnes acceptant ces
+services bancaires de paiement ou pour un éventail limité de biens ou de
+services.
 
-Pour accorder l'exemption, le Comité des établissements de crédit et des
-entreprises d'investissement doit notamment prendre en compte la sécurité des
-moyens de paiement, les modalités retenues pour assurer la protection des
-utilisateurs, le montant unitaire et les modalités de chaque transaction.
+Pour accorder l'exemption, l'Autorité de contrôle prudentiel doit notamment
+prendre en compte la sécurité des moyens de paiement, les modalités retenues
+pour assurer la protection des utilisateurs, le montant unitaire et les
+modalités de chaque transaction.
 
 Lorsque l'entreprise bénéficiaire de l'exemption gère ou met à disposition des
 moyens de paiement sous forme de monnaie électronique :

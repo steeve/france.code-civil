@@ -12,22 +12,21 @@ temporaire ou définitif une activité ou un service ;
 
 b) D'une interdiction, à titre définitif ou temporaire, d'effectuer certaines
 opérations ou d'une limitation dans l'exercice de l'activité, en application du
-3 du I de l'article L. 613-21 ;
+3° de l'article L. 612-39 ;
 
-c) D'une radiation prononcée en application du 6 du I de l'article L. 613-21,
-dans le cas d'un établissement de paiement exerçant une activité hybride au sens
-de l'article L. 522-3 ;
+c) D'une radiation prononcée en application du 7° de l'article L. 612-39, dans
+le cas d'un établissement de paiement exerçant une activité hybride au sens de
+l'article L. 522-3 ;
 
 d) Du retrait de l'autorisation d'exercer la profession de changeur manuel, en
-application du 3° de l'article L. 613-21-1 ;
+application du 3° du II de l'article L. 612-41 ;
 
-e) D'une sanction prévue aux 4 ou 5 du I de l'article L. 613-21 ;
+e) D'une sanction prévue au 4° ou 5° de l'article L. 612-39 ;
 
 f) D'une interdiction d'exercer la profession de changeur manuel, en application
-du cinquième alinéa de l'article L. 613-21-1 ;
+de la première phrase du sixième alinéa du II de l'article L. 612-41 ;
 
-g) D'une sanction en application des 3 à 5 de l'article L. 310-18-1 du code des
-assurances ;
+g) D'une sanction en application des 3° à 5° du I de l'article L. 612-41 ;
 
 h) D'une sanction équivalente prononcée par les autorités compétentes en matière
 de contrôle des établissements de paiement d'un autre Etat partie à l'accord sur
@@ -38,6 +37,5 @@ mentionnées au premier alinéa possèdent l'honorabilité et la compétence
 nécessaires définies par un arrêté du ministre chargé de l'économie.
 
 Elles en justifient dans les conditions définies par un arrêté du ministre
-chargé de l'économie, qui détermine également dans quelles conditions le comité
-des établissements de crédit et des entreprises d'investissement est dispensé de
-les vérifier.
+chargé de l'économie, qui détermine également dans quelles conditions l'Autorité
+de contrôle prudentiel est dispensée de les vérifier.

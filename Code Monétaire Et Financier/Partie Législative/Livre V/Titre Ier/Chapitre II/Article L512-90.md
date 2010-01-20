@@ -50,7 +50,7 @@ populaires. Lorsque celui-ci a délivré l'agrément, le conseil d'orientation e
 de surveillance de la caisse d'épargne et de prévoyance procède à la nomination
 des membres du directoire.
 
-Sans préjudice de l'application des dispositions de l'article L. 613-21,
+Sans préjudice de l'application des dispositions de l'article L. 612-39,
 l'agrément peut être retiré par le conseil de surveillance de l'organe central
 des caisses d'épargne et des banques populaires, sur proposition de son
 directoire et après consultation du conseil d'orientation et de surveillance de

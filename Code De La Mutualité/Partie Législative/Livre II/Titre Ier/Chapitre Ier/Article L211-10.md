@@ -8,9 +8,9 @@ convention de substitution conformément aux dispositions du premier alinéa de
 l'article L. 211-5 en informe ses membres et peut procéder à sa résiliation ou à
 son renouvellement ;
 
-2° Les conditions dans lesquelles l'autorité administrative délivre l'agrément
-en application de l'article L. 211-8 et peut le retirer conformément à l'article
-L. 211-9 ;
+2° Les conditions dans lesquelles l'Autorité de contrôle prudentiel délivre
+l'agrément en application de l'article L. 211-8 et peut le retirer conformément
+à l'article L. 211-9 ;
 
 3° Les exigences supplémentaires qu'il convient d'instaurer pour l'application
 des dispositions du présent chapitre aux mutuelles et aux unions pratiquant à la

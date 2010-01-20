@@ -22,19 +22,18 @@ d'assurance garantie, au sens de l'annexe à l'article A. 343-1, 3e alinéa, du
 présent code.
 
 III. - La dérogation visée au troisième alinéa de l'article R. 332-17 ne peut
-être accordée que dans la mesure où, de l'avis de l'Autorité de contrôle des
-assurances et des mutuelles, elle ne diminue pas la qualité de la représentation
-des engagements réglementés, et notamment dans les limites fixées ci-après :
+être accordée que dans la mesure où, de l'avis de l'Autorité de contrôle
+prudentiel, elle ne diminue pas la qualité de la représentation des engagements
+réglementés, et notamment dans les limites fixées ci-après :
 
-- la durée, fixée initialement par l'Autorité de contrôle des assurances et des
-mutuelles, ne peut excéder un exercice, éventuellement renouvelable dans les
-conditions définies par l'Autorité ;
+- la durée, fixée initialement par l'Autorité de contrôle prudentiel, ne peut
+excéder un exercice, éventuellement renouvelable dans les conditions définies
+par l'Autorité ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à
 aucun moment excéder :
 
-- le montant maximum fixé par l'Autorité de contrôle des assurances et des
-mutuelles ;
+- le montant maximum fixé par l'Autorité de contrôle prudentiel ;
 
 - la moitié du montant total des engagements réglementés tels que définis à
 l'article R. 331-1 du présent code ;

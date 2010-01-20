@@ -2,11 +2,7 @@ Article L735-3
 ----
 Le titre VI est applicable dans les conditions suivantes :
 
-1° Les conditions d'application de ce titre aux personnes mentionnées aux 3 et 4
-de l'article L. 561-2 sont régies par les articles 7 et 8 de l'ordonnance n°
-2006-60 du 19 janvier 2006 portant actualisation et adaptation du droit
-économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en
-Polynésie française et dans les îles Wallis et Futuna ;
+1° (abrogé) ;
 
 2° Pour l'application à Mayotte de l'article L. 561-14-2, les références à
 l'article 537 du code général des impôts et aux articles L. 83, L. 85, L. 87 et

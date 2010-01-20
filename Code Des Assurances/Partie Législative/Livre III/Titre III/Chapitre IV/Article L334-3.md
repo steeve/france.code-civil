@@ -9,13 +9,14 @@ Les entreprises soumises au contrôle de l'Etat en application de l'article L.
 310-1 et de l'article L. 310-1-1, ayant leur siège social en France et filiales
 d'une société de groupe mixte d'assurance, font également l'objet d'une
 surveillance complémentaire selon les modalités prévues au présent article et
-aux articles L. 310-12 à L. 310-15.
+aux articles L. 612-1 à L. 612-20 et L. 612-23 à L. 612-26 du code monétaire et
+financier..
 
 La surveillance complémentaire tient compte des entreprises qui sont apparentées
-aux entreprises précitées.L'Autorité de contrôle des assurances et des mutuelles
-peut décider d'exclure une entreprise apparentée de la surveillance
-complémentaire si elle estime que cette entreprise présente un intérêt
-négligeable ou contraire aux objectifs de cette surveillance.
+aux entreprises précitées. L'Autorité de contrôle prudentiel peut décider
+d'exclure une entreprise apparentée de la surveillance complémentaire si elle
+estime que cette entreprise présente un intérêt négligeable ou contraire aux
+objectifs de cette surveillance.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

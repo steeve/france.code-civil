@@ -1,9 +1,8 @@
 Article L341-6
 ----
 Les personnes mentionnées à l'article L. 341-3, selon leur nature, font
-enregistrer en tant que démarcheurs auprès de l'Autorité des marchés financiers,
-du Comité des établissements de crédit et des entreprises d'investissement et du
-Comité des entreprises d'assurance :
+enregistrer en tant que démarcheurs auprès de l'Autorité des marchés financiers
+et de l'Autorité de contrôle prudentiel ;
 
 1° Leurs personnels salariés ou employés à qui elles confient le soin de se
 livrer pour leur compte à des actes de démarchage bancaire ou financier ;

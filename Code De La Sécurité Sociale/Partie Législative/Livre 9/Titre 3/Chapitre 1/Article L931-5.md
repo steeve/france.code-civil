@@ -1,7 +1,7 @@
 Article L931-5
 ----
 Pour accorder ou refuser l'agrément prévu aux articles L. 931-4 et L. 931-4-1,
-le ministre chargé de la sécurité sociale prend en compte :
+l'Autorité de contrôle prudentiel prend en compte :
 
 1° La convention ou l'accord sur la base duquel l'institution a été constituée
 en application de l'article L. 931-1 ou, pour l'union, la délibération
@@ -19,8 +19,8 @@ l'article L. 931-9 ;
 5° L'engagement d'adhérer au fonds paritaire de garantie prévu à l'article L.
 931-35.
 
-Le ministre refuse l'agrément, après avis de l'Autorité de contrôle des
-assurances et des mutuelles lorsque l'exercice de la mission de surveillance de
+L'Autorité de contrôle prudentiel refuse l'agrément, après avis de l' Autorité
+de contrôle prudentiel lorsque l'exercice de la mission de surveillance de
 l'institution ou de l'union est susceptible d'être entravé soit par l'existence
 de liens de contrôle directs ou indirects entre l'institution ou l'union
 requérante et d'autres personnes physiques ou morales, soit par l'existence de
@@ -29,7 +29,7 @@ pas partie à l'accord sur l'Espace économique européen et dont relèvent une 
 plusieurs de ces personnes.
 
 La liste des documents à produire à l'appui d'une demande d'agrément est fixée
-par arrêté du ministre chargé de la sécurité sociale.
+par arrêté de l'Autorité de contrôle prudentiel.
 
 L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits
 par l'institution ou l'union requérante.

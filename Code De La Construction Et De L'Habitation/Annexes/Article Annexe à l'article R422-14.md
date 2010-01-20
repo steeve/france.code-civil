@@ -266,10 +266,11 @@ de ces établissements.
 A l'occasion et pour les besoins d'un contrôle ou d'une inspection de la ou des
 société(s) anonyme(s) de crédit immobilier détentrice(s) de leur capital, les
 sociétés dans lesquelles la société détient des participations peuvent être
-contrôlées par la commission bancaire en application de la loi du 24 janvier
-1984 précitée, par l'administration en application de l'article L. 451-1 du code
-de la construction et de l'habitation, ou par la chambre syndicale des sociétés
-anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée.
+contrôlées par la l'Autorité de contrôle prudentiel en application de la loi du
+24 janvier 1984 précitée, par l'administration en application de l'article L.
+451-1 du code de la construction et de l'habitation, ou par la chambre syndicale
+des sociétés anonymes de crédit immobilier en application de la loi du 15 mai
+1991 précitée.
 
 6. Compétence territoriale - Siège social.
 

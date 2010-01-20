@@ -12,4 +12,4 @@ Le conseil de surveillance de l'Union d'économie sociale du logement arrête et
 approuve les comptes de chacune des sections du fonds dans les mêmes conditions
 que ceux de l'union et examine le rapport du comité d'audit. La délibération du
 conseil de surveillance y afférente et le rapport du comité d'audit sont
-transmis à l'Autorité de contrôle des assurances et des mutuelles.
+transmis à l'Autorité de contrôle prudentiel.

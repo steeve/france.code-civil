@@ -2,14 +2,13 @@ Article L310-25
 ----
 Le redressement ou la liquidation judiciaires institués par la loi n° 85-98 du
 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une entreprise
-mentionnée à l'article L. 310-1 qu'à la requête de l'Autorité de contrôle des
-assurances et des mutuelles ; le tribunal peut également se saisir d'office ou
-être saisi par le procureur de la République d'une demande d'ouverture de cette
-procédure après avis conforme de l'Autorité de contrôle des assurances. Les
-dispositions de l'article L. 326-4 sont applicables à la procédure de
-redressement judiciaire.
+mentionnée à l'article L. 310-1 qu'à la requête de l'Autorité de contrôle
+prudentiel ; le tribunal peut également se saisir d'office ou être saisi par le
+procureur de la République d'une demande d'ouverture de cette procédure après
+avis conforme de l'Autorité de contrôle prudentiel. Les dispositions de
+l'article L. 326-4 sont applicables à la procédure de redressement judiciaire.
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture du
 règlement amiable institué par les articles L. 611-3 à L. 611-6 du code de
 commerce à l'égard d'une entreprise susmentionnée, qu'après avis conforme de
-l'Autorité de contrôle des assurances.
+l'Autorité de contrôle prudentiel.

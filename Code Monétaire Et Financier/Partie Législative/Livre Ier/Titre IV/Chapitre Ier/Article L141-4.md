@@ -45,7 +45,7 @@ précise sa composition et ses compétences.
 L'observatoire établit chaque année un rapport d'activité remis au ministre
 chargé de l'économie, des finances et de l'industrie et transmis au Parlement.
 
-II. - Dans le cadre des missions du Système européen de banques centrales, et
-sans préjudice des compétences de l'Autorité des marchés financiers et de la
-commission bancaire, la Banque de France veille à la sécurité des systèmes de
+II.-Dans le cadre des missions du Système européen de banques centrales, et sans
+préjudice des compétences de l'Autorité des marchés financiers et de l'Autorité
+de contrôle prudentiel, la Banque de France veille à la sécurité des systèmes de
 compensation, de règlement et de livraison des instruments financiers.

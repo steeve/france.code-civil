@@ -23,5 +23,5 @@ compagnie régionale dont est membre le commissaire en cause.
 
 Les dispositions du présent article ne sont pas applicables aux établissements
 de crédit, aux compagnies financières et aux entreprises d'investissement
-soumises au contrôle de la Commission bancaire, ainsi qu'à leurs commissaires
-aux comptes.
+soumises au contrôle de l'Autorité de contrôle prudentiel, ainsi qu'à leurs
+commissaires aux comptes.

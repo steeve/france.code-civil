@@ -1,8 +1,7 @@
 Article L532-2
 ----
-Pour délivrer l'agrément à une entreprise d'investissement, le comité des
-établissements de crédit et des entreprises d'investissement vérifie si celle-ci
-:
+Pour délivrer l'agrément à une entreprise d'investissement, l'Autorité de
+contrôle prudentiel vérifie si celle-ci :
 
 1. A son siège social et sa direction effective en France ;
 
@@ -12,7 +11,7 @@ que des moyens financiers adaptés et suffisants ;
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes
 physiques ou morales, qui détiennent une participation qualifiée, ainsi que le
-montant de leur participation ; le comité apprécie la qualité de ces
+montant de leur participation ; l'Autorité apprécie la qualité de ces
 actionnaires au regard de la nécessité de garantir une gestion saine et prudente
 de l'entreprise d'investissement ;
 
@@ -30,14 +29,14 @@ services d'investissement concernés et indique le type d'opérations envisagée
 et la structure de son organisation ;
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie
-des dépôts conformément aux articles L. 322-1 et L. 322-4.
+des dépôts conformément aux articles L. 322-1 à L. 322-4.
 
-Le comité peut assortir l'agrément de conditions particulières visant à
-préserver l'équilibre de la structure financière de l'entreprise. Le comité peut
-également subordonner l'octroi de l'agrément au respect d'engagements souscrits
-par l'entreprise requérante.
+L'Autorité peut assortir l'agrément de conditions particulières visant à
+préserver l'équilibre de la structure financière de l'entreprise. L'Autorité
+peut également subordonner l'octroi de l'agrément au respect d'engagements
+souscrits par l'entreprise requérante.
 
-Le comité peut refuser l'agrément lorsque l'exercice de la mission de
+L'Autorité peut refuser l'agrément lorsque l'exercice de la mission de
 surveillance de l'entreprise requérante est susceptible d'être entravé soit par
 l'existence de liens de capital ou de contrôle directs ou indirects entre
 l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de

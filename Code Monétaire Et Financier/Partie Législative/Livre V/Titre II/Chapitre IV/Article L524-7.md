@@ -12,7 +12,7 @@ privé.
 
 Ils peuvent se faire communiquer les registres et les documents professionnels
 que les changeurs manuels sont tenus d'établir en application du présent titre
-et des articles L. 563-2 à L. 563-4.
+et de l'article L. 561-12.
 
 Ils peuvent se faire délivrer copie des documents susmentionnés.
 
@@ -41,5 +41,5 @@ signer, mention en est faite au procès-verbal. Copie de celui-ci est remise à
 l'intéressé.
 
 V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les
-observations du changeur manuel sont transmis dans les meilleurs délais à la
-Commission bancaire.
+observations du changeur manuel sont transmis dans les meilleurs délais à
+l'Autorité de contrôle prudentiel.

@@ -7,8 +7,8 @@ les règles concernant notamment :
 
 2° Les modalités selon lesquelles une modification des conditions de l'agrément
 délivré à un établissement de paiement doit faire l'objet, selon les cas, d'une
-autorisation préalable du comité des établissements de crédit et des entreprises
-d'investissement, d'une déclaration ou d'une notification ;
+autorisation préalable de l'Autorité de contrôle prudentiel, d'une déclaration
+ou d'une notification ;
 
 3° Les conditions des opérations que les établissements de paiement ou leurs
 agents peuvent effectuer, en particulier dans leurs relations avec la clientèle,

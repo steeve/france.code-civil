@@ -6,7 +6,7 @@ voyage libellés en euros.
 
 II.-Les personnes exerçant l'activité de change manuel à titre occasionnel ou
 pour des montants limités dans les conditions prévues au dernier alinéa de
-l'article L. 524-1 sont tenues d'adresser à la Commission bancaire une
-déclaration par laquelle elles certifient qu'elles respectent ces conditions.
-Les modalités et la périodicité de cette déclaration sont fixées par un arrêté
-du ministre chargé de l'économie.
+l'article L. 524-1 sont tenues d'adresser à l'Autorité de contrôle prudentiel
+une déclaration par laquelle elles certifient qu'elles respectent ces
+conditions. Les modalités et la périodicité de cette déclaration sont fixées par
+un arrêté du ministre chargé de l'économie.

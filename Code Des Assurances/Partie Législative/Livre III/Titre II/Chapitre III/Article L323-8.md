@@ -9,13 +9,11 @@ autres que l'entreprise d'assurance elle-même.
 Lorsqu'elles sont prises en France, ces mesures sont, lorsqu'elles affectent ces
 droits :
 
-1° Les mesures mentionnées à l'article L. 323-1 et au troisième alinéa de
-l'article L. 323-1-1, à l'exception de la nomination d'un administrateur
-provisoire ;
+1° Les mesures mentionnées au 2°, 3° et 4° de l'article L. 612-33 du code
+monétaire et financier ;
 
-2° La sanction prévue au 3° de l'article L. 310-18, le retrait partiel
-d'agrément prévu au 5° ou le transfert partiel de portefeuille prévu au 6° du
-même article ;
+2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et
+financier ou le retrait partiel d'agrément mentionné au 6° du même article ;
 
 3° Abrogé.
 

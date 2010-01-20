@@ -6,4 +6,5 @@ et notamment :
 a) La composition du Conseil supérieur de la mutualité et les modalités
 d'élection de ses membres ;
 
-b) Le contenu du registre national des mutuelles prévu à l'article L. 411-1.
+b) Les obligations déclaratives auxquelles sont soumises les mutuelles, unions
+et fédérations.

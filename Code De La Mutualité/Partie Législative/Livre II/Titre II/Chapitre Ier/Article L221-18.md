@@ -226,8 +226,8 @@ V.-Un décret en Conseil d'Etat fixe les informations communiquées au membre
 participant en cas de communication par téléphonie vocale.
 
 VI.-Les infractions aux dispositions du présent article sont constatées et
-sanctionnées par l'Autorité de contrôle des assurances et des mutuelles dans les
-conditions prévues au livre V.
+sanctionnées par l'Autorité de contrôle prudentiel dans les conditions prévues
+au livre V.
 
 Les infractions constituées par l'absence matérielle des éléments d'information
 prévus au III du présent article, ainsi que le refus de la mutuelle ou de

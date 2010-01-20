@@ -18,6 +18,7 @@ Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut, à cette
 fin, constituer pour son compte les garanties requises conventionnellement.
 
 Le défaut d'adhésion ou l'absence de versement au fonds de garantie de la
-cotisation appelée sont passibles des sanctions prévues à l'article L. 510-11 et
-de pénalités de retard versées directement au fonds de garantie selon des
-modalités définies par le règlement intérieur de celui-ci.
+cotisation appelée sont passibles des sanctions prévues à l'article L. 612-39 du
+code monétaire et financier et de pénalités de retard versées directement au
+fonds de garantie selon des modalités définies par le règlement intérieur de
+celui-ci.

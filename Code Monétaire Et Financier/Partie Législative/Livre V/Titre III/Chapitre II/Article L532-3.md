@@ -1,9 +1,9 @@
 Article L532-3
 ----
 Pour délivrer l'agrément autorisant la fourniture d'un ou plusieurs services
-d'investissement à un établissement de crédit, le comité des établissements de
-crédit et des entreprises d'investissement vérifie, outre les conditions posées
-à l'article L. 511-10, si celui-ci dispose :
+d'investissement à un établissement de crédit, l'Autorité de contrôle prudentiel
+vérifie, outre les conditions posées à l'article L. 511-10, si celui-ci dispose
+:
 
 1. D'un capital initial suffisant déterminé par le ministre chargé de
 l'économie, compte tenu de la nature du service qu'il entend fournir ;
@@ -17,8 +17,8 @@ L'établissement de crédit doit en outre avoir adhéré à un mécanisme de gar
 des titres géré par le Fonds de garantie des dépôts conformément aux articles L.
 322-1 à L. 322-4.
 
-Le comité peut assortir l'agrément de conditions particulières visant à
-préserver l'équilibre de la structure financière de l'établissement. Le comité
+L'Autorité peut assortir l'agrément de conditions particulières visant à
+préserver l'équilibre de la structure financière de l'établissement. L'Autorité
 peut également subordonner l'octroi de l'agrément au respect d'engagements
 souscrits par l'établissement requérant.
 

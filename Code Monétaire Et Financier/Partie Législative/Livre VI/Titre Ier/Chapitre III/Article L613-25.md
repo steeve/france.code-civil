@@ -1,18 +1,18 @@
 Article L613-25
 ----
 Lorsqu'un administrateur provisoire ou un liquidateur a été nommé auprès d'un
-établissement de crédit conformément aux articles L. 613-18 et L. 613-22, la
-commission bancaire peut, après avoir recueilli l'avis du fonds de garantie
-sollicité au titre de l'article L. 312-5, saisir le tribunal de grande instance
-afin que lorsqu'elle estime que l'intérêt des déposants le justifie, soit
-ordonnée la cession des actions détenues par un ou plusieurs dirigeants de droit
-ou de fait rémunérés ou non, de cet établissement. Le prix de cession est fixé
-après expertise judiciaire. Il est procédé à l'évaluation des actions selon les
-méthodes pratiquées en cas de cession d'actifs selon les pondérations
+établissement de crédit conformément aux articles L. 612-34 et L. 613-24,
+l'Autorité de contrôle prudentiel peut, après avoir recueilli l'avis du fonds de
+garantie sollicité au titre de l'article L. 312-5, saisir le tribunal de grande
+instance afin que lorsqu'elle estime que l'intérêt des déposants le justifie,
+soit ordonnée la cession des actions détenues par un ou plusieurs dirigeants de
+droit ou de fait rémunérés ou non, de cet établissement. Le prix de cession est
+fixé après expertise judiciaire. Il est procédé à l'évaluation des actions selon
+les méthodes pratiquées en cas de cession d'actifs selon les pondérations
 appropriées à chaque cas, en fonction de la valeur des actifs, des bénéfices
 réalisés, de l'existence de filiales et des perspectives d'activité et, pour les
 sociétés dont les titres sont admis aux négociations sur un marché réglementé,
-de la valeur boursière.L'action est introduite par voie d'assignation délivrée
+de la valeur boursière. L'action est introduite par voie d'assignation délivrée
 aux actionnaires concernés. Le tribunal de grande instance compétent est celui
 dans le ressort duquel se situe le siège de l'établissement de crédit.
 

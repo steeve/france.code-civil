@@ -15,9 +15,10 @@ distribuées par la société mentionnée à l'article L. 160-10, dans la strict
 mesure nécessaire exigée par l'adoption par ladite société du régime des
 sociétés de placement à prépondérance immobilière à capital variable. De telles
 adaptations sont soumises à l'autorisation préalable de l'autorité mentionnée à
-l'article L. 310-12 qui dispose d'un délai de deux mois pour se prononcer.
-L'autorité vérifie également, préalablement à la substitution et dans les mêmes
-délais, le maintien, dans le document d'information établi par la nouvelle
-société mentionné à l'article L. 214-109 du code monétaire et financier, de
-l'orientation de gestion que retenait ladite société au regard des critères de
-destination et de localisation des actifs immobiliers.
+l'article L. 612-1 du code monétaire et financier qui dispose d'un délai de deux
+mois pour se prononcer.L'autorité vérifie également, préalablement à la
+substitution et dans les mêmes délais, le maintien, dans le document
+d'information établi par la nouvelle société mentionné à l'article L. 214-109 du
+code monétaire et financier, de l'orientation de gestion que retenait ladite
+société au regard des critères de destination et de localisation des actifs
+immobiliers.

@@ -102,8 +102,8 @@ au II de l'article L. 322-2 du code des assurances (fournir un bulletin n° 3 du
 casier judiciaire datant de moins de trois mois
 
 Je soussigné (nom et prénom) certifie l'exactitude des informations communiquées
-et m'engage à porter immédiatement à la connaissance du Comité des entreprises
-d'assurance tout changement significatif des éléments les concernant, notamment
+et m'engage à porter immédiatement à la connaissance de l'Autorité de contrôle
+prudentiel tout changement significatif des éléments les concernant, notamment
 ceux mentionnés aux points 12, 15 et 16 du présent formulaire.
 
 Date, lieu
@@ -112,7 +112,7 @@ Date, lieu
 
 En ma qualité de (fonction), je soussigné (nom et prénom) déclare que les
 informations communiquées sont à ma connaissance exactes et m'engage à porter
-immédiatement à la connaissance du Comité des entreprises d'assurance tout
+immédiatement à la connaissance de l'Autorité de contrôle prudentiel tout
 changement significatif dont j'aurais connaissance, notamment les éléments
 mentionnés aux points 12, 15 et 16 du présent formulaire.
 

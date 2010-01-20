@@ -12,12 +12,11 @@ Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles
 affectent les droits préexistants des parties autres que l'organisme d'assurance
 lui-même :
 
-1° Les mesures mentionnées au troisième alinéa de l'article L. 931-8, à
-l'exception de la nomination d'un administrateur provisoire ;
+1° Les mesures visées aux 2°, 3° et 4° de l'article L. 612-33 du code monétaire
+et financier ;
 
-2° La sanction prévue au 3° de l'article L. 951-10, le retrait partiel
-d'agrément prévu au 5° ou le transfert partiel de portefeuille prévu au 6° du
-même article ;
+2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et
+financier, le retrait partiel d'agrément prévu au 6° du même article ;
 
 3° (abrogé)
 

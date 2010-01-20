@@ -12,4 +12,4 @@ Le fonds peut engager toute action en responsabilité à l'encontre des dirigean
 de droit ou de fait de l'institution de prévoyance ou de l'union dont la
 défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de
 tout ou partie des sommes qu'il a versées. Il en informe l'Autorité de contrôle
-instituée par l'article L. 951-1.
+prudentiel.

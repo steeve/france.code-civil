@@ -13,4 +13,4 @@ l'organisme est en mesure, à moyen et long terme, de faire face à l'ensemble d
 ses engagements.
 
 Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de
-contrôle mentionnée à l'article L. 510-1.
+contrôle prudentiel.

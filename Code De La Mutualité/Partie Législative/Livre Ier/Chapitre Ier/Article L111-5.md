@@ -20,4 +20,4 @@ Les membres d'une fédération qui relèvent du livre II du présent code peuven
 créer, dans les conditions prévues à l'article L. 111-4, une union chargée de
 gérer un système fédéral de garantie. Le système fédéral de garantie ainsi
 constitué fonctionne dans les conditions fixées à l'article L. 111-6 et est
-soumis au contrôle de la commission visée à l'article L. 510-1.
+soumis au contrôle de la l'Autorité de contrôle prudentiel.

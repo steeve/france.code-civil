@@ -10,8 +10,8 @@ l'Etat d'origine des entreprises peuvent exiger d'elles et de leurs succursales
 ce contrôle.
 
 Sous la seule réserve d'en avoir préalablement informé l'Autorité de contrôle
-des assurances et des mutuelles, les autorités de contrôle de l'Etat d'origine
-des entreprises peuvent procéder, par elles-mêmes ou par l'intermédiaire de
-personnes qu'elles mandatent à cet effet, à des contrôles sur place des
-succursales établies sur le territoire de la République française des
-entreprises d'assurance communautaires.
+prudentiel, les autorités de contrôle de l'Etat d'origine des entreprises
+peuvent procéder, par elles-mêmes ou par l'intermédiaire de personnes qu'elles
+mandatent à cet effet, à des contrôles sur place des succursales établies sur le
+territoire de la République française des entreprises d'assurance
+communautaires.

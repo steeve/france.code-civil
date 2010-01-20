@@ -31,8 +31,8 @@ III.-Le bien apporté en garantie ou le bien financé par un prêt cautionné do
 être situé en France, dans un autre Etat membre de la Communauté européenne ou
 partie à l'accord sur l'Espace économique européen ou dans un Etat bénéficiant
 du meilleur échelon de qualité de crédit établi par un organisme externe
-d'évaluation de crédit reconnu par la Commission bancaire conformément à
-l'article L. 511-44. Sa valeur est déterminée de manière prudente et exclut tout
-élément d'ordre spéculatif. Les modalités d'évaluation sont fixées par un arrêté
-du ministre chargé de l'économie, qui prévoit notamment dans quels cas il doit
-être recouru à une expertise.
+d'évaluation de crédit reconnu par l'Autorité de contrôle prudentiel
+conformément à l'article L. 511-44. Sa valeur est déterminée de manière prudente
+et exclut tout élément d'ordre spéculatif. Les modalités d'évaluation sont
+fixées par un arrêté du ministre chargé de l'économie, qui prévoit notamment
+dans quels cas il doit être recouru à une expertise.

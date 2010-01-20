@@ -56,8 +56,8 @@ diffusant des analyses financières ;
 14° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs
-mentionnés articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code du
-travail ;
+mentionnés aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code
+du travail ;
 
 15° Les agents liés mentionnés à l'article L. 545-1.
 
@@ -65,9 +65,9 @@ Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
 mentionnées aux 7°, 8°, 10° et 11° ci-dessus, pour lesquelles l'Autorité des
 marchés financiers est seule compétente, le contrôle s'exerce sous réserve des
-compétences de la Commission bancaire et, pour celles mentionnées aux 3° et 6°,
-sans préjudice des compétences conférées à la Banque de France par l'article L.
-141-4.
+compétences de l'Autorité de contrôle prudentiel et, pour celles mentionnées aux
+3° et 6°, sans préjudice des compétences conférées à la Banque de France par
+l'article L. 141-4.
 
 L'Autorité des marchés financiers est également chargée d'assurer le respect,
 par les prestataires de services d'investissement mentionnés à l'article L.

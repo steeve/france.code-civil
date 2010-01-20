@@ -1,43 +1,29 @@
 Article L310-14
 ----
-L'Autorité peut demander aux entreprises visées à l'article L. 310-1 et au 1° du
-III de l'article L. 310-1-1, aux sociétés de groupe d'assurance, aux sociétés de
-groupe mixte d'assurance définies à l'article L. 322-1-2 et aux compagnies
-financières holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes
-mentionnées au quatrième alinéa de l'article L. 310-12 toutes informations
-nécessaires à l'exercice de sa mission.
+Tout organisme d'assurance, projetant de fournir des services d'institutions de
+retraite professionnelle sur le territoire d'un autre Etat membre de la
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen le notifie, pour chaque service impliquant une entreprise
+d'affiliation distincte, à l'autorité de contrôle. L'autorité, à moins qu'elle
+n'ait des raisons de penser que les structures administratives ou la situation
+financière de l'organisme ne sont pas compatibles avec les opérations proposées
+dans l'autre Etat, communique à l'autorité compétente de l'autre Etat les
+documents permettant l'exercice de l'activité envisagée.
 
-Elle peut leur demander la communication des rapports des commissaires aux
-comptes et, d'une manière générale, de tous documents comptables dont elle peut,
-en tant que de besoin, demander la certification. Elle peut demander la
-certification des retraitements opérés, selon des modalités fixées par voie
-réglementaire, pour le calcul de la marge de solvabilité ajustée des entreprises
-appliquant les normes comptables internationales adoptées par règlement de la
-Commission européenne. Pour les entreprises mentionnées au premier alinéa, elle
-peut exiger la modification ou décider le retrait de tout document contraire aux
-dispositions législatives ou réglementaires, à l'exception des documents à
-caractère contractuel ou publicitaire pour les entreprises mentionnées au 1° du
-III de l'article L. 310-1-1. Dans ce cas, elle statue dans les conditions
-prévues à l'article L. 310-18.
+Lorsqu'elle est informée par l'autorité compétente de l'Etat dans lequel un
+organisme d'assurance propose des services d'institution de retraite
+professionnelle, que cet organisme a enfreint une disposition du droit social ou
+du droit du travail de cet Etat, l'autorité de contrôle instituée à l'article L.
+310-12 prend les mesures nécessaires mentionnées à l'article L. 310-18 pour
+mettre fin à cette infraction.
 
-Elle vérifie que les publications auxquelles sont astreintes les entreprises
-visées à l'article L. 310-1 et au 1° du III de l'article L. 310-1-1 et les
-sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut ordonner
-aux entreprises concernées de procéder à des publications rectificatives dans le
-cas où des inexactitudes ou des omissions auraient été relevées. Elle peut
-porter à la connaissance du public toutes informations qu'elle estime
-nécessaires.
+Pour l'application des dispositions du présent article, les mutuelles régies par
+le code de la mutualité et les institutions de prévoyance mentionnées à
+l'article L. 931-1 du code de la sécurité sociale et à l'article L. 727-2 du
+code rural sont assimilées à des entreprises d'assurance agréées conformément
+aux dispositions de l'article L. 321-1.
 
-L'Autorité de contrôle des assurances peut demander aux entreprises soumises à
-une surveillance complémentaire en application de l'article L. 334-3 les données
-ou informations qui, nécessaires à l'exercice de cette surveillance, sont
-détenues par leurs entreprises apparentées. Si ces dernières entreprises ne
-fournissent pas ces données et informations, l'Autorité de contrôle peut leur
-demander directement.
-
-Les entreprises soumises à une surveillance complémentaire et dont le siège
-social est situé en France transmettent les données ou informations nécessaires
-à leurs entreprises apparentées ayant leur siège social dans un Etat membre de
-la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen pour l'exercice de la surveillance complémentaire par les
-autorités compétentes de cet Etat.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article, notamment les modalités du contrôle préalable et les délais dans
+lesquels l'autorité se prononce. Un arrêté du ministre chargé de l'économie
+précise le contenu de la notification mentionnée au précédent alinéa.

@@ -1,10 +1,12 @@
 Article L631-1
 ----
-I. - La Banque de France, le comité des établissements de crédit et des
-entreprises d'investissement, la Commission bancaire, l'Autorité de contrôle des
-assurances et des mutuelles, le comité des entreprises d'assurance et l'Autorité
-des marchés financiers coopèrent entre eux. Ils se communiquent les
-renseignements utiles à l'accomplissement de leurs missions respectives.
+I. - L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers
+coopèrent entre elles. Elles se communiquent les renseignements utiles à
+l'accomplissement de leurs missions respectives.
+
+L'Autorité de contrôle prudentiel, l'Autorité des marchés financiers et le Haut
+Conseil du commissariat aux comptes peuvent également se communiquer les
+renseignements utiles à l'exercice de leurs missions respectives.
 
 II. - Les autorités mentionnées au I, le fonds de garantie des dépôts institué
 par l'article L. 312-4, le fonds de garantie institué par l'article L. 423-1 du

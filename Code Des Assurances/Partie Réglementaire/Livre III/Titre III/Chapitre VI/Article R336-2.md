@@ -16,5 +16,4 @@ opérations à venir.
 
 Le conseil d'administration ou le directoire peut modifier les limites visées à
 l'alinéa précédent. Dans ce cas, il rend compte de ces modifications sans délais
-à l'Autorité de contrôle des assurances et des mutuelles et dans le prochain
-rapport de solvabilité.
+à l'Autorité de contrôle prudentiel et dans le prochain rapport de solvabilité.

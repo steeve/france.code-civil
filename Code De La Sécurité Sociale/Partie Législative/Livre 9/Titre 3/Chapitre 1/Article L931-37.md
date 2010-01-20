@@ -3,13 +3,14 @@ Article L931-37
 Le fonds paritaire de garantie est une personne morale de droit privé. Il est
 dirigé par un conseil d'administration composé en nombre égal de représentants
 des employeurs et de représentants des salariés, choisis, dans les conditions
-fixées par ses statuts, parmi les administrateurs d'institutions de prévoyance.
-L'article L. 931-13, d'une part, et les articles L. 931-9, L. 931-25 à L. 931-27
-ainsi que le premier alinéa de l'article L. 951-13, d'autre part, sont
-respectivement applicables au fonds et à ses dirigeants. Les statuts du fonds
-déterminent la composition et les modalités de convocation et de délibération du
-conseil d'administration, le mode de nomination de ses membres et la durée de
-leur mandat et les modalités de nomination de son directeur.
+fixées par ses statuts, parmi les administrateurs d'institutions de
+prévoyance.L'article L. 931-13, d'une part, et les articles L. 931-9, L. 931-25
+à L. 931-27 ainsi que le premier alinéa de l'article L. 612-16 du code monétaire
+et financier, d'autre part, sont respectivement applicables au fonds et à ses
+dirigeants. Les statuts du fonds déterminent la composition et les modalités de
+convocation et de délibération du conseil d'administration, le mode de
+nomination de ses membres et la durée de leur mandat et les modalités de
+nomination de son directeur.
 
 Le conseil d'administration adopte les statuts et le règlement du fonds qui sont
 approuvés par arrêté du ministre chargé de la sécurité sociale. Il élit, pour
@@ -28,8 +29,8 @@ ou d'une union d'institutions de prévoyance, ni recevoir directement ou
 indirectement, de rétribution de celle-ci.
 
 Le ministre chargé de la sécurité sociale ou son représentant et le président de
-l'Autorité de contrôle instituée par l'article L. 951-1 ou son représentant
-peuvent, à leur demande, être entendus par le conseil d'administration du fonds.
+l'Autorité de contrôle prudentiel ou son représentant peuvent, à leur demande,
+être entendus par le conseil d'administration du fonds.
 
 Préalablement à la mise en oeuvre des dispositions de l'article L. 951-15,
 l'Autorité de contrôle entend le président et le vice-président du fonds de

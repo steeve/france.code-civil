@@ -8,9 +8,9 @@ l'article L. 515-19.
 
 Les dispositions des articles L. 823-7, L. 823-13, L. 823-14, L. 823-18, L.
 822-18, L. 820-4 à L. 820-7, L. 822-6, L. 822-7 et L. 822-10 à L. 822-13 du code
-de commerce et l'article L. 613-9 du présent code sont applicables au
-contrôleur. La commission bancaire peut exercer l'action prévue à l'article L.
-823-7 du code de commerce.
+de commerce et l'article L. 612-44 du présent code sont applicables au
+contrôleur. L'Autorité de contrôle prudentiel peut exercer l'action prévue à
+l'article L. 823-7 du code de commerce.
 
 Par dérogation aux dispositions de l'article L. 823-14 du code de commerce, le
 droit d'information du contrôleur peut s'étendre à la communication des pièces,

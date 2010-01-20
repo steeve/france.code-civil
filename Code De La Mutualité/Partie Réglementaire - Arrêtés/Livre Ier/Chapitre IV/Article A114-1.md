@@ -2,8 +2,8 @@ Article A114-1
 ----
 Les opérations effectuées par les mutuelles et unions mentionnées au 1° du I de
 l'article L. 111-1 du présent code et soumises au contrôle de l'Autorité de
-contrôle des assurances et des mutuelles en vertu de l'article L. 510-1 sont
-réparties entre les catégories d'opérations suivantes :
+contrôle prudentiel en vertu de l'article L. 510-1 sont réparties entre les
+catégories d'opérations suivantes :
 
 - 1 Opérations de capitalisation à cotisation unique (ou versements libres) ;
 

@@ -24,11 +24,10 @@ acceptations couvrant ces catégories ;
 - à l'exercice de souscription pour les catégories 35 à 38 et pour les
 acceptations couvrant ces catégories.
 
-L'Autorité de contrôle des assurances et des mutuelles peut prescrire à une
-entreprise de prendre des dispositions appropriées pour le calcul prévu au
-précédent alinéa ; elle peut également, si le taux calculé en application du
-précédent alinéa apparaît insuffisant en raison d'évolutions récentes et
-significatives de la sinistralité ou de la tarification, prescrire l'utilisation
-d'un taux plus élevé ; elle peut également, sur la base de justifications
-appropriées fournies par l'entreprise, autoriser l'utilisation d'un taux
-inférieur.
+L'Autorité de contrôle prudentiel peut prescrire à une entreprise de prendre des
+dispositions appropriées pour le calcul prévu au précédent alinéa ; elle peut
+également, si le taux calculé en application du précédent alinéa apparaît
+insuffisant en raison d'évolutions récentes et significatives de la sinistralité
+ou de la tarification, prescrire l'utilisation d'un taux plus élevé ; elle peut
+également, sur la base de justifications appropriées fournies par l'entreprise,
+autoriser l'utilisation d'un taux inférieur.

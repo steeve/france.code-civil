@@ -2,7 +2,7 @@ Article L736-1
 ----
 Ne sont pas applicables à Mayotte les dispositions ci-après :
 
-1° Dans le titre Ier, l'article L. 613-20-4 et la sous-section 2 de la section 6
+1° Dans le titre Ier, l'article L. 613-20-4 et la sous-section 2 de la section 2
 du chapitre III relative aux mesures d'assainissement et de liquidation des
 établissements de crédit communautaires ;
 

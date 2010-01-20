@@ -2,8 +2,7 @@ Article L621-15
 ----
 I.-Le collège examine le rapport d'enquête ou de contrôle établi par les
 services de l'Autorité des marchés financiers, ou la demande formulée par le
-gouverneur de la Banque de France, président de la Commission bancaire, ou par
-le président de l'Autorité de contrôle des assurances et des mutuelles.
+président de l'Autorité de contrôle prudentiel.
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux
 personnes concernées. Il transmet la notification des griefs à la commission des
@@ -25,14 +24,14 @@ a) Les personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article 
 621-9, au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
-613-21 ;
+612-39 ;
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de
 l'une des personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article L.
 621-9 au titre de tout manquement à leurs obligations professionnelles définies
 par les lois, règlements et règles professionnelles approuvées par l'Autorité
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
-613-21 ;
+612-39 ;
 
 c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée
 ou a tenté de se livrer à une opération d'initié ou s'est livrée à une
@@ -43,9 +42,8 @@ marché réglementé ou sur un système multilatéral de négociation qui se sou
 aux dispositions législatives ou réglementaires visant à protéger les
 investisseurs contre les opérations d'initiés, les manipulations de cours et la
 diffusion de fausses informations, ou pour lequel une demande d'admission aux
-négociations sur de tels marchés a été présentée a été présentée, dans les
-conditions déterminées par le règlement général de l'Autorité des marchés
-financiers ;
+négociations sur de tels marchés a été présentée, dans les conditions
+déterminées par le règlement général de l'Autorité des marchés financiers ;
 
 d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se
 livrer à une opération d'initié ou s'est livrée à une manipulation de cours, à

@@ -11,4 +11,4 @@ l'interdiction prescrite par l'article L. 524-5.
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour
 toute personne soumise à l'obligation de déclaration mentionnée au II de
 l'article L. 524-2, de ne pas la souscrire ou de communiquer des renseignements
-inexacts à la Commission bancaire.
+inexacts à l'Autorité de contrôle prudentiel.

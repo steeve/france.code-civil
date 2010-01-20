@@ -5,14 +5,14 @@ les conditions d'admission de retrait ou d'exclusion des entreprises affiliées
 par convention à la société de groupe d'assurance.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'une entreprise affiliée par
-convention fait l'objet d'une déclaration préalable auprès du comité des
-entreprises d'assurance, accompagnée d'un dossier dont la composition est fixée
-par arrêté du ministre chargé de l'économie. Le comité peut, dans un délai de
-trois mois à compter de la réception du dossier, s'opposer à l'opération, si
-celle-ci apparaît contraire aux intérêts des assurés des entreprises affiliées
-par convention, par une décision motivée prise et adressée à la ou aux personnes
+convention fait l'objet d'une déclaration préalable auprès de l'Autorité de
+contrôle prudentiel, accompagnée d'un dossier dont la composition est fixée par
+arrêté du ministre chargé de l'économie. Le comité peut, dans un délai de trois
+mois à compter de la réception du dossier, s'opposer à l'opération, si celle-ci
+apparaît contraire aux intérêts des assurés des entreprises affiliées par
+convention, par une décision motivée prise et adressée à la ou aux personnes
 intéressées par lettre recommandée avec accusé de réception. A défaut
-d'opposition du comité, l'opération peut être réalisée à l'expiration de ce
+d'opposition de l'Autorité, l'opération peut être réalisée à l'expiration de ce
 délai.
 
 2° Les statuts des sociétés de groupe d'assurance mutuelle doivent également :

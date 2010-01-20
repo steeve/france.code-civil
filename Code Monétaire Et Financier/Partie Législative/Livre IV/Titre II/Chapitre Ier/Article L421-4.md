@@ -4,8 +4,8 @@ La reconnaissance de la qualité de marché réglementé d'instruments financier
 est décidée par arrêté du ministre chargé de l'économie sur proposition de
 l'Autorité des marchés financiers.
 
-L'Autorité des marchés financiers consulte la Commission bancaire sur les
-mesures prévues par l'entreprise de marché pour se conformer aux obligations
+L'Autorité des marchés financiers consulte l'Autorité de contrôle prudentiel sur
+les mesures prévues par l'entreprise de marché pour se conformer aux obligations
 mentionnées aux alinéas 2 et 4 du I et au II de l'article L. 421-11. Le
 règlement général de l'Autorité des marchés financiers détermine les conditions
 dans lesquelles elle approuve le programme d'activité et propose la

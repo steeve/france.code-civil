@@ -8,5 +8,5 @@ solvabilité ajustée aient été satisfaites. Le report de charge constitué en
 vertu de l'article R. 331-5-4 est déduit des excédents de recettes à répartir
 ainsi établis.
 
-L'Autorité de contrôle des assurances et des mutuelles peut s'opposer à une
-affectation d'excédents aux réserves libres.
+L''Autorité de contrôle prudentiel peut s'opposer à une affectation d'excédents
+aux réserves libres.

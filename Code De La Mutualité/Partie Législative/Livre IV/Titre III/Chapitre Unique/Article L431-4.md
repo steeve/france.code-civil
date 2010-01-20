@@ -11,7 +11,7 @@ garantie, qui sont homologués par un arrêté du ministre chargé de la mutuali
 Il élit en son sein son président.
 
 Le conseil de surveillance approuve les comptes et nomme le commissaire aux
-comptes et son suppléant. A la fin de chaque exercice, il est remis au ministre
+comptes et son suppléant.A la fin de chaque exercice, il est remis au ministre
 chargé de la mutualité un exemplaire des comptes approuvés. Le fonds de garantie
 est soumis au contrôle de l'inspection générale des affaires sociales et de
 l'inspection générale des finances.
@@ -34,14 +34,12 @@ d'elles. Son président ne peut exercer ses fonctions qu'après agrément du
 ministre chargé de la mutualité.
 
 Le ministre chargé de la mutualité ou son représentant ainsi que le président de
-l'Autorité de contrôle mentionnée à l'article L. 510-1 ou son représentant
-peuvent, à leur demande, être entendus par le conseil de surveillance et le
-directoire.
+l' Autorité de contrôle prudentiel ou son représentant peuvent, à leur demande,
+être entendus par le conseil de surveillance et le directoire.
 
-L'Autorité de contrôle mentionnée à l'article L. 510-1 entend le président du
-directoire du fonds de garantie sur toute question concernant une mutuelle ou
-une union pour laquelle elle envisage de mettre en oeuvre les dispositions du
-présent chapitre.
+L' Autorité de contrôle prudentiel entend le président du directoire du fonds de
+garantie sur toute question concernant une mutuelle ou une union pour laquelle
+elle envisage de mettre en oeuvre les dispositions du présent chapitre.
 
 Le président du directoire est également entendu, à sa demande, par l'Autorité
-de contrôle mentionnée à l'article L. 510-1.
+de contrôle prudentiel.

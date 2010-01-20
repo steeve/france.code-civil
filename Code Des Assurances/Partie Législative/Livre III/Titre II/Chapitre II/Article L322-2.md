@@ -1,6 +1,6 @@
 Article L322-2
 ----
-I. - Nul ne peut, à quelque titre que ce soit, diriger, gérer ou administrer une
+I.-Nul ne peut, à quelque titre que ce soit, diriger, gérer ou administrer une
 entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou de
 l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L.
 322-1-2, une compagnie financière holding mixte définie à l'article L. 334-2, ni
@@ -68,23 +68,23 @@ t) L'une des infractions à la législation ou la réglementation des assurances
 
 3° A la destitution des fonctions d'officier public ou ministériel.
 
-II. - L'incapacité prévue au premier alinéa s'applique à toute personne à
-l'égard de laquelle a été prononcée une mesure définitive de faillite
-personnelle ou une autre mesure définitive d'interdiction dans les conditions
-prévues par le livre VI du code de commerce.
+II.-L'incapacité prévue au premier alinéa s'applique à toute personne à l'égard
+de laquelle a été prononcée une mesure définitive de faillite personnelle ou une
+autre mesure définitive d'interdiction dans les conditions prévues par le livre
+VI du code de commerce.
 
-III. - Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du
+III.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du
 code pénal, la juridiction prononçant la décision qui entraîne cette incapacité
 peut en réduire la durée.
 
-IV. - Les personnes exerçant une fonction, une activité ou une profession
+IV.-Les personnes exerçant une fonction, une activité ou une profession
 mentionnée au premier alinéa du I qui font l'objet de l'une des condamnations
 prévues aux I et II doivent cesser leur activité dans un délai d'un mois à
 compter de la date à laquelle la décision de justice est devenue définitive. Ce
 délai peut être réduit ou supprimé par la juridiction qui a rendu cette
 décision.
 
-V. - En cas de condamnation prononcée par une juridiction étrangère et passée en
+V.-En cas de condamnation prononcée par une juridiction étrangère et passée en
 force de chose jugée pour une infraction constituant, selon la loi française, un
 crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile
 du condamné déclare, à la requête du ministère public, après constatation de la
@@ -98,23 +98,23 @@ quand le jugement déclaratif a été déclaré exécutoire en France. La demand
 d'exequatur peut être, à cette fin seulement, formée par le ministère public
 devant le tribunal de grande instance du domicile du condamné.
 
-VI. - Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue
+VI.-Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue
 au présent article ne préjuge pas de l'appréciation, par l'autorité compétente,
 du respect des conditions nécessaires à l'agrément ou à l'autorisation
 d'exercice.
 
-VII. - Les personnes appelées à conduire une entreprise, une société ou une
+VII.-Les personnes appelées à conduire une entreprise, une société ou une
 compagnie mentionnée au premier alinéa du I au sens de l'article L. 321-10
 doivent posséder l'honorabilité, la compétence ainsi que l'expérience
 nécessaires à leur fonction.
 
-VIII. - Lorsqu'il est amené à apprécier l'honorabilité, la compétence et
+VIII.-Lorsqu'elle est amenée à apprécier l'honorabilité, la compétence et
 l'expérience de dirigeants et d'administrateurs qui exercent ces mêmes fonctions
 au sein d'entités autres que celles mentionnées au premier alinéa et appartenant
-au même groupe au sens de l'article L. 334-2, le comité des entreprises
-d'assurance consulte les autorités compétentes au titre de ces autres entités.
-Il communique à ces autorités les informations utiles à l'exercice de leurs
+au même groupe au sens de l'article L. 334-2, l'Autorité de contrôle prudentiel
+consulte les autorités compétentes au titre de ces autres entités. Elle
+communique à ces autorités les informations utiles à l'exercice de leurs
 missions.
 
-IX. - Les dispositions du présent article sont applicables au mandataire général
+IX.-Les dispositions du présent article sont applicables au mandataire général
 désigné par les entreprises opérant en régime d'établissement.
