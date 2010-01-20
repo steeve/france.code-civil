@@ -11,10 +11,10 @@ La garantie à première demande ou la caution personnelle et solidaire est
 établie selon un modèle fixé par un arrêté du ministre chargé de l'économie.
 
 L'organisme apportant sa garantie est choisi parmi les tiers agréés par
-l'Autorité de contrôle prudentiel mentionnée à l'article L. 413-1 du code des
-assurances. Lorsque cet organisme est étranger, il est choisi parmi les tiers
-agréés dans son pays d'origine. Le pouvoir adjudicateur peut récuser l'organisme
-qui doit apporter sa garantie.
+l'Autorité de contrôle prudentiel mentionnée à l'article L. 612-1 du code
+monétaire et financier. Lorsque cet organisme est étranger, il est choisi parmi
+les tiers agréés dans son pays d'origine. Le pouvoir adjudicateur peut récuser
+l'organisme qui doit apporter sa garantie.
 
 Lorsque le titulaire du marché est un groupement solidaire, la garantie est
 fournie par le mandataire pour le montant total du marché, avenants compris.
