@@ -22,11 +22,7 @@ représentant ;
 
 4° Le directeur des services financiers ou son représentant ;
 
-5° Trois membres désignés par le ministre de la défense ;
-
-6° Deux membres désignés par le ministre chargé de la sécurité sociale ;
-
-7° Deux membres désignés par le ministre chargé du budget.
+5° Sept membres désignés par le ministre de la défense.
 
 Les représentants de l'Etat autres que les membres de droit sont désignés pour
 trois ans. Leur mandat est renouvelable.
@@ -73,3 +69,7 @@ celui des administrateurs qu'ils remplacent.
 
 En cas de vacance, le conseil d'administration doit être complété dans un délai
 de deux mois à compter de la date à laquelle la vacance s'est produite.
+
+Un commissaire du Gouvernement représentant le ministre chargé de la sécurité
+sociale assiste aux séances du conseil et des commissions ayant reçu délégation
+de celui-ci. Il est entendu chaque fois qu'il le demande.

@@ -25,6 +25,5 @@ de la certification, les approuve sauf vote contraire à la majorité des deux
 tiers des membres.
 
 Le conseil d'administration émet un avis sur les questions dont il est saisi par
-le ministre chargé de la sécurité sociale, le ministre de l'intérieur et le
-ministre chargé du budget ainsi que dans le cas où des textes particuliers
-prévoient sa consultation.
+le ministre chargé de la sécurité sociale, et le ministre chargé du budget ainsi
+que dans le cas où des textes particuliers prévoient sa consultation.

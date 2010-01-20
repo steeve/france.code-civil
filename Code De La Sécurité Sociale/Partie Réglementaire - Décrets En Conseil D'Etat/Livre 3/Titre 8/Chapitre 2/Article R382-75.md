@@ -3,8 +3,7 @@ Article R382-75
 Le conseil d'administration de la caisse d'assurance vieillesse, invalidité et
 maladie des cultes se réunit au moins trois fois par an. Il peut, en outre, être
 convoqué par le président soit à l'initiative de celui-ci, soit sur l'invitation
-du ministre chargé de la sécurité sociale, du ministre de l'intérieur ou du
-ministre chargé du budget.
+du ministre chargé de la sécurité sociale.
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité des
 membres ayant voix délibérative assiste à la séance.

@@ -12,8 +12,7 @@ et invalidité, assurance vieillesse, action sanitaire et sociale et gestion
 administrative.
 
 La caisse d'assurance vieillesse, invalidité et maladie des cultes est soumise
-au contrôle des ministres chargés de la sécurité sociale, de l'intérieur et du
-budget qui sont représentés auprès d'elle par des commissaires du Gouvernement.
+au contrôle de l'Etat .
 
 Elle exerce, au bénéfice de ses ressortissants, une action sanitaire et sociale
 dont le financement est fixé, avant le début de chaque exercice, sur décision du

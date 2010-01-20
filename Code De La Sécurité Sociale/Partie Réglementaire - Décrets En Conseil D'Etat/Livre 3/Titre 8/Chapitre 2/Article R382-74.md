@@ -1,6 +1,12 @@
 Article R382-74
 ----
-Le ministre chargé de la sécurité sociale, le ministre de l'intérieur et le
-ministre chargé du budget sont représentés chacun par un commissaire du
-Gouvernement. Les commissaires du Gouvernement assistent aux séances du conseil
-d'administration et sont entendus chaque fois qu'ils le demandent.
+La Caisse d'assurance vieillesse, invalidité et maladie des cultes est placée
+sous la tutelle du ministre chargé de la sécurité sociale et du ministre chargé
+du budget.
+
+Le ministre chargé de la sécurité sociale est représenté par un commissaire du
+Gouvernement, qui assiste aux séances du conseil d'administration et qui est
+entendu chaque fois qu'il le demande.
+
+Un représentant du ministre de l'intérieur assiste également aux séances du
+conseil d'administration. Il est entendu chaque fois qu'il le demande.

@@ -7,7 +7,9 @@ arrêté conjoint du ministre de la défense, du ministre chargé du budget et d
 ministre chargé de la sécurité sociale.
 
 La nature des prestations supplémentaires et les catégories de bénéficiaires
-sont fixées par le règlement du service de prestations.
+sont fixées dans une annexe du règlement du service de prestations soumise à
+l'approbation du ministre de la défense, du ministre chargé du budget et du
+ministre chargé de la sécurité sociale.
 
 Pour l'attribution des prestations supplémentaires, le conseil d'administration
 délègue ses pouvoirs à une commission composée de quatre membres choisis dans
