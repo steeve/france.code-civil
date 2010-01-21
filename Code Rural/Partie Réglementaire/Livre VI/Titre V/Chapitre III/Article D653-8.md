@@ -5,9 +5,9 @@ production, la base de données centrale rassemblant l'ensemble des données
 gérées collectivement est placée sous la responsabilité de l'Etat. La maîtrise
 d'oeuvre en est confiée à l'Institut national de la recherche agronomique.
 
-Pour les espèces équine et asine, l'établissement public Les Haras nationaux
-délivre aux organismes agréés au sens de l'article L. 653-3 les informations
-nécessaires à l'accomplissement de leur mission.
+Pour les espèces équine et asine, l'établissement public Institut français du
+cheval et de l'équitation délivre aux organismes agréés au sens de l'article L.
+653-3 les informations nécessaires à l'accomplissement de leur mission.
 
 Des arrêtés du ministre chargé de l'agriculture fixent les conditions dans
 lesquelles les informations nécessaires à l'amélioration génétique des équidés

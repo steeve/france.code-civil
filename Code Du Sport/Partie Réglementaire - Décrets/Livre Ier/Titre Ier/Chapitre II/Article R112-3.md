@@ -4,7 +4,7 @@ Les établissements publics de formation sont :
 
 1° L'Institut national du sport et de l'éducation physique ;
 
-2° L'Ecole nationale d'équitation ;
+2° L'Institut français du cheval et de l'équitation ;
 
 3° L'Ecole nationale de voile et des sports nautiques ;
 

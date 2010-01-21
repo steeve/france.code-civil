@@ -1,4 +1,5 @@
 Article R653-16
 ----
-L'établissement est administré par un conseil d'administration et dirigé par un
-directeur général.
+L'Institut français du cheval et de l'équitation conclut avec les ministres
+chargé de l'agriculture et des sports un contrat pluriannuel qui définit les
+objectifs qui lui sont assignés et les indicateurs associés.

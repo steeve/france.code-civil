@@ -1,15 +1,10 @@
 Article R653-23
 ----
-Le conseil d'administration peut créer des comités d'orientation pour, notamment
-:
+Le conseil scientifique est consulté au moins une fois par an par le conseil
+d'administration sur :
 
-1° Développer le partenariat avec les collectivités, les organisations
-socioprofessionnelles et les associations concernées par l'élevage des équidés
-et les activités hippiques ;
+1° Le programme de recherche de l'établissement ;
 
-2° Proposer au conseil d'administration les orientations stratégiques ou
-scientifiques ;
+2° Les orientations de veille vétérinaire et la lutte contre le dopage animal ;
 
-3° Emettre un avis sur les programmes d'activités et les moyens à y affecter ;
-
-4° Evaluer les activités de l'établissement.
+Il peut être consulté sur toute autre question scientifique.

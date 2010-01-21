@@ -11,9 +11,9 @@ obligatoire par arrêté.
 Le ministre chargé de l'agriculture agrée par arrêté les techniques
 d'identification et les modalités de leur mise en oeuvre.
 
-Seuls les personnels qualifiés de l'établissement public Les Haras nationaux et
-les vétérinaires peuvent être habilités par le ministre chargé de l'agriculture
-à procéder à l'identification des équidés.
+Seuls les personnels qualifiés de l'établissement public Institut français du
+cheval et de l'équitation et les vétérinaires peuvent être habilités par le
+ministre chargé de l'agriculture à procéder à l'identification des équidés.
 
 Le ministre chargé de l'agriculture fixe par arrêté les conditions de ces
 habilitations, et en particulier les qualifications requises, ainsi que celles

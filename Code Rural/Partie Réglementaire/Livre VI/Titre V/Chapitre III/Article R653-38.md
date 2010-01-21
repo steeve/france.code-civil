@@ -14,4 +14,4 @@ prononce sur les cas particuliers d'application de ce règlement aux équidés
 relevant de la race concernée.
 
 Le secrétariat des commissions de stud-book est assuré par l'établissement
-public Les Haras nationaux.
+public Institut français du cheval et de l'équitation.

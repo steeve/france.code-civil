@@ -1,8 +1,9 @@
 Article D212-47
 ----
-L'établissement public Les Haras nationaux gère l'identification et assure
-l'enregistrement zootechnique des équidés. A cette fin, il établit pour chaque
-équidé né en France un document d'identification et une carte d'immatriculation.
+L'établissement public Institut français du cheval et de l'équitation gère
+l'identification et assure l'enregistrement zootechnique des équidés. A cette
+fin, il établit pour chaque équidé né en France un document d'identification et
+une carte d'immatriculation.
 
 Il est attribué à chaque équidé un numéro matricule. Ce numéro matricule est
 unique et ne peut être réattribué.

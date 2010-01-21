@@ -1,14 +1,56 @@
 Article R653-27
 ----
-I. - L'agent comptable est nommé par arrêté conjoint du ministre chargé de
-l'agriculture et du ministre chargé du budget. Des comptables secondaires
-peuvent être désignés par le directeur général après avis de l'agent comptable
-et avec l'agrément du ministre chargé du budget.
+Le budget de l'établissement comprend :
 
-II. - L'établissement est soumis au régime comptable et financier défini par le
-décret du 10 décembre 1953 relatif à la règlementation comptable applicable aux
-établissements publics nationaux à caractère administratif et le décret du 29
-décembre 1962 portant règlement général sur la comptabilité publique. En
-particulier des régies d'avances et de recettes peuvent être ouvertes dans les
-conditions fixées par le décret du 20 juillet 1992 relatif aux régies de
-recettes et aux régies d'avances des organismes publics.
+1° En recettes :
+
+a) Les subventions de l'Etat ;
+
+b) Les subventions versées au titre des fonds européens ;
+
+c) Les subventions des collectivités territoriales et des établissements publics
+et toutes autres personnes publiques ou privées ;
+
+d) Les produits des redevances et contributions ;
+
+e) Les produits des représentations et compétitions ;
+
+f) La rémunération des services rendus ;
+
+g) Les fonds de contrats sur programmes ;
+
+h) Les produits de l'aliénation des biens meubles et immeubles ;
+
+i) Les produits de publications et actions de formation ;
+
+j) Les sommes perçues au titre de la formation professionnelle ;
+
+k) Les produits financiers relevant du placement de ses fonds ;
+
+l) Les emprunts ;
+
+m) Les produits des dons et legs ;
+
+n) L'exploitation des marques et brevets et de leurs dérivés ;
+
+o) Toutes autres recettes autorisées par les lois et règlements.
+
+2° En dépenses :
+
+a) Les frais de personnels à la charge de l'établissement ;
+
+b) Les charges de fonctionnement, d'équipement, d'entretien et de sécurité et
+notamment les frais d'entretien et d'achat des chevaux ;
+
+c) Les frais d'organisation des stages, conférences, travaux de recherche,
+d'élaboration et de diffusion des publications ;
+
+d) Les frais d'organisation des manifestations ;
+
+e) Les charges de remboursement des emprunts ;
+
+f) Les dépenses d'intervention, les primes d'encouragement visées au c de
+l'article R. 653-15 du présent code ;
+
+g) D'une manière générale, toutes les dépenses nécessaires à la conduite des
+activités de l'établissement.

@@ -1,7 +1,4 @@
 Article R653-22
 ----
-Le conseil d'administration peut être consulté par le gouvernement sur toute
-question relative à l'élevage des équidés et aux activités hippiques.
-
-Il propose toute mesure susceptible de promouvoir l'élevage des équidés et les
-activités hippiques.
+L'établissement est doté d'un conseil scientifique et d'un conseil de formation,
+organisés dans les conditions fixées par le conseil d'administration.

@@ -7,6 +7,6 @@ financières auxquelles peuvent prétendre les vétérinaires assurant l'encadre
 de l'identification électronique.
 
 Une convention, conforme à ce modèle type, revêtue de la signature du
-vétérinaire assurant l'encadrement et de celle du directeur général des Haras
-nationaux, est établie pour chaque agent réalisant l'identification
-électronique.
+vétérinaire assurant l'encadrement et de celle du directeur général de
+l'Institut français du cheval et de l'équitation, est établie pour chaque agent
+réalisant l'identification électronique.
