@@ -2,17 +2,16 @@ Article R933-5
 ----
 Les institutions ou unions dont l'organisme de référence mentionné au 1° de
 l'article L. 933-2 est une société de groupe d'assurance, une compagnie
-financière holding mixte dont le coordonnateur est l'Autorité de contrôle des
-assurances et des mutuelles une entreprise soumise au contrôle de l'Etat en
-application de l'article L. 310-1-1 du code des assurances ou une entreprise
-d'assurance ou de réassurance dont le siège social est situé dans un Etat membre
-de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen doivent justifier d'une solvabilité ajustée positive selon des
-modalités définies aux articles R. 933-2 à R. 933-4. Dans ce but, elles
-procèdent à un calcul de la solvabilité ajustée de leur organisme de référence
-dans les mêmes conditions que celles permettant de déterminer la marge de
-solvabilité d'une institution ou union participante agréée en France et
-pratiquant les mêmes opérations.
+financière holding mixte dont le coordonnateur est l'Autorité de contrôle
+prudentiel une entreprise soumise au contrôle de l'Etat en application de
+l'article L. 310-1-1 du code des assurances ou une entreprise d'assurance ou de
+réassurance dont le siège social est situé dans un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen doivent
+justifier d'une solvabilité ajustée positive selon des modalités définies aux
+articles R. 933-2 à R. 933-4. Dans ce but, elles procèdent à un calcul de la
+solvabilité ajustée de leur organisme de référence dans les mêmes conditions que
+celles permettant de déterminer la marge de solvabilité d'une institution ou
+union participante agréée en France et pratiquant les mêmes opérations.
 
 L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une
 institution ou une union :

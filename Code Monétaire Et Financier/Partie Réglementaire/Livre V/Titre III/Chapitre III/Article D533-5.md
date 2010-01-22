@@ -1,16 +1,16 @@
 Article D533-5
 ----
-La Commission bancaire dispose d'un délai de deux mois pour faire connaître à
-l'entreprise d'investissement son avis sur la proposition de désignation du
-commissaire aux comptes. En l'absence de réponse de la Commission bancaire dans
-le délai imparti, son avis est réputé favorable.
+L'Autorité de contrôle prudentiel dispose d'un délai de deux mois pour faire
+connaître à l'entreprise d'investissement son avis sur la proposition de
+désignation du commissaire aux comptes. En l'absence de réponse de l'Autorité de
+contrôle prudentiel dans le délai imparti, son avis est réputé favorable.
 
-Lorsque la Commission bancaire recourt au complément d'information prévu au
-troisième alinéa de l'article D. 533-4, le délai de deux mois prévu ci-dessus
-est suspendu jusqu'à réception des informations complémentaires.
+Lorsque l'Autorité de contrôle prudentiel recourt au complément d'information
+prévu au troisième alinéa de l'article D. 533-4, le délai de deux mois prévu
+ci-dessus est suspendu jusqu'à réception des informations complémentaires.
 
-La Commission bancaire ne peut émettre un avis défavorable ou assorti de
-réserves sans avoir mis le commissaire aux comptes proposé en mesure de faire
+L'Autorité de contrôle prudentiel ne peut émettre un avis défavorable ou assorti
+de réserves sans avoir mis le commissaire aux comptes proposé en mesure de faire
 connaître ses observations écrites. L'avis défavorable ou assorti de réserves
 est motivé. Il peut notamment être fondé sur le fait que le commissaire aux
 comptes proposé ne présente pas toutes les garanties d'expérience, de compétence
@@ -23,6 +23,6 @@ l'entreprise d'investissement concernée et au commissaire aux comptes proposé.
 Une copie de cette notification est adressée à la compagnie régionale dont est
 membre le commissaire aux comptes.
 
-Les dirigeants de l'entreprise d'investissement communiquent l'avis de la
-Commission bancaire à l'organe compétent pour désigner les commissaires aux
-comptes.
+Les dirigeants de l'entreprise d'investissement communiquent l'avis de
+l'Autorité de contrôle prudentiel à l'organe compétent pour désigner les
+commissaires aux comptes.

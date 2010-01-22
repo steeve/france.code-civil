@@ -1,6 +1,6 @@
 Article L613-31-6
 ----
-I. - Par dérogation aux dispositions de l'article L. 613-31-3, la décision
+I.-Par dérogation aux dispositions de l'article L. 613-31-3, la décision
 d'adopter une mesure d'assainissement ou d'ouvrir une procédure de liquidation
 n'affecte pas :
 
@@ -20,7 +20,7 @@ la date de la décision et une fois la livraison effectuée ;
 de l'établissement de crédit, lorsque la loi applicable à la créance de
 l'établissement de crédit le permet.
 
-II. - Les dispositions qui précèdent ne font pas obstacle aux actions en
-nullité, en annulation ou en inopposabilité des actes préjudiciables à
-l'ensemble des créanciers, prévues par la loi de l'Etat membre sur le territoire
-duquel se trouve le siège de l'établissement de crédit.
+II.-Les dispositions qui précèdent ne font pas obstacle aux actions en nullité,
+en annulation ou en inopposabilité des actes préjudiciables à l'ensemble des
+créanciers, prévues par la loi de l'Etat membre sur le territoire duquel se
+trouve le siège de l'établissement de crédit.

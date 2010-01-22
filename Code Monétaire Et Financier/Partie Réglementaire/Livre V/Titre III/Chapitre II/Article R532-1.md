@@ -2,13 +2,11 @@ Article R532-1
 ----
 Pour obtenir l'agrément de prestataire de services d'investissement autre que
 celui de société de gestion de portefeuille, les requérants adressent leur
-demande au Comité des établissements de crédit et des entreprises
-d'investissement.
+demande à l'Autorité de contrôle prudentiel.
 
 La demande d'agrément, établie sur papier libre, doit être accompagnée d'un
-dossier conforme au dossier type établi conjointement par le Comité des
-établissements de crédit et des entreprises d'investissement et l'Autorité des
-marchés financiers et publié au Journal officiel.
+dossier conforme au dossier type établi conjointement par l'Autorité de contrôle
+prudentiel et l'Autorité des marchés financiers et publié au Journal officiel.
 
 Le dossier type prévu à l'alinéa précédent comporte les informations à fournir
 pour l'application des procédures d'agrément et d'approbation de programme

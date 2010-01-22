@@ -19,5 +19,5 @@ liquidation judiciaires des entreprises ainsi que par les articles R. 613-21 et
 R. 613-22.
 
 Le fonds de garantie informe le représentant des créanciers ou le liquidateur
-judiciaire des éventuelles prolongations de délais accordées par la Commission
-bancaire en vue de l'indemnisation des déposants.
+judiciaire des éventuelles prolongations de délais accordées par l'Autorité de
+contrôle prudentiel en vue de l'indemnisation des déposants.

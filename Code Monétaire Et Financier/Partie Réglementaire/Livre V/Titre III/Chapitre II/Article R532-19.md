@@ -1,11 +1,11 @@
 Article R532-19
 ----
-I. - Lorsque la Commission bancaire ouvre une procédure disciplinaire à
-l'encontre d'un prestataire de services d'investissement d'un autre Etat membre
-de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen opérant sur le territoire de la République française, elle
-communique à l'autorité compétente de l'Etat membre d'origine de l'établissement
-en cause la lettre mentionnée à l'article R. 613-4.
+I. - Lorsque l'Autorité de contrôle prudentiel ouvre une procédure disciplinaire
+à l'encontre d'un prestataire de services d'investissement d'un autre Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen opérant sur le territoire de la République
+française, elle communique à l'autorité compétente de l'Etat membre d'origine de
+l'établissement en cause la lettre mentionnée à l'article R. 613-4.
 
 Elle communique également à ladite autorité les observations en réponse
 éventuellement adressées par l'établissement et l'informe de la convocation
@@ -18,14 +18,14 @@ Sauf cas d'urgence, un délai d'au moins 30 jours francs doit être respecté en
 la communication à l'autorité de l'Etat membre d'origine et l'audition prévue
 respectivement au deuxième alinéa de l'article R. 613-5.
 
-Avant de suivre la procédure prévue aux alinéas précédents, la Commission
-bancaire peut prendre, en cas d'urgence, toute mesure conservatoire propre à
-assurer la protection des personnes auxquelles sont fournis en France des
-services d'investissement ou des services connexes.
+Avant de suivre la procédure prévue aux alinéas précédents, l'Autorité de
+contrôle prudentiel peut prendre, en cas d'urgence, toute mesure conservatoire
+propre à assurer la protection des personnes auxquelles sont fournis en France
+des services d'investissement ou des services connexes.
 
-En cas d'infraction à des dispositions d'intérêt général, la Commission bancaire
-peut, sans suivre la procédure prévue aux alinéas précédents, prononcer l'une
-des sanctions disciplinaires énumérées à l'article L. 613-21.
+En cas d'infraction à des dispositions d'intérêt général, l'Autorité de contrôle
+prudentiel peut, sans suivre la procédure prévue aux alinéas précédents,
+prononcer l'une des sanctions disciplinaires énumérées à l'article L. 613-21.
 
 II. - L'Autorité des marchés financiers peut sanctionner tous manquements aux
 règles dont elle est chargée d'assurer le respect, commis en France par un

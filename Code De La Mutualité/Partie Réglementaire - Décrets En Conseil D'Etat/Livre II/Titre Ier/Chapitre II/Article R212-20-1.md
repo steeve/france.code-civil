@@ -11,8 +11,8 @@ correspondant pas aux engagements, y compris la réserve de capitalisation ;
 
 3. Le report des excédents ;
 
-4.L'emprunt ou les emprunts pour fonds de développement : toutefois, à partir de
-la moitié de la durée d'un emprunt, celui-ci n'est retenu dans la marge de
+4. L'emprunt ou les emprunts pour fonds de développement : toutefois, à partir
+de la moitié de la durée d'un emprunt, celui-ci n'est retenu dans la marge de
 solvabilité que pour sa valeur progressivement réduite chaque année d'un montant
 constant égal au double du montant total de cet emprunt divisé par le nombre
 d'années de sa durée ;
@@ -43,16 +43,16 @@ mentionnés ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une mutuelle ou une union de réassurance en vue de faciliter l'assainissement et
-la sauvegarde de cette entité, l'Autorité de contrôle des assurances et des
-mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer les
+la sauvegarde de cette entité, l'Autorité de contrôle prudentiel et de
+résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les
 déductions prévues aux deux alinéas précédents.
 
 En outre, la mutuelle ou union n'est pas tenue d'effectuer ces déductions
 lorsqu'elle présente une solvabilité ajustée positive calculée selon les
 modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à
-l'article R. 213-8 n'est applicable que si l'autorité de contrôle des assurances
-et des mutuelles estime que la gestion intégrée et le contrôle interne des
-entités entrant dans le périmètre de consolidation sont satisfaisants.
+l'article R. 213-8 n'est applicable que si l'Autorité de contrôle prudentiel et
+de résolution estime que la gestion intégrée et le contrôle interne des entités
+entrant dans le périmètre de consolidation sont satisfaisants.
 
 III. ― Lorsqu'elle estime que l'appréciation du report des excédents mentionnés
 au 3 du I est susceptible d'être faussée par l'existence d'un contrat de

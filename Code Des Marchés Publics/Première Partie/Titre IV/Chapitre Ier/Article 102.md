@@ -10,10 +10,8 @@ retenue de garantie qu'elles remplacent.
 La garantie à première demande ou la caution personnelle et solidaire est
 établie selon un modèle fixé par un arrêté du ministre chargé de l'économie.
 
-L'organisme apportant sa garantie est choisi parmi les tiers agréés par le
-comité des établissements de crédit et des entreprises d'investissement
-mentionné à l'article L. 612-1 du code monétaire et financier ou par le comité
-des entreprises d'assurance mentionné à l'article L. 413-1 du code des
+L'organisme apportant sa garantie est choisi parmi les tiers agréés par
+l'Autorité de contrôle prudentiel mentionnée à l'article L. 413-1 du code des
 assurances. Lorsque cet organisme est étranger, il est choisi parmi les tiers
 agréés dans son pays d'origine. Le pouvoir adjudicateur peut récuser l'organisme
 qui doit apporter sa garantie.

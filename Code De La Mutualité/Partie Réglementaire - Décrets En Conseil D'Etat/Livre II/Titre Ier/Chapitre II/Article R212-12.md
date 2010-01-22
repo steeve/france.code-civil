@@ -32,9 +32,8 @@ sinistres demeurant à charge de l'entreprise après cession en réassurance et 
 montant des sinistres brut de réassurance, sans que ce rapport puisse être
 inférieur à 50 %.
 
-Sous réserve de l'accord de l'Autorité de contrôle des assurances et des
-mutuelles, l'affectation des cotisations peut être effectuée par des méthodes
-statistiques.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'affectation des
+cotisations peut être effectuée par des méthodes statistiques.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour
 les trois derniers exercices) :

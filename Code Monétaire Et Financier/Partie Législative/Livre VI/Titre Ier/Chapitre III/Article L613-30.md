@@ -10,11 +10,11 @@ Le fonds informe les déposants du montant des créances exclues du champ
 d'intervention et précise les modalités de déclaration desdites créances auprès
 du mandataire judiciaire.
 
-Le représentant des créanciers établit les relevés de toutes les créances. Ces
-relevés doivent être mentionnés par le juge commissaire, déposés au greffe du
-tribunal de commerce et faire l'objet d'une mesure de publicité. En cas de
-contestation, le déposant saisit à peine de forclusion le tribunal dans un délai
-de deux mois à compter de l'accomplissement de la mesure de publicité.
+Le mandataire judiciaire établit les relevés de toutes les créances. Ces relevés
+doivent être mentionnés par le juge commissaire, déposés au greffe du tribunal
+de commerce et faire l'objet d'une mesure de publicité. En cas de contestation,
+le déposant saisit à peine de forclusion le tribunal dans un délai de deux mois
+à compter de l'accomplissement de la mesure de publicité.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

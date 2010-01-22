@@ -7,7 +7,7 @@ financiers peut recourir :
 
 2° En application du 2° de l'article L. 621-9-2 :
 
-a) Au secrétariat général de la Commission bancaire ;
+a) Au secrétariat général de l'Autorité de contrôle prudentiel ;
 
 b) Aux organes centraux mentionnés à l'article L. 511-30, pour les
 établissements affiliés à ces derniers ;

@@ -46,6 +46,6 @@ sur des établissements de crédit, des entreprises d'investissement et des
 
 Lorsque la mutuelle ou l'union est un organisme participant d'un établissement
 de crédit, d'une entreprise d'investissement ou d'un établissement financier,
-l'Autorité de contrôle des assurances et des mutuelles est également autorisée à
-appliquer, en alternative à ces deux méthodes, les méthodes définies aux
-articles R. 213-9 et R. 213-10.
+l'Autorité de contrôle prudentiel est également autorisée à appliquer, en
+alternative à ces deux méthodes, les méthodes définies aux articles R. 213-9 et
+R. 213-10.

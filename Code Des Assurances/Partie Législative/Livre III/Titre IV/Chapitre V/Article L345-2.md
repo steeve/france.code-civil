@@ -13,11 +13,11 @@ dans les comptes consolidés d'une entreprise elle-même soumise à une obligati
 de consolidation en application du présent alinéa ne sont toutefois pas soumises
 à cette obligation.
 
-Lorsque l'Autorité de contrôle des assurances considère que les comptes
-consolidés d'une société de groupe d'assurance ne permettent pas de porter une
-appréciation pertinente sur le respect des règles de surveillance complémentaire
-posées à l'article L. 334-3, ladite autorité dispense cette société de groupe
-d'assurance de l'obligation définie au précédent alinéa.
+Lorsque l'Autorité de contrôle prudentiel et de résolution considère que les
+comptes consolidés d'une société de groupe d'assurance ne permettent pas de
+porter une appréciation pertinente sur le respect des règles de surveillance
+complémentaire posées à l'article L. 334-3, ladite autorité dispense cette
+société de groupe d'assurance de l'obligation définie au précédent alinéa.
 
 Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en
 application de l'article L. 310-1 ou de l'article L. 310-1-1, sociétés de groupe

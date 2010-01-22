@@ -1,6 +1,6 @@
 Article R613-18
 ----
-I. - La Commission bancaire est tenue :
+I. - L'Autorité de contrôle prudentiel est tenue :
 
 1° Lorsqu'elle est informée dans le cadre des articles R. 613-15 et R. 613-17 ;
 
@@ -17,11 +17,11 @@ systèmes auxquels la personne concernée participe et la Banque de France, ains
 que, lorsqu'il s'agit d'un système de règlement et de livraison d'instruments
 financiers, l'Autorité des marchés financiers.
 
-II. - La Commission bancaire informe, dans les mêmes conditions, les autorités
-désignées à cette fin par les Etats membres de la Communauté européenne des
-mesures mentionnées au 1° et au 2° du I prises à l'encontre d'un établissement
-de crédit, d'une entreprise d'investissement ou d'un adhérent d'une chambre de
-compensation qui participe à un système de règlement interbancaire ou de
-règlement et de livraison d'instruments financiers, qui a établi une succursale
-dans un autre Etat membre ou qui y exerce ses activités en libre prestation de
-services.
+II. - L'Autorité de contrôle prudentiel informe, dans les mêmes conditions, les
+autorités désignées à cette fin par les Etats membres de la Communauté
+européenne des mesures mentionnées au 1° et au 2° du I prises à l'encontre d'un
+établissement de crédit, d'une entreprise d'investissement ou d'un adhérent
+d'une chambre de compensation qui participe à un système de règlement
+interbancaire ou de règlement et de livraison d'instruments financiers, qui a
+établi une succursale dans un autre Etat membre ou qui y exerce ses activités en
+libre prestation de services.

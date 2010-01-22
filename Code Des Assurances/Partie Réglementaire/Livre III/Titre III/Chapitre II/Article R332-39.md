@@ -13,10 +13,10 @@ l'article R. 321-1 et aux opérations de réassurance ;
 
 2° D'une majoration forfaitaire égale à 30 % de l'augmentation, constatée au
 cours de l'exercice précédent, des provisions techniques mentionnées au 1°
-ci-dessus. Toutefois, l'Autorité de contrôle des assurances et des mutuelles
-peut, sur demande de l'entreprise accompagnée de toutes justifications utiles,
-accorder dispense totale ou partielle de l'obligation de dépôt ou d'inscription
-en compte afférente à cette majoration.
+ci-dessus. Toutefois, l'Autorité de contrôle prudentiel peut, sur demande de
+l'entreprise accompagnée de toutes justifications utiles, accorder dispense
+totale ou partielle de l'obligation de dépôt ou d'inscription en compte
+afférente à cette majoration.
 
 Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable
-de l'Autorité de contrôle des assurances et des mutuelles.
+de l'Autorité de contrôle prudentiel.

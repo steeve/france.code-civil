@@ -87,8 +87,8 @@ mentionnés ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
 de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
-contrôle des assurances et des mutuelles peut autoriser la mutuelle ou l'union à
-ne pas effectuer les déductions prévues aux a et b.
+contrôle prudentiel peut autoriser la mutuelle ou l'union à ne pas effectuer les
+déductions prévues aux a et b.
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

@@ -1,7 +1,7 @@
 Article R322-11-4
 ----
 Les entreprises mentionnées au 1° de l'article L. 310-2 et au 1° du III de
-l'article L. 310-1-1 communiquent au Comité des entreprises d'assurance, au
+l'article L. 310-1-1 communiquent à l'Autorité de contrôle prudentiel, au
 minimum tous les douze mois, l'identité des actionnaires ou associés qui
 possèdent, directement ou indirectement, au moins 10 % des droits de vote ou du
 capital de l'entreprise ainsi que le montant de ces participations, tel qu'il

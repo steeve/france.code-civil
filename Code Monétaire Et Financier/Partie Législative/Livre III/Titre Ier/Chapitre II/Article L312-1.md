@@ -33,7 +33,7 @@ l'économie, après avis du comité consultatif du secteur financier et du comit
 consultatif de la législation et de la réglementation financières, est
 applicable à tout établissement de crédit. Le contrôle du respect de la charte
 est assuré par la Commission bancaire et relève de la procédure prévue à
-l'article L. 613-15.
+l'article L. 613-34.
 
 Les établissements de crédit ne peuvent limiter les services liés à l'ouverture
 d'un compte de dépôt aux services bancaires de base que dans des conditions

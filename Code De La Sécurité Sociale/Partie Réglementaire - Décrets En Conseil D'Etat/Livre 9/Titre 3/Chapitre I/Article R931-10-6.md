@@ -38,9 +38,9 @@ ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une institution ou union susmentionnées en vue de faciliter l'assainissement et
-la sauvegarde de cette entité, l'Autorité de contrôle des assurances et des
-mutuelles peut autoriser l'institution de prévoyance ou l'union à ne pas
-effectuer les déductions prévues aux deux alinéas précédents.
+la sauvegarde de cette entité, l'Autorité de contrôle prudentiel peut autoriser
+l'institution de prévoyance ou l'union à ne pas effectuer les déductions prévues
+aux deux alinéas précédents.
 
 II.-La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
@@ -113,9 +113,9 @@ ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une institution ou union susmentionnées en vue de faciliter l'assainissement et
-la sauvegarde de cette entité, l'Autorité de contrôle des assurances et des
-mutuelles peut autoriser l'institution de prévoyance ou l'union à ne pas
-effectuer les déductions prévues aux deux alinéas précédents.
+la sauvegarde de cette entité, l'Autorité de contrôle prudentiel peut autoriser
+l'institution de prévoyance ou l'union à ne pas effectuer les déductions prévues
+aux deux alinéas précédents.
 
 En outre, l'institution ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

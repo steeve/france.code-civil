@@ -7,11 +7,10 @@ afférent.
 L'Autorité des marchés financiers notifie sa décision au requérant par lettre
 recommandée avec demande d'avis de réception ou remise en main propre contre
 récépissé dans un délai de trois mois au plus après réception du dossier. Elle
-en informe le Comité des établissements de crédit et des entreprises
-d'investissement et lui transmet ses observations relatives à l'exercice des
-autres services.
+en informe l'Autorité de contrôle prudentiel et lui transmet ses observations
+relatives à l'exercice des autres services.
 
-Le Comité des établissements de crédit et des entreprises d'investissement
-notifie sa décision au requérant dans un délai de deux mois au plus après
-réception, par lui, de la décision d'approbation du programme d'activité et des
-observations de l'Autorité des marchés financiers. Il en informe cette dernière.
+L'Autorité de contrôle prudentiel notifie sa décision au requérant dans un délai
+de deux mois au plus après réception, par lui, de la décision d'approbation du
+programme d'activité et des observations de l'Autorité des marchés financiers.
+Elle en informe cette dernière.

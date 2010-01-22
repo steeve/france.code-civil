@@ -15,8 +15,7 @@ les conseillers maîtres à la Cour des comptes ;
 5° Un membre du Conseil général de l'agriculture, de l'alimentation et des
 espaces ruraux ;
 
-6° Le président de l'Autorité de contrôle des assurances et des mutuelles ou son
-représentant ;
+6° Le président de l'Autorité de contrôle prudentiel ou son représentant ;
 
 7° Un représentant de l'Assemblée permanente des chambres d'agriculture ;
 

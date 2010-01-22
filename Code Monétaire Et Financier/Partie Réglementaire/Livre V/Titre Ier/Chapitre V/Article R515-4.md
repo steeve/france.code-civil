@@ -44,13 +44,13 @@ mentionnées au 2 du I de l'article L. 515-13, émises par la société de créd
 foncier.
 
 IV.-Les parts ou titres de créances qui bénéficient de la meilleure évaluation
-de crédit établie par un organisme externe d'évaluation de crédit reconnu par la
-Commission bancaire conformément à l'article L. 511-44 pour les obligations
-foncières ou autres ressources bénéficiant du privilège mentionnées au 2° du I
-de l'article L. 515-13 du code monétaire et financier peuvent représenter 100 %
-du montant nominal des obligations foncières, et autres ressources bénéficiant
-du privilège mentionnées au 2° du I de l'article L. 515-13, émises par la
-société de crédit foncier.
+de crédit établie par un organisme externe d'évaluation de crédit reconnu par
+l'Autorité de contrôle prudentiel conformément à l'article L. 511-44 pour les
+obligations foncières ou autres ressources bénéficiant du privilège mentionnées
+au 2° du I de l'article L. 515-13 du code monétaire et financier peuvent
+représenter 100 % du montant nominal des obligations foncières, et autres
+ressources bénéficiant du privilège mentionnées au 2° du I de l'article L.
+515-13, émises par la société de crédit foncier.
 
 Au plus tard le 31 décembre 2010, les conditions d'éligibilité de ces actifs
 font l'objet d'un nouvel examen.
