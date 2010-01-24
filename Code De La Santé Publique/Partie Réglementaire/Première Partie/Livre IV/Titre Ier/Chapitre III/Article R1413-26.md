@@ -12,7 +12,7 @@ Le comité comprend, outre son président :
 
 3° Le directeur de la sécurité sociale ou son représentant ;
 
-4° Le directeur général de l'action sociale ou son représentant ;
+4° Le directeur général de la cohésion sociale ou son représentant ;
 
 5° Le directeur de la recherche, des études, de l'évaluation et des statistiques
 ou son représentant ;

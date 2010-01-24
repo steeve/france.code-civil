@@ -14,7 +14,7 @@ son représentant ;
 
 5° Le directeur général des collectivités locales ou son représentant ;
 
-6° Le directeur général de l'action sociale ou son représentant ;
+6° Le directeur général de la cohésion sociale ou son représentant ;
 
 7° Le directeur général de la Caisse des dépôts et consignations ou son
 représentant ;

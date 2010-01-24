@@ -25,7 +25,7 @@ b) Le directeur général de la santé ou son représentant ;
 
 c) Le directeur de la sécurité sociale ou son représentant ;
 
-d) Le directeur général de l'action sociale ou son représentant ;
+d) Le directeur général de la cohésion sociale ou son représentant ;
 
 Le comité national de gestion du fonds est présidé alternativement, par périodes
 d'une année commençant le 1er janvier, par le directeur de l'hospitalisation et

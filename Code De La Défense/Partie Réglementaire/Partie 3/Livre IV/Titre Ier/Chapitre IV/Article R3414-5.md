@@ -7,7 +7,7 @@ fonction militaire et du personnel civil ou son représentant ; ― un directeur
 personnel militaire ou son représentant. b) Au titre du ministère chargé de
 l'emploi : ― le directeur des relations du travail ou son représentant ; ― le
 directeur général de la formation professionnelle ou son représentant ; ― le
-directeur général de l'action sociale ou son représentant ; c) Au titre du
+directeur général de la cohésion sociale ou son représentant ; c) Au titre du
 ministère chargé de l'éducation nationale : ― le directeur de l'enseignement
 scolaire ou son représentant ; d) Au titre du ministère chargé de la jeunesse et
 des sports : ― le directeur de la jeunesse, de l'éducation populaire et de la

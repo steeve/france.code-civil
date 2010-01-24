@@ -11,7 +11,7 @@ b) Le directeur de la sécurité sociale ou son représentant ;
 c) Le directeur de l'hospitalisation et de l'organisation des soins ou son
 représentant ;
 
-d) Le directeur général de l'action sociale ou son représentant ;
+d) Le directeur général de la cohésion sociale ou son représentant ;
 
 e) Le directeur de l'administration générale, du personnel et du budget au
 ministère de la santé ou son représentant ;

@@ -49,7 +49,7 @@ régionale ;
 o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1
 du code du travail ;
 
-p) La chef du service des droits des femmes et de l'égalité au ministère chargé
+p) Le chef du service des droits des femmes et de l'égalité au ministère chargé
 des droits des femmes ;
 
 2° Quatre représentants des organisations professionnelles d'employeurs les plus

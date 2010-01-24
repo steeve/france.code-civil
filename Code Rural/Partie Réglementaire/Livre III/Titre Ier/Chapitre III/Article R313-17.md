@@ -13,7 +13,7 @@ chargé de l'agriculture, ou son représentant ;
 
 c) Le directeur des pêches maritimes et de l'aquaculture ou son représentant ;
 
-d) Le directeur général de l'action sociale ou son représentant ;
+d) Le directeur général de la cohésion sociale ou son représentant ;
 
 e) Le directeur de la direction de l'animation et de la recherche, des études et
 des statistiques ou son représentant ;
