@@ -6,6 +6,10 @@ social et culturel.
 Le conseil économique, social et culturel est composé de représentants des
 groupements professionnels, des syndicats, des organismes et des associations
 qui concourent à la vie économique, sociale ou culturelle de Saint-Barthélemy.
+Le conseil économique, social et culturel comprend en outre des représentants
+d'associations et fondations agissant dans le domaine de la protection de
+l'environnement et des personnalités qualifiées choisies en raison de leur
+compétence en matière d'environnement et de développement durable.
 
 Chaque catégorie d'activité est représentée, au sein du conseil économique,
 social et culturel, par un nombre de conseillers correspondant à l'importance de
