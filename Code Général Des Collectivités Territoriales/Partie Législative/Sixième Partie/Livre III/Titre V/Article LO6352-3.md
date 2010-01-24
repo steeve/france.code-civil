@@ -15,3 +15,7 @@ territorial en application des dispositions du présent chapitre.
 Le président du conseil territorial est le chef des services de la collectivité.
 Il peut, sous sa surveillance et sa responsabilité, donner délégation de
 signature en toute matière aux responsables desdits services.
+
+Le président du conseil territorial peut charger chacun des membres du conseil
+exécutif d'animer et de contrôler un secteur de l'administration de la
+collectivité.

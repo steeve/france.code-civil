@@ -4,7 +4,9 @@ En cas de vacance du siège de président pour quelque cause que ce soit, les
 fonctions de président sont provisoirement exercées par un vice-président, dans
 l'ordre des nominations et, à défaut, par un conseiller territorial désigné par
 le conseil. Il est procédé au renouvellement du conseil exécutif, dans le délai
-d'un mois, selon les modalités prévues à l'article LO 6322-6.
+d'un mois, selon les modalités prévues à l'article LO 6322-6, et sans que les
+dispositions de l'article LO 6321-22 trouvent à s'appliquer à la réunion du
+conseil territorial convoquée à cette fin.
 
 Toutefois, avant ce renouvellement, il est procédé aux élections qui peuvent
 être nécessaires pour compléter le conseil territorial.

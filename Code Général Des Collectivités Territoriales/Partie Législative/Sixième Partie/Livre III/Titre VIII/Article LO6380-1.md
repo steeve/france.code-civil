@@ -8,7 +8,3 @@ institutionnelles relatives à l'outre-mer.
 L'ensemble des actes des institutions de la collectivité est transmis au
 représentant de l'Etat aux fins de contrôle de légalité dans les conditions
 prévues au chapitre II du titre IV.
-
-L'Etat compense intégralement les pertes de recettes résultant pour la
-collectivité de Saint-Martin de l'application des critères de domiciliation
-fiscale définis au 1° du I de l'article LO 6314-4.

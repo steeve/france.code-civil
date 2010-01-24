@@ -5,7 +5,11 @@ social et culturel composé de représentants des groupements professionnels, de
 syndicats, des organismes et des associations qui concourent à la vie
 économique, sociale ou culturelle de Saint-Martin. Le nombre de représentants de
 chaque catégorie d'activité correspond à son importance dans la vie économique,
-sociale et culturelle de Saint-Martin.
+sociale et culturelle de Saint-Martin. Le conseil économique, social et culturel
+comprend en outre des représentants d'associations et fondations agissant dans
+le domaine de la protection de l'environnement et des personnalités qualifiées
+choisies en raison de leur compétence en matière d'environnement et de
+développement durable.
 
 Un arrêté du ministre chargé de l'outre-mer dresse la liste des organismes et
 des activités de la collectivité qui sont représentés au sein du conseil
