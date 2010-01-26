@@ -5,6 +5,9 @@ des propositions d'orientation dans le cadre des voies d'orientation et des
 parcours définis conformément à l'arrêté prévu à l'article D. 341-14, ou de
 redoublement.
 
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de
+classe peut recommander que l'élève suive un dispositif de remise à niveau.
+
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention
 d'interrompre les études en cours de cycle ou avant la présentation au diplôme
 de fin de cycle, le conseil de classe prend toutes dispositions pour les inciter

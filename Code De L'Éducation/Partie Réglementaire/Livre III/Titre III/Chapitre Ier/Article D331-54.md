@@ -4,6 +4,9 @@ Le conseil de la classe réuni sous la présidence du chef d'établissement form
 des propositions d'orientation dans le cadre des voies d'orientation et des
 parcours définis conformément à l'article D. 331-36, ou de redoublement.
 
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de
+classe peut recommander que l'élève suive un dispositif de remise à niveau.
+
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention
 d'interrompre les études en cours de cycle ou avant la présentation au diplôme
 de fin de cycle, le conseil de la classe réuni sous la présidence du chef
