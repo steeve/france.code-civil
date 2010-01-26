@@ -8,22 +8,26 @@ les conditions d'utilisation des fonds lycéens ;
 2° Il est obligatoirement consulté :
 
 a) Sur les questions relatives aux principes généraux de l'organisation des
-études, sur l'organisation du temps scolaire et sur l'élaboration du projet
-d'établissement et du règlement intérieur ;
+études, sur l'organisation du temps scolaire, sur l'élaboration du projet
+d'établissement et du règlement intérieur, ainsi que sur les questions de
+restauration et d'internat ;
 
-b) Sur les modalités générales de l'organisation du travail personnel et du
-soutien des élèves, sur l'information liée à l'orientation et portant sur les
-études scolaires et universitaires, sur les carrières professionnelles ;
+b) Sur les modalités générales de l'organisation du travail personnel, de
+l'accompagnement personnalisé, des dispositifs d'accompagnement des changements
+d'orientation, du soutien et de l'aide aux élèves, des échanges linguistiques et
+culturels en partenariat avec les établissements d'enseignement européens et
+étrangers et sur l'information relative à l'orientation, aux études scolaires et
+universitaires et aux carrières professionnelles ;
 
 c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces
 destinés à la vie lycéenne et sur l'organisation des activités sportives,
 culturelles et périscolaires.
 
-Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont
-portés à la connaissance et, le cas échéant, inscrits à l'ordre du jour du
-conseil d'administration et peuvent faire l'objet d'un affichage conformément
-aux dispositions de l'article 8-1 du décret n° 85-924 du 30 août 1985 relatif
-aux établissements publics locaux d'enseignement.
+Le vice-président du conseil des délégués pour la vie lycéenne présente au
+conseil d'administration les avis et les propositions, ainsi que les comptes
+rendus de séance du conseil des délégués de la vie lycéenne, qui sont, le cas
+échéant, inscrits à l'ordre du jour et peuvent faire l'objet d'un affichage dans
+les conditions prévues à l'article R. 511-7.
 
 Le conseil des délégués pour la vie lycéenne se réunit, sur convocation du chef
 d'établissement, avant chaque séance ordinaire du conseil d'administration. Il
