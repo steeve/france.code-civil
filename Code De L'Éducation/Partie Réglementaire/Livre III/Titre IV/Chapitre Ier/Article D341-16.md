@@ -9,4 +9,6 @@ choix des parents de l'élève ou de l'élève majeur.
 
 Le changement d'établissement en cours de cycle de formation est autorisé par le
 chef d'établissement d'accueil. L'élève est scolarisé dans la même voie
-d'orientation et compte tenu de la formation déjà reçue.
+d'orientation ou dans une voie d'orientation différente, en vertu d'un
+changement prononcé dans les conditions définies au deuxième alinéa de l'article
+D. 341-7 et compte tenu de la formation déjà reçue.

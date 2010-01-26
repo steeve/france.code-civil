@@ -13,5 +13,6 @@ l'élève ou de l'élève majeur.
 
 Le changement d'établissement en cours de cycle de formation est autorisé par
 l'inspecteur d'académie dont relève l'établissement d'accueil. L'élève est
-scolarisé dans la même voie d'orientation et compte tenu de la formation déjà
-reçue.
+scolarisé dans la même voie d'orientation ou dans une voie d'orientation
+différente, en vertu d'un changement prononcé dans les conditions définies à
+l'article D. 331-29 et compte tenu de la formation déjà reçue.
