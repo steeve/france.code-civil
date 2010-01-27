@@ -16,9 +16,9 @@ calculée dans les conditions définies au 1° ;
 
 b) Une cotisation due pour chaque aide familial défini au 2° de l'article L.
 722-10 à partir de l'âge de seize ans ainsi qu'une cotisation due pour le
-conjoint collaborateur d'exploitation ou d'entreprise mentionné à l'article L.
-732-35 ; l'assiette de ces cotisations est déterminée forfaitairement dans des
-conditions fixées par décret ;
+collaborateur d'exploitation ou d'entreprise défini à l'article L. 321-5 ;
+l'assiette de ces cotisations est déterminée forfaitairement dans des conditions
+fixées par décret ;
 
 3° Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise,
 calculée sur la totalité des revenus professionnels ou sur l'assiette

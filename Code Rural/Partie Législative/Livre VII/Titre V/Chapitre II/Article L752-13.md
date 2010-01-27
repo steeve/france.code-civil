@@ -7,7 +7,6 @@ ou le code de la mutualité répondant aux conditions prévues à l'article L.
 752-14.
 
 Les assurés expriment leur choix entre ces organismes ou, à défaut, sont
-affiliés d'office à l'un d'entre eux par le chef du service départemental de
-l'inspection du travail, de l'emploi et de la politique sociale agricoles. Ces
-affiliations d'office sont réparties proportionnellement aux effectifs
+affiliés d'office à l'un d'entre eux par l'autorité administrative compétente.
+Ces affiliations d'office sont réparties proportionnellement aux effectifs
 recueillis dans le département par chacun des organismes assureurs.

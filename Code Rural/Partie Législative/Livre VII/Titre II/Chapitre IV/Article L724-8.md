@@ -1,16 +1,11 @@
 Article L724-8
 ----
-Les agents chargés du contrôle de la prévention contre les accidents du travail
-et les maladies professionnelles instituée par l'article L. 751-48 et affectés
-auprès de l'autorité administrative compétente mentionnée à l'article L. 724-5
-sont agréés par le ministre chargé de l'agriculture et assermentés dans les
-conditions prévues au deuxième alinéa de l'article L. 422-3 du code de la
-sécurité sociale.
-
-Ces agents peuvent se faire présenter les registres et documents relatifs à
-l'hygiène et à la sécurité, et notamment ceux où sont consignés les observations
-et mises en demeure de l'inspecteur du travail et les contrôles et vérifications
-de sécurité.
+Les agents assermentés chargés du contrôle de la prévention des accidents du
+travail et des maladies professionnelles instituée par l'article L. 751-48
+peuvent se faire présenter les registres et documents relatifs à l'hygiène et à
+la sécurité, et notamment ceux où sont consignés les observations et mises en
+demeure de l'inspecteur du travail et les contrôles et vérifications de
+sécurité.
 
 Ils ont qualité pour procéder aux prélèvements mentionnés à l'article L. 724-3.
 

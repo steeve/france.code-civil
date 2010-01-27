@@ -13,16 +13,14 @@ la régularité de la situation des entreprises agricoles et des personnes non
 salariées agricoles au regard des prescriptions du présent code en matière de
 protection sociale.
 
-Les caisses et organismes de mutualité sociale agricole mentionnés à l'alinéa
-précédent sont également autorisés à communiquer aux services de l'inspection du
-travail, de l'emploi et de la politique sociale agricole les renseignements
-qu'ils détiennent, à l'exception des informations à caractère médical, pour les
-besoins des services placés sous l'autorité du ministre chargé de l'agriculture
-en vue de la promotion de l'emploi agricole ainsi que du contrôle de
-l'application de la législation et de la réglementation dans les matières
-suivantes : régime du travail, conventions et accords collectifs de travail,
-emploi, régimes de protection sociale des salariés et non-salariés des
-professions agricoles.
+Les caisses de mutualité sociale agricole et les organismes mentionnés aux
+articles L. 731-31 et L. 752-14 sont autorisés à communiquer aux services
+compétents placés sous l'autorité du ministre chargé de l'agriculture les
+renseignements qu'ils détiennent, à l'exception des informations à caractère
+médical, pour les besoins desdits services en vue de la promotion de l'emploi
+agricole ainsi que du contrôle de l'application de la législation et de la
+réglementation concernant les régimes de protection sociale des salariés et des
+non-salariés des professions agricoles.
 
 Le contenu, l'emploi et les conditions de cette communication sont déterminés
 selon les modalités de l'article 27 de la loi n° 78-17 du 6 janvier 1978

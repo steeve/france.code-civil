@@ -23,8 +23,9 @@ sociale.
 
 II.-Pour l'assurance vieillesse, par une cotisation assise :
 
-a) Sur les rémunérations ou gains perçus par les assurés dans la limite d'un
-plafond, à la charge des employeurs et des assurés ;
+a) Sur les rémunérations ou gains perçus par les assurés dans la limite du
+plafond défini à l'article L. 241-3 du code de la sécurité sociale, à la charge
+des employeurs et des assurés ;
 
 b) Sur la totalité des rémunérations ou gains perçus par les assurés, à la
 charge des employeurs et des salariés.

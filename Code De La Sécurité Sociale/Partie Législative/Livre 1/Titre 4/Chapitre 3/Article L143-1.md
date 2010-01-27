@@ -11,10 +11,9 @@ par le livre IV du présent code et à l'état d'inaptitude au travail ;
 2°) à l'état d'incapacité permanente de travail et notamment au taux de cette
 incapacité, en cas d'accident du travail ou de maladie professionnelle ;
 
-3°) à l'état d'incapacité de travail pour l'application des dispositions du
-livre VII du code rural autres que celles relevant soit du contentieux général
-de la sécurité sociale, soit des juridictions de droit commun en vertu des
-articles 1169, 1234-17 et 1234-25 du code rural ;
+3°) A l'état d'incapacité de travail pour l'application des dispositions du
+livre VII du code rural autres que celles relevant du contentieux général de la
+sécurité sociale ;
 
 4°) aux décisions des caisses régionales d'assurance maladie et des caisses de
 mutualité sociale agricole concernant, en matière d'accident du travail agricole

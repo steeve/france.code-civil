@@ -36,12 +36,11 @@ dans le cas contraire.
 Ils sont désignés pour une durée de trois ans par le premier président de la
 cour d'appel dans le ressort de laquelle le tribunal a son siège sur des listes
 dressées sur proposition des organisations professionnelles les plus
-représentatives intéressées, selon le cas, par le chef du service régional de
-l'inspection du travail, de l'emploi et de la politique sociale agricoles ou par
-le directeur régional des affaires sanitaires et sociales. Leurs fonctions
-peuvent être renouvelées suivant les mêmes formes. En l'absence de liste ou de
-proposition, le premier président de la cour d'appel peut renouveler les
-fonctions d'un ou plusieurs assesseurs pour une nouvelle durée de trois ans.
+représentatives intéressées ou par le directeur régional des affaires sanitaires
+et sociales. Leurs fonctions peuvent être renouvelées suivant les mêmes formes.
+En l'absence de liste ou de proposition, le premier président de la cour d'appel
+peut renouveler les fonctions d'un ou plusieurs assesseurs pour une nouvelle
+durée de trois ans.
 
 Des assesseurs suppléants sont désignés concomitamment dans les mêmes formes.
 
