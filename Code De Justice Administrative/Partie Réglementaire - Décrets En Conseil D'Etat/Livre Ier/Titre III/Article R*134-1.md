@@ -28,4 +28,6 @@ deux échelons précédents, après dix-neuf ans depuis l'entrée dans le corps 
 auditeur.
 
 Les conseillers d'Etat accèdent au 2e échelon après avoir passé cinq ans au
-moins dans le 1er échelon.
+moins dans le 1er échelon. Le temps passé dans un emploi de directeur
+d'administration centrale ou un emploi au moins équivalent est pris en compte
+comme temps de service dans le 1er échelon.
