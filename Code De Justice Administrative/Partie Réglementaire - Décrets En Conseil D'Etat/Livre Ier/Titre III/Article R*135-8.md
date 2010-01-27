@@ -4,10 +4,6 @@ Les membres du Conseil d'Etat peuvent être mis en disponibilité dans les
 conditions prévues à l'article 51 de la loi n° 84-16 du 11 janvier 1984, et
 selon les formes prescrites à l'article R.* 135-2.
 
-La disponibilité ne peut excéder trois années mais, sous réserve des conditions
-posées par l'article 37 du décret n° 86-442 du 14 mars 1986, peut être
-renouvelée une fois pour une durée égale.
-
 La disponibilité ne comporte aucun traitement. Le temps passé dans cette
 position ne compte ni pour la retraite, ni pour l'avancement, ni pour le
 décompte des années de service dans le grade de maître des requêtes ou
