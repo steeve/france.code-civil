@@ -7,15 +7,17 @@ inscrit à un barreau lors de sa cessation d'activité et qu'il a exercé la
 profession pendant douze mois au moins.
 
 Cette allocation n'est toutefois acquise à l'intéressé que si la cessation de
-l'activité a pour cause une maladie contractée ou un accident survenu après
-l'inscription de l'intéressé au tableau ou sur la liste du stage.
+l'activité a pour cause une maladie ou un accident dont les effets invalidants
+interdisant l'exercice de la profession surviennent après l'inscription de
+l'intéressé à la Caisse nationale des barreaux français.
 
 La cessation de l'activité est constatée dans les conditions fixées par les
 statuts de la caisse. Elle doit être totale, ce qui exclut toutes postulation,
 plaidoirie, réception de clientèle et consultation.
 
-Le service de l'allocation cesse lorsque l'intéressé est redevenu apte à exercer
-sa profession ou qu'il a reçu l'allocation pendant trois ans.
+Le service de l'allocation n'est pas interrompu par la cessation de
+l'inscription à un barreau. Ce service cesse lorsque l'intéressé est redevenu
+apte à exercer sa profession ou qu'il a reçu l'allocation pendant trois ans.
 
 Toutefois, dans le cas d'interruption suivie de reprise de travail, il est
 ouvert un nouveau délai de trois ans, dès l'instant où ladite reprise a été d'au

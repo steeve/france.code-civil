@@ -3,8 +3,9 @@ Article R723-56
 Les avocats en état d'incapacité permanente d'exercer leur profession et qui ne
 peuvent prétendre au bénéfice d'une pension de retraite bénéficient, à
 l'expiration du délai de trois ans durant lequel ils ont perçu l'allocation
-temporaire et jusqu'à l'âge de soixante ans, d'une pension d'invalidité égale à
-la moitié de la pension de retraite entière telle que fixée par l'assemblée
+temporaire et jusqu'au dernier jour du trimestre civil au cours duquel ils
+atteignent leur soixantième anniversaire, d'une pension d'invalidité égale à la
+moitié de la pension de retraite entière telle que fixée par l'assemblée
 générale annuelle.
 
 Toutefois, le montant de la pension d'invalidité ne peut être inférieur à celui
