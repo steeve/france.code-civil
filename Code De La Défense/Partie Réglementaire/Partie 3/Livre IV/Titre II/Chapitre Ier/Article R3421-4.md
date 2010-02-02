@@ -2,7 +2,7 @@ Article R3421-4
 ----
 Le président du conseil d'administration est nommé pour une durée de trois ans
 par décret du Président de la République sur proposition du ministre de la
-défense.
+défense. La limite d'âge qui lui est applicable est fixée à soixante-dix ans.
 
 Il est assisté par un vice-président, nommé par arrêté du ministre de la défense
 pour la même durée, parmi les membres du conseil d'administration.
