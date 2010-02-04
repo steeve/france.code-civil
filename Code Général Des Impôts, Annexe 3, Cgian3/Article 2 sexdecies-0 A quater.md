@@ -1,7 +1,7 @@
 Article 2 sexdecies-0 A quater
 ----
-I.-Pour l'application du cinquième alinéa du m du 1° du I de l'article 31 du
-code général des impôts, les conditions prévues au quatrième alinéa du m précité
+I.-Pour l'application du septième alinéa du m du 1° du I de l'article 31 du code
+général des impôts, les conditions prévues au sixième alinéa du m précité
 s'apprécient en tenant compte du montant :
 
 a. Du loyer payé au bailleur par l'organisme locataire ;
