@@ -10,8 +10,8 @@ Le viol est puni de vingt ans de réclusion criminelle :
 à son âge, à une maladie, à une infirmité, à une déficience physique ou
 psychique ou à un état de grossesse, est apparente ou connue de l'auteur ;
 
-4° Lorsqu'il est commis par un ascendant légitime, naturel ou adoptif, ou par
-toute autre personne ayant autorité sur la victime ;
+4° Lorsqu'il est commis par un ascendant ou par toute autre personne ayant sur
+la victime une autorité de droit ou de fait ;
 
 5° Lorsqu'il est commis par une personne qui abuse de l'autorité que lui
 confèrent ses fonctions ;

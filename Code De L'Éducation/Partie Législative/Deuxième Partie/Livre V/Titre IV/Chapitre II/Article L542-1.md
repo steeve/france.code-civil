@@ -6,4 +6,6 @@ d'animation sportive, culturelle et de loisirs et les personnels de la police
 nationale, des polices municipales et de la gendarmerie nationale reçoivent une
 formation initiale et continue, en partie commune aux différentes professions et
 institutions, dans le domaine de la protection de l'enfance en danger. Cette
-formation est dispensée dans des conditions fixées par voie réglementaire.
+formation comporte un module pluridisciplinaire relatif aux infractions
+sexuelles à l'encontre des mineurs et leurs effets. Cette formation est
+dispensée dans des conditions fixées par voie réglementaire.

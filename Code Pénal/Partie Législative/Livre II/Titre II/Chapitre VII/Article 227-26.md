@@ -1,10 +1,10 @@
 Article 227-26
 ----
 L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et
-de [*taux*] 150000 euros d'amende :
+de 150 000 euros d'amende :
 
-1° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par
-toute autre personne ayant autorité sur la victime ;
+1° Lorsqu'elle est commise par un ascendant ou par toute autre personne ayant
+sur la victime une autorité de droit ou de fait ;
 
 2° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui
 confèrent ses fonctions ;

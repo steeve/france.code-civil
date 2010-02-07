@@ -1,12 +1,7 @@
 Article 222-31-1
 ----
-Lorsque le viol ou l'agression sexuelle est commis contre un mineur par une
-personne titulaire sur celui-ci de l'autorité parentale, la juridiction de
-jugement doit se prononcer sur le retrait total ou partiel de cette autorité en
-application des dispositions des articles 378 et 379-1 du code civil.
-
-Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne
-les frères et soeurs mineurs de la victime.
-
-Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette
-question sans l'assistance des jurés.
+Les viols et les agressions sexuelles sont qualifiés d'incestueux lorsqu'ils
+sont commis au sein de la famille sur la personne d'un mineur par un ascendant,
+un frère, une sœur ou par toute autre personne, y compris s'il s'agit d'un
+concubin d'un membre de la famille, ayant sur la victime une autorité de droit
+ou de fait.

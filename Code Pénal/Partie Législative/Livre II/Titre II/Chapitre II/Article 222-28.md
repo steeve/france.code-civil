@@ -5,8 +5,8 @@ et de 100 000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 
-2° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif, ou par
-toute autre personne ayant autorité sur la victime ;
+2° Lorsqu'elle est commise par un ascendant ou par toute autre personne ayant
+sur la victime une autorité de droit ou de fait ;
 
 3° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui
 confèrent ses fonctions ;
