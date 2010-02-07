@@ -83,8 +83,6 @@ diverses :
 
 - troubles addictifs graves ;
 
-- troubles précoces de l'identité de genre ;
-
 - dysharmonies évolutives graves de l'enfance, etc.
 
 Il est essentiel, sur ce terrain, de ne pas étendre à l'excès le cadre des
