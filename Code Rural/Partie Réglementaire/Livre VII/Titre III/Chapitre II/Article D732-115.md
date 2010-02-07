@@ -1,9 +1,5 @@
 Article D732-115
 ----
-Les dispositions des articles D. 732-109 à D. 732-114 s'appliquent aux pensions
-de retraite non salariées agricoles servies à titre personnel dues à compter du
-1er janvier 2009.
-
 En application du dernier alinéa de l'article L. 732-54-1, l'assuré ne peut
 bénéficier de la majoration de pension avant la date d'entrée en jouissance
 qu'il a fixée, lors de sa demande de liquidation auprès des organismes
