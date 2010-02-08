@@ -1,7 +1,8 @@
 Article L3
 ----
-Les prestataires de services postaux non réservés relatifs aux envois de
-correspondance, y compris transfrontalière, doivent être titulaires d'une
-autorisation délivrée dans les conditions prévues à l'article L. 5-1, sauf si
-leur activité se limite à la correspondance intérieure et n'inclut pas la
-distribution.
+Les services postaux portant sur les envois de correspondance intérieure et
+transfrontière sont offerts par tout prestataire de services postaux, sous
+réserve de l'obtention d'une autorisation délivrée par l'Autorité de régulation
+des communications électroniques et des postes dans les conditions prévues à
+l'article L. 5-1. Cette autorisation n'est toutefois pas requise si ces services
+se limitent à la correspondance intérieure et n'incluent pas la distribution.

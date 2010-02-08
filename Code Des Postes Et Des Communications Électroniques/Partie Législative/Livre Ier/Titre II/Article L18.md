@@ -1,7 +1,7 @@
 Article L18
 ----
-Les personnes physiques coupables de l'une des infractions définies à l'article
-L. 17 encourent les peines complémentaires suivantes :
+Les personnes physiques coupables de l'infraction définie à l'article L. 17
+encourent les peines complémentaires suivantes :
 
 a) L'interdiction, pour une durée d'un an au plus, d'exercer l'activité
 professionnelle ou sociale dans l'exercice de laquelle ou à l'occasion de

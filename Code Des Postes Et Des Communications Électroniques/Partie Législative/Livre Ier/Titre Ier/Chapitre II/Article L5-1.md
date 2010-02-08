@@ -2,8 +2,8 @@ Article L5-1
 ----
 L'Autorité de régulation des communications électroniques et des postes est
 chargée de délivrer l'autorisation demandée par les prestataires mentionnés à
-l'article L. 3. L'autorisation est délivrée pour une durée de dix ans. Elle est
-renouvelable. Elle n'est pas cessible.
+l'article L. 3. L'autorisation est délivrée pour une durée de quinze ans. Elle
+est renouvelable. Elle n'est pas cessible.
 
 L'autorité ne peut refuser l'autorisation que par une décision motivée, fondée
 sur des motifs tirés de l'incapacité technique, économique ou financière du
@@ -21,6 +21,14 @@ de vol ou de non-respect des normes de qualité du service, y compris dans les
 cas où plusieurs prestataires sont impliqués, ainsi que les obligations imposées
 au titulaire pour permettre l'exercice du contrôle de son activité postale par
 l'Autorité de régulation des communications électroniques et des postes.
+
+L'Autorité de régulation des communications électroniques et des postes est
+informée par le titulaire de l'autorisation de toute modification susceptible
+d'affecter la pérennité de son exploitation. Le titulaire de l'autorisation
+communique à l'Autorité de régulation des communications électroniques et des
+postes les modalités du dispositif prévu pour assurer la continuité du
+traitement des envois de correspondance en cas de redressement judiciaire ou de
+liquidation judiciaire.
 
 Un décret en Conseil d'Etat précise les conditions et les modalités
 d'application du présent article et notamment les normes de qualité du service
