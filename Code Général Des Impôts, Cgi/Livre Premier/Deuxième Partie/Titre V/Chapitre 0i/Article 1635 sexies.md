@@ -19,8 +19,17 @@ l'article 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ;
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 %
 de leur montant, en raison des contraintes de desserte de l'ensemble du
 territoire national et de participation à l'aménagement du territoire qui
-s'imposent à cet exploitant. L'abattement ne donne pas lieu à compensation par
+s'imposent à cet exploitant.L'abattement ne donne pas lieu à compensation par
 l'Etat ;
+
+Chaque année, à partir de l'exercice 2011, le taux des abattements mentionnés au
+premier alinéa du présent 3° est fixé, dans la limite de 95 %, de manière à ce
+que le produit de ces abattements contribue au financement du coût du maillage
+territorial complémentaire de La Poste tel qu'il est évalué par l'Autorité de
+régulation des communications électroniques et des postes, conformément au IV de
+l'article 6 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du
+service public de la poste et à France Télécom et dans des conditions définies
+par décret en Conseil d'Etat ;
 
 3° bis En ce qui concerne la cotisation sur la valeur ajoutée des entreprises,
 la valeur ajoutée retenue pour l'application de l'article 1586 ter fait l'objet
@@ -35,8 +44,8 @@ produit des impositions directes locales et de leurs taxes additionnelles ;
 5° Les règles relatives au contrôle, au recouvrement et au contentieux des
 impositions directes locales ainsi que les dispositions de l'article 1641 sont
 applicables. Toutefois, pour les impositions acquittées par La Poste, le taux
-mentionné au I de cet article est fixé à 1,4 % et les taux mentionnés au II du
-même article sont fixés à 0,5 % ;
+mentionné au I de cet article est fixé à 1, 4 % et les taux mentionnés au II du
+même article sont fixés à 0, 5 % ;
 
 6° Le produit des cotisations afférentes aux impositions visées au I, diminué de
 la fraction des cotisations afférentes aux taxes mentionnées aux articles 1520

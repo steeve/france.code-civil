@@ -135,7 +135,14 @@ dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 10° Les travaux de construction, d'aménagement, de réparation et d'entretien des
 monuments, cimetières ou sépultures commémoratifs des combattants, héros,
 victimes ou morts des guerres, effectués pour les collectivités publiques et les
-organismes légalement constitués agissant sans but lucratif.
+organismes légalement constitués agissant sans but lucratif ;
+
+11° Les prestations de services et les livraisons de biens accessoires à ces
+prestations, à l'exception des transports de personnes et télécommunications,
+qui relèvent du service universel postal tel que défini par l'article L. 1 du
+code des postes et communications électroniques, effectuées par le prestataire
+en France du service universel postal tel que désigné à l'article L. 2 du même
+code.
 
 5. (Opérations immobilières) :
 
