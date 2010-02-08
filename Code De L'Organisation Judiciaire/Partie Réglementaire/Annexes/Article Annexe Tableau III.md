@@ -63,10 +63,8 @@ Amiens
 
 Amiens.
 
-Cour d'appel d'Angers
+Cour d'appel d'Angers Maine-et-Loire
 
-
-Maine-et-Loire
 
 Angers
 
@@ -79,10 +77,8 @@ Le Mans
 
 Allonnes.
 
-Cour d'appel de Bordeaux
+Cour d'appel de Bordeaux Charente
 
-
-Charente
 
 Angoulême
 
@@ -102,28 +98,22 @@ Bordeaux
 
 Bordeaux-Bastide, Bordeaux-Nord.
 
-Cour d'appel de Bourges
+Cour d'appel de Bourges Cher
 
-
-Cher
 
 Bourges
 
 Vierzon.
 
-Cour d'appel de Caen
+Cour d'appel de Caen Calvados
 
-
-Calvados
 
 Caen
 
 Hérouville-Saint-Clair.
 
-Cour d'appel de Chambéry
+Cour d'appel de Chambéry Haute-Savoie
 
-
-Haute-Savoie
 
 Thonon-les-Bains
 
@@ -141,10 +131,8 @@ Chambéry
 
 Aix-les-Bains, Chambéry.
 
-Cour d'appel de Colmar
+Cour d'appel de Colmar Bas-Rhin
 
-
-Bas-Rhin
 
 Strasbourg
 
@@ -162,9 +150,7 @@ Mulhouse
 
 Mulhouse.
 
-Cour d'appel de Dijon
-
-Côte-d'Or
+Cour d'appel de Dijon Côte-d'Or
 
 
 Dijon
@@ -183,10 +169,8 @@ Mâcon
 
 Mâcon.
 
-Cour d'appel de Douai
+Cour d'appel de Douai Nord
 
-
-Nord
 
 Avesnes-sur-Helpe
 
@@ -219,10 +203,8 @@ Boulogne-sur-Mer
 
 Calais.
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Fort-de-France Guyane
 
-
-Guyane
 
 Cayenne
 
@@ -235,10 +217,8 @@ Fort-de-France
 
 Fort-de-France.
 
-Cour d'appel de Grenoble
+Cour d'appel de Grenoble Drôme
 
-
-Drôme
 
 Valence
 
@@ -256,10 +236,8 @@ Vienne
 
 Villefontaine.
 
-Cour d'appel de Limoges
+Cour d'appel de Limoges Corrèze
 
-
-Corrèze
 
 Brive-la-Gaillarde
 
@@ -272,10 +250,8 @@ Limoges
 
 Limoges.
 
-Cour d'appel de Lyon
+Cour d'appel de Lyon Loire
 
-
-Loire
 
 Saint-Etienne
 
@@ -288,10 +264,8 @@ Lyon
 
 Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 
-Cour d'appel de Metz
+Cour d'appel de Metz Moselle
 
-
-Moselle
 
 Metz
 
@@ -302,10 +276,8 @@ Sarreguemines
 
 Forbach.
 
-Cour d'appel de Montpellier
+Cour d'appel de Montpellier Aude
 
-
-Aude
 
 Narbonne
 
@@ -323,28 +295,22 @@ Montpellier
 
 Lunel, Montpellier (La Paillade).
 
-Cour d'appel de Nancy
+Cour d'appel de Nancy Meurthe-et-Moselle
 
-
-Meurthe-et-Moselle
 
 Nancy
 
 Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
 
-Cour d'appel de Nîmes
+Cour d'appel de Nîmes Gard
 
-
-Gard
 
 Nîmes
 
 Bagnols-sur-Cèze, Nîmes.
 
-Cour d'appel d'Orléans
+Cour d'appel d'Orléans Indre-et-Loire
 
-
-Indre-et-Loire
 
 Tours
 
@@ -364,10 +330,8 @@ Orléans
 
 Orléans.
 
-Cour d'appel de Paris
+Cour d'appel de Paris Essonne
 
-
-Essonne
 
 Evry
 
@@ -407,19 +371,15 @@ Créteil
 
 Champigny-sur-Marne.
 
-Cour d'appel de Poitiers
+Cour d'appel de Poitiers Charente-Maritime
 
-
-Charente-Maritime
 
 La Rochelle
 
 La Rochelle.
 
-Cour d'appel de Reims
+Cour d'appel de Reims Ardennes
 
-
-Ardennes
 
 Charleville-Mézières
 
@@ -439,9 +399,7 @@ Reims
 
 Reims.
 
-Cour d'appel de Rennes
-
-Côtes-d'Armor
+Cour d'appel de Rennes Côtes-d'Armor
 
 [Guingamp
 
@@ -456,21 +414,16 @@ Loire-Atlantique
 
 Nantes
 
-Nantes, Nantes-Rezé.
+Châteaubriant.
 
-Cour d'appel de Riom
+Cour d'appel de Riom Allier
 
-
-Allier
 
 Montluçon
 
 Montluçon.
 
-Cour d'appel de Rouen
-
-
-Eure
+Cour d'appel de Rouen Eure
 
 [Bernay
 
@@ -496,10 +449,8 @@ Rouen
 
 Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 
-Cour d'appel de Toulouse
+Cour d'appel de Toulouse Haute-Garonne
 
-
-Haute-Garonne
 
 Toulouse
 
@@ -512,10 +463,8 @@ Castres
 
 Mazamet.
 
-Cour d'appel de Versailles
+Cour d'appel de Versailles Eure-et-Loir
 
-
-Eure-et-Loir
 
 Chartres
 
