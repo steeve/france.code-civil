@@ -12,7 +12,7 @@ les conseillers maîtres à la Cour des comptes ;
 
 4° Un représentant du ministre chargé du budget ;
 
-5° Un membre du Conseil général de l'agriculture, de l'alimentation et des
+5° Un membre du Conseil général de l'alimentation, de l'agriculture et des
 espaces ruraux ;
 
 6° Le président de l'Autorité de contrôle prudentiel ou son représentant ;

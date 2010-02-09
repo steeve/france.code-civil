@@ -24,7 +24,7 @@ l'agriculture ;
 8° Le chef du bureau chargé de la protection animale du ministère de
 l'agriculture ;
 
-9° Le vice-président du Conseil général de l'agriculture, de l'alimentation et
+9° Le vice-président du Conseil général de l'alimentation, de l'agriculture et
 des espaces ruraux ;
 
 10° Deux membres de l'enseignement supérieur agronomique ou vétérinaire ;
