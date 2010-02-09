@@ -1,8 +1,5 @@
 Article Annexe (2) à l'article R511-9
 ----
-NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT ET
-TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
-
 N°
 
 
@@ -21,1956 +18,767 @@ Capacité de l'activité
 
 Coef.
 
-1611
+1321
 
-Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %,
-nitrique à plus de 20 % mais à moins de 70 %, phosphorique à plus de 10 %,
-sulfurique à plus de 25 %, anhydride phosphorique (emploi ou stockage de).
+Substances et préparations explosibles (emploi ou stockage de) à l'exclusion des
+poudres et explosifs et des substances visées explicitement ou par famille par
+d'autres rubriques.
+
+La quantité susceptible d'être présente dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 250 t
+1. supérieure à 10 t
+
+
+AS
+
+5
+
+1. supérieure à 10 t
+
+6
+
+2. supérieure à 500 kg, mais inférieure ou égale à 10 t
+
+
+A
+
+5
+
+2. supérieure à 500 kg, mais inférieure ou égale à 10 t
+
+2
+
+1330
+
+Nitrate d'ammonium (stockage de).
+
+1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
+la teneur en azote due au nitrate d'ammonium est :
+
+-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
+substances combustibles ;
+
+-supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
+combustibles.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) supérieure ou égale à 2 500 t
+
+
+AS
+
+6
+
+a) supérieure ou égale à 2 500 t
+
+6
+
+b) supérieure ou égale à 350 t, mais inférieure à 2 500 t
+
+
+A
+
+3
+
+b) supérieure à 350 t, mais inférieure à 2 500 t
+
+3
+
+c) Supérieure ou égale à 100 t, mais inférieure à 350 t
+
+
+DC
+
+2. Solutions chaudes de nitrates d'ammonium dont la concentration en nitrate
+d'ammonium est supérieure à 80 % en poids.
+
+2. La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) Supérieure ou égale à 2 500 t
+
+
+AS
+
+6
+
+a) supérieure ou égale à 2 500 t
+
+6
+
+b) Supérieure ou égale à 350 t, mais inférieure à 2 500 t
+
+
+A
+
+3
+
+b) supérieure à 350 t, mais inférieure à 2 500 t
+
+3
+
+c) Supérieure ou égale à 100 t, mais inférieure à 350 t
+
+
+DC
+
+1331
+
+Engrais solides simples et composés à base de nitrate d'ammonium correspondant
+aux spécifications du règlement européen n o 2003/2003 du Parlement européen et
+du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
+équivalente NF U 42-001 (stockage de) :
+
+I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une
+décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium
+avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au
+nitrate d'ammonium est :
+
+- de 15,75 % en poids ou moins sans limitation de teneur en matières
+combustibles ;
+
+- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum
+0,4 % de matières organiques ou combustibles au total, soit sont conformes aux
+exigences de l'annexe III-2 (*) du règlement européen.
+
+Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon
+le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
+(voir Recommandations des Nations unies relatives au transport des marchandises
+dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
+
+II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
+composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse)
+dans lesquels la teneur en azote due au nitrate d'ammonium est :
+
+- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
+III-2 (*) du règlement européen (**) ;
+
+- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de
+sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du
+règlement européen.
+
+La quantité totale d'engrais répondant à au moins un des deux critères I ou II
+ci-dessus susceptible d'être présente dans l'installation étant :
+
+La quantité totale d'engrais répondant à au moins un des deux critères I ou II
+ci-contre susceptible d'être présente dans l'installation étant :
+
+a) Supérieure ou égale à 5 000 t
+
+
+AS
+
+4
+
+a) supérieure ou égale à 5 000 t
+
+6
+
+b) Supérieure ou égale à 1 250 t, mais inférieure à 5 000 t
+
+
+A
+
+2
+
+b) supérieure à 1 250 t mais inférieure à 5 000 t
+
+3
+
+c) Supérieure ou égale à 500 t, mais inférieure à 1 250 t
+
+
+DC
+
+d) Inférieure à 500 t comportant une quantité en vrac d'engrais, dont la teneur
+en azote due au nitrate d'ammonium est supérieure à 28 % en poids, supérieure ou
+égale à 250 t
+
+
+DC
+
+III.-Engrais simples et composés solides à base de nitrate d'ammonium ne
+répondant pas aux critères I ou II (engrais simples et engrais composés non
+susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur
+en azote due au nitrate d'ammonium est inférieure à 24,5 %).
+
+La quantité totale d'engrais susceptible d'être présente dans l'installation
+étant supérieure ou égale à 1 250 t
+
+
+DC
+
+Note-1. Concernant les engrais azotes simples et les engrais composés azotés
+binaires (NP ou NK) ou ternaires (NPK), ne sont à prendre en compte que les
+engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais
+azotés non à base de nitrates (ex : urée) ne sont pas comptabilisés.
+
+2.L'identification d'un engrais à base de nitrate peut se faire par la mention
+de l'azote nitrique dans les documents commerciaux.
+
+(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
+(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n°
+2003/2003.
+
+(**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à
+base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate
+d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées
+sont du type dolomie, calcaire et/ou carbonate de calcium dont la pureté est
+d'au moins 90 %.
+
+1332
+
+Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux
+engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant
+pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2
+(**) du règlement européen n° 2003/2003 du Parlement européen et du Conseil du
+13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U
+42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du
+règlement européen n° 2003/2003 ou à la norme française équivalente NF U 42-001
+(stockage de).
+
+Cette rubrique s'applique :
+
+- aux matières rejetées ou écartées au cours du processus de fabrication, au
+nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
+simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
+d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
+à une installation de stockage temporaire ou à une usine de retraitement pour
+subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être
+utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
+rubriques 1330 et 1331-II ;
+
+- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
+exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
+
+- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
+satisfont pas aux exigences de l'annexe III-2 (**).
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) supérieure ou égale à 50 t
+
+
+AS
+
+6
+
+a) supérieure ou égale à 50 t
+
+6
+
+b) supérieure ou égale à 10 t mais inférieure à 50 t
+
+
+A
+
+3
+
+b) supérieure ou égale à 10 t mais inférieure à 50 t
+
+3
+
+(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à
+base de nitrate d'ammonium et à forte teneur en azote du règlement européen n°
+2003/2003. (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la
+section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement
+européen n° 2003/2003.
+
+1410
+
+Gaz inflammables (fabrication industrielle de) par distillation, pyrogénisation,
+etc., désulfuration de gaz inflammables à l'exclusion de la production de
+méthane par traitement des effluents urbains ou des déchets et des gaz visés
+explicitement par d'autres rubriques.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure ou égale à 50 t
+
+
+AS
+
+4
+
+1. supérieure ou égale à 200 t
+
+10
+
+2. inférieure à 50 t
+
+
+A
+
+3
+
+2. inférieure à 200 t
+
+6
+
+1411
+
+Gazomètres et réservoirs de gaz comprimés renfermant des gaz inflammables (à
+l'exclusion des gaz visés explicitement par d'autres rubriques)
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. Pour le gaz naturel :
+
+1. Pour le gaz naturel
+
+a) supérieure ou égale à 200 t
+
+
+AS
+
+4
+
+a) supérieure ou égale à 200 t
+
+6
+
+b) supérieure ou égale à 10 t, mais inférieure à 200 t
+
+
+A
+
+2
+
+b) supérieure ou égale à 10 t, mais inférieure à 200 t
+
+3
+
+c) supérieure ou égale à 1 t, mais inférieure à 10 t
+
+
+D
+
+2. Pour les autres gaz :
+
+2. Pour les autres gaz
+
+a) supérieure ou égale à 50 t
+
+
+AS
+
+4
+
+a) supérieure ou égale à 50 t
+
+6
+
+b) supérieure ou égale à 10 t, mais inférieure à 50 t
+
+
+A
+
+2
+
+b) supérieure ou égale à 10 t, mais inférieure à 50 t
+
+3
+
+c) supérieure ou égale à 1 t, mais inférieure à 10 t
+
+
+D
+
+1412
+
+Gaz inflammables liquefiés (stockage en réservoirs manufacturés de), à
+l'exception de ceux visés explicitement par d'autres rubriques de la
+nomenclature ;
+
+Les gaz sont maintenus liquéfiés à une température telle que la pression absolue
+de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou
+cryogéniques) ou sous pression quelle que soit la température
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 200 t
+
+
+AS
+
+4
+
+1. supérieure ou égale à 200 t
+
+6
+
+2. La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) supérieure ou égale à 50 t
+
+
+A
+
+2
+
+2. supérieure ou égale à 50 t, mais inférieure à 200 t
+
+3
+
+b) supérieure à 6 t, mais inférieure à 50 t
+
+
+DC
+
+1413
+
+Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs
+alimentant des moteurs, ou autres appareils, de véhicules ou engins de transport
+fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le
+débit total en sortie du système de compression étant :
+
+1. Supérieur ou égal à 2 000 m³/h ou si la masse totale de gaz contenu dans
+l'installation est supérieure à 10 t
 
 
 A
 
 1
 
-2. supérieure ou égale à 50 t, mais inférieure à 250 t
+2. Supérieur ou égal à 80 m³/h, mais inférieur à 2 000 m³/h, ou si la masse de
+gaz contenu dans l'installation est supérieure à 1 t
+
+
+DC
+
+Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
+pression de 101,325 kPa.
+
+1414
+
+Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
+
+1. installations de remplissage de bouteilles ou conteneurs
+
+
+A
+
+1
+
+1.
+
+4
+
+2. installations de chargement ou déchargement desservant un dépôt de gaz
+inflammables soumis à autorisation
+
+
+A
+
+1
+
+3. installations de remplissage de réservoirs alimentant des moteurs ou autres
+appareils d'utilisation comportant des organes de sécurité (jauges et soupapes)
+
+
+DC
+
+1415
+
+Hydrogène (fabrication industrielle de)
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure ou égale à 50 t
+
+
+AS
+
+2
+
+1. supérieure ou égale à 50 t
+
+10
+
+2. inférieure à 50 t
+
+
+A
+
+2
+
+2. inférieure à 50 t
+
+6
+
+1416
+
+Hydrogène (stockage ou emploi de l')
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 50 t
+
+1. supérieure ou égale à 50 t
+
+
+AS
+
+2
+
+6
+
+2. supérieure ou égale à 1 t, mais inférieure à 50 t
+
+
+A
+
+2
+
+3. supérieure ou égale à 100 kg, mais inférieure à 1 t
 
 
 D
 
-1612
+1417
 
-Acide chlorosulfurique, oléums (fabrication industrielle, emploi ou stockage d')
+Acétylène (fabrication de l') par action de l'eau sur le carbure de calcium
 
-A. Fabrication industrielle
+1. Pour l'obtention d'acétylène dissous, la quantité susceptible d'être présente
+dans l'installation étant :
+
+1. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 50 t
+
+a) supérieure ou égale à 50 t
+
+
+AS
+
+2
+
+10
+
+b) inférieure à 50 t
+
+
+A
+
+2
+
+2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à
+2,5 × 10 5 Pa
+
+
+A
+
+1
+
+3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à
+2,5 × 10 5 Pa lorsque le volume de gaz emmagasiné (calculé à la température de
+15 o C et à la pression de 10 5 Pa) est supérieure à 1 200 l
+
+
+A
+
+1
+
+1418
+
+Acétylène (stockage ou emploi de l')
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure ou égale à 50 t
+
+
+AS
+
+2
+
+1. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 50 t
+
+6
+
+2. supérieure ou égale à 1 t, mais inférieure à 50 t
+
+
+A
+
+2
+
+3. supérieure ou égale à 100 kg, mais inférieure à 1 t
+
+
+D
+
+1419
+
+Oxyde d'éthylène ou de propylène (fabrication, stockage ou emploi de l')
+
+A. Fabrication
 
 A. La quantité totale susceptible d'être présente dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 500 t
+1. supérieure ou égale à 50 t
 
 
 AS
 
-3
+6
 
-1. supérieure ou égale à 500 t
+1. supérieure ou égale à 50 t
 
 10
 
-2. inférieure à 500 t
+2. inférieure à 50 t
 
 
 A
 
-1
+3
 
-2. inférieure à 500 t
+2. inférieure à 50 t
 
 6
 
-B. Emploi ou stockage
+B. Stockage ou emploi
 
 B. La quantité totale susceptible d'être présente dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 500 t
+1. supérieure ou égale à 50 t
 
 
 AS
 
-3
+4
 
-1. supérieure ou égale à 500 t
-
-10
-
-2. supérieure ou égale à 50 t, mais inférieure à 500 t
-
-
-A
-
-1
-
-2. supérieure ou égale à 50 t, mais inférieure à 500 t
+1. supérieure ou égale à 50 t
 
 6
 
-3. supérieure ou égale à 3 t, mais inférieure à 50 t
-
-
-D
-
-1630
-
-Soude ou potasse caustique (fabrication industrielle, emploi ou stockage de
-lessives de)
-
-A. Fabrication industrielle de
-
-
-A
-
-1
-
-A. Quelle que soit la capacité
-
-6
-
-B. Emploi ou stockage de lessives de
-
-Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de
-potassium.
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-1. supérieure à 250 t
-
-
-A
-
-1
-
-2. supérieure à 100 t, mais inférieure ou égale à 250 t
-
-
-D
-
-1631
-
-Carbonate de sodium ou carbonate de potassium (fabrication industrielle du)
-
-
-A
-
-1
-
-
-Quelle que soit la capacité
-
-3
-
-1700
-
-Substances radioactives (définitions et règles de classement des)
-
-Définitions :
-
-Les termes "substance radioactive", "activité", "radioactivité", "source
-radioactive non scellée" et "source radioactive scellée" sont définis dans
-l'annexe 13-7 de la première partie du code de la santé publique.
-
-Règles de classement :
-
-1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au
-titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un
-établissement industriel ou commercial, dont une installation au moins est
-soumise à autorisation au titre d'une autre rubrique de la nomenclature.
-
-2° A chaque radionucléide est associé un "seuil d'exemption" (en Bq), défini en
-application de l'article L. 1333-4 du code de la santé publique à l'annexe 13-8
-de la première partie de ce code.
-
-Pour les besoins des présentes règles de classement, la valeur de 1 000 Bq est
-utilisée pour les radionucléides non mentionnés par les dispositions
-précédentes.
-
-3° Pour une installation dans laquelle un ou plusieurs radionucléides sont
-utilisés, le rapport Q (sans dimension) est calculé d'après la formule :
-
-Q = Σ (Ai / Aexi)
-
-dans laquelle :
-
-Ai représente l'activité totale (en Bq) du radionucléide i
-
-Aexi représente le seuil d'exemption en activité du radionucléide i
-
-1715
-
-Substances radioactives (préparation, fabrication, transformation,
-conditionnement, utilisation, dépôt, entreposage ou stockage de) sous forme de
-sources radioactives, scellées ou non scellées à l'exclusion des installations
-mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées
-à l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence
-et à la sécurité en matière nucléaire et des installations nucléaires de base
-secrètes telles que définies par l'article 6 du décret n° 2001-592 du 5 juillet
-2001.
-
-1. Le rapport Q tel que défini au 3°) de la rubrique 1700 de la nomenclature
-étant :
-
-1. La valeur de Q est égale ou supérieure à 10 4
-
-
-A
-
-1
-
-a) supérieure ou égal à 10 6
-
-3
-
-b) supérieure ou égal à 10 4
-
-1
-
-2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10 4
-
-
-D
-
-1735
-
-Substances radioactives (dépôt, entreposage ou stockage de) sous forme de
-résidus solides de minerai d'uranium, de thorium ou de radium, ainsi que leurs
-produits de traitement ne contenant pas d'uranium enrichi en isotope 235 et dont
-la quantité totale est supérieure à 1 tonne
+2. supérieure ou égale à 5 t, mais inférieure à 50 t
 
 
 A
 
 2
 
-
-La quantité étant supérieure ou égale à 1 tonne
-
-5
-
-1810
-
-Substances ou préparations réagissant violemment au contact de l'eau
-(fabrication, emploi ou stockage des), à l'exclusion des substances et
-préparations visées explicitement ou par famille par d'autres rubriques de la
-nomenclature
-
-A. Fabrication
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-1. supérieure ou égale à 500 t
-
-10
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-2. supérieure ou égale à 100 t mais inférieure à 500 t
-
-6
-
-1. supérieure ou égale à 500 t
-
-
-AS
+2. supérieure ou égale à 5 t, mais inférieure à 50 t
 
 3
 
-B. Emploi ou stockage
-
-2. supérieure ou égale à 100 t, mais inférieure à 500 t
-
-
-A
-
-1
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-3. supérieure ou égale à 2 t, mais inférieure à 100 t
+3. supérieure ou égale à 500 kg, mais inférieure à 5 t
 
 
 D
 
-1. supérieure ou égale à 500 t
+1420
 
-6
-
-2. supérieure ou égale à 100 t mais inférieure à 500 t
-
-3
-
-1820
-
-Substances ou préparations dégageant des gaz toxiques au contact de l'eau
-(fabrication, emploi ou stockage des), à l'exclusion des substances et
-préparations visées explicitement ou par famille par d'autres rubriques de la
-nomenclature
-
-A. Fabrication
+Amines inflammables liquéfiées (emploi ou stockage d') :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-1. supérieure ou égale à 200 t
-
-10
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-2. supérieure ou égale à 50 t mais inférieure à 200 t
-
-6
-
-1. supérieure ou égale à 200 t
+1. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 200 t
 
 
 AS
 
-6
-
-B. Emploi ou stockage
-
-2. supérieure ou égale à 50 t, mais inférieure à 200 t
-
-
-A
-
-3
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-3. supérieure ou égale à 2 t, mais inférieure à 50 t
-
-
-D
+4
 
 1. supérieure ou égale à 200 t
 
 6
 
-2. supérieure ou égale à 50 t mais inférieure à 200 t
-
-3
-
-2101
-
-Bovins (activité d'élevage, transit, vente, etc. de).
-
-1. élevage de veaux de boucherie et / ou bovins à l'engraissement ; transit et
-vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à
-l'exclusion des rassemblements occasionnels :
-
-a) plus de 400 animaux
-
-
-A
-
-1
-
-b) de 201 à 400 animaux
-
-
-DC
-
-c) de 50 à 200 animaux
-
-
-D
-
-2. élevage de vaches laitières et / ou mixtes :
-
-a) plus de 100 vaches
-
-
-A
-
-1
-
-b) de 50 à 100 vaches
-
-
-D
-
-3. élevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement
-destiné à l'alimentation des veaux) :
-
-à partir de 100 vaches
-
-
-D
-
-4. transit et vente de bovins, y compris les marchés et centres d'allotement,
-lorsque la présence des animaux est inférieure ou égale à 24 heures, à
-l'exclusion des rassemblements occasionnels :
-
-
-Capacité égale ou supérieure à 50 places
-
-D
-
-2102
-
-Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou en
-plein air :
-
-1. Plus de 450 animaux-équivalents
-
-
-A
-
-3
-
-2. De 50 à 450 animaux-équivalents
-
-
-D
-
-Nota :
-
--Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en
-élevage de multiplication ou sélection comptent pour un animal-équivalent,
-
--Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles
-utilisés pour la reproduction) comptent pour trois animaux-équivalents,
-
--Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
-ou sélection comptent pour 0, 2 animal-équivalent.
-
-2110
-
-Lapins (activité d'élevage, transit, vente, etc., de).
-
-1. plus de 20 000 animaux sevrés
-
-
-A
-
-1
-
-2. Entre 3 000 et 20 000 animaux
-
-
-D
-
-2111 (1)
-
-Volailles, gibier à plumes (activité d'élevage, vente, etc. de) à l'exclusion
-d'activités spécifiques visées à d'autres rubriques
-
-1. plus de 30 000 animaux-équivalents
-
-
-A
-
-3
-
-2. de 20 001 à 30 000 animaux-équivalents
-
-
-DC
-
-3. de 5 000 à 30 000 animaux-équivalents
-
-
-D
-
-Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs
-suivantes exprimées en animaux-équivalents :
-
-1. caille = 0,125
-
-2. pigeon, perdrix = 0,25
-
-3. coquelet = 0,75
-
-4. poulet léger = 0,85
-
-5. poule, poulet standard, poulet label, poulet biologique, poulette, poule
-pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
-
-6. poulet lourd = 1,15
-
-7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2
-
-8. dinde légère = 2,20
-
-9. dinde médium, dinde reproductrice, oie = 3
-
-10. dinde lourde = 3,50
-
-11. palmipèdes gras en gavage = 7
-
-2112
-
-
-Couvoirs
-
-Capacité logeable d'eau moins 100 000 œufs
-
-
-D
-
-2113
-
-Carnassiers à fourrure (établissements d'élevage, vente, transit, etc.,
-d'animaux)
-
-1. plus de 2 000 animaux
-
-
-A
-
-1
-
-2. de 100 à 2 000 animaux
-
-
-D
-
-2120
-
-Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de) à
-l'exclusion des établissements de soins et de toilettage et des rassemblements
-occasionnels tels que foires, expositions et démonstrations canines.
-
-1. plus de 50 animaux
-
-
-A
-
-1
-
-2. de 10 à 50 animaux
-
-
-D
-
-Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
-
-2130
-
-
-Piscicultures
-
-1. piscicultures d'eau douce (à l'exclusion des étangs empoissonnés, où
-l'élevage est extensif, sans nourrissage ou avec apport de nourriture
-exceptionnel), la capacité de production étant supérieure à 20 t/an
-
-
-A
-
-3
-
-2. piscicultures d'eau de mer, la capacité de production étant :
-
-a) supérieure à 20 t/an
-
-
-A
-
-3
-
-b) supérieure à 5 t/an, mais inférieure ou égale à 20 t/an
-
-
-D
-
-2140
-
-Animaux d'espèces non domestiques (installations fixes et permanentes de
-présentation au public de), à l'exclusion des magasins de vente au détail et des
-installations présentant au public des animaux d'espèces non domestiques
-correspondant aux activités suivantes :
-
--présentation de poissons et d'invertébrés aquatiques, les capacités cumulées
-des aquariums et des bassins présentés au public étant inférieures à 10 000
-litres de volume total brut ;
-
--présentation au public d'animaux dont les espèces figurent dans la liste prévue
-par l'article R. 413-6 du code de l'environnement ;
-
--présentation au public d'arthropodes.
+2. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure à 200 kg, mais inférieure à 200 t
 
 
 A
 
 2
 
-Nota : sont visées les installations présentes sur un même site au moins 90
-jours par an consécutifs ou non et dont l'activité de présentation au public est
-d'au moins 7 jours par an sur ce site
-
-2150
-
-Verminières (élevage de larves de mouches, asticots)
-
-
-A
+2. supérieure à 200 kg, mais inférieure à 200 t
 
 3
 
-2160
-
-Silos et installations de stockage de céréales, grains, produits alimentaires ou
-tout produit organique dégageant des poussières inflammables, y compris les
-stockages sous tente ou structure gonflable.
-
-a) si le volume total de stockage est supérieur à 15 000 m³
-
-
-A
-
-3
-
-b) si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou
-égal à 15 000 m³
-
-
-DC
-
-2170
-
-Engrais, amendements et supports de culture (fabrication des) à partir de
-matières organiques, à l'exclusion des rubriques 2780 et 2781 :
-
-1. Lorsque la capacité de production est supérieure ou égale à 10 t/j
-
-
-A
-
-3
-
-2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10
-t/j
+3. La quantité totale susceptible d'être présente dans l'installation étant
+inférieure ou égale à 200 kg
 
 
 D
 
-2171
+1430
 
-Fumiers, engrais et supports de culture (dépôts de) renfermant des matières
-organiques et n'étant pas l'annexe d'une exploitation agricole
+Liquides inflammables (définition), à l'exclusion des alcools de bouche, eaux de
+vie et autres boissons alcoolisées
 
-Le dépôt étant supérieur à 200 m³
+Les liquides inflammables, quelle que soit leur nature, sont répartis en quatre
+catégories conformément aux définitions ci-après. Le point d'éclair est
+déterminé suivant les modalités techniques définies par l'AFNOR et conformément
+aux spécifications administratives éventuellement applicables.
 
+Le régime de classement d'une installation est déterminé en fonction de la
+capacité totale équivalente exprimée en capacité équivalente à celle d'un
+liquide inflammable de la 1ère catégorie, selon la formule :
 
-D
+C équivalente totale = 10A + B + C/5 + D/15
 
-2175
+où
 
-Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
-égale à 3 000 l, lorsque la capacité totale est :
+A représente la capacité relative aux liquides extrêmement inflammables
+(coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est
+inférieur à 0 o C et dont la pression de vapeur à 35 o C est supérieure à 10 5
+pascals
 
-1. Supérieure ou égale à 500 m³
+B représente la capacité relative aux liquides inflammables de la 1ère catégorie
+(coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55 o C et
+qui ne répondent pas à la définition des liquides extrêmement inflammables
 
+C représente la capacité relative aux liquides inflammables de 2ème catégorie
+(coefficient 1/5) : tout liquide dont le point éclair est supérieur ou égal à 55
+o C et inférieur à 100 o C, sauf les fuels lourds.
 
-A
+D représente la capacité relative aux liquides peu inflammables (coefficient
+1/15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications
+administratives
 
-1
+NOTA :
 
-2. Supérieure à 100 m³ mais inférieure à 500 m³
+En outre, si des liquides inflammables sont stockés dans la même cuvette de
+rétention ou manipulés dans le même atelier, ils sont assimilés à des liquides
+inflammables de la catégorie présente la plus inflammable.
 
+Si des liquides sont contenus dans des réservoirs en fosse ou en double
+enveloppe avec système de détection de fuite ou assimilés, les coefficients
+visés à la rubrique 1430 sont divisés par 5
 
-D
+Hors les produits extrêmement inflammables, les liquides inflammables réchauffés
+dans leur masse à une température supérieure à leur point d'éclair sont
+assimilés à des liquides inflammables de 1ère catégorie.
 
-2180
+1431
 
-
-Etablissements de fabrication et dépôts de tabac
-
-La quantité totale susceptible d'être emmagasinée étant :
-
-1. supérieure à 25 t
-
-
-A
-
-3
-
-2. supérieure à 5 t mais inférieure ou égale à 25 t
-
-
-D
-
-2210
-
-Abattage d'animaux
-
-Le poids des animaux exprimé en carcasses étant, en activité de pointe :
-
-1. Le poids de carcasses susceptibles d'être abattues étant :
-
-1. supérieur à 5 t/j
-
-
-A
-
-3
-
-a) supérieur à 100 t/j
-
-8
-
-b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
-
-5
-
-c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
-
-2
-
-2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
-
-
-D
-
-2220
-
-Alimentaires (préparation ou conservation de produits) d'origine végétale, par
-cuisson, appertisation, surgélation, congélation, lyophilisation,
-déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du
-malt, des huiles, et des aliments pour le bétail mais y compris les ateliers de
-maturation de fruits et légumes, la quantité de produits entrant étant :
-
-1. La capacité de production étant :
-
-1. supérieure à 10 t/j
-
-
-A
-
-1
-
-a) supérieure à 200 t/j
-
-3
-
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
-
-1
-
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
-
-
-DC
-
-2221
-
-Alimentaires (préparation ou conservation de produits) d'origine animale, par
-découpage, cuisson, appertisation, surgélation, congélation, lyophilisation,
-déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des
-produits issus du lait et des corps gras, mais y compris les aliments pour les
-animaux de compagnie.
-
-La quantité de produits entrant étant :
-
-1. La capacité de production étant :
-
-1. supérieure à 2 t/j
-
-
-A
-
-1
-
-a) supérieure à 250 t/j
-
-3
-
-b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
-
-1
-
-2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
-
-
-D
-
-2225
-
-Sucreries, raffineries de sucre, malteries
-
-
-A
-
-1
-
-La capacité de production étant :
-
-a) supérieure à 200 t/j
-
-6
-
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
-
-2
-
-2226
-
-Amidonneries, féculeries, dextrineries
-
-
-A
-
-1
-
-La capacité de production étant :
-
-a) supérieure à 200 t/j
-
-6
-
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
-
-2
-
-2230
-
-Lait (Réception, stockage, traitement, transformation, etc. du) ou des produits
-issus du lait
-
-La capacité journalière de traitement exprimée en litre de lait ou
-équivalent-lait étant :
-
-1. supérieure à 70 000 l/j
-
-
-A
-
-1
-
-1. La capacité journalière de traitement de l'installation exprimée en litre de
-lait ou équivalent-lait étant supérieure à 250 000 l/j
-
-4
-
-2. supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j
-
-Equivalences sur les produits entrant dans l'installation :
-
-1 litre de crème = 8 l équivalent-lait
-
-1 litre de lait écrémé, de sérum, de beurre non concentré = 1 l équivalent-lait
-
-1 litre de lait écrémé, de sérum, de beurre préconcentré = 6 l équivalent-lait
-
-1 kg de fromage = 10 l équivalent-lait
-
-
-D
-
-2240
-
-Huiles végétales, huiles animales, corps gras (extraction ou traitement des),
-fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion de
-l'extraction des huiles essentielles des plantes aromatiques
-
-La capacité de production étant :
-
-1. La capacité de production étant :
-
-1. supérieure à 2 t/j
-
-
-A
-
-1
-
-a) supérieure à 100 t/j
-
-4
-
-b) supérieure à 10 t/j, mais inférieure ou égale à 100 t/j
-
-1
-
-2. supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
-
-
-D
-
-2250
-
-Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation
-des)
-
-La capacité de production exprimée en alcool absolu étant :
-
-1. supérieure à 500 l/j
-
-
-A
-
-1
-
-1. La capacité de production exprimée en alcool absolu étant supérieure à 30 000
-l/j
-
-5
-
-2. supérieure à 50 l/j, mais inférieure ou égale à 500 l/j
-
-
-D
-
-2251
-
-Vins (préparation, conditionnement de)
-
-La capacité de production étant :
-
-1. supérieure à 20 000 hl/an
-
-
-A
-
-1
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
-
-1
-
-2. supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
-
-
-D
-
-2252
-
-Cidre (préparation, conditionnement de)
-
-La capacité de production étant :
-
-1. supérieure à 10 000 hl/an
-
-
-A
-
-1
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
-
-1
-
-2. supérieure à 250 hl/an, mais inférieure ou égale à 10 000 hl/an
-
-
-D
-
-2253
-
-Boissons (préparation, conditionnement de) bière, jus de fruits, autres
-boissons, à l'exclusion des eaux minérales, eaux de source, eaux de table et des
-activités visées par les rubriques 2230, 2250, 2251 et 2252
-
-La capacité de production étant :
-
-1. supérieure à 20 000 l/j
-
-
-A
-
-1
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
-
-1
-
-2. supérieure à 2 000 l/j, mais inférieure ou égale à 20 000 l/j
-
-
-D
-
-2255
-
-Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
-
-Lorsque la quantité stockée de produits dont le titre alcoométrique volumique
-est supérieur à 40 %, susceptible d'être présente est :
-
-La quantité stockée de produits dont le titre alcoométrique volumique est
-supérieur à 40 %, susceptible d'être présente est :
-
-1. supérieure ou égale à 50 000 t
-
-
-AS
-
-4
-
-1. supérieure ou égale à 50 000 t
-
-6
-
-2. supérieure ou égale à 500 m³
-
-
-A
-
-2
-
-2. supérieure ou égale à 500 m³
-
-3
-
-3. supérieure ou égale à 50 m³
-
-
-D
-
-2260
-
-Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation,
-trituration, nettoyage, tamisage, blutage, mélange, épluchage et décortication
-des substances végétales et de tous produits organiques naturels, y compris la
-fabrication d'aliments composés pour les animaux, mais à l'exclusion des
-activités visées par les rubriques 2220, 2221, 2225 et 2226.
-
-1. traitement et transformation destinés à la fabrication de produits
-alimentaires d'une capacité de production de produits finis supérieure à 300 t /
-j
-
-
-A
-
-3
-
-1
-
-6
-
-2. Autres installations que celles visées au 1 :
-
-2. La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
-
-a) La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant supérieure à 500 kW
-
-
-A
-
-2
-
-a) Supérieure ou égale à 5 MW
-
-3
-
-b) Supérieure à 1 MW, mais inférieure à 5 MW
-
-1
-
-b) La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant supérieure à 100 kW mais inférieure ou
-égale à 500 kW
-
-
-D
-
-2265
-
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
-
-Le volume total des réacteurs ou fermenteurs étant :
-
-1. supérieur à 100 m³
-
-
-A
-
-1
-
-2. supérieur à 30 m³, mais inférieur ou égal à 100 m³
-
-
-D
-
-2270
-
-Acides butyrique, citrique, glutamique, lactique et autres acides organiques
-alimentaires (fabrication d')
-
-
-A
-
-1
-
-2275
-
-Levure (fabrication de)
-
-
-A
-
-1
-
-2310
-
-Rouissage (hors rouissage à terre) ou teillage du lin, du chanvre et autres
-plantes textiles
-
-
-A
-
-1
-
-2311
-
-Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou
-synthétiques (traitement de, par battage, cardage, lavage, etc.)
-
-La quantité de fibres susceptible d'être traitée étant :
-
-1. supérieure à 5 t / j
-
-
-A
-
-1
-
-2. supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j
-
-
-D
-
-2315
-
-
-Fabrication de fibres végétales artificielles et produits manufacturés dérivés
-
-La capacité de production étant supérieure à 2 t / j
-
-
-A
-
-3
-
-2320
-
-
-Atelier de moulinage
-
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à
-40 kW
-
-
-D
-
-2321
-
-Ateliers de fabrication de tissus, feutre, articles de maille, dentelle
-mécanique, cordages, cordes et ficelles
-
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à
-40 kW
-
-
-D
-
-2330
-
-Teinture, impression, apprêt, enduction, blanchiment et délavage de matières
-textiles :
-
-La quantité de fibres et de tissus susceptible d'être traitée étant :
-
-1. La quantité de fibres et de tissus susceptible d'être traitée étant :
-
-1. supérieure à 1 t / j
-
-
-A
-
-1
-
-a) supérieure à 20 t / j
-
-3
-
-b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j
-
-1
-
-2. supérieure à 50 kg / j, mais inférieure ou égale à 1 t / j
-
-
-D
-
-2340
-
-Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par la
-rubrique 2345
-
-La capacité de lavage de linge étant :
-
-1. supérieure à 5 t / j
-
-
-A
-
-1
-
-2. supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j
-
-
-D
-
-2345
-
-Utilisation de solvants pour le nettoyage à sec et le traitement des textiles ou
-vêtements ; la capacité nominale (1) totale des machines présentes dans
-l'installation étant :
-
-1. supérieure à 50 kg
-
-
-A
-
-1
-
-2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
-
-
-DC
-
-(1) La capacité nominale est calculée conformément à la norme NF G 45-010 de
-février 1982, relative au matériel pour l'industrie textile et matériel connexe
-"Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de
-capacité de consommation d'une machine."
-
-2350
-
-Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux à
-l'exclusion des opérations de salage en annexe des abattoirs et de la teinture
-
-
-A
-
-1
-
-La capacité de production étant :
-
-a) supérieure à 5 t / j
-
-4
-
-b) supérieure à 1 t / j, mais inférieure ou égale à 5 t / j
-
-1
-
-2351
-
-
-Teinture et pigmentation de peaux
-
-La capacité de production étant :
-
-1. La capacité de production étant :
-
-1. supérieure à 1 t / j
-
-
-A
-
-1
-
-a) supérieure à 20 t / j
-
-3
-
-b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j
-
-1
-
-2. supérieure à 100 kg / j, mais inférieure ou égale à 1 t / j
-
-
-DC
-
-2352
-
-Fabrication d'extraits tannants
-
-
-A
-
-1
-
-2355
-
-
-Dépôts de peaux y compris les dépôts de peaux salées en annexe des abattoirs
-
-La capacité de stockage étant supérieure à 10 t
-
-
-D
-
-2360
-
-Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des
-peaux
-
-La puissance installée pour alimenter l'ensemble des machines étant :
-
-1. supérieure à 200 kW
-
-
-A
-
-1
-
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
-
-
-D
-
-2410
-
-Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
-
-La puissance installée pour alimenter l'ensemble des machines étant :
-
-1. supérieure à 200 kW
-
-
-A
-
-1
-
-2. supérieure à 50 kW, mais inférieure ou égale à 200 kW
-
-
-D
-
-2415
-
-
-Installations de mise en oeuvre de produits de préservation du bois et matériaux
-dérivés
-
-1. La quantité susceptible d'être présente dans l'installation étant supérieure
-à 1 000 l
-
-
-A
-
-3
-
-1. La quantité susceptible d'être présente dans l'installation étant supérieure
-à 10 000 l
-
-3
-
-2. La quantité susceptible d'être présente dans l'installation étant supérieure
-ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25t/an,
-sans que la quantité susceptible d'être présente dans l'installation soit
-supérieure à 1 000 l
-
-
-DC
-
-2420
-
-Charbon de bois (fabrication du)
-
-1. par des procédés de fabrication en continu
-
-
-A
-
-1
-
-2. par des procédés de fabrication à fonctionnement en discontinu, la capacité
-totale des enceintes ou s'effectue le carbonisation étant :
-
-a) supérieure à 100 m³
-
-
-A
-
-1
-
-b) inférieure ou égale à 100 m³
-
-
-D
-
-2430
-
-
-Préparation de la pâte à papier
-
-1. Pâte chimique, la capacité de production étant :
-
-1. La capacité de production étant :
-
-a) supérieure à 100 t / j
-
-
-A
-
-5
-
-a) supérieure à 500 t / j
-
-6
-
-3
-
-supérieure à 100 t / j, mais inférieure ou égale à 500 t / j
-
-3
-
-b) inférieure ou égale à 100 t / j
-
-
-A
-
-b) supérieure à 20 t / j, mais inférieure ou égale à 100 t / j
-
-1
-
-2. Autres pâtes, y compris le désencrage des vieux papiers
-
-
-A
-
-1
-
-2. La capacité de production étant :
-
-a) supérieure à 500 t / j
-
-6
-
-b) supérieure à 100 t / j, mais inférieure ou égale à 500 t / j
-
-3
-
-c) inférieure ou égale à 100 t / j
-
-1
-
-2440
-
-Fabrication de papier, carton
-
-
-A
-
-1
-
-La capacité de production étant :
-
-a) supérieure à 500 t / j
-
-6
-
-b) supérieure à 100 t / j, mais inférieure ou égale à 500 t / j
-
-3
-
-c) supérieure à 20 t / j, mais inférieure ou égale à 100 t / j
-
-1
-
-2445
-
-Transformation du papier, carton
-
-La capacité de production étant :
-
-1. supérieure à 20 t / j
-
-
-A
-
-1
-
-2. supérieure à 1 t / j, mais inférieure ou égale à 20 t / j
-
-
-D
-
-2450
-
-Imprimeries ou ateliers de reproduction graphique sur tout support tel que
-métal, papier, carton, matières plastiques, textiles, etc. utilisant une forme
-imprimante
-
-1. Offset utilisant des rotatives à séchage thermique
-
-
-A
-
-2
-
-1. Non soumis à la taxe.
-
--
-
-2. Héliogravure, flexographie et opérations connexes aux procédés d'impression
-quels qu'ils soient comme la fabrication de complexes par contrecollage ou le
-vernissage si la quantité totale de produits consommée pour revêtir le support
-est :
-
-2. La quantité totale de produits consommée pour revêtir le support est :
-
-a) supérieure à 200 kg / j
-
-
-A
-
-2
-
-a) supérieure à 5 t / j
-
-4
-
-supérieure ou égale à 1 t / j mais inférieure à 5 t / j
-
-2
-
-supérieure ou égale à 200 kg / j mais inférieure à 1 t / j
-
-1
-
-b) supérieure à 50 kg / j mais inférieure ou égale à 200 kg / j
-
-
-D
-
-3. Autres procédés, y compris les techniques offset non visées en 1 si la
-quantité d'encres consommée est :
-
-3. La quantité d'encres consommée est :
-
-a) supérieure ou égale à 400 kg / j
-
-
-A
-
-2
-
-a) supérieure à 5 t / j
-
-4
-
-supérieure ou égale à 1 t / j, mais inférieure à 5 t / j
-
-2
-
-supérieure ou égale à 400 kg / j, mais inférieure à 1 t / j
-
-1
-
-b) supérieure à 100 kg / j mais inférieure ou égale à 400 kg / j
-
-
-D
-
-Nota : pour les produits qui contiennent moins de 10 % de solvants organiques au
-moment de leur emploi, la quantité à retenir pour établir le classement sous les
-paragraphes 2 et 3 correspond à la quantité consommée dans l'installation,
-divisée par deux.
-
-2510
-
-Carrières (exploitation de).
-
-1. Exploitation de carrières, à l'exception de celles visées au 5 et 6
-
-
-A
-
-3
-
-1. La capacité nominale de production étant :
-
-a) supérieure ou égale à 500 000 t/an
-
-8
-
-b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t / an
-
-4
-
-c) supérieure ou égale à 50 000 t / an, mais inférieure à 150 000 t / an.
-
-2
-
-2. sans objet
-
-2. La capacité nominale de production étant :
-
-a) supérieure ou égale à 500 000 t / an
-
-8
-
-b) supérieure ou égale à 150 000 t / an, mais inférieure à 500 000 t / an
-
-4
-
-c) supérieure ou égale à 50 000 t / an, mais inférieure à 150 000 t / an.
-
-2
-
-3. Affouillements du sol (à l'exception des affouillements rendus nécessaires
-pour l'implantation des constructions bénéficiant d'un permis de construire et
-des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
-matériaux prélevés sont utilisés à des fins autres que la réalisation de
-l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie
-d'affouillement est supérieure à 1 000 m² ou lorsque la quantité de matériaux à
-extraire est supérieure à 2 000 t
-
-
-A
-
-3
-
-3. La capacité nominale de production étant :
-
-a) supérieure ou égale à 500 000 t / an
-
-8
-
-b) supérieure ou égale à 150 000 t / an mais inférieure à 500 000 t / an
-
-4
-
-c) supérieure ou égale à 50 000 t / an mais inférieure à 150 000 t / an.
-
-2
-
-4. Exploitation, en vue de leur utilisation, des masses constituées par des
-haldes et terrils de mines et par les déchets d'exploitation de carrières (à
-l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre
-1979 pris pour l'application de l'article 130 du code minier), lorsque la
-superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de
-matériaux à extraire est supérieure à 2 000 t par an
-
-
-A
-
-3
-
-4. La capacité nominale de production étant :
-
-a) supérieure ou égale à 500 000 t / an
-
-8
-
-b) supérieure ou égale à 150 000 t / an mais inférieure à 500 000 t / an
-
-4
-
-c) supérieure ou égale à 50 000 t / an mais inférieure à 150 000 t / an.
-
-2
-
-5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols
-ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins
-500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la
-superficie d'extraction est inférieure à 500 m² et lorsque la quantité de
-matériaux à extraire est inférieure à 250 t par an et que la quantité totale
-d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par
-l'exploitant agricole dans ses propres champs, soit par la commune, le
-groupement de communes ou le syndicat intercommunal dans un intérêt public
-
-
-D
-
--
-
-6. Carrières de pierre, de sable et d'argile destinées :
-
--à la restauration des monuments historiques classés ou inscrits, ou des
-immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur
-sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération
-sont interdits
-
--ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou
-architectural justifie que celle-ci soit effectuée avec leurs matériaux
-d'origine.
-
-lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière
-soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à
-extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction
-n'excède pas 500 m³
-
-
-DC
-
--
-
-2515
-
-Broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage,
-mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou
-artificiels ou de déchets non dangereux inertes.
-
-La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
-
-1. La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
-
-1. supérieure à 200 kW
-
-
-A
-
-2
-
-a) supérieure à 5 MW
-
-3
-
-b) supérieure à 500 kW, mais inférieure ou égale à 5 MW
-
-1
-
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
-
-
-D
-
-2516
-
-Station de transit de produits minéraux pulvérulents non ensachés tels que
-ciments, plâtres, chaux, sables fillérisés ou de déchets non dangereux inertes
-pulvérulents, la capacité de stockage étant :
-
-1. supérieure à 25 000 m ³
-
-
-A
-
-3
-
-2. Supérieure à 5 000 m³ mais inférieure ou égale à 25 000 m³.
-
-
-D
-
-2517
-
-Station de transit de produits minéraux ou de déchets non dangereux inertes
-autres que ceux visés par d'autres rubriques, la capacité de stockage étant :
-
-1. supérieure à 75 000 m ³
-
-
-A
-
-3
-
-2. Supérieure à 15 000 m³ mais inférieure ou égale à 75 000 m³.
-
-
-D
-
-2520
-
-Ciments, chaux, plâtres (fabrication de), la capacité de production étant
-supérieure à 5 t / j
-
-
-A
-
-1
-
-La capacité de production étant :
-
-a) supérieure à 100 t / j
-
-5
-
-b) inférieure ou égale à 100 t / j mais supérieure à 20 t / j
-
-1
-
-2521
-
-Enrobage au bitume de matériaux routiers (centrale d')
-
-1. à chaud
-
-
-A
-
-2
-
-2. à froid, la capacité de l'installation étant :
-
-a) supérieure à 1 500 t / j
-
-
-A
-
-1
-
-b) supérieure à 100 t / j, mais inférieure ou égale à 1 500 t / j
-
-
-D
-
-2522
-
-Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton,
-agglomérés, etc., la puissance installée du matériel vibrant étant :
-
-1. supérieure à 200 kW
-
-
-A
-
-1
-
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
-
-
-D
-
-2523
-
-Céramiques et réfractaires (fabrication de produits), la capacité de production
-étant supérieure à 20 t / j
-
-
-A
-
-2
-
-La capacité de production étant supérieure à 20 t / j
-
-1
-
-2524
-
-Minéraux naturels ou artificiels tels que le marbre, le granite, l'ardoise, le
-verre, etc. (Ateliers de taillage, sciage et polissage de)
-
-La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant supérieure à 400 kW
-
-
-D
-
-2525
-
-Fusion de matières minérales, y compris pour la production de fibres minérales
-
-La capacité de fusion étant supérieure à 20 t / j
-
-
-A
-
-1
-
-La capacité de fusion étant supérieure à 20 t / j
-
-6
-
-2530
-
-Verre (fabrication et travail du), la capacité de production des fours de fusion
-et de ramollissement étant :
-
-1. pour les verres sodocalciques :
-
-1. La capacité de production des fours de fusion et de ramollissement étant
-supérieure à 5 t / j
-
-2
-
-a) supérieure à 5 t / j
-
-
-A
-
-3
-
-b) supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j
-
-
-D
-
-2. pour les autres verres :
-
-2. Non soumis à la taxe
-
--
-
-a) supérieure à 500 kg / j
-
-
-A
-
-3
-
-b) supérieure à 50 kg / j, mais inférieure ou égale à 500 kg / j
-
-
-D
-
-2531
-
-Verre ou cristal (travail chimique du)
-
-Le volume maximum de produit de traitement susceptible d'être présent dans
-l'installation étant :
-
-a) supérieure à 150 l
-
-
-A
-
-1
-
-b) supérieure à 50 l, mais inférieure ou égale à 150 l
-
-
-D
-
-2540
-
-Houille, minerais, minéraux ou résidus métallurgiques (lavoirs à)
-
-La capacité de traitement étant supérieure à 10 t / j
-
-
-A
-
-2
-
-La capacité de traitement étant supérieure à 100 t / j
-
-6
-
-2541
-
-1. Agglomération de houille, charbon de bois, minerai de fer, fabrication de
-graphite artificiel, la capacité de production étant supérieure à 10 t / j
-
-
-A
-
-1
-
-1. La capacité de production étant supérieure à 100 t / j
-
-4
-
-2. Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
-
-
-A
-
-1
-
-2. La capacité de production étant supérieure à 100 t / j
-
-6
-
-2542
-
-Coke (fabrication du)
+Liquides inflammables (fabrication industrielle de dont traitement du pétrole et
+de ses dérivés, désulfuration)
 
 
 A
@@ -1980,254 +788,203 @@ A
 
 Quelle que soit la capacité
 
-10
-
-2545
-
-Acier, fer, fonte, ferro-alliages (fabrication d') à l'exclusion de la
-fabrication de ferro-alliages au four électrique lorsque la puissance installée
-du (des) four (s) est inférieure à 100 kW
-
-
-A
-
 3
 
-La capacité de production étant :
+1432
 
-a) supérieure à 500 t / j
+Liquides inflammables (stockage en réservoirs manufacturés de).
 
-10
+1. Lorsque la quantité stockée de liquides inflammables visés à la rubrique 1430
+susceptible d'être présente est :
 
-b) supérieure à 100 t / j mais inférieure ou égale à 500 t / j
+1. Lorsque la quantité stockée de liquides inflammables visés à la rubrique 1430
+susceptible d'être présente est :
+
+a) Supérieure ou égale à 50 t pour la catégorie A
+
+
+AS
 
 4
 
-2546
-
-Traitement des minerais non ferreux, élaboration et affinage des métaux et
-alliages non ferreux (à l'échelle industrielle)
-
-
-A
-
-3
-
-La capacité de production étant :
-
-a) supérieure à 500 t / j
-
-10
-
-b) supérieure à 100 t / j mais inférieure ou égale à 500 t / j
-
-4
-
-2547
-
-Silico-alliages ou carbure de silicium (fabrication de) au four électrique,
-lorsque la puissance installée du (des) four (s) dépasse 100 kW (à l'exclusion
-du ferro-silicium visé à la rubrique 2545)
-
-
-A
-
-1
-
-5
-
-2550
-
-Fonderie (fabrication de produits moulés) de plomb et alliages contenant du
-plomb (au moins 3 %)
-
-La capacité de production étant :
-
-1. supérieure à 100 kg / j
-
-
-A
-
-2
-
-1. La capacité de production étant :
-
-a) supérieure à 2 t / j
+a) supérieure à 50 t pour la catégorie A
 
 6
 
-b) supérieure à 500 kg / j, mais inférieure ou égale à 2 t / j
-
-3
-
-c) supérieure à 100 kg / j, mais inférieure ou égale à 500 kg / j
-
-1
-
-2. supérieure à 10 kg / j, mais inférieure ou égale à 100 kg / j
+b) Supérieure ou égale à 5 000 t pour le méthanol
 
 
-DC
-
-2551
-
-Fonderie (fabrication de produits moulés) de métaux et alliages ferreux
-
-La capacité de production étant :
-
-1. supérieure à 10 t / j
-
-
-A
-
-2
-
-1. La capacité de production étant :
-
-a) supérieure à 200 t / j
+AS
 
 4
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 5 000 t pour le méthanol
 
-1
+6
 
-2. supérieure à 1 t / j, mais inférieure ou égale à 10 t / j
-
-
-DC
-
-2552
-
-Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux (à
-l'exclusion de celles relevant de la rubrique 2550)
-
-La capacité de production étant :
-
-1. supérieure à 2 t / j
+c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y
+compris les naphtes et kérosènes, dont le point éclair est inférieur à 55 o C
+(carburants d'aviation compris)
 
 
-A
-
-2
-
-1. La capacité de production étant supérieure à 50 t / j
-
-1
-
-2. supérieure à 100 kg / j, mais inférieure ou égale à 2 t / j
-
-
-DC
-
-2560
-
-Métaux et alliages (travail mécanique des)
-
-La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
-
-1. supérieure à 500 kW
-
-
-A
-
-2
-
-1. La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant supérieure à 500 kW
-
-3
-
-2. supérieure à 50 kW, mais inférieure ou égale à 500 kW
-
-
-D
-
-2561
-
-Métaux et alliages (trempe, recuit ou revenu)
-
-
-D
-
-2562
-
-Bains de sels fondus (chauffage et traitements industriels par l'intermédiaire
-de)
-
-Le volume des bains étant :
-
-1. supérieur à 500 l
-
-
-A
-
-1
-
-2. supérieur à 100 l, mais inférieur ou égal à 500 l
-
-
-DC
-
-2564
-
-Nettoyage, dégraissage, décapage de surfaces (métaux, matières plastiques, etc.)
-par des procédés utilisant des liquides organohalogénés ou des solvants
-organiques (1).
-
-Le volume des cuves de traitement étant :
-
-1. Le volume des cuves de traitement étant :
-
-1. supérieur à 1 500 l
-
-
-A
-
-1
-
-a) supérieur à 25 000 l
+AS
 
 4
 
-b) supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
+c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris
+les naphtes et kérosènes dont le point éclair est inférieur à 55 o C (carburants
+d'aviation compris)
+
+6
+
+d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles
+(gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les
+kérosènes dont le point éclair est supérieur ou à 55 o C
+
+
+AS
+
+4
+
+d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles
+(gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les
+kérosènes dont le point éclair est supérieur ou égal à 55 o C
+
+6
+
+2. stockage de liquides inflammables visés à la rubrique 1430 :
+
+2. Stockage de liquides inflammables visés à la rubrique 1430 représentant une
+capacité équivalente totale supérieure à 100 m³
+
+3
+
+a) représentant une capacité équivalente totale supérieure à 100 m³
+
+
+A
+
+2
+
+b) représentant une capacité équivalente totale supérieure à 10 m³ mais
+inférieure ou égale à 100 m ³
+
+
+DC
+
+1433
+
+Liquides inflammables (installations de mélange ou d'emploi de)
+
+A. Installations de simple mélange à froid :
+
+Lorsque la quantité totale équivalente de liquides inflammables de la catégorie
+de référence (coefficient 1 visé par la rubrique 1430) susceptible d'être
+présente est :
+
+A. Lorsque la quantité totale équivalente de liquides inflammables de la
+catégorie de référence (coefficient 1 visé par la rubrique 1430) susceptible
+d'être présente est supérieure à 50 t
+
+3
+
+a) supérieur à 50 t
+
+
+A
+
+2
+
+b) supérieur à 5 t, mais inférieure à 50 t
+
+
+DC
+
+B. Autres installations
+
+Lorsque la quantité totale équivalente de liquides inflammables de la catégorie
+de référence (coefficient 1 visé par la rubrique 1430) susceptible d'être
+présente est :
+
+B. Lorsque la quantité totale équivalente de liquides inflammables de la
+catégorie de référence (coefficient 1 visé par la rubrique 1430) susceptible
+d'être présente est supérieure à 10 t
+
+3
+
+a) supérieure à 10 t
+
+
+A
+
+2
+
+b) supérieur à 1 t, mais inférieure à 10 t
+
+
+DC
+
+1434
+
+Liquides inflammables (installation de remplissage ou de distribution, à
+l'exception des stations-service visées à la rubrique 1435) :
+
+1. Installations de chargement de véhicules citernes, de remplissage de
+récipients mobiles, le débit maximum équivalent de l'installation, pour les
+liquides inflammables de la catégorie de référence (coefficient 1 étant) :
+
+a) supérieur ou égal à 20 m³/h
+
+
+A
 
 1
 
-2. supérieur à 200 l, mais inférieur ou égal à 1 500 l
+b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h
 
 
 DC
 
-3. supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants à
-phrase de risque R 45, R 46, R 49, R 60, R 61 ou des solvants halogénés
-étiquetés R 40 sont utilisés dans une machine non fermée (2)
+2. installations de chargement ou de déchargement desservant un dépôt de
+liquides inflammables soumis à autorisation
+
+
+A
+
+1
+
+1435
+
+Stations-service : installations, ouvertes ou non au public, où les carburants
+sont transférés de réservoirs de stockage fixes dans les réservoirs à carburant
+de véhicules à moteur, de bateaux ou d'aéronefs.
+
+Le volume annuel de carburant (liquides inflammables visés à la rubrique 1430 de
+la catégorie de référence [coefficient 1] distribué étant :
+
+1. Supérieur à 8 000 m³ ;
+
+
+A
+
+1
+
+2. Supérieur à 3 500 m³ mais inférieur ou égal à 8 000 m³ ;
+
+
+E
+
+3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³.
 
 
 DC
 
-(1) Solvant organique : tout composé organique volatil (composé organique ayant
-une pression de vapeur de 0, 01 kPa ou plus à une température de 293, 15 K ou
-ayant une volatilité correspondante dans des conditions d'utilisation
-particulières), utilisé seul ou en association avec d'autres agents, sans subir
-de modification chimique, pour dissoudre des matières premières, des produits ou
-des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures,
-ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension
-superficielle, plastifiant ou agent protecteur.
+1450
 
-(2) Une machine est considérée comme fermée si les seules ouvertures en phase de
-traitement sont celles servant à l'aspiration des effluents gazeux.
+Solides facilement inflammables à l'exclusion des substances visées
+explicitement par d'autres rubriques
 
-2565
-
-Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissage,
-attaque chimique, vibro-abrasion, etc.) de surfaces (métaux, matières
-plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à
-l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la
-rubrique 2564.
-
-1. Lorsqu'il y a mise en oeuvre de cadmium
+1. fabrication industrielle
 
 
 A
@@ -2236,1345 +993,288 @@ A
 
 1. Quelle que soit la capacité
 
-4
+6
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à
-l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. emploi ou stockage : la quantité totale susceptible d'être présente dans
+l'installation étant :
 
-2. Le volume des cuves de traitement étant :
-
-a) supérieur à 1 500 l
-
-
-A
-
-1
-
-a) supérieur à 25 000 l
+2. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 1 t
 
 4
 
-supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
-
-1
-
-b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
-
-
-DC
-
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
-cadmium
-
-
-DC
-
-4. Vibro-abrasion, le volume total des cuves de travail étant supérieur à 200 l
-
-
-DC
-
-2566
-
-Métaux (décapage ou nettoyage des) par traitement thermique
+a) supérieure ou égale à 1 t
 
 
 A
 
 1
 
-
-Quelle que soit la capacité
-
-1
-
-2567
-
-Métaux (galvanisation, étamage de) ou revêtement métallique d'un matériau
-quelconque par immersion ou par pulvérisation de métal fondu
-
-
-A
-
-1
-
-2570
-
-
-Email
-
-1. Fabrication, la quantité de matière susceptible d'être fabriquée étant :
-
-a) supérieure à 500 kg / j
-
-
-A
-
-1
-
-b) supérieure à 50 kg / j, mais inférieure ou égale à 500 kg / j
-
-
-DC
-
-2. Application, la quantité de matière susceptible d'être traitée étant
-supérieure à 100 kg / j
-
-
-DC
-
-2575
-
-Abrasives (emploi de matières) telles que sables, corindon, grenailles
-métalliques, etc. sur un matériau quelconque pour gravure, dépolissage,
-décapage, grainage, à l'exclusion des activités visées par la rubrique 2565.
-
-La puissance installée des machines fixes concourant au fonctionnement de
-l'installation étant supérieure à 20 kW
+b) supérieure à 50 kg, mais inférieure à 1 t
 
 
 D
 
-2610
+1455
 
-Engrais simples ou composés à base de phosphore, d'azote ou de potassium
-(fabrication industrielle par transformation chimique d').
-
-
-A
-
-3
-
-La capacité nominale de production étant :
-
-a) Supérieure ou égale à 200 t / j
-
-6
-
-b) Supérieure à 50 t / j, mais inférieure à 200 t / j
-
-2
-
-2620
-
-Sulfurés (ateliers de fabrication de composés organiques) : mercaptans, thiols,
-thioacides, thioesters, etc., à l'exception des substances inflammables ou
-toxiques
-
-
-A
-
-3
-
-
-Quelle que soit la capacité
-
-3
-
-2630
-
-Détergents et savons (fabrication industrielle de ou à base de)
-
-La capacité de production étant :
-
-a) supérieure ou égale à 5 t / j
-
-
-A
-
-2
-
-a) La capacité de production étant supérieure ou égale à 5 t / j
-
-2
-
-b) supérieure ou égale à 1 t / j, mais inférieure à 5 t / j
+Carbure de calcium (stockage) lorsque la quantité susceptible d'être présente
+dans l'installation est supérieure à 3 t
 
 
 D
 
-2631
+1510
 
-Parfums, huiles essentielles (extraction par la vapeur des) contenus dans les
-plantes aromatiques
+Entrepôts couverts (stockage de matières ou produits combustibles en quantité
+supérieure à 500 tonnes dans des), à l'exception des dépôts utilisés au stockage
+de catégories de matières, produits ou substances relevant, par ailleurs, de la
+présente nomenclature, des bâtiments destinés exclusivement au remisage des
+véhicules à moteur et de leur remorque, des établissements recevant du public et
+des entrepôts frigorifiques.
 
-La capacité totale des vases d'extraction destinés à la distillation étant :
+Le volume des entrepôts étant :
 
-1. Supérieure à 50 m ³
-
-
-A
-
-1
-
-2. Supérieure ou égale à 6 m³, mais inférieure ou égale à 50 m³
-
-2640
-
-Colorants et pigments organiques, minéraux et naturels (fabrication
-industrielle, emploi de) :
-
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la
-mise en oeuvre dans un procédé d'une autre installation
+1. Supérieur ou égal à 300 000 m³ ;
 
 
 A
 
 1
 
-1. La quantité de matière produite étant supérieure ou égale à 2 t / j
-
-6
-
-2. Emploi
-
-La quantité de matière utilisée étant :
-
-a) supérieure ou égale à 2 t / j
+2. Supérieur ou égal à 50 000 m³ mais inférieur à 300 000 m³ ;
 
 
-A
+E
 
-1
-
-2. La quantité de matière utilisée étant supérieure ou égale à 2 t / j
-
-2
-
-b) supérieure ou égale à 200 kg / j, mais inférieure à 2 t / j
+3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
 
 
-D
+DC
 
-2660
+1511
 
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs
-synthétiques) (fabrication industrielle ou régénération)
-
-La capacité de production étant :
-
-
-A
-
-1
-
-a) supérieure à 20 t / j
-
-6
-
-b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j
-
-2
-
-2661
-
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs
-synthétiques) (transformation de)
-
-1. Par des procédés exigeant des conditions particulières de température ou de
-pression (extrusion, injection, moulage, segmentation à chaud, densification,
-etc.), la quantité de matière susceptible d'être traitée étant :
-
-a) Supérieure ou égale à 10 t / j
-
-
-A
-
-1
-
-1. La quantité de matière susceptible d'être traitée étant supérieure ou égale à
-20 t / j
-
-1
-
-b) Supérieure ou égale à 1 t / j, mais inférieure à 10 t / j
-
-
-D
-
-2. Par tout procédé exclusivement mécanique (sciage, découpage, meulage,
-broyage, etc.), la quantité de matière susceptible d'être traitée étant :
-
-a) Supérieure ou égale à 20 t / j
-
-
-A
-
-1
-
-2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à
-20 t / j
-
-1
-
-b) Supérieure ou égale à 2 t / j, mais inférieure à 20 t / j
-
-
-D
-
-2662
-
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs
-synthétiques) (stockage de).
+Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de
+catégories de matières, produits ou substances relevant, par ailleurs, de la
+présente nomenclature.
 
 Le volume susceptible d'être stocké étant :
 
-1. Supérieur ou égal à 40 000 m³ ;
-
-
-A
-
-2
-
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
-
-
-E
-
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
-
-
-D
-
-2663
-
-Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est
-composée de polymères (matières plastiques, caoutchoucs, élastomères, résines et
-adhésifs synthétiques) (stockage de) :
-
-1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de
-polystyrène, etc., le volume susceptible d'être stocké étant :
-
-a) Supérieur ou égal à 45 000 m³ ;
-
-
-A
-
-2
-
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
-
-
-E
-
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
-
-
-D
-
-2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être
-stocké étant :
-
-a) Supérieur ou égal à 80 000 m³ ;
-
-
-A
-
-2
-
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
-
-
-E
-
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
-
-
-D
-
-2670
-
-Accumulateurs et piles (fabrication d') contenant du plomb, du cadmium ou du
-mercure
+1. Supérieur ou égal à 150 000 m³ ;
 
 
 A
 
 1
 
+2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ;
 
-Quelle que soit la capacité
+
+E
+
+3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
+
+
+DC
+
+1520
+
+Houille, coke, lignite, charbon de bois, goudron, asphalte, brais et matières
+bitumineuses (dépôts de)
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure ou égale à 500 t
+
+
+A
+
+1
+
+2. supérieure ou égale à 50 t mais inférieure à 500 t
+
+
+D
+
+1521
+
+Goudron, asphalte, brais et matières bitumineuses (traitement ou emploi de)
+distillation, pyrogénation, régénération, etc., induction, immersion traitement
+et revêtement de surface, etc., à l'exclusion des centrales d'enrobages de
+matériaux routiers
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure ou égale à 20 t
+
+
+A
+
+1
+
+2. supérieure ou égale à 2 t, mais inférieure à 20 t
+
+
+D
+
+1523
+
+Soufre (fabrication industrielle, fusion et distillation, emploi et stockage)
+
+A. Fabrication industrielle, transformation et distillation. La quantité totale
+susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5
+t
+
+
+A
+
+2
+
+A. La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 2,5 t
+
+3
+
+B. Fusion. Le fondoir ayant une capacité supérieure ou égale à 1 t
+
+
+D
+
+B. Non soumis à la taxe
+
+C. Emploi et stockage
+
+1. Soufre solide pulvérulent dont l'énergie minimale d'inflammation est
+inférieure ou égale à 100 mJ.
+
+C. La quantité totale susceptible d'être présente dans l'installation étant :
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) supérieure ou égale à 2,5 t
+
+
+A
+
+2
+
+1. supérieure ou égal à 2,5 t
+
+3
+
+b) supérieure ou égale à 500 kg, mais inférieure à 2,5 t
+
+
+D
+
+2. Soufre solide autre que celui cité en C1 et soufre sous forme liquide. La
+quantité totale susceptible d'être présente dans l'installation étant :
+
+a) supérieure ou égale à 500 t
+
+
+A
+
+2
+
+2. supérieure ou égale à 500 t
+
+3
+
+b) supérieure ou égale à 50 t, mais inférieure à 500 t
+
+
+D
+
+1525
+
+Dépôts d'allumettes chimiques à l'exception de celles non dites de sûreté qui
+sont visées à la rubrique 1450
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+1. supérieure 500 m³
+
+
+A
+
+1
+
+2. supérieure à 50 m³, mais inférieure ou égale à 500 m³
+
+
+D
+
+1530
+
+Papiers, cartons ou matériaux combustibles analogues, y compris les produits
+finis conditionnés (dépôt de), à l'exception des établissements recevant du
+public.
+
+Le volume susceptible d'être stocké étant :
+
+1. Supérieur à 50 000 m³ ;
+
+
+A
+
+1
+
+2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ;
+
+
+E
+
+3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
+
+
+D
+
+1531
+
+Stockages, par voie humide (immersion ou aspersion), de bois non traité
+chimiquement, la quantité stockée étant supérieure à 1 000 m³
+
+
+D
+
+1532
+
+Bois sec ou matériaux combustibles analogues, y compris les produits finis
+conditionnés (dépôt de), à l'exception des établissements recevant du public.
+
+Le volume susceptible d'être stocké étant :
+
+1. Supérieur à 20 000 m³ ;
+
+
+A
+
+1
+
+2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
+
+
+D
+
+1610
+
+Acide chlorhydrique, acide formique à plus de 50 % en poids d'acide, acide
+nitrique à moins de 70 %, acide phosphorique, acide sulfurique, monoxyde
+d'azote, dioxyde d'azote à moins de 1 %, dioxyde de soufre à moins de 20 %,
+anhydride phosphorique (fabrication industrielle de) quelle que soit la capacité
+de production
+
+
+A
+
+3
+
+La capacité de production étant :
+
+a) supérieure ou égale à 100 t/j
 
 6
 
-2680
-
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un
-processus de production industrielle ou commercial des) à l'exclusion de
-l'utilisation de produits contenant des organismes génétiquement modifiés qui
-ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654
-du 13 juillet 1992 et utilisés dans les conditions prévues par cette
-autorisation de mise sur le marché
-
-1. organismes et notamment micro-organismes génétiquement modifiés du groupe I
-
-
-D
-
-1. Non soumis à la taxe
-
--
-
-2. organismes et notamment micro-organismes génétiquement modifiés du groupe II
-
-
-A
-
-4
-
-2. Quelle que soit la capacité
-
-8
-
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n o 92.
-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la
-liste des techniques de modification génétique et les critères de classement des
-organismes génétiquement modifiés en groupe I et II
-
-On entend par mise en oeuvre au sens de la présente rubrique toute opération ou
-ensemble d'opérations faisant partie d'un processus de production industrielle
-ou commercial au cours desquelles des organismes sont génétiquement modifiés ou
-au cours desquelles des organismes génétiquement modifiés sont cultivés,
-utilisés, stockés, détruits ou éliminés.
-
-2681
-
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de
-production industrielle)
-
-
-A
-
-4
-
-
-Quelle que soit la capacité
-
-8
-
-2690
-
-Produits opothérapiques (préparation de)
-
-1. quand l'opération est pratiquée sur des matières fraîches par simple
-dessiccation dans le vide
-
-
-D
-
-2. dans tous les autres cas
-
-
-A
-
-1
-
-2710
-
-Décheteries aménagées pour la collecte des encombrants, matériaux ou produits
-triés et apportés par les usagers :
-
--monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de
-démolition, déblais, gravats, terre ;
-
--bois, métaux, papiers-cartons, plastiques, textiles, verres, amiante lié ;
-
--déchets ménagers spéciaux (huiles usagées, piles et batteries, médicaments,
-solvants, peintures, acides et bases, produits phytosanitaires, etc.) usés ou
-non ;
-
--déchets d'équipements électriques et électroniques.
-
-1. la superficie de l'installation hors espaces verts étant supérieure à 3 500
-m²
-
-
-A
-
-1
-
-2. la superficie de l'installation hors espaces verts étant supérieure à 100 m²,
-mais inférieure ou égale à 3 500 m²
-
-
-D
-
-2711
-
-Transit, regroupement, tri, désassemblage, remise en état d'équipements
-électriques et électroniques mis au rebut.
-
-Le volume susceptible d'être entreposé étant :
-
-1. Supérieur ou égal à 1 000 m ³
-
-
-A
-
-1
-
-2. Supérieur ou égal à 200 m³, mais inférieur à 1 000 m³
-
-
-D
-
-2712
-
-Installation de stockage, dépollution, démontage, découpage ou broyage de
-véhicules hors d'usage ou de différents moyens de transport hors d'usage, la
-surface étant supérieure à 50 m².
-
-
-A
-
-1
-
-2713
-
-Installation de transit, regroupement ou tri de métaux ou de déchets de métaux
-non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non
-dangereux, à l'exclusion des activités et installations visées aux rubriques
-2710, 2711 et 2712.
-
-La surface étant :
-
-1. Supérieure ou égale à 1 000 m² ;
-
-
-A
-
-1
-
-2. Supérieure ou égale à 100 m² et inférieure à 1 000 m².
-
-
-D
-
-2714
-
-Installation de transit, regroupement ou tri de déchets non dangereux de
-papiers/cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des
-activités visées aux rubriques 2710 et 2711.
-
-Le volume susceptible d'être présent dans l'installation étant :
-
-1. Supérieur ou égal à 1 000 m³ ;
-
-
-A
-
-1
-
-2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
-
-
-D
-
-2715
-
-Installation de transit, regroupement ou tri de déchets non dangereux de verre à
-l'exclusion des installations visées à la rubrique 2710, le volume susceptible
-d'être présent dans l'installation étant supérieur ou égal à 250 m³.
-
-
-D
-
-2716
-
-Installation de transit, regroupement ou tri de déchets non dangereux non
-inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712,
-2713, 2714, 2715 et 2719.
-
-Le volume susceptible d'être présent dans l'installation étant :
-
-1. Supérieur ou égal à 1 000 m³ ;
-
-
-A
-
-1
-
-2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
-
-
-DC
-
-2717
-
-Installation de transit, regroupement ou tri de déchets contenant des substances
-dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement, à l'exclusion des installations visées aux rubriques
-1313, 2710, 2711, 2712 et 2719.
-
-1. La quantité des substances dangereuses ou préparations dangereuses
-susceptible d'être présente dans l'installation étant supérieure ou égale aux
-seuils AS des rubriques d'emploi ou de stockage de ces substances ou
-préparations.
-
-
-AS
+b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
 
 2
-
-2. La quantité des substances dangereuses ou préparations dangereuses
-susceptible d'être présente dans l'installation étant inférieure aux seuils AS
-et supérieures ou égales aux seuils A des rubriques d'emploi ou de stockage de
-ces substances ou préparations.
-
-
-A
-
-2
-
-2718
-
-Installation de transit, regroupement ou tri de déchets dangereux ou de déchets
-contenant les substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement, à l'exclusion des installations
-visées aux rubriques 1313, 2710, 2711, 2712, 2717 et 2719.
-
-La quantité de déchets susceptible d'être présente dans l'installation étant :
-
-1. Supérieure ou égale à 1 t ;
-
-
-A
-
-2
-
-2. Inférieure à 1 t.
-
-
-DC
-
-2719
-
-Installation temporaire de transit de déchets issus de pollutions accidentelles
-marines ou fluviales ou de déchets issus de catastrophes naturelles, le volume
-susceptible d'être présent dans l'installation étant supérieur à 100 m³.
-
-
-D
-
-2720
-
-Installation de stockage de déchets résultant de la prospection, de
-l'extraction, du traitement et du stockage de ressources minérales ainsi que de
-l'exploitation de carrières (site choisi pour y accumuler ou déposer des déchets
-solides, liquides, en solution ou en suspension).
-
-1. Installation de stockage de déchets dangereux ;
-
-
-A
-
-2
-
-2. Installation de stockage de déchets non dangereux non inertes.
-
-
-A
-
-1
-
-2730
-
-Sous-produits d'origine animale, y compris débris, issues et cadavres
-(traitement de), y compris le lavage des laines de peaux, laines brutes, laines
-en suint, à l'exclusion des activités visées par d'autres rubriques de la
-nomenclature, des établissements de diagnostic, de recherche et d'enseignement :
-
-La capacité de traitement étant :
-
-La capacité de traitement étant supérieure à 500 kg / j
-
-
-A
-
-5
-
-a) supérieure à 50 t / j
-
-8
-
-b) supérieure à 10 t / j, mais inférieure ou égale à 50 t / j
-
-2
-
-2731
-
-Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt
-de), à l'exclusion des dépôts de peaux, des établissements de diagnostic, de
-recherche et d'enseignement et des dépôts annexés et directement liés aux
-installations dont les activités sont classées sous les rubriques 2101 à 2150,
-2170, 2210, 2221, 2230, 2240 et 2690 de la présente nomenclature :
-
-La quantité susceptible d'être présente dans l'installation étant supérieure à
-500 kg
-
-
-A
-
-3
-
-2740
-
-Incinération de cadavres d'animaux de compagnie
-
-
-A
-
-1
-
-2750
-
-Station d'épuration collective d'eaux résiduaires industrielles en provenance
-d'au moins une installation classée soumise à autorisation
-
-
-A
-
-1
-
-
-Quelle que soit la capacité
-
-2
-
-2751
-
-Station d'épuration collective de déjections animales
-
-
-A
-
-1
-
-2752
-
-Station d'épuration mixte (recevant des eaux résiduaires domestiques et des eaux
-résiduaires industrielles) ayant une capacité nominale de traitement d'au moins
-10 000 équivalents-habitants, lorsque la charge des eaux résiduaires
-industrielles en provenance d'installations classées autorisées est supérieure à
-70 % de la capacité de la station en DCO
-
-
-A
-
-1
-
-2
-
-2760
-
-Installation de stockage de déchets autre que celles mentionnées à la rubrique
-2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de
-l'environnement.
-
-1. Installation de stockage de déchets dangereux ;
-
-
-A
-
-2
-
-2. Installation de stockage de déchets non dangereux.
-
-
-A
-
-1
-
-2770
-
-Installation de traitement thermique de déchets dangereux ou de déchets
-contenant des substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement.
-
-1. Les déchets destinés à être traités contenant des substances dangereuses ou
-préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement.
-
-a) La quantité de substances dangereuses ou préparations dangereuses susceptible
-d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
-rubriques d'emploi ou de stockage de ces substances ou préparations ;
-
-
-AS
-
-3
-
-b) La quantité de substances dangereuses ou préparations dangereuses susceptible
-d'être présente dans l'installation étant inférieure aux seuils AS des rubriques
-d'emploi ou de stockage de ces substances ou préparations
-
-
-A
-
-2
-
-2. Les déchets destinés à être traités ne contenant pas les substances
-dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement.
-
-
-A
-
-2
-
-2771
-
-Installation de traitement thermique de déchets non dangereux.
-
-
-A
-
-2
-
-2780
-
-Installations de traitement aérobie (compostage ou stabilisation biologique) de
-déchets non dangereux ou matière végétale brute, ayant le cas échéant subi une
-étape de méthanisation
-
-1. Compostage de matière végétale brute, effluents d'élevage, matières
-stercoraires :
-
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j
-
-
-A
-
-3
-
-b) La quantité de matières traitées étant supérieure ou égale à 3 t / j et
-inférieure à 30 t / j
-
-
-D
-
-2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de
-denrées végétales déclassées, de rebuts de fabrication de denrées alimentaires
-végétales, de boues de station d'épuration des eaux urbaines, de papeteries,
-d'industries agroalimentaires, seuls ou en mélange avec des déchets végétaux ou
-des effluents d'élevages ou des matières stercoraires :
-
-a) La quantité de matières traitées étant supérieure ou égale à 20 t / j
-
-
-A
-
-3
-
-b) La quantité de matières traitées étant supérieure ou égale à 2 t / j et
-inférieure à 20 t / j
-
-
-D
-
-3. Compostage d'autres déchets ou stabilisation biologique
-
-
-A
-
-3
-
-2781
-
-Installations de méthanisation de déchets non dangereux ou matière végétale
-brute à l'exclusion des installations de stations d'épuration urbaines
-
-1. Méthanisation de matière végétale brute, effluents d'élevage, matières
-stercoraires, déchets végétaux d'industries agroalimentaires :
-
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j
-
-
-A
-
-2
-
-b) La quantité de matières traitées étant inférieure à 30 t / j
-
-
-DC
-
-2. Méthanisation d'autres déchets non dangereux
-
-
-A
-
-2
-
-2782
-
-Installations mettant en œuvre d'autres traitements biologiques de déchets non
-dangereux que ceux mentionnés aux rubriques 2780 et 2781 à l'exclusion des
-installations réglementées au titre d'une autre législation
-
-
-A
-
-3
-
-2790
-
-Installation de traitement de déchets dangereux ou de déchets contenant des
-substances dangereuses ou préparations dangereuses mentionnées à l'article R.
-511-10 du code de l'environnement, à l'exclusion des installations visées aux
-rubriques 1313, 2720, 2760 et 2770.
-
-1. Les déchets destinés à être traités contenant des substances dangereuses ou
-préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement.
-
-a) La quantité de substances dangereuses ou préparations dangereuses susceptible
-d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
-rubriques d'emploi ou de stockage de ces substances ou préparations ;
-
-
-AS
-
-3
-
-b) La quantité de substances dangereuses ou préparations dangereuses susceptible
-d'être présente dans l'installation étant inférieure aux seuils AS des rubriques
-d'emploi ou de stockage de ces substances ou préparations
-
-
-A
-
-2
-
-2. Les déchets destinés à être traités ne contenant pas les substances
-dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement.
-
-
-A
-
-2
-
-2791
-
-Installation de traitement de déchets non dangereux à l'exclusion des
-installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782.
-
-La quantité de déchets traités étant :
-
-1. Supérieure ou égale à 10 t/j ;
-
-
-A
-
-2
-
-2. Inférieure à 10 t/j.
-
-
-DC
-
-2795
-
-Installation de lavage de fûts, conteneurs et citernes de transport de matières
-alimentaires, de matières dangereuses au sens de la rubrique 1000 de la
-nomenclature des installations classées ou de déchets dangereux
-
-La quantité d'eau mise en œuvre étant :
-
-1. Supérieure ou égale à 20 m³/j ;
-
-
-A
-
-1
-
-2. Inférieure à 20 m³/j.
-
-
-DC
-
-2910
-
-Combustion à l'exclusion des installations visées par les rubriques 167C et 322
-B4. La puissance thermique maximale est définie comme la quantité maximale de
-combustible, exprimée en PCI, susceptible d'être consommée par seconde.
-
-Nota : La biomasse se présente à l'état naturel et n'est ni imprégnée ni revêtue
-d'une substance quelconque. Elle inclut le bois sous forme de morceaux bruts,
-d'écorces, de bois déchiquetés, de sciures, de poussières de ponçage ou de
-chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
-
-A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
-naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des
-fiouls lourds ou la biomasse, à l'exclusion des installations visées par
-d'autres rubriques de la nomenclature pour lesquelles la combustion participe à
-la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion,
-des matières entrantes, si la puissance thermique maximale de l'installation est
-:
-
-A. La puissance thermique maximale de l'installation (quantité maximale de
-combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
-
-1. supérieure ou égale à 20 MW
-
-
-A
-
-3
-
-1. supérieure à 1 000 MW
-
-10
-
-supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
-
-4
-
-supérieure ou égale à 20 MW, mais inférieure à 50 MW
-
-1
-
-2. supérieure à 2 MW, mais inférieure à 20 MW
-
-
-DC
-
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux
-visés en A et si la puissance thermique maximale est supérieure à 0, 1 MW
-
-
-A
-
-3
-
-B. La puissance thermique maximale de l'installation (quantité maximale de
-combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
-
-a) supérieure à 1 000 MW
-
-10
-
-b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
-
-4
-
-c) supérieure ou égale à 4 MW mais inférieure à 50 MW
-
-1
-
-2915
-
-Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organiques
-combustibles
-
-1. Lorsque la température d'utilisation est égale ou supérieure au point éclair
-des fluides
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C)
-est :
-
-a) supérieure à 1 000 l
-
-
-A
-
-1
-
-b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
-
-
-D
-
-2. Lorsque la température d'utilisation est inférieure au point éclair des
-fluides
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C)
-est supérieure à 250 l.
-
-
-D
-
-2920
-
-Réfrigération ou compression (installations de) fonctionnant à des pressions
-effectives supérieures à 10 5 Pa.
-
-1. comprimant ou utilisant des fluides inflammables ou toxiques, la puissance
-absorbée étant :
-
-a) supérieure à 300 kW
-
-
-A
-
-1
-
-b) supérieure à 20 kW, mais inférieure ou égale à 300 kW
-
-
-DC
-
-2. dans tous les autres cas :
-
-a) supérieure à 500 kW
-
-
-A
-
-1
-
-b) supérieure à 50 kW, mais inférieure ou égale à 500 kW
-
-
-D
-
-2921
-
-Refroidissement par dispersion d'eau dans un flux d'air (installations de)
-
-1. Lorsque l'installation n'est pas du type circuit primaire fermé :
-
-a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
-
-
-A
-
-3
-
-1. La puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
-
-1
-
-b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW
-
-
-D
-
-2. Lorsque l'installation est du type circuit primaire fermé
-
-
-D
-
-Nota : Une installation est de type circuit primaire fermé lorsque l'eau
-dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs
-thermiques étanches situés à l'intérieur de la tour de refroidissement ou
-accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau
-dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
-
-2925
-
-Accumulateurs (ateliers de charge d')
-
-
-La puissance maximale de courant continu utilisable pour cette opération étant
-supérieure à 50 kW
-
-D
-
-2930
-
-Ateliers de réparation et d'entretien de véhicules et engins à moteur, y compris
-les activités de carrosserie et de tôlerie.
-
-1. Réparation et entretien de véhicules et engins à moteur :
-
-a) La surface de l'atelier étant supérieure à 5 000 m²
-
-
-A
-
-1
-
-1. Non soumis à la taxe
-
--
-
-b) La surface de l'atelier étant supérieure à 2 000 m², mais inférieure ou égale
-à 5 000 m²
-
-
-DC
-
-2. Vernis, peinture, apprêt (application, cuisson, séchage de) sur véhicules et
-engins à moteur :
-
-2. La quantité annuelle de solvants contenus dans les produits susceptible
-d'être utilisée est :
-
-a) Si la quantité maximale de produits susceptibles d'être utilisée est
-supérieure à 100 kg / j
-
-
-A
-
-1
-
-a) supérieure à 50 t
-
-2
-
-b) Si la quantité maximale de produits susceptible d'être utilisée est
-supérieure à 10 kg / j ou si la quantité annuelle de solvants contenus dans les
-produits susceptible d'être utilisée est supérieure à 0, 5 t, sans que la
-quantité maximale de produits susceptible d'être utilisée dépasse 100 kg / j
-
-
-DC
-
-supérieure ou égale à 12, 5 t, mais inférieure à 50 t
-
-1
-
-2931
-
-Moteurs à explosion, à combustion interne ou à réaction, turbines à combustion
-(ateliers d'essais sur banc de) :
-
-Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au
-régime de rotation maximal, des moteurs ou turbines simultanément en essais est
-supérieure à 150 kW ou lorsque la poussée dépasse 1, 5 kN
-
-
-A
-
-2
-
-Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
-
-2940
-
-Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de)
-sur support quelconque (métal, bois, plastique, cuir, papier, textile) à
-l'exclusion :
-
--des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
-de matières bitumineuses, couvertes par la rubrique 1521,
-
--des activités couvertes par les rubriques 2445 et 2450,
-
--des activités de revêtement sur véhicules et engins à moteurs couvertes par la
-rubrique 2930,
-
--ou de toute autre activité couverte explicitement par une autre rubrique.
-
-1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
-l'application est faite par procédé "au trempé". Si la quantité maximale de
-produits susceptible d'être présente dans l'installation est :
-
-a) supérieure à 1 000 l
-
-
-A
-
-1
-
-1. La quantité maximale de produits susceptible d'être présente dans
-l'installation est supérieure à 1 000 l
-
-1
-
-b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
-
-
-DC
-
-2. Lorsque l'application est faite par tout procédé autre que le "trempé"
-(pulvérisation, enduction). Si la quantité maximale de produits susceptible
-d'être mise en œuvre est :
-
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
-
-a) supérieure à 100 kg / j
-
-
-A
-
-1
-
-a) supérieure ou égale à 5 t / j
-
-4
-
-supérieure ou égale à 1 t / j et inférieure à 5 t / j
-
-2
-
-supérieure ou égale à 250 kg / j et inférieure à 1 t / j
-
-1
-
-b) supérieure à 10 kg / j, mais inférieure ou égale à 100 kg / j
-
-
-DC
-
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines
-organiques. Si la quantité maximale de produits susceptible d'être mise en
-oeuvre est :
-
-a) supérieure à 200 kg / j
-
-
-A
-
-1
-
-3. Non soumis à la taxe
-
--
-
-b) supérieure à 20 kg / j, mais inférieure ou égale à 200 kg / j
-
-
-DC
-
-Nota.-Le régime de classement est déterminé par rapport à la quantité de
-produits mise en oeuvre dans l'installation en tenant compte des coefficients
-ci-après. Les quantités de produits à base de liquides inflammables de 1re
-catégorie (point éclair inférieur à 55 o C) ou de liquides halogénés, dénommées
-A, sont affectées d'un coefficient 1. Les quantités de produits à base de
-liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 o C)
-ou contenant moins de 10 % de solvants organiques au moment de l'emploi,
-dénommées B, sont affectées d'un coefficient 1 / 2. Si plusieurs produits de
-catégories différentes sont utilisés, la quantité Q retenue pour le classement
-sera égale à : Q = A + B / 2.
-
-2950
-
-Traitement et développement des surfaces photosensibles à base argentique, la
-surface annuelle traitée étant :
-
-1. Radiographie industrielle :
-
-a) supérieure à 20 000 m²
-
-
-A
-
-1
-
-b) supérieure à 2 000 m², mais inférieure ou égale à 20 000 m²
-
-
-DC
-
-2. Autres cas (radiographie médicale, arts graphiques, photographie, cinéma) :
-
-a) supérieure à 50 000 m²
-
-
-A
-
-1
-
-b) supérieure à 5 000 m², mais inférieure ou égale à 50 000 m²
-
-
-DC
-
-(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude
-d'utilité publique, C : soumis au contrôle périodique prévu par l'article L.
-512-11 du code de l'environnement.
-
-(2) Rayon d'affichage en kilomètres.

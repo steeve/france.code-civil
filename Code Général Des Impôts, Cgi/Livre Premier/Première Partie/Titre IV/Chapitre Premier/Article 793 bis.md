@@ -8,7 +8,7 @@ majorés de l'intérêt de retard visé à l'article 1727.
 
 Lorsque la valeur totale des biens susceptibles de bénéficier de l'exonération
 partielle visée au premier alinéa, transmis par le donateur ou le défunt à
-chaque donataire, héritier ou légataire, excède 100 000 € l'exonération
+chaque donataire, héritier ou légataire, excède 100 393 € l'exonération
 partielle de droits de mutation à titre gratuit est ramenée à 50 p. 100 au-delà
 de cette limite. Cette limite est actualisée, le 1er janvier de chaque année,
 dans la même proportion que la limite supérieure de la première tranche du
