@@ -16,8 +16,8 @@ Sous réserve de ce qui est dit à l'alinéa précédent concernant les projets 
 normes d'exercice professionnel élaborés par la Compagnie nationale des
 commissaires aux comptes, il peut être saisi des questions mentionnées aux
 deuxième, troisième et cinquième alinéas dudit article L. 821-1 par les
-présidents des compagnies régionales des commissaires aux comptes ou par tout
-commissaire aux comptes.
+présidents des compagnies régionales des commissaires aux comptes, par tout
+commissaire aux comptes ou par la personne qu'il contrôle.
 
 Les saisines et demandes d'avis adressées au Haut Conseil sont communiquées sans
 délai au commissaire du Gouvernement.
