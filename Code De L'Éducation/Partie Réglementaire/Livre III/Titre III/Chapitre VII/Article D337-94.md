@@ -14,9 +14,8 @@ D. 337-69, D. 337-71, D. 337-74, D. 337-78, D. 337-83, D. 337-86, D. 337-87, D.
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le
 diplôme est délivré conjointement par le recteur d'académie et le directeur
-régional des affaires maritimes. Pour ces spécialités, le ministre chargé de la
-mer ou le directeur régional des affaires maritimes sont substitués
-respectivement au ministre chargé de l'éducation et au recteur en ce qui
-concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D.
-337-64, D. 337-69, D. 337-71, D. 337-74, D. 337-78, D. 337-83, D. 337-86, D.
-337-87, D. 337-89 et D. 337-92.
+interrégional de la mer. Pour ces spécialités, le ministre chargé de la mer ou
+le directeur interrégional de la mer sont substitués respectivement au ministre
+chargé de l'éducation et au recteur en ce qui concerne les articles D. 337-54,
+D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-64, D. 337-69, D. 337-71, D.
+337-74, D. 337-78, D. 337-83, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.

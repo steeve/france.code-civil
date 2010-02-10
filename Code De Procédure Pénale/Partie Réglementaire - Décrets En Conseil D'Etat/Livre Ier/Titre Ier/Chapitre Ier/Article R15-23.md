@@ -22,9 +22,9 @@ d'intervention de la gendarmerie des transports aériens ;
 
 7° Les brigades de recherches, les brigades de surveillance du littoral, les
 unités navigantes de la gendarmerie maritime, les brigades ou postes de la
-gendarmerie maritime placés auprès des directions régionales des affaires
-maritimes, les pelotons de sûreté maritime et portuaire, le peloton de
-gendarmerie maritime de Paris ;
+gendarmerie maritime placés auprès des directions interrégionales de la mer, les
+pelotons de sûreté maritime et portuaire, le peloton de gendarmerie maritime de
+Paris ;
 
 8° Les brigades de la gendarmerie de l'armement placées auprès d'établissements
 relevant de la direction générale de l'armement ;

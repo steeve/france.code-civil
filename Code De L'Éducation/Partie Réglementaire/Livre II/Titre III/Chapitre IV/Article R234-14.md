@@ -9,11 +9,11 @@ désignés par les membres du conseil appartenant à cette catégorie ;
 
 b) Deux membres représentant les personnels nommés par le préfet de région sur
 proposition des organisations syndicales les plus représentatives dans la région
-transmise par le directeur régional des affaires maritimes ;
+transmise par le directeur interrégional de la mer ;
 
 c) Deux membres représentants des usagers, dont un représentant des parents
-d'élèves nommés par le préfet sur proposition du directeur régional des affaires
-maritimes et le président du comité économique et social de la région ;
+d'élèves nommés par le préfet sur proposition du directeur interrégional de la
+mer et le président du comité économique et social de la région ;
 
 2° Huit représentants du secteur maritime :
 
@@ -37,5 +37,5 @@ d) Deux représentants des organisations d'employeurs nommés par le préfet de
 région sur proposition des organisations d'employeurs représentatives dans la
 région.
 
-Le directeur régional des affaires maritimes reçoit, à cet effet, les
-propositions et les transmet au préfet de région.
+Le directeur interrégional de la mer reçoit, à cet effet, les propositions et
+les transmet au préfet de région.

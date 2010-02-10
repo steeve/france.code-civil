@@ -32,8 +32,8 @@ ministre chargé de l'agriculture ;
 be) Un directeur régional de la jeunesse et des sports, désigné par le ministre
 chargé de la jeunesse et des sports ;
 
-bf) Un directeur régional des affaires maritimes, désigné par le ministre chargé
-de la mer.
+bf) Un directeur interrégional de la mer, désigné par le ministre chargé de la
+mer.
 
 2. Dix-huit représentants des collectivités territoriales :
 

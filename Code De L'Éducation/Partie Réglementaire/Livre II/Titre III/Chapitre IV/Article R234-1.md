@@ -12,8 +12,8 @@ forêt.
 par le conseiller régional délégué à cet effet par le président du conseil
 régional.
 
-Les suppléants des présidents, ainsi que le directeur régional des affaires
-maritimes, ont la qualité de vice-président.
+Les suppléants des présidents, ainsi que le directeur interrégional de la mer,
+ont la qualité de vice-président.
 
 Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne
 participent pas aux votes.

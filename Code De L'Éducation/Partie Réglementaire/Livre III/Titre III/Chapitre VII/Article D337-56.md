@@ -17,4 +17,4 @@ sont définies aux articles D. 810-5 et R. 811-145 du code rural.
 Pour les spécialités de baccalauréat professionnel mentionnées au troisième
 alinéa de l'article D. 337-53, l'admission dans le cycle est prononcée, dans les
 conditions fixées par arrêté du ministre chargé de l'éducation et du ministre
-chargé de la mer, par le directeur régional des affaires maritimes.
+chargé de la mer, par le directeur interrégional de la mer.
