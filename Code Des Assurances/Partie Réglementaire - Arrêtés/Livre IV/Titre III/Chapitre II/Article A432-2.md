@@ -16,3 +16,8 @@ exportations ;
 
 Aux entreprises installées en France pour les investissements à l'étranger
 connexes à des opérations d'exportation.
+
+Aux personnes morales françaises ou étrangères agissant pour le compte de
+détenteurs d'obligations émises pour assurer le financement d'un contrat
+commercial d'exportation, pour garantir le paiement des sommes dues au titre de
+ces obligations en cas de défaillance de l'entité ayant procédé à leur émission.
