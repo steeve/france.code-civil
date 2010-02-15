@@ -24,6 +24,9 @@ Quartier centre de détention du centre pénitentiaire de Béziers (hommes)
 
 Quartier centre de détention du centre pénitentiaire de Caen (Calvados).
 
+Quartier centre de détention du centre pénitentiaire de Bourg-en-Bresse (hommes)
+(Ain).
+
 Quartier centre de détention du centre pénitentiaire de Borgo (Haute-Corse).
 
 Centre de détention de Casabianda (Haute-Corse).
