@@ -23,7 +23,7 @@ Quartier des mineurs de la maison d'arrêt de Bourges (Cher) ;
 
 Quartier des mineurs de la maison d'arrêt de Brest (Finistère) ;
 
-Quartier des mineurs du centre pénitentiaire de Caen (Calvados) ;
+Quartier des mineurs de la maison d'arrêt de Caen (Calvados) ;
 
 Quartier des mineurs de la maison d'arrêt de Chambéry (Savoie) ;
 
@@ -77,8 +77,6 @@ Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientale
 Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
 
 Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
-
-Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ;
 
 Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 
