@@ -4,7 +4,10 @@ Lorsqu'il n'en est pas disposé autrement par les dispositions de la section 2 d
 présent chapitre ou par un texte spécial, le tribunal administratif
 territorialement compétent est celui dans le ressort duquel a légalement son
 siège l'autorité qui, soit en vertu de son pouvoir propre, soit par délégation,
-a pris la décision attaquée ou a signé le contrat litigieux.
+a pris la décision attaquée ou a signé le contrat litigieux. Lorsque l'acte a
+été signé par plusieurs autorités, le tribunal administratif compétent est celui
+dans le ressort duquel a son siège la première des autorités dénommées dans cet
+acte.
 
 En cas de recours préalable à celui qui a été introduit devant le tribunal
 administratif, la décision à retenir pour déterminer la compétence territoriale

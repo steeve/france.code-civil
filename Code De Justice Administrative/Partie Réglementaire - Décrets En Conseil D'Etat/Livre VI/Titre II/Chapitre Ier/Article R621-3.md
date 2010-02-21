@@ -5,3 +5,6 @@ dans les dix jours à l'expert ou aux experts la décision qui les commet et fix
 l'objet de leur mission. Il annexe à celle-ci la formule du serment que le ou
 les experts prêteront par écrit et déposeront au greffe dans les trois jours
 pour être joint au dossier de l'affaire.
+
+Par le serment, l'expert s'engage à accomplir sa mission avec conscience,
+objectivité, impartialité et diligence.

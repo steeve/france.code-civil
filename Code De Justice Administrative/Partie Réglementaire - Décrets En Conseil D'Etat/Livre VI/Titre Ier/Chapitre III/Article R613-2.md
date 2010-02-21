@@ -11,3 +11,9 @@ jours le délai de convocation à l'audience, l'instruction est close soit aprè
 que les parties ou leurs mandataires ont formulé leurs observations orales,
 soit, si ces parties sont absentes ou ne sont pas représentées, après appel de
 leur affaire à l'audience.
+
+Lorsqu'une partie appelée à produire un mémoire n'a pas respecté, depuis plus
+d'un mois, le délai qui lui a été assigné par une mise en demeure comportant les
+mentions prévues par le troisième alinéa de l'article R. 612-3 ou lorsque la
+date prévue par l'article R. 611-11-1 est échue, l'instruction peut être close à
+la date d'émission de l'avis d'audience. Cet avis le mentionne.

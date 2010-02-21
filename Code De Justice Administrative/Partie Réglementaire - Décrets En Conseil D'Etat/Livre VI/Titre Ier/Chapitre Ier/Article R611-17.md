@@ -5,3 +5,5 @@ communication de la requête. Il fixe, eu égard aux circonstances de l'affaire,
 le délai accordé aux parties pour produire leurs mémoires. Il peut demander aux
 parties, pour être joints à la procédure contradictoire, toutes pièces ou tous
 documents utiles à la solution du litige.
+
+Les dispositions du deuxième alinéa de l'article R. 611-10 sont applicables.

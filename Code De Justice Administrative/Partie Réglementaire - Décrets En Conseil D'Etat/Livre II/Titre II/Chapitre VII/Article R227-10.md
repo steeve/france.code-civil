@@ -9,4 +9,4 @@ Le chef de la juridiction auprès de laquelle l'assistant de justice est affect�
 atteste de la réalité du service fait.
 
 Le nombre de vacations horaires allouées à un même bénéficiaire ne peut excéder
-80 par mois dans la limite de 720 par an.
+120 par mois dans la limite de 1080 par an.

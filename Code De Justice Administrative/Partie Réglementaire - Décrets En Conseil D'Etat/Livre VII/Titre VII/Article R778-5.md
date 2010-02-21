@@ -9,6 +9,9 @@ donner suite à la décision de celle-ci.
 
 L'instruction est close soit après que les parties ou leurs mandataires ont
 formulé leurs observations orales, soit, si ces parties sont absentes ou ne sont
-pas représentées, après appel de leur affaire à l'audience.
+pas représentées, après appel de leur affaire à l'audience. Toutefois, afin de
+permettre aux parties de verser des pièces complémentaires, le juge peut décider
+de différer la clôture de l'instruction à une date postérieure dont il les avise
+par tous moyens.
 
 L'instruction est rouverte en cas de renvoi à une autre audience.

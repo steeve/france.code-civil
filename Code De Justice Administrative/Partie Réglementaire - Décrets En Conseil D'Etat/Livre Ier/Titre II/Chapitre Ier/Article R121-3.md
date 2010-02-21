@@ -1,10 +1,11 @@
 Article R121-3
 ----
-Les conseillers d'Etat en service ordinaire sont affectés soit à une section
-administrative, soit à la section du contentieux, soit à deux sections
-administratives, soit à la fois à une section administrative et à la section du
-contentieux, soit à trois sections, dont la section du contentieux et la section
-du rapport et des études. Les présidents adjoints ainsi que les présidents des
-sous-sections de la section du contentieux sont affectés uniquement à cette
-section ; ils peuvent toutefois être affectés à la section du rapport et des
-études.
+Les conseillers d'Etat en service ordinaire, les maîtres des requêtes et les
+auditeurs peuvent être affectés soit à une, soit à deux sections.
+
+Toutefois, les maîtres des requêtes et les auditeurs qui comptent moins de trois
+années de service dans une juridiction administrative sont affectés uniquement à
+la section du contentieux.
+
+Les présidents adjoints ainsi que les présidents des sous-sections de la section
+du contentieux sont également affectés uniquement à cette section.

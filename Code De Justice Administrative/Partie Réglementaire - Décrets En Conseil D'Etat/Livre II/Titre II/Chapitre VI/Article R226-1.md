@@ -16,9 +16,18 @@ de chambre, le greffier est chargé du bon déroulement de la procédure
 juridictionnelle pour les dossiers qui lui sont confiés. Il encadre les agents
 de greffe chargés de le seconder.
 
-Le greffier en chef et les greffiers sont choisis parmi les fonctionnaires des
-corps de l'intérieur et de l'outre-mer, selon le cas par le président du
-tribunal administratif ou le président de la cour administrative d'appel.
+Les greffiers en chef et les greffiers sont nommés par le ministre de
+l'intérieur sur proposition du vice-président du Conseil d'Etat, après avis,
+selon le cas, du président du tribunal administratif ou du président de la cour
+administrative d'appel.
 
-Les greffiers en chef doivent avoir au moins le grade d'attaché et les greffiers
-au moins celui de secrétaire administratif.
+Dans les tribunaux administratifs et les cours administratives d'appel dont la
+liste est fixée par arrêté conjoint du ministre de l'intérieur et du garde des
+sceaux, ministre de la justice, les greffiers en chef sont nommés sur des
+emplois de conseiller d'administration de l'intérieur et de l'outre-mer, dans
+les conditions prévues par le décret n° 2007-1488 du 17 octobre 2007.
+
+Les greffiers en chef des autres juridictions et les greffiers sont nommés parmi
+les fonctionnaires des corps de l'intérieur et de l'outre-mer. Les greffiers en
+chef doivent avoir au moins le grade d'attaché. Les greffiers doivent avoir au
+moins le grade de secrétaire administratif.

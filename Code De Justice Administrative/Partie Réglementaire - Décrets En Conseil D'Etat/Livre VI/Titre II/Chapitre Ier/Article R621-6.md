@@ -6,4 +6,5 @@ récusation peut viser tant la personne morale elle-même que la ou les personne
 physiques qui assurent en son nom l'exécution de la mesure. La partie qui entend
 récuser l'expert ou le sapiteur doit le faire avant le début des opérations ou
 dès la révélation de la cause de la récusation. Si l'expert ou le sapiteur
-s'estime récusable, il doit immédiatement le déclarer au juge qui l'a commis.
+s'estime récusable, il doit immédiatement le déclarer au président de la
+juridiction ou, au Conseil d'Etat, au président de la section du contentieux.

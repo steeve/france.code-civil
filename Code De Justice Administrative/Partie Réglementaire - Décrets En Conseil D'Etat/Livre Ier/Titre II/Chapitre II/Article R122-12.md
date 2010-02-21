@@ -1,6 +1,7 @@
 Article R122-12
 ----
-Les présidents de sous-sections peuvent, par ordonnance :
+Le président de la section du contentieux et les présidents de sous-section
+peuvent, par ordonnance :
 
 1° Donner acte des désistements ;
 
