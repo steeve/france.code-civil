@@ -1,13 +1,15 @@
 Article R235-2
 ----
-Les membres du corps des tribunaux administratifs et des cours administratives
-d'appel accomplissent la mobilité statutaire prévue par le décret n° 2008-15 du
-4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des
-corps recrutés par la voie de l'Ecole nationale d'administration dans les
-conditions définies par ce décret. Toutefois, ils ne peuvent accomplir cette
-mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à
-la Cour de cassation.A la fin de la période au cours de laquelle ils ont
-accompli la mobilité, ils sont réintégrés de droit et au besoin en surnombre
-dans leur corps d'origine. Chacun d'eux doit retrouver, s'il le demande, une
-affectation dans la juridiction à laquelle il était précédemment affecté
-lorsqu'une vacance y est ouverte à la fin de sa période de mobilité.
+Sans préjudice des dispositions de l'article R. 235-1 ainsi que des cas de
+détachement de plein droit, de détachement dans les fonctions de sous-préfet ou
+pour occuper un emploi fonctionnel ou l'un des emplois pour lesquels la
+nomination est laissée à la décision du Gouvernement, les magistrats des
+tribunaux administratifs et des cours administratives d'appel ne peuvent être
+détachés ou mis à disposition que s'ils comptent au moins quatre années de
+services effectifs.
+
+Les détachements ou mises à disposition des membres du corps des tribunaux
+administratifs et des cours administratives d'appel ainsi que les décisions de
+maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande
+des intéressés, après avis du chef de la mission permanente d'inspection des
+juridictions administratives.
