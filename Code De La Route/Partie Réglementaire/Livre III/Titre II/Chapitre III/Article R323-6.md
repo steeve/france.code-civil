@@ -1,9 +1,10 @@
 Article R323-6
 ----
 I.-Les contrôles techniques prévus au présent chapitre sont effectués par les
-services de l'Etat ou par un contrôleur agréé par l'Etat exerçant ses fonctions,
-dans les conditions prévues par la présente section, dans des installations de
-contrôle agréées rattachées, le cas échéant, à un réseau de contrôle agréé.
+services de l'Etat ou par un contrôleur agréé par l'Etat ou un prestataire visé
+au II de l'article L. 323-1 exerçant ses fonctions, dans les conditions prévues
+par la présente section, dans des installations de contrôle agréées rattachées,
+le cas échéant, à un réseau de contrôle agréé.
 
 II.-Pour l'application de la présente section, sont considérés comme véhicules
 légers les véhicules mentionnés à l'article R. 323-22 et les véhicules
