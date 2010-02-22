@@ -8,12 +8,12 @@ ayant fait l'objet d'une réhabilitation ou d'une rénovation ou qui fait l'obje
 de travaux de réhabilitation ou de rénovation si les travaux de réhabilitation
 ou de rénovation permettent, après leur réalisation, de satisfaire à l'ensemble
 des performances techniques mentionnées au II de l'article 2 quindecies B de
-l'annexe III , qu'ils destinent à une location meublée n'étant pas exercée à
+l'annexe III, qu'ils destinent à une location meublée n'étant pas exercée à
 titre professionnel et dont le produit est imposé dans la catégorie des
 bénéfices industriels et commerciaux lorsque ce logement est compris dans :
 
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de
-l'action sociale et des familles , une résidence avec services pour personnes
+l'action sociale et des familles, une résidence avec services pour personnes
 âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L.
 7232-3 du code du travail ou l'ensemble des logements affectés à l'accueil
 familial salarié de personnes âgées ou handicapées, prévu par les articles L.
@@ -24,8 +24,10 @@ médico-sociale ;
 
 3° Une résidence de tourisme classée ;
 
-4° Un établissement mentionné au 2° de l'article L. 6111-2 du code de la santé
-publique.
+4° Un établissement délivrant des soins de longue durée, mentionné au dixième
+alinéa du 3° de l'article L. 6143-5 du code de la santé publique, et comportant
+un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état
+nécessite une surveillance médicale constante et des traitements d'entretien.
 
 II.-La réduction d'impôt est calculée sur le prix de revient des logements
 retenu pour sa fraction inférieure à 300 000 €. Lorsqu'elle est acquise au titre
