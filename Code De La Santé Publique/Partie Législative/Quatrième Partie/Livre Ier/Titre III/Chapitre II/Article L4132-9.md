@@ -8,9 +8,9 @@ consultative :
 2° Un professeur d'une unité de formation et de recherche de médecine de la
 région, désigné par le ministre chargé de l'enseignement supérieur ;
 
-3° Un praticien-conseil désigné par le médecin-conseil régional auprès de la
-caisse régionale d'assurance maladie des travailleurs salariés, pour les
-affaires relevant de l'application des lois sur la sécurité sociale.
+3° Un praticien-conseil d'un échelon local du service médical désigné par le
+médecin-conseil régional, pour les affaires relevant de l'application des lois
+sur la sécurité sociale.
 
 Un représentant des médecins salariés, désigné par le président du tribunal
 administratif, est adjoint à chaque chambre disciplinaire de première instance,

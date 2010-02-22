@@ -11,8 +11,8 @@ doit être obtenue dans les mêmes conditions par tout organisme qui assure la
 conservation et la préparation de tissus et cellules du corps humain en vue de
 leur cession à titre gratuit pour un usage scientifique. Lorsque l'organisme est
 un établissement de santé, l'autorisation est délivrée de manière conjointe par
-le ministre chargé de la recherche et le directeur de l'agence régionale de
-l'hospitalisation territorialement compétent.
+le ministre chargé de la recherche et le directeur général de l'agence régionale
+de santé territorialement compétent.
 
 Les dispositions du présent article sont applicables aux organismes assurant des
 activités de conservation et de préparation des organes, du sang, de ses

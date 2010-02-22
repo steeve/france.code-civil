@@ -15,11 +15,11 @@ régionales ;
 conditions prévues au 1° de l'article L. 162-22-1.
 
 II.-La Caisse nationale de l'assurance maladie des travailleurs salariés
-communique à l'Etat, aux agences régionales de l'hospitalisation, pour
-l'ensemble des régimes obligatoires d'assurance maladie, des états provisoires
-et des états définitifs du montant total des charges mentionnées au I de
-l'article L. 162-22-2 et sa répartition par région, par établissement et par
-nature d'activité.
+communique à l'Etat, aux agences régionales de santé, pour l'ensemble des
+régimes obligatoires d'assurance maladie, des états provisoires et des états
+définitifs du montant total des charges mentionnées au I de l'article L.
+162-22-2 et sa répartition par région, par établissement et par nature
+d'activité.
 
 II bis.-Lorsque le Comité d'alerte sur l'évolution des dépenses de l'assurance
 maladie émet un avis considérant qu'il existe un risque sérieux de dépassement

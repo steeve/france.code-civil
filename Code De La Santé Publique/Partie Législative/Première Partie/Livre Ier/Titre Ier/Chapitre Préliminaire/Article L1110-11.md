@@ -20,9 +20,8 @@ médico-sociaux doivent conclure, avec les établissements concernés, une
 convention conforme à une convention type définie par décret en Conseil d'Etat.
 A défaut d'une telle convention ou lorsqu'il est constaté des manquements au
 respect des dispositions de la convention, le directeur de l'établissement, ou à
-défaut le représentant de l'Etat dans la région, en accord avec le directeur
-régional de l'action sanitaire et sociale, interdit l'accès de l'établissement
-aux membres de cette association.
+défaut le directeur général de l'agence régionale de santé, interdit l'accès de
+l'établissement aux membres de cette association.
 
 Seules les associations ayant conclu la convention mentionnée à l'alinéa
 précédent peuvent organiser l'intervention des bénévoles au domicile des

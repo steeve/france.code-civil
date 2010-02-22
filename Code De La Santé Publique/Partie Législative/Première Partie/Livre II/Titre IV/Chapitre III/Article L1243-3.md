@@ -8,10 +8,10 @@ des organes, du sang, de ses composants et de ses produits dérivés. Ces
 activités incluent la constitution et l'utilisation de collections
 d'échantillons biologiques humains. Lorsque l'organisme est un établissement de
 santé, la déclaration est faite conjointement au ministre chargé de la recherche
-et au directeur de l'agence régionale de l'hospitalisation territorialement
+et au directeur général de l'agence régionale de santé territorialement
 compétent.
 
-Les termes "collections d'échantillons biologiques humains" désignent la
+Les termes " collections d'échantillons biologiques humains " désignent la
 réunion, à des fins scientifiques, de prélèvements biologiques effectués sur un
 groupe de personnes identifiées et sélectionnées en fonction des
 caractéristiques cliniques ou biologiques d'un ou plusieurs membres du groupe,
@@ -22,26 +22,26 @@ déclaration à l'avis préalable d'un comité, défini au chapitre III du titre
 du livre Ier de la présente partie, qui a pour mission d'évaluer la qualité de
 l'information des participants, les modalités de recueil du consentement et la
 pertinence éthique et scientifique du projet. La déclaration est adressée au
-ministre chargé de la recherche et, le cas échéant, au directeur de l'agence
-régionale de l'hospitalisation territorialement compétent, concomitamment à la
-soumission pour avis au comité. L'avis de ce dernier leur est transmis sans
+ministre chargé de la recherche et, le cas échéant, au directeur général de
+l'agence régionale de santé territorialement compétent, concomitamment à la
+soumission pour avis au comité.L'avis de ce dernier leur est transmis sans
 délai.
 
-Le ministre chargé de la recherche et, le cas échéant, le directeur de l'agence
-régionale de l'hospitalisation territorialement compétent peuvent s'opposer,
-dans un délai fixé par voie réglementaire, à l'exercice des activités ainsi
-déclarées si les conditions d'approvisionnement, de conservation et
-d'utilisation des tissus et cellules issus du corps humain ne présentent pas les
-garanties suffisantes pour assurer le respect soit des dispositions du titre Ier
-du présent livre, soit des règles en vigueur en matière de sécurité des
-personnes exerçant une activité professionnelle sur le site, soit des
-dispositions applicables en matière de protection de l'environnement. Ils
-peuvent également s'opposer à l'exercice des activités ainsi déclarées au regard
-de la qualité de l'information des participants, des modalités de recueil du
-consentement et de la pertinence éthique et scientifique du projet.
+Le ministre chargé de la recherche et, le cas échéant, le directeur général de
+l'agence régionale de santé territorialement compétent peuvent s'opposer, dans
+un délai fixé par voie réglementaire, à l'exercice des activités ainsi déclarées
+si les conditions d'approvisionnement, de conservation et d'utilisation des
+tissus et cellules issus du corps humain ne présentent pas les garanties
+suffisantes pour assurer le respect soit des dispositions du titre Ier du
+présent livre, soit des règles en vigueur en matière de sécurité des personnes
+exerçant une activité professionnelle sur le site, soit des dispositions
+applicables en matière de protection de l'environnement. Ils peuvent également
+s'opposer à l'exercice des activités ainsi déclarées au regard de la qualité de
+l'information des participants, des modalités de recueil du consentement et de
+la pertinence éthique et scientifique du projet.
 
-Le ministre chargé de la recherche et, le cas échéant, le directeur de l'agence
-régionale de l'hospitalisation territorialement compétent peuvent à tout moment
+Le ministre chargé de la recherche et, le cas échéant, le directeur général de
+l'agence régionale de santé territorialement compétent peuvent à tout moment
 suspendre ou interdire les activités qui ne répondent plus à ces exigences.
 
 Préalablement à la décision d'opposition, de suspension ou d'interdiction, le

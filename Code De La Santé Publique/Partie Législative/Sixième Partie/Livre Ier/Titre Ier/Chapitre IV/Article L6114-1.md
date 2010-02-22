@@ -6,8 +6,8 @@ d'objectifs et de moyens d'une durée maximale de cinq ans. Lorsqu'il comporte
 des clauses relatives à l'exécution d'une mission de service public, le contrat
 est signé pour une durée de cinq ans.
 
-Les contrats sont signés par le directeur de l'agence régionale et les personnes
-physiques et morales mentionnées à l'alinéa précédent.
+Les contrats sont signés par le directeur général de l'agence régionale et les
+personnes physiques et morales mentionnées à l'alinéa précédent.
 
 Ils peuvent faire l'objet d'une révision par avenant.
 
@@ -19,9 +19,9 @@ recherche, le contrat est signé par l'Institut national de la santé et de la
 recherche médicale.
 
 La demande de renouvellement des contrats est déposée auprès de l'agence
-régionale de l'hospitalisation un an avant leur échéance.L'agence est tenue de
-se prononcer sur cette demande dans un délai de quatre mois à compter de sa
-réception. Le refus de renouvellement doit être motivé.
+régionale de santé un an avant leur échéance.L'agence est tenue de se prononcer
+sur cette demande dans un délai de quatre mois à compter de sa réception. Le
+refus de renouvellement doit être motivé.
 
 Le contrat peut être résilié par l'agence régionale de santé en cas de
 manquement grave de l'établissement de santé ou du titulaire de l'autorisation à

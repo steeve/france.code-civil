@@ -1,11 +1,11 @@
 Article L4123-10
 ----
 Lorsque, par leur fait, les membres d'un conseil départemental mettent celui-ci
-dans l'impossibilité de fonctionner, le représentant de l'Etat dans le
-département, sur proposition du conseil national de l'ordre, nomme une
-délégation de trois à cinq membres suivant l'importance numérique du conseil
-défaillant. Cette délégation assure les fonctions du conseil départemental
-jusqu'à l'élection d'un nouveau conseil.
+dans l'impossibilité de fonctionner, le directeur général de l'agence régionale
+de santé, sur proposition du conseil national de l'ordre, nomme une délégation
+de trois à cinq membres suivant l'importance numérique du conseil défaillant.
+Cette délégation assure les fonctions du conseil départemental jusqu'à
+l'élection d'un nouveau conseil.
 
 En cas de démission de la majorité des membres de cette délégation, celle-ci est
 dissoute de plein droit et le conseil national organise de nouvelles élections

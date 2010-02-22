@@ -53,7 +53,7 @@ spécialités qui en sont génériques. Toutefois, une spécialité remplissant 
 conditions pour être une spécialité de référence, qui présente la même
 composition qualitative en substance active, la même composition quantitative en
 substance active ou, à défaut, une fraction thérapeutique active identique dans
-les limites prévues à l'annexe I de la directive 2001/83/CE du Parlement
+les limites prévues à l'annexe I de la directive 2001 / 83 / CE du Parlement
 européen et du Conseil du 6 novembre 2001 instituant un code communautaire
 relatif aux médicaments à usage humain, et la même forme pharmaceutique qu'une
 spécialité de référence d'un groupe générique déjà existant, et dont la
@@ -101,8 +101,8 @@ d'une autre substance avant administration ;
 11° Médicament homéopathique, tout médicament obtenu à partir de substances
 appelées souches homéopathiques, selon un procédé de fabrication homéopathique
 décrit par la pharmacopée européenne, la pharmacopée française ou, à défaut, par
-les pharmacopées utilisées de façon officielle dans un autre Etat membre de la
-Communauté européenne. Un médicament homéopathique peut aussi contenir plusieurs
+les pharmacopées utilisées de façon officielle dans un autre Etat membre de
+l'Union européenne. Un médicament homéopathique peut aussi contenir plusieurs
 principes ;
 
 12° Préparation de thérapie génique, tout médicament autre que les spécialités
@@ -125,7 +125,7 @@ prescription médicale à un ou plusieurs patients. Elles font l'objet d'une
 autorisation de l'Agence française de sécurité sanitaire des produits de santé
 pour une indication thérapeutique donnée. Cette autorisation peut être assortie
 de conditions particulières ou de restrictions d'utilisation. Elle peut être
-modifiée, suspendue ou retirée. L'Agence de la biomédecine est informée des
+modifiée, suspendue ou retirée.L'Agence de la biomédecine est informée des
 décisions relatives à ces préparations prises en application du présent alinéa ;
 
 14° Médicament biologique, tout médicament dont la substance active est produite

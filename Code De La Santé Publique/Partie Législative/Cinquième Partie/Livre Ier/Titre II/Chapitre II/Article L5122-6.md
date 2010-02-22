@@ -11,7 +11,7 @@ sans intervention d'un médecin pour le diagnostic, l'initiation ou la
 surveillance du traitement.
 
 La publicité auprès du public pour un médicament bénéficiant d'une autorisation
-de mise sur le marché délivrée par la Communauté européenne en application du
+de mise sur le marché délivrée par l'Union européenne en application du
 règlement (CE) n° 726 / 2004 du Parlement européen et du Conseil, du 31 mars
 2004, établissant des procédures communautaires pour l'autorisation et la
 surveillance en ce qui concerne les médicaments à usage humain et à usage

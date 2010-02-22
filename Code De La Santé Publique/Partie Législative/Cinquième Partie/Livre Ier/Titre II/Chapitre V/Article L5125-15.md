@@ -13,9 +13,9 @@ auront été fermées.
 A la suite d'un regroupement dans la même commune ou dans des communes
 limitrophes, les licences libérées doivent être prises en compte au sein de la
 commune où s'effectue le regroupement pour appliquer les conditions prévues aux
-deux premiers alinéas de l'article L. 5125-11. Le représentant de l'Etat dans le
-département peut, après avis des syndicats représentatifs de la profession et du
-conseil compétent de l'ordre des pharmaciens, mettre fin à cette prise en compte
-à l'issue d'un délai de cinq ans à compter de la délivrance de l'autorisation de
-regroupement si les conditions prévues par le premier alinéa de l'article L.
-5125-3 ne sont plus remplies.
+deux premiers alinéas de l'article L. 5125-11. Le directeur général de l'agence
+régionale de santé peut, après avis des syndicats représentatifs de la
+profession et du conseil compétent de l'ordre des pharmaciens, mettre fin à
+cette prise en compte à l'issue d'un délai de cinq ans à compter de la
+délivrance de l'autorisation de regroupement si les conditions prévues par le
+premier alinéa de l'article L. 5125-3 ne sont plus remplies.

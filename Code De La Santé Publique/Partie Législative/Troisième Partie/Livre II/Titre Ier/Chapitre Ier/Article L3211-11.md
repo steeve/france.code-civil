@@ -4,8 +4,7 @@ Afin de favoriser leur guérison, leur réadaptation ou leur réinsertion social
 les personnes qui ont fait l'objet d'une hospitalisation sur demande d'un tiers
 ou d'une hospitalisation d'office peuvent bénéficier d'aménagements de leurs
 conditions de traitement sous forme de sorties d'essai, éventuellement au sein
-d'équipements et services ne comportant pas d'hospitalisation à temps complet
-mentionnés à l'article L. 6121-2.
+d'équipements et services ne comportant pas d'hospitalisation à temps complet.
 
 La sortie d'essai comporte une surveillance médicale. Sa durée ne peut dépasser
 trois mois ; elle est renouvelable. Le suivi de la sortie d'essai est assuré par

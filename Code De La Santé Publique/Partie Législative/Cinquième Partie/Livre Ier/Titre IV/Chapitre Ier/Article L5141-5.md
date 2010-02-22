@@ -2,7 +2,7 @@ Article L5141-5
 ----
 Tout médicament vétérinaire fabriqué industriellement ou selon une méthode dans
 laquelle intervient un processus industriel qui ne fait pas l'objet d'une
-autorisation de mise sur le marché délivrée par la Communauté européenne en
+autorisation de mise sur le marché délivrée par l'Union européenne en
 application du règlement (CE) n° 726 / 2004 du Parlement européen et du Conseil
 du 31 mars 2004 doit faire l'objet, avant sa mise sur le marché ou sa
 distribution à titre gratuit, d'une autorisation préalable de mise sur le marché
@@ -17,7 +17,7 @@ médicaments vétérinaires soumis aux essais de recherche et de développement,
 compris les essais cliniques.
 
 Une autorisation de mise sur le marché ne peut être délivrée qu'à un demandeur
-établi dans un Etat membre de la Communauté européenne.
+établi dans un Etat membre de l'Union européenne.
 
 Le demandeur de l'autorisation peut être dispensé de produire certaines données
 et études dans des conditions fixées par voie réglementaire.

@@ -44,8 +44,7 @@ sont révisés.
 
 Lors du renouvellement de l'autorisation prévu à l'article L. 6122-10, ou
 lorsque l'autorisation a fait l'objet de la révision prévue à l'article L.
-6121-2 ou à l'article L. 6122-12, les objectifs quantifiés fixés par le contrat
-pluriannuel d'objectifs et de moyens, relatifs à l'activité de soins ou
-l'équipement matériel lourd faisant l'objet de l'autorisation, sont révisés dans
-les six mois suivant le renouvellement ou la décision de révision de
-l'autorisation.
+6122-12, les objectifs quantifiés fixés par le contrat pluriannuel d'objectifs
+et de moyens, relatifs à l'activité de soins ou l'équipement matériel lourd
+faisant l'objet de l'autorisation, sont révisés dans les six mois suivant le
+renouvellement ou la décision de révision de l'autorisation.

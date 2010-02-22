@@ -14,5 +14,5 @@ b) Pour le transfert ou le retrait d'autorisation des débits de boissons dont
 l'ouverture est interdite.
 
 Les autorisations délivrées en vertu de l'article 33 ne peuvent l'être qu'à des
-personnes justifiant qu'elles sont françaises ou ressortissantes d'un Etat de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen.
+personnes justifiant qu'elles sont françaises ou ressortissantes d'un Etat de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen.

@@ -18,8 +18,7 @@ Ils peuvent soumettre à l'agence régionale de santé et appliquer les protocol
 définis à l'article L. 4011-2 dans les conditions prévues à l'article L. 4011-3.
 
 Ils sont créés et gérés soit par des organismes à but non lucratif, soit par des
-collectivités territoriales, soit par des établissements de santé publics ou des
-établissements de santé d'intérêt collectif.
+collectivités territoriales, soit par des établissements de santé.
 
 Les centres de santé élaborent un projet de santé incluant des dispositions
 tendant à favoriser l'accessibilité sociale, la coordination des soins et le

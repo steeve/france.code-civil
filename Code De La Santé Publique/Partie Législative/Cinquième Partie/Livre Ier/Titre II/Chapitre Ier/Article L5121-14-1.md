@@ -25,9 +25,9 @@ sur le marché ou de celui de l'enregistrement de médicament homéopathique,
 l'enregistrement prévu à l'alinéa précédent n'est pas applicable.
 
 Il est procédé à cet enregistrement si les critères mentionnés ci-dessus sont
-remplis et si le demandeur est établi dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen. Il peut être
-refusé en cas de danger pour la santé publique.
+remplis et si le demandeur est établi dans un Etat membre de l'Union européenne
+ou partie à l'accord sur l'Espace économique européen. Il peut être refusé en
+cas de danger pour la santé publique.
 
 L'enregistrement est effectué pour une durée de cinq ans. Il peut être
 renouvelé, le cas échéant sans limitation de durée, dans des conditions fixées

@@ -1,6 +1,6 @@
 Article L5141-15
 ----
-Les vétérinaires qui sont établis dans un autre Etat membre de la Communauté
+Les vétérinaires qui sont établis dans un autre Etat membre de l'Union
 européenne peuvent utiliser en France des médicaments vétérinaires autres
 qu'immunologiques ayant obtenu une autorisation de mise sur le marché dans cet
 Etat membre, lorsque ces médicaments ne sont pas autorisés en France, pour

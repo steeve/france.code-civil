@@ -8,11 +8,11 @@ nationaux intervenus ou à intervenir en cette matière en vue de prévenir la
 propagation par voie terrestre, maritime ou aérienne des maladies
 transmissibles.
 
-Ce contrôle est assuré par les agents mentionnés à l'article L. 1421-1. En cas
-de nécessité, le représentant de l'Etat dans le département peut également
-habiliter les agents des ministères chargés de l'agriculture, de la défense, des
-douanes, de la police de l'air et des frontières, de la mer et des transports
-pour effectuer ce contrôle.
+Ce contrôle est assuré par les agents mentionnés aux articles L. 1421-1 et L.
+1435-7. En cas de nécessité, le représentant de l'Etat dans le département peut
+également habiliter les agents des ministères chargés de l'agriculture, de la
+défense, des douanes, de la police de l'air et des frontières, de la mer et des
+transports pour effectuer ce contrôle.
 
 Ces agents disposent à cet effet des prérogatives mentionnées aux articles L.
 1421-2 et L. 1421-3.

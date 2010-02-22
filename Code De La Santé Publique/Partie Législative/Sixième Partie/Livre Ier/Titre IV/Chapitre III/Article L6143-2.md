@@ -8,7 +8,7 @@ du code de l'éducation. Il comporte un projet de prise en charge des patients e
 cohérence avec le projet médical et le projet de soins infirmiers, de
 rééducation et médico-techniques, ainsi qu'un projet social. Le projet
 d'établissement, qui doit être compatible avec les objectifs du schéma
-d'organisation sanitaire, définit, dans le cadre des territoires de santé, la
+d'organisation des soins, définit, dans le cadre des territoires de santé, la
 politique de l'établissement en matière de participation aux réseaux de santé
 mentionnés à l'article L. 6321-1 et d'actions de coopération mentionnées au
 titre III du présent livre. Il prévoit les moyens d'hospitalisation, de

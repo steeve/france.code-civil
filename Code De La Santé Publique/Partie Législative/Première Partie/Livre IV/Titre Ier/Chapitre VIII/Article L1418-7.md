@@ -2,7 +2,7 @@ Article L1418-7
 ----
 Les ressources de l'agence comprennent :
 
-1° Des subventions de l'Etat, de la Communauté européenne ou d'organisations
+1° Des subventions de l'Etat, de l'Union européenne ou d'organisations
 internationales ;
 
 2° Une dotation globale versée dans les conditions prévues par l'article L.

@@ -18,14 +18,16 @@ Des recommandations de bonne pratique établies par la Haute Autorité de santé
 par l'Agence française de sécurité sanitaire des produits de santé accompagnent,
 pour chaque thème, les références opposables. Les recommandations concernant le
 médicament sont diffusées par l'Agence française de sécurité sanitaire des
-produits de santé ; les autres sont, en ce qui concerne les médecins, diffusées
-par l'intermédiaire des unions régionales des médecins exerçant à titre libéral.
+produits de santé ; les autres sont, en ce qui concerne les professions de santé
+, diffusées par l'intermédiaire des unions régionales des professionnels de
+santé.
 
 Ces références sont également mises en oeuvre par les établissements de santé
-publics ou privés participant au service public hospitalier, pour ce qui
-concerne leurs activités de consultation externe. Leur respect est, le cas
-échéant, pris en compte dans la procédure d'accréditation prévue à l'article L.
-710-5 du code de la santé publique.
+assurant une ou plusieurs des missions de service public définies à l' article
+L. 6112-1 du code de la santé publique , pour ce qui concerne leurs activités de
+consultation externe. Leur respect est, le cas échéant, pris en compte dans la
+procédure de certification prévue à l'article L. 6113-3 du code de la santé
+publique .
 
 Les recommandations mentionnées au troisième alinéa sont également diffusées
 dans les établissements de santé publics ou privés participant au secteur public

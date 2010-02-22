@@ -28,9 +28,9 @@ l'article L. 434-17.
 
 La majoration est payée par la caisse, qui en récupère le montant par
 l'imposition d'une cotisation complémentaire dont le taux et la durée sont fixés
-par la caisse régionale d'assurance maladie sur la proposition de la caisse
-primaire, en accord avec l'employeur, sauf recours devant la juridiction de la
-sécurité sociale compétente.
+par la caisse d'assurance retraite et de la santé au travail sur la proposition
+de la caisse primaire, en accord avec l'employeur, sauf recours devant la
+juridiction de la sécurité sociale compétente.
 
 La cotisation complémentaire ainsi prévue ne peut être perçue au-delà d'une
 certaine durée et son taux excéder ni une fraction de la cotisation normale de

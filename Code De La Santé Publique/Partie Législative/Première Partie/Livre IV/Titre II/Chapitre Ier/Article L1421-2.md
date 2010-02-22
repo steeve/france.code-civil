@@ -11,4 +11,4 @@ ou lorsqu'une activité est en cours.
 Lorsque l'accès est refusé aux agents mentionnés au premier alinéa, il peut être
 autorisé par l'autorité judiciaire dans les conditions fixées à l'article L.
 1421-2-1, sans préjudice des poursuites pénales qui peuvent être exercées en
-application de l'article L. 1425-1.
+application de l'article L. 1426-1 (1).

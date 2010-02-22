@@ -47,8 +47,9 @@ curatives des professionnels mentionnés au 1° ;
 7° Les mesures d'adaptation, notamment incitatives, des dispositions de
 l'article L. 162-14-1 et du présent article applicables aux
 chirurgiens-dentistes, sages-femmes et auxiliaires médicaux en fonction du
-niveau de l'offre en soins au sein de chaque région dans les zones au sens du 2°
-de l'article L. 162-47. Ces modalités sont définies après concertation des
+niveau de l'offre en soins au sein de chaque région dans les zones définies par
+l'agence régionale de santé en application de l' article L. 1434-7 du code de la
+santé publique . Ces modalités sont définies après concertation des
 organisations les plus représentatives des étudiants et jeunes
 chirurgiens-dentistes, sages-femmes et auxiliaires médicaux ;
 
@@ -57,9 +58,6 @@ maladie au développement professionnel continu.
 
 Elles fixent également les modalités d'application du 3°, et notamment les
 conditions dans lesquelles le professionnel concerné présente ses observations.
-
-Pour la mise en oeuvre des 5° et 6°, il peut être fait application des
-dérogations mentionnées au II de l'article L. 162-31-1.
 
 Si elle autorise un dépassement pour les soins visés au 3° de l'article L.
 861-3, la convention nationale intéressant les chirurgiens-dentistes fixe le

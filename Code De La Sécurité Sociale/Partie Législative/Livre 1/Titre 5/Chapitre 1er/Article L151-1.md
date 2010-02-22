@@ -1,9 +1,10 @@
 Article L151-1
 ----
 Les décisions des conseils ou des conseils d'administration des caisses
-primaires et régionales d'assurance maladie et d'assurance vieillesse des
-travailleurs salariés, des caisses d'allocations familiales et des unions de
-recouvrement sont soumises au contrôle de l'autorité compétente de l'Etat.
+primaires d'assurance maladie, des caisses d'assurance retraite et de la santé
+au travail des travailleurs salariés, des caisses d'allocations familiales et
+des unions de recouvrement sont soumises au contrôle de l'autorité compétente de
+l'Etat.
 
 L'autorité compétente de l'Etat peut annuler ces décisions lorsqu'elles sont
 contraires à la loi. Un décret en Conseil d'Etat détermine les modalités
@@ -23,6 +24,5 @@ infirmée et que sa délibération n'est pas devenue définitive conformément �
 l'article L. 226-4.
 
 Des décrets en Conseil d'Etat déterminent les conditions d'application du
-présent article aux unions régionales des caisses d'assurance maladie, aux
-régimes spéciaux mentionnés à l'article L. 711-1 et aux organismes du régime
-social des indépendants.
+présent article, aux régimes spéciaux mentionnés à l'article L. 711-1 et aux
+organismes du régime social des indépendants.

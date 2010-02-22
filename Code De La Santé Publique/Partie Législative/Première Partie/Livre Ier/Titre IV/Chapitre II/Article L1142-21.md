@@ -12,9 +12,9 @@ ses ayants droit au titre de l'article L. 1142-1-1, celui-ci ne peut exercer une
 action récursoire contre le professionnel, l'établissement de santé, le service
 ou l'organisme concerné ou son assureur, sauf en cas de faute établie à
 l'origine du dommage, notamment le manquement caractérisé aux obligations posées
-par la réglementation en matière de lutte contre les infections nosocomiales.
-L'office signale sans délai l'infection nosocomiale à l'autorité compétente
-mentionnée à l'article L. 6115-3.
+par la réglementation en matière de lutte contre les infections
+nosocomiales.L'office signale sans délai l'infection nosocomiale au directeur
+général de l'agence régionale de santé.
 
 Lorsque la juridiction compétente, saisie d'une demande d'indemnisation des
 conséquences dommageables de l'aggravation d'une infection nosocomiale, estime

@@ -34,11 +34,8 @@ d'évaluation associées aux formes d'exercice et modes de rémunération mentio
 aux a et b ci-dessus ;
 
 6° Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
-des examens de biologie médicale ainsi que les modes de rémunération des
+des analyses de biologie médicale ainsi que les modes de rémunération des
 activités non curatives des directeurs de laboratoire de biologie médicale.
-
-Pour la mise en œuvre des 5° et 6°, il peut être fait applications des
-dérogations mentionnées à l'article L. 162-45.
 
 La convention définit les exigences particulières sans motif médical des
 patients donnant lieu à dépassement des tarifs.

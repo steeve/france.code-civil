@@ -11,11 +11,11 @@ ministre chargé de l'agriculture.
 
 Pour les médicaments vétérinaires destinés à une ou plusieurs espèces
 productrices de denrées alimentaires, et contenant une nouvelle substance active
-qui, au 30 avril 2004, n'a pas encore été autorisée dans la Communauté
-européenne, la période de dix ans prévue au premier alinéa est prolongée d'un an
-pour chaque extension de l'autorisation à une autre espèce animale productrice
-de denrées alimentaires, si elle est autorisée dans les cinq ans qui suivent la
-délivrance de l'autorisation de mise sur le marché initiale.
+qui, au 30 avril 2004, n'a pas encore été autorisée dans l'Union européenne, la
+période de dix ans prévue au premier alinéa est prolongée d'un an pour chaque
+extension de l'autorisation à une autre espèce animale productrice de denrées
+alimentaires, si elle est autorisée dans les cinq ans qui suivent la délivrance
+de l'autorisation de mise sur le marché initiale.
 
 Cette période ne peut toutefois dépasser treize ans au total, pour une
 autorisation de mise sur le marché concernant quatre espèces productrices de

@@ -1,7 +1,7 @@
 Article L313-11
 ----
 Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour
-temporaire portant la mention "vie privée et familiale" est délivrée de plein
+temporaire portant la mention " vie privée et familiale " est délivrée de plein
 droit :
 
 1° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant
@@ -28,11 +28,12 @@ française. La condition prévue à l'article L. 311-7 n'est pas exigée ;
 
 3° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant
 dans les prévisions de l'article L. 311-3, dont l'un des parents est titulaire
-de la carte de séjour "compétences et talents" ou de la carte de séjour
-temporaire portant la mention "salarié en mission", ainsi qu'à l'étranger dont
+de la carte de séjour " compétences et talents " ou de la carte de séjour
+temporaire portant la mention " salarié en mission ", ainsi qu'à l'étranger dont
 le conjoint est titulaire de l'une de ces cartes. Le titulaire de la carte de
-séjour temporaire portant la mention "salarié en mission" doit résider en France
-dans les conditions définies au dernier alinéa du 5° de l'article L. 313-10 ;
+séjour temporaire portant la mention " salarié en mission " doit résider en
+France dans les conditions définies au dernier alinéa du 5° de l'article L.
+313-10 ;
 
 4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant
 de nationalité française, à condition que la communauté de vie n'ait pas cessé
@@ -41,8 +42,8 @@ lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit
 préalablement sur les registres de l'état civil français ;
 
 5° A l'étranger ne vivant pas en état de polygamie, marié à un ressortissant
-étranger titulaire d'une carte de séjour temporaire portant la mention
-"scientifique" ;
+étranger titulaire d'une carte de séjour temporaire portant la mention "
+scientifique " ;
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un
 enfant français mineur résidant en France, à la condition qu'il établisse
@@ -88,8 +89,10 @@ lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puis
 effectivement bénéficier d'un traitement approprié dans le pays dont il est
 originaire, sans que la condition prévue à l'article L. 311-7 soit exigée. La
 décision de délivrer la carte de séjour est prise par l'autorité administrative,
-après avis du médecin inspecteur de santé publique compétent au regard du lieu
-de résidence de l'intéressé ou, à Paris, du médecin, chef du service médical de
-la préfecture de police. Le médecin inspecteur ou le médecin chef peut convoquer
-le demandeur pour une consultation médicale devant une commission médicale
-régionale dont la composition est fixée par décret en Conseil d'Etat.
+après avis du médecin de l'agence régionale de santé de la région de résidence
+de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du
+médecin, chef du service médical de la préfecture de police. Le médecin de
+l'agence régionale de santé ou, à Paris, le chef du service médical de la
+préfecture de police peut convoquer le demandeur pour une consultation médicale
+devant une commission médicale régionale dont la composition est fixée par
+décret en Conseil d'Etat.

@@ -15,12 +15,12 @@ incapacité, en cas d'accident du travail ou de maladie professionnelle ;
 livre VII du code rural autres que celles relevant du contentieux général de la
 sécurité sociale ;
 
-4°) aux décisions des caisses régionales d'assurance maladie et des caisses de
-mutualité sociale agricole concernant, en matière d'accident du travail agricole
-et non agricole, la fixation du taux de cotisation, l'octroi de ristournes,
-l'imposition de cotisations supplémentaires et, pour les accidents régis par le
-livre IV du code de la sécurité sociale, la détermination de la contribution
-prévue à l'article L. 437-1 du présent code.
+4°) aux décisions des caisses d'assurance retraite et de la santé au travail et
+des caisses de mutualité sociale agricole concernant, en matière d'accident du
+travail agricole et non agricole, la fixation du taux de cotisation, l'octroi de
+ristournes, l'imposition de cotisations supplémentaires et, pour les accidents
+régis par le livre IV du code de la sécurité sociale, la détermination de la
+contribution prévue à l'article L. 437-1 du présent code.
 
 Les dispositions des 1° à 3° du présent article ne sont pas applicables aux
 accidents du travail survenus et aux maladies professionnelles constatées dans

@@ -37,10 +37,10 @@ préalablement à leur mise en oeuvre un nouvel avis favorable du comité.
 La personne physique ou la personne morale qui prend l'initiative d'une
 recherche biomédicale sur l'être humain, qui en assure la gestion et qui vérifie
 que son financement est prévu, est dénommée le promoteur. Celui-ci ou son
-représentant légal doit être établi dans la Communauté européenne. Lorsque
-plusieurs personnes prennent l'initiative d'une même recherche biomédicale,
-elles désignent une personne physique ou morale qui aura la qualité de promoteur
-et assumera les obligations correspondantes en application du présent livre.
+représentant légal doit être établi dans l'Union européenne. Lorsque plusieurs
+personnes prennent l'initiative d'une même recherche biomédicale, elles
+désignent une personne physique ou morale qui aura la qualité de promoteur et
+assumera les obligations correspondantes en application du présent livre.
 
 La ou les personnes physiques qui dirigent et surveillent la réalisation de la
 recherche sur un lieu sont dénommées investigateurs.

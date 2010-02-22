@@ -1,7 +1,7 @@
 Article L162-22-2
 ----
 I.-Chaque année est défini un objectif quantifié national relatif aux activités
-de psychiatrie et de soins de suite ou de réadaptation exercées par les
+mentionnées au 2° de l'article L. 162-22 qui sont exercées par les
 établissements de santé privés mentionnés aux d et e de l'article L. 162-22-6.
 Cet objectif est constitué par le montant annuel des charges afférentes aux
 frais d'hospitalisation au titre des soins dispensés dans le cadre de ces

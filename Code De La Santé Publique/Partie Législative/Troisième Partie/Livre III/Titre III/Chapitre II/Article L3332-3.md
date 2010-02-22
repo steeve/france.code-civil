@@ -20,7 +20,7 @@ La déclaration est faite à Paris à la préfecture de police et, dans les autr
 communes, à la mairie ; il en est donné immédiatement récépissé.
 
 Le déclarant doit justifier qu'il est français ou ressortissant d'un autre Etat
-de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen, les personnes d'une autre nationalité ne pouvant, en aucun
 cas, exercer la profession de débitant de boissons.
 

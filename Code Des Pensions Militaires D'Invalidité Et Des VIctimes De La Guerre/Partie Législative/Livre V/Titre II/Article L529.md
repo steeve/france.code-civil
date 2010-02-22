@@ -14,9 +14,8 @@ le décret visé à l'article L. 537 ;
 ou en consultation en vue de la réadaptation fonctionnelle, professionnelle et
 sociale des patients ; les personnes accueillies sont en premier lieu les
 pensionnaires de l'établissement ainsi que les autres bénéficiaires du présent
-code :
-
-en outre, elle participe au service public hospitalier ;
+code : en outre, elle délivre aux assurés sociaux les soins définis à l' article
+L. 6111-1 du code de la santé publique ;
 
 3° De participer aux études et à la recherche sur l'appareillage des handicapés
 conduites par le ministre chargé des anciens combattants. Ces participations

@@ -14,4 +14,4 @@ sur place toutes les boissons dont la consommation est autorisée, mais seulemen
 
 Les établissements dont il s'agit ne sont soumis ni aux interdictions
 mentionnées aux articles L. 3332-1 et L. 3332-2, ni à la réglementation établie
-en application des articles L. 3335-1, L. 3335-2, L. 3335-8 et L. 3335-9.
+en application des articles L. 3335-1, L. 3335-2 et L. 3335-8.

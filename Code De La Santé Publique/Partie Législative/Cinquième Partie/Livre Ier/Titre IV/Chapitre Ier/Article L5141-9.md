@@ -8,7 +8,7 @@ satisfaisant à l'ensemble des critères suivants :
 
 1° Une voie d'administration décrite par la pharmacopée européenne ou la
 pharmacopée française ou, à défaut, par les pharmacopées utilisées de façon
-officielle dans les autres Etats membres de la Communauté européenne ;
+officielle dans les autres Etats membres de l'Union européenne ;
 
 2° L'absence d'indication thérapeutique particulière sur l'étiquetage ou dans
 toute information relative au médicament ;
@@ -20,7 +20,7 @@ Il est procédé à cet enregistrement si les critères mentionnés ci-dessus so
 remplis et, pour les médicaments homéopathiques conçus pour les animaux dont la
 chair ou les produits sont destinés à la consommation humaine, s'ils ne
 contiennent que des souches homéopathiques figurant dans l'une des annexes I, II
-ou III du règlement du Conseil (CEE) 2377/90 du 26 juin 1990 établissant une
+ou III du règlement du Conseil (CEE) 2377 / 90 du 26 juin 1990 établissant une
 procédure communautaire pour la fixation des limites maximales de résidus de
 médicaments vétérinaires dans les aliments d'origine animale. Il peut être
 refusé en cas de danger pour la santé humaine ou la santé animale.
@@ -28,7 +28,7 @@ refusé en cas de danger pour la santé humaine ou la santé animale.
 L'enregistrement peut s'appliquer à une série de médicaments homéopathiques
 vétérinaires obtenus à partir de la ou des mêmes souches homéopathiques.
 
-L'agence enregistre le médicament pour une durée de cinq ans. L'enregistrement
+L'agence enregistre le médicament pour une durée de cinq ans.L'enregistrement
 peut ensuite être renouvelé, le cas échéant sans limitation de durée, dans des
 conditions fixées par décret en Conseil d'Etat. Ce décret détermine également
 les conditions dans lesquelles l'enregistrement devient caduc.

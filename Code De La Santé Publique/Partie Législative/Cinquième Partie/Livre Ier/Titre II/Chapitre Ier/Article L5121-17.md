@@ -2,7 +2,7 @@ Article L5121-17
 ----
 Les médicaments et les produits bénéficiaires d'une autorisation de mise sur le
 marché délivrée par l'Agence française de sécurité sanitaire des produits de
-santé ou par la Communauté européenne, ou bénéficiaires d'une autorisation
+santé ou par l'Union européenne, ou bénéficiaires d'une autorisation
 d'importation parallèle délivrée dans les conditions fixées par le décret prévu
 au 12° de l'article L. 5124-18, sont frappés d'une taxe annuelle perçue par
 l'Agence française de sécurité sanitaire des produits de santé à son profit et à

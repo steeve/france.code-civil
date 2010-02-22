@@ -12,9 +12,8 @@ changement de situation professionnelle.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
-l'organisme désigné à cette fin, une liste de cette profession, portée à la
-connaissance du public.
+Il est établi, pour chaque département, par le service ou l'organisme désigné à
+cette fin, une liste de cette profession, portée à la connaissance du public.
 
 Un orthophoniste ne peut exercer sa profession, à l'exception de ceux qui
 relèvent du service de santé des armées, que si ses diplômes, certificats,

@@ -1,13 +1,15 @@
 Article L3121-2
 ----
-Dans chaque département, le représentant de l'Etat désigne au moins une
-consultation destinée à effectuer de façon anonyme et gratuite la prévention, le
-dépistage et le diagnostic de l'infection par le virus de l'immunodéficience
-humaine ainsi que l'accompagnement dans la recherche de soins appropriés.
+Dans chaque département, le directeur général de l'agence régionale de santé
+désigne au moins une consultation destinée à effectuer de façon anonyme et
+gratuite la prévention, le dépistage et le diagnostic de l'infection par le
+virus de l'immunodéficience humaine ainsi que l'accompagnement dans la recherche
+de soins appropriés. Le directeur général de l'agence informe le représentant de
+l'Etat dans le département de cette désignation.
 
-Ces consultations peuvent également être habilitées par le représentant de
-l'Etat à participer dans les mêmes conditions à la lutte contre d'autres
-maladies transmissibles, et notamment les hépatites virales.
+Ces consultations peuvent également être habilitées par le directeur général de
+l'agence régionale de santé à participer dans les mêmes conditions à la lutte
+contre d'autres maladies transmissibles, et notamment les hépatites virales.
 
 En cas de nécessité thérapeutique et dans l'intérêt du patient, le médecin peut
 procéder à la levée de l'anonymat sous réserve du consentement exprès, libre et

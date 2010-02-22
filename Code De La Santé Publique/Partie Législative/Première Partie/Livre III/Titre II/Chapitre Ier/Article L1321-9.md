@@ -1,8 +1,9 @@
 Article L1321-9
 ----
-Les données sur la qualité de l'eau destinée à l'alimentation humaine et,
-notamment les résultats des analyses réalisées dans le cadre du contrôle
-sanitaire et les analyses réalisées chez les particuliers sont publiques et
+Les données sur la qualité de l'eau destinée à l'alimentation humaine notamment
+les résultats des analyses réalisées dans le cadre du contrôle sanitaire et chez
+les particuliers, sont transmises par le directeur général de l'agence régionale
+de santé au représentant de l'Etat dans le département. Elles sont publiques et
 communicables aux tiers.
 
 Le représentant de l'Etat dans le département est tenu de communiquer

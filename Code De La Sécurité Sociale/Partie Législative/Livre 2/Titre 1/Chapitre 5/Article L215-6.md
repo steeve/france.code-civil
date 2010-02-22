@@ -1,7 +1,7 @@
 Article L215-6
 ----
-Lorsque l'assuré n'opte pas pour le régime défini par les articles L. 357-1 et
-suivants du présent code, sa pension est liquidée par la caisse régionale de
-Strasbourg selon les règles du droit commun de l'assurance vieillesse des
-travailleurs salariés. Le service des prestations est ensuite assuré par la
-caisse nationale d'assurance vieillesse.
+La caisse régionale de Strasbourg assure, selon les règles de droit commun de
+l'assurance vieillesse des travailleurs salariés, les missions fixées au 1° de
+l'article L. 215-1 et met en œuvre le programme d'action sanitaire et sociale
+défini par la caisse nationale mentionnée à l'article L. 222-4, pour les assurés
+qui n'optent pas pour le régime défini aux articles L. 357-1 et suivants.

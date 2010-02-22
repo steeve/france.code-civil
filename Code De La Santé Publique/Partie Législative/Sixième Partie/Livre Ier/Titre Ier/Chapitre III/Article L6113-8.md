@@ -19,6 +19,6 @@ et dont les conditions d'élaboration et d'accessibilité aux tiers, notamment a
 
 Les établissements qui ne transmettent pas les informations mentionnées au
 premier alinéa dans les conditions et les délais fixés par voie réglementaire
-sont passibles d'une pénalité prononcée par le directeur de l'agence régionale
-de l'hospitalisation après avis de la commission exécutive, dans la limite de 5
-% de leurs recettes annuelles d'assurance maladie.
+sont passibles d'une pénalité prononcée par le directeur général de l'agence
+régionale de santé , dans la limite de 5 % de leurs recettes annuelles
+d'assurance maladie.

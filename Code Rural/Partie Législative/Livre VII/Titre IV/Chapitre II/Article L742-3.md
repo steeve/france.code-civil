@@ -17,5 +17,5 @@ articles L. 482-1 à L. 482-4.
 Pour l'application de ces dispositions, la référence au régime général est
 remplacée par la référence au régime des assurances sociales agricoles et les
 caisses de mutualité sociale agricole sont substituées aux caisses primaires
-d'assurance maladie, aux caisses régionales d'assurance maladie et à la caisse
-régionale d'assurance vieillesse de Strasbourg.
+d'assurance maladie, aux caisses d'assurance retraite et de la santé au travail
+et à la caisse régionale d'assurance vieillesse de Strasbourg.

@@ -29,6 +29,5 @@ l'Etat ; cette somme vient en déduction de l'indemnité à laquelle peut préte
 le propriétaire en application de l'article 16 de la loi n° 91-650 du 9 juillet
 1991 portant réforme des procédures civiles d'exécution.
 
-Le représentant de l'Etat dans le département peut agréer des opérateurs pour
-réaliser les diagnostics et contrôles prévus au présent chapitre et pour faire
-réaliser les travaux.
+Le représentant de l'Etat dans le département peut agréer des opérateurs et pour
+faire réaliser les travaux.

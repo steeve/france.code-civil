@@ -16,21 +16,21 @@ suites de leurs demandes.
 Elle est consultée sur la politique menée dans l'établissement en ce qui
 concerne l'accueil et la prise en charge, elle fait des propositions en ce
 domaine et elle est informée de l'ensemble des plaintes ou réclamations formées
-par les usagers de l'établissement ainsi que des suites qui leur sont données. A
+par les usagers de l'établissement ainsi que des suites qui leur sont données.A
 cette fin, elle peut avoir accès aux données médicales relatives à ces plaintes
 ou réclamations, sous réserve de l'obtention préalable de l'accord écrit de la
 personne concernée ou de ses ayants droit si elle est décédée. Les membres de la
 commission sont astreints au secret professionnel dans les conditions définies
 par les articles 226-13 et 226-14 du code pénal.
 
-Le conseil d'administration des établissements publics de santé ou une instance
+Le conseil de surveillance des établissements publics de santé ou une instance
 habilitée à cet effet dans les établissements privés délibère au moins un fois
 par an sur la politique de l'établissement en ce qui concerne les droits des
 usagers et la qualité de l'accueil et de la prise en charge, sur la base d'un
 rapport présenté par la commission des relations avec les usagers et de la
 qualité de la prise en charge. Ce rapport et les conclusions du débat sont
-transmis à la conférence régionale de santé et à l'agence régionale de
-l'hospitalisation qui est chargée d'élaborer une synthèse de l'ensemble de ces
+transmis à la conférence régionale de la santé et de l'autonomie et à l'agence
+régionale de santé qui est chargée d'élaborer une synthèse de l'ensemble de ces
 documents.
 
 La composition et les modalités de fonctionnement de la commission des relations

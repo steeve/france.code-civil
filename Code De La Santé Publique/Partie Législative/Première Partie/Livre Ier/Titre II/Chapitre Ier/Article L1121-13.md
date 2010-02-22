@@ -11,8 +11,8 @@ santé lorsque ces recherches nécessitent des actes autres que ceux qu'ils
 pratiquent usuellement dans le cadre de leur activité ou lorsque ces recherches
 sont réalisées sur des personnes présentant une condition clinique distincte de
 celle pour laquelle le service a compétence. Cette autorisation est accordée par
-le représentant de l'Etat dans la région ou par le ministre de la défense, si le
-lieu relève de son autorité.
+le directeur général de l'agence régionale de santé ou par le ministre de la
+défense, si le lieu relève de son autorité.
 
 Cette autorisation, à l'exception de celle donnée à des lieux situés dans un
 établissement mentionné à l'article L. 5126-1, inclut, le cas échéant, la

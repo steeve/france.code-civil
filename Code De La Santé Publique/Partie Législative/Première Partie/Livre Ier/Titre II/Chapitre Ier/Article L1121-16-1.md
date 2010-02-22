@@ -26,6 +26,7 @@ produits concernés.
 
 La prise en charge prévue au présent article ne s'applique que lorsque le
 promoteur est un organisme public de recherche, une université, un établissement
-public de santé, un établissement de santé privé participant au service public
-hospitalier, un établissement public ou toute autre personne physique ou morale
-ne poursuivant pas de but lucratif.
+public de santé, un établissement de santé privé assurant une ou plusieurs des
+missions de service public définies à l'article L. 6112-1, un établissement
+public ou toute autre personne physique ou morale ne poursuivant pas de but
+lucratif.

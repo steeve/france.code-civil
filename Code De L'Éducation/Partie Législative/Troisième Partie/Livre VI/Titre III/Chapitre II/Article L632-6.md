@@ -3,9 +3,10 @@ Article L632-6
 Chaque année, un arrêté du ministre chargé de la santé et du ministre chargé de
 la sécurité sociale détermine le nombre d'étudiants qui, admis à poursuivre des
 études médicales à l'issue de la première année du premier cycle ou
-ultérieurement au cours de ces études, peuvent signer avec le centre national de
-gestion des praticiens hospitaliers et des personnels de direction de la
-fonction publique hospitalière un contrat d'engagement de service public.
+ultérieurement au cours de ces études, peuvent signer avec le Centre national de
+gestion mentionné à l' article 116 de la loi n° 86-33 du 9 janvier 1986 portant
+dispositions statutaires relatives à la fonction publique hospitalière un
+contrat d'engagement de service public.
 
 Ce contrat ouvre droit, en sus des rémunérations auxquelles les étudiants et
 internes peuvent prétendre du fait de leur formation, à une allocation mensuelle

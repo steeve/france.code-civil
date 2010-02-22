@@ -6,8 +6,8 @@ ou objets mentionnés à l'article L. 4211-1 destinés à des soins urgents peuv
 par dérogation aux articles L. 5126-1 et L. 5126-5, être détenus et dispensés
 sous la responsabilité d'un médecin attaché à l'établissement ou d'un pharmacien
 ayant passé convention avec l'établissement. Avant la conclusion de ladite
-convention, l'établissement en communique pour avis le texte à l'autorité
-administrative et au conseil de l'ordre des pharmaciens.
+convention, l'établissement en communique pour avis le texte au directeur
+général de l'agence régionale de santé et au conseil de l'ordre des pharmaciens.
 
 Tout renouvellement de la convention donne lieu aux mêmes formalités.
 

@@ -1,7 +1,7 @@
 Article L6154-6
 ----
 L'autorisation mentionnée à l'article L. 6154-4 peut être suspendue ou retirée
-par le directeur de l'agence régionale de l'hospitalisation lorsque le praticien
+par le directeur général de l'agence régionale de santé lorsque le praticien
 méconnaît les obligations qui lui incombent en vertu des lois et règlements et
 les dispositions du contrat ; cette décision est prise après avis ou sur
 proposition de la commission mentionnée au premier alinéa de l'article L. 6154-5

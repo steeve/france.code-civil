@@ -1,6 +1,6 @@
 Article L3222-1
 ----
-Dans chaque département, un ou plusieurs établissements sont seuls habilités par
-le représentant de l'Etat dans le département à soigner les personnes atteintes
-de troubles mentaux qui relèvent des chapitres II et III du titre Ier du présent
-livre.
+Dans chaque département, le directeur général de l'agence régionale de santé
+désigne, après avis du représentant de l'Etat dans le département, un ou
+plusieurs établissements chargés d'assurer la mission de service public définie
+au 11° de l'article L. 6112-1.

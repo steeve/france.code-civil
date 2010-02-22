@@ -5,9 +5,9 @@ Les employeurs publics et privés de médecins salariés mentionnés à l'articl
 d'assumer leur obligation de formation dans les conditions fixées par le présent
 code.
 
-Pour les employeurs visés à l'article L. 950-1 du code du travail, les actions
+Pour les employeurs visés à l'article L. 6331-1 du code du travail, les actions
 de formation sont financées dans le cadre des dispositions prévues aux articles
-L. 951-1 et L. 952-2 du même code.
+L. 6331-2 à L. 6331-34 et L. 6332-3 à L. 6332-5 du même code.
 
 Pour les agents sous contrat de droit public ou titulaires des fonctions
 publiques d'Etat et territoriale, les actions sont financées dans le cadre de la

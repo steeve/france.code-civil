@@ -1,6 +1,6 @@
 Article L5121-9-1
 ----
-Lorsqu'un médicament est autorisé dans un autre Etat membre de la Communauté
+Lorsqu'un médicament est autorisé dans un autre Etat membre de l'Union
 européenne ou un Etat partie à l'accord sur l'Espace économique européen mais
 qu'il ne fait l'objet en France ni de l'autorisation de mise sur le marché
 prévue à l'article L. 5121-8, ni d'une demande en cours d'instruction en vue

@@ -1,6 +1,6 @@
 Article L5127-6
 ----
-Les pharmaciens inspecteurs de santé publique doivent se faire suppléer par
+Les inspecteurs mentionnés à l'article L. 5127-1 doivent se faire suppléer par
 leurs collègues pour le contrôle des pharmacies ou des établissements exploités
 par des titulaires dont ils sont parents ou alliés jusqu'au quatrième degré
 inclusivement. Il leur est interdit, tant qu'ils exercent leurs fonctions et

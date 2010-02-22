@@ -3,7 +3,7 @@ Article L5431-6
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour les
 fabricants, leurs représentants, les personnes pour le compte desquelles les
 produits cosmétiques sont fabriqués ou les responsables de la mise sur le marché
-des produits cosmétiques importés d'un Etat qui n'est ni membre de la Communauté
+des produits cosmétiques importés d'un Etat qui n'est ni membre de l'Union
 européenne, ni partie à l'accord sur l'Espace économique européen :
 
 1° De mettre sur le marché à titre gratuit ou onéreux un produit cosmétique sans

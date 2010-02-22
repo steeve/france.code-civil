@@ -1,6 +1,6 @@
 Article L633-5
 ----
-Le service public hospitalier concourt à l'enseignement universitaire et
+Les établissements de santé concourent à l'enseignement universitaire et
 postuniversitaire pharmaceutique en application de l'article L. 6112-1 du code
 de la santé publique.
 

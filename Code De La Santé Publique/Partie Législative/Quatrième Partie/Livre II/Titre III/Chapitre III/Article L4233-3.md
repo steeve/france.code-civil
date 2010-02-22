@@ -5,8 +5,8 @@ pharmaciens sont fixés par décret. Un règlement électoral établi par le con
 national de l'ordre en fixe les modalités.
 
 Après chaque élection, le procès-verbal de l'élection est notifié sans délai au
-conseil central concerné, au conseil national, au représentant de l'Etat dans la
-région et au ministre chargé de la santé.
+conseil central concerné, au conseil national, au directeur général de l'agence
+régionale de santé et au ministre chargé de la santé.
 
 Les élections comportent la désignation d'un suppléant pour chaque titulaire.
 

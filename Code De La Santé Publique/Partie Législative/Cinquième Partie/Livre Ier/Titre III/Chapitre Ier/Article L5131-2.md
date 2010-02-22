@@ -9,9 +9,9 @@ française de sécurité sanitaire des produits de santé.
 Cette déclaration est effectuée par le fabricant, ou par son représentant ou par
 la personne pour le compte de laquelle les produits cosmétiques sont fabriqués,
 ou par le responsable de la mise sur le marché des produits cosmétiques importés
-pour la première fois d'un Etat non membre de la Communauté européenne ou non
-partie à l'accord sur l'Espace économique européen. Elle indique les personnes
-qualifiées responsables désignées en application du quatrième alinéa.
+pour la première fois d'un Etat non membre de l'Union européenne ou non partie à
+l'accord sur l'Espace économique européen. Elle indique les personnes qualifiées
+responsables désignées en application du quatrième alinéa.
 
 Toute modification des éléments figurant dans la déclaration initiale doit faire
 l'objet d'une nouvelle déclaration dans les mêmes formes.

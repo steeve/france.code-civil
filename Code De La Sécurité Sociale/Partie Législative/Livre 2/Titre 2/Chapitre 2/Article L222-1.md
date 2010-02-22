@@ -1,19 +1,29 @@
 Article L222-1
 ----
-La Caisse nationale d'assurance vieillesse des travailleurs salariés assure la
-gestion de l'assurance vieillesse des travailleurs salariés et exerce une action
-sanitaire et sociale en faveur de ces derniers dans le cadre d'un programme fixé
-par arrêté ministériel après consultation de son conseil d'administration.
+La Caisse nationale d'assurance vieillesse a pour rôle :
 
-La caisse propose, par l'intermédiaire de son conseil d'administration, toute
+1° D'assurer le financement des prestations d'assurance retraite du régime
+général ;
+
+2° De définir les orientations de la gestion de l'assurance retraite des
+travailleurs salariés, et d'en assurer la coordination ;
+
+3° D'exercer un pouvoir de contrôle sur les caisses d'assurance retraite et de
+la santé au travail et sur les caisses générales de sécurité sociale concernant
+leurs attributions en matière de vieillesse, ainsi que sur la caisse régionale
+d'assurance vieillesse de Strasbourg ;
+
+4° D'exercer une action sanitaire et sociale en faveur des travailleurs salariés
+après consultation de son conseil d'administration ;
+
+5° De proposer, par l'intermédiaire de son conseil d'administration, toute
 mesure, notamment dans le cadre de l'élaboration du projet de loi de financement
 de la sécurité sociale, qui lui paraît nécessaire pour garantir dans la durée
-l'équilibre financier de l'assurance vieillesse des travailleurs salariés.
+l'équilibre financier de l'assurance vieillesse des travailleurs salariés ;
 
-La caisse nationale centralise l'ensemble des ressources de l'assurance
-vieillesse. Sous réserve des dispositions propres, d'une part, au régime
-particulier du Bas-Rhin, du Haut-Rhin et de la Moselle et, d'autre part, aux
-caisses générales des départements mentionnés à l'article L. 751-1, elle assure
-le paiement des prestations.
+6° De centraliser l'ensemble des opérations, y compris les opérations pour
+compte de tiers, des caisses d'assurance retraite et de la santé au travail, des
+caisses générales de sécurité sociale et de la caisse régionale d'assurance
+vieillesse de Strasbourg.
 
 Les propositions et les avis qu'elle émet sont rendus publics.

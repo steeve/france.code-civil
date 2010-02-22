@@ -21,9 +21,10 @@ la région ou des départements limitrophes peuvent être nommées.
 Seul l'un des deux psychiatres mentionnés au 1° peut exercer dans un
 établissement mentionné à l'article L. 3222-1.
 
-Les membres de la commission ne peuvent être membres du conseil d'administration
-d'un établissement de santé accueillant des malades atteints de troubles mentaux
-dans le département du ressort de la commission.
+Les membres de la commission ne peuvent être membres du conseil de surveillance,
+ou d'une instance habilitée à cet effet, d'un établissement de santé accueillant
+des malades atteints de troubles mentaux dans le département du ressort de la
+commission.
 
 Ils ne peuvent, en dehors du cadre des attributions de la commission, faire état
 des informations qu'ils ont pu recueillir sur les personnes dont la situation

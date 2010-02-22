@@ -9,9 +9,9 @@ terme, il ne peut être mis fin à ses fonctions qu'après avis favorable du
 conseil à la majorité des deux tiers.
 
 Le directeur général dirige l'établissement et a autorité sur le réseau des
-caisses régionales et locales. Il est responsable de leur bon fonctionnement. A
-ce titre, il prend toutes décisions nécessaires et exerce toutes les compétences
-qui ne sont pas attribuées à une autre autorité.
+caisses locales. Il est responsable de leur bon fonctionnement. A ce titre, il
+prend toutes décisions nécessaires et exerce toutes les compétences qui ne sont
+pas attribuées à une autre autorité.
 
 Il négocie et signe la convention d'objectifs et de gestion mentionnée à
 l'article L. 227-1 ainsi que les contrats pluriannuels de gestion mentionnés à
@@ -54,10 +54,10 @@ recettes de la caisse et vise le compte financier. Il recrute le personnel et a
 autorité sur lui. Il peut déléguer sa signature.
 
 Dans le cadre de l'exercice de ses missions, le directeur général peut suspendre
-ou annuler toute délibération ou décision prise par une caisse locale ou
-régionale qui méconnaîtrait les dispositions de la convention d'objectifs et de
-gestion mentionnée à l'article L. 227-1 ou du contrat pluriannuel de gestion
-mentionné à l'article L. 227-3.
+ou annuler toute délibération ou décision prise par une caisse locale qui
+méconnaîtrait les dispositions de la convention d'objectifs et de gestion
+mentionnée à l'article L. 227-1 ou du contrat pluriannuel de gestion mentionné à
+l'article L. 227-3.
 
 Le directeur général rend compte au conseil de la gestion de la caisse nationale
 et du réseau après la clôture de chaque exercice.

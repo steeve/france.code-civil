@@ -41,10 +41,10 @@ sont issus, à l'exception de celles mentionnées aux troisième et quatrième
 alinéas du I du présent article.
 
 V.-Lorsque, par leur fait, les membres d'un conseil régional ou interrégional
-mettent celui-ci dans l'impossibilité de fonctionner, le représentant de l'Etat
-dans la région, sur proposition du conseil national de l'ordre, peut, par
-arrêté, prononcer la dissolution du conseil régional ou interrégional. II nomme
-dans ce cas une délégation de trois à cinq membres suivant l'importance
+mettent celui-ci dans l'impossibilité de fonctionner, le directeur général de
+l'agence régionale de santé, sur proposition du conseil national de l'ordre,
+peut, par arrêté, prononcer la dissolution du conseil régional ou interrégional.
+II nomme dans ce cas une délégation de trois à cinq membres suivant l'importance
 numérique du conseil dissous. Jusqu'à l'élection d'un nouveau conseil organisée
 sans délai, cette délégation assure la gestion des affaires courantes ainsi que
 les fonctions qui sont attribuées au conseil par le deuxième alinéa du présent

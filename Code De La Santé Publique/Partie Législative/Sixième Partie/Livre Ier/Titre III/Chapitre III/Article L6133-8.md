@@ -3,11 +3,11 @@ Article L6133-8
 Lorsqu'un groupement de coopération sanitaire est un établissement de santé, il
 est financé sur le fondement des règles applicables aux établissements de santé.
 
-Toutefois, lorsque l'activité exercée est une activité de médecine, chirurgie,
-obstétrique ou odontologie, y compris les activités d'alternatives à la dialyse
-en centre et d'hospitalisation à domicile, l'article 33 de la loi de financement
-de la sécurité sociale pour 2004 (n° 2003-1199 du 18 décembre 2003) n'est pas
-applicable au financement du groupement.
+Toutefois, lorsque l'activité exercée relève du 1° de l'article L. 162-22 du
+code de la sécurité sociale, l'article 33 de la loi de financement de la
+sécurité sociale pour 2004 (n° 2003-1199 du 18 décembre 2003) n'est pas
+applicable au financement du groupement, à l'exception du I, hormis le quatrième
+alinéa, et du II de cet article.
 
 Lorsque le groupement est composé, d'une part, d'établissements de santé
 mentionnés aux a, b ou c de l'article L. 162-22-6 du code de la sécurité sociale

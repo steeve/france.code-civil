@@ -24,14 +24,14 @@ tutelle sur l'organisme concerné ;
 5° Dans le ressort de l'organisme de sécurité sociale :
 
 a) Pour la Caisse nationale de l'assurance maladie des travailleurs salariés,
-les caisses régionales d'assurance maladie et les caisses primaires d'assurance
-maladie :
+les caisses d'assurance retraite et de la santé au travail et les caisses
+primaires d'assurance maladie :
 
-- les personnes qui exercent des fonctions de direction dans un établissement
+-les personnes qui exercent des fonctions de direction dans un établissement
 public de santé ou des fonctions de direction ou un mandat d'administrateur dans
 un établissement de santé privé à but lucratif ou non lucratif ;
 
-- les personnes qui produisent, offrent ou délivrent des soins, des biens ou des
+-les personnes qui produisent, offrent ou délivrent des soins, des biens ou des
 services médicaux donnant lieu à prise en charge par l'assurance maladie, ainsi
 que les mandataires d'organisations représentant les professions de ces
 personnes ;

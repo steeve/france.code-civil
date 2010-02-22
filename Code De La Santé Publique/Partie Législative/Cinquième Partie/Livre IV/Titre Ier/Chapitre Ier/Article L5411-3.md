@@ -1,6 +1,6 @@
 Article L5411-3
 ----
-Dans le cadre de cette mission, les pharmaciens inspecteurs de santé publique
+Dans le cadre de cette mission, les inspecteurs mentionnés à l'article L. 5411-1
 peuvent procéder à la saisie de produits sur autorisation judiciaire prononcée
 par ordonnance du juge des libertés et de la détention. La demande doit
 comporter tous les éléments d'information de nature à justifier la saisie.

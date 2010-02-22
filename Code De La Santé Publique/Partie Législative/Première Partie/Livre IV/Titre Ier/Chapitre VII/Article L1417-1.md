@@ -23,5 +23,5 @@ modalités définies par décret.
 Cet établissement est placé sous la tutelle du ministre chargé de la santé et
 concourt à la politique de santé publique.
 
-L'institut apporte son concours à la mise en oeuvre des programmes régionaux de
-l'Etat.
+L'institut apporte son concours à la mise en oeuvre des projets régionaux de
+santé mentionnés à l'article L. 1434-1.

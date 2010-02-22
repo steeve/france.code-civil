@@ -12,5 +12,5 @@ des activités définies à l'article L. 6145-7 du présent code ;
 
 b) Les décisions mentionnées au III de l'article L. 1618-2 du code général des
 collectivités territoriales relèvent de la compétence du directeur de
-l'établissement public de santé, qui informe chaque année le conseil
-d'administration des résultats des opérations réalisées.
+l'établissement public de santé, qui informe chaque année le conseil de
+surveillance des résultats des opérations réalisées.

@@ -16,10 +16,10 @@ siéger lorsqu'il a eu connaissance des faits de la cause à raison de l'exercic
 d'autres fonctions ordinales.
 
 Lorsque la chambre disciplinaire de première instance a été saisie par le
-ministre chargé de la santé, par le directeur de l'agence régionale de
-l'hospitalisation ou par le représentant de l'Etat dans le département ou la
-région, les représentants de l'Etat mentionnés aux articles L. 4132-9, L. 4142-5
-et L. 4152-8 ne siègent pas dans cette instance.
+ministre chargé de la santé, par le directeur général de l'agence régionale de
+santé ou par le représentant de l'Etat dans le département ou la région, les
+représentants de l'Etat mentionnés aux articles L. 4132-9, L. 4142-5 et L.
+4152-8 ne siègent pas dans cette instance.
 
 IV.-Les décisions de la chambre disciplinaire de première instance sont rendues
 en formation collégiale, sous réserve des exceptions, précisées par décret en

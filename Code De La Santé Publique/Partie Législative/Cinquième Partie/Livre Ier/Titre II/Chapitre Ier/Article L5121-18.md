@@ -4,8 +4,8 @@ Les redevables de la taxe sont tenus d'adresser à l'Agence française de sécur
 sanitaire des produits de santé, au plus tard le 31 mars de chaque année, une
 déclaration indiquant les médicaments et produits donnant lieu au paiement de la
 taxe. Cette déclaration est établie conformément au modèle fixé par arrêté du
-ministre chargé de la santé. Un Etat non membre de la Communauté européenne ou
-non partie à l'accord sur l'Espace économique européen peut effectuer les mêmes
+ministre chargé de la santé. Un Etat non membre de l'Union européenne ou non
+partie à l'accord sur l'Espace économique européen peut effectuer les mêmes
 démarches.
 
 En l'absence de déclaration dans le délai fixé ou en cas de déclaration

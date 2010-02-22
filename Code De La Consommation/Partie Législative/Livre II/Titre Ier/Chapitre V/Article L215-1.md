@@ -1,6 +1,6 @@
 Article L215-1
 ----
-I.- - Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la
+I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la
 recherche et à la constatation des infractions au présent livre :
 
 1° Les agents de la direction générale de la concurrence, de la consommation et
@@ -12,8 +12,8 @@ direction générale des impôts ;
 3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article
 L. 251-18 du code rural ;
 
-4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de
-santé publique ;
+4° Les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé
+publique ayant la qualité de médecin ou de pharmacien ;
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer
 ;
@@ -43,7 +43,7 @@ les techniciens du contrôle des établissements de pêche maritime.
 12° Les agents mentionnés à l'article L. 40 du code des postes et
 télécommunications.
 
-II. - En outre, les officiers et agents de police judiciaire, agissant dans le
+II.-En outre, les officiers et agents de police judiciaire, agissant dans le
 cadre des dispositions du code de procédure pénale, sont compétents pour
 rechercher et constater les infractions mentionnées au I.
 

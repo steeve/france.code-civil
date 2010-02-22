@@ -21,9 +21,10 @@ sommes exigibles à la date votée par l'assemblée générale des copropriétai
 La collectivité publique est alors subrogée dans les droits et actions du
 syndicat à concurrence des sommes qu'elle a versées.
 
-IV.-Le maire agissant au nom de l'Etat ou, à défaut, le préfet est l'autorité
-administrative compétente pour réaliser d'office les mesures prescrites dans les
-cas visés aux I, II et III. Dans ce cas, la commune assure l'avance des frais si
-le maire réalise d'office ces mesures. Les créances qui n'ont pu être recouvrées
-par la commune sont mises à la charge de l'Etat ou d'une personne publique s'y
-substituant, alors subrogée dans les obligations et droits de celui-ci.
+IV.-Le maire agissant au nom de l'Etat ou, à défaut, le représentant de l'Etat
+dans le département est l'autorité administrative compétente pour réaliser
+d'office les mesures prescrites dans les cas visés aux I, II et III. Dans ce
+cas, la commune assure l'avance des frais si le maire réalise d'office ces
+mesures. Les créances qui n'ont pu être recouvrées par la commune sont mises à
+la charge de l'Etat ou d'une personne publique s'y substituant, alors subrogée
+dans les obligations et droits de celui-ci.

@@ -19,6 +19,6 @@ opérés par les agents de ces caisses et les mesures relatives aux ambiances de
 travail.
 
 Les services de l'inspection du travail et de l'inspection médicale du travail
-fournissent aux caisses régionales d'assurance maladie les renseignements et la
-documentation qu'ils possèdent et dont lesdites caisses ont besoin pour procéder
-à l'étude de toute question relevant de leur compétence.
+fournissent aux caisses d'assurance retraite et de la santé au travail les
+renseignements et la documentation qu'ils possèdent et dont lesdites caisses ont
+besoin pour procéder à l'étude de toute question relevant de leur compétence.

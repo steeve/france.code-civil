@@ -12,7 +12,7 @@ délibération dans les autres cas. Les délibérations mentionnées au 3° du m
 article sont exécutoires de plein droit dès réception par le directeur général
 de l'agence régionale de santé ;
 
-2° Les décisions du directeur mentionnées aux 1° à 10° et 12° à 15° de l'article
+2° Les décisions du directeur mentionnées aux 1° à 10° et 12° à 16° de l'article
 L. 6143-7 sont exécutoires de plein droit dès réception par le directeur général
 de l'agence régionale de santé, à l'exception des décisions mentionnées aux 1°
 et 5° du même article ;
@@ -36,11 +36,11 @@ la santé, de la sécurité sociale et du budget.
 Le contrat mentionné au 1° de l'article L. 6143-7 est exécutoire dès sa
 signature par l'ensemble des parties.
 
-L'état des prévisions de recettes et de dépenses, à l'exclusion du rapport
-préliminaire et des annexes, ainsi que le plan global de financement
-pluriannuel, mentionnés au 5° de l'article L. 6143-7 sont réputés approuvés si
-le directeur général de l'agence régionale de santé n'a pas fait connaître son
-opposition dans des délais et pour des motifs déterminés par décret.
+L'état des prévisions de recettes et de dépenses, à l'exclusion des annexes,
+ainsi que le plan global de financement pluriannuel, mentionnés au 5° de
+l'article L. 6143-7 sont réputés approuvés si le directeur général de l'agence
+régionale de santé n'a pas fait connaître son opposition dans des délais et pour
+des motifs déterminés par décret.
 
 Le tribunal interrégional de la tarification sanitaire et sociale, mentionné à
 l'article L. 351-1 du code de l'action sociale et des familles, est compétent en

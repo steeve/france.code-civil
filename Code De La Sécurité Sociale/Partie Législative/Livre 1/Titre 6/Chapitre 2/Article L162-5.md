@@ -25,15 +25,14 @@ médecins d'exercice libéral ;
 2° Les conditions de l'exercice de la médecine générale et de la médecine
 spécialisée ainsi que les dispositions permettant, d'une part, une meilleure
 coordination de leurs interventions et, d'autre part, l'amélioration du recours
-aux établissements de soins hospitaliers ;
+aux établissements de santé ;
 
 2° bis Le cas échéant, les conditions tendant à éviter à l'assuré social de
 payer directement les honoraires aux médecins ;
 
 3° (Abrogé) ;
 
-3° bis Le cas échéant, les conditions de promotion des actions d'évaluation des
-pratiques professionnelles individuelles ou collectives ;
+3° bis (Abrogé) ;
 
 4° Les modalités de financement des expérimentations et des actions innovantes ;
 
@@ -66,9 +65,7 @@ médicale correspondant à des critères de qualité qu'elles déterminent ;
 9° Les conditions de l'utilisation pour l'application de la convention des
 informations mentionnées aux articles L. 161-28 et L. 161-29, relatives à
 l'activité des praticiens et notamment les modalités de transmission de ces
-données aux instances conventionnelles et aux unions de médecins visées à
-l'article 6 de la loi n° 93-8 du 4 janvier 1993 relative aux relations entre les
-professions de santé et l'assurance maladie ;
+données aux instances conventionnelles ;
 
 10° Les conditions dans lesquelles est assuré le suivi des dépassements
 d'honoraires et de leur évolution ;
@@ -92,13 +89,7 @@ modes de rémunération mentionnés aux a et b ci-dessus ;
 13° Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
 des activités de soins ainsi que les modes de rémunération des activités non
 curatives des médecins, et notamment de prévention, d'éducation pour la santé,
-de formation, d'évaluation, d'études de santé publique, de veille sanitaire,
-prévus par des contrats passés entre les médecins concernés et les organismes
-d'assurance maladie et définissant les obligations relatives aux conditions
-d'exercice qui en résultent pour les intéressés.
-
-Pour la mise en oeuvre des 12° et 13°, il peut être fait application des
-dérogations mentionnées au II de l'article L. 162-31-1 ;
+de formation, d'évaluation, d'études de santé publique, de veille sanitaire.
 
 14° Les objectifs et les modalités d'organisation de la formation
 professionnelle conventionnelle, le montant de la contribution annuelle des
@@ -134,8 +125,9 @@ générique tel que défini à l'article L. 5121-1 du code de la santé publique
 
 20° Les mesures d'adaptation, notamment incitatives, des dispositions de
 l'article L. 162-14-1 et du présent article applicables aux médecins en fonction
-du niveau de l'offre en soins au sein de chaque région dans les zones au sens du
-2° de l'article L. 162-47. Ces modalités sont définies après concertation des
+du niveau de l'offre en soins au sein de chaque région dans les zones définies
+par l'agence régionale de santé en application de l' article L. 1434-7 du code
+de la santé publique. Ces modalités sont définies après concertation des
 organisations les plus représentatives des étudiants en médecine, des internes,
 des chefs de clinique et des médecins récemment diplômés ou installés avec
 l'Union nationale des caisses d'assurance maladie.

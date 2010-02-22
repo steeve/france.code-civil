@@ -6,6 +6,6 @@ mutualistes, d'une pharmacie existante et tout transfert d'un lieu dans un autre
 d'une pharmacie, créée ou acquise par une telle société ou union sont
 subordonnés à une décision du ministre chargé de la santé, qui, après avis du
 conseil supérieur de la pharmacie et du conseil supérieur de la mutualité,
-autorise, le cas échéant, le représentant de l'Etat dans le département à
+autorise, le cas échéant, le directeur général de l'agence régionale de santé à
 délivrer la licence et peut imposer des conditions particulières de
 fonctionnement.

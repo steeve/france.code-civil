@@ -56,13 +56,11 @@ que curatives des masseurs-kinésithérapeutes ;
 9° Les mesures d'adaptation, notamment incitatives, des dispositions de
 l'article L. 162-14-1 et du présent article applicables aux
 masseurs-kinésithérapeutes en fonction du niveau de l'offre en soins au sein de
-chaque région dans les zones au sens du 2° de l'article L. 162-47. Ces modalités
+chaque région dans les zones définies par l'agence régionale de santé en
+application de l' article L. 1434-7 du code de la santé publique. Ces modalités
 sont définies après concertation des organisations les plus représentatives des
 étudiants et jeunes masseurs-kinésithérapeutes.
 
 Elle fixe également les modalités d'application de l'alinéa précédent, et
 notamment les conditions dans lesquelles le masseur-kinésithérapeute concerné
 présente ses observations.
-
-Pour la mise en oeuvre des 7° et 8°, il peut être fait application des
-dérogations mentionnées au II de l'article L. 162-31-1.

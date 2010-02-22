@@ -16,7 +16,8 @@ des causes et de la durée de la fermeture.
 
 En cas d'inobservation des dispositions prévues par les articles L. 1332-1, L.
 1332-3, le présent article et les articles L. 1332-7 et L. 1332-8 ou des
-règlements et décisions individuelles pris pour leur application, l'autorité
-administrative compétente met en demeure la personne responsable de la piscine,
-de la baignade artificielle ou de l'eau de baignade concernée d'y satisfaire
-dans un délai déterminé.
+règlements et décisions individuelles pris pour leur application, le
+représentant de l'Etat dans le département sur le rapport du directeur général
+de l'agence régionale de santé met en demeure la personne responsable de la
+piscine, de la baignade artificielle ou de l'eau de baignade concernée d'y
+satisfaire dans un délai déterminé.

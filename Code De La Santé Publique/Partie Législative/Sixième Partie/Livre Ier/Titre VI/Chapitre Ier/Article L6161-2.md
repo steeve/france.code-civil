@@ -7,9 +7,9 @@ des soins. La conférence donne son avis sur la politique médicale de
 l'établissement ainsi que sur l'élaboration des prévisions annuelles d'activité
 de l'établissement.
 
-Ces prévisions d'activité doivent être communiquées à l'agence régionale de
-l'hospitalisation selon les modalités définies par le contrat prévu aux articles
-L. 6114-1 et L. 6114-3.
+Ces prévisions d'activité doivent être communiquées à l' agence régionale de
+santé selon les modalités définies par le contrat prévu aux articles L. 6114-1
+et L. 6114-3.
 
 La conférence médicale contribue à la définition de la politique médicale et à
 l'élaboration de la politique d'amélioration continue de la qualité et de la

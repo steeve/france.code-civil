@@ -4,8 +4,7 @@ Les dispositifs médicaux tels qu'ils sont définis à l'article L. 5211-1, mis 
 le marché français, sont frappés d'une taxe annuelle perçue par l'Agence
 française de sécurité sanitaire des produits de santé à son profit et à celui
 des comités mentionnés à l'article L. 1123-1. Elle est exigible des fabricants,
-ou pour les produits importés hors de la Communauté européenne, de leurs
-mandataires.
+ou pour les produits importés hors de l'Union européenne, de leurs mandataires.
 
 Le taux de cette taxe est fixé à 0, 25 % du chiffre d'affaires annuel hors taxes
 réalisé. La taxe n'est pas exigible lorsque les ventes n'ont pas atteint, au

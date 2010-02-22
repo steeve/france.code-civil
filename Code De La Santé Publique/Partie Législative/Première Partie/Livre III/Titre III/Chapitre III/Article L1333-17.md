@@ -13,3 +13,11 @@ de radioprotection ;
 articles 77, 85 et 107 du code minier ;
 
 3° Les agents mentionnés à l'article L. 1421-1 du présent code.
+
+Les agents mentionnés à l'article L. 1421-1 qui n'ont pas la qualité
+d'inspecteur de la radioprotection et les agents mentionnés à l'article L.
+1435-7 peuvent procéder, dans les conditions fixées au chapitre Ier du titre II
+du livre IV de la présente partie, au contrôle de l'application des dispositions
+de l'article L. 1333-10 relatives à la protection contre le risque d'exposition
+au radon. Ils informent l'Autorité de sûreté nucléaire des résultats de leurs
+contrôles.

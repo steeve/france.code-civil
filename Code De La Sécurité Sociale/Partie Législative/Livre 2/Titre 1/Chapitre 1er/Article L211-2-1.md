@@ -11,8 +11,7 @@ l'usager ;
 
 3° Les axes de la politique de communication à l'égard des usagers ;
 
-4° Les axes de la politique de gestion du risque, en application du contrat visé
-à l'article L. 183-2-3.
+4° Les axes de la politique de gestion du risque,.
 
 Il est périodiquement tenu informé par le directeur de la mise en oeuvre des
 orientations qu'il définit et formule, en tant que de besoin, les

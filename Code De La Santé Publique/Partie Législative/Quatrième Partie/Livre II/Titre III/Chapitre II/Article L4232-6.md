@@ -7,8 +7,8 @@ recherche de pharmacie, pharmaciens, nommés pour six ans par le recteur de
 l'Académie dont dépend le chef-lieu de la région considérée, après avis du ou
 des conseils des unités ;
 
-2° Un pharmacien inspecteur de santé publique représentant, à titre consultatif,
-le directeur régional des affaires sanitaires et sociales ;
+2° Un pharmacien représentant, à titre consultatif, le directeur général de
+l'agence régionale de santé ;
 
 3° Des pharmaciens élus pour six ans par les pharmaciens d'officine de chaque
 département, à raison d'un délégué pour les départements comportant moins de

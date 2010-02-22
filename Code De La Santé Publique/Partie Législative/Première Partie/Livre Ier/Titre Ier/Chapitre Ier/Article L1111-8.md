@@ -76,8 +76,8 @@ secret professionnel dans les conditions et sous les peines prévues à l'articl
 Les hébergeurs de données de santé à caractère personnel ou qui proposent cette
 prestation d'hébergement sont soumis, dans les conditions prévues aux articles
 L. 1421-2 et L. 1421-3, au contrôle de l'Inspection générale des affaires
-sociales et des agents de l'Etat mentionnés à l'article L. 1421-1. Les agents
-chargés du contrôle peuvent être assistés par des experts désignés par le
+sociales et des agents mentionnés aux articles L. 1421-1 et L. 1435-7. Les
+agents chargés du contrôle peuvent être assistés par des experts désignés par le
 ministre chargé de la santé.
 
 Tout acte de cession à titre onéreux de données de santé identifiantes,

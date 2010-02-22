@@ -2,7 +2,8 @@ Article L1322-4
 ----
 Aucun sondage, aucun travail souterrain ne peuvent être pratiqués dans le
 périmètre de protection d'une source d'eau minérale naturelle déclarée d'intérêt
-public, sans autorisation préalable.
+public, sans autorisation préalable délivrée par le représentant de l'Etat dans
+le département.
 
 A l'égard des fouilles, tranchées pour extraction de matériaux ou tout autre
 objet, fondations de maisons, caves ou autres travaux à ciel ouvert, le décret

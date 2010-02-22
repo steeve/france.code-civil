@@ -3,11 +3,10 @@ Article L6144-1
 Dans chaque établissement public de santé, la commission médicale
 d'établissement contribue à l'élaboration de la politique d'amélioration
 continue de la qualité et de la sécurité des soins ainsi que des conditions
-d'accueil et de prise en charge des usagers ; elle propose au président du
-directoire un programme d'actions assorti d'indicateurs de suivi. Ce programme
-prend en compte les informations contenues dans le rapport annuel de la
-commission des relations avec les usagers et de la qualité de la prise en
-charge.
+d'accueil et de prise en charge des usagers ; elle propose au directeur un
+programme d'actions assorti d'indicateurs de suivi. Ce programme prend en compte
+les informations contenues dans le rapport annuel de la commission des relations
+avec les usagers et de la qualité de la prise en charge.
 
 Elle est consultée sur les matières la concernant dans des conditions fixées par
 décret.

@@ -4,10 +4,10 @@ Sont déterminées par décret en Conseil d'Etat, les modalités d'application d
 dispositions du présent chapitre, à l'exception de celles fixées à l'article L.
 6142-16 et notamment :
 
-1° Les conditions dans lesquelles certains services ou certains personnels
-médicaux des établissements de santé mentionnés à l'article L. 6142-3 peuvent
-être maintenus partiellement ou totalement en dehors de l'application du présent
-chapitre ;
+1° Les conditions dans lesquelles certains pôles d'activité, structures internes
+ou personnels médicaux des établissements de santé mentionnés à l'article L.
+6142-3 peuvent être maintenus partiellement ou totalement en dehors de
+l'application du présent chapitre ;
 
 2° Les conditions dans lesquelles sont établies les conventions prévues aux
 articles L. 6142-3 et L. 6142-5 ;

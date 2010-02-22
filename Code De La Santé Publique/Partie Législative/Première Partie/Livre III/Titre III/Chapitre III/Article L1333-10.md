@@ -15,7 +15,7 @@ construction et de l'écologie, pris après avis de l'Autorité de sûreté
 nucléaire.
 
 Lorsque le niveau d'activité du radon et de ses descendants atteint le seuil
-fixé en application de l'alinéa précédent, les propriétaires, ou à défaut les
+fixé en application du dernier alinéa, les propriétaires, ou à défaut les
 exploitants, des immeubles concernés sont tenus de mettre en œuvre les mesures
 nécessaires pour réduire l'exposition et assurer la santé des personnes.
 

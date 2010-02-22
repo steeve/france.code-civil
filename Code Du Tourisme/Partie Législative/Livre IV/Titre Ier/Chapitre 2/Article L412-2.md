@@ -24,8 +24,9 @@ décret en Conseil d'Etat, en ordonner la cessation immédiate ou dans le délai
 nécessaire pour organiser le retour des personnes accueillies, lorsque ces
 activités sont effectuées sans agrément ou lorsque les conditions exigées par
 l'agrément ne sont pas respectées. Le contrôle est confié aux inspecteurs des
-affaires sanitaires et sociales et aux médecins de santé publique de ce
-département.
+affaires sanitaires et sociales ainsi qu'aux médecins inspecteurs de santé
+publique et aux inspecteurs de l'agence régionale de santé ayant la qualité de
+médecin.
 
 III.-Le fait de se livrer aux activités mentionnées au I sans agrément ou de
 poursuivre l'organisation d'un séjour auquel il a été mis fin en application du

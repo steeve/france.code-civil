@@ -11,11 +11,6 @@ professionnelles et par le directeur général et, pour le compte de l'organisme
 régional ou local, par le président du conseil ou du conseil d'administration et
 le directeur de l'organisme concerné.
 
-Toutefois, pour les organismes de la branche maladie autres que les caisses
-régionales, ces contrats sont signés par le directeur général de la Caisse
-nationale de l'assurance maladie des travailleurs salariés et le directeur de
-l'organisme concerné.
-
-Les contrats pluriannuels d'objectifs et de gestion conclus avec les caisses
-primaires d'assurance maladie mentionnent également leur contribution au
-fonctionnement de l'union régionale mentionnée à l'article L. 183-1.
+Toutefois, pour les organismes de la branche maladie, ces contrats sont signés
+par le directeur général de la Caisse nationale de l'assurance maladie des
+travailleurs salariés et le directeur de l'organisme concerné.

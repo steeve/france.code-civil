@@ -5,9 +5,9 @@ le représentant de l'Etat dans le département peut procéder aux réquisitions
 nécessaires de tous biens et services, et notamment requérir le service de tout
 professionnel de santé, quel que soit son mode d'exercice, et de tout
 établissement de santé ou établissement médico-social dans le cadre d'un
-dispositif dénommé plan blanc élargi. Il informe sans délai le directeur de
-l'agence régionale de l'hospitalisation, le service d'aide médicale urgente et
-les services d'urgences territorialement compétents et les représentants des
+dispositif dénommé plan blanc élargi. Il informe sans délai le directeur général
+de l'agence régionale de santé, le service d'aide médicale urgente et les
+services d'urgences territorialement compétents et les représentants des
 collectivités territoriales concernées du déclenchement de ce plan.
 
 Ces réquisitions peuvent être individuelles ou collectives. Elles sont

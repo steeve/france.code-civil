@@ -33,9 +33,8 @@ ainsi que les modalités de cette notification ;
 le comité de protection des personnes de l'arrêt de la recherche ;
 
 9° Les modalités d'évaluation prévues sur la base du référentiel d'évaluation
-des comités de protection des personnes élaboré par l'Agence nationale
-d'accréditation et d'évaluation en santé et publié par arrêté du ministre chargé
-de la santé ;
+des comités de protection des personnes élaboré par la Haute Autorité de santé
+et publié par arrêté du ministre chargé de la santé ;
 
 10° Les conditions dans lesquelles l'autorité compétente procède à l'information
 des autorités compétentes des autres États membres, de la Commission européenne
@@ -48,9 +47,10 @@ transmises ;
 
 12° Les modalités particulières applicables aux recherches biomédicales dont le
 promoteur est un organisme public de recherche, une université, un établissement
-public de santé, un établissement de santé privé participant au service public
-hospitalier, un établissement public ou toute autre personne physique ou morale
-ne poursuivant pas de but lucratif portant sur :
+public de santé, un établissement de santé privé assurant une ou plusieurs des
+missions de service public définies à l'article L. 6112-1, un établissement
+public ou toute autre personne physique ou morale ne poursuivant pas de but
+lucratif portant sur :
 
 - des médicaments bénéficiant de l'autorisation de mise sur le marché prévue à
 l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation prévue au a de

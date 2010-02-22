@@ -12,10 +12,10 @@ par le contrat d'objectifs et de moyens mentionné aux articles L. 6114-1, L.
 
 Les centres hospitaliers et universitaires assurent, à cet égard, la formation
 initiale et continue des professionnels de santé et diffusent, en liaison avec
-les autres établissements de santé publics ou privés participant au service
-public hospitalier, les connaissances acquises, y compris aux équipes
-soignantes, en vue de permettre la réalisation de ces objectifs en ville comme
-dans les établissements. Ils favorisent le développement de la recherche.
+les autres établissements de santé publics ou privés, les connaissances
+acquises, y compris aux équipes soignantes, en vue de permettre la réalisation
+de ces objectifs en ville comme dans les établissements. Ils favorisent le
+développement de la recherche.
 
 Les établissements de santé et les établissements et services sociaux et
 médico-sociaux peuvent passer convention entre eux pour assurer ces missions.

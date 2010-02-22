@@ -30,6 +30,5 @@ médicale publics et privés ;
 
 Section H : pharmaciens exerçant dans les établissements de santé ou
 médico-sociaux, les établissements de transfusion sanguine, les services
-départementaux d'incendie et de secours, les dispensaires antituberculeux, les
-centres de planification ou d'éducation familiale et les centres spécialisés de
-soins aux toxicomanes.
+départementaux d'incendie et de secours, les dispensaires antituberculeux et les
+centres de planification ou d'éducation familiale.

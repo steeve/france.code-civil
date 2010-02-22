@@ -12,6 +12,6 @@ Les dispositions de l'alinéa précédent ne s'appliquent ni aux anciens interne
 en pharmacie hospitalière, ni aux pharmaciens inscrits à l'une quelconque des
 sections de l'ordre au 1er janvier 1996 ou y ayant été précédemment inscrits. Il
 en est de même pour les pharmaciens ressortissants des autres Etats membres de
-la Communauté européenne ou autre Etat partie à l'accord sur l'Espace économique
+l'Union européenne ou autre Etat partie à l'accord sur l'Espace économique
 européen, eu égard à leur exercice professionnel dans leur pays d'origine ou de
 provenance.

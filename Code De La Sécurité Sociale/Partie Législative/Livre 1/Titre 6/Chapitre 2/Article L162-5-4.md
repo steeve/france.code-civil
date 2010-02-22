@@ -7,5 +7,5 @@ aux consultations assurées ou prescrites par un médecin généraliste install�
 pour la première fois en exercice libéral. Il prévoit également la durée pendant
 laquelle les mêmes dispositions ne sont pas applicables aux consultations
 assurées ou prescrites par un médecin généraliste qui s'installe ou exerçant
-dans un centre de santé nouvellement agréé dans une zone définie par la mission
-régionale de santé mentionnée à l'article L. 162-47.
+dans un centre de santé nouvellement agréé dans une zone définie par l'agence
+régionale de santé.

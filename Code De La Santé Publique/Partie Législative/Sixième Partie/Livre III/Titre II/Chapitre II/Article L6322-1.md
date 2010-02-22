@@ -3,7 +3,7 @@ Article L6322-1
 Une intervention de chirurgie esthétique, y compris dans les établissements de
 santé mentionnés au livre Ier, ne peut être pratiquée que dans des installations
 satisfaisant à des conditions techniques de fonctionnement. Celles-ci font
-l'objet d'une accréditation dans les conditions prévues à l'article L. 6113-3.
+l'objet d'une certification dans les conditions prévues à l'article L. 6113-3.
 
 La création de ces installations est soumise à l'autorisation de l'autorité
 administrative territorialement compétente. L'autorisation, qui entraîne la
@@ -24,8 +24,9 @@ autorisation.
 
 L'autorisation peut être suspendue totalement ou partiellement, ou peut être
 retirée par l'autorité administrative compétente pour les motifs et dans les
-conditions prévues à l'article L. 6122-13. Toutefois, l'avis du comité régional
-de l'organisation sanitaire n'est pas exigé.
+conditions prévues à l'article L. 6122-13. Toutefois, l'avis de la commission
+spécialisée de la conférence régionale de la santé et de l'autonomie compétente
+pour le secteur sanitaire n'est pas exigé.
 
 L'activité, objet de l'autorisation, n'entre pas dans le champ des prestations
 couvertes par l'assurance maladie au sens de l'article L. 321-1 du code de la

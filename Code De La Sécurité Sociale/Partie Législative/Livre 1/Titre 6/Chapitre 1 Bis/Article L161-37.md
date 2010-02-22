@@ -19,9 +19,9 @@ professionnels de santé et du public dans ces domaines, sans préjudice des
 mesures prises par l'Agence française de sécurité sanitaire des produits de
 santé dans le cadre de ses missions de sécurité sanitaire ;
 
-3° Etablir et mettre en oeuvre des procédures d'évaluation des pratiques
-professionnelles et d'accréditation des professionnels et des équipes médicales
-mentionnées à l'article L. 1414-3-3 du code de la santé publique ;
+3° Etablir et mettre en oeuvre des procédures d'accréditation des professionnels
+et des équipes médicales mentionnées à l'article L. 1414-3-3 du code de la santé
+publique ;
 
 4° Etablir et mettre en oeuvre les procédures de certification des
 établissements de santé prévues aux articles L. 6113-3 et L. 6113-4 du code de

@@ -48,9 +48,6 @@ conjoint des ministres chargés de la santé et de la sécurité sociale. Le bur
 du Conseil national de la qualité et de la coordination des soins est composé à
 parité de représentants de l'assurance maladie et des professionnels de santé.
 
-Le fonds dispose également dans chaque région de conseils régionaux de la
-qualité et de la coordination des soins.
-
 IV.-Sur proposition du comité national de gestion, le Conseil national de la
 qualité et de la coordination des soins délibère sur :
 
@@ -73,7 +70,7 @@ qualifiée des deux tiers des membres le composant.
 
 V.-Le comité national de gestion élabore les propositions présentées au Conseil
 national de la qualité et de la coordination des soins. Il répartit la dotation
-annuelle réservée aux actions régionales entre les missions régionales de santé
+annuelle réservée aux actions régionales entre les agences régionales de santé
 et attribue les aides pour les actions à caractère national ou interrégional.
 Toutefois, les décisions d'attribution des aides en vue des expérimentations
 mentionnées au 2° du IV sont prises par le bureau du Conseil national de la
@@ -83,15 +80,10 @@ Le comité national de gestion présente chaque année ses orientations ainsi qu
 le bilan de son activité au Conseil national de la qualité et de la coordination
 des soins.
 
-VI.-L'attribution des aides peut être déconcentrée et confiée aux missions
-régionales de santé mentionnées à l'article L. 162-47, dans des conditions
-fixées par décret. Les aides peuvent être attribuées sur une base pluriannuelle.
-
-Les décisions d'attribution des aides en vue des expérimentations mentionnées au
-2° du IV sont prises par le bureau du conseil régional de la qualité et de la
-coordination des soins.
+VI.-L'attribution des aides peut être déconcentrée et confiée aux agences
+régionales de santé dans des conditions fixées par décret. Les aides peuvent
+être attribuées sur une base pluriannuelle.
 
 VII.-La composition et les modalités de fonctionnement du comité national de
-gestion, du Conseil national de la qualité et de la coordination des soins et
-des conseils régionaux de la qualité et de la coordination des soins ainsi que
-de leurs bureaux sont déterminées par décret.
+gestion, du Conseil national de la qualité et de la coordination des soins et du
+bureau de ce dernier sont déterminées par décret.

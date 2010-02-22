@@ -12,9 +12,9 @@ changement de situation professionnelle.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
-l'organisme désigné à cette fin, une liste des membres de cette profession,
-portée à la connaissance du public.
+Il est établi, pour chaque département, par le service ou l'organisme désigné à
+cette fin, une liste des membres de cette profession, portée à la connaissance
+du public.
 
 Nul ne peut exercer la profession de diététicien si son diplôme, certificat,
 titre ou autorisation n'a été enregistré conformément au premier alinéa.

@@ -22,7 +22,7 @@ leurs groupements sur le territoire desquels les établissements membres sont
 implantés ;
 
 b) Cinq représentants du personnel médical et non médical du groupement de
-coopération sanitaire qualifié d'établissement public de santé, dont trois
+coopération sanitaire érigé en établissement public de santé, dont trois
 désignés par le comité technique d'établissement et deux désignés par la
 commission médicale d'établissement ;
 

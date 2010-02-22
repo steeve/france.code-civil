@@ -7,13 +7,14 @@ mais qui ne justifient pas de l'une des nationalités mentionnées à l'article 
 diplôme, titre ou certificat de valeur scientifique attestée par le ministre
 chargé de l'enseignement supérieur et qui ont exercé pendant trois ans au moins
 avant le 1er janvier 1999, dans des établissements publics de santé ou dans des
-établissements de santé privés participant au service public hospitalier, des
-fonctions déterminées par décret, les plaçant sous la responsabilité d'un
-pharmacien, peuvent être autorisées individuellement par arrêté du ministre
-chargé de la santé à exercer dans ces établissements et les établissements de
-transfusion sanguine en qualité de contractuels. Les périodes consacrées à la
-préparation de diplômes de spécialisation ne sont pas prises en compte pour le
-calcul de la durée des fonctions.
+établissements de santé privés assurant une ou plusieurs des missions de service
+public définies à l'article L. 6112-1, des fonctions déterminées par décret, les
+plaçant sous la responsabilité d'un pharmacien, peuvent être autorisées
+individuellement par arrêté du ministre chargé de la santé à exercer dans ces
+établissements et les établissements de transfusion sanguine en qualité de
+contractuels. Les périodes consacrées à la préparation de diplômes de
+spécialisation ne sont pas prises en compte pour le calcul de la durée des
+fonctions.
 
 Les intéressés doivent avoir satisfait à des épreuves nationales d'aptitude
 organisées avant le 31 décembre 2001 et définies par des dispositions

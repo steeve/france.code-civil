@@ -10,5 +10,5 @@ Peuvent recevoir l'autorisation d'effectuer des greffes d'organes les
 application de l'article L. 1233-1, et qui assurent, en outre, des activités
 d'enseignement médical et de recherche médicale selon les dispositions du
 chapitre II du titre IV du livre Ier de la partie VI du présent code, ainsi que
-les établissements de santé liés par convention aux précédents dans le cadre du
-service public hospitalier.
+les établissements de santé liés aux précédents par la convention mentionnée à
+l'article L. 6142-5.

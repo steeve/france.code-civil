@@ -21,13 +21,13 @@ En tout état de cause, elle dispose du droit :
 
 4° D'émettre ou de recevoir des courriers ;
 
-5° De consulter le règlement intérieur de l'établissement tel que défini à
-l'article L. 3222-3 et de recevoir les explications qui s'y rapportent ;
+5° De consulter le règlement intérieur de l'établissement et de recevoir les
+explications qui s'y rapportent ;
 
 6° D'exercer son droit de vote ;
 
 7° De se livrer aux activités religieuses ou philosophiques de son choix.
 
-Ces droits, à l'exception de ceux mentionnés aux 4° , 6° et 7°, peuvent être
+Ces droits, à l'exception de ceux mentionnés aux 4°, 6° et 7°, peuvent être
 exercés à leur demande par les parents ou les personnes susceptibles d'agir dans
 l'intérêt du malade.

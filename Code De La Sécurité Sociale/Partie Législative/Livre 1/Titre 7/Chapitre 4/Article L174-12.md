@@ -7,11 +7,8 @@ mentales font l'objet d'une dotation annuelle à la charge de l'assurance
 maladie. Le montant des dépenses correspondantes est inclus dans le montant
 total annuel défini à l'article L. 174-1-1 du présent code.
 
-La dotation est arrêtée par le directeur de l'agence régionale de
-l'hospitalisation dans les conditions prévues à l'article L. 6145-1 du code de
-la santé publique lorsqu'il s'agit de personnes morales de droit public et à
-l'article L. 6161-4 du même code lorsqu'il s'agit de personnes morales de droit
-privé.
+La dotation est arrêtée par le directeur général de l'agence régionale de santé
+dans les conditions prévues au dernier alinéa de l'article L. 174-1.
 
 La dotation est versée et répartie entre les régimes dans les conditions prévues
 à l'article L. 174-2.

@@ -28,10 +28,8 @@ travail ;
 
 Pour l'ensemble des professionnels de santé libéraux conventionnés et pour les
 professionnels exerçant au sein de structures visées à l'article L. 6323-1 du
-code de la santé publique, le fonds peut financer la formation professionnelle
-conventionnelle et l'indemnisation des professionnels de santé y participant et
-participer au financement des actions d'évaluation des pratiques
-professionnelles.
+code de la santé publique, le fonds peut financer le développement professionnel
+continu et l'indemnisation des professionnels de santé y participant.
 
 III. - Les décisions de financement sont prises, pour chacune des professions
 concernées, par les parties aux conventions ou accord mentionnés aux articles L.

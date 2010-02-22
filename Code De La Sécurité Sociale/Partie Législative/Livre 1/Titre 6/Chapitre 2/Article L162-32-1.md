@@ -41,14 +41,15 @@ dispensent ;
 maladie au développement professionnel continu ;
 
 8° Le cas échéant, des dispositifs d'aide visant à faciliter l'installation des
-centres de santé dans les zones mentionnées à l'article L. 162-47 ainsi que les
+centres de santé dans les zones définies par l'agence régionale de santé en
+application de l'article L. 1434-7 du code de la santé publique ainsi que les
 conditions dans lesquelles ces centres bénéficient, en contrepartie, d'une
 rémunération forfaitaire annuelle qui peut être modulée en fonction de leur
 niveau d'activité et leurs modalités d'exercice ou d'organisation, notamment
 pour les conduire à intégrer dans leurs équipes des professionnels de santé
 exerçant des activités numériquement déficitaires dans ces zones. Les
 obligations auxquelles sont soumis les centres de santé qui bénéficient de ces
-aides peuvent être adaptées par les unions régionales des caisses d'assurance
-maladie après consultation des organisations représentatives des centres de
-santé mentionnées au premier alinéa du présent article pour tenir compte de la
-situation régionale.
+aides peuvent être adaptées par les agences régionales de santé après
+consultation des organisations représentatives des centres de santé mentionnées
+au premier alinéa du présent article pour tenir compte de la situation
+régionale.

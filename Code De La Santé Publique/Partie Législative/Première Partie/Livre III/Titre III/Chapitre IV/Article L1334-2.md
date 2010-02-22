@@ -1,17 +1,5 @@
 Article L1334-2
 ----
-Dans le cas où l'enquête sur l'environnement du mineur mentionnée à l'article L.
-1334-1 met en évidence la présence d'une source d'exposition au plomb
-susceptible d'être à l'origine de l'intoxication du mineur, le représentant de
-l'Etat dans le département prend toutes mesures nécessaires à l'information des
-familles, qu'il incite à adresser leurs enfants mineurs en consultation à leur
-médecin traitant, à un médecin hospitalier ou à un médecin de prévention, et des
-professionnels de santé concernés. Il invite la personne responsable, en
-particulier le propriétaire, le syndicat des copropriétaires, l'exploitant du
-local d'hébergement, l'entreprise ou la collectivité territoriale dont dépend la
-source d'exposition au plomb identifiée par l'enquête, à prendre les mesures
-appropriées pour réduire ce risque.
-
 Si des revêtements dégradés contenant du plomb à des concentrations supérieures
 aux seuils définis par arrêté des ministres chargés de la santé et de la
 construction sont susceptibles d'être à l'origine de l'intoxication du mineur,

@@ -5,9 +5,9 @@ Si des poursuites pénales sont exercées dans les cas prévus aux articles L.
 communiquées à la victime ou à ses ayants-droit. Le même droit appartient à
 l'employeur et à la caisse.
 
-Dans le cas prévu aux articles L. 452-1 à L. 452-4, la caisse régionale
-d'assurance maladie doit communiquer à la victime ou à ses ayants droit, sur
-leur demande, les résultats complets de l'enquête ainsi que tous les
+Dans le cas prévu aux articles L. 452-1 à L. 452-4, la caisse d'assurance
+retraite et de la santé au travail doit communiquer à la victime ou à ses ayants
+droit, sur leur demande, les résultats complets de l'enquête ainsi que tous les
 renseignements dont elle dispose.
 
 Dans les cas prévus aux articles L. 452-1 à L. 452-5, L. 453-1 et L. 454-1, la

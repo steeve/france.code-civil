@@ -11,4 +11,11 @@ déterminées par décret en Conseil d'Etat, et en particulier :
 repérages et les opérations de contrôle ainsi que les modalités de contrôle de
 leur respect ;
 
-4° La nature des mesures à prendre en cas de présence d'amiante.
+4° La nature des mesures à prendre en cas de présence d'amiante ;
+
+5° Les conditions dans lesquelles les organismes réalisant les repérages et les
+opérations de contrôle communiquent au représentant de l'Etat dans le
+département les informations mentionnées à l'article L. 1334-14 et au directeur
+général de l'agence régionale de santé, sur sa demande, les informations
+nécessaires à l'exercice des missions prévues au 1° de l'article L. 1431-2 et à
+l'article L. 1435-7.

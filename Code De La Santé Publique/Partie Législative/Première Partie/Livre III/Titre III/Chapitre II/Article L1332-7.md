@@ -12,8 +12,9 @@ l'élaboration, la révision et l'actualisation des profils des eaux de baignade
 au programme de surveillance, à l'information et à la participation du public,
 aux normes, méthodes et pratiques d'analyse harmonisées relatives à la qualité
 des eaux de baignade, au classement des eaux de baignade ainsi qu'au contrôle
-exercé par le représentant de l'Etat dans le département ;
+sanitaire exercé par l'agence régionale de santé ;
 
 3° La nature, l'objet et les modalités de transmission des renseignements que
-fournit la personne responsable de l'eau de baignade au représentant de l'Etat
-dans le département.
+fournit la personne responsable de l'eau de baignade au directeur général de
+l'agence régionale de santé et les modalités selon lesquelles celui-ci les
+transmet au représentant de l'Etat dans le département.

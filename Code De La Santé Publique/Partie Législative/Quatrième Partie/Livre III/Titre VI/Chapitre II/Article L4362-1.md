@@ -12,10 +12,9 @@ changement de situation professionnelle.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
-l'organisme désigné à cette fin, une liste de cette profession, portée à la
-connaissance du public. Un opticien-lunetier ne peut être inscrit que dans un
-seul département.
+Il est établi, pour chaque département, par le service ou l'organisme désigné à
+cette fin, une liste de cette profession, portée à la connaissance du public. Un
+opticien-lunetier ne peut être inscrit que dans un seul département.
 
 Peuvent exercer la profession d'opticien-lunetier détaillant les personnes
 titulaires d'un diplôme, certificat ou titre mentionnés aux articles L. 4362-2

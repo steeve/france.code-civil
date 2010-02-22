@@ -6,9 +6,8 @@ l'exécution des préparations magistrales ou officinales.
 
 Une officine peut confier l'exécution d'une préparation, par un contrat écrit, à
 une autre officine qui est soumise, pour l'exercice de cette activité de
-sous-traitance, à une autorisation préalable délivrée par le représentant de
-l'Etat dans le département après avis du directeur régional des affaires
-sanitaires et sociales.
+sous-traitance, à une autorisation préalable délivrée par le directeur général
+de l'agence régionale de santé.
 
 Pour certaines catégories de préparations, une officine peut, par un contrat
 écrit, confier l'exécution d'une préparation à un établissement pharmaceutique

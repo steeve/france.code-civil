@@ -1,14 +1,14 @@
 Article L1331-27
 ----
-Le préfet avise les propriétaires, tels qu'ils figurent au fichier immobilier de
-la conservation des hypothèques, au moins trente jours à l'avance de la tenue de
-la réunion de la commission départementale compétente en matière
-d'environnement, de risques sanitaires et technologiques et de la faculté qu'ils
-ont de produire dans ce délai leurs observations. Il avise également, dans la
-mesure où ils sont connus, les titulaires de droits réels immobiliers sur les
-locaux, les titulaires de parts donnant droit à l'attribution ou à la jouissance
-en propriété des locaux, les occupants et, en cas d'immeuble d'hébergement,
-l'exploitant.
+Le représentant de l'Etat dans le département avise les propriétaires, tels
+qu'ils figurent au fichier immobilier de la conservation des hypothèques, au
+moins trente jours à l'avance de la tenue de la réunion de la commission
+départementale compétente en matière d'environnement, de risques sanitaires et
+technologiques et de la faculté qu'ils ont de produire dans ce délai leurs
+observations. Il avise également, dans la mesure où ils sont connus, les
+titulaires de droits réels immobiliers sur les locaux, les titulaires de parts
+donnant droit à l'attribution ou à la jouissance en propriété des locaux, les
+occupants et, en cas d'immeuble d'hébergement, l'exploitant.
 
 A défaut de connaître l'adresse actuelle des personnes mentionnées au premier
 alinéa ou de pouvoir les identifier, la notification les concernant est
@@ -35,8 +35,8 @@ mandataire.
 
 Au cas où la commission départementale compétente en matière d'environnement, de
 risques sanitaires et technologiques émet un avis contraire aux conclusions du
-rapport motivé prévu à l'article L. 1331-26, le préfet peut transmettre le
-dossier au ministre chargé de la santé. Celui-ci saisit le Haut Conseil de la
-santé publique qui émet son avis dans les deux mois de sa saisine, lequel se
-substitue à celui de la commission départementale compétente en matière
-d'environnement, de risques sanitaires et technologiques.
+rapport motivé prévu à l'article L. 1331-26, le représentant de l'Etat dans le
+département peut transmettre le dossier au ministre chargé de la santé. Celui-ci
+saisit le Haut Conseil de la santé publique qui émet son avis dans les deux mois
+de sa saisine, lequel se substitue à celui de la commission départementale
+compétente en matière d'environnement, de risques sanitaires et technologiques.

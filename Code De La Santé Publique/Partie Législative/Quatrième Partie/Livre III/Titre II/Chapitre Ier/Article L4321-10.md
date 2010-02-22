@@ -18,9 +18,9 @@ pendant une période de trois ans à compter de la cessation de leur activité.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service ou l'organisme désigné à
-cette fin, une liste des membres de cette profession, portée à la connaissance
-du public.
+Il est établi, pour chaque département, par l'agence régionale de santé ou
+l'organisme désigné à cette fin, une liste des membres de cette profession,
+portée à la connaissance du public.
 
 Un masseur-kinésithérapeute ne peut exercer sa profession, à l'exception de ceux
 qui relèvent du service de santé des armées, que :
@@ -28,9 +28,9 @@ qui relèvent du service de santé des armées, que :
 1° Si ses diplômes, certificats, titres ou autorisation ont été enregistrés
 conformément au premier alinéa ;
 
-2° S'il est inscrit sur le tableau tenu par l'ordre. Le représentant de l'Etat
-dans la région ainsi que le parquet du tribunal de grande instance ont un droit
-d'accès permanent à ce tableau et peuvent en obtenir copie.
+2° S'il est inscrit sur le tableau tenu par l'ordre. Le directeur général de
+l'agence régionale de santé ainsi que le parquet du tribunal de grande instance
+ont un droit d'accès permanent à ce tableau et peuvent en obtenir copie.
 
 L'ordre national des masseurs-kinésithérapeutes a un droit d'accès aux listes
 nominatives des masseurs-kinésithérapeutes employés par les structures publiques

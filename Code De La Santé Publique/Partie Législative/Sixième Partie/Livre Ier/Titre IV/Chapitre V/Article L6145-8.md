@@ -18,8 +18,8 @@ libératoire du règlement ;
 lorsque ces crédits ont un caractère limitatif.
 
 L'ordre de réquisition est porté à la connaissance du conseil d'administration
-de l'établissement et notifié au trésorier-payeur général du département qui le
-transmet à la chambre régionale des comptes.
+de l'établissement et notifié à l'autorité compétente de l'Etat qui le transmet
+à la chambre régionale des comptes.
 
 En cas de réquisition, le comptable est déchargé de sa responsabilité.
 

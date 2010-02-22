@@ -19,31 +19,29 @@ qu'aux 1° et 2° de l'article L. 752-3 du code rural ;
 donnant lieu au versement d'indemnités journalières ou d'un nombre de tels
 arrêts de travail rapporté au nombre de consultations effectuées
 significativement supérieurs aux données moyennes constatées, pour une activité
-comparable, pour les médecins exerçant dans le ressort de la même union
-régionale de caisses d'assurance maladie ou dans le ressort du même organisme
-local d'assurance maladie ;
+comparable, pour les médecins exerçant dans le ressort de la même agence
+régionale de santé ou dans le ressort du même organisme local d'assurance
+maladie ;
 
 3° Ou d'un nombre de prescriptions de transports ou d'un nombre de telles
 prescriptions rapporté au nombre de consultations effectuées significativement
 supérieur à la moyenne des prescriptions de transport constatée, pour une
-activité comparable, pour les médecins exerçant dans le ressort de la même union
-régionale de caisses d'assurance maladie ou dans le ressort du même organisme
-local d'assurance maladie ; 4° Ou d'un taux de prescription de transports en
-ambulance, rapporté à l'ensemble des transports prescrits, significativement
-supérieur aux données moyennes constatées, pour une activité comparable, pour
-les médecins installés dans le ressort de la même union régionale de caisses
-d'assurance maladie ou dans le ressort du même organisme local d'assurance
-maladie ; 5° Ou d'un nombre de réalisations ou de prescriptions d'un acte,
-produit ou prestation ou d'un nombre de telles réalisations ou prescriptions
-rapporté au nombre de consultations effectuées figurant sur les listes
-mentionnées au premier alinéa ou d'un groupe desdits actes, produits ou
-prestations significativement supérieur à la moyenne des réalisations ou des
-prescriptions constatée, pour une activité comparable, pour les médecins
-exerçant dans le ressort de la même union régionale de caisses d'assurance
-maladie ou dans le ressort du même organisme local d'assurance maladie. Un
-décret définit les modalités de constitution éventuelle de groupes d'actes, de
-produits ou de prestations pour la mise en oeuvre des dispositions du présent
-alinéa.
+activité comparable, pour les médecins exerçant dans le ressort de la même
+agence régionale de santé ou dans le ressort du même organisme local d'assurance
+maladie ; 4° Ou d'un taux de prescription de transports en ambulance, rapporté à
+l'ensemble des transports prescrits, significativement supérieur aux données
+moyennes constatées, pour une activité comparable, pour les médecins installés
+dans le ressort de la même agence régionale de santé ou dans le ressort du même
+organisme local d'assurance maladie ; 5° Ou d'un nombre de réalisations ou de
+prescriptions d'un acte, produit ou prestation ou d'un nombre de telles
+réalisations ou prescriptions rapporté au nombre de consultations effectuées
+figurant sur les listes mentionnées au premier alinéa ou d'un groupe desdits
+actes, produits ou prestations significativement supérieur à la moyenne des
+réalisations ou des prescriptions constatée, pour une activité comparable, pour
+les médecins exerçant dans le ressort de la même agence régionale de santé ou
+dans le ressort du même organisme local d'assurance maladie. Un décret définit
+les modalités de constitution éventuelle de groupes d'actes, de produits ou de
+prestations pour la mise en oeuvre des dispositions du présent alinéa.
 
 Toutefois, en cas d'urgence attestée par le médecin prescripteur, l'accord
 préalable de l'organisme débiteur des prestations n'est pas requis pour la prise

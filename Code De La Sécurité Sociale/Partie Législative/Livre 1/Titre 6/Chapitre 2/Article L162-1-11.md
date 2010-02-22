@@ -19,12 +19,13 @@ dans les meilleures conditions. Ils peuvent en particulier fournir tous élémen
 d'information sur les services assurés par les établissements de santé et sur la
 situation des professionnels de santé au regard des dispositions
 conventionnelles ou réglementaires les régissant ainsi que sur leur adhésion aux
-contrats prévus aux articles L. 162-12-18, L. 162-12-20 et L. 183-1-1, et leur
-participation à la formation continue, à la coordination des soins et à la
-démarche d'évaluation de la qualité professionnelle prévue à l'article L.
-4133-1-1 du code de la santé publique. Ils fournissent également tous éléments
-d'information sur les tarifs d'honoraires habituellement demandés et toutes
-informations utiles à la bonne orientation du patient dans le système de soins.
+contrats prévus à l'article L. 162-12-21 du présent code et à l'article L.
+1435-4 du code de la santé publique, et leur participation à la formation
+continue, à la coordination des soins et à la démarche d'évaluation de la
+qualité professionnelle prévue à l'article L. 4133-1 du code de la santé
+publique. Ils fournissent également tous éléments d'information sur les tarifs
+d'honoraires habituellement demandés et toutes informations utiles à la bonne
+orientation du patient dans le système de soins.
 
 Les caisses nationales d'assurance maladie peuvent mettre en place des
 programmes d'accompagnement des patients atteints de maladies chroniques visant

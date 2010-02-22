@@ -12,9 +12,9 @@ changement de situation professionnelle.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
-l'organisme désigné à cette fin, des listes distinctes de ces professions,
-portées à la connaissance du public.
+Il est établi, pour chaque département, par le service ou l'organisme désigné à
+cette fin, des listes distinctes de ces professions, portées à la connaissance
+du public.
 
 L'inscription n'est possible que dans un seul département. Dans le cas où
 l'activité est exercée dans plusieurs départements, l'intéressé est inscrit sur

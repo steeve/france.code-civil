@@ -3,7 +3,7 @@ Article L5321-2
 Les ressources de l'agence sont constituées notamment :
 
 l° Par des subventions des collectivités publiques, de leurs établissements
-publics, des organismes de sécurité sociale, de la Communauté européenne ou des
+publics, des organismes de sécurité sociale, de l'Union européenne ou des
 organisations internationales ;
 
 2° Par des taxes prévues à son bénéfice ;

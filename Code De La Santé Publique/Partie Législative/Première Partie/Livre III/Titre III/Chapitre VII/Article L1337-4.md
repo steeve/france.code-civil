@@ -10,14 +10,15 @@ d'exécuter les mesures prescrites en application du II de l'article L. 1331-28.
 
 II.-Est puni de deux ans d'emprisonnement et d'une amende de 75 000 Euros :
 
--le fait de ne pas déférer à une mise en demeure du préfet prise sur le
-fondement de l'article L. 1331-23.
+-le fait de ne pas déférer à une mise en demeure du représentant de l'Etat dans
+le département prise sur le fondement de l'article L. 1331-23.
 
 III.-Est puni d'un emprisonnement de trois ans et d'une amende de 100 000 Euros
 :
 
--le fait de ne pas déférer, dans le délai fixé, à une mise en demeure du préfet
-prise sur le fondement de l'article L. 1331-22 ;
+-le fait de ne pas déférer, dans le délai fixé, à une mise en demeure du
+représentant de l'Etat dans le département prise sur le fondement de l'article
+L. 1331-22 ;
 
 -le fait, à compter de la notification de la réunion de la commission
 départementale compétente en matière d'environnement, de risques sanitaires ou

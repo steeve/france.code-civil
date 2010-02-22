@@ -1,7 +1,8 @@
 Article L752-11
 ----
 Les dispositions des chapitres 2 à 4 du titre IV du livre I relatives en matière
-de contentieux général et technique tant aux caisses primaires ou régionales
-d'assurance maladie qu'aux caisses d'allocations familiales sont applicables aux
-caisses générales de sécurité sociale et aux caisses d'allocations familiales
-des départements mentionnés à l'article L. 751-1.
+de contentieux général et technique tant aux caisses primaires d'assurance
+maladie qu'aux caisses d'assurance retraite et de la santé au travail et aux
+caisses d'allocations familiales sont applicables aux caisses générales de
+sécurité sociale et aux caisses d'allocations familiales des départements
+mentionnés à l'article L. 751-1.

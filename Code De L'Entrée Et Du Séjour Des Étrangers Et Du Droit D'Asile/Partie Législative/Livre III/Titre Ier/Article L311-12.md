@@ -9,9 +9,10 @@ l'article L. 311-7 soit exigée.
 
 L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut
 être d'une durée supérieure à six mois, est délivrée par l'autorité
-administrative, après avis du médecin inspecteur de santé publique compétent au
-regard du lieu de résidence de l'intéressé ou, à Paris, du médecin, chef du
-service médical de la préfecture de police, dans les conditions prévues au 11°
-de l'article L. 313-11. Elle est renouvelable et n'autorise pas son titulaire à
-travailler. Toutefois, cette autorisation peut être assortie d'une autorisation
-provisoire de travail, sur présentation d'un contrat de travail.
+administrative, après avis du médecin de l'agence régionale de santé de la
+région de résidence de l'intéressé, désigné par le directeur général de
+l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de
+police, dans les conditions prévues au 11° de l'article L. 313-11. Elle est
+renouvelable et n'autorise pas son titulaire à travailler. Toutefois, cette
+autorisation peut être assortie d'une autorisation provisoire de travail, sur
+présentation d'un contrat de travail.

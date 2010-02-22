@@ -23,7 +23,8 @@ notamment celles relatives à la durée minimum d'expérience professionnelle
 acquise en équipe de soins généraux au sein d'un service organisé, aux sanctions
 prononcées le cas échéant à leur encontre pour des faits liés à l'exercice de
 leur profession et au suivi d'actions de formation, ainsi qu'à la zone
-d'exercice au sens du 2° de l'article L. 162-47 ;
+d'exercice définies par l'agence régionale de santé en application de l'article
+L. 1434-7 du code de la santé publique ;
 
 4° Le financement des instances nécessaires à la mise en oeuvre de la convention
 et de ses annexes annuelles ;
@@ -53,9 +54,7 @@ curatives des infirmiers ;
 8° Les mesures d'adaptation, notamment incitatives, des dispositions de
 l'article L. 162-14-1 et des dispositions du présent article applicables aux
 infirmiers en fonction du niveau de l'offre en soins au sein de chaque région
-dans les zones au sens du 2° de l'article L. 162-47. Ces modalités sont définies
+dans les zones définies par l'agence régionale de santé en application de
+l'article L. 1434-7 du code de la santé publique. Ces modalités sont définies
 après concertation avec les organisations les plus représentatives des étudiants
 et jeunes infirmiers.
-
-Pour la mise en oeuvre des 6° et 7°, il peut être fait application des
-dérogations mentionnées au II de l'article L. 162-31-1.

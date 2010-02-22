@@ -8,5 +8,5 @@ encourent également la peine complémentaire d'interdiction, selon les modalit�
 prévues par l'article 131-27 du code pénal, d'exercer l'activité professionnelle
 ou sociale dans l'exercice de laquelle ou à l'occasion de l'exercice de laquelle
 l'infraction a été commise. Cette interdiction est portée à la connaissance du
-représentant de l'Etat dans la région qui en informe les organismes d'assurance
-maladie.
+directeur général de l'agence régionale de santé qui en informe les organismes
+d'assurance maladie.

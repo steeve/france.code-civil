@@ -8,7 +8,7 @@ Cette dotation participe notamment au financement des engagements relatifs aux
 missions mentionnées à l'article L. 6112-1 du code de la santé publique à
 l'exception des formations prises en charge par la région en application des
 articles L. 4151-9, L. 4244-1 et L. 4383-5 du même code, à ceux relatifs à la
-mise en oeuvre des orientations du schéma régional d'organisation sanitaire, à
+mise en oeuvre des orientations du schéma régional d'organisation des soins, à
 ceux visant à améliorer la qualité des soins ou à répondre aux priorités
 nationales ou locales en matière de politique sanitaire, notamment la création
 de communautés hospitalières de territoire, par dérogation aux dispositions de
@@ -38,16 +38,15 @@ plusieurs de ces missions ainsi que les critères d'attribution aux
 
 En vue de permettre un suivi des dotations régionales affectées aux missions
 d'intérêt général et à l'aide à la contractualisation, un bilan élaboré sur la
-base des données transmises par chaque agence régionale de l'hospitalisation est
-transmis avant le 15 octobre de chaque année au Parlement et aux organisations
-nationales les plus représentatives des établissements de santé publics et
-privés. Ce bilan contient notamment une analyse du bien-fondé du périmètre des
-missions d'intérêt général et d'aide à la contractualisation des établissements
-de santé mentionnés au premier alinéa, de l'évolution du montant annuel de la
-dotation nationale de financement de ces missions, de celle du montant des
-dotations régionales et de celle du montant des dotations attribuées à chaque
-établissement, ainsi que des critères d'attribution de ces dernières aux
-établissements.
+base des données transmises par chaque agence régionale de santé est transmis
+avant le 15 octobre de chaque année au Parlement et aux organisations nationales
+les plus représentatives des établissements de santé publics et privés. Ce bilan
+contient notamment une analyse du bien-fondé du périmètre des missions d'intérêt
+général et d'aide à la contractualisation des établissements de santé mentionnés
+au premier alinéa, de l'évolution du montant annuel de la dotation nationale de
+financement de ces missions, de celle du montant des dotations régionales et de
+celle du montant des dotations attribuées à chaque établissement, ainsi que des
+critères d'attribution de ces dernières aux établissements.
 
 Un décret, pris après avis des organisations nationales les plus représentatives
 des établissements de santé, fixe la liste des missions d'intérêt général et des

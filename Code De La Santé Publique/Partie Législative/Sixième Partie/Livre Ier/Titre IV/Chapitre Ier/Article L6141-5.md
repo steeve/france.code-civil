@@ -23,8 +23,8 @@ dispositions relatives au secret médical, les informations utiles à la mise en
 Les mêmes obligations sont applicables aux personnels soignants intervenant au
 sein des établissements pénitentiaires.
 
-Les compétences du directeur de l'agence régionale de l'hospitalisation prévues
-aux articles L. 6143-3, L. 6143-3-1, L. 6143-4 et L. 6145-1 à L. 6145-5 ainsi
-que les compétences de l'agence régionale de l'hospitalisation prévues au 3° de
-l'article L. 6115-4 sont, en ce qui concerne ces établissements, exercées
-conjointement par le ministre de la justice et le ministre chargé de la santé.
+Les compétences de l'agence régionale de santé mentionnées aux articles L.
+6114-1, L. 6143-3, L. 6143-3-1, L. 6143-4 et L. 6145-1 à L. 6145-5 du présent
+code et à l'article L. 162-22-13 du code de la sécurité sociale sont, en ce qui
+concerne ces établissements, exercées conjointement par le ministre de la
+justice et le ministre chargé de la santé.

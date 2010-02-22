@@ -2,8 +2,8 @@ Article L4131-2
 ----
 Peuvent être autorisées à exercer la médecine, soit à titre de remplaçant d'un
 médecin, soit comme adjoint d'un médecin en cas d'afflux exceptionnel de
-population, constaté par un arrêté du préfet de département, les personnes
-remplissant les conditions suivantes :
+population, constaté par un arrêté du représentant de l'Etat dans le
+département, les personnes remplissant les conditions suivantes :
 
 1° Avoir suivi et validé la totalité du deuxième cycle des études médicales en
 France ou titulaires d'un titre sanctionnant une formation médicale de base

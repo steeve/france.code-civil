@@ -30,3 +30,7 @@ public à la mise en oeuvre des dispositions précédentes ;
 
 - informe le maire de la durée de saison balnéaire de l'eau de baignade, de son
 profil et des modalités de l'information et de la participation du public.
+
+Elle est tenue de se soumettre au contrôle sanitaire organisé par l'agence
+régionale de santé dans les conditions prévues au présent chapitre et selon les
+modalités définies à l'article L. 1321-5.

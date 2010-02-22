@@ -25,11 +25,11 @@ disponibilité effective des capacités d'accueil et notamment des lits.A la
 demande du directeur, ce signalement peut se faire en temps réel.
 
 Le praticien responsable de l'information médicale est un médecin désigné par le
-conseil d'administration ou l'organe délibérant de l'établissement, s'il existe,
-après avis de la commission médicale ou de la conférence médicale. Pour ce qui
-concerne les établissements publics de santé, les conditions de cette
-désignation et les modes d'organisation de la fonction d'information médicale
-sont fixés par décret.
+directeur d'un établissement public de santé ou l'organe délibérant d'un
+établissement de santé privé s'il existe, après avis de la commission médicale
+ou de la conférence médicale. Pour ce qui concerne les établissements publics de
+santé, les conditions de cette désignation et les modes d'organisation de la
+fonction d'information médicale sont fixés par décret.
 
 Lorsque les praticiens appartenant au personnel des établissements publics de
 santé ne satisfont pas aux obligations qui leur incombent en vertu des troisième

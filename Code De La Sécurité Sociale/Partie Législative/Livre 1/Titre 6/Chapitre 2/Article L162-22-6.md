@@ -2,28 +2,28 @@ Article L162-22-6
 ----
 Un décret en Conseil d'Etat, pris après avis des organisations nationales les
 plus représentatives des établissements de santé, détermine les catégories de
-prestations donnant lieu à facturation pour les activités de médecine,
-chirurgie, obstétrique et odontologie mentionnées au a du 1° de l'article L.
-6111-2 du code de la santé publique, y compris les activités d'alternative à la
-dialyse en centre et d'hospitalisation à domicile, exercées par les
-établissements suivants :
+prestations donnant lieu à facturation pour les activités mentionnées au 1° de
+l'article L. 162-22 qui sont exercées par les établissements suivants :
 
-a) Les établissements publics de santé, à l'exception des hôpitaux locaux
-mentionnés à l'article L. 6141-2 du code de la santé publique et des
-établissements dispensant des soins aux personnes incarcérées mentionnés à
-l'article L. 6141-5 du même code ;
+a) Les établissements publics de santé, à l'exception des établissements
+dispensant des soins aux personnes incarcérées mentionnés à l'article L. 6141-5
+du code de la santé publique ;
 
-b) Les établissements de santé privés à but non lucratif admis à participer au
-service public hospitalier ;
+b) Les établissements de santé privés à but non lucratif qui ont été admis à
+participer à l'exécution du service public hospitalier à la date de publication
+de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et
+relative aux patients, à la santé et aux territoires, jusqu'à la date retenue en
+application du premier alinéa du XX de l'article 1er de cette loi ;
 
 c) Les établissements de santé privés à but non lucratif ayant opté pour la
 dotation globale de financement en application de l'article 25 de l'ordonnance
 n° 96-346 du 24 avril 1996 portant réforme de l'hospitalisation publique et
-privée ;
+privée, jusqu'à la date retenue en application du premier alinéa du XXI de
+l'article 1er de la loi n° 2009-879 du 21 juillet 2009 précitée ;
 
 d) Les établissements de santé privés autres que ceux mentionnés aux b et c
-ayant conclu un contrat pluriannuel d'objectifs et de moyens avec l'agence
-régionale de l'hospitalisation ;
+ayant conclu un contrat pluriannuel d'objectifs et de moyens avec l' agence
+régionale de santé ;
 
 e) Les établissements de santé privés autres que ceux mentionnés aux b, c et d.
 

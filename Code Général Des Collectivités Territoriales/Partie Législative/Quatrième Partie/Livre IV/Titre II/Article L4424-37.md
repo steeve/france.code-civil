@@ -5,9 +5,10 @@ du code de l'environnement sont élaborés, à l'initiative de la collectivité
 territoriale de Corse, par une commission composée de représentants de la
 collectivité territoriale de Corse, des départements, des communes et de leurs
 groupements compétents en matière de collecte ou de traitement des déchets, des
-services et organismes de l'Etat, des chambres consulaires, des organisations
-professionnelles concourant à la production et à l'élimination des déchets et
-des associations agréées de protection de l'environnement.
+services et organismes de l'Etat concernés, notamment l'agence régionale de
+santé, des chambres consulaires, des organisations professionnelles concourant à
+la production et à l'élimination des déchets et des associations agréées de
+protection de l'environnement.
 
 Par dérogation aux articles L. 541-13 et L. 541-14 du code de l'environnement,
 les projets de plan qui, à l'initiative de l'Assemblée de Corse, peuvent être

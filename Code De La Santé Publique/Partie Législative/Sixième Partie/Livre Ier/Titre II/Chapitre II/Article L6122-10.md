@@ -8,15 +8,16 @@ Il peut également être subordonné aux conditions mentionnées au deuxième al
 de l'article L. 6122-7.
 
 Le titulaire de l'autorisation adresse les résultats de l'évaluation à l'agence
-régionale de l'hospitalisation au plus tard quatorze mois avant l'échéance de
+régionale de santé au plus tard quatorze mois avant l'échéance de
 l'autorisation.
 
 Au vu de ce document et de la compatibilité de l'autorisation avec le schéma
-d'organisation sanitaire, l'agence régionale de l'hospitalisation peut enjoindre
-au titulaire de déposer un dossier de renouvellement dans les conditions fixées
-à l'article L. 6122-9.
+d'organisation des soins, l'agence régionale de santé peut enjoindre au
+titulaire de déposer un dossier de renouvellement dans les conditions fixées à
+l'article L. 6122-9.
 
 A défaut d'injonction un an avant l'échéance de l'autorisation, et par
 dérogation aux dispositions de l'article L. 6122-9, celle-ci est tacitement
-renouvelée.L'avis du comité régional de l'organisation sanitaire n'est alors pas
+renouvelée. L'avis de la commission spécialisée de la conférence régionale de la
+santé et de l'autonomie compétente pour le secteur sanitaire n'est alors pas
 requis.

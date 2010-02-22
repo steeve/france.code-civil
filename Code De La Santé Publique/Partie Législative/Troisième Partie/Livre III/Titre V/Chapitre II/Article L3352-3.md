@@ -7,5 +7,5 @@ de boissons à consommer sur place :
 prévue à l'article L. 3332-3 ;
 
 2° Sans justifier de la nationalité française ou de celle d'un autre Etat membre
-de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen.

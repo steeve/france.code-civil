@@ -9,8 +9,8 @@ code électoral ;
 
 3 S'il a personnellement ou par l'intermédiaire de son conjoint, de ses
 ascendants ou descendants en ligne directe un intérêt direct ou indirect dans la
-gestion d'un établissement de santé privé qui n'assure pas l'exécution du
-service public hospitalier ;
+gestion d'un établissement de santé privé qui n'est pas un établissement de
+santé privé d'intérêt collectif ;
 
 4 S'il est lié à l'établissement par contrat, notamment s'il est agent salarié
 de l'établissement ;

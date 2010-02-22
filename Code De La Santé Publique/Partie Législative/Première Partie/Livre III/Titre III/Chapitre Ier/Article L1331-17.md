@@ -1,10 +1,10 @@
 Article L1331-17
 ----
 Lorsque pendant trois années consécutives le nombre des décès dans une commune a
-dépassé le chiffre de la mortalité moyenne de la France, le représentant de
-l'Etat dans le département est tenu de charger la commission départementale
-compétente en matière d'environnement, de risques sanitaires et technologiques
-de procéder à une enquête sur les conditions sanitaires de la commune.
+dépassé le chiffre de la mortalité moyenne de la France, le directeur général de
+l'agence régionale de santé procède à une enquête sur les conditions sanitaires
+de la commune et en communique les résultats au représentant de l'Etat dans le
+département.
 
 Si cette enquête établit que l'état sanitaire de la commune nécessite des
 travaux d'assainissement, notamment qu'elle n'est pas pourvue d'eau potable de

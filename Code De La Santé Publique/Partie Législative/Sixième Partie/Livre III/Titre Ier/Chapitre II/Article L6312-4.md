@@ -2,7 +2,8 @@ Article L6312-4
 ----
 Dans chaque département, la mise en service par les personnes mentionnées à
 l'article L. 6312-2 de véhicules affectés aux transports sanitaires terrestres
-est soumise à l'autorisation du représentant de l'Etat.
+est soumise à l'autorisation du directeur général de l'agence régionale de
+santé.
 
 Aucune autorisation n'est délivrée si le nombre de véhicules déjà en service
 égale ou excède un nombre fixé en fonction des besoins sanitaires de la

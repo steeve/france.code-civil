@@ -5,8 +5,8 @@ sécurité sanitaire des aliments peut autoriser, lorsque la situation sanitaire
 l'exige et qu'il n'existe pas de médicament vétérinaire autorisé approprié,
 l'utilisation pour une durée limitée :
 
-1° D'un médicament vétérinaire déjà autorisé dans un autre Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+1° D'un médicament vétérinaire déjà autorisé dans un autre Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
 2° Ou, à défaut, d'un médicament vétérinaire autorisé dans un Etat autre que
 ceux mentionnés au 1°.

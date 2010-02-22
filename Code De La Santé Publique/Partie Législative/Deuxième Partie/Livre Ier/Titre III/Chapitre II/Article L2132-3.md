@@ -9,9 +9,9 @@ professionnel.
 A des fins de suivi statistique et épidémiologique de la santé des enfants,
 chaque service public départemental de protection maternelle et infantile
 transmet au ministre chargé de la santé ou aux services désignés à cet effet par
-le préfet de région, dans des conditions fixées par arrêté pris après avis du
-Conseil national de l'information statistique et de la Commission nationale de
-l'informatique et des libertés :
+le directeur général de l'agence régionale de santé, dans des conditions fixées
+par arrêté pris après avis du Conseil national de l'information statistique et
+de la Commission nationale de l'informatique et des libertés :
 
 1° Des données agrégées ;
 

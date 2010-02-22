@@ -6,8 +6,8 @@ Le Comité national de l'organisation sanitaire et sociale comprend :
 sécurité sociale ;
 
 2° Des représentants des institutions et des établissements de santé, des
-établissements sociaux, publics ou privés, notamment des établissements
-spécialisés, et des établissements assurant une activité de soins à domicile ;
+établissements sociaux, publics ou privés, et des établissements assurant une
+activité de soins à domicile ;
 
 3° Des représentants des personnels de ces institutions et établissements ;
 

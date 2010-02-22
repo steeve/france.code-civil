@@ -31,7 +31,7 @@ antiparasitaire externe avec une action létale sur le parasite ;
 partir de substances appelées, souches homéopathiques, selon un procédé de
 fabrication homéopathique décrit par la pharmacopée européenne, la pharmacopée
 française ou, à défaut, par les pharmacopées utilisées de façon officielle dans
-un autre Etat membre de la Communauté européenne ; un médicament homéopathique
+un autre Etat membre de l'Union européenne ; un médicament homéopathique
 vétérinaire peut aussi contenir plusieurs principes ;
 
 8° Médicament générique vétérinaire, tout médicament vétérinaire qui, sans

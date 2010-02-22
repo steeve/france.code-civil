@@ -26,5 +26,5 @@ groupements, actionnaires ou garants.
 Lorsqu'il s'agit de sociétés d'économie mixte locales mentionnées à l'article L.
 1522-6, le représentant de l'Etat et la chambre régionale des comptes sont tenus
 d'informer la société, les conseils d'administration des établissements ou
-groupements actionnaires concernés ainsi que le directeur de l'agence régionale
-de l'hospitalisation de leurs décisions et avis."
+groupements actionnaires concernés ainsi que le directeur général de l'agence
+régionale de santé de leurs décisions et avis."

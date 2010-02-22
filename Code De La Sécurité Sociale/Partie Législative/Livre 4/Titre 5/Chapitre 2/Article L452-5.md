@@ -17,6 +17,6 @@ rentes, celles-ci doivent être constituées par le débiteur dans les deux mois
 la décision définitive ou de l'accord des parties à la caisse nationale de
 prévoyance suivant le tarif résultant du présent code.
 
-Dans le cas prévu au présent article, la caisse régionale d'assurance maladie
-peut imposer à l'employeur la cotisation supplémentaire mentionnée à l'article
-L. 242-7.
+Dans le cas prévu au présent article, la caisse d'assurance retraite et de la
+santé au travail peut imposer à l'employeur la cotisation supplémentaire
+mentionnée à l'article L. 242-7.

@@ -26,12 +26,12 @@ III.-Un décret fixe le nombre des membres de chaque conseil régional, compte
 tenu du nombre d'infirmiers inscrits au dernier tableau publié.
 
 Lorsque les membres d'un conseil régional mettent celui-ci dans l'impossibilité
-de fonctionner, le représentant de l'Etat dans la région, sur proposition du
-conseil national de l'ordre, peut, par arrêté, prononcer la dissolution du
-conseil régional. Il nomme dans ce cas une délégation de trois à cinq membres
-suivant l'importance numérique du conseil dissous. Jusqu'à l'élection d'un
-nouveau conseil organisée sans délai, cette délégation assure la gestion des
-affaires courantes ainsi que les fonctions attribuées au conseil.
+de fonctionner, le directeur général de l'agence régionale de santé, sur
+proposition du conseil national de l'ordre, peut, par arrêté, prononcer la
+dissolution du conseil régional. Il nomme dans ce cas une délégation de trois à
+cinq membres suivant l'importance numérique du conseil dissous. Jusqu'à
+l'élection d'un nouveau conseil organisée sans délai, cette délégation assure la
+gestion des affaires courantes ainsi que les fonctions attribuées au conseil.
 
 En cas de démission de tous les membres du conseil, une délégation assurant les
 fonctions précitées est nommée dans les mêmes conditions.

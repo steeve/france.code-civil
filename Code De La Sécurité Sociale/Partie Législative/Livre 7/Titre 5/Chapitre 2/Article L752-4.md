@@ -32,7 +32,4 @@ exploitants agricoles.
 recouvrement des cotisations du régime général et de la mutualité sociale
 agricole à l'exception des compétences mentionnées aux 1°, 2°, 3° et 4° de
 l'article L. 212-3 du présent code qui sont exercées dans les départements
-d'outre-mer par la Caisse maritime d'allocations familiales ;
-
-7°) D'exercer les fonctions dévolues en métropole aux unions régionales des
-caisses d'assurance maladie.
+d'outre-mer par la Caisse maritime d'allocations familiales.

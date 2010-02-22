@@ -5,27 +5,29 @@ Sont tenues de se faire enregistrer auprès du service ou de l'organisme désign
 titre de formation ou une autorisation requis pour l'exercice de la profession
 de pédicure-podologue, avant leur entrée dans la profession, ainsi que celles
 qui ne l'exerçant pas ont obtenu leur titre de formation depuis moins de trois
-ans. L'enregistrement de ces personnes est réalisé après vérification des pièces
+ans.
+
+L'enregistrement de ces personnes est réalisé après vérification des pièces
 justificatives attestant de leur identité et de leur titre de formation ou de
 leur autorisation. Elles informent le même service ou organisme de tout
-changement de résidence ou de situation professionnelle. Pour les personnes
-ayant exercé la profession de pédicure-podologue, l'obligation d'information
-relative au changement de résidence est maintenue pendant une période de trois
-ans à compter de la cessation de leur activité.
+changement de résidence ou de situation professionnelle.
+
+Pour les personnes ayant exercé la profession de pédicure-podologue,
+l'obligation d'information relative au changement de résidence est maintenue
+pendant une période de trois ans à compter de la cessation de leur activité.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
-l'organisme désigné à cette fin, une liste de cette profession, portée à la
-connaissance du public.
+Il est établi, pour chaque département, par le service ou l'organisme désigné à
+cette fin, une liste de cette profession, portée à la connaissance du public.
 
 Nul ne peut exercer la profession de pédicure-podologue si ses diplômes,
 certificats, titres ou autorisation n'ont été enregistrés conformément au
 premier alinéa et s'il n'est inscrit au tableau tenu par l'ordre. Cette
 disposition n'est pas applicable aux pédicures-podologues qui relèvent du
-service de santé des armées. Le représentant de l'Etat dans la région ainsi que
-le parquet du tribunal de grande instance ont un droit d'accès permanent au
-tableau tenu par l'ordre et peuvent en obtenir copie.
+service de santé des armées. Le directeur général de l'agence régionale de santé
+ainsi que le parquet du tribunal de grande instance ont un droit d'accès
+permanent au tableau tenu par l'ordre et peuvent en obtenir copie.
 
 L'ordre national des pédicures-podologues a un droit d'accès aux listes
 nominatives des pédicures-podologues employés par les structures publiques et

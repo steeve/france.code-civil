@@ -9,6 +9,6 @@ société en informe le conseil de l'ordre compétent.
 
 Le conseil compétent de l'ordre des pharmaciens transmet les informations
 concernant les débuts, les changements et les cessations d'exploitation des
-officines aux services de l'Etat.
+officines à l'agence régionale de santé.
 
 Les modalités d'application du présent article sont fixées par décret.

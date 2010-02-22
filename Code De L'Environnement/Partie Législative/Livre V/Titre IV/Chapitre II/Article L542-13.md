@@ -6,14 +6,15 @@ et de concertation en matière de recherche sur la gestion des déchets
 radioactifs et, en particulier, sur le stockage de ces déchets en couche
 géologique profonde.
 
-Ce comité comprend des représentants de l'Etat, deux députés et deux sénateurs
-désignés par leur assemblée respective, des élus des collectivités territoriales
-consultées à l'occasion de l'enquête publique ou concernées par les travaux de
-recherche préliminaires prévus à l'article L. 542-6, des représentants
-d'associations de protection de l'environnement, de syndicats agricoles,
-d'organisations professionnelles, d'organisations syndicales de salariés
-représentatives et de professions médicales, des personnalités qualifiées ainsi
-que le titulaire de l'autorisation prévue à l'article L. 542-10-1.
+Ce comité comprend des représentants de l'Etat et de l'agence régionale de
+santé, deux députés et deux sénateurs désignés par leur assemblée respective,
+des élus des collectivités territoriales consultées à l'occasion de l'enquête
+publique ou concernées par les travaux de recherche préliminaires prévus à
+l'article L. 542-6, des représentants d'associations de protection de
+l'environnement, de syndicats agricoles, d'organisations professionnelles,
+d'organisations syndicales de salariés représentatives et de professions
+médicales, des personnalités qualifiées ainsi que le titulaire de l'autorisation
+prévue à l'article L. 542-10-1.
 
 Il peut être doté de la personnalité juridique avec un statut d'association. Il
 est présidé par un de ses membres, élu national ou local, nommé par décision

@@ -5,7 +5,7 @@ présent titre ainsi qu'aux mesures réglementaires prises pour leur application
 
 1° Les inspecteurs de l'Agence française de sécurité sanitaire des aliments ;
 
-2° Les pharmaciens inspecteurs de santé publique ;
+2° Les inspecteurs mentionnés à l'article L. 5127-1 ;
 
 3° Les vétérinaires officiels mentionnés au V de l'article L. 231-2 du code
 rural ;

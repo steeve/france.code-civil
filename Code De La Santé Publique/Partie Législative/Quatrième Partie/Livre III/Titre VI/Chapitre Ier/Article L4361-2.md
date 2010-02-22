@@ -12,7 +12,7 @@ changement de résidence ou de situation professionnelle.
 
 La procédure d'enregistrement est sans frais.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou
+Il est établi, pour chaque département, par l'agence régionale de santé ou
 l'organisme désigné à cette fin, une liste de cette profession, portée à la
 connaissance du public.
 

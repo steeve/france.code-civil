@@ -3,11 +3,11 @@ Article L6122-18
 Il peut être procédé, dans des conditions définies par décret en Conseil d'Etat
 et jusqu'au 25 avril 2010, à une ou des expérimentations relatives à
 l'organisation et à l'équipement sanitaires. A cet effet, il peut être dérogé
-aux dispositions de l'article L. 6121-2 relatives à l'annexe du schéma
-d'organisation sanitaire, à celles de l'article L. 6122-1 relatives à
-l'autorisation des activités de soins et équipements matériels lourds, ainsi
-qu'aux conditions prévues à l'article L. 162-22-2 du code de la sécurité sociale
-et aux articles L. 6114-1 et suivants du présent code.
+aux dispositions du schéma d'organisation des soins, à celles de l'article L.
+6122-1 relatives à l'autorisation des activités de soins et équipements
+matériels lourds, ainsi qu'aux conditions prévues à l'article L. 162-22-2 du
+code de la sécurité sociale et aux articles L. 6114-1 et suivants du présent
+code.
 
 Ces expérimentations peuvent également déroger aux règles de prise en charge par
 les régimes d'assurance maladie, des dépenses afférentes aux soins médicaux

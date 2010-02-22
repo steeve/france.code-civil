@@ -6,7 +6,6 @@ pour délivrer des soins palliatifs à domicile. Ces conditions peuvent porter s
 des modes de rémunération particuliers autres que le paiement à l'acte et sur le
 paiement direct des professionnels par les organismes d'assurance maladie. Les
 modes de rémunération particuliers et leur montant sont déterminés par un accord
-au conventionnel interprofessionnel prévu au II de l'article L. 162-14-1 ou des
-contrats de santé publique prévus à l'article L. 162-12-20.
+au conventionnel interprofessionnel prévu au II de l'article L. 162-14-1.
 
 Les modalités d'application du présent article sont définies par décret.

@@ -3,8 +3,8 @@ Article L161-40
 Au titre de sa mission d'évaluation de la qualité de la prise en charge
 sanitaire de la population, la Haute Autorité de santé est chargée :
 
-1° De participer à la mise en oeuvre d'actions d'évaluation des pratiques
-professionnelles ;
+1° De contribuer à la qualité des actions concourant au développement
+professionnel continu et de participer à leur évaluation ;
 
 2° D'analyser les modalités d'organisation et les pratiques professionnelles à
 l'origine des faits mentionnés à l'article L. 1413-14 du code de la santé

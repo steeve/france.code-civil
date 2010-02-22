@@ -12,7 +12,7 @@ application :
 les conditions prévues par décret en Conseil d'Etat, appartenant aux services de
 l'Etat chargés de l'environnement, de l'industrie, de l'équipement, des
 transports, de la mer, de l'agriculture, de la concurrence, de la consommation
-et de la répression des fraudes, et de la santé ;
+et de la répression des fraudes ;
 
 3° Les agents des douanes ;
 

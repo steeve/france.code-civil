@@ -23,7 +23,8 @@ Les établissements sont tenus de protéger la confidentialité des informations
 qu'ils détiennent sur les personnes qu'ils accueillent.
 
 Les médecins membres de l'inspection générale des affaires sociales, les
-médecins inspecteurs de santé publique et les médecins conseils des organismes
+médecins inspecteurs de santé publique, les inspecteurs de l'agence régionale de
+santé ayant la qualité de médecin et les médecins conseils des organismes
 d'assurance maladie ont accès, dans le respect des règles de déontologie
 médicale, à ces informations lorsqu'elles sont nécessaires à l'exercice de leurs
 missions.

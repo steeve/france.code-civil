@@ -82,7 +82,9 @@ syndicales représentant le personnel de l'établissement, décide de
 l'organisation du travail et des temps de repos ;
 
 15° Présente à l'agence régionale de santé le plan de redressement mentionné au
-premier alinéa de l'article L. 6143-3.
+premier alinéa de l'article L. 6143-3 ;
+
+16° Arrête le plan blanc de l'établissement mentionné à l'article L. 3131-7.
 
 Les conditions d'application du présent article, relatives aux modalités de
 consultation des instances représentatives du personnel, sont fixées par décret.

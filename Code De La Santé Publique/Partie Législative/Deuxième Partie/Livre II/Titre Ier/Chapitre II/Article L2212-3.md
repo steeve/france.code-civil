@@ -11,5 +11,5 @@ comportant notamment le rappel des dispositions des articles L. 2212-1 et L.
 et des établissements où sont effectuées des interruptions volontaires de la
 grossesse.
 
-Les directions départementales des affaires sanitaires et sociales assurent la
-réalisation et la diffusion des dossiers-guides destinés aux médecins.
+Les agences régionales de santé assurent la réalisation et la diffusion des
+dossiers-guides destinés aux médecins.

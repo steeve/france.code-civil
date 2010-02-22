@@ -1,15 +1,15 @@
 Article L4211-3
 ----
 Les médecins établis dans une commune dépourvue d'officine de pharmacie peuvent
-être autorisés par le représentant de l'Etat dans le département, après avis du
-directeur régional des affaires sanitaires et sociales, à avoir chez eux un
-dépôt de médicaments, et à délivrer aux personnes auxquelles ils donnent leurs
-soins, les médicaments remboursables et non remboursables, ainsi que les
-dispositifs médicaux nécessaires à la poursuite du traitement qu'ils ont
-prescrit, selon une liste établie par le ministre chargé de la santé, après avis
-du Conseil national de l'ordre des médecins, et du Conseil national de l'ordre
-des pharmaciens. Cette autorisation ne doit être accordée que lorsque l'intérêt
-de la santé publique l'exige.
+être autorisés par le directeur général de l'agence régionale de santé, qui en
+informe le représentant de l'Etat dans le département, à avoir chez eux un dépôt
+de médicaments, et à délivrer aux personnes auxquelles ils donnent leurs soins,
+les médicaments remboursables et non remboursables, ainsi que les dispositifs
+médicaux nécessaires à la poursuite du traitement qu'ils ont prescrit, selon une
+liste établie par le ministre chargé de la santé, après avis du Conseil national
+de l'ordre des médecins, et du Conseil national de l'ordre des pharmaciens.
+Cette autorisation ne doit être accordée que lorsque l'intérêt de la santé
+publique l'exige.
 
 Elle mentionne les localités dans lesquelles la délivrance des médicaments au
 domicile du malade est également autorisée.

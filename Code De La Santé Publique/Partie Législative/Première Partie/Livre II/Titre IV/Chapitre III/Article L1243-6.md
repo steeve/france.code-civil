@@ -20,9 +20,8 @@ Peuvent être autorisés à pratiquer des allogreffes de cellules hématopoïét
 selon les dispositions du chapitre II du titre IV du livre Ier de la sixième
 partie, les établissements de santé qui assurent des activités d'enseignement
 médical et de recherche médicale, ainsi que les établissements de santé liés par
-convention aux précédents dans le cadre du service public hospitalier.
-L'autorité administrative compétente délivre l'autorisation après avis de
-l'Agence de la biomédecine.
+convention aux précédents. L'autorité administrative compétente délivre
+l'autorisation après avis de l'Agence de la biomédecine.
 
 Les greffes composites de tissus vascularisés sont assimilées aux greffes
 d'organes et relèvent des mêmes dispositions.

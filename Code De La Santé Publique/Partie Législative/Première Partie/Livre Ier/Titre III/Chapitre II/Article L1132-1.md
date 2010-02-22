@@ -13,7 +13,6 @@ ou d'une analyse aux fins du diagnostic prénatal défini à l'article L. 2131-1
 pour lesquelles cet examen ou cette analyse est préconisé ou réalisé.
 
 La profession de conseiller en génétique est exercée dans les établissements de
-santé publics et privés participant au service public hospitalier autorisés à
-pratiquer des examens des caractéristiques génétiques à des fins médicales ou
-des activités de diagnostic prénatal, ainsi que dans les centres
-pluridisciplinaires de diagnostic prénatal.
+santé publics et privés autorisés à pratiquer des examens des caractéristiques
+génétiques à des fins médicales ou des activités de diagnostic prénatal, ainsi
+que dans les centres pluridisciplinaires de diagnostic prénatal.

@@ -1,8 +1,8 @@
 Article L5132-9
 ----
 Lorsqu'ils ont le statut de marchandises communautaires et sont en provenance ou
-à destination des autres Etats membres de la Communauté européenne, les
-médicaments, substances ou préparations classés comme stupéfiants ou auxquels la
+à destination des autres Etats membres de l'Union européenne, les médicaments,
+substances ou préparations classés comme stupéfiants ou auxquels la
 réglementation des stupéfiants est appliquée en tout ou partie en vertu du
 présent code, ainsi que les médicaments, substances ou préparations classés
 comme psychotropes doivent être présentés au service des douanes, munis des

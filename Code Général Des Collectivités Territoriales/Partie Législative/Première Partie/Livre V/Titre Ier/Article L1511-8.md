@@ -2,15 +2,15 @@ Article L1511-8
 ----
 I.-Les collectivités territoriales et leurs groupements peuvent attribuer des
 aides destinées à favoriser l'installation ou le maintien de professionnels de
-santé dans les zones définies à l'article L. 162-47 du code de la sécurité
-sociale, dans lesquelles est constaté un déficit en matière d'offre de soins. A
-cette fin, des conventions sont passées entre les collectivités et groupements
-qui attribuent l'aide, les organismes d'assurance maladie et les professionnels
-de santé intéressés. Les centres de santé visés à l'article L. 6323-1 du code de
-la santé publique peuvent également être attributaires de ces aides dans les
-mêmes conditions. Ces aides ne sont pas exclusives des aides déjà attribuées par
-les collectivités territoriales aux centres de santé implantés sur l'ensemble du
-territoire.
+santé dans les zones définies en application de l' article L. 1434-7 du code de
+la santé publique dans lesquelles est constaté un déficit en matière d'offre de
+soins.A cette fin, des conventions sont passées entre les collectivités et
+groupements qui attribuent l'aide, les organismes d'assurance maladie et les
+professionnels de santé intéressés. Les centres de santé visés à l'article L.
+6323-1 du code de la santé publique peuvent également être attributaires de ces
+aides dans les mêmes conditions. Ces aides ne sont pas exclusives des aides déjà
+attribuées par les collectivités territoriales aux centres de santé implantés
+sur l'ensemble du territoire.
 
 La nature et les conditions d'attribution de ces aides, qui peut notamment être
 subordonnée à des modes d'exercice de groupe ou d'exercice pluriprofessionnel

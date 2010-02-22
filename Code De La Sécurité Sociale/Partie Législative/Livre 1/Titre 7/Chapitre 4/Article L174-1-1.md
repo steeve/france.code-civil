@@ -47,5 +47,5 @@ dépenses incluses dans l'objectif mentionné au premier alinéa peuvent ne pas
 être incluses dans ces dotations régionales. Le montant des dotations
 régionales, qui présente un caractère limitatif, est fixé par l'Etat en tenant
 compte de l'activité des établissements, des orientations des schémas
-d'organisation sanitaire et des priorités nationales ou locales en matière de
+d'organisation des soins et des priorités nationales ou locales en matière de
 politique sanitaire.
