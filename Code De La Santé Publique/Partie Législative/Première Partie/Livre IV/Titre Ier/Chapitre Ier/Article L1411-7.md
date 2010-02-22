@@ -13,4 +13,8 @@ et les modalités techniques de leur réalisation ;
 l'information du patient ;
 
 4° Les conditions de transmission des informations nécessaires à l'évaluation du
-dispositif.
+dispositif ;
+
+5° Les missions confiées à l'agence régionale de santé ou à des organismes
+habilités par son directeur général pour la mise en œuvre des programmes de
+santé mentionnés à l'article L. 1411-6.

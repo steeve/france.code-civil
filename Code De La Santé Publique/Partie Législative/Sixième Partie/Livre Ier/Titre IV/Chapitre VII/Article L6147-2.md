@@ -11,7 +11,8 @@ familles et dans la limite des capacités autorisées par le représentant de
 l'Etat dans la région conformément aux dispositions de la loi n° 75-535 du 30
 juin 1975 relative aux institutions sociales et médico-sociales ;
 
-2° Le service public hospitalier tel que défini au présent livre ;
+2° L'exercice des missions de service public définies à l'article L. 6112-1 dans
+les conditions prévues à l'article L. 6112-3 ;
 
 3° L'hébergement et les soins de personnes âgées et des personnes handicapées
 qui y résident.

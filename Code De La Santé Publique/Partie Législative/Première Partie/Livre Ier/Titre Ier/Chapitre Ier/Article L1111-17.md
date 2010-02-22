@@ -7,7 +7,7 @@ auparavant manifesté son opposition expresse à ce que son dossier soit consult
 ou alimenté dans une telle situation.
 
 Le médecin régulateur du centre de réception et de régulation des appels d'aide
-médicale urgente mentionné à l'article L. 6112-5 qui reçoit un appel concernant
+médicale urgente mentionné à l'article L. 6311-2 qui reçoit un appel concernant
 une personne accède, sauf si cette personne avait auparavant manifesté son
 opposition expresse à ce que son dossier soit consulté dans une telle situation,
 au dossier médical personnel de celle-ci.
