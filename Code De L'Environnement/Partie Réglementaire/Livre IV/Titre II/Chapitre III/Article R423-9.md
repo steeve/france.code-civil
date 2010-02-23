@@ -23,4 +23,5 @@ résidence fixes, à la mairie de la commune à laquelle est rattaché l'intére
 
 Le candidat auquel il n'est pas délivré de permis de chasser au motif qu'il se
 trouve dans l'un des cas énumérés aux articles L. 423-11 et L. 423-25 a droit au
-remboursement du droit de timbre prévu par l'article L. 423-10.
+remboursement du montant de la redevance pour la délivrance du permis de chasser
+prévue à l'article R. 423-11.
