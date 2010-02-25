@@ -6,14 +6,14 @@ titulaires et un nombre égal de suppléants répartis ainsi qu'il suit :
 1° Cinq membres titulaires et autant de suppléants représentant les
 masseurs-kinésithérapeutes libéraux, et un membre titulaire et un membre
 suppléant représentant les masseurs-kinésithérapeutes salariés, élus par le
-conseil national parmi ses membres à la première réunion qui suit chaque
-renouvellement partiel ;
+conseil national parmi ses membres ;
 
 2° Cinq membres titulaires et autant de suppléants représentant les
 masseurs-kinésithérapeutes libéraux, et un membre titulaire et un membre
 suppléant représentant les masseurs-kinésithérapeutes salariés, élus pour six
-ans par le conseil national parmi les membres et anciens membres des conseils de
-l'ordre et renouvelables par tiers tous les deux ans.
+ans par le conseil national parmi les membres et anciens membres titulaires et
+suppléants des conseils de l'ordre, à l'exclusion des conseillers nationaux en
+cours de mandat, et renouvelables par moitié tous les trois ans.
 
 Les anciens membres doivent être inscrits au tableau.
 

@@ -10,4 +10,8 @@ siège du conseil départemental. Il en est donné récépissé.
 
 Le candidat indique son adresse, ses titres, sa date de naissance, son mode
 d'exercice, sa qualification professionnelle et ses fonctions dans les
-organismes professionnels. La liste des candidats est paraphée par le président.
+organismes professionnels. Il peut joindre sa profession de foi à l'attention
+des électeurs rédigée dans les conditions prévues par les dispositions du 4° de
+l'article R. 4123-2.
+
+La liste des candidats est paraphée par le président.

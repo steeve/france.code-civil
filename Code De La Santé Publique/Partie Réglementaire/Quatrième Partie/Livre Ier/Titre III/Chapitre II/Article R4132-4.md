@@ -6,7 +6,4 @@ trois membres suppléants inscrits au tableau du conseil départemental de l'ord
 de La Réunion, et un membre titulaire et un membre suppléant inscrits au tableau
 du conseil départemental de l'ordre de Mayotte.
 
-Ils sont renouvelables par tiers tous les deux ans par fractions de un et de
-deux membres.
-
 La chambre disciplinaire de La Réunion-Mayotte siège au complet.

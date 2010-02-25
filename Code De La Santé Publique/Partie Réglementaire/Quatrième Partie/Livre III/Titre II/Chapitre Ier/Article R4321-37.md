@@ -25,6 +25,6 @@ Quatre membres dont un pour le ressort territorial du conseil régional
 d'Ile-de-France et trois élus pour l'ensemble des autres régions.
 
 Les membres du conseil national sont élus par les conseils départementaux et
-sont renouvelables tous les deux ans par deux fractions de six membres et une
-troisième fraction de sept membres, chaque fraction comprenant cinq membres
-exerçant à titre libéral.
+sont renouvelables par moitié tous les trois ans par une fraction de dix membres
+et une deuxième fraction de neuf membres, la première fraction comprenant sept
+membres exerçant à titre libéral et la deuxième fraction en comprenant huit.

@@ -8,8 +8,8 @@ inférieur ou égal à 10 000, compris entre 10 000 et 15 000 ou supérieur à 1
 000.
 
 Dans la région Ile-de-France, le conseil régional comprend dix-neuf membres
-titulaires et dix-neuf membres suppléants, renouvelables en trois fractions,
-dont deux de six membres et une de sept membres.
+titulaires et dix-neuf membres suppléants, renouvelables en deux fractions,
+l'une de dix membres et l'autre de neuf membres.
 
 Chaque conseil départemental élit un membre titulaire et un membre suppléant le
 représentant au conseil régional ou interrégional. Les sièges restants sont

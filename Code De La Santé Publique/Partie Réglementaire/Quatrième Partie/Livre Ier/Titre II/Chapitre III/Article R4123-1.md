@@ -8,7 +8,7 @@ Dans les huit jours qui suivent la date de l'affichage, les électeurs peuvent
 vérifier les inscriptions sur la liste électorale et présenter au président du
 conseil départemental des réclamations contre les inscriptions ou omissions. A
 l'expiration de ce délai, le président affiche dans les quarante-huit heures la
-liste électorale modifiée.
+liste électorale éventuellement modifiée.
 
 Celle-ci est alors close et aucune modification n'est plus admise, sauf si un
 événement postérieur et prenant effet au plus tard trois jours avant la date du

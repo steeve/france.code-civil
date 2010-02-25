@@ -1,6 +1,6 @@
 Article R4123-15
 ----
-Le procès-verbal, revêtu de la signature des membres du bureau, est
+Le procès-verbal, revêtu de la signature des membres du bureau de vote , est
 immédiatement adressé au conseil régional ou interrégional, au préfet et au
 ministre chargé de la santé.
 

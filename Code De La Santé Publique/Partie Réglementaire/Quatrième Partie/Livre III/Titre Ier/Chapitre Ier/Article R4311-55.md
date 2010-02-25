@@ -23,3 +23,8 @@ Sous réserve des dispositions de l'article L. 4124-6 et de l'article L. 145-5-3
 du code de la sécurité sociale, sont seuls éligibles aux conseils et aux
 chambres disciplinaires de l'ordre les infirmiers inscrits au tableau depuis au
 moins trois ans à la date des élections.
+
+Sous réserve d'une évolution démographique constatée à l'occasion du
+renouvellement d'un conseil régional et rendant nécessaires les adaptations
+prévues au dernier alinéa de l'article R. 4311-85, aucun des trois collèges ne
+peut détenir à lui seul la majorité des sièges au sein d'un conseil.

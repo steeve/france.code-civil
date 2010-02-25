@@ -4,10 +4,11 @@ Des listes de candidats, identiques à celles établies comme il est prévu à
 l'article R. 4123-4, ainsi que des enveloppes sont mises à la disposition des
 électeurs présents.
 
-L'ouverture du scrutin est annoncée et la clôture prononcée par le président de
-l'assemblée conformément aux indications portées sur les convocations.
+L'ouverture du scrutin est annoncée et la clôture prononcée par le président du
+bureau de vote conformément aux indications portées sur les convocations.
 
-A l'ouverture du scrutin, le président fait constater que l'urne est vide.
+A l'ouverture du scrutin, le président du bureau de vote fait constater que
+l'urne est vide.
 
 Il est ensuite procédé au vote.
 

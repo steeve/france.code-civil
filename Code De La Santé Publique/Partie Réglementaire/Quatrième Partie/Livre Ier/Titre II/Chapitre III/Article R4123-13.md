@@ -1,7 +1,7 @@
 Article R4123-13
 ----
-Le bureau statue sur la validité des bulletins. Ceux dont la validité est
-contestée ou refusée sont annexés au procès-verbal.
+Le bureau de vote statue sur la validité des bulletins. Ceux dont la validité
+est contestée ou refusée sont annexés au procès-verbal.
 
 Sont proclamés élus en qualité de membres titulaires les candidats ayant obtenu
 le plus grand nombre de voix jusqu'à concurrence du nombre de sièges de

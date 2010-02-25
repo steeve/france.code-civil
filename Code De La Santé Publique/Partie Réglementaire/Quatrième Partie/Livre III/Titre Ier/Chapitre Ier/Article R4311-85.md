@@ -51,5 +51,13 @@ conseils départementaux de la région.
 Pour les collèges des infirmiers salariés du secteur public, chaque conseil
 départemental élit au moins un membre titulaire et un membre suppléant. La
 répartition des sièges restants entre les départements pour ce collège est fixée
-par le conseil national de l'ordre qui lui attribue les sièges en fonction de la
-démographie de la région.
+par le conseil national de l'ordre qui lui attribue les sièges en fonction du
+rapport entre le nombre des infirmiers relevant du secteur public au sein de
+chaque département et le nombre total de ces infirmiers au sein de la région.
+Cette répartition est susceptible d'être modifiée, entre deux renouvellements,
+en fonction de l'évolution démographique. Dans ce cas, lorsque cette nouvelle
+répartition rend impossible l'adéquation du nombre de conseillers à renouveler
+avec celui des conseillers antérieurement élus dont le mandat arrive à échéance,
+un conseil régional ou interrégional peut, à titre dérogatoire, et ce jusqu'au
+prochain renouvellement, disposer d'un nombre de sièges de conseillers ordinaux
+supérieur à celui prévu aux alinéas précédents.

@@ -1,14 +1,17 @@
 Article R4311-94
 ----
 La date des élections à la chambre disciplinaire nationale est annoncée par le
-conseil national en même temps que les informations prévues à l'article R.
-4311-92 et dans les mêmes conditions.
+conseil national dans les mêmes conditions que celles prévues à l'article R.
+4311-92.
 
 Les candidats font connaître leur candidature dans les conditions fixées à
 l'article D. 4311-63.
 
-Le conseil national procède en même temps à l'élection de l'ensemble des membres
-titulaires et suppléants de la chambre disciplinaire nationale.
+Dans les quatre mois qui suivent chaque renouvellement du conseil national,
+celui-ci procède en même temps à l'élection de l'ensemble des membres titulaires
+et suppléants du collège mentionné au 1° de l'article R. 4311-93 et au
+renouvellement par moitié des titulaires et des suppléants du collège mentionné
+au 2° de l'article R. 4311-93. de la chambre disciplinaire nationale.
 
 Le vote a lieu à bulletins secrets au siège du conseil national. Le
 dépouillement est public.

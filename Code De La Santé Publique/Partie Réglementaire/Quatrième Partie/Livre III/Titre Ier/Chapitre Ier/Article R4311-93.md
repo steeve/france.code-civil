@@ -5,12 +5,13 @@ titulaires et douze membres suppléants, répartis ainsi qu'il suit :
 
 1° Deux membres titulaires et deux membres suppléants représentant chacun des
 collèges, élus par les membres titulaires du conseil national parmi ses membres
-à la première réunion qui suit chaque renouvellement partiel ;
+;
 
 2° Deux membres titulaires et deux membres suppléants représentant chacun des
-collèges, élus pour quatre ans par les membres titulaires du conseil national
-parmi les membres et anciens membres des conseils de l'ordre et renouvelables
-par moitié tous les deux ans.
+collèges, élus pour six ans par les membres titulaires du conseil national parmi
+les membres et anciens membres titulaires et suppléants des conseils de l'ordre,
+à l'exclusion des conseillers nationaux en cours de mandat, et renouvelables par
+moitié tous les trois ans.
 
 Le représentant du ministre chargé de la santé n'est ni électeur ni éligible à
 la chambre disciplinaire nationale.

@@ -16,5 +16,5 @@ L'électeur place son bulletin dans l'enveloppe destinée à le contenir.
 En cas de vote par correspondance, l'enveloppe contenant le bulletin de vote et
 sur laquelle le votant ne porte aucune inscription est placée, fermée, dans la
 deuxième enveloppe sur laquelle sont mentionnés les nom, prénoms et adresse du
-votant. Cette enveloppe est obligatoirement revêtue de la signature manuscrite
-du votant.
+votant. Cette enveloppe est, à peine de nullité du vote, obligatoirement revêtue
+de la signature manuscrite du votant.

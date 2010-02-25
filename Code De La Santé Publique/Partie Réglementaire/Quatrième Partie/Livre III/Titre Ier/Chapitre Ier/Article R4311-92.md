@@ -10,7 +10,7 @@ dans au moins un journal professionnel à diffusion nationale trois mois au moin
 avant la date prévue pour l'élection.
 
 L'élection des membres du conseil national a lieu dans les conditions fixées aux
-articles D. 4311-59 à D. 4311-70.
+articles R. 4311-59 à R. 4311-82.
 
 Une copie du procès-verbal des élections est adressée au ministre chargé de la
 santé. Le résultat des élections est publié dans le premier bulletin de l'ordre

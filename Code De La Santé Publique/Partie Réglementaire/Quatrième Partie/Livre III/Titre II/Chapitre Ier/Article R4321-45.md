@@ -6,19 +6,19 @@ est composé ainsi qu'il suit :
 1° Lorsque le nombre total de masseurs-kinésithérapeutes inscrits aux derniers
 tableaux publiés est inférieur ou égal à 3 000 :
 
-a) 7 membres titulaires et 7 membres suppléants représentant les
+a) sept membres titulaires et sept membres suppléants représentant les
 masseurs-kinésithérapeutes libéraux ;
 
-b) 2 membres titulaires et 2 membres suppléants représentant les
-masseurs-kinésithérapeutes salariés.
+b) deux membres titulaires et deux membres suppléants représentant les
+masseurs-kinésithérapeutes salariés ;
 
 2° Lorsque le nombre total de masseurs-kinésithérapeutes inscrits aux derniers
 tableaux publiés est supérieur à 3 000 :
 
-a) 10 membres titulaires et 10 membres suppléants représentant les
+a) dix membres titulaires et dix membres suppléants représentant les
 masseurs-kinésithérapeutes libéraux ;
 
-b) 3 membres titulaires et 3 membres suppléants représentant les
+b) trois membres titulaires et trois membres suppléants représentant les
 masseurs-kinésithérapeutes salariés.
 
 Toutefois, dans la région Ile-de-France, le conseil régional comprend dix-neuf
@@ -27,11 +27,19 @@ masseurs-kinésithérapeutes libéraux et quatre les masseurs-kinésithérapeute
 salariés, et autant de suppléants.
 
 Pour le collège des masseurs-kinésithérapeutes libéraux, les membres titulaires
-libéraux de chaque conseil départemental élit au moins un membre titulaire et un
-membre suppléant. La répartition par collège des sièges restants entre les
-départements est fixée par le conseil national de l'ordre qui leur attribue
-ensuite les sièges restants en fonction de la démographie de la région ou de
-l'interrégion.
+libéraux de chaque conseil départemental élisent au moins un membre titulaire et
+un membre suppléant. La répartition des sièges restants entre les départements
+est fixée par le Conseil national de l'ordre qui leur attribue ensuite les
+sièges restants en fonction du rapport entre le nombre de
+masseurs-kinésithérapeutes relevant du secteur libéral au sein de chaque
+département et le nombre total de ces masseurs-kinésithérapeutes au sein de la
+région. Cette répartition est susceptible d'être modifiée, entre deux
+renouvellements, en fonction de l'évolution démographique. Dans ce cas, lorsque
+cette nouvelle répartition rend impossible l'adéquation du nombre de conseillers
+à renouveler avec celui des conseillers antérieurement élus dont le mandat
+arrive à échéance, un conseil régional ou interrégional peut, à titre
+dérogatoire, et ce jusqu'au prochain renouvellement, disposer d'un nombre de
+sièges de conseillers ordinaux supérieur à celui prévu aux alinéas précédents.
 
 Pour le collège des masseurs-kinésithérapeutes salariés, les membres sont élus
 par l'ensemble des membres salariés titulaires des conseils départementaux de la

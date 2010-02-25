@@ -20,4 +20,4 @@ profession de foi qui est jointe à l'envoi des documents électoraux. Celle-ci,
 rédigée en français sur une page qui ne peut dépasser le format de 210 x 297 mm
 en noir et blanc, ne peut être consacrée qu'à la présentation du candidat au nom
 duquel elle est diffusée et à des questions entrant dans le champ de compétence
-de l'ordre en application de l'article L. 4121-2.
+de l'ordre défini à l'article L. 4121-2.
