@@ -1,7 +1,6 @@
 Article 910
 ----
-Les dispositions entre vifs ou par testament au profit des établissements de
-santé, des établissements sociaux et médico-sociaux ou d'établissements
+Les dispositions entre vifs ou par testament au profit d'établissements
 d'utilité publique n'ont leur effet qu'autant qu'elles sont autorisées par
 arrêté du représentant de l'Etat dans le département.
 
