@@ -1,15 +1,23 @@
 Article R123-11
 ----
-Lorsque le centre de formalités des entreprises compétent constate que le
-dossier est incomplet, le déclarant dispose d'un délai de quinze jours ouvrables
-à compter de la réception du récépissé pour produire les compléments à apporter.
-Toutefois, lorsque la déclaration comprend l'embauche d'un premier salarié, le
-dossier doit être complété dans un délai de huit jours.
+I.-Si les éléments demandés ont été transmis par le déclarant avant l'expiration
+des délais mentionnés à l'article R. 123-10, le centre transmet le jour même :
 
-A l'expiration de ce délai, le centre avise le déclarant par écrit des
-organismes destinataires auxquels le dossier est transmis en l'état.
+1° Aux organismes destinataires la déclaration ainsi que, le cas échéant, les
+pièces annexées qui leur sont destinées ;
 
-Lorsque les éléments demandés en application du premier alinéa ont été transmis
-par le déclarant ou à l'expiration du délai prévu au même alinéa, le centre
-transmet le jour même aux organismes destinataires la déclaration ainsi que, le
-cas échéant, les pièces annexées qui leur sont destinées.
+2° Aux organismes habilités à délivrer les autorisations, qui en accusent
+réception, les demandes d'autorisation ainsi que, le cas échéant, les pièces
+annexées qui leur sont destinées.
+
+II.-Si, à l'expiration des délais mentionnés à l'article R. 123-10, les éléments
+demandés n'ont pas été transmis, le centre de formalités des entreprises procède
+de la manière suivante :
+
+1° Pour les déclarations visées au 1° du I de l'article R. 123-1, il avise le
+déclarant des organismes destinataires auxquels le dossier est transmis en
+l'état ;
+
+2° Pour les demandes d'autorisation visées au 2° du I de l'article R. 123-1, il
+renvoie le dossier au déclarant et informe ce dernier qu'il lui appartient de
+saisir directement les autorités habilitées à délivrer ces autorisations.
