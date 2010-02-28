@@ -19,14 +19,28 @@ ou, à défaut de la connaissance de son numéro d'immatriculation, sa date de
 naissance et son rang dans le cas de dates de naissance identiques entre
 plusieurs ayants droit de l'assuré ;
 
-2° Selon que la feuille de soins est électronique ou utilise un support papier,
-elle indique pour le professionnel et, le cas échéant, l'organisme ou
-l'établissement ayant effectué les actes ou servi les prestations :
+2° Selon que la feuille de soins est électronique ou utilise un support papier :
 
-a) Lorsqu'elle est électronique, l'identifiant et la situation d'exercice ;
+a) Lorsqu'elle est électronique :
 
-b) Lorsqu'elle utilise un support papier, les noms, prénoms, adresse,
-identifiant et situation d'exercice ;
+-l'identifiant personnel du professionnel ayant effectué les actes, prescrit ou
+servi les prestations, sa situation d'exercice ainsi que l'identifiant de la
+structure d'activité correspondante ;
+
+-le cas échéant, lorsqu'il est différent de ceux mentionnés à l'alinéa
+précédent, l'identifiant de l'organisme ou de l'établissement ayant servi les
+prestations ;
+
+b) Lorsqu'elle utilise un support papier :
+
+-les noms, prénoms, identifiant personnel et situation d'exercice du
+professionnel ayant effectué les actes, prescrit ou servi les prestations ainsi
+que la raison sociale, l'adresse et l'identifiant de la structure d'activité
+correspondante ;
+
+-le cas échéant, lorsqu'ils sont différents de ceux mentionnés à l'alinéa
+précédent, la raison sociale, l'adresse et l'identifiant de l'organisme ou de
+l'établissement ayant servi les prestations ;
 
 3° La date à laquelle chaque acte ou prestation est effectué ou servi ;
 

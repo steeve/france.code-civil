@@ -1,12 +1,13 @@
 Article R161-45
 ----
-I. - L'ordonnance, lorsqu'elle existe, doit comporter les éléments suivants.
+I.-L'ordonnance, lorsqu'elle existe, doit comporter les éléments suivants.
 
 Le prescripteur y fait mention, quel que soit le support :
 
 1° Des nom et prénoms du bénéficiaire des actes ou prestations ;
 
-2° De son propre identifiant ;
+2° De son propre identifiant et, le cas échéant, de l'identifiant de la
+structure d'activité au titre de laquelle est établie l'ordonnance ;
 
 3° De la date à laquelle elle est faite et de la référence permettant son
 rapprochement avec la feuille de soins ;
@@ -33,22 +34,22 @@ ordonnances, électroniques ou sur support papier, relatives aux actes ou
 prestations destinés à des assurés dont la loi a limité ou supprimé la
 participation financière.
 
-II. - Sans préjudice des règles déontologiques qui s'appliquent aux
-professionnels de santé et des dispositions de l'article L. 162-36 du présent
-code, le professionnel qui exécute la prescription porte sur l'ordonnance écrite
-son identifiant et les références permettant de rapprocher cette ordonnance de
-la feuille de soins correspondant aux actes ou prestations qu'il a effectués ou
+II.-Sans préjudice des règles déontologiques qui s'appliquent aux professionnels
+de santé et des dispositions de l'article L. 162-36 du présent code, le
+professionnel qui exécute la prescription porte sur l'ordonnance écrite son
+identifiant et les références permettant de rapprocher cette ordonnance de la
+feuille de soins correspondant aux actes ou prestations qu'il a effectués ou
 servis.
 
 Ces références sont :
 
-- la date des prestations qu'il sert ;
+-la date des prestations qu'il sert ;
 
-- les nom et prénoms du bénéficiaire des soins ;
+-les nom et prénoms du bénéficiaire des soins ;
 
-- l'identification de la caisse de l'assuré ;
+-l'identification de la caisse de l'assuré ;
 
-- le numéro d'immatriculation au répertoire national d'identification des
+-le numéro d'immatriculation au répertoire national d'identification des
 personnes physiques de l'assuré ou, si celui-ci n'est pas le bénéficiaire des
 soins, le numéro d'immatriculation au répertoire national d'identification des
 personnes physiques ou, à défaut, la date de naissance de ce dernier.

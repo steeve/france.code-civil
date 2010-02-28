@@ -8,5 +8,7 @@ dépenses de santé sont :
 
 2° S'il y a lieu, la mention, par le professionnel de santé qui exécute la
 prescription, de la date à laquelle les actes ou prestations ont été prescrits ;
-l'identifiant du prescripteur ; la référence permettant le rapprochement de la
-prescription et de la feuille de soins du professionnel exécutant.
+l'identifiant personnel du prescripteur et, le cas échéant, l'identifiant de la
+structure d'activité au titre de laquelle les actes ou prestations ont été
+prescrits ; la référence permettant le rapprochement de la prescription et de la
+feuille de soins du professionnel exécutant.
