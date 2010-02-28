@@ -7,3 +7,8 @@ conseil d'administration et les administrateurs, quel que soit le nombre de
 leurs mandats, peuvent recevoir au cours d'une année civile, ne peut excéder
 deux fois le montant du plafond prévu au premier alinéa de l'article L. 241-3 du
 code de la sécurité sociale de l'année considérée.
+
+Ce montant peut être porté à trois fois le montant du plafond prévu au premier
+alinéa de l'article L. 241-3 du code de la sécurité sociale de l'année
+considérée lorsque les intéressés exercent au moins un de leurs mandats dans un
+organisme mentionné au b de l'article R. 114-6 ;

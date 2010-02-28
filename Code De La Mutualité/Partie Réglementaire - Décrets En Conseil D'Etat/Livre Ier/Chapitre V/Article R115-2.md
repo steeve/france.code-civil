@@ -20,10 +20,8 @@ a) Fixer, sans être tenus par un minimum, le montant de leur fonds
 d'établissement ;
 
 b) Prévoir que l'assemblée générale est composée de tous les organismes
-affiliés, représentés chacun exclusivement par un de ses dirigeants,
-administrateurs ou par un représentant directement nommé soit par l'assemblée
-générale, soit par des délégués eux-mêmes nommés par l'assemblée générale de
-l'organisme affilié ;
+affiliés, représentés par au moins un de leurs dirigeants ou administrateurs ou
+par un représentant directement nommé par l'assemblée générale ;
 
 c) Déterminer le nombre de voix dont dispose chacun de ces organismes.
 
