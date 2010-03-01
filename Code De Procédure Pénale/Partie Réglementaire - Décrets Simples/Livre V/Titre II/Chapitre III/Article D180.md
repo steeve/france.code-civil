@@ -67,6 +67,6 @@ les personnels socio-éducatifs ainsi que les aumôniers attachés à
 l'établissement, et toutes autres personnes y exerçant habituellement une
 activité ne peuvent faire partie de la commission de surveillance.
 
-Le directeur interrégional des services pénitentiaires et le directeur régional
-de la protection judiciaire de la jeunesse ou leur représentant assistent aux
-travaux de la commission de surveillance.
+Le directeur interrégional des services pénitentiaires et le directeur
+interrégional de la protection judiciaire de la jeunesse ou leur représentant
+assistent aux travaux de la commission de surveillance.

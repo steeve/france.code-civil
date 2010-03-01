@@ -20,23 +20,23 @@ juridictions de proximité.
 
 Une copie de ce rapport est adressée pour information :
 
-- au préfet ;
+-au préfet ;
 
-- au directeur départemental de la sécurité publique ;
+-au directeur départemental de la sécurité publique ;
 
-- au commandant du groupement de gendarmerie ;
+-au commandant du groupement de gendarmerie ;
 
-- aux chefs des établissements pénitentiaires ;
+-aux chefs des établissements pénitentiaires ;
 
-- au directeur du service pénitentiaire d'insertion et de probation ;
+-au directeur du service pénitentiaire d'insertion et de probation ;
 
-- au directeur départemental de la protection judiciaire de la jeunesse ;
+-au directeur territorial de la protection judiciaire de la jeunesse ;
 
-- au trésorier-payeur général ;
+-au trésorier-payeur général ;
 
-- au bâtonnier de l'ordre des avocats ;
+-au bâtonnier de l'ordre des avocats ;
 
-- au président de la chambre départementale des huissiers.
+-au président de la chambre départementale des huissiers.
 
 Ce rapport est diffusé au sein des conseils locaux de sécurité et de prévention
 de la délinquance et des conseils départementaux de prévention.
