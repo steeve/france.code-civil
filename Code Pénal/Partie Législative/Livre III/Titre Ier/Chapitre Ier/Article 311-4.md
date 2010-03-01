@@ -1,6 +1,6 @@
 Article 311-4
 ----
-Le vol est puni de cinq ans d'emprisonnement et de 75000 euros d'amende :
+Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou
 de complice, sans qu'elles constituent une bande organisée ;
@@ -34,9 +34,16 @@ dégradation ou détérioration ;
 
 9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance,
 vraie ou supposée, de la victime à une ethnie, une nation, une race ou une
-religion déterminée, ou de son orientation sexuelle, vraie ou supposée.
+religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
 
-Les peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende
+10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou
+partie son visage afin de ne pas être identifiée ;
+
+11° Lorsqu'il est commis dans les établissements d'enseignement ou d'éducation
+ainsi que, lors des entrées ou sorties des élèves ou dans un temps très voisin
+de celles-ci, aux abords de ces établissements.
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende
 lorsque le vol est commis dans deux des circonstances prévues par le présent
-article. Elles sont portées à dix ans d'emprisonnement et à 150000 euros
+article. Elles sont portées à dix ans d'emprisonnement et à 150 000 euros
 d'amende lorsque le vol est commis dans trois de ces circonstances.

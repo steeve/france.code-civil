@@ -1,14 +1,17 @@
 Article L332-16
 ----
 Lorsque, par son comportement d'ensemble à l'occasion de manifestations
-sportives, une personne constitue une menace pour l'ordre public, le
+sportives ou par la commission d'un acte grave à l'occasion de l'une de ces
+manifestations, une personne constitue une menace pour l'ordre public, le
 représentant de l'Etat dans le département et, à Paris, le préfet de police
 peuvent, par arrêté motivé, prononcer à son encontre une mesure d'interdiction
 de pénétrer ou de se rendre aux abords des enceintes où de telles manifestations
 se déroulent ou sont retransmises en public.
 
 L'arrêté, valable sur le territoire national, fixe le type de manifestations
-sportives concernées. Il ne peut excéder une durée de trois mois.
+sportives concernées. Il ne peut excéder une durée de six mois. Toutefois, cette
+durée peut être portée à douze mois si, dans les trois années précédentes, cette
+personne a fait l'objet d'une mesure d'interdiction.
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police
 peuvent également imposer, par le même arrêté, à la personne faisant l'objet de
@@ -17,8 +20,8 @@ objet de l'interdiction, aux convocations de toute autorité ou de toute personn
 qualifiée qu'il désigne.
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des
-arrêtés pris en application des alinéas précédents est puni de 3 750 euros
-d'amende.
+arrêtés pris en application des alinéas précédents est puni d'un an
+d'emprisonnement et de 3 750 euros d'amende.
 
 Le préfet du département et, à Paris, le préfet de police peut communiquer aux
 fédérations sportives agréées en application de l'article L. 131-8 et aux

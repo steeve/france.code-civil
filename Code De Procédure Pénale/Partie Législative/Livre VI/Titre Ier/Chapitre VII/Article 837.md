@@ -2,9 +2,9 @@ Article 837
 ----
 L'article 398-1 est ainsi rédigé :
 
-I. - Dans le territoire de la Polynésie française :
+I.-Dans le territoire de la Polynésie française :
 
-" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de
+" Art. 398-1.-Sont jugés dans les conditions prévues au troisième alinéa de
 l'article 398 :
 
 1° Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935
@@ -18,12 +18,12 @@ code pénal ;
 3° Les délits prévus par les dispositions applicables localement en matière de
 réglementations relatives aux transports terrestres ;
 
-4° Les délits prévus par les articles 222-11, 222-12 (1° à 13°), 222-13 (1° à
-13°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
-à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
-433-3 premier et deuxième alinéa, 433-5, 433-6 à 433-8 premier alinéa, 433-10
-premier alinéa et 521-1 du code pénal et L. 3421-1 du code de la santé publique
-;
+4° Les délits prévus par les articles 222-11, 222-12 (1° à 15°), 222-13 (1° à
+15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
+à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1,322-12, 322-13, 322-14,
+431-22 à 431-24, 433-3 premier et deuxième alinéa, 433-5, 433-6 à 433-8 premier
+alinéa, 433-10 premier alinéa et 521-1 du code pénal et L. 3421-1 du code de la
+santé publique ;
 
 5° Les délits prévus par les dispositions applicables localement en matière de
 chasse, de pêche, de protection de la faune et de la flore et en matière de
@@ -50,9 +50,9 @@ prévues par le premier alinéa de l'article 398 pour le jugement des délits
 prévus au présent article lorsque ces délits sont connexes à d'autres délits non
 prévus par cet article. "
 
-II. - En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
+II.-En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
 
-" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de
+" Art. 398-1.-Sont jugés dans les conditions prévues au troisième alinéa de
 l'article 398 :
 
 1° Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935
