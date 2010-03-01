@@ -10,3 +10,10 @@ dispositions relatives aux congés pour événements personnels et aux congés p
 
 Le salarié informe son employeur de la date prévisible de son retour avec un
 préavis de trois jours francs.
+
+Avec l'accord de l'employeur, le congé peut être fractionné, sans pouvoir
+dépasser la durée maximale prévue au premier alinéa. Dans cette hypothèse, le
+salarié qui souhaite bénéficier du congé doit avertir son employeur au moins
+quarante-huit heures avant la date à laquelle il entend prendre chaque période
+de congé. Les modalités de ce fractionnement, notamment la durée minimale de
+chaque période de congé, sont fixées par décret.

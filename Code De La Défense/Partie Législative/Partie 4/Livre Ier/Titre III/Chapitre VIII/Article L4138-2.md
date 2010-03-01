@@ -12,7 +12,7 @@ b) De congés pour maternité, paternité ou adoption ;
 
 c) De permissions ou de congés de fin de campagne ;
 
-d) De congés d'accompagnement d'une personne en fin de vie ;
+d) De congés de solidarité familiale ;
 
 e) D'un congé de reconversion ;
 
@@ -29,8 +29,8 @@ l'article L. 4122-2. Les conditions et modalités de son affectation sont fixée
 par décret en Conseil d'Etat.
 
 Le militaire dans l'une des situations de la position d'activité conserve sa
-rémunération, à l'exception de celui placé en congé d'accompagnement d'une
-personne en fin de vie ou en congé de présence parentale.
+rémunération, à l'exception de celui placé en congé de solidarité familiale ou
+en congé de présence parentale.
 
 A l'exception du congé de présence parentale, la durée de chacune des situations
 de la position d'activité est assimilée à une période de service effectif.
