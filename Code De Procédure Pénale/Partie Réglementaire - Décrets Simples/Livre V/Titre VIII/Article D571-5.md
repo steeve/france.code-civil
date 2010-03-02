@@ -7,10 +7,11 @@ par l'intermédiaire des autorités administratives suivantes :
 lequel est situé le siège social de l'organisateur de l'accueil en ce qui
 concerne les accueils mentionnés au 1° de l'article D. 571-4.
 
-2° Le directeur régional de la protection judiciaire de la jeunesse ou, dans les
-départements d'outre-mer, le directeur départemental de la protection judiciaire
-de la jeunesse, territorialement compétent dans le département où est situé
-l'établissement, le service ou lieu de vie et d'accueil, en ce qui concerne :
+2° Le directeur interrégional de la protection judiciaire de la jeunesse ou,
+dans les départements d'outre-mer, le directeur territorial de la protection
+judiciaire de la jeunesse, territorialement compétent dans le département où est
+situé l'établissement, le service ou lieu de vie et d'accueil, en ce qui
+concerne :
 
 a) Les établissements et services mentionnés au 2° de l'article D. 571-4 ;
 
