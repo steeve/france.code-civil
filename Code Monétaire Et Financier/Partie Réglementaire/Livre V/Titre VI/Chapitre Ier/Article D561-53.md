@@ -1,6 +1,6 @@
 Article D561-53
 ----
-I. ― Le conseil d'orientation comprend, outre son président, les vingt-trois
+I. ― Le conseil d'orientation comprend, outre son président, les vingt-deux
 membres suivants :
 
 1° Au titre des services de l'Etat :
