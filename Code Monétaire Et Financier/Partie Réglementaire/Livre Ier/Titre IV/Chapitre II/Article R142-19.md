@@ -6,5 +6,5 @@ sous-gouverneurs reçoivent une rémunération équivalente à celle de préside
 section au Conseil d'Etat.
 
 Les dépenses de logement du gouverneur et des sous-gouverneurs sont prises en
-charge par la Banque de France. Une indemnité de représentation peut leur être
+charge par la Banque de France. Une indemnité de fonction peut leur être
 allouée.
