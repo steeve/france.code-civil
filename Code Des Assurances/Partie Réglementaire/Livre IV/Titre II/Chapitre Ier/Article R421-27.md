@@ -4,21 +4,21 @@ Pour l'application des dispositions de l'article L. 421-4, les contributions
 prévues pour l'alimentation du fonds de garantie sont assises et recouvrées dans
 les conditions suivantes :
 
-1° La contribution des entreprises d'assurances au titre de la section
-"Opérations du fonds de garantie résultant de la défaillance d'entreprises
-d'assurance dommages" prévue à l'article R. 421-24-8 est proportionnelle aux
+1° La contribution des entreprises d'assurances au titre de la section "
+Opérations du fonds de garantie résultant de la défaillance d'entreprises
+d'assurance dommages " prévue à l'article R. 421-24-8 est proportionnelle aux
 primes ou cotisations du dernier exercice, accessoires et rappels compris et
 annulations déduites, relatives aux contrats dont la souscription est rendue
 obligatoire, à l'exception des garanties relatives à la responsabilité du
 transporteur maritime, fluvial et aérien, y compris ceux souscrits en
-application du règlement (CE) n° 2027/97 du Conseil du 9 octobre 1997, lorsque
+application du règlement (CE) n° 2027 / 97 du Conseil du 9 octobre 1997, lorsque
 le risque est situé dans la Communauté européenne. Elle est liquidée et
 recouvrée par le fonds de garantie qui peut prévoir le versement d'acomptes.
 
-2° Lorsque le montant total des provisions inscrites au passif de la section
-"Opérations du fonds de garantie résultant de la défaillance d'entreprises
-d'assurance dommages" devient inférieur à 250 millions d'euros pendant une durée
-supérieure à six mois consécutifs, une contribution extraordinaire des
+2° Lorsque le montant total des provisions inscrites au passif de la section "
+Opérations du fonds de garantie résultant de la défaillance d'entreprises
+d'assurance dommages " devient inférieur à 250 millions d'euros pendant une
+durée supérieure à six mois consécutifs, une contribution extraordinaire des
 entreprises d'assurance au titre de la section Défaillance des entreprises
 d'assurance de dommage est appelée. Son montant doit permettre de faire revenir
 durablement le montant total des provisions de la section considérée au-dessus
@@ -28,14 +28,15 @@ pour verser au fonds leur cotisation à compter de la réception de l'appel du
 fonds. Le fonds de garantie informe l'Autorité de contrôle de tout retard de
 versement de plus d'un mois ou de tout refus de versement d'une entreprise
 d'assurance, afin que l'Autorité mette en oeuvre, le cas échéant, les procédures
-de sanctions prévues à l'article L. 310-18. Les cotisations versées au fonds de
-garantie par les entreprises dont l'adhésion au fonds a pris fin ne peuvent
-faire l'objet d'un reversement par celui-ci. La contribution extraordinaire est
+de sanctions prévues à la section 7 du chapitre II du titre Ier du livre VI du
+code monétaire et financier. Les cotisations versées au fonds de garantie par
+les entreprises dont l'adhésion au fonds a pris fin ne peuvent faire l'objet
+d'un reversement par celui-ci. La contribution extraordinaire est
 proportionnelle aux primes ou cotisations du dernier exercice, accessoires et
 rappels compris et annulations déduites, relatives aux contrats dont la
 souscription est rendue obligatoire, à l'exception des garanties relatives à la
 responsabilité du transporteur maritime, fluvial et aérien, y compris ceux
-souscrits en application du règlement (CE) n° 2027/97 du Conseil du 9 octobre
+souscrits en application du règlement (CE) n° 2027 / 97 du Conseil du 9 octobre
 1997, lorsque le risque est situé dans la Communauté européenne. Elle est
 liquidée et recouvrée par le fonds de garantie.
 

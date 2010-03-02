@@ -1,10 +1,9 @@
 Article R951-3-3
 ----
-En application des dispositions de l'article L. 951-6-1 du présent code, de
-l'article L. 310-19-1 du code des assurances et de l'article L. 510-6 du code de
-la mutualité, tout organisme soumis au contrôle de l'Autorité de contrôle des
-assurances et des mutuelles doit faire connaître à cette Autorité le nom des
-commissaires aux comptes qu'il se propose de désigner.
+En application des dispositions de l'article L. 612-43 du code monétaire et
+financier, tout organisme soumis au contrôle de l'Autorité de contrôle
+prudentiel doit faire connaître à cette Autorité le nom des commissaires aux
+comptes qu'il se propose de désigner.
 
 Lorsqu'il informe l'Autorité de contrôle de son intention de désigner comme
 commissaire aux comptes une société de commissaires aux comptes constituée et
@@ -29,12 +28,11 @@ demande d'informations complémentaires, un délai de réponse, lequel ne peut �
 inférieur à un mois. Le délai prévu à l'alinéa précédent est alors suspendu
 jusqu'à la réception des informations complémentaires.
 
-L'Autorité de contrôle des assurances et des mutuelles peut également prendre en
-compte dans son appréciation les informations relatives au commissaire aux
-comptes proposé ou, le cas échéant, à la personne responsable de la mission, qui
-lui sont transmises par l'une des autorités avec lesquelles elle procède à un
-échange d'information en application de l'article L. 631-1 du code monétaire et
-financier.
+l'Autorité de contrôle prudentiel peut également prendre en compte dans son
+appréciation les informations relatives au commissaire aux comptes proposé ou,
+le cas échéant, à la personne responsable de la mission, qui lui sont transmises
+par l'une des autorités avec lesquelles elle procède à un échange d'information
+en application de l'article L. 631-1 du code monétaire et financier.
 
 L'avis de l'Autorité de contrôle, s'il est défavorable ou assorti de réserves,
 ne peut être pris qu'après que le commissaire aux comptes proposé a été invité à

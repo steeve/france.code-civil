@@ -110,17 +110,17 @@ l'article R. 932-4-4, dans la limite de la provision mathématique théorique
 mentionnée à l'article R. 932-4-15.
 
 En outre, pour la prise en compte de la réassurance financière limitée dans le
-ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle se
-fonde sur le transfert de risque effectif.
+ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle
+prudentiel se fonde sur le transfert de risque effectif.
 
 Sur demande et justification de l'institution ou union auprès de l'Autorité de
-contrôle, et avec l'accord de celle-ci, les montants récupérables au titre des
-risques transférés à un véhicule de titrisation peuvent être assimilés à des
-cessions en réassurance pour le calcul du rapport mentionné aux deuxième et
-troisième alinéas du a et au e.
+contrôle prudentiel, et avec l'accord de celle-ci, les montants récupérables au
+titre des risques transférés à un véhicule de titrisation peuvent être assimilés
+à des cessions en réassurance pour le calcul du rapport mentionné aux deuxième
+et troisième alinéas du a et au e.
 
-L'Autorité de contrôle tient compte du transfert de risque effectif pour
-apprécier l'ampleur de la réduction d'exigence de marge de solvabilité autorisée
-au titre de chaque opération réalisée avec un véhicule de titrisation. Elle
-tient également compte de la capacité de ce véhicule à respecter à tout moment
-ses engagements.
+l'Autorité de contrôle prudentiel tient compte du transfert de risque effectif
+pour apprécier l'ampleur de la réduction d'exigence de marge de solvabilité
+autorisée au titre de chaque opération réalisée avec un véhicule de titrisation.
+Elle tient également compte de la capacité de ce véhicule à respecter à tout
+moment ses engagements.

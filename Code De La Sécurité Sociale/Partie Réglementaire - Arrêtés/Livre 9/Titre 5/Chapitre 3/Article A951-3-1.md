@@ -1,10 +1,9 @@
 Article A951-3-1
 ----
-I. - 1° En application du premier alinéa du I de l'article R. 951-3-1, toute
+I.-1° En application du premier alinéa du I de l'article R. 951-3-1, toute
 institution ou union projetant d'ouvrir une succursale ou d'exercer des
 activités en libre prestation de services doit fournir, en double exemplaire, à
-l'Autorité de contrôle des assurances et des mutuelles les documents et
-informations suivants :
+l'Autorité de contrôle prudentiel les documents et informations suivants :
 
 a) La dénomination et l'adresse du siège social de l'institution ou de l'union ;
 
@@ -40,22 +39,21 @@ couverture des engagements et celles relatives à la trésorerie ;
 e) Un programme d'activité complémentaire relatif à l'établissement envisagé
 comportant les pièces mentionnées aux 2 et 9 du f du I de l'article A. 931-2-1.
 
-II. - Le dossier communiqué par l'Autorité de contrôle des assurances et des
-mutuelles, en application du deuxième alinéa du I de l'article R. 951-3-1, aux
-autorités de l'Etat membre sur le territoire duquel l'institution ou l'union
-envisage d'opérer en liberté d'établissement ou en libre prestation de services
-comprend :
+II.-Le dossier communiqué par l'Autorité de contrôle prudentiel, en application
+du deuxième alinéa du I de l'article R. 951-3-1, aux autorités de l'Etat membre
+sur le territoire duquel l'institution ou l'union envisage d'opérer en liberté
+d'établissement ou en libre prestation de services comprend :
 
-1° Une attestation de l'Autorité de contrôle des assurances et des mutuelles
-certifiant que l'institution ou l'union dispose de la marge de solvabilité
-conformément aux dispositions de la section 10 du chapitre Ier du titre III du
-livre IX du présent code ;
+1° Une attestation de l'Autorité de contrôle prudentiel certifiant que
+l'institution ou l'union dispose de la marge de solvabilité conformément aux
+dispositions de la section 10 du chapitre Ier du titre III du livre IX du
+présent code ;
 
 2° Les éléments mentionnés aux a et c du 1° du I ainsi que, s'agissant de
 l'ouverture d'une succursale, les éléments mentionnés aux a, b, d et e du 2° du
 I.
 
-III. - Les documents mentionnés au I sont accompagnés de leur traduction
-certifiée conforme dans la langue officielle de l'Etat membre sur le territoire
-duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
-de services.
+III.-Les documents mentionnés au I sont accompagnés de leur traduction certifiée
+conforme dans la langue officielle de l'Etat membre sur le territoire duquel
+elle envisage d'opérer en liberté d'établissement ou en libre prestation de
+services.

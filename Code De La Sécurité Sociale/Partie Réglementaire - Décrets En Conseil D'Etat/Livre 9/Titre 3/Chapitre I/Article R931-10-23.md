@@ -4,7 +4,7 @@ Rapportée au montant défini à l'article R. 931-10-22, la valeur au bilan d'un
 institution ou union exerçant une activité d'assurance admise en représentation
 des actifs mentionnés ci-après admis en représentation des engagements
 réglementés ne peut excéder, sauf dérogation accordée au cas par cas par
-l'Autorité de contrôle instituée à l'article L. 951-1 :
+l'Autorité de contrôle prudentiel instituée à l'article L. 951-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus ou garantis par
 un même organisme, à l'exception des valeurs émises ou garanties, ou des prêts

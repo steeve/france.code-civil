@@ -41,9 +41,8 @@ La décision est communiquée au commissaire du Gouvernement ainsi qu'au présid
 de l'Autorité des marchés financiers qui en rend compte au collège.
 
 Lorsqu'elle concerne un prestataire de services d'investissement autre qu'une
-société de gestion, la décision est également notifiée au Comité des
-établissements de crédit et des entreprises d'investissement et à la Commission
-bancaire.
+société de gestion, la décision est également notifiée à l'Autorité de contrôle
+prudentiel.
 
 VI.-La décision de sanction mentionne, le cas échéant, ceux des frais de
 procédure qui sont à la charge de la personne à l'encontre de laquelle une

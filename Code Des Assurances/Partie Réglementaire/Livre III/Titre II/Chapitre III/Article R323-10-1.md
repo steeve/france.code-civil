@@ -1,11 +1,10 @@
 Article R323-10-1
 ----
-Lorsqu'elle estime que le respect, par une entreprise de réassurance, de ses
-engagements est compromis, l'Autorité de contrôle peut exiger que cette
-entreprise lui soumette un programme de rétablissement prévoyant toutes mesures
-propres à restaurer son équilibre. Ce programme doit notamment comporter, pour
-les trois prochains exercices sociaux, une description détaillée des éléments
-suivants et être accompagné des justificatifs s'y rapportant :
+Lorsque l'Autorité de contrôle prudentiel exige d'une entreprise de réassurance
+un programme de rétablissement en application de l'article L. 612-32 du code
+monétaire et financier, celui-ci doit notamment comporter, pour les trois
+prochains exercices sociaux, une description détaillée des éléments suivants et
+être accompagné des justificatifs s'y rapportant :
 
 1. Une estimation prévisionnelle des frais de gestion, notamment des frais
 généraux courants et des commissions ;

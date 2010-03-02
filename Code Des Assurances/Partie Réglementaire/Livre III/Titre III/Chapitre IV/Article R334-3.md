@@ -18,7 +18,7 @@ correspondant pas aux engagements, y compris la réserve de capitalisation ;
 3. Le report du bénéfice ou de la perte, déduction faite des dividendes à verser
 au titre du dernier exercice ;
 
-4.L'emprunt ou les emprunts pour fonds social complémentaire ; toutefois, à
+4. L'emprunt ou les emprunts pour fonds social complémentaire ; toutefois, à
 partir de la moitié de la durée d'un emprunt, celui-ci n'est retenu dans la
 marge de solvabilité que pour sa valeur progressivement réduite chaque année
 d'un montant constant égal au double du montant total de cet emprunt divisé par
@@ -38,8 +38,10 @@ du ministre chargé de l'économie. Ces fonds sont admis jusqu'à concurrence de
 montant le plus faible étant retenu. Toutefois, la prise en compte de ceux de
 ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise
 qu'à concurrence de 25 % de cette marge. Tout remboursement effectué
-irrégulièrement peut, conformément aux dispositions de l'article L. 310-18,
-donner lieu à application de sanctions par l'Autorité de contrôle ;
+irrégulièrement peut, conformément aux dispositions de la section 6 ou de la
+section 7 du chapitre II du titre Ier du livre VI du code monétaire et
+financier, donner lieu à des mesures de police ou de sanction par l'Autorité de
+contrôle ;
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de
 la part de cotisation versée par l'entreprise et non utilisée par le fonds.

@@ -53,13 +53,13 @@ l'exigence de marge de solvabilité ou de la marge de solvabilité, le montant l
 plus faible étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui
 proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
 concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 951-10, donner lieu à
-application de sanctions par l'Autorité de contrôle instituée par l'article L.
-951-1.
+peut, conformément aux dispositions de la section 6 et de la section 7 du
+chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu
+à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel.
 
 III.-Sur demande et justification de l'institution ou de l'union et avec
-l'accord de l'Autorité de contrôle instituée par l'article L. 951-1, la marge de
-solvabilité peut également être constituée par :
+l'accord de l'Autorité de contrôle prudentiel, la marge de solvabilité peut
+également être constituée par :
 
 1. La moitié de la part restant à rembourser de l'emprunt pour fonds
 d'établissement ;

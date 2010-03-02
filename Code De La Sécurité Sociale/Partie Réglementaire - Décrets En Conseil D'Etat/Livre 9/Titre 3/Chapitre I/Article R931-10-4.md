@@ -22,7 +22,7 @@ cours du dernier exercice, d'autre part le total des impôts et taxes afférents
 aux cotisations précitées.
 
 Le montant ainsi obtenu est réparti en deux tranches, respectivement inférieure
-et supérieure à 57 000 000 euros (1). A 18 % de la première tranche sont ajoutés
+et supérieure à 57 000 000 euros (1).A 18 % de la première tranche sont ajoutés
 16 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
@@ -33,9 +33,8 @@ d'institutions de prévoyance après cession en réassurance et le montant des
 sinistres bruts de réassurance, sans que ce rapport puisse être inférieur à 50
 %.
 
-Sous réserve de l'accord de l'Autorité de contrôle des assurances et des
-mutuelles, l'affectation des cotisations peut être effectuée par des méthodes
-statistiques.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'affectation des
+cotisations peut être effectuée par des méthodes statistiques.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des
 sinistres) :
@@ -55,7 +54,7 @@ inventorié, tant pour les opérations directes que pour les acceptations en
 réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 40 300 000 euros (1). A 26 % de la première tranche
+inférieure et supérieure à 40 300 000 euros (1).A 26 % de la première tranche
 sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en

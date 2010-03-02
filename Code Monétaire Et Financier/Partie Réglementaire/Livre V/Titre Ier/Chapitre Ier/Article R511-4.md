@@ -2,7 +2,7 @@ Article R511-4
 ----
 Lorsqu'un établissement financier a justifié auprès de l'Autorité de contrôle
 prudentiel qu'il remplit les conditions mentionnées au deuxième alinéa de
-l'article L. 511-28, le comité lui délivre une attestation. Le comité transmet
+l'article L. 511-28, l'Autorité lui délivre une attestation.L'Autorité transmet
 également une attestation aux autorités compétentes de l'Etat membre d'accueil,
 en même temps que la notification mentionnée au premier alinéa de l'article L.
 511-28, ou que la déclaration mentionnée au quatrième alinéa du même article.

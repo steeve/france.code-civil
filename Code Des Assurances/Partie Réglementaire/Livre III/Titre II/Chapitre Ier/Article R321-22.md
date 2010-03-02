@@ -11,9 +11,8 @@ pour la gestion des engagements résiduels. Lorsque la gestion des engagements
 résiduels est déléguée à un tiers, le projet de contrat de délégation et un
 dossier décrivant la qualité du délégataire et de ses dirigeants, son
 organisation, sa situation financière et les moyens mis en oeuvre sont
-communiqués à l'Autorité, qui peut, en application du dernier alinéa de
-l'article L. 310-12, réaliser tous contrôles sur pièces et sur place du
-délégataire, jusqu'à liquidation intégrale des engagements.
+communiqués à l'Autorité, qui peut, , réaliser tous contrôles sur pièces et sur
+place du délégataire, jusqu'à liquidation intégrale des engagements.
 
 Si l'Autorité estime que le programme de liquidation présenté par l'entreprise
 n'est pas conforme aux intérêts des assurés, elle ne l'approuve pas et peut
@@ -22,6 +21,7 @@ qu'elle prescrit.
 
 En l'absence de programme de liquidation, ou lorsque le programme présenté n'a
 pas été approuvé, ou lorsque l'entreprise ne respecte pas le programme approuvé,
-l'Autorité prend, en application de l'article L. 323-1-1, toutes mesures
-conservatoires qu'elle juge nécessaires ; elle peut également faire usage des
-pouvoirs d'injonction et de sanction prévus aux articles L. 310-17 et L. 310-18.
+l'Autorité prend, toutes mesures prévues à la section 6 du chapitre II du titre
+Ier du livre VI du code monétaire et financier qu'elle juge nécessaires ; elle
+peut également faire usage des pouvoirs de sanction prévus à la section 7 du
+chapitre II du titre Ier du livre VI du même code.

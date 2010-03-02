@@ -18,11 +18,10 @@ montant ainsi calculé est inscrit en provisions pour risques en cours. Pour
 l'application du présent alinéa, les sinistres sont rattachés à l'exercice de
 survenance.
 
-La commission de contrôle instituée par l'article L. 951-1 peut prescrire à une
-institution ou une union de prendre des dispositions appropriées pour le calcul
-prévu au précédent alinéa. Elle peut également, si le taux calculé en
-application du précédent alinéa apparaît insuffisant en raison d'évolutions
-récentes et significatives de la sinistralité ou de la tarification, prescrire
-l'utilisation d'un taux plus élevé. Elle peut également, sur la base de
-justifications appropriées fournies par l'institution ou l'union, autoriser
-l'utilisation d'un taux inférieur.
+l'Autorité de contrôle prudentiel peut prescrire à une institution ou une union
+de prendre des dispositions appropriées pour le calcul prévu au précédent
+alinéa. Elle peut également, si le taux calculé en application du précédent
+alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de
+la sinistralité ou de la tarification, prescrire l'utilisation d'un taux plus
+élevé. Elle peut également, sur la base de justifications appropriées fournies
+par l'institution ou l'union, autoriser l'utilisation d'un taux inférieur.

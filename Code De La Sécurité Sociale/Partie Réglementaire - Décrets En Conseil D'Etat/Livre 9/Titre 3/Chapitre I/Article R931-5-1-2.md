@@ -1,21 +1,19 @@
 Article R931-5-1-2
 ----
-Lorsqu'elle estime que le respect par une institution ou une union de
-réassurance de ses engagements est compromis, l'Autorité de contrôle peut exiger
-que l'institution ou l'union lui soumettent un programme de rétablissement
-prévoyant toutes mesures propres à restaurer son équilibre. Ce programme de
-rétablissement doit notamment comporter, pour les trois prochains exercices
-sociaux, une description détaillée des éléments suivants, et les justificatifs
-s'y rapportant :
+Lorsque l'Autorité de contrôle prudentiel exige d'une institution ou d'une union
+de réassurance un programme de rétablissement en application de l'article L.
+612-32 du code monétaire et financier, celui-ci doit notamment comporter, pour
+les trois prochains exercices sociaux, une description détaillée des éléments
+suivants et être accompagné des justificatifs s'y rapportant :
 
-a) Une estimation prévisionnelle des frais de gestion, notamment des frais
+1° Une estimation prévisionnelle des frais de gestion, notamment des frais
 généraux courants et des commissions ;
 
-b) Un plan détaillant les prévisions de recettes et de dépenses ;
+2° Un plan détaillant les prévisions de recettes et de dépenses ;
 
-c) Un bilan prévisionnel ;
+3° Un bilan prévisionnel ;
 
-d) Une estimation des ressources financières devant servir à la couverture des
+4° Une estimation des ressources financières devant servir à la couverture des
 engagements et de l'exigence de marge de solvabilité ;
 
-e) La politique générale en matière de réassurance.
+5° La politique générale en matière de réassurance.

@@ -1,7 +1,6 @@
 Article R931-6-8
 ----
-L'arrêté ou la décision de retrait de l'agrément administratif ou de suspension
-de l'activité, selon le cas, doit être motivé et notifié par lettre recommandée
-avec demande d'avis de réception ou remise contre récépissé, par le ministre
-chargé de la sécurité sociale à l'institution de prévoyance ou l'union
-concernée.
+La décision de retrait de l'agrément administratif en vertu de l'article L.
+931-19 doit être motivée et notifiée par lettre recommandée avec demande d'avis
+de réception ou remise contre récépissé, par l'Autorité de contrôle prudentiel à
+l'institution de prévoyance ou l'union concernée.

@@ -1,7 +1,7 @@
 Article R518-30-2
 ----
 I. ― Pour l'application de l'article L. 518-15-3, les contrôles diligentés au
-titre de l'article L. 613-10 font l'objet d'une communication préalable motivée
+titre de l'article L. 612-26 font l'objet d'une communication préalable motivée
 à la commission de surveillance de la Caisse des dépôts et consignations.
 
 II. ― Sans préjudice de la communication qu'elle fait à la commission de

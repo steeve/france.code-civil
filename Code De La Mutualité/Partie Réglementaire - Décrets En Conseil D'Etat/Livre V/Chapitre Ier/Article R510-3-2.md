@@ -1,11 +1,11 @@
 Article R510-3-2
 ----
 Lorsqu'elle estime que le respect, par une entreprise de réassurance, de ses
-engagements est compromis, l'Autorité de contrôle peut exiger que l'entreprise
-lui soumette un programme de rétablissement prévoyant toutes mesures propres à
-restaurer son équilibre. Ce programme doit notamment comporter, pour les trois
-prochains exercices sociaux, une description détaillée des éléments suivants et
-être accompagné des justificatifs s'y rapportant :
+engagements est compromis, l'Autorité de contrôle prudentiel peut exiger que
+l'entreprise lui soumette un programme de rétablissement prévoyant toutes
+mesures propres à restaurer son équilibre. Ce programme doit notamment
+comporter, pour les trois prochains exercices sociaux, une description détaillée
+des éléments suivants et être accompagné des justificatifs s'y rapportant :
 
 1. Une estimation prévisionnelle des frais de gestion, notamment des frais
 généraux courants et des commissions ;

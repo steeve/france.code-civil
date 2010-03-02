@@ -7,9 +7,9 @@ l'Autorité des normes comptables, détermine la structure et les principaux
 règles spécifiques d'utilisation des comptes et les principes généraux
 d'organisation et de fonctionnement du système comptable. Il peut, en outre,
 prescrire, lorsque cela est nécessaire pour la justification des comptes ou
-l'exercice des compétences de l'Autorité de contrôle instituée par l'article L.
-951-1, des modalités spécifiques d'enregistrement et de suivi extra-comptable
-des placements, des bulletins d'adhésion à un règlement ou des contrats, des
+l'exercice des compétences de l'Autorité de contrôle prudentiel prudentiel, des
+modalités spécifiques d'enregistrement et de suivi extra-comptable des
+placements, des bulletins d'adhésion à un règlement ou des contrats, des
 sinistres et des opérations de réassurance, coassurance et coréassurance des
 institutions ou de leurs unions.
 

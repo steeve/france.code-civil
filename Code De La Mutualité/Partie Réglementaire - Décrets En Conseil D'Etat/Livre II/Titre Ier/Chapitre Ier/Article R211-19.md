@@ -8,12 +8,13 @@ gestion adoptée parmi celles qui sont énoncées à l'article L. 224-7.
 Lorsque la mutuelle ou l'union choisit de confier les remboursements de la
 branche de protection juridique à une mutuelle ou union juridiquement distincte,
 conformément aux dispositions du b de l'article L. 224-7, elle doit adresser
-copie des statuts de cette mutuelle ou union au ministre chargé de la mutualité.
+copie des statuts de cette mutuelle ou union à l'Autorité de contrôle
+prudentiel.
 
 Si cette mutuelle ou union juridiquement distincte a des liens de la nature de
-ceux qui sont définis à l'article L. 510-7 avec un autre organisme pratiquant
-également l'activité d'assurance, la mutuelle ou l'union qui sollicite
-l'agrément doit s'assurer et, en outre, attester :
+ceux qui sont définis à l'article L. 612-26 du code monétaire et financier avec
+un autre organisme pratiquant également l'activité d'assurance, la mutuelle ou
+l'union qui sollicite l'agrément doit s'assurer et, en outre, attester :
 
 1° Que les personnes chargées de la gestion des remboursements de la branche
 protection juridique ou des conseils juridiques relatifs à cette gestion

@@ -1,7 +1,7 @@
 Article R323-1-1
 ----
-I. ― Au vu du programme de rétablissement mentionné au I de l'article R. 323-1
-ou à défaut de communication de ce programme dans le délai d'un mois après la
+I. ― Au vu du programme de rétablissement mentionné à l'article R. 323-1 ou à
+défaut de communication de ce programme dans le délai d'un mois après la
 demande, l'Autorité de contrôle peut exiger d'une entreprise d'assurance une
 marge de solvabilité renforcée, supérieure à l'exigence minimale de marge
 mentionnée, selon les cas, à l'article R. 334-5, à l'article R. 334-13, à

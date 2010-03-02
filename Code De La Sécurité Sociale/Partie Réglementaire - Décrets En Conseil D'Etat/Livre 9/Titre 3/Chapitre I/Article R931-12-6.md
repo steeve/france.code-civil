@@ -12,8 +12,8 @@ ou par contrat, procède à un versement en une seule fois au profit de chaque
 membre adhérent, membre participant, ayants droit ou bénéficiaires de
 prestations contre la remise par celui-ci d'un récépissé du versement.
 
-A titre exceptionnel, l'Autorité de contrôle peut, sur la demande du fonds
-paritaire de garantie, lui accorder une prolongation, qui ne saurait être
+A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du
+fonds paritaire de garantie, lui accorder une prolongation, qui ne saurait être
 supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Le fonds met en oeuvre la garantie, selon la même procédure, si le liquidateur

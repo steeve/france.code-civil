@@ -32,8 +32,9 @@ solvabilité ou de la marge de solvabilité, le montant le plus faible étant
 retenu. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de
 titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de
 cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux
-dispositions de l'article L. 510-11, donner lieu à application de sanctions par
-l'Autorité de contrôle ;
+dispositions de la section 6 et de la section 7 du chapitre II du titre Ier du
+livre VI du code monétaire et financier, donner lieu à des mesures de police ou
+de sanction de l'Autorité de contrôle prudentiel.
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée

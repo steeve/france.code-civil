@@ -1,6 +1,6 @@
 Article R512-40
 ----
-L'Autorité de contrôle prudentiel mentionné à l'article L. 612-1 peut, après
+L'Autorité de contrôle prudentiel mentionnée à l'article L. 612-1 peut, après
 avis de l'organe central des caisses d'épargne et des banques populaires,
 délivrer un agrément collectif à la Société centrale de crédit maritime mutuel
 pour elle-même et pour celles des caisses régionales ou des unions de crédit

@@ -223,8 +223,8 @@ Rentes en service (partie des sous-catégories 083, 087, 093 et 097) (3).
 
 Les opérations en unités de compte sont converties en francs à la contrevaleur
 de l'unité de compte à la date d'inventaire et regroupées toutes unités de
-compte confondues. L'institution ou l'union détient le détail de chaque
-catégorie ou sous-catégorie par unité de compte.
+compte confondues.L'institution ou l'union détient le détail de chaque catégorie
+ou sous-catégorie par unité de compte.
 
 (1) L'addition des éléments relatifs aux rentes individuelles différées en cours
 de constitution et aux rentes individuelles en service est égale au total des
@@ -251,24 +251,23 @@ techniques.
 
 L'état est constitué de deux ensembles de lignes :
 
-A. - Le premier ensemble de lignes est ordonné en quarante-trois rubriques
+A.-Le premier ensemble de lignes est ordonné en quarante-trois rubriques
 correspondant aux catégories, sous-catégories ou regroupements d'opérations
 définies à l'état C 4 :
 
-I. - Opérations directes en France : catégories ou sous-catégories 01, 02, 031,
+I.-Opérations directes en France : catégories ou sous-catégories 01, 02, 031,
 032, 041, 042, 051, 052, 061, 062, 071, 072, 081, 082, 083, 084, 085, 086, 087,
 088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 201, 202, 211, 212, 213 puis
 214 ;
 
-II. - Opérations en libre prestation de services par un établissement en France
-;
+II.-Opérations en libre prestation de services par un établissement en France ;
 
-III. - Acceptations en réassurance par un établissement en France ;
+III.-Acceptations en réassurance par un établissement en France ;
 
-IV. - Opérations des succursales établies dans l'Union européenne (hors la
+IV.-Opérations des succursales établies dans l'Union européenne (hors la
 France), détaillées par rubriques a, b puis c ;
 
-V. - Opérations des succursales établies hors de l'Union européenne, détaillées
+V.-Opérations des succursales établies hors de l'Union européenne, détaillées
 par rubriques a, b puis c.
 
 Ce premier ensemble comporte une ligne par règlement ou contrat type en cours.
@@ -282,16 +281,16 @@ distincte rattachée au règlement ou au contrat.
 Sous réserve de respecter la décomposition par régime de participation aux
 excédents, les institutions et les unions peuvent regrouper au sein de chaque
 rubrique les règlements ou contrats types dont les provisions techniques
-représentent moins de 0,5 % du total des provisions techniques afférentes aux
+représentent moins de 0, 5 % du total des provisions techniques afférentes aux
 opérations directes en France ;
 
-B. - Le deuxième ensemble de lignes retrace les provisions techniques communes à
+B.-Le deuxième ensemble de lignes retrace les provisions techniques communes à
 plusieurs règlements ou contrats types :
 
-- d'abord, celles des provisions pour participation aux excédents qui ne sont
-pas propres à un règlement ou contrat type ;
+-d'abord, celles des provisions pour participation aux excédents qui ne sont pas
+propres à un règlement ou contrat type ;
 
-- ensuite, les autres provisions techniques, notamment provisions pour aléas
+-ensuite, les autres provisions techniques, notamment provisions pour aléas
 financiers, provisions de gestion, provision pour risque d'exigibilité des
 engagements techniques.
 
@@ -299,35 +298,35 @@ L'état est complété par un total général.
 
 L'état comporte les colonnes suivantes :
 
-- dénomination du règlement ou du contrat type ;
+-dénomination du règlement ou du contrat type ;
 
-- nombre de bulletins d'adhésion aux règlements et de contrats en cours à la
+-nombre de bulletins d'adhésion aux règlements et de contrats en cours à la
 clôture de l'exercice ;
 
-- capitaux ou rentes garantis ;
+-capitaux ou rentes garantis ;
 
-- taux d'intérêt garanti ;
+-taux d'intérêt garanti ;
 
-- cotisations émises dans l'exercice, nettes d'annulations ;
+-cotisations émises dans l'exercice, nettes d'annulations ;
 
-- provisions mathématiques à la clôture de l'exercice ;
+-provisions mathématiques à la clôture de l'exercice ;
 
-- provisions pour participation aux excédents à la clôture de l'exercice (1) ;
+-provisions pour participation aux excédents à la clôture de l'exercice (1) ;
 
-- autres provisions techniques spécifiques au règlement ou au contrat à la
+-autres provisions techniques spécifiques au règlement ou au contrat à la
 clôture de l'exercice ;
 
-- capitaux ou rentes cédés ;
+-capitaux ou rentes cédés ;
 
-- cotisations cédées ;
+-cotisations cédées ;
 
-- provisions mathématiques cédées à la clôture de l'exercice ;
+-provisions mathématiques cédées à la clôture de l'exercice ;
 
-- provisions pour participation aux excédents cédées à la clôture de l'exercice
+-provisions pour participation aux excédents cédées à la clôture de l'exercice
 (1) ;
 
-- autres provisions techniques spécifiques au règlement ou au contrat cédées à
-la clôture de l'exercice.
+-autres provisions techniques spécifiques au règlement ou au contrat cédées à la
+clôture de l'exercice.
 
 (1) Lorsqu'une provision pour participation aux excédents est commune à
 plusieurs règlements ou contrats types, les institutions et unions portent dans
@@ -343,7 +342,7 @@ COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE
 ECONOMIQUE EUROPEEN.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance
-agréées pour pratiquer les opérations visées au b et/ou au c de l'article L.
+agréées pour pratiquer les opérations visées au b et / ou au c de l'article L.
 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a
 et au b établissent, selon le modèle fixé ci-après, un état des cotisations,
 sinistres et commissions relatifs à leurs opérations Non-vie effectuées dans
@@ -376,7 +375,7 @@ Sinistres
 Commissions
 
 
-Accidents - maladie
+Accidents-maladie
 
 Chômage
 
@@ -386,7 +385,7 @@ Total
 ETAT C 31
 
 COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA
-FRANCE) .
+FRANCE).
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance
 agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et
@@ -405,25 +404,25 @@ LPS
 
 Branches d'activité (1) :
 
-I. - Assurance vie
+I.-Assurance vie
 
-II. - Nuptialité-natalité
+II.-Nuptialité-natalité
 
-III. - Opérations en unités de comptes
+III.-Opérations en unités de comptes
 
-IV. - Opérations dites "Permanent Health Insurance"
+IV.-Opérations dites " Permanent Health Insurance "
 
-VII. - Gestion de fonds collectifs
+VII.-Gestion de fonds collectifs
 
-VIII. - Opérations collectives relevant de l'article L. 932-24
+VIII.-Opérations collectives relevant de l'article L. 932-24
 
-IX. - Pensions de sécurité sociale
+IX.-Pensions de sécurité sociale
 
 
 Total
 
-(1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/CEE
-du 5 mai 1979.
+(1) Pour la définition de ces branches, voir l'annexe à la directive 79 / 267 /
+CEE du 5 mai 1979.
 
 Etats spécifiques relatifs aux opérations à l'étranger
 
@@ -435,36 +434,36 @@ annexant un dossier spécifique à ce pays, ou aux opérations en libre prestati
 de services depuis la France dans l'ensemble de l'Union européenne, composé des
 éléments suivants :
 
-- les états de modèle C 1 (C 1 Vie-capitalisation, C 1 Non-vie, C 1 Dommages
+-les états de modèle C 1 (C 1 Vie-capitalisation, C 1 Non-vie, C 1 Dommages
 corporels) pertinents ;
 
-- trois états de modèle C 10 : d'une part, un état pour l'ensemble des
-opérations directes et acceptées des catégories 20 à 31, d'autre part, un état
-pour chacun des deux sous-ensembles d'opérations directes, dommages corporels
-(catégories 20 et 21) et chômage (catégorie 31) ;
+-trois états de modèle C 10 : d'une part, un état pour l'ensemble des opérations
+directes et acceptées des catégories 20 à 31, d'autre part, un état pour chacun
+des deux sous-ensembles d'opérations directes, dommages corporels (catégories 20
+et 21) et chômage (catégorie 31) ;
 
-- trois états de modèle C 11 : d'une part, un état pour l'ensemble des
-opérations directes et acceptées des catégories 20 à 31, d'autre part, un état
-pour chacun des deux sous-ensembles d'opérations directes, dommages corporels
-(catégories 20 et 21) et chômage (catégorie 31) ;
+-trois états de modèle C 11 : d'une part, un état pour l'ensemble des opérations
+directes et acceptées des catégories 20 à 31, d'autre part, un état pour chacun
+des deux sous-ensembles d'opérations directes, dommages corporels (catégories 20
+et 21) et chômage (catégorie 31) ;
 
-- un état de modèle C 12 pour l'ensemble des opérations directes et acceptées
-des opérations pluriannuelles à cotisation unique ou non révisable des
-catégories 20 à 31 et des opérations assimilées en application du dernier alinéa
-de l'article A. 931-11-17 ;
+-un état de modèle C 12 pour l'ensemble des opérations directes et acceptées des
+opérations pluriannuelles à cotisation unique ou non révisable des catégories 20
+à 31 et des opérations assimilées en application du dernier alinéa de l'article
+A. 931-11-17 ;
 
-- un état de modèle C 20.
+-un état de modèle C 20.
 
 Les opérations assimilées à des opérations pluriannuelles à cotisation unique ou
 non révisable en application du dernier alinéa de l'article A. 931-11-17 sont
 exclues des états C 10 et C 11.
 
-Les états modèles sont adaptés en tant que de besoin en remplaçant la mention
-"France" par l'indication du nom du pays, ou par la mention "LPS".
+Les états modèles sont adaptés en tant que de besoin en remplaçant la mention "
+France " par l'indication du nom du pays, ou par la mention " LPS ".
 
-Sous réserve de l'accord de l'Autorité de contrôle instituée par l'article L.
-951-1, l'institution ou l'union, dont l'activité le justifie, peut regrouper
-sous une même rubrique plusieurs ensembles d'opérations.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'institution ou
+l'union, dont l'activité le justifie, peut regrouper sous une même rubrique
+plusieurs ensembles d'opérations.
 
 
 ETAT C 40
@@ -481,21 +480,21 @@ COTISATIONS (1)
 
 PRESTATIONS (1)
 
-Branches 1 et 26. - Accidents-maladie (2) (3)
+Branches 1 et 26.-Accidents-maladie (2) (3)
 
-Branche 16 a. - Chômage (2) (3)
+Branche 16 a.-Chômage (2) (3)
 
-Branche 20. - Vie-décès
+Branche 20.-Vie-décès
 
-Branche 21. - Nuptialité-natalité
+Branche 21.-Nuptialité-natalité
 
-Branche 22. - Assurances liées à des fonds d'investissement
+Branche 22.-Assurances liées à des fonds d'investissement
 
-Branche 24. - Capitalisation
+Branche 24.-Capitalisation
 
-Branche 25. - Gestion de fonds collectifs
+Branche 25.-Gestion de fonds collectifs
 
-Branches 26. - Opérations à caractère collectif de l'article L. 932-24
+Branches 26.-Opérations à caractère collectif de l'article L. 932-24
 
 
 Total
@@ -533,9 +532,9 @@ Total produits
 
 5. Allocations, attribution, et frais payés et à payer (4) :
 
-5 a. A caractère individuel
+5 a.A caractère individuel
 
-5 b. A caractère collectif
+5 b.A caractère collectif
 
 5 c. Autres allocations et attributions
 
@@ -570,7 +569,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance
 établissent pour leurs opérations directes (hors acceptations) en France les
 états suivants :
 
-A. - Etat C 42
+A.-Etat C 42
 
 Statistiques relatives aux différentes catégories d'opérations en France
 
@@ -591,98 +590,98 @@ Total
 
 Frais de santé :
 
-- nombre de cotisants au 31 décembre (1)
+-nombre de cotisants au 31 décembre (1)
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
-Incapacité - Invalidité :
+Incapacité-Invalidité :
 
 Mensualisation :
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Autres indemnités journalières :
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Rentes d'invalidité :
 
-- nombre de rentes en cours de service au 31 décembre
+-nombre de rentes en cours de service au 31 décembre
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Chômage :
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Indemnité et prime de fin de carrière :
 
-- nombre de bénéficiaires servis au cours de l'exercice
+-nombre de bénéficiaires servis au cours de l'exercice
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Retraite supplémentaire :
 
-- nombre de rentes en cours de service au 31 décembre
+-nombre de rentes en cours de service au 31 décembre
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Capital :
 
-- nombre de capitaux versés au 31 décembre
+-nombre de capitaux versés au 31 décembre
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Décès :
 
 Invalidité totale et définitive :
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Rente de conjoint survivant :
 
-- nombre de rentes en cours de service au 31 décembre
+-nombre de rentes en cours de service au 31 décembre
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Rente d'éducation ou d'orphelin :
 
-- nombre de rentes en cours de service au 31 décembre
+-nombre de rentes en cours de service au 31 décembre
 
-- nombre de cotisants au 31 décembre
+-nombre de cotisants au 31 décembre
 
-- nombre d'entreprises adhérentes au 31 décembre
+-nombre d'entreprises adhérentes au 31 décembre
 
 Total :
 
-- nombre de cotisants
+-nombre de cotisants
 
-- nombre d'entreprises adhérentes
+-nombre d'entreprises adhérentes
 
-(Préciser : avec double compte - sans double compte.)
+(Préciser : avec double compte-sans double compte.)
 
-(1) Cotisants : participants visés aux 1 o et 2 o de l'article L. 931-3 du code
-de la sécurité sociale.
+(1) Cotisants : participants visés aux 1o et 2o de l'article L. 931-3 du code de
+la sécurité sociale.
 
-B. - Etat C 42
+B.-Etat C 42
 
 
 Cotisations et prestations
@@ -720,13 +719,13 @@ Prest.
 
 Frais de santé (2) (3)
 
-Incapacité - invalidité (2) (3) :
+Incapacité-invalidité (2) (3) :
 
-- mensualisation
+-mensualisation
 
-- autres indemnités journalières
+-autres indemnités journalières
 
-- rentes d'invalidité
+-rentes d'invalidité
 
 Chômage (2) (3)
 
@@ -737,22 +736,22 @@ Retraite supplémentaire
 
 Décès :
 
-- capitaux
+-capitaux
 
-- rente de conjoint survivant
+-rente de conjoint survivant
 
-- rente d'éducation ou d'orphelin
+-rente d'éducation ou d'orphelin
 
 
 Montant total
 
-(2) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du
+(2) Cotisations au sens de la ligne " 7. Cotisations acquises à l'année " du
 tableau C de l'état C 10.
 
-(3) Prestations au sens de la ligne "4. Charges nettes de recours" du même
+(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même
 tableau C.
 
-C. - Etat C 42
+C.-Etat C 42
 
 
 Frais de santé
@@ -779,19 +778,19 @@ Hôpitaux privés
 
 Sections médicalisées :
 
-- publiques
+-publiques
 
-- privées
+-privées
 
-Sous-total : hôpitaux - Sections médicalisées
+Sous-total : hôpitaux-Sections médicalisées
 
 Cabinets libéraux :
 
-- médecins
+-médecins
 
-- auxiliaires
+-auxiliaires
 
-- dentistes
+-dentistes
 
 Laboratoires d'analyses
 
@@ -816,4 +815,4 @@ Total : biens médicaux
 Total des prestations
 
 (1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la
-ligne "4. Charge nette de recours" du tableau C de l'état C 10.
+ligne " 4. Charge nette de recours " du tableau C de l'état C 10.

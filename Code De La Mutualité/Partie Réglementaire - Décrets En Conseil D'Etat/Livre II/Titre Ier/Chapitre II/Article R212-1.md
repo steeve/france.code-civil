@@ -17,8 +17,8 @@ pratiquent des opérations mentionnées au b ou des opérations relevant à la f
 du a et du b du 1° du I de l'article L. 111-1 et de 228 600 Euros au moins
 lorsqu'elles pratiquent les opérations mentionnées aux a, c, d et e du 1° du I
 du même article. Il doit être intégralement versé en espèces préalablement au
-dépôt par la mutuelle ou l'union de la demande d'agrément auprès de l'autorité
-administrative mentionnée à l'article R. 211-7.
+dépôt par la mutuelle ou l'union de la demande d'agrément auprès de l'Autorité
+de contrôle prudentiel.
 
 Par dérogation aux dispositions de l'alinéa précédent, le montant du fonds
 d'établissement des mutuelles mentionnées à l'article R. 212-14 et aux cinq

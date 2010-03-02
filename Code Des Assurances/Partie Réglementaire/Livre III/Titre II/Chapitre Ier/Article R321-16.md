@@ -6,7 +6,7 @@ l'Autorité de contrôle prudentiel pour chaque semestre, un compte rendu
 d'exécution du programme d'activités mentionné à l'article L. 321-10. Si
 l'activité de l'entreprise n'est pas conforme au programme d'activités,
 l'Autorité prend les mesures utiles en vue de la protection des intérêts des
-assurés. Sans préjudice de la mise en oeuvre, le cas échéant, des mesures
-prévues aux articles L. 310-17, L. 310-18 et L. 323-1-1, l'Autorité peut saisir
-le comité des entreprises d'assurance en vue de l'application des dispositions
-de l'article L. 325-1.
+assurés. Sans préjudice de la mise en œuvre, le cas échéant, des mesures prévues
+aux sections 6 et 7 du chapitre II du titre Ier du livre VI du code monétaire et
+financier, l'Autorité peut faire application des dispositions de l'article L.
+325-1 du présent code.

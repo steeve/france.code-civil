@@ -41,8 +41,7 @@ la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 l'autorité compétente de cet Etat pour lui attribuer l'exercice de la
 surveillance complémentaire.
 
-Si l'Autorité de contrôle mentionnée à l'article L. 951-1 estime, à partir de ce
-calcul de solvabilité ajustée, que la solvabilité de l'institution ou union
-concernée est compromise ou susceptible de l'être, elle exige de celle-ci
-qu'elle prenne les mesures nécessaires au rétablissement ou au maintien de sa
-solvabilité.
+Si l'Autorité de contrôle prudentiel estime, à partir de ce calcul de
+solvabilité ajustée, que la solvabilité de l'institution ou union concernée est
+compromise ou susceptible de l'être, elle exige de celle-ci qu'elle prenne les
+mesures nécessaires au rétablissement ou au maintien de sa solvabilité.

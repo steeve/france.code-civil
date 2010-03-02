@@ -30,9 +30,10 @@ concurrence de 50 % de l'exigence de marge de solvabilité ou la marge de
 solvabilité, le montant le plus faible étant retenu. Toutefois, la prise en
 compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée
 déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout
-remboursement effectué irrégulièrement peut, conformément aux dispositions de
-l'article L. 310-18, donner lieu à application de sanctions par l'Autorité de
-contrôle ;
+remboursement effectué irrégulièrement peut, conformément aux dispositions de la
+section 6 ou de la section 7 du chapitre II du titre Ier du livre VI du code
+monétaire et financier, donner lieu à des mesures de police ou de sanction par
+l'Autorité de contrôle ;
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de
 la part de cotisation versée par l'entreprise et non utilisée par le fonds.

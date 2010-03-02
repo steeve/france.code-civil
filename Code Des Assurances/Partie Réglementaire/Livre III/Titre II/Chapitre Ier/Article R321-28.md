@@ -7,6 +7,5 @@ le jour de ce changement.
 
 Dans un délai de trois mois à compter de la réception de cette déclaration,
 l'Autorité de contrôle prudentiel fait savoir à l'entreprise si ce changement
-est de nature à entraîner la mise en œuvre des compétences dont il dispose aux
-termes de l'article L. 325-1. Le Comité des entreprises d'assurance transmet
-cette information à l'Autorité de contrôle.
+est de nature à entraîner la mise en œuvre des compétences dont elle dispose aux
+termes de l'article L. 325-1.

@@ -6,8 +6,7 @@ monnaies confondues, et le montant total des actifs mentionnés aux articles R.
 931-10-26 à R. 931-10-31, toutes monnaies confondues, la valeur au bilan d'une
 institution ou union de chacune des catégories d'actif énumérées ci-après admis
 en représentation des engagements réglementés ne peut excéder, sauf dérogation
-accordée cas par cas par l'Autorité de contrôle mentionnée à l'article L. 951-1
-:
+accordée cas par cas par l'Autorité de contrôle prudentiel :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 5° au 10° et 12° quater de
 l'article R. 931-10-21 et des prêts mentionnés au troisième alinéa du 1° de

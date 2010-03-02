@@ -3,8 +3,8 @@ Article Annexe à l'article A931-11-15
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.
 
 Les renseignements généraux du compte rendu détaillé annuel à produire à
-l'Autorité de contrôle instituée par l'article L. 951-1 par les institutions de
-prévoyance et les unions d'institutions de prévoyance sont les suivants :
+l'Autorité de contrôle prudentiel par les institutions de prévoyance et les
+unions d'institutions de prévoyance sont les suivants :
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date
 de son agrément, les modifications apportées aux statuts en cours d'exercice et,
@@ -54,26 +54,26 @@ A l'appui de cette liste, l'institution ou l'union conserve à la disposition de
 fonctionnaires visés à l'article R. 951-1-1 un dossier relatif à chacun des
 règlements ou contrats types en cours. Ce dossier comprend un spécimen :
 
-- des modifications du règlement, des avenants au contrat ou au bulletin
+-des modifications du règlement, des avenants au contrat ou au bulletin
 d'adhésion mentionnés à l'article L. 932-3 pour les opérations collectives à
 adhésion obligatoire et à l'article L. 932-19 pour les opérations collectives à
 adhésion facultative et les opérations individuelles ainsi qu'un spécimen de la
 notice d'information respectivement prévue aux articles L. 932-6 et L. 932-18 ;
 
-- de la proposition d'adhésion ou de la proposition de contrat ainsi que leurs
+-de la proposition d'adhésion ou de la proposition de contrat ainsi que leurs
 annexes respectives prévues aux articles L. 932-3 et L. 932-19 ;
 
-- de la note d'information visée à l'article L. 932-15 et dont le modèle est
-fixé à l'article A. 932-3-4 ;
+-de la note d'information visée à l'article L. 932-15 et dont le modèle est fixé
+à l'article A. 932-3-4 ;
 
-- du document d'information annuelle relatif au rachat et à la réduction des
+-du document d'information annuelle relatif au rachat et à la réduction des
 contrats d'assurance vie (article L. 132-22 du code des assurances auquel
 renvoie l'article L. 932-23 du code de la sécurité sociale),
 
 et une fiche technique explicitant les garanties accordées, le tarif appliqué
 (avec justification de son caractère suffisant), les modalités de fixation à
-toute époque de la valeur de rachat et de la valeur de réduction - si le
-bulletin d'adhésion, le règlement ou le contrat en comporte -, la méthode de
-calcul de la charge annuelle de participation aux excédents ainsi que le mode de
-répartition de celle-ci entre les participants, ayants droit et bénéficiaires
-(quotité et délai), et le calcul des provisions mathématiques.
+toute époque de la valeur de rachat et de la valeur de réduction-si le bulletin
+d'adhésion, le règlement ou le contrat en comporte-, la méthode de calcul de la
+charge annuelle de participation aux excédents ainsi que le mode de répartition
+de celle-ci entre les participants, ayants droit et bénéficiaires (quotité et
+délai), et le calcul des provisions mathématiques.

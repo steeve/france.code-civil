@@ -2,8 +2,7 @@ Article A941-1-1
 ----
 Chaque année, les institutions de gestion de retraite supplémentaire mentionnées
 à l'article L. 941-1 du code de la sécurité sociale remettent à l'Autorité de
-contrôle des assurances et des mutuelles dans les six mois suivant la clôture de
-l'exercice :
+contrôle prudentiel dans les six mois suivant la clôture de l'exercice :
 
 1° Les renseignements généraux énumérés à l'annexe au présent article ;
 

@@ -1,16 +1,23 @@
 Article R612-2
 ----
-Lorsque le Comité des établissements de crédit et des entreprises
-d'investissement statue par voie de consultation écrite en application du
-deuxième alinéa de l'article L. 612-4, son président recueille, dans un délai
-qu'il fixe, mais qui ne peut être inférieur à deux jours ouvrables, les votes
-des membres du comité sur une proposition de décision.
+I.-Sur proposition de son président et à la majorité des deux tiers de ses
+membres, la formation plénière du collège de l'Autorité peut constituer une ou
+plusieurs commissions spécialisées mentionnées à l'article L. 612-8.
 
-Pour que ses résultats puissent être pris en compte, la consultation doit avoir
-permis de recueillir la moitié au moins des votes des membres du comité dans le
-délai fixé par le président.
+La décision constituant une commission spécialisée fixe :
 
-Le président informe, dans les meilleurs délais, les membres du comité de la
-décision résultant de cette consultation. Toutefois, si un membre en fait la
-demande écrite dans le délai fixé au premier alinéa, le président met fin à la
-procédure de consultation écrite et convoque une réunion du comité.
+1° Les matières dans lesquelles cette dernière est habilitée à prendre des
+décisions de portée individuelle ;
+
+2° Sa composition. Chaque commission spécialisée comprend, outre le président ou
+le vice-président, qui la préside, quatre à sept autres membres. Le règlement
+intérieur de l'Autorité fixe les conditions de remplacement du président de la
+commission en cas d'empêchement de ce dernier ;
+
+3° La durée pour laquelle elle est habilitée à prendre les décisions mentionnées
+au 1°.
+
+Cette décision est publiée au Journal officiel de la République française.
+
+II.-Une décision d'une commission spécialisée est exécutoire dans les conditions
+prévues par l'article R. 612-3.

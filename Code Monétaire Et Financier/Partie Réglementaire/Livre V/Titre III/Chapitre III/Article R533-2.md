@@ -1,7 +1,7 @@
 Article R533-2
 ----
-Les dispositions des articles R. 533-1, R. 613-2, R. 613-4 à R. 613-6 et R.
-613-9 à R. 613-23 s'appliquent également aux personnes mentionnées au 4 de
+Les dispositions des articles R. 533-1, R. 612-34, R. 612-36 à R. 612-50 et R.
+613-10 à R. 613-23 s'appliquent également aux personnes mentionnées au 4 de
 l'article L. 440-2.
 
 L'Autorité de contrôle prudentiel peut autoriser les personnes mentionnées à

@@ -1,8 +1,7 @@
 Article R211-12
 ----
-L'autorité administrative mentionnée à l'article R. 211-7 peut retirer
-l'agrément pour les branches, sous-branches ou activités considérées, à la
-demande d'une mutuelle ou union :
+L'Autorité de contrôle prudentiel peut retirer l'agrément pour les branches,
+sous-branches ou activités considérées, à la demande d'une mutuelle ou union :
 
 -agréée sur le fondement de l'article L. 211-7 et s'engageant à ne plus émettre
 de nouveaux bulletins d'adhésion à un règlement ou de contrats collectifs

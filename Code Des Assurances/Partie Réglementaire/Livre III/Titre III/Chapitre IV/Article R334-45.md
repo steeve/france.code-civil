@@ -11,8 +11,8 @@ et les accords de répartition des coûts. L'entreprise déclare au moins une fo
 par an à cette commission les opérations importantes mentionnées ci-dessus.
 L'entreprise se dote en outre de procédures de gestion des risques et de
 dispositifs de contrôle interne visant à identifier, mesurer, encadrer et
-contrôler ces opérations. Un arrêté du ministre chargé de l'économie précise les
-conditions dans lesquelles ces opérations doivent être déclarées.
+contrôler ces opérations. Une décision de l'Autorité de contrôle prudentiel
+précise les conditions dans lesquelles ces opérations doivent être déclarées.
 
 Si l'Autorité de contrôle estime, à partir de l'examen de ces déclarations, que
 la solvabilité de l'entreprise est compromise ou susceptible de l'être, elle

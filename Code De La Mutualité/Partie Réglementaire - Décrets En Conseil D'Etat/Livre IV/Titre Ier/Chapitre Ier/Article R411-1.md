@@ -8,8 +8,7 @@ comités régionaux de coordination de la mutualité ;
 
 Un député et un sénateur, élus par leur assemblée respective ;
 
-Le président de l'Autorité de contrôle des assurances et des mutuelles ou son
-représentant ;
+Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ;
 
 Un membre du Conseil d'Etat, désigné par le vice-président ;
 

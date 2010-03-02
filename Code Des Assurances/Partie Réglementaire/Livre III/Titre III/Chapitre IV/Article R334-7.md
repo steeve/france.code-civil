@@ -1,7 +1,7 @@
 Article R334-7
 ----
 Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2
-agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de
+agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 18 de
 l'article R. 321-1 est égal au tiers de l'exigence minimale de marge de
 solvabilité définie à l'article R. 334-5.
 

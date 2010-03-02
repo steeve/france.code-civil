@@ -7,5 +7,4 @@ possèdent, directement ou indirectement, au moins 10 % des droits de vote ou du
 capital de l'entreprise ainsi que le montant de ces participations, tel qu'il
 résulte notamment des données communiquées à l'assemblée générale annuelle des
 actionnaires ou associés, ou des obligations d'information des sociétés cotées
-sur un marché reconnu. Le Comité des entreprises d'assurance transmet cette
-information à l'Autorité de contrôle.
+sur un marché reconnu.

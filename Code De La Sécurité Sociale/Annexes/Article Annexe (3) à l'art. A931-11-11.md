@@ -46,7 +46,7 @@ indiquée.
 
 1. Pour le bilan.
 
-1.1. Les institutions de prévoyance et les unions d'institutions de prévoyance
+1. 1. Les institutions de prévoyance et les unions d'institutions de prévoyance
 indiquent les mouvements ayant affecté les divers éléments de l'actif ci-après
 énumérés :
 
@@ -68,19 +68,19 @@ pour dépréciation à la clôture et le montant net inscrit au bilan, ainsi que
 dotations aux amortissements et provisions pour dépréciation et les reprises de
 provisions pour dépréciation constatées au cours de l'exercice.
 
-1.1 bis. Les institutions et les unions indiquent ces mêmes informations pour
+1. 1 bis. Les institutions et les unions indiquent ces mêmes informations pour
 les éléments d'actifs relatifs à l'action sociale décomposées en placements
 immobiliers, placements immobiliers en cours, placements financiers et autres
 actifs.
 
-1.2. En ce qui concerne les placements autres que ceux visés au 1. 1, les
+1. 2. En ce qui concerne les placements autres que ceux visés au 1. 1, les
 institutions et les unions indiquent les dotations aux amortissements et aux
 provisions pour dépréciation constatées au cours de l'exercice, par poste de
 bilan. Elles indiquent également, par poste du bilan, le montant brut, le
 montant cumulé des amortissements et des provisions pour dépréciation à la
 clôture et le montant net inscrit au bilan.
 
-1.3. Les institutions et les unions établissent un état détaillé et un état
+1. 3. Les institutions et les unions établissent un état détaillé et un état
 récapitulatif de l'ensemble des placements inscrits à leur bilan.L'état
 récapitulatif figure obligatoirement dans l'annexe.
 
@@ -90,8 +90,8 @@ l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annue
 comptes, qui en vérifient la sincérité et la concordance avec les comptes
 annuels dans les conditions définies au troisième alinéa de l'article L. 823-10
 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne
-qui en fait la demande et à l'Autorité de contrôle instituée par l'article L.
-951-1 dans les conditions définies à l'article R. 931-11-8.
+qui en fait la demande et à l'Autorité de contrôle prudentiel dans les
+conditions définies à l'article R. 931-11-8.
 
 A.-L'état détaillé comporte :
 
@@ -377,11 +377,11 @@ c) Le solde non encore amorti ou non encore repris correspondant à la différen
 sur prix de remboursement des titres, évalués conformément à l'article R.
 931-10-40.
 
-1.4. Les institutions et les unions indiquent la ventilation selon leur durée
+1. 4. Les institutions et les unions indiquent la ventilation selon leur durée
 résiduelle, en distinguant les tranches jusqu'à un an, de un jusqu'à cinq ans,
 au-delà de cinq ans, de leurs créances et dettes.
 
-1.5. Les institutions et les unions indiquent :
+1. 5. Les institutions et les unions indiquent :
 
 -le montant des participations et parts détenues dans des entreprises
 d'assurance liées ;
@@ -400,7 +400,7 @@ l'institution ou l'union soit en mesure de justifier le préjudice grave qui
 pourrait résulter de leur divulgation. Il est alors fait mention du caractère
 incomplet des informations figurant sur la liste.
 
-1.6. En ce qui concerne les opérations se rapportant à des entreprises liées et
+1. 6. En ce qui concerne les opérations se rapportant à des entreprises liées et
 à des entreprises avec lesquelles existe un lien de participation, les
 institutions et les unions indiquent, séparément pour chacune de ces deux
 catégories, le montant des parts détenues dans ces entreprises (actions et
@@ -410,7 +410,7 @@ créances et dettes nées d'opérations directes, en distinguant les créances o
 dettes sur les preneurs d'assurance et les créances ou dettes sur les
 intermédiaires.
 
-1.7. En ce qui concerne les passifs subordonnés, les institutions et les unions
+1. 7. En ce qui concerne les passifs subordonnés, les institutions et les unions
 mentionnent :
 
 a) Pour chaque dette, matérialisée ou non par un titre, représentant plus de 10
@@ -430,7 +430,7 @@ que les conditions prévues par ces stipulations ;
 b) Pour les autres dettes subordonnées, les modalités qui les régissent de
 manière globale et leur répartition par nature de dette.
 
-1.8. Les institutions et les unions fournissent :
+1. 8. Les institutions et les unions fournissent :
 
 a) La ventilation des réserves en distinguant les réserves statutaires et
 chacune des réserves réglementaires et la réserve de l'action sociale des autres
@@ -445,15 +445,15 @@ cours de l'exercice, notamment les réserves incorporées au fonds d'établissem
 ou les augmentations de fonds d'établissement ou de fonds de développement ou
 les montants affectant la réserve de l'action sociale.
 
-1.9. Les institutions et les unions fournissent le montant des frais
+1. 9. Les institutions et les unions fournissent le montant des frais
 d'établissement, ventilés selon leur nature, des frais de développement, de la
 valeur d'achat des fonds commerciaux et des autres actifs incorporels.
 
-1.10. Les institutions et les unions doivent indiquer, dès lors qu'il est
+1. 10. Les institutions et les unions doivent indiquer, dès lors qu'il est
 important, le montant des provisions pour risques en cours.L'appréciation de
 l'importance du montant s'effectue globalement.
 
-1.11. Les institutions et les unions précisent :
+1. 11. Les institutions et les unions précisent :
 
 a) Dès lors qu'il est significatif, le montant des recours à recevoir déduits
 des provisions pour sinistres à payer.L'appréciation du caractère significatif
@@ -479,26 +479,26 @@ EXERCICE DE SURVENANCE
 
 19....
 
-(n - 4)
+(n-4)
 
 19....
 
-(n - 3)
+(n-3)
 
 19....
 
-(n - 2)
+(n-2)
 
 19....
 
-(n - 1)
+(n-1)
 
 19....
 
 n
 
 
-Inventaire N - 2
+Inventaire N-2
 
 Règlements
 
@@ -510,10 +510,10 @@ Total sinistres
 
 Cotisations acquises
 
-Pourcentage sinistres/cotisations acquises
+Pourcentage sinistres / cotisations acquises
 
 
-Inventaire N - 1
+Inventaire N-1
 
 Règlements
 
@@ -525,7 +525,7 @@ Total sinistres
 
 Cotisations acquises
 
-Pourcentage sinistres/cotisations acquises
+Pourcentage sinistres / cotisations acquises
 
 
 Inventaire N
@@ -540,9 +540,9 @@ Total sinistres
 
 Cotisations acquises
 
-Pourcentage sinistres/cotisations acquises
+Pourcentage sinistres / cotisations acquises
 
-1.12. Sont également mentionnés :
+1. 12. Sont également mentionnés :
 
 a) Le montant des actifs ayant fait l'objet d'une clause de réserve de propriété
 ;
@@ -558,7 +558,7 @@ d) Le montant global de la contre-valeur en francs et la composition par devise
 de l'actif et du passif en devises, ainsi que le montant par devises des
 différences de conversion.
 
-1.13. a) Les institutions et les unions indiquent séparément, pour chacun des
+1. 13. a) Les institutions et les unions indiquent séparément, pour chacun des
 postes C2a, C2b, C2c, C2d, C5 et C7 du tableau des engagements reçus et donnés,
 le montant des engagements à l'égard des dirigeants, le montant des engagements
 à l'égard des entreprises liées et le montant des engagements à l'égard des
@@ -567,11 +567,11 @@ entreprises avec lesquelles existe un lien de participation ;
 b) Les institutions et les unions détaillent le montant et la nature des
 engagements donnés au titre de l'action sociale.
 
-1.14. Les institutions de prévoyance membres d'une union d'institutions de
+1. 14. Les institutions de prévoyance membres d'une union d'institutions de
 prévoyance indiquent les risques et engagements qu'elles gèrent pour le compte
 de celle-ci.
 
-1.15. En ce qui concerne les opérations dites de "réassurance finite"
+1. 15. En ce qui concerne les opérations dites de " réassurance finite "
 mentionnées à l'article L. 931-1-1 et des opérations de réassurance purement
 financières, lorsqu'elles ont une importance significative, les institutions de
 prévoyance et leurs unions exerçant une activité d'assurance ou de réassurance
@@ -584,13 +584,13 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 risques assumés par l'institution de prévoyance ou l'union exerçant une activité
 d'assurance ou de réassurance des informations sur les postes du bilan et du
 compte de résultat concernés par ces opérations. Lorsque, pour les contrats de
-réassurance dite "réassurance finite" mentionnée à l'article L. 931-1-1, la
+réassurance dite " réassurance finite " mentionnée à l'article L. 931-1-1, la
 décomposition de la prime entre la composante financière correspondant au dépôt
 et la composante correspondant au transfert significatif de risques d'assurance
 n'a pu être effectuée, l'institution ou l'union indiquera les montants
 comptabilisés dans les postes du bilan et du compte de résultat.
 
-2. Pour le compte de résultat. 2.1. Les institutions et les unions indiquent la
+2. Pour le compte de résultat. 2. 1. Les institutions et les unions indiquent la
 ventilation de l'ensemble des produits et charges des placements (ventilation
 des postes E 2 et E 9 pour les institutions et unions agréées pour pratiquer les
 opérations visées au a de l'article L. 931-1 et des postes F 3 et F 5 pour les
@@ -618,21 +618,21 @@ Revenus des autres placements
 
 Autres revenus financiers (commission, honoraires)
 
-Total (poste E2a et/ou F3a du compte de résultat)
+Total (poste E2a et / ou F3a du compte de résultat)
 
 Frais financiers (commissions, honoraires, intérêts et agios...)
 
 (1) Au sens de l'article 20 du décret du 29 novembre 1983.
 
 Total des autres produits des placements (plus-values, reprises sur
-amortissements ou provisions...) inclus au poste E2 et/ou F3 du compte de
+amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de
 résultat :
 
 Total des autres charges de placements (moins-values, dotations aux
-amortissements et provisions, charges internes...) incluses au poste E9 et/ou F5
-du compte de résultat :
+amortissements et provisions, charges internes...) incluses au poste E9 et / ou
+F5 du compte de résultat :
 
-2.2. Les institutions et unions indiquent la ventilation de l'ensemble des
+2. 2. Les institutions et unions indiquent la ventilation de l'ensemble des
 produits et charges des opérations techniques par catégorie, selon la forme
 définie ci-après.
 
@@ -670,9 +670,9 @@ Poste E6.
 
 Poste E3 diminué du poste E10.
 
-A. - SOLDE DE SOUSCRIPTION
+A.-SOLDE DE SOUSCRIPTION
 
-(1 - 2 - 3 + 4).
+(1-2-3 + 4).
 
 5. Frais d'acquisition
 
@@ -682,7 +682,7 @@ Poste E8a.
 
 Poste E8b et E11 diminués du poste E4.
 
-B. - CHARGES D'ACQUISITION ET DE GESTION NETTES
+B.-CHARGES D'ACQUISITION ET DE GESTION NETTES
 
 (5 + 6).
 
@@ -694,9 +694,9 @@ Poste E2 diminué des postes E9 et E12.
 
 Poste E7.
 
-C. - SOLDE FINANCIER
+C.-SOLDE FINANCIER
 
-(7 - 8).
+(7-8).
 
 9. Cotisations cédées
 
@@ -719,14 +719,14 @@ Poste E7 cession.
 
 Poste E8c cession.
 
-D. - SOLDE DE RÉASSURANCE
+D.-SOLDE DE RÉASSURANCE
 
-(10 + 11 + 12 + 13 - 9).
+(10 + 11 + 12 + 13-9).
 
 
 Résultat technique
 
-A - B + C + D
+A-B + C + D
 
 
 Hors compte
@@ -752,7 +752,7 @@ POSTE CORRESPONDANT AU CR
 
 1. Cotisations acquises
 
-(1a - 1b).
+(1a-1b).
 
 1a. Cotisations
 
@@ -774,9 +774,9 @@ Poste D4a.
 
 Poste D4b, D5 et D9.
 
-A. - SOLDE DE SOUSCRIPTION
+A.-SOLDE DE SOUSCRIPTION
 
-(1 - 2).
+(1-2).
 
 5. Frais d'acquisition
 
@@ -786,7 +786,7 @@ Poste D7a.
 
 Poste D7b et D8 diminués du poste D3.
 
-B. - CHARGES D'ACQUISITION ET DE GESTION NETTES
+B.-CHARGES D'ACQUISITION ET DE GESTION NETTES
 
 (5 + 6).
 
@@ -798,9 +798,9 @@ Poste D2.
 
 Poste D6.
 
-C. - SOLDE FINANCIER
+C.-SOLDE FINANCIER
 
-(7 - 8).
+(7-8).
 
 9. Part des réassureurs dans les cotisations acquises
 
@@ -822,14 +822,14 @@ Poste D6 cession.
 
 Poste D7c cession,
 
-D. - SOLDE DE RÉASSURANCE
+D.-SOLDE DE RÉASSURANCE
 
-(10 + 11 + 12 + 13 - 9).
+(10 + 11 + 12 + 13-9).
 
 
 Résultat technique
 
-A - B + C + D
+A-B + C + D
 
 Hors compte :
 
@@ -874,13 +874,13 @@ garanties accessoires au sens des articles R. 931-2-2 et R. 931-2-3, la mention
 " garanties accessoires " est portée dans l'intitulé de la colonne relative à la
 catégorie concernée.
 
-2.3. Les institutions et les unions décrivent leur action sociale. Elles
+2. 3. Les institutions et les unions décrivent leur action sociale. Elles
 indiquent notamment les produits prélevés sur les opérations Vie et sur les
 opérations Non-vie, les produits des placements, les allocations, attributions
 et frais payés et à payer et les frais de gestion.
 
-2.4. Les institutions membres d'une union d'institutions de prévoyance indiquent
-:
+2. 4. Les institutions membres d'une union d'institutions de prévoyance
+indiquent :
 
 a) Les principaux flux de l'exercice des opérations gérées pour le compte de
 celle-ci ;
@@ -888,7 +888,7 @@ celle-ci ;
 b) L'impact sur leurs états financiers des conventions passées avec cette union,
 notamment pour les fonds gérés pour le compte de celle-ci.
 
-2.5. Les institutions et les unions fournissent également :
+2. 5. Les institutions et les unions fournissent également :
 
 a) La ventilation des charges de personnel selon le modèle suivant :
 
@@ -917,21 +917,21 @@ c) La ventilation des cotisations brutes émises selon le modèle suivant :
 d) Le montant, d'une part, des entrées, d'autre part, des sorties de
 portefeuille.
 
-2.6. Les institutions et les unions indiquent la proportion dans laquelle le
+2. 6. Les institutions et les unions indiquent la proportion dans laquelle le
 résultat de l'exercice a été affecté par des dérogations aux principes généraux
 d'évaluation en application de la règlementation fiscale et l'écart qui en est
 résulté.
 
-2.7. Les institutions et les unions indiquent la différence entre la charge
+2. 7. Les institutions et les unions indiquent la différence entre la charge
 fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale
 déjà payée ou à payer au cours de ces exercices.
 
-2.8. Les institutions et les unions indiquent la ventilation des autres produits
-et autres charges techniques, des produits et charges exceptionnels et des
-produits et charges non techniques.
+2. 8. Les institutions et les unions indiquent la ventilation des autres
+produits et autres charges techniques, des produits et charges exceptionnels et
+des produits et charges non techniques.
 
-2.9. Les institutions et les unions agréées pour pratiquer les opérations visées
-au a de l'article L. 931-1 :
+2. 9. Les institutions et les unions agréées pour pratiquer les opérations
+visées au a de l'article L. 931-1 :
 
 a) Indiquent le détail de la variation des provisions d'assurance vie brutes de
 réassurance entre le bilan d'ouverture et le bilan de clôture, selon le modèle
@@ -958,24 +958,24 @@ DÉSIGNATIONS
 
 EXERCICES (1)
 
-n- 4
+n-4
 
-n- 3
+n-3
 
-n- 2
+n-2
 
-n- 1
+n-1
 
 n
 
-A. - Participation aux résultats totale (poste D6 et E7 du compte de résultat =
-A1 + A2) :
+A.-Participation aux résultats totale (poste D6 et E7 du compte de résultat = A1
++ A2) :
 
 A1 : Participation attribuée (y compris intérêts techniques)
 
 A2 : Variation de la provision pour participation aux excédents
 
-B. - Participation aux résultats des opérations vie visées au (4) :
+B.-Participation aux résultats des opérations vie visées au (4) :
 
 B1 : Provisions mathématiques moyennes (2)
 
@@ -1001,7 +1001,7 @@ des opérations à capital variable.
 
 3. Autres informations.
 
-3.1. Les institutions et les unions mentionnent :
+3. 1. Les institutions et les unions mentionnent :
 
 a) L'effectif moyen du personnel en activité au cours de l'exercice, ventilé par
 catégories professionnelles ;
@@ -1026,27 +1026,27 @@ respectivement à l'ensemble des membres du conseil d'administration, à
 l'ensemble des autres dirigeants ainsi que le montant des engagements pris pour
 le compte de ces personnes au titre d'une garantie quelconque.
 
-3.2.
+3. 2.
 
 Lorsque l'institution de prévoyance ou l'union d'institutions applique l'option
 prévue à l'article R. 931-15-1 du présent code qui lui permet de reporter la
 charge constituée par la dotation à la provision pour risque d'exigibilité, il
 en est fait mention dans les annexes des états financiers. Si ces informations
 sont significatives pour l'organisme concerné, ce dernier doit également
-mentionner les informations suivantes : - le montant de la moins-value latente
-globale nette mentionnée à l'article R. 931-10-15 du présent code ; - le montant
+mentionner les informations suivantes : -le montant de la moins-value latente
+globale nette mentionnée à l'article R. 931-10-15 du présent code ; -le montant
 de la provision pour risque d'exigibilité brute déjà constituée au niveau des
 autres provisions techniques (comptes 3703 et 3723 du plan comptable des
-institutions de prévoyance ou d'unions d'institutions) ; - les hypothèses
+institutions de prévoyance ou d'unions d'institutions) ; -les hypothèses
 relatives à l'évaluation de la duration des passifs définie par l'article A.
 931-10-18-1 du présent code ainsi que les informations sur les événements
 affectant cette duration, si elle était modifiée significativement par rapport à
-l'exercice antérieur ; - le montant de la charge relative à la provision pour
+l'exercice antérieur ; -le montant de la charge relative à la provision pour
 risque d'exigibilité restant à constater en résultat sur les exercices futurs si
 l'option n'avait pas été retenue (compte 379 du plan comptable des institutions
-de prévoyance ou d'unions d'institutions) ; - les informations qualitatives
+de prévoyance ou d'unions d'institutions) ; -les informations qualitatives
 expliquant l'évolution sur l'exercice du solde du compte de dotation à la
-provision pour risque d'exigibilité restant à constater ; - le résultat de
+provision pour risque d'exigibilité restant à constater ; -le résultat de
 l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé
 l'option mentionnée à l'article R. 931-10-15-1 (c'est-à-dire en neutralisant
 l'impact du compte 753 sur le résultat).

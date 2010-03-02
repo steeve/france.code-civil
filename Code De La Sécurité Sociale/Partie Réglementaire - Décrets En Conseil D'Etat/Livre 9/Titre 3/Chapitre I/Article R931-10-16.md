@@ -12,9 +12,9 @@ tenir compte des recours à exercer ; les recours à recevoir font l'objet d'une
 
 Par dérogation aux dispositions du deuxième alinéa du présent article, toute
 institution de prévoyance ou union d'institutions de prévoyance peut, après
-accord de l'Autorité de contrôle instituée à l'article L. 951-1, utiliser des
-méthodes statistiques pour l'estimation des sinistres survenus au cours des deux
-derniers exercices.
+accord de l'Autorité de contrôle prudentiel instituée à l'article L. 951-1,
+utiliser des méthodes statistiques pour l'estimation des sinistres survenus au
+cours des deux derniers exercices.
 
 La provision pour sinistres à payer est complétée par une évaluation des charges
 de gestion qui, compte tenu des éléments déjà inclus dans la provision, doit

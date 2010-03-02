@@ -2,8 +2,9 @@ Article R324-4
 ----
 Lorsqu'elle décide le transfert d'office d'un portefeuille de contrats
 d'assurance conclus sur le territoire d'un ou de plusieurs Etats membres de
-l'Espace économique européen, en application de l'article L. 310-18, l'Autorité
-de contrôle en avise les autorités compétentes de ces différents Etats.
+l'Espace économique européen, en application du 5° de l'article L. 612-33 du
+code monétaire et financier, l'Autorité de contrôle en avise les autorités
+compétentes de ces différents Etats.
 
 Lorsque l'entreprise cessionnaire est originaire d'un Etat membre de l'Espace
 économique européen, l'Autorité de contrôle prudentiel s'assure auprès des

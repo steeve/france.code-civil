@@ -20,4 +20,4 @@ assujettis à des règles prudentielles considérées comme équivalentes par
 l'Autorité de contrôle prudentiel ;
 
 d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord
-de l'Autorité de contrôle mentionnée à l'article L. 951-1.
+de l'Autorité de contrôle prudentiel.

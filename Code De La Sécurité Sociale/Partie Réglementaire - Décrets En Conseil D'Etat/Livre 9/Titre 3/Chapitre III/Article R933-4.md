@@ -2,8 +2,8 @@ Article R933-4
 ----
 Lorsque la méthode décrite à l'article R. 933-3 ne permet pas d'obtenir un
 résultat satisfaisant en raison des structures du groupe concerné, l'Autorité de
-contrôle mentionnée à l'article L. 951-1 est autorisée à appliquer, à titre
-exceptionnel et dérogatoire, l'une des deux méthodes suivantes :
+contrôle prudentiel est autorisée à appliquer, à titre exceptionnel et
+dérogatoire, l'une des deux méthodes suivantes :
 
 1. Méthode n° 1 : déduction et agrégation la solvabilité ajustée de
 l'institution ou de l'union participante est la différence entre :
@@ -33,8 +33,8 @@ totalité dans le calcul de la solvabilité ajustée de l'organisme de référen
 mentionné au 1° de l'article L. 933-2. Toutefois, dans le cas où la
 responsabilité de l'organisme de référence détenant une part de capital est
 limitée, strictement et sans ambiguïté, à cette part de capital, l'Autorité de
-contrôle mentionnée à l'article L. 951-1 peut décider d'admettre que le déficit
-de la filiale est pris en compte sur une base proportionnelle.
+contrôle prudentiel peut décider d'admettre que le déficit de la filiale est
+pris en compte sur une base proportionnelle.
 
 Pour le calcul de la solvabilité ajustée en application de ces deux méthodes,
 les opérations intragroupe sont éliminées d'une manière équivalente à celle

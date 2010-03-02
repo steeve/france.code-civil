@@ -1,7 +1,7 @@
 Article R323-10-3
 ----
 I. ― L'Autorité de contrôle peut limiter la réduction de marge de solvabilité
-prévue au cinquième alinéa du a de l'article R. 334-26 et au cinquième alinéa du
+prévue au septième alinéa du a de l'article R. 334-27 et au cinquième alinéa du
 b du même article lorsque :
 
 Le contenu ou la qualité du programme de réassurance a subi des modifications

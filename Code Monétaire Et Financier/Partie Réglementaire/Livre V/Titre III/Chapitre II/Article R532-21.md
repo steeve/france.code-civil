@@ -1,17 +1,17 @@
 Article R532-21
 ----
 Sauf dans le cas où l'Autorité de contrôle prudentiel ou l'Autorité des marchés
-financiers établissent, le cas échéant compte tenu des informations fournies par
-la Commission bancaire, que les structures administratives ou la situation
+financiers établissent que les structures administratives ou la situation
 financière du prestataire de services d'investissement ne permettent pas
 l'établissement d'une succursale, l'Autorité de contrôle prudentiel transmet la
 notification et les éléments d'information mentionnés aux 2°, 3° et 4° de
 l'article R. 532-20 à l'autorité de l'Etat d'accueil mentionné au 1° de
 l'article R. 532-20 qui a été désignée comme point de contact au sens de
-l'article L. 532-23 dans les trois mois suivant leur réception. Le comité
-transmet également à cette autorité des précisions sur le dispositif
-d'indemnisation, ou de protection équivalente, des clients de la succursale. Il
-en avise l'Autorité des marchés financiers ainsi que le prestataire concerné.
+l'article L. 532-23 dans les trois mois suivant leur réception.L'Autorité de
+contrôle prudentiel transmet également à cette autorité des précisions sur le
+dispositif d'indemnisation, ou de protection équivalente, des clients de la
+succursale. Il en avise l'Autorité des marchés financiers ainsi que le
+prestataire concerné.
 
 Outre les informations mentionnées à l'article R. 532-20, l'Autorité de contrôle
 prudentiel communique à l'autorité de l'Etat d'accueil désignée comme point de

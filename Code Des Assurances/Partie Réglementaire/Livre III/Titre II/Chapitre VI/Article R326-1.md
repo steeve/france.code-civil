@@ -3,11 +3,11 @@ Article R326-1
 I. - En cas de retrait de l'agrément administratif accordé à une entreprise
 mentionnée à l'article L. 310-1 et dans un délai de vingt jours à compter du
 lendemain du jour de la publication au Journal officiel de la République
-française de la décision du comité des entreprises d'assurance ou de l'Autorité
-de contrôle des assurances et des mutuelles prononçant le retrait d'agrément,
-chaque souscripteur de contrat est avisé de ce retrait d'agrément par le
-liquidateur ou, en attendant la désignation du liquidateur, par la personne qui
-était investie dans l'entreprise des pouvoirs de direction générale ou par son
+française de la décision du collège de l'Autorité de contrôle prudentiel ou de
+sa commission des sanctions prononçant le retrait d'agrément, chaque
+souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur
+ou, en attendant la désignation du liquidateur, par la personne qui était
+investie dans l'entreprise des pouvoirs de direction générale ou par son
 représentant.
 
 Cet avis, qui rappelle la législation applicable, est adressé par lettre

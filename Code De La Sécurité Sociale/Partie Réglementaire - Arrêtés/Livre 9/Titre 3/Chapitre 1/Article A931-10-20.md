@@ -1,9 +1,9 @@
 Article A931-10-20
 ----
-Pour l'application de l'article R. 931-10-44, l'Autorité de contrôle instituée
-par l'article L. 951-1 notifie à l'institution ou à l'union, par lettre
-recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et
-le nom de l'expert qu'elle a choisi pour chacun d'eux.
+Pour l'application de l'article R. 931-10-44, l'Autorité de contrôle prudentiel
+notifie à l'institution ou à l'union, par lettre recommandée, la liste des
+éléments de l'actif dont la valeur est à expertiser et le nom de l'expert
+qu'elle a choisi pour chacun d'eux.
 
 Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre,
 l'institution ou l'union fait connaître à l'Autorité de contrôle, par lettre

@@ -6,8 +6,7 @@ vertu de l'article L. 310-1 ou du 1° du III de l'article L. 310-1-1 :
 
 1° De méconnaître les obligations ou interdiction résultant des articles R.
 321-17-1, R. 321-28, R. 322-3, R. 322-8 (1er alinéa), R. 322-73 (1er alinéa), R.
-323-8 (dernier alinéa), R. 323-10-6 (dernier alinéa), R. 326-1, R. 331-1, R.
-332-1, R. 332-13-2 et R. 332-38 ;
+326-1, R. 331-1, R. 332-1, R. 332-13-2 et R. 332-38 ;
 
 2° De ne pas produire un programme de rétablissement, un plan de redressement ou
 un plan de financement à court terme prescrits conformément aux dispositions des

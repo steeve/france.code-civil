@@ -1,7 +1,7 @@
 Article R423-13
 ----
 Sous réserve des dispositions de l'article R. 423-15, le fonds doit disposer en
-permanence d'un montant global de ressources égal à 0,05 % du total des
+permanence d'un montant global de ressources égal à 0, 05 % du total des
 provisions mathématiques constatées au 31 décembre de l'année précédente pour
 l'ensemble des entreprises mentionnées à l'article L. 423-1. Le montant global
 est constitué par les entreprises adhérentes, après déduction des ressources
@@ -35,9 +35,10 @@ au fonds leur cotisation à compter de la réception de la notification prévue 
 deuxième alinéa. Le fonds de garantie informe l'autorité de contrôle de tout
 retard de versement de plus d'un mois ou de tout refus de versement d'une
 entreprise d'assurance, afin que l'autorité mette en oeuvre, le cas échéant, les
-procédures de sanctions prévues à l'article L. 310-18. L'autorité peut également
-engager une procédure de sanction si elle constate que l'entreprise n'a pas doté
-la réserve pour fonds de garantie du montant prévu.
+procédures de sanctions prévues à la section 7 du chapitre II du titre Ier du
+livre VI du code monétaire et financier.L'autorité peut également engager une
+procédure de sanction si elle constate que l'entreprise n'a pas doté la réserve
+pour fonds de garantie du montant prévu.
 
 Les cotisations versées au fonds de garantie par les entreprises dont l'adhésion
 au fonds a pris fin ne peuvent faire l'objet d'un reversement par celui-ci.

@@ -32,9 +32,9 @@ l'exigence de marge de solvabilité ou de la marge de solvabilité, le montant l
 plus faible étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui
 proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
 concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 510-11, donner lieu à
-application de sanctions par l'Autorité de contrôle mentionnée à l'article L.
-510-1 ;
+peut, conformément aux dispositions de la section 6 et de la section 7 du
+chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu
+à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel.
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée
@@ -58,19 +58,9 @@ n'ont pas un caractère exceptionnel ;
 aux articles R. 212-70 et R. 212-71, dès lors que les opérations correspondantes
 sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article
 R. 212-31 ou réalisées de gré à gré dans la mesure où elles sont garanties dans
-les conditions prévues à l'article R. 212-81 ;
-
-4. Jusqu'au 31 décembre 2009, un montant représentant 50 % des excédents futurs
-de la mutuelle ou l'union, mais n'excédant pas 25 % de l'exigence de marge de
-solvabilité ou de la marge de solvabilité disponible, le montant le plus faible
-étant retenu. Le montant des excédents futurs est obtenu en multipliant le
-bénéfice annuel estimé de la mutuelle ou de l'union par le facteur qui
-représente la durée résiduelle moyenne des garanties prévues dans les bulletins
-d'adhésion ou contrats collectifs.
-
-Un arrêté du ministre chargé de la mutualité fixe les modalités de calcul du
-facteur mentionné à l'alinéa précédent ainsi que les éléments constitutifs du
-bénéfice annuel estimé.
+les conditions prévues à l'article R. 212-81 ; les moins-values latentes sur
+instruments financiers à terme non provisionnées sont déduites de ces
+plus-values ;
 
 Les moins-values latentes sur instruments financiers à terme non provisionnées
 sont déduites des éléments énumérés aux 3 et 4 du III.

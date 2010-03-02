@@ -1,11 +1,11 @@
 Article R351-2
 ----
-I. - En application de l'article L. 351-4, une entreprise d'assurance ayant son
+I.-En application de l'article L. 351-4, une entreprise d'assurance ayant son
 siège dans un Etat non communautaire membre de l'Espace économique européen ne
 peut couvrir, sur le territoire de la République française, des grands risques
 en libre prestation de services qu'à partir du moment où elle a reçu de
-l'Autorité de contrôle prudentiel un document attestant qu'il est en possession
-des documents suivants, que l'entreprise doit lui adresser :
+l'Autorité de contrôle prudentiel un document attestant qu'elle est en
+possession des documents suivants, que l'entreprise doit lui adresser :
 
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du
 siège social énumérant les branches que l'entreprise est habilitée à pratiquer
@@ -33,7 +33,7 @@ française, les risques de responsabilité civile résultant de l'emploi de
 véhicules terrestres à moteur autre que la responsabilité civile du
 transporteur.
 
-II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat non
+II.-Lorsqu'une entreprise d'assurance ayant son siège dans un Etat non
 communautaire membre de l'Espace économique européen et couvrant sur le
 territoire de la République française des grands risques en libre prestation de
 services entend étendre son activité à des branches ou sous-branches qui

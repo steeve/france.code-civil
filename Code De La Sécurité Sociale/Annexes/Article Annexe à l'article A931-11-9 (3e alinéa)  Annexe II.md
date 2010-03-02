@@ -135,13 +135,12 @@ depuis le précédent inventaire ; les plus et moins-values constatées à cette
 occasion sont portées aux comptes 7642 et 6642.
 
 4. 3. Régime dérogatoire. Lorsqu'une institution ou une union en fait la
-demande, l'Autorité de contrôle instituée par l'article L. 951-1 peut la
-dispenser de l'utilisation de sous-compte d'attente si elle estime que ladite
-institution ou union dispose des moyens techniques et des procédures internes
-garantissant une stricte congruence à tout moment, sans excédent ni déficit, du
-portefeuille d'actifs inscrits en compte 24 avec les engagements en unités de
-compte, ainsi que la correcte passation des écritures comptables dans les
-conditions définies ci-après.
+demande, l'Autorité de contrôle prudentiel peut la dispenser de l'utilisation de
+sous-compte d'attente si elle estime que ladite institution ou union dispose des
+moyens techniques et des procédures internes garantissant une stricte congruence
+à tout moment, sans excédent ni déficit, du portefeuille d'actifs inscrits en
+compte 24 avec les engagements en unités de compte, ainsi que la correcte
+passation des écritures comptables dans les conditions définies ci-après.
 
 L'institution ou l'union ayant obtenu une telle dispense n'est pas soumise aux
 dispositions du 4. 1 et du 4. 2 ci-dessus.
@@ -172,11 +171,11 @@ Les titres et parts virés au compte 24 entrent à ce compte à leur valeur de
 réalisation du jour ; les plus et moins-values constatées à cette occasion sont
 passées respectivement aux comptes 7642 et 6642.
 
-Lorsque l'Autorité de contrôle instituée par l'article L. 951-1 constate que les
-procédures internes ou les moyens mis en oeuvre ne répondent plus ou s'avèrent
-en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle
-notifie à l'institution ou l'union le retrait de la dispense et l'obligation de
-rétablir, dans le délai qu'elle fixe, l'utilisation des sous-comptes d'attente.
+Lorsque l'Autorité de contrôle prudentiel constate que les procédures internes
+ou les moyens mis en oeuvre ne répondent plus ou s'avèrent en pratique
+insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
+l'institution ou l'union le retrait de la dispense et l'obligation de rétablir,
+dans le délai qu'elle fixe, l'utilisation des sous-comptes d'attente.
 
 4. 4. Réestimation à l'inventaire des actifs inscrits en compte 24. Après
 réalisation des opérations prévues au 2 ci-dessus ou, pour les institutions ou

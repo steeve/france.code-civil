@@ -11,8 +11,8 @@ bulletin d'adhésion à un règlement ou par contrat, notifie à l'organisme
 cessionnaire le montant de la somme qui lui est due et qu'il lui verse en une
 seule fois.
 
-A titre exceptionnel, l'Autorité de contrôle peut, sur la demande du fonds
-paritaire de garantie, lui accorder une prolongation, qui ne saurait être
+A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du
+fonds paritaire de garantie, lui accorder une prolongation, qui ne saurait être
 supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Les sommes dues par le fonds paritaire de garantie et non versées portent
