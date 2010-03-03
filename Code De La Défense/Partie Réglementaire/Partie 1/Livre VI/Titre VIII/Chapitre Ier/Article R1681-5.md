@@ -1,8 +1,8 @@
 Article R1681-5
 ----
-La préparation et l'exécution des mesures non militaires de défense incombent
-aux préfets ou hauts commissaires, dans le cadre des directives du haut
-fonctionnaire de zone de défense et de sécurité.
+La préparation et l'exécution des sécurité intérieure et sécurité civile
+incombent aux préfets ou hauts commissaires, dans le cadre des directives du
+haut fonctionnaire de zone de défense et de sécurité.
 
 Les préfets ou hauts commissaires communiquent directement avec les commandants
 supérieurs ou les commandants militaires départementaux ou territoriaux. Ils les

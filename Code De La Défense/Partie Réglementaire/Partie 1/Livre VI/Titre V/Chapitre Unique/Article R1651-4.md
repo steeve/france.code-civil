@@ -12,7 +12,7 @@ régie par les dispositions des articles R. 1681-2 à R. 1681-5 ;
 
 3° Au livre III :
 
-a) Les dispositions relatives à la mise en oeuvre de la défense économique
+a) Les dispositions relatives à la mise en oeuvre de la sécurité économique
 s'appliquent sous réserve des mesures d'adaptation nécessitées par
 l'organisation particulière de la Polynésie française ;
 

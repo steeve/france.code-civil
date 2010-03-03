@@ -2,10 +2,10 @@ Article R1682-3
 ----
 Le préfet ou le représentant de l'Etat est responsable de la préparation et de
 l'exécution des plans et des mesures de défense dans le domaine économique selon
-les instructions du haut fonctionnaire de zone de défense.
+les instructions du haut fonctionnaire de zone de défense et de sécurité.
 
-Il est assisté à cet effet d'une commission de défense économique placée sous sa
-présidence ou celle de son suppléant en cas d'absence ou d'empêchement.
+Il est assisté à cet effet d'une commission de sécurité économique placée sous
+sa présidence ou celle de son suppléant en cas d'absence ou d'empêchement.
 
 Le commandant militaire du département ou de la collectivité territoriale en est
 membre de droit.
