@@ -8,7 +8,7 @@ mentionnées à l'article R. 1142-36 sont coordonnées, préparées et exécuté
 les conditions prévues aux articles R. 1682-2 à R. 1682-6 ;
 
 2° L'organisation territoriale et opérationnelle de la défense est régie par les
-dispositions des articles R. 1681-2 à R. 1681-6 ;
+dispositions des articles R. 1681-2 à R. 1681-5 ;
 
 3° A l'article R. 1332-13, les mots : " les préfets de département " et à
 l'article R. 1332-15 les mots : " un préfet de département " sont remplacés par
