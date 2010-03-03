@@ -1,10 +1,15 @@
 Article R1312-6
 ----
-Après avis favorable du préfet de zone, un correspondant de zone est désigné, en
-tant que de besoin, par le directeur général de chacun des établissements
-publics et organismes rattachés fonctionnant dans la zone.
+Après avis favorable du préfet de zone de défense et de sécurité, un
+correspondant de zone est désigné, en tant que de besoin, par le directeur
+général de chacun des établissements publics et organismes rattachés ainsi que
+par les opérateurs chargés d'une mission de service public fonctionnant dans la
+zone.
 
-Le correspondant de zone apporte au délégué de zone compétent un concours
-permanent pour la préparation et la mise en oeuvre des mesures de défense qui
-relèvent des attributions et responsabilités de l'établissement ou organisme
-intéressé.
+Chaque correspondant de zone de défense et de sécurité apporte au délégué de
+zone de défense et de sécurité représentant le département ministériel concerné
+par l'activité de l'établissement public, de l'organisme rattaché ou de
+l'opérateur considéré, en tant que de besoin, son concours pour la préparation
+et la mise en œuvre des mesures de sécurité nationale qui relèvent des
+attributions, des responsabilités et de l'activité de l'établissement, de
+l'organisme ou de l'opérateur intéressé.

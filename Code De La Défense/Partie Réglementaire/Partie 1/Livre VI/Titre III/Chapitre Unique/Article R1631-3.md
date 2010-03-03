@@ -6,8 +6,9 @@ Sont applicables à Mayotte, sous réserve des adaptations prévues aux articles
 1° Au livre Ier, les dispositions des article R. 1132-12 à R. 1132-33-9, R.
 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ;
 
-2° Au livre III, les dispositions des articles R. 1321-14, R. 1322-1 à R.
-1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R. 1336-38, R. 1337-1 à R. 1338-5 ;
+2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R.
+1321-14, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R. 1336-38,
+R. 1337-1 à R. 1338-5 ;
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ;
 

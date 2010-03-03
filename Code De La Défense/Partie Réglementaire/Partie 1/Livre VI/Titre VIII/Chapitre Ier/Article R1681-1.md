@@ -5,4 +5,4 @@ d'outre-mer, à Mayotte, dans les îles Wallis-et-Futuna, en Polynésie françai
 en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
 
 Elles ne s'appliquent pas à Saint-Pierre-et-Miquelon en l'absence de zone de
-défense.
+défense et de sécurité.

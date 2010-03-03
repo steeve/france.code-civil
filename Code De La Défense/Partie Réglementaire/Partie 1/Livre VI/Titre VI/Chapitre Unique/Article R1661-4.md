@@ -8,7 +8,7 @@ préparées et exécutées dans les conditions prévues aux articles R. 1682-2 �
 1682-6 ;
 
 2° Au livre II, l'organisation territoriale et opérationnelle de la défense est
-régie par les dispositions des articles R. 1681-2 à R. 1681-6 ;
+régie par les dispositions des articles R. 1681-2 à R. 1681-5 ;
 
 3° Au livre III :
 
@@ -41,4 +41,9 @@ mots : " et du ministre chargé des transports " sont remplacés par les mots : 
 du ministre chargé des transports et du ministre chargé de l'outre-mer " ;
 
 g) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est
-remplacé par sa contrepartie en francs CFP.
+remplacé par sa contrepartie en francs CFP ;
+
+h) Les dispositions relatives à la mise en œuvre de la sécurité nationale dans
+les secteurs relevant de la compétence de la Nouvelle-Calédonie s'appliquent
+sous réserve des mesures d'adaptation nécessitées par l'organisation
+particulière du territoire.
