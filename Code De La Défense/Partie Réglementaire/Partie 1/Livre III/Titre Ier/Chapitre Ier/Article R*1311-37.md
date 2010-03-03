@@ -6,14 +6,13 @@ délégués ou correspondants de ces administrations. Les établissements public
 autres organismes publics de l'Etat l'informent de tout ce qui peut concerner la
 défense dans le département.
 
-2° Le trésorier-payeur général du département est le conseiller permanent du
-préfet pour les questions économiques intéressant la défense.
+2° Le directeur départemental des finances publiques est le conseiller permanent
+du préfet pour les questions économiques intéressant la défense.
 
 3° Le préfet ou, à défaut, le suppléant qu'il désigne préside les commissions
-compétentes en matière de défense de caractère non militaire, à l'exception de
-celles dont la présidence est confiée statutairement à un magistrat de l'ordre
-judiciaire ou à un membre d'une juridiction administrative.
+compétentes en matière de sécurité nationale , à l'exception de celles dont la
+présidence est confiée statutairement à un magistrat de l'ordre judiciaire ou à
+un membre d'une juridiction administrative.
 
 4° Le sous-préfet coordonne sous l'autorité du préfet l'élaboration et
-l'exécution des mesures de défense de caractère non militaire dans son
-arrondissement.
+l'exécution des mesures de sécurité nationale dans son arrondissement.

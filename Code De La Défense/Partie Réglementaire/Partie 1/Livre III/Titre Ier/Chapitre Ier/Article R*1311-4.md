@@ -1,9 +1,5 @@
 Article R*1311-4
 ----
-Le préfet de zone dirige l'action des préfets de région et de département ainsi
-que celle des délégués de zone des services déconcentrés des administrations
-civiles en ce qui concerne les mesures non militaires de défense.
-
-Il veille à la continuité des relations de l'Etat avec les responsables des
-établissements et organismes publics et les opérateurs chargés d'une mission de
-service public.
+Le préfet de zone de défense et de sécurité dirige l'action des préfets de
+région et de département en ce qui concerne la préparation et la mise en œuvre
+des mesures relatives à la sécurité intérieure et à la sécurité civile.

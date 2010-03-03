@@ -11,6 +11,6 @@ Le préfet, qui dispose en tant que de besoin des services des collectivités
 territoriales, reçoit, sur sa demande, du président du conseil général et des
 maires toutes informations qu'il estime nécessaires à l'exercice de ses
 attributions de défense. Il est seul habilité à conclure au nom de l'Etat les
-conventions nécessaires à la mise en oeuvre des obligations non militaires de
-défense imposées aux collectivités territoriales, à leurs groupements et à leurs
-établissements publics.
+conventions nécessaires à la mise en oeuvre des obligations liées à la sécurité
+nationale imposées aux collectivités territoriales, à leurs groupements et à
+leurs établissements publics.

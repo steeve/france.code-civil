@@ -1,6 +1,9 @@
 Article R*1311-28
 ----
-Des arrêtés conjoints du ministre de la défense, du ministre de l'intérieur et,
-le cas échéant, du ou des ministres intéressés fixent les conditions dans
-lesquelles des personnels civils et militaires sont mis à la disposition du
-préfet de zone en vue d'assurer le fonctionnement de l'état-major de zone.
+Le Premier ministre arrête les conditions dans lesquelles des personnels civils
+et militaires des ministères de l'intérieur, de la défense, de la santé, de
+l'économie, de l'industrie, du budget, de l'agriculture, des transports, de
+l'environnement, de l'énergie et de l'aménagement du territoire sont mis à la
+disposition du préfet de zone de défense et de sécurité en vue d'assurer le
+fonctionnement de l'état-major interministériel de zone de défense et de
+sécurité.

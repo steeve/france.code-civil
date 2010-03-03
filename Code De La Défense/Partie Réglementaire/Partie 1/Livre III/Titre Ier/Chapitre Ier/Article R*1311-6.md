@@ -5,8 +5,8 @@ signature des ministres concernés l'extension des pouvoirs des préfets de zone
 dans les circonstances mettant en cause la sûreté de l'Etat sur tout ou partie
 du territoire.
 
-Cette extension prend effet sur décision du Premier ministre. Elle peut porter
-sur les matières suivantes :
+Cette extension est arrêtée par le Premier ministre. Elle peut porter sur les
+matières suivantes :
 
 1° Autorité hiérarchique en toute matière sur les préfets en fonctions dans la
 zone ;
