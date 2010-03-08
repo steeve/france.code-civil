@@ -33,6 +33,12 @@ la déclaration prévue au 1 de l'article 287, qui doit être déposée au titre
 la période concernée, entraîne l'application d'une amende égale à 5 % de la
 somme déductible.
 
+Toutefois, lorsque l'opération mentionnée au premier alinéa est une livraison à
+soi-même de biens prévue par l'article 257, le montant de l'amende est multiplié
+par le rapport entre les coûts ou les dépenses non grevés de taxe sur la valeur
+ajoutée figurant dans la base d'imposition de la livraison à soi-même telle
+qu'elle résulte de l'article 266 et la totalité de cette base d'imposition.
+
 5. Les infractions prévues aux 1 à 3 peuvent être constatées par la direction
 générale des impôts ou la direction générale des douanes et droits indirects.
 

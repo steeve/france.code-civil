@@ -1,6 +1,6 @@
 Article 289
 ----
-I.-1. Tout assujetti est tenu de s'assurer qu'une facture est émise, par
+I. - 1. Tout assujetti est tenu de s'assurer qu'une facture est émise, par
 lui-même, ou en son nom et pour son compte, par son client ou par un tiers :
 
 a. Pour les livraisons de biens ou les prestations de services qu'il effectue
@@ -45,17 +45,17 @@ facture. Il doit comporter l'ensemble des mentions prévues au II.
 Un décret en Conseil d'Etat détermine et fixe les conditions et modalités
 d'application du présent I.
 
-II.-Un décret en Conseil d'Etat fixe les mentions obligatoires qui doivent
+II. - Un décret en Conseil d'Etat fixe les mentions obligatoires qui doivent
 figurer sur la facture. Ce décret détermine notamment les éléments
 d'identification des parties, les données concernant les biens livrés ou les
 services rendus et celles relatives à la détermination de la taxe sur la valeur
 ajoutée.
 
-III.-L'entraîneur bénéficiaire des sommes mentionnées au 19° de l'article 257
-s'assure qu'une facture est émise au titre des gains réalisés et y ajoute le
-montant de la taxe sur la valeur ajoutée.
+III. - L'entraîneur bénéficiaire des sommes mentionnées au 4° du III de
+l'article 257 s'assure qu'une facture est émise au titre des gains réalisés et y
+ajoute le montant de la taxe sur la valeur ajoutée.
 
-IV.-Les montants figurant sur la facture peuvent être exprimés dans toute
+IV. - Les montants figurant sur la facture peuvent être exprimés dans toute
 monnaie, pour autant que le montant de taxe à payer soit déterminé en euros en
 utilisant le mécanisme de conversion prévu au 1 bis de l'article 266.
 
@@ -63,7 +63,7 @@ Lorsqu'elle est rédigée dans une langue étrangère, le service des impôts pe
 des fins de contrôle, exiger une traduction en français, dans les conditions
 prévues au deuxième alinéa de l'article 54.
 
-V.-Les factures peuvent, sous réserve de l'acceptation du destinataire, être
+V. - Les factures peuvent, sous réserve de l'acceptation du destinataire, être
 transmises par voie électronique dès lors que l'authenticité de leur origine et
 l'intégrité de leur contenu sont garanties au moyen d'une signature
 électronique. Les factures ainsi transmises tiennent lieu de facture d'origine

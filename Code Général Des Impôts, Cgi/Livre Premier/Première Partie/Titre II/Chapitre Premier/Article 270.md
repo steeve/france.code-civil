@@ -7,12 +7,9 @@ Elle frappe les sommes imposables et l'ensemble des éléments servant à la
 liquidation de la taxe arrondis à l'euro le plus proche ; la fraction d'euro
 égale à 0,50 étant comptée pour 1.
 
-II. La liquidation de la taxe exigible au titre des livraisons à soi-même
-mentionnées au 7° ter de l'article 257 peut être effectuée jusqu'au 31 décembre
-de la deuxième année qui suit celle au cours de laquelle est intervenue la mise
-en service des ouvrages concernés, lorsque les éléments constitutifs du prix de
-revient de ces ouvrages ne sont pas tous déterminés à la date de mise en
-service.
-
-La mise en service est, en tout état de cause, déclarée à l'administration dans
-un délai d'un mois (1).
+II.-La liquidation de la taxe exigible au titre des livraisons à soi-même
+mentionnées au a du 1° du 3 du I de l'article 257 peut être effectuée jusqu'au
+31 décembre de la deuxième année qui suit celle au cours de laquelle est
+intervenu l'achèvement de l'immeuble. Elle est déclarée sur la déclaration
+mentionnée à l'article 287 dans les conditions fixées par un décret en Conseil
+d'Etat.

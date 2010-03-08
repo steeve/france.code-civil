@@ -1,6 +1,6 @@
 Article 1042
 ----
-I - Sous réserve des dispositions de l'article 257 7°, les acquisitions
+I - Sous réserve des dispositions de l'article 257 I, les acquisitions
 immobilière faites à l'amiable et à titre onéreux par les communes ou syndicats
 de communes, les établissements publics fonciers créés en application des
 articles L. 324-1 et suivants du code de l'urbanisme, les départements, les

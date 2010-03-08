@@ -50,8 +50,8 @@ sauvetage et d'assistance en mer ;
 
 3° Les opérations de livraison, de location, de réparation et d'entretien
 portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés
-pour leur exploitation en mer ou sur les fleuves internationaux, ainsi que sur
-les engins et filets pour la pêche maritime ;
+pour leur exploitation en mer, ainsi que sur les engins et filets pour la pêche
+maritime ;
 
 4° Les opérations de livraison, de transformation, de réparation, d'entretien,
 d'affrètement et de location portant sur les aéronefs utilisés par des

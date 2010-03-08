@@ -22,32 +22,22 @@ manière continue sur une période supérieure à une année et qui ne donnent p
 lieu à des décomptes ou à des paiements durant cette période, à l'expiration de
 chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
 
-b) Pour les livraisons à soi-même entrant dans le champ d'application du 7° de
-l'article 257, au moment de la livraison qui doit intervenir, au plus tard, lors
-du dépôt à la mairie de la déclaration prévue par la réglementation relative au
-permis de construire ;
+b) Pour les livraisons à soi-même d'immeubles visées au I de l'article 257, au
+moment de la livraison qui intervient lors du dépôt à la mairie de la
+déclaration prévue par la réglementation relative au permis de construire ;
 
-c) Pour les mutations à titre onéreux ou les apports en société entrant dans le
-champ d'application du 7° de l'article 257, à la date de l'acte qui constate
-l'opération ou, à défaut, au moment du transfert de propriété ;
+c) (Abrogé) ; d) Pour les livraisons à soi-même de travaux immobiliers visées au
+b du 1° du 3 du I de l'article 257, au moment de l'achèvement de l'ensemble des
+travaux. Toutefois, par dérogation au précédent alinéa, le fait générateur de la
+taxe intervient au dernier jour de chaque trimestre pour les livraisons à
+soi-même de travaux d'entretien effectués au cours de ce trimestre.
 
-d) Pour les livraisons à soi-même mentionnées au 7° bis de l'article 257, au
-moment de l'achèvement de l'ensemble des travaux et au plus tard dans les deux
-ans de la date de la décision favorable du représentant de l'Etat.
-
-Toutefois, par dérogation au premier alinéa, le fait générateur de la taxe
-intervient au dernier jour de chaque trimestre civil pour les livraisons à
-soi-même de travaux d'entretien mentionnés au c et au d du 7° bis, au 7° quater,
-au 7° quinquies et au 7° sexies de l'article 257 effectués au cours de ce
-trimestre ;
-
-e) Pour les livraisons à soi-même mentionnées au 7° ter de l'article 257, au
-moment de la mise en service.
+e) (Abrogé).
 
 2. La taxe est exigible :
 
 a) Pour les livraisons et les achats visés au a du 1 et pour les opérations
-mentionnées aux b, c, d et e du 1, lors de la réalisation du fait générateur ;
+mentionnées aux b et d du même 1, lors de la réalisation du fait générateur ;
 
 Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de
 biens similaires donnant lieu à des décomptes ou à des encaissements successifs,
@@ -56,8 +46,11 @@ elle intervient en tout état de cause dès la perception d'acomptes et à
 concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du
 fait générateur ou du débit ;
 
-b) Pour les livraisons de viandes prévues au 9° de l'article 257, lors du
-premier enlèvement en suite d'abattage ;
+a bis) Pour les livraisons d'immeubles à construire, lors de chaque versement
+des sommes correspondant aux différentes échéances prévues par le contrat en
+fonction de l'avancement des travaux ;
+
+b) (Abrogé) ;
 
 b bis) Pour les prestations de services pour lesquelles la taxe est due par le
 preneur en application du 2 de l'article 283, lors du fait générateur, ou lors
@@ -73,6 +66,10 @@ paiement de l'effet par le client.
 Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les
 livraisons.
+
+c bis) Pour le bail à construction, lors de sa conclusion s'agissant de la
+valeur du droit de reprise visée au 5 de l'article 266 et, s'il y a lieu, lors
+de l'encaissement pour les loyers ;
 
 d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
 cours duquel s'est produit le fait générateur.

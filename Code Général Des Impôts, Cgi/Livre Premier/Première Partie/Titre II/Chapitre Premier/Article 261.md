@@ -30,9 +30,9 @@ frais par un procédé frigorifique) ;
 
 3. (Biens usagés) :
 
-1° a. Sous réserve, le cas échéant, des dispositions des 13° et 15° de l'article
-257, les ventes de biens usagés faites par les personnes qui les ont utilisés
-pour les besoins de leurs exploitations.
+1° a. Sous réserve, le cas échéant, des dispositions des 1° et 2° du III de
+l'article 257, les ventes de biens usagés faites par les personnes qui les ont
+utilisés pour les besoins de leurs exploitations.
 
 Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à
 déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur
@@ -144,80 +144,9 @@ code des postes et communications électroniques, effectuées par le prestataire
 en France du service universel postal tel que désigné à l'article L. 2 du même
 code.
 
-5. (Opérations immobilières) :
-
-1° lorsqu'elles n'entrent pas dans le champ d'application du 7° de l'article 257
-:
-
-a. les opérations de vente effectuées par les départements, communes et
-établissements publics et relatives à des terrains leur appartenant ;
-
-b. les opérations de vente de terrains leur appartenant effectuées sans but
-lucratif par les sociétés coopératives de construction, par les sociétés
-d'économie mixte de construction immobilière dont les statuts sont conformes aux
-clauses types annexées au décret n° 69-295 du 24 mars 1969, par les groupements
-dits de " Castors " dont les membres effectuent des apports de travail, ainsi
-que par les sociétés et organismes à but désintéressé habilités à recevoir la
-contribution des employeurs à l'effort de construction visée à l'article 235 bis
-;
-
-c. (Devenu sans objet) ;
-
-d. (abrogé)
-
-d bis. (abrogé)
-
-e. (Disposition périmée) ;
-
-f. (Abrogé) ;
-
-g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer
-modéré régis par l'article L. 411-2 du code de la construction et de
-l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde
-en application de l'article L. 615-1 du même code ou faisant l'objet d'une
-opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du
-même code par les organismes sans but lucratif visés au 7 du présent article ou
-par les sociétés d'économie mixte exerçant une activité de construction ou de
-gestion de logements sociaux ;
-
-h) Les cessions de parts de sociétés civiles immobilières d'accession
-progressive à la propriété effectuées dans les conditions prévues aux articles
-L. 443-6-2 et suivants du code de la construction et de l'habitation ;
-
-1° bis lorsqu'elles entrent dans le champ d'application du 7° de l'article 257,
-les opérations de remembrement réalisées par les associations foncières urbaines
-en vertu du 1° de l'article L. 322-2 du code de l'urbanisme ou par les
-associations syndicales constituées en application de l'ordonnance n° 58-1145 du
-31 décembre 1958 ;
-
-2° les apports et les cessions de terrains à bâtir effectués par les
-collectivités locales au profit des offices publics de l'habitat et de leurs
-unions, pour les opérations faites en application de la législation sur les
-organismes d'habitations à loyer modéré, ainsi que les apports consentis par les
-collectivités locales à des organismes d'habitations à loyer modéré ou à leurs
-unions, dans la mesure où ces apports sont effectués à titre gratuit.
-
-3° (alinéa devenu sans objet) ;
-
-4° le bail à construction ;
-
-5° (Abrogé) ;
-
-6° les cessions gratuites aux collectivités publiques de terrains classés,
-visées à l'article L. 130-2 du code de l'urbanisme ;
-
-7° les mutations résultant des contrats de location-attribution ou de
-location-vente visés à l'article 1378 quinquies ainsi que les livraisons que les
-sociétés se font à elles-mêmes des immeubles qui sont l'objet de ces contrats ;
-
-8° les livraisons à soi-même d'immeubles construits par les sociétés civiles
-immobilières constituées par les organismes régis par la réglementation sur les
-habitations à loyer modéré en vue de favoriser l'accession à la propriété.
-
-9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les
-ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12
-juillet 1984 définissant la location-accession à la propriété immobilière, de
-logements mentionnés au dixième alinéa du c du 1 du 7° de l'article 257.
+5. (Opérations immobilières) : 1° Les livraisons de terrains qui ne sont pas des
+terrains à bâtir au sens du 1° du 2 du I de l'article 257 ; 2° Les livraisons
+d'immeubles achevés depuis plus de cinq ans.
 
 6. (Abrogé).
 
@@ -254,10 +183,10 @@ remplissent les conditions, sont également exonérés pour leurs autres opérat
 lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au
 cours de l'année civile précédente le montant de 60 000 euros.
 
-Les opérations mentionnées au 7° et au 7° bis de l'article 257 et les opérations
-donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de
-l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en
-compte pour le calcul de la limite de 60 000 euros.
+Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu
+à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219
+bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le
+calcul de la limite de 60 000 euros.
 
 Lorsque la limite de 60 000 euros est atteinte en cours d'année, l'organisme ne
 peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du

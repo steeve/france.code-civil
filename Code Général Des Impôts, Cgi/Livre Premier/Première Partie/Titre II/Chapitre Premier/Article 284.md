@@ -6,35 +6,31 @@ d'un taux réduit est tenue au payement de l'impôt ou du complément d'impôt,
 lorsque les conditions auxquelles est subordonné l'octroi de cette franchise, de
 cette suspension ou de ce taux ne sont pas remplies.
 
-II.-Toute personne qui s'est livré à elle-même, a acquis ou s'est fait apporter
-des terrains à bâtir, des logements, le droit au bail à construction, ou des
-droits immobiliers démembrés de logements au taux prévu aux 2, 3, 3 bis, 3 ter,
-3 quater, 3 quinquies, 3 sexies, 3 septies, 3 octies, 5, 6 ou 7 du I de
-l'article 278 sexies est tenue au paiement du complément d'impôt lorsque les
-conditions auxquelles est subordonné l'octroi de ce taux cessent d'être remplies
-dans les quinze ans qui suivent le fait générateur de l'opération. Ce délai est
-ramené à dix ans lorsque l'immeuble fait l'objet d'une cession, d'une
-transformation d'usage ou d'une démolition dans les conditions prévues au
-chapitre III du titre IV du livre IV du code de la construction et de
+II. - Toute personne qui s'est livré à elle-même, a acquis ou s'est fait
+apporter des terrains à bâtir, des logements, le droit au bail à construction,
+ou des droits immobiliers démembrés de logements au taux prévu aux 2 à 12 du I
+ainsi qu'au II de l'article 278 sexies est tenue au paiement du complément
+d'impôt lorsque les conditions auxquelles est subordonné l'octroi de ce taux
+cessent d'être remplies dans les quinze ans qui suivent le fait générateur de
+l'opération. Ce délai est ramené à dix ans lorsque l'immeuble fait l'objet d'une
+cession, d'une transformation d'usage ou d'une démolition dans les conditions
+prévues au chapitre III du titre IV du livre IV du code de la construction et de
 l'habitation. Toutefois, le complément d'impôt n'est pas dû lorsque les
 conditions cessent d'être remplies à la suite de la vente à leurs occupants,
 dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant
-la location-accession à la propriété immobilière, de logements mentionnés au
-dixième alinéa du c du 1 du 7° de l'article 257 ou de terrains à bâtir, ainsi
-que du droit au bail à construction dans le cadre d'une opération d'accession à
-la propriété assortie d'une acquisition différée du terrain, pour les logements
-neufs mentionnés au quinzième alinéa du c du 1 du 7° de l'article 257, ou de
-logements mentionnés au deuxième alinéa du 3 octies du I de l'article 278
-sexies.
+la location-accession à la propriété immobilière, de logements mentionnés au 4
+du I de l'article 278 sexies ou de terrains à bâtir, ainsi que du droit au bail
+à construction dans le cadre d'une opération d'accession à la propriété assortie
+d'une acquisition différée du terrain, pour les logements neufs mentionnés au 9
+du I de l'article 278 sexies, ou de logements mentionnés au 9 du I de l'article
+278 sexies.
 
-Pour les opérations mentionnées au 2 du I de l'article 278 sexies s'agissant des
-seules opérations visées aux dixième et quinzième alinéas du c du 1 du 7° de
-l'article 257 ainsi qu'aux 3 ter, 3 octies, 6 et 7 du I de l'article 278 sexies,
-le complément d'impôt dû est diminué d'un dixième par année de détention au-delà
-de la cinquième année.
+Pour les livraisons des logements visés aux 4, 9, 11 et 12 du I de l'article 278
+sexies, le complément d'impôt dû est diminué d'un dixième par année de détention
+au-delà de la cinquième année.
 
-III.-Toute personne qui s'est livré à elle-même des travaux d'amélioration, de
-transformation ou d'aménagement de logements au taux prévu au 4 du I de
-l'article 278 sexies est tenue au paiement du complément d'impôt lorsque les
-conditions auxquelles est subordonné l'octroi de ce taux cessent d'être remplies
-dans les trois ans qui suivent le fait générateur de l'opération.
+III. - Toute personne qui s'est livré à elle-même des travaux d'amélioration, de
+transformation ou d'aménagement de logements au taux prévu au III de l'article
+278 sexies est tenue au paiement du complément d'impôt lorsque les conditions
+auxquelles est subordonné l'octroi de ce taux cessent d'être remplies dans les
+trois ans qui suivent le fait générateur de l'opération.

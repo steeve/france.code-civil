@@ -1,6 +1,6 @@
 Article 809
 ----
-I. Sous réserve des dispositions du 7° de l'article 257 :
+I. Sous réserve des dispositions du I de l'article 257 :
 
 1° Les actes de formation de sociétés ou de groupements d'intérêt économique qui
 ne contiennent pas transmission de biens meubles ou immeubles, entre les
@@ -27,9 +27,9 @@ prise en charge du passif, dont sont grevés les biens de la nature de ceux
 de mutation au tarif prévu par le premier alinéa du III de l'article 810.
 Lorsque l'apporteur s'engage à conserver pendant trois ans les titres remis en
 contrepartie de l'apport, le droit de mutation est remplacé par un droit fixe de
-375 euros porté à 500 Euros lorsque la société a un capital social d'au moins
-225 000 euros. En cas de non respect de l'engagement de conservation des titres,
-les dispositions prévues au III de l'article 810 sont applicables.
+375 € porté à 500 € lorsque la société a un capital social d'au moins 225 000 €.
+En cas de non respect de l'engagement de conservation des titres, les
+dispositions prévues au III de l'article 810 sont applicables.
 
 Si la société cesse de remplir les conditions qui lui ont permis de bénéficier
 de cet avantage, la différence entre, d'une part, le droit de mutation majoré

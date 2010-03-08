@@ -18,10 +18,13 @@ entre le 1er janvier 2005 et le 31 décembre 2012, au titre de :
 
 1° L'acquisition de chaudières à condensation ;
 
-2° L'acquisition de matériaux d'isolation thermique des parois vitrées ;
+2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de
+volets isolants ou de portes d'entrée donnant sur l'extérieur ;
 
 3° L'acquisition et la pose de matériaux d'isolation thermique des parois
-opaques ;
+opaques ainsi que l'acquisition de matériaux de calorifugeage de tout ou partie
+d'une installation de production ou de distribution de chaleur ou d'eau chaude
+sanitaire ;
 
 4° L'acquisition d'appareils de régulation de chauffage ;
 
@@ -146,7 +149,8 @@ chaleur.
 
 40 %
 
-Pompes à chaleur (autres que air/air) thermodynamiques.
+Pompes à chaleur (autres que air/air) thermodynamiques dédiées à la production
+d'eau chaude sanitaire (1).
 
 
 Non applicable

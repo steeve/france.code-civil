@@ -36,7 +36,7 @@ produits pharmaceutiques, dans des conditions fixées par décret ;
 9° La taxe sur la valeur ajoutée brute collectée par les fournisseurs de tabacs,
 dans des conditions fixées par décret ;
 
-10° Une fraction égale à 37, 95 % du droit de consommation sur les tabacs
+10° Une fraction égale à 33,36 % du droit de consommation sur les tabacs
 mentionné à l'article 575 du code général des impôts ;
 
 11° Le droit de licence sur la rémunération des débitants de tabacs mentionné à

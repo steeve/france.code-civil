@@ -5,7 +5,7 @@ explicite sur toute demande d'un cotisant ou futur cotisant, présentée en sa
 qualité d'employeur, ayant pour objet de connaître l'application à sa situation
 au regard de la législation relative :
 
-1° Au dispositif de taux réduits de cotisations patronales de sécurité sociale
+1° Au dispositif d'exonération de cotisations patronales de sécurité sociale
 pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi prévu par
 les articles L. 741-5 et L. 741-16 ;
 

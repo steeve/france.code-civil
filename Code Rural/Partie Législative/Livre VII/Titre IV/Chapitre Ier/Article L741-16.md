@@ -1,55 +1,63 @@
 Article L741-16
 ----
-I.-Lorsqu'ils embauchent pour exercer une ou plusieurs des activités visées aux
-1°, 3° et 4° de l'article L. 722-1 et au 1° de l'article L. 722-2 des
-travailleurs occasionnels ou des demandeurs d'emploi inscrits à ce titre à
-l'institution mentionnée à l'article L. 311-7 du code du travail pendant une
-durée minimale fixée par décret, les chefs d'exploitation ou d'entreprise
-agricole ou de travaux agricoles ou forestiers ainsi que les groupements
-d'employeurs composés de personnes physiques ou de sociétés civiles agricoles
-exerçant ces mêmes activités versent des cotisations d'assurances sociales
-calculées en application de taux réduits.
+I.-Les employeurs relevant du régime de protection sociale des professions
+agricoles sont exonérés des cotisations patronales dues au titre des assurances
+sociales pour les travailleurs occasionnels qu'ils emploient.
 
-II.-Les groupements d'employeurs composés pour partie des employeurs mentionnés
-au I du présent article exerçant une ou plusieurs des activités visées à ce même
-I bénéficient pour lesdits employeurs des taux réduits de cotisations, sous
-réserve que le chiffre d'affaires annuel de ces groupements soit réalisé
-majoritairement avec des adhérents dont les salariés sont affiliés au régime
-agricole. Donnent lieu à cet allègement les rémunérations et gains des salariés
-embauchés entre le 1er janvier 2006 et le 31 décembre 2007, et ce pendant deux
-ans à compter de l'embauche.
+Les travailleurs occasionnels agricoles sont des salariés dont le contrat de
+travail relève du 3° de l'article L. 1242-2 ou de l'article L. 1242-3 du code du
+travail pour des tâches temporaires liées au cycle de la production animale et
+végétale, aux travaux forestiers et aux activités de transformation, de
+conditionnement et de commercialisation de produits agricoles lorsque ces
+activités, accomplies sous l'autorité d'un exploitant agricole, constituent le
+prolongement direct de l'acte de production.
 
-Pour chaque salarié, le montant des rémunérations et gains donnant lieu à
-l'allégement est limité au produit du salaire minimum de croissance en vigueur
-lors de leur versement, majoré de 50 %, par le nombre journalier moyen d'heures
-où le salarié a été, au cours de l'année civile considérée, mis à disposition
-des adhérents mentionnés à l'alinéa précédent.
+Cette exonération est déterminée conformément à un barème dégressif linéaire
+fixé par décret et tel que l'exonération soit totale pour une rémunération
+mensuelle inférieure ou égale au salaire minimum de croissance majoré de 150 %
+et devienne nulle pour une rémunération mensuelle égale ou supérieure au salaire
+minimum de croissance majoré de 200 %. Pour le calcul de l'exonération, la
+rémunération mensuelle et le salaire minimum de croissance sont définis dans les
+conditions prévues aux quatrième et cinquième phrases du premier alinéa du III
+de l'article L. 241-13 du code de la sécurité sociale.
+
+II.-Les demandeurs d'emploi inscrits à ce titre sur la liste mentionnée au 3° de
+l'article L. 5312-1 du code du travail depuis une durée fixée par décret sont
+assimilés à des travailleurs occasionnels lorsqu'ils sont recrutés par contrat à
+durée indéterminée par un groupement d'employeurs exerçant des activités
+mentionnées au I.
 
 III.-Les rémunérations et gains des travailleurs occasionnels embauchés par les
-employeurs mentionnés aux I et II du présent article dans le cadre du contrat de
+employeurs mentionnés au I du présent article dans le cadre du contrat de
 travail défini à l'article L. 718-4 ne donnent pas lieu à cotisations
 d'assurances sociales à la charge du salarié.
 
 IV.-Les rémunérations et gains des jeunes travailleurs occasionnels âgés de
-moins de vingt-six ans embauchés par les employeurs mentionnés aux I et II du
-présent article ne donnent pas lieu à cotisations d'assurances sociales à la
-charge du salarié pendant une période n'excédant pas un mois par an et par
-salarié. Pour chaque salarié, le montant des rémunérations et gains exonérés est
-limité au produit du salaire minimum de croissance par le nombre d'heures
-rémunérées. Cette exonération ne s'applique pas pour les salariés employés dans
-le cadre du contrat défini à l'article L. 718-4.
+moins de vingt-six ans embauchés par les employeurs mentionnés au I du présent
+article ne donnent pas lieu à cotisations d'assurances sociales à la charge du
+salarié pendant une période n'excédant pas un mois par an et par salarié. Pour
+chaque salarié, le montant des rémunérations et gains exonérés est limité au
+produit du salaire minimum de croissance par le nombre d'heures rémunérées.
+Cette exonération ne s'applique pas pour les salariés employés dans le cadre du
+contrat défini à l'article L. 718-4.
 
 V.-Les coopératives d'utilisation du matériel agricole mettant des salariés à la
 disposition de leurs adhérents ne bénéficient pas des dispositions du présent
 article.
 
-VI.-Un décret fixe les modalités d'application du présent article, notamment les
-taux réduits de cotisations mentionnés au I et la durée maximale de leur
-application par année civile.
+VI.-Un décret fixe les modalités d'application du présent article, notamment la
+durée maximale d'exonération par année civile.
 
-Au-delà de la période maximale d'application des taux réduits mentionnée à
+Au-delà de la période maximale d'application de l'exonération mentionnée à
 l'alinéa précédent, l'employeur déclare à la caisse de mutualité sociale
-agricole, pour chaque salarié, s'il renonce auxdits taux réduits pendant la
-période où ils se sont appliqués, au profit de la réduction prévue par l'article
+agricole, pour chaque salarié, s'il renonce à ladite exonération pendant la
+période où elle s'est appliquée, au profit de la réduction prévue par l'article
 L. 241-13 du code de la sécurité sociale sur l'ensemble de la période de
 travail.
+
+VII.-Le bénéfice des dispositions du présent article ne peut être cumulé avec
+celui d'une autre exonération totale ou partielle de cotisations patronales ou
+l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
+cotisations, à l'exception des exonérations prévues aux articles L. 741-5 et L.
+751-18 du présent code et de la déduction forfaitaire prévue à l'article L.
+241-18 du code de la sécurité sociale.

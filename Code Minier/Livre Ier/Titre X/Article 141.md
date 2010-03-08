@@ -15,9 +15,9 @@ protection des intérêts mentionnés au premier alinéa de cet article ;
 3° D'exploiter des gisements sans se conformer aux mesures prescrites par
 l'autorité administrative par application de l'article 79-1 ;
 
-4° De ne pas mettre à la disposition du Commissariat à l'énergie atomique les
-substances utiles à l'énergie atomique dans les conditions prévues par l'article
-81 ;
+4° De ne pas mettre à la disposition du Commissariat à l'énergie atomique et aux
+énergies alternatives les substances utiles à l'énergie atomique dans les
+conditions prévues par l'article 81 ;
 
 5° De réaliser des travaux de recherches ou d'exploitation de mines ou de gîtes
 géothermiques sans l'autorisation prévue à l'article 83 ;

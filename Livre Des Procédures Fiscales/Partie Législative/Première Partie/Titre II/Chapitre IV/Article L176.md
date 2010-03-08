@@ -18,12 +18,14 @@ délibérés auront été établis sur les périodes d'imposition non prescrites
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
 titre de laquelle la taxe est devenue exigible conformément aux dispositions du
-2 de l'article 269 du code général des impôts, lorsque le contribuable n'a pas
-déposé dans le délai légal les déclarations qu'il était tenu de souscrire et n'a
-pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, ou lorsque l'administration a dressé un
-procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
-16-0 BA, au titre d'une année postérieure.
+2 de l'article 269 du code général des impôts lorsque l'administration a dressé
+un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
+16-0 BA du présent livre au titre d'une année postérieure ou lorsque le
+contribuable exerce une activité occulte. L'activité occulte est réputée exercée
+lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
+qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un
+centre de formalités des entreprises ou au greffe du tribunal de commerce, soit
+s'est livré à une activité illicite (1).
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du
 début de la première période sur laquelle s'exerce le droit de reprise en
@@ -31,14 +33,8 @@ matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 3
 décembre de la troisième année suivant celle au cours de laquelle se termine
 cette période.
 
-Dans le cas prévu au deuxième alinéa du a du 1 du 7° de l'article 257 du code
-général des impôts, le droit de reprise de l'administration s'exerce jusqu'à la
-fin de la troisième année suivant celle au cours de laquelle intervient la
-délivrance du permis de construire ou du permis d'aménager ou le début des
-travaux.
-
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts,
 le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
 année suivant celle au cours de laquelle les conditions auxquelles est
-subordonné l'octroi du taux prévu aux 2, 3, 3 bis, 3 ter, 3 octies (1), 4 ou 5
-du I de l'article 278 sexies du même code ont cessé d'être remplies.
+subordonné l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du
+même code ont cessé d'être remplies.

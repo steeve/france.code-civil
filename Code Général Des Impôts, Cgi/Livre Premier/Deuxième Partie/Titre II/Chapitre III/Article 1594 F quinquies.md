@@ -3,17 +3,17 @@ Article 1594 F quinquies
 Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au
 taux de 0,60 % :
 
-A. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur
-ajoutée en vertu du 7° de l'article 257, les mutations à titre onéreux
-d'immeubles autres que ceux mentionnés au I du A de l'article 1594-0 G ;
+A. - A l'exception de celles qui sont visées au I du A de l'article 1594-0 G,
+les mutations à titre onéreux de terrains à bâtir et d'immeubles neufs
+mentionnés au 2° du 2 du I de l'article 257 lorsqu'elles sont soumises à la taxe
+sur la valeur ajoutée, sauf application des modalités prévues à l'article 268 ;
 
-B. Sans préjudice de l'application des dispositions du 7° de l'article 257, les
-mutations de propriété faites entre les propriétaires participant aux opérations
-de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui
-concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires
-en contre-partie de leur créance sur un organisme de rénovation, le bénéfice de
-la réduction de taux ne peut être invoqué qu'à concurrence du montant de la
-créance sur l'organisme de rénovation ;
+B. Les mutations de propriété faites entre les propriétaires participant aux
+opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce
+qui concerne la taxe ou le droit afférents aux biens remis aux anciens
+propriétaires en contre-partie de leur créance sur un organisme de rénovation,
+le bénéfice de la réduction de taux ne peut être invoqué qu'à concurrence du
+montant de la créance sur l'organisme de rénovation ;
 
 C. Les cessions gratuites aux collectivités publiques de terrains classés,
 visées à l'article L. 130-2 du code de l'urbanisme ;
@@ -74,15 +74,15 @@ n'entraîne pas la déchéance du bénéfice du taux réduit.
 E. I. Les acquisitions d'immeubles ruraux situés dans les zones de
 revitalisation rurale définies au II de l'article 1465 A, qui sont effectuées
 par les agriculteurs bénéficiaires des aides à l'installation des jeunes
-agriculteurs prévue aux articles D. 343-9 et D. 343-13 du code rural, que les
-intéressés soient exploitants individuels ou associés d'une société civile à
-objet agricole, pour la fraction du prix ou de la valeur n'excédant pas 99 000
-euros, quel que soit le nombre des acquisitions, sous réserve qu'elles
-interviennent au cours des quatre années suivant l'octroi des aides, que l'acte
-précise la valeur des terres acquises depuis cette date par l'acquéreur ayant
-bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par
-le directeur départemental de l'agriculture et de la forêt précisant la date de
-l'octroi des aides.
+agriculteurs prévue aux articles D. 343-9 et D. 343-13 du code rural et de la
+pêche maritime, que les intéressés soient exploitants individuels ou associés
+d'une société civile à objet agricole, pour la fraction du prix ou de la valeur
+n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous
+réserve qu'elles interviennent au cours des quatre années suivant l'octroi des
+aides, que l'acte précise la valeur des terres acquises depuis cette date par
+l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat
+délivré sans frais par le directeur départemental de l'agriculture et de la
+forêt précisant la date de l'octroi des aides.
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous
 réserve que l'acquéreur prenne, dans l'acte d'acquisition, l'engagement, pour
@@ -95,16 +95,17 @@ Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'un
 valeur globale n'excédant pas 99 000 euros.
 
 F. Les ventes résultant de l'application des articles L. 128-4 à L. 128-7 du
-code rural relatifs à la mise en valeur agricole des terres incultes, des terres
-laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe,
-de la Martinique, de la Réunion et de la Guyane.
+code rural et de la pêche maritime relatifs à la mise en valeur agricole des
+terres incultes, des terres laissées à l'abandon et des terres insuffisamment
+exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
 
 G. Dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de
 la Guyane, les opérations immobilières effectuées, en vue de l'accession à la
 propriété rurale, par les sociétés d'aménagement foncier et d'établissement
-rural mentionnées au troisième alinéa de l'article L. 128-7 du code rural, ainsi
-que par les sociétés d'intérêt collectif agricole, ayant fait l'objet d'un
-agrément avant la publication de la loi n° 69-1168 du 26 décembre 1969.
+rural mentionnées au troisième alinéa de l'article L. 128-7 du code rural et de
+la pêche maritime, ainsi que par les sociétés d'intérêt collectif agricole,
+ayant fait l'objet d'un agrément avant la publication de la loi n° 69-1168 du 26
+décembre 1969.
 
 Pour les acquisitions, le bénéfice du régime de faveur est subordonné à
 l'engagement dans l'acte, ou au pied de l'acte, par ces sociétés de procéder

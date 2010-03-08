@@ -18,16 +18,15 @@ sous déduction des sommes empruntées pour la construction ou l'acquisition des
 D'autre part, sous les sanctions prévues au 4 de l'article 40, le remploi
 correspondant doit être obligatoirement effectué, soit dans la construction
 d'immeubles affectés à l'habitation pour les trois quarts au moins de leur
-superficie totale, soit en l'achat de terrains ayant fait l'objet de la
-perception de la taxe sur la valeur ajoutée dans les conditions prévues au 2 de
-l'article 266, au 1 de l'article 269, à l'article 285 et au 2 de l'article 290,
-soit en la souscription d'actions ou de parts de sociétés ayant pour objet
-principal de concourir directement ou indirectement à la construction
-d'immeubles dans des conditions qui sont fixées par un arrêté du ministre de
-l'économie et des finances (3). Dans le cas où le remploi ayant été effectué en
-achat de terrains, les conditions fixées au A de l'article 1594-0 G n'ont pas
-été remplies, la plus-value est rapportée aux bénéfices de l'exercice en cours à
-l'expiration du délai prévu audit article.
+superficie totale, soit en l'achat de terrains pour lesquels un engagement de
+construire prévu au I du A de l'article 1594-0 G a été souscrit, soit en la
+souscription d'actions ou de parts de sociétés ayant pour objet principal de
+concourir directement ou indirectement à la construction d'immeubles dans des
+conditions qui sont fixées par un arrêté du ministre de l'économie et des
+finances (3). Dans le cas où le remploi ayant été effectué en achat de terrains,
+les conditions fixées au A de l'article 1594-0 G n'ont pas été remplies, la
+plus-value est rapportée aux bénéfices de l'exercice en cours à l'expiration du
+délai prévu audit article.
 
 Sous réserve des exceptions qui peuvent être prévues par décret (4), les
 plus-values provenant de ventes précédées de versements d'acomptes ou d'avances
@@ -55,4 +54,4 @@ III. (Périmé).
 
 (4) Annexe II, art. 168.
 
-(5) Annexe II, art. 166, 167 et 169.
+(5) Annexe II, art. 166,167 et 169.

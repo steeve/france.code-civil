@@ -21,14 +21,15 @@ l'option par le bailleur (1).
 
 4° (Abrogé) ;
 
-5° Les personnes qui ont passé un bail à construction ; dans ce cas, la taxe sur
-la valeur ajoutée est appliquée conformément au 7° de l'article 257 (2).
+5° Les personnes qui consentent un bail visé au 1° bis de l'article 261 D ;
+
+5° bis Les personnes qui réalisent une opération visée au 5 de l'article 261 ;
 
 6° A compter du 1er octobre 1988, les personnes qui donnent en location, en
 vertu d'un bail enregistré, des terres et bâtiments d'exploitation à usage
 agricole. L'option ne peut être exercée que si le preneur est redevable de la
 taxe sur la valeur ajoutée et elle s'applique à tous les baux conclus par un
-même bailleur avec des agriculteurs répondant à cette condition (3).
+même bailleur avec des agriculteurs répondant à cette condition (2).
 
 Les conditions et modalités de l'option notamment, pour l'application du 6°, les
 modalités d'évaluation des bâtiments d'habitation lorsqu'ils ne font pas l'objet

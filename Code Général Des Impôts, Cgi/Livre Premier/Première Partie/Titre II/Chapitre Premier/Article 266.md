@@ -67,8 +67,8 @@ de l'exigibilité de la taxe prévue au 2 de l'article 269.
 
 b. (dispositions devenues sans objet).
 
-2. En ce qui concerne les opérations entrant dans le champ d'application du 7°
-de l'article 257, la taxe sur la valeur ajoutée est assise :
+2. En ce qui concerne les opérations mentionnées au I de l'article 257, la taxe
+sur la valeur ajoutée est assise :
 
 a. Pour les livraisons à soi-même, sur le prix de revient total des immeubles, y
 compris le coût des terrains ou leur valeur d'apport ;
@@ -105,15 +105,14 @@ modéré.
 
 4. (Abrogé).
 
-5. Lorsqu'un bail à construction a fait l'objet de l'option prévue au 5° de
-l'article 260, il est fait abstraction, pour la détermination de la base
-d'imposition, de la valeur du droit de reprise des constructions lorsque
-celles-ci doivent devenir la propriété du bailleur en fin de bail.
+5. Lorsque le bail à construction est soumis à la taxe sur la valeur ajoutée, la
+base d'imposition est constituée par la valeur du droit de reprise des immeubles
+qui doivent revenir au bailleur abstraction faite, le cas échéant, de
+l'indemnité de reprise stipulée au profit du preneur et du montant des loyers,
+lesquels sont imposés par ailleurs dans les conditions du a du 1.
 
-6. En ce qui concerne les livraisons à soi-même de travaux visées au 7° bis, au
-7° quater, au 7° quinquies et au 7° sexies de l'article 257, la taxe sur la
-valeur ajoutée est assise sur le prix de revient total des travaux.
+6. En ce qui concerne les livraisons à soi-même de travaux immobiliers visées au
+b du 1° du 3 du I de l'article 257, la taxe sur la valeur ajoutée est assise sur
+le prix de revient total des travaux.
 
-7. En ce qui concerne les livraisons à soi-même d'ouvrages de circulation
-routière visées au 7° ter de l'article 257, la taxe sur la valeur ajoutée est
-assise sur le prix de revient total des ouvrages.
+7. (Abrogé).

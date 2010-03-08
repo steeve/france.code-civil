@@ -23,8 +23,9 @@ l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons
 subséquentes est réputé se situer en France, lorsque les biens sont importés en
 France.
 
-II. Le lieu des opérations immobilières mentionnées aux 6° et 7° de l'article
-257 se situe en France lorsqu'elles portent sur un immeuble sis en France.
+II. - Le lieu des opérations visées au I de l'article 257 et au 5° bis de
+l'article 260 se situe en France lorsqu'elles portent sur des immeubles situés
+en France.
 
 III. - Le lieu de livraison du gaz naturel ou de l'électricité est situé en
 France :

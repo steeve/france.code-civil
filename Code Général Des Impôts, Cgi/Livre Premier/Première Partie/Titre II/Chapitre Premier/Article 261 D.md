@@ -4,6 +4,8 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 1° Les locations de terres et bâtiments à usage agricole ;
 
+1° bis Les locations d'immeubles résultant d'un bail conférant un droit réel ;
+
 2° Les locations de terrains non aménagés et de locaux nus, à l'exception des
 emplacements pour le stationnement des véhicules ; toutefois, ces dispositions
 ne sont pas applicables lorsque les locations constituent pour le bailleur un

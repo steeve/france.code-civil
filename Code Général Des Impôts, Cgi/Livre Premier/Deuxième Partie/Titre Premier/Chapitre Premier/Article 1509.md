@@ -41,8 +41,8 @@ Ces dispositions ne sont pas applicables aux fonds en nature de bois à la date
 de la mise en demeure prévue par l'article L 321-11 du code forestier.
 
 V. Les terrains autres que ceux classés dans la catégorie fiscale des terrains à
-bâtir et dont la cession entre dans le champ d'application au 7° de l'article
-257 sont imposés à la taxe foncière sur les propriétés non bâties en tant que
+bâtir et dont la cession entre dans le champ d'application au I de l'article 257
+sont imposés à la taxe foncière sur les propriétés non bâties en tant que
 terrains à bâtir, au titre de l'année de la cession et des deux années
 précédentes, à l'exception des années antérieures à 1980. Leur valeur locative
 est déterminée en appliquant à la moitié du prix de cession le taux d'intérêt

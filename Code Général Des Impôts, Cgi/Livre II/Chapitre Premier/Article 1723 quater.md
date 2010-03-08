@@ -8,16 +8,16 @@ fractions égales ou en un versement unique lorsque le montant dû n'excède pas
 305 euros.
 
 Le premier versement ou le versement unique est exigible à l'expiration d'un
-délai de dix-huit mois à compter de la date de délivrance du permis de
-construire ou de la date à laquelle l'autorisation de construire est réputée
-avoir été tacitement accordée. Le second versement est exigible à l'expiration
-d'un délai de trente-six mois à compter de la même date.
+délai de douze mois à compter de la date de délivrance du permis de construire
+ou de la date à laquelle l'autorisation de construire est réputée avoir été
+tacitement accordée. Le second versement est exigible à l'expiration d'un délai
+de vingt-quatre mois à compter de la même date.
 
 Toutefois, la taxe due pour la construction, par tranches, de logements destinés
 à l'habitation principale, dans les conditions définies par décret en Conseil
 d'Etat, doit être versée au comptable du Trésor en trois versements échelonnés
-de dix-huit mois en dix-huit mois à compter de la date de délivrance du permis
-de construire ou de la date à laquelle l'autorisation de construire est réputée
+de douze mois en douze mois à compter de la date de délivrance du permis de
+construire ou de la date à laquelle l'autorisation de construire est réputée
 avoir été tacitement accordée.
 
 Les deux premiers versements sont calculés en fonction de la surface hors oeuvre
@@ -37,7 +37,7 @@ Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende
 fiscale prévue à l'article 1828, est immédiatement poursuivi contre le
 constructeur.
 
-III. A défaut de paiement de la taxe dans les délais impartis au I, le
+III.A défaut de paiement de la taxe dans les délais impartis au I, le
 recouvrement de cette taxe, de l'intérêt de retard prévu à l'article 1727 et de
 la majoration prévue à l'article 1731 est poursuivi par les comptables du Trésor
 dans les conditions fixées au titre IV du livre des procédures fiscales. Il en

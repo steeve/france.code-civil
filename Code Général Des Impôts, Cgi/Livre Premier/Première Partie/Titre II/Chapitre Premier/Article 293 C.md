@@ -2,7 +2,7 @@ Article 293 C
 ----
 La franchise mentionnée aux I et IV de l'article 293 B n'est pas applicable :
 
-1° Aux opérations visées au 7° et au 7° bis de l'article 257 ;
+1° Aux opérations visées au I de l'article 257 ;
 
 2° Aux opérations visées à l'article 298 bis ;
 

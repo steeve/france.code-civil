@@ -18,8 +18,8 @@ Les prestations de services visées aux a à b decies de l'article 279 ;
 
 5° 8 % en ce qui concerne :
 
-a. Les travaux immobiliers ainsi que les opérations visées au 7° de l'article
-257 ;
+a. Les travaux immobiliers ainsi que les opérations visées au I de l'article 257
+;
 
 b. Les ventes de matériels agricoles livrés en Corse et dont la liste est fixée
 par arrêté du ministre de l'économie et des finances ;

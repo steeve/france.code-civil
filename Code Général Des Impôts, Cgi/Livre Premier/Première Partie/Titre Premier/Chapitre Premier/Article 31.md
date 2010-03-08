@@ -100,7 +100,7 @@ acquisition si elle est postérieure.
 
 L'avantage prévu au premier alinéa est applicable, dans les mêmes conditions,
 aux logements affectés à la location après réhabilitation dès lors que leur
-acquisition entre dans le champ d'application du 7° de l'article 257 et aux
+acquisition entre dans le champ d'application du I de l'article 257 et aux
 logements que le contribuable fait construire et qui ont fait l'objet, avant le
 31 décembre 1998, de la déclaration d'ouverture de chantier prévue à l'article
 R. 421-40 du code de l'urbanisme. Il en est de même des logements loués après
@@ -476,17 +476,19 @@ logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
 ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
 Un décret précise les conditions de cette location, notamment les modalités
-d'appréciation des loyers et des ressources de l'occupant. En cas de non-respect
-de l'un des engagements mentionnés au premier alinéa ou de cession du logement
-ou des parts sociales, la déduction fait l'objet d'une reprise au titre de
-l'année de la rupture de l'engagement ou de la cession. En cas d'invalidité
-correspondant au classement dans la deuxième ou la troisième des catégories
-prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou
-de décès du contribuable ou de l'un des époux soumis à imposition commune, cette
-reprise n'est pas appliquée. Tant que la condition de loyer prévue au premier
-alinéa demeure remplie, le bénéfice de la déduction est prorogé par périodes de
-trois ans, en cas de poursuite, de reconduction ou de renouvellement du contrat
-de location.
+d'appréciation des loyers et des ressources de l'occupant.
+
+En cas de non-respect de l'un des engagements mentionnés au premier alinéa ou de
+cession du logement ou des parts sociales, la déduction fait l'objet d'une
+reprise au titre de l'année de la rupture de l'engagement ou de la cession. En
+cas d'invalidité correspondant au classement dans la deuxième ou la troisième
+des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
+licenciement ou de décès du contribuable ou de l'un des époux soumis à
+imposition commune, cette reprise n'est pas appliquée.
+
+Tant que la condition de loyer prévue au premier alinéa demeure remplie, le
+bénéfice de la déduction est prorogé par périodes de trois ans, en cas de
+poursuite, de reconduction ou de renouvellement du contrat de location.
 
 Sous réserve que les conditions de loyer et de ressources du nouveau locataire
 prévues au premier alinéa soient remplies, la déduction demeure également

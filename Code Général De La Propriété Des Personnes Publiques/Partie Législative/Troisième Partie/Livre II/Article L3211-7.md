@@ -27,6 +27,6 @@ d'une aide de l'Etat ;
 -les logements neufs destinés à être affectés à l'habitation principale de
 personnes physiques, si ces personnes acquièrent le terrain de manière différée
 ou si elles bénéficient d'un prêt à remboursement différé, dans les conditions
-mentionnées au 3 octies du I de l'article 278 sexies du code général des impôts
-ou encore, si ces personnes sont titulaires de contrats de location-accession
-dans les conditions mentionnées au 3 ter du même I.
+mentionnées au 9 du I de l'article 278 sexies du code général des impôts ou
+encore, si ces personnes sont titulaires de contrats de location-accession dans
+les conditions mentionnées au 4 du même I.

@@ -45,7 +45,7 @@ combustibles.
 
 100 kg net.
 
-1,50.
+1, 50.
 
 
 Ex 2707-50
@@ -89,7 +89,7 @@ constituent l'élément de base, autres que les déchets :
 
 Hectolitre.
 
-5,66.
+5, 66.
 
 ----autres essences spéciales :
 
@@ -99,7 +99,7 @@ Hectolitre.
 
 Hectolitre.
 
-58,92.
+58, 92.
 
 -----autres.
 
@@ -117,18 +117,18 @@ Exemption.
 
 Hectolitre.
 
-35,90.
+35, 90.
 
------supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, autre
+-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre
 que le supercarburant correspondant à l'indice d'identi-fication n° 11 bis ;
 
 11
 
 Hectolitre.
 
-60,69.
+60, 69.
 
------supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre,
+-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre,
 contenant un additif spécifique améliorant les caractéristiques antirécession de
 soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité
 équivalente dans un autre Etat membre de la Communauté européenne ou dans un
@@ -138,7 +138,7 @@ autre Etat membre de l'Espace économique européen.
 
 Hectolitre.
 
-63,96.
+63, 96.
 
 Supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que
 les supercarburants correspondant aux indices d'identification 11 et 11 bis, et
@@ -151,7 +151,7 @@ de carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en
 
 Hectolitre
 
-60,69
+60, 69
 
 ----carburéacteurs, type essence :
 
@@ -161,7 +161,7 @@ Hectolitre
 
 Hectolitre.
 
-2,54.
+2, 54.
 
 -----carburant pour moteurs d'avions ;
 
@@ -169,7 +169,7 @@ Hectolitre.
 
 Hectolitre.
 
-30,20.
+30, 20.
 
 -----autres.
 
@@ -177,7 +177,7 @@ Hectolitre.
 
 Hectolitre.
 
-58,92.
+58, 92.
 
 ----autres huiles légères.
 
@@ -185,7 +185,7 @@ Hectolitre.
 
 Hectolitre.
 
-58,92.
+58, 92.
 
 --huiles moyennes :
 
@@ -197,7 +197,7 @@ Hectolitre.
 
 Hectolitre.
 
-5,66.
+5, 66.
 
 -----autres.
 
@@ -205,7 +205,7 @@ Hectolitre.
 
 Hectolitre.
 
-41,69.
+41, 69.
 
 ---carburéacteurs, type pétrole lampant :
 
@@ -215,7 +215,7 @@ Hectolitre.
 
 Hectolitre.
 
-2,54.
+2, 54.
 
 ----carburant pour moteurs d'avions.
 
@@ -223,7 +223,7 @@ Hectolitre.
 
 Hectolitre.
 
-30,2.
+30, 2.
 
 ---autres.
 
@@ -231,7 +231,7 @@ Hectolitre.
 
 Hectolitre.
 
-41,69.
+41, 69.
 
 ---autres huiles moyennes.
 
@@ -239,7 +239,7 @@ Hectolitre.
 
 Hectolitre.
 
-41,69.
+41, 69.
 
 --huiles lourdes :
 
@@ -251,7 +251,7 @@ Hectolitre.
 
 Hectolitre.
 
-5,66.
+5, 66.
 
 ----fioul domestique ;
 
@@ -259,7 +259,7 @@ Hectolitre.
 
 Hectolitre.
 
-5,66.
+5, 66.
 
 ----autres ;
 
@@ -267,7 +267,7 @@ Hectolitre.
 
 Hectolitre.
 
-42,84.
+42, 84.
 
 ----fioul lourd.
 
@@ -275,7 +275,7 @@ Hectolitre.
 
 100 kg net.
 
-1,85.
+1, 85.
 
 ---huiles lubrifiantes et autres.
 
@@ -298,7 +298,7 @@ et de propane dans lequel le propane représente plus de 50 % en poids) :
 
 100 kg net.
 
-4,68.
+4, 68.
 
 --autres ;
 
@@ -306,7 +306,7 @@ et de propane dans lequel le propane représente plus de 50 % en poids) :
 
 100 kg net.
 
-10,76.
+10, 76.
 
 --destiné à d'autres usages.
 
@@ -327,7 +327,7 @@ butane et de propane dans lequel le butane représente au moins 50 % en poids) :
 
 100 kg net.
 
-4,68.
+4, 68.
 
 ---autres.
 
@@ -335,7 +335,7 @@ butane et de propane dans lequel le butane représente au moins 50 % en poids) :
 
 100 kg net.
 
-10,76.
+10, 76.
 
 --destinés à d'autres usages.
 
@@ -365,7 +365,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 100 kg net.
 
-4,68.
+4, 68.
 
 ---autres.
 
@@ -373,7 +373,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 100 kg net.
 
-10,76.
+10, 76.
 
 2711-21
 
@@ -425,7 +425,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 2712-20
 
--Paraffine contenant en poids moins de 0,75 % d'huile.
+-Paraffine contenant en poids moins de 0, 75 % d'huile.
 
 41
 
@@ -510,7 +510,7 @@ volume, destinée à être utilisée comme carburant :
 
 Hectolitre.
 
-2,1.
+2, 1.
 
 -autres.
 
@@ -518,7 +518,7 @@ Hectolitre.
 
 Hectolitre.
 
-24,78
+28, 71
 
 
 Ex 3824-90-98
@@ -529,8 +529,8 @@ Ex 3824-90-98
 
 Hectolitre.
 
-23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010,
-puis 17,29 à compter du 1er janvier 2011.
+23, 24 à compter du 1er janvier 2009, puis 20, 69 à compter du 1er janvier 2010,
+puis 17, 29 à compter du 1er janvier 2011.
 
 2. Règles d'application.
 
@@ -644,11 +644,11 @@ positions 2707 ou 2902.
 Tous produits de la position.
 
 2. Une réfaction peut être effectuée sur les taux de taxe intérieure de
-consommation applicable au supercarburant repris à l'indice d'identification 11
-et au gazole repris à l'indice d'identification 22.
+consommation applicable au supercarburant repris aux indices d'identification 11
+et 11 ter et au gazole repris à l'indice d'identification 22.
 
-A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro
-par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1, 77 euro
+par hectolitre pour le supercarburant et de 1, 15 euro par hectolitre pour le
 gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse
@@ -658,9 +658,9 @@ finals sur leur territoire dans la double limite de la fraction de tarif
 affectée à chaque région et à la collectivité territoriale de Corse en vertu du
 I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour
 2006 relatif à la compensation financière des transferts de compétences aux
-régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
-mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le
-gazole mentionné à l'indice d'identification 22.
+régions et de respectivement 1, 77 euro par hectolitre pour le supercarburant
+mentionné aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre
+pour le gazole mentionné à l'indice d'identification 22.
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent
 intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui
@@ -688,9 +688,9 @@ et 266 quinquies B.
 
 4. A compter du 1er janvier 2007, les personnes physiques ou morales qui
 vendent, en régime de droits acquittés, des carburants visés aux indices
-d'identification 11 et 22 dans des régions ou collectivités territoriales où le
-taux de la taxe intérieure de consommation diffère du taux appliqué lors de la
-mise à la consommation :
+d'identification 11, 11 ter et 22 dans des régions ou collectivités
+territoriales où le taux de la taxe intérieure de consommation diffère du taux
+appliqué lors de la mise à la consommation :
 
 a) Acquittent le montant différentiel de taxe si le taux supporté lors de la
 mise à la consommation est inférieur ;

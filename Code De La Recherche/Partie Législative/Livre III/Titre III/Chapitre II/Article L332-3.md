@@ -6,5 +6,6 @@ compétence et des représentants du personnel élus dans les conditions prévue
 par le chapitre II du titre II de la loi n° 83-675 du 26 juillet 1983 relative à
 la démocratisation du secteur public.
 
-La direction générale du Commissariat à l'énergie atomique est assurée par
-l'administrateur général nommé par décret en conseil des ministres.
+La direction générale du Commissariat à l'énergie atomique et aux énergies
+alternatives est assurée par l'administrateur général nommé par décret en
+conseil des ministres.

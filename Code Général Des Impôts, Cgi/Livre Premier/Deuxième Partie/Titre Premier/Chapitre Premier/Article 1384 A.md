@@ -10,8 +10,10 @@ L'exonération s'applique aux constructions de logements neufs à usage locatif 
 affectés à l'habitation principale, mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation lorsqu'ils sont financés à
 concurrence de plus de 50 % au moyen d'un prêt prévu à l'article R. 331-1 du
-même code, et qu'ils bénéficient des dispositions des 2, 3 ou 5 du I de
-l'article 278 sexies. Pour les constructions visées au 5 de l'article 278
+même code, et qu'ils bénéficient des dispositions des 2 ou 10 du I de l'article
+278 sexies ou des dispositions du II du même article pour les logements
+mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de
+l'habitation. Pour les constructions mentionnées au 10 du I de l'article 278
 sexies, le taux de 50 % est ramené à 30 %. En Guadeloupe, en Guyane, à la
 Martinique et à La Réunion, l'exonération s'applique aux constructions de
 logements neufs à usage locatif et affectés à l'habitation principale
@@ -75,10 +77,11 @@ de la construction et de l'habitation ou aux sociétés civiles immobilières do
 cette association détient la majorité des parts lorsqu'elles sont financées à
 concurrence de plus de 50 % par des subventions versées au titre de la
 participation des employeurs à l'effort de construction et qu'elles bénéficient
-des dispositions des 2 ou 3 quinquies du I de l'article 278 sexies. La durée
-d'exonération est portée à vingt-cinq ans pour les constructions qui bénéficient
-d'une décision d'octroi de subvention prise entre le 1er mars 2007 et le 31
-décembre 2014.
+des dispositions du 6 du I de l'article 278 sexies ou des dispositions du II du
+même article pour les logements mentionnés au 4° de l'article L. 351-2 du code
+de la construction et de l'habitation. La durée d'exonération est portée à
+vingt-cinq ans pour les constructions qui bénéficient d'une décision d'octroi de
+subvention prise entre le 1er mars 2007 et le 31 décembre 2014.
 
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde
