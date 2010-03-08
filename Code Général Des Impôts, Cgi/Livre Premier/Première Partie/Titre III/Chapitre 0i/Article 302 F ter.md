@@ -22,9 +22,9 @@ les conditions prévues au III de l'article 302 D, d'après les quantités
 déclarées en sortie de régime suspensif ;
 
 b. Les dispositions du a s'appliquent également lorsque les alcools, boissons
-alcooliques et tabacs manufacturés sont détenus sous un régime suspensif fiscal
-d'entrepôt national d'importation ou d'exportation et sous un régime suspensif
-des droits d'accises.
+alcooliques et tabacs manufacturés sont détenus sous le régime fiscal suspensif
+mentionné au a du 2° du I de l'article 277 A et sous un régime suspensif des
+droits d'accises.
 
 4° Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article (1).

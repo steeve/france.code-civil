@@ -12,8 +12,8 @@ lors du passage en douane et selon les règles, garanties et sanctions prévues 
 matière douanière.
 
 La taxe sur la valeur ajoutée due lors de la sortie de l'un des régimes
-mentionnés au 1°, aux a, b et c du 2° et au 7° du I de l'article 277 A ou lors
-du retrait de l'autorisation d'ouverture d'un entrepôt fiscal mentionné aux a, b
-et c du 2° du I de l'article 277 A est perçue comme en matière de douane.
+mentionnés aux 1°, a du 2° et 7° du I de l'article 277 A ou lors du retrait de
+l'autorisation d'ouverture du régime fiscal suspensif mentionné au a du 2° du
+même I est perçue comme en matière de douane.
 
 (1) Annexe III, art. 384 A bis.
