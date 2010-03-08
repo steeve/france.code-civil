@@ -9,4 +9,8 @@ un délit intentionnel ;
 2° Toutes clauses frappant de déchéance l'assuré à raison de simple retard
 apporté par lui à la déclaration du sinistre aux autorités ou à des productions
 de pièces, sans préjudice du droit pour l'assureur de réclamer une indemnité
-proportionnée au dommage que ce retard lui a causé.
+proportionnée au dommage que ce retard lui a causé ;
+
+3° Toutes clauses frappant de déchéance l'assuré en cas de non-respect des
+dispositions prévues aux articles L. 129-8 et L. 129-9 du code de la
+construction et de l'habitation.
