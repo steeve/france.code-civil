@@ -1,15 +1,32 @@
 Article R4321-33
 ----
-Les personnes qui ont été reçues avant le 31 décembre 1982 à l'examen de fin
-d'études de l'école des techniques thermales d'Aix-les-Bains ou qui ont obtenu
-avant cette date le diplôme délivré par cette école sont autorisées à pratiquer,
-au sein de l'établissement "Thermes nationaux d'Aix-les-Bains", les actes de
-massage et de gymnastique médicale suivants :
+Les personnes mentionnées à l'article L. 4321-6 sont autorisées à effectuer les
+actes suivants :
 
-1° Mobilisation articulaire en bain d'eau thermale ;
+1° Au sein des établissements thermaux, les actes de massage et de gymnastique
+médicale suivants :
 
-2° Massage manuel sous l'eau thermale ;
+a) Mobilisation articulaire en bain d'eau thermale ;
 
-3° Massage manuel avec pulvérisations ou vaporisations d'eau thermale ;
+b) Massage manuel sous l'eau thermale ;
 
-4° Massage manuel avec application de boues thermales.
+c) Massage manuel avec pulvérisations ou vaporisations d'eau thermale ;
+
+d) Massage manuel avec application de boues thermales ;
+
+2° Au sein des établissements mentionnés au 2° de l'article L. 4321-6, selon les
+indications du masseur-kinésithérapeute agissant sur prescription médicale et
+sous son contrôle, les actes suivants :
+
+a) Lever du patient et aide à la marche ;
+
+b) Techniques d'activation dans un objectif de prévention de la perte
+d'autonomie de la personne ;
+
+c) Massage manuel ;
+
+d) Mobilisation articulaire en balnéothérapie et hydrothérapie ;
+
+e) Installation d'appareils de mobilisation articulaire passive ;
+
+f) Thermothérapie.
