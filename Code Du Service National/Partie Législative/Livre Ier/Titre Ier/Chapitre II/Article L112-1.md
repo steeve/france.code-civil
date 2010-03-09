@@ -5,3 +5,5 @@ le 31 décembre 1978, à ceux qui sont rattachés aux mêmes années de recensem
 ainsi qu'aux jeunes femmes nées après le 31 décembre 1982 et à celles qui sont
 rattachées aux mêmes années de recensement. Les jeunes femmes sont recensées à
 partir du 1er janvier 1999.
+
+Le premier alinéa ne s'applique pas au service civique.

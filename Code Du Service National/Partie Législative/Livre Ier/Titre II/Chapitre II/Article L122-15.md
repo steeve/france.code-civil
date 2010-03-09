@@ -1,10 +1,10 @@
 Article L122-15
 ----
-Le temps du service accompli au titre du volontariat civil, d'une durée au moins
-égale à six mois, est assimilé à une période d'assurance pour l'ouverture et le
-calcul des droits à retraite dans le premier régime d'assurance vieillesse de
-base auquel le volontaire est affilié à titre obligatoire postérieurement à son
-volontariat.
+Le temps du service accompli au titre du volontariat international, d'une durée
+au moins égale à six mois, est assimilé à une période d'assurance pour
+l'ouverture et le calcul des droits à retraite dans le premier régime
+d'assurance vieillesse de base auquel le volontaire est affilié à titre
+obligatoire postérieurement à son volontariat.
 
 Par dérogation aux dispositions de l'alinéa ci-dessus, le temps du service,
 d'une durée au moins égale à six mois, accompli au titre du volontariat est pris

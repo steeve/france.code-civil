@@ -7,9 +7,8 @@ dispensée par l'établissement public d'insertion de la défense.
 Peut faire acte de candidature, en vue de souscrire ce contrat avec
 l'établissement public d'insertion de la défense, toute personne de seize ans à
 vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il
-apparaît, notamment à l'issue de la journée d'appel de préparation à la défense,
-qu'elle rencontre des difficultés particulières d'insertion sociale et
-professionnelle.
+apparaît, notamment à l'issue de la journée défense et citoyenneté, qu'elle
+rencontre des difficultés particulières d'insertion sociale et professionnelle.
 
 Cette formation est délivrée dans les centres de formation gérés et administrés
 par l'établissement public d'insertion de la défense, dont le régime est

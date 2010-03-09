@@ -103,8 +103,8 @@ législative ou réglementaire auprès d'une autorité de l'Etat pour les accide
 survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne
 bénéficient pas à un autre titre des dispositions du présent article ;
 
-13°) Les volontaires mentionnés au I de l'article L. 122-14 du code du service
-national ;
+13°) Les personnes ayant souscrit un service civique dans les conditions prévues
+aux titres Ier bis et II du livre Ier du code du service national ;
 
 14°) Dans des conditions fixées par décret, les personnes bénéficiaires d'un
 appui à la création ou à la reprise d'une activité économique au titre de

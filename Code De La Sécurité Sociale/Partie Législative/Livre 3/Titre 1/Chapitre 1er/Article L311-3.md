@@ -145,9 +145,8 @@ d'allocations familiales en qualité de travailleurs indépendants lorsque
 l'existence d'un lien de subordination avec le donneur d'ouvrage ne peut être
 établi ;
 
-28° Les titulaires d'un contrat de volontariat associatif régi par les
-dispositions du titre Ier de la loi n° 2006-586 du 23 mai 2006 relative au
-volontariat associatif et à l'engagement éducatif ;
+28° Les personnes ayant souscrit un service civique dans les conditions prévues
+au chapitre II du titre Ier bis du livre Ier du code du service national ;
 
 29° Les arbitres et juges, mentionnés à l'article L. 223-1 du code du sport, au
 titre de leur activité d'arbitre ou de juge.

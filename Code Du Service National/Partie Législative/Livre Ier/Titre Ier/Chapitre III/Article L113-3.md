@@ -14,6 +14,6 @@ jusqu'à l'expiration du délai ouvert pour exercer cette faculté.
 
 A l'issue de ce délai, celles qui n'ont pas exercé la faculté de répudier ou de
 décliner la nationalité française sont soumises, à compter de la date de leur
-recensement, à l'obligation de participer à l'appel de préparation à la défense.
+recensement, à l'obligation de participer à la journée défense et citoyenneté.
 Elles sont alors convoquées, dans les conditions fixées à l'article L. 114-4,
 par l'administration dans un délai de six mois.

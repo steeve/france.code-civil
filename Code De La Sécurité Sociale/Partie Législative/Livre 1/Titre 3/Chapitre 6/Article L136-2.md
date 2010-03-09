@@ -15,7 +15,7 @@ chômage, il est opéré une réduction représentative de frais professionnels
 forfaitairement fixée à 3 % de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
-aux intérefssés en sus des revenus visés au premier alinéa.
+aux intéressés en sus des revenus visés au premier alinéa.
 
 Pour l'application du présent article, les traitements, salaires et toutes
 sommes versées en contrepartie ou à l'occasion du travail sont évalués selon les
@@ -25,9 +25,9 @@ l'article 83 du code général des impôts ne sont pas applicables.
 I bis.-La contribution est établie sur l'assiette correspondant aux cotisations
 forfaitaires applicables aux catégories de salariés ou assimilés visées par les
 arrêtés pris en application des articles L. 241-2 et L. 241-3 du présent code et
-L. 741-13 du code rural et de la pêche maritime, dans leur rédaction en vigueur
-à la date de publication de la dernière loi de financement de la sécurité
-sociale.
+L. 741-13 du code rural code rural et de la pêche maritime, dans leur rédaction
+en vigueur à la date de publication de la dernière loi de financement de la
+sécurité sociale.
 
 II.-Sont inclus dans l'assiette de la contribution :
 
@@ -57,12 +57,11 @@ relative à l'indemnité des représentants au Parlement européen et aux indemn
 versées à ses membres par le Parlement européen ;
 
 c) La rémunération et les indemnités par jour de présence versées aux membres du
-Conseil économique, social et environnemental en application de l'article 22 de
-l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au
-Conseil économique et social (1) ainsi que l'indemnité versée au Président et
-aux membres du Conseil constitutionnel en application de l'article 6 de
-l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
-constitutionnel ;
+Conseil économique et social en application de l'article 22 de l'ordonnance n°
+58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique
+et social ainsi que l'indemnité versée au Président et aux membres du Conseil
+constitutionnel en application de l'article 6 de l'ordonnance n° 58-1067 du 7
+novembre 1958 portant loi organique sur le Conseil constitutionnel ;
 
 d) Les indemnités versées par les collectivités locales, leurs groupements ou
 leurs établissements publics aux élus municipaux, cantonaux et régionaux ;
@@ -73,7 +72,7 @@ par l'article L. 1621-2 du code général des collectivités territoriales.
 4° Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance, à l'exception de celles visées au
 cinquième alinéa de l'article L. 242-1 du présent code et au cinquième alinéa de
-l'article L. 741-10 du code rural et de la pêche maritime et de celles destinées
+l'article L. 741-10 du code rural et de la pêche maritimeet de celles destinées
 au financement des régimes de retraite visés au I de l'article L. 137-11 du
 présent code ;
 
@@ -152,7 +151,4 @@ L. 6221-1 du code du travail ;
 6° (Abrogé) ;
 
 7° L'indemnité de cessation d'activité visée au V de l'article 41 de la loi de
-financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
-
-8° L'indemnité prévue à l'article 9 de la loi n° 2006-586 du 23 mai 2006
-relative au volontariat associatif et à l'engagement éducatif.
+financement de la sécurité sociale pour 1999 ( n° 98-1194 du 23 décembre 1998).

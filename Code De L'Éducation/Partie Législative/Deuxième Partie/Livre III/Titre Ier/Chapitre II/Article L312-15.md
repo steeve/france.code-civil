@@ -20,3 +20,7 @@ des personnes handicapées et à leur intégration dans la société.
 Les établissements scolaires s'associent avec les centres accueillant des
 personnes handicapées afin de favoriser les échanges et les rencontres avec les
 élèves.
+
+L'enseignement d'éducation civique sensibilise également les élèves de collège
+et de lycée au service civique prévu au titre Ier bis du livre Ier du code du
+service national.

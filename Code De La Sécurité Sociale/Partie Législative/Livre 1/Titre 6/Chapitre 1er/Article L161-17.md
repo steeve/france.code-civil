@@ -3,6 +3,10 @@ Article L161-17
 Toute personne a le droit d'obtenir, dans des conditions précisées par décret,
 un relevé de sa situation individuelle au regard de l'ensemble des droits
 qu'elle s'est constitués dans les régimes de retraite légalement obligatoires.
+Ce relevé fait également état de la possibilité offerte à toute personne
+d'assurer le tutorat des personnes effectuant un engagement de service civique
+régi par le titre Ier bis du livre Ier du code du service national au sein de
+personnes morales agréées.
 
 Les régimes de retraite légalement obligatoires et les services de l'Etat
 chargés de la liquidation des pensions sont tenus d'adresser périodiquement, à

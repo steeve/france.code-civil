@@ -25,9 +25,10 @@ formation en entreprise ;
 
 ― les habilitations de personnes ;
 
-― le ou les emplois occupés et les activités bénévoles, ainsi que les
-connaissances, les compétences et les aptitudes professionnelles mises en œuvre
-dans le cadre de ces emplois et de ces activités.
+― le ou les emplois occupés, le service civique et les activités bénévoles
+effectués, ainsi que les connaissances, les compétences et les aptitudes
+professionnelles mises en œuvre dans le cadre de ces emplois, de ce service
+civique et de ces activités.
 
 L'employeur ne peut exiger du salarié qui répond à une offre d'embauche qu'il
 lui présente son passeport orientation et formation. Est illicite le fait de
