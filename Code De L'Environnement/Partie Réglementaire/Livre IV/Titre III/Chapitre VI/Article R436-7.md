@@ -4,12 +4,7 @@ Dans les eaux de 2e catégorie, la pêche est autorisée toute l'année, à
 l'exception de :
 
 1° La pêche du brochet, qui est autorisée du 1er janvier au dernier dimanche de
-janvier et du troisième samedi d'avril au 31 décembre, inclus ;
-
-Lorsque les caractéristiques locales du milieu aquatique justifient des mesures
-particulières de protection du patrimoine piscicole, le préfet peut, par arrêté
-motivé, prolonger d'une à quatre semaines la période de fermeture dans les cours
-d'eau et les plans d'eau qu'il désigne ;
+janvier et du 1er mai au 31 décembre, inclus ;
 
 2° La pêche de l'ombre commun, qui est autorisée du troisième samedi de mai au
 31 décembre, inclus ;
