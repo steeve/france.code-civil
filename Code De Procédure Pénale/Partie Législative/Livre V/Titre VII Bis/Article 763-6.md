@@ -27,5 +27,11 @@ et cinquième alinéas de l'article 703.
 La juridiction peut décider de relever le condamné d'une partie seulement de ses
 obligations.
 
-Ces dispositions ne sont pas applicables lorsque le suivi socio-judiciaire est
-prononcé comme peine principale.
+Après avis du procureur de la République, le juge de l'application des peines
+peut, après audition du condamné et avis du médecin coordonnateur, décider selon
+les modalités prévues par l'article 712-8 de mettre fin de manière anticipée au
+suivi socio-judiciaire comportant une injonction de soins, sans qu'il soit
+nécessaire de saisir la juridiction de jugement, dès lors qu'il apparaît que le
+reclassement du condamné est acquis et qu'un traitement n'est plus nécessaire.
+Le juge peut également décider de ne relever le condamné que d'une partie de ses
+obligations parmi lesquelles, le cas échéant, l'injonction de soins.

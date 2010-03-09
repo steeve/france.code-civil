@@ -50,13 +50,9 @@ ajournement du prononcé de celle-ci ;
 15° Sauf décision contraire du juge, spécialement motivée, les condamnations
 prononcées pour les délits prévus au titre IV du livre IV du code de commerce.
 
-16° Les décisions de déclaration d'irresponsabilité pénale pour cause de trouble
-mental, sauf si ont été prononcées des interdictions prévues par l'article
-706-136 du présent code tant que ces interdictions n'ont pas cessé leurs effets.
-
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur
 les listes électorales, ne comprennent que les décisions entraînant des
 incapacités en matière d'exercice du droit de vote.
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à
-relever sur le bulletin n° 2, celui-ci porte la mention " Néant. "
+relever sur le bulletin n° 2, celui-ci porte la mention " Néant ".

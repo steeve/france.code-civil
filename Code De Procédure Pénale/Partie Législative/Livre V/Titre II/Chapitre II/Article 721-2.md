@@ -3,11 +3,12 @@ Article 721-2
 Le juge de l'application des peines peut, selon les modalités prévues par
 l'article 712-6, ordonner que le condamné ayant bénéficié d'une ou plusieurs des
 réductions de peines prévues par les articles 721 et 721-1 soit soumis après sa
-libération à l'interdiction de recevoir la partie civile, de la rencontrer ou
-d'entrer en relation avec elle de quelque façon que ce soit, pendant une durée
-qui ne peut excéder le total des réductions de peines dont il a bénéficié. Cette
-décision est prise préalablement à la libération du condamné, le cas échéant en
-même temps que lui est accordée la dernière réduction de peine.
+libération à l'interdiction de recevoir la partie civile ou la victime, de la
+rencontrer ou d'entrer en relation avec elle de quelque façon que ce soit,
+pendant une durée qui ne peut excéder le total des réductions de peines dont il
+a bénéficié. Cette décision est prise préalablement à la libération du condamné,
+le cas échéant en même temps que lui est accordée la dernière réduction de
+peine.
 
 L'interdiction mentionnée à l'alinéa précédent peut être accompagnée de
 l'obligation d'indemniser la partie civile.

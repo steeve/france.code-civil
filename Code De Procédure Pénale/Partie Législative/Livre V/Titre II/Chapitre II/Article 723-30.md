@@ -2,14 +2,11 @@ Article 723-30
 ----
 La surveillance judiciaire peut comporter les obligations suivantes :
 
-1° Obligations prévues par l'article 132-44 et par les 2°, 3°, 8°, 9°, 11°, 12°,
-13° et 14° de l'article 132-45 du code pénal ;
+1° Obligations prévues par les articles 132-44 et 132-45 du code pénal ;
 
-2° Obligations prévues par l'article 131-36-2 (1°, 2° et 3°) du même code ;
+2° Obligation prévue par l'article 131-36-12 du même code ;
 
-3° Obligation prévue par l'article 131-36-12 du même code ;
-
-4° Si la personne a été condamnée à une peine de réclusion criminelle d'une
+3° Si la personne a été condamnée à une peine de réclusion criminelle d'une
 durée égale ou supérieure à quinze ans pour l'un des crimes mentionnés à
 l'article 706-53-13 du présent code, obligation d'assignation à domicile,
 emportant pour l'intéressé l'interdiction de s'absenter de son domicile ou de

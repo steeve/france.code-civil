@@ -25,7 +25,8 @@ Sans préjudice des dispositions de l'article 763-7, le juge de l'application de
 peines peut proposer à tout condamné relevant des dispositions de l'alinéa
 précédent de suivre un traitement pendant la durée de sa détention, si un
 médecin estime que cette personne est susceptible de faire l'objet d'un tel
-traitement.
+traitement. Ce traitement peut être celui prévu par le dernier alinéa de
+l'article L. 3711-3 du code de la santé publique.
 
 Les dispositions des articles L. 3711-1, L. 3711-2 et L. 3711-3 du code de la
 santé publique sont applicables au médecin traitant du condamné détenu, qui

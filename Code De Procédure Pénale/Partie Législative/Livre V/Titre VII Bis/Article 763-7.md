@@ -8,8 +8,7 @@ adapté.
 
 Elle est immédiatement informée par le juge de l'application des peines de la
 possibilité d'entreprendre un traitement. Si elle ne consent pas à suivre un
-traitement, cette information est renouvelée au moins une fois tous les six
-mois.
+traitement, cette information est renouvelée au moins une fois tous les ans.
 
 En cas de suspension ou de fractionnement de la peine, de placement à
 l'extérieur sans surveillance ou de mesure de semi-liberté, les obligations

@@ -6,17 +6,23 @@ commutations ou réductions de peines, des décisions qui suspendent ou qui
 ordonnent l'exécution d'une première condamnation, des décisions prises en
 application du deuxième alinéa de l'article 728-4 ou du premier alinéa de
 l'article 728-7, des décisions de libération conditionnelle et de révocation,
-des décisions de suspension de peine, des réhabilitations, des décisions qui
-rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de
-l'expiration de la peine et du paiement de l'amende.
+des décisions de surveillance judiciaire et de réincarcération prises en
+application de l'article 723-35, des décisions de surveillance de sûreté, des
+décisions de rétention de sûreté, des décisions de suspension de peine, des
+réhabilitations, des décisions qui rapportent ou suspendent les arrêtés
+d'expulsion, ainsi que la date de l'expiration de la peine et du paiement de
+l'amende.
+
+Il est fait mention, sur les fiches du casier judiciaire relatives à des
+décisions de rétention de sûreté ou de surveillance de sûreté, des décisions de
+renouvellement de ces mesures.
 
 Sont retirées du casier judiciaire les fiches relatives à des condamnations
 effacées par une amnistie ou réformées en conformité d'une décision de
 rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne
 les condamnations prononcées pour des faits imprescriptibles, des fiches
-relatives à des condamnations ou des décisions d'irresponsabilité pénale pour
-cause de trouble mental prononcées depuis plus de quarante ans et qui n'ont pas
-été suivies d'une nouvelle condamnation à une peine criminelle ou
+relatives à des condamnations prononcées depuis plus de quarante ans et qui
+n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou
 correctionnelle.
 
 Sont également retirés du casier judiciaire :
@@ -61,4 +67,10 @@ dispositions précitées de ladite ordonnance ;
 
 8° Les condamnations ayant fait l'objet d'une réhabilitation judiciaire, lorsque
 la juridiction a expressément ordonné la suppression de la condamnation du
-casier judiciaire conformément au deuxième alinéa de l'article 798.
+casier judiciaire conformément au deuxième alinéa de l'article 798 ;
+
+9° Les fiches relatives aux jugements ou arrêts de déclaration
+d'irresponsabilité pénale pour cause de trouble mental, lorsque
+l'hospitalisation d'office ordonnée en application de l'article 706-135 a pris
+fin ou lorsque les mesures de sûreté prévues par l'article 706-136 ont cessé
+leurs effets.

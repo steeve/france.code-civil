@@ -8,7 +8,9 @@ comparaître, dans un délai qui ne saurait excéder trente jours, devant le jug
 de l'application des peines en vue de déterminer les modalités d'exécution de la
 peine. Le condamné est également avisé qu'il est convoqué aux mêmes fins devant
 le service pénitentiaire d'insertion et de probation dans un délai qui ne
-saurait être supérieur à quarante-cinq jours.
+saurait être supérieur à quarante-cinq jours. Les durées de deux ans prévues par
+le présent alinéa sont réduites à un an si le condamné est en état de récidive
+légale.
 
 L'avis de convocation devant le juge de l'application des peines précise que,
 sauf exercice par le condamné des voies de recours, la peine prononcée contre

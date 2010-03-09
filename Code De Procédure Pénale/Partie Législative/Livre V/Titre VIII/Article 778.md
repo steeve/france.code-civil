@@ -28,4 +28,4 @@ demande en rectification.
 
 La même procédure est applicable au cas de contestation sur la réhabilitation de
 droit, ou de difficultés soulevées par l'interprétation d'une loi d'amnistie,
-dans les termes de l'article 769, alinéa 2.
+dans les termes du troisième alinéa de l'article 769.

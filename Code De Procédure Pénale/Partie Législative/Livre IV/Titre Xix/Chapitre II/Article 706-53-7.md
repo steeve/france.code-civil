@@ -14,7 +14,13 @@ prévues aux articles 706-53-5 et 706-53-8 ;
 décret prévu à l'article 706-53-12, pour les décisions administratives de
 recrutement, d'affectation, d'autorisation, d'agrément ou d'habilitation
 concernant des activités ou professions impliquant un contact avec des mineurs
-ainsi que pour le contrôle de l'exercice de ces activités ou professions.
+ainsi que pour le contrôle de l'exercice de ces activités ou professions ;
+
+4° Aux agents des greffes spécialement habilités par les chefs d'établissement
+pénitentiaire, à partir de l'identité de la personne incarcérée, pour vérifier
+qu'elle a fait l'objet de l'information mentionnée à l'article 706-53-6 et pour
+enregistrer les dates de mise sous écrou et de libération ainsi que l'adresse du
+domicile déclaré par la personne libérée.
 
 Les autorités et personnes mentionnées aux 1° et 2° du présent article peuvent
 interroger le fichier à partir de plusieurs critères fixés par le décret prévu à
@@ -28,10 +34,10 @@ administrative.
 
 Les officiers de police judiciaire peuvent également, sur instruction du
 procureur de la République ou du juge d'instruction ou avec l'autorisation de ce
-magistrat, consulter le fichier à partir de l'identité d'une personne gardée à
-vue dans le cadre d'une enquête de flagrance ou d'une enquête préliminaire ou en
-exécution d'une commission rogatoire, même si cette procédure ne concerne pas
-une des infractions mentionnées au 2° du présent article.
+magistrat, consulter le fichier dans le cadre d'une enquête de flagrance ou
+d'une enquête préliminaire ou en exécution d'une commission rogatoire, même si
+cette procédure ne concerne pas une des infractions mentionnées au 2° du présent
+article.
 
 Les maires, les présidents de conseil général et les présidents de conseil
 régional sont également destinataires, par l'intermédiaire des préfets, des

@@ -13,7 +13,7 @@ l'appel par le condamné, le procureur de la République et le procureur génér
 Si la personne condamnée à un suivi socio-judiciaire n'a pas été soumise à une
 injonction de soins, le juge de l'application des peines ordonne en vue de sa
 libération une expertise médicale afin de déterminer si elle est susceptible de
-faire l'objet d'un traitement. S'il est établi à la suite de cette expertise la
+faire l'objet d'un traitement.S'il est établi à la suite de cette expertise la
 possibilité d'un traitement, la personne condamnée est soumise à une injonction
 de soins, sauf décision contraire du juge de l'application des peines. Le juge
 de l'application des peines avertit le condamné qu'aucun traitement ne pourra
@@ -34,5 +34,5 @@ des deux premiers alinéas du présent article sont applicables.
 Si la personne a été condamnée à une peine de réclusion criminelle d'une durée
 égale ou supérieure à quinze ans pour l'un des crimes mentionnés à l'article
 706-53-13, le juge de l'application des peines peut également prononcer une
-obligation d'assignation à domicile prévue par le 4° de l'article 723-30. Les
+obligation d'assignation à domicile prévue par le 3° de l'article 723-30. Les
 dispositions des deux premiers alinéas du présent article sont applicables.

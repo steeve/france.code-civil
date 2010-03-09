@@ -2,13 +2,13 @@ Article 763-10
 ----
 Un an au moins avant la date prévue de sa libération, la personne condamnée au
 placement sous surveillance électronique mobile en application des articles
-131-36-9 à l31-36-12 du code pénal fait l'objet d'un examen destiné à évaluer sa
+131-36-9 à 131-36-12 du code pénal fait l'objet d'un examen destiné à évaluer sa
 dangerosité et à mesurer le risque de commission d'une nouvelle infraction.
 
-Cet examen est mis en oeuvre par le juge de l'application des peines, après avis
-de la commission pluridisciplinaire des mesures de sûreté composée selon des
-modalités déterminées par le décret prévu à l'article 763-14. Les dispositions
-de l'article 712-16 sont applicables.
+Cet examen est mis en oeuvre par le juge de l'application des peines ; celui-ci
+peut solliciter l'avis de la commission pluridisciplinaire des mesures de sûreté
+composée selon des modalités déterminées par le décret prévu à l'article 763-14.
+Les articles 712-16 et 712-16-1 sont applicables.
 
 Au vu de cet examen, le juge de l'application des peines détermine, selon les
 modalités prévues par l'article 712-6, la durée pendant laquelle le condamné

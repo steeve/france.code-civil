@@ -6,8 +6,8 @@ supérieure à quinze ans pour l'une des infractions visées à l'article 706-53
 la juridiction régionale mentionnée à l'article 706-53-15 peut, selon les
 modalités prévues par cet article, décider de prolonger tout ou partie des
 obligations auxquelles est astreinte la personne, au-delà de la limite prévue à
-l'article 723-29, en la plaçant sous surveillance de sûreté pour une durée d'un
-an.
+l'article 723-29, en la plaçant sous surveillance de sûreté pour une durée de
+deux ans.
 
 La juridiction régionale de la rétention de sûreté est saisie par le juge de
 l'application des peines ou le procureur de la République six mois avant la fin
@@ -28,4 +28,14 @@ La surveillance de sûreté peut être prolongée selon les mêmes modalités et
 la même durée si les conditions prévues par le présent article demeurent
 remplies.
 
-Les dispositions du dernier alinéa de l'article 706-53-19 sont applicables.
+Les dispositions des quatre derniers alinéas de l'article 706-53-19 sont
+applicables.
+
+La juridiction régionale de la rétention de sûreté peut également, selon les
+modalités prévues à l'article 706-53-15, ordonner une surveillance de sûreté à
+l'égard d'une personne placée sous surveillance judiciaire à laquelle toutes les
+réductions de peine ont été retirées, en application du premier alinéa de
+l'article 723-35, à la suite d'une violation des obligations auxquelles elle
+était soumise dans des conditions qui font apparaître des risques qu'elle
+commette à nouveau l'une des infractions mentionnées à l'article 706-53-13. La
+surveillance de sûreté s'applique dès la libération de la personne.

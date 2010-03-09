@@ -2,9 +2,13 @@ Article 706-54
 ----
 Le fichier national automatisé des empreintes génétiques, placé sous le contrôle
 d'un magistrat, est destiné à centraliser les empreintes génétiques issues des
-traces biologiques ainsi que les empreintes génétiques des personnes condamnées
-pour l'une des infractions mentionnées à l'article 706-55 en vue de faciliter
-l'identification et la recherche des auteurs de ces infractions.
+traces biologiques ainsi que les empreintes génétiques des personnes déclarées
+coupables de l'une des infractions mentionnées à l'article 706-55 en vue de
+faciliter l'identification et la recherche des auteurs de ces infractions. Sont
+conservées dans les mêmes conditions les empreintes génétiques des personnes
+poursuivies pour l'une des infractions mentionnées à l'article 706-55 ayant fait
+l'objet d'une décision d'irresponsabilité pénale en application des articles
+706-120, 706-125, 706-129, 706-133 ou 706-134.
 
 Les empreintes génétiques des personnes à l'encontre desquelles il existe des
 indices graves ou concordants rendant vraisemblable qu'elles aient commis l'une

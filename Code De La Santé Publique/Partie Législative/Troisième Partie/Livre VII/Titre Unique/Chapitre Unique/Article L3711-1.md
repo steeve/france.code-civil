@@ -1,10 +1,10 @@
 Article L3711-1
 ----
-Pour la mise en œuvre de l'injonction de soins prévue par les articles 131-36-4
-et 132-45-1 du code pénal et les articles 723-30 et 731-1 du code de procédure
-pénale, le juge de l'application des peines désigne, sur une liste de
-psychiatres ou de médecins ayant suivi une formation appropriée établie par le
-procureur de la République, un médecin coordonnateur qui est chargé :
+Pour la mise en œuvre de l'injonction de soins prévue par l'article 131-36-4 du
+code pénal et les articles 723-30 et 731-1 du code de procédure pénale, le juge
+de l'application des peines désigne, sur une liste de psychiatres ou de médecins
+ayant suivi une formation appropriée établie par le procureur de la République,
+un médecin coordonnateur qui est chargé :
 
 1° D'inviter le condamné, au vu des expertises réalisées au cours de la
 procédure ainsi que, le cas échéant, au cours de l'exécution de la peine

@@ -18,3 +18,6 @@ aux articles 148-1 et 148-2. Toutefois, lorsque la commission a renvoyé
 l'affaire devant l'assemblée plénière de la Cour de cassation, la demande de
 mise en liberté est examinée par la chambre de l'instruction de la cour d'appel
 dans le ressort de laquelle siège la juridiction ayant condamné l'intéressé.
+
+Les troisième à sixième alinéas de l'article 624 sont applicables aux
+suspensions ordonnées par la commission ou la Cour de cassation.

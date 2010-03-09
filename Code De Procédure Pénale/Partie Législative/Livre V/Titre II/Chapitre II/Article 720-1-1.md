@@ -35,7 +35,8 @@ médicale à l'égard d'un condamné ayant bénéficié d'une mesure de suspensi
 peine en application du présent article et ordonner qu'il soit mis fin à la
 suspension si les conditions de celle-ci ne sont plus remplies. Il en est de
 même si le condamné ne respecte pas les obligations qui lui ont été imposées en
-application des dispositions de l'alinéa précédent. La décision du juge de
+application des dispositions de l'alinéa précédent ou s'il existe de nouveau un
+risque grave de renouvellement de l'infraction. La décision du juge de
 l'application des peines est prise selon les modalités prévues par l'article
 712-6.
 

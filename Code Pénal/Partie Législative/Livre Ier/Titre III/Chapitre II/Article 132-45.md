@@ -29,10 +29,12 @@ dues au Trésor public à la suite de la condamnation ;
 7° S'abstenir de conduire certains véhicules déterminés par les catégories de
 permis prévues par le code de la route ;
 
-8° Ne pas se livrer à l'activité professionnelle dans l'exercice ou à l'occasion
-de laquelle l'infraction a été commise ;
+8° Ne pas se livrer à l'activité dans l'exercice ou à l'occasion de l'exercice
+de laquelle l'infraction a été commise ou ne pas exercer une activité impliquant
+un contact habituel avec des mineurs ;
 
-9° S'abstenir de paraître en tout lieu spécialement désigné ;
+9° S'abstenir de paraître en tout lieu, toute catégorie de lieux ou toute zone
+spécialement désignés ;
 
 10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ;
 
@@ -41,8 +43,9 @@ de laquelle l'infraction a été commise ;
 12° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de
 l'infraction ;
 
-13° S'abstenir d'entrer en relation avec certaines personnes, notamment la
-victime de l'infraction.
+13° S'abstenir d'entrer en relation avec certaines personnes, dont la victime,
+ou certaines catégories de personnes, et notamment des mineurs, à l'exception,
+le cas échéant, de ceux désignés par la juridiction ;
 
 14° Ne pas détenir ou porter une arme ;
 

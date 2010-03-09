@@ -43,4 +43,7 @@ transfèrement des personnes condamnées ;
 9° Les compositions pénales, dont l'exécution a été constatée par le procureur
 de la République ;
 
-10° Les décisions d'irresponsabilité pénale pour cause de trouble mental.
+10° Les jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause
+de trouble mental, lorsqu'une hospitalisation d'office a été ordonnée en
+application de l'article 706-135 ou lorsqu'une ou plusieurs des mesures de
+sûreté prévues par l'article 706-136 ont été prononcées.
