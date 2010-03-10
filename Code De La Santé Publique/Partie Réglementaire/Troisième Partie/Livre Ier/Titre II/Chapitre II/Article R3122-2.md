@@ -1,11 +1,10 @@
 Article R3122-2
 ----
-La commission d'indemnisation instituée par le troisième alinéa de l'article L.
-3122-1 peut décider de procéder à l'audition du demandeur.
+Toute personne physique ou morale détenant des informations de nature à éclairer
+l'office sur les demandes d'indemnisation dont il est saisi est tenue, à la
+demande de l'office, de lui transmettre ces informations en application du
+quatrième alinéa de l'article L. 3122-2. Les informations médicales couvertes
+par le secret médical ne peuvent être transmises que par un médecin.
 
-A tout moment de la procédure, le demandeur peut se faire assister ou
-représenter par une personne de son choix, y compris en cas d'audition par la
-commission.
-
-Le demandeur est avisé de la date à laquelle la commission se réunira en vue de
-statuer sur sa demande d'indemnisation ou de versement de provision.
+L'office communique ces informations au demandeur. Les informations de caractère
+médical lui sont transmises par ce médecin.
