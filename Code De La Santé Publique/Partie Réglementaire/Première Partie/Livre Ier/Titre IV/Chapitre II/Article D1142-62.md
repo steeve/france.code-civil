@@ -1,12 +1,6 @@
 Article D1142-62
 ----
-L'Observatoire des risques médicaux ne peut délibérer que si au moins la moitié
-de ses membres en exercice, dont le président ou, en son absence, le
-vice-président, sont présents.
-
-Les délibérations sont prises à la majorité des membres présents. En cas de
-partage égal des voix, celle du président ou, en son absence, du vice-président,
-est prépondérante.
-
-L'Observatoire des risques médicaux a la faculté d'entendre toute personne
-qualifiée.
+Lorsque la personne considérée par la commission régionale ou interrégionale
+comme responsable des dommages n'est pas assurée, le délai prévu à l'article L.
+1142-14 court à compter de la date de réception par l'office de l'avis de la
+commission régionale ou interrégionale.

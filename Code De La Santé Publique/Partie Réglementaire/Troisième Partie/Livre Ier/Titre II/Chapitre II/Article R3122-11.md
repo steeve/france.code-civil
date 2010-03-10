@@ -1,8 +1,12 @@
 Article R3122-11
 ----
-Le président du fonds préside ce conseil et le convoque chaque fois qu'il le
-juge utile et au moins une fois par trimestre.
+La demande est formée par déclaration écrite remise en double exemplaire contre
+récépissé au greffe de la cour d'appel ou adressée à ce même greffe par lettre
+recommandée avec demande d'avis de réception.
 
-Le conseil émet des avis et formule toute suggestion utile relative à l'exercice
-des missions du fonds, notamment en ce qui concerne les modalités de
-l'instruction des dossiers et les modes de réparation des préjudices.
+La déclaration indique les nom, prénom, adresse du demandeur et l'objet de la
+demande.
+
+Lorsque la déclaration ne contient pas l'exposé des motifs invoqués, le
+demandeur dépose cet exposé au greffe dans le mois qui suit le dépôt de la
+déclaration, à peine d'irrecevabilité de la demande.

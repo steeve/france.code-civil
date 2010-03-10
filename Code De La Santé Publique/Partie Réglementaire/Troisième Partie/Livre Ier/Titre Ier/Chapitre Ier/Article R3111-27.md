@@ -1,13 +1,15 @@
 Article R3111-27
 ----
-La commission se réunit sur convocation de son président ou de son
-vice-président, qui fixe l'ordre du jour.
+La demande en vue de l'indemnisation d'un dommage considéré comme imputable à
+une vaccination obligatoire est adressée à l'Office national d'indemnisation des
+accidents médicaux, des affections iatrogènes et des infections nosocomiales
+mentionné à l'article L. 1142-22, par lettre recommandée avec demande d'avis de
+réception, ou déposée auprès du secrétariat de l'office contre récépissé.
 
-Elle ne peut délibérer que si la moitié au moins des membres en exercice sont
-présents, non compris le président et, en son absence, le vice-président. Dans
-le cas contraire, une nouvelle séance se tient, sans obligation de quorum, au
-terme d'un délai de quinze jours.
+Elle est accompagnée d'un dossier rapportant le caractère obligatoire de la
+vaccination, eu égard, s'il y a lieu, à l'activité professionnelle de la
+victime, la réalisation des injections et la nature du dommage imputé à la
+vaccination.
 
-Les avis de la commission sont adoptés à la majorité des membres présents. En
-cas de partage égal des voix, celle du président ou, en cas d'absence, du
-vice-président est prépondérante.
+L'office accuse réception du dossier et, le cas échéant, demande les pièces
+manquantes.

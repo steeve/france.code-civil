@@ -1,10 +1,6 @@
 Article R1142-58
 ----
-Lorsque les plafonds de garantie des contrats d'assurance de la personne
-responsable des dommages sont atteints et ne permettent pas l'indemnisation de
-la victime ou de ses ayants droit, l'assureur avertit sans délai ces derniers
-ainsi que la personne considérée comme responsable et l'office, par lettre
-recommandée avec accusé de réception.
-
-Le délai de quatre mois prévu à l'article L. 1142-14 court à compter de la date
-de la réception par l'office de la lettre de l'assureur.
+La dotation globale prévue au septième alinéa de l'article L. 1142-23 est versée
+par la caisse primaire d'assurance maladie du lieu d'implantation de l'office,
+sous forme de versements mensuels, dans des conditions prévues par une
+convention conclue entre cette caisse et l'office.

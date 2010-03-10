@@ -1,6 +1,6 @@
 Article R1142-57
 ----
-Lorsque la personne considérée par la commission régionale ou interrégionale
-comme responsable des dommages n'est pas assurée, le délai prévu à l'article L.
-1142-14 court à compter de la date de réception par l'office de l'avis de la
-commission régionale ou interrégionale.
+Le directeur peut effectuer des virements de crédits entre les chapitres du
+compte de résultat prévisionnel par décision modificative provisoire, sous
+réserve qu'elle soit sans incidence sur le résultat et qu'elle ne comporte pas
+de virements entre les chapitres de personnel et ceux de matériel.

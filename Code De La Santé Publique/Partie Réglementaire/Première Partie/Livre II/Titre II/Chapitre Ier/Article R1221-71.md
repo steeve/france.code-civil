@@ -1,4 +1,4 @@
-Article R3122-3
+Article R1221-71
 ----
 Afin d'apprécier l'importance des dommages et de déterminer leur imputabilité,
 le directeur de l'office diligente, s'il y a lieu, une expertise.
@@ -20,8 +20,8 @@ L'expert adresse son projet de rapport au demandeur qui dispose alors d'un déla
 de quinze jours pour lui faire parvenir ses éventuelles observations.
 
 Dans les trois mois suivant la date de sa désignation, l'expert adresse à
-l'office son rapport d'expertise comprenant sa réponse aux éventuelles
-observations du demandeur.
+l'office son rapport d'expertise comprenant sa réponse aux observations du
+demandeur.
 
-L'office adresse ce rapport sans délai au demandeur qui dispose d'un délai de
+L'office adresse sans délai ce rapport au demandeur qui dispose d'un délai de
 quinze jours pour lui faire parvenir ses éventuelles observations.

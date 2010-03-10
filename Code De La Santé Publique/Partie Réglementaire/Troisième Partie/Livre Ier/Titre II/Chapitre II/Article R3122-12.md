@@ -1,5 +1,7 @@
 Article R3122-12
 ----
-Le secrétaire général du fonds est désigné par arrêté des ministres chargés des
-affaires sociales, du budget, de l'économie et des finances et de la santé. Il
-assiste avec voix consultative aux séances de la commission d'indemnisation.
+La déclaration ou l'exposé des motifs prévu à l'article R. 3122-11 mentionne la
+liste des pièces et documents justificatifs produits. Les pièces et documents
+sont remis au greffe de la cour d'appel en même temps que la déclaration ou
+l'exposé des motifs. Le cas échéant, copie de l'offre d'indemnisation ou du
+rejet de la demande est jointe à la déclaration.

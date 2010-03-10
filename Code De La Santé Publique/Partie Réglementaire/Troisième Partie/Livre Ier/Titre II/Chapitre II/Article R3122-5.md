@@ -1,9 +1,9 @@
 Article R3122-5
 ----
-La durée du délai défini au premier alinéa de l'article L. 3122-5 est fixée à
-trois mois.
+L'office se prononce sur la demande d'indemnisation, par lettre recommandée avec
+demande d'avis de réception.
 
-L'offre d'indemnisation est notifiée au demandeur par lettre recommandée avec
-demande d'avis de réception ; elle est accompagnée, le cas échéant, de la copie
-des décomptes produits par les personnes ou organismes débiteurs des prestations
-ou indemnités mentionnées au deuxième alinéa de l'article L. 3122-5.
+Les décisions rejetant totalement ou partiellement cette demande sont motivées.
+
+En cas d'acceptation, le directeur de l'office présente au demandeur l'offre
+d'indemnisation arrêtée dans les conditions fixées à l'article L. 3122-5.

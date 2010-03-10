@@ -1,29 +1,10 @@
 Article R3122-8
 ----
-En application du troisième alinéa de l'article L. 3122-1, la commission
-d'indemnisation est chargée, d'une part, de se prononcer sur les demandes
-d'indemnisation, d'autre part, d'administrer ce fonds.
+Le délai pour agir en justice devant la cour d'appel de Paris contre l'office
+est de deux mois. Ce délai court à compter de la notification par lettre
+recommandée avec demande d'avis de réception de l'offre d'indemnisation ou du
+rejet de la demande.
 
-Elle est présidée par le président du fonds, président de chambre ou conseiller
-à la Cour de cassation, en activité ou honoraire, qui est nommé par arrêté des
-ministres chargés des affaires sociales, du budget, de l'économie et des
-finances, de la justice et de la santé.
-
-La commission comprend en outre quatre membres nommés par arrêté conjoint des
-mêmes ministres :
-
-1° Un membre du Conseil d'Etat ;
-
-2° Un membre de l'inspection générale des affaires sociales ;
-
-3° Un médecin membre ou ancien membre du Conseil national du syndrome de
-l'immuno-déficience acquise ;
-
-4° Une personnalité qualifiée dans le domaine de la santé.
-
-Le président et les membres de la commission ont chacun un suppléant nommé dans
-les mêmes conditions ; ils sont nommés, ainsi que les suppléants, pour une
-période de trois ans renouvelable.
-
-En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son
-prédécesseur pour la durée du mandat restant à courir.
+A défaut d'offre ou de rejet de la demande, le point de départ du délai est fixé
+à l'expiration d'un délai de six mois qui court à partir du jour où l'office
+reçoit la justification complète des préjudices.

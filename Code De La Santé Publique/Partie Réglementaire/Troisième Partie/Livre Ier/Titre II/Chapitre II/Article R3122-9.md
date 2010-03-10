@@ -1,7 +1,5 @@
 Article R3122-9
 ----
-La commission se réunit sur convocation de son président aussi souvent que ce
-dernier le juge utile et au moins une fois par trimestre.
-
-Les décisions de la commission sont prises à la majorité des membres la
-composant.
+La notification de l'offre d'indemnisation ou du rejet de la demande par
+l'office mentionne le délai pour agir et les modalités selon lesquelles l'action
+peut être exercée devant la cour d'appel de Paris.

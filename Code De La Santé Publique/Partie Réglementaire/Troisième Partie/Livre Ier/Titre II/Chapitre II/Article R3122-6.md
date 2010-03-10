@@ -1,7 +1,7 @@
 Article R3122-6
 ----
-Le demandeur fait connaître au fonds par lettre recommandée avec demande d'avis
-de réception s'il accepte ou non l'offre d'indemnisation qui lui est faite.
+La durée du délai défini au premier alinéa de l'article L. 3122-5 est fixée à
+six mois.
 
-Lorsque le demandeur accepte l'offre, le fonds dispose d'un délai d'un mois pour
-verser la somme correspondante.
+Ce délai est également applicable en cas d'aggravation d'un préjudice déjà
+couvert au titre du premier alinéa de l'article L. 3122-1.

@@ -1,6 +1,6 @@
 Article R3122-20
 ----
-Par dérogation aux dispositions du titre VI du livre II du code de procédure
-civile, les actions intentées devant la cour d' appel de Paris contre l' office
-sont engagées, instruites et jugées conformément aux dispositions des articles
-R. 3122-21 à R. 3122-30.
+L'office peut, pour exercer l'action subrogatoire prévue à l'article L. 3122-4,
+intervenir même pour la première fois en cause d'appel devant toute juridiction
+de l'ordre administratif ou judiciaire. Il intervient alors à titre principal et
+peut user de toutes les voies de recours ouvertes par la loi.

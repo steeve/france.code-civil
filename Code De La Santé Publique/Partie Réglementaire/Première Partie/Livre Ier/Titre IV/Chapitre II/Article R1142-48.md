@@ -1,7 +1,6 @@
 Article R1142-48
 ----
-Les opérations financières et comptables sont effectuées conformément aux
-dispositions du décret n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à
-caractère administratif et du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique.
+Les membres du conseil peuvent prétendre au remboursement des frais de
+déplacement qu'ils sont susceptibles d'engager à l'occasion de l'exercice de
+leurs fonctions dans les conditions prévues par la réglementation applicable aux
+fonctionnaires de l'Etat.
