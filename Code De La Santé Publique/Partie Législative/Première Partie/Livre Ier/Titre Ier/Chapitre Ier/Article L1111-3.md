@@ -10,12 +10,10 @@ obligatoires d'assurance maladie. Lorsque l'acte ou la prestation inclut la
 fourniture d'un dispositif médical visé à l'article L. 5211-1, l'information
 écrite délivrée gratuitement au patient comprend, de manière dissociée, le prix
 d'achat de chaque élément de l'appareillage proposé, le prix de toutes les
-prestations associées, ainsi qu'une copie de la déclaration de fabrication du
-dispositif médical telle que prévue aux articles R. 5211-21 à R. 5211-24 dans
-des conditions fixées par décret. Les infractions au présent alinéa sont
-constatées et poursuivies dans les conditions prévues pour les infractions aux
-décisions prises en application de l'article L. 162-38 du code de la sécurité
-sociale et punies des mêmes peines.
+prestations associées. Les infractions au présent alinéa sont constatées et
+poursuivies dans les conditions prévues pour les infractions aux décisions
+prises en application de l'article L. 162-38 du code de la sécurité sociale et
+punies des mêmes peines.
 
 Une information écrite préalable précisant le tarif des actes effectués ainsi
 que la nature et le montant du dépassement facturé doit être obligatoirement

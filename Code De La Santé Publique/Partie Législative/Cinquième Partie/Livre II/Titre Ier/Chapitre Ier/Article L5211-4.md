@@ -1,7 +1,7 @@
 Article L5211-4
 ----
 Lors de la mise en service sur le territoire national de catégories de
-dispositifs médicaux présentant un potentiel élevé de risques pour la santé
+dispositifs médicaux, définies en fonction de leur degré de risque pour la santé
 humaine, toutes les données permettant d'identifier ces dispositifs, avec un
 exemplaire de l'étiquetage et de la notice d'instruction, doivent être
 communiquées à l'Agence française de sécurité sanitaire des produits de santé.

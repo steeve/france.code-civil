@@ -18,4 +18,7 @@ certification est valable ;
 5° Les catégories de dispositifs médicaux et les modalités de la communication
 prévues à l'article L. 5211-4, ainsi que les données devant être transmises à
 l'Agence française de sécurité sanitaire des produits de santé en application de
-cet article.
+cet article ;
+
+6° Les modalités de l'évaluation des données cliniques des dispositifs médicaux
+mentionnées à l'article L. 5211-3-2.
