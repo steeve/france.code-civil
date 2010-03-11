@@ -1,6 +1,6 @@
 Article R121-2-1
 ----
-Pour l'application de l'article L. 121-20-10, le fournisseur communique au
+I.-Pour l'application de l'article L. 121-20-10, le fournisseur communique au
 consommateur des informations concernant :
 
 1° Son identité : l'identité, l'activité principale, l'adresse géographique à
@@ -100,3 +100,12 @@ payer en vertu de l'article L. 121-20-13.
 Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres
 informations peuvent être fournies sur demande et, d'autre part, la nature de
 ces informations.
+
+II.-Lorsqu'un service de paiement défini au II de l'article L. 314-2 du code
+monétaire et financier est fourni dans les conditions prévues à l'article L.
+121-20-8 du présent code, le fournisseur communique au consommateur, sans
+préjudice des informations précisées par les dispositions législatives et
+réglementaires particulières à ce service, les informations prévues à la
+deuxième phrase du premier alinéa du 2° du I, aux deuxième et troisième alinéas
+du 2° du I, aux premier et deuxième alinéas du 3° du I, à la deuxième phrase du
+premier alinéa du 4° du I et, le cas échéant, au 5° du I.
