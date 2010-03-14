@@ -2,7 +2,7 @@ Article R5211-38
 ----
 Dans le cadre de la procédure applicable aux dispositifs médicaux faisant
 l'objet d'investigations cliniques, le fabricant établit une déclaration
-comprenant les informations mentionnées aux articles R. 1123-28 à R. 1123-33 et
+comprenant les informations mentionnées aux articles R. 1123-29 à R. 1123-34 et
 certifiant que le dispositif médical concerné est conforme aux exigences
 essentielles définies à la section 5 du présent chapitre, à l'exception des
 aspects devant faire l'objet des investigations et pour lesquels il certifie que

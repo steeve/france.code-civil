@@ -1,8 +1,8 @@
 Article R5211-66
 ----
 Les dispositifs médicaux devant faire l'objet de la communication prévue à
-l'article L. 5211-4 sont les dispositifs médicaux des classes II b et III ainsi
-que les dispositifs médicaux implantables actifs.
+l'article L. 5211-4 sont les dispositifs médicaux des classes II a, II b et III
+ainsi que les dispositifs médicaux implantables actifs.
 
 La communication est effectuée auprès du directeur général de l'Agence française
 de sécurité sanitaire des produits de santé lors de la mise en service sur le

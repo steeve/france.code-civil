@@ -14,7 +14,7 @@ pour protéger la santé et la sécurité des patients ;
 
 2° Informer de son intention le directeur général de l'Agence française de
 sécurité sanitaire des produits de santé dans les conditions prévues à l'article
-L. 1123-8 et les articles R. 1123-28 à R. 1123-33.
+L. 1123-8 et les articles R. 1123-29 à R. 1123-34.
 
 Les investigations ne peuvent être entreprises que dans les conditions prévues
 aux articles L. 1121-3 et L. 1123-8. Elles doivent être conduites dans les
