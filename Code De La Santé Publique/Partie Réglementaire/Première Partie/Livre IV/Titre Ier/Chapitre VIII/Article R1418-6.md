@@ -6,8 +6,7 @@ Le conseil d'administration de l'agence comprend, outre son président :
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+b) Le directeur général de l'offre de soins ou son représentant ;
 
 c) Le secrétaire général, du personnel et du budget au ministère chargé de la
 santé ou son représentant ;

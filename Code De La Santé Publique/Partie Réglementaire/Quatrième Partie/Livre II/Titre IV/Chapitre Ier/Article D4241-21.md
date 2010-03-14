@@ -2,9 +2,8 @@ Article D4241-21
 ----
 Sont membres de droit de la commission :
 
-1° Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant et un membre de la direction de l'hospitalisation et de
-l'organisation des soins désigné par lui ;
+1° Le directeur général de l'offre de soins ou son représentant et un membre de
+la direction générale de l'offre de soins désigné par lui ;
 
 2° Le directeur général de l'enseignement scolaire ou son représentant et un
 membre de la direction générale de l'enseignement scolaire désigné par lui ;

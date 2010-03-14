@@ -4,8 +4,7 @@ Le conseil comprend :
 
 1° Cinq membres de droit :
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+a) Le directeur général de l'offre de soins ou son représentant ;
 
 b) Le président de l'Académie nationale de pharmacie ou son représentant ;
 

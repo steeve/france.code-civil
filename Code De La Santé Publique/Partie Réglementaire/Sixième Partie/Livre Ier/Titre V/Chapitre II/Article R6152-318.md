@@ -8,8 +8,7 @@ ministre chargé de la santé sur proposition du vice-président du Conseil d'Et
 
 2° Le directeur général de la santé ou un médecin le représentant ;
 
-3° Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+3° Le directeur général de l'offre de soins ou son représentant ;
 
 4° Un membre titulaire et un membre suppléant nommés par le ministre chargé de
 la santé parmi les membres de l'inspection générale des affaires sociales, en

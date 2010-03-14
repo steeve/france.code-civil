@@ -6,7 +6,7 @@ La commission est composée de :
 
 a) Le directeur général de la santé ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ;
+b) Le directeur général de l'offre de soins ;
 
 c) Le directeur général de l'Agence de la biomédecine ;
 

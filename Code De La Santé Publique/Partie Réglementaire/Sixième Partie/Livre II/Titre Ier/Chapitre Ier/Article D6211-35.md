@@ -2,8 +2,7 @@ Article D6211-35
 ----
 Sont membres de droit :
 
-1° Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+1° Le directeur général de l'offre de soins ou son représentant ;
 
 2° Le directeur général de la santé ou son représentant ;
 

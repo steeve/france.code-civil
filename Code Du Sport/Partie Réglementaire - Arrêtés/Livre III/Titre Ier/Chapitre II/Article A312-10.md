@@ -12,11 +12,10 @@ représentant ; c) Un représentant du ministre chargé de l'équipement : ― l
 directeur général de l'urbanisme, de l'habitat et de la construction ou son
 représentant ; d) Un représentant du ministre chargé de la défense : ― le
 directeur général de la gendarmerie nationale ou son représentant ; e) Un
-représentant du ministre chargé de la santé : ― le directeur de
-l'hospitalisation et de l'organisation des soins ou son représentant ; 2° Quatre
-membres nommés par arrêté du ministre chargé des sports ; a) Deux membres
-désignés sur proposition du Comité national olympique et sportif français
-représentant le mouvement sportif ; b) Un membre désigné sur proposition de
-l'Association des maires de France ; c) Un membre désigné sur proposition de
-l'organisme le plus représentatif des professionnels de la construction
-d'équipements sportifs.
+représentant du ministre chargé de la santé : ― le directeur général de l'offre
+de soins ou son représentant ; 2° Quatre membres nommés par arrêté du ministre
+chargé des sports ; a) Deux membres désignés sur proposition du Comité national
+olympique et sportif français représentant le mouvement sportif ; b) Un membre
+désigné sur proposition de l'Association des maires de France ; c) Un membre
+désigné sur proposition de l'organisme le plus représentatif des professionnels
+de la construction d'équipements sportifs.

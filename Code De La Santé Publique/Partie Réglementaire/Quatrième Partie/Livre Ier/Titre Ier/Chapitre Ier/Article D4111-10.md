@@ -1,9 +1,8 @@
 Article D4111-10
 ----
-I. - La commission est composée comme suit :
+I.-La commission est composée comme suit :
 
-1° Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant, président ;
+1° Le directeur général de l'offre de soins ou son représentant, président ;
 
 2° Le directeur général de la santé ou son représentant ;
 
@@ -11,7 +10,7 @@ représentant, président ;
 
 4° Deux représentants du Conseil national de l'ordre de la profession concernée.
 
-II. - La section compétente pour l'examen des demandes d'autorisation d'exercice
+II.-La section compétente pour l'examen des demandes d'autorisation d'exercice
 présentées par les médecins comprend en outre :
 
 5° Le collège mentionné à l'article D. 4111-9 constitué pour les disciplines ou
@@ -22,8 +21,8 @@ première instance telle que prévue par le règlement de qualification ;
 des praticiens titulaires d'un diplôme acquis en dehors de l'Union européenne ou
 de l'Espace économique européen.
 
-III. - La section compétente pour l'examen des demandes d'autorisation
-d'exercice présentées par les chirurgiens-dentistes comprend en outre :
+III.-La section compétente pour l'examen des demandes d'autorisation d'exercice
+présentées par les chirurgiens-dentistes comprend en outre :
 
 5° Deux membres choisis parmi des organisations syndicales représentatives des
 chirurgiens-dentistes ;
@@ -36,7 +35,7 @@ de l'Espace économique européen ;
 
 8° Un membre des associations professionnelles.
 
-IV. - La section compétente pour l'examen des demandes d'autorisation d'exercice
+IV.-La section compétente pour l'examen des demandes d'autorisation d'exercice
 présentées par les sages-femmes comprend en outre :
 
 5° Deux membres choisis parmi des organisations syndicales représentatives des

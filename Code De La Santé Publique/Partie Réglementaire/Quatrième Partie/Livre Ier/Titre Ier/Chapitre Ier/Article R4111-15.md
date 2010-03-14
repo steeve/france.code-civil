@@ -5,7 +5,7 @@ professions.
 
 Elle comprend :
 
-1° Le directeur de l'hospitalisation et de l'organisation des soins, président ;
+1° Le directeur général de l'offre de soins , président ;
 
 2° Le directeur général de la santé ;
 

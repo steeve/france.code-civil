@@ -7,8 +7,8 @@ Outre son président, le conseil d'administration de l'établissement comprend :
 -le directeur général de la santé au ministère chargé de la santé ou son
 représentant ;
 
--le directeur de l'hospitalisation et de l'organisation des soins au ministère
-chargé de la santé ou son représentant ;
+-le directeur général de l'offre de soins au ministère chargé de la santé ou son
+représentant ;
 
 -le directeur de la sécurité sociale au ministère chargé de la sécurité sociale
 ou son représentant ;

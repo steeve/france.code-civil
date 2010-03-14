@@ -4,8 +4,7 @@ Le comité comprend :
 
 1° Le directeur général de la santé ou son représentant ;
 
-2° Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+2° Le directeur général de l'offre de soins ou son représentant ;
 
 3° Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;

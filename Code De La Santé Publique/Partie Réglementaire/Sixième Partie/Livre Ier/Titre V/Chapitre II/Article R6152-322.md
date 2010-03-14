@@ -7,6 +7,5 @@ Les modalités d'organisation des opérations électorales sont déterminées pa
 arrêté du ministre chargé de la santé.
 
 Les membres titulaires et les membres suppléants, autres que le directeur
-général de la santé et le directeur de l'hospitalisation et de l'organisation
-des soins, membres de droit, sont désignés pour cinq ans. Leur mandat est
-renouvelable.
+général de la santé et le directeur général de l'offre de soins , membres de
+droit, sont désignés pour cinq ans. Leur mandat est renouvelable.

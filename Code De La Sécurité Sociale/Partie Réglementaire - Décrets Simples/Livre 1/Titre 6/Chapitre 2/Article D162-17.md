@@ -6,7 +6,7 @@ L'observatoire économique de l'hospitalisation publique et privée comprend :
 
 a) Le chef de l'inspection générale des affaires sociales ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ;
+b) Le directeur général de l'offre de soins ;
 
 c) Le directeur de la sécurité sociale ;
 
@@ -51,23 +51,23 @@ prévue au second alinéa du II des articles L. 162-22-3 et L. 162-22-10 sont
 adoptés à la majorité des voix. Celle du président est prépondérante en cas de
 partage égal des voix.
 
-Un secrétaire permanent, placé auprès de la direction de l'hospitalisation et de
-l'organisation des soins, assure l'organisation des travaux ainsi que la
-préparation des rapports prévus à l'article L. 162-21-3. Les frais inhérents au
-fonctionnement du secrétariat de l'observatoire sont pris en charge dans la
-limite des crédits ouverts à cet effet au budget du ministère de la santé.
+Un secrétaire permanent, placé auprès de la direction générale de l'offre de
+soins, assure l'organisation des travaux ainsi que la préparation des rapports
+prévus à l'article L. 162-21-3. Les frais inhérents au fonctionnement du
+secrétariat de l'observatoire sont pris en charge dans la limite des crédits
+ouverts à cet effet au budget du ministère de la santé.
 
 L'observatoire élabore son règlement intérieur.
 
 L'observatoire remet chaque année aux ministres chargés de la santé et de la
 sécurité sociale et au Parlement :
 
-- au plus tard le 30 mai, un rapport portant notamment sur les charges
-supportées par les régimes obligatoires d'assurance maladie afférentes aux frais
+-au plus tard le 30 mai, un rapport portant notamment sur les charges supportées
+par les régimes obligatoires d'assurance maladie afférentes aux frais
 d'hospitalisation mentionnés aux articles L. 162-22-2, L. 162-22-9 et L. 174-1-1
 au titre de l'année précédente ;
 
-- au plus tard le 15 octobre, un rapport portant notamment sur les données
+-au plus tard le 15 octobre, un rapport portant notamment sur les données
 d'activité de soins et les charges supportées par les régimes obligatoires
 d'assurance maladie afférentes aux frais d'hospitalisation mentionnés aux
 articles L. 162-22-2, L. 162-22-9 et L. 174-1-1 au titre du premier semestre de

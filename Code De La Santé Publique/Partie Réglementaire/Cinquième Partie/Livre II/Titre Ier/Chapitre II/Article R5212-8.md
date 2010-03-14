@@ -6,7 +6,7 @@ La commission comprend :
 
 a) Le directeur général de la santé ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ;
+b) Le directeur général de l'offre de soins ;
 
 c) Le président de l'Etablissement français du sang ;
 

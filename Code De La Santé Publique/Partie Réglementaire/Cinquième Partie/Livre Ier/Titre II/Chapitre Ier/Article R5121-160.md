@@ -9,8 +9,7 @@ a) Le directeur général de la santé ou son représentant ;
 b) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;
 
-c) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+c) Le directeur général de l'offre de soins ou son représentant ;
 
 d) Le directeur général de l'Institut national de la santé et de la recherche
 médicale ou son représentant ;

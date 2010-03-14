@@ -27,9 +27,9 @@ centrale de la mutualité sociale agricole ;
 7° Un représentant désigné par le conseil de l'Union nationale des organismes
 d'assurance maladie complémentaire.
 
-Assistent aux réunions du comité, avec voix consultative, le directeur de
-l'hospitalisation et de l'organisation des soins ou son représentant et un
-représentant du ministre chargé de la recherche.
+Assistent aux réunions du comité, avec voix consultative, le directeur général
+de l'offre de soins ou son représentant et un représentant du ministre chargé de
+la recherche.
 
 En fonction de l'ordre du jour, le président peut associer le directeur général
 de la cohésion sociale ou son représentant, un représentant du ministre chargé

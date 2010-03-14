@@ -21,10 +21,9 @@ Le comité peut s'adjoindre le concours de toute personne compétente.
 Le directeur de l'agence, ou son représentant, assiste aux séances du comité. Il
 peut s'y faire assister de tout collaborateur de son choix.
 
-Le directeur de l'hospitalisation et de l'organisation des soins et le directeur
-de la recherche, des études, de l'évaluation et des statistiques du ministère de
-la santé ou leurs représentants assistent avec voix consultative aux séances du
-comité.
+Le directeur général de l'offre de soins et le directeur de la recherche, des
+études, de l'évaluation et des statistiques du ministère de la santé ou leurs
+représentants assistent avec voix consultative aux séances du comité.
 
 Le comité se réunit au moins une fois par an, sur convocation de son président
 ou à l'initiative d'au moins un tiers de ses membres, du président du conseil

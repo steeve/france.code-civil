@@ -12,8 +12,7 @@ ministère chargé de la santé, ou son représentant ;
 
 c) Le directeur de la sécurité sociale ou son représentant ;
 
-d) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+d) Le directeur général de l'offre de soins ou son représentant ;
 
 e) Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;

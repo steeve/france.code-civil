@@ -23,7 +23,7 @@ h) Le directeur des affaires financières, sociales et logistiques ;
 
 i) Le directeur de la sécurité sociale ;
 
-j) Le directeur de l'hospitalisation et de l'organisation des soins ;
+j) Le directeur général de l'offre de soins ;
 
 k) Le chef du service de l'inspection générale des affaires sociales ;
 

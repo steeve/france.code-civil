@@ -4,8 +4,7 @@ Assistent à la conférence, sans voix délibérative :
 
 -le directeur général de la santé ou son représentant ;
 
--le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+-le directeur général de l'offre de soins ou son représentant ;
 
 -le directeur général de la cohésion sociale ou son représentant ;
 

@@ -9,8 +9,7 @@ a) Le directeur général de la santé ou son représentant ;
 b) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;
 
-c) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant.
+c) Le directeur général de l'offre de soins ou son représentant.
 
 2° Vingt-deux membres nommés par le ministre chargé de la santé pour une durée
 de trois ans renouvelable :

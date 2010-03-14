@@ -22,14 +22,13 @@ dans l'ordre de leur nomination, à remplacer les membres titulaires ;
 
 a) Quatre membres de droit :
 
-- le directeur de la sécurité sociale, ou son représentant ;
+-le directeur de la sécurité sociale, ou son représentant ;
 
-- le directeur général de la santé, ou son représentant ;
+-le directeur général de la santé, ou son représentant ;
 
-- le directeur de l'hospitalisation et de l'organisation des soins, ou son
-représentant ;
+-le directeur général de l'offre de soins , ou son représentant ;
 
-- le directeur général de l'Agence française de sécurité sanitaire des produits
+-le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant.
 
 Chacun d'eux peut se faire accompagner par une personne de ses services ;

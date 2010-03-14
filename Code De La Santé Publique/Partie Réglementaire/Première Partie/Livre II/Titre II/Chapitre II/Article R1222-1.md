@@ -7,8 +7,7 @@ le président de l'établissement :
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+b) Le directeur général de l'offre de soins ou son représentant ;
 
 c) Le directeur de l'administration générale, du personnel et du budget au
 ministère de la santé ou son représentant ;

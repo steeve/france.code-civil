@@ -4,8 +4,7 @@ Le conseil d'administration comprend :
 
 1° Six représentants de l'Etat :
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+a) Le directeur général de l'offre de soins ou son représentant ;
 
 b) Le directeur de la recherche, des études, de l'évaluation et des statistiques
 au ministère de la santé ou son représentant ;
@@ -14,12 +13,11 @@ c) Le directeur de la sécurité sociale ou son représentant ;
 
 d) Le directeur du budget ou son représentant ;
 
-e) Un sous-directeur de la direction de l'hospitalisation et de l'organisation
-des soins, désigné par le directeur de l'hospitalisation et de l'organisation
-des soins, ou son représentant ;
+e) Un sous-directeur de la direction générale de l'offre de soins, désigné par
+le directeur général de l'offre de soins , ou son représentant ;
 
 f) Un directeur d'agence régionale de l'hospitalisation, désigné par le
-directeur de l'hospitalisation et de l'organisation des soins ;
+directeur général de l'offre de soins ;
 
 2° Six personnalités nommées par arrêté des ministres chargés de la santé et de
 la sécurité sociale pour une durée de trois ans renouvelable :
@@ -36,5 +34,5 @@ Un représentant du personnel de l'agence, élu selon des modalités fixées par
 règlement intérieur de l'établissement, assiste au conseil avec voix
 consultative.
 
-Le conseil d'administration est présidé par le directeur de l'hospitalisation et
-de l'organisation des soins ou son représentant.
+Le conseil d'administration est présidé par le directeur général de l'offre de
+soins ou son représentant.

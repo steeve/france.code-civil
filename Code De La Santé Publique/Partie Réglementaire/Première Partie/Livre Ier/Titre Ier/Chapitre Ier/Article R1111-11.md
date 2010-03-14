@@ -23,11 +23,11 @@ systèmes d'information et de nouvelles technologies ;
 c) Une personne choisie en raison de ses compétences dans le domaine économique
 et financier.
 
-Le directeur général de la santé, le directeur de l'hospitalisation et de
-l'organisation des soins, le directeur général des patrimoines, le directeur
-général des entreprises et le directeur général de la concurrence, de la
-consommation et de la répression des fraudes, ou leurs représentants, assistent
-aux séances du comité avec voix consultative.
+Le directeur général de la santé, le directeur général de l'offre de soins , le
+directeur général des patrimoines, le directeur général des entreprises et le
+directeur général de la concurrence, de la consommation et de la répression des
+fraudes, ou leurs représentants, assistent aux séances du comité avec voix
+consultative.
 
 II.-Les membres du comité d'agrément, dont celui qui, parmi eux, exercera la
 présidence du comité, sont nommés pour cinq ans par arrêté du ministre chargé de

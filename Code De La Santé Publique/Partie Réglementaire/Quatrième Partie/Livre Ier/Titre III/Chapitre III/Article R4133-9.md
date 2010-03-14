@@ -31,5 +31,5 @@ formation ;
 7° Un représentant du service de santé des armées, sur proposition du ministre
 chargé de la défense.
 
-Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant siège avec voix consultative au conseil national.
+Le directeur général de l'offre de soins ou son représentant siège avec voix
+consultative au conseil national.
