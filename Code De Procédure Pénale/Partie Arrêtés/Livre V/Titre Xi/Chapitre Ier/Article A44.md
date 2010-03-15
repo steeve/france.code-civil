@@ -531,9 +531,10 @@ Antenne de Rennes.
 
 Circonscription judiciaire de Rennes.
 
-Maison d'arrêt de Rennes.
-
 Centre pénitentiaire de Rennes.
+
+
+Centre pénitentiaire de Rennes-Vezin-le-Coquet
 
 Antenne de Saint-Malo.
 
@@ -839,10 +840,7 @@ Antenne de Montmédy.
 
 (Arr. 17 sept. 2003, art. 5) Centre de détention de Montmédy.
 
-.
-
-
-Antenne de Saint-Mihiel
+Antenne de Saint-Mihiel.
 
 (Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel.
 

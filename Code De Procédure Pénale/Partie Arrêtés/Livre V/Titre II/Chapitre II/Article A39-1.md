@@ -109,6 +109,9 @@ Quartier centre de détention du centre pénitentiaire du Port (Réunion).
 Quartier centre de détention du centre pénitentiaire de Remire-Montjoly
 (Guyane).
 
+Quartier centre de détention du centre pénitentiaire de Rennes - Vezin-le-Coquet
+(Ille-et-Vilaine).
+
 Centre de détention de Roanne (hommes, femmes) (Loire).
 
 Quartier centre de détention du centre pénitentiaire de Saint-Denis (femmes)
