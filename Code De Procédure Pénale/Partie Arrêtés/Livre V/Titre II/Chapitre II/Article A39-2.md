@@ -24,5 +24,3 @@ Centre de semi-liberté de Montargis (Loiret).
 Centre de semi-liberté de Montpellier (hommes, femmes) (Hérault).
 
 Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
-
-Centre de semi-liberté de Toulouse (Haute-Garonne).

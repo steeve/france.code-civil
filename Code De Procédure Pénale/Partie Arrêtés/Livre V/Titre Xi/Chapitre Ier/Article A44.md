@@ -462,9 +462,8 @@ Antenne de Toulouse.
 
 Circonscription judiciaire de Toulouse.
 
-Maison d'arrêt de Toulouse.
-
-(Arr. 17 sept. 2003, art. 5) Centre de semi-liberté de Toulouse-Seysses
+Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté de Toulouse
+inclus).
 
 Antenne de Muret.
 
