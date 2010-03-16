@@ -18,15 +18,11 @@ Service pénitentiaire d'insertion et de probation de l'Ain.
 
 Bourg-en-Bresse.
 
-Antenne de Bourg-en-Bresse.
+Néant.
 
 Circonscription judiciaire de Bourg-en-Bresse.
 
-Maison d'arrêt de Bourg-en-Bresse.
-
-Antenne de Belley.
-
-Circonscription judiciaire de Belley.
+Centre pénitentiaire de Bourg-en-Bresse.
 
 Service pénitentiaire d'insertion et de probation de l'Aisne.
 
@@ -172,15 +168,11 @@ Service pénitentiaire d'insertion et de probation de l'Aveyron.
 
 Rodez.
 
-Antenne de Rodez.
+Néant.
 
 Circonscription judiciaire de Rodez.
 
 Maison d'arrêt de Rodez.
-
-Antenne de Millau.
-
-Circonscription judiciaire de Millau.
 
 Service pénitentiaire d'insertion et de probation des Bouches-du-Rhône.
 
@@ -533,8 +525,7 @@ Circonscription judiciaire de Rennes.
 
 Centre pénitentiaire de Rennes.
 
-
-Centre pénitentiaire de Rennes-Vezin-le-Coquet
+Centre pénitentiaire de Rennes-Vezin-le-Coquet.
 
 Antenne de Saint-Malo.
 
@@ -805,8 +796,7 @@ Antenne de Nancy.
 
 Circonscription judiciaire de Nancy.
 
-
-Centre pénitentiaire de Nancy-Maxéville
+Centre pénitentiaire de Nancy-Maxéville.
 
 Centre de semi-liberté de Maxéville.
 
@@ -904,27 +894,33 @@ quartier de semi-liberté d'Haubourdin).
 
 Antenne d'Avesnes-sur-Helpe-Maubeuge.
 
-Sans changement.
+Circonscription judiciaire d'Avesnes-sur-Helpe.
+
+Centre pénitentiaire de Maubeuge.
 
 Antenne de Cambrai.
 
-Sans changement.
+Circonscription judiciaire de Cambrai.
 
 Antenne de Douai.
 
-Sans changement.
+Circonscription judiciaire de Douai.
+
+Maison d'arrêt de Douai.
 
 Antenne de Dunkerque.
 
-Sans changement.
+Circonscription judiciaire de Dunkerque.
 
-Antenne d'Hazebrouck.
+Maison d'arrêt de Dunkerque.
 
-Sans changement.
+Circonscription judiciaire d'Hazebrouck.
 
 Antenne de Valenciennes.
 
-Sans changement.
+Circonscription judiciaire de Valenciennes.
+
+Maison d'arrêt de Valenciennes.
 
 Service pénitentiaire d'insertion et de probation de l'Oise.
 
@@ -932,15 +928,20 @@ Beauvais.
 
 Antenne de Beauvais.
 
-Sans changement.
+Circonscription judiciaire de Beauvais.
+
+Maison d'arrêt de Beauvais.
 
 Antenne de Compiègne.
 
-Sans changement.
+Circonscription judiciaire de Compiègne.
+
+Maison d'arrêt de Compiègne.
 
 Antenne de Liancourt.
 
-Sans changement.
+Centre pénitentiaire de Liancourt (quartier centre de détention du chemin de
+Verderonne inclus).
 
 Antenne de Creil.
 
@@ -1140,7 +1141,7 @@ Le Mans.
 
 Néant.
 
-Circonscription judiciaire du Mans ;
+Circonscription judiciaire du Mans.
 
 Maison d'arrêt du Mans-Les Croisettes.
 
@@ -1216,7 +1217,7 @@ Antenne de Melun.
 
 Circonscription judiciaire de Melun.
 
-(Arr. 29 août 2006, art. 2) Centre de semi-liberté de Melun
+(Arr. 29 août 2006, art. 2) Centre de semi-liberté de Melun.
 
 (Arr. 17 sept. 2003, art. 5) Centre de détention de Melun.
 
@@ -1313,18 +1314,15 @@ Toulon.
 
 Antenne de Toulon.
 
-(Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Toulon.
+Circonscription judiciaire de Toulon.
 
-(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Toulon-La Farlède (quartier
-de semi-liberté de Toulon-Saint-Roch inclus).
+Centre pénitentiaire de Toulon-La Farlède.
 
-(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan.
+Antenne de Draguignan.
 
-(Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan.
+Circonscription judiciaire de Draguignan.
 
-(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Draguignan.
-
-(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
+Centre pénitentiaire de Draguignan.
 
 Service pénitentiaire d'insertion et de probation de Vaucluse.
 
@@ -1446,7 +1444,7 @@ Maison d'arrêt de Nanterre.
 Service pénitentiaire d'insertion et de probation de la Seine-Saint-Denis.
 
 
-Drancy
+Pantin
 
 Néant.
 
@@ -1468,8 +1466,6 @@ Centre pénitentiaire de Fresnes (quartier pour peines aménagées de Villejuif
 inclus).
 
 Etablissement public de santé national de Fresnes.
-
-Centre national d'observation.
 
 Service pénitentiaire d'insertion et de probation du Val-d'Oise.
 
