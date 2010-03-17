@@ -13,15 +13,15 @@ d) Le directeur général des impôts ;
 
 e) Le directeur du budget ;
 
-f) Le directeur général du Trésor et de la politique économique ou son
-représentant ;
+f) Le directeur général du Trésor ou son représentant ;
 
 g) Le délégué général à l'emploi et à la formation professionnelle ;
 
 h) Le ou les représentants des ministres concernés par l'activité ;
 
-i) Le directeur général de l'Agence française de développement,&lt;R L&gt; ou
-leurs représentants.
+i) Le directeur général de l'Agence française de développement,
+
+ou leurs représentants.
 
 Le secrétariat de la commission centrale est assuré par les services de la
 direction des affaires économiques, sociales et culturelles du ministère de

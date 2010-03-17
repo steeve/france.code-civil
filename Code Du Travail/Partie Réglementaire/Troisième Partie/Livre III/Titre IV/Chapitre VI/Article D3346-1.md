@@ -38,7 +38,7 @@ a) Le directeur général du travail ;
 
 b) Le directeur des affaires civiles et du sceau ;
 
-c) Le directeur général du Trésor et de la politique économique ;
+c) Le directeur général du Trésor ;
 
 d) Le directeur de la législation fiscale ;
 

@@ -6,8 +6,7 @@ La Commission supérieure du crédit maritime mutuel est composée comme suit :
 
 2° Trois sénateurs désignés par le Sénat ;
 
-3° Le directeur général du Trésor et de la politique économique ou son
-représentant ;
+3° Le directeur général du Trésor ou son représentant ;
 
 4° Le commissaire du Gouvernement près l'organe central du crédit maritime
 mutuel ;

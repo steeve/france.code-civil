@@ -29,7 +29,7 @@ investis de responsabilités particulières dans le domaine du tourisme :
 -le directeur général de l'Institut national de la statistique et des études
 économiques (INSEE) ;
 
--le directeur général du Trésor et de la politique économique ;
+-le directeur général du Trésor ;
 
 -le directeur général des collectivités locales ;
 
@@ -50,7 +50,7 @@ de France ;
 
 -le président du Centre national des monuments historiques ;
 
-- le président de l'Agence de développement touristique de la France.
+-le président de l'Agence de développement touristique de la France.
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de
 laquelle est choisi le rapporteur désigné par arrêté conjoint du ministre chargé
