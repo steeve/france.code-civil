@@ -3961,11 +3961,6 @@ Cusset
 Cantons de Chantelle, Ébreuil, Escurolles, Gannat et Saint-Pourçain-sur-Sioule.
 (3)]
 
-[Moulins (6)]
-
-Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet,
-Lurcy-Lévis, Moulins-Ouest, Moulins-Sud, Neuilly-le-Réal, Souvigny et Yzeure.
-
 [Vichy
 
 Cantons de Cusset-Nord, Cusset-Sud, Jaligny-sur-Besbre, Lapalisse, Le Donjon, Le
@@ -3986,7 +3981,7 @@ Cantons de Cérilly, Commentry, Domérat-Montluçon-Nord-Ouest, Hérisson, Hurie
 Marcillat-en-Combraille, Montluçon-Est 4e canton, Montluçon-Nord-Est 1er canton,
 Montluçon-Ouest 2e canton, Montluçon-Sud 3e canton et Montmarault.
 
-[Moulins (5)]
+[Moulins ]
 
 
 Moulins
@@ -4438,9 +4433,9 @@ Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]
 Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
-Montauban, 1er canton, Montauban 2e canton, Montauban 3e canton, Montauban 4e
-canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
-Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)
+Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
+canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
+Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 Cour d'appel de Versailles
 
@@ -4698,10 +4693,7 @@ Nuku-Hiva
 
 ..
 
-
-Siège du tribunal de première instance
-
-et de la juridiction de proximité
+Siège du tribunal de première instance et de la juridiction de proximité
 
 
 Ressort
