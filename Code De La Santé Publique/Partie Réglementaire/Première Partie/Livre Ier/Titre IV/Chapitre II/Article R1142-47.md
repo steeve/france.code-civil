@@ -1,54 +1,34 @@
 Article R1142-47
 ----
-Le directeur est nommé par décret sur proposition du ministre chargé de la
-santé, pour une durée de trois ans renouvelable.
+Le conseil d'orientation mentionné aux articles L. 3111-9 et L. 3122-1 est
+présidé par le président du conseil d'administration de l'office. Outre son
+président, le conseil d'orientation comprend :
 
-Il assure la direction de l'établissement. Il accomplit tous les actes qui ne
-sont pas réservés au conseil d'administration en vertu des dispositions de
-l'article R. 1142-46.
+1° Un représentant du directeur général de la santé ;
 
-Il prépare et exécute les délibérations du conseil d'administration, auquel il
-rend compte de sa gestion.
+2° Un représentant du directeur de la sécurité sociale ;
 
-Il prépare le budget et l'exécute.
+3° Un représentant du directeur des affaires civiles et du sceau ;
 
-Il est ordonnateur des recettes et des dépenses, y compris pour l'Observatoire
-des risques médicaux institué en application de l'article L. 1142-29.
+4° Un représentant du directeur de l'hospitalisation et de l'organisation des
+soins ;
 
-Il recrute, nomme et gère les agents contractuels de l'office et les affecte, le
-cas échéant, dans les commissions régionales et interrégionales de conciliation
-et d'indemnisation des accidents médicaux, des affections iatrogènes et des
-infections nosocomiales.
+5° Un représentant du directeur général de l'action sociale ;
 
-Il a autorité sur l'ensemble des personnels, à l'exception des magistrats placés
-en détachement pour exercer la présidence des commissions régionales et
-interrégionales ou la suppléance de la présidence.
+6° Un représentant du directeur général du Trésor ;
 
-Il représente l'établissement en justice et dans tous les actes de la vie
-civile.
+7° Trois personnalités qualifiées ;
 
-Il conclut les marchés publics, les contrats et les baux.
+8° Trois représentants des usagers désignés parmi les membres des associations
+des personnes malades et des usagers du système de santé ayant fait l'objet d'un
+agrément au niveau national dans les conditions prévues à l'article L. 1114-1.
 
-Sous réserve des dispositions de l'article R. 1142-46, il détermine ou, dans les
-cas prévus aux articles L. 3111-9 et L. 3122-5, présente les offres
-d'indemnisation proposées aux demandeurs ainsi que le montant des provisions à
-leur verser, et il décide, le cas échéant, des actions en justice liées aux
-indemnisations mentionnées aux articles L. 1142-15, L. 1142-17, L. 1142-21, L.
-3110-4, L. 3111-9 et L. 3122-4.
+Les membres mentionnés aux 7° et 8° sont nommés pour trois ans par arrêté du
+ministre chargé de la santé. Ces membres ont chacun un suppléant, nommé dans les
+mêmes conditions, qui ne participe aux séances du conseil qu'en l'absence de son
+titulaire.
 
-Le directeur informe le conseil d'administration des modalités d'indemnisation,
-de l'état des procédures et du suivi des dossiers ainsi que des actions
-récursoires exercées en application des articles L. 1142-15, L. 1142-17, L.
-1142-21, L. 3110-4, L. 3111-9 et L. 3122-4.
+En cas de vacance, un nouveau membre est nommé dans les mêmes conditions que son
+prédécesseur pour la durée du mandat restant à courir.
 
-Le directeur informe chaque commission régionale ou interrégionale de
-conciliation et d'indemnisation des accidents médicaux, des affections
-iatrogènes et des infections nosocomiales de la suite donnée par l'office à ses
-avis.
-
-Il informe le directeur général de l'agence régionale de santé concerné des
-infections nosocomiales dont il indemnise les victimes en application de
-l'article L. 1142-21.
-
-Le directeur peut déléguer sa signature à ses collaborateurs dans les conditions
-prévues par le règlement intérieur de l'office.
+Les membres du conseil sont soumis aux dispositions de l'article L. 1421-3-1.
