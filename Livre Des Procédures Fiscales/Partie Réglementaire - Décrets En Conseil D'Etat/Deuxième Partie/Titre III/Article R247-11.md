@@ -16,5 +16,4 @@ impôts ;
 
 b) abrogé.
 
-c) au ministre de l'économie, des finances et de l'industrie, dans les autres
-cas.
+c) au ministre chargé du budget, dans les autres cas.
