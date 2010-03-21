@@ -6,14 +6,6 @@ dont le taux est égal à celui de l'intérêt légal au jour de la demande de
 crédit. Toutefois, seule la première décimale est retenue. Ce taux est
 applicable pendant toute la durée du crédit.
 
-Le taux applicable aux droits de mutation par décès dus sur la part du conjoint
-survivant est réduit lorsque l'actif héréditaire comprend au moins 50 % de biens
-non liquides énumérés à l'article 404 A :
-
-a. des deux tiers en cas de paiement fractionné ;
-
-b. d'un tiers en cas de paiement différé.
-
 Les intérêts sont acquittés :
 
 s'il s'agit d'un paiement fractionné, lors du versement de chaque fraction, à

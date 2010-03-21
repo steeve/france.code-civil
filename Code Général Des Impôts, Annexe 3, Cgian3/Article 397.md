@@ -10,6 +10,4 @@ mutations par décès :
 code civil ou à la réduction prévue à l'article 924-3 du même code, dans les
 conditions fixées par l'article 1722 bis du code général des impôts ;
 
-3° Lorsque l'actif héréditaire comprend à concurrence de 50 % au moins des biens
-non liquides énumérés à l'article 404 A, pour les droits dus sur la part du
-conjoint survivant.
+3° (Abrogé)
