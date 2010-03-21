@@ -2,9 +2,16 @@ Article R*122-11-3
 ----
 Les dispositions du présent article sont applicables à la déclaration de projet
 d'une opération qui n'est pas compatible avec un schéma de cohérence
-territoriale, lorsque cette opération est réalisée par l'Etat ou un
-établissement public dépendant de l'Etat et ne requiert pas une déclaration
-d'utilité publique.
+territoriale et ne requiert pas une déclaration d'utilité publique :
+
+a) Soit lorsque cette opération est réalisée par l'Etat ou un établissement
+public dépendant de l'Etat et nécessite une déclaration de projet en application
+de l'article L. 126-1 du code de l'environnement ;
+
+b) Soit lorsque l'Etat ou un établissement public dépendant de l'Etat a décidé,
+en application de l'article L. 300-6, de se prononcer, par une déclaration de
+projet, sur l'intérêt général d'une action ou d'une opération d'aménagement ou
+de la réalisation d'un programme de construction.
 
 L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture de
 l'enquête publique à l'initiative du préfet. Lorsqu'une association mentionnée à

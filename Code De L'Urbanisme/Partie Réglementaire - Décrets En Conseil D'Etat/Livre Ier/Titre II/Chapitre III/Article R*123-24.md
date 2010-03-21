@@ -16,4 +16,9 @@ l'article L. 123-16 ;
 
 d) La décision ou la délibération prononçant la déclaration de projet ainsi que
 la délibération ou l'arrêté mettant le plan en compatibilité avec la déclaration
-de projet dans les conditions prévues à l'article L. 123-16.
+de projet dans les conditions prévues à l'article L. 123-16 ;
+
+e) La délibération par laquelle, en application de l'article L. 123-1-1, la
+commune ou l'établissement public de coopération intercommunale compétent
+autorise un dépassement des règles du plan local d'urbanisme ou du document
+d'urbanisme en tenant lieu.

@@ -14,15 +14,17 @@ ainsi que la dénomination et l'adresse du redevable et du bénéficiaire de cha
 contribution ;
 
 2° La nature, le montant ou la valeur des contributions exigées dans le cadre de
-la réalisation des zones d'aménagement concerté, la dénomination et l'adresse du
+la réalisation des zones d'aménagement concerté ou des zones couvertes par une
+convention de projet urbain partenarial, la dénomination et l'adresse du
 redevable et du bénéficiaire de chaque contribution. Copie de la convention
 prévoyant chaque contribution est annexée au registre ;
 
 3° La nature, le montant ou la valeur des taxes et contributions de toute nature
-versées ou obtenues en application des articles L. 311-4-1 et L. 332-6, la date
-de chaque versement ou obtention de contribution, les références de l'acte en
-raison duquel est effectué ou la contribution obtenue, la dénomination et
-l'adresse de la personne qui s'en est acquittée et de celle du bénéficiaire.
+versées ou obtenues en application des articles L. 311-4, L. 332-6 et L.
+332-11-3, la date de chaque versement ou obtention de contribution, les
+références de l'acte en raison duquel est effectué ou la contribution obtenue,
+la dénomination et l'adresse de la personne qui s'en est acquittée et de celle
+du bénéficiaire.
 
 Dans tous les cas, l'inscription mentionne la date à laquelle elle est portée
 sur le registre.

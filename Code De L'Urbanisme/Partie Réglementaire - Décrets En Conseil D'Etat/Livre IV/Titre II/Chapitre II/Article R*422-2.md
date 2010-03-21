@@ -5,10 +5,8 @@ démolir et pour se prononcer sur un projet faisant l'objet d'une déclaration
 préalable dans les communes visées au b de l'article L. 422-1 et dans les cas
 prévus par l'article L. 422-2 dans les hypothèses suivantes :
 
-a) Pour les projets réalisés pour le compte de l'Etat, de la région, de la
-collectivité de Corse, du département, de leurs établissements publics ou de
-leurs concessionnaires, ainsi que pour le compte d'un Etat étranger ou d'une
-organisation internationale ;
+a) Pour les projets réalisés pour le compte d'Etats étrangers ou d'organisations
+internationales, de l'Etat, de ses établissements publics et concessionnaires ;
 
 b) Pour les ouvrages de production, de transport, de distribution et de stockage
 d'énergie lorsque cette énergie n'est pas destinée, principalement, à une

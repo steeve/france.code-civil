@@ -2,11 +2,21 @@ Article R*122-11-2
 ----
 Les dispositions du présent article sont applicables à la déclaration de projet
 d'une opération qui n'est pas compatible avec un schéma de cohérence
-territoriale, lorsque cette opération est réalisée par une collectivité
-territoriale, un groupement de collectivités ou un établissement public
-dépendant d'une collectivité ou d'un groupement de collectivités, autre que
-l'établissement public prévu à l'article L. 122-4, et ne requiert pas une
-déclaration d'utilité publique.
+territoriale et ne requiert pas une déclaration d'utilité publique :
+
+a) Soit lorsque cette opération est réalisée par une collectivité territoriale,
+un groupement de collectivités ou un établissement public dépendant d'une
+collectivité ou d'un groupement de collectivités, autre que l'établissement
+public prévu par les articles L. 122-4 et L. 122-4-1, et nécessite une
+déclaration de projet en application de l'article L. 126-1 du code de
+l'environnement ;
+
+b) Soit lorsque une collectivité territoriale, un groupement de collectivités ou
+un établissement public dépendant d'une collectivité ou d'un groupement de
+collectivités, autre que l'établissement public prévu par les articles L. 122-4
+et L. 122-4-1, a décidé, en application de l'article L. 300-6, de se prononcer,
+par une déclaration de projet, sur l'intérêt général d'une action ou d'une
+opération d'aménagement ou de la réalisation d'un programme de construction.
 
 La procédure de mise en compatibilité est menée par le président de l'organe
 délibérant de la collectivité ou du groupement de collectivités responsable du
@@ -20,7 +30,7 @@ Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consul
 son président adresse la demande à l'autorité chargée de la procédure.
 
 L'enquête publique est organisée dans les formes prévues par les articles R.
-123-1 à R. 123-33 du code de l'environnement. L'autorité chargée de la procédure
+123-1 à R. 123-33 du code de l'environnement.L'autorité chargée de la procédure
 exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8,
 R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
