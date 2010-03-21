@@ -15,9 +15,9 @@ plusieurs parties d'une exploitation, ce retour à la réserve est effectué au
 prorata des surfaces cédées à l'exclusion des bois, landes improductives,
 friches, étangs et cultures pérennes.
 
-En outre, un prélèvement de 10 % est opéré sur la quantité à transférer et
+En outre, un prélèvement de 5 % est opéré sur la quantité à transférer et
 affecté à la réserve.
 
 Les prélèvements au bénéfice de la réserve mentionnés aux deux alinéas
 précédents ne s'appliquent qu'à la fraction de la quantité de référence laitière
-après transfert excédant 150000 litres.
+après transfert excédant 250 000 litres.
