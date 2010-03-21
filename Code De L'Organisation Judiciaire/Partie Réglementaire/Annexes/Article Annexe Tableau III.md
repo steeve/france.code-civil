@@ -300,7 +300,7 @@ Cour d'appel de Nancy Meurthe-et-Moselle
 
 Nancy
 
-Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
+Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
 
 Cour d'appel de Nîmes Gard
 
