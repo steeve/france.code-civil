@@ -1,6 +1,6 @@
 Article R212-32
 ----
-I. - Les établissements de l'élevage sont chargés :
+I.-Les établissements de l'élevage sont chargés :
 
 1° De s'assurer du respect, par tout détenteur, des règles d'identification
 définies dans le présent paragraphe ;
@@ -22,15 +22,19 @@ de cette identification, aux frais de celui-ci, lorsque les règles de
 l'identification prévues à l'article D. 212-27 ne sont pas respectées ;
 
 7° D'assurer l'information et le conseil aux détenteurs ainsi que leur formation
-pour les opérations d'identification et le maintien de celle-ci.
+pour les opérations d'identification et le maintien de celle-ci ;
 
-II. - L'établissement de l'élevage informe les services compétents du ministère
+8° D'assurer, le cas échéant, la validation des notifications des informations
+transmises par les détenteurs d'ovins et caprins conformément à l'article D.
+212-30-1.
+
+II.-L'établissement de l'élevage informe les services compétents du ministère
 chargé de l'agriculture des anomalies d'identification constatées dans sa zone
 de compétence en application du 1° du I du présent article.
 
 Le non-respect par un établissement de l'élevage d'une des obligations résultant
 de ces missions peut donner lieu à la suspension ou au retrait de son agrément
-dans les conditions prévues par les dispositions de l'article D. 212-48.
+dans les conditions prévues par les dispositions de l'article R. 653-43.
 
 Un arrêté du ministre chargé de l'agriculture précise les modalités
 d'application du présent article.
