@@ -7,7 +7,7 @@ dans le coeur du parc national et aux communes considérées comme ayant vocatio
 coopération intercommunale à fiscalité propre auxquels ces communes
 appartiennent ainsi qu'aux départements et aux régions.
 
-Le président du groupement d'intérêt public adresse également le dossier aux
-chambres consulaires et aux centres régionaux de la propriété forestière
-intéressés ainsi qu'aux personnes dont il souhaite recueillir l'avis et qui
+Le président du groupement d'intérêt public adresse également le dossier au
+Centre national de la propriété forestière et aux chambres consulaires
+intéressées ainsi qu'aux personnes dont il souhaite recueillir l'avis et qui
 figurent sur une liste dressée conjointement avec le préfet.

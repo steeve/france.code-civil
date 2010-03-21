@@ -29,9 +29,9 @@ volonté contraire exprimée par les intéressés.
 
 Les électeurs appartenant aux deux premiers collèges sont inscrits dans la
 commune où se trouve le siège de l'exploitation ou les parcelles au titre
-desquelles ils peuvent être électeurs en application de l'article R. 511-8.
-S'ils satisfont à l'une ou l'autre de ces conditions dans plusieurs communes,
-ils doivent opter pour l'une de ces communes.
+desquelles ils peuvent être électeurs en application de l'article R. 511-8.S'ils
+satisfont à l'une ou l'autre de ces conditions dans plusieurs communes, ils
+doivent opter pour l'une de ces communes.
 
 Les salariés sont inscrits sur les listes de la commune du lieu de travail
 effectif, c'est-à-dire dans la commune du siège de l'exploitation agricole, de
@@ -45,7 +45,7 @@ Les anciens exploitants ou assimilés sont inscrits sur la liste de la commune d
 leur résidence.
 
 Ainsi qu'il est dit à l'article R. 221-7 du code forestier, les électeurs
-formant le collège départemental en vue des élections des administrateurs des
+formant le collège départemental en vue des élections des conseillers des
 centres régionaux de la propriété forestière ne peuvent être inscrits sur la
 liste électorale pour l'élection aux chambres d'agriculture que s'ils possèdent,
 pour participer à cette élection, des titres autres que celui de propriétaires

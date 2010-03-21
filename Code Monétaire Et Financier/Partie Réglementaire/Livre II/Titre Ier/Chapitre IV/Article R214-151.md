@@ -9,7 +9,7 @@ coupes de bois doivent être réalisés conformément à un plan simple de gesti
 agréé ;
 
 2° Les coupes non prévues au plan simple de gestion doivent faire l'objet d'une
-autorisation préalable du centre régional de la propriété forestière en
+autorisation préalable du Centre national de la propriété forestière en
 application des articles R. 222-14 à R. 222-18 du code forestier et les travaux
 de reconstitution obligatoire qui en découlent doivent faire l'objet d'un
 avenant au plan simple de gestion conformément à l'article R. 222-12 du même

@@ -19,7 +19,7 @@ conditions prévues aux articles L. 222-1 à L. 222-4 et à l'article L. 223-2 d
 code forestier ;
 
 4° Lorsque les coupes entrent dans le cadre d'une autorisation par catégories
-définies par arrêté du préfet pris après avis du centre régional de la propriété
+définies par arrêté du préfet pris après avis du Centre national de la propriété
 forestière en application de l'article L. 130-1 (5e alinéa) ;
 
 5° Lorsque les coupes font l'objet d'une autorisation délivrée au titre des

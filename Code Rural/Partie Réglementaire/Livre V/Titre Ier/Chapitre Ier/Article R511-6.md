@@ -42,6 +42,6 @@ e) Les organisations syndicales à vocation générale d'exploitants agricoles o
 de jeunes agriculteurs, ainsi que leurs unions et fédérations cantonales,
 intercantonales ou départementales, à raison de deux représentants ;
 
-6. Du ou des administrateurs des centres régionaux de la propriété forestière,
-élus par le collège des propriétaires forestiers mentionnés à l'article L. 221-3
-du code forestier.
+6. Du ou des conseillers des centres régionaux de la propriété forestière, élus
+par le collège des propriétaires forestiers mentionnés à l'article L. 221-5 du
+code forestier.

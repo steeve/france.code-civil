@@ -6,7 +6,7 @@ a) Le maire ou un conseiller municipal désigné par lui ;
 
 b) Des propriétaires dont le nombre total est fixé par le préfet et qui sont
 désignés pour six ans, par moitié par le conseil municipal et par moitié par la
-chambre d'agriculture après avis du centre régional de la propriété forestière,
+chambre d'agriculture après avis du Centre national de la propriété forestière,
 parmi les propriétaires de parcelles incluses dans le périmètre d'aménagement
 foncier agricole et forestier répondant aux conditions fixées au premier alinéa
 de l'article R. 121-18 ;

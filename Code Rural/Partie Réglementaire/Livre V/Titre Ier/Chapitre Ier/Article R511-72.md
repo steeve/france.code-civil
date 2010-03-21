@@ -2,9 +2,9 @@ Article R511-72
 ----
 Le budget des chambres d'agriculture comprend :
 
-- des recettes et dépenses de fonctionnement ;
+-des recettes et dépenses de fonctionnement ;
 
-- des recettes et dépenses en capital.
+-des recettes et dépenses en capital.
 
 Les recettes et dépenses de fonctionnement comprennent notamment :
 
@@ -34,7 +34,7 @@ inspections, etc.) ;
 d'agriculture, fonds national de péréquation et d'action professionnelle des
 chambres d'agriculture, chambre régionale, organismes inter-établissements
 mentionnés à l'article R. 514-1, services communs prévus à l'article D. 513-11,
-centre régional de la propriété forestière, etc.) ;
+Centre national de la propriété forestière, etc.) ;
 
 3° Les subventions, allocations, encouragements à diverses collectivités,
 oeuvres ou institutions s'occupant d'agriculture ;
@@ -54,7 +54,7 @@ Recettes :
 3° Le produit des emprunts qu'elles sont autorisées à contracter par arrêté du
 préfet. Cet arrêté doit intervenir dans les deux mois à compter de la date de
 réception, par le préfet, de l'accord pour l'octroi d'un prêt à la chambre
-d'agriculture formulé par l'organisme prêteur. A défaut de publication d'un
+d'agriculture formulé par l'organisme prêteur.A défaut de publication d'un
 arrêté dans ce délai, d'une demande de modification du projet ou de production
 de documents supplémentaires par le préfet, la délibération de la chambre est
 exécutoire.

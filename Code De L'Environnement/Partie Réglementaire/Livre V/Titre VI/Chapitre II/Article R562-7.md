@@ -15,7 +15,7 @@ sur les mesures de prévention des incendies de forêt ou de leurs effets.
 
 Si le projet de plan concerne des terrains agricoles ou forestiers, les
 dispositions relatives à ces terrains sont soumises à l'avis de la chambre
-d'agriculture et du centre régional de la propriété forestière.
+d'agriculture et du centre national de la propriété forestière.
 
 Tout avis demandé en application des trois alinéas ci-dessus qui n'est pas rendu
 dans un délai de deux mois à compter de la réception de la demande est réputé
