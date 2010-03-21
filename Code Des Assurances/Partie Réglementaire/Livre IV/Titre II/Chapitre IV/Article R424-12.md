@@ -40,8 +40,8 @@ chambres d'agriculture ;
 10° Une personnalité désignée sur proposition de la Fédération nationale de la
 propriété rurale ou son représentant ;
 
-11° Une personnalité désignée sur proposition du Centre national professionnel
-de la propriété forestière ou son représentant ;
+11° Une personnalité désignée sur proposition du Centre national de la propriété
+forestière ou son représentant ;
 
 12° Cinq personnalités désignées en raison de leurs compétences administratives,
 techniques ou scientifiques.
