@@ -1,11 +1,15 @@
 Article D654-85
 ----
-Le producteur, s'il entend contester la décision prise par FranceAgriMer en
-application du présent sous-paragraphe, doit former un recours gracieux
-préalable dans le délai d'un mois, fondé notamment sur la survenance d'un cas de
-force majeure ou de l'une des situations mentionnées au point 3 de l'article 15
-du règlement (CE) n° 1788/2003 précité.
+Dans le cas où il produit pendant la campagne durant laquelle la fraction de son
+quota non utilisé a été affectée à la réserve nationale une quantité de lait
+supérieure au quota qui lui reste, le producteur se voit réallouer un quota égal
+au dépassement constaté, dans la limite du prélèvement effectué. Si au cours de
+la campagne qui suit celle du prélèvement, il produit une quantité de lait
+supérieure au quota qui lui reste après affectation d'une partie de son quota à
+la réserve nationale, le producteur peut obtenir, dans les conditions
+mentionnées au précédent alinéa, une réallocation de quota.
 
-Les modalités de présentation et d'examen des recours ainsi que les critères
-d'appréciation de ces recours sont arrêtés par le ministre chargé de
-l'agriculture.
+Dans les deux cas mentionnés au présent article, FranceAgriMer notifie au
+producteur concerné une décision de réattribution et procède, le cas échéant, à
+l'ajustement correspondant du quota notifié à chaque acheteur en application du
+1° de l'article D. 654-39.
