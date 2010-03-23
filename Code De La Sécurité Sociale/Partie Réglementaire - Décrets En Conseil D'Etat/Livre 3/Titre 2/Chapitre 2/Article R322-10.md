@@ -26,8 +26,7 @@ kilomètres.
 2° Pour se soumettre à un contrôle en application de la législation de la
 sécurité sociale dans les cas suivants :
 
-a) Pour se rendre à la convocation d'une consultation médicale d'appareillage ou
-pour se rendre chez un fournisseur d'appareillage agréé pour la fourniture
+a) Pour se rendre chez un fournisseur d'appareillage agréé pour la fourniture
 d'appareils mentionnés aux chapitres 5, 6 et 7 du titre II de la liste des
 produits et prestations établie en application de l'arrêté prévu à l'article R.
 165-1 ;

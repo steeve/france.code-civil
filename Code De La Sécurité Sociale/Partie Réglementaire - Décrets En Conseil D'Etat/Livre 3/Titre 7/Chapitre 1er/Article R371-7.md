@@ -10,7 +10,7 @@ en application de l'article L. 115 du code des pensions militaires d'invalidité
 et des victimes de la guerre.
 
 Les délais impartis à la caisse primaire d'assurance maladie pour exercer son
-recours devant les juridictions compétentes prévues par l'article L. 118 du code
+recours devant les juridictions compétentes prévues par l'article L. 79 du code
 des pensions militaires d'invalidité et des victimes de la guerre sont de même
 durée que ceux qui sont impartis à l'assuré lui-même. Ils commencent à courir à
 la date de la réception par la caisse primaire d'assurance maladie de la

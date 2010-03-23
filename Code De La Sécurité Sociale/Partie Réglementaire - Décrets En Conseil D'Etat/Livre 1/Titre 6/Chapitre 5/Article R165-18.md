@@ -49,9 +49,8 @@ A.-Le directeur de l'Etablissement français des greffes ou son représentant,
 lorsque la commission examine l'inscription, le renouvellement ou la
 modification d'inscription des tissus et cellules issus du corps humain ;
 
-B.-Le directeur des statuts, des pensions et de la réinsertion sociale au
-ministère de la défense ou son représentant, lorsque la commission examine
-l'inscription, le renouvellement ou la modification d'inscription des
+B.- Le directeur central du service de santé des armées, lorsque la commission
+examine l'inscription, le renouvellement ou la modification d'inscription des
 orthoprothèses sur mesure, des chaussures orthopédiques et des véhicules pour
 handicapés physiques ;
 

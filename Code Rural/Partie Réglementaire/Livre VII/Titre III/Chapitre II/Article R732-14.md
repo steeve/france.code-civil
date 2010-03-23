@@ -9,10 +9,9 @@ l'attribution d'une pension militaire.
 
 Les assurés bénéficiaires du code des pensions militaires d'invalidité et des
 victimes de la guerre sont dispensés, pour eux personnellement, pour les soins
-non pris en charge au titre des articles L. 115 à L. 118 du code des pensions
-militaires d'invalidité et des victimes de la guerre, du pourcentage de
-participation aux frais médicaux, pharmaceutiques et autres, mis à la charge des
-assurés malades.
+non pris en charge au titre de l'article L. 115 du code des pensions militaires
+d'invalidité et des victimes de la guerre, du pourcentage de participation aux
+frais médicaux, pharmaceutiques et autres, mis à la charge des assurés malades.
 
 Pour l'application des premier et deuxième alinéas ainsi que de l'article R.
 371-7 du code de la sécurité sociale si l'organisme assureur, quel qu'il soit,
@@ -29,7 +28,7 @@ l'article L. 115 du code des pensions militaires d'invalidité et des victimes d
 la guerre.
 
 Les délais impartis à l'organisme assureur pour exercer son recours devant les
-juridictions compétentes mentionnées à l'article L. 118 du même code sont de
-même durée que ceux qui sont impartis à l'assuré lui-même. Ils commencent à
-courir à la date de la réception par l'organisme assureur de la notification qui
-doit lui être faite de la décision refusant le bénéfice des soins gratuits.
+juridictions compétentes mentionnées à l'article L. 79 du même code sont de même
+durée que ceux qui sont impartis à l'assuré lui-même. Ils commencent à courir à
+la date de la réception par l'organisme assureur de la notification qui doit lui
+être faite de la décision refusant le bénéfice des soins gratuits.

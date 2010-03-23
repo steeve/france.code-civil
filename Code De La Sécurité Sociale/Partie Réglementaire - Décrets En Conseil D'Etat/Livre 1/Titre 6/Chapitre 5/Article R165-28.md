@@ -1,7 +1,11 @@
 Article R165-28
 ----
-Sous réserve des dispositions de l'article R. 165-30, le centre d'appareillage
-établit le bon de commande conformément à la prescription du médecin ; il le
-transmet à l'intéressé et à l'organisme d'assurance maladie dont celui-ci
-relève, ou au service compétent du ministère chargé des anciens combattants.
-L'intéressé s'adresse au fournisseur de son choix.
+Les médecins du service médical de la caisse d'assurance maladie dont dépend
+l'assuré peuvent, après en avoir informé celui-ci, contrôler la bonne exécution
+et la bonne adaptation des appareils. Ce contrôle intervient également lorsque
+l'assuré en fait la demande auprès de la caisse.
+
+Les opérations nécessaires au contrôle peuvent être réalisées à la demande du
+service médical de la caisse par un service ou organisme présentant les mêmes
+garanties de compétence et d'indépendance que le service médical de la caisse,
+dans le cadre d'une convention conclue avec ce service ou organisme.

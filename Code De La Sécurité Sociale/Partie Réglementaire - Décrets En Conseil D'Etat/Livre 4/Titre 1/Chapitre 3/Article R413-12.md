@@ -10,8 +10,5 @@ Ce service ou cet établissement porte à la connaissance de l'intéressé le
 montant et le point de départ de l'avantage ou des avantages attribués et
 procède au paiement des sommes dues.
 
-Dans le cas prévu à l'article L. 413-3, il invite la victime à se faire inscrire
-à un centre d'appareillage dans les conditions prévues par les dispositions de
-la section 4 du chapitre 1er du titre VI du livre I.
-
-Il assume conformément à ces dispositions le règlement des frais d'appareillage.
+Il assure le règlement des frais d'appareillage dans le cadre prévu à l'article
+L. 413-3.

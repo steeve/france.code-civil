@@ -12,9 +12,8 @@ Dans les cas mentionnés au 2° de l'article R. 322-10, la convocation vaut
 prescription médicale. Le moyen de transport le moins onéreux compatible avec
 l'état du bénéficiaire doit être indiqué dans la convocation par :
 
-a) Le médecin-conseil membre de la commission médicale d'appareillage ou le
-médecin prescripteur de l'appareil si l'assuré se rend chez un fournisseur
-d'appareillage dans les cas mentionnés au a ;
+a) Le médecin-conseil ou le médecin prescripteur de l'appareil si l'assuré se
+rend chez un fournisseur d'appareillage dans le cas mentionné au a ;
 
 b) Le médecin-conseil dans les cas mentionnés au b ;
 
