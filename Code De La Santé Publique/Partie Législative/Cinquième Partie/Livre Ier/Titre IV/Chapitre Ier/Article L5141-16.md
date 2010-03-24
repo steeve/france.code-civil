@@ -58,7 +58,8 @@ contenu du dossier présenté à l'appui de ces demandes, ainsi que les conditio
 dans lesquelles interviennent les décisions accordant, modifiant, renouvelant,
 suspendant ou supprimant ces autorisations ;
 
-12° Les modalités d'application du présent titre aux départements d'outre-mer ;
+12° Les modalités d'application du présent titre aux départements d'outre-mer et
+à Saint-Barthélemy et à Saint-Martin ;
 
 13° Les conditions dans lesquelles les vétérinaires mentionnés à l'article L.
 5141-15 peuvent utiliser les médicaments vétérinaires mentionnés au même article
@@ -73,5 +74,5 @@ visées aux 3°, 5°, 7° et 11° du présent article ;
 de l'article L. 5141-5 est effectuée.
 
 Sauf dans le cas mentionné au 12° du présent article, les décrets mentionnés au
-premier alinéa sont pris après avis de l'Agence française de sécurité sanitaire
-des aliments.
+premier alinéa sont pris après avis de l'Agence nationale chargée de la sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
