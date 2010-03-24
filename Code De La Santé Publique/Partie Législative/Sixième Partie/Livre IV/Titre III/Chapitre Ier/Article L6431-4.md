@@ -1,7 +1,7 @@
 Article L6431-4
 ----
 L'agence de santé assure la protection sanitaire du territoire des îles de
-Wallis et Futuna. A cet effet :
+Wallis et Futuna.A cet effet :
 
 1. Elle élabore un programme de santé publique compte tenu des priorités de
 santé établies par la conférence de santé prévue à l'article L. 1524-1. Ce
@@ -9,7 +9,7 @@ programme porte notamment sur la protection de la santé des mères, des jeunes
 enfants, des enfants d'âge scolaire et des travailleurs ainsi que sur la lutte
 contre les maladies transmissibles, l'alcoolisme, les toxicomanies et les
 maladies mentales. Ce programme comporte un projet hospitalier, incluant un
-projet médical. L'agence contribue à la mise en oeuvre ce programme avec le
+projet médical.L'agence contribue à la mise en oeuvre ce programme avec le
 concours éventuel de personnes morales de droit public ;
 
 2. Elle assure, dans le respect des droits des patients, les examens de
@@ -19,6 +19,13 @@ garantissant l'égal accès aux soins qu'elle dispense à toutes les personnes d
 l'état requiert ses services. Elle doit être en mesure de les accueillir de jour
 et de nuit, éventuellement en urgence Elle mène une réflexion sur les questions
 éthiques posées par l'accueil et la prise en charge médicale ;
+
+Elle élabore et met en œuvre une politique d'amélioration continue de la qualité
+et de la sécurité des soins et une gestion des risques visant à prévenir et
+traiter les événements indésirables liés à son activité.
+
+Dans ce cadre, elle organise la lutte contre les événements indésirables, les
+infections associées aux soins et la iatrogénie.
 
 3. En cas de nécessité, elle assure leur transfert dans un autre établissement
 apte à dispenser les soins requis par leur état ;

@@ -20,9 +20,9 @@ discipline jusqu'à l'élection d'une nouvelle chambre.
 
 En cas de démission de la majorité des membres de cette délégation, celle ci est
 dissoute de plein droit et le conseil national de l'ordre organise de nouvelles
-élections dans las deux mois suivant la dernière démission.
+élections dans les deux mois suivant la dernière démission.
 
 Lors des premières élections ou en cas de nouvelles élections prévues au
 troisième ou au quatrième alinéa du présent article, un tirage au sort détermine
 ceux des membres de la chambre de discipline dont le mandat vient à expiration
-dans le délai de deux ou quatre ans.
+dans le délai de trois ou six ans.

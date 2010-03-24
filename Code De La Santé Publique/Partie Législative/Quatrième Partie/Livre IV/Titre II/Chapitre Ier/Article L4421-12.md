@@ -8,4 +8,4 @@ celles des conseils départementaux de chacun de ces ordres.
 Lors des premières élections ou en cas de nouvelles élections organisées en
 application de l'article L. 4123-10, un tirage au sort détermine le nombre et
 l'identité des membres du conseil territorial dont le mandat vient à expiration
-respectivement dans les délais de deux, quatre ou six ans.
+respectivement dans les délais de trois ou six ans.

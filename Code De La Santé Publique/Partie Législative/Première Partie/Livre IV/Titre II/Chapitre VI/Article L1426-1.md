@@ -1,5 +1,5 @@
 Article L1426-1
 ----
-Le fait de faire obstacle aux fonctions des agents mentionnés aux articles L.
-1421-1, L. 1435-7 et L. 5313-1 est puni de six mois d'emprisonnement et de 7 500
-euros d'amende.
+Sauf disposition contraire, le représentant de l'Etat à Saint-Barthélemy et le
+représentant de l'Etat à Saint-Martin exercent les attributions dévolues par le
+présent code au représentant de l'Etat dans le département ou la région.

@@ -2,8 +2,7 @@ Article L5521-1-1
 ----
 Pour l'application à Wallis-et-Futuna de l'article L. 5121-1 :
 
-1° Au 1°, les mots : " dans le département après avis du directeur régional des
-affaires sanitaires et sociales " ne sont pas applicables ;
+1° (Abrogé) ;
 
 2° Au 2°, les mots : " ou par l'établissement pharmaceutique de cet
 établissement de santé autorisé en application de l'article L. 5124-9 " ne sont

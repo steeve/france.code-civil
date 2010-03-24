@@ -25,11 +25,10 @@ partie d'un conseil régional, central, du conseil national, d'un organe ou d'un
 chambre de discipline de l'ordre des pharmaciens.
 
 Les sanctions prononcées en exécution du présent article sont susceptibles
-d'appel devant le Conseil national de l'ordre des pharmaciens dans le mois qui
-suit la notification de la décision. L'appel est suspensif. Il peut être formé
-par le représentant de l'Etat, par les autorités exécutives de la
-Nouvelle-Calédonie ou de la Polynésie française, par l'organe de l'ordre et par
-tout intéressé.
+d'appel devant le Conseil national de l'ordre des pharmaciens. L'appel est
+suspensif. Il peut être formé par le représentant de l'Etat, par les autorités
+exécutives de la Nouvelle-Calédonie ou de la Polynésie française, par l'organe
+de l'ordre et par tout intéressé.
 
 Les peines et interdictions prononcées en application du présent article sont
 portées à la connaissance du Conseil national de l'ordre des pharmaciens par la

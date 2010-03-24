@@ -1,9 +1,6 @@
 Article L1426-2
 ----
-Les dispositions des trois premiers alinéas de l'article L. 4163-2 sont
-applicables aux membres des commissions consultatives placées auprès des
-ministres chargés de la santé et de la sécurité sociale ainsi qu'aux personnes
-qui collaborent occasionnellement aux travaux de ces commissions. Les
-dispositions des alinéas suivants de ce même article sont applicables aux
-personnes physiques et morales qui proposent ou procurent des avantages à ces
-membres ou à ces personnes.
+Pour l'application du présent code aux collectivités de Saint-Barthélemy et de
+Saint-Martin, la référence au conseil général ou aux conseils généraux est
+remplacée, sauf dispositions contraires, par la référence aux conseils
+territoriaux ou au conseil territorial.

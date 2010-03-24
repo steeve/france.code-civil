@@ -27,4 +27,7 @@ données de santé à caractère personnel que si elles sont strictement nécess
 3° Au troisième alinéa de l'article L. 1110-11, les mots : " le représentant de
 l'Etat dans la région, en accord avec le directeur régional de l'action
 sanitaire et sociale, " sont remplacés par les mots : " l'administrateur
-supérieur du territoire ".
+supérieur du territoire " ;
+
+4° A l'article L. 1110-3-1, les mots : " A Mayotte " sont remplacés par les mots
+: " A Wallis-et-Futuna ".

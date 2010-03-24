@@ -7,8 +7,8 @@ dans le bassin ;
 
 2° De représentants des usagers et de personnalités qualifiées ;
 
-3° De représentants de l'Etat et des milieux socioprofessionnels désignés par
-l'Etat.
+3° De représentants de l'Etat, de ses établissements publics concernés et des
+milieux socioprofessionnels désignés par l'Etat.
 
 Il est consulté sur l'opportunité des travaux et aménagements d'intérêt commun
 envisagés dans le bassin et plus généralement sur toute question faisant l'objet

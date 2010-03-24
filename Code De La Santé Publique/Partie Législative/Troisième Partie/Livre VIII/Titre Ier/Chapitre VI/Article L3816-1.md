@@ -1,4 +1,5 @@
 Article L3816-1
 ----
-Les dispositions du titre Ier du livre V de la présente partie, sous réserve de
-l'adaptation de l'article L. 3816-2 sont applicables à Mayotte.
+Pour son application à Mayotte, les mots " au sens du troisième alinéa (2°) de
+l'article 564 decies du code général des impôts " sont supprimés à l'article L.
+3511-1.

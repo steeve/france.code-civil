@@ -1,14 +1,8 @@
 Article L2411-1
 ----
-Les titres suivants du livre Ier de la présente partie sont applicables à
-Mayotte, sous réserve des adaptations prévues aux articles L. 2411-2 à L. 2411-9
-:
+Ne sont pas applicables à Mayotte : 1° Le dernier alinéa de l'article L. 2112-2
+et l'article L. 2112-3 ;
 
-1° Le titre Ier, à l'exception du dernier alinéa de l'article L. 2112-2 et de
-l'article L. 2112-3 ;
+2° La dernière phrase du premier alinéa de l'article L. 2122-1 ;
 
-2° Le titre II, à l'exception de la dernière phrase du premier alinéa de
-l'article L. 2122-1 ;
-
-3° Les titres III, à l'exception du deuxième alinéa de l'article L. 2132-2-1, IV
-et V.
+3° Le deuxième alinéa de l'article L. 2132-2-1.

@@ -8,7 +8,8 @@ n'est ni industriel ni commercial.
 Le ressort des centres hospitaliers peut être communal, intercommunal,
 départemental, régional, interrégional ou national. Ils sont créés par décret
 lorsque leur ressort est national, interrégional ou régional et par arrêté du
-directeur général de l'agence régionale de santé dans les autres cas.
+directeur général de l'agence régionale de santé dans les autres cas. A
+Saint-Barthélemy et à Saint-Martin, il est territorial.
 
 Les établissements publics de santé sont dotés d'un conseil de surveillance et
 dirigés par un directeur assisté d'un directoire.

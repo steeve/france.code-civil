@@ -1,4 +1,3 @@
 Article L3815-1
 ----
-Les dispositions du livre IV, à l'exception de l'article L. 3411-2, sont
-applicables à Mayotte.
+L'article L. 3411-2 n'est pas applicable à Mayotte.

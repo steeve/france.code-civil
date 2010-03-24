@@ -1,11 +1,10 @@
 Article L4441-2
 ----
 En Nouvelle-Calédonie et en Polynésie française, la juridiction de première
-instance de l'ordre des médecins est constituée par une chambre disciplinaire,
-composée de quatre membres titulaires et de quatre membres suppléants élus en
-son sein par l'assemblée générale des médecins inscrits au dernier tableau
-publié par l'organe de l'ordre de la Nouvelle-Calédonie ou de la Polynésie
-française.
+instance de l'ordre des médecins est constituée par une chambre disciplinaire
+composée d'assesseurs titulaires et un nombre égal de suppléants élus par
+l'organe de l'ordre de la Nouvelle-Calédonie ou celui de la Polynésie française
+ou, à défaut, par le Conseil national.
 
 La chambre disciplinaire ne peut valablement siéger que si l'ensemble de ses
 membres est présent.
@@ -24,13 +23,11 @@ Seuls sont éligibles, sous réserve de l'application des dispositions de
 l'article L. 4124-6 et des condamnations des juridictions chargées du
 contentieux du contrôle technique de la sécurité sociale entraînant la privation
 définitive ou partielle de faire partie d'une instance ordinale, les médecins de
-nationalité française qui, âgées de trente ans révolus, sont inscrits à l'ordre
-depuis au moins trois ans.
+nationalité française qui sont inscrits depuis au moins trois ans à l'organe de
+l'ordre des médecins de la Nouvelle-Calédonie ou à celui de la Polynésie
+française.
 
-L'assemblée générale appelée à procéder à l'élection ou au remplacement des
-membres de la chambre disciplinaire est convoquée par le Conseil national de
-l'ordre des médecins.
-
-Les élections peuvent être déférées au tribunal administratif par les médecins
-ayant le droit de vote et par le représentant de l'Etat dans des conditions
-fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat fixe la composition ainsi que les modalités
+d'élection de la chambre disciplinaire et les règles de fonctionnement et de
+procédure qu'elle doit respecter. Les élections peuvent être déférées au
+tribunal administratif dans des conditions fixées par décret en Conseil d'Etat.

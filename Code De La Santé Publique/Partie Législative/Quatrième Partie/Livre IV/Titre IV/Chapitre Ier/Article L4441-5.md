@@ -1,41 +1,33 @@
 Article L4441-5
 ----
-Pour son application en Nouvelle-Calédonie et en Polynésie française, l'article
-L. 4124-1 est ainsi rédigé :
+L'action disciplinaire contre un médecin ne peut être introduite devant la
+chambre disciplinaire que par l'une des personnes ou autorités suivantes :
 
-" Art. L. 4124-1. - La chambre disciplinaire peut être saisie par le conseil
-national, l'organe de l'ordre de la Nouvelle-Calédonie ou celui de la Polynésie
-française ou les syndicats de médecins établis en Nouvelle-Calédonie ou en
-Polynésie française, qu'ils agissent de leur propre initiative ou à la suite de
-plaintes. Elle peut également être saisie par le représentant de l'Etat, le
-procureur de la République, par l'autorité exécutive de la Nouvelle-Calédonie et
-celle de la Polynésie française ou par un médecin inscrit à un tableau de
-l'ordre.
+1° Le Conseil national ou l'organe de l'ordre de la Nouvelle-Calédonie ou celui
+de la Polynésie française, agissant de leur propre initiative ou à la suite de
+plaintes formées notamment par les patients, les organismes de sécurité sociale
+obligatoires, les médecins-conseils chefs ou responsables du service du contrôle
+médical placé auprès d'un organisme de sécurité sociale, les associations de
+défense des droits des patients, des usagers du système de santé ou des
+personnes en situation de précarité, qu'ils transmettent, le cas échéant en s'y
+associant ;
 
-Lorsqu'une plainte est portée devant l'organe administratif de l'ordre, son
-président en accuse réception et la transmet au président de la chambre
-disciplinaire de première instance dans le délai d'un mois. Il informe de cette
-transmission l'auteur de la plainte et le praticien mis en cause.
+2° Le ministre chargé de la santé, le représentant de l'Etat, le procureur de la
+République, le président du gouvernement de la Nouvelle-Calédonie ou le
+président de la Polynésie française ;
 
-En cas d'instauration d'une procédure de conciliation par délibération du
-congrès de la Nouvelle-Calédonie ou de l'assemblée de la Polynésie française, la
-transmission intervient après la constatation de l'échec de la conciliation ou,
-au plus tard, dans un délai de trois mois après la réception de la plainte. Si
-cette conciliation est obligatoire, les plaintes directement adressées par un
-médecin à la chambre disciplinaire sont transmises à l'organe administratif de
-l'ordre. L'auteur de la plainte et le praticien mis en cause sont informés de
-cette transmission.
+3° Un syndicat ou une association de praticiens.
 
-En cas de carence de l'organe de l'ordre, l'auteur de la plainte peut demander
-au président du conseil national de saisir la chambre disciplinaire de première
-instance compétente. Le président du conseil national doit répondre à cette
-demande dans le délai de deux mois.
+Les plaintes sont signées par leur auteur et, dans le cas d'une personne morale,
+par une personne justifiant de sa qualité pour agir. Dans ce dernier cas, la
+plainte est accompagnée, à peine d'irrecevabilité, de la délibération de
+l'organe statutairement compétent pour autoriser la poursuite ou, pour l'organe
+de l'ordre ou le Conseil national, de la délibération signée par le président et
+comportant l'avis motivé de l'organe ou du conseil.
 
-La chambre disciplinaire statue dans les six mois du dépôt de la plainte. A
-défaut, le président de la chambre disciplinaire nationale peut transmettre la
-plainte à une autre chambre disciplinaire.
+Lorsque la plainte est dirigée contre un étudiant non inscrit au tableau à la
+date de la saisine, l'organe ayant qualité pour saisir la chambre disciplinaire
+est celui du tableau auquel est inscrit le praticien auprès duquel a été
+effectué le remplacement ou l'assistanat.
 
-Les décisions de la chambre disciplinaire de première instance sont rendues en
-formation collégiale, sous réserve des exceptions, précisées par décret en
-Conseil d'Etat, tenant à l'objet de la saisine ou du litige ou à la nature des
-questions à examiner ou à juger. Elles doivent êtres motivées. "
+Les plaintes sont déposées ou adressées au greffe.

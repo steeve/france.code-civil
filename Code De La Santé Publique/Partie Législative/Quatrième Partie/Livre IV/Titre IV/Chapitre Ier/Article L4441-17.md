@@ -1,7 +1,7 @@
 Article L4441-17
 ----
-La chambre disciplinaire de l'ordre des sages-femmes de la Nouvelle-Calédonie et
-de la Polynésie française est composée de quatre membres titulaires et de quatre
-membres suppléants élus en son sein par l'assemblée générale des sages-femmes
-inscrites au dernier tableau publié par l'organe de l'ordre de la
-Nouvelle-Calédonie ou de la Polynésie française.
+En Nouvelle-Calédonie et en Polynésie française, la juridiction de première
+instance de l'ordre des sages-femmes est constitué par une chambre disciplinaire
+composée d'assesseurs titulaires et un nombre égal de suppléants élus par
+l'organe de l'ordre des sages-femmes de la Nouvelle-Calédonie ou celui de la
+Polynésie française, ou, à défaut, par le conseil national.

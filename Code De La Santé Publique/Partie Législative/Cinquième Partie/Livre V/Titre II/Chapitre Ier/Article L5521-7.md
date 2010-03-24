@@ -8,9 +8,21 @@ adaptations suivantes :
 mentionnés à l'article L. 6141-4 " sont remplacés par les mots : " au centre
 antipoison mentionné à l'article L. 6431-3 " ;
 
-2° Au II de l'article L. 5134-1, les mots : " ou dans les centres de
-planification ou d'éducation familiale mentionnés à l'article L. 2311-4 " ne
-sont pas applicables ;
+2° A l'article L. 5134-1 :
 
-3° Au 2° de l'article L. 5134-3, les mots : " dans les départements d'outre-mer
-" sont remplacés par les mots : " à Wallis-et-Futuna ".
+a) Au I, les mots : " dans les pharmacies " sont remplacés par les mots : " à
+l'agence de santé " et les mots : " ou un centre de planification ou d'éducation
+familiale n'est pas immédiatement accessible, " ne sont pas applicables ;
+
+b) Au II, les mots : " et uniquement en pharmacie ou dans les centres de
+planification ou d'éducation familiale mentionnés à l'article L. 2311-4 " sont
+remplacés par les mots : " à l'agence de santé " et les mots : " soit au lieu
+d'exercice du praticien, soit dans un établissement de santé ou dans un centre
+de soins agréé. " sont remplacés par les mots : " à l'agence de santé " ;
+
+c) Au III, les mots : " le médecin traitant " sont remplacés par les mots : " un
+médecin ".
+
+3° Au 2° de l'article L. 5134-3, les mots : " dans les départements d'outre-mer,
+à Saint-Barthélemy et à Saint-Martin " sont remplacés par les mots : " à
+Wallis-et-Futuna ".
