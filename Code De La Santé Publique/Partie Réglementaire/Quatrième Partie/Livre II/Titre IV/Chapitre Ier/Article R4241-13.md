@@ -3,4 +3,6 @@ Article R4241-13
 Les dispositions des articles R. 4331-12 à R. 4331-15 sont applicables à la
 prestation de services des préparateurs en pharmacie et des préparateurs en
 pharmacie hospitalière dont la déclaration est prévue aux articles L. 4241-11 et
-L. 4241-16.
+L. 4241-16. Le ministre chargé de la santé se prononce après avis de la
+commission mentionnée à l'article D. 4241-20. Il est également l'autorité
+compétente pour l'application de l'article R. 4331-14.

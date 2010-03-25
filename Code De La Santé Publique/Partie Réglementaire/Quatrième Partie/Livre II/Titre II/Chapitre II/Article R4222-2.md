@@ -5,12 +5,12 @@ mentionnées à l'article R. 4112-1, à l'exception du 3°.
 
 Il fournit en outre une copie, accompagnée le cas échéant d'une traduction faite
 par un traducteur agréé auprès des tribunaux français ou habilité à intervenir
-auprès des autorités judiciaires ou administratives d'un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen, de
-l'un des titres de formation exigés par le 1° de l'article L. 4221-1, à laquelle
-sont joints :
+auprès des autorités judiciaires ou administratives d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen, de l'un des
+titres de formation exigés par le 1° de l'article L. 4221-1, à laquelle sont
+joints :
 
-1° Lorsque le demandeur est un ressortissant d'un Etat membre de la Communauté
+1° Lorsque le demandeur est un ressortissant d'un Etat membre de l'Union
 européenne ou partie à l'accord sur l'Espace économique européen : la ou les
 attestations prévues par les textes pris en application des articles L. 4221-4
 et L. 4221-5 ;

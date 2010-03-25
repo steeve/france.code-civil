@@ -22,9 +22,9 @@ Lorsque le praticien exerce dans un établissement de santé, la décision de re
 d'inscription est en outre notifiée au directeur de l'agence régionale de
 l'hospitalisation.
 
-Lorsque le praticien est ressortissant de l'un des Etats membres de la
-Communauté européenne ou parties à l'accord sur l'Espace économique européen, la
-décision de refus d'inscription est en outre notifiée à l'autorité compétente de
-l'Etat membre ou partie d'origine et, le cas échéant, à l'Etat membre ou partie
-de provenance ainsi qu'à l'Etat membre ou partie d'accueil connus à la date de
-la notification.
+Lorsque le praticien est ressortissant de l'un des Etats membres de l'Union
+européenne ou parties à l'accord sur l'Espace économique européen, la décision
+de refus d'inscription est en outre notifiée à l'autorité compétente de l'Etat
+membre ou partie d'origine et, le cas échéant, à l'Etat membre ou partie de
+provenance ainsi qu'à l'Etat membre ou partie d'accueil connus à la date de la
+notification.

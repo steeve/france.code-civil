@@ -1,13 +1,15 @@
 Article R1132-1
 ----
-Le diplôme d'Etat français de conseiller en génétique atteste les compétences
-requises pour l'exercice de la profession de conseiller en génétique.
+Le préfet de la région dans le ressort de laquelle se situe le lieu
+d'établissement de l'intéressé délivre, après avis de la commission des
+conseillers en génétique mentionnée à l'article R. 1132-4-1, l'autorisation
+d'exercice prévue à l'article L. 1132-3, au vu d'une demande accompagnée d'un
+dossier présenté et instruit selon les modalités fixées par l'arrêté mentionné à
+l'article R. 1132-3.
 
-Il est délivré par le préfet de région aux personnes qui ont suivi une formation
-préparatoire à ce diplôme et subi avec succès les épreuves d'un examen à l'issue
-de cet enseignement ou aux personnes ayant validé les acquis de leur expérience
-professionnelle en vue de son obtention.
+Il accuse réception de la demande dans le délai d'un mois à compter de sa
+réception.
 
-Un arrêté du ministre chargé de la santé définit les compétences requises pour
-l'exercice de la profession de conseiller en génétique ainsi que les modalités
-de leur évaluation.
+Le silence gardé par le préfet de région à l'expiration d'un délai de quatre
+mois à compter de la réception du dossier complet vaut décision de rejet de la
+demande.

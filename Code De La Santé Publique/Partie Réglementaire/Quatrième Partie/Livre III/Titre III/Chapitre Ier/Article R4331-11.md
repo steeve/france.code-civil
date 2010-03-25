@@ -1,11 +1,12 @@
 Article R4331-11
 ----
-Sont fixées par arrêté du ministre chargé de la santé : 1° La composition du
-dossier produit à l'appui de la demande d'autorisation ;
+Sont fixées par arrêté du ministre chargé de la santé :
 
-2° Les modalités d'organisation et la composition du jury de l'épreuve
-d'aptitude ;
+1° La composition du dossier produit à l'appui de la demande d'autorisation ;
+
+2° La composition du jury de l'épreuve d'aptitude et les modalités
+d'organisation de cette épreuve ;
 
 3° Les modalités d'organisation et d'évaluation du stage d'adaptation ;
 
-4° Les modalités du contrôle des connaissances linguistiques.
+4° Les informations à fournir dans les états statistiques.
