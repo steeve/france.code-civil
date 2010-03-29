@@ -47,7 +47,14 @@ mortels ;
 
 11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère
 de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir
-des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
+des accidents mettant en cause des sapeurs-pompiers civils ou militaires ;
+
+12° Le directeur général de l'Agence française de sécurité sanitaire des
+produits de santé, pour la réalisation de recherches ou enquêtes scientifiques
+ou techniques, permettant d'adopter, à des fins de protection de la santé
+publique, toute mesure utile, notamment les mesures de police sanitaires
+nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un
+produit ou une activité relevant de sa compétence.
 
 II.-L'autorisation accordée par le procureur de la République peut être délivrée
 sans limitation de temps sous réserve de la possibilité d'y mettre fin à tout
