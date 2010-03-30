@@ -13,5 +13,6 @@ Il organise l'utilisation optimale de l'ensemble des moyens affectés à la
 direction régionale et aux directions départementales.
 
 A ce titre, il préside le comité technique régional et interdépartemental
-réunissant le directeur régional et les directeurs départementaux des affaires
-sanitaires et sociales des départements compris dans la région.
+réunissant le directeur régional, le médecin inspecteur régional et les
+directeurs départementaux des affaires sanitaires et sociales des départements
+compris dans la région.
