@@ -3,7 +3,8 @@ Article R1416-20
 Lorsqu'il est consulté sur les déclarations d'insalubrité, le conseil peut se
 réunir en formation spécialisée, présidée par le préfet et comprenant :
 
-1° Trois représentants des services de l'Etat ;
+1° Deux représentants des services de l'Etat et le directeur général de l'agence
+régionale de santé ou son représentant ;
 
 2° Deux représentants des collectivités territoriales ;
 

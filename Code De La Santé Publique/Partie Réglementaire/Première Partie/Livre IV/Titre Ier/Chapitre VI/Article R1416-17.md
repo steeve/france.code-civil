@@ -6,7 +6,9 @@ pour les affaires relevant de ses attributions.
 
 Il comprend :
 
-1° Sept représentants des services de l'Etat ;
+1° Six représentants des services de l'Etat ;
+
+1° bis Le directeur général de l'agence régionale de santé ou son représentant ;
 
 2° Cinq représentants des collectivités territoriales ;
 
@@ -22,3 +24,5 @@ les mêmes conditions que les membres titulaires.
 
 A Paris, les membres du conseil désignés au titre des 2°, 3° et 4° sont nommés
 par arrêté conjoint du préfet et du préfet de police.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
